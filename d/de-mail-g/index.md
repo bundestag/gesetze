@@ -43,8 +43,8 @@ dienen, bleiben unberührt.
 
 ### § 2 Zuständige Behörde
 
-Zuständige Behörde nach diesem Gesetz und der Rechtsverordnung nach §
-24 ist das Bundesamt für Sicherheit in der Informationstechnik.
+Zuständige Behörde nach diesem Gesetz ist das Bundesamt für Sicherheit
+in der Informationstechnik.
 
 
 ## Abschnitt 2 - Pflichtangebote und optionale Angebote des Diensteanbieters
@@ -235,13 +235,27 @@ Empfänger (Ende-zu-Ende-Verschlüsselung) bleibt hiervon unberührt.
 (4) Der Sender kann eine sichere Anmeldung nach § 4 für den Abruf der
 Nachricht durch den Empfänger bestimmen.
 
-(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen,
-seine sichere Anmeldung im Sinne von § 4 in der Nachricht so
-bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung
-jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht
-kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des
-Senders die Verwendung der sicheren Anmeldung nach § 4 durch eine
-qualifizierte elektronische Signatur.
+(5) Der akkreditierte Diensteanbieter muss dem Nutzer ermöglichen, seine
+sichere Anmeldung im Sinne von § 4 in der Nachricht so bestätigen zu lassen,
+dass die Unverfälschtheit der Bestätigung jederzeit nachprüfbar ist. Um
+dieses dem Empfänger der Nachricht kenntlich zu machen, bestätigt der
+akkreditierte Diensteanbieter des Senders die Verwendung der sicheren
+Anmeldung nach § 4. Hierzu versieht er im Auftrag des Senders die Nachricht
+mit einer qualifizierten elektronischen Signatur; sind der Nachricht ein oder
+mehrere Dateien beigefügt, bezieht sich die qualifizierte elektronische
+Signatur auch auf diese. Die Bestätigung enthält bei natürlichen Personen den
+Namen und die Vornamen, bei juristischen Personen, Personengesellschaften
+oder öffentlichen Stellen die Firma, den Namen oder die Bezeichnung des
+Senders in der Form, in der diese nach § 3 Absatz 2 hinterlegt sind.
+Verwaltet eine öffentliche Stelle für andere öffentliche Stellen ein oder
+mehrere De-Mail-Konten und sind lediglich die Daten der verwaltenden
+öffentliche Stelle nach § 3 Absatz 2 hinterlegt, so hat der akkreditierte
+Diensteanbieter dafür Sorge zu tragen, dass anstelle der Bezeichnung nach § 3
+Absatz 2 die Bezeichnung der absendenden öffentlichen Stelle verwendet wird.
+Die Tatsache, dass der Absender diese Versandart genutzt hat, muss sich aus
+der Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die
+Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer pseudonymen
+De-Mail-Adresse nach Absatz 2.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter
 nach § 19 ist verpflichtet, elektronische Nachrichten nach den
@@ -404,11 +418,20 @@ Diensteanbieter fortgeführt wird oder die zuständige Behörde die
 Löschung aus dem Verzeichnisdienst anordnet. Weitere Gründe für eine
 Löschung können vertraglich vereinbart werden.
 
-(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf
-ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt
-nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
+(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf ein
+Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt nicht als
+Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
 Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
-Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung.
+Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung. Auf
+Verlangen des Nutzers muss der akkreditierte Diensteanbieter durch einen
+geeigneten Zusatz die Erklärung des Nutzers im Verzeichnisdienst
+veröffentlichen, den Zugang im Sinne von § 3a des
+Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
+Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung eröffnen
+zu wollen. Die Veröffentlichung der De-Mail-Adresse des Nutzers als
+Verbraucher mit diesem Zusatz im Verzeichnisdienst gilt als Zugangseröffnung.
+Satz 2 gilt entsprechend für die Entscheidung des Nutzers, die
+Zugangseröffnung zurückzunehmen.
 
 (4) § 47 des Telekommunikationsgesetzes gilt entsprechend.
 

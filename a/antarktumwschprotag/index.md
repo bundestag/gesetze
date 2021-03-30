@@ -99,11 +99,11 @@ Bundesrepublik Deutschland.
 
 
 durchgeführt wird, bedarf einer Genehmigung. Die Genehmigung ist beim
-Umweltbundesamt schriftlich zu beantragen. Ausländische juristische
-Personen müssen eine Person im Sinne der Nummern 1 bis 3 benennen, die
-als Antragsteller im Sinne dieses Gesetzes gilt. Für eine Gruppe von
-Personen, die gemeinsam eine Tätigkeit durchführen wollen, kann dem
-Antragsteller als Bevollmächtigtem nach den §§ 14 bis 21 des
+Umweltbundesamt schriftlich oder elektronisch zu beantragen. Ausländische
+juristische Personen müssen eine Person im Sinne der Nummern 1 bis 3
+benennen, die als Antragsteller im Sinne dieses Gesetzes gilt. Für eine
+Gruppe von Personen, die gemeinsam eine Tätigkeit durchführen wollen,
+kann dem Antragsteller als Bevollmächtigtem nach den §§ 14 bis 21 des
 Verwaltungsverfahrensgesetzes eine alle Teilnehmer erfassende
 Genehmigung erteilt werden. Für gleichartige Tätigkeiten, die
 regelmäßig in der Antarktis durchgeführt werden, kann eine Genehmigung
@@ -366,9 +366,10 @@ ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
 lediglich weniger als geringfügige oder vorübergehende Auswirkungen
 gemäß § 4 Abs. 3 Nr. 1 besorgen lassen, sind abweichend von § 3 Abs. 1
 dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich
-anzuzeigen. Die Anzeige hat darzulegen, daß die Tätigkeit lediglich
-weniger als geringfügige oder vorübergehende Auswirkungen auf die
-Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1 gilt entsprechend.
+oder elektronisch anzuzeigen. Die Anzeige hat darzulegen, daß die
+Tätigkeit lediglich weniger als geringfügige oder vorübergehende
+Auswirkungen auf die Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1
+gilt entsprechend.
 
 (2) Ergibt die Prüfung, daß die angezeigte Tätigkeit lediglich weniger
 als geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs.
@@ -524,17 +525,17 @@ vorzulegen, die insbesondere folgende Angaben enthalten muß:
 
 ## § 9 Öffentliche Auslegung, Einwendungen
 
-(1) Der Antrag auf Erteilung der Genehmigung und die Untersuchung nach
-§ 8 Abs. 3 sind, mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1,
-am Sitz des Umweltbundesamtes neunzig Tage zur Einsicht auszulegen.
-Während der Auslegungsfrist können Einwendungen zu der Untersuchung
-schriftlich oder zur Niederschrift beim Umweltbundesamt abgegeben
-werden. Schriftliche Einwendungen sollen auch in englischer Sprache
-vorgelegt werden. Wird eine Übersetzung in die englische Sprache nicht
-unverzüglich vorgelegt, so kann das Umweltbundesamt auf Kosten des
-Einwenders selbst eine solche beschaffen und von diesem hierfür in
-Höhe der voraussichtlich entstehenden Kosten einen Vorschuß verlangen.
-Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen.
+(1) Der Antrag auf Erteilung der Genehmigung und die Untersuchung nach § 8
+Abs. 3 sind, mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1, am Sitz des
+Umweltbundesamtes neunzig Tage zur Einsicht auszulegen. Während der
+Auslegungsfrist können beim Umweltbundesamt Einwendungen zu der Untersuchung
+schriftlich, elektronisch oder zur Niederschrift abgegeben werden.
+Schriftliche oder elektronische Einwendungen sollen auch in englischer Sprache
+eingebracht werden. Wird eine Übersetzung in die englische Sprache nicht
+unverzüglich eingebracht, so kann das Umweltbundesamt auf Kosten des
+Einwenders selbst eine solche beschaffen und von diesem hierfür in Höhe der
+voraussichtlich entstehenden Kosten einen Vorschuß verlangen. Mit Ablauf der
+Einwendungsfrist sind alle Einwendungen ausgeschlossen.
 
 (2) Das Umweltbundesamt hat die Auslegung mindestens drei Wochen
 vorher im Bundesanzeiger öffentlich bekanntzumachen. In der

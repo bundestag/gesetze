@@ -33,7 +33,9 @@ Bundesminister für Raumordnung, Bauwesen und Städtebau:
 Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem
 für den Planinhalt ausreichenden Grade erkennen lassen
 (Planunterlagen). Die Maßstäbe sind so zu wählen, daß der Inhalt der
-Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann.
+Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann. Die
+Karten können zusätzlich digital in einem offenen Dateiformat für die
+Bereitstellung im Internet hergestellt werden.
 
 (2) Aus den Planunterlagen für Bebauungspläne sollen sich die
 Flurstücke mit ihren Grenzen und Bezeichnungen in Übereinstimmung mit

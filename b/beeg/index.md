@@ -627,9 +627,9 @@ der ersten Hälfte gezahlt wurde.
 
 ### § 7 Antragstellung
 
-(1) Das Elterngeld ist schriftlich zu beantragen. Es wird rückwirkend
-nur für die letzten drei Monate vor Beginn des Monats geleistet, in
-dem der Antrag auf Elterngeld eingegangen ist.
+(1) Das Elterngeld ist schriftlich oder elektronisch zu beantragen. Es wird
+rückwirkend nur für die letzten drei Monate vor Beginn des Monats geleistet,
+in dem der Antrag auf Elterngeld eingegangen ist.
 
 (2) In dem Antrag ist anzugeben, für welche Monate Elterngeld
 beantragt wird. Die im Antrag getroffenen Entscheidungen können bis
@@ -640,20 +640,21 @@ außer in den Fällen besonderer Härte unzulässig, soweit Monatsbeträge
 bereits ausgezahlt sind. Im Übrigen finden die für die Antragstellung
 geltenden Vorschriften auch auf den Änderungsantrag Anwendung.
 
-(3) Der Antrag ist außer in den Fällen des § 4 Abs. 3 Satz 3 und 4 und
-der Antragstellung durch eine allein sorgeberechtigte Person von der
-Person, die ihn stellt, und zur Bestätigung der Kenntnisnahme auch von
-der anderen berechtigten Person zu unterschreiben. Die andere
-berechtigte Person kann gleichzeitig einen Antrag auf das von ihr
-beanspruchte Elterngeld stellen oder der Behörde anzeigen, für wie
-viele Monate sie Elterngeld beansprucht, wenn mit ihrem Anspruch die
-Höchstgrenze nach § 4 Abs. 2 Satz 2 und 3 überschritten würde. Liegt
-der Behörde weder ein Antrag noch eine Anzeige der anderen
-berechtigten Person nach Satz 2 vor, erhält der Antragsteller oder die
-Antragstellerin die Monatsbeträge ausgezahlt; die andere berechtigte
-Person kann bei einem späteren Antrag abweichend von § 5 Abs. 2 nur
-für die unter Berücksichtigung von § 4 Abs. 2 Satz 2 und 3
-verbleibenden Monate Elterngeld erhalten.
+(3) Der Antrag ist außer in den Fällen des § 4 Abs. 3 Satz 3 und 4 und der
+Antragstellung durch eine allein sorgeberechtigte Person von der Person, die
+ihn stellt, und zur Bestätigung der Kenntnisnahme auch von der anderen
+berechtigten Person zu unterschreiben. Erfolgt die Beantragung nach Absatz 1
+Satz 1 elektronisch, ist die Bestätigung der Kenntnisnahme nach Satz 1 auf
+andere geeignete elektronische Weise als durch eine Unterschrift
+sicherzustellen. Die andere berechtigte Person kann gleichzeitig einen Antrag
+auf das von ihr beanspruchte Elterngeld stellen oder der Behörde anzeigen, für
+wie viele Monate sie Elterngeld beansprucht, wenn mit ihrem Anspruch die
+Höchstgrenze nach § 4 Abs. 2 Satz 2 und 3 überschritten würde. Liegt der
+Behörde weder ein Antrag noch eine Anzeige der anderen berechtigten Person
+nach Satz 2 vor, erhält der Antragsteller oder die Antragstellerin die
+Monatsbeträge ausgezahlt; die andere berechtigte Person kann bei einem
+späteren Antrag abweichend von § 5 Abs. 2 nur für die unter Berücksichtigung
+von § 4 Abs. 2 Satz 2 und 3 verbleibenden Monate Elterngeld erhalten.
 
 
 ### § 8 Auskunftspflicht, Nebenbestimmungen

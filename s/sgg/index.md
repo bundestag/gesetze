@@ -1810,8 +1810,8 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 ##### § 84
 
 (1) Der Widerspruch ist binnen eines Monats, nachdem der
-Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich
-oder zur Niederschrift bei der Stelle einzureichen, die den
+Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
+elektronisch oder zur Niederschrift bei der Stelle einzureichen, die den
 Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im
 Ausland drei Monate.
 

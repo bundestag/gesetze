@@ -6373,9 +6373,10 @@ Berücksichtigung der schutzwürdigen Interessen der Betroffenen und der
 Voraussetzungen des Signaturgesetzes das Nähere zu den Grundsätzen
 ordnungsmäßiger Aufbewahrung im Sinne des § 110a, den Voraussetzungen
 der Rückgabe und Vernichtung von Unterlagen sowie die
-Aufbewahrungsfristen für Unterlagen. Die Vereinbarung kann auf
-bestimmte Sozialleistungsbereiche beschränkt werden; sie ist von den
-beteiligten Spitzenverbänden abzuschließen. Die Vereinbarungen
+Aufbewahrungsfristen für Unterlagen. Dies gilt entsprechend für die
+ergänzenden Vorschriften des E-Government-Gesetzes. Die Vereinbarung
+kann auf bestimmte Sozialleistungsbereiche beschränkt werden; sie ist von
+den beteiligten Spitzenverbänden abzuschließen. Die Vereinbarungen
 bedürfen der Genehmigung der beteiligten Bundesministerien.
 
 (2) Soweit Vereinbarungen nicht getroffen sind, wird die

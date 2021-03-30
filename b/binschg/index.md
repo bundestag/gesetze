@@ -75,13 +75,6 @@ zuständig bestimmte Behörde bedient sich der Hilfe der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen (Bundesnetzagentur).
 
-(3) Soweit auf Grund dieses Gesetzes oder auf Grund dieses Gesetzes
-erlassener Rechtsverordnungen Zeugnisse oder andere Dokumente
-ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist
-oder die auszuhändigen, vorzulegen oder mitzuführen sind, ist die
-elektronische Form ausgeschlossen, sofern nicht durch Rechtsverordnung
-etwas anderes ausdrücklich geregelt ist.
-
 
 ## § 2 Erlaubnis zur Fahrt
 

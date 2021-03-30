@@ -746,12 +746,7 @@ Gefahrenabwehr auf dem Schiff müssen die Bewerber
 
 ## § 19
 
-Soweit durch diese Rechtsverordnung Schriftform einschließlich für
-Prüfungen angeordnet ist, eine Zweitschrift, Urschrift, Abschrift oder
-Niederschrift anzufertigen ist oder Zeugnisse, Bescheinigungen oder
-andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu
-beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind,
-ist die elektronische Form ausgeschlossen.
+(weggefallen)
 
 
 ## § 19a

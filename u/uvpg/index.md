@@ -665,8 +665,9 @@ darauf hinzuwirken, dass
     wird,
 
 
-2.  dabei angegeben wird, welcher Behörde die betroffene Öffentlichkeit im
-    Verfahren nach § 9 Abs. 1 oder 3 Äußerungen übermitteln kann,
+2.  dabei angegeben wird, welcher Behörde und in welcher Form die betroffene
+    Öffentlichkeit im Verfahren nach § 9 Abs. 1 oder 3 Äußerungen übermitteln
+    kann,
 
 
 3.  dabei darauf hingewiesen wird, dass im Verfahren nach § 9 Abs. 1 mit
@@ -681,7 +682,12 @@ darauf hinzuwirken, dass
     zugänglich gemacht wird.
 
 
-
+In einem Beteiligungsverfahren nach Satz 1 kann die zuständige Behörde der
+betroffenen Öffentlichkeit des anderen Staates die elektronische Übermittlung
+von Äußerungen auch abweichend von den Voraussetzungen des § 3a Absatz 2 des
+Verwaltungsverfahrensgesetzes gestatten, sofern im Verhältnis zum anderen
+Staat hierfür die Voraussetzungen der Grundsätze von Gegenseitigkeit und
+Gleichwertigkeit erfüllt sind.
 
 (2) Die zuständige Behörde kann verlangen, dass ihr der Träger des
 Vorhabens eine Übersetzung der Zusammenfassung nach § 6 Abs. 3 Satz 2

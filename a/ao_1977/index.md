@@ -841,6 +841,15 @@ nicht der Zustimmung des Bundesrates, sowie sie Einfuhr- und
 Ausfuhrabgaben und Verbrauchsteuern, mit Ausnahme der Biersteuer,
 betreffen.
 
+(7) Werden dem Steuergeheimnis unterliegende Daten durch einen Amtsträger oder
+diesem nach Absatz 3 gleichgestellte Personen nach Maßgabe des § 87a Absatz 4
+über De-Mail-Dienste im Sinne des § 1 des De-Mail-Gesetzes versendet, liegt
+keine unbefugte Offenbarung, Verwertung und kein unbefugter Abruf von dem
+Steuergeheimnis unterliegenden Daten vor, wenn beim Versenden eine kurzzeitige
+automatisierte Entschlüsselung durch den akkreditierten Diensteanbieter zum
+Zweck der Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den
+Adressaten der De-Mail-Nachricht stattfindet.
+
 
 #### § 30a Schutz von Bankkunden
 
@@ -2462,7 +2471,12 @@ Empfänger hierfür einen Zugang eröffnet. Ein elektronisches Dokument
 ist zugegangen, sobald die für den Empfang bestimmte Einrichtung es in
 für den Empfänger bearbeitbarer Weise aufgezeichnet hat. Übermittelt
 die Finanzbehörde Daten, die dem Steuergeheimnis unterliegen, sind
-diese Daten mit einem geeigneten Verfahren zu verschlüsseln.
+diese Daten mit einem geeigneten Verfahren zu verschlüsseln. Die
+kurzzeitige automatisierte Entschlüsselung, die beim Versenden einer
+DeMail- Nachricht durch den akkreditierten Diensteanbieter zum Zweck der
+Überprüfung auf Schadsoftware und zum Zweck der Weiterleitung an den
+Adressaten der De-Mail-Nachricht erfolgt, verstößt nicht gegen das
+Verschlüsselungsgebot des Satzes 3.
 
 (2) Ist ein der Finanzbehörde übermitteltes elektronisches Dokument
 für sie zur Bearbeitung nicht geeignet, hat sie dies dem Absender
@@ -2472,20 +2486,36 @@ von der Finanzbehörde übermittelte elektronische Dokument nicht
 bearbeiten, hat sie es ihm erneut in einem geeigneten elektronischen
 Format oder als Schriftstück zu übermitteln.
 
-(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an
-die Finanzbehörden angeordnete Schriftform kann, soweit nicht durch
-Gesetz etwas anderes bestimmt ist, durch die elektronische Form
-ersetzt werden. In diesem Fall ist das elektronische Dokument mit
-einer qualifizierten elektronischen Signatur nach dem Signaturgesetz
-zu versehen. Die Signierung mit einem Pseudonym ist nicht zulässig.
+(3) Eine durch Gesetz für Anträge, Erklärungen oder Mitteilungen an die
+Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas
+anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der
+elektronischen Form genügt ein elektronisches Dokument, das mit einer
+qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist.
+Die Signierung mit einem Pseudonym ist nicht zulässig. Die Schriftform kann
+auch ersetzt werden
+
+    1. durch unmittelbare Abgabe der Erklärung in einem elektronischen
+    Formular, das von der Behörde in einem Eingabegerät oder über öffentlich
+    zugängliche Netze zur Verfügung gestellt wird;
+
+
+    2. durch Versendung eines elektronischen Dokuments an die Behörde mit der
+    Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes. In den Fällen des
+    Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich zugängliche Netze
+    ein sicherer Identitätsnachweis nach § 18 des Personalausweisgesetzes oder
+    nach § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen.
+
 
 (4) Eine durch Gesetz für Verwaltungsakte oder sonstige Maßnahmen der
-Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz
-etwas anderes bestimmt ist, durch die elektronische Form ersetzt
-werden. In diesem Fall ist das elektronische Dokument mit einer
-qualifizierten elektronischen Signatur nach dem Signaturgesetz zu
-versehen. Für von der Finanzbehörde aufzunehmende Niederschriften gilt
-Satz 1 nur, wenn dies durch Gesetz ausdrücklich zugelassen ist.
+Finanzbehörden angeordnete Schriftform kann, soweit nicht durch Gesetz etwas
+anderes bestimmt ist, durch die elektronische Form ersetzt werden. Der
+elektronischen Form genügt ein elektronisches Dokument, das mit einer
+qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist.
+Die Schriftform kann auch ersetzt werden durch Versendung einer De-Mail-
+Nachricht nach § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Signatur des
+Diensteanbieters die Finanzbehörde erkennen lässt. Für von der Finanzbehörde
+aufzunehmende Niederschriften gelten die Sätze 1 und 3 nur, wenn dies durch
+Gesetz ausdrücklich zugelassen ist.
 
 (5) Ist ein elektronisches Dokument Gegenstand eines Beweises, wird
 der Beweis durch Vorlegung oder Übermittlung der Datei angetreten;
@@ -3731,7 +3761,9 @@ Einrichtungen erlassen wird. Ist für einen Verwaltungsakt durch Gesetz
 eine Schriftform angeordnet, so muss bei einem elektronischen
 Verwaltungsakt auch das der Signatur zugrunde liegende qualifizierte
 Zertifikat oder ein zugehöriges qualifiziertes Attributzertifikat die
-erlassende Behörde erkennen lassen.
+erlassende Behörde erkennen lassen. Im Falle des § 87a Absatz 4
+Satz 3 muss die Signatur des Diensteanbieters die erlassende
+Finanzbehörde erkennen lassen.
 
 
 #### § 120 Nebenbestimmungen zum Verwaltungsakt

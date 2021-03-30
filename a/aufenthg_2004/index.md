@@ -314,7 +314,7 @@ gerichtet ausübt, muss prüfen, ob die Voraussetzungen nach Satz 2 oder
 Satz 3 vorliegen. Wer im Bundesgebiet einen Ausländer beschäftigt,
 muss für die Dauer der Beschäftigung eine Kopie des Aufenthaltstitels
 oder der Bescheinigung über die Aufenthaltsgestattung oder über die
-Aussetzung der Abschiebung des Ausländers in elektronischer Form oder
+Aussetzung der Abschiebung des Ausländers elektronisch oder
 in Papierform aufbewahren.
 
 (4) Eines Aufenthaltstitels bedürfen auch Ausländer, die als
@@ -6522,7 +6522,7 @@ der freiwilligen Rückkehr übermittelt werden.
 Aufzeichnungen zu fertigen. § 13 des AZR-Gesetzes gilt entsprechend.
 
 (7) Die Datenübermittlungen nach den Absätzen 3 und 5 erfolgen
-schriftlich, in elektronischer Form oder im automatisierten Verfahren.
+schriftlich, elektronisch oder im automatisierten Verfahren.
 § 22 Abs. 2 bis 4 des AZR-Gesetzes gilt entsprechend.
 
 (8) Die Daten sind spätestens zwei Jahre nach Beendigung des

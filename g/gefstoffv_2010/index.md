@@ -1697,9 +1697,9 @@ von Sicherheitsdatenblättern nachzuweisen.
 
 ### § 19 Behördliche Ausnahmen, Anordnungen und Befugnisse
 
-(1) Die zuständige Behörde kann auf schriftlichen Antrag des
-Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die
-Anwendung dieser Vorschriften im Einzelfall zu einer
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen
+Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen,
+wenn die Anwendung dieser Vorschriften im Einzelfall zu einer
 unverhältnismäßigen Härte führen würde und die Abweichung mit dem
 Schutz der Beschäftigten vereinbar ist. Der Arbeitgeber hat der
 zuständigen Behörde im Antrag darzulegen:

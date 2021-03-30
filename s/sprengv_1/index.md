@@ -1650,16 +1650,16 @@ Am 31. Dezember und 1. Januar dürfen sie auch von Personen abgebrannt
 werden, die das 18. Lebensjahr vollendet haben.
 
 (3) Der Erlaubnis- oder Befähigungsscheininhaber hat das beabsichtigte
-Feuerwerk zum Abbrennen von pyrotechnischen Gegenständen der Kategorie
-2 in der Zeit vom 2. Januar bis zum 30. Dezember, der Kategorien 3, 4,
-P1, P2, T1 oder T2 ganzjährig der zuständigen Behörde zwei Wochen, ein
-Feuerwerk in unmittelbarer Nähe von Eisenbahnanlagen, Flughäfen oder
-Bundeswasserstraßen, die Seeschifffahrtsstraßen sind, vier Wochen
-vorher schriftlich anzuzeigen. Satz 1 findet keine Anwendung auf die
-Vorführung von Effekten mit pyrotechnischen Gegenständen und deren
-Sätzen in Theatern und vergleichbaren Einrichtungen. Die zuständige
-Behörde kann im Einzelfall auf die Einhaltung der Frist nach Satz 1
-verzichten, wenn dies aus besonderen Gründen gerechtfertigt erscheint.
+Feuerwerk zum Abbrennen von pyrotechnischen Gegenständen der Kategorie 2 in
+der Zeit vom 2. Januar bis zum 30. Dezember, der Kategorien 3, 4, P1, P2, T1
+oder T2 ganzjährig der zuständigen Behörde zwei Wochen, ein Feuerwerk in
+unmittelbarer Nähe von Eisenbahnanlagen, Flughäfen oder Bundeswasserstraßen,
+die Seeschifffahrtsstraßen sind, vier Wochen vorher schriftlich oder
+elektronisch anzuzeigen. Satz 1 findet keine Anwendung auf die Vorführung von
+Effekten mit pyrotechnischen Gegenständen und deren Sätzen in Theatern und
+vergleichbaren Einrichtungen. Die zuständige Behörde kann im Einzelfall auf
+die Einhaltung der Frist nach Satz 1 verzichten, wenn dies aus besonderen
+Gründen gerechtfertigt erscheint.
 
 (4) In der Anzeige nach Absatz 3 sind anzugeben:
 
@@ -1706,11 +1706,11 @@ Genehmigungen können versagt und mit Auflagen verbunden werden, soweit
 dies zum Schutz von Leben, Gesundheit und Sachgütern Mitwirkender oder
 Dritter erforderlich ist.
 
-(7) Wer in eigener Person außerhalb der Räume seiner Niederlassung
-oder ohne eine solche zu haben, auf Tourneen pyrotechnische Effekte in
-Anwesenheit von Besuchern verwenden will, hat dies der zuständigen
-Behörde zwei Wochen vorher schriftlich anzuzeigen. Absatz 4 Nummer 1,
-2 und 4 sowie Absatz 3 Satz 3 gelten entsprechend.
+(7) Wer in eigener Person außerhalb der Räume seiner Niederlassung oder ohne
+eine solche zu haben, auf Tourneen pyrotechnische Effekte in Anwesenheit von
+Besuchern verwenden will, hat dies der zuständigen Behörde zwei Wochen vorher
+schriftlich oder elektronisch anzuzeigen. Absatz 4 Nummer 1, 2 und 4 sowie
+Absatz 3 Satz 3 gelten entsprechend.
 
 
 ### § 24
@@ -1764,10 +1764,10 @@ und des Empfängers unverzüglich schriftlich mitzuteilen.
 
 ### § 25a
 
-(1) Die Genehmigung des Verbringens von Explosivstoffen nach § 15 Abs.
-6 Satz 1 des Gesetzes ist vom Empfänger der Explosivstoffe oder seinem
-Bevollmächtigten schriftlich bei der nach § 15 Abs. 7 des Gesetzes
-zuständigen Stelle zu beantragen.
+(1) Die Genehmigung des Verbringens von Explosivstoffen nach § 15 Abs. 6 Satz
+1 des Gesetzes ist vom Empfänger der Explosivstoffe oder seinem
+Bevollmächtigten schriftlich oder elektronisch bei der nach § 15 Abs. 7 des
+Gesetzes zuständigen Stelle zu beantragen.
 
 (2) Der Antrag nach Absatz 1 hat die in Anlage 6 Nr. 1 aufgeführten
 Angaben zu enthalten. Anträge auf Genehmigung des

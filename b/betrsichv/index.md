@@ -700,12 +700,11 @@ Anwendung auf
 
 
 
-(2) Die Erlaubnis ist schriftlich zu beantragen. Dem Antrag auf
-Erlaubnis sind alle für die Beurteilung der Anlage notwendigen
-Unterlagen beizufügen. Mit dem Antrag ist die gutachterliche Äußerung
-einer zugelassenen Überwachungsstelle einzureichen, aus der
-hervorgeht, dass Aufstellung, Bauart und Betriebsweise der Anlage den
-Anforderungen dieser Verordnung entsprechen.
+(2) Die Erlaubnis ist schriftlich oder elektronisch zu beantragen. Dem Antrag
+auf Erlaubnis sind alle für die Beurteilung der Anlage notwendigen Unterlagen
+beizufügen. Mit dem Antrag ist die gutachterliche Äußerung einer zugelassenen
+Überwachungsstelle einzureichen, aus der hervorgeht, dass Aufstellung, Bauart
+und Betriebsweise der Anlage den Anforderungen dieser Verordnung entsprechen.
 
 (3) Bei Anlagen nach Absatz 1 Nr. 3 und 4 ist abweichend von Absatz 2
 die Beteiligung einer zugelassenen Überwachungsstelle nicht
@@ -1348,8 +1347,8 @@ anzuzeigen.
 das anzuzeigende Ereignis auf seine Kosten durch eine möglichst im
 gegenseitigen Einvernehmen bestimmte zugelassene Überwachungsstelle
 sicherheitstechnisch beurteilen lässt und ihr die Beurteilung
-schriftlich vorlegt. Die sicherheitstechnische Beurteilung hat sich
-insbesondere auf die Feststellung zu erstrecken,
+schriftlich oder elektronisch vorlegt. Die sicherheitstechnische Beurteilung
+hat sich insbesondere auf die Feststellung zu erstrecken,
 
 1.  worauf das Ereignis zurückzuführen ist,
 

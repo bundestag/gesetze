@@ -193,13 +193,31 @@ zuständige Behörde ist unverzüglich zu unterrichten.
 (1) Die Übermittlung elektronischer Dokumente ist zulässig, soweit der
 Empfänger hierfür einen Zugang eröffnet.
 
-(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit
-nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die
-elektronische Form ersetzt werden. In diesem Fall ist das
-elektronische Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem
-Pseudonym, das die Identifizierung der Person des
-Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.
+(2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit nicht
+durch Rechtsvorschrift etwas anderes bestimmt ist, durch die elektronische
+Form ersetzt werden. Der elektronischen Form genügt ein elektronisches
+Dokument, das mit einer qualifizierten elektronischen Signatur nach dem
+Signaturgesetz versehen ist. Die Signierung mit einem Pseudonym, das die
+Identifizierung der Person des Signaturschlüsselinhabers nicht unmittelbar
+durch die Behörde ermöglicht, ist nicht zulässig.
+Die Schriftform kann auch ersetzt werden
+
+1. durch unmittelbare Abgabe der Erklärung in einem elektronischen Formular,
+   das von der Behörde in einem Eingabegerät oder über öffentlich zugängliche
+   Netze zur Verfügung gestellt wird;
+
+2. bei Anträgen und Anzeigen durch Versendung eines elektronischen Dokuments
+   an die Behörde mit der Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes;
+
+3. bei elektronischen Verwaltungsakten oder sonstigen elektronischen
+   Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach § 5
+   Absatz 5 des De-Mail-Gesetzes, bei der die Signatur des Diensteanbieters
+   die Behörde erkennen lässt.
+
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über öffentlich
+zugängliche Netze ein sicherer Identitätsnachweis nach § 18 des
+Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes
+erfolgen.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter
@@ -977,6 +995,27 @@ demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie
 von dem Schriftführer zu unterschreiben.
 
 
+#### § 27a Öffentliche Bekanntmachung im Internet
+
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche
+Bekanntmachung angeordnet, soll die Behörde deren Inhalt zusätzlich im
+Internet veröffentlichen. Dies wird dadurch bewirkt, dass der Inhalt der
+Bekanntmachung auf einer Internetseite der Behörde oder ihres
+Verwaltungsträgers zugänglich gemacht wird. Bezieht sich die
+Bekanntmachung auf zur Einsicht auszulegende Unterlagen, sollen diese
+nur mit Zustimmung des Berechtigten über das Internet zugänglich gemacht
+werden. Wird die Zustimmung nicht erteilt, muss der Inhalt der Unterlagen,
+soweit es ohne Preisgabe von Geschäfts- und Betriebsgeheimnissen geschehen
+kann, so ausführlich dargestellt sein, dass es Dritten möglich ist, zu beurteilen,
+ob und in welchem Umfang sie von den Auswirkungen des Vorhabens, das
+Gegenstand der Bekanntmachung ist, betroffen werden können. Soweit durch
+Rechtsvorschrift nichts anderes geregelt ist, ist der Inhalt der zur Einsicht
+ausgelegten Unterlagen maßgeblich.
+
+(2) In der öffentlichen oder ortsüblichen Bekanntmachung ist die Internetseite
+anzugeben.
+
+
 #### § 28 Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines
@@ -1225,6 +1264,10 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
+(7) Jede Behörde soll von Urkunden, die sie selbst ausgestellt hat, auf
+Verlangen ein elektronisches Dokument nach Absatz 4 Nummer 4
+Buchstabe a oder eine elektronische Abschrift fertigen und beglaubigen.
+
 
 #### § 34 Beglaubigung von Unterschriften
 
@@ -1357,7 +1400,9 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen. Im Falle
+des § 3a Absatz 2 Satz 4 Nummer 3 muss die Signatur des
+Diensteanbieters die erlassende Behörde erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 3a Abs. 2
 erforderliche Signatur durch Rechtsvorschrift die dauerhafte

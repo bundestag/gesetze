@@ -130,7 +130,9 @@ dem der Verein oder, sofern sich das Verbot hierauf beschränkt, der
 Teilverein seinen Sitz hat; Verbote nach § 15 werden nur im
 Bundesanzeiger bekanntgemacht. Das Verbot wird mit der Zustellung,
 spätestens mit der Bekanntmachung im Bundesanzeiger, wirksam und
-vollziehbar; § 80 der Verwaltungsgerichtsordnung bleibt unberührt.
+vollziehbar; § 80 der Verwaltungsgerichtsordnung bleibt unberührt. Der
+verfügende Teil des Verbots ist zusätzlich in geeigneter Weise im Internet
+zu veröffentlichen.
 
 (5) Die Verbotsbehörde kann das Verbot auch auf Handlungen von
 Mitgliedern des Vereins stützen, wenn
@@ -217,7 +219,7 @@ Verbots haben keine aufschiebende Wirkung.
 (1) Ist das Verbot unanfechtbar geworden, so ist sein verfügender Teil
 nochmals unter Hinweis auf die Unanfechtbarkeit im Bundesanzeiger und
 in dem in § 3 Abs. 4 Satz 2 genannten Mitteilungsblatt zu
-veröffentlichen.
+veröffentlichen. § 3 Absatz 4 Satz 4 findet entsprechende Anwendung.
 
 (2) Ist der Verein oder eine Teilorganisation in ein öffentliches
 Register eingetragen, so sind auf Anzeige der Verbotsbehörde
@@ -353,7 +355,8 @@ Durchführung der Einziehung und mit der Abwicklung (§ 13) das
 Bundesverwaltungsamt oder eine andere Bundesbehörde beauftragen
 (Einziehungsbehörde). § 10 Abs. 3 gilt entsprechend. Die Beauftragung
 ist im Bundesanzeiger und in dem in § 3 Abs. 4 Satz 2 genannten
-Mitteilungsblatt zu veröffentlichen.
+Mitteilungsblatt zu veröffentlichen. Die Beauftragung nach Satz 3 ist
+zusätzlich in geeigneter Weise im Internet zu veröffentlichen.
 
 (4) Die Verbotsbehörde kann von der Einziehung absehen, wenn keine
 Gefahr besteht, daß Vermögenswerte des Vereins von neuem zur Förderung

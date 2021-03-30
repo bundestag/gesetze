@@ -2628,13 +2628,13 @@ unterrichten.
 
 (5) (weggefallen)
 
-(6) Dem Gewerbetreibenden ist von der zuständigen Behörde auf Grund
-eines an die Behörde zu richtenden schriftlichen Antrages die
-persönliche Ausübung des Gewerbes wieder zu gestatten, wenn Tatsachen
-die Annahme rechtfertigen, daß eine Unzuverlässigkeit im Sinne des
-Absatzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres nach
-Durchführung der Untersagungsverfügung kann die Wiederaufnahme nur
-gestattet werden, wenn hierfür besondere Gründe vorliegen.
+(6) Dem Gewerbetreibenden ist von der zuständigen Behörde auf Grund eines an
+die Behörde zu richtenden schriftlichen oder elektronischen Antrages die
+persönliche Ausübung des Gewerbes wieder zu gestatten, wenn Tatsachen die
+Annahme rechtfertigen, daß eine Unzuverlässigkeit im Sinne des Absatzes 1
+nicht mehr vorliegt. Vor Ablauf eines Jahres nach Durchführung der
+Untersagungsverfügung kann die Wiederaufnahme nur gestattet werden, wenn
+hierfür besondere Gründe vorliegen.
 
 (7) Zuständig ist die Behörde, in deren Bezirk der Gewerbetreibende
 eine gewerbliche Niederlassung unterhält oder in den Fällen des

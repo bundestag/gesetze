@@ -246,9 +246,9 @@ Auskunft überwiegt.
 ## § 6 Registrierungsverfahren
 
 (1) Anträge nach § 13 Abs. 1 des Rechtsdienstleistungsgesetzes sind
-schriftlich zu stellen. Dabei ist anzugeben, für welchen Bereich oder
-Teilbereich die Registrierung erfolgen soll, und ob die Einwilligung
-zur Veröffentlichung von Telefonnummer und E-Mail-Adresse erteilt
+schriftlich oder elektronisch zu stellen. Dabei ist anzugeben, für welchen
+Bereich oder Teilbereich die Registrierung erfolgen soll, und ob die
+Einwilligung zur Veröffentlichung von Telefonnummer und E-Mail-Adresse erteilt
 wird.
 
 (2) Im Bereich der Rechtsdienstleistungen in einem ausländischen Recht

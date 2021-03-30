@@ -1589,14 +1589,7 @@ entsprechend.
 
 ## § 18
 
-Soweit durch dieses Gesetz oder auf Grund dieses Gesetzes erlassener
-Rechtsverordnungen Schriftform einschließlich für Prüfungen angeordnet
-ist, eine Zweitschrift, Urschrift, Abschrift oder Niederschrift
-anzufertigen ist oder Zeugnisse, Bescheinigungen oder andere Dokumente
-ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist,
-sie auszuhändigen, vorzulegen oder mitzuführen sind, ist die
-elektronische Form ausgeschlossen, wenn nicht durch Rechtsvorschrift
-eine abweichende Regelung getroffen ist.
+(weggefallen)
 
 
 ## § 19
