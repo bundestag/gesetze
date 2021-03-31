@@ -20,12 +20,13 @@ Fundstelle
 ## § 1 Grundsatz
 
 (1) Jeder hat nach Maßgabe dieses Gesetzes gegenüber den Behörden des
-Bundes einen Anspruch auf Zugang zu amtlichen Informationen. Für
-sonstige Bundesorgane und -einrichtungen gilt dieses Gesetz, soweit
-sie öffentlich-rechtliche Verwaltungsaufgaben wahrnehmen. Einer
-Behörde im Sinne dieser Vorschrift steht eine natürliche Person oder
-juristische Person des Privatrechts gleich, soweit eine Behörde sich
-dieser Person zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben
+Bundes einen Anspruch auf Zugang zu amtlichen Informationen. Zu den 
+Behörden des Bundes gehören explizit auch die Organe des Deutschen
+Bundestags. Für sonstige Bundesorgane und -einrichtungen gilt dieses 
+Gesetz, soweit sie öffentlich-rechtliche Verwaltungsaufgaben wahrnehmen. 
+Einer Behörde im Sinne dieser Vorschrift steht eine natürliche Person 
+oder juristische Person des Privatrechts gleich, soweit eine Behörde 
+sich dieser Person zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben
 bedient.
 
 (2) Die Behörde kann Auskunft erteilen, Akteneinsicht gewähren oder
