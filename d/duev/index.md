@@ -3,7 +3,7 @@ Title: Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kult
   und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen
 jurabk: DüV
 layout: default
-origslug: d_v
+origslug: duev
 slug: duev
 
 ---

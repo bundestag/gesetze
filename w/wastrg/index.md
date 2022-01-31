@@ -19,8 +19,27 @@ Neugefasst durch
 :   Bek. v. 23.5.2007 I 962; 2008, 1980;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.10.2011 I 1986
+:   Art. 4 G v. 29.11.2018 I 2237
 
+Änderung durch
+:   Art. 335 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2b G v. 3.12.2020 I 2694 ist berücksichtigt
+
+Änderung durch
+:   Art. 1 G v. 2.6.2021 I 1278 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 3.6.2021 I 1465 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 57 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 18.8.2021 I 3901 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Bek. v. 20.2.2019 I 196 ist berücksichtigt
 
 ## Abschnitt 1 - Bundeswasserstraßen
 
@@ -30,22 +49,20 @@ Zuletzt geändert durch
 
 (1) Bundeswasserstraßen nach diesem Gesetz sind
 
-1.  die Binnenwasserstraßen des Bundes, die dem allgemeinen Verkehr
-    dienen; als solche gelten die in der Anlage 1 aufgeführten
-    Wasserstraßen; dazu gehören auch alle Gewässerteile, die
+1.  die Binnenwasserstraßen des Bundes, die dem Verkehr mit Güter- und
+    Fahrgastschiffen oder der Sport- und Freizeitschifffahrt mit
+    Wasserfahrzeugen dienen; als solche gelten die in der Anlage 1
+    aufgeführten Wasserstraßen, dazu gehören auch alle Gewässerteile,
 
-    a)  mit der Bundeswasserstraße in ihrem Erscheinungsbild als natürliche
-        Einheit anzusehen sind,
-
-
-    b)  mit der Bundeswasserstraße durch einen Wasserzu- oder -abfluss in
-        Verbindung stehen,
+    a)  die mit der Bundeswasserstraße in ihrem Erscheinungsbild als
+        natürliche Einheit anzusehen sind,
 
 
-    c)  einen Schiffsverkehr mit der Bundeswasserstraße zulassen und
+    b)  die mit der Bundeswasserstraße durch einen Wasserzufluss oder
+        Wasserabfluss in Verbindung stehen und
 
 
-    d)  im Eigentum des Bundes stehen,
+    c)  die im Eigentum des Bundes stehen,
 
 
 
@@ -56,7 +73,23 @@ Zuletzt geändert durch
 
 
 
-(2) Seewasserstraßen sind die Flächen zwischen der Küstenlinie bei
+(2) Unbeschadet der Regelung in Absatz 6 wird die seitliche Abgrenzung
+der Binnenwasserstraßen des Bundes durch die Uferlinie gebildet. Die
+Uferlinie ist die Linie des Mittelwasserstandes, bei staugeregelten
+Bundeswasserstraßen die Linie des Stauziels oder bei tidebeeinflussten
+Binnenwasserstraßen die Linie des mittleren Tidehochwasserstandes.
+
+(3) Ufer einer Binnenwasserstraße des Bundes ist der Bereich zwischen
+der Uferlinie gemäß Absatz 2 und der Linie des mittleren
+Hochwasserstandes. Davon ausgenommen sind die tidebeeinflussten
+Binnenwasserstraßen, in denen das Ufer zwischen der Linie des
+mittleren Tideniedrigwasserstandes und der Linie des mittleren
+Tidehochwasserstandes verläuft. Befindet sich unterhalb der Linie des
+mittleren Hochwasserstandes oder des Tidehochwasserstandes eine
+Böschungskante als natürliche landseitige Abgrenzung, tritt diese an
+die Stelle der Linie des mittleren Hochwasserstandes.
+
+(4) Seewasserstraßen sind die Flächen zwischen der Küstenlinie bei
 mittlerem Hochwasser oder der seewärtigen Begrenzung der
 Binnenwasserstraßen und der seewärtigen Begrenzung des Küstenmeeres.
 Zu den Seewasserstraßen gehören nicht die Hafeneinfahrten, die von
@@ -64,7 +97,7 @@ Leitdämmen oder Molen ein- oder beidseitig begrenzt sind, die
 Außentiefs, die Küstenschutz-, Entwässerungs-, Landgewinnungsbauwerke,
 Badeanlagen und der trockenfallende Badestrand.
 
-(3) Soweit die Erfüllung der Verwaltungsaufgaben des Bundes nicht
+(5) Soweit die Erfüllung der Verwaltungsaufgaben des Bundes nicht
 beeinträchtigt wird, kann das jeweilige Land das Eigentum des Bundes
 an den Seewasserstraßen und an den angrenzenden Mündungstrichtern der
 Binnenwasserstraßen unentgeltlich nutzen,
@@ -86,7 +119,7 @@ Hafenflächen und errichteten Bauwerke. Es kann die Nutzungsbefugnisse
 nach Nummer 1 und 2 im Einzelfall auf einen Dritten übertragen. Rechte
 Dritter bleiben unberührt.
 
-(4) Zu den Bundeswasserstraßen gehören auch
+(6) Zu den Bundeswasserstraßen gehören auch
 
 1.  die bundeseigenen Schifffahrtsanlagen, besonders Schleusen,
     Schiffshebewerke, Wehre, Schutz-, Liege- und Bauhäfen sowie
@@ -100,13 +133,13 @@ Dritter bleiben unberührt.
 
 3.  bundeseigene Einrichtungen oder Gewässerteile, die der Erhaltung oder
     Wiederherstellung der Durchgängigkeit bei Stauanlagen, die von der
-    Wasser- und Schifffahrtsverwaltung des Bundes errichtet oder betrieben
-    werden, dienen.
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes errichtet oder
+    betrieben werden, dienen.
 
 
 
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung
 mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte
 Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt,
@@ -119,7 +152,7 @@ Bezeichnungen für sie festgesetzt oder geändert werden.
 die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer
 Vereinbarung zwischen dem Bund, dem Land und dem bisherigen oder dem
 künftigen Eigentümer. Den Übergang bewirkt ein Bundesgesetz; das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den
 Übergang von Gewässern oder Gewässerstrecken mit nur örtlicher
 Bedeutung durch Rechtsverordnung zu bewirken.
@@ -133,9 +166,9 @@ Bedeutung durch Rechtsverordnung zu bewirken.
 wird dadurch das Gewässerbett der Bundeswasserstraße für dauernd
 erweitert, so ist das Gewässer ein Teil der Bundeswasserstraße.
 
-(2) Das Eigentum an der Erweiterung wächst dem Bund zu. Ist die
-Erweiterung künstlich herbeigeführt, hat derjenige, der sie veranlasst
-hat, den bisherigen Eigentümer zu entschädigen.
+(2) Das Eigentum an der Erweiterung wächst dem Bund lastenfrei zu. Ist
+die Erweiterung künstlich herbeigeführt, hat derjenige, der sie
+veranlasst hat, den bisherigen Eigentümer zu entschädigen.
 
 (3) Die Absätze 1 und 2 gelten auch für Durchstiche an
 Bundeswasserstraßen.
@@ -158,18 +191,17 @@ Einvernehmen mit den Ländern zu wahren.
 
 ### § 5 Befahren mit Wasserfahrzeugen
 
-Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts
-einschließlich des Schifffahrtabgabenrechts sowie der Vorschriften
-dieses Gesetzes die Bundeswasserstraßen mit Wasserfahrzeugen befahren.
-Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur
-zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet
-wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und
-Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes
-kann durch Rechtsverordnung, die das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit erlässt, geregelt,
-eingeschränkt oder untersagt werden, soweit dies zur Erreichung des
-Schutzzweckes erforderlich ist.
+Jedermann darf im Rahmen der Vorschriften des Schifffahrtsrechts sowie
+der Vorschriften dieses Gesetzes die Bundeswasserstraßen mit
+Wasserfahrzeugen befahren. Das Befahren der bundeseigenen Talsperren
+und Speicherbecken ist nur zulässig, soweit es durch Rechtsverordnung
+nach § 46 Nr. 2 gestattet wird. Das Befahren der Bundeswasserstraßen
+in Naturschutzgebieten und Nationalparken nach den §§ 23 und 24 des
+Bundesnaturschutzgesetzes kann durch Rechtsverordnung, die das
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit erlässt, geregelt, eingeschränkt oder untersagt
+werden, soweit dies zur Erreichung des Schutzzweckes erforderlich ist.
 
 
 ### § 6 Gemeingebrauch
@@ -178,8 +210,9 @@ Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch
 geregelt, beschränkt oder untersagt werden, soweit es zur Erhaltung
 der Bundeswasserstraßen in einem für die Schifffahrt erforderlichen
 Zustand notwendig ist. Unter der gleichen Voraussetzung können die
-Behörden der Wasser- und Schifffahrtsverwaltung des Bundes durch
-Verfügung den Gemeingebrauch regeln, beschränken oder untersagen.
+Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+durch Verfügung den Gemeingebrauch regeln, beschränken oder
+untersagen.
 
 
 ## Abschnitt 4 - Unterhaltung der Bundeswasserstraßen und Betrieb der bundeseigenen Schifffahrtsanlagen
@@ -214,14 +247,14 @@ Erfordernisse des Denkmalschutzes zu berücksichtigen.
 umfasst die Erhaltung eines ordnungsgemäßen Zustandes für den
 Wasserabfluss und die Erhaltung der Schiffbarkeit. Zur Unterhaltung
 gehört auch die Erhaltung von Einrichtungen und Gewässerteilen im
-Sinne des § 1 Absatz 4 Nummer 3. Bei der Unterhaltung ist den Belangen
+Sinne des § 1 Absatz 6 Nummer 3. Bei der Unterhaltung ist den Belangen
 des Naturhaushalts Rechnung zu tragen; Bild und Erholungswert der
 Gewässerlandschaft sind zu berücksichtigen. Die natürlichen
 Lebensgrundlagen sind zu bewahren. Unterhaltungsmaßnahmen müssen die
 nach §§ 27 bis 31 des Wasserhaushaltsgesetzes maßgebenden
-Bewirtschaftungsziele berücksichtigen und werden so durchgeführt, dass
-mehr als nur geringfügige Auswirkungen auf den Hochwasserschutz
-vermieden werden.
+Bewirtschaftungsziele beachten und werden so durchgeführt, dass mehr
+als nur geringfügige Auswirkungen auf den Hochwasserschutz vermieden
+werden.
 
 (2) Wenn es die Erhaltung des ordnungsgemäßen Zustands nach Absatz 1
 erfordert, gehören zur Unterhaltung besonders die Räumung, die
@@ -238,11 +271,11 @@ entstanden sind oder entstehen können, soweit die Schäden den Bestand
 der Ufergrundstücke gefährden.
 
 (5) Die Unterhaltung der Seewasserstraßen (§ 1 Abs. 1 Nr. 2) umfasst
-nur die Erhaltung der Schiffbarkeit der von der Wasser- und
+nur die Erhaltung der Schiffbarkeit der von der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes gekennzeichneten Schifffahrtswege,
 soweit es wirtschaftlich zu vertreten ist. Hierzu gehören auch
 Arbeiten und Maßnahmen zur Sicherung des Bestandes der Inseln
-Helgoland (ohne Düne), Wangerooge und Borkum. Absatz 1 Satz 2 und 3
+Helgoland (ohne Düne), Wangerooge und Borkum. Absatz 1 Satz 3 und 4
 ist anzuwenden.
 
 (6) Weitergehende Verpflichtungen zur Unterhaltung nach dem Nachtrag
@@ -282,7 +315,7 @@ werden können.
 
 (2) Die Anlieger haben das Bepflanzen der Ufer zu dulden, soweit es
 für die Unterhaltung der Bundeswasserstraße erforderlich ist. Die
-Anlieger können durch Verfügung der Behörden der Wasser- und
+Anlieger können durch Verfügung der Behörden der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes verpflichtet werden, die
 Ufergrundstücke in erforderlicher Breite so zu bewirtschaften, dass
 die Unterhaltung nicht beeinträchtigt wird; sie haben bei der Nutzung
@@ -304,16 +337,40 @@ Verpflichteten ist Rücksicht zu nehmen.
 
 ### § 12 Allgemeine Vorschriften über Ausbau und Neubau
 
-(1) Der Ausbau und der Neubau der Bundeswasserstraßen als Verkehrswege
-sind Hoheitsaufgaben des Bundes.
+(1) Der Ausbau und der Neubau der Bundeswasserstraßen sind
+Hoheitsaufgaben des Bundes.
 
-(2) Ausbau sind die Maßnahmen zur wesentlichen Umgestaltung einer
-Bundeswasserstraße, einer Kreuzung mit einer Bundeswasserstraße, eines
-oder beider Ufer, die über die Unterhaltung hinausgehen und die
-Bundeswasserstraße als Verkehrsweg betreffen. Als Ausbau gilt auch die
-Herstellung oder wesentliche Umgestaltung von Einrichtungen oder
-Gewässerteilen im Sinne des § 1 Absatz 4 Nummer 3. Für die Beseitigung
-einer Bundeswasserstraße gelten die Vorschriften über den Ausbau
+(2) Ausbau sind die über die Unterhaltung hinausgehenden Maßnahmen
+
+1.  zur wesentlichen Umgestaltung einer Bundeswasserstraße, einer Kreuzung
+    mit einer Bundeswasserstraße, eines oder beider Ufer, die die
+    Bundeswasserstraße als Verkehrsweg betreffen,
+
+
+2.  zur Herstellung oder zur wesentlichen Umgestaltung von Einrichtungen
+    oder von Gewässerteilen im Sinne des § 1 Absatz 6 Nummer 3,
+
+
+3.  zur wesentlichen Umgestaltung einer Binnenwasserstraße des Bundes (§ 1
+    Absatz 1 Nummer 1) oder ihrer Ufer (§ 1 Absatz 3) im Sinne des § 67
+    Absatz 2 Satz 1 und 2 des Wasserhaushaltsgesetzes, soweit die
+    Maßnahmen erforderlich sind, um die Bewirtschaftungsziele nach Maßgabe
+    der §§ 27 bis 31 des Wasserhaushaltsgesetzes zu erreichen; hierzu
+    gehören nicht Maßnahmen, die überwiegend zum Zwecke des
+    Hochwasserschutzes oder der Verbesserung der physikalischen oder
+    chemischen Beschaffenheit des Wassers durchgeführt werden.
+
+
+
+Zu den Maßnahmen nach Satz 1 Nummer 3 gehören auch solche Maßnahmen,
+bei denen Gewässerteile nach § 1 Absatz 1 Nummer 1 letzter Halbsatz
+entstehen, die einen räumlichen Zusammenhang mit der
+Binnenwasserstraße aufweisen, auch wenn sie sich vor der
+Ausbaumaßnahme außerhalb des Ufers der Binnenwasserstraße befanden.
+Ausbaumaßnahmen nach Satz 1 Nummer 3 sind durchzuführen, soweit es die
+dort genannten Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des
+Wasserhaushaltsgesetzes erfordern. Für die Beseitigung einer
+Bundeswasserstraße gelten die Vorschriften über den Ausbau
 entsprechend.
 
 (3) Gesetzliche oder vertragliche Bestimmungen, die zum Ausbau oder
@@ -334,20 +391,22 @@ dienen, bedürfen keiner Erlaubnis, Bewilligung oder Genehmigung. Die
 in diesem Gesetz und anderen bundesrechtlichen Vorschriften geregelten
 Beteiligungspflichten bleiben hiervon unberührt.
 
-(7) Beim Ausbau oder dem Neubau einer Bundeswasserstraße sind in
-Linienführung und Bauweise Bild und Erholungseignung der
-Gewässerlandschaft sowie die Erhaltung und Verbesserung des
-Selbstreinigungsvermögens des Gewässers zu beachten. Die natürlichen
-Lebensgrundlagen sind zu bewahren. Ausbaumaßnahmen müssen die nach §§
-27 bis 31 des Wasserhaushaltsgesetzes maßgebenden
-Bewirtschaftungsziele berücksichtigen. Ausbau- oder Neubaumaßnahmen
-werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen
-auf den Hochwasserschutz vermieden werden.
+(7) Beim Ausbau einer Bundeswasserstraße nach Absatz 2 Satz 1 Nummer 1
+und 2 oder beim Neubau einer Bundeswasserstraße sind die
+Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des
+Wasserhaushaltsgesetzes und in Linienführung und Bauweise Bild und
+Erholungseignung der Gewässerlandschaft sowie die Erhaltung und
+Verbesserung des Selbstreinigungsvermögens des Gewässers zu beachten.
+Die natürlichen Lebensgrundlagen sind zu bewahren. Bei Ausbaumaßnahmen
+nach Absatz 2 Satz 1 Nummer 3 sind die Anforderungen nach § 67 Absatz
+1 des Wasserhaushaltsgesetzes zu beachten. Ausbau- oder
+Neubaumaßnahmen werden so durchgeführt, dass mehr als nur geringfügige
+Auswirkungen auf den Hochwasserschutz vermieden werden.
 
 
 ### § 13 Planungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt im Einvernehmen mit der zuständigen Landesbehörde die Planung
 und Linienführung der Bundeswasserstraßen. Bei der Bestimmung der
 Linienführung sind die von dem Vorhaben berührten öffentlichen Belange
@@ -371,38 +430,53 @@ Bundeswasserstraßen bedarf der vorherigen Planfeststellung. Bei der
 Planfeststellung sind die von dem Vorhaben berührten öffentlichen und
 privaten Belange einschließlich der Umweltverträglichkeit im Rahmen
 der Abwägung zu berücksichtigen. Anhörungs- und
-Planfeststellungsbehörde ist die Wasser- und Schifffahrtsdirektion;
-sie ist auch Genehmigungsbehörde. Erstreckt sich das Vorhaben auf den
-Bereich mehrerer Wasser- und Schifffahrtsdirektionen, bestimmt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung eine der
-beteiligten Wasser- und Schifffahrtsdirektionen zur zuständigen
-Behörde. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78
-des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
+Planfeststellungsbehörde ist die Generaldirektion Wasserstraßen und
+Schifffahrt; sie ist auch Genehmigungsbehörde. Für das
+Planfeststellungsverfahren gelten die §§ 72 bis 78 des
+Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
 
 (1a) und (1b) (weggefallen)
 
-(2) Ist das Planfeststellungsverfahren eingeleitet, kann die Wasser-
-und Schifffahrtsdirektion nach Zustimmung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung und nach Anhörung der zuständigen
-Landesbehörde und der anliegenden Gemeinden und Gemeindeverbände eine
-vorläufige Anordnung erlassen, in der Teilmaßnahmen zum Ausbau oder
-Neubau festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit den
-alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Abs. 2 des
-Verwaltungsverfahrensgesetzes und nach § 14b Nr. 6 zu
-berücksichtigenden Interessen gewahrt werden. In der vorläufigen
-Anordnung sind die Auflagen zur Sicherung dieser Interessen und der
-Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Die
-vorläufige Anordnung berechtigt nicht zu einer wesentlichen
-Veränderung des Wasserstandes oder der Strömungsverhältnisse. Sie ist
-den anliegenden Gemeinden und Gemeindeverbänden sowie den Beteiligten
-zuzustellen und ortsüblich öffentlich bekannt zu machen. Die
-vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs
-Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt
-nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die
-Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand
-wiederherzustellen. Der Betroffene ist zu entschädigen, soweit ein
-Schaden eingetreten ist, der durch die Wiederherstellung des früheren
-Zustandes nicht ausgeglichen wird.
+(2) Ist das Planfeststellungsverfahren eingeleitet, kann die
+Generaldirektion Wasserstraßen und Schifffahrt nach Anhörung der
+zuständigen Landesbehörde und der anliegenden Gemeinden und
+Gemeindeverbände eine vorläufige Anordnung erlassen, in der
+vorbereitende Maßnahmen oder Teilmaßnahmen zum Ausbau oder Neubau
+festgesetzt werden,
+
+1.  soweit es sich um reversible Maßnahmen handelt,
+
+
+2.  wenn Gründe des Wohls der Allgemeinheit den alsbaldigen Beginn der
+    Arbeiten erfordern,
+
+
+3.  wenn mit einer Entscheidung zugunsten des Trägers des Vorhabens
+    gerechnet werden kann und
+
+
+4.  wenn die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach
+    § 14b Nummer 1 zu berücksichtigenden Interessen gewahrt werden.
+
+
+
+In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser
+Interessen und der Umfang der vorläufig zulässigen Maßnahmen
+festzulegen. Die vorläufige Anordnung berechtigt nicht zu einer
+wesentlichen Veränderung des Wasserstandes oder der
+Strömungsverhältnisse. Sie ist den anliegenden Gemeinden und
+Gemeindeverbänden sowie den Beteiligten zuzustellen und ortsüblich
+öffentlich bekannt zu machen. Sie ersetzt nicht die Planfeststellung.
+Soweit die Maßnahmen durch die Planfeststellung für unzulässig erklärt
+sind, ist der frühere Zustand wiederherzustellen. Dies gilt auch, wenn
+der Antrag auf Planfeststellung zurückgenommen wurde. Der Betroffene
+ist zu entschädigen, soweit ein Schaden eingetreten ist, der durch die
+Wiederherstellung des früheren Zustandes nicht ausgeglichen wird.
+Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende
+Wirkung; ein Vorverfahren findet nicht statt. Betrifft die vorläufige
+Anordnung ein Vorhaben im Sinne des § 14e Absatz 1, ist § 14e Absatz 1
+und 5 in Bezug auf Rechtsbehelfe gegen die vorläufige Anordnung
+entsprechend anzuwenden.
 
 (3) Soweit das Vorhaben Belange der Landeskultur oder der
 Wasserwirtschaft berührt, bedürfen die Feststellung des Planes, die
@@ -417,70 +491,15 @@ zu entscheiden.
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
 
-1.  Die Auslegung nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes
-    erfolgt in den Gemeinden, in denen sich das Vorhaben voraussichtlich
-    auswirkt.
+1.  Die Anhörungsbehörde kann auf eine Erörterung im Sinne des § 73 Absatz
+    6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung verzichten.
 
 
-2.  Die Anhörungsbehörde benachrichtigt innerhalb der Frist des § 73 Abs.
-    2 des Verwaltungsverfahrensgesetzes die vom Bund oder Land anerkannten
-    Naturschutzvereinigungen sowie sonstige Vereinigungen, soweit diese
-    sich für den Umweltschutz einsetzen und nach in anderen gesetzlichen
-    Vorschriften zur Einlegung von Rechtsbehelfen in Umweltangelegenheiten
-    vorgesehenen Verfahren anerkannt sind, (Vereinigungen) von der
-    Auslegung des Plans und gibt ihnen Gelegenheit zur Stellungnahme. Die
-    Benachrichtigung erfolgt durch die ortsübliche Bekanntmachung der
-    Auslegung nach § 73 Abs. 5 Satz 1 des Verwaltungsverfahrensgesetzes in
-    den Gemeinden nach Nummer 1. Unbeschadet davon bleibt die Beteiligung
-    anderer Vereinigungen nach den allgemeinen Vorschriften.
-
-
-3.  Für Vereinigungen gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes
-    entsprechend. § 73 Abs. 6 des Verwaltungsverfahrensgesetzes gilt
-    entsprechend, wenn die Vereinigungen fristgerecht Stellung genommen
-    haben. Sie sind von dem Erörterungstermin zu benachrichtigen.
-
-
-4.  Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt
-    sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung
-    in der Gemeinde mit dem Hinweis nach § 73 Abs. 5 Satz 2 des
-    Verwaltungsverfahrensgesetzes benachrichtigt werden.
-
-
-5.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet eine
-    Erörterung statt, so hat die Anhörungsbehörde die Erörterung innerhalb
-    von drei Monaten nach Ablauf der Einwendungsfrist abzuschließen.
-
-
-6.  Soll ein ausgelegter Plan geändert werden, so sind auch Vereinigungen
-    entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu
-    beteiligen. Für Vereinigungen, die sich nicht in der sich aus Nummer 3
-    in Verbindung mit § 73 Abs. 4 Satz 1 des Verwaltungsverfahrensgesetzes
-    ergebenden Frist geäußert haben, und im Falle des § 73 Abs. 8 Satz 2
-    des Verwaltungsverfahrensgesetzes erfolgt die Benachrichtigung von der
-    Planänderung und der Frist zur Stellungnahme in entsprechender
-    Anwendung der Nummer 2 Satz 2. Im Regelfall kann von der Erörterung im
-    Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9
-    Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    abgesehen werden.
-
-
-7.  Einwendungen gegen den Plan oder – im Falle des § 73 Abs. 8 des
-    Verwaltungsverfahrensgesetzes – dessen Änderung sind nach Ablauf der
-    Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der
-    Vereinigungen sind nach Ablauf der Äußerungsfrist nach den Nummern 3
-    und 6 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in
-    der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-    Einwendungs- oder Stellungnahmefrist sowie in der Benachrichtigung der
-    Vereinigungen hinzuweisen. Abweichend von § 73 Abs. 3a Satz 2 des
-    Verwaltungsverfahrensgesetzes können Stellungnahmen der Behörden, die
-    nach Ablauf der Frist des § 73 Abs. 3a Satz 1 des
-    Verwaltungsverfahrensgesetzes eingehen, auch noch nach Fristablauf
-    berücksichtigt werden; sie sind stets zu berücksichtigen, wenn später
-    von einer Behörde vorgebrachte öffentliche Belange der
-    Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
-    hätten bekannt sein müssen oder für die Rechtmäßigkeit der
-    Entscheidung von Bedeutung sind.
+2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 
@@ -488,40 +507,10 @@ mit folgenden Maßgaben:
 
 ### § 14b Planfeststellungsbeschluss, Plangenehmigung
 
-Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
+(1) Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
 Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
-1.  § 74 Abs. 6 des Verwaltungsverfahrensgesetzes – auch in Verbindung mit
-    Nummer 2 – gilt nur, wenn zusätzlich zu den dort genannten
-    Voraussetzungen für das Vorhaben nach dem Gesetz über die
-    Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung
-    durchzuführen ist.
-
-
-2.  Ergänzend zu § 74 Abs. 6 Satz 1 Nr. 1 des
-    Verwaltungsverfahrensgesetzes kann eine Plangenehmigung auch dann
-    erteilt werden, wenn Rechte anderer nur unwesentlich beeinträchtigt
-    werden.
-
-
-3.  Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung.
-
-
-4.  Fälle unwesentlicher Bedeutung im Sinne des § 74 Abs. 7 des
-    Verwaltungsverfahrensgesetzes liegen nur vor, wenn es sich bei dem
-    Vorhaben zusätzlich nicht um ein Vorhaben handelt, für das nach dem
-    Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung durchzuführen ist.
-
-
-5.  Planfeststellungsbeschluss und Plangenehmigung sind dem Träger des
-    Vorhabens, den Vereinigungen, über deren Einwendungen und
-    Stellungnahmen entschieden worden ist, und denjenigen, über deren
-    Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
-    zuzustellen.
-
-
-6.  Die Planfeststellungsbehörde hat dem Träger des Vorhabens Vorkehrungen
+1.  Die Planfeststellungsbehörde hat dem Träger des Vorhabens Vorkehrungen
     oder die Errichtung und Unterhaltung von Anlagen auch dann
     aufzuerlegen, wenn erhebliche Nachteile dadurch zu erwarten sind, dass
 
@@ -535,16 +524,16 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 
 
-7.  Die Regelung einer Entschädigung bleibt dem Entschädigungsverfahren
+2.  Die Regelung einer Entschädigung bleibt dem Entschädigungsverfahren
     vorbehalten.
 
 
-8.  Müssen vorhandene Anlagen infolge des Planfeststellungsbeschlusses
+3.  Müssen vorhandene Anlagen infolge des Planfeststellungsbeschlusses
     oder der Plangenehmigung ersetzt oder geändert werden, hat der Träger
     des Vorhabens die Mehrkosten der Unterhaltung zu tragen.
 
 
-9.  Zur Sicherung des Beweises von Tatsachen, die für den
+4.  Zur Sicherung des Beweises von Tatsachen, die für den
     Planfeststellungsbeschluss oder eine Plangenehmigung von Bedeutung
     sein können, besonders zur Feststellung des Zustandes einer Sache,
     kann die Planfeststellungsbehörde – auch vor Erlass des
@@ -554,18 +543,18 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
     erschwert werden würde.
 
 
-10. Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen
+5.  Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen
     Entscheidungen ist § 75 Abs. 3 des Verwaltungsverfahrensgesetzes
     anzuwenden.
 
 
-11. Die Planfeststellung ist zu versagen, wenn von dem Ausbau oder Neubau
+6.  Die Planfeststellung ist zu versagen, wenn von dem Ausbau oder Neubau
 
     a)  eine Beeinträchtigung des Wohls der Allgemeinheit zu erwarten ist, die
         nicht durch Auflagen verhütet oder ausgeglichen werden kann, oder
 
 
-    b)  nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 6
+    b)  nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 1
         bezeichneten Art zu erwarten sind, die nicht durch Auflagen verhütet
         oder ausgeglichen werden können, der Berechtigte fristgemäß
         Einwendungen erhoben hat und der Ausbau oder Neubau nicht dem Wohl der
@@ -576,6 +565,18 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 
 
+Die Planfeststellung für einen Ausbau nach § 12 Absatz 2 Satz 1 Nummer
+3 darf im Übrigen nur erfolgen, wenn die Voraussetzungen des § 68
+Absatz 3 des Wasserhaushaltsgesetzes vorliegen.
+
+(2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des
+Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das nach dem
+Gesetz über die Umweltverträglichkeitsprüfung eine
+Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines
+Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. §
+14a Nummer 1 gilt entsprechend. Im Übrigen findet das Gesetz über die
+Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3
+Anwendung.
 
 
 ### § 14c Rechtswirkungen der Planfeststellung und der Plangenehmigung
@@ -599,11 +600,12 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Planfeststellungsbeschluss entsprechend anzuwenden.
 
 
-4.  Als Beginn der Durchführung des Plans gilt jede erstmals nach außen
-    erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur
-    plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung
-    der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
-    nicht.
+4.  Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75
+    Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und
+    wird diese Planergänzung oder dieses ergänzende Verfahren unverzüglich
+    betrieben, so bleibt die Durchführung des Vorhabens zulässig, soweit
+    es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens
+    offensichtlich nicht berührt ist.
 
 
 
@@ -616,8 +618,8 @@ Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
 Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
 Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
-Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
 
@@ -677,20 +679,51 @@ die Plangenehmigung Beschwerte einen hierauf gestützten Antrag nach §
 von einem Monat stellen und begründen. Die Frist beginnt mit dem
 Zeitpunkt, in dem der Beschwerte von den Tatsachen Kenntnis erlangt.
 
-(5) Der Kläger hat innerhalb einer Frist von sechs Wochen die zur
-Begründung seiner Klage dienenden Tatsachen und Beweismittel
-anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt
-entsprechend.
+(5) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
+Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und
+Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach
+Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der
+Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund
+ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht,
+wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne
+Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch
+den Vorsitzenden oder den Berichterstatter auf Antrag verlängert
+werden, wenn der Kläger in dem Verfahren, in dem die angefochtene
+Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
+6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
 
-(6) Mängel bei der Abwägung der von dem Vorhaben berührten
-öffentlichen und privaten Belange sind nur erheblich, wenn sie
-offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
-Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
-Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
-durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
-bleiben unberührt.
+(6) (weggefallen)
+
+
+### § 14f Projektmanager
+
+Die Generaldirektion Wasserstraßen und Schifffahrt kann einen Dritten
+mit der Vorbereitung und Durchführung von Verfahrensschritten,
+insbesondere
+
+1.  der Erstellung von Verfahrensleitplänen unter Bestimmung von
+    Verfahrensabschnitten und Zwischenterminen,
+
+
+2.  der Fristenkontrolle,
+
+
+3.  der Koordinierung von erforderlichen Sachverständigengutachten,
+
+
+4.  der ersten Auswertung der eingereichten Stellungnahmen,
+
+
+5.  der organisatorischen Vorbereitung eines Erörterungstermins und
+
+
+6.  der Leitung eines Erörterungstermins,
+
+
+
+auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen
+Kosten beauftragen. Die Entscheidung über den Planfeststellungsantrag
+verbleibt bei der zuständigen Behörde.
 
 
 ### § 15 Veränderungssperre, Vorkaufsrecht
@@ -705,7 +738,7 @@ zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten
 und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht
 berührt. Unzulässige Veränderungen bleiben bei der Anordnung von
 Vorkehrungen und Anlagen (§ 74 Abs. 2 des
-Verwaltungsverfahrensgesetzes, § 14b Nr. 6) und im
+Verwaltungsverfahrensgesetzes, § 14b Nummer 1) und im
 Entschädigungsverfahren unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, können die
@@ -714,10 +747,6 @@ Entschädigung verlangen.
 
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Bund an den
 betroffenen Flächen ein Vorkaufsrecht zu.
-
-
-### (XXXX) §§ 17 bis 19 (weggefallen)
-
 
 
 ### § 16 Besondere Pflichten im Interesse des Vorhabens
@@ -742,6 +771,22 @@ Entschädigung verlangen, wenn ihm durch eine Maßnahme nach Absatz 1
 unmittelbare Vermögensnachteile entstehen.
 
 (4) § 11 Abs. 4 gilt entsprechend.
+
+
+### § 17 Veröffentlichung im Internet
+
+Wird der Plan nicht nach § 27a Absatz 1 des
+Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
+Umweltverträglichkeitsprüfung zugänglich gemacht, ist dieser vom
+Träger des Vorhabens zur Bürgerinformation über das Internet
+zugänglich zu machen. § 23 des Gesetzes über die
+Umweltverträglichkeitsprüfung gilt entsprechend. Maßgeblich ist der
+Inhalt des im Rahmen des Genehmigungsverfahrens zur Einsicht
+ausgelegten Plans. Hierauf ist bei der Zugänglichmachung hinzuweisen.
+
+
+### (XXXX) §§ 18 bis 19 (weggefallen)
+
 
 
 ### § 20 Vorzeitige Besitzeinweisung
@@ -810,13 +855,13 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 (1) Dient der Ausbau oder der Neubau dem Wohl der Allgemeinheit und
 ist der festgestellte Plan unanfechtbar, sind Ansprüche wegen
-nachteiliger Wirkungen gegen den Inhaber des festgestellten Plans,die
+nachteiliger Wirkungen gegen den Inhaber des festgestellten Plans, die
 auf die Unterlassung oder Beseitigung der Aus- oder Neubaumaßnahme,
 auf die Herstellung von Schutzeinrichtungen oder auf Schadensersatz
 gerichtet sind, ausgeschlossen. Hierdurch werden
 Schadensersatzansprüche wegen nachteiliger Wirkungen nicht
-ausgeschlossen, dia darauf beruhen, dass der Inhaber des
-festgesteöllten Plans angeordnete Auflagen nicht erfüllt hat.
+ausgeschlossen, die darauf beruhen, dass der Inhaber des
+festgestellten Plans angeordnete Auflagen nicht erfüllt hat.
 
 (2) Absatz 1 Satz 1 gilt nicht für vertragliche Ansprüche.
 
@@ -837,13 +882,13 @@ festgesteöllten Plans angeordnete Auflagen nicht erfüllt hat.
 
 ### § 24 Strompolizei
 
-(1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
-haben die Aufgabe, zur Gefahrenabwehr Maßnahmen zu treffen, die nötig
-sind, um die Bundeswasserstraßen in einem für die Schifffahrt
+(1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes haben die Aufgabe, zur Gefahrenabwehr Maßnahmen zu treffen, die
+nötig sind, um die Bundeswasserstraßen in einem für die Schifffahrt
 erforderlichen Zustand zu erhalten (Strompolizei).
 
 (2) Zur strompolizeilichen Überwachung der Bundeswasserstraßen dürfen
-Beauftragte der Wasser- und Schifffahrtsverwaltung Grundstücke,
+Beauftragte der Wasserstraßen- und Schifffahrtsverwaltung Grundstücke,
 Anlagen und Einrichtungen sowie Wasserfahrzeuge betreten. Das
 Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des
 Grundgesetzes) wird insoweit eingeschränkt.
@@ -870,25 +915,26 @@ Maßnahmen können auch gegen den gerichtet werden, der die tatsächliche
 Gewalt ausübt; die Maßnahmen sind nur gegen diesen zu richten, wenn er
 die tatsächliche Gewalt gegen den Willen des Eigentümers oder eines
 anderen Verfügungsberechtigten ausübt, oder wenn er auf einen im
-Einverständnis mit dem Eigentümer schriftlich gestellten Antrag als
-allein verantwortlich anerkannt worden ist.
+Einverständnis mit dem Eigentümer schriftlich oder elektronisch
+gestellten Antrag als allein verantwortlich anerkannt worden ist.
 
 
 ### § 26 Inanspruchnahme nicht verantwortlicher Personen
 
 (1) Zur Abwehr einer unmittelbar bevorstehenden Gefahr oder zur
 Beseitigung einer bereits eingetretenen Störung können die Behörden
-der Wasser- und Schifffahrtsverwaltung des Bundes strompolizeiliche
-Maßnahmen auch gegen andere als die in § 25 bezeichneten Personen
-treffen und sie besonders zur Hilfeleistung anhalten, wenn
+der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+strompolizeiliche Maßnahmen auch gegen andere als die in § 25
+bezeichneten Personen treffen und sie besonders zur Hilfeleistung
+anhalten, wenn
 
 a)  nach § 25 verantwortliche Personen nicht in Anspruch genommen werden
     können,
 
 
-b)  Maßnahmen durch die Behörden der Wasser- und Schifffahrtsverwaltung
-    des Bundes selbst oder durch beauftragte Dritte nicht möglich oder
-    ausreichend sind und
+b)  Maßnahmen durch die Behörden der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes selbst oder durch beauftragte Dritte
+    nicht möglich oder ausreichend sind und
 
 
 c)  die heranzuziehenden Personen ohne erhebliche eigene Gefahr oder
@@ -907,13 +953,13 @@ Beseitigung der Gefahr oder der Störung getroffen werden können.
 
 ### § 27 Strompolizeiverordnungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
 (Strompolizeiverordnungen) zu erlassen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
-durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die Wasser-
-und Schifffahrtsdirektionen übertragen.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die
+Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 (3) Strompolizeiverordnungen müssen in ihrem Inhalt bestimmt sein.
 
@@ -924,36 +970,36 @@ Aufhebung für ihren Erlass zuständige Behörde.
 
 ### § 28 Strompolizeiliche Verfügungen
 
-(1) Die Wasser- und Schifffahrtsämter können zur Erfüllung der
+(1) Die Wasserstraßen- und Schifffahrtsämter können zur Erfüllung der
 Aufgaben nach § 24 Abs. 1 Anordnungen erlassen, die an bestimmte
 Personen oder an einen bestimmten Personenkreis gerichtet sind und ein
 Gebot oder Verbot enthalten (Strompolizeiliche Verfügungen).
 
-(2) Strompolizeiliche Verfügungen können mündlich, schriftlich oder
-durch Zeichen erlassen werden. Sie müssen inhaltlich hinreichend
-bestimmt sein. Schriftlich erlassene Verfügungen sind zu begründen.
+(2) Strompolizeiliche Verfügungen können mündlich, schriftlich,
+elektronisch oder durch Zeichen erlassen werden. Sie müssen inhaltlich
+hinreichend bestimmt sein.
 
 (3) Ist der nach § 25 Verantwortliche nicht oder nicht rechtzeitig zu
-erreichen, kann das Wasser- und Schifffahrtsamt die notwendige
+erreichen, kann das Wasserstraßen- und Schifffahrtsamt die notwendige
 Maßnahme ausführen. Der Verantwortliche ist von der Maßnahme
 unverzüglich zu unterrichten. Entstehen durch die Maßnahme Kosten,
 können sie ihm auferlegt werden.
 
-(4) Die Vorschriften der §§ 486 bis 487e des Handelsgesetzbuchs sowie
-der §§ 4 bis 5m des Binnenschifffahrtsgesetzes bleiben unberührt.
+(4) Die Vorschriften der §§ 611 bis 617 des Handelsgesetzbuchs sowie
+der §§ 4 bis 5n des Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
 ### § 29 Verhältnismäßigkeit, Wahl der Mittel
 
 (1) Eine strompolizeiliche Verfügung darf nicht zu einem Schaden
 führen, der zu dem beabsichtigten Erfolg erkennbar außer Verhältnis
-steht. Die Wasser- und Schifffahrtsämter sollen das Mittel zur Abwehr
-der Gefahr oder zur Beseitigung der Störung bestimmen, wenn dieses für
-den Betroffenen nach den Umständen nicht ohne weiteres erkennbar ist.
-Kommen für die Erfüllung einer Aufgabe mehrere Maßnahmen in Betracht,
-haben die Wasser- und Schifffahrtsämter nach pflichtgemäßem Ermessen
-die Maßnahmen zu wählen, die den einzelnen und die Allgemeinheit am
-wenigsten beeinträchtigen.
+steht. Die Wasserstraßen- und Schifffahrtsämter sollen das Mittel zur
+Abwehr der Gefahr oder zur Beseitigung der Störung bestimmen, wenn
+dieses für den Betroffenen nach den Umständen nicht ohne weiteres
+erkennbar ist. Kommen für die Erfüllung einer Aufgabe mehrere
+Maßnahmen in Betracht, haben die Wasserstraßen- und Schifffahrtsämter
+nach pflichtgemäßem Ermessen die Maßnahmen zu wählen, die den
+einzelnen und die Allgemeinheit am wenigsten beeinträchtigen.
 
 (2) Dem Betroffenen ist auf Antrag zu gestatten, an Stelle eines durch
 strompolizeiliche Verfügung angedrohten oder festgesetzten Mittels ein
@@ -972,23 +1018,25 @@ Bundeswasserstraße oder die Sicherheit oder Leichtigkeit des Verkehrs
 auf einer Bundeswasserstraße durch in der Bundeswasserstraße hilflos
 treibende, festgekommene, gestrandete oder gesunkene Fahrzeuge oder
 schwimmende Anlagen oder durch andere treibende oder auf Grund
-geratene Gegenstände beeinträchtigt, können die Behörden der Wasser-
-und Schifffahrtsverwaltung des Bundes das Hindernis beseitigen, wenn
-ein sofortiges Einschreiten erforderlich ist und wenn ein nach § 25
-Verantwortlicher nicht oder nicht rechtzeitig herangezogen werden kann
-oder wenn zu besorgen ist, dass dieser Verantwortliche das Hindernis
-nicht oder nicht wirksam beseitigen wird.
+geratene Gegenstände beeinträchtigt, können die Behörden der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes das Hindernis
+beseitigen, wenn ein sofortiges Einschreiten erforderlich ist und wenn
+ein nach § 25 Verantwortlicher nicht oder nicht rechtzeitig
+herangezogen werden kann oder wenn zu besorgen ist, dass dieser
+Verantwortliche das Hindernis nicht oder nicht wirksam beseitigen
+wird.
 
-(2) Hat das Wasser- und Schifffahrtsamt erkennbar mit der Beseitigung
-begonnen, so dürfen ohne seine Zustimmung das Hindernis nicht mehr
-beseitigt und Gegenstände nicht mehr von diesem fortgeschafft werden.
-Soweit möglich, sind die nach § 25 Verantwortlichen und die Eigentümer
-der beseitigten Gegenstände darüber unverzüglich zu unterrichten.
+(2) Hat das Wasserstraßen- und Schifffahrtsamt erkennbar mit der
+Beseitigung begonnen, so dürfen ohne seine Zustimmung das Hindernis
+nicht mehr beseitigt und Gegenstände nicht mehr von diesem
+fortgeschafft werden. Soweit möglich, sind die nach § 25
+Verantwortlichen und die Eigentümer der beseitigten Gegenstände
+darüber unverzüglich zu unterrichten.
 
 (3) Ist das Hindernis beseitigt, ist den nach § 25 Verantwortlichen,
 den Eigentümern der beseitigten Gegenstände und den Inhabern von
 Rechten an den Gegenständen, soweit sie bekannt und alsbald zu
-erreichen sind, von der Wasser- und Schiffahrtsdirektion
+erreichen sind, von der Generaldirektion Wasserstraßen und Schifffahrt
 anheimzugeben, binnen einer von ihr zu bestimmenden Frist zur
 Vermeidung der Zwangsvollstreckung die Kosten der Beseitigung zu
 erstatten oder für sie Sicherheit zu leisten.
@@ -998,9 +1046,10 @@ nicht Sicherheit für sie geleistet wird, sind sie aus den beseitigten
 Gegenständen zu zahlen. Absatz 12 bleibt unberührt.
 
 (5) Die Vollstreckung in die Gegenstände erfolgt im Wege des
-Verwaltungszwangsverfahrens. Vollstreckungsbehörde ist die Wasser- und
-Schiffahrtsdirektion. Vollstreckungsschuldner sind die Eigentümer der
-beseitigten Gegenstände, die als solche jedoch nur zur Duldung der
+Verwaltungszwangsverfahrens. Vollstreckungsbehörde ist die
+Generaldirektion Wasserstraßen und Schifffahrt.
+Vollstreckungsschuldner sind die Eigentümer der beseitigten
+Gegenstände, die als solche jedoch nur zur Duldung der
 Zwangsvollstreckung in die Gegenstände verpflichtet sind. Der Anspruch
 des Bundes wegen der Kosten der Beseitigung und der Verwertung geht
 allen anderen Rechten an dem Erlös vor.
@@ -1011,10 +1060,10 @@ den in Absatz 3 genannten Personen zur Abwendung der
 Zwangsvollstreckung gesetzt ist.
 
 (7) Beseitigte Gegenstände, die nicht der Zwangsvollstreckung in das
-unbewegliche Vermögen unterliegen, kann die Wasser- und
-Schifffahrtsdirektion auch öffentlich versteigern lassen. Die §§ 979
-und 980 des Bürgerlichen Gesetzbuches gelten entsprechend. Aus dem
-Erlös sind die Kosten der Beseitigung und der Verwertung vorweg zu
+unbewegliche Vermögen unterliegen, kann die Generaldirektion
+Wasserstraßen und Schifffahrt auch öffentlich versteigern lassen. Die
+§§ 979 und 980 des Bürgerlichen Gesetzbuches gelten entsprechend. Aus
+dem Erlös sind die Kosten der Beseitigung und der Verwertung vorweg zu
 entnehmen.
 
 (8) Ein Überschuss bei der Verwertung der beseitigten Gegenstände ist
@@ -1023,9 +1072,9 @@ unter Verzicht auf das Recht der Rücknahme zu hinterlegen.
 (9) Die Absätze 2 bis 7 gelten nicht für die Habe der Besatzung, für
 das Reisegut der Reisenden und die Post.
 
-(10) Verfahren die Behörden der Wasser- und Schifffahrtsverwaltung des
-Bundes nach den Vorschriften der Absätze 2 bis 8, ist § 28 Abs. 3
-Sätze 2 und 3 nicht anzuwenden.
+(10) Verfahren die Behörden der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes nach den Vorschriften der Absätze 2
+bis 8, ist § 28 Abs. 3 Sätze 2 und 3 nicht anzuwenden.
 
 (11) (weggefallen)
 
@@ -1045,14 +1094,14 @@ Sätze 2 und 3 nicht anzuwenden.
 
 
 Mehrere Verpflichtete haften als Gesamtschuldner. Die Vorschriften der
-§§ 486 bis 487e des Handelsgesetzbuchs sowie der §§ 4 bis 5m des
+§§ 611 bis 617 des Handelsgesetzbuchs sowie der §§ 4 bis 5n des
 Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
 ### § 31 Strom- und schifffahrtspolizeiliche Genehmigung
 
-(1) Einer strom- und schifffahrtspolizeilichen Genehmigung des Wasser-
-und Schiffahrtsamtes bedürfen
+(1) Einer strom- und schifffahrtspolizeilichen Genehmigung des
+Wasserstraßen- und Schifffahrtsamtes bedürfen
 
 1.  Benutzungen (§ 9 des Wasserhaushaltsgesetzes) einer
     Bundeswasserstraße,
@@ -1069,27 +1118,22 @@ wenn durch die beabsichtigte Maßnahme eine Beeinträchtigung des für
 die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße oder
 der Sicherheit und Leichtigkeit des Verkehrs zu erwarten ist.
 
-(1a) Anlagen, die am 31. Dezember 1994 im Bereich der Erweiterung des
-Küstenmeeres nach dem Beschluss der Bundesregierung vom 19. Oktober
-1994 (BGBl. I S. 3428) vorhanden sind, sind dem Wasser- und
-Schifffahrtsamt anzuzeigen. Sie bedürfen keiner strom- und
-schifffahrtspolizeilichen Genehmigung, wenn das Wasser- und
-Schifffahrtsamt binnen eines Monates nach Eingang der Anzeige nichts
-anderes mitteilt. Ist eine strom- und schifffahrtspolizeiliche
-Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung
-dieser Genehmigung.
+(1a) (weggefallen)
 
 (2) Wer eine Bundeswasserstraße benutzen oder Anlagen in, über oder
 unter einer solchen Wasserstraße oder an ihrem Ufer errichten,
-verändern oder betreiben will, hat dies dem Wasser- und
+verändern oder betreiben will, hat dies dem Wasserstraßen- und
 Schifffahrtsamt anzuzeigen. Die Maßnahme bedarf keiner strom- und
-schifffahrtspolizeilichen Genehmigung, wenn das Wasser- und
+schifffahrtspolizeilichen Genehmigung, wenn das Wasserstraßen- und
 Schifffahrtsamt binnen eines Monats nach Eingang der Anzeige nichts
-anderes mitteilt. Telekommunikationslinien im Sinne des § 3 Nr. 26 des
-Telekommunikationsgesetzes sind anzeigepflichtig, aber
+anderes mitteilt. Telekommunikationslinien im Sinne des § 3 Nummer 64
+des Telekommunikationsgesetzes sind anzeigepflichtig, aber
 genehmigungsfrei. Ist eine strom- und schifffahrtspolizeiliche
 Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung
-dieser Genehmigung.
+dieser Genehmigung. Für die Erteilung der Genehmigung gelten § 11a
+Absatz 4 und 5 Satz 1 bis 6 sowie § 108 des Wasserhaushaltsgesetzes
+entsprechend, wenn es sich um eine Anlage zur Erzeugung von Energie
+aus erneuerbaren Quellen handelt.
 
 (3) Eine Anzeige oder eine strom- und schifffahrtspolizeiliche
 Genehmigung ist nicht erforderlich
@@ -1109,6 +1153,11 @@ Genehmigung ist nicht erforderlich
 
 
 
+Eine Anzeige oder eine strom- und schifffahrtspolizeiliche Genehmigung
+ist ebenfalls nicht erforderlich für Benutzungen und für Anlagen an
+den Bundeswasserstraßen, welche am 9. Juni 2021 erstmals in Anlage 1
+aufgenommen wurden, soweit die Benutzung oder Anlage vor dem 9. Juni
+2021 in zulässiger Weise ausgeübt wurde oder rechtmäßig vorhanden war.
 
 (4) Die Genehmigung kann unter Bedingungen und Auflagen erteilt
 werden, die eine Beeinträchtigung des für die Schifffahrt
@@ -1129,7 +1178,7 @@ erforderlichen Verwaltungsakte.
 
 ### § 32 Rücknahme und Widerruf der strom- und schifffahrtspolizeilichen Genehmigung
 
-(1) Das Wasser- und Schifffahrtsamt kann die strom- und
+(1) Das Wasserstraßen- und Schifffahrtsamt kann die strom- und
 schifffahrtspolizeiliche Genehmigung ganz oder teilweise widerrufen,
 wenn es zur Erhaltung der Bundeswasserstraße in einem für die
 Schifffahrt erforderlichen Zustand oder zur Abwehr von Gefahren für
@@ -1140,13 +1189,13 @@ teilweise widerrufen werden kann, ist auch bei gänzlichem oder
 teilweisem Widerruf der strom- und schifffahrtspolizeilichen
 Genehmigung Entschädigung zu leisten.
 
-(2) Das Wasser- und Schifffahrtsamt kann die Genehmigung ferner ohne
-Entschädigung ganz oder teilweise zurücknehmen, wenn der Unternehmer
-den Zweck der Maßnahme so geändert hat, dass er mit den
+(2) Das Wasserstraßen- und Schifffahrtsamt kann die Genehmigung ferner
+ohne Entschädigung ganz oder teilweise zurücknehmen, wenn der
+Unternehmer den Zweck der Maßnahme so geändert hat, dass er mit den
 Antragsunterlagen nicht mehr übereinstimmt.
 
-(3) Das Wasser- und Schifffahrtsamt kann die Genehmigung ferner ohne
-Entschädigung widerrufen, wenn der Unternehmer
+(3) Das Wasserstraßen- und Schifffahrtsamt kann die Genehmigung ferner
+ohne Entschädigung widerrufen, wenn der Unternehmer
 
 1.  die Benutzung über den Rahmen der Genehmigung erheblich ausgedehnt
     hat,
@@ -1162,13 +1211,13 @@ Entschädigung widerrufen, wenn der Unternehmer
 
 ### § 33 Besondere Pflichten im Interesse der Überwachung
 
-(1) Überprüft das Wasser- und Schifffahrtsamt, ob die Bedingungen und
-Auflagen der strom- und schifffahrtspolizeilichen Genehmigung erfüllt
-werden, hat der Inhaber der Genehmigung das Betreten von Grundstücken
-zu gestatten, die Anlagen und Einrichtungen zugänglich zu machen,
-Auskünfte zu erteilen, die erforderlichen Arbeitskräfte, Unterlagen
-und Werkzeuge zur Verfügung zu stellen und technische Ermittlungen und
-Prüfungen zu dulden.
+(1) Überprüft das Wasserstraßen- und Schifffahrtsamt, ob die
+Bedingungen und Auflagen der strom- und schifffahrtspolizeilichen
+Genehmigung erfüllt werden, hat der Inhaber der Genehmigung das
+Betreten von Grundstücken zu gestatten, die Anlagen und Einrichtungen
+zugänglich zu machen, Auskünfte zu erteilen, die erforderlichen
+Arbeitskräfte, Unterlagen und Werkzeuge zur Verfügung zu stellen und
+technische Ermittlungen und Prüfungen zu dulden.
 
 (2) Werden besondere Überwachungsmaßnahmen, vor allem fachtechnische
 Untersuchungen, erforderlich, können dem Inhaber der strom- und
@@ -1205,15 +1254,15 @@ Bundes.
 (2) Rechtliche Verpflichtungen Dritter, bestimmte Schifffahrtszeichen
 zu setzen oder zu betreiben, bleiben unberührt. Wer ein
 Schifffahrtszeichen setzen oder betreiben will, ohne dazu rechtlich
-verpflichtet zu sein, bedarf einer Genehmigung der Wasser- und
-Schifffahrtsdirektion. Die Wasser- und Schifffahrtsdirektion kann die
-Zuständigkeit zur Erteilung der Genehmigung auf das Wasser- und
-Schifffahrtsamt übertragen. Die Genehmigung kann unter Bedingungen und
-Auflagen erteilt werden, die eine Beeinträchtigung der Sicherheit und
-Leichtigkeit des Verkehrs oder des für die Schifffahrt erforderlichen
-Zustandes der Bundeswasserstraße verhüten oder ausgleichen. Die
-Genehmigung kann befristet werden. Für die Überwachung gilt § 33
-entsprechend.
+verpflichtet zu sein, bedarf einer Genehmigung der Generaldirektion
+Wasserstraßen und Schifffahrt. Die Generaldirektion Wasserstraßen und
+Schifffahrt kann die Zuständigkeit zur Erteilung der Genehmigung auf
+das Wasserstraßen- und Schifffahrtsamt übertragen. Die Genehmigung
+kann unter Bedingungen und Auflagen erteilt werden, die eine
+Beeinträchtigung der Sicherheit und Leichtigkeit des Verkehrs oder des
+für die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße
+verhüten oder ausgleichen. Die Genehmigung kann befristet werden. Für
+die Überwachung gilt § 33 entsprechend.
 
 (3) Wer auf Grund einer rechtlichen Verpflichtung oder einer
 Genehmigung ein Schifffahrtszeichen setzt oder betreibt, nimmt damit
@@ -1231,21 +1280,21 @@ Schifffahrtszeichen gelten § 7 Abs. 3 und § 16 entsprechend.
 
 (6) Für die Ablieferung besitzlos gewordener bundeseigener
 Schifffahrtszeichen einschließlich Zubehör und Anlageteile sowie
-bundeseigener meereskundlicher Messgeräte setzt das zuständige Wasser-
-und Schifffahrtsamt auf Antrag des Bergers dieser Gegenstände einen
-von dem Amt zu erstattenden Bergelohn nach Maßgabe der vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+bundeseigener meereskundlicher Messgeräte setzt das zuständige
+Wasserstraßen- und Schifffahrtsamt auf Antrag des Bergers dieser
+Gegenstände einen von dem Amt zu erstattenden Bergelohn nach Maßgabe
+der vom Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Wirtschaft und Technologie festgelegten
+Bundesministerium für Wirtschaft und Energie festgelegten
 Vergütungssätze fest.
 
 
 ### § 35 Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
 
-(1) Die Wasser- und Schifffahrtsverwaltung des Bundes unterhält neben
-der ihr nach § 8 obliegenden Unterhaltung, soweit möglich und
+(1) Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes unterhält
+neben der ihr nach § 8 obliegenden Unterhaltung, soweit möglich und
 zumutbar, einen Wasserstands- und Hochwassermeldedienst im Benehmen
-mit den Ländern, um zu einer rechtzeitigen und zuverlässigen
+mit den Ländern, auch um zu einer rechtzeitigen und zuverlässigen
 Hochwasserwarnung und -vorhersage beizutragen. Sie soll, unbeschadet
 anderer besonderer Verpflichtungen, für die Eisbekämpfung auf den
 Bundeswasserstraßen sorgen, soweit sie wirtschaftlich zu vertreten
@@ -1300,11 +1349,11 @@ das Grundstück zum Verkehrswert erwirbt.
 
 ### § 37 Einigung, Festsetzungsbescheid
 
-(1) Zuständig für die Festsetzung der Entschädigung ist die Wasser-
-und Schifffahrtsdirektion. Sie hat auf eine gütliche Einigung
-hinzuwirken. Kommt vor Festsetzung der Entschädigung eine Einigung
-zustande, ist eine Niederschrift aufzunehmen. Die Niederschrift
-enthält:
+(1) Zuständig für die Festsetzung der Entschädigung ist die
+Generaldirektion Wasserstraßen und Schifffahrt. Sie hat auf eine
+gütliche Einigung hinzuwirken. Kommt vor Festsetzung der Entschädigung
+eine Einigung zustande, ist eine Niederschrift aufzunehmen. Die
+Niederschrift enthält:
 
 1.  Ort und Zeit der Verhandlung;
 
@@ -1322,8 +1371,8 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht
 vorzulegen. In der Niederschrift ist zu vermerken, dass es geschehen
 und die Genehmigung erteilt ist.
 
-(2) Kommt keine Einigung zustande, setzt die Wasser- und
-Schifffahrtsdirektion die Entschädigung fest. In den
+(2) Kommt keine Einigung zustande, setzt die Generaldirektion
+Wasserstraßen und Schifffahrt die Entschädigung fest. In den
 Festsetzungsbescheid sind die Angaben nach Absatz 1 Satz 4 Nr. 2
 aufzunehmen. Er ist zu begründen und den Beteiligten mit einer
 Belehrung über den Rechtsweg (§ 39) zuzustellen; § 58 der
@@ -1345,10 +1394,10 @@ Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 (2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der
-Geschäftsstelle des Amtsgerichts erteilt, in dessen Bezirk die Wasser-
-und Schifffahrtsdirektion ihren Sitz hat. In den Fällen der §§ 731,
-767 bis 770, 785, 786 und 791 der Zivilprozessordnung entscheidet das
-in Satz 1 bezeichnete Gericht.
+Geschäftsstelle des Amtsgerichts erteilt, in dessen Bezirk die
+Generaldirektion Wasserstraßen und Schifffahrt ihren Sitz hat. In den
+Fällen der §§ 731, 767 bis 770, 785, 786 und 791 der
+Zivilprozessordnung entscheidet das in Satz 1 bezeichnete Gericht.
 
 (3) Die vollstreckbare Ausfertigung des Festsetzungsbescheides wird
 nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
@@ -1360,16 +1409,18 @@ nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
 binnen einer Frist von drei Monaten nach Zustellung des Bescheides
 Klage vor den ordentlichen Gerichten erheben. Diese Frist ist eine
 Notfrist im Sinne der Zivilprozessordnung. Die Klage kann auch erhoben
-werden, wenn die Wasser- und Schifffahrtsdirektion binnen sechs
-Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang, der
-die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht
-festgesetzt hat; ist eine Entschädigung nach § 22 Abs. 2 festzusetzen,
-beginnt die Frist von sechs Monaten mit der Antragstellung.
+werden, wenn die Generaldirektion Wasserstraßen und Schifffahrt binnen
+sechs Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang,
+der die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht
+festgesetzt hat; ist eine Entschädigung nach § 75 Absatz 2 Satz 4 des
+Verwaltungsverfahrensgesetzes festzusetzen, beginnt die Frist von
+sechs Monaten mit der Antragstellung.
 
 (2) Für die Klage ist das Landgericht ohne Rücksicht auf den Wert des
 Streitgegenstandes ausschließlich zuständig. Örtlich zuständig ist
 ausschließlich das Landgericht, in dessen Bezirk die Beeinträchtigung
-eintritt; § 36 Nr. 4 der Zivilprozessordnung gilt entsprechend.
+eintritt; § 36 Absatz 1 Nr. 4 der Zivilprozessordnung gilt
+entsprechend.
 
 (3) Die Klage gegen den Entschädigungspflichtigen wegen der
 Entschädigung in Geld ist auf Zahlung des verlangten Betrages oder
@@ -1415,12 +1466,12 @@ Kreuzungsanlagen.
 
 ### § 41 Kosten der Herstellung von Kreuzungsanlagen
 
-(1) Werden Bundeswasserstraßen ausgebaut oder neugebaut und müssen
+(1) Werden Bundeswasserstraßen ausgebaut oder neu gebaut und müssen
 neue Kreuzungen mit öffentlichen Verkehrswegen hergestellt oder
-bestehende geändert werden, hat die Wasser- und Schifffahrtsverwaltung
-des Bundes die Kosten der Kreuzungsanlagen oder ihrer Änderung zu
-tragen, soweit nicht ein anderer auf Grund eines bestehenden
-Rechtsverhältnisses dazu verpflichtet ist.
+bestehende geändert werden, hat die Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes die Kosten der Kreuzungsanlagen oder
+ihrer Änderung zu tragen, soweit nicht ein anderer auf Grund eines
+bestehenden Rechtsverhältnisses dazu verpflichtet ist.
 
 (2) Werden öffentliche Verkehrswege verändert oder neu angelegt und
 müssen neue Kreuzungen mit Bundeswasserstraßen hergestellt oder
@@ -1456,7 +1507,7 @@ Beseitigung öffentlicher Verkehrswege verbunden sind. Kommt über die
 Aufteilung der Kosten keine Einigung zustande, so ist hierüber im
 Planfeststellungsbeschluss (§ 14b) zu entscheiden.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten näher bestimmt wird und für die
@@ -1494,22 +1545,22 @@ entstehen.
 Mehrkosten zu erstatten, die anderen bei der Erfüllung ihrer
 Unterhaltungsaufgaben durch die Kreuzungsanlagen erwachsen.
 
-(4) Ist die Wasser- und Schifffahrtsverwaltung des Bundes zur
+(4) Ist die Wasserstraßen- und Schifffahrtsverwaltung des Bundes zur
 Unterhaltung nach Absatz 1 verpflichtet, erstreckt sich ihre
 Verpflichtung nur auf das Kreuzungsbauwerk. Die übrigen Teile der
 Kreuzungsanlagen haben die Beteiligten zu unterhalten, zu deren
-öffentlichen Verkehrswegen sie gehören. Die Wasser- und
+öffentlichen Verkehrswegen sie gehören. Die Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes hat den Beteiligten die Mehrkosten
 der Unterhaltung an den Kreuzungsanlagen außerhalb des
 Kreuzungsbauwerks zu erstatten.
 
 (4a) In den Fällen der Absätze 2, 3 und 4 Satz 3 sind die Mehrkosten
 und die anteiligen Unterhaltungskosten auf Verlangen eines Beteiligten
-abzulösen. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
-die Berechnung und die Zahlung von Ablösungsbeträgen näher zu
-bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung von
-Streitigkeiten festzulegen.
+abzulösen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch
+Rechtsverordnung die Berechnung und die Zahlung von Ablösungsbeträgen
+näher zu bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung
+von Streitigkeiten festzulegen.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten
 dieses Gesetzes die Tragung der Kosten nach bestehenden
@@ -1526,37 +1577,37 @@ hat der Rechtsträger, auf dessen Kosten die Brücke errichtet oder
 geändert wird, auch die Kosten der Herstellung dieser Einrichtungen zu
 tragen.
 
-(2) Die Unterhaltung der Einrichtungen obliegt der Wasser- und
+(2) Die Unterhaltung der Einrichtungen obliegt der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes. Die Unterhaltung umfasst auch
 spätere Erneuerungen und den Betrieb der Einrichtungen. Der
 Rechtsträger, auf dessen Kosten die Einrichtungen hergestellt sind,
-hat der Wasser- und Schifffahrtsverwaltung des Bundes die
+hat der Wasserstraßen- und Schifffahrtsverwaltung des Bundes die
 Unterhaltungskosten zu erstatten.
 
 (3) Sind die Einrichtungen wegen der Entwicklung der Schifffahrt oder
 bei einer Änderung von Rechtsvorschriften durch andere Einrichtungen
-zu ersetzen, hat die Wasser- und Schifffahrtsverwaltung des Bundes die
-neuen Einrichtungen auf ihre Kosten herzustellen und zu unterhalten.
-Der nach Absatz 2 Satz 3 Verpflichtete hat zu den weiteren
-Unterhaltungskosten bis zur Höhe seiner bisherigen Verpflichtungen
-beizutragen.
+zu ersetzen, hat die Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes die neuen Einrichtungen auf ihre Kosten herzustellen und zu
+unterhalten. Der nach Absatz 2 Satz 3 Verpflichtete hat zu den
+weiteren Unterhaltungskosten bis zur Höhe seiner bisherigen
+Verpflichtungen beizutragen.
 
 (4) Werden die Einrichtungen erst nach der Errichtung der Brücke
-notwendig, hat sie die Wasser- und Schifffahrtsverwaltung des Bundes
-auf ihre Kosten herzustellen und zu unterhalten.
+notwendig, hat sie die Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes auf ihre Kosten herzustellen und zu unterhalten.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten
 dieses Gesetzes die Tragung der Kosten nach bestehenden
 Rechtsverhältnissen anders geregelt ist.
 
 (6) Wenn es die besonderen Verhältnisse einer Brücke erfordern, kann
-die Wasser- und Schifffahrtsverwaltung des Bundes mit dem für die
-Brücke zuständigen Rechtsträger vereinbaren, dass dieser Einrichtungen
-ganz oder teilweise herstellt, betreibt oder andere Aufgaben der
-Wasser- und Schifffahrtsverwaltung des Bundes zu ihrer Unterhaltung
-wahrnimmt. Durch die Vereinbarung werden die Obliegenheiten der
-Wasser- und Schifffahrtsverwaltung des Bundes nach den Absätzen 2 bis
-4 nicht berührt.
+die Wasserstraßen- und Schifffahrtsverwaltung des Bundes mit dem für
+die Brücke zuständigen Rechtsträger vereinbaren, dass dieser
+Einrichtungen ganz oder teilweise herstellt, betreibt oder andere
+Aufgaben der Wasserstraßen- und Schifffahrtsverwaltung des Bundes zu
+ihrer Unterhaltung wahrnimmt. Durch die Vereinbarung werden die
+Obliegenheiten der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes nach den Absätzen 2 bis 4 nicht berührt.
 
 
 ## Abschnitt 10 - Durchführung des Gesetzes
@@ -1583,19 +1634,18 @@ Landesrecht durchgeführt.
 
 ### § 45 Zuständigkeiten
 
-(1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
-führen dieses Gesetz durch, wenn es nichts anderes bestimmt.
+(1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes führen dieses Gesetz durch, wenn es nichts anderes bestimmt.
 
 (2) (weggefallen)
 
-(3) Als fachtechnische Behörden stehen der Wasser- und
+(3) Als fachtechnische Behörden stehen der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes die Bundesanstalt für Wasserbau, die
 Bundesanstalt für Gewässerkunde und, soweit Fragen der Fischerei
 berührt werden, auch das Johann Heinrich von Thünen-Institut,
 Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, eine
 selbständige Bundesoberbehörde im Geschäftsbereich des
-Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz, zur Verfügung.
+Bundesministeriums für Ernährung und Landwirtschaft, zur Verfügung.
 
 (4) Die nach diesem Gesetz begründeten Zuständigkeiten bestehen auch
 in den Teilen einer Bundeswasserstraße, die in einen Hafen einbezogen
@@ -1623,10 +1673,10 @@ unberührt.
 
 ### § 46 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Rechtsverordnungen zu erlassen über
 
-1.  die Regelung des Betriebs von Anlagen nach § 1 Abs. 4 Nr. 1,
+1.  die Regelung des Betriebs von Anlagen nach § 1 Absatz 6 Nummer 1,
 
 
 2.  die Zulassung des Befahrens von Talsperren und Speicherbecken mit
@@ -1637,39 +1687,23 @@ ermächtigt, Rechtsverordnungen zu erlassen über
     Rahmen des § 6,
 
 
-4.  die Zuständigkeiten der Behörden der Wasser- und
+4.  die Zuständigkeiten der Behörden der Wasserstraßen- und
     Schifffahrtsverwaltung des Bundes, wenn ihre Zuständigkeiten nicht
     bereits im Gesetz festgelegt sind.
 
 
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
-Rechtsverordnung diese Ermächtigung auf die Wasser- und
-Schifffahrtsdirektionen übertragen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
-### § 47 Kostenregelung
-
-(1) Für Amtshandlungen nach den §§ 14, 14b, 14d, 28, 31, 32, 34, 37
-dieses Gesetzes und § 75 Abs. 2 Satz 2 und 4 des
-Verwaltungsverfahrensgesetzes sowie nach den auf Grund der §§ 5, 27
-und 46 erlassenen Rechtsverordnungen werden Kosten (Gebühren und
-Auslagen) erhoben.
-
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung die Gebühren für die einzelnen Amtshandlungen
-im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-der mit den Amtshandlungen verbundene Personal- und Sachaufwand
-gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die
-Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den
-Gebührenschuldner angemessen berücksichtigt werden.
+### § 47 (weggefallen)
 
 
 ### § 48 Anforderungen der Sicherheit und Ordnung
 
-Die Wasser- und Schifffahrtsverwaltung des Bundes ist dafür
+Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes ist dafür
 verantwortlich, dass die bundeseigenen Schifffahrtsanlagen und
 Schifffahrtszeichen sowie die bundeseigenen wasserbaulichen Anlagen
 allen Anforderungen der Sicherheit und Ordnung genügen. Behördlicher
@@ -1694,9 +1728,11 @@ Genehmigungen, Erlaubnisse und Abnahmen bedarf es nicht.
 
 
 2.  einer Vorschrift einer nach § 5 Satz 3, § 27 oder § 46 Nr. 1 bis 3
-    ergangenen Rechtsverordnung zuwiderhandelt, soweit die
-    Rechtsverordnung für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist,
+    ergangenen Rechtsverordnung, einer auf Grund einer solchen
+    Rechtsverordnung ergangenen vollziehbaren Anordnung oder einer
+    vollziehbaren Auflage einer auf Grund einer solchen Rechtsverordnung
+    ergangenen Genehmigung zuwiderhandelt, soweit die Rechtsverordnung für
+    einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
 3.  entgegen der Vorschrift des § 30 Abs. 2 ein Hindernis beseitigt oder
@@ -1742,10 +1778,118 @@ Genehmigungen, Erlaubnisse und Abnahmen bedarf es nicht.
 Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist die Wasser- und Schifffahrtsdirektion.
+über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und
+Schifffahrt.
 
 
-### (XXXX) §§ 51 bis 55 (weggefallen)
+### § 51 Ordnungswidrigkeitendatei
+
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
+Datei über die von ihr verfolgten Ordnungswidrigkeiten gemäß § 50 zum
+Zweck der Bearbeitung von Ordnungswidrigkeitenverfahren und der
+Vorgangsverwaltung.
+
+(2) Zu den in Absatz 1 genannten Zwecken können folgende Daten
+gespeichert werden:
+
+1.  zum Betroffenen:
+
+    a)  Familienname, Geburtsname und Vornamen,
+
+
+    b)  Tag und Ort der Geburt,
+
+
+    c)  Anschrift,
+
+
+    d)  gegebenenfalls Name und Anschrift des gesetzlichen Vertreters,
+
+
+    e)  gegebenenfalls Name und Anschrift des Unternehmens sowie
+
+
+    f)  gegebenenfalls Name und Anschrift des Zustellungsbevollmächtigten,
+
+
+
+
+
+2.  die zuständige Bußgeldstelle und das Aktenzeichen,
+
+
+3.  die Tatzeiten und Tatorte sowie Merkmale von Tatwerkzeugen,
+
+
+4.  die Tatvorwürfe durch Angabe der gesetzlichen Vorschriften und die
+    nähere Bezeichnung der Ordnungswidrigkeiten,
+
+
+5.  das Datum der Einleitung des Verfahrens sowie das Datum der
+    Verfahrenserledigung durch die Bußgeldstelle, die Staatsanwaltschaft
+    und das Gericht unter Angabe der gesetzlichen Vorschriften,
+
+
+6.  die für die ordnungsgemäße Vorgangsverwaltung erforderlichen Daten,
+    insbesondere die Höhe der Geldbuße.
+
+
+
+
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung Folgendes zu bestimmen:
+
+1.  das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2
+    Nummer 3 bis 6,
+
+
+2.  Verfahren von besonderer Bedeutung nach Absatz 5 und die dabei
+    einzuhaltenden Löschungsfristen.
+
+
+
+
+(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen,
+soweit dies erforderlich ist, zu folgenden Zwecken folgenden Stellen
+auch in elektronischer Form übermittelt werden:
+
+1.  zur Durchführung von Verwaltungsaufgaben
+
+    a)  nach diesem Gesetz oder
+
+
+    b)  nach Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen
+        wurden,
+
+
+
+    den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes und der Wasserschutzpolizeien der Länder sowie der Bundeskasse,
+
+
+2.  zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, die im
+    Zusammenhang mit der als Ordnungswidrigkeit verfolgten Tat stehen, den
+    Gerichten, Staatsanwaltschaften sowie den Dienststellen der
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der
+    Wasserschutzpolizeien der Länder oder
+
+
+3.  zur Vollstreckung von Bußgeldbescheiden oder von Anordnungen der
+    Einziehung des Wertes von Taterträgen im Sinne des § 29a des Gesetzes
+    über Ordnungswidrigkeiten den Gerichten, Staatsanwaltschaften und
+    Hauptzollämtern.
+
+
+
+
+(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu
+löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr
+erforderlich sind, spätestens jedoch nach dem Ende der
+Vollstreckungsverjährung. Dies gilt nicht, soweit bei Verfahren von
+besonderer Bedeutung eine längere Frist erforderlich ist.
+
+
+### (XXXX) §§ 52 bis 55 (weggefallen)
 
 
 
@@ -1782,6 +1926,22 @@ Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
 soweit der Plan noch nicht außer Kraft getreten ist.
 
+(7) Wurde für eine Maßnahme nach § 12 Absatz 2 Satz 1 Nummer 3 vor dem
+9\. Juni 2021 ein Verfahren zur Unterrichtung über den
+Untersuchungsrahmen nach § 15 des Gesetzes über die
+Umweltverträglichkeitsprüfung oder ein Planfeststellungs- oder
+Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes
+eingeleitet, so führt die zuständige Landesbehörde dieses Verfahren
+nach dem bis zum 9. Juni 2021 geltenden Recht fort.
+
+(8) Sind dem bisherigen Träger einer Maßnahme nach § 12 Absatz 2 Satz
+1 Nummer 3, für die vor dem 9. Juni 2021 noch kein Verfahren zur
+Unterrichtung über den Untersuchungsrahmen nach § 15 des Gesetzes über
+die Umweltverträglichkeitsprüfung oder kein Planfeststellungs- oder
+Plangenehmigungsverfahren nach § 68 des Wasserhaushaltsgesetzes
+eingeleitet worden ist, Kosten entstanden, so kann er hierfür keine
+Erstattung vom Bund verlangen.
+
 
 ### § 57
 
@@ -1797,842 +1957,1035 @@ soweit der Plan noch nicht außer Kraft getreten ist.
 
 (Inkrafttreten)
 
+((zu § 1 Absatz 1 Nummer 1 und Absatz 7 und § 2 Absatz 2)
 
-### Anlage 1 (zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2) Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+### Anlage 1 Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
-Fundstelle des Originaltextes: BGBl. I 2007, 977 - 984;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+Fundstelle: (BGBl. I 2021, 1298 - 1305)
 
-*    *   Lfd. Nr.
+*    *   Lfd.
+        **Nr.**
 
-    *   Bezeichnung der Wasserstraßen
+    *   **Bezeichnung der Wasserstraße**
 
-    *   Endpunkte der Wasserstraße
+    *   **Endpunkte der Wasserstraße**
 
 
 *    *   1
 
-    *   Aller
+    *   **Aller**
 
     *   Mühlenwehr in Celle (km 0,25)
 
     *   Weser
 
 
-*    *
-
 *    *   2
 
-    *   Altmühl
+    *   **Altmühl**
 
     *   90 m oberhalb der Brückenachse des Wehres Dietfurt
 
     *   Main-Donau-Kanal
 
 
-*    *
-
 *    *   3
 
-    *   Berlin-Spandauer Schifffahrtskanal mit Westhafen-Verbindungskanal,
-        Westhafenkanal nebst Charlottenburger Verbindungskanal (zur Spree)
+    *   **Berlin-Spandauer Schifffahrtskanal**
+        mit
+        Westhafen-Verbindungskanal,
+        Westhafenkanal nebst
+        Charlottenburger Verbindungskanal
+        (zur Spree)
 
-    *   Havel-Oder-Wasserstraße (Spandauer Havel)
+    *   Havel-Oder-Wasserstraße [Spandauer Havel]
 
-    *   Spree-Oder-Wasserstraße, Humboldthafen
+    *   Spree-Oder-Wasserstraße,
+        Humboldthafen
 
-
-*    *
 
 *    *   4
 
-    *   Dahme-Wasserstraße (Dolgensee, Krüpelsee, Krimnicksee, Sellenzugsee,
-        Zeuthener See) mit Storkower Gewässer (Scharmützelsee, Storkower See,
-        Storkower Kanal, Wolziger See, Langer See), Möllenzugsee, Wernsdorfer
-        Seenkette (Wernsdorfer See südlich Oder-Spree-Kanal, Krossinsee, Gr.
-        Zug)
+    *   **Dahme-Wasserstraße**
+        [Dolgensee, Krüpelsee, Krimnicksee,
+        Sellenzugsee, Zeuthener See]
+        mit
+        Teupitzer Gewässer [Teupitzer See, Schweriner See, Zemminsee,
+        Schulzensee, Gr. und Kl. Moddersee,
+        Klein Köriser See, Hölzerner See,
+        Schmöldesee, Huschsee],
+        Storkower Gewässer [Scharmützelsee, Storkower See, Storkower Kanal,
+        Wolziger See, Langer See],
+        Zernsdorfer Lanke (von Kablow-Ziegelei
+        (km 3,07) bis zum Krüpelsee),
+        Notte (vom Hafen Königs Wusterhausen
+        (km 0,99) bis zur Dahme-Wasserstraße
+        (Niederlehme)),
+        Möllenzugsee,
+        Wernsdorfer Seenkette
+        [Wernsdorfer See nördlich (km 8,20)
+        und südlich Oder-Spree-Kanal,
+        Krossinsee, Gr. Zug]
 
-    *   Prieros (km 25,00)
+    *   oberhalb der Einmündung der Teupitzer Gewässer (km 26,04)
 
-    *   Spree-Oder-Wasserstraße, Schmöckwitz
+    *   Spree-Oder-Wasserstraße,
+        Schmöckwitz
 
-
-*    *
 
 *    *   5
 
-    *   Datteln-Hamm-Kanal
+    *   **Datteln-Hamm-Kanal**
 
     *   Dortmund-Ems-Kanal, Datteln
 
     *   Schmehausen (km 47,20)
 
 
-*    *
-
 *    *   6
 
-    *   Donau (Regen vom Schleusenkanal Regensburg bis zum Donau-Nordarm) mit
+    *   **Donau**
+        [Regen vom Schleusenkanal Regensburg
+        bis zum Donau-Nordarm]
+        mit
         Donau-Südarm in Regensburg
 
-    *   Kelheim (km 2.414,72)
+    *   Kelheim (km 2 414,72)
 
-    *   deutsch-österreichische Grenze bei Jochenstein
+    *   deutsch-österreichische
+        Grenze bei Jochenstein
 
-
-*    *
 
 *    *   7
 
-    *   Dortmund-Ems-Kanal (Ems von Gleesen bis Hanekenfähr, Hase vom
-        Dortmund-Ems-Kanal bis zur Ems, Ems von Meppen bis Papenburg) mit
+    *   **Dortmund-Ems-Kanal**
+        [Ems von Gleesen bis Hanekenfähr,
+        Hase vom Dortmund-Ems-Kanal
+        bis zur Ems, Ems von Meppen
+        bis Papenburg]
+        mit
         Ersten Fahrten
+        mit
+        Altkanal Ems-Hase-Kanal Hanekenfähr,
+        Altkanal Ems-Hase-Kanal Meppen
+        (von 164,75 bis zur Hase)
 
-    *   Hafen Dortmund (km 1,44) und Einmündung des Rhein-Herne-Kanals bei
+    *   Hafen Dortmund (km 1,44)
+        und
+        Einmündung des
+        Rhein-Herne-Kanals bei
         Henrichenburg (km 15,45)
 
-    *   Ems, Verbindungslinie bei Papenburg zwischen dem Diemer Schöpfwerk und
-        dem Deichdurchlass bei Halte
+    *   Ems,
+        Verbindungslinie bei
+        Papenburg zwischen dem
+        Diemer Schöpfwerk und dem
+        Deichdurchlass bei Halte
 
-
-*    *
 
 *    *   8
 
-    *   Eider
+    *   **Eider**
 
-    *   oberhalb der Einmündung des Gieselaukanals (km 22,64)
+    *   Rendsburg (km 0,12)
 
-    *   Nordsee, Verbindungslinie zwischen der Mitte der Burg (Tränke) und dem
-        Kirchturm von Vollerwiek
+    *   Nordsee,
+        Verbindungslinie zwischen
+        der Mitte der Burg (Tränke) und dem Kirchturm von
+        Vollerwiek
 
-
-*    *
 
 *    *   9
 
-    *   Elbe (Norderelbe) mit Süderelbe und Köhlbrand, Bützflether Süderelbe
-        (von km 0,69 bis zur Elbe), Ruthenstrom (von km 3,75 bis zur Elbe),
-        Wischhafener Süderelbe (von km 8,03 bis zur Elbe)
+    *   **Elbe**
+        [Norderelbe]
+        mit
+        Süderelbe und Köhlbrand,
+        Bützflether Süderelbe
+        (von km 0,69 bis zur Elbe),
+        Ruthenstrom (von km 3,75 bis zur Elbe),
+        Wischhafener Süderelbe
+        (von km 8,03 bis zur Elbe)
 
     *   deutsch-tschechische Grenze bei Schöna
 
-    *   Nordsee, Verbindungslinie zwischen der Kugelbake bei Döse und der
-        westlichen Kante des Deichs des Friedrichskoogs (Dieksand)
+    *   Nordsee,
+        Verbindungslinie zwischen der Kugelbake bei Döse und der westlichen
+        Kante des Deichs des Friedrichskoogs
+        (Dieksand)
 
-
-*    *
 
 *    *   10
 
-    *   Elbe-Havel-Kanal (Gr. Wendsee) mit Niegripper Verbindungskanal (zur
-        Elbe), Pareyer Verbindungskanal (zur Elbe) nebst Baggerelbe (von km
-        0,31 bis zum Pareyer Verbindungskanal), Roßdorfer Altkanal (von der
-        westlichen Abzweigung bis km 0,90), Woltersdorfer Altkanal
+    *   **Elbe-Havel-Kanal**
+        [Gr. Wendsee]
+        mit
+        Niegripper Verbindungskanal (zur Elbe),
+        Niegripper Altkanal
+        (vom Elbe-Havel-Kanal bis km 0,45),
+        Pareyer Verbindungskanal
+        nebst Baggerelbe (von km 2,02 bis zum Pareyer Verbindungskanal),
+        Bergzower Altkanal
+        (Unterhaupt der ehem. Schleuse
+        (km 28,62) bis Elbe-Havel-Kanal),
+        Altenplathower Altkanal,
+        Roßdorfer Altkanal, Woltersdorfer Altkanal,
+        Wasserstraße Kl. Wendsee-Wusterwitzer See
 
-    *   Mittellandkanal, Ende des unteren Schleusenvorhafens Hohenwarthe
+    *   Mittellandkanal,
+        Ende des unteren Schleusenvorhafens Hohenwarthe
 
-    *   Untere Havel-Wasserstraße (Plauer See)
+    *   Untere Havel-Wasserstraße [Plauer See]
 
-
-*    *
 
 *    *   11
 
-    *   Elbe-Lübeck-Kanal
+    *   **Elbe-Lübeck-Kanal**
 
-    *   Trave, 71 m nordöstlich der Achse der Geniner Straßenbrücke
+    *   Trave,
+        71 m nordöstlich der Achse der Geniner Straßenbrücke
 
     *   Elbe
 
 
-*    *
-
 *    *   12
 
-    *   Elbe-Seitenkanal
+    *   **Elbe-Seitenkanal**
 
     *   Mittellandkanal
 
     *   Elbe
 
 
-*    *
-
 *    *   13
 
-    *   Ems (ohne Abschnitt des Dortmund-Ems-Kanals von Meppen bis Papenburg)
+    *   **Elisabethfehnkanal**
 
-    *   Hanekenfähr (km 84,41)
+    *   Küstenkanal bei Kampe
 
-    *   Nordsee, Verbindungslinie der nordöstlichen Deichecke bei Het Oude
-        Schip (ungefähre Lage 53 Grad 26' 5" N und 6 Grad 52' 4" O) und der
-        vorspringenden Deichecke westlich Pilsum (ungefähre Lage 53 Grad 29'
-        8" N und 7 Grad 1' 52" O)
+    *   Sagter Ems
 
-
-*    *
 
 *    *   14
 
-    *   Ems-Seitenkanal
+    *   **Ems**
+        (ohne Abschnitt des
+        Dortmund-Ems-Kanals von
+        Gleesen bis Hanekenfähr
+        und von Meppen bis Papenburg)
+
+    *   oberhalb der Eisenbahnbrücke südlich Rheine (km 44,77)
+
+    *   Nordsee,
+        Verbindungslinie der
+        nordöstlichen Deichecke bei
+        Het Oude Schip
+        (geografische Koordinaten
+        im Bezugssystem WGS84:
+        53° 25' 59" N/006° 52' 01" E) und der vorspringenden
+        Deichecke westlich Pilsum (geografische Koordinaten
+        im Bezugssystem WGS84:
+        53° 29' 02" N/007° 01' 49" E)
+
+
+*    *   15
+
+    *   **Ems-Seitenkanal**
 
     *   Ems, Oldersum
 
     *   Unterhaupt der Borßumer Schleuse in Emden
 
 
-*    *
+*    *   16
 
-*    *   15
+    *   **Ems-Jade-Kanal**
+        nebst Auslasskanal Mariensiel
 
-    *   Este
+    *   Ostkante der Autobahnbrücke bei Sande (km 61,96)
+
+    *   Unterwasser der Schleuse Mariensiel (km 67,40)
+
+
+*    *   17
+
+    *   **Este**
 
     *   Unterwasser der Schleuse Buxtehude (km 0,25)
 
-    *   Elbe (Mühlenberger Loch)
+    *   Elbe [Mühlenberger Loch]
 
 
-*    *
+*    *   18
 
-*    *   16
+    *   **Freiburger Hafenpriel**
 
-    *   Freiburger Hafenpriel
-
-    *   Ostkante der Deichschleuse in Freiburg an der Elbe
+    *   Ostkante der Deichschleuse
+        in Freiburg an der Elbe
 
     *   Elbe
 
 
-*    *
+*    *   19
 
-*    *   17
+    *   **Fulda**
 
-    *   Fulda
-
-    *   Kiesgrube bei Kassel (km 76,78)
+    *   Mecklar (km 0,00)
 
     *   Weser
 
 
-*    *
+*    *   20
 
-*    *   18
-
-    *   Gieselaukanal
+    *   **Gieselaukanal**
 
     *   Nord-Ostsee-Kanal
 
     *   Eider
 
 
-*    *
+*    *   21
 
-*    *   19
+    *   **Hase**
 
-    *   Hase
-
-    *   unterhalb der Einmündung des Ems-Hase-Kanals (km 165,07)
+    *   oberhalb der Einmündung des Ems-Hase-Kanals in Meppen
+        (km 165,02)
 
     *   Dortmund-Ems-Kanal
 
 
-*    *
+*    *   22
 
-*    *   20
+    *   **Havelkanal**
 
-    *   Havelkanal
-
-    *   Havel-Oder-Wasserstraße, Nieder Neuendorf
+    *   Havel-Oder-Wasserstraße,
+        Nieder Neuendorf
 
     *   Untere Havel-Wasserstraße, Paretz
 
 
-*    *
+*    *   23
 
-*    *   21
-
-    *   Havel-Oder-Wasserstraße (Spandauer Havel (Spandauer See, Nieder
-        Neuendorfer See), Oder-Havel-Kanal (Lehnitzsee), Oderberger Gewässer
-        (Lieper See, Oderberger See, Alte Oder), Hohensaaten-Friedrichsthaler
-        Wasserstraße, Westoder von der Einmündung der Hohensaaten-
-        Friedrichsthaler Wasserstraße) mit Tegeler See, Veltener Stichkanal,
-        Oranienburger Havel (von km 2,81 bis zur Havel-Oder-Wasserstraße),
-        Malzer Kanal (bei Malz) (von der unteren Trenndammspitze der Schleuse
-        Malz bis zur Havel-Oder-Wasserstraße), Werbelliner Gewässer
-        (Werbellinsee, Werbellinkanal nördlich Oder-Havel-Kanal,
-        Pechteichsee), Wriezener Alte Oder (von km 2,53 bis zur Havel-Oder-
-        Wasserstraße), Verbindungskanal Hohensaaten Ost (zur Oder),
-        Verbindungskanal Schwedter Querfahrt (zur Oder), Westoder (von der
-        Oder bis zur Hohensaaten-Friedrichsthaler Wasserstraße)
+    *   **Havel-Oder-Wasserstraße**
+        [Spandauer Havel (Spandauer See,
+        Nieder Neuendorfer See),
+        Oder-Havel-Kanal (Lehnitzsee),
+        Oderberger Gewässer (Lieper See,
+        Oderberger See, Alte Oder),
+        Hohensaaten-Friedrichsthaler
+        Wasserstraße, Westoder von der
+        Einmündung der Hohensaaten-
+        Friedrichsthaler Wasserstraße]
+        mit
+        Tegeler See, Veltener Stichkanal,
+        Oranienburger Kanal, Oranienburger Havel
+        nebst Gr. Wehrarm Sachsenhausen,
+        Friedrichsthaler Havel, Malzer Kanal
+        (bei Malz), Schnelle Havel,
+        Finowkanal nebst Mäckerseekanal
+        [Mäckersee],
+        Werbelliner Gewässer [Werbellinsee,
+        Werbellinkanal nördlich und südlich
+        Oder-Havel-Kanal, Rosenbeckersee,
+        Pechteichsee],
+        Wriezener Alte Oder (von km 2,53
+        bis zur Havel-Oder-Wasserstraße),
+        Verbindungskanal Hohensaaten Ost
+        (zur Oder), Verbindungskanal Schwedter Querfahrt (zur Oder), Westoder
+        (von der Oder bis zur Hohensaaten-
+        Friedrichsthaler Wasserstraße)
 
     *   Spreemündung, Spandau
 
-    *   deutsch-polnische Grenze bei Mescherin
+    *   deutsch-polnische Grenze
+        bei Mescherin
 
 
-*    *
+*    *   24
 
-*    *   22
+    *   **Hunte**
 
-    *   Hunte
-
-    *   140 m unterhalb der Amalienbrücke in Oldenburg
+    *   140 m unterhalb der
+        Amalienbrücke in Oldenburg
 
     *   Weser
 
 
-*    *
+*    *   25
 
-*    *   23
+    *   **Ilmenau**
 
-    *   Ilmenau
-
-    *   Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg
+    *   Nordwestkante der
+        Brausebrücke an der
+        Abtsmühle in Lüneburg
 
     *   Elbe
 
 
-*    *
-
-*    *   24
-
-    *   Krückau
-
-    *   Südwestkante der im Verlauf der Straße Wedenkamp liegenden
-        Straßenbrücke in Elmshorn
-
-    *   Elbe (Pagensander Nebenelbe)
-
-
-*    *
-
-*    *   25
-
-    *   Küstenkanal (Hunte von 140 m unterhalb der Amalienbrücke in Oldenburg
-        bis zur Einmündung des Landesgewässers Hunte) mit Stichkanal Dörpen
-        (bis km 64,47)
-
-    *   140 m unterhalb der Amalienbrücke in Oldenburg
-
-    *   Dortmund-Ems-Kanal (Ems)
-
-
-*    *
-
 *    *   26
 
-    *   Lahn
+    *   **Krückau**
 
-    *   Wetzlar (km 12,22)
+    *   Südwestkante der im Verlauf
+        der Straße Wedenkamp
+        liegenden Straßenbrücke in Elmshorn
+
+    *   Elbe
+        [Pagensander Nebenelbe]
+
+
+*    *   27
+
+    *   **Küstenkanal**
+        [Hunte von 140 m unterhalb der
+        Amalienbrücke in Oldenburg
+        bis zur Einmündung des
+        Landesgewässers Hunte]
+        mit
+        Stichkanal Dörpen (bis km 64,47)
+
+    *   140 m unterhalb der
+        Amalienbrücke in Oldenburg
+
+    *   Dortmund-Ems-Kanal
+        [Ems]
+
+
+*    *   28
+
+    *   **Lahn**
+
+    *   Unterwasser des ehem. Wehres Badenburg nördlich Gießens
+        (km - 11,08)
 
     *   Rhein
 
 
-*    *
+*    *   29
 
-*    *   27
+    *   Leda
+        **und Sagter Ems**
+        (vom Elisabethfehnkanal bis zum
+        Zusammenfluss mit dem Dreyschloot)
 
-    *   Leda und Sagter Ems (vom Elisabethfehnkanal bis zum Zusammenfluss mit
-        dem Dreyschloot)
-
-    *   Einmündung des Elisabethfehnkanals in die Sagter Ems
+    *   Einmündung des
+        Elisabethfehnkanals
+        in die Sagter Ems
 
     *   Ems
 
 
-*    *
+*    *   30
 
-*    *   28
+    *   **Leine, Ihme und Schneller Graben**
+        [Schneller Graben von km 16,76
+        bis zur Einmündung in die Ihme (km 17,31),
+        Ihme km 17,31 bis zur Einmündung
+        in die Leine km 20,89, Leine bis zur Aller]
 
-    *   Leine und Ihme (vom Schnellen Graben bis zur Leine)
-
-    *   Einmündung des Schnellen Grabens in die Ihme
-
-    *   Brückenachse des Wehres Herrenhausen
-
-
-*    *   oberhalb der Einmündung des Schleusenkanals Hademstorf der Aller (km
-        110,00)
+    *   Unterwasser des Wehres im Schnellen Graben in Hannover (km 16,76)
 
     *   Aller
 
 
-*    *
+*    *   31
 
-*    *   29
+    *   **Lesum**
 
-    *   Lesum
-
-    *   Zusammenfluss von Hamme und Wümme (km 0,00)
+    *   Zusammenfluss von Hamme
+        und Wümme (km 0,00)
 
     *   Weser
 
 
-*    *
+*    *   32
 
-*    *   30
+    *   **Lühe**
 
-    *   Lühe
-
-    *   Unterwasser der Au-Mühle in Horneburg (km 0,00)
+    *   Nordkante der
+        Marschdammbrücke
+        in Horneburg (km 0,26)
 
     *   Elbe
 
 
-*    *
+*    *   33
 
-*    *   31
-
-    *   Main
+    *   **Main**
 
     *   oberhalb der Eisenbahnbrücke bei Hallstadt (km 387,69)
 
     *   Rhein
 
 
-*    *
+*    *   34
 
-*    *   32
-
-    *   Main-Donau-Kanal (Regnitz vom Main bis unterhalb der Schleuse Bamberg
-        und von oberhalb des Hochwassersperrtores Neuses bis unterhalb der
-        Schleuse Hausen, Altmühl von unterhalb der Schleuse Dietfurt bis zur
-        Donau)
+    *   **Main-Donau-Kanal**
+        [Regnitz vom Main bis unterhalb
+        der Schleuse Bamberg und von oberhalb
+        des Hochwassersperrtores Neuses
+        bis unterhalb der Schleuse Hausen,
+        Altmühl von unterhalb der
+        Schleuse Dietfurt bis zur Donau]
 
     *   Main
 
     *   Donau
 
 
-*    *
+*    *   35
 
-*    *   33
-
-    *   Mittellandkanal mit Ersten Fahrten, Stichkanal Ibbenbüren (bis km
-        1,11), Stichkanal Osnabrück (bis km 13,00), Verbindungskanal Nord zur
-        Weser, Verbindungskanal Süd zur Weser, Stichkanal Hannover-Linden (bis
-        km 10,75) nebst Verbindungskanal zur Leine, Stichkanal Misburg (bis km
-        0,92), Stichkanal Hildesheim (bis km 14,40), Stichkanal Salzgitter
-        (bis km 17,96), Rothenseer Verbindungskanal (zur Elbe)
+    *   **Mittellandkanal**
+        mit
+        Ersten Fahrten,
+        Stichkanal Ibbenbüren (bis km 1,11),
+        Stichkanal Osnabrück (bis km 13,00),
+        Verbindungskanal Nord zur Weser,
+        Verbindungskanal Süd zur Weser,
+        Stichkanal Hannover-Linden
+        (bis km 10,75)
+        nebst Verbindungskanal zur Leine,
+        Stichkanal Misburg (bis km 0,92),
+        Stichkanal Hildesheim (bis km 14,40), Stichkanal Salzgitter (bis km
+        17,96),
+        Rothenseer Verbindungskanal (zur Elbe)
 
     *   Dortmund-Ems-Kanal
 
-    *   Elbe-Havel-Kanal, Ende des unteren Schleusenvorhafens Hohenwarthe
+    *   Elbe-Havel-Kanal,
+        Ende des unteren Schleusenvorhafens Hohenwarthe
 
 
-*    *
+*    *   36
 
-*    *   34
+    *   **Mosel**
 
-    *   Mosel
-
-    *   deutsch-französische Grenze bei Apach
+    *   deutsch-französische Grenze
+        bei Apach
 
     *   Rhein
 
 
-*    *
+*    *   37
 
-*    *   35
-
-    *   Müritz-Elde-Wasserstraße (Mecklenburgische Oberseen (Müritz,
-        Kölpinsee, Fleesensee, Malchower See, Petersdorfer See, Plauer See),
-        Elde-Seitenkanal) mit Verbindungskanal Elde-Dreieck, Stör-Wasserstraße
-        (Schweriner See, Störkanal) nebst Ziegelsee
+    *   **Müritz-Elde-Wasserstraße**
+        [Mecklenburgische Oberseen
+        (Müritz, Kölpinsee, Fleesensee,
+        Malchower See, Petersdorfer See,
+        Plauer See), Elde-Seitenkanal]
+        mit
+        Verbindungskanal Elde-Dreieck,
+        Stör-Wasserstraße
+        [Schweriner See, Störkanal]
+        nebst Ziegelsee
 
     *   Buchholz (km 180,00)
 
     *   Elbe
 
 
-*    *
+*    *   38
 
-*    *   36
+    *   **Müritz-Havel-Wasserstraße**
+        [Mirower Kanal (Sumpfsee, Ragunsee),
+        Zotzensee, Mössensee, Vilzsee Ostteil,
+        Kl. Peetschsee, Labussee, Canower See,
+        Kl. Pälitzsee Ostteil, Gr. Pälitzsee Nordteil,
+        Ellbogensee Westteil]
+        mit
+        Bolter Kanal (von der Müritz
+        bis Oberwasser der ehem. Schleuse Bolt
+        (km 1,97)), Mirower See, Mirower Adlersee
+        und Vilzsee Westteil, Gr. Peetschsee,
+        Rheinsberger Gewässer
+        [Kl. Pälitzsee Südteil, Wolfsbrucher Kanal,
+        Tietzowsee, Schlabornsee,
+        Gr. Rheinsberger See, Grienericksee]
+        nebst Gr. Prebelowsee,
+        Zechliner Gewässer [Schwarzer See,
+        Gr. Zechliner See, Zootzensee,
+        Zootzenkanal],
+        Dollgowsee [Dollgowkanal],
+        Gr. Pälitzsee Südwestteil
 
-    *   Müritz-Havel-Wasserstraße (Mirower Kanal (Sumpfsee, Ragunsee),
-        Zotzensee, Mössensee, Vilzsee Ostteil, Kl. Peetschsee, Labussee,
-        Canower See, Kl. Pälitzsee Ostteil, Gr. Pälitzsee Nordteil,
-        Ellbogensee Westteil) mit Mirower Adlersee und Vilzsee Westteil, Gr.
-        Peetschsee, Rheinsberger Gewässer (Kl. Pälitzsee Südteil, Wolfsbrucher
-        Kanal)
-
-    *   Müritz-Elde-Wasserstraße (Kl. Müritz)
+    *   Müritz-Elde-Wasserstraße
+        [Kl. Müritz]
 
     *   Obere Havel-Wasserstraße, Priepert
 
 
-*    *
+*    *   39
 
-*    *   37
+    *   **Neckar**
 
-    *   Neckar
-
-    *   Gemeindegrenze Wernau - Plochingen
+    *   Gemeindegrenze
+        Wernau – Plochingen
 
     *   Rhein
 
 
-*    *
+*    *   40
 
-*    *   38
+    *   **Nord-Ostsee-Kanal**
+        [Audorfer See, Schirnauer See]
+        mit
+        Borgstedter See mit Enge, Flemhuder See,
+        Stichkanal Achterwehrer Schifffahrtskanal
 
-    *   Nord-Ostsee-Kanal (Audorfer See, Schirnauer See) mit Borgstedter See
-        mit Enge, Flemhuder See, Stichkanal Achterwehrer Schifffahrtskanal
+    *   Elbe,
+        Verbindungslinie zwischen den Molenköpfen in Brunsbüttel
 
-    *   Elbe, Verbindungslinie zwischen den Molenköpfen in Brunsbüttel
+    *   Ostsee [Kieler Förde],
+        Verbindungslinie zwischen den Einfahrtsfeuern in
+        Kiel-Holtenau
 
-    *   Ostsee (Kieler Förde), Verbindungslinie zwischen den Einfahrtsfeuern
-        in Kiel-Holtenau
 
+*    *   41
 
-*    *
-
-*    *   39
-
-    *   Obere Havel-Wasserstraße (Kammerkanal (Zierker See), Obere Havel
-        (Woblitzsee, Finowsee, Kl. und Gr. Priepertsee, Ellbogensee Ostteil,
-        Ziernsee, Röblinsee, Baalensee, Stolpsee), Voßkanal, Malzer Kanal) mit
-        Menowsee, Schwedtsee, Lychener Gewässer (Stadtsee, Gr. Lychensee,
-        Woblitz, Haussee), Templiner Gewässer (Zaarsee, Fährsee, Bruchsee,
-        Templiner See, Templiner Kanal, Röddelinsee, Kl. Lankensee,
-        Kuhwallsee, Templiner Wasser) nebst Gleuensee (Gleuenfließ) und Gr.
-        Lankensee, Wentow-Gewässer (Kl. und Gr. Wentowsee, Wentowkanal) nebst
-        Tornowfließ
+    *   **Obere Havel-Wasserstraße**
+        [Kammerkanal (Zierker See),
+        Obere Havel (Woblitzsee, Finowsee,
+        Kl. und Gr. Priepertsee, Ellbogensee
+        Ostteil, Ziernsee, Röblinsee, Baalensee,
+        Stolpsee), Voßkanal, Malzer Kanal]
+        mit
+        Quassower Havel [Gr. Labussee],
+        Wangnitzsee Westteil, Menowsee,
+        Schwedtsee, Lychener Gewässer
+        [Stadtsee, Gr. Lychensee, Woblitz,
+        Haussee],
+        Templiner Gewässer [Zaarsee, Fährsee,
+        Bruchsee, Templiner See,
+        Templiner Kanal, Röddelinsee,
+        Kl. Lankensee, Kuhwallsee,
+        Templiner Wasser] nebst Gleuensee
+        [Gleuenfließ] und Gr. Lankensee,
+        Wentow-Gewässer
+        [Kl. und Gr. Wentowsee, Wentowkanal]
+        nebst Tornowfließ
 
     *   Zierker See, Neustrelitz
 
     *   Havel-Oder-Wasserstraße
 
 
-*    *
+*    *   42
 
-*    *   40
-
-    *   Oder
+    *   **Oder**
+        mit
+        Lausitzer Neiße
+        (Mündungsstrecke von km 0,45
+        bis zur Oder bei Ratzdorf)
 
     *   deutsch-polnische Grenze bei Ratzdorf
 
     *   deutsch-polnische Grenze an der Abzweigung der Westoder
 
 
-*    *
+*    *   43
 
-*    *   41
+    *   **Oste**
 
-    *   Oste
-
-    *   210 m oberhalb der Achse der Straßenbrücke über das Ostesperrwerk (km
-        69,360)
+    *   210 m oberhalb der Achse der Straßenbrücke über das
+        Ostesperrwerk (km 69,360)
 
     *   Elbe
 
 
-*    *
-
-*    *   42
-
-    *   Peene (Westpeene, Kummerower See, Richtgraben) mit Mündungsstrecke
-        Peene
-
-    *   Einmündung des Malchiner Peenekanals in die Westpeene (km 2,50)
-
-    *   Ostsee (Peenestrom), Verbindungslinie zwischen dem Oberfeuer
-        Jahnkenort und dem Unterfeuer Pinnow
-
-
-*    *
-
-*    *   43
-
-    *   Pinnau
-
-    *   Südwestkante der Eisenbahnbrücke in Pinneberg
-
-    *   Elbe (Pagensander Nebenelbe)
-
-
-*    *
-
 *    *   44
 
-    *   Regen
+    *   **Peene**
+        [Westpeene, Kummerower See,
+        Richtgraben]
+        mit
+        Mündungsstrecke Peene
+
+    *   Einmündung des Malchiner
+        Peenekanals in die Westpeene (km 2,50)
+
+    *   Ostsee [Peenestrom],
+        Verbindungslinie zwischen dem Oberfeuer Jahnkenort und dem Unterfeuer
+        Pinnow
+
+
+*    *   45
+
+    *   **Pinnau**
+
+    *   Westkante der im Verlauf der Elmshorner Straße liegenden Straßenbrücke
+        in Pinneberg
+        (km – 0,36)
+
+    *   Elbe
+        [Pagensander Nebenelbe]
+
+
+*    *   46
+
+    *   **Regen**
 
     *   (km 0,44)
 
     *   Schleusenkanal Regensburg
 
 
-*    *
+*    *   47
 
-*    *   45
-
-    *   Regnitz
+    *   **Regnitz**
 
     *   270 m oberhalb der Brückenachse des Wehres Hausen
 
     *   Main-Donau-Kanal
 
 
-*    *   Main-Donau-Kanal
+*    *
+    *
+    *   Main-Donau-Kanal
 
-    *   150 m unterhalb des Wehres Neuses (km 21,79)
+    *   150 m unterhalb des
+        Wehres Neuses (km 21,79)
 
 
-*    *   170 m oberhalb der Brückenachse des Wehres Bamberg
+*    *
+    *
+    *   170 m oberhalb der Brückenachse des Wehres Bamberg
 
     *   Main-Donau-Kanal
 
 
-*    *
+*    *   48
 
-*    *   46
+    *   **Rhein**
+        mit
+        Lampertheimer Altrhein
+        (von km 4,75 bis zum Rhein),
+        Altrhein Stockstadt-Erfelden
+        (von km 9,80 bis zum Rhein)
 
-    *   Rhein mit Lampertheimer Altrhein (von km 4,75 bis zum Rhein), Altrhein
-        Stockstadt-Erfelden (von km 9,80 bis zum Rhein),
-
-    *   deutschschweizerische Grenze bei Basel
+    *   deutsch-schweizerische Grenze bei Basel
 
     *   deutsch-niederländische Grenze bei Millingen
 
 
-*    *
+*    *   49
 
-*    *   47
-
-    *   Rhein-Herne-Kanal mit Verbindungskanal zur Ruhr
+    *   **Rhein-Herne-Kanal**
+        mit
+        Verbindungskanal zur Ruhr
 
     *   Ruhrorter Hafen, Einmündung des Beckens C (km 0,16)
 
-    *   Dortmund-Ems-Kanal, unterer Vorhafen des alten Hebewerks Henrichenburg
+    *   Dortmund-Ems-Kanal,
+        unterer Vorhafen des alten Hebewerks Henrichenburg
 
 
-*    *
+*    *   50
 
-*    *   48
+    *   **Rüdersdorfer Gewässer**
+        [Strausberger Mühlenfließ, Hohler See,
+        Stolpgraben, Kalksee, Flakensee,
+        Dämeritzsee]
+        mit
+        Stichkanal Langerhanskanal [Kriensee],
+        Löcknitz [Möllensee, Peetzsee, Werlsee]
 
-    *   Rüdersdorfer Gewässer (Strausberger Mühlenfließ, Hohler See,
-        Stolpgraben, Kalksee, Flakensee, Dämeritzsee) mit Stichkanal
-        Langerhanskanal (Kriensee)
-
-    *   oberhalb der Abzweigung des Langerhanskanals (km 9,85)
+    *   Tasdorf (km 10,48)
 
     *   Gosener Kanal
 
 
-*    *
+*    *   51
 
-*    *   49
+    *   **Ruhr**
 
-    *   Ruhr
-
-    *   oberhalb der Schlossbrücke in Mühlheim (km 12,21)
+    *   oberhalb der Schlossbrücke in Mülheim (km 12,21)
 
     *   Rhein
 
 
-*    *
+*    *   52
 
-*    *   50
-
-    *   Ryck
+    *   **Ryck**
 
     *   Ostkante der Steinbecker Brücke in Greifswald
 
-    *   Ostsee (Greifswalder Bodden), Verbindungslinie der Seekanten der
-        Molenköpfe
+    *   Ostsee
+        [Greifswalder Bodden],
+        Verbindungslinie der
+        Seekanten der Molenköpfe
 
 
-*    *
+*    *   53
 
-*    *   51
-
-    *   Saale
+    *   **Saale**
 
     *   Bad Dürrenberg (km 124,16)
 
     *   Elbe
 
 
-*    *
+*    *   54
 
-*    *   52
+    *   **Saale-Leipzig-Kanal**
 
-    *   Saar
+    *   Sicherheitstor West (km 7,74)
 
-    *   deutsch-französische Grenze bei Saargemünd
+    *   Hafen Leipzig (km 18,93)
+
+
+*    *   55
+
+    *   **Saar**
+
+    *   deutsch-französische Grenze
+        bei Saargemünd
 
     *   Mosel
 
 
-*    *
+*    *   56
 
-*    *   53
-
-    *   Schifffahrtsweg Rhein-Kleve (Spoykanal vom Hafen Kleve bis zum
-        Unterwasser der Schleuse Brienen, Griethauser Altrhein vom Unterwasser
-        der Schleuse Brienen bis zum Rhein)
+    *   **Schifffahrtsweg Rhein-Kleve**
+        [Spoykanal vom Hafen Kleve bis zum
+        Unterwasser der Schleuse Brienen
+        (km 4,57), Griethauser Altrhein
+        vom Unterwasser der Schleuse Brienen
+        bis zum Rhein]
+        mit
+        Griethauser Altrhein (km 1,45 bis km 2,02)
 
     *   Hafen Kleve (km 1,78)
 
     *   Rhein
 
 
-*    *
+*    *   57
 
-*    *   54
+    *   **Schwinge**
 
-    *   Schwinge
-
-    *   Nordkante der Salztorschleuse in Stade
+    *   Nordkante der Salztorschleuse
+        in Stade
 
     *   Elbe
 
 
-*    *
+*    *   58
 
-*    *   55
+    *   **Sorge**
 
-    *   Spree-Oder-Wasserstraße (Untere Spree, Berliner Spree, Treptower
-        Spree, Dahme (Langer See), Oder-Spree-Kanal, Fürstenwalder Spree) mit
+    *   Südwestkante der im Verlauf der Bundesstraße 202 liegenden
+        Straßenbrücke an der
+        Sandschleuse (km 0,00)
+
+    *   Eider
+
+
+*    *   59
+
+    *   **Spree-Oder-Wasserstraße**
+        [Untere Spree, Berliner Spree,
+        Treptower Spree, Dahme (Langer See),
+        Oder-Spree-Kanal, Fürstenwalder Spree]
+        mit
         Ruhlebener Altarm, Landwehrkanal, Spreekanal, Rummelsburger See,
-        Müggelspree (Gr. Müggelsee) (von Köpenick bis km 11,85 und vom
-        Unterwasser des Wehres Gr. Tränke (km 44,85) bis zur Spree-Oder-
-        Wasserstraße), Wasserstraße Seddinsee und Gosener Kanal, Neuhauser
-        Speisekanal (bis zum Ende des unteren Schleusenvorhafens Neuhaus), Kl.
-        Müllroser See (von der Schlaube bis zur Spree-Oder-Wasserstraße)
+        Müggelspree [Gr. Müggelsee]
+        (von Köpenick bis km 11,85 und vom
+        Unterwasser des Wehres Gr. Tränke
+        (km 44,85) bis zur
+        Spree-Oder-Wasserstraße), Gr. Krampe,
+        Wasserstraße Seddinsee und
+        Gosener Kanal, Gosener Graben,
+        Drahendorfer Spree
+        (Mündungsstrecke von km 0,38
+        bis zur Spree-Oder-Wasserstraße)
+        Neuhauser Speisekanal (bis zum Ende des
+        unteren Schleusenvorhafens Neuhaus),
+        Kl. Müllroser See (von der Schlaube
+        bis zur Spree-Oder-Wasserstraße),
+        Brieskower Kanal
+        ((ehem. Friedrich-Wilhelm-Kanal)
+        von der Altstrecke Schlaubehammer Ost
+        bis zur Abdämmung westl. der ehem.
+        Schleuse Schlaubehammer (km 0,55))
 
     *   Havel-Oder-Wasserstraße, Spandau
 
     *   Oder
 
 
-*    *
+*    *   60
 
-*    *   56
-
-    *   Stör
+    *   **Stör**
 
     *   Pegel Rensing
 
     *   Elbe
 
 
-*    *
+*    *   61
 
-*    *   57
-
-    *   Teltowkanal (Glienicker Lake, Griebnitzsee, Kleinmachnower See) mit
-        Griebnitzkanal (Stölpchensee, Pohlesee, Kl. Wannsee), Britzer
-        Verbindungskanal (zur Spree)
+    *   **Teltowkanal**
+        [Glienicker Lake, Griebnitzsee,
+        Kleinmachnower See]
+        mit
+        Griebnitzkanal [Stölpchensee, Pohlesee,
+        Kl. Wannsee],
+        Zehlendorfer Stichkanal,
+        Britzer Verbindungskanal (zur Spree)
 
     *   Potsdamer Havel
 
-    *   Spree-Oder-Wasserstraße (Dahme)
+    *   Spree-Oder-Wasserstraße
+        [Dahme]
 
 
-*    *
+*    *   62
 
-*    *   58
-
-    *   Trave (Kanaltrave, Untertrave) mit Nebenarm Stadttrave (von der
-        Abzweigung aus der Kanaltrave bis zur Südkante der Wipperbrücke),
+    *   **Trave**
+        [Kanaltrave, Untertrave]
+        mit
+        Nebenarm Stadttrave
+        (von der Abzweigung aus der Kanaltrave
+        bis zur Südkante der Wipperbrücke),
         Dassower See, Pötenitzer Wiek
 
-    *   Elbe-Lübeck-Kanal, 71 m nordöstlich der Achse der Geniner
-        Straßenbrücke
+    *   Elbe-Lübeck-Kanal,
+        71 m nordöstlich der Achse der Geniner Straßenbrücke
 
-    *   Ostsee (Lübecker Bucht), Verbindungslinie der Köpfe der Süderinnenmole
-        und Norderaußenmole
+    *   Ostsee [Lübecker Bucht],
+        Verbindungslinie der Köpfe der Süderinnenmole und
+        Norderaußenmole
 
 
-*    *
+*    *   63
 
-*    *   59
-
-    *   Uecker
+    *   **Uecker**
 
     *   Südwestkante der Straßenbrücke in Ueckermünde
 
-    *   Ostsee (Stettiner Haff), Verbindungslinie der Seekanten der Molenköpfe
+    *   Ostsee [Stettiner Haff],
+        Verbindungslinie der
+        Seekanten der Molenköpfe
 
 
-*    *
+*    *   64
 
-*    *   60
-
-    *   Untere Havel-Wasserstraße (Pichelsdorfer Havel (Pichelssee), Kladower
-        Seestrecke, Jungfernsee, Sacrow-Paretzer Kanal (Weißer See),
-        Brandenburger Oberhavel (Trebelsee), Silokanal, Quenzsee, Plauer See)
-        mit Gr. Wannsee, Potsdamer Havel (Tiefer See, Templiner See, Gr. und
-        Kl. Zernsee) nebst Schwielowsee, Ketziner Havel, Brandenburger
-        Stadtkanal, Beetzsee-Riewendsee-Wasserstraße (von der Ostkante der
-        Pählbrücke bis zur Unteren Havel-Wasserstraße), Brandenburger
-        Niederhavel, Breitlingsee und Möserscher See, Rathenower Havel
-        (Rathenower Stadtkanal), Mündungsstrecke Untere Havel (bis km 156,75)
+    *   **Untere Havel-Wasserstraße**
+        [Pichelsdorfer Havel (Pichelssee),
+        Kladower Seestrecke, Jungfernsee,
+        Sacrow-Paretzer Kanal (Weißer See),
+        Brandenburger Oberhavel (Trebelsee),
+        Silokanal, Quenzsee, Plauer See]
+        mit
+        Gr. Wannsee,
+        Potsdamer Havel
+        [Tiefer See, Templiner See,
+        Gr. und Kl. Zernsee] nebst Schwielowsee,
+        Petziensee, Glindowsee und Wublitz
+        [Schlänitzsee ohne Fahrwasser des
+        Sacrow-Paretzer Kanals],
+        Nedlitzer Alte Fahrt nebst Lehnitzsee
+        und Krampnitzsee, Ketziner Havel,
+        Brandenburger Stadtkanal,
+        Beetzsee-Riewendsee-Wasserstraße
+        (Ostende des Riewendsees,
+        Klinkgraben (km 21,80) bis zur
+        Unteren Havel-Wasserstraße),
+        Brandenburger Niederhavel,
+        Breitlingsee und Möserscher See,
+        Rathenower Havel
+        [Rathenower Stadtkanal],
+        Hohennauener Wasserstraße
+        [Ferchesarer See, Hohennauener See,
+        Hohennauener Kanal],
+        Mündungsstrecke Untere Havel
+        (bis km 156,75)
 
     *   Spreemündung, Spandau
 
     *   Einmündung des Havelberger Schleusenkanals in die Elbe
 
 
-*    *
+*    *   65
 
-*    *   61
+    *   **Warnow**
+        (ohne Nebenarm westlich der
+        Badewieseninsel in Rostock)
 
-    *   Warnow (ohne Nebenarm westlich der Badewieseninsel in Rostock)
+    *   Südkante der Eisenbahnbrücke Rostock – Stralsund
 
-    *   Südkante der Eisenbahnbrücke Rostock - Stralsund
+    *   Ostsee [Unterwarnow],
+        Verbindungslinie zwischen der nördlichen Böschungsunterkante auf der
+        Landzunge
+        zwischen Osthafen und
+        Warnow
+        (geografische Koordinaten
+        im Bezugssystem WGS84:
+        54° 05' 40" N/012° 09' 03" E) und der nordwestlichen
+        Böschungsunterkante
+        am östlichen Ende des
+        Stadthafens Rostock
+        (geografische Koordinaten
+        im Bezugssystem WGS84:
+        54° 05' 45" N/012° 09' 07" E)
 
-    *   Ostsee (Unterwarnow), Verbindungslinie zwischen der nördlichen
-        Böschungsunterkante auf der Landzunge zwischen Osthafen und Warnow
-        (ungefähre Lage 54 Grad 05' 41" N und 12 Grad 09' 09" O) und der
-        nordwestlichen Böschungsunterkante am östlichen Ende des Stadthafens
-        Rostock (ungefähre Lage 54 Grad 05' 47" N und 12 Grad 09' 14" O)
 
+*    *   66
 
-*    *
+    *   **Werra**
 
-*    *   62
-
-    *   Werra
-
-    *   Unterwasser der Staustufe "Letzter Heller" (km 84,00)
+    *   2 km oberhalb des Ortes Falken (km 0,78)
 
     *   Weser
 
 
-*    *
+*    *   67
 
-*    *   63
-
-    *   Wesel-Datteln-Kanal
+    *   **Wesel-Datteln-Kanal**
 
     *   Rhein
 
     *   Dortmund-Ems-Kanal, Datteln
 
 
-*    *
+*    *   68
 
-*    *   64
-
-    *   Weser mit den Nebenarmen: Kleine Weser in Bremen (von der
-        unterstromigen Kante der Wehranlage am Teerhof bis zur Weser),
-        Westergate, Rekumer Loch, Rechter Nebenarm, Schweiburg
+    *   **Weser**
+        mit
+        den Nebenarmen:
+        Kleine Weser in Bremen
+        (von der unterstromigen Kante der
+        Wehranlage am Teerhof bis zur Weser),
+        Westergate, Rekumer Loch,
+        Rechter Nebenarm, Schweiburg
 
     *   Zusammenfluss von Fulda und Werra
 
-    *   Nordsee, Verbindungslinie zwischen dem Kirchturm von Langwarden und
-        der Mündung des Arenschen Baches
+    *   Nordsee,
+        Verbindungslinie zwischen dem Kirchturm von
+        Langwarden und der
+        Mündung des
+        Arenschen Baches
+
+
+*    *   69
+
+    *   **Wümme**
+
+    *   östlich der Franzosenbrücke
+        in Borgfeld (km 0,00)
+
+    *   Lesum
 
 
 
 
+(zu § 14e Abs. 1)
 
-### Anlage 2 (zu § 14e Abs. 1) Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+### Anlage 2 Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
-Fundstelle des Originaltextes: BGBl. I 2007, 985
+(Fundstelle des Originaltextes: BGBl. I 2007, 985,
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
 
@@ -2670,10 +3023,17 @@ Fundstelle des Originaltextes: BGBl. I 2007, 985
     *   Unter- und Außenweser
 
 
+*    *   7
+
+    *   Elbe-Seitenkanal
 
 
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
+(BGBl. II 1990, 889, 1111)
+
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über Maßnahmen auf dem Gebiet des Grundbuchwesens
+Title: Gesetz über Maßnahmen auf dem Gebiete des Grundbuchwesens
 jurabk: GBMaßnG
 layout: default
 origslug: gbma_ng
@@ -7,7 +7,7 @@ slug: gbmassng
 
 ---
 
-# Gesetz über Maßnahmen auf dem Gebiet des Grundbuchwesens (GBMaßnG)
+# Gesetz über Maßnahmen auf dem Gebiete des Grundbuchwesens (GBMaßnG)
 
 Ausfertigungsdatum
 :   1963-12-20
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 986
 
 Zuletzt geändert durch
-:   Art. 17 G v. 5.12.2012 I 2418
+:   Art. 154 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Eintragung der Umstellung
@@ -334,11 +334,12 @@ Vierzigsten Durchführungsverordnung zum Umstellungsgesetz.
 
 ### § 13
 
-(1) Für die Eintragung des Umstellungsbetrags wird die Hälfte der nach
-§ 64 der Kostenordnung zu entrichtenden Gebühr erhoben. Geschäftswert
-ist der Umstellungsbetrag. Wird die Berichtigung von Amts wegen
-vorgenommen oder hätte sie auch von Amts wegen vorgenommen werden
-können, so ist nur der Eigentümer Kostenschuldner.
+(1) Für die Eintragung des Umstellungsbetrags wird die Hälfte der in
+Nummer 14130 des Kostenverzeichnisses zum Gerichts- und
+Notarkostengesetz bestimmten Gebühr erhoben. Geschäftswert ist der
+Umstellungsbetrag. Wird die Berichtigung von Amts wegen vorgenommen
+oder hätte sie auch von Amts wegen vorgenommen werden können, so ist
+nur der Eigentümer Kostenschuldner.
 
 (2) Die Eintragung und die Löschung des Umstellungsschutzvermerkes
 sind kostenfrei.
@@ -396,17 +397,18 @@ Umstellungsgrundschuld erlischt.
 ### § 18
 
 (1) Wird die Löschung einer umgestellten Hypothek oder Grundschuld
-beantragt, deren Geldbetrag 3.000 Euro nicht übersteigt, so bedürfen
+beantragt, deren Geldbetrag 3 000 Euro nicht übersteigt, so bedürfen
 die erforderlichen Erklärungen und Nachweise nicht der Form des § 29
 der Grundbuchordnung. Bei dem Nachweis einer Erbfolge oder des
 Bestehens einer fortgesetzten Gütergemeinschaft kann das Grundbuchamt
 von den in § 35 Abs. 1 und 2 der Grundbuchordnung genannten
 Beweismitteln absehen und sich mit anderen Beweismitteln, für welche
 die Form des § 29 der Grundbuchordnung nicht erforderlich ist,
-begnügen, wenn die Beschaffung des Erbscheins oder des Zeugnisses nach
-§ 1507 des Bürgerlichen Gesetzbuches nur mit unverhältnismäßigem
-Aufwand an Kosten oder Mühe möglich ist; der Antragsteller kann auch
-zur Versicherung an Eides Statt zugelassen werden.
+begnügen, wenn die Beschaffung des Erbscheins, des Europäischen
+Nachlasszeugnisses oder des Zeugnisses nach § 1507 des Bürgerlichen
+Gesetzbuches nur mit unverhältnismäßigem Aufwand an Kosten oder Mühe
+möglich ist; der Antragsteller kann auch zur Versicherung an Eides
+Statt zugelassen werden.
 
 (2) Bei Berechnung des Geldbetrags der Hypothek oder Grundschuld ist
 von dem im Grundbuch eingetragenen Umstellungsbetrag auszugehen. Ist
@@ -564,14 +566,7 @@ Vorlage eines für das Recht erteilten Briefs; die Eintragung wird auf
 dem Brief nicht vermerkt, es sei denn, der Vermerk wird ausdrücklich
 beantragt.
 
-(2) Für eine Eintragung der Umstellung werden Kosten nach der
-Kostenordnung erhoben. Die Gebühr für die Eintragung nach Absatz 1
-Satz 1 und 3 einschließlich des Briefvermerks beträgt bis zum Ablauf
-des 31. Dezember 2001 50 Deutsche Mark und danach 25 Euro. Für eine
-Eintragung nach Absatz 1 Satz 2 und 4 werden keine Gebühren erhoben; §
-72 der Kostenordnung bleibt unberührt.
-
-(3) Die vorstehenden Vorschriften gelten für die dort genannten
+(2) Die vorstehenden Vorschriften gelten für die dort genannten
 Eintragungen in das Schiffsregister, das Schiffsbauregister und das
 Register für Pfandrechte an Luftfahrzeugen sinngemäß.
 
@@ -581,12 +576,9 @@ Register für Pfandrechte an Luftfahrzeugen sinngemäß.
 -
 
 
-### § 28
+### § 28 (weggefallen)
 
-Die Landesregierungen oder die von ihnen bestimmten obersten
-Landesbehörden können durch Rechtsverordnung die vor dem Inkrafttreten
-dieses Gesetzes auf Grund des § 148 der Grundbuchordnung getroffenen
-Vorschriften ändern, ergänzen oder aufheben.
+-
 
 
 ### § 29
@@ -612,7 +604,7 @@ Entscheidung des Grundbuchamts zunächst bei dem Amtsgericht
 nachzusuchen ist, unberührt.
 
 
-## Siebenter Abschnitt -
+## Siebenter Abschnitt - 
 
 
 
@@ -650,16 +642,17 @@ Abschnitts gelten nicht im Saarland.
 ### § 36a
 
 In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gelten nur
-die §§ 18 bis 20, 22 bis 26a und 28, § 18 Abs. 2 Satz 2 jedoch mit der
+die §§ 18 bis 20 und 22 bis 26a, § 18 Abs. 2 Satz 2 jedoch mit der
 Maßgabe, daß an die Stelle eines Umrechnungsbetrages von einer
 Deutschen Mark zu zehn Reichsmark der Umrechnungssatz von einer
 Deutschen Mark zu zwei Reichsmark oder Mark der Deutschen
 Demokratischen Republik tritt, und die §§ 22 bis 25 mit der Maßgabe,
 daß das Jahr 1964 durch das Jahr 1995 ersetzt wird. Die Verjährung am
 9\. Juli 1995 noch nicht verjährter Forderungen aus Abgeltungsdarlehen
-(§ 25) ist gehemmt. Das Bundesministerium der Justiz wird ermächtigt,
-durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
-Finanzen das Datum festzulegen, zu dem die Hemmung nach Satz 2 endet.
+(§ 25) ist gehemmt. Das Bundesministerium der Justiz und für
+Verbraucherschutz wird ermächtigt, durch Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium der Finanzen das Datum
+festzulegen, zu dem die Hemmung nach Satz 2 endet.
 
 
 ### § 37

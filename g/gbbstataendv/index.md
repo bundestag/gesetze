@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1991, 2123
 
 Zuletzt geändert durch
-:   Art. 342 V v. 31.10.2006 I 2407
+:   Art. 3 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -61,4 +61,9 @@ Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden.
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+
+
+## Anlage Statut der GBB Genossenschafts-Holding Berlin
+
+(Text siehe: GBBStatÄndVAnl)
 

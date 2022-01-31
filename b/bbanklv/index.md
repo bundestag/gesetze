@@ -184,8 +184,9 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S.
 16 640) geändert worden sind, außer Kraft.
 
+(zu § 2 Abs 2)
 
-## Anlage 1 (zu § 2 Abs 2) Laufbahnen, Ämter und Amtsbezeichnungen
+## Anlage 1 Laufbahnen, Ämter und Amtsbezeichnungen
 
 (Fundstelle: BGBl. I 2010, 1144)
 

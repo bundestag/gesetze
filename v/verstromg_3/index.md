@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19. 4.1990 I 917;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 25.4.2007 I 594
+:   Art. 322 V v. 31.8.2015 I 1474
 
 Stand: Das G in der Fassung der Bekanntmachung v. 17.11.1980 I 2137 ist - mit Ausnahme der §§ 12, 13 Abs. 1 Nr. 5, Abs. 2 bis 4, 6 bis 9, § 15 und § 17 - mit dem Grundgesetz unvereinbar gem. BVerfGE v. 11.10.1994, 1995 I 93 - 2 BvR 633/86 - \*% Soweit es mit dem Grundgesetz unvereinbar ist, ist es längstens bis zum 31. Dezember 1995 weiter anzuwenden.
 
@@ -77,8 +77,8 @@ Verwaltung verwendet werden.
 Sondervermögen nicht anzuwenden.
 
 (4) Für jedes Kalenderjahr ist ein Wirtschaftsplan aufzustellen, der
-der Genehmigung des Bundesministeriums für Wirtschaft und Technologie
-bedarf. Das Bundesministerium für Wirtschaft und Technologie hat dem
+der Genehmigung des Bundesministeriums für Wirtschaft und Energie
+bedarf. Das Bundesministerium für Wirtschaft und Energie hat dem
 Bundestag und dem Bundesrat im Laufe des nächsten Wirtschaftsjahres
 zur Entlastung gesondert Rechnung zu legen.
 
@@ -119,8 +119,8 @@ Mehrkosten für Gemeinschaftskohle, die in der Zeit vom 1. Januar 1975
 bis zum 31. Dezember 1995 eingesetzt wird, jeweils für ein
 Kalenderjahr durch Zuschüsse in Höhe der Wärmepreisdifferenz und zu
 den sonstigen Betriebsmehrkosten nach Richtlinien des
-Bundesministeriums für Wirtschaft und Technologie; ein Zuschuß nach §
-1 Abs. 1 Satz 1 Nr. 1 des Zweiten Verstromungsgesetzes wird nicht mehr
+Bundesministeriums für Wirtschaft und Energie; ein Zuschuß nach § 1
+Abs. 1 Satz 1 Nr. 1 des Zweiten Verstromungsgesetzes wird nicht mehr
 gewährt. In den Richtlinien ist der Zuschuß zu den sonstigen
 Betriebsmehrkosten je eingesetzter Tonne SKE jeweils für ein
 Kalenderjahr im voraus festzusetzen, dabei sind das Einsatzziel des §
@@ -132,24 +132,24 @@ Dezember 1974 in Betrieb genommen werden, erfolgt der Ausgleich der
 Mehrkosten vom Betriebsbeginn an bis zum 31. Dezember 1995 durch
 Zuschüsse in Höhe der Wärmepreisdifferenz und der sonstigen
 Betriebsmehrkosten nach Richtlinien des Bundesministeriums für
-Wirtschaft und Technologie. Beim Einsatz von Braunkohle mit einem
-Gehalt an Natrium- und Kaliumoxiden in der Asche von über 2 vom
-Hundert, der durch Beimischung von Braunkohle aus derselben
-Lagerstätte nicht vermindert werden kann, erfolgt der
-Mehrkostenausgleich jedoch nur in Höhe der sonstigen
-Betriebsmehrkosten; Absatz 6 ist entsprechend anzuwenden. Die
-Zuschüsse werden grundsätzlich nur gewährt, wenn das Kraftwerk von
-Betriebsbeginn an bis zum Ende des fünfzehnten Betriebsjahres mit
-Steinkohle, davon mindestens 30.000 Stunden und in den ersten zehn
-Betriebsjahren kalenderjährlich mindestens 2.000 Stunden der auf die
-Nettoleistung bezogenen Ausnutzungsdauer mit Gemeinschaftskohle
-betrieben wird. Der Gewährung der Zuschüsse steht es nicht entgegen,
-daß neben Steinkohle auch Müll oder sonstige Abfälle verbrannt oder in
-einem technisch unvermeidbaren Maße zu Zündzwecken oder zur
-Stützfeuerung oder vorübergehend ausschließlich aus Gründen der
-Luftreinhaltung auf Grund behördlicher Anordnung andere Brennstoffe
-eingesetzt werden. Die Sätze 1 bis 4 sind auf umgerüstete Kraftwerke
-im Sinne des § 4 Abs. 1 entsprechend anzuwenden.
+Wirtschaft und Energie. Beim Einsatz von Braunkohle mit einem Gehalt
+an Natrium- und Kaliumoxiden in der Asche von über 2 vom Hundert, der
+durch Beimischung von Braunkohle aus derselben Lagerstätte nicht
+vermindert werden kann, erfolgt der Mehrkostenausgleich jedoch nur in
+Höhe der sonstigen Betriebsmehrkosten; Absatz 6 ist entsprechend
+anzuwenden. Die Zuschüsse werden grundsätzlich nur gewährt, wenn das
+Kraftwerk von Betriebsbeginn an bis zum Ende des fünfzehnten
+Betriebsjahres mit Steinkohle, davon mindestens 30 000 Stunden und in
+den ersten zehn Betriebsjahren kalenderjährlich mindestens 2 000
+Stunden der auf die Nettoleistung bezogenen Ausnutzungsdauer mit
+Gemeinschaftskohle betrieben wird. Der Gewährung der Zuschüsse steht
+es nicht entgegen, daß neben Steinkohle auch Müll oder sonstige
+Abfälle verbrannt oder in einem technisch unvermeidbaren Maße zu
+Zündzwecken oder zur Stützfeuerung oder vorübergehend ausschließlich
+aus Gründen der Luftreinhaltung auf Grund behördlicher Anordnung
+andere Brennstoffe eingesetzt werden. Die Sätze 1 bis 4 sind auf
+umgerüstete Kraftwerke im Sinne des § 4 Abs. 1 entsprechend
+anzuwenden.
 
 (4) Zu den sonstigen Betriebsmehrkosten wird ein Zuschlag zum
 Ausgleich der Mehrkosten gewährt, die dadurch entstehen, daß die in
@@ -173,8 +173,8 @@ so wird der übersteigende Betrag auf den Zuschuß zu den sonstigen
 Betriebsmehrkosten angerechnet. Ein verbleibender Betrag wird nicht
 mit den Mehrkosten aus anderen Kalendermonaten verrechnet.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie bestimmt in
-den Richtlinien zu den Absätzen 1 bis 4, von welchem Preis für
+(7) Das Bundesministerium für Wirtschaft und Energie bestimmt in den
+Richtlinien zu den Absätzen 1 bis 4, von welchem Preis für
 Kraftwerkskohle bei der Ermittlung der Mehrkosten auszugehen ist.
 Dabei hat er unter Beachtung der Wettbewerbsverhältnisse auf dem
 Energiemarkt dafür Sorge zu tragen, daß die in diesem Gesetz
@@ -196,8 +196,8 @@ Preisentwicklung ist auch zu berücksichtigen, ob
 
 (8) Auf den Ausgleich der Mehrkosten sollen im laufenden Betriebsjahr
 monatliche Abschlagszahlungen geleistet werden. Einzelheiten bestimmt
-das Bundesministerium für Wirtschaft und Technologie in den
-Richtlinien zu den Absätzen 1 bis 4.
+das Bundesministerium für Wirtschaft und Energie in den Richtlinien zu
+den Absätzen 1 bis 4.
 
 (9) Die Zuschüsse nach den Absätzen 1 bis 4 werden
 
@@ -211,7 +211,7 @@ Richtlinien zu den Absätzen 1 bis 4.
 
 3.  für Unternehmen, die Braunkohle im Sinne des Absatzes 3 Satz 2
     einsetzen, nur bis zur Höhe der vom Bundesministerium für Wirtschaft
-    und Technologie festgesetzten Menge dieser Braunkohle
+    und Energie festgesetzten Menge dieser Braunkohle
 
 
 
@@ -257,7 +257,7 @@ Kraftwerken im Sinne des § 3 Abs. 1 bis 3 beziehen, wenn die
 Vereinbarung über den Elektrizitätsbezug geeignet ist, zur Sicherung
 des Einsatzes von Gemeinschaftskohle in diesen Kraftwerken
 beizutragen. Das Nähere bestimmt das Bundesministerium für Wirtschaft
-und Technologie durch Richtlinien.
+und Energie durch Richtlinien.
 
 
 ## § 5 Zuschüsse für Zusatzmengen
@@ -386,7 +386,7 @@ Gesetz vom 8. August 1969 (BGBl. I S. 1083), nicht angerechnet.
 (9) § 3 Abs. 5, 7, 8 und 9 Satz 2 ist entsprechend anzuwenden.
 
 (10) Das Nähere bestimmt das Bundesministerium für Wirtschaft und
-Technologie durch Richtlinien.
+Energie durch Richtlinien.
 
 (11) Die Zuschüsse nach § 3b dieses Gesetzes in der Fassung vom 19.
 Dezember 1977 (BGBl. I S. 2750) werden nach dem 31. Dezember 1980
@@ -430,7 +430,7 @@ Energiewirtschaftsgesetzes.
 anzuwenden.
 
 (6) Das Nähere bestimmt das Bundesministerium für Wirtschaft und
-Technologie durch Richtlinien.
+Energie durch Richtlinien.
 
 
 ## § 8 Ausgleichsabgabe
@@ -461,7 +461,7 @@ Sie bemißt sich
 2.  bei Eigenerzeugern nach einem Prozentsatz des Wertes der im eigenen
     Unternehmen selbst erzeugten und verbrauchten Elektrizität ohne
     Kraftwerkseigenbedarf. Das Bundesministerium für Wirtschaft und
-    Technologie wird ermächtigt, durch Rechtsverordnung das Verfahren zu
+    Energie wird ermächtigt, durch Rechtsverordnung das Verfahren zu
     bestimmen, nach dem die Eigenerzeuger unter Berücksichtigung der
     Elektrizitätspreise, die vergleichbare Unternehmen zu bezahlen haben,
     sowie ihrer Selbstkosten den Wert der im eigenen Unternehmen selbst
@@ -472,25 +472,24 @@ Sie bemißt sich
 
 (3a) Der Prozentsatz der Ausgleichsabgabe wird für das Kalenderjahr
 1995 auf 8,50 vom Hundert festgesetzt. Das Bundesministerium für
-Wirtschaft und Technologie hat durch Rechtsverordnung für das
-Kalenderjahr 1995 bei Elektrizitätsversorgungsunternehmen den in Satz
-1 genannten Prozentsatz für die aus Lieferung von Elektrizität an
-Endverbraucher in den einzelnen Ländern erzielten Erlöse nach Maßgabe
-des Absatzes 5 festzulegen.
+Wirtschaft und Energie hat durch Rechtsverordnung für das Kalenderjahr
+1995 bei Elektrizitätsversorgungsunternehmen den in Satz 1 genannten
+Prozentsatz für die aus Lieferung von Elektrizität an Endverbraucher
+in den einzelnen Ländern erzielten Erlöse nach Maßgabe des Absatzes 5
+festzulegen.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, für die Jahre 1994 und 1995 durch Rechtsverordnung den
-Prozentsatz in gleicher Höhe für die
-Elektrizitätsversorgungsunternehmen und für die Eigenerzeuger jeweils
-für ein Kalenderjahr im voraus festzusetzen. Es hat dabei zu
-berücksichtigen, daß das Aufkommen aus der Ausgleichsabgabe den vom
-Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu schätzenden
-Bedarf an Mitteln decken soll; für die Berechnung ist die Summe der
-voraussichtlichen Erlöse aus Lieferungen an Endverbraucher und des
-voraussichtlichen Gesamtwertes der von den Eigenerzeugern selbst
-verbrauchten Elektrizität zugrunde zu legen. Ändern sich im Laufe des
-Jahres die in Satz 2 bezeichneten Maßstäbe, so kann das
-Bundesministerium für Wirtschaft und Technologie durch
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+für die Jahre 1994 und 1995 durch Rechtsverordnung den Prozentsatz in
+gleicher Höhe für die Elektrizitätsversorgungsunternehmen und für die
+Eigenerzeuger jeweils für ein Kalenderjahr im voraus festzusetzen. Es
+hat dabei zu berücksichtigen, daß das Aufkommen aus der
+Ausgleichsabgabe den vom Bundesamt für Wirtschaft und Ausfuhrkontrolle
+(BAFA) zu schätzenden Bedarf an Mitteln decken soll; für die
+Berechnung ist die Summe der voraussichtlichen Erlöse aus Lieferungen
+an Endverbraucher und des voraussichtlichen Gesamtwertes der von den
+Eigenerzeugern selbst verbrauchten Elektrizität zugrunde zu legen.
+Ändern sich im Laufe des Jahres die in Satz 2 bezeichneten Maßstäbe,
+so kann das Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung den Prozentsatz für die auf die Verkündung der
 Rechtsverordnung folgenden Monate den geänderten Verhältnissen
 anpassen.
@@ -523,12 +522,12 @@ DL= den Durchschnittserlös je Kilowattstunde, den die
 
 
 
-Das Bundesministerium für Wirtschaft und Technologie hat die sich
-danach für die einzelnen Länder ergebenden Prozentsätze in der
+Das Bundesministerium für Wirtschaft und Energie hat die sich danach
+für die einzelnen Länder ergebenden Prozentsätze in der
 Rechtsverordnung nach Absatz 4 festzulegen; die Prozentsätze sind
 dabei auf eine Stelle hinter dem Komma zu runden.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie regelt durch
+(6) Das Bundesministerium für Wirtschaft und Energie regelt durch
 Rechtsverordnung
 
 1.  die Verlängerung des Zeitraumes für die Ermittlung und Zahlung der
@@ -771,13 +770,13 @@ Feststellungen im Wege der Schätzung treffen.
 
 (1) Bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ein Beirat gebildet. Er berät das Bundesministerium für Wirtschaft und
-Technologie bei der Festsetzung des Prozentsatzes nach § 8 Abs. 4 und
-das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der
+Energie bei der Festsetzung des Prozentsatzes nach § 8 Abs. 4 und das
+Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der
 Durchführung des Gesetzes.
 
 (2) Der Beirat besteht aus 18 Mitgliedern. Das Bundesministerium für
-Wirtschaft und Technologie beruft die Mitglieder auf die Dauer von
-drei Jahren, und zwar
+Wirtschaft und Energie beruft die Mitglieder auf die Dauer von drei
+Jahren, und zwar
 
 1.  drei Mitglieder auf Vorschlag des Bundesrates,
 
@@ -822,14 +821,14 @@ seiner Amtszeit ein Nachfolger berufen.
 
 (3) Die Mitglieder und ihre Stellvertreter üben ihre Tätigkeit
 ehrenamtlich aus. Sie können ihr Amt durch schriftliche Erklärung
-gegenüber dem Bundesministerium für Wirtschaft und Technologie
-jederzeit niederlegen.
+gegenüber dem Bundesministerium für Wirtschaft und Energie jederzeit
+niederlegen.
 
 (4) Die Sitzungen des Beirats werden vom Präsidenten des Bundesamtes
 für Wirtschaft und Ausfuhrkontrolle (BAFA) einberufen und geleitet.
 Das Nähere bestimmt eine Geschäftsordnung, die nach Beratung im Beirat
 vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erlassen
-wird. Vertreter des Bundesministeriums für Wirtschaft und Technologie
+wird. Vertreter des Bundesministeriums für Wirtschaft und Energie
 können an den Sitzungen teilnehmen.
 
 (5) Der Beirat kann mit Zustimmung des Präsidenten des Bundesamtes für

@@ -535,8 +535,9 @@ Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
 -
 
+Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
+### Anhang EV (BGBl. II 1990, 889, 1096)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

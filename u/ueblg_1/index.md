@@ -871,8 +871,10 @@ IV der Gesetze Nr. 67 und der Verordnung Nr. 223 der
 Militärregierungen von der Gebietskörperschaft Groß-Berlin
 auszustellenden Schuldverschreibungen in voller Höhe.
 
+Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 994)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 994) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

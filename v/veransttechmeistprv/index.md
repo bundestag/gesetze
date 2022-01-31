@@ -17,10 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 118
 
+Stand: Diese V tritt gem. § 13 idF d. Art. 46 Nr. 2 V v. 26.3.2014 I 274 am 31.12.2018 außer Kraft
 Zuletzt geändert durch
-:   Art. 35 V v. 25.8.2009 I 2960
+:   Art. 6 Abs. 29 G v. 23.5.2017 I 1228
 
-Stand: Die V tritt gem. § 13 idF d. Art. 35 Nr. 12 V v. 25.8.2009 I 2960 mWv 1.1.2016 außer Kraft
 
 ## Eingangsformel
 
@@ -271,13 +271,16 @@ geprüft werden:
     d)  Jugendarbeitsschutzgesetz,
 
 
-    e)  Betriebsverfassung, Mitbestimmung und Personalvertretung,
+    e)  Mutterschutzgesetz,
 
 
-    f)  Tarifvertragswesen,
+    f)  Betriebsverfassung, Mitbestimmung und Personalvertretung,
 
 
-    g)  Sozialversicherung;
+    g)  Tarifvertragswesen,
+
+
+    h)  Sozialversicherung;
 
 
 
@@ -1569,13 +1572,13 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 ## § 12 Anwendungsregelung
 
 Für Fortbildungsprüfungsverfahren, die bis zum Ablauf des 31. Dezember
-2015 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
-Ablauf des 31. Dezember 2017 weiter anzuwenden.
+2018 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
+Ablauf des 31. Dezember 2020 weiter anzuwenden.
 
 
 ## § 13 Außerkrafttreten
 
-Diese Verordnung tritt am 31. Dezember 2015 außer Kraft.
+Diese Verordnung tritt am 31. Dezember 2018 außer Kraft.
 
 
 ## Anlage (zu § 9 Absatz 3)
@@ -1605,9 +1608,8 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Veranstaltungstechnik" in den Fachrichtungen Bühne/Studio,
 Beleuchtung,
 Halle vom 26. Januar 1997 (BGBl. I S. 118), die zuletzt durch Artikel
-35
-der Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden
-ist,
+46
+der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 I.   Fachrichtungsübergreifender Teil                       Note
 1\.   Grundlagen für kostenbewußtes Handeln
@@ -1654,6 +1656,10 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat
 nach § 3 Absatz 3 den Nachweis über den Erwerb der
 berufs- und arbeitspädagogischen Eignung durch die
 Prüfung am .......... in .......... vor .......... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .........................................
 Unterschrift ..................................
 (Siegel der zuständigen Stelle)

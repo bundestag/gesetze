@@ -450,8 +450,10 @@ Länder für sich die gleichen Zugeständnisse beanspruchen, soweit diese
 über den Inhalt des gegenwärtigen Vertrags hinausgehen und
 nachweislich für sie günstiger sind.
 
+zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
+Ländern auf das Reich
 
-### Anlage A zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich Verzeichnis der auf das Reich übergehenden Wasserstraßen
+### Anlage A Verzeichnis der auf das Reich übergehenden Wasserstraßen
 
 Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
@@ -2143,8 +2145,10 @@ Fundstelle des Originaltextes: BGBl. Teil III 94, S. 40 - 47
 
 
 
+zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den
+Ländern auf das Reich
 
-### Anlage B zum Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich Nachweisung der begonnenen Bauten
+### Anlage B Nachweisung der begonnenen Bauten
 
 Fundstelle des Originaltextes: BGBl. Teil III 94, S. 48 - 49
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2349
 
+Geändert durch
+:   Art. 491 V v. 31.8.2015 I 1474
+
 [^F1_775826_BJNR234910011]:     Diese Verordnung dient der Umsetzung der Richtlinie 2010/35/EU des
     Europäischen Parlaments und des Rates vom 16. Juni 2010 über
     ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates
@@ -378,6 +381,14 @@ festgelegten Zeitraums aufzubewahren und für Überprüfungen durch die
 Prüfstelle und die zuständige Marktüberwachungsbehörde bereitzuhalten
 und auf Verlangen für Prüfungen zur Verfügung zu stellen.
 
+(3a) Wurde zu einer gültigen Baumusterzulassung für Druckgefäße oder
+Tanks, die ortsbewegliche Druckgeräte sind, eine Bescheinigung der
+Zulassung einer Änderung nach Absatz 1.8.7.2.5 Satz 5 ADR/RID
+ausgestellt, darf der Hersteller diese Druckgeräte nur in Verkehr
+bringen, wenn sie den Bestimmungen beider Zulassungen entsprechen. Er
+hat die Vorschriften des Absatzes 1.8.7.2.5 Satz 5 ADR/RID zu
+beachten.
+
 (4) Hat ein Hersteller Grund zu der Annahme, dass von ihm in Verkehr
 gebrachte ortsbewegliche Druckgeräte nicht den Anforderungen gemäß
 Absatz 1 entsprechen, hat er unverzüglich alle erforderlichen
@@ -470,7 +481,10 @@ entsprechen.
     durchgeführt worden ist,
 
 
-2.  die Baumusterzulassung vorliegt,
+2.  die Baumusterzulassung nach Unterabschnitt 1.8.7.2 in Verbindung mit
+    der Bescheinigung der Zulassung einer Änderung nach Absatz 1.8.7.2.5
+    Satz 5, sofern eine solche ausgestellt wurde, oder die
+    Baumusterbescheinigung nach Absatz 1.8.8.2.3 Satz 1 ADR/RID vorliegt,
 
 
 3.  der Hersteller die technischen Unterlagen erstellt hat,
@@ -555,8 +569,10 @@ entsprechen.
 bereitstellen, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen
 entsprechen. Bevor er ortsbewegliche Druckgeräte auf dem Markt
 bereitstellt, hat er zu überprüfen, ob sie mit der Pi-Kennzeichnung
-versehen sind und ihnen die Konformitätsbescheinigung und die
-Anschrift gemäß § 4 Absatz 4 und § 5 Absatz 4 beiliegen.
+versehen sind und ihnen die Konformitätsbescheinigung, die
+Bescheinigung der Zulassung einer Änderung nach Absatz 1.8.7.2.5 Satz
+5 ADR/RID, sofern eine solche ausgestellt wurde, und die Anschrift
+gemäß § 4 Absatz 4 und § 5 Absatz 4 beiliegen.
 
 (2) Ist mit den ortsbeweglichen Druckgeräten eine Gefahr verbunden,
 hat er den Hersteller oder den Einführer sowie die
@@ -628,6 +644,12 @@ zehn Jahre aufzubewahren und anschließend unverzüglich zu löschen, es
 sei denn, dass gesetzliche Aufbewahrungsfristen der Löschung
 entgegenstehen.
 
+(1a) Liegt eine Bescheinigung der Zulassung einer Änderung nach Absatz
+1\.8.7.2.5 Satz 5 vor, darf der Eigentümer die Druckgefäße und Tanks
+nur dann auf dem Markt bereitstellen oder verwenden, wenn sie den
+Bestimmungen in der Bescheinigung entsprechen und die Bescheinigung
+der Tankakte nach Absatz 1.8.7.2.5 Satz 6 ADR/RID beigefügt ist.
+
 (2) Der Eigentümer hat ortsbewegliche Druckgeräte so zu handhaben,
 lagern und zu befördern, dass die Übereinstimmung der ortsbeweglichen
 Druckgeräte mit den in § 3 Absatz 1 Satz 1 genannten Anforderungen
@@ -647,6 +669,12 @@ beabsichtigen oder gebrauchen.
 
 (1) Der Betreiber darf nur ortsbewegliche Druckgeräte verwenden, die
 den in § 3 Absatz 1 Satz 1 genannten Anforderungen entsprechen.
+
+(1a) Liegt eine Bescheinigung der Zulassung einer Änderung nach Absatz
+1\.8.7.2.5 Satz 5 vor, darf der Betreiber die Druckgefäße und Tanks nur
+dann verwenden, wenn sie den Bestimmungen in der Bescheinigung
+entsprechen und die Bescheinigung der Tankakte nach Absatz 1.8.7.2.5
+Satz 6 ADR/RID beigefügt ist.
 
 (2) Ist mit den ortsbeweglichen Druckgeräten eine Gefahr verbunden,
 hat der Betreiber den Eigentümer sowie die Marktüberwachungsbehörden
@@ -712,8 +740,8 @@ beabsichtigen oder gebrauchen.
 (1) Für die in Anlage 1 Abschnitt A Nummer 1 genannten ortsbeweglichen
 Druckgeräte bestimmen sich die Konformitätsbewertung, die
 wiederkehrenden Prüfungen, Zwischenprüfungen und außerordentlichen
-Prüfungen nach den Anforderungen des Abschnitts 1.8.7 in Verbindung
-mit Kapitel 6.2 oder Kapitel 6.8 ADR/RID.
+Prüfungen nach den Anforderungen der Abschnitte 1.8.7 oder 1.8.8 in
+Verbindung mit Kapitel 6.2 oder Kapitel 6.8 ADR/RID.
 
 (2) Die in Anlage 1 Abschnitt A Nummer 2 genannten ortsbeweglichen
 Druckgeräte müssen den Spezifikationen der Baumusterzulassung und den
@@ -723,7 +751,9 @@ außerordentlichen Prüfungen nach Abschnitt 1.8.7 in Verbindung mit
 Kapitel 6.2 oder Kapitel 6.8 ADR/RID unterzogen.
 
 (3) Abnehmbare Teile nachfüllbarer ortsbeweglicher Druckgeräte können
-einer gesonderten Konformitätsbewertung unterzogen werden.
+einer gesonderten Konformitätsbewertung unterzogen werden. Satz 1 gilt
+nicht für ortsbewegliche Druckgeräte, deren Konformität nach Abschnitt
+1\.8.8 ADR/RID bewertet wurde.
 
 
 ### § 12 Neubewertung der Konformität
@@ -731,19 +761,21 @@ einer gesonderten Konformitätsbewertung unterzogen werden.
 Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1
 Abschnitt A Nummer 3 genannten ortsbeweglichen Druckgeräts kann
 veranlassen, dass die Konformität nach dem Verfahren zur Neubewertung
-der Konformität gemäß Anhang III der
-Richtlinie 2010/35/EU              neu bewertet wird. Der Eigentümer,
-der Vertreiber oder der Betreiber, durch den die Neubewertung nach
-Satz 1 veranlasst wurde, hat bei der ersten wiederkehrenden Prüfung
-gemäß Unterabschnitt 4.1.4.1 Verpackungsvorschrift P 200 ADR/RID
-unmittelbar nach Abschluss der Neubewertung die Pi-Kennzeichnung gemäß
-§ 13 Absatz 1 in Verbindung mit Artikel 15 und Anhang III der
-Richtlinie 2010/35/EU anzubringen, wenn im Verfahren zur Neubewertung
-nach Satz 1 die Konformität bestätigt wurde. Der Eigentümer, der
-Vertreiber oder der Betreiber darf die Pi-Kennzeichnung gemäß § 13
-Absatz 1 in Verbindung mit Artikel 15 und Anhang III der Richtlinie
-2010/35/EU nicht anbringen, wenn im Verfahren zur Neubewertung nach
-Satz 1 die Konformität nicht bestätigt wurde.
+der Konformität gemäß Anhang III der Richtlinie 2010/35/EU neu
+bewertet wird. Der Eigentümer, der Vertreiber oder der Betreiber,
+durch den die Neubewertung nach Satz 1 veranlasst wurde, hat bei der
+ersten wiederkehrenden Prüfung gemäß Unterabschnitt 4.1.4.1
+Verpackungsvorschrift P 200 ADR/RID unmittelbar nach Abschluss der
+Neubewertung die Pi-Kennzeichnung gemäß § 13 Absatz 1 in Verbindung
+mit Artikel 15 und Anhang III der Richtlinie 2010/35/EU anzubringen,
+wenn im Verfahren zur Neubewertung nach Satz 1 die Konformität
+bestätigt wurde. Der Eigentümer, der Vertreiber oder der Betreiber
+darf die Pi-Kennzeichnung gemäß § 13 Absatz 1 in Verbindung mit
+Artikel 15 und Anhang III der Richtlinie 2010/35/EU nicht anbringen,
+wenn im Verfahren zur Neubewertung nach Satz 1 die Konformität nicht
+bestätigt wurde. Die Verfahren nach den Sätzen 1 bis 3 sind auf
+ortsbewegliche Druckgeräte, deren Konformität nach Abschnitt 1.8.8
+ADR/RID bewertet wurde, nicht anzuwenden.
 
 
 ### § 13 Allgemeine Grundsätze der Pi-Kennzeichnung
@@ -816,10 +848,9 @@ Gefahrgutbeförderungsgesetzes vornehmen.
 Befugnis, Konformitätsbewertungen, Neubewertungen der Konformität,
 wiederkehrende Prüfungen, Zwischenprüfungen und außerordentliche
 Prüfungen für ortsbewegliche Druckgeräte durchzuführen und benennt
-diese Stelle dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung als zugelassene Prüfstelle nach Unterabschnitt
-1\.8.6.1 ADR/RID, wenn die nachfolgend genannten Voraussetzungen
-vorliegen.
+diese Stelle dem Bundesministerium für Verkehr und digitale
+Infrastruktur als zugelassene Prüfstelle nach Unterabschnitt 1.8.6.1
+ADR/RID, wenn die nachfolgend genannten Voraussetzungen vorliegen.
 
 (2) Die Stelle mit Sitz oder Niederlassung in Deutschland legt mit dem
 Antrag auf Befugniserteilung, Zulassung und Benennung nach Abschnitt
@@ -899,8 +930,8 @@ Notifizierung.
 Mitgliedstaat der Europäischen Union oder des Europäischen
 Wirtschaftsraums notifizierte Benannte Stelle die Anforderungen für
 eine Notifizierung nicht oder nicht vollständig erfüllt, so
-unterrichtet sie unverzüglich das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung, die Europäische Kommission und die Benennende
+unterrichtet sie unverzüglich das Bundesministerium für Verkehr und
+digitale Infrastruktur, die Europäische Kommission und die Benennende
 Behörde des Mitgliedstaates, der die Stelle notifiziert hat und
 überwacht.
 
@@ -913,6 +944,20 @@ entsprechend den Verfahren, die in ADR/RID und in dieser Verordnung
 festgelegt sind, durchführen, wenn sie dafür notifiziert sind. Sind
 sie nicht oder nicht mehr dafür notifiziert, dürfen sie die
 Tätigkeiten nach Satz 1 nicht mehr ausführen.
+
+(1a) Die Benannten Stellen dürfen eine Baumusterprüfung und eine
+getrennte Baumusterzulassung von Ventilen und anderen
+Bedienungsausrüstungen für Tanks nach Absatz 6.8.2.3.1 Satz 9 nur
+durchführen, wenn für diese Teile in der Tabelle in Absatz 6.8.2.6.1
+eine Norm aufgeführt ist. Für die getrennte Baumusterzulassung sind
+die Verfahren anzuwenden, die in Abschnitt 1.8.7 vorgeschrieben sind.
+Abweichend davon darf ein betriebseigener Prüfdienst nach
+Unterabschnitt 1.8.7.6 in Verbindung mit Absatz 1.8.7.7.5 nur für die
+Überwachung der Herstellung der Ventile und anderen
+Bedienungsausrüstungen nach Unterabschnitt 1.8.7.3 und deren
+erstmalige Prüfung nach Unterabschnitt 1.8.7.4 genehmigt werden. Die
+Bemerkung zur Begriffsbestimmung „Antragsteller“ nach Abschnitt 1.2.1
+ADR/RID ist nicht anwendbar.
 
 (2) Benannte Stellen dürfen Neubewertungen der Konformität gemäß § 12
 durchführen, wenn sie dafür notifiziert sind. Sind sie nicht oder
@@ -976,7 +1021,7 @@ Erfahrungsaustausch und fordert sie zur Teilnahme auf.
 
 ### § 19 Koordinierung der Benannten Stellen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung richtet
+Das Bundesministerium für Verkehr und digitale Infrastruktur richtet
 einen nationalen Erfahrungsaustausch der Benannten Stellen für
 ortsbewegliche Druckgeräte ein, an dem die Benennende Behörde und die
 Benannten Stellen nach § 16 teilnehmen müssen sowie die Benannten
@@ -1008,11 +1053,11 @@ zuständig:
 
 
 
-(2) Die Länder teilen dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung die zuständigen Stellen mit. Dieses unterrichtet die
+(2) Die Länder teilen dem Bundesministerium für Verkehr und digitale
+Infrastruktur die zuständigen Stellen mit. Dieses unterrichtet die
 Europäische Kommission.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur
 richtet einen Erfahrungsaustausch für die Marktüberwachung
 ortsbeweglicher Druckgeräte ein.
 
@@ -1249,8 +1294,8 @@ hat, dass der Anlass für die Maßnahme nicht im Inland liegt oder die
 Auswirkungen dieser Maßnahme über das Inland hinausreichen.
 
 (3) Die Bundesanstalt für Materialforschung und -prüfung unterrichtet
-die Marktüberwachungsbehörden sowie die Bundesministerien für Verkehr,
-Bau und Stadtentwicklung sowie der Verteidigung über Meldungen der
+die Marktüberwachungsbehörden sowie die Bundesministerien für Verkehr
+und digitale Infrastruktur sowie der Verteidigung über Meldungen der
 Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
 
@@ -1378,11 +1423,14 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
         zur Verfügung stellt,
 
 
-    e)  Absatz 4 Satz 1 eine dort genannte Maßnahme nicht oder nicht
+    e)  Absatz 3a ein ortsbewegliches Druckgerät in Verkehr bringt,
+
+
+    f)  Absatz 4 Satz 1 eine dort genannte Maßnahme nicht oder nicht
         rechtzeitig ergreift oder
 
 
-    f)  Absatz 4 Satz 3 eine dort genannte Behörde nicht, nicht richtig, nicht
+    g   Absatz 4 Satz 3 eine dort genannte Behörde nicht, nicht richtig, nicht
         vollständig oder nicht rechtzeitig unterrichtet,
 
 
@@ -1470,8 +1518,8 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 5.  als Eigentümer entgegen § 7
 
-    a)  Absatz 1 Satz 1 ein ortsbewegliches Druckgerät auf dem Markt
-        bereitstellt,
+    a)  Absatz 1 Satz 1 oder Absatz 1a ein ortsbewegliches Druckgerät auf dem
+        Markt bereitstellt oder verwendet,
 
 
     b)  Absatz 1 Satz 2 den Hersteller, den Einführer oder die
@@ -1488,7 +1536,7 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 6.  als Betreiber entgegen § 8
 
-    a)  Absatz 1 ein ortsbewegliches Druckgerät verwendet,
+    a)  Absatz 1 oder 1a ein ortsbewegliches Druckgerät verwendet,
 
 
     b)  Absatz 2 den Eigentümer oder die Marktüberwachungsbehörde nicht oder
@@ -1759,8 +1807,9 @@ Rechtsvorschriften der Mitgliedstaaten über Druckgeräte (ABl. L 181
 vom 9.7.1997, S. 1) vorgesehenen Kennzeichen versehen sind, dürfen
 weiter verwendet werden.
 
+(zu § 1 Absatz 1)
 
-### Anlage 1 (zu § 1 Absatz 1) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
+### Anlage 1 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
 
 (Fundstelle: BGBl. I 2011, 2361)
 
@@ -1819,8 +1868,9 @@ ADR/RID ausgenommen sind, sowie ortsbewegliche Druckgeräte, die
 aufgrund der besonderen Vorschriften in Kapitel 3.3 ADR/RID von den
 Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 
+(zu § 1 Absatz 2)
 
-### Anlage 2 (zu § 1 Absatz 2) Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
+### Anlage 2 Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
 
 (Fundstelle: BGBl. I 2011, 2362)
 

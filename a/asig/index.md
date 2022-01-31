@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1973, 1885
 
 Zuletzt geändert durch
-:   Art. 226 V v. 31.10.2006 I 2407
+:   Art. 3 Abs. 5 G v. 20.4.2013 I 868
 
 
 ## Eingangsformel
@@ -26,7 +26,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Erster Abschnitt -
+## Erster Abschnitt - 
 
 
 
@@ -409,7 +409,7 @@ Umweltschutzes beauftragten Personen zusammen.
 Soweit in einer sonstigen Rechtsvorschrift nichts anderes bestimmt
 ist, hat der Arbeitgeber in Betrieben mit mehr als zwanzig
 Beschäftigten einen Arbeitsschutzausschuß zu bilden; bei der
-Feststellung der Zahl der Beschäftigen sind Teilzeitbeschäftigte mit
+Feststellung der Zahl der Beschäftigten sind Teilzeitbeschäftigte mit
 einer regelmäßigen wöchentlichen Arbeitszeit von nicht mehr als 20
 Stunden mit 0,5 und nicht mehr als 30 Stunden mit 0,75 zu
 berücksichtigen. Dieser Ausschuß setzt sich zusammen aus:
@@ -520,13 +520,11 @@ Arbeitsschutz zu gewährleisten.
 (1) Dieses Gesetz ist nicht anzuwenden, soweit Arbeitnehmer im
 Haushalt beschäftigt werden.
 
-(2) Soweit im Bereich der Seeschiffahrt die Vorschriften der
-Verordnung über die Seediensttauglichkeit und der Verordnung über die
-Krankenfürsorge auf Kauffahrteischiffen gleichwertige Regelungen
-enthalten, gelten diese Regelungen für die beschäftigten Kapitäne,
-Besatzungsmitglieder und sonstige, an Bord tätigen Personen deutscher
-Seeschiffe. Soweit dieses Gesetz auf die Seeschiffahrt nicht anwendbar
-ist, wird das Nähere durch Rechtsverordnung geregelt.
+(2) Soweit im Seearbeitsgesetz und in anderen Vorschriften im Bereich
+der Seeschifffahrt gleichwertige Regelungen enthalten sind, gelten
+diese Regelungen für die Besatzungsmitglieder auf Kauffahrteischiffen
+unter deutscher Flagge. Soweit dieses Gesetz auf die Seeschiffahrt
+nicht anwendbar ist, wird das Nähere durch Rechtsverordnung geregelt.
 
 (3) Soweit das Bergrecht diesem Gesetz gleichwertige Regelungen
 enthält, gelten diese Regelungen. Im übrigen gilt dieses Gesetz.
@@ -595,10 +593,12 @@ folgenden zwölften Kalendermonats in Kraft. § 14 und
 § 21              treten am Tag nach der Verkündung des Gesetzes in
 Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 
+Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 1029)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1029) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

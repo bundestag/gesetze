@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 725, 729
 
-Geändert durch
-:   Art. 2 Abs. 60 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 4 Abs. 4 G v. 10.7.2020 I 1633
 
 
 ## § 1 Enteignung zur Sicherung der Finanzmarktstabilität
@@ -28,7 +28,7 @@ Maßgabe dieses Gesetzes vorgenommen werden.
 Finanzmarktstabilität können sein:
 
 1.  Anteile an Unternehmen des Finanzsektors im Sinne des § 2 Absatz 1 des
-    Finanzmarktstabilisierungsfondsgesetzes,
+    Stabilisierungsfondsgesetzes,
 
 
 2.  sonstige Rechte, die Bestandteile der Eigenmittel von Unternehmen des
@@ -64,7 +64,7 @@ Nummer 3 in der Rechtsform einer Kommanditgesellschaft geführt werden.
 übertragen. Enteignungsbegünstigte sind:
 
 1.  der Finanzmarktstabilisierungsfonds nach § 1 des
-    Finanzmarktstabilisierungsfondsgesetzes (Fonds),
+    Stabilisierungsfondsgesetzes (Fonds),
 
 
 2.  juristische Personen des öffentlichen Rechts oder des Privatrechts,
@@ -94,8 +94,8 @@ nachrangig gegenüber anderen Mitteln.
 
     b)  für eine rechtssichere, nachhaltige und wirtschaftlich zumutbare
         Stabilisierung von Unternehmen nach Absatz 2 Satz 1 Nummer 1 oder
-        Nummer 3 Stabilisierungsmaßnahmen nach dem
-        Finanzmarktstabilisierungsfondsgesetz nicht ausreichen,
+        Nummer 3 Stabilisierungsmaßnahmen nach dem Stabilisierungsfondsgesetz
+        nicht ausreichen,
 
 
     c)  eine Übertragung des Enteignungsgegenstandes auf den
@@ -103,7 +103,7 @@ nachrangig gegenüber anderen Mitteln.
         Finanzmarktstabilität erforderlichen Zeitraum rechtssicher und zu
         wirtschaftlich zumutbaren Bedingungen nicht auf weniger einschneidende
         Weise, insbesondere nicht durch Maßnahmen nach dem
-        Finanzmarktstabilisierungsbeschleunigungsgesetz erreicht werden kann
+        Wirtschaftsstabilisierungsbeschleunigungsgesetz erreicht werden kann
         (alternativer Erwerb). Eine Enteignung ist nur zulässig, wenn sich die
         Enteignungsbehörde zuvor um den alternativen Erwerb vergeblich bemüht
         hat oder dieser angesichts der Dringlichkeit keine ausreichende
@@ -160,7 +160,7 @@ Enteignungsbegünstigten nur den Anspruch auf die
 Enteignungsentschädigung nach § 4. Der Übergangszeitpunkt ist von Amts
 wegen unverzüglich in das Handelsregister einzutragen.
 
-(3) § 19 des Finanzmarktstabilisierungsbeschleunigungsgesetzes gilt
+(3) § 19 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes gilt
 für einen nach Absatz 2 erfolgten Übergang von Anteilen an Unternehmen
 nach § 1 Absatz 2 Satz 1 Nummer 1 und 3 oder von sonstigen Rechten im
 Sinne des § 1 Absatz 2 Satz 1 Nummer 2 entsprechend.
@@ -229,7 +229,7 @@ zugelassen, so gilt für die Ermittlung des Verkehrswertes Folgendes:
     Börsenpreis zugrunde zu legen. Der gewichtete durchschnittliche
     inländische Börsenpreis ist der nach Umsätzen gewichtete
     Durchschnittspreis der der Bundesanstalt für
-    Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 9 des
+    Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 22 des
     Wertpapierhandelsgesetzes als börslich gemeldeten Geschäfte. Die
     Bundesanstalt übermittelt der Enteignungsbehörde den
     Durchschnittspreis unverzüglich nach der Eröffnungsentscheidung.
@@ -351,14 +351,14 @@ Enteignungsbegünstigten auf Kosten des Unternehmens zu evaluieren.
 Eine erste Evaluierung ist vor Ablauf von zwei Jahren nach
 Durchführung der Enteignung durchzuführen. Weitere Evaluierungen sind
 sodann jährlich durchzuführen. Über das Ergebnis der Evaluierung ist
-das Gremium nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
-durch das Bundesministerium der Finanzen zu unterrichten.
+das Gremium nach § 10a des Stabilisierungsfondsgesetzes durch das
+Bundesministerium der Finanzen zu unterrichten.
 
 
-## § 7 Rechte des Gremiums nach § 10a des Finanzmarktstabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
+## § 7 Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
 
-(1) Das Gremium nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
-wird vom Bundesministerium der Finanzen über alle nach diesem Gesetz
+(1) Das Gremium nach § 10a des Stabilisierungsfondsgesetzes wird vom
+Bundesministerium der Finanzen über alle nach diesem Gesetz
 eingeleiteten Enteignungsmaßnahmen sowie über die Lage von Unternehmen
 nach § 1 Absatz 2 Satz 1 Nummer 1 und 3 unterrichtet, deren Anteile
 enteignet wurden. § 10a Absatz 2 Satz 2 und Absatz 3 des
@@ -367,8 +367,8 @@ Finanzmarktstabilisierungsfondsgesetzes gilt entsprechend.
 (2) Der Finanz- und der Haushaltsausschuss des Deutschen Bundestages
 sind vor Erlass einer Rechtsverordnung nach § 2 Absatz 1 Satz 1 über
 den Inhalt der Rechtsverordnung zu informieren. Die Rechte des
-Gremiums nach § 10a des Finanzmarktstabilisierungsfondsgesetzes
-bleiben unberührt.
+Gremiums nach § 10a des Stabilisierungsfondsgesetzes bleiben
+unberührt.
 
 
 ## § 8 Verordnungsermächtigung

@@ -39,12 +39,10 @@ Bundesministerium der Justiz
 
 ## Anlage 1 Estnisches Kontrollzeichen für Gegenstände aus Edelmetall
 
-(Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1995, 1587)
-
+![bgbl1_1995_j1587_0010.jpg](bgbl1_1995_j1587_0010.jpg)
 
 ## Anlage 2 Estnisches Sicherheitszeichen für elektrische Geräte (blau oder schwarz)
 
-(Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1995, 1588)
-
+![bgbl1_1995_j1588_0010.jpg](bgbl1_1995_j1588_0010.jpg)

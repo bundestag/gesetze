@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1989, 1059
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.1.1996 I 58
+:   Art. 6 Abs. 18 G v. 13.4.2017 I 872
 
 
 ## Eingangsformel
@@ -26,7 +26,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 3 -
+## Art 1 bis 3 - 
 
 
 
@@ -104,10 +104,10 @@ Täter oder Teilnehmer einer Straftat nach § 129 des Strafgesetzbuches
 oder einer mit dieser Tat zusammenhängenden, mit zeitiger
 Freiheitsstrafe von mindestens einem Jahr bedrohten Tat, wenn die
 Zwecke oder die Tätigkeit der Vereinigung auf die Begehung von Taten
-gerichtet sind, bei denen der Erweiterte Verfall (§ 73d des
-Strafgesetzbuches) angeordnet werden kann. Gemäß Artikel 4 §§ 1 und 2
-Satz 2 zuständig sind die Staatsanwaltschaft und das Gericht, das für
-die Hauptverhandlung zuständig wäre.
+im Sinne des § 100a Absatz 2 der Strafprozessordnung gerichtet sind.
+Gemäß Artikel 4 §§ 1 und 2 Satz 2 zuständig sind die
+Staatsanwaltschaft und das Gericht, das für die Hauptverhandlung
+zuständig wäre.
 
 
 ## Art 6 - Inkrafttreten

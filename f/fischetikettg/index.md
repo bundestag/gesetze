@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 2980
 
 Zuletzt geändert durch
-:   Art. 207 V v. 31.10.2006 I 2407
+:   Art. 1 G v. 20.10.2015 I 1736
 
 
 ## Eingangsformel
@@ -30,11 +30,14 @@ beschlossen:
 
 (1) Dieses Gesetz dient der Durchführung der Vorschriften zur
 Verbraucherinformation und Etikettierung von Fischen und
-Fischereierzeugnissen nach Artikel 4 der Verordnung (EG) Nr. 104/2000
-über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei
-und der Aquakultur (ABl. EG Nr. L 17 S. 22) und der zu seiner
-Durchführung erlassenen Gemeinschaftsvorschriften in der jeweils
-geltenden Fassung.
+Fischereierzeugnissen nach den Artikeln 35 bis 39 der Verordnung (EU)
+Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11.
+Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse
+der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG)
+Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der
+Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S.
+1) und der zu seiner Durchführung erlassenen Gemeinschaftsvorschriften
+in der jeweils geltenden Fassung.
 
 (2) Sonstige Vorschriften über die Kennzeichnung oder Etikettierung
 von Fischen und Fischereierzeugnissen bleiben unberührt.
@@ -76,25 +79,31 @@ Im Sinne dieses Gesetzes sind
 
 ## § 3 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur
-Durchführung von Rechtsakten der Europäischen Gemeinschaft im
-Anwendungsbereich des § 1 Abs. 1 erforderlich ist,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates, soweit es zur Durchführung von
+Rechtsakten der Europäischen Union im Anwendungsbereich des § 1 Abs. 1
+erforderlich ist,
 
 1.  vorzuschreiben, dass
 
     a)  Fische oder Fischereierzeugnisse nur mit einer Etikettierung,
         insbesondere hinsichtlich der Angabe der Handelsbezeichnung der
-        Fischart, der Produktionsmethode und des Fanggebietes der See- und
-        Binnenfischerei sowie des Erzeugungsgebietes der Aquakultur, in den
-        Verkehr gebracht, innergemeinschaftlich verbracht, eingeführt oder
-        ausgeführt werden dürfen,
+        Fischart, der Produktionsmethode, des Fanggebietes der Seefischerei
+        oder der Binnenfischerei, der Fanggeräte-Kategorie oder des
+        Erzeugungsgebietes der Aquakultur, in den Verkehr gebracht,
+        innergemeinschaftlich verbracht, eingeführt oder ausgeführt werden
+        dürfen,
 
 
     b)  bei der Etikettierung zusätzlich der wissenschaftliche Name der
         Fischart bei der Angabe der Handelsbezeichnung zu verwenden ist,
+
+
+    c)  bei der Etikettierung von aus bestimmten Fanggebieten stammenden
+        Fischen oder Fischereierzeugnissen eine schriftliche Angabe des
+        Untergebietes oder der Division zu verwenden ist,
 
 
 
@@ -111,7 +120,7 @@ Anwendungsbereich des § 1 Abs. 1 erforderlich ist,
     c)  die Festlegung von Handelsbezeichnungen und die Aufstellung eines
         Verzeichnisses der Handelsbezeichnungen der Fischarten unter
         Berücksichtigung der Leitsätze des Deutschen Lebensmittelbuches nach §
-        33 des Lebensmittel- und Bedarfsgegenständegesetzes sowie die
+        15 des Lebensmittel- und Futtermittelgesetzbuchs sowie die
         Voraussetzungen über die Eintragung in das Verzeichnis und das
         Verfahren der Aufstellung,
 
@@ -141,10 +150,10 @@ Zustimmung des Bundesrates verlängert werden.
 
 ## § 4 Zuständigkeit für die Überwachung
 
-Die Überwachung der Einhaltung der Rechtsakte der Europäischen
-Gemeinschaft im Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes sowie
-die Einhaltung der Überwachung dieses Gesetzes und der nach diesem
-Gesetz erlassenen Rechtsverordnungen obliegt
+Die Überwachung der Einhaltung der Rechtsakte der Europäischen Union
+im Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes sowie die
+Einhaltung der Überwachung dieses Gesetzes und der nach diesem Gesetz
+erlassenen Rechtsverordnungen obliegt
 
 1.  der Bundesanstalt für Landwirtschaft und Ernährung außerhalb der
     verbindlichen Anlandeorte nach Anlage 3 der Seefischereiverordnung,
@@ -163,12 +172,12 @@ Gesetz erlassenen Rechtsverordnungen obliegt
 
 (1) Die für die Überwachung nach § 4 zuständigen Behörden können für
 den Fall, dass die Etikettierung den Vorgaben der Rechtsakte der
-Europäischen Gemeinschaft im Anwendungsbereich dieses Gesetzes oder
-den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht
-entspricht, die Maßnahmen anordnen, die erforderlich sind, um
-Verstößen zu begegnen. Insbesondere kann gegenüber jedem, der Fische
-oder Fischereierzeugnisse erzeugt, gewinnt, be- oder verarbeitet, in
-den Verkehr bringt, innergemeinschaftlich verbringt, einführt oder
+Europäischen Union im Anwendungsbereich dieses Gesetzes oder den auf
+Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht entspricht,
+die Maßnahmen anordnen, die erforderlich sind, um Verstößen zu
+begegnen. Insbesondere kann gegenüber jedem, der Fische oder
+Fischereierzeugnisse erzeugt, gewinnt, be- oder verarbeitet, in den
+Verkehr bringt, innergemeinschaftlich verbringt, einführt oder
 ausführt, besitzt oder unmittelbar oder mittelbar am Geschäftsverkehr
 mit solchen Waren teilnimmt, angeordnet werden, dass nicht oder
 fehlerhaft etikettierte Fische oder Fischereierzeugnisse nicht in den
@@ -224,12 +233,11 @@ Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (5) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates
 
 1.  Maßnahmen, die erforderlich sind, um Verstößen gegen Rechtsakte der
-    Europäischen Gemeinschaft im Anwendungsbereich des § 1 Abs. 1 zu
-    begegnen,
+    Europäischen Union im Anwendungsbereich des § 1 Abs. 1 zu begegnen,
 
 
 2.  die Überwachung, einschließlich der Pflicht zur Führung von Büchern
@@ -250,7 +258,7 @@ Zollstellen wirken bei der Überwachung der Einfuhr oder Ausfuhr von
 Fischen und Fischereierzeugnissen mit. Die genannten Behörden können
 Sendungen einschließlich deren Transportmittel zur Überwachung
 anhalten und den Verdacht von Verstößen gegen Vorschriften in
-Rechtsakten der Europäischen Gemeinschaft im Anwendungsbereich dieses
+Rechtsakten der Europäischen Union im Anwendungsbereich dieses
 Gesetzes oder gegen Vorschriften dieses Gesetzes oder der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen den zuständigen Behörden
 mitteilen.
@@ -283,8 +291,8 @@ diese Befugnis nach Satz 3 auf andere Behörden übertragen.
     a)  § 3 Abs. 1 Satz 1 Nr. 1 Buchstabe a,
 
 
-    b)  § 3 Abs. 1 Satz 1 Nr. 1 Buchstabe b oder Nr. 2 Buchstabe a oder d oder
-        § 5 Abs. 5 oder
+    b)  § 3 Absatz 1 Satz 1 Nummer 1 Buchstabe b oder Buchstabe c oder Nr. 2
+        Buchstabe a oder d oder § 5 Abs. 5 oder
 
 
     c)  § 6 Abs. 2 Satz 1
@@ -305,9 +313,9 @@ diese Befugnis nach Satz 3 auf andere Behörden übertragen.
 
 
 4.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
-    Gemeinschaft im Anwendungsbereich des § 1 Abs. 1 zuwiderhandelt,
-    soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten
-    Tatbestand auf diese Bußgeldvorschrift verweist.
+    Union im Anwendungsbereich des § 1 Abs. 1 zuwiderhandelt, soweit eine
+    Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf
+    diese Bußgeldvorschrift verweist.
 
 
 
@@ -320,10 +328,10 @@ und Nr. 2 und 3 mit einer Geldbuße bis zu fünftausend Euro geahndet
 werden.
 
 (3) Das Bundesministerium wird ermächtigt, soweit dies zur
-Durchsetzung der Rechtsakte der Europäischen Gemeinschaft erforderlich
-ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1
-Nr. 4 geahndet werden können.
+Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände
+zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 4 geahndet
+werden können.
 
 
 ## § 9 Einziehung

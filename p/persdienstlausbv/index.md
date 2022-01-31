@@ -493,8 +493,9 @@ Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3 Abs. 1 Satz 1)
 
-## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 
 (Fundstelle: BGBl. I 2008, 236 - 239)
 ### - Sachliche Gliederung -
@@ -1184,8 +1185,9 @@ Fähigkeiten**
 
 
 
+(zu § 3 Abs. 1 Satz 2)
 
-## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 
 (Fundstelle: BGBl. I 2008, 240 - 241)
 ### – Zeitliche Gliederung –

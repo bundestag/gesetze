@@ -389,8 +389,9 @@ so ist die Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 6)
 
-## Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 797 - 802)
 
@@ -1332,8 +1333,9 @@ Wahlqualifikationseinheiten gemäß § 4 Nr. 2
 
 
 
+(zu § 6)
 
-## Anlage 2 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 803 - 805)
 

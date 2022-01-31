@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2366
 
+Geändert durch
+:   Art. 151 V v. 19.6.2020 I 1328
+
 
 ## § 1 Befriedete Bezirke
 
@@ -48,10 +51,11 @@ Auflagen verbunden werden.
 (2) Anträge auf Zulassung von Versammlungen nach Absatz 1 sollen
 spätestens sieben Tage vor der beabsichtigten Versammlung oder dem
 Aufzug schriftlich, elektronisch oder zur Niederschrift beim
-Bundesministerium des Innern gestellt werden. Das Bundesministerium
-des Innern entscheidet jeweils im Einvernehmen mit dem Präsidenten
-oder der Präsidentin der in § 1 Satz 1 genannten Verfassungsorgane.
-Die Entscheidung nach Satz 2 ergeht schriftlich oder elektronisch.
+Bundesministerium des Innern, für Bau und Heimat gestellt werden. Das
+Bundesministerium des Innern, für Bau und Heimat entscheidet jeweils
+im Einvernehmen mit dem Präsidenten oder der Präsidentin der in § 1
+Satz 1 genannten Verfassungsorgane. Die Entscheidung nach Satz 2
+ergeht schriftlich oder elektronisch.
 
 (3) Durch die Zulassung werden die in den Ländern Berlin und Baden-
 Württemberg jeweils geltenden versammlungsrechtlichen Vorschriften

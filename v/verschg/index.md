@@ -16,10 +16,11 @@ Fundstelle
 :   RGBl I: 1939, 1186
 
 Zuletzt geändert durch
-:   Art. 55 G v. 17.12.2008 I 2586
+:   Art. 182 V v. 31.8.2015 I 1474
 
+Voraussetzungen der Todeserklärung.
 
-## Abschnitt I - Voraussetzungen der Todeserklärung. Lebens- und Todesvermutungen
+## Abschnitt I - Lebens- und Todesvermutungen
 
 
 
@@ -54,7 +55,7 @@ nicht für tot erklärt werden.
 
 ### § 4
 
-(1) Wer als Angehöriger einer bewaffneten Macht an einem Krieg oder
+(1) Wer als Angehöriger einer bewaffneten Macht an einem Kriege oder
 einem kriegsähnlichen Unternehmen teilgenommen hat, während dieser
 Zeit im Gefahrgebiet vermißt worden und seitdem verschollen ist, kann
 für tot erklärt werden, wenn seit dem Ende des Jahres, in dem der
@@ -91,12 +92,13 @@ Gründen anzunehmen ist, daß das Schiff schon früher untergegangen ist.
 
 ### § 6
 
-Wer bei einem Flug, insbesondere infolge Zerstörung des Luftfahrzeugs,
-verschollen ist, kann für tot erklärt werden, wenn seit der Zerstörung
-des Luftfahrzeugs oder dem sonstigen die Verschollenheit begründenden
-Ereignis oder, wenn diese Ereignisse nicht feststellbar sind, seit dem
-letzten Zeitpunkt, zu dem der Verschollene nach den vorhandenen
-Nachrichten noch gelebt hat, drei Monate verstrichen sind.
+Wer bei einem Fluge, insbesondere infolge Zerstörung des
+Luftfahrzeugs, verschollen ist, kann für tot erklärt werden, wenn seit
+der Zerstörung des Luftfahrzeugs oder dem sonstigen die
+Verschollenheit begründenden Ereignis oder, wenn diese Ereignisse
+nicht feststellbar sind, seit dem letzten Zeitpunkt, zu dem der
+Verschollene nach den vorhandenen Nachrichten noch gelebt hat, drei
+Monate verstrichen sind.
 
 
 ### § 7
@@ -230,7 +232,7 @@ wichtigem Grund an ein anderes Gericht abgeben.
 
 ### § 15a
 
-(1) Ist ein Gerichtsstand nach § 15 nicht begründet oder wird am Sitz
+(1) Ist ein Gerichtsstand nach § 15 nicht begründet oder wird am Sitze
 des nach § 15 zuständigen Gerichts eine deutsche Gerichtsbarkeit nicht
 mehr ausgeübt, so ist das Gericht zuständig, in dessen Bezirk der
 erste Antragsteller seinen Wohnsitz oder in Ermangelung eines
@@ -262,10 +264,10 @@ Gericht ab, so ist die Abgabeverfügung für das andere Gericht bindend.
 ### § 15d
 
 Ist anzunehmen, daß mehrere Personen infolge desselben Ereignisses
-verschollen sind, so kann der Bundesminister der Justiz das für alle
-Todeserklärungen zuständige Gericht bestimmen. Ist der Antrag bei
-einem hiernach nicht zuständigen Gericht gestellt, so ist er an das
-zuständige Gericht abzugeben.
+verschollen sind, so kann das Bundesministerium der Justiz und für
+Verbraucherschutz das für alle Todeserklärungen zuständige Gericht
+bestimmen. Ist der Antrag bei einem hiernach nicht zuständigen Gericht
+gestellt, so ist er an das zuständige Gericht abzugeben.
 
 
 ### § 16
@@ -362,7 +364,7 @@ Aufgebotsfrist nicht mehr abgekürzt werden.
 
 ### § 22
 
-Vor der Bekanntmachung des Aufgebots ist in jedem Fall dem
+Vor der Bekanntmachung des Aufgebots ist in jedem Falle dem
 Staatsanwalt, vor der Entscheidung dem Antragsteller und dem
 Staatsanwalt Gelegenheit zur Äußerung zu geben.
 
@@ -510,10 +512,10 @@ Verschulden erst bekannt geworden ist, als er sie in dem
 Aufgebotsverfahren nicht mehr geltend machen konnte.
 
 (2) Der Antrag ist vor Ablauf einer Notfrist von einem Monat zu
-stellen. Die Frist beginnt mit dem Tag, an dem der Antragsberechtigte
+stellen. Die Frist beginnt mit dem Tage, an dem der Antragsberechtigte
 von der Tatsache Kenntnis erhalten hat, jedoch nicht vor Eintritt der
 Rechtskraft der Todeserklärung. Nach Ablauf von fünf Jahren, von dem
-Tag der Rechtskraft der Todeserklärung an gerechnet, ist der Antrag
+Tage der Rechtskraft der Todeserklärung an gerechnet, ist der Antrag
 unstatthaft.
 
 (3) Für das Änderungsverfahren gelten §§ 17, 18, § 19 Abs. 1, Abs. 2
@@ -672,7 +674,7 @@ Aufgebotsverfahren angestellt sind, daß der Tod nach den Umständen
 nicht zweifelhaft ist, so ist das Verfahren nach den §§ 39 bis 44
 fortzusetzen.
 
-(2) Der Antrag auf Todeserklärung gilt in diesem Fall als Antrag auf
+(2) Der Antrag auf Todeserklärung gilt in diesem Falle als Antrag auf
 Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.
 
 
@@ -684,17 +686,15 @@ Feststellung des Zeitpunktes des Todes. § 41 ist nicht anzuwenden.
 
 (1) Dieses Gesetz tritt am 15. Juli 1939 in Kraft.
 
-(2) u. (3)
+(2) u. (3) (Aufhebungs- u. Überleitungsvorschrift)
 
 
-### § 47
+### § 47 (weggefallen)
 
-(weggefallen)
 
 
 ### § 48
 
--
 
 
 ### § 49
@@ -709,7 +709,7 @@ steht deren Aufhebung oder Änderung nach den §§ 30 bis 33a dieses
 Gesetzes gleich.
 
 
-### (XXXX) §§ 50 bis 52
+### (XXXX) §§ 50 bis 52 (weggefallen)
 
 
 
@@ -717,15 +717,16 @@ Gesetzes gleich.
 
 
 
-## Abschnitt VI -
+## Abschnitt VI - 
 
 
 
 ### (XXXX) §§ 55 bis 58 (weggefallen)
 
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 953)
+### Anhang EV (BGBl. II 1990, 889, 953)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

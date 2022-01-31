@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport-
+Title: Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur  Sport-
   und Fitnesskauffrau
 jurabk: Sport/FitnessAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: sport_fitnessausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau (Sport/FitnessAusbV)
+# Verordnung über die Berufsausbildung zum Sport- und Fitnesskaufmann/zur  Sport- und Fitnesskauffrau (Sport/FitnessAusbV)
 
 Ausfertigungsdatum
 :   2007-07-04
@@ -410,8 +410,11 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
+(zu § 3 Abs. 1 Satz 1)
+Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
+Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
-## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1255 - 1259)
 
@@ -1074,8 +1077,11 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 
 
+(zu § 3 Abs. 1 Satz 2)
+Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und
+Fitnesskaufmann/zur Sport- und Fitnesskauffrau
 
-## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Sport- und Fitnesskaufmann/zur Sport- und Fitnesskauffrau - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2007, 1260 - 1261)
 

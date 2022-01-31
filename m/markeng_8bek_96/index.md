@@ -68,21 +68,18 @@ Bundesministerium der Justiz
 
 ## Anlage 1 Prüf- und Gewährzeichen der Republik Moldau für Gegenstände aus Edelmetall
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1996, 748)
-
+![bgbl1_1996_j0748_0010.jpg](bgbl1_1996_j0748_0010.jpg)
 
 ## Anlage 2 Prüf- und Gewährzeichen der Republik Korea "Koreanisches Welt-Klasse-Produkt"
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1996, 749)
-
+![bgbl1_1996_j0749_0010.jpg](bgbl1_1996_j0749_0010.jpg)
 
 ## Anlage 3 Neues Kennzeichen Nr. 1 der Europäischen Freihandelsassoziation eingeführt ab 1. Januar 1995
 
-(Inhalt: Nicht darstellbares EFTA-Kennzeichen,
 Fundstelle: BGBl. I 1996, 750)
-
+![bgbl1_1996_j0750_0010.jpg](bgbl1_1996_j0750_0010.jpg)
 
 ## Anlage 4
 
@@ -100,6 +97,5 @@ Fundstelle: BGBl. I 1996, 751)
 
 ## Anlage 5 Asia-Pacific Economic Cooperation
 
-(Inhalt: nicht darstellbares APEC-Kennzeichen,
 Fundstelle: BGBl. I 1996, 752)
-
+![bgbl1_1996_j0752_0010.jpg](bgbl1_1996_j0752_0010.jpg)

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 918
 
-Geändert durch
-:   Art. 1 V v. 21.9.1997 I 2390
+Zuletzt geändert durch
+:   Art. 57 Abs. 2 G v. 12.12.2019 I 2652
 
 
 ## Präambel
@@ -233,7 +233,7 @@ Gebietskörperschaften der Region Bonn andererseits vorbehalten.
 1.  Bundeskartellamt,
 
 
-2.  Bundesversicherungsamt,
+2.  Bundesamt für Soziale Sicherung,
 
 
 3.  Bundesaufsichtsamt für das Kreditwesen,

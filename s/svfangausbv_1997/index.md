@@ -854,8 +854,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1981 - 1988;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2063,8 +2064,9 @@ fortzuführen.
 \*1) Abschnitt II.
 \*2) Abschnitt I.
 
+(zu § 4)
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1989 - 1995)
 
@@ -3172,8 +3174,9 @@ fortzuführen.
 1)                Abschnitt I.
 2)                Abschnitt II.
 
+(zu § 4)
 
-## Anlage 3 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
+## Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1996 - 2003)
 
@@ -4780,8 +4783,9 @@ fortzuführen.
 \*1) Abschnitt I.
 \*2) Abschnitt II.
 
+(zu § 4)
 
-## Anlage 4 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
+## Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
 
 (Fundstelle: BGBl. I 1996, S. 2004 - 2011)
 
@@ -6406,8 +6410,9 @@ fortzuführen.
 \*1) Abschnitt I.
 \*2) Abschnitt II.
 
+(zu § 4)
 
-## Anlage 5 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
+## Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
 
 (Fundstelle: BGBl. I 1996, S. 2012 - 2019)
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 534
 
 Zuletzt geändert durch
-:   Art. 10 V v. 25.8.2009 I 2960
+:   Art. 22 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -584,9 +584,13 @@ Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin
 gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin" vom
-5\. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 10 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+5\. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 22 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -613,8 +617,8 @@ Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin
 gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Floristmeister/Geprüfte Floristmeisterin" vom
-5\. April 2001 (BGBl. I S. 534), die zuletzt durch Artikel 10 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+5\. April 2001 (BGBl. I S. 534), die zuletzt Artikel 22 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 Note
 I. Situationsaufgabe mit den Schwerpunkten
@@ -638,6 +642,10 @@ wurde nach
 in ............... vor ...................... abgelegte Prüfung
 abgelegte
 Prüfung vom Prüfungsbestandteil .................. freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)

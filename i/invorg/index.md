@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 4. 8.1997 I 1996;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.12.2006 I 3230
+:   Art. 588 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Vorrang für Investitionen
@@ -1074,14 +1074,15 @@ ist.
 
 ### § 29 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
-Bundesrates weitere Einzelheiten des Verfahrens nach den Abschnitten 2
-bis 6 regeln, insbesondere zum Inhalt des Vorhabensplans, zu weiteren
-zu übersendenden Unterlagen und zur Zuständigkeit der Behörden, wobei
-von den darin enthaltenen Bestimmungen abgewichen werden kann. Die
-Ermächtigung nach Satz 1 kann das Bundesministerium der Justiz durch
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens
+nach den Abschnitten 2 bis 6 regeln, insbesondere zum Inhalt des
+Vorhabensplans, zu weiteren zu übersendenden Unterlagen und zur
+Zuständigkeit der Behörden, wobei von den darin enthaltenen
+Bestimmungen abgewichen werden kann. Die Ermächtigung nach Satz 1 kann
+das Bundesministerium der Justiz und für Verbraucherschutz durch
 Rechtsverordnung mit Zustimmung des Bundesrates auf die
 Landesregierungen übertragen. Unbeschadet der vorstehenden
 Vorschriften und des § 24 Abs. 3 werden die Landesregierungen

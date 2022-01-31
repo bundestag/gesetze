@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1867
 
-Geändert durch
-:   Art. 12 Abs. 2 G v. 22.11.2011 I 2258
+Zuletzt geändert durch
+:   Art. 27 V v. 19.6.2020 I 1328
 
 
 
@@ -113,11 +113,12 @@ Satz 3 des Bundespolizeigesetzes) erteilten Weisungen.
 
 ## § 6
 
-Das Bundesministerium des Innern benennt dem Bundesministerium der
-Finanzen die Bundespolizeibehörden, die es mit der Ausübung der
-Fachaufsicht beauftragt hat. Das Bundesministerium des Innern und das
-Bundesministerium der Finanzen regeln einvernehmlich die Fachaufsicht
-durch die Bundespolizeibehörden.
+Das Bundesministerium des Innern, für Bau und Heimat benennt dem
+Bundesministerium der Finanzen die Bundespolizeibehörden, die es mit
+der Ausübung der Fachaufsicht beauftragt hat. Das Bundesministerium
+des Innern, für Bau und Heimat und das Bundesministerium der Finanzen
+regeln einvernehmlich die Fachaufsicht durch die
+Bundespolizeibehörden.
 
 
 ## § 7

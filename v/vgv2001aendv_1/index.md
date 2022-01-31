@@ -2,7 +2,7 @@
 Title: Erste Verordnung zur Änderung der Vergabeverordnung
 jurabk: VgV2001ÄndV 1
 layout: default
-origslug: vgv2001_ndv_1
+origslug: vgv2001aendv_1
 slug: vgv2001aendv_1
 
 ---

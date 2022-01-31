@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1957, 1747
 
 Zuletzt geändert durch
-:   Art. 3 G v. 31.7.2009 I 2512
+:   Art. 214 V v. 19.6.2020 I 1328
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -1146,28 +1146,29 @@ Nachversicherung in der allgemeinen Rentenversicherung nicht entgegen,
 wenn ohne die Nachversicherung eine ausreichende anderweitige Alters-
 und Hinterbliebenensicherung nicht gewährleistet ist; das Nähere
 bestimmen das Bundesministerium für Arbeit und Soziales, das
-Bundesministerium der Finanzen und das Bundesministerium des Innern
-durch Rechtsverordnung mit Zustimmung des Bundesrates. Hat der
-Jahresarbeitsverdienst in den in Satz 3 bezeichneten Fällen die
-Versicherungspflichtgrenze überschritten, so gilt die Nachversicherung
-als bis zur Höhe der Versicherungspflichtgrenze durchgeführt. Wird
-nach dem Ausscheiden aus der versicherungsfreien Beschäftigung ein
-Anspruch oder eine Anwartschaft auf Alters- und
-Hinterbliebenenversorgung unter Einrechnung der vor dem Ausscheiden
-liegenden Zeiten im öffentlichen Dienst erworben oder nachträglich
-festgestellt, so entfallen die Nachversicherung und die an sie
-geknüpften Rechtsfolgen. Gezahlte Renten sind bis zum Ende des dritten
-Monats nach Ablauf des Monats, in dem dem Träger der gesetzlichen
-Rentenversicherung eine Mitteilung über den Eintritt der
-Voraussetzungen für den Wegfall der Nachversicherung nach Satz 2
-zugegangen ist, nicht zurückzufordern; jedoch sind diese Renten auf
-die für die gleichen Zeiträume zustehenden Versorgungsbezüge in der
-Höhe anzurechnen, die sich aus dem Verhältnis des Unterschiedsbetrages
-zwischen den zuletzt gezahlten und den für den gleichen Monat ohne
-Berücksichtigung der Nachversicherung errechneten Renten zu den für
-diesen Monat zustehenden Versorgungsbezügen ergibt. Erlischt eine in
-Satz 2 bezeichnete Anwartschaft, so gilt die Nachversicherung als
-nicht entfallen.
+Bundesministerium der Finanzen und das Bundesministerium des Innern,
+für Bau und Heimat durch Rechtsverordnung mit Zustimmung des
+Bundesrates. Hat der Jahresarbeitsverdienst in den in Satz 3
+bezeichneten Fällen die Versicherungspflichtgrenze überschritten, so
+gilt die Nachversicherung als bis zur Höhe der
+Versicherungspflichtgrenze durchgeführt. Wird nach dem Ausscheiden aus
+der versicherungsfreien Beschäftigung ein Anspruch oder eine
+Anwartschaft auf Alters- und Hinterbliebenenversorgung unter
+Einrechnung der vor dem Ausscheiden liegenden Zeiten im öffentlichen
+Dienst erworben oder nachträglich festgestellt, so entfallen die
+Nachversicherung und die an sie geknüpften Rechtsfolgen. Gezahlte
+Renten sind bis zum Ende des dritten Monats nach Ablauf des Monats, in
+dem dem Träger der gesetzlichen Rentenversicherung eine Mitteilung
+über den Eintritt der Voraussetzungen für den Wegfall der
+Nachversicherung nach Satz 2 zugegangen ist, nicht zurückzufordern;
+jedoch sind diese Renten auf die für die gleichen Zeiträume
+zustehenden Versorgungsbezüge in der Höhe anzurechnen, die sich aus
+dem Verhältnis des Unterschiedsbetrages zwischen den zuletzt gezahlten
+und den für den gleichen Monat ohne Berücksichtigung der
+Nachversicherung errechneten Renten zu den für diesen Monat
+zustehenden Versorgungsbezügen ergibt. Erlischt eine in Satz 2
+bezeichnete Anwartschaft, so gilt die Nachversicherung als nicht
+entfallen.
 
 (2) Erfolgt die Nachversicherung nach dem 31. Dezember 2004, gilt
 diese als in der allgemeinen Rentenversicherung durchgeführt.

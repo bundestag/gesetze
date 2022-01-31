@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1226
 
+Geändert durch
+:   Art. 156 V v. 19.6.2020 I 1328
+
 
 
 ## § 1 Rechtsform der Stiftung
@@ -134,10 +137,10 @@ im Sinne des Stiftungszweckes zu verwenden.
 
 ## § 4 Satzung
 
-Die Stiftung gibt sich im Benehmen mit dem Bundesministerium des
-Innern eine Satzung, die vom Stiftungsrat mit einer Mehrheit von zwei
-Dritteln der Stimmen beschlossen wird. Das gleiche gilt für Änderungen
-der Satzung.
+Die Stiftung gibt sich im Benehmen mit der für Kultur und Medien
+zuständigen obersten Bundesbehörde eine Satzung, die vom Stiftungsrat
+mit einer Mehrheit von zwei Dritteln der Stimmen beschlossen wird. Das
+gleiche gilt für Änderungen der Satzung.
 
 
 ## § 5 Organe der Stiftung
@@ -219,8 +222,8 @@ ehrenamtlich tätig.
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung, Rechts- und Amtshilfe
 
-(1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
-des Innern.
+(1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und
+Medien zuständigen obersten Bundesbehörde.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung

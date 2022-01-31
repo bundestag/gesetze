@@ -451,8 +451,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Baugeräteführer/zur Baugeräteführerin
 
 (Fundstelle: BGBl. I 1997, 1041 - 1045)
 

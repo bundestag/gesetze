@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Berlin-Schönefeld
 jurabk: FluLärmBerlSchV
 layout: default
-origslug: flul_rmberlschv
+origslug: flulaermberlschv
 slug: flulaermberlschv
 
 ---

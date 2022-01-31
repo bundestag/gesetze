@@ -34,8 +34,9 @@ Zeit ab 1. April 1995 bekanntgemacht.
 
 Der Bundesminister des Innern
 
+(Anlage IV des BBesG)
 
-## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Mai 1995
+## Anlage IA Gültig ab 1. Mai 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 244 - 246)
 
@@ -1190,10 +1191,11 @@ Der Bundesminister des Innern
 
 
 
+   (Anlage V des BBesG)
 
-## Anlage IB (Anlage V des BBesG) Gültig ab 1. Mai 1995
+## Anlage IB Gültig ab 1. Mai 1995
 
-   Fundstelle des Originaltextes: BGBl. I 1996, S. 247
+Fundstelle des Originaltextes: BGBl. I 1996, S. 247
 
 *    *   Ortszuschlag
 
@@ -1301,8 +1303,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage IC (Anlage VIII des BBesG) Gültig ab 1. April 1995
+## Anlage IC Gültig ab 1. April 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 248)
 
@@ -1411,8 +1414,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage ID (Anlage IX des BBesG) Gültig ab 1. Mai 1995
+## Anlage ID Gültig ab 1. Mai 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 249 - 251)
 
@@ -2719,8 +2723,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. Oktober 1995
+## Anlage IIA Gültig ab 1. Oktober 1995
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 
@@ -3655,8 +3660,9 @@ Fundstelle des Originaltextes: BGBl. I 1996, S. 252 - 254
 
 
 
+(Anlage V des BBesG)
 
-## Anlage IIB (Anlage V des BBesG) Gültig ab 1. Oktober 1995
+## Anlage IIB Gültig ab 1. Oktober 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 255)
 
@@ -3778,8 +3784,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage IIC (Anlage VIII des BBesG) Gültig ab 1. Oktober 1995
+## Anlage IIC Gültig ab 1. Oktober 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 256)
 
@@ -3874,8 +3881,9 @@ Unterschiedsbetrag zusätzlich gewährt.
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage IID (Anlage IX des BBesG) Gültig ab 1. Oktober 1995
+## Anlage IID Gültig ab 1. Oktober 1995
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 257 - 259)
 

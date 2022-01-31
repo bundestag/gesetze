@@ -10,16 +10,18 @@ slug: begdv_1
 # Erste Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 1)
 
 Ausfertigungsdatum
-:   1954-09-17
+:   1966-04-13
 
 Fundstelle
-:   BGBl I: 1954, 271
+:   BGBl I: 1966, 292 (393)
 
-Neugefasst durch
-:   Art. I V v. 13.4.1966 I 292, 393;
-
+Stand: Konstitutive Neufassung gem. Art. I V v. 13.4.1966, in Kraft getreten am 4.5.1966
+Stand: Ersetzt V v. 7.9.1954 I 271
 Zuletzt geändert durch
-:   Art. 1 V v. 28.3.2011 I 521
+:   Art. 1 V v. 18.4.2019 I 487
+
+Änderung durch
+:   Art. 1 V v. 2.12.2021 I 5049 (Nr. 81) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Besondere Anspruchsvoraussetzungen
@@ -134,12 +136,37 @@ den §§ 15 bis 26 BEG wie den Kindern eines Verfolgten zu.
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich,
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich,
+
+
+    *        *   ab 1. Januar 2019
+
+        *   ein höherer Betrag als 670 Euro monatlich und
+
+
+    *        *   ab 1. September 2021
+
+        *   ein höherer Betrag als 700 Euro monatlich
 
 
 
@@ -228,12 +255,37 @@ wenn sie
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich,
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich,
+
+
+    *        *   ab 1. Januar 2019
+
+        *   von mehr als 670 Euro monatlich und
+
+
+    *        *   ab 1. September 2021
+
+        *   von mehr als 700 Euro monatlich
 
 
 
@@ -515,12 +567,37 @@ berücksichtigt, als sie den Betrag
 
 *    *   ab 1. Juni 2008
 
-    *   von 520 Euro und
+    *   von 520 Euro,
 
 
 *    *   ab 1. Juli 2010
 
-    *   von 530 Euro
+    *   von 530 Euro,
+
+
+*    *   ab 1. Oktober 2012
+
+    *   von 560 Euro,
+
+
+*    *   ab 1. August 2014
+
+    *   von 590 Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   von 620 Euro,
+
+
+*    *   ab 1. Januar 2019
+
+    *   von 670 Euro und
+
+
+*    *   ab 1. September 2021
+
+    *   von 700 Euro
 
 
 
@@ -651,12 +728,37 @@ Die Rente erlischt
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich,
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich,
+
+
+    *        *   ab 1. Januar 2019
+
+        *   ein höherer Betrag als 670 Euro monatlich und
+
+
+    *        *   ab 1. September 2021
+
+        *   ein höherer Betrag als 700 Euro monatlich
 
 
 
@@ -752,12 +854,37 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Juni 2008
 
-        *   von mehr als 520 Euro monatlich und
+        *   von mehr als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   von mehr als 530 Euro monatlich
+        *   von mehr als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   von mehr als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   von mehr als 590 Euro monatlich,
+
+
+    *        *   ab 1. September 2016
+
+        *   von mehr als 620 Euro monatlich,
+
+
+    *        *   ab 1. Januar 2019
+
+        *   von mehr als 670 Euro monatlich und
+
+
+    *        *   ab 1. September 2021
+
+        *   von mehr als 700 Euro monatlich,
 
 
 
@@ -818,12 +945,37 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Juni 2008
 
-        *   von mehr als 520 Euro monatlich und
+        *   von mehr als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   von mehr als 530 Euro monatlich
+        *   von mehr als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   von mehr als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   von mehr als 590 Euro monatlich,
+
+
+    *        *   ab 1. September 2016
+
+        *   von mehr als 620 Euro monatlich,
+
+
+    *        *   ab 1. Januar 2019
+
+        *   von mehr als 670 Euro monatlich und
+
+
+    *        *   ab 1. September 2021
+
+        *   von mehr als 700 Euro monatlich
 
 
 
@@ -879,20 +1031,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Der monatliche Mindestbetrag der Rente beträgt für
 
-    *
 
 *    *
-    *   vom 1.1.1966 bis 30.9.1966
+    *   vom 1.1.1966
+        bis 30.9.1966
 
-    *   vom 1.10.1966 bis 30.6.1968
+    *   vom 1.10.1966
+        bis 30.6.1968
 
-    *   vom 1.7.1968 bis 31.3.1969
+    *   vom 1.7.1968
+        bis 31.3.1969
 
-    *   vom 1.4.1969 bis 31.8.1969
+    *   vom 1.4.1969
+        bis 31.8.1969
 
-    *   vom 1.9.1969 bis 31.12.1970
+    *   vom 1.9.1969
+        bis 31.12.1970
 
-    *
 
 *    *
     *   DM
@@ -905,7 +1060,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
 
 *    *   die Witwe ..........
 
@@ -919,7 +1073,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   373
 
-    *
 
 *    *   den Witwer .........
 
@@ -933,7 +1086,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   373
 
-    *
 
 *    *   die Vollwaise ......
 
@@ -947,7 +1099,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   187
 
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -956,11 +1107,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 115
+    *   115
 
     *   120
 
@@ -970,11 +1120,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   141
 
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 85
+    *   85
 
     *   88
 
@@ -984,11 +1133,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   104
 
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 76
+    *   76
 
     *   79
 
@@ -998,7 +1146,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   93
 
-    *
 
 *    *   den elternlosen Enkel ..............
 
@@ -1012,7 +1159,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   187
 
-    *
 
 *    *   die Eltern oder Adoptiveltern zusammen ...........
 
@@ -1026,7 +1172,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   281
 
-    *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ...
 
@@ -1040,24 +1185,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   187
 
+
+*    *
+
+*    *
+    *   vom 1.1.1971
+        bis 31.12.1971
+
+    *   vom 1.1.1972
+        bis 31.12.1972
+
+    *   vom 1.1.1973
+        bis 31.12.1973
+
+    *   vom 1.1.1974
+        bis 31.12.1974
+
     *
 
 *    *
-    *
-
-*    *
-    *   vom 1.1.1971 bis 31.12.1971
-
-    *   vom 1.1.1972 bis 31.12.1972
-
-    *   vom 1.1.1973 bis 31.12.1973
-
-    *   vom 1.1.1974 bis 31.12.1974
-
-    *
-    *
-
-*    *
     *   DM
 
     *   DM
@@ -1066,7 +1212,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
     *
 
 *    *   die Witwe ..........
@@ -1080,7 +1225,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   553
 
     *
-    *
 
 *    *   den Witwer .........
 
@@ -1092,7 +1236,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   553
 
-    *
     *
 
 *    *   die Vollwaise ......
@@ -1106,7 +1249,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   277
 
     *
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -1115,11 +1257,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 158
+    *   158
 
     *   171
 
@@ -1128,11 +1269,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   209
 
     *
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 116
+    *   116
 
     *   125
 
@@ -1141,11 +1281,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   153
 
     *
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 104
+    *   104
 
     *   112
 
@@ -1153,7 +1292,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   138
 
-    *
     *
 
 *    *   den elternlosen Enkel ..............
@@ -1166,7 +1304,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   277
 
-    *
     *
 
 *    *   die Eltern oder Adoptiveltern zusammen ...........
@@ -1180,7 +1317,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   417
 
     *
-    *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ..
 
@@ -1193,24 +1329,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   277
 
     *
+
+*    *
+
+*    *
+    *   vom 1.1.1975
+        bis 31.1.1976
+
+    *   vom 1.2.1976
+        bis 31.1.1977
+
+    *   vom 1.2.1977
+        bis 28.2.1978
+
+    *   vom 1.3.1978
+        bis 28.2.1979
+
     *
 
 *    *
-    *
-
-*    *
-    *   vom 1.1.1975 bis 31.1.1976
-
-    *   vom 1.2.1976 bis 31.1.1977
-
-    *   vom 1.2.1977 bis 28.2.1978
-
-    *   vom 1.3.1978 bis 28.2.1979
-
-    *
-    *
-
-*    *
     *   DM
 
     *   DM
@@ -1219,7 +1356,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
     *
 
 *    *   die Witwe ..........
@@ -1233,7 +1369,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   755
 
     *
-    *
 
 *    *   den Witwer .........
 
@@ -1245,7 +1380,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   755
 
-    *
     *
 
 *    *   die Vollwaise ......
@@ -1259,7 +1393,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   379
 
     *
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -1268,11 +1401,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 222
+    *   222
 
     *   243
 
@@ -1281,11 +1413,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   286
 
     *
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 162
+    *   162
 
     *   177
 
@@ -1294,11 +1425,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   209
 
     *
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 146
+    *   146
 
     *   160
 
@@ -1306,7 +1436,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   188
 
-    *
     *
 
 *    *   den elternlosen Enkel ..............
@@ -1319,7 +1448,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   379
 
-    *
     *
 
 *    *   die Eltern oder Adoptiveltern zusammen ...........
@@ -1333,7 +1461,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   569
 
     *
-    *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ..
 
@@ -1346,24 +1473,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   479
 
     *
+
+*    *
+
+*    *
+    *   vom 1.3.1979
+        bis 29.2.1980
+
+    *   vom 1.3.1980
+        bis 28.2.1981
+
+    *   vom 1.3.1981
+        bis 30.6.1982
+
+    *   vom 1.7.1982
+        bis 30.6.1983
+
     *
 
 *    *
-    *
-
-*    *
-    *   vom 1.3.1979 bis 29.2.1980
-
-    *   vom 1.3.1980 bis 28.2.1981
-
-    *   vom 1.3.1981 bis 30.6.1982
-
-    *   vom 1.7.1982 bis 30.6.1983
-
-    *
-    *
-
-*    *
     *   DM
 
     *   DM
@@ -1372,7 +1500,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
     *
 
 *    *   die Witwe ..........
@@ -1386,7 +1513,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   939
 
     *
-    *
 
 *    *   den Witwer .........
 
@@ -1398,7 +1524,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   939
 
-    *
     *
 
 *    *   die Vollwaise ......
@@ -1412,7 +1537,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   472
 
     *
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -1421,11 +1545,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 303
+    *   303
 
     *   326
 
@@ -1434,11 +1557,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   356
 
     *
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 222
+    *   222
 
     *   239
 
@@ -1447,11 +1569,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   261
 
     *
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 199
+    *   199
 
     *   214
 
@@ -1459,7 +1580,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   234
 
-    *
     *
 
 *    *   den elternlosen Enkel ..............
@@ -1472,7 +1592,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   472
 
-    *
     *
 
 *    *   die Eltern oder Adoptiveltern zusammen ...........
@@ -1486,7 +1605,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   707
 
     *
-    *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ..
 
@@ -1499,24 +1617,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   472
 
     *
+
+*    *
+
+*    *
+    *   vom 1.7.1983
+        bis 31.12.1984
+
+    *   vom 1.1.1985
+        bis 31.12.1985
+
+    *   vom 1.1.1986
+        bis 31.12.1986
+
+    *   vom 1.1.1987
+        bis 29.2.1988
+
     *
 
 *    *
-    *
-
-*    *
-    *   vom 1.7.1983 bis 31.12.1984
-
-    *   vom 1.1.1985 bis 31.12.1985
-
-    *   vom 1.1.1986 bis 31.12.1986
-
-    *   vom 1.1.1987 bis 29.2.1988
-
-    *
-    *
-
-*    *
     *   DM
 
     *   DM
@@ -1525,7 +1644,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
     *
 
 *    *   die Witwe ..........
@@ -1539,7 +1657,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1061
 
     *
-    *
 
 *    *   den Witwer .........
 
@@ -1551,7 +1668,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1061
 
-    *
     *
 
 *    *   die Vollwaise ......
@@ -1565,7 +1681,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   533
 
     *
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -1574,11 +1689,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 363
+    *   363
 
     *   377
 
@@ -1587,11 +1701,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   403
 
     *
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 266
+    *   266
 
     *   276
 
@@ -1600,11 +1713,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   295
 
     *
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 239
+    *   239
 
     *   248
 
@@ -1612,7 +1724,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   265
 
-    *
     *
 
 *    *   den elternlosen Enkel ..............
@@ -1626,7 +1737,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   533
 
     *
-    *
 
 *    *   die Eltern oder Adoptiveltern zusammen ...........
 
@@ -1638,7 +1748,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   799
 
-    *
     *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ..
@@ -1652,23 +1761,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   533
 
     *
-    *
 
 *    *
-    *
 
 *    *
-    *   vom 1.3.1988 bis 31.12.1988
+    *   vom 1.3.1988
+        bis 31.12.1988
 
-    *   vom 1.1.1989 bis 31.12.1989
+    *   vom 1.1.1989
+        bis 31.12.1989
 
-    *   vom 1.1.1990 bis 28.2.1991
+    *   vom 1.1.1990
+        bis 28.2.1991
 
-    *   vom 1.3.1991 bis 30.4.1992
+    *   vom 1.3.1991
+        bis 30.4.1992
 
-    *   vom 1.5.1992 bis 30.4.1993
+    *   vom 1.5.1992
+        bis 30.4.1993
 
-    *
 
 *    *
     *   DM
@@ -1681,7 +1792,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   DM
 
-    *
 
 *    *   die Witwe ..........
 
@@ -1695,7 +1805,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1330
 
-    *
 
 *    *   den Witwer .........
 
@@ -1709,7 +1818,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1330
 
-    *
 
 *    *   die Vollwaise ......
 
@@ -1723,7 +1831,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   668
 
-    *
 
 *    *   die erste und zweite Halbwaise,
 
@@ -1732,11 +1839,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
     *
-    *
 
-*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 413
+    *   413
 
     *   419
 
@@ -1746,11 +1852,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   506
 
-    *
 
-*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird,
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
 
-    *   je 302
+    *   302
 
     *   306
 
@@ -1760,11 +1865,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   370
 
-    *
 
-*    *   die dritte und jede folgende Halbwaise
+*    *   die dritte und jede folgende Halbwaise, je
 
-    *   je 271
+    *   271
 
     *   275
 
@@ -1774,7 +1878,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   333
 
-    *
 
 *    *   den elternlosen Enkel ...............
 
@@ -1788,7 +1891,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   668
 
-    *
 
 *    *   die Eltern oder Adoptiveltern zusammen ............
 
@@ -1802,7 +1904,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1001
 
-    *
 
 *    *   einen überlebenden Eltern- oder Adoptivelternteil ...
 
@@ -1816,126 +1917,634 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   668
 
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.5.1993
+        bis 30.9.1994
+
+    *   vom 1.10.1994
+        bis 31.3.1995
+
+    *   vom 1.4.1995
+        bis 28.2.1997
+
+    *   vom 1.3.1997
+        bis 31.12.1997
+
+    *   vom 1.1.1998
+        bis 28.2.1999
+
+
+*    *
+    *   DM
+
+    *   DM
+
+    *   DM
+
+    *   DM
+
+    *   DM
+
+
+*    *   die Witwe ..........
+
+    *   1350
+
+    *   1377
+
+    *   1421
+
+    *   1448
+
+    *   1461
+
+
+*    *   den Witwer .........
+
+    *   1350
+
+    *   1377
+
+    *   1421
+
+    *   1448
+
+    *   1461
+
+
+*    *   die Vollwaise ......
+
+    *   678
+
+    *   692
+
+    *   714
+
+    *   728
+
+    *   735
+
+
+*    *   die erste und zweite Halbwaise,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   514
+
+    *   524
+
+    *   541
+
+    *   551
+
+    *   556
+
+
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   376
+
+    *   384
+
+    *   396
+
+    *   404
+
+    *   408
+
+
+*    *   die dritte und jede folgende Halbwaise, je
+
+    *   338
+
+    *   345
+
+    *   356
+
+    *   363
+
+    *   366
+
+
+*    *   den elternlosen Enkel ...............
+
+    *   678
+
+    *   692
+
+    *   714
+
+    *   728
+
+    *   735
+
+
+*    *   die Eltern oder Adoptiveltern zusammen ............
+
+    *   1016
+
+    *   1036
+
+    *   1069
+
+    *   1089
+
+    *   1099
+
+
+*    *   einen überlebenden Eltern- oder Adoptivelternteil ...
+
+    *   678
+
+    *   692
+
+    *   714
+
+    *   728
+
+    *   735
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.3.1999
+        bis 31.12.2000
+
+    *   vom 1.1.2001
+        bis 31.12.2001
+
+    *   vom 1.1.2002
+        bis 31.1.2003
+
+    *   vom 1.2.2003
+        bis 31.3.2004
+
+    *   vom 1.4.2004
+        bis 31.7.2004
+
+
+*    *
+    *   DM
+
+    *   DM
+
+    *   Euro
+
+    *   Euro
+
+    *   Euro
+
+
+*    *   die Witwe ..........
+
+    *   1503
+
+    *   1530
+
+    *   799
+
+    *   818
+
+    *   826
+
+
+*    *   den Witwer .........
+
+    *   1503
+
+    *   1530
+
+    *   799
+
+    *   818
+
+    *   826
+
+
+*    *   die Vollwaise ......
+
+    *   756
+
+    *   770
+
+    *   402
+
+    *   412
+
+    *   416
+
+
+*    *   die erste und zweite Halbwaise,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   572
+
+    *   582
+
+    *   304
+
+    *   311
+
+    *   314
+
+
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   420
+
+    *   428
+
+    *   224
+
+    *   229
+
+    *   231
+
+
+*    *   die dritte und jede folgende Halbwaise, je
+
+    *   377
+
+    *   384
+
+    *   201
+
+    *   206
+
+    *   208
+
+
+*    *   den elternlosen Enkel ...............
+
+    *   756
+
+    *   770
+
+    *   402
+
+    *   412
+
+    *   416
+
+
+*    *   die Eltern oder Adoptiveltern zusammen ............
+
+    *   1131
+
+    *   1151
+
+    *   601
+
+    *   615
+
+    *   621
+
+
+*    *   einen überlebenden Eltern- oder Adoptivelternteil ...
+
+    *   756
+
+    *   770
+
+    *   402
+
+    *   412
+
+    *   416
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.8.2004
+        bis 31.5.2008
+
+    *   vom 1.6.2008
+        bis 30.6.2010
+
+    *   vom 1.7.2010
+        bis 30.9.2012
+
+    *   vom 1.10.2012
+        bis 31.7.2014
+
+    *   vom 1.8.2014
+        bis 31.8.2016
+
+
+*    *
+    *   Euro
+
+    *   €
+
+    *   €
+
+    *   €
+
+    *   €
+
+
+*    *   die Witwe ..........
+
+    *   834
+
+    *   899
+
+    *   918
+
+    *   970
+
+    *   1019
+
+
+*    *   den Witwer .........
+
+    *   834
+
+    *   899
+
+    *   918
+
+    *   970
+
+    *   1019
+
+
+*    *   die Vollwaise ......
+
+    *   420
+
+    *   453
+
+    *   463
+
+    *   489
+
+    *   513
+
+
+*    *   die erste und zweite Halbwaise,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   317
+
+    *   342
+
+    *   349
+
+    *   369
+
+    *   387
+
+
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   233
+
+    *   251
+
+    *   256
+
+    *   271
+
+    *   285
+
+
+*    *   die dritte und jede folgende Halbwaise, je
+
+    *   210
+
+    *   226
+
+    *   231
+
+    *   244
+
+    *   256
+
+
+*    *   den elternlosen Enkel ...............
+
+    *   420
+
+    *   453
+
+    *   463
+
+    *   489
+
+    *   513
+
+
+*    *   die Eltern oder Adoptiveltern zusammen ............
+
+    *   627
+
+    *   676
+
+    *   690
+
+    *   729
+
+    *   765
+
+
+*    *   einen überlebenden Eltern- oder Adoptivelternteil ...
+
+    *   420
+
+    *   453
+
+    *   463
+
+    *   489
+
+    *   513
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.9.2016
+        bis 31.12.2018
+
+    *   vom 1.1.2019
+        bis 31.8.2021
+
+    *   ab 1.9.2021
+
+    *
+    *
+
+*    *
+    *   Euro
+
+    *   Euro
+
+    *   Euro
+
+    *
+    *
+
+*    *   die Witwe ..........
+
+    *   1066
+
+    *   1144
+
+    *   1 179
+
+    *
+    *
+
+*    *   den Witwer .........
+
+    *   1066
+
+    *   1144
+
+    *   1 179
+
+    *
+    *
+
+*    *   die Vollwaise ......
+
+    *   537
+
+    *   576
+
+    *   594
+
+    *
+    *
+
+*    *   die erste und zweite Halbwaise,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   wenn keine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   405
+
+    *   435
+
+    *   448
+
+    *
+    *
+
+*    *   wenn eine Rente für die Witwe oder den Witwer gezahlt wird, je
+
+    *   298
+
+    *   320
+
+    *   330
+
+    *
+    *
+
+*    *   die dritte und jede folgende Halbwaise, je
+
+    *   268
+
+    *   288
+
+    *   297
+
+    *
+    *
+
+*    *   den elternlosen Enkel ...............
+
+    *   537
+
+    *   576
+
+    *   594
+
+    *
+    *
+
+*    *   die Eltern oder Adoptiveltern zusammen ............
+
+    *   800
+
+    *   858
+
+    *   885
+
+    *
+    *
+
+*    *   einen überlebenden Eltern- oder Adoptivelternteil ...
+
+    *   537
+
+    *   576
+
+    *   594
+
+    *
     *
 
 
-   ----------------------------------------------------------------------
----------
-vom         vom         vom         vom         vom
-1\.5.1993    1.10.1994   1.4.1995    1.3.1997    1.1.1998
-bis         bis         bis         bis         bis
-30\.9.1994   31.3.1995   28.2.1997   31.12.1997  28.2.1999
-DM          DM          DM          DM          DM
-----------------------------------------------------------------------
----------
-die Witwe .......... 1350        1377        1 421       1 448       1
-461
-den Witwer ......... 1350        1377        1 421       1 448       1
-461
-die Vollwaise ......  678         692          714         728
-735
-die erste und zweite
-Halbwaise,
-wenn keine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je  514         524          541         551
-556
-wenn eine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je  376         384          396         404
-408
-die dritte und
-jede folgende
-Halbwaise         je  338         345          356         363
-366
-den elternlosen
-Enkel ..............  678         692          714         728
-735
-die Eltern oder
-Adoptiveltern
-zusammen ........... 1016        1036         1069        1089
-1099
-einen überlebenden
-Eltern- oder
-Adoptivelternteil ..  678         692          714         728
-735
-----------------------------------------------------------------------
----------
-vom         vom          vom         vom         vom
-1\.3.1999    1.1.2001     1.1.2002    1.2.2003    1.4.2004
-bis         bis          bis         bis         bis
-31\.12.2000  31.12.2001   31.1.2003   31.3.2004   31.7.2004
-DM          DM           Euro        Euro        Euro
-----------------------------------------------------------------------
----------
-die Witwe .......... 1 503       1 530         799         818
-826
-den Witwer ......... 1 503       1 530         799         818
-826
-die Vollwaise ......   756         770         402         412
-416
-die erste und zweite
-Halbwaise,
-wenn keine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je   572         582         304         311
-314
-wenn eine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je   420         428         224         229
-231
-die dritte und
-jede folgende
-Halbwaise         je   377         384         201         206
-208
-den elternlosen
-Enkel ..............   756         770         402         412
-416
-die Eltern oder
-Adoptiveltern
-zusammen ........... 1 131       1 151         601         615
-621
-einen überlebenden
-Eltern- oder
-Adoptivelternteil ..   756         770         402         412
-416
-----------------------------------------------------------------------
----------
-vom         vom         ab
-1\.8.2004    1.6.2008    1.7.2010
-bis         bis         €
-31\.5.2008   30.6.2010
-Euro        €
-----------------------------------------------------------------------
----------
-die Witwe ..........   834         899         918
-den Witwer .........   834         899         918
-die Vollwaise ......   420         453         463
-die erste und zweite
-Halbwaise,
-wenn keine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je   317         342         349
-wenn eine Rente
-für die Witwe
-oder den Witwer
-gezahlt wird,   je   233         251         256
-die dritte und
-jede folgende
-Halbwaise         je   210         226         231
-den elternlosen
-Enkel ..............   420         453         463
-die Eltern oder
-Adoptiveltern
-zusammen ...........   627         676         690
-einen überlebenden
-Eltern- oder
-Adoptivelternteil .. 420         453         463
 
 
 ## IV. - Kapitalentschädigung
@@ -1944,7 +2553,7 @@ Adoptivelternteil .. 420         453         463
 
 ### § 22 Berechnung der Kapitalentschädigung
 
-(1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
+   (1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
 jeden vollen Monat, der vom Zeitpunkt des Todes des Verfolgten bis zum
 31\. Oktober 1953 oder bis zu dem in Absatz 3 genannten früheren
 Zeitpunkt verflossen ist, der Betrag der nach den §§ 18 bis 20 BEG
@@ -2670,7 +3279,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   54 094
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   25 609
 
@@ -2679,6 +3288,65 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   42 218
 
     *   55 230
+
+
+*    *   bis 31. 7.2014
+
+    *   27 069
+
+    *   33 380
+
+    *   44 624
+
+    *   58 378
+
+
+*    *
+    *   bis 31. 8.2016
+
+    *   28 422
+
+    *   35 049
+
+    *   46 855
+
+    *   61 297
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   29 729
+
+    *   36 661
+
+    *   49 010
+
+    *   64 117
+
+
+*    *
+    *   bis 31. 8.2021
+
+    *   31 899
+
+    *   39 337
+
+    *   52 588
+
+    *   68 798
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   32 888
+
+    *   40 556
+
+    *   54 218
+
+    *   70 931
 
 
 *    *   2. Unfallruhegehalt (66 2/3% aus Nr. 1)
@@ -3250,7 +3918,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   36 063
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   17 073
 
@@ -3259,6 +3927,65 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   28 145
 
     *   36 820
+
+
+*    *   bis 31. 7.2014
+
+    *   18 046
+
+    *   22 253
+
+    *   29 749
+
+    *   38 919
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   18 948
+
+    *   23 366
+
+    *   31 237
+
+    *   40 865
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   19 819
+
+    *   24 441
+
+    *   32 673
+
+    *   42 745
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   21 266
+
+    *   26 225
+
+    *   35 059
+
+    *   45 865
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   21 925
+
+    *   27 037
+
+    *   36 145
+
+    *   47 287
 
 
 *    *   3. Witwengeld (60% aus Nr. 2)
@@ -3830,7 +4557,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   21 636
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   10 248
 
@@ -3839,6 +4566,65 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   16 884
 
     *   22 092
+
+
+*    *   bis 31. 7.2014
+
+    *   10 824
+
+    *   13 356
+
+    *   17 844
+
+    *   23 352
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   11 364
+
+    *   14 016
+
+    *   18 744
+
+    *   24 516
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   11 892
+
+    *   14 664
+
+    *   19 608
+
+    *   25 644
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   12 756
+
+    *   15 732
+
+    *   21 036
+
+    *   27 516
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   13 152
+
+    *   16 224
+
+    *   21 684
+
+    *   28 368
 
 
 *    *   4. Waisengeld (30% aus Nr. 2)
@@ -4410,7 +5196,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   10 824
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   5 124
 
@@ -4421,10 +5207,70 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   11 052
 
 
+*    *   bis 31. 7.2014
+
+    *   5 412
+
+    *   6 672
+
+    *   8 928
+
+    *   11 676
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   5 688
+
+    *   7 008
+
+    *   9 372
+
+    *   12 264
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   5 940
+
+    *   7 332
+
+    *   9 804
+
+    *   12 828
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   6 384
+
+    *   7 872
+
+    *   10 512
+
+    *   13 764
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   6 576
+
+    *   8 112
+
+    *   10 848
+
+    *   14 184
 
 
 
-### Anlage 2 (zu § 11 der 1.DV-BEG) Besoldungsübersicht
+
+(zu § 11 der 1.DV-BEG)
+
+### Anlage 2 Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 299
 

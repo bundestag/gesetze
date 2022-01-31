@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 3.6.2011 I 1020
 
+Zuletzt geändert durch
+:   Art. 398 V v. 31.8.2015 I 1474
+
 
 ## § 1 Begriffsbestimmungen
 
@@ -143,12 +146,12 @@ Woche des Jahres kann entfallen.
 
 (2) Die Sitzungen der Notierungskommission sind nicht öffentlich;
 Gäste können zugelassen werden. Beauftragte des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz, des
-Bundesministeriums für Wirtschaft und Technologie und der fachlich
-zuständigen Landesbehörden der beteiligten Länder oder der von diesen
-bestimmten Behörden können jederzeit bei der Sitzung zugegen sein. Den
-Beauftragten ist auf Verlangen das Wort zu erteilen, Einsicht in die
-Notierungsunterlagen zu gewähren und Auskunft zu geben.
+Ernährung und Landwirtschaft, des Bundesministeriums für Wirtschaft
+und Energie und der fachlich zuständigen Landesbehörden der
+beteiligten Länder oder der von diesen bestimmten Behörden können
+jederzeit bei der Sitzung zugegen sein. Den Beauftragten ist auf
+Verlangen das Wort zu erteilen, Einsicht in die Notierungsunterlagen
+zu gewähren und Auskunft zu geben.
 
 (3) Eine Kommission ist beschlussfähig, wenn der Vorsitzende und
 mindestens je die Hälfte der Mitglieder der Gruppen der Käufer und der
@@ -284,8 +287,9 @@ bleiben unberührt.
 ## § 10 (Inkrafttreten, Außerkrafttreten)
 
 
+(zu § 4 Absatz 1 Satz 2)
 
-## Anlage I (zu § 4 Absatz 1 Satz 2) Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
+## Anlage I Liste für amtliche Preisnotierungen regionaler Notierungskommissionen
 
 (Fundstelle: BGBl. I 2011, 1024)
 
@@ -316,8 +320,9 @@ bleiben unberührt.
 
 
 
+(zu § 6 Absatz 1 Satz 1)
 
-## Anlage II (zu § 6 Absatz 1 Satz 1) Liste für repräsentative Preisermittlung der ZMP
+## Anlage II Liste für repräsentative Preisermittlung der ZMP
 
 (Fundstelle: BGBl. I 2011, 1024)
 

@@ -28,8 +28,10 @@ beschlossen:
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
 
 
+Sozialgesetzbuch (SGB)
+Achtes Buch (VIII)
 
-### Art 1 Sozialgesetzbuch (SGB) Achtes Buch (VIII) Kinder- und Jugendhilfe
+### Art 1 Kinder- und Jugendhilfe
 
 -
 

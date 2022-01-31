@@ -42,6 +42,5 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-(Inhalt: Nicht darstellbare Abbildungen,
 Fundstelle: BGBl. I 1991, 1927)
-
+![bgbl1_1991_j1927_0010.jpg](bgbl1_1991_j1927_0010.jpg)

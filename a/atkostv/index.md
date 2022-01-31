@@ -1,5 +1,5 @@
 ---
-Title: Kostenverordnung zum Atomgesetz
+Title: Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz
 jurabk: AtKostV
 layout: default
 origslug: atkostv
@@ -7,7 +7,7 @@ slug: atkostv
 
 ---
 
-# Kostenverordnung zum Atomgesetz (AtKostV)
+# Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz (AtKostV)
 
 Ausfertigungsdatum
 :   1981-12-17
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1457
 
 Zuletzt geändert durch
-:   Art. 4 G v. 29.8.2008 I 1793
+:   Art. 5 G v. 20.5.2021 I 1194
 
 
 ## Eingangsformel
@@ -29,15 +29,19 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 1 Anwendungsbereich
 
-Die nach den §§ 23, 23a, 23b und 24 des Atomgesetzes zuständigen
-Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des
-Atomgesetzes und nach dieser Verordnung. Ergänzend gelten die
-Vorschriften des Verwaltungskostengesetzes.
+Die nach den §§ 23a, 23d und 24 des Atomgesetzes zuständigen Behörden
+erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und
+nach dieser Verordnung. Die nach § 81 Satz 3, den §§ 184, 185, 186,
+187, 189 und 190 des Strahlenschutzgesetzes zuständigen Behörden
+erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser
+Verordnung. Ergänzend gelten die Vorschriften des
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung.
 
 
 ## § 2 Höhe der Gebühren
 
-Die Gebühr beträgt
+(1) Die Gebühr beträgt
 
 1.  für Entscheidungen über Anträge auf Errichtung und Betrieb einer
     Anlage nach § 7 des Atomgesetzes zur
@@ -62,7 +66,7 @@ Die Gebühr beträgt
 
 
 3.  für Entscheidungen über Anträge nach § 9 des Atomgesetzes 50 bis
-    100\.000 Euro;
+    100 000 Euro;
 
 
 4.  für Festsetzungen nach § 4b Abs. 1 Satz 2 des Atomgesetzes und § 13
@@ -70,21 +74,17 @@ Die Gebühr beträgt
     Satz 2 des Atomgesetzes, für Entscheidungen nach § 17 Abs. 1 Satz 3,
     Abs. 2 bis 5 des Atomgesetzes, soweit nach § 18 Abs. 2 des
     Atomgesetzes eine Entschädigungspflicht nicht gegeben ist, und für
-    Entscheidungen nach § 19 Abs. 3 des Atomgesetzes 25 bis 10.000 Euro;
+    Entscheidungen nach § 19 Abs. 3 des Atomgesetzes 25 bis 10 000 Euro;
 
 
 5.  für Entscheidungen über Anträge nach § 6 des Atomgesetzes 50 bis 2,5
     Millionen Euro;
 
 
-6.  für Entscheidungen über Anträge nach den §§ 4 und 9a Abs. 2 Satz 4 des
-    Atomgesetzes und für sonstige Amtshandlungen einschließlich Prüfungen
-    und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach
-    § 23 Abs. 1 des Atomgesetzes, oder aufgrund einer Verordnung nach § 23
-    Abs. 3 des Atomgesetzes zuständig ist, und für sonstige Amtshandlungen
-    einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes,
-    soweit es nach § 23b des Atomgesetzes zuständig ist, 50 bis zwei
-    Millionen Euro;
+6.  für Entscheidungen über Anträge nach § 4 des Atomgesetzes und für
+    sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen
+    des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es
+    nach § 23d des Atomgesetzes zuständig ist, 50 bis 2 Millionen Euro;
 
 
 7.  für Planfeststellungsbeschlüsse nach § 9b des Atomgesetzes 1,5 bis 2
@@ -92,9 +92,48 @@ Die Gebühr beträgt
 
 
 
-In den Fällen des Satzes 1 Nr. 1 kann für eine Teilgenehmigung eine
+In den Fällen des Satzes 1 Nummer 1 und 7 kann für eine
+Teilgenehmigung bzw. einen Teilplanfeststellungsbeschluss eine
 anteilige Gebühr, orientiert an den Kosten der Teilerrichtung, erhoben
 werden.
+
+(2) Die Gebühr beträgt
+
+1.  für Aufgaben der Qualitätssicherung, zur Verfahrensentwicklung für
+    Probenahme, Analyse und Messung sowie zur Behandlung der Daten durch
+    Verwaltungsbehörden des Bundes nach § 81 Satz 3 des
+    Strahlenschutzgesetzes 50 Euro bis 50 000 Euro;
+
+
+2.  für sonstige Amtshandlungen einschließlich Prüfungen und
+    Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach §
+    185 Absatz 1 Nummer 1 bis 8 und Absatz 2 Nummer 5 und 6 des
+    Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
+
+
+3.  für sonstige Amtshandlungen einschließlich Prüfungen und
+    Untersuchungen des Bundesamtes für die Sicherheit der nuklearen
+    Entsorgung, soweit es nach § 186 des Strahlenschutzgesetzes zuständig
+    ist, 50 Euro bis 2 Millionen Euro;
+
+
+4.  für sonstige Amtshandlungen einschließlich Prüfungen und
+    Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 des
+    Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
+
+
+5.  für sonstige Amtshandlungen einschließlich Prüfungen und
+    Untersuchungen der Physikalisch-Technischen Bundesanstalt, soweit sie
+    nach § 187 Absatz 1 Nummer 1 oder 2 des Strahlenschutzgesetzes
+    zuständig ist, 50 Euro bis 50 000 Euro;
+
+
+6.  für Entscheidungen des Eisenbahn-Bundesamtes über Anträge nach § 27
+    Absatz 1 des Strahlenschutzgesetzes, soweit es nach § 190 Satz 1 des
+    Strahlenschutzgesetzes zuständig ist, 50 Euro bis 25 000 Euro.
+
+
+
 
 
 ## § 3 Gebührenbemessung
@@ -167,15 +206,13 @@ werden Kosten für folgende Tatbestände erhoben:
     nach den §§ 4, 6 und 9 des Atomgesetzes tätig sind;
 
 
-7.  Überwachung der Einhaltung der in § 103 in Verbindung mit den §§ 93
-    und 94 der Strahlenschutzverordnung festgelegten Anforderungen zum
-    Schutz des fliegenden Personals vor Expositionen durch kosmische
-    Strahlung.
+7.  die Nummern 1 bis 6 gelten auch für Anlagen des Bundes nach § 9a
+    Absatz 3 des Atomgesetzes und die Schachtanlage Asse II.
 
 
 
 
-(2) Die Gebühr beträgt 25 bis 500.000 Euro, bei Überprüfungen im Sinne
+(2) Die Gebühr beträgt 25 bis 500 000 Euro, bei Überprüfungen im Sinne
 des Absatzes 1 Nr. 6 für jede überprüfte Person 25 bis 500 Euro.
 
 (3) Die Gebührenpflicht entsteht mit der Beendigung der
@@ -249,9 +286,7 @@ erhoben werden.
 werden, wenn dies im Einzelfall aus Gründen des öffentlichen
 Interesses oder der Billigkeit geboten ist.
 
-(2) Abweichend von § 8 Abs. 1 Nr. 1 des Verwaltungskostengesetzes ist
-das Bundesamt für Strahlenschutz von der Zahlung der Gebühren nach § 2
-Satz 1 Nr. 7 nicht befreit.
+(2) (weggefallen)
 
 
 ## § 7 (weggefallen)
@@ -268,9 +303,7 @@ dreißigsten Jahres nach der Entstehung.
 
 ## § 9 Übergangsregelung
 
-(1) Diese Verordnung ist auch auf die bei ihrem Inkrafttreten
-anhängigen Verwaltungsverfahren anzuwenden, soweit in diesem Zeitpunkt
-die Kosten nicht bereits festgesetzt sind.
+(1) (weggefallen)
 
 (2) Die durch die Zweite Verordnung zur Änderung der Kostenverordnung
 zum Atomgesetz vom 15. Dezember 2004 (BGBl. I S. 3463) geänderten
@@ -279,10 +312,8 @@ Verwaltungsverfahren anzuwenden, soweit in diesem Zeitpunkt die Kosten
 nicht bereits festgesetzt sind.
 
 
-## § 10 Berlin-Klausel
+## § 10 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 58 des Atomgesetzes auch im Land Berlin.
 
 
 ## § 11 Inkrafttreten

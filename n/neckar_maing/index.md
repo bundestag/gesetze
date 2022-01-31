@@ -18,7 +18,7 @@ Fundstelle
 :   RGBl: 1920, 1613
 
 Geändert durch
-:   Art. 60 G v. 19.9.2006 I 2146
+:   Art. 523 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -91,7 +91,7 @@ durch besonderes Bundesgesetz geregelt werden.
 ## § 6
 
 Die zur Ausführung des Gesetzes erforderlichen Bestimmungen erlassen
-der Bundesminister für Verkehr, Bau und Stadtentwicklung und der
+der Bundesminister für Verkehr und digitale Infrastruktur und der
 Bundesfinanzminister mit Zustimmung des Bundesrates.
 
 

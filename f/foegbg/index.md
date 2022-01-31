@@ -2,7 +2,7 @@
 Title: Gesetz über Sonderabschreibungen und Abzugsbeträge im Fördergebiet
 jurabk: FöGbG
 layout: default
-origslug: f_gbg
+origslug: foegbg
 slug: foegbg
 
 ---

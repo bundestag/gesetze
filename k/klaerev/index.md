@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1048
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.3.2009 I 646
+:   Art. 276 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -63,12 +63,12 @@ unberührt.
 
 (3) Der Beirat besteht aus zwölf Mitgliedern:
 
-1.  einem Vertreter des Bundesministeriums für Ernährung, Landwirtschaft
-    und Verbraucherschutz (Bundesministerium),
+1.  einem Vertreter des Bundesministeriums für Ernährung und
+    Landwirtschaft (Bundesministerium),
 
 
 2.  einem Vertreter des Bundesministeriums für Umwelt, Naturschutz und
-    Reaktorsicherheit,
+    nukleare Sicherheit,
 
 
 3.  einem Vertreter der Länder,
@@ -126,7 +126,7 @@ Sitzungskostenvergütung wird nicht gewährt.
 Änderung der Geschäftsordnung bedarf es einer Mehrheit von dreiviertel
 der Mitglieder des Beirates einschließlich des Vertreters des
 Bundesministeriums und des Vertreters des Bundesministeriums für
-Umwelt, Naturschutz und Reaktorsicherheit.
+Umwelt, Naturschutz und nukleare Sicherheit.
 
 
 ### § 3 Haushalts- und Wirtschaftsführung
@@ -298,7 +298,7 @@ sonstige Ersatzpflichtige auf den Klärschlamm-Entschädigungsfonds
 
 ### § 13 Bußgeldvorschriften
 
-Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe e des
+Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe c des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8
 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig,

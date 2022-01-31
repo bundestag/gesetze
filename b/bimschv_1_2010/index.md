@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 38
 
+Zuletzt geändert durch
+:   Art. 105 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 1 V v. 13.10.2021 I 4676 (Nr. 73) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^fn772806_01_BJNR003800010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
     Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -40,7 +46,10 @@ Bundestages:
 
 (1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
 den Betrieb von Feuerungsanlagen, die keiner Genehmigung nach § 4 des
-Bundes-Immissionsschutzgesetzes bedürfen.
+Bundes-Immissionsschutzgesetzes bedürfen, mit Ausnahme von
+Feuerungsanlagen zur Verbrennung von gasförmigen oder flüssigen
+Brennstoffen mit einer Feuerungswärmeleistung von 1 Megawatt oder
+mehr.
 
 (2) Die §§ 4 bis 20 sowie die §§ 25 und 26 gelten nicht für
 
@@ -58,19 +67,15 @@ Bundes-Immissionsschutzgesetzes bedürfen.
         in ähnlicher Weise zuzubereiten,
 
 
-    c)  Branntwein in Kleinbrennereien nach § 34 des Gesetzes über das
-        Branntweinmonopol in der im Bundesgesetzblatt Teil III,
-        Gliederungsnummer 612-7, veröffentlichten bereinigten Fassung, das
-        zuletzt durch Artikel 7 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
-        2897) geändert worden ist, mit einer jährlichen Betriebszeit von nicht
-        mehr als 20 Tagen herzustellen oder
+    c)  Alkohol in Kleinbrennereien mit einer jährlichen Erzeugung von nicht
+        mehr als 10 Hektoliter Alkohol und einer jährlichen Betriebszeit von
+        nicht mehr als 20 Tagen herzustellen oder
 
 
     d)  Warmwasser in Badeöfen zu erzeugen,
 
 
 
-    es sei denn, sie unterliegen dem Anwendungsbereich des § 11,
 
 
 3.  Feuerungsanlagen, von denen nach den Umständen zu erwarten ist, dass
@@ -79,6 +84,11 @@ Bundes-Immissionsschutzgesetzes bedürfen.
 
 
 
+Die §§ 14 und 19 bleiben in den Fällen von Satz 1 Nummer 2 Buchstabe b
+auf ab dem 20. Juni 2019 errichtete oder wesentlich geänderte
+stationäre Feuerungsanlagen zum Grillen oder Backen von Speisen zu
+gewerblichen Zwecken, die feste Brennstoffe nach § 3 Absatz 1
+einsetzen, anwendbar.
 
 
 ### § 2 Begriffsbestimmungen
@@ -627,7 +637,7 @@ für
 ### § 6 Allgemeine Anforderungen
 
 (1) Öl- und Gasfeuerungsanlagen zur Beheizung von Gebäuden oder Räumen
-mit Wasser als Wärmeträger und einer Feuerungswärmeleistung unter 10
+mit Wasser als Wärmeträger und einer Feuerungswärmeleistung unter 1
 Megawatt, die ab dem 22. März 2010 errichtet werden, dürfen nur
 betrieben werden, wenn für die eingesetzten Kessel-Brenner-Einheiten,
 Kessel und Brenner durch eine Bescheinigung des Herstellers belegt
@@ -703,10 +713,7 @@ belegt werden kann, dass ihr unter Prüfbedingungen nach dem Verfahren
 der Anlage 3 Nummer 1 ermittelter Nutzungsgrad von 94 Prozent nicht
 unterschritten wird.
 
-(3) Die Anforderungen nach Absatz 2 gelten für Heizkessel mit einer
-Nennwärmeleistung von mehr als 1 Megawatt als erfüllt, soweit der nach
-dem Verfahren der Anlage 3 Nummer 1 ermittelte Kesselwirkungsgrad 94
-Prozent nicht unterschreitet.
+(3) (weggefallen)
 
 (4) Für Kessel-Brenner-Einheiten, Kessel und Brenner, die in einem
 Mitgliedstaat der Europäischen Union oder in einem anderen
@@ -854,85 +861,8 @@ oder der jeweiligen Bauart entsprechen.
 
 
 
-### § 11 Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt
+### § 11 (weggefallen)
 
-(1) Einzelfeuerungsanlagen für flüssige Brennstoffe nach § 3 Absatz 1
-Nummer 9 mit einer Feuerungswärmeleistung von 10 Megawatt bis weniger
-als 20 Megawatt dürfen abweichend von den §§ 6 bis 10 nur errichtet
-und betrieben werden, wenn
-
-1.  die Emissionen von Kohlenstoffmonoxid den Emissionsgrenzwert von 80
-    Milligramm je Kubikmeter Abgas,
-
-
-2.  die Emissionen von Stickstoffoxiden, angegeben als Stickstoffdioxid,
-    den Emissionsgrenzwert von
-
-    a)  180 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur unter 110 Grad Celsius,
-
-
-    b)  200 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur von 110 bis 210 Grad Celsius,
-
-
-    c)  250 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur von mehr als 210 Grad Celsius,
-
-
-
-    bei Heizöl EL nach § 3 Absatz 1 Nummer 9 jeweils berechnet auf einen
-    Stickstoffgehalt im Heizöl EL von 140 Milligramm je Kilogramm, und
-
-
-3.  die Abgastrübung die Rußzahl 1,
-
-
-
-bei den Nummern 1 und 2 bezogen auf einen Sauerstoffgehalt von 3
-Prozent, als Halbstundenmittelwert nicht überschreiten.
-
-(2) Einzelfeuerungsanlagen für Gase der öffentlichen Gasversorgung,
-naturbelassenes Erdgas oder Flüssiggas mit einer
-Feuerungswärmeleistung von 10 Megawatt bis weniger als 20 Megawatt
-dürfen abweichend von den §§ 6 bis 10 nur errichtet und betrieben
-werden, wenn die Emissionen von
-
-1.  Kohlenstoffmonoxid den Emissionsgrenzwert von 80 Milligramm je
-    Kubikmeter Abgas und
-
-
-2.  Stickstoffoxiden, angegeben als Stickstoffdioxid, den
-    Emissionsgrenzwert von
-
-    a)  100 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur unter 110 Grad Celsius bei Erdgas,
-
-
-    b)  110 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur von 110 bis 210 Grad Celsius bei Erdgas,
-
-
-    c)  150 Milligramm je Kubikmeter Abgas bei Kesseln mit einer
-        Betriebstemperatur von mehr als 210 Grad Celsius bei Erdgas und
-
-
-    d)  200 Milligramm je Kubikmeter Abgas bei Einsatz der anderen Gase,
-
-
-
-
-
-
-bezogen auf einen Sauerstoffgehalt von 3 Prozent, als
-Halbstundenmittelwert nicht überschreiten.
-
-(3) Für Einzelfeuerungsanlagen, die regelmäßig mit Brennstoffen nach
-Absatz 2 und während höchstens 300 Stunden im Jahr mit Brennstoffen
-nach Absatz 1 betrieben werden, gilt während des Betriebs mit einem
-Brennstoff nach Absatz 1 für alle Betriebstemperaturen ein
-Emissionsgrenzwert für Stickstoffoxide von 250 Milligramm je
-Kubikmeter Abgas.
 
 
 ## Abschnitt 4 - Überwachung
@@ -957,8 +887,7 @@ müssen unter Einsatz von Messverfahren und Messeinrichtungen
 durchgeführt werden, die dem Stand der Messtechnik entsprechen.
 
 (2) Die Messungen nach den §§ 14 und 15 sind mit geeigneten
-Messeinrichtungen durchzuführen. Die Messeinrichtungen gelten als
-geeignet, wenn sie eine Eignungsprüfung bestanden haben.
+Messeinrichtungen durchzuführen.
 
 (3) Die eingesetzten Messeinrichtungen sind halbjährlich einmal von
 einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle zu
@@ -967,16 +896,14 @@ einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle zu
 
 ### § 14 Überwachung neuer und wesentlich geänderter Feuerungsanlagen
 
-(1) Der Betreiber einer ab dem 22. März 2010 errichteten oder
-wesentlich geänderten Feuerungsanlage für feste Brennstoffe hat die
-Einhaltung der Anforderungen des § 19 Absatz 1 und 2 vor der
-Inbetriebnahme der Anlage von einer Schornsteinfegerin oder einem
+(1) Der Betreiber hat die Einhaltung der Anforderungen des § 19 vor
+der Inbetriebnahme der Anlage von einer Schornsteinfegerin oder einem
 Schornsteinfeger feststellen zu lassen; die Feststellung kann auch im
 Zusammenhang mit anderen Schornsteinfegerarbeiten erfolgen.
 
 (2) Der Betreiber einer ab dem 22. März 2010 errichteten oder
 wesentlich geänderten Feuerungsanlage, für die in § 3 Absatz 3, § 4
-Absatz 1, 3 bis 7, § 5, § 6 Absatz 1 bis 3 oder in den §§ 7 bis 10
+Absatz 1, 3 bis 7, § 5, § 6 Absatz 1 oder 2 oder in den §§ 7 bis 10
 Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
 Anforderungen innerhalb von vier Wochen nach der Inbetriebnahme von
 einer Schornsteinfegerin oder einem Schornsteinfeger feststellen zu
@@ -1089,7 +1016,7 @@ nach Landesrecht zuständigen Behörde bis zum 30. April des folgenden
 Jahres vor. Der zuständige Zentralinnungsverband des
 Schornsteinfegerhandwerks erstellt für jedes Kalenderjahr eine
 entsprechende länderübergreifende Übersicht und legt diese dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit bis
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bis
 zum 30. Juni des folgenden Jahres vor.
 
 
@@ -1115,68 +1042,12 @@ Aufzeichnungen.
 die Ergebnisse der Messungen nach den §§ 14 und 15 und teilt diese den
 für den Immissionsschutz zuständigen obersten Landesbehörden oder den
 nach Landesrecht zuständigen Behörden und dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit innerhalb der Zeiträume nach
-§ 16 Satz 2 und 3 mit.
+Umwelt, Naturschutz und nukleare Sicherheit innerhalb der Zeiträume
+nach § 16 Satz 2 und 3 mit.
 
 
-### § 18 Überwachung von Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt
+### § 18 (weggefallen)
 
-(1) Der Betreiber einer ab dem 22. März 2010 errichteten
-Einzelfeuerungsanlage für den Einsatz von flüssigen Brennstoffen nach
-§ 3 Absatz 1 Nummer 9 mit einer Feuerungswärmeleistung von 10 Megawatt
-bis weniger als 20 Megawatt hat abweichend von den §§ 12 bis 17 diese
-vor Inbetriebnahme mit geeigneten Messeinrichtungen auszurüsten, die
-die Abgastrübung fortlaufend messen und registrieren. Die
-Messeinrichtung muss die Einhaltung der Rußzahl 1 erkennen lassen.
-
-(2) Der Betreiber einer Einzelfeuerungsanlage nach Absatz 1 hat durch
-eine von der zuständigen obersten Landesbehörde oder von der nach
-Landesrecht zuständigen Behörde für Kalibrierungen bekannt gegebenen
-Stelle den ordnungsgemäßen Einbau der Messeinrichtungen nach Absatz 1
-bescheinigen zu lassen sowie die Messeinrichtungen innerhalb von drei
-Monaten nach Inbetriebnahme kalibrieren und jeweils spätestens nach
-Ablauf eines Jahres auf Funktionsfähigkeit prüfen zu lassen. Der
-Betreiber muss die Kalibrierung spätestens drei Jahre nach der letzten
-Kalibrierung wiederholen lassen. Der Betreiber hat die Bescheinigung
-über den ordnungsgemäßen Einbau, die Berichte über das Ergebnis der
-Kalibrierung und der Prüfung der Funktionsfähigkeit der zuständigen
-Behörde jeweils innerhalb von drei Monaten nach Durchführung
-vorzulegen.
-
-(3) Über die Auswertung der kontinuierlichen Messungen der
-Abgastrübung hat der Betreiber einen Messbericht zu erstellen oder
-erstellen zu lassen und innerhalb von drei Monaten nach Ablauf eines
-jeden Kalenderjahres der zuständigen Behörde vorzulegen. Der Betreiber
-muss die Messberichte fünf Jahre ab Vorlage bei der Behörde
-aufbewahren.
-
-(4) Der Betreiber einer Einzelfeuerungsanlage hat abweichend von den
-§§ 12 bis 17 die Einhaltung der Anforderungen nach § 11 für
-Kohlenstoffmonoxid und Stickstoffoxide frühestens drei Monate und
-spätestens sechs Monate nach der Inbetriebnahme von einer nach § 26
-des Bundes-Immissionsschutzgesetzes bekannt gegebenen Stelle prüfen zu
-lassen. Der Betreiber hat die Prüfung nach Satz 1 nach einer
-wesentlichen Änderung und im Übrigen im Abstand von drei Jahren
-wiederholen zu lassen.
-
-(5) Bei der Prüfung nach Absatz 4 sind drei Einzelmessungen
-erforderlich. Diese sind, sofern technisch möglich, bei
-unterschiedlichen Laststufen (Schwach-, Mittel- und Volllast)
-durchzuführen. Das Ergebnis einer jeden Einzelmessung ist als
-Halbstundenmittelwert anzugeben.
-
-(6) Der Betreiber einer Einzelfeuerungsanlage hat über die
-Einzelmessungen nach Absatz 4 einen Messbericht zu erstellen oder
-erstellen zu lassen und der zuständigen Behörde innerhalb von drei
-Monaten nach Durchführung der Messung vorzulegen. Der Messbericht muss
-Angaben über die Messplanung, das Ergebnis, die verwendeten
-Messverfahren und die Betriebsbedingungen, die für die Beurteilung der
-Messergebnisse von Bedeutung sind, enthalten. Der Betreiber muss die
-Berichte fünf Jahre ab der Vorlage bei der Behörde aufbewahren.
-
-(7) Die Emissionsgrenzwerte gelten als eingehalten, wenn kein Ergebnis
-einer Einzelmessung nach Absatz 5 den jeweiligen Emissionsgrenzwert
-nach § 11 überschreitet.
 
 
 ## Abschnitt 5 - Gemeinsame Vorschriften
@@ -1184,68 +1055,116 @@ nach § 11 überschreitet.
 
 ### § 19 Ableitbedingungen für Abgase
 
-(1) Die Austrittsöffnung von Schornsteinen bei Feuerungsanlagen für
-feste Brennstoffe, die ab dem 22. März 2010 errichtet oder wesentlich
-geändert werden, müssen
+(1) Bei einer Feuerungsanlage für feste Brennstoffe, die nach dem 31.
+Dezember 2021 errichtet wird, ist der Schornstein so auszuführen, dass
+die Austrittsöffnung des Schornsteins
+
+1.  firstnah angeordnet ist und
+
+
+2.  den First um mindestens 40 Zentimeter überragt.
+
+
+
+Firstnah angeordnet ist die Austrittsöffnung eines Schornsteins, wenn
+
+1.  ihr horizontaler Abstand vom First kleiner ist als ihr horizontaler
+    Abstand von der Traufe und
+
+
+2.  ihr vertikaler Abstand vom First größer ist als ihr horizontaler
+    Abstand vom First.
+
+
+
+Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der
+Austrittsöffnung gemäß Satz 1 Nummer 2 auf einen fiktiven Dachfirst zu
+beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von 20
+Grad zu berechnen ist. Von den Anforderungen nach den Sätzen 1 bis 3
+darf nur abgewichen werden, wenn die Höhe der Austrittsöffnung für das
+Einzelgebäude nach Abschnitt 6.2.1 der Richtlinie VDI 3781 Blatt 4
+(Ausgabe Juli 2017) bestimmt worden ist. Der Schornstein ist so
+auszuführen, dass die Austrittsöffnung des Schornsteins bei einer
+Gesamtwärmeleistung der Feuerungsanlage
+
+1.  bis 50 Kilowatt in einem Umkreis von 15 Metern die Oberkanten der
+    Lüftungsöffnungen, Fenster und Türen um mindestens 1 Meter überragt,
+
+
+2.  von mehr als 50 bis 100 Kilowatt in einem Umkreis von 17 Metern die
+    Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 2
+    Meter überragt,
+
+
+3.  von mehr als 100 bis 150 Kilowatt in einem Umkreis von 19 Metern die
+    Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 3
+    Meter überragt,
+
+
+4.  von mehr als 150 bis 200 Kilowatt in einem Umkreis von 21 Metern die
+    Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 3
+    Meter überragt oder
+
+
+5.  von mehr als 200 Kilowatt die Oberkanten der Lüftungsöffnungen,
+    Fenster und Türen in demjenigen Umkreis um diejenigen Mindesthöhen
+    überragt, die in Tabelle 3 auf Seite 32 der Richtlinie VDI 3781 Blatt
+    4 (Ausgabe Juli 2017) vorgegeben sind.
+
+
+
+Können mit der Ausführung des Schornsteins nach den Sätzen 1 bis 5
+schädliche Umwelteinwirkungen nicht verhindert werden, muss der
+Schornstein gemäß der Richtlinie VDI 3781 Blatt 4 (Ausgabe Juli 2017)
+unter Berücksichtigung der vorgelagerten Bebauung und der Hanglage
+ausgeführt werden. Bei der Errichtung von Feuerungsanlagen für feste
+Brennstoffe in einem Gebäude, das vor dem 1. Januar 2022 errichtet
+wurde oder für das vor dem 1. Januar 2022 eine Baugenehmigung erteilt
+worden ist, ist Absatz 2 anzuwenden, wenn die Anforderungen der Sätze
+1 bis 6 im Einzelfall unverhältnismäßig sind.
+
+(2) Die Austrittsöffnung von Schornsteinen bei Feuerungsanlagen für
+feste Brennstoffe, die vor dem 1. Januar 2022 errichtet und in Betrieb
+genommen wurden und ab dem 1. Januar 2022 wesentlich geändert werden,
+muss
 
 1.  bei Dachneigungen
 
-    a)  bis einschließlich 20 Grad den First um mindestens 40 Zentimeter
-        überragen oder von der Dachfläche mindestens 1 Meter entfernt sein,
+    a)  bis einschließlich 20 Grad den First um mindestens 40 Zentimeter
+        überragen oder von der Dachfläche mindestens 1 Meter entfernt sein,
 
 
-    b)  von mehr als 20 Grad den First um mindestens 40 Zentimeter überragen
-        oder einen horizontalen Abstand von der Dachfläche von mindestens 2
-        Meter und 30 Zentimeter haben;
+    b)  von mehr als 20 Grad den First um mindestens 40 Zentimeter überragen
+        oder einen horizontalen Abstand von der Dachfläche von mindestens
+        2 Meter und 30 Zentimeter haben;
 
 
 
 
 
-2.  bei Feuerungsanlagen mit einer Gesamtwärmeleistung bis 50 Kilowatt in
-    einem Umkreis von 15 Metern die Oberkanten von Lüftungsöffnungen,
+2.  bei Feuerungsanlagen mit einer Gesamtwärmeleistung bis 50 Kilowatt in
+    einem Umkreis von 15 Metern die Oberkanten von Lüftungsöffnungen,
     Fenstern oder Türen um mindestens 1 Meter überragen; der Umkreis
-    vergrößert sich um 2 Meter je weitere angefangene 50 Kilowatt bis auf
-    höchstens 40 Meter.
+    vergrößert sich um 2 Meter je weitere angefangene 50 Kilowatt bis auf
+    höchstens 40 Meter.
 
 
 
-
-(2) Abweichend von Absatz 1 hat die Höhe der Austrittsöffnung bei Gas-
-und Ölfeuerungsanlagen mit einer Feuerungswärmeleistung von 1 Megawatt
-bis 10 Megawatt
-
-1.  die höchste Kante des Dachfirstes um mindestens 3 Meter zu überragen
-    und
-
-
-2.  mindestens 10 Meter über Gelände zu liegen.
-
-
-
-Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der
-Austrittsöffnung auf einen fiktiven Dachfirst zu beziehen, dessen Höhe
-unter Zugrundelegung einer Dachneigung von 20 Grad zu berechnen ist.
-Satz 1 Nummer 1 gilt nicht für Feuerungsanlagen in
-Warmumformungsbetrieben, soweit Windleitflächenlüfter eingesetzt
-werden.
-
-(3) Abweichend von Absatz 1 sind die Abgase von Feuerungsanlagen nach
-§ 11 über einen oder mehrere Schornsteine abzuleiten, deren Höhe nach
-den Vorschriften der Technischen Anleitung zur Reinhaltung der Luft
-vom 24. Juli 2002 (GMBl 2002, S. 511) zu berechnen ist.
+Satz 1 gilt für den Austausch der Feuerstätte entsprechend. Die
+Übergangsvorschriften der §§ 25 und 26 bleiben unberührt.Die
+Anforderungen des Satzes 1 gelten entsprechend, wenn eine
+Feuerungsanlage für flüssige oder gasförmige Brennstoffe, die vor dem
+1\. Januar 2022 errichtet und in Betrieb genommen wurde und ab dem 1.
+Januar 2022 durch eine Feuerungsanlage für feste Brennstoffe ersetzt
+wird.
 
 
 ### § 20 Anzeige und Nachweise
 
-(1) Der Betreiber einer Feuerungsanlage nach § 11 hat diese der
-zuständigen Behörde spätestens einen Monat vor der Inbetriebnahme
-anzuzeigen.
-
-(2) Der Betreiber einer Feuerungsanlage hat dafür Sorge zu tragen,
-dass die Nachweise über die Durchführung aller von einer
-Schornsteinfegerin oder einem Schornsteinfeger durchzuführenden
-Tätigkeiten an den Bezirksschornsteinfegermeister gesendet werden. Der
+Der Betreiber einer Feuerungsanlage hat dafür Sorge zu tragen, dass
+die Nachweise über die Durchführung aller von einer Schornsteinfegerin
+oder einem Schornsteinfeger durchzuführenden Tätigkeiten an den
+Bezirksschornsteinfegermeister gesendet werden. Der
 Bezirksschornsteinfegermeister hat die durchgeführten Arbeiten in das
 Kehrbuch einzutragen.
 
@@ -1260,7 +1179,7 @@ zu treffen, bleibt unberührt.
 ### § 22 Zulassung von Ausnahmen
 
 Die zuständige Behörde kann auf Antrag Ausnahmen von den Anforderungen
-der §§ 3 bis 11, 19, 25 und 26 zulassen, soweit diese im Einzelfall
+der §§ 3 bis 10, 19, 25 und 26 zulassen, soweit diese im Einzelfall
 wegen besonderer Umstände durch einen unangemessenen Aufwand oder in
 sonstiger Weise zu einer unbilligen Härte führen und schädliche
 Umwelteinwirkungen nicht zu befürchten sind.
@@ -1303,8 +1222,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     einsetzt,
 
 
-6.  entgegen § 11 Absatz 1 oder Absatz 2 eine Einzelfeuerungsanlage
-    errichtet oder betreibt,
+6.  (weggefallen)
 
 
 7.  entgegen § 12 Satz 3 die Herstellung einer Messöffnung nicht
@@ -1318,36 +1236,26 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     überwachen lässt,
 
 
-9.  entgegen § 18 Absatz 1 Satz 1 eine Einzelfeuerungsanlage nicht, nicht
-    richtig oder nicht rechtzeitig ausrüstet,
+9.  (weggefallen)
 
 
-10. entgegen § 18 Absatz 2 Satz 1 eine Messeinrichtung nicht oder nicht
-    rechtzeitig kalibrieren lässt oder nicht oder nicht rechtzeitig prüfen
-    lässt,
+10. (weggefallen)
 
 
-11. entgegen § 18 Absatz 2 Satz 2 die Kalibrierung nicht oder nicht
-    rechtzeitig wiederholen lässt,
+11. (weggefallen)
 
 
-12. entgegen § 18 Absatz 2 Satz 3 eine Bescheinigung oder einen Bericht
-    nicht oder nicht rechtzeitig vorlegt,
+12. (weggefallen)
 
 
-13. entgegen § 18 Absatz 3 oder Absatz 6 Satz 1 oder Satz 3 einen
-    Messbericht nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht
-    mindestens fünf Jahre aufbewahrt,
+13. (weggefallen)
 
 
-14. entgegen § 18 Absatz 4 die Einhaltung einer dort genannten Anforderung
-    nicht oder nicht rechtzeitig prüfen lässt oder eine Prüfung nicht oder
-    nicht rechtzeitig wiederholen lässt,
+14. (weggefallen)
 
 
-15. entgegen § 20 Absatz 1 oder Absatz 2 Satz 1 eine Anzeige nicht, nicht
-    richtig oder nicht rechtzeitig erstattet oder nicht dafür Sorge trägt,
-    dass die dort genannten Nachweise versendet werden,
+15. entgegen § 20 Satz 1 nicht dafür Sorge trägt, dass ein dort genannter
+    Nachweis gesendet wird,
 
 
 16. entgegen § 25 Absatz 1 Satz 1 oder § 26 Absatz 1 Satz 1 eine
@@ -1750,8 +1658,9 @@ zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12)
 
-### Anlage 1 (zu § 12) Messöffnung
+### Anlage 1 Messöffnung
 
 (Fundstelle: BGBl. I 2010, 50)
 
@@ -1777,10 +1686,13 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz
+2)
 
-### Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2) Anforderungen an die Durchführung der Messungen im Betrieb
+### Anlage 2 Anforderungen an die Durchführung der Messungen im Betrieb
 
 (Fundstelle: BGBl. I 2010, 51 - 53)
+
 
 **1.** **Allgemeine Anforderungen**
 
@@ -1902,8 +1814,8 @@ Der Bundesrat hat zugestimmt.
             geschlossener Verbrennungsluftklappe zu messen.
 
 
-        2.4.2 Bei Feuerungsanlagen mit ungeregeltem Verbrennungsluftgebläse (Ein
-            /Aus-Regelung) ist fünf Minuten bei laufendem und zehn Minuten bei
+        2.4.2 Bei Feuerungsanlagen mit ungeregeltem Verbrennungsluftgebläse
+            (Ein/Aus-Regelung) ist fünf Minuten bei laufendem und zehn Minuten bei
             abgeschaltetem Gebläse zu messen.
 
 
@@ -2122,7 +2034,7 @@ Der Bundesrat hat zugestimmt.
     **Sonstige Überwachungstätigkeiten**
 
     Information über die Überprüfung der Anforderungen nach § 6 Absatz 2
-    und 3 (Herstellerbescheinigung)
+    (Herstellerbescheinigung)
 
 
 **5.** **Inhalt der Bescheinigung über die Überwachungsmessungen an
@@ -2184,8 +2096,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 2 Nummer 11, § 6)
 
-### Anlage 3 (zu § 2 Nummer 11, § 6) Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
+### Anlage 3 Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
 
 (Fundstelle: BGBl. I 2010, 54)
 
@@ -2251,8 +2164,10 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2
+Nummer 2, Absatz 6)
 
-### Anlage 4 (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6) Anforderungen bei der Typprüfung
+### Anlage 4 Anforderungen bei der Typprüfung
 
 (Fundstelle: BGBl. I 2010, 55 - 56)
 

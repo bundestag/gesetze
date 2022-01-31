@@ -610,8 +610,9 @@ die Verordnung über die Berufsausbildung zum pharmazeutisch-
 kaufmännischen Angestellten/zur pharmazeutisch-kaufmännischen
 Angestellten vom 3. März 1993 (BGBl. I S. 292) außer Kraft.
 
+(zu § 3 Absatz 1 Satz 1)
 
-## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
 
 (Fundstelle: BGBl. I 2012, 1459 - 1463)
 
@@ -1373,8 +1374,9 @@ Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
+(zu § 3 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten
 
 (Fundstelle: BGBl. I 2012, 1464 - 1466)
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1627
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 19 G v. 12.4.2012 I 579
+:   Art. 4 G v. 22.3.2020 I 604
 
 
 ## Eingangsformel
@@ -57,11 +57,11 @@ Sozialversicherung, die Körperschaften des öffentlichen Rechts sind.
 Sie gilt ferner nach § 281 Abs. 2 des Fünften Buches Sozialgesetzbuch
 entsprechend für die Medizinischen Dienste der Krankenversicherung.
 
-(2) Für Unfallversicherungsträger nach § 114 Abs. 1 Nr. 6, 7 und 9 des
-Siebten Buches Sozialgesetzbuch, deren Rechnungsführung auf die einer
-Gebietskörperschaft abgestellt ist, und für Feuerwehr-Unfallkassen
-kann die Aufsichtsbehörde Ausnahmen von den Vorschriften der §§ 2 bis
-17, 19 und 20 zulassen.
+(2) Für Unfallversicherungsträger nach § 114 Abs. 1 Nummer 4, 5 und 7
+des Siebten Buches Sozialgesetzbuch, deren Rechnungsführung auf die
+einer Gebietskörperschaft abgestellt ist, und für Feuerwehr-
+Unfallkassen kann die Aufsichtsbehörde Ausnahmen von den Vorschriften
+der §§ 2 bis 17, 19 und 20 zulassen.
 
 
 ## Zweiter Abschnitt - Zahlungsverkehr
@@ -189,9 +189,8 @@ erzeugte Dateien oder Datensätze sein.
 Zahlungsanordnung) oder in allgemeiner Form (allgemeine
 Zahlungsanordnung) erteilt werden.
 
-(3) Die Zahlungsanordnung ist von dem zur Anordnung Befugten zu
-unterschreiben oder mit einer qualifizierten elektronischen Signatur
-nach dem Signaturgesetz zu versehen.
+(3) Die Zahlungsanordnung ist von dem zur Anordnung Befugten
+schriftlich oder im Wege IT-gestützter Verfahren zu erteilen.
 
 (4) In der Zahlungsanordnung dürfen die Höhe des Betrages, der
 anzunehmen oder auszuzahlen ist, und die Bezeichnung des Einzahlers
@@ -255,13 +254,13 @@ legenden Kontenrahmens nichts anderes vorschreiben.
 
 (1) Geldanlagen, Beteiligungen, Grundstücke, Gebäude, technische
 Anlagen sowie Gegenstände der beweglichen Einrichtung, die ohne
-Umsatzsteuer den Wert von 410 Euro übersteigen, sind nach Maßgabe
+Umsatzsteuer den Wert von 800 Euro übersteigen, sind nach Maßgabe
 allgemeiner Verwaltungsvorschriften mit den Anschaffungs- oder
 Herstellungskosten zu aktivieren.
 
 (1a) Abweichend von Absatz 1 kann für Gegenstände der beweglichen
 Einrichtung, deren Anschaffungs- oder Herstellungskosten ohne
-Umsatzsteuer den Wert von 150 Euro, aber nicht 1 000 Euro übersteigen,
+Umsatzsteuer den Wert von 250 Euro, aber nicht 1 000 Euro übersteigen,
 im Jahr der Anschaffung ein Sammelposten gebildet werden. Satz 1 ist
 für alle in einem Geschäftsjahr angeschafften Gegenstände der
 beweglichen Einrichtung einheitlich anzuwenden. Ein einmal gewähltes
@@ -275,14 +274,21 @@ technischen Anlagen sowie von Gegenständen der beweglichen Einrichtung
 sind, wenn sie zu einer erheblichen Werterhöhung führen, nach Maßgabe
 allgemeiner Verwaltungsvorschriften zu aktivieren.
 
-(3) Gebäude, technische Anlagen sowie Gegenstände der beweglichen
-Einrichtung sind nach Maßgabe allgemeiner Verwaltungsvorschriften
-jährlich linear abzuschreiben.
+(2a) Selbsterstellte und selbst genutzte Software kann nach Maßgabe
+allgemeiner Verwaltungsvorschriften mit den Herstellungskosten
+aktiviert werden.
 
-(4) Wird der Wert von Grundstücken, Gebäuden, technischen Anlagen
-sowie von Gegenständen der beweglichen Einrichtung dauerhaft erheblich
-gemindert, so ist eine außerplanmäßige Abschreibung nach Maßgabe
-allgemeiner Verwaltungsvorschriften vorzunehmen.
+(3) Gebäude, technische Anlagen, Herstellungskosten für selbst
+erstellte und selbst genutzte Software sowie Gegenstände der
+beweglichen Einrichtung sind nach Maßgabe allgemeiner
+Verwaltungsvorschriften jährlich linear abzuschreiben.
+
+(4) Wird der Wert von Grundstücken, Gebäuden, technischen Anlagen,
+aktivierten Herstellungskosten für selbst erstellte und selbst
+genutzte Software sowie von Gegenständen der beweglichen Einrichtung
+dauerhaft erheblich gemindert, so ist eine außerplanmäßige
+Abschreibung nach Maßgabe allgemeiner Verwaltungsvorschriften
+vorzunehmen.
 
 (5) Technische Anlagen im Sinne der Absätze 1 bis 4 sind alle im
 Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen
@@ -316,10 +322,10 @@ Vereinbarungen über die Altersteilzeitarbeit sowie für Verpflichtungen
 nach § 7b des Vierten Buches Sozialgesetzbuch gebildet werden, gelten
 die Sätze 1 und 4 entsprechend.
 
-(1a) Soweit für Verpflichtungen einer Krankenkasse, für die nach §
-171d Abs. 1 des Fünften Buches Sozialgesetzbuch der Spitzenverband
-Bund der Krankenkassen haftet, eine Zuführung zu den Rückstellungen
-erforderlich ist, darf dieser Betrag wie das nach § 171e des Fünften
+(1a) Soweit für Verpflichtungen einer Krankenkasse, für die nach § 169
+Absatz 1 des Fünften Buches Sozialgesetzbuch der Spitzenverband Bund
+der Krankenkassen haftet, eine Zuführung zu den Rückstellungen
+erforderlich ist, darf dieser Betrag wie das nach § 170 des Fünften
 Buches Sozialgesetzbuch zu bildende Deckungskapital bis spätestens zum
 31\. Dezember 2049 angesammelt werden und muss der Gesamtbetrag des
 Rückstellungsbedarfs so lange im Anhang zur Jahresrechnung nach § 29a
@@ -384,7 +390,7 @@ führen.
 
 (2) Für Gegenstände der beweglichen Einrichtung, für die nach § 11
 Absatz 1a ein Sammelposten gebildet werden kann, sowie für Gegenstände
-der beweglichen Einrichtung, die ohne Umsatzsteuer den Wert von 150
+der beweglichen Einrichtung, die ohne Umsatzsteuer den Wert von 250
 Euro nicht überschreiten, kann nach Maßgabe allgemeiner
 Verwaltungsvorschriften von der Aufnahme in das Verzeichnis abgesehen
 werden.

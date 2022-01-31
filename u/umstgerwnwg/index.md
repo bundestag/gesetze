@@ -130,8 +130,9 @@ Dieses Gesetz tritt am 29. Juni 1990 in Kraft.
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
+Auszug aus EinigVtrVbg Art 3
 
-## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
+## Anhang EV (BGBl. II 1990, 1239)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

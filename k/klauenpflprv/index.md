@@ -643,8 +643,9 @@ bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 8 Absatz 5)
 
-### Anlage 1 (zu § 8 Absatz 5) Muster
+### Anlage 1 Muster
 
 (Fundstelle: BGBl. I 2011, 237)
 
@@ -676,14 +677,14 @@ Geprüfte Klauenpflegerin
         .................. . ................................
 
 
-*    *   geboren am
-        ....................................................................
+*    *   geboren am ...........................................................
+        .........
 
     *   in ...................................................................
 
 
-*    *   hat am
-        ..................................................................
+*    *   hat
+        am ..................................................................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
 
@@ -701,9 +702,8 @@ S. 232) bestanden.
         ......... ...
 
 
-*    *   Unterschrift(en)
-        ..............................................................
-        ..............
+*    *   Unterschrift(en) .....................................................
+        ......... ..............
 
 
 *    *
@@ -715,8 +715,9 @@ S. 232) bestanden.
     Im Original die jeweilige geschlechtsspezifische Bezeichnung
     verwenden.
 [^F1_775007_BJNR023200011BJNE002100000]: 
+(zu § 8 Absatz 5)
 
-### Anlage 2 (zu § 8 Absatz 5) Muster
+### Anlage 2 Muster
 
 (Fundstelle: BGBl. I 2011, 238)
 
@@ -810,7 +811,7 @@ S. 232) mit folgenden Ergebnissen „bestanden“/„nicht bestanden“
 (Im Fall des § 7 ist einzufügen: „ „Der Prüfungsteilnehmer“ oder „Die
 Prüfungsteilnehmerin“
 wurde nach § 7 der oben genannten Verordnung im Hinblick auf die am
-...........  in ...........   vor ...........   abgelegte Prüfung
+...........  in ...........   vor ...........   abgelegte Prüfung 
 ...........   in dem
 Prüfungsteil ...........   freigestellt. “)
 
@@ -831,8 +832,9 @@ Prüfungsteil ...........   freigestellt. “)
     verwenden.
 [^F2_775007_BJNR023200011BJNE002200000]:     Zutreffendes einfügen.
 [^F3_775007_BJNR023200011BJNE002200000]: 
+(zu § 17 Absatz 5)
 
-### Anlage 3 (zu § 17 Absatz 5) Muster
+### Anlage 3 Muster
 
 (Fundstelle: BGBl. I 2011, 239)
 
@@ -896,8 +898,9 @@ S. 232) bestanden.
     Im Original die jeweilige geschlechtsspezifische Bezeichnung
     verwenden.
 [^F4_775007_BJNR023200011BJNE002300000]: 
+(zu § 17 Absatz 5)
 
-### Anlage 4 (zu § 17 Absatz 5) Muster
+### Anlage 4 Muster
 
 (Fundstelle: BGBl. I 2011, 240)
 

@@ -82,8 +82,11 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
+(zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für
+den militärischen Flugplatz Hopsten in der Fassung der Zweiten
+Änderungsverordnung vom 12. Juli 1991)
 
-## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Hopsten in der Fassung der Zweiten Änderungsverordnung vom 12. Juli 1991) Lärmschutzbereich - Zweite Änderung
+## Anlage 1 Lärmschutzbereich - Zweite Änderung
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1517 - 1521)
 

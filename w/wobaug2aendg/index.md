@@ -20,7 +20,7 @@ Zuletzt geändert durch
 :   Art. 7 Abs. 9 G v. 19.6.2001 I 1149
 
 
-## Art I -
+## Art I - 
 
 
 
@@ -40,7 +40,7 @@ Fassung weiterhin Anwendung.
 -
 
 
-## Art III bis V -
+## Art III bis V - 
 
 
 
@@ -124,7 +124,7 @@ b)  bei § 1 in der Fassung des Artikels III Nr. 8 des Zweiten Gesetzes zur
 
 
 
-## Art VII -
+## Art VII - 
 
 
 

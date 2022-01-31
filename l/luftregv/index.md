@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 279
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 12 G v. 11.8.2009 I 2713
+:   Art. 25 G v. 20.11.2019 I 1724
 
 
 ## Eingangsformel
@@ -337,8 +337,8 @@ als automatisierte Datei geführt werden. Die Anordnung soll öffentlich
 bekannt gemacht werden.
 
 (2) Für die Anforderungen an Anlagen, Programme und ihre Sicherung
-gelten § 126 Abs. 1 Satz 2 der Grundbuchordnung, die Anlage zu § 126
-Abs. 1 Satz 2 Nr. 3 der Grundbuchordnung und die §§ 64 bis 66 der
+gelten § 126 Abs. 1 Satz 2 der Grundbuchordnung, die Artikel 24, 25
+und 32 der Verordnung (EU) 2016/679 und die §§ 64 bis 66 der
 Grundbuchverfügung sinngemäß.
 
 (3) Für maschinell geführte Register gelten Abschnitt 1 bis 3, soweit

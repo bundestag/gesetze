@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1906
 
 Zuletzt geändert durch
-:   Art. 3 V v. 31.10.2006 I 2407
+:   Art. 5 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -48,13 +48,13 @@ rechtsgestaltend geregelt.
 
 ## § 2 Änderung und Ergänzung des Planes
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den
 Plan nach § 1 unter Einhaltung der Grundzüge der Planung zu ändern,
 soweit nach Inkrafttreten dieses Gesetzes Tatsachen bekannt werden,
 die der Ausführung des Vorhabens nach den getroffenen Festsetzungen
-entgegenstehen. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung hat dabei eine Abwägung aller betroffenen Belange
+entgegenstehen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur hat dabei eine Abwägung aller betroffenen Belange
 vorzunehmen.
 
 (2) Die nach dem Bundesbahngesetz für Planfeststellungen zuständige

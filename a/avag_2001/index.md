@@ -1,7 +1,7 @@
 ---
 Title: Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von
-  Verordnungen und Abkommen der Europäischen Gemeinschaft auf dem Gebiet der Anerkennung
-  und Vollstreckung in Zivil- und Handelssachen
+  Abkommen der Europäischen Union auf dem Gebiet der Anerkennung und Vollstreckung
+  in Zivil- und Handelssachen
 jurabk: AVAG 2001
 layout: default
 origslug: avag_2001
@@ -9,7 +9,7 @@ slug: avag_2001
 
 ---
 
-# Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von Verordnungen und Abkommen der Europäischen Gemeinschaft auf dem Gebiet der Anerkennung und Vollstreckung in Zivil- und Handelssachen (AVAG 2001)
+# Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von Abkommen der Europäischen Union auf dem Gebiet der Anerkennung und Vollstreckung in Zivil- und Handelssachen (AVAG 2001)
 
 Ausfertigungsdatum
 :   2001-02-19
@@ -18,10 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 288 (436)
 
 Neugefasst durch
-:   Bek. v. 3.12.2009 I 3830;
-
-Zuletzt geändert durch
-:   Art. 6 G v. 23.5.2011 I 898 (2094)
+:   Bek. v. 30.11.2015 I 2146
 
 
 ## Teil 1 - Allgemeines
@@ -70,24 +67,15 @@ Zuletzt geändert durch
 
 
 
-2.  die Durchführung folgender Verordnungen und Abkommen der Europäischen
-    Gemeinschaft:
+2.  die Durchführung folgender Abkommen der Europäischen Union:
 
-    a)  der Verordnung (EG) Nr. 44/2001 des Rates vom 22. Dezember 2000 über
-        die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung
-        von Entscheidungen in Zivil- und Handelssachen (ABl. EG 2001 Nr. L 12
-        S. 1);
+    a)  Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit
+        und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und
+        Handelssachen;
 
 
-    b)  des Abkommens vom 19. Oktober 2005 zwischen der Europäischen
-        Gemeinschaft und dem Königreich Dänemark über die gerichtliche
-        Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen
-        in Zivil- und Handelssachen (ABl. EU Nr. L 299 S. 62);
-
-
-    c)  des Übereinkommens vom 30. Oktober 2007 über die gerichtliche
-        Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen
-        in Zivil- und Handelssachen (ABl. EU Nr. L 339 S. 3).
+    b)  Haager Übereinkommen vom 30. Juni 2005 über
+        Gerichtsstandsvereinbarungen.
 
 
 
@@ -95,11 +83,11 @@ Zuletzt geändert durch
 
 
 
-(2) Die Regelungen der in Absatz 1 Nummer 2 genannten Verordnungen und
-Abkommen werden als unmittelbar geltendes Recht der Europäischen
-Gemeinschaft durch die Durchführungsbestimmungen dieses Gesetzes nicht
-berührt. Unberührt bleiben auch die Regelungen der zwischenstaatlichen
-Verträge; dies gilt insbesondere für die Regelungen über
+(2) Abkommen nach Absatz 1 Nummer 2 werden als unmittelbar geltendes
+Recht der Europäischen Union durch die Durchführungsbestimmungen
+dieses Gesetzes nicht berührt. Unberührt bleiben auch die Regelungen
+der Anerkennungs- und Vollstreckungsverträge; dies gilt insbesondere
+für die Regelungen über
 
 1.  den sachlichen Anwendungsbereich,
 
@@ -126,22 +114,27 @@ Verträge; dies gilt insbesondere für die Regelungen über
 
 #### § 2 Begriffsbestimmungen
 
-Im Sinne dieses Gesetzes sind
+Im Sinne dieses Gesetzes ist
 
-1.  unter Mitgliedstaaten die Mitgliedstaaten der Europäischen Union und
-
-
-2.  unter Titeln Entscheidungen, gerichtliche Vergleiche und öffentliche
-    Urkunden, auf welche der jeweils auszuführende Anerkennungs- und
-    Vollstreckungsvertrag, die jeweils durchzuführende Verordnung oder das
-    jeweils durchzuführende Abkommen Anwendung findet,
+1.  Mitgliedstaat jeder Mitgliedstaat der Europäischen Union,
 
 
+2.  Titel jede Entscheidung, jeder gerichtliche Vergleich und jede
+    öffentliche Urkunde, auf die oder den der jeweils auszuführende
+    Anerkennungs- und Vollstreckungsvertrag nach § 1 Absatz 1 Nummer 1
+    oder das jeweils durchzuführende Abkommen nach § 1 Absatz 1 Nummer 2
+    Anwendung findet, und
 
-zu verstehen.
+
+3.  Vertragsstaat jeder Staat, mit dem die Bundesrepublik Deutschland
+    einen Anerkennungs- und Vollstreckungsvertrag nach § 1 Absatz 1 Nummer
+    1 abgeschlossen hat.
 
 
-### Abschnitt 2 - Zulassung der Zwangs- vollstreckung aus ausländischen Titeln
+
+
+
+### Abschnitt 2 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln
 
 
 
@@ -244,10 +237,9 @@ Verhandlung anordnen.
 beschließt das Gericht, dass der Titel mit der Vollstreckungsklausel
 zu versehen ist. In dem Beschluss ist die zu vollstreckende
 Verpflichtung in deutscher Sprache wiederzugeben. Zur Begründung des
-Beschlusses genügt in der Regel die Bezugnahme auf die durchzuführende
-Verordnung oder das durchzuführende Abkommen der Europäischen
-Gemeinschaft oder den auszuführenden Anerkennungs- und
-Vollstreckungsvertrag sowie auf von dem Antragsteller vorgelegte
+Beschlusses genügt in der Regel die Bezugnahme auf das durchzuführende
+Abkommen der Europäischen Union oder den auszuführenden Anerkennungs-
+und Vollstreckungsvertrag sowie auf von dem Antragsteller vorgelegte
 Urkunden. Auf die Kosten des Verfahrens ist § 788 der
 Zivilprozessordnung entsprechend anzuwenden.
 
@@ -262,12 +254,11 @@ dem Antragsteller aufzuerlegen.
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
 folgender Form:
 „Vollstreckungsklausel nach § 4 des Anerkennungs- und
-Vollstreckungsausführungsgesetzes vom 19. Februar 2001 (BGBl. I S.
-288). Gemäß dem Beschluss des .......... (Bezeichnung des Gerichts und
-des Beschlusses) ist die Zwangsvollstreckung aus ..........
-(Bezeichnung des Titels) zugunsten .......... (Bezeichnung des
-Berechtigten) gegen .......... (Bezeichnung des Verpflichteten)
-zulässig.
+Vollstreckungsausführungsgesetzes. Gemäß dem Beschluss des ..........
+(Bezeichnung des Gerichts und des Beschlusses) ist die
+Zwangsvollstreckung aus .......... (Bezeichnung des Titels) zugunsten
+.......... (Bezeichnung des Berechtigten) gegen ..........
+(Bezeichnung des Verpflichteten) zulässig.
 Die zu vollstreckende Verpflichtung lautet:
 .......... (Angabe der dem Verpflichteten aus dem ausländischen Titel
 obliegenden Verpflichtung in deutscher Sprache; aus dem Beschluss nach
@@ -275,21 +266,20 @@ obliegenden Verpflichtung in deutscher Sprache; aus dem Beschluss nach
 Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht
 hinausgehen, bis der Gläubiger eine gerichtliche Anordnung oder ein
 Zeugnis vorlegt, dass die Zwangsvollstreckung unbeschränkt stattfinden
-darf.“
+darf.”
 Lautet der Titel auf Leistung von Geld, so ist der
 Vollstreckungsklausel folgender Zusatz anzufügen:
 „Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht
 hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch
-Leistung einer Sicherheit in Höhe von .......... (Angabe des Betrages,
-wegen dessen der Berechtigte vollstrecken darf) abwenden.“
+Leistung einer Sicherheit in Höhe von ……… (Angabe des Betrages, wegen
+dessen der Berechtigte vollstrecken darf) abwenden.”
 
 (2) Wird die Zwangsvollstreckung nur für einen oder mehrere der durch
 die ausländische Entscheidung zuerkannten oder in einem anderen
 ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil
 des Gegenstands der Verpflichtung zugelassen, so ist die
 Vollstreckungsklausel als „Teil-Vollstreckungsklausel nach § 4 des
-Anerkennungs- und Vollstreckungsausführungsgesetzes vom 19. Februar
-2001 (BGBl. I S. 288)“ zu bezeichnen.
+Anerkennungs- und Vollstreckungsausführungsgesetzes“ zu bezeichnen.
 
 (3) Die Vollstreckungsklausel ist von dem Urkundsbeamten der
 Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu
@@ -417,8 +407,9 @@ entstanden sind.
 zu erheben, das über den Antrag auf Erteilung der
 Vollstreckungsklausel entschieden hat. Soweit die Klage einen
 Unterhaltstitel zum Gegenstand hat, ist das Familiengericht zuständig;
-für die örtliche Zuständigkeit gelten die Vorschriften der
-Zivilprozessordnung für Unterhaltssachen.
+für die örtliche Zuständigkeit gelten die Vorschriften des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit für Unterhaltssachen.
 
 
 ### Abschnitt 4 - Rechtsbeschwerde
@@ -445,9 +436,9 @@ bei dem Bundesgerichtshof eingelegt.
 (2) Die Rechtsbeschwerde ist zu begründen. § 575 Absatz 2 bis 4 der
 Zivilprozessordnung ist entsprechend anzuwenden. Soweit die
 Rechtsbeschwerde darauf gestützt wird, dass das Beschwerdegericht von
-einer Entscheidung des Gerichtshofs der Europäischen Gemeinschaften
-abgewichen sei, muss die Entscheidung, von der der angefochtene
-Beschluss abweicht, bezeichnet werden.
+einer Entscheidung des Gerichtshofs der Europäischen Union abgewichen
+sei, muss die Entscheidung, von der der angefochtene Beschluss
+abweicht, bezeichnet werden.
 
 (3) Mit der Beschwerdeschrift soll eine Ausfertigung oder beglaubigte
 Abschrift des Beschlusses, gegen den sich die Rechtsbeschwerde
@@ -457,7 +448,7 @@ richtet, vorgelegt werden.
 #### § 17 Verfahren und Entscheidung
 
 (1) Der Bundesgerichtshof kann nur überprüfen, ob der Beschluss auf
-einer Verletzung des Rechts der Europäischen Gemeinschaft, eines
+einer Verletzung des Rechts der Europäischen Union, eines
 Anerkennungs- und Vollstreckungsvertrags, sonstigen Bundesrechts oder
 einer anderen Vorschrift beruht, deren Geltungsbereich sich über den
 Bezirk eines Oberlandesgerichts hinaus erstreckt. Er darf nicht
@@ -490,8 +481,7 @@ solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 #### § 19 Prüfung der Beschränkung
 
 Einwendungen des Verpflichteten, dass bei der Zwangsvollstreckung die
-Beschränkung auf Sicherungsmaßregeln nach der durchzuführenden
-Verordnung der Europäischen Gemeinschaft, nach dem auszuführenden
+Beschränkung auf Sicherungsmaßregeln nach dem auszuführenden
 Anerkennungs- und Vollstreckungsvertrag, nach § 18 dieses Gesetzes
 oder auf Grund einer auf diesem Gesetz beruhenden Anordnung (§ 22
 Absatz 2, §§ 40, 45) nicht eingehalten werde, oder Einwendungen des
@@ -768,21 +758,18 @@ Zivilprozessordnung) beträgt einen Monat.
 
 #### § 34 Konzentrationsermächtigung
 
-(1) Die Landesregierungen werden für die Ausführung von Anerkennungs-
-und Vollstreckungsverträgen nach diesem Gesetz und für die
-Durchführung der in § 1 Absatz 1 Nummer 2 genannten Verordnungen und
-Abkommen ermächtigt, durch Rechtsverordnung die Entscheidung über
-Anträge auf Erteilung der Vollstreckungsklausel zu ausländischen
-Titeln in Zivil- und Handelssachen, über Anträge auf Aufhebung oder
-Abänderung dieser Vollstreckungsklausel und über Anträge auf
-Feststellung der Anerkennung einer ausländischen Entscheidung für die
-Bezirke mehrerer Landgerichte einem von ihnen zuzuweisen, sofern dies
-der sachlichen Förderung oder schnelleren Erledigung der Verfahren
-dient. Die Ermächtigung kann für jedes der in § 1 Absatz 1 Nummer 1
-Buchstabe a und b genannten Übereinkommen, für die in § 1 Absatz 1
-Nummer 2 Buchstabe a genannte Verordnung und jedes der in § 1 Absatz 1
-Nummer 2 Buchstabe b und c genannten Abkommen der Europäischen
-Gemeinschaft jeweils allein ausgeübt werden.
+(1) Die Landesregierungen werden für die Durchführung dieses Gesetzes
+ermächtigt, durch Rechtsverordnung die Entscheidung über Anträge auf
+Erteilung der Vollstreckungsklausel zu ausländischen Titeln in Zivil-
+und Handelssachen, über Anträge auf Aufhebung oder Abänderung dieser
+Vollstreckungsklausel und über Anträge auf Feststellung der
+Anerkennung einer ausländischen Entscheidung für die Bezirke mehrerer
+Landgerichte einem von ihnen zuzuweisen, sofern dies der sachlichen
+Förderung oder schnelleren Erledigung der Verfahren dient. Von der
+Ermächtigung kann für jeden der in § 1 Absatz 1 Nummer 1 Buchstabe a
+und b genannten Anerkennungs- und Vollstreckungsverträge und für jedes
+der in § 1 Absatz 1 Nummer 2 genannten Abkommen der Europäischen Union
+einzeln Gebrauch gemacht werden.
 
 (2) Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
@@ -828,15 +815,7 @@ Entscheidung (§§ 25 und 26) entsprechend anzuwenden.
 
 
 
-#### § 37 (weggefallen)
-
-
-
-#### § 38 (weggefallen)
-
-
-
-#### § 39 (weggefallen)
+#### (XXXX) §§ 37 bis 39 (weggefallen)
 
 
 
@@ -1062,7 +1041,7 @@ richtet, sinngemäß.
 
 
 
-### Abschnitt 6 - Verordnungen und Abkommen der Europäischen Gemeinschaft nach § 1 Absatz 1 Nummer 2
+### Abschnitt 6 - Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
 
 
 
@@ -1070,7 +1049,7 @@ richtet, sinngemäß.
 
 (1) Die §§ 3, 6 Absatz 1, § 7 Absatz 1 Satz 2 und Absatz 2, § 10
 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 2 und Absatz 3 Satz 1 und 2
-sowie § 18 finden keine Anwendung.
+sowie die §§ 12, 14 und 18 finden keine Anwendung.
 
 (2) Die Beschwerde gegen die Zulassung der Zwangsvollstreckung ist
 einzulegen
@@ -1096,21 +1075,63 @@ Verfahren der Vollstreckbarerklärung durch ein Gericht gelten
 sinngemäß.
 
 
-#### § 56 Bescheinigungen zu inländischen Titeln
+#### § 56 Sonderregelungen für die Vollstreckungsabwehrklage
 
-Die Bescheinigungen nach den Artikeln 54, 57 und 58 der Verordnung
-(EG) Nr. 44/2001 und nach den Artikeln 54, 57 und 58 des
-Übereinkommens vom 30. Oktober 2007 über die gerichtliche
-Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen
-in Zivil- und Handelssachen werden von dem Gericht, der Behörde oder
-der mit öffentlichem Glauben versehenen Person ausgestellt, der die
-Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
-Soweit danach die Gerichte für die Ausstellung der Bescheinigung
-zuständig sind, wird diese von dem Gericht des ersten Rechtszuges und,
-wenn das Verfahren bei einem höheren Gericht anhängig ist, von diesem
-Gericht ausgestellt. Funktionell zuständig ist die Stelle, der die
-Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt. Für
-die Anfechtbarkeit der Entscheidung über die Ausstellung der
-Bescheinigung gelten die Vorschriften über die Anfechtbarkeit der
-Entscheidung über die Erteilung der Vollstreckungsklausel sinngemäß.
+(1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
+der Verpflichtete Einwendungen gegen den Anspruch selbst in einem
+Verfahren nach § 767 der Zivilprozessordnung oder, wenn der Titel eine
+Unterhaltssache betrifft, in einem Verfahren nach § 120 Absatz 1 des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit §
+767 der Zivilprozessordnung geltend machen. Handelt es sich bei dem
+Titel um eine gerichtliche Entscheidung, so gilt dies nur, soweit die
+Gründe, auf denen die Einwendungen beruhen, erst nach dem Erlass der
+Entscheidung entstanden sind.
+
+(2) Die Klage nach § 767 der Zivilprozessordnung und der Antrag nach §
+120 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit
+§ 767 der Zivilprozessordnung sind bei dem Gericht zu erheben, das
+über den Antrag auf Erteilung der Vollstreckungsklausel entschieden
+hat. Soweit der Antrag einen Unterhaltstitel zum Gegenstand hat, ist
+das Familiengericht zuständig; für die örtliche Zuständigkeit gelten
+die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
+in den Angelegenheiten der freiwilligen Gerichtsbarkeit für
+Unterhaltssachen.
+
+
+#### § 57 Bescheinigungen zu inländischen Titeln
+
+Die Bescheinigungen nach den Artikeln 54, 57 und 58 des Übereinkommens
+vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die
+Anerkennung und Vollstreckung von Entscheidungen in Zivil- und
+Handelssachen werden von dem Gericht, der Behörde oder der mit
+öffentlichem Glauben versehenen Person ausgestellt, der die Erteilung
+einer vollstreckbaren Ausfertigung des Titels obliegt. Soweit danach
+die Gerichte für die Ausstellung der Bescheinigung zuständig sind,
+wird diese von dem Gericht des ersten Rechtszuges und, wenn das
+Verfahren bei einem höheren Gericht anhängig ist, von diesem Gericht
+ausgestellt. Funktionell zuständig ist die Stelle, der die Erteilung
+einer vollstreckbaren Ausfertigung des Titels obliegt. Für die
+Anfechtbarkeit der Entscheidung über die Ausstellung der Bescheinigung
+gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über
+die Erteilung der Vollstreckungsklausel sinngemäß.
+
+
+### Abschnitt 7 - Haager Übereinkommen vom 30. Juni 2005 über Gerichtsstandsvereinbarungen
+
+
+
+#### § 58 Bescheinigungen zu inländischen Titeln
+
+(1) Bescheinigungen nach Artikel 13 Absatz 1 Buchstabe e und Absatz 3
+des Haager Übereinkommens vom 30. Juni 2005 über
+Gerichtsstandsvereinbarungen werden von dem Gericht ausgestellt, dem
+die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
+
+(2) Die Entscheidung über die Ausstellung der Bescheinigung nach
+Artikel 13 Absatz 3 des Haager Übereinkommens vom 30. Juni 2005 über
+Gerichtsstandsvereinbarungen ist anfechtbar. Hierfür gelten die
+Vorschriften über die Anfechtbarkeit der Entscheidung über die
+Erteilung der Vollstreckungsklausel sinngemäß.
 

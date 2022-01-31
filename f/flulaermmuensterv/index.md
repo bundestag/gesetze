@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Münster/Osnabrück
 jurabk: FluLärmMünsterV
 layout: default
-origslug: flul_rmm_nsterv
+origslug: flulaermmuensterv
 slug: flulaermmuensterv
 
 ---

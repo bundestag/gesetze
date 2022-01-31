@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 2313
 
 Zuletzt geändert durch
-:   Art. 17 G v. 29.4.1997 I 968
+:   Art. 57 Abs. 1 G v. 12.12.2019 I 2652
 
 
 ## Erster Abschnitt - Regelungsgegenstand
@@ -226,8 +226,8 @@ zu löschen. Sie können im Einzelfall über die in Satz 3 genannte Frist
 hinaus bis zum Ablauf des Jahres aufbewahrt werden, in welchem die
 untersuchte Person 75 Jahre alt geworden ist. Die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darf die Daten zum Zweck der
-wissenschaftlichen Forschung in ihrem Aufgabenbereich verarbeiten und
-nutzen.
+wissenschaftlichen Forschung in ihrem Aufgabenbereich speichern,
+verändern, nutzen, übermitteln oder in der Verarbeitung einschränken.
 
 (4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin übermittelt
 die Daten, auch soweit sie personenbezogen sind,
@@ -284,46 +284,51 @@ nur an solche Personen übermittelt, die
 Verpflichtung zur Geheimhaltung entsprechende Anwendung.
 
 (6) Die nach Absatz 4 Satz 1 Nr. 2 übermittelten personenbezogenen
-Daten dürfen nur für die Forschungsarbeiten verwendet werden, für die
-sie übermittelt worden sind. Die Verwendung für andere
+Daten dürfen nur für die Forschungsarbeiten gespeichert, verändert,
+genutzt, übermittelt oder in der Verarbeitung eingeschränkt werden,
+für die sie übermittelt worden sind. Die Verarbeitung für andere
 Forschungsarbeiten oder eine Übermittlung an dritte Stellen richtet
 sich nach Absatz 4 Satz 1 Nr. 2 und Absatz 5 und bedarf der Zustimmung
 der Stelle, die die Daten übermittelt hat.
 
 (7) Die Daten sind gegen unbefugte Kenntnisnahme durch Dritte zu
 schützen. Die wissenschaftliche Forschung betreibende Stelle hat dafür
-zu sorgen, daß die Verwendung der personenbezogenen Daten räumlich und
-organisatorisch getrennt von der Erfüllung solcher Verwaltungsaufgaben
-oder Geschäftszwecke erfolgt, für die diese Daten gleichfalls von
-Bedeutung sein können.
+zu sorgen, daß die Verarbeitung der personenbezogenen Daten räumlich
+und organisatorisch getrennt von der Erfüllung solcher
+Verwaltungsaufgaben oder Geschäftszwecke erfolgt, für die diese Daten
+gleichfalls von Bedeutung sein können.
 
 (8) Sobald der Forschungszweck es erlaubt, sind die personenbezogenen
 Daten zu anonymisieren. Solange dies nicht möglich ist und die Daten
-in Dateien gespeichert werden, sind die Merkmale gesondert zu
+in Dateisystemen gespeichert werden, sind die Merkmale gesondert zu
 speichern, mit denen Einzelangaben über persönliche oder sachliche
 Verhältnisse einer bestimmten oder bestimmbaren Person zugeordnet
 werden können.
 
-(9) Ist der Empfänger eine nicht-öffentliche Stelle, gilt § 38 des
-Bundesdatenschutzgesetzes mit der Maßgabe, daß die Aufsichtsbehörde
-die Ausführung der Vorschriften über den Datenschutz auch dann
-überwacht, wenn keine hinreichenden Anhaltspunkte für eine Verletzung
-dieser Vorschriften vorliegen oder wenn der Empfänger die
-personenbezogenen Daten nicht in Dateien verarbeitet.
+(9) Ist der Empfänger eine nicht-öffentliche Stelle, so überwachen die
+Aufsichtsbehörden der Länder die Anwendung der Vorschriften über den
+Datenschutz gemäß § 40 Absatz 1 des Bundesdatenschutzgesetzes auch
+insoweit, als der Anwendungsbereich nach Artikel 2 Absatz 1 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018,
+S. 2) in der jeweils geltenden Fassung nicht eröffnet ist.
 
-(10) Soweit Datenbestände durch Verwaltungsakt des
-Bundesversicherungsamtes den gewerblichen Berufsgenossenschaften
-zugewiesen worden sind, dürfen darin enthaltene Sozialdaten von den
-gewerblichen Berufsgenossenschaften an die Bundesanstalt für
-Arbeitsschutz und Arbeitsmedizin, das Bundesamt für Strahlenschutz und
-an andere wissenschaftliche Forschung betreibende öffentliche oder
-private Stellen unter den Voraussetzungen des Absatzes 4 Satz 1 Nr. 2
-und des Absatzes 5 übermittelt werden. Insoweit gelten die Absätze 6
-bis 9. Vor einer Entscheidung über eine Übermittlung an Dritte haben
-sich die gewerblichen Berufsgenossenschaften mit der Bundesanstalt für
+(10) Soweit Datenbestände durch Verwaltungsakt des Bundesamtes für
+Soziale Sicherung den gewerblichen Berufsgenossenschaften zugewiesen
+worden sind, dürfen darin enthaltene Sozialdaten von den gewerblichen
+Berufsgenossenschaften an die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin, das Bundesamt für Strahlenschutz und an andere
+wissenschaftliche Forschung betreibende öffentliche oder private
+Stellen unter den Voraussetzungen des Absatzes 4 Satz 1 Nr. 2 und des
+Absatzes 5 übermittelt werden. Insoweit gelten die Absätze 6 bis 9.
+Vor einer Entscheidung über eine Übermittlung an Dritte haben sich die
+gewerblichen Berufsgenossenschaften mit der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin über die Erforderlichkeit der
 Übermittlung ins Benehmen zu setzen. Dieser Absatz gilt als andere
-Rechtsvorschrift im Sinne des § 67d Abs. 1 des Zehnten Buches
+Rechtsvorschrift im Sinne des § 67b Absatz 1 des Zehnten Buches
 Sozialgesetzbuch.
 
 
@@ -516,5 +521,5 @@ gleichen Teilen zu übertragen.
 
 Befugnisse und bei deren Auflösung noch nicht erledigte Aufgaben der
 Überleitungsanstalt Sozialversicherung und deren Geschäftsführers
-gehen auf den Präsidenten des Bundesversicherungsamtes über.
+gehen auf den Präsidenten des Bundesamtes für Soziale Sicherung über.
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 898
 
+Geändert durch
+:   Art. 1 V v. 30.12.2016, 2017 I 37
+
 
 
 ## Eingangsformel
@@ -178,7 +181,7 @@ Fertigkeiten und Kenntnisse:
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
-enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
+1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der
 Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
 dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit
@@ -187,8 +190,9 @@ betriebspraktische Besonderheiten die Abweichung erfordern.
 
 ## § 6 Ausbildungsplan
 
-Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
-für die Auszubildenden einen Ausbildungsplan zu erstellen.
+Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der
+Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede
+Auszubildende einen Ausbildungsplan zu erstellen.
 
 
 ## § 7 Berichtsheft
@@ -301,7 +305,10 @@ selbständig planen, dokumentieren und umsetzen sowie Sicherheit,
 Gesundheitsschutz und Hygiene bei der Arbeit berücksichtigen kann.
 Durch das Fachgespräch soll der Prüfling zeigen, dass er die für die
 Aufgaben relevanten fachlichen Hintergründe aufzeigen sowie die
-Vorgehensweise bei der Durchführung der Aufgaben begründen kann.
+Vorgehensweise bei der Durchführung der Aufgaben begründen kann. Bei
+der Aufgabe nach Satz 1 Nummer 4 Buchstabe a ist die Kenntnis der in
+der Anlage 2 enthaltenen tierschutzrechtlichen Vorgaben und deren
+Einhaltung nachzuweisen.
 
 (3) Im schriftlichen Teil der Prüfung soll der Prüfling Aufgaben aus
 folgenden Prüfungsbereichen schriftlich bearbeiten:
@@ -317,18 +324,28 @@ folgenden Prüfungsbereichen schriftlich bearbeiten:
 
 
 
-In den Prüfungsbereichen Warenwirtschaft und Produktion von Fleisch-
-und Wurstwaren sowie küchenfertigen Erzeugnissen und
-Betriebswirtschaftliches Handeln sind insbesondere produktbezogene
-Problemstellungen mit verknüpften planerischen, technologischen,
-mathematischen und hygienebezogenen Sachverhalten zu analysieren, zu
-bewerten und Lösungswege darzustellen. Bei der Aufgabenstellung sind
-die gemäß § 4 Abs. 1 Nr. 18 gewählten Wahlqualifikationseinheiten zu
-berücksichtigen. Für den Prüfungsbereich Wirtschaft und Sozialkunde
-kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen,
-insbesondere aus folgenden Gebieten in Betracht: Allgemeine
-wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs-
-und Arbeitswelt.
+In den Prüfungsbereichen „Warenwirtschaft und Produktion von Fleisch-
+und Wurstwaren sowie küchenfertigen Erzeugnissen“ und
+„Betriebswirtschaftliches Handeln“ sind insbesondere produktbezogene
+Problemstellungen mit verknüpften
+
+1.  hygienebezogenen sowie
+
+
+2.  planerischen, technologischen und mathematischen und
+
+
+3.  tierschutzrechtlichen
+
+
+
+Sachverhalten zu analysieren, zu bewerten und Lösungswege
+darzustellen. Bei der Aufgabenstellung sind die nach § 4 Absatz 1
+Nummer 18 gewählten Wahlqualifikationseinheiten zu berücksichtigen.
+Für den Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben,
+die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus
+folgendem Gebiet „Allgemeine wirtschaftliche und gesellschaftliche
+Zusammenhänge aus der Berufs- und Arbeitswelt“ in Betracht.
 
 (4) Für den schriftlichen Teil der Prüfung ist von folgenden
 zeitlichen Höchstwerten auszugehen:
@@ -411,10 +428,12 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5 Satz 1)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
 
-(Fundstelle: BGBl. I 2005, 901 - 905)
+(Fundstelle: BGBl. I 2005, 901 - 905;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 **Abschnitt I: Pflichtqualifikationen gemäß § 3 Abs. 1 Nr. 1**
 ----------------------------------------------------------------------
 ---------
@@ -745,8 +764,12 @@ I               I    der Arbeitssicherheit und der    I     I     I
 I               I    Auswirkungen auf die Fleisch-    I     I     I
 I               I    qualität treiben oder            I     I     I
 I               I    transportieren                   I     I     I
-I               I d) Schlachtvorgang vorbereiten      I     I     I
-I               I    und durchführen                  I     I     I
+I               I d) Schlachtvorgang mit unterschiedlichen  I     I
+I               I    Betäubungsverfahren und an       I     I     I
+I               I    unterschiedlichen Tierkategorien I     I     I
+I               I    unter Berücksichtigung des       I     I     I
+I               I    Tierschutzes und der Anlage 2    I     I     I
+I               I    vorbereiten und durchführen      I     I     I
 I               I e) Schlachttierkörper den Handels-  I     I     I
 16
 I               I    klassen zuordnen                 I     I     I
@@ -857,4 +880,121 @@ I               I h) Verpackungsprozesse dokumentieren      I     I
 I               I    und Kontrollen durchführen       I     I     I
 ----------------------------------------------------------------------
 ---------
+
+(zu § 9 Absatz 2 Satz 4)
+
+## Anlage 2 Regelung zur Prüfung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Anhang IV der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1, L 326 vom 11.11.2014, S. 6)
+
+(Fundstelle: BGBl. I 2017, 38)
+
+*    *   Tätigkeiten
+
+    *   Bei der Prüfung zu behandelnde Themen
+
+
+*    *   Alle nachfolgenden Tätigkeiten
+
+    *   Verhalten der Tiere, Leiden der Tiere, Wahrnehmungs- und
+        Empfindungsvermögen der Tiere, Stress der Tiere
+
+
+*    *   1.
+
+    *   Handhabung und Pflege von Tieren vor ihrer Ruhigstellung
+
+    *   praktische Aspekte der Handhabung und Ruhigstellung von Tieren
+
+
+*    *   2.
+
+    *   Ruhigstellung von Tieren zum Zweck der Betäubung oder Tötung
+
+    *   Kenntnis der Gebrauchsanweisungen der Hersteller für den Typ der
+        Geräte, die im Falle der Ruhigstellung mit mechanischen Mitteln
+        verwendet werden
+
+
+*    *   3.
+
+    *   Betäubung von Tieren
+
+    *   a)
+
+    *   praktische Aspekte von Betäubungsverfahren und Kenntnis der
+        Gebrauchsanweisungen der Hersteller für den Typ der verwendeten
+        Betäubungsgeräte
+
+
+*    *
+    *
+    *   b)
+
+    *   Ersatzverfahren zur Betäubung und Tötung
+
+
+*    *
+    *
+    *   c)
+
+    *   grundlegende Instandhaltung und Reinigung von Gerät zur Betäubung und
+        Tötung
+
+
+*    *   4.
+
+    *   Bewertung der Wirksamkeit der Betäubung
+
+    *   Wirksamkeit der Betäubung und von Ersatzverfahren zur Betäubung und
+        Tötung überwachen
+
+
+*    *   5.
+
+    *   Einhängen und Hochziehen lebender Tiere
+
+    *   a)
+
+    *   praktische Aspekte der Handhabung und Ruhigstellung von Tieren
+
+
+*    *
+    *
+    *   b)
+
+    *   Überwachung der Wirksamkeit der Betäubung
+
+
+*    *   6.
+
+    *   Entbluten lebender Tiere
+
+    *   a)
+
+    *   Wirksamkeit der Betäubung und des Fehlens von Lebenszeichen überwachen
+
+
+*    *
+    *
+    *   b)
+
+    *   angemessene Verwendung und Instandhaltung von Entblutungsmessern
+
+
+*    *   7.
+
+    *   Schlachtung
+
+    *   a)
+
+    *   angemessene Verwendung und Instandhaltung von Entblutungsmessern
+
+
+*    *
+    *
+    *   b)
+
+    *   Überwachung des Fehlens von Lebenszeichen
+
+
+
 

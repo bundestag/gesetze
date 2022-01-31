@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2730
 
+Geändert durch
+:   Art. 2 Abs. 9 G v. 1.4.2015 I 434
+
 
 ## Eingangsformel
 
@@ -174,7 +177,7 @@ der Absätze 1 und 2 ein Abschlag von 99 Prozent vorzunehmen. Gleiches
 gilt, wenn in einem Tarif Krankentagegeld oder Krankenhaustagegeld
 zusammen mit anderen Leistungen versichert ist. § 1 Absatz 2 Satz 1
 bleibt unberührt. Für Krankentagegeld, das zusammen mit anderen
-Leistungen in dem Basistarif im Sinne des § 12 Absatz 1a des
+Leistungen in dem Basistarif im Sinne des § 152 Absatz 1 des
 Versicherungsaufsichtsgesetzes versichert ist, ist ungeachtet der
 vorstehenden Regelungen von dem für den Basistarif geleisteten Beitrag
 ein Abschlag in Höhe von vier Prozent vorzunehmen.

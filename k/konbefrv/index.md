@@ -17,11 +17,14 @@ Fundstelle
 :   BGBl I: 1991, 2122
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 2 G v. 25.5.2009 I 1102
+:   Art. 8 Abs. 6 G v. 17.7.2015 I 1245
 
 Stand: Die V tritt gem. § 4 Abs. 1 Satz 2 idF d. Art. 1 Nr. 1 V v. 9.6.1993 I 916 mit Ablauf des 31.12.1996 außer Kraft.
 Die geltung der v ist durch
 :   § 4 Abs. 1 idF d. Art. 1 Nr. 3 Buchst. a V v. 28.10.1996 I 1862 über den 31.12.1996 hinaus verlängert worden.
+
+V aufgeh. durch
+:   Art. 9 Satz 2 G v. 17.7.2015 I 1245 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -168,7 +171,6 @@ Hinterlegung in dem anderen Mitgliedstaat beizufügen.
 
 ## § 4
 
-(1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-(2) (weggefallen)
+Diese Verordnung ist letztmalig anzuwenden auf Konzernabschlüsse für
+Geschäftsjahre, die vor dem 1. Januar 2016 beginnen.
 

@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Conterganstiftung für behinderte Menschen
+Title: Gesetz über die Conterganstiftung
 jurabk: ContStifG
 layout: default
 origslug: contstifg
@@ -7,7 +7,7 @@ slug: contstifg
 
 ---
 
-# Gesetz über die Conterganstiftung für behinderte Menschen (ContStifG)
+# Gesetz über die Conterganstiftung (ContStifG)
 
 Ausfertigungsdatum
 :   2005-10-13
@@ -17,6 +17,12 @@ Fundstelle
 
 Neugefasst durch
 :   Bek. v. 25.6.2009 I 1537
+
+Zuletzt geändert durch
+:   Art. 1 G v. 12.8.2020 I 1887
+
+Änderung durch
+:   Art. 1 G v. 9.7.2021 I 2512 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -29,15 +35,16 @@ Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S.
 2045) (im Folgenden: Errichtungsgesetz), zuletzt geändert durch
 Artikel 19 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022),
 errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen
-"Conterganstiftung für behinderte Menschen".
+"Conterganstiftung".
 
 
 ### § 2 Stiftungszweck
 
-Zweck der Stiftung ist es, behinderten Menschen, deren Fehlbildungen
-mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH,
-Aachen (früher Chemie Grünenthal GmbH in Stolberg), durch die Mutter
-während der Schwangerschaft in Verbindung gebracht werden können,
+Zweck der Stiftung ist es, Menschen mit Behinderung, deren
+Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der
+Grünenthal GmbH, Aachen (früher Chemie Grünenthal GmbH in Stolberg),
+durch die Mutter während der Schwangerschaft in Verbindung gebracht
+werden können,
 
 1.  Leistungen zu erbringen und
 
@@ -66,15 +73,34 @@ Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
     die notwendigen Verwaltungskosten zur Verfügung stellt;
 
 
-2.  einer Zuwendung von 50 Millionen Euro der Grünenthal GmbH, die am 15.
+2.  den Mitteln in Höhe von 30 Millionen Euro jährlich, die der Bund für
+    die Leistungen zur Deckung spezifischer Bedarfe und zur Förderung
+    multidisziplinärer medizinischer Kompetenzzentren zur Verfügung
+    stellt; die sonstigen Kosten im Zusammenhang mit diesen Leistungen und
+    der Förderung der Kompetenzzentren einschließlich der
+    Verwaltungskosten werden ebenfalls aus diesem Betrag gezahlt;
+
+
+3.  einer Zuwendung von 50 Millionen Euro der Grünenthal GmbH, die am 15.
     Juli 2009 zu leisten ist;
 
 
-3.  den Mitteln in Höhe von 51 129 000 Euro, die der Bund nach § 4 Abs. 1
-    Nr. 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+4.  den Mitteln in Höhe von 51 129 000 Euro, die der Bund nach § 4 Abs. 1
+    Nr. 1 des Errichtungsgesetzes zur Verfügung gestellt hat, sowie aus
+    den Mitteln, die der Bund für bis zum Ablauf des 30. Juni 2022 noch
+    nicht rechtskräftig beschiedene Anträge gemäß § 13 Absatz 4 Satz 4 zur
+    Verfügung stellt;
 
 
-4.  den Zuwendungen nach Absatz 2
+5.  dem Kapitalstock in Höhe von 1,5 Millionen Euro, die der Bund nach § 4
+    Absatz 1 Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+
+
+6.  Mitteln in Höhe von 5 Millionen Euro, die der Bund nach § 4 Absatz 1
+    Nummer 1 des Errichtungsgesetzes zur Verfügung gestellt hat;
+
+
+7.  den Zuwendungen nach Absatz 2
 
 
 
@@ -84,9 +110,9 @@ und dem daraus erwirtschafteten Vermögen.
 anzunehmen. Die Stiftung wirbt um weitere Zuwendungen bei Dritten.
 
 
-### § 5 Organe der Stiftung
+### § 5 Organe der Stiftung, Haftung
 
-Organe der Stiftung sind
+(1) Organe der Stiftung sind
 
 1.  der Stiftungsrat,
 
@@ -95,6 +121,16 @@ Organe der Stiftung sind
 
 
 
+
+(2) Ehrenamtliche Organmitglieder haften gegenüber der Stiftung für
+einen Schaden, den sie bei der Wahrnehmung ihrer Pflichten verursacht
+haben, nur, wenn sie den Schaden vorsätzlich oder grob fahrlässig
+verursacht haben. Wenn ehrenamtliche Organmitglieder von Dritten auf
+Ersatz eines Schadens, den sie bei Wahrnehmung ihrer Pflichten
+verursacht haben, in Anspruch genommen werden, stellt die Stiftung sie
+von der Haftung frei, es sei denn, sie haben den Schaden grob
+fahrlässig oder vorsätzlich verursacht. Die Sätze 1 und 2 gelten
+entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
 
 ### § 6 Stiftungsrat
@@ -124,19 +160,34 @@ ein Nachfolger benannt oder berufen. Wiederholte Benennung oder
 Berufung ist zulässig.
 
 (4) Die Mitglieder des Stiftungsrates sind ehrenamtlich tätig; sie
-haben Anspruch auf Ersatz ihrer notwendigen Auslagen.
+haben Anspruch auf Ersatz ihrer notwendigen Auslagen. Mitglieder des
+Stiftungsrates, die selbst leistungsberechtigt im Sinne dieses
+Gesetzes sind, haben Anspruch auf Ersatz ihrer notwendigen
+Assistenzkosten.
 
 (5) Der Stiftungsrat arbeitet auf der Grundlage seiner
-Geschäftsordnung; Änderungen beschließt er mit einfacher Mehrheit.
+Geschäftsordnung; Änderungen beschließt er mit einfacher Mehrheit. Die
+Sitzungen des Stiftungsrates sind öffentlich. Nichtöffentlich darf nur
+verhandelt werden, wenn es das öffentliche Wohl oder berechtigte
+Interessen Einzelner erfordern; über Gegenstände, bei denen diese
+Voraussetzungen vorliegen, muss nichtöffentlich verhandelt werden. In
+nichtöffentlicher Sitzung nach Satz 2 gefasste Beschlüsse sind nach
+Wiederherstellung der Öffentlichkeit oder, wenn dies ungeeignet ist,
+in der nächsten öffentlichen Sitzung bekannt zu geben, sofern nicht
+das öffentliche Wohl oder berechtigte Interessen Einzelner
+entgegenstehen.
 
 (6) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die
 zum Aufgabenbereich der Stiftung gehören. Er überwacht die Tätigkeit
 des Stiftungsvorstandes. Das Nähere regelt die Satzung.
 
-(7) Der Stiftungsrat stellt Richtlinien für die Verwendung der Mittel
-auf, soweit die Verwendung nicht bereits durch dieses Gesetz
-festgelegt ist; diese Richtlinien bedürfen der Genehmigung des
-Bundesministeriums für Familie, Senioren, Frauen und Jugend.
+(7) Der Stiftungsrat ist beschlussfähig, wenn die Hälfte der
+Mitglieder anwesend ist. Ist eine Angelegenheit wegen
+Beschlussunfähigkeit zurückgestellt worden und wird der Stiftungsrat
+zur Verhandlung über dieselbe Angelegenheit einberufen, so ist er ohne
+Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig. Bei
+der zweiten Einberufung muss die oder der Vorsitzende ausdrücklich auf
+diese Bestimmung hinweisen.
 
 (8) Der Stiftungsrat ist für Wahlen nach Absatz 2 und Beschlüsse nach
 Absatz 5 beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist.
@@ -163,7 +214,10 @@ Nachfolgerin oder ein Nachfolger bestellt. Wiederholte Bestellung ist
 zulässig.
 
 (4) Die Mitglieder des Stiftungsvorstandes sind ehrenamtlich tätig;
-sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen.
+sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen. Mitglieder
+des Stiftungsvorstandes, die selbst leistungsberechtigt im Sinne
+dieses Gesetzes sind, haben Anspruch auf Ersatz ihrer notwendigen
+Assistenzkosten.
 
 (5) Der Stiftungsvorstand führt die Beschlüsse des Stiftungsrates aus
 und führt die Geschäfte der Stiftung. Zu diesen Geschäften gehören
@@ -219,18 +273,26 @@ erbringen. Es sind zu verwenden:
 1.  für die jährlichen Sonderzahlungen an die leistungsberechtigten
     Personen nach den §§ 12 und 13
 
-    a)  die Mittel nach § 4 Abs. 1 Nr. 2 und die daraus erzielten Erträge
+    a)  die Mittel nach § 4 Abs. 1 Nummer 3 und die daraus erzielten Erträge
         sowie
 
 
-    b)  die Mittel nach § 4 Abs. 1 Nr. 3 in Höhe von 50 Millionen Euro und die
-        daraus seit dem 1. Januar 2009 erzielten Erträge;
+    b)  die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und
+        die daraus seit dem 1. Januar 2009 erzielten Erträge;
 
 
 
 
 
-2.  für die übrigen Leistungen nach diesem Abschnitt die Mittel nach § 4
+2.  für die Leistungen zur Deckung spezifischer Bedarfe und für die
+    Förderung multidisziplinärer medizinischer Kompetenzzentren
+    einschließlich der sonstigen Kosten sowie der Verwaltungskosten im
+    Zusammenhang mit den Leistungen zur Deckung spezifischer Bedarfe und
+    der Förderung der Kompetenzzentren die Mittel nach § 4 Absatz 1 Nummer
+    2;
+
+
+3.  für die übrigen Leistungen nach diesem Abschnitt die Mittel nach § 4
     Abs. 1 Nr. 1 mit Ausnahme der Mittel für die notwendigen
     Verwaltungskosten.
 
@@ -243,7 +305,7 @@ erbringen. Es sind zu verwenden:
 (1) Leistungen wegen Fehlbildungen, die mit der Einnahme
 thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen, durch die
 Mutter während der Schwangerschaft in Verbindung gebracht werden
-können, werden an die behinderten Menschen gewährt, die bei
+können, werden an die Leistungsberechtigten gewährt, die bei
 Inkrafttreten des Errichtungsgesetzes lebten, und nach Maßgabe des §
 13 Abs. 5 Satz 2 an deren Erbinnen und Erben.
 
@@ -253,29 +315,60 @@ Conterganrente und eine Kapitalentschädigung für die Zeit ab 1. Juli
 2009 beantragt werden.
 
 
-### § 13 Art und Umfang der Leistungen an behinderte Menschen
+### § 13 Art und Umfang der Leistungen
 
-(1) Den in § 12 genannten Personen stehen als Leistungen
-Kapitalentschädigung und vorbehaltlich des Absatzes 2 Satz 3
-lebenslängliche Conterganrente sowie eine jährliche Sonderzahlung zu,
-die erstmals für das Jahr 2009 gewährt wird. Die jährlichen
-Sonderzahlungen werden nur geleistet, soweit dafür Mittel nach § 11
-Satz 2 Nr. 1 im Stiftungsvermögen vorhanden sind.
+(1) Den in § 12 genannten leistungsberechtigten Personen stehen als
+Leistungen zu:
 
-(2) Die Höhe der Kapitalentschädigung, der Conterganrente und der
-jährlichen Sonderzahlung richtet sich nach der Schwere des
-Körperschadens und der hierdurch hervorgerufenen
-Körperfunktionsstörungen. Ab dem Inkrafttreten dieses Gesetzes beträgt
-die Kapitalentschädigung mindestens 511 Euro und höchstens
-12 782 Euro,              die monatliche Conterganrente mindestens 242
-Euro und höchstens
-1 090 Euro.              In leichten Fällen sind die Leistungen auf
-die Kapitalentschädigung zu beschränken. Die Höhe der Conterganrente
-wird durch das Bundesministerium für Familie, Senioren, Frauen und
-Jugend jeweils entsprechend dem Prozentsatz angepasst, um den sich die
-Renten der gesetzlichen Rentenversicherung verändern. Die Anpassung
-nach Satz 4 erfolgt jeweils zum gleichen Zeitpunkt, zu dem die Renten
-der gesetzlichen Rentenversicherung angepasst werden.
+1.  eine einmalige Kapitalentschädigung,
+
+
+2.  eine lebenslängliche Conterganrente vorbehaltlich des Absatzes 2 Satz
+    3,
+
+
+3.  jährliche Leistungen zur Deckung spezifischer Bedarfe und
+
+
+4.  eine jährliche Sonderzahlung, die erstmals für das Jahr 2009 und
+    letztmalig für das Jahr 2022 gewährt wird.
+
+
+
+Die jährlichen Leistungen zur Deckung spezifischer Bedarfe, zur
+Förderung multidisziplinärer medizinischer Kompetenzzentren und die
+jährlichen Sonderzahlungen werden nur geleistet, soweit dafür Mittel
+nach § 11 Satz 2 Nummer 1 und 2 im Stiftungsvermögen vorhanden sind.
+Als jährliche Sonderzahlung werden im Jahr 2022 die gemäß § 11 Satz 2
+Nummer 1 insgesamt für die jährlichen Sonderzahlungen zur Verfügung
+stehenden Mittel bis einschließlich 30. Juni 2022 an die
+leistungsberechtigten Personen ausgezahlt.
+
+(2) Die Höhe der in Absatz 1 genannten Leistungen richtet sich nach
+der Schwere des Körperschadens und der hierdurch hervorgerufenen
+Körperfunktionsstörungen und liegt
+
+1.  bei der einmaligen Kapitalentschädigung zwischen 1 278 Euro und 12 782
+    Euro,
+
+
+2.  bei der monatlichen Conterganrente zwischen 662 Euro und 7 480 Euro,
+
+
+3.  bei den jährlichen Leistungen zur Deckung spezifischer Bedarfe
+    zwischen 876 Euro und 9 900 Euro. Zusätzlich erhält jede
+    leistungsberechtigte Person einen jährlichen Sockelbetrag von 4 800
+    Euro.
+
+
+
+In leichten Fällen sind die Leistungen auf die Kapitalentschädigung zu
+beschränken. Die Höhe der Conterganrente wird durch das
+Bundesministerium für Familie, Senioren, Frauen und Jugend jeweils
+entsprechend dem Prozentsatz angepasst, um den sich die Renten der
+gesetzlichen Rentenversicherung verändern. Die Anpassung nach Satz 4
+erfolgt jeweils zum gleichen Zeitpunkt, zu dem die Renten der
+gesetzlichen Rentenversicherung angepasst werden.
 
 (3) Auf Antrag ist die Conterganrente zu kapitalisieren, soweit der
 Betrag zum Erwerb oder zur wirtschaftlichen Stärkung eigenen
@@ -292,10 +385,10 @@ Verfügungsbeschränkung gemäß § 75 Abs. 1 Satz 2 bis 4 des
 Bundesversorgungsgesetzes in das Grundbuch trägt die
 leistungsberechtigte Person. Darüber hinaus ist die Conterganrente auf
 Antrag zu kapitalisieren, wenn dies im berechtigten wirtschaftlichen
-Interesse des behinderten Menschen liegt. Im Übrigen kann die
+Interesse der leistungsberechtigten Person liegt. Im Übrigen kann die
 Conterganrente auf Antrag teilweise kapitalisiert werden, wenn dies im
-Interesse des behinderten Menschen liegt. Die Kapitalisierung ist auf
-die für einen Zeitraum von höchstens zehn Jahren zustehende
+Interesse der leistungsberechtigten Person liegt. Die Kapitalisierung
+ist auf die für einen Zeitraum von höchstens zehn Jahren zustehende
 Conterganrente beschränkt. Der Anspruch auf Conterganrente, an deren
 Stelle die Kapitalabfindung tritt, erlischt für die Dauer des
 Zeitraumes, für den die Kapitalabfindung gewährt wird, mit Ablauf des
@@ -304,7 +397,16 @@ Monats, der auf den Monat der Auszahlung der Abfindung folgt.
 (4) Die Zahlungen der Conterganrente beginnen frühestens mit dem
 Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem
 Inkrafttreten des Errichtungsgesetzes gestellt, so wird die
-Conterganrente vom Zeitpunkt des Inkrafttretens an gewährt.
+Conterganrente vom Zeitpunkt des Inkrafttretens an gewährt. Die
+jährlichen Sonderzahlungen beginnen nach Maßgabe des Absatzes 1 Satz 1
+mit dem Jahr, in dem der Antrag auf Conterganrente gestellt worden
+ist. Für die Auszahlung der Mittel für die jährlichen Sonderzahlungen
+nach Absatz 1 Satz 3 werden Anträge auf Leistungen nach diesem Gesetz
+oder Anträge auf Erhöhung der Leistungen nach diesem Gesetz
+berücksichtigt, die bis einschließlich 31. Dezember 2021 gestellt
+worden sind. Die Zahlung der jährlichen Leistungen zur Deckung
+spezifischer Bedarfe nach Absatz 1 Satz 1 Nummer 3 beginnt ab dem 1.
+Januar 2017.
 
 (5) Die Ansprüche auf die in Absatz 1 genannten Leistungen können
 nicht übertragen, verpfändet oder gepfändet werden. Vererblich sind
@@ -320,8 +422,10 @@ Umfang der Kapitalisierung der Conterganrente nach Absatz 3 Satz 5 und
 6 sowie über die Art der Berechnung des Kapitalbetrages. In den
 Richtlinien ist insbesondere zu regeln, nach welchen Maßstäben auf der
 Grundlage der zur Verfügung stehenden Mittel Leistungen nach diesem
-Abschnitt zu bemessen sind; diese Richtlinien erlässt das
-Bundesministerium für Familie, Senioren, Frauen und Jugend.
+Abschnitt zu bemessen sind und wie das Verfahren zur Gewährung von
+Leistungen zur Deckung spezifischer Bedarfe auszugestalten ist; diese
+Richtlinien erlässt das Bundesministerium für Familie, Senioren,
+Frauen und Jugend.
 
 (7) An Erhöhungen der Conterganrente nehmen auch leistungsberechtigte
 Personen teil, deren Conterganrente nach Absatz 3 kapitalisiert worden
@@ -340,7 +444,7 @@ Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs
 jährlich zu verzinsen.
 
 
-### § 15 Sonderregelung für Auslandsfälle
+### § 15 Verzicht, Anrechnung von Zahlungen Dritter
 
 (1) Haben die leistungsberechtigte Person oder ihre gesetzlichen
 Vertreter ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des
@@ -355,14 +459,25 @@ unwiderruflich verzichten.
 (2) Auf die Leistungen nach diesem Gesetz werden Zahlungen
 angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate
 bereits von anderen möglicherweise Verantwortlichen geleistet worden
-sind.
+sind. Auf die Kapitalentschädigung und die Conterganrente werden
+Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger
+Präparate von Anderen, insbesondere von ausländischen Staaten,
+geleistet werden.
 
 
 ### § 16 Gang des Verfahrens
 
-(1) Leistungen werden auf Antrag gewährt. Die jährlichen
-Sonderzahlungen werden auch ohne Antrag an die Personen geleistet, die
-eine Conterganrente erhalten.
+(1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von
+Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die
+Ansprüche auf vorsätzlich unrichtigen oder vorsätzlich unvollständigen
+Angaben der leistungsberechtigten Person beruhen. Das Gleiche gilt für
+die Aberkennung von Schadenspunkten, die gemäß Anlage 2 zu den
+Richtlinien für die Gewährung von Leistungen wegen
+Conterganschadensfällen anerkannt wurden. Die Anrechnung von Zahlungen
+gemäß § 15 Absatz 2 bleibt unberührt. Die jährlichen Sonderzahlungen
+und die jährlichen Leistungen zur Deckung spezifischer Bedarfe werden
+auch ohne Antrag an die Personen geleistet, die eine Conterganrente
+erhalten.
 
 (2) Eine aus mindestens fünf Mitgliedern bestehende Kommission, die
 beim Stiftungsvorstand einzurichten ist, entscheidet darüber, ob ein
@@ -398,16 +513,33 @@ des Bewertungsgesetzes.
 
 (1) Bei der Ermittlung oder Anrechnung von Einkommen, sonstigen
 Einnahmen und Vermögen nach anderen Gesetzen, insbesondere dem
-Zweiten, Dritten, Fünften und Zwölften Buch Sozialgesetzbuch und dem
-Bürgerlichen Gesetzbuch, bleiben Leistungen nach diesem Gesetz außer
-Betracht.
+Zweiten, Dritten, Fünften, Neunten und Zwölften Buch Sozialgesetzbuch
+und dem Bürgerlichen Gesetzbuch, bleiben Leistungen nach diesem Gesetz
+außer Betracht.
 
 (2) Verpflichtungen Anderer, insbesondere Unterhaltspflichtiger und
 der Träger der Sozialhilfe oder anderer Sozialleistungen, werden durch
-dieses Gesetz nicht berührt. Auf Rechtsvorschriften beruhende
-Leistungen anderer Stellen, auf die kein Anspruch besteht, dürfen
-nicht deshalb versagt werden, weil nach diesem Gesetz Leistungen
-vorgesehen sind.
+dieses Gesetz nicht berührt. Der Übergang der Unterhaltsansprüche der
+leistungsberechtigten Person gegenüber ihrem Ehegatten, ihrem
+Lebenspartner, ihren Kindern oder ihren Eltern nach § 94 des Zwölften
+Buches Sozialgesetzbuch bedeutet eine unbillige Härte nach § 94 Absatz
+3 Satz 1 Nummer 2 des Zwölften Buches Sozialgesetzbuch. Bei der Hilfe
+nach dem Fünften bis Neunten Kapitel des Zwölften Buches
+Sozialgesetzbuch ist der leistungsberechtigten Person und ihrem nicht
+getrennt lebenden Ehegatten oder Lebenspartner die Aufbringung der
+Mittel aus dem Einkommen nach § 19 Absatz 3, § 87 Absatz 1 und § 88
+des Zwölften Buches Sozialgesetzbuch nicht zuzumuten. Der Einsatz des
+Vermögens der leistungsberechtigten Person und ihres nicht getrennt
+lebenden Ehegatten oder Lebenspartners nach § 19 Absatz 3, § 90 Absatz
+3 Satz 1 des Zwölften Buches Sozialgesetzbuch stellt eine Härte dar.
+Für Eingliederungshilfebezieher nach Teil 2 des Neunten Buches
+Sozialgesetzbuch wird ein Beitrag nach § 92 des Neunten Buches
+Sozialgesetzbuch nicht erhoben. Das gilt auch für die nach diesem
+Gesetz leistungsberechtigten Personen, die nach Inkrafttreten des
+Bundesteilhabegesetzes Leistungen nach § 103 des Neunten Buches
+Sozialgesetzbuch erhalten. Auf Rechtsvorschriften beruhende Leistungen
+anderer Stellen, auf die kein Anspruch besteht, dürfen nicht deshalb
+versagt werden, weil nach diesem Gesetz Leistungen vorgesehen sind.
 
 
 ## Abschnitt 3 - Projektförderung
@@ -418,11 +550,14 @@ vorgesehen sind.
 
 Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
-1.  die Erträge aus den Mitteln nach § 4 Abs. 1 Nr. 3, die nicht unter §
-    11 Satz 2 Nr. 1 fallen;
+1.  die Erträge aus den Mitteln nach § 4 Absatz 1 Nummer 5;
 
 
-2.  Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende
+2.  die Mittel nach § 4 Absatz 1 Nummer 6 und die daraus erzielten
+    Erträge;
+
+
+3.  Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende
     etwas anderes bestimmt hat.
 
 
@@ -470,7 +605,25 @@ Verwaltungsrechtsweg gegeben.
 
 ### § 24 Übergangsvorschrift
 
-Die Amtszeit der beim Inkrafttreten dieses Gesetzes amtierenden
-Mitglieder der Stiftungsorgane endet mit der Bestellung der Mitglieder
-der neuen Stiftungsorgane.
+Soweit die Conterganstiftung Leistungen zur Deckung spezifischer
+Bedarfe nach der bis zum 31. Dezember 2016 geltenden Fassung des
+Gesetzes bewilligt hat, die
+
+1.  nach dem 1. Januar 2017 ausgezahlt werden und
+
+
+2.  zur Deckung spezifischer Bedarfe ab dem 1. Januar 2017 bestimmt sind,
+
+
+
+werden diese auf Leistungen nach § 13 Absatz 1 Satz 1 Nummer 3
+angerechnet.
+
+
+### § 25 Bericht
+
+Die Bundesregierung legt dem Deutschen Bundestag im Abstand von vier
+Jahren einen Bericht über die Auswirkungen dieses Gesetzes sowie über
+die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften
+vor. Der Bericht darf keine personenbezogenen Daten enthalten.
 

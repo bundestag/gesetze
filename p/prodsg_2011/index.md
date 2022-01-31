@@ -13,113 +13,103 @@ Ausfertigungsdatum
 :   2011-11-08
 
 Fundstelle
-:   BGBl I: 2011, 2179 (2012 I 131)
+:   BGBl I: 2011, 2178, 2179 (2012 I 131)
 
-[^BJNR217900011_01]:     Dieses Gesetz dient der Umsetzung
-    1\.                                                         der
-    Richtlinie 2001/95/EG des Europäischen Parlaments und des Rates vom 3.
-    Dezember 2001 über die allgemeine Produktsicherheit (ABl. L 11 vom
-    15\.1.2002, S. 4), die zuletzt durch die Verordnung (EG) Nr. 596/2009
-    (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist,
+Geändert durch
+:   Art. 435 V v. 31.8.2015 I 1474
+
+[^BJNR217900011_01]:     Dieses Gesetz dient der Umsetzung 1.der Richtlinie 2001/95/EG des
+    Europäischen Parlaments und des Rates vom 3. Dezember 2001 über die
+    allgemeine Produktsicherheit (ABl. L 11 vom 15.1.2002, S. 4), die
+    zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom
+    18\.7.2009, S. 14) geändert worden ist,
 
 
-    2\.                                                         der
-    Richtlinie 2006/95/EG des Europäischen Parlaments und des Rates vom
-    12\. Dezember 2006 zur Angleichung der Rechtsvorschriften der
+    2\.der Richtlinie 2006/95/EG des Europäischen Parlaments und des Rates
+    vom 12. Dezember 2006 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten betreffend elektrische Betriebsmittel zur Verwendung
     innerhalb bestimmter Spannungsgrenzen (ABl. L 374 vom 27.12.2006, S.
     10),
 
 
-    3\.                                                         der
-    Richtlinie 94/9/EG des Europäischen Parlaments und des Rates vom 23.
-    März 1994 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten
-    für Geräte und Schutzsysteme zur bestimmungsgemäßen Verwendung in
-    explosionsgefährdeten Bereichen (ABl. L 100 vom 19.4.1994, S. 1, L 257
-    vom 10.10.1996, S. 44, L 21 vom 26.1.2000, S. 42), die durch die
-    Verordnung (EG) Nr. 1882/2003 (ABl. L 284 vom 31.10.2003, S. 1)
-    geändert worden ist,
+    3\.der Richtlinie 94/9/EG des Europäischen Parlaments und des Rates vom
+    23\. März 1994 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten für Geräte und Schutzsysteme zur bestimmungsgemäßen
+    Verwendung in explosionsgefährdeten Bereichen (ABl. L 100 vom
+    19\.4.1994, S. 1, L 257 vom 10.10.1996, S. 44, L 21 vom 26.1.2000, S.
+    42), die durch die Verordnung (EG) Nr. 1882/2003 (ABl. L 284 vom
+    31\.10.2003, S. 1) geändert worden ist,
 
 
-    4\.                                                         der
-    Richtlinie 2009/105/EG des Europäischen Parlaments und des Rates vom
-    16\. September 2009 über einfache Druckbehälter (ABl. L 264 vom
+    4\.der Richtlinie 2009/105/EG des Europäischen Parlaments und des Rates
+    vom 16. September 2009 über einfache Druckbehälter (ABl. L 264 vom
     8\.10.2009, S. 12),
 
 
-    5\.                                                         der
-    Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen (ABl. L
-    147 vom 9.6.1975, S. 40, L 220 vom 8.8.1987, S. 22), die zuletzt durch
+    5\.der Richtlinie 75/324/EWG des Rates vom 20. Mai 1975 zur Angleichung
+    der Rechtsvorschriften der Mitgliedstaaten über Aerosolpackungen (ABl.
+    L 147 vom 9.6.1975, S. 40, L 220 vom 8.8.1987, S. 22), die zuletzt
+    durch die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S.
+    109) geändert worden ist,
+
+
+    6\.der Richtlinie 97/23/EG des Europäischen Parlaments und des Rates
+    vom 29. Mai 1997 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten über Druckgeräte (ABl. L 181 vom 9.7.1997, S. 1, L 265
+    vom 9.10.2009, S. 110), die durch die Verordnung (EG) Nr. 1882/2003
+    (ABl. L 284 vom 31.10.2003, S. 1) geändert worden ist,
+
+
+    7\.der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates
+    vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie
+    95/16/EG (ABl. L 157 vom 9.6.2006, S. 24, L 76 vom 16.3.2007, S. 35),
+    die zuletzt durch die Richtlinie 2009/127/EG (ABl. L 310 vom
+    25\.11.2009, S. 29) geändert worden ist,
+
+
+    8\.der Richtlinie 95/16/EG des Europäischen Parlaments und des Rates
+    vom 29. Juni 1995 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten über Aufzüge (ABl. L 213 vom 7.9.1995, S. 1), die
+    zuletzt durch die Richtlinie 2006/42/EG (ABl. L 157 vom 9.6.2006, S.
+    24) geändert worden ist,
+
+
+    9\.der Richtlinie 2000/14/EG des Europäischen Parlaments und des Rates
+    vom 8. Mai 2000 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten über umweltbelastende Geräuschemissionen von zur
+    Verwendung im Freien vorgesehenen Geräten und Maschinen (ABl. L 162
+    vom 3.7.2000, S. 1, L 311 vom 28.11.2001, S. 50), die zuletzt durch
     die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom 31.3.2009, S. 109)
     geändert worden ist,
 
 
-    6\.                                                         der
-    Richtlinie 97/23/EG des Europäischen Parlaments und des Rates vom 29.
-    Mai 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten
-    über Druckgeräte (ABl. L 181 vom 9.7.1997, S. 1, L 265 vom 9.10.2009,
-    S. 110), die durch die Verordnung (EG) Nr. 1882/2003 (ABl. L 284 vom
-    31\.10.2003, S. 1) geändert worden ist,
+    10\.der Richtlinie 2009/142/EG des Europäischen Parlaments und des
+    Rates vom 30. November 2009 über Gasverbrauchseinrichtungen (ABl. L
+    330 vom 16.12.2009, S. 10),
 
 
-    7\.                                                         der
-    Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom
-    17\. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG
-    (ABl. L 157 vom 9.6.2006, S. 24, L 76 vom 16.3.2007, S. 35), die
-    zuletzt durch die Richtlinie 2009/127/EG (ABl. L 310 vom 25.11.2009,
-    S. 29) geändert worden ist,
-
-
-    8\.                                                         der
-    Richtlinie 95/16/EG des Europäischen Parlaments und des Rates vom 29.
-    Juni 1995 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten
-    über Aufzüge (ABl. L 213 vom 7.9.1995, S. 1), die zuletzt durch die
-    Richtlinie 2006/42/EG (ABl. L 157 vom 9.6.2006, S. 24) geändert worden
-    ist,
-
-
-    9\.                                                         der
-    Richtlinie 2000/14/EG des Europäischen Parlaments und des Rates vom 8.
-    Mai 2000 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten
-    über umweltbelastende Geräuschemissionen von zur Verwendung im Freien
-    vorgesehenen Geräten und Maschinen (ABl. L 162 vom 3.7.2000, S. 1, L
-    311 vom 28.11.2001, S. 50), die zuletzt durch die Verordnung (EG) Nr.
-    219/2009 (ABl. L 87 vom 31.3.2009, S. 109) geändert worden ist,
-
-
-    10\.                                                         der
-    Richtlinie 2009/142/EG des Europäischen Parlaments und des Rates vom
-    30\. November 2009 über Gasverbrauchseinrichtungen (ABl. L 330 vom
-    16\.12.2009, S. 10),
-
-
-    11\.                                                         der
-    Richtlinie 89/686/EWG des Rates vom 21. Dezember 1989 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten für persönliche
+    11\.der Richtlinie 89/686/EWG des Rates vom 21. Dezember 1989 zur
+    Angleichung der Rechtsvorschriften der Mitgliedstaaten für persönliche
     Schutzausrüstungen (ABl. L 399 vom 30.12.1989, S. 18), die zuletzt
     durch die Verordnung (EG) Nr. 1882/2003 (ABl. L 284 vom 31.10.2003, S.
     1) geändert worden ist,
 
 
-    12\.                                                         der
-    Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom
-    18\. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom
+    12\.der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates
+    vom 18. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom
     30\.6.2009, S. 1),
 
 
-    13\.                                                         der
-    Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16.
-    Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der
-    Mitgliedstaaten über Sportboote (ABl. L 164 vom 30.6.1994, S. 15, L
-    127 vom 10.6.1995, S. 27, L 41 vom 15.2.2000, S. 20), die zuletzt
-    durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S.
-    1) geändert worden ist,
+    13\.der Richtlinie 94/25/EG des Europäischen Parlaments und des Rates
+    vom 16. Juni 1994 zur Angleichung der Rechts- und
+    Verwaltungsvorschriften der Mitgliedstaaten über Sportboote (ABl. L
+    164 vom 30.6.1994, S. 15, L 127 vom 10.6.1995, S. 27, L 41 vom
+    15\.2.2000, S. 20), die zuletzt durch die Verordnung (EG) Nr. 1137/2008
+    (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist,
 
 
-    14\.                                                         des
-    Beschlusses Nr. 768/2008/EG des Europäischen Parlaments und des Rates
-    vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die
+    14\.des Beschlusses Nr. 768/2008/EG des Europäischen Parlaments und des
+    Rates vom 9. Juli 2008 über einen gemeinsamen Rechtsrahmen für die
     Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG
     des Rates (ABl. L 218 vom 13.8.2008, S. 82).
 
@@ -715,12 +705,12 @@ besondere Verwendung hinweist.
 ### § 8 Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Bundesministerien für Arbeit und Soziales, für Wirtschaft und
-Technologie, für Ernährung, Landwirtschaft und Verbraucherschutz, für
-Umwelt, Naturschutz und Reaktorsicherheit, für Verkehr, Bau und
-Stadtentwicklung und der Verteidigung werden ermächtigt, jeweils für
-ihren Zuständigkeitsbereich im Einvernehmen mit den anderen zuvor
-genannten Bundesministerien für Produkte nach Anhörung des Ausschusses
-für Produktsicherheit und mit Zustimmung des Bundesrates
+Energie, für Ernährung und Landwirtschaft, für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit, für Verkehr und digitale Infrastruktur und
+der Verteidigung werden ermächtigt, jeweils für ihren
+Zuständigkeitsbereich im Einvernehmen mit den anderen zuvor genannten
+Bundesministerien für Produkte nach Anhörung des Ausschusses für
+Produktsicherheit und mit Zustimmung des Bundesrates
 Rechtsverordnungen zum Schutz der Sicherheit und Gesundheit von
 Personen, zum Schutz der Umwelt sowie sonstiger Rechtsgüter vor
 Risiken, die von Produkten ausgehen, zu erlassen, auch um
@@ -1836,15 +1826,14 @@ Verbände, insbesondere der Hersteller, der Händler und der
 Verbraucher, angehören. Die Mitgliedschaft ist ehrenamtlich.
 
 (4) Das Bundesministerium für Arbeit und Soziales beruft im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz und dem Bundesministerium für Wirtschaft und
-Technologie die Mitglieder des Ausschusses und für jedes Mitglied
-einen Stellvertreter oder eine Stellvertreterin. Der Ausschuss gibt
-sich eine Geschäftsordnung und wählt den Vorsitzenden oder die
-Vorsitzende aus seiner Mitte. Die Zahl der Mitglieder soll 21 nicht
-überschreiten. Die Geschäftsordnung und die Wahl des oder der
-Vorsitzenden bedürfen der Zustimmung des Bundesministeriums für Arbeit
-und Soziales.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft und dem Bundesministerium für Wirtschaft und Energie
+die Mitglieder des Ausschusses und für jedes Mitglied einen
+Stellvertreter oder eine Stellvertreterin. Der Ausschuss gibt sich
+eine Geschäftsordnung und wählt den Vorsitzenden oder die Vorsitzende
+aus seiner Mitte. Die Zahl der Mitglieder soll 21 nicht überschreiten.
+Die Geschäftsordnung und die Wahl des oder der Vorsitzenden bedürfen
+der Zustimmung des Bundesministeriums für Arbeit und Soziales.
 
 (5) Die Bundesministerien sowie die für Sicherheit, Gesundheit und
 Umwelt zuständigen obersten Landesbehörden und Bundesoberbehörden
@@ -1973,8 +1962,8 @@ bestimmt ist, von zugelassenen Überwachungsstellen vorgenommen.
 
 
 3.  der Eisenbahnen des Bundes, soweit die Anlagen dem Eisenbahnbetrieb
-    dienen, kann das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung
+    dienen, kann das Bundesministerium für Verkehr und digitale
+    Infrastruktur
 
 
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.1.2009 I 81
 
 Zuletzt geändert durch
-:   Art. 12 G v. 21.7.2012 I 1583
+:   Art. 24 Abs. 1 G v. 25.6.2021 I 2154
 
 
 ## § 1 Beschwerderecht
@@ -512,9 +512,8 @@ Zustellung des Beschlusses schriftlich zu begründen.
 (5) Der Beschwerdeführer muss sich im Rechtsbeschwerdeverfahren,
 soweit er einen Antrag stellt, durch einen Rechtsanwalt oder durch
 eine Person vertreten lassen, welche die Befähigung zum Richteramt
-nach dem Deutschen Richtergesetz hat oder die Voraussetzungen des §
-110 des Deutschen Richtergesetzes erfüllt. § 21 Absatz 2 und 3 Satz 2
-gilt entsprechend.
+nach dem Deutschen Richtergesetz hat. § 21 Absatz 2 und 3 Satz 2 gilt
+entsprechend.
 
 (6) Über die Rechtsbeschwerde entscheidet das Bundesverwaltungsgericht
 durch Beschluss. Ist die Rechtsbeschwerde begründet, kann das

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1995, 554
 
 Zuletzt geändert durch
-:   Art. 113 V v. 31.10.2006 I 2407
+:   Art. 191 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -216,7 +216,7 @@ des Aufenthaltszwecks erforderlich ist, mit Zustimmung der deutschen
 Bundesbehörden vorübergehend Fernmeldeanlagen einschließlich
 Funkanlagen, außer solchen für Rundfunkzwecke, errichten und
 betreiben. Soweit Verleihungen erforderlich sind, werden sie durch das
-Bundesministerium für Wirtschaft und Technologie erteilt.
+Bundesministerium für Verkehr und digitale Infrastruktur erteilt.
 
 (3) Fernmeldeeinrichtungen der ausländischen Streitkräfte, die an
 Anschlüsse oder Übertragungswege der deutschen Telekommunikationsnetze
@@ -251,8 +251,9 @@ hieraus die Notwendigkeit einer Außerbetriebnahme der Störquelle, muß
 diese ohne Verzug erfolgen.
 
 (6) Besondere Regelungen für Einzelfälle sind im Rahmen der geltenden
-Gesetze im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie und dem Bundesministerium der Verteidigung festzulegen.
+Gesetze im Einvernehmen mit dem Bundesministerium für Verkehr und
+digitale Infrastruktur und dem Bundesministerium der Verteidigung
+festzulegen.
 
 
 ## § 11 Gesundheitswesen
@@ -557,9 +558,10 @@ Staates. Sie sind im Verhandlungswege beizulegen.
 ## § 1
 
 Das Bundesministerium der Verteidigung erläßt im Einvernehmen mit dem
-Bundesministerium des Innern allgemeine Verwaltungsvorschriften zur
-Ausführung des Artikels 2 § 5 über Besitz und Führen von Schußwaffen
-der diesem Gesetz unterfallenden ausländischen Militärangehörigen.
+Bundesministerium des Innern, für Bau und Heimat allgemeine
+Verwaltungsvorschriften zur Ausführung des Artikels 2 § 5 über Besitz
+und Führen von Schußwaffen der diesem Gesetz unterfallenden
+ausländischen Militärangehörigen.
 
 
 ## § 2
@@ -592,10 +594,10 @@ vom 18. August 1961 (BGBl. 1961 II S. 1183) in der jeweils geltenden
 Fassung entsprechende Anwendung.
 
 
-## Art 4
+## Art 4 - 
 
 Dieses Gesetz findet keine Anwendung auf
-Militärattaches eines ausländischen Staates in der Bundesrepublik
+Militärattachés eines ausländischen Staates in der Bundesrepublik
 Deutschland, die Mitglieder ihrer Stäbe sowie andere Militärpersonen,
 die in der Bundesrepublik Deutschland einen diplomatischen oder
 konsularischen Status haben.

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur
+Title: Verordnung über die Berufsausbildung zum Kaufmann im Groß- und  Außenhandel/zur
   Kauffrau im Groß- und Außenhandel
 jurabk: GrHdlKfmAusbV 2006
 layout: default
@@ -8,7 +8,7 @@ slug: grhdlkfmausbv_2006
 
 ---
 
-# Verordnung über die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel (GrHdlKfmAusbV 2006)
+# Verordnung über die Berufsausbildung zum Kaufmann im Groß- und  Außenhandel/zur Kauffrau im Groß- und Außenhandel (GrHdlKfmAusbV 2006)
 
 Ausfertigungsdatum
 :   2006-02-14
@@ -515,8 +515,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 413 - 418)
 
@@ -1257,8 +1258,9 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 419 - 421)
 

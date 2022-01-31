@@ -3,7 +3,7 @@ Title: Verordnung über die Zusammensetzung, die Bestellung der Mitglieder und d
   Verfahren des Beirats bei der Bundesanstalt für Finanzdienstleistungsaufsicht
 jurabk: WpÜGBeirV
 layout: default
-origslug: wp_gbeirv
+origslug: wpuegbeirv
 slug: wpuegbeirv
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 4259
 
 Zuletzt geändert durch
-:   Art. 368 V v. 31.10.2006 I 2407
+:   Art. 195 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -54,12 +54,12 @@ persönlichen Gründen beantragt.
 (1) Der Präsident der Bundesanstalt bestimmt den Termin der Sitzung.
 Sitzungen sind auch auf Antrag von mindestens acht Mitgliedern
 anzuberaumen. Der Präsident lädt die Mitglieder des Beirats sowie die
-Vertreter der Bundesministerien der Finanzen, der Justiz sowie für
-Wirtschaft und Technologie zu den Sitzungen des Beirats ein. Die
-Einladung muss die Zeit und den Ort der Sitzung sowie die Tagesordnung
-enthalten. Kann ein Mitglied an der Sitzung nicht teilnehmen, so hat
-es den Präsidenten der Bundesanstalt hierüber unverzüglich zu
-unterrichten.
+Vertreter der Bundesministerien der Finanzen, der Justiz und für
+Verbraucherschutz sowie für Wirtschaft und Energie zu den Sitzungen
+des Beirats ein. Die Einladung muss die Zeit und den Ort der Sitzung
+sowie die Tagesordnung enthalten. Kann ein Mitglied an der Sitzung
+nicht teilnehmen, so hat es den Präsidenten der Bundesanstalt hierüber
+unverzüglich zu unterrichten.
 
 (2) Die Sitzungen des Beirats sind nicht öffentlich. Der Präsident
 kann weitere Vertreter der Bundesanstalt zu der Sitzung hinzuziehen.

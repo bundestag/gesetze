@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1807
 
-Geändert durch
-:   Art. 1 G v. 29.7.2011 I 1702
+Zuletzt geändert durch
+:   Art. 4 G v. 14.7.2020 I 1683
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -29,10 +29,8 @@ Bezeichnung „Energie- und Klimafonds“ errichtet.
 
 (1) Das Sondervermögen ermöglicht zusätzliche Programmausgaben zur
 Förderung einer umweltschonenden, zuverlässigen und bezahlbaren
-Energieversorgung sowie zum Klimaschutz. Darüber hinaus werden im
-Sondervermögen alle Programmausgaben für die Entwicklung der
-Elektromobilität zusammengefasst. Aus dem Sondervermögen können
-Maßnahmen in folgenden Bereichen finanziert werden:
+Energieversorgung sowie zum Klimaschutz. Aus dem Sondervermögen können
+insbesondere Maßnahmen in folgenden Bereichen finanziert werden:
 
 –   Energieeffizienz,
 
@@ -52,22 +50,22 @@ Maßnahmen in folgenden Bereichen finanziert werden:
 –   internationaler Klima- und Umweltschutz,
 
 
-–   Entwicklung der Elektromobilität.
+–   Elektromobilität.
 
 
 
-Zudem können aus dem Sondervermögen ab 2013 Zuschüsse in Höhe von bis
-zu 500 Millionen Euro jährlich an stromintensive Unternehmen zum
-Ausgleich von emissionshandelsbedingten Strompreiserhöhungen auf der
-Grundlage von Artikel 10a Absatz 6 der Richtlinie 2003/87/EG des
-Europäischen Parlaments und des Rates vom 13. Oktober 2001 über ein
-System für den Handel mit Treibhausgasemissionszertifikaten in der
-Gemeinschaft und zur Änderung der Richtlinie
-96/61/EG              des Rates (ABl. L 275 vom 25.10.2003, S. 32),
+Zudem können aus dem Sondervermögen ab 2013 Zuschüsse an
+stromintensive Unternehmen zum Ausgleich von emissionshandelsbedingten
+Strompreiserhöhungen auf der Grundlage von Artikel 10a Absatz 6 der
+Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates vom
+13\. Oktober 2001 über ein System für den Handel mit
+Treibhausgasemissionszertifikaten in der Gemeinschaft und zur Änderung
+der Richtlinie 96/61/EG des Rates (ABl. L 275 vom 25.10.2003, S. 32),
 die zuletzt durch die Richtlinie 2009/29/EG (ABl. L 140 vom 5.6.2009,
-S. 63) geändert worden ist, gezahlt werden. Die Programmausgaben für
-die Entwicklung der Elektromobilität sind vom Wirtschaftsplanjahr 2014
-an auf einen Betrag von 300 Millionen Euro begrenzt.
+S. 63) geändert worden ist, gezahlt werden. Ausgleichszahlungen an
+Betreiber für die Stilllegung von Kohlekraftwerken sowie
+Ausgleichsleistungen zur Entlastung beim Strompreis können aus dem
+Sondervermögen geleistet werden.
 
 (2) Maßnahmen im Sinne des Absatzes 1 Satz 1 sind zusätzlich, wenn sie
 nicht bereits im Bundeshaushalt oder in der Finanzplanung des Bundes
@@ -101,29 +99,32 @@ Rechten und Verbindlichkeiten getrennt zu halten.
     benötigt werden,
 
 
-2.  Einnahmen aus der Auszahlung der bei der Kreditanstalt für
+2.  die Einnahmen aus einem nationalen Emissionshandelssystem zur CO
+    2                   -Bepreisung,
+
+
+3.  Einnahmen aus der Auszahlung der bei der Kreditanstalt für
     Wiederaufbau treuhänderisch verwalteten Mittel für etwaige Ausfälle im
     Zusammenhang mit Förderprogrammen, die aus Mitteln des Sondervermögens
     finanziert werden,
 
 
-3.  sonstige Einnahmen aus der Verzinsung von Mitteln des Sondervermögens
+4.  sonstige Einnahmen aus der Verzinsung von Mitteln des Sondervermögens
     und aus Rückflüssen.
 
 
-4.  Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4.
+5.  Zuführungen aus dem Bundeshaushalt nach Maßgabe der Absätze 3 und 4.
 
 
 
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, nähere Einzelheiten zu
-den Einnahmen nach Absatz 1 Nummer 1 zu regeln.
+den Einnahmen nach Absatz 1 Nummer 1 und 2 zu regeln.
 
-(3) Der Bund kann dem Sondervermögen im Wirtschaftsplanjahr 2011 zum
-Ausgleich eines Finanzierungsdefizits unter den Voraussetzungen des §
-37 Absatz 1 der Bundeshaushaltsordnung eine Zuweisung bis zu einer
-Obergrenze von 225 Millionen Euro gewähren.
+(3) Der Bund kann dem Sondervermögen „Energie- und Klimafonds“
+jährlich einen Bundeszuschuss nach Maßgabe des jeweiligen
+Haushaltsgesetzes gewähren.
 
 (4) Eine Kreditaufnahme des Sondervermögens am Kreditmarkt ist nicht
 zulässig. Vom Wirtschaftsplanjahr 2012 an kann das Sondervermögen zum
@@ -178,8 +179,9 @@ Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 6 Satz 3)
 
-## Anlage (zu § 6 Satz 3) Wirtschaftsplan des Energie- und Klimafonds
+## Anlage Wirtschaftsplan des Energie- und Klimafonds
 
 (Fundstelle: BGBl. I 2010, 1809 - 1813)
 

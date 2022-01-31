@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1887
 
+V aufgeh. durch
+:   Art. 4 Abs. 101 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 10.5.2010 I 582
+:   Art. 1 V v. 24.10.2013 I 3896
+
+V aufgeh. durch
+:   Art. 4 Abs. 105 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 105 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -34,10 +40,11 @@ Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
 
 ## § 1 Erheben von Gebühren
 
-Die für Amtshandlungen im Zusammenhang mit Entscheidungen über die
-Zuteilung von Nummern nach dem Telekommunikationsgesetz zu erhebenden
-Gebühren bestimmen sich nach dem Gebührenverzeichnis in der Anlage.
-Auslagen sind in die Gebühren einbezogen.
+Die für individuell zurechenbare öffentliche Leistungen im
+Zusammenhang mit Entscheidungen über die Zuteilung von Nummern nach
+dem Telekommunikationsgesetz zu erhebenden Gebühren bestimmen sich
+nach dem Gebührenverzeichnis in der Anlage. Daneben werden Auslagen
+nach § 23 Absatz 6 des Bundesgebührengesetzes gesondert erhoben.
 
 
 ## § 2 Gebührenerstattung nach Widerruf von Zuteilungen unter Vorbehalt
@@ -53,522 +60,351 @@ damit verbundenen wirtschaftlichen Nutzens angemessen ist.
 
 ## § 3 Gebühren in besonderen Fällen
 
-Für den Widerruf oder die Rücknahme, die Ablehnung des Antrags auf
-Vornahme sowie im Falle der Zurücknahme eines Antrags auf Vornahme
-einer Amtshandlung nach § 1 werden Gebühren nach Maßgabe des § 15 des
-Verwaltungskostengesetzes erhoben.
+Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die
+Ablehnung des Antrags auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung sowie im Falle der Zurücknahme eines Antrags auf
+Vornahme einer individuell zurechenbaren öffentlichen Leistung nach §
+1 werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des
+Bundesgebührengesetzes erhoben.
 
 
 ## § 3a Anwendungsbestimmung
 
-Gebühren nach den Nummern B.1.1 und B.1.2 des Gebührenverzeichnisses
-werden für Zuteilungen von Blöcken mit 1 000 zehnstelligen Rufnummern
-im Ortsnetz erhoben, soweit ein nach dem 1. Januar 2003 ergangener
-Gebührenbescheid noch nicht unanfechtbar geworden ist. Gebühren nach
-den Nummern B.2.1 und B.2.2 des Gebührenverzeichnisses werden für
-Zuteilungen von Blöcken mit 1 000 elfstelligen Rufnummern im Ortsnetz
-erhoben, soweit ein nach dem 1. Januar 2005 ergangener
-Gebührenbescheid noch nicht unanfechtbar geworden ist.
+Gebühren nach Nummer A.2 des Gebührenverzeichnisses werden erhoben,
+soweit ein Antrag auf Bestätigung und Berichtigung einer Zuteilung aus
+Anlass einer Rechtsnachfolge bei der Bundesnetzagentur nach dem 1.
+Januar 2009 gestellt worden ist. Gebühren nach Nummer C.1 des
+Gebührenverzeichnisses werden erhoben, soweit ein Antrag auf Zuteilung
+einer europaeinheitlichen Rufnummer für harmonisierte Dienste von
+sozialem Wert bei der Bundesnetzagentur nach dem 1. Januar 2009
+gestellt worden ist.
 
 
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2001, 3003 - 3005;
+(Fundstelle: BGBl. I 2013, 3896 - 3898;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *   A
-
-    *   Allgemeine Gebühren
 
 
 *    *   Nr.
 
-    *   Gebührenpflichtiger Tatbestand
+    *   Gebührentatbestand
 
-    *   Höhe der Gebühr in Euro
+    *   Gebühr
+        in Euro
+
+
+*    *   **A**
+
+    *   **Allgemeine Gebühren**
 
 
 *    *   A.1
 
-    *   Erstellen einer Zweitschrift eines Zuteilungsbescheids oder einer
-        Bescheinigung eines Nummernbedarfs; Zusammenfassung oder
-        Zusammenstellung zugeteilter Nummern
+    *   Erstellen einer Bescheinigung eines Nummernbedarfs; Zusammenfassung
+        oder Zusammenstellung zugeteilter Nummern
 
-    *   15
+    *   11,50 bis 216
 
 
 *    *   A.2
 
-    *   Änderung eines Zuteilungsbescheids oder einer Bescheinigung eines
-        Nummernbedarfs, die nicht die Nutzungsart oder den Nutzungsumfang der
-        Nummernzuteilung betrifft
+    *   Bestätigung und Berichtigung von Zuteilungen aus Anlass einer
+        Rechtsnachfolge gemäß § 4 Absatz 6 Satz 3 und Satz 4 der
+        Telekommunikations-Nummerierungsverordnung je betroffenem
+        Nummernbereich
 
-    *   30
+    *   28 bis 912
 
 
 *    *   A.3
 
-    *   Bescheinigung eines Nummernbedarfs auf Antrag
+    *   Änderung eines Zuteilungsbescheides soweit nicht eine Rechtsnachfolge
+        vorliegt
 
-    *   62,50
-
-
-*    *
-
-*    *   B
-
-    *   Zuteilung von Rufnummernblöcken ohne Einschränkungen
-
-    *
-
-*    *   Nr.
-
-    *   Gebührenpflichtiger Tatbestand
-
-    *   Höhe der Gebühr in Euro
+    *   6,50 bis 140
 
 
-*    *   Amtshandlung
+*    *   A.4
 
-    *   Nummernbereich
+    *   Bescheinigung eines Nummernbedarfs
+
+    *   32,50
+
+
+*    *   A.5
+
+    *   Maßnahme gegen den Zuteilungsnehmer von Nummern auf der Grundlage von
+        § 67 TKG oder § 126 TKG wegen eines Verstoßes gegen das TKG oder gegen
+        Vorschriften der Rechtsverordnung gemäß § 66 Absatz 4 TKG
+
+    *   33 bis 1 225
+
+
+*    *   **B**
+
+    *   **Zuteilung von Blöcken von Rufnummern**
 
 
 *    *   B.1.1
 
-    *   Bearbeitung eines Antrags auf Zuteilung eines oder mehrerer Blöcke von
-        1 000 zehnstelligen Rufnummern in den Ortsnetzbereichen
+    *   Zuteilung eines Blocks von 1 000 oder 100 zehn-, elf- oder
+        zwölfstelligen
+        Rufnummern in Ortsnetzbereichen oder eines Blocks von 1 000
+        elfstelligen Nationalen Teilnehmerrufnummern. Die Gebühr erhöht sich
+        für die Zuteilung jedes weiteren Blocks von 1 000 oder 100 zehn-, elf-
+        oder zwölfstelligen Rufnummern in Ortsnetzbereichen oder von 1 000
+        elfstelligen Nationalen Teilnehmerrufnummern um 5,20 Euro.
 
-    *   (Ortsnetzkennzahl)
-
-    *   Für Anträge, die eingehen
-
-        a)  vom 1. Januar bis 31. Dezember 2003: 27,65
-
-
-        b)  vom 1. Januar bis 31. Dezember 2004: 28,35
-
-
-        c)  vom 1. Januar bis 31. Dezember 2005: 28,05
-
-
-        d)  vom 1. Januar bis 31. Dezember 2006: 27,45
-
-
-        e)  vom 1. Januar bis 31. Dezember 2007: 26,65
-
-
-        f)  vom 1. Januar bis 31. Dezember 2008: 26,65
-
-
-        g)  ab dem 1. Januar 2009: 27,85
-
-
-
+    *   30
 
 
 *    *   B.1.2
 
-    *
-    *   (Ortsnetzkennzahl)
+    *   Zuteilung eines Blocks von 100 oder 10 Rufnummern zur Erweiterung von
+        bestehenden Netzzugängen. Die Gebühr erhöht sich für die Zuteilung
+        jedes weiteren Blocks von 100 oder 10 Rufnummern zur Erweiterung von
+        bestehenden Netzzugängen um 7,50 Euro.
 
-    *
-        a)  vom 1. Januar bis 31. Dezember 2003: 2,75
-
-
-        b)  vom 1. Januar bis 31. Dezember 2004: 2,85
-
-
-        c)  vom 1. Januar bis 31. Dezember 2005: 2,80
-
-
-        d)  vom 1. Januar bis 31. Dezember 2006: 2,75
-
-
-        e)  vom 1. Januar bis 31. Dezember 2007: 2,70
-
-
-        f)  vom 1. Januar bis 31. Dezember 2008: 2,70
-
-
-        g)  ab dem 1. Januar 2009: 2,80
-
-
-
+    *   33
 
 
 *    *   B.2.1
 
-    *   Bearbeitung eines Antrags auf Zuteilung eines oder mehrerer Blöcke von
-        1 000 elfstelligen Rufnummern in den Ortsnetzbereichen
+    *   Zuteilung eines Blocks von zehnstelligen oder elfstelligen Rufnummern
+        für
+        öffentliche zellulare Mobilfunkdienste
 
-    *   (Ortsnetzkennzahl)
-
-    *
-        a)  vom 1. Januar bis 31. Dezember 2005: 28,05
-
-
-        b)  vom 1. Januar bis 31. Dezember 2006: 27,45
-
-
-        c)  vom 1. Januar bis 31. Dezember 2007: 26,65
-
-
-        d)  vom 1. Januar bis 31. Dezember 2008: 26,65
-
-
-        e)  ab dem 1. Januar 2009: 27,85
-
-
-
+    *   335
 
 
 *    *   B.2.2
 
-    *   Zuteilung eines Blocks von 1 000 elfstelligen Rufnummern in den
-        Ortsnetzbereichen
-
-    *   (Ortsnetzkennzahl)
-
-    *   Für Anträge, die eingehen
-
-        a)  vom 1. Januar bis 31. Dezember 2005: 2,80
-
-
-        b)  vom 1. Januar bis 31. Dezember 2006: 2,75
-
-
-        c)  vom 1. Januar bis 31. Dezember 2007: 2,70
-
-
-        d)  vom 1. Januar bis 31. Dezember 2008: 2,70
-
-
-        e)  ab dem 1. Januar 2009: 2,80
-
-
-
-
-
-*    *   B.3
-
-    *   Zuteilung eines Blocks von elfstelligen Rufnummern für innovative
-        Netze
-
-    *   (0)12
-
-    *   0,05
-
-
-*    *   je Rufnummer, mindestens jedoch 500
-
-
-*    *   B.4
-
-    *   Zuteilung eines Blocks von zehnstelligen oder elfstelligen Rufnummern
-        für Funknetze
-
-    *   (0)15
-
-    *   0, 05
-
-
-*    *   (0)16
-
-    *   je Rufnummer, mindestens jedoch 500
-
-
-*    *   (0)17
-
-
-*    *   B.5
-
     *   Zuteilung eines Blocks von elfstelligen Rufnummern für Nutzergruppen
 
-    *   (0)18
-
-    *   0, 05
+    *   61
 
 
-*    *   je Rufnummer, mindestens jedoch 500
+*    *   B.2.3
 
-
-*    *   B.6
-
-    *   Zuteilung eines Blocks von elfstelligen Rufnummern für Internationale
+    *   Zuteilung eines Blocks von vierzehnstelligen Rufnummern für
+        Internationale
         Virtuelle Private Netze
 
-    *   (0)181
-
-    *   0, 05
+    *   96
 
 
-*    *   je Rufnummer, mindestens jedoch 500
+*    *   B.2.4
+
+    *   Zuteilung eines Blocks von 1 000 zehnstelligen Rufnummern für
+        Massenverkehrs-Dienste
+
+    *   230 bis 400
 
 
-*    *   B.7
+*    *   **C**
 
-    *   Zuteilung eines Blocks von zehnstelligen Rufnummern für Online-Dienste
-
-    *   (0)194
-
-    *   0,50
+    *   **Zuteilung von einzelnen Rufnummern**
 
 
-*    *   je Rufnummer, mindestens jedoch 500
+*    *   C.1
+
+    *   Zuteilung einer europaeinheitlichen Rufnummer für harmonisierte
+        Dienste von sozialem Wert
+
+    *   2 650
 
 
-*    *
+*    *   C.2
 
-*    *   C
+    *   Zuteilung einer Rufnummer für Auskunftsdienste oder
+        Vermittlungsdienste
 
-    *   (weggefallen)
-
-
-*    *
-
-*    *   D
-
-    *   Zuteilung von Rufnummern
+    *   255
 
 
-*    *   Nr.
+*    *   C.3
 
-    *   Gebührenpflichtiger Tatbestand
+    *   Zuteilung einer Persönlichen Rufnummer
 
-    *   Höhe der Gebühr in Euro
+    *   25 bis 200
 
 
-*    *   Amtshandlung
+*    *   C.4
 
-    *   Nummernbereich
+    *   Zuteilung einer Rufnummer für entgeltfreie Telefondienste
+
+    *   12 bis 555
+
+
+*    *   C.5
+
+    *   Zuteilung einer Rufnummer für Premium-Dienste
+
+    *   17 bis 475
+
+
+*    *   C.6
+
+    *   Zuteilung einer Rufnummer für Service-Dienste
+
+    *   20 bis 325
+
+
+*    *   **D**
+
+    *   **Zuteilung von Kennzahlen und Technischen Nummern**
 
 
 *    *   D.1
 
-    *   Zuteilung einer Rufnummer für Auskunftsdienste zur Nutzung in allen
-        Teilnehmernetzen
+    *   Zuteilung einer Betreiberkennzahl
 
-    *   118
-
-    *   2 600
+    *   178
 
 
 *    *   D.2
 
-    *   Zuteilung einer persönlichen Rufnummer
+    *   Zuteilung einer Portierungskennung (PK)
 
-    *   (0)700
-
-    *   62,50
+    *   70
 
 
 *    *   D.3
 
-    *   Zuteilung einer Rufnummer für entgeltfreie Mehrwertdienste
+    *   Zuteilung eines International Signalling Point Code (ISPC)
 
-    *   (0)800
-
-    *   62,50
+    *   81
 
 
 *    *   D.4
 
-    *   Zuteilung einer Rufnummer für entgeltpflichtige Mehrwertdienste
+    *   Zuteilung eines National Signalling Point Code (NSPC)
 
-    *   (0)180
-
-    *   62,50
-
-
-*    *   (0)900
+    *   55
 
 
 *    *   D.5
 
-    *   Zuteilung einer Rufnummer für Online-Dienste
+    *   Zuteilung eines Blocks von 10 000 000 Internationalen Kennungen für
+        Mobile Teilnehmer (IMSI)
 
-    *   (0)191
-
-    *   2 600
-
-
-*    *   (0)192
-
-    *   je Rufnummer
+    *   120
 
 
-*    *   (0)193
+*    *   D.6
+
+    *   Zuteilung eines Blocks von 100 Closed User Group Interlock Codes
+        (CUGIC)
+
+    *   73,50
 
 
-*    *
+*    *   D.7
 
-*    *   E
+    *   Zuteilung eines Data Network Identification Code (DNIC)
 
-    *   Zuteilung von Nummern/Kennzahlen
-
-    *
-
-*    *   Nr.
-
-    *   Gebührenpflichtiger Tatbestand
-
-    *   Höhe der Gebühr in Euro
+    *   84
 
 
-*    *   Amtshandlung
-
-
-*    *   E.1
-
-    *   Zuteilung einer Verbindungsnetzbetreiberkennzahl
-
-    *   500
-
-
-*    *   E.2
-
-    *   Zuteilung einer Portierungskennung (PK)
-
-    *   375
-
-
-*    *   E.3
-
-    *   Zuteilung eines International Signalling Point Codes (ISPC)
-
-    *   375
-
-
-*    *   E.4
-
-    *   Zuteilung eines National Signalling Point Codes (NSPC)
-
-    *   187,50
-
-
-*    *   E.5
-
-    *   Zuteilung eines Blocks von 10 000 000 000 Internationalen Kennungen
-        für Mobile Teilnehmer (IMSI)
-
-    *   750
-
-
-*    *   E.6
-
-    *   Zuteilung von 100 Closed User Group Interlock Codes (CUGIC)
-
-    *   375
-
-
-*    *   E.7
-
-    *   Zuteilung eines Data Network Identification Codes (DNIC)
-
-    *   375
-
-
-*    *   E.8
-
-    *   Zuteilung einer Issuer Identification Number (IIN)
-
-    *   750
-
-
-*    *   E.9
+*    *   D.8
 
     *   Zuteilung eines Tarifierungsreferenzzweiges (TRZ)
 
-    *   375
+    *   55
 
 
-*    *   E.10
+*    *   D.9
 
     *   Zuteilung eines Objektkennungsastes für Netzbetreiber und
-        Diensteanbieter (OKA-ND)
+        Diensteanbieter
+        (OKA-ND)
 
-    *   375
+    *   73,50
 
 
-*    *   E.11
+*    *   D.10
 
     *   Zuteilung einer Herstellerkennung für Telematikprotokolle (HKT)
 
-    *   375
+    *   85
 
 
-*    *   E.12
-
-    *   Zuteilung eines Blocks von 1 000 000 Internationalen Kennungen für
-        Mobile Endeinrichtungen (IMEI)
-
-    *   375
-
-
-*    *   E.13
+*    *   D.11
 
     *   Zuteilung eines Blocks von 16 777 216 Individuellen TETRA-
         Teilnehmerkennungen (ITSI)
 
-    *   750
+    *   178
 
 
-*    *
+*    *   D.12
 
-*    *   F
+    *   Zuteilung von Nummern im See- und Binnenschifffahrtsfunk im Rahmen
+        einer SHIP STATION LICENCE
 
-    *   Zuteilung von sonstigen Nummern und Kennzahlen
-
-
-*    *   Für Amtshandlungen im Zusammenhang mit der Zuteilung von Nummern, die
-        unter B-E nicht aufgeführt sind, gelten folgende Gebühren:
+    *   51
 
 
-*    *   Nr.
+*    *   D.13
 
-    *   Gebührenpflichtiger Tatbestand
+    *   Zuteilung von Nummern im See- und Binnenschifffahrtsfunk im Rahmen der
+        Änderung einer bestehenden SHIP STATION LICENCE
 
-    *   Höhe der Gebühr in Euro
+    *   43
 
 
-*    *   Amtshandlung
+*    *   D.14
+
+    *   Zuteilung von Nummern im Flug- und Flugnavigationsfunk im Rahmen einer
+        AIRCRAFT STATION LICENCE
+
+    *   83
+
+
+*    *   **E**
+
+    *   **Zuteilung von sonstigen Nummern**
+
+
+*    *   E.1
+
+    *   Zuteilung eines Blocks von Nummern (Blockzuteilung), soweit nicht ein
+        Gebührentatbestand der Abschnitte B oder D anzuwenden ist. Die Gebühr
+        erhöht sich für die Zuteilung jedes weiteren Blocks um jeweils 10
+        Euro.
+
+    *   35
+
+
+*    *   E.2
+
+    *   Zuteilung einer Nummer (Einzelzuteilung), soweit nicht ein
+        Gebührentatbestand der Abschnitte C oder D anzuwenden ist. Die Gebühr
+        erhöht sich für die Zuteilung jeder weiteren Nummer um jeweils 50
+        Euro.
+
+    *   75
+
+
+*    *   **F**
+
+    *   **Sonstige individuell zurechenbare öffentliche Leistungen**
 
 
 *    *   F.1
 
-    *   Zuteilung einer Nummer oder Kennzahl (Einzelzuteilung)
+    *   Gebühr für eine sonstige öffentliche Leistung nach § 142 Absatz 1
+        Nummer 5 oder 6 TKG, soweit nicht ein Gebührentatbestand nach den
+        Abschnitten A bis E vorliegt.
 
-    *   62,50-2 600
-
-
-*    *   F.2
-
-    *   Zuteilung eines Blocks von zehnstelligen Nummern (Blockzuteilung)
-
-    *   0,50
-
-
-*    *   je Nummer mindestens jedoch 525
-
-
-*    *   F.3
-
-    *   Zuteilung eines Blocks von elfstelligen Rufnummern (Blockzuteilung)
-
-    *   0, 05
-
-
-*    *   je Nummer, mindestens jedoch 50
-
-
-*    *   Die Gebühr im Einzelfall wird nach dem gebührenpflichtigen Tatbestand
-        unter B-E bestimmt, der der in Frage stehenden Amtshandlung am ehesten
-        entspricht.
+    *   50 bis 450
 
 
 

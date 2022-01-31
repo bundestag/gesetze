@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.6.1999 I 1533;
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 38 V v. 12.2.2009 I 320
+:   Art. 12 V v. 8.1.2020 I 27
 
 
 ## § 1 Anwendungsbereich
@@ -102,7 +102,8 @@ Zuletzt geändert durch
 (3) Trennungsgeld wird nur gewährt, wenn
 
 1.  bei Maßnahmen nach Absatz 2 Nr. 1 bis 13 der neue Dienstort ein
-    anderer als der bisherige Dienstort ist und die Wohnung nicht im
+    anderer als der bisherige Dienstort ist und bei Maßnahmen nach Absatz
+    2 Nummer 1 bis 5 sowie den Nummern 10 bis 13 die Wohnung nicht im
     Einzugsgebiet (§ 3 Abs. 1 Nr. 1 Buchstabe c des
     Bundesumzugskostengesetzes) liegt,
 
@@ -202,8 +203,8 @@ werden.
 (3) Ist ein Umzug, für den Umzugskostenvergütung zugesagt ist, aus
 Anlaß einer Maßnahme nach § 1 Abs. 2 vor deren Wirksamwerden
 durchgeführt, kann Trennungsgeld in sinngemäßer Anwendung dieser
-Verordnung bis zum Tag vor der Dienstantrittsreise, längstens für 3
-Monate gewährt werden.
+Verordnung bis zum Tag vor der Dienstantrittsreise, längstens für
+sechs Monate gewährt werden.
 
 (4) Wird die Zusage der Umzugskostenvergütung außerhalb eines
 Rechtsbehelfsverfahrens aufgehoben, wird dadurch ein
@@ -232,62 +233,19 @@ Anspruchszeitraum nach Satz 1 noch nicht ausgeschöpft war.
 (2) Vom 15. Tag, im Falle des § 2 Abs. 3 vom Tag nach Beendigung des
 Umzuges an wird unter der Voraussetzung, daß eine Wohnung oder
 Unterkunft am bisherigen Wohnort beibehalten wird, als Trennungsgeld
-Trennungstagegeld und Trennungsübernachtungsgeld nach Maßgabe der
-Absätze 3 und 4 gewährt. Ist Umzugskostenvergütung nicht zugesagt,
-wird vom 15. Tage an Trennungsgeld nach Maßgabe der Absätze 3 und 4
-auch gewährt, solange nach dem Umzug eine Wohnung oder Unterkunft
-außerhalb des neuen Dienstortes einschließlich des Einzugsgebietes (§
-3 Abs. 1 Nr. 1 Buchstabe c des Bundesumzugskostengesetzes) weiter
-besteht und mehrere Haushalte geführt werden; § 7 Abs. 2 ist zu
-beachten.
+Trennungstagegeld und Trennungsübernachtungsgeld nach Maßgabe des § 8
+des Bundesreisekostengesetzes gewährt. Ist Umzugskostenvergütung nicht
+zugesagt, wird vom 15. Tage an Trennungsgeld nach Maßgabe des § 8 des
+Bundesreisekostengesetzes auch gewährt, solange nach dem Umzug eine
+Wohnung oder Unterkunft außerhalb des neuen Dienstortes einschließlich
+des Einzugsgebietes (§ 3 Abs. 1 Nr. 1 Buchstabe c des
+Bundesumzugskostengesetzes) weiter besteht und mehrere Haushalte
+geführt werden; § 7 Abs. 2 ist zu beachten. § 6 Absatz 2 und § 7
+Absatz 2 des Bundesreisekostengesetzes gelten entsprechend.
 
-(3) Als Trennungstagegeld wird ein Betrag in Höhe der Summe der nach
-der Sozialversicherungsentgeltverordnung maßgebenden Sachbezugswerte
-für Frühstück, Mittagessen und Abendessen gewährt. Der Berechtigte,
-der
-
-a)  mit seinem Ehegatten oder Lebenspartner in häuslicher Gemeinschaft
-    lebt oder
-
-
-b)  mit einem Verwandten bis zum vierten Grad, einem Verschwägerten bis
-    zum zweiten Grad, einem Pflegekind oder Pflegeeltern in häuslicher
-    Gemeinschaft lebt und ihnen aus gesetzlicher oder sittlicher
-    Verpflichtung nicht nur vorübergehend Unterkunft und Unterhalt ganz
-    oder überwiegend gewährt oder
-
-
-c)  mit einer Person in häuslicher Gemeinschaft lebt, deren Hilfe er aus
-    beruflichen oder nach ärztlichem, im Zweifel nach amtsärztlichem
-    Zeugnis aus gesundheitlichen Gründen nicht nur vorübergehend bedarf,
-
-
-
-und einen getrennten Haushalt führt, erhält als Trennungstagegeld 150
-Prozent dieses Betrages. Erhält der Berechtigte seines Amtes wegen
-unentgeltlich Verpflegung, ist das Trennungstagegeld für jede
-bereitgestellte Mahlzeit um den maßgebenden Sachbezugswert nach der
-Sozialversicherungsentgeltverordnung zu kürzen; bei Berechtigten nach
-Satz 2 erhöht sich der Kürzungsbetrag um 50 Prozent des maßgebenden
-Sachbezugswertes nach der Sachbezugsverordnung für die jeweilige
-Mahlzeit. Das gleiche gilt, wenn Verpflegung von dritter Seite
-bereitgestellt wird und das Entgelt für sie in den erstattbaren Fahr-
-und Nebenkosten enthalten ist oder wenn der Berechtigte seines Amtes
-wegen unentgeltlich bereitgestellte Verpflegung ohne triftigen Grund
-nicht in Anspruch nimmt.
-
-(4) Als Trennungsübernachtungsgeld werden die nachgewiesenen
-notwendigen, auf Grund eines Mietvertrages oder einer ähnlichen
-Nutzungsvereinbarung zu zahlenden Kosten für eine wegen einer Maßnahme
-nach § 1 Abs. 2 bezogenen angemessenen Unterkunft erstattet. Zu den
-Unterkunftskosten gehören auch die unmittelbar mit der Nutzung der
-Unterkunft zusammenhängenden Nebenkosten. Erhält der Berechtigte
-seines Amtes wegen unentgeltlich Unterkunft, wird ein
-Trennungsübernachtungsgeld nicht gewährt; im übrigen gilt § 7 Abs. 2
-des Bundesreisekostengesetzes entsprechend. Notwendige Fahrkosten
-zwischen dieser außerhalb des Dienstortes bereitgestellten Unterkunft
-und der Dienststätte werden in entsprechender Anwendung des § 5 Abs. 4
-erstattet.
+(3) Notwendige Fahrtkosten zwischen der außerhalb des Dienstortes
+bereitgestellten Unterkunft und der Dienststätte werden in
+entsprechender Anwendung des § 5 Absatz 4 erstattet.
 
 
 ## § 4 Sonderbestimmungen beim auswärtigen Verbleiben
@@ -342,13 +300,9 @@ Kosten für das Beibehalten der Unterkunft erstattet. Bei tatsächlicher
 oder zumutbarer täglicher Rückkehr wird neben dem Trennungsgeld nach §
 3 eine Entschädigung nach § 6 Abs. 1, 3 und 4 gewährt.
 
-(7) Erhält der Ehegatte oder Lebenspartner des Berechtigten
-Trennungsgeld nach § 3 oder eine entsprechende Entschädigung nach den
-Vorschriften eines anderen Dienstherrn, erhält der Berechtigte
-anstelle des Trennungstagegeldes nach § 3 Abs. 3 Satz 2
-Trennungstagegeld nach § 3 Abs. 3 Satz 1, wenn er am Dienstort des
-Ehegatten oder Lebenspartners wohnt oder der Ehegatte oder
-Lebenspartner an seinem Dienstort beschäftigt ist.
+(7) Bei Elternzeit und bei Freistellungen nach dem Pflegezeitgesetz
+werden die nachgewiesenen notwendigen Kosten für das Beibehalten der
+Unterkunft für längstens drei Monate erstattet.
 
 (8) Wird nach einem Umzug mit Zusage der Umzugskostenvergütung kein
 Trennungsgeld für die bisherige Unterkunft mehr gewährt, werden die
@@ -359,16 +313,8 @@ werden kann.
 
 ## § 5 Reisebeihilfe für Heimfahrten
 
-(1) Ein Berechtigter nach § 3 erhält eine Reisebeihilfe für jeden
-halben Monat, wenn er die Voraussetzungen des § 3 Abs. 3 Satz 2
-erfüllt oder das 18. Lebensjahr noch nicht vollendet hat, im übrigen
-für jeden Monat. Ändern sich diese Voraussetzungen, so beginnt der
-neue Anspruchszeitraum erst nach Ablauf des bisherigen, sofern dies
-für den Berechtigten günstiger ist. Der Anspruchszeitraum wird aus
-Anlaß einer neuen Maßnahme nach § 1 Abs. 2 durch Sonn- und Feiertage,
-allgemein dienstfreie Werktage und Tage der Dienstantrittsreise nicht
-unterbrochen. Eine Reisebeihilfe wird nur gewährt, wenn die Reise im
-maßgebenden Anspruchszeitraum beginnt.
+(1) Ein Berechtigter nach § 3 hat einen Anspruch auf Reisebeihilfen
+nach Maßgabe des § 8 des Bundesreisekostengesetzes.
 
 (2) Verzichtet ein Berechtigter bei Maßnahmen nach § 1 Abs. 2 Nr. 1
 bis 5 unwiderruflich auf die Zusage der Umzugskostenvergütung, und ist
@@ -376,24 +322,33 @@ aus dienstlichen Gründen ein Umzug nicht erforderlich (§ 3 Abs. 1 Nr.
 1 Buchstabe d des Bundesumzugskostengesetzes), gilt Absatz 1 mit der
 Maßgabe, daß Reisebeihilfe für längstens ein Jahr gewährt wird.
 
-(3) Anstelle einer Reise des Berechtigten kann auch eine Reise des
-Ehegatten, des Lebenspartners, eines Kindes oder einer Person nach § 3
-Abs. 3 Satz 2 Buchstabe b berücksichtigt werden.
+(3) Anstelle einer Reise des Berechtigten kann eine Reise folgender
+Personen berücksichtigt werden:
 
-(4) Als Reisebeihilfe werden die entstandenen notwendigen Fahrauslagen
-bis zur Höhe der Kosten der für den Berechtigten billigsten Fahrkarte
-der allgemein niedrigsten Klasse ohne Zuschläge eines regelmäßig
-verkehrenden Beförderungsmittels vom Dienstort zum bisherigen Wohnort
-oder, wenn dieser im Ausland liegt, bis zum inländischen Grenzort und
-zurück erstattet. Bei Benutzung zuschlagpflichtiger Züge werden auch
-die notwendigen Zuschläge wie bei Dienstreisen erstattet. Nach näherer
-Bestimmung des Bundesministeriums des Innern können in besonderen
-Fällen Flugkosten erstattet werden.
+1.  des Ehegatten, des Lebenspartners oder eines Kindes oder
 
 
-## § 5a
+2.  eines Verwandten bis zum vierten Grad, eines Verschwägerten bis zum
+    zweiten Grad, eines Pflegekindes oder von Pflegeeltern, wenn der
+    Berechtigte mit diesen Personen in häuslicher Gemeinschaft lebt und
+    ihnen aus gesetzlicher oder sittlicher Verpflichtung nicht nur
+    vorübergehend Unterkunft und Unterhalt ganz oder überwiegend gewährt.
 
-(weggefallen)
+
+
+
+(4) Als Reisebeihilfe werden pro Heimfahrt Fahrt- oder Flugkosten nach
+Maßgabe des § 8 des Bundesreisekostengesetzes gewährt. § 4 Absatz 2
+des Bundesreisekostengesetzes gilt entsprechend.
+
+
+## § 5a Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
+
+Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von
+Asylbewerbern für von der obersten Dienstbehörde beschlossene
+personelle Unterstützungsmaßnahmen eingesetzt werden, erhalten eine
+Reisebeihilfe für jede Woche. § 5 Absatz 1 Satz 2 bis 4 und Absatz 2
+bis 4 bleibt im Übrigen unberührt.
 
 
 ## § 5b
@@ -405,17 +360,16 @@ Fällen Flugkosten erstattet werden.
 
 (1) Ein Berechtigter, der täglich an den Wohnort zurückkehrt oder dem
 die tägliche Rückkehr zuzumuten ist (§ 3 Abs. 1 Satz 2), erhält als
-Trennungsgeld Fahrkostenerstattung, Wegstrecken- oder
-Mitnahmeentschädigung wie bei Dienstreisen. Hierauf sind die
-Fahrauslagen anzurechnen, die für das Zurücklegen der Strecke zwischen
-Wohnung und der bisherigen, bei einer Kette von Maßnahmen nach § 1
-Abs. 2 der ursprünglichen Dienststätte entstanden wären, wenn die
-Entfernung mindestens fünf Kilometer beträgt. Dabei ist als Aufwand
-ein Betrag von 0,08 Euro je Entfernungskilometer und Arbeitstag
-zugrunde zu legen. Von der Anrechnung ist ganz oder teilweise
-abzusehen, wenn der Berechtigte nachweist, daß er bei Fahrten zwischen
-Wohnung und bisheriger Dienststätte üblicherweise keinen
-entsprechenden Aufwand hätte.
+Trennungsgeld Fahrtkostenerstattung oder Wegstreckenentschädigung wie
+bei Dienstreisen. Hierauf sind die Fahrauslagen anzurechnen, die für
+das Zurücklegen der Strecke zwischen Wohnung und der bisherigen, bei
+einer Kette von Maßnahmen nach § 1 Abs. 2 der ursprünglichen
+Dienststätte entstanden wären, wenn die Entfernung mindestens fünf
+Kilometer beträgt. Dabei ist als Aufwand ein Betrag von 0,08 Euro je
+Entfernungskilometer und Arbeitstag zugrunde zu legen. Von der
+Anrechnung ist ganz oder teilweise abzusehen, wenn der Berechtigte
+nachweist, daß er bei Fahrten zwischen Wohnung und bisheriger
+Dienststätte üblicherweise keinen entsprechenden Aufwand hätte.
 
 (2) Zusätzlich wird ein Verpflegungszuschuß von 2,05 Euro je
 Arbeitstag gewährt, wenn die notwendige Abwesenheit von der Wohnung
@@ -432,7 +386,7 @@ Tage- und Übernachtungsgeld für die Hin- und Rückreise nicht
 übersteigen. Als Übernachtungsgeld wird für die ersten 14 Tage
 höchstens der Betrag nach § 7 Abs. 1 Satz 1 des
 Bundesreisekostengesetzes und ab dem 15. Tag als
-Trennungsübernachtungsgeld ein Drittel dieses Betrages berücksichtigt.
+Trennungsübernachtungsgeld 75 Prozent dieses Betrages berücksichtigt.
 
 
 ## § 7 Sonderfälle
@@ -450,8 +404,8 @@ Freiheitsentziehung der Dienst nicht ausgeübt werden kann. Das gilt
 nicht, wenn der Berechtigte auf Grund einer dienstlichen Weisung am
 Dienstort bleibt.
 
-(4) Trennungsgeld steht nur zu, solange Anspruch auf Besoldung
-besteht.
+(4) Anspruch auf Trennungsgeld besteht nur, solange Anspruch auf
+Besoldung besteht; § 4 Absatz 7 bleibt hiervon unberührt.
 
 
 ## § 8 Ende des Trennungsgeldanspruchs
@@ -474,12 +428,13 @@ vorausgehenden Tag.
 ## § 9 Verfahrensvorschriften
 
 (1) Das Trennungsgeld ist innerhalb einer Ausschlußfrist von einem
-Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich zu
-beantragen. Trennungsgeld wird monatlich nachträglich auf Grund von
-Forderungsnachweisen gezahlt, die der Berechtigte innerhalb einer
-Ausschlußfrist von einem Jahr nach Ablauf des maßgeblichen
-Kalendermonats abzugeben hat. Satz 2 gilt entsprechend für Anträge auf
-Reisebeihilfe nach Ablauf des maßgebenden Anspruchszeitraums.
+Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich oder
+elektronisch zu beantragen. Trennungsgeld wird monatlich nachträglich
+auf Grund von Forderungsnachweisen gezahlt, die der Berechtigte
+innerhalb einer Ausschlußfrist von einem Jahr nach Ablauf des
+maßgeblichen Kalendermonats abzugeben hat. Satz 2 gilt entsprechend
+für Anträge auf Reisebeihilfe nach Ablauf des maßgebenden
+Anspruchszeitraums.
 
 (2) Der Berechtigte hat nachzuweisen, daß die Voraussetzungen für die
 Trennungsgeldgewährung vorliegen, insbesondere hat er das fortwährende
@@ -489,17 +444,11 @@ Bemühen um eine Wohnung (§ 2 Abs. 1) zu belegen.
 Trennungsgeld gewährt.
 
 
-## § 10
+## § 10 Anwendungsvorschrift
 
-(weggefallen)
-
-
-## (XXXX) §§ 11 bis 14 (weggefallen)
-
-(Änderung anderer Vorschriften)
+§ 5a ist nur bis zum 31. Dezember 2023 anzuwenden.
 
 
-## § 15
+## (XXXX) §§ 11 bis 15 (weggefallen)
 
-(Inkrafttreten, Außerkrafttreten)
 

@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 579
 
+V aufgeh. durch
+:   Art. 4 Abs. 103 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Geändert durch
-:   Art. 3 Abs. 24 G v. 7.7.2005 I 1970
+:   Art. 2 Abs. 132 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 107 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 107 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -35,15 +41,15 @@ Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
 (1) Für die Erteilung einer Lizenz und für die Zustimmung zur
 Übertragung einer Lizenz erhebt die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Gebühren
-nach Maßgabe des § 2 und Auslagen nach Maßgabe des § 10 des
-Verwaltungskostengesetzes.
+nach Maßgabe des § 2 und Auslagen nach Maßgabe des § 23 Absatz 6 des
+Bundesgebührengesetzes.
 
 (2) Für die Ablehnung, den Widerruf und die Rücknahme einer
 Lizenzerteilung oder einer Zustimmung zur Lizenzübertragung sowie in
 den Fällen der Zurücknahme eines Antrages auf Lizenzerteilung oder auf
-Zustimmung zur Lizenzübertragung werden Gebühren nach Maßgabe des § 15
-des Verwaltungskostengesetzes und Auslagen nach Maßgabe des § 10 des
-Verwaltungskostengesetzes erhoben.
+Zustimmung zur Lizenzübertragung werden Gebühren nach Maßgabe des § 23
+Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes und Auslagen nach
+Maßgabe des § 23 Absatz 6 des Bundesgebührengesetzes erhoben.
 
 (3) Verzichtet ein Lizenznehmer, dem vor der Verkündung der Verordnung
 eine Lizenz erteilt wurde, innerhalb von vier Wochen nach Zugang des

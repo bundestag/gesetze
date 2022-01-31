@@ -239,8 +239,8 @@ Einzelhandel mit freiverkäuflichen Arzneimitteln anerkannt:
 
 
 7.  das Zeugnis zum staatlich anerkannten Ausbildungsberuf als
-    Apothekenhelfer oder als pharmazeutisch-kaufmännischer Angestellter
-    /pharmazeutisch-kaufmännische Angestellte.
+    Apothekenhelfer oder als pharmazeutisch-kaufmännischer
+    Angestellter/pharmazeutisch-kaufmännische Angestellte.
 
 
 

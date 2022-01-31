@@ -48,6 +48,8 @@ Bundesministerium der Justiz
 
 ## Anlage
 
-(Inhalt: nicht darstellbares Kennzeichen,
 Fundstelle: BGBl. I 1998, 3157)
 
+## Andean Community
+
+![bgbl1_1998_j3157_0010.jpg](bgbl1_1998_j3157_0010.jpg)

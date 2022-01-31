@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 944
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.4.2008 I 647
+:   Art. 2 Abs. 181 G v. 7.8.2013 I 3154
 
 
 
@@ -92,9 +92,9 @@ der Prüfungsteilnehmer zu entrichten.
 
 ## § 5 Auslagen
 
-(1) Auslagen sind nach § 10 Abs. 1 Nr. 1 bis 8 des
-Verwaltungskostengesetzes zu erheben, soweit nichts anderes bestimmt
-ist.
+(1) Auslagen sind nach § 10 Absatz 1 des Verwaltungskostengesetzes in
+der bis zum 14. August 2013 geltenden Fassung zu erheben, soweit
+nichts anderes bestimmt ist.
 
 (2) Auslagen für innerhalb des Geltungsbereiches dieser Verordnung
 geführte Ferngespräche sowie für entsprechend gesendete Fernschreiben
@@ -129,8 +129,9 @@ Der Bundesrat hat zugestimmt.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2007, 945 - 946
 

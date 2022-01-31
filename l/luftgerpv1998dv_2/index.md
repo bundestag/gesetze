@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 2000, Nr 58, 4897
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2012 BAnz, AT 28.12.2012 V2
+:   Art. 1 V v. 27.4.2017 BAnz AT 03.05.2017 V2
 
 
 ## Eingangsformel
@@ -137,11 +137,13 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
 
     c)  Hängegleiter und Gleitsegel die "Lufttüchtigkeitsforderungen für
         Hängegleiter und Gleitsegel" vom 17. Dezember 2009 (NfL II-91/09),
+        geändert durch die Bekanntmachung über die Änderung von
+        "Lufttüchtigkeitsforderungen für Hängegleiter und Gleitsegel" vom 24.
+        Juli 2014 (NfL 2-55-14) und 22. August 2014 (NfL 2-60-14),
 
 
-    d)  Sprungfallschirme die "Lufttüchtigkeitsforderungen für
-        Sprungfallschirmsysteme" vom 7. Februar 2000 (NfL II-24/2000, NfL
-        II-20/03),
+    d)  Sprungfallschirme die "European Technical Standard Order – Personnel
+        Parachute Assemblies" (ETSO-C23d) in der Fassung vom 24. Oktober 2003,
 
 
     e)  Rettungsgerät für Luftsportgerät die "Lufttüchtigkeitsforderungen für
@@ -161,9 +163,13 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
 
     g)  aerodynamische gesteuerte Luftsportgeräte mit einer höchstzulässigen
         Leermasse bis 120 kg die "Bekanntmachung von
-        Lufttüchigkeitsanforderungen für aerodynamisch gesteuerte
+        Lufttüchtigkeitsanforderungen für aerodynamisch gesteuerte
         Luftsportgeräte bis 120 kg Leermasse (nicht motorisiert oder
         motorisiert)" vom 22. März 2012 (NfL II-23/12),
+
+
+    h)  Ultraleichthubschrauber die “Lufttüchtigkeitsforderungen für
+        Ultraleichthubschrauber” vom 20. Dezember 2016 (NfL 2–312–16),
 
 
 
@@ -232,7 +238,20 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
     als Lufttüchtigkeitsforderungen anzuwenden\*). Die Festlegung
     einzelfallabhängiger Zusatzforderungen nach "Certification Procedures
     For Aircraft and Related Products and Parts (JAR-21)" bleibt hiervon
-    unberührt.
+    unberührt.Die "Certification Specifications for Standard Changes and
+    Standard Repairs" (CS-STAN) in der Fassung vom 8. Juli 2015 (issue
+    1)\* sind anzuwenden für Methoden, Techniken und Verfahren zur
+    Identifizierung und Durchführung von Standardänderungen und
+    Standardreparaturen von Flugzeugen bis zu 5 700 Kilogramm maximaler
+    Abflugmasse, von Drehflüglern bis 3 175 Kilogramm maximaler
+    Abflugmasse sowie von den in Artikel 1 Absatz 2 Buchstabe i und j der
+    Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur
+    Festlegung der Durchführungsbestimmungen für die Erteilung von
+    Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und
+    zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung
+    von Entwicklungs- und Herstellungsbetrieben (ABl. L 224 vom 21.8.2012,
+    S. 1) genannten Segelflugzeugen, Motorseglern, Ballonen und
+    Luftschiffen.
 
 
 
@@ -240,7 +259,13 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
 
 \*) Die Joint Aviation Requirements (JAR) können bezogen werden über die
     Joint Aviation Authorities (JAA). Die Adresse lautet: PO Box 3000,
-    Saturnusstraat 8-10, 2130KA Hoofddorp, Niederlande.
+    Saturnusstraat 8-10, 2130KA Hoofddorp, Niederlande.Die "European
+    Technical Standard Order – Personnel Parachute Assemblies" (ETSO-C23d)
+    (http://www.easa.europa.eu/system/files/dfu/CS-ETSO.pdf) und die
+    „Certification Specifications for Standard Changes and Standard
+    Repairs“ (CS-STAN) (http://www.easa.europa.eu/system/files/dfu/Annex%2
+    0IV%20to%20EDD%202015-016- R.pdf) sind auf den Internetseiten der
+    European Aviation Safety Agency (EASA) veröffentlicht.
 
 
 

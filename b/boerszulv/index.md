@@ -20,7 +20,10 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2832;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 43 G v. 22.12.2011 I 3044
+:   Art. 8 Abs. 5 G v. 8.7.2019 I 1002
+
+Änderung durch
+:   Art. 2 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
@@ -186,11 +189,11 @@ Aktien eines Emittenten mit Sitz in einem Staat außerhalb der
 Europäischen Gemeinschaft oder außerhalb der anderen Vertragsstaaten
 des Abkommens über den Europäischen Wirtschaftsraum, die weder in
 diesem Staat noch in dem Staat ihrer hauptsächlichen Verbreitung an
-einem Markt, der mit einem organisierten Markt im Sinne des § 2 Abs. 5
-des Wertpapierhandelsgesetzes vergleichbar ist, zum Handel zugelassen
-sind, dürfen nur zugelassen werden, wenn glaubhaft gemacht wird, daß
-die Zulassung in diesen Staaten nicht aus Gründen des Schutzes des
-Publikums unterblieben ist.
+einem Markt, der mit einem organisierten Markt im Sinne des § 2 Absatz
+11 des Wertpapierhandelsgesetzes vergleichbar ist, zum Handel
+zugelassen sind, dürfen nur zugelassen werden, wenn glaubhaft gemacht
+wird, daß die Zulassung in diesen Staaten nicht aus Gründen des
+Schutzes des Publikums unterblieben ist.
 
 
 #### § 11 Zulassung von Wertpapieren mit Umtausch- oder Bezugsrecht
@@ -251,13 +254,21 @@ des Publikums unterblieben ist.
 
 #### § 48 Zulassungsantrag
 
-(1) Der Zulassungsantrag ist schriftlich zu stellen. Er muß Firma und
-Sitz der Antragsteller, Art und Betrag der zuzulassenden Wertpapiere
-angeben. Ferner ist anzugeben, ob ein gleichartiger Antrag zuvor oder
-gleichzeitig an einer anderen inländischen Börse oder in einem anderen
-Mitgliedstaat der Europäischen Union oder in einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-gestellt worden ist oder alsbald gestellt werden wird.
+(1) Der Zulassungsantrag ist elektronisch zu stellen (elektronischer
+Antrag), es sei denn, in der Börsenordnung ist die schriftliche
+Antragstellung vorgeschrieben.Die Börsenordnung regelt die näheren
+Anforderungen an das für den elektronischen Antrag einzusetzende
+Verfahren. Es ist ein dem jeweiligen Stand der Technik entsprechendes
+sicheres Verfahren zu verwenden, das den Antragsteller
+authentifizieren und das die Vertraulichkeit und die Integrität des
+elektronisch übermittelten Datensatzes gewährleisten muss. Der
+Zulassungsantrag muß Firma und Sitz der Antragsteller, Art und Betrag
+der zuzulassenden Wertpapiere angeben. Ferner ist anzugeben, ob ein
+gleichartiger Antrag zuvor oder gleichzeitig an einer anderen
+inländischen Börse oder in einem anderen Mitgliedstaat der
+Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum gestellt worden ist oder alsbald
+gestellt werden wird.
 
 (2) Dem Antrag sind ein Entwurf des Prospekts oder ein gebilligter
 Prospekt und die zur Prüfung der Zulassungsvoraussetzungen
@@ -304,6 +315,24 @@ Verlangen insbesondere vorzulegen
 
 
 
+7a. im Falle eines elektronischen Wertpapiers nach § 2 Absatz 1 des
+    Gesetzes über elektronische Wertpapiere die Erklärung des Emittenten,
+
+    a)  ob gemäß § 8 Absatz 1 Nummer 1 des Gesetzes über elektronische
+        Wertpapiere eine Sammeleintragung einer Wertpapiersammelbank als
+        Inhaber in ein zentrales Register nach § 12 Absatz 1 des Gesetzes über
+        elektronische Wertpapiere vorgenommen worden ist,
+
+
+    b)  dass im Falle des Vorliegens eines entsprechenden Antrags des Inhabers
+        gemäß § 8 Absatz 2 des Gesetzes über elektronische Wertpapiere eine
+        Einzeleintragung in eine Sammeleintragung zur Verwahrung bei einem
+        Kreditinstitut umgewandelt worden ist;
+
+
+
+
+
 8.  im Falle des § 3 Abs. 2 die Berichte über die Gründung und deren
     Prüfung (§ 32 Abs. 1, § 34 Abs. 2 des Aktiengesetzes).
 
@@ -314,16 +343,20 @@ Verlangen insbesondere vorzulegen
 #### § 48a Veröffentlichung eines Basisprospekts
 
 Schuldverschreibungen, die gleichzeitig mit ihrer öffentlichen ersten
-Ausgabe zugelassen werden sollen und für die ein nach dem
-Wertpapierprospektgesetz gültiger Basisprospekt vorliegt, kann die
+Ausgabe zugelassen werden sollen und für die ein nach der Verordnung
+(EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni
+2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren
+oder bei deren Zulassung zum Handel an einem geregelten Markt zu
+veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl.
+L 168 vom 30.6.2017, S. 12) gültiger Basisprospekt vorliegt, kann die
 Geschäftsführung zulassen, wenn die endgültigen Bedingungen des
 Angebots erst kurz vor der Ausgabe festgesetzt werden und der
 Basisprospekt innerhalb von zwölf Monaten vor der Zulassung der
 Schuldverschreibungen veröffentlicht worden ist und darüber Auskunft
 gibt, wie diese Angaben in den Prospekt aufgenommen werden. Die
 endgültigen Bedingungen müssen vor der Einführung der
-Schuldverschreibungen nach § 6 Abs. 3 des Wertpapierprospektgesetzes
-veröffentlicht werden.
+Schuldverschreibungen nach Artikel 8 Absatz 5 Unterabsatz 1 der
+Verordnung (EU) 2017/1129 veröffentlicht werden.
 
 
 #### § 49 (weggefallen)
@@ -390,10 +423,10 @@ der zuzulassenden Aktien oder, falls sie zu diesem Zeitpunkt nicht
 frei handelbar sind, zum Zeitpunkt ihrer freien Handelbarkeit zu
 stellen. Findet vor der Einführung der Aktien ein Handel von
 Bezugsrechten im regulierten Markt statt und ist ein Prospekt gemäß
-dem Wertpapierprospektgesetz zu veröffentlichen, so ist der Antrag auf
-Zulassung unter Beachtung der in § 14 Abs. 1 des
-Wertpapierprospektgesetzes für die Prospektveröffentlichung bestimmten
-Fristen zu stellen.
+der Verordnung (EU) 2017/1129 zu veröffentlichen, so ist der Antrag
+auf Zulassung unter Beachtung der in Artikel 21 der Verordnung (EU)
+2017/1129 für die Prospektveröffentlichung bestimmten Fristen zu
+stellen.
 
 
 #### § 70 (weggefallen)
@@ -453,13 +486,17 @@ Verordnung vor dem 1. Juli 2005 veröffentlicht worden ist, findet
 diese Verordnung in der vor dem 1. Juli 2005 geltenden Fassung
 weiterhin Anwendung.
 
-(2) (weggefallen)
+(2) Für Schuldverschreibungen, für die ein Basisprospekt nach dem
+Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden
+Fassung gebilligt wurde, findet § 48a in der bis zum 20. Juli 2019
+geltenden Fassung weiterhin Anwendung, solange dieser Basisprospekt
+Gültigkeit hat.
 
-(3) Sind Aktien eines Emittenten vor dem 1. November 2007 zum
-geregelten Markt zugelassen worden, so ist für vor diesem Tag
-ausgegebene Aktien, die noch nicht zugelassen sind, der Antrag auf
-Zulassung nach § 69 Abs. 1 zum regulierten Markt spätestens bis zum
-31\. Oktober 2009 zu stellen. § 69 Abs. 1 Satz 2 bleibt unberührt.
+(3) § 69 Absatz 2 Satz 2 in der bis zum 20. Juli 2019 geltenden
+Fassung findet weiterhin Anwendung für den Fall eines Prospekts, der
+nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019
+geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit
+hat.
 
 
 ### § 73

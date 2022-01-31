@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1378 (1996 I 714)
 
 Neugefasst durch
-:   Bek. v. 28.1.2009 I 142, 3177;
+:   Bek. v. 28.1.2009 I 142, 3177
 
 Zuletzt geändert durch
-:   Art. 9 G v. 7.12.2011 I 2592
+:   Art. 14 G v. 22.11.2021 I 4906
 
 
 ## Erster Abschnitt - Leistungen
@@ -54,10 +54,10 @@ wird und
     Einrichtung außerhalb Deutschlands zugewiesene Tätigkeit ausübt oder
 
 
-4.  als Ehegatte eines Mitglieds der Truppe oder des zivilen Gefolges
-    eines NATO-Mitgliedstaates die Staatsangehörigkeit eines EU/EWR-
-    Mitgliedstaates besitzt und in Deutschland seinen Wohnsitz oder
-    gewöhnlichen Aufenthalt hat.
+4.  als Ehegatte oder Lebenspartner eines Mitglieds der Truppe oder des
+    zivilen Gefolges eines NATO-Mitgliedstaates die Staatsangehörigkeit
+    eines EU/EWR-Mitgliedstaates besitzt und in Deutschland seinen
+    Wohnsitz oder gewöhnlichen Aufenthalt hat.
 
 
 
@@ -81,46 +81,61 @@ zur Vollendung des 25. Lebensjahres gewährt.
 (3) Ein nicht freizügigkeitsberechtigter Ausländer erhält Kindergeld
 nur, wenn er
 
-1.  eine Niederlassungserlaubnis besitzt,
+1.  eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-
+    EU besitzt,
 
 
-2.  eine Aufenthaltserlaubnis besitzt, die zur Ausübung einer
-    Erwerbstätigkeit berechtigt oder berechtigt hat, es sei denn, die
+2.  eine Blaue Karte EU, eine ICT-Karte, eine Mobiler-ICT-Karte oder eine
+    Aufenthaltserlaubnis besitzt, die für einen Zeitraum von mindestens
+    sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen oder
+    berechtigt haben oder diese erlauben, es sei denn, die
     Aufenthaltserlaubnis wurde
 
-    a)  nach § 16 oder § 17 des Aufenthaltsgesetzes erteilt,
+    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c
+        Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-
+        Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des
+        Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen
+        Freiwilligendienst oder nach § 20 Absatz 1 und 2 des
+        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
 
 
-    b)  nach § 18 Absatz 2 des Aufenthaltsgesetzes erteilt und die Zustimmung
-        der Bundesagentur für Arbeit darf nach der Beschäftigungsverordnung
-        nur für einen bestimmten Höchstzeitraum erteilt werden,
+    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach §
+        16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
+        ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des
+        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder
+        erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld-
+        und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten
+        Buch Sozialgesetzbuch in Anspruch,
 
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den §§ 23a, 24, 25 Absatz 3 bis 5 des
-        Aufenthaltsgesetzes erteilt
+        seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5
+        des Aufenthaltsgesetzes erteilt,
 
 
 
-
-    oder
 
 
 3.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
-
-    a)  sich seit mindestens drei Jahren rechtmäßig, gestattet oder geduldet
-        im Bundesgebiet aufhält und
-
-
-    b)  im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen
-        nach dem Dritten Buch Sozialgesetzbuch bezieht oder Elternzeit in
-        Anspruch nimmt.
+    im Bundesgebiet berechtigt erwerbstätig ist oder Elternzeit nach § 15
+    des Bundeselterngeld- und Elternzeitgesetzes oder laufende
+    Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch
+    nimmt,
 
 
+4.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
+    sich seit mindestens 15 Monaten erlaubt, gestattet oder geduldet im
+    Bundesgebiet aufhält oder
+
+
+5.  eine Beschäftigungsduldung gemäß § 60d in Verbindung mit § 60a Absatz
+    2 Satz 3 des Aufenthaltsgesetzes besitzt.
 
 
 
-
+Abweichend von Satz 1 Nummer 3 erste Alternative erhält ein
+minderjähriger nicht freizügigkeitsberechtigter Ausländer unabhängig
+von einer Erwerbstätigkeit Kindergeld.
 
 
 ### § 2 Kinder
@@ -128,7 +143,7 @@ nur, wenn er
 (1) Als Kinder werden auch berücksichtigt
 
 1.  vom Berechtigten in seinen Haushalt aufgenommene Kinder seines
-    Ehegatten,
+    Ehegatten oder Lebenspartners,
 
 
 2.  Pflegekinder (Personen, mit denen der Berechtigte durch ein
@@ -160,8 +175,9 @@ berücksichtigt, wenn es
         Ausbildungsabschnitt und der Ableistung des gesetzlichen Wehr- oder
         Zivildienstes, einer vom Wehr- oder Zivildienst befreienden Tätigkeit
         als Entwicklungshelfer oder als Dienstleistender im Ausland nach § 14b
-        des Zivildienstgesetzes oder der Ableistung eines freiwilligen
-        Dienstes im Sinne des Buchstaben d liegt, oder
+        des Zivildienstgesetzes oder der Ableistung des freiwilligen
+        Wehrdienstes nach § 58b des Soldatengesetzes oder der Ableistung eines
+        freiwilligen Dienstes im Sinne des Buchstaben d liegt, oder
 
 
     c)  eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder
@@ -169,21 +185,23 @@ berücksichtigt, wenn es
 
 
     d)  ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr
-        im Sinne des Jugendfreiwilligendienstegesetzes oder einen
-        Freiwilligendienst im Sinne des Beschlusses Nummer 1719/2006/EG des
-        Europäischen Parlaments und des Rates vom 15. November 2006 zur
-        Einführung des Programms „Jugend in Aktion“ (ABl. EU Nr. L 327 S. 30)
-        oder einen anderen Dienst im Ausland im Sinne von § 14b des
-        Zivildienstgesetzes oder einen entwicklungspolitischen
-        Freiwilligendienst „weltwärts“ im Sinne der Richtlinie des
+        im Sinne des Jugendfreiwilligendienstegesetzes oder eine
+        Freiwilligenaktivität im Rahmen des Europäischen Solidaritätskorps im
+        Sinne der Verordnung (EU) Nr. 2018/1475 des Europäischen Parlaments
+        und des Rates vom 2. Oktober 2018 zur Festlegung des rechtlichen
+        Rahmens des Europäischen Solidaritätskorps sowie zur Änderung der
+        Verordnung (EU) Nr. 1288/2013 und der Verordnung (EU) Nr. 1293/2013
+        sowie des Beschlusses Nr. 1313/2013/EU (ABl. L 250 vom 4.10.2018, S.
+        1) oder einen anderen Dienst im Ausland im Sinne von § 5 des
+        Bundesfreiwilligendienstgesetzes oder einen entwicklungspolitischen
+        Freiwilligendienst „weltwärts“ im Sinne der Förderleitlinie des
         Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
-        vom 1. August 2007 (BAnz. 2008 S. 1297) oder einen Freiwilligendienst
-        aller Generationen im Sinne von § 2 Absatz 1a des Siebten Buches
-        Sozialgesetzbuch oder einen Internationalen Jugendfreiwilligendienst
-        im Sinne der Richtlinie des Bundesministeriums für Familie, Senioren,
-        Frauen und Jugend vom 20. Dezember 2010 (GMBl S. 1778) oder einen
-        Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes
-        leistet oder
+        vom 1. Januar 2016 oder einen Freiwilligendienst aller Generationen im
+        Sinne von § 2 Absatz 1a des Siebten Buches Sozialgesetzbuch oder einen
+        Internationalen Jugendfreiwilligendienst im Sinne der Richtlinie des
+        Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 25.
+        Mai 2018 (GMBl S. 545) oder einen Bundesfreiwilligendienst im Sinne
+        des Bundesfreiwilligendienstgesetzes leistet oder
 
 
 
@@ -195,7 +213,7 @@ berücksichtigt, wenn es
 
 
 
-Nach Abschluss einer erstmaligen Berufsausbildung und eines
+Nach Abschluss einer erstmaligen Berufsausbildung oder eines
 Erststudiums wird ein Kind in den Fällen des Satzes 1 Nummer 2 nur
 berücksichtigt, wenn das Kind keiner Erwerbstätigkeit nachgeht. Eine
 Erwerbstätigkeit mit bis zu 20 Stunden regelmäßiger wöchentlicher
@@ -263,17 +281,17 @@ und Leistungen für Bildung und Teilhabe gewährt.
 Anspruchsvoraussetzungen, so werden das Kindergeld, der Kinderzuschlag
 und die Leistungen für Bildung und Teilhabe derjenigen Person gewährt,
 die das Kind in ihren Haushalt aufgenommen hat. Ist ein Kind in den
-gemeinsamen Haushalt von Eltern, einem Elternteil und dessen
-Ehegatten, Pflegeeltern oder Großeltern aufgenommen worden, bestimmen
-diese untereinander den Berechtigten. Wird eine Bestimmung nicht
-getroffen, bestimmt das Familiengericht auf Antrag den Berechtigten.
-Antragsberechtigt ist, wer ein berechtigtes Interesse an der Leistung
-des Kindergeldes hat. Lebt ein Kind im gemeinsamen Haushalt von Eltern
-und Großeltern, werden das Kindergeld, der Kinderzuschlag und die
-Leistungen für Bildung und Teilhabe vorrangig einem Elternteil
-gewährt; sie werden an einen Großelternteil gewährt, wenn der
-Elternteil gegenüber der zuständigen Stelle auf seinen Vorrang
-schriftlich verzichtet hat.
+gemeinsamen Haushalt von Eltern, von einem Elternteil und dessen
+Ehegatten oder Lebenspartner, von Pflegeeltern oder Großeltern
+aufgenommen worden, bestimmen diese untereinander den Berechtigten.
+Wird eine Bestimmung nicht getroffen, bestimmt das Familiengericht auf
+Antrag den Berechtigten. Antragsberechtigt ist, wer ein berechtigtes
+Interesse an der Leistung des Kindergeldes hat. Lebt ein Kind im
+gemeinsamen Haushalt von Eltern und Großeltern, werden das Kindergeld,
+der Kinderzuschlag und die Leistungen für Bildung und Teilhabe
+vorrangig einem Elternteil gewährt; sie werden an einen Großelternteil
+gewährt, wenn der Elternteil gegenüber der zuständigen Stelle auf
+seinen Vorrang schriftlich verzichtet hat.
 
 (3) Ist das Kind nicht in den Haushalt einer der Personen aufgenommen,
 die die Anspruchsvoraussetzungen erfüllen, wird das Kindergeld
@@ -313,9 +331,10 @@ ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten
 Buches Sozialgesetzbuch oder steht er in Deutschland in einem
 öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein
 Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 3 mit
-Rücksicht darauf ausgeschlossen, dass sein Ehegatte als Beamter,
-Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen
-Gemeinschaften für das Kind Anspruch auf Kinderzulage hat.
+Rücksicht darauf ausgeschlossen, dass sein Ehegatte oder Lebenspartner
+als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der
+Europäischen Gemeinschaften für das Kind Anspruch auf Kinderzulage
+hat.
 
 (2) Ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 der Bruttobetrag
 der anderen Leistung niedriger als das Kindergeld nach § 6, wird
@@ -330,127 +349,184 @@ und Teilhabe werden vom Beginn des Monats an gewährt, in dem die
 Anspruchsvoraussetzungen erfüllt sind; sie werden bis zum Ende des
 Monats gewährt, in dem die Anspruchsvoraussetzungen wegfallen.
 
-(2) Abweichend von Satz 1 wird in den Fällen des § 6a Absatz 1 Nummer
-4 Satz 3 Kinderzuschlag erst ab dem Monat, der auf den Monat der
-Antragstellung folgt, gewährt, wenn Leistungen nach dem Zweiten Buch
-Sozialgesetzbuch für den Monat, in dem der Antrag auf Kinderzuschlag
-gestellt worden ist, bereits erbracht worden sind.
+(2) Das Kindergeld wird rückwirkend nur für die letzten sechs Monate
+vor Beginn des Monats gezahlt, in dem der Antrag auf Kindergeld
+eingegangen ist.
+
+(3) Der Kinderzuschlag wird nicht für Zeiten vor der Antragstellung
+gewährt. § 28 des Zehnten Buches Sozialgesetzbuch gilt mit der
+Maßgabe, dass der Antrag unverzüglich nach Ablauf des Monats, in dem
+die Ablehnung oder Erstattung der anderen Leistungen bindend geworden
+ist, nachzuholen ist.
 
 
 ### § 6 Höhe des Kindergeldes
 
-(1) Das Kindergeld beträgt monatlich für erste und zweite Kinder
-jeweils 184 Euro, für dritte Kinder 190 Euro und für das vierte und
-jedes weitere Kind jeweils 215 Euro.
+(1) Das Kindergeld beträgt monatlich für das erste und zweite Kind
+jeweils 219 Euro, für das dritte Kind 225 Euro und für das vierte und
+jedes weitere Kind jeweils 250 Euro.
 
-(2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 184 Euro
+(2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 219 Euro
 monatlich.
 
-(3) Für jedes Kind, für das im Kalenderjahr 2009 mindestens für einen
-Kalendermonat ein Anspruch auf Kindergeld besteht, wird für das
-Kalenderjahr 2009 ein Einmalbetrag in Höhe von 100 Euro gezahlt.
+(3) Darüber hinaus wird für jedes Kind, für das für den Monat Mai 2021
+ein Anspruch auf Kindergeld besteht, für den Monat Mai 2021 ein
+Einmalbetrag in Höhe von 150 Euro gezahlt. Ein Anspruch in Höhe des
+Einmalbetrags von 150 Euro für das Kalenderjahr 2021 besteht auch für
+ein Kind, für das nicht für den Monat Mai 2021, jedoch für mindestens
+einen anderen Kalendermonat im Kalenderjahr 2021 ein Anspruch auf
+Kindergeld besteht.
 
 
 ### § 6a Kinderzuschlag
 
-(1) Personen erhalten nach diesem Gesetz für in ihrem Haushalt lebende
-unverheiratete Kinder, die noch nicht das 25. Lebensjahr vollendet
-haben, einen Kinderzuschlag, wenn
+(1) Personen erhalten für in ihrem Haushalt lebende unverheiratete
+oder nicht verpartnerte Kinder, die noch nicht das 25. Lebensjahr
+vollendet haben, einen Kinderzuschlag, wenn
 
 1.  sie für diese Kinder nach diesem Gesetz oder nach dem X. Abschnitt des
     Einkommensteuergesetzes Anspruch auf Kindergeld oder Anspruch auf
     andere Leistungen im Sinne von § 4 haben,
 
 
-2.  sie mit Ausnahme des Wohngeldes und des Kindergeldes über Einkommen im
-    Sinne des § 11 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch in
-    Höhe von 900 Euro oder, wenn sie alleinerziehend sind, in Höhe von 600
-    Euro verfügen, wobei Beträge nach § 11b des Zweiten Buches
-    Sozialgesetzbuch nicht abzusetzen sind,
+2.  sie mit Ausnahme des Wohngeldes, des Kindergeldes und des
+    Kinderzuschlags über Einkommen im Sinne des § 11 Absatz 1 Satz 1 des
+    Zweiten Buches Sozialgesetzbuch in Höhe von mindestens 900 Euro oder,
+    wenn sie alleinerziehend sind, in Höhe von mindestens 600 Euro
+    verfügen, wobei Beträge nach § 11b des Zweiten Buches Sozialgesetzbuch
+    nicht abzusetzen sind, und
 
 
-3.  sie mit Ausnahme des Wohngeldes über Einkommen oder Vermögen im Sinne
-    der §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch verfügen, das
-    höchstens dem nach Absatz 4 Satz 1 für sie maßgebenden Betrag
-    zuzüglich dem Gesamtkinderzuschlag nach Absatz 2 entspricht, und
-
-
-4.  durch den Kinderzuschlag Hilfebedürftigkeit nach § 9 des Zweiten
-    Buches Sozialgesetzbuch vermieden wird. Bei der Prüfung, ob
-    Hilfebedürftigkeit vermieden wird, bleiben die Bedarfe nach § 28 des
-    Zweiten Buches Sozialgesetzbuch außer Betracht. Das Gleiche gilt für
-    Mehrbedarfe nach den §§ 21 und 23 Nummer 2 bis 4 des Zweiten Buches
-    Sozialgesetzbuch, wenn kein Mitglied der Bedarfsgemeinschaft
-    Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch
-    beantragt hat oder erhält oder alle Mitglieder der Bedarfsgemeinschaft
-    für den Zeitraum, für den Kinderzuschlag beantragt wird, auf die
-    Inanspruchnahme von Leistungen nach dem Zweiten oder Zwölften Buch
-    Sozialgesetzbuch verzichten. In diesem Fall ist § 46 Absatz 2 des
-    Ersten Buches Sozialgesetzbuch nicht anzuwenden. Der Verzicht kann
-    auch gegenüber der Familienkasse erklärt werden; diese unterrichtet
-    den für den Wohnort des Berechtigten zuständigen Träger der
-    Grundsicherung für Arbeitssuchende über den Verzicht.
+3.  bei Bezug des Kinderzuschlags keine Hilfebedürftigkeit im Sinne des §
+    9 des Zweiten Buches Sozialgesetzbuch besteht, wobei die Bedarfe nach
+    § 28 des Zweiten Buches Sozialgesetzbuch außer Betracht bleiben. Bei
+    der Prüfung der Hilfebedürftigkeit ist das für den Antragsmonat
+    bewilligte Wohngeld zu berücksichtigen. Wird kein Wohngeld bezogen und
+    könnte mit Wohngeld und Kinderzuschlag Hilfebedürftigkeit vermieden
+    werden, ist bei der Prüfung Wohngeld in der Höhe anzusetzen, in der es
+    voraussichtlich für den Antragsmonat zu bewilligen wäre.
 
 
 
 
-(2) Der Kinderzuschlag beträgt für jedes zu berücksichtigende Kind
-jeweils bis zu 140 Euro monatlich. Die Summe der Kinderzuschläge
-bildet den Gesamtkinderzuschlag. Er soll jeweils für sechs Monate
-bewilligt werden. Kinderzuschlag wird nicht für Zeiten vor der
-Antragstellung erbracht. § 28 des Zehnten Buches Sozialgesetzbuch gilt
-mit der Maßgabe, dass der Antrag unverzüglich nach Ablauf des Monats,
-in dem die Ablehnung oder Erstattung der anderen Leistungen bindend
-geworden ist, nachzuholen ist.
+(1a) Ein Anspruch auf Kinderzuschlag besteht abweichend von Absatz 1
+Nummer 3, wenn
 
-(3) Der Kinderzuschlag mindert sich um das nach den §§ 11 bis 12 des
-Zweiten Buches Sozialgesetzbuch mit Ausnahme des Wohngeldes zu
-berücksichtigende Einkommen und Vermögen des Kindes. Hierbei bleibt
-das Kindergeld außer Betracht. Ein Anspruch auf Zahlung des
-Kinderzuschlags für ein Kind besteht nicht für Zeiträume, in denen
-zumutbare Anstrengungen unterlassen wurden, Einkommen des Kindes zu
-erzielen.
+1.  bei Bezug von Kinderzuschlag Hilfebedürftigkeit besteht, der
+    Bedarfsgemeinschaft zur Vermeidung von Hilfebedürftigkeit aber mit
+    ihrem Einkommen, dem Kinderzuschlag und dem Wohngeld höchstens 100
+    Euro fehlen,
 
-(4) Der Kinderzuschlag wird, soweit die Voraussetzungen des Absatzes 3
-nicht vorliegen, in voller Höhe gewährt, wenn das nach den §§ 11 bis
-12 des Zweiten Buches Sozialgesetzbuch mit Ausnahme des Wohngeldes zu
-berücksichtigende elterliche Einkommen oder Vermögen einen Betrag in
-Höhe der bei der Berechnung des Arbeitslosengeldes II oder des
-Sozialgeldes zu berücksichtigenden elterlichen Bedarfe nicht
-übersteigt. Dazu sind die Bedarfe für Unterkunft und Heizung in dem
-Verhältnis aufzuteilen, das sich aus den im jeweils letzten Bericht
-der Bundesregierung über die Höhe des Existenzminimums von Erwachsenen
-und Kindern festgestellten entsprechenden Bedarfen für Alleinstehende,
-Ehepaare und Kinder ergibt. Der Kinderzuschlag wird außer in den in
-Absatz 3 genannten Fällen auch dann stufenweise gemindert, wenn das
+
+2.  sich bei der Ermittlung des Einkommens der Eltern nach § 11b Absatz 2
+    und 3 des Zweiten Buches Sozialgesetzbuch wegen Einkommen aus
+    Erwerbstätigkeit Absetzbeträge in Höhe von mindestens 100 Euro ergeben
+    und
+
+
+3.  kein Mitglied der Bedarfsgemeinschaft Leistungen nach dem Zweiten oder
+    nach dem Zwölften Buch Sozialgesetzbuch erhält oder beantragt hat.
+
+
+
+
+(2) Der monatliche Höchstbetrag des Kinderzuschlags deckt zusammen mit
+dem für ein erstes Kind nach § 66 des Einkommensteuergesetzes zu
+zahlenden Kindergeld ein Zwölftel des steuerfrei zu stellenden
+sächlichen Existenzminimums eines Kindes für das jeweilige
+Kalenderjahr mit Ausnahme des Anteils für Bildung und Teilhabe. Steht
+dieses Existenzminimum eines Kindes zu Beginn eines Jahres nicht fest,
+ist insoweit der für das Jahr geltende Betrag für den Mindestunterhalt
+eines Kindes in der zweiten Altersstufe nach der
+Mindestunterhaltsverordnung maßgeblich. Als Höchstbetrag des
+Kinderzuschlags in dem jeweiligen Kalenderjahr gilt der Betrag, der
+sich zu Beginn des Jahres nach den Sätzen 1 und 2 ergibt, mindestens
+jedoch ein Betrag in Höhe des Vorjahres.
+
+(3) Ausgehend vom Höchstbetrag mindert sich der jeweilige
+Kinderzuschlag, wenn das Kind nach den §§ 11 bis 12 des Zweiten Buches
+Sozialgesetzbuch zu berücksichtigendes Einkommen oder Vermögen hat.
+Bei der Berücksichtigung des Einkommens bleiben das Wohngeld, das
+Kindergeld und der Kinderzuschlag außer Betracht. Der Kinderzuschlag
+wird um 45 Prozent des zu berücksichtigenden Einkommens des Kindes
+monatlich gemindert. Ein Anspruch auf Zahlung des Kinderzuschlags für
+ein Kind besteht nicht, wenn zumutbare Anstrengungen unterlassen
+wurden, Ansprüche auf Einkommen des Kindes geltend zu machen. Bei der
+Berücksichtigung des Vermögens des Kindes ist der Grundfreibetrag nach
+§ 12 Absatz 2 Satz 1 Nummer 1a des Zweiten Buches Sozialgesetzbuch
+abzusetzen. Ist das zu berücksichtigende Vermögen höher als der nach
+den Sätzen 1 bis 5 verbleibende monatliche Anspruch auf
+Kinderzuschlag, so dass es den Kinderzuschlag für den ersten Monat des
+Bewilligungszeitraums vollständig mindert, entfällt der Anspruch auf
+Kinderzuschlag. Ist das zu berücksichtigende Vermögen niedriger als
+der monatliche Anspruch auf Kinderzuschlag, ist der Kinderzuschlag im
+ersten Monat des Bewilligungszeitraums um einen Betrag in Höhe des zu
+berücksichtigenden Vermögens zu mindern und ab dem folgenden Monat
+Kinderzuschlag ohne Minderung wegen des Vermögens zu zahlen.
+
+(4) Die Summe der einzelnen Kinderzuschläge nach den Absätzen 2 und 3
+bildet den Gesamtkinderzuschlag.
+
+(5) Der Gesamtkinderzuschlag wird in voller Höhe gewährt, wenn das
 nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch mit Ausnahme
-des Wohngeldes zu berücksichtigende elterliche Einkommen oder Vermögen
-den in Satz 1 genannten jeweils maßgebenden Betrag übersteigt. Als
-elterliches Einkommen oder Vermögen gilt dabei dasjenige des mit dem
-Kind im gemeinsamen Haushalt lebenden alleinerziehenden Elternteils,
-Ehepaares oder als eingetragene Lebenspartner oder in einer
-eheähnlichen Gemeinschaft zusammenlebenden Paares. Soweit das zu
-berücksichtigende elterliche Einkommen nicht nur aus Erwerbseinkünften
-besteht, ist davon auszugehen, dass die Überschreitung des in Satz 1
-genannten jeweils maßgebenden Betrages durch die Erwerbseinkünfte
-verursacht wird, wenn nicht die Summe der anderen Einkommensteile oder
-des Vermögens für sich genommen diesen maßgebenden Betrag übersteigt.
-Für je 10 Euro, um die die monatlichen Erwerbseinkünfte den
-maßgebenden Betrag übersteigen, wird der Kinderzuschlag um 5 Euro
-monatlich gemindert. Anderes Einkommen sowie Vermögen mindern den
-Kinderzuschlag in voller Höhe. Kommt die Minderung des für mehrere
-Kinder zu zahlenden Kinderzuschlags in Betracht, wird sie beim
-Gesamtkinderzuschlag vorgenommen.
+des Wohngeldes und des Kinderzuschlags zu berücksichtigende Einkommen
+oder Vermögen der Eltern einen Betrag in Höhe der bei der Berechnung
+des Arbeitslosengeldes II oder des Sozialgeldes zu berücksichtigenden
+Bedarfe der Eltern (Gesamtbedarf der Eltern) nicht übersteigt. Als
+Einkommen oder Vermögen der Eltern gilt dabei dasjenige der Mitglieder
+der Bedarfsgemeinschaft mit Ausnahme des Einkommens oder Vermögens der
+in dem Haushalt lebenden Kinder. Zur Feststellung des Gesamtbedarfs
+der Eltern sind die Bedarfe für Unterkunft und Heizung in dem
+Verhältnis aufzuteilen, das sich aus den im 12. Bericht der
+Bundesregierung über die Höhe des Existenzminimums von Erwachsenen und
+Kindern festgestellten entsprechenden Bedarfen für Alleinstehende,
+Ehepaare, Lebenspartnerschaften und Kinder ergibt. Bei der
+Berücksichtigung des maßgeblichen Vermögens gilt Absatz 3 Satz 6 und 7
+entsprechend.
 
-(4a) (weggefallen)
+(6) Der Gesamtkinderzuschlag wird stufenweise gemindert, wenn das zu
+berücksichtigende Einkommen oder Vermögen der Eltern deren
+Gesamtbedarf übersteigt. Wenn das zu berücksichtigende Einkommen der
+Eltern nicht nur aus Erwerbseinkünften besteht, ist davon auszugehen,
+dass die Überschreitung des Gesamtbedarfs der Eltern durch die
+Erwerbseinkünfte verursacht wird, wenn nicht die Summe der anderen
+Einkommensteile oder des Vermögens für sich genommen diesen
+maßgebenden Betrag übersteigt. Der Gesamtkinderzuschlag wird um 45
+Prozent des Betrags, um den die monatlichen Erwerbseinkünfte den
+maßgebenden Betrag übersteigen, monatlich gemindert. Anderes Einkommen
+oder Vermögen der Eltern mindern den Gesamtkinderzuschlag in voller
+Höhe.
 
-(5) Ein Anspruch auf Kinderzuschlag entfällt, wenn der Berechtigte
-erklärt, ihn für einen bestimmten Zeitraum wegen eines damit
-verbundenen Verlustes von anderen höheren Ansprüchen nicht geltend
-machen zu wollen. In diesen Fällen unterrichtet die Familienkasse den
-für den Wohnort des Berechtigten zuständigen Träger der Grundsicherung
-für Arbeitsuchende über die Erklärung. Die Erklärung nach Satz 1 kann
-mit Wirkung für die Zukunft widerrufen werden.
+(7) Über den Gesamtkinderzuschlag ist jeweils für sechs Monate zu
+entscheiden (Bewilligungszeitraum). Der Bewilligungszeitraum beginnt
+mit dem Monat, in dem der Antrag gestellt wird, jedoch frühestens nach
+Ende eines laufenden Bewilligungszeitraums. Änderungen in den
+tatsächlichen oder rechtlichen Verhältnissen während des laufenden
+Bewilligungszeitraums sind abweichend von § 48 des Zehnten Buches
+Sozialgesetzbuch nicht zu berücksichtigen, es sei denn, die
+Zusammensetzung der Bedarfsgemeinschaft oder der Höchstbetrag des
+Kinderzuschlags ändert sich. Wird ein neuer Antrag gestellt,
+unverzüglich nachdem der Verwaltungsakt nach § 48 des Zehnten Buches
+Sozialgesetzbuch wegen einer Änderung der Bedarfsgemeinschaft
+aufgehoben worden ist, so beginnt ein neuer Bewilligungszeitraum
+unmittelbar nach dem Monat, in dem sich die Bedarfsgemeinschaft
+geändert hat.
+
+(8) Für die Ermittlung des monatlich zu berücksichtigenden Einkommens
+ist der Durchschnitt des Einkommens aus den sechs Monaten vor Beginn
+des Bewilligungszeitraums maßgeblich. Bei Personen, die den selbst
+genutzten Wohnraum mieten, sind als monatliche Bedarfe für Unterkunft
+und Heizung die laufenden Bedarfe für den ersten Monat des
+Bewilligungszeitraums zugrunde zu legen. Bei Personen, die an dem
+selbst genutzten Wohnraum Eigentum haben, sind als monatliche Bedarfe
+für Unterkunft und Heizung die Bedarfe aus den durchschnittlichen
+Monatswerten des Kalenderjahres vor Beginn des Bewilligungszeitraums
+zugrunde zu legen. Liegen die entsprechenden Monatswerte für den
+Wohnraum nicht vor, soll abweichend von Satz 3 ein Durchschnitt aus
+den letzten vorliegenden Monatswerten für den Wohnraum zugrunde gelegt
+werden, nicht jedoch aus mehr als zwölf Monatswerten. Im Übrigen sind
+die tatsächlichen und rechtlichen Verhältnisse zu Beginn des
+Bewilligungszeitraums maßgeblich.
 
 
 ### § 6b Leistungen für Bildung und Teilhabe
@@ -483,20 +559,57 @@ zur Deckung der Bedarfe nach § 28 Absatz 2 bis 7 des Zweiten Buches
 Sozialgesetzbuch. § 28 Absatz 1 Satz 2 des Zweiten Buches
 Sozialgesetzbuch gilt entsprechend. Für die Bemessung der Leistungen
 für die Schülerbeförderung nach § 28 Absatz 4 des Zweiten Buches
-Sozialgesetzbuch ist ein Betrag in Höhe der regelbedarfsrelevanten
-Verbrauchsausgaben nach § 6 des Regelbedarfsermittlungsgesetzes
-entsprechend zu berücksichtigen. Für die gemeinschaftliche
-Mittagsverpflegung nach § 28 Absatz 6 des Zweiten Buches
-Sozialgesetzbuch wird zur Ermittlung der Mehraufwendungen für jedes
-Mittagessen ein Betrag in Höhe des in § 9 des
-Regelbedarfsermittlungsgesetzes festgelegten Eigenanteils
-berücksichtigt. Die Leistungen nach Satz 1 gelten nicht als Einkommen
-oder Vermögen im Sinne dieses Gesetzes. § 19 Absatz 3 des Zweiten
-Buches Sozialgesetzbuch findet keine Anwendung.
+Sozialgesetzbuch sind die erforderlichen tatsächlichen Aufwendungen zu
+berücksichtigen, soweit sie nicht von Dritten übernommen werden. Die
+Leistungen nach Satz 1 gelten nicht als Einkommen oder Vermögen im
+Sinne dieses Gesetzes. § 19 Absatz 3 des Zweiten Buches
+Sozialgesetzbuch findet keine Anwendung.
+
+(2a) Ansprüche auf Leistungen für Bildung und Teilhabe verjähren in
+zwölf Monaten nach Ablauf des Kalendermonats, in dem sie entstanden
+sind.
 
 (3) Für die Erbringung der Leistungen für Bildung und Teilhabe gelten
-die §§ 29 und 40 Absatz 3 des Zweiten Buches Sozialgesetzbuch
+die §§ 29, 30 und 40 Absatz 6 des Zweiten Buches Sozialgesetzbuch
 entsprechend.
+
+
+### § 6c Unterhaltspflichten
+
+Unterhaltspflichten werden durch den Kinderzuschlag nicht berührt.
+
+
+### § 6d Kinderfreizeitbonus aus Anlass der COVID-19-Pandemie für Familien mit Kinderzuschlag, Wohngeld oder Sozialhilfe
+
+(1) Personen erhalten eine Einmalzahlung in Höhe von 100 Euro für ein
+Kind, welches das 18. Lebensjahr noch nicht vollendet hat und für das
+sie für den Monat August 2021 Kindergeld nach diesem Gesetz oder nach
+dem X. Abschnitt des Einkommensteuergesetzes oder andere Leistungen im
+Sinne von § 4 beziehen, wenn
+
+1.  sie für dieses Kind für den Monat August 2021 Kinderzuschlag nach § 6a
+    beziehen,
+
+
+2.  sie und dieses Kind oder nur dieses Kind zu berücksichtigende
+    Haushaltsmitglieder im Sinne der §§ 5 und 6 Absatz 1 des
+    Wohngeldgesetzes sind und die Wohngeldbewilligung den Monat August
+    2021 umfasst oder
+
+
+3.  dieses Kind für den Monat August 2021 Leistungen nach dem Dritten
+    Kapitel des Zwölften Buches Sozialgesetzbuch bezieht.
+
+
+
+Eines gesonderten Antrags bedarf es in den Fällen des Satzes 1 Nummer
+1 nicht. In den Fällen des Satzes 1 Nummer 2 und 3 bedarf es eines
+Antrags; § 9 Absatz 1 Satz 2 ist entsprechend anzuwenden.
+
+(2) Die Einmalzahlung nach Absatz 1 Satz 1 ist bei Sozialleistungen,
+deren Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen
+zu berücksichtigen. Der Anspruch auf die Einmalzahlung nach Absatz 1
+Satz 1 ist unpfändbar. § 6c gilt entsprechend.
 
 
 ## Zweiter Abschnitt - Organisation und Verfahren
@@ -524,18 +637,28 @@ Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und
 § 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
 
 
+### § 7b Automatisiertes Abrufverfahren
+
+Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach
+§ 68 Absatz 6 Satz 2 des Einkommensteuergesetzes Gebrauch und erlässt
+eine Rechtsverordnung zur Durchführung von automatisierten Abrufen
+nach § 68 Absatz 6 Satz 1 des Einkommensteuergesetzes, so ist die
+Rechtsverordnung im Geltungsbereich dieses Gesetzes entsprechend
+anzuwenden.
+
+
 ### § 8 Aufbringung der Mittel
 
 (1) Die Aufwendungen der Bundesagentur für die Durchführung dieses
 Gesetzes trägt der Bund.
 
 (2) Der Bund stellt der Bundesagentur nach Bedarf die Mittel bereit,
-die sie für die Zahlung des Kindergeldes benötigt.
+die sie für die Zahlung des Kindergeldes und des Kinderzuschlags
+benötigt.
 
 (3) Der Bund erstattet die Verwaltungskosten, die der Bundesagentur
-aus der Durchführung dieses Gesetzes entstehen, in einem Pauschbetrag,
-der zwischen der Bundesregierung und der Bundesagentur vereinbart
-wird.
+aus der Durchführung dieses Gesetzes entstehen. Näheres wird durch
+Verwaltungsvereinbarung geregelt.
 
 (4) Abweichend von den Absätzen 1 bis 3 tragen die Länder die Ausgaben
 für die Leistungen nach § 6b und ihre Durchführung.
@@ -555,7 +678,7 @@ Berechtigte anzeigt, dass die Voraussetzungen des § 2 Absatz 2
 vorliegen. Absatz 1 gilt entsprechend.
 
 (3) Die Leistungen für Bildung und Teilhabe sind bei der zuständigen
-Stelle schriftlich zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
+Stelle zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
 
 
 ### § 10 Auskunftspflicht
@@ -564,7 +687,8 @@ Stelle schriftlich zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
 bei dem Antragsteller oder Berechtigten berücksichtigten Kinder, für
 den nicht dauernd getrennt lebenden Ehegatten des Antragstellers oder
 Berechtigten und für die sonstigen Personen, bei denen die
-bezeichneten Kinder berücksichtigt werden.
+bezeichneten Kinder berücksichtigt werden. § 60 Absatz 4 des Zweiten
+Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Soweit es zur Durchführung der §§ 2 und 6a erforderlich ist, hat
 der jeweilige Arbeitgeber der in diesen Vorschriften bezeichneten
@@ -591,6 +715,26 @@ abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
 die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
 Vergangenheit zurückgenommen werden.
 
+(5) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
+aufgehoben, sind bereits erbrachte Leistungen abweichend von § 50
+Absatz 1 des Zehnten Buches Sozialgesetzbuch nicht zu erstatten,
+soweit der Bezug von Kinderzuschlag den Anspruch auf Leistungen nach
+dem Zweiten Buch Sozialgesetzbuch ausschließt oder mindert.
+
+(6) Entsprechend anwendbar sind die Vorschriften des Dritten Buches
+Sozialgesetzbuch über
+
+1.  die Aufhebung von Verwaltungsakten (§ 330 Absatz 2, 3 Satz 1) sowie
+
+
+2.  die vorläufige Zahlungseinstellung nach § 331 mit der Maßgabe, dass
+    die Familienkasse auch zur teilweisen Zahlungseinstellung berechtigt
+    ist, wenn sie von Tatsachen Kenntnis erhält, die zu einem geringeren
+    Leistungsanspruch führen.
+
+
+
+
 
 ### § 12 Aufrechnung
 
@@ -613,14 +757,15 @@ zuständig, in deren Bezirk er seinen gewöhnlichen Aufenthalt hat. Hat
 der Berechtigte im Geltungsbereich dieses Gesetzes weder einen
 Wohnsitz noch einen gewöhnlichen Aufenthalt, ist die Familienkasse
 zuständig, in deren Bezirk er erwerbstätig ist. In den übrigen Fällen
-ist die Familienkasse Nürnberg zuständig.
+ist die Familienkasse Bayern Nord zuständig.
 
 (2) Die Entscheidungen über den Anspruch trifft die Leitung der
 Familienkasse.
 
 (3) Der Vorstand der Bundesagentur kann für bestimmte Bezirke oder
 Gruppen von Berechtigten die Entscheidungen über den Anspruch auf
-Kindergeld einer anderen Familienkasse übertragen.
+Kindergeld und Kinderzuschlag einheitlich einer anderen Familienkasse
+übertragen.
 
 (4) Für die Leistungen nach § 6b bestimmen abweichend von den Absätzen
 1 und 2 die Landesregierungen oder die von ihnen beauftragten Stellen
@@ -630,9 +775,9 @@ die für die Durchführung zuständigen Behörden.
 ### § 14 Bescheid
 
 Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
-Bildung und Teilhabe abgelehnt, ist ein schriftlicher Bescheid zu
-erteilen. Das Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder
-Leistungen für Bildung und Teilhabe entzogen werden.
+Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das
+Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder Leistungen für
+Bildung und Teilhabe entzogen werden.
 
 
 ### § 15 Rechtsweg
@@ -712,6 +857,14 @@ in der bis zum 31. Dezember 1995 geltenden Fassung zu Ende geführt,
 soweit in § 78 des Einkommensteuergesetzes nichts anderes bestimmt
 ist.
 
+(3) Wird Kinderzuschlag vor dem 1. Juli 2019 bewilligt, finden die
+Regelungen des Bundeskindergeldgesetzes in der bis zum 30. Juni 2019
+geltenden Fassung weiter Anwendung, mit Ausnahme der Regelung zum
+monatlichen Höchstbetrag des Kinderzuschlags nach § 20 Absatz 3.
+
+(4) § 6c lässt Unterhaltsleistungen, die vor dem 30. Juni 2021 fällig
+geworden sind, unberührt.
+
 
 ### § 20 Anwendungsvorschrift
 
@@ -725,22 +878,76 @@ Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den
 Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes
 gleichgestellt.
 
-(2) § 5 Absatz 2 des Bundeskindergeldgesetzes in der Fassung der
-Bekanntmachung vom 23. Januar 1997 (BGBl. I S. 46) ist letztmals für
-das Kalenderjahr 1997 anzuwenden, so dass Kindergeld auf einen nach
-dem 31. Dezember 1997 gestellten Antrag rückwirkend längstens bis
-einschließlich Juli 1997 gezahlt werden kann.
+(2) Die Regelung der erweiterten Zugangsmöglichkeit nach § 6a Absatz
+1a ist bis zum 31. Dezember 2023 anzuwenden.
 
-(3) In Fällen, in denen die Entscheidung über die Höhe des
-Kindergeldanspruchs für Monate in dem Zeitraum zwischen dem 1. Januar
-1994 und dem 31. Dezember 1995 noch nicht bestandskräftig geworden
-ist, ist statt des § 3 Absatz 3 Satz 1 dieses Gesetzes in der Fassung
-des Ersten Gesetzes zur Umsetzung des Spar-, Konsolidierungs- und
-Wachstumsprogramms vom 21. Dezember 1993 (BGBl. I S. 2353) § 3 Absatz
-2 Satz 1 und 2 dieses Gesetzes in der am 23. Dezember 2003 geltenden
-Fassung anzuwenden.
+(3) Abweichend von § 6a Absatz 2 beträgt für die Zeit vom 1. Juli 2019
+bis zum 31. Dezember 2020 der monatliche Höchstbetrag des
+Kinderzuschlags für jedes zu berücksichtigende Kind 185 Euro.
 
-(4) § 1 Absatz 2 Satz 3 und § 2 Absatz 2 und 3 in der Fassung des
+(4) Wird einer Person Kinderzuschlag für einen nach dem 30. Juni 2019
+und vor dem 1. Juli 2021 beginnenden Bewilligungszeitraum bewilligt
+und wird ihr der Verwaltungsakt erst nach Ablauf des ersten Monats des
+Bewilligungszeitraums bekannt gegeben, endet dieser
+Bewilligungszeitraum abweichend von § 6a Absatz 7 Satz 1 am Ende des
+fünften Monats nach dem Monat der Bekanntgabe des Verwaltungsaktes.
+
+(5) Abweichend von § 6a Absatz 7 Satz 1 wird in Fällen, in denen der
+höchstmögliche Gesamtkinderzuschlag bezogen wird und der sechsmonatige
+Bewilligungszeitraum in der Zeit vom 1. April 2020 bis zum 30.
+September 2020 endet, der Bewilligungszeitraum von Amts wegen einmalig
+um weitere sechs Monate verlängert. Satz 1 gilt entsprechend, wenn der
+ursprüngliche Bewilligungszeitraum in Anwendung des § 20 Absatz 4 mehr
+als sechs Monate umfasst.
+
+(6) Abweichend von § 6a Absatz 8 Satz 1 ist für Anträge, die in der
+Zeit vom 1. April 2020 bis zum 30. September 2020 eingehen, bei der
+Ermittlung des monatlich zu berücksichtigenden Einkommens der Eltern
+nur das Einkommen aus dem letzten Monat vor Beginn des
+Bewilligungszeitraums maßgeblich. In diesen Fällen wird abweichend von
+§ 6a Absatz 3 Satz 1 und Absatz 5 Satz 1 Vermögen nach § 12 des
+Zweiten Buches Sozialgesetzbuch nicht berücksichtigt. Satz 2 gilt
+nicht, wenn das Vermögen erheblich ist; es wird vermutet, dass kein
+erhebliches Vermögen vorhanden ist, wenn die Antragstellerin oder der
+Antragsteller dies im Antrag erklärt.
+
+(6a) Abweichend von § 6a Absatz 3 Satz 1 und Absatz 5 Satz 1 wird für
+Bewilligungszeiträume, die in der Zeit vom 1. Oktober 2020 bis 31.
+März 2022 beginnen, Vermögen nach § 12 des Zweiten Buches
+Sozialgesetzbuch nicht berücksichtigt. Satz 1 gilt nicht, wenn das
+Vermögen erheblich ist; es wird vermutet, dass kein erhebliches
+Vermögen vorhanden ist, wenn die Antragstellerin oder der
+Antragsteller dies im Antrag erklärt. Macht die Bundesregierung von
+ihrer Verordnungsermächtigung nach § 67 Absatz 5 des Zweiten Buches
+Sozialgesetzbuch Gebrauch und verlängert den in § 67 Absatz 1 des
+Zweiten Buches Sozialgesetzbuch genannten Zeitraum, ändert sich das in
+Satz 1 genannte Datum, bis zu dem die Regelung Anwendung findet,
+entsprechend.
+
+(7) In Fällen, in denen der Bewilligungszeitraum vor dem 1. April 2020
+begonnen hat, kann im April oder Mai 2020 einmalig während des
+laufenden Bewilligungszeitraums ein Antrag auf Überprüfung gestellt
+werden. Bei der Überprüfung ist abweichend von § 6a Absatz 8 Satz 1
+als monatlich zu berücksichtigendes Einkommen der Eltern nur das
+Einkommen aus dem Monat vor dem Überprüfungsantrag zugrunde zu legen.
+Im Übrigen sind die bereits für den laufenden Bewilligungszeitraum
+nach Absatz 8 ermittelten tatsächlichen und rechtlichen Verhältnisse
+zugrunde zu legen. Die Voraussetzung nach § 6a Absatz 1 Nummer 3, dass
+bei Bezug des Kinderzuschlags keine Hilfebedürftigkeit besteht, ist
+nicht anzuwenden. Ergibt die Überprüfung einen höheren Kinderzuschlag,
+wird für die restlichen Monate des Bewilligungszeitraums
+Kinderzuschlag in der neuen Höhe bewilligt; anderenfalls ist der
+Antrag abzulehnen. Ist ein Bewilligungsbescheid für einen
+Bewilligungszeitraum, der vor dem 1. April 2020 beginnt, noch nicht
+ergangen, gelten die Sätze 1 bis 5 entsprechend. In den Fällen nach
+den Sätzen 1 bis 6 ist die Verlängerungsregelung nach Absatz 5 nicht
+anzuwenden.
+
+(7a) Bei den Leistungen für Bildung und Teilhabe nach § 6b ist § 68
+Absatz 1 des Zweiten Buches Sozialgesetzbuch sowie eine nach dessen
+Absatz 2 erlassene Rechtsverordnung entsprechend anzuwenden.
+
+(8) § 1 Absatz 2 Satz 3 und § 2 Absatz 2 und 3 in der Fassung des
 Artikels 3 des Gesetzes vom 19. Juli 2006 (BGBl. I S. 1652) ist für
 Kinder, die im Kalenderjahr 2006 das 24. Lebensjahr vollendeten, mit
 der Maßgabe anzuwenden, dass jeweils an die Stelle der Angabe "25.
@@ -768,62 +975,39 @@ hinaus" tritt; für Kinder, die im Kalenderjahr 2006 das 25., 26. oder
 27\. Lebensjahr vollendeten, ist § 2 Absatz 3 Satz 1 weiterhin in der
 bis zum 31. Dezember 2006 geltenden Fassung anzuwenden.
 
-(5) § 2 Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des
-Artikels 2 Absatz 8 Buchstabe a Doppelbuchstabe aa des Gesetzes vom
-16\. Mai 2008 (BGBl. I S. 842) ist auf Freiwilligendienste im Sinne des
-Beschlusses Nummer 1719/2006/EG des Europäischen Parlaments und des
-Rates vom 15. November 2006 zur Einführung des Programms „Jugend in
-Aktion“ (ABl. EU Nr. L 327 S. 30), die ab dem 1. Januar 2007 begonnen
-wurden, ab dem 1. Januar 2007 und auf Freiwilligendienste „weltwärts“
-im Sinne der Richtlinie des Bundesministeriums für wirtschaftliche
-Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297)
-ab dem 1. Januar 2008 anzuwenden. Die Regelungen des § 2 Absatz 2 Satz
-1 Nummer 2 Buchstabe d in der bis zum 31. Mai 2008 geltenden Fassung
-sind bezogen auf die Ableistung eines freiwilligen sozialen Jahres im
-Sinne des Gesetzes zur Förderung eines freiwilligen sozialen Jahres
-oder eines freiwilligen ökologischen Jahres im Sinne des Gesetzes zur
-Förderung eines freiwilligen ökologischen Jahres auch über den 31. Mai
-2008 hinaus anzuwenden, soweit die vorstehend genannten freiwilligen
-Jahre vor dem 1. Juni 2008 vereinbart oder begonnen wurden und über
-den 31. Mai 2008 hinausgehen und die Beteiligten nicht die Anwendung
-der Vorschriften des Jugendfreiwilligendienstegesetzes vereinbaren. §
-2 Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 13
-des Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) ist auf einen
-Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des
-Siebten Buches Sozialgesetzbuch ab dem 1. Januar 2009 anzuwenden. § 2
-Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 9 des
-Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) ist auf einen
-Internationalen Jugendfreiwilligendienst ab dem 1. Januar 2011 und auf
-einen Bundesfreiwilligendienst ab dem 3. Mai 2011 anzuwenden.
+(9) § 2 Absatz 2 Satz 1 Nummer 2 Buchstabe d in der am 31. Juli 2014
+geltenden Fassung ist auf Freiwilligendienste im Sinne der Verordnung
+(EU) Nr. 1288/2013 des Europäischen Parlaments und des Rates vom 11.
+Dezember 2013 zur Einrichtung von „Erasmus+“, dem Programm der Union
+für allgemeine und berufliche Bildung, Jugend und Sport, und zur
+Aufhebung der Beschlüsse Nr. 1719/2006/EG, Nr. 1720/2006/EG und Nr.
+1298/2008/EG (ABl. L 347 vom 20.12.2013, S. 50), die ab dem 1. Januar
+2014 begonnen wurden, ab dem 1. Januar 2014 anzuwenden.
 
-(5a) § 2 Absatz 2 Satz 2 in der Fassung des Artikels 13 des Gesetzes
+(9a) § 2 Absatz 2 Satz 2 in der Fassung des Artikels 13 des Gesetzes
 vom 16. Juli 2009 (BGBl. I S. 1959) ist ab dem 1. Januar 2010
 anzuwenden.
 
-(6) § 2 Absatz 2 Satz 4 in der Fassung des Artikels 2 Absatz 8 des
+(10) § 2 Absatz 2 Satz 4 in der Fassung des Artikels 2 Absatz 8 des
 Gesetzes vom 16. Mai 2008 (BGBl. I S. 842) ist erstmals ab dem 1.
 Januar 2009 anzuwenden.
 
-(7) § 6a Absatz 1 Nummer 2 in der am 30. September 2008 geltenden
-Fassung ist in Fällen, in denen zu diesem Zeitpunkt Kinderzuschlag
-bezogen wurde, so lange weiter anzuwenden, wie dies für die
-Antragsteller günstiger ist und der Bezug des Kinderzuschlags nicht
-unterbrochen wurde.
+(11) § 2 Absatz 3 ist letztmals bis zum 31. Dezember 2018 anzuwenden;
+Voraussetzung ist in diesen Fällen, dass das Kind den Dienst oder die
+Tätigkeit vor dem 1. Juli 2011 angetreten hat.
 
-(8) Abweichend von § 9 Absatz 3 können die Leistungen nach § 6b vom 1.
-Januar bis 31. Mai 2011 bei der nach § 13 Absatz 1 zuständigen
-Familienkasse beantragt werden. Die Familienkasse, bei der die
-leistungsberechtigte Person den Antrag stellt, leitet den Antrag an
-die nach § 13 Absatz 4 bestimmte Stelle weiter. § 77 Absatz 7 und 11
-Satz 4 des Zweiten Buches Sozialgesetzbuch gilt entsprechend. § 77
-Absatz 9 und 11 Satz 1 bis 3 des Zweiten Buches Sozialgesetzbuch gilt
-mit der Maßgabe, dass die abweichende Leistungserbringung bis zum 31.
-Mai 2011 erfolgt; dabei bleibt § 77 Absatz 8 des Zweiten Buches
-Sozialgesetzbuch außer Betracht. Leistungen für mehrtägige
-Klassenfahrten nach § 6b Absatz 2 Satz 1 in Verbindung mit § 28 Absatz
-2 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch werden für den
-Zeitraum vom 1. Januar bis zum 31. Mai 2011 durch Geldleistung
-erbracht.
+(12) § 6 Absatz 3 in der am 1. Januar 2018 geltenden Fassung ist auf
+Anträge anzuwenden, die nach dem 31. Dezember 2017 eingehen.
+
+(13) § 1 Absatz 3 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 34
+des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für
+Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem
+letzten Tag des sechsten auf die Verkündung des
+Fachkräfteeinwanderungsgesetzes folgenden Kalendermonats beginnen. § 1
+Absatz 3 Satz 1 Nummer 5 in der Fassung des Artikels 34 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen
+anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019
+beginnen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
@@ -849,8 +1033,9 @@ zu zahlen.
 
 ### § 22 Bericht der Bundesregierung
 
-Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember
-2006 einen Bericht über die Auswirkungen des § 6a (Kinderzuschlag)
-sowie über die gegebenenfalls notwendige Weiterentwicklung dieser
-Vorschrift vor.
+Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2023
+einen Bericht über die Auswirkungen des § 6a (Kinderzuschlag) und
+insbesondere über die Auswirkungen der erweiterten Zugangsmöglichkeit
+zum Kinderzuschlag nach § 6a Absatz 1a sowie über die gegebenenfalls
+notwendige Weiterentwicklung dieser Vorschrift vor.
 

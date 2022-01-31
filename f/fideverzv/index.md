@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2057
 
+Zuletzt geändert durch
+:   Art. 29 G v. 23.6.2021 I 1858
+
 
 ## Eingangsformel
 
@@ -81,23 +84,7 @@ deren nationale Umsetzung zum Gegenstand haben:
 
 
 3.  Straftaten gegen Vorschriften über den Außenwirtschaftsverkehr nach
-
-    a)  § 34 Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes,
-
-
-    b)  § 34 Absatz 2 in Verbindung mit § 33 Absatz 1 des
-        Außenwirtschaftsgesetzes und in Verbindung mit § 70 Absatz 1 der
-        Außenwirtschaftsverordnung,
-
-
-    c)  § 34 Absatz 4 Nummer 1 des Außenwirtschaftsgesetzes,
-
-
-    d)  § 34 Absatz 5 des Außenwirtschaftsgesetzes, sofern die Straftat von
-        den Buchstaben a bis c erfasst ist;
-
-
-
+    den §§ 17 und 18 Absatz 2 des Außenwirtschaftsgesetzes;
 
 
 4.  Straftaten gegen Vorschriften über den Warenverkehr zum Schutz der
@@ -112,7 +99,7 @@ deren nationale Umsetzung zum Gegenstand haben:
     c)  § 87 Absatz 1 Nummer 3 des Strafgesetzbuches,
 
 
-    d)  § 130 Absatz 2 Nummer 1 des Strafgesetzbuches,
+    d)  § 130 Absatz 2 des Strafgesetzbuches,
 
 
     e)  § 130a des Strafgesetzbuches,
@@ -167,8 +154,8 @@ deren nationale Umsetzung zum Gegenstand haben:
     t)  § 27 Absatz 1 und 2 des Jugendschutzgesetzes,
 
 
-    u)  § 148 Absatz 1 Nummer 2 Buchstabe b Variante 2 bis 4 des
-        Telekommunikationsgesetzes,
+    u)  § 25 Absatz 1 Nummer 3 Variante 2 des Telekommunikation-Telemedien-
+        Datenschutz-Gesetzes,
 
 
     v)  § 5 des Hundeverbringungs- und -einfuhrbeschränkungsgesetzes;
@@ -190,7 +177,7 @@ deren nationale Umsetzung zum Gegenstand haben:
         Bundesnaturschutzgesetzes,
 
 
-    d)  § 13 Nummer 1 des Strahlenschutzvorsorgegesetzes,
+    d)  (weggefallen)
 
 
     e)  § 74 Absatz 1 Nummer 2 des Tierseuchengesetzes;
@@ -206,18 +193,21 @@ deren nationale Umsetzung zum Gegenstand haben:
         18 und 19 des Arzneimittelgesetzes,
 
 
-    b)  § 58 Absatz 1 Nummer 1 bis 3, 8 und 9 sowie Absatz 5 und § 59 Absatz 1
+    b)  § 4 Absatz 1 Nummer 1 und 3 und Absatz 4 des Anti-Doping-Gesetzes,
+
+
+    c)  § 58 Absatz 1 Nummer 1 bis 3, 8 und 9 sowie Absatz 5 und § 59 Absatz 1
         des Lebensmittel- und Futtermittelgesetzbuches, auch in Verbindung mit
         § 10 Absatz 1 der Lebensmittel-Kennzeichnungsverordnung,
 
 
-    c)  den §§ 74 und 75 des Infektionsschutzgesetzes,
+    d)  den §§ 74 und 75 des Infektionsschutzgesetzes,
 
 
-    d)  § 18 des Transplantationsgesetzes,
+    e)  § 18 des Transplantationsgesetzes,
 
 
-    e)  § 49 des Weingesetzes;
+    f)  § 49 des Weingesetzes;
 
 
 
@@ -235,7 +225,7 @@ deren nationale Umsetzung zum Gegenstand haben:
     c)  § 108b Absatz 1 Nummer 2b, Absatz 2 und 3 des Urheberrechtsgesetzes,
 
 
-    d)  § 51 des Geschmacksmustergesetzes,
+    d)  § 51 des Designgesetzes,
 
 
     e)  § 142 Absatz 1 Nummer 1 des Patentgesetzes,
@@ -254,27 +244,19 @@ deren nationale Umsetzung zum Gegenstand haben:
 
 
 8.  Straftaten gegen Vorschriften über den Warenverkehr zum Schutz des
-    Kulturgutes nach
-
-    a)  § 20 Absatz 1 Nummer 1 und 3 des Kulturgüterrückgabegesetzes,
-
-
-    b)  § 16 Absatz 1 und 2 des Gesetzes zum Schutz deutschen Kulturgutes
-        gegen Abwanderung.
-
-
-
+    Kulturgutes nach § 83 Absatz 1 Nummer 1 des Kulturgutschutzgesetzes
+    vom 31. Juli 2016 (BGBl. I S. 1914).
 
 
 
 
 (2) In das Aktennachweissystem für Zollzwecke dürfen des Weiteren
 Daten zu Straftaten aus dem Bereich der Geldwäsche nach § 261 des
-Strafgesetzbuches aufgenommen werden, sofern die dort in Absatz 1 Satz
-2 genannten rechtswidrigen Taten von Artikel 2 Nummer 1 Buchstabe c
-des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den
-Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom
-10\.12.2009, S. 20, L 234 vom 4.9.2010, S. 17) erfasst werden.
+Strafgesetzbuches aufgenommen werden, sofern die Vortaten von Artikel
+2 Nummer 1 Buchstabe c des Beschlusses 2009/917/JI des Rates vom 30.
+November 2009 über den Einsatz der Informationstechnologie im
+Zollbereich (ABl. L 323 vom 10.12.2009, S. 20, L 234 vom 4.9.2010, S.
+17) erfasst werden.
 
 
 ## § 2

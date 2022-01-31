@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1269
 
-Geändert durch
-:   Art. 2 V v. 7.12.2011 I 2630
+Zuletzt geändert durch
+:   Art. 2 V v. 20.3.2014 I 269
 
 
 ## § 1 Anwendungsbereich
@@ -97,22 +97,19 @@ umfassen:
 
 
 
-(4) Ohne eine Meldung nach Absatz 3 ist die Bundesanstalt nicht
-verpflichtet, die Erzeugnisse für eine Stichprobenkontrolle zu
-bestimmen und zu kontrollieren.
+(4) (weggefallen)
 
 
 ## § 4 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig handelt, wer entgegen Artikel 113a Absatz 3 erster
-Halbsatz der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober
-2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. L 229 vom 16.11.2007, S.
-1), die zuletzt durch die Verordnung (EG) Nr. 72/2009 des Rates vom
-19\. Januar 2009 (ABl. L 30 vom 31.1.2009, S. 1) geändert worden ist,
-ein Erzeugnis feilhält, anbietet, verkauft, liefert oder anderweitig
-in den Verkehr bringt.
+(1) Ordnungswidrig handelt, wer entgegen Artikel 76 Absatz 3 erster
+Halbsatz der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments
+und des Rates vom 17. Dezember 2013 über eine gemeinsame
+Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+671) ein Erzeugnis feilhält, anbietet, liefert oder anderweitig
+vermarktet.
 
 (2) Ordnungswidrig handelt, wer gegen die Durchführungsverordnung (EU)
 Nr. 543/2011 verstößt, indem er

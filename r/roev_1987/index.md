@@ -2,7 +2,7 @@
 Title: Verordnung über den Schutz vor Schäden durch Röntgenstrahlen
 jurabk: RöV 1987
 layout: default
-origslug: r_v_1987
+origslug: roev_1987
 slug: roev_1987
 
 ---
@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 30. 4.2003 I 604;
 
-Geändert durch
-:   Art. 2 V v. 4.10.2011 I 2000
+Zuletzt geändert durch
+:   Art. 6 V v. 11.12.2014 I 2010
 
 Die Verordnung zur Änderung der Röntgenverordnung dient der Umsetzung
 der Richtlinie 96/29/EURATOM des Rates vom 13. Mai 1996 zur Festlegung
@@ -2862,15 +2862,43 @@ vorzulegen. Bei Beendigung des Betriebes der Röntgeneinrichtung oder
 des Störstrahlers nach § 5 Abs. 1 sind sie bei der von der zuständigen
 Behörde bestimmten Stelle zu hinterlegen.
 
-(3) Zur Messung der Personendosis, der Ortsdosis und der
-Ortsdosisleistung sind, sofern geeichte Strahlungsmessgeräte nicht
-vorgeschrieben sind, andere geeignete Strahlungsmessgeräte zu
-verwenden. Die Strahlungsmessgeräte müssen
+(3) Messgeräte für Röntgenstrahlung der in § 1 Absatz 1 Nummer 13 der
+Mess- und Eichverordnung bezeichneten Art müssen dem Mess- und
+Eichgesetz entsprechen, wenn sie für nachfolgende Zwecke verwendet
+werden:
+
+1.  für die physikalische Strahlenschutzkontrolle mittels Messung
+
+    a)  der Personendosis nach § 35 Absatz 4 Satz 1, Absatz 6 Satz 1 oder
+        Absatz 8 Nummer 3 oder
+
+
+    b)  der Ortsdosis oder Ortsdosisleistung nach § 34 Absatz 1 Satz 1 oder §
+        35 Absatz 8 Nummer 1,
+
+
+
+
+
+2.  für Messungen zur Abgrenzung von Strahlenschutzbereichen oder zur
+    Festlegung von Aufenthaltszeiten von Personen in
+    Strahlenschutzbereichen oder
+
+
+3.  für Messungen nach den §§ 3, 4 und 16 Absatz 2.
+
+
+
+Zur Messung der Personendosis, der Ortsdosis und der Ortsdosisleistung
+sind, sofern nicht nach Satz 1 Nummer 1 Messgeräte nach dem Mess- und
+Eichgesetz vorgeschrieben sind, andere geeignete Strahlungsmessgeräte
+zu verwenden. Es ist dafür zu sorgen, dass die Strahlungsmessgeräte
+nach den Sätzen 1 und 2
 
 1.  den Anforderungen des Messzwecks genügen,
 
 
-2.  in ausreichender Zahl vorhanden sein und
+2.  in ausreichender Zahl vorhanden sind und
 
 
 3.  regelmäßig auf ihre Funktionstüchtigkeit geprüft und gewartet werden.
@@ -2879,7 +2907,7 @@ verwenden. Die Strahlungsmessgeräte müssen
 
 
 (4) Der Zeitpunkt und das Ergebnis der Funktionsprüfung und Wartung
-nach Absatz 3 Satz 2 Nummer 3 sind aufzuzeichnen. Die Aufzeichnungen
+nach Absatz 3 Satz 3 Nummer 3 sind aufzuzeichnen. Die Aufzeichnungen
 sind zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
 aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen
 oder bei einer von ihr zu bestimmenden Stelle zu hinterlegen.
@@ -3664,8 +3692,9 @@ Bescheinigung des Herstellers bestätigt wird.
 
 (Inkrafttreten, abgelöste Vorschrift)
 
+(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 1 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern, die zur Anwendung von Röntgenstrahlung am Tier bestimmt sind (Röntgenstrahler in Röntgeneinrichtungen für tiermedizinische Zwecke, soweit sie nicht nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht sind)
+### Anlage 1 Vorschriften über die Bauart von Röntgenstrahlern, die zur Anwendung von Röntgenstrahlung am Tier bestimmt sind (Röntgenstrahler in Röntgeneinrichtungen für tiermedizinische Zwecke, soweit sie nicht nach den Vorschriften des Medizinproduktegesetzes erstmalig in Verkehr gebracht sind)
 
 (Fundstelle: BGBl. I 2003, 63; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3688,8 +3717,9 @@ Einführer angegebenen maximalen Betriebsbedingungen
 
 
 
+(zu § 8 Abs. 1 Satz 1)
 
-### Anlage 2 (zu § 8 Abs. 1 Satz 1) Vorschriften über die Bauart von Röntgenstrahlern und Röntgeneinrichtungen, die zur Anwendung in den in § 30 bezeichneten Fällen bestimmt sind (Röntgeneinrichtungen für nichtmedizinische Zwecke), und von Störstrahlern (§ 5 Abs. 3)
+### Anlage 2 Vorschriften über die Bauart von Röntgenstrahlern und Röntgeneinrichtungen, die zur Anwendung in den in § 30 bezeichneten Fällen bestimmt sind (Röntgeneinrichtungen für nichtmedizinische Zwecke), und von Störstrahlern (§ 5 Abs. 3)
 
 (Fundstelle: BGBl. I 2003, 632 - 633; bzgl. einzelner Änderungen vgl.
 Fußnote)
@@ -3864,8 +3894,9 @@ Fußnote)
 
 
 
+(zu § 31a)
 
-### Anlage 3 (zu § 31a) Gewebe-Wichtungsfaktoren
+### Anlage 3 Gewebe-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2003, 634
 
@@ -3956,8 +3987,9 @@ Fundstelle des Originaltextes: BGBl. I 2003, 634
 
 
 
+(zu § 38 Abs. 1 Satz 3)
 
-### Anlage 4 (zu § 38 Abs. 1 Satz 3) Ärztliche Bescheinigung nach § 38 der Röntgenverordnung
+### Anlage 4 Ärztliche Bescheinigung nach § 38 der Röntgenverordnung
 
 (Fundstelle: BGBl. I 2003, 635; bzgl. einzelner Änderungen vgl.
 Fußnote)

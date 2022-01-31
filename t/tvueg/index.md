@@ -3,7 +3,7 @@ Title: Gesetz zur Überführung der Testamentsverzeichnisse und der Hauptkartei 
   Amtsgericht Schöneberg in Berlin in das Zentrale Testamentsregister der Bundesnotarkammer
 jurabk: TVÜG
 layout: default
-origslug: tv_g
+origslug: tvueg
 slug: tvueg
 
 ---
@@ -16,7 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2255, 2258
 
-Stand: Das G tritt gem. § 9 mWv 1.1.2021 außer Kraft
+Zuletzt geändert durch
+:   Art. 6 Abs. 2 G v. 1.6.2017 I 1396
+
+Stand: Das G tritt gem. § 9 idF v. 22.12.2010 mWv 1.1.2021 außer Kraft
 
 ## § 1 Grundsatz
 
@@ -24,8 +27,8 @@ Stand: Das G tritt gem. § 9 mWv 1.1.2021 außer Kraft
 (Übergeber) überführen Verwahrungsnachrichten über erbfolgerelevante
 Urkunden, die in den Testamentsverzeichnissen und der Hauptkartei für
 Testamente vorliegen, innerhalb von sechs Jahren nach Inkrafttreten
-dieses Gesetzes in das Zentrale Testamentsregister (§ 78 Absatz 2 Satz
-1 Nummer 2 der Bundesnotarordnung).
+dieses Gesetzes in das Zentrale Testamentsregister (§ 78c Absatz 1
+Satz 1 der Bundesnotarordnung).
 
 (2) Über das Verfahren der Überführung entscheidet die das Zentrale
 Testamentsregister führende Registerbehörde nach Maßgabe dieses
@@ -82,14 +85,14 @@ dokumentieren.
 
 (1) Mitteilungen über Sterbefälle, deren Beurkundung oder Aufnahme als
 Hinweis weniger als acht Tage vor dem Übernahmestichtag wirksam wurde,
-bearbeitet die Registerbehörde nach § 78c der Bundesnotarordnung
+bearbeitet die Registerbehörde nach § 78e der Bundesnotarordnung
 weiter.
 
 (2) Mitteilungen über Sterbefälle, deren Beurkundung oder Aufnahme als
 Hinweis acht oder mehr Tage vor dem Übernahmestichtag wirksam wurde,
 werden noch vom Übergeber bearbeitet. Der Übergeber leitet der
 Registerbehörde diese Mitteilungen jedoch ausnahmsweise zur
-Bearbeitung nach § 78c der Bundesnotarordnung unverzüglich zu, wenn er
+Bearbeitung nach § 78e der Bundesnotarordnung unverzüglich zu, wenn er
 von ihnen
 
 1.  erst nach dem Übernahmestichtag Kenntnis erlangt oder
@@ -208,7 +211,56 @@ des Bundesdatenschutzgesetzes und dieses Gesetzes gewährleistet
 werden.
 
 
-## § 9 Außerkrafttreten
+## § 9 Überführung sonstiger Daten
+
+(1) Innerhalb des in § 1 Absatz 1 genannten Zeitraums sind die bei den
+Übergebern im Testamentsverzeichnis vorhandenen Mitteilungen über ein
+Kind des Erblassers, mit dessen anderem Elternteil der Erblasser bei
+der Geburt nicht verheiratet war oder das er allein angenommen hat, in
+das Zentrale Testamentsregister zu überführen. Hierzu stellen die
+Länder der Registerbehörde folgende Daten in elektronischer, bei der
+Registerbehörde speicherfähiger Form zur Verfügung:
+
+1.  die in § 1 Satz 1 Nummer 1 der Testamentsregister-Verordnung genannten
+    Daten des Erblassers als strukturierte Daten,
+
+
+2.  die in Satz 1 genannten Mitteilungen als elektronische Bilddaten.
+
+
+
+Die Länder können die Bundesnotarkammer damit betrauen, für sie die
+Daten nach ihren Vorgaben zu erfassen und der Registerbehörde zur
+Verfügung zu stellen. Betrauen die Länder die Bundesnotarkammer mit
+der Datenerfassung, haben sie dieser die Kosten der Datenerfassung zu
+erstatten.
+
+(2) Die Bild- und Strukturdaten nach Absatz 1 Satz 2 werden von der
+Registerbehörde in das Zentrale Testamentsregister aufgenommen. Die
+Registerbehörde bestätigt dem Übergeber die Aufnahme der Daten.
+
+(3) Bis zur Überführung bewahrt das Standesamt die zu überführenden
+Mitteilungen auf. Es prüft bei der Eintragung eines Hinweises über den
+Tod, über die Todeserklärung oder die gerichtliche Feststellung der
+Todeszeit, ob für den Verstorbenen Mitteilungen nach Absatz 1 Satz 1
+vorliegen. Ist das der Fall, hat das Standesamt
+
+1.  die Daten über das Kind und den Erblasser unverzüglich dem zuständigen
+    Nachlassgericht mitzuteilen, soweit dies zur Erfüllung der Aufgaben
+    des Nachlassgerichts erforderlich ist, oder
+
+
+2.  dem Nachlassgericht auf Antrag Auskunft zu erteilen.
+
+
+
+
+(4) Absatz 3 gilt entsprechend für die in der Hauptkartei für
+Testamente beim Amtsgericht Schöneberg in Berlin vorhandenen
+Mitteilungen.
+
+
+## § 10 Außerkrafttreten
 
 Dieses Gesetz tritt zehn Kalenderjahre nach der Verkündung außer
 Kraft.

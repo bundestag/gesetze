@@ -5,7 +5,7 @@ Title: Verordnung zur Festlegung von Höchstgrenzen für die besoldungsrechtlich
   sowie von Obergrenzen für die Zahl der Beförderungsämter
 jurabk: EinstufHöGrV
 layout: default
-origslug: einstufh_grv
+origslug: einstufhoegrv
 slug: einstufhoegrv
 
 ---

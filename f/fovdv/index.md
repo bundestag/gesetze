@@ -362,40 +362,45 @@ Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Nr. 1)
 
-## Anlage 1 (zu § 1 Nr. 1) Stammzertifikat für Vermehrungsgut von Saatgutquellen und Erntebeständen
+## Anlage 1 Stammzertifikat für Vermehrungsgut von Saatgutquellen und Erntebeständen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4714
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Saatgutquellen und Erntebeständen)
 
+(zu § 1 Nr. 2)
 
-## Anlage 2 (zu § 1 Nr. 2) Stammzertifikat für Mischungen
+## Anlage 2 Stammzertifikat für Mischungen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4715 u. 4716
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Mischungen)
 
+(zu § 1 Nr. 3)
 
-## Anlage 3 (zu § 1 Nr. 3) Stammzertifikat für Vermehrungsgut von Samenplantagen und Familieneltern
+## Anlage 3 Stammzertifikat für Vermehrungsgut von Samenplantagen und Familieneltern
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4717; 2003 I 61
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Samenplantagen und Familieneltern)
 
+(zu § 1 Nr. 4)
 
-## Anlage 4 (zu § 1 Nr. 4) Stammzertifikat für Vermehrungsgut von Klonen und Klonmischungen
+## Anlage 4 Stammzertifikat für Vermehrungsgut von Klonen und Klonmischungen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4718 u. 4719
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Klonen und Klonmischungen)
 
+(zu § 9)
 
-## Anlage 5 (zu § 9) Liste zulässiger Abkürzungen
+## Anlage 5 Liste zulässiger Abkürzungen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4720
 

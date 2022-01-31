@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2618, 2653
 
-Geändert durch
-:   Art. 2 G v. 27.7.2011 I 1608
+Zuletzt geändert durch
+:   Art. 3 G v. 18.1.2019 I 33
+
+Änderung durch
+:   Art. 3 G v. 27.7.2021 I 3274 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Weitere Anwendung von Vorschriften
@@ -44,10 +47,7 @@ Lücken in der Bußgeldbewehrung erforderlich ist,
 5.  (weggefallen)
 
 
-6.  die §§ 9, 13 Nr. 1 und § 14 Abs. 2 Nr. 2 und 4, soweit jeweils auf § 3
-    verwiesen wird, des Milch- und Margarinegesetzes vom 25. Juli 1990
-    (BGBl. I S. 1471), das zuletzt durch Artikel 157 der Verordnung vom
-    25\. November 2003 (BGBl. I S. 2304) geändert worden ist,
+6.  (weggefallen)
 
 
 7.  (weggefallen)
@@ -103,12 +103,12 @@ sind die Vorschriften der in Absatz 1 genannten Gesetze hinsichtlich
 der Verfolgung von Straftaten und Ordnungswidrigkeiten weiter
 anzuwenden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates, soweit die
-Ermächtigungen des Lebensmittel- und Futtermittelgesetzbuches nicht
-ausreichen, auf Grund der in Absatz 1 genannten Gesetze erlassene
-bundesrechtliche Vorschriften aufzuheben.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates, soweit die Ermächtigungen des
+Lebensmittel- und Futtermittelgesetzbuches nicht ausreichen, auf Grund
+der in Absatz 1 genannten Gesetze erlassene bundesrechtliche
+Vorschriften aufzuheben.
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates
@@ -129,6 +129,33 @@ Zustimmung des Bundesrates
 
 
 
+
+
+## § 1a Weitere Anwendung von Vorschriften über den Lebensmittelzusatzstoffen gleichgestellte Stoffe
+
+(1) § 2 Absatz 3 Satz 2 Nummer 2 und 4 jeweils in Verbindung mit § 4
+Absatz 1 Nummer 2 und § 6 Absatz 1 sowie § 59 Absatz 1 Nummer 1 bis 3
+und § 60 Absatz 1 Nummer 2 des Lebensmittel- und
+Futtermittelgesetzbuches sind in der bis zum 9. August 2021 geltenden
+Fassung weiterhin anzuwenden, solange und soweit noch nicht
+
+1.  eine unmittelbar geltende Vorschrift in Rechtsakten der Europäischen
+    Gemeinschaft oder der Europäischen Union gilt, die inhaltlich einer
+    Regelung entspricht, zu der § 7 Absatz 2 des Lebensmittel- und
+    Futtermittelgesetzbuches in der ab dem 10. August 2021 geltenden
+    Fassung ermächtigt, oder
+
+
+2.  aufgrund der Ermächtigung des § 7 Absatz 2 des Lebensmittel- und
+    Futtermittelgesetzbuches in der ab dem 10. August 2021 geltenden
+    Fassung neue Regelungen getroffen worden sind.
+
+
+
+
+(2) Auf Sachverhalte, die vor dem 10. August 2021 entstanden sind,
+sind die in Absatz 1 genannten Vorschriften hinsichtlich der
+Verfolgung von Straftaten und Ordnungswidrigkeiten weiter anzuwenden.
 
 
 ## § 2 Geltung von Vorschriften

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3294
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 85 G v. 22.12.2011 I 3044
+:   Art. 132 G v. 29.3.2017 I 626
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -397,15 +397,14 @@ Mitgliedstaates oder Vertragsstaates zur Umsetzung oder Durchführung
 der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
 Union auf dem Gebiet der landwirtschaftlichen Tierzucht anerkannt
 sind, bedürfen nicht der Anerkennung im Inland. Sie können im Inland
-tätig werden, wenn sie dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz (Bundesministerium) ihre
-Tätigkeit unter Angabe des räumlichen Tätigkeitsbereiches angezeigt
-haben. Vor einer Anzeige nach Satz 2 dürfen sie im Hinblick auf ein im
-Inland gehaltenes Tier weder eine Eintragung in ein Zuchtbuch oder
-Zuchtregister vornehmen noch eine Zuchtbescheinigung oder eine
-Herkunftsbescheinigung ausstellen. Das Bundesministerium unterrichtet
-die für den vorgesehenen räumlichen Tätigkeitsbereich zuständige
-Behörde.
+tätig werden, wenn sie dem Bundesministerium für Ernährung und
+Landwirtschaft (Bundesministerium) ihre Tätigkeit unter Angabe des
+räumlichen Tätigkeitsbereiches angezeigt haben. Vor einer Anzeige nach
+Satz 2 dürfen sie im Hinblick auf ein im Inland gehaltenes Tier weder
+eine Eintragung in ein Zuchtbuch oder Zuchtregister vornehmen noch
+eine Zuchtbescheinigung oder eine Herkunftsbescheinigung ausstellen.
+Das Bundesministerium unterrichtet die für den vorgesehenen räumlichen
+Tätigkeitsbereich zuständige Behörde.
 
 (5) Die zuständige Behörde teilt dem Bundesministerium die nach § 3
 Abs. 1 oder 2 anerkannten Zuchtorganisationen sowie die Fälle, in
@@ -479,9 +478,9 @@ verpflichtet sind, haben diese Behörden oder Stellen den
 Zuchtorganisationen auf Anfrage die Angaben mitzuteilen, die zum
 Zwecke der Zuchtbuchführung, Leistungsprüfungen und Zuchtwertschätzung
 erforderlich sind, soweit der Tierhalter seine Einwilligung in die
-Übermittlung der Angaben an die Zuchtorganisationen schriftlich
-gegenüber den Behörden oder Stellen erklärt hat. Im Falle des § 8 Abs.
-3 Satz 1 Nr. 1 erfolgt die Mitteilung an die für die
+Übermittlung der Angaben an die Zuchtorganisationen schriftlich oder
+elektronisch gegenüber den Behörden oder Stellen erklärt hat. Im Falle
+des § 8 Abs. 3 Satz 1 Nr. 1 erfolgt die Mitteilung an die für die
 Leistungsprüfungen und Zuchtwertschätzung zuständigen Behörden oder
 die von ihnen beauftragten Stellen.
 
@@ -492,11 +491,11 @@ Zuchtwertschätzungen
 1.  in einem anderen Mitgliedstaat oder Vertragsstaat gleich, die nach
     geltenden Vorschriften des jeweiligen Mitgliedstaates oder
     Vertragsstaates zur Umsetzung oder Durchführung der Rechtsakte der
-    Europäischen Gemeinschaft auf dem Gebiet der landwirtschaftlichen
-    Tierzucht durchgeführt worden sind,
+    Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet
+    der landwirtschaftlichen Tierzucht durchgeführt worden sind,
 
 
-2.  in einem Drittland gleich, soweit diese oder der Europäischen Union
+2.  in einem Drittland gleich, soweit diese
 
     a)  sich auf Zuchttiere beziehen, für die die Voraussetzungen des § 19
         Abs. 1 Nr. 1 und 2 Buchstabe a für eine Einfuhr vorliegen, oder
@@ -1244,9 +1243,10 @@ Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 auf dem Gebiet der landwirtschaftlichen Tierzucht Anforderungen an das
 innergemeinschaftliche Verbringen von Zuchttieren, Samen, Eizellen und
 Embryonen, ihr Verbringen aus einem Drittland in die Europäische
-Gemeinschaft oder der Europäischen Union (Einfuhr) sowie ihr
-Verbringen aus dem Inland nach einem Drittland (Ausfuhr) festzusetzen
-und dabei insbesondere
+Gemeinschaft
+oder der Europäischen Union (Einfuhr) sowie ihr Verbringen aus dem
+Inland nach einem Drittland (Ausfuhr) festzusetzen und dabei
+insbesondere
 
 1.  Anzeigen oder Genehmigungen vorzuschreiben und das Verfahren zu
     regeln,
@@ -1659,8 +1659,9 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
 verkündet werden.
 
+(zu § 3 Abs. 1 und § 8 Abs. 1 Nr. 1)
 
-### Anlage 1 (zu § 3 Abs. 1 und § 8 Abs. 1 Nr. 1) Anforderungen an die Anerkennung von Zuchtorganisationen
+### Anlage 1 Anforderungen an die Anerkennung von Zuchtorganisationen
 
 ( Fundstelle des Originaltextes: BGBl. I 2006, 3307;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1745,10 +1746,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
+   (zu § 4 Abs. 1 Nr. 7 Buchstabe b sowie Nr. 8 Buchstabe a und § 6 Abs.
+2)
 
-### Anlage 2 (zu § 4 Abs. 1 Nr. 7 Buchstabe b sowie Nr. 8 Buchstabe a und § 6 Abs. 2) Anforderungen an Zuchtbücher und Zuchtregister und an die Eintragung in Zuchtbücher und Zuchtregister
+### Anlage 2 Anforderungen an Zuchtbücher und Zuchtregister und an die Eintragung in Zuchtbücher und Zuchtregister
 
-   ( Fundstelle des Originaltextes: BGBl. I 2006, 3308;
+( Fundstelle: BGBl. I 2006, 3308;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *
@@ -1780,16 +1783,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
         Kommission 84/419/EWG vom 19. Juli 1984 über die Kriterien für die
         Eintragung in die Rinderzuchtbücher (ABl. EG Nr. L 237 S. 11),
         geändert durch die Entscheidung der Kommission 2007/371/EG vom 29. Mai
-        2007 zur Änderung der Entscheidung 84/247/EWG Entscheidung 84/247/EWG
-        und 84/419/EWG hinsichtlich Zuchtbücher für Zuchtrinder (ABl. EG Nr. L
-        140 S. 49).
+        2007 zur Änderung der Entscheidung 84/247/EWG und 84/419/EWG
+        hinsichtlich Zuchtbücher für Zuchtrinder (ABl. EG Nr. L 140 S. 49).
 
     *   Anforderungen nach Artikel 3 der Entscheidung der Kommission
         84/419/EWG vom 19. Juli 1984 über die Kriterien für die Eintragung in
-        der Rinderzuchtbücher (ABl. EG Nr. L 237 S. 11), geändert durch die
+        die Rinderzuchtbücher (ABl. EG Nr. L 237 S. 11), geändert durch die
         Entscheidung der Kommission 2007/371/EG vom 29. Mai 2007 zur Änderung
-        der und 84/419/EWG hinsichtlich Zuchtbücher für Zuchtrinder (ABl. EG
-        Nr. L 140 S. 49).
+        der Entscheidung 84/247/EWG und 84/419/EWG hinsichtlich Zuchtbücher
+        für Zuchtrinder (ABl. EG Nr. L 140 S. 49).
 
     *
 
@@ -1807,12 +1809,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
     *   Anforderungen nach Artikel 1, 2, 4 und 5 der Entscheidung der
         Kommission 89/502/EWG vom 18. Juli 1989 über die Kriterien für die
-        Eintragung reinrassiger Eintragung reinrassiger Zuchtschweine in die
-        Herdbücher (ABl. EG Nr. L 247 S. 21).
+        Eintragung reinrassiger Zuchtschweine in die Herdbücher (ABl. EG Nr. L
+        247 S. 21).
 
     *   Anforderungen nach Artikel 3 der Entscheidung der Kommission
-        89/502/EWG vom 18. Juli 1989 über die Kriterien für die Zuchtschweine
-        in die Herdbücher (ABl. EG Nr. L 247 S. 21).
+        89/502/EWG vom 18. Juli 1989 über die Kriterien für die Eintragung
+        reinrassiger Zuchtschweine in die Herdbücher (ABl. EG Nr. L 247 S.
+        21).
 
     *
 
@@ -1833,42 +1836,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
     *   Anforderungen nach Artikel 1, 2, 3 Abs. 2 und Artikel 5 der
         Entscheidung der Kommission 90/255/EWG vom 10. Mai 1990 über die
-        Kriterien für die Eintragung reinrassiger Eintragung reinrassiger
-        Zuchtschafe und -ziegen Zuchtschafe und -ziegen in Zuchtbücher (ABl.
-        EG in Zuchtbücher (ABl. EG Nr. L 145 S. 32), geändert durch die
-        Entscheidung der Kommission 2005/375/EG vom 11. Mai 2005 zur Änderung
-        der Entscheidung 90/255/EWG Entscheidung 90/255/EWG hinsichtlich der
-        Eintragung männlicher Schafe und Ziegen in einen Anhang des Zuchtbuchs
-        (ABl. EU Nr. L 121 S. 87).
+        Kriterien für die Eintragung reinrassiger Zuchtschafe und -ziegen in
+        Zuchtbücher (ABl. EG Nr. L 145 S. 32), geändert durch die Entscheidung
+        der Kommission 2005/375/EG vom 11. Mai 2005 zur Änderung der
+        Entscheidung 90/255/EWG hinsichtlich der Eintragung männlicher Schafe
+        und Ziegen in einen Anhang des Zuchtbuchs (ABl. EU Nr. L 121 S. 87).
 
     *   Anforderungen nach Artikel 3 Abs. 1 und 3 und Artikel 4 der
         Entscheidung der Kommission 90/255/EWG vom 10. Mai 1990 über die
-        Kriterien für die Nr. L 145 S. 32), geändert durch die Entscheidung
+        Kriterien für die Eintragung reinrassiger Zuchtschafe und -ziegen in
+        Zuchtbücher (ABl. EG Nr. L 145 S. 32), geändert durch die Entscheidung
         der Kommission 2005/375/EG vom 11. Mai 2005 zur Änderung der
-        hinsichtlich der Eintragung männlicher Schafe und Ziegen in einen
-        Anhang des Zuchtbuchs (ABl. EU Nr. L 121 S 87).
+        Entscheidung 90/255/EWG hinsichtlich der Eintragung männlicher Schafe
+        und Ziegen in einen Anhang des Zuchtbuchs (ABl. EU Nr. L 121 S. 87).
 
     *
 
 *    *   Equiden
 
-    *   Anforderungen nach Artikel 1, 2 und 3 Abs. 2 der Entscheidung
-        Entscheidung der der Kommission 96/78/EG Kommission 96/78/EG vom 10.
-        Januar 1996 zur Festlegung der Kriterien für die Eintragung von
-        Equiden in die Zuchtbücher zu Zuchtzwecken (ABl. EG Nr. L 19 S. 39).
+    *   Anforderungen nach Artikel 1, 2 und 3 Abs. 2 der Entscheidung der
+        Kommission 96/78/EG vom 10. Januar 1996 zur Festlegung der Kriterien
+        für die Eintragung von Equiden in die Zuchtbücher zu Zuchtzwecken
+        (ABl. EG Nr. L 19 S. 39).
 
-    *   Anforderungen nach Artikel 3 Abs. 1 der vom 10. Januar 1996 zur
-        Festlegung der Kriterien für die Eintragung von Equiden in die
-        Zuchtbücher zu Zuchtzwecken (ABl. EG Nr. L 19 S. 39).
+    *   Anforderungen nach Artikel 3 Abs. 1 der Entscheidung der Kommission
+        96/78/EG vom 10. Januar 1996 zur Festlegung der Kriterien für die
+        Eintragung von Equiden in die Zuchtbücher zu Zuchtzwecken (ABl. EG Nr.
+        L 19 S. 39).
 
     *
 
 
 
+   (zu § 7 Abs. 1 und 4 Nr. 2, § 8 Abs. 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 2
+Buchstabe a und § 19 Abs. 1 Satz 3)
 
-### Anlage 3 (zu § 7 Abs. 1 und 4 Nr. 2, § 8 Abs. 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 2 Buchstabe a und § 19 Abs. 1 Satz 3) Anforderungen an Leistungsprüfungen und Zuchtwertschätzung
+### Anlage 3 Anforderungen an Leistungsprüfungen und Zuchtwertschätzung
 
-   (Fundstelle des Originaltextes: BGBl. I 2006, 3309)
+(Fundstelle des Originaltextes: BGBl. I 2006, 3309)
 
 *    *   Tiere
 
@@ -1949,10 +1954,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
+   (zu § 12 Satz 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 4 und § 15 Abs. 4)
 
-### Anlage 4 (zu § 12 Satz 1 Nr. 2, § 13 Abs. 3 Satz 1 Nr. 4 und § 15 Abs. 4) Anforderungen an Zuchtbescheinigungen und Herkunftsbescheinigungen
+### Anlage 4 Anforderungen an Zuchtbescheinigungen und Herkunftsbescheinigungen
 
-   (Fundstelle: BGBl. I 2006, 3310)
+(Fundstelle: BGBl. I 2006, 3310)
 
 *    *   Tiere
 
@@ -2074,10 +2080,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 
+(zu § 19 Abs. 1 Nr. 1 sowie Nr. 2 Buchstabe b)
 
-### Anlage 5 (zu § 19 Abs. 1 Nr. 1 sowie Nr. 2 Buchstabe b) Anforderungen an Bescheinigungen für Tiere, Samen, Eizellen und Embryonen bei der Drittlandseinfuhr
+### Anlage 5 Anforderungen an Bescheinigungen für Tiere, Samen, Eizellen und Embryonen bei der Drittlandseinfuhr
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 3311 - 3313)
+(Fundstelle: BGBl. I 2006, 3311 - 3313)
 
 *    *   Tiere
 
@@ -2109,7 +2116,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 *    *   Rinder
 
-    *   Anforderungen nach Artikel 1erster Anstrich sowie Artikel 2 und 6 der
+    *   Anforderungen nach Artikel 1 erster Anstrich sowie Artikel 2 und 6 der
         Entscheidung der Kommission 96/510/EG vom 18. Juli 1996 mit
         Abstammungs- und Zuchtbescheinigungen für die Einfuhr von Zuchttieren,
         ihrem Sperma, ihren Eizellen und Embryonen (ABl. EG Nr. L 210 S. 53),
@@ -2246,12 +2253,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
         tierzüchterischen Bedingungen für die Einfuhr von Sperma, Eizellen und
         Embryonen von Equiden (ABl. EU Nr. L 57 S. 27).
 
-    *   Anforderungen nach Artikel 2 der Entscheidung 5 der Kommission
-        96/509/EG vom 18. Juli 1996 über genealogische und tierzüchterische
-        Anforderungen der Einfuhr von Sperma bestimmter Tiere (ABl. EG Nr. L
-        210 S. 47).
+    *   Anforderungen nach Artikel 2 der Entscheidung der Kommission 96/509/EG
+        vom 18. Juli 1996 über genealogische und tierzüchterische
+        Anforderungen bei der Einfuhr von Sperma bestimmter Tiere (ABl. EG Nr.
+        L 210 S. 47).
 
-    *   Anforderungen nach Artikel 4, und 6 der Entscheidung der Kommission
+    *   Anforderungen nach Artikel 4, 5 und 6 der Entscheidung der Kommission
         96/510/EG vom 18. Juli 1996 mit Abstammungs- und Zuchtbescheinigungen
         für die Einfuhr von Zuchttieren, ihrem Sperma, ihren Eizellen und
         Embryonen (ABl. EG Nr. L 210 S. 53), geändert durch die Entscheidung

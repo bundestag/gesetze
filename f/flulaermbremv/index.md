@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Bremen
 jurabk: FluLärmBremV
 layout: default
-origslug: flul_rmbremv
+origslug: flulaermbremv
 slug: flulaermbremv
 
 ---

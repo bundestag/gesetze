@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1984, 569
 
 Zuletzt geändert durch
-:   Art. 24 G v. 9.9.2001 I 2331
+:   Art. 286 V v. 19.6.2020 I 1328
 
 
 ## Art 1
@@ -30,7 +30,7 @@ nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, Änderungen der Anhänge I und II des Übereinkommens
 nach Maßgabe von dessen Artikel XI, die sich im Rahmen der Ziele des
 Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des

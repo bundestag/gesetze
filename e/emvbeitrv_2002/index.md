@@ -149,8 +149,9 @@ der nächsten Beitragszahlung verrechnet.
 
 (2)
 
+EMV-Beiträge 1999 bis 2002
 
-## Anlage EMV-Beiträge 1999 bis 2002 (zu § 1 Abs. 2 Satz 2)
+## Anlage (zu § 1 Abs. 2 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3361 - 3362
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 899
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 11 G v. 12.8.2005 I 2354
+:   Art. 11 G v. 13.5.2015 I 706
 
 
 ## Erster Abschnitt - Schutzbereiche
@@ -182,10 +182,10 @@ Schutzbereichen.
 diesem Gesetz zulässigen Maßnahmen werden von den
 Schutzbereichbehörden getroffen und überwacht.
 
-(3) Schutzbereichbehörden sind die Wehrbereichsverwaltungen. Der
-Bundesminister der Verteidigung kann Aufgaben der
-Schutzbereichbehörden auf die unteren Behörden der
-Bundeswehrverwaltung übertragen.
+(3) Schutzbereichbehörde ist das Bundesamt für Infrastruktur,
+Umweltschutz und Dienstleistungen der Bundeswehr. Der Bundesminister
+der Verteidigung kann Aufgaben der Schutzbereichbehörden auf die
+unteren Behörden der Bundeswehrverwaltung übertragen.
 
 
 ### § 10

@@ -19,7 +19,13 @@ Neugefasst durch
 :   Bek. v. 16.12.1993 I 2066;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.12.2010 I 1934
+:   Art. 95 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 11 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 Abs. 7 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -406,11 +412,11 @@ Kommission in einzelnen Bereichen bis zu zwei Sachverständige als
 zusätzliche stellvertretende Mitglieder berufen werden.
 
 (2) Die Mitglieder der Kommission werden vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-den Bundesministerien für Bildung und Forschung, für Wirtschaft und
-Technologie, für Arbeit und Soziales, für Gesundheit sowie für Umwelt,
-Naturschutz und Reaktorsicherheit für die Dauer von drei Jahren
-berufen. Wiederberufung ist zulässig.
+Ernährung und Landwirtschaft im Einvernehmen mit den Bundesministerien
+für Bildung und Forschung, für Wirtschaft und Energie, für Arbeit und
+Soziales, für Gesundheit sowie für Umwelt, Naturschutz und nukleare
+Sicherheit für die Dauer von drei Jahren berufen. Wiederberufung ist
+zulässig.
 
 (3) Die Mitglieder und die stellvertretenden Mitglieder sind in ihrer
 Tätigkeit unabhängig und nicht an Weisungen gebunden. Sie sind zur
@@ -422,11 +428,17 @@ allgemeiner Weise über ihre Arbeit.
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Nähere über die Berufung und das
 Verfahren der Kommission, die Heranziehung externer Sachverständiger
-sowie die Zusammenarbeit der Ausschüsse mit den für den Vollzug des
+sowie die Zusammenarbeit der Kommission mit den für den Vollzug des
 Gesetzes zuständigen Behörden zu regeln. Durch Rechtsverordnung mit
 Zustimmung des Bundesrates kann auch bestimmt werden, daß die
 Berufungsentscheidung gemäß Absatz 2 im Benehmen mit den
 Landesregierungen zu treffen ist.
+
+(6) Die Länder haben die bei der Kommission im Rahmen des Anzeige-,
+Anmelde- und Genehmigungsverfahrens entstehenden Aufwendungen zu
+erstatten. Die Aufwendungen werden im Einzelfall festgesetzt; dabei
+können nach dem durchschnittlichen Personal- und Sachaufwand
+ermittelte feste Sätze oder Rahmensätze zugrunde gelegt werden.
 
 
 ### § 5 Aufgaben der Kommission
@@ -441,7 +453,7 @@ allgemeine Stellungnahmen zu häufig durchgeführten gentechnischen
 Arbeiten mit den jeweils zugrunde liegenden Kriterien der
 Vergleichbarkeit im Bundesanzeiger. Soweit die allgemeinen
 Stellungnahmen Fragen des Arbeitsschutzes zum Gegenstand haben, ist
-zuvor der Ausschuss für biologische Arbeitsstoffe nach § 17 der
+zuvor der Ausschuss für biologische Arbeitsstoffe nach § 19 der
 Biostoffverordnung anzuhören.
 
 
@@ -1298,28 +1310,27 @@ Verwendungszweck oder den Umgang mit dem Produkt, insbesondere seine
 Anwendung, Beförderung oder Lagerung, beziehen, sofern die Genehmigung
 öffentlich bekannt gemacht wurde.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Verfahren der Beteiligung der
-Europäischen Kommission und der Mitgliedstaaten der Europäischen Union
-und der anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum im Zusammenhang mit der Freisetzung gentechnisch
-veränderter Organismen und dem Inverkehrbringen von Produkten, die
-gentechnisch veränderte Organismen enthalten oder aus solchen
-bestehen, und die Verpflichtung der zuständigen Behörde, Bemerkungen
-der Mitgliedstaaten der Europäischen Union und der anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu
-berücksichtigen oder Entscheidungen oder Beschlüsse der Europäischen
-Kommission umzusetzen, zu regeln, soweit dies zur Durchführung der
-Richtlinie des Rates über die absichtliche Freisetzung genetisch
-veränderter Organismen in die Umwelt in ihrer jeweils geltenden
-Fassung erforderlich ist. In der Rechtsverordnung nach Satz 1 kann
-vorgesehen werden, dass eine Genehmigung, auch abweichend von den
-Vorschriften dieses Gesetzes, zu erteilen oder zu versagen ist, soweit
-dies in einer Entscheidung oder in einem Beschluss der Europäischen
-Kommission vorgesehen ist; dies gilt entsprechend für das Ruhen einer
-Genehmigung nach § 20 Abs. 2 und eine Untersagung nach § 26 Abs. 5
-Satz 3.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren der Beteiligung der Europäischen Kommission und der
+Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten
+des Abkommens über den Europäischen Wirtschaftsraum im Zusammenhang
+mit der Freisetzung gentechnisch veränderter Organismen und dem
+Inverkehrbringen von Produkten, die gentechnisch veränderte Organismen
+enthalten oder aus solchen bestehen, und die Verpflichtung der
+zuständigen Behörde, Bemerkungen der Mitgliedstaaten der Europäischen
+Union und der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum zu berücksichtigen oder Entscheidungen
+oder Beschlüsse der Europäischen Kommission umzusetzen, zu regeln,
+soweit dies zur Durchführung der Richtlinie des Rates über die
+absichtliche Freisetzung genetisch veränderter Organismen in die
+Umwelt in ihrer jeweils geltenden Fassung erforderlich ist. In der
+Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass eine
+Genehmigung, auch abweichend von den Vorschriften dieses Gesetzes, zu
+erteilen oder zu versagen ist, soweit dies in einer Entscheidung oder
+in einem Beschluss der Europäischen Kommission vorgesehen ist; dies
+gilt entsprechend für das Ruhen einer Genehmigung nach § 20 Abs. 2 und
+eine Untersagung nach § 26 Abs. 5 Satz 3.
 
 (7) Vor Erhebung einer verwaltungsgerichtlichen Klage findet bei einer
 Entscheidung über den Antrag auf Genehmigung einer Freisetzung ein
@@ -1400,17 +1411,25 @@ Wege des automatisierten Abrufs über das Internet erteilt.
 
 (5) Die zuständige Bundesoberbehörde erteilt aus dem nicht allgemein
 zugänglichen Teil des Registers Auskunft auch über die
-personenbezogenen Daten, soweit der Antragsteller ein berechtigtes
-Interesse glaubhaft macht und kein Grund zu der Annahme besteht, dass
-der Betroffene ein überwiegendes schutzwürdiges Interesse an dem
-Ausschluss der Auskunft hat.
+personenbezogenen Daten, soweit die antragstellende Person ein
+berechtigtes Interesse glaubhaft macht und kein Grund zu der Annahme
+besteht, dass die betroffene Person ein überwiegendes schutzwürdiges
+Interesse an dem Ausschluss der Auskunft hat.
 
 (5a) Die für die Ausführung dieses Gesetzes zuständige Behörde eines
 Landes darf zum Zweck der Überwachung die im nicht allgemein
 zugänglichen Teil des Registers gespeicherten Daten im automatisierten
 Verfahren abrufen, soweit ein Grundstück betroffen ist, das in ihrem
-Zuständigkeitsbereich belegen ist; § 10 Abs. 2 bis 5 des
-Bundesdatenschutzgesetzes ist anzuwenden.
+Zuständigkeitsbereich belegen ist. Die Verantwortung für die
+Zulässigkeit des einzelnen Abrufs trägt die Stelle, an die die Daten
+übermittelt werden. Die speichernde Stelle prüft die Zulässigkeit der
+Abrufe nur, wenn dazu Anlass besteht. Die speichernde Stelle hat zu
+gewährleisten, dass die Übermittlung personenbezogener Daten zumindest
+durch geeignete Stichprobenverfahren festgestellt und überprüft werden
+kann. Wird ein Gesamtbestand personenbezogener Daten abgerufen oder
+übermittelt, so bezieht sich die Gewährleistung der Feststellung und
+Überprüfung nur auf die Zulässigkeit des Abrufes oder der Übermittlung
+des Gesamtbestandes. § 29 Absatz 1a Satz 2 und 4 gilt entsprechend.
 
 (6) Die zuständige Bundesoberbehörde hat dem jeweiligen Stand der
 Technik entsprechende Maßnahmen zur Gewährleistung von Datensicherheit
@@ -1422,7 +1441,14 @@ Verschlüsselungsverfahren anzuwenden. Die Daten des Bundesregisters
 werden nach Ablauf von 15 Jahren nach ihrer erstmaligen Speicherung
 gelöscht.
 
-(7) § 19 des Bundesdatenschutzgesetzes gilt für juristische Personen
+(7) Artikel 12 Absatz 5 und Artikel 15 Absatz 1 Buchstabe a, c und g
+der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates
+vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) sowie § 34 des Bundesdatenschutzgesetzes in der
+jeweils geltenden Fassung gelten für juristische Personen
 entsprechend.
 
 (8) (weggefallen)
@@ -1913,9 +1939,9 @@ entscheiden. Entscheidungen oder der Beschlüsse der Europäischen
 Gemeinschaften oder der Europäischen Union nach Artikel 10 in
 Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG, die die
 Form der Mitteilungen nach Absatz 4 festlegen und vom
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-im Bundesanzeiger bekannt gemacht sind, sind bei der Erstellung der
-Mitteilungen zu beachten.
+Bundesministerium für Ernährung und Landwirtschaft im Bundesanzeiger
+bekannt gemacht sind, sind bei der Erstellung der Mitteilungen zu
+beachten.
 
 (4a) Der Betreiber hat der zuständigen Bundesoberbehörde über die
 Beobachtung des Inverkehrbringens nach Maßgabe der Genehmigung für das
@@ -1974,34 +2000,8 @@ wirtschaftlich nicht vertretbar sind, kann lediglich Schadensersatz
 verlangt werden.
 
 
-### § 24 Kosten
+### § 24 (weggefallen)
 
-(1) Für Amtshandlungen nach diesem Gesetz und den zur Durchführung
-dieses Gesetzes erlassenen Rechtsvorschriften sind Kosten (Gebühren
-und Auslagen) zu erheben. Von der Zahlung von Gebühren sind außer den
-in § 8 Abs. 1 des Verwaltungskostengesetzes bezeichneten Rechtsträgern
-die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
-
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
-Gebühren durch feste Sätze, Rahmensätze oder nach dem Wert des
-Gegenstandes näher zu bestimmen.
-
-(3) Für die durch die Länder zu erhebenden Kosten gilt Landesrecht;
-Absatz 1 Satz 2 gilt entsprechend. Die Länder haben die bei der
-Kommission im Rahmen des Anzeige-, Anmelde- und Genehmigungsverfahrens
-entstehenden Aufwendungen zu erstatten. Die Aufwendungen werden im
-Einzelfall festgesetzt; dabei können nach dem durchschnittlichen
-Personal- und Sachaufwand ermittelte feste Sätze oder Rahmensätze
-zugrunde gelegt werden.
-
-(4) Die bei der Erfüllung von Auskunfts- und Duldungspflichten im
-Rahmen von Anmelde- und Genehmigungsverfahren und Überwachung
-entstehenden eigenen Aufwendungen des Betreibers sind nicht zu
-erstatten.
 
 
 ### § 25 Überwachung, Auskunfts-, Duldungspflichten
@@ -2054,6 +2054,11 @@ verweigern, deren Beantwortung sie selbst oder einen ihrer in § 383
 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der
 Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit
 aussetzen würde.
+
+(4a) Die bei der Erfüllung von Auskunfts- und Duldungspflichten im
+Rahmen von Anmelde- und Genehmigungsverfahren und im Rahmen von
+Überwachungen entstehenden eigenen Aufwendungen des Betreibers sind
+nicht zu erstatten.
 
 (5) Die in Erfüllung einer Auskunfts- oder Duldungspflicht nach diesem
 Gesetz oder einer auf Grund dieses Gesetzes erlassenen
@@ -2234,11 +2239,11 @@ ist.
 
 
 Personenbezogene Daten dürfen in den Fällen des Satzes 1 nur
-veröffentlicht werden, soweit der Betroffene eingewilligt hat oder das
-schutzwürdige Informationsinteresse der Öffentlichkeit das
-schutzwürdige Interesse des Betroffenen an dem Ausschluss der
+veröffentlicht werden, soweit die betroffene Person eingewilligt hat
+oder das schutzwürdige Informationsinteresse der Öffentlichkeit das
+schutzwürdige Interesse der betroffenen Person an dem Ausschluss der
 Veröffentlichung überwiegt. Vor der Entscheidung über die
-Veröffentlichung ist der Betroffene anzuhören.
+Veröffentlichung ist die betroffene Person anzuhören.
 
 (3) Informationen nach Absatz 2 dürfen nicht veröffentlicht werden,
 
@@ -2268,7 +2273,7 @@ Veröffentlichung ist der Betroffene anzuhören.
 
 
 Vor der Entscheidung über die Veröffentlichung sind in den Fällen des
-Satzes 1 Nr. 3 oder 4 die Betroffenen anzuhören. Soweit
+Satzes 1 Nr. 3 oder 4 die betroffenen Personen anzuhören. Soweit
 veröffentlichte Informationen als Betriebs- oder Geschäftsgeheimnis
 gekennzeichnet sind, hat die zuständige Behörde im Zweifel von der
 Betroffenheit des Kennzeichnenden auszugehen.
@@ -2301,34 +2306,34 @@ zu halten.
 (1) Die zuständige Bundesoberbehörde hat Daten gemäß § 28, die im
 Zusammenhang mit der Errichtung und dem Betrieb gentechnischer
 Anlagen, der Durchführung gentechnischer Arbeiten, mit Freisetzungen
-oder mit einem Inverkehrbringen von ihm erhoben oder ihm übermittelt
+oder mit einem Inverkehrbringen von ihr erhoben oder ihr übermittelt
 worden sind, zum Zweck der Beobachtung, Sammlung und Auswertung von
 Sachverhalten, die Auswirkungen auf die in § 1 Nr. 1 und 2 genannten
-Rechtsgüter und Belange haben können, zu verarbeiten und zu nutzen.
-Sie kann Daten über Stellungnahmen der Kommission zur
-Sicherheitseinstufung und zu Sicherheitsmaßnahmen gentechnischer
-Arbeiten sowie über die von den zuständigen Behörden getroffenen
-Entscheidungen an die zuständige Behörden zur Verwendung im Rahmen von
-Anmelde- und Genehmigungsverfahren übermitteln. Die Empfänger dürfen
-die übermittelten Daten nur zu dem Zweck verwenden, zu dem sie
-übermittelt worden sind.
+Rechtsgüter und Belange haben können, zu verarbeiten. Sie kann Daten
+über Stellungnahmen der Kommission zur Sicherheitseinstufung und zu
+Sicherheitsmaßnahmen gentechnischer Arbeiten sowie über die von den
+zuständigen Behörden getroffenen Entscheidungen an die zuständige
+Behörden zur Verwendung im Rahmen von Anmelde- und
+Genehmigungsverfahren übermitteln. Die Empfänger dürfen die
+übermittelten Daten nur zu dem Zweck verwenden, zu dem sie übermittelt
+worden sind.
 
 (1a) Die Einrichtung eines automatisierten Abrufverfahrens ist
 zulässig. Die zuständige Bundesoberbehörde und die zuständigen
 Behörden legen bei der Einrichtung des automatisierten Abrufverfahrens
-die Art der zu übermittelnden Daten und die nach § 9 des
-Bundesdatenschutzgesetzes erforderlichen technischen und
-organisatorischen Maßnahmen schriftlich fest. Die Einrichtung des
+die Art der zu übermittelnden Daten und die erforderlichen technischen
+und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der
+Verordnung (EU) 2016/679 schriftlich fest. Die Einrichtung des
 automatisierten Abrufverfahrens bedarf der Genehmigung des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie. Über die Einrichtung des Abrufverfahrens ist der
-Bundesbeauftragte für den Datenschutz unter Mitteilung der
-Festlegungen nach Satz 2 zu unterrichten. Die Verantwortung für die
-Zulässigkeit des einzelnen Abrufs trägt der Empfänger. Die zuständige
-Bundesoberbehörde prüft die Zulässigkeit der Abrufe nur, wenn dazu
-Anlaß besteht. Sie hat zu gewährleisten, daß die Übermittlung der
-Daten festgestellt und überprüft werden kann.
+Bundesministeriums für Ernährung und Landwirtschaft im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie. Über die
+Einrichtung des Abrufverfahrens ist der Bundesbeauftragte für den
+Datenschutz unter Mitteilung der Festlegungen nach Satz 2 zu
+unterrichten. Die Verantwortung für die Zulässigkeit des einzelnen
+Abrufs trägt der Empfänger. Die zuständige Bundesoberbehörde prüft die
+Zulässigkeit der Abrufe nur, wenn dazu Anlaß besteht. Sie hat zu
+gewährleisten, daß die Übermittlung der Daten festgestellt und
+überprüft werden kann.
 
 (2) Die Rechtsvorschriften über die Geheimhaltung bleiben unberührt.
 Die Übermittlung von sachbezogenen Erkenntnissen im Sinne des § 17a an
@@ -2340,16 +2345,16 @@ entsprechenden Vorschriften im Geltungsbereich dieses Gesetzes
 gleichwertig sind.
 
 (3) Personenbezogene Daten dürfen bei der zuständigen
-Bundesoberbehörde nur verarbeitet und genutzt werden, soweit dies für
-die Beurteilung der Zuverlässigkeit des Betreibers, des Projektleiters
+Bundesoberbehörde nur verarbeitet werden, soweit dies für die
+Beurteilung der Zuverlässigkeit des Betreibers, des Projektleiters
 sowie des oder der Beauftragten für die Biologische Sicherheit oder
 für die Beurteilung der Sachkunde des Projektleiters oder des oder der
 Beauftragten für die Biologische Sicherheit erforderlich ist.
 
 (4) Art und Umfang der Daten regelt das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates.
+Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates.
 
 
 ### § 30 Erlaß von Rechtsverordnungen und Verwaltungsvorschriften
@@ -2633,7 +2638,13 @@ dem Dritten insoweit Schadensersatz zu leisten, als der Getötete
 während der mutmaßlichen Dauer seines Lebens zur Gewährung des
 Unterhalts verpflichtet gewesen wäre. Die Ersatzpflicht tritt auch
 ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht
-geboren war.
+geboren war. Der Ersatzpflichtige hat zudem dem Hinterbliebenen, der
+zur Zeit der Verletzung zu dem Getöteten in einem besonderen
+persönlichen Näheverhältnis stand, für das dem Hinterbliebenen
+zugefügte seelische Leid eine angemessene Entschädigung in Geld zu
+leisten. Ein besonderes persönliches Näheverhältnis wird vermutet,
+wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein
+Elternteil oder ein Kind des Getöteten war.
 
 (5) Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz
 der Kosten der Heilung sowie des Vermögensnachteils zu leisten, den
@@ -2721,11 +2732,11 @@ in der Anlage durchgeführten Arbeiten zu berücksichtigen; dies gilt
 für Freisetzungen entsprechend. Die Rechtsverordnung muss auch nähere
 Vorschriften über die Befugnisse bei der Überwachung der
 Deckungsvorsorge enthalten. Nach Erlass der Rechtsverordnung gemäß
-Satz 1 kann das Bundesministerium der Justiz durch Rechtsverordnung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie,
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, dem Bundesministerium für Bildung und Forschung,
-dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Satz 1 kann das Bundesministerium der Justiz und für Verbraucherschutz
+durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie, dem Bundesministerium für Ernährung und
+Landwirtschaft, dem Bundesministerium für Bildung und Forschung, dem
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 sowie dem Bundesministerium für Gesundheit die Höhe der
 Deckungsvorsorge unter Beachtung der auf dem Versicherungsmarkt
 angebotenen Höchstbeträge neu festsetzen.

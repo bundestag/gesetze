@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 8.11.2011 I 2178
 
+Änderung durch
+:   Art. 23 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Diese Verordnung dient der Umsetzung der Richtlinie
 89/392/EWG des Rates vom 14. Juni 1989 zur Angleichung der
 Rechtsvorschriften
@@ -543,7 +546,7 @@ Pflanzenschutzrechts zuständigen Behörden der Länder mit.
 
 ## § 8 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
+Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Absatz 2 Nummer 2 nicht sicherstellt, dass die

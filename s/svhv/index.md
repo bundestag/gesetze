@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 3147
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 18 G v. 12.4.2012 I 579
+:   Art. 1 V v. 14.7.2021 I 2867
 
 
 ## Eingangsformel
@@ -402,10 +402,23 @@ Maßgabe des § 9 Abs. 1 oder des Deckungsvermerks zugunsten einer
 anderen Ausgabe verwendet werden.
 
 
-### § 20 Einweisung in eine Stelle für Beamte
+### § 20 Einweisung in eine Planstelle für Beamtinnen und Beamte
 
-Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Stelle
-für Beamte verliehen werden.
+(1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare
+Planstelle für Beamtinnen und Beamte verliehen werden.
+
+(2) Wer als Beamtin oder Beamter befördert wird, kann mit Wirkung vom
+Ersten des Monats, in dem die Ernennung wirksam geworden ist, in die
+entsprechende, zu diesem Zeitpunkt besetzbare Planstelle eingewiesen
+werden.  Die Einweisung in eine besetzbare Planstelle kann mit
+Rückwirkung von höchstens drei Monaten zum Ersten eines Monats
+erfolgen, wenn die Beamtin oder der Beamte während dieser Zeit die
+Obliegenheiten dieses oder eines gleichwertigen Amtes wahrgenommen und
+die beamtenrechtlichen Voraussetzungen für die Beförderung erfüllt
+hat. Die Sätze 1 und 2 gelten nicht für landesunmittelbare
+Versicherungsträger, soweit für diese eine rückwirkende Einweisung in
+eine Planstelle nach den jeweils geltenden landesgesetzlichen
+Vorschriften unzulässig ist.
 
 
 ### § 21 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
@@ -423,17 +436,27 @@ bleibt unberührt.
 ausreichende Unterlagen zugrunde zu legen.
 
 
-### § 22 Öffentliche Ausschreibung
+### § 22 Öffentliche Aufträge
 
-(1) Dem Abschluß von Verträgen über Lieferungen und Leistungen mit
-Ausnahme der Verträge, die der Erbringung gesetzlicher oder
-satzungsmäßiger Versicherungsleistungen dienen, muss eine öffentliche
-Ausschreibung vorausgehen. Hiervon kann abgesehen werden, sofern die
-Natur des Geschäfts oder besondere Umstände dies rechtfertigen.
+(1) Bei der Vergabe öffentlicher Aufträge und dem Abschluss von
+Rahmenvereinbarungen unterhalb der jeweiligen EU-Schwellenwerte ist zu
+verfahren nach einheitlichen Richtlinien entsprechend der
+Unterschwellenvergabeordnung in der Fassung der Bekanntmachung vom 2.
+Februar 2017 (BAnz AT 07.02.2017 B1) oder Teil A der Vergabe- und
+Vertragsordnung für Bauleistungen in der Fassung der Bekanntmachung
+vom 31. Januar 2019 (BAnz AT 19.02.2019 B2). Dem Abschluss von
+Verträgen über Lieferungen und Leistungen muss eine Öffentliche
+Ausschreibung oder eine Beschränkte Ausschreibung mit
+Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts
+oder besondere Umstände eine Ausnahme rechtfertigen. Die Pflicht zur
+Ausschreibung nach Satz 2 gilt nicht für Verträge, die unmittelbar der
+Erbringung gesetzlicher oder satzungsmäßiger Versicherungsleistungen
+dienen.
 
-(2) Beim Abschluß der Verträge ist nach einheitlichen Richtlinien zu
-verfahren, wie sie insbesondere in den jeweils geltenden
-Verdingungsordnungen enthalten sind.
+(2) Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen, die
+Vergabeverordnung sowie die besonderen Regelungen des
+Sozialgesetzbuches zum Abschluss von Verträgen durch die
+Versicherungsträger und ihre Verbände sind zu beachten.
 
 
 ### § 23 Vorleistungen
@@ -570,8 +593,9 @@ Stelle der Vermögensrechnung. Die wesentlichen Veränderungen während
 des Haushaltsjahrs sind nicht nachzuweisen, solange dies einen
 erheblichen verwaltungsmäßigen Mehraufwand erfordert.
 
+Anhang zur
 
-### § 29a Anhang zur Jahresrechnung der Krankenversicherung
+### § 29a Jahresrechnung der Krankenversicherung
 
 (1) Die Krankenversicherungsträger und ihre Verbände haben als Teil
 der Jahresrechnung einen Anhang zu erstellen.
@@ -757,42 +781,4 @@ anzuwenden.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie ist
 erstmals für die Aufstellung des Haushaltsplans 1979 anzuwenden.
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1047) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-3.  Verordnung über das Haushaltswesen in der Sozialversicherung vom 21.
-    Dezember 1977 (BGBl. I S. 3147),
-
-    mit folgenden Maßgaben:
-
-    a)  Die Verordnung ist von der Überleitungsanstalt nur anzuwenden, soweit
-        es die Aufsichtsbehörde unter Berücksichtigung der technischen
-        Ausstattung bestimmt.
-
-
-    b)  Für neu errichtete Versicherungsträger in dem in Artikel 3 des
-        Vertrages genannten Gebiet können die Aufsichtsbehörden für eine
-        bestimmte Zeit Befreiungen von der Anwendung der Verordnung anordnen.
-
-
-    c)  Die Aufsichtsbehörden haben bei der Anwendung von Buchstaben a) und b)
-        auf einheitliche und vergleichbare Statistikergebnisse zu achten.
-
-
-    d)  Diese Maßgaben gelten auch für allgemeine Verwaltungsvorschriften, die
-        sich auf das Rechnungswesen und die Statistik in der
-        Sozialversicherung beziehen.
-
-
-
-
-
-
-...
 

@@ -37,7 +37,7 @@ Auslandsbonds (Endgültige Verwaltungsabgabe) vom 10. November 1959
 (Bundesgesetzbl. I S. 682) mit der Maßgabe, daß die von den
 Ausstellern nach § 1 dieser Verordnung zu entrichtende
 Verwaltungsabgabe für das Bereinigungsverfahren vier vom Hundert des
-Bemessungsbetrags beträgt; für Dollarbonds, die im Verzeichnis unter
+Bemessungsbetrages beträgt; für Dollarbonds, die im Verzeichnis unter
 Nummer 1 aufgeführt sind, ist die Verwaltungsabgabe von den Garanten
 zu entrichten.
 
@@ -47,7 +47,7 @@ Auslandsbonds-Entschädigungsgesetzes vom 10. März 1960
 (Bundesgesetzbl. I S. 177) mit der Maßgabe, daß die Leistungspflicht
 gegenüber Entschädigungsberechtigten (§ 5 Abs. 1 des Auslandsbonds-
 Entschädigungsgesetzes) zwei Monate nach Ablauf der Anmeldefrist,
-frühestens jedoch zwei Monate nach Abgabe des Regelungsangebots der
+frühestens jedoch zwei Monate nach Abgabe des Regelungsangebotes der
 Garanten beginnt.
 
 
@@ -173,7 +173,7 @@ Gesetzes festgestellt wird, dessen Umfang Bereinigungsmaßnahmen
 erforderlich erscheinen läßt, oder wenn Bereinigungsmaßnahmen aus
 anderen Gründen wirtschaftlich geboten sind. In der Rechtsverordnung
 ist zu bestimmen, daß an die Stelle des in Absatz 1 Nr. 1 genannten
-Zeitpunkts des Inkrafttretens dieses Gesetzes der Zeitpunkt des
+Zeitpunktes des Inkrafttretens dieses Gesetzes der Zeitpunkt des
 Inkrafttretens der Rechtsverordnung tritt.
 
 

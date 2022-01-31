@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1. 6.1976 I 1334,
 
 Zuletzt geändert durch
-:   Art. 10 G v. 17.3.2009 I 550
+:   Art. 2 V v. 28.4.2016 I 1046
 
 
 ## § 1 Geltungsbereich der Erlaubnis
@@ -113,7 +113,7 @@ sein
 
 
 (3) Die Aufzeichnungen, Unterlagen und Belege sind in den
-Geschäftsräumen drei Jahre aufzubewahren. Die Aufbewahrungsfrist
+Geschäftsräumen vier Jahre aufzubewahren. Die Aufbewahrungsfrist
 beginnt mit dem Schluß des Kalenderjahres, in dem Aufzeichnungen zu
 machen, Unterlagen oder Belege zu sammeln waren.
 
@@ -137,7 +137,7 @@ Verpfänder vereinbart, daß
     befriedigen darf,
 
 
-2.  er berechtigt ist, zwei Jahre nach Ablauf des Jahres, in dem das Pfand
+2.  er berechtigt ist, drei Jahre nach Ablauf des Jahres, in dem das Pfand
     verwertet worden ist, den Teil des Erlöses, der ihm nicht zu seiner
     Befriedigung gebührt und nicht an den Verpfänder ausgezahlt worden
     ist, an die zuständige Behörde abzuführen oder sich daraus nach
@@ -301,8 +301,8 @@ einen Abdruck dieser Verordnung auszuhängen.
 
 ## § 12a Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 1 der Gewerbeordnung
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
+Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 die für den Geschäftsbetrieb benutzten Räume oder einen
     Wechsel der Räume nicht oder nicht rechtzeitig anzeigt,

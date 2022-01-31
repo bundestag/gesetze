@@ -4,7 +4,7 @@ Title: Verordnung über die Zuweisung von Aufgaben und Befugnissen einer Entsch�
   GmbH
 jurabk: EntschBVöffBankV
 layout: default
-origslug: entschbv_ffbankv
+origslug: entschbvoeffbankv
 slug: entschbvoeffbankv
 
 ---
@@ -16,6 +16,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1998, 2390
+
+Geändert durch
+:   Art. 8 G v. 28.5.2015 I 786
 
 
 
@@ -30,9 +33,9 @@ verordnet das Bundesministerium der Finanzen:
 
 Der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
 Deutschlands GmbH werden die Aufgaben und Befugnisse einer
-Entschädigungseinrichtung für die in § 6 Abs. 1 Satz 2 Nr. 2 des
-Einlagensicherungs- und Anlegerentschädigungsgesetzes genannten
-öffentlich-rechtlichen Institute zugewiesen.
+Entschädigungseinrichtung für die in § 24 Absatz 1 Nummer 2 des
+Einlagensicherungsgesetzes genannten öffentlich-rechtlichen Institute
+zugewiesen.
 
 
 ## § 2

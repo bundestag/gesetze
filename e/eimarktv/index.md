@@ -19,24 +19,25 @@ Neugefasst durch
 :   Bek. v. 18.1.1995 I 46;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 109 G v. 22.12.2011 I 3044
+:   Art. 7 V v. 4.1.2019 I 2
 
 
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-über Vermarktungsnormen für Eier erlassen sind.
+über Vermarktungsnormen für Eier.
 
 
 ## § 1a Ausnahmen
 
-(1) Die Bestimmungen des Anhangs XIV Teil A, ausgenommen Abschnitt III
-Nummer 3, der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober
-2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-1) in der jeweils geltenden Fassung müssen nicht eingehalten werden
+(1) Die Bestimmungen des Anhangs VII Teil VI, ausgenommen Abschnitt
+III Nummer 3, der Verordnung (EU) Nr. 1308/2013 des Europäischen
+Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame
+Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+671) in der jeweils geltenden Fassung müssen nicht eingehalten werden
 bei Eiern, die der Erzeuger an der Produktionsstätte, auf einem
 örtlichen öffentlichen Markt im Erzeugungsgebiet oder im Verkauf an
 der Tür im Erzeugungsgebiet unmittelbar an den Endverbraucher abgibt,
@@ -50,38 +51,37 @@ gelegen ist.
 
 ## § 1b Verbot des Inverkehrbringens
 
-(1) Es ist verboten, entgegen Artikel 116 und Anhang XIV Teil A
-Kapitel I Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-1), die zuletzt durch die Verordnung (EU) Nr. 513/2010 (ABl. L 150 vom
-16\.6.2010, S. 40) geändert worden ist, in Verbindung mit
+(1) Es ist verboten, entgegen Artikel 78 Absatz 1 Buchstabe e und
+Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr.
+1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember
+2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
+Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG)
+Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
+20\.12.2013, S. 671) in Verbindung mit
 
-1.  Anhang XIV Teil A Kapitel II Nummer 1 oder Nummer 2 Satz 1 in
-    Verbindung mit Artikel 2 Absatz 1, 2, 3 Satz 1 oder Absatz 4 Satz 1
-    oder Artikel 4 Absatz 1 der Verordnung (EG) Nr. 589/2008 der
-    Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur
-    Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der
-    Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6), die
-    zuletzt durch die Verordnung (EU) Nr. 557/2010 (ABl. L 159 vom
-    25\.6.2010, S. 13) geändert worden ist, Eier zum Verkauf vorrätig zu
-    halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst
-    in den Verkehr zu bringen, die nicht oder nicht richtig nach den
-    vorgeschriebenen Güteklassen eingeteilt oder nicht oder nicht richtig
-    nach Gewichtsklassen sortiert sind,
-
-
-2.  Anhang XIV Teil A Kapitel II Nummer 3 Eier der Klasse B an andere als
-    die dort genannten Einrichtungen zu liefern,
+1.  Anhang VII Teil VI Abschnitt II Nummer 1 oder Nummer 2 Satz 1 der
+    Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, 2,
+    3 Satz 1 oder Absatz 4 Satz 1 oder Artikel 4 Absatz 1 der Verordnung
+    (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit
+    Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates
+    hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom
+    24\.6.2008, S. 6), die zuletzt durch die Verordnung (EU) Nr. 519/2013
+    (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, Eier zum
+    Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu
+    verkaufen oder sonst in den Verkehr zu bringen, die nicht oder nicht
+    richtig nach den vorgeschriebenen Güteklassen eingeteilt oder nicht
+    oder nicht richtig nach Gewichtsklassen sortiert sind,
 
 
-3.  Anhang XIV Teil A Kapitel III Nummer 1 Unterabsatz 1 oder 2, Nummer 2
-    oder 3 Unterabsatz 1 oder Kapitel IV Nummer 1 Satz 3 oder Nummer 3
-    Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den
-    dort genannten Anforderungen an Angaben oder Kennzeichnung nicht
-    entsprechen.
+2.  Anhang VII Teil VI Abschnitt II Nummer 3 Eier der Klasse B an andere
+    als die dort genannten Einrichtungen zu liefern,
+
+
+3.  Anhang VII Teil VI Abschnitt III Nummer 1 Unterabsatz 1 oder 2, Nummer
+    2 oder 3 Unterabsatz 1 Eier zum Verkauf vorrätig zu halten,
+    anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den
+    Verkehr zu bringen, die den dort genannten Anforderungen an Angaben
+    oder Kennzeichnung nicht entsprechen.
 
 
 
@@ -149,13 +149,8 @@ Güte- und Gewichtsklassen anzugeben, unter denen die Eier jeweils
 geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
 
 
-## § 3 Werbung
+## § 3 (weggefallen)
 
-In öffentlichen Bekanntmachungen und in Mitteilungen, die für einen
-größeren Kreis von Personen bestimmt sind, darf für Eier nicht ohne
-Angabe der Güte- und Gewichtsklassen geworben werden, sofern dabei
-Preise angegeben werden, die sich unmittelbar auf eine Gewichtseinheit
-beziehen.
 
 
 ## § 3a
@@ -254,7 +249,8 @@ in § 1 genannten Rechtsakte und dieser Verordnung
 Möglichkeit des Artikels 29 der Verordnung (EG) Nr. 589/2008 Gebrauch
 gemacht werden soll, ist dies der Bundesanstalt spätestens drei
 Werktage vor Versendung der Eier nach Maßgabe des Satzes 2 schriftlich
-anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
+oder elektronisch anzuzeigen. Die Anzeige muss folgende Angaben
+enthalten:
 
 1.  Name, Anschrift und Telekommunikationsdaten des Antragstellers,
 
@@ -276,8 +272,8 @@ anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
 
 
 7.  einen Nachweis über die rechtlichen Anforderungen des Empfängerlandes,
-    die die Abweichung von den Anforderungen des Anhangs XIV Teil A der
-    Verordnung (EG) Nr. 1234/2007 und der Verordnung (EG) Nr. 589/2008
+    die die Abweichung von den Anforderungen des Anhangs VII Teil VI der
+    Verordnung (EU) Nr. 1308/2013 und der Verordnung (EG) Nr. 589/2008
     erforderlich machen.
 
 
@@ -285,6 +281,11 @@ anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
 
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige
 unverzüglich an die zuständigen Behörden der Länder weiter.
+
+(4) Zum Zwecke der Kontrolle gemäß Absatz 1 verarbeitet die
+Bundesanstalt für Ernährung und Landwirtschaft die in Abschnitt III
+der Anlage des Marktorganisationsgesetzes genannten Angaben und
+übermittelt diese an die zuständigen Behörden der Länder.
 
 
 ## § 6a (weggefallen)
@@ -368,6 +369,42 @@ Handelsklassengesetzes handelt ferner, wer
 
 
 
+
+
+## § 7a Überwachung, Duldungs- und Auskunftspflichten
+
+(1) Soweit es zur Überwachung der Einhaltung der nach dieser
+Verordnung geltenden Vorschriften erforderlich ist, können die
+Beauftragten der zuständigen Stellen bei Betrieben, die Eier zum
+Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder
+sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem
+Geltungsbereich dieser Verordnung verbringen, während der
+Geschäftszeit
+
+1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+    Transportmittel betreten und dort Besichtigungen vornehmen,
+
+
+2.  Geschäftsunterlagen einsehen und prüfen,
+
+
+3.  Auskunft verlangen.
+
+
+
+Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an
+öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder im
+Umherziehen zum Verkauf vorrätig gehalten, angeboten, feilgehalten,
+geliefert, verkauft oder sonst in den Verkehr gebracht werden.
+
+(2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten
+der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
+gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere
+so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden
+kann, selbst oder durch andere die erforderliche Hilfe bei der
+Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen,
+prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 8 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten

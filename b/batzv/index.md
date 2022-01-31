@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2
 
+Zuletzt geändert durch
+:   Art. 10 Abs. 1 G v. 19.10.2016 I 2362
+
 
 ## Eingangsformel
 
@@ -81,9 +84,9 @@ Altersteilzeit nur im Blockmodell bewilligt werden. In diesem Fall
 werden die Zeiten der Freistellung von der Arbeit in der Weise
 zusammengefasst, dass vor der Freistellung mit mindestens der Hälfte
 der regelmäßigen Arbeitszeit Dienst zu leisten ist. Im Fall des § 92
-Absatz 1 des Bundesbeamtengesetzes oder bei Teilzeitbeschäftigung
-während der Elternzeit ist mindestens im Umfang der bisherigen
-Teilzeitbeschäftigung Dienst zu leisten. Geringfügige
+Absatz 1, des § 92a oder des § 92b des Bundesbeamtengesetzes oder bei
+Teilzeitbeschäftigung während der Elternzeit ist mindestens im Umfang
+der bisherigen Teilzeitbeschäftigung Dienst zu leisten. Geringfügige
 Unterschreitungen des notwendigen Umfangs der Arbeitszeit bleiben in
 beiden Fällen unberücksichtigt.
 

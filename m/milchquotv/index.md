@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 3.5.2011 I 775;
 
-Geändert durch
-:   Art. 2 Abs. 98 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 9 Abs. 12 G v. 3.12.2015 I 2178
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -87,10 +87,9 @@ Direktverkaufsquoten sowie in Landesreserven für Anlieferungsquoten
 auf.
 
 (2) Die Bundesreserve wird vom Bundesministerium der Finanzen im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz (Bundesministerium) und die Landesreserven
-werden von den jeweils zuständigen Stellen der Länder (Landesstellen)
-verwaltet.
+Einvernehmen mit dem Bundesministerium Ernährung und Landwirtschaft
+(Bundesministerium) und die Landesreserven werden von den jeweils
+zuständigen Stellen der Länder (Landesstellen) verwaltet.
 
 
 ### § 6 Einziehung und Zuteilung
@@ -696,12 +695,11 @@ wird, führt sie im Hinblick auf die in Absatz 2 Nummer 3 und 4
 genannten Angaben die Aufzeichnungen anstelle der Übertragungsstellen
 des Übertragungsbereichs West.
 
-(4) Nachrichtlich erhalten die Bundesfinanzdirektion, in deren
-Zuständigkeitsbereich die jeweilige Übertragungsstelle liegt, die in
-Absatz 2 Nummer 5 genannten Aufzeichnungen und das Bundesministerium
-die in Absatz 2 Nummer 3 bis 5 genannten Aufzeichnungen. Die
-Aufzeichnungen der Übertragungsstelle Ost werden nachrichtlich den
-Ländern des Übertragungsbereichs Ost übermittelt.
+(4) Nachrichtlich erhalten die Generalzolldirektion die in Absatz 2
+Nummer 5 genannten Aufzeichnungen und das Bundesministerium die in
+Absatz 2 Nummer 3 bis 5 genannten Aufzeichnungen. Die Aufzeichnungen
+der Übertragungsstelle Ost werden nachrichtlich den Ländern des
+Übertragungsbereichs Ost übermittelt.
 
 
 ### Unterabschnitt 3 - Besondere Übertragungen

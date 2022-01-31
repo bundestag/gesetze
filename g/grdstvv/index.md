@@ -19,7 +19,7 @@ Neugefasst durch
 :   Art. 15 § 1 G v. 20.12.1993 I 2182, 2221;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 44 G v. 22.9.2005 I 2809
+:   Art. 18 G v. 21.11.2016 I 2591
 
 
 ## § 1 Geltungsbereich, Genehmigungsanspruch
@@ -114,17 +114,22 @@ Eine Genehmigung ist nicht erforderlich, wenn
     erlangt hat, im Grundbuch als Eigentümer eingetragen war oder
 
 
-4.  das Rechtsgeschäft auf die Eintragung einer Vormerkung gerichtet ist
-    oder
+4.  das Rechtsgeschäft auf die Eintragung einer Vormerkung gerichtet ist,
 
 
 5.  der Rechtserwerb des Veräußerers nach dem 2. Oktober 1990 durch
     Zuschlagsbeschluß in der Zwangsversteigerung erfolgt und in das
-    Grundbuch eingetragen worden ist.
+    Grundbuch eingetragen worden ist oder
+
+
+6.  im Zeitpunkt der Eintragung einer Vormerkung zur Sicherung des
+    Rechtserwerbs oder im Zeitpunkt der Eintragung des Rechtserwerbs kein
+    Anmeldevermerk gemäß § 30b Absatz 1 des Vermögensgesetzes im Grundbuch
+    eingetragen ist.
 
 
 
-Satz 2 Nr. 1 bis 5 gilt für die Bestellung oder Übertragung eines
+Satz 2 Nr. 1 bis 6 gilt für die Bestellung oder Übertragung eines
 Erbbaurechts entsprechend. Die Genehmigung des schuldrechtlichen
 Vertrages erfaßt auch das zu seiner Ausführung erforderliche dingliche
 Rechtsgeschäft; die Genehmigung des dinglichen Rechtsgeschäfts erfaßt
@@ -312,14 +317,14 @@ unberührt.
 
 ## § 10 Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, mit Zustimmung
-des Bundesrates durch Rechtsverordnung ergänzende Bestimmungen über
-das Genehmigungsverfahren zu erlassen und, soweit die Bundesanstalt
-für vereinigungsbedingte Sonderaufgaben oder eines ihrer Unternehmen
-verfügungsbefugt ist oder eine Übertragung gemäß § 8 Satz 3
-vorgenommen wurde oder wird, die Zuständigkeiten für die Erteilung der
-Genehmigung einer oder mehreren anderen Stellen des Bundes zu
-übertragen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
+ergänzende Bestimmungen über das Genehmigungsverfahren zu erlassen
+und, soweit die Bundesanstalt für vereinigungsbedingte Sonderaufgaben
+oder eines ihrer Unternehmen verfügungsbefugt ist oder eine
+Übertragung gemäß § 8 Satz 3 vorgenommen wurde oder wird, die
+Zuständigkeiten für die Erteilung der Genehmigung einer oder mehreren
+anderen Stellen des Bundes zu übertragen.
 
 (2) Die Landesregierungen werden ermächtigt, die Zuständigkeit für die
 Erteilung der Genehmigung nach § 8 Abs. 1 Satz 1 auf eine oder mehrere

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1976, 393
 
 Zuletzt geändert durch
-:   Art. 22 G v. 21.6.2002 I 2167
+:   Art. 57 Abs. 12 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -144,18 +144,19 @@ Hauptverband der gewerblichen Berufsgenossenschaften gezahlt und ist
 von den gewerblichen Berufsgenossenschaften im Verhältnis ihrer
 Rentenausgaben im Jahre 1974 aufzubringen.
 
-(3) Das Bundesversicherungsamt setzt im Einvernehmen mit dem
+(3) Das Bundesamt für Soziale Sicherung setzt im Einvernehmen mit dem
 Bundesminister für Arbeit und Sozialordnung die jeweils fälligen Raten
 für die Bundesversicherungsanstalt für Angestellte, die
-Bundesknappschaft, die Unfallkasse des Bundes und den Hauptverband der
-gewerblichen Berufsgenossenschaften fest. Diese Stellen überweisen bei
-Inkrafttreten des Abkommens den auf sie entfallenden Anteil der ersten
-Rate und in jeweils zwölfmonatlichen Abständen die Anteile der zweiten
-und dritten Rate an das Bundesversicherungsamt.
+Bundesknappschaft, die Unfallversicherung Bund und Bahn und den
+Hauptverband der gewerblichen Berufsgenossenschaften fest. Diese
+Stellen überweisen bei Inkrafttreten des Abkommens den auf sie
+entfallenden Anteil der ersten Rate und in jeweils zwölfmonatlichen
+Abständen die Anteile der zweiten und dritten Rate an das Bundesamt
+für Soziale Sicherung.
 
 (4) Die Zahlung der nach Artikel 2 der Vereinbarung fälligen Raten
-erfolgt durch das Bundesversicherungsamt im Einvernehmen mit dem
-Bundesminister für Arbeit und Sozialordnung.
+erfolgt durch das Bundesamt für Soziale Sicherung im Einvernehmen mit
+dem Bundesminister für Arbeit und Sozialordnung.
 
 
 ## Art 6

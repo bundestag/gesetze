@@ -91,8 +91,9 @@ Fundstelle
 
 **Minister im Amt des Ministerpräsidenten**
 
+Auszug aus EinigVtrVbg Art 3
 
-## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
+## Anhang EV (BGBl. II 1990, 1239)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9

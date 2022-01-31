@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. März 1958 über die Annahme einheit
   und über die gegenseitige Anerkennung der Genehmigung
 jurabk: FzgTeilÜbkG
 layout: default
-origslug: fzgteil_bkg
+origslug: fzgteiluebkg
 slug: fzgteiluebkg
 
 ---

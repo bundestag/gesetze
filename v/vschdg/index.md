@@ -1,5 +1,7 @@
 ---
-Title: EG-Verbraucherschutzdurchsetzungsgesetz
+Title: Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments
+  und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze
+  zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004
 jurabk: VSchDG
 layout: default
 origslug: vschdg
@@ -7,7 +9,7 @@ slug: vschdg
 
 ---
 
-# EG-Verbraucherschutzdurchsetzungsgesetz (VSchDG)
+# Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (VSchDG)
 
 Ausfertigungsdatum
 :   2006-12-21
@@ -15,7 +17,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3367
 
-Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
+Zuletzt geändert durch
+:   Art. 6 G v. 26.11.2020 I 2568
+
+Änderung durch
+:   Art. 7 Abs. 1 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 25.6.2021 I 2123 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -24,25 +34,27 @@ Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
 
 ### § 1 Anwendungsbereich
 
-(1) Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr.
-2006/2004 des Europäischen Parlaments und des Rates vom 27. Oktober
-2004 über die Zusammenarbeit zwischen den für die Durchsetzung der
-Verbraucherschutzgesetze zuständigen nationalen Behörden (ABl. L 364
-vom 9.12.2004, S. 1), die zuletzt durch Artikel 3 der Richtlinie
-2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist.
+(1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/2394
+des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über
+die Zusammenarbeit zwischen den für die Durchsetzung der
+Verbraucherschutzgesetze zuständigen nationalen Behörden und zur
+Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom
+27\.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771
+(ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, in der jeweils
+geltenden Fassung.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes bleiben die
 Zuständigkeiten und Befugnisse nach
 
 1.  den Rechtsvorschriften, die zur Umsetzung oder Durchführung der im
-    Anhang der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakte der
+    Anhang der Verordnung (EU) 2017/2394 genannten Rechtsakte der
     Europäischen Gemeinschaft oder der Europäischen Union erlassen sind,
     oder
 
 
-2.  dem in Nummer 15 des Anhanges der Verordnung (EG) Nr. 2006/2004
-    genannten unmittelbar geltenden Rechtsakt der Europäischen
-    Gemeinschaft oder der Europäischen Union und den zu seiner
+2.  den im Anhang der Verordnung (EU) 2017/2394 genannten unmittelbar
+    geltenden Rechtsakten der Europäischen Gemeinschaft oder der
+    Europäischen Union und nach den in ihrem Rahmen oder zu ihrer
     Durchführung erlassenen Rechtsvorschriften.
 
 
@@ -55,41 +67,42 @@ vorgesehen sind.
 
 ### § 2 Zuständige Behörde
 
-Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
+Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen
+innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten
+Verstößen mit Unions-Dimension zuständig
 
-1.  das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im
-    Falle eines Verdachtes eines innergemeinschaftlichen Verstoßes gegen
-    die zur Umsetzung oder Durchführung
+1.  das Bundesamt für Justiz im Falle eines Verdachtes eines Verstoßes
+    gegen
 
-    a)  der in den Nummern 1 bis 3, 5 bis 9, 11, 12, 14, 16 und 17 des
-        Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakte
-        erlassenen Rechtsvorschriften,
+    a)  die in den Nummern 1, 3, 4, 6, 7, 9, 11, 14 bis 16, 20 bis 23, 25, 26
+        und 28 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte
+        und die zu ihrer Umsetzung oder Durchführung erlassenen
+        Rechtsvorschriften,
 
 
-    b)  sonstiger Rechtsakte der Europäischen Gemeinschaft oder der
-        Europäischen Union erlassenen Rechtsvorschriften, soweit die
-        Rechtsakte in den Anwendungsbereich der Verordnung (EG) Nr. 2006/2004
-        einbezogen worden sind und dem Bundesamt für Verbraucherschutz und
-        Lebensmittelsicherheit die Zuständigkeit durch Rechtsverordnung nach §
-        12 Abs. 1 übertragen worden ist,
+    b)  sonstige Rechtsakte der Europäischen Gemeinschaft oder der
+        Europäischen Union und die zu ihrer Umsetzung oder Durchführung
+        erlassenen Rechtsvorschriften, soweit die Rechtsakte in den
+        Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind
+        und dem Bundesamt für Justiz die Zuständigkeit durch Rechtsverordnung
+        nach § 12 Absatz 1 übertragen worden ist,
 
 
 
 
 
 2.  die Bundesanstalt für Finanzdienstleistungsaufsicht in Fällen der
-    Nummer 1, soweit es sich um den Verdacht eines innergemeinschaftlichen
-    Verstoßes
+    Nummer 1, soweit es sich um den Verdacht eines Verstoßes
 
     a)  eines Unternehmens handelt, das
 
-        aa) eine Tätigkeit ausübt, die einer Erlaubnis nach § 5 Absatz 1, § 105
-            Absatz 2 oder § 112 Absatz 2 des Versicherungsaufsichtsgesetzes
+        aa) eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67
+            Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes
             bedarf, und der Aufsicht der Bundesanstalt für
             Finanzdienstleistungsaufsicht untersteht oder
 
 
-        bb) nach § 110a Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine
+        bb) nach § 61 Absatz 1 des Versicherungsaufsichtsgesetzes im Inland eine
             Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden
             Dienstleistungsverkehrs tätig wird,
 
@@ -101,7 +114,7 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
         aa) Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt, die einer
             Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a des
-            Kreditwesengesetzes bedürfen, oder
+            Kreditwesengesetzes bedürfen,
 
 
         bb) nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland
@@ -110,26 +123,44 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
             oder Finanzdienstleistungen erbringt,
 
 
+        cc) Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen
+            erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des
+            Wertpapierinstitutsgesetzes bedürfen, oder
+
+
+        dd) nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine
+            Zweigniederlassung betreibt oder nach § 74 Absatz 1 des
+            Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden
+            Dienstleistungsverkehrs Wertpapierdienstleistungen oder
+            Wertpapiernebendienstleistungen erbringt,
 
 
 
 
-    und der Verdacht des innergemeinschaftlichen Verstoßes sich auf die
-    jeweilige Tätigkeit bezieht,
 
 
-3.  das Luftfahrt-Bundesamt im Falle eines Verdachtes eines
-    innergemeinschaftlichen Verstoßes gegen den in der Nummer 15 des
-    Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakt und die
-    zu seiner Durchführung erlassenen Rechtsvorschriften,
+    und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit
+    bezieht,
+
+
+2a. die Bundesanstalt für Finanzdienstleistungsaufsicht im Falle eines
+    Verdachtes eines Verstoßes gegen die zur Umsetzung der in Nummer 24
+    des Anhangs der Verordnung (EU) 2017/2394 erlassenen
+    Rechtsvorschriften,
+
+
+3.  das Luftfahrt-Bundesamt im Falle eines Verdachtes eines Verstoßes
+    gegen die in den Nummern 8 und 10 des Anhangs der Verordnung (EU)
+    2017/2394 genannten Rechtsakte und die zu ihrer Durchführung
+    erlassenen Rechtsvorschriften,
 
 
 4.  die nach Landesrecht zuständige Behörde in den Fällen der Nummer 1,
-    soweit es sich um den Verdacht eines innergemeinschaftlichen Verstoßes
-    eines Unternehmens handelt, das
+    soweit es sich um den Verdacht eines Verstoßes eines Unternehmens
+    handelt, das
 
-    a)  eine Tätigkeit ausübt, die einer Erlaubnis nach § 5 Absatz 1, § 105
-        Absatz 2 oder § 112 Absatz 2 des Versicherungsaufsichtsgesetzes
+    a)  eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67
+        Absatz 1 oder § 236 Absatz 4 des Versicherungsaufsichtsgesetzes
         bedarf, und
 
 
@@ -137,17 +168,22 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
 
 
-    und der Verdacht des innergemeinschaftlichen Verstoßes sich auf die
-    Tätigkeit bezieht,
+    und der Verdacht des Verstoßes sich auf die Tätigkeit bezieht,
 
 
-5.  das Eisenbahn-Bundesamt im Fall eines Verdachtes eines
-    innergemeinschaftlichen Verstoßes gegen den in der Nummer 18 des
-    Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakt und die
-    zu seiner Durchsetzung erlassenen Rechtsvorschriften,
+5.  das Eisenbahn-Bundesamt im Fall eines Verdachts eines Verstoßes gegen
+    die in den Nummern 13, 18 und 19 des Anhangs der Verordnung (EU)
+    2017/2394 genannten Rechtsakte und die zu ihrer Durchführung
+    erlassenen Rechtsvorschriften,
 
 
-6.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
+6.  die Bundesnetzagentur im Falle eines Verdachtes eines Verstoßes gegen
+    die in den Nummern 12 und 27 des Anhangs der Verordnung (EU) 2017/2394
+    genannten Rechtsakte und die zu ihrer Durchführung erlassenen
+    Rechtsvorschriften,
+
+
+7.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
     Behörde in den übrigen Fällen.
 
 
@@ -156,196 +192,136 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
 ### § 3 Zentrale Verbindungsstelle
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
-- auch in Fällen des § 2 Nr. 2 bis 5 - Zentrale Verbindungsstelle im
-Sinne des Artikels 3 Buchstabe d der Verordnung (EG) Nr. 2006/2004.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz ist
+zentrale Verbindungsstelle im Sinne des Artikels 5 Absatz 1 der
+Verordnung (EU) 2017/2394.
 
-(2) Die Zentrale Verbindungsstelle berichtet den für den
+(2) Die zentrale Verbindungsstelle berichtet den für den
 Verbraucherschutz zuständigen obersten Landesbehörden jährlich,
 erstmals zum 31. Dezember 2007, umfassend und in anonymisierter Form
 über die im Zusammenhang mit diesem Gesetz empfangenen und
 weitergeleiteten Ersuchen um Amtshilfe und Informationsaustausch. Dazu
 gehören insbesondere Klagen und Urteile, die im Zusammenhang mit einem
-Verdacht eines innergemeinschaftlichen Verstoßes gegen Gesetze zum
-Schutz der Verbraucherinteressen erhoben worden oder ergangen sind.
+Verdacht eines Verstoßes innerhalb der Union, eines weitverbreiteten
+Verstoßes oder eines weitverbreiteten Verstoßes mit Unions-Dimension
+gegen Unionsrecht zum Schutz der Verbraucherinteressen erhoben worden
+oder ergangen sind.
+
+(3) Die zentrale Verbindungsstelle koordiniert den fachlichen
+Austausch. Um der zentralen Verbindungsstelle die Koordinierung der
+Anwendung der Verordnung (EU) 2017/2394 und dieses Gesetzes zu
+ermöglichen, berichten ihr die zuständigen Behörden auf Anforderung,
+mindestens aber jeweils zum Abschluss des dritten Kalenderquartals
+über ihre Tätigkeit aufgrund der Verordnung (EU) 2017/2394 und
+aufgrund dieses Gesetzes. Die Bundesregierung kann zur weiteren
+Durchführung der Verordnung (EU) 2017/2394 und dieses Gesetzes
+Verwaltungsvorschriften erlassen.
+
+(4) Sind nach § 2 verschiedene Bundesbehörden zuständig, bestimmt die
+zentrale Verbindungsstelle, welche dieser Behörden zuständig ist und
+welche unterstützende Funktion übernimmt.
+
+(5) Die zentrale Verbindungsstelle ist befugt, Ermächtigungen nach
+Artikel 27 Absatz 1 der Verordnung (EU) 2017/2394 vorzunehmen.
 
 
 ## Abschnitt 2 - Durchsetzung der Gesetze zum Schutz der Verbraucherinteressen
 
 
 
-### § 4 Aufgaben der zuständigen Behörden
-
-Die zuständige Behörde wird tätig
-
-1.  auf Ersuchen einer zuständigen Behörde eines anderen Mitgliedstaates
-    der Europäischen Union nach Artikel 6 oder 8 der Verordnung (EG) Nr.
-    2006/2004,
+### § 4 (weggefallen)
 
 
-2.  zur Erfüllung der Aufgaben nach den Artikeln 7 und 9 der Verordnung
-    (EG) Nr. 2006/2004.
+### § 5 (weggefallen)
 
 
+### § 6 Ergänzende Verfahrensvorschriften
+
+(1) Für das Verwaltungsverfahren der Bundesbehörden gelten ergänzend
+die Vorschriften des Verwaltungsverfahrensgesetzes. Der zur Erteilung
+einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen
+verweigern, deren Beantwortung ihn selbst oder einen der in § 383
+Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
+Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
+Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+(2) Im Verwaltungsverfahren sind durch den Richter anzuordnen:
+
+1.  Durchsuchungen von Geschäftsräumen und Personen und die Sicherstellung
+    von Informationen, Datenträgern und Dokumenten gegen den Willen des
+    Gewahrsaminhabers nach Artikel 9 Absatz 3 Buchstabe c der Verordnung
+    (EU) 2017/2394 zur Verfolgung von Verstößen nach der Verordnung (EU)
+    2017/2394, außer bei Gefahr im Verzug,
 
 
-
-### § 5 Befugnisse der zuständigen Behörde
-
-(1) Die zuständige Behörde trifft die notwendigen Maßnahmen, die zur
-Feststellung, Beseitigung oder Verhütung innergemeinschaftlicher
-Verstöße gegen Gesetze zum Schutz der Verbraucherinteressen
-erforderlich sind. Sie kann insbesondere
-
-1.  den verantwortlichen Verkäufer oder Dienstleistungserbringer im Sinne
-    des Artikels 3 Buchstabe h der Verordnung (EG) Nr. 2006/2004
-    (Verkäufer oder Dienstleister) verpflichten, einen festgestellten
-    innergemeinschaftlichen Verstoß zu beseitigen oder künftige Verstöße
-    zu unterlassen,
-
-
-2.  von dem Verkäufer oder Dienstleister alle erforderlichen Auskünfte
-    innerhalb einer zu bestimmenden angemessenen Frist verlangen,
-
-
-3.  von Personen, die geschäftsmäßig Postdienste,
-    Telekommunikationsdienste oder Telemediendienste erbringen oder an der
-    Erbringung solcher Dienste mitwirken, die Mitteilung des Namens und
-    der zustellungsfähigen Anschrift eines Beteiligten an Postdiensten,
-    Telekommunikationsdiensten oder Telemediendiensten innerhalb einer zu
-    bestimmenden angemessenen Frist verlangen, soweit diese Auskunft
-    ausschließlich anhand der bei dem Auskunftspflichtigen vorhandenen
-    Bestandsdaten erteilt werden kann,
-
-
-4.  Ausdrucke elektronisch gespeicherter Daten verlangen,
-
-
-5.  die zur Durchsetzung der Befugnisse nach Absatz 2 erforderlichen
-    Anordnungen treffen.
+2.  Durchsuchungen von Räumen, die als Wohnung dienen.
 
 
 
-Im Fall des Satzes 2 Nr. 3 bestimmt sich die Entschädigung der zur
-Auskunft Verpflichteten in entsprechender Anwendung des § 23 Abs. 2
-des Justizvergütungs- und -entschädigungsgesetzes vom 5. Mai 2004
-(BGBl. I S. 718) in der jeweils geltenden Fassung.
+Zuständig ist das Amtsgericht, in dessen Bezirk sich die zuständige
+Behörde befindet. Gegen die richterliche Entscheidung ist die
+Beschwerde zulässig; die §§ 306 bis 310 und 311a der
+Strafprozessordnung gelten entsprechend. Über die Durchsuchung ist
+eine Niederschrift zu fertigen. Sie muss Angaben zur verantwortlichen
+Dienststelle, zu Grund, Zeit und Ort der Durchsuchung und zu ihrem
+Ergebnis und, falls keine richterliche Anordnung ergangen ist, auch zu
+den Tatsachen, welche die Annahme einer Gefahr im Verzug begründet
+haben, enthalten. § 98 Absatz 2 der Strafprozessordnung gilt
+entsprechend.
 
-(2) Soweit es zur Durchführung der Verordnung (EG) Nr. 2006/2004 und
-dieses Gesetzes erforderlich ist, sind die für die Feststellung eines
-innergemeinschaftlichen Verstoßes zuständigen Personen der zuständigen
-Behörde befugt,
+(3) Bei Inanspruchnahme Dritter gilt § 23 Absatz 1 und 2 des
+Justizvergütungs- und ‑entschädigungsgesetzes entsprechend.
 
-1.  alle erforderlichen Datenträger des Verkäufers oder Dienstleisters,
-    insbesondere Aufzeichnungen, Vertrags- und Werbeunterlagen, einzusehen
-    sowie hieraus Abschriften, Auszüge, Ausdrucke oder Kopien anzufertigen
-    oder zu verlangen,
+(4) Die zuständige Behörde kann den Unternehmer verpflichten, seine
+Zusage nach Artikel 9 Absatz 4 Buchstabe b und c der Verordnung (EU)
+2017/2394 zu erfüllen.
 
-
-2.  Grundstücke und Betriebsräume sowie die dazugehörigen Geschäftsräume
-    des Verkäufers oder Dienstleisters während der üblichen Betriebs- oder
-    Geschäftszeit zu betreten, soweit es zur Wahrnehmung der Befugnisse
-    nach Nummer 1 erforderlich ist.
-
-
-
-Soweit es zur Durchführung der Verordnung (EG) Nr. 2006/2004
-erforderlich ist, sind auch Personen der für die Durchführung der
-Verordnung (EG) Nr. 2006/2004 zuständigen Behörden der Mitgliedstaaten
-der Europäischen Union berechtigt, in Begleitung der nach diesem
-Gesetz für die Feststellung eines innergemeinschaftlichen Verstoßes
-zuständigen Personen der zuständigen Behörde, Grundstücke und
-Betriebsräume sowie die dazugehörigen Geschäftsräume des Verkäufers
-oder Dienstleisters während der üblichen Betriebs- oder Geschäftszeit
-zu betreten.
-
-(3) Der nach Absatz 1 Satz 2 Nr. 2 zur Auskunft Verpflichtete kann die
-Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst
-oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung
-bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder
-eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
-würde. Er ist über sein Recht zur Auskunftsverweigerung zu belehren.
-
-(4) Eine Entscheidung nach Absatz 1 Satz 2 Nr. 1 kann von der
-zuständigen Behörde innerhalb von drei Monaten, nachdem diese
-bestandskräftig geworden ist, im Bundesanzeiger bekannt gemacht
-werden, soweit dies zur Vermeidung eines künftigen
-innergemeinschaftlichen Verstoßes erforderlich ist. Personenbezogene
-Daten dürfen nur bekannt gemacht werden, soweit das
-Informationsinteresse der Öffentlichkeit das schutzwürdige Interesse
-des Betroffenen am Ausschluss des Informationszuganges überwiegt oder
-der Betroffene eingewilligt hat. Die zuständige Behörde hat von der
-Bekanntmachung abzusehen, soweit eine vergleichbare Veröffentlichung
-durch den Verkäufer oder Dienstleister erfolgt. Die Sätze 1 bis 3
-gelten entsprechend, soweit sich der Verkäufer oder Dienstleister zur
-Vermeidung einer Entscheidung der Behörde nach Absatz 1 Satz 2 Nr. 1
-verpflichtet hat, den innergemeinschaftlichen Verstoß einzustellen.
-
-(5) Stellen sich die von der zuständigen Behörde an die Öffentlichkeit
-gegebenen Informationen im Nachhinein als falsch oder die zugrunde
-liegenden Umstände als unrichtig wiedergegeben heraus, so hat die
-zuständige Behörde die Öffentlichkeit hierüber in der gleichen Art und
-Weise zu unterrichten, in der sie die betreffenden Informationen zuvor
-bekannt gegeben hat, soweit ein Betroffener hieran ein berechtigtes
-Interesse hat und dies beantragt.
-
-
-### § 6 Duldungs- und Mitwirkungspflichten
-
-Der Verkäufer oder Dienstleister, die nach Gesetz oder Satzung zu
-deren Vertretung berufenen Personen und die von ihnen bestellten
-Vertreter sowie die Eigentümer und sonstigen nutzungsberechtigten
-Personen der in § 5 Abs. 2 Satz 1 Nr. 2 bezeichneten Grundstücke,
-Betriebs- und Geschäftsräume sind verpflichtet, die Maßnahmen nach
-
-1.  § 5 Abs. 2 zu dulden und
-
-
-2.  die für die Feststellung eines innergemeinschaftlichen Verstoßes
-    zuständigen Personen der zuständigen Behörde bei der Erfüllung ihrer
-    Aufgaben zu unterstützen.
-
-
-
-Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf
-Verlangen der zuständigen Behörde Räume zu öffnen.
+(5) Soweit Maßnahmen nach Artikel 9 Absatz 3 Buchstabe d der
+Verordnung (EU) 2017/2394 erforderlich sind, kann sich die zuständige
+Behörde auch anderer Personen und Einrichtungen bedienen. Die
+zuständige Behörde hat dabei die Einhaltung des Artikels 10 Absatz 2
+der Verordnung (EU) 2017/2394 durch die anderen Personen und
+Einrichtungen zu gewährleisten. Sowohl die zuständige Behörde als auch
+die anderen Personen und Einrichtungen sind von den Pflichten der
+Artikel 12 bis 14 der Verordnung (EU) 2016/679 in Bezug auf die
+personenbezogenen Daten der von der Ermittlungsmaßnahme betroffenen
+Personen befreit, solange und soweit die Erfüllung dieser Pflichten
+den Zweck der Ermittlungsmaßnahme gefährden würde. Nach Wegfall der
+Beschränkung sind die betroffenen Personen jeweils in geeigneter Form
+zu informieren, wobei keine Pflicht zur Offenbarung von Ort und
+Zeitpunkt der durchgeführten Ermittlungsmaßnahme oder der Identität
+der natürlichen Personen, die die Ermittlungsmaßnahme durchgeführt
+haben, besteht. Die zuständige Behörde darf die durch Maßnahmen nach
+Artikel 9 Absatz 3 Buchstabe d der Verordnung (EU) 2017/2394
+gewonnenen Erkenntnisse auch für andere Zwecke als für die
+Durchführung des Verwaltungsverfahrens nach diesem Gesetz verarbeiten,
+soweit dies für die Erfüllung der ihr durch Gesetz zugewiesenen
+Aufgaben erforderlich ist.
 
 
 ### § 7 Beauftragung Dritter
 
-(1) Die nach § 2 Nr. 1 oder 2 zuständige Behörde soll, bevor sie eine
-Maßnahme nach § 5 Abs. 1 Satz 2 Nr. 1 erlässt, eine in § 3 Abs. 1 Satz
-1 Nr. 1 bis 3 des Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2
-bis 4 des Gesetzes gegen den unlauteren Wettbewerb genannte Stelle
-(beauftragter Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen,
-nach § 4a des Unterlassungsklagengesetzes, auch in Verbindung mit § 8
-Abs. 5 Satz 2 zweiter Halbsatz des Gesetzes gegen den unlauteren
-Wettbewerb, auf das Abstellen innergemeinschaftlicher Verstöße
-hinzuwirken. Der beauftragte Dritte handelt im eigenen Namen.
+(1) Die nach § 2 Nummer 1, 2 oder 2a zuständige Behörde soll bei
+Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der
+Verordnung (EU) 2017/2394 eine in § 3 Abs. 1 Satz 1 Nr. 1 bis 3 des
+Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2 bis 4 des
+Gesetzes gegen den unlauteren Wettbewerb genannte Stelle (beauftragter
+Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 4e des
+Unterlassungsklagengesetzes, auch in Verbindung mit § 8 Abs. 5 Satz 2
+zweiter Halbsatz des Gesetzes gegen den unlauteren Wettbewerb, auf das
+Abstellen dieser Verstöße hinzuwirken. Der beauftragte Dritte handelt
+im eigenen Namen.
 
-(2) Unbeschadet der Anforderungen des Artikels 8 Abs. 4 und 5 der
-Verordnung (EG) Nr. 2006/2004 ist eine Beauftragung nur zulässig,
-soweit der beauftragte Dritte
-
-1.  hinreichende Gewähr für die ordnungsgemäße Erfüllung der Aufgabe
-    bietet und
-
-
-2.  in die Beauftragung einwilligt.
-
-
-
-Kommt die zuständige Behörde zu der Überzeugung, dass die
+(2) Kommt die zuständige Behörde zu der Überzeugung, dass die
 ordnungsgemäße Erfüllung der Aufgaben nicht mehr gewährleistet ist, so
 ist die Beauftragung ohne Entschädigung zu widerrufen.
 
-(3) Die nach § 2 Nr. 1 oder 2 zuständige Behörde kann
-Rahmenvereinbarungen über eine allgemeine Beauftragung nach Absatz 1
-unter Beachtung des Absatzes 2 abschließen und den danach beauftragten
-Dritten nach Artikel 4 Abs. 2 Satz 2 der Verordnung (EG) Nr. 2006/2004
-benennen. Eine Rahmenvereinbarung bedarf der Genehmigung der
-zuständigen obersten Bundesbehörde, zu deren Geschäftsbereich die nach
-§ 2 Nr. 1 oder 2 zuständige Behörde gehört. Die Rahmenvereinbarung ist
+(3) Die zuständige Behörde kann Rahmenvereinbarungen über eine
+allgemeine Beauftragung nach Absatz 1 unter Beachtung des Absatzes 2
+abschließen und den Vertragspartner im Sinne von Artikel 3 Nummer 8
+der Verordnung (EU) 2017/2394 benennen (benannter Dritter). Die
+Rahmenvereinbarung bedarf der Genehmigung der für die zuständige
+Behörde zuständigen obersten Bundesbehörde. Die Rahmenvereinbarung ist
 im Bundesanzeiger bekannt zu machen.
 
 (4) Die Landesregierungen werden ermächtigt, für ihre Behörden durch
@@ -358,124 +334,96 @@ des Landes zu übertragen.
 ### § 8 Außenverkehr
 
 Die Befugnis zum Verkehr mit der Europäischen Kommission und den mit
-der Durchführung der Verordnung (EG) Nr. 2006/2004 befassten Behörden
-anderer Mitgliedstaaten der Europäischen Union wird der Zentralen
+der Durchführung der Verordnung (EU) 2017/2394 befassten Behörden
+anderer Mitgliedstaaten der Europäischen Union wird der zentralen
 Verbindungsstelle übertragen.
 
 
-## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Kosten
+## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Umlagen und Kostenerstattung
 
 
 
 ### § 9 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 5 Abs. 1 Satz 2 Nr. 2 bis 4
-    zuwiderhandelt oder
-
-
-2.  entgegen § 6 Satz 1 Nr. 1 oder 2 eine Maßnahme nicht duldet oder eine
-    zuständige oder beauftragte Person nicht unterstützt.
-
-
-
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
+vollziehbaren Anordnung nach Artikel 9 Absatz 3 Buchstabe a, b oder c
+oder Absatz 4 Buchstabe a, e oder g der Verordnung (EU) 2017/2394
+zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-(3) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten sind im Rahmen ihrer jeweiligen
-Zuständigkeit die in § 2 Nr. 1, 2 oder 3 genannten Behörden, soweit
-das Gesetz durch diese Behörden ausgeführt wird.
+(3) (weggefallen)
 
 
 ### § 10 Vollstreckung
 
 Die zuständige Behörde kann ihre Anordnungen nach den für die
 Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
-durchsetzen. Die Höhe des Zwangsgeldes für Entscheidungen nach § 5
-Abs. 1 Satz 2 Nr. 1 beträgt für jeden Einzelfall höchstens
-zweihundertfünfzigtausend Euro.
+durchsetzen. Die Höhe des Zwangsgeldes für Entscheidungen nach Artikel
+9 Absatz 4 Buchstabe a, e und g der Verordnung (EU) 2017/2394 beträgt
+für jeden Einzelfall höchstens zweihundertfünfzigtausend Euro.
 
 
-### § 11 Kosten
+### § 11 Umlagen und Kostenerstattung; Verordnungsermächtigung
 
-(1) Die zuständige Behörde erhebt für Amtshandlungen nach diesem
-Gesetz oder der Verordnung (EG) Nr. 2006/2004 kostendeckende Gebühren
-und Auslagen.
+(1) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht
+durch Gebühren und Auslagen, gesonderte Erstattung nach Satz 2 oder
+sonstige Einnahmen gedeckt werden, sind sie nach Maßgabe des Absatzes
+2 auf die Unternehmen und Kredit- oder Finanzdienstleistungsinstitute
+oder Wertpapierinstitute, die von § 2 Nr. 2 Buchstabe a und b erfasst
+sind, umzulegen. Die Kosten, die der zuständigen Behörde durch eine
+auf Grund des Artikels 9 Absatz 3 Buchstabe c der Verordnung (EU)
+2017/2394 vorgenommene Besichtigung oder Prüfung entstehen, sind von
+den Betroffenen der Behörde gesondert zu erstatten und ihr auf
+Verlangen vorzuschießen. Zu den Kosten nach Satz 2 gehören auch die
+Kosten, mit denen die zuständige Behörde von der Deutschen Bundesbank
+und anderen Behörden, die im Rahmen solcher Maßnahmen für die
+zuständige Behörde tätig werden, belastet wird, sowie die Kosten für
+den Einsatz eigener Mitarbeiter. Auf diese Kosten ist § 15 Abs. 2 des
+Finanzdienstleistungsaufsichtsgesetzes entsprechend anzuwenden.
 
-(2) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht
-durch Gebühren und Auslagen nach Absatz 1, gesonderte Erstattung nach
-Satz 2 oder sonstige Einnahmen gedeckt werden, sind sie nach Maßgabe
-des Absatzes 3 auf die Unternehmen und Kredit- oder
-Finanzdienstleistungsinstitute, die von § 2 Nr. 2 Buchstabe a und b
-erfasst sind, umzulegen. Die Kosten, die der zuständigen Behörde durch
-eine auf Grund des § 5 vorgenommene Besichtigung oder Prüfung
-entstehen, sind von den Betroffenen der Behörde gesondert zu erstatten
-und ihr auf Verlangen vorzuschießen. Zu den Kosten nach Satz 2 gehören
-auch die Kosten, mit denen die zuständige Behörde von der Deutschen
-Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für
-die zuständige Behörde tätig werden, belastet wird, sowie die Kosten
-für den Einsatz eigener Mitarbeiter. Auf diese Kosten ist § 15 Abs. 2
-des Finanzdienstleistungsaufsichtsgesetzes entsprechend anzuwenden.
+(2) Die nach Absatz 1 Satz 1 umzulegenden Kosten sind in die Umlage
+einzubeziehen, die nach den §§ 16 bis 16r des
+Finanzdienstleistungsaufsichtsgesetzes erhoben wird. Dabei sind
+Unternehmen nach § 2 Nummer 2 Buchstabe a dem Aufgabenbereich
+Versicherungen und Kreditinstitute, Finanzdienstleistungsinstitute
+oder Wertpapierinstitute nach § 2 Nummer 2 Buchstabe b dem
+Aufgabenbereich Banken und sonstige Finanzdienstleistungen zuzuordnen.
 
-(3) Die nach Absatz 2 Satz 1 umzulegenden Kosten sind in die Umlage
-einzubeziehen, die nach § 16 des
-Finanzdienstleistungsaufsichtsgesetzes in Verbindung mit der auf Grund
-des § 16 Abs. 2 Satz 1, auch in Verbindung mit Satz 4, des
-Finanzdienstleistungsaufsichtsgesetzes erlassenen Rechtsverordnung
-erhoben wird. Dabei sind Unternehmen nach § 2 Nr. 2 Buchstabe a dem
-Aufsichtsbereich des Versicherungswesens, Kredit- oder
-Finanzdienstleistungsinstitute nach § 2 Nr. 2 Buchstabe b dem
-Aufsichtsbereich des Kredit- und Finanzdienstleistungswesens
-zuzuordnen.
-
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, das Bundesministerium der Finanzen und das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung werden jeweils
-für ihren Geschäftsbereich ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
-Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen sowie Regelungen über Erhöhungen, Ermäßigungen und
-Befreiungen für bestimmte Arten von Amtshandlungen vorzusehen und den
-Zeitpunkt des Entstehens und der Erhebung der Gebühr näher zu
-bestimmen, soweit dieses Gesetz durch die in § 2 Nr. 1, 2 oder 3
-genannten Behörden ausgeführt wird.
-
-(5) Die nach Absatz 4 zuständigen Bundesministerien können jeweils die
-Ermächtigung zum Erlass der Rechtsverordnung nach Absatz 4 durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem
-Geschäftsbereich gehörende zuständige Behörde nach § 2 Nr. 1, 2 oder 3
-übertragen.
-
-(6) Für die Amtshandlungen der nach Landesrecht zuständigen Behörden
-werden die Bestimmungen nach Absatz 4 durch Landesrecht getroffen.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz, das
+Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft
+und Energie und das Bundesministerium für Verkehr und digitale
+Infrastruktur werden jeweils ermächtigt, die Ermächtigung zum Erlass
+einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des
+Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des
+Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in
+§ 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu
+übertragen, in dem diese individuell zurechenbare öffentliche
+Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
 
 
 ## Abschnitt 4 - Anpassung an geändertes Gemeinschaftsrecht
 
 
 
-### § 12 Ermächtigung zur Anpassung
+### § 12 Verordnungsermächtigung
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates dem Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit die Zuständigkeit für die Durchführung der
-Verordnung (EG) Nr. 2006/2004 zu übertragen, soweit weitere Rechtsakte
-der Europäischen Gemeinschaft oder der Europäischen Union in den
-Anwendungsbereich der Verordnung (EG) Nr. 2006/2004 einbezogen worden
-sind. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2
-und 4 unberührt.
+(1) Soweit weitere Rechtsakte der Europäischen Union in den
+Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden
+sind, wird das Bundesministerium der Justiz und für Verbraucherschutz
+ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EU)
+2017/2394 im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für
+Justiz zu übertragen. Im Falle einer Rechtsverordnung nach Satz 1
+bleibt § 2 Nummer 2 und 4 unberührt.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates
 
-1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 2006/2004 in
-    diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser
+1.  Verweisungen auf Vorschriften der Verordnung (EU) 2017/2394 in diesem
+    Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser
     Vorschriften erforderlich ist,
 
 
@@ -496,7 +444,9 @@ Zustimmung des Bundesrates
 
 (1) Gegen eine Entscheidung nach
 
-1.  § 5 Abs. 1 Satz 2 Nr. 1, Abs. 4 oder 5 oder
+1.  Artikel 9 Absatz 4 Buchstabe a, soweit es sich um die Anordnung einer
+    Beseitigung oder Unterlassung handelt, Artikel 9 Absatz 4 Buchstabe e
+    oder Artikel 9 Absatz 7 der Verordnung (EU) 2017/2394 oder
 
 
 2.  § 10 oder § 11, soweit eine Entscheidung nach diesen Vorschriften in
@@ -510,8 +460,8 @@ bleiben die Vorschriften über Rechtsbehelfe bei Verwaltungsmaßnahmen
 unberührt.
 
 (2) Die zuständige Behörde hat einer Entscheidung im Sinne des
-Absatzes 1 Satz 1 eine Rechtsbehelfsbelehrung entsprechend § 59 der
-Verwaltungsgerichtsordnung beizufügen. § 58 der
+Absatzes 1 Satz 1 eine Rechtsbehelfsbelehrung nach § 37 Absatz 6 des
+Verwaltungsverfahrensgesetzes beizufügen. § 58 der
 Verwaltungsgerichtsordnung gilt entsprechend.
 
 (3) Die Beschwerde ist nur zulässig, wenn der Antragsteller geltend
@@ -941,4 +891,11 @@ Ausspruch des Gerichts ist § 343 der Zivilprozessordnung anzuwenden.
 
 (6) § 149 Abs. 1 Satz 2 der Verwaltungsgerichtsordnung ist
 entsprechend anzuwenden.
+
+
+### § 29 Evaluierung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz berichtet
+dem Deutschen Bundestag bis zum 31. Januar 2025 über die Anwendung des
+Gesetzes durch Bundesbehörden.
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 410
 
-Geändert durch
-:   Art. 2 Abs. 108 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 409 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -195,10 +195,10 @@ Kennzeichnung und Registrierung von Rindern oder auf Grund
 tierseuchenrechtlicher Vorschriften über die Anzeige und Registrierung
 von Betrieben erteilt worden sind, mindestens einmal abgekalbt hat.
 Satz 1 gilt nicht für eine Kuh einer Rinderrasse, die in der Anlage
-aufgeführt ist. Das Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die Anlage zu ändern,
-soweit dies erforderlich ist, um Änderungen der Anlage 6 der
+aufgeführt ist. Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Anlage zu ändern, soweit dies
+erforderlich ist, um Änderungen der Anlage 6 der
 Viehverkehrsverordnung zu berücksichtigen.
 
 (3) Durchschnittlicher Kuhbestand ist die Zahl der Kühe, die im April

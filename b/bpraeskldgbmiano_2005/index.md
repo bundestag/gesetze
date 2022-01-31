@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für d
   von Beamtinnen und Beamten des Bundesministeriums des Innern
 jurabk: BPräsKldgBMIAnO 2005
 layout: default
-origslug: bpr_skldgbmiano_2005
+origslug: bpraeskldgbmiano_2005
 slug: bpraeskldgbmiano_2005
 
 ---

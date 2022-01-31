@@ -58,9 +58,9 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
 
 7.  Umtauschstücke sind Wertpapiere, die im Umtausch gegen die bei Annahme
-    des Regelungsangebots eingereichten Auslandsbonds ausgegeben worden
+    des Regelungsangebotes eingereichten Auslandsbonds ausgegeben worden
     sind, sowie Auslandsbonds, denen die Regelungsbedingungen nach Annahme
-    des Regelungsangebots aufgedruckt worden sind (Artikel 15 Abs. 2
+    des Regelungsangebotes aufgedruckt worden sind (Artikel 15 Abs. 2
     Buchstabe a Nr. i und ii des Schuldenabkommens).
 
 
@@ -144,7 +144,7 @@ Zinsscheine erstreckt hat. Für die Erstreckung gelten die für die
 Erteilung von Feststellungsbescheiden maßgebenden Vorschriften des
 Bereinigungsgesetzes sinngemäß; für den Lauf der Anmeldefristen (§ 37
 Abs. 2 in Verbindung mit § 21 Abs. 1 AuslWBG) tritt an die Stelle des
-Stichtags der Beginn der Leistungspflicht (§ 5).
+Stichtages der Beginn der Leistungspflicht (§ 5).
 
 (4) Die Absätze 1 bis 3 gelten sinngemäß, wenn nach den Bedingungen,
 die für Auslandsbonds der im Feststellungsbescheid bezeichneten Art
@@ -166,7 +166,7 @@ Zwischenzeit kann nicht beansprucht werden.
 
 (3) Soweit es nach einem Regelungsangebot, das Barablösung vorsieht,
 für die Dauer der Verzinsung auf den Zeitpunkt der Anerkennung
-ankommt, tritt an die Stelle dieses Zeitpunkts der Beginn der
+ankommt, tritt an die Stelle dieses Zeitpunktes der Beginn der
 Leistungspflicht.
 
 (4) Schweben zu Beginn der Leistungspflicht Anmeldungen oder
@@ -194,7 +194,7 @@ Leistungen nach § 5 Abs. 4 zurückbehalten hat.
 
 (2) Der Entschädigungsberechtigte hat dem Aussteller für den Ausschluß
 nachträglicher Kürzungen einen einmaligen Ablösungsbetrag in Höhe von
-zwei vom Hundert des Kapitalbetrags des Entschädigungsanspruchs
+zwei vom Hundert des Kapitalbetrages des Entschädigungsanspruchs
 einschließlich der nach dem Regelungsangebot zum Kapital geschlagenen
 Zinsen zu zahlen. Der Ablösungsbetrag wird mit Beginn der
 Leistungspflicht fällig; der Aussteller kann ihn bei Zahlungen, die er
@@ -314,14 +314,14 @@ dem Aussteller schriftlich erklärt werden; sie kann nicht unter einer
 Bedingung oder Zeitbestimmung erfolgen. Die Leistungspflicht des
 Ausstellers beginnt zwei Monate nach der Zustimmung des
 Entschädigungsberechtigten, frühestens jedoch zwei Monate nach Abgabe
-des Regelungsangebots.
+des Regelungsangebotes.
 
 (2) Stimmt der Entschädigungsberechtigte der Regelung nach Absatz 1
 Satz 1 nicht zu, so kann er von dem Aussteller die Geldleistungen
 verlangen, die ihm bei Anerkennung des Auslandsbonds, aus dem der
 Entschädigungsanspruch herrührt, ohne Annahme des Regelungsangebots
 zustehen würden. Die Vorschriften dieses Gesetzes mit Ausnahme des §
-18 Abs. 2 und 4 finden in diesem Fall auf den Entschädigungsanspruch
+18 Abs. 2 und 4 finden in diesem Falle auf den Entschädigungsanspruch
 keine Anwendung; § 54 Abs. 1, 2 AuslWBG bleibt unberührt. Vor dem
 Zeitpunkt, in dem alle Verpflichtungen aus dem Schuldenabkommen und
 seinen Anlagen erledigt sind, darf der Aussteller Zahlungen auf den
@@ -337,7 +337,7 @@ Absatzes 2 sinngemäß Anwendung.
 
 Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung
 verpflichtet, so kann er innerhalb von zwei Monaten nach dem
-Inkrafttreten dieses Gesetzes oder nach Abgabe des Regelungsangebots
+Inkrafttreten dieses Gesetzes oder nach Abgabe des Regelungsangebotes
 die Endfälligkeit der Entschädigungsansprüche durch schriftliche
 Erklärung gegenüber dem Entschädigungsberechtigten hinausschieben,
 soweit dies nach dem Schuldenabkommen und seinen Anlagen für die Art
@@ -388,7 +388,7 @@ zu tragen und vorzuschießen.
 ### § 15 Gerichtsstand
 
 (1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das
-Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstands
+Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstandes
 ausschließlich zuständig.
 
 (2) Absatz 1 gilt sinngemäß für Klagen auf Feststellung des Bestehens
@@ -508,8 +508,9 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Dieses Gesetz tritt am ersten Tage des zweiten Monats nach seiner
 Verkündung in Kraft.
 
+(§ 9 Abs. 1)
 
-### Anlage (§ 9 Abs. 1) Verzeichnis nach § 9 Abs. 1
+### Anlage Verzeichnis nach § 9 Abs. 1
 
 (Fundstelle: BGBl. Teil III 4139-3, S. 148)
 

@@ -157,8 +157,9 @@ Gleichzeitig treten außer Kraft:
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
+Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III (BGBl. II 1990, 885, 1204)
+## Anhang EV (BGBl. II 1990, 885, 1204)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:

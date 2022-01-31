@@ -1,5 +1,5 @@
 ---
-Title: Dritter Staatsvertrag zwischen den Ländern Niedersachsen und Nordrhein-Westfalen
+Title: Dritter Staatsvertrag zwischen den Ländern Niedersachsen und  Nordrhein-Westfalen
   über Änderungen der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtr3 ND/NW
 layout: default
@@ -8,7 +8,7 @@ slug: graendstvtr3_nd_nw
 
 ---
 
-# Dritter Staatsvertrag zwischen den Ländern Niedersachsen und Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze (GrÄndStVtr3 ND/NW)
+# Dritter Staatsvertrag zwischen den Ländern Niedersachsen und  Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze (GrÄndStVtr3 ND/NW)
 
 Ausfertigungsdatum
 :   2005-12-28

@@ -251,8 +251,9 @@ der Deutschen Genossenschaftsbank bestanden haben.
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
+Anteilseigner der DG BANK
 
-## Anhang 1 Anteilseigner der DG BANK (Stand 31. Dezember 1997)
+## Anhang 1 (Stand 31. Dezember 1997)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2106 - 2113
 

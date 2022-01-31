@@ -2,7 +2,7 @@
 Title: Gesetz über die Änderung des Ehenamens
 jurabk: EheNÄndG
 layout: default
-origslug: ehen_ndg
+origslug: ehenaendg
 slug: ehenaendg
 
 ---

@@ -2,7 +2,7 @@
 Title: Verordnung zur Änderung statistischer Rechtsvorschriften
 jurabk: StatÄndV
 layout: default
-origslug: stat_ndv
+origslug: stataendv
 slug: stataendv
 
 ---

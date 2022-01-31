@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnunge
   dem Telekommunikationsgesetz
 jurabk: TKGÜbertrV
 layout: default
-origslug: tkg_bertrv
+origslug: tkguebertrv
 slug: tkguebertrv
 
 ---

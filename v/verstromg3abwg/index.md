@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1638
 
 Zuletzt geändert durch
-:   Art. 167 V v. 31.10.2006 I 2407
+:   Art. 328 V v. 31.8.2015 I 1474
 
 
 ## § 1 Abwicklung des Ausgleichsfonds
@@ -77,10 +77,10 @@ ergebenden Nachzahlung vom Abgabeschuldner zu vertreten ist.
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) hat einen
 Wirtschaftsplan für jedes Kalenderjahr aufzustellen, der der
-Genehmigung des Bundesministeriums für Wirtschaft und Technologie
-bedarf. Das Bundesministerium für Wirtschaft und Technologie hat dem
-Bundestag und dem Bundesrat im Laufe des nächsten Kalenderjahres zur
-Entlastung gesondert Rechnung zu legen.
+Genehmigung des Bundesministeriums für Wirtschaft und Energie bedarf.
+Das Bundesministerium für Wirtschaft und Energie hat dem Bundestag und
+dem Bundesrat im Laufe des nächsten Kalenderjahres zur Entlastung
+gesondert Rechnung zu legen.
 
 (3) Der Bund haftet unbeschadet seiner Schuldmitübernahme nach § 1
 Abs. 3 des Schuldenmitübernahmegesetzes vom 21. Juni 1999 (BGBl. I S.

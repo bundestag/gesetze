@@ -25,7 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 6 -
+## Art 1 bis 6 - 
 
 
 
@@ -37,7 +37,7 @@ beschlossen:
 
 
 
-## Art 8 -
+## Art 8 - 
 
 
 

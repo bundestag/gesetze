@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1393
 
+Geändert durch
+:   Art. 5 V v. 26.8.2015 I 1443
+
+Änderung durch
+:   Art. 22 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Teil 1 - Wahl
@@ -189,6 +195,43 @@ Wahlausschreibens ist die Wahl eingeleitet.
     Unternehmens sein müssen, ist hierauf hinzuweisen;
 
 
+6a. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
+    393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+    betreffend die Gesellschaften mit beschränkter Haftung, ob zur
+    Erreichung des Geschlechteranteils nach § 393a Absatz 2 Nummer 2 des
+    Aktiengesetzes oder § 77a Absatz 3 Satz 1 des Gesetzes betreffend die
+    Gesellschaften mit beschränkter Haftung jeweils in Verbindung mit § 96
+    Absatz 2 Satz 1 des Aktiengesetzes für die Wahl die Gesamterfüllung
+    oder die Getrennterfüllung gilt;
+
+
+6b. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
+    393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+    betreffend die Gesellschaften mit beschränkter Haftung im Fall der
+    Gesamterfüllung die zur Erreichung des Geschlechteranteils nach § 393a
+    Absatz 2 Nummer 2 des Aktiengesetzes oder § 77a Absatz 3 Satz 1 des
+    Gesetzes betreffend die Gesellschaften mit beschränkter Haftung
+    jeweils in Verbindung mit § 96 Absatz 2 Satz 1 und 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern im
+    Aufsichtsrat;
+
+
+6c. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
+    393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+    betreffend die Gesellschaften mit beschränkter Haftung im Fall der
+    Getrennterfüllung die zur Erreichung des Geschlechteranteils nach § 4
+    Absatz 5 des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern unter den
+    Aufsichtsratsmitgliedern der Arbeitnehmer;
+
+
+6d. im Fall der Nummer 6c, wenn der Geschlechteranteil nach § 4 Absatz 5
+    des Gesetzes bei der Wahl nicht erreicht wird, dass § 7a des Gesetzes
+    anzuwenden ist und der Geschlechteranteil im Wege der gerichtlichen
+    Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl
+    hergestellt wird;
+
+
 7.  dass die in § 105 Abs. 1 des Aktiengesetzes genannten Personen nicht
     Mitglied des Aufsichtsrats sein können;
 
@@ -209,6 +252,14 @@ Wahlausschreibens ist die Wahl eingeleitet.
 
 11. dass bei Wahl eines Aufsichtsratsmitglieds auch das zusammen mit ihm
     vorgeschlagene Ersatzmitglied gewählt ist;
+
+
+11a. bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
+    393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+    betreffend die Gesellschaften mit beschränkter Haftung, dass das
+    Nachrücken eines Ersatzmitglieds, dessen Wahl nach dem 31. März 2022
+    erfolgt ist, ausgeschlossen ist, wenn dadurch der Geschlechteranteil
+    nach § 4 Absatz 5 des Gesetzes nicht mehr eingehalten würde;
 
 
 12. dass die Stimmabgabe an die Wahlvorschläge gebunden ist und dass nur
@@ -473,21 +524,8 @@ durchgeführt wird; dies gilt auch, wenn die Stimmabgabe unterbrochen
 wird.
 
 
-##### § 15 Einsatz von Wahlgeräten
+##### § 15 (weggefallen)
 
-(1) Für die Abgabe und Zählung der Stimmen können an Stelle von
-Stimmzetteln und Wahlurnen Wahlgeräte eingesetzt werden. § 14 gilt
-entsprechend. Die Wahlgeräte müssen auf Grund einer Prüfung nach § 2
-Abs. 2 und 3 der Bundeswahlgeräteverordnung für die Wahl geeignet
-sein, für die sie eingesetzt werden und den Richtlinien für die Bauart
-von Wahlgeräten entsprechen, soweit diese nicht besondere Regelungen
-für Bundeswahlen enthalten. Jedem Wahlgerät muss eine
-Bedienungsanleitung und eine Baugleichheitserklärung entsprechend § 2
-Abs. 6 der Bundeswahlgeräteverordnung beigefügt sein.
-
-(2) Der Einsatz von Wahlgeräten ist nur zulässig, wenn hierüber
-Einvernehmen zwischen dem Betriebswahlvorstand und der
-Unternehmensleitung erzielt worden ist.
 
 
 #### Abschnitt 4 - Schriftliche Stimmabgabe
@@ -598,8 +636,7 @@ zusammen.
 
 (3) Bei der Auszählung ist die Gültigkeit der Stimmzettel zu prüfen.
 
-(4) Beim Einsatz von Wahlgeräten stellt der Betriebswahlvorstand durch
-Ablesen die Zahl der auf jeden Bewerber entfallenden Stimmen fest.
+(4) (weggefallen)
 
 
 ##### § 19 Ermittlung der Gewählten
@@ -611,35 +648,79 @@ erfüllen und die meisten Stimmen erhalten haben. Bei Stimmengleichheit
 entscheidet jeweils das Los.
 
 
+##### § 19a Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Gesamterfüllung
+
+In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des § 393a
+Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+betreffend die Gesellschaften mit beschränkter Haftung sind im Fall
+der Gesamterfüllung die Bewerber gewählt, die die meisten Stimmen
+erhalten haben. § 19 Satz 2 und 3 ist anzuwenden.
+
+
+##### § 19b Ermittlung der Gewählten in Unternehmen mit Mehrheitsbeteiligung des Bundes im Fall der Getrennterfüllung
+
+(1) In Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des §
+393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes
+betreffend die Gesellschaften mit beschränkter Haftung stellt im Fall
+der Getrennterfüllung der Betriebswahlvorstand nach Auszählung der
+Stimmen fest, ob bei der Wahl der Geschlechteranteil nach § 4 Absatz 5
+des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes
+eingehalten wurde.
+
+(2) Wurde der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes in
+Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes bei der Wahl
+eingehalten, sind die Bewerber gewählt, die die meisten Stimmen
+erhalten haben. § 19 Satz 2 und 3 ist anzuwenden.
+
+(3) Wurde der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes in
+Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes bei der Wahl
+nicht eingehalten, sind nur diejenigen Bewerber gewählt, deren Wahl
+nicht nach § 7a Absatz 2 Satz 1 des Gesetzes unwirksam ist.
+
+
 ##### § 20 Niederschrift des Wahlergebnisses
 
-Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand
-in einer Niederschrift fest:
+(1) Nachdem ermittelt ist, wer gewählt ist, stellt der
+Betriebswahlvorstand in einer Niederschrift fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
-
-
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-5.  die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen;
+4.  die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen;
 
 
-6.  die Namen der gewählten Aufsichtsratsmitglieder;
+5.  die Namen der gewählten Aufsichtsratsmitglieder;
 
 
-7.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
+6.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
     Ersatzmitglieder;
 
 
-8.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
+7.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
     Ereignisse.
+
+
+
+
+(2) Der Betriebswahlvorstand stellt bei Unternehmen mit
+Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des
+Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung im Fall der Getrennterfüllung
+in der Niederschrift zusätzlich fest,
+
+1.  ob der Geschlechteranteil nach § 4 Absatz 5 des Gesetzes bei der Wahl
+    erreicht wurde;
+
+
+2.  die Anzahl der Sitze, die auf Grund des Nichterreichens des
+    Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt
+    wurden.
 
 
 
@@ -653,6 +734,25 @@ Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 (2) Gleichzeitig benachrichtigt der Betriebswahlvorstand die Gewählten
 schriftlich von ihrer Wahl und übermittelt das Wahlergebnis und die
 Namen der Gewählten dem Unternehmen.
+
+(3) Wurde bei Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne
+des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1 des
+Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im
+Fall der Getrennterfüllung der Geschlechteranteil nach § 4 Absatz 5
+des Gesetzes bei der Wahl nicht erreicht, informiert der
+Betriebswahlvorstand die Adressaten der Absätze 1 und 2 zusätzlich
+
+1.  über die Anzahl der Sitze, die auf Grund des Nichterreichens des
+    Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt
+    wurden, und
+
+
+2.  darüber, dass diese nicht besetzten Aufsichtsratssitze nach § 7a
+    Absatz 2 des Gesetzes im Wege der gerichtlichen Ersatzbestellung nach
+    § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
+
+
+
 
 
 ##### § 22 Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens
@@ -870,6 +970,25 @@ zuständige Wahlvorstand die Gewählten schriftlich von ihrer Wahl und
 übermittelt das Wahlergebnis und die Namen der Gewählten dem
 Unternehmen.
 
+(4a) Wurde bei Unternehmen mit Mehrheitsbeteiligung des Bundes im
+Sinne des § 393a Absatz 1 des Aktiengesetzes oder des § 77a Absatz 1
+des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung im
+Fall der Getrennterfüllung der Geschlechteranteil nach § 4 Absatz 5
+des Gesetzes bei der Wahl nicht erreicht, informiert der zuständige
+Wahlvorstand die Adressaten des Absatzes 4 zusätzlich
+
+1.  über die Anzahl der Sitze, die auf Grund des Nichterreichens des
+    Geschlechteranteils nach § 4 Absatz 5 des Gesetzes nicht besetzt
+    wurden, und
+
+
+2.  darüber, dass diese nicht besetzten Aufsichtsratssitze nach § 7a
+    Absatz 2 des Gesetzes im Wege der gerichtlichen Ersatzbestellung nach
+    § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
+
+
+
+
 (5) Die Wahlvorstände übergeben ihre Wahlakten dem Unternehmen, in
 dessen Aufsichtsrat die Aufsichtsratsmitglieder der Arbeitnehmer
 gewählt worden sind. Das Unternehmen bewahrt die Wahlakten mindestens
@@ -1015,7 +1134,7 @@ bis 17 entsprechend.
 #### § 37 Öffentliche Stimmauszählung, Abstimmungsergebnis, Akten
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
-Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Abs. 2 bis 4
+Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Absatz 2 und 3
 gilt entsprechend.
 
 (2) Für die Niederschrift des Betriebswahlvorstands, die
@@ -1245,7 +1364,7 @@ Aufsichtsratsmitgliedern in Briefwahl ab. Für die Stimmabgabe gilt §
 45 Abs. 2 entsprechend.
 
 
-## Teil 4 - Schlussbestimmungen
+## Teil 4 - Schlussbestimmung und Übergangsregelung
 
 
 
@@ -1258,13 +1377,7 @@ Anwendung.
 
 ### § 51 Übergangsregelung
 
-Auf Wahlen oder Abberufungen, die vor dem 1. Juli 2004 eingeleitet
-worden sind, sind die Vorschriften der Ersten Rechtsverordnung zur
-Durchführung des Betriebsverfassungsgesetzes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1-1,
-veröffentlichten bereinigten Fassung auch nach ihrem Außerkrafttreten
-nach Maßgabe des § 87a des Betriebsverfassungsgesetzes 1952 in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1, veröffentlichen
-bereinigten Fassung, das zuletzt durch Artikel 9 des Gesetzes vom 23.
-Juli 2001 (BGBl. I S. 1852) geändert worden ist, anzuwenden.
+Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+einschließlich 31. März 2022 abgeschlossen sind, ist diese Verordnung
+in der bis zum 11. August 2021 geltenden Fassung anzuwenden.
 

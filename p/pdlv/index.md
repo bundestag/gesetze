@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2178
 
+Zuletzt geändert durch
+:   Art. 3 G v. 9.3.2021 I 324
+
 
 
 ## Eingangsformel
@@ -142,31 +145,8 @@ in einem Jahr, bei Vorsatz oder einem diesem nach § 435 des
 Handelsgesetzbuches gleichstehenden Verschulden in drei Jahren.
 
 
-## § 10 Schlichtung
+## § 10 (weggefallen)
 
-(1) Macht der Kunde eines Anbieters von Postdienstleistungen die
-Verletzung eigener Rechte geltend, die ihm aufgrund dieser Verordnung
-zustehen, insbesondere bei Verlust, Entwendung oder Beschädigung von
-Postsendungen, kann er die Regulierungsbehörde zum Zwecke der
-Streitbeilegung anrufen. Voraussetzung hierfür ist, dass eine
-Streitbeilegung unmittelbar mit dem Anbieter zuvor erfolglos versucht
-worden ist.
-
-(2) Die Regulierungsbehörde stellt sicher, dass mittels dieses
-Verfahrens Streitfälle angemessen und zügig geregelt werden können.
-
-(3) Die Regulierungsbehörde hört die Beteiligten mit dem Ziel einer
-gütlichen Einigung an. Das Verfahren endet mit einer Einigung der
-Parteien oder mit der Feststellung der Regulierungsbehörde, dass eine
-Einigung der Parteien nicht zustande gekommen ist. Dieses Ergebnis ist
-den Parteien schriftlich mitzuteilen.
-
-(4) Jede Partei trägt die ihr durch die Teilnahme am Verfahren
-entstandenen Kosten.
-
-(5) Die Regulierungsbehörde veröffentlicht einmal jährlich in
-geeigneter Form eine Statistik über die Anzahl der Beschwerden und die
-Art und Weise ihrer Erledigung.
 
 
 ## § 11 Inkrafttreten

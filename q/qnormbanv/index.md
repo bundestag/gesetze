@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 857
 
 Zuletzt geändert durch
-:   Art. 3 V v. 7.12.2011 I 2630
+:   Art. 1 V v. 20.3.2014 I 269
 
 
 ## Eingangsformel
@@ -51,10 +51,12 @@ Zuständig für die Überwachung der in § 1 genannten Rechtsakte und
 dieser Verordnung hinsichtlich der Einhaltung der Qualitätsnormen für
 Bananen bei Verbringen von Bananen in den Geltungsbereich dieser
 Verordnung ist die Bundesanstalt für Landwirtschaft und Ernährung
-(Bundesanstalt) mit Ausnahme der Kontrollen nach Artikel 2 Satz 3 der
-Verordnung (EG) Nr. 2898/95 der Kommission vom 15. Dezember 1995 mit
-Durchführungsbestimmungen zu den Qualitätsnormen für Bananen (ABl. EG
-Nr. L 304 S. 17). Die Bundesanstalt ist auch zuständig für die
+(Bundesanstalt) mit Ausnahme der Kontrollen nach Artikel 4 Satz 3 der
+Durchführungsverordnung (EU) Nr. 1333/2011 der Kommission vom 19.
+Dezember 2011 zur Festsetzung von Vermarktungsnormen für Bananen, von
+Bestimmungen zur Kontrolle der Einhaltung dieser Vermarktungsnormen
+und von Anforderungen an Mitteilungen im Bananensektor (ABl. L 336 vom
+20\.12.2011, S. 23). Die Bundesanstalt ist auch zuständig für die
 Freistellung von der Konformitätskontrolle nach § 5.
 
 
@@ -69,11 +71,11 @@ oder sonst in den Verkehr gebracht worden ist.
 
 ## § 4 Meldungen und Anträge der Marktbeteiligten
 
-(1) Der Marktbeteiligte hat der Bundesanstalt entsprechend Artikel 5
-der Verordnung (EG) Nr. 2898/95 der Kommission vom 15. Dezember 1995
-vor der ersten Entladung im Inland für jede einzelne Sendung mit
-Bananen die folgenden zur Durchführung der Kontrolle erforderlichen
-Angaben zu übermitteln:
+(1) Der Marktbeteiligte hat der Bundesanstalt entsprechend Artikel 7
+der Durchführungsverordnung (EU) Nr. 1333/2011 der Kommission vom 19.
+Dezember 2011 vor der ersten Entladung im Inland für jede einzelne
+Sendung mit Bananen die folgenden zur Durchführung der Kontrolle
+erforderlichen Angaben zu übermitteln:
 
 1.  Art des Erzeugnisses, spezifiziert nach Marke, Sorte, Güteklasse und
     Größe,
@@ -112,12 +114,12 @@ Verkehr in der Europäischen Gemeinschaft bestimmt sind.
 
 ## § 5 Freistellung von den Konformitätskontrollen
 
-(1) Die Befreiung von der Konformitätskontrolle nach Artikel 7 der
-Verordnung (EG) Nr. 2898/95 der Kommission vom 15. Dezember 1995 wird
-auf Antrag gewährt. Die von den Kontrollen freigestellten
-Marktbeteiligten erhalten auf Antrag eine Freistellungsbescheinigung.
-Die Freistellung wird für jeweils höchstens drei Jahre erteilt und ist
-erneuerbar.
+(1) Die Befreiung von der Konformitätskontrolle nach Artikel 9 der
+Durchführungsverordnung (EU) Nr. 1333/2011 der Kommission vom 19.
+Dezember 2011 wird auf Antrag gewährt. Die von den Kontrollen
+freigestellten Marktbeteiligten erhalten auf Antrag eine
+Freistellungsbescheinigung. Die Freistellung wird für jeweils
+höchstens drei Jahre erteilt und ist erneuerbar.
 
 (2) Die Bundesanstalt überprüft regelmäßig die Qualität der Bananen,
 die von den nach Absatz 1 von der Konformitätskontrolle freigestellten
@@ -138,13 +140,19 @@ entzogen.
 
 ## § 6 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig handelt, wer entgegen Artikel 113 Absatz 3
-Unterabsatz 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-Oktober 2007 über eine einheitliche GMO (ABl. L 299 vom 16.11.2007, S.
-1) Erzeugnisse in der Gemeinschaft vermarktet, die nicht den Normen
-nach Artikel 1 der Verordnung (EG) Nr. 2257/94 der Kommission vom 14.
-September 1994 zur Festsetzung von Qualitätsnormen für Bananen (ABl.
-EG Nr. L 245 S. 6) entsprechen.
+(1) Ordnungswidrig handelt, wer entgegen Artikel 76 Absatz 3 erster
+Halbsatz der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments
+und des Rates vom 17. Dezember 2013 über eine gemeinsame
+Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+671) ein Erzeugnis feilhält, anbietet, liefert oder anderweitig
+vermarktet, das einer in Artikel 1 der Durchführungsverordnung (EU)
+Nr. 1333/2011 der Kommission vom 19. Dezember 2011 zur Festsetzung von
+Vermarktungsnormen für Bananen, von Bestimmungen zur Kontrolle der
+Einhaltung dieser Vermarktungsnormen und von Anforderungen an
+Mitteilungen im Bananensektor (ABl. L 336 vom 20.12.2011, S. 23)
+genannten Vermarktungsnorm nicht entspricht.
 
 (2) Die Ordnungswidrigkeit kann nach § 1 Abs. 3 Satz 1 Nr. 2 des
 Handelsklassengesetzes mit einer Geldbuße bis zu zehntausend Euro

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 511
 
+Zuletzt geändert durch
+:   Art. 5 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -86,7 +89,12 @@ oder Geprüfte Betriebswirtin nach der Handwerksordnung.
 1.  eine erfolgreich abgelegte Meisterprüfung in einem Handwerk oder
 
 
-2.  einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund
+2.  den anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer
+    Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische
+    Fachwirtin nach der Handwerksordnung oder
+
+
+3.  einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund
     des Berufsbildungsgesetzes zum Industriemeister und zur
     Industriemeisterin, Fachwirt und Fachwirtin, Fachkaufmann und
     Fachkauffrau, zu einem Fachmeister oder einen Abschluss zum Staatlich
@@ -95,14 +103,14 @@ oder Geprüfte Betriebswirtin nach der Handwerksordnung.
     Qualifikationen und eine mindestens einjährige Berufspraxis oder
 
 
-3.  einen Fortbildungsabschluss mit anderen einschlägigen Qualifikationen
+4.  einen Fortbildungsabschluss mit anderen einschlägigen Qualifikationen
     und eine mindestens dreijährige Berufspraxis
 
 
 
 nachweist.
 
-(2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss inhaltlich
+(2) Die Berufspraxis nach Absatz 1 Nummer 3 und 4 muss inhaltlich
 wesentliche Bezüge zu den in § 1 Absatz 2 genannten Aufgaben haben.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch
@@ -178,11 +186,9 @@ Die Prüfung wird schriftlich durchgeführt.
 
 (5) Im Prüfungsteil „Innovationsmanagement“ wird die Qualifikation
 nach § 7 im Rahmen einer Projektarbeit, einer Präsentation und eines
-Fachgesprächs durchgeführt. Dieser Prüfungsteil kann erst begonnen
-werden, wenn in den Prüfungsteilen nach Absatz 1 Nummer 1 bis 3
-mindestens ausreichende Leistungen erbracht wurden. Der erfolgreiche
-Abschluss dieser Prüfungsteile soll dabei nicht länger als ein Jahr
-zurückliegen.
+Fachgesprächs durchgeführt. Mit diesem Prüfungsteil ist innerhalb
+eines Jahres nach Ablegen der Prüfungsteile nach Absatz 1 Nummer 1 bis
+3 zu beginnen.
 
 
 ## § 4 Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
@@ -514,10 +520,10 @@ gewichtet.
 ## § 11 Durchführung der Prüfung im Prüfungsteil „Innovationsmanagement“
 
 (1) Das Thema der Projektarbeit wird vom Prüfungsausschuss vorgegeben.
-Vorschläge des Prüfungsteilnehmers oder der Prüfungsteilnehmerin
-können berücksichtigt werden. Der Prüfungsausschuss soll den Umfang
-der Arbeit begrenzen. Die Projektarbeit ist schriftlich anzufertigen.
-Die Bearbeitungszeit beträgt 30 Kalendertage.
+Vorschläge der zu prüfenden Person können berücksichtigt werden. Der
+Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die
+Projektarbeit ist schriftlich anzufertigen. Die Bearbeitungszeit
+beträgt 30 Kalendertage.
 
 (2) In der Präsentation sollen die Ergebnisse der Projektarbeit
 dargestellt und begründet werden. Im Fachgespräch werden anknüpfend an
@@ -531,59 +537,144 @@ Regel nicht länger als 15 Minuten.
 (3) Präsentation und Fachgespräch sind nur durchzuführen, wenn die
 Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
 
-(4) Die Gesamtbewertung der schriftlichen Prüfungsleistung
-(Projektarbeit) und der mündlichen Prüfungsleistung (Präsentation und
-Fachgespräch) wird aus dem arithmetischen Mittel gebildet.
+(4) (weggefallen)
 
 
-## § 12 Anrechnung anderer Prüfungsleistungen
+## § 12 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsleistungen zu befreien, wenn in den
-letzten fünf Jahren vor einer zuständigen Stelle, einer öffentlichen
-oder staatlich anerkannten Bildungseinrichtung oder vor einem
-staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde,
-die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser
-Verordnung entspricht.
-
-
-## § 13 Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in allen Handlungsbereichen, in
-der Projektarbeit und in der mündlichen Prüfungsleistung mindestens
-ausreichende Leistungen erbracht wurden.
-
-(2) Jeder Handlungsbereich, Projektarbeit und Prüfungsleistung nach §
-11 sind gesondert zu bewerten, wobei Präsentation und Fachgespräch
-zusammenzufassen sind.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-und 2 auszustellen. Im Falle der Befreiung gemäß § 12 sind Ort und
-Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung des
-Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung
+von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 13 und 14 außer
+Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die
+Anteile nach § 13 Absatz 2 Satz 2 oder Satz 3, Absatz 4 Satz 2 oder 3
+oder § 14 Absatz 2 Satz 1 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 14 Wiederholen der Prüfung
+## § 13 Bewerten der Prüfungsleistungen
 
-(1) Nicht bestandene Prüfungsteile können zweimal wiederholt werden.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
+(2) Im Prüfungsteil „Unternehmensstrategie“ sind als
+Prüfungsleistungen die Situationsaufgaben nach § 8 Absatz 1 für jeden
+Handlungsbereich einzeln zu bewerten. Aus den Bewertungen der
+einzelnen Handlungsbereiche wird das arithmetische Mittel als
+zusammengefasste Bewertung für den Prüfungsteil berechnet.
+
+(3) Im Prüfungsteil „Unternehmensführung“ ist als Prüfungsleistung die
+Situationsaufgabe nach § 9 Absatz 1 zu bewerten.
+
+(4) Im Prüfungsteil „Personalmanagement“ sind als Prüfungsleistungen
+die Situationsaufgaben nach § 10 Absatz 1 für jeden Handlungsbereich
+einzeln zu bewerten. Aus den Bewertungen der einzelnen
+Handlungsbereiche wird das arithmetische Mittel als zusammengefasste
+Bewertung für den Prüfungsteil berechnet.
+
+(5) Im Prüfungsteil „Innovationsmanagement“ sind einzeln zu bewerten:
+
+1.  die Projektarbeit nach § 11 Absatz 1,
+
+
+2.  die mündliche Prüfungsleistung nach § 11 Absatz 2.
+
+
+
+Aus den Bewertungen der Projektarbeit und der mündlichen
+Prüfungsleistung nach § 11 Absatz 2 wird als zusammengefasste
+Bewertung für den Prüfungsteil „Innovationsmanagement“ das
+arithmetische Mittel berechnet.
+
+
+## § 14 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in allen Handlungsbereichen,
+
+
+2.  in der Projektarbeit nach § 11 Absatz 1 und
+
+
+3.  in der mündlichen Prüfungsleistung nach § 11 Absatz 2.
+
+
+
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  die zusammengefasste Bewertung für den Prüfungsteil
+    „Unternehmensstrategie“,
+
+
+2.  die zusammengefasste Bewertung für den Prüfungsteil
+    „Personalmanagement“ sowie
+
+
+3.  die zusammengefasste Bewertung für den Prüfungsteil
+    „Innovationsmanagement“.
+
+
+
+
+(3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen für die vier Prüfungsteile zu
+berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note
+als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete
+Note ist die Gesamtnote.
+
+
+## § 15 Zeugnisse
+
+(1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Bewertungen der Prüfungsteile und Prüfungsbestandteile mit Punkten
+sowie die Gesamtnote mit einer Nachkommastelle und in Worten
+anzugeben. Jede Befreiung nach § 12 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderen vergleichbaren Prüfung
+anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 16 Wiederholen der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
+werden.
+
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und der die zu prüfende Person sich innerhalb von
 zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung an, zur
-Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin kann beantragen, auch bestandene
-Prüfungsleistungen zu wiederholen. In diesem Fall gilt das Ergebnis
-der letzten Prüfung.
+Wiederholungsprüfung angemeldet hat. Die zu prüfende Person kann
+beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
+diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 (3) Ist im Prüfungsteil „Innovationsmanagement“ die mündliche
 Prüfungsleistung nicht bestanden, so ist auch die Projektarbeit nach §
 11 Absatz 1 zu wiederholen.
 
 
-## § 15 Übergangsvorschriften
+## § 17 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Betriebswirt (HWK) und zur
 Betriebswirtin (HWK) können bis zum 31. Dezember 2015 nach den
@@ -595,286 +686,398 @@ der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2014 die
 Anwendung der bisherigen Vorschriften vereinbart werden.
 
 
-## § 16 Inkrafttreten
+## § 18 Inkrafttreten
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
+(zu den §§ 13 und 14)
 
-## Anlage 1 (zu § 13 Absatz 3) Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2011, 516)
-
-
-*    *   ......................................................................
-        ......... ............................................................
-        .................. . .................................................
-        ..............................
+(Fundstelle: BGBl. I 2019, 2169 - 2170)
 
 
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
+*    *   Punkte
 
-    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-
-*    *   Herr/Frau ............................................................
-        ................... ..................................................
-        ............................ .
-
-
-*    *   geboren am ...........................................................
-        ....................
-
-    *   in ...................................................................
-        ........
-
-
-*    *   hat am ...............................................................
-        ................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung
-und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
-2011 (BGBl. I S. 511) bestanden.
-
-
-*    *   Datum ................................................................
-        ...............
-
-
-*    *   Unterschrift(en) .....................................................
-        .........................
-
-
-*    *
-
-*    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 13 Absatz 3) Muster
-
-(Fundstelle: BGBl. I 2011, 517)
-
-
-*    *   ......................................................................
-        ......... ............................................................
-        .................. . .................................................
-        ..............................
-        ....................................................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-
-*    *   Herr/Frau ............................................................
-        ................... ..................................................
-        ............................ . .......................................
-        ......................................
-
-
-*    *   geboren am ...........................................................
-        .................... ..............................................
-
-    *   in ...................................................................
-        ............ ....................
-
-
-*    *   hat am ...............................................................
-        ................ .....................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung
-und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
-2011 (BGBl. I S. 511) mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *
-    *
-    *[^f775060_01_BJNR051100011BJNE001900000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
 
+    *   Note
+        in Worten
 
-*    *   1.
+    *   Definition
 
-    *   Unternehmensstrategie
 
-    *   ..........................
+*    *   100
 
-    *
-    *   ..........................
+    *   1,0
 
+    *   sehr gut
 
-*    *
-    *   1.1
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
-    *   Volkswirtschaftliche und gesellschaftliche Rahmenbedingungen bewerten
 
-    *   ..........................
+*    *   98 und 99
 
-    *
-    *
+    *   1,1
 
-*    *
-    *   1.2
 
-    *   Rechtliche Rahmenbedingungen bewerten
+*    *   96 und 97
 
-    *   ..........................
+    *   1,2
 
-    *
-    *
 
-*    *
-    *   1.3
+*    *   94 und 95
 
-    *   Unternehmensstrategie planen
+    *   1,3
 
-    *   ..........................
 
-    *
-    *
+*    *   92 und 93
 
-*    *   2.
+    *   1,4
 
-    *   Unternehmensführung
 
-    *   ..........................
+*    *   91
 
-    *
-    *   .........................
+    *   1,5
 
+    *   gut
 
-*    *   3.
+    *   eine Leistung, die den Anforderungen voll entspricht
 
-    *   Personalmanagement
 
-    *   ..........................
+*    *   90
 
-    *
-    *   ..........................
+    *   1,6
 
 
-*    *
-    *   3.1
+*    *   89
 
-    *   Personal planen und gewinnen
+    *   1,7
 
-    *   ..........................
 
-    *
-    *
+*    *   88
 
-*    *
-    *   3.2
+    *   1,8
 
-    *   Personal führen und entwickeln
 
-    *   ..........................
+*    *   87
 
-    *
-    *
+    *   1,9
 
-*    *   4.
 
-    *   Innovationsmanagement
+*    *   85 und 86
 
-    *   ..........................
+    *   2,0
 
-    *
-    *   ..........................
 
+*    *   84
 
-*    *
-    *   4.1
+    *   2,1
 
-    *   schriftliche Prüfungsleistung
 
-    *   .........................
+*    *   83
 
-    *
-    *
+    *   2,2
 
-*    *
-    *   4.2
 
-    *   mündliche Prüfungsleistung
+*    *   82
 
-    *   ..........................
+    *   2,3
 
-    *
-    *
 
+*    *   81
 
-   (Im Fall des § 12: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde gemäß § 12 im Hinblick auf die am ..............................
-.............................................
-in ...................................................................
-............ ...................... vor ..............................
-.................................abgelegte Prüfung vom
-Prüfungsbestandteil
-......................................................................
-... ..................................................................
-............ . ...........
-befreit. “)
+    *   2,4
 
 
-*    *
+*    *   79 und 80
 
-*    *   Datum
-        .....................................................................
+    *   2,5
 
+    *   befriedigend
 
-*    *
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
 
-*    *   Unterschrift(en)
-        ........................................................
 
+*    *   78
 
-*    *
+    *   2,6
 
-*    *
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   77
 
+    *   2,7
 
 
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ......................................................
-[^f775060_01_BJNR051100011BJNE001900000]: 
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 15)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2170 -2171)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Unternehmensstrategie“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Punkten sowie
+
+
+    b)  Benennung der drei Handlungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Unternehmensführung“ Benennung dieses Prüfungsteils
+    und Bewertung mit Punkten,
+
+
+3.  zum Prüfungsteil „Personalmanagement“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Punkten sowie
+
+
+    b)  Benennung der beiden Handlungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+4.  zum Prüfungsteil „Innovationsmanagement“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Punkten,
+
+
+    b)  Benennung der Projektarbeit und Bewertung mit Punkten sowie
+
+
+    c)  Benennung der Präsentation und des Fachgesprächs und zusammengefasste
+        Bewertung mit Punkten,
+
+
+
+
+
+5.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+6.  die Gesamtnote als Dezimalzahl,
+
+
+7.  die Gesamtnote in Worten,
+
+
+8.  Befreiungen nach § 12.
+
+
+
+

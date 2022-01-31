@@ -1,6 +1,7 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
-  Prozessmanagerin-Mikrotechnologie
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager
+  - Mikrotechnologie und Geprüfte Prozessmanagerin - Mikrotechnologie (Certified Process
+  Manager - Microtechnology)
 jurabk: PMMPrV
 layout: default
 origslug: pmmprv
@@ -8,13 +9,16 @@ slug: pmmprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte Prozessmanagerin-Mikrotechnologie (PMMPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager - Mikrotechnologie und Geprüfte Prozessmanagerin - Mikrotechnologie (Certified Process Manager - Microtechnology) (PMMPrV)
 
 Ausfertigungsdatum
 :   2007-07-17
 
 Fundstelle
 :   BGBl I: 2007, 1418
+
+Zuletzt geändert durch
+:   Art. 36 V v. 9.12.2019 I 2153
 
 
 
@@ -32,9 +36,9 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
-Geprüften Prozessmanager-Mikrotechnologie/zur Geprüften
-Prozessmanagerin-Mikrotechnologie nach den §§ 2 bis 10 durchführen, in
-denen die auf einen beruflichen Aufstieg abzielende Erweiterung der
+Geprüften Prozessmanager – Mikrotechnologie und zur Geprüften
+Prozessmanagerin – Mikrotechnologie nach den §§ 2 bis 10 durchführen,
+in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der
 beruflichen Handlungsfähigkeit nachzuweisen ist.
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, die Einführung
@@ -82,8 +86,9 @@ Verbindungstechnik" folgende Prozesse durchführen zu können:
 
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
-Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte Prozessmanagerin-
-Mikrotechnologie (Certified Process Manager-Microtechnology).
+Geprüfter Prozessmanager – Mikrotechnologie und Geprüfte
+Prozessmanagerin – Mikrotechnologie (Certified Process Manager –
+Microtechnology).
 
 
 ## § 2 Gliederung der Prüfung
@@ -127,11 +132,11 @@ nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 nachweist.
 
 (2) Die Berufspraxis nach Absatz 1 Nr. 1 bis 3 muss wesentliche Bezüge
-zu den Aufgaben eines Geprüfter Prozessmanagers-Mikrotechnologie/einer
-Geprüften Prozessmanagerin-Mikrotechnologie im Sinne des § 1 Abs. 2
-und 3 haben und eine Qualifikation eines der Mikrotechnologie-
-Spezialisten nach der Anlage 1 oder eine fachlich und nach Breite und
-Tiefe entsprechende Qualifikation beinhalten.
+zu den Aufgaben eines Geprüften Prozessmanagers – Mikrotechnologie
+oder einer Geprüften Prozessmanagerin – Mikrotechnologie im Sinne des
+§ 1 Abs. 2 und 3 haben und eine Qualifikation eines der
+Mikrotechnologie-Spezialisten nach der Anlage oder eine fachlich und
+nach Breite und Tiefe entsprechende Qualifikation beinhalten.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten
 Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch
@@ -186,18 +191,18 @@ die folgenden Befähigungen nachgewiesen werden:
 
 
 (2) Zum Nachweis der Qualifikationen ist eine Dokumentation über ein
-Projekt anzufertigen. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin reicht hierzu einen Vorschlag ein. Der
-Prüfungsausschuss führt darüber ein Beratungsgespräch und trifft eine
-Zielvereinbarung über durchzuführende Arbeiten, Art und Umfang der zu
-erstellenden Dokumentation sowie den Abgabetermin. Dabei darf zwischen
-dem Tag des Beratungsgesprächs und dem Abgabetermin der Dokumentation
-längstens ein Zeitraum von einem Jahr liegen.
+Projekt anzufertigen. Die zu prüfende Person reicht hierzu einen
+Vorschlag ein. Der Prüfungsausschuss führt darüber ein
+Beratungsgespräch und trifft eine Zielvereinbarung über
+durchzuführende Arbeiten, Art und Umfang der zu erstellenden
+Dokumentation sowie den Abgabetermin. Dabei darf zwischen dem Tag des
+Beratungsgesprächs und dem Abgabetermin der Dokumentation längstens
+ein Zeitraum von einem Jahr liegen.
 
 (3) Entspricht die Dokumentation den Anforderungen nach den Absätzen 1
 und 2, sind die Inhalte vor dem Prüfungsausschuss zu präsentieren. Die
-Form der Präsentation und der Einsatz technischer Mittel stehen dem
-Prüfungsteilnehmer frei. Die verwendeten Unterlagen sind dem
+Form der Präsentation und der Einsatz technischer Mittel stehen der zu
+prüfenden Person frei. Die verwendeten Unterlagen sind dem
 Prüfungsausschuss zu überlassen. Nach der Präsentation schließt sich
 ein Fachgespräch an, das auf der Grundlage der Dokumentation und der
 Präsentation geführt wird. Die Präsentation soll mindestens 20 Minuten
@@ -526,34 +531,22 @@ Anwendungsfälle:
 
 
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin wählt einen der
-Anwendungsfälle aus. Die praktische Demonstration soll nicht länger
-als 30 Minuten dauern. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin erhält Gelegenheit, sich mindestens 20 Minuten,
+Die zu prüfende Person wählt einen der Anwendungsfälle aus. Die
+praktische Demonstration soll nicht länger als 30 Minuten dauern. Die
+zu prüfende Person erhält Gelegenheit, sich mindestens 20 Minuten,
 höchstens 30 Minuten vorzubereiten.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Der Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse", die
-drei Situationsaufgaben im Prüfungsteil "Mikrotechnologie-
-Fachaufgaben" sowie die zwei Situationsaufgaben und die praktische
-Demonstration im Prüfungsteil "Mitarbeiterführung und
-Personalmanagement" sind gesondert zu bewerten.
-
-(2) Aus den Situationsaufgaben in den Prüfungsteilen
-"Mikrotechnologie-Fachaufgaben" sowie "Mitarbeiterführung und
-Personalmanagement" ist je eine Gesamtnote aus dem arithmetischen
-Mittel der Punktebewertungen der jeweiligen einzelnen
-Prüfungsleistungen zu bilden.
-
-(3) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen nach
-Absatz 1 mindestens ausreichende Leistungen erbracht wurden.
-
-(4) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 2
-und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
-Freistellung nach § 9 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9
+und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 9 Absatz 3 Satz 1 oder § 9 Absatz 3 Satz 2
+oder § 10 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
 ## § 8 Ausbildereignung
@@ -571,56 +564,133 @@ nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist ein Zeugnis
 auszustellen.
 
 
-## § 9 Anrechnung anderer Prüfungsleistungen
+## § 9 Bewerten von Prüfungsleistungen
 
-Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin von der Prüfung in einzelnen Prüfungsleistungen
-freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor
-einer zuständigen Stelle, einer öffentlichen oder staatlich
-anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
-Anforderungen dieser Prüfungsleistung entspricht. Eine vollständige
-Freistellung ist nicht zulässig.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Der Prüfungsteil „Betriebliche Mikrotechnologie-Prozesse“, die
+drei Situationsaufgaben im Prüfungsteil „Mikrotechnologie-
+Fachaufgaben“ sowie die zwei Situationsaufgaben und die praktische
+Demonstration im Prüfungsteil „Mitarbeiterführung und
+Personalmanagement“ sind einzeln zu bewerten.
+
+(3) Im Prüfungsteil „Mikrotechnologie-Fachaufgaben“ ist das
+arithmetische Mittel aus den Bewertungen der drei Situationsaufgaben
+zu bilden. Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+ist das arithmetische Mittel aus den Bewertungen der beiden
+Situationsaufgaben zu bilden.
 
 
-## § 10 Wiederholung der Prüfung
+## § 10 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+Prüfungsleistungen nach § 9 Absatz 2 jeweils mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, sind die Bewertungen für die
+Prüfungsteile „Mikrotechnologie-Fachaufgaben“ und „Mitarbeiterführung
+und Personalmanagement“ jeweils kaufmännisch auf eine ganze Zahl zu
+runden.
+
+(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die
+jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer
+Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel wie folgt
+zu berechnen:
+
+1.  aus der Bewertung des Prüfungsteils „Betriebliche Mikrotechnologie-
+    Prozesse“,
+
+
+2.  dem nach § 9 Absatz 3 Satz 1 errechneten arithmetischen Mittel im
+    Prüfungsteil „Mikrotechnologie-Fachaufgaben“,
+
+
+3.  dem nach § 9 Absatz 3 Satz 2 errechneten arithmetischen Mittel im
+    Prüfungsteil „Mitarbeiterführung und Personalmanagement“ und
+
+
+4.  der Bewertung der praktischen Demonstration im Prüfungsteil
+    „Mitarbeiterführung und Personalmanagement“.
+
+
+
+
+(4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 11 Zeugnisse
+
+(1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 3 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 12 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
 Wiederholungsprüfung angemeldet hat. Dabei können auch bestandene
 Prüfungsleistungen auf Antrag einmal wiederholt werden. In diesem Fall
 gilt das Ergebnis der letzten Prüfung.
 
 
-## § 11 Inkrafttreten
+## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
+(zu § 3 Abs. 2)
 
-## Anlage 1 (zu § 3 Abs. 2) Spezialistenprofile in der Mikrotechnologie
+## Anlage 1 Spezialistenprofile in der Mikrotechnologie
+
+(Fundstelle: BGBl. I 2007, 1423 - 1424; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 Die im Bereich der beruflichen Fortbildung angesiedelten
 Spezialistenprofile bilden das Verbindungsglied zwischen der Ebene der
 beruflichen Ausbildung und der Ebene der in der beruflichen
 Fortbildung geregelten operativen Professionals. Die
 Spezialistenprofile beschreiben die inhaltlichen Standards, die für
-eine Zulassung zur Prüfung zum Geprüften Prozessmanager-
-Mikrotechnologie (Certified Process Manager-Microtechnology)
-erforderlich sind. Grundlage für die Spezialistenqualifikation ist die
-Qualifizierung in den nachfolgend beschriebenen mikrotechnologischen
-Arbeitsgebieten und Arbeitsprozessen. Im Rahmen dieser Qualifizierung
-sind die aufgeführten Arbeitsprozesse eigenständig in betrieblichen
-Projekten durchzuführen, eine prozessbegleitende Dokumentation
-anzufertigen, in einer Präsentation eine zusammenhängende Darstellung
-der Tätigkeiten und des Kompetenzerwerbs zu geben und darüber ein
-Fachgespräch zu führen.
+eine Zulassung zur Prüfung zum Geprüften Prozessmanager –
+Mikrotechnologie (Certified Process Manager – Microtechnology) und zur
+Geprüften Prozessmanagerin – Mikrotechnologie (Certified Process
+Manager – Microtechnology) erforderlich sind. Grundlage für die
+Spezialistenqualifikation ist die Qualifizierung in den nachfolgend
+beschriebenen mikrotechnologischen Arbeitsgebieten und
+Arbeitsprozessen. Im Rahmen dieser Qualifizierung sind die
+aufgeführten Arbeitsprozesse eigenständig in betrieblichen Projekten
+durchzuführen, eine prozessbegleitende Dokumentation anzufertigen, in
+einer Präsentation eine zusammenhängende Darstellung der Tätigkeiten
+und des Kompetenzerwerbs zu geben und darüber ein Fachgespräch zu
+führen.
 
 **1** **Spezialist/Spezialistin für Mikrotechnologie-Einzelprozesse (Unit
     Process Specialist-Microtechnology)**
@@ -819,96 +889,401 @@ Fachgespräch zu führen.
 
 
 
+(zu den §§ 9 und 10)
 
-## Anlage 2 (zu § 7 Abs. 4)
+## Anlage 2 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl I 2007, 1425)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
-Prozessmanagerin-Mikrotechnologie
-(Certified Process Manager-Microtechnology)
-Herr/Frau
-....................................................................
-geboren am ........................... in
-....................................
-hat am ............................... die Prüfung zum anerkannten
-Abschluss
-Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
-Prozessmanagerin-Mikrotechnologie
-(Certified Process Manager-Microtechnology)
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Prozessmanager-Mikrotechnologie/Geprüfte Prozessmanagerin-
-Mikrotechnologie
-(Certified Process Manager-Microtechnology) vom 17. Juli 2007 (BGBl. I
-S. 1418)
-bestanden.
-Datum ..............................................
-Unterschrift(en) ...................................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2283 – 2284)
 
 
-## Anlage 3 (zu § 7 Abs. 4)
+*    *   Punkte
 
-(Fundstelle des Originaltextes: BGBl. I 2007, 1426)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
-Prozessmanagerin-Mikrotechnologie
-(Certified Process Manager-Microtechnology)
-Herr/Frau
-....................................................................
-geboren am ............................ in
-...................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte
-Prozessmanagerin-Mikrotechnologie
-(Certified Process Manager-Microtechnology)
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Prozessmanager-Mikrotechnologie/Geprüfte Prozessmanagerin-
-Mikrotechnologie
-(Certified Process Manager-Microtechnology) vom 17. Juli 2007
-(BGBl. I S. 1418) mit folgenden Ergebnissen bestanden:
-Punkte \*)   Note
-I.   Betriebliche Mikrotechnologie-Prozesse
-Themenstellung: ................................    ..........
-.........
-II.  Mikrotechnologie-Fachaufgaben                       ..........
-.........
-Situationsaufgabe 1                                 ..........
-Situationsaufgabe 2                                 ..........
-Situationsaufgabe 3                                 ..........
-III. Mitarbeiterführung und Personalmanagement
-Situationsaufgaben                                  ..........
-.........
-Situationsaufgabe 1                               ..........
-Situationsaufgabe 2                               ..........
-Praktische Demonstration
-Anwendungsfall: ................................    ..........
-.........
-(Im Fall des § 9: "Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-wurde nach
-§ 9 im Hinblick auf die am ........................ in
-......................
-.....................vor .......................... abgelegten Prüfung
-in dem
-Prüfungsteil/Prüfungsbereich ................................
-freigestellt.")
-Datum ..............................................
-Unterschrift(en) ...................................
-(Siegel der zuständigen Stelle)
-------
-\*) Den Bewertungen lag folgender Punkteschlüssel zu Grunde:
-.................
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 11)
+
+## Anlage 3 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2285)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Betriebliche Mikrotechnologie-Prozesse“
+
+    a)  Benennung, die Bewertung und die Note des Prüfungsteils „Betriebliche
+        Mikrotechnologie-Prozesse“ sowie
+
+
+    b)  die Themenstellung nach § 4 Absatz 2,
+
+
+
+
+
+2.  zum Prüfungsteil „Mikrotechnologie-Fachaufgaben“
+
+    a)  Benennung, das nach § 9 Absatz 3 Satz 1 errechnete arithmetische
+        Mittel und die Note des Prüfungsteils „Mikrotechnologie-Fachaufgaben“
+        sowie
+
+
+    b)  Benennung und die jeweilige Bewertung für die drei Situationsaufgaben
+        dieses Prüfungsteils,
+
+
+
+
+
+3.  zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+
+    a)  Benennung des Prüfungsteils „Mitarbeiterführung und
+        Personalmanagement“,
+
+
+    b)  Benennung, das nach § 9 Absatz 3 Satz 2 errechnete arithmetische
+        Mittel und die Note der beiden Situationsaufgaben,
+
+
+    c)  Benennung und die jeweilige Bewertung für die beiden
+        Situationsaufgaben sowie
+
+
+    d)  Benennung, die Bewertung und die Note der praktischen Demonstration
+        dieses Prüfungsteils und der für die praktische Demonstration gewählte
+        Anwendungsfall nach § 6 Absatz 4 Satz 1,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 7.
+
+
+
 

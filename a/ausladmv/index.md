@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4394
 
-Geändert durch
-:   Art. 4 Abs. 16 G v. 17.12.2006 I 3171
+Zuletzt geändert durch
+:   Art. 9 G v. 31.1.2019 I 54
+
+Änderung durch
+:   Art. 4 Abs. 2 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -126,7 +129,7 @@ sind der Bundeszentralstelle unverzüglich mitzuteilen.
         Landesjugendamtes und
 
 
-    c)  zuständige örtliche Adoptionsvermittlungsstelle (§ 9a des
+    c)  zuständige örtliche Adoptionsvermittlungsstelle (§ 9b des
         Adoptionsvermittlungsgesetzes),
 
 
@@ -194,9 +197,9 @@ sind der Bundeszentralstelle unverzüglich mitzuteilen.
 
 (3) Die Meldung nach § 2 Abs. 1 Nr. 2 muss ferner folgende Daten
 enthalten, soweit diese bekannt und noch nicht nach Absatz 1 Nr. 5
-übermittelt worden sind: % 1.
+übermittelt worden sind:
 
-*   bezüglich des Kindes:
+1.  bezüglich des Kindes:
 
     a)  Geburtsname,
 
@@ -301,10 +304,7 @@ Absatz 2 hinaus enthalten:
 
 ### § 5 Einmalige Meldung
 
-Betrifft das Vermittlungsverfahren weder das Verhältnis zu anderen
-Vertragsstaaten des Adoptionsübereinkommens noch zu solchen Staaten,
-die durch Rechtsverordnung nach § 2a Abs. 4 Satz 2 des
-Adoptionsvermittlungsgesetzes bestimmt sind, sind der
+Betrifft das Vermittlungsverfahren sonstige Staaten, sind der
 Bundeszentralstelle mit Abschluss des Vermittlungsverfahrens in
 sinngemäßer Anwendung die Angaben nach § 4 Abs. 1 Nr. 1 bis 3, Abs. 3
 und Abs. 4 Nr. 1 Buchstabe b bis e in einer Meldung zusammengefasst zu

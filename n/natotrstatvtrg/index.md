@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1961, 1183
 
 Zuletzt geändert durch
-:   Art. 111 V v. 31.10.2006 I 2407
+:   Art. 227 V v. 31.8.2015 I 1474
 
 
 ## Teil I - Beitritt und Zustimmung
@@ -101,7 +101,7 @@ Absatz 2 aufgeführten Zusatzvereinbarungen werden nachstehend
 veröffentlicht.
 
 
-### Art 2
+### Art 2 - 
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 20 des Zusatzabkommens
@@ -139,7 +139,7 @@ Artikels 75 Abs. 1 Buchstabe b des Zusatzabkommens ist jede
 Staatsanwaltschaft im Geltungsbereich dieses Gesetzes zuständig.
 
 
-#### Art 4a -
+#### Art 4a - 
 
 Die in Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
 Truppenstatuts geregelte Zusammenarbeit in strafrechtlichen
@@ -484,7 +484,7 @@ Umfang gewährt werden, wenn der Anspruch dem Grunde nach
 gerechtfertigt ist.
 
 
-#### Art 14 -
+#### Art 14 - 
 
 Für Anträge, die einen Anspruch auf Ersatzleistung wegen
 Manöverschäden (§ 76 des Bundesleistungsgesetzes) zum Gegenstand
@@ -521,7 +521,7 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
 
 
 
-#### Art 15 -
+#### Art 15 - 
 
 -
 
@@ -530,7 +530,7 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
 
 
 
-#### Art 16 u. 17 -
+#### Art 16 u. 17 - 
 
 -
 
@@ -680,7 +680,7 @@ der Straße erforderlichen Bedingungen festzulegen.
 Beteiligten vorauszugehen.
 
 
-#### Art 23 -
+#### Art 23 - 
 
 Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
 Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
@@ -696,11 +696,27 @@ ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
 die Ersparnis von Aufwendungen zu berücksichtigen.
 
 
+#### Art 23 - 
+
+Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
+Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
+Straßennetz einbezogen worden und ist wegen des Verkehrs mit
+Kraftfahrzeugen und Kraftfahrzeuganhängern, deren Abmessungen,
+Achslast, Gesamtgewicht oder Anzahl (Kolonnenverkehr) die nach dem
+deutschen Straßenverkehrsrecht geltenden Begrenzungen überschreiten,
+ein Ausbau oder ein erhöhter Aufwand für die Unterhaltung der Straße
+erforderlich, so erstattet der Bund dem Träger der Straßenbaulast die
+hierdurch entstehenden notwendigen Mehrkosten, sofern das
+Bundesministerium für Verkehr und digitale Infrastruktur oder die von
+ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
+die Ersparnis von Aufwendungen zu berücksichtigen.
+
+
 ### Kapitel 7 - Ausführungsbestimmungen zu dem Abkommen vom 3. August 1959 zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg
 
 
 
-#### Art 24 -
+#### Art 24 - 
 
 -
 

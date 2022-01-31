@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 157
 
-Geändert durch
-:   Art. 3 G v. 30.8.1971 I 1426
+Zuletzt geändert durch
+:   Art. 7 G v. 29.11.2018 I 2237
+
+Mittelbare änderung durch
+:   Art. 8 Nr. 1 G v. 29.11.2018 I 2237 berücksichtigt
 
 
 ## § 1
@@ -73,12 +76,13 @@ Straßenbaulast, der Benutzung der Bundesfernstraßen und der
 Bewirtschaftung des bundeseigenen Vermögens ergeben.
 
 (3) Der Bund trägt die Zweckausgaben aus der Wahrnehmung der
-Straßenbaulast und die Zweckausgaben im Zusammenhang mit der Erhaltung
-und Bewirtschaftung des bundeseigenen Vermögens. Er gilt
-Zweckausgaben, die bei der Entwurfsbearbeitung und Bauaufsicht
-entstehen, durch die Zahlung einer Pauschale ab, die für Kosten der
-Entwurfsbearbeitung 2 v. H. der Baukosten, für Kosten der Bauaufsicht
-1 v. H. der Baukosten beträgt.
+Straßenbaulast für die Bundesstraßen, soweit die Verwaltung nicht dem
+Bund zusteht, und die Zweckausgaben im Zusammenhang mit der Erhaltung
+und Bewirtschaftung des bundeseigenen Vermögens für die Bundesstraßen
+in seiner Baulast, soweit die Verwaltung nicht dem Bund zusteht. Er
+gilt den Ländern Zweckausgaben, die bei der Entwurfsbearbeitung und
+Bauaufsicht entstehen, durch die Zahlung einer Pauschale ab, die 5 vom
+Hundert der Baukosten beträgt.
 
 
 ## § 7
@@ -123,6 +127,25 @@ entsprechend.
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
 außer Ansatz.
+
+
+## § 10a Übergangsbestimmungen
+
+(1) Der Bund trägt bis zum 31. Dezember 2020 die Zweckausgaben aus der
+Wahrnehmung der Straßenbaulast für die Bundesautobahnen und die
+Zweckausgaben im Zusammenhang mit der Erhaltung und Bewirtschaftung
+des bundeseigenen Vermögens für die Bundesautobahnen. Er gilt den
+Ländern Zweckausgaben, die bei der Entwurfsbearbeitung und Bauaufsicht
+für Bundesautobahnen entstehen, durch die Zahlung einer Pauschale ab,
+die 6 vom Hundert der Baukosten für Bundesautobahnen bis zum 31.
+Dezember 2020 beträgt.
+
+(2) Der Bund gilt den Ländern Zweckausgaben, die bei der
+Entwurfsbearbeitung für Bundesautobahnen bis zum 31. Dezember 2020
+entstehen, durch Zahlung von Pauschalen in den Jahren 2021 bis 2023
+ab. Die Höhe dieser Pauschalen beträgt im Jahr 2021 5 vom Hundert, im
+Jahr 2022 3 vom Hundert und im Jahr 2023 1 vom Hundert der Baukosten
+für Bundesautobahnen im Jahr 2020.
 
 
 ## § 11

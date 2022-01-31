@@ -17,13 +17,15 @@ Fundstelle
 :   BGBl I: 1995, 946
 
 Zuletzt geändert durch
-:   Art. 6 G v. 5.12.2012 I 2474
+:   Art. 3a G v. 11.8.2014 I 1348
 
 
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz gilt für alle Arbeitnehmer, es sei denn, daß sie nur zur
 vorübergehenden Aushilfe von höchstens einem Monat eingestellt werden.
+Praktikanten, die gemäß § 22 Absatz 1 des Mindestlohngesetzes als
+Arbeitnehmer gelten, sind Arbeitnehmer im Sinne dieses Gesetzes.
 
 
 ## § 2 Nachweispflicht
@@ -74,14 +76,40 @@ aufzunehmen:
 
 
 Der Nachweis der wesentlichen Vertragsbedingungen in elektronischer
-Form ist ausgeschlossen. Bei Arbeitnehmern, die eine geringfügige
-Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten Buches
-Sozialgesetzbuch ausüben, ist außerdem der Hinweis aufzunehmen, daß
-der Arbeitnehmer in der gesetzlichen Rentenversicherung die Stellung
-eines versicherungspflichtigen Arbeitnehmers erwerben kann, wenn er
-nach § 5 Abs. 2 Satz 2 des Sechsten Buches Sozialgesetzbuch auf die
-Versicherungsfreiheit durch Erklärung gegenüber dem Arbeitgeber
-verzichtet.
+Form ist ausgeschlossen.
+
+(1a) Wer einen Praktikanten einstellt, hat unverzüglich nach Abschluss
+des Praktikumsvertrages, spätestens vor Aufnahme der
+Praktikantentätigkeit, die wesentlichen Vertragsbedingungen
+schriftlich niederzulegen, die Niederschrift zu unterzeichnen und dem
+Praktikanten auszuhändigen. In die Niederschrift sind mindestens
+aufzunehmen:
+
+1.  der Name und die Anschrift der Vertragsparteien,
+
+
+2.  die mit dem Praktikum verfolgten Lern- und Ausbildungsziele,
+
+
+3.  Beginn und Dauer des Praktikums,
+
+
+4.  Dauer der regelmäßigen täglichen Praktikumszeit,
+
+
+5.  Zahlung und Höhe der Vergütung,
+
+
+6.  Dauer des Urlaubs,
+
+
+7.  ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge,
+    Betriebs- oder Dienstvereinbarungen, die auf das Praktikumsverhältnis
+    anzuwenden sind.
+
+
+
+Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Hat der Arbeitnehmer seine Arbeitsleistung länger als einen Monat
 außerhalb der Bundesrepublik Deutschland zu erbringen, so muß die

@@ -368,8 +368,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Gebäudereiniger/zur Gebäudereinigerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Gebäudereiniger/zur Gebäudereinigerin
 
 (Fundstelle: BGBl. I 1999, S. 800 - 803)
 

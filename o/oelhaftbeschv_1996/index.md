@@ -19,22 +19,27 @@ Fundstelle
 :   BGBl I: 1996, 707
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.7.2006 I 1461 u. Bek. v. 14.10.2008 I 2070
+:   Art. 61 G v. 29.3.2017 I 626
+
+Änderung durch
+:   Art. 8 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 9 G v. 16.7.2021 I 3079 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung ist
 
-1.  Ölhaftungsbescheinigung:
-
-    eine Bescheinigung nach § 2 Abs. 3 des Ölschadengesetzes,
+1.  Öl-Pflichtversicherungsbescheinigung:  eine Bescheinigung nach § 2
+    Absatz 1 des Ölschadengesetzes,
 
 
 2.  Sicherheit:
 
     eine Versicherung oder sonstige finanzielle Sicherheit im Sinne des §
-    2 Abs. 4 des Ölschadengesetzes.
+    2 Absatz 2 des Ölschadengesetzes.
 
 
 
@@ -49,14 +54,16 @@ Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578)
 
 ## § 2 Zuständigkeit
 
-Für die Ausstellung und Einziehung der Ölhaftungsbescheinigungen ist
-das Bundesamt für Seeschiffahrt und Hydrographie zuständig.
+Für die Ausstellung und Einziehung der Öl-
+Pflichtversicherungsbescheinigungen ist das Bundesamt für
+Seeschiffahrt und Hydrographie zuständig.
 
 
 ## § 3 Voraussetzungen
 
-(1) Die Ausstellung einer Ölhaftungsbescheinigung setzt einen
-schriftlichen Antrag des Eigentümers voraus. Der Antrag muß enthalten:
+(1) Die Ausstellung einer Öl-Pflichtversicherungsbescheinigung setzt
+einen schriftlichen oder elektronischen Antrag des Eigentümers voraus.
+Der Antrag muß enthalten:
 
 1.  den Namen, das Unterscheidungssignal und den Heimathafen des Schiffes;
 
@@ -137,63 +144,59 @@ deutsche Sprache beizufügen.
 
 ## § 4 Ausstellung
 
-(1) Sind die Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes und
-des § 3 erfüllt, wird eine Ölhaftungsbescheinigung in deutscher
-Sprache und englischer Übersetzung nach folgendem Muster ausgestellt:
+(1) Sind die Voraussetzungen des § 2 Absatz 2 des Ölschadengesetzes
+und des § 3 erfüllt, wird eine Öl-Pflichtversicherungsbescheinigung in
+deutscher Sprache und englischer Übersetzung nach folgenden Mustern
+ausgestellt:
 
-1.  im Fall des § 1 Abs. 1 Nr. 1 des Ölschadengesetzes nach dem Muster der
-    Anlage 1,
-
-
-2.  im Fall des § 1 Abs. 1 Nr. 2 des Ölschadengesetzes nach dem Muster der
-    Anlage 2.
+1.  im Fall des § 1 Absatz 1 Nummer 1 und 2 des Ölschadengesetzes nach dem
+    Muster der Anlage 1,
 
 
+2.  im Fall des § 1 Absatz 1 Nummer 3 des Ölschadengesetzes nach dem
+    Muster der Anlage 2.
 
 
-(2) Die Geltungsdauer der Ölhaftungsbescheinigung darf die der
-Sicherheit nicht überschreiten. Sie kann auf einen kürzeren Zeitraum
-befristet werden.
-
-(3) Wird die Ölhaftungsbescheinigung für ein Schiff ausgestellt, das
-in einem Schiffsregister im Geltungsbereich des Ölschadengesetzes
-eingetragen ist, wird eine Durchschrift bei dem zuständigen
-Registergericht hinterlegt.
-
-(4) Ist eine Ölhaftungsbescheinigung unbrauchbar geworden oder wird
-glaubhaft gemacht, daß sie verloren gegangen ist, wird auf Verlangen
-eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene
-Ölhaftungsbescheinigung ist zurückzugeben.
 
 
-## § 4a
+(2) Die Geltungsdauer der Öl-Pflichtversicherungsbescheinigung darf
+die der Sicherheit nicht überschreiten. Sie kann auf einen kürzeren
+Zeitraum befristet werden.
 
-Soweit durch diese Rechtsverordnung Schriftform angeordnet ist oder
-Zeugnisse, Bescheinigungen oder andere Dokumente ausgestellt werden,
-deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen,
-vorzulegen oder mitzuführen sind, ist die elektronische Form
-ausgeschlossen.
+(3) Wird die Öl-Pflichtversicherungsbescheinigung für ein Schiff
+ausgestellt, das in einem Schiffsregister im Geltungsbereich des
+Ölschadengesetzes eingetragen ist, wird eine Durchschrift bei dem
+zuständigen Registergericht hinterlegt.
+
+(4) Ist eine Öl-Pflichtversicherungsbescheinigung unbrauchbar geworden
+oder wird glaubhaft gemacht, daß sie verloren gegangen ist, wird auf
+Verlangen eine Ersatzausfertigung ausgestellt. Die unbrauchbar
+gewordene Öl-Pflichtversicherungsbescheinigung ist zurückzugeben.
+
+
+## § 4a (weggefallen)
+
 
 
 ## § 5 Pflichten des Eigentümers
 
 Der Eigentümer ist verpflichtet, eine vorzeitige Beendigung der
-Sicherheit sowie eine Änderung, die dazu führt, daß die Sicherheit den
-Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes nicht mehr
-genügt, unverzüglich dem Bundesamt für Seeschiffahrt und Hydrographie
+Sicherheit sowie eine Änderung, die dazu führt, dass die Sicherheit
+den Voraussetzungen des § 2 Absatz 2 des Ölschadengesetzes nicht mehr
+genügt, unverzüglich dem Bundesamt für Seeschifffahrt und Hydrographie
 mitzuteilen.
 
 
 ## § 6 Einziehung
 
-Das Bundesamt für Seeschiffahrt und Hydrographie kann eine
-Ölhaftungsbescheinigung einziehen, wenn
+Das Bundesamt für Seeschiffahrt und Hydrographie kann eine Öl-
+Pflichtversicherungsbescheinigung einziehen, wenn
 
 1.  eine Voraussetzung für deren Ausstellung nicht gegeben war oder später
     wieder entfallen ist,
 
 
-2.  zur Erlangung der Ölhaftungsbescheinigung unrichtige oder
+2.  zur Erlangung der Öl-Pflichtversicherungsbescheinigung unrichtige oder
     unvollständige Angaben gemacht worden sind.
 
 
@@ -202,14 +205,10 @@ Das Bundesamt für Seeschiffahrt und Hydrographie kann eine
 
 ## § 7 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 des Ölschadengesetzes
-handelt, wer vorsätzlich oder fahrlässig entgegen § 5 eine Mitteilung
-nicht oder nicht rechtzeitig macht.
-
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Abs. 1 Nr. 2 bis 4
-des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und
-Hydrographie übertragen.
+Ordnungswidrig im Sinne des § 9 Absatz 1 Nummer 1 des
+Ölschadengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
+5 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+rechtzeitig macht.
 
 
 ## Anlage 1 (zu § 4 Abs. 1)

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 147
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.9.2009 I 3145
+:   Art. 29 G v. 5.7.2021 I 3338
 
 
 ## Abschnitt 1 - Zuständigkeit, Einrichtung des Vereinsregisters

@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 662
 
+Geändert durch
+:   Art. 1 Vertrag v. 21.3.2019 I 1127 iVm Art. 1 G v. 4.8.2019 I 1126
+
 
 ## Eingangsformel
 

@@ -617,8 +617,9 @@ Gesamtergebnis einbezogen.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
 
 (Fundstelle: BGBl. I 2004, 651 - 660)
 

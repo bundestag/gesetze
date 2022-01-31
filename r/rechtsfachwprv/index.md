@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2250
 
-Geändert durch
-:   Art. 102 G v. 17.12.2008 I 2586
+Zuletzt geändert durch
+:   Art. 19 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -41,12 +41,12 @@ durch die berufliche Fortbildung zum Geprüften Rechtsfachwirt/zur
 Geprüften Rechtsfachwirtin erworben wurden, kann die zuständige Stelle
 Prüfungen nach den §§ 2 bis 8 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
-notwendigen Qualifikationen besitzt, die ihn zur Verwaltung,
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
+notwendigen Qualifikationen besitzt, die sie zur Verwaltung,
 Organisation und Leitung der Kanzlei eines Rechtsanwaltsbüros
-befähigen. Dabei soll er das nichtanwaltliche Aufgabenfeld eines
+befähigen. Dabei soll sie das nichtanwaltliche Aufgabenfeld eines
 Rechtsanwaltsbüros beherrschen und qualifizierte Sachbearbeitung im
-anwaltlichen Aufgabenfeld leisten können. Insbesondere kann er
+anwaltlichen Aufgabenfeld leisten können. Insbesondere kann sie
 folgende Aufgaben wahrnehmen:
 
 1.  Organisation des Büroablaufs, Überwachung der Kommunikationssysteme;
@@ -130,16 +130,17 @@ höchstens vier Zeitstunden, jedoch insgesamt nicht länger als zwölf
 Stunden dauern. Sind in der schriftlichen Prüfung die
 Prüfungsleistungen in bis zu zwei Handlungsbereichen mit mangelhaft
 und die übrigen Handlungsbereiche mit mindestens ausreichend bewertet
-worden, so ist dem Prüfungsteilnehmer in den mit mangelhaft bewerteten
-Handlungsbereichen eine mündliche Ergänzungsprüfung anzubieten. Deren
-Dauer soll je Handlungsbereich 20 Minuten nicht überschreiten. Bei der
-Ermittlung der Note sind die Ergebnisse der schriftlichen Arbeit und
-der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+worden, so ist der zu prüfenden Person in den mit mangelhaft
+bewerteten Handlungsbereichen eine mündliche Ergänzungsprüfung
+anzubieten. Deren Dauer soll je Handlungsbereich 20 Minuten nicht
+überschreiten. Bei der Ermittlung der Note sind die Ergebnisse der
+schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im
+Verhältnis 2:1 zu gewichten.
 
 (3) Die mündliche Prüfung besteht aus einem praxisorientierten
-Situationsgespräch. Der Prüfungsteilnehmer soll dabei auf der
-Grundlage eines von zwei ihm zur Wahl gestellten übergreifenden
-praxisbezogenen Fällen nachweisen, dass er in der Lage ist,
+Situationsgespräch. Die zu prüfende Person soll dabei auf der
+Grundlage eines von zwei ihr zur Wahl gestellten übergreifenden
+praxisbezogenen Fällen nachweisen, dass sie in der Lage ist,
 
 -   Sachverhalte systematisch zu analysieren, zielorientiert zu bearbeiten
     und darzustellen sowie
@@ -151,17 +152,17 @@ praxisbezogenen Fällen nachweisen, dass er in der Lage ist,
 
 Der Präsentation der Lösung der gestellten Aufgabe schließt sich ein
 Fachgespräch an. Die Gesamtdauer der mündlichen Prüfung beträgt 30
-Minuten. Dem Prüfungsteilnehmer sind 20 Minuten Vorbereitungszeit zu
+Minuten. Der zu prüfenden Person sind 20 Minuten Vorbereitungszeit zu
 gewähren.
 
 
 ## § 4 Prüfungsinhalte
 
-(1) Im Handlungsbereich "Büroorganisation und Verwaltung" soll der
-Prüfungsteilnehmer nachweisen, dass er in der Lage ist, ein
-Anwaltsbüro im nichtanwaltlichen Bereich eigenverantwortlich,
-systematisch und betriebswirtschaftlich orientiert zu führen. In
-diesem Rahmen können geprüft werden:
+(1) Im Handlungsbereich "Büroorganisation und Verwaltung" soll die zu
+prüfende Person nachweisen, dass sie in der Lage ist, ein Anwaltsbüro
+im nichtanwaltlichen Bereich eigenverantwortlich, systematisch und
+betriebswirtschaftlich orientiert zu führen. In diesem Rahmen können
+geprüft werden:
 
 1.  Organisationsmittel, Büroablauforganisation,
 
@@ -192,9 +193,9 @@ diesem Rahmen können geprüft werden:
 
 
 (2) Im Handlungsbereich "Personalwirtschaft und Mandantenbetreuung"
-soll der Prüfungsteilnehmer nachweisen, dass er Vorgänge auf der Basis
-betriebswirtschaftlicher und arbeitsrechtlicher Grundlagen
-interpretieren, analysieren und bearbeiten kann. Er soll in der Lage
+soll die zu prüfende Person nachweisen, dass sie Vorgänge auf der
+Basis betriebswirtschaftlicher und arbeitsrechtlicher Grundlagen
+interpretieren, analysieren und bearbeiten kann. Sie soll in der Lage
 sein, Praxisziele, Organisations- und Kooperationsformen im
 Zusammenspiel von Mitarbeitern, Mandanten und anderer Beteiligter
 einzuschätzen und zu berücksichtigen. In diesem Zusammenhang können
@@ -245,10 +246,11 @@ geprüft werden:
 
 
 (3) Im Handlungsbereich "Mandatsbetreuung im Kosten, Gebühren- und
-Prozessrecht" soll der Prüfungsteilnehmer nachweisen, dass er Vorgänge
-des Gebührenrechts, der Festsetzung und Erstattung der Gebühren
-bearbeiten kann sowie die dazugehörigen Regelungen des Prozessrechts
-interpretieren und anwenden kann. Dabei können geprüft werden:
+Prozessrecht" soll die zu prüfende Person nachweisen, dass sie
+Vorgänge des Gebührenrechts, der Festsetzung und Erstattung der
+Gebühren bearbeiten kann sowie die dazugehörigen Regelungen des
+Prozessrechts interpretieren und anwenden kann. Dabei können geprüft
+werden:
 
 1.  Kosten und Gebührenrecht
 
@@ -257,14 +259,16 @@ interpretieren und anwenden kann. Dabei können geprüft werden:
     a)  des Rechtsanwaltsvergütungsgesetzes,
 
 
-    b)  des Gerichtskostengesetzes sowie
+    b)  des Gerichtskostengesetzes,
 
 
-    c)  die einschlägigen Regelungen des Gesetzes über die Kosten in
-        Angelegenheiten der freiwilligen Gerichtsbarkeit (Kostenordnung),
+    c)  des Gesetzes über Gerichtskosten in Familiensachen,
 
 
-    d)  der Verfahrensgesetze zur Berechnung der Vergütung, der Gebühren und
+    d)  des Gerichts- und Notarkostengesetzes,
+
+
+    e)  der Verfahrensgesetze zur Berechnung der Vergütung, der Gebühren und
         der Auslagen sowie der Gegenstandswerte, für Anträge auf Festsetzung,
         Erstattung und Ausgleich, für die Leistung von
         Prozesskostensicherheiten und -vorschüssen, Beratungs- und
@@ -322,8 +326,8 @@ interpretieren und anwenden kann. Dabei können geprüft werden:
 
 
 (4) Im Handlungsbereich "Mandatsbetreuung in der Zwangsvollstreckung
-und im materiellen Recht" soll der Prüfungsteilnehmer nachweisen, dass
-er in der Lage ist, titulierte Forderungen in jeglicher Hinsicht
+und im materiellen Recht" soll die zu prüfende Person nachweisen, dass
+sie in der Lage ist, titulierte Forderungen in jeglicher Hinsicht
 durchzusetzen, die entsprechenden Anträge zu stellen sowie die
 zugrunde liegenden Rechtsverhältnisse einzuordnen und dazugehörige
 einfache Rechtsfragen richtig beurteilen zu können. In diesem Rahmen
@@ -378,48 +382,103 @@ können geprüft werden:
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Von der Prüfung in den Handlungsbereichen gemäß § 3 Abs. 1 kann der
-Prüfungsteilnehmer auf Antrag von der zuständigen Stelle in bis zu
-zwei schriftlichen Prüfungsleistungen freigestellt werden, wenn er vor
-einer zuständigen Stelle, einer öffentlichen oder staatlich
-anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung in den letzten fünf Jahren vor
-Antragstellung bestanden hat, deren Inhalt den Anforderungen dieser
-Prüfungsleistungen entspricht.
-
-
-## § 6 Bestehen der Prüfung
-
-(1) Die einzelnen Prüfungsleistungen gemäß § 3 sind gesondert zu
-bewerten. Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in
-allen Prüfungsleistungen ein mindestens ausreichendes Ergebnis erzielt
-hat.
-
-(2) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
-Freistellung gemäß § 5 sind in dem Zeugnis Ort und Datum der
-anderweitig abgelegten Prüfung sowie die Bezeichnung des
-Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 3 entsprechend ihrem Verhältnis
+zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen
+des Prüfungsausschusses zugrunde zu legen.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) In der schriftlichen Prüfung nach § 3 Absatz 2 sind die
+Prüfungsleistungen einzeln zu bewerten.
+
+(3) Als mündliche Prüfung ist das praxisorientierte Situationsgespräch
+nach § 3 Absatz 3 zu bewerten.
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in allen Prüfungsleistungen der schriftlichen Prüfung nach § 3 Absatz
+    2 sowie
+
+
+2.  in der mündlichen Prüfung nach § 3 Absatz 3.
+
+
+
+
+(2) Ist die Prüfung bestanden, ist die Bewertung in den
+Handlungsbereichen, in denen eine mündliche Ergänzungsprüfung nach § 3
+Absatz 2 durchgeführt wurde, kaufmännisch auf eine ganze Zahl zu
+runden.
+
+(3) Den Bewertungen für die Prüfungsleistungen in der schriftlichen
+Prüfung und der Bewertung für die mündliche Prüfung ist nach Anlage 1
+die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen der Prüfungsleistungen in der
+schriftlichen Prüfung und der Bewertung in der mündlichen Prüfung zu
+berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer von einzelnen Prüfungsleistungen befreit, wenn er
-darin mindestens ausreichende Leistungen erzielte und er sich
-innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht
-bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
-Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
-zu wiederholen. In diesem Fall ist das letzte Ergebnis für das
-Bestehen zu berücksichtigen.
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn sie darin
+mindestens ausreichende Leistungen erzielte und sie sich innerhalb von
+zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+Prüfung an, zur Wiederholungsprüfung angemeldet hat. Die zu prüfende
+Person kann beantragen, auch bestandene Prüfungsleistungen zu
+wiederholen. In diesem Fall ist das letzte Ergebnis für das Bestehen
+zu berücksichtigen.
 
 
-## § 8 Übergangsvorschriften
+## § 10 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende
@@ -430,7 +489,7 @@ Wiederholungsprüfung gemäß dieser Verordnung durchführen; § 7 Abs. 2
 findet insoweit keine Anwendung.
 
 
-## § 9 Ausbildereignung
+## § 11 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Rechtsfachwirt/zur Geprüften
 Rechtsfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -439,72 +498,369 @@ Berufsbildungsgesetzes erlassenen Ausbilder-Eignungsverordnung
 befreit.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu den §§ 6 und 7)
 
-## Anlage 1 (zu § 6 Abs. 2)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2001, 2253)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin"
-Herr/Frau
-.....................................................................
-geboren am ............................. in
-...................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin" vom
-23\. August 2001 (BGBl. I S. 2250)
-bestanden.
-Datum ...............................................
-Unterschrift(en)    (Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2221 - 2222)
 
 
-## Anlage 2 (zu § 6 Abs. 2)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2001, 2254)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin"
-Herr/Frau
-.....................................................................
-geboren am ............................. in
-...................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin" vom
-23\. August 2001 (BGBl. I S. 2250) mit folgenden Ergebnissen bestanden:
-Note
-Büroorganisation und -verwaltung                      ....
-Personalwirtschaft und Mandantenbetreuung             ....
-Mandatsbetreuung im Kosten-, Gebühren- und
-Prozessrecht                                          ....
-Mandatsbetreuung in der Zwangsvollstreckung
-und im materiellen Recht                              ....
-Praxisorientiertes Situationsgespräch                 ....
-(Im Fall des § 5: "Der Prüfungsteilnehmer wurde gemäß § 5 im
-Hinblick auf die am ................................. in
-......................
-vor .......... abgelegte Prüfung von der Prüfungsleistung ....
-freigestellt.")
-Datum ...............................................
-Unterschrift(en) ....................................
-(Siegel der zuständigen Stelle)
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2222 - 2223)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung der Handlungsbereiche der schriftlichen Prüfung und
+    Bewertung als Note,
+
+
+2.  Benennung des praxisorientierten Situationsgesprächs und Bewertung als
+    Note,
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 5,
+
+
+7.  Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach
+    der Ausbilder-Eignungsverordnung nach § 11.
+
+
+
 

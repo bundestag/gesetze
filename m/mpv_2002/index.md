@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3854
 
 Zuletzt geändert durch
-:   Art. 2 V v. 10.5.2010 I 542
+:   Art. 3 V v. 27.9.2016 I 2203
 
 
 ## Eingangsformel
@@ -116,7 +116,7 @@ durchgeführt wurden, angemessen zu berücksichtigen.
 ausgestellt werden, ist auf höchstens fünf Jahre zu befristen.
 
 
-## Abschnitt 2 - Anforderungen an die Verfahren der Konformitätsbewertung
+## Abschnitt 2 - Anforderungen an die Verfahren der  Konformitätsbewertung
 
 
 
@@ -206,6 +206,15 @@ treffen, um die Übereinstimmung der hergestellten Medizinprodukte mit
 dieser Dokumentation zu gewährleisten. Absatz 2 Satz 4 bis 7 gilt
 entsprechend.
 
+(5) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte
+aktive implantierbare Medizinprodukte gelten die besonderen
+Anforderungen der Verordnung (EU) Nr. 722/2012 der Kommission vom 8.
+August 2012 über besondere Anforderungen betreffend die in der
+Richtlinie 90/385/EWG bzw. 93/42/EWG des Rates festgelegten
+Anforderungen an unter Verwendung von Gewebe tierischen Ursprungs
+hergestellte aktive implantierbare medizinische Geräte und
+Medizinprodukte (ABl. L 212 vom 9.8.2012, S. 3).
+
 
 ### § 5 Konformitätsbewertungsverfahren für In-vitro-Diagnostika
 
@@ -293,56 +302,8 @@ treffen, um erforderliche Korrekturen durchzuführen. § 4 Absatz 2 Satz
 7 gilt entsprechend.
 
 
-### § 6 Konformitätsbewertungsverfahren für unter Verwendung von tierischem Gewebe hergestellte Medizinprodukte
+### § 6 (weggefallen)
 
-(1) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte
-Medizinprodukte nach Artikel 1 Abs. 1 und 2 der Richtlinie 2003/32/EG
-der Kommission vom 23. April 2003 (ABl. EU Nr. L 105 S. 18) in der
-jeweils gültigen Fassung umfasst das Konformitätsbewertungsverfahren
-die Bewertung der Übereinstimmung mit den Grundlegenden Anforderungen
-der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 (ABl. EG Nr. L
-169 S. 1) und den Spezifikationen im Anhang der Richtlinie 2003/32/EG
-in der jeweils gültigen Fassung. Dabei sind die Definitionen des
-Artikels 2 der Richtlinie 2003/32/EG zu Grunde zu legen.
-
-(2) Für Medizinprodukte nach Absatz 1 hat der Hersteller
-
-1.  das Verfahren der EG-Konformitätserklärung (vollständiges
-    Qualitätssicherungssystem) nach Anhang II der Richtlinie 93/42/EWG
-    oder
-
-
-2.  das Verfahren der EG-Baumusterprüfung nach Anhang III der Richtlinie
-    93/42/EWG in Verbindung mit dem Verfahren der EG-Prüfung nach Anhang
-    IV der Richtlinie 93/42/EWG oder dem Verfahren der EG-
-    Konformitätserklärung (Qualitätssicherung Produktion) nach Anhang V
-    der Richtlinie 93/42/EWG
-
-
-
-durchzuführen. Bevor er einen entsprechenden Antrag stellt, hat er das
-Verfahren zur Risikoanalyse und zum Risikomanagement nach dem Anhang
-der Richtlinie 2003/32/EG durchzuführen. Werden bei der Herstellung
-von Medizinprodukten Kollagene, Gelatine oder Talg verwendet, so
-müssen diese zumindest die Anforderungen für die Eignung zum
-menschlichen Verzehr erfüllen.
-
-(3) Bei der Wahrnehmung der ihnen im Rahmen der Verfahren nach Absatz
-2 Satz 1 obliegenden Aufgaben müssen die Benannten Stellen zusätzlich
-die Maßgaben des Artikels 5 Abs. 2 bis 4 der Richtlinie 2003/32/EG
-erfüllen.
-
-(4) Die zuständige Behörde nach § 15 des Medizinproduktegesetzes
-überprüft, ob bei den Benannten Stellen die fachlichen Voraussetzungen
-für eine Bewertung nach den Absätzen 1 bis 3 vorliegen. Falls diese
-Voraussetzungen nicht vorliegen, widerruft sie insoweit die
-Akkreditierung und Benennung und teilt dies dem Bundesministerium für
-Gesundheit mit.
-
-(5) Die Absätze 1 bis 4 gelten nicht für Medizinprodukte, die nicht
-dazu bestimmt sind, mit dem menschlichen Körper in Berührung zu kommen
-oder die dazu bestimmt sind, nur mit unversehrter Haut in Berührung zu
-kommen.
 
 
 ### § 7 Konformitätsbewertungsverfahren für die sonstigen Medizinprodukte
@@ -478,6 +439,10 @@ Herstellung nachgelagerten Phase auszuwerten und zu dokumentieren und
 angemessene Vorkehrungen zu treffen, um erforderliche Korrekturen
 durchzuführen. § 4 Absatz 2 Satz 7 gilt entsprechend.
 
+(10) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte
+Medizinprodukte gelten die besonderen Anforderungen der Verordnung
+(EU) Nr. 722/2012.
+
 
 ## Abschnitt 3 - Änderungen der Klassifizierung von Medizinprodukten
 
@@ -520,16 +485,8 @@ möglichst vollständig zu erfüllen. Dazu gehören nicht Zubehörteile.
 
 
 
-### § 10 Übergangsbestimmung für unter Verwendung von tierischem Gewebe hergestellte Medizinprodukte
+### § 10 (weggefallen)
 
-Medizinprodukte im Sinne von § 6, für die eine vor dem 1. April 2004
-ausgestellte EG-Auslegungsprüfbescheinigung oder EG-
-Baumusterprüfbescheinigung vorliegt, dürfen von dem Verantwortlichen
-nach § 5 des Medizinproduktegesetzes nur dann in den Verkehr gebracht
-werden, wenn eine zusätzliche EG-Auslegungsprüfbescheinigung oder EG-
-Baumusterprüfbescheinigung vorliegt, in der die Übereinstimmung mit
-den im Anhang der Richtlinie 2003/32/EG festgelegten Spezifikationen
-bescheinigt wird.
 
 
 ### § 11 Übergangsbestimmungen für Gelenkersatz für Hüfte, Knie und Schulter

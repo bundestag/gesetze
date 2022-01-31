@@ -884,8 +884,9 @@ Grundstücks
 
 
 
+(zu § 2 Abs. 3 Nr. 2)
 
-## Anlage C (zu § 2 Abs. 3 Nr. 2) Verzeichnis der Hauptgeschäftsstraßen und der Geschäftsstraßen mit Angabe der maßgebenden Anzahl der Gebäudegeschosse
+## Anlage C Verzeichnis der Hauptgeschäftsstraßen und der Geschäftsstraßen mit Angabe der maßgebenden Anzahl der Gebäudegeschosse
 
 Fundstelle des Originaltextes: BGBl. I 1961, 1650
 

@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes und des Wohnungsbaug
   für das Saarland
 jurabk: WoBauÄndG 1988
 layout: default
-origslug: wobau_ndg_1988
+origslug: wobauaendg_1988
 slug: wobauaendg_1988
 
 ---

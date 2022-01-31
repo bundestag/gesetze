@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1409
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.12.2011 I 2592
+:   Art. 35 G v. 21.12.2020 I 3096
 
 
 ## § 1 Anordnung als Bundesstatistik
@@ -37,15 +37,12 @@ ihrer wirtschaftlichen und sozialen Bedeutung werden Bundesstatistiken
 4.  die Vermögensteuer,
 
 
-5.  die Einheitswerte
+5.  die Grundsteuerwerte
 
-    a)  der Gewerbebetriebe,
-
-
-    b)  des land- und forstwirtschaftlichen Vermögens,
+    a)  des land- und forstwirtschaftlichen Vermögens,
 
 
-    c)  des Grundvermögens,
+    b)  des Grundvermögens,
 
 
 
@@ -54,7 +51,14 @@ ihrer wirtschaftlichen und sozialen Bedeutung werden Bundesstatistiken
 6.  die Gewerbesteuer,
 
 
-7.  die Erbschaft- und Schenkungsteuer
+7.  die Erbschaft- und Schenkungsteuer,
+
+
+8.  die Statistik zu den länderbezogenen Berichten multinationaler
+    Unternehmensgruppen nach § 138a Absatz 2 der Abgabenordnung,
+
+
+9.  die Forschungszulage
 
 
 
@@ -77,9 +81,10 @@ Gemeinden anhand der von den obersten Finanzbehörden des Bundes und
 der Länder festgelegten alternativen Sockelbeträge Berechnungen durch.
 
 (4) Das Statistische Bundesamt und die statistischen Ämter der Länder
-führen zur Verteilung des nach § 1 Satz 3 des Finanzausgleichsgesetzes
-festgesetzten Anteils am Aufkommen der Umsatzsteuer auf die Gemeinden
-Berechnungen nach § 5c des Gemeindefinanzreformgesetzes durch.
+führen zur Verteilung des nach § 1 des Finanzausgleichsgesetzes
+festgesetzten Anteils der Gemeinden am Aufkommen der Umsatzsteuer auf
+die Gemeinden Berechnungen nach § 5a des Gemeindefinanzreformgesetzes
+durch.
 
 
 ## § 2 Erhebungsmerkmale und Periodizität
@@ -108,10 +113,24 @@ Erhebungsmerkmale erfasst:
 
 
 
-(2) Für die Lohn- und Einkommensteuerstatistik werden alle drei Jahre,
-erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
+(2) Für die Lohn- und Einkommensteuerstatistik werden jährlich
+folgende Erhebungsmerkmale erfaßt:
 
-1.  von den steuerpflichtigen natürlichen Personen
+1.  von den zur Abgabe von Lohnsteuer-Anmeldungen verpflichteten
+    Arbeitgebern der steuerpflichtigen natürlichen Personen:
+
+    a)  einbehaltene Steuerbeträge und Abzugsbeträge von den einbehaltenen
+        Steuerbeträgen mit den im Besteuerungsverfahren festgestellten
+        Angaben;
+
+
+    b)  Anmeldungszeitraum, Zahl der Arbeitnehmer;
+
+
+
+
+
+2.  von den steuerpflichtigen natürlichen Personen
 
     a)  Bruttolohn, Einkünfte, Einkommen, zu versteuerndes Einkommen,
         Sondervergünstigungen, Lohn-, Einkommen- und Kirchensteuer,
@@ -130,7 +149,7 @@ erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
 
 
 
-2.  von Personengesellschaften und Gemeinschaften, soweit im
+3.  von Personengesellschaften und Gemeinschaften, soweit im
     Besteuerungsverfahren eine gesonderte und einheitliche Feststellung
     der Einkünfte vorgenommen worden ist,
 
@@ -145,10 +164,7 @@ erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
 
 
 
-Ab 2008 werden von Personengesellschaften und Gemeinschaften, soweit
-im Besteuerungsverfahren eine gesonderte und einheitliche Feststellung
-der Einkünfte vorgenommen worden ist, die in Satz 1 Nr. 2 genannten
-Erhebungsmerkmale jährlich erfasst.
+Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden ab 2018 erfasst.
 
 (3) Für die Körperschaftsteuerstatistik werden alle drei Jahre,
 erstmals für 1995, von den steuerpflichtigen Körperschaften,
@@ -165,6 +181,7 @@ erfaßt:
 
 
 
+Diese Erhebungsmerkmale werden ab 2014 jährlich erfasst.
 
 (4) Für die Vermögensteuerstatistik werden jeweils in Verbindung mit
 der Hauptveranlagung der Vermögensteuer nach dem Stand zum
@@ -181,48 +198,37 @@ Erhebungsmerkmale erfaßt:
 
 
 
-(5) Für die Statistiken der Einheitswerte werden jeweils in Verbindung
-mit der Hauptfeststellung nach dem Stand zum
+(5) Für die Statistiken der Grundsteuerwerte werden jeweils in
+Verbindung mit der Hauptfeststellung nach dem Stand zum
 Hauptfeststellungszeitpunkt folgende Erhebungsmerkmale erfaßt:
 
-1.  für die Statistik der Einheitswerte des Betriebsvermögens von den
-    Gewerbebetrieben
-
-    a)  Besitz- und Schuldposten, Einheitswert mit den im Bewertungsverfahren
-        festgestellten Angaben;
-
-
-    b)  Sitz (Gemeinde), Rechtsform des Eigentümers, Wirtschaftszweig;
-
-
-
-
-
-2.  für die Statistik der Einheitswerte des land- und
+1.  für die Statistik der Grundsteuerwerte des land- und
     forstwirtschaftlichen Vermögens von den Betrieben der Land- und
     Forstwirtschaft
 
-    a)  Fläche der Wirtschaftsgüter, Wirtschaftswert, Wohnungswert, alter und
-        neuer Einheitswert mit den im Bewertungsverfahren festgestellten
+    a)  Fläche der land- und forstwirtschaftlichen Nutzung, Reinerträge,
+        Grundsteuerwert und Grundsteuermessbetrag mit den im
+        Bewertungsverfahren festgestellten Angaben;
+
+
+    b)  Rechtsform des Eigentümers, Ort der Belegenheit;
+
+
+
+
+
+2.  für die Statistik der Grundsteuerwerte des Grundvermögens von den
+    Grundstücken
+
+    a)  Gebäudefläche, Grundstücksfläche, Nettokaltmiete, Reinertrag,
+        Gebäudewert, Bodenwert, Grundstückswert, Grundsteuerwert und
+        Grundsteuermessbetrag mit den im Besteuerungsverfahren festgestellten
         Angaben;
 
 
-    b)  Vermögensart, Rechtsform des Eigentümers, Belegenheitsgemeinde;
-
-
-
-
-
-3.  für die Statistik der Einheitswerte des Grundvermögens von den
-    Grundstücken
-
-    a)  Fläche, alter und neuer Einheitswert mit den im Bewertungsverfahren
-        festgestellten Angaben;
-
-
-    b)  Vermögensart, Grundstücksart, Baualter, Rechtsform des Eigentümers,
-        Belegenheitsgemeinde, Gemeindegröße für die Bewertung, Art des
-        Bewertungsverfahrens, Art des Besitzverhältnisses.
+    b)  Grundstücksart, Rechtsform des Eigentümers, Baujahr, Ort der
+        Belegenheit, Art des Bewertungsverfahrens, Art des
+        Besitzverhältnisses.
 
 
 
@@ -263,7 +269,8 @@ für 1995, von den Steuerpflichtigen folgende Erhebungsmerkmale erfaßt:
 Für Betriebe beziehungsweise Betriebsstätten in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet entfällt die Erfassung gemäß
 Nummer 1 Buchstabe b bis zum Vorliegen der Voraussetzungen einer
-Erfassung.
+Erfassung. Die Erhebungsmerkmale nach Satz 1 werden ab 2011 jährlich
+erfasst.
 
 (7) Für die Erbschaft- und Schenkungsteuerstatistik werden folgende
 Erhebungsmerkmale erfasst:
@@ -305,6 +312,32 @@ Erhebungsmerkmale erfasst:
 
 
 
+Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes
+erlassene Erbschaft- oder Schenkungsteuer mit den im Erlassverfahren
+festgestellten Angaben wird erstmals ab 2019 erfasst.
+
+(8) Für die Statistik zu den länderbezogenen Berichten multinationaler
+Unternehmensgruppen werden ab dem Berichtsjahr 2016 jährlich die
+Angaben nach § 138a Absatz 2 der Abgabenordnung erfasst. Die
+Aufbereitung dieser Angaben wird zentral vom Statistischen Bundesamt
+durchgeführt.
+
+(9) Für die Statistik über die Forschungszulage werden von den
+Anspruchsberechtigten ab 2020 jährlich folgende Erhebungsmerkmale
+erfasst:
+
+1.  förderfähige Aufwendungen im Bereich Forschung und Entwicklung,
+    getrennt nach eigenbetrieblicher Forschung und Auftragsforschung, Höhe
+    der gewährten Forschungszulage mit den im Besteuerungsverfahren
+    festgestellten Angaben;
+
+
+2.  Sitz (Gemeinde), Rechtsform, Organschaft, Wirtschaftszweig, Zahl der
+    im Bereich Forschung und Entwicklung Beschäftigten des
+    Anspruchsberechtigten.
+
+
+
 
 
 ## § 2a Statistische Aufbereitung von Daten aus der Einkommensbesteuerung
@@ -312,12 +345,13 @@ Erhebungsmerkmale erfasst:
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Lohn-
 und Einkommensteuer jährlich an das Bundesministerium der Finanzen.
-Die statistische Aufbereitung dieser Daten wird, erstmals für das
-Veranlagungsjahr 2001, dem Statistischen Bundesamt übertragen.
+Die statistische Aufbereitung dieser Daten wird für die
+Veranlagungsjahre 2001 bis 2011 dem Statistischen Bundesamt
+übertragen.
 
 (2) Mit Anlaufen der Förderung der zusätzlichen Altersvorsorge nach §
-10a des Einkommensteuergesetzes ab dem Veranlagungsjahr 2002 werden
-auch Angaben über deren Inanspruchnahme aufbereitet. Die zentrale
+10a des Einkommensteuergesetzes werden für die Veranlagungsjahre 2002
+bis 2010 Angaben über deren Inanspruchnahme aufbereitet. Die zentrale
 Stelle übermittelt hierzu die vorhandenen Angaben über die
 Altersvorsorgeförderung an das Statistische Bundesamt.
 
@@ -344,8 +378,10 @@ Forschungseinrichtungen weitergeben.
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur
 Körperschaft- und Gewerbesteuer jährlich an das Bundesministerium der
-Finanzen. Die statistische Aufbereitung dieser Daten wird, erstmals
-für das Veranlagungsjahr 2004, dem Statistischen Bundesamt übertragen.
+Finanzen. Die statistische Aufbereitung der Daten zur
+Körperschaftsteuer für die Veranlagungsjahre 2004 bis 2012 sowie zur
+Gewerbesteuer für die Veranlagungsjahre 2004 bis 2009 wird dem
+Statistischen Bundesamt übertragen.
 
 (2) § 2a Absatz 3 und 4 ist entsprechend anzuwenden.
 
@@ -375,56 +411,41 @@ Steuerpflichtigen zusammenführen.
 
 (1) Das Bundeszentralamt für Steuern erstellt aus den im Zusammenhang
 mit der Festsetzung des steuerlichen Kindergeldes bei den
-Familienkassen oder den öffentlichen Arbeitgebern anfallenden Daten
-Geschäftsstatistiken über Kindergeldberechtigte und deren Kinder. Die
-Ergebnisse dieser Statistiken werden den für den
-Familienleistungsausgleich zuständigen obersten Behörden des Bundes
-und der Länder zur Verfügung gestellt.
+Familienkassen anfallenden Daten Geschäftsstatistiken über
+Kindergeldberechtigte und deren Kinder. Die Ergebnisse dieser
+Statistiken werden den für den Familienleistungsausgleich zuständigen
+obersten Behörden des Bundes und der Länder zur Verfügung gestellt.
 
-(2) Die Statistik erfaßt monatlich für den vorangegangenen Monat für
-jeden Kindergeldfall folgende Erhebungsmerkmale:
+(2) Die Statistik erfasst monatlich für den vorangegangenen
+Kalendermonat für jeden Kindergeldfall folgende Erhebungsmerkmale:
 
--   von den Kindergeldempfängern: Zahl der Kinder, für die Kindergeld
-    gezahlt wird, Familienstand, Wohnsitzstaat, Wohnsitzgemeinde bei
-    inländischen Berechtigten, Staatsangehörigkeit;
-
-
--   von den Kindern: Ordnungszahl, vollendetes Lebensjahr am Ende des
-    vorangegangenen Monats, Geschlecht, Wohnsitzstaat,
+1.  von den Kindergeldempfängern: die Zahl der Kinder, für die Kindergeld
+    gezahlt wird, den Familienstand, den Wohnsitzstaat, die
+    Wohnsitzgemeinde bei inländischen Berechtigten, die
     Staatsangehörigkeit;
 
 
--   über den Zahlweg: die Auszahlung durch die Familienkasse oder den
-    Arbeitgeber, die Einbehaltung zum Zwecke der Verrechnung mit
-    Kindergeldrückforderungen, die Auszahlung an andere Personen und
-    Stellen nach § 74 des Einkommensteuergesetzes;
+2.  von den Kindern: die Ordnungszahl, das vollendete Lebensjahr am Ende
+    des vorangegangenen Kalendermonats, das Geschlecht, den Wohnsitzstaat,
+    die Staatsangehörigkeit;
 
 
--   über die Zahlbeträge: die von der Familienkasse gezahlten und die vom
-    Arbeitgeber nach der Bescheinigung der Familienkasse zu zahlenden
-    Beträge.
+3.  über den Zahlungsweg: die Auszahlung durch die Familienkasse, die
+    Einbehaltung zum Zweck der Verrechnung mit Kindergeldrückforderungen,
+    die Auszahlung an andere Personen und Stellen nach § 74 des
+    Einkommensteuergesetzes;
 
 
-
-
-(3) Abweichend von Absatz 2 melden die öffentlichen Arbeitgeber nur
-folgende Erhebungsmerkmale:
-
--   von den Kindergeldempfängern: Zahl der Kinder, für die Kindergeld
-    gezahlt wird, Familienstand, Wohnsitzstaat, Wohnsitzgemeinde bei
-    inländischen Berechtigten;
-
-
--   von den Kindern: Ordnungszahl, vollendetes Lebensjahr am Stichtag.
+4.  über die Zahlbeträge: die von der Familienkasse gezahlten Beträge.
 
 
 
 
-(4) Soweit Kindergeld nach dem Bundeskindergeldgesetz gewährt wird,
+(3) Soweit Kindergeld nach dem Bundeskindergeldgesetz gewährt wird,
 führt die Bundesagentur für Arbeit eine entsprechende
-Geschäftsstatistik nach den Absätzen 1 bis 3 durch.
+Geschäftsstatistik nach den Absätzen 1 und 2 durch.
 
-(5) Die Finanzbehörden der Länder melden halbjährlich in Fällen, in
+(4) Die Finanzbehörden der Länder melden halbjährlich in Fällen, in
 denen ein Arbeitgeber Kindergeldbeträge von der angemeldeten
 Lohnsteuer in Abzug gebracht hat, dem Bundeszentralamt für Steuern
 dessen Namen, Anschrift, Steuernummer, Identifikationsmerkmale nach §
@@ -441,9 +462,11 @@ Als Hilfsmerkmale werden erfasst:
 
 2.  die Steuernummern, die Identifikationsmerkmale nach § 139a Absatz 1
     der Abgabenordnung und die Zulagen- und Vertragsnummern der Förderung
-    nach § 10a des Einkommensteuergesetzes sowie die
-    Einheitswertaktenzeichen bei den Statistiken nach § 1 Absatz 1 Nummer
-    5,
+    nach § 10a des Einkommensteuergesetzes sowie die Aktenzeichen für die
+    Feststellung der Grundsteuerwerte bei den Statistiken nach § 1 Absatz
+    1 Nummer 5 sowie die Registernummer, die Postleitzahl und der Ort des
+    Registergerichts bei den Statistiken nach § 1 Absatz 1 Nummer 1 bis 3
+    und 6,
 
 
 3.  die Art des Festsetzungsverfahrens sowie der Tag und das Jahr der
@@ -463,20 +486,30 @@ Als Hilfsmerkmale werden erfasst:
 
 6.  für Organgesellschaften die Finanzamt- und Steuernummer sowie die
     Identifikationsmerkmale nach § 139a Absatz 1 der Abgabenordnung des
-    Organträgers bei den Statistiken nach § 1 Absatz 1 Nummer 3 und 6.
+    Organträgers bei den Statistiken nach § 1 Absatz 1 Nummer 3 und 6,
+
+
+7.  Postleitzahl, Ort, Ortsteil, Straße, Hausnummer oder
+    Hausnummernspanne, Hausnummernzusatz,
+
+
+8.  die Finanzamt- und Steuernummer sowie die Identifikationsmerkmale nach
+    § 139a Absatz 1 der Abgabenordnung von den Anspruchsberechtigten bei
+    der Statistik nach § 1 Absatz 1 Nummer 9.
 
 
 
-Die Finanzamt- und Steuernummern sowie die Identifikationsmerkmale
+Die Finanzamt- und Steuernummern, die Registernummer, die Postleitzahl
+und der Ort des Registergerichts sowie die Identifikationsmerkmale
 nach § 139a Absatz 1 der Abgabenordnung dürfen vom Statistischen
 Bundesamt und den statistischen Ämtern der Länder gespeichert werden.
 
 
 ## § 6 Auskunftspflicht
 
-(1) Für die Statistiken nach diesem Gesetz einschließlich für die
-Angaben nach § 3 besteht Auskunftspflicht. Auskunftspflichtig sind die
-Finanzbehörden der Länder und die zentrale Stelle.
+(1) Für die Statistiken nach diesem Gesetz besteht Auskunftspflicht.
+Auskunftspflichtig sind die Finanzbehörden der Länder und die zentrale
+Stelle.
 
 (2) Für die Statistik nach § 1 Absatz 1 Nummer 2 und die Aufgaben nach
 § 1 Absatz 2 übermitteln die Finanzbehörden der Länder den
@@ -504,12 +537,7 @@ Statistischen Bundesamt und den statistischen Ämtern der Länder an das
 Bundesministerium der Finanzen und an die obersten Finanzbehörden der
 Länder übermittelt werden.
 
-(3) Aus der Statistik nach § 1 Abs. 1 Nr. 2 wird von den statistischen
-Ämtern der Länder jeweils unverzüglich nach Ablauf der Aufbereitung
-eine bundesweit repräsentative Stichprobe von Einzelangaben mit einem
-Auswahlsatz von 25 Prozent gezogen und die Einzelangaben werden dem
-Statistischen Bundesamt für Zusatzaufbereitungen zur Verfügung
-gestellt.
+(3) (weggefallen)
 
 (4) Für Zusatzaufbereitungen einschließlich der Entwicklung und des
 Betriebs von Mikrosimulationsmodellen zur Abschätzung finanzieller und
@@ -518,10 +546,8 @@ der Fortentwicklung des Steuer- und Transfersystems werden auf
 Anforderung dem Bundesministerium der Finanzen, den obersten
 Finanzbehörden und den statistischen Ämtern der Länder durch das
 Statistische Bundesamt Einzelangaben ohne Hilfsmerkmale aus einer
-Unterstichprobe übermittelt, die aus der Stichprobe nach Absatz 3
-gezogen wird und nicht mehr als 10 Prozent der Grundgesamtheit umfaßt.
-Den Empfängern nach Satz 1 ist jeweils die gleiche Unterstichprobe zu
-übermitteln. Die Stichproben und Unterstichproben sind beim
+10-Prozent-Stichprobe übermittelt. Den Empfängern nach Satz 1 ist
+jeweils die gleiche Stichprobe zu übermitteln. Die Stichprobe ist beim
 Statistischen Bundesamt vorzuhalten. Es ist sicherzustellen, dass bei
 den Zusatzaufbereitungen im Bundesministerium der Finanzen und in den
 obersten Finanzbehörden der Länder das Statistikgeheimnis gewahrt
@@ -532,7 +558,8 @@ Betriebs von Mikrosimulationsmodellen beauftragten Personen müssen
 Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete (§
 30 Abs. 3 Nr. 1 der Abgabenordnung) sein. Sie dürfen aus ihrer
 Tätigkeit gewonnene Erkenntnisse nur für die in Satz 1 genannten
-Zwecke verwenden. § 9 des Bundesdatenschutzgesetzes gilt entsprechend.
+Zwecke verarbeiten. § 2a Absatz 1 und 5 der Abgabenordnung gilt
+entsprechend.
 
 (5) Die statistischen Ämter der Länder stellen dem Statistischen
 Bundesamt auf Ersuchen die Einzelangaben aus den nach § 1 Abs. 1
@@ -574,7 +601,7 @@ Nr. 2 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469,
 entsprechend. Die beauftragten Personen dürfen aus ihrer Tätigkeit
 gewonnene Erkenntnisse nur für die Entwicklung und den Betrieb von
 Mikrosimulationsmodellen zu den in Absatz 6 Satz 1 genannten Zwecken
-verwenden. § 9 des Bundesdatenschutzgesetzes gilt entsprechend.
+verarbeiten. § 2a Absatz 1 und 5 der Abgabenordnung gilt entsprechend.
 
 (6b) Abweichend von dem in Absatz 6a genannten Übermittlungsweg dürfen
 die statistischen Ämter von Bund und Ländern im Auftrag der obersten
@@ -600,7 +627,13 @@ d)  über die veranlagte Körperschaftsteuer 1992,
 e)  über die Einheitswerte des Betriebsvermögens 1989,
 
 
-f)  über die Vermögensteuer 1989
+f)  über die Vermögensteuer 1989,
+
+
+g)  über die Gewerbesteuer 1995,
+
+
+h)  über die Erbschaft- und Schenkungsteuer 2002
 
 
 
@@ -623,24 +656,31 @@ Gemeindeschlüssel der Wohnsitzgemeinde übermittelt werden.
 ## § 7a Zusammenführung von Einzelangaben
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
-dürfen Einzelangaben aus den Statistiken nach § 1 Abs. 1 Nr. 1, 3, 6
-und 7 miteinander und mit Einzelangaben aus der
+dürfen Einzelangaben aus den Statistiken nach § 1 Absatz 1 Nummer 1, 3
+und 5 bis 9 miteinander und mit Einzelangaben aus der
 Einkommensteuerstatistik nach § 1 Abs. 1 Nr. 2, soweit sie sich auf
-Einzelunternehmen, Personengesellschaften und Gemeinschaften beziehen,
-zu den in § 7 Abs. 6 Satz 1 genannten Zwecken sowie für
-wissenschaftliche Analysen zusammenführen. Die nach Satz 1
-zusammengeführten Daten dürfen auch mit Daten aus dem
+Einzelunternehmen, Personengesellschaften, Gemeinschaften und
+juristische Personen beziehen, zu den in § 7 Abs. 6 Satz 1 genannten
+Zwecken sowie für wissenschaftliche Analysen zusammenführen. Die nach
+Satz 1 zusammengeführten Daten dürfen auch mit Daten aus dem
 Statistikregister nach § 1 Abs. 1 des Statistikregistergesetzes und
 mit Daten, die nach dem Verwaltungsdatenverwendungsgesetz übermittelt
 worden sind, zusammengeführt werden.
 
 (2) Für Verlaufsuntersuchungen über mehrere Jahre dürfen das
 Statistische Bundesamt und die statistischen Ämter der Länder
-Einzelangaben aus den Statistiken nach § 1 Abs. 1 Nr. 1, 2, 3, 6 und 7
-zu demselben Steuerpflichtigen zusammenführen.
+Einzelangaben aus den Statistiken nach § 1 Absatz 1 Nummer 1, 2, 3 und
+5 bis 9 zu demselben Steuerpflichtigen zusammenführen.
+
+(2a) Für Verlaufsuntersuchungen über mehrere Jahre dürfen das
+Statistische Bundesamt und die statistischen Ämter der Länder ab dem
+Jahr 2012 Einzelangaben aus der Statistik nach § 1 Absatz 1 Nummer 2,
+soweit sie sich auf steuerpflichtige natürliche Personen beziehen, mit
+den Einzelangaben aus der Statistik nach § 2a zu demselben
+Steuerpflichtigen zusammenführen.
 
 (3) Das Statistische Bundesamt und die statistischen Ämter der Länder
-dürfen die nach den Absätzen 1 und 2 zusammengeführten Daten für
+dürfen die nach den Absätzen 1, 2 und 2a zusammengeführten Daten für
 Zusatzaufbereitungen nach § 7 Abs. 6 ohne Hilfsmerkmale an das
 Bundesministerium der Finanzen und die obersten Finanzbehörden der
 Länder übermitteln. § 7 Abs. 4 Satz 4 bis 8 gilt entsprechend. Das

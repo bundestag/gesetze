@@ -246,8 +246,9 @@ Verordnung auch in Berlin (West).
 
 Die Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
+Berliner Altbanken, die Schuldverschreibungen ausgegeben haben
 
-## Anlage 1 Berliner Altbanken, die Schuldverschreibungen ausgegeben haben (Emissionsinstitute)
+## Anlage 1 (Emissionsinstitute)
 
 Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 

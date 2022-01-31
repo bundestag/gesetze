@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1442
 
+Geändert durch
+:   Art. 6 Abs. 18 G v. 23.5.2017 I 1228
+
 
 
 ## Eingangsformel
@@ -78,15 +81,15 @@ Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
 (7) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, die
-Unfallverhütungsvorschriften, der Arbeitsstättenverordnung und
-sonstige Vorschriften zum Schutze des Auszubildenden eingehalten
-werden können. Sie muss über geeignete Sozialräume und Sanitärräume
-verfügen. Bei der Antragstellung gemäß § 82 Abs. 1 des
-Berufsbildungsgesetzes muss eine Unbedenklichkeitsbescheinigung der
-zuständigen Berufsgenossenschaft über die Einhaltung der
-Unfallverhütungsvorschriften vorliegen, die nicht älter als ein Jahr
-ist.
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, die Unfallverhütungsvorschriften, der
+Arbeitsstättenverordnung und sonstige Vorschriften zum Schutze des
+Auszubildenden eingehalten werden können. Sie muss über geeignete
+Sozialräume und Sanitärräume verfügen. Bei der Antragstellung gemäß §
+82 Abs. 1 des Berufsbildungsgesetzes muss eine
+Unbedenklichkeitsbescheinigung der zuständigen Berufsgenossenschaft
+über die Einhaltung der Unfallverhütungsvorschriften vorliegen, die
+nicht älter als ein Jahr ist.
 
 (8) Ein Betrieb ist als Ausbildungsstätte ungeeignet, wenn über das
 Vermögen des Inhabers ein Insolvenz- oder Vergleichsverfahren eröffnet

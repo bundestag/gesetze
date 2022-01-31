@@ -43,8 +43,9 @@ gemäß § 8 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten
 sowie die nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter
 des Auslandsbevollmächtigten.
 
+Hinterlegung der Bonds
 
-## § 2 Hinterlegung der Bonds (§ 23 Abs. 2 bis 5 des Gesetzes)
+## § 2 (§ 23 Abs. 2 bis 5 des Gesetzes)
 
 (1) Eine Hinterlegung von Dollarbonds nach § 23 Abs. 2 bis 5 des
 Gesetzes ist in den Vereinigten Staaten von Amerika vorbehaltlich des
@@ -53,7 +54,7 @@ zulässig (Allgemeine Hinterlegungsstelle). Als Allgemeine
 Hinterlegungsstelle bestimmt der Bundesminister der Finanzen eine
 Bank, die auf Grund der Gesetze der Vereinigten Staaten von Amerika
 oder eines ihrer Staaten gegründet ist, ihre Hauptniederlassung in der
-Stadt New York im Staat New York hat und deren Kapital einschließlich
+Stadt New York im Staate New York hat und deren Kapital einschließlich
 Reserven mindestens 100 Millionen Dollar beträgt. Der Bundesminister
 der Finanzen kann nach seinem Ermessen die Bestimmung der Allgemeinen
 Hinterlegungsstelle aufheben und eine andere Bank, die den Bedingungen
@@ -68,8 +69,9 @@ Hinterlegungsstellen).
 Hinterlegungsstellen sind im Bundesanzeiger sowie in der von der
 Regierung der Vereinigten Staaten bezeichneten Weise bekanntzumachen.
 
+Bereinigungsstelle
 
-## § 3 Bereinigungsstelle (§ 9 Abs. 5 des Gesetzes)
+## § 3 (§ 9 Abs. 5 des Gesetzes)
 
 (1) Die Aufgaben des Auslandsbevollmächtigten mit Ausnahme der sich
 aus § 18 Abs. 1, 2, § 33 Abs. 2, § 63 Abs. 5 des Gesetzes ergebenden
@@ -83,8 +85,9 @@ eines ihrer Mitglieder mit bestimmten Aufgaben beauftragen.
 (2) Für das Verfahren vor der Bereinigungsstelle gilt § 9 Abs. 3 des
 Gesetzes sinngemäß, soweit diese Verordnung nichts anderes bestimmt.
 
+Inhalt der Anmeldung und Beweisführung
 
-## § 4 Inhalt der Anmeldung und Beweisführung (§§ 22, 24 des Gesetzes)
+## § 4 (§§ 22, 24 des Gesetzes)
 
 (1) Für die Anmeldung soll der Vordruck verwendet werden, der von der
 Bereinigungsstelle zur Verfügung gestellt wird.
@@ -161,8 +164,9 @@ und sich für die Bereinigungsstelle kein Grund ergibt, die vom
 Anmelder in seiner Anmeldung gemachten Angaben zu bezweifeln, so ist
 der angemeldete Auslandsbond anzuerkennen.
 
+Verfahren nach der Anmeldung
 
-## § 5 Verfahren nach der Anmeldung (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
+## § 5 (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
 
 (1) Nach Eingang der Anmeldung trifft die Bereinigungsstelle
 diejenigen Maßnahmen, die durch § 24 Abs. 2 des Gesetzes
@@ -173,15 +177,15 @@ Satz 3 des Gesetzes genannten Befugnissen Gebrauch, so hat sie den
 Anmelder aufzufordern, die Beweismittel oder Angaben innerhalb dreier
 Monate nach Eingang der Aufforderung einzureichen. Sie hat diese Frist
 zu verlängern oder eine erneute Frist zu gewähren, wenn der Anmelder
-aus hinreichendem Grund darum nachsucht.
+aus hinreichendem Grunde darum nachsucht.
 
 (3) Sobald die Bereinigungsstelle die Unterlagen für hinreichend
 vollständig erachtet, soll sie über die Anerkennung entscheiden; in
-jedem Fall soll sie die Entscheidung innerhalb von sechs Monaten nach
+jedem Falle soll sie die Entscheidung innerhalb von sechs Monaten nach
 der Anmeldung erlassen, es sei denn, daß besondere Umstände des
-Einzelfalls einer Entscheidung innerhalb dieser Frist entgegenstehen.
+Einzelfalles einer Entscheidung innerhalb dieser Frist entgegenstehen.
 
-(4) In keinem Fall darf die Anerkennung abgelehnt werden, ohne daß
+(4) In keinem Falle darf die Anerkennung abgelehnt werden, ohne daß
 zuvor die Bereinigungsstelle den Anmelder über die einer Anerkennung
 entgegenstehenden Tatsachen und Beweismittel unterrichtet und ihm
 Gelegenheit gegeben hat, dazu Stellung zu nehmen. Absatz 2 findet
@@ -195,8 +199,9 @@ denn, daß der Anmelder vor dieser Anordnung den Umtausch des Bonds
 gegen einen neuen Bond verlangt hat und daß der neue Bond im Zeitpunkt
 der Anordnung zur Aushändigung an den Anmelder zur Verfügung steht.
 
+Gesetzliche Schiedsgerichte
 
-## § 6 Gesetzliche Schiedsgerichte (§ 35 des Gesetzes)
+## § 6 (§ 35 des Gesetzes)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen der
 Bereinigungsstelle wird für jeden der zwölf Federal-Reserve-Bezirke
@@ -267,8 +272,9 @@ Zahlungsagenten von der Entscheidung.
 (12) Im übrigen bestimmen die Schiedsgerichte ihr Verfahren nach
 freiem Ermessen.
 
+Zustellungen
 
-## § 7 Zustellungen (§ 70 des Gesetzes)
+## § 7 (§ 70 des Gesetzes)
 
 (1) Zustellungen auf Grund dieser Verordnung erfolgen durch
 eingeschriebenen Brief gegen Rückschein.
@@ -276,8 +282,9 @@ eingeschriebenen Brief gegen Rückschein.
 (2) Die sonstigen Zustellungen in den Vereinigten Staaten auf Grund
 des Gesetzes erfolgen in derselben Weise.
 
+Nebenurkunden
 
-## § 8 Nebenurkunden (§ 5 Abs. 1 des Gesetzes)
+## § 8 (§ 5 Abs. 1 des Gesetzes)
 
 Die Anerkennung eines Dollarbonds erstreckt sich auf die dazu
 ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine sowie

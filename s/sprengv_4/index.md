@@ -15,12 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 503
 
+V aufgeh. durch
+:   Art. 3 Abs. 15 G v. 18.7.2016 I 1666 mWv 1.10.2019
+
 Neugefasst durch
-:   Bek. v. 31. 1.1991 I 216;
+:   Bek. v. 31.1.1991 I 216;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 15. 6.2005 I 1626
+:   Art. 4 G v. 15.6.2005 I 1626
 
+V ursprünglich aufgeh. durch
+:   Art. 3 Abs. 16 G v. 7.8.2013 I 3154 mWv 14.8.2016; Art. 3 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
+
+Stand: Diese V gilt gem. § 47b idF 18.7.2016 G 7134-2 v. 13.9.1976 I 2737 in den Ländern bis spätestens zum 1. Oktober 2021 fort, solange die Länder insoweit keine anderweitigen Regelungen getroffen haben
 
 ## § 1
 

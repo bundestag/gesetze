@@ -15,6 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 2517
 
+Stand: Die Verordnung tritt gem. Art. 2 Abs. 2 dieser V an dem Tage außer Kraft, an dem ein Abkommen zwischen dem Internationalen Seegerichtshof und der Bundesrepublik Deutschland über Vorrechte und Immunitäten in Kraft tritt
 
 
 ## Eingangsformel

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2412
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.10.2012 I 2122
+:   Art. 27 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -108,12 +108,24 @@ Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und
 sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit
 verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
 
+(6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach
+dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein
+Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem
+Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige
+Personen für den Zeitraum der Berufungsperiode des Beirats. Er
+berücksichtigt dabei die Anliegen von Verbänden, die die Belange von
+Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch
+soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das
+Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der
+Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die
+Geschäftsordnung des Beirats gilt auch für die vom Deutschen
+Behindertenrat benannten Personen.
+
 
 ## § 4 Beschlüsse
 
-Die Beschlüsse des Beirats werden mit einfacher Mehrheit der
-anwesenden Beiratsmitglieder gefasst. Zur Beschlussfassung ist die
-Anwesenheit von mindestens zwölf Mitgliedern erforderlich.
+Die Beschlüsse des Beirats werden mit einfacher Mehrheit der nach § 3
+Absatz 2 berufenen Mitglieder gefasst.
 
 
 ## § 5 Inkrafttreten
@@ -125,8 +137,9 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+zu § 2
 
-## Anlage zu § 2 der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+## Anlage der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -345,7 +358,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-*    *   **Teil C: Begutachtung im sozialen Entschädigungsrecht**
+*    *   **Teil C: Begutachtung im Sozialen Entschädigungsrecht**
 
 
 *    *
@@ -354,89 +367,64 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   Ursachenbegriff
+    *   Grundsätze zur Begutachtung im Sozialen Entschädigungsrecht
 
-    *   104
-
+    *
 
 *    *   2.
 
-    *   Tatsachen zur Beurteilung des ursächlichen Zusammenhangs
+    *   Tatsachen für die Begutachtung des ursächlichen Zusammenhangs
 
-    *   104
-
+    *
 
 *    *   3.
 
-    *   Wahrscheinlichkeit des ursächlichen Zusammenhangs
+    *   Ursächlicher Zusammenhang
 
-    *   105
-
+    *
 
 *    *   4.
 
-    *   Kannversorgung
+    *   Kann-Versorgung
 
-    *   106
-
+    *
 
 *    *   5.
 
-    *   Mittelbare Schädigungsfolgen
+    *   Anerkennung der Schädigungsfolge im Sinne der Entstehung und
+        Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung
 
-    *   107
-
+    *
 
 *    *   6.
 
-    *   Absichtlich herbeigeführte Schädigungen
+    *   Bestimmung des Grades der Schädigungsfolgen
 
-    *   107
-
+    *
 
 *    *   7.
 
-    *   Anerkennung im Sinne der Entstehung und Anerkennung im Sinne der
-        Verschlimmerung
+    *   Folgeschaden
 
-    *   108
-
+    *
 
 *    *   8.
 
-    *   Arten der Verschlimmerung
+    *   Folgen von medizinischen Maßnahmen
 
-    *   108
-
+    *
 
 *    *   9.
 
-    *   Fehlen einer fachgerechten Behandlung
+    *   Absichtlich herbeigeführte Gesundheitsstörungen
 
-    *   108
-
+    *
 
 *    *   10.
 
-    *   Folgen von diagnostischen Eingriffen, vorbeugenden und therapeutischen
-        Maßnahmen
+    *   Ursächlicher Zusammenhang zwischen Schädigungsfolge und Tod
 
-    *   109
-
-
-*    *   11.
-
-    *   Ursächlicher Zusammenhang zwischen Schädigung und Tod
-
-    *   109
-
-
-*    *   12.
-
-    *   Vorschaden, Nachschaden, Folgeschaden
-
-    *   110
-
+    *
 
 *    *   13.
 
@@ -477,7 +465,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Außergewöhnliche Gehbehinderung (Merkzeichen aG)
+    *   (aufgehoben)
 
     *   115
 
@@ -11205,8 +11193,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *17.2*                              Chronisch rezidivierende Urtikaria
-            /Quincke-Ödem
+    *        *   *17.2*                              Chronisch rezidivierende
+            Urtikaria/Quincke-Ödem
 
         *
 
@@ -14285,536 +14273,403 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-## **Teil C: Begutachtung im sozialen Entschädigungsrecht**
-
-
-**1.** **Ursachenbegriff**
-
-    a)  Der versorgungsrechtliche Ursachenbegriff ist nicht identisch mit dem
-        medizinischen.
+## **Teil C: Begutachtung im Sozialen Entschädigungsrecht**
 
 
-    b)  Ursache im Sinne der Versorgungsgesetze ist die Bedingung im
-        naturwissenschaftlich-philosophischen Sinne, die wegen ihrer
-        besonderen Beziehung zum Erfolg an dessen Eintritt wesentlich
-        mitgewirkt hat. Haben mehrere Umstände zu einem Erfolg beigetragen,
-        sind sie versorgungsrechtlich nur dann nebeneinander stehende
-        Mitursachen (und wie Ursachen zu werten), wenn sie in ihrer Bedeutung
-        und Tragweite für den Eintritt des Erfolges annähernd gleichwertig
-        sind. Kommt einem der Umstände gegenüber dem anderen eine überragende
-        Bedeutung zu, ist dieser Umstand allein Ursache im Sinne des
-        Versorgungsrechts.
+1   **Grundsätze zur Begutachtung im Sozialen Entschädigungsrecht**
 
+    Die Grundsätze, die im Sozialen Entschädigungsrecht zur Anerkennung
+    einer Gesundheitsstörung als Folge einer Schädigung maßgebend sind,
+    werden in diesem Teil der Versorgungsmedizinischen Grundsätze
+    aufgestellt. Die Auswirkungen der als Schädigungsfolgen anerkannten
+    Gesundheitsstörungen werden mit einem Grad der Schädigungsfolgen
+    bewertet. Die ärztliche Bewertung der Auswirkungen der
+    Schädigungsfolgen erfolgt nach Teil A und Teil B.
 
-    c)  Die Ursache braucht nicht zeitlich eng begrenzt zu sein. Es können
-        auch dauernde oder wiederkehrende kleinere äußere Einwirkungen in
-        ihrer Gesamtheit eine Gesundheitsstörung verursachen.
+    Als Voraussetzung für die ärztliche Begutachtung des ursächlichen
+    Zusammenhangs müssen alle Tatsachen festgestellt sein. Die
+    Feststellung der Tatsachen erfolgt unabhängig von kausalen Erwägungen.
+    Es muss unterschieden werden zwischen ärztlicher Begutachtung im
+    Rahmen der Tatsachenermittlung und der ärztlichen Begutachtung des
+    ursächlichen Zusammenhangs.
 
 
-    d)  „Gelegenheitsursachen", letzter Anstoß, Anlass sind begrifflich keine
-        wesentlichen Bedingungen. Eine „Gelegenheitsursache" kann nur dann
-        angenommen werden, wenn der Gesundheitsschaden mit Wahrscheinlichkeit
-        auch ohne das angeschuldigte Ereignis durch ein alltäglich
-        vorkommendes Ereignis zu annähernd derselben Zeit und in annähernd
-        gleichem Ausmaß eingetreten wäre. So wird bei konstitutionsbedingten
-        Leiden oft ein unwesentlicher äußerer Anlass von der Antrag stellenden
-        Person als Ursache verantwortlich gemacht, z. B. das Heben von
-        leichten Gegenständen für das Auftreten von Hernien. In solchen Fällen
-        hat die äußere Einwirkung bei der Entstehung der Krankheit nicht
-        wesentlich mitgeholfen, sondern sie hat nur innerhalb einer bereits
-        bestehenden Störung einem besonders charakteristischen
-        Krankheitssymptom zum Durchbruch verholfen. Das Wort „Auslösung" ist
-        bei der Erörterung zu vermeiden, der Begriff ist zu unbestimmt. Bei
-        der Beurteilung ist klarzustellen, welcher der zur Diskussion
-        stehenden ätiologischen Faktoren die wesentliche Bedingung für den
-        Eintritt des Erfolges und damit Ursache im versorgungsrechtlichen
-        Sinne ist.
+2   **Tatsachen für die Begutachtung des ursächlichen Zusammenhangs**
 
 
-    e)  Der Ursachenbegriff spielt eine Rolle bei der Beurteilung des
-        ursächlichen Zusammenhangs zwischen schädigendem Vorgang und
-        Gesundheitsstörung oder Tod, des besonderen beruflichen
-        Betroffenseins, der Hilflosigkeit, der Voraussetzungen für den
-        Pauschbetrag für den Kleider- oder Wäscheverschleiß sowie im Bereich
-        der Kriegsopferfürsorge und der Heilbehandlung wegen
-        Schädigungsfolgen.
-
-
-
+2.1 Tatsachen
 
-
-**2.** **Tatsachen zur Beurteilung des ursächlichen Zusammenhangs**
-
-    a)  Zu den Fakten, die vor der Beurteilung eines ursächlichen
-        Zusammenhangs geklärt („voll bewiesen") sein müssen, gehören der
-        schädigende Vorgang, die gesundheitliche Schädigung und die zu
-        beurteilende Gesundheitsstörung.
+    Vor der ärztlichen Begutachtung des ursächlichen Zusammenhangs müssen
+    folgende Tatsachen festgestellt und voll bewiesen sein:
 
+    a)  das Ereignis, das bei nachgewiesenem ursächlichem Zusammenhang das
+        schädigende Ereignis ist,
 
-    b)  Der schädigende Vorgang ist das Ereignis, das zu einer
-        Gesundheitsschädigung führt, wie z. B. die Detonation eines
-        Sprengkörpers, ein Kraftfahrzeugunfall, die Übertragung von
-        Krankheitserregern oder eine Vergewaltigung. Auch besondere
-        Belastungen, wie sie z. B. im Fronteinsatz, in Kriegsgefangenschaft,
-        bei Dienstverrichtungen in bestimmten Ausbildungsstufen der Bundeswehr
-        oder in rechtsstaatswidriger Haft in der ehemaligen DDR gegeben sein
-        können, zählen dazu. Relativ selten sind daneben Auswirkungen von
-        außerhalb der Dienstverrichtungen liegenden diensteigentümlichen
-        Verhältnissen in Betracht zu ziehen; diensteigentümliche Verhältnisse
-        sind die besonderen, von den Verhältnissen des zivilen Lebens
-        abweichenden und diesen in der Regel fremden Verhältnisse des Dienstes
-        (z. B. das enge Zusammenleben in einer Kaserne). Unfall ist ein auf
-        äußeren Einwirkungen beruhendes plötzliches, örtlich und zeitlich
-        bestimmbares, einen Körperschaden verursachendes Ereignis.
 
+    b)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem
+        Zusammenhang die gesundheitliche Schädigung ist (primäre
+        Gesundheitsstörung), und
 
-    c)  Die gesundheitliche Schädigung ist die primäre Beeinträchtigung der
-        Gesundheit durch den schädigenden Vorgang, wie z. B. die Verwundung,
-        die Verletzung durch Unfall, die Resistenzminderung durch Belastung.
-        Die verbleibende Gesundheitsstörung ist die Schädigungsfolge
-        (Wehrdienstbeschädigungsfolge [WDB-Folge],
-        Zivildienstbeschädigungsfolge [ZDB-Folge] usw.).
 
+    c)  die Gesundheitsstörung, die bei nachgewiesenem ursächlichem
+        Zusammenhang die Schädigungsfolge ist (sekundäre Gesundheitsstörung).
 
-    d)  Zwischen dem schädigenden Vorgang und der Gesundheitsstörung muss eine
-        nicht unterbrochene Kausalkette bestehen, die mit den Erkenntnissen
-        der medizinischen Wissenschaft und den ärztlichen Erfahrungen im
-        Einklang steht. Dabei sind Brückensymptome oft notwendige
-        Bindeglieder. Fehlen Brückensymptome, so ist die Zusammenhangsfrage
-        besonders sorgfältig zu prüfen und die Stellungnahme anhand
-        eindeutiger objektiver Befunde überzeugend wissenschaftlich zu
-        begründen.
 
 
-    e)  Für eine Reihe von Erkrankungen, für die eine traumatische Entstehung
-        in Betracht kommt, muss auch eine lokale Beziehung zwischen dem Ort
-        der traumatischen Einwirkung und dem Krankheitsherd vorliegen, z. B.
-        bei Geschwülsten oder Osteomyelitis.
 
 
-    f)  Die Fakten, auf die sich die Beurteilung des ursächlichen
-        Zusammenhangs gründet, müssen voll bewiesen sein. Das bedeutet, dass
-        sie belegt sein müssen oder dass - wenn Belege nicht zu beschaffen
-        sind - zumindest nach den gegebenen Umständen (z. B. auch aufgrund
-        einer Glaubhaftmachung) die Überzeugung zu gewinnen ist, dass es so
-        und nicht anders gewesen ist.
+2.2 Ereignis
 
+    Die in Betracht kommenden schädigenden Ereignisse unterscheiden sich
+    je nach den Voraussetzungen der verschiedenen Gesetze des Sozialen
+    Entschädigungsrechts. Ereignis in diesem Sinne kann sein:
 
+    a)  ein zeitlich begrenztes Ereignis,
 
 
+    b)  ein über einen längeren Zeitraum einwirkendes Ereignis (andauerndes
+        Ereignis) oder
 
-**3.** **Wahrscheinlichkeit des ursächlichen Zusammenhangs**
 
-    a)  Für die Annahme, dass eine Gesundheitsstörung Folge einer Schädigung
-        ist, genügt versorgungsrechtlich die Wahrscheinlichkeit des
-        ursächlichen Zusammenhangs. Sie ist gegeben, wenn nach der geltenden
-        medizinischwissenschaftlichen Lehrmeinung mehr für als gegen einen
-        ursächlichen Zusammenhang spricht. Mit besonderer Sorgfalt ist das Für
-        und Wider abzuwägen. Auch bei schwierigen Zusammenhangsfragen soll man
-        bemüht sein, im Gutachten zu einer verwertbaren Beurteilung zu kommen.
+    c)  wiederkehrende Ereignisse, die sich in ihrer Gesamtheit auswirken.
 
 
-    b)  Grundlage für die medizinische Beurteilung sind die von der
-        herrschenden wissenschaftlichen Lehrmeinung vertretenen Erkenntnisse
-        über Ätiologie und Pathogenese. Es genügt nicht, dass ein einzelner
-        Wissenschaftler oder eine einzelne Wissenschaftlerin eine
-        Arbeitshypothese aufgestellt oder einen Erklärungsversuch unternommen
-        hat. Es kommt auch nicht allein auf die subjektive Auffassung der
-        beurteilenden Person an.
 
 
-    c)  Vielfach lässt allein der große zeitliche Abstand ohne Brückensymptome
-        den ursächlichen Zusammenhang unwahrscheinlich erscheinen. Die
-        angemessene zeitliche Verbindung ist in der Regel eine Voraussetzung
-        für die Wahrscheinlichkeit des ursächlichen Zusammenhangs.
-        Andererseits kann die zeitliche Verbindung zwischen einer
-        Gesundheitsstörung und dem geleisteten Dienst für sich allein die
-        Wahrscheinlichkeit des ursächlichen Zusammenhangs nicht begründen. Die
-        Tatsache, dass z. B. ein Soldat beim Eintritt in den Dienst gesund
-        war, dass er den Einflüssen des Dienstes ausgesetzt war und dass eine
-        Krankheit während der Dienstzeit entstanden oder hervorgetreten ist,
-        reicht für die Annahme einer Schädigungsfolge nicht aus. Es muss
-        vielmehr der ungünstige Einfluss einer bestimmten Dienstverrichtung
-        oder allgemeiner dienstlicher Verhältnisse auf die Entstehung oder
-        Verschlimmerung der Krankheit dargelegt werden, da Krankheiten aller
-        Art, insbesondere innere Leiden, zu jeder Zeit auch ohne wesentliche
-        Mitwirkung eines schädigenden Vorgangs entstehen können.
+    Es gibt aktiv einwirkende Ereignisse und passive Ereignisse durch
+    Unterlassen.
 
 
-    d)  Aus dem Umstand, dass der Zusammenhang der Gesundheitsstörung mit
-        einem schädigenden Vorgang nach wissenschaftlicher Erkenntnis nicht
-        ausgeschlossen werden kann, lässt sich nicht folgern, dass er darum
-        wahrscheinlich sei. Ebenso wenig kann das Vorliegen einer
-        Schädigungsfolge bejaht werden, wenn ein ursächlicher Zusammenhang nur
-        möglich ist.
-
-
-
-
-
-**4.** **Kannversorgung**
-
-    a)  Abweichend von den oben erläuterten Grundsätzen kann nach § 1 Abs. 3
-        Satz 2 Bundesversorgungsgesetz (BVG) eine Gesundheitsstörung als
-        Schädigungsfolge anerkannt werden, wenn die zur Anerkennung einer
-        Gesundheitsstörung als Folge einer Schädigung erforderliche
-        Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die
-        Ursache des festgestellten Leidens in der medizinischen Wissenschaft
-        Ungewissheit besteht (Kannversorgung). Eine gleichlautende Bestimmung
-        enthalten auch alle weiteren Gesetze des sozialen
-        Entschädigungsrechts.
-
-
-    b)  Folgende medizinische Voraussetzungen müssen erfüllt sein:
-
-        aa) Über die Ätiologie und Pathogenese des Leidens darf keine durch
-            Forschung und Erfahrung genügend gesicherte medizinisch-
-            wissenschaftliche Auffassung herrschen. Eine von der medizinisch-
-            wissenschaftlichen Lehrmeinung abweichende persönliche Ansicht einer
-            sachverständigen Person erfüllt nicht den Tatbestand einer
-            Ungewissheit in der medizinischen Wissenschaft.
-
-
-        bb) Wegen mangelnder wissenschaftlicher Erkenntnisse und Erfahrungen darf
-            die ursächliche Bedeutung von Schädigungstatbeständen oder
-            Schädigungsfolgen für die Entstehung und den Verlauf des Leidens nicht
-            mit Wahrscheinlichkeit beurteilt werden können. Ein ursächlicher
-            Einfluss der im Einzelfall vorliegenden Umstände muss in den
-            wissenschaftlichen Arbeitshypothesen als theoretisch begründet in
-            Erwägung gezogen werden. Ist die ursächliche Bedeutung bestimmter
-            Einflüsse trotz mangelnder Kenntnis der Ätiologie und Pathogenese
-            wissenschaftlich nicht umstritten, so muss gutachterlich beurteilt
-            werden, ob der ursächliche Zusammenhang wahrscheinlich oder
-            unwahrscheinlich ist.
-
-
-        cc) Zwischen der Einwirkung der wissenschaftlich in ihrer ursächlichen
-            Bedeutung umstrittenen Umstände und der Manifestation des Leidens oder
-            der Verschlimmerung des Krankheitsbildes muss eine zeitliche
-            Verbindung gewahrt sein, die mit den allgemeinen Erfahrungen über
-            biologische Verläufe und den in den wissenschaftlichen Theorien
-            vertretenen Auffassungen über Art und Wesen des Leidens in Einklang
-            steht.
-
-
-
-
-
-    c)  Ungewissheiten im Sachverhalt, die von der Ungewissheit in der
-        medizinischen Wissenschaft über die Ursachen des Leidens unabhängig
-        sind, rechtfertigen die Anwendung der Kannvorschrift nicht; dies ist
-        insbesondere der Fall, wenn rechtserhebliche Zweifel über den
-        Zeitpunkt des Leidensbeginns bestehen, weil die geltend gemachten
-        Erstsymptome mehrdeutig sind, oder wenn das Leiden diagnostisch nicht
-        ausreichend geklärt ist.
-
-
-    d)  Ist bei einem Leiden eine Kannversorgung generell in Betracht zu
-        ziehen, muss trotzdem anhand des Sachverhaltes des Einzelfalles stets
-        zuerst geprüft werden, ob der ursächliche Zusammenhang mit
-        Wahrscheinlichkeit zu beurteilen ist. Lässt sich dabei die Frage des
-        ursächlichen Zusammenhangs bereits in ihrer Gesamtheit entscheiden, so
-        entfällt eine Kannversorgung. Ist die Wahrscheinlichkeit des
-        ursächlichen Zusammenhangs nur für einen Teil des Gesamtleidens
-        gegeben, so ist zu prüfen, ob für den verbleibenden Teil des Leidens
-        die Voraussetzungen für eine Kannversorgung erfüllt sind.
-
-
-    e)  Ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs zwischen
-        einem als Schädigungsfolge anerkannten Leiden und einem neuen Leiden
-        nicht gegeben, weil über die Ursache des neuen Leidens in der
-        medizinischen Wissenschaft Ungewissheit besteht, so ist eine
-        Kannversorgung nur dann gerechtfertigt, wenn das als Ursache in
-        Betracht kommende Leiden aus heutiger Sicht zu Recht anerkannt worden
-        ist. Das heißt bei der Überprüfung der früheren Entscheidung müsste
-        unter Berücksichtigung jeweils neuester medizinischer Erkenntnisse das
-        anerkannte Leiden erneut als Schädigungsfolge anerkannt werden. Kommt
-        bei einem Leiden, für das bereits teilweise eine Versorgung als
-        Rechtsanspruch besteht, über diesen Anteil hinaus eine Kannversorgung
-        in Betracht, so kann diese nur gewährt werden, wenn der als
-        Schädigungsfolge anerkannte Teil des Leidens, der als mögliche Ursache
-        für eine weitergehende Versorgung erörtert wird, zu Recht anerkannt
-        worden ist, oder wenn für den als Schädigungsfolge anerkannten Teil
-        des Leidens die Voraussetzungen für eine Kannversorgung erfüllt sind.
-
-
-    f)  Kann die ursächliche Bedeutung von Schädigungstatbeständen oder von zu
-        Recht als Schädigungsfolge anerkannten Leiden für die Verschlimmerung
-        eines schädigungsunabhängig entstandenen Leidens wegen der insoweit in
-        der medizinischen Wissenschaft bestehenden Ungewissheit nicht mit
-        Wahrscheinlichkeit beurteilt werden, so sind bei der Bemessung des
-        Verschlimmerungsanteils das Ausmaß des Vorschadens, die Art des
-        Leidens, die ihm innewohnende Entwicklungstendenz und der weitere
-        Leidensverlauf zu berücksichtigen. Bei klar abgrenzbaren
-        Verschlimmerungsanteilen ist der GdS in der auch sonst üblichen Weise
-        zu bilden; bei späteren, erneut abgrenzbaren (z. B. schubartigen)
-        Verschlechterungen des Leidens ist dann zu prüfen, ob diese nun mehr
-        mit Wahrscheinlichkeit beurteilt werden können (z. B. nach langem,
-        schubfreiem Intervall oder bei Einwirkung von neuen, in ihrer
-        ursächlichen Bedeutung bekannten Faktoren). Bei nicht klar
-        abgrenzbaren Verschlimmerungen - wenn also die ursächliche Bedeutung
-        von Schädigungstatbeständen auch für den weiteren Verlauf nicht mit
-        Wahrscheinlichkeit beurteilt werden kann (z. B. bei chronisch-
-        progredienten Verlaufsformen) - kann je nach Ausmaß des Vorschadens
-        und der hieraus ableitbaren Entwicklungstendenz des Leidens ein
-        Bruchteil des jeweiligen Gesamtleidens oder auch der gesamte
-        Leidenszustand in die Kannversorgung einbezogen werden.
-
-
-
-
-
-**5.** **Mittelbare Schädigungsfolgen**
-
-    Mittelbare Schädigungsfolgen sind Gesundheitsstörungen, die durch ein
-    äußeres Ereignis, das seine Ursache in einem schädigungsbedingten
-    Leiden hat, herbeigeführt worden sind. Die mittelbaren
-    Schädigungsfolgen werden versorgungsrechtlich wie unmittelbare
-    Schädigungsfolgen behandelt. Ein in der Eigenart eines Leidens
-    liegender Folgeschaden ist keine mittelbare, sondern eine unmittelbare
+2.3 Primäre Gesundheitsstörung
+
+    Primäre Gesundheitsstörungen sind solche, die nach dem aktuellen Stand
+    der medizinischen Wissenschaft durch ein unter Nummer 2.2
+    beschriebenes Ereignis hervorgerufen werden können und zeitlich als
+    erste auftreten.
+
+
+2.4 Sekundäre Gesundheitsstörung
+
+    Sekundäre Gesundheitsstörungen sind solche, die nach dem aktuellen
+    Stand der medizinischen Wissenschaft aus der primären
+    Gesundheitsstörung entstehen können.
+
+
+3   **Ursächlicher Zusammenhang**
+
+
+3.1 Allgemeines
+
+    Nur wenn die unter Nummer 2.1 genannten Tatsachen ermittelt und im
+    Sinne von Nummer 2.1 bewiesen sind, kann die ärztliche Begutachtung
+    des ursächlichen Zusammenhangs erfolgen. Die Gesundheitsstörungen, die
+    vor Eintritt des schädigenden Vorgangs bestanden haben oder bei
+    Eintritt bestehen, sind von der primären und sekundären
+    Gesundheitsstörung abzugrenzen.
+
+
+3.2 Kausalkette
+
+    Zwischen dem Ereignis, der primären und der sekundären
+    Gesundheitsstörung muss ein nach dem aktuellen Stand der medizinischen
+    Wissenschaft nicht unterbrochener ursächlicher Zusammenhang bestehen.
+    Die primäre Gesundheitsstörung muss durch das Ereignis verursacht sein
+    und die sekundäre Gesundheitsstörung muss durch die primäre
+    Gesundheitsstörung verursacht sein. Erst in diesem Fall ist der
+    ursächliche Zusammenhang gegeben.
+
+
+3.3 Schädigendes Ereignis, gesundheitliche Schädigung, Schädigungsfolge
+
+    Ist der ursächliche Zusammenhang im Sinne von Nummer 3.2 zu bejahen,
+    ist
+
+    a)  das Ereignis das schädigende Ereignis,
+
+
+    b)  die primäre Gesundheitsstörung die gesundheitliche Schädigung und
+
+
+    c)  die sekundäre Gesundheitsstörung die Gesundheitsstörung als Folge der
+        Schädigung (Schädigungsfolge).
+
+
+
+
+
+3.4 Wahrscheinlichkeit des ursächlichen Zusammenhangs
+
+
+3.4.1 Für die Annahme des ursächlichen Zusammenhangs genügt
+    entschädigungsrechtlich die Wahrscheinlichkeit. Sie ist gegeben, wenn
+    nach dem aktuellen Stand der medizinischen Wissenschaft mehr für als
+    gegen einen ursächlichen Zusammenhang spricht. Es reicht für die
+    Annahme des ursächlichen Zusammenhangs nicht aus, dass dieser nur
+    möglich ist.
+
+
+3.4.2 Haben konkurrierende Ursachen zur primären Gesundheitsstörung
+    beigetragen und kommt einem Ereignis gegenüber der Gesamtheit der
+    anderen Ursachen eine mindestens gleichwertige Bedeutung zu, ist
+    alleine jenes Ereignis schädigendes Ereignis und wesentliche Ursache
+    im entschädigungsrechtlichen Sinn.
+
+
+3.4.3 Nummer 3.4.2 gilt entsprechend, wenn die sekundäre Gesundheitsstörung
+    auf konkurrierenden Ursachen beruht.
+
+
+4   **Kann-Versorgung**
+
+
+4.1 Im Sozialen Entschädigungsrecht muss anhand des Sachverhaltes in jedem
+    Einzelfall stets zuerst geprüft werden, ob nach Nummer 3.4 der
+    ursächliche Zusammenhang mit Wahrscheinlichkeit beurteilt werden kann.
+    Lässt sich dabei die Frage des ursächlichen Zusammenhangs bereits in
+    ihrer Gesamtheit bejahen oder verneinen, ist die entsprechende Prüfung
+    abgeschlossen und eine Kann-Versorgung kommt nicht in Betracht.
+
+
+4.2 Lässt sich die Frage des ursächlichen Zusammenhangs im Sinne von
+    Nummer 3.4 nicht bejahen oder verneinen, kann in Ausnahmefällen eine
+    Gesundheitsstörung im Sinne der Kann-Versorgung als Schädigungsfolge
+    anerkannt werden. Voraussetzung dafür ist, dass die zur Anerkennung
+    einer Gesundheitsstörung als Folge einer Schädigung erforderliche
+    Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die
+    Ursache der festgestellten Gesundheitsstörung in der medizinischen
+    Wissenschaft Ungewissheit besteht.
+
+
+4.3 Eine Kann-Versorgung kommt nur dann in Betracht, wenn die einer
+    Gesundheitsstörung zugrundeliegende Ursache (Ätiologie) nicht durch
+    den aktuellen Stand der medizinischen Wissenschaft gesichert ist und
+    wenn fundierte wissenschaftliche Arbeitshypothesen einen ursächlichen
+    Zusammenhang begründen. Eine von dem aktuellen Stand der medizinischen
+    Wissenschaft abweichende subjektive Auffassung eines einzelnen
+    Wissenschaftlers oder einer einzelnen Wissenschaftlerin ist nicht mit
+    Ungewissheit in der medizinischen Wissenschaft gleichzusetzen.
+
+
+4.4 Eine Kann-Versorgung rechtfertigen nicht:
+
+    a)  Zweifel über den Zeitpunkt der Entstehung der Gesundheitsstörung,
+
+
+    b)  mangelnde diagnostische Klärung,
+
+
+    c)  unzureichende Sachverhaltsaufklärung oder
+
+
+    d)  sonstige Ungewissheiten im Sachverhalt.
+
+
+
+
+
+4.5 Ist die Wahrscheinlichkeit des ursächlichen Zusammenhangs nur für
+    einen Teil einer Gesundheitsstörung gegeben, so ist zu prüfen, ob für
+    den verbleibenden Teil der Gesundheitsstörung die Voraussetzungen für
+    eine Kann-Versorgung vorliegen.
+
+
+5   **Anerkennung der Schädigungsfolge im Sinne der Entstehung und
+    Anerkennung der Schädigungsfolge im Sinne der Verschlimmerung**
+
+
+5.1 Allgemeines
+
+    Bei Vorliegen des ursächlichen Zusammenhangs ist auf der Grundlage des
+    aktuellen Stands der medizinischen Wissenschaft zu beurteilen, ob das
+    schädigende Ereignis zur Entstehung oder zur Verschlimmerung der
+    Gesundheitsstörung geführt hat.
+
+
+5.2 Anerkennung im Sinne der Entstehung
+
+    Die Anerkennung einer Gesundheitsstörung als Schädigungsfolge im Sinne
+    der Entstehung setzt voraus, dass keine medizinischen Tatsachen
+    festzustellen sind, die rückblickend nach dem aktuellen Stand der
+    medizinischen Wissenschaft belegen, dass die Gesundheitsstörung zur
+    Zeit der Einwirkung des schädigenden Ereignisses bereits bestand.
+
+
+5.3 Anerkennung im Sinne der Verschlimmerung
+
+    Wenn medizinische Tatsachen festzustellen sind, die rückblickend nach
+    dem aktuellen Stand der medizinischen Wissenschaft belegen, dass die
+    Gesundheitsstörung zur Zeit der Einwirkung des schädigenden
+    Ereignisses bereits – auch unbemerkt – bestand, kommt nur eine
+    Anerkennung der Gesundheitsstörung als Schädigungsfolge im Sinne der
+    Verschlimmerung in Betracht. Eine solche Anerkennung setzt voraus,
+    dass das schädigende Ereignis dazu führt,
+
+    a)  dass der Zeitpunkt vorverlegt wird, an dem die Gesundheitsstörung
+        sonst in Erscheinung getreten wäre, oder
+
+
+    b)  dass die Gesundheitsstörung in stärkerer Ausprägung auftritt, als es
+        sonst zu erwarten wäre.
+
+
+
+
+
+5.4 Zunahme der Ausprägung der Gesundheitsstörung
+
+    Bei jeder weiteren Zunahme der Ausprägung der als Schädigungsfolge
+    anerkannten Gesundheitsstörung ist zu prüfen, ob auch diese Zunahme
+    noch ursächlich auf das schädigende Ereignis zurückzuführen ist. Bei
+    jeder weiteren Zunahme der Ausprägung der Gesundheitsstörung muss der
+    ursächliche Zusammenhang dieser Weiterentwicklung beurteilt werden.
+
+
+6   **Bestimmung des Grades der Schädigungsfolgen**
+
+
+6.1 Vorübergehende Gesundheitsstörungen
+
+    Vorübergehende Gesundheitsstörungen sind bei der Feststellung des
+    Grades der Schädigungsfolgen nicht zu berücksichtigen. Als
+    vorübergehend gilt ein Zeitraum von bis zu sechs Monaten.
+
+
+6.2 Bereits bestehende Gesundheitsstörungen
+
+
+6.2.1 Vor der Feststellung des Grades der Schädigungsfolgen ist zu prüfen,
+    ob vor dem schädigenden Ereignis bereits eine Teilhabebeeinträchtigung
+    durch eine nicht schädigungsbedingte Gesundheitsstörung (bereits
+    bestehende Gesundheitsstörung) vorlag. Diese Teilhabebeeinträchtigung
+    muss festgestellt werden. Auch für die Gesamtauswirkung der
+    vorhandenen Gesundheitsstörungen ist ein Grad der Behinderung
+    anzugeben. Der Grad der Schädigungsfolgen gibt allein das Ausmaß der
+    Auswirkungen der Schädigungsfolgen wieder.
+
+
+6.2.2 Befinden sich die bereits bestehende Gesundheitsstörung und die
+    Schädigungsfolge an verschiedenen Körperteilen und beeinflussen sich
+    nicht gegenseitig, hat die bereits bestehende Gesundheitsstörung keine
+    Auswirkung auf den Grad der Schädigungsfolgen.
+
+
+6.2.3 Hat die Schädigung eine Gliedmaße oder ein Organ mit bereits
+    bestehender Gesundheitsstörung betroffen, muss der Grad der
+    Schädigungsfolgen niedriger sein als der Grad der Behinderung, der
+    sich aus der nun bestehenden gesamten Gesundheitsstörung ergeben
+    würde. Der Grad der Schädigungsfolgen lässt sich dabei nicht einfach
+    dadurch ermitteln, dass die Teilhabebeeinträchtigung der bereits
+    bestehenden Gesundheitsstörung vom Grad der Behinderung der gesamten
+    Gesundheitsstörung abgezogen wird. Maßgeblich ist vielmehr, zu welchen
+    zusätzlichen Auswirkungen die Schädigung geführt hat. Wenn jedoch die
+    bereits bestehende Gesundheitsstörung nach ihrem Umfang oder nach
+    ihrer Art keine wesentliche Bedeutung für die gesamte
+    Gesundheitsstörung hat, ist der Grad der Schädigungsfolgen genauso
+    hoch wie der Grad der Behinderung, der sich aus der nun bestehenden
+    gesamten Gesundheitsstörung ergibt.
+
+
+6.2.4 Sind durch die bereits bestehende schädigungsunabhängige
+    Gesundheitsstörung und durch die Schädigungsfolge verschiedene Organe,
+    Gliedmaßen oder paarige Organe betroffen und verstärkt die bereits
+    bestehende schädigungsunabhängige Gesundheitsstörung die Auswirkungen
+    der schädigungsbedingten Funktionsstörung, ist der Grad der
+    Schädigungsfolgen höher zu bewerten als bei isolierter Betrachtung der
     Schädigungsfolge.
 
 
-**6.** **Absichtlich herbeigeführte Schädigungen**
+6.3 Veränderung des Grades der Schädigungsfolgen
 
-    Eine von der beschädigten Person absichtlich herbeigeführte Schädigung
-    gilt nicht als Schädigung im Sinne der Versorgungsgesetze. Absichtlich
-    herbeigeführt ist sie dann, wenn sie von der beschädigten Person
-    erstrebt war. Selbsttötung und die Folgen eines Selbsttötungsversuches
-    oder einer Selbstverletzung sind nicht absichtlich herbeigeführt, wenn
-    eine Beeinträchtigung der freien Willensbestimmung durch
-    versorgungsrechtlich geschützte Tatbestände wahrscheinlich ist.
-
-
-**7.** **Anerkennung im Sinne der Entstehung und Anerkennung im Sinne der
-    Verschlimmerung**
-
-    a)  Die Anerkennung einer Gesundheitsstörung im Sinne der Entstehung setzt
-        voraus, dass zur Zeit der Einwirkung des schädigenden Vorganges noch
-        kein dieser Gesundheitsstörung zugehöriges pathologisches physisches
-        oder psychisches Geschehen vorhanden war. Dies gilt auch, wenn auf
-        eine Disposition zu der Gesundheitsstörung geschlossen werden kann.
-        Sofern zur Zeit der Einwirkung des schädigenden Vorganges bereits ein
-        einer Gesundheitsstörung zugehöriges pathologisches physisches oder
-        psychisches Geschehen, wenn auch noch nicht bemerkt, vorhanden war,
-        kommt nur eine Anerkennung im Sinne der Verschlimmerung in Frage,
-        falls die äußere Einwirkung entweder den Zeitpunkt vorverlegt hat, an
-        dem das Leiden sonst in Erscheinung getreten wäre, oder das Leiden in
-        schwererer Form aufgetreten ist, als es sonst zu erwarten gewesen
-        wäre. Von diesem Begriff der Verschlimmerung ist der Begriff der
-        Verschlimmerung im Sinne einer wesentlichen Änderung der Verhältnisse
-        zu unterscheiden.
 
+6.3.1 Ein schädigendes Ereignis kann zu einer zeitlich begrenzten Zunahme
+    der Ausprägung einer Gesundheitsstörung führen und damit zu keinem
+    oder nur zeitlich begrenzt zu einem Grad der Schädigungsfolgen.
 
-    b)  Bei weiterer Verschlechterung sowohl im Sinne der Entstehung als auch
-        im Sinne der Verschlimmerung anerkannter Gesundheitsstörungen ist
-        jeweils zu prüfen, ob die Leidenszunahme noch auf eine Schädigung
-        ursächlich zurückzuführen ist.
 
+6.3.2 Ein schädigendes Ereignis kann anhaltend, aber abgrenzbar den weiteren
+    Verlauf der Gesundheitsstörung beeinflussen und damit zu einem
+    gleichbleibenden Grad der Schädigungsfolgen führen.
 
-    c)  Bei der ärztlichen Begutachtung muss abgewogen werden, ob nur die
-        eigengesetzliche Entwicklung eines Leidens vorliegt oder ob
-        dienstliche oder außerdienstliche Einwirkungen als wesentliche
-        Bedingung einen Einfluss auf die Stärke der Krankheitserscheinungen
-        und auf die Schnelligkeit des Fortschreitens hatten.
 
+6.3.3 Ein schädigendes Ereignis kann aber auch den weiteren Verlauf der
+    Gesundheitsstörung richtunggebend bestimmen und damit Anlass für einen
+    ansteigenden Grad der Schädigungsfolgen sein.
 
 
+6.4 Nachfolgende Gesundheitsstörung
 
+    Eine Gesundheitsstörung, die zeitlich nach der Schädigungsfolge
+    eingetreten ist und nicht in ursächlichem Zusammenhang mit der
+    Schädigung steht, wird bei der Bewertung des Grades der
+    Schädigungsfolgen nicht berücksichtigt.
 
-**8.** **Arten der Verschlimmerung**
 
-    Medizinisch gesehen unterscheidet man verschiedene Arten der
-    Verschlimmerung. Ein schädigender Vorgang kann nur vorübergehend zu
-    einer Zunahme des Krankheitswertes und damit zu keiner oder nicht zu
-    einem bleibenden schädigungsbedingten GdS führen; er kann anhaltend,
-    aber abgrenzbar den weiteren Krankheitsverlauf beeinflussen und damit
-    zu einem gleichbleibenden schädigungsbedingten GdS führen; er kann
-    aber auch den weiteren Krankheitsverlauf richtungsgebend bestimmen und
-    damit Anlass zu einem ansteigenden schädigungsbedingten GdS sein.
-    Häufig wird erst nach längerer Beobachtung des Verlaufs zu beurteilen
-    sein, wie weit der Einfluss des schädigenden Vorgangs reicht. Das
-    Ausmaß der Verschlimmerung ist für die Festsetzung des GdS von
-    wesentlicher Bedeutung. Hierbei müssen in jedem Fall die durch die
-    Gesundheitsstörung bewirkte Gesamt-GdS sowie der GdS für den
-    Verschlimmerungsanteil durch Schädigungsfolgen und das Ausmaß des
-    Vorschadens angegeben werden. Unabhängig von der medizinischen
-    Beurteilung der Art der Verschlimmerung muss bei jeder weiteren
-    Zunahme des Krankheitswertes der ursächliche Zusammenhang dieser
-    Weiterentwicklung neu beurteilt werden.
-
-
-**9.** **Fehlen einer fachgerechten Behandlung**
-
-    Gesundheitsstörungen, bei deren Auftreten schädigende Einwirkungen
-    nicht mitgewirkt haben, können in ihrem Verlauf in einen ursächlichen
-    Zusammenhang mit schädigenden Einflüssen kommen, wenn durch dienst-
-    oder hafteigentümliche Verhältnisse oder Schädigungsfolgen eine
-    fachgerechte und wahrscheinlich erfolgreiche Behandlung nicht oder zu
-    spät durchgeführt wird.
+7   **Folgeschaden**
 
+    Tritt nach einer Schädigung eine weitere Gesundheitsstörung ein und
+    kommt der Schädigung oder deren Folgen für die Entstehung dieser
+    Gesundheitsstörung eine mindestens gleichwertige Bedeutung gegenüber
+    der Gesamtheit der anderen Ursachen zu, handelt es sich um einen
+    Folgeschaden. Dieser ist bei der Feststellung des Grades der
+    Schädigungsfolgen zu berücksichtigen. In diesem Falle ist stets zu
+    prüfen, ob die anerkannte Schädigungsfolge auch gemäß dem gegenwärtig
+    aktuellen Stand der medizinischen Wissenschaft anerkannt würde.
 
-**10.** **Folgen von diagnostischen Eingriffen, vorbeugenden und
-    therapeutischen Maßnahmen**
 
-    a)  Die Folgen von diagnostischen Eingriffen, Operationen oder anderen
-        Behandlungsmaßnahmen, die wegen Schädigungsfolgen durchgeführt werden,
-        sind Schädigungsfolgen.
+8   **Folgen von medizinischen Maßnahmen**
 
+    Haben diagnostische oder therapeutische Maßnahmen, die wegen
+    Schädigungsfolgen durchgeführt werden, nachteilige gesundheitliche
+    Folgen, so sind auch diese gesundheitlichen Folgen Schädigungsfolgen.
+    Auch das Unterlassen einer medizinisch gebotenen Maßnahme kann zu
+    einer gesundheitlichen Schädigung und damit zu einer Schädigungsfolge
+    führen.
 
-    b)  Wenn derartige Maßnahmen wegen schädigungsunabhängiger
-        Gesundheitsstörungen vorgenommen werden, kommt eine Annahme
-        nachteiliger Folgen als Schädigungsfolge in Betracht, wenn
 
-        aa) eine Duldungspflicht von Maßnahmen zur Verhütung oder Bekämpfung
-            übertragbarer Krankheiten bestand,
+9   **Absichtlich herbeigeführte Gesundheitsstörungen**
 
+    Eine von der antragstellenden Person absichtlich herbeigeführte
+    Schädigung führt entschädigungsrechtlich nicht zu einer
+    Schädigungsfolge. Eine Selbsttötung, die Folgen eines
+    Selbsttötungsversuchs oder eine absichtlich herbeigeführte
+    Gesundheitsstörung können nur dann Schädigungsfolge sein, wenn eine
+    Beeinträchtigung der freien Willensbestimmung durch
+    entschädigungsrechtlich geschützte Tatbestände wahrscheinlich ist.
 
-        bb) die Behandlung auf den Dienst oder die dem Dienst (oder einer Haft)
-            eigentümlichen Verhältnisse zurückzuführen war.
 
-            Für die Annahme nachteiliger gesundheitlicher Folgen einer Behandlung
-            sind in jedem Fall ein Ursachenzusammenhang zwischen der Behandlung
-            und einer gesundheitlichen Schädigung sowie die Wahrscheinlichkeit
-            eines Ursachenzusammenhangs zwischen dieser Schädigung und ihren
-            gesundheitlichen Folgen erforderlich. Der Dienst oder dienst-(bzw.
-            haft-)eigentümliche Verhältnisse sind dann nicht wesentliche Bedingung
-            für nachteilige gesundheitliche Folgen einer Behandlung, wenn andere
-            Umstände eine überwiegende Bedeutung erlangt haben. Dies kann z. B.
-            der Fall sein, wenn eine Behandlung wegen eines tatsächlich oder
-            vermeintlich lebensbedrohlichen Zustands durchgeführt wurde und
-            nachteilige gesundheitliche Folgen nicht auf eine unsachgemäße
-            Behandlung zurückzuführen sind. Der Umstand, dass eine Behandlung in
-            einem Lazarett bzw. Bundeswehrkrankenhaus vorgenommen wurde, bietet
-            allein noch keinen Grund, weitere Folgen der Krankheit als Schädigung
-            bzw. Schädigungsfolgen anzusehen. Nachteilige gesundheitliche Folgen
-            sind solche, die außerhalb des mit der Behandlung angestrebten
-            Heilerfolges liegen. Die Unterlassung einer gebotenen Maßnahme steht
-            hinsichtlich der gesundheitlichen Folgen ihrer Vornahme gleich.
+10  **Ursächlicher Zusammenhang zwischen Schädigung und Tod**
 
 
+10.1 Hat eine als Schädigungsfolge anerkannte Gesundheitsstörung den Tod
+    verursacht und liegt zum Zeitpunkt des Todes eine Anerkennung der
+    Gesundheitsstörung vor, gilt der Tod als Schädigungsfolge. Eine
+    erneute Begutachtung der Wahrscheinlichkeit des ursächlichen
+    Zusammenhanges ist nicht erforderlich, es sei denn, die bisherige
+    Anerkennung ist aus heutiger Sicht zweifelsfrei unrichtig.
 
 
+10.2 Stirbt eine geschädigte Person an einer im Sinne der Verschlimmerung
+    anerkannten Gesundheitsstörung, so gilt der Tod als Schädigungsfolge,
+    wenn die schädigungsbedingte Verschlimmerung für den Tod ursächlich
+    gewesen ist.
 
 
+10.3 Haben mehrere Gesundheitsstörungen zum Tod beigetragen und sind nicht
+    alle diese Gesundheitsstörungen auch Schädigungsfolgen, ist zu prüfen,
+    ob die Schädigungsfolgen eine mindestens gleichwertige Bedeutung für
+    den Eintritt des Todes hatten. In diesem Fall gilt der Tod als
+    Schädigungsfolge.
 
 
-**11.** **Ursächlicher Zusammenhang zwischen Schädigung und Tod**
-
-    a)  Der Tod ist die Folge einer Schädigung, wenn er durch sie verursacht
-        worden ist.
-
-
-    b)  Wenn eine beschädigte Person an einem Leiden stirbt, das als Folge
-        einer Schädigung rechtsverbindlich anerkannt und für das ihm im
-        Zeitpunkt des Todes Rente zuerkannt war, dass heißt, wenn die
-        anerkannte Gesundheitsstörung den Tod verursacht hat, gilt der Tod
-        stets als Schädigungsfolge (Rechtsvermutung). Diese Rechtsvermutung
-        erlaubt es, im Gutachten die Stellungnahme auf die Frage des
-        ursächlichen Zusammenhanges zwischen Tod und anerkannter
-        Schädigungsfolge zu beschränken. Eine nochmalige Stellungnahme zur
-        Wahrscheinlichkeit des ursächlichen Zusammenhanges zwischen Dienst und
-        anerkannter Schädigungsfolge erübrigt sich daher, es sei denn, dass
-        Umstände bekannt werden, die auf eine zweifelsfreie Unrichtigkeit des
-        bisherigen Anerkenntnisses hinweisen.
-
-
-    c)  Stirbt eine beschädigte Person an einem im Sinne der Verschlimmerung
-        anerkannten Leiden, so trifft die Rechtsvermutung zu, wenn die
-        schädigungsbedingte Verschlimmerung für den Tod ursächlich gewesen
-        ist. Ob dies der Fall war, bedarf einer Prüfung unter Berücksichtigung
-        der besonderen Verhältnisse des Einzelfalles und unter Wertung der
-        mitwirkenden, nicht schädigungsbedingten Umstände. Die Höhe des für
-        den Verschlimmerungsanteil anerkannten GdS gibt dabei nicht den
-        Ausschlag, vielmehr sind die tatsächlichen gesundheitlichen
-        Verhältnisse im Zeitpunkt des Todes für die Beurteilung maßgebend.
-
-
-    d)  Haben zum Tod mehrere Leiden beigetragen, die nicht alle
-        Schädigungsfolgen sind, dann ist unter Anwendung des
-        versorgungsrechtlichen Ursachenbegriffs zu prüfen, ob die
-        Schädigungsfolgen zumindest eine annähernd gleichwertige Bedeutung für
-        den Eintritt des Todes hatten. In seltenen Fällen kann bei dieser
-        Beurteilung auch der Zeitpunkt des Todes eine wichtige Rolle spielen,
-        und zwar dann, wenn neben den Schädigungsfolgen ein schweres
-        schädigungsunabhängiges Leiden vorgelegen hat, das nach ärztlicher
-        Erfahrung ohne die Schädigungsfolgen noch nicht zu diesem Zeitpunkt,
-        jedoch in einem späteren Stadium in absehbarer Zeit für sich allein
-        zum Tode geführt hätte. In einem solchen Fall ist der Tod dann als
-        Schädigungsfolge anzusehen, wenn die beschädigte Person ohne die
-        Schädigungsfolgen wahrscheinlich mindestens ein Jahr länger gelebt
-        hätte. Der ärztlichen Beurteilung sind hierbei Grenzen gesetzt; eine
-        besonders sorgfältige Abwägung aller Umstände ist geboten.
-
-
-    e)  Eine aus dienstlichen Gründen oder wegen Schädigungsfolgen
-        unterbliebene rechtzeitige oder richtige Behandlung kann Ursache des
-        Todes sein.
-
-
-    f)  Häufig kann der ursächliche Zusammenhang zwischen Schädigung und Tod
-        ohne Leichenöffnung nicht zutreffend beurteilt werden.
-
-
-
-
-
-**12.** **Vorschaden, Nachschaden, Folgeschaden**
-
-    a)  Ein Vorschaden ist eine schädigungsunabhängige Gesundheitsstörung, die
-        bei Eintritt der Schädigung bereits nachweisbar bestanden hat. Beim
-        Vorliegen eines Vorschadens ist bei der Bemessung des
-        schädigungsbedingten GdS Folgendes zu beachten:
-
-        aa) Wenn sich Vorschaden und Schädigungsfolge an verschiedenen
-            Körperteilen befinden und sich gegenseitig nicht beeinflussen, so ist
-            der Vorschaden ohne Bedeutung.
-
-
-        bb) Hat die Schädigung eine vorgeschädigte Gliedmaße oder ein
-            vorgeschädigtes Organ betroffen, muss der schädigungsbedingte GdS
-            niedriger sein als der GdS, der sich aus dem nun bestehenden
-            Gesamtschaden ergibt, es sei denn, dass der Vorschaden nach seinem
-            Umfang oder nach seiner Art keine wesentliche Bedeutung für die
-            gesamte Gesundheitsstörung hat. Der schädigungsbedingte GdS lässt sich
-            dabei nicht einfach dadurch ermitteln, dass der GdS des Vorschadens
-            rein rechnerisch von dem GdS des Gesamtschadens abgezogen wird;
-            maßgeblich ist, zu welchem zusätzlichen anatomischen und funktionellen
-            Verlust die Schädigung geführt hat.
-
-
-        cc) Sind durch Vorschaden und Schädigungsfolge verschiedene Organe oder
-            Gliedmaßen oder paarige Organe betroffen und verstärkt der Vorschaden
-            die schädigungsbedingte Funktionsstörung, so ist der
-            schädigungsbedingte GdS unter Umständen höher zu bewerten, als es bei
-            isolierter Betrachtung der Schädigungsfolge zu geschehen hätte.
-
-
-
-
-
-    b)  Ein Nachschaden ist eine Gesundheitsstörung, die zeitlich nach der
-        Schädigung eingetreten ist und nicht in ursächlichem Zusammenhang mit
-        der Schädigung steht. Eine solche Gesundheitsstörung kann bei der
-        Feststellung des GdS nach § 30 Absatz 1 Bundesversorgungsgesetz nicht
-        berücksichtigt werden, auch dann nicht, wenn sie zusammen mit
-        Schädigungsfolgen zu besonderen Auswirkungen führt, bei denen die
-        Schädigungsfolgen eine gleichwertige oder überwiegende Bedeutung
-        haben.
-
-
-    c)  Wenn demgegenüber nach einer Schädigung eine weitere
-        Gesundheitsstörung eintritt, bei der - vor allem nach ihrer Art -
-        wahrscheinlich ist, dass die Schädigung oder deren Folgen bei der
-        Entstehung dieser Gesundheitsstörung wesentlich mitgewirkt haben, so
-        handelt es sich um einen Folgeschaden, der eine weitere
-        Schädigungsfolge darstellt und daher mit seinem gesamtem GdS zu
-        berücksichtigen ist. Wenn ein solcher Folgeschaden erst viele Jahre
-        nach der Schädigung in Erscheinung tritt, spricht man auch von einem
-        Spätschaden.
-
-
-
+10.4 In Ausnahmefällen kann bei der Prüfung nach Nummer 10.2 auch der
+    Zeitpunkt des Todes eine wichtige Rolle spielen, wenn neben den
+    Schädigungsfolgen eine schwere, schädigungsunabhängige
+    Gesundheitsstörung vorgelegen hat, die nach dem aktuellen Stand der
+    medizinischen Wissenschaft ohne die Schädigungsfolgen noch nicht zu
+    diesem Zeitpunkt, jedoch in absehbarer Zeit für sich allein zum Tode
+    geführt hätte. In diesem Fall gilt der Tod als Schädigungsfolge, wenn
+    die geschädigte Person ohne die Schädigungsfolgen wahrscheinlich
+    mindestens ein Jahr länger gelebt hätte als mit den Schädigungsfolgen.
 
 
 **13.** **Voraussetzungen für die Pflegezulage, Pflegezulagestufen**
@@ -15102,52 +14957,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-**3.** **Außergewöhnliche Gehbehinderung (Merkzeichen aG)**
-
-    a)  Für die Gewährung von Parkerleichterungen für schwer behinderte
-        Menschen nach dem Straßenverkehrsgesetz (StVG) ist die Frage zu
-        beurteilen, ob eine außergewöhnliche Gehbehinderung vorliegt. Auch bei
-        Säuglingen und Kleinkindern ist die gutachtliche Beurteilung einer
-        außergewöhnlichen Gehbehinderung erforderlich. Für die Beurteilung
-        sind dieselben Kriterien wie bei Erwachsenen mit gleichen
-        Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich
-        diesbezügliche behinderungsbedingte Nachteile vorliegen oder
-        behinderungsbedingte Mehraufwendungen entstehen.
-
-
-    b)  Als schwer behinderte Menschen mit außergewöhnlicher Gehbehinderung
-        sind solche Personen anzusehen, die sich wegen der Schwere ihres
-        Leidens dauernd nur mit fremder Hilfe oder nur mit großer Anstrengung
-        außerhalb ihres Kraftfahrzeuges bewegen können. Hierzu zählen
-        Querschnittgelähmte, Doppeloberschenkelamputierte,
-        Doppelunterschenkelamputierte, Hüftexartikulierte und einseitig
-        Oberschenkelamputierte, die dauernd außerstande sind, ein Kunstbein zu
-        tragen, oder nur eine Beckenkorbprothese tragen können oder zugleich
-        unterschenkel- oder armamputiert sind, sowie andere schwerbehinderte
-        Menschen, die nach versorgungsärztlicher Feststellung, auch aufgrund
-        von Erkrankungen, dem vorstehend aufgeführten Personenkreis
-        gleichzustellen sind.
-
-
-    c)  Die Annahme einer außergewöhnlichen Gehbehinderung darf nur auf eine
-        Einschränkung der Gehfähigkeit und nicht auf Bewegungsbehinderungen
-        anderer Art bezogen werden. Bei der Frage der Gleichstellung von
-        behinderten Menschen mit Schäden an den unteren Gliedmaßen ist zu
-        beachten, dass das Gehvermögen auf das Schwerste eingeschränkt sein
-        muss und deshalb als Vergleichsmaßstab am ehesten das Gehvermögen
-        eines Doppeloberschenkelamputierten heranzuziehen ist. Dies gilt auch,
-        wenn Gehbehinderte einen Rollstuhl benutzen: Es genügt nicht, dass ein
-        solcher verordnet wurde; die Betroffenen müssen vielmehr ständig auf
-        den Rollstuhl angewiesen sein, weil sie sich sonst nur mit fremder
-        Hilfe oder nur mit großer Anstrengung fortbewegen können. Als
-        Erkrankungen der inneren Organe, die eine solche Gleichstellung
-        rechtfertigen, sind beispielsweise Herzschäden mit schweren
-        Dekompensationserscheinungen oder Ruheinsuffizienz sowie Krankheiten
-        der Atmungsorgane mit Einschränkung der Lungenfunktion schweren Grades
-        anzusehen.
-
-
-
+**3.** (aufgehoben)
 
 
 **4.** **Gehörlosigkeit (Merkzeichen Gl)**

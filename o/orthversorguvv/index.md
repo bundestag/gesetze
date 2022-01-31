@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 871
 
 Zuletzt geändert durch
-:   Art. 23 G v. 7.8.1996 I 1254
+:   Art. 53 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -185,5 +185,5 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 (1) Diese Verordnung tritt am ersten Tag des auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 

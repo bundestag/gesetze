@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 607
 
 Zuletzt geändert durch
-:   Art. 2 G v. 14.12.2001 I 3714
+:   Art. 9 G v. 8.7.2016 I 1594
 
 
-## Erster Abschnitt -
+## Erster Abschnitt - 
 
 
 
@@ -68,7 +68,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
 nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
 
-## Zweiter Abschnitt -
+## Zweiter Abschnitt - 
 
 
 
@@ -105,7 +105,7 @@ Aufforderung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 (BAFA) nach § 5 Abs. 4 nicht nachkommt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfzigtausend Deutsche Mark geahndet werden.
+dreißigtausend Euro geahndet werden.
 
 (3) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können
 eingezogen werden.
@@ -119,7 +119,7 @@ Ausfuhrkontrolle (BAFA).
 
 
 
-## Dritter Abschnitt -
+## Dritter Abschnitt - 
 
 
 

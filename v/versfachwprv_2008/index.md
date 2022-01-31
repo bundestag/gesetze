@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1758
 
-Geändert durch
-:   Art. 33 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 45 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -148,10 +148,9 @@ die unabhängig voneinander absolviert werden können.
 
 
 (4) Im Handlungsbereich „Produktmanagement für Versicherungs- und
-Finanzprodukte“ wählt der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin einen der folgenden produktbezogenen
-Qualifikationsschwerpunkte mit den sich aus der Anlage 1 ergebenden
-Produktbereichen aus:
+Finanzprodukte“ wählt die zu prüfende Person einen der folgenden
+produktbezogenen Qualifikationsschwerpunkte mit den sich aus der
+Anlage 1 ergebenden Produktbereichen aus:
 
 1.  Sachversicherungen für private und gewerbliche Kunden,
 
@@ -178,15 +177,15 @@ Wiederholungsprüfungen können auch andere Qualifikationsschwerpunkte
 gewählt werden.
 
 (5) Aus den in Absatz 3 Nr. 3 bis 5 genannten Handlungsbereichen wählt
-der Prüfungsteilnehmer oder die Prüfungsteilnehmerin einen
-Handlungsbereich aus. Bei der Anmeldung zur Prüfung ist der gewählte
-Handlungsbereich der zuständigen Stelle mitzuteilen. Bei
-Wiederholungsprüfungen können auch andere Handlungsbereiche gewählt
-werden. Sofern im Handlungsbereich „Produktmanagement für
-Versicherungs- und Finanzprodukte“ nach Absatz 4 der
-Qualifikationsschwerpunkt „Finanzdienstleistungen für Privat- und
-Gewerbekunden“ gewählt wurde, besteht diese Wahlmöglichkeit nicht. In
-diesem Fall wird der Handlungsbereich „Vertriebsmanagement“ geprüft.
+die zu prüfende Person einen Handlungsbereich aus. Bei der Anmeldung
+zur Prüfung ist der gewählte Handlungsbereich der zuständigen Stelle
+mitzuteilen. Bei Wiederholungsprüfungen können auch andere
+Handlungsbereiche gewählt werden. Sofern im Handlungsbereich
+„Produktmanagement für Versicherungs- und Finanzprodukte“ nach Absatz
+4 der Qualifikationsschwerpunkt „Finanzdienstleistungen für Privat-
+und Gewerbekunden“ gewählt wurde, besteht diese Wahlmöglichkeit nicht.
+In diesem Fall wird der Handlungsbereich „Vertriebsmanagement“
+geprüft.
 
 (6) In den Handlungsbereichen nach den Absätzen 2 und 3 ist
 schriftlich in Form von anwendungsbezogenen Aufgaben nach den §§ 4 und
@@ -247,20 +246,19 @@ betriebsbezogen und situationsgerecht mit Kunden und Mitarbeitern zu
 kommunizieren, Mitarbeiter zu führen sowie Moderations- und
 Präsentationstechniken team- und ergebnisorientiert einsetzen zu
 können. Für die Gesprächssimulation mit anschließendem Fachgespräch
-wählt der Prüfungsteilnehmer oder die Prüfungsteilnehmerin aus drei
-vom Prüfungsausschuss vorgegebenen Situationsaufgaben eine Aufgabe
-aus. Bei der Aufgabenstellung zur Gesprächssimulation und dem sich
-daran anschließenden Fachgespräch sind die Anforderungen des
+wählt die zu prüfende Person aus drei vom Prüfungsausschuss
+vorgegebenen Situationsaufgaben eine Aufgabe aus. Bei der
+Aufgabenstellung zur Gesprächssimulation und dem sich daran
+anschließenden Fachgespräch sind die Anforderungen des
 Handlungsbereichs „Personalführung, Qualifizierung und Kommunikation
 nach § 5 Abs. 1 zugrunde zu legen. Die Gesprächssimulation soll in der
 Regel 15 Minuten dauern. Gesprächssimulation und anschließendes
-Fachgespräch sollen zusammen nicht länger als 25 Minuten dauern. Dem
-Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist eine
-Vorbereitungszeit von höchstens 30 Minuten einzuräumen. Das Thema der
-Präsentation ist vom Prüfungsteilnehmer oder der Prüfungsteilnehmerin
-selbst zu wählen und der zuständigen Stelle zu einem von ihr
-festgesetzten Termin mitzuteilen. Das Thema bezieht sich auf die
-Inhalte des nach Absatz 5 gewählten Handlungsbereiches. Die
+Fachgespräch sollen zusammen nicht länger als 25 Minuten dauern. Der
+zu prüfenden Person ist eine Vorbereitungszeit von höchstens 30
+Minuten einzuräumen. Das Thema der Präsentation ist von der zu
+prüfenden Person selbst zu wählen und der zuständigen Stelle zu einem
+von ihr festgesetzten Termin mitzuteilen. Das Thema bezieht sich auf
+die Inhalte des nach Absatz 5 gewählten Handlungsbereiches. Die
 Präsentation soll zehn Minuten dauern.
 
 (11) Der zweite Teil der mündlichen Prüfung besteht aus einem
@@ -484,16 +482,16 @@ Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
 
 ## § 6 Zusatzqualifikation
 
-(1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann nach
-Bestehen der Prüfung zum Geprüften Fachwirt für Versicherungen und
-Finanzen/zur Geprüften Fachwirtin für Versicherungen und Finanzen
-beantragen, die Prüfung in weiteren Qualifikationsschwerpunkten nach §
-3 Abs. 4 Nr. 1 bis 6 gemäß § 5 und in weiteren Handlungsbereichen nach
-§ 3 Abs. 5 gemäß § 5 abzulegen. Die Regelungen in den §§ 3 und 9
-gelten entsprechend. Die Prüfung ist bestanden, wenn mindestens
-ausreichende Leistungen erbracht worden sind. Über das Ergebnis dieser
-weiteren Prüfung ist eine gesonderte Bescheinigung, die die erreichte
-Punktzahl und die erzielte Note ausweist, auszustellen.
+(1) Die zu prüfende Person kann nach Bestehen der Prüfung zum
+Geprüften Fachwirt für Versicherungen und Finanzen/zur Geprüften
+Fachwirtin für Versicherungen und Finanzen beantragen, die Prüfung in
+weiteren Qualifikationsschwerpunkten nach § 3 Abs. 4 Nr. 1 bis 6 gemäß
+§ 5 und in weiteren Handlungsbereichen nach § 3 Abs. 5 gemäß § 5
+abzulegen. Die Regelungen in den §§ 3 und 9 gelten entsprechend. Die
+Prüfung ist bestanden, wenn mindestens ausreichende Leistungen
+erbracht worden sind. Über das Ergebnis dieser weiteren Prüfung ist
+eine gesonderte Bescheinigung, die die erreichte Punktzahl und die
+erzielte Note ausweist, auszustellen.
 
 (2) Wer in einer früheren Prüfung auf Grund einer Regelung der
 zuständigen Stelle den Abschluss
@@ -503,69 +501,115 @@ Versicherungsfachwirtin erworben hat, kann ebenfalls von der
 Möglichkeit nach Absatz 1 Gebrauch machen.
 
 
-## § 7 Anrechnung anderer Prüfungsleistungen
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8
+und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 8 Absatz 3 oder § 8 Absatz 4 oder § 9 Absatz 4
+Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 8 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
+## § 8 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfung ist bestanden, wenn in allen schriftlichen
-Prüfungsleistungen nach § 3 Abs. 6 und in der mündlichen Prüfung nach
-§ 3 Abs. 10 und 11 mindestens ausreichende Leistungen erbracht wurden.
-
-(2) Die schriftlichen Prüfungsleistungen nach § 3 Abs. 6 und die
-mündliche Prüfung nach § 3 Abs. 10 und 11 sind jeweils gesondert zu
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
 bewerten.
 
-(3) Die mündlichen Prüfungsleistungen nach § 3 Abs. 10 werden zu einer
-Note zusammengefasst. Hierbei wird folgende Gewichtung vorgenommen:
+(2) Folgende Prüfungsleistungen sind einzeln zu bewerten:
 
-*    *   1.
-
-    *   Gesprächssimulation
-
-    *   40 Prozent,
+1.  die schriftlichen Prüfungsleistungen nach § 3 Absatz 6,
 
 
-*    *   2.
-
-    *   Fachgespräch
-
-    *   20 Prozent,
-
-
-*    *   3.
-
-    *   Präsentation
-
-    *   40 Prozent.
+2.  die mündlichen Prüfungsleistungen nach § 3 Absatz 10 und 11.
 
 
 
 
-(4) Die schriftliche Prüfung des nach § 3 Abs. 5 gewählten
-Handlungsbereiches sowie die mündliche Prüfung nach § 3 Abs. 11 werden
-mit jeweils 50 Prozent gewichtet und zu einer Note zusammengefasst.
+(3) Aus den einzelnen Prüfungsleistungen der mündlichen
+Prüfungsleistungen nach § 3 Absatz 10 wird als zusammengefasste
+Bewertung das gewichtete arithmetische Mittel berechnet. Dabei sind
+die Bewertungen wie folgt zu gewichten:
 
-(5) Die Gesamtnote der Prüfung ergibt sich aus dem arithmetischen
-Mittel der Summe der Einzelpunkte.
-
-(6) Über das Bestehen der Prüfung ist ein Zeugnis nach den Anlagen 2
-und 3 auszustellen. Im Falle der Freistellung nach § 7 sind Ort und
-Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung des
-Prüfungsgremiums anzugeben.
+1.  die Bewertung der Gesprächssimulation mit 40 Prozent,
 
 
-## § 9 Wiederholung der Prüfung
+2.  die Bewertung des Fachgesprächs mit 20 Prozent,
 
-(1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
+
+3.  die Bewertung der Präsentation mit 40 Prozent.
+
+
+
+
+(4) Aus der schriftlichen Prüfung der nach § 3 Absatz 5 gewählten
+Handlungsbereiche und der mündlichen Prüfung nach § 3 Absatz 11 wird
+als zusammengefasste Bewertung das arithmetische Mittel berechnet.
+
+
+## § 9 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+schriftlichen Teilprüfungen nach § 3 Absatz 6 und in der mündlichen
+Prüfung nach § 3 Absatz 10 und 11 mindestens 50 Punkte erreicht worden
+sind.
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  das gewichtete arithmetische Mittel nach § 8 Absatz 3,
+
+
+2.  das arithmetische Mittel nach § 8 Absatz 4 sowie
+
+
+3.  die übrigen Prüfungsleistungen nach § 8 Absatz 2.
+
+
+
+
+(3) Den Bewertungen für die Prüfungsteile nach § 9 Absatz 2 ist nach
+Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen zu berechnen. Die
+Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der
+gerundeten Gesamtpunktzahl ist nach Anlage 2 die Note als Dezimalzahl
+und die Note in Worten zuzuordnen. Die zugeordnete Note ist die
+Gesamtnote.
+
+
+## § 10 Zeugnisse
+
+(1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 3 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 11 Wiederholung der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
 (2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich
@@ -578,7 +622,7 @@ Werden bestandene Prüfungsleistungen erneut geprüft, gilt in diesem
 Fall das Ergebnis der letzten Prüfung.
 
 
-## § 10 Ausbildereignung
+## § 12 Ausbildereignung
 
 (1) Wer die Prüfung zum Geprüften Fachwirt für Versicherungen und
 Finanzen/zur Geprüften Fachwirtin für Versicherungen und Finanzen nach
@@ -586,13 +630,12 @@ dieser Verordnung bestanden hat, ist vom schriftlichen Teil der
 Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-
 Eignungsverordnung befreit.
 
-(2) Auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin
-ist eine zusätzliche Prüfung durchzuführen. Diese zusätzliche Prüfung
-besteht aus der Präsentation oder praktischen Demonstration einer
-Ausbildungssituation und einem Prüfungsgespräch. Der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin wählt dazu eine
+(2) Auf Antrag der zu prüfenden Person ist eine zusätzliche Prüfung
+durchzuführen. Diese zusätzliche Prüfung besteht aus der Präsentation
+oder praktischen Demonstration einer Ausbildungssituation und einem
+Prüfungsgespräch. Die zu prüfende Person wählt dazu eine
 Ausbildungssituation aus. Die Auswahl und Gestaltung der
-Ausbildungssituation hat der Prüfungsteilnehmer in dem
+Ausbildungssituation hat die zu prüfende Person in dem
 Prüfungsgespräch zu begründen. Die Dauer der zusätzlichen Prüfung
 beträgt höchstens 30 Minuten. Die Konzeption für die Präsentation oder
 die praktische Durchführung ist vorab schriftlich einzureichen. Diese
@@ -601,14 +644,12 @@ Leistungen erbracht wurden.
 
 (3) Wer die zusätzliche Prüfung nach Absatz 2 bestanden hat, hat die
 berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und
-Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Dem
-Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist ein Zeugnis
-auszustellen, aus dem hervorgeht, dass die berufs- und
-arbeitspädagogischen Qualifikationen nach § 30 des
-Berufsbildungsgesetzes nachgewiesen wurden.
+Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Im Falle des
+Satzes 1 ist der zu prüfenden Person das Zeugnis nach § 5 der
+Ausbilder-Eignungsverordnung auszustellen.
 
 
-## § 11 Übergangsvorschriften
+## § 13 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. August 2012 nach
 den bisherigen Vorschriften zu Ende geführt werden.
@@ -621,12 +662,16 @@ Ablauf des 1. Februar 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
 
-## § 12 Inkrafttreten, Außerkrafttreten
+## § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+Diese Verordnung tritt am 1. Januar 2009 in Kraft. Gleichzeitig tritt
+die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
+Versicherungsfachwirt/ Geprüfte Versicherungsfachwirtin vom 16. März
+1998 (BGBl. I S. 487) außer Kraft.
 
+(zu § 5 Abs. 2, 4 und 5)
 
-## Anlage 1 (zu § 5 Abs. 2, 4 und 5) Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5
+## Anlage 1 Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5
 
 ( Fundstelle: BGBl. I 2008, 1763 )
 
@@ -779,188 +824,389 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 
 
+(zu den §§ 8 und 9)
 
-## Anlage 2 (zu § 8 Abs. 6) Muster
+## Anlage 2 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2008, 1764;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *
-
-*    *   (Bezeichnung der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2313 – 2314)
 
 
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte
-Fachwirtin für Versicherungen und Finanzen
-
-
-*    *   Herr/Frau  ................
-
-
-*    *   geboren am  .............
-
-    *   in ..................
-
-
-*    *   hat am  ...................
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-Geprüfter Fachwirt für Versicherungen und Finanzen/
-## Geprüfte Fachwirtin für Versicherungen und Finanzen
-
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin
-für Versicherungen und Finanzen vom 26. August 2008 (BGBl. I S. 1758),
-die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960) geändert worden ist, bestanden.
-
-
-*    *   Datum ...............
-
-
-*    *   Unterschrift(en) ................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 3 (zu § 8 Abs. 6) Muster
-
-(Fundstelle: BGBl. I 2008, 1765 - 1766;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte
-Fachwirtin für Versicherungen und Finanzen
-
-
-*    *   Herr/Frau ........
-
-
-*    *   geboren am ........
-
-    *   in ........
-
-
-*    *   hat am ........
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-Geprüfter Fachwirt für Versicherungen und Finanzen/
-## Geprüfte Fachwirtin für Versicherungen und Finanzen
-
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin
-für Versicherungen und Finanzen vom 26. August 2008 (BGBl. I S. 1758),
-die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960) geändert worden ist, mit folgenden Ergebnissen bestanden:
-
-*    *   Gesamtnote: ........
-
-
-*    *
-    *
-    *[^F771423_01_BJNR175800008BJNE001701308]
-   Punkte
+*    *   Punkte
 
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   1.
+*    *   100
 
-    *   Steuerung und Führung im Unternehmen
+    *   1,0
 
-    *
-    *
+    *   sehr gut
 
-*    *   2.
-
-    *   Marketing und Vertrieb von Versicherungs- und Finanzprodukten
-        für Privatkunden
-
-    *
-    *
-
-*    *   3.
-
-    *   Personalführung, Qualifizierung und Kommunikation
-
-    *
-    *
-
-*    *
-    *   a) mündlich (Gesprächssimulation, Fachgespräch und Präsentation)
-
-    *
-    *
-
-*    *
-    *   b) schriftlich
-
-    *
-    *
-
-*    *   4.
-
-    *   Produktmanagement für Versicherungs- und Finanzprodukte
-        (gewählter Qualifikationsschwerpunkt nach § 3 Abs. 4)
-
-    *
-    *
-
-*    *   5.
-
-    *   Gewählter Handlungsbereich (schriftlich und mündlich)
-        (gewählter Handlungsbereich nach § 3 Abs. 5)
-
-    *
-    *
-
-*    *   (Im Fall des § 7: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 7 im Hinblick auf die am .......... in .......... vor
-        .......... abgelegte Prüfung vom Prüfungsbestandteil ..........
-        freigestellt.“)
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
+*    *   98 und 99
+
+    *   1,1
 
 
-**Ausbildereignung:**
+*    *   96 und 97
 
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat an der
-zusätzlichen Prüfung nach § 10 Abs. 2 teilgenommen und die berufs- und
-arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach §
-30 Abs. 5 des Berufsbildungsgesetzes nachgewiesen.
+    *   1,2
 
 
-*    *   Datum
+*    *   94 und 95
+
+    *   1,3
 
 
-*    *   Unterschrift(en)
+*    *   92 und 93
+
+    *   1,4
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-[^F771423_01_BJNR175800008BJNE001701308]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ...............
+(zu § 10)
+
+## Anlage 3 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2314)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Bewertung und Note der Prüfungsleistungen in den folgenden
+    Handlungsbereichen:
+
+    a)  Steuerung und Führung im Unternehmen,
+
+
+    b)  Marketing und Vertrieb von Versicherungs- und Finanzprodukten für
+        Privatkunden,
+
+
+    c)  Personalführung, Qualifizierung und Kommunikation
+
+        aa) mündlich: Gesprächssimulation, Fachgespräch und Präsentation,
+
+
+        bb) schriftlich,
+
+
+
+
+
+    d)  Produktmanagement für Versicherungs- und Finanzprodukte (gewählter
+        Qualifikationsschwerpunkt nach § 3 Absatz 4),
+
+
+    e)  gewählter Handlungsbereich, sowohl schriftlich als auch mündlich
+        (gewählter Handlungsbereich nach § 3 Absatz 5),
+
+
+
+
+
+2.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+3.  die Gesamtnote als Dezimalzahl,
+
+
+4.  die Gesamtnote in Worten,
+
+
+5.  Befreiungen nach § 7,
+
+
+6.  Befreiung vom schriftlichen Teil der Prüfung nach der Ausbilder-
+    Eignungsverordnung nach § 12 Absatz 1.
+
+
+
 

@@ -16,13 +16,13 @@ Fundstelle
 :   BGBl I: 1974, 1505
 
 Zuletzt geändert durch
-:   Art. 8 G v. 11.8.2009 I 2723
+:   Art. 114 V v. 19.6.2020 I 1328
 
 
 ## § 1
 
-(1) Im Geschäftsbereich des Bundesministers für Umwelt, Naturschutz
-und Reaktorsicherheit ist eine selbständige Bundesoberbehörde unter
+(1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
+und nukleare Sicherheit ist eine selbständige Bundesoberbehörde unter
 der Bezeichnung "Umweltbundesamt" errichtet.
 
 (2) Das Umweltbundesamt hat seinen Sitz in Dessau.
@@ -38,8 +38,8 @@ Belange des Umweltschutzes, die ihm durch dieses Gesetz oder andere
 Bundesgesetze zugewiesen werden. Das Umweltbundesamt hat insbesondere
 folgende Aufgaben:
 
-1.  Wissenschaftliche Unterstützung des Bundesministers für Umwelt,
-    Naturschutz und Reaktorsicherheit in allen Angelegenheiten des
+1.  Wissenschaftliche Unterstützung des Bundesministeriums für Umwelt,
+    Naturschutz und nukleare Sicherheit in allen Angelegenheiten des
     Immissions- und Bodenschutzes, der Abfall- und Wasserwirtschaft, der
     gesundheitlichen Belange des Umweltschutzes, insbesondere bei der
     Erarbeitung von Rechts- und Verwaltungsvorschriften, bei der
@@ -63,8 +63,8 @@ folgende Aufgaben:
 wissenschaftliche Forschung auf den in Absatz 1 genannten Gebieten.
 
 (3) Ferner können Verwaltungsaufgaben des Bundes auf den in Absatz 1
-genannten Gebieten mit Zustimmung des Bundesministers für Umwelt,
-Naturschutz und Reaktorsicherheit dem Umweltbundesamt zur Erledigung
+genannten Gebieten mit Zustimmung des Bundesministeriums für Umwelt,
+Naturschutz und nukleare Sicherheit dem Umweltbundesamt zur Erledigung
 in eigener Zuständigkeit zugewiesen werden, sofern die Übertragung
 solcher Aufgaben auf andere Bundesbehörden durch Bundesgesetz
 zugelassen ist oder wird.
@@ -72,17 +72,17 @@ zugelassen ist oder wird.
 (4) Das Umweltbundesamt erledigt als beauftragte Behörde, soweit keine
 andere Zuständigkeit gesetzlich festgelegt ist, Verwaltungsaufgaben
 des Bundes auf den in Absatz 1 genannten Gebieten, mit deren
-Durchführung es vom Bundesminister für Umwelt, Naturschutz und
-Reaktorsicherheit oder mit seiner Zustimmung von der sachlich
+Durchführung es vom Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit oder mit seiner Zustimmung von der sachlich
 zuständigen obersten Bundesbehörde beauftragt wird.
 
 
 ## § 3
 
 Soweit im Umweltbundesamt Aufgaben aus einem anderen Geschäftsbereich
-als dem des Bundesministers für Umwelt, Naturschutz und
-Reaktorsicherheit erledigt werden, steht das fachliche Weisungsrecht
-der sachlich zuständigen obersten Bundesbehörde zu.
+als dem des Bundesministeriums für Umwelt, Naturschutz und nukleare
+Sicherheit erledigt werden, steht das fachliche Weisungsrecht der
+sachlich zuständigen obersten Bundesbehörde zu.
 
 
 ## § 4 (weggefallen)

@@ -1,5 +1,5 @@
 ---
-Title: Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz
+Title: Verordnung zur Durchführung des Rennwett- und Lotteriegesetzes
 jurabk: RennwLottGABest
 layout: default
 origslug: rennwlottgabest
@@ -7,7 +7,7 @@ slug: rennwlottgabest
 
 ---
 
-# Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz (RennwLottGABest)
+# Verordnung zur Durchführung des Rennwett- und Lotteriegesetzes (RennwLottGABest)
 
 Ausfertigungsdatum
 :   1922-06-16
@@ -16,7 +16,7 @@ Fundstelle
 :   ZBl: 1922, 351
 
 Zuletzt geändert durch
-:   Art. 2 G v. 29.6.2012 I 1424
+:   Art. 1 V v. 10.11.2021 I 4900
 
 
 ## Eingangsformel
@@ -27,28 +27,21 @@ S. 393) wird, soweit erforderlich, mit Zustimmung des Reichsrats
 folgendes bestimmt:
 
 
-## A. - Rennwetten
+## A. - Ordnungsrechtlicher Teil
 
 
 
-### I. - Erteilung der Erlaubnis
+### I. - Erteilung der Erlaubnis für Rennwetten
 
 
 
-#### § 1
+#### § 1 Erlaubnisempfänger
 
--
-
-
-#### - - Voraussetzungen für die Erteilung der Erlaubnis
+Die Erlaubnis zum Abschluss und zur Vermittlung von Rennwetten darf
+nur Betreibern von Totalisatoren und Buchmachern erteilt werden.
 
 
-
-##### a) - an Rennvereine zum Betrieb eines Totalisators
-
-
-
-###### § 2
+#### § 2 Voraussetzungen für die Erteilung der Erlaubnis zum Betrieb eines Totalisators
 
 (1) Zum Betrieb eines Totalisators darf nur ein Renn- oder
 Pferdezuchtverein (Verein) zugelassen werden.
@@ -93,23 +86,18 @@ diesem Zweck die Vorlegung weiterer Nachweise fordern.
 (5) Die Art und der Umfang der vom Verein beabsichtigten Rennen müssen
 die Erreichung des in Absatz 3 genannten Ziels gewährleisten.
 
-(6) Dem Verein darf die Genehmigung zum Betrieb eines
-Totalisatorunternehmens nur erteilt werden, wenn er sich verpflichtet,
-den Buchmachern, denen die Erlaubnis für den Abschluß oder die
-Vermittlung von Wetten auf der Rennbahn des Vereins erteilt ist, die
-Ausübung ihres Gewerbes an den Renntagen auf der Rennbahn gegen
-Entrichtung eines Standgeldes zu gestatten. Die Höhe des Standgeldes
-wird zwischen dem Verein und den Buchmachern vereinbart; im Streitfall
-entscheidet die nach Landesrecht zuständige Behörde oder die von ihr
-bestimmte Stelle. Den Buchmachern ist auf der Rennbahn ein bestimmter
-Platz anzuweisen.
+(6) Dem Verein darf die Genehmigung zum Betrieb eines Totalisators nur
+erteilt werden, wenn er sich verpflichtet, den Buchmachern, denen die
+Erlaubnis für den Abschluß oder die Vermittlung von Wetten auf der
+Rennbahn des Vereins erteilt ist, die Ausübung ihres Gewerbes an den
+Renntagen auf der Rennbahn gegen Entrichtung eines Standgeldes zu
+gestatten. Die Höhe des Standgeldes wird zwischen dem Verein und den
+Buchmachern vereinbart; im Streitfall entscheidet die nach Landesrecht
+zuständige Behörde oder die von ihr bestimmte Stelle. Den Buchmachern
+ist auf der Rennbahn ein bestimmter Platz anzuweisen.
 
 
-##### b) - an Buchmacher
-
-
-
-###### § 3
+#### § 3 Voraussetzungen für die Erteilung der Erlaubnis an Buchmacher
 
 (1) Als Buchmacher darf nur zugelassen werden, wer den Nachweis
 erbringt, daß er seiner Person nach die Gewähr für eine einwandfreie
@@ -135,25 +123,12 @@ beantragten Betrag zu erhöhen. Leistet der Buchmacher innerhalb
 angemessener Frist die anderweit festgesetzte Sicherheit nicht, so ist
 die Erlaubnis zu widerrufen.
 
-(5) Die Sicherheit darf nur im Einverständnis mit der
-Oberfinanzdirektion, in deren Bezirk der Buchmacher zugelassen ist,
-freigegeben werden.
+(5) Die Sicherheit darf nur im Einverständnis mit dem Finanzamt, das
+für die Steuern des Buchmachers nach dem Rennwett- und Lotteriegesetz
+zuständig ist, freigegeben werden.
 
 
-#### Inhalt der Erlaubnis
-
-
-
-##### § 4
-
--
-
-
-##### b) - besondere Bestimmungen für Rennvereine
-
-
-
-###### § 5
+#### § 4 Besondere Bestimmungen für Totalisatorbetreiber
 
 Dem Verein ist vorzuschreiben, auf welchen Plätzen der Rennbahn der
 Totalisator aufgestellt werden darf und welches der Mindestbetrag der
@@ -164,11 +139,7 @@ den Betrieb von Wettannahmestellen trifft die nach Landesrecht
 zuständige Behörde.
 
 
-##### c) - besondere Bestimmungen für Buchmacher
-
-
-
-###### § 6
+#### § 5 Besondere Bestimmungen für Buchmacher
 
 (1) Den Buchmachern ist vorzuschreiben, welchen Beschränkungen sie und
 ihre Gehilfen (§ 3 Absatz 2) sich bei Ausübung ihres Gewerbes auf dem
@@ -192,50 +163,17 @@ sind.
 (3)
 
 
-##### d) - Erlaubnisurkunde für Buchmacher
+#### § 6 Bekanntmachungen
+
+Die Erteilung der Erlaubnis an Vereine zum Betrieb eines Totalisators
+und an Buchmacher zum Betrieb eines Wettunternehmens, die Beschränkung
+dieser Erlaubnis und ihr Widerruf sind im Bundesanzeiger öffentlich
+bekanntzumachen. Die jeweils für Rennwett-, Lotterie- und
+Sportwettensteuer zuständige Finanzbehörde ist über die Erteilung der
+Erlaubnis zu unterrichten.
 
 
-
-###### § 7
-
-Über die Erlaubnis ist dem Buchmacher sowie jedem Gehilfen als Ausweis
-eine Urkunde auszustellen, aus der sich die Nebenbestimmungen der
-Erlaubnis ergeben.
-
-
-##### e) - Bekanntmachungen. Totalisator- und Buchmacherliste
-
-
-
-###### § 8
-
-(1) Die Erteilung der Erlaubnis an Vereine und Buchmacher zum Betrieb
-eines Wettunternehmens, die Beschränkung dieser Erlaubnis und ihr
-Widerruf sind im Bundesanzeiger öffentlich bekanntzumachen. Außerdem
-hat die nach Landesrecht zuständige Behörde von jeder
-Erlaubniserteilung der Oberfinanzdirektion, in deren Bezirk der
-Betrieb des Wettunternehmens zugelassen ist, Anzeige zu machen. Die
-Oberfinanzdirektion hat die Anzeige an das für die Erhebung der
-Rennwettsteuer zuständige Finanzamt weiterzuleiten. Dieses hat dem für
-die Veranlagung der Buchmacher zur Einkommensteuer zuständigen
-Finanzamt Mitteilung zu machen. Entsprechendes gilt für die
-Gewerbesteuern. ...
-
-(2) Das Finanzamt hat über die Totalisatorunternehmen nach Muster 1,
-über die zugelassenen Buchmacher und deren Gehilfen nach Muster 2 eine
-Liste zu führen. Die Anzeigen (Absatz 1 Satz 2) sind als Belege zu den
-Listen zu nehmen.
-
-
-### II. - Abschluß der Wette
-
-
-
-#### - - Wettschein beim Totalisator
-
-
-
-##### § 9
+#### § 7 Abschluss der Wette beim Totalisator
 
 Die von dem Veranstalter und den Annahmestellen eines Totalisators dem
 Wettnehmer auszuhändigenden Urkunden (Totalisatorausweise, Tickets)
@@ -246,7 +184,7 @@ a)  die Nummer, den Ort und den Tag des Rennens (Tagesstempel oder
 
 
 b)  den Namen oder die Programmnummer des gewetteten Pferdes oder der
-    Pferde,
+    Pferde und die Wettart,
 
 
 c)  den Betrag des Wetteinsatzes,
@@ -258,27 +196,17 @@ d)  den Namen des Unternehmers.
 
 
 
-#### - - Geschäftsführung des Buchmachers
-
-
-
-##### a) - Wettschein
-
-
-
-###### § 10
+#### § 8 Abschluss der Wetten beim Buchmacher
 
 (1) Der Buchmacher und die Buchmachergehilfen haben über jede
-angenommene Einzelwette im Durchschreibeverfahren zwei gleichlautende
-Wettscheine auszustellen. ... Der mit dem Steueraufdruck versehene
-Wettschein ist dem Wettnehmer auszuhändigen, der andere verbleibt im
-Besitz des Buchmachers. Mehrere Wetten desselben Wettnehmers, die sich
-auf dasselbe Rennen oder auf mehrere an demselben Tage und auf
-derselben Rennbahn stattfindende Rennen beziehen, können auf einem
-Wettschein zusammengefaßt werden, wenn die entrichtete Steuer für
-sämtliche Wetten ausreicht. Die Rückseite des Wettscheins darf für
-Eintragungen über abgeschlossene Wetten nicht benutzt werden. Die
-Wettscheine müssen enthalten
+angenommene Wette einen dem Wettenden auszuhändigenden Wettschein
+auszustellen. Ein Duplikat verbleibt im Besitz des Buchmachers und
+soll elektronisch gespeichert werden. Mehrere Wetten desselben
+Wettenden, die sich auf dasselbe Rennen oder auf mehrere am selben Tag
+und auf derselben Rennbahn stattfindende Rennen beziehen, können auf
+einem Wettschein zusammengefasst werden. Die Rückseite des Wettscheins
+darf für Eintragungen über abgeschlossene Wetten nicht benutzt werden.
+Die Wettscheine müssen enthalten
 
 a)  den Tag der Ausstellung,
 
@@ -293,49 +221,42 @@ c)  den Namen oder die Programmnummer des gewetteten Pferdes oder der
 d)  die Art und den Inhalt der Wette,
 
 
-e)  den Betrag des Wetteinsatzes,
+e)  Veranstaltung oder Vermittlung der Wette,
 
 
-f)  den Namen des Buchmachers und der Person, die in seinem Auftrag und
+f)  die Angabe, ob das Rennen im Ausland stattfand,
+
+
+g)  den Betrag des Wetteinsatzes,
+
+
+h)  den Namen des Buchmachers und der Person, die in seinem Auftrag und
     für seine Rechnung die Wette abgeschlossen oder vermittelt hat. Der
     Wettschein ist vom Buchmacher oder dem Gehilfen zu unterschreiben.
 
 
 
 
-(2) Der Wetteinsatz muß mindestens 50 Cent betragen, höhere
-Wetteinsätze müssen durch 10 ohne Rest teilbar sein.
+(2) Der Wettschein muss mindestens einen Betrag von 50 Cent ausweisen.
 
-(3) Die Wettscheine sind mit nicht löschbarem Schreibmittel
-auszufüllen. Allgemein übliche und verständliche Abkürzungen können
-gebraucht werden, insbesondere ist es gestattet, das Datum mit Zahlen
-zu bezeichnen; farbige Stempelabdrucke sind zur Ausfüllung der
-Wettscheine zugelassen.
+(3) Wettscheine dürfen allgemein übliche und verständliche Abkürzungen
+enthalten.
 
 
-##### b) - Aufbewahrungsfrist
+### II. - Abschluss der Rennwette
 
 
 
-###### § 11
+#### § 9 Aufbewahrungsfrist
 
-Die im Besitz des Buchmachers verbleibenden Durchschriften der
-Wettscheine sowie die sonstigen Unterlagen für den Abschluß der
-Wetten, wie Brief- und Telegrammwechsel, die Aufstellungen und
-Abrechnungen mit den Buchmachergehilfen sind zeitlich geordnet 3 Jahre
-lang aufzubewahren.
-
-
-###### § 12
-
--
+Die im Besitz des Buchmachers verbleibenden Duplikate der Wettscheine
+oder demselben Zweck dienende vergleichbare schriftliche oder
+elektronische Unterlagen sowie die sonstigen Unterlagen für den
+Abschluss der Wetten sind zeitlich geordnet zehn Jahre lang
+aufzubewahren.
 
 
-##### d) - Nachweise
-
-
-
-###### § 13
+#### § 10 Buchführung des Buchmachers
 
 Jeder Buchmacher hat über seine Einnahmen und Ausgaben aus dem
 Wettgeschäft Buch zu führen. Aus der Buchführung müssen
@@ -353,1025 +274,711 @@ Wettgeschäft Buch zu führen. Aus der Buchführung müssen
 
 
 
-zu ersehen sein. § 11 gilt entsprechend.
+zu ersehen sein. § 9 gilt entsprechend.
 
 
-### III. - Steuervorschriften
+## B. - Steuerrechtlicher Teil
 
 
 
-#### - - Sachliche Zuständigkeit
+### I. - Rennwettsteuer
 
 
 
-##### § 14
+#### § 11 Definition der Rennwetten
 
-Die Rennwettsteuer wird von den Finanzämtern verwaltet.
+Rennwetten im Sinne der §§ 8 bis 15 des Rennwett- und Lotteriegesetzes
+sind Wetten, die aus Anlass öffentlicher Pferderennen und anderer
+öffentlicher Leistungsprüfungen für Pferde von einem im Inland
+ansässigen Betreiber eines Totalisators oder von einer im Inland
+ansässigen Person, die nicht Totalisatorbetreiber ist, mit einem
+Wettenden abgeschlossen werden.
 
 
-#### - - Örtliche Zuständigkeit
+#### § 12 Bemessungsgrundlage
 
+Der geleistete Wetteinsatz nach § 9 Rennwett- und Lotteriegesetz
+umfasst nicht Wettboni, die dem Wettenden zur Verfügung gestellt
+werden, aber nicht ausbezahlt, sondern nur verspielt werden können.
 
 
-##### § 15
+#### § 13 Zuständigkeit
 
-(1) Örtlich zuständig ist dasjenige Finanzamt, in dessen Bezirk der
-Verein den Ort seiner Leitung oder der Buchmacher seinen Wohnsitz hat.
-
-(2) Die Vorschriften der §§ 51, 52, 57 bis 63
-der Reichsabgabenordnung              finden Anwendung.
-
-
-#### - - Abrechnungsverfahren
-
-
-
-##### a) - die einzelnen Fälle
-
-
-
-###### § 16
-
-Zur Entrichtung der Steuer im Abrechnungsverfahren sind zugelassen
-
-a)  Vereine,
-
-
-b)  Buchmacher hinsichtlich der durch Eintragung in das Wettbuch zustande
-    gekommenen Wetten (§ 4 Abs. 1 Satz 2 des Gesetzes).
-
-
-
-
-
-##### b) - Aufstellung von Nachweisungen
-
-
-
-###### § 17
-
-(1) Vereine haben hinsichtlich der Totalisatorwetten innerhalb dreier
-Tage nach jedem Renntag, Buchmacher haben hinsichtlich der im § 16 zu
-b genannten Wetten halbmonatlich über die Wetteinsätze und die davon
-zu entrichtenden Steuern eine Nachweisung aufzustellen. Vereine haben
-sich dabei des Musters 5, Buchmacher des Musters 6 zu bedienen.
-
-(2) In die Nachweisungen ist das Gesamtergebnis der sämtlichen
-abgeschlossenen Wetten für jeden Renntag und für jedes Einzelrennen
-einzutragen.
-
-(3) Die Wettsteuer ist von dem Gesamtbetrag der Wetteinsätze für jedes
-Einzelrennen zu berechnen; hierbei sind überschießende Centbeträge auf
-den nächsten durch fünf teilbaren Centbetrag nach unten abzurunden.
-Die einzelnen Steuerbeträge sind am Schluß aufzurechnen.
-
-(4) Für diejenigen in der Nachweisung aufzuführenden Wetten, für
-welche die Wetteinsätze aus einem der im § 26 der
-Ausführungsbestimmungen angeführten Gründen zurückgezahlt sind, kann
-die Wettsteuer von dem aufgerechneten Steuerbetrag abgesetzt werden.
-Die Gründe für die Absetzung und die Berechnung der abgesetzten
-Steuerbeträge sind auf der Nachweisung oder auf einem Anhang dazu zu
-vermerken. Die Absetzung gilt als Antrag auf Erlaß der Steuer aus
-Billigkeit. Wird die Absetzung für richtig befunden, so hat das
-Finanzamt dem Antrag zu entsprechen.
-
-(5) Als Unterlage für die Aufstellung der Nachweisungen dienen die
-über die getätigten Wettabschlüsse vorhandenen Bücher und Listen der
-Vereine sowie die Wettbücher der Buchmacher.
-
-
-##### c) - Einreichung der Nachweisung und Zahlung der Steuer
-
-
-
-###### § 18
-
-(1) Die Nachweisung nebst Anhang hierzu (§ 17 Abs. 4 Satz 2) ist von
-dem zu ihrer Einreichung Verpflichteten unter der Versicherung der
-Vollständigkeit und Richtigkeit der darin gemachten Angaben zu
-unterschreiben und von Vereinen innerhalb der im § 17 Abs. 1
-festgesetzten Frist, von Buchmachern spätestens bis zum 7. jeden
-Monats für die in der Zeit vom 16. bis zum Schluß des vorangegangenen
-Monats und spätestens bis zum 22. jeden Monats für die in der Zeit vom
-1\. bis 15. desselben Monats abgeschlossenen Wetten dem zuständigen
-Finanzamt einzureichen. In der Nachweisung haben die Vereine und die
-Buchmacher die Steuer selbst zu berechnen (Steueranmeldung). Die
-Vereine haben der einzureichenden Nachweisung das Rennprogramm, die
-Buchmacher die von den Vereinen zu den Rennen, auf die sich die
-Besteuerung der Wetten bezieht, herausgegebenen Berichte
-(Rennberichte) beizufügen. Für Auslandsrennen, die nicht zustande
-gekommen sind und für die der Buchmacher Rennberichte nicht beibringen
-kann, ist glaubhaft zu machen, daß das Rennen nicht zustande gekommen
-ist.
-
-(2) Die Wettsteuer ist gleichzeitig mit der Einreichung der
-Nachweisung an die Kasse des Finanzamts zu entrichten. Bei der
-Entrichtung durch Übersendung oder Überweisung des Betrags ist
-anzugeben, daß es sich um Wettsteuer handelt und auf welchen Zeitraum
-der Betrag entfällt.
-
-
-##### d) - Überwachung des Eingangs der Nachweisungen
-
-
-
-###### § 19
-
-(1) Der rechtzeitige Eingang der Nachweisungen ist von dem Finanzamt
-durch die Totalisatorliste und die Buchmacherliste (§ 8) zu
-überwachen.
-
-(2) Sind die Nachweisungen nicht rechtzeitig vorgelegt, so hat das
-Finanzamt den Verein oder den Buchmacher zur Einreichung aufzufordern.
-
-
-##### e) - Prüfung und Festsetzung durch die Steuerbehörden
-
-
-
-###### § 20
-
-Dem Finanzamt sind auf Verlangen die den Eintragungen in die
-Nachweisungen und den Anhang zugrunde liegenden Urkunden,
-Geschäftsbücher, Wettbücher und Schriftstücke zur Einsicht vorzulegen.
-Auf Antrag kann die Vorlegung und Prüfung in den Geschäftsräumen des
-Vereins oder des Buchmachers geschehen.
-
-
-##### f) - *Ku Nachzahlung *KE
-
-
-
-###### § 21
-
--
-
-
-#### - - *Ku Wettscheine *KE
-
-
-
-##### (XXXX) §§ 22 bis 25
-
-
-
-#### - - Erstattung der Rennwettsteuer
-
-
-
-##### § 26
-
-(1) Die Rennwettsteuer soll vom Finanzamt aus Billigkeitsgründen
-entweder nicht erhoben oder für zurückgezahlte Wetteinsätze erstattet
-werden, wenn
-
-a)  ein Rennen für ungültig erklärt wird,
-
-
-b)  ein Rennen, für das die Wette abgeschlossen ist, nicht zustande kommt,
-
-
-c)  ein Pferd, auf das sich die Wette bezieht, an dem Rennen nicht
-    teilnimmt, es sei denn, daß die Wette unter der Bedingung "Laufen oder
-    zahlen" abgeschlossen ist. Diese Bedingung gilt als gegeben, wenn die
-    Wette zu festen Odds abgeschlossen ist.
-
-
-
-
-(2) Dem mit Gründen versehenen Antrag der Buchmacher sind die von den
-Wettnehmern zurückgegebenen Wettscheine oder schriftlichen
-Bestätigungen der Eintragung in das Wettbuch sowie der Rennbericht
-beizufügen, aus dem der Verlauf des betreffenden Rennens zu ersehen
-ist. Die Steuer für Wettscheine, auf denen Rasuren vorgenommen sind,
-kann nicht erstattet werden. Anträge auf Erstattung der Wettsteuer für
-mehrere Wettscheine und für in das Wettbuch eingetragene und im
-Abrechnungsweg versteuerte Wetten können gesammelt vorgelegt werden.
-Die Wettausweise sind in diesem Falle nach Renntagen geordnet
-beizufügen.
-
-(3) Der Antrag ist von dem Buchmacher innerhalb einer Frist von einem
-Monat bei dem zuständigen Finanzamt zu stellen. Die Frist beginnt mit
-dem Zeitpunkt, in welchem die Ereignisse eingetreten sind, welche den
-Anspruch begründen. Vereine können den Antrag nur gleichzeitig mit der
-Einreichung der Nachweisung (§ 17) stellen. Die Vorschriften der
-§§ 131, 133 und 136              der AO finden Anwendung.
-
-(4) Wettscheine, deren Steuerwerte erstattet sind, sind zu
-durchlochen. Der erstattete Betrag ist im Anhang zum Einnahmebuch
-nachzuweisen. Die Wettausweise werden Beleg zu der der Finanzkasse
-zuzustellenden Erstattungsnachweisung und diese wird Beleg zum Anhang
-zum Einnahmebuch. Ist die Wettsteuer im Abrechnungsverfahren
-entrichtet (§ 16), so ist die Erstattung in der Nachweisung, mit der
-die Entrichtung der Wettsteuer nachgewiesen ist (§ 17), zu vermerken.
-
-(5) Die Erstattungen sind tunlichst zu beschleunigen.
-
-
-## B. - Lotterie- und Sportwettensteuer
-
-
-
-### - - Steuerpflichtige Lotterien
-
-
-
-#### § 27
-
-(1) Als öffentliche Lotterien sind auch anzusehen: auf Jahrmärkten
-oder aus Anlass öffentlicher Volksbelustigungen veranstaltete
-Ausspielungen, bei denen Spielausweise ausgegeben werden, sofern der
-Gesamtpreis der Spielausweise jeder einzelnen hintereinander folgenden
-Ausspielungen mehr als 164 Euro beträgt.
-
-(2) Bei öffentlichen Ausspielungen gelten als Ausweise auch
-Papierröllchen oder ähnliche Gegenstände, die die Spielteilnehmer
-gegen Entrichtung des Einsatzes ausgehändigt erhalten, sofern diese
-Gegenstände in Verbindung mit anderen Tatumständen als Beweis für die
-Beteiligung am Spiel dienen, und ihrer Beschaffenheit nach unmittelbar
-über Gewinn und Verlust entscheiden.
-
-(3) Nummernlisten, die über öffentlich veranstaltete Ausspielungen von
-Gegenständen zur Beifügung der Namen der Spieler und zur Erhebung
-eines entsprechenden Beteiligungsbetrags vom Spielunternehmer in
-Umlauf gesetzt werden, gelten nicht als Spielausweise.
-
-
-#### § 28
-
-Öffentliche Ausspielungen, bei denen den Teilnehmern keinerlei
-Ausweise ausgehändigt werden, unterliegen der Lotteriesteuer nur, wenn
-die Gewinne ganz oder teilweise in barem Gelde bestehen.
-
-
-### - - Sachliche Zuständigkeit
-
-
-
-#### § 29
-
-Die Lotterie- und Sportwettensteuer wird von den Finanzämtern
-verwaltet.
-
-
-### - - Örtliche Zuständigkeit
-
-
-
-#### § 30
-
-(1) Örtlich zuständig ist das Finanzamt, in dessen Bezirk der
-Veranstalter des Lotterieunternehmens, der Ausspielung oder der
-Sportwette (Veranstalter) seinen Wohnsitz hat, oder sofern eine der im
-§ 52              AO genannten Personen oder Personenvereinigungen
-Veranstalter ist, das Finanzamt, in dessen Bezirk diese den Ort ihrer
-Leitung hat. Für Ausspielungen auf Jahrmärkten oder bei Gelegenheit
-von öffentlichen Volksbelustigungen ist auch das Finanzamt zuständig,
-in dessen Bezirk die Ausspielung stattfinden soll.
-
-(2) Die Vorschriften der
-§§ 51, 52, 57 bis 63              AO finden entsprechende Anwendung.
-
-
-### - - Anmeldung von Lotterien und Sportwetten
-
-
-
-#### a) - im allgemeinen
-
-
-
-##### § 31
-
-(1) Wer in den Ländern Lotterien oder Ausspielungen veranstalten will,
-bei denen der Gesamtpreis der Lose oder Spielausweise (Lose) die Summe
-von 164 Euro übersteigt, hat dem zuständigen Finanzamt spätestens am
-30\. Tag nach dem Empfang der behördlichen Erlaubnis nach Muster 8
-schriftlich anzumelden:
-
-*   Name, Gewerbe und Wohnung des Veranstalters, die planmäßige Anzahl
-    (die Nummern) und den planmäßigen Preis der Lose, den Zeitpunkt, von
-    welchem ab mit dem Vertrieb der Lose begonnen werden soll, die
-    Gegenstände, die Zeit und den Ort der Ausspielung, die Namen und
-    Wohnungen der unmittelbar von dem Veranstalter mit dem Vertrieb der
-    Lose betrauten Personen.
-
-
-
-Veranstalter, die nicht Gewerbetreibende oder Reisegewerbetreibende im
-Sinne der Gewerbeordnung sind, haben Sachausspielungen dem zuständigen
-Finanzamt nur anzumelden, wenn der Gesamtpreis der Lose 650 Euro
-übersteigt (vgl. § 18 Nr. 1b des Rennwett- und Lotteriegesetzes).
-
-(2) Die Anmeldung ist in zwei Ausfertigungen einzureichen. Der
-Anmeldung ist als Anlage eine amtlich beglaubigte Ausfertigung des
-obrigkeitlichen Plans der Lotterie oder Ausspielung beizufügen.
-
-(3) Gleichzeitig mit der Anmeldung ist dem Finanzamt die gesamte
-planmäßige Anzahl der Lose einzureichen. Die Lose verbleiben im
-Gewahrsam des Finanzamts, bis die Versteuerung bewirkt ist. Über den
-Empfang der Lose ist dem Anmeldenden eine Bescheinigung nach Muster 9
-auszustellen.
-
-
-##### § 31a
-
-(1) Wer Sportwetten im Sinne des § 17 Absatz 2 des Rennwett- und
-Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
-unverzüglich anzumelden:
-Name, Gewerbe und Wohnung oder Sitz des Veranstalters und Zeitpunkt
-der Aufnahme des Wettbetriebs.
-
-(2) Die Anmeldung ist in zwei Ausfertigungen einzureichen.
-
-(3) Der Veranstalter oder sein steuerlicher Beauftragter hat bis zum
-15\. Tag nach Ablauf des Anmeldezeitraumes eine Steuererklärung nach
-amtlich vorgeschriebenem Vordruck abzugeben, in der er die gemäß § 37
-zu entrichtende Steuer selbst zu berechnen hat (Steueranmeldung). Die
-Steueranmeldung muss vom Veranstalter oder sein steuerlicher
-Beauftragter eigenhändig unterschrieben sein. Anmeldungszeitraum ist
-der Kalendermonat.
-
-
-#### b) - bei ungetrennter Preisangabe
-
-
-
-##### § 32
-
-Ist in dem Preis für das Los zugleich in ungetrennter Summe die
-Vergütung für sonstige Leistungen enthalten, so hat der Veranstalter
-in der Anmeldung anzugeben und auf Erfordern nachzuweisen, welcher
-Betrag oder Teilbetrag den Preis für die Teilnahme an der Lotterie
-oder Ausspielung darstellt. Gleiches gilt in den Fällen, in denen
-besondere Lose nicht ausgehändigt werden, sondern die Bescheinigung
-über eine geleistete Vergütung (Eintrittskarten, Sammelbons,
-Gutscheine, die zur Teilnahme an einer Lotterie oder Ausspielung
-berechtigen oder die Aussicht auf einen Glücksgewinn eröffnen, und
-ähnliche) zugleich als Los dient. Der auf die Lose zu rechnende Betrag
-darf nicht geringer sein als der Wert der Gewinne. Wird die Angabe von
-dem Veranstalter überhaupt nicht oder nur unzureichend gemacht, so hat
-das Finanzamt den auf die Lose zu rechnenden Betrag nach eigenem
-Ermessen festzusetzen.
-
-
-#### c) - bei Geltendmachung von Steuerfreiheit
-
-
-
-##### § 33
-
-Wird Befreiung von der Steuer beansprucht, so ist mit der Anmeldung
-der Nachweis zu führen, daß der Erlös des Unternehmens zu
-ausschließlich mildtätigen Zwecken verwendet werden wird. Über die
-Frage, ob ein ausschließlich mildtätiger Zweck vorliegt, wird im
-ordentlichen Rechtsmittelverfahren entschieden.
-
-
-#### d) - Mitteilungspflicht der Genehmigungsbehörde
-
-
-
-##### § 34
-
-Die Behörde, welche nach den Bestimmungen der Landesgesetze die
-Erlaubnis zur Veranstaltung einer öffentlichen Lotterie, Ausspielung
-oder Sportwette erteilt, hat den Veranstalter auf seine steuerlichen
-Verpflichtungen gemäß §§ 31, 31a und 32 besonders hinzuweisen und von
-der Erteilung der Erlaubnis ohne Verzug dem Finanzamt unter
-Bezeichnung des Unternehmens und seines Zweckes, des Namens und der
-Wohnung des Veranstalters und des Zeitpunktes, an welchem diesem die
-obrigkeitliche Erlaubnis behändigt wurde, Mitteilung zu machen.
-
-
-### - - Anmeldung ausländischer Lose
-
-
-
-#### § 35
-
-Wer ausländische Lose und Spielausweise (Lose) in das Inland verbringt
-oder als erster im Inland empfängt, hat dem Finanzamt mit einer
-doppelten Anmeldung nach Muster 10 innerhalb der in § 21 Abs. 4 des
-Gesetzes bezeichneten Frist die Lose zur Versteuerung vorzulegen. Eine
-elektronische Übermittlung der Anmeldung ist ausgeschlossen.
-
-
-### - - Prüfung und Festsetzung durch die Steuerbehörde
-
-
-
-#### § 36
-
-(1) Das Finanzamt prüft die Anmeldung (§§ 31 und 35) und setzt auf
-beiden Stücken der Anmeldung die Steuer fest; die eine Anmeldung gibt
-es dem Steuerpflichtigen zurück und leitet die andere der Finanzkasse
-zu. Die Anmeldung wird Beleg zum Sollbuch.
-
-(2) Hat das Finanzamt gemäß § 34 von der beabsichtigten Veranstaltung
-einer Lotterie, Ausspielung oder Sportwette Kenntnis erhalten, ohne
-dass innerhalb der Fristen nach § 31 Absatz 1 oder § 31a Absatz 1 die
-vorgeschriebene Anmeldung erfolgt ist, so hat es wegen Festsetzung und
-Beitreibung der Lotteriesteuer, sowie nach den Umständen wegen
-Einleitung des Strafverfahrens das Erforderliche zu veranlassen. Die
-Vorlegung der Lose zur Abstempelung kann im Wege des
-§ 202              AO erzwungen werden. Um einen beabsichtigten
-Vertrieb ungestempelter Lose zu verhindern, kann das Finanzamt die
-Polizeibehörde um Beschlagnahme der Lose ersuchen.
-
-
-### - - Berechnung der Lotterie- und Sportwettensteuer
-
-
-
-#### § 37
-
-(1) Bei der Berechnung der Lotteriesteuer für im Inland veranstaltete
-Lotterien und Ausspielungen und der Sportwettensteuer nach § 17 Absatz
-2 des Rennwett- und Lotteriegesetzes sind alle für den Erwerb eines
-Loses oder eines Wettscheines an den Veranstalter oder dessen
-Beauftragten zu bewirkenden Leistungen dem Preise des Loses oder dem
-Wetteinsatz hinzuzurechnen, insbesondere in Rechnung gestellte
-Schreib- und Kollektionsgebühren. Hierher gehört auch der dem Spieler
-etwa besonders in Rechnung gestellte Betrag der Steuer. Da aber
-Lotteriesteuer von der Lotteriesteuer nicht erhoben wird, sind bei
-Berechnung der Lotteriesteuer nur 5/6 des Gesamtpreises zugrunde zu
-legen.
-
-(2) Für inländische Lotterien und Sportwetten ist die Steuer nach
-Maßgabe des Absatzes 1 derart festzustellen, daß ein sich bei
-Berechnung der Gesamtsteuer ergebender überschießender Centbetrag auf
-den nächsten durch fünf teilbaren Centbetrag nach unten abzurunden
-ist.
-
-(3) Lose, die bei Ausspielungen mit Gewinnziehungen nach Klassen
-(Klassenlotterien) erst nach Beginn der Ziehungen abgesetzt werden,
-sind mit dem Gesamtkaufpreis einschließlich des für die Vorklasse
-planmäßig zu zahlenden Preises steuerpflichtig.
-
-(4) Die Steuer von ausländischen Losen wird nach dem Nennwert des
-Loses berechnet. Für die Umrechnung fremder Währungen sind die für die
-Umsatzsteuer geltenden Bestimmungen anzuwenden.
-
-
-### - - Zahlung der Lotterie- und Sportwettensteuer
-
-
-
-#### § 38
-
-Von der Einzahlung der Steuer hat die Finanzkasse dem Finanzamt
-umgehend Mitteilung zu machen.
-
-
-### - - Stundung der Lotteriesteuer
-
-
-
-#### § 39
-
-Die Finanzämter können die Steuer auf Antrag über den Zeitpunkt
-hinaus, in dem mit dem Losabsatze begonnen werden soll, stunden (
-§ 105              AO). Die Stundung soll in keinem Fall sechs Monate
-überschreiten und spätestens vier Wochen vor der Ziehung oder der
-Ausspielung ablaufen. Stundung ohne Sicherheitsleistung darf nur mit
-Genehmigung der Oberfinanzdirektion gewährt werden. Eine Stundung der
-Steuer für ausländische Lose sowie von Steuerbeträgen unter 250 Euro
-soll nicht gewährt werden.
-
-
-### - - Teilversteuerung
-
-
-
-#### § 40
-
-Bei solchen Lotterien oder Ausspielungen, bei denen nach der
-obrigkeitlichen Erlaubnis nicht von vornherein eine planmäßig
-bestimmte Anzahl von Losen festgesetzt, dem Veranstalter vielmehr nur
-gestattet ist, Lose zu einer gewissen Höchstzahl auszugeben, darf die
-Lotterie oder Ausspielung je nach der Anzahl der auszugebenden Lose
-versteuert werden. Für die Anmeldung des ersten Teiles der
-auszugebenden Lose gelten die Bestimmungen der §§ 31 und 32. Die
-weiterhin auszugebenden Lose sind mit besonderer Anmeldung vorzulegen,
-in der unter Angabe der Zahl und der Nummern der Lose auf die erste
-Anmeldung Bezug zu nehmen ist.
-
-
-### - - Beschaffenheit der Lose
-
-
-
-#### § 41
-
-Die Lose sind in einer solchen Form und Beschaffenheit herzustellen,
-daß sie sich zur Abstempelung eignen. Die Oberfinanzdirektionen sind
-befugt, in besonderen Fällen auch andere Lose zuzulassen.
-
-
-### - - Abstempelungsverfahren
-
-
-
-#### a) - Abstempelung der Lose
-
-
-
-##### § 42
-
-(1) Nachdem entweder die festgesetzte Steuer eingezahlt oder
-gestundet, oder die Steuerbefreiung der Lose anerkannt worden ist,
-werden die Lose durch das zuständige Finanzamt mittels
-Stempelaufdrucks abgestempelt. Der Stempel hat runde Form. Er führt
-den
-Reichsadler              und über diesem die Aufschrift "Versteuert"
-oder "Steuerfrei", darunter das Unterscheidungszeichen der
-Abstempelungsstelle.
-
-(2) Die abgestempelten Lose werden gegen Rückgabe der
-Empfangsbescheinigung (§ 31 Abs. 3 Schlußsatz) und gegen eine auf
-diese zu setzende Empfangsbestätigung des Loseempfängers
-zurückgegeben.
-
-(3) Die Bestimmungen der Absätze 1 und 2 finden auch auf ausländische
-Lose Anwendung.
-
-
-#### b) - vereinfachte Abstempelung
-
-
-
-##### § 43
-
-(1) Die Oberfinanzdirektionen können unter den erforderlichen
-Bedingungen und Sicherungsmaßnahmen zuverlässigen Privatdruckereien,
-die sich mit dem Druck von Losen befassen, gestatten, die bei ihnen
-gedruckten Lose auf Kosten des Anmelders in der rechten oberen Ecke
-des Loses mit folgendem Vermerke zu versehen:
-
-*   Den Vorschriften über die Lotteriesteuer ist nach der Bescheinigung
-    des Finanzamts ... vom ... Nr. ... des Sollbuchs genügt (§ 43 der
-    Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz).
-
-
-
-Die Worte "Nr. ... des Sollbuchs" fallen fort, wenn die Lotterie oder
-Ausspielung als steuerfrei anerkannt ist.
-
-(2) Der Antrag auf Genehmigung der vereinfachten Abstempelung ist mit
-der Anmeldung zur Versteuerung bei dem zuständigen Finanzamt zu
-stellen. Das Finanzamt darf die Genehmigung erst erteilen, wenn die
-Steuer bezahlt oder gestundet oder anerkannt ist, daß die Lotterie
-oder Ausspielung von der Steuer befreit ist.
-
-(3) Vor Erteilung der Genehmigung, die das Finanzamt auch der
-Druckerei mitzuteilen hat, dürfen von dieser die Lose an den
-Veranstalter der Lotterie oder Ausspielung nicht ausgehändigt werden.
-
-
-### - - Ungestempelte Lose
-
-
-
-#### § 44
-
-Ungestempelte Lose dürfen, sofern es sich nicht um Lotterien und
-Ausspielungen im Betrage von nicht mehr als 164 Euro handelt, oder die
-Oberfinanzdirektion zur Abstempelung ungeeignete Lose zugelassen hat
-(§ 41 Satz 2), nicht ausgegeben werden. Nach näherer Vorschrift der
-Oberfinanzdirektion kann ferner bei den unter obrigkeitlicher Aufsicht
-stattfindenden Warenverlosungen von der Abstempelung der Lose
-abgesehen werden, wenn mit Rücksicht auf die Zahl und den Preis der
-Lose die Abstempelung unverhältnismäßige Mühewaltung verursachen würde
-oder die Beschaffenheit der Lose eine Abstempelung ausschließt. Das
-gleiche gilt auch für Geldlotterien, wenn der Absatz der Lose nur in
-einem bestimmten, räumlich beschränkten Gebiet stattfindet.
-
-
-### - - Erstattung der Lotteriesteuer
-
-
-
-#### § 45
-
-(1) Die Lotteriesteuer soll aus Billigkeitsgründen entweder nicht
-erhoben oder erstattet werden, wenn
-
-a)  die Ziehung einer Lotterie oder Ausspielung unterbleibt,
-
-
-b)  unter entsprechender Ermäßigung des Gesamtwerts der Gewinne der
-    genehmigte Lotterieplan abgeändert wird.
-
-
-
-
-(2) Die Erstattung ist nur insoweit zuzulassen, als im Falle des
-Absatzes 1 zu a Lose nicht abgesetzt oder vom Veranstalter
-zurückerworben sind, und im Falle des Absatzes 1 zu b Lose von der
-Verlosung ausgeschlossen sind.
-
-(3) Der Antrag ist schriftlich bei dem Finanzamt bis zum Schluß des
-Jahres zu stellen, das auf das Jahr folgt, in dem die Ziehung
-stattfinden sollte.
-
-(4) Dem Antrag sind die ihn begründenden Nachweise beizufügen. Die
-Vorschriften der
-§§ 131, 133, 136              AO finden Anwendung.
-
-
-### - - Staatslotterien
-
-
-
-#### § 46
-
-(1) Die Bestimmungen der §§ 27, 28, 31, 31a Abs. 1 und 2, §§ 32 bis
-36, 37 Abs. 4, §§ 39, 40 bis 44 finden auf die Staatslotterien der
-Länder und auf die von den Ländern oder in deren Auftrag
-veranstalteten Sportwetten keine Anwendung. § 31a Abs. 3 gilt mit der
-Maßgabe, dass auch ein kürzerer Anmeldungszeitraum als der
-Kalendermonat zulässig ist.
-
-(2) Die Verwaltung der Staatslotterien haben spätestens am 15. Tag
-nach Ablauf der Ziehung jeder Klasse dem zuständigen Finanzamt unter
-Benutzung eines zwischen der Oberfinanzdirektion und der
-Lotterieverwaltung zu vereinbarenden Musters die Zahl der abgesetzten
-Lose und den Preis der Lose anzuzeigen. Die Anzeigen sind schriftlich
-unter Beifügung eines Ziehungsplans doppelt zu erstatten. Das
-Finanzamt überwacht auf Grund des Ziehungsplans den rechtzeitigen
-Eingang der Anzeigen über jede Klassenziehung.
-
-(3) Das Finanzamt setzt die zu entrichtende Lotteriesteuer auf beiden
-Stücken der Anzeige fest; die eine Anzeige gibt es der
-Landeslotterieverwaltung zurück und leitet die andere der Finanzkasse
-zu. Die Anzeige wird Beleg zum Sollbuch.
-
-(4) (weggefallen)
-
-
-## C. - Steueraufsicht
-
-
-
-### - - Allgemeines
-
-
-
-#### § 47
-
-(1) Die Steueraufsicht über Totalisatorunternehmen betreibende Renn-
-und Pferdezuchtvereine (Vereine), Buchmacher, Veranstalter von
-Lotterien, Ausspielungen und Sportwetten (Veranstalter) ist nicht nur
-bei Festsetzung der Steuer auf Grund der eingereichten Nachweisungen
-und Anmeldungen auszuüben, sondern auch durch Prüfungen in den
-Geschäftsräumen, die der Unterhaltung der Betriebe dienen (Büros der
-Vereine, der Veranstalter, der Buchmacher und deren Gehilfen) sowie
-durch Prüfungen der Totalisatorbetriebe auf den Rennplätzen und der
-Örtlichkeiten, wo Lotterien, Ausspielungen und Sportwetten
-stattfinden. Wurde ein steuerlicher Beauftragter im Sinne des § 19
-Absatz 3 des Rennwett- und Lotteriegesetzes benannt, gilt Satz 1
+(1) Ist der Veranstalter der Rennwette eine natürliche Person, ist das
+Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen Wohnsitz
+hat oder in Ermangelung eines Wohnsitzes seinen gewöhnlichen
+Aufenthalt hat. § 19 Absatz 1 Satz 2 der Abgabenordnung gilt
 entsprechend.
 
-(2) Staatslotterien und von den Ländern oder in deren Auftrag
-veranstaltete Sportwetten unterliegen der Steueraufsicht nicht.
+(2) Ist der Veranstalter der Rennwette eine juristische Person oder
+Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen
+Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der
+Geschäftsleitung nicht im Geltungsbereich des Rennwett- und
+Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht
+feststellen, ist das Finanzamt örtlich zuständig, in dessen Bezirk der
+Veranstalter der Rennwette seinen Sitz hat.
 
 
-### - - Prüfungsfolge
+#### § 14 Besteuerungsverfahren
 
+(1) Das Besteuerungsverfahren richtet sich nach den §§ 8 bis 15 des
+Rennwett- und Lotteriegesetzes.
 
+(2) Bei der Zahlung der Rennwettsteuer sind die Steuernummer, die
+Steuerart und der Zeitraum, für den die Steuer entrichtet wird,
+anzugeben.
 
-#### § 48
+(3) Wird die Rennwettsteuer abweichend festgesetzt, geändert oder
+berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
-(1) Die Oberfinanzdirektion kann anordnen, daß die zuständigen
-Finanzämter innerhalb ihrer Bezirke im Kalenderjahr eine bestimmte
-Anzahl von örtlichen Prüfungen der Betriebe vorzunehmen haben. Auch
-ohne solche Anordnungen ist es Pflicht der Finanzämter, die Wett- und
-Lotterieunternehmungen und die im § 43 genannten Druckereien auf
-Erfüllung der ihnen nach dem Rennwett- und Lotteriegesetz obliegenden
-Verpflichtungen ständig zu beaufsichtigen. Dies geschieht
-zweckmäßigerweise auf Grund eines besonderen Prüfungsplans. Es muß
-aber auch auf außergewöhnliche Prüfungen, deren Notwendigkeit und
-Zweckmäßigkeit sich durch Beobachtung der Wettbetriebe, durch Einsicht
-der Zeitungsinserate oder aus sonstigem Anlaß ergeben, Bedacht
-genommen werden.
 
-(2) Es ist Sorge zu tragen, daß die Steuerpflichtigen, insbesondere
-die Buchmacher und deren Gehilfen, von den beabsichtigten Prüfungen
-nicht vorher Kenntnis erhalten. Mit den Polizeibehörden ist
-zusammenzuarbeiten.
+### II. - Sportwettensteuer
 
-(3) Die Steueraufsicht erstreckt sich auf das gesamte Geschäftsgebaren
-der Steuerpflichtigen, soweit es für die Entrichtung der Steuer von
-Bedeutung ist. Im übrigen gelten die
-§§ 193, 196 bis 199, 204 und 209              AO.
 
 
-### - - Prüfungsmaßnahmen
+#### § 15 Sportwetten
 
+(1) Wetten aus Anlass von Sportereignissen, die nicht als Rennwetten
+im Sinne des § 11 besteuert werden, unterliegen unabhängig vom Ort des
+Sportereignisses der Sportwettensteuer.
 
+(2) Sport im Sinne des Rennwett- und Lotteriegesetzes ist die
+körperliche Betätigung eines Menschen oder eines Menschen zusammen mit
+einem trainierten oder abgerichteten Tier, die über das ansonsten
+übliche Maß hinausgeht und durch äußerlich zu beobachtende
+Anstrengungen oder durch die einem persönlichen Können zurechenbare
+Bewegung gekennzeichnet ist. Zu dieser Betätigung gehören auch
+sportliche Wettkämpfe zwischen Menschen mit Hilfe von technischen
+Geräten, wie beispielsweise Drohnen-Flugwettbewerbe und Motorsport.
 
-#### - - Im Allgemeinen
+(3) Schach und Wettkämpfe zwischen Menschen mit Hilfe von
+Computerspielen, wie beispielsweise der sogenannte E-Sport, gelten als
+Sport im Sinne des Absatzes 2.
 
+(4) Kein Sport im Sinne des Absatzes 2 sind Bridge und artverwandte
+Spiele, reine Denksportarten, ein durch ein Computerprogramm
+animiertes Ereignis, dessen Ausgang von einem Programm ermittelt wird,
+sowie reine Tierwettkämpfe, wie beispielsweise Hunderennen und
+Hahnenkämpfe.
 
+(5) Die „TOTO 13er Ergebniswette“ und die „TOTO 6aus45 Auswahlwette“
+sind Sportwetten im Sinne des Rennwett- und Lotteriegesetzes.
 
-##### § 49
 
-(1) Bei der Steueraufsicht kommen insbesondere folgende Maßnahmen in
-Betracht:
+#### § 16 Bemessungsgrundlage
 
-a)  die planmäßige Durchsicht der Schriftstücke, Aufzeichnungen und
-    ähnlicher Unterlagen, die sich auf den Geschäftsverkehr des
-    Steuerpflichtigen sowie auf die Versteuerung der von ihm
-    abgeschlossenen Geschäfte beziehen, namentlich der Geschäftsbücher,
-    Wettbücher, Steuerblocks, des Schriftwechsels mit den Wettnehmern,
-    anderen Buchmachern und mit sonstigen Personen, die unmittelbar an
-    einem Wettgeschäft, einer Lotterie oder Ausspielung beteiligt sind.
-    Das Finanzamt kann die Vorlegung dieser Schriftstücke an der
-    Amtsstelle verlangen. Die Einsichtnahme soll jedoch auf Wunsch des
-    Steuerpflichtigen in seinen Geschäftsräumen oder in seiner Wohnung
-    erfolgen, sofern ihm die Vorlegung an Amtsstelle nicht zugemutet
-    werden kann. Zur Vorlegung der Bücher sind die Steuerpflichtigen und
-    diejenigen Angestellten verpflichtet, die mit deren Verwahrung oder
-    deren Bearbeitung betraut sind. Der Steuerpflichtige hat Vorsorge zu
-    treffen, daß die Bücher auch in seiner Abwesenheit eingesehen werden
-    können;
+Der geleistete Wetteinsatz nach § 17 des Rennwett- und
+Lotteriegesetzes umfasst nicht Wettboni, die dem Wettenden zur
+Verfügung gestellt werden, aber nicht ausbezahlt, sondern nur
+verspielt werden können.
 
 
-b)  die Inanspruchnahme anderer Personen gemäß
-    §§ 177 bis 188                    AO. In Frage kommt insbesondere die
-    - erforderlichenfalls eidliche - Vernehmung von Auskunftspersonen und
-    die Einsichtnahme in Schriftstücke anderer Personen als der
-    Steuerpflichtigen. Die Einreichung derartiger Schriftstücke kann nur
-    verlangt werden unter bestimmter Bezeichnung der Rechtsvorgänge, auf
-    die sie sich beziehen. In Betracht kommen: der Schriftwechsel mit
-    Rennvereinen, Buchmachern und Lotterieveranstaltern oder deren
-    Gehilfen, die Wettscheine, Quittungen, Lose und Berechnungen, die sich
-    im Besitz solcher Personen befinden, die mit dem Steuerpflichtigen in
-    Geschäftsbeziehungen getreten sind. Die Beeidigung der
-    Auskunftspersonen und die Vorlegung von Schriftstücken kann mit
-    Genehmigung der Oberfinanzdirektion verlangt werden;
+#### § 17 Veranstalter
 
+Veranstalter einer Sportwette ist diejenige Person, die das
+Wettgeschehen in tatsächlicher oder rechtlicher Hinsicht maßgeblich
+gestaltet. Sie ordnet insbesondere die regelungsbedürftigen Fragen im
+Verhältnis zu den Wettenden, z. B. durch vorformulierte
+Vertragsbedingungen, und setzt diese selbst oder durch andere
+entsprechend um. Voraussetzung für die Veranstaltereigenschaft ist
+nicht, dass die Quoten eigenständig ermittelt werden. Vielmehr können
+diese auch zugekauft werden oder auf andere Art zu Stande kommen.
 
-c)  das Betreten der Geschäftsräume des Steuerpflichtigen gemäß
-    § 198                    AO. Es kann insbesondere zu dem Zweck
-    geschehen, um entweder die Schriftstücke (Buchstabe a) einzusehen oder
-    um nachzuprüfen, ob der Steuerpflichtige im laufenden Geschäftsverkehr
-    die Vorschriften der §§ 4, 13 und 19 des Gesetzes innehält. Der
-    Aufenthalt in den Geschäftsräumen soll sich auf die hierzu
-    erforderliche Zeit beschränken. Außerhalb der üblichen
-    Geschäftsstunden dürfen die Geschäftsräume des Steuerpflichtigen nur
-    mit dessen Einwilligung betreten werden.
 
+#### § 18 Veranstaltungsort
 
+(1) In den Fällen des § 16 Satz 2 Nummer 1 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
+der Sportwette seinen Wohnsitz, gewöhnlichen Aufenthalt, Ort der
+Geschäftsleitung oder Sitz hat, unabhängig davon, wo der Wettende die
+zur Entstehung des Wettvertrages erforderlichen Handlungen vornimmt.
 
+(2) In den Fällen des § 16 Satz 2 Nummer 2 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort im Geltungsbereich des
+Rennwett- und Lotteriegesetzes belegen, wenn der Wettende die zur
+Entstehung des Wettvertrages erforderlichen Handlungen im
+Geltungsbereich des Rennwett- und Lotteriegesetzes vornimmt.
+Maßgeblich für die Ortsbestimmung ist grundsätzlich der Ort der
+physischen Anwesenheit des Wettenden. Sofern der Veranstalter den Ort
+der physischen Anwesenheit des Wettenden nicht feststellen kann, gilt
+der Wohnsitz des Wettenden als Veranstaltungsort. Dies gilt unabhängig
+davon, wo der Veranstalter der Sportwette seinen Wohnsitz,
+gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz hat oder
+sonstige technische Vorrichtungen (z. B. Server) vorhält.
 
-(2) Der Beauftragte (
-§ 206              AO) soll sich dem Steuerpflichtigen oder seinen
-Angestellten gegenüber auf Verlangen über seinen Auftrag durch eine
-mit Amtsstempel oder Siegelaufdruck versehene Ausfertigung des ihm
-erteilten allgemeinen oder besonderen Auftrags ausweisen. Der
-Steuerpflichtige hat dem Beauftragten die erforderlichen Hilfsmittel
-(Geräte, Beleuchtung) und einen angemessenen Raum oder Arbeitsplatz
-zur Erledigung seiner Obliegenheiten zur Verfügung zu stellen (
-§ 197              AO).
+(3) Erforderliche Handlungen zur Entstehung des Wettvertrages sind die
+Handlungen, die zur Abgabe der Willenserklärung zum Abschluss des
+Wettvertrages in jedweder Form vorgenommen werden, z. B. in
+schriftlicher, mündlicher oder elektronischer Form.
 
-(3) Die Vorschriften über Zwangsmaßnahmen insbesondere
-Erzwingungsstrafen enthält
-§ 202              AO.
 
-(4)
+#### § 19 Zuständigkeit
 
+(1) Ist der Veranstalter der Sportwette eine natürliche Person, ist
+das Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen
+Wohnsitz oder in Ermangelung eines Wohnsitzes seinen gewöhnlichen
+Aufenthalt hat. § 19 Absatz 1 Satz 2 der Abgabenordnung gilt
+entsprechend.
 
-##### § 50
+(2) Ist der Veranstalter der Sportwette eine juristische Person oder
+Personenvereinigung, ist das Finanzamt örtlich zuständig, in dessen
+Bezirk sich die Geschäftsleitung befindet. Befindet sich der Ort der
+Geschäftsleitung nicht im Geltungsbereich des Rennwett- und
+Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht
+feststellen, ist das Finanzamt örtlich zuständig, in dessen Bezirk der
+Veranstalter der Sportwette seinen Sitz hat.
 
-Die Vereine haben den Beauftragten der Finanzämter, die sich
-auszuweisen in der Lage sind, jederzeit kostenfrei und ungehindert
-Zutritt zu allen Rennen, und zwar sowohl zu dem Totalisator als auch
-zu den Plätzen der Zuschauer und der Buchmacher zu gewähren.
+(3) Ergibt sich nach § 25 Satz 1 und 2 des Rennwett- und
+Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist
+das Finanzamt Frankfurt am Main IV örtlich zuständig.
 
+(4) Für die Zerlegung des Gesamtaufkommens der Sportwettensteuer ist
+die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
-### - - Gegenstand der Prüfung
 
+#### § 20 Anzeigepflichten
 
+(1) Wer Sportwetten im Sinne des § 16 des Rennwett- und
+Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
+unverzüglich schriftlich anzuzeigen:
 
-#### § 51
+1.  Name,
 
-(1) Die Beauftragten haben sich bei den Prüfungen selbständig
-insbesondere davon zu überzeugen, ob die geschuldeten Steuerbeträge
-entrichtet, über sämtliche Wetten versteuerte Wettscheine ausgestellt,
-die Wetten in das Wettbuch eingetragen sind, nicht Wettbücher unbefugt
-geführt werden, die vorgefundenen versteuerten Wettscheine echt und
-nicht mißbräuchlich wiederholt verwendet worden sind und die
-Eintragungen mit denen in den Nachweisungen und Anmeldungen
-übereinstimmen sowie ob auch im übrigen den Vorschriften des Gesetzes
-und den Ausführungsbestimmungen entsprechend verfahren wird. Zu diesem
-Zweck haben sie sich über die für die Abgabenentrichtung in Betracht
-kommenden Verhältnisse der steuerpflichtigen Betriebe und
-Unternehmungen eingehend zu unterrichten, auch den Veröffentlichungen
-der Tagesblätter, den Geschäftsberichten und Jahresbilanzen Beachtung
-zu schenken.
 
-(2) Besondere Aufmerksamkeit ist der Ermittlung verbotener
-Wettunternehmen oder unangemeldeter und unversteuerter Lotterien
-zuzuwenden. Etwa geschuldete Steuer ist ungesäumt einzuziehen.
+2.  Gewerbe,
 
 
-### - - Einforderung von Rennberichten
+3.  Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz
+    und
 
 
+4.  Zeitpunkt der Aufnahme des Wettbetriebs.
 
-#### § 52
 
-Die Vereine sind verpflichtet, den Steuerbehörden auf Verlangen
-Rennprogramme und Rennberichte über die von ihnen veranstalteten
-Pferderennen kostenlos zu übersenden.
 
 
-## D. - Strafverfahren
+(2) Ist ein steuerlicher Beauftragter gemäß § 22 Absatz 1 des
+Rennwett- und Lotteriegesetzes bestellt worden, ist auch dieser dem
+zuständigen Finanzamt unverzüglich schriftlich zu benennen.
 
 
+#### § 21 Besteuerungsverfahren
 
-### § 53
+(1) Das Besteuerungsverfahren richtet sich nach den §§ 16 bis 25 des
+Rennwett- und Lotteriegesetzes.
 
--
+(2) Bei der Zahlung der Sportwettensteuer sind die Steuernummer, die
+Steuerart und der Zeitraum, für den die Steuer entrichtet wird,
+anzugeben.
 
+(3) Wird die Sportwettensteuer abweichend festgesetzt, geändert oder
+berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
-### - - Mitteilung an die Zulassungsbehörde
 
+### III. - Lotteriesteuer
 
 
-#### § 54
 
-Das Finanzamt, das eine Untersuchung gegen einen Verein, einen
-Buchmacher, einen Veranstalter oder einen Buchmachergehilfen
-einleitet, hat unverzüglich hiervon und von dem Ausgang des Verfahrens
-der Zulassungsbehörde (§ 34) Mitteilung zu machen.
+#### § 22 Definition der Lotterie und Ausspielung
 
+(1) Ein öffentliches Glücksspiel, bei dem einer Mehrzahl von Personen
+die Möglichkeit eröffnet wird, nach einem bestimmten Plan gegen ein
+bestimmtes Entgelt die Chance
 
-## E. - Steuererhebung
+1.  auf einen Geldgewinn zu erlangen, ist eine Lotterie und
 
 
+2.  auf einen Sachgewinn oder geldwerten Vorteil oder einer Kombination
+    aus beidem zu erlangen, ist eine Ausspielung.
 
-### - - Hebestelle und Buchführung
 
 
 
-#### § 55
+(2) Ein bestimmter Plan im Sinne des Absatzes 1 liegt vor, wenn
+Regelungen für den Gewinnfall und die Gewinnhöhe bestehen, die für die
+Gesamtheit der teilnehmenden Spieler gelten. Dabei ist es unerheblich,
+ob die mögliche Gewinnhöhe im Zeitpunkt der Teilnahme bereits bekannt
+ist.
 
-(1) Die Rennwett- und Lotteriesteuer wird durch die Finanzkassen nach
-Maßgabe der Kassenanweisung und der folgenden Bestimmungen erhoben.
+(3) Unter Zweitlotterie im Sinne des § 26 Absatz 2 des Rennwett- und
+Lotteriegesetzes sind Veranstaltungen zu verstehen, bei denen der
+Veranstalter keine eigene Verlosung von Gewinnen vornimmt, sondern der
+Eintritt eines Gewinns oder Verlusts des Teilnehmers vom Ausgang einer
+anderen Lotterie (Erstlotterie) abhängt.
 
-(2) Über die Erhebung werden von der Finanzkasse zwei Bücher, das
-Sollbuch und das Einnahmebuch nebst einem Anhang über die erstatteten
-Steuerbeträge geführt. Die Bücher sind für den Zeitraum eines
-Rechnungsjahrs zu führen.
+(4) Eine Klassenlotterie ist eine Lotterie oder Ausspielung im Sinne
+des Absatzes 1, bei der der Spielzeitraum mit einer oder mehreren
+Gewinnmöglichkeiten in jeweilige Klassen unterteilt ist.
 
 
-### - - Sollbuch
+#### § 23 Öffentliche Veranstaltung
 
+Eine Lotterie oder Ausspielung im Sinne des § 26 des Rennwett- und
+Lotteriegesetzes ist öffentlich, wenn für einen größeren, nicht
+geschlossenen Personenkreis eine Teilnahmemöglichkeit besteht oder
+diese gewohnheitsmäßig in Vereinen oder sonstigen geschlossenen
+Gesellschaften veranstaltet wird. Eine Lotterie oder Ausspielung gilt
+als öffentlich, wenn die für die Erlaubnis zuständige Behörde sie als
+erlaubnispflichtig ansieht. Die Entscheidung der Erlaubnisbehörde,
+dass eine Veranstaltung nicht öffentlich ist, ist für Zwecke der
+Lotteriesteuer nicht bindend.
 
 
-#### § 56
+#### § 24 Veranstalter
 
-(1) Das Sollbuch ist nach anliegendem Muster 11 zu führen.
+(1) Veranstalter einer öffentlichen Lotterie oder Ausspielung ist
+diejenige Person, die das Spielgeschehen in tatsächlicher oder
+rechtlicher Hinsicht maßgeblich gestaltet. Sie ordnet insbesondere die
+regelungsbedürftigen Fragen im Verhältnis zu den teilnehmenden
+Spielern, z. B. durch vorformulierte Vertragsbedingungen.
 
-(2) Es ist derart einzurichten, daß für jeden Steuerpflichtigen, der
-die Rennwettsteuer in wiederkehrenden Zeitabschnitten entrichtet (§§
-16, 17) ein besonderes Konto zu eröffnen ist, und zwar in zwei
-Abteilungen, nämlich für Vereine und für Buchmacher, denen die Führung
-von Wettbüchern gestattet ist. Die Anlegung des Sollbuchs und die
-Eintragung des Steuerpflichtigen erfolgt durch das Finanzamt auf Grund
-der Listeneintragung (§ 8 Abs. 2). Erfolgen die Eintragungen unter
-fortlaufenden Nummern, so sind Nachträge am Schluß des Sollbuchs
-einzutragen. Im übrigen sind die Steueranmeldungen und Nachweisungen
-in einer besonderen Abteilung fortlaufend einzutragen.
+(2) Veranstalter einer Zweitlotterie ist derjenige, der dem Teilnehmer
+gegen Entgelt Gewinnchancen nach einem bestimmten Plan eröffnet und
+den Gewinn schuldet, wobei der Eintritt eines Gewinns vom Ausgang
+einer anderen Lotterie abhängt.
 
-(3) In das Sollbuch sind die auf der Nachweisung oder Anmeldung oder
-durch sonstige Verfügung des Finanzamts festgesetzten Steuerbeträge
-einzutragen. Jeder Steuerbetrag ist sofort nach Eingang und Eintragung
-im Einnahmebuch in den Spalten 7 bis 11 auf das Konto des
-Steuerpflichtigen, für den die Zahlung geleistet ist, zu verbuchen,
-auch wenn der Finanzkasse die Festsetzungsverfügung noch nicht
-vorliegt. Die Kasse hat die Spalten 3 bis 6 des Sollbuchs sofort nach
-Eingang der mit dem Festsetzungsvermerk versehenen Nachweisung,
-Anmeldung, Anzeige oder der sonst die Insollstellung anordnenden
-Verfügung auszufüllen und das Weitere wegen Erhebung oder
-Herauszahlung der Steuer zu veranlassen. Weicht der festgesetzte
-Steuerbetrag von dem Betrag der bereits eingezahlten und in Spalte 9
-des Sollbuchs angeschriebenen Steuer ab (§ 21), so ist in Spalte 9
-unmittelbar unter der Eintragung des voreingezahlten Steuerbetrags der
-nachgeforderte Betrag sofort nach Zahlung einzutragen oder daselbst
-die Herauszahlung etwa zuviel gezahlter Steuer mit roter Tinte
-abzusetzen.
 
+#### § 25 Veranstaltungsort
 
-#### § 57
+(1) In den Fällen des § 26 Absatz 1 Satz 2 Nummer 1 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
+der Lotterie oder Ausspielung seinen Wohnsitz, gewöhnlichen
+Aufenthalt, Ort der Geschäftsleitung oder Sitz hat, unabhängig davon,
+wo der Spieler die zur Entstehung des Spielvertrages erforderlichen
+Handlungen vornimmt.
 
-(1) Das Sollbuch wird für neue Eintragungen am 31. März geschlossen.
-Die innerhalb der nächsten drei Monate nach Ablauf des Rechnungsjahrs
-(§ 55 Abs. 2 Schlußsatz) noch nicht erledigten Steuerfälle sind in das
-Sollbuch des folgenden Rechnungsjahrs zu übertragen und als Rückstände
-kenntlich zu machen. Auf ihre Erledigung ist besonders zu achten.
+(2) In den Fällen des § 26 Absatz 1 Satz 2 Nummer 2 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort im Geltungsbereich des
+Rennwett- und Lotteriegesetzes belegen, wenn der Spieler die zur
+Entstehung des Spielvertrages erforderlichen Handlungen im
+Geltungsbereich des Rennwett- und Lotteriegesetzes vornimmt.
+Maßgeblich für die Ortsbestimmung ist grundsätzlich der Ort der
+physischen Anwesenheit des Spielers. Sofern der Veranstalter den Ort
+der physischen Anwesenheit des Spielers nicht feststellen kann, gilt
+der Wohnsitz des Spielers als Veranstaltungsort. Dies gilt unabhängig
+davon, wo der Veranstalter der Lotterie oder Ausspielung seinen
+Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz
+außerhalb des Geltungsbereichs des Rennwett- und Lotteriegesetzes hat
+oder sonstige technische Vorrichtungen (z. B. Server) vorhält.
 
-(2) Von einem an der Kassenführung nicht beteiligten Beamten ist unter
-dem Abschluß zu vermerken, daß die Rückstände in das neue Sollbuch
-vollständig und richtig übertragen worden sind.
+(3) Erforderliche Handlungen zur Entstehung des Spielvertrages sind
+die Handlungen, die zur Abgabe der Willenserklärung zum Abschluss des
+Spielvertrages in jedweder Form vorgenommen werden, z. B. in
+schriftlicher, mündlicher oder elektronischer Form.
 
 
-### - - - *Ku Wettsteuerzeichenbuch *KE
+#### § 26 Bemessungsgrundlage
 
+(1) Das geleistete Teilnahmeentgelt im Sinne des § 27 des Rennwett-
+und Lotteriegesetzes umfasst nicht Spielboni, die dem Spielenden zur
+Verfügung gestellt werden, aber nicht ausbezahlt, sondern nur
+verspielt werden können. Vom Veranstalter festgelegte Gebühren sind
+solche, die der Veranstalter als Gläubiger beansprucht und die
+betragsmäßig konkret bestimmt sind.
 
+(2) Ein Erneuerungslos im Sinne des § 27 Absatz 1 Satz 4 des Rennwett-
+und Lotteriegesetzes ist das Los einer Klassenlotterie mit
+Teilnahmeberechtigung für die folgende Klasse, das dieselbe Nummer und
+gegebenenfalls denselben Buchstaben des Loses trägt, mit dem der
+Spieler an der Vorklasse teilgenommen hat.
 
-#### § 58
+(3) Der Wert der vorgehaltenen Gewinne im Sinne des § 27 Absatz 2 des
+Rennwett- und Lotteriegesetzes ist regelmäßig die Summe der
+Anschaffungskosten der einzelnen Preise. Werden Preise unentgeltlich
+zur Verfügung gestellt, ist deren Wert in diesem Zeitpunkt zu
+schätzen. Dabei können grundsätzlich die Anschaffungskosten
+vergleichbarer Wirtschaftsgüter zugrunde gelegt werden.
 
--
+(4) Von der inländischen Behörde genehmigte Gebühren im Sinne des § 27
+Absatz 4 des Rennwett- und Lotteriegesetzes sind auch solche, die von
+Dritten erhoben werden und für die der Veranstalter lediglich einen
+Gebührenrahmen vorgibt. Soweit die inländischen Behörden diese
+Gebühren von Lotterieeinnehmern, Lotterievermittlern oder sonstigen
+Dritten allgemein und ohne Einschränkung genehmigen, erfolgt keine
+Hinzurechnung zur Bemessungsgrundlage, da keine genehmigte Höhe
+überschritten wurde. Das gilt entsprechend für Gebühren oder Entgelte,
+die aufgrund eines Gesetzes allgemein oder der Höhe nach erlaubt sind.
 
 
-### - - Einnahmebuch
+#### § 27 Steuerbefreiung
 
+(1) Die in § 28 des Rennwett- und Lotteriegesetzes bestimmten
+Freigrenzen bemessen sich nach dem Gesamtbetrag der geleisteten
+Teilnahmeentgelte.
 
+(2) § 28 des Rennwett- und Lotteriegesetzes gilt nur für öffentliche
+Lotterien und Ausspielungen, die von den jeweils zuständigen Behörden
+genehmigt oder allgemein erlaubt worden sind. Die Voraussetzungen für
+die Erlaubnis der öffentlichen Lotterie oder Ausspielung ergeben sich
+aus den landesgesetzlichen Regelungen. Die Entscheidung der
+Erlaubnisbehörde ist für Zwecke der Lotteriesteuer bindend. Dies gilt
+auch für nachträglich erteilte Erlaubnisse.
 
-#### § 59
+(3) Ist eine notwendige Erlaubnis nicht eingeholt oder eine
+erforderliche Anzeige nicht erfolgt und liegt damit keine Entscheidung
+der Erlaubnisbehörde vor, ist § 28 des Rennwett- und Lotteriegesetzes
+nicht anwendbar. Gleiches gilt, wenn eine erteilte Erlaubnis
+widerrufen wird.
 
-Für sämtliche im Laufe eines Rechnungsjahres eingehende Zahlungen an
-Rennwett- und Lotteriesteuer nebst Zinsen, gleichviel für welche Zeit
-sie gezahlt sind, ist nach anliegendem Muster 13 ein Einnahmebuch zu
-führen. Dieses sowie der Anhang zum Einnahmebuch (§ 55 Abs. 2 Satz 1)
-sind am Ende des Rechnungsjahres
-(31. März)              abzuschließen.
+(4) Voraussetzung für die Steuerbefreiung nach § 28 Nummer 2 des
+Rennwett- und Lotteriegesetzes ist zudem, dass die öffentliche
+Lotterie oder Ausspielung ausschließlich gemeinnützigen, mildtätigen
+oder kirchlichen Zwecken im Sinne der §§ 52 bis 54 der Abgabenordnung
+dient.
 
+(5) Der tatsächlich erzielte Reinertrag ist in den Fällen des § 28
+Nummer 2 des Rennwett- und Lotteriegesetzes in voller Höhe unmittelbar
+und zeitnah den in Absatz 4 genannten begünstigten Zwecken zuzuführen.
+Der tatsächlich erzielte Reinertrag ist der Betrag, der sich aus der
+Summe der tatsächlichen Kaufpreise sämtlicher Lose nach Abzug der mit
+der öffentlichen Lotterie oder Ausspielung zusammenhängenden
+tatsächlichen Kosten, Gewinnsummen und Steuern ergibt.
 
-### - - Änderungsbefugnis der Oberfinanzdirektionen
 
+#### § 28 Zuständigkeit
 
+(1) Ist der Veranstalter der Lotterie oder Ausspielung eine natürliche
+Person, ist das Finanzamt örtlich zuständig, in dessen Bezirk dieser
+seinen Wohnsitz oder in Ermangelung eines Wohnsitzes seinen
+gewöhnlichen Aufenthalt hat. § 19 Absatz 1 Satz 2 der Abgabenordnung
+gilt entsprechend.
 
-#### § 60
+(2) Ist der Veranstalter der Lotterie oder Ausspielung eine
+juristische Person oder Personenvereinigung, ist das Finanzamt örtlich
+zuständig, in dessen Bezirk sich die Geschäftsleitung befindet.
+Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich
+des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der
+Geschäftsleitung nicht feststellen, ist das Finanzamt örtlich
+zuständig, in dessen Bezirk der Veranstalter der Lotterie oder
+Ausspielung seinen Sitz hat.
 
-Die Oberfinanzdirektion kann Abweichungen in der Führung des Sollbuchs
-sowie des Wettsteuerzeichenbuchs und des Einnahmebuchs nebst Anhang
-zulassen.
+(3) Ergibt sich nach § 35 Satz 1 des Rennwett- und Lotteriegesetzes
+keine örtliche Zuständigkeit für die Besteuerung, ist das Finanzamt
+Frankfurt am Main IV örtlich zuständig.
 
+(4) Für die nach § 34 des Rennwett- und Lotteriegesetzes
+durchzuführende Zerlegung des Gesamtaufkommens der Lotteriesteuer ist
+die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
 
-### - - Verrechnung beigetriebener Geldbeträge
 
+#### § 29 Anzeigepflicht
 
+(1) Wer öffentliche Lotterien oder Ausspielungen im Geltungsbereich
+des Rennwett- und Lotteriegesetzes veranstalten oder über einen
+Dritten anbieten will, hat dem zuständigen Finanzamt spätestens 14
+Tage vor Beginn des Losverkaufs Folgendes schriftlich anzuzeigen:
 
-#### § 61
+1.  Name und Anschrift des Veranstalters,
 
-Wird die Rennwett- und Lotteriesteuer im Zwangsweg beigetrieben, so
-sind die eingegangenen Beträge zuerst auf die Kosten, sodann auf die
-Steuer und mit dem Reste auf die Zinsen anzurechnen. Das gleiche gilt
-von Zahlungen, die nicht die ganze Schuld decken.
 
+2.  geplante Anzahl und Preis der Lose,
 
-## F. - Schlußvorschriften
 
+3.  Zeitpunkt und Ort des Losverkaufes und der Ziehung,
 
 
-### - - Aktenführung
+4.  Spielplan und
 
 
+5.  geplante Höhe und Verwendung des Reinertrags, soweit eine
+    Steuerbefreiung nach § 28 Rennwett- und Lotteriegesetz geltend gemacht
+    werden soll.
 
-#### § 62
 
-(1) Über jeden Verein und jeden Buchmacher, die in die nach § 8 Abs. 2
-zu führende Liste eingetragen sind, und über die in der Anmeldung
-eingetragenen Veranstalter sind vom Finanzamt besondere Akten
-anzulegen, in die sämtliche die Ermittlung und Festsetzung der Steuern
-betreffenden Vorgänge nach der Zeitfolge geordnet aufzunehmen sind.
-Die Akten sind derart zu führen, daß eine Nachprüfung jederzeit
-möglich ist.
 
-(2) Die gemäß § 52 eingereichten Rennberichte sind ebenfalls nach der
-Zeitfolge geordnet im besonderen Hefte aufzubewahren.
 
-(3) Die Akten, Bücher, Listen und Nachweisungen über die Erhebung der
-Steuer sind fünf Jahre lang, vom Eintritt der Steuerpflicht ab
-gerechnet, aufzubewahren.
+(2) Ausgenommen von der Anzeigepflicht nach Absatz 1 sind von den
+zuständigen inländischen Behörden erlaubte öffentliche Lotterien und
+Ausspielungen im Sinne des § 28 Nummer 1 des Rennwett- und
+Lotteriegesetzes, bei denen der geplante Gesamtpreis der Lose den Wert
+von 1 000 Euro nicht übersteigt. Öffentliche Lotterien und
+Ausspielungen im Sinne des § 28 Nummer 2 des Rennwett- und
+Lotteriegesetzes unterliegen nicht der Anzeigepflicht nach Absatz 1,
+wenn der geplante Gesamtpreis der Lose einer öffentlichen Lotterie
+oder Ausspielung 5 000 Euro nicht übersteigt.
 
+(3) Für die GKL Gemeinsame Klassenlotterie der Länder sowie für die
+staatlichen oder mit der Durchführung staatlich beauftragten
+Lottogesellschaften der Länder besteht keine Anzeigepflicht.
 
-### - - Prüfungspflicht der Oberfinanzdirektionen
 
+#### § 30 Besteuerungsverfahren
 
+(1) Das Besteuerungsverfahren richtet sich nach den §§ 26 bis 35 des
+Rennwett- und Lotteriegesetzes.
 
-#### § 63
+(2) Bei der Zahlung der Lotteriesteuer sind die Steuernummer, die
+Steuerart und der Zeitraum, für den die Steuer entrichtet wird,
+anzugeben.
 
-Die Soll- und Einnahmebücher und die Wettsteuerzeichenbücher nebst den
-dazugehörigen Belegen sind nach Abschluß der Oberfinanzdirektion zur
-Prüfung vorzulegen. Das gleiche gilt für die Anmeldungen über
-Lotterien und Ausspielungen, die als steuerfrei anerkannt sind. Diese
-Anmeldungen sind vom Finanzamt in einem besonderen Verzeichnis zu
-vereinigen, das dem Landesfinanzamt zu dem für die Vorlegung des
-Sollbuchs vorgeschriebenen Zeitpunkt einzusenden ist.
+(3) Wird die Lotteriesteuer abweichend festgesetzt, geändert oder
+berichtigt, ist die Kleinbetragsverordnung zu beachten.
 
+
+### IV. - Virtuelle Automatensteuer
+
+
+
+#### § 31 Bemessungsgrundlage
+
+Der geleistete Spieleinsatz nach § 37 des Rennwett- und
+Lotteriegesetzes umfasst nicht Spielboni, die dem Spieler zur
+Verfügung gestellt werden, aber nicht ausbezahlt, sondern nur
+verspielt werden können.
+
+
+#### § 32 Veranstalter
+
+Veranstalter des virtuellen Automatenspiels ist diejenige Person, die
+das Spielgeschehen in tatsächlicher oder rechtlicher Hinsicht
+maßgeblich gestaltet. Sie entscheidet insbesondere über die
+angebotenen Spiele und ordnet die regelungsbedürftigen Fragen im
+Verhältnis zu den Spielern, z. B. durch vorformulierte
+Vertragsbedingungen, und setzt diese selbst oder durch andere
+entsprechend um.
+
+
+#### § 33 Veranstaltungsort
+
+(1) In den Fällen des § 36 Satz 2 Nummer 1 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
+des virtuellen Automatenspiels seinen Wohnsitz, gewöhnlichen
+Aufenthalt, Ort der Geschäftsleitung oder Sitz hat, unabhängig davon,
+wo der Spieler die zur Entstehung des Spielvertrages erforderlichen
+Handlungen vornimmt.
+
+(2) In den Fällen des § 36 Satz 2 Nummer 2 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort im Geltungsbereich des
+Rennwett- und Lotteriegesetzes belegen, wenn der Spieler die zur
+Entstehung des Spielvertrages erforderlichen Handlungen im
+Geltungsbereich des Rennwett- und Lotteriegesetzes vornimmt.
+Maßgeblich für die Ortsbestimmung ist grundsätzlich der Ort der
+physischen Anwesenheit des Spielers. Sofern der Veranstalter den Ort
+der physischen Anwesenheit des Spielers nicht feststellen kann, gilt
+der Wohnsitz des Spielers als Veranstaltungsort. Dies gilt unabhängig
+davon, wo der Veranstalter des virtuellen Automatenspiels seinen
+Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz
+hat oder sonstige technische Vorrichtungen (z. B. Server) vorhält.
+
+(3) Erforderliche Handlungen zur Entstehung des Spielvertrages sind
+die Handlungen, die zur Abgabe der Willenserklärung zum Abschluss des
+Spielvertrages in jedweder Form vorgenommen werden, z. B. in
+schriftlicher, mündlicher oder elektronischer Form.
+
+
+#### § 34 Zuständigkeit
+
+(1) Ist der Veranstalter des virtuellen Automatenspiels eine
+natürliche Person, ist das Finanzamt örtlich zuständig, in dessen
+Bezirk dieser seinen Wohnsitz oder in Ermangelung eines Wohnsitzes
+seinen gewöhnlichen Aufenthalt hat. § 19 Absatz 1 Satz 2 der
+Abgabenordnung gilt entsprechend.
+
+(2) Ist der Veranstalter des virtuellen Automatenspiels eine
+juristische Person oder Personenvereinigung, ist das Finanzamt örtlich
+zuständig, in dessen Bezirk sich die Geschäftsleitung befindet.
+Befindet sich der Ort der Geschäftsleitung nicht im Geltungsbereich
+des Rennwett- und Lotteriegesetzes oder lässt sich der Ort der
+Geschäftsleitung nicht feststellen, so ist das Finanzamt örtlich
+zuständig, in dessen Bezirk der Veranstalter des virtuellen
+Automatenspiels seinen Sitz hat.
+
+(3) Ergibt sich aus § 45 Satz 1 und 2 des Rennwett- und
+Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist
+das Finanzamt Frankfurt am Main IV örtlich zuständig.
+
+(4) Für die Zerlegung des Gesamtaufkommens der Virtuellen
+Automatensteuer ist die Landesfinanzbehörde der Freien und Hansestadt
+Hamburg zuständig.
+
+
+#### § 35 Anzeigepflichten
+
+(1) Wer virtuelles Automatenspiel im Sinne des § 36 des Rennwett- und
+Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
+unverzüglich schriftlich anzuzeigen:
+
+1.  Name,
+
+
+2.  Gewerbe,
+
+
+3.  Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz,
+
+
+4.  Zeitpunkt der Aufnahme des Spielbetriebs und
+
+
+5.  Zugangsmöglichkeiten für eine Teilnahme am virtuellen Automatenspiel.
+
+
+
+
+(2) Ist ein steuerlicher Beauftragter gemäß § 42 Absatz 1 des
+Rennwett- und Lotteriegesetzes bestellt worden, ist auch dieser dem
+zuständigen Finanzamt unverzüglich schriftlich zu benennen.
+
+
+#### § 36 Besteuerungsverfahren
+
+(1) Das Besteuerungsverfahren richtet sich nach den §§ 36 bis 45 des
+Rennwett- und Lotteriegesetzes.
+
+(2) Bei der Zahlung der Virtuellen Automatensteuer sind die
+Steuernummer, die Steuerart und der Zeitraum, für den die Steuer
+entrichtet wird, anzugeben.
+
+(3) Wird die Virtuelle Automatensteuer abweichend festgesetzt,
+geändert oder berichtigt, ist die Kleinbetragsverordnung zu beachten.
+
+
+### V. - Online-Pokersteuer
+
+
+
+#### § 37 Bemessungsgrundlage
+
+(1) Der Spieleinsatz nach § 47 des Rennwett- und Lotteriegesetzes
+umfasst nicht Spielboni, die dem Spieler zur Verfügung gestellt
+werden, aber nicht ausbezahlt, sondern nur verspielt werden können.
+Das gleiche gilt für erlassene Teilnahmeentgelte.
+
+(2) Werden vom Spieler geleistete Geldbeträge, mit denen der Spieler
+am Spiel teilnimmt, in besonderes Spielgeld umgewandelt, bestimmt sich
+der Betrag den der Spieler bei Teilnahme am Spiel zur Verfügung hat,
+nicht nach der Höhe dieses besonderen Spielgeldes, sondern nach der
+Höhe des entsprechenden, zugrundeliegenden geleisteten Geldbetrages.
+
+
+#### § 38 Veranstalter
+
+Veranstalter des Online-Pokers ist diejenige Person, die das
+Spielgeschehen in tatsächlicher oder rechtlicher Hinsicht maßgeblich
+gestaltet. Sie entscheidet insbesondere über die angebotenen
+Spielvarianten und ordnet die regelungsbedürftigen Fragen im
+Verhältnis zu den Spielern und zwischen den Spielern, z. B. durch
+vorformulierte Vertragsbedingungen, und setzt diese selbst oder durch
+andere entsprechend um.
+
+
+#### § 39 Veranstaltungsort
+
+(1) In den Fällen des § 46 Satz 2 Nummer 1 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort dort, wo der Veranstalter
+des Online-Pokers seinen Wohnsitz, gewöhnlichen Aufenthalt, Ort der
+Geschäftsleitung oder Sitz hat, unabhängig davon, wo der Spieler die
+zur Entstehung des Spielvertrages erforderlichen Handlungen vornimmt.
+
+(2) In den Fällen des § 46 Satz 2 Nummer 2 des Rennwett- und
+Lotteriegesetzes ist der Veranstaltungsort im Geltungsbereich des
+Rennwett- und Lotteriegesetzes belegen, wenn der Spieler die zur
+Entstehung des Spielvertrages erforderlichen Handlungen im
+Geltungsbereich des Rennwett- und Lotteriegesetzes vornimmt.
+Maßgeblich für die Ortsbestimmung ist grundsätzlich der Ort der
+physischen Anwesenheit des Spielers. Sofern der Veranstalter den Ort
+der physischen Anwesenheit des Spielers nicht feststellen kann, gilt
+der Wohnsitz des Spielers als Veranstaltungsort. Dies gilt unabhängig
+davon, wo der Veranstalter des Online-Pokers seinen Wohnsitz,
+gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz hat oder
+sonstige technische Vorrichtungen (z. B. Server) vorhält.
+
+(3) Erforderliche Handlungen zur Entstehung des Spielvertrages sind
+die Handlungen, die zur Abgabe der Willenserklärung zum Abschluss des
+Spielvertrages in jedweder Form vorgenommen werden, z. B. in
+schriftlicher, mündlicher oder elektronischer Form.
+
+
+#### § 40 Zuständigkeit
+
+(1) Ist der Veranstalter des Online-Pokers eine natürliche Person, ist
+das Finanzamt örtlich zuständig, in dessen Bezirk dieser seinen
+Wohnsitz oder in Ermangelung eines Wohnsitzes seinen gewöhnlichen
+Aufenthalt hat. § 19 Absatz 1 Satz 2 der Abgabenordnung gilt
+entsprechend.
+
+(2) Ist der Veranstalter des Online-Pokers eine juristische Person
+oder Personenvereinigung, ist das Finanzamt örtlich zuständig, in
+dessen Bezirk sich die Geschäftsleitung befindet. Befindet sich der
+Ort der Geschäftsleitung nicht im Geltungsbereich des Rennwett- und
+Lotteriegesetzes oder lässt sich der Ort der Geschäftsleitung nicht
+feststellen, so ist das Finanzamt örtlich zuständig, in dessen Bezirk
+der Veranstalter des Online-Pokers seinen Sitz hat.
+
+(3) Ergibt sich aus § 55 Satz 1 und 2 des Rennwett- und
+Lotteriegesetzes keine örtliche Zuständigkeit für die Besteuerung, ist
+das Finanzamt Frankfurt am Main IV örtlich zuständig.
+
+(4) Für die Zerlegung des Gesamtaufkommens der Online-Pokersteuer ist
+die Landesfinanzbehörde der Freien und Hansestadt Hamburg zuständig.
+
+
+#### § 41 Anzeigepflichten
+
+(1) Wer Online-Poker im Sinne des § 46 des Rennwett- und
+Lotteriegesetzes veranstalten will, hat dem zuständigen Finanzamt
+unverzüglich schriftlich anzuzeigen:
+
+1.  Name,
+
+
+2.  Gewerbe,
+
+
+3.  Wohnsitz, gewöhnlichen Aufenthalt, Ort der Geschäftsleitung oder Sitz,
+
+
+4.  Zeitpunkt der Aufnahme des Spielbetriebs und
+
+
+5.  Zugangsmöglichkeiten für eine Teilnahme am Online-Poker.
+
+
+
+
+(2) Ist ein steuerlicher Beauftragter gemäß § 52 Absatz 1 des
+Rennwett- und Lotteriegesetzes bestellt worden, ist auch dieser dem
+zuständigen Finanzamt unverzüglich schriftlich zu benennen.
+
+
+#### § 42 Besteuerungsverfahren
+
+(1) Das Besteuerungsverfahren richtet sich nach den §§ 46 bis 55 des
+Rennwett- und Lotteriegesetzes.
+
+(2) Bei der Zahlung der Online-Pokersteuer sind die Steuernummer, die
+Steuerart und der Zeitraum, für den die Steuer entrichtet wird,
+anzugeben.
+
+(3) Wird die Online-Pokersteuer abweichend festgesetzt, geändert oder
+berichtigt, ist die Kleinbetragsverordnung zu beachten.
+
+
+### VI. - Steuerberechnung
+
+
+
+#### § 43 Steuerberechnungsformel
+
+(1) In den §§ 9, 17, 27, 37 und 47 des Rennwett- und Lotteriegesetzes
+wird die Steuerbemessungsgrundlage als geleisteter Wetteinsatz, als
+geleistetes Teilnahmeentgelt oder als Spieleinsatz jeweils abzüglich
+der Steuer definiert. Bei dem geleisteten Wetteinsatz, dem geleisteten
+Teilnahmeentgelt oder dem Spieleinsatz handelt es sich um einen
+Bruttowert, aus dem die nach dem Rennwett- und Lotteriegesetz
+geschuldete Steuer herauszurechnen ist.
+
+(2) Die jeweilige Steuer ist nach folgender Formel zu berechnen:
+
+![bgbl1_2021_j2065-1_0010.jpg](bgbl1_2021_j2065-1_0010.jpg)
 
 #### Schlußformel
 
 Der Reichsminister der Finanzen
 
+Muster 1 bis Muster 14
 
-#### Anlage Muster 1 bis Muster 14 Zentralbl. 1922 S. 361 bis 371
+#### Anlage Zentralbl. 1922 S. 361 bis 371
 
 -
 

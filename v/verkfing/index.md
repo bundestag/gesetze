@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1955, 166
 
 Zuletzt geändert durch
-:   Art. 284 V v. 31.10.2006 I 2407
+:   Art. 467 V v. 31.8.2015 I 1474
 
 
-## Abschnitt I -
+## Abschnitt I - 
 
 
 
@@ -156,7 +156,7 @@ Verfahren auch Selbstverwaltungsorganen, z. B. Berufsgenossenschaften,
 ## Art 1 Gesellschaft für Autobahnfinanzierung
 
 (1) Die Bundesregierung wird ermächtigt, durch die Bundesministerien
-für Verkehr, Bau und Stadtentwicklung und der Finanzen eine
+für Verkehr und digitale Infrastruktur und der Finanzen eine
 Gesellschaft des Privatrechts vertraglich mit der Finanzierung des
 Baues von Bundesautobahnen zu beauftragen.
 
@@ -234,7 +234,7 @@ und § 12 Abs. 2 Ziff. 1 des Gewerbesteuergesetzes nicht anzuwenden.
 ## Art 1 Gesellschaft für Bundesbahnfinanzierungen
 
 (1) Die Bundesregierung wird ermächtigt, durch die Bundesministerien
-für Verkehr, Bau und Stadtentwicklung und der Finanzen eine
+für Verkehr und digitale Infrastruktur und der Finanzen eine
 Gesellschaft des Privatrechts vertraglich mit der Finanzierung der
 Verbesserung von Verkehrsanlagen und der Beschaffung von rollendem
 Material der Deutschen Bundesbahn zu beauftragen.
@@ -292,8 +292,8 @@ Finanzierungsbeiträgen nach Artikel 2 zu.
 (3) Die Deutsche Bundesbahn hat die ihr nach Absatz 1 zufließenden
 Mittel im Rahmen eines Voranschlags zu verwenden, der von der
 Deutschen Bundesbahn für ein oder mehrere Geschäftsjahre aufzustellen
-ist und der Genehmigung durch das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
+ist und der Genehmigung durch das Bundesministerium für Verkehr und
+digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der
 Finanzen bedarf.
 
 
@@ -314,7 +314,7 @@ in gleicher Höhe Darlehnsforderungen gegen die Deutsche Bundesbahn
 abzutreten.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, des
+des Bundesministeriums für Verkehr und digitale Infrastruktur, des
 Bundesrechnungshofs und des Hauptprüfungsamts der Deutschen Bundesbahn
 die auf den Bund übergegangenen Forderungen gegen die Deutsche
 Bundesbahn teilweise oder ganz zu erlassen, soweit dies zur Gesundung
@@ -342,7 +342,7 @@ Bundesbahn.
 entsprechend.
 
 
-## Abschnitt VI -
+## Abschnitt VI - 
 
 
 
@@ -361,7 +361,7 @@ entsprechend.
 -
 
 
-## Abschnitt VII -
+## Abschnitt VII - 
 
 
 

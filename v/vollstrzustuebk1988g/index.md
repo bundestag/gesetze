@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 2658 (3772)
 
+Geändert durch
+:   Art. 164 V v. 31.8.2015 I 1474
+
 
 
 ## Art 1
@@ -33,7 +36,8 @@ zugestimmt, daß der in Artikel IV des Protokolls Nr. 1 zum
 
 Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2 Abs. 1
 Satz 2 des Protokolls Nr. 2 über die einheitliche Auslegung des
-Übereinkommens nimmt das Bundesministerium der Justiz wahr.
+Übereinkommens nimmt das Bundesministerium der Justiz und für
+Verbraucherschutz wahr.
 
 
 ## (XXXX) Art 3 und 4 (weggefallen)

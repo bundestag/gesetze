@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 714 (1025)
 
-Geändert durch
-:   Art. 23 G v. 9.12.2010 I 1934
+Zuletzt geändert durch
+:   Art. 102 G v. 20.11.2019 I 1626
 
 [^BJNR071400008_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -71,7 +71,7 @@ Im Sinne dieses Gesetzes sind
 
 ## § 2 Klassifizierung
 
-Soweit nach den Vorschriften des Handelsklassenrechts eine
+(1) Soweit nach den Vorschriften des Handelsklassenrechts eine
 Klassifizierung von Schlachtkörpern vorgeschrieben oder zulässig ist,
 darf die Klassifizierung nur von
 
@@ -85,6 +85,13 @@ darf die Klassifizierung nur von
 
 vorgenommen werden.
 
+(2) Die von einem auszubildenden Klassifizierer durchgeführte und
+gleichzeitig von einem zugelassenen Klassifizierer beaufsichtigte
+Klassifizierung gilt als Klassifizierung durch einen zugelassenen
+Klassifizierer, wenn der zugelassene Klassifizierer ausschließlich
+diese eine Klassifizierung beaufsichtigt, um jederzeit einschreiten
+und damit eine ordnungsgemäße Klassifizierung sicherstellen zu können.
+
 
 ## § 3 Zulassung von Klassifizierungsunternehmen
 
@@ -92,8 +99,7 @@ vorgenommen werden.
 Zulassung durch die zuständige Behörde. Die Zulassung wird auf Antrag
 erteilt, wenn das Klassifizierungsunternehmen
 
-1.[^f770887_01_BJNR071400008BJNE000400000]
-  die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2004-11 Typ A
+1.  die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A
     erfüllt,
 
 
@@ -130,30 +136,30 @@ Monate vor Ablauf der Zulassung zu stellen.
 Tätigkeit
 
 1.  nicht innerhalb eines Jahres nach Erteilung der ersten Zulassung
-    aufgenommen oder
+    aufgenommen hat,
 
 
-2.  seit Aufnahme der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt
+2.  seit Aufnahme der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt hat
+    oder
+
+
+3.  eingestellt hat.
 
 
 
-hat. Das Erlöschen der Zulassung wird durch Bescheid der zuständigen
+Das Erlöschen der Zulassung wird durch Bescheid der zuständigen
 Behörde festgestellt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-Anforderungen an die Zulassung nach Absatz 1 einschließlich des
-Verfahrens festzulegen. In der Rechtsverordnung nach Satz 1 kann
-insbesondere vorgeschrieben werden, dass die Zulassung inhaltlich
-beschränkt, mit Auflagen, auch nachträglich, verbunden oder nur für
-das Gebiet eines oder mehrerer Länder erteilt werden kann, soweit dies
-zur ordnungsgemäßen Durchführung der Klassifizierung erforderlich ist.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die näheren Anforderungen an die Zulassung
+nach Absatz 1 einschließlich des Verfahrens festzulegen. In der
+Rechtsverordnung nach Satz 1 kann insbesondere vorgeschrieben werden,
+dass die Zulassung inhaltlich beschränkt, mit Auflagen, auch
+nachträglich, verbunden oder nur für das Gebiet eines oder mehrerer
+Länder erteilt werden kann, soweit dies zur ordnungsgemäßen
+Durchführung der Klassifizierung erforderlich ist.
 
-    Amtlicher Hinweis: Diese DIN-Norm ist im Beuth Verlag GmbH, Berlin und
-    Köln erschienen und beim Deutschen Patent- und Markenamt in München
-    archivmäßig gesichert und niedergelegt.
-[^f770887_01_BJNR071400008BJNE000400000]: 
 
 ## § 4 Befähigung und Zulassung von Klassifizierern
 
@@ -257,6 +263,15 @@ Inhalt der Sachkundeprüfung nach Absatz 2 erstreckt. Die näheren
 Einzelheiten für die Prüfung nach Satz 3 einschließlich des Verfahrens
 können in der Rechtsverordnung nach Absatz 5 geregelt werden.
 
+(7) Die Absätze 1 bis 4 und 6 gelten für qualifiziertes Personal im
+Sinne von Artikel 9 Buchstabe b der Delegierten Verordnung (EU)
+2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der
+Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+Rates in Bezug auf die Handelsklassenschemata der Union für
+Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der
+Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden
+Tieren (ABl. L 171 vom 4.7.2017, S. 74) entsprechend.
+
 
 ## § 5 Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
 
@@ -287,28 +302,39 @@ widerrufen, wenn die Gewähr für eine ordnungsgemäße Durchführung der
 Klassifizierung nicht mehr gegeben ist. Dies ist insbesondere dann der
 Fall, wenn
 
-1.[^f770887_02_BJNR071400008BJNE000700000]
-  die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2004-11 Typ A \*)
-    nicht mehr erfüllt sind,
+1.  die notwendige Zuverlässigkeit, Unabhängigkeit oder Sachkunde nicht
+    mehr gegeben ist oder
 
 
-2.  die notwendige Zuverlässigkeit, Unabhängigkeit oder Sachkunde nicht
-    mehr gegeben ist,
+2.  das Klassifizierungsunternehmen
+
+    a)  die Klassifizierungstätigkeit eines oder mehrerer Klassifizierer in
+        unzulässiger Weise beeinflusst hat oder
 
 
-3.  das Klassifizierungsunternehmen die Klassifizierungstätigkeit eines
-    oder mehrerer Klassifizierer in unzulässiger Weise beeinflusst oder
-    einen oder mehrere Klassifizierer zur Verfälschung des
-    Klassifizierungsergebnisses veranlasst hat oder
-
-
-4.  das Klassifizierungsunternehmen die Klassifizierung durch einen nicht
-    zugelassenen Klassifizierer hat durchführen lassen.
+    b)  einen oder mehrere Klassifizierer zur Verfälschung des
+        Klassifizierungsergebnisses veranlasst hat.
 
 
 
 
-(2) Die Zulassung eines Klassifizierers ist zu widerrufen, wenn er
+
+
+
+(2) Die Zulassung eines Klassifizierungsunternehmens kann widerrufen
+werden, wenn das Klassifizierungsunternehmen
+
+1.  die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A nicht
+    mehr erfüllt oder
+
+
+2.  die Klassifizierung durch einen nicht zugelassenen Klassifizierer
+    durchführen lässt.
+
+
+
+
+(3) Die Zulassung eines Klassifizierers ist zu widerrufen, wenn er
 
 1.  nicht mehr über die für die Tätigkeit erforderliche Zuverlässigkeit
     oder Unabhängigkeit verfügt oder
@@ -320,14 +346,10 @@ Fall, wenn
 
 
 
-(3) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen
+(4) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen
 Vorschriften über Rücknahme und Widerruf von Verwaltungsakten
 unberührt.
 
-    Amtlicher Hinweis: Diese DIN-Norm ist im Beuth Verlag GmbH, Berlin und
-    Köln erschienen und beim Deutschen Patent- und Markenamt in München
-    archivmäßig gesichert und niedergelegt.
-[^f770887_02_BJNR071400008BJNE000700000]: 
 
 ## § 7 Zuständigkeit
 
@@ -431,8 +453,8 @@ Vorschriften von den zuständigen Behörden
 werden.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorschriften über
 
 1.  die Preis- und Gewichtsfeststellung für Schlachtkörper und
 
@@ -663,10 +685,36 @@ dem Register
 
 (4) Die Einrichtung von automatisierten Verfahren, die die
 Übermittlung der Daten aus den Registern nach den Absätzen 2 und 3
-durch Abruf ermöglichen, ist nach Maßgabe von § 10 des
-Bundesdatenschutzgesetzes zulässig. Landesrechtliche Regelungen zur
-Vorabprüfung und zur Unterrichtung des Landesbeauftragten für den
-Datenschutz bleiben unberührt.
+durch Abruf ermöglichen, ist zulässig, soweit diese Verfahren unter
+Berücksichtigung der schutzwürdigen Interessen der betroffenen
+Personen und der Aufgaben oder Geschäftszwecke der beteiligten Stellen
+angemessen sind. Die beteiligten Stellen haben zu gewährleisten, dass
+das Abrufverfahren kontrolliert werden kann. Hierzu haben sie
+Folgendes schriftlich festzulegen:
+
+1.  Anlass und Zweck des Abrufverfahrens,
+
+
+2.  Dritte, an die die Daten übermittelt werden sollen,
+
+
+3.  die Art der zu übermittelnden Daten,
+
+
+4.  die erforderlichen technischen und organisatorischen Maßnahmen nach
+    Maßgabe der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 des
+    Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz
+    natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
+    freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
+    (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314
+    vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+    geltenden Fassung.
+
+
+
+
+Im öffentlichen Bereich können die Festlegungen auch von den
+Fachaufsichtsbehörden getroffen werden.
 
 (5) Nach der Einstellung der Tätigkeit eines
 Klassifizierungsunternehmens oder eines Klassifizierers oder dem
@@ -685,8 +733,8 @@ längere Aufbewahrung vorschreiben, bleiben unberührt.
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates nähere Bestimmungen über die für die
-Durchführung dieses Gesetzes erforderlichen Erhebungen und
-Verwendungen personenbezogener Daten zu treffen.
+Durchführung dieses Gesetzes erforderliche Verarbeitung
+personenbezogener Daten zu treffen.
 
 (2) Rechtsverordnungen nach Absatz 1, § 3 Abs. 4, § 4 Abs. 5, § 8 Abs.
 4, § 9 Abs. 2, auch in Verbindung mit Abs. 3, und § 10 Abs. 3 können
@@ -705,21 +753,8 @@ Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 übertragen.
 
 
-## § 14 Gebühren und Auslagen
+## § 14 (weggefallen)
 
-(1) Für Amtshandlungen, die nach diesem Gesetz und den auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen vorgenommen werden,
-werden Gebühren und Auslagen erhoben.
-
-(2) Die nach Absatz 1 kostenpflichtigen Tatbestände und die
-Gebührenhöhe werden durch Landesrecht bestimmt, soweit die
-Amtshandlungen nicht durch die Bundesanstalt vorgenommen werden. Das
-Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates für Amtshandlungen der Bundesanstalt nach den §§ 3 und
-6 Abs. 1 und 3 die gebührenpflichtigen Tatbestände und die
-Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen.
 
 
 ## § 15 Außenverkehr
@@ -735,7 +770,7 @@ Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 2 eine Klassifizierung vornimmt,
+1.  entgegen § 2 Absatz 1 Nummer 2 eine Klassifizierung vornimmt,
 
 
 2.  entgegen § 8 Abs. 1, 2 oder 3 Satz 1, jeweils auch in Verbindung mit
@@ -762,6 +797,10 @@ Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 und
 5 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen
 mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für
+Landwirtschaft und Ernährung.
 
 
 ## § 17 Einziehung

@@ -362,8 +362,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
 
 (Fundstelle: BGBl. I 1999, 1589 - 1593)
 
@@ -1190,8 +1191,9 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
 
 
 
+(zu § 4)
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Eisenbahn- und Straßenverkehr/zur Kauffrau im Eisenbahn- und Straßenverkehr
 
 (Fundstelle: BGBl. I 1999, 1594 - 1596)
 

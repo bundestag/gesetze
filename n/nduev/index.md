@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2117
 
+Zuletzt geändert durch
+:   Art. 7 Abs. 29 G v. 12.5.2021 I 990
+
 
 ## Eingangsformel
 
@@ -36,10 +39,10 @@ Verteidigung:
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt die Form und das Verfahren von Auskünften,
-die auf Grund von Anordnungen nach § 8a Absatz 1 und Absatz 2 Satz 1
-Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes, auch in
-Verbindung mit § 4a Satz 1 des MAD-Gesetzes oder § 2a Satz 1 des BND-
-Gesetzes, zu erteilen sind.
+die auf Grund von Anordnungen nach § 8a Absatz 1 Satz 1 Nummer 1, 2
+und 5 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a
+Satz 1 des MAD-Gesetzes oder § 3 Satz 1 des BND-Gesetzes, zu erteilen
+sind.
 
 (2) Durch diese Verordnung wird keine Verpflichtung begründet,
 personenbezogene Daten zu einem Betroffenen zu erheben oder
@@ -55,14 +58,13 @@ gespeicherte Daten inhaltlich zu überprüfen.
 
 
 2.  „Auskunftsersuchen“ Ersuchen auf Grund von Anordnungen nach § 8a
-    Absatz 1 und Absatz 2 Satz 1 Nummer 1, 2 und 5 des
-    Bundesverfassungsschutzgesetzes, die an einen Verpflichteten gerichtet
-    sind,
+    Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes,
+    die an einen Verpflichteten gerichtet sind,
 
 
 3.  „Verpflichteter“ jede nach § 8b Absatz 6 in Verbindung mit § 8a Absatz
-    1 und Absatz 2 Satz 1 Nummer 1, 2 und 5 des
-    Bundesverfassungsschutzgesetzes verpflichtete Stelle,
+    1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes
+    verpflichtete Stelle,
 
 
 4.  „Sektoren“ jeweils die folgenden Wirtschaftszweige:
@@ -74,12 +76,12 @@ gespeicherte Daten inhaltlich zu überprüfen.
         Flüge,
 
 
-    c)  Kreditinstitute, Finanzdienstleistungsinstitute und Finanzunternehmen
-        sowie
+    c)  Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten
+        und Finanzunternehmen sowie
 
 
-    d)  Teledienste im Sinne des § 8a Absatz 1 und Absatz 2 Satz 1 Nummer 5
-        des Bundesverfassungsschutzgesetzes.
+    d)  Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des
+        Bundesverfassungsschutzgesetzes.
 
 
 
@@ -162,14 +164,15 @@ Entschädigung zu verwenden.
 ## § 5 Übermittlungsformat und Anforderungen an Auskunftsersuchen
 
 (1) Die Datensätze sind im XML-Format nach W3C-Spezifikation vom 10.
-Februar 1998 (im Internet veröffentlicht unter http://www.w3.org/TR
-/REC-xml/; archivmäßig gesichert im Bundesministerium des Innern,
-Berlin) zu übermitteln, soweit nicht in Anlage 1 für den betreffenden
-Sektor abweichende oder genauer festgelegte Formate vorgegeben sind.
-Soweit dies in Anlage 1 vorgesehen ist, sind Beschreibungen der
-verwendeten Datensätze oder Hinweise auf kostenfreie, uneingeschränkt
-abrufbare Veröffentlichungen solcher Beschreibungen im Internet
-zusammen mit den Datensätzen zu übermitteln.
+Februar 1998 (im Internet veröffentlicht unter
+http://www.w3.org/TR/REC-xml/; archivmäßig gesichert im
+Bundesministerium des Innern, für Bau und Heimat, Berlin) zu
+übermitteln, soweit nicht in Anlage 1 für den betreffenden Sektor
+abweichende oder genauer festgelegte Formate vorgegeben sind. Soweit
+dies in Anlage 1 vorgesehen ist, sind Beschreibungen der verwendeten
+Datensätze oder Hinweise auf kostenfreie, uneingeschränkt abrufbare
+Veröffentlichungen solcher Beschreibungen im Internet zusammen mit den
+Datensätzen zu übermitteln.
 
 (2) Der codierte Zeichensatz für eine nach dieser Verordnung
 vorzunehmende Datenübermittlung hat vorbehaltlich abweichender
@@ -238,10 +241,12 @@ regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung,
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 5 Absatz 1)
 
-## Anlage 1 (zu § 5 Absatz 1) Datenübermittlungsformate für die einzelnen Sektoren
+## Anlage 1 Datenübermittlungsformate für die einzelnen Sektoren
 
-(Fundstelle: BGBl. I 2012, 2120)
+(Fundstelle: BGBl. I 2012, 2120;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 
 1.  **Luftfahrtunternehmen/Computerreservierungssysteme und Globale
@@ -266,8 +271,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
-2.  **Kreditinstitute, Finanzdienstleistungsinstitute und
-    Finanzunternehmen**
+2.  **Kreditinstitute, Finanzdienstleistungsinstitute,
+    Wertpapierinstituten und Finanzunternehmen**
 
     Die Daten sind zu übermitteln,
 
@@ -376,7 +381,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage 2 (zu § 7 Absatz 1 Satz 1)
 
-(Fundstelle: BGBl. I 2012, 2121)
+(Fundstelle: BGBl. I 2012, 2121;
+bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
 
 *    *   **Lfd. Nr.**
@@ -398,7 +404,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 *    *   2
 
     *   Erteilung einer Auskunft durch Kreditinstitute,
-        Finanzdienstleistungsinstitute und Finanzunternehmen
+        Finanzdienstleistungsinstitute, Wertpapierinstituten und
+        Finanzunternehmen
 
     *   a)
 

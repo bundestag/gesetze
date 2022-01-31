@@ -16,10 +16,10 @@ Fundstelle
 :   WiGBl: 1949, 77
 
 Neugefasst durch
-:   Bek. v. 4.9.2002 I 3646;
+:   Bek. v. 12.12.2013 I 4120
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.6.2009 I 1506
+:   Art. 14 Abs. 7 G v. 17.7.2017 I 2446
 
 
 ## § 1 Rechtsform, Sitz
@@ -29,6 +29,15 @@ eine bundesunmittelbare Anstalt des öffentlichen Rechts.
 
 (2) Die Bank hat ihren Sitz in Frankfurt am Main. Sie unterhält keine
 Zweigniederlassungen.
+
+
+## § 1a Haftung des Bundes
+
+Der Bund haftet für die von der Bank aufgenommenen Darlehen und
+begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten
+Termingeschäfte, die Rechte aus Optionen und andere Kredite an die
+Bank sowie für Kredite an Dritte, soweit sie von der Bank ausdrücklich
+gewährleistet werden.
 
 
 ## § 2 Kapital
@@ -79,10 +88,10 @@ Satzung Fördermaßnahmen, insbesondere mittels Finanzierungen, durch:
 
 
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium der
-Finanzen der Bank die Durchführung von Fördermaßnahmen im Rahmen ihres
-staatlichen Auftrages gegen angemessenes Entgelt zuweisen.
+Das Bundesministerium für Ernährung und Landwirtschaft kann im
+Einvernehmen mit dem Bundesministerium der Finanzen der Bank die
+Durchführung von Fördermaßnahmen im Rahmen ihres staatlichen Auftrages
+gegen angemessenes Entgelt zuweisen.
 
 (2) Zur Durchführung ihrer Aufgaben kann die Bank alle ihr zur
 Verfügung stehenden bankmäßigen Instrumente einsetzen, insbesondere
@@ -121,10 +130,10 @@ Liquidität durchführen (Treasury Management) und alle für die
 Risikosteuerung erforderlichen Geschäfte betreiben.
 
 (2) Der Effektenhandel, das Einlagengeschäft und Zahlungsdienste im
-Sinne des § 1 Abs. 2 des Zahlungsdiensteaufsichtsgesetzes sind der
-Bank nur für eigene Rechnung und nur insoweit gestattet, als sie mit
-der Erfüllung der öffentlichen Förderaufgaben in direktem Zusammenhang
-stehen.
+Sinne des § 1 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
+sind der Bank nur für eigene Rechnung und nur insoweit gestattet, als
+sie mit der Erfüllung der öffentlichen Förderaufgaben in direktem
+Zusammenhang stehen.
 
 
 ## § 5 Organe
@@ -151,7 +160,7 @@ Gesetz bestimmt sind, die Satzung.
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
 Vorstandsmitglieder werden vom Verwaltungsrat mit einer Mehrheit von
 mindestens zwei Dritteln seiner Mitglieder bestellt und abberufen. Die
-Bestellung bedarf der Zustimmung der Aufsichtsbehörde (§ 11 Abs. 1).
+Bestellung bedarf der Zustimmung der Aufsichtsbehörde (§ 11 Absatz 1).
 
 (2) Der Vorstand führt die Geschäfte der Bank, soweit diese Aufgabe
 nicht durch Gesetz oder Satzung anderen Organen zugewiesen ist.
@@ -172,7 +181,7 @@ anzuwenden.
 
 1.  acht Vertretern landwirtschaftlicher und ernährungswirtschaftlicher
     Organisationen, von denen benannt werden sechs vom Deutschen
-    Bauernverband e. V., einer vom Deutschen Raiffeisenverband e. V. sowie
+    Bauernverband e. V., einer vom Deutschen Raiffeisenverband e. V. sowie
     einer als Vertreter der Ernährungswirtschaft (Industrie und Handel)
     von den ernährungswirtschaftlichen Verbänden;
 
@@ -185,29 +194,29 @@ anzuwenden.
 3.  einem Vertreter der Gewerkschaften;
 
 
-4.  dem Bundesminister oder der Bundesministerin für Ernährung,
-    Landwirtschaft und Verbraucherschutz; die Vertretung in den Sitzungen
-    des Verwaltungsrates und seiner Ausschüsse durch einen ständigen
-    Vertreter im Amt oder durch einen Abteilungsleiter ist zulässig;
+4.  dem Bundesminister oder der Bundesministerin für Ernährung und
+    Landwirtschaft; die Vertretung in den Sitzungen des Verwaltungsrates
+    und seiner Ausschüsse durch einen ständigen Vertreter im Amt oder
+    durch einen Abteilungsleiter ist zulässig;
 
 
-5.  je einem Vertreter des Bundesministeriums für Ernährung,
-    Landwirtschaft und Verbraucherschutz sowie des Bundesministeriums der
-    Finanzen; die Bundesministerien können auch durch andere
-    sachverständige Personen vertreten sein;
+5.  je einem Vertreter des Bundesministeriums für Ernährung und
+    Landwirtschaft sowie des Bundesministeriums der Finanzen; die
+    Bundesministerien können auch durch andere sachverständige Personen
+    vertreten sein;
 
 
 6.  drei Vertretern von Kreditinstituten oder anderen
-    Kreditsachverständigen, die von den anderen Mitgliedern des
-    Verwaltungsrates hinzugewählt werden.
+    Kreditsachverständigen, die auf Vorschlag der Bundesregierung von den
+    anderen Mitgliedern des Verwaltungsrates hinzugewählt werden.
 
 
 
 
 (2) Der Vorsitzende des Verwaltungsrates wird vom Verwaltungsrat aus
-den Reihen der vom Deutschen Bauernverband e. V. benannten Mitglieder
+den Reihen der vom Deutschen Bauernverband e. V. benannten Mitglieder
 gewählt. Sein Stellvertreter ist der Bundesminister oder die
-Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz.
+Bundesministerin für Ernährung und Landwirtschaft.
 
 (3) Mitglieder der Anstaltsversammlung dürfen dem Verwaltungsrat nicht
 angehören.
@@ -218,13 +227,13 @@ und besondere Weisungen erteilen.
 
 (5) Der Verwaltungsrat beschließt über den Jahresabschluss, über die
 Zuführung zur Hauptrücklage und zur Deckungsrücklage sowie über die
-Aufteilung des Bilanzgewinnes auf den Förderungsfonds (§ 9 Abs. 2) und
-das Zweckvermögen (§ 9 Abs. 3); er hat seinen Vorschlag über die
-Gewinnverwendung nach § 9 Abs. 2 der Anstaltsversammlung zur
+Aufteilung des Bilanzgewinnes auf den Förderungsfonds (§ 9 Absatz 2)
+und das Zweckvermögen (§ 9 Absatz 3); er hat seinen Vorschlag über die
+Gewinnverwendung nach § 9 Absatz 2 der Anstaltsversammlung zur
 Beschlussfassung zuzuleiten.
 
 (6) Der Verwaltungsrat beschließt die Satzung und ihre Änderungen. Sie
-bedürfen der Genehmigung der Aufsichtsbehörde (§ 11 Abs. 1).
+bedürfen der Genehmigung der Aufsichtsbehörde (§ 11 Absatz 1).
 
 
 ## § 8 Anstaltsversammlung
@@ -246,7 +255,7 @@ Geschäftstätigkeit der Bank und des Verwaltungsrates über die von ihm
 gefassten Beschlüsse entgegen und berät die Bank in Fragen der
 Förderung der Landwirtschaft und des ländlichen Raumes sowie bei
 allgemeinen agrar- und geschäftspolitischen Fragen. Sie beschließt
-über die Gewinnverwendung gemäß § 9 Abs. 2.
+über die Gewinnverwendung gemäß § 9 Absatz 2.
 
 
 ## § 9 Gewinnverwendung
@@ -279,9 +288,9 @@ Aktiengesellschaften.
 ## § 11 Aufsicht
 
 (1) Die Bank untersteht der Aufsicht des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz (Aufsichtsbehörde),
-das seine Entscheidungen im Einvernehmen mit dem Bundesministerium der
-Finanzen trifft. Die Aufsichtsbehörde trägt dafür Sorge, dass der
+Ernährung und Landwirtschaft (Aufsichtsbehörde), das seine
+Entscheidungen im Einvernehmen mit dem Bundesministerium der Finanzen
+trifft. Die Aufsichtsbehörde trägt dafür Sorge, dass der
 Geschäftsbetrieb der Bank mit dem öffentlichen Interesse insbesondere
 an der Förderung der Landwirtschaft und des ländlichen Raumes sowie
 mit den Gesetzen und der Satzung in Einklang steht.
@@ -322,7 +331,7 @@ Absätze 2 bis 4 ausgeben.
 Schuldverschreibungen muss in Höhe des Nennwerts und der Zinsen
 jederzeit gedeckt sein. Als Deckung sind zulässig
 
-1.  Pfandbriefe im Sinne des § 1 Abs. 2 des Pfandbriefgesetzes, die nach
+1.  Pfandbriefe im Sinne des § 1 Absatz 2 des Pfandbriefgesetzes, die nach
     den Vorschriften des Pfandbriefgesetzes ausgegeben werden,
 
 
@@ -349,21 +358,20 @@ Kreditinstituten ersetzt werden (Ersatzdeckung).
 
 (3) Die zur Deckung der Schuldverschreibungen bestimmten
 Vermögenswerte einschließlich der Ersatzdeckung sowie Vermögenswerte
-in Höhe der Deckungsrücklage nach § 2 Abs. 3 sind von der Bank einzeln
-in ein Register einzutragen. § 5 Abs. 1 und 2 des Pfandbriefgesetzes
-gilt entsprechend mit der Maßgabe, dass an die Stelle der
-Bundesanstalt die in § 11 Abs. 1 genannte Aufsichtsbehörde tritt.
+in Höhe der Deckungsrücklage nach § 2 Absatz 3 sind von der Bank
+einzeln in ein Register einzutragen. § 5 Absatz 1 und 2 des
+Pfandbriefgesetzes gilt entsprechend mit der Maßgabe, dass an die
+Stelle der Bundesanstalt die in § 11 Absatz 1 genannte
+Aufsichtsbehörde tritt.
 
-(4) Die Aufsichtsbehörde (§ 11 Abs. 1) bestellt nach Anhörung der Bank
-einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf
-zu achten, dass die Ausgabe, Verwaltung und Deckung der
+(4) Die Aufsichtsbehörde (§ 11 Absatz 1) bestellt nach Anhörung der
+Bank einen Treuhänder und einen Stellvertreter. Der Treuhänder hat
+darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der
 Schuldverschreibungen den gesetzlichen und satzungsmäßigen
-Bestimmungen und den Anleihebedingungen entsprechen. § 7 Abs. 3 und 4
-und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit der
-Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Abs. 1
+Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 und
+4 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit
+der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1
 genannte Aufsichtsbehörde tritt.
-
-(5) (weggefallen)
 
 
 ## § 13a Mündelsicherheit
@@ -375,7 +383,7 @@ Zahlungsmittel lauten, sind zur Anlegung von Mündelgeldern geeignet.
 ## § 14 Arreste und Zwangsvollstreckungen
 
 Auf Arreste und Zwangsvollstreckungen in Vermögenswerte, die in das
-Deckungsregister nach § 13 Abs. 3 eingetragen sind, ist § 29 des
+Deckungsregister nach § 13 Absatz 3 eingetragen sind, ist § 29 des
 Pfandbriefgesetzes entsprechend anzuwenden.
 
 
@@ -388,13 +396,14 @@ Zinsen im Voraus versprechen lassen.
 
 ## § 16 Auflösung
 
-(1) Die Bank kann nur durch Gesetz aufgelöst werden. Das Gesetz
-bestimmt über die Verwendung des Vermögens. Es darf nur für eine das
+(1) Das Insolvenzverfahren über das Vermögen der Bank ist unzulässig.
+Die Bank kann nur durch Gesetz aufgelöst werden. Das Gesetz bestimmt
+über die Verwendung des Vermögens. Es darf nur für eine das
 Allgemeininteresse wahrende Förderung der Landwirtschaft oder der
 landwirtschaftlichen Forschung verwendet werden.
 
 (2) Im Falle der Auflösung gehen die Gläubiger der gedeckten
-Schuldverschreibungen hinsichtlich der nach § 13 Abs. 3 in dem
+Schuldverschreibungen hinsichtlich der nach § 13 Absatz 3 in dem
 Register eingetragenen Werte den übrigen Gläubigern der Bank im Rang
 vor. Soweit diese Werte nicht zur Befriedigung der Gläubiger der
 gedeckten Schuldverschreibungen notwendig sind, stehen sie den übrigen
@@ -406,22 +415,16 @@ Gläubigern der Bank zur Verfügung.
 Die bisherigen Deckungsregister der Bank bleiben nach Inkrafttreten
 des Fünften Gesetzes zur Änderung des Gesetzes über die
 Landwirtschaftliche Rentenbank als getrennte Deckungsregister neben
-dem Deckungsregister nach § 13 Abs. 3 bestehen. Die Aufgaben des
-Treuhänders nach § 13 Abs. 4 erstrecken sich auch auf diese
+dem Deckungsregister nach § 13 Absatz 3 bestehen. Die Aufgaben des
+Treuhänders nach § 13 Absatz 4 erstrecken sich auch auf diese
 Deckungsregister.
 
 
-## § 18
-
-(weggefallen)
+## § 18 (weggefallen)
 
 
-## § 19
-
-(weggefallen)
+## § 19 (weggefallen)
 
 
-## § 20
-
-(Inkrafttreten)
+## § 20 (Inkrafttreten)
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1526
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.11.2008 I 2232
+:   Art. 25 G v. 21.12.2020 I 3096
 
 
 ## Eingangsformel
@@ -29,18 +29,17 @@ gefaßt worden ist, verordnet der Bundesminister der Finanzen:
 
 ## § 1 Allgemeines
 
-(1) Einfuhrumsatzsteuerfrei ist, vorbehaltlich der §§ 1a bis 10, die
+(1) Einfuhrumsatzsteuerfrei ist, vorbehaltlich der §§ 2 bis 10, die
 Einfuhr von Gegenständen, die nach Kapitel I und III der Verordnung
-(EWG) Nr. 918/83 des Rates vom 28. März 1983 über
-das gemeinschaftliche              System der Zollbefreiungen (ABl. EG
-Nr. L 105 S. 1, Nr. L 274 S. 40, 1984
-Nr. L 308 S. 64,              1985 Nr. L 256 S. 47, 1986
-Nr. L 271 S. 31),              die zuletzt durch die Verordnung (EG)
-Nr. 274/2008              vom 17. März 2008 (ABl. EU
-Nr. L 85 S. 1)              geändert worden ist, zollfrei eingeführt
-werden können, in entsprechender Anwendung dieser Vorschriften sowie
-der Durchführungsvorschriften dazu; ausgenommen sind die Artikel 29
-bis 31, 45, 52 bis 59b, 63a und 63b der Verordnung (EWG) Nr. 918/83.
+(EWG) Nr. 918/83 des Rates vom 28. März 1983 über das
+gemeinschaftliche System der Zollbefreiungen (ABl. EG Nr. L 105 S. 1,
+Nr. L 274 S. 40, 1984 Nr. L 308 S. 64, 1985 Nr. L 256 S. 47, 1986 Nr.
+L 271 S. 31), die zuletzt durch die Verordnung (EG) Nr. 274/2008 vom
+17\. März 2008 (ABl. EU Nr. L 85 S. 1) geändert worden ist, zollfrei
+eingeführt werden können, in entsprechender Anwendung dieser
+Vorschriften sowie der Durchführungsvorschriften dazu; ausgenommen
+sind die Artikel 27 bis 31, 45, 52 bis 59b, 63a und 63b der Verordnung
+(EWG) Nr. 918/83.
 
 (1a) Im Sinne dieser Verordnung gilt als Zollkodex die Verordnung
 (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des
@@ -93,12 +92,7 @@ Einfuhrabgaben im Sinne des Artikels 4 Nr. 10 Zollkodex eingeführt
 werden können, in sinngemäßer Anwendung dieser Vorschriften.
 
 
-## § 1a Sendungen von geringem Wert
-
-Die Einfuhrumsatzsteuerfreiheit für Sendungen von Waren mit geringem
-Wert im Sinne des Artikels 27 der Verordnung (EWG) Nr. 918/83 ist auf
-Waren beschränkt, deren Gesamtwert 22 Euro je Sendung nicht
-übersteigt.
+## § 1a (weggefallen)
 
 
 ## § 2 Investitionsgüter und andere Ausrüstungsgegenstände
@@ -280,7 +274,7 @@ nachfolgenden Vorschriften eingehalten sind.
 grundsätzlich nur zugelassen, wenn im Freihafen vorhandene Anlagen
 sonst nicht wirtschaftlich ausgenutzt werden können und der Freihafen
 durch die Lagerung seinem Zweck nicht entfremdet wird. Für die
-Zulassung ist das von der Oberfinanzdirektion dafür bestimmte
+Zulassung ist das von der Generalzolldirektion dafür bestimmte
 Hauptzollamt zuständig. Der Antrag auf Zulassung ist vom Lagerhalter
 schriftlich zu stellen. Die Zulassung wird schriftlich erteilt.
 
@@ -317,7 +311,7 @@ nachfolgenden Vorschriften eingehalten sind.
 
 (2) Die Freihafen-Veredelung bedarf einer Bewilligung; sie wird nur
 erteilt, wenn der Freihafen dadurch seinem Zweck nicht entfremdet
-wird. Für die Bewilligung ist die von der Oberfinanzdirektion dafür
+wird. Für die Bewilligung ist die von der Generalzolldirektion dafür
 bestimmte Zollstelle zuständig. Der Antrag auf Bewilligung ist vom
 Inhaber des Freihafenbetriebs schriftlich zu stellen. Die Bewilligung
 wird schriftlich erteilt; sie kann jederzeit widerrufen werden. In der

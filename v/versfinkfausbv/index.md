@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1187
 
+Geändert durch
+:   Art. 1 V v. 27.5.2014 I 690
+
+Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
+des Berufsbildungsgesetzes\*. Die Ausbildungsordnung und der damit
+abgestimmte, von der Ständigen Konferenz der Kultusminister der
+Länderin der Bundesrepublik Deutschland beschlossene Rahmenlehrplan
+für die Berufsschule werden demnächst als Beilage zum Bundesanzeiger
+veröffentlicht.
 
 
 ## Eingangsformel
@@ -150,7 +159,7 @@ Nummer 4 ist die Produktliste der Anlage 1 zugrunde zu legen.
 (2) Gegenstand der Ausbildung in der Fachrichtung Versicherung sind
 mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Schaden- und Leistungsmanagement,
+1.  Schaden- und Leistungsbearbeitung,
 
 
 2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationseinheiten
@@ -160,57 +169,39 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 
 (3) Gegenstand der Ausbildung in der Fachrichtung Finanzberatung sind
-mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten aus
-den Qualifikationseinheiten:
+mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Private Immobilienfinanzierung und Versicherungen;
-
-
-2.  Vertrieb von Finanzprodukten:
+1.  Anlage in Finanzprodukte,
 
 
-2.1 Anlage in Wertpapieren,
-
-
-2.2 Organisation der Vertriebseinheit;
-
-
-3.  Vertrieb von Produkten der betrieblichen Altersvorsorge:
-
-
-3.1 Kundenberatung,
-
-
-3.2 Angebot und Antrag.
+2.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationseinheiten
+    aus der Auswahlliste nach Absatz 5.
 
 
 
 
-(4) Die Auswahlliste gemäß Absatz 2 Nr. 2 umfasst folgende sieben
+(4) Die Auswahlliste nach Absatz 2 Nummer 2 umfasst folgende
 Wahlqualifikationseinheiten:
 
-1.  Kundengewinnung und Kundenbindung:
+1.  Kundengewinnung und Bestandsausbau:
 
 
-1.1 Neukunden,
+1.1 Gewinnung von Neukunden,
 
 
-1.2 Bestandskunden;
+1.2 Ausbau bestehender Kundenbeziehungen;
 
 
 2.  Marketing;
 
 
-3.  Agenturbetrieb:
+3.  Steuerung und Verkaufsförderung in der Vertriebseinheit:
 
 
-3.1 Agenturführung,
+3.1 Steuerung in der Vertriebseinheit,
 
 
-3.2 Agenturmarketing,
-
-
-3.3 Organisation und Personal;
+3.2 Verkaufsförderung in der Vertriebseinheit;
 
 
 4.  Risikomanagement:
@@ -222,10 +213,11 @@ Wahlqualifikationseinheiten:
 4.2 Antragsannahme;
 
 
-5.  Vertrieb von Produkten der betrieblichen Altersvorsorge:
+5.  Vertrieb von Produkten der betrieblichen
+    Altersvorsorge:
 
 
-5.1 Kundenberatung,
+5.1 Kundenberatung von Arbeitgebern und Arbeitnehmern,
 
 
 5.2 Angebot und Antrag;
@@ -240,7 +232,39 @@ Wahlqualifikationseinheiten:
 6.2 Angebot und Antrag;
 
 
-7.  Vertrieb von Versicherungsprodukten für Privatkunden.
+7.  Optimierung von Kundenbeziehungen und Versicherungsbeständen:
+
+
+7.1 Optimierung von Kundenbeziehungen,
+
+
+7.2 Optimierung von Versicherungsbeständen;
+
+
+8.  Schadenservice und Leistungsmanagement.
+
+
+
+
+(5) Die Auswahlliste nach Absatz 3 Nummer 2 umfasst folgende
+Wahlqualifikationseinheiten:
+
+1.  Finanzierungsberatung von gewerblichen Kunden;
+
+
+2.  Optimierung von Finanzproduktbeständen der Kunden;
+
+
+3.  Private Immobilienfinanzierung und Versicherungen;
+
+
+4.  Vertrieb von Produkten der betrieblichen Altersvorsorge:
+
+
+4.1 Kundenberatung von Arbeitgebern und Arbeitnehmern,
+
+
+4.2 Angebot und Antrag.
 
 
 
@@ -311,7 +335,7 @@ Berufsausbildung wesentlich ist.
 
 (2) Die Prüfung besteht aus den Prüfungsbereichen:
 
-1.  Versicherungswirtschaft und Leistungsmanagement,
+1.  Versicherungswirtschaft sowie Schaden- und Leistungsbearbeitung,
 
 
 2.  Wirtschafts- und Sozialkunde,
@@ -330,7 +354,8 @@ mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.  im Prüfungsbereich Versicherungswirtschaft und Leistungsmanagement:
+1.  im Prüfungsbereich Versicherungswirtschaft sowie Schaden- und
+    Leistungsbearbeitung:
 
     In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben
     oder Fälle bearbeiten und dabei zeigen, dass er die Bedarfssituation
@@ -380,25 +405,29 @@ mündlich durchzuführen.
 4.  im Prüfungsbereich Fallbezogenes Fachgespräch:
 
     In einem Fachgespräch von höchstens 15 Minuten Dauer über eine
-    selbstständig durchgeführte betriebliche Fachaufgabe soll der Prüfling
+    selbständig durchgeführte betriebliche Fachaufgabe soll der Prüfling
     zeigen, dass er komplexe Aufgaben bearbeiten, seine Vorgehensweise
     begründen, Problemlösungen in der Praxis erarbeiten, Hintergründe und
-    Schnittstellen erläutern und Ergebnisse bewerten kann. Der Prüfling
-    erstellt für jede der beiden gewählten Wahlqualifikationseinheiten
-    gemäß § 4 Abs. 4 einen höchstens dreiseitigen Report über die
-    Durchführung einer betrieblichen Fachaufgabe als Grundlage für das
-    Fachgespräch. Der Report soll eine Beschreibung der Aufgabenstellung,
-    der Planungs- und der Durchführungsphase sowie eine Auswertung
-    beinhalten. Der Report wird nicht bewertet. Er ist dem
-    Prüfungsausschuss vor der Durchführung der Prüfung im Prüfungsbereich
-    Fallbezogenes Fachgespräch zuzuleiten. Der Ausbildende hat zu
-    bestätigen, dass die Fachaufgabe von dem Prüfling im Betrieb
-    selbstständig durchgeführt worden ist. Aus den beiden betrieblichen
-    Fachaufgaben wählt der Prüfungsausschuss eine Aufgabe als Grundlage
-    für das Fachgespräch aus. Gegenstand des Fallbezogenen Fachgespräches
-    sind neben dieser betrieblichen Fachaufgabe auch die Fertigkeiten,
-    Kenntnisse und Fähigkeiten der zugrunde liegenden
-    Wahlqualifikationseinheit.
+    Schnittstellen erläutern und Ergebnisse bewerten kann (Anforderungen);
+    der Prüfling erstellt für jede der beiden gewählten
+    Wahlqualifikationseinheiten nach § 4 Absatz 4 einen höchstens
+    dreiseitigen Report über die Durchführung einer betrieblichen
+    Fachaufgabe; der Ausbildende hat zu bestätigen, dass die Fachaufgaben
+    von dem Prüfling im Betrieb selbständig durchgeführt worden sind; die
+    Reporte sollen jeweils eine Beschreibung der Aufgabenstellung, der
+    Planungs- und der Durchführungsphase sowie eine Auswertung beinhalten;
+    sie sind dem Prüfungsausschuss vor der Durchführung der Prüfung im
+    Prüfungsbereich Fallbezogenes Fachgespräch zuzuleiten; die Reporte
+    werden nicht bewertet; bewertet werden die Leistungen, die der
+    Prüfling im fallbezogenen Fachgespräch zeigt; aus den beiden
+    betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine Aufgabe
+    aus; ausgehend von dieser Fachaufgabe und dem dazu erstellten Report
+    entwickelt der Prüfungsausschuss das fallbezogene Fachgespräch so,
+    dass die vorstehend genannten Anforderungen an den Prüfling
+    nachgewiesen werden können; Gegenstand des fallbezogenen Fachgesprächs
+    sind neben dieser betrieblichen Fachaufgabe auch die damit
+    zusammenhängenden Fertigkeiten, Kenntnisse und Fähigkeiten der
+    zugrunde liegenden Wahlqualifikationseinheit.
 
 
 
@@ -418,7 +447,7 @@ Verhältnis 2 : 1 zu gewichten.
 
 *    *   1.
 
-    *   Versicherungswirtschaft und Leistungsmanagement
+    *   Versicherungswirtschaft sowie Schaden- und Leistungsbearbeitung
 
     *   40 Prozent,
 
@@ -463,7 +492,7 @@ Berufsausbildung wesentlich ist.
 
 (2) Die Prüfung besteht aus den Prüfungsbereichen:
 
-1.  Versicherungswirtschaft und Immobilienfinanzierung,
+1.  Versicherungswirtschaft und Anlage in Finanzprodukte,
 
 
 2.  Wirtschafts- und Sozialkunde,
@@ -482,15 +511,16 @@ mündlich durchzuführen.
 
 (3) Die Anforderungen in den Prüfungsbereichen sind:
 
-1.  im Prüfungsbereich Versicherungswirtschaft und Immobilienfinanzierung:
+1.  im Prüfungsbereich Versicherungswirtschaft und Anlage in
+    Finanzprodukte:
 
     In höchstens 180 Minuten soll der Prüfling praxisbezogene Aufgaben
     oder Fälle bearbeiten und dabei zeigen, dass er die Bedarfssituation
     von Privatkunden analysieren und Lösungsvorschläge erarbeiten, Anträge
-    prüfen, Angebote zur Immobilienfinanzierung erstellen, Verträge
+    prüfen, Angebote zur Anlage in Finanzprodukte erstellen, Verträge
     service- und bestandsorientiert bearbeiten, Kosten und Erträge von
     Versicherungsprodukten ermitteln sowie den betriebswirtschaftlichen
-    Erfolg anhand von Kennziffern und Statistiken beurteilen kann. Hierfür
+    Erfolg anhand von Kennziffern und Statistiken beurteilen kann; hierfür
     kommen insbesondere folgende Gebiete in Betracht:
 
     a)  Versicherungs- und Finanzprodukte,
@@ -502,7 +532,7 @@ mündlich durchzuführen.
     c)  Rechnungswesen und Controlling,
 
 
-    d)  Immobilienfinanzierung;
+    d)  Anlage in Finanzprodukte;
 
 
 
@@ -531,24 +561,29 @@ mündlich durchzuführen.
 4.  im Prüfungsbereich Fallbezogenes Fachgespräch:
 
     In einem Fachgespräch von höchstens 15 Minuten Dauer über eine
-    selbstständig durchgeführte betriebliche Fachaufgabe soll der Prüfling
+    selbständig durchgeführte betriebliche Fachaufgabe soll der Prüfling
     zeigen, dass er komplexe Aufgaben bearbeiten, seine Vorgehensweise
     begründen, Problemlösungen in der Praxis erarbeiten, Hintergründe und
-    Schnittstellen erläutern und Ergebnisse bewerten kann. Der Prüfling
-    erstellt für jede der beiden Qualifikationseinheiten gemäß § 4 Abs. 3
-    Nr. 2 und 3 einen höchstens dreiseitigen Report über die Durchführung
-    einer betrieblichen Fachaufgabe als Grundlage für das Fachgespräch.
-    Der Report soll eine Beschreibung der Aufgabenstellung, der Planungs-
-    und der Durchführungsphase sowie eine Auswertung beinhalten. Der
-    Report wird nicht bewertet. Er ist dem Prüfungsausschuss vor der
-    Durchführung der Prüfung im Prüfungsbereich Fallbezogenes Fachgespräch
-    zuzuleiten. Der Ausbildende hat zu bestätigen, dass die Fachaufgabe
-    von dem Prüfling im Betrieb selbstständig durchgeführt worden ist. Aus
-    den beiden betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine
-    Aufgabe als Grundlage für das Fachgespräch aus. Gegenstand des
-    Fallbezogenen Fachgespräches sind neben dieser betrieblichen
-    Fachaufgabe auch die Fertigkeiten, Kenntnisse und Fähigkeiten der
-    zugrunde liegenden Qualifikationseinheit.
+    Schnittstellen erläutern und Ergebnisse bewerten kann (Anforderungen);
+    der Prüfling erstellt für jede der beiden gewählten
+    Wahlqualifikationseinheiten nach § 4 Absatz 5 einen höchstens
+    dreiseitigen Report über die Durchführung einer betrieblichen
+    Fachaufgabe; der Ausbildende hat zu bestätigen, dass die Fachaufgaben
+    von dem Prüfling im Betrieb selbständig durchgeführt worden sind; die
+    Reporte sollen jeweils eine Beschreibung der Aufgabenstellung, der
+    Planungs- und der Durchführungsphase sowie eine Auswertung beinhalten;
+    sie sind dem Prüfungsausschuss vor der Durchführung der Prüfung im
+    Prüfungsbereich Fallbezogenes Fachgespräch zuzuleiten; die Reporte
+    werden nicht bewertet; bewertet werden die Leistungen, die der
+    Prüfling im fallbezogenen Fachgespräch zeigt; aus den beiden
+    betrieblichen Fachaufgaben wählt der Prüfungsausschuss eine Aufgabe
+    aus; ausgehend von dieser Fachaufgabe und dem dazu erstellten Report
+    entwickelt der Prüfungsausschuss das fallbezogene Fachgespräch so,
+    dass die vorstehend genannten Anforderungen an den Prüfling
+    nachgewiesen werden können; Gegenstand des fallbezogenen Fachgesprächs
+    sind neben dieser betrieblichen Fachaufgabe auch die damit
+    zusammenhängenden Fertigkeiten, Kenntnisse und Fähigkeiten der
+    zugrunde liegenden Wahlqualifikationseinheit.
 
 
 
@@ -568,7 +603,7 @@ Verhältnis 2 : 1 zu gewichten.
 
 *    *   1.
 
-    *   Versicherungswirtschaft und Immobilienfinanzierung
+    *   Versicherungswirtschaft und Anlage in Finanzprodukte
 
     *   40 Prozent,
 
@@ -615,10 +650,11 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage 1 (zu § 4 Abs. 1) Liste der zu vermittelnden Produkte gemäß § 4 Abs. 1 Nr. 4
+## Anlage 1 Liste der zu vermittelnden Produkte nach § 4 Absatz 1 Nummer 4
 
-(Fundstelle: BGBl. I 2006, 1191)
+(Fundstelle: BGBl. I 2014, 692)
 
 *    *   Spartenbereiche
 
@@ -629,85 +665,232 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
     *   Lebensversicherungen
 
-    *   - Kapitalbildende Lebensversicherung
-        - Risikolebensversicherung
-        - Private Renten-Versicherung
-        - Zusatzversicherung
-        - Selbstständige Berufsunfähigkeitsversicherung
+    *   –
+
+    *   Kapitalbildende Lebensversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Fondsgebundene Lebensversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Risikolebensversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Private Rentenversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Zusatzversicherungen
+
+
+*    *
+    *
+    *   –
+
+    *   Selbständige Berufsunfähigkeitsversicherung
 
 
 *    *   2.
 
     *   Unfallversicherungen
 
-    *   - Einzelunfall-Versicherung
-        - Kinderunfall-Versicherung
-        - Seniorenunfall-Versicherung
+    *   –
+
+    *   Einzelunfallversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Kinderunfallversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Seniorenunfallversicherung
 
 
 *    *   3.
 
     *   Krankenversicherungen
 
-    *   - Krankheitskostenvoll-Versicherung
-        - Krankentagegeld-Versicherung
-        - Krankenhaustagegeld-Versicherung
-        - Zusatzversicherungen
-        - Pflegekostenvoll-Versicherung
-        - Pflegekostenzusatz-Versicherung
+    *   –
+
+    *   Krankheitskostenvollversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Krankentagegeldversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Krankenhaustagegeldversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Zusatzversicherungen
+
+
+*    *
+    *
+    *   –
+
+    *   Pflegepflichtversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Pflegeergänzungsversicherung
 
 
 *    *   4.
 
     *   Haftpflichtversicherungen
 
-    *   - Privathaftpflicht-Versicherung
-        - Tierhalter-Haftpflicht-Versicherung
+    *   –
+
+    *   Privathaftpflichtversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Tierhalter-Haftpflichtversicherung
 
 
 *    *   5.
 
     *   Rechtsschutzversicherungen
 
-    *   - Privat-, Berufs- und Verkehrsrechtsschutz für Nichtselbstständige
-        - Verkehrsrechtsschutz
+    *   –
+
+    *   Privat-, Berufs- und Verkehrsrechtsschutz für Nichtselbständige
+
+
+*    *
+    *
+    *   –
+
+    *   Verkehrsrechtsschutz
 
 
 *    *   6.
 
     *   Kraftfahrtversicherungen
 
-    *   - Kraftfahrt-Haftpflicht-Versicherung
-        - Fahrzeugteil- und -vollversicherung
-        - Verkehrsservice-Versicherung
+    *   –
+
+    *   Kraftfahrt-Haftpflichtversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Fahrzeugteil- und Fahrzeugvollversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Verkehrs-Service-Versicherung
 
 
 *    *   7.
 
     *   Sachversicherungen
 
-    *   - Verbundene Hausrat-Versicherung und Haushaltglas-Versicherung
-        - Verbundene Wohngebäudeversicherung
+    *   –
+
+    *   Verbundene Hausratversicherung und Haushaltsglasversicherung
+
+
+*    *
+    *
+    *   –
+
+    *   Verbundene Wohngebäudeversicherung
 
 
 *    *   8.
 
     *   Finanzprodukte
 
-    *   - Kreditkarten, ec-Karten
-        - Giro-, Festgeld-, Sparkonto
-        - Onlinebanking
-        - Investmentfonds
-        - Wertpapiere
-        - Konsumentenkredit
+    *   –
+
+    *   Geldkarte, Bankkarte, Kreditkarten
+
+
+*    *
+    *
+    *   –
+
+    *   Giro-, Festgeld-, Sparkonto
+
+
+*    *
+    *
+    *   –
+
+    *   Aktien, Schuldverschreibungen
+
+
+*    *
+    *
+    *   –
+
+    *   Investmentfonds
+
+
+*    *
+    *
+    *   –
+
+    *   Verbraucherdarlehen
 
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+Versicherungen und Finanzen/zur Kauffrau für Versicherungen und
+Finanzen
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Sachliche Gliederung -
+## Anlage 2 - Sachliche Gliederung -
 
-(Fundstelle: BGBl. I 2006, 1192 - 1198)
+(Fundstelle: BGBl. I 2006, 1192 - 1198;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten
         gemäß § 4 Abs. 1 Nr. 1 bis 5**
@@ -1165,11 +1348,11 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         (§ 4 Abs. 1 Nr. 5.2)
 
     *
-        a)  Bedeutung von Bestandspflege und Vertragserhaltung für das Unternehmen
-            begründen
+        a)  Bedeutung von Kundenbetreuung und Vertragserhaltung für das
+            Unternehmen begründen
 
 
-        b)  Maßnahmen zur Bestandspflege und Vertragserhaltung planen und
+        b)  Maßnahmen zur Kundenbetreuung und Vertragserhaltung planen und
             durchführen
 
 
@@ -1194,18 +1377,31 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *
 
-*    *   **A. Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 4 Abs. 2 Nr. 1**
+*    *   **A. Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 2 Nummer
+        1**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+
+*    *   1
+
+    *   2
+
+    *   3
 
 
 *    *
-
-*    *
-    *   Schaden- und Leistungsmanagement
-        (§ 4 Abs. 2 Nr. 1)
+    *   Schaden- und Leistungsbearbeitung
+        (§ 4 Absatz 2 Nummer 1)
 
     *   Der Vermittlung folgender Fertigkeiten, Kenntnisse und Fähigkeiten ist
-        einer der Spartenbereiche der Produktliste gemäß Anlage 1 Nr. 1 bis 7
-        zugrunde zu legen:
+        einer der Spartenbereiche der Produktliste nach Anlage 1 Nummer 1 bis
+        7 zugrunde zu legen:
 
         a)  Kunden über Pflichten und Möglichkeiten zur Schadenminderung
             informieren
@@ -1222,14 +1418,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
             feststellen
 
 
-        e)  Schadenservice organisieren
+        e)  für Schaden- und Leistungsfälle notwendige Rückstellungen bilden
 
 
-        f)  für Schaden- und Leistungsfälle notwendige Rückstellungen bilden
-
-
-        g)  den Nutzen des Schaden- und Leistungsmanagements für das Unternehmen
-            darstellen
+        f)  Schadenservice darstellen
 
 
 
@@ -1237,26 +1429,39 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *
 
-*    *   **B. Fertigkeiten, Kenntnisse und Fähigkeiten in den
-        Wahlqualifikationseinheiten gemäß § 4 Abs. 2 Nr. 2**
+*    *   **B. Fertigkeiten, Kenntnisse und Fähigkeiten in den
+        Wahlqualifikationseinheiten nach § 4 Absatz 2 Nummer 2 in Verbindung
+        mit Absatz 4**
 
 
-*    *
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
 
 *    *   1
 
-    *   Kundengewinnung und Kundenbindung
-        (§ 4 Abs. 4 Nr. 1)
+    *   2
+
+    *   3
+
+
+*    *   1
+
+    *   Kundengewinnung und Bestandsausbau
+        (§ 4 Absatz 4 Nummer 1)
 
     *
 
 *    *   1.1
 
-    *   Neukunden
-        (§ 4 Abs. 4 Nr. 1.1)
+    *   Gewinnung von Neukunden
+        (§ 4 Absatz 4 Nummer 1.1)
 
     *
-        a)  Möglichkeiten der Kundengewinnung darstellen
+        a)  vertriebliche Aktionen für die Kundengewinnung entwickeln
 
 
         b)  Methoden der Zielgruppenanalyse auswählen und Zielgruppen analysieren
@@ -1265,11 +1470,11 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         c)  Produkte auswählen, Verkaufsargumente entwickeln und einsetzen
 
 
-        d)  Maßnahmen zur Direktansprache umsetzen
+        d)  Maßnahmen zur Direktansprache auswählen und umsetzen
 
 
         e)  Daten des Neukundengeschäfts aufbereiten und auswerten, Kosten und
-            Nutzen der durchgeführten Maßnahmen beurteilen
+            Nutzen der durchgeführten vertrieblichen Aktionen beurteilen
 
 
 
@@ -1277,14 +1482,14 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   1.2
 
-    *   Bestandskunden
-        (§ 4 Abs. 4 Nr. 1.2)
+    *   Ausbau bestehender Kundenbeziehungen
+        (§ 4 Absatz 4 Nummer 1.2)
 
     *
-        a)  Kundenmerkmale für die Bestandsanalyse auswählen
+        a)  Kundenmerkmale für Bestandsanalysen auswählen
 
 
-        b)  Bestände analysieren
+        b)  Bestände im Hinblick auf zusätzliche Angebote analysieren
 
 
         c)  Maßnahmen zur Kundenansprache anwenden
@@ -1300,7 +1505,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   2
 
     *   Marketing
-        (§ 4 Abs. 4 Nr. 2)
+        (§ 4 Absatz 4 Nummer 2)
 
     *
         a)  Marketingaktivitäten aus den Zielen des Unternehmens ableiten
@@ -1313,8 +1518,8 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         c)  Versicherungsmärkte analysieren
 
 
-        d)  Zielgruppen festlegen, Zusammenhang zwischen Kundengruppen und
-            Produktgestaltung berücksichtigen
+        d)  Zusammenhang zwischen Kundengruppen und Produktgestaltung
+            berücksichtigen, Zielgruppen festlegen
 
 
         e)  Marketinginstrumente auswählen und einsetzen, Vorschläge für die
@@ -1335,36 +1540,33 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   3
 
-    *   Agenturbetrieb
-        (§ 4 Abs. 4 Nr. 3)
+    *   Steuerung und Verkaufsförderung in der Vertriebseinheit
+        (§ 4 Absatz 4 Nummer 3)
 
     *
 
 *    *   3.1
 
-    *   Agenturführung
-        (§ 4 Abs. 4 Nr. 3.1)
+    *   Steuerung in der Vertriebseinheit
+        (§ 4 Absatz 4 Nummer 3.1)
 
     *
-        a)  quantitative und qualitative Geschäftsziele erläutern
+        a)  Arbeitsprozesse in der Vertriebseinheit identifizieren und Maßnahmen
+            ableiten
 
 
-        b)  Auswirkungen von Vertriebssteuerungsinstrumenten, insbesondere
-            Provisionsvorgaben und Geschäftsplänen, für die Zielplanung
-            berücksichtigen
+        b)  quantitative und qualitative Geschäftsziele erläutern
 
 
-        c)  Maßnahmenpläne zur Erreichung der Geschäftsziele entwickeln
+        c)  Vertriebssteuerungsinstrumente, insbesondere Provisionsvorgaben und
+            Geschäftspläne, für die Zielplanung berücksichtigen
 
 
-        d)  Kennzahlen zur Beurteilung des wirtschaftlichen Erfolges ermitteln und
+        d)  Maßnahmenpläne zur Erreichung der Geschäftsziele entwickeln
+
+
+        e)  Kennzahlen ermitteln und zur Beurteilung des wirtschaftlichen Erfolges
             auswerten
-
-
-        e)  Steuerarten berücksichtigen
-
-
-        f)  Belegbuchungen für die Agenturbuchführung vorbereiten
 
 
 
@@ -1372,40 +1574,16 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   3.2
 
-    *   Agenturmarketing
-        (§ 4 Abs. 4 Nr. 3.2)
+    *   Verkaufsförderung
+        in der Vertriebseinheit
+        (§ 4 Absatz 4 Nummer 3.2)
 
     *
         a)  Instrumente zur Verkaufsförderung entwickeln und umsetzen
 
 
-        b)  Werbemaßnahmen erarbeiten und umsetzen
-
-
-        c)  Kosten und Nutzen von Marketingmaßnahmen ermitteln und ihre
+        b)  Kosten und Nutzen von Verkaufsfördermaßnahmen ermitteln und ihre
             Wirksamkeit beurteilen
-
-
-
-
-
-*    *   3.3
-
-    *   Organisation und Personal
-        (§ 4 Abs. 4 Nr. 3.3)
-
-    *
-        a)  Arbeitsprozesse für die Agentur gestalten
-
-
-        b)  Anforderungsprofile entwickeln, Personalbedarf planen
-
-
-        c)  Personal einstellen, arbeits-, sozial- und tarifrechtliche
-            Bestimmungen anwenden
-
-
-        d)  Mitarbeiter einarbeiten
 
 
 
@@ -1414,18 +1592,18 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   4
 
     *   Risikomanagement
-        (§ 4 Abs. 4 Nr. 4)
+        (§ 4 Absatz 4 Nummer 4)
 
     *
 
 *    *   4.1
 
     *   Risikoanalyse
-        (§ 4 Abs. 4 Nr. 4.1)
+        (§ 4 Absatz 4 Nummer 4.1)
 
     *
         a)  versicherbare Risiken, versicherbare Risiken mit Erschwernissen und
-            nicht versicherbare Risiken gemäß den Annahmerichtlinien feststellen
+            nicht versicherbare Risiken nach den Annahmerichtlinien feststellen
 
 
         b)  zusätzliche Informationen zum Antrag einholen und bewerten
@@ -1441,7 +1619,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   4.2
 
     *   Antragsannahme
-        (§ 4 Abs. 4 Nr. 4.2)
+        (§ 4 Absatz 4 Nummer 4.2)
 
     *
         a)  Beiträge ermitteln
@@ -1464,18 +1642,19 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   5
 
-    *   Vertrieb von Produkten der betrieblichen Altersvorsorge
-        (§ 4 Abs. 4 Nr. 5)
+    *   Vertrieb von Produkten der
+        betrieblichen Altersvorsorge
+        (§ 4 Absatz 4 Nummer 5)
 
     *
 
 *    *   5.1
 
-    *   Kundenberatung
-        (§ 4 Abs. 4 Nr. 5.1)
+    *   Kundenberatung von Arbeitgebern und Arbeitnehmern
+        (§ 4 Absatz 4 Nummer 5.1)
 
     *
-        a)  Analyse der Unterstützungsleistungen von Arbeitgebern durchführen
+        a)  Analyse der Unterstützungsleistungen durchführen
 
 
         b)  Versorgungsziele feststellen
@@ -1496,7 +1675,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   5.2
 
     *   Angebot und Antrag
-        (§ 4 Abs. 4 Nr. 5.2)
+        (§ 4 Absatz 4 Nummer 5.2)
 
     *
         a)  Angebote entwickeln und erläutern
@@ -1517,20 +1696,20 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   6
 
     *   Vertrieb von Versicherungsprodukten für Gewerbekunden
-        (§ 4 Abs. 4 Nr. 6)
+        (§ 4 Absatz 4 Nummer 6)
 
     *
 
 *    *   6.1
 
     *   Kundenberatung
-        (§ 4 Abs. 4 Nr. 6.1)
+        (§ 4 Absatz 4 Nummer 6.1)
 
     *
         a)  Risikosituationen analysieren und dokumentieren
 
 
-        b)  Versicherungsbedarf unternehmensspezifischer Kunden ermitteln
+        b)  Versicherungsbedarf ermitteln
 
 
         c)  bedarfsgerechte Absicherungen begründen
@@ -1542,17 +1721,19 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 *    *   6.2
 
     *   Angebot und Antrag
-        (§ 4 Abs. 4 Nr. 6.2)
+        (§ 4 Absatz 4 Nummer 6.2)
 
     *
-        a)  Beiträge ermitteln sowie kundengerechte Angebote entwickeln und
-            erläutern
+        a)  kundengerechte Angebote entwickeln und erläutern
 
 
-        b)  Antragsdaten aufnehmen
+        b)  Beiträge ermitteln
 
 
-        c)  über den Prozess der Antragsbearbeitung informieren
+        c)  Antragsdaten aufnehmen
+
+
+        d)  über den Prozess der Antragsbearbeitung informieren
 
 
 
@@ -1560,26 +1741,81 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *   7
 
-    *   Vertrieb von Versicherungsprodukten für Privatkunden
-        (§ 4 Abs. 4 Nr. 7)
+    *   Optimierung von Kundenbeziehungen und Versicherungsbeständen
+        (§ 4 Absatz 4 Nummer 7)
 
     *
-        a)  Verträge auf Möglichkeiten ihrer Optimierung überprüfen
+
+*    *   7.1
+
+    *   Optimierung von Kundenbeziehungen
+        (§ 4 Absatz 4 Nummer 7.1)
+
+    *
+        a)  Anlässe zur Überprüfung von Versicherungsverträgen identifizieren und
+            Handlungsbedarf ableiten
 
 
-        b)  Möglichkeiten zur Anpassung von Produkten an veränderte
-            Kundenanforderungen vorschlagen
+        b)  Kundenbeziehungen auf Möglichkeiten der Optimierung überprüfen
 
 
-        c)  Konzepte zur Verbesserung der Verkaufsförderung entwickeln und
-            umsetzen
+        c)  Maßnahmen vorschlagen und umsetzen
 
 
-        d)  produktbezogene Geschäftsergebnisse, insbesondere im Hinblick auf
-            Marktanteile, Mitbewerbersituation und Schadenquoten analysieren
+        d)  Erfolg der Maßnahmen überprüfen und bewerten
 
 
-        e)  Wirkungen von Produktänderungen auswerten
+
+
+
+*    *   7.2
+
+    *   Optimierung von Versicherungsbeständen
+        (§ 4 Absatz 4 Nummer 7.2)
+
+    *
+        a)  Bestände anlassbezogen überprüfen, analysieren und Ergebnisse bewerten
+
+
+        b)  Kriterien für den Erfolg von Maßnahmen entwickeln, Maßnahmen
+            vorschlagen und Entscheidungen vorbereiten
+
+
+        c)  Maßnahmen zur Optimierung der Bestände umsetzen
+
+
+        d)  Erfolg der Maßnahmen überprüfen und bewerten
+
+
+
+
+
+*    *   8
+
+    *   Schadenservice und Leistungsmanagement
+        (§ 4 Absatz 4 Nummer 8)
+
+    *
+        a)  Service für Schaden- und Leistungsfälle organisieren
+
+
+        b)  Kunden bei komplexen Schaden- und Leistungsfällen betreuen
+
+
+        c)  Maßnahmen zur Schadenverhütung und Schadenminimierung auswählen und
+            den Kunden vorschlagen
+
+
+        d)  Kostenbeteiligung Dritter und des Versicherungsnehmers aufgrund
+            rechtlicher Vorschriften prüfen und einfordern
+
+
+        e)  den Nutzen von Schadenservice und Leistungsmanagement für das
+            Unternehmen analysieren und Maßnahmen vorschlagen
+
+
+        f)  bei der Weiterentwicklung des Schadenservice und Leistungsmanagements
+            mitwirken
 
 
 
@@ -1592,51 +1828,161 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 *    *
 
-*    *   **Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 4 Abs. 3 Nr. 1 bis
-        3**
+*    *   **A. Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 Absatz 3 Nummer
+        1**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+
+*    *
+    *   Anlage in Finanzprodukte
+        (§ 4 Absatz 3 Nummer 1)
+
+    *
+        a)  Finanzanlagesituation der Kunden analysieren, Anlagemotive und
+            Risikoprofile ermitteln
+
+
+        b)  Kunden die Anlagestrategien unter Beachtung der rechtlichen und
+            betrieblichen Vorschriften erläutern
+
+
+        c)  Chancen und Risiken, insbesondere von Investmentvermögen, bewerten
+
+
+        d)  steuerliche Vorschriften berücksichtigen
+
+
+        e)  Kauf- und Verkaufsaufträge von Finanzprodukten abwickeln
+
+
+
 
 
 *    *
 
+*    *   **B. Fertigkeiten, Kenntnisse und Fähigkeiten in den
+        Wahlqualifikationseinheiten nach § 4 Absatz 3 Nummer 2 in Verbindung
+        mit Absatz 5**
+
+
+*    *   Lfd. Nr.
+
+    *   Teil des Ausbildungsberufsbildes
+
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+
+
 *    *   1
 
-    *   Private Immobilienfinanzierung und Versicherungen
-        (§ 4 Abs. 3 Nr. 1)
+    *   2
+
+    *   3
+
+
+*    *   1
+
+    *   Finanzierungsberatung von
+        gewerblichen                        Kunden
+        (§ 4 Absatz 5 Nummer 1)
 
     *
-        a)  Möglichkeiten der Finanzierung des Erwerbs und der Errichtung von
-            Immobilien darstellen
+        a)  persönliche und gewerbliche Finanzsituation des Kunden erfassen
 
 
-        b)  rechtliche und wirtschaftliche Voraussetzungen für
+        b)  Finanzierungsbedarf ermitteln
+
+
+        c)  Finanzierungswege bedarfsgerecht darstellen
+
+
+        d)  kundengerechte Angebote erläutern
+
+
+        e)  Ergebnisse festhalten und Auftrag entgegennehmen
+
+
+        f)  weiteres Vorgehen mit dem Kunden festlegen und dokumentieren
+
+
+
+
+
+*    *   2
+
+    *   Optimierung von Finanzproduktbeständen der Kunden
+        (§ 4 Absatz 5 Nummer 2)
+
+    *
+        a)  Anlässe zur Überprüfung erkennen und Überprüfung durchführen
+
+
+        b)  Kundenportfolio anlassbezogen analysieren, das Risikoprofil
+            berücksichtigen und Ergebnisse bewerten
+
+
+        c)  Maßnahmen zur Optimierung der Finanzanlagen unter Abwägung von Vor-
+            und Nachteilen vorschlagen und Entscheidungen vorbereiten
+
+
+        d)  Maßnahmen in Abstimmung mit dem Kunden umsetzen
+
+
+        e)  Nachhaltigkeit der Maßnahmen im Kontext der Portfolioentwicklung des
+            Kunden überprüfen und bewerten
+
+
+
+
+
+*    *   3
+
+    *   Private Immobilienfinanzierung und Versicherungen
+        (§ 4 Absatz 5 Nummer 3)
+
+    *
+        a)  Immobilienerwerb als Anlageoption darstellen
+
+
+        b)  Finanzierungsbedarf ermitteln
+
+
+        c)  Finanzierungsmöglichkeiten bei Erwerb und Errichtung von Immobilien
+            darstellen
+
+
+        d)  rechtliche und wirtschaftliche Voraussetzungen für
             Immobilienfinanzierungen prüfen
 
 
-        c)  Finanzierungsbedarf ermitteln
-
-
-        d)  über versicherbare Risiken im Zusammenhang mit Immobilienerwerb und
+        e)  über versicherbare Risiken im Zusammenhang mit Immobilienerwerb und
             -finanzierung beraten
 
 
-        e)  Bedarf für Versicherungsprodukte ermitteln, insbesondere
-            Wohngebäudeversicherung, Risikolebensversicherung mit
-            Berufsunfähigkeitseinschluss, Bauherrenhaftpflichtversicherung und
-            Bauleistungsversicherung
+        f)  Bedarf für Versicherungsprodukte ermitteln, Angebote erstellen und
+            erläutern
 
 
-        f)  Angebote erstellen und erläutern
+        g)  Daten für Immobilienbewertungen und Beleihungswerte ermitteln
 
 
-        g)  Daten für Immobilienbewertungen ermitteln und Beleihungswerte
-            festlegen
-
-
-        h)  Finanzierungspläne und -angebote erstellen und erläutern
+        h)  Finanzierungspläne und -angebote erläutern
 
 
         i)  Finanzierungsanträge aufnehmen und Vollständigkeit der Unterlagen
-            feststellen
+            sicherstellen
 
 
         j)  über Voraussetzungen und Modalitäten der Auszahlungen informieren
@@ -1645,80 +1991,20 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
-*    *   2
-
-    *   Vertrieb von Finanzprodukten
-        (§ 4 Abs. 3 Nr. 2)
-
-    *
-
-*    *   2.1
-
-    *   Anlage in Wertpapieren
-        (§ 4 Abs. 3 Nr. 2.1)
-
-    *
-        a)  Kunden über Anlagestrategien beraten
-
-
-        b)  Anlagemotive und Risikoprofile von Kunden ermitteln
-
-
-        c)  Rechtsgrundlagen und betriebliche Regelungen beachten
-
-
-        d)  Chancen und Risiken von Wertpapierarten bewerten
-
-
-        e)  über die steuerliche Behandlung von Wertpapieren informieren
-
-
-        f)  Wertpapieraufträge aufnehmen
-
-
-
-
-
-*    *   2.2
-
-    *   Organisation der Vertriebseinheit
-        (§ 4 Abs. 3 Nr. 2.2)
-
-    *
-        a)  Aufgaben und Geschäftsziele darstellen
-
-
-        b)  Marketingmaßnahmen entwickeln
-
-
-        c)  Arbeitsabläufe planen
-
-
-        d)  Voraussetzungen und Möglichkeiten einer selbstständigen Tätigkeit im
-            Vertrieb darstellen
-
-
-        e)  Grundlagen des Arbeits-, Sozial- und Tarifrechts bei der Erstellung
-            von Arbeitsverträgen beachten
-
-
-
-
-
-*    *   3
+*    *   4
 
     *   Vertrieb von Produkten der betrieblichen Altersvorsorge
-        (§ 4 Abs. 3 Nr. 3)
+        (§ 4 Absatz 5 Nummer 4)
 
     *
 
-*    *   3.1
+*    *   4.1
 
-    *   Kundenberatung
-        (§ 4 Abs. 3 Nr. 3.1)
+    *   Kundenberatung von Arbeitgebern und Arbeitnehmern
+        (§ 4 Absatz 5 Nummer 4.1)
 
     *
-        a)  Analyse der Unterstützungsleistungen von Arbeitgebern durchführen
+        a)  Analyse der Unterstützungsleistungen durchführen
 
 
         b)  Versorgungsziele feststellen
@@ -1736,10 +2022,10 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
-*    *   3.2
+*    *   4.2
 
     *   Angebot und Antrag
-        (§ 4 Abs. 3 Nr. 3.2)
+        (§ 4 Absatz 5 Nummer 4.2)
 
     *
         a)  Angebote entwickeln und erläutern
@@ -1759,37 +2045,20 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+Versicherungen und Finanzen/zur Kauffrau für Versicherungen und
+Finanzen
 
-## Anlage 3 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Zeitliche Gliederung -
+## Anlage 3 - Zeitliche Gliederung -
 
-(Fundstelle: BGBl. I 2006, 1199 - 1201)
+(Fundstelle: BGBl. I 2006, 1199 - 1201;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-*
-    *
-        *
-            *
-                *
-                    *   **A. Fachrichtung Versicherung**
-
-                        *   **Erstes Ausbildungsjahr**
+*    *   **A. Fachrichtung Versicherung**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*    *   **Erstes Ausbildungsjahr**
 
 
 
@@ -1858,31 +2127,7 @@ Anlage 2 Abschnitt I der Berufsbildpositionen
 zu vermitteln.
 
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *   **Zweites Ausbildungsjahr**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*    *   **Zweites Ausbildungsjahr**
 
 
 
@@ -1945,52 +2190,28 @@ Anlage 2 Abschnitt I der Berufsbildpositionen
 zu vermitteln.
 
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *   **Drittes Ausbildungsjahr**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*    *   **Drittes Ausbildungsjahr**
 
 
 
 (1) In einem Zeitraum von vier Monaten sind schwerpunktmäßig die
-Fertigkeiten, Kenntnisse und Fähigkeiten gemäß Anlage 2 Abschnitt II A
+Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage 2 Abschnitt II A
 der Berufsbildposition
-Schaden- und Leistungsmanagement
+Schaden- und Leistungsbearbeitung
 zu vermitteln.
 
 (2) In einem Zeitraum von jeweils vier Monaten sind schwerpunktmäßig
 die Fertigkeiten, Kenntnisse und Fähigkeiten der zwei ausgewählten
-Wahlqualifikationseinheiten gemäß Anlage 2 Abschnitt II B der
+Wahlqualifikationseinheiten nach Anlage 2 Abschnitt II B der
 Berufsbildpositionen
 
-1.  Kundengewinnung und Kundenbindung,
+1.  Kundengewinnung und Bestandsausbau,
 
 
 2.  Marketing,
 
 
-3.  Agenturbetrieb,
+3.  Steuerung und Verkaufsförderung in der Vertriebseinheit,
 
 
 4.  Risikomanagement,
@@ -2002,39 +2223,20 @@ Berufsbildpositionen
 6.  Vertrieb von Versicherungsprodukten für Gewerbekunden,
 
 
-7.  Vertrieb von Versicherungsprodukten für Privatkunden
+7.  Optimierung von Kundenbeziehungen und Versicherungsbeständen,
+
+
+8.  Schadenservice und Leistungsmanagement
 
 
 
 zu vermitteln.
 
 
-*
-    *
-        *
-            *
-                *
-                    *   **B. Fachrichtung Finanzberatung**
-
-                        *   **Erstes Ausbildungsjahr**
+*    *   **B. Fachrichtung Finanzberatung**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*    *   **Erstes Ausbildungsjahr**
 
 
 
@@ -2103,31 +2305,7 @@ Anlage 2 Abschnitt I der Berufsbildpositionen
 zu vermitteln.
 
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *   **Zweites Ausbildungsjahr**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*    *   **Zweites Ausbildungsjahr**
 
 
 
@@ -2190,59 +2368,31 @@ Anlage 2 Abschnitt I der Berufsbildpositionen
 zu vermitteln.
 
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *   **Drittes Ausbildungsjahr**
+*    *   **Drittes Ausbildungsjahr**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(1) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten gemäß Anlage 2 Abschnitt
-III der Berufsbildposition
-
-1.  Private Immobilienfinanzierung und Versicherungen
-
-
-
+(1) In einem Zeitraum von vier Monaten sind schwerpunktmäßig die
+Fertigkeiten, Kenntnisse und Fähigkeiten nach Anlage 2 Abschnitt III A
+der Berufsbildposition
+Anlage in Finanzprodukte
 zu vermitteln.
 
-(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten gemäß Anlage 2 Abschnitt
-III der Berufsbildposition
+(2) In einem Zeitraum von jeweils vier Monaten sind schwerpunktmäßig
+die Fertigkeiten, Kenntnisse und Fähigkeiten der zwei ausgewählten
+Wahlqualifikationseinheiten nach Anlage 2 Abschnitt III B der
+Berufsbildpositionen
 
-2.  Vertrieb von Finanzprodukten
+1.  Finanzierungsberatung von gewerblichen Kunden,
 
 
+2.  Optimierung von Finanzproduktbeständen der Kunden,
 
-zu vermitteln.
 
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig
-die Fertigkeiten, Kenntnisse und Fähigkeiten gemäß Anlage 2 Abschnitt
-III der Berufsbildposition
+3.  Private Immobilienfinanzierung und Versicherungen,
 
-3.  Vertrieb von Produkten der betrieblichen Altersvorsorge
+
+4.  Vertrieb von Produkten der betrieblichen Altersvorsorge
 
 
 

@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2380
 
-Geändert durch
-:   Art. 1 V v. 7.11.2000 I 1495
+V aufgeh. durch
+:   Art. 4 Abs. 36 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 56 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 39 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 39 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -27,16 +33,17 @@ Auf Grund des § 6 Satz 1 Nr. 2 des Bundesarchivgesetzes vom 6. Januar
 
 ## § 1 Geltungsbereich
 
-Für die Benutzung von Archivgut beim Bundesarchiv werden Kosten
-(Gebühren und Auslagen) nach dieser Verordnung erhoben.
+Für die Benutzung von Archivgut beim Bundesarchiv werden Gebühren und
+Auslagen nach dieser Verordnung erhoben.
 
 
-## § 2 Kosten
+## § 2 Gebühren und Auslagen
 
-Die Kosten bestimmen sich nach dem anliegenden Kostenverzeichnis.
+Die Gebühren und Auslagen bestimmen sich nach dem anliegenden
+Gebühren- und Auslagenverzeichnis.
 
 
-## § 3 Pflichten des Kostenschuldners
+## § 3 Pflichten des Gebührenschuldners
 
 Auf Verlangen des Bundesarchivs hat der Benutzer die für die
 Gebührenfestsetzung nötigen Angaben zu machen.
@@ -44,19 +51,11 @@ Gebührenfestsetzung nötigen Angaben zu machen.
 
 ## § 4 Sachliche Gebührenfreiheit, Gebührenbefreiung
 
-(1) Gebühren werden nicht erhoben
-
-1.  für mündliche und einfache schriftliche Auskünfte,
-
-
-2.  in den § 7 Nr. 2 bis 4 des Verwaltungskostengesetzes entsprechenden
-    Fällen.
-
-
-
+(1) Gebühren werden nicht erhoben für mündliche und einfache
+schriftliche Auskünfte.
 
 (2) Gebührenbefreiung besteht ferner für Benutzungen zu
-wissenschaftlichen Zwecken nach dem Gebührenverzeichnis
+wissenschaftlichen Zwecken nach dem Gebühren- und Auslagenverzeichnis
 
 1.  den Nummern 1.1 und 1.2,
 
@@ -67,24 +66,26 @@ wissenschaftlichen Zwecken nach dem Gebührenverzeichnis
 
 
 
-(3) Auf die Gebühr nach Nummer 4.11 des Gebührenverzeichnisses kann
-das Bundesarchiv bei einer Auflage bis zu 500 Exemplaren verzichten.
+(3) Auf die Gebühr nach Nummer 4.11 des Gebühren- und
+Auslagenverzeichnisses kann das Bundesarchiv bei einer Auflage bis zu
+500 Exemplaren verzichten.
 
 
-## § 5 Allgemeine kostenrechtliche Bestimmungen
+## § 5 (weggefallen)
 
-Die Vorschriften des 3. Abschnitts des Verwaltungskostengesetzes
-gelten entsprechend.
 
 
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 2)
 
-## Anlage (zu § 2) Kostenverzeichnis
+## Anlage Gebühren- und Auslagenverzeichnis
 
-(Fundstelle des Originaltextes: BGBl. I 2000, 1496 - 1499)
+(Fundstelle: BGBl. I 2000, 1496 - 1499)
+bzgl. der einzelnen Änderungen vgl. Fußnote
+
 
 *    *   **A. Gebühren**
 
@@ -242,9 +243,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 *    *
     *   Neuauflagen, Nachdrucke, Übersetzungen oder Lizenzausgaben werden wie
-        neue Publikationen behandelt. Bei gleichzeitiger Publikation im Druck
-        und auf CD-ROM wird für die CD-ROM-Ausgabe ein Nachlass von 50% auf
-        die Gebühr für die gedruckte Ausgabe gewährt.
+        neue Publikationen behandelt.Rec Bei gleichzeitiger Publikation im
+        Druck und auf CD-ROM wird für die CD-ROM-Ausgabe ein Nachlass von 50%
+        auf die Gebühr für die gedruckte Ausgabe gewährt.
 
     *
 

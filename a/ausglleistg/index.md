@@ -21,7 +21,7 @@ Neugefasst durch
 :   Bek. v. 13.7.2004 I 1665,
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.3.2011 I 450
+:   Art. 2 G v. 18.8.2021 I 3908
 
 
 ## § 1 Anspruch auf Ausgleichsleistung
@@ -460,7 +460,7 @@ Erwerber.
 
 (14) Unter Anrechnung der nach Absatz 13 bereits tatsächlich
 unentgeltlich übertragenen und noch unentgeltlich zu übertragenden
-Flächen im Sinne von Absatz 12 können insgesamt bis zu 65 000 Hektar
+Flächen im Sinne von Absatz 12 können insgesamt bis zu 73 000 Hektar
 für den Naturschutz besonders wertvolle Flächen unentgeltlich an die
 in Absatz 12 genannten Empfänger, an eine Umweltstiftung des Bundes
 oder an Träger von Naturschutzgroßprojekten des Bundes mit

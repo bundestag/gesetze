@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 3812
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.4.2011 I 648
+:   Art. 5 V v. 12.12.2018 I 2446
 
 
 ## Eingangsformel
@@ -83,7 +83,10 @@ vergleichbare Tarifbeschäftigte betraut:
         zurückgenommen gilt,
 
 
-    g)  Feststellung, dass die Teilungserklärung als nicht abgegeben gilt;
+    g)  Feststellung, dass die Teilungserklärung als nicht abgegeben gilt,
+
+
+    h)  Feststellung, dass die Anmeldung zurückgenommen wurde;
 
 
 
@@ -111,8 +114,9 @@ vergleichbare Tarifbeschäftigte betraut:
     Verspätungszuschlag erloschen ist;
 
 
-6.  Bearbeitung von Lizenzbereitschaftserklärungen und ihrer Rücknahme mit
-    Ausnahme der Festsetzung oder Änderung der angemessenen Vergütung;
+6.  Bearbeitung von Lizenzbereitschaftserklärungen sowie von deren
+    Rücknahme oder deren Anfechtung mit Ausnahme der Festsetzung oder
+    Änderung der angemessenen Vergütung;
 
 
 7.  Entscheidung über Anträge auf
@@ -146,9 +150,10 @@ vergleichbare Tarifbeschäftigte betraut:
     gilt;
 
 
-11. formelle Weiterbearbeitung eines rechtskräftigen Beschlusses des
-    Bundespatentgerichts, insbesondere Weitergabe der vom
-    Bundespatentgericht festgelegten Publikationsunterlagen;
+11. formelle Weiterbearbeitung rechtskräftiger Beschlüsse und Urteile des
+    Bundespatentgerichts und des Bundesgerichtshofs, insbesondere
+    Weitergabe der vom Bundespatentgericht oder vom Bundesgerichtshof
+    festgelegten Publikationsunterlagen;
 
 
 12. Bearbeitung internationaler Anmeldungen, soweit das Deutsche Patent-
@@ -173,7 +178,12 @@ vergleichbare Tarifbeschäftigte betraut:
     für Jahresgebühren bei Patentanmeldungen und Patenten, soweit eine
     Prüfung auf hinreichende Aussicht auf Erteilung des Patents und auf
     fehlende Mutwilligkeit (§ 130 Abs. 1 Satz 1 des Patentgesetzes)
-    bereits stattgefunden hat.
+    bereits stattgefunden hat;
+
+
+15. Bearbeitung von Anfechtungen der Zurücknahme einer Anmeldung sowie
+    Bearbeitung von Anfechtungen der Erklärung des Verzichts auf das
+    Patent.
 
 
 
@@ -234,7 +244,7 @@ vergleichbare Tarifbeschäftigte betraut:
 
 
 
-(3) Absatz 1 Nr. 1 und 4 bis 8 sowie Absatz 2 Nr. 1 und 2 sind in
+(3) Absatz 1 Nr. 1, 4 bis 8 und 15 sowie Absatz 2 Nr. 1 und 2 sind in
 Verfahren über ergänzende Schutzzertifikate und Anmeldungen von
 ergänzenden Schutzzertifikaten entsprechend anzuwenden.
 
@@ -265,24 +275,27 @@ Dienstes und vergleichbare Tarifbeschäftigte betraut:
         zurückgenommen gilt,
 
 
-    e)  Gewährung von Anhörungen,
+    e)  Feststellung, dass die Anmeldung zurückgenommen wurde,
 
 
-    f)  Zurückweisung der Anmeldung aus formellen Gründen, denen der Anmelder
+    f)  Gewährung von Anhörungen,
+
+
+    g)  Zurückweisung der Anmeldung aus formellen Gründen, denen der Anmelder
         nicht widersprochen hat,
 
 
-    g)  Zurückweisung der Anmeldung aus sachlichen Gründen, denen der Anmelder
+    h)  Zurückweisung der Anmeldung aus sachlichen Gründen, denen der Anmelder
         nicht widersprochen hat, sofern der Leiter der Gebrauchsmusterstelle
         der Zurückweisung zugestimmt hat,
 
 
-    h)  Feststellung nach § 4a Abs. 2 des Gebrauchsmustergesetzes, dass eine
+    i)  Feststellung nach § 4a Abs. 2 des Gebrauchsmustergesetzes, dass eine
         Eingabe keine rechtswirksame Anmeldung ist, sofern der Leiter der
         Gebrauchsmusterstelle der Feststellung zugestimmt hat,
 
 
-    i)  Verfügung der Eintragung des Gebrauchsmusters;
+    j)  Verfügung der Eintragung des Gebrauchsmusters;
 
 
 
@@ -331,7 +344,17 @@ Dienstes und vergleichbare Tarifbeschäftigte betraut:
 
 
 7.  Entscheidung über den Antrag auf Gewährung von Verfahrenskostenhilfe
-    für Aufrechterhaltungsgebühren bei Gebrauchsmustern.
+    für Aufrechterhaltungsgebühren bei Gebrauchsmustern;
+
+
+8.  Feststellung, dass das Gebrauchsmuster wegen Verzichts des
+    Gebrauchsmusterinhabers oder wegen nicht rechtzeitiger Zahlung der
+    Aufrechterhaltungsgebühr mit dem Verspätungszuschlag erloschen ist;
+
+
+9.  Bearbeitung von Anfechtungen der Zurücknahme einer Anmeldung sowie
+    Bearbeitung von Anfechtungen der Erklärung des Verzichts auf das
+    Gebrauchsmuster.
 
 
 
@@ -387,22 +410,38 @@ Topographieabteilung durch Beamte des gehobenen und mittleren Dienstes
 sowie vergleichbare Tarifbeschäftigte ist § 2 entsprechend anzuwenden.
 
 
-## § 4 Geschmacksmusterstelle
+## § 4 Designstellen und Designabteilungen
 
-(1) Mit der Wahrnehmung von Geschäften der Geschmacksmusterstelle, die
-ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten,
-werden auch Beamte des gehobenen Dienstes und vergleichbare
-Tarifbeschäftigte betraut.
+(1) Mit der Wahrnehmung derjenigen Geschäfte der Designstellen und
+Designabteilungen, die ihrer Art nach keine besonderen rechtlichen
+Schwierigkeiten bieten, werden auch Beamte des gehobenen und mittleren
+Dienstes und vergleichbare Tarifbeschäftigte betraut.
 
-(2) Dies gilt nicht für Geschäfte, die nach § 26 Abs. 2 Satz 2 Nr. 1
-bis 5 des Geschmacksmustergesetzes dem rechtskundigen Mitglied (§ 23
-Abs. 1 Satz 1 des Geschmacksmustergesetzes) vorbehalten sind.
+(2) Dies gilt nicht für Geschäfte, die nach § 26 Absatz 2 Satz 2
+Nummer 1 bis 3 des Designgesetzes dem rechtskundigen Mitglied (§ 23
+Absatz 1 Satz 2 des Designgesetzes) vorbehalten sind.
 
-(3) Mit der Bearbeitung von Anträgen auf Änderung einer
-Registereintragung, die den Wohnort oder die Zustellanschrift des
-Anmelders oder Inhabers eines Geschmacksmusters oder die Änderung von
-Vertreterangaben betrifft, werden auch Beamte des mittleren Dienstes
-oder vergleichbare Tarifbeschäftigte betraut.
+(3) Beamte des mittleren Dienstes und vergleichbare Tarifbeschäftigte
+werden insbesondere mit der Wahrnehmung folgender Aufgaben der
+Designstellen und Designabteilungen betraut:
+
+1.  formelle Bearbeitung der Akten im Nichtigkeitsverfahren,
+    einschließlich der Aufforderung an den Einreicher, formelle Mängel in
+    seinen Schriftsätzen zu beseitigen;
+
+
+2.  Gewährung der Einsicht in die Akten, einschließlich Erteilung von
+    Auskünften über den Akteninhalt sowie Erteilung von Ablichtungen und
+    Auszügen der Akten, soweit die Einsicht in die Akten jedermann
+    freisteht oder der Anmelder dem Antrag zugestimmt hat;
+
+
+3.  Bearbeitung von Anträgen auf Änderung einer Registereintragung, die
+    den Wohnort oder die Anschrift des Rechtsinhabers des eingetragenen
+    Designs oder die Änderung von Vertreterangaben betrifft.
+
+
+
 
 
 ## § 5 Markenstellen und Markenabteilungen
@@ -429,24 +468,26 @@ vergleichbare Tarifbeschäftigte betraut:
     den Namen oder den Sitz des Inhabers der Marke betrifft;
 
 
-5.  Bearbeitung von Erklärungen auf Teilung einer eingetragenen Marke,
-    einschließlich der Feststellung des Verzichts auf die abgetrennte
-    Eintragung;
+5.  Bearbeitung von Erklärungen auf Teilung einer eingetragenen Marke;
 
 
-6.  Bearbeitung von Verfahren der teilweisen Verlängerung der Schutzdauer
+6.  Feststellung des Verzichts einschließlich des Teilverzichts auf eine
+    eingetragene Marke;
+
+
+7.  Bearbeitung von Verfahren der teilweisen Verlängerung der Schutzdauer
     der eingetragenen Marke;
 
 
-7.  formelle Bearbeitung von Löschungsverfahren, einschließlich der
+8.  formelle Bearbeitung von Löschungsverfahren, einschließlich der
     Feststellung, daß der Löschungsantrag wegen fehlender Zahlung der
     Antragsgebühr als zurückgenommen gilt;
 
 
-8.  Bearbeitung von Anträgen auf internationale Registrierung von Marken;
+9.  Bearbeitung von Anträgen auf internationale Registrierung von Marken;
 
 
-9.  Bearbeitung von Verfahren, die international registrierte Marken
+10. Bearbeitung von Verfahren, die international registrierte Marken
     betreffen, insbesondere von
 
     a)  Anträgen auf nachträgliche Schutzerstreckung von international
@@ -468,11 +509,11 @@ vergleichbare Tarifbeschäftigte betraut:
 
 
 
-10. Bearbeitung von international registrierten Marken, deren Schutz auf
+11. Bearbeitung von international registrierten Marken, deren Schutz auf
     das Gebiet der Bundesrepublik Deutschland erstreckt worden ist;
 
 
-11. Bearbeitung von Anträgen auf Eintragung einer geographischen Angabe
+12. Bearbeitung von Anträgen auf Eintragung einer geographischen Angabe
     oder Ursprungsbezeichnung und von Einsprüchen nach der Verordnung (EG)
     Nr. 510/2006 des Rates vom 20. März 2006 zum Schutz von geografischen
     Angaben und Ursprungsbezeichnungen für Agrarerzeugnisse und
@@ -480,13 +521,14 @@ vergleichbare Tarifbeschäftigte betraut:
     Verfahren zu treffenden Entscheidungen, jedoch einschließlich der
     Feststellung, daß der Einspruch wegen fehlender Zahlung der
     Einspruchsgebühr als nicht erhoben gilt, sowie der Weiterleitung von
-    Anträgen und Einsprüchen an das Bundesministerium der Justiz;
+    Anträgen und Einsprüchen an das Bundesministerium der Justiz und für
+    Verbraucherschutz;
 
 
-12. Bearbeitung von Verfahren der Akteneinsicht;
+13. Bearbeitung von Verfahren der Akteneinsicht;
 
 
-13. formelle Bearbeitung von Anträgen auf Wiedereinsetzung in den vorigen
+14. formelle Bearbeitung von Anträgen auf Wiedereinsetzung in den vorigen
     Stand und von Anträgen auf Weiterbehandlung und, sofern sie über die
     nachgeholte Handlung zu entscheiden haben, Prüfung der materiellen
     Antragsvoraussetzungen und Entscheidung über solche Anträge.

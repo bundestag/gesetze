@@ -3,7 +3,7 @@ Title: Verordnung über besondere Anforderungen an Saatgut von Öllein im Rahmen
   Saatgutanerkennung 2012
 jurabk: ÖlleinSaatV 2012
 layout: default
-origslug: _lleinsaatv_2012
+origslug: oelleinsaatv_2012
 slug: oelleinsaatv_2012
 
 ---

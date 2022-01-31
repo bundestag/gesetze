@@ -16,28 +16,30 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 512
 
+Zuletzt geändert durch
+:   Art. 2 V v. 7.7.2017 I 2842
+
 [^f770878_01_BJNR051200008]:     Diese Verordnung dient zur Umsetzung der
-    –                                                         Richtlinie
-    2004/23/EG des Europäischen Parlaments und des Rates vom 31. März 2004
-    zur Festlegung von Qualitäts- und Sicherheitsstandards für die Spende,
-    Beschaffung, Testung, Verarbeitung, Konservierung, Lagerung und
-    Verteilung von menschlichen Geweben und Zellen (ABl. EU Nr. L 102 S.
-    48),
+    –                                    Richtlinie 2004/23/EG des
+    Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung
+    von Qualitäts- und Sicherheitsstandards für die Spende, Beschaffung,
+    Testung, Verarbeitung, Konservierung, Lagerung und Verteilung von
+    menschlichen Geweben und Zellen (ABl. EU Nr. L 102 S. 48),
 
 
-    –                                                         Richtlinie
-    2006/17/EG der Kommission vom 8. Februar 2006 zur Durchführung der
-    Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates
-    hinsichtlich technischer Vorschriften für die Spende, Beschaffung und
-    Testung von menschlichen Geweben und Zellen (ABl. EU Nr. L 38 S. 40),
+    –                                    Richtlinie 2006/17/EG der
+    Kommission vom 8. Februar 2006 zur Durchführung der Richtlinie
+    2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich
+    technischer Vorschriften für die Spende, Beschaffung und Testung von
+    menschlichen Geweben und Zellen (ABl. EU Nr. L 38 S. 40),
 
 
-    –                                                         Richtlinie
-    2006/86/EG der Kommission vom 24. Oktober 2006 zur Durchführung der
-    Richtlinie 2004/23/EG des Europäischen Parlaments und des Rates
-    hinsichtlich der Anforderungen an die Rückverfolgbarkeit, der Meldung
-    schwerwiegender Zwischenfälle und unerwünschter Reaktionen sowie
-    bestimmter technischer Anforderungen an die Kodierung, Verarbeitung,
+    –                                    Richtlinie 2006/86/EG der
+    Kommission vom 24. Oktober 2006 zur Durchführung der Richtlinie
+    2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich der
+    Anforderungen an die Rückverfolgbarkeit, der Meldung schwerwiegender
+    Zwischenfälle und unerwünschter Reaktionen sowie bestimmter
+    technischer Anforderungen an die Kodierung, Verarbeitung,
     Konservierung, Lagerung und Verteilung von menschlichen Geweben und
     Zellen (ABl. EU Nr. L 294 S. 32).
 
@@ -111,7 +113,9 @@ dokumentiert werden:
 
 1.  Spenderidentität mit Angaben zu Familienname, Vorname, Geschlecht und
     Tag der Geburt oder, soweit zuerkannt, die von der Entnahmeeinrichtung
-    für den Gewebespender vergebene Zuordnungsnummer;
+    für den Gewebespender vergebene Zuordnungsnummer sowie Kennzeichnung
+    des Spenders als Organspender, wenn bei dem Spender Organe zum Zwecke
+    der Übertragung entnommen worden sind;
 
 
 2.  bei toten Spendern die Dokumentation der Einwilligung des Spenders
@@ -148,7 +152,12 @@ dokumentiert werden:
 7.  Ergebnisse der Laboruntersuchungen nach § 4 oder nach § 6;
 
 
-8.  Kennzeichnungskode, der dem entnommenen Gewebe von der
+8.  sofern nach § 41a der Arzneimittel- und
+    Wirkstoffherstellungsverordnung erforderlich, die
+    Spendenkennungssequenz nach § 41b Absatz 1 der Arzneimittel- und
+    Wirkstoffherstellungsverordnung oder die eindeutige Spendennummer nach
+    § 41b Absatz 2 der Arzneimittel- und Wirkstoffherstellungsverordnung,
+    ansonsten der Kennzeichnungskode, der dem entnommenen Gewebe von der
     Entnahmeeinrichtung zuerkannt wurde.
 
 
@@ -157,7 +166,7 @@ Die gesamte Spenderakte ist von einem Arzt zu unterzeichnen.
 
 (2) Die Entnahmeeinrichtung übermittelt der Gewebeeinrichtung, die das
 entnommene Gewebe be- oder verarbeitet, einen Entnahmebericht, der
-ausschließlich folgende Angaben enthält:
+mindestens folgende Angaben enthält:
 
 1.  Name und Anschrift der Gewebeeinrichtung, die das Gewebe erhalten
     soll;
@@ -166,10 +175,17 @@ ausschließlich folgende Angaben enthält:
 2.  Spenderidentität mit Angaben zu Familienname, Vorname, Geschlecht, Tag
     der Geburt und bei lebenden Spendern Anschrift oder, soweit zuerkannt,
     die von der Entnahmeeinrichtung für den Gewebespender vergebene
-    Zuordnungsnummer;
+    Zuordnungsnummer sowie Kennzeichnung des Spenders als Organspender,
+    wenn bei dem Spender Organe zum Zwecke der Übertragung entnommen
+    worden sind;
 
 
-3.  Beschreibung und Kennzeichnungskode des entnommenen Gewebes;
+3.  Beschreibung des entnommenen Gewebes und, sofern nach § 41a der
+    Arzneimittel- und Wirkstoffherstellungsverordnung erforderlich, die
+    Spendenkennungssequenz nach § 41b Absatz 1 der Arzneimittel- und
+    Wirkstoffherstellungsverordnung oder die eindeutige Spendennummer nach
+    § 41b Absatz 2 der Arzneimittel- und Wirkstoffherstellungsverordnung,
+    ansonsten den Kennzeichnungskode;
 
 
 4.  Familienname, Vorname und Anschrift des für die Entnahme
@@ -236,10 +252,17 @@ dokumentiert wird:
 3.  Familienname, Vorname und Anschrift des Gewebe übertragenden Arztes;
 
 
-4.  Bezeichnung und Kennzeichnungskode des übertragenen Gewebes;
+4.  Bezeichnung und Kennzeichnungskode des übertragenen Gewebes, sofern
+    das Gewebe nach § 41a der Arzneimittel- und
+    Wirkstoffherstellungsverordnung nicht mit dem Einheitlichen
+    Europäischen Code nach Nummer 6 gekennzeichnet ist;
 
 
-5.  Name der Gewebeeinrichtung, von der sie das Gewebe erhalten haben.
+5.  Name der Gewebeeinrichtung, von der sie das Gewebe erhalten haben;
+
+
+6.  dem Einheitlichen Europäischen Code nach § 4 Absatz 30a des
+    Arzneimittelgesetzes, sofern vorhanden.
 
 
 
@@ -265,7 +288,9 @@ alle Angaben, die für die Rückverfolgbarkeit und für die Qualitäts-
 und Sicherheitskontrolle erforderlich sind, mitzuteilen. Zu melden
 sind mindestens:
 
-1.  Bezeichnung und Kennzeichnungskode des betroffenen Gewebes und
+1.  Beschreibung des betroffenen Gewebes und, sofern vorhanden, der
+    Einheitliche Europäische Code nach § 4 Absatz 30a des
+    Arzneimittelgesetzes, ansonsten der Kennzeichnungskode und
 
 
 2.  Art und Umfang des festgestellten Qualitäts- oder Sicherheitsmangels,
@@ -297,7 +322,7 @@ alle Angaben, die für die Rückverfolgbarkeit und für die Qualitäts-
 und Sicherheitskontrolle erforderlich sind, mitzuteilen. Zu melden
 sind mindestens:
 
-1.  die Angaben nach § 7 Nr. 1 bis 4,
+1.  die Angaben nach § 7 Nummer 1 bis 4 und 6,
 
 
 2.  Tag, Uhrzeit und Verlauf der Beobachtung der schwerwiegenden
@@ -504,7 +529,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2
 
-( Fundstelle: BGBl. I 2008, 517 )
+( Fundstelle: BGBl. I 2008, 517;
+bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 1.  Spenderevaluierung (bei Gewebe zur Übertragung auf andere)
 
@@ -551,14 +577,14 @@ Der Bundesrat hat zugestimmt.
 
     a)  Gewebe zur Rückübertragung
 
-        Sollen die entnommenen Gewebe rückübertragen werden, sind die
-        Mindestanforderungen an biologische Laboruntersuchungen nach § 4 in
-        Verbindung mit Anlage 3 zu erfüllen. Positive Untersuchungsergebnisse
-        führen nicht dazu, dass dieses Gewebe nicht gelagert, verarbeitet und
-        rückübertragen werden kann, wenn geeignete Lagerbedingungen vorhanden
-        sind, die jegliches Risiko einer Kreuzkontamination mit anderen
-        Transplantaten oder einer Kontamination mit Adventiv-Agentien oder
-        einer Verwechslung vermeiden.
+        Sollen die entnommenen Gewebe vor ihrer Rückübertragung gelagert oder
+        kultiviert werden, sind die Mindestanforderungen an biologische
+        Laboruntersuchungen nach § 4 in Verbindung mit Anlage 3 zu erfüllen.
+        Positive Untersuchungsergebnisse führen nicht dazu, dass dieses Gewebe
+        nicht gelagert, verarbeitet und rückübertragen werden kann, wenn
+        geeignete Lagerbedingungen vorhanden sind, die jegliches Risiko einer
+        Kreuzkontamination mit anderen Transplantaten oder einer Kontamination
+        mit Adventiv-Agentien oder einer Verwechslung vermeiden.
 
 
     b)  Gewebe zur Übertragung auf andere
@@ -604,7 +630,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 3 Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4
 
-( Fundstelle: BGBl. I 2008, 518 - 519 )
+( Fundstelle: BGBl. I 2008, 518 - 519)
+
 
 1.  Für Spender vorgeschriebene biologische Tests
 
@@ -636,7 +663,7 @@ Der Bundesrat hat zugestimmt.
 
 
     b)  HTLV-I-Antikörpertests sind bei Spendern vorzunehmen, die in Gebieten
-        mit hoher Inzidenz leben oder daher stammen oder deren Sexualpartner
+        mit hoher Prävalenz leben oder daher stammen oder deren Sexualpartner
         oder Eltern aus solchen Gebieten stammen.
 
 
@@ -769,7 +796,8 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 4 Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6
 
-( Fundstelle: BGBl. I 2008, 520 )
+( Fundstelle: BGBl. I 2008, 520)
+
 
 1.  Erforderliche Laboruntersuchungen für die Verwendung von menschlichen
     Keimzellen
@@ -817,7 +845,7 @@ Der Bundesrat hat zugestimmt.
 
 
     d)  HTLV-I-Antikörpertests sind bei Spendern vorzunehmen, die in Gebieten
-        mit hoher Inzidenz leben oder daher stammen oder deren Sexualpartner
+        mit hoher Prävalenz leben oder daher stammen oder deren Sexualpartner
         oder Eltern aus solchen Gebieten stammen.
 
 
@@ -843,7 +871,7 @@ Der Bundesrat hat zugestimmt.
 
 
     b)  HTLV-I-Antikörpertests sind bei Spendern vorzunehmen, die in Gebieten
-        mit hoher Inzidenz leben oder daher stammen oder deren Sexualpartner
+        mit hoher Prävalenz leben oder daher stammen oder deren Sexualpartner
         oder Eltern aus solchen Gebieten stammen.
 
 
@@ -858,15 +886,24 @@ Der Bundesrat hat zugestimmt.
 3.  Anforderungen an die Untersuchungsverfahren
 
     a)  Die Untersuchungsverfahren sind gemäß Anlage 3 Nr. 2 Buchstabe a und b
-        sowie nach Buchstabe e Doppelbuchstabe aa durchzuführen.
+        durchzuführen.
 
 
-    b)  Samenspenden für die heterologe Verwendung werden mindestens 180 Tage
-        unter Quarantänebedingungen aufbewahrt. Der Spender ist anschließend
-        erneut zu testen. Wird die Blutprobe eines Spenders zusätzlich mittels
-        Nukleinsäure-Amplifikationsverfahren (NAT) auf HIV, HBV und HCV
-        getestet, kann der Test einer Wiederholungsblutprobe entfallen. Auch
-        kann der Wiederholungstest entfallen, wenn die Verarbeitung einen
+    b)  Für die Verwendung von Keimzellen nach § 6 Absatz 1 sind die
+        Blutproben innerhalb von drei Monaten vor der ersten Spende zu
+        entnehmen. Für die Verwendung weiterer Spenden innerhalb derselben
+        Partnerschaft sind die weiteren Blutproben spätestens 24 Monate nach
+        der vorherigen Blutprobe zu entnehmen.
+
+
+    c)  Für die heterologe Verwendung von Samenzellen nach § 6 Absatz 2 sind
+        die Blutproben zum Zeitpunkt jeder Spende zu entnehmen. Die
+        Samenspenden werden mindestens 180 Tage unter Quarantänebedingungen
+        aufbewahrt. Der Spender ist anschließend erneut zu testen. Wird die
+        Blutprobe eines Spenders zusätzlich mittels Nukleinsäure-
+        Amplifikationsverfahren (NAT) auf HIV, HBV und HCV getestet, kann der
+        Test einer Wiederholungsblutprobe entfallen. Auch kann der
+        Wiederholungstest entfallen, wenn die Verarbeitung einen
         Inaktivierungsschritt umfasst, der für die betreffenden Viren
         validiert worden ist.
 

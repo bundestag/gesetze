@@ -78,6 +78,5 @@ Der Bundesminister des Innern
 
 ## Anlage
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 1978, 589)
-
+(Fundstelle: BGBl. I 1978, 589)
+![bgbl1_1978_j0589_0010.jpg](bgbl1_1978_j0589_0010.jpg)

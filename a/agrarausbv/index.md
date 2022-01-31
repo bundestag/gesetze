@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2157
 
+Geändert durch
+:   Art. 1 V v. 6.5.2013 I 1250
+
 [^f772414_01_BJNR215700009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
@@ -232,8 +235,8 @@ folgende Vorgaben:
     Fachgespräch führen;
 
 
-4.  die Prüfungszeit beträgt insgesamt vier Stunden; innerhalb dieser Zeit
-    sollen die Fachgespräche in höchstens 20 Minuten durchgeführt werden.
+4.  die Prüfungszeit beträgt insgesamt drei Stunden; innerhalb dieser Zeit
+    sollen die Fachgespräche in höchstens 30 Minuten durchgeführt werden.
 
 
 
@@ -324,7 +327,7 @@ Berufsausbildung wesentlich ist.
     kann;
 
 
-2.  hierfür sind aus folgenden Tätigkeiten mindestens vier auszuwählen:
+2.  hierfür sind aus folgenden Tätigkeiten mindestens drei auszuwählen:
 
     a)  Boden bearbeiten,
 
@@ -356,7 +359,7 @@ Berufsausbildung wesentlich ist.
     3 festgelegten Kulturen zu berücksichtigen;
 
 
-4.  die Prüfungszeit beträgt insgesamt drei Stunden, innerhalb dieser Zeit
+4.  die Prüfungszeit beträgt insgesamt zwei Stunden, innerhalb dieser Zeit
     soll das Fachgespräch in höchstens 30 Minuten durchgeführt werden;
 
 
@@ -375,7 +378,7 @@ Berufsausbildung wesentlich ist.
     dargestellten Anforderungen schriftlich bearbeiten;
 
 
-7.  die Prüfungszeit beträgt 120 Minuten;
+7.  die Prüfungszeit beträgt 90 Minuten;
 
 
 8.  bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die
@@ -428,8 +431,8 @@ Berufsausbildung wesentlich ist.
     auftragsbezogenes Fachgespräch führen;
 
 
-4.  die Prüfungszeit beträgt insgesamt drei Stunden; innerhalb dieser Zeit
-    soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden;
+4.  die Prüfungszeit beträgt insgesamt zwei Stunden; innerhalb dieser Zeit
+    soll das Fachgespräch in höchstens 30 Minuten durchgeführt werden;
 
 
 5.  darüber hinaus soll der Prüfling nachweisen, dass er Maßnahmen der
@@ -448,7 +451,7 @@ Berufsausbildung wesentlich ist.
     dargestellten Anforderungen schriftlich bearbeiten;
 
 
-7.  die Prüfungszeit beträgt 120 Minuten;
+7.  die Prüfungszeit beträgt 90 Minuten;
 
 
 8.  Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind die
@@ -510,7 +513,7 @@ Prüfungsbereiche sind wie folgt zu gewichten:
 
 *    *   1. Pflanzenbau
 
-    *   40 Prozent,
+    *   35 Prozent,
 
 
 *    *   2. Agrartechnik
@@ -520,7 +523,7 @@ Prüfungsbereiche sind wie folgt zu gewichten:
 
 *    *   3. Dienstleistung, Kommunikation und Information
 
-    *   15 Prozent,
+    *   20 Prozent,
 
 
 *    *   4. Wirtschafts- und Sozialkunde
@@ -569,8 +572,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 3)
 
-## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
 
 (Fundstelle: BGBl. I 2009, 2161 - 2164)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

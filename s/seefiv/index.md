@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1485
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.12.2012 I 2546
+:   Art. 1 V v. 1.4.2019 I 434
 
 
 ## Eingangsformel
@@ -62,7 +62,7 @@ Verordnungen (EG) Nr. 847/96, (EG) Nr. 2371/2002, (EG) Nr. 811/2004,
 (EG) Nr. 1300/2008, (EG) Nr. 1342/2008 sowie zur Aufhebung der
 Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1627/94 und (EG) Nr.
 1966/2006 (ABl. L 343 vom 22.12.2009, S. 1) darf mit
-Fischereifahrzeugen, die die Bundesflagge führen,
+Fischereifahrzeugen, die berechtigt sind, die Bundesflagge zu führen,
 
 1.  in den ICES-Bereichen IIIa, IIIb, IIIc und IIId und in den ICES-
     Bereichen IVb und IVc östlich 4 Grad östlicher Länge mit
@@ -76,25 +76,37 @@ Fischereifahrzeugen, die die Bundesflagge führen,
 
 
 
-nicht gefischt werden. Abweichend von Satz 1 Nummer 2 darf im ICES-
-Bereich IIIc und IIId innerhalb von zwölf Seemeilen gemessen von der
+nicht gefischt werden. Abweichend von Satz 1 Nummer 1 darf im ICES-
+Bereich IIIa, IVb und IVc außerhalb von 12 Seemeilen gemessen von der
+Basislinie vor der Küste der Länder Niedersachsen und Schleswig-
+Holstein auf Hering, Sprotte und Sandaal mit Fischereifahrzeugen mit
+einer Bruttoraumzahl von nicht mehr als 1 000 gefischt werden.
+Abweichend von Satz 1 Nummer 1 darf im ICES-Bereich IIIc und IIId
+außerhalb von 12 Seemeilen gemessen von der Basislinie vor der Küste
+der Länder Mecklenburg-Vorpommern und Schleswig-Holstein auf Hering
+und Sprotte beim Einsatz pelagischer Schleppnetze mit
+Fischereifahrzeugen mit einer Bruttoraumzahl von nicht mehr als 1 000
+gefischt werden. Abweichend von Satz 1 Nummer 2 darf im ICES-Bereich
+IIIc und IIId innerhalb von zwölf Seemeilen gemessen von der
 Basislinie vor der Küste des Landes Mecklenburg-Vorpommern auf Hering
 oder Sprotte beim Einsatz pelagischer Schleppnetze mit
 Fischereifahrzeugen mit einer Motorenstärke von nicht mehr als 588
 Kilowatt (800 PS) gefischt werden. Die ICES-Bereiche sind festgelegt
-in der Mitteilung der Europäischen Kommission über die Beschreibung
-der Abgrenzung der ICES-Untergebiete und Bereiche, die für
-Fischereistatistiken und Verordnungen im Nordost-Atlantik benutzt
-werden (ABl. C 347 vom 31.12.1985, S. 14).
+im Anhang III der Verordnung (EG) Nr. 218/2009 des Europäischen
+Parlaments und des Rates vom 11. März 2009 über die Vorlage von
+Fangstatistiken durch die Mitgliedstaaten, die im Nordostatlantik
+Fischfang betreiben (ABl. L 87 vom 31.3.2009, S. 70), die zuletzt
+durch die Verordnung (EU) Nr. 1350/2013 (ABl. L 351 vom 21.12.2013, S.
+1) geändert worden ist, in der jeweils geltenden Fassung.
 
 (3) Die Zertifizierung der Maschinenleistung nach Artikel 40 der
-Verordnung (EG) Nr. 1224/2009 für Fischereifahrzeuge, die die
-Bundesflagge führen, ist durch eine Bescheinigung einer nach Artikel 4
-Absatz 1 der Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments
-und des Rates vom 23. April 2009 über gemeinsame Vorschriften und
-Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl.
-L 131 vom 28.5.2009, S. 11) von der Europäischen Union anerkannten
-Organisation zu erbringen.
+Verordnung (EG) Nr. 1224/2009 für Fischereifahrzeuge, die berechtigt
+sind, die Bundesflagge zu führen, ist durch eine Bescheinigung einer
+nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 391/2009 des
+Europäischen Parlaments und des Rates vom 23. April 2009 über
+gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und
+-besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11) von der
+Europäischen Union anerkannten Organisation zu erbringen.
 
 (4) Wird nach dem Fischereirecht der Europäischen Union eine bestimmte
 Maschinenleistung als Zulassungserfordernis für Fischereifahrzeuge für
@@ -305,13 +317,13 @@ insbesondere zu berücksichtigen:
 
 von hierzu ermächtigten Fischereifahrzeugen vorgenommen werden.
 
-(2) Die Ermächtigung erfolgt im Falle des Absatzes 1 Nr. 1 durch das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-(Bundesministerium) oder die zuständige Dienststelle eines anderen
+(2) Die Ermächtigung erfolgt im Falle des Absatzes 1 Nr. 1 durch die
+Bundesanstalt oder die zuständige Dienststelle eines anderen
 Mitgliedstaates der Europäischen Union, im Falle des Absatzes 1 Nr. 2
-durch das Bundesministerium im Einvernehmen mit den für die Fischerei
-in den Küstengewässern der Bundesrepublik Deutschland zuständigen
-obersten Landesbehörden.
+durch das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) im Einvernehmen mit den für die Fischerei in den
+Küstengewässern der Bundesrepublik Deutschland zuständigen obersten
+Landesbehörden.
 
 (3) Fische, die nach Absatz 1 gefangen werden, dürfen nur im Rahmen
 der gemeinschaftsrechtlichen oder unionsrechtlichen Vorschriften
@@ -350,19 +362,22 @@ Bundesrepublik Deutschland einzulaufen, es sei denn, es handelt sich
 um den Heimathafen des jeweiligen Fischereifahrzeugs.
 
 
-## § 9 Automatisches Schiffsidentifizierungssystem
+## § 9 Überprüfung von Satellitenortungsanlagen und elektronischen Aufzeichnungs- und Meldesystemen
 
-Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
-Europäischen Union mit einer Länge über alles von 24 Meter oder mehr
-und weniger als 45 Meter ist verpflichtet, eine stets betriebsbereite
-Anlage zum Betrieb eines automatischen Schiffsidentifizierungssystems
-im Sinne des Artikels 4 Nummer 11 der Verordnung (EG) Nr. 1224/2009 an
-Bord mitzuführen, und hat sicherzustellen, dass die Anlage in Betrieb
-ist, während sich das Fahrzeug fortbewegt. Satz 1 gilt ab dem 31. Mai
-2013 auch für den Kapitän eines Fischereifahrzeugs mit einer Länge
-über alles von 18 Meter oder mehr und weniger als 24 Meter und ab dem
-31\. Mai 2014 auch für den Kapitän eines Fischereifahrzeugs mit einer
-Länge über alles von 15 Meter oder mehr und weniger als 18 Meter.
+Zur Überprüfung der Satellitenortungsanlage oder des elektronischen
+Aufzeichnungs- und Meldesystems im Sinne des Artikels 26 Absatz 1 Satz
+2 und des Artikels 40 Absatz 1 Satz 2 der Durchführungsverordnung (EU)
+Nr. 404/2011 der Kommission vom 8. April 2011 mit
+Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1224/2009 des
+Rates zur Einführung einer gemeinschaftlichen Kontrollregelung zur
+Sicherstellung der Einhaltung der Vorschriften der gemeinsamen
+Fischereipolitik (ABl. L 112 vom 30.4.2011, S. 1; L 328 vom
+10\.12.2011, S. 58; L 125 vom 12.5.2012, S. 54), die durch die
+Durchführungsverordnung (EU) 2015/1962 (ABl. L 287 vom 31.10.2015, S.
+6) geändert worden ist, in der jeweils geltenden Fassung kann die
+Bundesanstalt eine Untersuchung der Anlage oder des Systems anordnen.
+Die Überprüfung hat durch einen Fachbetrieb auf Kosten des Inhabers
+der Fanglizenz zu erfolgen.
 
 
 ## § 10 Logbuchführung
@@ -386,6 +401,49 @@ als der zuvor verwendeten jeweils
 
 
 im Fischereilogbuch jeweils auf einer neuen Seite einzutragen.
+
+(3) Der Kapitän eines Fischereifahrzeugs mit einer Länge über alles
+von 8 Metern oder mehr, aber weniger als 10 Meter, das berechtigt ist,
+die Bundesflagge zu führen, und das in der Ostsee fischt, hat ein
+Fischereilogbuch im Sinne des Artikels 14 der Verordnung (EG) Nr.
+1224/2009 zu führen und sobald wie möglich, spätestens aber 48 Stunden
+nach der Anlandung, zu übermitteln.
+
+(4) Der Kapitän eines Fischereifahrzeugs mit einer Länge über alles
+von weniger als 8 Meter in der Ostsee und von weniger als 10 Meter in
+der Nordsee, das berechtigt ist, die Bundesflagge zu führen, ist
+verpflichtet, spätestens fünf Tage nach Ablauf des Monats für den
+vorangegangenen Monat schriftlich oder elektronisch eine Meldung an
+die zuständige Landesfischereibehörde zu übermitteln (Monatsmeldung).
+Die Monatsmeldung enthält mindestens Angaben über
+
+1.  den ICES-Bereich und das statistische Rechteck, in welchen Fänge
+    getätigt wurden,
+
+
+2.  alle Fangmengen, je Art in Kilogramm Produktgewicht und
+    Aufmachungsart, einschließlich der Fangmengen, die unterhalb der
+    geltenden Referenzmindestgröße (untermaßige Fänge) liegen, und der
+    geschätzten Fangmengen, die zurückgeworfen wurden (geschätzte
+    Rückwurfmengen),
+
+
+3.  die Anzahl der Seetage,
+
+
+4.  die Bezeichnung des Anlandehafens und
+
+
+5.  den je Art erzielten Erlös.
+
+
+
+Erfolgt kein Fangeinsatz, ist eine Fehlmeldung erforderlich. Ist über
+einen längeren Zeitraum kein Fangeinsatz vorgesehen, kann dies in der
+letzten Monatsmeldung vermerkt werden. Die Meldungen sind mit Beginn
+der Fangaufnahme für den betreffenden Monat wieder abzugeben. Statt
+der Monatsmeldungen dürfen Tagesabrechnungen abgegeben werden, die
+vollständige Angaben nach Satz 2 enthalten müssen.
 
 
 ## § 11 Umladeerklärung
@@ -414,22 +472,24 @@ Hundert abweicht.
 Fanggewicht von auf See gelagertem oder verarbeitetem Fisch, das sich
 nach Berücksichtigung der Umrechnungsfaktoren ergibt, die nach Artikel
 49 in Verbindung mit den Anhängen XII, XIV und XV der
-Durchführungsverordnung (EU) Nr. 404/2011 der Kommission vom 8. April
-2011 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr.
-1224/2009 des Rates zur Einführung einer gemeinschaftlichen
-Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften
-der gemeinsamen Fischereipolitik (ABl. L 112 vom 30.4.2011, S. 1) und
-auf Grund der Bekanntmachung der Bundesanstalt über die anzuwendenden
+Durchführungsverordnung (EU) Nr. 404/2011 und auf Grund der
+Bekanntmachung der Bundesanstalt über die anzuwendenden
 Umrechnungsfaktoren zur Errechnung des Fanggewichtes von Fischen,
 Krebs- und Weichtieren aus Fischereiprodukten vom 19. Juli 2011 (BAnz.
 S. 2657) festgelegt sind.
 
-(5) Soweit Wiederauffüllungspläne oder Bewirtschaftungspläne im Sinne
-der Artikel 5 oder 6 der Verordnung (EG) Nr. 2371/2002 des Rates vom
-20\. Dezember 2002 über die Erhaltung und nachhaltige Nutzung der
-Fischereiressourcen im Rahmen der Gemeinsamen Fischereipolitik (ABl. L
-358 vom 31.12.2002, S. 59) besondere Regelungen treffen, bleiben diese
-von den Absätzen 1 und 2 unberührt.
+(5) Soweit im Rahmen von Bestandsauffüllungsgebieten im Sinne des
+Artikels 8 oder Mehrjahresplänen im Sinne des Artikels 9 der
+Verordnung (EU) Nr. 1380/2013 des Europäischen Parlaments und des
+Rates vom 11. Dezember 2013 über die Gemeinsame Fischereipolitik und
+zur Änderung der Verordnungen (EG) Nr. 1954/2003 und (EG) Nr.
+1224/2009 des Rates sowie zur Aufhebung der Verordnungen (EG) Nr.
+2371/2002 und (EG) Nr. 639/2004 des Rates und des Beschlusses
+2004/585/EG des Rates (ABl. L 354 vom 28.12.2013, S. 22), die zuletzt
+durch die Verordnung (EU) 2017/2092 (ABl. L 302 vom 17.11.2017, S. 1)
+geändert worden ist, in der jeweils geltenden Fassung besondere
+Regelungen festgelegt sind, bleiben diese von den Absätzen 1 und 2
+unberührt.
 
 
 ## § 12 Anlandeerklärung
@@ -448,7 +508,9 @@ hat, ungeachtet des Anlandeortes, nach der Anlandung eine
 Anlandeerklärung in Papierform für die Zwecke des Artikels 23 der
 Verordnung (EG) Nr. 1224/2009 zu erstellen, in die er alle Mengen
 jeder angelandeten Art und die in Artikel 23 Absatz 2 der Verordnung
-(EG) Nr. 1224/2009 genannten Angaben einzutragen hat.
+(EG) Nr. 1224/2009 genannten Angaben einzutragen hat und der
+zuständigen Behörde sobald wie möglich, spätestens aber 48 Stunden
+nach Ende der Anlandung zu übermitteln.
 
 (2) Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
 Europäischen Union mit einer Länge über alles von 12 Meter oder mehr
@@ -456,9 +518,10 @@ hat die Angaben nach Absatz 1 elektronisch aufzuzeichnen und diese
 Angaben spätestens 24 Stunden nach dem Ende der Anlandung an die
 Bundesanstalt elektronisch zu übermitteln.
 
-(3) Soweit Wiederauffüllungspläne oder Bewirtschaftungspläne im Sinne
-der Artikel 5 oder 6 der Verordnung (EG) Nr. 2371/2002 besondere
-Regelungen treffen, bleiben diese von Absatz 1 und 2 unberührt.
+(3) Soweit im Rahmen von Bestandsauffüllungsgebieten im Sinne des
+Artikels 8 oder in Mehrjahresplänen im Sinne des Artikels 9 der
+Verordnung (EU) Nr. 1380/2013 besondere Regelungen getroffen werden,
+bleiben diese von den Absätzen 1 und 2 unberührt.
 
 
 ## § 13 Ausnahmen für die küstennahe Fischerei und die Tagesfischerei
@@ -480,25 +543,47 @@ Union
 
 
 gelten nach Maßgabe des Absatzes 3 nicht für die Kapitäne von
-Fischereifahrzeugen, die die Bundesflagge führen, mit einer Länge über
-alles von weniger als 15 Meter, die ausschließlich im Küstenmeer tätig
-sind oder zu keinem Zeitpunkt der jeweiligen Fangreise zwischen dem
-Auslaufen aus dem Hafen und der Rückkehr in einen Hafen länger als 24
-Stunden auf See sind. Bei der Berechnung der 24 Stunden nach Satz 1
-bleiben Zeiten, die wegen eines Notfalls oder höherer Gewalt auf See
-verbracht werden, unberücksichtigt.
+Fischereifahrzeugen, die berechtigt sind, die Bundesflagge zu führen,
+mit einer Länge über alles von weniger als 15 Meter, die
+ausschließlich im Küstenmeer tätig sind oder zu keinem Zeitpunkt der
+jeweiligen Fangreise zwischen dem Auslaufen aus dem Hafen und der
+Rückkehr in einen Hafen länger als 24 Stunden auf See sind. Bei der
+Berechnung der 24 Stunden nach Satz 1 bleiben Zeiten, die wegen eines
+Notfalls oder höherer Gewalt auf See verbracht werden,
+unberücksichtigt.
 
 (2) Die Verpflichtung, die Ausrüstung zur Bergung von verlorenem
 Fanggerät an Bord mitzuführen, gilt nach Maßgabe des Absatzes 3 nicht
-für Kapitäne von Fischereifahrzeugen, die die Bundesflagge führen, mit
-einer Länge über alles von weniger als 12 Meter, die ausschließlich im
-Küstenmeer tätig sind oder zu keinem Zeitpunkt der jeweiligen
-Fangreise zwischen dem Auslaufen aus dem Hafen und der Rückkehr in den
-Hafen länger als 24 Stunden auf See sind. Absatz 1 Satz 2 gilt
-entsprechend.
+für Kapitäne von Fischereifahrzeugen, die berechtigt sind, die
+Bundesflagge zu führen, mit einer Länge über alles von weniger als 12
+Meter, die ausschließlich im Küstenmeer tätig sind oder zu keinem
+Zeitpunkt der jeweiligen Fangreise zwischen dem Auslaufen aus dem
+Hafen und der Rückkehr in den Hafen länger als 24 Stunden auf See
+sind. Absatz 1 Satz 2 gilt entsprechend.
 
 (3) Die Ausnahmen werden auf Antrag des Kapitäns für das betroffene
-Fahrzeug durch die Bundesanstalt gewährt.
+Fahrzeug durch die Bundesanstalt gewährt. Die Ausnahmegenehmigung kann
+verweigert oder widerrufen werden, wenn für den Inhaber der Fanglizenz
+oder den Kapitän wegen eines schweren Verstoßes in Form
+
+a)  der Nichterfüllung der Verpflichtungen zur Aufzeichnung und Meldung
+    von Fangdaten oder fangrelevanten Daten, einschließlich der über das
+    satellitengestützte Schiffsüberwachungssystem (VMS) zu übermittelnden
+    Daten,
+
+
+b)  des Fischens in einem Schongebiet, während einer Schonzeit, ohne Quote
+    oder nach Ausschöpfen der Quote oder in nicht zulässigen Tiefen gemäß
+    der laufenden Nummer 8 der Anlage 5 oder
+
+
+c)  der Behinderung von Fischereiinspektoren bei der Wahrnehmung ihrer
+    Aufgabe oder der Behinderung von Beobachtern bei der Wahrnehmung ihrer
+    Aufgabe gemäß der laufenden Nummer 10 der Anlage 5
+
+
+
+Punkte festgesetzt worden sind.
 
 (4) Ausnahmen im Sinne des Absatzes 1 dürfen nicht für
 Fischereifahrzeuge gewährt werden, in deren Schiffssicherheitszeugnis
@@ -529,8 +614,8 @@ nach Artikel 4 Absatz 1 in Verbindung mit den Anhängen I bis V der
 Verordnung (EG) Nr. 850/98 des Rates vom 30. März 1998 zur Erhaltung
 der Fischereiressourcen durch technische Maßnahmen zum Schutz von
 jungen Meerestieren (ABl. L 125 vom 27.4.1998, S. 1), die zuletzt
-durch die Verordnung (EU) Nr. 579/2011 (ABl. L 165 vom 24.6.2011, S.
-1) geändert worden ist, vorgeschriebenen Mindestmaschenöffnung zu
+durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1)
+geändert worden ist, vorgeschriebenen Mindestmaschenöffnung zu
 verwenden.
 
 (4) Es ist verboten, ein Gerät oder ein Netz mit einer geringeren
@@ -540,14 +625,26 @@ mit Anhang II und III der Verordnung (EG) Nr. 2187/2005 des Rates vom
 Fischereiressourcen in der Ostsee, den Belten und dem Öresund, zur
 Änderung der Verordnung (EG) Nr. 1434/98 und zur Aufhebung der
 Verordnung (EG) Nr. 88/98 (ABl. L 349 vom 31.12.2005, S. 1), die
-zuletzt durch die Verordnung (EU) Nr. 1237/2010 (ABl. L 348 vom
-31\.12.2010, S. 34) geändert worden ist, vorgeschriebenen
-Mindestmaschenöffnung zu verwenden.
+zuletzt durch die Verordnung (EU) 2016/1139 (ABl. L 191 vom 15.7.2016,
+S. 1) geändert worden ist, vorgeschriebenen Mindestmaschenöffnung zu
+verwenden.
+
+(5) Grundschleppnetze für die Fischerei auf Nordseekrabben (Crangon
+crangon) der ICES-Bereiche IVb und IVc, die an Bord eines
+Fischereifahrzeugs, das berechtigt ist, die Bundesflagge zu führen,
+mitgeführt oder zum Krabbenfang eingesetzt werden, müssen mit einem
+Siebnetz/Trichternetz- oder Sortiergittereinsatz ausgestattet sein und
+den technischen Beschreibungen nach der Anlage 4, auch in Verbindung
+mit § 17 Absatz 5 des Seefischereigesetzes, entsprechen. In
+begründeten Fällen kann von der Bundesanstalt eine Ausnahmegenehmigung
+für den Bereich innerhalb von drei Seemeilen gemessen von der
+Basislinie erteilt werden. Der Antrag ist bei der zuständigen
+Landesfischereibehörde zu stellen.
 
 
 ## § 15 Wiegen von Seefischereierzeugnissen
 
-(1) Der für den Erstverkauf der im Hoheitsgebiet angelandeten
+(1) Der für die Erstvermarktung der im Hoheitsgebiet angelandeten
 Seefischereierzeugnisse verantwortliche Marktteilnehmer hat
 sicherzustellen, dass die Seefischereierzeugnisse bei der Anlandung
 gewogen werden, bevor diese gelagert, befördert oder verkauft werden.
@@ -668,17 +765,14 @@ Käufer entsprechend.
 
 (2) Der für den Erstverkauf von Seefischereierzeugnissen
 verantwortliche Marktteilnehmer hat sicherzustellen, dass alle Angaben
-zum Los
-nach Artikel 58              Absatz 5 der Verordnung (EG) Nr.
-1224/2009 spätestens zum Zeitpunkt des Erstverkaufs vorliegen, soweit
-diese zu dem Zeitpunkt gemacht werden können. Er hat ferner
-sicherzustellen, dass die jeweilige Losidentifizierungsnummer
-spätestens zum Zeitpunkt des Erstverkaufs unmittelbar am Los
-angebracht ist. Er hat die in Satz 1 genannten Angaben drei Jahre ab
-Erstverkauf, längstens bis zum Verbrauch oder zur Vernichtung der
-Seefischereierzeugnisse, verfügbar zu halten und den zuständigen
-Behörden der Länder auf Anforderung unverzüglich vorzulegen oder
-zugänglich zu machen.
+zum Los nach Artikel 58 Absatz 5 der Verordnung (EG) Nr. 1224/2009
+spätestens zum Zeitpunkt des Erstverkaufs vorliegen, soweit diese zu
+dem Zeitpunkt gemacht werden können. Er hat ferner sicherzustellen,
+dass die jeweilige Losidentifizierungsnummer spätestens zum Zeitpunkt
+des Erstverkaufs unmittelbar am Los angebracht ist. Er hat die in Satz
+1 genannten Angaben drei Jahre ab Erstverkauf verfügbar zu halten und
+den zuständigen Behörden der Länder auf Anforderung unverzüglich
+vorzulegen oder zugänglich zu machen.
 
 (3) Der für die Produktion, die Verarbeitung und den Vertrieb von
 Seefischereierzeugnissen jeweils verantwortliche Marktteilnehmer ist
@@ -691,24 +785,19 @@ zum Einzelhandel verpflichtet,
     gekennzeichnet ist,
 
 
-2.  die Losidentifizierungsnummer drei Jahre ab Erstverkauf bis zum
-    Verbrauch oder zur Vernichtung der Seefischereierzeugnisse, je
-    nachdem, welcher Zeitpunkt früher liegt, verfügbar zu halten und den
-    zuständigen Behörden der Länder auf Anforderung unverzüglich
-    vorzulegen oder zugänglich zu machen,
+2.  die Losidentifizierungsnummer drei Jahre ab Erstverkauf verfügbar zu
+    halten und den zuständigen Behörden der Länder auf Anforderung
+    unverzüglich vorzulegen oder zugänglich zu machen,
 
 
 3.  sicherzustellen, dass sich die Angaben zu einem Los von
-    Seefischereierzeugnissen nach Artikel 58 Absatz 5 Buchstabe b bis f
-    der Verordnung (EG) Nr. 1224/2009 auf dem Etikett oder der Verpackung
-    des Loses oder auf einem Handelspapier, das dem Los beigefügt ist,
-    befinden und
+    Seefischereierzeugnissen nach Artikel 58 Absatz 5 der Verordnung (EG)
+    Nr. 1224/2009 auf dem Etikett oder der Verpackung des Loses oder auf
+    einem Handelspapier, das dem Los beigefügt ist, befinden und
 
 
 4.  die Angaben zu einem Los von Seefischereierzeugnissen nach Artikel 58
-    Absatz 5 Buchstabe b bis f der Verordnung (EG) Nr. 1224/2009 drei
-    Jahre ab Erstverkauf bis zum Verbrauch oder zur Vernichtung der
-    Seefischereierzeugnisse, je nachdem, welcher Zeitpunkt früher liegt,
+    Absatz 5 der Verordnung (EG) Nr. 1224/2009 drei Jahre ab Erstverkauf
     verfügbar zu halten und den zuständigen Behörden der Länder auf
     Anforderung unverzüglich vorzulegen oder zugänglich zu machen.
 
@@ -724,19 +813,20 @@ Produktionsstufe, Verarbeitungsstufe oder Vertriebsstufe mit einem
 anderen Los oder mit anderen Losen zusammengeführt worden ist.
 
 (5) Der Einzelhändler ist verpflichtet, die Informationen zu einem
-Seefischereierzeugnis nach Artikel 58 Absatz 5 Buchstabe g und h der
+Seefischereierzeugnis nach Artikel 58 Absatz 5 Buchstabe g der
 Verordnung (EG) Nr. 1224/2009 im Einzelhandel für den Verbraucher
 unmittelbar erreichbar und ständig verfügbar zu halten. Die näheren
 Bestimmungen nach Artikel 68 der Durchführungsverordnung (EU) Nr.
 404/2011 bleiben unberührt.
 
 (6) Die Regelungen nach Artikel 56 bis 58 der Verordnung (EG) Nr.
-1224/2009 und Artikel 67 und 68 der Durchführungsverordnung (EU) Nr.
-404/2011 bleiben von Absatz 1 bis 4 unberührt. Kleine Mengen von
+1224/2009 und Artikel 67 der Durchführungsverordnung (EU) Nr. 404/2011
+bleiben von Absatz 1 bis 4 unberührt. Kleine Mengen von
 Seefischereierzeugnissen, die unmittelbar von Fischereifahrzeugen an
 den Verbraucher verkauft werden, sind von den Anforderungen des
 Artikels 58 der Verordnung (EG) Nr. 1224/2009 ausgenommen, sofern
-diese einen Wert von 50 Euro pro Tag nicht überschreiten.
+diese einen Wert von 50 Euro pro Tag und pro Verbraucher nicht
+überschreiten.
 
 
 ## § 19 Übernahmeerklärung und Transport
@@ -754,8 +844,8 @@ besondere Regelungen treffen, bleiben diese unberührt.
 
 (2) Die für die Erstvermarktung der im Hoheitsgebiet angelandeten
 Seefischereierzeugnisse verantwortlichen Marktteilnehmer, die bei
-Erstverkäufen von Seefischereierzeugnissen einen Jahresumsatz von 200
-000 Euro oder mehr erreichen, haben nach Abschluss der Anlandung,
+Erstverkäufen von Seefischereierzeugnissen einen Jahresumsatz von
+200 000 Euro oder mehr erreichen, haben nach Abschluss der Anlandung,
 soweit die Seefischereierzeugnisse zu einem späteren Zeitpunkt
 verkauft werden sollen, die in Absatz 1 genannten Angaben elektronisch
 aufzuzeichnen und binnen 24 Stunden nach Abschluss der Anlandung der
@@ -808,24 +898,16 @@ nachweisen kann.
 (1) Die Bundesanstalt hat die Aufgabe,
 
 1.  die Anträge auf finanzielle Beteiligung der Europäischen Union auf
-    Grund der
-
-    a)  Verordnung (EG) Nr. 861/2006 des Rates vom 22. Mai 2006 über
-        finanzielle Maßnahmen der Union zur Durchführung der gemeinsamen
-        Fischereipolitik und im Bereich des Seerechts (ABl. L 160 vom
-        14\.6.2006, S. 1) in der jeweils geltenden Fassung und
-
-
-    b)  Verordnung (EG) Nr. 391/2007 der Kommission vom 11. April 2007 mit
-        Durchführungsvorschriften zur Verordnung (EG) Nr. 861/2006 des Rates
-        in Bezug auf die Ausgaben, die den Mitgliedstaaten bei der
-        Durchführung der Überwachungs- und Kontrollregelungen der gemeinsamen
-        Fischereipolitik entstehen, (ABl. L 97 vom 12.4.2007, S. 30) in der
-        jeweils geltenden Fassung
-
-
-
-    an den durch die Durchführung der Vorschriften der Gemeinsamen
+    Grund der Verordnung (EU) Nr. 508/2014 des Europäischen Parlaments und
+    des Rates vom 15. Mai 2014 über den Europäischen Meeres- und
+    Fischereifonds und zur Aufhebung der Verordnungen (EG) Nr. 2328/2003,
+    (EG) Nr. 861/2006, (EG) Nr. 1198/2006 und (EG) Nr. 791/2007 des Rates
+    und der Verordnung (EU) Nr. 1255/2011 des Europäischen Parlaments und
+    des Rates (ABl. L 149 vom 20.5.2014, S. 1; L 88 vom 31.3.2017, S. 22),
+    die zuletzt durch die Delegierte Verordnung (EU) 2017/1787 (ABl. L 256
+    vom 4.10.2017, S. 1) geändert worden ist, und den zu deren
+    Durchführung erlassenen Vorschriften in der jeweils geltenden Fassung
+    zu den durch die Durchführung der Vorschriften der Gemeinsamen
     Fischereipolitik über die Rückverfolgbarkeit von
     Seefischereierzeugnissen entstehenden Ausgaben natürlicher oder
     juristischer Personen des Privatrechts entgegenzunehmen,
@@ -876,40 +958,35 @@ Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig
 6.  entgegen § 8 Absatz 3 in einen dort genannten Hafen einläuft,
 
 
-7.  entgegen § 9 Satz 1 eine dort genannte Anlage nicht an Bord mitführt
-    oder nicht sicherstellt, dass eine dort genannte Anlage in Betrieb
-    ist,
-
-
-8.  entgegen § 14 Absatz 2 eine Plakette entfernt, auslöscht, ändert,
+7.  entgegen § 14 Absatz 2 eine Plakette entfernt, auslöscht, ändert,
     unleserlich macht, verdeckt oder verbirgt,
 
 
-9.  entgegen § 14 Absatz 3 oder Absatz 4 ein Gerät oder ein Netz
+8.  entgegen § 14 Absatz 3 oder Absatz 4 ein Gerät oder ein Netz
     verwendet,
 
 
-10. entgegen § 15 Absatz 1 Satz 1 oder 2 nicht sicherstellt, dass die
+9.  entgegen § 15 Absatz 1 Satz 1 oder 2 nicht sicherstellt, dass die
     Seefischereierzeugnisse gewogen werden,
 
 
-11. entgegen § 17 Absatz 2 Satz 1 ein Seefischereierzeugnis nicht richtig
+10. entgegen § 17 Absatz 2 Satz 1 ein Seefischereierzeugnis nicht richtig
     vermarktet, nicht richtig erfassen lässt oder nicht richtig verkauft,
 
 
-12. entgegen § 17 Absatz 2 Satz 2 erster Halbsatz ein
+11. entgegen § 17 Absatz 2 Satz 2 erster Halbsatz ein
     Seefischereierzeugnis erwirbt,
 
 
-13. entgegen § 18 Absatz 1 Satz 1 nicht sicherstellt, dass die
+12. entgegen § 18 Absatz 1 Satz 1 nicht sicherstellt, dass die
     Seefischereierzeugnisse zu Losen gepackt sind,
 
 
-14. entgegen § 18 Absatz 2 Satz 1 nicht sicherstellt, dass eine Angabe
+13. entgegen § 18 Absatz 2 Satz 1 nicht sicherstellt, dass eine Angabe
     vorliegt, oder
 
 
-15. entgegen § 18 Absatz 2 Satz 3 eine dort genannte Angabe nicht oder
+14. entgegen § 18 Absatz 2 Satz 3 eine dort genannte Angabe nicht oder
     nicht für die vorgeschriebene Dauer verfügbar hält, nicht oder nicht
     rechtzeitig vorlegt oder nicht oder nicht rechtzeitig zugänglich
     macht.
@@ -946,73 +1023,82 @@ Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig
     vollständig oder nicht rechtzeitig vornimmt,
 
 
-7.  entgegen § 11 Absatz 1 eine dort genannte Umladeerklärung nicht, nicht
+7.  entgegen § 10 Absatz 3 ein Fischereilogbuch nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig übermittelt,
+
+
+8.  entgegen § 10 Absatz 4 Satz 1 eine dort genannte Meldung nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig übermittelt,
+
+
+9.  entgegen § 11 Absatz 1 eine dort genannte Umladeerklärung nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
 
-8.  entgegen § 11 Absatz 2 eine dort genannte Angabe nicht, nicht richtig,
+10. entgegen § 11 Absatz 2 eine dort genannte Angabe nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig übermittelt,
 
 
-9.  entgegen § 11 Absatz 3 eine Eintragung vornimmt,
+11. entgegen § 11 Absatz 3 eine Eintragung vornimmt,
 
 
-10. entgegen § 12 Absatz 1 eine dort genannte Anlandeerklärung nicht,
-    nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
-    oder nicht rechtzeitig erstellt,
+12. entgegen § 12 Absatz 1 eine Angabe nicht, nicht richtig, nicht
+    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig übermittelt,
 
 
-11. entgegen § 17 Absatz 1 ein dort genanntes Dokument nicht, nicht
+13. entgegen § 17 Absatz 1 ein dort genanntes Dokument nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig vorlegt,
 
 
-12. entgegen § 18 Absatz 1 Satz 2, auch in Verbindung mit Satz 3, eine
+14. entgegen § 18 Absatz 1 Satz 2, auch in Verbindung mit Satz 3, eine
     dort genannte Aufzeichnung nicht oder nicht mindestens drei Jahre
     aufbewahrt,
 
 
-13. entgegen § 18 Absatz 2 Satz 2 nicht sicherstellt, dass eine
+15. entgegen § 18 Absatz 2 Satz 2 nicht sicherstellt, dass eine
     Losidentifizierungsnummer am Los angebracht ist,
 
 
-14. entgegen § 18 Absatz 3 Nummer 1 nicht sicherstellt, dass ein Los mit
+16. entgegen § 18 Absatz 3 Nummer 1 nicht sicherstellt, dass ein Los mit
     einer Losidentifizierungsnummer gekennzeichnet ist,
 
 
-15. entgegen § 18 Absatz 3 Nummer 2 eine Losidentifizierungsnummer nicht
+17. entgegen § 18 Absatz 3 Nummer 2 eine Losidentifizierungsnummer nicht
     oder nicht für die vorgeschriebene Dauer verfügbar hält, nicht oder
     nicht rechtzeitig vorlegt oder nicht oder nicht rechtzeitig zugänglich
     macht,
 
 
-16. entgegen § 18 Absatz 3 Nummer 3 nicht sicherstellt, dass sich eine
+18. entgegen § 18 Absatz 3 Nummer 3 nicht sicherstellt, dass sich eine
     dort genannte Angabe an einer dort genannten Stelle befindet,
 
 
-17. entgegen § 18 Absatz 3 Nummer 4 eine dort genannte Angabe nicht oder
+19. entgegen § 18 Absatz 3 Nummer 4 eine dort genannte Angabe nicht oder
     nicht für die vorgeschriebene Dauer verfügbar hält, nicht oder nicht
     rechtzeitig vorlegt oder nicht oder nicht rechtzeitig zugänglich
     macht,
 
 
-18. entgegen § 18 Absatz 5 Satz 1 eine dort genannte Information nicht,
+20. entgegen § 18 Absatz 5 Satz 1 eine dort genannte Information nicht,
     nicht richtig oder nicht vollständig erreichbar oder verfügbar hält,
 
 
-19. entgegen § 19 Absatz 1 Satz 1 eine Übernahmeerklärung nicht, nicht
+21. entgegen § 19 Absatz 1 Satz 1 eine Übernahmeerklärung nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 
-20. entgegen § 19 Absatz 2 Satz 1 eine Angabe nicht, nicht richtig, nicht
+22. entgegen § 19 Absatz 2 Satz 1 eine Angabe nicht, nicht richtig, nicht
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig aufzeichnet oder nicht, nicht richtig, nicht vollständig,
     nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt
     oder
 
 
-21. entgegen § 19 Absatz 3 ein Dokument nicht, nicht richtig, nicht
+23. entgegen § 19 Absatz 3 ein Dokument nicht, nicht richtig, nicht
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig vorlegt.
 
@@ -1030,93 +1116,111 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
+(zu § 2 Absatz 1)
 
-## Anlage 1 (zu § 2 Abs. 1) Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
+## Anlage 1 Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
 
-
-*    *   Kabeljau
-
-    *   Schwarzer Heilbutt
+(Fundstelle: BGBl. I 2019, 437)
 
 
-*    *   Schellfisch
+*    *   Bastardmakrele (Stöcker)
 
-    *   Heilbutt
-
-
-*    *   Seelachs (Köhler)
-
-    *   Kaisergranat
+    *   Blauer Wittling
 
 
-*    *   Wittling
+*    *   Blauleng
 
-    *   Katfisch
-
-
-*    *   Scholle
-
-    *   Pollack
+    *   Butte
 
 
-*    *   Seezunge
+*    *   Eberfisch
+
+    *   Gabeldorsch
+
+
+*    *   Gelbschwanzflunder
+
+    *   Glattbutt
+
+
+*    *   Goldlachs
+
+    *   Grenadierfische
+
+
+*    *   Hering
+
+    *   Kabeljau
+
+
+*    *   Kaisergranat
+
+    *   Kalmar
+
+
+*    *   Lachs
+
+    *   Leng
+
+
+*    *   Limande
 
     *   Lodde
 
 
 *    *   Makrele
 
-    *   Hering
-
-
-*    *   Sprotte
-
-    *   Garnele
-
-
-*    *   Holzmakrele (Stöcker)
-
-    *   Lachs
-
-
-*    *   Seehecht
-
-    *   Stör
-
-
-*    *   Anchovis (Sardelle)
-
-    *   Kliesche
-
-
-*    *   Stintdorsch
-
     *   Rauhe Scharbe (Amerikanische Scholle, Doggerscharbe)
-
-
-*    *   Blauer Wittling
-
-    *   Rotzunge
-
-
-*    *   Angler (Seeteufel)
-
-    *   Kalmar
-
-
-*    *   Flügelbutt (Scheefschnut)
-
-    *   Krake (Tintenfisch)
-
-
-*    *   Sandaal
-
-    *   Leng
 
 
 *    *   Rotbarsch
 
-    *   Blauleng
+    *   Rotzunge
+
+
+*    *   Sämtliche Haie
+
+    *   Sämtliche Rochen
+
+
+*    *   Sämtliche Thunfische
+
+    *   Sandaal
+
+
+*    *   Schellfisch
+
+    *   Scholle
+
+
+*    *   Schwarzer Degenfisch
+
+    *   Schwarzer Heilbutt
+
+
+*    *   Schwertfisch
+
+    *   Seehecht
+
+
+*    *   Seelachs (Köhler)
+
+    *   Seeteufel
+
+
+*    *   Seezunge
+
+    *   Sprotte
+
+
+*    *   Steinbutt
+
+    *   Stintdorsch
+
+
+*    *   Wittling
+
+    *   Wolfsbarsch
 
 
 
@@ -1148,8 +1252,9 @@ für Landwirtschaft und Ernährung
 Im Auftrag
 (hellgrün mit schwarzem Aufdruck, Format DIN A6) ****
 
+(zu § 5 Absatz 2)
 
-## Anlage 3 (zu § 5 Absatz 2) Verbindliche Anlandeorte
+## Anlage 3 Verbindliche Anlandeorte
 
 (Fundstelle: BGBl. I 2012, 2553 - 2554)
 
@@ -1159,7 +1264,7 @@ Im Auftrag
 *    *   Nordsee
 
 
-*    *   Accumersiel
+*    *   Westeraccumersiel
 
 
 *    *   Bensersiel
@@ -1214,9 +1319,6 @@ Im Auftrag
 
 
 *    *   Hamburg
-
-
-*    *   Friedrichskoog
 
 
 *    *   Büsum
@@ -1465,10 +1567,70 @@ Technische Beschreibung des Steerts
 
 
 
+## Abschnitt 3
 
-## Anlage 5 (zu § 16 Absatz 1) Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
+Technische Beschreibung
+## **eines Siebnetzes/Trichternetzes und eines
+Sortiergittereinsatzes**
 
-(Fundstelle: BGBl. I 2012, 2557 - 2561)
+
+1.  Technische Merkmale Siebnetz/Trichternetz
+
+    a)  Definition: Das Hauptnetz ist der Teil des Grundschleppnetzes, welcher
+        sich vor dem Steert befindet.
+
+
+    b)  Ein Siebnetz/Trichternetz ist ein Stück Netzwerk, dessen maximale
+        Maschenöffnung 70 mm beträgt.
+
+
+    c)  Das Siebnetz/Trichternetz wird im Innern des Hauptnetzes vor dem
+        Steert angebracht. Die gestreckte Länge des Siebnetzes darf nicht mehr
+        als 1 m aus der Fluchtöffnung herausragen. Das Siebnetz/Trichternetz
+        ist an der Innenseite des Fanggerätes befestigt, so dass Organismen
+        nur durch dieses Siebnetz/Trichternetz in den Steert gelangen können.
+
+
+    d)  Das Siebnetz/Trichternetz mündet in einer Fluchtöffnung, die entweder
+        an der Ober- oder Unterseite des Hauptnetzes angebracht ist. Die
+        (Flucht-)Öffnung des Siebnetzes/Trichternetzes muss frei sein. Der
+        Abstand der Fluchtöffnung zum Steertanfang beträgt höchstens 100
+        Maschen. Die Breite der Fluchtöffnung (in Querrichtung des
+        Fanggerätes) umfasst mindestens jeweils 15 Maschen des Hauptnetzes.
+
+
+    e)  Es dürfen gleichzeitig höchstens zwei Siebnetzteile verwendet werden,
+        sofern sie an der oberen beziehungsweise an der unteren Hälfte des
+        Grundschleppnetzes angebracht sind und sich an keiner Stelle
+        überlappen.
+
+
+
+
+
+2.  Technische Merkmale Sortiergittereinsatz
+
+    a)  Die Konstruktion des Sortiergitters im Krabbennetz kann rechteckig
+        oder elliptisch sein und muss aus festem Material bestehen. Beim
+        rechteckigen Sortiergitter sind die Stäbe parallel zur Längsachse und
+        bei den elliptischen Sortiergittern parallel zur längeren Achse
+        auszurichten.
+
+
+    b)  Die Stäbe des Sortiergitters dürfen einen maximalen Abstand von 20 mm
+        aufweisen.
+
+
+
+
+
+
+
+(zu § 16 Absatz 1)
+
+## Anlage 5 Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
+
+(Fundstelle: BGBl. I 2019, 438 – 442)
 
 
 *    *   1
@@ -1480,8 +1642,7 @@ Technische Beschreibung des Steerts
     *   4
 
 
-*    *   lfd.
-        Nr.
+*    *   Lfd. Nr.
 
     *   Schwerer Verstoß nach Anhang XXX
         der Durchführungsverordnung (EU) Nr. 404/2011
@@ -1499,82 +1660,129 @@ Technische Beschreibung des Steerts
         Daten
 
     *   § 18 Absatz 3 Nummer 4 des Seefischereigesetzes,
-        § 19 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 22 Absatz 2 Nummer 5 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 7 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 8 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 9 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 10 der Seefischereiverordnung,
-        § 24f Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 11 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung
 
     *   3
+
+
+*    *   § 22 Absatz 2 Nummer 5 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 7 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 8 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 9 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 10 der Seefischereiverordnung,
+
+
+*    *   § 24 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 1 Nummer 11 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 32 Nummer 2 der Seefischerei-Bußgeldverordnung
 
 
 *    *   2
 
     *   Einsatz von verbotenem oder nicht vorschriftsmäßigem Fanggerät
 
-    *   § 18 Absatz 2 2. Alternative Nummer 10 des Seefischereigesetzes,
-        § 1 Nummer 4, 5, 6, 8, 9 1. Alternative und Nummer 13 der
-        Seefischerei-Bußgeldverordnung,
-        § 2 der Seefischerei-Bußgeldverordnung,
-        § 3 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 12 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 22 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 26 der Seefischerei-Bußgeldverordnung,
+    *   § 18 Absatz 2 Nummer 10 zweite Alternative des Seefischereigesetzes,
 
     *   4
 
 
-*    *
-    *
-    *   § 6 Absatz 1 Nummer 27 2. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 28 der Seefischerei- Bußgeldverordnung,
-        § 8 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 1 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 3 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 2 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 7 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 19 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 5 2. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 22 Absatz 1 Nummer 9 der Seefischereiverordnung
+*    *   § 1 Nummer 1, 4, 5, 6, 8, 9 erste Alternative und Nummer 13 der
+        Seefischerei-Bußgeldverordnung,
 
-    *
+
+*    *   § 2 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 3 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 6 zweite Alternative der Seefischerei-
+        Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 8 zweite Alternative der Seefischerei-
+        Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 10 erste Alternative der Seefischerei-
+        Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 13 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 27 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 32 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 44 Buchstabe a zweite Alternative der
+        Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 47 Buchstabe a der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 7 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 9 Nummer 1 zweite Alternative der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 9 Nummer 2 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 9 Nummer 3 zweite Alternative der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 9 Nummer 4 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 9 Nummer 6 der Seefischerei-Bußgeldverordnung
+
 
 *    *   3
 
     *   Fälschen oder Verbergen von Kennzeichnung, Identität oder
         Registrierung
 
-    *   § 24f Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung
+    *   § 28 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung
 
     *   5
 
@@ -1594,10 +1802,12 @@ Technische Beschreibung des Steerts
     *   Anbordnehmen, Umladen oder Anlanden von untermaßigen Fischen unter
         Verstoß gegen die geltenden Rechtsvorschriften
 
-    *   § 6 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 11 der Seefischerei-Bußgeldverordnung
+    *   § 6 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung,
 
     *   5
+
+
+*    *   § 17 Nummer 13 der Seefischerei-Bußgeldverordnung
 
 
 *    *   6
@@ -1606,54 +1816,114 @@ Technische Beschreibung des Steerts
         Weise, die mit den Erhaltungs- und Bewirtschaftungsmaßnahmen dieser
         Organisation nicht vereinbar ist oder gegen diese verstößt
 
-    *   *Nordwestatlantische Fischereiorganisation (NAFO):*
-        § 20 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung
-        *Kommission für die Fischerei im Nordostatlantik (NEAFC):*
-        § 24e Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung
+    *   a)
+
+    *   Nordwestatlantische Fischereiorganisation (NAFO):
 
     *   5
 
 
+*    *   § 18 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   b)
+
+    *   Kommission für die Fischerei im Nordostatlantik (NEAFC):
+
+
+*    *   § 27 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung
+
+
 *    *   7
 
-    *   Fischen ohne eine vom Flaggenstaat oder dem betreffenden Küstenstaat
+    *   Fischen ohne ein vom Flaggenstaat oder dem betreffenden Küstenstaat
         erteilte gültige Lizenz, Genehmigung oder Erlaubnis
 
     *   § 18 Absatz 2 Nummer 1 des Seefischereigesetzes,
-        § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
-        § 18 Absatz 2 Nummer 3 des Seefischereigesetzes,
-        § 18 Absatz 3 Nummer 7 des Seefischereigesetzes,
-        § 18 Nummer 18 der Seefischerei-Bußgeldverordnung,
-        § 24 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
 
     *   7
 
 
+*    *   § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
+
+
+*    *   § 18 Absatz 2 Nummer 3 des Seefischereigesetzes,
+
+
+*    *   § 18 Absatz 3 Nummer 7 des Seefischereigesetzes,
+
+
+*    *   § 17 Nummer 20 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 21 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
+
+
 *    *   8
 
-    *   Fischen in einem Schongebiet, während einer Schonzeit, ohne Quote oder
+    *   Fischen in einem Schongebiet, während einer Schonzeit, ohne Quote,
         nach Ausschöpfen der Quote oder in nicht zulässigen Tiefen
 
     *   § 18 Absatz 2 Nummer 1 des Seefischereigesetzes,
-        § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
-        § 6 Absatz 1 Nummer 24 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 13 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 19 der Seefischerei-Bußgeldverordnung,
-        § 19 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24b Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung
 
     *   6
+
+
+*    *   § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
+
+
+*    *   § 6 Absatz 1 Nummer 52 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 53 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 56 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 68 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 6 Absatz 1 Nummer 69 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 17 Nummer 15 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 17 Nummer 21 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung
 
 
 *    *   9
@@ -1672,35 +1942,95 @@ Technische Beschreibung des Steerts
         Aufgabe, die Einhaltung der geltenden Erhaltungs- und
         Bewirtschaftungsmaßnahmen zu überwachen, oder Behinderung von
         Beobachtern bei der Wahrnehmung ihrer Aufgabe, die Einhaltung der
-        geltenden EU-Rechtsvorschriften zu beobachten
+        geltenden EU-Rechtsvorschriften zu beachten
 
     *   § 18 Absatz 2 Nummer 5 des Seefischereigesetzes,
-        § 18 Absatz 2 Nummer 6 des Seefischereigesetzes,
-        § 20 Absatz 2 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 10 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 11 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 12 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 13 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 14 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 15 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 18 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 19 der Seefischerei-Bußgeldverordnung,
-        § 22 Absatz 2 Nummer 2 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 3 der Seefischereiverordnung,
-        § 22 Absatz 2 Nummer 4 der Seefischereiverordnung,
-        § 24d Absatz 2 Nummer 11 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 12 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 2 Nummer 32 der Seefischerei-Bußgeldverordnung
 
     *   7
+
+
+*    *   § 18 Absatz 2 Nummer 6 des Seefischereigesetzes,
+
+
+*    *   § 22 Absatz 2 Nummer 2 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 3 der Seefischereiverordnung,
+
+
+*    *   § 22 Absatz 2 Nummer 4 der Seefischereiverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 9 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 10 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 11 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 12 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 13 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 14 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 15 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 18 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 2 Nummer 19 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 24 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 27 Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 27 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 28 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 30 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 31 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 28 Absatz 2 Nummer 32 der Seefischerei-Bußgeldverordnung
 
 
 *    *   11
@@ -1713,15 +2043,25 @@ Technische Beschreibung des Steerts
         Unterstützung oder Versorgung solcher Schiffe
 
     *   § 18 Absatz 3 Nummer 1 des Seefischereigesetzes,
-        § 20 Absatz 1 Nummer 22 3. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 22 4. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung,
-        § 23 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 23 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
 
     *   7
+
+
+*    *   § 18 Absatz 1 Nummer 22 dritte Alternative der Seefischerei-
+        Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 22 vierte Alternative der Seefischerei-
+        Bußgeldverordnung,
+
+
+*    *   § 18 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 20 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,
+
+
+*    *   § 20 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
 
 
 *    *   12

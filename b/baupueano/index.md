@@ -1172,8 +1172,9 @@ Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
 **Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft**
 
+zur BauVorl-/BauPrüf-/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4)
 
-### Anlage zur BauVorl-/BauPrüf-/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4) Zeichen für Bauvorlagen
+### Anlage Zeichen für Bauvorlagen
 
 Fundstelle des Originaltextes: GBl. I 1990 Nr. 57, S. 1406 - 1408
 

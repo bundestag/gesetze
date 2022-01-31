@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Saarbrücken
 jurabk: FluLärmSaarbrV
 layout: default
-origslug: flul_rmsaarbrv
+origslug: flulaermsaarbrv
 slug: flulaermsaarbrv
 
 ---

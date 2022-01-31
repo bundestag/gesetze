@@ -34,44 +34,51 @@ bekanntgemacht.
 
 Der Bundesminister des Innern
 
+(Anlage IV des BBesG)
 
-## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+## Anlage IA Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2578 - 2580)
 
+(Anlage V des BBesG)
 
-## Anlage IB (Anlage V des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+## Anlage IB Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2580)
 
+(Anlage IX des BBesG)
 
-## Anlage IC (Anlage IX des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
+## Anlage IC Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2581 - 2583)
 
+(Anlage IV des BBesG)
 
-## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+## Anlage IIA Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2584 - 2586)
 
+(Anlage V des BBesG)
 
-## Anlage IIB (Anlage V des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+## Anlage IIB Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2586)
 
+(Anlage IX des BBesG)
 
-## Anlage IIC (Anlage IX des BBesG) Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
+## Anlage IIC Gültig ab 1. Oktober 1994 nur für die Besoldungsgruppen A 1 bis A 8, für die Besoldungsgruppen A 9 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R erst ab 1. Januar 1995
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2587 - 2589)
 
+(Anlage VIII des BBesG)
 
-## Anlage III (Anlage VIII des BBesG) Gültig ab 1. Oktober 1994
+## Anlage III Gültig ab 1. Oktober 1994
 
 (Inhalt: Nicht erfaßte Tabelle,
 Fundstelle: BGBl. I 1994, 2590)

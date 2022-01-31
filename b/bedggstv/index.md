@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 23.12.1997; 1998 I 5;
 
 Zuletzt geändert durch
-:   Art. 5 V v. 13.12.2011 I 2720
+:   Art. 2 Abs. 1 G v. 15.2.2016 I 198
+
+Änderung durch
+:   Art. 1 V v. 2.12.2021 I 5068 (Nr. 82) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -200,8 +203,12 @@ Im Sinne dieser Verordnung sind
         Beschichtung oder
 
 
-    c)  beschichtete Zellglasfolien mit einer aus Kunststoff bestehenden
-        Beschichtung,
+    c)  beschichtete Zellglasfolien mit einer Beschichtung aus Kunststoff im
+        Sinne des Artikels 3 Nummer 2 der Verordnung (EU) Nr. 10/2011 der
+        Kommission vom 14. Januar 2011 über Materialien und Gegenstände aus
+        Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu
+        kommen (ABl. L 12 vom 15.1.2011, S. 1; L 278 vom 25.10.2011, S. 13) in
+        der jeweils geltenden Fassung,
 
 
 
@@ -213,83 +220,16 @@ Im Sinne dieser Verordnung sind
     regenerierter Cellulose;
 
 
-3.  Lebensmittelbedarfsgegenstände aus Kunststoff:
-
-    zur Verwendung als Lebensmittelbedarfsgegenstände bestimmte
-
-    a)  Materialien und Gegenstände sowie Teile davon, die ausschließlich aus
-        Kunststoff bestehen,
+3.  (weggefallen)
 
 
-    b)  Materialien und Gegenstände aus Kunststoff, die aus zwei oder mehreren
-        Schichten bestehen, von denen jede ausschließlich aus Kunststoff
-        besteht und die durch Klebstoffe oder auf andere Weise
-        zusammengehalten werden (mehrschichtige Materialien und Gegenstände
-        aus Kunststoff),
+3a. (weggefallen)
 
 
-    c)  Kunststoffschichten oder -beschichtungen, die als Dichtungsmaterial
-        von Deckeln dienen, die sich aus zwei oder mehreren Schichten
-        verschiedener Materialarten zusammensetzen;
+3b. (weggefallen)
 
 
-
-
-
-3a. Kunststoff:
-
-    eine organische makromolekulare Verbindung, die durch Polymerisation,
-    Polykondensation, Polyaddition oder sonstige vergleichbare Verfahren
-    aus Molekülen mit niedrigerem Molekulargewicht oder durch chemische
-    Veränderung natürlicher Makromoleküle gewonnen wird; dieser
-    makromolekularen Verbindung können andere Stoffe oder Zubereitungen
-    zugefügt werden; als Kunststoff gelten jedoch nicht:
-
-    a)  Zellglasfolien,
-
-
-    b)  Elastomere und natürlicher oder synthetischer Kautschuk,
-
-
-    c)  Papier und Pappe, auch wenn diese durch Zusatz von Kunststoff
-        modifiziert worden sind,
-
-
-    d)  Überzüge aus Paraffinwachs, einschließlich synthetischem Paraffinwachs
-        und mikrokristallinem Wachs sowie deren Gemische miteinander oder mit
-        Kunststoff,
-
-
-    e)  Ionenaustauscherharze,
-
-
-    f)  Silikone;
-
-
-
-
-
-3b. funktionelle Barriere aus Kunststoff:
-
-    eine Barriere, die aus einer oder mehreren Schichten Kunststoff
-    besteht und sicherstellt, dass der Lebensmittelbedarfsgegenstand im
-    fertigen Zustand den Anforderungen dieser Verordnung und dem Artikel 3
-    der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des
-    Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu
-    bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur
-    Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. EU Nr. L 338
-    S. 4) entspricht;
-
-
-3c. fettfreie Lebensmittel:
-
-[^F771076_02_BJNR008660992BJNE000307310]
-    Lebensmittel, für die in der Amtlichen Sammlung von
-    Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-    Futtermittelgesetzbuches
-    unter der Gliederungsnummer B 80.30-2, Stand März 2008, andere
-    Simulanzien für Migrationsprüfungen festgelegt sind als das
-    Simulanzlösemittel D;
+3c. (weggefallen)
 
 
 4.  Lebensmittelbedarfsgegenstände aus Keramik:
@@ -304,35 +244,86 @@ Im Sinne dieser Verordnung sind
 
 5.  Bedarfsgegenstände aus Vinylchloridpolymerisaten:
 
-    a)  Lebensmittelbedarfsgegenstände,
-
-
-    b)  Bedarfsgegenstände im Sinne des § 2 Abs. 6 Satz 1 Nr. 3 des
+    a)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 3 des
         Lebensmittel- und Futtermittelgesetzbuches,
 
 
-    c)  Bedarfsgegenstände im Sinne des § 2 Abs. 6 Satz 1 Nr. 5 des
+    b)  Bedarfsgegenstände im Sinne des § 2 Absatz 6 Satz 1 Nummer 5 des
         Lebensmittel- und Futtermittelgesetzbuches, die bei bestimmungsgemäßem
         oder vorauszusehendem Gebrauch mit den Schleimhäuten des Mundes in
         Berührung kommen und
 
 
 
-
     die unter Verwendung von Vinylchloridpolymerisaten oder
-    -kopolymerisaten hergestellt sind.
+    Vinylchloridkopolymerisaten hergestellt sind;
 
 
 6.  Babyartikel:
 
     jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das
     Füttern und das Saugen von Kindern zu erleichtern oder ihrer
-    hygienischen Versorgung zu dienen.
+    hygienischen Versorgung zu dienen;
+
+
+7.  Druckfarben: Druckfarben oder Drucklacke, die in einem Druck- oder
+    Lackierverfahren auf Lebensmittelbedarfsgegenstände aufgetragen
+    werden;
+
+
+8.  bedruckte Lebensmittelbedarfsgegenstände:
+    Lebensmittelbedarfsgegenstände, die unter Verwendung von Druckfarben
+    hergestellt sind;
+
+
+9.  Nanomaterialien: Materialien in Druckfarben,
+
+    a)  die natürlichen Ursprungs sind, bei Herstellungsprozessen anfallen
+        oder gezielt hergestellt werden,
+
+
+    b)  die Partikel in ungebundenem Zustand, als Aggregat oder als Agglomerat
+        enthalten und
+
+
+    c)  bei denen mindestens 50 Prozent der Partikel bezogen auf die
+        Anzahlgrößenverteilung ein oder mehrere Außenmaße im Bereich von einem
+        bis 100 Nanometer aufweisen;
 
 
 
 
-[^F771076_02_BJNR008660992BJNE000307310]:     Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
+
+10. Partikel: ein sehr kleines Teilchen einer Substanz mit definierten
+    physikalischen Grenzen;
+
+
+11. Agglomerat: eine Ansammlung schwach gebundener Partikel oder
+    Aggregate, in der die resultierende Oberfläche ähnlich der Summe der
+    Oberflächen der einzelnen Bestandteile ist;
+
+
+12. Aggregat: ein Partikel aus fest gebundenen oder verschmolzenen
+    Partikeln;
+
+
+13. Verwendung von Stoffen in Druckfarben: Das planvolle Benutzen von
+    Stoffen zur Herstellung von Druckfarben, die zumindest einem der
+    folgenden Verwendungszwecke dienen: Monomere oder sonstige
+    Ausgangsstoffe, Farbmittel, Lösungsmittel, Photoinitiatoren oder
+    andere Additive.
+
+
+
+Zubereitungen zum Einfärben von Lebensmittelbedarfsgegenständen sowie
+Dekorfarben für Lebensmittelbedarfsgegenstände aus Keramik oder Glas,
+die in einem Brennverfahren aufgebracht werden, sind keine Druckfarben
+im Sinne des Satzes 1 Nummer 7. Als Nanomaterialien im Sinne des
+Satzes 1 Nummer 9 gelten auch Fullerene, Graphenflocken und einwandige
+Kohlenstoff-Nanoröhren mit einem oder mehreren Außenmaßen kleiner als
+ein Nanometer.
+
+[^F771076_02_BJNR008660992BJNE000309125]:     Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
 
 ## § 3 Verbotene Stoffe
@@ -366,125 +357,172 @@ genannten Zellglasfolien dürfen vor der Beschichtung nur die in Anlage
 genannten Verwendungsbeschränkungen verwendet werden. Absatz 1 Satz 2
 bis 4 ist anzuwenden.
 
-(2) Bei dem gewerbsmäßigen Herstellen von
+(2) Vorbehaltlich des Absatzes 3 dürfen bei dem gewerbsmäßigen
+Herstellen von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer
+2 Buchstabe c hinsichtlich der Beschichtung als
 
-1.  Lebensmittelbedarfsgegenständen aus Kunststoff sowie
-
-
-2.  Lebensmittelbedarfsgegenständen im Sinne des § 2 Nr. 2 Buchstabe c
-    hinsichtlich der aufzubringenden Beschichtung
+1.  Monomere oder andere Ausgangsstoffe,
 
 
-
-dürfen als Monomere und sonstige Ausgangsstoffe nur die in Anlage 3
-Abschnitt 1 aufgeführten Stoffe unter Einhaltung der dort in Spalte 4
-genannten Beschränkungen und unter Berücksichtigung der in Anlage 3
-Abschnitt 6 aufgeführten Bemerkungen verwendet werden. Die Stoffe
-dürfen nur verwendet werden, wenn sie den in Anlage 3 Abschnitt 5
-festgesetzten Spezifikationen und Reinheitsanforderungen entsprechen.
-Im Übrigen müssen die Stoffe hinsichtlich der Reinheitsanforderungen
-von guter technischer Qualität sein. Stoffe der Anlage 3 Abschnitt 1
-Teil B dürfen zunächst nur bis zu dem dort festgesetzten Zeitpunkt
-verwendet werden. Handelt es sich bei Lebensmittelbedarfsgegenständen
-im Sinne des Satzes 1 Nr. 1 um mehrschichtige Materialien und
-Gegenstände aus Kunststoff, so gelten die Sätze 1 bis 4 entsprechend
-für jede Kunststoffschicht. Satz 1 und 5 gilt nicht bei dem Herstellen
-von
-
-1.  Oberflächenbeschichtungen mit flüssigen, pulverförmigen oder
-    dispergierten Harzen und Polymeren, insbesondere Lacken und Farben,
+2.  Additive außer Farbmittel,
 
 
-2.  Epoxyharzen,
-
-
-3.  Klebern und Haftvermittlern sowie
-
-
-4.  Druckfarben.
-
-
-
-
-(3) Bei dem gewerbsmäßigen Herstellen von
-
-1.  Lebensmittelbedarfsgegenständen aus Kunststoff im Sinne des § 2 Nummer
-    3 Buchstabe a und b sowie
-
-
-2.  Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2 Buchstabe c
-    hinsichtlich der aufzubringenden Beschichtung
-
-
-
-dürfen als Additive nur die in Satz 2 genannten Stoffe verwendet
-werden. Stoffe im Sinne des Satzes 1 sind
-
-1.  die in Anlage 3 Abschnitt 2 aufgeführten Stoffe
-
-    a)  unter Einhaltung der in Anlage 3 Abschnitt 2 Spalte 4 genannten
-        Beschränkungen,
-
-
-    b)  unter Einhaltung der in Anlage 3 Abschnitt 5 festgesetzten
-        Spezifikationen und Reinheitsanforderungen und
-
-
-    c)  unter Berücksichtigung der in Anlage 3 Abschnitt 6 aufgeführten
-        Bemerkungen
-
-
-
+3.  Hilfsstoffe bei der Herstellung von Kunststoffen außer Lösungsmittel
     sowie
 
 
-2.  die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13
-    Spalte 4 genannten Beschränkungen, sofern Artikel 3 Absatz 1 der
-    Verordnung (EG) Nr. 1935/2004 oder andere Rechtsvorschriften dem nicht
-    entgegenstehen.
+4.  durch mikrobielle Fermentation gewonnene Makromoleküle
 
 
 
-Sofern keine Reinheitsanforderungen festgesetzt sind, müssen die
-Additive hinsichtlich der Reinheitsanforderungen von guter technischer
-Qualität sein. Für Lebensmittelbedarfsgegenstände im Sinne des § 2
-Nummer 3 Buchstabe b gelten die Sätze 2 und 3 entsprechend für jede
-Kunststoffschicht. Absatz 3b bleibt unberührt.
+nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011
+in der am 1. Januar 2013 geltenden Fassung aufgeführten Stoffe unter
+Einhaltung der Beschränkungen und Spezifikationen nach Anhang I Nummer
+1 Tabelle 1 Spalte 10 und Nummer 4 der Verordnung (EU) Nr. 10/2011 in
+der am 1. Januar 2013 geltenden Fassung verwendet werden. Die Stoffe
+dürfen nur verwendet werden, wenn sie den allgemeinen Anforderungen
+nach Artikel 8 Satz 1 der Verordnung (EU) Nr. 10/2011 in der jeweils
+geltenden Fassung entsprechen. Artikel 6 Absatz 3 der Verordnung (EU)
+Nr. 10/2011 in der jeweils geltenden Fassung gilt entsprechend.
 
-(3a) Bei dem gewerbsmäßigen Herstellen von
-Lebensmittelbedarfsgegenständen aus Kunststoff im Sinne des § 2 Nummer
-3 Buchstabe c dürfen, unbeschadet der Verwendung anderer geeigneter
-Stoffe, die in Anlage 3 Abschnitt 2 aufgeführten Stoffe nur nach
-Maßgabe des Absatzes 3 Satz 2 Nummer 1 und Satz 3 verwendet werden.
-Handelt es sich bei Lebensmittelbedarfsgegenständen im Sinne des
-Satzes 1 um mehrschichtige Materialien und Gegenstände aus Kunststoff,
-gilt Satz 1 entsprechend für jede Kunststoffschicht.
+(3) Abweichend von Absatz 2 dürfen bei dem gewerbsmäßigen Herstellen
+von Lebensmittelbedarfsgegenständen im Sinne des § 2 Nummer 2
+Buchstabe c hinsichtlich der Beschichtung als Additive auch die in
+Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte
+4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1
+der Verordnung (EG) Nr. 1935/2004 des Europäischen Parlaments und des
+Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu
+bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur
+Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. L 338 vom
+13\.11.2004, S. 4), die zuletzt durch die Verordnung (EU) 2019/131
+(ABl. L 231 vom 6.9.2019, S. 1) geändert worden ist, dem nicht
+entgegensteht.
 
-(3b) Bis zum 31. Dezember 2009 ist für die in Absatz 3 Satz 1
-bezeichneten Lebensmittelbedarfsgegenstände Absatz 3a anzuwenden.
+(4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen
+aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU)
+Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr.
+10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13
+aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4
+genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1
+der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
 
-(4) Bei dem gewerbsmäßigen Herstellen von
-Lebensmittelbedarfsgegenständen aus durch bakterielle Fermentation
-gewonnenen Erzeugnissen dürfen nur die in Anlage 3 Abschnitt 4
-aufgeführten Stoffe verwendet werden. Die Stoffe dürfen nur verwendet
-werden, wenn sie den in Anlage 3 Abschnitt 5 festgesetzten
+(5) Bei dem gewerbsmäßigen Herstellen bedruckter
+Lebensmittelbedarfsgegenstände dürfen vorbehaltlich der Absätze 7 bis
+9 in den Druckfarben nur verwendet werden
+
+1.  Polymere aus in Anlage 14 Tabelle 1 aufgeführten Monomeren oder
+    sonstigen Ausgangsstoffen sowie
+
+
+2.  die in Anlage 14 Tabelle 1 aufgeführten Stoffe als Monomere oder
+    sonstige Ausgangsstoffe oder als Farbmittel, Lösungsmittel,
+    Photoinitiatoren oder andere Additive.
+
+
+
+Die Stoffe dürfen nur verwendet werden, wenn sie den in Anlage 14
+Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen,
+Spezifikationen und Reinheitsanforderungen entsprechen. Sofern keine
+Reinheitsanforderungen festgesetzt sind, müssen die Stoffe
+hinsichtlich der Reinheitsanforderungen von guter technischer Qualität
+sein. Stoffe in Form von Nanomaterialien dürfen nur verwendet werden,
+sofern dies in Anlage 14 Tabelle 1 Spalte 8 ausdrücklich bestimmt ist.
+Neben den in Anlage 14 Tabelle 1 genannten Säuren, Phenolen und
+Alkoholen dürfen auch ihre Salze, einschließlich der Doppelsalze und
+sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens,
+Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und
+Zinks verwendet werden. Sind in Anlage 14 Tabelle 1 Salze von Säuren,
+Phenolen oder Alkoholen genannt, ist nur die Verwendung dieser Salze
+sowie die Verwendung von Salzen, einschließlich der Doppelsalze und
+sauren Salze, des Aluminiums, Ammoniums, Bariums, Calciums, Eisens,
+Kaliums, Kobalts, Kupfers, Lithiums, Magnesiums, Mangans, Natriums und
+Zinks dieser Säuren, Phenole oder Alkohole zulässig.
+
+(6) Vorbehaltlich der Absätze 7, 8 und 10 dürfen die in Anlage 14
+Tabelle 1 aufgeführten Monomere oder sonstigen Ausgangsstoffe als
+Additive und die in Anlage 14 Tabelle 1 aufgeführten Additive als
+Monomere oder sonstige Ausgangsstoffe verwendet werden, sofern sie den
+in Anlage 14 Tabelle 1 Spalte 8 festgesetzten anderen Beschränkungen,
 Spezifikationen und Reinheitsanforderungen entsprechen.
 
-(5) Bei dem gewerbsmäßigen Herstellen von
-Lebensmittelbedarfsgegenständen aus Kunststoff mit einer funktionellen
-Barriere aus Kunststoff sind Absatz 2 Satz 1 bis 5, Absatz 3 und 4
-nicht auf die Schichten anzuwenden, die nicht unmittelbar mit
-Lebensmitteln in Berührung kommen und von diesen durch die
-funktionelle Barriere getrennt sind. Für diese Schichten dürfen andere
-als in Anlage 3 Abschnitt 1, 2 oder 4 genannte Stoffe nur verwendet
-werden, sofern diese nicht gemäß den Kriterien der Abschnitte 3.5, 3.6
-und 3.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des
-Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die
-Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen,
-zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG
-und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom
-31\.12.2008, S. 1) als „erbgutverändernd“, „krebserregend“ oder
-„fortpflanzungsgefährdend“ eingestuft sind.
+(7) Sofern die Druckfarben nicht dazu bestimmt sind, unmittelbar mit
+dem Lebensmittel in Berührung zu kommen, dürfen neben den nach den
+Absätzen 5 und 6 zulässigen Stoffen bei dem gewerbsmäßigen Herstellen
+bedruckter Lebensmittelbedarfsgegenstände in den Druckfarben verwendet
+werden:
+
+1.  Polymere aus anderen als den in Anlage 14 Tabelle 1 aufgeführten
+    Monomeren oder sonstigen Ausgangsstoffen und
+
+
+2.  als Monomere oder sonstige Ausgangsstoffe, oder als Farbmittel,
+    Lösungsmittel, Photoinitiatoren oder andere Additive andere als die in
+    Anlage 14 Tabelle 1 aufgeführten Stoffe.
+
+
+
+Die Stoffe im Sinne des Satzes 1 dürfen ferner nur verwendet werden,
+sofern sie nicht nach den Anforderungen der Abschnitte 3.5, 3.6 und
+3\.7 des Anhangs I der Verordnung (EG) Nr. 1272/2008 des Europäischen
+Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung,
+Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung
+und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur
+Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008,
+S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom
+21\.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S.
+18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte
+Verordnung (EU) 2021/643 (ABl. L 133 vom 20.4.2021, S. 5) geändert
+worden ist, als „mutagen“, „karzinogen“ oder „reproduktionstoxisch“
+eingestuft sind. Stoffe im Sinne des Satzes 1 sind auch solche in Form
+von Nanomaterialien. Satz 1 gilt nicht für bedruckte
+Lebensmittelbedarfsgegenstände, bei denen die Druckfarben bei einer
+normalen, vorhersehbaren Verwendung der Lebensmittelbedarfsgegenstände
+unmittelbar mit Lebensmitteln in Berührung kommen, obwohl sie nicht
+dazu bestimmt sind.
+
+(8) Im Übrigen dürfen bei dem gewerbsmäßigen Herstellen bedruckter
+Lebensmittelbedarfsgegenstände in den Druckfarben Monomere oder
+sonstige Ausgangsstoffe sowie Additive verwendet werden, sofern sie
+
+1.  in der jeweils geltenden Fassung des Anhangs I der Verordnung (EU) Nr.
+    10/2011 ohne Gruppenbeschränkungen nach der dortigen Tabelle 1 Spalte
+    9 oder ohne Beschränkungen und Spezifikationen nach der dortigen
+    Tabelle 1 Spalte 10 aufgeführt sind,
+
+
+2.  den allgemeinen Anforderungen nach Artikel 8 der Verordnung (EU) Nr.
+    10/2011 in der jeweils geltenden Fassung entsprechen und
+
+
+3.  bezogen auf den bedruckten Lebensmittelbedarfsgegenstand, die in
+    Anhang I Tabelle 1 Spalte 8 der Verordnung (EU) Nr. 10/2011 in der
+    jeweils geltenden Fassung genannten Grenzwerte für den Übergang auf
+    das Lebensmittel einhalten.
+
+
+
+Absatz 5 Satz 5 gilt entsprechend.
+
+(9) Neben den nach Absatz 5 Satz 1 zulässigen Stoffen dürfen bei der
+Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten
+Lebensmittelbedarfsgegenständen auch die in Anlage 14 Tabelle 2
+genannten Pigmente unter den dort festgelegten Bedingungen,
+Spezifikationen und Reinheitsanforderungen verwendet werden. Absatz 5
+Satz 3 gilt entsprechend.
+
+(10) Die Absätze 5 bis 9 gelten nicht für bedruckte
+Lebensmittelbedarfsgegenstände, bei denen ein Übergang von Stoffen,
+einschließlich solcher in Form von Nanomaterialien, aus der Druckfarbe
+auf das Lebensmittel ausgeschlossen ist.
+
+(11) Sind in Druckfarben unbeabsichtigt eingebrachte Stoffe vorhanden,
+die nicht in Anlage 14 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 8
+aufgeführt sind, unterliegen sie den Vorschriften des Artikels 3
+Absatz 1 der Verordnung (EG)Nr. 1935/2004. Ob diese Stoffe im
+bedruckten Lebensmittelbedarfsgegenstand Artikel 3 Absatz 1 Buchstabe
+a der Verordnung (EG) Nr. 1935/2004 entsprechen, ist vom
+verantwortlichen Unternehmer gemäß international anerkannten
+wissenschaftlichen Grundsätzen der Risikobewertung zu prüfen.
 
 
 ## § 5 Verbotene Verfahren
@@ -502,21 +540,12 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
     Höchstmengen hinaus enthalten,
 
 
-2.  Lebensmittelbedarfsgegenstände aus
-
-    a)  Kunststoff sowie
-
-
-    b)  Zellglasfolien im Sinne des § 2 Nr. 2 Buchstabe c hinsichtlich der aus
-        Kunststoff bestehenden Beschichtung,
-
-
-
-    wenn sie die in der Anlage 3 Abschnitt 1 oder 2 aufgeführten Stoffe
-    über die dort jeweils in Spalte 4 festgesetzten höchstzulässigen
-    Restgehalte hinaus enthalten, wobei die in Anlage 3 Abschnitt 5
-    aufgeführten Spezifikationen und in Anlage 3 Abschnitt 6 aufgeführten
-    Bemerkungen zu berücksichtigen sind,
+2.  Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c,
+    wenn
+    sie hinsichtlich                    der Beschichtung die in Anhang I
+    Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am 1. Januar
+    2013 geltenden Fassung aufgeführten Stoffe über die dort jeweils in
+    Spalte 10 festgesetzten Höchstmengen hinaus enthalten,
 
 
 3.  in Anlage 5 aufgeführte Bedarfsgegenstände, wenn sie die dort in
@@ -531,12 +560,7 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 
 Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im
-Sinne des § 2 Nr. 2 Buchstabe c besteht. Ist für
-Lebensmittelbedarfsgegenstände nach Satz 1 Nr. 2 für einen Stoff in
-Anlage 3 Abschnitt 1 oder 2 jeweils in Spalte 4 außer einem
-höchstzulässigen Restgehalt auch ein spezifischer Migrationsgrenzwert
-angegeben, so kann der höchstzulässige Restgehalt unberücksichtigt
-bleiben, wenn der spezifische Migrationsgrenzwert eingehalten ist.
+Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
 
 ## § 7 Verwendungsverbote
@@ -551,57 +575,11 @@ daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
 
 ## § 8 Übergang von Stoffen auf Lebensmittel
 
-(1) Bei Lebensmittelbedarfsgegenständen aus Kunststoff dürfen die in
-der Anlage 3 Abschnitt 1 oder 2 genannten Stoffe, die von den
-Bedarfsgegenständen auf Lebensmittel übergehen, die in Anlage 3
-Abschnitt 1 oder 2 jeweils in Spalte 4 angegebenen spezifischen
-Migrationswerte nicht überschreiten. Die in Anlage 3 Abschnitt 5
-aufgeführten Spezifikationen und Reinheitsanforderungen und die in
-Anlage 3 Abschnitt 6 aufgeführten Bemerkungen sind zu berücksichtigen.
-Ist in Anlage 3 Abschnitt 1 oder 2 Spalte 4 für einen Stoff außer
-einem spezifischen Migrationsgrenzwert auch ein höchstzulässiger
-Restgehalt angegeben, so kann der spezifische Migrationswert
-unberücksichtigt bleiben, wenn der höchstzulässige Restgehalt nicht
-überschritten wird.
+(1) (weggefallen)
 
-(1a) Soweit für einen Lebensmittelbedarfsgegenstand aus Kunststoff mit
-einer funktionellen Barriere in einer oder mehreren Schichten, die
-nicht unmittelbar mit Lebensmitteln in Berührung kommen und von diesen
-durch die funktionelle Barriere getrennt sind, andere als die in
-Anlage 3 Abschnitt 1, 2 oder 4 genannten Stoffe verwendet werden, darf
-die Migration dieser Stoffe 0,01 Milligramm pro Kilogramm des
-Lebensmittels oder Simulanzlösemittels nicht überschreiten. Die
-Migration wird bestimmt mit einer Analysenmethode nach Artikel 11 der
-Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates
-vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der
-Einhaltung des Lebensmittel- und Futtermittelrechts sowie der
-Bestimmungen über Tiergesundheit und Tierschutz (ABl. EU Nr. L 165 S.
-1) in der jeweils geltenden Fassung. Der Migrationswert ist in
-Milligramm pro Kilogramm des Lebensmittels oder Simulanzlösemittels
-anzugeben. Er gilt für eine Gruppe von Verbindungen, sofern sie
-strukturell und toxikologisch verwandt sind, insbesondere Isomere oder
-Verbindungen derselben relevanten funktionellen Gruppe, und
-berücksichtigt eine etwaige Übertragung durch Abklatsch.
+(1a) (weggefallen)
 
-(1b) Sofern es sich bei den Additiven im Sinne des § 4 Absatz 3 Satz 1
-und Absatz 3a um zugelassene Stoffe nach Maßgabe der Zusatzstoff-
-Zulassungsverordnung oder um Aromen nach der Aromenverordnung handelt,
-dürfen diese Stoffe nicht aus dem Lebensmittelbedarfsgegenstand aus
-Kunststoff in Mengen auf Lebensmittel übergehen,
-
-1.  die eine technologische oder aromatisierende Wirkung in dem
-    verzehrsfertigen Lebensmittel ausüben und
-
-
-2.  die dazu führen, dass der aus ihrer Verwendung als Zusatzstoff oder
-    Aroma resultierende Gehalt in dem verzehrsfertigen Lebensmittel die in
-    der Zusatzstoff-Zulassungsverordnung oder Aromenverordnung jeweils
-    festgelegten Höchstmengen oder in der Anlage 3 festgelegten Grenzwerte
-    überschritten werden, sofern solche festgelegt sind; es ist jeweils
-    die niedrigste Festlegung anzuwenden.
-
-
-
+(1b) (weggefallen)
 
 (1c) Bei den in Artikel 1 Abs. 2 in Verbindung mit Abs. 3 der
 Verordnung (EG) Nr. 1895/2005 der Kommission vom 18. November 2005
@@ -613,64 +591,41 @@ der Verordnung (EG) Nr. 1895/2005 aufgeführten Stoffe, die von den
 Materialien oder Gegenständen auf Lebensmittel übergehen, die dort
 festgesetzten spezifischen Migrationshöchstwerte nicht überschreiten.
 
-(1d) Eine Überprüfung der Einhaltung der spezifischen
-Migrationsgrenzwerte ist nicht erforderlich, wenn nachgewiesen werden
-kann, dass
+(1d) (weggefallen)
 
-1.  der nach Absatz 2 zu bestimmende Gesamtmigrationswert zu dem Ergebnis
-    führt, dass der spezifische Migrationswert nicht überschritten werden
-    kann, oder
-
-
-2.  unter der Annahme des vollständigen Übergangs der im Bedarfsgegenstand
-    enthaltenen Substanz der spezifische Migrationsgrenzwert nicht
-    überschritten werden kann.
-
-
-
-Die Einhaltung des spezifischen Migrationsgrenzwertes kann geprüft
-werden durch Bestimmung des Restgehaltes des Stoffes im
-Bedarfsgegenstand, sofern das Verhältnis zwischen dieser Menge und dem
-Wert der spezifischen Migration des betreffenden Stoffes entweder
-durch adäquate Untersuchungen oder durch Anwendung allgemein
-anerkannter, wissenschaftlich belegter Diffusionsmodelle festgelegt
-wurde und dieses rechnerisch berücksichtigt wird. Zum Nachweis, dass
-ein Bedarfsgegenstand den Bestimmungen nicht entspricht, ist die
-Bestätigung des berechneten Migrationswertes durch experimentelle
-Prüfung zwingend erforderlich.
-
-(2) Insgesamt dürfen von einem Lebensmittelbedarfsgegenstand aus
-Kunststoff Stoffe auf Lebensmittel oder Simulanzlösemittel nur bis zu
-einer Höchstmenge (Gesamtmigrationswert) von 60 Milligramm pro
-Kilogramm des Lebensmittels oder des Simulanzlösemittels übergehen.
-Die Höchstmenge beträgt jedoch 10 Milligramm pro Quadratdezimeter der
-Oberfläche des Lebensmittelbedarfsgegenstandes für
-
-1.  füllbare Lebensmittelbedarfsgegenstände mit einem Fassungsvermögen von
-    weniger als 500 Millilitern oder mehr als 10 Litern,
-
-
-2.  Platten, Folien oder andere nicht füllbare
-    Lebensmittelbedarfsgegenstände oder solche, bei denen das Verhältnis
-    der Kontaktfläche solcher Bedarfsgegenstände zu der mit ihr in
-    Berührung kommenden Lebensmittelmenge nicht ermittelt werden kann.
-
-
-
-Auf Lebensmittelbedarfsgegenstände, die dazu bestimmt sind, mit
-Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost oder anderer
-Beikost für Säuglinge und Kleinkinder in Berührung zu kommen oder die
-bereits mit solchen Lebensmitteln in Berührung sind, ist Satz 2 nicht
-anzuwenden.
+(2) (weggefallen)
 
 (3) Bei den in Anlage 6 aufgeführten Lebensmittelbedarfsgegenständen
 dürfen Anteile der dort genannten Stoffe, die von den
 Bedarfsgegenständen auf Lebensmittel übergehen, die dort angegebenen
 Höchstmengen nicht überschreiten.
 
-(4) Die Absätze 1 bis 3 gelten für Lebensmittelbedarfsgegenstände aus
-Zellglasfolien im Sinne des § 2 Nr. 2 Buchstabe c hinsichtlich der
-aufgebrachten Beschichtung entsprechend.
+(4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011
+in der jeweils geltenden Fassung gelten für
+Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
+hinsichtlich der Beschichtung entsprechend.
+
+(5) Bei bedruckten Lebensmittelbedarfsgegenständen dürfen die in
+Anlage 14 Tabelle 1 und 2 aufgeführten Stoffe die dort für sie in
+Spalte 6 oder 7 in Verbindung mit Anlage 14 Tabelle 3 jeweils
+festgelegten Grenzwerte für den Übergang auf Lebensmittel nicht
+überschreiten. Übergänge von Barium, Eisen, Kobalt, Kupfer, Lithium,
+Mangan und Zink sowie von primären aromatischen Aminen dürfen die in
+Anlage 14 Tabelle 4 jeweils festgelegten Grenzwerte nicht
+überschreiten.
+
+(6) In Anlage 14 Tabelle 1 aufgeführte Stoffe, für die in Anlage 14
+Tabelle 1 oder 3 kein spezifischer Migrationsgrenzwert, kein
+Gruppengrenzwert oder keine anderen Beschränkungen festgelegt sind,
+dürfen aus bedruckten Lebensmittelbedarfsgegenständen auf Lebensmittel
+jeweils nur bis zu einer Höchstmenge von 60 Milligramm pro Kilogramm
+des Lebensmittels übergehen.
+
+(7) Bei bedruckten Lebensmittelbedarfsgegenständen darf aus
+Druckfarben ein Übergang von Stoffen, die nach § 4 Absatz 7 verwendet
+werden, auf Lebensmittel nicht nachweisbar sein. Für andere Stoffe als
+solche in Form von Nanomaterialien gilt als nicht nachweisbar ein
+Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
 
 
 ## § 9 Warnhinweise
@@ -683,21 +638,7 @@ lesbar und in deutscher Sprache angegeben sind.
 
 ## § 10 Kennzeichnung, Nachweispflichten
 
-(1) Lebensmittelbedarfsgegenstände aus Kunststoff und die für deren
-Herstellung bestimmten Stoffe dürfen vorbehaltlich des Satzes 5
-gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine
-schriftliche Erklärung nach Maßgabe des Satzes 2 in deutscher Sprache
-beigefügt ist. Die Erklärung muss vom Hersteller oder dem für das
-erstmalige Inverkehrbringen Verantwortlichen ausgestellt sein und die
-Angaben nach Maßgabe der Anlage 12 enthalten. Der Hersteller oder der
-für das erstmalige Inverkehrbringen Verantwortliche hat den
-zuständigen Behörden auf Verlangen geeignete Unterlagen zur Verfügung
-zu stellen, die belegen, dass die Lebensmittelbedarfsgegenstände den
-Anforderungen dieser Verordnung genügen. Diese Unterlagen umfassen die
-ermittelten Ergebnisse und eine Beschreibung der Prüfbedingungen,
-Berechnungen, sonstige Analysen sowie Unbedenklichkeitsnachweise oder
-eine die Konformität beweisende Begründung. Satz 1 gilt nicht für das
-Inverkehrbringen im Einzelhandel.
+(1) (weggefallen)
 
 (1a) Lebensmittelbedarfsgegenstände aus Zellglasfolie dürfen
 gewerbsmäßig nur in den Verkehr gebracht werden, wenn ihnen eine
@@ -816,15 +757,38 @@ Die in Anlage 10 genannten Untersuchungen sind nach den dort
 aufgeführten Untersuchungsverfahren durchzuführen.
 
 
-## § 11a Ausnahmen für die Einfuhr
+## § 11a Besondere Vorschriften für die Einfuhr
 
-§ 15 Abs. 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend für
-die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die
-Stelle der Verbote des § 5 Abs. 1 Satz 1 des Lebensmittel- und
-Futtermittelgesetzbuches oder des Artikels 14 Abs. 2 Buchstabe a der
-Verordnung (EG) Nr. 178/2002 die Verbote des § 30 des Lebensmittel-
-und Futtermittelgesetzbuches oder des Artikels 3 Abs. 1 Buchstabe a
-der Verordnung (EG) Nr. 1935/2004 treten.
+(1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend
+für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die
+Stelle
+
+1.  des Verbotes des § 5 Absatz 1 Satz 1 des Lebensmittel- und
+    Futtermittelgesetzbuches das Verbot des § 30 Nummer 1 des
+    Lebensmittel- und Futtermittelgesetzbuches und
+
+
+2.  des Verbotes des Artikels 14 Absatz 2 Buchstabe a der Verordnung (EG)
+    Nr. 178/2002 das Verbot des § 30 Nummer 2 des Lebensmittel- und
+    Futtermittelgesetzbuches
+
+
+
+tritt.
+
+(2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in
+Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011
+der Kommission vom 22. März 2011 mit besonderen Bedingungen und
+detaillierten Verfahren für die Einfuhr von Polyamid- und Melamin-
+Kunststoffküchenartikeln, deren Ursprung oder Herkunft die
+Volksrepublik China oder die Sonderverwaltungsregion Hongkong, China,
+ist (ABl. L 77 vom 23.3.2011, S. 25) dürfen aus Drittländern nur über
+einen der benannten spezifischen Orte der ersten Einführung im Sinne
+des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die
+Liste der benannten spezifischen Orte der ersten Einführung im Sinne
+des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und
+nachrichtlich auf seiner Internetseite bekannt.
 
 
 ## § 12 Straftaten und Ordnungswidrigkeiten
@@ -856,46 +820,11 @@ fahrlässig
     verwendet,
 
 
-3.  entgegen § 4 Abs. 2 Satz 1, auch in Verbindung mit Satz 5, bei dem
-    Herstellen von Lebensmittelbedarfsgegenständen
-
-    a)  einen anderen als in Anlage 3 Abschnitt 1 aufgeführten Stoff als
-        Monomer oder sonstigen Ausgangsstoff oder
+3.  entgegen § 4 Absatz 2 Satz 1 oder Absatz 5 Satz 1, 2 oder 4 einen dort
+    genannten Stoff verwendet oder
 
 
-    b)  einen in Anlage 3 Abschnitt 1 aufgeführten Stoff ohne Einhaltung der
-        dort genannten Beschränkungen
-
-
-
-
-    verwendet,
-
-
-4.  entgegen § 4 Absatz 3 Satz 1 in Verbindung mit Satz 2 Nummer 1
-    Buchstabe a oder Buchstabe c oder Nummer 2, jeweils auch in Verbindung
-    mit Satz 4, bei dem gewerbsmäßigen Herstellen von
-    Lebensmittelbedarfsgegenständen einen dort genannten Stoff verwendet,
-
-
-5.  entgegen § 4 Absatz 3a Satz 1 in Verbindung mit Absatz 3 Satz 2 Nummer
-    1 Buchstabe a oder Buchstabe c, jeweils auch in Verbindung mit Absatz
-    3a Satz 2, bei dem gewerbsmäßigen Herstellen von
-    Lebensmittelbedarfsgegenständen einen dort genannten Stoff verwendet,
-
-
-6.  entgegen § 4 Abs. 4 Satz 1 bei dem Herstellen von
-    Lebensmittelbedarfsgegenständen aus durch bakterielle Fermentation
-    gewonnenen Erzeugnissen einen anderen als den dort genannten Stoff
-    verwendet,
-
-
-6a. entgegen § 4 Abs. 5 Satz 2 bei dem Herstellen von
-    Lebensmittelbedarfsgegenständen einen dort genannten Stoff verwendet
-    oder
-
-
-7.  entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten
+4.  entgegen § 5 bei dem Herstellen der in Anlage 4 aufgeführten
     Bedarfsgegenstände dort genannte Verfahren anwendet.
 
 
@@ -956,13 +885,12 @@ versehen sind.
 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
 vorsätzlich oder fahrlässig
 
-1.  entgegen § 10 Absatz 1 Satz 1, Absatz 1a Satz 1, auch in Verbindung
-    mit Absatz 2, oder Absatz 2a Satz 1 einen
-    Lebensmittelbedarfsgegenstand gewerbsmäßig in den Verkehr bringt,
+1.  entgegen § 10 Absatz 1a Satz 1, auch in Verbindung mit Absatz 2, oder
+    Absatz 2a Satz 1 einen Lebensmittelbedarfsgegenstand gewerbsmäßig in
+    den Verkehr bringt,
 
 
-2.  entgegen § 10 Absatz 1 Satz 3 und 4 Unterlagen nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+2.  (weggefallen)
 
 
 3.  entgegen § 10 Absatz 2 Satz 3 und 4 Nachweise nicht, nicht richtig
@@ -995,11 +923,16 @@ oder fahrlässig
 
     a)  entgegen Artikel 15 Absatz 1 in Verbindung mit Absatz 3 Materialien
         oder Gegenstände nicht, nicht richtig, nicht vollständig, nicht in der
-        vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet oder
+        vorgeschriebenen Weise oder nicht rechtzeitig kennzeichnet,
 
 
     b)  entgegen Artikel 17 Absatz 2 Satz 1 nicht über ein System oder
-        Verfahren verfügt.
+        Verfahren verfügt oder
+
+
+    c)  als Unternehmer entgegen Artikel 17 Absatz 2 Satz 2 eine Angabe nicht,
+        nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
+        stellt.
 
 
 
@@ -1174,14 +1107,9 @@ Verkehr gebracht werden:
 
 
 
-(10) Bedarfsgegenstände nach Anlage 4 Nr. 1 Buchstabe b, die vor dem
-8\. Juli 2008 hergestellt oder eingeführt worden sind und den bis dahin
-geltenden Rechtsvorschriften entsprechen, dürfen noch bis zum 1. April
-2009 in den Verkehr gebracht werden.
+(10) (weggefallen)
 
-(11) Bedarfsgegenstände nach Anlage 7 Nr. 2, die nicht den dort
-genannten Warnhinweis tragen, dürfen noch bis zum Ablauf des 31.
-August 2009 in den Verkehr gebracht werden.
+(11) (weggefallen)
 
 (12) Lebensmittelbedarfsgegenstände aus Kunststoff und
 Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
@@ -1202,11 +1130,27 @@ genannten Lebensmittelbedarfsgegenstände der Stoff
 worden ist. Lebensmittelbedarfsgegenstände nach Satz 1 dürfen noch bis
 zum 1. November 2011 in den Verkehr gebracht werden.
 
-(14) Trinkflaschen aus Kunststoff, die für Säuglinge bestimmt sind und
-den Vorschriften dieser Verordnung in der bis zum 11. Februar 2011
-geltenden Fassung entsprechen, dürfen noch bis zum 28. Februar 2011
-hergestellt und bis zum 31. Mai 2011 eingeführt und in den Verkehr
-gebracht werden.
+(14) (weggefallen)
+
+(15) Bedruckte Lebensmittelbedarfsgegenstände, die nach den bis zum
+Ablauf des 31. Dezember 2025 geltenden Vorschriften in den Verkehr
+gebracht worden sind, dürfen auch nach diesem Datum noch bis zum Abbau
+der Bestände nach Maßgabe dieser Vorschriften in den Verkehr gebracht
+werden.
+
+(16) § 2 Satz 1 Nummer 7 bis 13, Satz 2 und 3, § 4 Absatz 5 bis 11, §
+8 Absatz 5 bis 7 und § 12 Absatz 2 Nummer 3 sind erst ab dem 1. Januar
+2026 anzuwenden.
+
+(17) In § 4 Absatz 7 Satz 4 bezeichnete, unter Verwendung von in
+Anlage 14 Tabelle 2 genannten Pigmenten bedruckte
+Lebensmittelbedarfsgegenstände, die nach den bis zum Ablauf des 31.
+Dezember 2026 geltenden Vorschriften in den Verkehr gebracht worden
+sind, dürfen auch nach diesem Datum noch bis zum Abbau der Bestände
+nach Maßgabe dieser Vorschriften in den Verkehr gebracht werden.
+
+(18) § 4 Absatz 9 in Verbindung mit Anlage 14 Tabelle 2 ist ab dem 1.
+Januar 2027 nicht mehr anzuwenden.
 
 
 ## § 17 (Inkrafttreten)
@@ -1218,10 +1162,11 @@ gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 3)
 
-## Anlage 1 (zu § 3) Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
+## Anlage 1 Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 10 - 11;
+(Fundstelle: BGBl. I 1998, 10 - 11;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
@@ -1598,28 +1543,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9.
 
-    *   Lebensmittelbedarfsgegenstände aus Kunststoff
+    *   Materialien und Gegenstände aus Kunststoff im Sinne des Artikels 3
+        Nummer 1 der Verordnung (EU) Nr. 10/2011 und
+        Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
+        hinsichtlich der Beschichtung
 
-    *   Azodicarbonamid
-        CAS.-Nr. 000123-77-3
-        Ref.-Nr. 36640
+    *   2,4,4´-Trichlor-2´-hydroxydiphenylether
+        CAS-Nr.
+        0003380-34-5
+        PEM/REF-Nr. 93930
 
 
 *    *   10.
 
-    *   Lebensmittelbedarfsgegenstände aus Kunststoff und
-        Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c
-        hinsichtlich der aufzubringenden Beschichtung
+    *   (weggefallen)
 
-    *   2,4,4'-Trichlor-2'-hydroxydiphenylether
-        CAS-Nr. 0003380-34-5
-        PEM/REF-Nr. 93930
+    *
 
 
 
+   zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1
 
-
-## Anlage 2 zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
+## Anlage 2 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
 
 
 *    *   (Fundstelle des Originaltextes: BGBl. I 1998, 12 - 21;
@@ -2870,10998 +2815,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-## Anlage 3 (zu § 4 Abs. 2 bis 4, § 6 Nr. 2 und § 8 Abs. 1, 1a und 1b) Stoffe und Erzeugnisse für die Herstellung von Lebensmittelbedarfsgegenständen
+## Anlage 3 (weggefallen)
 
-(Fundstelle: BGBl. I 2003, 489 - 516;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(zu § 5)
 
-Inhaltsübersicht
-##
-
-*    *   Erläuterungen zu den Tabellen
-
-
-*    *   Abschnitt 1
-
-    *   Monomere und sonstige Ausgangsstoffe
-
-
-*    *   Teil A
-
-    *   Verzeichnis der Monomere und sonstigen Ausgangsstoffe, die für die
-        Herstellung von Lebensmittelbedarfsgegenständen aus Kunststoff
-        zugelassen sind.
-
-
-*    *   Teil B
-
-    *   Verzeichnis der Monomere und sonstigen Ausgangsstoffe, die für die
-        Herstellung von Lebensmittelbedarfsgegenständen aus Kunststoff
-        zugelassen sind und die nur bis zum 31. Dezember 2004 verwendet werden
-        dürfen.
-
-
-*    *   Abschnitt 2
-
-    *   Additive
-
-
-*    *   Teil A
-
-    *   Verzeichnis der Additive, die für die Herstellung von
-        Lebensmittelbedarfsgegenständen aus Kunststoff zugelassen sind.
-
-
-*    *   Teil B
-
-    *   Verzeichnis der Additive, die für die Herstellung von
-        Lebensmittelbedarfsgegenständen aus Kunststoff zugelassen sind und für
-        die spezifische Migrationsgrenzwerte bei der Prüfung mit dem
-        Simulanzlösemittel D oder den Testmedien für Ersatzprüfungen ab dem 1.
-        Mai 2008 gelten.
-
-
-*    *   Abschnitt 3
-
-    *   (weggefallen)
-
-
-*    *   Abschnitt 4
-
-    *   Durch bakterielle Fermentation gewonnene Erzeugnisse, die zur
-        Herstellung von Lebensmittelbedarfsgegenständen verwendet werden
-        dürfen.
-
-
-*    *   Abschnitt 5
-
-    *   Spezifikationen/Reinheitsanforderungen für bestimmte Monomere und
-        sonstige Ausgangsstoffe sowie für bestimmte Additive.
-
-
-*    *   Teil A
-
-    *   Allgemeine Spezifikationen/Reinheitsanforderungen
-
-
-*    *   Teil B
-
-    *   Besondere Spezifikationen/Reinheitsanforderungen
-
-
-*    *   Abschnitt 6
-
-    *   Anmerkungen zu bestimmten Monomeren, sonstigen Ausgangsstoffen und
-        Additiven
-
-
-
-
-Erläuterungen zu den Tabellen
-##
-
-*    *   Spalte
-
-    *   Bezeichnung
-
-    *   Erläuterung
-
-
-*    *   1
-
-    *   PM/REF-Nr.:
-
-    *   EWG-Verpackungsmaterial-Referenznummer der gelisteten Stoffe
-
-
-*    *   2
-
-    *   CAS-Nr.:
-
-    *   Chemical Abstract Service Nummer
-
-
-*    *   3
-
-    *   Bezeichnung
-
-    *   Gehört ein in dieser Spalte als Einzelverbindung aufgeführter Stoff
-        auch zu einer chemischen Gruppe, gelten für ihn die Beschränkungen,
-        die bei der entsprechenden Einzelverbindung angegeben sind. Stimmen
-        die CAS-Nummer und die chemische Bezeichnung nicht überein, so hat die
-        chemische Bezeichnung gegenüber der CAS-Nummer den Vorrang. Bei
-        Widersprüchen zwischen der CAS-Nummer des EINECS-Registers und des
-        CAS-Registers gilt die CAS-Nummer des CAS-Registers.
-
-
-*    *   4
-
-    *   Beschränkungen
-
-    *   Die SML-Werte sind in Milligramm pro Kilogramm (mg/kg) angegeben. In
-        den folgenden Fällen sind diese Werte jedoch in Milligramm pro
-        Quadratdezimeter zu berechnen (zur Umrechnung werden die in Milligramm
-        pro Kilogramm angegebenen SML-Werte durch den Umrechnungsfaktor 6
-        dividiert):
-
-        a)  füllbare Bedarfsgegenstände mit einem Fassungsvermögen von weniger als
-            500 Millilitern oder mehr als 10 Litern;
-
-
-        b)  Platten, Folien oder andere nicht füllbare Bedarfsgegenstände oder
-            solche, bei denen das Verhältnis der Kontaktfläche solcher
-            Bedarfsgegenstände zu der mit ihr in Berührung kommenden
-            Lebensmittelmenge nicht ermittelt werden kann.
-
-
-
-        Bei Lebensmittelbedarfsgegenständen, die dazu bestimmt sind, mit
-        Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost oder anderer
-        Beikost für Säuglinge und Kleinkinder in Berührung zu kommen oder die
-        bereits mit solchen Lebensmitteln in Berührung sind, sind die SML-
-        Werte in Milligramm pro Kilogramm des Lebensmittels oder
-        Simulanzlösemittels anzugeben. Die in dieser Spalte verwendeten
-        Abkürzungen oder Ausdrücke haben folgende Bedeutung:
-
-
-*    *   NG
-
-    *   = Nachweisgrenze der Analysenmethode; Analysentoleranz inbegriffen;
-
-
-*    *   BG
-
-    *   = Bedarfsgegenstand;
-
-
-*    *   NCO
-
-    *   = Isocyanat-Gruppe;
-
-
-*    *   NN
-
-    *   = nicht nachweisbar. Im Sinne dieser Verordnung bedeutet "nicht
-        nachweisbar", dass der Stoff mit einer validierten Analysenmethode
-        nicht nachgewiesen werden kann. Diese Methode muss eine
-        Empfindlichkeit besitzen, wie sie für den jeweiligen Stoff aufgeführt
-        ist. Gibt es gegenwärtig keine solche Methode, kann eine
-        Analysenmethode mit einer geeigneten Empfindlichkeit angewandt werden,
-        bis eine validierte Methode entwickelt worden ist;
-
-
-*    *   QM
-
-    *   = höchstzulässiger Restgehalt des Stoffes im Bedarfsgegenstand. Im
-        Sinne dieser Verordnung ist die in dem Bedarfsgegenstand enthaltene
-        Menge des Stoffes durch Messung mit einer validierten Analysenmethode
-        zu bestimmen. Solange eine solche Methode nicht zur Verfügung steht,
-        kann eine Analysenmethode mit einer geeigneten Empfindlichkeit, die
-        die Bestimmung des angegebenen Grenzwertes ermöglicht, angewandt
-        werden, bis eine validierte Methode entwickelt worden ist;
-
-
-*    *   QM(T)
-
-    *   = höchstzulässiger Restgehalt des Stoffes im Bedarfsgegenstand,
-        ausgedrückt als Gesamtgehalt der angegebenen Substanz(en) der
-        Stoffgruppe. Im Sinne dieser Verordnung ist die in dem
-        Bedarfsgegenstand enthaltene Menge des Stoffes durch Messung mit einer
-        validierten Analysenmethode zu bestimmen. Solange eine solche Methode
-        nicht zur Verfügung steht, kann eine Analysenmethode mit einer
-        geeigneten Empfindlichkeit, die die Bestimmung des angegebenen
-        Grenzwertes ermöglicht, angewandt werden, bis eine validierte Methode
-        entwickelt worden ist;
-
-
-*    *   QMA
-
-    *   = höchstzulässiger Restgehalt des Stoffes im fertigen
-        Bedarfsgegenstand, in mg/6 qdm der Kontaktfläche mit dem Lebensmittel.
-        Im Sinne dieser Verordnung ist die in dem Bedarfsgegenstand enthaltene
-        Menge des Stoffes durch Messung mit einer validierten Analysenmethode
-        zu bestimmen. Solange eine solche Methode nicht zur Verfügung steht,
-        kann eine Analysenmethode mit einer geeigneten Empfindlichkeit, die
-        die Bestimmung des angegebenen Grenzwertes ermöglicht, angewandt
-        werden, bis eine validierte Methode entwickelt worden ist;
-
-
-*    *   QMA(T)
-
-    *   = höchstzulässiger Restgehalt des Stoffes im Bedarfsgegenstand,
-        ausgedrückt als Gesamtgehalt der angegebenen Substanz(en) der
-        Stoffgruppe in mg/6 qdm der Kontaktfläche mit dem Lebensmittel. Im
-        Sinne dieser Verordnung ist die in dem Bedarfsgegenstand enthaltene
-        Menge des Stoffes durch Messung mit einer validierten Analysenmethode
-        zu bestimmen. Solange eine solche Methode nicht zur Verfügung steht,
-        kann eine Analysenmethode mit einer geeigneten Empfindlichkeit, die
-        die Bestimmung des angegebenen Grenzwertes ermöglicht, angewandt
-        werden, bis eine validierte Methode entwickelt worden ist;
-
-
-*    *   SML
-
-    *   = spezifischer Migrationsgrenzwert in Lebensmitteln oder in
-        Lebensmittelstimulanzien, sofern nicht anders angegeben. Im Sinne
-        dieser Verordnung ist der spezifische Migrationsgrenzwert mit einer
-        validierten Analysenmethode zu bestimmen. Gibt es gegenwärtig keine
-        solche Methode, kann eine Analysenmethode mit einer geeigneten
-        Empfindlichkeit, die die Bestimmung des angegebenen Grenzwertes
-        ermöglicht, angewandt werden, bis eine validierte Methode entwickelt
-        worden ist;
-
-
-*    *   SML(T)
-
-    *   = spezifischer Migrationsgrenzwert in Lebensmitteln oder
-        Lebensmittelsimulanzien, ausgedrückt als Gesamtgehalt der angegebenen
-        Substanz(en) der Stoffgruppe. Im Sinne dieser Verordnung ist der
-        spezifische Migrationsgrenzwert der Substanzen durch Messung mit einer
-        validierten Analysenmethode zu bestimmen. Solange eine solche Methode
-        nicht zur Verfügung steht, kann eine Analysenmethode mit einer
-        geeigneten Empfindlichkeit, die die Bestimmung des angegebenen
-        Grenzwertes ermöglicht, angewandt werden, bis eine validierte Methode
-        entwickelt worden ist.
-
-
-*    *   (...)
-
-    *   Die Zahlen oder Buchstaben in eckigen Klammern beziehen sich auf die
-        zu diesem Stoff gehörenden Anmerkungen in Anlage 3 Abschnitt 6.
-
-
-
-
-Abschnitt 1
-Monomere und sonstige Ausgangsstoffe
-****                 (zu § 4 Abs. 2, § 6 Nr. 2 und § 8 Abs. 1, 1a und
-1b)
-##
-
-*    *   Der Abschnitt umfasst:
-
-        -   Stoffe, die polymerisiert werden; dies schließt Polykondensation,
-            Polyaddition oder vergleichbare Prozesse zur Bildung von
-            Makromolekülen mit ein;
-
-
-        -   natürliche oder künstlich erzeugte makromolekulare Stoffe, die bei der
-            Herstellung modifizierter Makromoleküle verwendet werden, sofern die
-            Monomere oder die zu deren Synthese notwendigen sonstigen
-            Ausgangsstoffe nicht im Verzeichnis aufgeführt sind;
-
-
-        -   Stoffe, die zur Modifizierung bestehender natürlicher oder künstlich
-            erzeugter makromolekularer Stoffe verwendet werden.
-
-
-
-
-
-*    *   Die Verwendung folgender, nicht in den Verzeichnissen aufgeführter
-        Stoffe ist zulässig:
-
-        1.  Salze, wobei Doppelsalze und saure Salze eingeschlossen sind, des
-            Aluminiums, Ammoniums, Calciums, Eisens, Magnesiums, Kaliums und
-            Natriums der zulässigen Säuren, Phenole oder Alkohole. Jedoch
-            erscheint die Bezeichnung "... Säure(n), Salze" in den Verzeichnissen,
-            wenn die zugehörige(n) freie(n) Säure(n) nicht aufgeführt ist (sind);
-
-
-        2.  Salze, wobei Doppelsalze und saure Salze eingeschlossen sind, des
-            Zinks der zulässigen Säuren, Phenole oder Alkohole. Für diese Salze
-            gilt ein spezifischer Gruppenmigrationsgrenzwert = 25 mg/kg (berechnet
-            als Zink). Die Einschränkung für Zink gilt auch für:
-
-            a)  Stoffe, deren Bezeichnung "... Säure(n), Salze" enthält und die in den
-                Verzeichnissen aufgeführt sind, sofern die zugehörige(n) freie(n)
-                Säure(n) nicht aufgeführt ist (sind);
-
-
-            b)  Stoffe gemäß Abschnitt 6 Nr. 38.
-
-
-
-
-
-
-
-
-*    *   Der Abschnitt umfasst nicht:
-
-        -   Reaktionszwischenprodukte;
-
-
-        -   Abbauprodukte;
-
-
-        -   Verunreinigungen in den verwendeten Stoffen;
-
-
-        -   Oligomere und natürliche oder synthetische Polymere sowie deren
-            Mischungen, wenn die Monomere oder die zu ihrer Synthese benötigten
-            Ausgangsstoffe im Verzeichnis aufgeführt sind;
-
-
-        -   Gemische der zugelassenen Stoffe.
-
-
-
-
-
-
-
-Teil A
-## Verzeichnis der Monomere und sonstigen Ausgangsstoffe, die für die
-Herstellung von Lebensmittelbedarfsgegenständen aus Kunststoff
-zugelassen sind
-
-*    *   PM/REF-Nr.
-
-    *   CAS-Nr.
-
-    *   Bezeichnung
-
-    *   Beschränkungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   10030
-
-    *   000514-10-3
-
-    *   Abietinsäure
-
-    *
-    *
-
-*    *   10060
-
-    *   000075-07-0
-
-    *   Acetaldehyd
-
-    *   SML(T) = 6 mg/kg
-
-    *   [2]
-
-
-*    *   10090
-
-    *   000064-19-7
-
-    *   Essigsäure
-
-    *
-    *
-
-*    *   10120
-
-    *   000108-05-4
-
-    *   Vinylacetat
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   10150
-
-    *   000108-24-7
-
-    *   Essigsäureanhydrid
-
-    *
-    *
-
-*    *   10210
-
-    *   000074-86-2
-
-    *   Acetylen
-
-    *
-    *
-
-*    *   10599/90A
-
-    *   061788-89-4
-
-    *   Dimere von ungesättigten Fettsäuren (C(tief)18), destilliert
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [27]
-
-
-*    *   10599/91
-
-    *   061788-89-4
-
-    *   Dimere von ungesättigten Fettsäuren (C(tief)18), nicht destilliert
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [27]
-
-
-*    *   10599/92A
-
-    *   068783-41-5
-
-    *   Dimere, von ungesättigten Fettsäuren (C(tief)18), hydriert,
-        destilliert
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [27]
-
-
-*    *   10599/93
-
-    *   068783-41-5
-
-    *   Dimere, von ungesättigten Fettsäuren (C(tief)18), hydriert, nicht
-        destilliert
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [27]
-
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *   10630
-
-    *   000079-06-1
-
-    *   Acrylamid
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   10660
-
-    *   015214-89-8
-
-    *   2-Acrylamido-2-methylpropan-sulfonsäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   10690
-
-    *   000079-10-7
-
-    *   Acrylsäure
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   10750
-
-    *   002495-35-4
-
-    *   Benzylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   10780
-
-    *   000141-32-2
-
-    *   n-Butylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   10810
-
-    *   002998-08-5
-
-    *   sec-Butylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   10840
-
-    *   001663-39-4
-
-    *   tert-Butylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11005
-
-    *   012542-30-2
-
-    *   Dicyclopentenylacrylat
-
-    *   QMA = 0,05 mg/6 qdm
-
-    *
-
-*    *   11245
-
-    *   002156-97-0
-
-    *   Dodecylacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *   [1]
-
-
-*    *   11470
-
-    *   000140-88-5
-
-    *   Ethylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11500
-
-    *   000103-11-7
-
-    *   2-Ethylhexylacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   11510
-
-    *   000818-61-1
-
-    *   Hydroxyethylacrylat Siehe auch Ethylenglykolmonoacrylat
-
-    *
-    *
-
-*    *   11530
-
-    *   000999-61-1
-
-    *   2-Hydroxypropylacrylat
-
-    *   QMA = 0,05 mg/6 qdm für die Summe von 2-Hydroxypropylacrylat und
-        2-Hydroxyisopropylacrylat 1)
-
-    *
-
-*    *   11590
-
-    *   000106-63-8
-
-    *   iso-Butylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11680
-
-    *   000689-12-3
-
-    *   iso-Propylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11710
-
-    *   000096-33-3
-
-    *   Methylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11830
-
-    *   000818-61-1
-
-    *   Ethylenglykolmonoacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11890
-
-    *   002499-59-4
-
-    *   n-Octylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   11980
-
-    *   000925-60-0
-
-    *   Propylacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [36]
-
-
-*    *   12100
-
-    *   000107-13-1
-
-    *   Acrylnitril
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   12130
-
-    *   000124-04-9
-
-    *   Adipinsäure
-
-    *
-    *
-
-*    *   12265
-
-    *   004074-90-2
-
-    *   Divinyladipat
-
-    *   QM = 5 mg/kg in BG Nur zur Verwendung als Comonomer.
-
-    *
-
-*    *   12280
-
-    *   002035-75-8
-
-    *   Adipinsäureanhydrid
-
-    *
-    *
-
-*    *   12310
-
-    *   -
-
-    *   Albumin
-
-    *
-    *
-
-*    *   12340
-
-    *
-    *   Albumin, durch Formaldehyd koaguliert
-
-    *
-    *
-
-*    *   12375
-
-    *
-    *   Alkohole, aliphatische, einwertige, gesättigte, geradkettige, primäre
-        (C(tief)4 - C(tief)22)
-
-    *
-    *
-
-*    *   12670
-
-    *   002855-13-2
-
-    *   1-Amino-3-aminomethyl-3, 5,5-trimethylcyclohexan
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   12761
-
-    *   000693-57-2
-
-    *   12-Aminododecansäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   12763
-
-    *   00141-43-5
-
-    *   2-Aminoethanol
-
-    *   SML = 0,05 mg/kg. Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG des Rates vom 19. Dezember 1985 über die Liste der
-        Simulanzlösemittel für die Migrationsuntersuchungen von Materialien
-        und Gegenständen aus Kunststoff, die dazu bestimmt sind, mit
-        Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 372 S. 14),
-        festgesetzt ist und nur für indirekten Kontakt mit Lebensmitteln,
-        hinter der PET-Schicht.
-
-    *
-
-*    *   12765
-
-    *   84434-12-8
-
-    *   Natrium-N-(2-aminoethyl)-betaalaninat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   12786
-
-    *   000919-30-2
-
-    *   3-Aminopropyltriethoxysilan
-
-    *   Extrahierbare Rückstände an 3-Aminopropyltriethoxysilan im Falle einer
-        Verwendung für die reaktive Oberflächenbehandlung anorganischer
-        Füllstoffe unter 3 mg/kg Füllstoff und SML = 0,05 mg/kg für die
-        Oberflächenbehandlung von Materialien und Gegenständen
-
-    *
-
-*    *   12788
-
-    *   002432-99-7
-
-    *   11-Aminoundecansäure
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   12789
-
-    *   007664-41-7
-
-    *   Ammoniak
-
-    *
-    *
-
-*    *   12820
-
-    *   000123-99-9
-
-    *   Azelainsäure
-
-    *
-    *
-
-*    *   12970
-
-    *   004196-95-6
-
-    *   Azelainsäureanhydrid
-
-    *
-    *
-
-*    *   13000
-
-    *   001477-55-0
-
-    *   1,3-Benzoldimethanamin
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   13060
-
-    *   004422-95-1
-
-    *   1,3,5-Benzoltricarbonsäuretrichlorid
-
-    *   QMA = 0,05 mg/6 qdm (gemessen als 1,3,5-Benzoltricarbonsäure)
-
-    *
-
-*    *   13075
-
-    *   00091-76-9
-
-    *   Benzoguanamin
-
-    *   Siehe "2,4-Diamino-6-phenyl-1,3,5-triazin"
-
-    *
-
-*    *   13090
-
-    *   000065-85-0
-
-    *   Benzoesäure
-
-    *
-    *
-
-*    *   13150
-
-    *   000100-51-6
-
-    *   Benzylalkohol
-
-    *
-    *
-
-*    *   13180
-
-    *   000498-66-8
-
-    *   Bicyclo(2.2.1)hept-2-en (=Norbornen)
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   13210
-
-    *   001761-71-3
-
-    *   Bis(4-aminocyclohexyl) -methan
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   13317
-
-    *   132459-54-2
-
-    *   N,N’-Bis(4-(ethoxycarbonyl)phenyl)-1,4,5,8-naphthalintetracarboxydiimi
-        d
-
-    *   SML = 0,05 mg/kg. Reinheit > 98,1 Gew.-%. Nur als Comonomer (max. 4%)
-        für Polyester (PET, PBT) zu verwenden
-
-    *
-
-*    *   13323
-
-    *   000102-40-9
-
-    *   1,3-Bis(2-hydroxyethoxy)benzol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   13326
-
-    *   000111-46-6
-
-    *   Bis(2-hydroxyethyl) ether
-
-    *   Siehe "Diethylenglykol"
-
-    *
-
-*    *   13380
-
-    *   000077-99-6
-
-    *   2,2-Bis(hydroxymethyl)-1-butanol
-
-    *   Siehe "1,1,1-Trimethylolpropan"
-
-    *
-
-*    *   13390
-
-    *   000105-08-8
-
-    *   1,4-Bis(hydroxymethyl) cyclohexan
-
-    *
-    *
-
-*    *   13395
-
-    *   04767-03-7
-
-    *   2,2-Bis(hydroxymethyl) propionsäure
-
-    *   QMA = 0,05 mg/6 qdm
-
-    *
-
-*    *   13480
-
-    *   000080-05-7
-
-    *   2,2-Bis(4-hydroxyphenyl)-propan
-
-    *   SML (T) = 0,6 mg/kg. Darf nicht zur Herstellung von Trinkflaschen aus
-        Kunststoff verwendet werden, die für Säuglinge bestimmt sind. Als
-        Säuglinge gelten Kinder unter zwölf Monaten.
-
-    *   [28]
-
-
-*    *   13510
-
-    *   001675-54-3
-
-    *   2,2-Bis(4-hydroxyphenyl)-propan-bis (2,3-epoxypropyl)- ether (= BADGE)
-
-    *   Gemäß Verordnung (EG) Nr. 1895/2005
-
-    *
-
-*    *   13530
-
-    *   038103-06-9
-
-    *   2,2-Bis(4-hydroxyphenyl)-propan-bis (phthalsäureanhydrid)
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   13550
-
-    *   000110-98-5
-
-    *   Bis(hydroxypropyl)ether
-
-    *   Siehe "Dipropylenglykol"
-
-    *
-
-*    *   13560
-
-    *   005124-30-1
-
-    *   Bis(4-isocyanatocyclohexyl)-methan
-
-    *   Siehe "Dicyclohexylmethan- 4,4'-diisocyanat"
-
-    *
-
-*    *   13600
-
-    *   047465-97-4
-
-    *   3,3-Bis(3-methyl-4-hydroxy-phenyl)-2-indolinon
-
-    *   SML = 1,8 mg/kg
-
-    *
-
-*    *   13607
-
-    *   000080-05-7
-
-    *   Bisphenol A
-
-    *   Siehe "2,2-Bis(4-hydroxyphenyl)propan"
-
-    *
-
-*    *   13610
-
-    *   01675-54-3
-
-    *   Bisphenol A-bis(2,3-epoxypropyl)ether
-
-    *   Siehe "2,2-Bis(4-hydroxyphenyl)propan-bis(2,3-epoxypropyl)ether"
-
-    *
-
-*    *   13614
-
-    *   038103-06-9
-
-    *   Bisphenol A-bis(phthalsäureanhydrid)
-
-    *   Siehe "2,2-Bis(4-hydroxyphenyl)propanbis(phthalsäureanhydrid)"
-
-    *
-
-*    *   13617
-
-    *   00080-09-1
-
-    *   Bisphenol S
-
-    *   Siehe "4,4'-Dihydroxyphenylsulfon"
-
-    *
-
-*    *   13620
-
-    *   10043-35-3
-
-    *   Borsäure
-
-    *   SML(T) = 6 mg/kg
-        (berechnet als Bor) 1)
-
-    *   [23]
-
-
-*    *   13630
-
-    *   000106-99-0
-
-    *   Butadien
-
-    *   QM = 1 mg/kg in BG oder SML = NN (NG = 0,02 mg/kg, Analysentoleranz
-        inbegriffen)
-
-    *
-
-*    *   13690
-
-    *   000107-88-0
-
-    *   1,3-Butandiol
-
-    *
-    *
-
-*    *   13720
-
-    *   00110-63-4
-
-    *   1,4-Butandiol
-
-    *   SML(T) = 5 mg/kg
-
-    *   [24]
-
-
-*    *   13780
-
-    *   002425-79-8
-
-    *   1,4-Butandiol-bis (2,3-epoxypropyl)-ether
-
-    *   QM = 1 mg/kg in BG (berechnet als Epoxy, Molgewicht = 43)
-
-    *
-
-*    *   13810
-
-    *   00505-65-7
-
-    *   1,4-Butandiolformal
-
-    *   QMA = 0,05 mg/6 qdm
-
-    *
-
-*    *   13840
-
-    *   000071-36-3
-
-    *   1-Butanol
-
-    *
-    *
-
-*    *   13870
-
-    *   000106-98-9
-
-    *   1-Buten
-
-    *
-    *
-
-*    *   13900
-
-    *   000107-01-7
-
-    *   2-Buten
-
-    *
-    *
-
-*    *   13932
-
-    *   00598-32-3
-
-    *   3-Buten-2-ol
-
-    *   QMA = NN (NG = 0,02 mg/6 qdm) Nur zur Verwendung als für die
-        Herstellung von polymeren Additiven.
-
-    *
-
-*    *   14020
-
-    *   000098-54-4
-
-    *   4-tert-Butylphenol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   14110
-
-    *   000123-72-8
-
-    *   Butyraldehyd
-
-    *
-    *
-
-*    *   14140
-
-    *   000107-92-6
-
-    *   Buttersäure
-
-    *
-    *
-
-*    *   14170
-
-    *   000106-31-0
-
-    *   Buttersäureanhydrid
-
-    *
-    *
-
-*    *   14200
-
-    *   000105-60-2
-
-    *   Caprolactam
-
-    *   SML(T) = 15 mg/kg
-
-    *   [5]
-
-
-*    *   14230
-
-    *   002123-24-2
-
-    *   Caprolactam, Natriumsalz
-
-    *   SML(T) = 15 mg/kg
-        (berechnet als Caprolactam)
-
-    *   [5]
-
-
-*    *   14260
-
-    *   000502-44-3
-
-    *   Caprolacton
-
-    *   SML = 0,05 mg/kg (berechnet als Summe aus Caprolacton und
-        6-Hydroxyhexansäure)
-
-    *
-
-*    *   14320
-
-    *   000124-07-2
-
-    *   Caprylsäure
-
-    *
-    *
-
-*    *   14350
-
-    *   000630-08-0
-
-    *   Kohlenmonoxid
-
-    *
-    *
-
-*    *   14380
-
-    *   000075-44-5
-
-    *   Carbonylchlorid
-
-    *   QM = 1 mg/kg in BG
-
-    *
-
-*    *   14411
-
-    *   008001-79-4
-
-    *   Rizinusöl
-
-    *
-    *
-
-*    *   14500
-
-    *   009004-34-6
-
-    *   Cellulose
-
-    *
-    *
-
-*    *   14530
-
-    *   007782-50-5
-
-    *   Chlor
-
-    *
-    *
-
-*    *   14570
-
-    *   000106-89-8
-
-    *   1-Chlor-2,3-epoxypropan
-
-    *   Siehe "Epichlorhydrin"
-
-    *
-
-*    *   14627
-
-    *   0000117-21-5
-
-    *   3-Chlor-phthalsäureanhydrid
-
-    *   SML = 0,05 mg/kg (berechnet als 3-Chlorphthalsäure)
-
-    *
-
-*    *   14628
-
-    *   0000118-45-6
-
-    *   4-Chlor-phthalsäureanhydrid
-
-    *   SML = 0,05 mg/kg (berechnet als 4-Chlorphthalsäure)
-
-    *
-
-*    *   14650
-
-    *   000079-38-9
-
-    *   Chlortrifluorethylen
-
-    *   QMA = 0,5 mg/6 qdm
-
-    *
-
-*    *   14680
-
-    *   000077-92-9
-
-    *   Citronensäure
-
-    *
-    *
-
-*    *   14710
-
-    *   000108-39-4
-
-    *   m-Kresol
-
-    *
-    *
-
-*    *   14740
-
-    *   000095-48-7
-
-    *   o-Kresol
-
-    *
-    *
-
-*    *   14770
-
-    *   000106-44-5
-
-    *   p-Kresol
-
-    *
-    *
-
-*    *   14800
-
-    *   003724-65-0
-
-    *   Crotonsäure
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [33]
-
-
-*    *   14841
-
-    *   000599-64-4
-
-    *   4-Cumylphenol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   14876
-
-    *   0001076-97-7
-
-    *   Cyclohexan-1,4-dicarbonsäure
-
-    *   SML = 5 mg/kg. Nur zur Herstellung von Polyestern zu verwenden.
-
-    *
-
-*    *   14880
-
-    *   000105-08-8
-
-    *   1,4-Cyclohexandimethanol
-
-    *   Siehe "1,4-Bis(hydroxymethyl)cyclohexan"
-
-    *
-
-*    *   14950
-
-    *   003173-53-3
-
-    *   Cyclohexylisocyanat
-
-    *   QM(T) = 1 mg/kg in BG (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   15030
-
-    *   00931-88-4
-
-    *   Cycloocten
-
-    *   SML = 0,05 mg/kg Nur für Polymere in Kontakt mit Lebensmitteln, für
-        die das Simulanzlösemittel A in der Richtlinie 85/572/EWG festgesetzt
-        ist.
-
-    *
-
-*    *   15070
-
-    *   001647-16-1
-
-    *   1,9-Decadien
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   15095
-
-    *   000334-48-5
-
-    *   Decansäure
-
-    *
-    *
-
-*    *   15100
-
-    *   000112-30-1
-
-    *   1-Decanol
-
-    *
-    *
-
-*    *   15130
-
-    *   000872-05-9
-
-    *   1-Decen
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   15250
-
-    *   000110-60-1
-
-    *   1,4-Diaminobutan
-
-    *
-    *
-
-*    *   15267
-
-    *   000080-08-0
-
-    *   4,4'-Diaminodiphenylsulfon
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   15272
-
-    *   000107-15-3
-
-    *   1,2-Diaminoethan
-
-    *   Siehe "Ethylendiamin"
-
-    *
-
-*    *   15274
-
-    *   000124-09-4
-
-    *   1,6-Diaminohexan
-
-    *   Siehe "Hexamethylendiamin"
-
-    *
-
-*    *   15310
-
-    *   00091-76-9
-
-    *   2,4-Diamino-6-phenyl-1,3,5-triazin
-
-    *   QMA = 5 mg/6 qdm
-
-    *
-
-*    *   15404
-
-    *   000652-67-5
-
-    *   1,4:3,6-Dianhydrosorbitol
-
-    *   SML = 5 mg/kg. Nur zu verwenden als Comonomer in
-        Polyethylenisosorbidterephthalat.
-
-    *
-
-*    *   15565
-
-    *   000106-46-7
-
-    *   1,4-Dichlorbenzol
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   15610
-
-    *   00080-07-9
-
-    *   4,4'-Dichlorodiphenylsulfon
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   15700
-
-    *   005124-30-1
-
-    *   Dicyclohexylmethan-4,4'-diisocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   15760
-
-    *   000111-46-6
-
-    *   Diethylenglykol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [3]
-
-
-*    *   15790
-
-    *   000111-40-0
-
-    *   Diethylentriamin
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   15820
-
-    *   000345-92-6
-
-    *   4,4'-Difluorbenzophenon
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   15880
-
-    *   000120-80-9
-
-    *   1,2-Dihydroxybenzol
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   15910
-
-    *   000108-46-3
-
-    *   1,3-Dihydroxybenzol
-
-    *   SML = 2,4 mg/kg
-
-    *
-
-*    *   15940
-
-    *   000123-31-9
-
-    *   1,4-Dihydroxybenzol
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   15970
-
-    *   000611-99-4
-
-    *   4,4'-Dihydroxybenzophenon
-
-    *   SML = 6 mg/kg
-
-    *   [15]
-
-
-*    *   16000
-
-    *   000092-88-6
-
-    *   4,4'-Dihydroxybiphenyl
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   16090
-
-    *   00080-09-1
-
-    *   4,4'-Dihydroxydiphenylsulfon
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   16150
-
-    *   000108-01-0
-
-    *   Dimethylaminoethanol
-
-    *   SML = 18 mg/kg
-
-    *
-
-*    *   16210
-
-    *   006864-37-5
-
-    *   3,3'-Dimethyl-4,4'-diaminodicyclohexylmethan
-
-    *   SML = 0,05 mg/kg
-        Nur in Polyamiden zu verwenden
-
-    *   [32]
-
-
-*    *   16240
-
-    *   000091-97-4
-
-    *   3,3'-Dimethyl-4,4'-di-isocyanatobiphenyl
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   16360
-
-    *   000576-26-1
-
-    *   2,6-Dimethylphenol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   16390
-
-    *   00126-30-7
-
-    *   2,2-Dimethyl-1,3-propandiol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   16450
-
-    *   000646-06-0
-
-    *   1,3-Dioxolan
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   16480
-
-    *   000126-58-9
-
-    *   Dipentaerythrit
-
-    *
-    *
-
-*    *   16540
-
-    *   000102-09-0
-
-    *   Diphenylcarbonat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   16570
-
-    *   004128-73-8
-
-    *   Diphenylether-4,4'-di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   16600
-
-    *   005873-54-1
-
-    *   Diphenylmethan-2,4'- di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   16630
-
-    *   000101-68-8
-
-    *   Diphenylmethan-4,4'- di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   16650
-
-    *   00127-63-9
-
-    *   Diphenylsulfon
-
-    *   SML(T) = 3 mg/kg
-
-    *   [25]
-
-
-*    *   16660
-
-    *   000110-98-5
-
-    *   Dipropylenglykol
-
-    *
-    *
-
-*    *   16690
-
-    *   01321-74-0
-
-    *   Divinylbenzol
-
-    *   QMA = 0,01 mg/6 qdm oder SML = NN (NG = 0,02 mg/kg, Analysentoleranz
-        inbegriffen für die Summe aus Divinylbenzol und Ethylvinylbenzol;
-        entsprechend den Spezifikationen in Anlage 3 Abschnitt 5) 1)
-        Einhaltung dieser Beschränkung verpflichtend ab 1. März 2003
-
-    *
-
-*    *   16694
-
-    *   013811-50-2
-
-    *   N,N'-Divinyl-2-imidazolidinon
-
-    *   QM = 5 mg/kg in BG
-
-    *
-
-*    *   16697
-
-    *   00693-23-2
-
-    *   n-Dodecandisäure
-
-    *
-    *
-
-*    *   16704
-
-    *   000112-41-4
-
-    *   1-Dodecen
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   16750
-
-    *   000106-89-8
-
-    *   Epichlorhydrin
-
-    *   QM = 1 mg/kg in BG
-
-    *
-
-*    *   16780
-
-    *   000064-17-5
-
-    *   Ethanol
-
-    *
-    *
-
-*    *   16950
-
-    *   000074-85-1
-
-    *   Ethylen
-
-    *
-    *
-
-*    *   16955
-
-    *   000096-49-1
-
-    *   Ethylencarbonat
-
-    *   Rückstandsgehalt = 5 mg/kg Hydrogel bei einem Verhältnis von höchstens
-        10 g Hydrogel zu 1 kg Lebensmittel. Das Hydrolysat enthält
-        Ethylenglycol mit einem SML = 30 mg/kg
-
-    *
-
-*    *   16960
-
-    *   000107-15-3
-
-    *   Ethylendiamin
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   16990
-
-    *   000107-21-1
-
-    *   Ethylenglykol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [3]
-
-
-*    *   17005
-
-    *   000151-56-4
-
-    *   Ethylenimin
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   17020
-
-    *   000075-21-8
-
-    *   Ethylenoxid
-
-    *   QM = 1 mg/kg in BG
-
-    *
-
-*    *   17050
-
-    *   000104-76-7
-
-    *   2-Ethyl-1-hexanol
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   17110
-
-    *   016219-75-3
-
-    *   5-Ethylidenbicylclo-(2.2.1)-hept-2-en
-
-    *   QMA = 0,05 mg/6 qdm Das Verhältnis von Oberfläche zu Lebensmittelmenge
-        muss weniger als 2 qdm/kg betragen
-
-    *
-
-*    *   17160
-
-    *   000097-53-0
-
-    *   Eugenol
-
-    *   SML = NN (NG = 0,02 mg/kg Analysentoleranz inbegriffen)
-
-    *
-
-*    *   17170
-
-    *   061788-47-4
-
-    *   Kokosfettsäuren
-
-    *
-    *
-
-*    *   17200
-
-    *   068308-53-2
-
-    *   Sojafettsäuren
-
-    *
-    *
-
-*    *   17230
-
-    *   061790-12-3
-
-    *   Tallölfettsäuren
-
-    *
-    *
-
-*    *   17260
-
-    *   000050-00-0
-
-    *   Formaldehyd
-
-    *   SML = 15 mg/kg
-
-    *   [22]
-
-
-*    *   17290
-
-    *   000110-17-8
-
-    *   Fumarsäure
-
-    *
-    *
-
-*    *   17530
-
-    *   000050-99-7
-
-    *   Glucose
-
-    *
-    *
-
-*    *   18010
-
-    *   000110-94-1
-
-    *   Glutarsäure
-
-    *
-    *
-
-*    *   18070
-
-    *   000108-55-4
-
-    *   Glutarsäureanhydrid
-
-    *
-    *
-
-*    *   18100
-
-    *   000056-81-5
-
-    *   Glycerin
-
-    *
-    *
-
-*    *   18117
-
-    *   0000079-14-1
-
-    *   Glycolsäure
-
-    *   Nur für indirekten Kontakt mit Lebensmitteln hinter einer PET-Schicht.
-
-    *
-
-*    *   18220
-
-    *   068564-88-5
-
-    *   N-Heptylaminoundecansäure
-
-    *   SML = 0,05 mg/kg
-
-    *   [1]
-
-
-*    *   18250
-
-    *   000115-28-6
-
-    *   Hexachlorendomethylentetrahydrophthalsäure
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   18280
-
-    *   000115-27-5
-
-    *   Hexachlorendomethylen-
-
-    *   SML = NN
-
-    *
-
-*    *
-    *
-    *   tetrahydrophthal-
-
-    *   (NG = 0,01 mg/kg)
-
-    *
-
-*    *
-    *
-    *   säureanhydrid
-
-    *
-    *
-
-*    *   18310
-
-    *   036653-82-4
-
-    *   1-Hexadecanol
-
-    *
-    *
-
-*    *   18430
-
-    *   000116-15-4
-
-    *   Hexafluorpropylen
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   18460
-
-    *   000124-09-4
-
-    *   Hexamethylendiamin
-
-    *   SML = 2,4 mg/kg
-
-    *
-
-*    *   18640
-
-    *   000822-06-0
-
-    *   Hexamethylen-diisocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   18670
-
-    *   000100-97-0
-
-    *   Hexamethylentetramin
-
-    *   SML(T) = 15 mg/kg
-        (berechnet als Formaldehyd)
-
-    *   [22]
-
-
-*    *   18700
-
-    *   000629-11-8
-
-    *   1,6-Hexandiol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   18820
-
-    *   000592-41-6
-
-    *   1-Hexen
-
-    *   SML = 3 mg/kg
-
-    *
-
-*    *   18867
-
-    *   000123-31-9
-
-    *   Hydrochinon
-
-    *   Siehe "1,4-Dihydroxybenzol"
-
-    *
-
-*    *   18880
-
-    *   000099-96-7
-
-    *   p-Hydroxybenzoesäure
-
-    *
-    *
-
-*    *   18896
-
-    *   001679-51-2
-
-    *   4-(Hydroxymethyl)-1-cyclohexen
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   18897
-
-    *   16712-64-4
-
-    *   6-Hydroxy-2-naphtalincarbonsäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   18898
-
-    *   00103-90-2
-
-    *   N-(4-Hydroxyphenyl) acetamid
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   19000
-
-    *   000115-11-7
-
-    *   iso-Buten
-
-    *
-    *
-
-*    *   19060
-
-    *   000109-53-5
-
-    *   Isobutylvinylether
-
-    *   QM = 5 mg/kg in BG
-
-    *
-
-*    *   19110
-
-    *   04098-71-9
-
-    *   1-Isocyanato-3-iso-cyanatomethyl-3,5,5-trimethylcyclohexan
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   19150
-
-    *   000121-91-5
-
-    *   Isophthalsäure
-
-    *   SML (T) = 5 mg/kg [43]
-
-    *
-
-*    *   19180
-
-    *   000099-63-8
-
-    *   Isophthalsäuredichlorid
-
-    *   SML (T) = 5 mg/kg [43] (berechnet als Isophthalsäure)
-
-    *
-
-*    *   19210
-
-    *   001459-93-4
-
-    *   Dimethyl-iso-phthalat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   19243
-
-    *   000078-79-5
-
-    *   Isopren
-
-    *   Siehe "2-Methyl-1,3-butadien"
-
-    *
-
-*    *   19270
-
-    *   000097-65-4
-
-    *   Itaconsäure
-
-    *
-    *
-
-*    *   19460
-
-    *   000050-21-5
-
-    *   Milchsäure
-
-    *
-    *
-
-*    *   19470
-
-    *   000143-07-7
-
-    *   Laurinsäure
-
-    *
-    *
-
-*    *   19480
-
-    *   002146-71-6
-
-    *   Vinyllaurat
-
-    *
-    *
-
-*    *   19490
-
-    *   000947-04-6
-
-    *   Laurolactam
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   19510
-
-    *   011132-73-3
-
-    *   Lignocellulose
-
-    *
-    *
-
-*    *   19540
-
-    *   000110-16-7
-
-    *   Maleinsäure
-
-    *   SML(T) = 30 mg/kg
-
-    *   [4]
-
-
-*    *   19960
-
-    *   000108-31-6
-
-    *   Maleinsäureanhydrid
-
-    *   SML(T) = 30 mg/kg
-        (berechnet als Maleinsäure)
-
-    *   [4]
-
-
-*    *   19965
-
-    *   0006915-15-7
-
-    *   Apfelsäure
-
-    *   Nur als Comonomer in aliphatischen Polyestern bis zu einem maximalen
-        Stoffmengenanteil von 1 % zu verwenden.
-
-    *
-
-*    *   19975
-
-    *   000108-78-1
-
-    *   Melamin
-
-    *   Siehe "2,4,6-Triamino-1,3,5-triazin"
-
-    *
-
-*    *   19990
-
-    *   000079-39-0
-
-    *   Methacrylamid
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   20020
-
-    *   000079-41-4
-
-    *   Methacrylsäure
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   20050
-
-    *   000096-05-9
-
-    *   Allylmethacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   20080
-
-    *   002495-37-6
-
-    *   Benzylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   20110
-
-    *   000097-88-1
-
-    *   Butylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   20140
-
-    *   002998-18-7
-
-    *   sec-Butylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   20170
-
-    *   000585-07-9
-
-    *   tert-Butylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   20260
-
-    *   00101-43-9
-
-    *   Cyclohexylmethacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   20410
-
-    *   002082-81-7
-
-    *   1,4-Butandiolmethacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   20440
-
-    *   000097-90-5
-
-    *   Ethylenglykoldimethacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   20530
-
-    *   002867-47-2
-
-    *   2-(Dimethylamino)-ethyl-methacrylat
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   20590
-
-    *   000106-91-2
-
-    *   2,3-Epoxypropylmethacrylat
-
-    *   QMA = 0,02 mg/6 qdm
-
-    *
-
-*    *   20890
-
-    *   000097-63-2
-
-    *   Ethylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21010
-
-    *   000097-86-9
-
-    *   iso-Butylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21100
-
-    *   004655-34-9
-
-    *   iso-Propylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21130
-
-    *   000080-62-6
-
-    *   Methylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21190
-
-    *   000868-77-9
-
-    *   Ethylenglykolmonomethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21280
-
-    *   002177-70-0
-
-    *   Phenylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21340
-
-    *   002210-28-8
-
-    *   Propylmethacrylat
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21370
-
-    *   010595-80-9
-
-    *   2-Sulfoethylmethacrylat
-
-    *   QMA = ND (DL = 0,02 mg/6 qdm)
-
-    *
-
-*    *   21400
-
-    *   054276-35-6
-
-    *   Sulfopropylmethacrylat
-
-    *   QMA = 0,05 mg/ 6 qdm
-
-    *
-
-*    *   21460
-
-    *   000760-93-0
-
-    *   Methacrylsäureanhydrid
-
-    *   SML(T) = 6 mg/kg
-
-    *   [37]
-
-
-*    *   21490
-
-    *   000126-98-7
-
-    *   Methacrylnitril
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   21498
-
-    *   0002530-85-0
-
-    *   [3-(Methacryloxy)propyl]tri-methoxysilan
-
-    *   SML = 0,05 mg/kg. Nur als Mittel zur Oberflächenbehandlung bei
-        anorganischen Füllstoffen zu verwenden.
-
-    *
-
-*    *   21520
-
-    *   001561-92-8
-
-    *   Natriummethallylsulfonat
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   21550
-
-    *   000067-56-1
-
-    *   Methanol
-
-    *
-    *
-
-*    *   21640
-
-    *   00078-79-5
-
-    *   2-Methyl-1,3-butadien
-
-    *   QM = 1 mg/kg in BG oder SML = NN (NG = 0,02 mg/kg, Analysentoleranz
-        inbegriffen)
-
-    *
-
-*    *   21730
-
-    *   000563-45-1
-
-    *   3-Methyl-1-buten
-
-    *   QMA = 0,006 mg/6 qdm nur zur Verwendung in Polypropylen
-
-    *
-
-*    *   21765
-
-    *   106246-33-7
-
-    *   4,4'-Methylenbis(3-chlor-2,6-diethylanilin)
-
-    *   QMA = 0,05 mg/6 qdm
-
-    *
-
-*    *   21821
-
-    *   000505-65-7
-
-    *   1,4-(Methylendioxy)-butan
-
-    *   Siehe "1,4-Butandiol-formal"
-
-    *
-
-*    *   21940
-
-    *   000924-42-5
-
-    *   N-Methylolacrylamid
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   21970
-
-    *   000923-02-4
-
-    *   N-Methylolmethacrylamid
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   22150
-
-    *   000691-37-2
-
-    *   4-Methyl-1-penten
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   22210
-
-    *   000098-83-9
-
-    *   alpha-Methylstyrol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   22331
-
-    *   025513-64-8
-
-    *   Mischung von (35-45% M/M) 1,6-Diamino-2,2,4-trimethylhexan und (55-65%
-        M/M) 1,6-Di-amino-2,4,4-trimethylhexan
-
-    *   QMA = 5 mg/6 qdm
-
-    *
-
-*    *   22332
-
-    *   -
-
-    *   Mischung aus (40 Gew.-%)2,2,4-Trimethylhexan-1,6-di-isocyanat und (60
-        Gew.-%)2,4,4-Trimethylhexan-1,6-di-isocyanat
-
-    *   QM(T) = 1 mg/kg
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   22350
-
-    *   000544-63-8
-
-    *   Myristinsäure
-
-    *
-    *
-
-*    *   22360
-
-    *   001141-38-4
-
-    *   2,6-Naphthalindicarbonsäure
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   22390
-
-    *   000840-65-3
-
-    *   Dimethylnaphthalin-2,6-di-carboxylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   22420
-
-    *   003173-72-6
-
-    *   1,5-Naphthalin-di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   22437
-
-    *   000126-30-7
-
-    *   Neopentylglykol
-
-    *   Siehe "2,2-Dimethyl-1,3-propandiol"
-
-    *
-
-*    *   22450
-
-    *   009004-70-0
-
-    *   Nitrocellulose
-
-    *
-    *
-
-*    *   22480
-
-    *   000143-08-8
-
-    *   1-Nonanol
-
-    *
-    *
-
-*    *   22550
-
-    *   000498-66-8
-
-    *   Norbornen
-
-    *   siehe "Bicyclo (2.2.1) hept-2-en"
-
-    *
-
-*    *   22570
-
-    *   000112-96-9
-
-    *   Octadecylisocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   22600
-
-    *   000111-87-5
-
-    *   1-Octanol
-
-    *
-    *
-
-*    *   22660
-
-    *   000111-66-0
-
-    *   1-Octen
-
-    *   SML = 15 mg/kg
-
-    *
-
-*    *   22763
-
-    *   000112-80-1
-
-    *   Ölsäure
-
-    *
-    *
-
-*    *   22775
-
-    *   000144-62-7
-
-    *   Oxalsäure
-
-    *   SML(T) = 6 mg/kg
-
-    *   [29]
-
-
-*    *   22778
-
-    *   07456-68-0
-
-    *   4,4'-Oxybis(benzolsulfonyl azid)
-
-    *   QMA = 0,05 mg/6 qdm
-
-    *
-
-*    *   22780
-
-    *   000057-10-3
-
-    *   Palmitinsäure
-
-    *
-    *
-
-*    *   22840
-
-    *   000115-77-5
-
-    *   Pentaerythrit
-
-    *
-    *
-
-*    *   22870
-
-    *   000071-41-0
-
-    *   1-Pentanol
-
-    *
-    *
-
-*    *   22900
-
-    *   000109-67-1
-
-    *   1-Penten
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   22932
-
-    *   001187-93-5
-
-    *   Perfluoromethylperfluorovinylether
-
-    *   SML = 0,05 mg/kg. Nur bei Antihaftbeschichtungen zu verwenden
-
-    *
-
-*    *   22937
-
-    *   001623-05-8
-
-    *   Perfluorpropyl-
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *
-    *
-    *   perfluorvinyl-ether
-
-    *
-    *
-
-*    *   22960
-
-    *   000108-95-2
-
-    *   Phenol
-
-    *
-    *
-
-*    *   23050
-
-    *   000108-45-2
-
-    *   1,3-Phenylendiamin
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   23070
-
-    *   000102-39-6
-
-    *   (1,3-Phenylendioxy) diessigsäure
-
-    *   QMA = 0,05 mg/ 6 qdm
-
-    *
-
-*    *   23155
-
-    *   000075-44-5
-
-    *   Phosgen
-
-    *   Siehe "Carbonylchlorid"
-
-    *
-
-*    *   23170
-
-    *   007664-38-2
-
-    *   Phosphorsäure
-
-    *
-    *
-
-*    *   23175
-
-    *   000122-52-1
-
-    *   Triethylphosphit
-
-    *   QM = NN (NG = 1 mg/kg in BG)
-
-    *
-
-*    *   23187
-
-    *
-    *   Phthalsäure
-
-    *   Siehe "Terephthalsäure"
-
-    *
-
-*    *   23200
-
-    *   000088-99-3
-
-    *   o-Phthalsäure
-
-    *
-    *
-
-*    *   23230
-
-    *   000131-17-9
-
-    *   Diallylphthalat
-
-    *   SML = NN (NG = 0,01 mg/kg)
-
-    *
-
-*    *   23380
-
-    *   000085-44-9
-
-    *   Phthalsäureanhydrid
-
-    *
-    *
-
-*    *   23470
-
-    *   000080-56-8
-
-    *   alpha-Pinen
-
-    *
-    *
-
-*    *   23500
-
-    *   000127-91-3
-
-    *   beta-Pinen
-
-    *
-    *
-
-*    *   23547
-
-    *   009016-00-6
-
-    *   Polydimethylsiloxan
-
-    *   1)
-
-    *
-
-*    *
-    *   063148-62-9
-
-    *   (MG>6800)
-
-    *
-    *
-
-*    *   23590
-
-    *   025322-68-3
-
-    *   Polyethylenglykol
-
-    *
-    *
-
-*    *   23651
-
-    *   025322-69-4
-
-    *   Polypropylenglykol
-
-    *
-    *
-
-*    *   23740
-
-    *   000057-55-6
-
-    *   1,2-Propandiol
-
-    *
-    *
-
-*    *   23770
-
-    *   000504-63-2
-
-    *   1,3-Propandiol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   23800
-
-    *   000071-23-8
-
-    *   1-Propanol
-
-    *
-    *
-
-*    *   23830
-
-    *   000067-63-0
-
-    *   2-Propanol
-
-    *
-    *
-
-*    *   23860
-
-    *   000123-38-6
-
-    *   Propionaldehyd
-
-    *
-    *
-
-*    *   23890
-
-    *   000079-09-4
-
-    *   Propionsäure
-
-    *
-    *
-
-*    *   23920
-
-    *   000105-38-4
-
-    *   Vinylpropionat
-
-    *   SML(T) = 6 mg/kg
-        (berechnet als Acetaldehyd)
-
-    *   [2]
-
-
-*    *   23950
-
-    *   000123-62-6
-
-    *   Propionsäureanhydrid
-
-    *
-    *
-
-*    *   23980
-
-    *   000115-07-1
-
-    *   Propylen
-
-    *
-    *
-
-*    *   24010
-
-    *   000075-56-9
-
-    *   Propylenoxid
-
-    *   QM = 1 mg/kg in BG
-
-    *
-
-*    *   24051
-
-    *   000120-80-9
-
-    *   Pyrocatechol
-
-    *   Siehe "1,2-Dihydroxy-benzol"
-
-    *
-
-*    *   24057
-
-    *   000089-32-7
-
-    *   Pyromellitsäureanhydrid
-
-    *   SML = 0,05 mg/kg (berechnet als Pyromellitsäure)
-
-    *
-
-*    *   24070
-
-    *   073138-82-6
-
-    *   Harzsäuren
-
-    *
-    *
-
-*    *   24072
-
-    *   000108-46-3
-
-    *   Resorcin
-
-    *   Siehe "1,3-Dihydroxybenzol"
-
-    *
-
-*    *   24073
-
-    *   000101-90-6
-
-    *   Resorcinol-diglycidylether
-
-    *   QMA = 0,005 mg/6 qdm. Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG festgesetzt ist und nur für indirekten Kontakt mit
-        Lebensmitteln, hinter der PET-Schicht.
-
-    *
-
-*    *   24100
-
-    *   008050-09-7
-
-    *   Kolophonium
-
-    *
-    *
-
-*    *   24130
-
-    *   008050-09-7
-
-    *   Kolophoniumharz
-
-    *
-    *
-
-*    *
-    *
-    *   Siehe auch Kolophonium
-
-    *
-    *
-
-*    *   24160
-
-    *   008052-10-6
-
-    *   Tallölharz
-
-    *
-    *
-
-*    *   24190
-
-    *   008050-09-7
-
-    *   Baumharz
-
-    *   Siehe "Kolophonium" (Ref.-Nr. 24100)
-
-    *
-
-*    *   24250
-
-    *   009006-04-6
-
-    *   Naturkautschuk
-
-    *
-    *
-
-*    *   24270
-
-    *   000069-72-7
-
-    *   Salicylsäure
-
-    *
-    *
-
-*    *   24280
-
-    *   000111-20-6
-
-    *   Sebacinsäure
-
-    *
-    *
-
-*    *   24430
-
-    *   002561-88-8
-
-    *   Sebacinsäureanhydrid
-
-    *
-    *
-
-*    *   24475
-
-    *   001313-82-2
-
-    *   Natriumsulfid
-
-    *
-    *
-
-*    *   24490
-
-    *   000050-70-4
-
-    *   Sorbit
-
-    *
-    *
-
-*    *   24520
-
-    *   008001-22-7
-
-    *   Sojaöl
-
-    *
-    *
-
-*    *   24540
-
-    *   009005-25-8
-
-    *   Lebensmittelstärke
-
-    *
-    *
-
-*    *   24550
-
-    *   000057-11-4
-
-    *   Stearinsäure
-
-    *
-    *
-
-*    *   24610
-
-    *   000100-42-5
-
-    *   Styrol
-
-    *
-    *
-
-*    *   24760
-
-    *   026914-43-2
-
-    *   Styrolsulfonsäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   24820
-
-    *   000110-15-6
-
-    *   Bernsteinsäure
-
-    *
-    *
-
-*    *   24850
-
-    *   000108-30-5
-
-    *   Bernsteinsäureanhydrid
-
-    *
-    *
-
-*    *   24880
-
-    *   000057-50-1
-
-    *   Saccharose
-
-    *
-    *
-
-*    *   24886
-
-    *   046728-75-0
-
-    *   5-Sulfoisophthalsäure, Monolithiumsalz
-
-    *   SML = 5 mg/kg und für Lithium SML(T) = 0,6 mg/kg [8] (berechnet als
-        Lithium)
-
-    *
-
-*    *   24887
-
-    *   006362-79-4
-
-    *   5-Sulfoisophthalsäure, Mononatriumsalz
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   24888
-
-    *   003965-55-7
-
-    *   Dimethyl-5-sulfoisophthalat, Mononatriumsalz
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   24903
-
-    *   068425-17-2
-
-    *   Sirupe, hydrolysierte Stärke, hydriert
-
-    *   1)
-
-    *
-
-*    *   24910
-
-    *   000100-21-0
-
-    *   Terephthalsäure
-
-    *   SML = 7,5 mg/kg
-
-    *
-
-*    *   24940
-
-    *   000100-20-9
-
-    *   Terephthalsäuredichlorid
-
-    *   SML(T) = 7,5 mg/kg (berechnet als Terephthalsäure)
-
-    *
-
-*    *   24970
-
-    *   000120-61-6
-
-    *   Dimethylterephthalat
-
-    *
-    *
-
-*    *   25080
-
-    *   001120-36-1
-
-    *   1-Tetradecen
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   25090
-
-    *   000112-60-7
-
-    *   Tetraethylenglykol
-
-    *
-    *
-
-*    *   25120
-
-    *   000116-14-3
-
-    *   Tetrafluorethylen
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   25150
-
-    *   000109-99-9
-
-    *   Tetrahydrofuran
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   25180
-
-    *   000102-60-3
-
-    *   N,N,N',N'-Tetrakis(2-hydroxy-propyl)-ethylendiamin
-
-    *
-    *
-
-*    *   25210
-
-    *   000584-84-9
-
-    *   2,4-Toluol-di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   25240
-
-    *   000091-08-7
-
-    *   2,6-Toluol-di-isocyanat
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   25270
-
-    *   026747-90-0
-
-    *   2,4-Toluol-di-isocyanat, Dimer
-
-    *   QM(T) = 1 mg/kg in BG
-        (berechnet als NCO)
-
-    *   [26]
-
-
-*    *   25360
-
-    *   -
-
-    *   2,3-Epoxypropyltrialkyl (C(tief)5-C(tief)15)-acetat
-
-    *   QM = 1 mg/kg in BG (berechnet als Epoxy, Molgewicht = 43)
-
-    *
-
-*    *   25380
-
-    *   -
-
-    *   Vinyl-trialkyl (C(tief)7-C(tief)17) acetat(=Vinylversatat)
-
-    *   QMA = 0,05 g/6 qdm
-
-    *
-
-*    *   25385
-
-    *   000102-70-5
-
-    *   Triallylamin
-
-    *   1)
-
-    *
-
-*    *   25420
-
-    *   000108-78-1
-
-    *   2,4,6-Triamino-1,3,5-triazin
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   25450
-
-    *   026896-48-0
-
-    *   Tricyclodecandimethanol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   25510
-
-    *   000112-27-6
-
-    *   Triethylenglykol
-
-    *
-    *
-
-*    *   25540
-
-    *   000528-44-9
-
-    *   Trimellithsäure
-
-    *   SML(T) = 5 mg/kg
-
-    *   [35]
-
-
-*    *   25550
-
-    *   000552-30-7
-
-    *   Trimellithsäureanhydrid
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Trimellithsäure)
-
-    *   [35]
-
-
-*    *   25600
-
-    *   000077-99-6
-
-    *   1,1,1-Trimethylolpropan
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   25840
-
-    *   03290-92-4
-
-    *   1,1,1-Trimethylolpropantrimethacrylat--
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   25900
-
-    *   000110-88-3
-
-    *   Trioxan
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   25910
-
-    *   024800-44-0
-
-    *   Tripropylenglykol
-
-    *
-    *
-
-*    *   25927
-
-    *   027955-94-8
-
-    *   1,1,1-Tris(4-hydroxyphenyl)-ethan
-
-    *   QM = 0,5 mg/kg in BG Nur zur Verwendung in Polycarbonaten.
-
-    *
-
-*    *   25960
-
-    *   000057-13-6
-
-    *   Harnstoff
-
-    *
-    *
-
-*    *   26050
-
-    *   000075-01-4
-
-    *   Vinylchlorid
-
-    *   Siehe Anlage 5 Nr. 1 und Anlage 6 Nr. 1
-
-    *
-
-*    *   26110
-
-    *   000075-35-4
-
-    *   Vinylidenchlorid
-
-    *   QM = 5 mg/kg in BG oder SML = NN; (NG = 0,05 mg/kg)
-
-    *
-
-*    *   26140
-
-    *   000075-38-7
-
-    *   Vinylidenfluorid
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   26155
-
-    *   001072-63-5
-
-    *   1-Vinylimidazol
-
-    *   QM = 5 mg/kg in BG
-
-    *
-
-*    *   26170
-
-    *   003195-78-6
-
-    *   N-Vinyl-N-methylacetamid
-
-    *   QM = 2 mg/kg in BG
-
-    *
-
-*    *   26305
-
-    *   000078-08-0
-
-    *   Vinyltriethoxysilan
-
-    *   SML = 0,05 mg/kg. Nur zu verwenden als Oberflächenbehandlungsmittel.
-
-    *
-
-*    *   26320
-
-    *   002768-02-7
-
-    *   Vinyltrimethoxysilan
-
-    *   QM = 5 mg/kg in BG
-
-    *
-
-*    *   26360
-
-    *   007732-18-5
-
-    *   Wasser
-
-    *   1)
-
-    *
-
-
-
-1)  Zu beachten sind auch die Spezifikationen/Reinheitsanforderungen in
-    Abschnitt 5 und bei Angaben von Ziffern in eckigen Klammern die
-    Anmerkungen in Abschnitt 6.
-
-
-
-
-
-Teil B
-Verzeichnis
-der Monomere und sonstigen Ausgangsstoffe, die für die Herstellung von
-Lebensmittelbedarfsgegenständen aus Kunststoff zugelassen sind und die
-zunächst nur bis zum 31. Dezember 2004 verwendet werden dürfen
-##
-
-*    *   PM/REF-Nr.
-
-    *   CAS-Nr.
-
-    *   Bezeichnung
-
-    *   Beschränkungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   13050
-
-    *   00528-44-9
-
-    *   1,2,4-Benzoltricarbonsäure
-
-    *   Siehe "Trimellitsäure"
-
-
-*    *   15730
-
-    *   00077-73-6
-
-    *   Dicyclopentadien
-
-    *
-
-*    *   18370
-
-    *   00592-45-0
-
-    *   1,4-Hexadien
-
-    *
-
-*    *   26230
-
-    *   00088-12-0
-
-    *   Vinylpyrrolidon
-
-    *
-
-
-
-*    *   Abschnitt 2
-        **Additive**
-        (zu § 4 Abs. 3 und 3a, § 6 Nr. 2 und § 8 Abs. 1)
-
-
-*    *   Der Abschnitt umfasst:
-
-        -   Stoffe, die bei der Herstellung von Kunststoffen zugesetzt werden, um
-            eine technische Wirkung im Enderzeugnis zu erzielen, einschließlich
-            "polymere Additive". "Polymere Additive" sind Polymere und/oder
-            Präpolymere und/oder Oligomere, die Kunststoffen zugesetzt werden, um
-            eine technische Wirkung zu erzielen und die nur zusammen mit anderen
-            Polymeren als Hauptstrukturbestandteil des Endprodukts verwendet
-            werden können. "Polymere Additive" sind auch solche Stoffe, die dem
-            Medium hinzugefügt werden, in dem die Polymerisation erfolgt. Diese
-            Stoffe sind dazu bestimmt, im Enderzeugnis vorhanden zu sein;
-
-
-        -   Stoffe, die verwendet werden, um ein geeignetes Medium zu bilden, in
-            dem die Polymerisation erfolgt (Polymerisationshilfsmittel).
-
-
-
-
-
-*    *   Die Verwendung folgender, nicht in den Verzeichnissen aufgeführter
-        Stoffe ist zulässig:
-
-        1.  Salze, wobei Doppelsalze und saure Salze eingeschlossen sind, des
-            Aluminiums, Ammoniums, Calciums, Eisens, Magnesiums, Kaliums und
-            Natriums der zulässigen Säuren, Phenole oder Alkohole. Jedoch
-            erscheint die Bezeichnung "... Säure(n), Salze" in den Verzeichnissen,
-            wenn die zugehörige(n) freie(n) Säure(n) nicht aufgeführt ist (sind);
-
-
-        2.  Salze, wobei Doppelsalze und saure Salze eingeschlossen sind, des
-            Zinks der zulässigen Säuren, Phenole oder Alkohole. Für diese Salze
-            gilt ein spezifischer Gruppenmigrationsgrenzwert = 25 mg/kg (berechnet
-            als Zink). Die Einschränkung für Zink gilt auch für:
-
-            a)  Stoffe, deren Bezeichnung "... Säure(n), Salze" enthält und die in den
-                Verzeichnissen aufgeführt sind, sofern die zugehörige(n) freie(n)
-                Säure(n) nicht aufgeführt ist (sind);
-
-
-            b)  Stoffe gemäß Abschnitt 6 Nr. 38.
-
-
-
-
-
-
-
-
-*    *   Der Abschnitt umfasst nicht:
-
-        -   Reaktionszwischenprodukte;
-
-
-        -   Abbauprodukte;
-
-
-        -   Verunreinigungen in den verwendeten Stoffen;
-
-
-        -   Stoffe, die die Bildung von Polymeren direkt beeinflussen;
-
-
-        -   Gemische der zugelassenen Stoffe;
-
-
-        -   Additive, die nur zur Herstellung verwendet werden von
-
-            -   Oberflächenbeschichtungen aus flüssigen, pulverförmigen oder
-                dispergierten Harzen der Polymeren wie Lacken, Anstrichfarben,
-
-
-            -   Epoxyharzen,
-
-
-            -   Klebstoffen und Haftvermittlern,
-
-
-            -   Druckfarben;
-
-
-
-
-
-        -   Farbstoffe;
-
-
-        -   Lösungsmittel.
-
-
-
-
-
-
-
-Teil A
-Verzeichnis der Additive, die für die Herstellung von
-Lebensmittelbedarfsgegenständen aus Kunststoff zugelassen sind
-##
-
-*    *   PM/REF-Nr.
-
-    *   CAS-Nr.
-
-    *   Bezeichnung
-
-    *   Beschränkungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   30000
-
-    *   000064-19-7
-
-    *   Essigsäure
-
-    *
-    *
-
-*    *   30045
-
-    *   000123-86-4
-
-    *   Butylacetat
-
-    *
-    *
-
-*    *   30080
-
-    *   004180-12-5
-
-    *   Kupferacetat
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   30140
-
-    *   000141-78-6
-
-    *   Ethylacetat
-
-    *
-    *
-
-*    *   30280
-
-    *   000108-24-7
-
-    *   Essigsäureanhydrid
-
-    *
-    *
-
-*    *   30295
-
-    *   000067-64-1
-
-    *   Aceton
-
-    *
-    *
-
-*    *   30370
-
-    *   -
-
-    *   Acetylessigsäure, Salze
-
-    *
-    *
-
-*    *   30401
-
-    *   –
-
-    *   Mono- und Diglyceride von Fettsäuren, acetyliert
-
-    *
-    *
-
-*    *   30607
-
-    *   –
-
-    *   Aliphatische lineare C
-        2                       -C
-        24                       -Monocarbonsäuren aus natürlichen Ölen und
-        Fetten, Lithiumsalz
-
-    *   SML(T) = 0,6 mg/kg (berechnet als Lithium)[8]
-
-    *
-
-*    *   30610
-
-    *   -
-
-    *   Monocarbonsäuren, C(tief)2-C(tief)24, aliphatische, geradkettige, aus
-        natürlichen Fetten und Ölen, und deren Mono-, Di- und Triglycerinester
-        (verzweigte Fettsäuren in natürlich vorkommenden Mengen sind
-        eingeschlossen)
-
-    *
-    *
-
-*    *   30612
-
-    *   -
-
-    *   Monocarbonsäuren, C(tief)2-C(tief)24, aliphatische, geradkettige,
-        synthetische, und deren Mono-, Di- und Triglycerinester
-
-    *
-    *
-
-*    *   30960
-
-    *   -
-
-    *   Ester von aliphatischen Monocarbonsäuren (C(tief)6-C(tief)22) mit
-        Polyglycerin
-
-    *
-    *
-
-*    *   31328
-
-    *   -
-
-    *   Fettsäuren aus essbaren tierischen oder pflanzlichen Fetten und Ölen
-
-    *
-    *
-
-*    *   31530
-
-    *   123968-25-2
-
-    *   2,4-Di-tert-pentyl-6-(1-(3,5-di-tert-
-        pentyl-2-hydroxyphenyl)-ethyl)-phenylacryl at
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   31542
-
-    *   174254-23-0
-
-    *   Methylacrylat, Telomer mit 1-Dodecanethiol,
-        C(tief)16-C(tief)18-Alkylester
-
-    *   QM = 0,5% Gew.-% im Endprodukt
-
-    *
-
-*    *   31730
-
-    *   000124-04-9
-
-    *   Adipinsäure
-
-    *
-    *
-
-*    *   33105
-
-    *   0146340-15-0
-
-    *   Sekundäre Alkohole, C
-        12                       -C
-        14                       , beta-(2-hydroxyethoxy), ethoxyliert
-
-    *   SML = 5 mg/kg [44]
-
-    *
-
-*    *   33120
-
-    *   -
-
-    *   Alkohole, aliphatische, einwertige, gesättigte, geradkettige, primäre
-        (C(tief)4-C(tief)24)
-
-    *
-    *
-
-*    *   33350
-
-    *   009005-32-7
-
-    *   Alginsäure
-
-    *
-    *
-
-*    *   33535
-
-    *   0152261-33-1
-
-    *   Alpha-Alkene (C
-        20                       -C
-        24                       ), Copolymer mit Maleinsäureanhydrid,
-        Reaktionsprodukt mit 4-Amino-2,2,6,6-tetramethyl-piperidin
-
-    *   Nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
-        Berührung kommen, für die das Simulanzlösemittel D festgelegt ist.
-        Nicht zur Verwendung für Gegenstände, die mit alkoholischen
-        Lebensmitteln in Berührung kommen.
-
-    *
-
-*    *   33801
-
-    *   -
-
-    *   n-Alkyl(C(tief)10-C(tief)13)-benzolsulfonsäure
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   34240
-
-    *
-    *   Ester von Alkyl (C(tief)10-C(tief)20)-sulfonsäure mit Phenolen
-
-    *   SML = 6 mg/kg Verwendung nur bis zum 1. Januar 2002
-
-    *
-
-*    *   34281
-
-    *   -
-
-    *   Alkyl(C(tief)8-C(tief)22) schwefelsäuren, geradkettige, primäre, mit
-        geradzahliger Kohlenstoffkette
-
-    *
-    *
-
-*    *   34475
-
-    *   -
-
-    *   Aluminium-Calciumhydroxyphosphit, Hydrat
-
-    *
-    *
-
-*    *   34480
-
-    *   -
-
-    *   Aluminiumfasern, -flocken und -pulver
-
-    *
-    *
-
-*    *   34560
-
-    *   021645-51-2
-
-    *   Aluminiumhydroxid
-
-    *
-    *
-
-*    *   34690
-
-    *   011097-59-9
-
-    *   Aluminium-Magnesiumhydroxycarbonat
-
-    *
-    *
-
-*    *   34720
-
-    *   001344-28-1
-
-    *   Aluminiumoxid
-
-    *
-    *
-
-*    *   34850
-
-    *   143925-92-2
-
-    *   Bis(hydriertes Talg-Alkyl)amin, oxidiert
-
-    *   Nur zur Verwendung
-
-        a)  in Polyolefinen, QM = 0,1% (M/M) jedoch nicht in LDPE bei Berührung
-            mit Lebensmitteln, für die die Richtlinie 85/572/EWG einen
-            Reduktionsfaktor RF < 3 festlegt,
-
-
-        b)  in PET, QM = 0,25% (M/M) bei Berührung mit anderen Lebensmitteln als
-            solchen, bei denen das Simulanzlösemittel D gemäß der Richtlinie
-            85/572/EWG festgelegt ist
-
-
-
-
-    *
-
-*    *   34895
-
-    *   000088-68-6
-
-    *   2-Aminobenzamid
-
-    *   SML = 0,05 mg/kg Nur zur Verwendung für PET für Wasser und Getränke
-
-    *
-
-*    *   35120
-
-    *   013560-49-1
-
-    *   Diester von 3-Aminocrotonsäure mit Thiobis-(2-hydroxy-ethyl)ether
-
-    *
-    *
-
-*    *   35160
-
-    *   06642-31-5
-
-    *   6-Amino-1,3-dimethyluracil
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   35170
-
-    *   00141-43-5
-
-    *   2-Aminoethanol
-
-    *   SML = 0,05 mg/kg. Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG festgesetzt ist und nur für indirekten Kontakt mit
-        Lebensmitteln, hinter der PET-Schicht.
-
-    *
-
-*    *   35284
-
-    *   00111-41-1
-
-    *   N-(2-Aminoethyl) ethanolamin
-
-    *   SML = 0,05 mg/kg. Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG festgesetzt ist und nur für indirekten Kontakt mit
-        Lebensmitteln, hinter der PET-Schicht.
-
-    *
-
-*    *   35320
-
-    *   007664-41-7
-
-    *   Ammoniak
-
-    *
-    *
-
-*    *   35440
-
-    *   012124-97-9
-
-    *   Ammoniumbromid
-
-    *
-    *
-
-*    *   35600
-
-    *   001336-21-6
-
-    *   Ammoniumhydroxid
-
-    *
-    *
-
-*    *   35840
-
-    *   000506-30-9
-
-    *   Arachinsäure
-
-    *
-    *
-
-*    *   35845
-
-    *   007771-44-0
-
-    *   Arachidonsäure
-
-    *
-    *
-
-*    *   36000
-
-    *   000050-81-7
-
-    *   Ascorbinsäure
-
-    *
-    *
-
-*    *   36080
-
-    *   000137-66-6
-
-    *   Ascorbylpalmitat
-
-    *
-    *
-
-*    *   36160
-
-    *   010605-09-1
-
-    *   Ascorbylstearat
-
-    *
-    *
-
-*    *   36640
-
-    *   000123-77-3
-
-    *   Azodicarbonamid
-
-    *   Nur zur Verwendung als Treibmittel. Verwendung verboten ab 2. August
-        2005\.
-
-    *
-
-*    *   36840
-
-    *   12007-55-5
-
-    *   Bariumtetraborat
-
-    *   SML(T) = 1 mg/kg,
-        berechnet als Barium 1)
-
-    *   [12]
-
-
-*    *
-    *
-    *
-    *   und
-        SML(T) = 6 mg/kg
-        (berechnet als Bor)
-
-    *   [23]
-
-
-*    *   36880
-
-    *   008012-89-3
-
-    *   Bienenwachs
-
-    *
-    *
-
-*    *   36960
-
-    *   003061-75-4
-
-    *   Behenamid
-
-    *
-    *
-
-*    *   37040
-
-    *   000112-85-6
-
-    *   Behensäure
-
-    *
-    *
-
-*    *   37280
-
-    *   001302-78-9
-
-    *   Bentonit
-
-    *
-    *
-
-*    *   37360
-
-    *   000100-52-7
-
-    *   Benzaldehyd
-
-    *
-    *   [9]
-
-
-*    *   37600
-
-    *   000065-85-0
-
-    *   Benzoesäure
-
-    *
-    *
-
-*    *   37680
-
-    *   000136-60-7
-
-    *   Butylbenzoat
-
-    *
-    *
-
-*    *   37840
-
-    *   000093-89-0
-
-    *   Ethylbenzoat
-
-    *
-    *
-
-*    *   38080
-
-    *   000093-58-3
-
-    *   Methylbenzoat
-
-    *
-    *
-
-*    *   38160
-
-    *   002315-68-6
-
-    *   Propylbenzoat
-
-    *
-    *
-
-*    *   38510
-
-    *   136504-96-6
-
-    *   1,2-Bis(3-aminopropyl)-ethyl-endiamin, Polymer mit N-Butyl-2,2,6,6
-        -tetra-methyl-4-piperidinamin und 2,4,6-Trichlor-1,3, 5-triazin
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   38515
-
-    *   001533-45-5
-
-    *   4,4'-Bis(2-benzoxazolyl)-stilben
-
-    *   SML = 0,05 mg/kg 9)
-
-    *   [1]
-
-
-*    *   38550
-
-    *   0882073-43-0
-
-    *   Bis(4-propylbenzyliden)pro-pylsorbitol
-
-    *   SML = 5 mg/kg (einschließlich der Summe der Hydrolyseprodukte)
-
-    *
-
-*    *   38810
-
-    *   080693-00-1
-
-    *   Bis(2,6-di-tert-butyl-4-methylphenyl) pentaerythritoldiphosphit
-
-    *   SML = 5 mg/kg (Summe von Phosphit und Phosphat)
-
-    *
-
-*    *   38840
-
-    *   154862-43-8
-
-    *   Bis(2,4-dicumylphenyl) pentaerythritoldiphosphit
-
-    *   SML = 5 mg/kg (Summe aus dem Stoff selbst, seiner oxidierten Form
-        (Bis(2,4- dicumylphenyl)-pentaerythritolphosphat) und seinem
-        Hydrolyseprodukt (2,4-Dicumylphenol))
-
-    *
-
-*    *   38875
-
-    *   002162-74-5
-
-    *   Bis(2,6-diisopropylphenyl)-
-        carbodiimid
-
-    *   SML = 0,05 mg/kg. Nur zur
-        Verwendung hinter einer
-        PET-Schicht.
-
-    *
-
-*    *   38879
-
-    *   135861-56-2
-
-    *   Bis(3,4-dimethylbenzyliden)- sorbit
-
-    *
-    *
-
-*    *   38885
-
-    *   002725-22-6
-
-    *   2,4-Bis(2,4-dimethylphenyl)-6-(2-hydroxy-4-n-octyloxyphenyl)-.1,3,5-Tr
-        iazin benzyliden)-sorbit
-
-    *   SML = 0,05 mg/kg. Nur für wässrige Lebensmittel
-
-    *
-
-*    *   38950
-
-    *   079072-96-1
-
-    *   Bis(4-ethylbenzyliden)-sorbit
-
-    *
-    *
-
-*    *   39200
-
-    *   006200-40-4
-
-    *   Bis(2-hydroxyethyl)-2 -hydroxypropyl-3-(dodecyloxy)-methyl-
-        ammoniumchlorid
-
-    *   SML = 1,8 mg/kg
-
-    *
-
-*    *   39680
-
-    *   000080-05-7
-
-    *   2,2-Bis(4-hydroxy-phenyl)propan
-
-    *   SML(T) = 0,6 mg/kg
-
-    *   [28]
-
-
-*    *   39815
-
-    *   182121-12-6
-
-    *   9,9-Bis(methoxy-methyl)-fluoren
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   39890
-
-    *   087826-41-3
-        069158-41-4
-        054686-97-4
-        081541-12-0
-
-    *   Bis(methylbenzyliden)-sorbit
-
-    *
-    *
-
-*    *   39925
-
-    *   129228-21-3
-
-    *   3,3-Bis(methoxymethyl) -2,5-dimethylhexan
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   40120
-
-    *   68951-50-8
-
-    *   Bis(polyethylenglykol)-hydroxymethylphosphonat
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   40155
-
-    *   0124172-53-8
-
-    *   N,N'-bis(2,2,6,6-tetramethyl-4-piperidyl)-N,N'-diformyl-
-        hexamethylendiamin
-
-    *   SML = 0,05 mg/kg [1] [44]
-
-    *
-
-*    *   40320
-
-    *   10043-35-3
-
-    *   Borsäure
-
-    *   SML(T) = 6 mg/kg
-        (berechnet als Bor) 1)
-
-    *   [23]
-
-
-*    *   40400
-
-    *   010043-11-5
-
-    *   Bornitrid
-
-    *
-    *
-
-*    *   40570
-
-    *   000106-97-8
-
-    *   Butan
-
-    *
-    *
-
-*    *   40580
-
-    *   00110-63-4
-
-    *   1,4-Butandiol
-
-    *   SML(T) = 5 mg/kg
-
-    *   [24]
-
-
-*    *   41040
-
-    *   005743-36-2
-
-    *   Calciumbutyrat
-
-    *
-    *
-
-*    *   41120
-
-    *   10043-52-4
-
-    *   Calciumchlorid
-
-    *
-    *
-
-*    *   41280
-
-    *   001305-62-0
-
-    *   Calciumhydroxid
-
-    *
-    *
-
-*    *   41520
-
-    *   001305-78-8
-
-    *   Calciumoxid
-
-    *
-    *
-
-*    *   41600
-
-    *   012004-14-7
-        037293-22-4
-
-    *   Calciumsulphoaluminat
-
-    *
-    *
-
-*    *   41680
-
-    *   000076-22-2
-
-    *   Kampfer
-
-    *
-    *   [9]
-
-
-*    *   41760
-
-    *   008006-44-8
-
-    *   Candelillawachs
-
-    *
-    *
-
-*    *   41840
-
-    *   00105-60-2
-
-    *   Caprolactam
-
-    *   SML(T) = 15 mg/kg
-
-    *   [5]
-
-
-*    *   41960
-
-    *   000124-07-2
-
-    *   Caprylsäure
-
-    *
-    *
-
-*    *   42080
-
-    *   001333-86-4
-
-    *   Ruß
-
-    *   1)
-
-    *
-
-*    *   42160
-
-    *   000124-38-9
-
-    *   Kohlendioxid
-
-    *
-    *
-
-*    *   42320
-
-    *   007492-68-4
-
-    *   Kupfercarbonat
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   42500
-
-    *   -
-
-    *   Kohlensäure, Salze
-
-    *
-    *
-
-*    *   42640
-
-    *   009000-11-7
-
-    *   Carboxymethylcellulose
-
-    *
-    *
-
-*    *   42720
-
-    *   008015-86-9
-
-    *   Carnaubawachs
-
-    *
-    *
-
-*    *   42800
-
-    *   009000-71-9
-
-    *   Casein
-
-    *
-    *
-
-*    *   42880
-
-    *   008001-79-4
-
-    *   Rizinusöl
-
-    *
-    *
-
-*    *   42960
-
-    *   064147-40-6
-
-    *   Rizinusöl, dehydriertes
-
-    *
-    *
-
-*    *   43200
-
-    *   -
-
-    *   Rizinusöl, Mono- und Diglyceride
-
-    *
-    *
-
-*    *   43280
-
-    *   009004-34-6
-
-    *   Cellulose
-
-    *
-    *
-
-*    *   43300
-
-    *   009004-36-8
-
-    *   Cellulose-acetobutyrat
-
-    *
-    *
-
-*    *   43360
-
-    *   068442-85-3
-
-    *   Cellulose, regenerierte
-
-    *
-    *
-
-*    *   43440
-
-    *   008001-75-0
-
-    *   Ceresin
-
-    *
-    *
-
-*    *   43480
-
-    *   064365-11-3
-
-    *   Aktivkohle
-
-    *   1)
-
-    *
-
-*    *   43515
-
-    *   -
-
-    *   Cholinesterchloride von Kokosfettsäuren
-
-    *   QMA = 0,9 mg/6 qdm
-
-    *
-
-*    *   44160
-
-    *   000077-92-9
-
-    *   Citronensäure
-
-    *
-    *
-
-*    *   44640
-
-    *   000077-93-0
-
-    *   Triethylcitrat
-
-    *
-    *
-
-*    *   45195
-
-    *   007787-70-4
-
-    *   Kupferbromid
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   45200
-
-    *   001335-23-5
-
-    *   Kupferjodid
-
-    *   SML(T) = 5 mg/kg [7]
-        (berechnet als Kupfer)
-        und
-        SML = 1 mg/kg [11]
-        (berechnet als Jod)
-
-    *
-
-*    *   45280
-
-    *   -
-
-    *   Baumwollfasern
-
-    *
-    *
-
-*    *   45450
-
-    *   068610-51-5
-
-    *   p-Kresol-Dicyclopen- tadien-Isobutylen, Copolymer
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   45560
-
-    *   014464-46-1
-
-    *   Cristobalit
-
-    *
-    *
-
-*    *   45600
-
-    *   003724-65-0
-
-    *   Crotonsäure
-
-    *   QMA(T) = 0,05 mg/6 qdm
-
-    *   [33]
-
-
-*    *   45640
-
-    *   005232-99-5
-
-    *   2-Cyano-3,3-diphenylethylacrylat
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   45703
-
-    *   491589-22-1
-
-    *   cis-1,2-Cyclohexandicarbon-
-        säure, Calciumsalz
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   45705
-
-    *   166412-78-8
-
-    *   1,2-Cyclohexan-dicarbonsäure, Diisononylester
-
-    *
-    *
-
-*    *   45760
-
-    *   000108-91-8
-
-    *   Cyclohexylamin
-
-    *
-    *
-
-*    *   45920
-
-    *   009000-16-2
-
-    *   Dammar
-
-    *
-    *
-
-*    *   45940
-
-    *   000334-48-5
-
-    *   n-Decansäure
-
-    *
-    *
-
-*    *   46070
-
-    *   010016-20-3
-
-    *   alpha-Dextrin
-
-    *
-    *
-
-*    *   46080
-
-    *   007585-39-9
-
-    *   beta-Dextrin
-
-    *
-    *
-
-*    *   46375
-
-    *   061790-53-2
-
-    *   Diatomeenerde
-
-    *
-    *
-
-*    *   46380
-
-    *   068855-54-9
-
-    *   Diatomeenerde, Natriumcarbonatschmelzecalciniert
-
-    *
-    *
-
-*    *   46480
-
-    *   032647-67-9
-
-    *   Dibenzylidensorbit
-
-    *
-    *
-
-*    *   46700
-
-    *   –
-
-    *   5,7-Di-tert-butyl-3-(3,4- und 2,3-
-        dimethylphenyl)-3H-benzofuran-
-        2-on, das enthält:
-        a) 5,7-Di-tert-butyl-3-(3,4-dimethylphenyl)-3H-benzofuran-2-on (80-100
-        % M/M) und
-        b) 5,7-Di-tert-butyl-3-(2,3-dimethylphenyl)-3H-benzofuran-2-on (0-20 %
-        M/M)
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   46720
-
-    *   004130-42-1
-
-    *   2,6-Di-tert-butyl-4-ethylphenol
-
-    *   QMA = 4,8 mg/6 dm
-        2
-
-    *
-
-*    *   46790
-
-    *   004221-80-1
-
-    *   2,4-Di-tert-butyl-phenyl-3,5-di-tert-butyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   46800
-
-    *   067845-93-6
-
-    *   Hexadecyl-3,5-di-tert-butyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   46870
-
-    *   003135-18-0
-
-    *   Dioctadecyl-3,5-di-tert-butyl-4-hydroxy-benzylphosphonat
-
-    *
-    *
-
-*    *   46880
-
-    *   065140-91-2
-
-    *   Monoethyl-3,5-di-tert-butyl-4-hydroxybenzylphosphonat, Calciumsalz
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   47210
-
-    *   26427-07-6
-
-    *   Dibutylthiostannonsäure, Polymer (= Thiobis(butylzinnsulfid, Polymer)
-
-    *   1)
-
-    *
-
-*    *   47440
-
-    *   000461-58-5
-
-    *   Dicyandiamid
-
-    *
-    *
-
-*    *   47540
-
-    *   27458-90-8
-
-    *   Di-tert-dodecyldisulfid
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   47680
-
-    *   000111-46-6
-
-    *   Diethylenglykol
-
-    *   SML(T) = 30
-        mg/kg
-
-    *   [3]
-
-
-*    *   48460
-
-    *   000075-37-6
-
-    *   1,1-Difluorethan
-
-    *
-    *
-
-*    *   48620
-
-    *   00123-31-9
-
-    *   1,4-Dihydroxybenzol
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   48720
-
-    *   00611-99-4
-
-    *   4,4'Dihydroxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   48960
-
-    *   –
-
-    *   9,10-Dihydroxystearinsäure und ihre Oligomere
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   49080
-
-    *   0852282-89-4
-
-    *   N-(2,6-Diisopropylphenyl)-6-[4-(1,1,3,3-tetramethylbutyl)-phenoxy]-1H-
-        benz[de]i so-chinolin-1,3(2H)-dion
-
-    *   SML = 0,05 mg/kg [39] [45] [46]. Nur zur Verwendung in
-        Polyethylenterephthalat (PET).
-
-    *
-
-*    *   49485
-
-    *   134701-20-5
-
-    *   2,4-Dimethyl-6-(1-methyl-pentadecyl)-phenol
-
-    *   SML = 1 mg/kg
-
-    *
-
-*    *   49540
-
-    *   000067-68-5
-
-    *   Dimethylsulfoxid
-
-    *
-    *
-
-*    *   51200
-
-    *   000126-58-9
-
-    *   Dipentaerythrit
-
-    *
-    *
-
-*    *   51700
-
-    *   147315-50-2
-
-    *   2-(4,6-Diphenyl-1,3, 5-triazin-2-yl)-5- (hexyloxy)phenol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   51760
-
-    *   025265-71-8
-        000110-98-5
-
-    *   Dipropylenglykol
-
-    *
-    *
-
-*    *   52640
-
-    *   016389-88-1
-
-    *   Dolomit
-
-    *
-    *
-
-*    *   52645
-
-    *   10436-08-5
-
-    *   cis-11-Eicosenamid
-
-    *
-    *
-
-*    *   52720
-
-    *   000112-84-5
-
-    *   Erucamid
-
-    *
-    *
-
-*    *   52730
-
-    *   000112-86-7
-
-    *   Erucasäure
-
-    *
-    *
-
-*    *   52800
-
-    *   000064-17-5
-
-    *   Ethanol
-
-    *
-    *
-
-*    *   53270
-
-    *   037205-99-5
-
-    *   Ethylcarboxymethylcellulose
-
-    *
-    *
-
-*    *   53280
-
-    *   009004-57-3
-
-    *   Ethylcellulose
-
-    *
-    *
-
-*    *   53360
-
-    *   000110-31-6
-
-    *   N,N'-Ethylen-bis-oleamid
-
-    *
-    *
-
-*    *   53440
-
-    *   005518-18-3
-
-    *   N,N'-Ethylen-bis-palmitamid
-
-    *
-    *
-
-*    *   53520
-
-    *   000110-30-5
-
-    *   N,N'-Ethylen-bis-stearamid
-
-    *
-    *
-
-*    *   53600
-
-    *   000060-00-4
-
-    *   Ethylendiamintetraessigsäure
-
-    *
-    *
-
-*    *   53610
-
-    *   054453-03-1
-
-    *   Kupferethylendiamin-tetraacetat
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   53650
-
-    *   000107-21-1
-
-    *   Ethylenglykol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [3]
-
-
-*    *   54005
-
-    *   005136-44-7
-
-    *   Ethylen-N-palmitamid-N'-stearamid
-
-    *
-    *
-
-*    *   54260
-
-    *   009004-58-4
-
-    *   Ethylhydroxyethylcellulose
-
-    *
-    *
-
-*    *   54270
-
-    *   -
-
-    *   Ethylhydroxymethylcellulose
-
-    *
-    *
-
-*    *   54280
-
-    *   -
-
-    *   Ethylhydroxypropylcellulose
-
-    *
-    *
-
-*    *   54300
-
-    *   118337-09-0
-
-    *   2,2'-Ethyliden-bis-(4,6-di-tert-butyl-phenyl)fluorphosphonit
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   54450
-
-    *   -
-
-    *   Fette und Öle, tierischen oder pflanzlichen Ursprungs
-
-    *
-    *
-
-*    *   54480
-
-    *   -
-
-    *   Fette und Öle, hydrierte, tierischen oder pflanzlichen Ursprungs
-
-    *
-    *
-
-*    *   54930
-
-    *   025359-91-5
-
-    *   Formaldehyd-1-Naphthol, Copolymer (= Poly(1-hydroxynaphthylmethan))
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   55040
-
-    *   000064-18-6
-
-    *   Ameisensäure
-
-    *
-    *
-
-*    *   55120
-
-    *   000110-17-8
-
-    *   Fumarsäure
-
-    *
-    *
-
-*    *   55190
-
-    *   029204-02-2
-
-    *   Gadoleinsäure
-
-    *
-    *
-
-*    *   55440
-
-    *   009000-70-8
-
-    *   Gelatine
-
-    *
-    *
-
-*    *   55520
-
-    *   -
-
-    *   Glasfasern
-
-    *
-    *
-
-*    *   55600
-
-    *   -
-
-    *   Mikroglaskugeln
-
-    *
-    *
-
-*    *   55680
-
-    *   000110-94-1
-
-    *   Glutarsäure
-
-    *
-    *
-
-*    *   55910
-
-    *   736150-63-3
-
-    *   Ester von hydrierten Ricinusölmonoglyceriden mit Essigsäure,
-
-    *
-    *
-
-*    *   55920
-
-    *   000056-81-5
-
-    *   Glycerin
-
-    *
-    *
-
-*    *   56020
-
-    *   099880-64-5
-
-    *   Glycerin-dibehenat
-
-    *
-    *
-
-*    *   56360
-
-    *   -
-
-    *   Ester von Glycerin mit Essigsäure
-
-    *
-    *
-
-*    *   56486
-
-    *   -
-
-    *   Ester von Glycerin mit aliphatischen gesättigten geradkettigen Säuren
-        mit geradzahliger Kohlenstoffkette (C(tief)14-C(tief)18) und mit
-        aliphatischen ungesättigten geradkettigen Säuren mit geradzahliger
-        Kohlenstoffkette (C(tief)16-C(tief)18)
-
-    *
-    *
-
-*    *   56487
-
-    *   -
-
-    *   Ester von Glycerin mit Buttersäure
-
-    *
-    *
-
-*    *   56490
-
-    *   -
-
-    *   Ester von Glycerin mit Erucasäure
-
-    *
-    *
-
-*    *   56495
-
-    *   -
-
-    *   Ester von Glycerin mit 12-Hydroxystearinsäure
-
-    *
-    *
-
-*    *   56500
-
-    *   -
-
-    *   Ester von Clycerin mit Laurinsäure
-
-    *
-    *
-
-*    *   56510
-
-    *   -
-
-    *   Ester von Glycerin mit Linolsäure
-
-    *
-    *
-
-*    *   56520
-
-    *   -
-
-    *   Ester von Clycerin mit Myristinsäure
-
-    *
-    *
-
-*    *   56535
-
-    *   -
-
-    *   Ester von Glycerin mit Nonansäure
-
-    *
-    *
-
-*    *   56540
-
-    *   -
-
-    *   Ester von Glycerin mit Ölsäure
-
-    *
-    *
-
-*    *   56550
-
-    *   -
-
-    *   Ester von Glycerin mit Palmitinsäure
-
-    *
-    *
-
-*    *   56570
-
-    *   -
-
-    *   Ester von Glycerin mit Propionsäure
-
-    *
-    *
-
-*    *   56580
-
-    *   -
-
-    *   Ester von Glycerin mit Rizinolsäure
-
-    *
-    *
-
-*    *   56585
-
-    *   -
-
-    *   Ester von Glycerin mit Stearinsäure
-
-    *
-    *
-
-*    *   56610
-
-    *   030233-64-8
-
-    *   Glycerinmonobehenat
-
-    *
-    *
-
-*    *   56720
-
-    *   026402-23-3
-
-    *   Glycerinmonohexanoat
-
-    *
-    *
-
-*    *   56800
-
-    *   030899-62-8
-
-    *   Glycerinmonolauratdiacetat
-
-    *
-    *
-
-*    *   56880
-
-    *   026402-26-6
-
-    *   Glycerinmonooctanoat
-
-    *
-    *
-
-*    *   57040
-
-    *   -
-
-    *   Glycerinmonooleat, Ester mit Ascorbinsäure
-
-    *
-    *
-
-*    *   57120
-
-    *   -
-
-    *   Glycerinmonooleat, Ester mit Citronensäure
-
-    *
-    *
-
-*    *   57200
-
-    *   -
-
-    *   Glycerinmonopalmitat, Ester mit Ascorbinsäure
-
-    *
-    *
-
-*    *   57280
-
-    *   -
-
-    *   Glycerinmonopalmitat, Ester mit Citronensäure
-
-    *
-    *
-
-*    *   57600
-
-    *   -
-
-    *   Glycerinmonostearat, Ester mit Ascorbinsäure
-
-    *
-    *
-
-*    *   57680
-
-    *   -
-
-    *   Glycerinmonostearat, Ester mit Citronensäure
-
-    *
-    *
-
-*    *   57800
-
-    *   018641-57-1
-
-    *   Glycerintribehenat
-
-    *
-    *
-
-*    *   57920
-
-    *   000620-67-7
-
-    *   Clycerintriheptanoat
-
-    *
-    *
-
-*    *   58300
-
-    *   -
-
-    *   Glycin, Salze
-
-    *
-    *
-
-*    *   58320
-
-    *   007782-42-5
-
-    *   Graphit
-
-    *
-    *
-
-*    *   58400
-
-    *   009000-30-0
-
-    *   Guar-Gummi
-
-    *
-    *
-
-*    *   58480
-
-    *   009000-01-5
-
-    *   Gummi arabicum
-
-    *
-    *
-
-*    *   58720
-
-    *   000111-14-8
-
-    *   Heptansäure
-
-    *
-    *
-
-*    *   59280
-
-    *   000100-97-0
-
-    *   Hexamethylentetramin
-
-    *   SML(T) = 15 mg/kg
-        (berechnet als Formaldehyd)
-
-    *   [22]
-
-
-*    *   59360
-
-    *   000142-62-1
-
-    *   Hexansäure
-
-    *
-    *
-
-*    *   59760
-
-    *   019569-21-2
-
-    *   Huntit
-
-    *
-    *
-
-*    *   59990
-
-    *   007647-01-0
-
-    *   Salzsäure
-
-    *
-    *
-
-*    *   60025
-
-    *   –
-
-    *   Hydrierte Homopolymere und/oder Copolymere aus 1-Decen und/oder
-        1-Dodecen und/oder 1-Octen
-
-    *   Nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
-        Berührung kommen.
-        1                       )
-
-    *
-
-*    *   60027
-
-    *   –
-
-    *   Hydrierte Homopolymere und/ oder Copolymere, hergestellt aus 1-Hexen
-        und/oder 1-Octen und/oder 1-Decen und/oder 1-Dodecen und/oder
-        1-Tetradecen (Molekulargewicht: 440 bis 12 000)
-
-    *   Nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
-        Berührung kommen, für die das Simulanzlösemittel D festgelegt ist. Die
-        Spezifikationen in Abschnitt 5 sind einzuhalten.
-
-    *
-
-*    *   60030
-
-    *   012072-90-1
-
-    *   Hydromagnesit
-
-    *
-    *
-
-*    *   60080
-
-    *   012304-65-3
-
-    *   Hydrotalkit
-
-    *
-    *
-
-*    *   60160
-
-    *   000120-47-8
-
-    *   Ethyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   60180
-
-    *   004191-73-5
-
-    *   Isopropyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   60200
-
-    *   000099-76-3
-
-    *   Methyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   60240
-
-    *   000094-13-3
-
-    *   Propyl-4-hydroxybenzoat
-
-    *
-    *
-
-*    *   60480
-
-    *   003864-99-1
-
-    *   2-(2-Hydroxy-3,5,-di-tert-butylphenyl)-5-chlorbenzotriazol
-
-    *   SML = 30 mg/kg
-
-    *   [19]
-
-
-*    *   60560
-
-    *   009004-62-0
-
-    *   Hydroxyethylcellulose
-
-    *
-    *
-
-*    *   60880
-
-    *   009032-42-2
-
-    *   Hydroxyethylmethylcellulose
-
-    *
-    *
-
-*    *   61120
-
-    *   009005-27-0
-
-    *   Hydroxyethylstärke
-
-    *
-    *
-
-*    *   61390
-
-    *   037353-59-6
-
-    *   Hydroxymethylcellulose
-
-    *
-    *
-
-*    *   61680
-
-    *   009004-64-2
-
-    *   Hydroxypropylcellulose
-
-    *
-    *
-
-*    *   61800
-
-    *   009049-76-7
-
-    *   Hydroxypropylstärke
-
-    *
-    *
-
-*    *   61840
-
-    *   000106-14-9
-
-    *   12-Hydroxystearinsäure
-
-    *
-    *
-
-*    *   62020
-
-    *   007620-77-1
-
-    *   12-Hydroxystearinsäure, Lithiumsalz
-
-    *   SML(T) = 0,6 mg/kg [8]
-        (berechnet als Lithium)
-
-    *
-
-*    *   62140
-
-    *   006303-21-5
-
-    *   Hypophosphorige Säure
-
-    *
-    *
-
-*    *   62215
-
-    *   0007439-89-6
-
-    *   Eisen
-
-    *   SML = 48 mg/kg
-
-    *
-
-*    *   62240
-
-    *   001332-37-2
-
-    *   Eisenoxid
-
-    *
-    *
-
-*    *   62245
-
-    *   012751-22-3
-
-    *   Eisenphosphid
-
-    *   Nur für PET-Polymere und Copolymere
-
-    *
-
-*    *   62280
-
-    *   009044-17-1
-
-    *   Isobutylen-Buten-Copolymer
-
-    *
-    *
-
-*    *   62450
-
-    *   000078-78-4
-
-    *   Isopentan
-
-    *
-    *
-
-*    *   62640
-
-    *   008001-39-6
-
-    *   Japanwachs
-
-    *
-    *
-
-*    *   62720
-
-    *   001332-58-7
-
-    *   Kaolin
-
-    *
-    *
-
-*    *   62800
-
-    *   -
-
-    *   Kaolin, calciniert
-
-    *
-    *
-
-*    *   62960
-
-    *   000050-21-5
-
-    *   Milchsäure
-
-    *
-    *
-
-*    *   63040
-
-    *   000138-22-7
-
-    *   Butyllactat
-
-    *
-    *
-
-*    *   63280
-
-    *   000143-07-7
-
-    *   Laurinsäure
-
-    *
-    *
-
-*    *   63760
-
-    *   008002-43-5
-
-    *   Lecithin
-
-    *
-    *
-
-*    *   63840
-
-    *   000123-76-2
-
-    *   Lävulinsäure
-
-    *
-    *
-
-*    *   63920
-
-    *   000557-59-5
-
-    *   Lignocerinsäure
-
-    *
-    *
-
-*    *   64015
-
-    *   000060-33-3
-
-    *   Linolsäure
-
-    *
-    *
-
-*    *   64150
-
-    *   028290-79-1
-
-    *   Linolensäure
-
-    *
-    *
-
-*    *   64500
-
-    *   -
-
-    *   Lysin, Salze
-
-    *
-    *
-
-*    *   64640
-
-    *   001309-42-8
-
-    *   Magnesiumhydroxid
-
-    *
-    *
-
-*    *   64720
-
-    *   001309-48-4
-
-    *   Magnesiumoxid
-
-    *
-    *
-
-*    *   64800
-
-    *   00110-16-7
-
-    *   Maleinsäure
-
-    *   SML(T) = 30 mg/kg
-
-    *   [4]
-
-
-*    *   64990
-
-    *   025736-61-2
-
-    *   Maleinsäureanhydrid-Styrol-Copolymer, Natriumsalz
-
-    *   1)
-
-    *
-
-*    *   65020
-
-    *   006915-15-7
-
-    *   Apfelsäure
-
-    *
-    *
-
-*    *   65040
-
-    *   000141-82-2
-
-    *   Malonsäure
-
-    *
-    *
-
-*    *   65520
-
-    *   000087-78-5
-
-    *   Mannitol
-
-    *
-    *
-
-*    *   65920
-
-    *   66822-60-4
-
-    *   N-Methacryloyloxyethyl-N,N-dimethyl-N-carboxymethylammoniumchlorid,
-        Natriumsalz-Octadecylmethacrylat-Ethylmethacrylat-
-        Cyclohexylmethacrylat-N-Vinyl -2-pyrrolidon,Copolymere
-
-    *
-    *
-
-*    *   66200
-
-    *   037206-01-2
-
-    *   Methylcarboxymethylcellulose
-
-    *
-    *
-
-*    *   66240
-
-    *   009004-67-5
-
-    *   Methylcellulose
-
-    *
-    *
-
-*    *   66560
-
-    *   004066-02-8
-
-    *   2,2'-Methylen-bis-(4-methyl-6-cyclohexylphenol)
-
-    *   SML(T) = 3 mg/kg
-
-    *   [6]
-
-
-*    *   66580
-
-    *   000077-62-3
-
-    *   2,2'-Methylen-bis-(4-methyl-6-(1- methylcyclohexyl)phenol)
-
-    *   SML(T) = 3 mg/kg
-
-    *   [6]
-
-
-*    *   66640
-
-    *   009004-59-5
-
-    *   Methylethylcellulose
-
-    *
-    *
-
-*    *   66695
-
-    *   -
-
-    *   Methylhydroxymethylcellulose
-
-    *
-    *
-
-*    *   66700
-
-    *   009004-65-3
-
-    *   Methylhydroxypropylcellulose
-
-    *
-    *
-
-*    *   66755
-
-    *   002682-20-4
-
-    *   2-Methyl-4-isothiazolin-3-on
-
-    *   SML = 0,5 mg/kg.
-        Nur zur Verwendung in wässrigen Polymerdispersionen und -emulsionen
-        und bei Konzentrationen, die nicht zu antimikrobieller Wirkung an der
-        Oberfläche des Polymers oder im Lebensmittel selbst führen.
-
-    *
-
-*    *   66905
-
-    *   000872-50-4
-
-    *   N-Methylpyrrolidon
-
-    *
-    *
-
-*    *   66930
-
-    *   068554-70-1
-
-    *   Methylsilsesquioxan
-
-    *   Restmonomer in Methylsilsesquioxan:
-        < 1 mg Methyltrimethoxysilan/ kg Methylsilsesquioxan
-
-    *
-
-*    *   67120
-
-    *   012001-26-2
-
-    *   Glimmer
-
-    *
-    *
-
-*    *   67155
-
-    *   –
-
-    *   Mischung aus 4-(2-Benzoxazolyl)-4’– (5-methyl-2- benzoxazolyl)stilben,
-        4,4’-Bis-(2-benzoxazolyl) stilben und 4,4’-Bis-
-        (5-methyl-2-benzoxazolyl) stilben (Höchstens 0,05 Gew.-% (Stoff
-        bezogen auf die Formulierung).
-
-    *
-    *   [1]
-
-
-*    *   67180
-
-    *   -
-
-    *   Mischung aus (50 Gew.-%) n-Decyl-n- octylphthalat, (25 Gew.-%)
-        Di-n-decylphthalat und (25 Gew.-%) Di-n- octylphthalat
-
-    *   SML = 5 mg/kg
-
-    *   [1]
-
-
-*    *   67200
-
-    *   001317-33-5
-
-    *   Molybdändisulfid
-
-    *
-    *
-
-*    *   67840
-
-    *   -
-
-    *   Montansäuren und/oder deren Ester mit Ethylenglykol und/oder
-        1,3-Butandiol und/oder Glycerin
-
-    *
-    *
-
-*    *   67850
-
-    *   008002-53-7
-
-    *   Montanwachs
-
-    *
-    *
-
-*    *   67891
-
-    *   000544-63-8
-
-    *   Myristinsäure
-
-    *
-    *
-
-*    *   68040
-
-    *   003333-62-8
-
-    *   7-(2-H-Naphto-(1,2-D)triazol-2-yl)-3-phenylcumarin
-
-    *
-    *
-
-*    *   68078
-
-    *   027253-31-2
-
-    *   Cobaltneodecanoat
-
-    *   SML(T) = 0,05 mg/kg
-        (berechnet als Neodecansäure)
-        und
-        SML(T) = 0,05 mg/kg
-        (berechnet als Cobalt) Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG festgelegt ist
-
-    *   [14]
-
-
-*    *   68119
-
-    *   –
-
-    *   Neopentylglycol, Diester und Monoester mit Benzoesäure und
-        2-Ethylhexansäure
-
-    *   SML = 5 mg/kg. Nicht zur Verwendung für Gegenstände, die mit fetten
-        Lebensmitteln in Berührung kommen, für die das Simulanzlösemittel D
-        festgelegt ist.
-
-    *
-
-*    *   68125
-
-    *   037244-96-5
-
-    *   Nephelinsyenit
-
-    *
-    *
-
-*    *   68145
-
-    *   080410-33-9
-
-    *   2,2',2"-Nitrilo (triethyl-tris-(3,3', 5,5'-tetra-tert-
-        butyl-1,1'-biphenyl-2,2'-diyl)phosphit)
-
-    *   SML = 5 mg/kg (Summe von Phosphit und Phosphat)
-
-    *
-
-*    *   68960
-
-    *   000301-02-0
-
-    *   Oleamid
-
-    *
-    *
-
-*    *   69040
-
-    *   000112-80-1
-
-    *   Ölsäure
-
-    *
-    *
-
-*    *   69760
-
-    *   000143-28-2
-
-    *   Oleylalkohol
-
-    *
-    *
-
-*    *   69920
-
-    *   000144-62-7
-
-    *   Oxalsäure
-
-    *   SML(T) = 6 mg/kg
-
-    *   [29]
-
-
-*    *   70000
-
-    *   070331-94-1
-
-    *   2,2'-Oxamido-bis-(ethyl-3-(3,5-di-tert-butyl-4-hydroxy-
-        phenyl)propionat)
-
-    *
-    *
-
-*    *   70240
-
-    *   012198-93-5
-
-    *   Ozocerit
-
-    *
-    *
-
-*    *   70400
-
-    *   000057-10-3
-
-    *   Palmitinsäure
-
-    *
-    *
-
-*    *   70480
-
-    *   000111-06-8
-
-    *   Palmitinsäurebutylester
-
-    *
-    *
-
-*    *   71020
-
-    *   000373-49-9
-
-    *   Palmitoleinsäure
-
-    *
-    *
-
-*    *   71440
-
-    *   009000-69-5
-
-    *   Pektin
-
-    *
-    *
-
-*    *   71600
-
-    *   000115-77-5
-
-    *   Pentaerythrit
-
-    *
-    *
-
-*    *   71635
-
-    *   025151-96-6
-
-    *   Pentaerythritdioleat
-
-    *   SML = 0,05 mg/kg Nicht zu verwenden in Polymeren in Kontakt mit
-        Lebensmitteln, für die das Simulanzlösemittel D in der Richtlinie
-        85/572/EWG festgesetzt ist.
-
-    *
-
-*    *   71670
-
-    *   178671-58-4
-
-    *   Pentaerythrittetrakis (2-cyano-3,3-diphenyl-acrylat)
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   71680
-
-    *   006683-19-8
-
-    *   Pentaerythrit-tetrakis-(3-(3,5-di-tert-butyl-4-hydroxy-
-        phenyl)propionat)
-
-    *
-    *
-
-*    *   71720
-
-    *   000109-66-0
-
-    *   Pentan
-
-    *
-    *
-
-*    *   71960
-
-    *   003825-26-1
-
-    *   Perfluoroctansäure, Ammoniumsalz
-
-    *   Nur bei Mehrweggegenständen, die bei hohen Temperaturen gesintert
-        werden, zu verwenden
-
-    *
-
-*    *   72141
-
-    *   0018600-59-4
-
-    *   2,2-(1,4-Phenylen)bis(4H-3,1-benzoxazin-4-on)
-
-    *   SML = 0,05 mg/kg (einschließlich der Summe der Hydrolyseprodukte)
-
-    *
-
-*    *   72640
-
-    *   007664-38-2
-
-    *   Phosphorsäure
-
-    *
-    *
-
-*    *   73160
-
-    *   -
-
-    *   Mono- und Di-n-alkyl (C(tief)16 und C(tief)18)-ester der Phosphorsäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   73720
-
-    *   000115-96-8
-
-    *   Trichlorethylphosphat
-
-    *   SML = NN (NG = 0,02 mg/kg, Analysentoleranz inbegriffen)
-
-    *
-
-*    *   74010
-
-    *   145650-60-8
-
-    *   Bis(2,4-di-tert-butyl- 6-methyl-phenyl) ethylphosphit
-
-    *   SML = 5 mg/kg (Summe von Phosphit und Phosphat)
-
-    *
-
-*    *   74240
-
-    *   031570-04-4
-
-    *   Tris(2,4-di-tert-butyl-phenyl)-phosphit
-
-    *
-    *
-
-*    *   74480
-
-    *   000088-99-3
-
-    *   o-Phthalsäure
-
-    *
-    *
-
-*    *   74560
-
-    *   000085-68-7
-
-    *   Phthalsäure, Benzylbutylester
-
-    *   Nur zu verwenden als
-
-        a)  Weichmacher in Mehrwegmaterialien und -gegenständen;
-
-
-        b)  Weichmacher in Einwegmaterialien und -gegenständen, die mit fettfreien
-            Lebensmitteln in Berührung kommen, außer bei Säuglingsanfangsnahrung,
-            Folgenahrung, Getreidebeikost oder anderer Beikost für Säuglinge und
-            Kleinkinder;
-
-
-        c)  technisches Hilfsagens in Konzentrationen von bis zu 0,1 % im
-            Enderzeugnis.
-
-
-
-        SML = 30 mg/kg Simulanzlösemittel 2)
-
-    *
-
-*    *   74640
-
-    *   000117-81-7
-
-    *   Phthalsäure, Bis (2-ethylhexyl)ester
-
-    *   Nur zu verwenden als 1. Weichmacher in Mehrwegmaterialien und
-        -gegenständen, die mit fettfreien Lebensmitteln in Berührung kommen;
-        2\. technisches Hilfsagens in Konzentrationen von bis zu 0,1 % im
-        Enderzeugnis. SML = 1,5 mg/kg Simulanzlösemittel 2)
-
-    *
-
-*    *   74880
-
-    *   000084-74-2
-
-    *   Phthalsäure, Dibutylester
-
-    *   Nur zu verwenden als
-
-        a)  Weichmacher in Mehrwegmaterialien und -gegenständen, die mit
-            fettfreien Lebensmitteln in Berührung kommen;
-
-
-        b)  technisches Hilfsagens in Konzentrationen von bis zu 0,05 % im
-            Enderzeugnis.
-
-
-
-        SML = 0,3 mg/kg Simulanzlösemittel 2)
-
-    *
-
-*    *   75100
-
-    *   068515-48-0
-        028553-12-0
-
-    *   Phthalsäure, Diester mit primären, gesättigten C8 C10-verzweigten
-        Alkoholen, über 60 % C9
-
-    *   Nur zu verwenden als
-
-        a)  Weichmacher in Mehrwegmaterialien und -gegenständen;
-
-
-        b)  Weichmacher in Einwegmaterialien und -gegenständen, die mit fettfreien
-            Lebensmitteln in Berührung kommen, außer bei Säuglingsanfangsnahrung,
-            Folgenahrung, Getreidebeikost oder anderer Beikost für Säuglinge und
-            Kleinkinder;
-
-
-        c)  technisches Hilfsagens in Konzentrationen von bis zu 0,1 % im
-            Enderzeugnis.
-
-
-
-        SML(T) = 9 mg/kg Simulanzlösemittel 2)
-
-    *   [42]
-
-
-*    *   75105
-
-    *   068515-49-1
-        026761-40-0
-
-    *   Phthalsäure, Diester mit primären, C9 C11 - Alkoholen, über 90 % C10
-
-    *   Nur zu verwenden als
-
-        a)  Weichmacher in Mehrwegmaterialien und -gegenständen;
-
-
-        b)  Weichmacher in Einwegmaterialien und -gegenständen, die mit fettfreien
-            Lebensmitteln in Berührung kommen, außer bei Säuglingsanfangsnahrung,
-            Folgenahrung, Getreidebeikost oder anderer Beikost für Säuglinge und
-            Kleinkinder;
-
-
-        c)  technisches Hilfsagens in Konzentrationen von bis zu 0,1 % im
-            Enderzeugnis.
-
-
-
-        SML(T) = 9 mg/kg Simulanzlösemittel 2)
-
-    *   [42]
-
-
-*    *   76320
-
-    *   000085-44-9
-
-    *   Phthalsäureanhydrid
-
-    *
-    *
-
-*    *   76415
-
-    *   019455-79-9
-
-    *   Pimelinsäure, Calciumsalz
-
-    *
-    *
-
-*    *   76463
-
-    *   –
-
-    *   Polyacrylsäure, Salze
-
-    *   SML (T) = 6 mg/kg
-        (für Acrylsäure)
-
-    *   [36]
-
-
-*    *   76721
-
-    *   009016-00-6
-
-    *   Polydimethylsiloxan
-
-    *   1)
-
-    *
-
-*    *
-    *   063148-62-9
-
-    *   (MG>6800)
-
-    *
-    *
-
-*    *   76723
-
-    *   167883-16-1
-
-    *   Polydimethylsiloxan mit 3-Aminopropyl-Endgruppen, Polymer
-        mit Dicyclohexylmethan-4,4'-
-        diisocyanat
-
-    *   1                       )
-
-    *
-
-*    *   76725
-
-    *   661476-41-1
-
-    *   Polydimethylsiloxan mit 3-Aminopropyl-Endgruppen, Polymer mit
-        1-Isocyanato-3-isocyanatomethyl-3,5,5-trimethylcyclohexan
-
-    *   1                       )
-
-    *
-
-*    *   76730
-
-    *   -
-
-    *   Polydimethylsiloxan, gamma-hydroxypropyliert
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   76807
-
-    *   00073018-26-5
-
-    *   Polyester aus Adipinsäure mit 1,3-Butandiol, 1,2-Propandiol und
-        2-Ethyl-1-hexanol
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   76815
-
-    *   –
-
-    *   Polyester aus Adipinsäure mit Glyzerin oder Pentaerythrit, Ester mit
-        geradzahligen, unverzweigten C(tief)12-C(tief)22-Fettsäuren
-
-    *   1)
-
-    *
-
-*    *   76845
-
-    *   031831-53-5
-
-    *   Polyester aus 1,4-Butandiol mit Caprolacton
-
-    *   Die Beschränkung für Ref.-Nr. 14260 und Ref.- Nr. 13720 ist
-        einzuhalten.1)
-
-    *
-
-*    *   76866
-
-    *   -
-
-    *   Polyester von 1,2-Propandiol und/oder 1,3- und/oder 1,4-Butandiol
-        und/oder Polypropylenglykol mit Adipinsäure, auch mit endständiger
-        Essigsäure oder C(tief)12-C(tief)18 Fettsäuren oder n-Octanol und/oder
-        n-Decanol
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   76865
-
-    *   -
-
-    *   Polyester von 1,2-Propandiol und/oder Polypropylenglykol mit
-        Adipinsäure, auch mit endständiger Essigsäure oder
-        (C(tief)10-C(tief)18 Festsäuren oder n-Octanol und/oder n-Decanol
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   76960
-
-    *   025322-68-3
-
-    *   Polyethylenglykol
-
-    *
-    *
-
-*    *   77370
-
-    *   070142-34-6
-
-    *   Polyethylenglycol-30-dipolyhydroxystearat
-
-    *
-    *
-
-*    *   77600
-
-    *   061788-85-0
-
-    *   Ester von Polyethylenglykol mit hydriertem Rizinusöl
-
-    *
-    *
-
-*    *   77702
-
-    *   -
-
-    *   Ester von Polyethylenglykol mit aliphatischen Monocarbonsäuren
-        (C(tief)6-C(tief)22) und ihre Ammonium- und Natriumsulfate
-
-    *
-    *
-
-*    *   77708
-
-    *   –
-
-    *   Polyethylenglycolether (EO = 1–50) von linearen und verzweigten
-        primären Alkoholen (C
-        8                       –C
-        22                       )
-
-    *   SML = 1,8 mg/kg. Die Spezifikationen in Abschnitt 5 sind einzuhalten.
-
-    *
-
-*    *   77732
-
-    *   –
-
-    *   Polyethylenglycol (EO = 1-30,
-        typischerweise 5)-ether von
-        Butyl-2-cyano-3-(4-hydroxy-3-
-        methoxyphenyl)-acrylat
-
-    *   SML = 0,05 mg/kg. Nur zur
-        Verwendung in PET.
-
-    *
-
-*    *   77733
-
-    *   –
-
-    *   Polyethylenglycol (EO = 1-30,
-        typischerweise 5)-ether von Butyl-2-cyano-3-(4-hydroxyphenyl)-acrylat
-
-    *   SML = 0,05 mg/kg. Nur zur
-        Verwendung in PET.
-
-    *
-
-*    *   77895
-
-    *   068439-49-6
-
-    *   Polyethylenglykol (EO=2-6)monoalkyl (C(tief)16-C(tief)18) ether
-
-    *   SML = 0,05 mg/kg 1)
-
-    *
-
-*    *   77897
-
-    *   –
-
-    *   Polyethylenglycol (EO = 1-50)-
-        monoalkylether (linear und
-        verzweigt, C
-        8                       -C
-        20                       )-sulfat, Salze
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   79040
-
-    *   009005-64-5
-
-    *   Polyethylenglykolsorbitanmonolaurat
-
-    *
-    *
-
-*    *   79120
-
-    *   009005-65-6
-
-    *   Polyethylenglykolsorbitanmonooleat
-
-    *
-    *
-
-*    *   79200
-
-    *   009005-66-7
-
-    *   Polyethylenglykolsorbitanmonopalmitat
-
-    *
-    *
-
-*    *   79280
-
-    *   009005-67-8
-
-    *   Polyethylenglykolsorbitanmonostearat
-
-    *
-    *
-
-*    *   79360
-
-    *   009005-70-3
-
-    *   Polyethylenglykolsorbitantrioleat
-
-    *
-    *
-
-*    *   79440
-
-    *   009005-71-4
-
-    *   Polyethylenglykolsorbitantristearat
-
-    *
-    *
-
-*    *   79600
-
-    *   009046-01-9
-
-    *   Polyethylenglycoltridecyletherphosphat
-
-    *   SML = 5 mg/kg. Nur für Materialien und Gegenstände, die dazu bestimmt
-        sind, mit wässrigen Lebensmitteln in Berührung zu kommen. 1)
-
-    *
-
-*    *   79920
-
-    *   009003-11-6
-        106392-12-5
-
-    *   Poly(ethylenpropylen)-glykol
-
-    *
-    *
-
-*    *   80000
-
-    *   009002-88-4
-
-    *   Polyethylenwachs
-
-    *
-    *
-
-*    *   80077
-
-    *   0068441-17-8
-
-    *   Oxidierte Polyethylenwachse
-
-    *   SML = 60 mg/kg
-
-    *
-
-*    *   80240
-
-    *   029894-35-7
-
-    *   Polyglycerinricinoleat
-
-    *
-    *
-
-*    *   80350
-
-    *   0124578-12-7
-
-    *   Poly(12-hydroxystearinsäure)- Polyethylenimin-Copolymer
-
-    *   Nur zur Verwendung in Polyethylenterephthalat (PET), Polystyrol (PS),
-        hochschlagfestem Polystyrol (HIPS) und Polyamid (PA) bis zu einem
-        Massenanteil von 0,1 %. Die Spezifikationen in Abschnitt 5 sind
-        einzuhalten.
-
-    *
-
-*    *   80480
-
-    *   0090751-07-8; 0082451-48-7
-
-    *   Poly(6-morpholino-1,3,5-triazin-2,4-diyl)-[(2,2,6,6-tetramethyl-4- pip
-        eridyl)-imino)]-hexamethylen-[(2,2,6,6-tetramethyl-4-piperidyl)imino)]
-
-    *   SML = 5 mg/kg [47]. Die Spezifikationen in Abschnitt 5 sind
-        einzuhalten.
-
-    *
-
-*    *   80510
-
-    *   1010121-89-7
-
-    *   Poly(3-nonyl-1,1-dioxo-1-thiopropan-1,3-diyl)-block-
-        poly(x-oleyl-7-hydroxy-1,5- diiminooctan-1,8-diyl), Mischung mit x = 1
-        und/oder 5, neutralisiert mit Dodecylbenzolsulfonsäure
-
-    *   Nur zu verwenden als Polymerisationshilfsmittel in Polyethylen (PE),
-        Polypropylen (PP) und Polystyrol (PS).
-
-    *
-
-*    *   80640
-
-    *   -
-
-    *   Polyoxyalkyl-(C(tief)2-C(tief)4)-di-methylpolysiloxan
-
-    *
-    *
-
-*    *   80720
-
-    *   008017-16-1
-
-    *   Polyphosphorsäuren
-
-    *
-    *
-
-*    *   80800
-
-    *   025322-69-4
-
-    *   Polypropylenglykol
-
-    *
-    *
-
-*    *   81060
-
-    *   009003-07-0
-
-    *   Polypropylenwachs
-
-    *
-    *
-
-*    *   81220
-
-    *   192268-64-7
-
-    *   Poly-((6-(N-(2,2,6,6-tetramethyl-4-piperidinyl)-n-butylamino)
-        1,3,5-triazin-2,4- diyl)(2,2,6,6-tetramethyl-4-piperidinyl)
-        imino)-1,6-hexandiyl) (2,2,6,6-tetramethyl- 4-piperidinyl)imino))-
-        alpha-(N,N,N',N'- tetrabutyl-N"-(2,2,6,6-
-        tetramethyl-4-piperidinyl)N"-(6-(2,2,6,6- tetramethyl-4-
-        piperidinylamino)- hexyl)(1,3,5triazin- 2,4,6-triamin)-omega-N,
-        N,N',N'-tetrabutyl- 1,3,5-tria-zin-2,4- diamin)
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   81500
-
-    *   009003-39-8
-
-    *   Polyvinylpyrrolidon
-
-    *   1                       )
-
-    *
-
-*    *   81515
-
-    *   087189-25-1
-
-    *   Poly(zinkglycerinat)
-
-    *   SML(T) = 25 mg/kg
-        (berechnet als Zink)
-
-    *   [38]
-
-
-*    *   81520
-
-    *   007758-02-3
-
-    *   Kaliumbromid
-
-    *
-    *
-
-*    *   81600
-
-    *   001310-58-3
-
-    *   Kaliumhydroxid
-
-    *
-    *
-
-*    *   81760
-
-    *   -
-
-    *   Pulver, Schuppen und Fasern von Messing, Bronze, Kupfer, Edelstahl,
-        Zinn und Legierungen aus Kupfer, Zinn und Eisen
-
-    *   SML (T) = 5 mg/kg
-        (berechnet als Kupfer); SML = 48 mg/kg (berechnet als Eisen)
-
-    *   [7]
-
-
-*    *   81840
-
-    *   000057-55-6
-
-    *   1,2-Propandiol
-
-    *
-    *
-
-*    *   81882
-
-    *   000067-63-0
-
-    *   2-Propanol
-
-    *
-    *
-
-*    *   82000
-
-    *   000079-09-4
-
-    *   Propionsäure
-
-    *
-    *
-
-*    *   82080
-
-    *   009005-37-2
-
-    *   1,2-Propylenglykolalginat
-
-    *
-    *
-
-*    *   82240
-
-    *   022788-19-8
-
-    *   1,2-Propylenglykoldilaurat
-
-    *
-    *
-
-*    *   82400
-
-    *   000105-62-4
-
-    *   1,2-Propylenglykoldioleat
-
-    *
-    *
-
-*    *   82560
-
-    *   033587-20-1
-
-    *   1,2-Propylenglykoldipalmitat
-
-    *
-    *
-
-*    *   82720
-
-    *   006182-11-2
-
-    *   1,2-Propylenglykoldistearat
-
-    *
-    *
-
-*    *   82800
-
-    *   027194-74-7
-
-    *   1,2-Propylenglykolmonolaurat
-
-    *
-    *
-
-*    *   82960
-
-    *   001330-80-9
-
-    *   1,2-Propylenglykolmonooleat
-
-    *
-    *
-
-*    *   83120
-
-    *   029013-28-3
-
-    *   1,2-Propylenglykolmonopalmitat
-
-    *
-    *
-
-*    *   83300
-
-    *   001323-39-3
-
-    *   1,2-Propylenglykolmonostearat
-
-    *
-    *
-
-*    *   83320
-
-    *   -
-
-    *   Propylhydroxyethylcellulose
-
-    *
-    *
-
-*    *   83325
-
-    *   -
-
-    *   Propylhydroxymethylcellulose
-
-    *
-    *
-
-*    *   83330
-
-    *   -
-
-    *   Propylhydroxypropylcellulose
-
-    *
-    *
-
-*    *   83440
-
-    *   002466-09-3
-
-    *   Pyrophosphorsäure
-
-    *
-    *
-
-*    *   83455
-
-    *   013445-56-2
-
-    *   Pyrophosphorige Säure
-
-    *
-    *
-
-*    *   83460
-
-    *   012269-78-2
-
-    *   Pyrophyllit
-
-    *
-    *
-
-*    *   83470
-
-    *   014808-60-7
-
-    *   Quarz
-
-    *
-    *
-
-*    *   83599
-
-    *   68442-12-6
-
-    *   Reaktionsprodukte von 2-Mercaptoethyloleat mit Dichlordimethylzinn,
-        Natriumsulfid und Trichlormethylzinn
-
-    *   SML(T) = 0,18 mg/kg
-        (berechnet als Zinn)
-
-    *   [16]
-
-
-*    *   83610
-
-    *   073138-82-6
-
-    *   Harzsäuren
-
-    *
-    *
-
-*    *   83840
-
-    *   008050-09-7
-
-    *   Kolophonium
-
-    *
-    *
-
-*    *   84000
-
-    *   008050-31-5
-
-    *   Kolophonium, Ester mit Glycerin
-
-    *
-    *
-
-*    *   84080
-
-    *   008050-26-8
-
-    *   Kolophonium, Ester mit Pentaerythrit
-
-    *
-    *
-
-*    *   84210
-
-    *   065997-06-0
-
-    *   Kolophonium, hydriertes
-
-    *
-    *
-
-*    *   84240
-
-    *   065997-13-9
-
-    *   Kolophonium, hydriertes, Ester mit Glycerin
-
-    *
-    *
-
-*    *   84320
-
-    *   008050-15-5
-
-    *   Kolophonium, hydriertes, Ester mit Methanol
-
-    *
-    *
-
-*    *   84400
-
-    *   064365-17-9
-
-    *   Kolophonium, hydriertes, Ester mit Pentaerythrit
-
-    *
-    *
-
-*    *   84560
-
-    *   009006-04-6
-
-    *   Naturkautschuk
-
-    *
-    *
-
-*    *   84640
-
-    *   000069-72-7
-
-    *   Salicylsäure
-
-    *
-    *
-
-*    *   85360
-
-    *   000109-43-3
-
-    *   Dibutylsebacat
-
-    *
-    *
-
-*    *   85601
-
-    *   -
-
-    *   Silicate, natürliche (ausgenommen Asbest)
-
-    *
-    *
-
-*    *   85610
-
-    *   -
-
-    *   Silicate, natürliche, silyliert (ausgenommen Asbest)
-
-    *
-    *
-
-*    *   85680
-
-    *   01343-98-2
-
-    *   Kieselsäure
-
-    *
-    *
-
-*    *   85840
-
-    *   053320-86-8
-
-    *   Lithiummagnesiumnatriumsilicat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   86000
-
-    *   -
-
-    *   Kieselsäure, silyliert
-
-    *
-    *
-
-*    *   86160
-
-    *   000409-21-2
-
-    *   Siliciumcarbid
-
-    *
-    *
-
-*    *   86240
-
-    *   007631-86-9
-
-    *   Siliciumdioxid
-
-    *
-    *
-
-*    *   86285
-
-    *   -
-
-    *   Siliciumdioxid, silyliert
-
-    *
-    *
-
-*    *   86560
-
-    *   007647-15-6
-
-    *   Natriumbromid
-
-    *
-    *
-
-*    *   86720
-
-    *   001310-73-2
-
-    *   Natriumhydroxid
-
-    *
-    *
-
-*    *   87040
-
-    *   01330-43-4
-
-    *   Natriumtetraborat
-
-    *   SML(T) = 6 mg/kg
-        (berechnet als Bor) 1)
-
-    *   [23]
-
-
-*    *   87200
-
-    *   000110-44-1
-
-    *   Sorbinsäure
-
-    *
-    *
-
-*    *   87280
-
-    *   029116-98-1
-
-    *   Sorbitandioleat
-
-    *
-    *
-
-*    *   87520
-
-    *   062568-11-0
-
-    *   Sorbitanmonobehenat
-
-    *
-    *
-
-*    *   87600
-
-    *   001338-39-2
-
-    *   Sorbitanmonolaurat
-
-    *
-    *
-
-*    *   87680
-
-    *   001338-43-8
-
-    *   Sorbitanmonooleat
-
-    *
-    *
-
-*    *   87760
-
-    *   026266-57-9
-
-    *   Sorbitanmonopalmitat
-
-    *
-    *
-
-*    *   87840
-
-    *   001338-41-6
-
-    *   Sorbitanmonostearat
-
-    *
-    *
-
-*    *   87920
-
-    *   061752-68-9
-
-    *   Sorbitantetrastearat
-
-    *
-    *
-
-*    *   88080
-
-    *   026266-58-0
-
-    *   Sorbitantrioelat
-
-    *
-    *
-
-*    *   88160
-
-    *   054140-20-4
-
-    *   Sorbitantripalmitat
-
-    *
-    *
-
-*    *   88240
-
-    *   026658-19-5
-
-    *   Sorbitantristearat
-
-    *
-    *
-
-*    *   88320
-
-    *   000050-70-4
-
-    *   Sorbit
-
-    *
-    *
-
-*    *   88600
-
-    *   026836-47-5
-
-    *   Sorbitolmonostearat
-
-    *
-    *
-
-*    *   88640
-
-    *   008013-07-8
-
-    *   Sojabohnenöl, epoxidiert
-
-    *   SML = 60 mg/kg. Bei PVC- Dichtungsmaterial, das zum Abdichten von
-        Glasgefäßen verwendet wird, die Säuglingsanfangsnahrung, Folgenahrung,
-        Getreidebeikost oder andere Beikost für Säuglinge und Kleinkinder
-        enthalten, wird der SML auf 30 mg/kg gesenkt. 1)
-
-    *
-
-*    *   88800
-
-    *   009005-25-8
-
-    *   Stärke, Lebensmittelstärke
-
-    *
-    *
-
-*    *   88880
-
-    *   068412-29-3
-
-    *   Stärke, hydrolisiert
-
-    *
-    *
-
-*    *   88960
-
-    *   000124-26-5
-
-    *   Stearamid
-
-    *
-    *
-
-*    *   89040
-
-    *   000057-11-4
-
-    *   Stearinsäure
-
-    *
-    *
-
-*    *   89120
-
-    *   000123-95-5
-
-    *   Stearinsäurebutylester
-
-    *
-    *
-
-*    *   89200
-
-    *   007617-31-4
-
-    *   Kupferstearat
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   89440
-
-    *   -
-
-    *   Ester von Stearinsäure mit Ethylenglykol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [3]
-
-
-*    *   90720
-
-    *   058446-52-9
-
-    *   Stearoylbenzoylmethan
-
-    *
-    *
-
-*    *   90800
-
-    *   005793-94-2
-
-    *   Calciumstearoyl-2-lactylat
-
-    *
-    *
-
-*    *   90960
-
-    *   000110-15-6
-
-    *   Bernsteinsäure
-
-    *
-    *
-
-*    *   91200
-
-    *   000126-13-6
-
-    *   Saccharoseacet-isobutyrat
-
-    *
-    *
-
-*    *   91360
-
-    *   000126-14-7
-
-    *   Saccharoseoctaacetat
-
-    *
-    *
-
-*    *   91530
-
-    *   –
-
-    *   Sulfobernsteinsäure Alkyl-(C
-        4                       -C
-        20                       )- oder Cyclohexyldiester, Natriumsalze
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   91815
-
-    *   –
-
-    *   Sulfobernsteinsäure Monoalkyl(C
-        10                       -C
-        16                       )polyethylen-glycolester, Natriumsalze
-
-    *   SML = 2 mg/kg
-
-    *
-
-*    *   91840
-
-    *   007704-34-9
-
-    *   Schwefel
-
-    *
-    *
-
-*    *   91920
-
-    *   007664-93-9
-
-    *   Schwefelsäure
-
-    *
-    *
-
-*    *   92030
-
-    *   010124-44-4
-
-    *   Kupfersulfat
-
-    *   SML(T) = 5 mg/kg
-        (berechnet als Kupfer)
-
-    *   [7]
-
-
-*    *   92080
-
-    *   014807-96-6
-
-    *   Talkum
-
-    *
-    *
-
-*    *   92150
-
-    *   01401-55-4
-
-    *   Gerbsäure
-
-    *   1)
-
-    *
-
-*    *   92160
-
-    *   000087-69-4
-
-    *   Weinsäure
-
-    *
-    *
-
-*    *   92195
-
-    *   -
-
-    *   Taurin, Salze
-
-    *
-    *
-
-*    *   92200
-
-    *   0006422-86-2
-
-    *   Bis(2-ethylhexyl)terephthalat
-
-    *   SML = 60 mg/kg
-
-    *
-
-*    *   92205
-
-    *   057569-40-1
-
-    *   Diester von Terephthalsäure mit 2,2'-Methylen-bis(4-methyl-6-tert-
-        butylphenol)
-
-    *
-    *
-
-*    *   92350
-
-    *   000112-60-7
-
-    *   Tetraethylenglykol
-
-    *
-    *
-
-*    *   92470
-
-    *   0106990-43-6
-
-    *   N,N´,N´,N´-Tetrakis(4,6-bis(butyl-(N-methyl-2,2,6,6-
-        tetramethylpiperidin-4-yl)amino)triazin-2-yl)-4,7-
-        diazadecan-1,10-diamin
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   92475
-
-    *   0203255-81-6
-
-    *   3,3´,5,5´-Tetrakis(tert-butyl)-2,2´- dihydroxybiphenyl, cyclischer
-        Ester mit [3-(3-tert-butyl-4-hydroxy-5-methylphenyl)propyl]
-        oxyphosphonsäure
-
-    *   SML = 5 mg/kg (berechnet als Summe der Phosphit- und Phosphatform des
-        Stoffes und der Hydrolyseprodukte)
-
-    *
-
-*    *   92640
-
-    *   000102-60-3
-
-    *   N,N,N',N'-Tetrakis (2-hydroxypropyl) ethylendiamin
-
-    *
-    *
-
-*    *   92700
-
-    *   078301-43-6
-
-    *   2,2,4,4-Tetramethyl-20-(2,3-epoxypropyl)-7
-        -oxa-3,20-diazadispiro-(5.1.11.2)-heneicosan-21-on, Polymer
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   92930
-
-    *   120218-34-0
-
-    *   Thiodiethylen-bis-(5-methoxy-
-        carbonyl-2,6-dimethyl-1,4-dihydropyridin-3-carboxy lat)
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   93440
-
-    *   013463-67-7
-
-    *   Titandioxid
-
-    *
-    *
-
-*    *   93450
-
-    *   –
-
-    *   Titandioxid, beschichtet mit einem Copolymer aus n-Octyltrichlorsilan
-        und [Aminotris(methylenphosphon-säure), penta-Natriumsalz]
-
-    *   Die Spezifikationen in Abschnitt 5 sind einzuhalten.
-
-    *
-
-*    *   93520
-
-    *   000059-02-9
-        010191-41-0
-
-    *   alpha-Tocopherol
-
-    *
-    *
-
-*    *   93680
-
-    *   009000-65-1
-
-    *   Traganth-Gummi
-
-    *
-    *
-
-*    *   93720
-
-    *   00108-78-1
-
-    *   2,4,6-Triamino-1,3,5-triazin
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   93760
-
-    *   000077-90-7
-
-    *   Tri-n-butylacetylcitrat
-
-    *
-    *
-
-*    *   94000
-
-    *   0000102-71-6
-
-    *   Triethanolamin
-
-    *   SML = 0,05 mg/kg (einschließlich des Hydrochlorid-Addukts)
-
-    *
-
-*    *   94320
-
-    *   000112-27-6
-
-    *   Triethylenglykol
-
-    *
-    *
-
-*    *   94425
-
-    *   0000867-13-0
-
-    *   Triethylphosphonoacetat
-
-    *   Nur zur Verwendung in Polyethylenterephthalat (PET).
-
-    *
-
-*    *   94960
-
-    *   000077-99-6
-
-    *   1,1,1-Trimethylolpropan
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   94985
-
-    *   –
-
-    *   Trimethylolpropan, gemischte Triester und Diester mit Benzoesäure und
-        2-Ethylhexansäure
-
-    *   SML = 5 mg/kg. Nicht zur Verwendung für Gegenstände, die mit fetten
-        Lebensmitteln in Berührung kommen, für die das Simulanzlösemittel D
-        festgelegt ist.
-
-    *
-
-*    *   95000
-
-    *   028931-67-1
-
-    *   Copolymer aus Trimethylolpropan-trimethacrylat und Methylmethacrylat
-
-    *
-    *
-
-*    *   95020
-
-    *   006846-50-0
-
-    *   2,2,4-Trimethyl-1,3-pentandioldiisobutyrat
-
-    *   SML = 5 mg/kg Lebensmittel. Nur in Einweghandschuhen zu verwenden
-
-    *
-
-*    *   95200
-
-    *   001709-70-2
-
-    *   1,3,5-Trimethyl-2,4,6-tris(3,5-di-tert-butyl-4-hydroxybenzyl)-benzol
-
-    *
-    *
-
-*    *   95270
-
-    *   161717-32-4
-
-    *   2,4,6-Tris(tert-butyl) phenyl-2-butyl-2-ethyl-1,3-propandiolphosphit
-
-    *   SML = 2 mg/kg (Summe von Phosphit, Phosphat und dem Hydrolyseprodukt =
-        TTBP)
-
-    *
-
-*    *   95420
-
-    *   745070-61-5
-
-    *   1,3,5-Tris(2,2-dimethylpropanamido)-benzol
-
-    *   SML = 0,05 mg/kg Lebensmittel
-
-    *
-
-*    *   95725
-
-    *   110638-71-6
-
-    *   Vermiculit, Reaktionsprodukt mit Lithiumcitrat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   95855
-
-    *   007732-18-5
-
-    *   Wasser
-
-    *   1)
-
-    *
-
-*    *   95858
-
-    *   –
-
-    *   Wachse, paraffinisch, raffiniert, aus Erdöl oder aus synthetischen
-        Kohlenwasserstoffen gewonnen
-
-    *   SML = 0,05 mg/kg. Nicht zur Verwendung für Gegenstände, die mit fetten
-        Lebensmitteln in Berührung kommen.
-        1                       )
-
-    *
-
-*    *   95859
-
-    *   -
-
-    *   Raffinierte Wachse, die aus Erdöl oder aus synthetischen
-        Kohlenwasserstoffen gewonnen werden
-
-    *   1)
-
-    *
-
-*    *   95883
-
-    *   -
-
-    *   Weiße Mineralöle, paraffinisch, die aus Kohlenwasserstoffen auf der
-        Basis von Erdöl gewonnen werden
-
-    *   1)
-
-    *
-
-*    *   95905
-
-    *   013983-17-0
-
-    *   Wollastonit
-
-    *
-    *
-
-*    *   95920
-
-    *   -
-
-    *   Holzmehl und -fasern, naturbelassen
-
-    *
-    *
-
-*    *   95935
-
-    *   011138-66-2
-
-    *   Xanthan-Gummi
-
-    *
-    *
-
-*    *   96190
-
-    *   020427-58-1
-
-    *   Zinkhydroxid
-
-    *   SML(T) = 25 mg/kg
-        (berechnet als Zink)
-
-    *   [38]
-
-
-*    *   96240
-
-    *   001314-13-2
-
-    *   Zinkoxid
-
-    *   SML(T) = 25 mg/kg
-        (berechnet als Zink)
-
-    *   [38]
-
-
-*    *   96320
-
-    *   001314-98-3
-
-    *   Zinksulfid
-
-    *   SML(T) = 25 mg/kg
-        (berechnet als Zink)
-
-    *   [38]
-
-
-
-
-1)  Zu beachten sind auch die Spezifikationen/Reinheitsanforderungen in
-    Abschnitt 5 und bei Angaben von Ziffern in eckigen Klammern die
-    Anmerkungen in Abschnitt 6.
-
-
-2)  Die Überprüfung der spezifischen Migrationsgrenzwerte erfolgt an
-    Simulanzlösemitteln. Abweichend hiervon kann diese Überprüfung an
-    Lebensmitteln erfolgen, sofern diese noch nicht mit dem
-    Lebensmittelbedarfsgegenstand in Berührung gekommen sind und sie vorab
-    auf das Phthalat untersucht wurden und der dabei festgestellte Wert
-    unterhalb der Bestimmungsgrenze liegt.
-
-
-
-
-Teil B
-Verzeichnis der Additive, die für die Herstellung von
-Lebensmittelbedarfsgegenständen aus Kunststoff zugelassen sind und für
-die spezifische Migrationsgrenzwerte bei der Prüfung mit dem
-Simulanzlösemittel D oder den Testmedien für Ersatzprüfungen ab dem 1.
-Mai 2008 gelten
-##
-
-*    *   Für die in diesem Abschnitt aufgeführten Additive, die für die
-        Herstellung von Lebensmittelbedarfsgegenständen aus Kunststoff
-        zugelassen sind, gelten die dort genannten spezifischen
-        Migrationsgrenzwerte für die Prüfung mit den Simulanzlösemitteln A bis
-        C. Für die Prüfung mit dem Simulanzlösemittel D oder den Testmedien
-        für Ersatzprüfungen gelten die spezifischen Migrationsgrenzwerte erst
-        ab dem 1. Mai 2008.
-
-
-*    *   PM/REF-Nr.
-
-    *   CAS-Nr.
-
-    *   Bezeichnung
-
-    *   Beschränkungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   30180
-
-    *   02180-18-9
-
-    *   Manganacetat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   31500
-
-    *   025134-51-4
-
-    *   2-Ethylhexylacrylat-Acrylsäure-Copolymer
-
-    *   SML(T) = 6 mg/kg
-        (berechnet als Acrylsäure)
-        und
-        SML = 0,05 mg/kg
-        (berechnet als 2-Ethylhexylacrylat)
-
-    *   [36]
-
-
-*    *   31520
-
-    *   61167-58-6
-
-    *   2-tert-Butyl-6-(3-tert-butyl-2-hydroxy-5-methylbenzyl)-4-
-        methylphenylacrylat
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   31920
-
-    *   00103-23-1
-
-    *   Bis(2-ethylhexyl)adipat
-
-    *   SML = 18 mg/kg
-
-    *   [1]
-
-
-*    *   34130
-
-    *   –
-
-    *   Alkyl-Dimethylamine, linear mit
-        gerader Anzahl von Kohlenstoffatomen (C
-        12                       -C
-        20                       )
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   34230
-
-    *   -
-
-    *   Alkyl(C(tief)8-C(tief)22)sulfonsäure
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   34650
-
-    *   151841-65-5
-
-    *   Aluminiumhydroxybis (2,2'-methylen-bis(4,6-di-tert-butylphenyl)
-        phosphat)
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   35760
-
-    *   01309-64-4
-
-    *   Antimontrioxid
-
-    *   SML = 0,04 mg/kg
-        (berechnet als Antimon)
-
-    *   [39]
-
-
-*    *   36720
-
-    *   17194-00-2
-
-    *   Bariumhydroxid
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Barium)
-
-    *   [12]
-
-
-*    *   36800
-
-    *   10022-31-8
-
-    *   Bariumnitrat
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Barium)
-
-    *   [12]
-
-
-*    *   38000
-
-    *   000553-54-8
-
-    *   Lithiumbenzoat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   38240
-
-    *   00119-61-9
-
-    *   Benzophenon
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   38505
-
-    *   351870-33-2
-
-    *   cis-endo-Bicyclo (2.2.1)heptan-2,3-dicarbonsäure, Dinatriumsalz
-
-    *   SML = 5 mg/kg.Darf nicht in Polyethylen in Berührung mit sauren
-        Lebensmitteln verwendet werden; Reinheit >=96%
-
-    *
-
-*    *   38560
-
-    *   07128-64-5
-
-    *   2,5-Bis(5-tert-butyl-2-benzoxazolyl)thiophen
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   38700
-
-    *   63397-60-4
-
-    *   Bis(2-carbobutoxyethyl) zinn-bis(isooctylthioglycolat)
-
-    *   SML = 18 mg/kg
-
-    *
-
-*    *   38800
-
-    *   32687-78-8
-
-    *   N,N'-Bis(3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionyl) hydrazid
-
-    *   SML = 15 mg/kg
-
-    *
-
-*    *   38820
-
-    *   26741-53-7
-
-    *   Bis(2,4-di-tert-butylphenyl)pentaerythritoldiphosphit
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   38940
-
-    *   110675-26-8
-
-    *   2,4-Bis(dodecylthiomethyl)-6-methylphenol
-
-    *   SML(T) = 5 mg/kg
-
-    *   [40]
-
-
-*    *   39060
-
-    *   35958-30-6
-
-    *   1,1-Bis(2-hydroxy-3,5-di-tert-butylphenyl)ethan
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   39090
-
-    *   -
-
-    *   N,N-Bis(2-hydroxyethyl)alkyl(C(tief)8-C(tief)18)amin
-
-    *   SML(T) = 1,2 mg/kg
-
-    *   [13]
-
-
-*    *   39120
-
-    *   -
-
-    *   N,N-Bis(2-hydroxyethyl)alkyl(C(tief)8-C(tief)18) aminhydrochloride
-
-    *   SML(T) = 1,2 mg/kg (berechnet als tertiäres Amin (ausschließlich HCI))
-
-    *   [12]
-
-
-*    *   40000
-
-    *   00991-84-4
-
-    *   2,4-Bis(octylthio)-6-(4-hydroxy-3,5-di-tert-
-        butylanilino)-1,3,5-triazin
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   40020
-
-    *   110553-27-0
-
-    *   2,4-Bis(octylthiomethyl)-6- methylphenol
-
-    *   SML(T) = 5 mg/kg
-
-    *   [40]
-
-
-*    *   40160
-
-    *   61269-61-2
-
-    *   N,N'-Bis(2,2,6,6-tetramethyl-4-piperidyl) hexamethylendiamin -
-        1,2-dibromethan, Copolymer
-
-    *   SML = 2,4 mg/kg
-
-    *
-
-*    *   40720
-
-    *   025013-16-5
-
-    *   Tert-butyl-4-hydroxyanisol (= BHA)
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   40800
-
-    *   13003-12-8
-
-    *   4,4'-Butylidenbis(6-tert-butyl-3-methylphenyl-ditridecylphosphit)
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   40980
-
-    *   19664-95-0
-
-    *   Manganbutyrat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   42000
-
-    *   63438-80-2
-
-    *   (2-Carbobutoxyethyl) zinn-tris(isooctylthioglycolat)
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   42400
-
-    *   10377-37-4
-
-    *   Lithiumcarbonat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   42480
-
-    *   00584-09-8
-
-    *   Rubidiumcarbonat
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   43600
-
-    *   04080-31-3
-
-    *   1-(3-Chlorallyl)-3,5, 7-triaza-1-azonia-adamantanchlorid
-
-    *   SML = 0,3 mg/kg
-
-    *
-
-*    *   43680
-
-    *   00075-45-6
-
-    *   Chlordifluormethan
-
-    *   SML = 6 mg/kg 1)
-
-    *
-
-*    *   44960
-
-    *   11104-61-3
-
-    *   Cobaltoxid
-
-    *   SML(T) = 0,05 mg/kg
-        (berechnet als Cobalt)
-
-    *   [14]
-
-
-*    *   45440
-
-    *   -
-
-    *   Kresole, butylierte, styrolisierte
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   45650
-
-    *   6197-30-4
-
-    *   2-Cyano-2,3-diphenylacrylsäure, 2-Ethylhexylester
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   46640
-
-    *   000128-37-0
-
-    *   2,6-Di-tert-butyl-p-kresol (= BHT)
-
-    *   SML = 3,0 mg/kg
-
-    *
-
-*    *   47500
-
-    *   153250-52-3
-
-    *   N,N´-Dicyclohexyl-2,6-naphthalindicarboxamid
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   47600
-
-    *   84030-61-5
-
-    *   Di-n-dodecylzinn-bis (isooctylthioglycolat)
-
-    *   SML(T) = 0,05 mg/kg Lebensmittel [41] (ausgedrückt als Summe von
-        Mono-n-dodecylzinn-tris (isooctylthioglycolat), Di-n-dodecylzinn-
-        bis(isooctylthioglycolat), Mono-dodecylzinntrichlorid und Di-
-        dodecylzinndichlorid), ausgedrückt als Mono- und Didodecylzinnchlorid
-
-    *
-
-*    *   48640
-
-    *   00131-56-6
-
-    *   2,4-Dihydroxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   48800
-
-    *   00097-23-4
-
-    *   2,2'-Dihydroxy-5,5'-dichlordiphenylmethan
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   48880
-
-    *   00131-53-3
-
-    *   2,2'-Dihydroxy-4-methoxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   49595
-
-    *   057583-35-4
-
-    *   Dimethylzinn-bis (ethylhexylthioglycolat)
-
-    *   SML(T) = 0,18 mg/kg
-        (berechnet als Zinn)
-
-    *   [16]
-
-
-*    *   49600
-
-    *   26636-01-1
-
-    *   Dimethylzinn-bis (isooctylthioglycolat)
-
-    *   SML(T) = 0,18 mg/kg
-        (berechnet als Zinn)
-
-    *   [16]
-
-
-*    *   49840
-
-    *   02500-88-1
-
-    *   Dioctadecyldisulfid
-
-    *   SML = 3 mg/kg
-
-    *
-
-*    *   50160
-
-    *   -
-
-    *   Di-n-octylzinn-bis (n-alkyl(C(tief)10-C(tief)16)thioglycolat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50240
-
-    *   10039-33-5
-
-    *   Di-n-octylzinn-bis (2-ethylhexylmaleinat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50320
-
-    *   15571-58-1
-
-    *   Di-n-octylzinn-bis (2-ethylhexylthioglycolat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50360
-
-    *   -
-
-    *   Di-n-octylzinn-bis (ethylmaleinat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50400
-
-    *   33568-99-9
-
-    *   Di-n-octylzinn-bis (isooctylmaleinat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50480
-
-    *   26401-97-8
-
-    *   Di-n-octylzinn-bis (isooctylthioglycolat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50560
-
-    *   -
-
-    *   Di-n-octylzinn-1,4-Butandiol-bis (thioglycolat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50640
-
-    *   03648-18-8
-
-    *   Di-n-octylzinndilaurat
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50720
-
-    *   15571-60-5
-
-    *   Di-n-octylzinndimaleinat
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50800
-
-    *   -
-
-    *   Di-n-octylzinndimaleinat, verestert
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   50880
-
-    *   -
-
-    *   Di-n-octylzinndimaleinat, Polymere (n = 2-4)
-
-    *   SML(T) = 0,006 [mg/kg
-        (berechnet als Zinn)
-
-    *   (17]
-
-
-*    *   50960
-
-    *   69226-44-4
-
-    *   Di-n-octylzinn-Ethylenglykol-bis (thioglycolat)
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   51040
-
-    *   15535-79-2
-
-    *   Di-n-octylzinnthioglycolat
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   51120
-
-    *   -
-
-    *   Di-n-octylzinnthiobenzoat-2-ethylhexylthioglycolat
-
-    *   SML(T) = 0,006 mg/kg
-        (berechnet als Zinn)
-
-    *   [17]
-
-
-*    *   51570
-
-    *   00127-63-9
-
-    *   Diphenylsulfon
-
-    *   SML = 3 mg/kg
-
-    *   [25]
-
-
-*    *   51680
-
-    *   00102-08-9
-
-    *   N,N'-Diphenylthioharnstoff
-
-    *   SML = 3 mg/kg
-
-    *
-
-*    *   52000
-
-    *   27176-87-0
-
-    *   Dodecylbenzolsulfonsäure
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   52320
-
-    *   52047-59-3
-
-    *   2-(4-Dodecylphenyl) indol
-
-    *   SML = 0,06 mg/kg
-
-    *
-
-*    *   52880
-
-    *   23676-09-7
-
-    *   Ethyl-4-ethoxybenzoat
-
-    *   SML = 3,6 mg/kg
-
-    *
-
-*    *   53200
-
-    *   23949-66-8
-
-    *   2-Ethoxy-2'-ethyloxanilid
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   53670
-
-    *   032509-66-3
-
-    *   Ethylenglycol-bis-[3,3-bis-(3-tert-butyl-4-hydroxyphenyl)-butyrat]
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   54880
-
-    *   000050-00-0
-
-    *   Formaldehyd
-
-    *   SML(T) = 15 mg/kg
-
-    *   [22]
-
-
-*    *   55200
-
-    *   001166-52-5
-
-    *   Dodecylgallat
-
-    *   SML(T) = 30 mg/kg
-
-    *   [34]
-
-
-*    *   55280
-
-    *   001034-01-1
-
-    *   Octylgallat
-
-    *   SML(T) = 30 mg/kg
-
-    *   [34]
-
-
-*    *   55360
-
-    *   000121-79-9
-
-    *   Propylgallat
-
-    *   SML(T) = 30 mg/kg
-
-    *   [34]
-
-
-*    *   58960
-
-    *   00057-09-0
-
-    *   Hexadecyltrimethylammoniumbromid
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   59120
-
-    *   23128-74-7
-
-    *   1,6-Hexamethylen-bis (3-(3,5-di-tert-
-        butyl-4-hydroxyphenyl)-propionamid)
-
-    *   SML = 45 mg/kg
-
-    *
-
-*    *   59200
-
-    *   35074-77-2
-
-    *   1,6-Hexamethylen-bis (3-(3,5-di-tert-butyl-4-hydroxyphenyl) propionat)
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   60320
-
-    *   70321-86-7
-
-    *   2-(2-Hydroxy-3,5-bis (1,1-dimethylbenzyl)- phenyl)benzotriazol
-
-    *   SML = 1,5 mg/kg
-
-    *
-
-*    *   60400
-
-    *   03896-11-5
-
-    *   2-(2'-Hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorbenzotriazol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [19]
-
-
-*    *   60800
-
-    *   65447-77-0
-
-    *   1-(2-Hydroxyethyl)-4-hydroxy-2,2,6,6-tetramethylpiperidin -
-        Dimethylsuccinat, Copolymer
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   61280
-
-    *   03293-97-8
-
-    *   2-Hydroxy-4-n-hexyloxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   61360
-
-    *   00131-57-7
-
-    *   2-Hydroxy-4-methoxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   61440
-
-    *   02440-22-4
-
-    *   2-(2'-Hydroxy-5'-methylphenyl)benzotriazol
-
-    *   SML(T) = 30 mg/kg
-
-    *   [19]
-
-
-*    *   61600
-
-    *   01843-05-6
-
-    *   2-Hydroxy-4-n-octyloxybenzophenon
-
-    *   SML(T) = 6 mg/kg
-
-    *   [15]
-
-
-*    *   63200
-
-    *   51877-53-3
-
-    *   Manganlactat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   63940
-
-    *   008062-15-5
-
-    *   Lignosulfonsäure
-
-    *   SML = 0,24 mg/kg und nur als Dispergiermittel für
-        Kunststoffdispersionen zu verwenden
-
-    *
-
-*    *   64320
-
-    *   10377-51-2
-
-    *   Lithiumjodid
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Jod)
-
-    *   [11]
-
-
-*    *
-    *
-    *
-    *   und
-        SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   65120
-
-    *   07773-01-5
-
-    *   Manganchlorid
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   65200
-
-    *   12626-88-9
-
-    *   Manganhydroxid
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   65280
-
-    *   10043-84-2
-
-    *   Manganhypophosphit
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   65360
-
-    *   11129-60-5
-
-    *   Manganoxid
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   65440
-
-    *   -
-
-    *   Manganpyrophosphit
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   66350
-
-    *   085209-93-4
-
-    *   2,2’-Methylenbis(4,6-di-tert-butylphenyl) lithiumphosphat
-
-    *   SML = 5 mg/kg und SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   66360
-
-    *   85209-91-2
-
-    *   2,2'-Methylenbis(4,6-di-tert-butylphenyl)-natriumphosphat
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   66400
-
-    *   00088-24-4
-
-    *   2,2'-Methylenbis(4-ethyl-6-tert-butylphenol)
-
-    *   SML(T) = 1,5 mg/kg
-
-    *   [20]
-
-
-*    *   66480
-
-    *   00119-47-1
-
-    *   2,2'-Methylenbis(4-methyl-6-tert-butylphenol)
-
-    *   SML(T) = 1,5 mg/kg
-
-    *   [20]
-
-
-*    *   67360
-
-    *   67649-65-4
-
-    *   Mono-n-dodecylzinntris(isooctylthioglycolat)
-
-    *   SML(T) = 0,05 mg/kg Lebensmittel
-        (ausgedrückt als Summe von Mono-n-dodecylzinn-
-        tris(isooctylthioglycolat), Di-n-dodecylzinn-
-        bis(isooctylthioglycolat), Monododecylzinntrichlorid und Di-
-        dodecylzinndichlorid), ausgedrückt als Mono- und Didodecylzinnchlorid
-
-    *   [41]
-
-
-*    *   67515
-
-    *   057583-34-3
-
-    *   Monomethylzinn tris (ethylhexylthioglycolat)
-
-    *   SML(T) = 0,18 mg/kg
-        (berechnet als Zinn)
-
-    *   [16]
-
-
-*    *   67520
-
-    *   54849-38-6
-
-    *   Monomethylzinn-tris-(isooctylthioglycolat)
-
-    *   SML(T) = 0,18 mg/kg
-        (berechnet als Zinn)
-
-    *   [16]
-
-
-*    *   67600
-
-    *   -
-
-    *   Mono-n-octylzinntris(alkyl(C(tief)10-C(tief)16)thioglycolat)
-
-    *   SML(T) = 1,2 mg/kg
-        (berechnet als Zinn)
-
-    *   [18]
-
-
-*    *   67680
-
-    *   27107-89-7
-
-    *   Mono-n-octylzinn-tris (2-ethylhexylthioglycolat)
-
-    *   SML(T) = 1,2 mg/kg
-        (berechnet als Zinn)
-
-    *   [18]
-
-
-*    *   67760
-
-    *   26401-86-5
-
-    *   Mono-n-octylzinn-tris (isooctylthioglycolat)
-
-    *   SML(T) = 1,2 mg/kg
-        (berechnet als Zinn)
-
-    *   [18]
-
-
-*    *   67896
-
-    *   020336-96-3
-
-    *   Lithiummyristat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   68320
-
-    *   02082-79-3
-
-    *   Octadecyl-3(3,5-di-tert-butyl-4-hydroxyphenyl)propionat
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   68400
-
-    *   10094-45-8
-
-    *   Octadecylerucamid
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   68860
-
-    *   04724-48-5
-
-    *   n-Octylphosphonsäure
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   69160
-
-    *   014666-94-5
-
-    *   Cobaltoleat
-
-    *   SML(T) = 0,05 mg/kg
-        (berechnet als Cobalt)
-
-    *   [14]
-
-
-*    *   69840
-
-    *   16260-09-6
-
-    *   Oleylpalmitamid
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   71935
-
-    *   007601-89-0
-
-    *   Natriumperchlorat-Monohydrat
-
-    *   SML = 0,05 mg/kg
-
-    *   [31]
-
-
-*    *   72081/10
-
-    *   –
-
-    *   Erdölkohlenwasserstoffharze (hydriert)
-
-    *   1                       )
-
-    *
-
-*    *   72160
-
-    *   00948-65-2
-
-    *   2-Phenylindol
-
-    *   SML = 15 mg/kg
-
-    *
-
-*    *   72800
-
-    *   01241-94-7
-
-    *   Diphenyl-2-ethylhexylphosphat
-
-    *   SML = 2,4 mg/kg
-
-    *
-
-*    *   73040
-
-    *   13763-32-1
-
-    *   Lithiumphosphat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   73120
-
-    *   10124-54-6
-
-    *   Manganphosphat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Mangan)
-
-    *   [10]
-
-
-*    *   74400
-
-    *   -
-
-    *   Tris(nonyl-und/oder dinonylphenyl)phosphit
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   77440
-
-    *   -
-
-    *   Polyethylenglykoldiricinoleat
-
-    *   SML = 42 mg/kg
-
-    *
-
-*    *   77520
-
-    *   61791-12-6
-
-    *   Ester von Polyethylenglykol mit Rizinusöl
-
-    *   SML = 42 mg/kg
-
-    *
-
-*    *   78320
-
-    *   09004-97-1
-
-    *   Polyethylenglykolmonoricinoleat
-
-    *   SML = 42 mg/kg
-
-    *
-
-*    *   81200
-
-    *   71878-19-8
-
-    *   Poly(6-((1,1,3,3-tetramethylbutyl) amino)-1,3,5-triazin
-        -2,4-diyl)-(2,2,6,6-tetramethyl-4-piperidyl) imino-
-        hexamethylen-((2,2,6,6-tetramethyl-4-piperidyl)imino
-
-    *   SML = 3 mg/kg
-
-    *
-
-*    *   81680
-
-    *   07681-11-0
-
-    *   Kaliumjodid
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Jod)
-
-    *   [11]
-
-
-*    *   82020
-
-    *   19019-51-3
-
-    *   Cobaltpropionat
-
-    *   SML(T) = 0,05 mg/kg
-        (berechnet als Cobalt)
-
-    *   [14]
-
-
-*    *   83595
-
-    *   119345-01-6
-
-    *   Reaktionsprodukt von Di-tert-butylphosphonit mit Biphenyl, erzeugt
-        durch Kondensation von 2,4-Di-tert-butylphenol mit dem Friedel-Crafts-
-        Reaktionsprodukt aus Phosphortrichlorid und Biphenyl
-
-    *   SML = 18 mg/kg
-        1                       )
-
-    *
-
-*    *   83700
-
-    *   00141-22-0
-
-    *   Rizinolsäure
-
-    *   SML = 42 mg/kg
-
-    *
-
-*    *   84800
-
-    *   00087-18-3
-
-    *   4-tert-Butylphenylsalicylat
-
-    *   SML = 12 mg/kg
-
-    *
-
-*    *   84880
-
-    *   00119-36-8
-
-    *   Methylsalicylat
-
-    *   SML = 30 mg/kg
-
-    *
-
-*    *   85760
-
-    *   12068-40-5
-
-    *   Lithiumaluminiumsilicat (2:1:1)
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   85920
-
-    *   12627-14-4
-
-    *   Lithiumsilicat
-
-    *   SML(T) = 0,6 mg/kg
-        (berechnet als Lithium)
-
-    *   [8]
-
-
-*    *   85950
-
-    *   037296-97-2
-
-    *   Magnesium-Natrium-Fluoridsilikat
-
-    *   SML = 0,15 mg/kg (berechnet als Fluorid). Darf nur in jenen Schichten
-        mehrschichtiger Materialien verwendet werden, die nicht unmittelbar
-        mit Lebensmitteln in Berührung kommen.
-
-    *
-
-*    *   86480
-
-    *   007631-90-5
-
-    *   Natriumbisulfit
-
-    *   SML(T) = 10 mg/kg
-        (berechnet als SO(tief)2)
-
-    *   [30]
-
-
-*    *   86800
-
-    *   07681-82-5
-
-    *   Natriumjodid
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Jod)
-
-    *   [11]
-
-
-*    *   86880
-
-    *   -
-
-    *   Natriumdialkylphenoxybenzol-disulfonat
-
-    *   SML = 9 mg/kg
-
-    *
-
-*    *   86920
-
-    *   007632-00-0
-
-    *   Natriumnitrit
-
-    *   SML = 0,6 mg/kg
-
-    *
-
-*    *   86960
-
-    *   007757-83-7
-
-    *   Natriumsulfit
-
-    *   SML(T) = 10 mg/kg[
-        (berechnet als SO(tief)2)
-
-    *   [30]
-
-
-*    *   87120
-
-    *   007772-98-7
-
-    *   Natriumthiosulfat
-
-    *   SML(T) = 10 mg/kg
-        (berechnet als SO(tief)2)
-
-    *   [30]
-
-
-*    *   89170
-
-    *   13586-84-0
-
-    *   Cobaltstearat
-
-    *   SML(T) = 0,05 mg/kg
-        (berechnet als Cobalt)
-
-    *   [14]
-
-
-*    *   92000
-
-    *   07727-43-7
-
-    *   Bariumsulfat
-
-    *   SML(T) = 1 mg/kg
-        (berechnet als Barium)
-
-    *   [12]
-
-
-*    *   92320
-
-    *   -
-
-    *   Tetradecyl-polyethylenoxid(E0=3-8)ether der Glycolsäure
-
-    *   SML = 15 mg/kg
-
-    *
-
-*    *   92560
-
-    *   38613-77-3
-
-    *   Tetrakis(2,4-di-tert-butylphenyl)-4,4'-biphenylen-diphosphonit
-
-    *   SML = 18 mg/kg
-
-    *
-
-*    *   92800
-
-    *   00096-69-5
-
-    *   4,4'-Thiobis(6-tert-butyl-3-methylphenol)
-
-    *   SML = 0,48 mg/kg
-
-    *
-
-*    *   92880
-
-    *   41484-35-9
-
-    *   Thiodiethanol-bis(3-(3,5-di-tert-butyl-4-hydroxyphenyl) propionat)
-
-    *   SML = 2,4 mg/kg
-
-    *
-
-*    *   93120
-
-    *   00123-28-4
-
-    *   Didodecylthiodipropionat
-
-    *   SML(T) = 5 mg/kg
-
-    *   [21]
-
-
-*    *   93280
-
-    *   00693-36-7
-
-    *   Dioctadecylthiodipropionat
-
-    *   SML(T) = 5 mg/kg
-
-    *   [21]
-
-
-*    *   93970
-
-    *   –
-
-    *   Tricyclodecandimethanol-bis(hexahydrophthalat)
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   94400
-
-    *   036443-68-2
-
-    *   Triethylenglykol-bis (3-(3-tert-butyl-4-
-        hydroxy-5-methylphenyl)propionat)
-
-    *   SML = 9 mg/kg
-
-    *
-
-*    *   94560
-
-    *   000122-20-3
-
-    *   Triisopropanolamin
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   95265
-
-    *   227099-60-7
-
-    *   1,3,5-Tris(4-benzoylphenyl)benzol
-
-    *   SML = 0,05 mg/kg
-
-    *
-
-*    *   95280
-
-    *   40601-76-1
-
-    *   1,3,5-Tris(4-tert-
-        butyl-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazin-2,4,6(1H,3H ,
-        5H)-trion
-
-    *   SML = 6 mg/kg
-
-    *
-
-*    *   95360
-
-    *   27676-62-6
-
-    *   1,3,5-Tris(3,5-di-tert-butyl-4-hydroxy-
-        benzyl)-1,3,5-triazin-2,4,6(1H,3H,5H)-tr ion
-
-    *   SML = 5 mg/kg
-
-    *
-
-*    *   95600
-
-    *   01843-03-4
-
-    *   1,1,3-Tris(2-methyl-4-hydroxy-5-tert-butylphenyl)butan
-
-    *   SML = 5 mg/kg
-
-    *
-
-
-
-1)  Zu beachten sind auch die Spezifikationen/Reinheitsanforderungen in
-    Abschnitt 5 und bei Angaben von Ziffern in eckigen Klammern die
-    Anmerkungen in Abschnitt 6.
-
-
-
-
-**Abschnitt 3**
-## (weggefallen)
-
-*    *
-
-*    *
-
-
-
-   Abschnitt 4
-**Durch bakterielle Fermentation gewonnene Erzeugnisse, die zur
-Herstellung von Lebensmittelbedarfsgegenständen verwendet werden
-dürfen**
-(zu § 4 Abs. 4)
-##
-
-*    *   PM/REF-Nr.
-
-    *   CAS-Nr.
-
-    *   Bezeichnung
-
-    *   Beschränkungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   18888
-
-    *   80181-31-3
-
-    *   3-Hydroxybuttersäure-
-        3-hydroxyvaleriansäure-Copolymer
-
-    *   1                       )
-
-
-
-
-1)  Zu beachten sind auch die Spezifikationen/Reinheitsanforderungen in
-    Abschnitt 5.
-
-
-
-
-Abschnitt 5
-Spezifikationen/Reinheitsanforderungen für bestimmte
-**Monomere und sonstige Ausgangsstoffe sowie für bestimmte Additive**
-(zu § 4 Abs. 2, 3, 3a und 4, § 6 Nr. 2 und § 8 Abs. 1)
-Teil A
-## Allgemeine Spezifikationen/Reinheitsanforderungen
-
-*    *   Lebensmittelbedarfsgegenstände aus Kunststoff sowie
-        Lebensmittelbedarfsgegenstände im Sinne des § 2 Nr. 2 Buchstabe c
-        hinsichtlich der aufzubringenden Beschichtung dürfen primäre
-        aromatische Amine nicht in einer nachweisbaren Menge abgeben (NG =
-        0,01 mg/kg Lebensmittel oder Simulanzlösemittel). Für die Migration
-        der in den Verzeichnissen in den Abschnitten 1 und 2 aufgeführten
-        primären aromatischen Amine gilt diese Beschränkung nicht.
-
-
-
-
-Teil B
-## Besondere Spezifikationen/Reinheitsanforderungen
-
-*    *   PM/REF-Nr.
-
-    *   Bezeichnung/besondere Spezifikation/Reinheitsanforderungen
-
-
-*    *   1
-
-    *   2
-
-
-*    *   11530
-
-    *   **2-Hydroxypropylacrylat**
-        Kann bis zu 25% (w/w)-2-Hydroxyisopropylacrylat (CAS-Nr. 002918-23-2)
-        enthalten
-
-
-*    *   13620
-
-    *   **Borsäure**
-        Die Bestimmungen der Richtlinie 98/83/EG des Rates vom 3. November
-        1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
-        EG Nr. L 330 S. 32) sind einzuhalten.
-
-
-*    *   16690
-
-    *   **Divinylbenzol**
-        Kann bis zu 45% Ethylvinylbenzol enthalten,
-
-
-*    *   18888
-
-    *   3-Hydroxybuttersäure-3-hydroxyvaleriansäure-Copolymer
-
-
-*    *   Herstellung:
-
-    *   Diese Copolymere werden durch kontrollierte Fermentation von
-        Alcaligenes eutrophus gewonnen, wobei Mischungen von Glucose und
-        Propionsäure als Kohlenstoffquellen eingesetzt werden. Der verwendete
-        Organismus wurde nicht gentechnisch gewonnen, sondern entstammt einem
-        einzigen Wildstamm von Alcaligenes eutrophus (H16 NCIMB 10442). Die
-        Ausgangsstämme werden gefriergetrocknet in Ampullen gelagert. Anhand
-        der Ausgangsstämme werden Teilstämme für die Herstellung gewonnen, die
-        in flüssigem Stickstoff gelagert werden. Sie dienen der Herstellung
-        von Impfmaterial für den Fermenter. Proben aus dem Fermenter werden
-        täglich mikroskopisch sowie im Hinblick auf morphologische
-        Veränderungen der Kolonien auf unterschiedlichen Nährböden bei
-        verschiedenen Temperaturen untersucht. Die Copolymere werden aus den
-        hitzebehandelten Bakterien durch kontrollierte Digestion der anderen
-        Zellbestandteile, Waschen und Trocknen isoliert. Die Copolymere werden
-        normalerweise als durch Schmelzen konfektioniertes Granulat mit
-        Zusatzstoffen wie kristallkeimbildende Mittel, Weichmacher,
-        Füllmaterial, Stabilisatoren und Pigmenten angeboten, die alle den
-        allgemeinen und besonderen Spezifikationen entsprechen.
-
-
-*    *   Chemische Bezeichnung:
-
-    *   Poly(3-D-hydroxybutyrat-co-3-D-hydroxyvalerianat)
-
-
-*    *   CAS-Nummer:
-
-    *   80181-31-3
-
-
-*    *   durchschnittliches Molekulargewicht:
-
-    *   mindestens 150.000 Dalton (gemessen durch Gel-Permeations-
-        Chromatographie)
-
-
-*    *   Gehaltsbestimmung:
-
-    *   mindestens 98% Poly(3-D-Hydroxybutyrat-co-3-D-hydroxyvalerianat),
-        ermittelt nach Hydrolyse als Mischung von 3-D-Hydroxybuttersäure und
-        3-D-Hydroxyvalerianat
-
-
-*    *   Beschreibung:
-
-    *   nach Isolierung weißes bis cremefarbenes Pulver
-
-
-*    *   Eigenschaftenidentifikationsprüfungen:
-
-
-*    *   - Löslichkeit:
-
-    *   löslich in Chlorkohlenwasserstoffen (z. B. Chloroform, Dichlormethan),
-        jedoch praktisch unlöslich in Ethanol, aliphatischen Alkanen und
-        Wasser
-
-
-*    *   - Migrationsprüfung:
-
-    *   QMA für Crotonsäure: 0,05 mg/qdm
-
-
-*    *   - Reinheit:
-
-    *   Vor dem Granulieren darf der Ausgangsstoff (Copolymerpulver)
-        enthalten:
-
-
-*    *   - Stickstoff
-
-    *   höchstens 2.500 mg/kg Kunststoff
-
-
-*    *   - Zink
-
-    *   höchstens 100 mg/kg Kunststoff
-
-
-*    *   - Kupfer
-
-    *   höchstens 5 mg/kg Kunststoff
-
-
-*    *   - Blei
-
-    *   höchstens 2 mg/kg Kunststoff
-
-
-*    *   - Arsen
-
-    *   höchstens 1 mg/kg Kunststoff
-
-
-*    *   - Chrom
-
-    *   höchstens 1 mg/kg Kunststoff
-
-
-*    *   23547
-
-    *   **Polydimethylsiloxan (Mw>6.800)**
-        Mindestviskosität 100 x 10(hoch)-6m(hoch)2/s (= 100 Centistokes) bei
-        25 Grad
-
-
-*    *   24903
-
-    *   **Sirupe, hydrolysierte Stärke, hydriert**
-        Gemäß den Reinheitskriterien für Maltitsirup E 965 ii (Richtlinie
-        95/31/EG der Kommission vom 28. Juli 1995 (ABl. EG Nr. L 178 S. 1),
-        zuletzt geändert durch die Richtlinie 2004/46/EG vom 21. April 2004
-        (ABl. EU Nr. L 114 S. 15))
-
-
-*    *   25385
-
-    *   **Triallylamin**
-        40 mg/kg Hydrogel bei einem Verhältnis von 1 kg Lebensmittel zu
-        höchstens 1,5 Gramm Hydrogel. Nur zur Verwendung in Hydrogelen, die
-        bestimmungsgemäß nicht unmittelbar mit Lebensmitteln in Berührung
-        kommen.
-
-
-*    *   26360
-
-    *   **Wasser**
-        Die Anforderungen der Trinkwasserverordnung sind einzuhalten
-
-
-*    *   36840
-
-    *   **Bariumtetraborat**
-        Die Bestimmungen der Richtlinie 98/83/EG des Rates vom 3. November
-        1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
-        EG Nr. L 330 S. 32) sind einzuhalten
-
-
-*    *   38320
-
-    *   **4-(2-Benzoxazolyl)-4'-(5-methyl-2-**
-        benzoxazolyl)stilben Höchstens 0,05 Gewichtshundertteile (Stoff
-        bezogen auf die Formulierung)
-
-
-*    *   40320
-
-    *   **Borsäure**
-        Die Bestimmungen der Richtlinie 98/83/EG des Rates vom 3. November
-        1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
-        EG Nr. L 330 S. 32) sind einzuhalten
-
-
-*    *   42080
-
-    *   **Ruß**
-
-        –   Toluollösliche Substanzen: maximal 0,1 %, bestimmt nach ISO-Methode
-            6209
-
-
-        –   UV-Absorption des Cyclohexanextraktes bei 386 nm: < 0,02 AU für eine
-            Zelle von 1 cm oder < 0,1 AU für eine Zelle von 5 cm, bestimmt mit
-            einer allgemein anerkannten Analysenmethode
-
-
-        –   Benzo(a)pyrengehalt: maximal 0,25 mg/kg Ruß
-
-
-        –   Höchstwert für die Verwendung von Ruß im Polymer: 2,5 Gew.-%
-
-
-
-
-
-*    *   43480
-
-    *   **Aktivkohle**
-        Darf nur in PET mit höchstens 10 mg/kg Polymer verwendet werden. Es
-        gelten die gleichen Reinheitsanforderungen wie für Pflanzenkohle (E
-        153) gemäß der Richtlinie 95/45/EG der Kommission vom 22. September
-        1995 (ABl. EG Nr. L 226 S. 1), zuletzt geändert durch die Richtlinie
-        2006/33/EG vom 20. März 2006 (ABl. EU Nr. L 82 S. 10), mit Ausnahme
-        des Aschegehalts, der bis zu 10 Gew.-% betragen kann.
-
-
-*    *   43 ****                       680
-
-    *   **Chlordifluormethan**
-        Gehalt an Chlorfluormethan weniger als 1 mg/kg des Stoffs
-
-
-*    *   47210
-
-    *   **Dibutylthiozinnsäure-Polymer**
-        Moleküleinheit = (C(tief)8H(tief)18S(tief)3Sn(tief)2) n(n=1,5-2)
-
-
-*    *   60025
-
-    *   **Hydrierte Homopolymere und/oder Copolymere aus 1-Decen und/oder
-        1-Dodecen und/oder 1-Octen**
-        – Viskosität mindestens 3,8 cSt bei 100 °C
-        – durchschnittliches Molekulargewicht*                        450 Da.
-
-
-*    *   60027
-
-    *   Hydrierte Homopolymere und/oder Copolymere, hergestellt aus 1-Hexen
-        und/oder
-        1-Octen **und/oder 1-Decen und/oder 1-Dodecen und/oder 1-Tetradecen
-        (Molekulargewicht: 440 bis 12 000)**
-        – Durchschnittliches Molekulargewicht: mindestens 440 Da
-        – Viskosität bei 100 °C: mindestens 3,8 cSt (3,8 × 10
-        -6                        m
-        2                       /s)
-
-
-*    *   64990
-
-    *   **Maleinsäureanhydrid-Styrol-Copolymer, Natriumsalz**
-        Fraktion mit Molekulargewicht < 1.000 unter 0,05 Gew.-%
-
-
-*    *   67155
-
-    *   **Mischung aus 4-(2-Benzoxazolyl)-4'-(5-methyl-2-benzoxazolyl)stilben,
-        4,4'-Bis(2-benzoxazolyl)stilben und
-        4,4'-Bis(5-methyl-2-benzoxazolyl)stilben**
-        Mischung, gewonnen aus dem Herstellungsverfahren im typischen
-        Verhältnis von (58-62%):(23-27%):(13-17%)
-
-
-*    *   72081/10
-
-    *   **Erdölkohlenwasserstoffharze (hydriert)**
-        Hydrierte Erdölkohlenwasserstoffharze werden hergestellt durch
-        katalytische oder thermische Polymerisation von Dienen und Olefinen
-        der aliphatischen, alizyklischen und/oder monobenzenoidarylalkenen Art
-        aus gekrackten Erdöldestillaten mit einem Siedebereich von bis zu 220
-        °C, sowie aus den reinen Monomeren aus diesen Destillationsläufen mit
-        nachfolgender Destillation, Hydrierung und Weiterverarbeitung.
-        Viskosität: > 3 Pa.s bei 120 °C
-        Erweichungspunkt: > 95 °C, nach der ASTM-Methode E 28-67
-        Bromzahl: < 40 (ASTM D1159) Farbe einer 50 %igen Lösung in Toluol < 11
-        auf der Gardner-Skala Restliches aromatisches Monomer ≤ 50 mg/kg
-
-
-*    *   76721
-
-    *   **Polydimethylsiloxan (Mw>6.800)**
-        Mindestviskosität 100 x 10(hoch)-6qm/s(= 100 Centistokes) bei 25 Grad
-        C
-
-
-*    *   76723
-
-    *   Polydimethylsiloxan mit 3-Aminopropyl-Endgruppen, Polymer mit
-        **Dicyclohexyl-methan-4,4'-diisocyanat**
-        Die Fraktion mit einem Molekulargewicht unter 1 000 Da sollte 1,5
-        Gew.-% nicht übersteigen.
-
-
-*    *   76725
-
-    *   Polydimethylsiloxan mit 3-Aminopropyl-Endgruppen, Polymer mit
-        **1-Isocyanato-3-isocyanatomethyl-3,5,5-trimethylcyclohexan**
-        Die Fraktion mit einem Molekulargewicht unter 1 000 Da sollte 1 Gew.-%
-        nicht übersteigen.
-
-
-*    *   76815
-
-    *   **Polyester aus Adipinsäure mit Glyzerin oder Pentaerythritol, Ester
-        mit geradzahligen, nicht verzweigten C(tief)12-C(tief)22-Fettsäuren**
-        Fraktion mit Molekulargewicht < 1.000 unter 5 Gew.-%
-
-
-*    *   76845
-
-    *   **Polyester aus 1,4-Butandiol mit Caprolacton**
-        Fraktion mit Molekulargewicht < 1.000 unter 0,5 Gew.-%
-
-
-*    *   77708
-
-    *   Polyethylenglycolether (EO = 1-50) von linearen und verzweigten
-        primären Alkoholen (C
-        8                         -C
-        22 **)**
-        Höchstzulässiger Restgehalt von Ethylenoxid im Material oder
-        Gegenstand = 1 mg/kg
-
-
-*    *   77895
-
-    *   **Polyethylenglykol(EO = 2-6)-monoalkyl (C16-C18)-ether**
-        Die Mischung setzt sich folgendermaßen zusammen: Polyethylenglykol (EO
-        = 2-6)-monoalkyl(C16-C18)-ether (etwa 28%) Fettalkohole (C16-C18)
-        (etwa 48%) Ethylenglykolmonoalkyl (C16-C18)-ether (etwa 24%)
-
-
-*    *   79600
-
-    *   **Polyethylenglycoltridecyletherphosphat**
-        Polyethylenglycol(EO <= 11)tridecyletherphosphat(mono- und
-        dialkylester) mit einem Gehalt von höchstens 10% Polyethylenglycol(EO
-        <= 11)-tridecylether
-
-
-*    *   80350
-
-    *   **Poly(12-hydroxystearinsäure)-Polyethylenimin-Copolymer**
-        Hergestellt durch Reaktion von Poly(12-hydroxystearinsäure) mit
-        Polyethylenimin
-
-
-*    *   80480
-
-    *   **Poly(6-morpholino-1,3,5-triazin-2,4-diyl)-[(2,2,6,6-tetramethyl-4-pi
-        peridyl)-imino)]-hexamethylene-[(2,2,6,6-tetramethyl-4-piperidyl)imino
-        )]**
-        – Durchschnittliches Molekulargewicht: mindestens 2400 Da
-        – Restgehalt an Morpholin*                        30 mg/kg, an
-        N,N´-bis(2,2,6,6-tetramethyl-piperidin-4-yl)hexan-1,6-diamin < 15 000
-        mg/kg und an 2,4-Dichloro-6-morpholino-1,3,5-triazin*
-        20 mg/kg
-
-
-*    *   81500
-
-    *   **Polyvinylpyrrolidon**
-        Der Stoff muss den in der Richtlinie 96/77/EG der Kommission vom 2.
-        Dezember 1996 zur Festlegung spezifischer Reinheitskriterien für
-        andere Lebensmittelzusatzstoffe als Farbstoffe und Süßungsmittel (ABl.
-        EG Nr. L 339 S. 1) festgelegten Reinheitskriterien entsprechen.
-
-
-*    *   83595
-
-    *   **Reaktionsprodukt aus Di-tert.Butylphosphonit mit Biphenyl, erzeugt
-        durch Kondensation von 2,4-Di-tert.Butylphenol mit dem Friedel Crafts-
-        Reaktionsprodukt aus Phosphortrichlorid und Biphenyl**
-
-
-*    *   Zusammensetzung:
-
-    *   - 4,4'Biphenylen-bis(0,0-bis(2,4-di-tert. -butyl-phenyl)phosphonit)
-        (CAS-Nr. 38613-77-3) (36-46% w/w 1)),
-
-
-*    *   - 4,3'-Biphenylen-bis(0,0-bis(2,4-di-tert. -butyl-phenyl)phosphonit)
-        (CAS-Nr. 118421-00-4 (17-23% w/w 1)),
-
-
-*    *   - 3,3'-Biphenylen-bis(0,0-bis(2,4-di-tert. -butylphenyl)phosphonit)
-        (CAS-Nr. 118421-01-5) (1-5% w/w 1)),
-
-
-*    *   - 4-Biphenylen-(0,0-bis(2,4-di-tert. -butylphenyl)phosphonit (CAS-Nr.
-        91362-37-7) (11-19% w/w 1)),
-
-
-*    *   - Tris(2,4-di-tert.-butylphenyl)phosphit (CAS-Nr. 31570-04-4) (9-18%
-        w/w 1)),
-
-
-*    *   - 4,4'-Biphenylen-0,0-bis(2,4-di-tert.
-        butylphenyl)phosphonat-0,0-bis(2,4-di-tert.-butylphenyl)phosphonit
-        (CAS-Nr. 112949-97-0) (<5% w/w 1)).
-
-
-*    *   1) Menge der verwendeten Substanz/Menge der Formulierung.
-
-
-*    *   **Sonstige Spezifikationen**
-
-
-*    *   - Phosphorgehalt:
-
-    *   5,4%-5,9%
-
-
-*    *   - Säurezahl: max.
-
-    *   10 mg KOH/g
-
-
-*    *   - Schmelzintervall:
-
-    *   85-110 Grad C
-
-
-*    *   87040
-
-    *   **Natriumtetraborat**
-        Die Bestimmungen der Richtlinie 98/83/EG des Rates vom 3. November
-        1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
-        EG Nr. L 330 S. 32) sind einzuhalten
-
-
-*    *   88640
-
-    *   **Sojabohnenöl, epoxidiert;**                        Oxiran <8%,
-        Jodzahl <6
-
-
-*    *   92150
-
-    *   **Gerbsäure**
-        Die JECFA Spezifikationen sind einzuhalten
-
-
-*    *   93450
-
-    *   **Titandioxid, beschichtet mit einem Copolymer aus
-        n-Octyltrichlorsilan und [Amino-tris(methylenphosphonsäure), penta-
-        Natriumsalz]**
-        Der Massenanteil des Copolymers zur Oberflächenbehandlung des
-        beschichteten Titandioxids darf 1 % nicht überschreiten.
-
-
-*    *   95855
-
-    *   **Wasser**
-        Die Anforderungen der Trinkwasserverordnung sind einzuhalten
-
-
-*    *   95858
-
-    *   Wachse, paraffinisch, raffiniert, aus Erdöl oder aus synthetischen
-        **Kohlenwasserstoffen gewonnen**
-        – Durchschnittliches Molekulargewicht mindestens 350 Da
-        – Viskosität mindestens 2,5 cSt bei 100 °C
-        – Der Gehalt an mineralischen Kohlenwasserstoffen mit einer
-        Kohlenstoffzahl kleiner
-        als 25: nicht mehr als 40 Gew.-%.
-
-
-*    *   95859
-
-    *   **Wachse, raffiniert, die aus Erdöl oder aus synthetischen
-        Kohlenwasserstoffen gewonnen werden**
-        Das Produkt sollte folgenden Spezifikationen entsprechen:
-
-        -   Der Gehalt an mineralischen Kohlenwasserstoffen mit einer
-            Kohlenstoffzahl kleiner als 25: nicht mehr als 5 Gew.%
-
-
-        -   Viskosität mindestens 11 x 10(hoch)-6qm/s(= 11 Centistoke) bei 100
-            Grad C
-
-
-        -   durchschnittliches Molekulargewicht: mindestens 500
-
-
-
-
-
-*    *   95883
-
-    *   **Weiße Mineralöle paraffinisch, die aus Kohlenwasserstoffen auf der
-        Basis von Erdöl gewonnen werden**
-        Das Produkt sollte folgenden Spezifikationen entsprechen:
-
-        -   Der Gehalt an mineralischen Kohlenwasserstoffen mit einer
-            Kohlenstoffzahl kleiner als 25: nicht mehr als 5 Gew.%
-
-
-        -   Viskosität mindestens 8,5 x 10(hoch)-6qm/s(= 8,5 Centistoke) bei 100
-            Grad C
-
-
-        -   durchschnittliches Molekulargewicht: mindestens 480
-
-
-
-
-
-
-
-Abschnitt 6
-## **Anmerkungen zu bestimmten Monomeren, sonstigen Ausgangsstoffen
-und Additiven**
-
-*    *   Die Ziffern in den eckigen Klammern beziehen sich auf Angaben in den
-        Abschnitten 1 und 2, jeweils Spalte 4.
-
-
-*    *   [1] Warnung: Der SML könnte bei Simulanzlösemitteln für fetthaltige
-        Lebensmittel überschritten werden.
-        [2] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migration der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 10060 und 23920.
-        [3] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migration der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 15760, 16990,
-        47680, 53650 und 89440.
-        [4] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migration der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 19540, 19960 und
-        64800\.
-        [5] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migration der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 14200, 14230 und
-        41840\.
-        [6] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migration der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 66560 und 66580.
-        [7] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 30080, 42320,
-        45195, 45200, 53610, 81760, 89200, 92030.
-        [8] SML(T) bedeutet in diesem speziellen Fall, dass die Summe der
-        Migrationswerte der folgenden mit ihrer Ref.-Nr. angegebenen Stoffe
-        den angeführten Grenzwert nicht überschreiten darf: 24886, 30607,
-        38000, 42400, 62020, 64320, 66350, 67896, 73040, 85760, 85840, 85920
-        und 95725.
-        [9] Warnung: Es besteht die Gefahr, dass die Migration des Stoffes die
-        organoleptischen Eigenschaften des Lebensmittels beeinträchtigt und
-        dadurch das fertige Produkt nicht dem Artikel 3 Abs. 1 Buchstabe b und
-        c der Verordnung (EG)Nr. 1935/2004 des Europäischen Parlaments und des
-        Rates vom 27. Oktober 2004 über Materialien und Gegenstände, die dazu
-        bestimmt sind, mit Lebensmitteln in Berührung zu kommen und zur
-        Aufhebung der Richtlinien 80/590/EWG und 89/109/EWG (ABl. EU Nr. L 338
-        S. 4)entspricht.
-        [10] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 30180, 40980,
-        63200, 65120, 65200, 65280, 65360, 65440 und 73120.
-        [11] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte (als Iod berechnet) der folgenden
-        mit ihrer PM/REF-Nr. angegebenen Stoffe nicht überschritten werden
-        darf: 45200, 64320, 81680 und 86800.
-        [12] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 36720, 36800,
-        36840 und 92000.
-        [13] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 39090 und 39120.
-        [14] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 44960, 68078,
-        69160, 82020 und 89170.
-        [15] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 15970, 48640,
-        48720, 48880, 61280, 61360 und 61600.
-        [16] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 49595, 49600,
-        67520, 67515 und 83599.
-        [17] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 50160, 50240,
-        50320, 50360, 50400, 50480, 50560, 50640, 50720, 50800, 50880, 50960,
-        51040 und 51120.
-        [18] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 67600, 67680 und
-        67760\.
-        [19] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 60400, 60480 und
-        61440\.
-        [20] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 66400 und 66480.
-        [21] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 93120 und 93280.
-        [22] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 17260, 18670,
-        54880 und 59280.
-        [23] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 13620, 36840,
-        40320 und 87040.
-        [24] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 13720 und 40580.
-        [25] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 16650 und 51570.
-        [26] QM(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Restmengen der folgenden mit ihrer PM/REF-Nr.
-        angegebene Stoffe nicht überschritten werden darf: 14950, 15700,
-        16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210,
-        25240 und 25270.
-        [27] QMA(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Restmengen der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 10599/90A,
-        10599/91, 10599/92A und 10599/93.
-        [28] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 13480 und 39680.
-        [29] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 22775 und 69920.
-        [30] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 86480, 86960 und
-        87120\.
-        [31] Die Konformitätsprüfungen bei Kontakt mit Fett sollten unter
-        Verwendung von Fetten mit gesättigten Fettsäuren (z. B. HB 307 oder
-        Miglyol) als Simulanzlösung D erfolgen.
-        [32] Die Konformitätsprüfungen bei Kontakt mit Fett sollten unter
-        Verwendung von iso-Octan erfolgen wegen Instabilität des Stoffes in
-        Simulanzlösung D.
-        [33] QMA(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Restmengen der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 14800 und 45600.
-        [34] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer PM/REF-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 55200, 55280 und
-        55360\.
-        [35] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 25540 und 25550.
-        [36] SML (T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationsgrenzwerte der folgenden mit ihrer REF-
-        Nr. angegebenen Stoffe nicht überschritten werden darf: 10690, 10750,
-        10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980,
-        31500 und 76463.
-        [37] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 20020, 20080,
-        20110, 20140, 20170, 20890, 21010, 21100, 21130, 21190, 21280, 21340
-        und 21460.
-        [38] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 81515, 96190,
-        96240 und 96320 sowie Salze (Doppelsalze und saure Salze
-        eingeschlossen)] des Zinks der zugelassenen Säuren, Phenole oder
-        Alkohole. Die gleiche Beschränkung wie für Zink gilt auch für die
-        Bezeichnungen, die "... Säure(n), Salze" enthalten und die in den
-        Verzeichnissen aufgeführt sind, sofern die zugehörige(n) freie(n)
-        Säure(n) nicht aufgeführt ist (sind).
-        [39] Der Migrationsgrenzwert könnte bei sehr hohen Temperaturen
-        möglicherweise überschritten werden.
-        [40] SML(T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationswerte der folgenden mit ihrer Ref.-Nr.
-        angegebenen Stoffe nicht überschritten werden darf: 38940 und 40020.
-        [41] SML(T) bedeutet in diesem speziellen Fall, dass die Summe der
-        Migrationswerte der folgenden mit ihrer Ref.-Nr. angegebenen Stoffe
-        den angeführten Grenzwert nicht überschreiten darf: 47600, 67360.
-        [42] SML(T) bedeutet in diesem speziellen Fall, dass die Summe der
-        Migrationswerte der folgenden mit ihrer Ref.-Nr. angegebenen Stoffe
-        den angeführten Grenzwert nicht überschreiten darf: 75100 und 75105.
-        [43] SML (T) in diesem speziellen Fall bedeutet, dass die Beschränkung
-        durch die Summe der Migrationsgrenzwerte der folgenden mit ihrer REF-
-        Nr. angegebenen Stoffe nicht überschritten werden darf: 19150 und
-        19180\.
-        [44] Der SML könnte bei Polyolefinen überschritten werden.
-        [45] Der SML könnte bei Kunststoffen überschritten werden, die den
-        Stoff mit einem Massenanteil von mehr als 0,5 % enthalten.
-        [46] Der SML könnte bei Berührung mit Lebensmitteln mit hohem
-        Alkoholgehalt überschritten werden.
-        [47] Der SML könnte bei LDPE überschritten werden, das den Stoff mit
-        einem Massenanteil von mehr als 0,3 % enthält und mit fetten
-        Lebensmitteln in Berührung kommt.
-
-
-
-
-
-## Anlage 4 (zu § 5) Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
+## Anlage 4 Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 31;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -13905,8 +2863,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 6 Nr. 3)
 
-## Anlage 5 (zu § 6 Nr. 3) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
+## Anlage 5 Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
 
 
 *    *   (Fundstelle: BGBl. I 1998, 31;
@@ -13987,10 +2946,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+   (zu § 6 Nr. 4)
 
-## Anlage 5a (zu § 6 Nr. 4) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
+## Anlage 5a Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
 
-   Fundstelle des (Originaltextes: BGBl. I 2000, 850;
+Fundstelle des (Originaltextes: BGBl. I 2000, 850;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd.Nr.
@@ -14048,10 +3008,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3)
 
-## Anlage 6 (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3) Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
+## Anlage 6 Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 32;
+(Fundstelle: BGBl. I 1998, 32;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Lfd. Nr.
@@ -14070,11 +3031,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   Lebensmittelbedarfsgegenstände, die unter Verwendung von Vinylchlorid-
-        polymerisaten oder -kopolymerisaten hergestellt sind
+    *   (weggefallen)
 
-    *   0,01 Milligramm monomeres Vinylchlorid in einem Kilogramm Lebensmittel
-
+    *
 
 *    *   2.
 
@@ -14129,8 +3088,9 @@ Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt
 geprüft. Die Summe der beiden so festgestellten Werte wird je nach
 Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
+(zu § 9)
 
-## Anlage 7 (zu § 9) Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
+## Anlage 7 Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
 
 (Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen
 Änderungen vgl. Fußnote)
@@ -14190,8 +3150,9 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
    -
 
+(zu § 10 Abs. 3)
 
-## Anlage 9 (zu § 10 Abs. 3) Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
+## Anlage 9 Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 33;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14247,8 +3208,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 11)
 
-## Anlage 10 (zu § 11) Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
+## Anlage 10 Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
 
 (Fundstelle: BGBl. I 1998, 34 - 35;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14271,15 +3233,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.
 
-    *   Bestimmung von Migrationsgrenzwerten bei
-        Lebensmittelbedarfsgegenständen aus Kunststoff
+    *   (weggefallen)
 
-    *   Grundregeln und Analysenmethoden, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-        Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.30-1
-        (EG), Stand Januar 1998, und Gliederungsnummer B 80.30-2 und 3 (EG),
-        Stand April 2008, veröffentlicht sind
-
+    *
 
 *    *   2.
 
@@ -14308,15 +3264,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.
 
-    *   Bestimmung der Höchstmenge von Vinylchlorid, die vom
-        Lebensmittelbedarfsgegenstand aus Vinylchloridpolymerisaten auf
-        Lebensmittel übergehen darf
+    *   (weggefallen)
 
-    *   Analysenmethode, die in der Amtlichen Sammlung von
-        Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und
-        Futtermittelgesetzbuches 1) unter der Gliederungsnummer L 3 (EG),
-        Stand November 1981, veröffentlicht ist
-
+    *
 
 *    *   5a.
 
@@ -14531,7 +3481,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Natürliche und synthetische Textilien
         Textilien sind sämtliche Erzeugnisse, die in den Anwendungsbereich des
-        Textilkennzeichnungsgesetzes fallen.
+        Textilkennzeichnungsgesetzes und der Verordnung (EU) Nr. 1007/2011 des
+        Europäischen Parlaments und des Rates vom 27. September 2011 über die
+        Bezeichnung von Textilfasern und die damit zusammenhängende
+        Etikettierung und Kennzeichnung der Faserzusammensetzung von
+        Textilerzeugnissen und zur Aufhebung der Richtlinie 73/44/EWG des
+        Rates und der Richtlinien 96/73/EG und 2008/121/EG des Europäischen
+        Parlaments und des Rates (ABl. L 272 vom 18.10.2011, S. 1) fallen.
 
     *   ...
 
@@ -14550,81 +3506,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-## Anlage 12 (zu § 10 Abs. 1 Satz 2) Angaben in der schriftlichen Erklärung nach
+## Anlage 12 (weggefallen)
 
+(zu § 4 Absatz 3 und 4)
 
-1.  Name und Anschrift des Herstellers oder des für das erstmalige
-    Inverkehrbringen Verantwortlichen, der den
-    Lebensmittelbedarfsgegenstand aus Kunststoff oder die für dessen
-    Herstellung bestimmten Stoffe herstellt oder einführt;
-
-
-2.  Art des Lebensmittelbedarfsgegenstandes aus Kunststoff oder der für
-    dessen Herstellung bestimmten Stoffe;
-
-
-3.  Datum der Ausstellung der Erklärung;
-
-
-4.  Bestätigung, dass der Lebensmittelbedarfsgegenstand aus Kunststoff den
-    Vorschriften dieser Verordnung und der Verordnung (EG) Nr. 1935/2004
-    des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über
-    Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln
-    in Berührung zu kommen, und zur Aufhebung der Richtlinien 80/590/EWG
-    und 89/109/EWG (ABl. EU Nr. L 338 S. 4) in der jeweils geltenden
-    Fassung entspricht;
-
-
-5.  Informationen zu den verwendeten Stoffen, für welche diese Verordnung
-    Beschränkungen oder Spezifikationen enthält, damit auch die
-    nachgelagerten Hersteller oder für das erstmalige Inverkehrbringen
-    Verantwortlichen diese Beschränkungen einhalten können;
-
-
-6.  Informationen über Stoffe, deren Verwendung in Lebensmitteln einer
-    Einschränkung unterliegt, gewonnen aus Versuchsdaten oder
-    theoretischen Berechnungen über die spezifischen Migrationswerte,
-    sowie gegebenenfalls über Reinheitskriterien gemäß der Zusatzstoff-
-    Verkehrsverordnung vom 29. Januar 1998 (BGBl. I S. 230, 269) in der
-    jeweils geltenden Fassung;
-
-
-7.  Spezifikationen zur Verwendung des Lebensmittelbedarfsgegenstandes aus
-    Kunststoff, insbesondere
-
-    a)  Art oder Arten von Lebensmitteln, die damit in Berührung kommen
-        soll(en);
-
-
-    b)  Dauer und Temperatur der Behandlung und Lagerung bei Kontakt mit dem
-        Lebensmittel;
-
-
-    c)  Verhältnis der mit Lebensmitteln in Berührung kommenden Fläche zum
-        Volumen, anhand dessen die Konformität des
-        Lebensmittelbedarfsgegenstandes aus Kunststoff festgestellt wurde.
-
-
-
-
-
-8.  Sofern eine funktionelle Barriere aus Kunststoff nach § 2 Nr. 3b
-    verwendet wird, ist ferner die Bestätigung erforderlich, dass der
-    Lebensmittelbedarfsgegenstand den Anforderungen des § 4 Abs. 5 und des
-    § 8 Abs. 1a entspricht.
-
-
-
-
-Die schriftliche Erklärung muss dem Lebensmittelbedarfsgegenstand aus
-Kunststoff oder den für dessen Herstellung bestimmten Stoffen, auf den
-oder die sie sich bezieht, unmittelbar zugeordnet werden können und
-ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion
-Veränderungen bei der Migration bewirken oder wenn neue
-wissenschaftliche Erkenntnisse vorliegen.
-
-
-## Anlage 13 (zu § 4 Absatz 3 Satz 2 Nummer 2) Vorläufiges Verzeichnis der Additive
+## Anlage 13 Vorläufiges Verzeichnis der Additive
 
 (Fundstelle: BGBl. I 2009, 3135 - 3137;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -14650,58 +3536,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   31335
 
-    *   –
+    *
+    *   (weggefallen)
 
-    *   Fettsäuren(C
-        8                     –C
-        22                     ) aus tierischen oder pflanzlichen Fetten oder
-        Ölen, Ester mit verzweigten, aliphatischen, gesättigten, primären,
-        einwertigen Alkoholen(C
-        3                     –C
-        22                     )
-
-    *   Nur zur Verwendung in Polycarbonat, Polymethylmethacrylat,
-        Polyolefinen (Polyethylen, Polypropylen), Polystyrol, Acrylnitril-
-        Butadien-
-        Styrol-Copolymeren, Polyamiden und Polyethylenterephthalat.
-
+    *
 
 *    *   31336
 
-    *   –
+    *
+    *   (weggefallen)
 
-    *   Fettsäuren(C
-        8                     –C
-        22                     ) aus tierischen oder pflanzlichen Fetten oder
-        Ölen, Ester mit geradkettigen, aliphatischen, gesättigten, primären,
-        einwertigen Alkoholen(C
-        1                     –C
-        22                     )
-
-    *   Nur zur Verwendung in Polycarbonat, Polymethylmethacrylat, Poly-
-        olefinen (Polyethylen, Polypropylen), Polystyrol, Acrylnitril-
-        Butadien-
-        Styrol-Copolymeren, Polyamide
-        und Polyethylenterephthalat.
-
+    *
 
 *    *   31348
 
-    *   –
+    *
+    *   (weggefallen)
 
-    *   Fettsäuren(C
-        8                     –C
-        22                     ), Ester mit Pentaerythritol
-
-    *   Nur zur Verwendung
-        a) in Polycarbonat, Polymethyl-
-        methacrylat, Polyolefinen,
-        Polystyrol, Acrylnitril-Butadien-Styrol-Copolymeren, Polyamiden,
-        Polyethylenterephthalat und
-        Polybutylenterephthalat,
-        b) für Kontakttemperaturen
-        zwischen 0–100 °C.
-
+    *
 
 *    *   33535
 
@@ -14726,46 +3578,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   40619
 
-    *   0025322-99-0
+    *
+    *   (weggefallen)
 
-    *   Butylacrylat-Butylmethacrylat-
-        Methylmethacrylat-Copolymer
-
-    *   Nur zur Verwendung in Polyvinylchlorid.
-
+    *
 
 *    *   40620
 
-    *   0050658-01-0
+    *
+    *   (weggefallen)
 
-    *   Butylacrylat-Methylmethacrylat-
-        Copolymer, vernetzt mit
-        Allylmethacrylat
-
-    *   Nur zur Verwendung in Polyvinylchlorid.
-
+    *
 
 *    *   40815
 
-    *   0040471-03-2
+    *
+    *   (weggefallen)
 
-    *   Butylmethacrylat-Ethylacrylat-
-        Methylmethacrylat-Copolymer
-
-    *   Nur zur Verwendung in
-        Hart-Polyvinylchlorid.
-
+    *
 
 *    *   53245
 
-    *   0009010-88-2
+    *
+    *   (weggefallen)
 
-    *   Ethylacrylat-Methylmethacrylat-
-        Copolymer
-
-    *   Nur zur Verwendung in
-        Hart-Polyvinylchlorid.
-
+    *
 
 *    *   62215
 
@@ -14776,14 +3613,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   66763
 
-    *   0027136-15-8
+    *
+    *   (weggefallen)
 
-    *   Methylmethacrylat-Butylacrylat-
-        Styrol-Copolymer
-
-    *   Nur zur Verwendung in
-        Polyvinylchlorid.
-
+    *
 
 *    *   68119
 
@@ -14973,22 +3806,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   93450
 
-    *   –
-
+    *
     *   (weggefallen)
 
-    *   –
-
+    *
 
 *    *   93485
 
-    *   –
+    *
+    *   (weggefallen)
 
-    *   Titannitrid, Nanopartikel
-
-    *   Nur zur Verwendung in Polyethylenterephthalat für Flaschen in
-        Konzentrationen bis zu 20 mg/kg.
-
+    *
 
 *    *   94000
 
@@ -15011,4 +3839,12590 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
+
+
+## Anlage 14
+
+   (Fundstelle: BGBl. I 2021, 5070 - 5125)
+
+Die nachfolgenden Tabellen 1 und 2 enthalten die folgenden
+Informationen:
+
+Spalte 1 (Bezeichnung des Stoffes): Chemische Bezeichnung
+
+Spalte 2 (CAS-Nr.): Chemical Abstracts Service-Nummer
+
+Spalte 3 (REF-Nr.): EWG-Verpackungsmaterial-Referenznummer
+
+Spalte 4 (Substanz-Nr.): Substanz-Nummer
+
+Spalte 5 (Verwendungszweck): Verwendung als
+
+
+–   I: Monomere oder sonstige Ausgangsstoffe (Stoffe, die zur Herstellung
+    von Makromolekülen (Polymeren) polymerisiert oder zur Modifizierung
+    natürlicher oder künstlich hergestellter Makromoleküle (Polymere)
+    verwendet werden);
+
+
+–   II: Farbmittel (farbgebende Substanzen (Pigmente und Farbstoffe));
+
+
+–   III: Lösungsmittel (Flüssigkeiten, die andere Stoffe zu lösen
+    vermögen, ohne sich selbst oder den gelösten Stoff dabei chemisch zu
+    verändern);
+
+
+–   IV: Additive (Stoffe, die verwendet werden, um eine technische Wirkung
+    während des Druck- oder Lackierverfahrens oder im Enderzeugnis zu
+    erzielen. Dazu gehören nicht Additive, die für Pigmente verwendet
+    werden);
+
+
+–   V: Photoinitiatoren (Additive, die durch Bestrahlung in freie Radikale
+    oder Ionen überführt werden und eine chemische Reaktion starten).
+
+
+
+
+Spalte 6 (SMG [mg/kg]): Spezifischer Migrationsgrenzwert ausgedrückt
+in Milligramm des betreffenden Stoffes pro Kilogramm Lebensmittel.
+Falls „NN“ angegeben ist, darf ein Übergang des Stoffes auf
+Lebensmittel nicht nachweisbar sein. Als nicht nachweisbar gilt ein
+Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+
+Spalte 7 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein
+Gruppengrenzwert in Tabelle 3 festgelegt ist.
+
+Spalte 8 (Andere Beschränkungen, Spezifikationen und
+Reinheitsanforderungen): Andere Beschränkungen als die in Spalte 6 und
+7 in Verbindung mit Tabelle 3 genannten sowie Spezifikationen und
+Reinheitsanforderungen.
+
+## **Tabelle 1**
+
+**Verzeichnis der Monomere oder sonstigen Ausgangsstoffe, Farbmittel,
+Lösungsmittel, Photoinitiatoren oder anderen Additive**
+## (zu § 4 Absatz 5, 6 und 7, § 8 Absatz 5 Satz 1 und Absatz 6)
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+
+*    *   Bezeichnung des Stoffes
+
+    *   CAS-Nr.
+
+    *   REF-Nr.
+
+    *   Substanz-
+        Nr.
+
+    *   Verwendungszweck
+
+    *   SMG
+        [mg/kg]
+
+    *   Gruppen-
+        grenzwert-
+        Nr.
+
+    *   Andere Beschränkungen,
+        Spezifikationen und
+        Reinheitsanforderungen
+
+
+*    *   I
+
+    *   II
+
+    *   III
+
+    *   IV
+
+    *   V
+
+
+*    *   Acetaldehyd
+
+    *   0000075-07-0
+
+    *   10060
+
+    *   1
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   6
+
+    *
+    *
+
+*    *   [2-(Acryloyloxy)-ethyl]-
+        trimethylammoniumchlorid
+
+    *   0044992-01-0
+
+    *   11440
+
+    *   2
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Acrylsäure
+
+    *   0000079-10-7
+
+    *   10690
+
+    *   3
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Acrylsäuredicyclopentadienylester
+
+    *   0050976-02-8
+
+    *   11000
+
+    *   4
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Adipinsäuredimethylester
+
+    *   0000627-93-0
+
+    *
+    *   5
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   3
+
+    *   (29)
+
+    *
+
+*    *   Adipinsäurepolyester mit
+        1,3-Butandiol
+
+    *   0024937-93-7
+
+    *   76780
+
+    *   6
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (28)
+        (29)
+
+    *
+
+*    *   alpha-Alkene(C20-C24), Copolymer mit Maleinsäureanhydrid,
+        Reaktionsprodukt mit 4-Amino-
+        2,2,6,6-tetramethylpiperidin
+
+    *   0152261-33-1
+
+    *   33535
+
+    *   7
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
+        Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
+        nicht zur Verwendung für Gegenstände, die mit alkoholischen
+        Lebensmitteln in Berührung kommen
+
+
+*    *   Alkyl(C10-C21)sulfonsäureester des Phenols
+
+    *   0091082-17-6
+
+    *   34240
+
+    *   8
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Allurarot AC (E 129)
+
+    *   0025956-17-6
+
+    *
+    *   9
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bis(hydriertes Talg-Alkyl)amin,
+        oxidiert
+
+    *   0143925-92-2
+
+    *   34850
+
+    *   10
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   nicht zur Verwendung für Gegenstände, die mit fetten Lebensmitteln in
+        Berührung kommen, für die das Lebensmittelsimulanz D festgelegt ist
+        nur zur Verwendung in
+
+        a)  Polyolefinen bei 0,1 Gew.-%
+            und
+
+
+        b)  PET bei 0,25 Gew.-%
+
+
+
+
+
+*    *   2-Aminobenzamid
+
+    *   0000088-68-6
+
+    *   34895
+
+    *   11
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-Aminoethanol
+
+    *   0000141-43-5
+
+    *   12763 35170
+
+    *   12
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   N-(2-Aminoethyl)ethanolamin
+
+    *   0000111-41-1
+
+    *   35284
+
+    *   13
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-Amino-2-methyl-1-propanol
+
+    *   0000124-68-5
+
+    *   12775
+
+    *   14
+
+    *   x
+
+    *
+    *   x
+
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   3-Aminopropyl-triethoxysilan
+
+    *   0000919-30-2
+
+    *   12786
+
+    *   15
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Antimontrioxid
+
+    *   0001309-64-4
+
+    *   35760
+
+    *   16
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,04
+
+    *
+    *   berechnet als Antimon
+
+
+*    *   Apfelsäure
+
+    *   0006915-15-7
+
+    *   19965 65020
+
+    *   17
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Azelainsäure-bis(2-ethylhexyl)ester
+
+    *   0000103-24-2
+
+    *   36320
+
+    *   18
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Bariumtetraborat
+
+    *   0012007-55-5
+
+    *   36840
+
+    *   19
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (14)
+
+    *
+
+*    *   1,2-Benzisothiazolin-3-on
+
+    *   0002634-33-5
+
+    *   37520
+
+    *   20
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,5
+
+    *
+    *
+
+*    *   1,2,4,5-Benzoltetracarbonsäure
+
+    *   0000089-05-4
+
+    *   13040
+        24055
+
+    *   21
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   Für die Summe aus
+        1,2,4,5-Benzoltetracarbonsäure und Pyromellitsäureanhydrid
+        (CAS-Nr. 0000089-32-7) darf der Übergang auf Lebensmittel nicht mehr
+        als 0,05 Milligramm pro Kilogramm betragen.
+
+
+*    *   1,2,4-Benzoltricarbonsäure-
+        tris(decyl)ester
+
+    *   0004130-35-2
+
+    *
+    *   22
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   1,2,4-Benzoltricarbonsäure-
+        tris(2-ethylhexyl)ester
+
+    *   0003319-31-1
+
+    *   94800
+
+    *   23
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-(2H-Benzotriazol-2-yl)-6-dodecyl-
+        4-methyl-phenol, verzweigt und linear
+
+    *   0125304-04-3
+
+    *
+    *   24
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Benzylacrylat
+
+    *   0002495-35-4
+
+    *   10750
+
+    *   25
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Benzylmethacrylat
+
+    *   0002495-37-6
+
+    *   20080
+
+    *   26
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   cis-endo-bicyclo[2.2.1]heptan-
+        2,3-dicarbonsäure, Salze
+
+    *
+    *   38507
+
+    *   27
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   nicht zur Verwendung im unmittelbaren Kontakt mit sauren Lebensmitteln
+        Reinheit*                      96 %
+
+
+*    *   Bis(2,4-di-tert-butyl-6-methyl-phenyl) ethylphosphit
+
+    *   0145650-60-8
+
+    *   74010
+
+    *   28
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   berechnet als Summe von Phosphit und Phosphat
+
+
+*    *   Bis(2,6-di-tert-butyl-4-methyl-phenyl) pentaerythritol-diphosphit
+
+    *   0080693-00-1
+
+    *   38810
+
+    *   29
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   berechnet als Summe von Phosphit und Phosphat
+
+
+*    *   Bis(2,4-dicumylphenyl)pentaerythritol-
+        diphosphit
+
+    *   0154862-43-8
+
+    *   38840
+
+    *   30
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   berechnet als Summe aus dem Stoff selbst, seiner oxidierten Form
+        (Bis(2,4-dicumylphenyl)-
+        pentaerythritolphosphat) und seinem Hydrolyseprodukt
+        (2,4-Dicumylphenol)
+
+
+*    *   Bis(2,6-diisopropylphenyl)carbodiimid
+
+    *   0002162-74-5
+
+    *   13303
+
+    *   31
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   berechnet als Summe aus Bis(2,6-diisopropylphenyl)carbodiimid und
+        seinem Hydrolyseprodukt
+        2,6-Diisopropylanilin
+
+
+*    *   2,4-Bis(dodecylthiomethyl)-
+        6-methylphenol
+
+    *   0110675-26-8
+
+    *   38940
+
+    *   32
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (22)
+
+    *
+
+*    *   Bis(2-ethylhexyl)adipat
+
+    *   0000103-23-1
+
+    *   31920
+
+    *   33
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   18
+
+    *   (29)
+
+    *
+
+*    *   Bis(2-ethylhexyl)terephthalat
+
+    *   0006422-86-2
+
+    *   92200
+
+    *   34
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   60
+
+    *   (29)
+
+    *
+
+*    *   N,N-Bis(2-hydroxyethyl)-
+        (C8-C18)alkylamin
+
+    *
+    *   39090
+
+    *   35
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (5)
+
+    *
+
+*    *   N,N-Bis(2-hydroxyethyl)-
+        (C8-C18)alkylamin-hydrochlorid
+
+    *
+    *   39120
+
+    *   36
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (5)
+
+    *   berechnet ausschließlich HCl
+
+
+*    *   1,3-Bis(hydroxymethyl)-5,5-dimethyl-
+        hydantoin
+
+    *   0006440-58-0
+
+    *
+    *   37
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2,2-Bis(4-hydroxyphenyl)-propan-
+        bis(2,3-epoxypropyl)-ether (= BADGE)
+
+    *   0001675-54-3
+
+    *   13510
+        13610
+
+    *   38
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   gemäß Verordnung (EG)
+        Nr. 1895/2005
+
+
+*    *   2,2-Bis(4-hydroxyphenyl)-propan-
+        bis(2-hydroxypropyl)-ether
+
+    *   0000116-37-0
+
+    *   13520
+
+    *   39
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2,4-Bis(octylthiomethyl)-6-methylphenol
+
+    *   0110553-27-0
+
+    *   40020
+
+    *   40
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (22)
+
+    *
+
+*    *   Bis(1-oxyl-2,2,6,6-tetramethylpiperidin-4-yl)sebacat
+
+    *   0002516-92-9
+
+    *
+    *   41
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Bornitrid
+
+    *   0010043-11-5
+
+    *   40400
+
+    *   42
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (14)
+
+    *
+
+*    *   Borsäure
+
+    *   0010043-35-3
+
+    *   13620
+        40320
+
+    *   43
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (14)
+
+    *
+
+*    *   Braun HAT (Food Brown 3, E 155)
+
+    *   0004553-89-3
+
+    *
+    *   44
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Brillantschwarz BN (E 151)
+
+    *   0002519-30-4
+
+    *
+    *   45
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   2-Brom-2-nitropropan-1,3-diol
+
+    *   0000052-51-7
+
+    *   40460
+
+    *   46
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Butadien
+
+    *   0000106-99-0
+
+    *   13630
+
+    *   47
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   1,4-Butandiol
+
+    *   0000110-63-4
+
+    *   13720
+        40580
+
+    *   48
+
+    *
+    *
+    *   x
+
+    *   x
+
+    *
+    *
+    *   (27)
+
+    *
+
+*    *   1,4-Butandiol-bis (2,3-epoxypropyl)-ether
+
+    *   0002425-79-8
+
+    *   13780
+
+    *   49
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt (berechnet als Epoxy, Molgewicht = 43)
+
+
+*    *   2-Butanol
+
+    *   0000078-92-2
+
+    *
+    *   50
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   1
+
+    *
+    *
+
+*    *   tert-Butanol
+
+    *   0000075-65-0
+
+    *   40594
+
+    *   51
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   10
+
+    *
+    *
+
+*    *   2-Butanon
+
+    *   0000078-93-3
+
+    *   66655
+
+    *   52
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   5
+
+    *
+    *
+
+*    *   1-Butoxy-2-propanol
+
+    *   0005131-66-8
+
+    *
+    *   53
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   n-Butylacrylat
+
+    *   0000141-32-2
+
+    *   10780
+
+    *   54
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   sec-Butylacrylat
+
+    *   0002998-08-5
+
+    *   10810
+
+    *   55
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   tert-Butylacrylat
+
+    *   0001663-39-4
+
+    *   10840
+
+    *   56
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   tert-Butylhydrochinon
+
+    *   0001948-33-0
+
+    *
+    *   57
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   42
+
+    *
+    *
+
+*    *   Butylmethacrylat
+
+    *   0000097-88-1
+
+    *   20110
+
+    *   58
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   tert-Butylmethacrylat
+
+    *   0000585-07-9
+
+    *   20170
+
+    *   59
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   3-tert-Butylphenol
+
+    *   0000585-34-2
+
+    *
+    *   60
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Caprolactam
+
+    *   0000105-60-2
+
+    *   14200
+        41840
+
+    *   61
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   15
+
+    *
+    *
+
+*    *   Caprolacton
+
+    *   0000502-44-3
+
+    *   14260
+
+    *   62
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (26)
+
+    *
+
+*    *   Carbonylchlorid (Phosgen)
+
+    *   0000075-44-5
+
+    *   14380
+        23155
+
+    *   63
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   Celluloseacetatpropionate
+
+    *   0009004-39-1
+
+    *   14512
+
+    *   64
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   p-Chlor-m-kresol
+
+    *   0000059-50-7
+
+    *   43630
+
+    *   65
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   5-Chlor-2-Methyl-4-isothiazolin-3-on, Mischung mit
+        2-Methyl-4-isothiazolin-3-on (3:1)
+
+    *   0055965-84-9
+
+    *   43730
+
+    *   66
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,15
+
+    *
+    *
+
+*    *   Cumarin
+
+    *   0000091-64-5
+
+    *
+    *   67
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,6
+
+    *
+    *
+
+*    *   1,4-Cyclohexandicarbonsäure
+
+    *   0001076-97-7
+
+    *   14876
+
+    *   68
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   5
+
+    *
+    *
+
+*    *   1,2-Cyclohexandicarbonsäure, Diisononylester
+
+    *   0166412-78-8
+
+    *   45705
+
+    *   69
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   1-Decen, Homopolymer, hydriert
+
+    *   0068037-01-4
+
+    *
+    *   70
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Dextrin
+
+    *   0009004-53-9
+
+    *
+    *   71
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Diallyldimethylammoniumchlorid
+
+    *   0007398-69-8
+
+    *
+    *   72
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   5
+
+    *
+    *
+
+*    *   1,2-Dibromo-2,4-dicyanobutan
+
+    *   0035691-65-7
+
+    *
+    *   73
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   1
+
+    *
+    *
+
+*    *   Dibutylsebacat
+
+    *   0000109-43-3
+
+    *   85360
+
+    *   74
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Dibutylthiostannonsäure, Polymer
+        (= Thiobis(butyl-zinnsulfid), Polymer)
+
+    *   0026427-07-6
+
+    *   47210
+
+    *   75
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Moleküleinheit = (C
+        8                     H
+        18                     S
+        3                     Sn
+        2                     )
+        n
+        (n = 1,5-2)
+
+
+*    *   Dicyclohexylmethan-4,4'-diisocyanat
+        (Bis(4-isocyanatocyclohexyl)-methan)
+
+    *   0005124-30-1
+
+    *   13560
+        15700
+
+    *   76
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Dicyclohexylphthalat
+
+    *   0000084-61-7
+
+    *   74960
+
+    *   77
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   6
+
+    *
+    *
+
+*    *   Dicyclopentadien
+
+    *   0000077-73-6
+
+    *   15730
+
+    *   78
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   5
+
+    *
+    *
+
+*    *   Didecyl-dimethyl-ammoniumchlorid
+
+    *   0007173-51-5
+
+    *   47535
+
+    *   79
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Didodecylthiodipropionat
+
+    *   0000123-28-4
+
+    *   93120
+
+    *   80
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (12)
+
+    *
+
+*    *   Di-n-dodecylzinn-
+        bis(isooctylthioglykolat)
+
+    *   0084030-61-5
+
+    *   47600
+
+    *   81
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (23)
+
+    *
+
+*    *   Diethanolamin
+
+    *   0000111-42-2
+
+    *   15735
+        47620
+
+    *   82
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,3
+
+    *
+    *
+
+*    *   2-Diethylaminoethylmethacrylat
+
+    *   0000105-16-8
+
+    *   20500
+
+    *   83
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Diethylenglykol
+
+    *   0000111-46-6
+
+    *   13326
+        15760
+        47680
+
+    *   84
+
+    *   x
+
+    *
+    *   x
+
+    *   x
+
+    *
+    *
+    *   (1)
+
+    *
+
+*    *   N,N-Diethylhydroxylamin
+
+    *   0003710-84-7
+
+    *
+    *   85
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Diethylmonoethanolamin
+
+    *   0000100-37-8
+
+    *   48370
+        48400
+
+    *   86
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2,4-Dihydroxybenzophenon
+
+    *   0000131-56-6
+
+    *   48640
+
+    *   87
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   4,4'-Dihydroxybenzophenon
+
+    *   0000611-99-4
+
+    *   15970
+        48720
+
+    *   88
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   2,2'-Dihydroxy-
+        4-methoxybenzophenon
+
+    *   0000131-53-3
+
+    *   48880
+
+    *   89
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   N-(2,6-Diisopropylphenyl)-
+        6-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-
+        1H-benz[de]isochinolin-1,3(2H)-dion
+
+    *   0852282-89-4
+
+    *   49080
+
+    *   90
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Dimere von ungesättigten Fettsäuren (C18), nicht hydriert, destilliert
+        und nicht destilliert
+
+    *   0061788-89-4
+
+    *   10599/90A
+        10599/91
+
+    *   91
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (16)
+
+    *
+
+*    *   Dimere von ungesättigten Fettsäuren (C18), hydriert, destilliert und
+        nicht destilliert
+
+    *   0068783-41-5
+
+    *   10599/92A
+        10599/93
+
+    *   92
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (16)
+
+    *
+
+*    *   Dimethylamin
+
+    *   0000124-40-3
+
+    *   16145
+        49225
+
+    *   93
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-Dimethylaminoethylacrylat
+
+    *   0002439-35-2
+
+    *   11230
+
+    *   94
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   3,3'-Dimethyl-4,4'-diaminodicyclo-
+        hexylmethan
+
+    *   0006864-37-5
+
+    *   16210
+
+    *   95
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   3,3'-Dimethyl-
+        4,4'-di-isocyanatobiphenyl
+
+    *   0000091-97-4
+
+    *   16240
+
+    *   96
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,6-Dimethyl-4-heptanon
+
+    *   0000108-83-8
+
+    *
+    *   97
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   5,5-Dimethylhydantoin
+
+    *   0000077-71-4
+
+    *
+    *   98
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   N,N-Dimethyl-N-[2-[(1-oxo-
+        2-propenyl)oxy]ethyl]-
+        benzylammoniumchlorid
+
+    *   0046830-22-2
+
+    *
+    *   99
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Dimethylphthalat
+
+    *   0000131-11-3
+
+    *   75600
+
+    *   100
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Dimethylpolysiloxan
+
+    *   0063148-62-9
+
+    *   23547
+        76721
+
+    *   101
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   Mindestviskosität 100 x 10
+        -6                     m
+        2                     /s
+        (= 100 Centistokes) bei 25 Grad
+
+
+*    *   Dimethylzinn-bis(ethylhexyl-
+        thioglykolat)
+
+    *   0057583-35-4
+
+    *   49595
+
+    *   102
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (7)
+
+    *
+
+*    *   Dimethylzinn-bis(isooctylthioglykolat)
+
+    *   0026636-01-1
+
+    *   49600
+
+    *   103
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (7)
+
+    *
+
+*    *   Dimethylzinndineodekanoat
+
+    *   0068928-76-7
+
+    *
+    *   104
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Dioctadecylthiodipropionat
+
+    *   0000693-36-7
+
+    *   93280
+
+    *   105
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (12)
+
+    *
+
+*    *   Di-n-octylzinn-
+        bis(n-alkyl(C10-C16)thioglykolat)
+
+    *
+    *   50160
+
+    *   106
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-
+        bis(2-ethylhexylmaleinat)
+
+    *   0010039-33-5
+
+    *   50240
+
+    *   107
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-
+        bis(2-ethylhexylthioglykolat)
+
+    *   0015571-58-1
+
+    *   50320
+
+    *   108
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-bis(ethylmaleinat)
+
+    *
+    *   50360
+
+    *   109
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-bis(isooctylmaleinat)
+
+    *   0033568-99-9
+
+    *   50400
+
+    *   110
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-bis(isooctylthioglykolat)
+
+    *   0026401-97-8
+
+    *   50480
+
+    *   111
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-1,4-Butandiol-
+        bis(thioglykolat)
+
+    *
+    *   50560
+
+    *   112
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-dilaurat
+
+    *   0003648-18-8
+
+    *   50640
+
+    *   113
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-dimaleinat
+
+    *   0015571-60-5
+
+    *   50720
+
+    *   114
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-dimaleinat,
+        Polymere (n = 2-4)
+
+    *
+    *   50880
+
+    *   115
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-dimaleinat, verestert
+
+    *
+    *   50800
+
+    *   116
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-Ethylenglykol-
+        bis(thioglykolat)
+
+    *   0069226-44-4
+
+    *   50960
+
+    *   117
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-thiobenzoat-2-ethyl-
+        hexylthioglykolat
+
+    *
+    *   51120
+
+    *   118
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Di-n-octylzinn-thioglykolat
+
+    *   0015535-79-2
+
+    *   51040
+
+    *   119
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (8)
+
+    *
+
+*    *   Diphenylmethan-2,4'-di-isocyanat
+
+    *   0005873-54-1
+
+    *   16600
+
+    *   120
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Diphenylmethan-4,4'-di-isocyanat
+
+    *   0000101-68-8
+
+    *   16630
+
+    *   121
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Dipropylenglykolmethyletheracetat
+
+    *   0088917-22-0
+
+    *
+    *   122
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Dipropylenglykolmonomethylether
+
+    *   0034590-94-8
+
+    *
+    *   123
+
+    *
+    *
+    *   x
+
+    *   x
+
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Dipropylenglykol-n-butylether
+
+    *   0029911-28-2
+
+    *
+    *   124
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Divinylbenzol
+
+    *   0001321-74-0
+
+    *   16690
+
+    *   125
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   berechnet als Summe aus Divinylbenzol und Ethylvinylbenzol
+        kann bis zu 45 % Ethylvinylbenzol enthalten
+
+
+*    *   1-Dodecanol
+
+    *   0000112-53-8
+
+    *   16701
+        51975
+
+    *   126
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Dodecylgallat
+
+    *   0001166-52-5
+
+    *   55200
+
+    *   127
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (18)
+
+    *
+
+*    *   Echtes Karmin (Natural Red 4, E 120)
+
+    *   0001260-17-9
+
+    *
+    *   128
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Eisenphosphid
+
+    *   0012751-22-3
+
+    *   62245
+
+    *   129
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Elaidinsäure
+
+    *   0000112-79-8
+
+    *   52650
+
+    *   130
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Epichlorhydrin
+        (1-Chlor-2,3-epoxypropan)
+
+    *   0000106-89-8
+
+    *   14570
+        16750
+
+    *   131
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   2,3-Epoxypropyltrialkyl
+        (C5-C15)-acetat
+
+    *
+    *   25360
+
+    *   132
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt (berechnet als Epoxy, Molgewicht = 43)
+
+
+*    *   Erdölkohlenwasserstoffharze (hydriert)
+
+    *
+    *   72081/10
+
+    *   133
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Hydrierte Erdölkohlenwasserstoffharze werden hergestellt durch
+        katalytische oder thermische Polymerisation von Dienen und Olefinen
+        der aliphatischen, alizyklischen und/oder monobenzenoidarylalkenen Art
+        aus gekrackten Erdöldestillaten mit einem Siedebereich von bis zu 220
+        °C, sowie aus den reinen Monomeren aus diesen Destillationsläufen mit
+        nachfolgender Destillation, Hydrierung und Weiterverarbeitung.
+        Viskosität:*                      3 Pa.s
+        Erweichungspunkt:*                      95 °C, nach der ASTM-Methode E
+        28-67
+        Bromzahl:*                      40 (ASTM D1159)
+        Farbe einer 50 %igen Lösung in Toluol*                      11 auf der
+        Gardner-Skala
+        Restliches aromatisches Monomer*                      50 mg/kg
+
+
+*    *   Essigsäureisobutylester
+
+    *   0000110-19-0
+
+    *
+    *   134
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   1
+
+    *
+    *
+
+*    *   Essigsäureisopropylester
+
+    *   0000108-21-4
+
+    *   30165
+
+    *   135
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   5
+
+    *   (41)
+
+    *
+
+*    *   Ester von hydrierten Ricinusölmonoglyceriden mit Essigsäure
+
+    *   0736150-63-3
+
+    *   55910
+
+    *   136
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Ester von Stearinsäure mit Ethylenglykol
+
+    *
+    *   89440
+
+    *   137
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (1)
+
+    *
+
+*    *   Ethylacrylat
+
+    *   0000140-88-5
+
+    *   11470
+
+    *   138
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Ethylbenzol
+
+    *   0000100-41-4
+
+    *   53255
+
+    *   139
+
+    *
+    *
+    *   x
+
+    *   x
+
+    *
+    *   0,6
+
+    *
+    *
+
+*    *   Ethylencarbonat
+
+    *   0000096-49-1
+
+    *   16955
+
+    *   140
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   30
+
+    *
+    *   berechnet als Ethylenglykol
+
+
+*    *   Ethylenglykol
+
+    *   0000107-21-1
+
+    *   16990
+        53650
+
+    *   141
+
+    *   x
+
+    *
+    *   x
+
+    *   x
+
+    *
+    *
+    *   (1)
+
+    *
+
+*    *   Ethylenglykolbutyletheracetat
+
+    *   0000112-07-2
+
+    *
+    *   142
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (35)
+
+    *
+
+*    *   Ethylenglykolmonoacrylat
+
+    *   0000818-61-1
+
+    *   11510
+        11830
+
+    *   143
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Ethylenglykolmonobutylether
+
+    *   0000111-76-2
+
+    *   53765
+
+    *   144
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (35)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Ethylenglykolmonomethacrylat
+
+    *   0000868-77-9
+
+    *   21190
+
+    *   145
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   Ethylenglykolmonopropylether
+
+    *   0002807-30-9
+
+    *
+    *   146
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *   (35)
+
+    *
+
+*    *   Ethylenoxid
+
+    *   0000075-21-8
+
+    *   17020
+
+    *   147
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   2-Ethylhexansäure
+
+    *   0000149-57-5
+
+    *   17040
+        54120
+
+    *   148
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-Ethylhexylacrylat-Acrylsäure-
+        Copolymer
+
+    *   0025134-51-4
+
+    *   31500
+
+    *   149
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *   (20)
+
+    *   berechnet als 2-Ethylhexylacrylat
+
+
+*    *   2-Ethylhexyl-4-dimethylaminobenzoat
+
+    *   0021245-02-3
+
+    *
+    *   150
+
+    *
+    *
+    *
+    *   x
+
+    *   x
+
+    *   0,05
+
+    *
+    *
+
+*    *   Ethylmethacrylat
+
+    *   0000097-63-2
+
+    *   20890
+
+    *   151
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   N-Ethyltoluen-o/p-Sulphonamid (Mischung)
+
+    *   0008047-99-2
+
+    *   54380
+
+    *   152
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Ethylvanillin
+
+    *   0000121-32-4
+
+    *   54420
+
+    *   153
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Fettsäuren, Montanwachs,
+        1-Methyl-1,3-propandiylester
+
+    *   0073138-44-0
+
+    *
+    *   154
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Talgfettsäuren, hydriert
+
+    *   0061790-38-3
+
+    *   54760
+
+    *   155
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Formaldehyd
+
+    *   0000050-00-0
+
+    *   17260
+        54880
+
+    *   156
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (13)
+
+    *
+
+*    *   Gerbsäure
+
+    *   0001401-55-4
+
+    *   92150
+
+    *   157
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Die JECFA-Spezifikationen sind einzuhalten.
+
+
+*    *   Glas
+
+    *   0065997-17-3
+
+    *
+    *   158
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   D-Glucono-1,5-lacton
+
+    *   0000090-80-2
+
+    *
+    *   159
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Gluconsäure
+
+    *   0000526-95-4
+
+    *   55630
+
+    *   160
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceride, Montanwachs
+
+    *   0068476-38-0
+
+    *
+    *   161
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerinmonolaurat-diacetat
+
+    *   0030899-62-8
+
+    *   56800
+
+    *   162
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Glycerinmonoricinolat
+
+    *   0001323-38-2
+
+    *   57440
+
+    *   163
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerinmonostearat
+
+    *   0031566-31-1
+
+    *   18115
+        57520
+
+    *   164
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Glycerin-tris(12-hydroxystearat)
+
+    *   0000139-44-6
+
+    *   58160
+        62040
+
+    *   165
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceroldiacetat
+
+    *   0025395-31-7
+
+    *   56000
+
+    *   166
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceroldioleat
+
+    *   0025637-84-7
+
+    *   56080
+
+    *   167
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceroldistearat
+
+    *   0001323-83-7
+
+    *   56320
+        89240
+
+    *   168
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerolmonolaurat
+
+    *   0027215-38-9
+
+    *   56780
+
+    *   169
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerolmonomyristat
+
+    *   0027214-38-6
+
+    *   56840
+
+    *   170
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerolmonooleat
+
+    *   0025496-72-4
+
+    *   56960
+
+    *   171
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceroltributyrat
+
+    *   0000060-01-5
+
+    *   57840
+
+    *   172
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glyceroltrilaurat
+
+    *   0000538-24-9
+
+    *   57960
+
+    *   173
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glykolsäure
+
+    *   0000079-14-1
+
+    *   18117
+
+    *   174
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Glyoxal
+
+    *   0000107-22-2
+
+    *   18120
+        58310
+
+    *   175
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   1-Heptanol
+
+    *   0000111-70-6
+
+    *   18150
+
+    *   176
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hexamethyldisilazan
+
+    *   0000999-97-3
+
+    *   18457
+
+    *   177
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (30)
+
+    *
+
+*    *   Hexamethyldisiloxan
+
+    *   0000107-46-0
+
+    *   18455
+
+    *   178
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (30)
+
+    *
+
+*    *   Hexamethylen-diisocyanat
+
+    *   0000822-06-0
+
+    *   18640
+
+    *   179
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Hexamethylentetramin
+
+    *   0000100-97-0
+
+    *   18670
+        59280
+
+    *   180
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (13)
+
+    *
+
+*    *   Hexanol
+
+    *   0000111-27-3
+
+    *
+    *   181
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hydrierte Homopolymere und/oder Copolymere, hergestellt aus 1-Hexen
+        und/oder 1-Octen und/oder 1-Decen und/oder 1-Dodecen und/oder
+        1-Tetradecen
+        (Molekulargewicht: 440 bis 12 000)
+
+    *
+    *   60027
+
+    *   182
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   durchschnittliches Molekulargewicht: mindestens 440 Da
+        Viskosität bei 100 °C: mindestens 3,8 cSt (3,8 × 10
+        –6                      m
+        2                     /s)
+
+
+*    *   3-Hydroxybuttersäure,
+        3-Hydroxyvaleriansäure-Copolymer
+
+    *   0080181-31-3
+
+    *   18888
+
+    *   183
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   Der Stoff wird als Produkt verwendet, das durch bakterielle
+        Fermentation gewonnen wird. Die Spezifikationen in Tabelle 4 des
+        Anhangs I der Verordnung (EU) Nr. 10/2011 der Kommission vom 14.
+        Januar 2011 sind einzuhalten.
+
+
+*    *   2-(2'-Hydroxy-3'-tert-butyl-
+        5'-methylphenyl)-5-chlorbenzotriazol
+
+    *   0003896-11-5
+
+    *   60400
+
+    *   184
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (10)
+
+    *
+
+*    *   2-(2'-Hydroxy-3,5'-di-tert-
+        butylphenyl)-5-chlorbenzotriazol
+
+    *   0003864-99-1
+
+    *   60480
+
+    *   185
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (10)
+
+    *
+
+*    *   2-Hydroxy-4-n-hexyloxybenzophenon
+
+    *   0003293-97-8
+
+    *   61280
+
+    *   186
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   2-Hydroxy-4-methoxybenzophenon
+
+    *   0000131-57-7
+
+    *   61360
+
+    *   187
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   2-(2'-Hydroxy-
+        5'-methylphenyl)benzotriazol
+
+    *   0002440-22-4
+
+    *   61440
+
+    *   188
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (10)
+
+    *
+
+*    *   2-Hydroxy-4-n-octyloxybenzophenon
+
+    *   0001843-05-6
+
+    *   61600
+
+    *   189
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (6)
+
+    *
+
+*    *   2-Hydroxypropylacrylat
+
+    *   0000999-61-1
+
+    *   11530
+
+    *   190
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   berechnet als Summe von
+        2-Hydroxypropylacrylat und
+        2-Hydroxyisopropylacrylat
+        kann bis zu 25 %
+        (w/w) 2-Hydroxyisopropylacrylat (CAS-Nr. 002918-23-2) enthalten
+
+
+*    *   4-Hydroxy-
+        2,2,6,6-tetramethylpiperidinoxyl
+
+    *   0002226-96-2
+
+    *
+    *   191
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Iminodibernsteinsäure, Natriumsalz
+
+    *   0144538-83-0
+
+    *
+    *   192
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   3-Iod-2-propinyl-butyl-carbamat
+
+    *   0055406-53-6
+
+    *   62210
+
+    *   193
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   9
+
+    *
+    *
+
+*    *   Isobutan
+
+    *   0000075-28-5
+
+    *   62255
+
+    *   194
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   1
+
+    *
+    *
+
+*    *   iso-Butylacrylat
+
+    *   0000106-63-8
+
+    *   11590
+
+    *   195
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Isobutylalkohol (Isobutanol)
+
+    *   0000078-83-1
+
+    *   18970
+        62270
+
+    *   196
+
+    *   x
+
+    *
+    *   x
+
+    *
+    *
+    *   1
+
+    *
+    *
+
+*    *   iso-Butylmethacrylat
+
+    *   0000097-86-9
+
+    *   21010
+
+    *   197
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   1-Isocyanato-3-isocyanatomethyl-
+        3,5,5-trimethylcyclohexan
+
+    *   0004098-71-9
+
+    *   19110
+
+    *   198
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   1-Isocyanato-3-isocyanatomethyl-
+        3,5,5-trimethylcyclohexan-
+        Homopolymer, Methylethylketonoxim-blockiert
+
+    *   0103170-26-9
+
+    *   19112
+
+    *   199
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   berechnet als geblocktes Trimer
+
+
+*    *   iso-Phthalsäure
+
+    *   0000121-91-5
+
+    *   19150
+
+    *   200
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (25)
+
+    *
+
+*    *   Isophthalsäuredichlorid
+
+    *   0000099-63-8
+
+    *   19180
+
+    *   201
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (25)
+
+    *
+
+*    *   Isopren
+
+    *   0000078-79-5
+
+    *   19243
+        21640
+
+    *   202
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   iso-Propylacrylat
+
+    *   0000689-12-3
+
+    *   11680
+
+    *   203
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   2-Isopropylthioxanthon
+
+    *   0005495-84-1
+
+    *
+    *   204
+
+    *
+    *
+    *
+    *
+    *   x
+
+    *
+    *   (32)
+
+    *
+
+*    *   4-Isopropylthioxanthon
+
+    *   0083846-86-0
+
+    *
+    *   205
+
+    *
+    *
+    *
+    *
+    *   x
+
+    *
+    *   (32)
+
+    *
+
+*    *   Kaliumiodid
+
+    *   0007681-11-0
+
+    *   81680
+
+    *   206
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (4)
+
+    *
+
+*    *   Kobaltnaphthenat
+
+    *   0061789-51-3
+
+    *   67930
+
+    *   207
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Kokosfettsäuren, Diester mit
+        Polyethylenglykol
+
+    *   0068139-91-3
+
+    *
+    *   208
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Kokos-Fettsäuren, gehärtet
+
+    *   0068938-15-8
+
+    *   17175
+
+    *   209
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Kupferiodid
+
+    *   0001335-23-5
+
+    *   45200
+
+    *   210
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (4)
+
+    *
+
+*    *   N,N-Bis(2-hydroxyethyl)dodecanamid
+
+    *   0000120-40-1
+
+    *   39150
+
+    *   211
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   Die Restmenge an Diethanolamin als Verunreinigung und Abbauprodukt des
+        Stoffes sollte nicht zu einer Migration von Diethanolamin von mehr als
+        0,3 mg/kg Lebensmittel führen.
+
+
+*    *   Lebensmittelblau 2 (Brilliant Blau FCF)
+
+    *   0003844-45-9
+
+    *
+    *   212
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lebensmittelrot 3 (Azorubin)
+
+    *   0003567-69-9
+
+    *
+    *   213
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lebensmittelrot 7 (Ponceau 4R)
+
+    *   0002611-82-7
+
+    *
+    *   214
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lebensmittelrot 9 (Amaranth)
+
+    *   0000915-67-3
+
+    *
+    *   215
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   30
+
+    *
+    *
+
+*    *   Lignosulfonsäure
+
+    *   0008062-15-5
+
+    *   63940
+
+    *   216
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,24
+
+    *
+    *
+
+*    *   Lithiumiodid
+
+    *   0010377-51-2
+
+    *   64320
+
+    *   217
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (4)
+
+    *
+
+*    *   Magnesium-Natrium-Fluoridsilikat
+
+    *   0037296-97-2
+
+    *   85950
+
+    *   218
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,15
+
+    *
+    *   SMG berechnet als Fluorid
+        darf nur in denjenigen Schichten verwendet werden, die nicht
+        unmittelbar mit Lebensmitteln in Berührung kommen
+
+
+*    *   Maleinsäure
+
+    *   0000110-16-7
+
+    *   19540
+        64800
+
+    *   219
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (2)
+
+    *
+
+*    *   Maleinsäureanhydrid
+
+    *   0000108-31-6
+
+    *   19960
+
+    *   220
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (2)
+
+    *
+
+*    *   Maleinsäureanhydrid-Styrol-Copolymer, Natriumsalz
+
+    *   0025736-61-2
+
+    *   64990
+
+    *   221
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,05
+        Gew.-%
+
+
+*    *   Maltodextrin
+
+    *   0009050-36-6
+
+    *
+    *   222
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   [3-(Methacryloxy)-
+        propyl]trimethoxysilan
+
+    *   0002530-85-0
+
+    *   21498
+
+    *   223
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   [2-(Methacryloyloxy)-ethyl]-
+        trimethylammoniumchlorid
+
+    *   0005039-78-1
+
+    *   20860
+
+    *   224
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Methacrylsäure
+
+    *   0000079-41-4
+
+    *   20020
+
+    *   225
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   Methacrylsäureanhydrid
+
+    *   0000760-93-0
+
+    *   21460
+
+    *   226
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   1-Methoxy-2-propanol
+
+    *   0000107-98-2
+
+    *
+    *   227
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   1-Methoxy-2-propylacetat
+
+    *   0000108-65-6
+
+    *
+    *   228
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   3-Methyl-1,5-pentandiol
+
+    *   0004457-71-0
+
+    *   22074
+
+    *   229
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2-Methyl-2,4-pentandiol
+
+    *   0000107-41-5
+
+    *
+    *   230
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Methylacrylat
+
+    *   0000096-33-3
+
+    *   11710
+
+    *   231
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Methylacrylat, Telomer mit
+        1-Dodecanethiol, C16-C18-Alkylester
+
+    *   0174254-23-0
+
+    *   31542
+
+    *   232
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   0,5 % Gew.-% im Endprodukt
+
+
+*    *   4-Methylbenzophenon
+
+    *   0000134-84-9
+
+    *
+    *   233
+
+    *
+    *
+    *
+    *
+    *   x
+
+    *   0,05
+
+    *
+    *   Für die Summe an
+        4-Methylbenzophenon
+        und Benzophenon
+        (CAS-Nr. 0000119-61-9) darf der Übergang auf Lebensmittel nicht mehr
+        als 0,6 Milligramm pro Kilogramm betragen.
+
+
+*    *   2,2'-Methylen-bis(4-ethyl-6-tert-
+        butylphenol)
+
+    *   0000088-24-4
+
+    *   66400
+
+    *   234
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (11)
+
+    *
+
+*    *   2,2'-Methylen-bis(4-methyl-6-tert-
+        butylphenol)
+
+    *   0000119-47-1
+
+    *   66480
+
+    *   235
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (11)
+
+    *
+
+*    *   2,2'-Methylen-bis(4-methyl-6-cyclo-
+        hexylphenol)
+
+    *   0004066-02-8
+
+    *   66560
+
+    *   236
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (3)
+
+    *
+
+*    *   2,2'-Methylen-bis(4-methyl-
+        6-(1-methylcyclohexyl)phenol)
+
+    *   0000077-62-3
+
+    *   66580
+
+    *   237
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (3)
+
+    *
+
+*    *   2-Methyl-4-isothiazolin-3-on
+
+    *   0002682-20-4
+
+    *   66755
+
+    *   238
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,5
+
+    *
+    *
+
+*    *   Methylmethacrylat
+
+    *   0000080-62-6
+
+    *   21130
+
+    *   239
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   2-Methylpropansäure-
+        2-methylpropylester
+
+    *   0000097-85-8
+
+    *
+    *   240
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   4-Methyl-2-pentanon
+
+    *   0000108-10-1
+
+    *   66725
+
+    *   241
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (40)
+
+    *
+
+*    *   2-Methyl-1,3-propandiol
+
+    *   0002163-42-0
+
+    *   22190
+
+    *   242
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   5
+
+    *
+    *
+
+*    *   Methylsilsesquioxan
+
+    *   0068554-70-1
+
+    *   66930
+
+    *   243
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Restmonomer in
+        Methylsilsesquioxan:
+        *                      1 mg Methyltrimethoxysilan/kg
+        Methylsilsesquioxan
+
+
+*    *   mikrokristalline Wachse
+
+    *   0063231-60-7
+
+    *   71280
+
+    *   244
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   durchschnittliches Molekulargewicht: mindestens 500 Da
+        Viskosität
+        mindestens 1,1 × 10
+        -5                      m
+        2                     /s
+        bei 100 °C oder:
+        mindestens 0,8 × 10
+        -5                      m
+        2                     /s
+        bei 120 °C, wenn
+        bei 100 °C fest
+        Kohlenstoffzahl bei 5 % Destillationspunkt: höchstens 5 % der Moleküle
+        mit Kohlenstoffzahl unter 25
+
+
+*    *   Mischung aus (40 Gew.-%)
+        2,2,4-Trimethylhexan-1,6-diisocyanat und (60 Gew.-%)
+        2,4,4-Trimethylhexan-1,6-diisocyanat
+
+    *
+    *   22332
+
+    *   245
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Mischung aus (50 % m/m) Phthalsäure-n-decyl-n-octylester, (25 % m/m)
+        Phthalsäuredi-n-decylester, (25 % m/m) Phthalsäuredi-n-octylester
+
+    *
+    *   67180
+
+    *   246
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Mischung aus 4-(2-Benzoxazolyl)-
+        4´-(5-methyl-2-benzoxazolyl)stilben,
+        4,4´-Bis-(2-benzoxazolyl)stilben und 4,4´-Bis-(5-methyl-
+        2-benzoxazolyl)stilben
+
+    *
+    *   67155
+
+    *   247
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   nicht mehr als 0,05 Gew.-% (Menge der Substanz/Menge der Formulierung)
+        Mischung, gewonnen aus dem Herstellungsverfahren im typischen
+        Verhältnis von
+        (58-62 %):(23-27 %):(13-17 %)
+
+
+*    *   Mono- und Diglyceride von Fettsäuren, acetyliert
+
+    *
+    *   30401
+
+    *   248
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Monochlorbenzol
+
+    *   0000108-90-7
+
+    *
+    *   249
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   10
+
+    *
+    *
+
+*    *   Monochloressigsäure
+
+    *   0000079-11-8
+
+    *   22333
+
+    *   250
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Mono-n-dodecylzinn-tris(isooctyl-
+        thioglykolat)
+
+    *   0067649-65-4
+
+    *   67360
+
+    *   251
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (23)
+
+    *
+
+*    *   Monomethylzinn-
+        tris(ethylhexylthioglykolat)
+
+    *   0057583-34-3
+
+    *   67515
+
+    *   252
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (7)
+
+    *
+
+*    *   Monomethylzinn-
+        tris(isooctylthioglykolat)
+
+    *   0054849-38-6
+
+    *   67520
+
+    *   253
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (7)
+
+    *
+
+*    *   Mono-n-octylzinn-
+        tris(alkyl(C10-C16)thioglykolat)
+
+    *
+    *   67600
+
+    *   254
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (9)
+
+    *
+
+*    *   Mono-n-octylzinn-tris(2-ethylhexylthio-glykolat)
+
+    *   0027107-89-7
+
+    *   67680
+
+    *   255
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (9)
+
+    *
+
+*    *   Mono-n-octylzinn-
+        tris(isooctylthioglykolat)
+
+    *   0026401-86-5
+
+    *   67760
+
+    *   256
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (9)
+
+    *
+
+*    *   Monostärkephosphat
+
+    *   0011120-02-8
+
+    *
+    *   257
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1,5-Naphthalin-di-isocyanat
+
+    *   0003173-72-6
+
+    *   22420
+
+    *   258
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Natriumaluminat
+
+    *   0001302-42-7
+
+    *   86440
+
+    *   259
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,9
+
+    *
+    *
+
+*    *   Natriumbisulfit
+
+    *   0007631-90-5
+
+    *   86480
+
+    *   260
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (17)
+
+    *
+
+*    *   Natriumdisulfit
+
+    *   0007681-57-4
+
+    *
+    *   261
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (17)
+
+    *
+
+*    *   Mononatrium-D-gluconat
+
+    *   0000527-07-1
+
+    *
+    *   262
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Natriumiodid
+
+    *   0007681-82-5
+
+    *   86800
+
+    *   263
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (4)
+
+    *
+
+*    *   Natrium-2-stearoyllactylat
+
+    *   0025383-99-7
+
+    *
+    *   264
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Natriumsulfit
+
+    *   0007757-83-7
+
+    *   86960
+
+    *   265
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (17)
+
+    *
+
+*    *   Natriumtetraborat
+
+    *   0001330-43-4
+
+    *   87040
+
+    *   266
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (14)
+
+    *
+
+*    *   Natriumthiosulfat
+
+    *   0007772-98-7
+
+    *   87120
+
+    *   267
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (17)
+
+    *
+
+*    *   Salze der Neodecansäure
+
+    *
+    *   68110
+
+    *   268
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   berechnet als Neodecansäure
+
+
+*    *   2,2',2"-Nitrilo (triethyl-tris-
+        (3,3',5,5'-tetra-tert-butyl-
+        Phosphat)1,1'-biphenyl-
+        2,2'-diyl)phosphit)
+
+    *   0080410-33-9
+
+    *   68145
+
+    *   269
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   berechnet als Summe von Phosphit und Phosphat
+
+
+*    *   1-Octadecanol
+
+    *   0000112-92-5
+
+    *   22555
+        68225
+
+    *   270
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Octadecylisocyanat
+
+    *   0000112-96-9
+
+    *   22570
+
+    *   271
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   n-Octylacrylat
+
+    *   0002499-59-4
+
+    *   11890
+
+    *   272
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Octylgallat
+
+    *   0001034-01-1
+
+    *   55280
+
+    *   273
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (18)
+
+    *
+
+*    *   Öle, Orange, süß
+
+    *   0008008-57-9
+
+    *
+    *   274
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Öle, Zitrone
+
+    *   0008008-56-8
+
+    *
+    *   275
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Patentblau V (Acid Blue 3, E131)
+
+    *   0003536-49-0
+
+    *
+    *   276
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pentaerythritdioleat
+
+    *   0025151-96-6
+
+    *   71635
+
+    *   277
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Perfluorpolyetherdicarbonsäure, Ammoniumsalz
+
+    *   0069991-62-4
+
+    *
+    *   278
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   2,2´-(1,4-Phenylen)
+        bis[4H-3,1-benzoxazin-4-one]
+
+    *   0018600-59-4
+
+    *   72141
+
+    *   279
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   SMG einschließlich der Summe der Hydrolyseprodukte
+
+
+*    *   Phenylmethacrylat
+
+    *   0002177-70-0
+
+    *   21280
+
+    *   280
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   o-Phenylphenol
+
+    *   0000090-43-7
+
+    *   72240
+
+    *   281
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   12
+
+    *
+    *
+
+*    *   2-Phosphonobutan-
+        1,2,4-tricarbonsäure
+
+    *   0037971-36-1
+
+    *
+    *   282
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Phosphorpentoxid
+
+    *   0001314-56-3
+
+    *   23173
+
+    *   283
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Phosphorsäureester von ethoxyliertem Perfluorpolyetherdiol
+
+    *   0200013-65-6
+
+    *
+    *   284
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Phosphorsäureoctadecylester
+
+    *   0039471-52-8
+
+    *   73520
+
+    *   285
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Phthalsäure, Benzylbutylester
+
+    *   0000085-68-7
+
+    *   74560
+
+    *   286
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   30
+
+    *   (29)
+
+    *
+
+*    *   Phthalsäure, Bis(2-ethylhexyl)ester
+
+    *   0000117-81-7
+
+    *   74640
+
+    *   287
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   1,5
+
+    *   (29)
+
+    *   nicht zur Verwendung im unmittelbaren Kontakt mit fetten Lebensmitteln
+
+
+*    *   Phthalsäure, Dibutylester
+
+    *   0000084-74-2
+
+    *   74880
+
+    *   288
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,3
+
+    *   (29)
+
+    *
+
+*    *   Phthalsäure, Diester mit primären, gesättigten C8-C10-verzweigten
+        Alkoholen, über 60 % C9
+
+    *   0068515-48-0 0028553-12-0
+
+    *   75100
+
+    *   289
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (24)
+        (29)
+
+    *
+
+*    *   Phthalsäure, Diester mit primären, gesättigten C9-C11-Alkoholen,
+        über 90 % C10
+
+    *   0068515-49-1 0026761-40-0
+
+    *   75105
+
+    *   290
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (24)
+        (29)
+
+    *
+
+*    *   Aluminium-Pulver (Pigment Metall 1)
+
+    *   0007429-90-5
+
+    *   34480
+
+    *   291
+
+    *
+    *   x
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Pigment Weiß 5
+
+    *   0001345-05-7
+
+    *   64400
+
+    *   292
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Poly(ethylen-
+        propylen)glykoltridecylether
+
+    *   0061725-89-1
+
+    *   79985
+
+    *   293
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Polyacrylsäure
+
+    *   0009003-01-4
+
+    *   76460
+        76461
+
+    *   294
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Salze der Polyacrylsäure
+
+    *
+    *   76463
+
+    *   295
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Polydimethylsiloxan mit
+        3-Aminopropyl-Endgruppen, Polymer mit 1-Isocyanato-3-isocyanatomethyl-
+        3,5,5-trimethylcyclohexan
+
+    *   0661476-41-1
+
+    *   76725
+
+    *   296
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 1
+        Gew.-%
+
+
+*    *   Polydimethylsiloxan mit
+        3-Aminopropyl-Endgruppen, Polymer mit Dicyclohexylmethan-
+        4,4'-diisocyanat
+
+    *   0167883-16-1
+
+    *   76723
+
+    *   297
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 1,5
+        Gew.-%
+
+
+*    *   Polyester aus Adipinsäure mit
+        1,3-Butandiol, 1,2-Propandiol und
+        2-Ethyl-1-hexanol
+
+    *   0073018-26-5
+
+    *   76807
+
+    *   298
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (28)
+        (29)
+
+    *
+
+*    *   Polyester aus Adipinsäure mit
+        Glyzerin oder Pentaerythrit,
+        Ester mit geradzahligen, unverzweigten C12-C22-Fettsäuren
+
+    *
+    *   76815
+
+    *   299
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 5
+        Gew.-%
+
+
+*    *   Polyester aus 1,4-Butandiol mit Caprolacton
+
+    *   0031831-53-5
+
+    *   76845
+
+    *   300
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (26)
+        (27)
+
+    *   Fraktion mit Molekulargewicht*                      1 000 unter 0,5
+        Gew.-%
+
+
+*    *   Polyester von 1,2-Propandiol und/oder 1,3- und/oder 1,4-Butandiol
+        und/oder Polypropylenglykol mit Adipinsäure, auch mit endständiger
+        Essigsäure oder C12-C18 Fettsäuren oder n-Octanol und/oder n-Decanol
+
+    *
+    *   76866
+
+    *   301
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (28)
+        (29)
+
+    *
+
+*    *   Polyethylenglykol
+        (EO = 1-30, typischerweise 5)-ether von Butyl-2-cyano-3-(4-hydroxy-
+        3-methoxyphenyl)-acrylat
+
+    *
+    *   77732
+
+    *   302
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Polyethylenglykol
+        (EO = 1-30, typischerweise 5)-ether von
+        Butyl-2-cyano-3-(4-hydroxyphenyl)-acrylat
+
+    *
+    *   77733
+
+    *   303
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Polyethylenglykol
+        (EO = 1-50)-ether mit primären linearen und verzweigten C8-C22
+        Alkoholen
+
+    *
+    *   77708
+
+    *   304
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   1,8
+
+    *
+    *   in Übereinstimmung mit dem Höchstgehalt an Ethylenoxid
+        gemäß den in der Verordnung (EU) Nr. 231/2012 der Kommission genannten
+        Reinheitskriterien für Lebensmittelzusatzstoffe
+
+
+*    *   Polyethylenglykoldilaurat
+
+    *   0009005-02-1
+
+    *   77280
+
+    *   305
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykoldimyristat
+
+    *
+    *   77320
+
+    *   306
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykoldioleat
+
+    *   0009005-07-6
+
+    *   77360
+
+    *   307
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolester natürlicher Fettsäuren
+
+    *
+    *   77660
+
+    *   308
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolmonolaurat
+
+    *   0009004-81-3
+
+    *   78080
+
+    *   309
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolmonomyristat
+
+    *
+    *   78120
+
+    *   310
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolmonooleat
+
+    *   0009004-96-0
+
+    *   78160
+
+    *   311
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolmonopalmitat
+
+    *   0009004-94-8
+
+    *   78240
+
+    *   312
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykolstearat
+
+    *
+    *   79520
+
+    *   313
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyethylenglykol-
+        tridecyletherphosphat
+
+    *   0009046-01-9
+
+    *   79600
+
+    *   314
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *   Polyethylenglykol(EO
+        *                     = 11)tridecyletherphosphat(mono- und
+        dialkylester) mit einem Gehalt von höchstens 10 %
+        Polyethylenglykol(EO*                     = 11)-
+        tridecylether
+
+
+*    *   Polyethylenimin, butyliert
+
+    *
+    *   79760
+
+    *   315
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   6
+
+    *
+    *
+
+*    *   Poly(3-nonyl-1,1-dioxo-1-thiopropan-
+        1,3-diyl)-block-poly(x-oleyl-7-hydroxy-
+        1,5-diiminooctan-1,8-diyl), Mischung mit x = 1 und/oder 5,
+        neutralisiert mit Dodecylbenzolsulfonsäure
+
+    *   1010121-89-7
+
+    *   80510
+
+    *   316
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   nur zur Verwendung als Hilfsstoff bei der Herstellung von Polyethylen
+        (PE), Polypropylen (PP) und Polystyrol (PS)
+
+
+*    *   Polyvinylalkohole
+
+    *   0009002-89-5
+
+    *   81280
+
+    *   317
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Polyvinylpyrrolidon
+
+    *   0009003-39-8
+
+    *   81500
+
+    *   318
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Der Stoff erfüllt die Reinheitskriterien gemäß
+        der Richtlinie
+        2008/84/EG
+        der Kommission (ABl. L 253 vom 20.9.2008, S. 1).
+
+
+*    *   N,N''-1,3-Propandiylbis[N'-octadecyl-harnstoff]
+
+    *   0035674-65-8
+
+    *   81870
+
+    *   319
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Propylacrylat
+
+    *   0000925-60-0
+
+    *   11980
+
+    *   320
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (20)
+
+    *
+
+*    *   Propylencarbonat
+
+    *   0000108-32-7
+
+    *
+    *   321
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Propylenoxid
+
+    *   0000075-56-9
+
+    *   24010
+
+    *   322
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   Propylgallat
+
+    *   0000121-79-9
+
+    *   55360
+
+    *   323
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (18)
+
+    *
+
+*    *   Propylmethacrylat
+
+    *   0002210-28-8
+
+    *   21340
+
+    *   324
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (21)
+
+    *
+
+*    *   Proteine, Soja
+
+    *   0009010-10-0
+
+    *
+    *   325
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Raffinierte Wachse, die aus Erdöl oder aus synthetischen
+        Kohlenwasserstoffen gewonnen werden, hohe Viskosität
+
+    *
+    *   95859
+
+    *   326
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   durchschnittliches Molekulargewicht: mindestens 500 Da
+        Viskosität bei 100 °C: mindestens 11 cSt (11 × 10
+        -6                      m
+        2                     /s)
+        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl
+        kleiner als 25: höchstens 5 Gew.-%
+
+
+*    *   Reaktionsprodukt von
+        Di-tert-butylphosphonit mit Biphenyl, erzeugt durch Kondensation von
+        2,4-Di-tert-butylphenol mit dem
+        Friedel-Crafts-Reaktionsprodukt aus Phosphortrichlorid und Biphenyl
+
+    *   0119345-01-6
+
+    *   83595
+
+    *   327
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   18
+
+    *
+    *   Zusammensetzung:
+
+        –   4,4'-Biphenylen-
+            bis(0,0-bis(2,4-di-tert.-butyl-phenyl)phosphonit)
+            (CAS-Nr. 38613-77-3)
+            (36-46 % w/w (\*))
+
+
+        –   4,3'-Biphenylen-
+            bis(0,0-bis(2,4-di-tert.-butyl-phenyl)phosphonit)
+            (CAS-Nr. 118421-00-4
+            (17-23 % w/w (\*))
+
+
+        –   3,3'-Biphenylen-
+            bis(0,0-bis(2,4-di-tert.-butyl-phenyl)phosphonit)
+            (CAS-Nr. 118421-01-5)
+            (1-5 % w/w (\*))
+
+
+        –   4-Biphenylen-
+            (0,0-bis(2,4-di-tert.-butyl-
+            phenyl)phosphonit
+            (CAS-Nr. 91362-37-7)
+            (11-19 % w/w (\*))
+
+
+        –   Tris(2,4-di-tert.-butylphenyl)phosphit
+            (CAS-Nr. 31570-04-4)
+            (9-18 % w/w (\*))
+
+
+        –   4,4'-Biphenylen-
+            0,0-bis(2,4-di-tert.butyl-phenyl)phosphonat-0,0-bis(2,4-di-
+            tert.-butylphenyl)phosphonit
+            (CAS-Nr. 112949-97-0)
+            (*                            5 % w/w (\*))
+
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   \_\_\__\_\__\_\_\_\_
+        (\*) Menge der verwendeten Substanz/Menge der Formulierung
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   Sonstige Spezifikationen
+
+        –   Phosphorgehalt: 5,4 %-5,9 %
+
+
+        –   Säurezahl: max. 10 mg KOH/g
+
+
+        –   Schmelzintervall: 85-110 Grad C
+
+
+
+
+
+*    *   Reaktionsprodukte von
+        2-Mercaptoethyloleat mit
+        Dichlordimethylzinn, Natriumsulfid und Trichlormethylzinn
+
+    *   0068442-12-6
+
+    *   83599
+
+    *   328
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (7)
+
+    *
+
+*    *   Resorcinol-diglycidyl-ether
+
+    *   0000101-90-6
+
+    *   24073
+
+    *   329
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *
+
+*    *   Rizinusöl, hydriert
+
+    *   0008001-78-3
+
+    *   14470 43120
+
+    *   330
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Rizinusölfettsäuren, hydriert
+
+    *   0061790-39-4
+
+    *   14453
+
+    *   331
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ruß
+
+    *   0001333-86-4
+
+    *   42080
+
+    *   332
+
+    *
+    *   x
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Primärpartikel von 10-300 nm, aggregiert zu 100-1200 nm, die
+        Agglomerate von 300 nm-mm bilden können
+        Toluollösliche Substanzen:
+        maximal 0,1 %, bestimmt nach
+        ISO-Methode 6209
+        UV-Absorption von
+        Cyclohexanextrakt bei 386 nm:
+        *                      0,02 AU für eine Zelle von 1 cm oder*
+        0,1 AU für eine Zelle von 5 cm, bestimmt mit einer allgemein
+        anerkannten Analysemethode
+        Benzo(a)pyrengehalt:
+        max. 0,25 mg/kg Ruß
+
+
+*    *   Salpetersäure
+
+    *   0007697-37-2
+
+    *   68140
+
+    *   333
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Säuregelb 3 (Chinolingelb)
+
+    *   0008004-92-0
+        0095193-83-2
+
+    *
+    *   334
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   30
+
+    *
+    *
+
+*    *   Säuregelb 23 (Tartrazin)
+
+    *   0001934-21-0
+
+    *
+    *   335
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Säurerot 51 (Erythrosin)
+
+    *   0012227-78-0
+        0016423-68-0
+
+    *
+    *   336
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   6
+
+    *
+    *
+
+*    *   Schellack
+
+    *   0009000-59-3
+
+    *   24440
+        85550
+
+    *   337
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Siliciumdioxid
+
+    *   0007631-86-9
+
+    *   86240
+
+    *   338
+
+    *
+    *   x
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   bei synthetischem amorphem Siliciumdioxid: Primärpartikel von
+        1-100 nm, aggregiert zu 0,1-1 μm, die Agglomerate von 0,3 μm bis
+        Millimetergröße bilden können
+
+
+*    *   Sirupe, hydrolysierte Stärke, hydriert
+
+    *   0068425-17-2
+
+    *   24903
+
+    *   339
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *   gemäß den Reinheitskriterien für Maltitsirup E 965 ii nach der
+        Richtlinie
+        2008/60/EG                      (ABl. L 158 vom 18.6.2008, S. 17)
+
+
+*    *   Sojabohnenöl, epoxidiert
+
+    *   0008013-07-8
+
+    *   88640
+
+    *   340
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   60
+
+    *   (29)
+
+    *   Oxiran*                      8 %, Iodzahl*                      6
+
+
+*    *   Stärke, oxidiert
+
+    *   0065996-62-5
+
+    *
+    *   341
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Talg
+
+    *   0061789-97-7
+
+    *   92100
+
+    *   342
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Tallöl
+
+    *   0008002-26-4
+
+    *   24905
+
+    *   343
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Terephthalsäure
+
+    *   0000100-21-0
+
+    *   24910
+
+    *   344
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   7,5
+
+    *
+    *
+
+*    *   Terpinolen
+
+    *   0000586-62-9
+
+    *
+    *   345
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Tetrahydro-1,3,4,6-tetrakis-
+        (hydroxymethyl)-imidazo[4,5-d]imidazol-
+        2,5(1H,3H)dion
+
+    *   0005395-50-6
+
+    *   92460
+
+    *   346
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   4-(1,1,3,3-Tetramethyl-butyl)phenol
+
+    *   0000140-66-9
+
+    *   22720
+        25185
+
+    *   347
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *
+
+*    *   2,4,7,9-Tetramethyl-5-decin-4,7-diol
+
+    *   0000126-86-3
+
+    *   25191
+        92685
+
+    *   348
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (33)
+
+    *
+
+*    *   2,4,7,9-Tetramethyl-5-decin-
+        4,7-dioldi(polyoxyethylen)ether
+
+    *   0009014-85-1
+
+    *   79550
+
+    *   349
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (34)
+
+    *
+
+*    *   Thiodipropionsäureditetradecylester
+
+    *   0016545-54-3
+
+    *   93360
+
+    *   350
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (12)
+
+    *
+
+*    *   Titandioxid, beschichtet mit einem Copolymer aus n-Octyltrichlorsilan
+        und [Aminotris(methylenphosphonsäure), penta-Natriumsalz]
+
+    *
+    *   93450
+
+    *   351
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Der Gehalt des Titandioxids an
+        Copolymer zur Oberflächenbeschichtung beträgt nicht mehr
+        als 1 Gew.-%.
+
+
+*    *   Toluol
+
+    *   0000108-88-3
+
+    *   93540
+
+    *   352
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   1,2
+
+    *
+    *
+
+*    *   Toluoldiisocyanat
+
+    *   0026471-62-5
+
+    *   25208
+
+    *   353
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,4-Toluol-di-isocyanat
+
+    *   0000584-84-9
+
+    *   25210
+
+    *   354
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,4-Toluol-di-isocyanat, Dimer
+
+    *   0026747-90-0
+
+    *   25270
+
+    *   355
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,6-Toluol-di-isocyanat
+
+    *   0000091-08-7
+
+    *   25240
+
+    *   356
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   Tri-n-butylacetyl-citrat
+
+    *   0000077-90-7
+
+    *   93760
+
+    *   357
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Triethanolamin
+
+    *   0000102-71-6
+
+    *   94000
+
+    *   358
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   inklusive des Salzsäure-Adduktes
+
+
+*    *   Triethylcitrat
+
+    *   0000077-93-0
+
+    *   44640
+
+    *   359
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (29)
+
+    *
+
+*    *   Triethylenglykoldimethacrylat
+
+    *   0000109-16-0
+
+    *
+    *   360
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Tri-2-ethylhexylphosphat
+
+    *   0000078-42-2
+
+    *   74000
+
+    *   361
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Triethylphosphit
+
+    *   0000122-52-1
+
+    *   23175
+
+    *   362
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   Tri-isobutylphosphat
+
+    *   0000126-71-6
+
+    *   73840
+
+    *   363
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Trimellitsäure
+
+    *   0000528-44-9
+
+    *   13050
+        25540
+
+    *   364
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (19)
+
+    *
+
+*    *   Trimellitsäure-anhydrid
+
+    *   0000552-30-7
+
+    *   25550
+
+    *   365
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (19)
+
+    *
+
+*    *   2,2,4-Trimethylhexan-1,6-diisocyanat
+
+    *   0016938-22-0
+
+    *   25573
+
+    *   366
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,4,4-Trimethylhexan-1,6-diisocyanat
+
+    *   0015646-96-5
+
+    *   25574
+
+    *   367
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (15)
+
+    *   1 mg/kg im Endprodukt
+        (berechnet als NCO)
+
+
+*    *   2,2,4-Trimethyl-1,3-pentandiol-
+        diisobutyrat
+
+    *   0006846-50-0
+
+    *   95020
+
+    *   368
+
+    *
+    *
+    *   x
+
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Tripropylenglykolmonomethylether
+
+    *   0025498-49-1
+
+    *
+    *   369
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   2,4,6-Tris(tert-butyl)phenyl-2-butyl-
+        2-ethyl-1,3-propandiolphosphit
+
+    *   0161717-32-4
+
+    *   95270
+
+    *   370
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   2
+
+    *
+    *   berechnet als Summe von
+        Phosphit, Phosphat und dem Hydrolyseprodukt TTBP
+
+
+*    *   Vanillin
+
+    *   0000121-33-5
+
+    *   95680
+
+    *   371
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Vinylacetat-Vinylpyrrolidon, Copolymer
+
+    *   0025086-89-9
+
+    *   95755
+
+    *   372
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Vinylchlorid
+
+    *   0000075-01-4
+
+    *   26050
+
+    *   373
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   1 mg/kg im Endprodukt
+
+
+*    *   Vinylmethylether
+
+    *   0000107-25-5
+
+    *   22270
+
+    *   374
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Vinylpyrrolidon
+
+    *   0000088-12-0
+
+    *   26230
+        95810
+
+    *   375
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   NN
+
+    *
+    *
+
+*    *   Vinyltriethoxysilan
+
+    *   0000078-08-0
+
+    *   26305
+
+    *   376
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Wachse, paraffinisch, raffiniert, aus Erdöl oder aus synthetischen
+        Kohlenwasserstoffen gewonnen, geringe Viskosität
+
+    *
+    *   95858
+
+    *   377
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   nicht zur Verwendung im unmittelbaren Kontakt mit fetten Lebensmitteln
+
+        –   durchschnittliches Molekular-
+            gewicht: mindestens 350 Da
+
+
+        –   Viskosität bei 100 °C: mindes-
+            tens 2,5 cSt (2,5 × 10
+            –6                            m
+            2                           /s)
+
+
+        –   Gehalt an mineralischen
+            Kohlenwasserstoffen mit einer
+            Kohlenstoffzahl kleiner als 25:
+            höchstens 40 Gew.-%
+
+
+
+
+
+*    *   Wasser
+
+    *   0007732-18-5
+
+    *   26360
+        95855
+
+    *   378
+
+    *
+    *
+    *   x
+
+    *   x
+
+    *
+    *
+    *
+    *   gemäß TrinkwV
+
+
+*    *   Wasserstoffperoxid
+
+    *   0007722-84-1
+
+    *
+    *   379
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Weiße Mineralöle, paraffinisch, die aus Kohlenwasserstoffen auf der
+        Basis von Erdöl gewonnen werden
+
+    *
+    *   95883
+
+    *   380
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   durchschnittliches Molekulargewicht: mindestens 480 Da
+        Viskosität bei 100 °C: mindestens 8,5 cSt (8,5 × 10
+        –6                      m
+        2                     /s)
+        Gehalt an mineralischen Kohlenwasserstoffen mit einer Kohlenstoffzahl
+        kleiner als 25: höchstens 5 Gew.-%
+
+
+*    *   Xylol
+
+    *   0001330-20-7
+
+    *   95945
+
+    *   381
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   1
+
+    *
+    *
+
+*    *   Zinnchlorid
+
+    *   0007772-99-8
+
+    *   93415
+
+    *   382
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   12
+
+    *
+    *
+
+*    *   20 % (w/w) Silberchlorid, geschichtet auf 80 % (w/w) Titandioxid
+
+    *
+    *   86430
+
+    *   383
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (36)
+
+    *
+
+*    *   Kurkumin
+
+    *   0000458-37-7
+
+    *
+    *   384
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Riboflavin
+
+    *   0000083-88-5
+
+    *
+    *   385
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Riboflavin-5´-phosphat
+
+    *   0000130-40-5
+
+    *
+    *   386
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Gelborange S
+
+    *   0002783-94-0
+        0015790-07-5
+
+    *
+    *   387
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Echtes Karmin
+
+    *   0001390-65-4
+
+    *
+    *   388
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Patentblau V (Na-Salz)
+
+    *   0020262-76-4
+
+    *
+    *   389
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Indigotin I
+
+    *   0000860-22-0
+        0016521-38-3
+
+    *
+    *   390
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Chlorophylle
+
+    *   0001406-65-1
+
+    *
+    *   391
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   kupferhaltige Komplexe der Chlorophylle
+
+    *   0001337-20-8
+        0008049-84-1
+        0011006-34-1
+        0015739-09-0
+        0024111-17-9
+
+    *
+    *   392
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Grün S
+
+    *   0003087-16-9
+
+    *
+    *   393
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Einfaches Zuckerkulör
+
+    *   0008028-89-5
+
+    *
+    *   394
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sulfitlaugen-Zuckerkulör
+
+    *   0008028-89-5
+
+    *
+    *   395
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ammoniak-Zuckerkulör
+
+    *   0008028-89-5
+
+    *
+    *   396
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ammonsulfit-Zuckerkulör
+
+    *   0008028-89-5
+
+    *
+    *   397
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Carotine
+
+        i)  gemischte Carotine
+
+
+        ii) Beta-Carotin
+
+
+
+
+    *   0000036-88-4
+
+    *
+    *   398
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Annatto
+
+    *   0001393-63-1
+
+    *
+    *   399
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bixin
+
+    *   0006983-79-5
+
+    *
+    *   400
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Norbixin
+
+    *   0000542-40-5
+
+    *
+    *   401
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Paprikaextrakt
+
+    *
+    *
+    *   402
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Capsanthin
+
+    *   0000465-42-9
+
+    *
+    *   403
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Capsorubin
+
+    *   0000470-38-2
+
+    *
+    *   404
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lycopin
+
+    *   0000502-65-8
+
+    *
+    *   405
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Beta-apo-8´-Carotinal (C 30)
+
+    *   0001107-26-2
+
+    *
+    *   406
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Beta-apo-8´-Carotinsäure-ethylester (C 30)
+
+    *   0001109-11-1
+
+    *
+    *   407
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lutein
+
+    *   0000127-40-2
+
+    *
+    *   408
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Canthaxanthin
+
+    *   0000514-78-3
+
+    *
+    *   409
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Beetenrot
+
+    *   0007659-95-2
+
+    *
+    *   410
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Anthocyane
+
+    *   0011029-12-2
+
+    *
+    *   411
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Silber
+
+    *   0007440-22-4
+
+    *
+    *   412
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *   (36)
+
+    *
+
+*    *   Gold
+
+    *   0007440-57-5
+
+    *
+    *   413
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Litholrubin BK
+
+    *   0005281-04-9
+
+    *
+    *   414
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   tocopherolhaltige natürliche Extrakte
+
+    *
+    *
+    *   415
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Gamma-Tocopherol
+
+    *   0007616-22-0
+
+    *
+    *   416
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Delta-Tocopherol
+
+    *   0000119-13-1
+
+    *
+    *   417
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Agar-Agar
+
+    *   0009002-18-0
+
+    *
+    *   418
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Carrageen
+
+    *   0009000-07-1
+
+    *
+    *   419
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Behandelte Euchema-Algen
+
+    *
+    *
+    *   420
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Karaya (Karayagummi)
+
+    *   0009000-36-6
+
+    *
+    *   421
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Konjak-Gummi
+
+    *   0037220-17-0
+
+    *
+    *   422
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Glycerinester aus Wurzelharz
+
+    *   0068475-37-6
+
+    *
+    *   423
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Zuckerester von Speisefettsäuren
+
+    *   0025339-99-5
+
+    *
+    *   424
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Thermooxidiertes Sojaöl mit Mono- und Diglyceriden von
+        Speisefettsäuren
+
+    *
+    *
+    *   425
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Xylitol
+
+    *   0000087-99-0
+
+    *
+    *   426
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Isoascorbinsäure
+
+    *   0000089-65-6
+
+    *
+    *   427
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Cyclohexan
+
+    *   0000110-82-7
+
+    *   45700
+
+    *   428
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   1
+
+    *
+    *   Benzolgehalt*                      0.1 Gew.-%
+
+
+*    *   Maltitol
+
+    *   0000585-88-6
+
+    *
+    *   429
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+
+*    *   Essigsäurepropylester
+
+    *   0000109-60-4
+
+    *
+    *   430
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   2,2-Bis(4-hydroxyphenyl)propan, oligomeres Reaktionsprodukt mit
+        Epichlorhydrin und Acrylsäure
+
+    *   0055818-57-0
+
+    *
+    *   431
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Glycerin, propoxyliert, Triacrylat
+
+    *   0052408-84-1
+
+    *
+    *   432
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   2,5,8,11-Tetramethyl-6-dodecin-
+        5,8-diol
+
+    *   0068227-33-8
+
+    *
+    *   433
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (33)
+
+    *
+
+*    *   2,4,7,9-Tetramethyl-5-decin-
+        4,7-dioldi(polyoxyethylen-
+        polyoxypropylen)ether
+
+    *   0182211-02-5
+
+    *
+    *   434
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *   (34)
+
+    *
+
+*    *   1,1,1-Trimethylolpropan, ethoxyliert, Triacrylat
+
+    *   0028961-43-5
+
+    *
+    *   435
+
+    *   x
+
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   (Methylimino)diethan-
+        2,1-diyl bis[4-(dimethylamino)benzoat]
+
+    *   0925246-00-0
+
+    *
+    *   436
+
+    *
+    *
+    *
+    *
+    *   x
+
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Tris{4-[(4-acetylphenyl)sulfanyl]phenyl}sulfonium hexafluorophosphat
+
+    *   0953084-13-4
+
+    *
+    *   437
+
+    *
+    *
+    *
+    *
+    *   x
+
+    *   0,05
+
+    *
+    *   SMG berechnet als Summe von
+        Tris{4-[(4-acetylphenyl)sulfanyl]phenyl}sulfonium hexafluorophosphat
+        (CAS-Nr.: 953084-13-4) und
+        1-(4-Phenylsulfanyl-phenyl)-
+        ethanon (CAS-Nr.: 10169-55-8)
+        Ein Übergang von
+        1-(4-{4-[4-(4-acetyl-phenylsulfanyl)-
+        phenylsulfanyl]-phenylsulfanyl}phenyl)-ethanon auf Lebensmittel darf
+        nicht nachweisbar sein.
+        nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Milchsäureester von Mono- und Diglyceriden von Speisefettsäuren
+
+    *
+    *
+    *   438
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Weinsäureester von Mono- und Diglyceriden von Speisefettsäuren
+
+    *
+    *
+    *   439
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Citronensäureester von Mono- und Diglyceriden von Speisefettsäuren
+
+    *
+    *
+    *   440
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Mono- und Diacetylweinsäureester von Mono- und Diglyceriden von
+        Speisefettsäuren
+
+    *
+    *
+    *   441
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Gemischte Wein- und Essigsäureester von Mono- und Diglyceriden von
+        Speisefettsäuren
+
+    *
+    *
+    *   442
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   2-Octanol
+
+    *   0000123-96-6
+
+    *
+    *   443
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   1,10-Diaminodecan
+
+    *   0000646-25-3
+
+    *   15260
+
+    *   444
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Pigment Blue 60
+
+    *   0000081-77-6
+
+    *
+    *   445
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 15
+        (auch Pigment Blue 15:1,
+        Pigment Blue 15:3,
+        Pigment Blue 15:6)
+
+    *   0000147-14-8
+
+    *
+    *   446
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Natural Blue 1
+
+    *   0000482-89-3
+
+    *
+    *   447
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 16
+
+    *   0000574-93-6
+
+    *
+    *   448
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Violet 19
+
+    *   0001047-16-1
+
+    *
+    *   449
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 49:2
+
+    *   0001103-39-5
+
+    *
+    *   450
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Eisen(III)-oxid (Pigment Red 101)
+
+    *   0001309-37-1
+
+    *
+    *   451
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   3
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Green 7
+
+    *   0001328-53-6
+
+    *
+    *   452
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Green 37
+
+    *   0001330-37-6
+
+    *
+    *   453
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment White 24
+
+    *   0001332-73-6
+
+    *
+    *   454
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 4
+
+    *   0001657-16-5
+
+    *
+    *   455
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 3
+
+    *   0002425-85-6
+
+    *
+    *   456
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 1
+
+    *   0002512-29-0
+
+    *
+    *   457
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 170
+
+    *   0002786-76-7
+
+    *
+    *   458
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 4
+
+    *   0002814-77-9
+
+    *
+    *   459
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 202
+
+    *   0003089-17-6
+
+    *
+    *   460
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 13
+
+    *   0003520-72-7
+
+    *
+    *   461
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 166
+
+    *   0003905-19-9
+
+    *
+    *   462
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 43
+
+    *   0004424-06-0
+
+    *
+    *   463
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 17
+
+    *   0004531-49-1
+
+    *
+    *   464
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 149
+
+    *   0004948-15-6
+
+    *
+    *   465
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 13
+
+    *   0005102-83-0
+
+    *
+    *   466
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 146
+
+    *   0005280-68-2
+
+    *
+    *   467
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 144
+
+    *   0005280-78-4
+
+    *
+    *   468
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 95
+
+    *   0005280-80-8
+
+    *
+    *   469
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 14
+
+    *   0005468-75-7
+
+    *
+    *   470
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 83
+
+    *   0005567-15-7
+
+    *
+    *   471
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 93
+
+    *   0005580-57-4
+
+    *
+    *   472
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 110
+
+    *   0005590-18-1
+        0106276-80-6
+
+    *
+    *   473
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 16
+
+    *   0005979-28-2
+
+    *
+    *   474
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 2
+
+    *   0006041-94-7
+
+    *
+    *   475
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Violet 23
+
+    *   0006358-30-1
+        0215247-95-3
+
+    *
+    *   476
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 12
+
+    *   0006410-32-8
+
+    *
+    *   477
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 3
+
+    *   0006486-23-3
+
+    *
+    *   478
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 16
+
+    *   0006505-28-8
+
+    *
+    *   479
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 112
+
+    *   0006535-46-2
+
+    *
+    *   480
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 48:2
+
+    *   0007023-61-2
+
+    *
+    *   481
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Kupfer-Pulver (Pigment Metal 2)
+
+    *   0007440-50-8
+
+    *
+    *   482
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 53
+
+    *   0008007-18-9
+
+    *
+    *   483
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Calciumsulfat-Dihydrat
+        (Pigment White 25)
+
+    *   0010101-41-4
+
+    *
+    *   484
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Violet 32
+
+    *   0012225-08-0
+
+    *
+    *   485
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Eisenoxid schwarz
+        (Pigment Black 11)
+
+    *   0012227-89-3 0001317-61-9
+
+    *
+    *   486
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   3
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 36
+
+    *   0012236-62-3
+
+    *
+    *   487
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 62
+
+    *   0012286-66-7
+
+    *
+    *   488
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 27
+
+    *   0014038-43-8
+        0012240-15-2
+
+    *
+    *   489
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 48:3
+
+    *   0015782-05-5
+
+    *
+    *   490
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 122
+
+    *   0000980-26-7
+
+    *
+    *   491
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Violet 37
+
+    *   0017741-63-8
+
+    *
+    *   492
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 52:1
+
+    *   0017852-99-2
+
+    *
+    *   493
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 138
+
+    *   0030125-47-4
+
+    *
+    *   494
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 208
+
+    *   0031778-10-6
+
+    *
+    *   495
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Brown 23
+
+    *   0035869-64-8
+
+    *
+    *   496
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 139
+
+    *   0036888-99-0
+
+    *
+    *   497
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 214
+
+    *   0040618-31-3
+
+    *
+    *   498
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 61
+
+    *   0040716-47-0
+
+    *
+    *   499
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Eisen(III)-hydroxidoxid
+        (Pigment Yellow 42)
+
+    *   0051274-00-1
+
+    *
+    *   500
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   3
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 242
+
+    *   0052238-92-3
+
+    *
+    *   501
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 29
+
+    *   0057455-37-5
+
+    *
+    *   502
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 220
+
+    *   0068259-05-2
+
+    *
+    *   503
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 155
+
+    *   0068516-73-4
+
+    *
+    *   504
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 64
+
+    *   0072102-84-2
+
+    *
+    *   505
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 180
+
+    *   0077804-81-0
+
+    *
+    *   506
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 128
+
+    *   0079953-85-8
+
+    *
+    *   507
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 71
+
+    *   0084632-50-8
+
+    *
+    *   508
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 264
+
+    *   0088949-33-1
+
+    *
+    *   509
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Zinkpulver
+        (Pigment Black 16)
+
+    *   0007440-66-6
+
+    *
+    *   510
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   25
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   1,2,4-Benzenetricarbonsäure, gemischter n-Decyl- und n-Octyltriester
+
+    *   0090218-76-1
+
+    *
+    *   511
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Diethylenglykolmonobutylether
+
+    *   0000112-34-5
+
+    *   48030
+
+    *   512
+
+    *   x
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (35)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Diethylenglykolmonoethylether
+
+    *   0000111-90-0
+
+    *
+    *   513
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   5
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Trimethylolpropan,
+        gemischte Triester und Diester
+        mit n-Octan- und n-Decansäuren
+
+    *
+    *   94987
+
+    *   514
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   5
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   1-Ethoxy-2-propanol
+
+    *   0001569-02-4
+
+    *
+    *   515
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   1-Ethoxy-2-propylacetat
+
+    *   0054839-24-6
+
+    *
+    *   516
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Diethylenglykolbutyletheracetat
+
+    *   0000124-17-4
+
+    *
+    *   517
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (35)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   1,3-Benzoldimethanamin
+
+    *   0001477-55-0
+
+    *   13000
+
+    *   518
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *
+    *   (39)
+
+    *
+
+*    *   Di-n-butyladipat
+
+    *   0000105-99-7
+
+    *   32240
+
+    *   519
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Acetyl-tri-(2-ethylhexyl)-citrat
+
+    *   0000144-15-0
+
+    *   95440
+
+    *   520
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Diethylcitrat
+
+    *   0032074-56-9
+
+    *
+    *   521
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Aluminiumhydroxychlorid
+
+    *   0001327-41-9
+
+    *   34660
+
+    *   522
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,4
+
+    *
+    *
+
+*    *   1-Propoxy-2-propanol
+
+    *   0001569-01-3
+
+    *
+    *   523
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   4-Methyl-2-pentanol
+
+    *   0000108-11-2
+
+    *   66860
+
+    *   524
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (40)
+
+    *
+
+*    *   3-Methyl-1,5-pentandiyldiacrylat
+
+    *   0064194-22-5
+
+    *
+    *   525
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+        Eine Migration der Verunreinigungen
+        5-Hydroxy-3-methylpentylacrylat
+        (CAS 64194-21-1) und Tetrahydro-
+        2-furanylmethylmethacrylat
+        (2455-24-5) darf nicht nachweisbar sein. Als nicht nachweisbar gilt
+        ein Übergang bis zu 0,01 Milligramm pro Kilogramm des Lebensmittels.
+
+
+*    *   Dipropylenglykolmonopropylether
+
+    *   0029911-27-1
+
+    *
+    *   526
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Tripropylenglykolmonobutylether
+
+    *   0055934-93-5
+
+    *
+    *   527
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Dipropylenglykolmonoethylether
+
+    *   0030025-38-8
+
+    *
+    *   528
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Dipropylenglykoldimethylether
+
+    *   0111109-77-4
+
+    *
+    *   529
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   (37)
+
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   1,4:3,6-Dianhydrosorbitol
+
+    *   0000652-67-5
+
+    *   15404
+
+    *   530
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   5
+
+    *
+    *   nur zur Verwendung als
+
+        a)  Comonomer in Polyethylen-
+            co-isosorbid-terephthalat;
+
+
+        b)  Comonomer bei der
+            Produktion von Polyestern,
+            mit der Einschränkung, dass
+            höchstens 40 Mol-% der Diol-
+            Komponente in Verbindung
+
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+        *   mit Ethylenglycol und/oder 1,4-
+            Bis(hydroxymethyl)cyclohexan verwendet werden.
+            Mit Dianhydrosorbitol und 1,4-
+            Bis(hydroxymethyl)cyclohexan hergestellte Polyester dürfen
+            nicht in Kontakt mit Lebens-
+            mitteln verwendet werden,
+            die mehr als 15 % Alkohol
+            enthalten.
+
+
+
+
+
+*    *   4-Benzyliden-2,6-di-tert-
+        butylcyclohexa-2,5-dien-1-on
+
+    *   0007078-98-0
+
+    *
+    *   531
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+        nur zur Nutzung als in-can stabilizer, nicht zur Stabilisierung von
+        Monomeren mit einem Molekulargewicht unter 350 Da
+
+
+*    *   Ethyllaktat
+
+    *   0000687-47-8
+
+    *
+    *   532
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   5
+
+    *
+    *   Die Ausgangsstoffe zur Synthese von Ethyllaktat müssen den
+        lebensmittelrechtlichen Anforderungen an die Verwendung der Stoffe zur
+        Herstellung von Lebensmitteln entsprechen.
+
+
+*    *   Phosphorsäure, tributylester
+
+    *   0000126-73-8
+
+    *   73680
+
+    *   533
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   0,05
+
+    *
+    *
+
+*    *   Mischung von methyl-verzweigten und linearen C14-C18-Alkanamiden,
+        gewonnen aus Fettsäuren
+
+    *   0085711-28-0
+
+    *
+    *   534
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *   5
+
+    *
+    *
+
+*    *   Siliciumdioxid, silyliert
+
+    *
+    *   86285
+
+    *   535
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   bei synthetischem amorphem Siliciumdioxid, silyliert:
+        Primärpartikel von 1-100 nm,
+        die zu 0,1-1 μm aggregiert sind
+        und Agglomerate von 0,3 μm bis Millimetergröße bilden können
+
+
+*    *   1,3-Bis(2-hydroxyethyl)-
+        5,5-dimethylimidazolidin-2,4-dion
+
+    *   0026850-24-8
+
+    *
+    *   536
+
+    *
+    *
+    *   x
+
+    *
+    *
+    *   0,5
+
+    *
+    *   nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+        nur zur Verwendung für
+        Gegenstände für den Kontakt mit trockenen Lebensmitteln, für die das
+        Lebensmittelsimulanz E festgelegt ist
+        gilt nur für ethoxylierte Derivate von
+        5,5-Dimethylimidazolidin-2,4-dion, Ethoxylierung in 1- oder 3-Position
+        Die Menge des aufgeführten Stoffes darf nicht weniger als 75 % der
+        Mischung mit allen verwandten ethoxylierten Verbindungen betragen.
+        Die Menge der Summe aus
+        3-(2-Hydroxyethyl)-
+        5,5-Dimethylimidazolidin-2,4-dion
+        (CAS-Nr. 29071-93-0) und
+        1-(2-Hydroxyethyl)-
+        5,5-Dimethylimidazolidin-2,4-dion
+        (CAS-Nr. 88280-55-1) darf nicht höher als 10 % der Mischung sein.
+        SMG ausgedrückt als Summe des Stoffes und aller verwandten
+        ethoxylierten Verbindungen, und zwar:
+        3-(2-Hydroxyethyl)-
+        5,5-Dimethylimidazolidin-2,4-dion
+        (CAS-Nr. 29071-93-0),
+        1-(2-Hydroxyethyl)-
+        5,5-Dimethylimidazolidin-2,4-dion
+        (CAS-Nr. 88280-55-1),
+        3-[2-(2-Hydroxyethoxy)ethyl]-1-
+        (2-hydroxyethyl)-5,5-dimethyl-
+        imidazolidin-2,4-dion
+        (CAS-Nr. 53504-21-5),
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   1-[2-(2-Hydroxyethoxy)ethyl]-
+        3-(2-hydroxyethyl)-5,5-dimethyl-
+        imidazolidin-2,4-dion,
+        weitere und höher ethoxylierte Verbindungen (nicht mehr als 1 % der
+        Mischung)
+
+
+*    *   Polyglycerol
+
+    *   0025618-55-7
+
+    *
+    *   537
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   muss bei maximal 275 °C und unter Bedingungen verarbeitet werden, die
+        eine Zersetzung des Stoffes verhindern
+
+
+*    *   Ethylenvinylacetatcopolymerwachs
+
+    *   0024937-78-8
+
+    *
+    *   538
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Die Migration der oligomeren Fraktion mit einer Molmasse unter 1 000
+        Da darf 5 mg/kg Lebensmittel nicht überschreiten.
+        muss bei maximal 230 °C und unter Bedingungen verarbeitet werden, die
+        eine Zersetzung des Stoffes verhindern
+
+
+*    *   4-Nonylphenol (verzweigt)
+
+    *   0084852-15-3
+
+    *
+    *   539
+
+    *   x
+
+    *
+    *
+    *
+    *
+    *   nicht
+        nach-
+        weisbar
+        bei
+        einer
+        Nach-
+        weis-
+        grenze
+        von
+        0,0015 mg/kg
+
+    *
+    *   nur als Monomer oder Ausgangsstoff für die Herstellung von
+        Phenolharzen und Kolophonium modifizierten Phenolharzen zu verwenden
+        nicht mehr als 10 mg/kg im fertigen Harz
+        nicht mehr als 25 Gew.-% Harze in der endgültigen Druckfarbe
+        nur für die Verwendung auf der vom Lebensmittel abgewandten Seite
+
+
+*    *   Stearinsäure, Cersalz
+
+    *   0010119-53-6
+
+    *   89150
+
+    *   540
+
+    *
+    *
+    *
+    *   x
+
+    *
+    *
+    *
+    *   Cergehalt 1 mg/kg
+
+
+
+## **Tabelle 2**
+
+**Verzeichnis der Pigmente, die zusätzlich zu Tabelle 1 bei der
+Bedruckung von in § 4 Absatz 7 Satz 4 bezeichneten
+Lebensmittelbedarfsgegenständen verwendet werden dürfen**
+## (zu § 4 Absatz 9, § 8 Absatz 5 Satz 1)
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+
+*    *   Bezeichnung des Stoffes
+
+    *   CAS-Nr.
+
+    *   REF-Nr.
+
+    *   Substanz-
+        Nr.
+
+    *   Verwendungszweck
+
+    *   SMG
+        [mg/kg]
+
+    *   Gruppen-
+        grenzwert-
+        Nr.
+
+    *   Andere Beschränkungen,
+        Spezifikationen und
+        Reinheitsanforderungen
+
+
+*    *   I
+
+    *   II
+
+    *   III
+
+    *   IV
+
+    *   V
+
+
+*    *   Calcium-Aluminium-Borosilikat
+
+    *
+    *
+    *   541
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Calcium-Natrium-Borosilikat
+
+    *
+    *
+    *   542
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Black 32
+
+    *   0083524-75-8
+
+    *
+    *   543
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 79
+
+    *   0014154-42-8
+
+    *
+    *   544
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Green 36
+
+    *   0014302-13-7
+
+    *
+    *   545
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 34
+
+    *   0015793-73-4
+
+    *
+    *   546
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 38
+
+    *   0012236-64-5
+
+    *
+    *   547
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 46
+
+    *   0067801-01-8
+
+    *
+    *   548
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 72
+
+    *   0078245-94-0
+
+    *
+    *   549
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Orange 73
+
+    *   0084632-59-7
+
+    *
+    *   550
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 48:4
+
+    *   0005280-66-0
+
+    *
+    *   551
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 63:1
+
+    *   0006417-83-0
+
+    *
+    *   552
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 147
+
+    *   0068227-78-1
+
+    *
+    *   553
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 148
+
+    *   0094276-08-1
+
+    *
+    *   554
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 176
+
+    *   0012225-06-8
+
+    *
+    *   555
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 177
+
+    *   0004051-63-2
+
+    *
+    *   556
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 184
+
+    *   0099402-80-9
+
+    *
+    *   557
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 185
+
+    *   0051920-12-8
+
+    *
+    *   558
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 200:1
+
+    *   0032041-58-0
+
+    *
+    *   559
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 200
+
+    *   0058067-05-3
+
+    *
+    *   560
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 210
+
+    *   0061932-63-6
+
+    *
+    *   561
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 238
+
+    *   0140114-63-2
+
+    *
+    *   562
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 254
+
+    *   0084632-65-5
+
+    *
+    *   563
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 266
+
+    *   0036968-27-1
+
+    *
+    *   564
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 268
+
+    *   0016403-84-2
+
+    *
+    *   565
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 269
+
+    *   0067990-05-0
+
+    *
+    *   566
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 282
+
+    *   0938065-79-3
+
+    *
+    *   567
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 12
+
+    *   0006358-85-6
+
+    *
+    *   568
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 109
+
+    *   0005045-40-9
+        0106276-79-3
+
+    *
+    *   569
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 111
+
+    *   0015993-42-7
+
+    *
+    *   570
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 120
+
+    *   0029920-31-8
+
+    *
+    *   571
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 126
+
+    *   0090268-23-8
+
+    *
+    *   572
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 127
+
+    *   0068610-86-6
+
+    *
+    *   573
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 138
+
+    *   0030125-47-4
+
+    *
+    *   574
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 151
+
+    *   0031837-42-0
+
+    *
+    *   575
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 174
+
+    *   0078952-72-4
+
+    *
+    *   576
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 175
+
+    *   0035636-63-6
+
+    *
+    *   577
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 181
+
+    *   0074441-05-7
+
+    *
+    *   578
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 185
+
+    *   0076199-85-4
+
+    *
+    *   579
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 188
+
+    *   0023792-68-9
+
+    *
+    *   580
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 55
+
+    *   0006358-37-8
+
+    *
+    *   581
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 74
+
+    *   0006358-31-2
+
+    *
+    *   582
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 97
+
+    *   0012225-18-2
+
+    *
+    *   583
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Zinndioxid
+
+    *   0018282-10-5
+
+    *
+    *   584
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Zirconiumdioxid
+
+    *   0001314-23-4
+
+    *
+    *   585
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 81:1
+
+    *   0080083-40-5
+
+    *
+    *   586
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 81:2
+
+    *   0075627-12-2
+
+    *
+    *   587
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 169
+
+    *   0012237-63-7
+
+    *
+    *   588
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 150
+
+    *   0068511-62-6
+        0025157-64-6
+        0086249-83-4 0872613-79-1
+
+    *
+    *   589
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Yellow 154
+
+    *   0068134-22-5
+
+    *
+    *   590
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Violet 27
+
+    *   0012237-62-6
+
+    *
+    *   591
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 1
+
+    *   0001325-87-7
+
+    *
+    *   592
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Blue 61
+
+    *   0001324-76-1
+
+    *
+    *   593
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+*    *   Pigment Red 272
+
+    *   0084632-66-6
+
+    *
+    *   594
+
+    *
+    *   x
+
+    *
+    *
+    *
+    *   NN
+
+    *
+    *   auch Verwendung als Nanomaterial im Sinne des § 2 Satz 1 Nummer 9,
+        sofern keine Nanopartikel auf Lebensmittel übergehen
+
+
+
+## **Tabelle 3**
+
+**Gruppengrenzwerte**
+## (zu § 8 Absatz 5 Satz 1)
+
+Tabelle 3 enthält die folgenden Informationen:
+
+Spalte 1 (Gruppengrenzwert-Nr.): Nummer der Stoffgruppe, für die ein
+Gruppengrenzwert gemäß Tabelle 1 Spalte 7 festgelegt ist.
+
+Spalte 2 (Substanz-Nr.): Substanz-Nummer gemäß Tabelle 1 Spalte 4
+
+Spalte 3 (SMG (T) [mg/kg]): Spezifischer Migrationsgrenzwert
+ausgedrückt in Milligramm des Gesamtgehalts der angegebenen
+Substanz(en) der Stoffgruppe pro Kilogramm Lebensmittel. Falls „NN“
+angegeben ist, darf ein Übergang des Stoffes auf Lebensmittel nicht
+nachweisbar sein. Als nicht nachweisbar gilt ein Übergang bis zu 0,01
+Milligramm pro Kilogramm des Lebensmittels.
+
+Spalte 4 (Gruppengrenzwert-Spezifikation): Bezeichnung des Stoffes,
+dessen Molekulargewicht für die Angabe des Ergebnisses zu Grunde
+gelegt wird.
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   Gruppen-
+        grenzwert-Nr.
+
+    *   Substanz-Nr.
+
+    *   SMG (T)
+        [mg/kg]
+
+    *   Gruppengrenzwert-Spezifikation
+
+
+*    *   1
+
+    *   84
+        137
+        141
+
+    *   30
+
+    *   berechnet als Ethylenglykol
+
+
+*    *   2
+
+    *   219
+        220
+
+    *   30
+
+    *   berechnet als Maleinsäure
+
+
+*    *   3
+
+    *   236
+        237
+
+    *   3
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   4
+
+    *   206
+        210
+        217
+        263
+
+    *   1
+
+    *   berechnet als Jod
+
+
+*    *   5
+
+    *   35
+        36
+
+    *   1,2
+
+    *   berechnet als tertiäres Amin (ausschließlich HCl)
+
+
+*    *   6
+
+    *   87
+        88
+        89
+        186
+        187
+        189
+
+    *   6
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   7
+
+    *   102
+        103
+        252
+        253
+        328
+
+    *   0,18
+
+    *   berechnet als Zinn
+
+
+*    *   8
+
+    *   106
+        107
+        108
+        109
+        110
+        111
+        112
+        113
+        114
+        115
+        116
+        117
+        118
+        119
+
+    *   0,006
+
+    *   berechnet als Zinn
+
+
+*    *   9
+
+    *   254
+        255
+        256
+
+    *   1,2
+
+    *   berechnet als Zinn
+
+
+*    *   10
+
+    *   184
+        185
+        188
+
+    *   30
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   11
+
+    *   234
+        235
+
+    *   1,5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   12
+
+    *   80
+        105
+        350
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   13
+
+    *   156
+        180
+
+    *   15
+
+    *   berechnet als Formaldehyd
+
+
+*    *   14
+
+    *   19
+        42
+        43
+        266
+
+    *   6
+
+    *   berechnet als Bor (Unbeschadet der Bestimmungen der Richtlinie
+        98/83/EG)
+
+
+*    *   15
+
+    *   76
+        96
+        120
+        121
+        179
+        198
+        245
+        258
+        271
+        353
+        354
+        355
+        356
+        366
+        367
+[^F819584_02_BJNR008660992BJNE003800125]
+        460
+        476\*
+
+    *   NN
+
+    *   berechnet als Isocyanat-Gruppe (NCO)
+
+
+*    *   16
+
+    *   91
+        92
+
+    *   0,05
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   17
+
+    *   260
+        261
+        265
+        267
+
+    *   10
+
+    *   berechnet als SO
+        2
+
+
+*    *   18
+
+    *   127
+        273
+        323
+
+    *   30
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   19
+
+    *   364
+        365
+
+    *   5
+
+    *   berechnet als Trimellithsäure
+
+
+*    *   20
+
+    *   3
+        25
+        54
+        55
+        56
+        138
+        143
+        149
+        195
+        203
+        231
+        272
+        294
+        295
+        320
+
+    *   6
+
+    *   berechnet als Acrylsäure
+
+
+*    *   21
+
+    *   26
+        58
+        59
+        145
+        151
+        197
+        225
+        226
+        239
+        280
+        324
+        457\*
+        482\*
+
+    *   6
+
+    *   berechnet als Methacrylsäure
+
+
+*    *   22
+
+    *   32
+        40
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   23
+
+    *   81
+        251
+
+    *   0,05
+
+    *   Summe aus Mono-n-dodecylzinn-tris(isooctylmercaptoacetat), Di-n-
+        dodecylzinnbis(isooctylmercaptoacetat),
+        Mono-dodecylzinntrichlorid und Di-dodecylzinndichlorid), berechnet als
+        Summe aus Mono- und Di-dodecylzinnchlorid
+
+
+*    *   24
+
+    *   289
+        290
+
+    *   9
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   25
+
+    *   200
+        201
+
+    *   5
+
+    *   berechnet als Isophthalsäure
+
+
+*    *   26
+
+    *   62
+        300
+
+    *   0,05
+
+    *   berechnet als Summe aus 6-Hydroxyhexansäure und Caprolacton
+
+
+*    *   27
+
+    *   48
+        300
+
+    *   5
+
+    *   berechnet als 1,4-Butandiol
+
+
+*    *   28
+
+    *   6
+        298
+        301
+
+    *   30
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   29
+
+    *   5
+        6
+        33
+        34
+        69
+        74
+        136
+        162
+        248
+        286
+        287
+        288
+        289
+        290
+        298
+        299
+        301
+        340
+        357
+        359
+        810\*
+        815\*
+
+    *   60
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   30
+
+    *   177
+        178
+
+    *   0,05
+
+    *   gemessen als Hexamethyldisiloxan
+
+
+*    *   32
+
+    *   204
+        205
+
+    *   0,05
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   33
+
+    *   348
+        433
+
+    *   0,05
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   34
+
+    *   349
+        434
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   35
+
+    *   142
+        144
+        146
+        512
+        517
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   36
+
+    *   383
+        412
+
+    *   0,05
+
+    *   berechnet als Silber
+
+
+*    *   37
+
+    *   53
+        122
+        123
+        227
+        228
+        369
+        515
+        516
+        523
+        526
+        527
+        528
+        529
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+        Das Gemisch darf nicht mehr als
+
+        –   0,3 % 2-Methoxy-1-propanol (CAS-Nr.: 1589-47-5) und
+            2-Methoxy-1-propylacetat (CAS-Nr.: 70657-70-4),
+            berechnet als Summe der Substanzen,
+
+
+        –   3 % 2-Ethoxy-1-propanol (CAS-Nr.: 19089-47-5) und
+            2-Ethoxy-1-propylacetat (CAS-Nr.: 57350-24-0),
+            berechnet als Summe der Substanzen,
+
+
+        –   5 % 2-Propoxy-1-propanol (CAS-Nr.: 10215-30-2),
+
+
+
+        enthalten
+
+
+*    *   39
+
+    *   518
+        988\*
+
+    *   0,05
+
+    *   berechnet als 1,3-Benzoldimethanamin
+
+
+*    *   40
+
+    *   241
+        524
+
+    *   5
+
+    *   berechnet als Summe der Substanzen
+
+
+*    *   41
+
+    *   135
+        118\*
+
+    *   60
+
+    *   berechnet als Summe der Substanzen
+
+
+
+## **Tabelle 4**
+
+**Weitere Grenzwerte für bestimmte Stoffe**
+## (zu § 8 Absatz 5 Satz 2)
+
+
+*    *   Stoffe
+
+    *   Grenzwerte, ausgedrückt in Milligramm
+        pro Kilogramm Lebensmittel
+
+
+*    *   Barium
+
+    *   1
+
+
+*    *   Eisen
+
+    *   48
+
+
+*    *   Kobalt
+
+    *   0,05
+
+
+*    *   Kupfer
+
+    *   5
+
+
+*    *   Lithium
+
+    *   0,6
+
+
+*    *   Mangan
+
+    *   0,6
+
+
+*    *   Zink
+
+    *   25
+
+
+*    *   Primäre aromatische Amine, ausgenommen in Tabelle 1 genannte
+
+    *   Ein Übergang auf Lebensmittel darf nicht nachweisbar sein. Als nicht
+        nachweisbar gilt ein Übergang bis zu 0,01 Milligramm der Summe an
+        primären aromatischen Aminen pro Kilogramm des Lebensmittels. Für die
+        in Anlage 1 Nummer 7 genannten primären aromatischen Amine gilt
+        zusätzlich je Einzelsubstanz die Nachweisgrenze 0,002 Milligramm pro
+        Kilogramm des Lebensmittels.
+
+
+
+[^F819584_02_BJNR008660992BJNE003800125]:     Stoffnummer aus Anhang I Tabelle 1 Spalte 1 der Verordnung (EU) Nr.
+    10/2011.
 

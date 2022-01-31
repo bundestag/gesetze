@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1542
 
+Geändert durch
+:   Art. 30 V v. 2.6.2016 I 1257
+
 
 
 ## Eingangsformel
@@ -70,8 +73,8 @@ Gebiete führenden Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der
 Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom
 15\. April 1987 (BGBl. I S. 1266), die zuletzt durch Artikel 3 der
 Verordnung vom 7. Dezember 1994 (BGBl. I S. 3744) geändert worden ist,
-in der jeweils geltenden Fassung, die sonst von der Wasser- und
-Schiffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus
+in der jeweils geltenden Fassung, die sonst von der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus
 Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und
 bekanntgemachten Wasserflächen oder die direkten, nicht durch
 Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von
@@ -80,8 +83,8 @@ genehmigten Liegeplätzen sowie die in dieser Verordnung genannten
 besonderen Schutzgebiete der Boddengewässer (§ 4) sind aus den
 amtlichen Seekarten des Bundesamtes für Seeschiffahrt und Hydrographie
 in ihrer jeweils gültigen Fassung ersichtlich. Die amtlichen Seekarten
-können bei den Wasser- und Schiffahrtsämtern des Bundes für den
-Küstenbereich von Mecklenburg-Vorpommern während der Dienstzeiten
+können bei den Wasserstraßen- und Schifffahrtsämtern des Bundes für
+den Küstenbereich von Mecklenburg-Vorpommern während der Dienstzeiten
 eingesehen und von den Vertriebs- und Auslieferungsstellen des
 Bundesamtes für Seeschiffahrt und Hydrographie, Bernhard-Nocht-Straße
 78, 20359 Hamburg, bezogen werden. Kartenausschnitte über die
@@ -113,13 +116,13 @@ Umständen unvermeidbar, gestört wird.
 II der Nationalparke oder des Biosphärenreservats "Südost-Rügen" mit
 Luftkissenfahrzeugen oder Wassermotorrädern im Sinne des § 2 Abs. 1
 Nr. 21 der Seeschiffahrtsstraßen-Ordnung zu befahren oder auf ihnen
-Wasserskisport oder Parasailing zu betreiben. Die örtlich zuständige
-Wasser- und Schiffahrtsdirektion des Bundes kann auf Antrag des Landes
-Mecklenburg-Vorpommern den Betrieb von weiteren Wassersportgeräten
-verbieten, soweit dies zur Erreichung des Schutzzweckes dieser
-Verordnung notwendig ist. Der Betrieb von ferngesteuerten
-Schiffsmodellen ist in den Schutzzonen I sowie in den in § 4 besonders
-ausgewiesenen Schutzgebieten der Schutzzonen II nicht gestattet.
+Wasserskisport oder Parasailing zu betreiben. Die Generaldirektion
+Wasserstraßen und Schifffahrt kann auf Antrag des Landes Mecklenburg-
+Vorpommern den Betrieb von weiteren Wassersportgeräten verbieten,
+soweit dies zur Erreichung des Schutzzweckes dieser Verordnung
+notwendig ist. Der Betrieb von ferngesteuerten Schiffsmodellen ist in
+den Schutzzonen I sowie in den in § 4 besonders ausgewiesenen
+Schutzgebieten der Schutzzonen II nicht gestattet.
 
 (2) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I mit
 Segelsurfbrettern zu befahren. Es ist ferner untersagt, die
@@ -169,10 +172,10 @@ II auf den in den Kartenausschnitten der Anlage I Kartenblatt 1 bis 4
 rot und grün gekennzeichneten und in der Anlage II näher bezeichneten
 Wasserflächen des Nationalparks "Vorpommersche Boddenlandschaft"
 außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der
-Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasser- und
-Schiffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus
-Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und
-bekanntgemachten Wasserflächen oder der direkten, nicht durch
+Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt
+aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten
+und bekanntgemachten Wasserflächen oder der direkten, nicht durch
 Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von
 den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen
 mit Fahrzeugen im Sinne des § 1 Abs. 1 zu befahren, die durch
@@ -191,10 +194,10 @@ sonstigen Wasserflächen oder Zufahrtswege nicht befahren.
 
 Es ist untersagt, die Bundeswasserstraßen in dem Nationalpark
 "Jasmund" außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der
-Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasser- und
-Schiffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus
-Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und
-bekanntgemachten Wasserflächen oder der direkten, nicht durch
+Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt
+aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten
+und bekanntgemachten Wasserflächen oder der direkten, nicht durch
 Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von
 den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen
 innerhalb der Schutzzone I zu befahren.
@@ -205,28 +208,28 @@ innerhalb der Schutzzone I zu befahren.
 Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II
 des Biosphärenreservats "Südost-Rügen" außerhalb der Fahrwasser im
 Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung oder der
-sonst von der Wasser- und Schiffahrtsverwaltung des Bundes für die
-durchgehende Schiffahrt aus Gründen der Sicherheit und Leichtigkeit
-des Verkehrs festgelegten und bekanntgemachten Wasserflächen oder der
-direkten, nicht durch Sichtzeichen begrenzten oder gekennzeichneten
-Zufahrtswege zu oder von den Häfen oder genehmigten Anlegestellen oder
-genehmigten Liegeplätzen zu befahren. Führer von Fahrzeugen im Sinne
-des § 1 Abs. 1, die nicht durch Maschinenkraft angetrieben werden,
-dürfen jedoch außerhalb der in Satz 1 genannten Fahrwasser,
-Wasserflächen oder Zufahrtswege die Bundeswasserstraßen der Having,
-der Kaming und des Zickersees befahren, wenn sie einen Mindestabstand
-von 100 m zum Ufer einhalten. Abweichend von den Sätzen 1 und 2 dürfen
-Führer von Sportfahrzeugen in Höhe der Einfahrt zum Zickersee vom
-betonnten Fahrwasser aus in nördlicher oder südlicher Richtung die
-jeweilige Wasserfläche auf einer Länge bis zu 200 m entlang des
-Westufers unter Einhaltung eines Mindestabstands von 100 m zum Ufer
-befahren.
+sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für
+die durchgehende Schiffahrt aus Gründen der Sicherheit und
+Leichtigkeit des Verkehrs festgelegten und bekanntgemachten
+Wasserflächen oder der direkten, nicht durch Sichtzeichen begrenzten
+oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder
+genehmigten Anlegestellen oder genehmigten Liegeplätzen zu befahren.
+Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die nicht durch
+Maschinenkraft angetrieben werden, dürfen jedoch außerhalb der in Satz
+1 genannten Fahrwasser, Wasserflächen oder Zufahrtswege die
+Bundeswasserstraßen der Having, der Kaming und des Zickersees
+befahren, wenn sie einen Mindestabstand von 100 m zum Ufer einhalten.
+Abweichend von den Sätzen 1 und 2 dürfen Führer von Sportfahrzeugen in
+Höhe der Einfahrt zum Zickersee vom betonnten Fahrwasser aus in
+nördlicher oder südlicher Richtung die jeweilige Wasserfläche auf
+einer Länge bis zu 200 m entlang des Westufers unter Einhaltung eines
+Mindestabstands von 100 m zum Ufer befahren.
 
 
 ## § 7
 
-(1) Die örtlich zuständige Wasser- und Schiffahrtsdirektion des Bundes
-kann Befreiungen von den §§ 3 bis 6 gewähren, wenn
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt kann
+Befreiungen von den §§ 3 bis 6 gewähren, wenn
 
 1.  die Einhaltung der Verbote zu einer nicht beabsichtigten Härte führen
     würde,
@@ -414,8 +417,9 @@ Fundstelle: BGBl. I 1997, S. 1545 - 1551)
 
 
 
+(zu § 4 Abs. 1 und 2)
 
-## Anlage II (zu § 4 Abs. 1 und 2) Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
+## Anlage II Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4154
 
-Geändert durch
-:   Art. 1 V v. 26.10.2011 I 2145
+Zuletzt geändert durch
+:   Art. 106 G v. 29.3.2017 I 626
 
 
 
@@ -105,9 +105,10 @@ Meisterprüfungsausschusses zu treffen sind, werden diese mit der
 Mehrheit der abgegebenen Stimmen gefasst. Stimmenthaltungen sind nicht
 zulässig.
 
-(3) Zur Beschleunigung können Entscheidungen im schriftlichen
-Umlaufverfahren herbeigeführt werden, falls alle Mitglieder zustimmen.
-Hiervon ausgenommen sind Entscheidungen nach § 21 Absatz 1.
+(3) Zur Beschleunigung können Entscheidungen im schriftlichen oder
+elektronischen Umlaufverfahren herbeigeführt werden, falls alle
+Mitglieder zustimmen. Hiervon ausgenommen sind Entscheidungen nach §
+21 Absatz 1.
 
 
 ## § 4 Ausschluss von der Mitwirkung
@@ -279,9 +280,10 @@ Meisterprüfungsausschusses wahr.
 
 ## § 10 Zulassung
 
-(1) Der Antrag auf Zulassung ist schriftlich zu stellen. Darin ist
-anzugeben, für welches Handwerk oder für welches handwerksähnliche
-Gewerbe die Zulassung beantragt wird. Dem Antrag sind beizufügen
+(1) Der Antrag auf Zulassung ist schriftlich oder elektronisch zu
+stellen. Darin ist anzugeben, für welches Handwerk oder für welches
+handwerksähnliche Gewerbe die Zulassung beantragt wird. Dem Antrag
+sind beizufügen
 
 1.  der Nachweis, der die Zuständigkeit des Meisterprüfungsausschusses
     nach § 2 begründet und
@@ -331,18 +333,18 @@ Handlungsfeldern oder vom praktischen Teil der Prüfung im Teil IV sind
 spätestens mit der Anmeldung für den jeweiligen Teil der
 Meisterprüfung zu stellen.
 
-(3) Anträge auf Befreiung sind schriftlich zu stellen; die Nachweise
-über Befreiungsgründe sind beizufügen. Werden Gründe geltend gemacht,
-die nach der Handwerksordnung zur Befreiung von Teilen der
-Meisterprüfung führen, gilt Satz 1 entsprechend.
+(3) Anträge auf Befreiung sind schriftlich oder elektronisch zu
+stellen; die Nachweise über Befreiungsgründe sind beizufügen. Werden
+Gründe geltend gemacht, die nach der Handwerksordnung zur Befreiung
+von Teilen der Meisterprüfung führen, gilt Satz 1 entsprechend.
 
 
 ## § 13 Einladung zur Prüfung
 
 Ort und Zeit der Prüfung sind dem Prüfling mindestens zwei Wochen
-vorher schriftlich bekannt zu geben. Dabei ist ihm auch mitzuteilen,
-welche Arbeits- und Hilfsmittel notwendig und erlaubt sind. Der
-Prüfling ist auf § 7 hinzuweisen.
+vorher schriftlich oder elektronisch bekannt zu geben. Dabei ist ihm
+auch mitzuteilen, welche Arbeits- und Hilfsmittel notwendig und
+erlaubt sind. Der Prüfling ist auf § 7 hinzuweisen.
 
 
 ## § 14 Ausweispflicht und Belehrung
@@ -689,11 +691,12 @@ Meisterprüfungsausschusses zu unterschreiben ist.
 
 ## § 24 Prüfungsunterlagen
 
-(1) Auf schriftliches Verlangen ist dem Prüfling binnen der gesetzlich
-vorgegebenen Frist zur Einlegung eines Rechtsbehelfs nach Abschluss
-eines jeden Teils der Meisterprüfung Einsicht in seine
-Prüfungsunterlagen zu gewähren. Danach kann innerhalb der in Absatz 2
-genannten Aufbewahrungsfristen auf Antrag Einsicht gewährt werden.
+(1) Auf schriftliches oder elektronisches Verlangen ist dem Prüfling
+binnen der gesetzlich vorgegebenen Frist zur Einlegung eines
+Rechtsbehelfs nach Abschluss eines jeden Teils der Meisterprüfung
+Einsicht in seine Prüfungsunterlagen zu gewähren. Danach kann
+innerhalb der in Absatz 2 genannten Aufbewahrungsfristen auf Antrag
+Einsicht gewährt werden.
 
 (2) Der Antrag auf Zulassung und die Zulassungsentscheidung, die
 schriftlichen Prüfungsarbeiten sowie die die Befreiungen begründenden

@@ -19,9 +19,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.4.2005 I 997;
 
-Zuletzt geändert durch
-:   Art. 2 Abs. 90 G v. 22.12.2011 I 3044
-
+Stand: Zuletzt geändert Art. 139 G v. 29.3.2017 I 626
 Stand: § 27 Abs. 2 ist gem. § 44 Halbs 2 iVm Bek 6.4.1994 II 515 mWv 1.1.1994 in Kraft getreten
 Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 
@@ -680,13 +678,13 @@ Sendungen unterliegen der zollamtlichen Überwachung.
 der Europäischen Union oder eines Mitgliedstaates, gestützt auf die
 entsprechende in Anlage 3 Spalte 3 genannte Rechtsgrundlage, die
 Erfüllung zusätzlicher Voraussetzungen beim innergemeinschaftlichen
-Verbringen vorgeschrieben und hat das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz diese Maßnahme im Bundesanzeiger
-bekannt gemacht, so muss die Bescheinigung nach Absatz 1 Satz 1 um
-eine amtstierärztliche Erklärung ergänzt sein, aus der sich ergibt,
-dass diese Voraussetzungen erfüllt sind. Das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz gibt auch die
-Aufhebung der Maßnahme im Bundesanzeiger bekannt.
+Verbringen vorgeschrieben und hat das Bundesministerium für Ernährung
+und Landwirtschaft (Bundesministerium) diese Maßnahme im
+Bundesanzeiger bekannt gemacht, so muss die Bescheinigung nach Absatz
+1 Satz 1 um eine amtstierärztliche Erklärung ergänzt sein, aus der
+sich ergibt, dass diese Voraussetzungen erfüllt sind. Das
+Bundesministerium gibt auch die Aufhebung der Maßnahme im
+Bundesanzeiger bekannt.
 
 
 #### § 9 Genehmigungspflichtiges Verbringen
@@ -773,13 +771,14 @@ unbegründet erwiesen hat.
     worden sind,
 
 
-2.  in einem auf Grund einer Rechtsverordnung nach § 17h des
-    Tierseuchengesetzes zugelassenen Betrieb nach Maßgabe des Anhangs III
-    der Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur
-    Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen,
-    die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln
-    tierischen Ursprungs (ABl. EG 2003 Nr. L 18 S. 11) in der jeweils
-    geltenden Fassung behandelt worden sind und
+2.  in einem auf Grund einer Rechtsverordnung nach § 6 Absatz 1 Nummer 21
+    in Verbindung mit Nummer 3 Buchstabe a, Nummer 11 Buchstabe a oder c,
+    Nummer 12, 13 oder 14 des Tiergesundheitsgesetzes zugelassenen Betrieb
+    nach Maßgabe des Anhangs III der Richtlinie 2002/99/EG des Rates vom
+    16\. Dezember 2002 zur Festlegung von tierseuchenrechtlichen
+    Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und
+    die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. EG 2003 Nr. L
+    18 S. 11) in der jeweils geltenden Fassung behandelt worden sind und
 
 
 3.  nach Maßgabe des Anhangs II der Richtlinie 2002/99/EG gekennzeichnet
@@ -851,10 +850,9 @@ ferner verboten, wenn und soweit
 
 von der Europäischen Gemeinschaft oder der Europäischen Union oder
 einem Mitgliedstaat beschlossenen Maßnahme vom innergemeinschaftlichen
-Verbringen ausgeschlossen sind und das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz diese Maßnahme im
-Bundesanzeiger bekannt gemacht hat. Dieses macht auch die Aufhebung
-der Maßnahme im Bundesanzeiger bekannt.
+Verbringen ausgeschlossen sind und das Bundesministerium diese
+Maßnahme im Bundesanzeiger bekannt gemacht hat. Dieses macht auch die
+Aufhebung der Maßnahme im Bundesanzeiger bekannt.
 
 (2) Aus gefährdeten Bezirken, die nach § 14a der Schweinepest-
 Verordnung festgelegt worden sind, ist vom Tage der Veröffentlichung
@@ -871,7 +869,7 @@ Satz 1 endet
 
 
 
-nach dem letzten Nachweis von Schweinpest bei Wildschweinen. Die
+nach dem letzten Nachweis von Schweinepest bei Wildschweinen. Die
 zuständige Behörde macht auch das Ende des Verbots im Bundesanzeiger
 bekannt.
 
@@ -966,40 +964,7 @@ unmittelbar in einen Geflügelschlachtbetrieb verbracht werden. Der
 Empfänger hat das Geflügel nach Satz 1 dort spätestens 72 Stunden nach
 seinem Eintreffen zu schlachten oder schlachten zu lassen.
 
-(5) Hunde, Katzen und Frettchen, die Heimtiere im Sinne des Artikels 3
-Buchstabe a der Verordnung (EG) Nr. 998/2003 des Europäischen
-Parlaments und des Rates vom 26. Mai 2003 über die
-Veterinärbedingungen für die Verbringung von Heimtieren zu anderen als
-zu Handelszwecken und zur Änderung der Richtlinie 92/65/EWG des Rates
-(ABl. EU Nr. L 146 S. 1) in der jeweils geltenden Fassung sind und die
-nicht älter als drei Monate und nicht geimpft sind, dürfen abweichend
-von Artikel 5 Abs. 1 der Verordnung (EG) Nr. 998/2003 aus einem
-anderen Mitgliedstaat nur verbracht werden, wenn sie
-
-1.  vom Muttertier begleitet werden oder
-
-
-2.  von
-
-    a)  einem Dokument nach Anhang I der Entscheidung 2003/803/EG der
-        Kommission vom 26. November 2003 zur Festlegung eines Musterausweises
-        für die Verbringung von Hunden, Katzen und Frettchen zwischen
-        Mitgliedstaaten (ABl. EU Nr. L 312 S. 1) in der jeweils geltenden
-        Fassung und
-
-
-    b)  einer schriftlichen Erklärung des Verfügungsberechtigten, aus der
-        hervorgeht, dass das Tier bisher ausschließlich am Ort seiner Geburt
-        gehalten worden und nicht mit wild lebenden Tieren in Berührung
-        gekommen ist,
-
-
-
-
-    begleitet sind.
-
-
-
+(5) (weggefallen)
 
 
 #### § 13a Besondere Bestimmungen für Affen und Halbaffen
@@ -1117,8 +1082,8 @@ der zuständigen Behörde zugelassen worden sind.
 
 #### § 16 Bekanntgabe der Zulassungen
 
-Die zuständigen Landesbehörden teilen dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz die Zulassungen von
+Die zuständigen Landesbehörden teilen dem Bundesministerium die
+Zulassungen von
 
 1.  nichtöffentlichen Schlachtstätten nach § 13 Abs. 3,
 
@@ -1215,11 +1180,11 @@ kann sie deren Rücksendung anordnen, wenn
 
 
 
-(2) Kann ein Mangel durch eine schriftliche Stellungnahme der für den
-Herkunftsort der betroffenen Sendung zuständigen Behörde geheilt
-werden, so ist der Verfügungsberechtigte vor Anordnung der Rücksendung
-unter Setzung einer angemessenen Frist zur Beibringung dieser
-Stellungnahme aufzufordern.
+(2) Kann ein Mangel durch eine schriftliche oder elektronische
+Stellungnahme der für den Herkunftsort der betroffenen Sendung
+zuständigen Behörde geheilt werden, so ist der Verfügungsberechtigte
+vor Anordnung der Rücksendung unter Setzung einer angemessenen Frist
+zur Beibringung dieser Stellungnahme aufzufordern.
 
 (3) Die Rücksendung von Tieren und Waren, die nach einem anderen
 Mitgliedstaat verbracht und dort aus tierseuchenrechtlichen Gründen
@@ -1250,8 +1215,7 @@ Drittländern nur eingeführt werden, wenn
     unmittelbar geltenden Rechtsakt aufgeführt ist, den die Europäische
     Gemeinschaft oder die Europäische Union auf Grund einer entsprechenden
     dort in Spalte 2 genannten Rechtsgrundlage erlassen und das
-    Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-    im Bundesanzeiger bekannt gemacht hat, und
+    Bundesministerium im Bundesanzeiger bekannt gemacht hat, und
 
 
 2.  sie von einer Bescheinigung begleitet sind, die
@@ -1262,8 +1226,7 @@ Drittländern nur eingeführt werden, wenn
         Europäische Union auf Grund einer entsprechenden in Spalte 3 dieser
         Anlage genannten Rechtsgrundlage im Hinblick auf das betreffende
         Drittland oder den betreffenden Teil erlassen und das
-        Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-        im Bundesanzeiger bekannt gemacht hat, oder
+        Bundesministerium im Bundesanzeiger bekannt gemacht hat, oder
 
 
     b)  dem für sie in Spalte 3 dieser Anlage genannten gemeinschaftsrechtlich
@@ -1284,8 +1247,7 @@ werden, wenn das jeweilige Drittland oder der jeweilige Teil in einem
 nicht unmittelbar geltenden Rechtsakt aufgeführt ist, den die
 Europäische Gemeinschaft oder die Europäische Union auf Grund einer
 entsprechenden dort in Spalte 2 genannten Rechtsgrundlage erlassen und
-das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz im Bundesanzeiger bekannt gemacht hat.
+das Bundesministerium im Bundesanzeiger bekannt gemacht hat.
 
 (3) Abweichend von Absatz 1 kann die Einfuhr von Tieren und Waren der
 in Anlage 9 Spalte 1 genannten Arten oder Verwendungszwecke genehmigt
@@ -1420,8 +1382,8 @@ festgelegten Zeitraum verboten, wenn
     2 aufgeführten Seuche amtlich festgestellt und
 
 
-2.  der Zeitpunkt dieser Feststellung vom Bundesministerium für Ernährung,
-    Landwirtschaft und Verbraucherschutz im Bundesanzeiger bekannt gemacht
+2.  der Zeitpunkt dieser Feststellung vom Bundesministerium im
+    Bundesanzeiger bekannt gemacht
 
 
 
@@ -1439,8 +1401,7 @@ soweit
     beschränkt oder ausgeschlossen ist und
 
 
-2.  das Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz diese Maßnahme im Bundesanzeiger bekannt gemacht
+2.  das Bundesministerium diese Maßnahme im Bundesanzeiger bekannt gemacht
     hat; dieses macht auch die Aufhebung der Maßnahme im Bundesanzeiger
     bekannt.
 
@@ -1457,8 +1418,7 @@ Drittland vorher amtlich zur Kenntnis gebracht worden ist.
 einen anderen Mitgliedstaat bestimmt sind, verboten, wenn sie
 Vorschriften des Bestimmungsmitgliedstaates nicht entsprechen, die
 strengere Anforderungen als das deutsche Recht beinhalten und die das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-im Bundesanzeiger bekannt gemacht hat.
+Bundesministerium im Bundesanzeiger bekannt gemacht hat.
 
 (5) § 22 Abs. 4 gilt entsprechend.
 
@@ -1466,8 +1426,11 @@ im Bundesanzeiger bekannt gemacht hat.
 #### § 26 Einfuhr über bestimmte Überwachungsstellen
 
 Die Einfuhr von Tieren, ausgenommen Hunde, Katzen und Frettchen, die
-Heimtiere im Sinne des Artikels 3 Buchstabe a der Verordnung (EG) Nr.
-998/2003 sind, sowie von
+Heimtiere im Sinne des Artikels 3 Buchstabe b der Verordnung (EU) Nr.
+576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013
+über die Verbringung von Heimtieren zu anderen als Handelszwecken und
+zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom
+28\.6.2013, S. 1, L 115 vom 6.5.2015, S. 43) sind, sowie von
 
 1.  Waren nach
 
@@ -1490,8 +1453,8 @@ ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen
 zulässig, die das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit im Einvernehmen mit dem Bundesministerium der
 Finanzen im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium
-der Finanzen kann die Erteilung des Einvernehmens nach Satz 1 auf
-Mittelbehörden seines Geschäftsbereichs übertragen.
+der Finanzen kann die Erteilung des Einvernehmens nach Satz 1 auf die
+Generalzolldirektion übertragen.
 
 
 #### § 27 Einfuhruntersuchung
@@ -1522,8 +1485,7 @@ abgefertigt werden sollen, in der ersten Grenzkontrollstelle
             vom 30.1.1998, S. 9) in der jeweils geltenden Fassung erlassen und
 
 
-        bb) das Bundesministerium für Ernährung, Landwirtschaft und
-            Verbraucherschutz im Bundesanzeiger bekannt gemacht
+        bb) das Bundesministerium im Bundesanzeiger bekannt gemacht
 
 
 
@@ -1587,8 +1549,7 @@ einer Maßnahme vorgeschrieben ist, die
     in der jeweils geltenden Fassung erlassen und
 
 
-2.  das Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz im Bundesanzeiger bekannt gemacht
+2.  das Bundesministerium im Bundesanzeiger bekannt gemacht
 
 
 
@@ -1903,7 +1864,7 @@ Seeschiffsverkehr.
 
 (1) Die Durchfuhr von Tieren und Waren der in Anlage 9 Spalte 1
 genannten Arten oder Verwendungszwecke, die nicht den Anforderungen an
-die Einfuhr entsprechend, bedarf der Genehmigung, im Falle von Waren
+die Einfuhr entsprechen, bedarf der Genehmigung, im Falle von Waren
 jedoch nur, wenn diese unmittelbar in das Inland eingeführt werden.
 Satz 1 gilt nicht für
 
@@ -1923,10 +1884,9 @@ Satz 1 gilt nicht für
 
 
 
-    und das Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz die gelisteten Drittländer oder deren Teile nach
-    Buchstabe a sowie die Voraussetzungen und Anforderungen nach Buchstabe
-    b im Bundesanzeiger bekannt gemacht hat, oder
+    und das Bundesministerium die gelisteten Drittländer oder deren Teile
+    nach Buchstabe a sowie die Voraussetzungen und Anforderungen nach
+    Buchstabe b im Bundesanzeiger bekannt gemacht hat, oder
 
 
 2.  Waren der in Anlage 13 Spalte 1 genannten Arten oder
@@ -2033,9 +1993,8 @@ beschränkt, wenn und soweit
     des Tierseuchenrechts verboten oder beschränkt ist und
 
 
-2.  das Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz den Rechtsakt im Bundesanzeiger bekannt gemacht hat;
-    dieses macht auch die Aufhebung des Rechtsakts im Bundesanzeiger
+2.  das Bundesministerium den Rechtsakt im Bundesanzeiger bekannt gemacht
+    hat; dieses macht auch die Aufhebung des Rechtsakts im Bundesanzeiger
     bekannt.
 
 
@@ -2140,9 +2099,8 @@ Die §§ 8, 9, 13a, 19 Abs. 1, die §§ 20 bis 22, 24, 25 Abs. 1 und 5, §§
         unmittelbar geltenden Rechtsakt aufgeführt ist, den die Europäische
         Gemeinschaft oder die Europäische Union auf Grund des Artikels 3 der
         Richtlinie 72/462/EWG oder des Artikels 9 der Richtlinie 91/494/EWG in
-        der jeweils geltenden Fassung erlassen und das Bundesministerium für
-        Ernährung, Landwirtschaft und Verbraucherschutz im Bundesanzeiger
-        bekannt gemacht hat,
+        der jeweils geltenden Fassung erlassen und das Bundesministerium im
+        Bundesanzeiger bekannt gemacht hat,
 
 
 
@@ -2197,9 +2155,8 @@ Abweichend von § 1 Absatz 1, den §§ 8, 22 und 24 bis 27 Absatz 1 und 2
 und den §§ 30 bis 35 sind das innergemeinschaftliche Verbringen und
 die Einfuhr auch unter den Bedingungen zulässig, die in einem
 Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union
-festgelegt sind und die das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Bundesanzeiger bekannt gemacht
-hat.
+festgelegt sind und die das Bundesministerium im Bundesanzeiger
+bekannt gemacht hat.
 
 
 ## Abschnitt 6 - Befugnisse der Behörde, Ordnungswidrigkeiten
@@ -2230,7 +2187,7 @@ tierseuchenrechtlichen Bestimmungen entsprechen.
 insbesondere darauf untersuchen, ob die bei der Anmeldung der Sendung
 gemachten Angaben mit den Angaben der Manifeste übereinstimmen. Zu
 diesem Zweck können die Grenzkontrollstellen verlangen, dass die
-Manifeste in elektronischer Form vorgelegt werden.
+Manifeste elektronisch vorgelegt werden.
 
 (5) Der Verfügungsberechtigte hat die Maßnahmen nach den Absätzen 1
 bis 4 zu dulden, die mit diesen Maßnahmen beauftragten Personen zu
@@ -2239,154 +2196,156 @@ unterstützen und die geschäftlichen Unterlagen vorzulegen.
 
 ### § 41 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer
-
-    a)  mit einer Genehmigung nach § 8 Abs. 2 Satz 1 oder Abs. 3 Satz 1,
-        jeweils auch in Verbindung mit § 23 Abs. 1 oder 2, § 9 Satz 1, § 10a
-        Abs. 1 Satz 2, § 13a Abs. 2, auch in Verbindung mit § 23 Abs. 1, § 21
-        Abs. 3, auch in Verbindung mit § 23 Abs. 1 oder 2, § 22 Abs. 3 oder 4
-        Satz 1, jeweils auch in Verbindung mit § 23 Abs. 5 oder 6 oder § 25
-        Abs. 5, § 24 oder § 24a Abs. 1 Satz 2, jeweils auch in Verbindung mit
-        § 23 Abs. 5, § 31 Abs. 1 Satz 2 Nr. 1 oder Abs. 1a, jeweils auch in
-        Verbindung mit § 23 Abs. 5 oder 6, § 34 Abs. 1 Satz 2 oder 4, § 34a
-        Abs. 2 oder § 37 Abs. 1 Satz 1 oder
+1.  entgegen § 5 Satz 1 Nummer 1 nicht, nicht richtig oder nicht
+    vollständig Buch führt,
 
 
-    b)  mit einer Zulassung nach § 13 Abs. 3, § 15 Abs. 2 oder 4, § 20 Satz 2,
-        § 35 Abs. 2 oder § 36a Abs. 4
+2.  entgegen § 5 Satz 1 Nummer 2 eine Bescheinigung nicht oder nicht
+    mindestens drei Jahre aufbewahrt oder
+
+
+3.  einer vollziehbaren Anordnung nach § 20 Satz 1, auch in Verbindung mit
+    § 23 Absatz 1 oder Absatz 2, oder § 21 Absatz 1, auch in Verbindung
+    mit § 23 Absatz 1, 2, 3 oder Absatz 4, zuwiderhandelt.
 
 
 
 
-    verbundenen vollziehbaren Auflage oder
+(2) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe d des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 4 Satz 1 oder § 37 Absatz 4 Satz 1 eine Anzeige nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 
-2.  einer vollziehbaren Anordnung nach § 11 Abs. 3, auch in Verbindung mit
-    § 23 Abs. 1, 2, 3 oder 4, § 19 Abs. 2, auch in Verbindung mit § 23
-    Abs. 1 oder 2, § 20 Satz 1 oder § 21 Abs. 1, jeweils auch in
-    Verbindung mit § 23 Abs. 1, 2, 3 oder 4, § 25 Abs. 3 oder § 31 Abs. 1
-    Satz 2 Nr. 2, jeweils auch in Verbindung mit § 23 Abs. 5 oder 6,
+2.  entgegen § 6 oder § 8 Absatz 1 Satz 1, auch in Verbindung mit § 23
+    Absatz 1, 2, 3 oder Absatz 4, § 10 Absatz 1 Satz 1, auch in Verbindung
+    mit § 23 Absatz 1 oder Absatz 3, § 11 Absatz 1 Satz 1 oder Absatz 2
+    Satz 1 oder § 14 Absatz 3, jeweils auch in Verbindung mit § 23 Absatz
+    1, 2, 3 oder Absatz 4, § 12 Absatz 4, auch in Verbindung mit § 23
+    Absatz 3, oder § 13 Absatz 1 Satz 1, auch in Verbindung mit § 23
+    Absatz 1, ein Tier oder eine Ware innergemeinschaftlich verbringt,
+    einführt oder ausführt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 4 Satz 1, § 19 Abs. 1, auch in Verbindung mit § 23 Abs. 1
-    oder 2 oder § 34 Abs. 1 Satz 5 oder § 37 Abs. 4 Satz 1 eine Anzeige
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet,
-
-
-2.  entgegen § 5 Satz 1 Nr. 1 nicht, nicht richtig oder nicht vollständig
-    Buch führt,
+3.  einer mit einer Genehmigung nach § 8 Absatz 2 Satz 1 oder Absatz 3
+    Satz 1, jeweils auch in Verbindung mit § 23 Absatz 1 oder Absatz 2, §
+    9 Satz 1, § 10a Absatz 1 Satz 2, § 13a Absatz 2, auch in Verbindung
+    mit § 23 Absatz 1, § 21 Absatz 3, auch in Verbindung mit § 23 Absatz 1
+    oder Absatz 2, § 22 Absatz 3, auch in Verbindung mit § 23 Absatz 5
+    oder Absatz 6, § 22 Absatz 4 Satz 1, auch in Verbindung mit § 23
+    Absatz 5 oder Absatz 6 oder § 25 Absatz 5, § 24 oder § 24a Absatz 1
+    Satz 2, jeweils auch in Verbindung mit § 23 Absatz 5, § 31 Absatz 1
+    Satz 2 Nummer 1 oder Absatz 1a, jeweils auch in Verbindung mit § 23
+    Absatz 5 oder Absatz 6, § 34 Absatz 1 Satz 2 oder Satz 4, § 34a Absatz
+    2 oder § 37 Absatz 1 Satz 1 verbundenen vollziehbaren Auflage
+    zuwiderhandelt,
 
 
-3.  entgegen § 5 Satz 1 Nr. 2 eine Bescheinigung nicht oder nicht
-    mindestens drei Jahre aufbewahrt,
+4.  ohne Genehmigung nach § 9 Satz 1, auch in Verbindung mit § 23 Absatz
+    1, § 21 Absatz 3, auch in Verbindung mit § 23 Absatz 3 oder Absatz 4,
+    § 24, auch in Verbindung mit § 23 Absatz 5, oder § 37 Absatz 1 Satz 1
+    ein Tier oder eine Ware innergemeinschaftlich verbringt, zurücksendet,
+    einführt, ausführt oder durchführt,
 
 
-4.  entgegen § 6 oder § 8 Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs.
-    1, 2, 3 oder 4, § 10 Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs. 1
-    oder 3, § 11 Abs. 1 Satz 1 oder Abs. 2 oder § 14 Abs. 3, jeweils auch
-    in Verbindung mit § 23 Abs. 1, 2, 3 oder 4, oder § 12 Abs. 4, auch in
-    Verbindung mit § 23 Abs. 3, oder § 13 Abs. 1 Satz 1, auch in
-    Verbindung mit § 23 Abs. 1, ein Tier oder eine Ware
-    innergemeinschaftlich verbringt, einführt oder ausführt,
+5.  entgegen § 9a, § 9b oder § 10a Absatz 1 Satz 1, jeweils auch in
+    Verbindung mit § 23 Absatz 1 oder Absatz 3, oder § 18, auch in
+    Verbindung mit § 23 Absatz 1, 2, 3 oder Absatz 4, ein Tier, eine Ware
+    oder ein Erzeugnis innergemeinschaftlich verbringt, einführt oder
+    ausführt,
 
 
-5.  ohne Genehmigung nach § 9 Satz 1, auch in Verbindung mit § 23 Abs. 1,
-    § 21 Abs. 3, auch in Verbindung mit § 23 Abs. 3 oder 4, § 24, auch in
-    Verbindung mit § 23 Abs. 5, oder § 37 Abs. 1 Satz 1 ein Tier oder eine
-    Ware innergemeinschaftlich verbringt, zurücksendet, einführt, ausführt
-    oder durchführt,
+6.  einer vollziehbaren Anordnung nach § 11 Absatz 3, auch in Verbindung
+    mit § 23 Absatz 1, 2, 3 oder Absatz 4, § 19 Satz 1, auch in Verbindung
+    mit § 23 Absatz 1 oder Absatz 2, § 25 Absatz 3 oder § 31 Absatz 1 Satz
+    2 Nummer 2, jeweils auch in Verbindung mit § 23 Absatz 5 oder Absatz
+    6, zuwiderhandelt,
 
 
-6.  entgegen § 9a, § 9b oder § 10a Abs. 1 Satz 1, jeweils auch in
-    Verbindung mit § 23 Abs. 1 oder 3, oder § 18, auch in Verbindung mit §
-    23 Abs. 1, 2, 3 oder 4, ein Tier, eine Ware oder ein Erzeugnis
-    innergemeinschaftlich verbringt, einführt oder ausführt,
+7.  entgegen § 12 Absatz 2 Satz 1 oder § 15 Absatz 1, jeweils auch in
+    Verbindung mit § 23 Absatz 3, oder § 21 Absatz 4, auch in Verbindung
+    mit § 23 Absatz 1, 2, 3 oder Absatz 4, ein Tier, eine Ware oder ein
+    Erzeugnis nach einem anderen Mitgliedstaat verbringt, einführt oder
+    ausführt,
 
 
-7.  entgegen § 12 Abs. 2 Satz 1 oder § 15 Abs. 1, jeweils auch in
-    Verbindung mit § 23 Abs. 3, oder § 21 Abs. 4, auch in Verbindung mit §
-    23 Abs. 1, 2, 3 oder 4, ein Tier, eine Ware oder ein Erzeugnis nach
-    einem anderen Mitgliedstaat verbringt, einführt oder ausführt,
-
-
-8.  entgegen § 12 Abs. 3 Satz 1, auch in Verbindung mit § 23 Abs. 3, ein
-    Klauentier oder einen Einhufer auf eine zugelassene Sammelstelle
+8.  entgegen § 12 Absatz 3 Satz 1, auch in Verbindung mit § 23 Absatz 3,
+    ein Klauentier oder einen Einhufer auf eine zugelassene Sammelstelle
     verbringt oder ausführt,
 
 
-9.  entgegen § 13 Abs. 2 oder 4, jeweils auch in Verbindung mit § 23 Abs.
-    1, oder § 33 Abs. 1, 2 oder 3 ein Schlachtklauentier, einen
-    Schlachteinhufer, Schlachtgeflügel, ein eingeführtes
-    Schlachtklauentier, einen eingeführten Schlachteinhufer oder
-    eingeführtes Schlachtgeflügel verbringt oder nicht oder nicht
+9.  entgegen § 13 Absatz 2 oder Absatz 4, jeweils auch in Verbindung mit §
+    23 Absatz 1, oder § 33 Absatz 1, 2 oder Absatz 3 ein
+    Schlachtklauentier, einen Schlachteinhufer, Schlachtgeflügel, ein
+    eingeführtes Schlachtklauentier, einen eingeführten Schlachteinhufer
+    oder eingeführtes Schlachtgeflügel verbringt oder nicht oder nicht
     rechtzeitig schlachtet und nicht oder nicht rechtzeitig schlachten
     lässt,
 
 
-10. entgegen § 13 Abs. 5, auch in Verbindung mit § 23 Abs. 1, oder § 13a
-    Abs. 1, auch in Verbindung mit § 23 Abs. 1 oder § 34a Abs. 1, oder §
-    14 Abs. 4, auch in Verbindung mit § 23 Abs. 3 oder 4, einen Hund, eine
-    Katze, ein Frettchen, einen Affen, einen Halbaffen oder einen Fisch
-    verbringt, einführt oder ausführt,
+10. einer mit einer Zulassung nach § 13 Absatz 3, § 15 Absatz 2 oder
+    Absatz 4, § 20 Satz 2, § 35 Absatz 2 oder § 36a Absatz 4 verbundenen
+    vollziehbaren Auflage zuwiderhandelt,
 
 
-11. entgegen § 14 Abs. 1 oder 2, jeweils auch in Verbindung mit § 23 Abs.
-    1 oder 2, einen Fisch, einen getöteten Fisch oder Teile eines solchen
-    oder Eier oder Sperma von Fischen aus einem anderen Mitgliedstaat
-    verbringt oder einführt,
+11. entgegen § 13 Absatz 5, auch in Verbindung mit § 23 Absatz 1, § 13a
+    Absatz 1, auch in Verbindung mit § 23 Absatz 1 oder § 34a Absatz 1,
+    oder § 14 Absatz 4, auch in Verbindung mit § 23 Absatz 3 oder Absatz
+    4, einen Hund, eine Katze, ein Frettchen, einen Affen, einen Halbaffen
+    oder einen Fisch verbringt, einführt oder ausführt,
 
 
-12. entgegen § 15 Abs. 3 am innergemeinschaftlichen Verbringen teilnimmt
-    oder eine Sammelstelle oder einen Händlerstall beim
-    innergemeinschaftlichen Verbringen nutzt,
+12. entgegen § 14 Absatz 1 oder Absatz 2, jeweils auch in Verbindung mit §
+    23 Absatz 1 oder Absatz 2, einen Fisch, einen getöteten Fisch, einen
+    Teil eines getöteten Fisches oder Eier oder Sperma von Fischen aus
+    einem anderen Mitgliedstaat verbringt oder einführt,
 
 
-13. entgegen § 22 Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs. 5 oder
-    6, oder § 24a Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs. 5, ein
-    Tier oder eine Ware einführt oder durchführt,
+13. entgegen § 15 Absatz 3 am innergemeinschaftlichen Verbringen teilnimmt
+    oder einen Betrieb beim innergemeinschaftlichen Verbringen nutzt,
 
 
-14. entgegen § 23a, auch in Verbindung mit § 23 Abs. 5, eine Ware oder
+14. entgegen § 22 Absatz 1 Satz 1, auch in Verbindung mit § 23 Absatz 5
+    oder Absatz 6, oder § 24a Absatz 1 Satz 1, auch in Verbindung mit § 23
+    Absatz 5, ein Tier oder eine Ware einführt oder durchführt,
+
+
+15. entgegen § 23a, auch in Verbindung mit § 23 Absatz 5, eine Ware oder
     einen Gegenstand einführt oder durchführt,
 
 
-15. entgegen § 25 Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs. 5 oder §
-    37 Abs. 2, § 25 Abs. 2 oder 4 oder § 26, jeweils auch in Verbindung
-    mit § 23 Abs. 5 oder 6 oder § 37 Abs. 2, ein Tier, eine Ware oder
-    einen Gegenstand einführt oder durchführt,
+16. entgegen § 25 Absatz 1 Satz 1, auch in Verbindung mit § 23 Absatz 5
+    oder § 37 Absatz 2, § 25 Absatz 2 oder Absatz 4 oder § 26 Satz 1,
+    jeweils auch in Verbindung mit § 23 Absatz 5 oder Absatz 6 oder § 37
+    Absatz 2, ein Tier, eine Ware oder einen Gegenstand einführt oder
+    durchführt,
 
 
-16. entgegen § 32 Abs. 1 Satz 1, auch in Verbindung mit § 23 Abs. 5 oder
-    6, ein Tier befördert,
+17. entgegen § 32 Absatz 1 Satz 1, auch in Verbindung mit § 23 Absatz 5
+    oder Absatz 6, ein Tier befördert,
 
 
-17. entgegen § 32 Abs. 1 Satz 2, auch in Verbindung mit § 23 Abs. 5 oder
-    6, oder § 32 Abs. 2, auch in Verbindung mit § 23 Abs. 5, eine
-    Bescheinigung nicht mitführt,
+18. entgegen § 32 Absatz 1 Satz 2, auch in Verbindung mit § 23 Absatz 5
+    oder 6, oder § 32 Absatz 2, auch in Verbindung mit § 23 Absatz 5, eine
+    Kopie nicht mitführt,
 
 
-18. entgegen § 32 Abs. 3, auch in Verbindung mit § 23 Abs. 5, eine Ware
-    oder einen Gegenstand befördert,
+19. entgegen § 32 Absatz 3, auch in Verbindung mit § 23 Absatz 5, eine
+    Ware oder einen Gegenstand befördert,
 
 
-19. entgegen § 36a Abs. 3 eine Ware einlagert,
+20. entgegen § 36a Absatz 3 eine Ware einlagert,
 
 
-20. entgegen § 37 Abs. 6 eine Ware zwischenlagert, lagert, behandelt oder
-    aus dem Zwischenlager verbringt oder
+21. entgegen § 37 Absatz 6 eine Ware zwischenlagert, lagert, behandelt
+    oder aus dem Zwischenlager verbringt oder
 
 
-21. entgegen § 37a ein Tier, eine Ware oder einen Gegenstand ausführt.
+22. entgegen § 37a ein Tier, eine Ware oder einen Gegenstand ausführt.
 
 
 
@@ -2434,40 +2393,55 @@ Verordnung (EG) Nr. 416/2005 der Kommission vom 11. März 2005 (ABl. EU
 Nr. L 66 S. 10), ein tierisches Nebenprodukt oder ein verarbeitetes
 Erzeugnis in einen anderen Mitgliedstaat versendet.
 
-(5) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr.
-998/2003, zuletzt geändert durch Verordnung (EG) Nr. 1193/2005 der
-Kommission vom 25. Juli 2005 (ABl. EU Nr. L 194 S. 4), verstößt, indem
-er vorsätzlich oder fahrlässig entgegen Artikel 5 Abs. 1 Buchstabe b
-oder Artikel 8 Abs. 2 einen Ausweis oder eine Bescheinigung nicht
-mitführt.
+(5) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EU) Nr.
+576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013
+über die Verbringung von Heimtieren zu anderen als Handelszwecken und
+zur Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom
+28\.6.2013, S. 1, L 115 vom 6.5.2015, S. 43) verstößt, indem er
+vorsätzlich oder fahrlässig entgegen
 
-(6) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 6 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-Artikel 3 Abs. 2 in Verbindung mit Anhang III der Verordnung (EG) Nr.
-745/2004 der Kommission vom 16. April 2004 mit Einfuhrvorschriften für
-Lebensmittel tierischen Ursprungs zum persönlichen Verbrauch (ABl. EU
-Nr. L 122 S. 1) eine dort genannte Information nicht, nicht richtig
-oder nicht vollständig kenntlich macht.
+1.  Artikel 6 oder Artikel 10 Absatz 1 oder Absatz 2 ein Heimtier
+    verbringt,
 
-(7) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 6 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-Artikel 2 Abs. 1 der Verordnung (EG) Nr. 136/2004 der Kommission vom
-22\. Januar 2004 mit Verfahren für die Veterinärkontrollen von aus
-Drittländern eingeführten Erzeugnissen an den Grenzkontrollstellen der
-Gemeinschaft (ABl. EU Nr. L 21 S. 11) eine Anzeige nicht, nicht
-richtig oder nicht vollständig erstattet.
 
-(8) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 6 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-Artikel 1 Abs. 1 der Verordnung (EG) Nr. 282/2004 der Kommission vom
-18\. Februar 2004 zur Festlegung eines Dokuments für die Zollanmeldung
-und Veterinärkontrolle von aus Drittländern in die Gemeinschaft
-eingeführten Tieren (ABl. EU Nr. L 49 S. 11) eine Ankündigung nicht,
-nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+2.  Artikel 34 Absatz 2 Buchstabe a einen Ausweis nicht vorlegt oder
 
-(9) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr.
+
+3.  Artikel 34 Absatz 2 Buchstabe b ein Heimtier für die Kontrolle nicht
+    zur Verfügung stellt.
+
+
+
+
+(6) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 3 Abs. 2 in Verbindung mit Anhang III der Verordnung
+(EG) Nr. 745/2004 der Kommission vom 16. April 2004 mit
+Einfuhrvorschriften für Lebensmittel tierischen Ursprungs zum
+persönlichen Verbrauch (ABl. EU Nr. L 122 S. 1) eine dort genannte
+Information nicht, nicht richtig oder nicht vollständig kenntlich
+macht.
+
+(7) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 2 Abs. 1 der Verordnung (EG) Nr. 136/2004 der
+Kommission vom 22. Januar 2004 mit Verfahren für die
+Veterinärkontrollen von aus Drittländern eingeführten Erzeugnissen an
+den Grenzkontrollstellen der Gemeinschaft (ABl. EU Nr. L 21 S. 11)
+eine Anzeige nicht, nicht richtig oder nicht vollständig erstattet.
+
+(8) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+entgegen Artikel 1 Abs. 1 der Verordnung (EG) Nr. 282/2004 der
+Kommission vom 18. Februar 2004 zur Festlegung eines Dokuments für die
+Zollanmeldung und Veterinärkontrolle von aus Drittländern in die
+Gemeinschaft eingeführten Tieren (ABl. EU Nr. L 49 S. 11) eine
+Ankündigung nicht, nicht richtig, nicht vollständig oder nicht
+rechtzeitig macht.
+
+(9) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
 1739/2005 der Kommission vom 21. Oktober 2005 zur Festlegung der
 Veterinärbedingungen für die Verbringung von Zirkustieren zwischen
 Mitgliedstaaten (ABl. EU Nr. L 279 S. 47) verstößt, indem er als
@@ -2537,8 +2511,9 @@ bestimmt ist. Satz 1 gilt nicht für Bekanntmachungen nach § 16 Satz 2.
 
 (Inkrafttreten)
 
+(zu § 4)
 
-### Anlage 1 (zu § 4) *Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind */
+### Anlage 1 \*Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1015;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2561,8 +2536,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 6 Abs. 1)
 
-### Anlage 2 (zu § 6 Abs. 1) *Fe Anforderungen an Transportmittel und -behältnisse */
+### Anlage 2 \*Fe Anforderungen an Transportmittel und -behältnisse \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1016
 
@@ -2712,10 +2688,11 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1016
 
 
 
+(zu § 8 Abs. 1 und 4)
 
-### Anlage 3 (zu § 8 Abs. 1 und 4) *Fe Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen */
+### Anlage 3 Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 1017 - 1025;
+(Fundstelle: BGBl. I 2005, 1017 - 1025;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Art, Verwendungszweck
@@ -2866,7 +2843,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   amtstierärztliche Gesundheitsbescheinigung nach Muster des Anhangs C
         der Richtlinie 90/426/EWG in der jeweils geltenden Fassung
 
-    *   Artikel 4 Abs. 6 und Artikel . 5 der Richtlinie 90/426/EWG in der
+    *   Artikel 4 Abs. 6 und Artikel 5 der Richtlinie 90/426/EWG in der
         jeweils geltenden Fassung,
 
 
@@ -2891,44 +2868,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Hunde, Hauskatzen und Frettchen
 
-    *
-    *
+    *   Heimtierausweis nach Muster
 
-*    *   7.1
-
-    *   . Hunde, Hauskatzen und Frettchen, ausgenommen Hunde, Hauskatzen und
-        Frettchen, die nach Irland, Malta, Schweden oder dem Vereinigten
-        Königreich verbracht werden
-
-    *   Heimtierausweis nach Muster des Anhangs der Entscheidung 2003/803/EG
-        in der jeweils geltenden Fassung mit Bestätigung auf Grund einer
-        mindestens 24 Stunden vor dem Versand durch den beauftragten Tierarzt
-        erfolgten klinischen Untersuchung, dass das Tier frei von sichtbaren
-        Krankheitszeichen und transportfähig ist
-
-    *   Artikel 14 und 15 der Richtlinie 92/65/EWG in der jeweils geltenden
-        Fassung,
+        1.  des Anhangs der Entscheidung 2003/803/EG in der jeweils geltenden
+            Fassung oder
 
 
-*    *   Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
+        2.  des Anhangs III der Durchführungsverordnung (EU) Nr. 577/2013 der
+            Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten
+            für die Verbringung von Hunden, Katzen und Frettchen zu anderen als
+            Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer
+            sowie zur Festlegung der Anforderungen an Format, Layout und Sprache
+            der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen
+            gemäß der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und
+            des Rates (ABl. L 178 vom 28.6.2013, S. 109) in der jeweils geltenden
+            Fassung, aus dem hervorgeht, dass das Tier eine Tollwutimpfung
+            erhalten hat, die den im Anhang III der Verordnung (EU) Nr. 576/2013
+            des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die
+            Verbringung von Heimtieren zu anderen als Handelszwecken und zur
+            Aufhebung der Verordnung (EG) Nr. 998/2003 (ABl. L 178 vom 28.6.2013,
+            S. 1) in der jeweils geltenden Fassung genannten
+            Gültigkeitsvorschriften entspricht,
 
 
-*    *   7.2
 
-    *   Hunde, Hauskatzen und Frettchen, die nach Irland, Malta, Schweden oder
-        dem Vereinigten Königreich verbracht werden
+        sowie amtstierärztliche Bescheinigung nach Muster des Anhangs E Teil 1
+        der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 
-    *   Heimtierausweis nach Muster des Anhangs der Entscheidung 2003/803/EG
-        in der jeweils geltenden Fassung mit Bestätigung auf Grund einer
-        mindestens 24 Stunden vor dem Versand durch den beauftragten Tierarzt
-        erfolgten klinischen Untersuchung, dass das Tier frei von sichtbaren
-        Krankheitszeichen und transportfähig ist
-
-    *   Artikel 14 und 15 der Richtlinie 92/65/EWG in der jeweils geltenden
-        Fassung,
-
-
-*    *   Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung
+    *   Artikel 10 der Richtlinie 90/425/EWG in der jeweils geltenden Fassung,
+        Artikel 6 der Verordnung (EU) Nr. 576/2013 in der jeweils geltenden
+        Fassung
 
 
 *    *   8.
@@ -2963,7 +2932,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         zum Zeitpunkt des Versands frei von sichtbaren Krankheitszeichen sind
         und die Voraussetzungen nach Anlage 5 Nr. 1 nicht bestehen)
 
-    *   Artikel 14 und 15 der Richtlinie 92/65 EWG in der jeweils geltenden
+    *   Artikel 14 und 15 der Richtlinie 92/65/EWG in der jeweils geltenden
         Fassung,
 
 
@@ -3112,7 +3081,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   11.2
 
     *   Fische der für die IHN oder VHS empfänglichen Arten, die für einen
-        zugelassenen Fischhaltungs-betrieb oder ein zugelassenes Gebiet
+        zugelassenen Fischhaltungsbetrieb oder ein zugelassenes Gebiet
         bestimmt sind, aus einem zugelassenen Fischhaltungsbetrieb
 
     *   amtliche Transportbescheinigung nach Kapitel 2 des Anhangs E der
@@ -3195,7 +3164,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bienen
 
-    *   amtstierärztliche Bescheinigung nach Muster des Anhang E Teil 2 der
+    *   amtstierärztliche Bescheinigung nach Muster des Anhangs E Teil 2 der
         Richtlinie 92/65/EWG in der jeweils geltenden Fassung, die um den
         Bestätigungsvermerk nach Artikel 8 der genannten Richtlinie ergänzt
         ist
@@ -3217,8 +3186,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   1.
 
     *   Frisches Fleisch von Huftieren, Geflügel, Kaninchen, Farmwild oder
-        erlegtem Schalen-, Feder- oder Harrwild sowie daraus hergestellte
-        Fleischerzeugnisse und -Zubereitungen
+        erlegtem Schalen-, Feder- oder
+        Haarwild                        sowie daraus hergestellte
+        Fleischerzeugnisse und -zubereitungen
 
     *
     *   Artikel 9 der Richtlinie 89/662/EWG in der jeweils geltenden Fassung,
@@ -3400,11 +3370,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1)
 
-### Anlage 4 (zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1) *Fe Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf */
+### Anlage 4 Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1026;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2005, 1026;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 **I.** **Tiere**
@@ -3419,17 +3390,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     bestimmt sind
 
 
-3.  Hunde, Katzen und Frettchen, die Heimtiere im Sinne des Artikels 3
-    Buchstabe a der Verordnung (EG) Nr. 998/2003 sind und die
-
-    a)  nicht älter als drei Monate und nicht geimpft sind und
-
-
-    b)  aus den in Anhang II Teil B Abschnitt 2 und Teil C der Verordnung (EG)
-        Nr. 998/2003 genannten Drittländern eingeführt werden
-
-
-
+3.  (weggefallen)
 
 
 4.  andere Bienen als die der Gattung Apis mellifera und Bombus ssp.
@@ -3476,8 +3437,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 9a)
 
-### Anlage 5 (zu § 9a) *Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist */
+### Anlage 5 \*Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist \*/
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1027)
 
@@ -3543,8 +3505,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 13 Abs. 3)
 
-### Anlage 6 (zu § 13 Abs. 3) *Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten */
+### Anlage 6 \*Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
@@ -3612,10 +3575,11 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
 
 
+(zu § 15)
 
-### Anlage 7 (zu § 15) *Fe Zulassungsbedürftige Betriebe */
+### Anlage 7 Zulassungsbedürftige Betriebe
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
+(Fundstelle: BGBl. I 2005, 1029 - 1031)
 
 ## Teil 1
 
@@ -3733,11 +3697,11 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
     *   Samen von Pferden, Schafen und Ziegen
 
-    *   Anforderungen nach Anhang D Kapitel I Nr. 2 der Richtlinie 92/65/EWG
-        in der jeweils geltenden Fassung
+    *   Anforderungen nach Anhang D Kapitel I Teil I Nummer 1 der Richtlinie
+        92/65/EWG in der jeweils geltenden Fassung
 
-    *   Bestimmungen nach Anhang D Kapitel I Nr. 2, Kapitel II und III der
-        Richtlinie 92/65/EWG in der jeweils geltenden Fassung
+    *   Bestimmungen nach Anhang D Kapitel I Teil II Nummer 1, Kapitel II und
+        III Teil I der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 
 
 *    *   2.
@@ -3756,6 +3720,17 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
     *   Bestimmungen nach Anhang A Kapitel II Nr. 2 der Richtlinie 88/407/EWG
         in der jeweils geltenden Fassung
+
+
+*    *   2.2
+
+    *   Samen von Pferden, Schafen und Ziegen
+
+    *   Anforderungen nach Anhang D Kapitel I Teil I Nummer 2 der Richtlinie
+        92/65/EWG in der jeweils geltenden Fassung
+
+    *   Bestimmungen nach Anhang D Kapitel I Teil II Nummer 2 und Kapitel III
+        Teil I der Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 
 
 *    *   3.
@@ -3781,11 +3756,29 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
     *   Embryonen und Eizellen von Pferden, Schweinen, Schafen und Ziegen
 
-    *   Anforderungen nach Anhang D Kapitel IV der Richtlinie 92/65/EWG in der
-        jeweils geltenden Fassung
+    *
+    *
 
-    *   Bestimmungen nach Anhang D Kapitel III der Richtlinie 92/65/EWG in der
-        jeweils geltenden Fassung
+*    *   3.2.1
+
+    *   aus Embryo-Entnahmeeinheiten
+
+    *   Anforderungen nach Anhang D Kapitel I Teil III Nummer 1 der Richtlinie
+        92/65/EWG in der jeweils geltenden Fassung
+
+    *   Bestimmungen nach Anhang D Kapitel III Teil II und Kapitel IV der
+        Richtlinie 92/65/EWG in der jeweils geltenden Fassung
+
+
+*    *   3.2.2
+
+    *   aus Embryo-Erzeugungseinheiten
+
+    *   Anforderungen nach Anhang D Kapitel I Teil III Nummer 2 der Richtlinie
+        92/65/EWG in der jeweils geltenden Fassung
+
+    *   Bestimmungen nach Anhang D Kapitel III Teil II und Kapitel IV der
+        Richtlinie 92/65/EWG in der jeweils geltenden Fassung
 
 
 *    *   4.
@@ -3924,11 +3917,12 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
 
 
+(zu § 18)
 
-### Anlage 8 (zu § 18) Kennzeichnungsmethoden
+### Anlage 8 Kennzeichnungsmethoden
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1032 - 1033;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2005, 1032 - 1033;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Art, Verwendungszweck
 
@@ -3968,7 +3962,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Kennzeichnung des einzelnen Tieres und Dokument zu dessen
         Identifizierung nach dem Anhang der Entscheidung 93/623/EWG der
         Kommission vom 20. Oktober 1993 über das Dokument zur Identifizierung
-        eingetragener Equiden (Equidenpass)  (ABl. EG Nr. L 298 S. 45) in der
+        eingetragener Equiden (Equidenpass) (ABl. EG Nr. L 298 S. 45) in der
         jeweils geltenden Fassung
 
 
@@ -3986,11 +3980,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Hunde, Katzen und Frettchen
 
     *   Dokument zur Identifizierung des einzelnen Tieres und dessen
-        Kennzeichnung nach Artikel 5 und 16 der Verordnung (EG) Nr. 998/2003
-        in der jeweils geltenden Fassung, im Falle des Verbringens nach
-        Irland, Malta, Schweden und das Vereinigte Königreich nach Artikel 6
-        und 16 der Verordnung (EG) Nr. 998/2003 in der jeweils geltenden
-        Fassung
+        Kennzeichnung nach Artikel 6 der Verordnung (EU) Nr. 576/2013 in der
+        jeweils geltenden Fassung
 
 
 *    *   4.
@@ -4117,8 +4108,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1
+Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1)
 
-### Anlage 9 (zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1 Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1) *Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen */
+### Anlage 9 \*Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen \*/
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1034 - 1038;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4401,8 +4394,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4)
 
-### Anlage 9a (zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4) *Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen */
+### Anlage 9a \*Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen \*/
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1039
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4426,8 +4420,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 25 Abs. 1 und 3)
 
-### Anlage 9b (zu § 25 Abs. 1 und 3) *Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht */
+### Anlage 9b \*Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht \*/
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 585, 586;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4535,8 +4530,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 25 Abs. 2 und 3)
 
-### Anlage 10 (zu § 25 Abs. 2 und 3) *Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht */
+### Anlage 10 \*Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht \*/
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1041;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4641,8 +4637,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 29 Abs. 1)
 
-### Anlage 10a (zu § 29 Abs. 1) *Fe Durchführung der Dokumentenprüfung bei Tieren */
+### Anlage 10a \*Fe Durchführung der Dokumentenprüfung bei Tieren \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1042;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4706,8 +4703,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1)
 
-### Anlage 11 (zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren */
+### Anlage 11 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 
@@ -4891,8 +4889,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
 
 
 
+(zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2)
 
-### Anlage 12 (zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren */
+### Anlage 12 \*Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
@@ -4943,8 +4942,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
 
 
+(zu § 37 Abs. 1 Satz 2)
 
-### Anlage 13 (zu § 37 Abs. 1 Satz 2) *Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist */
+### Anlage 13 \*Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist \*/
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1046;
 bzgl. der einzelnen Änderungen vgl. Fußnote

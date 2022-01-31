@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1980, 1795
 
 Zuletzt geändert durch
-:   Art. 491 V v. 31.10.2006 I 2407
+:   Art. 504 V v. 31.8.2015 I 1474
+
+Änderung durch
+:   Art. 56 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -56,11 +59,10 @@ treffen, wenn dies der Sicherstellung des weiträumigen Verkehrs dient.
 
 1.  die Bundeswehr, die Bundespolizei, die Polizei, die Organisationen des
     Zivilschutzes, der Zolldienst, soweit das zur Erfüllung hoheitlicher
-    Aufgaben dringend geboten ist, sowie die Unternehmen nach § 2 des
-    Post- und Telekommunikationssicherstellungsgesetzes, soweit sie
-    aufgrund einer Rechtsverordnung nach § 3 des vorgenannten Gesetzes
-    verpflichtet sind und es zur Erfüllung ihrer Aufgaben erforderlich
-    ist,
+    Aufgaben dringend geboten ist, sowie die Unternehmen, die nach § 1 des
+    Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des
+    Telekommunikationsgesetzes verpflichtet sind, und es zur Erfüllung
+    ihrer Aufgaben erforderlich ist,
 
 
 2.  die Truppen der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes
@@ -371,7 +373,7 @@ folgenden Kalendermonats in Kraft.
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn und soweit dies das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung bestimmt.
+Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmt.
 
 
 ## Anlage 1 (zu § 5 Abs. 2)

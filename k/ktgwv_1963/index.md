@@ -87,8 +87,9 @@ Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister der Finanzen
 
+(zu § 2)
 
-## Anlage (zu § 2) *Fe Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland */
+## Anlage \*Fe Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland \*/
 
 (Fundstelle: BGBl. Teil III 600-2-4, S. 36 - 37)
 

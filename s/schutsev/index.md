@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1060
 
+Änderung durch
+:   Art. 50 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 [^f771926_01_BJNR106000009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
     Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -60,9 +63,10 @@ Im Sinne dieser Verordnung
 
 
 2.  ist „öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz
-    im Sinne von § 3 Nr. 27 des Telekommunikationsgesetzes, das zur
+    im Sinne von § 3 Nummer 65 des Telekommunikationsgesetzes, das zur
     Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten
-    im Sinne von § 3 Nr. 24 des Telekommunikationsgesetzes genutzt wird;
+    im Sinne von § 3 Nummer 61 des Telekommunikationsgesetzes genutzt
+    wird;
 
 
 3.  sind „Störaussendungen“ von einem leitungsgeführten elektrischen
@@ -167,8 +171,9 @@ Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 3 Abs. 1)
 
-## Anlage 1 (zu § 3 Abs. 1) Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
+## Anlage 1 Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
 
 (Fundstelle: BGBl. I 2009, 1062)
 
@@ -493,8 +498,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
+(zu § 3 Abs. 1)
 
-## Anlage 2 (zu § 3 Abs. 1) Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
+## Anlage 2 Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
 
 (Fundstelle: BGBl. I 2009, 1063)
 
@@ -625,8 +631,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 [^f771926_02_BJNR106000009BJNE001100000]: [^f771926_03_BJNR106000009BJNE001100000]:     **             V/m).
     Dies entspricht einer äquivalenten Strahlungsleistung von 33 dB(pW).
 [^f771926_04_BJNR106000009BJNE001100000]: 
+(zu § 3 Abs. 1)
 
-## Anlage 3 (zu § 3 Abs. 1) Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
+## Anlage 3 Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
 
 **Inhalt**
 
@@ -855,8 +862,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   **7**
 
-    *   **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis 3
-        000 MHz**
+    *   **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis
+        3 000 MHz**
 
 
 *    *
@@ -1873,8 +1880,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Kalibrierangaben) zu verwenden!
 
 
-**7** **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis 3
-    000 MHz**
+**7** **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis
+    3 000 MHz**
 
 
 **7.1** **Messgeräte**

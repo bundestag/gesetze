@@ -15,16 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 341
 
+Neugefasst durch
+:   Bek. v. 11.3.2019 I 304
 
-## Eingangsformel
-
-Auf Grund des § 3 Absatz 1 Satz 1 Nummer 7 und 14 und des § 5 Absatz 2
-Satz 3 Nummer 1, jeweils in Verbindung mit § 7a, des
-Gefahrgutbeförderungsgesetzes in der Fassung der Bekanntmachung vom 7.
-Juli 2009 (BGBl. I S. 1774, 3975) verordnet das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung nach Anhörung der in § 7a des
-Gefahrgutbeförderungsgesetzes genannten Verbände, Sicherheitsbehörden
-und -organisationen:
+Geändert durch
+:   Art. 3 V v. 26.3.2021 I 475
 
 
 ## § 1 Geltungsbereich
@@ -34,52 +29,68 @@ dessen Tätigkeit die Beförderung gefährlicher Güter auf der Straße,
 auf der Schiene, auf schiffbaren Binnengewässern und mit Seeschiffen
 umfasst.
 
-(2) Die in dem jeweiligen Abschnitt 1.8.3 des Europäischen
-Übereinkommens vom 30. September 1957 über die internationale
-Beförderung gefährlicher Güter auf der Straße (ADR), der Anlage der
-Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter
-(RID) – Anhang C des Übereinkommens über den internationalen
-Eisenbahnverkehr (COTIF) und des Europäischen Übereinkommens über die
-internationale Beförderung von gefährlichen Gütern auf
-Binnenwasserstraßen (ADN) für die Beförderung gefährlicher Güter auf
-der Straße, auf der Schiene und auf schiffbaren Binnengewässern
-getroffenen Regelungen sind auch auf die Beförderung gefährlicher
-Güter mit Seeschiffen anzuwenden.
+(2) Die in dem jeweiligen Abschnitt 1.8.3 des Übereinkommens vom 30.
+September 1957 über die internationale Beförderung gefährlicher Güter
+auf der Straße (ADR), der Anlage der Ordnung für die internationale
+Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des
+Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) und
+des Europäischen Übereinkommens über die internationale Beförderung
+von gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die
+Beförderung gefährlicher Güter auf der Straße, auf der Schiene und auf
+schiffbaren Binnengewässern getroffenen Regelungen sind auch auf die
+Beförderung gefährlicher Güter mit Seeschiffen anzuwenden.
 
 
 ## § 2 Befreiungen
 
-Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
+(1) Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
 
-1.  deren Tätigkeiten sich auf Beförderungen gefährlicher Güter beziehen,
-    deren Freistellung von den Vorschriften des ADR/RID/ADN/International
-    Maritime Dangerous Goods Code (IMDG-Code) geregelt ist oder sich auf
-    Mengen je Beförderungseinheit erstrecken, die unterhalb der in
-    Unterabschnitt 1.1.3.6 ADR festgelegten Mengen liegen, oder die
-    ausschließlich Beförderungen nach Kapitel 3.4 und 3.5 ADR/RID/ADN
-    /IMDG-Code durchführen,
-
-
-2.  die in einem Kalenderjahr an der Beförderung von nicht mehr als 50
-    Tonnen netto gefährlicher Güter für den Eigenbedarf in Erfüllung
-    betrieblicher Aufgaben beteiligt sind, wobei dies bei radioaktiven
-    Stoffen nur bei der Beförderung der UN-Nummern 2908 bis 2911 gilt,
+1.  denen ausschließlich Pflichten als Fahrzeugführer,
+    Triebfahrzeugführer, Schiffsführer, Besatzung in der
+    Binnenschifffahrt, Betreiber einer Annahmestelle in der
+    Binnenschifffahrt, Empfänger, Reisender, Hersteller und
+    Rekonditionierer von Verpackungen, Wiederaufarbeiter von Verpackungen
+    und Großpackmitteln (IBC) und als Stelle für Inspektionen und
+    Prüfungen von IBC zugewiesen sind,
 
 
-3.  denen ausschließlich Pflichten als Fahrzeugführer, Schiffsführer,
-    Empfänger, Reisender, Hersteller und Rekonditionierer von Verpackungen
-    oder als Stelle für Inspektionen und Prüfungen von Großpackmitteln
-    (IBC) zugewiesen worden sind oder
+2.  denen ausschließlich Pflichten als Auftraggeber des Absenders
+    zugewiesen sind und die an der Beförderung gefährlicher Güter von
+    nicht mehr als 50 Tonnen netto je Kalenderjahr beteiligt sind,
+    ausgenommen radioaktive Stoffe der Klasse 7 und gefährliche Güter der
+    Beförderungskategorie 0 nach Absatz 1.1.3.6.3 ADR,
 
 
-4.  die ausschließlich als Auftraggeber des Absenders an der Beförderung
-    gefährlicher Güter von nicht mehr als 50 Tonnen netto pro Kalenderjahr
-    beteiligt sind, ausgenommen radioaktive Stoffe der Klasse 7 und
-    gefährliche Güter der Beförderungskategorie 0 nach Absatz 1.1.3.6.3
-    ADR.
+3.  denen ausschließlich Pflichten als Entlader zugewiesen sind und die an
+    der Beförderung gefährlicher Güter von nicht mehr als 50 Tonnen netto
+    je Kalenderjahr beteiligt sind,
+
+
+4.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter erstreckt,
+    die von den Vorschriften des ADR/RID/ADN/IMDG-Code freigestellt sind,
+
+
+5.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter im
+    Straßen-, Eisenbahn-, Binnenschiffs- oder Seeverkehr erstreckt, deren
+    Mengen die in Unterabschnitt 1.1.3.6 ADR festgelegten höchstzulässigen
+    Mengen nicht überschreiten,
+
+
+6.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter erstreckt,
+    die nach den Bedingungen des Kapitels 3.3, 3.4 und 3.5
+    ADR/RID/ADN/IMDG-Code freigestellt sind, und
+
+
+7.  die gefährliche Güter von nicht mehr als 50 Tonnen netto je
+    Kalenderjahr für den Eigenbedarf in Erfüllung betrieblicher Aufgaben
+    befördern, wobei dies bei radioaktiven Stoffen nur für solche der UN-
+    Nummern 2908 bis 2911 gilt.
 
 
 
+
+(2) Die Befreiungstatbestände nach Absatz 1 können auch nebeneinander
+in Anspruch genommen werden.
 
 
 ## § 3 Bestellung von Gefahrgutbeauftragten
@@ -161,9 +172,10 @@ Voraussetzungen nach Absatz 1 bis 5 durchführen.
 
 ## § 6 Prüfungen
 
-(1) Die Prüfung besteht aus einer schriftlichen Prüfung. Die
-Grundsätze der Prüfungen richten sich nach Absatz 1.8.3.12.2 bis
-1\.8.3.12.4 ADR/RID/ADN.
+(1) Die Prüfung besteht aus einer schriftlichen Prüfung, die ganz oder
+teilweise auch als elektronische Prüfung durchgeführt werden kann. Die
+Grundsätze der Prüfung richten sich nach Absatz 1.8.3.12.2 bis
+1\.8.3.12.5 ADR/RID/ADN.
 
 (2) Die nach einer Schulung abzulegende Prüfung nach Absatz 1.8.3.12.4
 ADR/RID/ADN darf einmal ohne nochmalige Schulung wiederholt werden.
@@ -187,8 +199,7 @@ Satz 2 gilt entsprechend. Die Höchstpunktzahl ist jedoch um 50 vom
 Hundert zu reduzieren.
 
 (5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung veröffentlicht
-wird.
+Deutschen Industrie- und Handelskammertag veröffentlicht wird.
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach
 Absatz 1 bis 5 durchgeführt werden.
@@ -230,8 +241,8 @@ ausstellen. Einzelheiten sind durch die jeweils zuständige oberste
 Bundes- oder Landesbehörde durch Verwaltungsvorschriften zu regeln.
 
 (4) Das Bundesministerium der Verteidigung und das Bundesministerium
-des Innern bestimmen die zuständigen Behörden im Sinne des § 3 Absatz
-4 und 5 für ihren Dienstbereich.
+des Innern, für Bau und Heimat bestimmen die zuständigen Behörden im
+Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 
 
 ## § 8 Pflichten des Gefahrgutbeauftragten
@@ -256,30 +267,30 @@ Unfallbericht nach Unterabschnitt 1.8.3.6 ADR/RID/ADN erstellt wird.
 Jahresbericht über die Tätigkeiten des Unternehmens in Bezug auf die
 Gefahrgutbeförderung innerhalb eines halben Jahres nach Ablauf des
 Geschäftsjahres mit den Angaben nach Satz 2 zu erstellen. Der
-Jahresbericht muss mindestens enthalten:
+Jahresbericht muss mindestens enthalten
 
 1.  Art der gefährlichen Güter unterteilt nach Klassen,
 
 
 2.  Gesamtmenge der gefährlichen Güter in einer der folgenden vier Stufen:
 
-    a)  bis 5 Tonnen,
+    1.  bis 5 Tonnen,
 
 
-    b)  mehr als 5 Tonnen bis 50 Tonnen,
+    2.  mehr als 5 Tonnen bis 50 Tonnen,
 
 
-    c)  mehr als 50 Tonnen bis 1 000 Tonnen,
+    3.  mehr als 50 Tonnen bis 1 000 Tonnen,
 
 
-    d)  mehr als 1 000 Tonnen,
+    4.  mehr als 1 000 Tonnen,
 
 
 
 
 
 3.  Zahl und Art der Unfälle mit gefährlichen Gütern über die ein
-    Unfallbericht nach Unterabschnitt 1.8.3.6 ADR/ RID/ADN erstellt worden
+    Unfallbericht nach Unterabschnitt 1.8.3.6 ADR/RID/ADN erstellt worden
     ist,
 
 
@@ -293,6 +304,10 @@ Jahresbericht muss mindestens enthalten:
 
 
 
+Der Jahresbericht muss keine Angaben über die Beförderung gefährlicher
+Güter im Luftverkehr enthalten. Die anzugebende Gesamtmenge der
+gefährlichen Güter schließt auch die empfangenen gefährlichen Güter
+ein.
 
 (6) Der Gefahrgutbeauftragte muss den Schulungsnachweis nach § 4 der
 zuständigen Behörde auf Verlangen vorlegen. Er hat dafür zu sorgen,
@@ -420,38 +435,14 @@ vorsätzlich oder fahrlässig
 
 
 
-## § 11 Übergangsbestimmungen
-
-Schulungsnachweise nach Anlage 3 in Verbindung mit § 2 Absatz 1 der
-Gefahrgutbeauftragtenverordnung in der Fassung der Bekanntmachung vom
-26\. März 1998 (BGBl. I S. 648), die zuletzt durch Artikel 4 der
-Verordnung vom 3. August 2010 (BGBl. I S. 1139) geändert worden ist,
-behalten ihre Gültigkeit bis zu deren Ablauf.
-
-
-## § 12 Aufheben von Vorschriften
-
-Es werden aufgehoben:
-
-1.  die Gefahrgutbeauftragtenverordnung in der Fassung der Bekanntmachung
-    vom 26. März 1998 (BGBl. I S. 648), die zuletzt durch Artikel 4 der
-    Verordnung vom 3. August 2010 (BGBl. I S. 1139) geändert worden ist,
-
-
-2.  die Gefahrgutbeauftragtenprüfungsverordnung vom 1. Dezember 1998
-    (BGBl. I S. 3514), die zuletzt durch Artikel 483 der Verordnung vom
-    31\. Oktober 2006 (BGBl. I S. 2407) geändert worden ist.
+## § 11 (Übergangsbestimmungen)
 
 
 
+## § 12 (Aufheben von Vorschriften)
 
 
-## § 13 Inkrafttreten
 
-Diese Verordnung tritt am 1. September 2011 in Kraft.
+## § 13 (Inkrafttreten)
 
-
-## Schlussformel
-
-Der Bundesrat hat zugestimmt.
 

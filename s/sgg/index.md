@@ -19,7 +19,19 @@ Neugefasst durch
 :   Bek. v. 23.9.1975 I 2535;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 21.7.2012 I 1577
+:   Art. 25 G v. 20.8.2021 I 3932
+
+Änderung durch
+:   Art. 11 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 13 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
 
 ## Erster Teil - Gerichtsverfassung
@@ -144,12 +156,13 @@ bestimmt.
 Sozialversicherung, der Arbeitsförderung einschließlich der übrigen
 Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
-und des Asylbewerberleistungsgesetzes sowie für Angelegenheiten des
-sozialen Entschädigungsrechts (Recht der sozialen Entschädigung bei
-Gesundheitsschäden) und des Schwerbehindertenrechts gebildet. Für
-Angelegenheiten der Knappschaftsversicherung einschließlich der
-Unfallversicherung für den Bergbau können eigene Kammern gebildet
-werden.
+einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
+Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
+Angelegenheiten des sozialen Entschädigungsrechts (Recht der sozialen
+Entschädigung bei Gesundheitsschäden) und des Schwerbehindertenrechts
+gebildet. Für Angelegenheiten der Knappschaftsversicherung
+einschließlich der Unfallversicherung für den Bergbau können eigene
+Kammern gebildet werden.
 
 (2) Für Streitigkeiten aufgrund der Beziehungen zwischen Krankenkassen
 und Vertragsärzten, Psychotherapeuten, Vertragszahnärzten
@@ -216,11 +229,13 @@ Vorsitzenden und zwei ehrenamtlichen Richtern als Beisitzern tätig.
 Bei Beschlüssen außerhalb der mündlichen Verhandlung und bei
 Gerichtsbescheiden wirken die ehrenamtlichen Richter nicht mit.
 
-(2) In den Kammern für Angelegenheiten der Sozialversicherung gehört
-je ein ehrenamtlicher Richter dem Kreis der Versicherten und der
-Arbeitgeber an. Sind für Angelegenheiten einzelner Zweige der
-Sozialversicherung eigene Kammern gebildet, so sollen die
-ehrenamtlichen Richter dieser Kammern an dem jeweiligen
+(2) In den Kammern für Angelegenheiten der Sozialversicherung, der
+Grundsicherung für Arbeitsuchende einschließlich der Streitigkeiten
+auf Grund des § 6a des Bundeskindergeldgesetzes und der
+Arbeitsförderung gehört je ein ehrenamtlicher Richter dem Kreis der
+Versicherten und der Arbeitgeber an. Sind für Angelegenheiten
+einzelner Zweige der Sozialversicherung eigene Kammern gebildet, so
+sollen die ehrenamtlichen Richter dieser Kammern an dem jeweiligen
 Versicherungszweig beteiligt sein.
 
 (3) In den Kammern für Angelegenheiten des Vertragsarztrechts wirken
@@ -228,7 +243,12 @@ je ein ehrenamtlicher Richter aus den Kreisen der Krankenkassen und
 der Vertragsärzte, Vertragszahnärzte und Psychotherapeuten mit. In
 Angelegenheiten der Vertragsärzte, Vertragszahnärzte und
 Psychotherapeuten wirken als ehrenamtliche Richter nur Vertragsärzte,
-Vertragszahnärzte und Psychotherapeuten mit.
+Vertragszahnärzte und Psychotherapeuten mit. Als Vertragsärzte,
+Vertragszahnärzte und zur vertragsärztlichen Versorgung zugelassene
+Psychotherapeuten gelten auch bei diesen oder in medizinischen
+Versorgungszentren angestellte Ärzte, Zahnärzte und Psychotherapeuten,
+die Mitglied der Kassenärztlichen oder Kassenzahnärztlichen
+Vereinigung sind.
 
 (4) In den Kammern für Angelegenheiten des sozialen
 Entschädigungsrechts und des Schwerbehindertenrechts wirken je ein
@@ -239,13 +259,10 @@ behinderten Menschen im Sinne des Neunten Buches Sozialgesetzbuch und
 der Versicherten mit; dabei sollen Hinterbliebene von
 Versorgungsberechtigten in angemessener Zahl beteiligt werden.
 
-(5) In den Kammern für Angelegenheiten der Grundsicherung für
-Arbeitsuchende einschließlich der Streitigkeiten aufgrund § 6a des
-Bundeskindergeldgesetzes und der Arbeitsförderung wirken ehrenamtliche
-Richter aus den Vorschlagslisten der Arbeitnehmer und der Arbeitgeber
-mit. In den Kammern für Angelegenheiten der Sozialhilfe und des
-Asylbewerberleistungsgesetzes wirken ehrenamtliche Richter aus den
-Vorschlagslisten der Kreise und der kreisfreien Städte mit.
+(5) In den Kammern für Angelegenheiten der Sozialhilfe einschließlich
+der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch
+und des Asylbewerberleistungsgesetzes wirken ehrenamtliche Richter aus
+den Vorschlagslisten der Kreise und der kreisfreien Städte mit.
 
 
 #### § 13
@@ -272,9 +289,10 @@ weitere ehrenamtliche Richter nur für ein Jahr berufen.
 
 (4) Die Zahl der ehrenamtlichen Richter, die für die Kammern für
 Angelegenheiten der Sozialversicherung, der Arbeitsförderung, der
-Grundsicherung für Arbeitsuchende, der Sozialhilfe und des
-Asylbewerberleistungsgesetzes, des sozialen Entschädigungsrechts und
-des Schwerbehindertenrechts zu berufen sind, bestimmt sich nach
+Grundsicherung für Arbeitsuchende, der Sozialhilfe einschließlich der
+Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und
+des Asylbewerberleistungsgesetzes, des sozialen Entschädigungsrechts
+und des Schwerbehindertenrechts zu berufen sind, bestimmt sich nach
 Landesrecht; die Zahl der ehrenamtlichen Richter für die Kammern für
 Angelegenheiten der Knappschaftsversicherung und für Angelegenheiten
 des Vertragsarztrechts ist je besonders festzusetzen.
@@ -294,13 +312,17 @@ Neunten Buches Sozialgesetzbuch und Versicherten zu berufen.
 #### § 14
 
 (1) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
-Kammern für Angelegenheiten der Sozialversicherung mitwirken, werden
-aus dem Kreis der Versicherten von den Gewerkschaften, von
-selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder
-berufspolitischer Zwecksetzung und von den in Absatz 3 Satz 2
-genannten Vereinigungen sowie aus dem Kreis der Arbeitgeber von
-Vereinigungen von Arbeitgebern und den in § 16 Abs. 4 Nr. 3
-bezeichneten obersten Bundes- oder Landesbehörden aufgestellt.
+Kammern für Angelegenheiten der Sozialversicherung, der Grundsicherung
+für Arbeitsuchende einschließlich der Streitigkeiten auf Grund des §
+6a des Bundeskindergeldgesetzes und der Arbeitsförderung mitwirken,
+werden aus dem Kreis der Versicherten und aus dem Kreis der
+Arbeitgeber aufgestellt. Gewerkschaften, selbständige Vereinigungen
+von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung und
+die in Absatz 3 Satz 2 genannten Vereinigungen stellen die
+Vorschlagslisten für ehrenamtliche Richter aus dem Kreis der
+Versicherten auf. Vereinigungen von Arbeitgebern und die in § 16
+Absatz 4 Nummer 3 bezeichneten obersten Bundes- oder Landesbehörden
+stellen die Vorschlagslisten aus dem Kreis der Arbeitgeber auf.
 
 (2) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
 Kammern für Angelegenheiten des Vertragsarztrechts mitwirken, werden
@@ -311,7 +333,7 @@ aufgestellt.
 (3) Für die Kammern für Angelegenheiten des sozialen
 Entschädigungsrechts und des Schwerbehindertenrechts werden die
 Vorschlagslisten für die mit dem sozialen Entschädigungsrecht oder dem
-Recht der Teilhabe behinderter Menschen vertrauen Personen von den
+Recht der Teilhabe behinderter Menschen vertrauten Personen von den
 Landesversorgungsämtern oder nach Maßgabe des Landesrechts von den
 Stellen aufgestellt, denen deren Aufgaben übertragen worden sind oder
 die für die Durchführung des Bundesversorgungsgesetzes oder des Rechts
@@ -329,15 +351,10 @@ Gewerkschaften und selbständige Vereinigungen von Arbeitnehmern mit
 sozial- oder berufspolitischer Zwecksetzung.
 
 (4) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
-Kammern für Angelegenheiten der Grundsicherung für Arbeitsuchende
-einschließlich der Streitigkeiten aufgrund § 6a des
-Bundeskindergeldgesetzes und der Arbeitsförderung mitwirken, werden
-von den in Absatz 1 Genannten aufgestellt.
-
-(5) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den
-Kammern für Angelegenheiten der Sozialhilfe und des
-Asylbewerberleistungsgesetzes mitwirken, werden von den Kreisen und
-den kreisfreien Städten aufgestellt.
+Kammern für Angelegenheiten der Sozialhilfe einschließlich der
+Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und
+des Asylbewerberleistungsgesetzes mitwirken, werden von den Kreisen
+und den kreisfreien Städten aufgestellt.
 
 
 #### § 15
@@ -355,10 +372,9 @@ vollendet hat.
 
 (3) Ehrenamtlicher Richter aus Kreisen der Versicherten kann auch
 sein, wer arbeitslos ist oder Rente aus eigener Versicherung bezieht.
-Ehrenamtlicher Richter aus den Kreisen der Arbeitnehmer kann auch
-sein, wer arbeitslos ist. Ehrenamtlicher Richter aus Kreisen der
-Arbeitgeber kann auch sein, wer vorübergehend oder zu gewissen Zeiten
-des Jahres keine Arbeitnehmer beschäftigt.
+Ehrenamtlicher Richter aus Kreisen der Arbeitgeber kann auch sein, wer
+vorübergehend oder zu gewissen Zeiten des Jahres keine Arbeitnehmer
+beschäftigt.
 
 (4) Ehrenamtliche Richter aus Kreisen der Arbeitgeber können sein
 
@@ -381,8 +397,9 @@ des Jahres keine Arbeitnehmer beschäftigt.
     zuständigen obersten Bundes- oder Landesbehörde;
 
 
-4.  Personen, denen Prokura oder Generalvollmacht erteilt ist sowie
-    leitende Angestellte;
+4.  Personen, denen Prokura oder Generalvollmacht erteilt ist, oder
+    Angestellte, die regelmäßig für den Arbeitgeber in
+    Personalangelegenheiten tätig werden, sowie leitende Angestellte;
 
 
 5.  Mitglieder und Angestellte von Vereinigungen von Arbeitgebern sowie
@@ -392,6 +409,12 @@ des Jahres keine Arbeitnehmer beschäftigt.
 
 
 
+Ehrenamtlicher Richter aus den Kreisen der Arbeitgeber kann auch sein,
+wer in einem Zeitraum bis zu einem Jahr vor seiner Berufung die
+Voraussetzungen des Satzes 1 erfüllt hat und zum Zeitpunkt der
+Berufung weder eine Rente aus eigener Versicherung bezieht noch
+Versicherter ist, es sei denn, er steht oder stand in einem
+Beschäftigungsverhältnis nach Satz 1 Nummer 3, 4 oder 5.
 
 (5) Bei Sozialgerichten, in deren Bezirk wesentliche Teile der
 Bevölkerung in der Seeschiffahrt beschäftigt sind, können
@@ -532,14 +555,19 @@ Entscheidung ist der ehrenamtliche Richter zu hören.
 #### § 22
 
 (1) Der ehrenamtliche Richter ist von seinem Amt zu entbinden, wenn
-das Berufungsverfahren fehlerhaft war oder das Fehlen einer
+das Berufungsverfahren fehlerhaft war, wenn das Fehlen einer
 Voraussetzung für seine Berufung oder der Eintritt eines
-Ausschließungsgrundes bekannt wird. Er ist seines Amtes zu entheben,
-wenn er seine Amtspflichten grob verletzt. Er kann von seinem Amt
-entbunden werden, wenn eine Voraussetzung für seine Berufung im Laufe
-seiner Amtszeit wegfällt. Soweit die Voraussetzungen für eine
-Amtsentbindung vorliegen, liegt in ihrer Nichtdurchführung kein die
-Zurückverweisung oder Revision begründender Verfahrensmangel.
+Ausschließungsgrundes bekannt wird oder wenn er die zur Ausübung
+seines Amtes erforderlichen geistigen oder körperlichen Fähigkeiten
+nicht mehr besitzt. Er ist seines Amtes zu entheben, wenn er seine
+Amtspflichten grob verletzt. Wenn eine Voraussetzung für seine
+Berufung im Laufe seiner Amtszeit wegfällt, ist er nicht von seinem
+Amt zu entbinden, es sei denn, eine paritätische Besetzung nach § 12
+Absatz 2 bis 4 kann anderenfalls nicht gewährleistet werden; Satz 1
+und 2 sowie § 18 Absatz 3 Satz 2 bleiben unberührt. Soweit die
+Voraussetzungen für eine Amtsentbindung vorliegen, liegt in ihrer
+Nichtdurchführung kein die Zurückverweisung oder Revision begründender
+Verfahrensmangel.
 
 (2) Die Entscheidung trifft die vom Präsidium für jedes Geschäftsjahr
 im Voraus bestimmte Kammer. Vor der Entscheidung ist der ehrenamtliche
@@ -613,12 +641,15 @@ Entscheidungen der Sozialgerichte.
 
 (2) Die Landessozialgerichte entscheiden im ersten Rechtszug über
 
-1.  Klagen gegen Entscheidungen der Landesschiedsämter und gegen
-    Beanstandungen von Entscheidungen der Landesschiedsämter nach dem
-    Fünften Buch Sozialgesetzbuch, gegen Entscheidungen der Schiedsstellen
-    nach § 120 Abs. 4 des Fünften Buches Sozialgesetzbuch, der
-    Schiedsstelle nach § 76 des Elften Buches Sozialgesetzbuch und der
-    Schiedsstellen nach § 80 des Zwölften Buches Sozialgesetzbuch,
+1.  Klagen gegen Entscheidungen der Landesschiedsämter sowie der
+    sektorenübergreifenden Schiedsgremien auf Landesebene und gegen
+    Beanstandungen von Entscheidungen der Landesschiedsämter und der
+    sektorenübergreifenden Schiedsgremien auf Landesebene nach dem Fünften
+    Buch Sozialgesetzbuch, gegen Entscheidungen der Schiedsstellen nach §
+    120 Absatz 4 des Fünften Buches Sozialgesetzbuch, der Schiedsstellen
+    nach § 133 des Neunten Buches Sozialgesetzbuch, der Schiedsstelle nach
+    § 76 des Elften Buches Sozialgesetzbuch und der Schiedsstellen nach §
+    81 des Zwölften Buches Sozialgesetzbuch,
 
 
 2.  Aufsichtsangelegenheiten gegenüber Trägern der Sozialversicherung und
@@ -632,7 +663,10 @@ Entscheidungen der Sozialgerichte.
     des Zweiten Buches Sozialgesetzbuch,
 
 
-4.  Anträge nach § 55a.
+4.  Anträge nach § 55a,
+
+
+5.  Streitigkeiten nach § 4a Absatz 7 des Fünften Buches Sozialgesetzbuch.
 
 
 
@@ -640,10 +674,12 @@ Entscheidungen der Sozialgerichte.
 (3) Das Landessozialgericht Nordrhein-Westfalen entscheidet im ersten
 Rechtszug über
 
-1.  Streitigkeiten zwischen gesetzlichen Krankenkassen oder ihren
-    Verbänden und dem Bundesversicherungsamt betreffend den
-    Risikostrukturausgleich, die Anerkennung von strukturierten
-    Behandlungsprogrammen und die Verwaltung des Gesundheitsfonds,
+1.  Streitigkeiten zwischen gesetzlichen Krankenkassen untereinander
+    betreffend den Risikostrukturausgleich sowie zwischen gesetzlichen
+    Krankenkassen oder ihren Verbänden und dem Bundesamt für Soziale
+    Sicherung betreffend den Risikostrukturausgleich, die Anerkennung von
+    strukturierten Behandlungsprogrammen und die Verwaltung des
+    Gesundheitsfonds,
 
 
 2.  Streitigkeiten betreffend den Finanzausgleich der gesetzlichen
@@ -651,7 +687,12 @@ Rechtszug über
 
 
 3.  Streitigkeiten betreffend den Ausgleich unter den gewerblichen
-    Berufsgenossenschaften nach dem Siebten Buch Sozialgesetzbuch.
+    Berufsgenossenschaften nach dem Siebten Buch Sozialgesetzbuch,
+
+
+4.  Streitigkeiten über Entscheidungen des Bundeskartellamts, die die
+    freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften
+    Buches Sozialgesetzbuch betreffen.
 
 
 
@@ -659,10 +700,12 @@ Rechtszug über
 (4) Das Landessozialgericht Berlin-Brandenburg entscheidet im ersten
 Rechtszug über
 
-1.  Klagen gegen die Entscheidung der gemeinsamen Schiedsämter nach § 89
-    Abs. 4 des Fünften Buches Sozialgesetzbuch und des Bundesschiedsamtes
-    nach § 89 Abs. 7 des Fünften Buches Sozialgesetzbuch sowie der
-    erweiterten Bewertungsausschüsse nach § 87 Abs. 4 des Fünften Buches
+1.  Klagen gegen die Entscheidung der Bundesschiedsämter nach § 89 Absatz
+    2 des Fünften Buches Sozialgesetzbuch, des weiteren Schiedsamtes auf
+    Bundesebene nach § 89 Absatz 12 des Fünften Buches Sozialgesetzbuch,
+    des sektorenübergreifenden Schiedsgremiums auf Bundesebene nach § 89a
+    des Fünften Buches Sozialgesetzbuch sowie der erweiterten
+    Bewertungsausschüsse nach § 87 Abs. 4 des Fünften Buches
     Sozialgesetzbuch, soweit die Klagen von den Einrichtungen erhoben
     werden, die diese Gremien bilden,
 
@@ -671,7 +714,8 @@ Rechtszug über
     § 87 Abs. 6 des Fünften Buches Sozialgesetzbuch gegenüber den
     Bewertungsausschüssen und den erweiterten Bewertungsausschüssen sowie
     gegen Beanstandungen des Bundesministeriums für Gesundheit gegenüber
-    den Bundesschiedsämtern,
+    den Bundesschiedsämtern und dem sektorenübergreifenden Schiedsgremium
+    auf Bundesebene,
 
 
 3.  Klagen gegen Entscheidungen und Richtlinien des Gemeinsamen
@@ -679,8 +723,12 @@ Rechtszug über
     Klagen in Aufsichtsangelegenheiten gegenüber dem Gemeinsamen
     Bundesausschuss, Klagen gegen die Festsetzung von Festbeträgen durch
     die Spitzenverbände der Krankenkassen oder den Spitzenverband Bund der
-    Krankenkassen sowie Klagen gegen Entscheidungen der Schiedsstellen
-    nach den §§ 129 und 130b des Fünften Buches Sozialgesetzbuch.
+    Krankenkassen, Klagen gegen Entscheidungen der Schiedsstellen nach den
+    §§ 129, 130b und 134 des Fünften Buches Sozialgesetzbuch sowie Klagen
+    gegen Entscheidungen des Schlichtungsausschusses Bund nach § 19 des
+    Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom
+    10\. April 1991 (BGBl. I S. 886), das zuletzt durch Artikel 3 des
+    Gesetzes vom 14. Dezember 2019 (BGBl. I S. 2789) geändert worden ist.
 
 
 4.  (weggefallen)
@@ -708,15 +756,16 @@ bestimmt.
 der Sozialversicherung, der Arbeitsförderung einschließlich der
 übrigen Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der
 Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe
-und des Asylbewerberleistungsgesetzes sowie für Angelegenheiten des
-sozialen Entschädigungsrechts und des Schwerbehindertenrechts
-gebildet. Für Angelegenheiten der Knappschaftsversicherung
-einschließlich der Unfallversicherung für den Bergbau sowie für
-Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2)
-kann jeweils ein eigener Senat gebildet werden.
+einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches
+Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für
+Angelegenheiten des sozialen Entschädigungsrechts und des
+Schwerbehindertenrechts gebildet. Für Angelegenheiten der
+Knappschaftsversicherung einschließlich der Unfallversicherung für den
+Bergbau sowie für Verfahren wegen eines überlangen Gerichtsverfahrens
+(§ 202 Satz 2) kann jeweils ein eigener Senat gebildet werden.
 
 (2) Für die Angelegenheiten des Vertragsarztrechts und für
-Antragsverfahren nach § 55a ist ein eigener Senat zu bilden.
+Antragsverfahren nach § 55a ist jeweils ein eigener Senat zu bilden.
 
 (3) Die beteiligten Länder können die Ausdehnung des Bezirks eines
 Senats auf das Gebiet oder auf Gebietsteile mehrerer Länder
@@ -921,8 +970,10 @@ auf Vorschlag der obersten Verwaltungsbehörden der Länder sowie der in
 Bundesgebiet erstrecken, berufen.
 
 (4) Die ehrenamtlichen Richter für die Senate für Angelegenheiten der
-Sozialhilfe und des Asylbewerberleistungsgesetzes werden auf Vorschlag
-der Bundesvereinigung der kommunalen Spitzenverbände berufen.
+Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten
+Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes werden
+auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände
+berufen.
 
 
 #### § 47
@@ -991,14 +1042,15 @@ ehrenamtlichen Richter beschließt.
     Gesetze die entsprechende Anwendung dieser Vorschriften vorsehen,
 
 
-6a. in Angelegenheiten der Sozialhilfe und des
+6a. in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten
+    nach Teil 2 des Neunten Buches Sozialgesetzbuch und des
     Asylbewerberleistungsgesetzes,
 
 
 7.  bei der Feststellung von Behinderungen und ihrem Grad sowie weiterer
     gesundheitlicher Merkmale, ferner der Ausstellung, Verlängerung,
-    Berichtigung und Einziehung von Ausweisen nach § 69 des Neunten Buches
-    Sozialgesetzbuch,
+    Berichtigung und Einziehung von Ausweisen nach § 152 des Neunten
+    Buches Sozialgesetzbuch,
 
 
 8.  die aufgrund des Aufwendungsausgleichsgesetzes entstehen,
@@ -1013,11 +1065,13 @@ ehrenamtlichen Richter beschließt.
 
 
 (2) Die Gerichte der Sozialgerichtsbarkeit entscheiden auch über
-privatrechtliche Streitigkeiten in Angelegenheiten der gesetzlichen
-Krankenversicherung, auch soweit durch diese Angelegenheiten Dritte
-betroffen werden. Satz 1 gilt für die soziale Pflegeversicherung und
-die private Pflegeversicherung (Elftes Buch Sozialgesetzbuch)
-entsprechend.
+privatrechtliche Streitigkeiten in Angelegenheiten der Zulassung von
+Trägern und Maßnahmen durch fachkundige Stellen nach dem Fünften
+Kapitel des Dritten Buches Sozialgesetzbuch und in Angelegenheiten der
+gesetzlichen Krankenversicherung, auch soweit durch diese
+Angelegenheiten Dritte betroffen werden. Satz 1 gilt für die soziale
+Pflegeversicherung und die private Pflegeversicherung (Elftes Buch
+Sozialgesetzbuch) entsprechend.
 
 (3) Von der Zuständigkeit der Gerichte der Sozialgerichtsbarkeit nach
 den Absätzen 1 und 2 ausgenommen sind Streitigkeiten in Verfahren nach
@@ -1142,6 +1196,15 @@ verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im
 Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
 
+#### § 56a
+
+Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur
+gleichzeitig mit den gegen die Sachentscheidung zulässigen
+Rechtsbehelfen geltend gemacht werden. Dies gilt nicht, wenn
+behördliche Verfahrenshandlungen vollstreckt werden können oder gegen
+einen Nichtbeteiligten ergehen.
+
+
 #### § 57
 
 (1) Örtlich zuständig ist das Sozialgericht, in dessen Bezirk der
@@ -1190,6 +1253,14 @@ Bezirk die zur Entscheidung berufene Behörde ihren Sitz hat.
 örtlich zuständig, in dessen Bezirk die Körperschaft, die die
 Rechtsvorschrift erlassen hat, ihren Sitz hat.
 
+(7) In Angelegenheiten nach § 7a des Vierten Buches Sozialgesetzbuch
+ist das Sozialgericht örtlich zuständig, in dessen Bezirk der
+Auftraggeber seinen Sitz oder in Ermangelung dessen seinen Wohnsitz
+hat. Hat dieser seinen Sitz oder in Ermangelung dessen seinen Wohnsitz
+im Ausland, ist das Sozialgericht örtlich zuständig, in dessen Bezirk
+der Auftragnehmer seinen Wohnsitz oder in Ermangelung dessen seinen
+Aufenthaltsort hat.
+
 
 #### § 57a
 
@@ -1204,15 +1275,15 @@ Krankenversicherung ist das Sozialgericht zuständig, in dessen Bezirk
 die Kassenärztliche Vereinigung oder die Kassenzahnärztliche
 Vereinigung ihren Sitz hat.
 
-(3) In Angelegenheiten, die Entscheidungen oder Verträge auf
-Landesebene betreffen, ist – soweit das Landesrecht nichts
-Abweichendes bestimmt – das Sozialgericht zuständig, in dessen Bezirk
-die Landesregierung ihren Sitz hat.
+(3) Sind Entscheidungen oder Verträge auf Landesebene Streitgegenstand
+des Verfahrens, ist – soweit das Landesrecht nichts Abweichendes
+bestimmt – das Sozialgericht zuständig, in dessen Bezirk die
+Landesregierung ihren Sitz hat.
 
-(4) In Angelegenheiten, die Entscheidungen oder Verträge auf
-Bundesebene betreffen, ist das Sozialgericht zuständig, in dessen
-Bezirk die Kassenärztliche Bundesvereinigung oder die
-Kassenzahnärztliche Bundesvereinigung ihren Sitz hat.
+(4) Sind Entscheidungen oder Verträge auf Bundesebene Streitgegenstand
+des Verfahrens, ist das Sozialgericht zuständig, in dessen Bezirk die
+Kassenärztliche Bundesvereinigung oder die Kassenzahnärztliche
+Bundesvereinigung ihren Sitz hat.
 
 
 #### § 57b
@@ -1245,7 +1316,8 @@ durch das gemeinsam nächsthöhere Gericht bestimmt,
     zuständig ist, sich rechtskräftig für unzuständig erklärt haben,
 
 
-5.  wenn eine örtliche Zuständigkeit nach § 57 nicht gegeben ist.
+5.  wenn eine örtliche Zuständigkeit weder nach den §§ 57 bis 57b noch
+    nach einer anderen gesetzlichen Zuständigkeitsbestimmung gegeben ist.
 
 
 
@@ -1279,7 +1351,8 @@ wird.
 ##### § 60
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
-die §§ 41 bis 49 der Zivilprozeßordnung entsprechend.
+die §§ 41 bis 46 Absatz 1 und die §§ 47 bis 49 der Zivilprozeßordnung
+entsprechend.
 
 (2) Von der Ausübung des Amtes als Richter ist auch ausgeschlossen,
 wer bei dem vorausgegangenen Verwaltungsverfahren mitgewirkt hat.
@@ -1316,7 +1389,7 @@ nur, wenn es ausdrücklich vorgeschrieben ist. Terminbestimmungen und
 Ladungen sind bekannt zu geben.
 
 (2) Zugestellt wird von Amts wegen nach den Vorschriften der
-Zivilprozessordnung. Die §§ 174, 178 Abs. 1 Nr. 2 der
+Zivilprozessordnung. §§ 173, 175 und 178 Abs. 1 Nr. 2 der
 Zivilprozessordnung sind entsprechend anzuwenden auf die nach § 73
 Abs. 2 Satz 2 Nr. 3 bis 9 zur Prozessvertretung zugelassenen Personen.
 
@@ -1351,40 +1424,89 @@ der vorigen Frist an berechnet.
 
 ##### § 65a
 
-(1) Die Beteiligten können dem Gericht elektronische Dokumente
-übermitteln, soweit dies für den jeweiligen Zuständigkeitsbereich
-durch Rechtsverordnung der Bundesregierung oder der Landesregierungen
-zugelassen worden ist. Die Rechtsverordnung bestimmt den Zeitpunkt,
-von dem an Dokumente an ein Gericht elektronisch übermittelt werden
-können, sowie die Art und Weise, in der elektronische Dokumente
-einzureichen sind. Für Dokumente, die einem schriftlich zu
-unterzeichnenden Schriftstück gleichstehen, ist eine qualifizierte
-elektronische Signatur nach § 2 Nr. 3 des Signaturgesetzes
-vorzuschreiben. Neben der qualifizierten elektronischen Signatur kann
-auch ein anderes sicheres Verfahren zugelassen werden, das die
-Authentizität und die Integrität des übermittelten elektronischen
-Dokuments sicherstellt. Die Landesregierungen können die Ermächtigung
-auf die für die Sozialgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Zulassung der elektronischen
-Übermittlung kann auf einzelne Gerichte oder Verfahren beschränkt
-werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Beteiligten sowie
+schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
+Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze
+2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Ein elektronisches Dokument ist dem Gericht zugegangen, wenn es in
-der nach Absatz 1 Satz 1 bestimmten Art und Weise übermittelt worden
-ist und wenn die für den Empfang bestimmte Einrichtung es
-aufgezeichnet hat. Die Vorschriften dieses Gesetzes über die Beifügung
-von Abschriften für die übrigen Beteiligten finden keine Anwendung.
-Genügt das Dokument nicht den Anforderungen, ist dies dem Absender
-unter Angabe der für das Gericht geltenden technischen
-Rahmenbedingungen unverzüglich mitzuteilen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+durch das Gericht.
 
-(3) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
+die vorbereitenden Schriftsätzen beigefügt sind.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
+    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+
+
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
+    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
+    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
+    Postfach und der elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des Gerichts,
+
+
+5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Gerichts,
+
+
+6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen. Die Vorschriften dieses Gesetzes über die
+Beifügung von Abschriften für die übrigen Beteiligten finden keine
+Anwendung.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt
+als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der
+Absender es unverzüglich in einer für das Gericht zur Bearbeitung
+geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst
+eingereichten Dokument inhaltlich übereinstimmt.
+
+(7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
 den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt
 dieser Form die Aufzeichnung als elektronisches Dokument, wenn die
 verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen
-und das Dokument mit einer qualifizierten elektronischen Signatur nach
-§ 2 Nr. 3 des Signaturgesetzes versehen.
+und das Dokument mit einer qualifizierten elektronischen Signatur
+versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches
+Dokument, in welches das handschriftlich unterzeichnete Schriftstück
+gemäß § 65b Absatz 6 Satz 4 übertragen worden ist.
 
 
 ##### § 65b
@@ -1398,29 +1520,105 @@ Führung und Verwahrung der elektronischen Akten festzulegen. Die
 Landesregierungen können die Ermächtigung auf die für die
 Sozialgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden. Die Rechtsverordnung der Bundesregierung
-bedarf nicht der Zustimmung des Bundesrates.
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren die Prozessakten elektronisch zu führen
+sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
+Zustimmung des Bundesrates.
 
-(2) Dokumente, die nicht der Form entsprechen, in der die Akte geführt
-wird, sind in die entsprechende Form zu übertragen und in dieser Form
-zur Akte zu nehmen, soweit die Rechtsverordnung nach Absatz 1 nichts
-anderes bestimmt.
+(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Verwahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+auf die für die Sozialgerichtsbarkeit zuständigen obersten
+Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
+bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Die Originaldokumente sind mindestens bis zum rechtskräftigen
-Abschluss des Verfahrens aufzubewahren.
+(2) Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
+dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
+unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
+unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern;
+der Speicherort ist aktenkundig zu machen.
 
-(4) Ist ein in Papierform eingereichtes Dokument in ein elektronisches
-Dokument übertragen worden, muss dieses den Vermerk enthalten, wann
-und durch wen die Übertragung vorgenommen worden ist. Ist ein
-elektronisches Dokument in die Papierform überführt worden, muss der
-Ausdruck den Vermerk enthalten, welches Ergebnis die
-Integritätsprüfung des Dokuments ausweist, wen die Signaturprüfung als
-Inhaber der Signatur ausweist und welchen Zeitpunkt die
-Signaturprüfung für die Anbringung der Signatur ausweist.
+(3) Wird das elektronische Dokument auf einem sicheren
+Übermittlungsweg eingereicht, so ist dies aktenkundig zu machen.
 
-(5) Dokumente, die nach Absatz 2 hergestellt sind, sind für das
-Verfahren zugrunde zu legen, soweit kein Anlass besteht, an der
-Übereinstimmung mit dem eingereichten Dokument zu zweifeln.
+(4) Ist das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist.
+
+
+
+
+(5) Ein eingereichtes elektronisches Dokument kann im Falle von Absatz
+2 nach Ablauf von sechs Monaten gelöscht werden.
+
+(6) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
+
+
+##### § 65c Formulare; Verordnungsermächtigung
+
+Das Bundesministerium für Arbeit und Soziales kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 65a Absatz 3 auch durch Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
+5 des Aufenthaltsgesetzes erfolgen kann.
+
+
+##### § 65d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
+einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
+elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
+diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
+Übermittlungsweg nach § 65a Absatz 4 Satz 1 Nummer 2 zur Verfügung
+steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+nicht möglich, bleibt die Übermittlung nach den allgemeinen
+Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
+Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
+Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 66
@@ -1533,7 +1731,7 @@ Beteiligten oder seines gesetzlichen Vertreters auch zulässig, wenn
 der Aufenthaltsort eines Beteiligten oder seines gesetzlichen
 Vertreters vom Sitz des Gerichts weit entfernt ist.
 
-(3) - (5)
+(3) bis (5) (weggefallen)
 
 
 ##### § 73
@@ -1566,8 +1764,9 @@ vertretungsbefugt nur
     einer entgeltlichen Tätigkeit steht,
 
 
-3.  Rentenberater im Umfang ihrer Befugnisse nach § 10 Abs. 1 Satz 1 Nr. 2
-    des Rechtsdienstleistungsgesetzes,
+3.  Rentenberater im Umfang ihrer Befugnisse nach § 10 Absatz 1 Satz 1
+    Nummer 2, auch in Verbindung mit Satz 2, des
+    Rechtsdienstleistungsgesetzes,
 
 
 4.  Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer und vereidigte
@@ -1673,16 +1872,59 @@ oder berichtigt wird.
 ##### § 73a
 
 (1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe
-gelten entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe
-bewilligt ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht
-Gebrauch, wird auf Antrag des Beteiligten der beizuordnende
-Rechtsanwalt vom Gericht ausgewählt.
+mit Ausnahme des § 127 Absatz 2 Satz 2 der Zivilprozeßordnung gelten
+entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe bewilligt
+ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht Gebrauch,
+wird auf Antrag des Beteiligten der beizuordnende Rechtsanwalt vom
+Gericht ausgewählt. Einem Beteiligten, dem Prozesskostenhilfe
+bewilligt worden ist, kann auch ein Steuerberater,
+Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder
+Rentenberater beigeordnet werden. Die Vergütung richtet sich nach den
+für den beigeordneten Rechtsanwalt geltenden Vorschriften des
+Rechtsanwaltsvergütungsgesetzes.
 
 (2) Prozeßkostenhilfe wird nicht bewilligt, wenn der Beteiligte durch
 einen Bevollmächtigten im Sinne des § 73 Abs. 2 Satz 2 Nr. 5 bis 9
 vertreten ist.
 
 (3) § 109 Abs. 1 Satz 2 bleibt unberührt.
+
+(4) Die Prüfung der persönlichen und wirtschaftlichen Verhältnisse
+nach den §§ 114 bis 116 der Zivilprozessordnung einschließlich der in
+§ 118 Absatz 2 der Zivilprozessordnung bezeichneten Maßnahmen, der
+Beurkundung von Vergleichen nach § 118 Absatz 1 Satz 3 der
+Zivilprozessordnung und der Entscheidungen nach § 118 Absatz 2 Satz 4
+der Zivilprozessordnung obliegt dem Urkundsbeamten der Geschäftsstelle
+des jeweiligen Rechtszugs, wenn der Vorsitzende ihm das Verfahren
+insoweit überträgt. Liegen die Voraussetzungen für die Bewilligung der
+Prozesskostenhilfe hiernach nicht vor, erlässt der Urkundsbeamte die
+den Antrag ablehnende Entscheidung; anderenfalls vermerkt der
+Urkundsbeamte in den Prozessakten, dass dem Antragsteller nach seinen
+persönlichen und wirtschaftlichen Verhältnissen Prozesskostenhilfe
+gewährt werden kann und in welcher Höhe gegebenenfalls Monatsraten
+oder Beträge aus dem Vermögen zu zahlen sind.
+
+(5) Dem Urkundsbeamten obliegen im Verfahren über die
+Prozesskostenhilfe ferner die Bestimmung des Zeitpunkts für die
+Einstellung und eine Wiederaufnahme der Zahlungen nach § 120 Absatz 3
+der Zivilprozessordnung sowie die Änderung und die Aufhebung der
+Bewilligung der Prozesskostenhilfe nach den §§ 120a und 124 Absatz 1
+Nummer 2 bis 5 der Zivilprozessordnung.
+
+(6) Der Vorsitzende kann Aufgaben nach den Absätzen 4 und 5 zu jedem
+Zeitpunkt an sich ziehen. § 5 Absatz 1 Nummer 1, die §§ 6, 7, 8 Absatz
+1 bis 4 und § 9 des Rechtspflegergesetzes gelten entsprechend mit der
+Maßgabe, dass an die Stelle des Rechtspflegers der Urkundsbeamte der
+Geschäftsstelle tritt.
+
+(7) § 155 Absatz 4 gilt entsprechend.
+
+(8) Gegen Entscheidungen des Urkundsbeamten nach den Absätzen 4 und 5
+kann binnen eines Monats nach Bekanntgabe das Gericht angerufen
+werden, das endgültig entscheidet.
+
+(9) Durch Landesgesetz kann bestimmt werden, dass die Absätze 4 bis 8
+für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 ##### § 74
@@ -1702,9 +1944,11 @@ Bundesrepublik Deutschland auf Antrag beizuladen.
 daß die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann
 oder ergibt sich im Verfahren, daß bei der Ablehnung des Anspruchs ein
 anderer Versicherungsträger, ein Träger der Grundsicherung für
-Arbeitsuchende, ein Träger der Sozialhilfe oder in Angelegenheiten des
-sozialen Entschädigungsrechts ein Land als leistungspflichtig in
-Betracht kommt, so sind sie beizuladen.
+Arbeitsuchende, ein Träger der Sozialhilfe einschließlich der
+Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, ein Träger
+der Leistungen nach dem Asylbewerberleistungsgesetz oder in
+Angelegenheiten des sozialen Entschädigungsrechts ein Land als
+leistungspflichtig in Betracht kommt, so sind sie beizuladen.
 
 (2a) Kommt nach Absatz 2 erste Alternative die Beiladung von mehr als
 20 Personen in Betracht, kann das Gericht durch Beschluss anordnen,
@@ -1721,6 +1965,17 @@ Fristversäumnis gilt § 67 entsprechend. Das Gericht soll Personen, die
 von der Entscheidung erkennbar in besonderem Maße betroffen werden,
 auch ohne Antrag beiladen.
 
+(2b) In Verfahren gegen Entscheidungen nach § 7a Absatz 1 Satz 3, §
+28h Absatz 2 und § 28p Absatz 1 Satz 5 des Vierten Buches
+Sozialgesetzbuch sind andere Versicherungsträger abweichend von Absatz
+2 nur auf deren Antrag beizuladen. Das Gericht benachrichtigt die
+anderen Versicherungsträger über die Erhebung einer entsprechenden
+Klage und über die Möglichkeit der Beiladung auf Antrag. Das Gericht
+setzt den anderen Versicherungsträgern für die Antragstellung eine
+angemessene Frist. Für die Wiedereinsetzung in den vorigen Stand wegen
+Fristversäumnis gilt § 67 entsprechend. Das Gericht kann
+Versicherungsträger auch von Amts wegen beiladen.
+
 (3) Der Beiladungsbeschluß ist allen Beteiligten zuzustellen. Dabei
 sollen der Stand der Sache und der Grund der Beiladung angegeben
 werden. Der Beschluß, den Dritten beizuladen, ist unanfechtbar.
@@ -1731,9 +1986,11 @@ Verfahrenshandlungen wirksam vornehmen. Abweichende Sachanträge kann
 er nur dann stellen, wenn eine Beiladung nach Absatz 2 vorliegt.
 
 (5) Ein Versicherungsträger, ein Träger der Grundsicherung für
-Arbeitsuchende, ein Träger der Sozialhilfe oder in Angelegenheiten des
-sozialen Entschädigungsrechts ein Land kann nach Beiladung verurteilt
-werden.
+Arbeitsuchende, ein Träger der Sozialhilfe einschließlich der
+Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, ein Träger
+der Leistungen nach dem Asylbewerberleistungsgesetz oder in
+Angelegenheiten des sozialen Entschädigungsrechts ein Land kann nach
+Beiladung verurteilt werden.
 
 
 #### Zweiter Unterabschnitt - Beweissicherungsverfahren
@@ -1792,7 +2049,7 @@ Eines Vorverfahrens bedarf es nicht, wenn
 
 
 
-(2)
+(2) (weggefallen)
 
 (3) Für die Verpflichtungsklage gilt Absatz 1 entsprechend, wenn der
 Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
@@ -1810,10 +2067,11 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 ##### § 84
 
 (1) Der Widerspruch ist binnen eines Monats, nachdem der
-Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich
-oder zur Niederschrift bei der Stelle einzureichen, die den
-Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im
-Ausland drei Monate.
+Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
+in elektronischer Form nach § 36a Absatz 2 des Ersten Buches
+Sozialgesetzbuch oder zur Niederschrift bei der Stelle einzureichen,
+die den Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe
+im Ausland drei Monate.
 
 (2) Die Frist zur Erhebung des Widerspruchs gilt auch dann als
 gewahrt, wenn die Widerspruchsschrift bei einer anderen inländischen
@@ -1861,7 +2119,9 @@ Widerspruchsbescheid
 
 
 Abweichend von Satz 1 Nr. 1 ist in Angelegenheiten nach dem Zweiten
-Buch Sozialgesetzbuch der zuständige Träger, der den dem Widerspruch
+Buch Sozialgesetzbuch und, soweit Landesrecht nichts Abweichendes
+vorsieht, in Angelegenheiten nach dem Vierten Kapitel des Zwölften
+Buches Sozialgesetzbuch der zuständige Träger, der den dem Widerspruch
 zugrunde liegenden Verwaltungsakt erlassen hat, auch für die
 Entscheidung über den Widerspruch zuständig; § 44b Abs. 1 Satz 3 des
 Zweiten Buches Sozialgesetzbuch bleibt unberührt. Vorschriften, nach
@@ -1997,8 +2257,9 @@ Zustands in Bezug auf ein streitiges Rechtsverhältnis zulässig, wenn
 eine solche Regelung zur Abwendung wesentlicher Nachteile nötig
 erscheint. Das Gericht der Hauptsache ist das Gericht des ersten
 Rechtszugs und, wenn die Hauptsache im Berufungsverfahren anhängig
-ist, das Berufungsgericht. Die §§ 920, 921, 923, 926, 928 bis 932,
-938, 939 und 945 der Zivilprozessordnung gelten entsprechend.
+ist, das Berufungsgericht. Die §§ 920, 921, 923, 926, 928, 929 Absatz
+1 und 3, die §§ 930 bis 932, 938, 939 und 945 der Zivilprozessordnung
+gelten entsprechend.
 
 (3) Die Anträge nach den Absätzen 1 und 2 sind schon vor Klageerhebung
 zulässig.
@@ -2051,8 +2312,8 @@ Verwaltungsakts begehrt wird.
 ##### § 90
 
 Die Klage ist bei dem zuständigen Gericht der Sozialgerichtsbarkeit
-schriftlich oder zur Niederschrift des Urkundsbeamten der
-Geschäftsstelle zu erheben.
+schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
+zu erheben.
 
 
 ##### § 91
@@ -2077,8 +2338,8 @@ Angabe der Behörde. Die Klage soll einen bestimmten Antrag enthalten
 und von dem Kläger oder einer zu seiner Vertretung befugten Person mit
 Orts- und Zeitangabe unterzeichnet sein. Die zur Begründung dienenden
 Tatsachen und Beweismittel sollen angegeben, die angefochtene
-Verfügung und der Widerspruchsbescheid sollen in Urschrift oder in
-Abschrift beigefügt werden.
+Verfügung und der Widerspruchsbescheid sollen in Abschrift beigefügt
+werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der
 Vorsitzende den Kläger zu der erforderlichen Ergänzung innerhalb einer
@@ -2091,18 +2352,19 @@ Wiedereinsetzung in den vorigen Stand gilt § 67 entsprechend.
 ##### § 93
 
 Der Klageschrift, den sonstigen Schriftsätzen und nach Möglichkeit den
-Unterlagen sind vorbehaltlich des § 65a Abs. 2 Satz 2 Abschriften für
-die Beteiligten beizufügen. Sind die erforderlichen Abschriften nicht
-eingereicht, so fordert das Gericht sie nachträglich an oder fertigt
-sie selbst an. Die Kosten für die Anfertigung können von dem Kläger
-eingezogen werden.
+Unterlagen sind vorbehaltlich des § 65a Absatz 5 Satz 3 Abschriften
+für die Beteiligten beizufügen. Sind die erforderlichen Abschriften
+nicht eingereicht, so fordert das Gericht sie nachträglich an oder
+fertigt sie selbst an. Die Kosten für die Anfertigung können von dem
+Kläger eingezogen werden.
 
 
 ##### § 94
 
-(1) Durch die Erhebung der Klage wird die Streitsache rechtshängig.
-
-(2) u. (3)
+Durch die Erhebung der Klage wird die Streitsache rechtshängig. In
+Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
+wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst
+mit Zustellung der Klage rechtshängig.
 
 
 ##### § 95
@@ -2178,10 +2440,14 @@ mit den gegen ihn vorgebrachten Verteidigungsmitteln zusammenhängt.
 ##### § 101
 
 (1) Um den geltend gemachten Anspruch vollständig oder zum Teil zu
-erledigen, können die Beteiligten zur Niederschrift des Gerichts oder
-des Vorsitzenden oder des beauftragten oder ersuchten Richters einen
+erledigen, können die Beteiligten zu Protokoll des Gerichts oder des
+Vorsitzenden oder des beauftragten oder ersuchten Richters einen
 Vergleich schließen, soweit sie über den Gegenstand der Klage verfügen
-können.
+können. Ein gerichtlicher Vergleich kann auch dadurch geschlossen
+werden, dass die Beteiligten einen in der Form eines Beschlusses
+ergangenen Vorschlag des Gerichts, des Vorsitzenden oder des
+Berichterstatters schriftlich oder durch Erklärung zu Protokoll in der
+mündlichen Verhandlung gegenüber dem Gericht annehmen.
 
 (2) Das angenommene Anerkenntnis des geltend gemachten Anspruchs
 erledigt insoweit den Rechtsstreit in der Hauptsache.
@@ -2216,17 +2482,22 @@ Beweisanträge der Beteiligten nicht gebunden.
 ##### § 104
 
 Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen
-Beteiligten. Zugleich mit der Zustellung oder Mitteilung ergeht die
-Aufforderung, sich schriftlich zu äußern; § 90 gilt entsprechend. Für
-die Äußerung kann eine Frist gesetzt werden, die nicht kürzer als ein
-Monat sein soll. Die Aufforderung muß den Hinweis enthalten, daß auch
-verhandelt und entschieden werden kann, wenn die Äußerung nicht
-innerhalb der Frist eingeht. Soweit das Gericht die Übersendung von
-Verwaltungsakten anfordert, soll diese binnen eines Monats nach
-Eingang der Aufforderung bei dem zuständigen Verwaltungsträger
-erfolgen. Die Übersendung einer beglaubigten Abschrift steht der
-Übersendung der Originalverwaltungsakten gleich, sofern nicht das
-Gericht die Übersendung der Originalverwaltungsakten wünscht.
+Beteiligten; in Verfahren nach dem Siebzehnten Titel des
+Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens
+ist die Klage zuzustellen. Zugleich mit der Zustellung oder Mitteilung
+ergeht die Aufforderung, sich schriftlich zu äußern; § 90 gilt
+entsprechend. Für die Äußerung kann eine Frist gesetzt werden, die
+nicht kürzer als ein Monat sein soll. Die Aufforderung muß den Hinweis
+enthalten, daß auch verhandelt und entschieden werden kann, wenn die
+Äußerung nicht innerhalb der Frist eingeht. Soweit das Gericht die
+Übersendung von Verwaltungsakten anfordert, soll diese binnen eines
+Monats nach Eingang der Aufforderung bei dem zuständigen
+Verwaltungsträger erfolgen. Die Übersendung einer beglaubigten
+Abschrift oder einer beglaubigten elektronischen Abschrift, die mit
+einer qualifizierten elektronischen Signatur des zuständigen
+Verwaltungsträgers versehen ist, steht der Übersendung der
+Originalverwaltungsakten gleich, sofern nicht das Gericht die
+Übersendung der Originalverwaltungsakten wünscht.
 
 
 ##### § 105
@@ -2341,7 +2612,7 @@ den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 ##### § 107
 
 Den Beteiligten ist nach Anordnung des Vorsitzenden entweder eine
-Abschrift der Niederschrift der Beweisaufnahme oder deren Inhalt
+Abschrift des Protokolls der Beweisaufnahme oder deren Inhalt
 mitzuteilen.
 
 
@@ -2378,6 +2649,29 @@ nach Lage der Akten entschieden werden kann.
 abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
 (3) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
+
+
+##### § 110a
+
+(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und
+Beiständen auf Antrag oder von Amts wegen gestatten, sich während
+einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
+Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
+Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+
+(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge oder
+ein Sachverständiger während einer Vernehmung an einem anderen Ort
+aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an diesen Ort
+und in das Sitzungszimmer übertragen. Ist Beteiligten,
+Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden,
+sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an
+diesen Ort übertragen.
+
+(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
+Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+
+(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
+106 Absatz 3 Nummer 7).
 
 
 ##### § 111
@@ -2514,10 +2808,10 @@ Beweiserhebung nicht einen besonderen Termin erfordert.
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind auf die
 Beweisaufnahme die §§ 358 bis 363, 365 bis 378, 380 bis 386, 387 Abs.
-1 und 2, §§ 388 bis 390, 392 bis 444, 478 bis 484 der
-Zivilprozeßordnung entsprechend anzuwenden. Die Entscheidung über die
-Rechtmäßigkeit der Weigerung nach § 387 der Zivilprozeßordnung ergeht
-durch Beschluß.
+1 und 2, §§ 388 bis 390, 392 bis 406 Absatz 1 bis 4, die §§ 407 bis
+444, 478 bis 484 der Zivilprozeßordnung entsprechend anzuwenden. Die
+Entscheidung über die Rechtmäßigkeit der Weigerung nach § 387 der
+Zivilprozeßordnung ergeht durch Beschluß.
 
 (2) Zeugen und Sachverständige werden nur beeidigt, wenn das Gericht
 dies im Hinblick auf die Bedeutung des Zeugnisses oder Gutachtens für
@@ -2551,32 +2845,45 @@ obersten Landesbehörde vorliegen.
 ##### § 120
 
 (1) Die Beteiligten haben das Recht der Einsicht in die Akten, soweit
-die übermittelnde Behörde dieses nicht ausschließt.
+die übermittelnde Behörde dieses nicht ausschließt. Beteiligte können
+sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen,
+Auszüge, Ausdrucke und Abschriften erteilen lassen. Für die Versendung
+von Akten, die Übermittlung elektronischer Dokumente und die Gewährung
+des elektronischen Zugriffs auf Akten werden Kosten nicht erhoben,
+sofern nicht nach § 197a das Gerichtskostengesetz gilt.
 
-(2) Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle
-Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
-Nach dem Ermessen des Vorsitzenden kann einem Bevollmächtigen, der zu
-den in § 73 Abs. 2 Satz 1 und 2 Nr. 3 bis 9 bezeichneten natürlichen
-Personen gehört, die Mitnahme der Akte in die Wohnung oder
-Geschäftsräume, der elektronische Zugriff auf den Inhalt der Akten
-gestattet oder der Inhalt der Akten elektronisch übermittelt werden. §
-155 Abs. 4 gilt entsprechend. Bei einem elektronischen Zugriff auf den
-Inhalt der Akten ist sicherzustellen, dass der Zugriff nur durch den
-Bevollmächtigten erfolgt. Für die Übermittlung von elektronischen
-Dokumenten ist die Gesamtheit der Dokumente mit einer qualifizierten
-elektronischen Signatur nach § 2 Nr. 3 des Signaturgesetzes zu
-versehen und gegen unbefugte Kenntnisnahme zu schützen. Für die
-Versendung von Akten, die Übermittlung elektronischer Dokumente und
-die Gewährung des elektronischen Zugriffs auf Akten werden Kosten
-nicht erhoben, sofern nicht nach § 197a das Gerichtskostengesetz gilt.
+(2) Werden die Prozessakten elektronisch geführt, wird Akteneinsicht
+durch Bereitstellung des Inhalts der Akten zum Abruf oder durch
+Übermittlung des Inhalts der Akten auf einem sicheren Übermittlungsweg
+gewährt. Auf besonderen Antrag wird Akteneinsicht durch Einsichtnahme
+in die Akten in Diensträumen gewährt. Ein Aktenausdruck oder ein
+Datenträger mit dem Inhalt der Akten wird auf besonders zu
+begründenden Antrag nur übermittelt, wenn der Antragsteller hieran ein
+berechtigtes Interesse darlegt. Stehen der Akteneinsicht in der nach
+Satz 1 vorgesehenen Form wichtige Gründe entgegen, kann die
+Akteneinsicht in der nach den Sätzen 2 und 3 vorgesehenen Form auch
+ohne Antrag gewährt werden. Über einen Antrag nach Satz 3 entscheidet
+der Vorsitzende; die Entscheidung ist unanfechtbar. § 155 Absatz 4
+gilt entsprechend.
 
-(3) Der Vorsitzende kann aus besonderen Gründen die Einsicht in die
+(3) Werden die Prozessakten in Papierform geführt, wird Akteneinsicht
+durch Einsichtnahme in die Akten in Diensträumen gewährt. Die
+Akteneinsicht kann, soweit nicht wichtige Gründe entgegenstehen, auch
+durch Bereitstellung des Inhalts der Akten zum Abruf oder durch
+Übermittlung des Inhalts der Akten auf einem sicheren Übermittlungsweg
+gewährt werden. Nach dem Ermessen des Vorsitzenden kann einem
+Bevollmächtigten, der zu den in § 73 Absatz 2 Satz 1 und 2 Nummer 3
+bis 9 bezeichneten natürlichen Personen gehört, die Mitnahme der Akten
+in die Wohnung oder Geschäftsräume gestattet werden. § 155 Absatz 4
+gilt entsprechend.
+
+(4) Der Vorsitzende kann aus besonderen Gründen die Einsicht in die
 Akten oder in Aktenteile sowie die Fertigung oder Erteilung von
 Auszügen und Abschriften versagen oder beschränken. Gegen die
 Versagung oder die Beschränkung der Akteneinsicht kann das Gericht
 angerufen werden; es entscheidet endgültig.
 
-(4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu
+(5) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu
 ihrer Vorbereitung angefertigten Arbeiten sowie die Dokumente, welche
 Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich
 mitgeteilt.
@@ -2591,7 +2898,7 @@ Wiedereröffnung beschließen.
 
 ##### § 122
 
-Für die Niederschrift gelten die §§ 159 bis 165 der Zivilprozeßordnung
+Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung
 entsprechend.
 
 
@@ -2786,12 +3093,12 @@ Das Urteil ist den Beteiligten unverzüglich zuzustellen.
 
 
 (2) Die Darstellung des Tatbestands kann durch eine Bezugnahme auf den
-Inhalt der vorbereitenden Schriftsätze und auf die zur
-Sitzungsniederschrift erfolgten Feststellungen ersetzt werden, soweit
-sich aus ihnen der Sach- und Streitstand richtig und vollständig
-ergibt. In jedem Fall sind jedoch die erhobenen Ansprüche genügend zu
-kennzeichnen und die dazu vorgebrachten Angriffs- und
-Verteidigungsmittel ihrem Wesen nach hervorzuheben.
+Inhalt der vorbereitenden Schriftsätze und auf die zu Protokoll
+erfolgten Feststellungen ersetzt werden, soweit sich aus ihnen der
+Sach- und Streitstand richtig und vollständig ergibt. In jedem Fall
+sind jedoch die erhobenen Ansprüche genügend zu kennzeichnen und die
+dazu vorgebrachten Angriffs- und Verteidigungsmittel ihrem Wesen nach
+hervorzuheben.
 
 (3) Das Gericht kann von einer weiteren Darstellung der
 Entscheidungsgründe absehen, soweit es der Begründung des
@@ -2810,15 +3117,16 @@ verzichten.
 Die Ausfertigungen des Urteils sind von dem Urkundsbeamten der
 Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu
 versehen. Ausfertigungen, Auszüge und Abschriften eines als
-elektronisches Dokument (§ 65a Abs. 3) vorliegenden Urteils können von
-einem Urteilsausdruck gemäß § 65b Abs. 4 erteilt werden.
-Ausfertigungen, Auszüge und Abschriften eines in Papierform
-vorliegenden Urteils können durch Telekopie oder als elektronisches
-Dokument (§ 65a Abs. 3) erteilt werden. Die Telekopie hat eine
-Wiedergabe der Unterschrift des Urkundsbeamten der Geschäftsstelle
-sowie des Gerichtssiegels zu enthalten. Das elektronische Dokument ist
-mit einer qualifizierten elektronischen Signatur des Urkundsbeamten
-der Geschäftsstelle zu versehen.
+elektronisches Dokument (§ 65a Absatz 7) vorliegenden Urteils können
+von einem Urteilsausdruck erteilt werden. Auszüge und Abschriften
+eines in Papierform vorliegenden Urteils können durch Telekopie oder
+als elektronisches Dokument erteilt werden. Die Telekopie hat eine
+Wiedergabe des Gerichtssiegels, die Telekopie zur Erteilung eines
+Auszugs zusätzlich die Unterschrift des Urkundsbeamten der
+Geschäftsstelle zu enthalten. Bei der Erteilung von beglaubigten
+Auszügen und Abschriften ist das elektronische Dokument mit einer
+qualifizierten elektronischen Signatur des Urkundsbeamten der
+Geschäftsstelle zu versehen.
 
 
 ##### § 138
@@ -2866,7 +3174,10 @@ angefochten werden kann, im übrigen durch Urteil, das mit dem bei dem
 Rechtsstreits zum Gegenstand.
 
 (4) Die ergänzende Entscheidung wird auf der Urschrift des Urteils und
-den Ausfertigungen vermerkt.
+den Ausfertigungen vermerkt. Liegt das Urteil als elektronisches
+Dokument mit einer qualifizierten elektronischen Signatur (§ 65a
+Absatz 3) vor, bedarf auch die ergänzende Entscheidung dieser Form und
+ist mit dem Urteil untrennbar zu verbinden.
 
 
 ##### § 141
@@ -2877,8 +3188,9 @@ entschieden worden ist,
 1.  die Beteiligten und ihre Rechtsnachfolger,
 
 
-2.  im Falle des § 75 Abs. 2a die Personen, die einen Antrag auf Beiladung
-    nicht oder nicht fristgemäß gestellt haben.
+2.  im Falle des § 75 Absatz 2a die Personen und im Falle des § 75 Absatz
+    2b die Versicherungsträger, die einen Antrag auf Beiladung nicht oder
+    nicht fristgemäß gestellt haben.
 
 
 
@@ -2896,7 +3208,7 @@ nach mündlicher Verhandlung auch die §§ 129, 132, 135 und 136
 entsprechend.
 
 (2) Beschlüsse sind zu begründen, wenn sie durch Rechtsmittel
-angefochten werden können oder über ein Rechtsbehelf entscheiden.
+angefochten werden können oder über einen Rechtsbehelf entscheiden.
 Beschlüsse über die Wiederherstellung der aufschiebenden Wirkung und
 über einstweilige Anordnungen (§ 86b) sowie Beschlüsse nach Erledigung
 des Rechtsstreits in der Hauptsache sind stets zu begründen.
@@ -2979,8 +3291,8 @@ Verfahrens handelt.
 (1) Die Nichtzulassung der Berufung durch das Sozialgericht kann durch
 Beschwerde angefochten werden. Die Beschwerde ist bei dem
 Landessozialgericht innerhalb eines Monats nach Zustellung des
-vollständigen Urteils schriftlich oder zur Niederschrift des
-Urkundsbeamten einzulegen.
+vollständigen Urteils schriftlich oder zu Protokoll des Urkundsbeamten
+einzulegen.
 
 (2) Die Beschwerde soll das angefochtene Urteil bezeichnen und die zur
 Begründung dienenden Tatsachen und Beweismittel angeben.
@@ -3005,14 +3317,14 @@ in dem Beschluß hinzuweisen.
 ##### § 151
 
 (1) Die Berufung ist bei dem Landessozialgericht innerhalb eines
-Monats nach Zustellung des Urteils schriftlich oder zur Niederschrift
-des Urkundsbeamten der Geschäftsstelle einzulegen.
+Monats nach Zustellung des Urteils schriftlich oder zu Protokoll des
+Urkundsbeamten der Geschäftsstelle einzulegen.
 
 (2) Die Berufungsfrist ist auch gewahrt, wenn die Berufung innerhalb
-der Frist bei dem Sozialgericht schriftlich oder zur Niederschrift des
+der Frist bei dem Sozialgericht schriftlich oder zu Protokoll des
 Urkundsbeamten der Geschäftsstelle eingelegt wird. In diesem Fall legt
-das Sozialgericht die Berufungsschrift oder die Niederschrift mit
-seinen Akten unverzüglich dem Landessozialgericht vor.
+das Sozialgericht die Berufungsschrift oder das Protokoll mit seinen
+Akten unverzüglich dem Landessozialgericht vor.
 
 (3) Die Berufungsschrift soll das angefochtene Urteil bezeichnen,
 einen bestimmten Antrag enthalten und die zur Begründung dienenden
@@ -3026,8 +3338,11 @@ nachdem die Berufungsschrift eingereicht ist, von der Geschäftsstelle
 des Sozialgerichts die Prozeßakten anzufordern.
 
 (2) Nach Erledigung der Berufung sind die Akten der Geschäftsstelle
-des Sozialgerichts nebst einer beglaubigten Abschrift des in der
-Berufungsinstanz erlassenen Urteils zurückzusenden.
+des Sozialgerichts nebst einer beglaubigten Abschrift oder einer
+beglaubigten elektronischen Abschrift, die mit einer qualifizierten
+elektronischen Signatur des Urkundsbeamten der Geschäftsstelle
+versehen ist, des in der Berufungsinstanz erlassenen Urteils
+zurückzusenden.
 
 
 ##### § 153
@@ -3146,13 +3461,12 @@ zurückgewiesen hat, bleiben auch im Berufungsverfahren ausgeschlossen.
 ##### § 158
 
 Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist
-oder nicht schriftlich oder nicht in elektronischer Form oder nicht
-zur Niederschrift des Urkundsbeamten der Geschäftsstelle eingelegt, so
-ist sie als unzulässig zu verwerfen. Die Entscheidung kann durch
-Beschluß ergehen. Gegen den Beschluß steht den Beteiligten das
-Rechtsmittel zu, das zulässig wäre, wenn das Gericht durch Urteil
-entschieden hätte. Die Beteiligten sind über dieses Rechtsmittel zu
-belehren.
+oder nicht schriftlich oder nicht in elektronischer Form oder nicht zu
+Protokoll des Urkundsbeamten der Geschäftsstelle eingelegt, so ist sie
+als unzulässig zu verwerfen. Die Entscheidung kann durch Beschluß
+ergehen. Gegen den Beschluß steht den Beteiligten das Rechtsmittel zu,
+das zulässig wäre, wenn das Gericht durch Urteil entschieden hätte.
+Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
 
 ##### § 159
@@ -3420,18 +3734,29 @@ in diesem Gesetz anderes bestimmt ist.
 Vertagungsbeschlüsse, Fristbestimmungen, Beweisbeschlüsse, Beschlüsse
 über Ablehnung von Beweisanträgen, über Verbindung und Trennung von
 Verfahren und Ansprüchen und über die Ablehnung von Gerichtspersonen
-können nicht mit der Beschwerde angefochten werden.
+und Sachverständigen können nicht mit der Beschwerde angefochten
+werden.
 
 (3) Die Beschwerde ist ausgeschlossen
 
 1.  in Verfahren des einstweiligen Rechtsschutzes, wenn in der Hauptsache
-    die Berufung nicht zulässig wäre; dies gilt auch für Entscheidungen
-    über einen Prozesskostenhilfeantrag im Rahmen dieser Verfahren,
+    die Berufung der Zulassung bedürfte,
 
 
-2.  gegen die Ablehnung von Prozesskostenhilfe, wenn das Gericht
-    ausschließlich die persönlichen oder wirtschaftlichen Voraussetzungen
-    für die Prozesskostenhilfe verneint,
+2.  gegen die Ablehnung von Prozesskostenhilfe, wenn
+
+    a)  das Gericht die persönlichen oder wirtschaftlichen Voraussetzungen für
+        die Prozesskostenhilfe verneint,
+
+
+    b)  in der Hauptsache die Berufung der Zulassung bedürfte oder
+
+
+    c)  das Gericht in der Sache durch Beschluss entscheidet, gegen den die
+        Beschwerde ausgeschlossen ist,
+
+
+
 
 
 3.  gegen Kostengrundentscheidungen nach § 193,
@@ -3448,14 +3773,14 @@ können nicht mit der Beschwerde angefochten werden.
 ##### § 173
 
 Die Beschwerde ist binnen eines Monats nach Bekanntgabe der
-Entscheidung beim Sozialgericht schriftlich oder zur Niederschrift des
+Entscheidung beim Sozialgericht schriftlich oder zu Protokoll des
 Urkundsbeamten der Geschäftsstelle einzulegen; § 181 des
 Gerichtsverfassungsgesetzes bleibt unberührt. Die Beschwerdefrist ist
 auch gewahrt, wenn die Beschwerde innerhalb der Frist bei dem
-Landessozialgericht schriftlich oder zur Niederschrift des
-Urkundsbeamten der Geschäftsstelle eingelegt wird. Die Belehrung über
-das Beschwerderecht ist auch mündlich möglich; sie ist dann
-aktenkundig zu machen.
+Landessozialgericht schriftlich oder zu Protokoll des Urkundsbeamten
+der Geschäftsstelle eingelegt wird. Die Belehrung über das
+Beschwerderecht ist auch mündlich möglich; sie ist dann aktenkundig zu
+machen.
 
 
 ##### § 174 (weggefallen)
@@ -3520,11 +3845,10 @@ Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
 dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
-schriftlich oder zur Niederschrift des Urkundsbeamten der
-Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung
-angegriffen wird. Die Rüge muss die angegriffene Entscheidung
-bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten
-Voraussetzungen darlegen.
+schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
+bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die
+Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen
+der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur
 Stellungnahme zu geben.
@@ -3669,8 +3993,8 @@ Verfahren auf, bleibt das Verfahren in dem Rechtszug kostenfrei. Den
 in Satz 1 und 2 genannten Personen steht gleich, wer im Falle des
 Obsiegens zu diesen Personen gehören würde. Leistungsempfängern nach
 Satz 1 stehen Antragsteller nach § 55a Absatz 2 Satz 1 zweite
-Alternative gleich. § 93 Satz 3, § 109 Abs. 1 Satz 2, § 120 Abs. 2
-Satz 1 und § 192 bleiben unberührt. Die Kostenfreiheit nach dieser
+Alternative gleich. § 93 Satz 3, § 109 Abs. 1 Satz 2, § 120 Absatz 1
+Satz 2 und § 192 bleiben unberührt. Die Kostenfreiheit nach dieser
 Vorschrift gilt nicht in einem Verfahren wegen eines überlangen
 Gerichtsverfahrens (§ 202 Satz 2).
 
@@ -3788,28 +4112,11 @@ Dem Beteiligten steht gleich sein Vertreter oder Bevollmächtigter. Als
 verursachter Kostenbetrag gilt dabei mindestens der Betrag nach § 184
 Abs. 2 für die jeweilige Instanz.
 
-(2) Betrifft das Verfahren die Anfechtung eines Bescheides der
-Kassenärztlichen Vereinigung oder Kassenzahnärztlichen Vereinigung auf
-Zahlung der nach § 28 Abs. 4 des Fünften Buches Sozialgesetzbuch zu
-zahlenden Zuzahlung hat das Gericht dem Kläger einen Kostenbetrag
-mindestens in Höhe des Betrages nach § 184 Abs. 2 für die jeweilige
-Instanz aufzuerlegen, wenn
+(2) (weggefallen)
 
-1.  die Einlegung der Klage missbräuchlich war,
-
-
-2.  die Kassenärztliche Vereinigung oder Kassenzahnärztliche Vereinigung
-    spätestens in dem Bescheid den Kläger darauf hingewiesen hat, dass den
-    Kläger die Pflicht zur Zahlung eines Kostenbetrages treffen kann.
-
-
-
-Die Gebührenpflicht der Kassenärztlichen Vereinigung oder
-Kassenzahnärztlichen Vereinigung nach § 184 entfällt in diesem Fall.
-
-(3) Die Entscheidung nach Absatz 1 und Absatz 2 wird in ihrem Bestand
-nicht durch die Rücknahme der Klage berührt. Sie kann nur durch eine
-zu begründende Kostenentscheidung im Rechtsmittelverfahren aufgehoben
+(3) Die Entscheidung nach Absatz 1 wird in ihrem Bestand nicht durch
+die Rücknahme der Klage berührt. Sie kann nur durch eine zu
+begründende Kostenentscheidung im Rechtsmittelverfahren aufgehoben
 werden.
 
 (4) Das Gericht kann der Behörde ganz oder teilweise die Kosten
@@ -3889,14 +4196,16 @@ Voraussetzungen von § 192 auferlegt werden. Aufwendungen des
 Beigeladenen werden unter den Voraussetzungen des § 191 vergütet; sie
 gehören nicht zu den Gerichtskosten.
 
-(3) Die Absätze 1 und 2 gelten auch für Träger der Sozialhilfe, soweit
-sie an Erstattungsstreitigkeiten mit anderen Trägern beteiligt sind.
+(3) Die Absätze 1 und 2 gelten auch für Träger der Sozialhilfe
+einschließlich der Leistungen nach Teil 2 des Neunten Buches
+Sozialgesetzbuch, soweit sie an Erstattungsstreitigkeiten mit anderen
+Trägern beteiligt sind.
 
 
 ##### § 197b
 
-Für Ansprüche, die beim Bundessozialgericht entstehen, gelten die
-Justizverwaltungskostenordnung und die Justizbeitreibungsordnung
+Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das
+Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz
 entsprechend, soweit sie nicht unmittelbar Anwendung finden.
 Vollstreckungsbehörde ist die Justizbeitreibungsstelle des
 Bundessozialgerichts.
@@ -3996,12 +4305,19 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
 einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
 die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
-ausschließen. Die Vorschriften des Siebzehnten Titels des
-Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
-anzuwenden, dass an die Stelle des Oberlandesgerichts das
-Landessozialgericht, an die Stelle des Bundesgerichtshofs das
-Bundessozialgericht und an die Stelle der Zivilprozessordnung das
-Sozialgerichtsgesetz tritt.
+ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
+Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
+sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
+Oberlandesgerichts das Landessozialgericht, an die Stelle des
+Bundesgerichtshofs das Bundessozialgericht und an die Stelle der
+Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten
+über Entscheidungen des Bundeskartellamts, die die freiwillige
+Vereinigung von Krankenkassen nach § 172a des Fünften Buches
+Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen
+Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden,
+dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an
+die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die
+Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
 
 ### § 203
@@ -4062,21 +4378,42 @@ die Rechtsbeziehungen nach § 69 des Fünften Buches Sozialgesetzbuch
 betreffen und die am 28. Dezember 2010 beim Bundessozialgericht
 anhängig sind, gehen auf den Bundesgerichtshof über. Die Sätze 1 und 2
 gelten nicht für Verfahren, die sich in der Hauptsache erledigt haben.
-Soweit ein Landessozialgericht an eine Frist nach § 121 Absatz 3 des
-Gesetzes gegen Wettbewerbsbeschränkungen gebunden ist, beginnt der
-Lauf dieser Frist mit dem Eingang der Akten bei dem zuständigen
-Oberlandesgericht von neuem.
 
 
 ### § 208
 
-Ehrenamtliche Richter, die vor dem 1. Januar 2012 nach § 23 Absatz 1
-Satz 2 als Mitglieder des Ausschusses der ehrenamtlichen Richter
+(1) Ehrenamtliche Richter, die vor dem 1. Januar 2012 nach § 23 Absatz
+1 Satz 2 als Mitglieder des Ausschusses der ehrenamtlichen Richter
 gewählt worden sind, bleiben bis zum Ende der für sie geltenden
-Wahlperiode im Amt.
+Wahlperiode im Amt. Dies gilt auch für ehrenamtliche Richter, die aus
+den Vorschlagslisten für den Kreis der Arbeitnehmer vor dem 25.
+Oktober 2013 in das Amt berufen worden sind.
+
+(2) Ehrenamtliche Richter, die aus den Vorschlagslisten für den Kreis
+der Arbeitnehmer vor dem 25. Oktober 2013 in das Amt berufen worden
+sind, bleiben bis zum Ende der Zeit, für die sie berufen worden sind,
+im Amt und gehören so lange den für Angelegenheiten der Grundsicherung
+für Arbeitsuchende einschließlich der Streitigkeiten auf Grund des §
+6a des Bundeskindergeldgesetzes und der Arbeitsförderung zuständigen
+Kammern an.
 
 
-### (XXXX) §§ 209 bis 217 (weggefallen)
+### § 209
+
+§ 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
+entsprechend.
+
+
+### § 210
+
+Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen
+nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020
+bei den Sozialgerichten anhängig sind, gehen in dem Stadium, in dem
+sie sich befinden, auf die Landessozialgerichte über. Dies gilt nicht
+für Verfahren, die sich in der Hauptsache erledigt haben.
+
+
+### (XXXX) §§ 211 bis 217 (weggefallen)
 
 
 

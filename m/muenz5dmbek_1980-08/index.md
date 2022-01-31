@@ -22,8 +22,8 @@ Fundstelle
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
 Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
-690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 100
--Jahr-Feier der Vollendung des Kölner Doms eine Bundesmünze
+690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der
+100-Jahr-Feier der Vollendung des Kölner Doms eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage
 der Münze beträgt 5,35 Millionen Stück. Die Prägung erfolgt in der
 Staatlichen Münze Stuttgart.

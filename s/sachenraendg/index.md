@@ -17,31 +17,31 @@ Fundstelle
 
 
 
-## Art 1 -
+## Art 1 - 
 
 
 
-## Art 2 -
+## Art 2 - 
 
 
 
-## Art 3 -
+## Art 3 - 
 
 
 
-## Art 4 -
+## Art 4 - 
 
 
 
-## Art 5 -
+## Art 5 - 
 
 
 
-## Art 6 -
+## Art 6 - 
 
 
 
-## Art 7 -
+## Art 7 - 
 
 
 

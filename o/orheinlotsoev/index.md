@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1956, 703
 
 Zuletzt geändert durch
-:   Art. 66 G v. 19.9.2006 I 2146
+:   Art. 47 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -38,51 +38,48 @@ Mannheim/Ludwigshafen wird in der Fassung der Anlage 1 in Kraft
 gesetzt.
 
 
-## Art 2 Zuständige Behörden
+## Art 2 Zuständige Behörde
 
-(1) Zuständige Behörde nach den §§ 2, 4 Nr. 1 Satz 1, §§ 6, 7 Nr. 1,
-§§ 11, 12, 18, 20 und 21 ist für Bewerber, die zur Zeit der
-Antragstellung nach § 4 Nr. 1 oder nach den §§ 20 und 21 ihren
+(1) Zuständige Behörde nach den §§ 2, 4 Nummer 1 Satz 1, §§ 6, 7
+Nummer 1, §§ 11, 12, 18, 20 und 21 ist für Bewerber, die zur Zeit der
+Antragstellung nach § 4 Nummer 1 oder nach den §§ 20 und 21 ihren
 Wohnsitz haben
 
 1.  am rechten Rheinufer zwischen der deutsch/schweizerischen Grenze
-    unterhalb von Basel und Neuburgweier (ausschließlich),
-
-    das Wasser- und Schiffahrtsamt Offenburg,
+    unterhalb von Basel und Neuburgweier (ausschließlich), und
 
 
 2.  am rechten Rheinufer zwischen Neuburgweier (einschließlich) und
-    Mannheim (einschließlich)
-
-    oder am linken Rheinufer zwischen der Lautermündung und Ludwigshafen
-    (einschließlich),
-
-    das Wasser- und Schiffahrtsamt Mannheim.
+    Mannheim (einschließlich) oder am linken Rheinufer zwischen der
+    Lautermündung und Ludwigshafen (einschließlich),
 
 
 
-3\.
+jeweils das vom Bundesministerium für Verkehr und digitale
+Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte
+Wasserstraßen- und Schifffahrtsamt.
 
 (2) Zuständige Behörde für Bewerber, die keinen Wohnsitz im Bereich
 der in Absatz 1 genannten Rheinufer haben, sowie für die Überprüfung
-der Fahrtenhefte nach § 7 Nr. 3 ist jedes der in Absatz 1 genannten
-Wasser- und Schiffahrtsämter.
+der Fahrtenhefte nach § 7 Nummer 3 ist jedes der in Absatz 1 genannten
+Wasserstraßen- und Schifffahrtsämter.
 
-(3) Zuständige Behörde im Sinne des § 15 Nr. 2 und des § 17 ist
-dasjenige Wasser- und Schiffahrtsamt, welches das Lotsenpatent nach §
-12 Nr. 1 ausgefertigt hat. Lotsenpatente, die nach § 12 Nr. 1 vom
-Wasser- und Schiffahrtsamt Speyer ausgefertigt sind, gelten ab 1.
-Oktober 1968 als vom Wasser- und Schiffahrtsamt Mannheim ausgefertigt.
+(3) Zuständige Behörde im Sinne des § 15 Nummer 2 und des § 17 ist
+dasjenige Wasserstraßen- und Schifffahrtsamt, welches das Lotsenpatent
+nach § 12 Nummer 1 ausgefertigt hat. Lotsenpatente, die auf der
+Grundlage der am 3. Juni 2016 geltenden Fassung dieser Verordnung
+erteilt sind, gelten als von dem nach Absatz 1 Nummer 2 zuständigen
+Wasserstraßen- und Schifffahrtsamt ausgefertigt.
 
-(4) Zuständige Behörde für den Erlaß der Prüfungsordnung nach § 10 Nr.
-3 ist die Wasser- und Schiffahrtsdirektion Südwest.
+(4) Zuständige Behörde für den Erlass der Prüfungsordnung nach § 10
+Nummer 3 ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ## Art 3 Prüfungsausschüsse
 
 Prüfungsausschüsse zur Abnahme der Lotsenprüfung (§ 9 Nr. 1) werden
-bei den in Artikel 2 Abs. 1 genannten Wasser- und Schiffahrtsämtern
-gebildet.
+bei den in Artikel 2 Abs. 1 genannten Wasserstraßen- und
+Schifffahrtsämtern gebildet.
 
 
 ## Art 4 Körperliche Eignung
@@ -108,7 +105,7 @@ des Lotsenpatents nach § 12 Nr. 2  5,- DM.
 schriftlichen Erlaubnis nach § 6 Nr. 2 werden die baren Auslagen
 berechnet.
 
-(3) Die der Wasser- und Schiffahrtsverwaltung des Bundes nicht
+(3) Die der Wasserstraßen- und Schifffahrtsverwaltung des Bundes nicht
 angehörenden Mitglieder der Prüfungsausschüsse erhalten für jeden
 Prüfungstag eine Entschädigung von 20 DM. Dauert die Prüfungstätigkeit
 länger als vier Stunden, so erhöht sich die Entschädigung für jede

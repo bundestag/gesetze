@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1466, 1469
 
-Geändert durch
-:   Art. 15 Abs. 84 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 12 G v. 9.6.2021 I 1614
 
 
 
@@ -44,8 +44,8 @@ niedrigeren Entgeltgruppe zuzuordnen sind, bestimmt sich die
 Eingruppierung nach der vorherigen Tätigkeit. Soweit es darüber hinaus
 im Zusammenhang mit der Personalgestellung angemessen ist, kann das
 Bundesministerium der Finanzen im Einvernehmen mit dem
-Bundesministerium des Innern ergänzend außer- und übertarifliche
-Regelungen treffen.
+Bundesministerium des Innern, für Bau und Heimat ergänzend außer- und
+übertarifliche Regelungen treffen.
 
 
 ## § 3 Entscheidungs- und Weisungsbefugnisse
@@ -69,7 +69,7 @@ Deutschland - Finanzagentur GmbH zu regeln.
 
 Die in § 2 Abs. 1 benannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
-zentrale Dienste und offene Vermögensfragen. § 13 Abs. 2 Satz 4 des
+zentrale Dienste und offene Vermögensfragen. § 14 Absatz 2 Satz 4 des
 Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 

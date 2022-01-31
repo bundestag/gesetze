@@ -19,6 +19,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1995, 914
 
+Geändert durch
+:   Art. 25 V v. 31.8.2015 I 1474
+
 
 
 ## Art 1
@@ -68,8 +71,8 @@ ist der Sach- und Streitstand in gedrängter Form darzustellen.
 
 ## Art 3
 
-Das Bundesministerium der Justiz bestimmt die zuständige Stelle im
-Sinne des Artikels 3 des Ersten Protokolls.
+Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt
+die zuständige Stelle im Sinne des Artikels 3 des Ersten Protokolls.
 
 
 ## Art 4

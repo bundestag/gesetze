@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3120
 
+Zuletzt geändert durch
+:   Art. 126 G v. 10.8.2021 I 3436
+
 
 ## Eingangsformel
 
@@ -402,7 +405,7 @@ Erlaubnis erforderlich sind:
 Das Führungszeugnis und die Auskunft aus dem Gewerbezentralregister
 dürfen zum Zeitpunkt der Antragstellung nicht älter als drei Monate
 sein. Vor Erteilung der Erlaubnis kann die Erlaubnisbehörde über die
-genannten Personen auch eine Auskunft aus dem Verkehrszentralregister
+genannten Personen auch eine Auskunft aus dem Fahreignungsregister
 einholen.
 
 (3) Diplome, Prüfungszeugnisse und sonstige Befähigungsnachweise aus

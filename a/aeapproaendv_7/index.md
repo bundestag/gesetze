@@ -25,11 +25,11 @@ Bekanntmachung vom 16. April 1987 (BGBl. I S. 1218), der durch Artikel
 worden ist, wird verordnet:
 
 
-## Art 1
+## Art 1 - 
 
 
 
-## Art 2
+## Art 2 - 
 
 Über das Bestehen einer schriftlichen Prüfung ist erneut zu
 entscheiden, wenn der Prüfling die Prüfung nicht bestanden hat, weil
@@ -44,7 +44,7 @@ Approbationsordnung für Ärzte vom 28. Oktober 1970 (BGBl. I S. 1458)
 in der bis zum 31. Juli 1979 geltenden Fassung anzuwenden.
 
 
-## Art 3
+## Art 3 - 
 
 
 
@@ -86,7 +86,7 @@ bis zum 1. Juli 1992 oder den Zweiten Abschnitt der Ärztlichen Prüfung
 bis zum 1. Juli 1993 nicht bestehen.
 
 
-## Art 4
+## Art 4 - 
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit kann den
 Wortlaut der Approbationsordnung für Ärzte in der nach Inkrafttreten
@@ -94,13 +94,13 @@ dieser Verordnung geltenden Fassung im Bundesgesetzblatt
 bekanntmachen.
 
 
-## Art 5
+## Art 5 - 
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 15 der Bundesärzteordnung auch im Land Berlin.
 
 
-## Art 6
+## Art 6 - 
 
 Diese Verordnung tritt mit Ausnahme des Artikels 1 Nr. 3 Buchstaben b
 und c und Artikel 1 Nr. 7 am 1. Januar 1990 in Kraft. Artikel 1 Nr. 7

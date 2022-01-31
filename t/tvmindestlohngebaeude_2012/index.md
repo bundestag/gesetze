@@ -4,7 +4,7 @@ Title: Rechtsnormen des Tarifvertrages zur Regelung der Mindestlöhne für gewer
   Mindestlohn)
 jurabk: TVMindestlohnGebäude 2012
 layout: default
-origslug: tvmindestlohngeb_ude_2012
+origslug: tvmindestlohngebaeude_2012
 slug: tvmindestlohngebaeude_2012
 
 ---

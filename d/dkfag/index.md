@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2442, 2452
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 7 G v. 13.12.2007 I 2897
+:   Art. 8 Abs. 1 G v. 3.12.2015 I 2178
 
 
 ## § 1
@@ -67,7 +67,9 @@ Zeiten werden den Trägern der gesetzlichen Rentenversicherung 1,1 vom
 Hundert der zu erstattenden Rentenbeträge gewährt.
 
 (3) Die Zuständigkeit für die Wahrnehmung der in den Absätzen 1 und 2
-genannten Aufgaben geht mit Ablauf des 31. Dezember 2007 auf die
+genannten Aufgaben, die mit Ablauf des 31. Dezember 2007 auf die
 Bundesfinanzdirektionen – Service-Center Versorgung – im
-Geschäftsbereich des Bundesministeriums der Finanzen über.
+Geschäftsbereich des Bundesministeriums der Finanzen übergegangen ist,
+geht mit Ablauf des 31. Dezember 2015 auf die Generalzolldirektion
+über.
 

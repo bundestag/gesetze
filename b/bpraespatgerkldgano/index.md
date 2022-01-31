@@ -75,7 +75,7 @@ Der Bundesminister der Justiz wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen.
 
 
-## Art 4 -
+## Art 4 - 
 
 
 

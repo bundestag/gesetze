@@ -235,11 +235,11 @@ weniger als 30 Punkten bewertet worden sein darf.
 
 ## § 7 Ziel, Gliederung und Inhalt des Teils II
 
-(1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2
-Satz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
-Handlungskompetenz dadurch nachzuweisen, dass er die erforderlichen
-fachtheoretischen Kenntnisse im Fleischer-Handwerk zur Lösung
-komplexer beruflicher Aufgabenstellungen anwendet.
+(1) Durch die Prüfung in Teil II hat der Prüfling in den in
+Absatz 2 Satz 2 Nummer 1 bis 3              genannten Handlungsfeldern
+seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er die
+erforderlichen fachtheoretischen Kenntnisse im Fleischer-Handwerk zur
+Lösung komplexer beruflicher Aufgabenstellungen anwendet.
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist
 mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten. Die

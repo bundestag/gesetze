@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 2004, 890
 
 Zuletzt geändert durch
-:   Art. 4 V v. 10.12.2012 I 2630
+:   Art. 3 V v. 12.12.2018 I 2446
+
+Änderung durch
+:   Art. 72 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 4 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -54,64 +60,65 @@ Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
 Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird (§ 1
 Abs. 1 des Gebrauchsmustergesetzes), sind beim Deutschen Patent- und
-Markenamt schriftlich anzumelden. Für die elektronische Einreichung
-ist § 12 der DPMA-Verordnung maßgebend.
+Markenamt schriftlich oder elektronisch anzumelden. Für die
+elektronische Einreichung ist die Verordnung über den elektronischen
+Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
 
-### § 3 Eintragungsantrag
+### § 3 Gebrauchsmusteranmeldung
 
-(1) Der Antrag auf Eintragung des Gebrauchsmusters (§ 4 Abs. 3 Nr. 2
-des Gebrauchsmustergesetzes) muss auf dem vom Deutschen Patent- und
-Markenamt vorgeschriebenen Formblatt eingereicht werden.
+(1) Für die schriftliche Gebrauchsmusteranmeldung ist für die
+nachfolgend genannten Angaben das vom Deutschen Patent- und Markenamt
+herausgegebene Formblatt zu verwenden, sofern diese Verordnung nichts
+anderes bestimmt.
 
-(2) Der Antrag muss enthalten:
+(2) Die Anmeldung muss enthalten:
 
 1.  folgende Angaben zum Anmelder:
 
-    a)  ist der Anmelder eine natürliche Person, den Vornamen und
-        Familiennamen oder, falls die Eintragung unter der Firma des Anmelders
-        erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist;
+    a)  wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder,
+        falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
+        Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift
+        des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer,
+        Postleitzahl und Ort,
 
 
-    b)  ist der Anmelder eine juristische Person oder eine
-        Personengesellschaft, den Namen dieser Person oder Gesellschaft; die
-        Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden.
-        Sofern die juristische Person oder Personengesellschaft in einem
-        Register eingetragen ist, muss der Name entsprechend dem
-        Registereintrag angegeben werden. Bei einer Gesellschaft bürgerlichen
-        Rechts sind auch der Name und die Anschrift mindestens eines
-        vertretungsberechtigten Gesellschafters anzugeben;
+    b)  wenn der Anmelder eine juristische Person oder eine
+        Personengesellschaft ist:
+
+        aa) Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße,
+            Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der
+            Rechtsform kann auf übliche Weise abgekürzt werden; wenn die
+            juristische Person oder Personengesellschaft in einem Register
+            eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
+
+
+        bb) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
+            Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
+            mindestens eines vertretungsberechtigten Gesellschafters;
 
 
 
-
-    dabei muss klar ersichtlich sein, ob das Gebrauchsmuster für eine oder
-    mehrere Personen oder Gesellschaften, für den Anmelder unter der Firma
-    oder unter dem bürgerlichen Namen angemeldet wird;
-
-    c)  Wohnsitz oder Sitz und die Anschrift (Straße und Hausnummer,
-        Postleitzahl, Ort);
 
 
 
 
 
 2.  eine kurze und genaue technische Bezeichnung des Gegenstands des
-    Gebrauchsmusters (keine Marken- oder sonstige Fantasiebezeichnung);
+    Gebrauchsmusters, jedoch keine Marken- oder Fantasiebezeichnung;
 
 
 3.  die Erklärung, dass für die Erfindung die Eintragung eines
     Gebrauchsmusters beantragt wird;
 
 
-4.  falls ein Vertreter bestellt worden ist, seinen Namen und seine
-    Anschrift;
+4.  gegebenenfalls die Angabe eines Vertreters;
 
 
 5.  die Unterschrift aller Anmelder oder deren Vertreter;
 
 
-6.  falls die Anmeldung eine Teilung (§ 4 Abs. 6 des
+6.  falls die Anmeldung eine Teilung (§ 4 Absatz 6 des
     Gebrauchsmustergesetzes) oder eine Ausscheidung aus einer
     Gebrauchsmusteranmeldung betrifft, die Angabe des Aktenzeichens und
     des Anmeldetags der Stammanmeldung;
@@ -120,28 +127,35 @@ Markenamt vorgeschriebenen Formblatt eingereicht werden.
 7.  falls der Anmelder für dieselbe Erfindung mit Wirkung für die
     Bundesrepublik Deutschland bereits früher ein Patent beantragt hat und
     dessen Anmeldetag in Anspruch nehmen will, eine entsprechende
-    Erklärung, die mit der Gebrauchsmusteranmeldung abgegeben werden muss
-    (§ 5 Abs. 1 des Gebrauchsmustergesetzes - Abzweigung).
+    Erklärung (§ 5 Absatz 1 des Gebrauchsmustergesetzes).
 
 
 
 
-(3) Hat der Anmelder seinen Wohnsitz oder Sitz im Ausland, so ist bei
-der Angabe der Anschrift nach Absatz 2 Nr. 1 Buchstabe c außer dem Ort
-auch der Staat anzugeben. Außerdem können gegebenenfalls Angaben zum
-Bezirk, zur Provinz oder zum Bundesstaat gemacht werden, in dem der
-Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er
-unterliegt.
+(3) Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist
+bei der Angabe der Anschrift nach Absatz 2 Nummer 1 außer dem Ort auch
+der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum
+Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder
+dessen Rechtsordnung er unterliegt, sind freiwillig.
 
 (4) Hat das Deutsche Patent- und Markenamt dem Anmelder eine
-Anmeldernummer zugeteilt, so soll diese in der Anmeldung genannt
-werden.
+Kennnummer zugeteilt, so soll diese in der Anmeldung genannt werden.
+In der Anmeldung können zusätzlich eine von der Anschrift des
+Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
+Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
-(5) Hat das Deutsche Patent- und Markenamt dem Vertreter eine
-Vertreternummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
-so soll diese angegeben werden.
+(5) Wird die Anmeldung von mehreren Personen oder
+Personengesellschaften eingereicht, so gelten Absatz 2 Nummer 1 und
+die Absätze 3 und 4 für alle anmeldenden Personen oder
+Personengesellschaften.
 
-(6) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
+(6) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum
+Vertreter Absatz 2 Nummer 1 und die Absätze 3 und 4 Satz 2
+entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter
+eine Kennnummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
+so soll diese zusätzlich angegeben werden.
+
+(7) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
 ist auf Anforderung der Nachweis der Zeichnungsbefugnis vorzulegen.
 Auf beim Deutschen Patent- und Markenamt für die Unterzeichner
 hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür
@@ -163,10 +177,10 @@ andere Anmeldungen betreffen.
 
 (4) Die Unterlagen müssen folgende Voraussetzungen erfüllen:
 
-1.  Als Blattgröße ist nur das Format DIN A4 zu verwenden. Die Blätter
-    sind im Hochformat und nur einseitig und mit 1 1/2-Zeilenabstand zu
-    beschriften. Für die Zeichnungen können die Blätter auch im Querformat
-    verwendet werden, wenn es sachdienlich ist.
+1.  Als Blattgröße ist nur das Format 21 x 29,7 Zentimeter (DIN A4) zu
+    verwenden. Die Blätter sind im Hochformat und nur einseitig und mit 1
+    1/2-Zeilenabstand zu beschriften. Für die Zeichnungen können die
+    Blätter auch im Querformat verwendet werden, wenn es sachdienlich ist.
 
 
 2.  Als Mindestränder sind auf den Blättern des Antrags, der
@@ -174,26 +188,25 @@ andere Anmeldungen betreffen.
     lassen:
 
 
+    *        *   Oberer Rand
+
+        *   2 Zentimeter,
 
 
-*    *   Oberer Rand
+    *        *   linker Seitenrand
 
-    *   2 Zentimeter,
-
-
-*    *   linker Seitenrand
-
-    *   2,5 Zentimeter,
+        *   2,5 Zentimeter,
 
 
-*    *   rechter Seitenrand
+    *        *   rechter Seitenrand
 
-    *   2 Zentimeter,
+        *   2 Zentimeter,
 
 
-*    *   unterer Rand
+    *        *   unterer Rand
 
-    *   2 Zentimeter.
+        *   2 Zentimeter.
+
 
 
 
@@ -407,32 +420,20 @@ sei denn, die Anmeldungsunterlagen stellen bereits die Übersetzung der
 fremdsprachigen Patentanmeldung dar.
 
 
-### § 9 Deutsche Übersetzungen
+### § 9 Fremdsprachige Dokumente
 
-(1) Deutsche Übersetzungen von Schriftstücken, die zu den Unterlagen
-der Anmeldung zählen, müssen von einem Rechtsanwalt oder Patentanwalt
-beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt
-sein. Die Unterschrift des Übersetzers ist öffentlich beglaubigen zu
-lassen (§ 129 des Bürgerlichen Gesetzbuchs), ebenso die Tatsache, dass
-der Übersetzer für derartige Zwecke öffentlich bestellt ist.
+(1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
+einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
+öffentlich bestellten Übersetzer angefertigt sein.
 
-(2) Deutsche Übersetzungen von
+(2) Deutsche Übersetzungen von fremdsprachigen Prioritätsbelegen und
+Abschriften früherer Anmeldungen (§ 6 Absatz 2 des
+Gebrauchsmustergesetzes in Verbindung mit § 41 Absatz 1 des
+Patentgesetzes) sind nur auf Anforderung des Deutschen Patent- und
+Markenamtes nachzureichen. Das Deutsche Patent- und Markenamt setzt
+für die Nachreichung eine angemessene Frist.
 
-1.  Prioritätsbelegen, die gemäß der revidierten Pariser
-    Verbandsübereinkunft zum Schutz des gewerblichen Eigentums (BGBl. 1970
-    II S. 391) vorgelegt werden, oder
-
-
-2.  Abschriften früherer Anmeldungen (§ 6 Abs. 2 des
-    Gebrauchsmustergesetzes in Verbindung mit § 41 Abs. 1 Satz 1 des
-    Patentgesetzes)
-
-
-
-sind nur auf Anforderung des Deutschen Patent- und Markenamts
-einzureichen.
-
-(3) Deutsche Übersetzungen von Schriftstücken, die
+(3) Deutsche Übersetzungen von sonstigen Dokumenten, die
 
 1.  nicht zu den Unterlagen der Anmeldung zählen und
 
@@ -443,18 +444,19 @@ einzureichen.
 
 
 sind nur auf Anforderung des Deutschen Patent- und Markenamts
-nachzureichen.
+nachzureichen. Das Deutsche Patent- und Markenamt setzt für die
+Nachreichung eine angemessene Frist.
 
-(4) Werden fremdsprachige Schriftstücke, die nicht zu den Unterlagen
-der Anmeldung zählen, in anderen Sprachen als in Absatz 3 Nr. 2
-aufgeführt eingereicht, so sind Übersetzungen in die deutsche Sprache
-innerhalb eines Monats nach Eingang der Schriftstücke nachzureichen.
+(4) Werden sonstige Dokumente, die nicht zu den Unterlagen der
+Anmeldung zählen, in anderen Sprachen eingereicht als in Absatz 3 Satz
+1 Nummer 2 aufgeführt, so sind Übersetzungen in die deutsche Sprache
+innerhalb eines Monats nach Eingang der Dokumente nachzureichen.
 
-(5) Die Übersetzung nach Absatz 3 oder Absatz 4 muss von einem
-Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich
-bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
-fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
-zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
+(5) Wird die Übersetzung im Sinne der Absätze 2 bis 4 nach Ablauf der
+Frist eingereicht, so gilt das fremdsprachige Dokument als zum
+Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine
+Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht
+eingegangen.
 
 
 ## Abschnitt 3 - Schlussvorschriften

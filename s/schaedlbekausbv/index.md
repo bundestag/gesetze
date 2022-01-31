@@ -367,8 +367,9 @@ Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
 
 (Fundstelle BGBl. I 2004, 1641 - 1644)
 

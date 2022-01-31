@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3856
 
+Geändert durch
+:   Art. 1 V v. 6.1.2020 I 26
+
 
 ## Eingangsformel
 
@@ -50,31 +53,59 @@ Angestellte der Deutschen Bundesbank nur mit vorheriger Genehmigung
 (1) Die Beamtinnen und Beamten sowie die Angestellten erhalten
 
 1.  für eine Verwendung in der Zentrale eine Bankzulage in Höhe von 9
-    Prozent und
+    Prozent des nach Absatz 2 maßgeblichen Grundgehalts oder
+    Tabellenentgelts und
 
 
 2.  für eine Verwendung in den Hauptverwaltungen eine Bankzulage in Höhe
-    von 5 Prozent
+    von 5 Prozent des nach Absatz 2 maßgeblichen Grundgehalts oder
+    Tabellenentgelts.
 
 
 
-des Grundgehalts oder des Tabellenentgelts. Das Grundgehalt nach Satz
-1 ist der Betrag, der sich ergibt, wenn das Grundgehalt nach der
-Anlage IV des Bundesbesoldungsgesetzes in der Fassung der
-Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) und der Anlage 1
-des Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S.
-160, 221, 462) mit 0,9205 multipliziert und das Produkt um 50 Euro
-vermindert wird. Das Tabellenentgelt nach Satz 1 ist das
-Tabellenentgelt nach dem Tarifvertrag für die Beschäftigten der
-Deutschen Bundesbank vom 1. Oktober 2005 in der am 1. August 2006
-geltenden Fassung.
 
-(2) Die Zulage ist nicht ruhegehaltfähig. Sie kann aus wichtigem Grund
+(2) Maßgebliches Grundgehalt ist
+
+1.  für die Besoldungsgruppen A 3 bis A 12 der jeweilige Betrag nach
+    Anlage IV des Bundesbesoldungsgesetzes in der am 1. März 2015
+    geltenden Fassung,
+
+
+2.  für die Besoldungsgruppen A 13 bis A 16 der jeweilige Betrag nach
+    Anlage IV des Bundesbesoldungsgesetzes in der am 1. März 2012
+    geltenden Fassung und
+
+
+3.  für die Besoldungsgruppen der Bundesbesoldungsordnung B der jeweilige
+    Betrag nach Anlage IV des Bundesbesoldungsgesetzes in der am 1. Januar
+    2011 geltenden Fassung.
+
+
+
+Maßgebliches Tabellenentgelt ist
+
+1.  für die Entgeltgruppen E 1 bis E 12 der jeweilige Betrag nach dem
+    Tarifvertrag für die Beschäftigten der Deutschen Bundesbank vom 1.
+    Oktober 2005 in der am 1. März 2015 geltenden Fassung und
+
+
+2.  für die Entgeltgruppen E 13 bis E 15 der jeweilige Betrag nach dem
+    Tarifvertrag für die Beschäftigten der Deutschen Bundesbank vom 1.
+    Oktober 2005 in der am 1. März 2012 geltenden Fassung.
+
+
+
+
+(3) Angestellten wird die Bankzulage mindestens in der Höhe gewährt,
+in der sie Angestellten, die in der nächstniedrigeren Entgeltgruppe
+eingestuft sind, gewährt wird.
+
+(4) Die Zulage ist nicht ruhegehaltfähig. Sie kann aus wichtigem Grund
 ganz oder teilweise widerrufen werden, insbesondere wenn die
 Leistungen hinter den Anforderungen zurückbleiben. Eine widerrufene
 Zulage kann nach angemessener Zeit wieder gewährt werden.
 
-(3) Soweit die Bankzulage nach § 31 Absatz 4 Satz 2 Nummer 1 Buchstabe
+(5) Soweit die Bankzulage nach § 31 Absatz 4 Satz 2 Nummer 1 Buchstabe
 b des Gesetzes über die Deutsche Bundesbank durch das
 Haushaltsbegleitgesetz 2006 (BGBl. I S. 1402) gekürzt worden oder
 weggefallen ist, wird eine Ausgleichszulage in Höhe des Unterschieds
@@ -82,8 +113,8 @@ zwischen der am 31. Juli 2006 gewährten Bankzulage und der Zulage nach
 Absatz 1 gewährt. Die Ausgleichszulage vermindert sich bei Beamtinnen
 und Beamten bei Erhöhungen der Dienstbezüge im Sinne von § 31 Absatz 4
 Satz 2 Nummer 2 des Gesetzes über die Deutsche Bundesbank um die
-Hälfte des Erhöhungsbetrags; Satz 2 gilt für Angestellte entsprechend.
-Absatz 2 gilt für die Ausgleichszulage entsprechend.
+Hälfte des Erhöhungsbetrags. Satz 2 gilt für Angestellte entsprechend.
+Absatz 4 gilt für die Ausgleichszulage entsprechend.
 
 
 ## § 3 Leistungszulagen und Leistungsprämien
@@ -128,10 +159,8 @@ Stellvertretung der weiteren Beamtin oder des weiteren Beamten gilt
 Satz 2 entsprechend. Die Mitglieder des Ausschusses sind sachlich
 unabhängig. Der Ausschuss gibt sich eine Verfahrensordnung.
 
-(2) Der Ausschuss kann über die in den Vorschriften über die
-Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank
-vorgesehenen Ausnahmen von § 22 Absatz 3 des Bundesbeamtengesetzes
-hinaus weitere Ausnahmen zulassen.
+(2) Der Ausschuss kann Ausnahmen von § 22 Absatz 3 des
+Bundesbeamtengesetzes zulassen.
 
 
 ## § 5 Versetzung ohne Zustimmung

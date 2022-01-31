@@ -4,7 +4,7 @@ Title: Verordnung über die Ermittlung der Eigenmittelausstattung von Institutsg
   auf Konzernebene
 jurabk: KonÜV
 layout: default
-origslug: kon_v
+origslug: konuev
 slug: konuev
 
 ---

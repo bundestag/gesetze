@@ -23,7 +23,7 @@ Zuletzt geändert durch
 
 
 
-### Art I bis Art IX -
+### Art I bis Art IX - 
 
 
 
@@ -72,11 +72,11 @@ dem Tag des Inkrafttretens dieses Gesetzes.
 
 
 
-### Art XII bis Art XV -
+### Art XII bis Art XV - 
 
 
 
-### Art XVI -
+### Art XVI - 
 
 (weggefallen)
 
@@ -85,7 +85,7 @@ dem Tag des Inkrafttretens dieses Gesetzes.
 
 
 
-### Art XVII u. Art XVIII -
+### Art XVII u. Art XVIII - 
 
 
 
@@ -93,7 +93,7 @@ dem Tag des Inkrafttretens dieses Gesetzes.
 
 
 
-### Art XIX -
+### Art XIX - 
 
 (weggefallen)
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 2071
 
-Geändert durch
-:   Art. 59 G v. 21.6.2005 I 1818
+Zuletzt geändert durch
+:   Art. 53 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -147,16 +147,16 @@ sind, ist nicht zulässig.
 Ausnahmen von den Vorschriften des Jugendarbeitsschutzgesetzes in dem
 in § 2 Satz 1 genannten Umfang sind auch für jugendliche
 Polizeivollzugsbeamte in der Bundespolizei während der Grundausbildung
-zulässig, wenn der Bundesminister des Innern unter den in § 2 Satz 1
-genannten Voraussetzungen Dienstleistungen dieser Beamten bei
-Naturkatastrophen, besonders schweren Unglücksfällen oder in Fällen
-anderer Art, die die Kräfte der Polizei in außergewöhnlichem Maße in
-Anspruch nehmen, angeordnet hat. Auf die Leistungsfähigkeit und den
-Ausbildungsstand der Jugendlichen ist besonders Rücksicht zu nehmen;
-die Heranziehung jugendlicher Polizeivollzugsbeamter zu solchen
-Dienstleistungen, die voraussichtlich mit besonderen Gefährdungen
-sowie mit außergewöhnlichen physischen oder psychischen Belastungen
-verbunden sind, ist nicht zulässig.
+zulässig, wenn der Bundesminister des Innern, für Bau und Heimat unter
+den in § 2 Satz 1 genannten Voraussetzungen Dienstleistungen dieser
+Beamten bei Naturkatastrophen, besonders schweren Unglücksfällen oder
+in Fällen anderer Art, die die Kräfte der Polizei in außergewöhnlichem
+Maße in Anspruch nehmen, angeordnet hat. Auf die Leistungsfähigkeit
+und den Ausbildungsstand der Jugendlichen ist besonders Rücksicht zu
+nehmen; die Heranziehung jugendlicher Polizeivollzugsbeamter zu
+solchen Dienstleistungen, die voraussichtlich mit besonderen
+Gefährdungen sowie mit außergewöhnlichen physischen oder psychischen
+Belastungen verbunden sind, ist nicht zulässig.
 
 
 ## § 4

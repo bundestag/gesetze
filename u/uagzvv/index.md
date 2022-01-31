@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1995, 1841
 
 Neugefasst durch
-:   Bek. v. 12.9.2002 I 3654
+:   Bek. v. 12.9.2002 I 3654;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2011 I 2725
+:   Art. 65 G v. 29.3.2017 I 626
 
 
 ## § 1 Antrag auf Zulassung als Umweltgutachter
@@ -231,16 +231,17 @@ beizufügen:
     Gesellschaftsvertrages oder der Satzung,
 
 
-2.  ein Organigramm im Sinne des § 10 Abs. 1 Nr. 6 des
+2.  ein Organigramm im Sinne des § 10 Absatz 1 Satz 1 Nr. 6 des
     Umweltauditgesetzes,
 
 
-3.  eine gesonderte Aufstellung der Personen im Sinne des § 10 Abs. 1 Nr.
-    1 und 2 des Umweltauditgesetzes mit Name, Geburtsdatum, Geburtsort und
-    Wohnort und Nachweis des Anstellungsverhältnisses und
+3.  eine gesonderte Aufstellung der Personen im Sinne des § 10 Absatz 1
+    Satz 1 Nr. 1 und 2 des Umweltauditgesetzes mit Name, Geburtsdatum,
+    Geburtsort und Wohnort und Nachweis des Anstellungsverhältnisses und
 
 
-4.  ein Nachweis im Sinne des § 10 Abs. 1 Nr. 7 des Umweltauditgesetzes.
+4.  ein Nachweis im Sinne des § 10 Absatz 1 Satz 1 Nr. 7 des
+    Umweltauditgesetzes.
 
 
 
@@ -500,9 +501,9 @@ nicht unterzieht.
 (2) Als Rücktritt gilt nicht, wenn der Antragsteller sich der
 mündlichen Prüfung nicht unterzieht und hierfür ein von ihm nicht zu
 vertretender Grund vorliegt. Der Grund muss der Zulassungsstelle
-unverzüglich schriftlich mitgeteilt und nachgewiesen werden. Die
-Zulassungsstelle entscheidet, ob ein Grund im Sinne des Satzes 1
-vorliegt und ob der Nachweis rechtzeitig erbracht ist. Ein
+unverzüglich schriftlich oder elektronisch mitgeteilt und nachgewiesen
+werden. Die Zulassungsstelle entscheidet, ob ein Grund im Sinne des
+Satzes 1 vorliegt und ob der Nachweis rechtzeitig erbracht ist. Ein
 Antragsteller, der sich mit Krankheit entschuldigt oder die mündliche
 Prüfung krankheitsbedingt abbricht, hat unverzüglich ein
 amtsärztliches Zeugnis vorzulegen.

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1574
 
+Geändert durch
+:   Art. 17 G v. 9.8.2019 I 1202
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2004/23/EG
 desEuropäischen Parlaments und des Rates vom 31. März 2004 zur
 Festlegung von Qualitäts- und Sicherheitsstandards für die Spende,
@@ -39,14 +42,6 @@ Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 Das Bundesministerium für Gesundheit kann den Wortlaut des
 Transplantationsgesetzes und des Transfusionsgesetzes in der vom 1.
 August 2007 an geltenden Fassung im Bundesgesetzblatt bekannt machen.
-
-
-## Art 7a Erfahrungsbericht der Bundesregierung
-
-Die Bundesregierung unterrichtet die gesetzgebenden Körperschaften des
-Bundes alle vier Jahre, erstmals bis zum 1. August 2010 über die
-Situation der Versorgung der Bevölkerung mit Gewebe und
-Gewebezubereitungen.
 
 
 ## Art 8 Inkrafttreten

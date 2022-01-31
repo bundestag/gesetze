@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Zollgesetzes
 jurabk: ZGÄndG 4 1957
 layout: default
-origslug: zg_ndg_4_1957
+origslug: zgaendg_4_1957
 slug: zgaendg_4_1957
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1957, 1331
+
+G aufgeh. durch
+:   Art. 13 Abs. 9 G v. 13.5.2015 I 706 mWv 1.1.2020
 
 
 

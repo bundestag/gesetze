@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 117
 
+Zuletzt geändert durch
+:   Art. 41 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -162,9 +165,9 @@ gelöst werden kann. Die Themenstellung kann sich auf alle
 Handlungsbereiche nach Absatz 1 beziehen. Die Dauer der Präsentation
 soll dabei zehn Minuten nicht überschreiten.
 
-(8) Das Thema der Präsentation wird vom Prüfungsteilnehmer gewählt und
-dem Prüfungsausschuss bei der ersten schriftlichen Prüfungsleistung
-eingereicht.
+(8) Das Thema der Präsentation wird von der zu prüfenden Person
+gewählt und dem Prüfungsausschuss bei der ersten schriftlichen
+Prüfungsleistung eingereicht.
 
 (9) Ausgehend von der Präsentation soll in dem Fachgespräch
 nachgewiesen werden, dass Berufswissen in immobilienbetriebstypischen
@@ -393,36 +396,109 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
-von der Ablegung einzelner schriftlicher Prüfungsleistungen befreit
-werden, wenn in den letzten fünf Jahren vor einer zuständigen Stelle,
-einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
-vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
-abgelegt wurde, die den Anforderungen der entsprechenden
-Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
-von der mündlichen Prüfung nach § 3 Abs. 7 bis 11 ist nicht zulässig.
-
-
-## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in allen schriftlich geprüften
-Handlungsbereichen und in der mündlichen Prüfung nach § 3 Abs. 7 bis
-11 mindestens ausreichende Leistungen erbracht wurden.
-
-(2) Die schriftlich geprüften Handlungsbereiche und die mündliche
-Prüfung nach § 3 Abs. 7 bis 11 sind jeweils gesondert zu bewerten.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-sowie ein Zeugnis nach der Anlage 2 auszustellen. Im Falle der
-Freistellung nach § 5 sind Ort und Datum der anderweitig abgelegten
-Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 6 Absatz 2 Satz 2 oder § 7 Absatz 2 Satz 1
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen. Eine Befreiung von der mündlichen Prüfung nach § 3
+Absatz 7 bis 11 ist nicht zulässig.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) In der Prüfung sind als Prüfungsleistungen zu bewerten:
+
+1.  die schriftlichen Prüfungen nach § 3 Absatz 3,
+
+
+2.  die mündliche Prüfung in Form eines
+
+    a)  Fachgesprächs nach § 3 Absatz 6 sowie
+
+
+    b)  einer Präsentation nach § 3 Absatz 6.
+
+
+
+
+
+
+Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation
+ist als zusammengefasste Bewertung der mündlichen Prüfung das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung des Fachgesprächs mit zwei Dritteln und
+
+
+2.  die Bewertung der Präsentation mit einem Drittel.
+
+
+
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in allen schriftlichen Teilprüfungen nach § 3 Absatz 3,
+
+
+2.  in der zusammengefassten Bewertung für die mündliche Prüfung.
+
+
+
+
+(2) Ist die Prüfung bestanden, wird die zusammengefasste Bewertung der
+mündlichen Teilprüfung kaufmännisch auf eine ganze Zahl gerundet.
+
+(3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen der schriftlichen
+Teilprüfungen und der zusammengefassten Bewertung der mündlichen
+Prüfung zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine
+ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1
+die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die
+zugeordnete Note ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist eine Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
 (2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich
@@ -435,7 +511,7 @@ wiederholen. Werden bestandene Prüfungsleistungen erneut geprüft, gilt
 in diesem Fall das Ergebnis der letzten Prüfung.
 
 
-## § 8 Ausbildereignung
+## § 10 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Immobilienfachwirt/zur Geprüften
 Immobilienfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -443,7 +519,7 @@ schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
 erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. Dezember 2011 nach
 den bisherigen Vorschriften zu Ende geführt werden.
@@ -456,169 +532,379 @@ Ablauf des 30. Juni 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
+## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Februar 2008 in Kraft.
+Diese Verordnung tritt am 1. Februar 2008 in Kraft. Gleichzeitig tritt
+die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
+Immobilienfachwirt/ Geprüfte Immobilienfachwirtin vom 23. Dezember
+1998 (BGBl. I S. 4060) außer Kraft.
 
+(zu den §§ 6 und 7)
 
-## Anlage 1 (zu § 6 Abs. 3) Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-( Fundstelle: BGBl. I 2008, 121 )
-
-*    *
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
+(Fundstelle: BGBl. I 2019, 2299 – 2300)
 
 
-*    *   Herr/Frau
-
-
-*    *   geboren am
-
-    *   in
-
-
-*    *   hat am
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin vom 25.
-Januar 2008 (BGBl. I S. 117)
-
-bestanden.
-
-
-*    *   Datum
-
-
-*    *   Unterschrift(en)
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 6 Abs. 3) Muster
-
-( Fundstelle: BGBl. I 2008, 122 )
-
-*    *
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
-
-
-*    *   Herr/Frau
-
-
-*    *   geboren am
-
-    *   in
-
-
-*    *   hat am
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin vom 25.
-Januar 2008 (BGBl. I S. 117) mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *[^f770804_01_BJNR011700008BJNE001400000]
-   Punkte
+*    *   Punkte
 
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *
-    *   1. Rahmenbedingungen der Immobilienwirtschaft
+*    *   100
 
-    *
-    *
+    *   1,0
 
-*    *
-    *   2. Unternehmenssteuerung und Kontrolle
+    *   sehr gut
 
-    *
-    *
-
-*    *
-    *   3. Personal, Arbeitsorganisation und Qualifizierung
-
-    *
-    *
-
-*    *
-    *   4. Immobilienbewirtschaftung
-
-    *
-    *
-
-*    *
-    *   5. Bauprojektmanagement
-
-    *
-    *
-
-*    *
-    *   6. Marktorientierung und Vertrieb, Maklertätigkeit
-
-    *
-    *
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-   (Im Fall des § 5: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 5 im Hinblick auf die am
-in
-vor
-abgelegte Prüfung in dem
-Handlungsbereich
-freigestellt.“)
+*    *   98 und 99
+
+    *   1,1
 
 
-*    *
-    *   7. Mündliche Prüfung (Präsentation und Fachgespräch)
+*    *   96 und 97
 
-    *
-    *
+    *   1,2
 
 
+*    *   94 und 95
 
-*    *   Datum
-
-
-*    *   Unterschrift(en)
+    *   1,3
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-[^f770804_01_BJNR011700008BJNE001400000]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    .
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2301)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zur Prüfung
+
+    a)  Benennung und Bewertung der schriftlichen Teilprüfungen,
+
+
+    b)  Benennung und Bewertung und Note der schriftlichen Prüfung,
+
+
+    c)  Benennung, zusammengefasste Bewertung und Note des Fachgesprächs mit
+        Präsentation,
+
+
+
+
+
+2.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+3.  die Gesamtnote als Dezimalzahl,
+
+
+4.  die Gesamtnote in Worten,
+
+
+5.  Befreiungen nach § 5,
+
+
+6.  Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach
+    der Ausbilder-Eignungsverordnung nach § 10.
+
+
+
 

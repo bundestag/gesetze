@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1956, 747
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 2 G v. 9.1.1978 II 838
+:   Art. 2 G v. 7.8.2013 II 1122
 
 
 ## Art 1
@@ -45,10 +45,14 @@ Abkommens.
 
 ## Art 3
 
-Für eine Änderung des Abkommens gemäß seinem Artikel VII darf der
-Gouverneur für die Bundesrepublik Deutschland in der Internationalen
-Finanz-Corporation nur stimmen, wenn und soweit er zu dieser
-Stimmenabgabe durch ein Bundesgesetz ermächtigt worden ist.
+Das Bundesministerium für wirtschaftliche Zusammenarbeit und
+Entwicklung wird ermächtigt, Änderungen des Abkommens vom 11. April
+1955 über die Internationale Finanz-Corporation nach Artikel VII des
+Abkommens, die sich im Rahmen der Aufgaben nach Artikel I des
+Abkommens halten und nicht Artikel VI Abschnitt 9 des Abkommens oder
+Änderungen betreffen, die der Zustimmung des deutschen Gouverneurs
+nach Artikel VII Absatz b des Abkommens bedürfen, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 4

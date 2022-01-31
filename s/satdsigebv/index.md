@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 807
 
+V aufgeh. durch
+:   Art. 4 Abs. 57 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 75 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 60 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
+
 
 ## Eingangsformel
 
@@ -27,7 +36,7 @@ Wirtschaft und Technologie:
 
 ## § 1 Gebührenerhebung
 
-Für Amtshandlungen der nach § 24 des
+Für individuell zurechenbare öffentliche Leistungen der nach § 24 des
 Satellitendatensicherheitsgesetzes zuständigen Behörde werden Gebühren
 erhoben. Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
 ergeben sich aus dem Gebührenverzeichnis in der Anlage zu dieser
@@ -38,8 +47,9 @@ Verordnung.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2010, 808)
 
@@ -235,8 +245,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     *
     *   Eine Gebühr nach 5.11 zuzüglich 4 Euro für jede weiteren 1 000 km
-        2                     , um die die Fläche des Zielgebiets die Fläche
-        nach 5.11 überschreitet.
+        2, um die die Fläche des Zielgebiets die Fläche nach 5.11
+        überschreitet.
 
 
 *    *   6

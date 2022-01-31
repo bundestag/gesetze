@@ -26,7 +26,7 @@ Lotteriegesetzes vom 8. April 1922 (Reichsgesetzbl. Teil I S. 393)
 wird folgendes bestimmt:
 
 
-## 1. - *Ku Zulassung zum Abrechnungsverfahren *KE
+## 1. - \*Ku Zulassung zum Abrechnungsverfahren \*KE
 
 
 
@@ -76,7 +76,7 @@ Durchschriften zu übertragen und die täglichen Gesamteinsätze in den
 dem Blocke beigehefteten Vordrucke (Muster B) einzutragen.
 
 
-### c) - *Ku Aufstellung der Nachweisung. Festsetzung der Steuer *KE
+### c) - \*Ku Aufstellung der Nachweisung. Festsetzung der Steuer \*KE
 
 
 
@@ -85,7 +85,7 @@ dem Blocke beigehefteten Vordrucke (Muster B) einzutragen.
 -
 
 
-### d) - *Ku Steuererhebung *KE
+### d) - \*Ku Steuererhebung \*KE
 
 
 
@@ -124,7 +124,7 @@ drei auf einer Seite hergestellt.
 Anwendung.
 
 
-### b) - *Ku Anschreibung des Wettscheinblocks *KE
+### b) - \*Ku Anschreibung des Wettscheinblocks \*KE
 
 
 

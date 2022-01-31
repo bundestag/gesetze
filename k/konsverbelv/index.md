@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2137
 
+Geändert durch
+:   Art. 8 V v. 11.12.2012 I 2637
+
 
 ## Eingangsformel
 
@@ -46,7 +49,7 @@ auf die Zuordnung des Besteuerungsrechts bei Abfindungen an
 Arbeitnehmer auf Grund einer entsprechenden Konsultationsvereinbarung
 im Sinn des § 2 Absatz 2 Satz 2 der Abgabenordnung zwischen den
 zuständigen Behörden im Sinn des Artikels 3 Absatz 1 Nummer 6 des
-Abkommens richtet sich nach den Absätzen 2 bis 5.
+Abkommens richtet sich nach den Absätzen 2 bis 4.
 
 (2) Ist einer Abfindung Versorgungscharakter beizumessen, gilt Artikel
 18 des Abkommens entsprechend.

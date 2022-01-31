@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes
-  über die Beteiligung der Soldaten und der Zivildienstleistenden)
+Title: Gesetz über den Vertrauensmann der Zivildienstleistenden
 jurabk: ZDVG
 layout: default
 origslug: zdvg
@@ -8,7 +7,7 @@ slug: zdvg
 
 ---
 
-# Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden) (ZDVG)
+# Gesetz über den Vertrauensmann der Zivildienstleistenden (ZDVG)
 
 Ausfertigungsdatum
 :   1991-01-16

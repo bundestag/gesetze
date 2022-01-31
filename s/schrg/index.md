@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1940, 1499
 
 Zuletzt geändert durch
-:   Art. 29 G v. 8.12.2010 I 1864
+:   Art. 2 G v. 21.1.2013 I 91
 
 
 ## Eingangsformel
@@ -1233,44 +1233,27 @@ gleichen Rang. § 25 Abs. 2, §§ 26, 27, 65 gelten sinngemäß.
 
 
 
-### § 83 (weggefallen)
+### § 83
+
+In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt
+dieses Gesetz mit folgenden Maßgaben:
+
+1.  Rechte, mit denen ein Schiff oder ein Schiffsbauwerk am 2. Oktober
+    1990 belastet war, bleiben mit dem Inhalt und Rang bestehen, der sich
+    aus dem an diesem Tage geltenden Recht ergibt. § 57 Absatz 3 ist nicht
+    anzuwenden.
+
+
+2.  Zur Aufhebung einer Hypothek, die am 2. Oktober 1990 bestand, ist die
+    Zustimmung des Eigentümers nicht erforderlich. Die Bestimmungen dieses
+    Gesetzes über den Verzicht auf die Hypothek sind bei solchen
+    Hypotheken nicht anzuwenden.
+
+
 
 
 
 ### § 84
 
 Dieses Gesetz tritt am 1. Januar 1941 in Kraft;
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 954)
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-10. Gesetz über Rechte an eingetragenen Schiffen und Schiffsbauwerken in
-    der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-4,
-    veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz
-    vom 28. August 1969 (BGBl. I S. 1513),
-
-    mit folgenden Maßgaben:
-
-    a)  Artikel 233 §§ 1, 2 und 3 Abs. 1 und 2 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche findet entsprechende Anwendung.
-
-
-    b)  Für die Übertragung und die Aufhebung von Hypotheken, die am Tag des
-        Wirksamwerdens des Beitritts bestanden, gelten die Vorschriften des
-        Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken
-        mit der Maßgabe, daß zur Aufhebung die Zustimmung des Eigentümers
-        nicht erforderlich ist. Die Bestimmungen des vorbezeichneten Gesetzes
-        über den Verzicht auf die Hypothek sind bei solchen Hypotheken nicht
-        anzuwenden.
-
-
-
-
-
-
 

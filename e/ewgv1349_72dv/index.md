@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1973, 273
 
 Zuletzt geändert durch
-:   Art. 21 V v. 13.12.2011 I 2720
+:   Art. 8 V v. 4.1.2019 I 2
 
 
 ## Eingangsformel
@@ -151,72 +151,91 @@ Ausfuhr abfertigt.
 
 ## § 3 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
 
-Die Überwachung der Einhaltung der Rechtsakte der Europäischen
-Gemeinschaft oder der Europäischen Union und dieser Verordnung bei
-Einfuhr von Bruteiern und Küken
+(1) Der Bundesanstalt wird übertragen die Überwachung der Einhaltung
+der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
+Union und dieser Verordnung bei Einfuhr von Bruteiern und Küken
 
-1.  aus dritten Ländern in den Geltungsbereich dieser Verordnung, solange
-    die Erzeugnisse Zollgut sind,
-
-
-2.  aus dem Geltungsbereich dieser Verordnung in diese Länder
+1.  aus Drittländern in den Geltungsbereich dieser Verordnung, solange die
+    Erzeugnisse Nicht-Unionsware sind,
 
 
+2.  aus dem Geltungsbereich dieser Verordnung in Drittländer.
 
-wird der Bundesanstalt übertragen.
+
+
+
+(2) Zum Zwecke der Durchführung der Überwachung der Einfuhr von
+Bruteiern und Küken verarbeitet die Bundesanstalt für Landwirtschaft
+und Ernährung die Daten gemäß Abschnitt III der Anlage des
+Marktorganisationsgesetzes.
 
 
 ## § 4 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig handelt, wer entgegen Anhang XIV Teil C Kapitel III
-Nummer 3 Satz 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-1), die zuletzt durch die Verordnung (EU) Nr. 513/2010 (ABl. L 150 vom
-16\.6.2010, S. 40) geändert worden ist, Küken einführt, die nicht oder
-nicht richtig sortiert sind.
+(1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
+Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
+entgegen § 1 Bruteier oder Küken zum Verkauf vorrätig hält, anbietet,
+feilhält, liefert, verkauft oder in den Verkehr bringt.
 
-(2) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 617/2008
-der Kommission vom 27. Juni 2008 mit Durchführungsbestimmungen zur
-Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der
-Vermarktungsnormen für Bruteier und Küken von Hausgeflügel (ABl. L 168
-vom 28.6.2008, S. 5), die durch die Verordnung (EU) Nr. 557/2010 (ABl.
-L 159 vom 25.6.2010, S. 13) geändert worden ist, verstößt, indem er
+(2) Ordnungswidrig im Sinne des § 36 Absatz 4 Satz 1 des
+Marktorganisationsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
+617/2008 der Kommission vom 27. Juni 2008 mit
+Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates
+hinsichtlich der Vermarktungsnormen für Bruteier und Küken von
+Hausgeflügel (ABl. L 168 vom 28.6.2008, S. 5), die zuletzt durch die
+Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74)
+geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 4 Absatz 3 Satz 1 in Verbindung mit Satz 2 oder Satz
-    3 Küken einführt, die nicht oder nicht richtig sortiert oder in
-    Kartons verpackt sind, die nicht oder nicht richtig gekennzeichnet
-    sind,
+1.  entgegen Artikel 4 Absatz 3 Satz 1 in Verbindung mit Satz 2 oder 3
+    Küken einführt,
 
 
-2.  entgegen Artikel 7 Satz 1 aus dem Brutschrank herausgenommene Bruteier
-    dem menschlichen Verzehr zuführt oder
+2.  entgegen Artikel 7 Satz 1 ein dort genanntes Ei dem menschlichen
+    Verzehr zuführt oder
 
 
-3.  entgegen Artikel 8 Absatz 1 eine dort genannte Angabe nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+3.  entgegen Artikel 8 Absatz 1 eine Angabe nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig übermittelt.
 
 
 
 
-(3) Ordnungswidrig im Sinne des § 7 Absatz 1 Nummer 3 des
-Handelsklassengesetzes handelt, wer entgegen § 1 Bruteier oder Küken
-zum Verkauf vorrätig hält, anbietet, feilhält, liefert, verkauft,
-sonst in den Verkehr bringt oder einführt.
-
-(4) Die Ordnungswidrigkeiten nach Absatz 1 und 2 können nach § 1 Abs.
-3 Satz 1 Nr. 2 des Handelsklassengesetzes mit einer Geldbuße bis zu
-zehntausend Euro geahndet werden.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Ernährung
+und Landwirtschaft, soweit sie nach § 3 für die Überwachung zuständig
+ist.
 
 
-## § 5 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
+## § 5 Überwachung, Duldungs- und Auskunftspflichten
 
-Bei Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 4 des
-Handelsklassengesetzes sowie nach § 4 Absatz 1, Absatz 2 Nummer 1 und
-Absatz 3 Nummer 2 ist die Bundesanstalt Verwaltungsbehörde im Sinne
-des Gesetzes über Ordnungswidrigkeiten, soweit sie nach § 3 für die
-Überwachung zuständig ist.
+(1) Soweit es zur Überwachung der Einhaltung der nach dieser
+Verordnung geltenden Vorschriften erforderlich ist, können die
+Beauftragten der zuständigen Stellen bei Brütereien und Betrieben, die
+Bruteier zum Verkauf vorrätig halten, anbieten, feilhalten, liefern,
+verkaufen oder sonst in den Verkehr bringen oder in den
+Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung
+verbringen, während der Geschäftszeit
+
+1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+    Transportmittel betreten und dort Besichtigungen vornehmen,
+
+
+2.  Geschäftsunterlagen einsehen und prüfen,
+
+
+3.  Auskunft verlangen.
+
+
+
+
+(2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten
+der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
+Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
+gestatten, die zu besichtigenden Bruteier oder Küken selbst oder durch
+andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen
+werden kann, selbst oder durch andere die erforderliche Hilfe bei der
+Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen,
+prüfen zu lassen und Auskünfte zu erteilen.
 
 
 ## § 6 Inkrafttreten

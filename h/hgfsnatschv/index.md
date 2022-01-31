@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 776
 
 Geändert durch
-:   Art. 108 G v. 21.6.2005 I 1818
+:   Art. 25 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -91,9 +91,11 @@ folgender Koordinaten zu ankern:
 Diese Gebiete sind in der als Anlage zu dieser Verordnung beigefügten
 Karte dargestellt.
 
-(2) Das Wasser- und Schiffahrtsamt Tönning kann von den Verboten nach
-Absatz 1 allgemein oder im Einzelfall, zeitlich begrenzt oder auf
-Dauer Befreiungen gewähren, wenn
+(2) Das vom Bundesministerium für Verkehr und digitale Infrastruktur
+im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen-
+und Schifffahrtsamt kann von den Verboten nach Absatz 1 allgemein oder
+im Einzelfall, zeitlich begrenzt oder auf Dauer Befreiungen gewähren,
+wenn
 
 1.  dafür ein unabweisbar wichtiger Grund besteht,
 
@@ -115,8 +117,8 @@ dies mit dem Schutzzweck der Verordnung vereinbar ist.
 
 Die Verbote nach § 2 gelten nicht für
 
-1.  Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
-    Fischereiaufsicht, der Wasserschutzpolizei, des Zolls, der
+1.  Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
+    der Fischereiaufsicht, der Wasserschutzpolizei, des Zolls, der
     Bundespolizei, der Bundeswehr sowie des Landesamts für Wasserhaushalt
     und Küsten und des Amtes für Land- und Wasserwirtschaft,
 

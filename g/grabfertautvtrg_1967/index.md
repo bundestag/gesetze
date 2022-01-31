@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1970, 697
 
-Geändert durch
-:   Art. 2 G v. 28.8.1984 II 832
+Zuletzt geändert durch
+:   Art. 208 V v. 19.6.2020 I 1328
 
 
 ## Art 1
@@ -34,10 +34,10 @@ veröffentlicht.
 
 ## Art 2
 
-Die Bundesminister des Innern und der Finanzen werden ermächtigt,
-Änderungen der Anlage I des Vertrages auf Grund seines Artikels 1 Abs.
-3 durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu
-setzen.
+Die Bundesminister des Innern, für Bau und Heimat und der Finanzen
+werden ermächtigt, Änderungen der Anlage I des Vertrages auf Grund
+seines Artikels 1 Abs. 3 durch Rechtsverordnung mit Zustimmung des
+Bundesrates in Kraft zu setzen.
 
 
 ## Art 3

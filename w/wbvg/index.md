@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2319
 
+Zuletzt geändert durch
+:   Art. 12 G v. 30.11.2019 I 1948
+
 
 ## § 1 Anwendungsbereich
 
@@ -234,7 +237,13 @@ muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
 
 3.  die Informationen des Unternehmers nach § 3 als Vertragsgrundlage
     benennen und mögliche Abweichungen von den vorvertraglichen
-    Informationen gesondert kenntlich machen.
+    Informationen gesondert kenntlich machen,
+
+
+4.  die Informationen nach § 36 Absatz 1 des
+    Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
+    254) geben; dies gilt auch, wenn der Unternehmer keine Webseite
+    unterhält oder keine Allgemeinen Geschäftsbedingungen verwendet.
 
 
 
@@ -259,7 +268,11 @@ vereinbart und angemessen. In Verträgen mit Verbrauchern, denen Hilfe
 in Einrichtungen nach dem Zwölften Buch Sozialgesetzbuch gewährt wird,
 gilt die aufgrund des Zehnten Kapitels des Zwölften Buches
 Sozialgesetzbuch festgelegte Höhe des Entgelts als vereinbart und
-angemessen.
+angemessen. In Verträgen mit Verbrauchern, die Leistungen nach Teil 2
+des Neunten Buches Sozialgesetzbuch in Anspruch nehmen, gilt die
+aufgrund der Bestimmungen des Teils 2 Kapitel 8 des Neunten Buches
+Sozialgesetzbuch festgelegte Höhe des Entgelts für diese Leistungen
+als vereinbart und angemessen.
 
 (3) Der Unternehmer hat das Entgelt sowie die Entgeltbestandteile für
 die Verbraucher nach einheitlichen Grundsätzen zu bemessen. Eine
@@ -312,10 +325,10 @@ gesonderte Vereinbarung mit dem Verbraucher bei Vertragsschluss ganz
 oder teilweise ausschließen. Der Ausschluss ist nur wirksam, soweit
 der Unternehmer unter Berücksichtigung des dem Vertrag zugrunde
 gelegten Leistungskonzepts daran ein berechtigtes Interesse hat und
-dieses in der Vereinbarung begründet. Die Belange behinderter Menschen
-sind besonders zu berücksichtigen. Die Vereinbarung bedarf zu ihrer
-Wirksamkeit der Schriftform; die elektronische Form ist
-ausgeschlossen.
+dieses in der Vereinbarung begründet. Die Belange von Menschen mit
+Behinderungen sind besonders zu berücksichtigen. Die Vereinbarung
+bedarf zu ihrer Wirksamkeit der Schriftform; die elektronische Form
+ist ausgeschlossen.
 
 
 ## § 9 Entgelterhöhung bei Änderung der Berechnungsgrundlage
@@ -323,7 +336,7 @@ ausgeschlossen.
 (1) Der Unternehmer kann eine Erhöhung des Entgelts verlangen, wenn
 sich die bisherige Berechnungsgrundlage verändert. Neben dem erhöhten
 Entgelt muss auch die Erhöhung selbst angemessen sein. Satz 2 gilt
-nicht für die in § 7 Absatz 2 Satz 2 und 3 genannten Fälle.
+nicht für die in § 7 Absatz 2 Satz 2 bis 4 genannten Fälle.
 Entgelterhöhungen aufgrund von Investitionsaufwendungen sind nur
 zulässig, soweit sie nach der Art des Betriebs notwendig sind und
 nicht durch öffentliche Förderung gedeckt werden.
@@ -370,7 +383,10 @@ Absatz 1 bis zur Höhe der erbrachten Leistungen vorrangig dem Träger
 der Sozialhilfe zu. Verbrauchern, die Leistungen nach dem Elften Buch
 Sozialgesetzbuch in Anspruch nehmen, steht der Kürzungsbetrag bis zur
 Höhe ihres Eigenanteils selbst zu; ein überschießender Betrag ist an
-die Pflegekasse auszuzahlen.
+die Pflegekasse auszuzahlen. Bei Verbrauchern, die Leistungen nach
+Teil 2 des Neunten Buches Sozialgesetzbuch in Anspruch nehmen, steht
+der Kürzungsbetrag nach Absatz 1 bis zur Höhe der erbrachten
+Leistungen vorrangig dem Träger der Eingliederungshilfe zu.
 
 
 ## § 11 Kündigung durch den Verbraucher
@@ -557,10 +573,17 @@ Verbraucher zu und erhöhen die Sicherheit.
 Buches Sozialgesetzbuch in Anspruch nehmen, oder Verbrauchern, denen
 Hilfe in Einrichtungen nach dem Zwölften Buch Sozialgesetzbuch gewährt
 wird, kann der Unternehmer keine Sicherheiten nach Absatz 1 verlangen.
-Von Verbrauchern, die Leistungen im Sinne des § 36 Absatz 1 Satz 1 des
-Elften Buches Sozialgesetzbuch in Anspruch nehmen, kann der
-Unternehmer nur für die Erfüllung der die Überlassung von Wohnraum
-betreffenden Pflichten aus dem Vertrag Sicherheiten verlangen.
+Von Verbrauchern, die Leistungen nach dem Dritten oder Vierten Kapitel
+des Zwölften Buches Sozialgesetzbuch erhalten und in einer besonderen
+Wohnform nach § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften
+Buches Sozialgesetzbuch leben, kann der Unternehmer keine Sicherheiten
+nach Absatz 1 verlangen, wenn das für die Überlassung von Wohnraum
+geschuldete Entgelt durch Direktzahlung des Sozialhilfeträgers an den
+Unternehmer geleistet wird. Von Verbrauchern, die Leistungen im Sinne
+des § 36 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch in
+Anspruch nehmen, kann der Unternehmer nur für die Erfüllung der die
+Überlassung von Wohnraum betreffenden Pflichten aus dem Vertrag
+Sicherheiten verlangen.
 
 
 ## § 15 Besondere Bestimmungen bei Bezug von Sozialleistungen
@@ -579,6 +602,12 @@ den aufgrund des Zehnten Kapitels des Zwölften Buches Sozialgesetzbuch
 getroffenen Regelungen entsprechen. Absatz 1 Satz 2 ist entsprechend
 anzuwenden.
 
+(3) In Verträgen mit Verbrauchern, die Leistungen nach Teil 2 des
+Neunten Buches Sozialgesetzbuch in Anspruch nehmen, müssen die
+Vereinbarungen den aufgrund des Teils 2 Kapitel 8 des Neunten Buches
+Sozialgesetzbuch getroffenen Regelungen entsprechen. Absatz 1 Satz 2
+ist entsprechend anzuwenden.
+
 
 ## § 16 Unwirksamkeit abweichender Vereinbarungen
 
@@ -586,7 +615,7 @@ Von den Vorschriften dieses Gesetzes zum Nachteil des Verbrauchers
 abweichende Vereinbarungen sind unwirksam.
 
 
-## § 17 Übergangsvorschrift
+## § 17 Übergangsvorschriften
 
 (1) Auf Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des
 Heimgesetzes, die vor dem 1. Oktober 2009 geschlossenen worden sind,
@@ -601,4 +630,7 @@ schriftlichen Anpassung eines Vertrags in entsprechender Anwendung des
 (2) Auf die bis zum 30. September 2009 geschlossenen Verträge, die
 keine Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des Heimgesetzes
 sind, ist dieses Gesetz nicht anzuwenden.
+
+(3) § 6 Absatz 3 Nummer 4 gilt nur für nach dem 31. März 2016
+geschlossene Verträge.
 

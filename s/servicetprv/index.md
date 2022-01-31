@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3127
 
+Zuletzt geändert durch
+:   Art. 13 V v. 9.12.2019 I 2153
+
 
 
 ## Eingangsformel
@@ -217,11 +220,11 @@ zugeordnet:
 
 
 
-(2) Im Qualifikationsschwerpunkt "Fahrzeugtechnik" soll der
-Prüfungsteilnehmer nachweisen, daß er die Grundlagen der
+(2) Im Qualifikationsschwerpunkt "Fahrzeugtechnik" soll die zu
+prüfende Person nachweisen, daß sie die Grundlagen der
 Kraftfahrzeugmechanik, der Kraftfahrzeugelektrik und -elektronik, der
 Kraftfahrzeughydraulik und -pneumatik, der Kraftfahrzeugsteuer- und
-Regeltechnik soweit beherrscht, daß er die Funktionsweise von
+Regeltechnik soweit beherrscht, daß sie die Funktionsweise von
 Meßgeräten, Werkstatteinrichtungen und Fahrzeugsystemen, deren
 Zusammenspiel und deren Leistungsmerkmale und Fehlermöglichkeiten
 verstehen und für Fehlerdiagnose, Instandhaltung und Installation
@@ -238,10 +241,10 @@ erfolgreich einsetzen kann. In diesem Rahmen können geprüft werden:
 
 
 
-(3) Im Qualifikationsschwerpunkt "Fahrzeugsysteme" soll der
-Prüfungsteilnehmer nachweisen, daß er unter Nutzung seiner Grundlagen-
+(3) Im Qualifikationsschwerpunkt "Fahrzeugsysteme" soll die zu
+prüfende Person nachweisen, daß sie unter Nutzung seiner Grundlagen-
 und Methodenkenntnisse das Kraftfahrzeug als Gesamtheit von
-Fahrzeugsystemen verstehen kann. Er soll in der Lage sein, die
+Fahrzeugsystemen verstehen kann. Sie soll in der Lage sein, die
 einzelnen Fahrzeugsysteme zu unterscheiden, gegeneinander abzugrenzen,
 ihre Leistungsfähigkeit zu diagnostizieren, sie zu installieren,
 optimal einzustellen, instandzuhalten und zu reparieren. In diesem
@@ -297,7 +300,7 @@ Fahrzeugsysteme nachgewiesen werden:
 
 
 (4) Im Qualifikationsschwerpunkt "Werkstatt- und Betriebstechnik" soll
-der Prüfungsteilnehmer nachweisen, daß er die üblichen Werkzeuge,
+die zu prüfende Person nachweisen, daß sie die üblichen Werkzeuge,
 Geräte und Einrichtungen kennt, deren Instandhaltung veranlassen und
 gemäß den Grundsätzen und Vorschriften der Qualitätssicherung, der
 Arbeitssicherheit und des Gesundheits- und Umweltschutzes einsetzen
@@ -315,15 +318,15 @@ kann. In diesem Rahmen können geprüft werden:
 
 
 
-(5) Im Qualifikationsschwerpunkt "Auftragsabwicklung" soll der
-Prüfungsteilnehmer nachweisen, daß er Kundenaufträge technisch und
+(5) Im Qualifikationsschwerpunkt "Auftragsabwicklung" soll die zu
+prüfende Person nachweisen, daß sie Kundenaufträge technisch und
 organisatorisch präzisieren und unter Berücksichtigung des
 betrieblichen Rahmens und der geltenden Vorschriften in
-Werkstattaufträge umsetzen kann. Er soll in der Lage sein, die
+Werkstattaufträge umsetzen kann. Sie soll in der Lage sein, die
 personellen Anforderungen, die erforderlichen Hilfsmittel und den
 Teile- und Materialbedarf festzustellen und unter Berücksichtigung der
 Terminlage des Unternehmens mit dem Kunden verantwortlich Termine
-abzusprechen. Er soll eine effiziente Durchführungskontrolle für den
+abzusprechen. Sie soll eine effiziente Durchführungskontrolle für den
 Kundenauftrag vornehmen können. In diesem Rahmen können geprüft
 werden:
 
@@ -340,7 +343,7 @@ werden:
 
 
 (6) Im Qualifikationsschwerpunkt "Ersatzteil- und
-Zubehörteilbestimmung" soll der Prüfungsteilnehmer nachweisen, daß er
+Zubehörteilbestimmung" soll die zu prüfende Person nachweisen, daß sie
 die unterschiedlichen Ersatz- und Zubehörteile und deren Varianten
 kennt und diese unter Gesichtspunkten der Wirtschaftlichkeit, der
 Gewährleistung, der Sicherheit und des Umweltschutzes, beurteilen und
@@ -360,8 +363,8 @@ einsetzen kann. In diesem Rahmen können geprüft werden:
 
 
 
-(7) Im Qualifikationsschwerpunkt "Kostenabschätzung" soll der
-Prüfungsteilnehmer nachweisen, daß er die kostenbestimmenden Faktoren
+(7) Im Qualifikationsschwerpunkt "Kostenabschätzung" soll die zu
+prüfende Person nachweisen, daß sie die kostenbestimmenden Faktoren
 auch in schwierigen Fällen realistisch einschätzen, im Sinne des
 Kunden transparent machen und durch geeignete Handlungsalternativen
 und Wege der Instandsetzung optimieren kann. In diesem Rahmen können
@@ -382,13 +385,12 @@ geprüft werden:
 
 
 
-(8) Im Qualifikationsschwerpunkt "Information" soll der
-Prüfungsteilnehmer nachweisen, daß er die Bedeutung von Informationen
-und deren Aktualität sowie von Informationssystemen und
-Informationshilfen für Betriebsabläufe und Kunden richtig einschätzen
-kann. Er soll die erforderlichen Informationen und
-Informationshilfsmittel ermitteln und sachgerecht einsetzen können. In
-diesem Rahmen können geprüft werden:
+(8) Im Qualifikationsschwerpunkt "Information" soll die zu prüfende
+Person nachweisen, daß sie die Bedeutung von Informationen und deren
+Aktualität sowie von Informationssystemen und Informationshilfen für
+Betriebsabläufe und Kunden richtig einschätzen kann. Sie soll die
+erforderlichen Informationen und Informationshilfsmittel ermitteln und
+sachgerecht einsetzen können. In diesem Rahmen können geprüft werden:
 
 1.  Kenntnis der unterschiedlichen für den Service notwendigen
     Informationen und ihrer Bedeutung,
@@ -400,10 +402,10 @@ diesem Rahmen können geprüft werden:
 
 
 
-(9) Im Qualifikationsschwerpunkt "Dokumentation" soll der
-Prüfungsteilnehmer nachweisen, daß er Funktion und Erfordernisse von
+(9) Im Qualifikationsschwerpunkt "Dokumentation" soll die zu prüfende
+Person nachweisen, daß sie Funktion und Erfordernisse von
 Dokumentationen unter Rechts-, Gewährleistungs- und
-Qualitätsgesichtspunkten einschätzen und diese für seine Arbeit nutzen
+Qualitätsgesichtspunkten einschätzen und diese für ihre Arbeit nutzen
 kann. In diesem Rahmen können geprüft werden:
 
 1.  Kenntnis der Bedeutung von Dokumentationen für Rechts- und
@@ -420,12 +422,12 @@ kann. In diesem Rahmen können geprüft werden:
 
 
 (10) Im Qualifikationsschwerpunkt "Kooperation, Kommunikation und
-Mitarbeiterqualifizierung" soll der Prüfungsteilnehmer nachweisen, daß
-er die Bedeutung persönlicher Motivation und Qualifikation für den
+Mitarbeiterqualifizierung" soll die zu prüfende Person nachweisen, daß
+sie die Bedeutung persönlicher Motivation und Qualifikation für den
 Unternehmenserfolg sowie der Kooperation und Kommunikation als
-Leistungsfaktoren des Betriebes realistisch einschätzen kann. Er soll
-in der Lage sein, seine eigene Funktion im Kooperationsgefüge des
-Unternehmens zu erkennen und seinen Beitrag zur Kommunikation und
+Leistungsfaktoren des Betriebes realistisch einschätzen kann. Sie soll
+in der Lage sein, ihre eigene Funktion im Kooperationsgefüge des
+Unternehmens zu erkennen und ihren Beitrag zur Kommunikation und
 Kooperation sowie zur Qualifizierung der Mitarbeiter zu leisten. In
 diesem Rahmen können geprüft werden:
 
@@ -445,10 +447,10 @@ diesem Rahmen können geprüft werden:
 
 
 (11) Im Qualifikationsschwerpunkt "Kundenbetreuung und Kundenberatung"
-soll der Prüfungsteilnehmer nachweisen, daß er die Bedeutung eines
+soll die zu prüfende Person nachweisen, daß sie die Bedeutung eines
 guten Verhältnisses zum Kunden und dessen Voraussetzungen realistisch
-einschätzen und in seinem Arbeitsbereich entsprechend handeln kann.
-Dabei soll er sowohl indirekt über den Service, als auch im direkten
+einschätzen und in ihren Arbeitsbereich entsprechend handeln kann.
+Dabei soll sie sowohl indirekt über den Service, als auch im direkten
 Kundenkontakt kundenorientiert kommunizieren und handeln können. In
 diesem Rahmen können geprüft werden:
 
@@ -470,49 +472,95 @@ diesem Rahmen können geprüft werden:
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer kann auf Antrag von den Aufgaben gemäß § 3 Abs.
-2 Nr. 1 bis 3 von der zuständigen Stelle freigestellt werden, wenn er
-in den letzten fünf Jahren vor einer zuständigen Stelle, einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuß eine Prüfung bestanden hat, deren
-Inhalt den Anforderungen der jeweiligen Aufgabe entspricht.
-
-
-## § 6 Bestehen der Prüfung
-
-(1) Die Aufgaben gemäß § 3 Abs. 2 Nr. 1 bis 4 sind je gesondert nach
-Punkten zu bewerten. Dabei ist die in der Anlage aufgeführte
-Punktebewertungsskala zugrunde zu legen. Diese vier Punktebewertungen
-sind durch Bildung des arithmetischen Mittels zu einer Gesamtnote
-zusammenzufassen.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in den
-Aufgaben gemäß § 3 Abs. 2 Nr. 1 und 3 mindestens ausreichende
-Leistungen und in der Gesamtprüfung mindestens die Note ausreichend
-erzielt hat.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis nach dem Muster der
-Anlage auszustellen. Im Fall der Freistellung gemäß § 5 sind Ort und
-Datum sowie das Prüfungsgremium und die Bezeichnung der anderweitig
-abgelegten Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes oder § 42c Absatz 2 der Handwerksordnung von
+der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht.
+Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6
+Absatz 2 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen. Eine Befreiung vom situationsbezogenen Fachgespräch
+nach § 3 Absatz 2 Nummer 4 ist nicht zulässig.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die beiden Situationsaufgaben nach § 3 Absatz 2 Nummer 1 und 2,
+die ergänzenden schriftlichen Aufgaben nach § 3 Absatz 2 Nummer 3 und
+das situationsbezogene Fachgespräch nach § 3 Absatz 2 Nummer 4 sind
+einzeln zu bewerten. Aus der Summe der einzelnen Bewertungen
+(Gesamtpunktzahl) ist das arithmetische Mittel zu berechnen.
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in der Situationsaufgabe nach § 3 Absatz 2 Nummer 1,
+
+
+2.  in den ergänzenden schriftlichen Aufgaben nach § 3 Absatz 2 Nummer 3
+    und
+
+
+3.  im arithmetischen Mittel der Gesamtpunktzahl aller in § 6 Absatz 2
+    Satz 1 bezeichneten Prüfungsleistungen.
+
+
+
+
+(2) Ist die Prüfung bestanden, so wird die Gesamtpunktzahl
+kaufmännisch auf eine ganze Zahl gerundet.
+
+(3) Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B ist die
+Gesamtnote als Dezimalzahl mit einer Nachkommastelle und in Worten
+anzugeben. Jede Befreiung nach § 5 ist mit Ort, Datum und Bezeichnung
+des Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag
-von der Prüfung in einzelnen Aufgaben zu befreien, wenn seine
+(2) In der Wiederholungsprüfung ist die zu prüfende Person auf Antrag
+von der Prüfung in einzelnen Aufgaben zu befreien, wenn ihre
 Leistungen darin in einer vorangegangenen Prüfung ausgereicht haben
-und er sich innerhalb von zwei Jahren, gerechnet vom Tage der
+und sie sich innerhalb von zwei Jahren, gerechnet vom Tage der
 Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung
 angemeldet hat.
 
 
-## § 8 Gleichstellung anderer Prüfungszeugnisse
+## § 10 Gleichstellung anderer Prüfungszeugnisse
 
 Prüfungszeugnisse von Weiterbildungsstätten über das Bestehen der
 Prüfung zum Kraftfahrzeug-Servicetechniker/ zur Kraftfahrzeug-
@@ -522,7 +570,7 @@ Deutschen Kraftfahrzeuggewerbes aus der Zeit vom 1. Januar 1992 bis
 dieser Verordnung gleichgestellt.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
 Prüfungsverfahren zum Kraftfahrzeug-Servicetechniker können nach den
@@ -537,76 +585,387 @@ Prüfungsteilnehmers die Wiederholungsprüfung gemäß dieser Verordnung
 durchführen; § 7 Abs. 2 findet in diesem Fall keine Anwendung.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1998 in Kraft.
 
+(zu den §§ 6 und 7)
 
-## Anlage (zu § 6 Abs. 3)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 1997, 3131 - 3132)
-Muster
-Seite 1
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-Geprüfter Kraftfahrzeug-Servicetechniker/
-Geprüfte Kraftfahrzeug-Servicetechnikerin
-Herr/Frau
-.....................................................................
-geboren am ........................... in
-.....................................
-hat am ............................... die Prüfung zum anerkannten
-Abschluß
-Geprüfter Kraftfahrzeug-Servicetechniker/
-Geprüfte Kraftfahrzeug-Servicetechnikerin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-"Geprüfter
-Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-
-Servicetechnikerin"
-vom 15. Dezember 1997 (BGBl. I S. 3127) mit der Gesamtnote
-..............
-bestanden.
-Datum ...........................
-Unterschrift ....................
-(Siegel der zuständigen Stelle)
-Die Punktebewertungsskala unterteilt sich wie folgt:
-100-92 Punkte = Note 1 = sehr gut,
-unter 92-81 Punkte = Note 2 = gut,
-unter 81-67 Punkte = Note 3 = befriedigend,
-unter 67-50 Punkte = Note 4 = ausreichend,
-unter 50-30 Punkte = Note 5 = mangelhaft,
-unter 30- 0 Punkte = Note 6 = ungenügend.
-Seite 2
-Die Prüfung bestand aus
-
-1.  einer Situationsaufgabe im Handlungsbereich "Technik" mit dem
-    Schwerpunkt "Fahrzeugsysteme", integriert mit Prüfungsinhalten der
-    Qualifikationsschwerpunkte "Werkstatt- und Betriebstechnik",
-    "Information" und "Dokumentation",
+(Fundstelle: BGBl. I 2019, 2198 - 2199)
 
 
-2.  einer Situationsaufgabe in den Handlungsbereichen "Technik" und
-    "Organisation, Kooperation und Kommunikation" mit den Schwerpunkten
-    "Fahrzeugsysteme", "Werkstatt- und Betriebstechnik" und
-    "Auftragsabwicklung" integriert mit Prüfungsinhalten der
-    Qualifikationsschwerpunkte ... (mindestens zwei aus § 4 Abs. 6 bis
-    11),
+*    *   Punkte
+
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-3.  ergänzenden schriftlichen Aufgaben aus den Handlungsbereichen
-    "Technik" und "Organisation, Kooperation und Kommunikation" und
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-4.  einem situationsbezogenem Fachgespräch zu den Aufgaben 1 bis 3 mit den
-    Schwerpunkten "Kooperation, Kommunikation und
-    Mitarbeiterqualifizierung" sowie "Kundenbetreuung und -beratung".
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-(Im Fall des § 5: "Der Prüfungsteilnehmer wurde gemäß § 5 im Hinblick
-auf die am ... in ... vor ... abgelegte Prüfung ... von der Aufgabe
-... freigestellt.")
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2199 - 2200)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  der Satz:
+
+    „Die Prüfung bestand aus
+
+    1.  einer Situationsaufgabe im Handlungsbereich „Technik“ mit dem
+        Schwerpunkt „Fahrzeugsysteme“, integriert mit Prüfungsinhalten der
+        Qualifikationsschwerpunkte „Werkstatt- und Betriebstechnik“,
+        „Information“ und „Dokumentation“,
+
+
+    2.  einer Situationsaufgabe in den Handlungsbereichen „Technik“ und
+        „Organisation, Kooperation und Kommunikation“ mit den Schwerpunkten
+        „Fahrzeugsysteme“, „Werkstatt- und Betriebstechnik“ und
+        „Auftragsabwicklung“ integriert mit Prüfungsinhalten der
+        Qualifikationsschwerpunkte davon mindestens zwei aus § 4 Absatz 6 bis
+        11,
+
+
+    3.  ergänzenden schriftlichen Aufgaben aus den Handlungsbereichen
+        „Technik“ und „Organisation, Kooperation und Kommunikation“ und
+
+
+    4.  einem situationsbezogenen Fachgespräch zu den Nummern 1 bis 3 mit den
+        Schwerpunkten „Kooperation, Kommunikation und
+        Mitarbeiterqualifizierung“ sowie „Kundenbetreuung und -beratung““,
+
+
+
+
+
+2.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+3.  die Gesamtnote als Dezimalzahl,
+
+
+4.  die Gesamtnote in Worten,
+
+
+5.  Befreiungen nach § 5.
+
+
+
 

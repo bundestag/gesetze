@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 1.3.2012 I 390;
 
-Geändert durch
-:   Art. 5 V v. 8.3.2012 I 483
+Zuletzt geändert durch
+:   Art. 148 G v. 20.11.2019 I 1626
 
 
 ## Abschnitt 1 - Anwendungsbereich
@@ -68,7 +68,7 @@ ausschließlicher Beteiligung von
 Im Übrigen wird für die Sicherheitsuntersuchung von Seeunfällen, an
 denen ein militärisches Schiff beteiligt ist und durch die überwiegend
 militärische Belange berührt werden, zwischen dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium der
+für Verkehr und digitale Infrastruktur und dem Bundesministerium der
 Verteidigung eine geeignete Regelung getroffen.
 
 (4) Abweichend von Absatz 3 ist Abschnitt 3 auf Seeunfälle in
@@ -347,8 +347,8 @@ wird.
 
 (1) Dieser Abschnitt gilt für die amtliche Untersuchung von
 Seeunfällen zur Sicherheitskultur des internationalen und nationalen
-Seesicherheitssystems sowie für die Erhebung, Verarbeitung und Nutzung
-personenbezogener Daten, die in diesem Zusammenhang anfallen.
+Seesicherheitssystems sowie für die Verarbeitung personenbezogener
+Daten, die in diesem Zusammenhang anfallen.
 
 (2) Die amtliche Untersuchung nach diesem Abschnitt dient
 ausschließlich folgenden Zwecken:
@@ -458,7 +458,7 @@ Seeunfalluntersuchung vom Eintritt eines Seeunfalls eingeleitet.
 
 (1) Die Bundesstelle für Seeunfalluntersuchung (Bundesstelle) ist eine
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung. Ihr obliegt die amtliche
+Verkehr und digitale Infrastruktur. Ihr obliegt die amtliche
 Sicherheitsuntersuchung von Seeunfällen nach diesem Abschnitt. Die
 Bundesstelle wird von einem Direktor geleitet und im Übrigen mit
 Beamten und Beamtinnen sowie Tarifbeschäftigten in erforderlicher
@@ -485,7 +485,7 @@ Beauftragten durchzuführenden Untersuchungstätigkeit sowie ihre Rechte
 und Pflichten nach Maßgabe dieses Gesetzes. Die Beauftragten erhalten
 aus Mitteln der Bundesstelle Reisekostenvergütung nach den für
 Bundesbeamte geltenden Vorschriften und eine Entschädigung, die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung festgesetzt
+Bundesministerium für Verkehr und digitale Infrastruktur festgesetzt
 wird. Dieser Satz gilt entsprechend für Mitglieder der Kammer im Sinne
 des § 32, die nicht der Bundesstelle angehören.
 
@@ -515,14 +515,15 @@ der Entwicklung anzupassen.
 Flugunfalluntersuchung zusammen, soweit dies – insbesondere aus
 wirtschaftlichen oder technischen Gründen – zweckmäßig erscheint.
 
-(2) Die Bundesstelle kann insbesondere die Berufsgenossenschaft für
-Transport und Verkehrswirtschaft als Schiffssicherheitsbehörde, das
-Bundesamt für Seeschifffahrt und Hydrographie sowie die Wasser- und
-Schifffahrtsdirektionen Nord und Nordwest zur Hilfe heranziehen, es
-sei denn, nach den konkreten Umständen ist nicht auszuschließen, dass
-der untersuchte Seeunfall durch deren Verhalten oder ein Verhalten von
-deren Bediensteten oder von Bediensteten der Wasser- und
-Schifffahrtsverwaltung ihres Amtsbezirks mitverursacht wurde.
+(2) Die Bundesstelle kann insbesondere die Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation als
+Schiffssicherheitsbehörde, das Bundesamt für Seeschifffahrt und
+Hydrographie sowie die Generaldirektion Wasserstraßen und Schifffahrt
+zur Hilfe heranziehen, es sei denn, nach den konkreten Umständen ist
+nicht auszuschließen, dass der untersuchte Seeunfall durch deren
+Verhalten oder ein Verhalten von deren Bediensteten oder von
+Bediensteten der Wasserstraßen- und Schifffahrtsämter mitverursacht
+wurde.
 
 (3) Die Bundesstelle kann zur Erfüllung ihrer Aufgaben mit
 Dienststellen der Bundesländer Vereinbarungen über Organleihe in
@@ -630,7 +631,7 @@ durch, sondern beteiligt sich an dem anderen Untersuchungsverfahren,
 soweit ein begründetes deutsches Interesse vorliegt. In begründeten
 Einzelfällen kann die Bundesstelle abweichend von Satz 1 eigene
 gleichzeitige Sicherheitsuntersuchungen durchführen. Sie unterrichtet
-hierüber das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+hierüber das Bundesministerium für Verkehr und digitale Infrastruktur
 unter Angabe der Gründe. Bei eigenen gleichzeitigen
 Sicherheitsuntersuchungen arbeitet sie eng mit den
 Untersuchungsstellen der anderen Mitgliedstaaten der Europäischen
@@ -638,8 +639,8 @@ Union zusammen. Um so weit wie möglich gemeinsame Schlussfolgerungen
 zu erzielen, tauscht sie die bei ihren Sicherheitsuntersuchungen
 gesammelten Informationen in dem für die Erfüllung des
 Untersuchungsauftrags nach § 9 Absatz 2 erforderlichen Umfang nach
-Maßgabe des Bundesdatenschutzgesetzes aus, soweit in diesem Gesetz
-nicht etwas anderes bestimmt ist.
+Maßgabe der datenschutzrechtlichen Vorschriften aus, soweit in diesem
+Gesetz nicht etwas anderes bestimmt ist.
 
 (2) Erfolgt die Sicherheitsuntersuchung unter Leitung oder
 Federführung eines Staates mit begründetem Interesse, der nicht
@@ -791,8 +792,8 @@ Maßnahmen zu ergreifen. Hierzu gehören insbesondere
     einschließlich der Daten des Schiffsdatenschreibers (VDR-Daten), die
     sich auf ein Schiff, eine Fahrt, eine Ladung, eine Mannschaft oder
     eine sonstige Person, einen Gegenstand, einen Zustand oder einen
-    Umstand beziehen, sowie deren Erhebung durch Ansichnahme, Verarbeitung
-    und Nutzung,
+    Umstand beziehen, sowie deren Erhebung durch Ansichnahme und
+    Verarbeitung,
 
 
 6.  die Vervielfältigung, insbesondere durch Ablichtung von Unterlagen,
@@ -813,13 +814,12 @@ Maßnahmen zu ergreifen. Hierzu gehören insbesondere
     Proben,
 
 
-9.  das Erheben, Verarbeiten und Nutzen von Informationen durch
-    ungehinderte Einsichtnahme in die sachbezogenen schriftlichen und
-    elektronischen Unterlagen des Eigentümers, des Betreibers oder des
-    Herstellers des Schiffes und seiner Teile sowie der für die zivile
-    Seefahrt und den Hafenbetrieb zuständigen Behörden des Bundes und der
-    Klassifikationsgesellschaften sowie die Anfertigung entsprechender
-    Vervielfältigungen,
+9.  das Verarbeiten von Informationen durch ungehinderte Einsichtnahme in
+    die sachbezogenen schriftlichen und elektronischen Unterlagen des
+    Eigentümers, des Betreibers oder des Herstellers des Schiffes und
+    seiner Teile sowie der für die zivile Seefahrt und den Hafenbetrieb
+    zuständigen Behörden des Bundes und der Klassifikationsgesellschaften
+    sowie die Anfertigung entsprechender Vervielfältigungen,
 
 
 10. das Ersuchen um den Beistand der zuständigen Behörden der jeweiligen
@@ -862,7 +862,7 @@ Sicherheitsuntersuchung sofort gesichert und ausgewertet werden
 müssen, wie die Identifizierung und Untersuchung der Opfer und die
 Aufzeichnungsanlagen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Pflichten am Betrieb
 der Schiffe beteiligter Personen, insbesondere des Schiffsführers, zur
@@ -1018,8 +1018,8 @@ von einem Betroffenen das Vorliegen eines solchen Grundes behauptet
 
 Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft
 die Besorgnis der Befangenheit den Direktor der Bundesstelle oder
-seinen Vertreter, so trifft das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung die erforderlichen Anordnungen.
+seinen Vertreter, so trifft das Bundesministerium für Verkehr und
+digitale Infrastruktur die erforderlichen Anordnungen.
 
 
 #### § 26 Nachweismittel
@@ -1205,7 +1205,7 @@ Untersuchungsberichts an
 
 Zeitgleich erfolgt die Veröffentlichung des Untersuchungsberichts
 durch Bekanntgabe der Bezugsquelle im Verkehrsblatt des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung und die
+Bundesministeriums für Verkehr und digitale Infrastruktur und die
 Bereitstellung auf der Internetseite der Bundesstelle.
 
 (3) Die Bundesstelle übersendet je eine Ausfertigung des
@@ -1329,19 +1329,18 @@ nur als die Untersuchungskammer auf.
 
 
 
-#### § 33 Erhebung, Verarbeitung und Nutzung von Daten
+#### § 33 Verarbeitung
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach den §§ 22 und 32
 sowie die Teilnehmer nach § 24 Absatz 1 dürfen im Rahmen ihrer
 Befugnisse nach den §§ 22 und 26 personenbezogene Daten aller an dem
 Seeunfall beteiligten oder von einem Seeunfall betroffenen Personen
 sowie von Zeugen und anderen Personen, die im Rahmen der
-Sicherheitsuntersuchung über den Seeunfall Aussagen machen, erheben,
-verarbeiten und nutzen, soweit dies für die Erfüllung des
-Untersuchungsauftrags nach § 9 Absatz 2 erforderlich ist. Ebenso
-stellen sie die beteiligten Schiffe mit identifizierenden Schiffs- und
-Betreiberdaten sowie die relevanten Daten der an Bord befindlichen
-Passagiere und Ladung fest.
+Sicherheitsuntersuchung über den Seeunfall Aussagen machen,
+verarbeiten, soweit dies für die Erfüllung des Untersuchungsauftrags
+nach § 9 Absatz 2 erforderlich ist. Ebenso stellen sie die beteiligten
+Schiffe mit identifizierenden Schiffs- und Betreiberdaten sowie die
+relevanten Daten der an Bord befindlichen Passagiere und Ladung fest.
 
 (2) Personenbezogene Daten im Sinne des Absatzes 1 sind
 
@@ -1375,14 +1374,16 @@ Satz 1 Nummer 1 bis 3 erhoben.
 (3) Die nach Absatz 1 oder weiteren Vorschriften dieses Gesetzes
 erhobenen und gespeicherten personenbezogenen Daten, insbesondere
 vertrauliche Erklärungen, sind durch technisch-organisatorische
-Maßnahmen nach § 9 in Verbindung mit der Anlage des
-Bundesdatenschutzgesetzes gegen unbefugte Nutzung und dabei
-insbesondere gegen unbefugte Einsichtnahme besonders zu schützen.
+Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+geltenden Fassung gegen unbefugte Nutzung und dabei insbesondere gegen
+unbefugte Einsichtnahme besonders zu schützen.
 
-(4) Die nach Absatz 1 erhobenen Daten werden entweder automatisiert
-nach § 3 Absatz 2 Satz 1 des Bundesdatenschutzgesetzes oder
-nichtautomatisiert nach § 3 Absatz 2 Satz 2 des
-Bundesdatenschutzgesetzes in Akten gespeichert.
+(4) (weggefallen)
 
 
 #### § 34 Vertraulichkeit
@@ -1445,7 +1446,7 @@ Interesse die Übermittlung für
     Ordnungswidrigkeiten im Zusammenhang mit dem Seeunfall erforderlich
     ist. Ferner ist eine Übermittlung der in § 34 Absatz 1 bezeichneten
     Informationen und Daten an die zuständigen Polizeibehörden zum Zweck
-    der Information von Angehörigen der vom Seeunfall Betroffenen
+    der Information von Angehörigen der vom Seeunfall betroffenen Personen
     zulässig, soweit dies zur Wahrung berechtigter Interessen dieser
     Personen erforderlich ist.
 
@@ -1465,7 +1466,7 @@ unverhältnismäßigen Aufwand erfordert oder die die Akteneinsicht
 begehrende öffentliche Stelle unter Angaben von Gründen erklärt, dass
 die Übermittlung von Informationen und Daten zur Erfüllung ihrer
 Aufgabe nicht ausreichen würde. Satz 1 gilt entsprechend für
-Angehörige der vom Seeunfall Betroffenen, wenn dies für ihre
+Angehörige der vom Seeunfall betroffenen Personen, wenn dies für ihre
 Unterrichtung erforderlich ist. § 96 Satz 1 der Strafprozessordnung
 ist entsprechend anzuwenden.
 
@@ -1485,12 +1486,11 @@ zurückzugeben.
 Satz 1 genannten Zwecken an die in § 14 genannten Stellen übermitteln,
 soweit dies jeweils zur Erfüllung der in der Zuständigkeit der
 empfangenden Stellen liegenden Aufgaben erforderlich ist,
-schutzwürdige Interessen eines Betroffenen nicht beeinträchtigt werden
-und bei den in § 14 genannten Stellen ein angemessenes
+schutzwürdige Interessen einer betroffenen Person nicht beeinträchtigt
+werden und bei den in § 14 genannten Stellen ein angemessenes
 Datenschutzniveau gewährleistet ist. Der Empfänger ist darauf
 hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet
-und genutzt werden dürfen, zu dessen Erfüllung sie ihm übermittelt
-worden sind.
+werden dürfen, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
 
 #### § 36 Aufbewahrungs- und Löschungsfristen
@@ -1499,14 +1499,14 @@ worden sind.
 tödlichem Ausgang 30 Jahre. Alle anderen Akten werden 20 Jahre
 aufbewahrt.
 
-(2) Automatisiert und nicht automatisiert in Dateien gespeicherte
-Daten werden bei Unfällen mit tödlichem Ausgang nach Ablauf von 30
-Jahren, im Übrigen nach Ablauf von 20 Jahren gelöscht.
+(2) In Dateisystemen gespeicherte Daten werden bei Unfällen mit
+tödlichem Ausgang nach Ablauf von 30 Jahren, im Übrigen nach Ablauf
+von 20 Jahren gelöscht.
 
 (3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluss der
 jeweiligen Sicherheitsuntersuchung. § 187 Absatz 1 des Bürgerlichen
-Gesetzbuchs und § 2 Absatz 1 bis 6, 8 und 9 des Bundesarchivgesetzes
-sind anzuwenden.
+Gesetzbuchs sowie § 1 Nummer 2, 8 bis 10, § 3 Absatz 4, sowie die §§ 5
+bis 7 des Bundesarchivgesetzes sind anzuwenden.
 
 
 #### § 37 Arbeit zur Verbesserung der Sicherheit im Seeverkehr
@@ -1612,8 +1612,9 @@ Abschnitts.
 (1) Bestehen hinreichende tatsächliche Anhaltspunkte, dass eine
 Berechtigung zu entziehen oder die Ausübung der mit ihr oder einem
 Befähigungszeugnis oder einer Fahrerlaubnis verbundenen Befugnisse zu
-beschränken ist, so führt die Wasser- und Schifffahrtsdirektion
-Nordwest unverzüglich eine Prüfung des Untersuchungsinteresses durch.
+beschränken ist, so führt die Generaldirektion Wasserstraßen und
+Schifffahrt unverzüglich eine Prüfung des Untersuchungsinteresses
+durch.
 
 (2) Hinreichende Anhaltspunkte im Sinne von Absatz 1 sind insbesondere
 anzunehmen, wenn nach den in Buchstaben D oder E der Anlage
@@ -1627,11 +1628,11 @@ Seeamt, den Fall nach diesem Abschnitt in Bezug auf den von dem
 Verdacht betroffenen Berechtigten (Beteiligter) zu untersuchen.
 
 (4) Wurde eine Berechtigung im Rahmen der Berufsausübung für die
-Wasser- und Schifffahrtsverwaltung des Bundes ausgeübt, so berichtet
-die Wasser- und Schifffahrtsdirektion Nordwest über alle ihr bekannten
-Anhaltspunkte im Sinne des Absatzes 1 an das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung, von dem sie angewiesen werden kann,
-einen Antrag nach Absatz 3 zu stellen.
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes ausgeübt, so
+berichtet die Generaldirektion Wasserstraßen und Schifffahrt über alle
+ihr bekannten Anhaltspunkte im Sinne des Absatzes 1 an das
+Bundesministerium für Verkehr und digitale Infrastruktur, von dem sie
+angewiesen werden kann, einen Antrag nach Absatz 3 zu stellen.
 
 (5) Zuständigkeiten und Befugnisse nach anderen Rechtsvorschriften zur
 Entziehung von Berechtigungen, Beschränkung ihrer Ausübung oder
@@ -1642,8 +1643,8 @@ unberührt.
 #### § 42 Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4
 
 (1) Eine Untersuchung nach diesem Abschnitt ist durchzuführen, soweit
-die Wasser- und Schifffahrtsdirektion Nordwest einen Antrag nach § 41
-Absatz 3 gestellt hat.
+die Generaldirektion Wasserstraßen und Schifffahrt einen Antrag nach §
+41 Absatz 3 gestellt hat.
 
 (2) Die Untersuchung nach diesem Abschnitt ist einzustellen, wenn der
 Beteiligte gegenüber einer nach diesem Abschnitt zuständigen Behörde
@@ -1664,16 +1665,16 @@ besonderer Gründe verkürzen. § 50 Absatz 5 gilt entsprechend.
 
 #### § 43 Zuständigkeit der Seeämter
 
-(1) Die Untersuchung nach diesem Abschnitt obliegt den Wasser- und
-Schifffahrtsdirektionen Nord und Nordwest. Sie bilden
-Untersuchungsausschüsse (Seeämter) in Hamburg, Kiel und Rostock sowie
-Bremerhaven und Emden.
+(1) Die Untersuchung nach diesem Abschnitt obliegt der
+Generaldirektion Wasserstraßen und Schifffahrt. Sie bildet
+Untersuchungsausschüsse (Seeämter) in Bremerhaven, Emden, Hamburg,
+Kiel und Rostock.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung die örtliche Zuständigkeit der
 Seeämter zu bestimmen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erlässt eine Geschäftsordnung für die Seeämter; vor ihrem Erlass sind
 die Küstenländer zu hören. Die Geschäftsordnung ist im Verkehrsblatt
 bekannt zu machen.
@@ -1700,18 +1701,15 @@ Seeschiffes verfügen.
 
 #### § 45 Ehrenamtliche Beisitzer
 
-(1) Die Wasser- und Schifffahrtsdirektionen Nord und Nordwest stellen
-eine Vorschlagsliste für die ehrenamtlichen Beisitzer der Seeämter
-ihres Bereichs auf. In die Listen werden Personen aufgenommen, die von
-den beteiligten Bundes- und Landesbehörden, Berufs- und
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt stellt eine
+Vorschlagsliste für die ehrenamtlichen Beisitzer der Seeämter auf,
+wählt hieraus die erforderliche Anzahl von ehrenamtlichen Beisitzern
+aus (Beisitzerliste) und bestellt die Beisitzer für eine ehrenamtliche
+Tätigkeit. In die Vorschlagsliste werden Personen aufgenommen, die von
+den beteiligten Bundes- und Landesbehörden sowie den Berufs- und
 Interessenvertretungen benannt werden.
 
-(2) Jede Wasser- und Schifffahrtsdirektion wählt aus den
-Vorschlagslisten die erforderliche Anzahl von ehrenamtlichen
-Beisitzern aus (Beisitzerliste) und bestellt die Beisitzer für eine
-ehrenamtliche Tätigkeit.
-
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung zu bestimmen
 
 1.  die Personengruppen, aus denen die Beisitzer auszuwählen sind,
@@ -1725,7 +1723,7 @@ ermächtigt, durch Rechtsverordnung zu bestimmen
 
 
 
-(4) Die ehrenamtlichen Beisitzer sind vom Vorsitzenden aus der
+(3) Die ehrenamtlichen Beisitzer sind vom Vorsitzenden aus der
 Beisitzerliste zu den Sitzungen heranzuziehen. Dabei ist unter
 Berücksichtigung der Bordfunktion des oder der Beteiligten sowie des
 Ortes und der Art des zugrunde liegenden Sachverhalts die sachkundige
@@ -1960,8 +1958,8 @@ Satz 1 Nummer 3 bis 5 auch den folgenden Stellen mit:
 
 1.  Stellen, die die betreffenden Berechtigungen erteilt oder Zeugnisse
     ausgestellt haben, bei Fahrerlaubnissen für in Deutschland
-    registrierte Sportboote der Wasser- und Schifffahrtsdirektion
-    Nordwest;
+    registrierte Sportboote der Generaldirektion Wasserstraßen und
+    Schifffahrt;
 
 
 2.  in den Fällen, in denen das Seeamt weder die Eintragung eines Vermerks
@@ -2035,25 +2033,11 @@ gelten im Sinne dieser Vorschrift als von einer Behörde der
 Bundesrepublik Deutschland ausgestellt.
 
 
-### Unterabschnitt 4 - Kosten
+### Unterabschnitt 4 - Gebühren und Auslagen
 
 
 
-#### § 51 Gebühren und Auslagen
-
-(1) Für Amtshandlungen nach § 49 Absatz 2 Satz 1 Nummer 3 werden
-Gebühren erhoben.
-
-(2) Gebühren werden auch für einen erfolglos eingelegten Widerspruch
-erhoben.
-
-(3) Auslagen werden von einem Beteiligten nur erhoben, wenn das Seeamt
-gegen ihn eine Maßnahme nach § 50 Absatz 1, 2 oder 4 angeordnet hat.
-
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, durch Rechtsverordnung die Gebührentatbestände und die
-Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen.
+#### § 51 (weggefallen)
 
 
 ### Unterabschnitt 5 - Rechtsbehelfe
@@ -2064,8 +2048,9 @@ vorzusehen.
 
 Gegen Verwaltungsakte der Seeämter kann innerhalb eines Monats nach
 ihrer Bekanntgabe Widerspruch erhoben werden. Widerspruchsbehörde ist
-die Wasser- und Schifffahrtsdirektion Nord. Dem Widerspruch kann das
-Seeamt nicht nach § 72 der Verwaltungsgerichtsordnung abhelfen.
+die Generaldirektion Wasserstraßen und Schifffahrt. Dem Widerspruch
+kann das Seeamt nicht nach § 72 der Verwaltungsgerichtsordnung
+abhelfen.
 
 
 ## Abschnitt 5 - Bußgeld-, Schluss- und Übergangsvorschriften
@@ -2125,9 +2110,9 @@ Seeamt nicht nach § 72 der Verwaltungsgerichtsordnung abhelfen.
 
 geahndet werden.
 
-(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten sind die Wasser- und
-Schifffahrtsdirektionen Nord und Nordwest.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion
+Wasserstraßen und Schifffahrt.
 
 
 ### Unterabschnitt 2 - Schlussvorschriften
@@ -2174,7 +2159,7 @@ Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
 #### § 56 Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage in
 Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich

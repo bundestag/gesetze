@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte
   Pharmareferentin
 jurabk: PharmRefPrV
 layout: default
@@ -8,13 +8,16 @@ slug: pharmrefprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
 
 Ausfertigungsdatum
 :   2007-06-26
 
 Fundstelle
 :   BGBl I: 2007, 1192
+
+Zuletzt geändert durch
+:   Art. 37 V v. 9.12.2019 I 2153
 
 
 
@@ -91,7 +94,7 @@ Dazu gehört die Befähigung,
 2.  eine mindestens fünfjährige Berufspraxis sowie
 
 
-3.  die Teilnahme an einer Bildungsmaßnahme gemäß der Anlage 3 oder wer
+3.  die Teilnahme an einer Bildungsmaßnahme gemäß der Anlage oder wer
     glaubhaft macht, entsprechende Kenntnisse über "Naturwissenschaftliche
     und medizinische Grundlagen", über "Pharmakologie, die
     Pharmakotherapie und Krankheitsbilder", über "Arzneimittelrecht, das
@@ -632,51 +635,99 @@ zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin von der Ablegung einzelner schriftlicher
-Prüfungsleistungen befreien, wenn in den letzten fünf Jahren vor
-Antragstellung eine Prüfung vor einer zuständigen Stelle, einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss bestanden wurde, die den
-Anforderungen der entsprechenden Qualifikationsbereiche nach dieser
-Verordnung entspricht. Von dem Fachgespräch gemäß § 4 Abs. 4 kann
-nicht freigestellt werden.
-
-
-## § 6 Bewerten und Bestehen der Prüfung
-
-(1) Die in den Qualifikationsbereichen gemäß § 3 Abs. 1 Nr. 1 bis 4
-erbrachten Prüfungsleistungen sind jeweils nach Punkten zu bewerten.
-
-(2) Die Prüfung ist bestanden, wenn in allen schriftlich geprüften
-Qualifikationsbereichen und im Fachgespräch jeweils mindestens
-ausreichende Leistungen erbracht wurden.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 3 entsprechend ihrem Verhältnis
+zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen
+des Prüfungsausschusses zugrunde zu legen. Vom Fachgespräch nach § 4
+Absatz 4 kann nicht befreit werden.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden wurde, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die schriftlichen Prüfungsleistungen in den drei
+Qualifikationsbereichen nach § 3 Absatz 1 Nummer 1 bis 3 sind einzeln
+zu bewerten.
+
+(3) Die Prüfungsleistung im Fachgespräch nach § 3 Absatz 1 Nummer 4
+und Absatz 4 ist zu bewerten.
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in allen schriftlichen Prüfungsleistungen und
+
+
+2.  im Fachgespräch.
+
+
+
+
+(2) Den Bewertungen für die schriftlichen Prüfungsleistungen und der
+Bewertung für das Fachgespräch ist nach Anlage 1 die jeweilige Note
+als Dezimalzahl zuzuordnen.
+
+(3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen für die schriftlichen
+Prüfungsleistungen und der Bewertung für das Fachgespräch zu
+berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen
 Prüfungsleistung an, zur Wiederholungsprüfung angemeldet hat.
 Bestandene Prüfungsleistungen können auf Antrag einmal wiederholt
 werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 8 Übergangsvorschriften
+## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 30. Juni 2011 zu Ende
 geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
@@ -689,94 +740,380 @@ Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
 
-## § 9 Inkrafttreten, Außerkrafttreten
+## § 11 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Juli 2007 in Kraft.
+Diese Verordnung tritt am 1. Juli 2007 in Kraft. Gleichzeitig tritt
+die Verordnung über die berufliche Fortbildung zum Geprüften
+Pharmareferenten vom 2. Mai 1978 (BGBl. I S. 600) außer Kraft.
 
+(zu den §§ 6 und 7)
 
-## Anlage 1 (zu § 6 Abs. 3)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2007, 1196)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-Herr/Frau
-....................................................................
-geboren am ........................ in
-.......................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Pharmareferent/Geprüfte Pharmareferentin vom 26. Juni 2007 (BGBl. I S.
-1192)
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2286 – 2287)
 
 
-## Anlage 2 (zu § 6 Abs. 3)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2007, 1197)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-Herr/Frau
-....................................................................
-geboren am ........................ in
-.......................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Pharmareferent/Geprüfte Pharmareferentin vom 26. Juni 2007 (BGBl. I S.
-1192)
-mit folgenden Ergebnissen bestanden:
-Punkte \*)        Note
-Schriftliche Prüfungsleistungen
-"Naturwissenschaftliche und medizinische
-Grundlagen"                                        ..........
-..........
-"Pharmakologie, Pharmakotherapie und
-Krankheitsbilder"                                  ..........
-..........
-"Arzneimittelrecht, Gesundheitsmanagement
-und -ökonomie"                                     ..........
-..........
-Fachgespräch einschließlich Qualifikationsbereich
-"Kommunikation, Pharmamarkt, Pharmamarketing"      ..........
-..........
-(Im Fall des § 5: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß
-§ 5 im Hinblick auf die am
-...................................................
-in ..................... vor ................ abgelegte Prüfung
-..............
-von der Prüfung in dem Qualifikationsbereich
-.................................
-freigestellt.")
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-\*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-............
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-## Anlage 3 (zu § 2 Abs. 1 Nr. 3) Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
+*    *   100
 
-(Fundstelle: BGBl. I 2007, 1198 - 1201)
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2288)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung der schriftlichen Prüfungsleistungen als Überschrift,
+
+
+2.  Benennung der drei Qualifikationsbereiche und Bewertung mit Punkten
+    und Note,
+
+
+3.  Benennung des Fachgesprächs einschließlich des Qualifikationsbereichs
+    „Kommunikation, Pharmamarkt, Pharmamarketing“ und Bewertung mit
+    Punkten und Note,
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Zahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 5.
+
+
+
+
+(zu § 2 Abs. 1 Nr. 3)
+
+## Anlage 3 Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
+
+(Fundstelle: BGBl. I 2007, 1198 - 1201; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *
     *   **Inhaltsübersicht**
@@ -824,7 +1161,7 @@ Unterschrift(en) ...............................
 *    *
     *   Insgesamt
 
-    *   1.000
+    *   1 000
 
 
 *    *

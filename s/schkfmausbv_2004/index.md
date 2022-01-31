@@ -480,8 +480,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 
 (Fundstelle: BGBl. I 2004, 1878 - 1882;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1156,8 +1157,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 
 (Fundstelle: BGBl. I 2004, 1883 - 1886;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1654
 
+Zuletzt geändert durch
+:   Art. 11 G v. 20.11.2019 I 1724
+
+Mittelbare änderung durch
+:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
+
 
 ## Eingangsformel
 
@@ -129,10 +135,7 @@ der Zivilprozessordnung.
 
 (1) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
 Schuldnerverzeichnis nach dem Ablauf von drei Jahren seit dem Tag der
-Eintragungsanordnung. Im Fall des § 882b Absatz 1 Nummer 3 der
-Zivilprozessordnung löscht das zentrale Vollstreckungsgericht eine
-Eintragung im Schuldnerverzeichnis nach dem Ablauf von fünf Jahren
-seit dem Erlass des Abweisungsbeschlusses.
+Eintragungsanordnung.
 
 (2) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
 Schuldnerverzeichnis außerdem, wenn
@@ -174,10 +177,14 @@ Zivilprozessordnung zu benötigen
     dass Schuldner ihren Zahlungsverpflichtungen nicht nachkommen;
 
 
-5.  für Zwecke der Strafverfolgung und der Strafvollstreckung oder
+5.  für Zwecke der Strafverfolgung und der Strafvollstreckung;
 
 
-6.  zur Auskunft über ihn selbst betreffende Eintragungen.
+6.  zur Auskunft über ihn selbst betreffende Eintragungen;
+
+
+7.  für Zwecke der Dienstaufsicht über Justizbedienstete, die mit dem
+    Schuldnerverzeichnis befasst sind.
 
 
 
@@ -191,7 +198,7 @@ Kommunikationssystem der Länder im Internet.
 
 (2) Die Einsichtnahme in das Schuldnerverzeichnis wird nur
 registrierten Nutzern gewährt. Die jeweilige Einsichtnahme ist erst
-nach Darlegung des Verwendungszwecks nach § 5 Nummer 1 bis 6 zu
+nach Darlegung des Verwendungszwecks nach § 5 Nummer 1 bis 7 zu
 ermöglichen.
 
 (3) Bei jeder Einsichtnahme ist der Abrufvorgang so zu protokollieren,
@@ -218,9 +225,9 @@ verwendet werden.
 (4) Die gespeicherten Abrufprotokolle werden nach sechs Monaten
 gelöscht. Ausgenommen von der Löschung nach sechs Monaten sind
 gespeicherte Daten, die in einem eingeleiteten Verfahren zur
-Datenschutzkontrolle, einem gerichtlichen Verfahren oder
-Strafverfahren benötigt werden. Diese Daten sind nach dem endgültigen
-Abschluss dieser Verfahren zu löschen.
+Datenschutzaufsicht, einem gerichtlichen Verfahren oder Strafverfahren
+benötigt werden. Diese Daten sind nach dem endgültigen Abschluss
+dieser Verfahren zu löschen.
 
 
 ### § 7 Registrierung
@@ -241,7 +248,8 @@ ergänzen. Behörden und Gerichte können gesondert registriert werden.
 (2) Das elektronische Registrierungsverfahren hat insbesondere die
 Identifikationsmöglichkeit durch Angabe und Überprüfung der
 Personendaten mittels elektronischen Identitätsnachweises nach § 18
-des Personalausweisgesetzes bereitzustellen.
+des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder
+nach § 78 Absatz 5 des Aufenthaltsgesetzes bereitzustellen.
 
 (3) Die Registrierung erfolgt nur, wenn der Nutzungsberechtigte zuvor
 sein Einverständnis erklärt hat, dass sämtliche Abrufvorgänge gemäß §
@@ -284,9 +292,8 @@ mindestens folgende Suchkriterien angibt:
     und
 
 
-2.  den Sitz des zuständigen zentralen Vollstreckungsgerichts oder den
-    Wohnsitz oder das Geburtsdatum des Schuldners oder den Ort, an dem der
-    Schuldner seinen Sitz hat.
+2.  den Wohnsitz des Schuldners oder den Ort, an dem der Schuldner seinen
+    Sitz hat.
 
 
 
@@ -297,16 +304,15 @@ Schuldners.
 
 (3) Sind zu einer Abfrage gemäß Absatz 2 mehrere Datensätze vorhanden,
 hat der Nutzer zusätzlich das Geburtsdatum des Schuldners einzugeben.
-Ergibt auch diese Abfrage mehrere Treffer, hat der Nutzer außerdem zu
-der Angabe gemäß Satz 1 den Geburtsort des Schuldners einzugeben; sind
-dann weiterhin mehrere Treffer vorhanden, sind diese zu übermitteln.
+Sind dann weiterhin mehrere Treffer vorhanden, sind diese gemeinsam zu
+übermitteln (übermittelter Datensatz).
 
 (4) Kann der Nutzer abweichend von der Abfrage gemäß den Absätzen 2
-und 3 Familiennamen, Vornamen, Geburtsdatum und Geburtsort des
-Schuldners sofort angeben, werden ihm sämtliche zu einem Schuldner
-vorhandene Datensätze übermittelt. Das Gleiche gilt, wenn der
-Schuldner keine natürliche Person ist und bei der Abfrage Name oder
-Firma und Sitz des Schuldners angegeben werden.
+und 3 Familiennamen, Vornamen und Geburtsdatum des Schuldners sofort
+angeben, werden ihm sämtliche zu einem Schuldner vorhandene Datensätze
+übermittelt. Das Gleiche gilt, wenn der Schuldner keine natürliche
+Person ist und bei der Abfrage Name oder Firma und Sitz des Schuldners
+angegeben werden.
 
 (5) Die Absätze 2 bis 4 sind nicht anzuwenden auf die Einsichtnahme in
 das Schuldnerverzeichnis durch Gerichte und Behörden aus den
@@ -316,9 +322,9 @@ Mitgliedstaaten der Europäischen Union.
 ### § 9 Informationsverwendung
 
 (1) Die Daten aus der Einsichtnahme in das Schuldnerverzeichnis dürfen
-nur zu dem Zweck verwendet werden, für den sie übermittelt werden. Die
-Zweckbestimmung richtet sich nach § 5 in Verbindung mit § 6 Absatz 2
-Satz 2.
+nur zu dem Zweck verarbeitet werden, für den sie übermittelt werden.
+Die Zweckbestimmung richtet sich nach § 5 in Verbindung mit § 6 Absatz
+2 Satz 2.
 
 (2) Die Daten aus der Einsichtnahme in das Schuldnerverzeichnis sind
 zu löschen, sobald der Zweck erreicht wurde. Nichtöffentliche Stellen
@@ -328,16 +334,16 @@ sind darauf bei der Übermittlung hinzuweisen.
 ### § 10 Ausschluss von der Einsichtnahme
 
 (1) Ein nach § 7 registrierter Nutzer kann bei missbräuchlicher
-Datenverwendung oder missbräuchlichen Datenabrufen von der
-Einsichtnahme in das Schuldnerverzeichnis ganz oder bis zu fünf Jahre
+Datenverarbeitung oder missbräuchlichen Datenabrufen von der
+Einsichtnahme in das Schuldnerverzeichnis ganz oder bis zu drei Jahre
 ausgeschlossen werden.
 
 (2) Handelt es sich bei dem nach § 7 registrierten Nutzer um eine
 juristische Person, für die nach § 7 Absatz 1 Satz 4 und 5 mehrere
 natürliche Personen registriert sind, können bei missbräuchlicher
-Datenverwendung oder missbräuchlichen Datenabrufen alle nach § 7
+Datenverarbeitung oder missbräuchlichen Datenabrufen alle nach § 7
 Absatz 1 Satz 4 und 5 für die juristische Person handelnden Personen
-von der Einsichtnahme in das Schuldnerportal ganz oder bis zu fünf
+von der Einsichtnahme in das Schuldnerportal ganz oder bis zu drei
 Jahre ausgeschlossen werden.
 
 (3) Auf den Ausschluss von der Einsichtnahme sind § 49 Absatz 2, 3 und
@@ -349,8 +355,8 @@ Stelle den Zeitraum, für den der Nutzer keine neue Registrierung
 erhalten kann. Zuständig für die Entscheidung ist die Stelle, die die
 Registrierung nach § 7 vorgenommen hat. Die Entscheidung ist dem
 ehemaligen Inhaber der Registrierung mit Rechtsmittelbelehrung
-zuzustellen. Die zuständige Stelle veranlasst die Sperrung der nach §
-7 Absatz 3 Satz 3 übermittelten Zugangsdaten.
+zuzustellen. Die zuständige Stelle veranlasst die Einschränkung der
+Verarbeitung der nach § 7 Absatz 3 Satz 3 übermittelten Zugangsdaten.
 
 (5) Die Sperrfrist für eine erneute Registrierung des Nutzers nach
 Absatz 4 Satz 1 darf zur Registrierungsverwaltung nach den §§ 6 und 7
@@ -381,6 +387,16 @@ Auf Entscheidungen des zentralen Vollstreckungsgerichts sind, soweit
 es sich um Angelegenheiten der Justizverwaltungen im Sinne des § 882h
 Absatz 2 Satz 3 der Zivilprozessordnung handelt, die §§ 23 bis 30 des
 Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
+
+
+### § 12a Evaluierung
+
+Die in § 8 Absatz 2 bis 4 festgesetzten Suchkriterien zur Übermittlung
+von Datensätzen sind drei Jahre nach dem 1. Oktober 2015 durch das
+Bundesministerium der Justiz und für Verbraucherschutz im
+Zusammenwirken mit den Landesjustizverwaltungen sowie der
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu
+überprüfen.
 
 
 ### § 13 Inkrafttreten, Außerkrafttreten

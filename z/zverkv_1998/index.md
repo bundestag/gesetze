@@ -192,8 +192,9 @@ Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354
 vom 31.12.2008, S. 16) einen Lebensmittelzusatzstoff in den Verkehr
 bringt.
 
+(zu § 2)
 
-## Anlage 1 (zu § 2) Den Zusatzstoffen gleichgestellte Stoffe
+## Anlage 1 Den Zusatzstoffen gleichgestellte Stoffe
 
 (Fundstelle: BGBl. I 1998, 271;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -348,7 +349,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Polyvinylester der unverzweigten Fettsäuren C
-        2                        bis C
+        2 bis C
         18
 
 
@@ -367,8 +368,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 3 Abs. 1)
 
-## Anlage 2 (zu § 3 Abs. 1) Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
+## Anlage 2 Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 271 - 289;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3114,7 +3116,7 @@ Liste A
 *    *   Aluminiumoxid
 
     *   Al
-        2                       O
+        2O
         3
 
     *
@@ -3130,7 +3132,7 @@ Liste A
 
     *   Ester der Speisefettsäuren mit unverzweigten, geradzahligen
         Fettalkoholen der Kohlenstoffzahlen C
-        10                       bis C
+        10bis C
         22
 
     *   Verseifungszahl 100-120 Unverseifbare Anteile 45-52%
@@ -3263,7 +3265,7 @@ Liste A
 
 
 *    *   Polyvinylester der unverzweigten Fettsäuren C
-        2                       bis C
+        2bis C
         18
 
     *   )
@@ -3317,8 +3319,8 @@ Liste A
 *    *   Wasserstoffperoxid
 
     *   H
-        2                       O
-        2                       , Perhydrol, Wasserstoffsuperoxid
+        2O
+        2, Perhydrol, Wasserstoffsuperoxid
 
     *   siehe Arzneibuch
 
@@ -3329,9 +3331,9 @@ Liste A
 *    *   Monoammoniumorthophosphat
 
     *   (NH
-        4                       )H
-        2                       PO
-        4                       , Monoammoniumdihydrogenorthophosphat
+        4)H
+        2PO
+        4, Monoammoniumdihydrogenorthophosphat
 
     *
         A:  Weiße hygroskopische Kristalle
@@ -3346,8 +3348,8 @@ Liste A
 *    *   Diammoniumorthophosphat
 
     *   (NH
-        4                       )-HPO
-        4                       , Diammoniumhydrogenphosphat
+        4)-HPO
+        4, Diammoniumhydrogenphosphat
 
     *
         G:  min 97% i.T.
@@ -3362,15 +3364,15 @@ Liste A
 *    *   Calciumphytat Calcium-Magnesiumphytat
 
     *   Salze der Inosithexaphosphorsäure, Hexa-O-phosphono-Inosit, C
-        6                       H
-        18                       O
-        24                       P
-        6                        bzw.
+        6H
+        18O
+        24P
+        6 bzw.
         C
-        6                       H
-        6                       (H
-        2                       PO
-        4                       )
+        6H
+        6(H
+        2PO
+        4)
         6
 
     *
@@ -3381,8 +3383,8 @@ Liste A
 *    *   Ethyllactat
 
     *   C
-        5                       H
-        10                       O
+        5H
+        10O
         3
 
     *
@@ -3443,12 +3445,11 @@ Liste A
 *    *   Cystin
 
     *   C
-        6                       H
-        12                       N
-        2                       O
-        4                       S
-        2                       , Dimeres L-Cystein, 2,2'-Diamino-3,3' dithio-
-        di-propion-säure
+        6H
+        12N
+        2O
+        4S
+        2, Dimeres L-Cystein, 2,2'-Diamino-3,3' dithio-di-propion-säure
 
     *
     *
@@ -3467,7 +3468,7 @@ Liste A
 *    *   Silbersulfat
 
     *   Ag
-        2                       SO
+        2SO
         4
 
     *
@@ -3590,7 +3591,7 @@ Liste A
 
 
 *    *   x xH
-        2                         O
+        2O
 
     *   mit x Mol Kristallwasser
 
@@ -3612,8 +3613,9 @@ Liste A
 
 -
 
+(zu § 4)
 
-## Anlage 4 (zu § 4) Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
+## Anlage 4 Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1568 - 1570;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

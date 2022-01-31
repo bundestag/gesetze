@@ -104,7 +104,7 @@ Aufzeichnungspflichten gelten nur für Geschäftsbeziehungen im Sinne
 des Satzes 1, wenn die Summe der Entgelte für Lieferungen und
 Leistungen aus der betreffenden Geschäftsbeziehung zu einer Person im
 Wirtschaftsjahr den Betrag von
-10 000 Euro              übersteigt.
+10 000 Euro übersteigt.
 
 (5) Unterhält der Steuerpflichtige Geschäftsbeziehungen zu
 Kreditinstituten im Ausland oder bestehen objektiv erkennbare

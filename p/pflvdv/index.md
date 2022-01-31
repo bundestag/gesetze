@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach
-  dem Dreizehnten Kapitel des Elften Buches Sozialgesetzbuch
+  dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch
 jurabk: PflvDV
 layout: default
 origslug: pflvdv
@@ -8,13 +8,16 @@ slug: pflvdv
 
 ---
 
-# Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Dreizehnten Kapitel des Elften Buches Sozialgesetzbuch (PflvDV)
+# Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch (PflvDV)
 
 Ausfertigungsdatum
 :   2012-12-20
 
 Fundstelle
 :   BGBl I: 2012, 2994
+
+Geändert durch
+:   Art. 1 V v. 12.12.2018 I 2452
 
 
 ## Eingangsformel
@@ -29,8 +32,8 @@ dem Bundesministerium für Arbeit und Soziales:
 ## § 1 Zentrale Stelle
 
 (1) Bei der Deutschen Rentenversicherung Bund wird die zentrale Stelle
-im Sinne des Dreizehnten Kapitels des Elften Buches Sozialgesetzbuch
-eingerichtet. Die zentrale Stelle nimmt die sich aus dem Dreizehnten
+im Sinne des Vierzehnten Kapitels des Elften Buches Sozialgesetzbuch
+eingerichtet. Die zentrale Stelle nimmt die sich aus dem Vierzehnten
 Kapitel des Elften Buches Sozialgesetzbuch ergebenden Aufgaben wahr.
 
 (2) Die Deutsche Rentenversicherung Bund erstellt für die zentrale
@@ -277,11 +280,11 @@ möglich oder nicht erfolgt ist.
 
 ## § 9 Art der Datenübermittlung
 
-(1) Nach dem Dreizehnten Kapitel des Elften Buches Sozialgesetzbuch
+(1) Nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch
 oder nach dieser Verordnung vorgeschriebene Übermittlungen von Daten
 und von ergehenden Anzeigen, Bekanntgaben oder Mitteilungen zwischen
 der zentralen Stelle und den Versicherungsunternehmen oder seinen
-Auftragnehmern nach § 12 Absatz 3 erfolgen in Form von amtlich
+Auftragsverarbeitern nach § 12 Absatz 3 erfolgen in Form von amtlich
 vorgeschriebenen Datensätzen durch amtlich bestimmte
 Datenfernübertragung.
 
@@ -294,14 +297,21 @@ Absatz 3 und 4, § 7 Absatz 2, § 8 Absatz 1 und § 13.
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
-(2) Der codierte Zeichensatz für eine nach dem Dreizehnten Kapitel des
+(2) Der codierte Zeichensatz für eine nach dem Vierzehnten Kapitel des
 Elften Buches Sozialgesetzbuch oder nach dieser Verordnung
-vorzunehmenden Datenübermittlung hat den Anforderungen der DIN 66303,
-Ausgabe Juni 2000, zu entsprechen. Der Zeichensatz ist gemäß der
-Vorgabe der zentralen Stelle an den jeweiligen Stand der Technik
-anzupassen. Die DIN 66303, Ausgabe Juni 2000, ist im Beuth-Verlag
-GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und
-Markenamt in München niedergelegt.
+vorzunehmenden Datenübermittlung hat vorbehaltlich des Absatzes 3 den
+Anforderungen der DIN 66303, Ausgabe Juni 2000, zu entsprechen. Der
+Zeichensatz ist gemäß der Vorgabe der zentralen Stelle an den
+jeweiligen Stand der Technik anzupassen. Die DIN 66303, Ausgabe Juni
+2000, ist im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim
+Deutschen Patent- und Markenamt in München niedergelegt.
+
+(3) Die zentrale Stelle kann unter Vorbehalt der Genehmigung des
+Bundesministeriums für Gesundheit für einzelne oder alle Datensätze
+die Verwendung eines anderen Zeichensatzes und die dafür erforderliche
+Codierung bestimmen. Der Zeitpunkt der erstmaligen Verwendung wird in
+Abstimmung mit der zentralen Stelle mindestens sechs Monate vorher vom
+Bundesministerium für Gesundheit im Bundesanzeiger bekannt gegeben.
 
 
 ## § 11 Verfahren der Datenübermittlung, Schnittstellen
@@ -337,32 +347,34 @@ entsprechen muss.
 
 (2) Die zentrale Stelle bestimmt den zu nutzenden Übertragungsweg.
 
-(3) Die erforderlichen Daten können durch einen geeigneten
-Auftragnehmer des Versicherungsunternehmens an die zentrale Stelle
-übertragen werden, wenn die Voraussetzungen des § 11 des
-Bundesdatenschutzgesetzes oder vergleichbarer Vorschriften der
-Landesdatenschutzgesetze erfüllt sind. Geeignet ist ein Auftragnehmer,
-wenn er die Anforderungen an den Datenschutz und die Datensicherheit
-gemäß dieser Verordnung erfüllt.
+(3) Die erforderlichen Daten können unter den Voraussetzungen der
+Artikel 28 und 29 der Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+durch einen Auftragsverarbeiter des Versicherungsunternehmens an die
+zentrale Stelle übertragen werden.
 
 (4) Der nach Absatz 3 mit der Datenfernübertragung beauftragte
-Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen der
-zentralen Stelle an das Versicherungsunternehmen, solange dieses nicht
-widerspricht.
+Auftragsverarbeiter gilt als Empfangsbevollmächtigter für Mitteilungen
+der zentralen Stelle an das Versicherungsunternehmen, solange dieses
+nicht widerspricht.
 
 
 ## § 13 Identifikation der am Verfahren Beteiligten
 
 (1) Das Versicherungsunternehmen hat der zentralen Stelle anzuzeigen:
 
-1.  die Kundenart (Versicherungsunternehmen oder Auftragnehmer),
+1.  die Kundenart (Versicherungsunternehmen oder Auftragsverarbeiter),
 
 
 2.  den Namen und die Anschrift,
 
 
-3.  soweit aufgrund der maschinellen Anbindungsvariante erforderlich die E
-    -Mail-Adresse,
+3.  soweit aufgrund der maschinellen Anbindungsvariante erforderlich die
+    E-Mail-Adresse,
 
 
 4.  die Telefonnummer und, soweit vorhanden, die Telefaxnummer,
@@ -380,15 +392,15 @@ widerspricht.
 
 
 
-(2) Bei der Beauftragung eines Auftragnehmers nach § 12 Absatz 3 hat
-das Versicherungsunternehmen der zentralen Stelle auch von dem
-Auftragnehmer die Daten nach Absatz 1 Nummer 1 bis 6 und die
-Mandanten- oder Institutionsnummer des Beteiligten beim Auftragnehmer
-anzuzeigen.
+(2) Bei der Beauftragung eines Auftragsverarbeiters nach § 12 Absatz 3
+hat das Versicherungsunternehmen der zentralen Stelle auch von dem
+Auftragsverarbeiter die Daten nach Absatz 1 Nummer 1 bis 6 und die
+Mandanten- oder Institutionsnummer des Beteiligten beim
+Auftragsverarbeiter anzuzeigen.
 
 (3) Die am Verfahren beteiligten Versicherungsunternehmen und die nach
-Absatz 2 benannten Auftragnehmer erhalten von der zentralen Stelle
-eine Kundennummer und ein Passwort, die den Zugriff auf den
+Absatz 2 benannten Auftragsverarbeiter erhalten von der zentralen
+Stelle eine Kundennummer und ein Passwort, die den Zugriff auf den
 geschützten Internetbereich der zentralen Stelle ermöglichen.
 Zusätzlich teilt die zentrale Stelle die Bankverbindung mit, die für
 Rückzahlungen von Zulagen zu verwenden ist.

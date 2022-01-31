@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 311
 
+Geändert durch
+:   Art. 1 V v. 15.7.2014 I 962 mWv 22.7.2014
+
 
 ## Eingangsformel
 
@@ -27,7 +30,7 @@ der Finanzen:
 
 Die in der Anlage mit ihren Schätzungsergebnissen aufgeführten
 Bodenflächen sind die Musterstücke der Bodenschätzung (§ 6 Absatz 1
-des Bodenschätzungsgesetzes), die die Grundlage für die Bewertung der
+des Gesetzes), die die Grundlage für die Bewertung der
 Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
 
@@ -35,14 +38,15 @@ Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage 1 (zu § 1) Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 30. Juni 2011
+## Anlage Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 31. Dezember 2013
 
-(Fundstelle: BGBl. I 2012, 312 - 384)
+(Fundstelle: BGBl. I 2014, 963 - 1034)
 
 ## Vorbemerkungen ****
 
-Die nachfolgende Liste enthält die folgenden Angaben:
+Das nachfolgende Verzeichnis enthält die folgenden Angaben:
 
 1.
     Spalte 1: Sechsstellige Nummer zur Kennzeichnung des Musterstücks, bestehend aus
@@ -65,7 +69,8 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 3.
-    Spalten 3 und 4: Lage des Musterstücks mit der am 30. Juni 2011 gültigen Bezeichnung,
+    Spalten 3 und 4: Lage des Musterstücks mit der am 31. Dezember 2013 gültigen
+        Bezeichnung,
 
 
 
@@ -240,7 +245,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -264,7 +268,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -288,7 +291,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -312,7 +314,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -336,7 +337,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -360,7 +360,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   18
 
     *   /
@@ -373,6 +372,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 *    *
     *   **Merzig**
 
+    *
     *
     *
     *
@@ -398,7 +398,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -422,7 +421,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -446,7 +444,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -470,7 +467,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -494,7 +490,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -518,7 +513,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -542,7 +536,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -607,7 +600,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -631,7 +623,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -670,7 +661,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -694,7 +684,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   30
 
     *   /
@@ -718,7 +707,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -742,7 +730,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -766,7 +753,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -790,7 +776,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   42
 
     *   /
@@ -855,7 +840,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -879,7 +863,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   25
 
     *   /
@@ -903,7 +886,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -927,7 +909,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -951,7 +932,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -1043,7 +1023,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -1123,7 +1102,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -1147,7 +1125,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -1171,7 +1148,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -1187,7 +1163,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   30/1
+    *   117
 
     *   L
 
@@ -1195,7 +1171,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -1219,7 +1194,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   14
 
     *   /
@@ -1309,7 +1283,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -1333,7 +1306,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -1357,7 +1329,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -1381,7 +1352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -1523,7 +1493,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -1547,7 +1516,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -1571,7 +1539,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   15
 
     *   /
@@ -1595,7 +1562,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -1841,7 +1807,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -1857,7 +1822,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   4
 
-    *   65/9
+    *   153
 
     *   sL
 
@@ -1865,7 +1830,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   68
 
     *   /
@@ -1889,7 +1853,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -1913,7 +1876,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -1929,7 +1891,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   14/38
+    *   107
 
     *   sL
 
@@ -1937,7 +1899,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -1961,7 +1922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -1977,7 +1937,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   19
 
-    *   16
+    *   20
 
     *   S
 
@@ -1985,7 +1945,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -2129,7 +2088,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   6
 
-    *   5
+    *   27
 
     *   S
 
@@ -2283,7 +2242,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   85
 
     *   /
@@ -2307,7 +2265,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -2331,7 +2288,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   82
 
     *   /
@@ -2355,7 +2311,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   20
 
     *   /
@@ -2379,7 +2334,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -2403,7 +2357,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -2427,7 +2380,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -2451,7 +2403,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -2672,7 +2623,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   71
 
     *   /
@@ -2688,7 +2638,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   82
+    *   100
 
     *   Sl
 
@@ -2696,7 +2646,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -2720,7 +2669,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   94
 
     *   /
@@ -2736,7 +2684,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   5
 
-    *   8
+    *   53
 
     *   SL
 
@@ -2744,7 +2692,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -2768,7 +2715,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -2792,7 +2738,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -2804,9 +2749,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   2117.08
 
-    *   Kating
+    *   Tönning
 
-    *   9
+    *   39
 
     *   39
 
@@ -2816,7 +2761,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   42
 
     *   /
@@ -2840,7 +2784,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   15
 
     *   /
@@ -3243,7 +3186,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   61
 
     *   /
@@ -3267,7 +3209,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   55
 
     *   /
@@ -3291,7 +3232,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -3315,7 +3255,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   16
 
     *   /
@@ -3339,7 +3278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -3363,7 +3301,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -3387,7 +3324,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -3411,7 +3347,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -3435,7 +3370,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
@@ -3459,7 +3393,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -3483,7 +3416,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -3507,7 +3439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -3531,7 +3462,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -3555,7 +3485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -3826,7 +3755,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -3850,7 +3778,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -3874,7 +3801,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -3898,7 +3824,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -3922,7 +3847,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -3946,7 +3870,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   96
 
     *   /
@@ -3970,7 +3893,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   89
 
     *   /
@@ -3994,7 +3916,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   87
 
     *   /
@@ -4018,7 +3939,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -4042,7 +3962,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -4211,7 +4130,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -4250,7 +4168,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -4274,7 +4191,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   61
 
     *   /
@@ -4298,7 +4214,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   90
 
     *   /
@@ -4322,7 +4237,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   56
 
     *   /
@@ -4346,7 +4260,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -4370,7 +4283,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -4394,7 +4306,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -4418,7 +4329,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -4442,7 +4352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   35
 
     *   /
@@ -4466,7 +4375,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -4508,7 +4416,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   302/188
+    *   527
 
     *   Mo
 
@@ -4609,7 +4517,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -4633,7 +4540,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -4657,7 +4563,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -4681,7 +4586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -4705,7 +4609,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -4747,7 +4650,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   4/1
+    *   136
 
     *   S
 
@@ -4874,7 +4777,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   82
 
     *   /
@@ -4898,7 +4800,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -4922,7 +4823,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -4946,7 +4846,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -4970,7 +4869,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -4994,7 +4892,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -5018,7 +4915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -5187,7 +5083,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   40
 
     *   /
@@ -5211,7 +5106,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -5235,7 +5129,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -5259,7 +5152,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -5283,7 +5175,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -5307,7 +5198,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   35
 
     *   /
@@ -5331,7 +5221,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -5355,7 +5244,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -5379,7 +5267,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -5403,7 +5290,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -5427,7 +5313,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -5451,7 +5336,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -5475,7 +5359,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -5499,7 +5382,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -5523,7 +5405,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -5640,7 +5521,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -5664,7 +5544,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -5688,7 +5567,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -5712,7 +5590,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -5736,7 +5613,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -5853,7 +5729,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -5877,7 +5752,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -5901,7 +5775,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   71
 
     *   /
@@ -5925,7 +5798,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -5949,7 +5821,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -5973,7 +5844,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -5997,7 +5867,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -6021,7 +5890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -6045,7 +5913,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -6291,7 +6158,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -6315,7 +6181,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -6331,7 +6196,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   8
 
-    *   178/15
+    *   260
 
     *   Sl
 
@@ -6339,7 +6204,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -6363,7 +6227,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -6634,7 +6497,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -6658,7 +6520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -6682,7 +6543,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -6706,7 +6566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -6836,7 +6695,8 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
 
 *    *
-    *   **Hamburg, für Verkehrssteuern und Grundbesitz — 16**
+    *   Hamburg, für Verkehrssteuern
+        **und Grundbesitz – 16**
 
     *
     *
@@ -6864,7 +6724,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   31
 
     *   /
@@ -6888,7 +6747,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   80
 
     *   /
@@ -6912,7 +6770,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -7018,7 +6875,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -7042,7 +6898,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -7066,7 +6921,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -7090,7 +6944,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   88
 
     *   /
@@ -7114,7 +6967,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
@@ -7138,7 +6990,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -7162,7 +7013,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -7186,7 +7036,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -7225,7 +7074,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -7249,7 +7097,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -7273,7 +7120,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -7297,7 +7143,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -7321,7 +7166,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -7345,7 +7189,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -7384,7 +7227,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -7408,7 +7250,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -7432,7 +7273,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -7456,7 +7296,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   80
 
     *   /
@@ -7480,7 +7319,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   88
 
     *   /
@@ -7504,7 +7342,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -7520,7 +7357,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   4
 
-    *   102/66
+    *   102/82
 
     *   SL
 
@@ -7551,7 +7388,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -7567,7 +7403,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   6
 
-    *   142
+    *   557/1
 
     *   lS
 
@@ -7575,7 +7411,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -7599,7 +7434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -7623,7 +7457,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -7662,7 +7495,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -7686,7 +7518,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -7710,7 +7541,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -7734,7 +7564,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -7757,7 +7586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   26
 
     *   /
@@ -7926,36 +7754,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
 
     *   43
-
-    *   1936
-
-
-*    *   2316.02
-
-    *   Berkhof
-
-    *   1
-
-    *   250/49
-
-    *   S
-
-    *   5
-
-    *   D
-
-    *
-    *   17
-
-    *   /
-
-    *   18
 
     *   1936
 
@@ -7974,7 +7777,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -7998,7 +7800,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -8022,7 +7823,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -8046,7 +7846,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -8085,7 +7884,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -8109,7 +7907,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -8133,7 +7930,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -8157,7 +7953,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -8173,7 +7968,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   72/1
+    *   1/1
 
     *   lS
 
@@ -8181,7 +7976,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -8205,7 +7999,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -8229,7 +8022,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -8320,7 +8112,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -8344,7 +8135,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   81
 
     *   /
@@ -8368,7 +8158,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -8459,7 +8248,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -8483,7 +8271,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -8507,7 +8294,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -8531,7 +8317,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -8555,7 +8340,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -8579,7 +8363,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -8603,7 +8386,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -8627,7 +8409,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -8651,7 +8432,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -8721,7 +8501,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -8745,7 +8524,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -8899,30 +8677,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   2320.01
-
-    *   Atzenhausen
-
-    *   3
-
-    *   29/1
-
-    *   L
-
-    *   5
-
-    *   Vg
-
-    *
-    *   41
-
-    *   /
-
-    *   38
-
-    *   1938
-
-
 *    *   2320.03
 
     *   Deppoldshausen
@@ -8937,7 +8691,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -8961,7 +8714,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -8985,7 +8737,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -9009,36 +8760,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
 
     *   60
-
-    *   1938
-
-
-*    *   2320.07
-
-    *   Geismar
-
-    *   15
-
-    *   142/14
-
-    *   L
-
-    *   2
-
-    *   Lö
-
-    *
-    *   90
-
-    *   /
-
-    *   94
 
     *   1938
 
@@ -9057,36 +8783,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   68
 
     *   /
 
     *   69
-
-    *   1938
-
-
-*    *   2320.10
-
-    *   Jühnde
-
-    *   12
-
-    *   6/1
-
-    *   L
-
-    *   3
-
-    *   Lö
-
-    *
-    *   82
-
-    *   /
-
-    *   75
 
     *   1938
 
@@ -9105,36 +8806,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
 
     *   40
-
-    *   1938
-
-
-*    *   2320.12
-
-    *   Lutterberg
-
-    *   2
-
-    *   391/11
-
-    *   L
-
-    *   6
-
-    *   V
-
-    *
-    *   40
-
-    *   /
-
-    *   34
 
     *   1938
 
@@ -9153,36 +8829,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
 
     *   89
-
-    *   1938
-
-
-*    *   2320.15
-
-    *   Sattenhausen
-
-    *   15
-
-    *   61
-
-    *   L
-
-    *   4
-
-    *   Lö
-
-    *
-    *   73
-
-    *   /
-
-    *   72
 
     *   1938
 
@@ -9201,7 +8852,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -9225,7 +8875,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -9287,32 +8936,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1938
 
 
-*    *   2320.53
-
-    *   Holzerode
-
-    *   7
-
-    *   52
-
-    *   T
-
-    *   II
-
-    *
-    *   b
-
-    *   3
-
-    *   44
-
-    *   /
-
-    *   44
-
-    *   1938
-
-
 *    *
     *   **Goslar**
 
@@ -9342,36 +8965,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
 
     *   68
-
-    *   1938
-
-
-*    *   2321.02
-
-    *   Westerode
-
-    *   3
-
-    *   1
-
-    *   sL
-
-    *   5
-
-    *   D
-
-    *
-    *   49
-
-    *   /
-
-    *   48
 
     *   1938
 
@@ -9405,7 +9003,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   62
 
     *   /
@@ -9429,7 +9026,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -9437,30 +9033,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   38
 
     *   1937
-
-
-*    *   2322.05
-
-    *   Großenberg
-
-    *   13
-
-    *   4
-
-    *   L
-
-    *   6
-
-    *   Vg
-
-    *
-    *   34
-
-    *   /
-
-    *   29
-
-    *   1935
 
 
 *    *   2322.06
@@ -9477,7 +9049,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -9501,7 +9072,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -9525,7 +9095,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -9549,7 +9118,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   65
 
     *   /
@@ -9573,7 +9141,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   93
 
     *   /
@@ -9597,7 +9164,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -9621,7 +9187,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -9660,7 +9225,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -9684,7 +9248,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   63
 
     *   /
@@ -9708,7 +9271,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -9732,7 +9294,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -9756,7 +9317,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -9793,6 +9353,67 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
+    *   **Hannover-Land II**
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   2327.01
+
+    *   Kaltenweide
+
+    *   25
+
+    *   79
+
+    *   S
+
+    *   4
+
+    *   D
+
+    *   23
+
+    *   /
+
+    *   25
+
+    *   2012
+
+
+*    *   2327.02
+
+    *   Kaltenweide
+
+    *   22
+
+    *   83/11
+
+    *   Sl
+
+    *   3
+
+    *   D
+
+    *   40
+
+    *   /
+
+    *   43
+
+    *   2012
+
+
+*    *
     *   **Helmstedt**
 
     *
@@ -9821,36 +9442,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
 
     *   58
-
-    *   1937
-
-
-*    *   2328.02
-
-    *   Bornum
-
-    *   3
-
-    *   167
-
-    *   L
-
-    *   5
-
-    *   Vg
-
-    *
-    *   42
-
-    *   /
-
-    *   41
 
     *   1937
 
@@ -9861,7 +9457,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   5
 
-    *   306/1
+    *   305/1
 
     *   LT
 
@@ -9869,7 +9465,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -9893,7 +9488,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   98
 
     *   /
@@ -9909,7 +9503,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   42
 
-    *   653/31
+    *   653/45
 
     *   sL
 
@@ -9917,7 +9511,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -9941,7 +9534,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   93
 
     *   /
@@ -9965,7 +9557,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -10012,7 +9603,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -10028,7 +9618,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   15/21
+    *   15/35
 
     *   L
 
@@ -10036,7 +9626,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -10060,7 +9649,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -10068,30 +9656,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   49
 
     *   1937
-
-
-*    *   2328.14
-
-    *   Rottorf
-
-    *   1
-
-    *   577/176
-
-    *   LT
-
-    *   5
-
-    *   V
-
-    *
-    *   43
-
-    *   /
-
-    *   40
-
-    *   1936
 
 
 *    *   2328.15
@@ -10107,7 +9671,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Al
 
-    *
     *   67
 
     *   /
@@ -10197,7 +9760,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -10221,7 +9783,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -10245,7 +9806,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   66
 
     *   /
@@ -10269,7 +9829,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -10293,7 +9852,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   82
 
     *   /
@@ -10317,7 +9875,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -10408,7 +9965,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -10432,7 +9988,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -10456,7 +10011,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -10480,7 +10034,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -10504,7 +10057,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -10528,7 +10080,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   48
 
     *   /
@@ -10552,7 +10103,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   56
 
     *   /
@@ -10576,7 +10126,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -10600,7 +10149,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -10624,7 +10172,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   46
 
     *   /
@@ -10648,7 +10195,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -10713,7 +10259,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -10737,7 +10282,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -10761,7 +10305,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -10785,7 +10328,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   63
 
     *   /
@@ -10809,7 +10351,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -10833,7 +10374,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -10857,7 +10397,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   90
 
     *   /
@@ -10881,7 +10420,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -10946,7 +10484,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -10970,7 +10507,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   19
 
     *   /
@@ -10994,36 +10530,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
 
     *   58
-
-    *   1934
-
-
-*    *   2332.05
-
-    *   Sammatz
-
-    *   1
-
-    *   17/1
-
-    *   Sl
-
-    *   3
-
-    *   D
-
-    *
-    *   35
-
-    *   /
-
-    *   37
 
     *   1934
 
@@ -11042,7 +10553,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -11185,7 +10695,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -11209,36 +10718,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   44
 
     *   /
 
     *   46
-
-    *   1934
-
-
-*    *   2333.04
-
-    *   Drögennindorf
-
-    *   1
-
-    *   13/6
-
-    *   S
-
-    *   5
-
-    *   D
-
-    *
-    *   18
-
-    *   /
-
-    *   20
 
     *   1934
 
@@ -11249,7 +10733,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   98/10
+    *   98/11
 
     *   S
 
@@ -11257,7 +10741,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -11281,7 +10764,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -11305,7 +10787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -11329,7 +10810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -11353,7 +10833,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -11369,7 +10848,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   103/1
+    *   103/4
 
     *   sL
 
@@ -11377,7 +10856,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -11391,9 +10869,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Krusendorf
 
-    *   2
+    *   14
 
-    *   37
+    *   4
 
     *   LT
 
@@ -11401,7 +10879,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   54
 
     *   /
@@ -11425,7 +10902,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   48
 
     *   /
@@ -11516,7 +10992,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -11540,7 +11015,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -11564,7 +11038,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -11588,7 +11061,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -11612,7 +11084,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -11636,7 +11107,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -11660,7 +11130,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -11684,7 +11153,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -11708,7 +11176,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -11732,7 +11199,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -11756,7 +11222,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -11780,7 +11245,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
@@ -11804,7 +11268,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -11820,7 +11283,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   8
 
-    *   84/6
+    *   84/10
 
     *   lS
 
@@ -11828,7 +11291,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -11852,7 +11314,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -11876,7 +11337,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -11900,7 +11360,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -11924,7 +11383,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -11948,7 +11406,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -11972,7 +11429,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   85
 
     *   /
@@ -11996,7 +11452,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -12020,7 +11475,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -12044,7 +11498,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -12068,7 +11521,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   72
 
     *   /
@@ -12340,36 +11792,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
 
     *   75
-
-    *   1938
-
-
-*    *   2335.02
-
-    *   Duderstadt
-
-    *   40
-
-    *   12
-
-    *   L
-
-    *   5
-
-    *   V
-
-    *
-    *   52
-
-    *   /
-
-    *   50
 
     *   1938
 
@@ -12388,36 +11815,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
 
     *   71
-
-    *   1938
-
-
-*    *   2335.06
-
-    *   Offensen
-
-    *   4
-
-    *   42/2
-
-    *   lS
-
-    *   5
-
-    *   V
-
-    *
-    *   35
-
-    *   /
-
-    *   36
 
     *   1938
 
@@ -12436,7 +11838,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   96
 
     *   /
@@ -12460,36 +11861,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
 
     *   88
-
-    *   1938
-
-
-*    *   2335.10
-
-    *   Uslar
-
-    *   4
-
-    *   83/1
-
-    *   L
-
-    *   4
-
-    *   V
-
-    *
-    *   58
-
-    *   /
-
-    *   52
 
     *   1938
 
@@ -12508,7 +11884,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -12532,7 +11907,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   79
 
     *   /
@@ -12597,7 +11971,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -12621,7 +11994,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -12645,7 +12017,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -12669,7 +12040,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -12693,7 +12063,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -12936,7 +12305,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   94
 
     *   /
@@ -12960,7 +12328,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -12984,7 +12351,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   91
 
     *   /
@@ -13008,7 +12374,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -13055,7 +12420,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -13094,7 +12458,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -13118,7 +12481,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -13165,7 +12527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -13222,7 +12583,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   243/43
+    *   43/6
 
     *   lS
 
@@ -13230,7 +12591,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -13254,7 +12614,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -13278,7 +12637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -13294,7 +12652,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   14
 
-    *   10/8
+    *   10/14
 
     *   S
 
@@ -13302,7 +12660,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   15
 
     *   /
@@ -13326,7 +12683,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -13350,7 +12706,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -13374,7 +12729,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -13421,7 +12775,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
@@ -13445,7 +12798,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   38
 
     *   /
@@ -13461,7 +12813,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   24/1
+    *   24/6
 
     *   S
 
@@ -13469,7 +12821,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -13536,7 +12887,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   68/1
+    *   68/10
 
     *   T
 
@@ -13611,7 +12962,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -13635,7 +12985,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -13659,7 +13008,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -13683,7 +13031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -13744,58 +13091,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1934
 
 
-*    *   2343.58
-
-    *   Krummendeich
-
-    *   37
-
-    *   9
-
-    *   lS
-
-    *   I
-
-    *
-    *   a
-
-    *   1
-
-    *   65
-
-    *   /
-
-    *   65
-
-    *   1977
-
-
-*    *   2343.59
-
-    *   Krummendeich
-
-    *   34
-
-    *   7
-
-    *   L
-
-    *   I
-
-    *
-    *   a
-
-    *   2
-
-    *   72
-
-    *   /
-
-    *   72
-
-    *   1977
-
-
 *    *   2343.60
 
     *   Jork
@@ -13837,30 +13132,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   2344.01
-
-    *   Beckedorf
-
-    *   1
-
-    *   13/3
-
-    *   L
-
-    *   5
-
-    *   Lö
-
-    *
-    *   58
-
-    *   /
-
-    *   60
-
-    *   1937
-
-
 *    *   2344.02
 
     *   Evesen
@@ -13875,7 +13146,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -13899,7 +13169,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -13923,7 +13192,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -13947,36 +13215,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
 
     *   82
-
-    *   1935
-
-
-*    *   2344.11
-
-    *   Wiedensahl
-
-    *   3
-
-    *   9/1
-
-    *   sL
-
-    *   4
-
-    *   DV
-
-    *
-    *   57
-
-    *   /
-
-    *   59
 
     *   1935
 
@@ -13995,7 +13238,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -14019,7 +13261,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -14029,52 +13270,73 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1935
 
 
-*    *   2344.15
+*    *   2344.18
 
-    *   Goldbeck
-
-    *   2
-
-    *   139/57
-
-    *   LT
-
-    *   5
-
-    *   Vg
-
-    *
-    *   44
-
-    *   /
-
-    *   37
-
-    *   1937
-
-
-*    *   2344.17
-
-    *   Wiedensahl
+    *   Lüdersfeld
 
     *   1
 
-    *   128/2
+    *   55/113
 
     *   L
 
-    *   5
+    *   4
 
-    *   DV
+    *   LöD
 
-    *
-    *   50
+    *   67
 
     *   /
 
-    *   51
+    *   68
 
-    *   1986
+    *   2012
+
+
+*    *   2344.19
+
+    *   Lüdersfeld
+
+    *   14
+
+    *   32/1
+
+    *   SL
+
+    *   4
+
+    *   LöD
+
+    *   53
+
+    *   /
+
+    *   55
+
+    *   2012
+
+
+*    *   2344.20
+
+    *   Lüdersfeld
+
+    *   13
+
+    *   96
+
+    *   LT
+
+    *   4
+
+    *   DV
+
+    *   58
+
+    *   /
+
+    *   58
+
+    *   2012
 
 
 *    *   2344.51
@@ -14132,7 +13394,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -14156,7 +13417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -14180,7 +13440,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   46
 
     *   /
@@ -14217,9 +13476,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Ohlendorf
 
-    *   7
+    *   14
 
-    *   48
+    *   39/0
 
     *   lS
 
@@ -14227,7 +13486,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -14251,7 +13509,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -14298,7 +13555,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -14322,7 +13578,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -14330,30 +13585,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   28
 
     *   1975
-
-
-*    *   2345.12
-
-    *   Brake
-
-    *   1
-
-    *   57/2
-
-    *   lS
-
-    *   5
-
-    *   D
-
-    *
-    *   36
-
-    *   /
-
-    *   37
-
-    *   1986
 
 
 *    *   2345.13
@@ -14370,7 +13601,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -14394,7 +13624,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -14425,6 +13654,50 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   40
 
     *   2003
+
+
+*    *   2345.17
+
+    *   Bahrenborstel
+
+    *   1
+
+    *   35/2
+
+    *   S
+
+    *
+    *   D
+
+    *   27
+
+    *   /
+
+    *   30
+
+    *   2012
+
+
+*    *   2345.18
+
+    *   Bahrenborstel
+
+    *   7
+
+    *   93/5
+
+    *   Sl
+
+    *
+    *   D
+
+    *   38
+
+    *   /
+
+    *   41
+
+    *   2012
 
 
 *    *   2345.52
@@ -14581,6 +13854,32 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   2003
 
 
+*    *   2345.60
+
+    *   Schwaförden
+
+    *   19
+
+    *   37
+
+    *   lS
+
+    *   II
+
+    *
+    *   a
+
+    *   2
+
+    *   49
+
+    *   /
+
+    *   49
+
+    *   2012
+
+
 *    *
     *   **Syke**
 
@@ -14656,7 +13955,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -14680,7 +13978,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -14704,7 +14001,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -14728,7 +14024,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -14844,7 +14139,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -14868,7 +14162,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -14892,7 +14185,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -14916,7 +14208,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -14940,7 +14231,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -14964,7 +14254,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -14980,7 +14269,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   64/1
+    *   64/4
 
     *   S
 
@@ -14988,7 +14277,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   20
 
     *   /
@@ -15012,7 +14300,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -15054,7 +14341,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   21/1
+    *   21/2
 
     *   lS
 
@@ -15103,7 +14390,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   44
 
     *   /
@@ -15127,36 +14413,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
 
     *   34
-
-    *   1936
-
-
-*    *   2348.04
-
-    *   Blender
-
-    *   15
-
-    *   64
-
-    *   SL
-
-    *   3
-
-    *   Al
-
-    *
-    *   62
-
-    *   /
-
-    *   63
 
     *   1936
 
@@ -15175,7 +14436,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
@@ -15199,7 +14459,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -15223,7 +14482,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -15247,7 +14505,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -15271,7 +14528,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -15295,7 +14551,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -15464,7 +14719,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -15488,7 +14742,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -15512,7 +14765,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -15536,7 +14788,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -15887,7 +15138,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -15903,7 +15153,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   11
 
-    *   39/6
+    *   39/10
 
     *   L
 
@@ -15911,7 +15161,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   64
 
     *   /
@@ -15935,7 +15184,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -15959,7 +15207,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -15983,7 +15230,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   59
 
     *   /
@@ -16007,7 +15253,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -16031,7 +15276,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -16172,7 +15416,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -16196,7 +15439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
@@ -16220,7 +15462,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -16244,7 +15485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -16268,7 +15508,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -16292,7 +15531,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   98
 
     *   /
@@ -16356,7 +15594,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -16380,7 +15617,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -16404,7 +15640,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -16428,7 +15663,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -16452,7 +15686,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -16646,7 +15879,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -16679,29 +15911,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1975
 
 
-*    *   2353.05
-
-    *   Walchum
-
-    *   6
-
-    *   24/4
-
-    *   SMo
-
-    *
-    *
-    *
-    *
-    *   40
-
-    *   /
-
-    *   42
-
-    *   1975
-
-
 *    *   2353.06
 
     *   Lathen
@@ -16715,7 +15924,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   30
 
     *   /
@@ -16739,7 +15947,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -16775,32 +15982,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1939
 
 
-*    *   2353.56
-
-    *   Steinbild
-
-    *   22
-
-    *   38/1
-
-    *   S
-
-    *   II
-
-    *
-    *   a
-
-    *   3
-
-    *   34
-
-    *   /
-
-    *   34
-
-    *   1989
-
-
 *    *
     *   **Aurich**
 
@@ -16830,7 +16011,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -16854,7 +16034,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -17089,9 +16268,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Gildehaus
 
-    *   27
+    *   92
 
-    *   163/1
+    *   33/1
 
     *   Sl
 
@@ -17099,7 +16278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   42
 
     *   /
@@ -17113,9 +16291,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Gildehaus
 
-    *   24
+    *   97
 
-    *   104/9
+    *   6/0
 
     *   LT
 
@@ -17123,7 +16301,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -17146,7 +16323,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   30
 
     *   /
@@ -17170,7 +16346,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -17194,7 +16369,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -17217,7 +16391,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   25
 
     *   /
@@ -17241,7 +16414,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -17275,57 +16447,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   52
 
     *   1938
-
-
-*    *   2355.52
-
-    *   Hestrup
-
-    *   11
-
-    *   12/9
-
-    *   S
-
-    *   II
-
-    *
-    *   a
-
-    *   3
-
-    *   35
-
-    *   /
-
-    *   35
-
-    *   1975
-
-
-*    *   2355.54
-
-    *   Kalle
-
-    *   27
-
-    *   4/1
-
-    *   S
-
-    *
-    *
-    *   a
-
-    *   3
-
-    *   38
-
-    *   /
-
-    *   38
-
-    *   1989
 
 
 *    *   2355.55
@@ -17383,7 +16504,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -17407,7 +16527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -17453,7 +16572,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   32
 
     *   /
@@ -17477,7 +16595,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -17501,7 +16618,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -17509,6 +16625,96 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   35
 
     *   1984
+
+
+*    *   2356.10
+
+    *   Scharrel
+
+    *   40
+
+    *   8/2
+
+    *   SMo
+
+    *
+    *
+    *
+    *
+    *   34
+
+    *   /
+
+    *   36
+
+    *   2012
+
+
+*    *   2356.11
+
+    *   Friesoythe
+
+    *   11
+
+    *   86/2
+
+    *   SMo
+
+    *
+    *
+    *
+    *
+    *   38
+
+    *   /
+
+    *   40
+
+    *   2012
+
+
+*    *   2356.12
+
+    *   Markhausen
+
+    *   12
+
+    *   78
+
+    *   S
+
+    *
+    *   D
+
+    *   30
+
+    *   /
+
+    *   33
+
+    *   2012
+
+
+*    *   2356.13
+
+    *   Friesoythe
+
+    *   41
+
+    *   3/1
+
+    *   S
+
+    *
+    *   D
+
+    *   24
+
+    *   /
+
+    *   26
+
+    *   2012
 
 
 *    *   2356.52
@@ -17563,6 +16769,57 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1984
 
 
+*    *   2356.58
+
+    *   Bösel
+
+    *   3
+
+    *   56/49
+
+    *   Mo
+
+    *   II
+
+    *
+    *   a
+
+    *   3
+
+    *   32
+
+    *   /
+
+    *   32
+
+    *   2012
+
+
+*    *   2356.59
+
+    *   Friesoythe
+
+    *   46
+
+    *   9
+
+    *   S/Mo
+
+    *
+    *
+    *   a
+
+    *   2
+
+    *   38
+
+    *   /
+
+    *   38
+
+    *   2012
+
+
 *    *
     *   **Delmenhorst**
 
@@ -17578,30 +16835,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   2357.01
-
-    *   Ganderkesee
-
-    *   52
-
-    *   53/5
-
-    *   S
-
-    *   4
-
-    *   D
-
-    *
-    *   22
-
-    *   /
-
-    *   24
-
-    *   1935
-
-
 *    *   2357.02
 
     *   Ganderkesee
@@ -17616,7 +16849,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -17640,7 +16872,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -17664,7 +16895,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -17688,7 +16918,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -17734,7 +16963,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   25
 
     *   /
@@ -17742,6 +16970,29 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   28
 
     *   2003
+
+
+*    *   2357.08
+
+    *   Ganderkesee
+
+    *   29
+
+    *   10/1
+
+    *   S
+
+    *   4
+
+    *   D
+
+    *   25
+
+    *   /
+
+    *   28
+
+    *   2012
 
 
 *    *   2357.51
@@ -17794,31 +17045,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   40
 
     *   1935
-
-
-*    *   2357.53
-
-    *   Hude
-
-    *   57
-
-    *   139/1
-
-    *   Mo/S
-
-    *
-    *
-    *   a
-
-    *   3
-
-    *   35
-
-    *   /
-
-    *   35
-
-    *   1937
 
 
 *    *   2357.54
@@ -17876,7 +17102,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -17900,7 +17125,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -17924,7 +17148,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   85
 
     *   /
@@ -17948,7 +17171,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -18013,7 +17235,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -18037,7 +17258,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -18061,7 +17281,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -18085,7 +17304,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   90
 
     *   /
@@ -18331,7 +17549,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -18355,7 +17572,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -18379,7 +17595,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -18402,7 +17617,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   22
 
     *   /
@@ -18426,7 +17640,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -18450,7 +17663,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -18564,9 +17776,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Baccum
 
-    *   15 II
+    *   19
 
-    *   105/1
+    *   35/2
 
     *   S
 
@@ -18614,7 +17826,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -18638,7 +17849,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   87
 
     *   /
@@ -18662,7 +17872,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   61
 
     *   /
@@ -18686,7 +17895,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -18777,7 +17985,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   90
 
     *   /
@@ -18891,32 +18098,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1935
 
 
-*    *   2363.56
-
-    *   Langwarden
-
-    *   22
-
-    *   26/1
-
-    *   T
-
-    *   III
-
-    *
-    *   a
-
-    *   2
-
-    *   45
-
-    *   /
-
-    *   45
-
-    *   1935
-
-
 *    *   2363.57
 
     *   Moorriem
@@ -18964,32 +18145,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   /
 
     *   64
-
-    *   1935
-
-
-*    *   2363.59
-
-    *   Rodenkirchen
-
-    *   7
-
-    *   323/193
-
-    *   T
-
-    *   II
-
-    *
-    *   a
-
-    *   1
-
-    *   66
-
-    *   /
-
-    *   66
 
     *   1935
 
@@ -19098,31 +18253,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1937
 
 
-*    *   2363.64
-
-    *   Strückhausen
-
-    *   8
-
-    *   879/342
-
-    *   T/Mo
-
-    *
-    *
-    *   a
-
-    *   2
-
-    *   56
-
-    *   /
-
-    *   56
-
-    *   1935
-
-
 *    *   2363.65
 
     *   Waddens
@@ -19204,7 +18334,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -19227,7 +18356,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   30
 
     *   /
@@ -19251,7 +18379,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -19316,7 +18443,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -19340,7 +18466,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   48
 
     *   /
@@ -19364,7 +18489,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -19388,7 +18512,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -19412,7 +18535,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -19436,7 +18558,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -19460,7 +18581,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -19484,7 +18604,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -19508,7 +18627,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -19532,7 +18650,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -19556,7 +18673,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   55
 
     *   /
@@ -19580,7 +18696,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -19604,7 +18719,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -19628,7 +18742,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -19652,7 +18765,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   55
 
     *   /
@@ -19676,7 +18788,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -19700,7 +18811,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -19724,7 +18834,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -19748,7 +18857,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -19772,7 +18880,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -19796,7 +18903,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -19819,7 +18925,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   25
 
     *   /
@@ -19866,7 +18971,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   36
 
     *   /
@@ -19902,32 +19006,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1977
 
 
-*    *   2365.54
-
-    *   Rabber
-
-    *   22
-
-    *   40
-
-    *   lS
-
-    *   II
-
-    *
-    *   a
-
-    *   3
-
-    *   43
-
-    *   /
-
-    *   43
-
-    *   1977
-
-
 *    *
     *   **Quakenbrück**
 
@@ -19957,7 +19035,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -19981,7 +19058,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -20005,7 +19081,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -20029,7 +19104,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -20053,7 +19127,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -20100,7 +19173,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -20124,7 +19196,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -20170,7 +19241,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   27
 
     *   /
@@ -20312,7 +19382,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -20336,7 +19405,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -20360,7 +19428,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -20384,7 +19451,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -20415,6 +19481,54 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   64
 
     *   1935
+
+
+*    *   2368.06
+
+    *   Großenkneten
+
+    *   20
+
+    *   254
+
+    *   S
+
+    *   4
+
+    *
+    *   D
+
+    *
+    *   24
+
+    *   /
+
+    *   26
+
+    *   2012
+
+
+*    *   2368.07
+
+    *   Goldenstedt
+
+    *   29
+
+    *   54
+
+    *   lS
+
+    *   4
+
+    *   LöD
+
+    *   43
+
+    *   /
+
+    *   46
+
+    *   2012
 
 
 *    *   2368.52
@@ -20469,6 +19583,58 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1977
 
 
+*    *   2368.54
+
+    *   Goldenstedt
+
+    *   29
+
+    *   86/1
+
+    *   lS
+
+    *   II
+
+    *
+    *   a
+
+    *   2
+
+    *   47
+
+    *   /
+
+    *   47
+
+    *   2012
+
+
+*    *   2368.55
+
+    *   Damme
+
+    *   52
+
+    *   50
+
+    *   Mo
+
+    *   III
+
+    *
+    *   a
+
+    *   3
+
+    *   29
+
+    *   /
+
+    *   29
+
+    *   2012
+
+
 *    *
     *   **Westerstede**
 
@@ -20521,7 +19687,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -20529,6 +19694,28 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   41
 
     *   1984
+
+
+*    *   2369.04
+
+    *   Bad Zwischenhahn
+
+    *   28
+
+    *   184/24
+
+    *   S
+
+    *
+    *   D
+
+    *   34
+
+    *   /
+
+    *   37
+
+    *   2012
 
 
 *    *   2369.51
@@ -20609,6 +19796,57 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1977
 
 
+*    *   2369.56
+
+    *   Westerstede
+
+    *   8
+
+    *   99/8
+
+    *   Mo/lS
+
+    *
+    *
+    *   a
+
+    *   2
+
+    *   40
+
+    *   /
+
+    *   40
+
+    *   2012
+
+
+*    *   2369.57
+
+    *   Westerstede
+
+    *   2
+
+    *   63
+
+    *   S
+
+    *   III
+
+    *
+    *   a
+
+    *   3
+
+    *   26
+
+    *   /
+
+    *   26
+
+    *   2012
+
+
 *    *
     *   **Wilhelmshaven**
 
@@ -20638,7 +19876,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -20662,7 +19899,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -20686,7 +19922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   79
 
     *   /
@@ -20710,7 +19945,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -20734,7 +19968,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   82
 
     *   /
@@ -20980,7 +20213,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -21004,7 +20236,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -21028,7 +20259,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -21052,7 +20282,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -21307,7 +20536,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -21331,7 +20559,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -21355,7 +20582,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -21379,7 +20605,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -21403,7 +20628,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -21427,7 +20651,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -21494,7 +20717,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -21518,7 +20740,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   19
 
     *   /
@@ -21542,7 +20763,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -21566,7 +20786,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -21657,7 +20876,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -21681,7 +20899,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -21705,7 +20922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -21729,7 +20945,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -21770,7 +20985,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -21794,7 +21008,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -21818,7 +21031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -21935,7 +21147,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -21959,7 +21170,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -21983,7 +21193,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -22030,7 +21239,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   48
 
     *   /
@@ -22054,7 +21262,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   59
 
     *   /
@@ -22078,7 +21285,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -22102,7 +21308,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -22272,7 +21477,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -22296,7 +21500,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -22320,7 +21523,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -22344,7 +21546,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -22461,7 +21662,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -22485,7 +21685,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   54
 
     *   /
@@ -22509,7 +21708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -22533,7 +21731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   61
 
     *   /
@@ -22557,7 +21754,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -22581,7 +21777,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   48
 
     *   /
@@ -22643,7 +21838,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   79
 
     *   /
@@ -22690,7 +21884,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -22714,7 +21907,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -22738,7 +21930,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -22803,7 +21994,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -22869,7 +22059,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -22893,7 +22082,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
@@ -22917,7 +22105,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -22941,7 +22128,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -22965,7 +22151,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -22989,7 +22174,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -23134,7 +22318,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -23158,7 +22341,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -23182,7 +22364,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -23206,7 +22387,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -23230,7 +22410,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -23322,7 +22501,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   39
 
     *   /
@@ -23387,7 +22565,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -23411,7 +22588,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -23435,7 +22611,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -23459,7 +22634,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -23483,7 +22657,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -23545,7 +22718,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -23569,7 +22741,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -23593,7 +22764,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -23617,7 +22787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -23641,7 +22810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -23665,7 +22833,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -23782,7 +22949,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -23806,7 +22972,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -23830,7 +22995,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -23854,7 +23018,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   25
 
     *   /
@@ -23878,7 +23041,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -23902,7 +23064,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   48
 
     *   /
@@ -23926,7 +23087,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -24069,7 +23229,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -24093,7 +23252,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -24117,7 +23275,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -24141,7 +23298,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -24165,7 +23321,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -24189,7 +23344,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -24213,7 +23367,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -24304,7 +23457,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   71
 
     *   /
@@ -24328,7 +23480,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   60
 
     *   /
@@ -24352,7 +23503,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   73
 
     *   /
@@ -24376,7 +23526,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -24400,7 +23549,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -24439,7 +23587,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -24463,7 +23610,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   35
 
     *   /
@@ -24487,7 +23633,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -24511,7 +23656,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   27
 
     *   /
@@ -24558,7 +23702,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -24582,7 +23725,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   71
 
     *   /
@@ -24725,7 +23867,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -24749,7 +23890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -24773,7 +23913,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   84
 
     *   /
@@ -24797,7 +23936,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -24821,7 +23959,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -24845,7 +23982,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   61
 
     *   /
@@ -24869,7 +24005,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -24961,7 +24096,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -24985,7 +24119,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -25009,7 +24142,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -25033,7 +24165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -25057,7 +24188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -25081,7 +24211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -25198,7 +24327,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -25222,7 +24350,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -25246,7 +24373,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -25270,7 +24396,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -25294,7 +24419,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -25318,7 +24442,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -25410,7 +24533,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   72
 
     *   /
@@ -25434,7 +24556,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -25458,7 +24579,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -25482,7 +24602,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -25506,7 +24625,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -25530,7 +24648,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -25554,7 +24671,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -25671,7 +24787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   27
 
     *   /
@@ -25695,7 +24810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -25719,7 +24833,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -25785,7 +24898,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   31
 
     *   /
@@ -25809,7 +24921,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -25898,7 +25009,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -25964,7 +25074,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -25988,7 +25097,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -26012,7 +25120,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -26036,7 +25143,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -26060,7 +25166,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -26204,7 +25309,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -26228,7 +25332,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -26252,7 +25355,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -26276,7 +25378,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -26300,7 +25401,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -26365,7 +25465,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -26389,7 +25488,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   69
 
     *   /
@@ -26413,7 +25511,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -26437,7 +25534,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -26461,7 +25557,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -26630,7 +25725,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -26654,7 +25748,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -26678,7 +25771,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -26702,7 +25794,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -26726,7 +25817,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -26750,7 +25840,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -26774,7 +25863,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -26798,7 +25886,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -26822,7 +25909,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -26846,7 +25932,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -26912,7 +25997,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -26936,7 +26020,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -27002,7 +26085,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -27083,7 +26165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -27107,7 +26188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -27131,7 +26211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -27170,7 +26249,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -27194,7 +26272,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -27218,7 +26295,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -27308,7 +26384,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -27375,7 +26450,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -27399,7 +26473,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -27423,7 +26496,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -27447,7 +26519,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   72
 
     *   /
@@ -27512,7 +26583,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -27536,7 +26606,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -27560,7 +26629,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -27625,7 +26693,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -27649,7 +26716,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -27673,7 +26739,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -27697,7 +26762,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -27751,7 +26815,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -27775,7 +26838,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   70
 
     *   /
@@ -27799,7 +26861,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -27823,7 +26884,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -27847,7 +26907,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -27954,7 +27013,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -27978,7 +27036,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -28002,7 +27059,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -28026,7 +27082,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -28050,7 +27105,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -28074,7 +27128,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -28098,7 +27151,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -28122,7 +27174,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -28161,7 +27212,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -28184,7 +27234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -28208,7 +27257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -28232,7 +27280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -28256,7 +27303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   73
 
     *   /
@@ -28280,7 +27326,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -28304,7 +27349,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -28327,7 +27371,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -28351,7 +27394,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   37
 
     *   /
@@ -28375,7 +27417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -28391,7 +27432,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   6
 
-    *   301
+    *   301/2
 
     *   L
 
@@ -28399,7 +27440,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   88
 
     *   /
@@ -28491,7 +27531,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -28515,7 +27554,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -28539,7 +27577,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -28604,7 +27641,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -28628,7 +27664,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   72
 
     *   /
@@ -28652,7 +27687,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -28676,7 +27710,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -28715,7 +27748,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   51
 
     *   /
@@ -28739,7 +27771,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -28763,7 +27794,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -28787,7 +27817,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
@@ -28904,7 +27933,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -28928,7 +27956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -28952,7 +27979,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -28976,7 +28002,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -29000,7 +28025,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   71
 
     *   /
@@ -29024,7 +28048,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   20
 
     *   /
@@ -29141,7 +28164,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -29165,7 +28187,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -29189,7 +28210,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -29213,7 +28233,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -29237,7 +28256,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -29261,7 +28279,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -29285,7 +28302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   42
 
     *   /
@@ -29309,7 +28325,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -29333,7 +28348,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -29357,7 +28371,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   26
 
     *   /
@@ -29381,7 +28394,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -29473,7 +28485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -29497,7 +28508,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -29561,7 +28571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -29584,7 +28593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -29607,7 +28615,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -29630,7 +28637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -29653,7 +28659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -29676,7 +28681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -29699,7 +28703,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -29760,7 +28763,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -29783,7 +28785,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -29806,7 +28807,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -29829,7 +28829,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -29852,7 +28851,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -29917,7 +28915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -29941,7 +28938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -29965,7 +28961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -29989,7 +28984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -30013,7 +29007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -30037,7 +29030,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -30061,7 +29053,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -30085,7 +29076,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -30109,7 +29099,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -30225,7 +29214,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -30248,7 +29236,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -30271,7 +29258,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -30294,7 +29280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -30317,7 +29302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -30340,7 +29324,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -30363,7 +29346,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -30421,7 +29403,8 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   Worms-Kirchheimbolanden, Außenstelle
+    *   Worms-Kirchheimbolanden,
+        Außenstelle
         **Kirchheimbolanden**
 
     *
@@ -30449,7 +29432,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -30516,7 +29498,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -30630,7 +29611,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -30654,7 +29634,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   71
 
     *   /
@@ -30678,7 +29657,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   28
 
     *   /
@@ -30742,7 +29720,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   31
 
     *   /
@@ -30766,7 +29743,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   61
 
     *   /
@@ -30789,7 +29765,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -30812,7 +29787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -30835,7 +29809,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -30858,7 +29831,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -30881,7 +29853,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -30904,7 +29875,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -30992,7 +29962,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -31015,7 +29984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -31038,7 +30006,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -31061,7 +30028,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   71
 
     *   /
@@ -31084,7 +30050,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -31107,7 +30072,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -31130,7 +30094,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -31153,7 +30116,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -31292,7 +30254,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   26
 
     *   /
@@ -31315,7 +30276,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -31338,7 +30298,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -31361,7 +30320,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -31384,7 +30342,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -31407,7 +30364,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -31430,7 +30386,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -31453,7 +30408,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -31476,7 +30430,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -31612,7 +30565,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Al
 
-    *
     *   49
 
     *   /
@@ -31635,7 +30587,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -31658,7 +30609,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -31681,7 +30631,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   54
 
     *   /
@@ -31704,7 +30653,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -31790,7 +30738,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -31837,7 +30784,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   70
 
     *   /
@@ -31876,7 +30822,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   66
 
     *   /
@@ -31900,7 +30845,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -31924,7 +30868,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -31948,7 +30891,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -31972,7 +30914,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -32057,7 +30998,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   58
 
     *   /
@@ -32081,7 +31021,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -32105,7 +31044,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -32129,7 +31067,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -32193,7 +31130,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -32216,7 +31152,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -32255,7 +31190,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -32417,7 +31351,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -32440,7 +31373,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -32463,7 +31395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -32486,7 +31417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   27
 
     *   /
@@ -32509,7 +31439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   50
 
     *   /
@@ -32532,7 +31461,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   62
 
     *   /
@@ -32555,7 +31483,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -32578,7 +31505,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -32601,7 +31527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -32641,7 +31566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -32665,7 +31589,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -32689,7 +31612,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   43
 
     *   /
@@ -32713,7 +31635,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -32737,7 +31658,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -32761,7 +31681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -32785,7 +31704,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   73
 
     *   /
@@ -32809,7 +31727,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -32976,8 +31893,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   Sankt Goarshausen-
-        Sankt Goar,
+    *   Sankt Goarshausen-Sankt Goar,
         **Außenstelle Sankt Goar**
 
     *
@@ -33006,7 +31922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -33043,8 +31958,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   Sankt Goarshausen-
-        **Sankt Goar**
+    *   **Sankt Goarshausen-Sankt Goar**
 
     *
     *
@@ -33072,7 +31986,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -33096,7 +32009,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -33143,7 +32055,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -33167,7 +32078,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -33191,7 +32101,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   68
 
     *   /
@@ -33256,7 +32165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -33280,7 +32188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -33304,7 +32211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -33328,7 +32234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -33352,7 +32257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -33376,7 +32280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   25
 
     *   /
@@ -33414,7 +32317,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   48
 
     *   /
@@ -33437,7 +32339,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   46
 
     *   /
@@ -33460,7 +32361,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   71
 
     *   /
@@ -33483,7 +32383,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   76
 
     *   /
@@ -33522,7 +32421,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -33546,7 +32444,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -33570,7 +32467,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -33594,7 +32490,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -33618,7 +32513,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -33642,7 +32536,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -33666,7 +32559,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -33690,7 +32582,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -33714,7 +32605,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
@@ -33738,7 +32628,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   61
 
     *   /
@@ -33762,7 +32651,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -33786,7 +32674,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -33929,7 +32816,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -33953,7 +32839,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -33977,7 +32862,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -34001,7 +32885,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -34025,7 +32908,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -34116,7 +32998,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   73
 
     *   /
@@ -34140,7 +33021,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -34164,7 +33044,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -34188,7 +33067,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -34212,7 +33090,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -34252,7 +33129,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -34276,7 +33152,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -34300,7 +33175,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -34324,7 +33198,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -34348,7 +33221,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -34372,7 +33244,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -34463,7 +33334,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -34486,7 +33356,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -34509,7 +33378,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -34560,8 +33428,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
 
 *    *
-    *   Offenburg,
-        **Außenstelle Achern**
+    *   **Offenburg, Außenstelle Achern**
 
     *
     *
@@ -34588,7 +33455,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -34611,7 +33477,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -34634,7 +33499,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -34697,7 +33561,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -34720,7 +33583,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -34743,7 +33605,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -34831,7 +33692,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   63
 
     *   /
@@ -34854,7 +33714,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -34892,7 +33751,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -34915,7 +33773,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -34938,7 +33795,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -34961,7 +33817,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -34984,7 +33839,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   81
 
     *   /
@@ -35007,7 +33861,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   37
 
     *   /
@@ -35030,7 +33883,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   42
 
     *   /
@@ -35053,7 +33905,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -35216,7 +34067,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -35239,7 +34089,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   50
 
     *   /
@@ -35262,7 +34111,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -35285,7 +34133,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -35308,7 +34155,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -35331,7 +34177,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   42
 
     *   /
@@ -35354,7 +34199,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -35417,7 +34261,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   33
 
     *   /
@@ -35480,7 +34323,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -35503,7 +34345,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -35548,7 +34389,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   73
 
     *   /
@@ -35571,7 +34411,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   59
 
     *   /
@@ -35594,7 +34433,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -35603,6 +34441,44 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1937
 
+
+
+
+*    *   Musterstück
+        Nr.
+
+    *   **Land**
+        **Finanzamt**
+        Gemarkung
+
+    *   Flur
+
+    *   Flurstück
+
+    *   Klasse
+
+    *   Wert-
+        zahlen
+
+    *   Jahr der Schätzung
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+
+*    *
 
 *    *   2810.51
 
@@ -35682,7 +34558,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -35705,7 +34580,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   64
 
     *   /
@@ -35728,7 +34602,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   53
 
     *   /
@@ -35743,7 +34616,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Lörrach
 
     *
-    *   2908/1
+    *   2858
 
     *   L
 
@@ -35751,7 +34624,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   49
 
     *   /
@@ -35774,7 +34646,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -35797,7 +34668,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -35820,7 +34690,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   71
 
     *   /
@@ -35843,7 +34712,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -36006,7 +34874,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -36029,7 +34896,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -36052,7 +34918,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   36
 
     *   /
@@ -36075,7 +34940,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   46
 
     *   /
@@ -36098,7 +34962,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -36121,7 +34984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -36144,7 +35006,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -36208,7 +35069,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -36231,7 +35091,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -36494,7 +35353,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -36517,7 +35375,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   22
 
     *   /
@@ -36540,7 +35397,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   47
 
     *   /
@@ -36563,7 +35419,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -36586,7 +35441,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -36609,7 +35463,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -36632,7 +35485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -36746,7 +35598,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -36769,7 +35620,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -36792,7 +35642,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -36815,7 +35664,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
@@ -36838,7 +35686,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   61
 
     *   /
@@ -36861,7 +35708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   67
 
     *   /
@@ -36876,7 +35722,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Rötenberg
 
     *
-    *   476
+    *   477
 
     *   T
 
@@ -36950,7 +35796,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -36988,7 +35833,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -37011,7 +35855,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   69
 
     *   /
@@ -37034,7 +35877,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   56
 
     *   /
@@ -37057,7 +35899,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -37080,7 +35921,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -37103,7 +35943,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -37126,7 +35965,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   80
 
     *   /
@@ -37149,7 +35987,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -37172,7 +36009,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -37195,7 +36031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -37358,7 +36193,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -37381,7 +36215,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -37404,7 +36237,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -37427,7 +36259,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -37450,7 +36281,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   72
 
     *   /
@@ -37473,7 +36303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -37561,7 +36390,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -37576,7 +36404,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Dangstetten
 
     *
-    *   1085
+    *   1090
 
     *   SL
 
@@ -37584,7 +36412,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   46
 
     *   /
@@ -37607,7 +36434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -37630,7 +36456,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   29
 
     *   /
@@ -37653,7 +36478,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -37791,7 +36615,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   76
 
     *   /
@@ -37814,7 +36637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -37837,7 +36659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -37860,7 +36681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   20
 
     *   /
@@ -37883,7 +36703,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -37906,7 +36725,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -38069,7 +36887,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -38092,7 +36909,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -38107,7 +36923,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Rietheim
 
     *
-    *   117
+    *   116
 
     *   LT
 
@@ -38115,7 +36931,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   69
 
     *   /
@@ -38138,7 +36953,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   78
 
     *   /
@@ -38161,7 +36975,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -38184,7 +36997,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -38207,7 +37019,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -38230,7 +37041,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -38419,7 +37229,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -38442,7 +37251,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -38465,7 +37273,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -38488,7 +37295,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -38551,7 +37357,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -38574,7 +37379,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -38597,7 +37401,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -38620,7 +37423,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -38643,7 +37445,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -38731,7 +37532,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -38769,7 +37569,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   63
 
     *   /
@@ -38792,7 +37591,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -38880,7 +37678,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   52
 
     *   /
@@ -38927,35 +37724,12 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   2834.01
-
-    *   Friedrichstal
-
-    *
-    *   591
-
-    *   Sl
-
-    *   4
-
-    *   Dg
-
-    *
-    *   30
-
-    *   /
-
-    *   35
-
-    *   1935
-
-
 *    *   2834.02
 
     *   Durlach (Stupferich)
 
     *
-    *   92424
+    *   64279, 64280
 
     *   L
 
@@ -38963,7 +37737,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   52
 
     *   /
@@ -38986,7 +37759,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   52
 
     *   /
@@ -39009,7 +37781,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -39032,7 +37803,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -39047,7 +37817,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Jöhlingen
 
     *
-    *   986
+    *   1029
 
     *   SL
 
@@ -39055,7 +37825,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -39078,7 +37847,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -39101,7 +37869,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -39124,7 +37891,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -39147,7 +37913,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -39186,7 +37951,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -39209,7 +37973,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   48
 
     *   /
@@ -39224,7 +37987,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Schwarzach
 
     *
-    *   4501/3
+    *   4500
 
     *   sL
 
@@ -39232,7 +37995,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -39255,7 +38017,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -39318,7 +38079,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -39356,7 +38116,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   80
 
     *   /
@@ -39379,7 +38138,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   53
 
     *   /
@@ -39402,7 +38160,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   0
 
     *   /
@@ -39425,7 +38182,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -39448,7 +38204,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -39471,7 +38226,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -39494,7 +38248,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -39517,7 +38270,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -39605,7 +38357,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -39628,7 +38379,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   68
 
     *   /
@@ -39651,35 +38401,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
 
     *   34
-
-    *   1935
-
-
-*    *   2840.06
-
-    *   Strümpfelbrunn
-
-    *
-    *   481
-
-    *   SL
-
-    *   5
-
-    *   Vg
-
-    *
-    *   36
-
-    *   /
-
-    *   30
 
     *   1935
 
@@ -39697,7 +38423,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -39760,7 +38485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -39783,7 +38507,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -39838,7 +38561,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Baiersbronn
 
     *
-    *   136
+    *   138/1
 
     *   lS
 
@@ -39936,7 +38659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -39959,7 +38681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -39982,7 +38703,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -40045,7 +38765,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -40068,7 +38787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -40091,7 +38809,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -40114,7 +38831,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -40152,7 +38868,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -40175,7 +38890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -40198,7 +38912,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -40221,7 +38934,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -40244,7 +38956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -40267,7 +38978,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -40290,7 +39000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -40313,7 +39022,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -40336,7 +39044,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -40359,7 +39066,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -40382,7 +39088,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   63
 
     *   /
@@ -40488,7 +39193,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Eberstadt
 
     *
-    *   9062
+    *   9061
 
     *   L
 
@@ -40496,7 +39201,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -40511,7 +39215,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Glashofen
 
     *
-    *   547 b
+    *   547/2
 
     *   L
 
@@ -40519,7 +39223,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   46
 
     *   /
@@ -40534,7 +39237,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Scheidental
 
     *
-    *   2146
+    *   2145
 
     *   sL
 
@@ -40542,7 +39245,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -40557,7 +39259,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Scheidental
 
     *
-    *   2227
+    *   2230
 
     *   sL
 
@@ -40565,7 +39267,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -40588,7 +39289,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -40611,7 +39311,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -40634,7 +39333,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   67
 
     *   /
@@ -40697,7 +39395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -40720,7 +39417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -40743,7 +39439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -40766,7 +39461,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   46
 
     *   /
@@ -40789,7 +39483,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -40814,35 +39507,12 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   2848.01
-
-    *   Knittlingen
-
-    *
-    *   11028 Nord
-
-    *   L
-
-    *   1
-
-    *   Lö
-
-    *
-    *   100
-
-    *   /
-
-    *   110
-
-    *   1938
-
-
 *    *   2848.02
 
     *   Knittlingen
 
     *
-    *   11028 Süd
+    *   11028 (Süd)
 
     *   L
 
@@ -40850,7 +39520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -40873,7 +39542,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -40896,7 +39564,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -40919,7 +39586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -40942,7 +39608,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -40965,7 +39630,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -40988,7 +39652,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -41076,7 +39739,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -41099,7 +39761,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -41123,7 +39784,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   43
 
     *   /
@@ -41146,7 +39806,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -41169,7 +39828,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -41192,7 +39850,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   75
 
     *   /
@@ -41215,7 +39872,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   20
 
     *   /
@@ -41238,7 +39894,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -41261,7 +39916,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   22
 
     *   /
@@ -41285,7 +39939,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -41308,7 +39961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -41332,7 +39984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   25
 
     *   /
@@ -41356,7 +40007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -41379,7 +40029,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -41402,7 +40051,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -41594,7 +40242,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -41659,7 +40306,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   52
 
     *   /
@@ -41683,7 +40329,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -41707,7 +40352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -41730,7 +40374,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -41754,7 +40397,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -41792,7 +40434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -41815,7 +40456,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -41928,7 +40568,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   40
 
     *   /
@@ -41952,7 +40591,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -41976,7 +40614,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -41999,7 +40636,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   74
 
     *   /
@@ -42014,7 +40650,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Warthausen
 
     *
-    *   996
+    *   434
 
     *   L
 
@@ -42022,7 +40658,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -42136,7 +40771,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -42159,7 +40793,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -42222,7 +40855,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -42245,7 +40877,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -42268,7 +40899,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -42291,7 +40921,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -42336,7 +40965,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -42359,7 +40987,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -42382,7 +41009,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -42405,7 +41031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -42494,7 +41119,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   66
 
     *   /
@@ -42517,7 +41141,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -42540,7 +41163,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   30
 
     *   /
@@ -42564,7 +41186,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -42588,36 +41209,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
 
     *   34
-
-    *   1935
-
-
-*    *   2857.07
-
-    *   Roßfeld
-
-    *   0
-
-    *   332
-
-    *   T
-
-    *   7
-
-    *   V
-
-    *
-    *   20
-
-    *   /
-
-    *   17
 
     *   1935
 
@@ -42636,7 +41232,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -42697,32 +41292,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1935
 
 
-*    *   2857.53
-
-    *   Roßfeld
-
-    *   0
-
-    *   295
-
-    *   T
-
-    *   III
-
-    *
-    *   b
-
-    *   2
-
-    *   38
-
-    *   /
-
-    *   38
-
-    *   1935
-
-
 *    *   2857.54
 
     *   Stimpfach
@@ -42777,7 +41346,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   36
 
     *   /
@@ -42800,7 +41368,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   71
 
     *   /
@@ -42823,7 +41390,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -42846,7 +41412,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   55
 
     *   /
@@ -42869,7 +41434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   89
 
     *   /
@@ -42892,7 +41456,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   53
 
     *   /
@@ -42916,7 +41479,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   53
 
     *   /
@@ -43004,7 +41566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -43118,7 +41679,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -43156,7 +41716,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -43220,7 +41779,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   56
 
     *   /
@@ -43244,7 +41802,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   41
 
     *   /
@@ -43268,7 +41825,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   51
 
     *   /
@@ -43292,7 +41848,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   44
 
     *   /
@@ -43356,7 +41911,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -43379,7 +41933,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -43402,7 +41955,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -43425,7 +41977,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -43440,7 +41991,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Weinsberg
 
     *
-    *   1161/7
+    *   1161
 
     *   T
 
@@ -43448,35 +41999,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
 
     *   40
-
-    *   1935
-
-
-*    *   2865.07
-
-    *   Weinsberg
-
-    *
-    *   1461
-
-    *   T
-
-    *   5
-
-    *   V
-
-    *
-    *   38
-
-    *   /
-
-    *   42
 
     *   1935
 
@@ -43494,7 +42021,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   48
 
     *   /
@@ -43517,7 +42043,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -43540,7 +42065,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -43563,7 +42087,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -43586,7 +42109,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   44
 
     *   /
@@ -43609,7 +42131,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -43725,7 +42246,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   63
 
     *   /
@@ -43813,7 +42333,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   66
 
     *   /
@@ -43853,7 +42372,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   74
 
     *   /
@@ -43877,7 +42395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -43940,7 +42457,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -44003,7 +42519,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   59
 
     *   /
@@ -44026,7 +42541,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -44049,7 +42563,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -44096,7 +42609,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -44236,7 +42748,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   43
 
     *   /
@@ -44252,7 +42763,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   195
+    *   193
 
     *   L
 
@@ -44260,7 +42771,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -44283,7 +42793,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -44306,7 +42815,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   45
 
     *   /
@@ -44329,7 +42837,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -44353,7 +42860,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   46
 
     *   /
@@ -44467,7 +42973,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -44490,7 +42995,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   74
 
     *   /
@@ -44554,7 +43058,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -44592,7 +43095,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   82
 
     *   /
@@ -44615,7 +43117,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -44638,7 +43139,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -44661,7 +43161,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   44
 
     *   /
@@ -44684,7 +43183,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -44707,7 +43205,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   22
 
     *   /
@@ -44796,7 +43293,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   52
 
     *   /
@@ -44835,7 +43331,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   28
 
     *   /
@@ -44859,7 +43354,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -44883,7 +43377,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -44948,7 +43441,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   28
 
     *   /
@@ -44964,7 +43456,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   120
+    *   119
 
     *   Sl
 
@@ -44972,7 +43464,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -44996,7 +43487,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -45020,7 +43510,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -45044,7 +43533,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -45068,7 +43556,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -45092,7 +43579,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -45134,7 +43620,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   232/1
+    *   232/7
 
     *   lS
 
@@ -45182,7 +43668,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -45205,7 +43690,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -45228,7 +43712,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   36
 
     *   /
@@ -45243,7 +43726,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Glashütte
 
     *
-    *   1795
+    *   1324
 
     *   LT
 
@@ -45251,7 +43734,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -45266,7 +43748,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Glashütte
 
     *
-    *   1746
+    *   1371/2
 
     *   LT
 
@@ -45274,7 +43756,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -45297,7 +43778,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -45342,7 +43822,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -45430,7 +43909,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -45475,7 +43953,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   71
 
     *   /
@@ -45498,7 +43975,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   67
 
     *   /
@@ -45521,7 +43997,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -45544,7 +44019,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -45567,7 +44041,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   62
 
     *   /
@@ -45630,7 +44103,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -45653,7 +44125,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -45676,7 +44147,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -45790,7 +44260,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -45813,7 +44282,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   73
 
     *   /
@@ -45874,7 +44342,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Langenau
 
     *
-    *   7429
+    *   7429/1
 
     *   Mo
 
@@ -45947,7 +44415,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   69
 
     *   /
@@ -45970,35 +44437,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   66
 
     *   /
 
     *   45
-
-    *   1936
-
-
-*    *   2889.03
-
-    *   Donnstetten
-
-    *
-    *   7232
-
-    *   LT
-
-    *   5
-
-    *   V
-
-    *
-    *   46
-
-    *   /
-
-    *   31
 
     *   1936
 
@@ -46016,7 +44459,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -46039,8 +44481,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
-    *
     *   45
 
     *   /
@@ -46055,7 +44495,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Eglingen
 
     *
-    *   1465
+    *   902
 
     *   SL
 
@@ -46063,7 +44503,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -46086,7 +44525,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -46109,7 +44547,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -46197,7 +44634,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   89
 
     *   /
@@ -46220,7 +44656,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
@@ -46243,7 +44678,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -46590,7 +45024,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   51
 
     *   /
@@ -46614,7 +45047,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   48
 
     *   /
@@ -46653,7 +45085,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -46677,7 +45108,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   47
 
     *   /
@@ -46724,7 +45154,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   37
 
     *   /
@@ -46748,7 +45177,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   27
 
     *   /
@@ -46772,7 +45200,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -46796,7 +45223,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   26
 
     *   /
@@ -46820,7 +45246,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -46844,7 +45269,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -46868,7 +45292,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -47114,7 +45537,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   33
 
     *   /
@@ -47138,7 +45560,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -47162,7 +45583,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -47186,7 +45606,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -47210,7 +45629,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -47234,7 +45652,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -47258,7 +45675,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   30
 
     *   /
@@ -47304,7 +45720,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   16
 
     *   /
@@ -47328,7 +45743,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -47470,7 +45884,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -47494,7 +45907,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -47518,7 +45930,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -47542,7 +45953,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   33
 
     *   /
@@ -47566,7 +45976,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -47590,7 +45999,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   28
 
     *   /
@@ -47614,7 +46022,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -47661,7 +46068,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -47685,7 +46091,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -47924,7 +46329,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -47948,7 +46352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -47972,7 +46375,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -47996,7 +46398,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -48020,7 +46421,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   44
 
     *   /
@@ -48044,7 +46444,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   37
 
     *   /
@@ -48068,7 +46467,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -48092,7 +46490,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   42
 
     *   /
@@ -48116,7 +46513,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -48140,7 +46536,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -48164,7 +46559,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   26
 
     *   /
@@ -48188,7 +46582,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -48212,7 +46605,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -48236,7 +46628,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -48327,7 +46718,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   23
 
     *   /
@@ -48351,7 +46741,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -48375,7 +46764,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -48399,7 +46787,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -48423,7 +46810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -48447,7 +46833,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   35
 
     *   /
@@ -48471,7 +46856,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -48495,7 +46879,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -48519,7 +46902,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -48543,7 +46925,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -48567,7 +46948,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -48591,7 +46971,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   28
 
     *   /
@@ -48615,7 +46994,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -48639,7 +47017,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -48663,7 +47040,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -48687,7 +47063,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -48711,7 +47086,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   21
 
     *   /
@@ -48735,7 +47109,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -48759,7 +47132,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -48783,7 +47155,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -49028,7 +47399,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -49052,7 +47422,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -49076,7 +47445,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -49100,7 +47468,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   29
 
     *   /
@@ -49124,7 +47491,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -49148,7 +47514,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -49343,7 +47708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   10
 
     *   /
@@ -49367,7 +47731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -49391,7 +47754,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -49437,7 +47799,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -49461,7 +47822,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   56
 
     *   /
@@ -49485,7 +47845,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -49509,7 +47868,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -49533,7 +47891,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -49646,7 +48003,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   16
 
     *   /
@@ -49670,7 +48026,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   25
 
     *   /
@@ -49694,7 +48049,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -49718,7 +48072,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -49742,7 +48095,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -49762,8 +48114,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   S
 
-    *   6
-
+    *
     *   N87
 
     *   14
@@ -49789,7 +48140,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   33
 
     *   /
@@ -49812,7 +48162,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Al
 
-    *
     *   25
 
     *   /
@@ -49950,7 +48299,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -49974,7 +48322,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   45
 
     *   /
@@ -49998,7 +48345,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   28
 
     *   /
@@ -50022,7 +48368,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -50046,7 +48391,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -50070,7 +48414,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -50094,7 +48437,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -50118,7 +48460,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   42
 
     *   /
@@ -50142,7 +48483,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -50259,7 +48599,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   45
 
     *   /
@@ -50283,7 +48622,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -50307,7 +48645,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -50331,7 +48668,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -50355,7 +48691,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -50379,7 +48714,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -50470,7 +48804,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -50494,7 +48827,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   42
 
     *   /
@@ -50518,7 +48850,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -50542,7 +48873,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -50566,7 +48896,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -50590,7 +48919,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -50614,7 +48942,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   69
 
     *   /
@@ -50638,7 +48965,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -50662,7 +48988,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -50686,7 +49011,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -50710,7 +49034,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   70
 
     *   /
@@ -50734,7 +49057,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -50758,7 +49080,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -50782,7 +49103,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -50806,7 +49126,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -50830,7 +49149,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -50854,7 +49172,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -50878,7 +49195,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -50902,7 +49218,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -51045,7 +49360,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -51069,7 +49383,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -51093,7 +49406,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -51117,7 +49429,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   26
 
     *   /
@@ -51141,7 +49452,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -51282,7 +49592,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -51306,7 +49615,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -51330,7 +49638,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -51354,7 +49661,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -51378,7 +49684,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -51402,7 +49707,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -51425,7 +49729,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Al
 
-    *
     *   36
 
     *   /
@@ -51449,7 +49752,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   43
 
     *   /
@@ -51473,7 +49775,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -51497,7 +49798,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   51
 
     *   /
@@ -51521,7 +49821,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -51545,7 +49844,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -51569,7 +49867,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   45
 
     *   /
@@ -51593,7 +49890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -51617,7 +49913,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -51641,7 +49936,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -51665,7 +49959,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -51689,7 +49982,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -51713,7 +50005,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -51737,7 +50028,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -51761,7 +50051,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -51785,7 +50074,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -51809,7 +50097,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -51833,7 +50120,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -52000,7 +50286,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -52024,7 +50309,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -52048,7 +50332,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -52072,7 +50355,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -52096,7 +50378,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -52120,7 +50401,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -52174,7 +50454,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -52198,7 +50477,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -52222,7 +50500,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   95
 
     *   /
@@ -52246,7 +50523,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AL
 
-    *
     *   70
 
     *   /
@@ -52270,7 +50546,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   98
 
     *   /
@@ -52294,7 +50569,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -52318,7 +50592,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -52357,7 +50630,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -52381,7 +50653,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -52405,7 +50676,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -52429,7 +50699,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -52453,7 +50722,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   29
 
     *   /
@@ -52477,7 +50745,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -52501,7 +50768,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -52525,7 +50791,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   47
 
     *   /
@@ -52549,7 +50814,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -52573,7 +50837,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   74
 
     *   /
@@ -52597,7 +50860,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -52621,7 +50883,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   76
 
     *   /
@@ -52711,7 +50972,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -52735,7 +50995,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -52759,7 +51018,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   27
 
     *   /
@@ -52783,7 +51041,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   38
 
     *   /
@@ -52807,7 +51064,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -52831,7 +51087,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -52855,7 +51110,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   27
 
     *   /
@@ -52879,7 +51133,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -52903,7 +51156,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   42
 
     *   /
@@ -52927,7 +51179,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   83
 
     *   /
@@ -52951,7 +51202,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   98
 
     *   /
@@ -52975,7 +51225,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -52999,7 +51248,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -53023,7 +51271,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -53047,7 +51294,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -53071,7 +51317,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -53136,7 +51381,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -53183,7 +51427,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -53207,7 +51450,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -53231,7 +51473,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   69
 
     *   /
@@ -53255,7 +51496,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -53302,7 +51542,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -53349,7 +51588,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   58
 
     *   /
@@ -53373,7 +51611,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -53397,7 +51634,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -53513,7 +51749,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -53537,7 +51772,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -53561,7 +51795,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -53585,7 +51818,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   95
 
     *   /
@@ -53609,7 +51841,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -53633,7 +51864,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -53657,7 +51887,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -53681,7 +51910,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   86
 
     *   /
@@ -53728,7 +51956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -53752,7 +51979,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   85
 
     *   /
@@ -53791,7 +52017,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -53815,7 +52040,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   87
 
     *   /
@@ -53839,7 +52063,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   73
 
     *   /
@@ -53863,7 +52086,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   74
 
     *   /
@@ -53887,7 +52109,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -53911,7 +52132,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -53935,7 +52155,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -53959,7 +52178,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   70
 
     *   /
@@ -53983,7 +52201,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -54007,7 +52224,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -54031,7 +52247,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   22
 
     *   /
@@ -54055,7 +52270,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -54079,7 +52293,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
@@ -54103,7 +52316,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -54127,7 +52339,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -54151,7 +52362,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   73
 
     *   /
@@ -54175,7 +52385,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -54199,7 +52408,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   63
 
     *   /
@@ -54223,7 +52431,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -54247,7 +52454,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -54271,7 +52477,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -54295,7 +52500,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -54319,7 +52523,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -54564,7 +52767,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   **Halle (Saale)-Nord**
+    *   **Halle (Saale)**
 
     *
     *
@@ -54592,7 +52795,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -54616,7 +52818,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -54640,7 +52841,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -54664,7 +52864,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   59
 
     *   /
@@ -54688,7 +52887,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   89
 
     *   /
@@ -54712,7 +52910,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
@@ -54736,7 +52933,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   97
 
     *   /
@@ -54760,7 +52956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -54784,7 +52979,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   70
 
     *   /
@@ -54808,7 +53002,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -54847,7 +53040,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   89
 
     *   /
@@ -54871,7 +53063,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   73
 
     *   /
@@ -54895,7 +53086,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -54919,7 +53109,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   94
 
     *   /
@@ -54943,7 +53132,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -54967,7 +53155,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -54991,7 +53178,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   92
 
     *   /
@@ -55015,7 +53201,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -55061,7 +53246,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   94
 
     *   /
@@ -55118,357 +53302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   **Bitterfeld-Wolfen**
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   3113.02
-
-    *   Rösa
-
-    *   9
-
-    *   216
-
-    *   sL
-
-    *   5
-
-    *   Al
-
-    *
-    *   49
-
-    *   /
-
-    *   52
-
-    *   1934
-
-
-*    *   3113.03
-
-    *   Rösa
-
-    *   9
-
-    *   159/2
-
-    *   L
-
-    *   4
-
-    *   Al
-
-    *
-    *   70
-
-    *   /
-
-    *   74
-
-    *   1934
-
-
-*    *   3113.04
-
-    *   Bobbau
-
-    *   6
-
-    *   10
-
-    *   lS
-
-    *   4
-
-    *   D
-
-    *
-    *   40
-
-    *   /
-
-    *   38
-
-    *   1934
-
-
-*    *   3113.05
-
-    *   Stumsdorf
-
-    *   2
-
-    *   23/6
-
-    *   L
-
-    *   3
-
-    *   Lö
-
-    *
-    *   75
-
-    *   /
-
-    *   78
-
-    *   1934
-
-
-*    *   3113.06
-
-    *   Tornau v. d. Heide
-
-    *   1
-
-    *   50
-
-    *   S
-
-    *   3
-
-    *   D
-
-    *
-    *   28
-
-    *   /
-
-    *   26
-
-    *   1934
-
-
-*    *   3113.07
-
-    *   Nelben
-
-    *   4
-
-    *   178/16, 189/17
-
-    *   sL
-
-    *   4
-
-    *   Lö
-
-    *
-    *   64
-
-    *   /
-
-    *   60
-
-    *   1938
-
-
-*    *   3113.08
-
-    *   Nelben
-
-    *   3
-
-    *   206/15
-
-    *   L
-
-    *   1
-
-    *   Al
-
-    *
-    *   97
-
-    *   /
-
-    *   95
-
-    *   1938
-
-
-*    *   3113.09
-
-    *   Osternienburg
-
-    *   1
-
-    *   268
-
-    *   LT
-
-    *   3
-
-    *   Al
-
-    *
-    *   73
-
-    *   /
-
-    *   73
-
-    *   1938
-
-
-*    *   3113.10
-
-    *   Peißen
-
-    *   4
-
-    *   104
-
-    *   LT
-
-    *   3
-
-    *   Al
-
-    *
-    *   65
-
-    *   /
-
-    *   64
-
-    *   1938
-
-
-*    *   3113.11
-
-    *   Weißandt-Gölzau
-
-    *   3
-
-    *   4
-
-    *   L
-
-    *   3
-
-    *   LöD
-
-    *   77
-
-    *   /
-
-    *   79
-
-    *   1938
-
-
-*    *   3113.12
-
-    *   Wülknitz
-
-    *   4
-
-    *   37/7
-
-    *   L
-
-    *   1
-
-    *   Lö
-
-    *
-    *   100
-
-    *   /
-
-    *   104
-
-    *   1938
-
-
-*    *   3113.13
-
-    *   Wedlitz
-
-    *   3
-
-    *   99
-
-    *   sL
-
-    *   1
-
-    *   LöD
-
-    *   85
-
-    *   /
-
-    *   87
-
-    *   1996
-
-
-*    *   3113.14
-
-    *   Aken
-
-    *   24
-
-    *   492/264
-
-    *   S
-
-    *   4
-
-    *   Al
-
-    *
-    *   28
-
-    *   /
-
-    *   26
-
-    *   1996
-
-
-*    *   3113.51
-
-    *   Bobbau
-
-    *   5
-
-    *   65, 66
-
-    *   Mo
-
-    *   II
-
-    *
-    *   a
-
-    *   2
-
-    *   43
-
-    *   /
-
-    *   43
-
-    *   1996
-
-
-*    *
     *   **Dessau-Roßlau**
 
     *
@@ -55497,7 +53330,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   82
 
     *   /
@@ -55521,7 +53353,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -55545,7 +53376,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -55569,7 +53399,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   69
 
     *   /
@@ -55593,7 +53422,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   34
 
     *   /
@@ -55617,7 +53445,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -55733,7 +53560,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -55757,7 +53583,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -55781,7 +53606,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -55804,7 +53628,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   D
 
-    *
     *   36
 
     *   /
@@ -55841,6 +53664,346 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
+    *   **Bitterfeld-Wolfen**
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3116.02
+
+    *   Rösa
+
+    *   9
+
+    *   216
+
+    *   sL
+
+    *   5
+
+    *   Al
+
+    *   49
+
+    *   /
+
+    *   52
+
+    *   1934
+
+
+*    *   3116.03
+
+    *   Rösa
+
+    *   9
+
+    *   159/2
+
+    *   L
+
+    *   4
+
+    *   Al
+
+    *   70
+
+    *   /
+
+    *   74
+
+    *   1934
+
+
+*    *   3116.04
+
+    *   Bobbau
+
+    *   6
+
+    *   10
+
+    *   lS
+
+    *   4
+
+    *   D
+
+    *   40
+
+    *   /
+
+    *   38
+
+    *   1934
+
+
+*    *   3116.05
+
+    *   Stumsdorf
+
+    *   2
+
+    *   23/6
+
+    *   L
+
+    *   3
+
+    *   Lö
+
+    *   75
+
+    *   /
+
+    *   78
+
+    *   1934
+
+
+*    *   3116.06
+
+    *   Tornau v. d. Heide
+
+    *   1
+
+    *   50
+
+    *   S
+
+    *   3
+
+    *   D
+
+    *   28
+
+    *   /
+
+    *   26
+
+    *   1934
+
+
+*    *   3116.07
+
+    *   Nelben
+
+    *   4
+
+    *   178/16, 189/17
+
+    *   sL
+
+    *   4
+
+    *   Lö
+
+    *   64
+
+    *   /
+
+    *   60
+
+    *   1938
+
+
+*    *   3116.08
+
+    *   Nelben
+
+    *   3
+
+    *   206/15
+
+    *   L
+
+    *   1
+
+    *   Al
+
+    *   97
+
+    *   /
+
+    *   95
+
+    *   1938
+
+
+*    *   3116.09
+
+    *   Osternienburg
+
+    *   1
+
+    *   268
+
+    *   LT
+
+    *   3
+
+    *   Al
+
+    *   73
+
+    *   /
+
+    *   73
+
+    *   1938
+
+
+*    *   3116.10
+
+    *   Peißen
+
+    *   4
+
+    *   104
+
+    *   LT
+
+    *   3
+
+    *   Al
+
+    *   65
+
+    *   /
+
+    *   64
+
+    *   1938
+
+
+*    *   3116.11
+
+    *   Weißandt-Gölzau
+
+    *   3
+
+    *   4
+
+    *   L
+
+    *   3
+
+    *   LöD
+
+    *   77
+
+    *   /
+
+    *   79
+
+    *   1938
+
+
+*    *   3116.12
+
+    *   Wülknitz
+
+    *   4
+
+    *   37/7
+
+    *   L
+
+    *   1
+
+    *   Lö
+
+    *   100
+
+    *   /
+
+    *   104
+
+    *   1938
+
+
+*    *   3116.13
+
+    *   Wedlitz
+
+    *   3
+
+    *   99
+
+    *   sL
+
+    *   1
+
+    *   LöD
+
+    *   85
+
+    *   /
+
+    *   87
+
+    *   1996
+
+
+*    *   3116.14
+
+    *   Aken
+
+    *   24
+
+    *   492/264
+
+    *   S
+
+    *   4
+
+    *   Al
+
+    *   28
+
+    *   /
+
+    *   26
+
+    *   1996
+
+
+*    *   3116.51
+
+    *   Bobbau
+
+    *   5
+
+    *   65, 66
+
+    *   Mo
+
+    *   II
+
+    *
+    *   a
+
+    *   2
+
+    *   43
+
+    *   /
+
+    *   43
+
+    *   1996
+
+
+*    *
     *   **Quedlinburg**
 
     *
@@ -55869,7 +54032,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -55893,7 +54055,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   89
 
     *   /
@@ -55917,7 +54078,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -55941,7 +54101,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   54
 
     *   /
@@ -55965,7 +54124,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   43
 
     *   /
@@ -55989,7 +54147,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -56013,7 +54170,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   82
 
     *   /
@@ -56037,7 +54193,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   69
 
     *   /
@@ -56061,7 +54216,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -56085,7 +54239,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -56109,7 +54262,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   21
 
     *   /
@@ -56133,7 +54285,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -56157,7 +54308,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -56181,7 +54331,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -56205,7 +54354,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -56229,7 +54377,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -56299,7 +54446,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -56323,7 +54469,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   41
 
     *   /
@@ -56347,7 +54492,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -56371,7 +54515,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   66
 
     *   /
@@ -56395,7 +54538,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   93
 
     *   /
@@ -56589,7 +54731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -56613,7 +54754,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -56637,7 +54777,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -56661,7 +54800,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -56685,7 +54823,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   75
 
     *   /
@@ -56709,7 +54846,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -56756,7 +54892,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -56780,7 +54915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -56804,7 +54938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -56828,7 +54961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   71
 
     *   /
@@ -56852,7 +54984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   64
 
     *   /
@@ -56876,7 +55007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -56900,7 +55030,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -56924,7 +55053,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   63
 
     *   /
@@ -56948,7 +55076,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -57013,7 +55140,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -57037,7 +55163,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   61
 
     *   /
@@ -57061,7 +55186,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   90
 
     *   /
@@ -57085,7 +55209,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -57109,7 +55232,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   92
 
     *   /
@@ -57133,7 +55255,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -57157,7 +55278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -57181,7 +55301,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   63
 
     *   /
@@ -57205,7 +55324,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -57229,7 +55347,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -57253,7 +55370,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -57276,7 +55392,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -57328,7 +55443,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
 
 *    *
-    *   **Dresden-Nord**
+    *   **Dresden Nord**
 
     *
     *
@@ -57347,7 +55462,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Kauscha
 
     *
-    *   65/3
+    *   65/12
 
     *   L
 
@@ -57355,7 +55470,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -57370,7 +55484,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Lockwitz
 
     *
-    *   734
+    *   739, 833
 
     *   L
 
@@ -57418,7 +55532,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -57441,7 +55554,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   40
 
     *   /
@@ -57464,7 +55576,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -57487,35 +55598,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
 
     *   18
-
-    *   1935
-
-
-*    *   3204.05
-
-    *   Oberkaina
-
-    *
-    *   101/2
-
-    *   Sl
-
-    *   5
-
-    *   V
-
-    *
-    *   26
-
-    *   /
-
-    *   27
 
     *   1935
 
@@ -57525,7 +55612,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Oberkaina
 
     *
-    *   101/2
+    *   101/7
 
     *   L
 
@@ -57533,7 +55620,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -57556,7 +55642,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -57579,7 +55664,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -57602,7 +55686,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -57625,7 +55708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   57
 
     *   /
@@ -57648,7 +55730,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -57671,7 +55752,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -57734,7 +55814,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   62
 
     *   /
@@ -57757,7 +55836,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -57780,7 +55858,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -57803,7 +55880,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -57826,7 +55902,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -57849,7 +55924,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   54
 
     *   /
@@ -57864,7 +55938,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Limbach
 
     *
-    *   198
+    *   198/2, 198/3
 
     *   L
 
@@ -57872,7 +55946,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -57895,7 +55968,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -57918,7 +55990,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -57941,7 +56012,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -58005,7 +56075,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -58029,7 +56098,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -58053,7 +56121,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -58077,7 +56144,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -58101,7 +56167,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -58125,7 +56190,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   43
 
     *   /
@@ -58149,7 +56213,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   43
 
     *   /
@@ -58173,7 +56236,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -58197,7 +56259,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -58243,7 +56304,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -58385,7 +56445,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -58408,7 +56467,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -58431,7 +56489,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -58454,7 +56511,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   26
 
     *   /
@@ -58477,7 +56533,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   61
 
     *   /
@@ -58500,7 +56555,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   42
 
     *   /
@@ -58523,7 +56577,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -58546,7 +56599,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -58584,7 +56636,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -58607,7 +56658,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   42
 
     *   /
@@ -58630,7 +56680,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   69
 
     *   /
@@ -58653,7 +56702,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -58720,7 +56768,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   79
 
     *   /
@@ -58743,7 +56790,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -58766,7 +56812,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -58789,7 +56834,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -58834,7 +56878,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   44
 
     *   /
@@ -58857,7 +56900,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -58880,7 +56922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -58903,7 +56944,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   16
 
     *   /
@@ -58983,7 +57023,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Altendorf
 
     *
-    *   199/1
+    *   199/3
 
     *   L
 
@@ -58991,7 +57031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -59014,7 +57053,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -59037,7 +57075,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -59060,7 +57097,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -59075,7 +57111,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Gersdorf
 
     *
-    *   234/2
+    *   234/11
 
     *   S
 
@@ -59083,7 +57119,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   15
 
     *   /
@@ -59106,7 +57141,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -59129,7 +57163,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -59152,7 +57185,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -59175,7 +57207,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -59190,7 +57221,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Niederseidewitz
 
     *
-    *   38
+    *   38/1
 
     *   L
 
@@ -59198,7 +57229,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -59248,30 +57278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
 
-*    *   3213.02
-
-    *   Burg
-
-    *   1
-
-    *   56
-
-    *   S
-
-    *   5
-
-    *   D
-
-    *
-    *   17
-
-    *   /
-
-    *   17
-
-    *   2005
-
-
 *    *   3213.05
 
     *   Litschen
@@ -59308,7 +57314,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -59332,7 +57337,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -59356,7 +57360,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -59379,7 +57382,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -59402,7 +57404,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -59425,7 +57426,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -59448,7 +57448,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -59471,7 +57470,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -59494,7 +57492,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -59561,7 +57558,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -59584,7 +57580,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   32
 
     *   /
@@ -59667,44 +57662,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   **Chemnitz-Süd**
-
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   3214.01
-
-    *   Altenhain
-
-    *
-    *   93/45
-
-    *   sL
-
-    *   4
-
-    *   V
-
-    *
-    *   53
-
-    *   /
-
-    *   43
-
-    *   1936
-
-
-*    *
     *   **Annaberg**
 
     *
@@ -59732,7 +57689,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   22
 
     *   /
@@ -59755,7 +57711,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -59778,7 +57733,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -59801,7 +57755,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -59839,7 +57792,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -59862,7 +57814,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -59885,7 +57836,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -59915,7 +57865,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Friedebach
 
     *
-    *   590
+    *   590/3
 
     *   lS
 
@@ -59923,7 +57873,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -59946,7 +57895,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -59969,7 +57917,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -59992,7 +57939,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -60015,7 +57961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -60030,7 +57975,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Sayda
 
     *
-    *   872/1
+    *   875/1
 
     *   L
 
@@ -60038,7 +57983,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   70
 
     *   /
@@ -60061,7 +58005,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -60084,7 +58027,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -60099,7 +58041,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Niederwiesa
 
     *
-    *   476
+    *   476/1
 
     *   sL
 
@@ -60107,7 +58049,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -60192,7 +58133,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   59
 
     *   /
@@ -60215,7 +58155,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   58
 
     *   /
@@ -60238,7 +58177,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   70
 
     *   /
@@ -60261,7 +58199,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -60284,7 +58221,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -60307,7 +58243,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -60345,7 +58280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -60360,7 +58294,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Greifendorf
 
     *
-    *   31/1
+    *   31/3
 
     *   L
 
@@ -60368,7 +58302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -60391,7 +58324,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   29
 
     *   /
@@ -60414,7 +58346,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -60437,7 +58368,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -60482,7 +58412,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   39
 
     *   /
@@ -60505,7 +58434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   54
 
     *   /
@@ -60520,7 +58448,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Etzdorf
 
     *
-    *   394/1
+    *   394/6
 
     *   L
 
@@ -60545,7 +58473,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Falkenau
 
     *
-    *   79
+    *   79/3
 
     *   L
 
@@ -60643,7 +58571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -60658,7 +58585,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Dehles
 
     *
-    *   24
+    *   24/1
 
     *   lS
 
@@ -60666,7 +58593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -60689,7 +58615,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -60712,7 +58637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -60735,7 +58659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -60758,7 +58681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -60781,7 +58703,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -60796,7 +58717,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Limbach
 
     *
-    *   473
+    *   473/3
 
     *   L
 
@@ -60804,7 +58725,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -60827,7 +58747,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
@@ -60850,7 +58769,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -60873,7 +58791,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -60888,7 +58805,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Bösenbrunn
 
     *
-    *   146
+    *   146/2
 
     *   L
 
@@ -60913,7 +58830,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Christgrün
 
     *
-    *   196/14
+    *   196/27
 
     *   T
 
@@ -60963,7 +58880,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Kürbitz
 
     *
-    *   988
+    *   989
 
     *   L
 
@@ -61088,7 +59005,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Limbach
 
     *
-    *   449/1
+    *   449/2
 
     *   L
 
@@ -61163,7 +59080,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Wetzelsgrün
 
     *
-    *   17
+    *   17/2
 
     *   L
 
@@ -61211,7 +59128,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -61234,7 +59150,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -61257,7 +59172,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -61320,7 +59234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -61343,7 +59256,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -61366,7 +59278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -61389,7 +59300,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   60
 
     *   /
@@ -61412,7 +59322,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -61435,7 +59344,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   55
 
     *   /
@@ -61458,7 +59366,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
@@ -61481,7 +59388,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -61504,7 +59410,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -61527,7 +59432,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -61590,7 +59494,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -61613,7 +59516,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -61636,7 +59538,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -61659,7 +59560,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -61797,7 +59697,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -61820,7 +59719,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -61850,7 +59748,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Borna
 
     *
-    *   2412/1
+    *   2412/5
 
     *   lS
 
@@ -61900,7 +59798,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -61923,7 +59820,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -61946,7 +59842,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   47
 
     *   /
@@ -61991,7 +59886,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   47
 
     *   /
@@ -62121,7 +60015,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   46
 
     *   /
@@ -62144,7 +60037,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   53
 
     *   /
@@ -62167,7 +60059,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -62190,7 +60081,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -62213,7 +60103,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   22
 
     *   /
@@ -62236,7 +60125,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   36
 
     *   /
@@ -62259,7 +60147,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
@@ -62282,7 +60169,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   56
 
     *   /
@@ -62297,7 +60183,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Möbertitz
 
     *
-    *   24
+    *   24/1
 
     *   L
 
@@ -62371,7 +60257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -62387,7 +60272,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   3/47
+    *   3/65
 
     *   L
 
@@ -62418,7 +60303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -62442,7 +60326,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -62466,7 +60349,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -62576,7 +60458,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -62591,7 +60472,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Bröhsen
 
     *
-    *   189/1
+    *   189/3
 
     *   sL
 
@@ -62599,7 +60480,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -62622,7 +60502,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -62689,7 +60568,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -62734,7 +60612,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   86
 
     *   /
@@ -62779,7 +60656,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -62802,7 +60678,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -62825,7 +60700,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   56
 
     *   /
@@ -62848,7 +60722,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -62871,7 +60744,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -62894,7 +60766,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -62917,7 +60788,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -62932,7 +60802,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Wednig
 
     *
-    *   102/1
+    *   102/4
 
     *   S
 
@@ -62940,7 +60810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -62963,7 +60832,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -62986,7 +60854,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -63122,7 +60989,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   64
 
     *   /
@@ -63168,7 +61034,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -63191,7 +61056,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -63214,7 +61078,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -63237,7 +61100,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -63261,7 +61123,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   88
 
     *   /
@@ -63285,7 +61146,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -63308,7 +61168,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -63332,7 +61191,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -63355,7 +61213,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -63379,7 +61236,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -63427,7 +61283,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *
     *
-    *
 
 *    *
     *   **Malchin**
@@ -63458,7 +61313,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -63482,7 +61336,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -63498,7 +61351,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   86/4
+    *   86/6
 
     *   lS
 
@@ -63506,7 +61359,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -63522,7 +61374,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   123
+    *   123/2
 
     *   L
 
@@ -63530,7 +61382,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -63554,7 +61405,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -63578,7 +61428,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -63602,7 +61451,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -63618,7 +61466,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   191
+    *   191/1
 
     *   sL
 
@@ -63626,7 +61474,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -63650,7 +61497,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -63666,7 +61512,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   4
 
-    *   38
+    *   37, 38
 
     *   L
 
@@ -63674,7 +61520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -63698,7 +61543,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -63714,7 +61558,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   3
+    *   198
 
     *   Sl
 
@@ -63722,7 +61566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -63746,7 +61589,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -63770,7 +61612,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -63794,7 +61635,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -63836,7 +61676,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   6
 
-    *   100
+    *   97
 
     *   MoS
 
@@ -64091,7 +61931,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -64115,7 +61954,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -64139,7 +61977,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -64163,7 +62000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -64187,7 +62023,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   81
 
     *   /
@@ -64211,7 +62046,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -64235,7 +62069,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -64259,7 +62092,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -64283,7 +62115,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -64392,7 +62223,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   102
+    *   102/1
 
     *   Sl
 
@@ -64400,7 +62231,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -64424,7 +62254,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   27
 
     *   /
@@ -64440,7 +62269,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   220
+    *   220/1
 
     *   lS
 
@@ -64448,7 +62277,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -64464,7 +62292,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   17
 
-    *   9
+    *   9/1
 
     *   S
 
@@ -64472,7 +62300,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   18
 
     *   /
@@ -64512,9 +62339,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Heinrichswalde
 
-    *   7
+    *   8
 
-    *   40
+    *   4
 
     *   Mo
 
@@ -64743,7 +62570,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -64767,7 +62593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -64783,7 +62608,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   12/13
+    *   12/16
 
     *   Sl
 
@@ -64791,7 +62616,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -64815,7 +62639,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -64839,7 +62662,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -64863,7 +62685,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -64887,7 +62708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -64911,7 +62731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -64925,9 +62744,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Neu Schloen
 
-    *   1
+    *   3
 
-    *   61, 62
+    *   82
 
     *   SL
 
@@ -64935,7 +62754,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -64959,7 +62777,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -64973,7 +62790,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Userin
 
-    *   1
+    *   3, 1
 
     *   8, 1
 
@@ -64983,7 +62800,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -65282,9 +63098,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lapitz
 
-    *   1
+    *   4
 
-    *   2/1
+    *   36
 
     *   lS
 
@@ -65410,7 +63226,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -65434,7 +63249,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -65446,11 +63260,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   4079.07
 
-    *   Satow
+    *   Satow-Oberhagen
 
     *   1
 
-    *   157
+    *   157/2
 
     *   SL
 
@@ -65458,7 +63272,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -65470,7 +63283,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   4079.08
 
-    *   Satow
+    *   Satow-Oberhagen
 
     *   1
 
@@ -65482,7 +63295,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -65539,7 +63351,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   26
+    *   26/10
 
     *   S
 
@@ -65547,7 +63359,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -65571,7 +63382,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -65595,7 +63405,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -65619,7 +63428,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -65643,7 +63451,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -65667,7 +63474,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -65691,7 +63497,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -65715,7 +63520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -65731,7 +63535,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   70
+    *   70/2
 
     *   sL
 
@@ -65739,7 +63543,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -65763,7 +63566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -65787,7 +63589,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -65811,7 +63612,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -66029,7 +63829,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -66045,7 +63844,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   20
+    *   20/2
 
     *   SL
 
@@ -66053,7 +63852,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -66077,7 +63875,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   15
 
     *   /
@@ -66101,7 +63898,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -66322,7 +64118,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -66346,7 +64141,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -66370,7 +64164,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -66394,7 +64187,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -66418,7 +64210,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -66442,7 +64233,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -66466,7 +64256,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -66478,11 +64267,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   4082.09
 
-    *   Güttin
+    *   Mölln
 
-    *   1
+    *   2
 
-    *   1/2
+    *   15
 
     *   sL
 
@@ -66490,7 +64279,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -66506,7 +64294,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   15/2
+    *   15/4
 
     *   lS
 
@@ -66514,7 +64302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -66538,7 +64325,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -66608,7 +64394,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   25
 
     *   /
@@ -66632,7 +64417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -66726,7 +64510,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   3/2
+    *   2, 3
 
     *   Mo
 
@@ -66804,7 +64588,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   166
+    *   166/9
 
     *   S
 
@@ -67140,9 +64924,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Groß Stubben
 
-    *   1
+    *   11
 
-    *   12
+    *   8
 
     *   Mo
 
@@ -67166,9 +64950,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Groß Stubben
 
-    *   1
+    *   11
 
-    *   11/4
+    *   8
 
     *   Mo
 
@@ -67192,9 +64976,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Groß Stubben
 
-    *   1
+    *   11
 
-    *   11/4
+    *   6
 
     *   lS
 
@@ -67243,7 +65027,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -67267,7 +65050,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -67291,7 +65073,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -67315,7 +65096,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -67339,7 +65119,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -67363,7 +65142,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -67387,7 +65165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -67411,7 +65188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -67435,7 +65211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -67459,7 +65234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -67475,7 +65249,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   4
 
-    *   7/5
+    *   15
 
     *   lS
 
@@ -67483,7 +65257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -67507,7 +65280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -67531,7 +65303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -67555,7 +65326,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -67571,7 +65341,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   171
+    *   173
 
     *   lS
 
@@ -67579,7 +65349,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -67603,7 +65372,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -67617,9 +65385,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Karnin
 
-    *   1
+    *   2
 
-    *   34, 35/2
+    *   81, 82
 
     *   L
 
@@ -67627,7 +65395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -67651,7 +65418,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   17
 
     *   /
@@ -67675,7 +65441,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -67922,7 +65687,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -67938,7 +65702,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   41/1
+    *   41/3
 
     *   Sl
 
@@ -67946,7 +65710,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -67970,7 +65733,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -68012,7 +65774,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   2
 
-    *   203
+    *   203/1
 
     *   Mo
 
@@ -68036,9 +65798,9 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Zehna
 
-    *   1
+    *   3
 
-    *   133
+    *   149
 
     *   L
 
@@ -68320,7 +66082,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -68344,7 +66105,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -68368,7 +66128,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -68392,7 +66151,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   16
 
     *   /
@@ -68416,7 +66174,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -68440,7 +66197,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   18
 
     *   /
@@ -68765,7 +66521,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   12
 
     *   /
@@ -68789,7 +66544,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -68813,7 +66567,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -68837,7 +66590,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -68861,7 +66613,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -68885,7 +66636,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -68909,7 +66659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -68933,7 +66682,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -68957,7 +66705,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -68981,7 +66728,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -69005,7 +66751,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -69029,7 +66774,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -69045,7 +66789,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   286/1
+    *   286/3
 
     *   Sl
 
@@ -69053,7 +66797,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -69069,7 +66812,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   286/1
+    *   286/3
 
     *   Sl
 
@@ -69077,7 +66820,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   24
 
     *   /
@@ -69171,7 +66913,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   473/2
+    *   473/29
 
     *   S
 
@@ -69197,7 +66939,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   473/2
+    *   473/29
 
     *   lS
 
@@ -69373,6 +67115,44 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1993
 
 
+
+
+*    *   Musterstück
+        Nr.
+
+    *   **Land**
+        **Finanzamt**
+        Gemarkung
+
+    *   Flur
+
+    *   Flurstück
+
+    *   Klasse
+
+    *   Wert-
+        zahlen
+
+    *   Jahr der Schätzung
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+
+*    *
+
 *    *
     *   **Thüringen**
 
@@ -69417,14 +67197,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   47
 
     *   /
 
     *   46
 
-    *   1998
+    *   1935
 
 
 *    *   4151.04
@@ -69441,14 +67220,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   66
 
     *   /
 
     *   66
 
-    *   1996
+    *   1935
 
 
 *    *   4151.06
@@ -69465,14 +67243,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   74
 
     *   /
 
     *   74
 
-    *   1996
+    *   1935
 
 
 *    *   4151.07
@@ -69489,14 +67266,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
 
     *   58
 
-    *   1996
+    *   1935
 
 
 *    *   4151.08
@@ -69513,14 +67289,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   63
 
     *   /
 
     *   58
 
-    *   1996
+    *   1937
 
 
 *    *   4151.09
@@ -69537,14 +67312,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   65
 
     *   /
 
     *   65
 
-    *   1996
+    *   1937
 
 
 *    *   4151.10
@@ -69561,14 +67335,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
 
     *   52
 
-    *   1996
+    *   1936
 
 
 *    *   4151.26
@@ -69585,7 +67358,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   94
 
     *   /
@@ -69609,7 +67381,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   67
 
     *   /
@@ -69633,7 +67404,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -69724,14 +67494,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
 
     *   66
 
-    *   1996
+    *   1935
 
 
 *    *   4154.03
@@ -69748,14 +67517,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   45
 
     *   /
 
     *   42
 
-    *   1996
+    *   1935
 
 
 *    *   4154.04
@@ -69772,14 +67540,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
 
     *   70
 
-    *   1996
+    *   1935
 
 
 *    *   4154.05
@@ -69796,14 +67563,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   42
 
     *   /
 
     *   40
 
-    *   1994
+    *   1935
 
 
 *    *   4154.06
@@ -69820,14 +67586,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
 
     *   26
 
-    *   1996
+    *   1935
 
 
 *    *   4154.07
@@ -69844,14 +67609,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
 
     *   29
 
-    *   1996
+    *   1935
 
 
 *    *   4154.08
@@ -69868,14 +67632,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   36
 
     *   /
 
     *   32
 
-    *   1996
+    *   1935
 
 
 *    *   4154.26
@@ -69892,7 +67655,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -69916,7 +67678,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   42
 
     *   /
@@ -69940,7 +67701,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -69964,7 +67724,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -69988,14 +67747,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   88
 
     *   /
 
     *   84
 
-    *   1996
+    *   1994
 
 
 *    *   4154.31
@@ -70011,14 +67769,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
 
     *   19
 
-    *   1996
+    *   1994
 
 
 *    *   4154.32
@@ -70035,14 +67792,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
 
     *   38
 
-    *   1996
+    *   1994
 
 
 *    *   4154.33
@@ -70059,14 +67815,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
 
     *   48
 
-    *   1996
+    *   1994
 
 
 *    *   4154.34
@@ -70083,14 +67838,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
 
     *   33
 
-    *   1996
+    *   1994
 
 
 *    *   4154.35
@@ -70107,14 +67861,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
 
     *   54
 
-    *   1996
+    *   1994
 
 
 *    *   4154.51
@@ -70140,7 +67893,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   39
 
-    *   1996
+    *   1935
 
 
 *    *   4154.52
@@ -70166,7 +67919,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   42
 
-    *   1996
+    *   1935
 
 
 *    *   4154.76
@@ -70192,7 +67945,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   54
 
-    *   1996
+    *   1994
 
 
 *    *   4154.77
@@ -70218,7 +67971,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   53
 
-    *   1996
+    *   1994
 
 
 *    *
@@ -70250,14 +68003,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
 
     *   78
 
-    *   1995
+    *   1934
 
 
 *    *   4155.03
@@ -70274,14 +68026,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   68
 
     *   /
 
     *   67
 
-    *   1995
+    *   1936
 
 
 *    *   4155.04
@@ -70298,14 +68049,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
 
     *   29
 
-    *   1995
+    *   1934
 
 
 *    *   4155.05
@@ -70322,14 +68072,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   48
 
     *   /
 
     *   46
 
-    *   1995
+    *   1934
 
 
 *    *   4155.06
@@ -70346,14 +68095,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
 
     *   68
 
-    *   1995
+    *   1935
 
 
 *    *   4155.51
@@ -70379,7 +68127,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   43
 
-    *   1995
+    *   1934
 
 
 *    *   4155.52
@@ -70405,7 +68153,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   55
 
-    *   1995
+    *   1934
 
 
 *    *
@@ -70437,14 +68185,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
 
     *   77
 
-    *   1996
+    *   1935
 
 
 *    *   4156.02
@@ -70461,14 +68208,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
 
     *   61
 
-    *   1996
+    *   1935
 
 
 *    *   4156.03
@@ -70485,14 +68231,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
 
     *   85
 
-    *   1998
+    *   1936
 
 
 *    *   4156.04
@@ -70509,14 +68254,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
 
     *   78
 
-    *   1995
+    *   1935
 
 
 *    *   4156.26
@@ -70533,7 +68277,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -70557,7 +68300,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -70569,7 +68311,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   4156.51
 
-    *   Tambach Dietharz
+    *   Tambach-Dietharz
 
     *   6
 
@@ -70590,7 +68332,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   36
 
-    *   1994
+    *   1935
 
 
 *    *   4156.77
@@ -70648,14 +68390,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   60
 
     *   /
 
     *   60
 
-    *   1995
+    *   1935
 
 
 *    *   4157.02
@@ -70672,14 +68413,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
 
     *   55
 
-    *   1995
+    *   1935
 
 
 *    *   4157.03
@@ -70696,14 +68436,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   98
 
     *   /
 
     *   98
 
-    *   1995
+    *   1935
 
 
 *    *   4157.04
@@ -70720,14 +68459,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
 
     *   33
 
-    *   1995
+    *   1936
 
 
 *    *   4157.05
@@ -70744,14 +68482,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   68
 
     *   /
 
     *   68
 
-    *   1995
+    *   1936
 
 
 *    *   4157.06
@@ -70768,14 +68505,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   71
 
     *   /
 
     *   70
 
-    *   1995
+    *   1936
 
 
 *    *   4157.08
@@ -70792,14 +68528,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
 
     *   66
 
-    *   1995
+    *   1936
 
 
 *    *   4157.09
@@ -70816,14 +68551,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
 
     *   40
 
-    *   1995
+    *   1936
 
 
 *    *   4157.10
@@ -70840,14 +68574,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
 
     *   35
 
-    *   1995
+    *   1936
 
 
 *    *   4157.11
@@ -70864,14 +68597,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
 
     *   78
 
-    *   1995
+    *   1936
 
 
 *    *   4157.12
@@ -70888,14 +68620,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
 
     *   92
 
-    *   1995
+    *   1936
 
 
 *    *   4157.13
@@ -70912,14 +68643,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
 
     *   30
 
-    *   1995
+    *   1936
 
 
 *    *   4157.14
@@ -70936,14 +68666,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
 
     *   48
 
-    *   1995
+    *   1936
 
 
 *    *   4157.15
@@ -70958,16 +68687,15 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   Lö
+    *   LöV
 
-    *
     *   68
 
     *   /
 
     *   63
 
-    *   1995
+    *   1936
 
 
 *    *   4157.16
@@ -70984,14 +68712,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   52
 
     *   /
 
     *   44
 
-    *   1995
+    *   1936
 
 
 *    *   4157.17
@@ -71008,14 +68735,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
 
     *   45
 
-    *   1995
+    *   1936
 
 
 *    *   4157.18
@@ -71032,14 +68758,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   60
 
     *   /
 
     *   56
 
-    *   1995
+    *   1936
 
 
 *    *   4157.19
@@ -71056,14 +68781,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
 
     *   72
 
-    *   1995
+    *   1936
 
 
 *    *   4157.20
@@ -71080,14 +68804,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   71
 
     *   /
 
     *   71
 
-    *   1995
+    *   1936
 
 
 *    *   4157.21
@@ -71104,14 +68827,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   61
 
     *   /
 
     *   61
 
-    *   1995
+    *   1936
 
 
 *    *   4157.22
@@ -71128,14 +68850,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   31
 
     *   /
 
     *   28
 
-    *   1995
+    *   1938
 
 
 *    *   4157.23
@@ -71152,14 +68873,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
 
     *   39
 
-    *   1995
+    *   1936
 
 
 *    *   4157.24
@@ -71176,14 +68896,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   63
 
     *   /
 
     *   66
 
-    *   1995
+    *   1936
 
 
 *    *   4157.26
@@ -71200,7 +68919,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -71224,7 +68942,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   97
 
     *   /
@@ -71248,7 +68965,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -71272,7 +68988,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -71296,7 +69011,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -71413,14 +69127,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
 
     *   85
 
-    *   1995
+    *   1937
 
 
 *    *   4159.02
@@ -71437,14 +69150,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
 
     *   78
 
-    *   1995
+    *   1936
 
 
 *    *   4159.03
@@ -71461,14 +69173,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
 
     *   27
 
-    *   1995
+    *   1937
 
 
 *    *   4159.04
@@ -71485,14 +69196,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
 
     *   63
 
-    *   1997
+    *   1937
 
 
 *    *   4159.05
@@ -71509,14 +69219,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
 
     *   64
 
-    *   1997
+    *   1937
 
 
 *    *   4159.06
@@ -71533,14 +69242,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
 
     *   46
 
-    *   1995
+    *   1937
 
 
 *    *   4159.07
@@ -71557,14 +69265,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
 
     *   24
 
-    *   1995
+    *   1937
 
 
 *    *   4159.26
@@ -71581,7 +69288,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -71605,7 +69311,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -71629,7 +69334,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -71653,7 +69357,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   68
 
     *   /
@@ -71677,7 +69380,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -71701,7 +69403,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -71725,7 +69426,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   84
 
     *   /
@@ -71749,7 +69449,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -71901,7 +69600,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   65
 
-    *   1995
+    *   1937
 
 
 *    *
@@ -71933,14 +69632,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
 
     *   37
 
-    *   1996
+    *   1936
 
 
 *    *   4162.02
@@ -71957,14 +69655,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   25
 
     *   /
 
     *   23
 
-    *   1996
+    *   1936
 
 
 *    *   4162.03
@@ -71981,14 +69678,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
 
     *   45
 
-    *   1996
+    *   1935
 
 
 *    *   4162.04
@@ -72005,14 +69701,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   36
 
     *   /
 
     *   37
 
-    *   1996
+    *   1937
 
 
 *    *   4162.05
@@ -72029,14 +69724,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
 
     *   47
 
-    *   1996
+    *   1935
 
 
 *    *   4162.06
@@ -72053,14 +69747,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   66
 
     *   /
 
     *   61
 
-    *   1996
+    *   1935
 
 
 *    *   4162.07
@@ -72077,14 +69770,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
 
     *   63
 
-    *   1996
+    *   1935
 
 
 *    *   4162.08
@@ -72101,14 +69793,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
 
     *   29
 
-    *   1996
+    *   1935
 
 
 *    *   4162.09
@@ -72125,14 +69816,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   72
 
     *   /
 
     *   62
 
-    *   1996
+    *   1938
 
 
 *    *   4162.10
@@ -72149,14 +69839,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
 
     *   26
 
-    *   1996
+    *   1938
 
 
 *    *   4162.11
@@ -72173,14 +69862,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
 
     *   17
 
-    *   1996
+    *   1938
 
 
 *    *   4162.12
@@ -72197,14 +69885,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
 
     *   65
 
-    *   1996
+    *   1935
 
 
 *    *   4162.13
@@ -72221,14 +69908,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
 
     *   100
 
-    *   1996
+    *   1935
 
 
 *    *   4162.14
@@ -72245,14 +69931,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
 
     *   48
 
-    *   1996
+    *   1935
 
 
 *    *   4162.15
@@ -72269,14 +69954,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
 
     *   62
 
-    *   1996
+    *   1935
 
 
 *    *   4162.16
@@ -72293,14 +69977,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   100
 
     *   /
 
     *   98
 
-    *   1996
+    *   1935
 
 
 *    *   4162.17
@@ -72317,14 +70000,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
 
     *   34
 
-    *   1996
+    *   1935
 
 
 *    *   4162.18
@@ -72341,14 +70023,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
 
     *   73
 
-    *   1996
+    *   1935
 
 
 *    *   4162.19
@@ -72365,14 +70046,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   89
 
     *   /
 
     *   85
 
-    *   1996
+    *   1935
 
 
 *    *   4162.20
@@ -72389,14 +70069,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
 
     *   46
 
-    *   1995
+    *   1936
 
 
 *    *   4162.26
@@ -72413,7 +70092,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   81
 
     *   /
@@ -72437,7 +70115,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -72461,7 +70138,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -72494,7 +70170,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   33
 
-    *   1996
+    *   1935
 
 
 *    *   4162.76
@@ -72552,14 +70228,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
 
     *   19
 
-    *   1995
+    *   1937
 
 
 *    *   4165.02
@@ -72576,14 +70251,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   17
 
     *   /
 
     *   16
 
-    *   1995
+    *   1936
 
 
 *    *   4165.03
@@ -72600,14 +70274,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
 
     *   37
 
-    *   1995
+    *   1936
 
 
 *    *   4165.04
@@ -72624,14 +70297,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
 
     *   52
 
-    *   1995
+    *   1936
 
 
 *    *   4165.05
@@ -72648,14 +70320,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
 
     *   24
 
-    *   1995
+    *   1936
 
 
 *    *   4165.06
@@ -72672,14 +70343,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
 
     *   38
 
-    *   1995
+    *   1935
 
 
 *    *   4165.07
@@ -72696,14 +70366,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
 
     *   34
 
-    *   1995
+    *   1935
 
 
 *    *   4165.08
@@ -72720,14 +70389,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
 
     *   25
 
-    *   1995
+    *   1936
 
 
 *    *   4165.09
@@ -72744,14 +70412,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
 
     *   30
 
-    *   1995
+    *   1936
 
 
 *    *   4165.10
@@ -72768,14 +70435,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
 
     *   46
 
-    *   1995
+    *   1936
 
 
 *    *   4165.11
@@ -72792,14 +70458,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
 
     *   43
 
-    *   1995
+    *   1937
 
 
 *    *   4165.12
@@ -72816,14 +70481,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   63
 
     *   /
 
     *   60
 
-    *   1995
+    *   1935
 
 
 *    *   4165.13
@@ -72840,14 +70504,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
 
     *   50
 
-    *   1995
+    *   1935
 
 
 *    *   4165.14
@@ -72864,14 +70527,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   68
 
     *   /
 
     *   61
 
-    *   1995
+    *   1935
 
 
 *    *   4165.15
@@ -72888,14 +70550,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   54
 
     *   /
 
     *   48
 
-    *   1995
+    *   1935
 
 
 *    *   4165.16
@@ -72912,14 +70573,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   48
 
     *   /
 
     *   42
 
-    *   1995
+    *   1935
 
 
 *    *   4165.17
@@ -72936,14 +70596,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
 
     *   18
 
-    *   1996
+    *   1935
 
 
 *    *   4165.26
@@ -72960,7 +70619,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
@@ -72984,7 +70642,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   28
 
     *   /
@@ -73017,7 +70674,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   21
 
-    *   1995
+    *   1937
 
 
 *    *   4165.52
@@ -73043,7 +70700,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   30
 
-    *   1995
+    *   1937
 
 
 *    *   4165.53
@@ -73069,7 +70726,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   42
 
-    *   1995
+    *   1936
 
 
 *    *   4165.54
@@ -73095,7 +70752,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   54
 
-    *   1995
+    *   1935
 
 
 *    *   4165.76
@@ -73205,7 +70862,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   51
 
     *   /
@@ -73235,7 +70891,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   53
 
-    *   1995
+    *   1938
 
 
 *    *   4166.03
@@ -73252,7 +70908,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -73276,14 +70931,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   38
 
     *   /
 
     *   32
 
-    *   1995
+    *   1937
 
 
 *    *   4166.05
@@ -73300,14 +70954,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
 
     *   49
 
-    *   1995
+    *   1937
 
 
 *    *   4166.06
@@ -73324,14 +70977,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   42
 
     *   /
 
     *   36
 
-    *   1995
+    *   1937
 
 
 *    *   4166.27
@@ -73348,7 +71000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -73372,7 +71023,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -73437,14 +71087,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
 
     *   23
 
-    *   1996
+    *   1935
 
 
 *    *   4170.02
@@ -73461,14 +71110,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   45
 
     *   /
 
     *   34
 
-    *   1996
+    *   1935
 
 
 *    *   4170.51
@@ -73494,7 +71142,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   32
 
-    *   1996
+    *   1935
 
 
 *    *
@@ -73526,14 +71174,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
 
     *   47
 
-    *   1996
+    *   1935
 
 
 *    *   4171.02
@@ -73550,14 +71197,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
 
     *   65
 
-    *   1996
+    *   1934
 
 
 *    *   4171.03
@@ -73574,14 +71220,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
 
     *   60
 
-    *   1996
+    *   1934
 
 
 *    *   4171.04
@@ -73598,14 +71243,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
 
     *   28
 
-    *   1996
+    *   1935
 
 
 *    *   4171.05
@@ -73622,14 +71266,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
 
     *   40
 
-    *   1995
+    *   1934
 
 
 *    *   4171.06
@@ -73646,14 +71289,13 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   30
 
     *   /
 
     *   28
 
-    *   1995
+    *   1934
 
 
 *    *   4171.52
@@ -73679,7 +71321,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   12
 
-    *   1996
+    *   1935
 
 
 *    *   4171.53
@@ -73705,7 +71347,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   22
 
-    *   1996
+    *   1935
 
 
 *    *   4171.54
@@ -73731,7 +71373,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   63
 
-    *   1996
+    *   1934
 
 
 *    *   4171.55
@@ -73757,7 +71399,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   10
 
-    *   1996
+    *   1935
 
 
 *    *   4171.56
@@ -73783,7 +71425,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   61
 
-    *   1995
+    *   1934
 
 
 *    *
@@ -73830,7 +71472,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   84
 
     *   /
@@ -73941,7 +71582,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -73965,7 +71605,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   32
 
     *   /
@@ -74004,7 +71643,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -74043,7 +71681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   80
 
     *   /
@@ -74067,7 +71704,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   35
 
     *   /
@@ -74106,7 +71742,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -74145,7 +71780,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -74169,7 +71803,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -74193,7 +71826,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -74217,7 +71849,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -74241,7 +71872,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -74257,7 +71887,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   6
 
-    *   423 und 424
+    *   423, 424
 
     *   lS
 
@@ -74265,7 +71895,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -74356,7 +71985,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -74380,7 +72008,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -74404,7 +72031,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -74428,7 +72054,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   71
 
     *   /
@@ -74452,7 +72077,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -74475,7 +72099,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -74499,7 +72122,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   72
 
     *   /
@@ -74523,7 +72145,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   52
 
     *   /
@@ -74562,7 +72183,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -74586,7 +72206,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -74610,7 +72229,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -74634,7 +72252,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -74658,7 +72275,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -74682,7 +72298,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   42
 
     *   /
@@ -74739,7 +72354,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   55
 
-    *   64 und 65
+    *   64, 65
 
     *   lS
 
@@ -74747,7 +72362,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -74771,7 +72385,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -74795,7 +72408,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -74819,7 +72431,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -74843,7 +72454,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -74867,7 +72477,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   85
 
     *   /
@@ -75036,7 +72645,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -75060,7 +72668,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   72
 
     *   /
@@ -75084,7 +72691,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   22
 
     *   /
@@ -75123,7 +72729,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -75147,7 +72752,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -75171,7 +72775,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -75195,7 +72798,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -75219,7 +72821,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   54
 
     *   /
@@ -75243,7 +72844,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   48
 
     *   /
@@ -75334,7 +72934,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   63
 
     *   /
@@ -75358,7 +72957,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -75374,7 +72972,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   25
 
-    *   76 und 96
+    *   76, 96
 
     *   lS
 
@@ -75382,7 +72980,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -75447,7 +73044,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöD
 
-    *
     *   45
 
     *   /
@@ -75471,7 +73067,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöD
 
-    *
     *   53
 
     *   /
@@ -75495,7 +73090,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -75534,7 +73128,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   46
 
     *   /
@@ -75558,7 +73151,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -75582,7 +73174,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -75621,7 +73212,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -75660,7 +73250,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   28
 
     *   /
@@ -75684,7 +73273,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   57
 
     *   /
@@ -75708,7 +73296,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -75732,7 +73319,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -75756,7 +73342,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -75940,7 +73525,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -75979,7 +73563,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   81
 
     *   /
@@ -76003,7 +73586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -76027,7 +73609,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -76144,7 +73725,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -76167,7 +73747,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -76191,7 +73770,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   60
 
     *   /
@@ -76259,7 +73837,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   13
 
-    *   132 und 190
+    *   132, 190
 
     *   lS
 
@@ -76360,7 +73938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   43
 
     *   /
@@ -76384,7 +73961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -76408,7 +73984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -76432,7 +74007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -76456,7 +74030,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -76479,7 +74052,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -76518,7 +74090,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -76542,7 +74113,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   66
 
     *   /
@@ -76607,7 +74177,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
@@ -76631,7 +74200,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -76655,7 +74223,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   87
 
     *   /
@@ -76679,7 +74246,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   84
 
     *   /
@@ -76703,7 +74269,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   41
 
     *   /
@@ -76727,7 +74292,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   59
 
     *   /
@@ -76751,7 +74315,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   40
 
     *   /
@@ -76775,7 +74338,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   40
 
     *   /
@@ -76889,7 +74451,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -76913,7 +74474,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -76929,7 +74489,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   24
 
-    *   26 und 27
+    *   26, 27
 
     *   L
 
@@ -76937,7 +74497,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -76953,7 +74512,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   27
 
-    *   12 und 13
+    *   12, 13
 
     *   lS
 
@@ -76961,7 +74520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   43
 
     *   /
@@ -77000,7 +74558,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -77024,7 +74581,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -77048,7 +74604,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   47
 
     *   /
@@ -77072,7 +74627,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -77096,7 +74650,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -77120,7 +74673,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -77144,7 +74696,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   45
 
     *   /
@@ -77235,7 +74786,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -77259,7 +74809,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   71
 
     *   /
@@ -77283,7 +74832,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -77307,7 +74855,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -77331,7 +74878,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -77393,7 +74939,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   55
 
     *   /
@@ -77417,7 +74962,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   53
 
     *   /
@@ -77441,7 +74985,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -77465,7 +75008,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -77660,7 +75202,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -77684,7 +75225,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -77879,7 +75419,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -77903,7 +75442,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   65
 
     *   /
@@ -77927,7 +75465,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -77966,7 +75503,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -78005,7 +75541,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   75
 
     *   /
@@ -78044,7 +75579,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -78083,7 +75617,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -78107,7 +75640,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -78131,7 +75663,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -78196,7 +75727,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -78220,7 +75750,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -78244,7 +75773,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -78361,7 +75889,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -78385,36 +75912,11 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
 
     *   84
-
-    *   1936
-
-
-*    *   5222.03
-
-    *   Meckenheim
-
-    *   18
-
-    *   147
-
-    *   L
-
-    *   2
-
-    *   Lö
-
-    *
-    *   86
-
-    *   /
-
-    *   95
 
     *   1936
 
@@ -78456,7 +75958,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   88
 
     *   /
@@ -78495,7 +75996,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -78519,7 +76019,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -78543,7 +76042,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -78567,7 +76065,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   49
 
     *   /
@@ -78591,7 +76088,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   53
 
     *   /
@@ -78615,7 +76111,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   92
 
     *   /
@@ -78654,7 +76149,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -78693,7 +76187,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -78717,7 +76210,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -78741,7 +76233,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -78765,7 +76256,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -78789,7 +76279,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -78813,7 +76302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -78837,7 +76325,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -78902,7 +76389,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -78926,7 +76412,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -78991,7 +76476,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -79015,7 +76499,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -79039,7 +76522,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -79063,7 +76545,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   49
 
     *   /
@@ -79087,7 +76568,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   56
 
     *   /
@@ -79111,7 +76591,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -79135,7 +76614,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -79159,7 +76637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -79250,7 +76727,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -79274,7 +76750,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -79298,7 +76773,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -79322,7 +76796,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -79346,7 +76819,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   33
 
     *   /
@@ -79370,7 +76842,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   22
 
     *   /
@@ -79394,7 +76865,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -79418,7 +76888,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -79442,7 +76911,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -79466,7 +76934,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   29
 
     *   /
@@ -79490,7 +76957,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   39
 
     *   /
@@ -79514,7 +76980,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -79538,7 +77003,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -79655,7 +77119,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -79679,7 +77142,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   73
 
     *   /
@@ -79703,7 +77165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -79727,7 +77188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -79751,7 +77211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -79775,7 +77234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -79799,7 +77257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -79823,7 +77280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   66
 
     *   /
@@ -79847,7 +77303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   80
 
     *   /
@@ -79871,7 +77326,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   43
 
     *   /
@@ -80014,7 +77468,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   81
 
     *   /
@@ -80053,7 +77506,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -80077,7 +77529,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -80101,7 +77552,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   62
 
     *   /
@@ -80125,7 +77575,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   41
 
     *   /
@@ -80149,7 +77598,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -80173,7 +77621,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -80197,7 +77644,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -80221,7 +77667,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   41
 
     *   /
@@ -80245,7 +77690,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   19
 
     *   /
@@ -80269,7 +77713,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   15
 
     *   /
@@ -80293,7 +77736,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -80317,7 +77759,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -80341,7 +77782,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -80406,7 +77846,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -80430,7 +77869,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -80454,7 +77892,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -80478,7 +77915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -80502,7 +77938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -80526,7 +77961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -80550,7 +77984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   48
 
     *   /
@@ -80574,7 +78007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -80598,7 +78030,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -80622,7 +78053,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -80646,7 +78076,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   45
 
     *   /
@@ -80670,7 +78099,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -80694,7 +78122,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -80718,7 +78145,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -80742,7 +78168,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -80766,7 +78191,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -80831,7 +78255,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   50
 
     *   /
@@ -80855,7 +78278,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -80879,7 +78301,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   81
 
     *   /
@@ -80926,7 +78347,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -80950,7 +78370,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -80974,7 +78393,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   76
 
     *   /
@@ -80998,7 +78416,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -81115,7 +78532,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -81154,7 +78570,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -81178,7 +78593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -81202,7 +78616,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -81226,7 +78639,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -81250,7 +78662,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -81274,7 +78685,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   68
 
     *   /
@@ -81298,7 +78708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -81322,7 +78731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -81346,7 +78754,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -81411,7 +78818,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -81450,7 +78856,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -81466,7 +78871,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   1
 
-    *   179
+    *   216
 
     *   L
 
@@ -81474,7 +78879,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -81498,7 +78902,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -81522,7 +78925,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   61
 
     *   /
@@ -81561,7 +78963,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -81600,7 +79001,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -81624,7 +79024,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -81635,7 +79034,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 
 *    *
-    *   **Herne**
+    *   **Herne - Abteilung Ost**
 
     *
     *
@@ -81663,7 +79062,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -81702,7 +79100,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -81726,7 +79123,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -81750,7 +79146,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -81774,7 +79169,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -81798,7 +79192,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -81822,7 +79215,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -81846,7 +79238,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -81870,7 +79261,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -81894,7 +79284,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -81918,7 +79307,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   70
 
     *   /
@@ -81983,7 +79371,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -82007,7 +79394,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   63
 
     *   /
@@ -82031,7 +79417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -82055,7 +79440,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -82079,7 +79463,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -82103,7 +79486,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -82127,7 +79509,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -82151,7 +79532,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   28
 
     *   /
@@ -82175,7 +79555,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -82199,7 +79578,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -82223,7 +79601,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   48
 
     *   /
@@ -82418,7 +79795,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -82465,7 +79841,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   62
 
     *   /
@@ -82489,7 +79864,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -82513,7 +79887,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   82
 
     *   /
@@ -82537,7 +79910,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -82561,7 +79933,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   73
 
     *   /
@@ -82652,7 +80023,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   68
 
     *   /
@@ -82676,7 +80046,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -82700,7 +80069,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -82724,7 +80092,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -82815,7 +80182,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -82839,7 +80205,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   65
 
     *   /
@@ -82863,7 +80228,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -82887,7 +80251,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -82911,7 +80274,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -82935,7 +80297,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -82959,7 +80320,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -82983,7 +80343,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -83007,7 +80366,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   81
 
     *   /
@@ -83031,7 +80389,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -83055,7 +80412,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -83079,7 +80435,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   68
 
     *   /
@@ -83170,7 +80525,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -83194,7 +80548,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -83218,7 +80571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -83242,7 +80594,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -83266,7 +80617,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -83290,7 +80640,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -83314,7 +80663,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -83338,7 +80686,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -83362,7 +80709,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -83479,7 +80825,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -83570,7 +80915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -83594,7 +80938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   46
 
     *   /
@@ -83618,7 +80961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -83642,7 +80984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -83666,7 +81007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -83690,7 +81030,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   52
 
     *   /
@@ -83714,7 +81053,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -83738,7 +81076,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -83762,7 +81099,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -83876,7 +81212,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -83900,7 +81235,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -84043,7 +81377,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   46
 
     *   /
@@ -84067,7 +81400,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -84091,7 +81423,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   55
 
     *   /
@@ -84115,7 +81446,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -84139,7 +81469,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -84163,7 +81492,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -84228,7 +81556,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -84267,7 +81594,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -84291,7 +81617,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   58
 
     *   /
@@ -84330,7 +81655,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -84354,7 +81678,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -84378,7 +81701,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -84402,7 +81724,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -84426,7 +81747,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -84450,7 +81770,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -84474,7 +81793,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   82
 
     *   /
@@ -84498,7 +81816,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -84522,7 +81839,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -84546,7 +81862,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -84570,7 +81885,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -84594,7 +81908,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -84618,7 +81931,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -84642,7 +81954,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   79
 
     *   /
@@ -84666,7 +81977,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -84690,7 +82000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   63
 
     *   /
@@ -84714,7 +82023,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -84738,7 +82046,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -84762,7 +82069,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -84786,7 +82092,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -84810,7 +82115,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   53
 
     *   /
@@ -84952,7 +82256,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -84976,7 +82279,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -85000,7 +82302,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -85024,7 +82325,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -85048,7 +82348,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   24
 
     *   /
@@ -85087,7 +82386,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -85111,7 +82409,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -85150,7 +82447,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   35
 
     *   /
@@ -85174,7 +82470,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -85198,7 +82493,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -85263,7 +82557,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -85287,7 +82580,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   55
 
     *   /
@@ -85311,7 +82603,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -85335,7 +82626,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -85359,7 +82649,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -85383,7 +82672,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -85407,7 +82695,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -85431,7 +82718,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -85455,7 +82741,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -85479,7 +82764,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   50
 
     *   /
@@ -85518,7 +82802,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -85542,7 +82825,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -85566,7 +82848,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -85590,7 +82871,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   94
 
     *   /
@@ -85614,7 +82894,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -85638,7 +82917,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -85662,7 +82940,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -85686,7 +82963,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   56
 
     *   /
@@ -85733,7 +83009,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -85757,7 +83032,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   95
 
     *   /
@@ -85781,7 +83055,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -85805,7 +83078,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -85817,7 +83089,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
 *    *   5345.18
 
-    *   Willegasssen
+    *   Willegassen
 
     *   2
 
@@ -85829,7 +83101,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   50
 
     *   /
@@ -85853,7 +83124,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   63
 
     *   /
@@ -85918,7 +83188,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -85942,7 +83211,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -85966,7 +83234,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -85990,7 +83257,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   35
 
     *   /
@@ -86014,7 +83280,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   23
 
     *   /
@@ -86038,7 +83303,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   20
 
     *   /
@@ -86062,7 +83326,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -86086,7 +83349,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -86110,7 +83372,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -86134,7 +83395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -86158,7 +83418,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -86182,7 +83441,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -86325,7 +83583,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -86349,7 +83606,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   44
 
     *   /
@@ -86396,7 +83652,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   25
 
     *   /
@@ -86420,7 +83675,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   38
 
     *   /
@@ -86467,7 +83721,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -86491,7 +83744,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -86556,7 +83808,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -86580,7 +83831,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -86619,7 +83869,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -86643,7 +83892,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   36
 
     *   /
@@ -86667,7 +83915,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -86691,7 +83938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -86715,7 +83961,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -86739,7 +83984,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -86856,7 +84100,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   34
 
     *   /
@@ -86880,7 +84123,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -86904,7 +84146,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -86928,7 +84169,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   39
 
     *   /
@@ -86952,7 +84192,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -86976,7 +84215,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   21
 
     *   /
@@ -87000,7 +84238,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   46
 
     *   /
@@ -87024,7 +84261,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   59
 
     *   /
@@ -87129,7 +84365,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -87152,7 +84387,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -87175,7 +84409,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -87198,7 +84431,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -87221,7 +84453,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   40
 
     *   /
@@ -87244,7 +84475,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   37
 
     *   /
@@ -87267,7 +84497,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   27
 
     *   /
@@ -87312,7 +84541,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -87335,7 +84563,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -87358,7 +84585,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -87381,7 +84607,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -87404,7 +84629,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -87427,7 +84651,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   68
 
     *   /
@@ -87875,7 +85098,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   34
 
     *   /
@@ -87898,7 +85120,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -87958,7 +85179,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   55
 
     *   /
@@ -87981,7 +85201,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -88004,7 +85223,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -88027,7 +85245,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -88050,7 +85267,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -88113,7 +85329,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   79
 
     *   /
@@ -88136,7 +85351,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -88159,7 +85373,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -88182,7 +85395,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -88205,7 +85417,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -88228,7 +85439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -88251,7 +85461,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -88389,7 +85598,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -88412,7 +85620,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -88435,7 +85642,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   83
 
     *   /
@@ -88458,7 +85664,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   78
 
     *   /
@@ -88481,7 +85686,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -88504,7 +85708,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -88592,7 +85795,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -88615,7 +85817,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -88638,7 +85839,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -88661,7 +85861,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -88684,7 +85883,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   59
 
     *   /
@@ -88707,7 +85905,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   77
 
     *   /
@@ -88730,7 +85927,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -88753,7 +85949,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -88841,7 +86036,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   50
 
     *   /
@@ -88864,7 +86058,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -88887,7 +86080,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   49
 
     *   /
@@ -88950,7 +86142,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -88973,7 +86164,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -88996,7 +86186,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -89019,7 +86208,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   73
 
     *   /
@@ -89042,7 +86230,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -89065,7 +86252,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -89088,7 +86274,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -89111,7 +86296,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -89134,7 +86318,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -89344,7 +86527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -89367,7 +86549,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -89390,7 +86571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -89413,7 +86593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   68
 
     *   /
@@ -89549,7 +86728,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -89572,7 +86750,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -89595,7 +86772,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -89618,7 +86794,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -89641,7 +86816,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -89686,7 +86860,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -89749,7 +86922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -89772,7 +86944,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   58
 
     *   /
@@ -89900,7 +87071,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -89923,7 +87093,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -89946,7 +87115,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -89969,7 +87137,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   46
 
     *   /
@@ -89992,7 +87159,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   49
 
     *   /
@@ -90015,7 +87181,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -90038,7 +87203,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -90124,7 +87288,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -90132,6 +87295,28 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   53
 
     *   1934
+
+
+*    *   9125.03
+
+    *   Westendorf
+
+    *
+    *   319
+
+    *   L
+
+    *   4
+
+    *   D
+
+    *   60
+
+    *   /
+
+    *   52
+
+    *   2004
 
 
 *    *   9125.51
@@ -90334,29 +87519,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   2004
 
 
-*    *   9125.63
-
-    *   Westendorf
-
-    *
-    *   319
-
-    *   L
-
-    *   4
-
-    *   D
-
-    *
-    *   60
-
-    *   /
-
-    *   52
-
-    *   2004
-
-
 *    *   9125.64
 
     *   Seeg
@@ -90410,7 +87572,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -90433,7 +87594,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -90456,7 +87616,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -90501,7 +87660,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -90524,7 +87682,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -90547,7 +87704,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   72
 
     *   /
@@ -90570,7 +87726,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -90857,6 +88012,28 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1937
 
 
+*    *   9131.03
+
+    *   Mundraching
+
+    *
+    *   103
+
+    *   sL
+
+    *   3
+
+    *   AlD
+
+    *   66
+
+    *   /
+
+    *   58
+
+    *   1937
+
+
 *    *   9131.04
 
     *   Pestenacker
@@ -90981,7 +88158,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -91004,7 +88180,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -91027,7 +88202,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   74
 
     *   /
@@ -91050,7 +88224,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -91095,7 +88268,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   38
 
     *   /
@@ -91118,7 +88290,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   54
 
     *   /
@@ -91141,7 +88312,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   36
 
     *   /
@@ -91344,7 +88514,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -91367,7 +88536,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   52
 
     *   /
@@ -91390,7 +88558,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -91413,7 +88580,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -91911,7 +89077,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   64
 
     *   /
@@ -91934,7 +89099,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -91957,7 +89121,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -91980,7 +89143,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -92003,7 +89165,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -92114,7 +89275,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -92137,7 +89297,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   53
 
     *   /
@@ -92275,7 +89434,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -92298,7 +89456,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   60
 
     *   /
@@ -92321,7 +89478,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -92408,7 +89564,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -92431,7 +89586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   42
 
     *   /
@@ -92454,7 +89608,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   69
 
     *   /
@@ -92462,6 +89615,28 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   68
 
     *   1934
+
+
+*    *   9152.08
+
+    *   Kleinerdlingen
+
+    *
+    *   178
+
+    *   LT
+
+    *   4
+
+    *   Al
+
+    *   57
+
+    *   /
+
+    *   52
+
+    *   2004
 
 
 *    *   9152.51
@@ -92487,29 +89662,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   53
 
     *   1934
-
-
-*    *   9152.53
-
-    *   Kleinerdlingen
-
-    *
-    *   178
-
-    *   LT
-
-    *   4
-
-    *   Al
-
-    *
-    *   57
-
-    *   /
-
-    *   52
-
-    *   2004
 
 
 *    *
@@ -92540,7 +89692,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -92563,7 +89714,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -92586,7 +89736,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   76
 
     *   /
@@ -92609,7 +89758,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -92632,7 +89780,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   61
 
     *   /
@@ -92655,7 +89802,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -92678,7 +89824,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   33
 
     *   /
@@ -92701,7 +89846,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   78
 
     *   /
@@ -92724,7 +89868,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -92747,7 +89890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -92770,7 +89912,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -92793,7 +89934,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   73
 
     *   /
@@ -92816,7 +89956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -93054,7 +90193,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   72
 
     *   /
@@ -93077,7 +90215,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   57
 
     *   /
@@ -93100,7 +90237,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   76
 
     *   /
@@ -93123,7 +90259,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   45
 
     *   /
@@ -93146,7 +90281,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   72
 
     *   /
@@ -93210,7 +90344,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -93233,7 +90366,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -93256,7 +90388,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   51
 
     *   /
@@ -93394,7 +90525,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -93417,7 +90547,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -93432,7 +90561,7 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   Ranfels
 
     *
-    *   1380 u. 1381
+    *   1380, 1381
 
     *   SL
 
@@ -93440,7 +90569,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -93628,7 +90756,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   33
 
     *   /
@@ -93651,7 +90778,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -93674,7 +90800,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -93719,7 +90844,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   66
 
     *   /
@@ -93742,7 +90866,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   46
 
     *   /
@@ -93877,7 +91000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   70
 
     *   /
@@ -93900,7 +91022,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -93988,7 +91109,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -94011,7 +91131,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -94034,8 +91153,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
-    *
     *   47
 
     *   /
@@ -94058,8 +91175,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
-    *
     *   35
 
     *   /
@@ -94082,8 +91197,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
-    *
     *   38
 
     *   /
@@ -94104,11 +91217,8 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   3
 
-    *   L
+    *   Lö
 
-    *   ö
-
-    *
     *   78
 
     *   /
@@ -94129,11 +91239,8 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   4
 
-    *   L
+    *   Lö
 
-    *   ö
-
-    *
     *   71
 
     *   /
@@ -94156,7 +91263,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   53
 
     *   /
@@ -94319,7 +91425,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -94364,7 +91469,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -94387,7 +91491,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -95205,7 +92308,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   62
 
     *   /
@@ -95228,7 +92330,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -95251,7 +92352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -95339,7 +92439,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   38
 
     *   /
@@ -95362,7 +92461,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   66
 
     *   /
@@ -95385,7 +92483,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -95408,7 +92505,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -95431,7 +92527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -95454,7 +92549,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   62
 
     *   /
@@ -95477,7 +92571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   96
 
     *   /
@@ -95500,7 +92593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   69
 
     *   /
@@ -95687,7 +92779,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
@@ -95710,7 +92801,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -95733,7 +92823,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -95756,7 +92845,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D/V
 
-    *
     *   37
 
     *   /
@@ -95845,7 +92933,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   40
 
     *   /
@@ -95868,7 +92955,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -95913,7 +92999,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -95936,7 +93021,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -96074,7 +93158,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -96097,7 +93180,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -96120,7 +93202,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -96143,7 +93224,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -96166,7 +93246,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   72
 
     *   /
@@ -96189,7 +93268,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -96212,7 +93290,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   22
 
     *   /
@@ -96235,7 +93312,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -96258,7 +93334,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -96281,7 +93356,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   68
 
     *   /
@@ -96304,7 +93378,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -96327,7 +93400,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -96350,7 +93422,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -96373,7 +93444,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   25
 
     *   /
@@ -96396,7 +93466,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   65
 
     *   /
@@ -96419,7 +93488,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -96442,7 +93510,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   29
 
     *   /
@@ -96465,7 +93532,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -96488,7 +93554,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -96511,7 +93576,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   35
 
     *   /
@@ -96534,7 +93598,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -96798,7 +93861,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   31
 
     *   /
@@ -96821,7 +93883,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   31
 
     *   /
@@ -96844,7 +93905,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /
@@ -96867,7 +93927,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -96890,7 +93949,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   LöV
 
-    *
     *   63
 
     *   /
@@ -96913,7 +93971,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   75
 
     *   /
@@ -96936,7 +93993,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   30
 
     *   /
@@ -97049,7 +94105,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -97072,7 +94127,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -97095,7 +94149,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -97118,7 +94171,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -97141,7 +94193,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   26
 
     *   /
@@ -97279,7 +94330,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -97302,7 +94352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   67
 
     *   /
@@ -97325,7 +94374,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -97413,7 +94461,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   26
 
     *   /
@@ -97436,7 +94483,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlV
 
-    *
     *   62
 
     *   /
@@ -97459,7 +94505,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -97482,7 +94527,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -97505,7 +94549,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -97528,7 +94571,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   28
 
     *   /
@@ -97551,7 +94593,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   25
 
     *   /
@@ -97574,7 +94615,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -97597,7 +94637,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   36
 
     *   /
@@ -97620,7 +94659,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -97643,7 +94681,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   64
 
     *   /
@@ -97666,7 +94703,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   69
 
     *   /
@@ -97854,7 +94890,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   73
 
     *   /
@@ -97877,7 +94912,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -97900,7 +94934,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   28
 
     *   /
@@ -97923,7 +94956,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -97946,7 +94978,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -97969,7 +95000,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -97992,7 +95022,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -98015,7 +95044,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -98038,7 +95066,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -98061,7 +95088,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -98084,7 +95110,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -98297,7 +95322,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -98320,7 +95344,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -98343,7 +95366,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -98366,7 +95388,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   47
 
     *   /
@@ -98389,7 +95410,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -98412,7 +95432,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -98575,7 +95594,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   57
 
     *   /
@@ -98598,7 +95616,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -98621,7 +95638,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   45
 
     *   /
@@ -98644,7 +95660,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -98667,7 +95682,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   36
 
     *   /
@@ -98690,7 +95704,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -98713,7 +95726,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   30
 
     *   /
@@ -98736,7 +95748,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   42
 
     *   /
@@ -98799,7 +95810,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -98862,7 +95872,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   64
 
     *   /
@@ -98885,7 +95894,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -98908,7 +95916,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -98931,7 +95938,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -99019,7 +96025,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   DV
 
-    *
     *   49
 
     *   /
@@ -99042,7 +96047,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -99065,7 +96069,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -99088,7 +96091,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -99111,7 +96113,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   29
 
     *   /
@@ -99134,7 +96135,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   58
 
     *   /
@@ -99157,7 +96157,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -99180,7 +96179,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -99218,7 +96216,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   67
 
     *   /
@@ -99241,7 +96238,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -99264,7 +96260,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -99287,7 +96282,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -99310,7 +96304,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   69
 
     *   /
@@ -99448,7 +96441,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -99471,7 +96463,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -99494,7 +96485,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   89
 
     *   /
@@ -99517,7 +96507,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   84
 
     *   /
@@ -99540,7 +96529,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   15
 
     *   /
@@ -99578,7 +96566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   23
 
     *   /
@@ -99601,7 +96588,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   49
 
     *   /
@@ -99624,7 +96610,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   37
 
     *   /
@@ -99647,7 +96632,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -99810,7 +96794,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   32
 
     *   /
@@ -99833,7 +96816,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   59
 
     *   /
@@ -99856,7 +96838,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   28
 
     *   /
@@ -99879,7 +96860,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -99902,7 +96882,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   67
 
     *   /
@@ -99925,7 +96904,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -99948,7 +96926,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -99971,7 +96948,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -99994,7 +96970,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   48
 
     *   /
@@ -100032,7 +97007,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -100055,7 +97029,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -100078,7 +97051,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   50
 
     *   /
@@ -100166,7 +97138,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -100189,7 +97160,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   27
 
     *   /
@@ -100212,7 +97182,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   64
 
     *   /
@@ -100235,7 +97204,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -100258,7 +97226,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -100418,6 +97385,31 @@ Die nachfolgende Liste enthält die folgenden Angaben:
     *   1975
 
 
+*    *   9229.57
+
+    *   Pechgraben
+
+    *
+    *   572
+
+    *   T
+
+    *   III
+
+    *
+    *   b
+
+    *   4
+
+    *   27
+
+    *   /
+
+    *   27
+
+    *   1975
+
+
 *    *
     *   **Lichtenfels**
 
@@ -100446,7 +97438,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Dg
 
-    *
     *   22
 
     *   /
@@ -100469,7 +97460,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   AlD
 
-    *
     *   60
 
     *   /
@@ -100532,7 +97522,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -100555,7 +97544,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   32
 
     *   /
@@ -100578,7 +97566,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -100601,7 +97588,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   45
 
     *   /
@@ -100624,7 +97610,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   65
 
     *   /
@@ -100647,7 +97632,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -100670,7 +97654,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -100693,7 +97676,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -100716,7 +97698,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   30
 
     *   /
@@ -100739,7 +97720,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   39
 
     *   /
@@ -100762,7 +97742,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   58
 
     *   /
@@ -100825,7 +97804,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   68
 
     *   /
@@ -100848,7 +97826,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   56
 
     *   /
@@ -100871,7 +97848,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   46
 
     *   /
@@ -100894,7 +97870,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   58
 
     *   /
@@ -100917,7 +97892,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   40
 
     *   /
@@ -100940,7 +97914,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -100963,7 +97936,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -100986,7 +97958,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -101009,7 +97980,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -101032,7 +98002,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   55
 
     *   /
@@ -101095,7 +98064,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   47
 
     *   /
@@ -101118,7 +98086,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   60
 
     *   /
@@ -101141,7 +98108,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   90
 
     *   /
@@ -101164,7 +98130,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   78
 
     *   /
@@ -101187,7 +98152,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   85
 
     *   /
@@ -101210,7 +98174,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   31
 
     *   /
@@ -101233,7 +98196,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   88
 
     *   /
@@ -101346,7 +98308,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   52
 
     *   /
@@ -101369,7 +98330,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   21
 
     *   /
@@ -101392,7 +98352,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -101481,7 +98440,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   50
 
     *   /
@@ -101504,7 +98462,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   56
 
     *   /
@@ -101527,7 +98484,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   51
 
     *   /
@@ -101550,7 +98506,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -101573,7 +98528,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -101596,7 +98550,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -101734,7 +98687,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   34
 
     *   /
@@ -101757,7 +98709,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   74
 
     *   /
@@ -101780,7 +98731,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -101803,7 +98753,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   82
 
     *   /
@@ -101826,7 +98775,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   77
 
     *   /
@@ -101849,7 +98797,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   50
 
     *   /
@@ -101872,7 +98819,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   26
 
     *   /
@@ -101910,7 +98856,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -101933,7 +98878,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -101956,7 +98900,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   62
 
     *   /
@@ -101979,7 +98922,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   58
 
     *   /
@@ -102002,7 +98944,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -102025,7 +98966,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   30
 
     *   /
@@ -102048,7 +98988,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -102071,7 +99010,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   61
 
     *   /
@@ -102094,7 +99032,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -102117,7 +99054,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   86
 
     *   /
@@ -102140,7 +99076,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   76
 
     *   /
@@ -102163,7 +99098,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -102186,7 +99120,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   26
 
     *   /
@@ -102209,7 +99142,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -102347,7 +99279,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   38
 
     *   /
@@ -102370,7 +99301,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -102393,7 +99323,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   27
 
     *   /
@@ -102416,7 +99345,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   51
 
     *   /
@@ -102439,7 +99367,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   33
 
     *   /
@@ -102462,7 +99389,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   37
 
     *   /
@@ -102550,7 +99476,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -102573,7 +99498,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   39
 
     *   /
@@ -102596,7 +99520,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Al
 
-    *
     *   30
 
     *   /
@@ -102619,7 +99542,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Alg
 
-    *
     *   22
 
     *   /
@@ -102642,7 +99564,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   32
 
     *   /
@@ -102665,7 +99586,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   23
 
     *   /
@@ -102688,7 +99608,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   48
 
     *   /
@@ -102711,7 +99630,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   43
 
     *   /
@@ -102800,7 +99718,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   80
 
     *   /
@@ -102823,7 +99740,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   72
 
     *   /
@@ -102846,7 +99762,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   39
 
     *   /
@@ -102869,7 +99784,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   41
 
     *   /
@@ -102892,7 +99806,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   91
 
     *   /
@@ -102915,7 +99828,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -102954,7 +99866,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   53
 
     *   /
@@ -102977,7 +99888,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   24
 
     *   /
@@ -103000,7 +99910,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   42
 
     *   /
@@ -103023,7 +99932,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   45
 
     *   /
@@ -103046,7 +99954,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   44
 
     *   /
@@ -103159,7 +100066,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   70
 
     *   /
@@ -103182,7 +100088,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   57
 
     *   /
@@ -103205,7 +100110,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   41
 
     *   /
@@ -103228,7 +100132,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Vg
 
-    *
     *   34
 
     *   /
@@ -103251,7 +100154,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   Lö
 
-    *
     *   62
 
     *   /
@@ -103274,7 +100176,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   D
 
-    *
     *   65
 
     *   /
@@ -103297,7 +100198,6 @@ Die nachfolgende Liste enthält die folgenden Angaben:
 
     *   V
 
-    *
     *   54
 
     *   /

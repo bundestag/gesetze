@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1996, 623
 
 Neugefasst durch
-:   Bek. v. 8.10.2012 I 2126
+:   Bek. v. 12.8.2020 I 1936;
+
+Zuletzt geändert durch
+:   Art. 3 Abs. 2 G v. 22.11.2020 I 2466
+
+Änderung durch
+:   Art. 16 G v. 22.11.2021 I 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Förderungsfähige Maßnahmen
@@ -33,35 +39,34 @@ Lebensunterhalt werden gewährt, soweit die dafür erforderlichen Mittel
 anderweitig nicht zur Verfügung stehen.
 
 
-### § 2 Anforderungen an Maßnahmen beruflicher Aufstiegsfortbildungen
+### § 2 Anforderungen an förderfähige Maßnahmen beruflicher Aufstiegsfortbildungen
 
 (1) Förderfähig ist die Teilnahme an Fortbildungsmaßnahmen
-öffentlicher und privater Träger, die
+öffentlicher und privater Träger, die in einer fachlichen Richtung
+gezielt auf folgende Fortbildungsziele vorbereiten:
 
-1.  einen Abschluss in einem nach § 4 des Berufsbildungsgesetzes oder nach
-    § 25 der Handwerksordnung anerkannten Ausbildungsberuf, einen
-    vergleichbaren bundes- oder landesrechtlich geregelten Berufsabschluss
-    oder eine diesen Berufsabschlüssen entsprechende berufliche
-    Qualifikation voraussetzen und
+1.  Fortbildungsabschlüsse zu öffentlich-rechtlich geregelten Prüfungen
+    auf der Grundlage
 
-
-2.  in einer fachlichen Richtung gezielt vorbereiten auf
-    (Fortbildungsziel)
-
-    a)  Fortbildungsabschlüsse zu öffentlich-rechtlich geregelten Prüfungen
-        auf der Grundlage der §§ 53 und 54 des Berufsbildungsgesetzes oder der
-        §§ 42, 42a, 45, 51a und 122 der Handwerksordnung,
+    a)  der §§ 53 bis 53d und 54 des Berufsbildungsgesetzes,
 
 
-    b)  gleichwertige Fortbildungsabschlüsse nach bundes- oder
-        landesrechtlichen Regelungen oder
+    b)  der §§ 42 bis 42d, 42f, 45 und 51a der Handwerksordnung oder
 
 
-    c)  gleichwertige Fortbildungsabschlüsse an anerkannten Ergänzungsschulen
-        auf der Grundlage staatlich genehmigter Prüfungsordnungen.
+    c)  der nach § 122 Absatz 2 bis 4 der Handwerksordnung weiter
+        anzuwendenden Prüfungsregelungen,
 
 
 
+
+
+2.  gleichwertige Fortbildungsabschlüsse nach bundes- oder
+    landesrechtlichen Regelungen oder
+
+
+3.  gleichwertige Fortbildungsabschlüsse an anerkannten Ergänzungsschulen
+    auf der Grundlage staatlich genehmigter Prüfungsordnungen.
 
 
 
@@ -71,14 +76,14 @@ gleichwertige Fortbildungsabschlüsse nach den
 Weiterbildungsempfehlungen der Deutschen Krankenhausgesellschaft
 vorbereiten.
 
-(2) Maßnahmen, deren Durchführung öffentlich-rechtlichen Vorschriften
-nicht unterliegt, müssen nach der Dauer der Maßnahme, der Gestaltung
-des Lehrplans, den Unterrichtsmethoden, der Ausbildung und
+(2) Maßnahmen, deren Durchführung nicht öffentlich-rechtlichen
+Vorschriften unterliegt, müssen nach der Dauer der Maßnahme, der
+Gestaltung des Lehrplans, den Unterrichtsmethoden, der Ausbildung und
 Berufserfahrung der Lehrkräfte und den Lehrgangsbedingungen eine
 erfolgreiche berufliche Fortbildung erwarten lassen. Dies wird in der
 Regel angenommen, sofern keine Umstände vorliegen, die der Eignung der
 Maßnahme zur Vorbereitung auf die Abschlussprüfung nach Absatz 1
-Nummer 2 entgegenstehen.
+entgegenstehen.
 
 (3) Maßnahmen sind förderfähig
 
@@ -88,11 +93,11 @@ Nummer 2 entgegenstehen.
 
 
     b)  sie innerhalb von 36 Kalendermonaten abgeschlossen werden (maximaler
-        Zeitrahmen) und
+        Vollzeit-Zeitrahmen) und
 
 
     c)  in der Regel in jeder Woche an vier Werktagen mindestens 25
-        Unterrichtsstunden stattfinden (Fortbildungsdichte);
+        Unterrichtsstunden stattfinden (Vollzeit-Fortbildungsdichte);
 
 
 
@@ -104,47 +109,63 @@ Nummer 2 entgegenstehen.
 
 
     b)  sie innerhalb von 48 Kalendermonaten abgeschlossen werden (maximaler
-        Zeitrahmen) und
+        Teilzeit-Zeitrahmen) und
 
 
-    c)  in der Regel innerhalb von acht Monaten mindestens 150
-        Unterrichtsstunden stattfinden (Fortbildungsdichte).
-
-
-
+    c)  im Durchschnitt mindestens 18 Unterrichtsstunden je Monat stattfinden
+        (Teilzeit-Fortbildungsdichte).
 
 
 
-Jeweils 45 Minuten einer Lehrveranstaltung gelten als
-Unterrichtsstunde. Unterrichtsstunden sind Präsenzlehrveranstaltungen,
-in denen die nach den Fortbildungsregelungen und Lehrplänen
-vorgesehenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten
-durch hierzu qualifizierte Lehrkräfte planmäßig geordnet vermittelt
-werden. Stunden einer fachpraktischen Unterweisung werden als
-Unterrichtsstunden anerkannt, wenn ihre Inhalte in der
-Prüfungsregelung verbindlich vorgegeben sind, sie unter Anleitung
-einer Lehrkraft in der Regel in der Fortbildungsstätte durchgeführt
-und durch theoretischen Unterricht in nennenswertem Umfang begleitet
-werden. Zusätzlich werden die im Lehrplan des Bildungsträgers
-verbindlich vorgesehenen Klausurenkurse und Prüfungssimulationen mit
-bis zu 10 Prozent der nach diesem Gesetz förderfähigen Gesamtstunden
-der Unterrichtsstunden, höchstens aber 50 Stunden, als förderfähig
-anerkannt. Förderfähig ist nur die für das Erreichen des jeweiligen
-Fortbildungsziels angemessene Anzahl von Unterrichtsstunden. Besteht
-die Maßnahme aus mehreren Maßnahmeabschnitten, ist für die Ermittlung
-des maximalen Zeitrahmens und der Fortbildungsdichte die
-Gesamtmaßnahme ausschlaggebend. Dabei sind alle Maßnahmeabschnitte der
-Lehrgangskonzeption einschließlich der dazwischen liegenden
-unterrichtsfreien Zeiten zu berücksichtigen. Die Sätze 1 bis 8 gelten
-auch für den von dem Teilnehmer oder der Teilnehmerin gewählten
-Lehrgangsablauf.
 
-(4) Die Maßnahmen können aus mehreren in sich selbstständigen
-Abschnitten (Maßnahmeabschnitte) bestehen.
 
-(5) Unterrichtsfreie Ferienzeiten gemäß § 11 Absatz 4 sowie
-individuelle Verkürzungen der Maßnahme durch Anrechnung bereits
+
+Abweichend von Satz 1 Nummer 2 Buchstabe a und b sind Maßnahmen, die
+auf Fortbildungsabschlüsse zu öffentlich-rechtlich geregelten
+Prüfungen auf Grundlage des § 53b des Berufsbildungsgesetzes oder des
+§ 42b der Handwerksordnung sowie auf gleichwertige
+Fortbildungsabschlüsse vorbereiten, in Teilzeitform förderfähig, wenn
+sie mindestens 200 Unterrichtsstunden umfassen und innerhalb von 36
+Kalendermonaten abgeschlossen werden.
+
+(4) Jeweils 45 Minuten einer Lehrveranstaltung gelten als
+Unterrichtsstunde. Förderfähige Unterrichtsstunden sind physische und
+virtuelle Präsenzlehrveranstaltungen, deren Inhalte in der
+Prüfungsregelung verbindlich vorgegeben sind. In förderfähigen
+Unterrichtsstunden müssen die nach den Fortbildungsregelungen und
+Lehrplänen vorgesehenen beruflichen Fertigkeiten, Kenntnisse und
+Fähigkeiten durch hierzu qualifizierte Lehrkräfte planmäßig geordnet
+vermittelt werden. Förderfähig ist nur die für das Erreichen des
+jeweiligen Fortbildungsziels angemessene Anzahl von
+Unterrichtsstunden. Zusätzlich werden die im Lehrplan des
+Bildungsträgers verbindlich vorgesehenen Klausurenkurse und
+Prüfungssimulationen mit bis zu 10 Prozent der nach diesem Gesetz
+förderfähigen Gesamtstunden der Unterrichtsstunden, höchstens aber 50
+Stunden, als förderfähig anerkannt.
+
+(5) Die Maßnahmen können aus mehreren selbstständigen Abschnitten
+(Maßnahmeabschnitte) bestehen. Ein Maßnahmeabschnitt liegt
+insbesondere dann vor, wenn er auf eine eigenständige Prüfung
+vorbereitet oder mit seinem Ende eine verbindliche
+Versetzungsentscheidung erfolgt. Besteht eine Maßnahme aus mehreren
+Maßnahmeabschnitten, müssen innerhalb des jeweiligen maximalen
+Zeitrahmens alle Maßnahmeabschnitte der Lehrgangskonzeption
+abgeschlossen sein. § 11 Absatz 2 gilt entsprechend. Die
+Fortbildungsdichte wird für jeden Maßnahmeabschnitt gesondert
+bestimmt.
+
+(6) Bei vollzeitschulischen Maßnahmen, die mindestens zwei
+Fachschuljahre umfassen, ist die Vollzeit-Fortbildungsdichte auch dann
+erreicht, wenn in 70 Prozent der Wochen eines Maßnahmeabschnitts an
+vier Werktagen mindestens 25 Unterrichtsstunden stattfinden.
+Ferienwochen zusammenhängender Ferienabschnitte mit mindestens zwei
+Ferientagen bleiben bei vollzeitschulischen Maßnahmen außer Betracht.
+
+(7) Individuelle Verkürzungen der Maßnahme durch Anrechnung bereits
 absolvierter Aus- oder Fortbildungen bleiben außer Betracht.
+
+(8) Die Absätze 3 bis 7 gelten auch für den von dem Teilnehmer oder
+der Teilnehmerin gewählten Lehrgangsablauf.
 
 
 ### § 2a Anforderungen an Träger der Maßnahmen
@@ -155,8 +176,8 @@ oder eine Einrichtung handelt, die unter staatlicher Aufsicht steht
 oder staatlich anerkannt ist, oder durch ein Zertifikat nachgewiesen
 wird, dass der Träger oder die Einrichtung
 
-1.  nach der Anerkennungs- und Zulassungsverordnung – Weiterbildung –
-    anerkannt worden ist oder
+1.  nach der Akkreditierungs- und Zulassungsverordnung Arbeitsförderung
+    vom 2. April 2012 (BGBl. I S. 504) anerkannt worden ist oder
 
 
 2.  ein System zur Sicherung der Qualität anwendet und
@@ -172,8 +193,12 @@ oder der Einrichtung entgegenstehen.
 Die Teilnahme an einer Maßnahme wird nach diesem Gesetz nicht
 gefördert, wenn
 
-1.  für sie Ausbildungsförderung nach dem
-    Bundesausbildungsförderungsgesetz geleistet wird,
+1.  für den beantragten Bewilligungszeitraum bereits Leistungen nach dem
+    Bundesausbildungsförderungsgesetz bewilligt worden sind, es sei denn,
+    der Teilnehmer oder die Teilnehmerin hat für den Bewilligungszeitraum
+    noch keine Leistungen nach dem Bundesausbildungsförderungsgesetz
+    erhalten und hat für diesen Bewilligungszeitraum auf Leistungen nach
+    dem Bundesausbildungsförderungsgesetz verzichtet,
 
 
 2.  für sie Arbeitslosengeld bei beruflicher Weiterbildung nach dem
@@ -183,9 +208,7 @@ gefördert, wenn
 
 3.  Arbeitslosengeld bei Arbeitslosigkeit nach dem Dritten Buch
     Sozialgesetzbuch geleistet wird und es sich um eine Maßnahme in
-    Vollzeitform handelt, es sei denn, die Agentur für Arbeit hat mit dem
-    Teilnehmer oder der Teilnehmerin vereinbart, dass die Maßnahme
-    abgeschlossen werden kann,
+    Vollzeitform handelt,
 
 
 4.  ein Gründungszuschuss nach den §§ 93 und 94 des Dritten Buches
@@ -205,37 +228,38 @@ Dritten Buch Sozialgesetzbuch für Personen ohne Vorbeschäftigungszeit
 übernommen werden.
 
 
-### § 4 Fernunterricht
+### § 4 Fernunterrichtslehrgänge
 
-Die Teilnahme an einem Fernunterrichtslehrgang ist förderfähig, wenn
-der Lehrgang nach § 12 des Fernunterrichtsschutzgesetzes zugelassen
-ist oder, ohne unter die Bestimmungen des
-Fernunterrichtsschutzgesetzes zu fallen, von einem öffentlich-
-rechtlichen Träger veranstaltet wird und die Voraussetzungen des § 2
-erfüllt werden. Die Mindestdauer nach § 2 Absatz 3 und die
-Förderungshöchstdauer nach § 11 Absatz 1 sind nach der Anzahl der
-durchschnittlich für die Bearbeitung der Fernlehrbriefe benötigten
-Zeitstunden und der Anzahl der für Präsenzphasen vorgesehenen
-Unterrichtsstunden zu bemessen.
+Förderung als Teilzeitmaßnahme wird für die Teilnahme an einem
+Fernunterrichtslehrgang geleistet, wenn der Lehrgang nach § 12 des
+Fernunterrichtsschutzgesetzes zugelassen ist oder, ohne unter die
+Bestimmungen des Fernunterrichtsschutzgesetzes zu fallen, von einem
+öffentlich-rechtlichen Träger veranstaltet wird und die
+Voraussetzungen des § 2 erfüllt werden. Die Mindestdauer nach § 2
+Absatz 3 und die Förderungshöchstdauer nach § 11 Absatz 1 und 2 sind
+nach der Anzahl der durchschnittlich für die Bearbeitung der
+Fernlehrbriefe benötigten Zeitstunden und der Anzahl der für
+Präsenzphasen vorgesehenen Unterrichtsstunden zu bemessen.
 
 
-### § 4a Mediengestützter Unterricht
+### § 4a Mediengestützte Lehrgänge
 
-Eine Maßnahme, die teilweise unter Einsatz elektronischer Medien
-durchgeführt wird und die nicht als Fernunterricht nach § 12 des
-Fernunterrichtsschutzgesetzes zulassungspflichtig ist, wird gefördert,
-wenn sie durch Präsenzunterricht oder eine diesem vergleichbare und
-verbindliche mediengestützte Kommunikation ergänzt wird und
-regelmäßige Erfolgskontrollen durchgeführt werden. Unter
-mediengestützter Kommunikation sind alle mit einem Präsenzunterricht
-vergleichbaren Unterrichtsformen sowie Unterrichtsformen zu verstehen,
-die auf einer Online-Lernplattform abgewickelt werden, bei der der
+(1) Eine Maßnahme, die teilweise unter Einsatz mediengestützter
+Kommunikation durchgeführt wird und die nicht als Fernunterricht nach
+§ 12 des Fernunterrichtsschutzgesetzes zulassungspflichtig ist, wird
+gefördert, wenn sie durch Präsenzunterricht ergänzt wird und
+regelmäßige Leistungskontrollen durchgeführt werden.
+
+(2) Zu mediengestützter Kommunikation zählen Unterrichtsformen, die
+auf einer Online-Lernplattform durchgeführt werden und bei denen der
 Lernprozess von der Lehrkraft aktiv gesteuert und der Lernfortschritt
-von ihr regelmäßig kontrolliert wird. Die Mindestdauer nach § 2 Absatz
-3 und die Förderungshöchstdauer nach § 11 Absatz 1 bemessen sich in
-diesen Fällen nach der Anzahl der für den Präsenzunterricht und den
-für die mediengestützte Kommunikation vorgesehenen Unterrichtsstunden
-im Sinne des § 2 Absatz 3.
+regelmäßig von ihr kontrolliert wird.
+
+(3) Die Mindestdauer nach § 2 Absatz 3 und die Förderungshöchstdauer
+nach § 11 Absatz 1 und 2 bemessen sich bei diesen Maßnahmen nach der
+Anzahl der Unterrichtsstunden, die für den Präsenzunterricht
+vorgesehen sind, zuzüglich der Anzahl der Stunden, die für die
+mediengestützte Kommunikation vorgesehen sind.
 
 
 ### § 5 Fortbildung im In- und Ausland
@@ -252,60 +276,60 @@ zuständigen Stellen durchgeführt wird.
 
 ### § 6 Förderfähige Fortbildung, Fortbildungsplan
 
-(1) Förderung wird vorbehaltlich Absatz 3 nur für die gezielte
-Vorbereitung auf ein Fortbildungsziel im Sinne von § 2 Absatz 1 Nummer
-2 und nur für die Teilnahme an einer einzigen Maßnahme im Sinne dieses
-Gesetzes geleistet. Förderung wird nicht geleistet, wenn der
-Antragsteller oder die Antragstellerin bereits einen staatlichen oder
-staatlich anerkannten Hochschulabschluss oder einen nach dem
-Hochschulrecht der Länder als gleichwertig anerkannten sonstigen
-Abschluss erworben hat. Bereits vorhandene privatrechtlich
-zertifizierte Fortbildungsabschlüsse stehen einer Förderung nicht
-entgegen. Besteht die Maßnahme aus mehreren Abschnitten
-(Maßnahmeabschnitte), sind diese im ersten Förderantrag in einem
-Fortbildungsplan anzugeben. In den Fällen des Satzes 4 umfasst die
-Förderung vorbehaltlich § 2 Absatz 3 alle Maßnahmeabschnitte, die als
-Teile der im Fortbildungsplan genannten Fortbildungsprüfung anerkannt
-werden. Es können auch Maßnahmeabschnitte, die mit einer
-eigenständigen Prüfung abschließen, gefördert werden, wenn sie
-zugleich zur Befreiung von einem oder mehreren Teilen der im
-Fortbildungsplan genannten Fortbildungsprüfung eines glaubhaft
-gemachten übergeordneten Fortbildungsziels führen.
+(1) Förderung wird für die gezielte Vorbereitung auf Fortbildungsziele
+im Sinne von § 2 Absatz 1 und für die Teilnahme an Maßnahmen im Sinne
+dieses Gesetzes geleistet.
 
-(2) Die Teilnahme an einem Maßnahmeabschnitt, der von dem
-Fortbildungsplan abweicht, wird nur gefördert, wenn er
+(2) Wurde bereits ein Fortbildungsziel im Sinne von § 2 Absatz 1
+gefördert, so wird die Vorbereitung auf ein weiteres Fortbildungsziel
+im Sinne von § 2 Absatz 1 gefördert, wenn das angestrebte
+Fortbildungsziel auf dem bereits erreichten Fortbildungsziel aufbaut.
+Dies ist insbesondere dann gegeben, wenn ein Fortbildungsziel auf der
+nächsten Fortbildungsstufe im Sinne des § 53a des
+Berufsbildungsgesetzes oder des § 42a der Handwerksordnung angestrebt
+wird.
+
+(3) Abweichend von Absatz 2 kann die Vorbereitung auf ein weiteres
+Fortbildungsziel auch dann gefördert werden, wenn besondere Umstände
+des Einzelfalls dies rechtfertigen. Besondere Umstände sind
+insbesondere dann gegeben, wenn ein wichtiger Grund der Ausübung
+desjenigen Berufs entgegensteht, zu dem die zuletzt nach diesem Gesetz
+geförderte Fortbildung qualifiziert hat, oder wenn das weitere
+Fortbildungsziel für die Berufsausübung in fachlicher Hinsicht
+erforderlich ist.
+
+(4) Besteht eine Maßnahme aus mehreren Maßnahmeabschnitten, so sind
+diese im ersten Förderantrag in einem Fortbildungsplan anzugeben. In
+den Fällen des Satzes 1 umfasst die Förderung vorbehaltlich des § 2
+Absatz 3 alle Maßnahmeabschnitte, die als Teile der im
+Fortbildungsplan genannten Fortbildungsprüfung anerkannt werden. Es
+können auch Maßnahmeabschnitte, die mit einer eigenständigen
+Fortbildungsprüfung abschließen, gefördert werden, wenn sie zugleich
+zur Befreiung von einem oder mehreren Teilen der im Fortbildungsplan
+genannten Fortbildungsprüfung eines übergeordneten Fortbildungsziels
+führen.
+
+(5) Die Teilnahme an einem Maßnahmeabschnitt, der von dem
+Fortbildungsplan abweicht, wird nur gefördert, wenn der
+Maßnahmeabschnitt
 
 1.  inhaltlich einem im Fortbildungsplan angegebenen Maßnahmeabschnitt
-    entspricht,
+    entspricht oder
 
 
-2.  eine sinnvolle Ergänzung des Fortbildungsplans darstellt oder
-
-
-3.  einen im Fortbildungsplan angegebenen Maßnahmeabschnitt, der nicht
+2.  einen im Fortbildungsplan angegebenen Maßnahmeabschnitt, der nicht
     mehr angeboten wird, weitgehend ersetzt
 
 
 
 und die geänderte Gesamtmaßnahme weiterhin die Fördervoraussetzungen
 des § 2 Absatz 3 erfüllt und die Förderungshöchstdauer nach § 11
-Absatz 1 nicht überschritten wird.
-
-(3) Die Vorbereitung auf ein weiteres Fortbildungsziel im Sinne von §
-2 Absatz 1 Nummer 2 wird gefördert, wenn dem Teilnehmer oder der
-Teilnehmerin der Zugang erst durch den erfolgreichen Abschluss der
-nach diesem Gesetz geförderten Maßnahme eröffnet worden ist.
-Abweichend von Satz 1 kann die Vorbereitung auf ein weiteres
-Fortbildungsziel auch dann gefördert werden, wenn besondere Umstände
-des Einzelfalls dies rechtfertigen. Besondere Umstände des Einzelfalls
-sind insbesondere dann gegeben, wenn ein wichtiger Grund der Ausübung
-des Berufs entgegensteht, zu dem die erste Fortbildung qualifiziert
-hat.
+Absatz 1 und 2 nicht überschritten wird.
 
 
 ### § 7 Kündigung, Abbruch, Unterbrechung und Wiederholung
 
-(1) Abweichend von § 11 Absatz 2 Satz 2 endet die Förderung, wenn die
+(1) Abweichend von § 11 Absatz 3 Satz 2 endet die Förderung, wenn die
 Maßnahme vor dem Ablauf der vertraglichen Dauer vom Teilnehmer oder
 der Teilnehmerin abgebrochen oder vom Träger gekündigt wurde.
 
@@ -326,12 +350,18 @@ bei Wiederaufnahme fortgesetzt. Während der Unterbrechungsphase
 besteht vorbehaltlich Absatz 4 Satz 1 kein Anspruch auf Förderung.
 
 (4) Solange die Teilnahme an der Maßnahme wegen Krankheit oder
-Schwangerschaft nicht möglich ist, wird die Förderung bei Krankheit
+Schwangerschaft unterbrochen wird, wird die Förderung bei Krankheit
 bis zu drei Monate und bei Schwangerschaft bis zu vier Monate
 weitergeleistet. Solange die Fortsetzung einer Maßnahme durch von dem
 Teilnehmer oder der Teilnehmerin nicht zu vertretende Wartezeiten, die
-die Ferienzeiten nach § 11 Absatz 4 überschreiten, nicht möglich ist,
-gilt die Maßnahme als unterbrochen.
+acht Wochen überschreiten, nicht möglich ist, gilt die Maßnahme als
+unterbrochen.
+
+(4a) Der Abbruch oder die Unterbrechung einer Maßnahme aus wichtigem
+Grund bedürfen der ausdrücklichen Erklärung. Die Erklärung wirkt nur
+insoweit auf einen vor dem Eingang bei der zuständigen Behörde
+liegenden Zeitpunkt zurück, wie sie ohne schuldhaftes Zögern erfolgt
+ist.
 
 (5) Die Wiederholung einer gesamten Maßnahme wird nur einmal
 gefördert, wenn
@@ -340,16 +370,16 @@ gefördert, wenn
 
 
 2.  eine zumutbare Möglichkeit nicht besteht, Fortbildungsstoff im Rahmen
-    einer Verlängerung der Förderungshöchstdauer nach § 11 Absatz 1 Satz 2
+    einer Verlängerung der Förderungshöchstdauer nach § 11 Absatz 2 Satz 1
     nachzuholen.
 
 
 
 
 (6) In den Fällen der Absätze 2 und 5 sollen bereits absolvierte
-Maßnahmeteile berücksichtigt werden.
+Maßnahmeabschnitte berücksichtigt werden.
 
-(7) Die Absätze 1, 2, 4 und 5 gelten für Maßnahmeabschnitte
+(7) Die Absätze 1, 2, 4, 4a und 5 gelten für Maßnahmeabschnitte
 entsprechend.
 
 (8) Wechselt der Teilnehmer oder die Teilnehmerin unter Beibehaltung
@@ -375,7 +405,7 @@ Absätze 5 bis 7 entsprechend.
 
 
 3.  Ehegatten, Lebenspartnern und Kindern von Unionsbürgern, die unter den
-    Voraussetzungen des § 3 Absatz 1 und 4 des Freizügigkeitsgesetzes/EU
+    Voraussetzungen des § 3 Absatz 1 und 3 des Freizügigkeitsgesetzes/EU
     gemeinschaftsrechtlich freizügigkeitsberechtigt sind oder denen diese
     Rechte als Kinder nur deshalb nicht zustehen, weil sie 21 Jahre oder
     älter sind und von ihren Eltern oder deren Ehegatten oder
@@ -417,23 +447,28 @@ Absätze 5 bis 7 entsprechend.
 (2) Anderen Ausländern wird Förderung geleistet, wenn sie ihren
 ständigen Wohnsitz im Inland haben und
 
-1.  eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1 oder 2, den §§
-    23a, 25 Absatz 1 oder 2, den §§ 25a, 28, 37, 38 Absatz 1 Nummer 2, §
-    104a oder als Ehegatte, Lebenspartner oder Kind eines Ausländers mit
-    Niederlassungserlaubnis eine Aufenthaltserlaubnis nach § 30 oder den
-    §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
+1.  eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1, 2 oder 4, den
+    §§ 23a, 25 Absatz 1 oder 2, den §§ 25a, 25b, 28, 37, 38 Absatz 1
+    Nummer 2, § 104a oder als Ehegatte, Lebenspartner oder Kind eines
+    Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach
+    § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
 
 
 2.  eine Aufenthaltserlaubnis nach § 25 Absatz 3, 4 Satz 2 oder Absatz 5,
     § 31 des Aufenthaltsgesetzes oder als Ehegatte, Lebenspartner oder
     Kind eines Ausländers mit Aufenthaltserlaubnis eine
-    Aufenthaltserlaubnis nach § 30 oder den §§ 32 bis 34 des
-    Aufenthaltsgesetzes besitzen und sich seit mindestens vier Jahren in
+    Aufenthaltserlaubnis nach § 30, den §§ 32 bis 34 oder § 36a des
+    Aufenthaltsgesetzes besitzen und sich seit mindestens 15 Monaten in
     Deutschland ununterbrochen rechtmäßig, gestattet oder geduldet
     aufhalten.
 
 
 
+
+(2a) Geduldeten Ausländern (§ 60a des Aufenthaltsgesetzes), die ihren
+ständigen Wohnsitz im Inland haben, wird Förderung geleistet, wenn sie
+sich seit mindestens 15 Monaten ununterbrochen rechtmäßig, gestattet
+oder geduldet im Bundesgebiet aufhalten.
 
 (3) Im Übrigen wird Ausländern Förderung geleistet, wenn sie selbst
 sich vor Beginn der Maßnahme insgesamt drei Jahre im Inland
@@ -460,23 +495,87 @@ sich weiterhin rechtmäßig in Deutschland aufhalten.
 Förderung zu leisten ist, bleiben unberührt.
 
 
-### § 9 Eignung
+### § 9 Vorqualifikation der Teilnehmer und Teilnehmerinnen
 
-Die Leistungen des Teilnehmers oder der Teilnehmerin müssen erwarten
-lassen, dass die Maßnahme erfolgreich abgeschlossen werden kann. Dies
-wird in der Regel angenommen, solange er oder sie regelmäßig an der
-Maßnahme teilnimmt, die Maßnahme zügig und ohne Unterbrechung
-absolviert und er oder sie sich um einen erfolgreichen Abschluss
-bemüht. Er oder sie muss bis zum letzten Unterrichtstag der Maßnahme
-die Voraussetzungen für die Zulassung zur Prüfung erfüllen können. Der
-Teilnehmer oder die Teilnehmerin ist verpflichtet, nach der Hälfte der
-Laufzeit der Maßnahme, spätestens nach sechs Monaten, einen Nachweis
-des Bildungsträgers über die regelmäßige Teilnahme an der Maßnahme zu
-erbringen. Bei längeren Maßnahmen, Maßnahmen mit mehreren
-Maßnahmeabschnitten oder in besonderen Fällen können darüber hinaus
-weitere Teilnahmenachweise gefordert werden. Die Förderung wird
-insoweit unter dem Vorbehalt der Einstellung und Rückforderung
-geleistet.
+(1) Der Teilnehmer oder die Teilnehmerin muss vor Beginn der Maßnahme
+über die nach der jeweiligen Fortbildungsordnung für die
+Prüfungszulassung erforderliche berufliche Vorqualifikation verfügen.
+
+(2) Förderung wird auch geleistet, wenn ein Abschluss, der für die
+Zulassung zur Prüfung nach der jeweiligen Fortbildungsordnung
+erforderlich ist, im Rahmen eines strukturierten, von der zuständigen
+Prüfstelle anerkannten Programmes bis zum letzten Unterrichtstag einer
+im Übrigen förderfähigen Maßnahme erworben werden soll. Besteht die
+Maßnahme aus mehreren Maßnahmeabschnitten, muss der Abschluss bis zum
+letzten Unterrichtstag des ersten Maßnahmeabschnitts erworben werden.
+Es genügt bei mehreren Maßnahmeabschnitten der Erwerb vor Beginn des
+zweiten Maßnahmeabschnitts, wenn der erforderliche Abschluss durch die
+Prüfung über den ersten Maßnahmeabschnitt erworben wird. Ein Abschluss
+im Sinne des Satzes 1 ist:
+
+1.  ein Abschluss in einem nach § 4 des Berufsbildungsgesetzes oder nach §
+    25 der Handwerksordnung anerkannten Ausbildungsberuf oder in einem
+    vergleichbaren bundes- oder landesrechtlich geregelten Beruf oder
+
+
+2.  ein Fortbildungsabschluss im Sinne des § 2 Absatz 1.
+
+
+
+Die Förderung wird hinsichtlich des nach Satz 1 zu erwerbenden
+Abschlusses unter dem Vorbehalt der Einstellung und Rückforderung
+geleistet. Vor dem Erwerb eines für die Prüfungszulassung
+erforderlichen Abschlusses nach Satz 4 Nummer 1 ist eine Förderung mit
+einem Unterhaltsbeitrag nach § 10 Absatz 2 ausgeschlossen.
+
+(3) Förderung wird auch geleistet, wenn die Berufspraxis, die für die
+Prüfungszulassung zusätzlich zu einem Abschluss erforderlich ist, noch
+bis zum letzten Unterrichtstag der Maßnahme erworben werden kann und
+die konkrete Möglichkeit hierzu nachgewiesen wird.
+
+(4) Förderung wird auch geleistet, wenn der Teilnehmer oder die
+Teilnehmerin bei Antragstellung als höchsten Hochschulabschluss
+bereits über einen Bachelorabschluss oder einen diesem vergleichbaren
+Hochschulabschluss verfügt. Förderung wird nicht geleistet, wenn der
+Teilnehmer oder die Teilnehmerin bereits einen staatlichen oder
+staatlich anerkannten höheren Hochschulabschluss als die in Satz 1
+genannten oder einen nach dem Hochschulrecht der Länder als
+gleichwertig anerkannten sonstigen Abschluss erworben hat. Die
+Förderung endet mit Ablauf des Monats des Erwerbs eines höheren
+Hochschulabschlusses, wenn dieser vor dem letzten Unterrichtstag der
+Fortbildungsmaßnahme erworben wird.
+
+(5) Bereits erworbene privatrechtlich zertifizierte
+Fortbildungsabschlüsse stehen einer Förderung nicht entgegen.
+
+
+### § 9a Regelmäßige Teilnahme; Teilnahmenachweis
+
+(1) Der Teilnehmer oder die Teilnehmerin hat regelmäßig an der
+geförderten Maßnahme teilzunehmen. Die Leistungen des Teilnehmers oder
+der Teilnehmerin müssen erwarten lassen, dass er oder sie die Maßnahme
+erfolgreich abschließt. Dies wird in der Regel angenommen, solange er
+oder sie die Maßnahme zügig und ohne Unterbrechung absolviert und er
+oder sie sich um einen erfolgreichen Abschluss bemüht. Eine
+regelmäßige Teilnahme liegt vor, wenn die Teilnahme an 70 Prozent der
+Präsenzstunden und bei Fernunterrichtslehrgängen (§ 4) oder bei
+mediengestützten Lehrgängen (§ 4a) an 70 Prozent der
+Leistungskontrollen nachgewiesen wird. Die Förderung wird hinsichtlich
+der regelmäßigen Teilnahme an der Maßnahme unter dem Vorbehalt der
+Einstellung und Rückforderung geleistet.
+
+(2) Der Teilnehmer oder die Teilnehmerin hat sechs Monate nach Beginn,
+zum Ende und bei Abbruch der Maßnahme einen Nachweis des
+Bildungsträgers über die regelmäßige Teilnahme vorzulegen. Bei
+längeren Maßnahmen, bei Maßnahmen mit mehreren Maßnahmeabschnitten
+oder in besonderen Fällen können darüber hinaus weitere
+Teilnahmenachweise gefordert werden.
+
+(3) Der Teilnehmer oder die Teilnehmerin hat bei
+Fernunterrichtslehrgängen (§ 4) oder bei mediengestützten Lehrgängen
+(§ 4a) die regelmäßige Teilnahme am Präsenzunterricht und die
+regelmäßige Bearbeitung der bei solchen Maßnahmen regelmäßig
+durchzuführenden Leistungskontrollen nachzuweisen.
 
 
 ## Dritter Abschnitt - Leistungen
@@ -496,58 +595,71 @@ Nummer 1 wird darüber hinaus ein Beitrag zur Deckung des
 Unterhaltsbedarfs (Unterhaltsbeitrag) geleistet. Als monatlicher
 Unterhaltsbedarf gilt für einen Teilnehmer oder eine Teilnehmerin der
 Bedarfssatz nach § 13 Absatz 1 Nummer 1 und Absatz 2 Nummer 2 und §
-13a des Bundesausbildungsförderungsgesetzes. § 13 Absatz 3 des
-Bundesausbildungsförderungsgesetzes ist entsprechend anzuwenden. Der
-Unterhaltsbedarf erhöht sich für den Teilnehmer oder die Teilnehmerin
-um 52 Euro, für den jeweiligen Ehegatten oder Lebenspartner um 215
-Euro und für jedes Kind, für das er oder sie einen Anspruch auf
-Kindergeld nach dem Einkommensteuergesetz oder dem
-Bundeskindergeldgesetz hat, um 210 Euro. Auf den Unterhaltsbedarf sind
-Einkommen und Vermögen des Antragstellers oder der Antragstellerin und
-Einkommen des jeweiligen Ehegatten oder Lebenspartners in dieser
-Reihenfolge anzurechnen.
+13a des Bundesausbildungsförderungsgesetzes. Der Unterhaltsbedarf
+erhöht sich für den Teilnehmer oder die Teilnehmerin um 60 Euro, für
+den jeweiligen Ehegatten oder Lebenspartner um 235 Euro und für jedes
+Kind, für das er oder sie einen Anspruch auf Kindergeld nach dem
+Einkommensteuergesetz oder dem Bundeskindergeldgesetz hat, um 235
+Euro. Auf den Unterhaltsbedarf sind Einkommen und Vermögen des
+Antragstellers oder der Antragstellerin und Einkommen des jeweiligen
+Ehegatten oder Lebenspartners in dieser Reihenfolge anzurechnen.
 
 (3) Alleinerziehende, die in einem Haushalt mit Kindern, die das
-zehnte Lebensjahr noch nicht vollendet haben, oder mit behinderten
+vierzehnte Lebensjahr noch nicht vollendet haben, oder mit behinderten
 Kindern leben, erhalten bei Voll- und Teilzeitmaßnahmen bis zum Ablauf
 des Monats, in dem planmäßig der letzte Unterricht abgehalten wird,
-einen Kinderbetreuungszuschlag in Höhe von 113 Euro für jeden Monat je
+einen Kinderbetreuungszuschlag in Höhe von 150 Euro für jeden Monat je
 Kind.
 
 
 ### § 11 Förderungsdauer
 
 (1) Eine Teilnahme an Maßnahmen in Vollzeitform wird bis zur Dauer von
-24 Kalendermonaten, in Teilzeitform bis zur Dauer von 48
-Kalendermonaten gefördert (Förderungshöchstdauer). Abweichend von Satz
-1 wird die Förderungshöchstdauer angemessen verlängert, soweit
+24 Kalendermonaten, in Teilzeitform nach § 2 Absatz 3 Satz 1 Nummer 2
+bis zur Dauer von 48 Kalendermonaten und in Teilzeitform nach § 2
+Absatz 3 Satz 2 bis zur Dauer von 36 Kalendermonaten gefördert
+(Förderungshöchstdauer).
 
-1.  eine Schwangerschaft, die Erziehung und Pflege eines Kindes bis zur
-    Vollendung des zehnten Lebensjahres, die Betreuung eines behinderten
-    Kindes, eine Behinderung oder schwere Krankheit des Teilnehmers oder
-    der Teilnehmerin, die Pflege eines im Sinne der §§ 14 und 15 Absatz 1
-    Nummer 2 und 3 des Elften Buches Sozialgesetzbuch pflegebedürftigen,
-    in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten
-    nahen Angehörigen, die nicht von einem oder einer anderen im Haushalt
-    lebenden Angehörigen übernommen werden kann, oder
+(2) Abweichend von Absatz 1 wird die Förderungshöchstdauer angemessen
+verlängert, sofern
 
+1.  dies gerechtfertigt ist durch
 
-2.  andere besondere Umstände des Einzelfalles
+    a)  eine Schwangerschaft,
 
 
+    b)  die Erziehung und Pflege eines Kindes bis zur Vollendung des
+        vierzehnten Lebensjahres,
 
-dies rechtfertigen oder
+
+    c)  die Betreuung eines behinderten Kindes,
+
+
+    d)  eine Behinderung oder schwere Krankheit des Teilnehmers oder der
+        Teilnehmerin,
+
+
+    e)  die Pflege eines oder einer pflegebedürftigen nahen Angehörigen nach §
+        7 Absatz 3 des Pflegezeitgesetzes, der oder die nach den §§ 14 und 15
+        des Elften Buches Sozialgesetzbuch mindestens in den Pflegegrad 3
+        eingestuft ist,
+
+
+
+
+
+2.  andere besondere Umstände des Einzelfalles dies rechtfertigen oder
+
 
 3.  die längere Dauer der Vorbereitung auf das Fortbildungsziel rechtlich
     vorgeschrieben ist.
 
 
 
-In den Fällen des Satzes 2 Nummer 1 und 2 darf die
-Förderungshöchstdauer längstens um zwölf Kalendermonate verlängert
-werden.
+In den Fällen der Nummern 1 und 2 darf die Förderungshöchstdauer
+längstens um zwölf Kalendermonate verlängert werden.
 
-(2) Der Unterhaltsbeitrag und der Kinderbetreuungszuschlag werden von
+(3) Der Unterhaltsbeitrag und der Kinderbetreuungszuschlag werden von
 Beginn des Monats an geleistet, in dem mit dem Unterricht tatsächlich
 begonnen wird, frühestens jedoch vom Beginn des Antragsmonats an.
 Diese Leistungen enden mit Ablauf des Monats, in dem planmäßig der
@@ -557,12 +669,9 @@ werden diese Leistungen auf Antrag bis zum Ablauf des Monats gewährt,
 in dem der letzte Prüfungstag liegt, jedoch höchstens für drei weitere
 Monate (Prüfungsvorbereitungsphase).
 
-(3) Liegt bei Maßnahmen in Vollzeitform zwischen dem Ende eines
-Abschnitts und dem Beginn eines anderen nur ein Monat, so gilt der
-neue Abschnitt als bereits zu Beginn dieses Monats aufgenommen.
-
-(4) Die Förderungsdauer umfasst bei Maßnahmen in Vollzeitform auch
-Ferienzeiten bis zu 77 Ferienwerktagen im Maßnahmejahr.
+(4) Liegt bei Maßnahmen in Vollzeitform zwischen zwei
+Maßnahmeabschnitten nur ein Monat, so gilt der neue Abschnitt als
+bereits zu Beginn dieses Monats aufgenommen.
 
 
 ### § 12 Förderungsart
@@ -571,37 +680,31 @@ Ferienzeiten bis zu 77 Ferienwerktagen im Maßnahmejahr.
 auf
 
 1.  Förderung der Lehrgangs- und Prüfungsgebühren bis zu einem
-    Gesamtbetrag von 10 226 Euro und
+    Gesamtbetrag von 15 000 Euro und
 
 
 2.  Förderung der Erstellung der fachpraktischen Arbeit in der
     Meisterprüfung des Handwerks sowie vergleichbarer Arbeiten in anderen
-    Wirtschaftsbereichen bis zur Hälfte der notwendigen Kosten, höchstens
-    jedoch bis zu einem Gesamtbetrag von 1 534 Euro.
+    Wirtschaftsbereichen bis zur Hälfte der notwendigen dem Teilnehmer
+    oder der Teilnehmerin entstandenen Materialkosten, höchstens jedoch
+    bis zu einem Gesamtbetrag von 2 000 Euro.
 
 
 
-Der Maßnahmebeitrag nach Satz 1 Nummer 1 wird in Höhe von 30,5 Prozent
-als Zuschuss geleistet. Darüber hinaus besteht der Maßnahmebeitrag
+Der Maßnahmebeitrag nach Satz 1 wird in Höhe von 50 Prozent als
+Zuschuss geleistet. Darüber hinaus besteht der Maßnahmebeitrag
 vorbehaltlich Absatz 4 aus einem Anspruch auf Abschluss eines
 Darlehensvertrags mit der Kreditanstalt für Wiederaufbau nach Maßgabe
 des § 13.
 
-(2) Der Zuschussanteil am Unterhaltsbeitrag beträgt 44 Prozent. Dabei
-bleiben die Erhöhungsbeträge nach § 10 Absatz 2 sowie ein
-Pauschalbetrag in Höhe von 103 Euro außer Betracht. Der
-Erhöhungsbetrag für jedes Kind nach § 10 Absatz 2 Satz 4 wird zur
-Hälfte und der Kinderbetreuungszuschlag nach § 10 Absatz 3 in voller
-Höhe als Zuschuss geleistet. Die Zuschüsse nach den Sätzen 1 bis 3
-werden bis zum Ablauf des Monats, in dem planmäßig der letzte
-Unterricht abgehalten wird, gewährt. Im Übrigen besteht vorbehaltlich
-Absatz 4 ein Anspruch auf Abschluss eines Darlehensvertrags mit der
-Kreditanstalt für Wiederaufbau nach Maßgabe des § 13. Abweichend von
-den Sätzen 1 bis 5 wird der Unterhaltsbeitrag in den Fällen des § 11
-Absatz 1 Nummer 1 für den Zeitraum, um den die Förderungshöchstdauer
-verlängert worden ist, in voller Höhe als Zuschuss geleistet.
+(2) Der Unterhaltsbeitrag nach § 10 Absatz 2 Satz 1 einschließlich der
+in § 10 Absatz 2 Satz 3 genannten Erhöhungsbeträge wird ebenso wie der
+Kinderbetreuungszuschlag nach § 10 Absatz 3 in voller Höhe als
+Zuschuss geleistet. Die Zuschüsse nach Satz 1 werden bis zum Ablauf
+desjenigen Monats gewährt, in dem planmäßig der letzte Unterrichtstag
+abgehalten wird.
 
-(3) Während der Prüfungsvorbereitungsphase nach § 11 Absatz 2 Satz 2
+(3) Während der Prüfungsvorbereitungsphase nach § 11 Absatz 3 Satz 2
 zweiter Halbsatz besteht für den Unterhaltsbeitrag einschließlich der
 Erhöhungsbeträge sowie für den Kinderbetreuungszuschlag vorbehaltlich
 Absatz 4 ein Anspruch auf Abschluss eines Darlehensvertrags mit der
@@ -655,19 +758,13 @@ anschließenden Karenzzeit von zwei Jahren, längstens jedoch während
 eines Zeitraums von sechs Jahren, für den Darlehensnehmer oder die
 Darlehensnehmerin zins- und tilgungsfrei.
 
-(4) Das Darlehen nach § 12 Absatz 2 ist bis zu der im Bescheid
-angegebenen Höhe unbar monatlich im Voraus zu zahlen. Abweichend von
-Satz 1 werden Darlehen bis zu 30 Euro monatlich für den
-Bewilligungszeitraum in einem Betrag im Voraus gezahlt.
-Darlehensbeträge für bereits abgelaufene Monate sind mit dem für den
-nächsten Monat fälligen Betrag, sonst unverzüglich, zu zahlen. Das
-Darlehen nach § 12 Absatz 1 ist mit Ausnahme der Kosten für die
-Prüfungsgebühr bis zu der im Bescheid angegebenen Höhe, in der Regel
-höchstens bis zu einem Betrag von 4 000 Euro unbar in einem Betrag zu
-zahlen. Die Erstattung der Prüfungsgebühr erfolgt nach Maßgabe des §
-24 Absatz 1 Satz 4. Über die Auszahlung höherer Darlehen trifft die
-Kreditanstalt für Wiederaufbau mit dem Darlehensnehmer oder der
-Darlehensnehmerin eine Vereinbarung unter Berücksichtigung der
+(4) Das Darlehen nach § 12 Absatz 1 ist mit Ausnahme der Kosten für
+die Prüfungsgebühr bis zu der im Bescheid angegebenen Höhe, in der
+Regel höchstens bis zu einem Betrag von 4 000 Euro unbar in einem
+Betrag zu zahlen. Die Erstattung der Prüfungsgebühr erfolgt nach
+Maßgabe des § 24 Absatz 1 Satz 4. Über die Auszahlung höherer Darlehen
+trifft die Kreditanstalt für Wiederaufbau mit dem Darlehensnehmer oder
+der Darlehensnehmerin eine Vereinbarung unter Berücksichtigung der
 Fälligkeit der Lehrgangsgebühren.
 
 (5) Das Darlehen ist nach Ablauf der Karenzzeit innerhalb von zehn
@@ -681,8 +778,7 @@ monatlicher Zahlungsweise jeweils am Ende des Monats, bei
 vierteljährlicher Zahlungsweise jeweils am Ende des dritten Monats zu
 leisten. Der Rückzahlungsbetrag wird von der Kreditanstalt für
 Wiederaufbau im Lastschrifteinzugsverfahren eingezogen. Das Darlehen
-kann auch in Teilbeträgen von vollen 500 Euro vorzeitig zurückgezahlt
-werden.
+kann auch in Teilbeträgen vorzeitig zurückgezahlt werden.
 
 (6) 30 Tage vor dem Beginn der Rückzahlung teilt die Kreditanstalt für
 Wiederaufbau dem Darlehensnehmer oder der Darlehensnehmerin –
@@ -692,7 +788,8 @@ Zinsregelung, die Höhe der monatlichen Rückzahlungsrate und den
 Tilgungszeitraum mit.
 
 (7) Mit dem Tod des Darlehensnehmers oder der Darlehensnehmerin
-erlischt die Darlehensrestschuld, soweit sie noch nicht fällig ist.
+erlischt die verbliebene Darlehensschuld einschließlich etwaiger
+Kosten und Zinsen.
 
 (8) Mit der Eröffnung des gerichtlichen Insolvenzverfahrens über das
 Vermögen einer natürlichen Person oder nach der Abweisung des Antrags
@@ -706,21 +803,23 @@ Die Absätze 3, 5 und 6 sowie § 13b finden keine Anwendung.
 Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer oder die
 Darlehensnehmerin auf seinen oder ihren Antrag durch die Kreditanstalt
 für Wiederaufbau freizustellen, soweit das Einkommen monatlich den
-Betrag nach § 18a Absatz 1 des Bundesausbildungsförderungsgesetzes
-nicht übersteigt. Sofern der übersteigende Betrag geringer ist als die
-monatlich zurückzuzahlende Mindestrate von 128 Euro, ist die
-Rückzahlungsrate auf den übersteigenden Betrag zu reduzieren. Die
-Freistellung ist in diesen Fällen auf die Differenz zwischen dem
-übersteigenden Betrag und der Mindestrate beschränkt. § 18a Absatz 2
-bis 5 des Bundesausbildungsförderungsgesetzes ist entsprechend
-anzuwenden.
+Betrag nach § 18a Absatz 1 und 2 des
+Bundesausbildungsförderungsgesetzes nicht übersteigt. Sofern der
+übersteigende Betrag geringer ist als die monatlich zurückzuzahlende
+Mindestrate von 128 Euro, ist die Rückzahlungsrate auf den
+übersteigenden Betrag zu reduzieren. Die Freistellung ist in diesen
+Fällen auf die Differenz zwischen dem übersteigenden Betrag und der
+Mindestrate beschränkt. § 18a Absatz 3 und 4 des
+Bundesausbildungsförderungsgesetzes ist entsprechend anzuwenden. Eine
+Freistellung von der Verpflichtung zur Rückzahlung kann für längstens
+fünf Jahre erfolgen.
 
 
 ### § 13b Erlass und Stundung
 
 (1) Hat der Darlehensnehmer oder die Darlehensnehmerin die
-Fortbildungsprüfung bestanden, wird ihm oder ihr gegen Vorlage des
-Prüfungszeugnisses 25 Prozent des zu diesem Zeitpunkt noch nicht
+Fortbildungsprüfung bestanden, werden ihm oder ihr gegen Vorlage des
+Prüfungszeugnisses 50 Prozent des zu diesem Zeitpunkt noch nicht
 fällig gewordenen Darlehens für die Lehrgangs- und Prüfungsgebühren
 nach § 12 Absatz 1 Satz 1 Nummer 1 erlassen.
 
@@ -728,93 +827,74 @@ nach § 12 Absatz 1 Satz 1 Nummer 1 erlassen.
 drei Jahren nach Beendigung der Maßnahme im Inland ein Unternehmen
 oder eine freiberufliche Existenz gegründet oder übernommen oder einen
 bestehenden Gewerbebetrieb erweitert und trägt er oder sie dafür
-überwiegend die unternehmerische Verantwortung, wird auf Antrag und
+überwiegend die unternehmerische Verantwortung, so wird auf Antrag und
 gegen Vorlage der erforderlichen Nachweise das bis zu diesem Zeitpunkt
 noch nicht fällig gewordene, auf die Lehrgangs- und Prüfungsgebühren
-entfallende Restdarlehen nach § 12 Absatz 1 Satz 1 Nummer 1 teilweise
-erlassen, wenn er oder sie
+entfallende Restdarlehen nach § 12 Absatz 1 Satz 1 Nummer 1 in voller
+Höhe erlassen, wenn er oder sie
 
-1.  die Fortbildungsprüfung bestanden hat,
+1.  die Fortbildungsprüfung bestanden hat und
 
 
 2.  das Unternehmen, die freiberufliche Existenz oder den erweiterten
-    Gewerbebetrieb mindestens ein Jahr führt und
-
-
-3.  spätestens am Ende des dritten Jahres nach der Gründung oder Übernahme
-    des Unternehmens oder der freiberuflichen Existenz oder der
-    Erweiterung des Gewerbebetriebs mindestens eine Person zusätzlich
-    eingestellt hat und zum Zeitpunkt der Antragstellung noch beschäftigt.
+    Gewerbebetrieb mit der Absicht, dieses Unternehmen, diese Existenz
+    oder diesen Gewerbebetrieb als Haupterwerb zu betreiben, mindestens
+    drei Jahre führt.
 
 
 
-Die Höhe des Erlasses beträgt im Einzelnen:
-
-a)  33 Prozent für einen zusätzlichen Auszubildenden oder eine zusätzliche
-    Auszubildende, dessen oder deren Ausbildungsverhältnis seit mindestens
-    zwölf Monaten besteht,
-
-
-b)  33 Prozent für einen zusätzlichen Arbeitnehmer oder eine zusätzliche
-    Arbeitnehmerin, dessen oder deren sozialversicherungspflichtiges
-    unbefristetes Vollzeitarbeitsverhältnis zum Zeitpunkt der
-    Antragstellung seit mindestens sechs Monaten besteht und ungekündigt
-    ist, oder
-
-
-c)  66 Prozent für einen zusätzlichen Auszubildenden oder eine zusätzliche
-    Auszubildende und einen zusätzlichen Arbeitnehmer oder eine
-    zusätzliche Arbeitnehmerin oder für zwei zusätzliche Arbeitnehmer oder
-    Arbeitnehmerinnen, sofern die jeweiligen Beschäftigungsvoraussetzungen
-    nach den Buchstaben a und b erfüllt sind.
-
-
-
-Insgesamt dürfen nicht mehr als 66 Prozent des noch nicht fällig
-gewordenen Restdarlehens für die Lehrgangs- und Prüfungsgebühren
-erlassen werden.
-In den ersten drei Jahren nach der Existenzgründung fällige
-Rückzahlungsraten werden auf Antrag des Darlehensnehmers oder der
-Darlehensnehmerin in Höhe von maximal 66 Prozent des noch nicht fällig
-gewordenen Restdarlehens für die Lehrgangs- und Prüfungsgebühren
-gestundet. Die Darlehensschuld erhöht sich um die nach Satz 4
-gestundeten Zinsen, wenn die Voraussetzungen für einen Erlass nach
-Absatz 2 nicht erfüllt werden.
+Darlehensraten und Zinsen, die in den ersten drei Jahren nach der
+Existenzgründung fällig sind, werden auf Antrag des Darlehensnehmers
+oder der Darlehensnehmerin gestundet. Wenn die Voraussetzungen für
+einen Erlass nach Satz 1 nach Ablauf der drei Jahre nicht vorliegen,
+sind die gestundeten Darlehensraten und die auf sie angefallenen
+vereinbarten Zinsen zurückzuzahlen.
 
 (3) Für jeden Monat, für den der Darlehensnehmer oder die
 Darlehensnehmerin glaubhaft macht, dass
 
 1.  sein oder ihr Einkommen den Betrag nach § 18a Absatz 1 des
-    Bundesausbildungsförderungsgesetzes nicht übersteigt,
+    Bundesausbildungsförderungsgesetzes nicht übersteigt und
 
 
-2.  er oder sie ein Kind, das das zehnte Lebensjahr noch nicht vollendet
-    hat, pflegt oder erzieht oder ein behindertes Kind betreut und
+2.  er oder sie
+
+    a)  ein Kind, das das vierzehnte Lebensjahr noch nicht vollendet hat,
+        erzieht oder
 
 
-3.  er oder sie nicht oder wöchentlich nicht mehr als 30 Stunden
-    erwerbstätig ist,
+    b)  ein behindertes Kind betreut oder
+
+
+    c)  einen pflegebedürftigen nahen Angehörigen oder eine pflegebedürftige
+        nahe Angehörige nach § 7 Absatz 3 des Pflegezeitgesetzes, der oder die
+        nach den §§ 14 und 15 des Elften Buches Sozialgesetzbuch mindestens in
+        den Pflegegrad 3 eingestuft ist, pflegt,
 
 
 
-wird auf Antrag die Rückzahlungsrate nach § 13 Absatz 5 längstens für
-einen Zeitraum von zunächst zwölf Monaten gestundet. Der
+
+
+
+werden auf Antrag die Darlehensrate und die Zinsen nach § 13 Absatz 5
+längstens für einen Zeitraum von zwölf Monaten gestundet. Der
 Darlehensnehmer oder die Darlehensnehmerin ist verpflichtet, während
 der Dauer der Stundung jede nach dem Zeitpunkt der Antragstellung
-eintretende Änderung der Verhältnisse nach Satz 1 Nummer 1 bis 3 der
-Kreditanstalt für Wiederaufbau schriftlich mitzuteilen. Kommt der
-Darlehensnehmer oder die Darlehensnehmerin dieser Verpflichtung nicht
-nach, gerät er oder sie mit jeder zu Unrecht gestundeten Rate auch
-ohne Mahnung in Verzug. Nach Ablauf des Stundungszeitraums werden auf
-Antrag die gestundeten Raten erlassen, soweit der Darlehensnehmer oder
-die Darlehensnehmerin nachweist, dass zum Zeitpunkt der Antragstellung
-die Voraussetzungen des Satzes 1 Nummer 1 bis 3 noch gegeben sind.
-Kind des Darlehensnehmers oder der Darlehensnehmerin ist ein Kind, für
-das er oder sie einen Anspruch auf Kindergeld nach dem
-Einkommensteuergesetz oder dem Bundeskindergeldgesetz hat, soweit das
-Kind das zehnte Lebensjahr noch nicht vollendet hat, sowie Kinder im
-Sinne des § 32 Absatz 4 Nummer 3 des Einkommensteuergesetzes oder des
-§ 2 Absatz 2 Nummer 3 des Bundeskindergeldgesetzes.
+eintretende Änderung der Verhältnisse nach Satz 1 Nummer 1 und 2 der
+Kreditanstalt für Wiederaufbau schriftlich oder elektronisch
+mitzuteilen. Kommt der Darlehensnehmer oder die Darlehensnehmerin
+dieser Verpflichtung nicht nach, gerät er oder sie mit jeder zu
+Unrecht gestundeten Rate auch ohne Mahnung in Verzug. Nach Ablauf des
+Stundungszeitraums werden auf Antrag die gestundeten Raten erlassen,
+soweit der Darlehensnehmer oder die Darlehensnehmerin nachweist, dass
+zum Zeitpunkt der Antragstellung die Voraussetzungen des Satzes 1
+Nummer 1 und 2 noch gegeben sind. Kind des Darlehensnehmers oder der
+Darlehensnehmerin ist ein Kind, für das er oder sie einen Anspruch auf
+Kindergeld nach dem Einkommensteuergesetz oder dem
+Bundeskindergeldgesetz hat, soweit das Kind das vierzehnte Lebensjahr
+noch nicht vollendet hat, sowie Kinder im Sinne des § 32 Absatz 4
+Nummer 3 des Einkommensteuergesetzes oder des § 2 Absatz 2 Nummer 3
+des Bundeskindergeldgesetzes.
 
 (4) Über den Antrag des Darlehensnehmers oder der Darlehensnehmerin
 auf Stundung und Erlass entscheidet in den Fällen der Absätze 1 bis 3
@@ -903,27 +983,50 @@ werden.
 
 ### § 16 Rückzahlungspflicht
 
-(1) Haben die Voraussetzungen für die Leistung an keinem Tag des
-Kalendermonats vorgelegen, für den sie gezahlt worden ist, so ist –
-außer in den Fällen der §§ 44 bis 50 des Zehnten Buches
-Sozialgesetzbuch – insoweit der Bewilligungsbescheid aufzuheben und
-der Förderungsbetrag zu erstatten als
+(1) Haben die Voraussetzungen für die Leistung des Unterhaltsbeitrages
+an keinem Tag des Kalendermonats vorgelegen, für den er gezahlt worden
+ist, so ist außer in den Fällen der §§ 44 bis 50 des Zehnten Buches
+Sozialgesetzbuch insoweit der Bewilligungsbescheid aufzuheben und der
+Unterhaltsbeitrag zu erstatten, als der Teilnehmer oder die
+Teilnehmerin, der jeweilige Ehegatte oder Lebenspartner Einkommen
+erzielt hat, das bei der Bewilligung nicht berücksichtigt worden ist;
+Regelanpassungen gesetzlicher Renten und Versorgungsbezüge bleiben
+hierbei außer Betracht.
 
-1.  der Teilnehmer oder die Teilnehmerin, der jeweilige Ehegatte oder
-    Lebenspartner Einkommen erzielt hat, das bei der Bewilligung nicht
-    berücksichtigt worden ist; Regelanpassungen gesetzlicher Renten und
-    Versorgungsbezüge bleiben hierbei außer Betracht,
+(2) Soweit Leistungen nach diesem Gesetz unter dem Vorbehalt der
+Rückforderung gewährt wurden und der entsprechende Vorbehalt greift,
+ist der Bewilligungsbescheid insoweit aufzuheben und der Teilnehmer
+oder die Teilnehmerin hat die erhaltenen Leistungen insoweit zu
+erstatten.
 
+(3) Weist der Teilnehmer oder die Teilnehmerin in einem Nachweis des
+Bildungsträgers nicht die regelmäßige Teilnahme an der Maßnahme nach
+und kann die regelmäßige Teilnahme bis zum Ende der Maßnahme nicht
+mehr erreicht werden, so ist der Bewilligungsbescheid aufzuheben und
+der Teilnehmer oder die Teilnehmerin hat die erhaltenen Leistungen zu
+erstatten. Hat der Teilnehmer oder die Teilnehmerin die Maßnahme aus
+wichtigem Grund abgebrochen und bis zum Abbruch regelmäßig an der
+Maßnahme teilgenommen, so ist der Bewilligungsbescheid nur in dem
+Umfang aufzuheben und der Teilnehmer oder die Teilnehmerin hat den
+Maßnahmebeitrag nur in dem Umfang zu erstatten, in dem die Lehrgangs-
+und Prüfungsgebühren noch nicht fällig geworden sind.
 
-2.  Förderung unter dem Vorbehalt der Rückforderung geleistet worden ist.
+(4) Weist der Teilnehmer oder die Teilnehmerin nach sechs Monaten oder
+in einem weiteren Nachweis des Bildungsträgers nach § 9a Absatz 2 Satz
+2 während der Maßnahme nicht die regelmäßige Teilnahme nach, kann
+diese aber bis zum Ende der Maßnahme noch erreicht werden, erfolgt die
+Aufhebung des Bewilligungsbescheides insgesamt erst, wenn auch in
+einem weiteren Teilnahmenachweis des Bildungsträgers die regelmäßige
+Teilnahme nicht erreicht wird. Die zuständige Behörde weist den
+Teilnehmer oder die Teilnehmerin in Textform auf den nächsten
+Vorlagezeitpunkt und die Folge eines erneut nicht erfolgreichen
+Teilnahmenachweises hin.
 
-
-
-
-(2) Der Förderungsbetrag ist für den Kalendermonat oder den Teil eines
-Kalendermonats zurückzuzahlen, in dem der Teilnehmer oder die
-Teilnehmerin die Maßnahme aus einem von ihm oder ihr zu vertretenden
-Grund unterbrochen hat.
+(5) Besteht eine Vollzeitmaßnahme aus mehreren Maßnahmeabschnitten und
+wird der Bewilligungsbescheid insgesamt aufgehoben, ist der
+Unterhaltsbeitrag nur für die Maßnahmeabschnitte zu erstatten, an
+denen der Teilnehmer oder die Teilnehmerin nicht regelmäßig
+teilgenommen hat.
 
 
 ## Vierter Abschnitt - Einkommens- und Vermögensanrechnung
@@ -933,12 +1036,14 @@ Grund unterbrochen hat.
 ### § 17 Einkommens- und Vermögensanrechnung
 
 (1) Für die Anrechnung des Einkommens und des Vermögens nach § 10
-Absatz 2 gelten mit Ausnahme des § 29 des
+Absatz 2 gelten – mit Ausnahme des § 29 des
 Bundesausbildungsförderungsgesetzes und der Ermächtigungen zum Erlass
-von Rechtsverordnungen in § 21 Absatz 3 Nummer 4 die Abschnitte IV und
-V des Bundesausbildungsförderungsgesetzes sowie die Verordnung zur
-Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21
-Absatz 3 Nummer 4 des Bundesausbildungsförderungsgesetzes mit der
+von Rechtsverordnungen in § 21 Absatz 3 Satz 1 Nummer 4 des
+Bundesausbildungsförderungsgesetzes – in der jeweils anzuwendenden
+Fassung die Abschnitte IV und V des
+Bundesausbildungsförderungsgesetzes und die Verordnung zur Bezeichnung
+der als Einkommen geltenden sonstigen Einnahmen nach § 21 Absatz 3
+Satz 1 Nummer 4 des Bundesausbildungsförderungsgesetzes mit der
 Maßgabe entsprechend, dass an die Stelle des Amtes für
 Ausbildungsförderung die für dieses Gesetz zuständige Behörde tritt
 und dass in den Fällen des § 24 Absatz 2 und 3 des
@@ -955,13 +1060,13 @@ dieses Gesetz nichts anderes bestimmt.
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
-1.  für den Teilnehmer oder die Teilnehmerin selbst 35 800 Euro,
+1.  für den Teilnehmer oder die Teilnehmerin selbst 45 000 Euro,
 
 
-2.  für den jeweiligen Ehegatten oder Lebenspartner 1 800 Euro,
+2.  für den jeweiligen Ehegatten oder Lebenspartner 2 300 Euro,
 
 
-3.  für jedes Kind des Teilnehmers oder der Teilnehmerin 1 800 Euro.
+3.  für jedes Kind des Teilnehmers oder der Teilnehmerin 2 300 Euro.
 
 
 
@@ -989,9 +1094,11 @@ verwaltet und eingezogen.
 
 (1) Über die Förderungsleistung einschließlich der Höhe der
 Darlehenssumme entscheidet die zuständige Behörde auf schriftlichen
-Antrag. Der Maßnahmebeitrag muss spätestens bis zum Ende der Maßnahme,
-bei mehreren in sich selbstständigen Abschnitten bis zum Ende des
-jeweiligen Maßnahmeabschnittes beantragt werden.
+oder elektronischen Antrag, der den Vorgaben des § 36a Absatz 2 Satz 4
+Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch entsprechen muss.
+Maßnahmebeitrag und Unterhaltsbeitrag müssen spätestens bis zum Ende
+der Maßnahme, bei mehreren in sich selbstständigen Abschnitten bis zum
+Ende des jeweiligen Maßnahmeabschnittes beantragt werden.
 
 (2) Soweit für die Erhebung der für Entscheidungen nach diesem Gesetz
 erforderlichen Tatsachen Vordrucke vorgesehen sind, sind diese zu
@@ -1002,10 +1109,15 @@ benutzen.
 
 Für die Entscheidung über die Förderungsleistungen ist die von den
 Ländern für die Durchführung dieses Gesetzes bestimmte Behörde des
-Bezirks zuständig, in dem der Teilnehmer oder die Teilnehmerin seinen
-oder ihren ständigen Wohnsitz hat. Hat der Teilnehmer oder die
-Teilnehmerin im Inland keinen ständigen Wohnsitz, so ist die Behörde
-zuständig, in deren Bezirk die Fortbildungsstätte liegt.
+Bezirks zuständig, in dem der Teilnehmer oder die Teilnehmerin bei
+Antragstellung seinen oder ihren ständigen Wohnsitz hat. Hat der
+Teilnehmer oder die Teilnehmerin im Inland keinen ständigen Wohnsitz,
+so ist die Behörde zuständig, in deren Bezirk die Fortbildungsstätte
+liegt.
+
+
+### § 19b (weggefallen)
+
 
 
 ### § 20 Mitteilungspflicht
@@ -1037,13 +1149,14 @@ oder die Leistungen zu erstatten hat und den jeweiligen Ehegatten oder
 Lebenspartner des Antragstellers oder der Antragstellerin.
 
 (3) Öffentliche und nicht öffentliche Stellen dürfen personenbezogene
-Informationen, die zur Durchführung dieses Gesetzes erforderlich sind,
-den für die Durchführung dieses Gesetzes zuständigen Behörden auf
-deren Verlangen übermitteln, soweit hierdurch schutzwürdige Belange
-des oder der Betroffenen nicht beeinträchtigt werden oder das
-öffentliche Interesse das Geheimhaltungsinteresse des oder der
-Betroffenen überwiegt. Die Übermittlung unterbleibt, wenn dem
-besondere gesetzliche Verwendungsregelungen entgegenstehen.
+Daten, die zur Durchführung dieses Gesetzes erforderlich sind, den für
+die Durchführung dieses Gesetzes zuständigen Behörden auf deren
+Verlangen übermitteln, soweit hierdurch schutzwürdige Belange der
+betroffenen Person oder der betroffenen Personen nicht beeinträchtigt
+werden oder das öffentliche Interesse das Geheimhaltungsinteresse der
+betroffenen Person oder der betroffenen Personen überwiegt. Die
+Übermittlung unterbleibt, wenn dem besondere gesetzliche
+Verwendungsregelungen entgegenstehen.
 
 (4) Soweit dies zur Durchführung dieses Gesetzes erforderlich ist, hat
 
@@ -1083,14 +1196,17 @@ verzinsen.
 ### § 23 Bescheid
 
 (1) Entscheidungen nach diesem Gesetz sind dem Antragsteller oder der
-Antragstellerin schriftlich mitzuteilen (Bescheid). Ist in einem
-Bescheid dem Grunde nach über die Förderung einer Maßnahme entschieden
-worden, so gilt diese Entscheidung für alle Maßnahmeabschnitte.
+Antragstellerin schriftlich oder elektronisch mitzuteilen (Bescheid).
+In dem Bescheid über den ersten Förderantrag für eine Maßnahme wird
+dem Grunde nach über die Förderung der Maßnahme einschließlich aller
+Maßnahmeabschnitte des nach § 6 Absatz 4 Satz 1 vorzulegenden
+Fortbildungsplans entschieden und der maximale Zeitrahmen nach § 2
+Absatz 3 festgesetzt.
 
 (2) In dem Bescheid sind anzugeben:
 
 1.  die Höhe des Zuschussanteils zum Maßnahmebeitrag nach § 12 Absatz 1
-    Satz 1 Nummer 1 und Satz 2,
+    Satz 2,
 
 
 2.  die Höhe des Maßnahmedarlehens nach § 12 Absatz 1 Satz 1 und 3,
@@ -1108,39 +1224,34 @@ worden, so gilt diese Entscheidung für alle Maßnahmeabschnitte.
 
 6.  der Zeitpunkt zur Vorlage des Teilnahmenachweises sowie die
     Rechtsfolgen der Nichtvorlage und der nicht regelmäßigen Teilnahme
-    nach § 9.
+    nach § 9a.
 
 
 
 Bei Maßnahmen in Vollzeitform sind zusätzlich anzugeben:
 
-1.  die Höhe des Zuschussanteils zum Unterhaltsbeitrag nach § 12 Absatz 2
-    Satz 1 und 2,
+1.  die Höhe des Unterhaltsbeitrages nach § 12 Absatz 2 Satz 1,
 
 
-2.  die Höhe des Zuschussanteils zum Erhöhungsbetrag für Kinder nach § 12
-    Absatz 2 Satz 3,
+2.  die Höhe des Erhöhungsbetrages für Kinder nach § 10 Absatz 2 Satz 3,
 
 
-3.  die Höhe des Unterhaltsdarlehens nach § 12 Absatz 2 Satz 5,
-
-
-4.  die Höhe des Einkommens des Teilnehmers oder der Teilnehmerin, des
+3.  die Höhe des Einkommens des Teilnehmers oder der Teilnehmerin, des
     jeweiligen Ehegatten oder Lebenspartners sowie die Höhe des Vermögens
     des Teilnehmers oder der Teilnehmerin nach § 17,
 
 
-5.  die Höhe der bei der Ermittlung des Einkommens berücksichtigten
+4.  die Höhe der bei der Ermittlung des Einkommens berücksichtigten
     Steuern und Abzüge zur Abgeltung der Aufwendungen für die soziale
     Sicherung nach § 17,
 
 
-6.  die Höhe der gewährten Freibeträge nach den §§ 17 und 17a,
+5.  die Höhe der gewährten Freibeträge nach den §§ 17 und 17a,
 
 
-7.  die Höhe der auf den Bedarf angerechneten Beträge vom Einkommen und
+6.  die Höhe der auf den Bedarf angerechneten Beträge vom Einkommen und
     Vermögen des Teilnehmers oder der Teilnehmerin sowie vom Einkommen des
-    jeweiligen Ehegatten oder Lebenspartners nach § 10 Absatz 2 Satz 5 und
+    jeweiligen Ehegatten oder Lebenspartners nach § 10 Absatz 2 Satz 4 und
     § 17.
 
 
@@ -1159,14 +1270,16 @@ zusätzlich anzugeben:
 
 
 
-(3) Über die Förderung wird für die Dauer einer Maßnahme oder eines
-Maßnahmeabschnitts (Bewilligungszeitraum), bei Vollzeitmaßnahmen
-längstens für einen Zeitraum von 24 Monaten, bei Teilzeitmaßnahmen
-längstens für einen Zeitraum von 48 Monaten, entschieden.
+(3) Besteht eine Maßnahme aus mehreren Maßnahmeabschnitten, kann die
+Förderung auf einen oder mehrere Maßnahmeabschnitte beschränkt werden
+(Bewilligungszeitraum). Auch in diesem Fall erfolgt die Förderung nach
+§ 9a Absatz 1 Satz 5 unter dem Vorbehalt der regelmäßigen Teilnahme an
+der Maßnahme einschließlich aller Maßnahmeabschnitte des nach § 6
+Absatz 4 Satz 1 vorzulegenden Fortbildungsplans.
 
 (4) Auf Antrag hat die zuständige Behörde vorab zu entscheiden, ob für
-die Teilnahme an einer Maßnahme nach fachlicher Richtung, Ziel (§ 2
-Absatz 1 Nummer 2), zeitlicher und inhaltlicher Gestaltung und Art des
+die Teilnahme an einer Maßnahme nach fachlicher Richtung,
+Fortbildungsziel, zeitlicher und inhaltlicher Gestaltung und Art des
 Trägers dem Grunde nach die Förderungsvoraussetzungen vorliegen. Die
 zuständige Behörde ist an die Entscheidung nicht mehr gebunden, wenn
 mit der Maßnahme nicht binnen eines Jahres nach Antragstellung
@@ -1175,26 +1288,45 @@ begonnen wird.
 
 ### § 24 Zahlweise
 
-(1) Die Zuschussanteile am Unterhaltsbeitrag nach § 12 Absatz 2 und
-der Zuschuss für die Kinderbetreuung nach § 10 Absatz 3 und § 12
-Absatz 2 Satz 3 sind unbar monatlich im Voraus zu zahlen. Der
-Zuschussanteil zum Maßnahmebeitrag nach § 12 Absatz 1 Satz 2 kann bis
-zu der im Bescheid angegebenen Höhe, höchstens bis zu einem Betrag von
-2 600 Euro, in einem Betrag gezahlt werden. Die nach § 19 zuständige
-Stelle kann unter Berücksichtigung der Fälligkeit der
-Lehrgangsgebühren die Auszahlung eines höheren Betrages bewilligen.
-Der Maßnahmebeitrag für die Prüfungsgebühr wird erst bei Fälligkeit
-und gegen Vorlage der Rechnung oder des Gebührenbescheids ausgezahlt.
-Die Auszahlung der Bankdarlehen erfolgt nach Maßgabe des § 13 durch
-die Kreditanstalt für Wiederaufbau.
-
-(2) Die monatlichen Zuschussanteile am Unterhaltsbeitrag und der
+(1) Der Zuschuss für den Unterhaltsbeitrag nach § 12 Absatz 2 und der
 Zuschuss für die Kinderbetreuung nach § 10 Absatz 3 und § 12 Absatz 2
-Satz 3 werden bei Restbeträgen bis zu 0,49 Euro auf volle Euro
-abgerundet und bei Restbeträgen ab 0,50 Euro auf volle Euro
-aufgerundet.
+sind unbar monatlich im Voraus zu zahlen. Der Zuschussanteil zum
+Maßnahmebeitrag nach § 12 Absatz 1 Satz 2 kann bis zu der im Bescheid
+angegebenen Höhe, höchstens bis zu einem Betrag von 5 000 Euro, in
+einem Betrag gezahlt werden. Die nach § 19 zuständige Stelle kann
+unter Berücksichtigung der Fälligkeit der Lehrgangsgebühren die
+Auszahlung eines höheren Betrages bewilligen. Der Maßnahmebeitrag für
+die Prüfungsgebühr und der Förderbetrag für die Erstellung der
+fachpraktischen Arbeit nach § 12 Absatz 1 Satz 1 Nummer 2 werden erst
+bei Fälligkeit und gegen Vorlage der Rechnungen oder des
+Gebührenbescheids bis zu zwei Jahren nach Ende der Maßnahme
+ausgezahlt. Die Auszahlung der Bankdarlehen erfolgt nach Maßgabe des §
+13 durch die Kreditanstalt für Wiederaufbau.
 
-(3) Monatliche Zuschussbeträge unter 16 Euro werden nicht geleistet.
+(2) Der monatliche Zuschuss für den Unterhaltsbeitrag und der Zuschuss
+für die Kinderbetreuung nach § 10 Absatz 3 und § 12 Absatz 2 werden
+bei Restbeträgen bis zu 0,49 Euro auf volle Euro abgerundet und bei
+Restbeträgen ab 0,50 Euro auf volle Euro aufgerundet.
+
+(3) Monatliche Zuschussbeträge unter 10 Euro werden nicht geleistet.
+
+(4) Können bei der erstmaligen Antragstellung für einen
+Bewilligungszeitraum die Feststellungen, die für eine Entscheidung
+über einen vollständigen Antrag erforderlich sind, nicht innerhalb von
+sechs Kalenderwochen getroffen werden oder können Zahlungen nicht
+innerhalb von zehn Kalenderwochen geleistet werden, so werden unter
+dem Vorbehalt der Rückforderung geleistet:
+
+1.  der Zuschuss für den voraussichtlichen Unterhaltsbeitrag für vier
+    Monate und
+
+
+2.  der Zuschuss zum Maßnahmebeitrag, soweit der Teilnehmer oder die
+    Teilnehmerin die Fälligkeit der Kosten der Lehrveranstaltung
+    nachweist.
+
+
+
 
 
 ### § 25 Änderung des Bescheides
@@ -1214,7 +1346,7 @@ so wird der Bescheid geändert
 
 
 wenn diese Änderung zu einer Erhöhung oder Minderung des
-Unterhaltsbeitrages oder des Maßnahmebeitrags um wenigstens 16 Euro
+Unterhaltsbeitrages oder des Maßnahmebeitrags um wenigstens 10 Euro
 führt. Nicht als Änderung im Sinne des Satzes 1 gelten
 Regelanpassungen gesetzlicher Renten und Versorgungsbezüge. § 48 des
 Zehnten Buches Sozialgesetzbuch findet keine Anwendung; Erstattungen
@@ -1237,21 +1369,24 @@ ordentliche Rechtsweg gegeben.
 
 ### § 27 Statistik
 
-(1) Über die Förderung nach diesem Gesetz wird eine Bundesstatistik
-durchgeführt.
+(1) Über die Förderung nach diesem Gesetz werden eine halbjährliche
+und eine jährliche Bundesstatistik durchgeführt.
 
-(2) Die Statistik erfasst jährlich für das vorausgegangene
-Kalenderjahr die Zahl der Geförderten (Erst- und Folgegeförderte), der
-Anträge und Bewilligungen (Erst- und Folgebewilligungen), der
-Ablehnungen, der bewilligten und ausgezahlten Darlehen sowie Zahl und
-Höhe der nach § 13a gewährten Freistellungen und der nach § 13b
-gewährten Darlehenserlasse und Stundungen und für jeden Geförderten
-folgende Erhebungsmerkmale:
+(2) Die Statistik erfasst zur Mitte des Jahres für das vorausgegangene
+Kalenderhalbjahr und jährlich für das vorausgegangene Kalenderjahr die
+Zahl der Geförderten (Erst- und Folgegeförderte), der Anträge und
+Bewilligungen (Erst- und Folgebewilligungen), der Ablehnungen, der
+Abbrüche und Unterbrechungen, der bewilligten und ausgezahlten
+Darlehen sowie Zahl und Höhe der nach § 13a gewährten Freistellungen
+und der nach § 13b gewährten Darlehenserlasse und Stundungen und für
+jeden Geförderten folgende Erhebungsmerkmale:
 
 1.  von dem Teilnehmer oder der Teilnehmerin: Geschlecht, Geburtsjahr,
     Staatsangehörigkeit, Art des ersten berufsqualifizierenden
-    Ausbildungsabschlusses, Fortbildungsziel, Fortbildungsstätte nach Art
-    und rechtlicher Stellung, Monat und Jahr des Beginns und des Endes der
+    Ausbildungsabschlusses und der beruflichen Vorqualifikation,
+    vorhandene Hochschulabschlüsse, Fortbildungsziel und
+    Fortbildungsstufe, Fortbildungsstätte nach Art und rechtlicher
+    Stellung, Monat und Jahr des Beginns und des Endes der
     Förderungshöchstdauer, Art, Höhe und Zusammensetzung des
     Maßnahmebeitrages nach § 12 Absatz 1,
 
@@ -1294,12 +1429,9 @@ für Wiederaufbau.
 
 ### § 27a Anwendung des Sozialgesetzbuches
 
-Soweit dieses Gesetz keine abweichenden Regelungen enthält, finden die
+Soweit dieses Gesetz keine abweichenden Regelungen enthält, sind die
 §§ 1 bis 3, 11 bis 17, 30 bis 67 des Ersten Buches Sozialgesetzbuch
-und das Zehnte Buch Sozialgesetzbuch Anwendung; wird eine Leistung auf
-das Konto des Teilnehmers bei einem Kreditinstitut überwiesen, gilt
-bei fehlender Deckung des Kontos § 850k Absatz 6 der
-Zivilprozessordnung entsprechend.
+und das Zehnte Buch Sozialgesetzbuch anzuwenden.
 
 
 ## Siebter Abschnitt - Aufbringung der Mittel
@@ -1348,20 +1480,37 @@ Euro geahndet werden.
 
 ### § 30 Übergangsvorschriften
 
-(1) Für bis zum 30. Juni 2009 begonnene Maßnahmen oder
-Maßnahmeabschnitte der beruflichen Aufstiegsfortbildung sind die
-Vorschriften dieses Gesetzes mit Ausnahme des § 13b Absatz 2 in der
-bis zum Ablauf des 30. Juni 2009 geltenden Fassung weiterhin
-anzuwenden.
+(1) Für Maßnahmen der beruflichen Aufstiegsfortbildung, die bis zum
+Ablauf des 31. Juli 2020 abgeschlossen worden sind, sind die
+Vorschriften dieses Gesetzes in der bis zum Ablauf des 31. Juli 2020
+geltenden Fassung weiterhin anzuwenden.
 
-(2) § 2 Absatz 1 Nummer 2 Satz 3 gilt für Maßnahmen oder
-Maßnahmeabschnitte, die bis zum 30. Juni 2012 begonnen werden.
+(2) Für Maßnahmen der beruflichen Aufstiegsfortbildung, die vor dem
+31\. Juli 2020 begonnen, aber noch nicht abgeschlossen worden sind,
+sind die Vorschriften dieses Gesetzes in der bis zum Ablauf des 31.
+Juli 2020 geltenden Fassung mit Ausnahme der §§ 10, 12 und 17a
+weiterhin anzuwenden.
 
-(3) § 2a gilt für Maßnahmen oder Maßnahmeabschnitte, die ab dem 1.
-Juli 2010 beginnen.
+(3) § 2 Absatz 1 in der bis zum Ablauf des 31. Juli 2020 geltenden
+Fassung ist auf Fortbildungsabschlüsse zu öffentlich-rechtlich
+geregelten Prüfungen auf Grundlage
 
-(4) Für nach diesem Gesetz geförderte Maßnahmen oder
-Maßnahmeabschnitte, die vor dem 28. Oktober 2010 begonnen haben, sind
-die Vorschriften dieses Gesetzes in der bis zum 28. Oktober 2010
-geltenden Fassung anzuwenden.
+1.  der §§ 53 und 54 des Berufsbildungsgesetzes in der bis zum Ablauf des
+    31\. Dezember 2019 geltenden Fassung sowie
+
+
+2.  der §§ 42 und 42a der Handwerksordnung in der bis zum Ablauf des 31.
+    Dezember 2019 geltenden Fassung
+
+
+
+solange anzuwenden, bis für den jeweiligen Fortbildungsabschluss neue
+Prüfungsregelungen auf der Grundlage der §§ 53 bis 53d oder 54 des
+Berufsbildungsgesetzes in der ab dem 1. Januar 2020 geltenden Fassung
+sowie der §§ 42 bis 42d oder 42f der Handwerksordnung in der ab dem 1.
+Januar 2020 geltenden Fassung erlassen worden sind.
+
+(4) Für Stundungs- und Erlassanträge, die ab dem 1. August 2020 bei
+der Kreditanstalt für Wiederaufbau eingehen, ist § 13b in der ab dem
+1\. August 2020 geltenden Fassung anzuwenden.
 

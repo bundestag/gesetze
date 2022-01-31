@@ -1,7 +1,5 @@
 ---
 Title: Gesetz über den Verkauf von Mauer- und Grenzgrundstücken an die früheren Eigentümer
-  (Artikel 1 des Gesetzes über den Verkauf von Mauer- und Grenzgrundstücken an die
-  früheren Eigentümer und zur Änderung anderer Vorschriften)
 jurabk: MauerG
 layout: default
 origslug: mauerg
@@ -9,7 +7,7 @@ slug: mauerg
 
 ---
 
-# Gesetz über den Verkauf von Mauer- und Grenzgrundstücken an die früheren Eigentümer (Artikel 1 des Gesetzes über den Verkauf von Mauer- und Grenzgrundstücken an die früheren Eigentümer und zur Änderung anderer Vorschriften) (MauerG)
+# Gesetz über den Verkauf von Mauer- und Grenzgrundstücken an die früheren Eigentümer (MauerG)
 
 Ausfertigungsdatum
 :   1996-07-15

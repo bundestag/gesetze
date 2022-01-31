@@ -2,7 +2,7 @@
 Title: Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch
 jurabk: MilchGüV
 layout: default
-origslug: milchg_v
+origslug: milchguev
 slug: milchguev
 
 ---

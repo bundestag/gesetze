@@ -5,7 +5,7 @@ Title: Gesetz zum Zweiten Protokoll vom 17. Februar 1983 zur Änderung und Ergä
   anderen Steuern
 jurabk: DBAÄndProt2G JPN
 layout: default
-origslug: dba_ndprot2g_jpn
+origslug: dbaaendprot2g_jpn
 slug: dbaaendprot2g_jpn
 
 ---

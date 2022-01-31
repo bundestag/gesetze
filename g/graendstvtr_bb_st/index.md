@@ -112,6 +112,5 @@ des Landes Sachsen-Anhalt
 
 ## Anlage zum Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze vom 24.8.1993
 
-(Inhalt: nicht darstellbare kartographische Abbildung,
-Fundstelle: BGBl. I 1994, 91)
-
+(Fundstelle: BGBl. I 1994, 91)
+![bgbl1_1994_j0091_0010.jpg](bgbl1_1994_j0091_0010.jpg)

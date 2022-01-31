@@ -16,18 +16,18 @@ Fundstelle
 :   BGBl I: 1994, 2018, 2019
 
 Zuletzt geändert durch
-:   Art. 11 G v. 9.12.2010 I 1885
+:   Art. 364 V v. 31.8.2015 I 1474
 
 
 ## § 1 Rechtsform, Name, Sitz
 
-Im Geschäftsbereich des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz (Bundesministerium) wird eine
-bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts durch
-Zusammenlegung der Bundesanstalt für landwirtschaftliche Marktordnung
-und des Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die
-Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und
-Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
+Im Geschäftsbereich des Bundesministeriums für Ernährung und
+Landwirtschaft (Bundesministerium) wird eine bundesunmittelbare
+rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung der
+Bundesanstalt für landwirtschaftliche Marktordnung und des Bundesamtes
+für Ernährung und Forstwirtschaft errichtet. Die Anstalt trägt die
+Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung"
+(Bundesanstalt). Sie hat ihren Sitz in Bonn.
 
 
 ## § 2 Aufgaben
@@ -139,7 +139,7 @@ höchstens
 9.  einem Vertreter des Bundesministeriums,
 
 
-10. einem Vertreter des Bundesministeriums für Wirtschaft und Technologie,
+10. einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
 
 11. einem Vertreter des Bundesministeriums der Finanzen,

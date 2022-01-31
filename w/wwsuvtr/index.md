@@ -3478,24 +3478,3 @@ Bonn, den 18. Mai 1990
 
 
 
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 994) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Die im Vertrag vom 18. Mai 1990 über die Schaffung einer Währung-,
-    Wirtschafts- und Sozialunion (BGBl. 1990 II S. 518) getroffenen
-    Regelungen über die Errichtung einer Währungsunion einschließlich der
-    Regelungen über die Zuständigkeit und Befugnisse der Deutschen
-    Bundesbank in der Deutschen Demokratischen Republik
-
-    mit folgenden Maßgabe:
-
-    Innerhalb von zwölf Monaten nach Wirksamwerden des Beitritts wird das
-    Gesetz über die Deutsche Bundesbank angepaßt.
-
-
-
-

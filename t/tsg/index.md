@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1980, 1654
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.7.2009 I 1978
+:   Art. 2 Abs. 3 G v. 20.7.2017 I 2787
 
 
 ## Eingangsformel
@@ -112,18 +112,10 @@ ist für dieses Gericht bindend.
 gesetzlichen Vertreter geführt. Der gesetzliche Vertreter bedarf für
 einen Antrag nach § 1 der Genehmigung des Familiengerichts.
 
-(2) Beteiligte des Verfahrens sind nur
+(2) Beteiligter des Verfahrens ist nur der Antragsteller oder die
+Antragstellerin.
 
-1.  der Antragsteller,
-
-
-2.  der Vertreter des öffentlichen Interesses.
-
-
-
-
-(3) Der Vertreter des öffentlichen Interesses in Verfahren nach diesem
-Gesetz wird von der Landesregierung durch Rechtsverordnung bestimmt.
+(3) (weggefallen)
 
 
 ### § 4 Gerichtliches Verfahren
@@ -201,11 +193,7 @@ geändert worden sind, wird unwirksam, wenn
 2.  bei einem nach Ablauf von dreihundert Tagen nach der Rechtskraft der
     Entscheidung geborenen Kind die Abstammung von dem Antragsteller
     anerkannt oder gerichtlich festgestellt wird, mit dem Tag, an dem die
-    Anerkennung wirksam oder die Feststellung rechtskräftig wird, oder
-
-
-3.  der Antragsteller eine Ehe schließt, mit der Abgabe der Erklärung nach
-    § 1310 Abs. 1 des Bürgerlichen Gesetzbuchs.
+    Anerkennung wirksam oder die Feststellung rechtskräftig wird.
 
 
 

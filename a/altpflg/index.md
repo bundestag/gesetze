@@ -15,11 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1513
 
+G aufgeh. durch
+:   Art. 15 Abs. 5 G v. 17.7.2017 I 2581 mWv 1.1.2020
+
 Neugefasst durch
-:   Bek. v. 25.8.2003 I 1690
+:   Bek. v. 25.8.2003 I 1690;
 
 Zuletzt geändert durch
-:   Art. 29 G v. 20.12.2011 I 2854
+:   Art. 1b G v. 17.7.2017 I 2581
 
 
 ## Abschnitt 1 - Erlaubnis
@@ -93,9 +96,7 @@ Prüfungsverordnung für den Beruf der Altenpflegerin und des
 Altenpflegers geregelten Ausbildung aufweist. Wesentliche Unterschiede
 im Sinne des Satzes 2 liegen vor, wenn
 
-1.  die von der antragstellenden Person nachgewiesene Ausbildungsdauer
-    mindestens ein Jahr unter der in diesem Gesetz geregelten
-    Ausbildungsdauer liegt,
+1.  (weggefallen)
 
 
 2.  ihre Ausbildung sich auf Lernfelder bezieht, die sich wesentlich von
@@ -117,26 +118,30 @@ im Sinne des Satzes 2 liegen vor, wenn
 
 
 
-die antragstellende Person diese nicht durch Kenntnisse, die sie im
-Rahmen ihrer Berufspraxis, unabhängig davon, in welchem Staat diese
-erworben wurden, ganz oder teilweise ausgleichen kann. Lernfelder
-unterscheiden sich wesentlich, wenn deren Kenntnis eine wesentliche
-Voraussetzung für die Ausübung des Berufs ist und die Ausbildung der
-antragstellenden Person bedeutende Abweichungen hinsichtlich Dauer
-oder Inhalt gegenüber der Ausbildung nach diesem Gesetz aufweist; Satz
-3 letzter Halbsatz gilt entsprechend. Ist die Gleichwertigkeit des
-Ausbildungsstandes nach Satz 1 nicht gegeben oder kann sie nur mit
-unangemessenem zeitlichem oder sachlichem Aufwand festgestellt werden,
-weil die erforderlichen Unterlagen und Nachweise aus Gründen, die
-nicht in der Person des Antragstellers oder der Antragstellerin
-liegen, von dieser nicht vorgelegt werden können, ist ein
-gleichwertiger Kenntnisstand nachzuweisen. Der Nachweis gleichwertiger
-Kenntnisse und Fähigkeiten wird durch einen höchstens dreijährigen
-Anpassungslehrgang oder das Ablegen einer Prüfung erbracht, die sich
-auf den Inhalt der staatlichen Prüfung erstreckt. Die zuständige
-Behörde kann im Einzelfall von Satz 6 abweichend eine Eignungsprüfung
-vorsehen, die sich auf die festgestellten wesentlichen Unterschiede
-erstreckt.
+diese nicht ganz oder teilweise durch Kenntnisse und Fähigkeiten
+ausgeglichen werden, die die antragstellende Person im Rahmen ihrer
+tatsächlichen und rechtmäßigen Ausübung des Berufs der Altenpflegerin
+und des Altenpflegers in Voll- oder Teilzeit oder durch lebenslanges
+Lernen, unabhängig davon, in welchem Staat, erworben hat, sofern die
+durch lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von
+einer in dem jeweiligen Staat zuständigen Stelle formell als gültig
+anerkannt wurden. Lernfelder unterscheiden sich wesentlich, wenn deren
+Kenntnis eine wesentliche Voraussetzung für die Ausübung des Berufs
+ist und die Ausbildung der antragstellenden Person bedeutende
+Abweichungen hinsichtlich Dauer oder Inhalt gegenüber der Ausbildung
+nach diesem Gesetz aufweist; Satz 3 letzter Halbsatz gilt
+entsprechend. Ist die Gleichwertigkeit des Ausbildungsstandes nach
+Satz 1 nicht gegeben oder kann sie nur mit unangemessenem zeitlichem
+oder sachlichem Aufwand festgestellt werden, weil die erforderlichen
+Unterlagen und Nachweise aus Gründen, die nicht in der Person des
+Antragstellers oder der Antragstellerin liegen, von dieser nicht
+vorgelegt werden können, ist ein gleichwertiger Kenntnisstand
+nachzuweisen. Der Nachweis gleichwertiger Kenntnisse und Fähigkeiten
+wird durch einen höchstens dreijährigen Anpassungslehrgang oder das
+Ablegen einer Prüfung erbracht, die sich auf den Inhalt der
+staatlichen Prüfung erstreckt. Die zuständige Behörde kann im
+Einzelfall von Satz 6 abweichend eine Eignungsprüfung vorsehen, die
+sich auf die festgestellten wesentlichen Unterschiede erstreckt.
 
 (3a) Absatz 3 Satz 1 bis 4 gilt entsprechend für antragstellende
 Personen, die über einen Ausbildungsnachweis aus einem Staat, der
@@ -153,23 +158,25 @@ Recht, zwischen dem Anpassungslehrgang und der Eignungsprüfung zu
 wählen.
 
 (4) Für Personen, die eine Erlaubnis nach § 1 beantragen, gilt die
-Voraussetzung des Absatzes 1 Nr. 1 als erfüllt, wenn aus einem in
-einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
-erworbenen Diplom hervorgeht, dass dessen Inhaberin oder Inhaber eine
-Ausbildung abgeschlossen hat, die in diesem Staat für den Zugang zu
-einem dem Beruf der Altenpflegerin und des Altenpflegers
-entsprechenden Beruf erforderlich ist. Diplome im Sinne dieses
-Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c
-der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
-vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
-(ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) in der jeweils
-geltenden Fassung, die bescheinigen, dass das
-Berufsqualifikationsniveau der Inhaberin oder des Inhabers zumindest
-unmittelbar unter dem Niveau nach Artikel 11 Abs. 1 Buchstabe c der
-Richtlinie 2005/36/EG liegt. Satz 2 gilt auch für einen
-Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen,
-die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt
-wurden, sofern sie eine in der Gemeinschaft erworbene abgeschlossene
+Voraussetzung des Absatzes 1 Nr. 1 als erfüllt, wenn aus einem
+europäischen Berufsausweis oder aus einem in einem anderen
+Vertragsstaat des Europäischen Wirtschaftsraumes erworbenen Diplom
+hervorgeht, dass dessen Inhaberin oder Inhaber eine Ausbildung
+abgeschlossen hat, die in diesem Staat für den Zugang zu einem dem
+Beruf der Altenpflegerin und des Altenpflegers entsprechenden Beruf
+erforderlich ist. Diplome im Sinne dieses Gesetzes sind
+Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie
+2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
+2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255
+S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung die
+mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG
+genannten Niveau entsprechen und denen eine Bescheinigung des
+Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist. Satz
+2 gilt auch für einen Ausbildungsnachweis oder eine Gesamtheit von
+Ausbildungsnachweisen, die von einer zuständigen Behörde in einem
+Mitgliedstaat ausgestellt wurden, sofern sie den erfolgreichen
+Abschluss einer in der Europäischen Union auf Voll- oder Teilzeitbasis
+im Rahmen formaler oder nichtformaler Ausbildungsprogramme erworbenen
 Ausbildung bescheinigen, von diesem Mitgliedstaat als gleichwertig
 anerkannt wurden und in Bezug auf die Aufnahme oder Ausübung des
 Berufs der Altenpflegerin und des Altenpflegers dieselben Rechte
@@ -179,48 +186,72 @@ der Rechts- oder Verwaltungsvorschriften des Herkunftsmitgliedstaats
 für die Aufnahme oder Ausübung des Berufs der Altenpflegerin und des
 Altenpflegers entsprechen, ihrer Inhaberin und ihrem Inhaber jedoch
 nach dem Recht des Herkunftsmitgliedstaats erworbene Rechte nach den
-dort maßgeblichen Vorschriften verleihen. Antragstellende Personen mit
-einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen
-Wirtschaftsraumes haben einen höchstens dreijährigen
-Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen,
-wenn
+dort maßgeblichen Vorschriften verleihen. Eine antragstellende Person
+mit einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen
+Wirtschaftsraums hat einen höchstens dreijährigen Anpassungslehrgang
+zu absolvieren oder eine Eignungsprüfung abzulegen, wenn
 
-1.  ihre nachgewiesene Ausbildungsdauer mindestens ein Jahr unter der in
-    diesem Gesetz geregelten Ausbildungsdauer liegt,
-
-
-2.  ihre Ausbildung sich auf Lernfelder bezieht, die sich wesentlich von
-    denen unterscheiden, die durch die Ausbildung nach diesem Gesetz und
-    der Altenpflege-Ausbildungs- und Prüfungsverordnung vorgeschrieben
-    sind,
+1.  ihre Ausbildung hinsichtlich der beruflichen Tätigkeit Lernfelder oder
+    Bereiche der praktischen Ausbildung umfasst, die sich wesentlich von
+    denen unterscheiden, die nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für den Beruf der Altenpflegerin und des
+    Altenpflegers vorgeschrieben sind, oder
 
 
-3.  der Beruf der Altenpflegerin und des Altenpflegers eine oder mehrere
-    reglementierte Tätigkeiten umfasst, die im Herkunftsmitgliedstaat der
-    antragstellenden Person nicht Bestandteil des dem Beruf der
-    Altenpflegerin und des Altenpflegers entsprechenden Berufs sind, und
-    wenn dieser Unterschied in einer besonderen Ausbildung besteht, die
-    nach diesem Gesetz und der Altenpflege-Ausbildungs- und
-    Prüfungsverordnung gefordert wird und sich auf Lernfelder bezieht, die
-    sich wesentlich von denen unterscheiden, die von dem
-    Ausbildungsnachweis abgedeckt werden, den die antragstellende Person
-    vorlegt,
-
-
-4.  ihr Ausbildungsnachweis lediglich eine Ausbildung auf dem in Artikel
-    11 Buchstabe b der Richtlinie genannten Niveau bescheinigt und
+2.  der Beruf der Altenpflegerin und des Altenpflegers eine oder mehrere
+    reglementierte Tätigkeiten umfasst, die im Herkunftsstaat der
+    antragstellenden Person nicht Bestandteil des Berufs sind, der dem der
+    Altenpflegerin und des Altenpflegers entspricht, und wenn sich die
+    Ausbildung für diese Tätigkeiten auf Lernfelder oder Bereiche der
+    praktischen Ausbildung nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für den Beruf der Altenpflegerin und des
+    Altenpflegers bezieht, die sich wesentlich von denen unterscheiden,
+    die von der Ausbildung der antragstellenden Person abgedeckt sind.
 
 
 
-ihre nachgewiesene Berufserfahrung unabhängig davon, in welchem Staat
-diese erworben wurde, nicht zum vollständigen oder teilweisen
-Ausgleich der unter den Nummern 1 bis 4 genannten Unterschiede
-geeignet ist. Die antragstellenden Personen haben das Recht, zwischen
-dem Anpassungslehrgang und der Eignungsprüfung zu wählen.
+Lernfelder oder Bereiche der praktischen Ausbildung unterscheiden sich
+wesentlich, wenn die nachgewiesene Ausbildung der antragstellenden
+Person wesentliche inhaltliche Abweichungen hinsichtlich der
+Kenntnisse und Fähigkeiten aufweist, die eine wesentliche
+Voraussetzung für die Ausübung des Berufs der Altenpflegerin und des
+Altenpflegers in Deutschland sind. Wesentliche Unterschiede können
+ganz oder teilweise durch Kenntnisse und Fähigkeiten ausgeglichen
+werden, die die antragstellende Person im Rahmen ihrer tatsächlichen
+und rechtmäßigen Ausübung des Berufs der Altenpflegerin und des
+Altenpflegers in Voll- oder Teilzeit oder durch lebenslanges Lernen
+erworben hat, sofern die durch lebenslanges Lernen erworbenen
+Kenntnisse und Fähigkeiten von einer dafür in dem jeweiligen Staat
+zuständigen Stelle formell als gültig anerkannt wurden; dabei ist
+nicht entscheidend, in welchem Staat diese Kenntnisse und Fähigkeiten
+erworben worden sind. Die antragstellende Person hat das Recht,
+zwischen dem Anpassungslehrgang und der Eignungsprüfung zu wählen. Die
+Regelungen dieses Absatzes gelten entsprechend für den Fall der
+Einführung eines europäischen Berufsausweises für den Beruf der
+Altenpflegerin und des Altenpflegers.
 
-(5) Die Absätze 3 bis 4 gelten entsprechend für Drittstaatdiplome, für
-deren Anerkennung sich nach dem Recht der Europäischen Gemeinschaften
-eine Gleichstellung ergibt.
+(4a) Für eine antragstellende Person, die über einen
+Ausbildungsnachweis verfügt, der dem in Artikel 11 Buchstabe a der
+Richtlinie 2005/36/EG genannten Niveau entspricht, gilt Absatz 4 Satz
+5 bis 7 mit der Maßgabe, dass die erforderliche Ausgleichsmaßnahme
+abweichend von Absatz 4 Satz 8 aus einer Eignungsprüfung besteht.
+
+(4b) Wird die Voraussetzung des Absatzes 1 Nummer 1 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der
+Berufsqualifikation nach den Absätzen 3 bis 5 vor den Voraussetzungen
+nach Absatz 1 Nummer 2 bis 4 geprüft werden. Auf Antrag ist dem
+Antragsteller ein gesonderter Bescheid über die Feststellung seiner
+Berufsqualifikation zu erteilen.
+
+(4c) Die zuständige Behörde hat sicherzustellen, dass die
+antragstellende Person die Eignungsprüfung nach den Absätzen 4 und 4a
+spätestens sechs Monate nach der Entscheidung, der antragsstellenden
+Person eine Eignungsprüfung aufzuerlegen, ablegen kann.
+
+(5) Die Absätze 3 bis 4a gelten entsprechend für Drittstaatdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen
+Gemeinschaften eine Gleichstellung ergibt.
 
 (6) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -265,6 +296,104 @@ und Stellen übermitteln dem Bundesministerium für Familie, Senioren,
 Frauen und Jugend die Unterlagen, die erforderlich sind, um gemäß
 Artikel 60 Abs. 1 der Richtlinie 2005/36/EG der Europäischen
 Kommission über die Anwendung dieser Richtlinie zu berichten.
+
+
+### § 2b
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1, die sofort
+    vollziehbar oder unanfechtbar sind,
+
+
+2.  den Verzicht auf die Erlaubnis,
+
+
+3.  das Verbot der Ausübung des Berufs der Altenpflegerin und des
+    Altenpflegers durch unanfechtbare gerichtliche Entscheidung oder
+
+
+4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## Abschnitt 2 - Ausbildung in der Altenpflege
@@ -420,11 +549,29 @@ Fünften Buches Sozialgesetzbuch bezieht und die Ausbildung geeignet
 ist, die zur Durchführung dieses Modellvorhabens erforderliche
 Qualifikation zu vermitteln. Die Festlegung der Vornoten gemäß § 9 der
 Altenpflege-Ausbildungs- und Prüfungsverordnung und die staatliche
-Prüfung erstrecken sich auch auf die mit der Ausbildung erworbenen
-erweiterten Kompetenzen. Abweichend von Absatz 2 kann die Ausbildung
-nach Satz 1 an Hochschulen erfolgen. In diesem Fall finden die §§ 13
-bis 23 dieses Gesetzes und § 9 der Altenpflege-Ausbildungs- und
-Prüfungsverordnung keine Anwendung.
+Prüfung erstrecken sich auch auf die mit der zusätzlichen Ausbildung
+erworbenen erweiterten Kompetenzen. Abweichend von Absatz 2 kann die
+Ausbildung nach Satz 1, die zum Erwerb der erweiterten Kompetenzen
+führt, an Hochschulen erfolgen. In diesem Fall finden die §§ 13 bis 23
+dieses Gesetzes und § 9 der Altenpflege-Ausbildungs- und
+Prüfungsverordnung keine Anwendung. Abweichend von Satz 3 kann der
+Gemeinsame Bundesausschuss für die Tätigkeiten, die er in der
+Richtlinie nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch
+festgelegt hat, für die zusätzliche Ausbildung standardisierte Module
+entwickeln, die vom Bundesministerin für Familie, Senioren, Frauen und
+Jugend im Einvernehmen mit dem Bundesministerium für Gesundheit auch
+ohne Vorliegen eines vereinbarten Modellvorhabens nach § 63 Absatz 3c
+des Fünften Buches Sozialgesetzbuch genehmigt werden können. Der
+Gemeinsame Bundesausschuss hat vor seiner Entscheidung
+pflegewissenschaftlichen und pflegepädagogischen Sachverstand
+hinzuzuziehen sowie der Bundesärztekammer und den maßgeblichen
+Verbänden der Pflegeberufe Gelegenheit zur Stellungnahme zu geben; die
+Stellungnahmen sind in die Entscheidung einzubeziehen. Die Genehmigung
+der standardisierten Module nach Satz 8 erfolgt einmalig; Änderungen
+bedürfen einer erneuten Genehmigung.
+
+(8) Absatz 7 gilt entsprechend für Personen, die bereits zur Führung
+der Berufsbezeichnung nach § 1 Satz 1 berechtigt sind.
 
 
 ### § 4a
@@ -593,10 +740,38 @@ werden:
 der fachlichen Gleichwertigkeit um bis zu zwei Jahre verkürzt werden,
 wenn eine andere abgeschlossene Berufsausbildung nachgewiesen wird.
 
-(3) Die Verkürzung darf die Durchführung der Ausbildung und die
+(3) Auf Antrag ist bei Teilnahme an einer beruflichen Weiterbildung
+nach dem Dritten Buch Sozialgesetzbuch für Personen gemäß Absatz 1
+Nummer 2, die einschließlich der Ausbildung in einem Umfang, der einer
+Vollzeitbeschäftigung von mindestens zwei Jahren entspricht, in einer
+Pflegeeinrichtung gemäß § 71 des Elften Buches Sozialgesetzbuch
+beschäftigt waren, die Dauer der Maßnahme gegenüber der
+Regelausbildung um ein Drittel der Ausbildungszeit zu verkürzen.
+
+(4) Auf Antrag soll bei Teilnahme an einer beruflichen Weiterbildung
+nach dem Dritten Buch Sozialgesetzbuch die Dauer der Maßnahme
+gegenüber der Regelausbildung verkürzt werden:
+
+1.  für Personen gemäß Absatz 1 Nummer 1 um bis zu zwei Drittel der
+    Ausbildungszeit,
+
+
+2.  für Fälle des Absatzes 2 um bis zu zwei Drittel der Ausbildungszeit,
+
+
+3.  für Personen, die in einem Umfang, der einer Vollzeitbeschäftigung von
+    mindestens zwei Jahren entspricht, in einer Pflegeeinrichtung gemäß §
+    71 des Elften Buches Sozialgesetzbuch Aufgaben im Bereich der Pflege
+    oder Betreuung wahrgenommen haben, auf der Grundlage einer
+    Kompetenzfeststellung um ein Drittel der Ausbildungszeit.
+
+
+
+
+(5) Die Verkürzung darf die Durchführung der Ausbildung und die
 Erreichung des Ausbildungszieles nicht gefährden.
 
-(4) Die Absätze 1 bis 3 gelten für die Ausbildung nach § 4 Abs. 5
+(6) Die Absätze 1 bis 5 gelten für die Ausbildung nach § 4 Abs. 5
 entsprechend.
 
 
@@ -641,14 +816,14 @@ Erlaubnis nach § 1 zu regeln.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Personen, die einen
 Ausbildungsnachweis nachweisen und die eine Erlaubnis nach § 2 Abs. 1
-Nr. 1 in Verbindung mit § 2 Absatz 3, 3a, 4 oder 5 beantragen, zu
+Nr. 1 in Verbindung mit § 2 Absatz 3, 3a, 4, 4a oder 5 beantragen, zu
 regeln:
 
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 2
     und 3, insbesondere die Vorlage der von der antragstellenden Person zu
     erbringenden Nachweise und die Ermittlung durch die zuständige Behörde
-    entsprechend Artikel 50 Abs. 1 bis 3 in Verbindung mit Anhang VII der
-    Richtlinie 2005/36/EG,
+    entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII
+    der Richtlinie 2005/36/EG,
 
 
 2.  die Pflicht von Inhaberinnen und Inhabern von Ausbildungsnachweisen,
@@ -662,7 +837,10 @@ regeln:
 
 
 4.  as Verfahren über die Voraussetzungen zur Dienstleistungserbringung
-    gemäß § 1a in Verbindung mit § 10.
+    gemäß § 1a in Verbindung mit § 10,
+
+
+5.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 
 
@@ -672,16 +850,7 @@ Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
 
-## Abschnitt 3 - -
-
-
-
 ## Abschnitt 3 - Erbringen von Dienstleistungen
-
-
-### (XXXX) §§ 10 bis 12 (weggefallen)
-
--
 
 
 ### § 10
@@ -699,8 +868,8 @@ abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des
 2.  wenn der Beruf der Altenpflegerin und des Altenpflegers oder die
     Ausbildung zu diesem Beruf im Niederlassungsmitgliedstaat nicht
     reglementiert ist, diesen Beruf während der vorhergehenden zehn Jahre
-    mindestens zwei Jahre im Niederlassungsmitgliedstaat rechtmäßig
-    ausgeübt haben,
+    mindestens ein Jahr im Niederlassungsmitgliedstaat rechtmäßig ausgeübt
+    haben,
 
 
 
@@ -726,7 +895,8 @@ dieses Gesetzes zu erbringen.
 (3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im
 Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten
 Dokumenten bescheinigten Situation hat der Dienstleistungserbringer
-folgende Bescheinigungen vorzulegen:
+folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung
+nach Nummer 4 vorzulegen:
 
 1.  Staatsangehörigkeitsnachweis,
 
@@ -736,28 +906,39 @@ folgende Bescheinigungen vorzulegen:
 
 3.  Bescheinigung über die rechtmäßige Niederlassung im Beruf der
     Altenpflegerin und des Altenpflegers in einem anderen Mitgliedstaat,
-    die sich auch darauf erstreckt, dass dem Dienstleister die Ausübung
-    seiner Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht,
-    auch nicht vorübergehend, untersagt ist oder im Falle des Absatzes 1
-    Satz 1 Nr. 2 ein Nachweis in beliebiger Form darüber, dass der
-    Dienstleister eine dem Beruf der Altenpflegerin und des Altenpflegers
-    entsprechende Tätigkeit während der vorhergehenden zehn Jahre
-    mindestens zwei Jahre lang rechtmäßig ausgeübt hat.
+    die sich auch darauf erstreckt, dass dem Dienstleistungserbringer die
+    Ausübung seiner Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung
+    nicht, auch nicht vorübergehend, untersagt ist und keine Vorstrafen
+    vorliegen, oder im Fall des Absatzes 1 Satz 1 Nummer 2 ein Nachweis in
+    beliebiger Form darüber, dass der Dienstleistungserbringer eine dem
+    Beruf der Altenpflegerin und des Altenpflegers entsprechende Tätigkeit
+    innerhalb der vorhergehenden zehn Jahre mindestens ein Jahr lang
+    rechtmäßig ausgeübt hat, und
+
+
+4.  eine Erklärung des Dienstleistungserbringers, dass er über die zur
+    Erbringung der Dienstleistung erforderlichen Kenntnisse der deutschen
+    Sprache verfügt.
 
 
 
 Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der
 deutschen Sprache müssen vorliegen. Die zuständige Behörde prüft im
 Falle der erstmaligen Dienstleistungserbringung den
-Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Abs. 4 gilt
-entsprechend mit der Maßgabe, dass für wesentliche Unterschiede
-zwischen der beruflichen Qualifikation des Dienstleistungserbringers
-und der nach diesem Gesetz und der Altenpflege-Ausbildungs- und
-Prüfungsverordnung geforderten Ausbildung Ausgleichsmaßnahmen nur
-gefordert werden dürfen, wenn die Unterschiede so groß sind, dass ohne
-den Nachweis der fehlenden Kenntnisse und Fähigkeiten die öffentliche
-Gesundheit gefährdet wäre. Der Ausgleich der fehlenden Kenntnisse und
-Fähigkeiten soll in Form einer Eignungsprüfung erfolgen.
+Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Absatz 4 und
+4a gilt entsprechend mit der Maßgabe, dass für wesentliche
+Unterschiede zwischen der beruflichen Qualifikation des
+Dienstleistungserbringers und der nach diesem Gesetz und der
+Altenpflege-Ausbildungs- und Prüfungsverordnung geforderten Ausbildung
+Ausgleichsmaßnahmen nur gefordert werden dürfen, wenn die Unterschiede
+so groß sind, dass ohne den Nachweis der fehlenden Kenntnisse und
+Fähigkeiten die öffentliche Gesundheit gefährdet wäre. Soweit es für
+die Beurteilung der Frage, ob wesentliche Unterschiede vorliegen,
+erforderlich ist, kann die zuständige Behörde bei der zuständigen
+Behörde des Niederlassungsmitgliedstaats Informationen über die
+Ausbildungsgänge des Dienstleisters anfordern. Der Ausgleich der
+fehlenden Kenntnisse und Fähigkeiten erfolgt durch eine
+Eignungsprüfung.
 
 (4) Staatsangehörigen eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die im Geltungsbereich dieses Gesetzes den Beruf
@@ -784,18 +965,19 @@ der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
 ### § 11
 
-Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf
-Anforderung der zuständigen Behörden eines Vertragsstaates des
-Europäischen Wirtschaftsraumes haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
-und die gute Führung des Dienstleisters sowie Informationen darüber,
-dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
-Sanktionen vorliegen, zu übermitteln.
+Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
+berechtigt, für jede Dienstleistungserbringung von den zuständigen
+Behörden des Niederlassungsmitgliedstaats Informationen über die
+Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen. Auf Anforderung der zuständigen Behörden eines
+Vertragsstaates des Europäischen Wirtschaftsraumes haben die
+zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie
+2005/36/EG der anfordernden Behörde alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
+übermitteln.
 
 
 ### § 12
@@ -1221,7 +1403,7 @@ dem Berufsbildungsgesetz durchgeführt.
 
 ### § 32
 
-§ 6 Nummer 3 tritt am 31. Dezember 2017 außer Kraft.
+§ 6 Nummer 3 tritt am 31. Dezember 2019 außer Kraft.
 
 
 ### § 33

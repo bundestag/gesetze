@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 1307
 
 Neugefasst durch
-:   Bek. v. 20.12.2005 I 3512
+:   Bek. v. 20.12.2005 I 3512;
+
+Geändert durch
+:   Art. 3 V v. 17.4.2014 I 388
 
 
 ## I. - Begriffsbestimmung
@@ -331,31 +334,25 @@ ausgebreitet haben.
 
 ### § 13
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer vollziehbaren Anordnung nach § 7 oder § 11 oder
-
-
-2.  einer mit einer Genehmigung nach § 8 Satz 2 verbundenen vollziehbaren
-    Auflage
-
-
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 3 Nr. 1 Rinder nicht, nicht richtig oder nicht rechtzeitig
+1.  entgegen § 3 Nummer 1 ein Rind nicht oder nicht rechtzeitig
     untersuchen lässt,
 
 
-2.  entgegen § 4 nicht sicherstellt, dass Samen seuchenkranker Bullen
-    unschädlich beseitigt wird, oder
+2.  entgegen § 4 Satz 2 nicht sicherstellt, dass Samen beseitigt wird,
 
 
-3.  entgegen § 8 Satz 2 Rinder entfernt oder besamt oder Bullen verwendet.
+3.  einer vollziehbaren Anordnung nach § 7 oder § 11 zuwiderhandelt,
+
+
+4.  entgegen § 8 Satz 2 ein Rind entfernt oder besamt oder einen Bullen
+    zum Decken verwendet oder
+
+
+5.  einer mit einer Genehmigung nach § 8 Satz 2 verbundenen vollziehbaren
+    Auflage zuwiderhandelt.
 
 
 

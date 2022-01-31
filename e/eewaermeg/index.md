@@ -2,7 +2,7 @@
 Title: Gesetz zur Förderung Erneuerbarer Energien im Wärmebereich
 jurabk: EEWärmeG
 layout: default
-origslug: eew_rmeg
+origslug: eewaermeg
 slug: eewaermeg
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1658
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 68 G v. 22.12.2011 I 3044
+:   Art. 9 G v. 20.10.2015 I 1722
 
 [^F771315_1_BJNR165800008]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -260,11 +260,11 @@ befinden.
     keine technischen Regeln für die Berechnung bestimmter Anteile des
     Wärme- und Kälteenergiebedarfs enthalten, wird der Wärme- und
     Kälteenergiebedarf nach den anerkannten Regeln der Technik berechnet;
-    das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-    kann im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung durch Bekanntmachung im Bundesanzeiger auf
+    das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+    mit dem Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit durch Bekanntmachung im Bundesanzeiger auf
     Veröffentlichungen sachverständiger Stellen über diese anerkannten
-    Regeln der Technik hinweisen,
+    Regeln der Technik hinweisen.
 
 
 10.
@@ -613,6 +613,29 @@ Durchführung von Ersatzmaßnahmen nach § 7 im Einzelfall überwiegende
 Gründe am Belegenheitsort entgegenstehen.
 
 
+### § 9a Gebäude für die Unterbringung von Asylbegehrenden und Flüchtlingen
+
+(1) Für bereits errichtete öffentliche Gebäude nach § 4, die sich im
+Eigentum der öffentlichen Hand befinden und die bis zum 31. Dezember
+2018 grundlegend renoviert werden, um sie als Aufnahmeeinrichtungen
+nach § 44 des Asylgesetzes oder als Gemeinschaftsunterkünfte nach § 53
+des Asylgesetzes zu nutzen, entfällt die Pflicht nach § 3 Absatz 2.
+
+(2) Im Übrigen kann die zuständige Landesbehörde bei Anträgen auf
+Befreiung nach § 9 Absatz 1, die bis zum 31. Dezember 2018 gestellt
+werden, von einer unbilligen Härte ausgehen, wenn die Pflicht nach § 3
+Absatz 1 die Schaffung von Aufnahmeeinrichtungen nach § 44 des
+Asylgesetzes oder von Gemeinschaftsunterkünften nach § 53 des
+Asylgesetzes erheblich verzögern würde.
+
+(3) Die Ausnahme von der Nutzungspflicht nach § 4 ist bis zum 31.
+Dezember 2018 auch für die in § 4 Nummer 6 genannten Gebäude mit einer
+geplanten Nutzungsdauer von bis zu fünf Jahren anzuwenden, wenn die
+Gebäude dazu bestimmt sind, als Aufnahmeeinrichtungen nach § 44 des
+Asylgesetzes oder als Gemeinschaftsunterkünfte nach § 53 des
+Asylgesetzes zu dienen.
+
+
 ### § 10 Nachweise
 
 (1) Die Verpflichteten müssen
@@ -719,15 +742,14 @@ Sachkundigen vorzulegen.
 Bescheinigung nach den Absätzen 2 bis 4 unrichtige oder unvollständige
 Angaben zu machen.
 
-(6) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, zur Vereinfachung und
-Vereinheitlichung des Nachweisverfahrens im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung durch
-Rechtsverordnung mit Zustimmung des Bundesrates Formulare für
-Nachweise, Anzeigen oder Bescheinigungen nach den Absätzen 2 bis 4
-einzuführen. Dies gilt nicht für Nachweise nach Nummer VII.5 der
-Anlage zu diesem Gesetz. In der Rechtsverordnung nach Satz 1 kann
-vorgesehen werden, dass
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+zur Vereinfachung und Vereinheitlichung des Nachweisverfahrens im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates Formulare für Nachweise, Anzeigen oder Bescheinigungen
+nach den Absätzen 2 bis 4 einzuführen. Dies gilt nicht für Nachweise
+nach Nummer VII.5 der Anlage zu diesem Gesetz. In der Rechtsverordnung
+nach Satz 1 kann vorgesehen werden, dass
 
 1.  über die Nachweise, Anzeigen oder Bescheinigungen nach den Absätzen 2
     bis 4 hinaus weitere Daten gegenüber der Behörde nachgewiesen werden
@@ -799,9 +821,9 @@ Die Zuständigkeit der Behörden richtet sich nach Landesrecht.
 Die Nutzung Erneuerbarer Energien für die Erzeugung von Wärme oder
 Kälte wird durch den Bund bedarfsgerecht in den Jahren 2009 bis 2012
 mit bis zu 500 Millionen Euro pro Jahr gefördert. Einzelheiten werden
-durch Verwaltungsvorschriften des Bundesministeriums für Umwelt,
-Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
-Bundesministerium der Finanzen geregelt.
+durch Verwaltungsvorschriften des Bundesministeriums für Wirtschaft
+und Energie im Einvernehmen mit dem Bundesministerium der Finanzen
+geregelt.
 
 
 ### § 14 Geförderte Maßnahmen
@@ -1211,10 +1233,8 @@ II. Biomasse
 
             aa) bei der Aufbereitung und Einspeisung des Biomethans die
                 Voraussetzungen nach Nummer 1 Buchstabe a bis c der Anlage 1 zum
-                Erneuerbare-Energien-Gesetz vom 25. Oktober 2008 (BGBl. I S. 2074),
-                das zuletzt durch Artikel 1 des Gesetzes vom 28. Juli 2011 (BGBl. I S.
-                1634) geändert worden ist, in der jeweils geltenden Fassung
-                eingehalten worden sind und
+                Erneuerbare-Energien-Gesetz vom 25. Oktober 2008 (BGBl. I S. 2074) in
+                der am 31. Juli 2014 geltenden Fassung eingehalten worden sind und
 
 
             bb) die Menge des entnommenen Biomethans im Wärmeäquivalent am Ende eines
@@ -1258,16 +1278,16 @@ II. Biomasse
                 Berechnung des Treibhausgas-Minderungspotenzials ist der
                 Vergleichswert für Fossilbrennstoffe (
                 E
-                F                                     ) nach Nummer 4 der Anlage 1 zur
-                Biomassestrom-Nachhaltigkeitsverordnung
+                F) nach Nummer 4 der Anlage 1 zur Biomassestrom-
+                Nachhaltigkeitsverordnung
 
                 –   für flüssige Biomasse, die zur Wärmeerzeugung verwendet wird, 77 g CO
-                    2eq                                           /MJ und
+                    2eq/MJ und
 
 
                 –   für flüssige Biomasse, die zur Wärmeerzeugung in Kraft-Wärme-Kopplung
                     verwendet wird, 85 g CO
-                    2eq                                           /MJ.
+                    2eq/MJ.
 
 
 
@@ -1661,15 +1681,15 @@ VII. Maßnahmen zur Einsparung von Energie
         2, Tabelle 1 der Energieeinsparverordnung in der am 1. Mai 2011
         geltenden Fassung. Der Transmissionswärmetransferkoeffizient wird nach
         Nummer 6.2 der DIN V 18599-2
-        (2007-02),                          die wärmeübertragende
-        Umfassungsfläche wird nach DIN EN ISO 13789 (1999-10), Fall
-        „Außenabmessung“, ermittelt, so dass alle thermisch konditionierten
-        Räume des Gebäudes von dieser Fläche umschlossen werden. Bei der
-        grundlegenden Renovierung öffentlicher Gebäude gilt Satz 1 Buchstabe b
-        auch dann als erfüllt, wenn das öffentliche Gebäude nach der
-        grundlegenden Renovierung die Anforderungen an zu errichtende Gebäude
-        nach § 4 der Energieeinsparverordnung in der am 1. Mai 2011 geltenden
-        Fassung erfüllt.
+        (2007-02), die wärmeübertragende Umfassungsfläche wird nach DIN EN ISO
+        13789 (1999-10), Fall „Außenabmessung“, ermittelt, so dass alle
+        thermisch konditionierten Räume des Gebäudes von dieser Fläche
+        umschlossen werden. Bei der grundlegenden Renovierung öffentlicher
+        Gebäude gilt Satz 1 Buchstabe b auch dann als erfüllt, wenn das
+        öffentliche Gebäude nach der grundlegenden Renovierung die
+        Anforderungen an zu errichtende Gebäude nach § 4 der
+        Energieeinsparverordnung in der am 1. Mai 2011 geltenden Fassung
+        erfüllt.
 
 
     3.  Maßnahmen zur Einsparung von Energie, bei denen ganz oder teilweise

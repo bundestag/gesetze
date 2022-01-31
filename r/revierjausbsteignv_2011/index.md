@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 230
 
+Geändert durch
+:   Art. 6 Abs. 27 G v. 23.5.2017 I 1228
+
 
 ## Eingangsformel
 
@@ -81,18 +84,19 @@ Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
 (7) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, der
-Unfallverhütungsvorschriften, der Arbeitsstättenverordnung, und
-sonstige Vorschriften zum Schutze der Auszubildenden sowie die
-Vorschriften zum Umgang mit Waffen einschließlich Munition eingehalten
-werden können. Sie muss über geeignete Sozialräume und Sanitärräume
-verfügen. Bei der Beantragung der Anerkennung nach § 27 Absatz 3 des
-Berufsbildungsgesetzes muss eine Bescheinigung der zuständigen
-Berufsgenossenschaft über die sicherheitstechnische Überprüfung des
-Betriebes vorliegen, die nicht älter als ein Jahr ist. Sollen
-Auszubildende in die häusliche Gemeinschaft der Ausbildungsstätte
-aufgenommen werden, so muss eine Unterkunft zur Verfügung gestellt
-werden, die zeitgemäß beschaffen und ausgestattet ist.
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, der Unfallverhütungsvorschriften, der
+Arbeitsstättenverordnung, und sonstige Vorschriften zum Schutze der
+Auszubildenden sowie die Vorschriften zum Umgang mit Waffen
+einschließlich Munition eingehalten werden können. Sie muss über
+geeignete Sozialräume und Sanitärräume verfügen. Bei der Beantragung
+der Anerkennung nach § 27 Absatz 3 des Berufsbildungsgesetzes muss
+eine Bescheinigung der zuständigen Berufsgenossenschaft über die
+sicherheitstechnische Überprüfung des Betriebes vorliegen, die nicht
+älter als ein Jahr ist. Sollen Auszubildende in die häusliche
+Gemeinschaft der Ausbildungsstätte aufgenommen werden, so muss eine
+Unterkunft zur Verfügung gestellt werden, die zeitgemäß beschaffen und
+ausgestattet ist.
 
 (8) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren

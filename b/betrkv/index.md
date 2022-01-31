@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 3.5.2012 I 958
 
+Änderung durch
+:   Art. 15 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Betriebskosten
@@ -275,20 +278,39 @@ Betriebskosten im Sinne von § 1 sind:
     a)  des Betriebs der Gemeinschafts-Antennenanlage,
 
         hierzu gehören die Kosten des Betriebsstroms und die Kosten der
-        regelmäßigen Prüfung ihrer Betriebsbereitschaft einschließlich der
-        Einstellung durch eine Fachkraft oder das Nutzungsentgelt für eine
-        nicht zu dem Gebäude gehörende Antennenanlage sowie die Gebühren, die
-        nach dem Urheberrechtsgesetz für die Kabelweitersendung entstehen,
+        regelmäßigen Prüfung ihrer Betriebsbereitschaft einschließlich ihrer
+        Einstellung durch eine Fachkraft,
 
+        bis zum 30. Juni 2024 außerdem das Nutzungsentgelt für eine nicht zu
+        dem Gebäude gehörende Antennenanlage sowie die Gebühren, die nach dem
+        Urheberrechtsgesetz für die Kabelweitersendung entstehen,
 
 
 
     oder
 
     b)  des Betriebs der mit einem Breitbandnetz verbundenen privaten
-        Verteilanlage; hierzu gehören die Kosten entsprechend Buchstabe a,
-        ferner die laufenden monatlichen Grundgebühren für
-        Breitbandanschlüsse;
+        Verteilanlage,
+
+        hierzu gehören die Kosten des Betriebsstroms,
+
+        bis zum 30. Juni 2024 außerdem die weiteren Kosten entsprechend
+        Buchstabe a, sowie die laufenden monatlichen Grundgebühren für
+        Breitbandanschlüsse,
+
+
+
+    oder
+
+    c)  des Betriebs einer gebäudeinternen Verteilanlage, die vollständig
+        mittels Glasfaser mit einem öffentlichen Netz mit sehr hoher Kapazität
+        im Sinne des § 3 Nummer 33 des Telekommunikationsgesetzes verbunden
+        ist, wenn der Mieter seinen Anbieter von öffentlich zugänglichen
+        Telekommunikationsdiensten über seinen Anschluss frei wählen kann,
+
+        hierzu gehören die Kosten des Betriebsstroms sowie ein
+        Bereitstellungsentgelt gemäß § 72 Absatz 1 des
+        Telekommunikationsgesetzes;
 
 
 
@@ -310,4 +332,6 @@ Betriebskosten im Sinne von § 1 sind:
 
 
 
+Für Anlagen, die ab dem 1. Dezember 2021 errichtet worden sind, ist
+Satz 1 Nummer 15 Buchstabe a und b nicht anzuwenden.
 

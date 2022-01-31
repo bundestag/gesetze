@@ -16,7 +16,10 @@ Fundstelle
 :   RMBl: 1937, 515
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 7 G v. 11.8.2009 I 2713
+:   Art. 7 G v. 5.7.2021 I 3338
+
+Änderung durch
+:   Art. 44 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -25,8 +28,9 @@ Auf Grund des § 125 Abs. 3 des Gesetzes über die Angelegenheiten der
 freiwilligen Gerichtsbarkeit in der Fassung der Verordnung vom 10.
 August 1937 (Reichsgesetzbl. I S. 900) bestimme ich folgendes:
 
+Einrichtung des Handelsregisters,
 
-## I. - Einrichtung des Handelsregisters, Örtliche und sachliche Zuständigkeit
+## I. - Örtliche und sachliche Zuständigkeit
 
 
 
@@ -109,7 +113,7 @@ Beschwerdegericht keinen Zugriff auf die elektronisch geführte
 Registerakte hat. Das Registergericht hat in diesem Fall von
 ausschließlich elektronisch vorliegenden Dokumenten Ausdrucke für das
 Beschwerdegericht zu fertigen, soweit dies zur Durchführung des
-Beschwerdeverfahrens notwendig ist; § 298 Abs. 2 der
+Beschwerdeverfahrens notwendig ist; § 298 Absatz 3 der
 Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
 bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
 aufzubewahren.
@@ -117,7 +121,7 @@ aufzubewahren.
 
 ### § 9 Registerordner
 
-(1) Die zum Handelsregister eingereichten und nach § 9 Abs. 1 des
+(1) Die zum Handelsregister einzureichenden und nach § 9 Abs. 1 des
 Handelsgesetzbuchs der unbeschränkten Einsicht unterliegenden
 Dokumente werden für jedes Registerblatt (§ 13) in einen dafür
 bestimmten Registerordner aufgenommen. Sie sind in der zeitlichen
@@ -136,9 +140,8 @@ kenntlich zu machen, dass die für eine frühere Fassung eingereichte
 können zur Ersetzung der Urschrift in ein elektronisches Dokument
 übertragen und in dieser Form in den Registerordner übernommen werden.
 Sie sind in den Registerordner zu übernehmen, sobald ein Antrag auf
-Übertragung in ein elektronisches Dokument (Artikel 61 Abs. 3 des
-Einführungsgesetzes zum Handelsgesetzbuch) oder auf elektronische
-Übermittlung (§ 9 Abs. 2 des Handelsgesetzbuchs) vorliegt.
+elektronische Übermittlung (§ 9 Abs. 2 des Handelsgesetzbuchs)
+vorliegt.
 
 (3) Wird ein Schriftstück, das in Papierform zum Registerordner
 einzureichen war, zurückgegeben, so wird es zuvor in ein
@@ -180,7 +183,7 @@ Wiedergabe auf einem Datenträger eingereicht wurde.
 (6) Im Fall einer Beschwerde hat das Registergericht von den im
 Registerordner gespeicherten Dokumenten Ausdrucke für das
 Beschwerdegericht zu fertigen, soweit dies zur Durchführung des
-Beschwerdeverfahrens notwendig ist; § 298 Abs. 2 der
+Beschwerdeverfahrens notwendig ist; § 298 Absatz 3 der
 Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
 bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
 aufzubewahren.
@@ -394,8 +397,9 @@ Archivierung von Handelsregisterblättern zuständigen Stelle verfügbar
 gehalten werden, soweit landesrechtliche Vorschriften nicht
 entgegenstehen.
 
+Verfahren bei Anmeldung,
 
-## III. - Verfahren bei Anmeldung, Eintragung und Bekanntmachung
+## III. - Eintragung und Bekanntmachung
 
 
 
@@ -450,9 +454,13 @@ in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit verfügt ist.
 
 
-### § 26
+### § 26 Änderung eingetragener Angaben
 
-(weggefallen)
+Die Änderung eingetragener Angaben ist, unbeschadet des § 25 Absatz 1
+Satz 2, in der Regel innerhalb von 21 Tagen nach Eingang der
+vollständigen Anmeldung oder im Fall eines durch den Antragsteller
+behebbaren Eintragungshindernisses innerhalb von 21 Tagen nach dessen
+Behebung einzutragen und bekannt zu machen.
 
 
 ### § 27 Vornahme der Eintragung, Wortlaut der Bekanntmachung
@@ -606,8 +614,7 @@ auch als fortlaufender Text erstellt werden.
 
 (5) Ausdrucke können dem Antragsteller auch elektronisch übermittelt
 werden. Die elektronische Übermittlung amtlicher Ausdrucke erfolgt
-unter Verwendung einer qualifizierten elektronischen Signatur nach dem
-Signaturgesetz.
+unter Verwendung einer qualifizierten elektronischen Signatur.
 
 (6) § 30 Abs. 3 gilt entsprechend.
 
@@ -750,7 +757,7 @@ Die Abteilungen A und B werden in getrennten Registern nach den
 beigegebenen Mustern geführt.
 
 
-### Abteilung A -
+### Abteilung A - 
 
 
 
@@ -802,14 +809,15 @@ einzutragen:
         die Mitglieder des Vorstandes und deren Stellvertreter, bei
         Kreditinstituten die gerichtlich bestellten vertretungsberechtigten
         Personen, die Abwickler oder Liquidatoren unter der Bezeichnung als
-        solche, bei ausländischen Versicherungsunternehmen die nach § 106 Abs.
-        3 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollmächtigten
-        sowie bei einer Zweigstelle eines Unternehmens mit Sitz in einem
-        anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1 des Gesetzes
-        über das Kreditwesen bezeichneten Umfang betreibt, die nach § 53 Abs.
-        2 Nr. 1 des Gesetzes über das Kreditwesen bestellten Geschäftsleiter
-        jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder
-        gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung
+        solche, bei ausländischen Versicherungsunternehmen die nach § 68
+        Absatz 2 des Versicherungsaufsichtsgesetzes bestellten
+        Hauptbevollmächtigten sowie bei einer Zweigstelle eines Unternehmens
+        mit Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs.
+        1 des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die
+        nach § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen bestellten
+        Geschäftsleiter jeweils mit Familiennamen, Vornamen, Geburtsdatum und
+        Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder
+        Niederlassung
 
 
 
@@ -938,7 +946,7 @@ angemeldet, so ist bei der Eintragung in Abteilung B auf das bisherige
 Registerblatt in der Spalte "Bemerkungen" zu verweisen und umgekehrt.
 
 
-### Abteilung B -
+### Abteilung B - 
 
 
 
@@ -1014,8 +1022,8 @@ einzutragen:
     einzutragenden Personen im Einzelfall von den Angaben in Spalte 4
     unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei
     den jeweiligen Personen zu vermerken. Ebenfalls in Spalte 4 unter
-    Buchstabe b sind bei ausländischen Versicherungsunternehmen die nach §
-    106 Abs. 3 des Versicherungsaufsichtsgesetzes bestellten
+    Buchstabe b sind bei ausländischen Versicherungsunternehmen die nach
+    § 68 Absatz 2 des Versicherungsaufsichtsgesetzes bestellten
     Hauptbevollmächtigten, bei einer Zweigstelle eines Unternehmens mit
     Sitz in einem anderen Staat, die Bankgeschäfte in dem in § 1 Abs. 1
     des Gesetzes über das Kreditwesen bezeichneten Umfang betreibt, die
@@ -1067,7 +1075,8 @@ einzutragen:
             oder des Versicherungsvereins auf Gegenseitigkeit;
 
 
-        ee) Eintragungen nach dem Umwandlungsgesetz;
+        ee) Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und
+            Abwicklungsgesetz;
 
 
         ff) das Erlöschen der Firma, die Löschung einer Aktiengesellschaft, SE,
@@ -1086,9 +1095,8 @@ einzutragen:
             besteht;
 
 
-        ii) bei Investmentaktiengesellschaften das in der Satzung festgelegte
-            Mindestkapital und Höchstkapital (§ 105 Abs. 1 des
-            Investmentgesetzes);
+        ii) bei Investmentaktiengesellschaften mit variablem Kapital das in der
+            Satzung festgelegte Mindestkapital und Höchstkapital;
 
 
         jj) der Beschluss einer Übertragung von Aktien gegen Barabfindung (§ 327a
@@ -1186,8 +1194,9 @@ gewährleistet sein, dass
     wiedergegeben werden können,
 
 
-3.  die nach der Anlage zu § 126 Abs. 1 Satz 2 Nr. 3 der Grundbuchordnung
-    erforderlichen Maßnahmen getroffen werden.
+3.  die nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679
+    erforderlichen Anforderungen erfüllt sind, soweit es um
+    personenbezogene Daten geht.
 
 
 
@@ -1220,8 +1229,9 @@ werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der
 Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht
 verändert werden.
 
+Anforderungen an Anlagen und Programme,
 
-#### § 49 Anforderungen an Anlagen und Programme, Sicherung der Anlagen, Programme und Daten
+#### § 49 Sicherung der Anlagen, Programme und Daten
 
 (1) Hinsichtlich der Anforderungen an die für das elektronisch
 geführte Handelsregister verwendeten Anlagen und Programme, deren
@@ -1349,8 +1359,9 @@ Der Reichsminister der Justiz
 
 -
 
+(zu § 33 Abs. 3)
 
-#### Anlage 3 (zu § 33 Abs. 3) Muster für Bekanntmachungen
+#### Anlage 3 Muster für Bekanntmachungen
 
 (Fundstelle: BGBl. I 2008, 2040)
 Amtsgericht Charlottenburg – Registergericht –,

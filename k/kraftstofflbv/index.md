@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 520
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.4.2007 I 594
+:   Art. 37 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel
@@ -337,11 +337,11 @@ Energiesicherungsgesetzes 1975 bestimmten Stellen.
 
 (2) Bundesbehörden, die obersten Bundesbehörden nachgeordnet sind,
 erhalten Bezugscheine von den obersten Bundesbehörden, die obersten
-Bundesbehörden vom Bundesministerium für Wirtschaft und Technologie
-oder einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen
-dieser Bedarfsträger können jedoch von den nach Absatz 1 zuständigen
-Stellen auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender,
-anders nicht rechtzeitig zu deckender Bedarf besteht.
+Bundesbehörden vom Bundesministerium für Wirtschaft und Energie oder
+einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen dieser
+Bedarfsträger können jedoch von den nach Absatz 1 zuständigen Stellen
+auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender, anders
+nicht rechtzeitig zu deckender Bedarf besteht.
 
 (3) Der Berechtigte kann sich die Bezugscheine über eine auf Grund
 eines Antrags nach den §§ 7 bis 9 bewilligte Kraftstoffmenge oder über
@@ -349,13 +349,12 @@ die Grundmenge bei jeder nach Absatz 1 zuständigen Ausgabestelle gegen
 Empfangsbestätigung aushändigen lassen.
 
 (4) Die Eisenbahnen des Bundes erhalten Bezugscheine vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bundesministerium für Verkehr und digitale Infrastruktur.
 
-(5) Die Unternehmen gemäß § 2 des Post- und
-Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer
-Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet
-sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
-Technologie. Absatz 2 Satz 2 gilt entsprechend.
+(5) Die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder
+Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
+Energie. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen

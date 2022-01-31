@@ -3,7 +3,7 @@ Title: Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädago
   Personal vom 15. November 2011
 jurabk: TVMindestlohnPäda
 layout: default
-origslug: tvmindestlohnp_da
+origslug: tvmindestlohnpaeda
 slug: tvmindestlohnpaeda
 
 ---

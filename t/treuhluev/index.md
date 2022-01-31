@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 3908
 
 Zuletzt geändert durch
-:   Art. 539 V v. 31.10.2006 I 2407
+:   Art. 591 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -33,7 +33,7 @@ eingefügt worden ist, verordnet die Bundesregierung:
 Artikels 25 des Einigungsvertrages zugewiesenen liegenschaftsbezogenen
 Aufgaben werden mit Wirkung vom 31. Dezember 1994 auf das
 Bundesministerium der Finanzen übertragen, das sie im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie und dem jeweils
+dem Bundesministerium für Wirtschaft und Energie und dem jeweils
 zuständigen Bundesministerium wahrnimmt.
 
 (2) Von der Aufgabenübertragung nach Absatz 1 ausgenommen sind

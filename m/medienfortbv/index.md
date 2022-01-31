@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2894 (3538)
 
-Geändert durch
-:   Art. 6 V v. 23.7.2010 I 1010
+Zuletzt geändert durch
+:   Art. 11 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -2621,10 +2621,11 @@ der bisherigen Vorschriften beantragt werden.
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
+(zu § 8 Absatz 5)
 
-### Anlage 1 (zu § 8 Absatz 5) Muster
+### Anlage 1 Muster
 
-(Fundstelle: BGBl. 2009, 2911,
+(Fundstelle: BGBl. 2009, 2911;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
@@ -2663,10 +2664,14 @@ Geprüfter Industriemeister/Geprüfte Industriemeisterin –
 ## Fachrichtung Printmedien
 
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ...............................
@@ -2681,10 +2686,11 @@ bestanden.
 
 
 
+(zu § 8 Absatz 5)
 
-### Anlage 2 (zu § 8 Absatz 5) Muster
+### Anlage 2 Muster
 
-(Fundstelle: BGBl. 2009, 2912 - 2913,
+(Fundstelle: BGBl. 2009, 2912 - 2913;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   .................
@@ -2716,10 +2722,10 @@ Fachrichtung Printmedien
 Geprüfter Industriemeister/Geprüfte Industriemeisterin –
 ## Fachrichtung Printmedien
 
-[^f772424_01_BJNR289400009BJNE002801308]
+[^f772424_01_BJNR289400009BJNE002802377]
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
 bestanden:
 
 
@@ -2825,7 +2831,7 @@ bestanden:
 *    *
     *   3. Projektarbeit
 
-    *[^f772424_02_BJNR289400009BJNE002801308]
+    *[^f772424_02_BJNR289400009BJNE002802377]
    ........
 
     *
@@ -2867,6 +2873,10 @@ bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum .................
 
@@ -2880,18 +2890,19 @@ bestanden:
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .................
-[^f772424_01_BJNR289400009BJNE002801308]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
+[^f772424_01_BJNR289400009BJNE002802377]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
     zu gewichten: Die Punktebewertung der Gesamtplanung als schriftliche
     Hausarbeit sowie der mündlichen Präsentation einschließlich des
     Fachgesprächs gehen mit jeweils 50 Prozent in die Gesamtpunktzahl der
     Projektarbeit ein. Dabei ist aus den Einzelbewertungen der mündlichen
     Präsentation und des Fachgesprächs ein arithmetisches Mittel nach
     Punkten zu bilden.
-[^f772424_02_BJNR289400009BJNE002801308]: 
+[^f772424_02_BJNR289400009BJNE002802377]: 
+(zu § 15 Absatz 5)
 
-### Anlage 3 (zu § 15 Absatz 5) Muster
+### Anlage 3 Muster
 
-(Fundstelle: BGBl. 2009, 2914,
+(Fundstelle: BGBl. 2009, 2914;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
@@ -2924,10 +2935,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Geprüfter Medienfachwirt Print/Geprüfte Medienfachwirtin Print
 
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum .................
@@ -2940,10 +2955,11 @@ bestanden.
 
 
 
+(zu § 15 Absatz 5)
 
-### Anlage 4 (zu § 15 Absatz 5) Muster
+### Anlage 4 Muster
 
-(Fundstelle: BGBl. 2009, 2915 - 2916,
+(Fundstelle: BGBl. 2009, 2915 - 2916;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   .................
@@ -2975,10 +2991,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Geprüfter Medienfachwirt Print/Geprüfte Medienfachwirtin Print
 
-[^f772424_03_BJNR289400009BJNE003001308]
+[^f772424_03_BJNR289400009BJNE003002377]
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
 bestanden:
 
 
@@ -3084,7 +3100,7 @@ bestanden:
 *    *
     *   3. Projektarbeit
 
-    *[^f772424_04_BJNR289400009BJNE003001308]
+    *[^f772424_04_BJNR289400009BJNE003002377]
    .................
 
     *
@@ -3126,6 +3142,10 @@ bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum .................
 
@@ -3139,18 +3159,19 @@ bestanden:
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .................
-[^f772424_03_BJNR289400009BJNE003001308]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
+[^f772424_03_BJNR289400009BJNE003002377]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
     zu gewichten: Die Punktebewertung der Gesamtplanung als schriftliche
     Hausarbeit sowie der mündlichen Präsentation einschließlich des
     Fachgesprächs gehen mit jeweils 50 Prozent in die Gesamtpunktzahl der
     Projektarbeit ein. Dabei ist aus den Einzelbewertungen der mündlichen
     Präsentation und des Fachgesprächs ein arithmetisches Mittel nach
     Punkten zu bilden.
-[^f772424_04_BJNR289400009BJNE003001308]: 
+[^f772424_04_BJNR289400009BJNE003002377]: 
+(zu § 22 Absatz 5)
 
-### Anlage 5 (zu § 22 Absatz 5) Muster
+### Anlage 5 Muster
 
-(Fundstelle: BGBl. 2009, 2917,
+(Fundstelle: BGBl. 2009, 2917;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   .................
@@ -3183,10 +3204,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ## Geprüfter Medienfachwirt Digital/Geprüfte Medienfachwirtin Digital
 
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum .................
@@ -3199,10 +3224,11 @@ bestanden.
 
 
 
+(zu § 22 Absatz 5)
 
-### Anlage 6 (zu § 22 Absatz 5) Muster
+### Anlage 6 Muster
 
-(Fundstelle: BGBl. 2009, 2918 - 2919,
+(Fundstelle: BGBl. 2009, 2918 - 2919;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   .................
@@ -3234,10 +3260,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Geprüfter Medienfachwirt Digital/Geprüfte Medienfachwirtin Digital
 
-[^f772424_05_BJNR289400009BJNE003201308]
+[^f772424_05_BJNR289400009BJNE003202377]
 nach der Medien-Fortbildungsverordnung vom 21. August 2009 (BGBl. I S.
-2894, 3538), die durch Artikel 6 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
+2894, 3538), die zuletzt durch Artikel 11 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
 bestanden:
 
 
@@ -3343,7 +3369,7 @@ bestanden:
 *    *
     *   3. Projektarbeit
 
-    *[^f772424_06_BJNR289400009BJNE003201308]
+    *[^f772424_06_BJNR289400009BJNE003202377]
    ...........
 
     *
@@ -3385,6 +3411,10 @@ bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum .................
 
@@ -3398,11 +3428,11 @@ bestanden:
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .................
-[^f772424_05_BJNR289400009BJNE003201308]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
+[^f772424_05_BJNR289400009BJNE003202377]:     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
     zu gewichten: Die Punktebewertung der Gesamtplanung als schriftliche
     Hausarbeit sowie der mündlichen Präsentation einschließlich des
     Fachgesprächs gehen mit jeweils 50 Prozent in die Gesamtpunktzahl der
     Projektarbeit ein. Dabei ist aus den Einzelbewertungen der mündlichen
     Präsentation und des Fachgesprächs ein arithmetisches Mittel nach
     Punkten zu bilden.
-[^f772424_06_BJNR289400009BJNE003201308]: 
+[^f772424_06_BJNR289400009BJNE003202377]: 

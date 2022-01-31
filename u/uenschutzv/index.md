@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 69
 
+Geändert durch
+:   Art. 315 V v. 31.8.2015 I 1474
+
 [^F776051_01_BJNR006900012]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/114/EG des
     Rates vom 8. Dezember 2008 über die Ermittlung und Ausweisung
     europäischer kritischer Infrastrukturen und die Bewertung der
@@ -64,11 +67,11 @@ Absatz 1 Satz 3 des Energiewirtschaftsgesetzes.
 
 (2) Soll eine Anlage erstmals als europäisch kritische Anlage bestimmt
 werden, so ist vorher durch das Bundesministerium für Wirtschaft und
-Technologie eine Konsultation nach Artikel 4 Absatz 1 bis 3 der
-Richtlinie 2008/114/EG durchzuführen. Die Bundesnetzagentur
-berücksichtigt das Ergebnis der Konsultation bei ihrer Entscheidung
-hinsichtlich der Festlegung. Die Festlegung erfolgt ungeachtet der in
-Absatz 1 genannten Frist innerhalb von zwei Monaten nach Abschluss der
+Energie eine Konsultation nach Artikel 4 Absatz 1 bis 3 der Richtlinie
+2008/114/EG durchzuführen. Die Bundesnetzagentur berücksichtigt das
+Ergebnis der Konsultation bei ihrer Entscheidung hinsichtlich der
+Festlegung. Die Festlegung erfolgt ungeachtet der in Absatz 1
+genannten Frist innerhalb von zwei Monaten nach Abschluss der
 Konsultation.
 
 

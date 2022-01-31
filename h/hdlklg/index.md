@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.11.1972 I 2201;
 
 Zuletzt geändert durch
-:   Art. 35 G v. 9.12.2010 I 1934
+:   Art. 4 G v. 16.01.2016 I 52
 
 
 ## § 1
@@ -27,10 +27,10 @@ Zuletzt geändert durch
 (1) Zur Förderung der Erzeugung, der Qualität und des Absatzes von
 Erzeugnissen der Landwirtschaft und der Fischerei sowie zur Förderung
 der Marktübersicht bei diesen Erzeugnissen kann das Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz
-(Bundesministerium) im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie mit Zustimmung des Bundesrates durch
-Rechtsverordnung gesetzliche Handelsklassen einführen.
+für Ernährung und Landwirtschaft (Bundesministerium) im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie mit Zustimmung
+des Bundesrates durch Rechtsverordnung gesetzliche Handelsklassen
+einführen.
 
 (2) Erzeugnisse im Sinne des Absatzes 1 sind die in der Landwirtschaft
 einschließlich des Gemüse-, Obst-, Garten- und Weinbaues, der
@@ -39,33 +39,7 @@ gewonnenen Erzeugnisse, ferner die daraus durch Be- und Verarbeitung
 hergestellten Lebensmittel; ausgenommen sind die den Vorschriften des
 Weingesetzes unterliegenden Erzeugnisse.
 
-(3) Soweit es zur Durchführung von Rechtsakten der Europäischen
-Gemeinschaft oder der Europäischen Union über Qualitätsnormen,
-Verkaufsnormen oder ähnliche Vorschriften, die einer Regelung nach
-diesem Gesetz entsprechen, erforderlich ist, kann das
-Bundesministerium im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie mit Zustimmung des Bundesrates durch
-Rechtsverordnung
-
-1.  Vorschriften nach den §§ 2 und 3 erlassen,
-
-
-2.  das Zuwiderhandeln gegen bestimmte in den Rechtsakten der Europäischen
-    Gemeinschaft oder der Europäischen Union enthaltene Gebote oder
-    Verbote mit Geldbuße bis zu zehntausend Euro bedrohen.
-
-
-
-Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur
-Durchführung von in Satz 1 genannten Rechtsakten der Europäischen
-Gemeinschaft oder der Europäischen Union Vorschriften zu erlassen über
-die Nichtanwendung von Qualitätsnormen, Verkaufsnormen oder ähnlichen
-Vorschriften, die einer Regelung nach diesem Gesetz entsprechen,
-soweit die Voraussetzungen für die Nichtanwendung nach den Rechtsakten
-der Europäischen Gemeinschaft oder der Europäischen Union bestimmt
-oder bestimmbar sind.
+(3) (weggefallen)
 
 
 ## § 2
@@ -115,13 +89,12 @@ gebracht werden. Als Merkmale können insbesondere bestimmt werden:
     geliefert, verkauft oder sonst in den Verkehr gebracht worden sind;
 
 
-4.  daß für bestimmte Erzeugnisse, für die Vorschriften nach Nummer 2 oder
-    entsprechende Rechtsakte der Europäischen Gemeinschaften oder der
-    Europäischen Union erlassen sind, in öffentlichen Bekanntmachungen
-    oder in Mitteilungen, die für einen größeren Kreis von Personen
-    bestimmt sind, nicht ohne Angabe der gesetzlichen Handelsklasse
-    geworben werden darf, sofern dabei Preise angegeben werden, die sich
-    unmittelbar oder mittelbar auf eine Gewichtseinheit beziehen;
+4.  daß für bestimmte Erzeugnisse, für die Vorschriften nach Nummer 2
+    erlassen sind, in öffentlichen Bekanntmachungen oder in Mitteilungen,
+    die für einen größeren Kreis von Personen bestimmt sind, nicht ohne
+    Angabe der gesetzlichen Handelsklasse geworben werden darf, sofern
+    dabei Preise angegeben werden, die sich unmittelbar oder mittelbar auf
+    eine Gewichtseinheit beziehen;
 
 
 5.  daß Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen,
@@ -153,9 +126,9 @@ gebracht werden. Als Merkmale können insbesondere bestimmt werden:
 
 (3) Vorschriften nach den Absätzen 1 und 2 sollen nur insoweit
 erlassen werden, als nicht entsprechende lebensmittelrechtliche
-Vorschriften oder Vorschriften des Eichgesetzes und der
-Durchführungsverordnungen zum Eichgesetz bestehen, die auch den Zielen
-des § 1 Abs. 1 gerecht werden.
+Vorschriften oder Vorschriften des Mess- und Eichgesetzes und der auf
+Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen
+bestehen, die auch den Zielen des § 1 Abs. 1 gerecht werden.
 
 
 ## § 3
@@ -184,12 +157,11 @@ Sachverständige hinzuziehen.
 ## § 5
 
 (1) Die Überwachung der Einhaltung der nach diesem Gesetz erlassenen
-Rechtsverordnungen sowie der in § 1 Abs. 3 genannten Rechtsakte der
-Europäischen Gemeinschaften oder der Europäischen Union obliegt den
-nach Landesrecht zuständigen Behörden. Die Überwachung beim Verbringen
-in das Inland oder aus dem Inland kann das Bundesministerium durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf
-die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
+Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden.
+Die Überwachung beim Verbringen in das Inland oder aus dem Inland kann
+das Bundesministerium durch Rechtsverordnung, die nicht der Zustimmung
+des Bundesrates bedarf, auf die Bundesanstalt für Landwirtschaft und
+Ernährung übertragen.
 
 (2) Soweit es zur Überwachung der Einhaltung der in Absatz 1 genannten
 Vorschriften erforderlich ist, können die Beauftragten der zuständigen
@@ -242,10 +214,10 @@ Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie und der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, das Verfahren der Überwachung beim Verbringen in den oder aus
-dem Geltungsbereich dieses Gesetzes zu regeln.
+Bundesministerien für Wirtschaft und Energie und der Finanzen durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das
+Verfahren der Überwachung beim Verbringen in den oder aus dem
+Geltungsbereich dieses Gesetzes zu regeln.
 
 
 ## § 6
@@ -316,9 +288,9 @@ Fischerei vom 17. Dezember 1951 (Bundesgesetzbl. I S. 970), geändert
 durch das Gesetz zur Änderung des Gesetzes über gesetzliche
 Handelsklassen für Erzeugnisse der Landwirtschaft und Fischerei vom 8.
 Juni 1955 (Bundesgesetzbl. I S. 266), erlassenen Rechtsverordnungen im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-mit Zustimmung des Bundesrates im Rahmen der Ermächtigungen nach den
-§§ 1 und 2 zu ändern oder aufzuheben.
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie mit
+Zustimmung des Bundesrates im Rahmen der Ermächtigungen nach den §§ 1
+und 2 zu ändern oder aufzuheben.
 
 (2) Die Vorschriften der §§ 5 und 6 gelten mit dem Inkrafttreten
 dieses Gesetzes auch zur Überwachung der Vorschriften, die auf Grund
@@ -350,5 +322,7 @@ Die Vorschriften des Lebensmittelrechts bleiben unberührt.
 
 ## § 11
 
--
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
+1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
+verkündet werden.
 

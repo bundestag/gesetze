@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2985
 
-Geändert durch
-:   Art. 7 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 6 V v. 28.2.2020 I 246
 
 
 
@@ -484,9 +484,10 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 ## § 9 Übergangsvorschrift
 
-Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31.
-Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
-bisherigen Vorschriften zu Ende geführt.
+Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
+worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
+Vorschriften durch den nach § 47 der Handwerksordnung errichteten
+Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten

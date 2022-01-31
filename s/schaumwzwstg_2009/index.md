@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1896
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.6.2011 I 1090
-
-Mittelbare änderung durch
-:   Art. 5 G v. 16.6.2011 I 1090 ist berücksichtigt
+:   Art. 2 G v. 30.3.2021 I 607
 
 
 ## Teil 1 - Schaumwein
@@ -42,33 +39,34 @@ Celsius einen auf gelöstes Kohlendioxid zurückzuführenden Überdruck
 von 3 bar oder mehr aufweisen und die zu den nachfolgenden Positionen
 oder Unterpositionen der Kombinierten Nomenklatur gehören:
 
-1.  Unterpositionen 2204 10, 2204 21 10, 2204 29 10 und Position 2205,
-    soweit sie einen ausschließlich durch Gärung entstandenen vorhandenen
-    Alkoholgehalt von mehr als 1,2 Volumenprozent bis 15 Volumenprozent
-    aufweisen;
+1.  Unterpositionen 2204 10, 2204 2106, 2204 2107, 2204 2108, 2204 2109,
+    2204 2210, 2204 2910 und Position 2205, soweit sie einen
+    ausschließlich durch Gärung entstandenen vorhandenen Alkoholgehalt von
+    mehr als 1,2 Volumenprozent bis 15 Volumenprozent aufweisen;
 
 
-2.  Unterposition 2206 00 91 und nicht von Nummer 1 erfasste Bereiche der
-    Unterpositionen 2204 10, 2204 21 10, 2204 29 10 sowie Position 2205,
-    soweit sie einen vorhandenen Alkoholgehalt von mehr als 1,2
-    Volumenprozent bis 13 Volumenprozent aufweisen;
+2.  Unterpositionen 2206 0031 und 2206 0039 und nicht von Nummer 1
+    erfasste Bereiche der Unterpositionen 2204 10, 2204 2106, 2204 2107,
+    2204 2108, 2204 2109, 2204 2210, 2204 2910 sowie Position 2205, soweit
+    sie einen vorhandenen Alkoholgehalt von mehr als 1,2 Volumenprozent
+    bis 13 Volumenprozent aufweisen;
 
 
-3.  Unterposition 2206 00 91 mit einem ausschließlich durch Gärung
-    entstandenen vorhandenen Alkoholgehalt von mehr als 13 Volumenprozent
-    bis 15 Volumenprozent.
+3.  Unterpositionen 2206 0031 und 2206 0039 mit einem ausschließlich durch
+    Gärung entstandenen vorhandenen Alkoholgehalt von mehr als 13
+    Volumenprozent bis 15 Volumenprozent.
 
 
 
 
 (3) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die
-Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des
-Rates vom 23. Juli 1987 über die zolltarifliche und statistische
-Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987,
-S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130
-vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und
-der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr.
-2658/87 erlassenen Rechtsvorschriften.
+Warennomenklatur nach der Durchführungsverordnung (EU) 2018/1602 der
+Kommission vom 11. Oktober 2018 zur Änderung des Anhangs I der
+Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
+zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
+Zolltarif (ABl. L 273 vom 31.10.2018, S. 1) in der am 1. Januar 2019
+geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der
+Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -95,15 +93,34 @@ Euro je Hektoliter (hl).
 (2) Die Steuer beträgt für Schaumwein mit einem vorhandenen
 Alkoholgehalt von weniger als 6 Volumenprozent 51 Euro/hl.
 
-(3) § 1 Absatz 4 Nummer 2 gilt entsprechend.
+(3) Auf Antrag stellt das Hauptzollamt einem unabhängigen Hersteller
+von Schaumwein eine amtliche Bescheinigung aus, aus der dessen
+Gesamtjahreserzeugung hervorgeht und die seine Unabhängigkeit
+bestätigt. Ein Hersteller von Schaumwein ist als unabhängig anzusehen,
+wenn er
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates zur
-Verfahrensvereinfachung zu bestimmen, dass nichtverkehrsfähige
-kohlensäurehaltige Getränke, die für den Fall ihrer Verkehrsfähigkeit
-der Schaumweinsteuer nach Absatz 1 unterliegen würden, unter Angabe
-des Herstellers den zuständigen Lebensmittelüberwachungsbehörden
-mitgeteilt werden.
+1.  rechtlich und wirtschaftlich von anderen Herstellern von Schaumwein
+    unabhängig ist,
+
+
+2.  Betriebsräume benutzt, die räumlich von anderen Herstellern getrennt
+    sind und
+
+
+3.  Schaumwein nicht unter Lizenz herstellt.
+
+
+
+
+(4) § 1 Absatz 4 Nummer 2 gilt entsprechend.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren nach
+Absatz 3 näher zu regeln und zur Verfahrensvereinfachung zu bestimmen,
+dass nichtverkehrsfähige kohlensäurehaltige Getränke, die für den Fall
+ihrer Verkehrsfähigkeit der Schaumweinsteuer nach Absatz 1 unterliegen
+würden, unter Angabe des Herstellers den zuständigen
+Lebensmittelüberwachungsbehörden mitgeteilt werden.
 
 
 #### § 3 Sonstige Begriffsbestimmungen
@@ -737,8 +754,7 @@ nachzuweisen.
 
 
 Wird Schaumwein aus einem Steuerlager an Personen abgegeben, die nicht
-im Besitz einer gültigen Erlaubnis nach § 23 Absatz 2 in Verbindung
-mit § 153 Absatz 1 des Branntweinmonopolgesetzes sind, entsteht die
+im Besitz einer gültigen Erlaubnis nach § 23a sind, entsteht die
 Steuer nach Absatz 1. Steuerschuldner werden neben dem
 Steuerlagerinhaber mit Inbesitznahme des Schaumweins die Personen nach
 Satz 2.
@@ -1076,8 +1092,8 @@ Vorschriften zu den Absätzen 1 und 3 zu erlassen.
 (1) Schaumwein ist von der Steuer befreit, wenn er gewerblich
 verwendet wird
 
-1.  zur Herstellung von Arzneimitteln mit Ausnahme reiner Alkohol-Wasser-
-    Mischungen, durch dazu nach Arzneimittelrecht Befugte,
+1.  zur Herstellung von Arzneimitteln durch dazu nach Arzneimittelrecht
+    Befugte,
 
 
 2.  zur Herstellung von Essig,
@@ -1402,11 +1418,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 3.  zur Durchführung
 
-    a)  von Artikel 35 der Systemrichtlinie das Verfahren bei der Beförderung
-        von Schaumwein des steuerrechtlich freien Verkehrs durch einen anderen
-        Mitgliedstaat unter Verwendung des Begleitdokuments nach Artikel 34
-        der Systemrichtlinie und den dazu ergangenen Verordnungen in den
-        jeweils geltenden Fassungen näher zu regeln und vorzusehen, dass durch
+    a)  der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19.
+        Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems
+        (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) das Verfahren bei der
+        Beförderung von Schaumwein des steuerrechtlich freien Verkehrs und des
+        Versandhandels näher zu regeln und dabei auch zuzulassen, dass durch
         bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom
         Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden
         kann,
@@ -1423,17 +1439,32 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-4.  zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+4.  im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+    alternativ zur qualifizierten elektronischen Signatur ein anderes
+    sicheres Verfahren zuzulassen, das den Datenübermittler
+    authentifiziert und die Vertraulichkeit und Integrität des
+    elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6
+    Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung
+    können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1
+    zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann
+    in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen
+    sachverständiger Stellen geregelt werden;
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+5.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -1442,43 +1473,35 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist;
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
 
-5.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
+6.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
     ergeben;
 
 
-6.  zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in
+7.  zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in
     Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu
     diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und
     Schaumwein, der im freien Verkehr zu gewerblichen Zwecken in
@@ -1547,15 +1570,17 @@ Zwischenerzeugnisse
 
 136 Euro/hl.
 
+(4) § 2 Absatz 3 bis 5 gilt entsprechend.
+
 
 ### § 31 Herstellung von Zwischenerzeugnissen
 
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1
 über die Steuerentstehung bei der Herstellung ohne Erlaubnis nach § 5
 findet auf Zwischenerzeugnisse keine Anwendung, sofern die für die
-Bestandteile (Branntwein, alkoholische Getränke) entrichtete
-Verbrauchsteuer insgesamt nicht niedriger ist als die Steuer für das
-Zwischenerzeugnis.
+Bestandteile (Alkohol im Sinne des Alkoholsteuergesetzes, alkoholische
+Getränke) entrichtete Verbrauchsteuer insgesamt nicht niedriger ist
+als die Steuer für das Zwischenerzeugnis.
 
 
 ## Teil 3 - Wein
@@ -1601,7 +1626,7 @@ nach § 1 Absatz 2 unterliegenden Erzeugnisse
 
 (2) Auf Wein sind folgende Vorschriften entsprechend anzuwenden:
 
-1.  § 1 Absatz 3 und 4 sowie
+1.  § 1 Absatz 3 und 4,
 
 
 2.  vorbehaltlich des § 33 bei Beförderungen von Wein aus anderen, in

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1991, 1606, 1677
 
 Zuletzt geändert durch
-:   Art. 13 G v. 19.12.2007 I 3024
+:   Art. 4 G v. 6.10.2020 I 2072
 
 
 ## Erster Abschnitt
@@ -209,10 +209,10 @@ nicht beantragt wurde und die Beiträge unter treuhänderische
 Verwaltung gestellt worden sind. Ist über die Auszahlung des
 treuhänderisch verwalteten Vermögens noch nicht entschieden, ist der
 Betrag, der der Summe der verwalteten und im Verhältnis zwei zu eins
-auf Deutsche Mark umgestellten Beträge entspricht, dem
-Bundesversicherungsamt zur Verfügung zu stellen. Das
-Bundesversicherungsamt berücksichtigt diesen Betrag bei der Abrechnung
-nach § 15 Abs. 4.
+auf Deutsche Mark umgestellten Beträge entspricht, dem Bundesamt für
+Soziale Sicherung zur Verfügung zu stellen. Das Bundesamt für Soziale
+Sicherung berücksichtigt diesen Betrag bei der Abrechnung nach § 15
+Abs. 4.
 
 
 ## Zweiter Abschnitt
@@ -227,12 +227,12 @@ Sozialgesetzbuch) das erzielte Arbeitsentgelt oder Arbeitseinkommen
 höchstens bis zur jeweiligen Beitragsbemessungsgrenze nach der Anlage
 3 zugrunde zu legen. Abweichend von Satz 1 ist während der
 Zugehörigkeit zu einem Sonderversorgungssystem nach dem 30. Juni 1990
-bis zum 31. Dezember 1990 der Betrag von 2.700 Deutsche Mark im Monat,
-vom 1. Januar 1991 bis zum 30. Juni 1991 der Betrag von 3.000 Deutsche
+bis zum 31. Dezember 1990 der Betrag von 2 700 Deutsche Mark im Monat,
+vom 1. Januar 1991 bis zum 30. Juni 1991 der Betrag von 3 000 Deutsche
 Mark im Monat und vom 1. Juli 1991 bis zum 31. Dezember 1991 der
-Betrag vom 3.400 Deutsche Mark im Monat maßgebend. Satz 1 und 2 gilt
+Betrag vom 3 400 Deutsche Mark im Monat maßgebend. Satz 1 und 2 gilt
 auch, wenn die Berechnungsgrundlage für das Übergangsgeld nach den §§
-47, 48 des Neunten Buches Sozialgesetzbuch oder durch andere Träger
+67 und 68 des Neunten Buches Sozialgesetzbuch oder durch andere Träger
 der Teilhabe am Arbeitsleben nach den für diese geltenden Vorschriften
 aus einem Einkommen vor dem 1. Juli 1990 ermittelt wird.
 
@@ -847,9 +847,9 @@ Sonderversorgungssystem nach Anlage 2 Nr. 2 sowie in Höhe von zwei
 Dritteln der Aufwendungen für die Zusatzversorgungssysteme nach Anlage
 1 Nr. 1 bis 22 von den Ländern im Beitrittsgebiet erstattet. Der von
 den Ländern im Beitrittsgebiet an den Bund zu erstattende Anteil an
-den Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nr. 1
-bis 22 verringert sich auf 64 vom Hundert im Jahre 2008, auf 62 vom
-Hundert im Jahre 2009 und auf 60 vom Hundert ab dem Jahre 2010.
+den Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nummer
+1 bis 22 verringert sich von 60 vom Hundert auf 50 vom Hundert ab dem
+Jahr 2021.
 
 (2a) (weggefallen)
 
@@ -860,12 +860,12 @@ diese Erstattung entstehenden Aufwendungen werden ihm von den Ländern
 im Beitrittsgebiet insoweit erstattet, als sie ihm für Leistungen an
 Berechtigte aus dem Versorgungssystem nach Anlage 2 Nr. 2 entstehen.
 
-(4) Das Bundesversicherungsamt führt die Abrechnung durch und setzt
-die Vorschüsse fest. Es stellt darüber hinaus den auf das jeweilige
-Bundesland entfallenden Anteil an dem Erstattungsbetrag nach dem
-Verhältnis fest, in dem die Anzahl der Einwohner dieses Landes zu der
-Gesamtzahl der Einwohner im Beitrittsgebiet steht. Die erforderlichen
-Daten teilt das Statistische Bundesamt mit.
+(4) Das Bundesamt für Soziale Sicherung führt die Abrechnung durch und
+setzt die Vorschüsse fest. Es stellt darüber hinaus den auf das
+jeweilige Bundesland entfallenden Anteil an dem Erstattungsbetrag nach
+dem Verhältnis fest, in dem die Anzahl der Einwohner dieses Landes zu
+der Gesamtzahl der Einwohner im Beitrittsgebiet steht. Die
+erforderlichen Daten teilt das Statistische Bundesamt mit.
 
 
 ### § 16 Verordnungsermächtigung
@@ -886,8 +886,8 @@ vorgesehen werden.
     nach Anlage 2 Nr. 1,
 
 
-2.  das Bundesministerium des Innern für die Sonderversorgungssysteme nach
-    Anlage 2 Nr. 2 und 4,
+2.  das Bundesministerium des Innern, für Bau und Heimat für die
+    Sonderversorgungssysteme nach Anlage 2 Nr. 2 und 4,
 
 
 3.  das Bundesministerium der Finanzen für das Sonderversorgungssystem
@@ -931,7 +931,7 @@ zweitausendfünfhundert Euro geahndet werden.
 über Ordnungswidrigkeiten ist der Versorgungsträger. Abweichend von
 Satz 1 ist für den Versorgungsträger nach § 8 Abs. 4 Nr. 3
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 des Gesetzes über
-Ordnungswidrigkeiten das Bundesversicherungsamt.
+Ordnungswidrigkeiten das Bundesamt für Soziale Sicherung.
 
 (4) Die Geldbußen fließen in die Kasse der Deutschen
 Rentenversicherung Bund, wenn sie als Versorgungsträger den

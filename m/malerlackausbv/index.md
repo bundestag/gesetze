@@ -1011,8 +1011,9 @@ schulischen Berufsgrundbildungsjahres vorgesehen ist.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 7)
 
-## Anlage 1 (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
 
 (Fundstelle: BGBl. I 2003, 1071 - 1076)
 
@@ -1729,8 +1730,9 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 
 
+(zu § 7)
 
-## Anlage 2 (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
 
 (Fundstelle: BGBl. I 2003, 1077 - 1082)
 

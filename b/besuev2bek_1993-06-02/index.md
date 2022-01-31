@@ -32,8 +32,12 @@ Zeit ab 1. Mai 1992, bei Anwärterbezügen für die Zeit ab 1. Januar
 1992, bekanntgemacht.
 Der Bundesminister des Innern
 
+(Anlage VIII des BBesG)
+Gültig ab 1. Januar 1992
+Anwärtergrundbetrag
+Anwärterverheiratetenzuschlag
 
-## Anlage I (Anlage VIII des BBesG) Gültig ab 1. Januar 1992 Anwärtergrundbetrag Anwärterverheiratetenzuschlag (Monatsbeträge in DM)
+## Anlage I (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 787
 
@@ -126,8 +130,9 @@ Fundstelle des Originaltextes: BGBl. I 1993, 787
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage II A (Anlage IV des BBesG) Gültig ab 1. Mai 1992
+## Anlage II A Gültig ab 1. Mai 1992
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 788 - 790)
 
@@ -1069,8 +1074,11 @@ Fundstelle des Originaltextes: BGBl. I 1993, 787
 
 
 
+(Anlage V des BBesG)
+Gültig ab 1. Mai 1992
+Ortszuschlag
 
-## Anlage II B (Anlage V des BBesG) Gültig ab 1. Mai 1992 Ortszuschlag (Monatsbeträge in DM)
+## Anlage II B (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 790
 
@@ -1171,8 +1179,12 @@ gewährt.
 
 
 
+(Anlage VIII des BBesG)
+Gültig ab 1. Mai 1992
+Anwärtergrundbetrag
+Anwärterverheiratetenzuschlag
 
-## Anlage II C (Anlage VIII des BBesG) Gültig ab 1. Mai 1992 Anwärtergrundbetrag Anwärterverheiratetenzuschlag (Monatsbeträge in DM)
+## Anlage II C (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 791
 
@@ -1265,8 +1277,13 @@ Fundstelle des Originaltextes: BGBl. I 1993, 791
 
 
 
+(Anlage IX des BBesG)
+Gültig ab 1. Mai 1992
+für die Besoldungsgruppen A 1 bis A 12
+Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+(Monatsbeträge)
 
-## Anlage II D (Anlage IX des BBesG) Gültig ab 1. Mai 1992 für die Besoldungsgruppen A 1 bis A 12 Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
+## Anlage II D - in der Reihenfolge der Gesetzesstellen -
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 792 - 794)
 
@@ -2583,8 +2600,14 @@ Fundstelle des Originaltextes: BGBl. I 1993, 791
 
 
 
+(Anlage IX des BBesG)
+Gültig ab 1. Mai 1992
+für die Besoldungsgruppen A 13 bis A 16 sowie für die
+Bundesbesoldungsordnungen B, C und R
+Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+(Monatsbeträge)
 
-## Anlage II E (Anlage IX des BBesG) Gültig ab 1. Mai 1992 für die Besoldungsgruppen A 13 bis A 16 sowie für die Bundesbesoldungsordnungen B, C und R Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
+## Anlage II E - in der Reihenfolge der Gesetzesstellen -
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 705 - 797)
 
@@ -4004,8 +4027,9 @@ Fundstelle des Originaltextes: BGBl. I 1993, 791
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage III A (Anlage IV des BBesG) Gültig ab 1. Juni 1992
+## Anlage III A Gültig ab 1. Juni 1992
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 798 - 800)
 
@@ -5005,10 +5029,13 @@ Grundgehaltssätze
 
 
 
+   (Anlage V des BBesG)
+Gültig ab 1. Juni 1992
+Ortszuschlag
 
-## Anlage III B (Anlage V des BBesG) Gültig ab 1. Juni 1992 Ortszuschlag (Monatsbeträge in DM)
+## Anlage III B (Monatsbeträge in DM)
 
-   (Fundstelle des Originaltextes: BGBl. I 1993, 800)
+(Fundstelle des Originaltextes: BGBl. I 1993, 800)
 
 *    *   Tarifklasse
 
@@ -5122,8 +5149,12 @@ gewährt.
 
 
 
+(Anlage IX des BBesG)
+Gültig ab 1. Juni 1992
+Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+(Monatsbeträge)
 
-## Anlage III C (Anlage IX des BBesG) Gültig ab 1. Juni 1992 Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
+## Anlage III C - in der Reihenfolge der Gesetzesstellen -
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 801 - 803)
 
@@ -6498,8 +6529,9 @@ gewährt.
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage IV A (Anlage IV des BBesG) Gültig ab 1. Dezember 1992
+## Anlage IV A Gültig ab 1. Dezember 1992
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 804 - 806)
 
@@ -7655,8 +7687,11 @@ gewährt.
 
 
 
+(Anlage V des BBesG)
+Gültig ab 1. Dezember 1992
+Ortszuschlag
 
-## Anlage IV B (Anlage V des BBesG) Gültig ab 1. Dezember 1992 Ortszuschlag (Monatsbeträge in DM)
+## Anlage IV B (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 806
 
@@ -7756,8 +7791,12 @@ zusätzlich gewährt.
 
 
 
+(Anlage VIII des BBesG)
+Gültig ab 1. Dezember 1992
+Anwärtergrundbetrag
+Anwärterverheiratetenzuschlag
 
-## Anlage IV C (Anlage VIII des BBesG) Gültig ab 1. Dezember 1992 Anwärtergrundbetrag Anwärterverheiratetenzuschlag (Monatsbeträge in DM)
+## Anlage IV C (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1993, 807
 
@@ -7857,8 +7896,12 @@ sind:
 
 
 
+(Anlage IX des BBesG)
+Gültig ab 1. Dezember 1992
+Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+(Monatsbeträge)
 
-## Anlage IV D (Anlage IX des BBesG) Gültig ab 1. Dezember 1992 Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
+## Anlage IV D - in der Reihenfolge der Gesetzesstellen -
 
 (Fundstelle des Originaltextes: BGBl. I 1993, 808 - 810)
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.11.2000 I 1572
 
+V aufgeh. durch
+:   Art. 58 Nr. 6 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 ## Eingangsformel
 

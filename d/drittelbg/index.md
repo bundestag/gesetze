@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2004, 974
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 114 G v. 22.12.2011 I 3044
+:   Art. 8 G v. 24.4.2015 I 642
+
+Änderung durch
+:   Art. 21 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Geltungsbereich
@@ -55,7 +58,7 @@ nach Maßgabe dieses Gesetzes in
 
 
 5.  einer Genossenschaft mit in der Regel mehr als 500 Arbeitnehmern. § 96
-    Abs. 2 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
+    Absatz 4 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
     anzuwenden. Die Satzung kann nur eine durch drei teilbare Zahl von
     Aufsichtsratsmitgliedern festsetzen. Der Aufsichtsrat muss zwei
     Sitzungen im Kalenderhalbjahr abhalten.
@@ -162,6 +165,15 @@ des § 8 Abs. 1 des Betriebsverfassungsgesetzes müssen erfüllt sein.
 und Männer entsprechend ihrem zahlenmäßigen Verhältnis im Unternehmen
 vertreten sein.
 
+(5) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1
+Absatz 1 Nummer 1 und 3 bezeichneten Unternehmens mit
+Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des
+Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung müssen im Fall der
+Getrennterfüllung entsprechend § 96 Absatz 2 Satz 3 des Aktiengesetzes
+Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent
+vertreten sein.
+
 
 ### § 5 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
@@ -192,6 +204,43 @@ Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
+
+(3) Im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2 Satz 3
+des Aktiengesetzes ist das Nachrücken eines Ersatzmitglieds
+ausgeschlossen, wenn dadurch der Anteil von Frauen und Männern unter
+den Aufsichtsratsmitgliedern der Arbeitnehmer nicht mehr den Vorgaben
+des § 4 Absatz 5 entspricht; § 7a Absatz 2 Satz 2 gilt entsprechend.
+
+
+### § 7a Nichterreichen des Geschlechteranteils
+
+(1) Ergibt im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2
+Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre
+Verteilung auf die Bewerber, dass die Vorgaben des § 4 Absatz 5 nicht
+erfüllt wurden, ist folgendes Geschlechterverhältnis für die
+Aufsichtsratssitze der Arbeitnehmer herzustellen:
+
+1.  in Aufsichtsräten mit einer Größe von sechs, neun oder zwölf
+    Mitgliedern müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer
+    jeweils mindestens eine Frau und mindestens ein Mann vertreten sein;
+
+
+2.  in Aufsichtsräten mit einer Größe von 15, 18 und 21 Mitgliedern müssen
+    unter den Aufsichtsratsmitgliedern der Arbeitnehmer jeweils mindestens
+    zwei Frauen und mindestens zwei Männer vertreten sein.
+
+
+
+
+(2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen, ist
+die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der
+Arbeitnehmer unwirksam, deren Geschlecht nach der Verteilung der
+Stimmen auf die Bewerber mehrheitlich vertreten ist und die nach der
+Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die
+niedrigsten Stimmenzahlen erhalten haben. Die durch unwirksame Wahl
+nach Satz 1 nicht besetzten Aufsichtsratssitze werden im Wege der
+gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der
+Nachwahl besetzt; § 4 Absatz 2 Satz 2 ist zu beachten.
 
 
 ### § 8 Bekanntmachung der Mitglieder des Aufsichtsrats
@@ -292,6 +341,9 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 3.  die Wahlvorschläge und die Frist für ihre Einreichung;
 
 
+3a. das Verfahren zur Berücksichtigung der Geschlechter;
+
+
 4.  das Wahlausschreiben und die Frist für seine Bekanntmachung;
 
 
@@ -325,10 +377,12 @@ ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
 ### § 15 Übergangsregelung
 
-Auf Wahlen oder Abberufungen, die vor dem 1. Juli 2004 eingeleitet
-worden sind, ist das Betriebsverfassungsgesetz 1952 in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1, veröffentlichten
-bereinigten Fassung, zuletzt geändert durch Artikel 9 des Gesetzes vom
-23\. Juli 2001 (BGBl. I S. 1852), auch nach seinem Außerkrafttreten
-anzuwenden.
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in
+der bis zum 11. August 2021 geltenden Fassung anzuwenden.
+
+(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als
+abgeschlossen, wenn die Bekanntmachung der Mitglieder des
+Aufsichtsrats nach § 8 Satz 1 durch das zur gesetzlichen Vertretung
+des Unternehmens befugte Organ erfolgt ist.
 

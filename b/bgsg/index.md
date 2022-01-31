@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1834
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 8 G v. 5.2.2009 I 160
+:   Art. 24 V v. 19.6.2020 I 1328
 
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch
 :   Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994
@@ -81,8 +81,8 @@ Bundesgrenzschutz verpflichtet und herangezogen werden, wenn sie
 
 
 (2) Zahl, Berufsgruppen und Vorbildung der nach Absatz 1 Nr. 1 zu
-verpflichtenden Männer bestimmt der Bundesminister des Innern im
-Einvernehmen mit dem Bundesminister der Verteidigung.
+verpflichtenden Männer bestimmt der Bundesminister des Innern, für Bau
+und Heimat im Einvernehmen mit dem Bundesminister der Verteidigung.
 
 (3) Die Verpflichtung zum Polizeivollzugsdienst im Bundesgrenzschutz
 kann aufgehoben werden, wenn
@@ -166,7 +166,7 @@ verpflichtet worden sind, gehören der Grenzschutzreserve an.
 
 (1) Verpflichtung und Heranziehung zum Polizeivollzugsdienst im
 Bundesgrenzschutz erfolgen auf Anforderung des Bundesministers des
-Innern durch die Kreiswehrersatzämter.
+Innern, für Bau und Heimat durch die Kreiswehrersatzämter.
 
 (2) Vor der Heranziehung von Grenzschutzdienstpflichtigen, die bereits
 Polizeivollzugsdienst im Bundesgrenzschutz geleistet haben, ist deren
@@ -206,12 +206,12 @@ Gelöbnis:
 ### § 55 Ernennungsbehörde, oberste Dienstbehörde, Vorgesetzte
 
 (1) Der Bundespräsident ernennt die Grenzschutzoffiziere der Reserve.
-Die übrigen Dienstleistenden ernennt der Bundesminister des Innern.
-Die Ausübung dieser Befugnis kann auf andere Behörden übertragen
-werden.
+Die übrigen Dienstleistenden ernennt der Bundesminister des Innern,
+für Bau und Heimat. Die Ausübung dieser Befugnis kann auf andere
+Behörden übertragen werden.
 
 (2) Oberste Dienstbehörde der Dienstleistenden ist der Bundesminister
-des Innern.
+des Innern, für Bau und Heimat.
 
 (3) Dienstvorgesetzter ist, wer für dienstrechtliche Entscheidungen
 über die persönlichen Angelegenheiten der ihm nachgeordneten
@@ -303,10 +303,11 @@ folgender Maßgabe anzuwenden:
 4.  An die Stelle des Beisitzers gemäß § 50 Abs.
     4                    Satz 3 der Bundesdisziplinarordnung tritt ein
     Dienstleistender, der der Laufbahn des beschuldigten Dienstleistenden
-    angehören soll. Der Bundesminister der Justiz bestellt die Beisitzer
-    für die Dauer ihres Grenzschutzdienstes auf Vorschlag des
-    Bundesministers des Innern; ein Beisitzer kann auch für mehrere
-    Kammern bestellt werden.
+    angehören soll. Das Bundesministerium der Justiz und für
+    Verbraucherschutz bestellt die Beisitzer für die Dauer ihres
+    Grenzschutzdienstes auf Vorschlag des Bundesministeriums des Innern,
+    für Bau und Heimat; ein Beisitzer kann auch für mehrere Kammern
+    bestellt werden.
 
 
 
@@ -328,7 +329,8 @@ die Reisekosten, die Arbeitszeit, den Urlaub und die Versorgung.
 Höhe sich nach der als Anlage beigefügten Tabelle richtet.
 
 (3) Bei Anwendung der Absätze 1 und 2 tritt der Bundesminister des
-Innern an die Stelle des Bundesministers der Verteidigung.
+Innern, für Bau und Heimat an die Stelle des Bundesministers der
+Verteidigung.
 
 
 ### § 60 Rechtsverordnung über Dienstbezeichnungen, Laufbahnen, Verwendung und Beförderung

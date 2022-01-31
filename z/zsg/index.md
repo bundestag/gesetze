@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 726
 
 Zuletzt geändert durch
-:   Art. 2 Nr. 1 G v. 29.7.2009 I 2350
+:   Art. 144 V v. 19.6.2020 I 1328
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -212,14 +212,14 @@ Gemeinde zu erstatten.
 nach Landesrecht zuständigen Behörde keine Veränderungen vorgenommen
 werden, die die Benutzung des öffentlichen Schutzraums beeinträchtigen
 könnten. Bei Bauten im Eigentum des Bundes erteilt die Zustimmung das
-Bundesministerium des Innern.
+Bundesministerium des Innern, für Bau und Heimat.
 
 (3) Die Absätze 1 und 2 gelten auch für Schutzräume in dem in Artikel
 3 des Einigungsvertrages genannten Gebiet, die vom Bundesministerium
-des Innern als öffentliche Schutzräume anerkannt worden sind, sowie
-für die Bestandserhaltung der bisher zum Zwecke der gesundheitlichen
-Versorgung der Bevölkerung im Verteidigungsfall errichteten
-Schutzbauwerke.
+des Innern, für Bau und Heimat als öffentliche Schutzräume anerkannt
+worden sind, sowie für die Bestandserhaltung der bisher zum Zwecke der
+gesundheitlichen Versorgung der Bevölkerung im Verteidigungsfall
+errichteten Schutzbauwerke.
 
 
 ### § 8 Hausschutzräume
@@ -282,10 +282,11 @@ Unterstützung.
 und Einrichtungen nehmen auch die Aufgaben zum Schutz der Bevölkerung
 vor den besonderen Gefahren und Schäden, die im Verteidigungsfall
 drohen, wahr. Sie werden zu diesem Zwecke ergänzend ausgestattet und
-ausgebildet. Das Bundesministerium des Innern legt Art und Umfang der
-Ergänzung im Benehmen mit der zuständigen obersten Landesbehörde fest.
+ausgebildet. Das Bundesministerium des Innern, für Bau und Heimat legt
+Art und Umfang der Ergänzung im Benehmen mit der zuständigen obersten
+Landesbehörde fest.
 
-(2) Die  Einheiten und Einrichtungen der Bundesanstalt Technisches
+(2) Die Einheiten und Einrichtungen der Bundesanstalt Technisches
 Hilfswerk verstärken im Verteidigungsfall den Katastrophenschutz bei
 der Wahrnehmung der Aufgaben nach Absatz 1.
 
@@ -330,10 +331,6 @@ insbesondere auch die Planung, Durchführung und Auswertung von
 ressort- und länderübergreifenden Krisenmanagementübungen. Die Aus-
 und Fortbildungsmaßnahmen des Bundes bauen auf der Ausbildung der
 Länder im Bereich des Katastrophenschutzes auf und ergänzen diese.
-
-
-## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
-
 
 
 ### § 15 Aufgaben der Katastrophenschutzbehörde
@@ -411,20 +408,21 @@ oder zum Nachweis oder zur Vermittlung von Engpassressourcen
 erforderlich ist. Eines Ersuchens dieser Stellen um Übermittlung
 bedarf es nicht.
 
-(3) Das Nähere regelt das Bundesministerium des Innern durch
-Rechtsverordnung mit Zustimmung des Bundesrates. Dabei sind
-insbesondere die Datenarten, die erhoben und verwendet werden dürfen,
-sowie Fristen für die Löschung der Daten zu bestimmen.
+(3) Das Nähere regelt das Bundesministerium des Innern, für Bau und
+Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates. Dabei
+sind insbesondere die Datenarten, die erhoben und verwendet werden
+dürfen, sowie Fristen für die Löschung der Daten zu bestimmen.
 
 
 ### § 18 Zusammenarbeit von Bund und Ländern
 
 (1) Der Bund erstellt im Zusammenwirken mit den Ländern eine
 bundesweite Risikoanalyse für den Zivilschutz. Das Bundesministerium
-des Innern unterrichtet den Deutschen Bundestag über die Ergebnisse
-der Risikoanalyse nach Satz 1 ab 2010 jährlich. Im Jahr ihrer
-Fertigstellung unterrichtet es den Deutschen Bundestag darüber hinaus
-über die von der Schutzkommission erstellten Gefahrenberichte.
+des Innern, für Bau und Heimat unterrichtet den Deutschen Bundestag
+über die Ergebnisse der Risikoanalyse nach Satz 1 ab 2010 jährlich. Im
+Jahr ihrer Fertigstellung unterrichtet es den Deutschen Bundestag
+darüber hinaus über die von der Schutzkommission erstellten
+Gefahrenberichte.
 
 (2) Der Bund berät und unterstützt die Länder im Rahmen seiner
 Zuständigkeiten beim Schutz kritischer Infrastrukturen.
@@ -438,14 +436,10 @@ auch bei Naturkatastrophen und besonders schweren Unglücksfällen
 erforderlich sind.
 
 
-## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
-
-
-
 ### § 19 Schutzkommission
 
-(1) Beim Bundesministerium des Innern besteht eine Kommission zum
-Schutz der Zivilbevölkerung.
+(1) Beim Bundesministerium des Innern, für Bau und Heimat besteht eine
+Kommission zum Schutz der Zivilbevölkerung.
 
 (2) Sie berät die Bundesregierung ehrenamtlich in wissenschaftlichen
 und technischen Fragen des Zivilschutzes und der Katastrophenhilfe.
@@ -454,14 +448,14 @@ und technischen Fragen des Zivilschutzes und der Katastrophenhilfe.
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.
 
 
-## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
-
-
-
 ### § 20 Unterstützung des Ehrenamtes
 
 Der Bund unterstützt das Ehrenamt als Grundlage des Zivil- und
 Katastrophenschutzes.
+
+
+## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
+
 
 
 ### § 21 Planung der gesundheitlichen Versorgung
@@ -548,10 +542,6 @@ Bundesrat es verlangen. Satz 2 gilt entsprechend für die Anordnungen
 nach Absatz 1.
 
 
-## Zehnter Abschnitt - Kosten des Zivilschutzes
-
-
-
 ### § 23 Sanitätsmaterialbevorratung
 
 (1) Der Bund stellt den Ländern für die gesundheitliche Versorgung der
@@ -560,19 +550,15 @@ Verfügung. Dieses steht den Ländern für ihre Aufgaben im Bereich des
 Katastrophenschutzes zusätzlich zur Verfügung. Die Länder können das
 Sanitätsmaterial in ihre Katastrophenschutzvorsorge einplanen.
 
-(2) Das Bundesministerium des Innern kann im Einvernehmen mit dem
-Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung
-des Bundesrates anordnen, dass nach Maßgabe des Artikels 80a des
-Grundgesetzes ausreichend Sanitätsmaterial von Herstellungsbetrieben,
-Großhandlungen sowie öffentlichen und Krankenhausapotheken vorgehalten
-wird, um die Deckung von zusätzlichem Bedarf im Verteidigungsfall
-sicherzustellen. Die §§ 4, 8 und 13 bis 16 des
-Wirtschaftssicherstellungsgesetzes in der Fassung vom 31. Oktober 2006
-sind entsprechend anzuwenden.
-
-
-## Elfter Abschnitt - Bußgeldvorschriften
-
+(2) Das Bundesministerium des Innern, für Bau und Heimat kann im
+Einvernehmen mit dem Bundesministerium für Gesundheit durch
+Rechtsverordnung mit Zustimmung des Bundesrates anordnen, dass nach
+Maßgabe des Artikels 80a des Grundgesetzes ausreichend
+Sanitätsmaterial von Herstellungsbetrieben, Großhandlungen sowie
+öffentlichen und Krankenhausapotheken vorgehalten wird, um die Deckung
+von zusätzlichem Bedarf im Verteidigungsfall sicherzustellen. Die §§
+4, 8 und 13 bis 16 des Wirtschaftssicherstellungsgesetzes in der
+Fassung vom 31. Oktober 2006 sind entsprechend anzuwenden.
 
 
 ### § 24 Erste-Hilfe-Ausbildung und Ausbildung von Pflegehilfskräften
@@ -589,7 +575,7 @@ Abs. 1 mitwirkenden privaten Organisationen
 
 
 
-## Zwölfter Abschnitt - Schlußbestimmungen
+## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
 
 
 
@@ -599,6 +585,10 @@ Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz zu
 der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
 bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 1 des Gesetzes vom 10. August 1971 (BGBl. II S. 1025).
+
+
+## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
+
 
 
 ### § 26 Mitwirkung der Organisationen
@@ -665,6 +655,10 @@ Gründe gegen ihren Einsatz in der Organisation sprechen.
 Vierteljahr nicht überschreiten.
 
 
+## Zehnter Abschnitt - Kosten des Zivilschutzes
+
+
+
 ### § 29 Kosten
 
 (1) Der Bund trägt die Kosten, die den Ländern, Gemeinden und
@@ -719,6 +713,10 @@ zivilschutzbezogenen Ausbildungszwecken.
 Pflichtigen zu ersetzen.
 
 
+## Elfter Abschnitt - Bußgeldvorschriften
+
+
+
 ### § 30 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -759,6 +757,10 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
     Nr. 3 die für den Katastrophenschutz zuständige Behörde.
 
 
+
+
+
+## Zwölfter Abschnitt - Schlußbestimmungen
 
 
 

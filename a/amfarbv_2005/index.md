@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3031
 
-Geändert durch
-:   Art. 8 G v. 17.7.2009 I 1990
+Zuletzt geändert durch
+:   Art. 4 G v. 9.8.2019 I 1202
+
+Mittelbare änderung durch
+:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 ist berücksichtigt
 
 Diese Verordnung dient der Umsetzung der
 
@@ -63,22 +66,39 @@ Es verordnen
 
 ## § 1
 
-(1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Abs. 1 des
-Arzneimittelgesetzes, die dazu bestimmt sind, in einem Mitgliedstaat
-der Europäischen Gemeinschaften oder in einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum in den Verkehr
-gebracht zu werden, dürfen zur Färbung nur die in Anhang I der
-Richtlinie 94/36/EG des Europäischen Parlaments und des Rates vom 30.
-Juni 1994 über Farbstoffe, die in Lebensmitteln verwendet werden
-dürfen (ABl. EG Nr. L 237 S. 13), in der jeweils geltenden Fassung
-aufgeführten Stoffe oder Zubereitungen aus diesen Stoffen verwendet
-werden; diese Stoffe sowie deren Zubereitungen müssen den
-Reinheitskriterien gemäß Anhang der Richtlinie 95/45/EG der Kommission
-vom 26. Juli 1995 zur Festlegung spezifischer Reinheitskriterien für
-Lebensmittelfarbstoffe (ABl. EG Nr. L 226 S. 1) in der jeweils
-geltenden Fassung entsprechen. Sofern Farbstoffe in Monographien des
-Europäischen Arzneibuchs beschrieben sind, müssen sie zusätzlich den
-dort aufgeführten Anforderungen entsprechen.
+(1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Absatz 1
+des Arzneimittelgesetzes dürfen über die in § 55 Absatz 8 des
+Arzneimittelgesetzes genannten Voraussetzungen hinaus zur Färbung nur
+solche Stoffe oder Zubereitungen aus Stoffen verwendet werden, die
+
+1.  in der Richtlinie 2009/35/EG des Europäischen Parlaments und des Rates
+    vom 23. April 2009 über die Stoffe, die Arzneimitteln zum Zwecke der
+    Färbung hinzugefügt werden dürfen (Neufassung) (ABl. L 109 vom
+    30\.4.2009, S. 10) in Verbindung mit Anhang II der Verordnung (EG) Nr.
+    1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
+    2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16),
+    die zuletzt durch die Verordnung (EU) 2018/1497 (ABl. L 253 vom
+    9\.10.2018, S. 36) geändert worden ist, in der jeweils geltenden
+    Fassung aufgeführt sind, und
+
+
+2.  den jeweiligen Anforderungen an die Reinheit nach dem Anhang der
+    Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit
+    Spezifikationen für die in den Anhängen II und III der Verordnung (EG)
+    Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten
+    Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1), die zuletzt
+    durch die Verordnung (EU) 2018/1481 (ABl. L 251 vom 5.10.2018, S. 13)
+    geändert worden ist, in der jeweils geltenden Fassung entsprechen.
+
+
+
+Satz 1 gilt nicht, soweit die Stoffe und Zubereitungen aus diesen
+Stoffen zur Färbung ausschließlich in Arzneimitteln verwendet werden,
+die in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 des
+Europäischen Parlaments und des Rates vom 16. April 2014 über
+klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
+Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom
+17\.11.2016, S. 25) fallen.
 
 (2) Arzneimittel im Sinne des § 2 Abs. 1 des Arzneimittelgesetzes, die
 nicht nach den Vorschriften des Absatzes 1 hergestellt sind, dürfen im

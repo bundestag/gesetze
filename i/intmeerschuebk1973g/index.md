@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 18.9.1998 II 2546;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 2.6.2008 II 520
+:   Art. 2 G v. 25.11.2015 I 2095
 
 
 ## Art 1
@@ -67,7 +67,7 @@ Ausdruck "Schiff" den Eigentümer und den Betreiber des Schiffes ein.
 
 ## Art 2
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird,
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird,
 vorbehaltlich der in den §§ 9 bis 9c des Seeaufgabengesetzes
 enthaltenen Rechtsverordnungsermächtigung, ermächtigt, durch
 Rechtsverordnung Änderungen des Übereinkommens gemäß dessen Artikel 16
@@ -90,23 +90,7 @@ eigene Angelegenheit auszuführen sind.
 (Änderung des Seeaufgabengesetzes)
 
 
-## Art 4
-
-(1) Erhält eine Schiffahrtspolizeibehörde oder die für die
-Hafenstaatkontrolle zuständige Schiffssicherheitsbehörde ein Ersuchen
-im Sinne des Artikels 6 Abs. 5 des Übereinkommens um Untersuchung
-eines Schiffes, so leitet sie, wenn es sich um ein Ersuchen um
-Beweissicherung nach Abschnitt 5 der Vereinbarung vom 26. Januar 1982
-über die Hafenstaatkontrolle (BGBl. II S. 585) handelt, dieses
-Rechtshilfeersuchen unverzüglich an die zuständige
-Strafverfolgungsbehörde weiter.
-
-(2) Ist in einem anderen Staat eine entsprechende Regelung vorgesehen,
-so verliert ein solches Ersuchen einschließlich der damit
-zusammenhängenden Unterlagen nicht seinen Charakter als
-Rechtshilfeersuchen, wenn es von einer Schiffahrtspolizeibehörde oder
-der für die Durchführung der genannten Vereinbarung zuständigen
-Schiffssicherheitsbehörde dieses Staates entgegengenommen werden kann.
+## Art 4 (weggefallen)
 
 
 ## Art 5

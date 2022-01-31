@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1972, 1089
 
 Zuletzt geändert durch
-:   Art. 59 V v. 31.10.2006 I 2407
+:   Art. 75 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -69,8 +69,8 @@ erlassen werden, ist das Deutsche Hydrographische Institut zuständig.
 
 (3) Für Amtshandlungen auf Grund der auf diesem Gesetz beruhenden
 Rechtsverordnungen erhebt das Deutsche Hydrographische Institut Kosten
-(Gebühren und Auslagen). Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem
+(Gebühren und Auslagen). Das Bundesministerium für Verkehr und
+digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für
 die einzelnen Amtshandlungen zu bestimmen und dabei feste Sätze oder
 Rahmensätze vorzusehen. Die Gebühren für jede Amtshandlung dürfen

@@ -13,13 +13,25 @@ Ausfertigungsdatum
 :   1950-09-12
 
 Fundstelle
-:   BGBl: 1950, 455 (512, 533)
+:   BGBl: 1950, 455, 533
 
 Neugefasst durch
-:   Bek. v. 5.12.2005 I 3202 (2006 I 431) (2007 I 1781)
+:   Bek. v. 5.12.2005 I 3202; 2006 I 431; 2007 I 1781;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.12.2012 I 2745
+:   Art. 34 G v. 10.8.2021 I 3436
+
+Änderung durch
+:   Art. 1 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
 
 ## Buch 1 - Allgemeine Vorschriften
@@ -192,8 +204,8 @@ vertreten.
 Ist der Ort, an dem eine Behörde ihren Sitz hat, in mehrere
 Gerichtsbezirke geteilt, so wird der Bezirk, der im Sinne der §§ 17,
 18 als Sitz der Behörde gilt, für die Bundesbehörden von dem
-Bundesminister der Justiz, im Übrigen von der Landesjustizverwaltung
-durch allgemeine Anordnung bestimmt.
+Bundesministerium der Justiz und für Verbraucherschutz, im Übrigen von
+der Landesjustizverwaltung durch allgemeine Anordnung bestimmt.
 
 
 ##### § 19a Allgemeiner Gerichtsstand des Insolvenzverwalters
@@ -201,6 +213,22 @@ durch allgemeine Anordnung bestimmt.
 Der allgemeine Gerichtsstand eines Insolvenzverwalters für Klagen, die
 sich auf die Insolvenzmasse beziehen, wird durch den Sitz des
 Insolvenzgerichts bestimmt.
+
+
+##### § 19b Ausschließlicher Gerichtsstand bei restrukturierungsbezogenen Klagen; Verordnungsermächtigung
+
+(1) Für Klagen, die sich auf Restrukturierungssachen nach dem
+Unternehmensstabilisierungs- und -restrukturierungsgesetz beziehen,
+ist ausschließlich das Gericht zuständig, in dessen Bezirk das für die
+Restrukturierungssache zuständige Restrukturierungsgericht seinen Sitz
+hat.
+
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke
+mehrerer Oberlandesgerichte zuzuweisen, sofern dies der sachlichen
+Förderung oder schnelleren Erledigung der Verfahren dienlich ist. Die
+Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
+die Landesjustizverwaltungen übertragen.
 
 
 ##### § 20 Besonderer Gerichtsstand des Aufenthaltsorts
@@ -342,28 +370,55 @@ handelt.
 
 ##### § 29c Besonderer Gerichtsstand für Haustürgeschäfte
 
-(1) Für Klagen aus Haustürgeschäften (§ 312 des Bürgerlichen
-Gesetzbuchs) ist das Gericht zuständig, in dessen Bezirk der
-Verbraucher zur Zeit der Klageerhebung seinen Wohnsitz, in Ermangelung
-eines solchen seinen gewöhnlichen Aufenthalt hat. Für Klagen gegen den
-Verbraucher ist dieses Gericht ausschließlich zuständig.
+(1) Für Klagen aus außerhalb von Geschäftsräumen geschlossenen
+Verträgen (§ 312b des Bürgerlichen Gesetzbuchs) ist das Gericht
+zuständig, in dessen Bezirk der Verbraucher zur Zeit der Klageerhebung
+seinen Wohnsitz, in Ermangelung eines solchen seinen gewöhnlichen
+Aufenthalt hat. Für Klagen gegen den Verbraucher ist dieses Gericht
+ausschließlich zuständig.
 
-(2) § 33 Abs. 2 findet auf Widerklagen der anderen Vertragspartei
+(2) Verbraucher ist jede natürliche Person, die bei dem Erwerb des
+Anspruchs oder der Begründung des Rechtsverhältnisses nicht
+überwiegend im Rahmen ihrer gewerblichen oder selbständigen
+beruflichen Tätigkeit handelt.
+
+(3) § 33 Abs. 2 findet auf Widerklagen der anderen Vertragspartei
 keine Anwendung.
 
-(3) Eine von Absatz 1 abweichende Vereinbarung ist zulässig für den
+(4) Eine von Absatz 1 abweichende Vereinbarung ist zulässig für den
 Fall, dass der Verbraucher nach Vertragsschluss seinen Wohnsitz oder
 gewöhnlichen Aufenthalt aus dem Geltungsbereich dieses Gesetzes
 verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt
 der Klageerhebung nicht bekannt ist.
 
 
-##### § 30 Gerichtsstand bei Bergungsansprüchen
+##### § 30 Gerichtsstand bei Beförderungen
 
-Für Klagen wegen Ansprüchen aus Bergung nach dem Achten Abschnitt des
-Fünften Buches des Handelsgesetzbuchs gegen eine Person, die im Inland
-keinen Gerichtsstand hat, ist das Gericht zuständig, bei dem der
-Kläger im Inland seinen allgemeinen Gerichtsstand hat.
+(1) Für Rechtsstreitigkeiten aus einer Güterbeförderung ist auch das
+Gericht zuständig, in dessen Bezirk der Ort der Übernahme des Gutes
+oder der für die Ablieferung des Gutes vorgesehene Ort liegt. Eine
+Klage gegen den ausführenden Frachtführer oder ausführenden
+Verfrachter kann auch in dem Gerichtsstand des Frachtführers oder
+Verfrachters erhoben werden. Eine Klage gegen den Frachtführer oder
+Verfrachter kann auch in dem Gerichtsstand des ausführenden
+Frachtführers oder ausführenden Verfrachters erhoben werden.
+
+(2) Für Rechtsstreitigkeiten wegen einer Beförderung von Fahrgästen
+und ihrem Gepäck auf Schiffen ist auch das Gericht zuständig, in
+dessen Bezirk sich der im Beförderungsvertrag bestimmte Abgangs- oder
+Bestimmungsort befindet. Eine von Satz 1 abweichende Vereinbarung ist
+unwirksam, wenn sie vor Eintritt des Ereignisses getroffen wird, das
+den Tod oder die Körperverletzung des Fahrgasts oder den Verlust, die
+Beschädigung oder die verspätete Aushändigung des Gepäcks verursacht
+hat.
+
+
+##### § 30a Gerichtsstand bei Bergungsansprüchen
+
+Für Klagen wegen Ansprüchen aus Bergung von Schiffen oder sonstigen
+Vermögensgegenständen in einem Gewässer gegen eine Person, die im
+Inland keinen Gerichtsstand hat, ist das Gericht zuständig, bei dem
+der Kläger im Inland seinen allgemeinen Gerichtsstand hat.
 
 
 ##### § 31 Besonderer Gerichtsstand der Vermögensverwaltung
@@ -421,6 +476,13 @@ mehrerer Landgerichte zuzuweisen, sofern dies der sachlichen Förderung
 oder schnelleren Erledigung der Verfahren dienlich ist. Die
 Landesregierungen können diese Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
+
+
+##### § 32c Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
+
+Für Klagen in Musterfeststellungsverfahren nach Buch 6 ist das Gericht
+des allgemeinen Gerichtsstands des Beklagten ausschließlich zuständig,
+sofern sich dieser im Inland befindet.
 
 
 ##### § 33 Besonderer Gerichtsstand der Widerklage
@@ -664,7 +726,7 @@ dienstlich zu äußern.
 eingelassen oder Anträge gestellt hat, wegen Besorgnis der
 Befangenheit abgelehnt, so ist glaubhaft zu machen, dass der
 Ablehnungsgrund erst später entstanden oder der Partei bekannt
-geworden sei.
+geworden sei. Das Ablehnungsgesuch ist unverzüglich anzubringen.
 
 
 ##### § 45 Entscheidung über das Ablehnungsgesuch
@@ -927,7 +989,8 @@ der er sich zur Zeit seines Beitritts befindet; er ist berechtigt,
 Angriffs- und Verteidigungsmittel geltend zu machen und alle
 Prozesshandlungen wirksam vorzunehmen, insoweit nicht seine
 Erklärungen und Handlungen mit Erklärungen und Handlungen der
-Hauptpartei in Widerspruch stehen.
+Hauptpartei in Widerspruch stehen. Für ihn gelten die §§ 141 und 278
+Absatz 3 entsprechend.
 
 
 ##### § 68 Wirkung der Nebenintervention
@@ -1190,14 +1253,11 @@ Bevollmächtigte vertretungsbefugt nur
 
 
 4.  Personen, die Inkassodienstleistungen erbringen (registrierte Personen
-    nach § 10 Abs. 1 Satz 1 Nr. 1 des Rechtsdienstleistungsgesetzes) im
-    Mahnverfahren bis zur Abgabe an das Streitgericht, bei
-    Vollstreckungsanträgen im Verfahren der Zwangsvollstreckung in das
-    bewegliche Vermögen wegen Geldforderungen einschließlich des
-    Verfahrens zur Abnahme der eidesstattlichen Versicherung und des
-    Antrags auf Erlass eines Haftbefehls, jeweils mit Ausnahme von
-    Verfahrenshandlungen, die ein streitiges Verfahren einleiten oder
-    innerhalb eines streitigen Verfahrens vorzunehmen sind.
+    nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes)
+    im Mahnverfahren bis zur Abgabe an das Streitgericht und im Verfahren
+    der Zwangsvollstreckung wegen Geldforderungen in das bewegliche
+    Vermögen mit Ausnahme von Handlungen, die ein streitiges Verfahren
+    einleiten oder innerhalb eines streitigen Verfahrens vorzunehmen sind.
 
 
 
@@ -1380,6 +1440,11 @@ ist.
 (4) Zu den Kosten des Rechtsstreits im Sinne von Absatz 1 gehören auch
 Kosten, die die obsiegende Partei der unterlegenen Partei im Verlaufe
 des Rechtsstreits gezahlt hat.
+
+(5) Wurde in einem Rechtsstreit über einen Anspruch nach Absatz 1 Satz
+1 entschieden, so ist die Verjährung des Anspruchs gehemmt, bis die
+Entscheidung rechtskräftig geworden ist oder der Rechtsstreit auf
+andere Weise beendet wird.
 
 
 ##### § 91a Kosten bei Erledigung der Hauptsache
@@ -1786,13 +1851,19 @@ ist, dieses zu verwerfen.
 
 ##### § 114 Voraussetzungen
 
-Eine Partei, die nach ihren persönlichen und wirtschaftlichen
+(1) Eine Partei, die nach ihren persönlichen und wirtschaftlichen
 Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder
 nur in Raten aufbringen kann, erhält auf Antrag Prozesskostenhilfe,
 wenn die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung
 hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint.
 Für die grenzüberschreitende Prozesskostenhilfe innerhalb der
 Europäischen Union gelten ergänzend die §§ 1076 bis 1078.
+
+(2) Mutwillig ist die Rechtsverfolgung oder Rechtsverteidigung, wenn
+eine Partei, die keine Prozesskostenhilfe beansprucht, bei
+verständiger Würdigung aller Umstände von der Rechtsverfolgung oder
+Rechtsverteidigung absehen würde, obwohl eine hinreichende Aussicht
+auf Erfolg besteht.
 
 
 ##### § 115 Einsatz von Einkommen und Vermögen
@@ -1806,10 +1877,10 @@ alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
 
 
     b)  bei Parteien, die ein Einkommen aus Erwerbstätigkeit erzielen, ein
-        Betrag in Höhe von 50 vom Hundert des höchsten Regelsatzes, der für
-        den alleinstehenden oder alleinerziehenden Leistungsberechtigten gemäß
-        der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches
-        Sozialgesetzbuch festgesetzt oder fortgeschrieben worden ist;
+        Betrag in Höhe von 50 vom Hundert des Regelsatzes, der für den
+        alleinstehenden oder alleinerziehenden Leistungsberechtigten vom Bund
+        gemäß der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften
+        Buches Sozialgesetzbuch festgesetzt oder fortgeschrieben worden ist;
 
 
 
@@ -1817,17 +1888,17 @@ alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
 
 2.
     a)  für die Partei und ihren Ehegatten oder ihren Lebenspartner jeweils
-        ein Betrag in Höhe des um 10 vom Hundert erhöhten höchsten
-        Regelsatzes, der für den alleinstehenden oder alleinerziehenden
-        Leistungsberechtigten gemäß der Regelbedarfsstufe 1 nach der Anlage zu
-        § 28 des Zwölften Buches Sozialgesetzbuch festgesetzt oder
-        fortgeschrieben worden ist;
+        ein Betrag in Höhe des um 10 vom Hundert erhöhten Regelsatzes, der für
+        den alleinstehenden oder alleinerziehenden Leistungsberechtigten vom
+        Bund gemäß der Regelbedarfsstufe 1 nach der Anlage zu § 28 des
+        Zwölften Buches Sozialgesetzbuch festgesetzt oder fortgeschrieben
+        worden ist;
 
 
     b)  bei weiteren Unterhaltsleistungen auf Grund gesetzlicher
         Unterhaltspflicht für jede unterhaltsberechtigte Person jeweils ein
-        Betrag in Höhe des um 10 vom Hundert erhöhten höchsten Regelsatzes,
-        der für eine Person ihres Alters gemäß den Regelbedarfsstufen 3 bis 6
+        Betrag in Höhe des um 10 vom Hundert erhöhten Regelsatzes, der für
+        eine Person ihres Alters vom Bund gemäß den Regelbedarfsstufen 3 bis 6
         nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch
         festgesetzt oder fortgeschrieben worden ist;
 
@@ -1840,126 +1911,39 @@ alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
     stehen;
 
 
-4.  weitere Beträge, soweit dies mit Rücksicht auf besondere Belastungen
+4.  Mehrbedarfe nach § 21 des Zweiten Buches Sozialgesetzbuch und nach §
+    30 des Zwölften Buches Sozialgesetzbuch;
+
+
+5.  weitere Beträge, soweit dies mit Rücksicht auf besondere Belastungen
     angemessen ist; § 1610a des Bürgerlichen Gesetzbuchs gilt
     entsprechend.
 
 
 
 Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der
-Prozesskostenhilfe gelten. Das Bundesministerium der Justiz gibt bei
-jeder Neufestsetzung oder jeder Fortschreibung die maßgebenden Beträge
-nach Satz 3 Nummer 1 Buchstabe b und Nummer 2 im Bundesgesetzblatt
-bekannt. Diese Beträge sind, soweit sie nicht volle Euro ergeben, bis
-zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die
-Unterhaltsfreibeträge nach Satz 3 Nr. 2 vermindern sich um eigenes
-Einkommen der unterhaltsberechtigten Person. Wird eine Geldrente
-gezahlt, so ist sie an Stelle des Freibetrages abzusetzen, soweit dies
-angemessen ist.
+Prozesskostenhilfe gelten. Soweit am Wohnsitz der Partei aufgrund
+einer Neufestsetzung oder Fortschreibung nach § 29 Absatz 2 bis 4 des
+Zwölften Buches Sozialgesetzbuch höhere Regelsätze gelten, sind diese
+heranzuziehen. Das Bundesministerium der Justiz und für
+Verbraucherschutz gibt bei jeder Neufestsetzung oder jeder
+Fortschreibung die maßgebenden Beträge nach Satz 3 Nummer 1 Buchstabe
+b und Nummer 2 und nach Satz 5 im Bundesgesetzblatt bekannt. Diese
+Beträge sind, soweit sie nicht volle Euro ergeben, bis zu 0,49 Euro
+abzurunden und von 0,50 Euro an aufzurunden. Die Unterhaltsfreibeträge
+nach Satz 3 Nr. 2 vermindern sich um eigenes Einkommen der
+unterhaltsberechtigten Person. Wird eine Geldrente gezahlt, so ist sie
+an Stelle des Freibetrages abzusetzen, soweit dies angemessen ist.
 
-(2) Von dem nach den Abzügen verbleibenden, auf volle Euro
-abzurundenden Teil des monatlichen Einkommens (einzusetzendes
-Einkommen) sind unabhängig von der Zahl der Rechtszüge höchstens 48
-Monatsraten aufzubringen, und zwar bei einem
-
-*    *   einzusetzenden Einkommen
-
-        (Euro)
-
-
-    *   eine Monatsrate von
-
-        (Euro)
-
-
-
-*    *   bis 15
-
-    *   0
-
-
-*    *   50
-
-    *   15
-
-
-*    *   100
-
-    *   30
-
-
-*    *   150
-
-    *   45
-
-
-*    *   200
-
-    *   60
-
-
-*    *   250
-
-    *   75
-
-
-*    *   300
-
-    *   95
-
-
-*    *   350
-
-    *   115
-
-
-*    *   400
-
-    *   135
-
-
-*    *   450
-
-    *   155
-
-
-*    *   500
-
-    *   175
-
-
-*    *   550
-
-    *   200
-
-
-*    *   600
-
-    *   225
-
-
-*    *   650
-
-    *   250
-
-
-*    *   700
-
-    *   275
-
-
-*    *   750
-
-    *   300
-
-
-*    *   über 750
-
-    *   300 zuzüglich des 750 übersteigenden Teils des einzusetzenden
-        Einkommens.
-
-
-
+(2) Von dem nach den Abzügen verbleibenden Teil des monatlichen
+Einkommens (einzusetzendes Einkommen) sind Monatsraten in Höhe der
+Hälfte des einzusetzenden Einkommens festzusetzen; die Monatsraten
+sind auf volle Euro abzurunden. Beträgt die Höhe einer Monatsrate
+weniger als 10 Euro, ist von der Festsetzung von Monatsraten
+abzusehen. Bei einem einzusetzenden Einkommen von mehr als 600 Euro
+beträgt die Monatsrate 300 Euro zuzüglich des Teils des einzusetzenden
+Einkommens, der 600 Euro übersteigt. Unabhängig von der Zahl der
+Rechtszüge sind höchstens 48 Monatsraten aufzubringen.
 
 (3) Die Partei hat ihr Vermögen einzusetzen, soweit dies zumutbar ist.
 § 90 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
@@ -1990,9 +1974,9 @@ Prozesskostenhilfe erhalten auf Antrag
 
 
 
-§ 114 Satz 1 letzter Halbsatz ist anzuwenden. Können die Kosten nur
-zum Teil oder nur in Teilbeträgen aufgebracht werden, so sind die
-entsprechenden Beträge zu zahlen.
+§ 114 Absatz 1 Satz 1 letzter Halbsatz und Absatz 2 ist anzuwenden.
+Können die Kosten nur zum Teil oder nur in Teilbeträgen aufgebracht
+werden, so sind die entsprechenden Beträge zu zahlen.
 
 
 ##### § 117 Antrag
@@ -2015,10 +1999,11 @@ Dem Antragsteller ist vor der Übermittlung seiner Erklärung an den
 Gegner Gelegenheit zur Stellungnahme zu geben. Er ist über die
 Übermittlung seiner Erklärung zu unterrichten.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, zur
-Vereinfachung und Vereinheitlichung des Verfahrens durch
-Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die
-Erklärung einzuführen.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens
+durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für
+die Erklärung einzuführen. Die Formulare enthalten die nach § 120a
+Absatz 2 Satz 4 erforderliche Belehrung.
 
 (4) Soweit Formulare für die Erklärung eingeführt sind, muss sich die
 Partei ihrer bedienen.
@@ -2026,22 +2011,23 @@ Partei ihrer bedienen.
 
 ##### § 118 Bewilligungsverfahren
 
-(1) Vor der Bewilligung der Prozesskostenhilfe ist dem Gegner
-Gelegenheit zur Stellungnahme zu geben, wenn dies nicht aus besonderen
-Gründen unzweckmäßig erscheint. Die Stellungnahme kann vor der
-Geschäftsstelle zu Protokoll erklärt werden. Das Gericht kann die
-Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu
-erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen.
-Dem Gegner entstandene Kosten werden nicht erstattet. Die durch die
-Vernehmung von Zeugen und Sachverständigen nach Absatz 2 Satz 3
-entstandenen Auslagen sind als Gerichtskosten von der Partei zu
-tragen, der die Kosten des Rechtsstreits auferlegt sind.
+(1) Dem Gegner ist Gelegenheit zur Stellungnahme zu geben, ob er die
+Voraussetzungen für die Bewilligung von Prozesskostenhilfe für gegeben
+hält, soweit dies aus besonderen Gründen nicht unzweckmäßig erscheint.
+Die Stellungnahme kann vor der Geschäftsstelle zu Protokoll erklärt
+werden. Das Gericht kann die Parteien zur mündlichen Erörterung laden,
+wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem
+Protokoll zu nehmen. Dem Gegner entstandene Kosten werden nicht
+erstattet. Die durch die Vernehmung von Zeugen und Sachverständigen
+nach Absatz 2 Satz 3 entstandenen Auslagen sind als Gerichtskosten von
+der Partei zu tragen, der die Kosten des Rechtsstreits auferlegt sind.
 
 (2) Das Gericht kann verlangen, dass der Antragsteller seine
-tatsächlichen Angaben glaubhaft macht. Es kann Erhebungen anstellen,
-insbesondere die Vorlegung von Urkunden anordnen und Auskünfte
-einholen. Zeugen und Sachverständige werden nicht vernommen, es sei
-denn, dass auf andere Weise nicht geklärt werden kann, ob die
+tatsächlichen Angaben glaubhaft macht, es kann insbesondere auch die
+Abgabe einer Versicherung an Eides statt fordern. Es kann Erhebungen
+anstellen, insbesondere die Vorlegung von Urkunden anordnen und
+Auskünfte einholen. Zeugen und Sachverständige werden nicht vernommen,
+es sei denn, dass auf andere Weise nicht geklärt werden kann, ob die
 Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf
 Erfolg bietet und nicht mutwillig erscheint; eine Beeidigung findet
 nicht statt. Hat der Antragsteller innerhalb einer von dem Gericht
@@ -2066,20 +2052,20 @@ Rechtsmittel eingelegt hat.
 (2) Die Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung
 in das bewegliche Vermögen umfasst alle Vollstreckungshandlungen im
 Bezirk des Vollstreckungsgerichts einschließlich des Verfahrens auf
-Abgabe der eidesstattlichen Versicherung.
+Abgabe der Vermögensauskunft und der eidesstattlichen Versicherung.
 
 
 ##### § 120 Festsetzung von Zahlungen
 
 (1) Mit der Bewilligung der Prozesskostenhilfe setzt das Gericht zu
 zahlende Monatsraten und aus dem Vermögen zu zahlende Beträge fest.
-Setzt das Gericht nach § 115 Abs. 1 Satz 3 Nr. 4 mit Rücksicht auf
-besondere Belastungen von dem Einkommen Beträge ab und ist anzunehmen,
-dass die Belastungen bis zum Ablauf von vier Jahren ganz oder
-teilweise entfallen werden, so setzt das Gericht zugleich diejenigen
-Zahlungen fest, die sich ergeben, wenn die Belastungen nicht oder nur
-in verringertem Umfang berücksichtigt werden, und bestimmt den
-Zeitpunkt, von dem an sie zu erbringen sind.
+Setzt das Gericht nach § 115 Absatz 1 Satz 3 Nummer 5 mit Rücksicht
+auf besondere Belastungen von dem Einkommen Beträge ab und ist
+anzunehmen, dass die Belastungen bis zum Ablauf von vier Jahren ganz
+oder teilweise entfallen werden, so setzt das Gericht zugleich
+diejenigen Zahlungen fest, die sich ergeben, wenn die Belastungen
+nicht oder nur in verringertem Umfang berücksichtigt werden, und
+bestimmt den Zeitpunkt, von dem an sie zu erbringen sind.
 
 (2) Die Zahlungen sind an die Landeskasse zu leisten, im Verfahren vor
 dem Bundesgerichtshof an die Bundeskasse, wenn Prozesskostenhilfe in
@@ -2088,7 +2074,8 @@ einem vorherigen Rechtszug nicht bewilligt worden ist.
 (3) Das Gericht soll die vorläufige Einstellung der Zahlungen
 bestimmen,
 
-1.  wenn abzusehen ist, dass die Zahlungen der Partei die Kosten decken;
+1.  wenn die Zahlungen der Partei die voraussichtlich entstehenden Kosten
+    decken;
 
 
 2.  wenn die Partei, ein ihr beigeordneter Rechtsanwalt oder die Bundes-
@@ -2098,17 +2085,51 @@ bestimmen,
 
 
 
-(4) Das Gericht kann die Entscheidung über die zu leistenden Zahlungen
+(4) (weggefallen)
+
+
+##### § 120a Änderung der Bewilligung
+
+(1) Das Gericht soll die Entscheidung über die zu leistenden Zahlungen
 ändern, wenn sich die für die Prozesskostenhilfe maßgebenden
-persönlichen oder wirtschaftlichen Verhältnisse wesentlich geändert
-haben; eine Änderung der nach § 115 Abs. 1 Satz 3 Nr. 1 Buchstabe b
-und Nr. 2 maßgebenden Beträge ist nur auf Antrag und nur dann zu
+persönlichen oder wirtschaftlichen Verhältnisse wesentlich verändert
+haben. Eine Änderung der nach § 115 Absatz 1 Satz 3 Nummer 1 Buchstabe
+b und Nummer 2 maßgebenden Beträge ist nur auf Antrag und nur dann zu
 berücksichtigen, wenn sie dazu führt, dass keine Monatsrate zu zahlen
-ist. Auf Verlangen des Gerichts hat sich die Partei darüber zu
-erklären, ob eine Änderung der Verhältnisse eingetreten ist. Eine
-Änderung zum Nachteil der Partei ist ausgeschlossen, wenn seit der
-rechtskräftigen Entscheidung oder sonstigen Beendigung des Verfahrens
-vier Jahre vergangen sind.
+ist. Auf Verlangen des Gerichts muss die Partei jederzeit erklären, ob
+eine Veränderung der Verhältnisse eingetreten ist. Eine Änderung zum
+Nachteil der Partei ist ausgeschlossen, wenn seit der rechtskräftigen
+Entscheidung oder der sonstigen Beendigung des Verfahrens vier Jahre
+vergangen sind.
+
+(2) Verbessern sich vor dem in Absatz 1 Satz 4 genannten Zeitpunkt die
+wirtschaftlichen Verhältnisse der Partei wesentlich oder ändert sich
+ihre Anschrift, hat sie dies dem Gericht unverzüglich mitzuteilen.
+Bezieht die Partei ein laufendes monatliches Einkommen, ist eine
+Einkommensverbesserung nur wesentlich, wenn die Differenz zu dem
+bisher zu Grunde gelegten Bruttoeinkommen nicht nur einmalig 100 Euro
+übersteigt. Satz 2 gilt entsprechend, soweit abzugsfähige Belastungen
+entfallen. Hierüber und über die Folgen eines Verstoßes ist die Partei
+bei der Antragstellung in dem gemäß § 117 Absatz 3 eingeführten
+Formular zu belehren.
+
+(3) Eine wesentliche Verbesserung der wirtschaftlichen Verhältnisse
+kann insbesondere dadurch eintreten, dass die Partei durch die
+Rechtsverfolgung oder Rechtsverteidigung etwas erlangt. Das Gericht
+soll nach der rechtskräftigen Entscheidung oder der sonstigen
+Beendigung des Verfahrens prüfen, ob eine Änderung der Entscheidung
+über die zu leistenden Zahlungen mit Rücksicht auf das durch die
+Rechtsverfolgung oder Rechtsverteidigung Erlangte geboten ist. Eine
+Änderung der Entscheidung ist ausgeschlossen, soweit die Partei bei
+rechtzeitiger Leistung des durch die Rechtsverfolgung oder
+Rechtsverteidigung Erlangten ratenfreie Prozesskostenhilfe erhalten
+hätte.
+
+(4) Für die Erklärung über die Änderung der persönlichen oder
+wirtschaftlichen Verhältnisse nach Absatz 1 Satz 3 muss die Partei das
+gemäß § 117 Absatz 3 eingeführte Formular benutzen. Für die
+Überprüfung der persönlichen und wirtschaftlichen Verhältnisse gilt §
+118 Absatz 2 entsprechend.
 
 
 ##### § 121 Beiordnung eines Rechtsanwalts
@@ -2181,7 +2202,8 @@ dem Gegner entstandenen Kosten zu erstatten, keinen Einfluss.
 
 ##### § 124 Aufhebung der Bewilligung
 
-Das Gericht kann die Bewilligung der Prozesskostenhilfe aufheben, wenn
+(1) Das Gericht soll die Bewilligung der Prozesskostenhilfe aufheben,
+wenn
 
 1.  die Partei durch unrichtige Darstellung des Streitverhältnisses die
     für die Bewilligung der Prozesskostenhilfe maßgebenden Voraussetzungen
@@ -2190,8 +2212,8 @@ Das Gericht kann die Bewilligung der Prozesskostenhilfe aufheben, wenn
 
 2.  die Partei absichtlich oder aus grober Nachlässigkeit unrichtige
     Angaben über die persönlichen oder wirtschaftlichen Verhältnisse
-    gemacht oder eine Erklärung nach § 120 Abs. 4 Satz 2 nicht abgegeben
-    hat;
+    gemacht oder eine Erklärung nach § 120a Absatz 1 Satz 3 nicht oder
+    ungenügend abgegeben hat;
 
 
 3.  die persönlichen oder wirtschaftlichen Voraussetzungen für die
@@ -2200,11 +2222,23 @@ Das Gericht kann die Bewilligung der Prozesskostenhilfe aufheben, wenn
     oder sonstigen Beendigung des Verfahrens vier Jahre vergangen sind;
 
 
-4.  die Partei länger als drei Monate mit der Zahlung einer Monatsrate
+4.  die Partei entgegen § 120a Absatz 2 Satz 1 bis 3 dem Gericht
+    wesentliche Verbesserungen ihrer Einkommens- und Vermögensverhältnisse
+    oder Änderungen ihrer Anschrift absichtlich oder aus grober
+    Nachlässigkeit unrichtig oder nicht unverzüglich mitgeteilt hat;
+
+
+5.  die Partei länger als drei Monate mit der Zahlung einer Monatsrate
     oder mit der Zahlung eines sonstigen Betrages im Rückstand ist.
 
 
 
+
+(2) Das Gericht kann die Bewilligung der Prozesskostenhilfe aufheben,
+soweit die von der Partei beantragte Beweiserhebung auf Grund von
+Umständen, die im Zeitpunkt der Bewilligung der Prozesskostenhilfe
+noch nicht berücksichtigt werden konnten, keine hinreichende Aussicht
+auf Erfolg bietet oder der Beweisantritt mutwillig erscheint.
 
 
 ##### § 125 Einziehung der Kosten
@@ -2246,21 +2280,22 @@ Absatzes 3 angefochten werden. Im Übrigen findet die sofortige
 Beschwerde statt; dies gilt nicht, wenn der Streitwert der Hauptsache
 den in § 511 genannten Betrag nicht übersteigt, es sei denn, das
 Gericht hat ausschließlich die persönlichen oder wirtschaftlichen
-Voraussetzungen für die Prozesskostenhilfe verneint. Die Notfrist des
-§ 569 Abs. 1 Satz 1 beträgt einen Monat.
+Voraussetzungen für die Prozesskostenhilfe verneint. Die Notfrist
+beträgt einen Monat.
 
 (3) Gegen die Bewilligung der Prozesskostenhilfe findet die sofortige
 Beschwerde der Staatskasse statt, wenn weder Monatsraten noch aus dem
 Vermögen zu zahlende Beträge festgesetzt worden sind. Die Beschwerde
-kann nur darauf gestützt werden, dass die Partei nach ihren
-persönlichen und wirtschaftlichen Verhältnissen Zahlungen zu leisten
-hat. Die Notfrist des § 569 Abs. 1 Satz 1 beträgt einen Monat und
-beginnt mit der Bekanntgabe des Beschlusses. Nach Ablauf von drei
-Monaten seit der Verkündung der Entscheidung ist die Beschwerde
-unstatthaft. Wird die Entscheidung nicht verkündet, so tritt an die
-Stelle der Verkündung der Zeitpunkt, in dem die unterschriebene
-Entscheidung der Geschäftsstelle übermittelt wird. Die Entscheidung
-wird der Staatskasse nicht von Amts wegen mitgeteilt.
+kann nur darauf gestützt werden, dass die Partei gemäß § 115 Absatz 1
+bis 3 nach ihren persönlichen und wirtschaftlichen Verhältnissen
+Zahlungen zu leisten oder gemäß § 116 Satz 3 Beträge zu zahlen hat.
+Die Notfrist beträgt einen Monat und beginnt mit der Bekanntgabe des
+Beschlusses. Nach Ablauf von drei Monaten seit der Verkündung der
+Entscheidung ist die Beschwerde unstatthaft. Wird die Entscheidung
+nicht verkündet, so tritt an die Stelle der Verkündung der Zeitpunkt,
+in dem die unterschriebene Entscheidung der Geschäftsstelle
+übermittelt wird. Die Entscheidung wird der Staatskasse nicht von Amts
+wegen mitgeteilt.
 
 (4) Die Kosten des Beschwerdeverfahrens werden nicht erstattet.
 
@@ -2291,8 +2326,8 @@ den Termin zur Verkündung der Entscheidung. Eine Entscheidung ohne
 mündliche Verhandlung ist unzulässig, wenn seit der Zustimmung der
 Parteien mehr als drei Monate verstrichen sind.
 
-(3) Ist nur noch über die Kosten zu entscheiden, kann die Entscheidung
-ohne mündliche Verhandlung ergehen.
+(3) Ist nur noch über die Kosten oder Nebenforderungen zu entscheiden,
+kann die Entscheidung ohne mündliche Verhandlung ergehen.
 
 (4) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne
 mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
@@ -2300,25 +2335,22 @@ mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
 ##### § 128a Verhandlung im Wege der Bild- und Tonübertragung
 
-(1) Im Einverständnis mit den Parteien kann das Gericht den Parteien
-sowie ihren Bevollmächtigten und Beiständen auf Antrag gestatten, sich
-während einer Verhandlung an einem anderen Ort aufzuhalten und dort
+(1) Das Gericht kann den Parteien, ihren Bevollmächtigten und
+Beiständen auf Antrag oder von Amts wegen gestatten, sich während
+einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
 Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
-Bild und Ton an den Ort, an dem sich die Parteien, Bevollmächtigten
-und Beistände aufhalten, und in das Sitzungszimmer übertragen.
+Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
-(2) Im Einverständnis mit den Parteien kann das Gericht gestatten,
-dass sich ein Zeuge, ein Sachverständiger oder eine Partei während der
-Vernehmung an einem anderen Ort aufhält. Die Vernehmung wird
-zeitgleich in Bild und Ton an den Ort, an dem sich ein Zeuge oder ein
-Sachverständiger während der Vernehmung aufhalten, und in das
-Sitzungszimmer übertragen. Ist Parteien, Bevollmächtigten und
-Beiständen nach Absatz 1 gestattet worden, sich an einem anderen Ort
-aufzuhalten, so wird die Vernehmung zeitgleich in Bild und Ton auch an
+(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein
+Sachverständiger oder eine Partei während einer Vernehmung an einem
+anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und Ton an
+diesen Ort und in das Sitzungszimmer übertragen. Ist Parteien,
+Bevollmächtigten und Beiständen nach Absatz 1 Satz 1 gestattet worden,
+sich an einem anderen Ort aufzuhalten, so wird die Vernehmung auch an
 diesen Ort übertragen.
 
-(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach den
-Absätzen 1 und 2 sind nicht anfechtbar.
+(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
+Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
 
 
 ##### § 129 Vorbereitende Schriftsätze
@@ -2355,6 +2387,10 @@ Die vorbereitenden Schriftsätze sollen enthalten:
     des Gerichts und des Streitgegenstandes; die Zahl der Anlagen;
 
 
+1a. die für eine Übermittlung elektronischer Dokumente erforderlichen
+    Angaben, sofern eine solche möglich ist;
+
+
 2.  die Anträge, welche die Partei in der Gerichtssitzung zu stellen
     beabsichtigt;
 
@@ -2379,29 +2415,80 @@ Die vorbereitenden Schriftsätze sollen enthalten:
 
 
 
-##### § 130a Elektronisches Dokument
+##### § 130a Elektronisches Dokument; Verordnungsermächtigung
 
-(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für
-Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen,
-Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist,
-genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn
-dieses für die Bearbeitung durch das Gericht geeignet ist. Die
-verantwortende Person soll das Dokument mit einer qualifizierten
-elektronischen Signatur nach dem Signaturgesetz versehen. Ist ein
-übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung
-nicht geeignet, ist dies dem Absender unter Angabe der geltenden
-technischen Rahmenbedingungen unverzüglich mitzuteilen.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Parteien sowie schriftlich
+einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und
+Erklärungen Dritter können nach Maßgabe der folgenden Absätze als
+elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Die Bundesregierung und die Landesregierungen bestimmen für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Dokumente bei den Gerichten eingereicht werden können, sowie die für
-die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen
-können die Ermächtigung durch Rechtsverordnung auf die
-Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen
-Form kann auf einzelne Gerichte oder Verfahren beschränkt werden.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+durch das Gericht.
 
-(3) Ein elektronisches Dokument ist eingereicht, sobald die für den
-Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
+die vorbereitenden Schriftsätzen beigefügt sind.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
+    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+
+
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
+    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
+    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
+    Postfach und der elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des Gerichts,
+
+
+5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Gerichts,
+
+
+6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt
+als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der
+Absender es unverzüglich in einer für das Gericht zur Bearbeitung
+geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst
+eingereichten Dokument inhaltlich übereinstimmt.
 
 
 ##### § 130b Gerichtliches elektronisches Dokument
@@ -2411,14 +2498,47 @@ Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die
 handschriftliche Unterzeichnung vorschreibt, genügt dieser Form die
 Aufzeichnung als elektronisches Dokument, wenn die verantwortenden
 Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument
-mit einer qualifizierten elektronischen Signatur versehen.
+mit einer qualifizierten elektronischen Signatur versehen. Der in Satz
+1 genannten Form genügt auch ein elektronisches Dokument, in welches
+das handschriftlich unterzeichnete Schriftstück gemäß § 298a Absatz 2
+übertragen worden ist.
+
+
+##### § 130c Formulare; Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 130a Absatz 3 auch durch Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
+5 des Aufenthaltsgesetzes erfolgen kann.
+
+
+##### § 130d Nutzungspflicht für Rechtsanwälte und Behörden
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
+einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
+elektronisches Dokument zu übermitteln. Ist dies aus technischen
+Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den
+allgemeinen Vorschriften zulässig. Die vorübergehende Unmöglichkeit
+ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu
+machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 131 Beifügung von Urkunden
 
 (1) Dem vorbereitenden Schriftsatz sind die in den Händen der Partei
 befindlichen Urkunden, auf die in dem Schriftsatz Bezug genommen wird,
-in Urschrift oder in Abschrift beizufügen.
+in Abschrift beizufügen.
 
 (2) Kommen nur einzelne Teile einer Urkunde in Betracht, so genügt die
 Beifügung eines Auszugs, der den Eingang, die zur Sache gehörende
@@ -2544,7 +2664,9 @@ Seite zu erörtern und Fragen zu stellen. Es hat dahin zu wirken, dass
 die Parteien sich rechtzeitig und vollständig über alle erheblichen
 Tatsachen erklären, insbesondere ungenügende Angaben zu den geltend
 gemachten Tatsachen ergänzen, die Beweismittel bezeichnen und die
-sachdienlichen Anträge stellen.
+sachdienlichen Anträge stellen. Das Gericht kann durch Maßnahmen der
+Prozessleitung das Verfahren strukturieren und den Streitstoff
+abschichten.
 
 (2) Auf einen Gesichtspunkt, den eine Partei erkennbar übersehen oder
 für unerheblich gehalten hat, darf das Gericht, soweit nicht nur eine
@@ -2634,7 +2756,7 @@ welche die Verhandlung und Entscheidung der Sache betreffen.
 ##### § 144 Augenschein; Sachverständige
 
 (1) Das Gericht kann die Einnahme des Augenscheins sowie die
-Begutachtung durch Sachverständige anordnen. Es kann zu diesem Zweck
+Hinzuziehung von Sachverständigen anordnen. Es kann zu diesem Zweck
 einer Partei oder einem Dritten die Vorlegung eines in ihrem oder
 seinem Besitz befindlichen Gegenstandes aufgeben und hierfür eine
 Frist setzen. Es kann auch die Duldung der Maßnahme nach Satz 1
@@ -2645,9 +2767,9 @@ ihnen diese nicht zumutbar ist oder sie zur Zeugnisverweigerung gemäß
 den §§ 383 bis 385 berechtigt sind. Die §§ 386 bis 390 gelten
 entsprechend.
 
-(3) Das Verfahren richtet sich nach den Vorschriften, die eine auf
-Antrag angeordnete Einnahme des Augenscheins oder Begutachtung durch
-Sachverständige zum Gegenstand haben.
+(3) Die Vorschriften, die eine auf Antrag angeordnete Einnahme des
+Augenscheins oder Begutachtung durch Sachverständige zum Gegenstand
+haben, sind entsprechend anzuwenden.
 
 
 ##### § 145 Prozesstrennung
@@ -2688,12 +2810,19 @@ oder in einer Klage hätten geltend gemacht werden können.
 
 ##### § 148 Aussetzung bei Vorgreiflichkeit
 
-Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder
-zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses
-abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits
-bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen,
-dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder
-bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
+(1) Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz
+oder zum Teil von dem Bestehen oder Nichtbestehen eines
+Rechtsverhältnisses abhängt, das den Gegenstand eines anderen
+anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde
+festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung
+des anderen Rechtsstreits oder bis zur Entscheidung der
+Verwaltungsbehörde auszusetzen sei.
+
+(2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits
+von Feststellungszielen abhängt, die den Gegenstand eines anhängigen
+Musterfeststellungsverfahrens bilden, auf Antrag des Klägers, der
+nicht Verbraucher ist, anordnen, dass die Verhandlung bis zur
+Erledigung des Musterfeststellungsverfahrens auszusetzen sei.
 
 
 ##### § 149 Aussetzung bei Verdacht einer Straftat
@@ -3055,11 +3184,11 @@ oder der Erklärung ein, wenn die Zustellung demnächst erfolgt.
 
 ###### § 168 Aufgaben der Geschäftsstelle
 
-(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 175 aus.
-Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen
-Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung
-der Zustellung beauftragen. Den Auftrag an die Post erteilt die
-Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
+(1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 176
+Absatz 1 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes
+beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der
+Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt
+die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
 
 (2) Der Vorsitzende des Prozessgerichts oder ein von ihm bestimmtes
 Mitglied können einen Gerichtsvollzieher oder eine andere Behörde mit
@@ -3075,6 +3204,34 @@ Zustellung.
 (2) Die Beglaubigung der zuzustellenden Schriftstücke wird von der
 Geschäftsstelle vorgenommen. Dies gilt auch, soweit von einem Anwalt
 eingereichte Schriftstücke nicht bereits von diesem beglaubigt wurden.
+
+(3) Eine in Papierform zuzustellende Abschrift kann auch durch
+maschinelle Bearbeitung beglaubigt werden. Anstelle der
+handschriftlichen Unterzeichnung ist die Abschrift mit dem
+Gerichtssiegel zu versehen. Dasselbe gilt, wenn eine Abschrift per
+Telekopie zugestellt wird.
+
+(4) Ein Schriftstück oder ein elektronisches Dokument kann in
+beglaubigter elektronischer Abschrift zugestellt werden. Die
+Beglaubigung erfolgt mit einer qualifizierten elektronischen Signatur
+des Urkundsbeamten der Geschäftsstelle.
+
+(5) Ein elektronisches Dokument kann ohne Beglaubigung elektronisch
+zugestellt werden, wenn es
+
+1.  nach § 130a oder § 130b Satz 1 mit einer qualifizierten elektronischen
+    Signatur der verantwortenden Personen versehen ist,
+
+
+2.  nach § 130a auf einem sicheren Übermittlungsweg eingereicht wurde und
+    mit einem Authentizitäts- und Integritätsnachweis versehen ist oder
+
+
+3.  nach Maßgabe des § 298a errichtet wurde und mit einem
+    Übertragungsnachweis nach § 298a Absatz 2 Satz 3 oder 4 versehen ist.
+
+
+
 
 
 ###### § 170 Zustellung an Vertreter
@@ -3116,7 +3273,48 @@ der Schriftsatz diesem zuzustellen. Der Partei ist selbst zuzustellen,
 wenn sie einen Prozessbevollmächtigten nicht bestellt hat.
 
 
-###### § 173 Zustellung durch Aushändigung an der Amtsstelle
+###### § 173 Zustellung von elektronischen Dokumenten
+
+(1) Ein elektronisches Dokument kann elektronisch nur auf einem
+sicheren Übermittlungsweg zugestellt werden.
+
+(2) Einen sicheren Übermittlungsweg für die elektronische Zustellung
+eines elektronischen Dokuments haben zu eröffnen:
+
+1.  Rechtsanwälte, Notare, Gerichtsvollzieher sowie
+
+
+2.  Behörden, Körperschaften oder Anstalten des öffentlichen Rechts.
+
+
+
+Steuerberater und sonstige in professioneller Eigenschaft am Prozess
+beteiligte Personen, Vereinigungen und Organisationen, bei denen von
+einer erhöhten Zuverlässigkeit ausgegangen werden kann, sollen einen
+sicheren Übermittlungsweg für die elektronische Zustellung eröffnen.
+
+(3) Die elektronische Zustellung an die in Absatz 2 Genannten wird
+durch ein elektronisches Empfangsbekenntnis nachgewiesen, das an das
+Gericht zu übermitteln ist. Für die Übermittlung ist der vom Gericht
+mit der Zustellung zur Verfügung gestellte strukturierte Datensatz zu
+verwenden. Stellt das Gericht keinen strukturierten Datensatz zur
+Verfügung, so ist dem Gericht das elektronische Empfangsbekenntnis als
+elektronisches Dokument (§ 130a) zu übermitteln.
+
+(4) An andere als die in Absatz 2 Genannten kann ein elektronisches
+Dokument elektronisch nur zugestellt werden, wenn sie der Zustellung
+elektronischer Dokumente für das jeweilige Verfahren zugestimmt haben.
+Die Zustimmung gilt mit der Einreichung eines elektronischen Dokuments
+im jeweiligen Verfahren auf einem sicheren Übermittlungsweg als
+erteilt. Andere als natürliche Personen können die Zustimmung auch
+allgemein erteilen. Ein elektronisches Dokument gilt am dritten Tag
+nach dem auf der automatisierten Eingangsbestätigung ausgewiesenen Tag
+des Eingangs in dem vom Empfänger eröffneten elektronischen Postfach
+als zugestellt. Satz 4 gilt nicht, wenn der Empfänger nachweist, dass
+das Dokument nicht oder zu einem späteren Zeitpunkt zugegangen ist.
+
+
+###### § 174 Zustellung durch Aushändigung an der Amtsstelle
 
 Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich
 bestellten Vertreter durch Aushändigung an der Amtsstelle zugestellt
@@ -3129,54 +3327,37 @@ wurde. Der Vermerk ist von dem Bediensteten zu unterschreiben, der die
 Aushändigung vorgenommen hat.
 
 
-###### § 174 Zustellung gegen Empfangsbekenntnis
+###### § 175 Zustellung von Schriftstücken gegen Empfangsbekenntnis
 
-(1) Ein Schriftstück kann an einen Anwalt, einen Notar, einen
-Gerichtsvollzieher, einen Steuerberater oder an eine sonstige Person,
-bei der auf Grund ihres Berufes von einer erhöhten Zuverlässigkeit
-ausgegangen werden kann, eine Behörde, eine Körperschaft oder eine
-Anstalt des öffentlichen Rechts gegen Empfangsbekenntnis zugestellt
-werden.
+(1) Ein Schriftstück kann den in § 173 Absatz 2 Genannten gegen
+Empfangsbekenntnis zugestellt werden.
 
-(2) An die in Absatz 1 Genannten kann das Schriftstück auch durch
-Telekopie zugestellt werden. Die Übermittlung soll mit dem Hinweis
-"Zustellung gegen Empfangsbekenntnis" eingeleitet werden und die
-absendende Stelle, den Namen und die Anschrift des
-Zustellungsadressaten sowie den Namen des Justizbediensteten erkennen
-lassen, der das Dokument zur Übermittlung aufgegeben hat.
+(2) Eine Zustellung gegen Empfangsbekenntnis kann auch durch Telekopie
+erfolgen. Die Übermittlung soll mit dem Hinweis „Zustellung gegen
+Empfangsbekenntnis“ eingeleitet werden und die absendende Stelle, den
+Namen und die Anschrift des Zustellungsadressaten sowie den Namen des
+Justizbediensteten erkennen lassen, der das Dokument zur Übermittlung
+aufgegeben hat.
 
-(3) An die in Absatz 1 Genannten kann auch ein elektronisches Dokument
-zugestellt werden. Gleiches gilt für andere Verfahrensbeteiligte, wenn
-sie der Übermittlung elektronischer Dokumente ausdrücklich zugestimmt
-haben. Für die Übermittlung ist das Dokument mit einer elektronischen
-Signatur zu versehen und gegen unbefugte Kenntnisnahme Dritter zu
-schützen. Die Übermittlung kann auch über De-Mail-Dienste im Sinne von
-§ 1 des De-Mail-Gesetzes erfolgen.
+(3) Die Zustellung nach den Absätzen 1 und 2 wird durch das mit Datum
+und Unterschrift des Adressaten versehene Empfangsbekenntnis
+nachgewiesen.
 
-(4) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift
-des Adressaten versehene Empfangsbekenntnis, das an das Gericht
-zurückzusenden ist. Das Empfangsbekenntnis kann schriftlich, durch
-Telekopie oder als elektronisches Dokument (§ 130a) zurückgesandt
-werden. Wird es als elektronisches Dokument erteilt, soll es mit einer
-qualifizierten elektronischen Signatur nach dem Signaturgesetz
-versehen werden.
+(4) Das Empfangsbekenntnis muss schriftlich, durch Telekopie oder als
+elektronisches Dokument (§ 130a) an das Gericht gesandt werden.
 
 
-###### § 175 Zustellung durch Einschreiben mit Rückschein
+###### § 176 Zustellung durch Einschreiben mit Rückschein; Zustellungsauftrag
 
-Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt
+(1) Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt
 werden. Zum Nachweis der Zustellung genügt der Rückschein.
 
-
-###### § 176 Zustellungsauftrag
-
-(1) Wird der Post, einem Justizbediensteten oder einem
-Gerichtsvollzieher ein Zustellungsauftrag erteilt oder wird eine
-andere Behörde um die Ausführung der Zustellung ersucht, übergibt die
+(2) Wird die Post, ein Justizbediensteter oder ein Gerichtsvollzieher
+mit der Zustellung eines Schriftstücks beauftragt oder wird eine
+andere Behörde um die Zustellung ersucht, so übergibt die
 Geschäftsstelle das zuzustellende Schriftstück in einem verschlossenen
-Umschlag und ein vorbereitetes Formular einer Zustellungsurkunde.
-
-(2) Die Ausführung der Zustellung erfolgt nach den §§ 177 bis 181.
+Umschlag und ein vorbereitetes Formular einer Zustellungsurkunde. Die
+Zustellung erfolgt nach den §§ 177 bis 181.
 
 
 ###### § 177 Ort der Zustellung
@@ -3298,21 +3479,45 @@ Zustellungsurkunde gilt § 418.
 
 
 
-(3) Die Zustellungsurkunde ist der Geschäftsstelle unverzüglich
-zurückzuleiten.
+(3) Die Zustellungsurkunde ist der Geschäftsstelle in Urschrift oder
+als elektronisches Dokument unverzüglich zurückzuleiten.
 
 
 ###### § 183 Zustellung im Ausland
 
-(1) Eine Zustellung im Ausland ist nach den bestehenden
-völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke auf
-Grund völkerrechtlicher Vereinbarungen unmittelbar durch die Post
-übersandt werden dürfen, so soll durch Einschreiben mit Rückschein
-zugestellt werden, anderenfalls die Zustellung auf Ersuchen des
-Vorsitzenden des Prozessgerichts unmittelbar durch die Behörden des
-fremden Staates erfolgen.
+(1) Soweit nicht unmittelbar anwendbare Regelungen der Europäischen
+Union in ihrer jeweils geltenden Fassung, insbesondere
 
-(2) Ist eine Zustellung nach Absatz 1 nicht möglich, ist durch die
+1.  die Verordnung (EG) Nr. 1393/2007 des Europäischen Parlaments und des
+    Rates vom 13. November 2007 über die Zustellung gerichtlicher und
+    außergerichtlicher Schriftstücke in Zivil- oder Handelssachen in den
+    Mitgliedstaaten („Zustellung von Schriftstücken“) und zur Aufhebung
+    der Verordnung (EG) Nr. 1348/2000 des Rates (ABl. L 324 vom
+    10\.12.2007, S. 79), die durch die Verordnung (EU) Nr. 517/2013 (ABl. L
+    158 vom 10.6.2013, S. 1) geändert worden ist, sowie
+
+
+2.  das Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich
+    Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und
+    außergerichtlicher Schriftstücke in Zivil- oder Handelssachen (ABl. L
+    300 vom 17.11.2005, S. 55)
+
+
+
+maßgeblich sind, gelten für die Zustellung im Ausland die
+nachfolgenden Absätze 2 bis 5. Für die Durchführung der in Satz 1
+genannten Regelungen gelten § 1067 Absatz 1, § 1068 Absatz 1 und §
+1069 Absatz 1.
+
+(2) Eine Zustellung im Ausland ist nach den bestehenden
+völkerrechtlichen Vereinbarungen vorzunehmen. Wenn Schriftstücke
+aufgrund solcher Vereinbarungen unmittelbar durch die Post zugestellt
+werden dürfen, dann soll dies durch Einschreiben mit Rückschein oder
+mittels eines gleichwertigen Nachweises bewirkt werden, anderenfalls
+soll die Zustellung auf Ersuchen des Vorsitzenden des Prozessgerichts
+unmittelbar durch die Behörden des fremden Staates erfolgen.
+
+(3) Ist eine Zustellung nach Absatz 2 nicht möglich, ist durch die
 zuständige diplomatische oder konsularische Vertretung des Bundes oder
 die sonstige zuständige Behörde zuzustellen. Nach Satz 1 ist
 insbesondere zu verfahren, wenn völkerrechtliche Vereinbarungen nicht
@@ -3320,29 +3525,21 @@ bestehen, die zuständigen Stellen des betreffenden Staates zur
 Rechtshilfe nicht bereit sind oder besondere Gründe eine solche
 Zustellung rechtfertigen.
 
-(3) An einen Deutschen, der das Recht der Immunität genießt und zu
-einer Vertretung der Bundesrepublik Deutschland im Ausland gehört,
-erfolgt die Zustellung auf Ersuchen des Vorsitzenden des
-Prozessgerichts durch die zuständige Auslandsvertretung.
+(4) An entsandte Beschäftige einer deutschen Auslandsvertretung und
+die in ihrer Privatwohnung lebenden Personen erfolgt die Zustellung
+auf Ersuchen des Vorsitzenden des Prozessgerichts durch die zuständige
+Auslandsvertretung.
 
-(4) Zum Nachweis der Zustellung nach Absatz 1 Satz 2 Halbsatz 1 genügt
-der Rückschein. Die Zustellung nach Absatz 1 Satz 2 Halbsatz 2 und den
-Absätzen 2 und 3 wird durch das Zeugnis der ersuchten Behörde
-nachgewiesen.
-
-(5) Die Vorschriften der Verordnung (EG) Nr. 1393/2007 des
-Europäischen Parlaments und des Rates vom 13. November 2007 über die
-Zustellung gerichtlicher und außergerichtlicher Schriftstücke in
-Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der
-Verordnung (EG) Nr. 1348/2000 (ABl. EU Nr. L 324 S. 79) bleiben
-unberührt. Für die Durchführung gelten § 1068 Abs. 1 und § 1069 Abs.
-1\.
+(5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz
+genügt der Rückschein oder ein gleichwertiger Nachweis. Die Zustellung
+nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird
+durch das Zeugnis der ersuchten Behörde nachgewiesen.
 
 
 ###### § 184 Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
 
-(1) Das Gericht kann bei der Zustellung nach § 183 anordnen, dass die
-Partei innerhalb einer angemessenen Frist einen
+(1) Das Gericht kann bei der Zustellung nach § 183 Absatz 2 bis 5
+anordnen, dass die Partei innerhalb einer angemessenen Frist einen
 Zustellungsbevollmächtigten benennt, der im Inland wohnt oder dort
 einen Geschäftsraum hat, falls sie nicht einen Prozessbevollmächtigten
 bestellt hat. Wird kein Zustellungsbevollmächtigter benannt, so können
@@ -3393,12 +3590,10 @@ Prozessgericht. Die Entscheidung kann ohne mündliche Verhandlung
 ergehen.
 
 (2) Die öffentliche Zustellung erfolgt durch Aushang einer
-Benachrichtigung an der Gerichtstafel oder durch Einstellung in ein
-elektronisches Informationssystem, das im Gericht öffentlich
-zugänglich ist. Die Benachrichtigung kann zusätzlich in einem von dem
-Gericht für Bekanntmachungen bestimmten elektronischen Informations-
-und Kommunikationssystem veröffentlicht werden. Die Benachrichtigung
-muss erkennen lassen
+Benachrichtigung an der Gerichtstafel oder durch Veröffentlichung der
+Benachrichtigung in einem elektronischen Informations- und
+Kommunikationssystem, das im Gericht öffentlich zugänglich ist. Die
+Benachrichtigung muss erkennen lassen
 
 1.  die Person, für die zugestellt wird,
 
@@ -3451,9 +3646,10 @@ zugegangen ist.
 
 ###### § 190 Einheitliche Zustellungsformulare
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung und
-Vereinheitlichung der Zustellung Formulare einzuführen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Vereinfachung und Vereinheitlichung der Zustellung Formulare
+einzuführen.
 
 
 ##### Untertitel 2 - Zustellungen auf Betreiben der Parteien
@@ -3470,35 +3666,79 @@ Vorschriften Abweichungen ergeben.
 
 ###### § 192 Zustellung durch Gerichtsvollzieher
 
-(1) Die von den Parteien zu betreibenden Zustellungen erfolgen durch
-den Gerichtsvollzieher nach Maßgabe der §§ 193 und 194.
-
-(2) Die Partei übergibt dem Gerichtsvollzieher das zuzustellende
-Schriftstück mit den erforderlichen Abschriften. Der
-Gerichtsvollzieher beglaubigt die Abschriften; er kann fehlende
-Abschriften selbst herstellen.
-
-(3) Im Verfahren vor dem Amtsgericht kann die Partei den
-Gerichtsvollzieher unter Vermittlung der Geschäftsstelle des
-Prozessgerichts mit der Zustellung beauftragen. Insoweit hat diese den
-Gerichtsvollzieher mit der Zustellung zu beauftragen.
+Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet
+der Zustellung im Ausland (§ 183) durch den Gerichtsvollzieher. Im
+Verfahren vor dem Amtsgericht kann die Partei den Gerichtsvollzieher
+durch Vermittlung durch die Geschäftsstelle des Prozessgerichts mit
+der Zustellung beauftragen. Insoweit hat diese den Gerichtsvollzieher
+mit der Zustellung zu beauftragen.
 
 
-###### § 193 Ausführung der Zustellung
+###### § 193 Zustellung von Schriftstücken
 
-(1) Der Gerichtsvollzieher beurkundet auf der Urschrift des
-zuzustellenden Schriftstücks oder auf dem mit der Urschrift zu
-verbindenden hierfür vorgesehenen Formular die Ausführung der
-Zustellung nach § 182 Abs. 2 und vermerkt die Person, in deren Auftrag
-er zugestellt hat. Bei Zustellung durch Aufgabe zur Post ist das Datum
-und die Anschrift, unter der die Aufgabe erfolgte, zu vermerken.
+(1) Soll ein Dokument als Schriftstück zugestellt werden, so
+übermittelt die Partei dem Gerichtsvollzieher das zuzustellende
+Dokument
 
-(2) Der Gerichtsvollzieher vermerkt auf dem zu übergebenden
+1.  in Papierform zusammen mit den erforderlichen Abschriften oder
+
+
+2.  als elektronisches Dokument auf einem sicheren Übermittlungsweg.
+
+
+
+Im Falle des Satzes 1 Nummer 1 beglaubigt der Gerichtsvollzieher die
+Abschriften; er kann fehlende Abschriften selbst herstellen. Im Falle
+des Satzes 1 Nummer 2 fertigt der Gerichtsvollzieher die
+erforderlichen Abschriften als Ausdrucke selbst und beglaubigt diese.
+
+(2) Der Gerichtsvollzieher beurkundet im Falle des Absatzes 1 Satz 1
+Nummer 1 auf der Urschrift des zuzustellenden Schriftstücks oder auf
+dem mit der Urschrift zu verbindenden hierfür vorgesehenen Formular
+die Ausführung der Zustellung nach § 182 Abs. 2 und vermerkt die
+Person, in deren Auftrag er zugestellt hat. Im Falle des Absatzes 1
+Satz 1 Nummer 2 gilt Satz 1 mit der Maßgabe, dass der
+Gerichtsvollzieher die Beurkundung auf einem Ausdruck des
+zuzustellenden elektronischen Dokuments oder auf dem mit dem Ausdruck
+zu verbindenden hierfür vorgesehenen Formular vornimmt. Bei Zustellung
+durch Aufgabe zur Post ist das Datum und die Anschrift, unter der die
+Aufgabe erfolgte, zu vermerken.
+
+(3) Der Gerichtsvollzieher vermerkt auf dem zu übergebenden
 Schriftstück den Tag der Zustellung, sofern er nicht eine beglaubigte
 Abschrift der Zustellungsurkunde übergibt.
 
-(3) Die Zustellungsurkunde ist der Partei zu übermitteln, für die
+(4) Die Zustellungsurkunde ist der Partei zu übermitteln, für die
 zugestellt wurde.
+
+
+###### § 193a Zustellung von elektronischen Dokumenten
+
+(1) Soll ein Dokument als elektronisches Dokument zugestellt werden,
+so übermittelt die Partei dem Gerichtsvollzieher das zuzustellende
+Dokument
+
+1.  elektronisch auf einem sicheren Übermittlungsweg oder
+
+
+2.  als Schriftstück.
+
+
+
+Im Falle des Satzes 1 Nummer 2 überträgt der Gerichtsvollzieher das
+Schriftstück in ein elektronisches Dokument.
+
+(2) Als Nachweis der Zustellung dient die automatisierte
+Eingangsbestätigung. Der Zeitpunkt der Zustellung ist der in der
+automatisierten Eingangsbestätigung ausgewiesene Zeitpunkt des
+Eingangs in dem vom Empfänger eröffneten elektronischen Postfach. Im
+Falle des Absatzes 1 Satz 1 Nummer 1 ist die automatisierte
+Eingangsbestätigung mit dem zuzustellenden elektronischen Dokument zu
+verbinden und der Partei zu übermitteln, für die zugestellt wurde. Im
+Falle des Absatzes 1 Satz 1 Nummer 2 fertigt der Gerichtsvollzieher
+einen Ausdruck der automatisierten Eingangsbestätigung, verbindet den
+Ausdruck mit dem zuzustellenden Schriftstück und übermittelt dieses
+der Partei, für die zugestellt wurde.
 
 
 ###### § 194 Zustellungsauftrag
@@ -3527,15 +3767,18 @@ Anwalt zugestellt werden, wenn nicht gleichzeitig dem Gegner eine
 gerichtliche Anordnung mitzuteilen ist. In dem Schriftsatz soll die
 Erklärung enthalten sein, dass von Anwalt zu Anwalt zugestellt werde.
 Die Zustellung ist dem Gericht, sofern dies für die zu treffende
-Entscheidung erforderlich ist, nachzuweisen. Für die Zustellung an
-einen Anwalt gilt § 174 Abs. 2 Satz 1 und Abs. 3 Satz 1, 3
+Entscheidung erforderlich ist, nachzuweisen. Für die Zustellung von
+Anwalt zu Anwalt gelten § 173 Absatz 1 und § 175 Absatz 2 Satz 1
 entsprechend.
 
-(2) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift
-versehene schriftliche Empfangsbekenntnis des Anwalts, dem zugestellt
-worden ist. § 174 Abs. 4 Satz 2, 3 gilt entsprechend. Der Anwalt, der
-zustellt, hat dem anderen Anwalt auf Verlangen eine Bescheinigung über
-die Zustellung zu erteilen.
+(2) Zum Nachweis der Zustellung eines Schriftstücks genügt das mit
+Datum und Unterschrift versehene Empfangsbekenntnis desjenigen
+Anwalts, dem zugestellt worden ist. § 175 Absatz 4 gilt entsprechend.
+Die Zustellung eines elektronischen Dokuments ist durch ein
+elektronisches Empfangsbekenntnis in Form eines strukturierten
+Datensatzes nachzuweisen. Der Anwalt, der zustellt, hat dem anderen
+Anwalt auf Verlangen eine Bescheinigung über die Zustellung zu
+erteilen.
 
 
 ###### (XXXX) §§ 195a bis 213a (weggefallen)
@@ -3759,7 +4002,7 @@ Befugnisse stehen dem beauftragten oder ersuchten Richter in Bezug auf
 die von diesen zu bestimmenden Termine und Fristen zu.
 
 
-#### Titel 4 - Folgen der Versäumung; Wiedereinsetzung in den vorigen Stand
+#### Titel 4 - Folgen der Versäumung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand
 
 
 
@@ -3780,9 +4023,17 @@ mündliche Verhandlung über ihn geschlossen ist, die versäumte
 Prozesshandlung nachgeholt werden.
 
 
-##### § 232
+##### § 232 Rechtsbehelfsbelehrung
 
-(weggefallen)
+Jede anfechtbare gerichtliche Entscheidung hat eine Belehrung über das
+statthafte Rechtsmittel, den Einspruch, den Widerspruch oder die
+Erinnerung sowie über das Gericht, bei dem der Rechtsbehelf einzulegen
+ist, über den Sitz des Gerichts und über die einzuhaltende Form und
+Frist zu enthalten. Dies gilt nicht in Verfahren, in denen sich die
+Parteien durch einen Rechtsanwalt vertreten lassen müssen, es sei
+denn, es ist über einen Einspruch oder Widerspruch zu belehren oder
+die Belehrung ist an einen Zeugen oder Sachverständigen zu richten.
+Über die Möglichkeit der Sprungrevision muss nicht belehrt werden.
 
 
 ##### § 233 Wiedereinsetzung in den vorigen Stand
@@ -3791,7 +4042,9 @@ War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder
 die Frist zur Begründung der Berufung, der Revision, der
 Nichtzulassungsbeschwerde oder der Rechtsbeschwerde oder die Frist des
 § 234 Abs. 1 einzuhalten, so ist ihr auf Antrag Wiedereinsetzung in
-den vorigen Stand zu gewähren.
+den vorigen Stand zu gewähren. Ein Fehlen des Verschuldens wird
+vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder
+fehlerhaft ist.
 
 
 ##### § 234 Wiedereinsetzungsfrist
@@ -4319,7 +4572,9 @@ Berücksichtigung des bisherigen Sach- und Streitstandes nach billigem
 Ermessen; dies gilt auch, wenn die Klage nicht zugestellt wurde.
 
 (4) Das Gericht entscheidet auf Antrag über die nach Absatz 3
-eintretenden Wirkungen durch Beschluss.
+eintretenden Wirkungen durch Beschluss. Ist einem Beklagten
+Prozesskostenhilfe bewilligt worden, hat das Gericht über die Kosten
+von Amts wegen zu entscheiden.
 
 (5) Gegen den Beschluss findet die sofortige Beschwerde statt, wenn
 der Streitwert der Hauptsache den in § 511 genannten Betrag
@@ -4364,6 +4619,8 @@ Vorverfahren (§ 276).
 
 (3) Die Güteverhandlung und die mündliche Verhandlung sollen so früh
 wie möglich stattfinden.
+
+(4) Räumungssachen sind vorrangig und beschleunigt durchzuführen.
 
 
 ##### § 273 Vorbereitung des Termins
@@ -4416,8 +4673,8 @@ wenn das Gericht einen frühen ersten Verhandlungstermin bestimmt.
 (3) Zwischen der Zustellung der Klageschrift und dem Termin zur
 mündlichen Verhandlung muss ein Zeitraum von mindestens zwei Wochen
 liegen (Einlassungsfrist). Ist die Zustellung im Ausland vorzunehmen,
-so hat der Vorsitzende bei der Festsetzung des Termins die
-Einlassungsfrist zu bestimmen.
+so beträgt die Einlassungsfrist einen Monat. Der Vorsitzende kann auch
+eine längere Frist bestimmen.
 
 
 ##### § 275 Früher erster Termin
@@ -4456,7 +4713,8 @@ dem Gericht schriftlich anzuzeigen; der Kläger ist von der
 Aufforderung zu unterrichten. Zugleich ist dem Beklagten eine Frist
 von mindestens zwei weiteren Wochen zur schriftlichen Klageerwiderung
 zu setzen. Ist die Zustellung der Klage im Ausland vorzunehmen, so
-bestimmt der Vorsitzende die Frist nach Satz 1.
+beträgt die Frist nach Satz 1 einen Monat. Der Vorsitzende kann in
+diesem Fall auch eine längere Frist bestimmen.
 
 (2) Mit der Aufforderung ist der Beklagte über die Folgen einer
 Versäumung der ihm nach Absatz 1 Satz 1 gesetzten Frist sowie darüber
@@ -4501,7 +4759,8 @@ stattgefunden oder die Güteverhandlung erscheint erkennbar
 aussichtslos. Das Gericht hat in der Güteverhandlung den Sach- und
 Streitstand mit den Parteien unter freier Würdigung aller Umstände zu
 erörtern und, soweit erforderlich, Fragen zu stellen. Die erschienenen
-Parteien sollen hierzu persönlich gehört werden.
+Parteien sollen hierzu persönlich gehört werden. § 128a Absatz 1 und 3
+gilt entsprechend.
 
 (3) Für die Güteverhandlung sowie für weitere Güteversuche soll das
 persönliche Erscheinen der Parteien angeordnet werden. § 141 Abs. 1
@@ -4518,9 +4777,11 @@ einsetzen.
 
 (6) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden,
 dass die Parteien dem Gericht einen schriftlichen Vergleichsvorschlag
-unterbreiten oder einen schriftlichen Vergleichsvorschlag des Gerichts
-durch Schriftsatz gegenüber dem Gericht annehmen. Das Gericht stellt
-das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen
+unterbreiten oder einen schriftlichen oder zu Protokoll der mündlichen
+Verhandlung erklärten Vergleichsvorschlag des Gerichts durch
+Schriftsatz oder durch Erklärung zu Protokoll der mündlichen
+Verhandlung gegenüber dem Gericht annehmen. Das Gericht stellt das
+Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen
 Vergleichs durch Beschluss fest. § 164 gilt entsprechend.
 
 
@@ -4612,6 +4873,43 @@ nachbringen kann; gleichzeitig wird ein Termin zur Verkündung einer
 Entscheidung anberaumt. Eine fristgemäß eingereichte Erklärung muss,
 eine verspätet eingereichte Erklärung kann das Gericht bei der
 Entscheidung berücksichtigen.
+
+
+##### § 283a Sicherungsanordnung
+
+(1) Wird eine Räumungsklage mit einer Zahlungsklage aus demselben
+Rechtsverhältnis verbunden, ordnet das Prozessgericht auf Antrag des
+Klägers an, dass der Beklagte wegen der Geldforderungen, die nach
+Rechtshängigkeit der Klage fällig geworden sind, Sicherheit zu leisten
+hat, soweit
+
+1.  die Klage auf diese Forderungen hohe Aussicht auf Erfolg hat und
+
+
+2.  die Anordnung nach Abwägung der beiderseitigen Interessen zur
+    Abwendung besonderer Nachteile für den Kläger gerechtfertigt ist.
+    Hinsichtlich der abzuwägenden Interessen genügt deren
+    Glaubhaftmachung.
+
+
+
+Streiten die Parteien um das Recht des Klägers, die Geldforderung zu
+erhöhen, erfasst die Sicherungsanordnung den Erhöhungsbetrag nicht.
+Gegen die Entscheidung über die Sicherungsanordnung findet die
+sofortige Beschwerde statt.
+
+(2) Der Beklagte hat die Sicherheitsleistung binnen einer vom Gericht
+zu bestimmenden Frist nachzuweisen.
+
+(3) Soweit der Kläger obsiegt, ist in einem Endurteil oder einer
+anderweitigen den Rechtsstreit beendenden Regelung auszusprechen, dass
+er berechtigt ist, sich aus der Sicherheit zu befriedigen.
+
+(4) Soweit dem Kläger nach dem Endurteil oder nach der anderweitigen
+Regelung ein Anspruch in Höhe der Sicherheitsleistung nicht zusteht,
+hat er den Schaden zu ersetzen, der dem Beklagten durch die
+Sicherheitsleistung entstanden ist. § 717 Absatz 2 Satz 2 gilt
+entsprechend.
 
 
 ##### § 284 Beweisaufnahme
@@ -4802,10 +5100,20 @@ die Schriftsätze Bezug nehmen, die die Anträge enthalten.
 
 ##### § 298 Aktenausdruck
 
-(1) Von einem elektronischen Dokument (§§ 130a, 130b) kann ein
-Ausdruck für die Akten gefertigt werden.
+(1) Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
+dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
+unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
+unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern;
+der Speicherort ist aktenkundig zu machen.
 
-(2) Der Ausdruck muss den Vermerk enthalten,
+(2) Wird das elektronische Dokument auf einem sicheren
+Übermittlungsweg eingereicht, so ist dies aktenkundig zu machen.
+
+(3) Ist das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
 
 1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
 
@@ -4819,11 +5127,11 @@ Ausdruck für die Akten gefertigt werden.
 
 
 
-(3) Das elektronische Dokument ist mindestens bis zum rechtskräftigen
-Abschluss des Verfahrens zu speichern.
+(4) Ein eingereichtes elektronisches Dokument kann nach Ablauf von
+sechs Monaten gelöscht werden.
 
 
-##### § 298a Elektronische Akte
+##### § 298a Elektronische Akte; Verordnungsermächtigung
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
@@ -4833,17 +5141,40 @@ Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
 elektronischen Akten. Die Landesregierungen können die Ermächtigung
 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden.
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren die Akten elektronisch zu führen sind.
 
-(2) In Papierform eingereichte Schriftstücke und sonstige Unterlagen
-sollen zur Ersetzung der Urschrift in ein elektronisches Dokument
-übertragen werden. Die Unterlagen sind, sofern sie in Papierform
-weiter benötigt werden, mindestens bis zum rechtskräftigen Abschluss
-des Verfahrens aufzubewahren.
+(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Aufbewahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit
+zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
+der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Das elektronische Dokument muss den Vermerk enthalten, wann und
-durch wen die Unterlagen in ein elektronisches Dokument übertragen
-worden sind.
+(2) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
 
 
 ##### § 299 Akteneinsicht; Abschriften
@@ -4857,16 +5188,17 @@ der Parteien die Einsicht der Akten nur gestatten, wenn ein
 rechtliches Interesse glaubhaft gemacht wird.
 
 (3) Werden die Prozessakten elektronisch geführt, gewährt die
-Geschäftsstelle Akteneinsicht durch Erteilung eines Aktenausdrucks,
-durch Wiedergabe auf einem Bildschirm oder Übermittlung von
-elektronischen Dokumenten. Nach dem Ermessen des Vorsitzenden kann
-Bevollmächtigten, die Mitglied einer Rechtsanwaltskammer sind, der
-elektronische Zugriff auf den Inhalt der Akten gestattet werden. Bei
-einem elektronischen Zugriff auf den Inhalt der Akten ist
-sicherzustellen, dass der Zugriff nur durch den Bevollmächtigten
-erfolgt. Für die Übermittlung ist die Gesamtheit der Dokumente mit
-einer qualifizierten elektronischen Signatur zu versehen und gegen
-unbefugte Kenntnisnahme zu schützen.
+Geschäftsstelle Akteneinsicht durch Bereitstellung des Inhalts der
+Akten zum Abruf oder durch Übermittlung des Inhalts der Akten auf
+einem sicheren Übermittlungsweg. Auf besonderen Antrag wird
+Akteneinsicht durch Einsichtnahme in die Akten in Diensträumen
+gewährt. Ein Aktenausdruck oder ein Datenträger mit dem Inhalt der
+Akte wird auf besonders zu begründenden Antrag nur übermittelt, wenn
+der Antragsteller hieran ein berechtigtes Interesse darlegt. Stehen
+der Akteneinsicht in der nach Satz 1 vorgesehenen Form wichtige Gründe
+entgegen, kann die Akteneinsicht in der nach den Sätzen 2 und 3
+vorgesehenen Form auch ohne Antrag gewährt werden. Eine Entscheidung
+über einen Antrag nach Satz 3 ist nicht anfechtbar.
 
 (4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu
 ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die
@@ -4966,15 +5298,15 @@ Vorbehalt der beschränkten Haftung ergehende Verurteilung des Erben
 nicht ausgeschlossen.
 
 (2) Das Gleiche gilt für die Geltendmachung der Einreden, die im Falle
-der fortgesetzten Gütergemeinschaft dem überlebenden Ehegatten nach
-dem § 1489 Abs. 2 und den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs
-zustehen.
+der fortgesetzten Gütergemeinschaft dem überlebenden Ehegatten oder
+Lebenspartner nach dem § 1489 Abs. 2 und den §§ 2014, 2015 des
+Bürgerlichen Gesetzbuchs zustehen.
 
 
 ##### § 305a Urteil unter Vorbehalt seerechtlich beschränkter Haftung
 
 (1) Unterliegt der in der Klage geltend gemachte Anspruch der
-Haftungsbeschränkung nach § 486 Abs. 1 oder 3, §§ 487 bis 487d des
+Haftungsbeschränkung nach § 611 Absatz 1 oder 3, §§ 612 bis 616 des
 Handelsgesetzbuchs und macht der Beklagte geltend, dass
 
 1.  aus demselben Ereignis weitere Ansprüche, für die er die Haftung
@@ -4983,8 +5315,8 @@ Handelsgesetzbuchs und macht der Beklagte geltend, dass
 
 2.  die Summe der Ansprüche die Haftungshöchstbeträge übersteigt, die für
     diese Ansprüche in Artikel 6 oder 7 des
-    Haftungsbeschränkungsübereinkommens (§ 486 Abs. 1 des
-    Handelsgesetzbuchs) oder in den §§ 487, 487a oder 487c des
+    Haftungsbeschränkungsübereinkommens (§ 611 Absatz 1 Satz 1 des
+    Handelsgesetzbuchs) oder in den §§ 612, 613 oder 615 des
     Handelsgesetzbuchs bestimmt sind,
 
 
@@ -4994,7 +5326,7 @@ Entscheidung unberücksichtigt lassen, wenn die Erledigung des
 Rechtsstreits wegen Ungewissheit über Grund oder Betrag der weiteren
 Ansprüche nach der freien Überzeugung des Gerichts nicht unwesentlich
 erschwert wäre. Das Gleiche gilt, wenn der in der Klage geltend
-gemachte Anspruch der Haftungsbeschränkung nach den §§ 4 bis 5m des
+gemachte Anspruch der Haftungsbeschränkung nach den §§ 4 bis 5n des
 Binnenschifffahrtsgesetzes unterliegt und der Beklagte geltend macht,
 dass aus demselben Ereignis weitere Ansprüche entstanden sind, für die
 er die Haftung beschränken kann und die in ihrer Summe die für sie in
@@ -5252,34 +5584,27 @@ Urteil untrennbar zu verbinden.
 ##### § 317 Urteilszustellung und -ausfertigung
 
 (1) Die Urteile werden den Parteien, verkündete Versäumnisurteile nur
-der unterliegenden Partei zugestellt. Eine Zustellung nach § 310 Abs.
-3 genügt. Auf übereinstimmenden Antrag der Parteien kann der
-Vorsitzende die Zustellung verkündeter Urteile bis zum Ablauf von fünf
-Monaten nach der Verkündung hinausschieben.
+der unterliegenden Partei in Abschrift zugestellt. Eine Zustellung
+nach § 310 Abs. 3 genügt. Auf übereinstimmenden Antrag der Parteien
+kann der Vorsitzende die Zustellung verkündeter Urteile bis zum Ablauf
+von fünf Monaten nach der Verkündung hinausschieben.
 
-(2) Solange das Urteil nicht verkündet und nicht unterschrieben ist,
-dürfen von ihm Ausfertigungen, Auszüge und Abschriften nicht erteilt
-werden. Die von einer Partei beantragte Ausfertigung eines Urteils
-erfolgt ohne Tatbestand und Entscheidungsgründe; dies gilt nicht, wenn
-die Partei eine vollständige Ausfertigung beantragt.
+(2) Ausfertigungen werden nur auf Antrag und nur in Papierform
+erteilt. Solange das Urteil nicht verkündet und nicht unterschrieben
+ist, dürfen von ihm Ausfertigungen, Auszüge und Abschriften nicht
+erteilt werden. Die von einer Partei beantragte Ausfertigung eines
+Urteils erfolgt ohne Tatbestand und Entscheidungsgründe; dies gilt
+nicht, wenn die Partei eine vollständige Ausfertigung beantragt.
 
 (3) Ausfertigungen, Auszüge und Abschriften eines als elektronisches
 Dokument (§ 130b) vorliegenden Urteils können von einem
-Urteilsausdruck gemäß § 298 erteilt werden.
+Urteilsausdruck erteilt werden.
 
 (4) Die Ausfertigung und Auszüge der Urteile sind von dem
 Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem
 Gerichtssiegel zu versehen.
 
-(5) Ausfertigungen, Auszüge und Abschriften eines in Papierform
-vorliegenden Urteils können durch Telekopie oder als elektronisches
-Dokument (§ 130b) erteilt werden. Die Telekopie hat eine Wiedergabe
-der Unterschrift des Urkundsbeamten der Geschäftsstelle sowie des
-Gerichtssiegels zu enthalten. Das elektronische Dokument ist mit einer
-qualifizierten elektronischen Signatur des Urkundsbeamten der
-Geschäftsstelle zu versehen.
-
-(6) Ist das Urteil nach § 313b Abs. 2 in abgekürzter Form hergestellt,
+(5) Ist das Urteil nach § 313b Abs. 2 in abgekürzter Form hergestellt,
 so erfolgt die Ausfertigung in gleicher Weise unter Benutzung einer
 beglaubigten Abschrift der Klageschrift oder in der Weise, dass das
 Urteil durch Aufnahme der in § 313 Abs. 1 Nr. 1 bis 4 bezeichneten
@@ -5325,10 +5650,7 @@ gestellt werden. Die Berichtigung des Tatbestandes ist ausgeschlossen,
 wenn sie nicht binnen drei Monaten seit der Verkündung des Urteils
 beantragt wird.
 
-(3) Über den Antrag ist mündlich zu verhandeln, wenn eine Partei dies
-beantragt.
-
-(4) Das Gericht entscheidet ohne Beweisaufnahme. Bei der Entscheidung
+(3) Das Gericht entscheidet ohne Beweisaufnahme. Bei der Entscheidung
 wirken nur diejenigen Richter mit, die bei dem Urteil mitgewirkt
 haben. Ist ein Richter verhindert, so gibt bei Stimmengleichheit die
 Stimme des Vorsitzenden und bei dessen Verhinderung die Stimme des
@@ -5339,7 +5661,7 @@ Berichtigungsbeschluss in der Form des § 130b, ist er in einem
 gesonderten elektronischen Dokument festzuhalten. Das Dokument ist mit
 dem Urteil untrennbar zu verbinden.
 
-(5) Die Berichtigung des Tatbestandes hat eine Änderung des übrigen
+(4) Die Berichtigung des Tatbestandes hat eine Änderung des übrigen
 Teils des Urteils nicht zur Folge.
 
 
@@ -5355,11 +5677,17 @@ nachträgliche Entscheidung zu ergänzen.
 Frist, die mit der Zustellung des Urteils beginnt, durch Einreichung
 eines Schriftsatzes beantragt werden.
 
-(3) Auf den Antrag ist ein Termin zur mündlichen Verhandlung
-anzuberaumen. Dem Gegner des Antragstellers ist mit der Ladung zu
-diesem Termin der den Antrag enthaltende Schriftsatz zuzustellen.
+(3) Auf einen Antrag, der die Ergänzung des Urteils um einen
+Hauptanspruch zum Gegenstand hat, ist ein Termin zur mündlichen
+Verhandlung anzuberaumen. Dem Gegner des Antragstellers ist mit der
+Ladung zu diesem Termin der den Antrag enthaltende Schriftsatz
+zuzustellen. Über einen Antrag, der die Ergänzung des Urteils um einen
+Nebenanspruch oder den Kostenpunkt zum Gegenstand hat, kann ohne
+mündliche Verhandlung entschieden werden, wenn die Bedeutung der Sache
+keine mündliche Verhandlung erfordert; § 128 Absatz 2 Satz 2 gilt
+entsprechend.
 
-(4) Die mündliche Verhandlung hat nur den nicht erledigten Teil des
+(4) Eine mündliche Verhandlung hat nur den nicht erledigten Teil des
 Rechtsstreits zum Gegenstand.
 
 
@@ -5498,7 +5826,7 @@ der Aufforderung zur Abgabe von Geboten angemeldet worden ist.
 Schiffshypothek, so gilt Absatz 3 Satz 1 entsprechend.
 
 
-##### § 325a Feststellungswirkung des Musterentscheids
+##### § 325a Feststellungswirkung des Musterentscheids \*)
 
 Für die weitergehenden Wirkungen des Musterentscheids gelten die
 Vorschriften des Kapitalanleger-Musterverfahrensgesetzes.
@@ -5573,8 +5901,8 @@ Inland nicht begründet war.
 (1) Die auf Grund einer mündlichen Verhandlung ergehenden Beschlüsse
 des Gerichts müssen verkündet werden. Die Vorschriften der §§ 309, 310
 Abs. 1 und des § 311 Abs. 4 sind auf Beschlüsse des Gerichts, die
-Vorschriften des § 312 und des § 317 Abs. 2 Satz 1, Abs. 3 bis 5 auf
-Beschlüsse des Gerichts und auf Verfügungen des Vorsitzenden sowie
+Vorschriften des § 312 und des § 317 Abs. 2 Satz 1, 2, Absatz 3 und 4
+auf Beschlüsse des Gerichts und auf Verfügungen des Vorsitzenden sowie
 eines beauftragten oder ersuchten Richters entsprechend anzuwenden.
 
 (2) Nicht verkündete Beschlüsse des Gerichts und nicht verkündete
@@ -5713,10 +6041,7 @@ ist zu dem neuen Termin zu laden.
 ##### § 338 Einspruch
 
 Der Partei, gegen die ein Versäumnisurteil erlassen ist, steht gegen
-das Urteil der Einspruch zu. Hierauf ist die Partei zugleich mit der
-Zustellung des Urteils schriftlich hinzuweisen; dabei sind das
-Gericht, bei dem der Einspruch einzulegen ist, und die einzuhaltende
-Frist und Form mitzuteilen.
+das Urteil der Einspruch zu.
 
 
 ##### § 339 Einspruchsfrist
@@ -5724,10 +6049,13 @@ Frist und Form mitzuteilen.
 (1) Die Einspruchsfrist beträgt zwei Wochen; sie ist eine Notfrist und
 beginnt mit der Zustellung des Versäumnisurteils.
 
-(2) Muss die Zustellung im Ausland oder durch öffentliche
-Bekanntmachung erfolgen, so hat das Gericht die Einspruchsfrist im
-Versäumnisurteil oder nachträglich durch besonderen Beschluss zu
-bestimmen.
+(2) Muss die Zustellung im Ausland erfolgen, so beträgt die
+Einspruchsfrist einen Monat. Das Gericht kann im Versäumnisurteil auch
+eine längere Frist bestimmen.
+
+(3) Muss die Zustellung durch öffentliche Bekanntmachung erfolgen, so
+hat das Gericht die Einspruchsfrist im Versäumnisurteil oder
+nachträglich durch besonderen Beschluss zu bestimmen.
 
 
 ##### § 340 Einspruchsschrift
@@ -5852,7 +6180,8 @@ Einzelrichter. Dies gilt nicht, wenn
     in bürgerlichen Rechtsstreitigkeiten wahrzunehmen hatte oder
 
 
-2.  die Zuständigkeit der Kammer nach dem Geschäftsverteilungsplan des
+2.  die Zuständigkeit der Kammer nach § 72a Absatz 1 und 2 des
+    Gerichtsverfassungsgesetzes oder nach dem Geschäftsverteilungsplan des
     Gerichts wegen der Zuordnung des Rechtsstreits zu den nachfolgenden
     Sachgebieten begründet ist:
 
@@ -6175,14 +6504,14 @@ Parteien von dem Eingang.
 Vorsitzende die zuständige Behörde um Aufnahme des Beweises zu
 ersuchen.
 
-(2) Kann die Beweisaufnahme durch einen Bundeskonsul erfolgen, so ist
-das Ersuchen an diesen zu richten.
+(2) Kann die Beweisaufnahme durch einen Konsularbeamten erfolgen, so
+ist das Ersuchen an diesen zu richten.
 
 (3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom
 28\. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der
 Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder
-Handelssachen (ABl. EG Nr. L 174 S. 1) bleiben unberührt. Für die
-Durchführung gelten die §§ 1072 und 1073.
+Handelssachen bleiben unberührt. Für die Durchführung gelten die §§
+1072 und 1073.
 
 
 ##### § 364 Parteimitwirkung bei Beweisaufnahme im Ausland
@@ -6306,19 +6635,55 @@ Gegenstandes als bewiesen angesehen werden.
 elektronischen Signatur versehen sind, finden die Vorschriften über
 die Beweiskraft privater Urkunden entsprechende Anwendung. Der
 Anschein der Echtheit einer in elektronischer Form vorliegenden
-Erklärung, der sich auf Grund der Prüfung nach dem Signaturgesetz
-ergibt, kann nur durch Tatsachen erschüttert werden, die ernstliche
-Zweifel daran begründen, dass die Erklärung vom Signaturschlüssel-
-Inhaber abgegeben worden ist.
+Erklärung, der sich auf Grund der Prüfung der qualifizierten
+elektronischen Signatur nach Artikel 32 der Verordnung (EU)
+Nr. 910/2014              des Europäischen Parlaments und des Rates
+vom 23. Juli 2014 über elektronische Identifizierung und
+Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
+zur Aufhebung der Richtlinie
+1999/93/EG              (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann
+nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran
+begründen, dass die Erklärung von der verantwortenden Person abgegeben
+worden ist.
 
-(2) Auf elektronische Dokumente, die von einer öffentlichen Behörde
+(2) Hat sich eine natürliche Person bei einem ihr allein zugeordneten
+De-Mail-Konto sicher angemeldet (§ 4 Absatz 1 Satz 2 des De-Mail-
+Gesetzes), so kann für eine von diesem De-Mail-Konto versandte
+elektronische Nachricht der Anschein der Echtheit, der sich aus der
+Überprüfung der Absenderbestätigung gemäß § 5 Absatz 5 des De-Mail-
+Gesetzes ergibt, nur durch Tatsachen erschüttert werden, die
+ernstliche Zweifel daran begründen, dass die Nachricht von dieser
+Person mit diesem Inhalt versandt wurde.
+
+(3) Auf elektronische Dokumente, die von einer öffentlichen Behörde
 innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit
 öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen
 Geschäftskreises in der vorgeschriebenen Form erstellt worden sind
 (öffentliche elektronische Dokumente), finden die Vorschriften über
 die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Ist das
-Dokument mit einer qualifizierten elektronischen Signatur versehen,
-gilt § 437 entsprechend.
+Dokument von der erstellenden öffentlichen Behörde oder von der mit
+öffentlichem Glauben versehenen Person mit einer qualifizierten
+elektronischen Signatur versehen, gilt § 437 entsprechend. Das Gleiche
+gilt, wenn das Dokument im Auftrag der erstellenden öffentlichen
+Behörde oder der mit öffentlichem Glauben versehenen Person durch
+einen akkreditierten Diensteanbieter mit seiner qualifizierten
+elektronischen Signatur gemäß § 5 Absatz 5 des De-Mail-Gesetzes
+versehen ist und die Absenderbestätigung die erstellende öffentliche
+Behörde oder die mit öffentlichem Glauben versehene Person als Nutzer
+des De-Mail-Kontos ausweist.
+
+
+##### § 371b Beweiskraft gescannter öffentlicher Urkunden
+
+Wird eine öffentliche Urkunde nach dem Stand der Technik von einer
+öffentlichen Behörde oder von einer mit öffentlichem Glauben
+versehenen Person in ein elektronisches Dokument übertragen und liegt
+die Bestätigung vor, dass das elektronische Dokument mit der Urschrift
+bildlich und inhaltlich übereinstimmt, finden auf das elektronische
+Dokument die Vorschriften über die Beweiskraft öffentlicher Urkunden
+entsprechende Anwendung. Sind das Dokument und die Bestätigung mit
+einer qualifizierten elektronischen Signatur versehen, gilt § 437
+entsprechend.
 
 
 ##### § 372 Beweisaufnahme
@@ -6539,8 +6904,7 @@ Versammlung dort zu vernehmen.
 
 (1) Zur Verweigerung des Zeugnisses sind berechtigt:
 
-1.  der Verlobte einer Partei oder derjenige, mit dem die Partei ein
-    Versprechen eingegangen ist, eine Lebenspartnerschaft zu begründen;
+1.  der Verlobte einer Partei;
 
 
 2.  der Ehegatte einer Partei, auch wenn die Ehe nicht mehr besteht;
@@ -6845,14 +7209,17 @@ ihrer Anzahl erfolgt durch das Prozessgericht. Es kann sich auf die
 Ernennung eines einzigen Sachverständigen beschränken. An Stelle der
 zuerst ernannten Sachverständigen kann es andere ernennen.
 
-(2) Sind für gewisse Arten von Gutachten Sachverständige öffentlich
+(2) Vor der Ernennung können die Parteien zur Person des
+Sachverständigen gehört werden.
+
+(3) Sind für gewisse Arten von Gutachten Sachverständige öffentlich
 bestellt, so sollen andere Personen nur dann gewählt werden, wenn
 besondere Umstände es erfordern.
 
-(3) Das Gericht kann die Parteien auffordern, Personen zu bezeichnen,
+(4) Das Gericht kann die Parteien auffordern, Personen zu bezeichnen,
 die geeignet sind, als Sachverständige vernommen zu werden.
 
-(4) Einigen sich die Parteien über bestimmte Personen als
+(5) Einigen sich die Parteien über bestimmte Personen als
 Sachverständige, so hat das Gericht dieser Einigung Folge zu geben;
 das Gericht kann jedoch die Wahl der Parteien auf eine bestimmte
 Anzahl beschränken.
@@ -6932,29 +7299,36 @@ sich hierzu vor Gericht bereit erklärt hat.
 
 (1) Der Sachverständige hat unverzüglich zu prüfen, ob der Auftrag in
 sein Fachgebiet fällt und ohne die Hinzuziehung weiterer
-Sachverständiger erledigt werden kann. Ist das nicht der Fall, so hat
-der Sachverständige das Gericht unverzüglich zu verständigen.
+Sachverständiger sowie innerhalb der vom Gericht gesetzten Frist
+erledigt werden kann. Ist das nicht der Fall, so hat der
+Sachverständige das Gericht unverzüglich zu verständigen.
 
-(2) Der Sachverständige ist nicht befugt, den Auftrag auf einen
+(2) Der Sachverständige hat unverzüglich zu prüfen, ob ein Grund
+vorliegt, der geeignet ist, Misstrauen gegen seine Unparteilichkeit zu
+rechtfertigen. Der Sachverständige hat dem Gericht solche Gründe
+unverzüglich mitzuteilen. Unterlässt er dies, kann gegen ihn ein
+Ordnungsgeld festgesetzt werden.
+
+(3) Der Sachverständige ist nicht befugt, den Auftrag auf einen
 anderen zu übertragen. Soweit er sich der Mitarbeit einer anderen
 Person bedient, hat er diese namhaft zu machen und den Umfang ihrer
 Tätigkeit anzugeben, falls es sich nicht um Hilfsdienste von
 untergeordneter Bedeutung handelt.
 
-(3) Hat der Sachverständige Zweifel an Inhalt und Umfang des
+(4) Hat der Sachverständige Zweifel an Inhalt und Umfang des
 Auftrages, so hat er unverzüglich eine Klärung durch das Gericht
 herbeizuführen. Erwachsen voraussichtlich Kosten, die erkennbar außer
 Verhältnis zum Wert des Streitgegenstandes stehen oder einen
 angeforderten Kostenvorschuss erheblich übersteigen, so hat der
 Sachverständige rechtzeitig hierauf hinzuweisen.
 
-(4) Der Sachverständige hat auf Verlangen des Gerichts die Akten und
+(5) Der Sachverständige hat auf Verlangen des Gerichts die Akten und
 sonstige für die Begutachtung beigezogene Unterlagen sowie
 Untersuchungsergebnisse unverzüglich herauszugeben oder mitzuteilen.
 Kommt er dieser Pflicht nicht nach, so ordnet das Gericht die
 Herausgabe an.
 
-(5) Das Gericht soll den Sachverständigen auf seine Pflichten
+(6) Das Gericht soll den Sachverständigen auf seine Pflichten
 hinweisen.
 
 
@@ -7004,19 +7378,21 @@ erklärt werden.
 
 ##### § 411 Schriftliches Gutachten
 
-(1) Wird schriftliche Begutachtung angeordnet, soll das Gericht dem
-Sachverständigen eine Frist setzen, innerhalb derer er das von ihm
+(1) Wird schriftliche Begutachtung angeordnet, setzt das Gericht dem
+Sachverständigen eine Frist, innerhalb derer er das von ihm
 unterschriebene Gutachten zu übermitteln hat.
 
 (2) Versäumt ein zur Erstattung des Gutachtens verpflichteter
-Sachverständiger die Frist, so kann gegen ihn ein Ordnungsgeld
+Sachverständiger die Frist, so soll gegen ihn ein Ordnungsgeld
 festgesetzt werden. Das Ordnungsgeld muss vorher unter Setzung einer
 Nachfrist angedroht werden. Im Falle wiederholter Fristversäumnis kann
 das Ordnungsgeld in der gleichen Weise noch einmal festgesetzt werden.
-§ 409 Abs. 2 gilt entsprechend.
+Das einzelne Ordnungsgeld darf 3 000 Euro nicht übersteigen. § 409
+Abs. 2 gilt entsprechend.
 
 (3) Das Gericht kann das Erscheinen des Sachverständigen anordnen,
-damit er das schriftliche Gutachten erläutere.
+damit er das schriftliche Gutachten erläutere. Das Gericht kann auch
+eine schriftliche Erläuterung oder Ergänzung des Gutachtens anordnen.
 
 (4) Die Parteien haben dem Gericht innerhalb eines angemessenen
 Zeitraums ihre Einwendungen gegen das Gutachten, die Begutachtung
@@ -7086,13 +7462,14 @@ Erklärungen von den Ausstellern abgegeben sind.
 ##### § 416a Beweiskraft des Ausdrucks eines öffentlichen elektronischen Dokuments
 
 Der mit einem Beglaubigungsvermerk versehene Ausdruck eines
-öffentlichen elektronischen Dokuments gemäß § 371a Abs. 2, den eine
+öffentlichen elektronischen Dokuments gemäß § 371a Absatz 3, den eine
 öffentliche Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder
 eine mit öffentlichem Glauben versehene Person innerhalb des ihr
 zugewiesenen Geschäftskreises in der vorgeschriebenen Form erstellt
 hat, sowie der Ausdruck eines gerichtlichen elektronischen Dokuments,
-der einen Vermerk des zuständigen Gerichts gemäß § 298 Abs. 2 enthält,
-stehen einer öffentlichen Urkunde in beglaubigter Abschrift gleich.
+der einen Vermerk des zuständigen Gerichts gemäß § 298 Absatz 3
+enthält, stehen einer öffentlichen Urkunde in beglaubigter Abschrift
+gleich.
 
 
 ##### § 417 Beweiskraft öffentlicher Urkunden über amtliche Anordnung, Verfügung oder Entscheidung
@@ -8525,44 +8902,57 @@ gebunden.
 #### § 544 Nichtzulassungsbeschwerde
 
 (1) Die Nichtzulassung der Revision durch das Berufungsgericht
-unterliegt der Beschwerde (Nichtzulassungsbeschwerde). Die Beschwerde
-ist innerhalb einer Notfrist von einem Monat nach Zustellung des in
-vollständiger Form abgefassten Urteils, spätestens aber bis zum Ablauf
-von sechs Monaten nach der Verkündung des Urteils bei dem
-Revisionsgericht einzulegen. Mit der Beschwerdeschrift soll eine
-Ausfertigung oder beglaubigte Abschrift des Urteils, gegen das die
-Revision eingelegt werden soll, vorgelegt werden.
+unterliegt der Beschwerde (Nichtzulassungsbeschwerde).
 
-(2) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung des
+(2) Die Nichtzulassungsbeschwerde ist nur zulässig, wenn
+
+1.  der Wert der mit der Revision geltend zu machenden Beschwer 20 000
+    Euro übersteigt oder
+
+
+2.  das Berufungsgericht die Berufung als unzulässig verworfen hat.
+
+
+
+
+(3) Die Nichtzulassungsbeschwerde ist innerhalb einer Notfrist von
+einem Monat nach Zustellung des in vollständiger Form abgefassten
+Urteils, spätestens aber bis zum Ablauf von sechs Monaten nach der
+Verkündung des Urteils bei dem Revisionsgericht einzulegen. Mit der
+Beschwerdeschrift soll eine Ausfertigung oder beglaubigte Abschrift
+des Urteils, gegen das die Revision eingelegt werden soll, vorgelegt
+werden.
+
+(4) Die Beschwerde ist innerhalb von zwei Monaten nach Zustellung des
 in vollständiger Form abgefassten Urteils, spätestens aber bis zum
 Ablauf von sieben Monaten nach der Verkündung des Urteils zu
 begründen. § 551 Abs. 2 Satz 5 und 6 gilt entsprechend. In der
 Begründung müssen die Zulassungsgründe (§ 543 Abs. 2) dargelegt
 werden.
 
-(3) Das Revisionsgericht gibt dem Gegner des Beschwerdeführers
+(5) Das Revisionsgericht gibt dem Gegner des Beschwerdeführers
 Gelegenheit zur Stellungnahme.
 
-(4) Das Revisionsgericht entscheidet über die Beschwerde durch
+(6) Das Revisionsgericht entscheidet über die Beschwerde durch
 Beschluss. Der Beschluss soll kurz begründet werden; von einer
 Begründung kann abgesehen werden, wenn sie nicht geeignet wäre, zur
 Klärung der Voraussetzungen beizutragen, unter denen eine Revision
 zuzulassen ist, oder wenn der Beschwerde stattgegeben wird. Die
 Entscheidung über die Beschwerde ist den Parteien zuzustellen.
 
-(5) Die Einlegung der Beschwerde hemmt die Rechtskraft des Urteils. §
+(7) Die Einlegung der Beschwerde hemmt die Rechtskraft des Urteils. §
 719 Abs. 2 und 3 ist entsprechend anzuwenden. Mit der Ablehnung der
 Beschwerde durch das Revisionsgericht wird das Urteil rechtskräftig.
 
-(6) Wird der Beschwerde gegen die Nichtzulassung der Revision
+(8) Wird der Beschwerde gegen die Nichtzulassung der Revision
 stattgegeben, so wird das Beschwerdeverfahren als Revisionsverfahren
 fortgesetzt. In diesem Fall gilt die form- und fristgerechte Einlegung
 der Nichtzulassungsbeschwerde als Einlegung der Revision. Mit der
 Zustellung der Entscheidung beginnt die Revisionsbegründungsfrist.
 
-(7) Hat das Berufungsgericht den Anspruch des Beschwerdeführers auf
+(9) Hat das Berufungsgericht den Anspruch des Beschwerdeführers auf
 rechtliches Gehör in entscheidungserheblicher Weise verletzt, so kann
-das Revisionsgericht abweichend von Absatz 6 in dem der Beschwerde
+das Revisionsgericht abweichend von Absatz 8 in dem der Beschwerde
 stattgebenden Beschluss das angefochtene Urteil aufheben und den
 Rechtsstreit zur neuen Verhandlung und Entscheidung an das
 Berufungsgericht zurückverweisen.
@@ -8640,7 +9030,7 @@ Revisionsgericht eingelegt. Die Revisionsschrift muss enthalten:
 
 
 
-§ 544 Abs. 6 Satz 2 bleibt unberührt.
+§ 544 Absatz 8 Satz 2 bleibt unberührt.
 
 (2) Die allgemeinen Vorschriften über die vorbereitenden Schriftsätze
 sind auch auf die Revisionsschrift anzuwenden.
@@ -8650,7 +9040,7 @@ sind auch auf die Revisionsschrift anzuwenden.
 
 (1) Mit der Revisionsschrift soll eine Ausfertigung oder beglaubigte
 Abschrift des angefochtenen Urteils vorgelegt werden, soweit dies
-nicht bereits nach § 544 Absatz 1 Satz 3 geschehen ist.
+nicht bereits nach § 544 Absatz 3 Satz 2 geschehen ist.
 
 (2) Die Revisionsschrift ist der Gegenpartei zuzustellen.
 
@@ -8664,7 +9054,7 @@ Revisionsschrift enthalten ist, in einem Schriftsatz bei dem
 Revisionsgericht einzureichen. Die Frist für die Revisionsbegründung
 beträgt zwei Monate. Sie beginnt mit der Zustellung des in
 vollständiger Form abgefassten Urteils, spätestens aber mit Ablauf von
-fünf Monaten nach der Verkündung. § 544 Abs. 6 Satz 3 bleibt
+fünf Monaten nach der Verkündung. § 544 Absatz 8 Satz 3 bleibt
 unberührt. Die Frist kann auf Antrag von dem Vorsitzenden verlängert
 werden, wenn der Gegner einwilligt. Ohne Einwilligung kann die Frist
 um bis zu zwei Monate verlängert werden, wenn nach freier Überzeugung
@@ -8762,6 +9152,9 @@ für das Verfahren vor den Landgerichten geltenden Vorschriften
 entsprechend anzuwenden. Einer Güteverhandlung bedarf es nicht.
 
 (2) Die Vorschriften der §§ 348 bis 350 sind nicht anzuwenden.
+
+(3) Ein Anerkenntnisurteil ergeht nur auf gesonderten Antrag des
+Klägers.
 
 
 #### § 556 Verlust des Rügerechts
@@ -8871,7 +9264,10 @@ Die für die Berufung geltenden Vorschriften über die Anfechtbarkeit
 der Versäumnisurteile, über die Verzichtsleistung auf das Rechtsmittel
 und seine Zurücknahme, über die Rügen der Unzulässigkeit der Klage und
 über die Einforderung, Übersendung und Zurücksendung der Prozessakten
-sind auf die Revision entsprechend anzuwenden.
+sind auf die Revision entsprechend anzuwenden. Die Revision kann ohne
+Einwilligung des Revisionsbeklagten nur bis zum Beginn der mündlichen
+Verhandlung des Revisionsbeklagten zur Hauptsache zurückgenommen
+werden.
 
 
 #### § 566 Sprungrevision
@@ -9520,9 +9916,9 @@ Rentenschuld oder einer Schiffshypothek.
 (1) Die Klage muss die Erklärung enthalten, dass im Urkundenprozess
 geklagt werde.
 
-(2) Die Urkunden müssen in Urschrift oder in Abschrift der Klage oder
-einem vorbereitenden Schriftsatz beigefügt werden. Im letzteren Fall
-muss zwischen der Zustellung des Schriftsatzes und dem Termin zur
+(2) Die Urkunden müssen in Abschrift der Klage oder einem
+vorbereitenden Schriftsatz beigefügt werden. Im letzteren Fall muss
+zwischen der Zustellung des Schriftsatzes und dem Termin zur
 mündlichen Verhandlung ein der Einlassungsfrist gleicher Zeitraum
 liegen.
 
@@ -9664,11 +10060,362 @@ Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis
 605 entsprechend anzuwenden.
 
 
-## Buch 6 - (weggefallen)
+## Buch 6 - Musterfeststellungsverfahren
 
 
 
-### (XXXX) §§ 606 bis 687 (weggefallen)
+### § 606 Musterfeststellungsklage
+
+(1) Mit der Musterfeststellungsklage können qualifizierte
+Einrichtungen die Feststellung des Vorliegens oder Nichtvorliegens von
+tatsächlichen und rechtlichen Voraussetzungen für das Bestehen oder
+Nichtbestehen von Ansprüchen oder Rechtsverhältnissen
+(Feststellungsziele) zwischen Verbrauchern und einem Unternehmer
+begehren. Qualifizierte Einrichtungen im Sinne von Satz 1 sind die in
+§ 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes
+bezeichneten Stellen, die
+
+1.  als Mitglieder mindestens zehn Verbände, die im gleichen
+    Aufgabenbereich tätig sind, oder mindestens 350 natürliche Personen
+    haben,
+
+
+2.  mindestens vier Jahre in der Liste nach § 4 des
+    Unterlassungsklagengesetzes oder dem Verzeichnis der Europäischen
+    Kommission nach Artikel 4 der Richtlinie 2009/22/EG des Europäischen
+    Parlaments und des Rates vom 23. April 2009 über Unterlassungsklagen
+    zum Schutz der Verbraucherinteressen (ABl. L 110 vom 1.5.2009, S. 30)
+    eingetragen sind,
+
+
+3.  in Erfüllung ihrer satzungsmäßigen Aufgaben Verbraucherinteressen
+    weitgehend durch nicht gewerbsmäßige aufklärende oder beratende
+    Tätigkeiten wahrnehmen,
+
+
+4.  Musterfeststellungsklagen nicht zum Zwecke der Gewinnerzielung erheben
+    und
+
+
+5.  nicht mehr als 5 Prozent ihrer finanziellen Mittel durch Zuwendungen
+    von Unternehmen beziehen.
+
+
+
+Bestehen ernsthafte Zweifel daran, dass die Voraussetzungen nach Satz
+2 Nummer 4 oder 5 vorliegen, verlangt das Gericht vom Kläger die
+Offenlegung seiner finanziellen Mittel. Es wird unwiderleglich
+vermutet, dass Verbraucherzentralen und andere Verbraucherverbände,
+die überwiegend mit öffentlichen Mitteln gefördert werden, die
+Voraussetzungen des Satzes 2 erfüllen.
+
+(2) Die Klageschrift muss Angaben und Nachweise darüber enthalten,
+dass
+
+1.  die in Absatz 1 Satz 2 genannten Voraussetzungen vorliegen;
+
+
+2.  von den Feststellungszielen die Ansprüche oder Rechtsverhältnisse von
+    mindestens zehn Verbrauchern abhängen.
+
+
+
+Die Klageschrift soll darüber hinaus für den Zweck der Bekanntmachung
+im Klageregister eine kurze Darstellung des vorgetragenen
+Lebenssachverhaltes enthalten. § 253 Absatz 2 bleibt unberührt.
+
+(3) Die Musterfeststellungsklage ist nur zulässig, wenn
+
+1.  sie von einer qualifizierten Einrichtung im Sinne des Absatzes 1 Satz
+    2 erhoben wird,
+
+
+2.  glaubhaft gemacht wird, dass von den Feststellungszielen die Ansprüche
+    oder Rechtsverhältnisse von mindestens zehn Verbrauchern abhängen und
+
+
+3.  zwei Monate nach öffentlicher Bekanntmachung der
+    Musterfeststellungsklage mindestens 50 Verbraucher ihre Ansprüche oder
+    Rechtsverhältnisse zur Eintragung in das Klageregister wirksam
+    angemeldet haben.
+
+
+
+
+
+### § 607 Bekanntmachung der Musterfeststellungsklage
+
+(1) Die Musterfeststellungsklage ist im Klageregister mit folgenden
+Angaben öffentlich bekannt zu machen:
+
+1.  Bezeichnung der Parteien,
+
+
+2.  Bezeichnung des Gerichts und des Aktenzeichens der
+    Musterfeststellungsklage,
+
+
+3.  Feststellungsziele,
+
+
+4.  kurze Darstellung des vorgetragenen Lebenssachverhaltes,
+
+
+5.  Zeitpunkt der Bekanntmachung im Klageregister,
+
+
+6.  Befugnis der Verbraucher, Ansprüche oder Rechtsverhältnisse, die von
+    den Feststellungszielen abhängen, zur Eintragung in das Klageregister
+    anzumelden, Form, Frist und Wirkung der Anmeldung sowie ihrer
+    Rücknahme,
+
+
+7.  Wirkung eines Vergleichs, Befugnis der angemeldeten Verbraucher zum
+    Austritt aus dem Vergleich sowie Form, Frist und Wirkung des
+    Austritts,
+
+
+8.  Verpflichtung des Bundesamts für Justiz, nach rechtskräftigem
+    Abschluss des Musterfeststellungsverfahrens jedem angemeldeten
+    Verbraucher auf dessen Verlangen einen schriftlichen Auszug über die
+    Angaben zu überlassen, die im Klageregister zu ihm und seiner
+    Anmeldung erfasst sind.
+
+
+
+
+(2) Das Gericht veranlasst innerhalb von 14 Tagen nach Erhebung der
+Musterfeststellungklage deren öffentliche Bekanntmachung, wenn die
+Klageschrift die nach § 606 Absatz 2 Satz 1 vorgeschriebenen
+Anforderungen erfüllt.
+
+(3) Das Gericht veranlasst unverzüglich die öffentliche Bekanntmachung
+seiner Terminbestimmungen, Hinweise und Zwischenentscheidungen im
+Klageregister, wenn dies zur Information der Verbraucher über den
+Fortgang des Verfahrens erforderlich ist. Die öffentliche
+Bekanntmachung von Terminen muss spätestens eine Woche vor dem
+jeweiligen Terminstag erfolgen. Das Gericht veranlasst ferner
+unverzüglich die öffentliche Bekanntmachung einer Beendigung des
+Musterfeststellungsverfahrens; die Vorschriften der §§ 611, 612
+bleiben hiervon unberührt.
+
+
+### § 608 Anmeldung von Ansprüchen oder Rechtsverhältnissen
+
+(1) Bis zum Ablauf des Tages vor Beginn des ersten Termins können
+Verbraucher Ansprüche oder Rechtsverhältnisse, die von den
+Feststellungszielen abhängen, zur Eintragung in das Klageregister
+anmelden.
+
+(2) Die Anmeldung ist nur wirksam, wenn sie frist- und formgerecht
+erfolgt und folgende Angaben enthält:
+
+1.  Name und Anschrift des Verbrauchers,
+
+
+2.  Bezeichnung des Gerichts und Aktenzeichen der
+    Musterfeststellungsklage,
+
+
+3.  Bezeichnung des Beklagten der Musterfeststellungsklage,
+
+
+4.  Gegenstand und Grund des Anspruchs oder des Rechtsverhältnisses des
+    Verbrauchers,
+
+
+5.  Versicherung der Richtigkeit und Vollständigkeit der Angaben.
+
+
+
+Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten.
+Die Angaben der Anmeldung werden ohne inhaltliche Prüfung in das
+Klageregister eingetragen.
+
+(3) Die Anmeldung kann bis zum Ablauf des Tages des Beginns der
+mündlichen Verhandlung in der ersten Instanz zurückgenommen werden.
+
+(4) Anmeldung und Rücknahme sind in Textform gegenüber dem Bundesamt
+für Justiz zu erklären.
+
+
+### § 609 Klageregister; Verordnungsermächtigung
+
+(1) Klageregister ist das Register für Musterfeststellungsklagen. Es
+wird vom Bundesamt für Justiz geführt und kann elektronisch betrieben
+werden.
+
+(2) Bekanntmachungen und Eintragungen nach den §§ 607 und 608 sind
+unverzüglich vorzunehmen. Die im Klageregister zu einer
+Musterfeststellungsklage erfassten Angaben sind bis zum Schluss des
+dritten Jahres nach rechtskräftigem Abschluss des Verfahrens
+aufzubewahren.
+
+(3) Öffentliche Bekanntmachungen können von jedermann unentgeltlich im
+Klageregister eingesehen werden.
+
+(4) Nach § 608 angemeldete Verbraucher können vom Bundesamt für Justiz
+Auskunft über die zu ihrer Anmeldung im Klageregister erfassten
+Angaben verlangen. Nach rechtskräftigem Abschluss des
+Musterfeststellungsverfahrens hat das Bundesamt für Justiz einem
+angemeldeten Verbraucher auf dessen Verlangen einen schriftlichen
+Auszug über die Angaben zu überlassen, die im Klageregister zu ihm und
+seiner Anmeldung erfasst sind.
+
+(5) Das Bundesamt für Justiz hat dem Gericht der
+Musterfeststellungsklage auf dessen Anforderung einen Auszug aller im
+Klageregister zu der Musterfeststellungsklage erfassten Angaben über
+die Personen zu übersenden, die bis zum Ablauf des in § 606 Absatz 3
+Nummer 3 genannten Tages zur Eintragung in das Klageregister
+angemeldet sind. Das Gericht übermittelt den Parteien formlos eine
+Abschrift des Auszugs.
+
+(6) Das Bundesamt für Justiz hat den Parteien auf deren Anforderung
+einen schriftlichen Auszug aller im Klageregister zu der
+Musterfeststellungsklage erfassten Angaben über die Personen zu
+überlassen, die sich bis zu dem in § 608 Absatz 1 genannten Tag zur
+Eintragung in das Klageregister angemeldet haben.
+
+(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+näheren Bestimmungen über Inhalt, Aufbau und Führung des
+Klageregisters, die Einreichung, Eintragung, Änderung und Vernichtung
+der im Klageregister erfassten Angaben, die Erteilung von Auszügen aus
+dem Klageregister sowie die Datensicherheit und Barrierefreiheit zu
+treffen.
+
+
+### § 610 Besonderheiten der Musterfeststellungsklage
+
+(1) Ab dem Tag der Rechtshängigkeit der Musterfeststellungsklage kann
+gegen den Beklagten keine andere Musterfeststellungsklage erhoben
+werden, soweit deren Streitgegenstand denselben Lebenssachverhalt und
+dieselben Feststellungsziele betrifft. Die Wirkung von Satz 1
+entfällt, sobald die Musterfeststellungsklage ohne Entscheidung in der
+Sache beendet wird.
+
+(2) Werden am selben Tag mehrere Musterfeststellungsklagen, deren
+Streitgegenstand denselben Lebenssachverhalt und dieselben
+Feststellungsziele betrifft, bei Gericht eingereicht, findet § 147
+Anwendung.
+
+(3) Während der Rechtshängigkeit der Musterfeststellungsklage kann ein
+angemeldeter Verbraucher gegen den Beklagten keine Klage erheben,
+deren Streitgegenstand denselben Lebenssachverhalt und dieselben
+Feststellungsziele betrifft.
+
+(4) Das Gericht hat spätestens im ersten Termin zur mündlichen
+Verhandlung auf sachdienliche Klageanträge hinzuwirken.
+
+(5) Auf die Musterfeststellungsklage sind die im ersten Rechtszug für
+das Verfahren vor den Landgerichten geltenden Vorschriften
+entsprechend anzuwenden, soweit sich aus den Vorschriften dieses
+Buches nicht Abweichungen ergeben. Nicht anzuwenden sind § 128 Absatz
+2, § 278 Absatz 2 bis 5 sowie die §§ 306 und 348 bis 350.
+
+(6) Die §§ 66 bis 74 finden keine Anwendung im Verhältnis zwischen den
+Parteien der Musterfeststellungsklage und Verbrauchern, die
+
+1.  einen Anspruch oder ein Rechtsverhältnis angemeldet haben oder
+
+
+2.  behaupten, entweder einen Anspruch gegen den Beklagten zu haben oder
+    vom Beklagten in Anspruch genommen zu werden oder in einem
+    Rechtsverhältnis zum Beklagten zu stehen.
+
+
+
+
+
+### § 611 Vergleich
+
+(1) Ein gerichtlicher Vergleich kann auch mit Wirkung für und gegen
+die angemeldeten Verbraucher geschlossen werden.
+
+(2) Der Vergleich soll Regelungen enthalten über
+
+1.  die auf die angemeldeten Verbraucher entfallenden Leistungen,
+
+
+2.  den von den angemeldeten Verbrauchern zu erbringenden Nachweis der
+    Leistungsberechtigung,
+
+
+3.  die Fälligkeit der Leistungen und
+
+
+4.  die Aufteilung der Kosten zwischen den Parteien.
+
+
+
+
+(3) Der Vergleich bedarf der Genehmigung durch das Gericht. Das
+Gericht genehmigt den Vergleich, wenn es ihn unter Berücksichtigung
+des bisherigen Sach- und Streitstandes als angemessene gütliche
+Beilegung des Streits oder der Ungewissheit über die angemeldeten
+Ansprüche oder Rechtsverhältnisse erachtet. Die Genehmigung ergeht
+durch unanfechtbaren Beschluss.
+
+(4) Den zum Zeitpunkt der Genehmigung angemeldeten Verbrauchern wird
+der genehmigte Vergleich mit einer Belehrung über dessen Wirkung, über
+ihr Recht zum Austritt aus dem Vergleich sowie über die einzuhaltende
+Form und Frist zugestellt. Jeder Verbraucher kann innerhalb einer
+Frist von einem Monat nach Zustellung des genehmigten Vergleichs
+seinen Austritt aus dem Vergleich erklären. Der Austritt muss bei dem
+Gericht schriftlich oder zu Protokoll der Geschäftsstelle erklärt
+werden. Durch den Austritt wird die Wirksamkeit der Anmeldung nicht
+berührt.
+
+(5) Der genehmigte Vergleich wird wirksam, wenn weniger als 30 Prozent
+der angemeldeten Verbraucher ihren Austritt aus dem Vergleich erklärt
+haben. Das Gericht stellt durch unanfechtbaren Beschluss den Inhalt
+und die Wirksamkeit des genehmigten Vergleichs fest. Der Beschluss ist
+im Klageregister öffentlich bekannt zu machen. Mit der Bekanntmachung
+des Beschlusses wirkt der Vergleich für und gegen diejenigen
+angemeldeten Verbraucher, die nicht ihren Austritt erklärt haben.
+
+(6) Der Abschluss eines gerichtlichen Vergleichs vor dem ersten Termin
+ist unzulässig.
+
+
+### § 612 Bekanntmachungen zum Musterfeststellungsurteil
+
+(1) Das Musterfeststellungsurteil ist nach seiner Verkündung im
+Klageregister öffentlich bekannt zu machen.
+
+(2) Die Einlegung eines Rechtsmittels gegen das
+Musterfeststellungsurteil ist im Klageregister öffentlich bekannt zu
+machen. Dasselbe gilt für den Eintritt der Rechtskraft des
+Musterfeststellungsurteils.
+
+
+### § 613 Bindungswirkung des Musterfeststellungsurteils; Aussetzung
+
+(1) Das rechtskräftige Musterfeststellungsurteil bindet das zur
+Entscheidung eines Rechtsstreits zwischen einem angemeldeten
+Verbraucher und dem Beklagten berufene Gericht, soweit dessen
+Entscheidung die Feststellungsziele und den Lebenssachverhalt der
+Musterfeststellungsklage betrifft. Dies gilt nicht, wenn der
+angemeldete Verbraucher seine Anmeldung wirksam zurückgenommen hat.
+
+(2) Hat ein Verbraucher vor der Bekanntmachung der Angaben zur
+Musterfeststellungsklage im Klageregister eine Klage gegen den
+Beklagten erhoben, die die Feststellungsziele und den
+Lebenssachverhalt der Musterfeststellungsklage betrifft, und meldet er
+seinen Anspruch oder sein Rechtsverhältnis zum Klageregister an, so
+setzt das Gericht das Verfahren bis zur rechtskräftigen Entscheidung
+oder sonstigen Erledigung der Musterfeststellungsklage oder wirksamen
+Rücknahme der Anmeldung aus.
+
+
+### § 614 Rechtsmittel
+
+Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache
+hat stets grundsätzliche Bedeutung im Sinne des § 543 Absatz 2 Nummer
+1\.
+
+
+### (XXXX) §§ 615 bis 687 (weggefallen)
 
 
 
@@ -9685,7 +10432,7 @@ Mahnbescheid zu erlassen.
 (2) Das Mahnverfahren findet nicht statt:
 
 1.  für Ansprüche eines Unternehmers aus einem Vertrag gemäß den §§ 491
-    bis 509 des Bürgerlichen Gesetzbuchs, wenn der gemäß § 492 Abs. 2 des
+    bis 508 des Bürgerlichen Gesetzbuchs, wenn der gemäß § 492 Abs. 2 des
     Bürgerlichen Gesetzbuchs anzugebende effektive Jahreszins den bei
     Vertragsschluss geltenden Basiszinssatz nach § 247 des Bürgerlichen
     Gesetzbuchs um mehr als zwölf Prozentpunkte übersteigt;
@@ -9701,15 +10448,22 @@ Mahnbescheid zu erlassen.
 
 
 
-(3) Müsste der Mahnbescheid im Ausland zugestellt werden, findet das
-Mahnverfahren nur statt, soweit das Anerkennungs- und
-Vollstreckungsausführungsgesetz vom 19. Februar 2001 (BGBl. I S. 288)
-dies vorsieht.
+(3) Müsste der Mahnbescheid im Ausland zugestellt werden, so findet
+das Mahnverfahren nur insoweit statt, als das Anerkennungs- und
+Vollstreckungsausführungsgesetz in der Fassung der Bekanntmachung vom
+30\. November 2015 (BGBl. I S. 2146) und das Auslandsunterhaltsgesetz
+vom 23. Mai 2011 (BGBl. I S. 898), das zuletzt durch Artikel 5 des
+Gesetzes vom 20. November 2015 (BGBl. I S. 2018) geändert worden ist,
+dies vorsehen oder die Zustellung in einem Mitgliedstaat der
+Europäischen Union erfolgen soll.
 
 (4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des
 Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur
-Einführung eines Europäischen Mahnverfahrens (ABl. EU Nr. L 399 S. 1)
-bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
+Einführung eines Europäischen Mahnverfahrens (ABl. L 399 vom
+30\.12.2006, S. 1; L 46 vom 21.2.2008, S. 52; L 333 vom 11.12.2008, S.
+17), die zuletzt durch die Verordnung (EU) 2015/2421 (ABl. L 341 vom
+24\.12.2015, S. 1) geändert worden ist, bleiben unberührt. Für die
+Durchführung gelten die §§ 1087 bis 1096.
 
 
 ### § 689 Zuständigkeit; maschinelle Bearbeitung
@@ -9717,7 +10471,7 @@ bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
 (1) Das Mahnverfahren wird von den Amtsgerichten durchgeführt. Eine
 maschinelle Bearbeitung ist zulässig. Bei dieser Bearbeitung sollen
 Eingänge spätestens an dem Arbeitstag erledigt sein, der dem Tag des
-Eingangs folgt.
+Eingangs folgt. Die Akten können elektronisch geführt werden (§ 298a).
 
 (2) Ausschließlich zuständig ist das Amtsgericht, bei dem der
 Antragsteller seinen allgemeinen Gerichtsstand hat. Hat der
@@ -9750,7 +10504,7 @@ und enthalten:
 
 3.  die Bezeichnung des Anspruchs unter bestimmter Angabe der verlangten
     Leistung; Haupt- und Nebenforderungen sind gesondert und einzeln zu
-    bezeichnen, Ansprüche aus Verträgen gemäß den §§ 491 bis 509 des
+    bezeichnen, Ansprüche aus Verträgen gemäß den §§ 491 bis 508 des
     Bürgerlichen Gesetzbuchs, auch unter Angabe des Datums des
     Vertragsabschlusses und des gemäß § 492 Abs. 2 des Bürgerlichen
     Gesetzbuchs anzugebenden effektiven Jahreszinses;
@@ -9768,22 +10522,15 @@ und enthalten:
 
 (2) Der Antrag bedarf der handschriftlichen Unterzeichnung.
 
-(3) Der Antrag kann in einer nur maschinell lesbaren Form übermittelt
-werden, wenn diese dem Gericht für seine maschinelle Bearbeitung
-geeignet erscheint. Wird der Antrag von einem Rechtsanwalt oder einer
-registrierten Person nach § 10 Abs. 1 Satz 1 Nr. 1 des
-Rechtsdienstleistungsgesetzes gestellt, ist nur diese Form der
-Antragstellung zulässig. Der handschriftlichen Unterzeichnung bedarf
-es nicht, wenn in anderer Weise gewährleistet ist, dass der Antrag
-nicht ohne den Willen des Antragstellers übermittelt wird.
+(3) (weggefallen)
 
 
 ### § 691 Zurückweisung des Mahnantrags
 
 (1) Der Antrag wird zurückgewiesen:
 
-1.  wenn er den Vorschriften der §§ 688, 689, 690, 703c Abs. 2 nicht
-    entspricht;
+1.  wenn er den Vorschriften der §§ 688, 689, 690, 702 Absatz 2, § 703c
+    Abs. 2 nicht entspricht;
 
 
 2.  wenn der Mahnbescheid nur wegen eines Teiles des Anspruchs nicht
@@ -9836,7 +10583,9 @@ Gericht für seine maschinelle Bearbeitung nicht geeignet erscheine. Im
 5.  für den Fall, dass Formulare eingeführt sind, den Hinweis, dass der
     Widerspruch mit einem Formular der beigefügten Art erhoben werden
     soll, das auch bei jedem Amtsgericht erhältlich ist und ausgefüllt
-    werden kann;
+    werden kann, und dass für Rechtsanwälte und registrierte Personen nach
+    § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes § 702
+    Absatz 2 Satz 2 gilt;
 
 
 6.  für den Fall des Widerspruchs die Ankündigung, an welches Gericht die
@@ -9872,7 +10621,8 @@ dem Antragsgegner, der den Widerspruch erhoben hat, mitzuteilen.
 ### § 695 Mitteilung des Widerspruchs; Abschriften
 
 Das Gericht hat den Antragsteller von dem Widerspruch und dem
-Zeitpunkt seiner Erhebung in Kenntnis zu setzen. Wird das
+Zeitpunkt seiner Erhebung in Kenntnis zu setzen. Gleichzeitig belehrt
+es ihn über die Folgen des § 697 Absatz 2 Satz 2. Wird das
 Mahnverfahren nicht maschinell bearbeitet, so soll der Antragsgegner
 die erforderliche Zahl von Abschriften mit dem Widerspruch einreichen.
 
@@ -9918,7 +10668,11 @@ binnen zwei Wochen in einer der Klageschrift entsprechenden Form zu
 begründen. § 270 Satz 2 gilt entsprechend.
 
 (2) Bei Eingang der Anspruchsbegründung ist wie nach Eingang einer
-Klage weiter zu verfahren. Zur schriftlichen Klageerwiderung im
+Klage weiter zu verfahren. Soweit der Antrag in der
+Anspruchsbegründung hinter dem Mahnantrag zurückbleibt, gilt die Klage
+als zurückgenommen, wenn der Antragsteller zuvor durch das Mahngericht
+über diese Folge belehrt oder durch das Streitgericht auf diese Folge
+hingewiesen worden ist. Zur schriftlichen Klageerwiderung im
 Vorverfahren nach § 276 kann auch eine mit der Zustellung der
 Anspruchsbegründung beginnende Frist gesetzt werden.
 
@@ -9933,11 +10687,11 @@ mündlichen Verhandlung zur Hauptsache zurücknehmen, jedoch nicht nach
 Erlass eines Versäumnisurteils gegen ihn. Die Zurücknahme kann zu
 Protokoll der Geschäftsstelle erklärt werden.
 
-(5) Zur Herstellung eines Urteils in abgekürzter Form nach § 313b Abs.
-2, § 317 Abs. 6 kann der Mahnbescheid an Stelle der Klageschrift
-benutzt werden. Ist das Mahnverfahren maschinell bearbeitet worden, so
-tritt an die Stelle der Klageschrift der maschinell erstellte
-Aktenausdruck.
+(5) Zur Herstellung eines Urteils in abgekürzter Form nach § 313b
+Absatz 2, § 317 Absatz 5 kann der Mahnbescheid an Stelle der
+Klageschrift benutzt werden. Ist das Mahnverfahren maschinell
+bearbeitet worden, so tritt an die Stelle der Klageschrift der
+maschinell erstellte Aktenausdruck.
 
 
 ### § 698 Abgabe des Verfahrens am selben Gericht
@@ -9953,10 +10707,9 @@ durchgeführt werden.
 einen Vollstreckungsbescheid, wenn der Antragsgegner nicht rechtzeitig
 Widerspruch erhoben hat. Der Antrag kann nicht vor Ablauf der
 Widerspruchsfrist gestellt werden; er hat die Erklärung zu enthalten,
-ob und welche Zahlungen auf den Mahnbescheid geleistet worden sind; §
-690 Abs. 3 Satz 1 und 3 gilt entsprechend. Ist der Rechtsstreit
-bereits an ein anderes Gericht abgegeben, so erlässt dieses den
-Vollstreckungsbescheid.
+ob und welche Zahlungen auf den Mahnbescheid geleistet worden sind.
+Ist der Rechtsstreit bereits an ein anderes Gericht abgegeben, so
+erlässt dieses den Vollstreckungsbescheid.
 
 (2) Soweit das Mahnverfahren nicht maschinell bearbeitet wird, kann
 der Vollstreckungsbescheid auf den Mahnbescheid gesetzt werden.
@@ -9973,10 +10726,12 @@ Zustellung im Parteibetrieb beantragt hat. In diesen Fällen wird der
 Vollstreckungsbescheid dem Antragsteller zur Zustellung übermittelt;
 die Geschäftsstelle des Gerichts vermittelt diese Zustellung nicht.
 Bewilligt das mit dem Mahnverfahren befasste Gericht die öffentliche
-Zustellung, so wird die Benachrichtigung nach § 186 Abs. 2 Satz 2 und
-3 an die Gerichtstafel des Gerichts angeheftet oder in das
-Informationssystem des Gerichts eingestellt, das in dem Mahnbescheid
-gemäß § 692 Abs. 1 Nr. 1 bezeichnet worden ist.
+Zustellung, so wird diese nach § 186 Absatz 2 Satz 1 bis 3 bei dem
+Gericht vorgenommen, das in dem Mahnbescheid gemäß § 692 Absatz 1
+Nummer 1 bezeichnet worden ist.
+
+(5) Die Belehrung gemäß § 232 ist dem Antragsgegner zusammen mit der
+Zustellung des Vollstreckungsbescheids schriftlich mitzuteilen.
 
 
 ### § 700 Einspruch gegen den Vollstreckungsbescheid
@@ -10031,7 +10786,25 @@ sind, ist für den Antrag auf Erlass eines Mahnbescheids oder eines
 Vollstreckungsbescheids bei dem für das Mahnverfahren zuständigen
 Gericht die Aufnahme eines Protokolls nicht erforderlich.
 
-(2) Der Antrag auf Erlass eines Mahnbescheids oder eines
+(2) Anträge und Erklärungen können in einer nur maschinell lesbaren
+Form übermittelt werden, wenn diese dem Gericht für seine maschinelle
+Bearbeitung geeignet erscheint. Werden Anträge und Erklärungen, für
+die maschinell bearbeitbare Formulare nach § 703c Absatz 1 Satz 2
+Nummer 1 eingeführt sind, von einem Rechtsanwalt, einer registrierten
+Person nach § 10 Absatz 1 Satz 1 Nummer 1 des
+Rechtsdienstleistungsgesetzes, einer Behörde oder einer juristischen
+Person des öffentlichen Rechts einschließlich der von ihr zur
+Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse
+übermittelt, ist nur diese Form der Übermittlung zulässig. Anträge und
+Erklärungen können unter Nutzung des elektronischen
+Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des
+eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes gestellt
+werden. Der handschriftlichen Unterzeichnung bedarf es nicht, wenn in
+anderer Weise gewährleistet ist, dass die Anträge oder Erklärungen
+nicht ohne den Willen des Antragstellers oder Erklärenden übermittelt
+werden.
+
+(3) Der Antrag auf Erlass eines Mahnbescheids oder eines
 Vollstreckungsbescheids wird dem Antragsgegner nicht mitgeteilt.
 
 
@@ -10082,18 +10855,19 @@ folgende besondere Vorschriften:
 Ausfertigungen und Vollstreckungsklauseln mit dem Gerichtssiegel
 versehen; einer Unterschrift bedarf es nicht.
 
-(2) Der Bundesminister der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf
-zu regeln, soweit dies für eine einheitliche maschinelle Bearbeitung
-der Mahnverfahren erforderlich ist (Verfahrensablaufplan).
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den
+Verfahrensablauf zu regeln, soweit dies für eine einheitliche
+maschinelle Bearbeitung der Mahnverfahren erforderlich ist
+(Verfahrensablaufplan).
 
 
 ### § 703c Formulare; Einführung der maschinellen Bearbeitung
 
-(1) Der Bundesminister der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des
-Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei
-Formulare einzuführen. Für
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch
+genommenen Partei Formulare einzuführen. Für
 
 1.  Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten,
 
@@ -10377,7 +11151,8 @@ oder Leistung auch dann ein, wenn der Antrag nicht gestellt wird.
 #### § 718 Vorabentscheidung über vorläufige Vollstreckbarkeit
 
 (1) In der Berufungsinstanz ist über die vorläufige Vollstreckbarkeit
-auf Antrag vorab zu verhandeln und zu entscheiden.
+auf Antrag vorab zu entscheiden. Die Entscheidung kann ohne mündliche
+Verhandlung ergehen; § 128 Absatz 2 Satz 2 gilt entsprechend.
 
 (2) Eine Anfechtung der in der Berufungsinstanz über die vorläufige
 Vollstreckbarkeit erlassenen Entscheidung findet nicht statt.
@@ -10520,9 +11295,10 @@ Vollstreckungsklausel versehenen Ausfertigung des Urteils
 (vollstreckbare Ausfertigung) durchgeführt.
 
 (2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der
-Geschäftsstelle des Gerichts des ersten Rechtszuges und, wenn der
-Rechtsstreit bei einem höheren Gericht anhängig ist, von dem
-Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt.
+Geschäftsstelle des Gerichts des ersten Rechtszuges erteilt. Ist der
+Rechtsstreit bei einem höheren Gericht anhängig, so kann die
+vollstreckbare Ausfertigung auch von dem Urkundsbeamten der
+Geschäftsstelle dieses Gerichts erteilt werden.
 
 
 #### § 725 Vollstreckungsklausel
@@ -10689,11 +11465,11 @@ ergangenen Urteils.
 
 #### § 739 Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner
 
-(1) Wird zugunsten der Gläubiger eines Ehemannes oder der Gläubiger
-einer Ehefrau gemäß § 1362 des Bürgerlichen Gesetzbuchs vermutet, dass
-der Schuldner Eigentümer beweglicher Sachen ist, so gilt, unbeschadet
-der Rechte Dritter, für die Durchführung der Zwangsvollstreckung nur
-der Schuldner als Gewahrsamsinhaber und Besitzer.
+(1) Wird zugunsten der Gläubiger eines der Ehegatten gemäß § 1362 des
+Bürgerlichen Gesetzbuchs vermutet, dass der Schuldner Eigentümer
+beweglicher Sachen ist, so gilt, unbeschadet der Rechte Dritter, für
+die Durchführung der Zwangsvollstreckung nur der Schuldner als
+Gewahrsamsinhaber und Besitzer.
 
 (2) Absatz 1 gilt entsprechend für die Vermutung des § 8 Abs. 1 des
 Lebenspartnerschaftsgesetzes zugunsten der Gläubiger eines der
@@ -10702,53 +11478,66 @@ Lebenspartner.
 
 #### § 740 Zwangsvollstreckung in das Gesamtgut
 
-(1) Leben die Ehegatten in Gütergemeinschaft und verwaltet einer von
-ihnen das Gesamtgut allein, so ist zur Zwangsvollstreckung in das
-Gesamtgut ein Urteil gegen diesen Ehegatten erforderlich und genügend.
+(1) Leben die Ehegatten oder Lebenspartner in Gütergemeinschaft und
+verwaltet einer von ihnen das Gesamtgut allein, so ist zur
+Zwangsvollstreckung in das Gesamtgut ein Urteil gegen diesen Ehegatten
+oder Lebenspartner erforderlich und genügend.
 
-(2) Verwalten die Ehegatten das Gesamtgut gemeinschaftlich, so ist die
-Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn beide
-Ehegatten zur Leistung verurteilt sind.
+(2) Verwalten die Ehegatten oder Lebenspartner das Gesamtgut
+gemeinschaftlich, so ist die Zwangsvollstreckung in das Gesamtgut nur
+zulässig, wenn beide Ehegatten oder Lebenspartner zur Leistung
+verurteilt sind.
 
 
 #### § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
 
-Betreibt ein Ehegatte, der in Gütergemeinschaft lebt und das Gesamtgut
-nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so
-ist zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes
-Urteil genügend, es sei denn, dass zur Zeit des Eintritts der
-Rechtshängigkeit der Einspruch des anderen Ehegatten gegen den Betrieb
-des Erwerbsgeschäfts oder der Widerruf seiner Einwilligung zu dem
-Betrieb im Güterrechtsregister eingetragen war.
+Betreibt ein Ehegatte oder Lebenspartner, der in Gütergemeinschaft
+lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig
+ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut
+ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit
+des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten
+oder Lebenspartners gegen den Betrieb des Erwerbsgeschäfts oder der
+Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister
+eingetragen war.
 
 
 #### § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
 
 Ist die Gütergemeinschaft erst eingetreten, nachdem ein von einem
-Ehegatten oder gegen einen Ehegatten geführter Rechtsstreit
-rechtshängig geworden ist, und verwaltet dieser Ehegatte das Gesamtgut
-nicht oder nicht allein, so sind auf die Erteilung einer in Ansehung
-des Gesamtgutes vollstreckbaren Ausfertigung des Urteils für oder
-gegen den anderen Ehegatten die Vorschriften der §§ 727, 730 bis 732
-entsprechend anzuwenden.
+Ehegatten oder Lebenspartner oder gegen einen Ehegatten oder
+Lebenspartner geführter Rechtsstreit rechtshängig geworden ist, und
+verwaltet dieser Ehegatte oder Lebenspartner das Gesamtgut nicht oder
+nicht allein, so sind auf die Erteilung einer in Ansehung des
+Gesamtgutes vollstreckbaren Ausfertigung des Urteils für oder gegen
+den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727,
+730 bis 732 entsprechend anzuwenden.
 
 
 #### § 743 Beendete Gütergemeinschaft
 
 Nach der Beendigung der Gütergemeinschaft ist vor der
 Auseinandersetzung die Zwangsvollstreckung in das Gesamtgut nur
-zulässig, wenn beide Ehegatten zu der Leistung oder der eine Ehegatte
-zu der Leistung und der andere zur Duldung der Zwangsvollstreckung
-verurteilt sind.
+zulässig, wenn
+
+1.  beide Ehegatten oder Lebenspartner zu der Leistung verurteilt sind
+    oder
+
+
+2.  der eine Ehegatte oder Lebenspartner zu der Leistung verurteilt ist
+    und der andere zur Duldung der Zwangsvollstreckung.
+
+
+
 
 
 #### § 744 Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft
 
 Ist die Beendigung der Gütergemeinschaft nach der Beendigung eines
-Rechtsstreits des Ehegatten eingetreten, der das Gesamtgut allein
-verwaltet, so sind auf die Erteilung einer in Ansehung des Gesamtgutes
-vollstreckbaren Ausfertigung des Urteils gegen den anderen Ehegatten
-die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
+Rechtsstreits des Ehegatten oder Lebenspartners eingetreten, der das
+Gesamtgut allein verwaltet, so sind auf die Erteilung einer in
+Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils
+gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§
+727, 730 bis 732 entsprechend anzuwenden.
 
 
 #### § 744a Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft
@@ -10764,13 +11553,22 @@ in Gegenstände des gemeinschaftlichen Eigentums und Vermögens die §§
 
 (1) Im Falle der fortgesetzten Gütergemeinschaft ist zur
 Zwangsvollstreckung in das Gesamtgut ein gegen den überlebenden
-Ehegatten ergangenes Urteil erforderlich und genügend.
+Ehegatten oder Lebenspartner ergangenes Urteil erforderlich und
+genügend.
 
 (2) Nach der Beendigung der fortgesetzten Gütergemeinschaft gelten die
-Vorschriften der §§ 743, 744 mit der Maßgabe, dass an die Stelle des
-Ehegatten, der das Gesamtgut allein verwaltet, der überlebende
-Ehegatte, an die Stelle des anderen Ehegatten die anteilsberechtigten
-Abkömmlinge treten.
+§§ 743 und 744 mit der Maßgabe, dass
+
+1.  an die Stelle desjenigen Ehegatten oder Lebenspartners, der das
+    Gesamtgut allein verwaltet, der überlebende Ehegatte oder
+    Lebenspartner tritt und
+
+
+2.  an die Stelle des anderen Ehegatten oder Lebenspartners die
+    anteilsberechtigten Abkömmlinge treten.
+
+
+
 
 
 #### § 746
@@ -10864,7 +11662,7 @@ in den Fällen des § 709 die Vollstreckung gemäß § 712 Abs. 1 Satz 1
 abwenden, so gilt für ihn Satz 1 entsprechend.
 
 
-#### § 753 Vollstreckung durch Gerichtsvollzieher
+#### § 753 Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
 
 (1) Die Zwangsvollstreckung wird, soweit sie nicht den Gerichten
 zugewiesen ist, durch Gerichtsvollzieher durchgeführt, die sie im
@@ -10875,10 +11673,32 @@ Zwangsvollstreckung die Mitwirkung der Geschäftsstelle in Anspruch
 nehmen. Der von der Geschäftsstelle beauftragte Gerichtsvollzieher
 gilt als von dem Gläubiger beauftragt.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates verbindliche Formulare
-für den Auftrag nach Absatz 2 einzuführen. Für elektronisch
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+verbindliche Formulare für den Auftrag einzuführen. Für elektronisch
 eingereichte Aufträge können besondere Formulare vorgesehen werden.
+
+(4) Schriftlich einzureichende Anträge und Erklärungen der Parteien
+sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
+Übersetzungen und Erklärungen Dritter können als elektronisches
+Dokument beim Gerichtsvollzieher eingereicht werden. Für das
+elektronische Dokument gelten § 130a, auf dieser Grundlage erlassene
+Rechtsverordnungen sowie § 298 entsprechend. Die Bundesregierung kann
+in der Rechtsverordnung nach § 130a Absatz 2 Satz 2 besondere
+technische Rahmenbedingungen für die Übermittlung und Bearbeitung
+elektronischer Dokumente in Zwangsvollstreckungsverfahren durch
+Gerichtsvollzieher bestimmen.
+
+(5) § 130d gilt entsprechend.
+
+
+#### § 753a Vollmachtsnachweis
+
+Bei der Durchführung der Zwangsvollstreckung wegen Geldforderungen in
+das bewegliche Vermögen haben Bevollmächtigte nach § 79 Absatz 2 Satz
+1 und 2 Nummer 3 und 4 ihre ordnungsgemäße Bevollmächtigung zu
+versichern; des Nachweises einer Vollmacht bedarf es in diesen Fällen
+nicht. Satz 1 gilt nicht für Anträge nach § 802g.
 
 
 #### § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung
@@ -10896,6 +11716,50 @@ ermächtigt. Der Mangel oder die Beschränkung des Auftrags kann diesen
 Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
 
 
+#### § 754a Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
+
+(1) Im Fall eines elektronisch eingereichten Auftrags zur
+Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer
+Vollstreckungsklausel nicht bedarf, ist bei der Zwangsvollstreckung
+wegen Geldforderungen die Übermittlung der Ausfertigung des
+Vollstreckungsbescheides entbehrlich, wenn
+
+1.  die sich aus dem Vollstreckungsbescheid ergebende fällige
+    Geldforderung einschließlich titulierter Nebenforderungen und Kosten
+    nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind
+    bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie
+    allein Gegenstand des Vollstreckungsauftrags sind;
+
+
+2.  die Vorlage anderer Urkunden als der Ausfertigung des
+    Vollstreckungsbescheides nicht vorgeschrieben ist;
+
+
+3.  der Gläubiger dem Auftrag eine Abschrift des Vollstreckungsbescheides
+    nebst Zustellungsbescheinigung als elektronisches Dokument beifügt und
+
+
+4.  der Gläubiger versichert, dass ihm eine Ausfertigung des
+    Vollstreckungsbescheides und eine Zustellungsbescheinigung vorliegen
+    und die Forderung in Höhe des Vollstreckungsauftrags noch besteht.
+
+
+
+Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem
+Auftrag zusätzlich zu den in Satz 1 Nummer 3 genannten Dokumenten eine
+nachprüfbare Aufstellung der Kosten und entsprechende Belege als
+elektronisches Dokument beizufügen.
+
+(2) Hat der Gerichtsvollzieher Zweifel an dem Vorliegen einer
+Ausfertigung des Vollstreckungsbescheides oder der übrigen
+Vollstreckungsvoraussetzungen, teilt er dies dem Gläubiger mit und
+führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger die
+Ausfertigung des Vollstreckungsbescheides übermittelt oder die übrigen
+Vollstreckungsvoraussetzungen nachgewiesen hat.
+
+(3) (weggefallen)
+
+
 #### § 755 Ermittlung des Aufenthaltsorts des Schuldners
 
 (1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners
@@ -10903,7 +11767,20 @@ nicht bekannt, darf der Gerichtsvollzieher auf Grund des
 Vollstreckungsauftrags und der Übergabe der vollstreckbaren
 Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der
 Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt-
-und Nebenwohnung des Schuldners erheben.
+und Nebenwohnung des Schuldners erheben. Der Gerichtsvollzieher darf
+auch beauftragt werden, die gegenwärtigen Anschriften, den Ort der
+Hauptniederlassung oder den Sitz des Schuldners zu erheben
+
+1.  durch Einsicht in das Handels-, Genossenschafts-, Partnerschafts-,
+    Unternehmens- oder Vereinsregister oder
+
+
+2.  durch Einholung einer Auskunft bei den nach Landesrecht für die
+    Durchführung der Aufgaben nach § 14 Absatz 1 der Gewerbeordnung
+    zuständigen Behörden.
+
+
+
 
 (2) Soweit der Aufenthaltsort des Schuldners nach Absatz 1 nicht zu
 ermitteln ist, darf der Gerichtsvollzieher
@@ -10915,7 +11792,9 @@ ermitteln ist, darf der Gerichtsvollzieher
     Aufenthaltsort des Schuldners,
 
 
-2.  bei den Trägern der gesetzlichen Rentenversicherung die dort bekannte
+2.  bei den Trägern der gesetzlichen Rentenversicherung und bei einer
+    berufsständischen Versorgungseinrichtung im Sinne des § 6 Absatz 1
+    Satz 1 Nummer 1 des Sechsten Buches Sozialgesetzbuch die dort bekannte
     derzeitige Anschrift, den derzeitigen oder zukünftigen Aufenthaltsort
     des Schuldners sowie
 
@@ -10932,11 +11811,19 @@ oder des Verlusts des Freizügigkeitsrechts vorliegen. Eine
 Übermittlung der Daten nach Satz 1 Nummer 1 an den Gerichtsvollzieher
 ist ausgeschlossen, wenn der Schuldner Unionsbürger ist, für den eine
 Feststellung des Nichtbestehens oder des Verlusts des
-Freizügigkeitsrechts nicht vorliegt.Die Daten nach Satz 1 Nr. 2 und 3
-darf der Gerichtsvollzieher nur erheben, wenn die zu vollstreckenden
-Ansprüche mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung
-und Nebenforderungen sind bei der Berechnung nur zu berücksichtigen,
-wenn sie allein Gegenstand des Vollstreckungsauftrags sind.
+Freizügigkeitsrechts nicht vorliegt. Die Erhebung nach Satz 1 Nummer 2
+bei einer berufsständischen Versorgungseinrichtung darf der
+Gerichtsvollzieher nur durchführen, wenn der Gläubiger die
+berufsständische Versorgungseinrichtung bezeichnet und tatsächliche
+Anhaltspunkte nennt, die nahelegen, dass der Schuldner Mitglied dieser
+berufsständischen Versorgungseinrichtung ist.
+
+(3) Nach Absatz 1 oder Absatz 2 erhobene Daten, die innerhalb der
+letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf
+dieser auch in einem Zwangsvollstreckungsverfahren eines weiteren
+Gläubigers gegen denselben Schuldner verarbeiten, wenn die
+Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger
+vorliegen.
 
 
 #### § 756 Zwangsvollstreckung bei Leistung Zug um Zug
@@ -10966,6 +11853,69 @@ Ausfertigung zu vermerken und dem Schuldner Quittung zu erteilen.
 (2) Das Recht des Schuldners, nachträglich eine Quittung des
 Gläubigers selbst zu fordern, wird durch diese Vorschriften nicht
 berührt.
+
+
+#### § 757a Auskunfts- und Unterstützungsersuchen
+
+(1) Der Gerichtsvollzieher kann die zuständige Polizeidienststelle um
+Auskunft ersuchen, ob nach polizeilicher Einschätzung bei einer
+durchzuführenden Vollstreckungshandlung eine Gefahr für Leib oder
+Leben des Gerichtsvollziehers oder einer weiteren an der
+Vollstreckungshandlung beteiligten Person besteht.
+
+(2) In dem Auskunftsersuchen nach Absatz 1 ist Folgendes anzugeben:
+
+1.  Art und Ort der Vollstreckungshandlung,
+
+
+2.  Vornamen und Name des Schuldners,
+
+
+3.  soweit bekannt Geburtsname, Geburtsdatum und Geburtsort des Schuldners
+    sowie
+
+
+4.  Wohnanschrift des Schuldners.
+
+
+
+
+(3) Erteilt die Polizeidienststelle die Auskunft, dass nach
+polizeilicher Einschätzung eine Gefahr nach Absatz 1 besteht, so kann
+der Gerichtsvollzieher um Unterstützung durch die polizeilichen
+Vollzugsorgane bei der durchzuführenden Vollstreckungshandlung
+nachsuchen. Ein Unterstützungsersuchen kann der Gerichtsvollzieher
+auch zusammen mit einem Auskunftsersuchen nach Absatz 1 stellen.
+
+(4) Der Gerichtsvollzieher kann auch ohne Auskunftsersuchen ein
+Unterstützungsersuchen stellen, wenn
+
+1.  tatsächliche Anhaltspunkte für das Bestehen einer Gefahr nach Absatz 1
+    vorliegen oder
+
+
+2.  sich die Gefahr aus der Art der Vollstreckungshandlung ergibt.
+
+
+
+Auf Unterstützungsersuchen nach Satz 1 ist Absatz 2 entsprechend
+anzuwenden; bei Unterstützungsersuchen nach Satz 1 Nummer 1 hat der
+Gerichtsvollzieher zusätzlich die tatsächlichen Anhaltspunkte für das
+Vorliegen einer Gefahr nach Absatz 1 und, sofern die Gefahr von einer
+dritten Person ausgeht, die ihm bekannten Daten nach Absatz 2 Nummer 2
+bis 4 über die dritte Person anzugeben.
+
+(5) Über die Durchführung eines Auskunfts- oder eines
+Unterstützungsersuchens setzt der Gerichtsvollzieher den Schuldner
+oder, sofern Daten einer dritten Person nach Absatz 4 Satz 2 Halbsatz
+2 übermittelt worden sind, die dritte Person unverzüglich nach
+Erledigung des Vollstreckungsauftrags in Kenntnis. Abweichend von §
+760 Satz 1 darf in Bezug auf Inhalte der Akten des
+Gerichtsvollziehers, die in Zusammenhang mit einem Auskunfts- oder
+einem Unterstützungsersuchen stehen, neben dem Schuldner nur der
+dritten Person, deren Daten übermittelt worden sind, Akteneinsicht
+gestattet und eine Abschrift erteilt werden; § 760 Satz 2 bleibt
+unberührt.
 
 
 #### § 758 Durchsuchung; Gewaltanwendung
@@ -11011,24 +11961,26 @@ bis 6 Uhr.
 (5) Die Anordnung nach Absatz 1 ist bei der Zwangsvollstreckung
 vorzuzeigen.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den
-Antrag auf Erlass einer richterlichen Durchsuchungsanordnung nach
-Absatz 1 einzuführen. Soweit nach Satz 1 Formulare eingeführt sind,
-muss sich der Antragsteller ihrer bedienen. Für Verfahren bei
-Gerichten, die die Verfahren elektronisch bearbeiten, und für
-Verfahren bei Gerichten, die die Verfahren nicht elektronisch
-bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Formulare für den Antrag auf Erlass einer richterlichen
+Durchsuchungsanordnung nach Absatz 1 einzuführen. Soweit nach Satz 1
+Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen.
+Für Verfahren bei Gerichten, die die Verfahren elektronisch
+bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht
+elektronisch bearbeiten, können unterschiedliche Formulare eingeführt
+werden.
 
 
 #### § 759 Zuziehung von Zeugen
 
 Wird bei einer Vollstreckungshandlung Widerstand geleistet oder ist
 bei einer in der Wohnung des Schuldners vorzunehmenden
-Vollstreckungshandlung weder der Schuldner noch eine zu seiner Familie
-gehörige oder in dieser Familie dienende erwachsene Person anwesend,
-so hat der Gerichtsvollzieher zwei erwachsene Personen oder einen
-Gemeinde- oder Polizeibeamten als Zeugen zuzuziehen.
+Vollstreckungshandlung weder der Schuldner noch ein erwachsener
+Familienangehöriger, eine in der Familie beschäftigte Person oder ein
+erwachsener ständiger Mitbewohner anwesend, so hat der
+Gerichtsvollzieher zwei erwachsene Personen oder einen Gemeinde- oder
+Polizeibeamten als Zeugen zuzuziehen.
 
 
 #### § 760 Akteneinsicht; Aktenabschrift
@@ -11038,7 +11990,9 @@ auf Begehren Einsicht der Akten des Gerichtsvollziehers gestattet und
 Abschrift einzelner Aktenstücke erteilt werden. Werden die Akten des
 Gerichtsvollziehers elektronisch geführt, erfolgt die Gewährung von
 Akteneinsicht durch Erteilung von Ausdrucken, durch Übermittlung von
-elektronischen Dokumenten oder durch Wiedergabe auf einem Bildschirm.
+elektronischen Dokumenten oder durch Wiedergabe auf einem Bildschirm;
+dies gilt auch für die nach § 885a Absatz 2 Satz 2 elektronisch
+gespeicherten Dateien.
 
 
 #### § 761
@@ -11275,12 +12229,13 @@ gegenüber unwirksam ist. Der Nacherbe kann nach Maßgabe des § 771
 Widerspruch erheben.
 
 
-#### § 774 Drittwiderspruchsklage des Ehegatten
+#### § 774 Drittwiderspruchsklage des Ehegatten oder Lebenspartners
 
 Findet nach § 741 die Zwangsvollstreckung in das Gesamtgut statt, so
-kann ein Ehegatte nach Maßgabe des § 771 Widerspruch erheben, wenn das
-gegen den anderen Ehegatten ergangene Urteil in Ansehung des
-Gesamtgutes ihm gegenüber unwirksam ist.
+kann ein Ehegatte oder Lebenspartner nach Maßgabe des § 771
+Widerspruch erheben, wenn das gegen den anderen Ehegatten oder
+Lebenspartner ergangene Urteil in Ansehung des Gesamtgutes ihm
+gegenüber unwirksam ist.
 
 
 #### § 775 Einstellung oder Beschränkung der Zwangsvollstreckung
@@ -11449,8 +12404,8 @@ Gesetzes im Urteil vorbehalten ist.
 #### § 786a See- und binnenschifffahrtsrechtliche Haftungsbeschränkung
 
 (1) Die Vorschriften des § 780 Abs. 1 und des § 781 sind auf die nach
-§ 486 Abs. 1, 3, §§ 487 bis 487d des Handelsgesetzbuchs oder nach den
-§§ 4 bis 5m des Binnenschifffahrtsgesetzes eintretende beschränkte
+§ 611 Absatz 1 oder 3, §§ 612 bis 616 des Handelsgesetzbuchs oder nach
+den §§ 4 bis 5n des Binnenschifffahrtsgesetzes eintretende beschränkte
 Haftung entsprechend anzuwenden.
 
 (2) Ist das Urteil nach § 305a unter Vorbehalt ergangen, so gelten für
@@ -11469,9 +12424,9 @@ die Zwangsvollstreckung die folgenden Vorschriften:
     Schifffahrtsrechtlichen Verteilungsordnung anzuwenden.
 
 
-2.  Ist nach Artikel 11 des Haftungsbeschränkungsübereinkommens (§ 486
-    Abs. 1 des Handelsgesetzbuchs) von dem Schuldner oder für ihn ein
-    Fonds in einem anderen Vertragsstaat des Übereinkommens errichtet
+2.  Ist nach Artikel 11 des Haftungsbeschränkungsübereinkommens (§ 611
+    Absatz 1 Satz 1 des Handelsgesetzbuchs) von dem Schuldner oder für ihn
+    ein Fonds in einem anderen Vertragsstaat des Übereinkommens errichtet
     worden, so sind, sofern der Gläubiger den Anspruch gegen den Fonds
     geltend gemacht hat, die Vorschriften des § 50 der
     Schifffahrtsrechtlichen Verteilungsordnung anzuwenden. Hat der
@@ -11485,18 +12440,18 @@ die Zwangsvollstreckung die folgenden Vorschriften:
 
 
 3.  Ist von dem Schuldner oder für diesen ein Fonds in einem anderen
-    Vertragsstaat des Straßburger Übereinkommens über die Beschränkung der
-    Haftung in der Binnenschifffahrt - CLNI (BGBl. 1988 II S. 1643)
-    errichtet worden, so ist, sofern der Gläubiger den Anspruch gegen den
-    Fonds geltend gemacht hat, § 52 der Schifffahrtsrechtlichen
-    Verteilungsordnung anzuwenden. Hat der Gläubiger den Anspruch nicht
-    gegen den Fonds geltend gemacht oder sind die Voraussetzungen des § 52
-    Abs. 3 der Schifffahrtsrechtlichen Verteilungsordnung nicht gegeben,
-    so werden Einwendungen, die auf Grund des Rechts auf Beschränkung der
-    Haftung nach den §§ 4 bis 5m des Binnenschifffahrtsgesetzes erhoben
-    werden, nach den Vorschriften der §§ 767, 769, 770 erledigt; das
-    Gleiche gilt, wenn der Fonds in dem anderen Vertragsstaat erst bei
-    Geltendmachung des Rechts auf Beschränkung der Haftung errichtet wird.
+    Vertragsstaat des Straßburger Übereinkommens vom 27. September 2012
+    über die Beschränkung der Haftung in der Binnenschifffahrt (CLNI 2012)
+    (BGBl. 2016 II S. 738, 739) errichtet worden, so ist, sofern der
+    Gläubiger den Anspruch gegen den Fonds geltend machen kann, § 52 der
+    Schifffahrtsrechtlichen Verteilungsordnung anzuwenden. Sind die
+    Voraussetzungen des § 52 Absatz 3 der Schifffahrtsrechtlichen
+    Verteilungsordnung nicht gegeben, so werden Einwendungen, die auf
+    Grund des Rechts auf Beschränkung der Haftung nach den §§ 4 bis 5n des
+    Binnenschifffahrtsgesetzes erhoben werden, nach den §§ 767, 769, 770
+    erledigt; das Gleiche gilt, wenn der Fonds in dem anderen
+    Vertragsstaat erst bei Geltendmachung des Rechts auf Beschränkung der
+    Haftung errichtet wird.
 
 
 
@@ -11504,10 +12459,11 @@ die Zwangsvollstreckung die folgenden Vorschriften:
 (3) Ist das Urteil eines ausländischen Gerichts unter dem Vorbehalt
 ergangen, dass der Beklagte das Recht auf Beschränkung der Haftung
 geltend machen kann, wenn ein Fonds nach Artikel 11 des
-Haftungsbeschränkungsübereinkommens oder nach Artikel 11 des
-Straßburger Übereinkommens über die Beschränkung der Haftung in der
-Binnenschifffahrt errichtet worden ist oder bei Geltendmachung des
-Rechts auf Beschränkung der Haftung errichtet wird, so gelten für die
+Haftungsbeschränkungsübereinkommens oder nach Artikel 12 des
+Straßburger Übereinkommens vom 27. September 2012 über die
+Beschränkung der Haftung in der Binnenschifffahrt (CLNI 2012)
+errichtet worden ist oder bei Geltendmachung des Rechts auf
+Beschränkung der Haftung errichtet wird, so gelten für die
 Zwangsvollstreckung wegen des durch das Urteil festgestellten
 Anspruchs die Vorschriften des Absatzes 2 entsprechend.
 
@@ -11555,9 +12511,9 @@ erstatten, wenn das Urteil, aus dem die Zwangsvollstreckung erfolgt
 ist, aufgehoben wird.
 
 (4) Die Kosten eines Verfahrens nach den §§ 765a, 811a, 811b, 829,
-850k, 850l, 851a und 851b kann das Gericht ganz oder teilweise dem
-Gläubiger auferlegen, wenn dies aus besonderen, in dem Verhalten des
-Gläubigers liegenden Gründen der Billigkeit entspricht.
+850k, 851a, 851b, 900 und 904 bis 907 kann das Gericht ganz oder
+teilweise dem Gläubiger auferlegen, wenn dies aus besonderen, in dem
+Verhalten des Gläubigers liegenden Gründen der Billigkeit entspricht.
 
 
 #### § 789 Einschreiten von Behörden
@@ -11642,7 +12598,31 @@ statt.
     der sofortigen Zwangsvollstreckung unterworfen hat;
 
 
-6.  aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen.
+6.  aus für vollstreckbar erklärten Europäischen Zahlungsbefehlen nach der
+    Verordnung (EG) Nr. 1896/2006;
+
+
+7.  aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union
+    nach der Verordnung (EG) Nr. 805/2004 des Europäischen Parlaments und
+    des Rates vom 21. April 2004 zur Einführung eines Europäischen
+    Vollstreckungstitels für unbestrittene Forderungen als Europäische
+    Vollstreckungstitel bestätigt worden sind;
+
+
+8.  aus Titeln, die in einem anderen Mitgliedstaat der Europäischen Union
+    im Verfahren nach der Verordnung (EG) Nr. 861/2007 des Europäischen
+    Parlaments und des Rates vom 11. Juli 2007 zur Einführung eines
+    europäischen Verfahrens für geringfügige Forderungen (ABl. L 199 vom
+    31\.7.2007, S. 1; L 141 vom 5.6.2015, S. 118), die zuletzt durch die
+    Verordnung (EU) 2015/2421 (ABl. L 341 vom 24.12.2015, S. 1) geändert
+    worden ist, ergangen sind;
+
+
+9.  aus Titeln eines anderen Mitgliedstaats der Europäischen Union, die
+    nach der Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und
+    des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit
+    und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und
+    Handelssachen zu vollstrecken sind.
 
 
 
@@ -11690,13 +12670,13 @@ Zeitpunkt der Beendigung gewährt werden.
 
 Auf die Zwangsvollstreckung aus den in § 794 erwähnten Schuldtiteln
 sind die Vorschriften der §§ 724 bis 793 entsprechend anzuwenden,
-soweit nicht in den §§ 795a bis 800 abweichende Vorschriften enthalten
-sind. Auf die Zwangsvollstreckung aus den in § 794 Abs. 1 Nr. 2
-erwähnten Schuldtiteln ist § 720a entsprechend anzuwenden, wenn die
-Schuldtitel auf Urteilen beruhen, die nur gegen Sicherheitsleistung
-vorläufig vollstreckbar sind. Für die Zwangsvollstreckung aus für
-vollstreckbar erklärten Europäischen Zahlungsbefehlen gelten ergänzend
-die §§ 1093 bis 1096.
+soweit nicht in den §§ 795a bis 800, 1079 bis 1086, 1093 bis 1096 und
+1107 bis 1117 abweichende Vorschriften enthalten sind. Auf die
+Zwangsvollstreckung aus den in § 794 Abs. 1 Nr. 2 erwähnten
+Schuldtiteln ist § 720a entsprechend anzuwenden, wenn die Schuldtitel
+auf Urteilen beruhen, die nur gegen Sicherheitsleistung vorläufig
+vollstreckbar sind. Die Vorschriften der in § 794 Absatz 1 Nummer 6
+bis 9 genannten Verordnungen bleiben unberührt.
 
 
 #### § 795a Zwangsvollstreckung aus Kostenfestsetzungsbeschluss
@@ -11784,37 +12764,99 @@ Gericht angefochten werden.
 
 #### § 797 Verfahren bei vollstreckbaren Urkunden
 
-(1) Die vollstreckbare Ausfertigung gerichtlicher Urkunden wird von
-dem Urkundsbeamten der Geschäftsstelle des Gerichts erteilt, das die
-Urkunde verwahrt.
+(1) Die vollsteckbare Ausfertigung wird erteilt bei
 
-(2) Die vollstreckbare Ausfertigung notarieller Urkunden wird von dem
-Notar erteilt, der die Urkunde verwahrt. Befindet sich die Urkunde in
-der Verwahrung einer Behörde, so hat diese die vollstreckbare
-Ausfertigung zu erteilen.
+1.  gerichtlichen Urkunden von dem Urkundsbeamten der Geschäftsstelle des
+    die Urkunde verwahrenden Gerichts,
+
+
+2.  notariellen Urkunden von
+
+    a)  dem die Urkunde verwahrenden Notar,
+
+
+    b)  der die Urkunde verwahrenden Notarkammer oder
+
+
+    c)  dem die Urkunde verwahrenden Amtsgericht.
+
+
+
+
+
+
+
+(2) Die Entscheidung über die Erteilung einer weiteren vollstreckbaren
+Ausfertigung wird getroffen bei
+
+1.  gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht,
+
+
+2.  notariellen Urkunden von
+
+    a)  dem die Urkunde verwahrenden Notar,
+
+
+    b)  der die Urkunde verwahrenden Notarkammer oder
+
+
+    c)  dem die Urkunde verwahrenden Amtsgericht.
+
+
+
+
+
+
 
 (3) Die Entscheidung über Einwendungen, welche die Zulässigkeit der
-Vollstreckungsklausel betreffen, sowie die Entscheidung über Erteilung
-einer weiteren vollstreckbaren Ausfertigung wird bei gerichtlichen
-Urkunden von dem im ersten Absatz bezeichneten Gericht, bei
-notariellen Urkunden von dem Amtsgericht getroffen, in dessen Bezirk
-der im zweiten Absatz bezeichnete Notar oder die daselbst bezeichnete
-Behörde den Amtssitz hat.
+Vollstreckungsklausel und die Zulässigkeit der Erteilung einer
+weiteren vollstreckbaren Ausfertigung betreffen, wird getroffen bei
+
+1.  gerichtlichen Urkunden von dem die Urkunde verwahrenden Gericht,
+
+
+2.  notariellen Urkunden von dem Amtsgericht,
+
+    a)  in dessen Bezirk der die Urkunde verwahrende Notar seinen Amtssitz
+        hat,
+
+
+    b)  in dessen Bezirk die die Urkunde verwahrende Notarkammer ihren Sitz
+        hat oder
+
+
+    c)  das die Urkunde verwahrt.
+
+
+
+
+
+
 
 (4) Auf die Geltendmachung von Einwendungen, die den Anspruch selbst
-betreffen, ist die beschränkende Vorschrift des § 767 Abs. 2 nicht
-anzuwenden.
+betreffen, ist § 767 Absatz 2 nicht anzuwenden.
 
-(5) Für Klagen auf Erteilung der Vollstreckungsklausel sowie für
-Klagen, durch welche die den Anspruch selbst betreffenden Einwendungen
-geltend gemacht werden oder der bei der Erteilung der
-Vollstreckungsklausel als bewiesen angenommene Eintritt der
-Voraussetzung für die Erteilung der Vollstreckungsklausel bestritten
-wird, ist das Gericht, bei dem der Schuldner im Inland seinen
-allgemeinen Gerichtsstand hat, und sonst das Gericht zuständig, bei
-dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
+(5) Das Gericht, bei dem der Schuldner im Inland seinen allgemeinen
+Gerichtsstand hat, ist zuständig für
 
-(6) Auf Beschlüsse nach § 796c sind die Absätze 2 bis 5 entsprechend
+1.  Klagen auf Erteilung der Vollstreckungsklausel,
+
+
+2.  Klagen, durch welche die den Anspruch selbst betreffenden Einwendungen
+    geltend gemacht werden, und
+
+
+3.  Klagen, durch welche der bei der Erteilung der Vollstreckungsklausel
+    als bewiesen angenommene Eintritt der Voraussetzung für die Erteilung
+    der Vollstreckungsklausel bestritten wird.
+
+
+
+Hat der Schuldner im Inland keinen allgemeinen Gerichtsstand, so ist
+das Gericht zuständig, bei dem nach § 23 gegen den Schuldner Klage
+erhoben werden kann.
+
+(6) Auf Beschlüsse nach § 796c sind die Absätze 1 bis 5 entsprechend
 anzuwenden.
 
 
@@ -11865,8 +12907,9 @@ Rechtsnachfolge nachweisenden öffentlichen oder öffentlich
 beglaubigten Urkunde nicht erforderlich, wenn der Rechtsnachfolger als
 Gläubiger im Grundbuch eingetragen ist.
 
+Schadensersatzpflicht bei der
 
-#### § 799a Schadensersatzpflicht bei der Vollstreckung aus Urkunden durch andere Gläubiger
+#### § 799a Vollstreckung aus Urkunden durch andere Gläubiger
 
 Hat sich der Eigentümer eines Grundstücks in Ansehung einer Hypothek
 oder Grundschuld in einer Urkunde nach § 794 Abs. 1 Nr. 5 der
@@ -11929,6 +12972,10 @@ gesamten Bundesgebiet vollstreckt werden.
 #### § 802 Ausschließlichkeit der Gerichtsstände
 
 Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
+
+
+### Abschnitt 2 - Zwangsvollstreckung wegen Geldforderungen
+
 
 
 #### Titel 1 - Allgemeine Vorschriften
@@ -12019,9 +13066,10 @@ Beweismittel zu bezeichnen. Ferner sind anzugeben:
 
 
 
-Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich
-nicht unterworfen sind, brauchen nicht angegeben zu werden, es sei
-denn, dass eine Austauschpfändung in Betracht kommt.
+Sachen, die nach § 811 Absatz 1 Nummer 1 Buchstabe a und Nummer 2 der
+Pfändung offensichtlich nicht unterworfen sind, brauchen nicht
+angegeben zu werden, es sei denn, dass eine Austauschpfändung in
+Betracht kommt.
 
 (3) Der Schuldner hat zu Protokoll an Eides statt zu versichern, dass
 er die Angaben nach den Absätzen 1 und 2 nach bestem Wissen und
@@ -12029,21 +13077,22 @@ Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§
 478 bis 480, 483 gelten entsprechend.
 
 
-##### § 802d Erneute Vermögensauskunft
+##### § 802d Weitere Vermögensauskunft
 
-(1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses
-Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei
-Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn
-ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche
+(1) Der Schuldner ist innerhalb von zwei Jahren nach Abgabe der
+Vermögensauskunft nach § 802c oder nach § 284 der Abgabenordnung nicht
+verpflichtet, eine weitere Vermögensauskunft abzugeben, es sei denn,
+ein Gläubiger macht Tatsachen glaubhaft, die auf eine wesentliche
 Veränderung der Vermögensverhältnisse des Schuldners schließen lassen.
-Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck
-des letzten abgegebenen Vermögensverzeichnisses zu. Der Gläubiger darf
-die erlangten Daten nur zu Vollstreckungszwecken nutzen und hat die
-Daten nach Zweckerreichung zu löschen; hierauf ist er vom
-Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach
-Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und
-belehrt ihn über die Möglichkeit der Eintragung in das
-Schuldnerverzeichnis (§ 882c).
+Besteht keine Pflicht zur Abgabe einer Vermögensauskunft nach Satz 1,
+leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten
+abgegebenen Vermögensverzeichnisses zu; ein Verzicht des Gläubigers
+auf die Zuleitung ist unbeachtlich. Der Gläubiger darf die erlangten
+Daten nur zu Vollstreckungszwecken verarbeiten und hat die Daten nach
+Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher
+hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der
+Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die
+Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
 
 (2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf
 Antrag das Vermögensverzeichnis als elektronisches Dokument
@@ -12074,7 +13123,10 @@ Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe
 der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner
 zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur
 Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin
-beizubringen.
+beizubringen. Der Fristsetzung nach Satz 1 bedarf es nicht, wenn der
+Gerichtsvollzieher den Schuldner bereits zuvor zur Zahlung
+aufgefordert hat und seit dieser Aufforderung zwei Wochen verstrichen
+sind, ohne dass die Aufforderung Erfolg hatte.
 
 (2) Abweichend von Absatz 1 kann der Gerichtsvollzieher bestimmen,
 dass die Abgabe der Vermögensauskunft in der Wohnung des Schuldners
@@ -12099,12 +13151,12 @@ dieser einen Prozessbevollmächtigten bestellt hat; einer Mitteilung an
 den Prozessbevollmächtigten bedarf es nicht. Dem Gläubiger ist die
 Terminsbestimmung nach Maßgabe des § 357 Abs. 2 mitzuteilen.
 
-(5) Der Gerichtsvollzieher errichtet eine Aufstellung mit den nach §
-802c Absatz 1 und 2 erforderlichen Angaben als elektronisches Dokument
-(Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor Abgabe
-der Versicherung nach § 802c Abs. 3 vorzulesen oder zur Durchsicht auf
-einem Bildschirm wiederzugeben. Dem Schuldner ist auf Verlangen ein
-Ausdruck zu erteilen.
+(5) Der Gerichtsvollzieher errichtet in einem elektronischen Dokument
+eine Aufstellung mit den nach § 802c Absatz 1 und 2 erforderlichen
+Angaben (Vermögensverzeichnis). Diese Angaben sind dem Schuldner vor
+Abgabe der Versicherung nach § 802c Abs. 3 vorzulesen oder zur
+Durchsicht auf einem Bildschirm wiederzugeben. Dem Schuldner ist auf
+Verlangen ein Ausdruck zu erteilen.
 
 (6) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem
 zentralen Vollstreckungsgericht nach § 802k Abs. 1 und leitet dem
@@ -12124,8 +13176,9 @@ Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner
 Vollziehung bedarf es nicht.
 
 (2) Die Verhaftung des Schuldners erfolgt durch einen
-Gerichtsvollzieher. Dem Schuldner ist der Haftbefehl bei der
-Verhaftung in beglaubigter Abschrift zu übergeben.
+Gerichtsvollzieher. Der Gerichtsvollzieher händigt dem Schuldner von
+Amts wegen bei der Verhaftung eine beglaubigte Abschrift des
+Haftbefehls aus.
 
 
 ##### § 802h Unzulässigkeit der Haftvollstreckung
@@ -12219,20 +13272,20 @@ Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz
 1 wahrzunehmen hat. Sie können diese Befugnis auf die
 Landesjustizverwaltungen übertragen. Das zentrale
 Vollstreckungsgericht nach Absatz 1 kann andere Stellen mit der
-Datenverarbeitung beauftragen; die jeweiligen datenschutzrechtlichen
-Bestimmungen über die Verarbeitung personenbezogener Daten im Auftrag
-sind anzuwenden.
+Datenverarbeitung beauftragen; die datenschutzrechtlichen Vorschriften
+über die Verarbeitung personenbezogener Daten im Auftrag sind zu
+beachten.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des
-Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung und Löschung der
-Vermögensverzeichnisse nach § 802f Abs. 5 dieses Gesetzes und nach §
-284 Abs. 7 der Abgabenordnung oder gleichwertigen Regelungen im Sinne
-von Absatz 1 Satz 2 sowie der Einsichtnahme, insbesondere durch ein
-automatisiertes Abrufverfahren, zu regeln. Die Rechtsverordnung hat
-geeignete Regelungen zur Sicherung des Datenschutzes und der
-Datensicherheit vorzusehen. Insbesondere ist sicherzustellen, dass die
-Vermögensverzeichnisse
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Einzelheiten des Inhalts, der Form, Aufnahme, Übermittlung, Verwaltung
+und Löschung der Vermögensverzeichnisse nach § 802f Abs. 5 dieses
+Gesetzes und nach § 284 Abs. 7 der Abgabenordnung oder gleichwertigen
+Regelungen im Sinne von Absatz 1 Satz 2 sowie der Einsichtnahme,
+insbesondere durch ein automatisiertes Abrufverfahren, zu regeln. Die
+Rechtsverordnung hat geeignete Regelungen zur Sicherung des
+Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist
+sicherzustellen, dass die Vermögensverzeichnisse
 
 1.  bei der Übermittlung an das zentrale Vollstreckungsgericht nach Absatz
     1 sowie bei der Weitergabe an die anderen Stellen nach Absatz 3 Satz 3
@@ -12251,51 +13304,116 @@ Vermögensverzeichnisse
 
 
 
+(5) Macht eine betroffene Person das Auskunftsrecht nach Artikel 15
+Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
+des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) in Bezug auf personenbezogene Daten geltend, die in
+den von den zentralen Vollstreckungsgerichten nach Absatz 1
+verwalteten Vermögensverzeichnissen enthalten sind, so sind der
+betroffenen Person im Hinblick auf die Empfänger, denen die
+personenbezogenen Daten offengelegt worden sind oder noch offengelegt
+werden, nur die Kategorien berechtigter Empfänger mitzuteilen. Das
+Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU) 2016/679 findet
+in Bezug auf die personenbezogenen Daten, die in den von den zentralen
+Vollstreckungsgerichten nach Absatz 1 verwalteten
+Vermögensverzeichnissen enthalten sind, keine Anwendung.
+
 
 ##### § 802l Auskunftsrechte des Gerichtsvollziehers
 
-(1) Kommt der Schuldner seiner Pflicht zur Abgabe der
-Vermögensauskunft nicht nach oder ist bei einer Vollstreckung in die
-dort aufgeführten Vermögensgegenstände eine vollständige Befriedigung
-des Gläubigers voraussichtlich nicht zu erwarten, so darf der
-Gerichtsvollzieher
+(1) Der Gerichtsvollzieher darf vorbehaltlich der Sätze 2 und 3
+folgende Maßnahmen durchführen, soweit sie zur Vollstreckung
+erforderlich sind:
 
-1.  bei den Trägern der gesetzlichen Rentenversicherung den Namen, die
-    Vornamen oder die Firma sowie die Anschriften der derzeitigen
-    Arbeitgeber eines versicherungspflichtigen Beschäftigungsverhältnisses
-    des Schuldners erheben;
-
-
-2.  das Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten
-    die in § 93b Abs. 1 der Abgabenordnung bezeichneten Daten abzurufen (§
-    93 Abs. 8 Abgabenordnung);
+1.  Erhebung des Namens und der Vornamen oder der Firma sowie der
+    Anschrift der derzeitigen Arbeitgeber des Schuldners bei den Trägern
+    der gesetzlichen Rentenversicherung und bei einer berufsständischen
+    Versorgungseinrichtung im Sinne des § 6 Absatz 1 Satz 1 Nummer 1 des
+    Sechsten Buches Sozialgesetzbuch;
 
 
-3.  beim Kraftfahrt-Bundesamt die Fahrzeug- und Halterdaten nach § 33 Abs.
-    1 des Straßenverkehrsgesetzes zu einem Fahrzeug, als dessen Halter der
-    Schuldner eingetragen ist, erheben.
+2.  Ersuchen an das Bundeszentralamt für Steuern, bei den Kreditinstituten
+    die in § 93b Absatz 1 und 1a der Abgabenordnung bezeichneten Daten,
+    ausgenommen die Identifikationsnummer nach § 139b der Abgabenordnung,
+    abzurufen (§ 93 Absatz 8 der Abgabenordnung);
+
+
+3.  Erhebung der Fahrzeug- und Halterdaten nach § 33 Absatz 1 des
+    Straßenverkehrsgesetzes beim Kraftfahrt-Bundesamt zu einem Fahrzeug,
+    als dessen Halter der Schuldner eingetragen ist.
 
 
 
-Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur
-Vollstreckung erforderlich ist und die zu vollstreckenden Ansprüche
-mindestens 500 Euro betragen; Kosten der Zwangsvollstreckung und
-Nebenforderungen sind bei der Berechnung nur zu berücksichtigen, wenn
-sie allein Gegenstand des Vollstreckungsauftrags sind.
+Maßnahmen nach Satz 1 sind nur zulässig, wenn
+
+1.  die Ladung zu dem Termin zur Abgabe der Vermögensauskunft an den
+    Schuldner nicht zustellbar ist und
+
+    a)  die Anschrift, unter der die Zustellung ausgeführt werden sollte, mit
+        der Anschrift übereinstimmt, die von einer der in § 755 Absatz 1 und 2
+        genannten Stellen innerhalb von drei Monaten vor oder nach dem
+        Zustellungsversuch mitgeteilt wurde, oder
+
+
+    b)  die Meldebehörde nach dem Zustellungsversuch die Auskunft erteilt,
+        dass ihr keine derzeitige Anschrift des Schuldners bekannt ist, oder
+
+
+    c)  die Meldebehörde innerhalb von drei Monaten vor Erteilung des
+        Vollstreckungsauftrags die Auskunft erteilt hat, dass ihr keine
+        derzeitige Anschrift des Schuldners bekannt ist;
+
+
+
+
+
+2.  der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft in dem
+    der Maßnahme nach Satz 1 zugrundeliegenden Vollstreckungsverfahren
+    nicht nachkommt oder
+
+
+3.  bei einer Vollstreckung in die in der Vermögensauskunft aufgeführten
+    Vermögensgegenstände eine vollständige Befriedigung des Gläubigers
+    nicht zu erwarten ist.
+
+
+
+Die Erhebung nach Satz 1 Nummer 1 bei einer berufsständischen
+Versorgungseinrichtung ist zusätzlich zu den Voraussetzungen des
+Satzes 2 nur zulässig, wenn der Gläubiger die berufsständische
+Versorgungseinrichtung bezeichnet und tatsächliche Anhaltspunkte
+nennt, die nahelegen, dass der Schuldner Mitglied dieser
+berufsständischen Versorgungseinrichtung ist.
 
 (2) Daten, die für die Zwecke der Vollstreckung nicht erforderlich
-sind, hat der Gerichtsvollzieher unverzüglich zu löschen oder zu
-sperren. Die Löschung ist zu protokollieren.
+sind, hat der Gerichtsvollzieher unverzüglich zu löschen oder deren
+Verarbeitung einzuschränken. Die Löschung ist zu protokollieren.
 
 (3) Über das Ergebnis einer Erhebung oder eines Ersuchens nach Absatz
 1 setzt der Gerichtsvollzieher den Gläubiger unter Beachtung des
 Absatzes 2 unverzüglich und den Schuldner innerhalb von vier Wochen
-nach Erhalt in Kenntnis. § 802d Abs. 1 Satz 3 und Abs. 2 gilt
+nach Erhalt in Kenntnis. § 802d Absatz 1 Satz 3 und Absatz 2 gilt
 entsprechend.
 
+(4) Nach Absatz 1 Satz 1 erhobene Daten, die innerhalb der letzten
+drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser
+auch einem weiteren Gläubiger übermitteln, wenn die Voraussetzungen
+für die Datenerhebung auch bei diesem Gläubiger vorliegen. Der
+Gerichtsvollzieher hat dem weiteren Gläubiger die Tatsache, dass die
+Daten in einem anderen Verfahren erhoben wurden, und den Zeitpunkt
+ihres Eingangs bei ihm mitzuteilen. Eine erneute Auskunft ist auf
+Antrag des weiteren Gläubigers einzuholen, wenn Anhaltspunkte dafür
+vorliegen, dass seit dem Eingang der Auskunft eine Änderung der
+Vermögensverhältnisse, über die nach Absatz 1 Satz 1 Auskunft
+eingeholt wurde, eingetreten ist.
 
-### Abschnitt 2 - Zwangsvollstreckung wegen Geldforderungen
-
+(5) Übermittelt der Gerichtsvollzieher Daten nach Absatz 4 Satz 1 an
+einen weiteren Gläubiger, so hat er den Schuldner davon innerhalb von
+vier Wochen nach der Übermittlung in Kenntnis zu setzen; § 802d Absatz
+1 Satz 3 und Absatz 2 gilt entsprechend.
 
 
 #### Titel 2 - Zwangsvollstreckung in das bewegliche Vermögen
@@ -12451,119 +13569,122 @@ nicht die Pfändung für einen im Falle der Zwangsvollstreckung in das
 Grundstück vorgehenden Anspruch erfolgt ist.
 
 
-###### § 811 Unpfändbare Sachen
+###### § 811 Unpfändbare Sachen und Tiere
 
-(1) Folgende Sachen sind der Pfändung nicht unterworfen:
+(1) Nicht der Pfändung unterliegen
 
-1.  die dem persönlichen Gebrauch oder dem Haushalt dienenden Sachen,
-    insbesondere Kleidungsstücke, Wäsche, Betten, Haus- und Küchengerät,
-    soweit der Schuldner ihrer zu einer seiner Berufstätigkeit und seiner
-    Verschuldung angemessenen, bescheidenen Lebens- und Haushaltsführung
-    bedarf; ferner Gartenhäuser, Wohnlauben und ähnliche Wohnzwecken
-    dienende Einrichtungen, die der Zwangsvollstreckung in das bewegliche
-    Vermögen unterliegen und deren der Schuldner oder seine Familie zur
-    ständigen Unterkunft bedarf;
+1.  Sachen, die der Schuldner oder eine Person, mit der er in einem
+    gemeinsamen Haushalt zusammenlebt, benötigt
+
+    a)  für eine bescheidene Lebens- und Haushaltsführung;
 
 
-2.  die für den Schuldner, seine Familie und seine Hausangehörigen, die
-    ihm im Haushalt helfen, auf vier Wochen erforderlichen Nahrungs-,
-    Feuerungs- und Beleuchtungsmittel oder, soweit für diesen Zeitraum
-    solche Vorräte nicht vorhanden und ihre Beschaffung auf anderem Wege
-    nicht gesichert ist, der zur Beschaffung erforderliche Geldbetrag;
+    b)  für die Ausübung einer Erwerbstätigkeit oder eine damit in
+        Zusammenhang stehende Aus- oder Fortbildung;
 
 
-3.  Kleintiere in beschränkter Zahl sowie eine Milchkuh oder nach Wahl des
-    Schuldners statt einer solchen insgesamt zwei Schweine, Ziegen oder
-    Schafe, wenn diese Tiere für die Ernährung des Schuldners, seiner
-    Familie oder Hausangehörigen, die ihm im Haushalt, in der
-    Landwirtschaft oder im Gewerbe helfen, erforderlich sind; ferner die
-    zur Fütterung und zur Streu auf vier Wochen erforderlichen Vorräte
-    oder, soweit solche Vorräte nicht vorhanden sind und ihre Beschaffung
-    für diesen Zeitraum auf anderem Wege nicht gesichert ist, der zu ihrer
-    Beschaffung erforderliche Geldbetrag;
+    c)  aus gesundheitlichen Gründen;
 
 
-4.  bei Personen, die Landwirtschaft betreiben, das zum Wirtschaftsbetrieb
-    erforderliche Gerät und Vieh nebst dem nötigen Dünger sowie die
-    landwirtschaftlichen Erzeugnisse, soweit sie zur Sicherung des
-    Unterhalts des Schuldners, seiner Familie und seiner Arbeitnehmer oder
-    zur Fortführung der Wirtschaft bis zur nächsten Ernte gleicher oder
-    ähnlicher Erzeugnisse erforderlich sind;
-
-
-4a. bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als
-    Vergütung gelieferten Naturalien, soweit der Schuldner ihrer zu seinem
-    und seiner Familie Unterhalt bedarf;
-
-
-5.  bei Personen, die aus ihrer körperlichen oder geistigen Arbeit oder
-    sonstigen persönlichen Leistungen ihren Erwerb ziehen, die zur
-    Fortsetzung dieser Erwerbstätigkeit erforderlichen Gegenstände;
-
-
-6.  bei den Witwen und minderjährigen Erben der unter Nummer 5
-    bezeichneten Personen, wenn sie die Erwerbstätigkeit für ihre Rechnung
-    durch einen Stellvertreter fortführen, die zur Fortführung dieser
-    Erwerbstätigkeit erforderlichen Gegenstände;
-
-
-7.  Dienstkleidungsstücke sowie Dienstausrüstungsgegenstände, soweit sie
-    zum Gebrauch des Schuldners bestimmt sind, sowie bei Beamten,
-    Geistlichen, Rechtsanwälten, Notaren, Ärzten und Hebammen die zur
-    Ausübung des Berufes erforderlichen Gegenstände einschließlich
-    angemessener Kleidung;
-
-
-8.  bei Personen, die wiederkehrende Einkünfte der in den §§ 850 bis 850b
-    dieses Gesetzes oder der in § 54 Abs. 3 bis 5 des Ersten Buches
-    Sozialgesetzbuch bezeichneten Art oder laufende Kindergeldleistungen
-    beziehen, ein Geldbetrag, der dem der Pfändung nicht unterworfenen
-    Teil der Einkünfte für die Zeit von der Pfändung bis zu dem nächsten
-    Zahlungstermin entspricht;
-
-
-9.  die zum Betrieb einer Apotheke unentbehrlichen Geräte, Gefäße und
-    Waren;
-
-
-10. die Bücher, die zum Gebrauch des Schuldners und seiner Familie in der
-    Kirche oder Schule oder einer sonstigen Unterrichtsanstalt oder bei
-    der häuslichen Andacht bestimmt sind;
-
-
-11. die in Gebrauch genommenen Haushaltungs- und Geschäftsbücher, die
-    Familienpapiere sowie die Trauringe, Orden und Ehrenzeichen;
-
-
-12. künstliche Gliedmaßen, Brillen und andere wegen körperlicher Gebrechen
-    notwendige Hilfsmittel, soweit diese Gegenstände zum Gebrauch des
-    Schuldners und seiner Familie bestimmt sind;
-
-
-13. die zur unmittelbaren Verwendung für die Bestattung bestimmten
-    Gegenstände.
+    d)  zur Ausübung von Religion oder Weltanschauung oder als Gegenstand
+        religiöser oder weltanschaulicher Verehrung, wenn ihr Wert 500 Euro
+        nicht übersteigt;
 
 
 
 
-(2) Eine in Absatz 1 Nr. 1, 4, 5 bis 7 bezeichnete Sache kann
-gepfändet werden, wenn der Verkäufer wegen einer durch
-Eigentumsvorbehalt gesicherten Geldforderung aus ihrem Verkauf
-vollstreckt. Die Vereinbarung des Eigentumsvorbehaltes ist durch
-Urkunden nachzuweisen.
+
+2.  Gartenhäuser, Wohnlauben und ähnliche Einrichtungen, die der Schuldner
+    oder dessen Familie als ständige Unterkunft nutzt und die der
+    Zwangsvollstreckung in das bewegliche Vermögen unterliegen;
+
+
+3.  Bargeld
+
+    a)  für den Schuldner, der eine natürliche Person ist, in Höhe von einem
+        Fünftel,
+
+
+    b)  für jede weitere Person, mit der der Schuldner in einem gemeinsamen
+        Haushalt zusammenlebt, in Höhe von einem Zehntel
+
+
+
+    des täglichen Freibetrages nach § 850c Absatz 1 Nummer 3 in Verbindung
+    mit Absatz 4 Nummer 1 für jeden Kalendertag ab dem Zeitpunkt der
+    Pfändung bis zu dem Ende des Monats, in dem die Pfändung bewirkt wird;
+    der Gerichtsvollzieher kann im Einzelfall nach pflichtgemäßem Ermessen
+    einen abweichenden Betrag festsetzen;
+
+
+4.  Unterlagen, zu deren Aufbewahrung eine gesetzliche Verpflichtung
+    besteht oder die der Schuldner oder eine Person, mit der er in einem
+    gemeinsamen Haushalt zusammenlebt, zu Buchführungs- oder
+    Dokumentationszwecken benötigt;
+
+
+5.  private Aufzeichnungen, durch deren Verwertung in
+    Persönlichkeitsrechte eingegriffen wird;
+
+
+6.  öffentliche Urkunden, die der Schuldner, dessen Familie oder eine
+    Person, mit der er in einem gemeinsamen Haushalt zusammenlebt, für
+    Beweisführungszwecke benötigt;
+
+
+7.  Trauringe, Orden und Ehrenzeichen;
+
+
+8.  Tiere, die der Schuldner oder eine Person, mit der er in einem
+    gemeinsamen Haushalt zusammenlebt,
+
+    a)  nicht zu Erwerbszwecken hält oder
+
+
+    b)  für die Ausübung einer Erwerbstätigkeit benötigt,
+
+
+
+    sowie das für diese Tiere erforderliche Futter und die erforderliche
+    Streu.
+
+
+
+
+(2) Eine in Absatz 1 Nummer 1 Buchstabe a und b sowie Nummer 2
+bezeichnete Sache oder ein in Absatz 1 Nummer 8 Buchstabe b
+bezeichnetes Tier kann abweichend von Absatz 1 gepfändet werden, wenn
+der Verkäufer wegen einer durch Eigentumsvorbehalt gesicherten
+Geldforderung aus dem Verkauf der Sache oder des Tieres vollstreckt.
+Die Vereinbarung des Eigentumsvorbehaltes ist durch eine Urkunde
+nachzuweisen.
+
+(3) Auf Antrag des Gläubigers lässt das Vollstreckungsgericht die
+Pfändung eines in Absatz 1 Nummer 8 Buchstabe a bezeichneten Tieres
+zu, wenn dieses einen hohen Wert hat und die Unpfändbarkeit für den
+Gläubiger eine Härte bedeuten würde, die auch unter Würdigung der
+Belange des Tierschutzes und der berechtigten Interessen des
+Schuldners nicht zu rechtfertigen ist.
+
+(4) Sachen, die der Schuldner für eine Lebens- und Haushaltsführung
+benötigt, die nicht als bescheiden angesehen werden kann, sollen nicht
+gepfändet werden, wenn offensichtlich ist, dass durch ihre Verwertung
+nur ein Erlös erzielt würde, der in keinem Verhältnis zum
+Anschaffungswert steht.
 
 
 ###### § 811a Austauschpfändung
 
-(1) Die Pfändung einer nach § 811 Abs. 1 Nr. 1, 5 und 6 unpfändbaren
-Sache kann zugelassen werden, wenn der Gläubiger dem Schuldner vor der
-Wegnahme der Sache ein Ersatzstück, das dem geschützten
-Verwendungszweck genügt, oder den zur Beschaffung eines solchen
-Ersatzstückes erforderlichen Geldbetrag überlässt; ist dem Gläubiger
-die rechtzeitige Ersatzbeschaffung nicht möglich oder nicht zuzumuten,
-so kann die Pfändung mit der Maßgabe zugelassen werden, dass dem
-Schuldner der zur Ersatzbeschaffung erforderliche Geldbetrag aus dem
-Vollstreckungserlös überlassen wird (Austauschpfändung).
+(1) Die Pfändung einer nach § 811 Absatz 1 Nummer 1 Buchstabe a und b
+und Nummer 2 unpfändbaren Sache kann zugelassen werden, wenn der
+Gläubiger dem Schuldner vor der Wegnahme der Sache ein Ersatzstück,
+das dem geschützten Verwendungszweck genügt, oder den zur Beschaffung
+eines solchen Ersatzstückes erforderlichen Geldbetrag überlässt; ist
+dem Gläubiger die rechtzeitige Ersatzbeschaffung nicht möglich oder
+nicht zuzumuten, so kann die Pfändung mit der Maßgabe zugelassen
+werden, dass dem Schuldner der zur Ersatzbeschaffung erforderliche
+Geldbetrag aus dem Vollstreckungserlös überlassen wird
+(Austauschpfändung).
 
 (2) Über die Zulässigkeit der Austauschpfändung entscheidet das
 Vollstreckungsgericht auf Antrag des Gläubigers durch Beschluss. Das
@@ -12608,19 +13729,7 @@ Zwangsvollstreckung erfolgen erst nach Erlass des Beschlusses gemäß §
 entsprechend.
 
 
-###### § 811c Unpfändbarkeit von Haustieren
-
-(1) Tiere, die im häuslichen Bereich und nicht zu Erwerbszwecken
-gehalten werden, sind der Pfändung nicht unterworfen.
-
-(2) Auf Antrag des Gläubigers lässt das Vollstreckungsgericht eine
-Pfändung wegen des hohen Wertes des Tieres zu, wenn die Unpfändbarkeit
-für den Gläubiger eine Härte bedeuten würde, die auch unter Würdigung
-der Belange des Tierschutzes und der berechtigten Interessen des
-Schuldners nicht zu rechtfertigen ist.
-
-
-###### § 811d Vorwegpfändung
+###### § 811c Vorwegpfändung
 
 (1) Ist zu erwarten, dass eine Sache demnächst pfändbar wird, so kann
 sie gepfändet werden, ist aber im Gewahrsam des Schuldners zu
@@ -12631,12 +13740,8 @@ Sache pfändbar geworden ist.
 Jahres pfändbar geworden ist.
 
 
-###### § 812 Pfändung von Hausrat
+###### § 812 (weggefallen)
 
-Gegenstände, die zum gewöhnlichen Hausrat gehören und im Haushalt des
-Schuldners gebraucht werden, sollen nicht gepfändet werden, wenn ohne
-weiteres ersichtlich ist, dass durch ihre Verwertung nur ein Erlös
-erzielt werden würde, der zu dem Wert außer allem Verhältnis steht.
 
 
 ###### § 813 Schätzung
@@ -12655,12 +13760,24 @@ Gerichtsvollziehers elektronisch geführt, so ist das Ergebnis der
 Schätzung in einem gesonderten elektronischen Dokument zu vermerken.
 Das Dokument ist mit dem Pfändungsprotokoll untrennbar zu verbinden.
 
-(3) Zur Pfändung von Früchten, die von dem Boden noch nicht getrennt
-sind, und zur Pfändung von Gegenständen der in § 811 Abs. 1 Nr. 4
-bezeichneten Art bei Personen, die Landwirtschaft betreiben, soll ein
-landwirtschaftlicher Sachverständiger zugezogen werden, sofern
-anzunehmen ist, dass der Wert der zu pfändenden Gegenstände den Betrag
-von 500 Euro übersteigt.
+(3) Sollen bei Personen, die Landwirtschaft betreiben,
+
+1.  Früchte, die vom Boden noch nicht getrennt sind,
+
+
+2.  Sachen nach § 811 Absatz 1 Nummer 1 Buchstabe b,
+
+
+3.  Tiere nach § 811 Absatz 1 Nummer 8 Buchstabe b oder
+
+
+4.  landwirtschaftliche Erzeugnisse
+
+
+
+gepfändet werden, so soll ein landwirtschaftlicher Sachverständiger
+herangezogen werden, sofern anzunehmen ist, dass der Wert dieser
+Sachen und Tiere insgesamt den Betrag von 2 000 Euro übersteigt.
 
 (4) Die Landesjustizverwaltung kann bestimmen, dass auch in anderen
 Fällen ein Sachverständiger zugezogen werden soll.
@@ -12679,7 +13796,7 @@ Fällen ein Sachverständiger zugezogen werden soll.
 (1) Die gepfändeten Sachen sind von dem Gerichtsvollzieher öffentlich
 zu versteigern;
 Kostbarkeiten sind vor der Versteigerung durch einen Sachverständigen
-abzuschätzen.
+abzuschätzen.\*)
 
 (2) Eine öffentliche Versteigerung kann nach Wahl des
 Gerichtsvollziehers
@@ -12707,8 +13824,9 @@ nach Absatz 2 Nummer 2 durch Rechtsverordnung
     Versteigerung; soweit die Zulassung zur Teilnahme oder der Ausschluss
     von einer Versteigerung einen Identitätsnachweis natürlicher Personen
     vorsieht, ist spätestens ab dem 1. Januar 2013 auch die Nutzung des
-    elektronischen Identitätsnachweises (§ 18 des Personalausweisgesetzes)
-    zu diesem Zweck zu ermöglichen,
+    elektronischen Identitätsnachweises (§ 18 des Personalausweisgesetzes,
+    § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des
+    Aufenthaltsgesetzes) zu diesem Zweck zu ermöglichen,
 
 
 4.  Beginn, Ende und Abbruch der Versteigerung,
@@ -12963,23 +14081,28 @@ Vollstreckung geboten erscheint und kein Grund zu der Annahme besteht,
 dass schutzwürdige Interessen der Drittschuldner entgegenstehen.
 
 (2) Der Gläubiger hat den Beschluss dem Drittschuldner zustellen zu
-lassen. Der Gerichtsvollzieher hat den Beschluss mit einer Abschrift
-der Zustellungsurkunde dem Schuldner sofort zuzustellen, sofern nicht
-eine öffentliche Zustellung erforderlich wird. An Stelle einer an den
-Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung
-durch Aufgabe zur Post.
+lassen. Der Gerichtsvollzieher hat dem Schuldner den Beschluss mit dem
+Zustellungsnachweis sofort zuzustellen, sofern nicht eine öffentliche
+Zustellung erforderlich ist. An Stelle einer an den Schuldner im
+Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe
+zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr.
+1393/2007 noch nach dem Abkommen zwischen der Europäischen
+Gemeinschaft und dem Königreich Dänemark über die Zustellung
+gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und
+Handelssachen vom 19. Oktober 2005 (ABl. L 300 vom 17.11.2005, S. 55,
+L 120 vom 5.5.2006, S. 23) zu bewirken ist.
 
 (3) Mit der Zustellung des Beschlusses an den Drittschuldner ist die
 Pfändung als bewirkt anzusehen.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den
-Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
-einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich
-der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die
-Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten,
-die die Verfahren nicht elektronisch bearbeiten, können
-unterschiedliche Formulare eingeführt werden.
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Formulare für den Antrag auf Erlass eines Pfändungs- und
+Überweisungsbeschlusses einzuführen. Soweit nach Satz 1 Formulare
+eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für
+Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten,
+und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch
+bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 
 ###### § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
@@ -12991,19 +14114,19 @@ bedarf, ist bei Pfändung und Überweisung einer Geldforderung (§§ 829,
 entbehrlich, wenn
 
 1.  die sich aus dem Vollstreckungsbescheid ergebende fällige
-    Geldforderung nicht mehr als 5 000 Euro beträgt; Kosten der
-    Zwangsvollstreckung und Nebenforderungen sind bei der Berechnung der
-    Forderungshöhe nur zu berücksichtigen, wenn sie allein Gegenstand des
-    Vollstreckungsantrags sind;
+    Geldforderung einschließlich titulierter Nebenforderungen und Kosten
+    nicht mehr als 5 000 Euro beträgt; Kosten der Zwangsvollstreckung sind
+    bei der Berechnung der Forderungshöhe nur zu berücksichtigen, wenn sie
+    allein Gegenstand des Vollstreckungsantrags sind;
 
 
 2.  die Vorlage anderer Urkunden als der Ausfertigung des
     Vollstreckungsbescheides nicht vorgeschrieben ist;
 
 
-3.  der Gläubiger eine Ausfertigung oder eine Abschrift des
-    Vollstreckungsbescheides nebst Zustellungsbescheinigung als
-    elektronisches Dokument dem Antrag beifügt und
+3.  der Gläubiger eine Abschrift des Vollstreckungsbescheides nebst
+    Zustellungsbescheinigung als elektronisches Dokument dem Antrag
+    beifügt und
 
 
 4.  der Gläubiger versichert, dass ihm eine Ausfertigung des
@@ -13024,7 +14147,7 @@ und führt die Zwangsvollstreckung erst durch, nachdem der Gläubiger
 die Ausfertigung des Vollstreckungsbescheides übermittelt oder die
 übrigen Vollstreckungsvoraussetzungen nachgewiesen hat.
 
-(3) § 130a Abs. 2 bleibt unberührt.
+(3) (weggefallen)
 
 
 ###### § 830 Pfändung einer Hypothekenforderung
@@ -13126,30 +14249,20 @@ Forderung an den Schuldner als befriedigt anzusehen ist.
 (3) Die Vorschriften des § 829 Abs. 2, 3 sind auf die Überweisung
 entsprechend anzuwenden. Wird ein bei einem Kreditinstitut gepfändetes
 Guthaben eines Schuldners, der eine natürliche Person ist, dem
-Gläubiger überwiesen, so darf erst vier Wochen nach der Zustellung des
+Gläubiger überwiesen, so darf erst einen Monat nach der Zustellung des
 Überweisungsbeschlusses an den Drittschuldner aus dem Guthaben an den
 Gläubiger geleistet oder der Betrag hinterlegt werden; ist künftiges
 Guthaben gepfändet worden, ordnet das Vollstreckungsgericht auf Antrag
-zusätzlich an, dass erst vier Wochen nach der Gutschrift von
+zusätzlich an, dass erst einen Monat nach der Gutschrift von
 eingehenden Zahlungen an den Gläubiger geleistet oder der Betrag
 hinterlegt werden darf.
 
-(4) Wird künftiges Guthaben auf einem Pfändungsschutzkonto im Sinne
-von § 850k Absatz 7 gepfändet und dem Gläubiger überwiesen, darf der
-Drittschuldner erst nach Ablauf des nächsten auf die jeweilige
-Gutschrift von eingehenden Zahlungen folgenden Kalendermonats an den
-Gläubiger leisten oder den Betrag hinterlegen. Das
-Vollstreckungsgericht kann auf Antrag des Gläubigers eine abweichende
-Anordnung treffen, wenn die Regelung des Satzes 1 unter voller
-Würdigung des Schutzbedürfnisses des Schuldners für den Gläubiger eine
-unzumutbare Härte verursacht.
-
-(5) Wenn nicht wiederkehrend zahlbare Vergütungen eines Schuldners,
+(4) Wenn nicht wiederkehrend zahlbare Vergütungen eines Schuldners,
 der eine natürliche Person ist, für persönlich geleistete Arbeiten
 oder Dienste oder sonstige Einkünfte, die kein Arbeitseinkommen sind,
-dem Gläubiger überwiesen werden, so darf der Drittschuldner erst vier
-Wochen nach der Zustellung des Überweisungsbeschlusses an den
-Gläubiger leisten oder den Betrag hinterlegen.
+dem Gläubiger überwiesen werden, so darf der Drittschuldner erst einen
+Monat nach der Zustellung des Überweisungsbeschlusses an den Gläubiger
+leisten oder den Betrag hinterlegen.
 
 
 ###### § 836 Wirkung der Überweisung
@@ -13257,25 +14370,31 @@ Gläubiger zu erklären:
 
 
 4.  ob innerhalb der letzten zwölf Monate im Hinblick auf das Konto,
-    dessen Guthaben gepfändet worden ist, nach § 850l die Unpfändbarkeit
-    des Guthabens angeordnet worden ist, und
+    dessen Guthaben gepfändet worden ist, nach § 907 die Unpfändbarkeit
+    des Guthabens festgesetzt worden ist, und
 
 
 5.  ob es sich bei dem Konto, dessen Guthaben gepfändet worden ist, um ein
-    Pfändungsschutzkonto im Sinne von § 850k Abs. 7 handelt.
+    Pfändungsschutzkonto im Sinne des § 850k oder ein Gemeinschaftskonto
+    im Sinne des § 850l handelt; bei einem Gemeinschaftskonto ist zugleich
+    anzugeben, ob der Schuldner nur gemeinsam mit einer oder mehreren
+    anderen Personen verfügungsbefugt ist.
 
 
 
 
 (2) Die Aufforderung zur Abgabe dieser Erklärungen muss in die
-Zustellungsurkunde aufgenommen werden. Der Drittschuldner haftet dem
+Zustellungsurkunde aufgenommen werden; bei Zustellungen nach § 193a
+muss die Aufforderung als elektronisches Dokument zusammen mit dem
+Pfändungsbeschluss übermittelt werden. Der Drittschuldner haftet dem
 Gläubiger für den aus der Nichterfüllung seiner Verpflichtung
 entstehenden Schaden.
 
-(3) Die Erklärungen des Drittschuldners können bei Zustellung des
-Pfändungsbeschlusses oder innerhalb der im ersten Absatz bestimmten
-Frist an den Gerichtsvollzieher erfolgen. Im ersteren Fall sind sie in
-die Zustellungsurkunde aufzunehmen und von dem Drittschuldner zu
+(3) Die Erklärungen des Drittschuldners können innerhalb der in Absatz
+1 bestimmten Frist auch gegenüber dem Gerichtsvollzieher abgegeben
+werden. Werden die Erklärungen bei einer Zustellung des
+Pfändungsbeschlusses nach § 193 abgegeben, so sind sie in die
+Zustellungsurkunde aufzunehmen und von dem Drittschuldner zu
 unterschreiben.
 
 
@@ -13327,7 +14446,12 @@ Forderung, insbesondere ihrer Einziehung, zu enthalten. Der
 Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen
 selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich
 beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu
-bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post.
+bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post,
+sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007
+noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem
+Königreich Dänemark über die Zustellung gerichtlicher und
+außergerichtlicher Schriftstücke in Zivil- und Handelssachen zu
+bewirken ist.
 
 (2) Die Benachrichtigung an den Drittschuldner hat die Wirkung eines
 Arrestes (§ 930), sofern die Pfändung der Forderung innerhalb eines
@@ -13452,12 +14576,15 @@ Unpfändbar sind
     übersteigen;
 
 
-4.  Weihnachtsvergütungen bis zum Betrag der Hälfte des monatlichen
-    Arbeitseinkommens, höchstens aber bis zum Betrag von 500 Euro;
+4.  Weihnachtsvergütungen bis zu der Hälfte des Betrages, dessen Höhe sich
+    nach Aufrundung des monatlichen Freibetrages nach § 850c Absatz 1 in
+    Verbindung mit Absatz 4 auf den nächsten vollen 10-Euro-Betrag ergibt;
 
 
-5.  Heirats- und Geburtsbeihilfen, sofern die Vollstreckung wegen anderer
-    als der aus Anlass der Heirat oder der Geburt entstandenen Ansprüche
+5.  Geburtsbeihilfen sowie Beihilfen aus Anlass der Eingehung einer Ehe
+    oder Begründung einer Lebenspartnerschaft, sofern die Vollstreckung
+    wegen anderer als der aus Anlass der Geburt, der Eingehung einer Ehe
+    oder der Begründung einer Lebenspartnerschaft entstandenen Ansprüche
     betrieben wird;
 
 
@@ -13495,7 +14622,7 @@ Unpfändbar sind
     Unterstützungszwecken gewährt werden, ferner Ansprüche aus
     Lebensversicherungen, die nur auf den Todesfall des
     Versicherungsnehmers abgeschlossen sind, wenn die Versicherungssumme
-    3\.579 Euro nicht übersteigt.
+    5 400 Euro nicht übersteigt.
 
 
 
@@ -13517,130 +14644,117 @@ Beteiligten hören.
 (1) Arbeitseinkommen ist unpfändbar, wenn es, je nach dem Zeitraum,
 für den es gezahlt wird, nicht mehr als
 
-*    *   930 Euro
-
-    *   1) monatlich,
+1.  1 178,59 Euro monatlich,
 
 
-*    *   217,50 Euro
-
-    *   2) wöchentlich oder
+2.  271,24 Euro wöchentlich oder
 
 
-*    *   43,50 Euro
-
-    *   3) täglich,
+3.  54,25 Euro täglich
 
 
 
-beträgt. Gewährt der Schuldner auf Grund einer gesetzlichen
-Verpflichtung seinem Ehegatten, einem früheren Ehegatten, seinem
-Lebenspartner, einem früheren Lebenspartner oder einem Verwandten oder
-nach §§ 1615l, 1615n des Bürgerlichen Gesetzbuchs einem Elternteil
-Unterhalt, so erhöht sich der Betrag, bis zu dessen Höhe
-Arbeitseinkommen unpfändbar ist, auf bis zu
+beträgt.
 
-*    *   2.060 Euro
+(2) Gewährt der Schuldner auf Grund einer gesetzlichen Verpflichtung
+seinem Ehegatten, einem früheren Ehegatten, seinem Lebenspartner,
+einem früheren Lebenspartner, einem Verwandten oder nach den §§ 1615l
+und 1615n des Bürgerlichen Gesetzbuchs einem Elternteil Unterhalt, so
+erhöht sich der Betrag nach Absatz 1 für die erste Person, der
+Unterhalt gewährt wird, und zwar um
 
-    *   4) monatlich,
-
-
-*    *   478,50 Euro
-
-    *   5) wöchentlich oder
+1.  443,57 Euro monatlich,
 
 
-*    *   96,50 Euro
+2.  102,08 Euro wöchentlich oder
 
-    *   6) täglich,
+
+3.  20,42 Euro täglich.
 
 
 
-und zwar um
+Für die zweite bis fünfte Person, der Unterhalt gewährt wird, erhöht
+sich der Betrag nach Absatz 1 um je
 
-*    *   350 Euro
-
-    *   7) monatlich,
-
-
-*    *   81 Euro
-
-    *   8) wöchentlich oder
+1.  247,12 Euro monatlich,
 
 
-*    *   17 Euro
+2.  56,87 Euro wöchentlich oder
 
-    *   9) täglich,
+
+3.  11,37 Euro täglich.
 
 
 
-für die erste Person, der Unterhalt gewährt wird, und um je
 
-*    *   195 Euro
+(3) Übersteigt das Arbeitseinkommen den Betrag nach Absatz 1, so ist
+es hinsichtlich des überschießenden Teils in Höhe von drei Zehnteln
+unpfändbar. Gewährt der Schuldner nach Absatz 2 Unterhalt, so sind für
+die erste Person weitere zwei Zehntel und für die zweite bis fünfte
+Person jeweils ein weiteres Zehntel unpfändbar. Der Teil des
+Arbeitseinkommens, der
 
-    *   10) monatlich,
-
-
-*    *   45 Euro
-
-    *   11) wöchentlich oder
-
-
-*    *   9 Euro
-
-    *   12) täglich
+1.  3 613,08 Euro monatlich,
 
 
+2.  831,50 Euro wöchentlich oder
 
-für die zweite bis fünfte Person.
 
-(2) Übersteigt das Arbeitseinkommen den Betrag, bis zu dessen Höhe es
-je nach der Zahl der Personen, denen der Schuldner Unterhalt gewährt,
-nach Absatz 1 unpfändbar ist, so ist es hinsichtlich des
-überschießenden Betrages zu einem Teil unpfändbar, und zwar in Höhe
-von drei Zehnteln, wenn der Schuldner keiner der in Absatz 1 genannten
-Personen Unterhalt gewährt, zwei weiteren Zehnteln für die erste
-Person, der Unterhalt gewährt wird, und je einem weiteren Zehntel für
-die zweite bis fünfte Person. Der Teil des Arbeitseinkommens, der
-2\.851 Euro 13) monatlich (658 Euro 14) wöchentlich, 131,58 Euro 15)
-täglich) übersteigt, bleibt bei der Berechnung des unpfändbaren
-Betrages unberücksichtigt.
+3.  166,30 Euro täglich
 
-(2a) Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 ändern
-sich jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1.
-Juli 2003, entsprechend der im Vergleich zum jeweiligen
-Vorjahreszeitraum sich ergebenden prozentualen Entwicklung des
-Grundfreibetrages nach § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes;
-der Berechnung ist die am 1. Januar des jeweiligen Jahres geltende
-Fassung des § 32a Abs. 1 Nr. 1 des Einkommensteuergesetzes zugrunde zu
-legen. Das Bundesministerium der Justiz gibt die maßgebenden Beträge
-rechtzeitig im Bundesgesetzblatt bekannt.
 
-(3) Bei der Berechnung des nach Absatz 2 pfändbaren Teils des
-Arbeitseinkommens ist das Arbeitseinkommen, gegebenenfalls nach Abzug
-des nach Absatz 2 Satz 2 pfändbaren Betrages, wie aus der Tabelle
-ersichtlich, die diesem Gesetz als Anlage beigefügt ist, nach unten
-abzurunden, und zwar bei Auszahlung für Monate auf einen durch 10
-Euro, bei Auszahlung für Wochen auf einen durch 2,50 Euro oder bei
-Auszahlung für Tage auf einen durch 50 Cent teilbaren Betrag. Im
+
+übersteigt, bleibt bei der Berechnung des unpfändbaren Betrages
+unberücksichtigt.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz macht
+im Bundesgesetzblatt Folgendes bekannt
+(Pfändungsfreigrenzenbekanntmachung):
+
+1.  die Höhe des unpfändbaren Arbeitseinkommens nach Absatz 1,
+
+
+2.  die Höhe der Erhöhungsbeträge nach Absatz 2,
+
+
+3.  die Höhe der in Absatz 3 Satz 3 genannten Höchstbeträge.
+
+
+
+Die Beträge werden jeweils zum 1. Juli eines Jahres entsprechend der
+im Vergleich zum jeweiligen Vorjahreszeitraum sich ergebenden
+prozentualen Entwicklung des Grundfreibetrages nach § 32a Absatz 1
+Satz 2 Nummer 1 des Einkommensteuergesetzes angepasst; der Berechnung
+ist die am 1. Januar des jeweiligen Jahres geltende Fassung des § 32a
+Absatz 1 Satz 2 Nummer 1 des Einkommensteuergesetzes zugrunde zu
+legen.
+
+(5) Um den nach Absatz 3 pfändbaren Teil des Arbeitseinkommens zu
+berechnen, ist das Arbeitseinkommen, gegebenenfalls nach Abzug des
+nach Absatz 3 Satz 3 pfändbaren Betrages, auf eine Zahl abzurunden,
+die bei einer Auszahlung für
+
+1.  Monate bei einer Teilung durch 10 eine natürliche Zahl ergibt,
+
+
+2.  Wochen bei einer Teilung durch 2,5 eine natürliche Zahl ergibt,
+
+
+3.  Tage bei einer Teilung durch 0,5 eine natürliche Zahl ergibt.
+
+
+
+Die sich aus der Berechnung nach Satz 1 ergebenden Beträge sind in der
+Pfändungsfreigrenzenbekanntmachung als Tabelle enthalten. Im
 Pfändungsbeschluss genügt die Bezugnahme auf die Tabelle.
 
-(4) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher
+(6) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher
 Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das
 Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen
 bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils
 des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt;
-soll die Person nur teilweise berücksichtigt werden, so ist Absatz 3
-Satz 2 nicht anzuwenden.
------
-Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 sind durch
-Bekanntmachung zu § 850c der Zivilprozessordnung
-(Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl.
-I S. 493) geändert worden:
-1) 985,15 Euro; 2) 226,72 Euro; 3) 45,34 Euro; 4) 2.182,15 Euro; 5)
-502,20 Euro; 6) 100,44 Euro; 7) 370,76 Euro; 8) 85,32 Euro; 9) 17,06
-Euro; 10) 206,56 Euro; 11) 47,54 Euro; 12) 9,51 Euro; 13) 3.020,06
-Euro; 14) 695,03 Euro; 15) 139,01 Euro.
+soll die Person nur teilweise berücksichtigt werden, so ist Absatz 5
+Satz 3 nicht anzuwenden.
 
 
 ###### § 850d Pfändbarkeit bei Unterhaltsansprüchen
@@ -13749,19 +14863,19 @@ Für die Berechnung des pfändbaren Arbeitseinkommens gilt Folgendes:
 nach den Bestimmungen der §§ 850c, 850d und 850i pfändbaren Teil
 seines Arbeitseinkommens einen Teil belassen, wenn
 
-a)  der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen
-    entsprechend der Anlage zu diesem Gesetz (zu § 850c) der notwendige
-    Lebensunterhalt im Sinne des Dritten und Elften Kapitels des Zwölften
-    Buches Sozialgesetzbuch oder nach Kapitel 3 Abschnitt 2 des Zweiten
-    Buches Sozialgesetzbuch für sich und für die Personen, denen er
-    Unterhalt zu gewähren hat, nicht gedeckt ist,
+1.  der Schuldner nachweist, dass bei Anwendung der Pfändungsfreigrenzen
+    entsprechend § 850c der notwendige Lebensunterhalt im Sinne des
+    Dritten und Vierten Kapitels des Zwölften Buches Sozialgesetzbuch oder
+    nach Kapitel 3 Abschnitt 2 des Zweiten Buches Sozialgesetzbuch für
+    sich und für die Personen, denen er gesetzlich zum Unterhalt
+    verpflichtet ist, nicht gedeckt ist,
 
 
-b)  besondere Bedürfnisse des Schuldners aus persönlichen oder beruflichen
+2.  besondere Bedürfnisse des Schuldners aus persönlichen oder beruflichen
     Gründen oder
 
 
-c)  der besondere Umfang der gesetzlichen Unterhaltspflichten des
+3.  der besondere Umfang der gesetzlichen Unterhaltspflichten des
     Schuldners, insbesondere die Zahl der Unterhaltsberechtigten, dies
     erfordern
 
@@ -13777,27 +14891,7 @@ Beschränkungen bestimmen; dem Schuldner ist jedoch so viel zu
 belassen, wie er für seinen notwendigen Unterhalt und zur Erfüllung
 seiner laufenden gesetzlichen Unterhaltspflichten bedarf.
 
-(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und
-in § 850d bezeichneten Forderungen betrieben, so kann das
-Vollstreckungsgericht in den Fällen, in denen sich das
-Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro 1)
-(wöchentlich 641 Euro 2), täglich 123,50 Euro 3)) beläuft, über die
-Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des
-Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des
-Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem
-Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei
-einem Arbeitseinkommen von monatlich 2 815 Euro 1) (wöchentlich 641
-Euro 2), täglich 123,50 Euro 3)) aus § 850c ergeben würde. Die Beträge
-nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a
-getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres,
-erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz
-gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.
------
-
-[^Betrag1_BJNR005330950BJNE106309160]:     Die Beträge haben sich infolge der Bekanntmachung zu § 850c der
-    Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25.
-    Februar 2005 (BGBl. I S. 493) geändert:                             1)
-    2 985 Euro; 2) 678,70 Euro; 3) 131,25 Euro.
+(3) (weggefallen)
 
 
 ###### § 850g Änderung der Unpfändbarkeitsvoraussetzungen
@@ -13860,156 +14954,79 @@ gesetzlichen Vorschriften über die Pfändung von Ansprüchen bestimmter
 Art bleiben unberührt.
 
 
-###### § 850k Pfändungsschutzkonto
+###### § 850k Einrichtung und Beendigung des Pfändungsschutzkontos
 
-(1) Wird das Guthaben auf dem Pfändungsschutzkonto des Schuldners bei
-einem Kreditinstitut gepfändet, kann der Schuldner jeweils bis zum
-Ende des Kalendermonats über Guthaben in Höhe des monatlichen
-Freibetrages nach § 850c Abs. 1 Satz 1 in Verbindung mit § 850c Abs.
-2a verfügen; insoweit wird es nicht von der Pfändung erfasst. Zum
-Guthaben im Sinne des Satzes 1 gehört auch das Guthaben, das bis zum
-Ablauf der Frist des § 835 Absatz 4 nicht an den Gläubiger geleistet
-oder hinterlegt werden darf. Soweit der Schuldner in dem jeweiligen
-Kalendermonat nicht über Guthaben in Höhe des nach Satz 1
-pfändungsfreien Betrages verfügt hat, wird dieses Guthaben in dem
-folgenden Kalendermonat zusätzlich zu dem nach Satz 1 geschützten
-Guthaben nicht von der Pfändung erfasst. Die Sätze 1 bis 3 gelten
-entsprechend, wenn das Guthaben auf einem Girokonto des Schuldners
-gepfändet ist, das vor Ablauf von vier Wochen seit der Zustellung des
-Überweisungsbeschlusses an den Drittschuldner in ein
-Pfändungsschutzkonto umgewandelt wird.
+(1) Eine natürliche Person kann jederzeit von dem Kreditinstitut
+verlangen, dass ein von ihr dort geführtes Zahlungskonto als
+Pfändungsschutzkonto geführt wird. Satz 1 gilt auch, wenn das
+Zahlungskonto zum Zeitpunkt des Verlangens einen negativen Saldo
+aufweist. Ein Pfändungsschutzkonto darf jedoch ausschließlich auf
+Guthabenbasis geführt werden.
 
-(2) Die Pfändung des Guthabens gilt im Übrigen als mit der Maßgabe
-ausgesprochen, dass in Erhöhung des Freibetrages nach Absatz 1
-folgende Beträge nicht von der Pfändung erfasst sind:
+(2) Ist Guthaben auf dem Zahlungskonto bereits gepfändet worden, kann
+der Schuldner die Führung dieses Kontos als Pfändungsschutzkonto zum
+Beginn des vierten auf sein Verlangen folgenden Geschäftstages
+fordern. Das Vertragsverhältnis zwischen dem Kontoinhaber und dem
+Kreditinstitut bleibt im Übrigen unberührt.
 
-1.  die pfändungsfreien Beträge nach § 850c Abs. 1 Satz 2 in Verbindung
-    mit § 850c Abs. 2a Satz 1, wenn
+(3) Jede Person darf nur ein Pfändungsschutzkonto unterhalten. Bei dem
+Verlangen nach Absatz 1 hat der Kunde gegenüber dem Kreditinstitut zu
+versichern, dass er kein weiteres Pfändungsschutzkonto unterhält.
 
-    a)  der Schuldner einer oder mehreren Personen aufgrund gesetzlicher
-        Verpflichtung Unterhalt gewährt oder
+(4) Unterhält ein Schuldner entgegen Absatz 3 Satz 1 mehrere
+Zahlungskonten als Pfändungsschutzkonten, ordnet das
+Vollstreckungsgericht auf Antrag des Gläubigers an, dass nur das von
+dem Gläubiger in seinem Antrag bezeichnete Zahlungskonto dem Schuldner
+als Pfändungsschutzkonto verbleibt. Der Gläubiger hat den Umstand,
+dass ein Schuldner entgegen Satz 1 mehrere Zahlungskonten als
+Pfändungsschutzkonten unterhält, durch Vorlage entsprechender
+Erklärungen der Drittschuldner glaubhaft zu machen. Eine Anhörung des
+Schuldners durch das Vollstreckungsgericht unterbleibt. Die Anordnung
+nach Satz 1 ist allen Drittschuldnern zuzustellen. Mit der Zustellung
+der Anordnung an diejenigen Kreditinstitute, deren Zahlungskonten
+nicht zum Pfändungsschutzkonto bestimmt sind, entfallen die Wirkungen
+dieser Pfändungsschutzkonten.
 
-
-    b)  der Schuldner Geldleistungen nach dem Zweiten oder Zwölften Buch
-        Sozialgesetzbuch für mit ihm in einer Gemeinschaft im Sinne des § 7
-        Abs. 3 des Zweiten Buches Sozialgesetzbuch oder der §§ 19, 20, 36 Satz
-        1 oder 43 des Zwölften Buches Sozialgesetzbuch lebende Personen, denen
-        er nicht aufgrund gesetzlicher Vorschriften zum Unterhalt verpflichtet
-        ist, entgegennimmt;
-
-
-
+(5) Der Kontoinhaber kann mit einer Frist von mindestens vier
+Geschäftstagen zum Monatsende von dem Kreditinstitut verlangen, dass
+das dort geführte Pfändungsschutzkonto als Zahlungskonto ohne
+Pfändungsschutz geführt wird. Absatz 2 Satz 2 gilt entsprechend.
 
 
-2.  einmalige Geldleistungen im Sinne des § 54 Abs. 2 des Ersten Buches
-    Sozialgesetzbuch und Geldleistungen zum Ausgleich des durch einen
-    Körper- oder Gesundheitsschaden bedingten Mehraufwandes im Sinne des §
-    54 Abs. 3 Nr. 3 des Ersten Buches Sozialgesetzbuch;
+###### § 850l Pfändung des Gemeinschaftskontos
 
+(1) Unterhält der Schuldner, der eine natürliche Person ist, mit einer
+anderen natürlichen oder mit einer juristischen Person oder mit einer
+Mehrheit von Personen ein Gemeinschaftskonto und wird Guthaben auf
+diesem Konto gepfändet, so darf das Kreditinstitut erst nach Ablauf
+von einem Monat nach Zustellung des Überweisungsbeschlusses aus dem
+Guthaben an den Gläubiger leisten oder den Betrag hinterlegen. Satz 1
+gilt auch für künftiges Guthaben.
 
-3.  das Kindergeld oder andere Geldleistungen für Kinder, es sei denn,
-    dass wegen einer Unterhaltsforderung eines Kindes, für das die
-    Leistungen gewährt oder bei dem es berücksichtigt wird, gepfändet
-    wird.
+(2) Ist der Schuldner eine natürliche Person, kann er innerhalb des
+Zeitraums nach Absatz 1 Satz 1 von dem Kreditinstitut verlangen,
+bestehendes oder künftiges Guthaben von dem Gemeinschaftskonto auf ein
+bei dem Kreditinstitut allein auf seinen Namen lautendes Zahlungskonto
+zu übertragen. Wird Guthaben nach Satz 1 übertragen und verlangt der
+Schuldner innerhalb des Zeitraums nach Absatz 1 Satz 1, dass das
+Zahlungskonto als Pfändungsschutzkonto geführt wird, so gelten für die
+Einrichtung des Pfändungsschutzkontos § 850k und für das übertragene
+Guthaben die Regelungen des Buches 8 Abschnitt 4. Für die Übertragung
+nach Satz 1 ist eine Mitwirkung anderer Kontoinhaber oder des
+Gläubigers nicht erforderlich. Der Übertragungsbetrag beläuft sich auf
+den Kopfteil des Schuldners an dem Guthaben. Sämtliche Kontoinhaber
+und der Gläubiger können sich auf eine von Satz 4 abweichende
+Aufteilung des Übertragungsbetrages einigen; die Vereinbarung ist dem
+Kreditinstitut in Textform mitzuteilen.
 
+(3) Absatz 2 Satz 1 und 3 bis 5 ist auf natürliche Personen, mit denen
+der Schuldner das Gemeinschaftskonto unterhält, entsprechend
+anzuwenden.
 
-
-Für die Beträge nach Satz 1 gilt Absatz 1 Satz 3 entsprechend.
-
-(3) An die Stelle der nach Absatz 1 und Absatz 2 Satz 1 Nr. 1
-pfändungsfreien Beträge tritt der vom Vollstreckungsgericht im
-Pfändungsbeschluss belassene Betrag, wenn das Guthaben wegen der in §
-850d bezeichneten Forderungen gepfändet wird.
-
-(4) Das Vollstreckungsgericht kann auf Antrag einen von den Absätzen
-1, 2 Satz 1 Nr. 1 und Absatz 3 abweichenden pfändungsfreien Betrag
-festsetzen. Die §§ 850a, 850b, 850c, 850d Abs. 1 und 2, die §§ 850e,
-850f, 850g und 850i sowie die §§ 851c und 851d dieses Gesetzes sowie §
-54 Abs. 2, Abs. 3 Nr. 1, 2 und 3, Abs. 4 und 5 des Ersten Buches
-Sozialgesetzbuch, § 17 Abs. 1 Satz 2 des Zwölften Buches
-Sozialgesetzbuch und § 76 des Einkommensteuergesetzes sind
-entsprechend anzuwenden. Im Übrigen ist das Vollstreckungsgericht
-befugt, die in § 732 Abs. 2 bezeichneten Anordnungen zu erlassen.
-
-(5) Das Kreditinstitut ist dem Schuldner zur Leistung aus dem nach
-Absatz 1 und 3 nicht von der Pfändung erfassten Guthaben im Rahmen des
-vertraglich Vereinbarten verpflichtet. Dies gilt für die nach Absatz 2
-nicht von der Pfändung erfassten Beträge nur insoweit, als der
-Schuldner durch eine Bescheinigung des Arbeitgebers, der
-Familienkasse, des Sozialleistungsträgers oder einer geeigneten Person
-oder Stelle im Sinne von § 305 Abs. 1 Nr. 1 der Insolvenzordnung
-nachweist, dass das Guthaben nicht von der Pfändung erfasst ist. Die
-Leistung des Kreditinstituts an den Schuldner hat befreiende Wirkung,
-wenn ihm die Unrichtigkeit einer Bescheinigung nach Satz 2 weder
-bekannt noch infolge grober Fahrlässigkeit unbekannt ist. Kann der
-Schuldner den Nachweis nach Satz 2 nicht führen, so hat das
-Vollstreckungsgericht auf Antrag die Beträge nach Absatz 2 zu
-bestimmen. Die Sätze 1 bis 4 gelten auch für eine Hinterlegung.
-
-(6) Wird einem Pfändungsschutzkonto eine Geldleistung nach dem
-Sozialgesetzbuch oder Kindergeld gutgeschrieben, darf das
-Kreditinstitut die Forderung, die durch die Gutschrift entsteht, für
-die Dauer von 14 Tagen seit der Gutschrift nur mit solchen Forderungen
-verrechnen und hiergegen nur mit solchen Forderungen aufrechnen, die
-ihm als Entgelt für die Kontoführung oder aufgrund von
-Kontoverfügungen des Berechtigten innerhalb dieses Zeitraums zustehen.
-Bis zur Höhe des danach verbleibenden Betrages der Gutschrift ist das
-Kreditinstitut innerhalb von 14 Tagen seit der Gutschrift nicht
-berechtigt, die Ausführung von Zahlungsvorgängen wegen fehlender
-Deckung abzulehnen, wenn der Berechtigte nachweist oder dem
-Kreditinstitut sonst bekannt ist, dass es sich um die Gutschrift einer
-Geldleistung nach dem Sozialgesetzbuch oder von Kindergeld handelt.
-Das Entgelt des Kreditinstituts für die Kontoführung kann auch mit
-Beträgen nach den Absätzen 1 bis 4 verrechnet werden.
-
-(7) In einem der Führung eines Girokontos zugrunde liegenden Vertrag
-können der Kunde, der eine natürliche Person ist, oder dessen
-gesetzlicher Vertreter und das Kreditinstitut vereinbaren, dass das
-Girokonto als Pfändungsschutzkonto geführt wird. Der Kunde kann
-jederzeit verlangen, dass das Kreditinstitut sein Girokonto als
-Pfändungsschutzkonto führt. Ist das Guthaben des Girokontos bereits
-gepfändet worden, so kann der Schuldner die Führung als
-Pfändungsschutzkonto zum Beginn des vierten auf seine Erklärung
-folgenden Geschäftstages verlangen.
-
-(8) Jede Person darf nur ein Pfändungsschutzkonto unterhalten. Bei der
-Abrede hat der Kunde gegenüber dem Kreditinstitut zu versichern, dass
-er kein weiteres Pfändungsschutzkonto unterhält. Das Kreditinstitut
-darf Auskunfteien mitteilen, dass es für den Kunden ein
-Pfändungsschutzkonto führt. Die Auskunfteien dürfen diese Angabe nur
-verwenden, um Kreditinstituten auf Anfrage zum Zwecke der Überprüfung
-der Richtigkeit der Versicherung nach Satz 2 Auskunft darüber zu
-erteilen, ob die betroffene Person ein Pfändungsschutzkonto unterhält.
-Die Erhebung, Verarbeitung und Nutzung zu einem anderen als dem in
-Satz 4 genannten Zweck ist auch mit Einwilligung der betroffenen
-Person unzulässig.
-
-(9) Unterhält ein Schuldner entgegen Absatz 8 Satz 1 mehrere
-Girokonten als Pfändungsschutzkonten, ordnet das Vollstreckungsgericht
-auf Antrag eines Gläubigers an, dass nur das von dem Gläubiger in dem
-Antrag bezeichnete Girokonto dem Schuldner als Pfändungsschutzkonto
-verbleibt. Der Gläubiger hat die Voraussetzungen nach Satz 1 durch
-Vorlage entsprechender Erklärungen der Drittschuldner glaubhaft zu
-machen. Eine Anhörung des Schuldners unterbleibt. Die Entscheidung ist
-allen Drittschuldnern zuzustellen. Mit der Zustellung der Entscheidung
-an diejenigen Kreditinstitute, deren Girokonten nicht zum
-Pfändungsschutzkonto bestimmt sind, entfallen die Wirkungen nach den
-Absätzen 1 bis 6.
-
-
-###### § 850l Anordnung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto
-
-Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen,
-dass das Guthaben auf dem Pfändungsschutzkonto für die Dauer von bis
-zu zwölf Monaten der Pfändung nicht unterworfen ist, wenn der
-Schuldner nachweist, dass dem Konto in den letzten sechs Monaten vor
-Antragstellung ganz überwiegend nur unpfändbare Beträge gutgeschrieben
-worden sind, und er glaubhaft macht, dass auch innerhalb der nächsten
-zwölf Monate nur ganz überwiegend nicht pfändbare Beträge zu erwarten
-sind. Die Anordnung kann versagt werden, wenn überwiegende Belange des
-Gläubigers entgegenstehen. Sie ist auf Antrag eines Gläubigers
-aufzuheben, wenn ihre Voraussetzungen nicht mehr vorliegen oder die
-Anordnung den überwiegenden Belangen dieses Gläubigers entgegensteht.
+(4) Die Wirkungen von Pfändung und Überweisung von Guthaben auf dem
+Gemeinschaftskonto setzen sich an dem nach Absatz 2 Satz 1 auf ein
+Einzelkonto des Schuldners übertragenen Guthaben fort; sie setzen sich
+nicht an dem Guthaben fort, das nach Absatz 3 übertragen wird.
 
 
 ###### § 851 Nicht übertragbare Forderungen
@@ -14090,22 +15107,37 @@ werden, dürfen nur wie Arbeitseinkommen gepfändet werden, wenn
 
 
 
-(2) Um dem Schuldner den Aufbau einer angemessenen Alterssicherung zu
-ermöglichen, kann er unter Berücksichtigung der Entwicklung auf dem
-Kapitalmarkt, des Sterblichkeitsrisikos und der Höhe der
-Pfändungsfreigrenze, nach seinem Lebensalter gestaffelt, jährlich
-einen bestimmten Betrag unpfändbar auf der Grundlage eines in Absatz 1
-bezeichneten Vertrags bis zu einer Gesamtsumme von 256 000 Euro
-ansammeln. Der Schuldner darf vom 18. bis zum vollendeten 29.
-Lebensjahr 2 000 Euro, vom 30. bis zum vollendeten 39. Lebensjahr 4
-000 Euro, vom 40. bis zum vollendeten 47. Lebensjahr 4 500 Euro, vom
-48\. bis zum vollendeten 53. Lebensjahr 6 000 Euro, vom 54. bis zum
-vollendeten 59. Lebensjahr 8 000 Euro und vom 60. bis zum vollendeten
-67\. Lebensjahr 9 000 Euro jährlich ansammeln. Übersteigt der
+(2) Beträge, die der Schuldner anspart, um in Erfüllung eines
+Vertrages nach Absatz 1 eine angemessene Alterssicherung aufzubauen,
+unterliegen nicht der Pfändung, soweit sie
+
+1.  jährlich nicht mehr betragen als
+
+    a)  6 000 Euro bei einem Schuldner vom 18. bis zum vollendeten 27.
+        Lebensjahr und
+
+
+    b)  7 000 Euro bei einem Schuldner vom 28. bis zum vollendeten 67.
+        Lebensjahr und
+
+
+
+
+
+2.  einen Gesamtbetrag von 340 000 Euro nicht übersteigen.
+
+
+
+Die in Satz 1 genannten Beträge werden jeweils zum 1. Juli eines jeden
+fünften Jahres entsprechend der Entwicklung auf dem Kapitalmarkt, des
+Sterblichkeitsrisikos und der Höhe der Pfändungsfreigrenze angepasst
+und die angepassten Beträge vom Bundesministerium der Justiz und für
+Verbraucherschutz in der Pfändungsfreigrenzenbekanntmachung im Sinne
+des § 850c Absatz 4 Satz 1 bekannt gemacht. Übersteigt der
 Rückkaufwert der Alterssicherung den unpfändbaren Betrag, sind drei
 Zehntel des überschießenden Betrags unpfändbar. Satz 3 gilt nicht für
 den Teil des Rückkaufwerts, der den dreifachen Wert des in Satz 1
-genannten Betrags übersteigt.
+Nummer 2 genannten Betrags übersteigt.
 
 (3) § 850e Nr. 2 und 2a gilt entsprechend.
 
@@ -14126,7 +15158,8 @@ durch Vertrag anerkannt oder rechtshängig geworden ist.
 
 (2) Das Gleiche gilt für den nach § 528 des Bürgerlichen Gesetzbuchs
 dem Schenker zustehenden Anspruch auf Herausgabe des Geschenkes sowie
-für den Anspruch eines Ehegatten auf den Ausgleich des Zugewinns.
+für den Anspruch eines Ehegatten oder Lebenspartners auf den Ausgleich
+des Zugewinns.
 
 
 ###### § 853 Mehrfache Pfändung einer Geldforderung
@@ -14291,10 +15324,10 @@ dem Nachlass und an den einzelnen Nachlassgegenständen.
 ###### § 860 Pfändung von Gesamtgutanteilen
 
 (1) Bei dem Güterstand der Gütergemeinschaft ist der Anteil eines
-Ehegatten an dem Gesamtgut und an den einzelnen dazu gehörenden
-Gegenständen der Pfändung nicht unterworfen. Das Gleiche gilt bei der
-fortgesetzten Gütergemeinschaft von den Anteilen des überlebenden
-Ehegatten und der Abkömmlinge.
+Ehegatten oder Lebenspartners an dem Gesamtgut und an den einzelnen
+dazu gehörenden Gegenständen der Pfändung nicht unterworfen. Das
+Gleiche gilt bei der fortgesetzten Gütergemeinschaft von den Anteilen
+des überlebenden Ehegatten oder Lebenspartners und der Abkömmlinge.
 
 (2) Nach der Beendigung der Gemeinschaft ist der Anteil an dem
 Gesamtgut zugunsten der Gläubiger des Anteilsberechtigten der Pfändung
@@ -14429,7 +15462,9 @@ auf Grundstücke beziehenden Vorschriften gelten, sind die Vorschriften
 Schiffsbauwerk, das im Schiffsbauregister eingetragen ist oder in
 dieses Register eingetragen werden kann, erfolgt durch Eintragung
 einer Schiffshypothek für die Forderung oder durch
-Zwangsversteigerung.
+Zwangsversteigerung. Die Anordnung einer Zwangsversteigerung eines
+Seeschiffs ist unzulässig, wenn sich das Schiff auf der Reise befindet
+und nicht in einem Hafen liegt.
 
 (2) § 866 Abs. 2, 3, § 867 gelten entsprechend.
 
@@ -14577,7 +15612,7 @@ Auf Grund des erlassenen Urteils wird die Auszahlung oder das
 anderweite Verteilungsverfahren von dem Verteilungsgericht angeordnet.
 
 
-#### Titel 5 - Zwangsvollstreckung gegen juristische Personen des öffentlichen Rechts
+#### Titel 5 - Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen
 
 
 
@@ -14589,7 +15624,7 @@ erst vier Wochen nach dem Zeitpunkt beginnen, in dem der Gläubiger
 seine Absicht, die Zwangsvollstreckung zu betreiben, der zur
 Vertretung des Schuldners berufenen Behörde und, sofern die
 Zwangsvollstreckung in ein von einer anderen Behörde verwaltetes
-Vermögen erfolgen soll, auch dem zuständigen Minister der Finanzen
+Vermögen erfolgen soll, auch dem zuständigen Ministerium der Finanzen
 angezeigt hat. Dem Gläubiger ist auf Verlangen der Empfang der Anzeige
 zu bescheinigen. Soweit in solchen Fällen die Zwangsvollstreckung
 durch den Gerichtsvollzieher zu erfolgen hat, ist der
@@ -14597,20 +15632,37 @@ Gerichtsvollzieher auf Antrag des Gläubigers vom Vollstreckungsgericht
 zu bestimmen.
 
 (2) Die Zwangsvollstreckung ist unzulässig in Sachen, die für die
-Erfüllung öffentlicher Aufgaben des Schuldners unentbehrlich sind oder
-deren Veräußerung ein öffentliches Interesse entgegensteht. Darüber,
-ob die Voraussetzungen des Satzes 1 vorliegen, ist im Streitfall nach
-§ 766 zu entscheiden. Vor der Entscheidung ist der zuständige Minister
-zu hören.
+Erfüllung öffentlicher Aufgaben eines in Absatz 1 Satz 1 bezeichneten
+Schuldners unentbehrlich sind oder deren Veräußerung ein öffentliches
+Interesse entgegensteht. Darüber, ob die Voraussetzungen des Satzes 1
+vorliegen, ist im Streitfall nach § 766 zu entscheiden. Vor der
+Entscheidung ist das zuständige Ministerium zu hören.
 
 (3) Die Vorschriften der Absätze 1 und 2 sind auf die
-Zwangsvollstreckung gegen Körperschaften, Anstalten und Stiftungen des
-öffentlichen Rechtes mit der Maßgabe anzuwenden, dass an die Stelle
-der Behörde im Sinne des Absatzes 1 die gesetzlichen Vertreter treten.
-Für öffentlich-rechtliche Bank- und Kreditanstalten gelten die
-Beschränkungen der Absätze 1 und 2 nicht.
+Zwangsvollstreckung gegen sonstige Körperschaften, Anstalten und
+Stiftungen des öffentlichen Rechtes mit der Maßgabe anzuwenden, dass
+an die Stelle der Behörde im Sinne des Absatzes 1 die gesetzlichen
+Vertreter treten. Für öffentlich-rechtliche Bank- und Kreditanstalten
+gelten die Beschränkungen der Absätze 1 und 2 nicht.
 
-(4) (weggefallen)
+(4) Soll in eine für die Erfüllung öffentlicher Aufgaben
+unentbehrliche Sache vollstreckt werden, die im Eigentum eines Dritten
+steht, kann das Vollstreckungsgericht auf Antrag die
+Zwangsvollstreckung wegen einer Geldforderung gemäß § 766 für
+unzulässig erklären. Antragsberechtigt sind
+
+1.  der Schuldner und
+
+
+2.  der Bund, das Land, die Körperschaft, Anstalt oder Stiftung des
+    öffentlichen Rechts.
+
+
+
+Voraussetzung für die Antragsberechtigung nach Satz 2 Nummer 2 ist,
+dass die Sache zur Erfüllung der jeweiligen öffentlichen Aufgaben der
+in Satz 2 Nummer 2 genannten Antragsberechtigten dient. Vor der
+Entscheidung ist das zuständige Ministerium zu hören.
 
 (5) Der Ankündigung der Zwangsvollstreckung und der Einhaltung einer
 Wartefrist nach Maßgabe der Absätze 1 und 3 bedarf es nicht, wenn es
@@ -14638,8 +15690,8 @@ Verzeichnis (Schuldnerverzeichnis) derjenigen Personen,
     Landesgesetz ergangen ist;
 
 
-3.  deren Eintragung das Insolvenzgericht nach Maßgabe des § 26 Abs. 2 der
-    Insolvenzordnung angeordnet hat.
+3.  deren Eintragung das Insolvenzgericht nach Maßgabe des § 26 Absatz 2
+    oder des § 303a der Insolvenzordnung angeordnet hat.
 
 
 
@@ -14675,10 +15727,13 @@ einschließlich abweichender Personendaten.
     führende Grund,
 
 
-4.  im Fall des Absatzes 1 Nr. 3 das Datum der Eintragungsanordnung und
-    die Feststellung, dass ein Antrag auf Eröffnung des
+4.  im Fall des Absatzes 1 Nummer 3 das Datum der Eintragungsanordnung
+    sowie die Feststellung, dass ein Antrag auf Eröffnung des
     Insolvenzverfahrens über das Vermögen des Schuldners mangels Masse
-    abgewiesen wurde.
+    gemäß § 26 Absatz 1 Satz 1 der Insolvenzordnung abgewiesen wurde, oder
+    bei einer Eintragung gemäß § 303a der Insolvenzordnung der zur
+    Eintragung führende Grund und das Datum der Entscheidung des
+    Insolvenzgerichts.
 
 
 
@@ -14709,17 +15764,26 @@ Eintragung des Schuldners in das Schuldnerverzeichnis an, wenn
 
 
 
+Die Anordnung der Eintragung des Schuldners in das
+Schuldnerverzeichnis ist Teil des Vollstreckungsverfahrens.
 
-(2) Die Eintragungsanordnung soll kurz begründet werden. Sie ist dem
-Schuldner zuzustellen, soweit sie ihm nicht mündlich bekannt gegeben
-und in das Protokoll aufgenommen wird (§ 763).
+(2) Die Eintragungsanordnung soll kurz begründet werden. Der
+Gerichtsvollzieher stellt sie dem Schuldner von Amts wegen zu, soweit
+sie ihm nicht mündlich bekannt gegeben und in das Protokoll
+aufgenommen wird (§ 763 Absatz 1). Über die Bewilligung der
+öffentlichen Zustellung entscheidet abweichend von § 186 Absatz 1 Satz
+1 der Gerichtsvollzieher.
 
 (3) Die Eintragungsanordnung hat die in § 882b Abs. 2 und 3 genannten
 Daten zu enthalten. Sind dem Gerichtsvollzieher die nach § 882b Abs. 2
 Nr. 1 bis 3 im Schuldnerverzeichnis anzugebenden Daten nicht bekannt,
 holt er Auskünfte bei den in § 755 Abs. 1 und 2 Satz 1 Nr. 1 genannten
-Stellen ein oder sieht das Handelsregister ein, um die erforderlichen
-Daten zu beschaffen.
+Stellen ein, um die erforderlichen Daten zu beschaffen. Hat der
+Gerichtsvollzieher Anhaltspunkte dafür, dass zugunsten des Schuldners
+eine Auskunftssperre gemäß § 51 des Bundesmeldegesetzes eingetragen
+oder ein bedingter Sperrvermerk gemäß § 52 des Bundesmeldegesetzes
+eingerichtet wurde, hat der Gerichtsvollzieher den Schuldner auf die
+Möglichkeit eines Vorgehens nach § 882f Absatz 2 hinzuweisen.
 
 
 ##### § 882d Vollziehung der Eintragungsanordnung
@@ -14730,7 +15794,10 @@ Vollstreckungsgericht einlegen. Der Widerspruch hemmt nicht die
 Vollziehung. Nach Ablauf der Frist des Satzes 1 übermittelt der
 Gerichtsvollzieher die Anordnung unverzüglich elektronisch dem
 zentralen Vollstreckungsgericht nach § 882h Abs. 1. Dieses veranlasst
-die Eintragung des Schuldners.
+die Eintragung des Schuldners. Wird dem Gerichtsvollzieher vor der
+Übermittlung der Anordnung nach Satz 3 bekannt, dass die
+Voraussetzungen für die Eintragung nicht oder nicht mehr vorliegen,
+hebt er die Anordnung auf und unterrichtet den Schuldner hierüber.
 
 (2) Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen,
 dass die Eintragung einstweilen ausgesetzt wird. Das zentrale
@@ -14750,9 +15817,7 @@ elektronisch.
 
 (1) Eine Eintragung im Schuldnerverzeichnis wird nach Ablauf von drei
 Jahren seit dem Tag der Eintragungsanordnung von dem zentralen
-Vollstreckungsgericht nach § 882h Abs. 1 gelöscht. Im Fall des § 882b
-Abs. 1 Nr. 3 beträgt die Löschungsfrist fünf Jahre seit Erlass des
-Abweisungsbeschlusses.
+Vollstreckungsgericht nach § 882h Abs. 1 gelöscht.
 
 (2) Über Einwendungen gegen die Löschung nach Absatz 1 oder ihre
 Versagung entscheidet der Urkundsbeamte der Geschäftsstelle. Gegen
@@ -14785,7 +15850,7 @@ Eintragung beschwert, findet die Erinnerung nach § 573 statt.
 
 ##### § 882f Einsicht in das Schuldnerverzeichnis
 
-Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der
+(1) Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der
 darlegt, Angaben nach § 882b zu benötigen:
 
 1.  für Zwecke der Zwangsvollstreckung;
@@ -14806,13 +15871,31 @@ darlegt, Angaben nach § 882b zu benötigen:
 5.  für Zwecke der Strafverfolgung und der Strafvollstreckung;
 
 
-6.  zur Auskunft über ihn selbst betreffende Eintragungen.
+6.  zur Auskunft über ihn selbst betreffende Eintragungen;
+
+
+7.  für Zwecke der Dienstaufsicht über Justizbedienstete, die mit dem
+    Schuldnerverzeichnis befasst sind.
 
 
 
-Die Informationen dürfen nur für den Zweck verwendet werden, für den
+Die Informationen dürfen nur für den Zweck verarbeitet werden, für den
 sie übermittelt worden sind; sie sind nach Zweckerreichung zu löschen.
 Nichtöffentliche Stellen sind darauf bei der Übermittlung hinzuweisen.
+
+(2) Das Recht auf Einsichtnahme durch Dritte erstreckt sich nicht auf
+Angaben nach § 882b Absatz 2 Nummer 3, wenn glaubhaft gemacht wird,
+dass zugunsten des Schuldners eine Auskunftssperre gemäß § 51 des
+Bundesmeldegesetzes eingetragen oder ein bedingter Sperrvermerk gemäß
+§ 52 des Bundesmeldegesetzes eingerichtet wurde. Der Schuldner hat das
+Bestehen einer solchen Auskunftssperre oder eines solchen
+Sperrvermerks gegenüber dem Gerichtsvollzieher glaubhaft zu machen.
+Satz 2 gilt entsprechend gegenüber dem zentralen
+Vollstreckungsgericht, wenn die Eintragungsanordnung an dieses gemäß §
+882d Absatz 1 Satz 3 übermittelt worden ist. Satz 1 ist nicht
+anzuwenden auf die Einsichtnahme in das Schuldnerverzeichnis durch
+Gerichte und Behörden für die in Absatz 1 Satz 1 Nummer 2 und 5
+bezeichneten Zwecke.
 
 
 ##### § 882g Erteilung von Abdrucken
@@ -14821,7 +15904,8 @@ Nichtöffentliche Stellen sind darauf bei der Übermittlung hinzuweisen.
 laufenden Bezug erteilt werden, auch durch Übermittlung in einer nur
 maschinell lesbaren Form. Bei der Übermittlung in einer nur maschinell
 lesbaren Form gelten die von der Landesjustizverwaltung festgelegten
-Datenübertragungsregeln.
+Datenübertragungsregeln. Liegen die Voraussetzungen des § 882f Absatz
+2 vor, dürfen Abdrucke insoweit nicht erteilt werden.
 
 (2) Abdrucke erhalten:
 
@@ -14875,14 +15959,14 @@ sind auch unverzüglich zu vernichten, soweit sie durch neue ersetzt
 werden.
 
 (7) In den Fällen des Absatzes 2 Nr. 2 und 3 sowie des Absatzes 5 gilt
-für nichtöffentliche Stellen § 38 des Bundesdatenschutzgesetzes mit
-der Maßgabe, dass die Aufsichtsbehörde auch die Verarbeitung und
-Nutzung dieser personenbezogenen Daten in oder aus Akten
-überwacht.Entsprechendes gilt für nichtöffentliche Stellen, die von
-den in Absatz 2 genannten Stellen Auskünfte erhalten haben.
+für nichtöffentliche Stellen § 40 des Bundesdatenschutzgesetzes mit
+der Maßgabe, dass die Aufsichtsbehörde auch die Verarbeitung dieser
+personenbezogenen Daten in oder aus Akten überwacht. Entsprechendes
+gilt für nichtöffentliche Stellen, die von den in Absatz 2 genannten
+Stellen Auskünfte erhalten haben.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Vorschriften über den Bezug von Abdrucken nach den Absätzen 1 und 2
     und das Bewilligungsverfahren sowie den Bezug von Listen nach Absatz 5
@@ -14927,17 +16011,17 @@ Gericht die Aufgaben des zentralen Vollstreckungsgerichts nach Absatz
 Führung des Schuldnerverzeichnisses stellt eine Angelegenheit der
 Justizverwaltung dar.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu
-Form und Übermittlung der Eintragungsanordnungen nach § 882b Abs. 1
-und der Entscheidungen nach § 882d Abs. 3 Satz 2 dieses Gesetzes und §
-284 Abs. 10 Satz 2 der Abgabenordnung oder gleichwertigen Regelungen
-im Sinne von § 882b Abs. 1 Nr. 2 Halbsatz 2 dieses Gesetzes sowie zum
-Inhalt des Schuldnerverzeichnisses und zur Ausgestaltung der Einsicht
-insbesondere durch ein automatisiertes Abrufverfahren zu regeln. Die
-Rechtsverordnung hat geeignete Regelungen zur Sicherung des
-Datenschutzes und der Datensicherheit vorzusehen. Insbesondere ist
-sicherzustellen, dass die Daten
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Einzelheiten zu Form und Übermittlung der Eintragungsanordnungen nach
+§ 882b Abs. 1 und der Entscheidungen nach § 882d Abs. 3 Satz 2 dieses
+Gesetzes und § 284 Abs. 10 Satz 2 der Abgabenordnung oder
+gleichwertigen Regelungen im Sinne von § 882b Abs. 1 Nr. 2 Halbsatz 2
+dieses Gesetzes sowie zum Inhalt des Schuldnerverzeichnisses und zur
+Ausgestaltung der Einsicht insbesondere durch ein automatisiertes
+Abrufverfahren zu regeln. Die Rechtsverordnung hat geeignete
+Regelungen zur Sicherung des Datenschutzes und der Datensicherheit
+vorzusehen. Insbesondere ist sicherzustellen, dass die Daten
 
 1.  bei der elektronischen Übermittlung an das zentrale
     Vollstreckungsgericht nach Absatz 1 sowie bei der Weitergabe an eine
@@ -14954,13 +16038,41 @@ sicherzustellen, dass die Daten
 4.  nur von registrierten Nutzern nach Angabe des Verwendungszwecks
     abgerufen werden können, jeder Abrufvorgang protokolliert wird und
     Nutzer im Fall des missbräuchlichen Datenabrufs oder einer
-    missbräuchlichen Datenverwendung von der Einsichtnahme ausgeschlossen
-    werden können.
+    missbräuchlichen Datenverarbeitung von der Einsichtnahme
+    ausgeschlossen werden können.
 
 
 
 Die Daten der Nutzer dürfen nur für die in Satz 3 Nr. 4 genannten
-Zwecke verwendet werden.
+Zwecke verarbeitet werden.
+
+
+##### § 882i Rechte der Betroffenen
+
+(1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
+Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
+2016/679 wird in Bezug auf die personenbezogenen Daten, die im
+Schuldnerverzeichnis und in den an das zentrale Vollstreckungsgericht
+übermittelten Anordnungen der Eintragung in das Schuldnerverzeichnis
+enthalten sind, dadurch gewährt, dass die betroffene Person Einsicht
+in das Schuldnerverzeichnis über die zentrale und länderübergreifende
+Abfrage im Internet nach § 882h Absatz 1 Satz 2 nehmen kann. Eine
+Information der betroffenen Person über konkrete Empfänger, gegenüber
+denen die in Satz 1 genannten personenbezogenen Daten offengelegt
+werden, erfolgt nur insoweit, als Daten zu diesen Empfängern nach den
+Vorschriften für Zwecke der Datenschutzkontrolle zu speichern sind.
+
+(2) Hinsichtlich der im Schuldnerverzeichnis enthaltenen
+personenbezogenen Daten kann das Recht auf Berichtigung nach Artikel
+16 der Verordnung (EU) 2016/679 nur unter den Voraussetzungen ausgeübt
+werden, die in § 882e für Löschungen von Eintragungen oder die
+Änderung fehlerhafter Eintragungen vorgesehen sind.
+
+(3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU)
+2016/679 gilt nicht in Bezug auf die personenbezogenen Daten, die im
+Schuldnerverzeichnis und in den an das zentrale Vollstreckungsgericht
+übermittelten Anordnungen der Eintragung in das Schuldnerverzeichnis
+enthalten sind.
 
 
 ### Abschnitt 3 - Zwangsvollstreckung zur Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen oder Unterlassungen
@@ -15006,22 +16118,67 @@ benennen.
 
 (2) Bewegliche Sachen, die nicht Gegenstand der Zwangsvollstreckung
 sind, werden von dem Gerichtsvollzieher weggeschafft und dem Schuldner
-oder, wenn dieser abwesend ist, einem Bevollmächtigten des Schuldners
-oder einer zu seiner Familie gehörigen oder in dieser Familie
-dienenden erwachsenen Person übergeben oder zur Verfügung gestellt.
+oder, wenn dieser abwesend ist, einem Bevollmächtigten des Schuldners,
+einem erwachsenen Familienangehörigen, einer in der Familie
+beschäftigten Person oder einem erwachsenen ständigen Mitbewohner
+übergeben oder zur Verfügung gestellt.
 
 (3) Ist weder der Schuldner noch eine der bezeichneten Personen
-anwesend, so hat der Gerichtsvollzieher die Sachen auf Kosten des
-Schuldners in das Pfandlokal zu schaffen oder anderweit in Verwahrung
-zu bringen. Unpfändbare Sachen und solche Sachen, bei denen ein
-Verwertungserlös nicht zu erwarten ist, sind auf Verlangen des
-Schuldners ohne weiteres herauszugeben.
+anwesend oder wird die Entgegennahme verweigert, hat der
+Gerichtsvollzieher die in Absatz 2 bezeichneten Sachen auf Kosten des
+Schuldners in die Pfandkammer zu schaffen oder anderweitig in
+Verwahrung zu bringen. Bewegliche Sachen, an deren Aufbewahrung
+offensichtlich kein Interesse besteht, sollen unverzüglich vernichtet
+werden.
 
-(4) Fordert der Schuldner nicht binnen einer Frist von zwei Monaten
-nach der Räumung ab oder fordert er ab, ohne die Kosten zu zahlen,
-verkauft der Gerichtsvollzieher die Sachen und hinterlegt den Erlös;
-Absatz 3 Satz 2 bleibt unberührt. Sachen, die nicht verwertet werden
-können, sollen vernichtet werden.
+(4) Fordert der Schuldner die Sachen nicht binnen einer Frist von
+einem Monat nach der Räumung ab, veräußert der Gerichtsvollzieher die
+Sachen und hinterlegt den Erlös. Der Gerichtsvollzieher veräußert die
+Sachen und hinterlegt den Erlös auch dann, wenn der Schuldner die
+Sachen binnen einer Frist von einem Monat abfordert, ohne binnen einer
+Frist von zwei Monaten nach der Räumung die Kosten zu zahlen. Die §§
+806, 814 und 817 sind entsprechend anzuwenden. Sachen, die nicht
+verwertet werden können, sollen vernichtet werden.
+
+(5) Unpfändbare Sachen und solche Sachen, bei denen ein
+Verwertungserlös nicht zu erwarten ist, sind auf Verlangen des
+Schuldners jederzeit ohne Weiteres herauszugeben.
+
+
+#### § 885a Beschränkter Vollstreckungsauftrag
+
+(1) Der Vollstreckungsauftrag kann auf die Maßnahmen nach § 885 Absatz
+1 beschränkt werden.
+
+(2) Der Gerichtsvollzieher hat in dem Protokoll (§ 762) die frei
+ersichtlichen beweglichen Sachen zu dokumentieren, die er bei der
+Vornahme der Vollstreckungshandlung vorfindet. Er kann bei der
+Dokumentation Bildaufnahmen in elektronischer Form herstellen.
+
+(3) Der Gläubiger kann bewegliche Sachen, die nicht Gegenstand der
+Zwangsvollstreckung sind, jederzeit wegschaffen und hat sie zu
+verwahren. Bewegliche Sachen, an deren Aufbewahrung offensichtlich
+kein Interesse besteht, kann er jederzeit vernichten. Der Gläubiger
+hat hinsichtlich der Maßnahmen nach den Sätzen 1 und 2 nur Vorsatz und
+grobe Fahrlässigkeit zu vertreten.
+
+(4) Fordert der Schuldner die Sachen beim Gläubiger nicht binnen einer
+Frist von einem Monat nach der Einweisung des Gläubigers in den Besitz
+ab, kann der Gläubiger die Sachen verwerten. Die §§ 372 bis 380, 382,
+383 und 385 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
+Eine Androhung der Versteigerung findet nicht statt. Sachen, die nicht
+verwertet werden können, können vernichtet werden.
+
+(5) Unpfändbare Sachen und solche Sachen, bei denen ein
+Verwertungserlös nicht zu erwarten ist, sind auf Verlangen des
+Schuldners jederzeit ohne Weiteres herauszugeben.
+
+(6) Mit der Mitteilung des Räumungstermins weist der
+Gerichtsvollzieher den Gläubiger und den Schuldner auf die
+Bestimmungen der Absätze 2 bis 5 hin.
+
+(7) Die Kosten nach den Absätzen 3 und 4 gelten als Kosten der
+Zwangsvollstreckung.
 
 
 #### § 886 Herausgabe bei Gewahrsam eines Dritten
@@ -15196,11 +16353,388 @@ Vorschriften des bürgerlichen Rechts zugunsten derjenigen, die Rechte
 von einem Nichtberechtigten herleiten, anzuwenden.
 
 
-### Abschnitt 4 - (weggefallen)
+### Abschnitt 4 - Wirkungen des Pfändungsschutzkontos
 
 
 
-#### (XXXX) §§ 899 bis 915h (weggefallen)
+#### § 899 Pfändungsfreier Betrag; Übertragung
+
+(1) Wird Guthaben auf dem Pfändungsschutzkonto des Schuldners
+gepfändet, kann der Schuldner jeweils bis zum Ende des Kalendermonats
+aus dem Guthaben über einen Betrag verfügen, dessen Höhe sich nach
+Aufrundung des monatlichen Freibetrages nach § 850c Absatz 1 in
+Verbindung mit Absatz 4 auf den nächsten vollen 10-Euro-Betrag ergibt;
+insoweit wird das Guthaben nicht von der Pfändung erfasst. Satz 1 gilt
+entsprechend, wenn Guthaben auf einem Zahlungskonto des Schuldners
+gepfändet ist, das vor Ablauf von einem Monat seit der Zustellung des
+Überweisungsbeschlusses an den Drittschuldner in ein
+Pfändungsschutzkonto umgewandelt wird. § 900 Absatz 2 bleibt
+unberührt.
+
+(2) Hat der Schuldner in dem jeweiligen Kalendermonat nicht über
+Guthaben in Höhe des gesamten nach Absatz 1 pfändungsfreien Betrages
+verfügt, wird dieses nicht verbrauchte Guthaben in den drei
+nachfolgenden Kalendermonaten zusätzlich zu dem nach Absatz 1
+geschützten Guthaben nicht von der Pfändung erfasst. Verfügungen sind
+jeweils mit dem Guthaben zu verrechnen, das zuerst dem
+Pfändungsschutzkonto gutgeschrieben wurde.
+
+(3) Einwendungen gegen die Höhe eines pfändungsfreien Betrages hat der
+Schuldner dem Kreditinstitut spätestens bis zum Ablauf des sechsten
+auf die Berechnung des jeweiligen pfändungsfreien Betrages folgenden
+Kalendermonats mitzuteilen. Nach Ablauf dieser Frist kann der
+Schuldner nur Einwendungen geltend machen, deren verspätete
+Geltendmachung er nicht zu vertreten hat.
+
+
+#### § 900 Moratorium bei Überweisung an den Gläubiger
+
+(1) Wird künftiges Guthaben auf einem Pfändungsschutzkonto gepfändet
+und dem Gläubiger überwiesen, darf der Drittschuldner erst nach Ablauf
+des Kalendermonats, der auf die jeweilige Gutschrift folgt, an den
+Gläubiger leisten oder den Betrag hinterlegen; eine Verlängerung des
+in § 899 Absatz 2 bezeichneten Zeitraums erfolgt dadurch nicht. Auf
+Antrag des Gläubigers kann das Vollstreckungsgericht eine von Satz 1
+erster Halbsatz abweichende Anordnung treffen, wenn sonst unter
+Würdigung des Schutzbedürfnisses des Schuldners für den Gläubiger eine
+unzumutbare Härte entstünde.
+
+(2) Guthaben, aus dem bis zum Ablauf der Frist des Absatzes 1 nicht an
+den Gläubiger geleistet oder das bis zu diesem Zeitpunkt nicht
+hinterlegt werden darf, ist in dem auf die Gutschrift folgenden
+Kalendermonat Guthaben im Sinne des § 899 Absatz 1 Satz 1.
+
+
+#### § 901 Verbot der Aufrechnung und Verrechnung
+
+(1) Verlangt eine natürliche Person von dem Kreditinstitut, dass ein
+von ihr dort geführtes Zahlungskonto, das einen negativen Saldo
+aufweist, als Pfändungsschutzkonto geführt wird, darf das
+Kreditinstitut ab dem Verlangen nicht mit seinen Forderungen gegen
+Forderungen des Kontoinhabers aufrechnen oder einen zugunsten des
+Kontoinhabers bestehenden Saldo mit einem zugunsten des
+Kreditinstituts bestehenden Saldo verrechnen, soweit die Gutschrift
+auf dem Zahlungskonto als Guthaben auf einem Pfändungsschutzkonto
+nicht von der Pfändung erfasst sein würde.
+
+(2) Das Verbot der Aufrechnung und Verrechnung nach Absatz 1 gilt für
+ein Zahlungskonto, auf das sich eine Pfändung erstreckt, bereits ab
+dem Zeitpunkt der Kenntnis des Kreditinstituts von der Pfändung. Das
+Verbot der Aufrechnung oder Verrechnung entfällt jedoch, wenn der
+Schuldner nicht gemäß § 899 Absatz 1 Satz 2 verlangt, dass das
+Zahlungskonto als Pfändungsschutzkonto geführt wird.
+
+(3) Gutschriften auf dem Zahlungskonto, die nach Absatz 1 oder 2 dem
+Verbot der Aufrechnung und Verrechnung unterliegen, sind als Guthaben
+auf das Pfändungsschutzkonto zu übertragen. Im Fall des Absatzes 2
+erfolgt die Übertragung jedoch nur, wenn der Schuldner gemäß § 899
+Absatz 1 Satz 2 verlangt, dass das Zahlungskonto als
+Pfändungsschutzkonto geführt wird.
+
+
+#### § 902 Erhöhungsbeträge
+
+Neben dem pfändungsfreien Betrag nach § 899 Absatz 1 Satz 1 werden
+folgende Erhöhungsbeträge nicht von der Pfändung des Guthabens auf
+einem Pfändungsschutzkonto erfasst:
+
+1.  die pfändungsfreien Beträge nach § 850c Absatz 2 in Verbindung mit
+    Absatz 4, wenn der Schuldner
+
+    a)  einer Person oder mehreren Personen auf Grund gesetzlicher
+        Verpflichtung Unterhalt gewährt;
+
+
+    b)  Geldleistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch
+        für Personen entgegennimmt, die mit ihm in einer Bedarfsgemeinschaft
+        im Sinne des § 7 Absatz 3 des Zweiten Buches Sozialgesetzbuch oder in
+        einer Gemeinschaft nach den §§ 19, 20, 27, 39 Satz 1 oder § 43 des
+        Zwölften Buches Sozialgesetzbuch leben und denen er nicht auf Grund
+        gesetzlicher Vorschriften zum Unterhalt verpflichtet ist;
+
+
+    c)  Geldleistungen nach dem Asylbewerberleistungsgesetz für Personen
+        entgegennimmt, mit denen er in einem gemeinsamen Haushalt zusammenlebt
+        und denen er nicht auf Grund gesetzlicher Vorschriften zum Unterhalt
+        verpflichtet ist;
+
+
+
+
+
+2.  Geldleistungen im Sinne des § 54 Absatz 2 oder Absatz 3 Nummer 3 des
+    Ersten Buches Sozialgesetzbuch;
+
+
+3.  Geldleistungen gemäß § 5 Absatz 1 des Gesetzes zur Errichtung einer
+    Stiftung „Mutter und Kind – Schutz des ungeborenen Lebens“;
+
+
+4.  Geldleistungen, die dem Schuldner selbst nach dem Zweiten oder
+    Zwölften Buch Sozialgesetzbuch oder dem Asylbewerberleistungsgesetz
+    gewährt werden, in dem Umfang, in dem diese den pfändungsfreien Betrag
+    nach § 899 Absatz 1 Satz 1 übersteigen;
+
+
+5.  das Kindergeld nach dem Einkommensteuergesetz und andere gesetzliche
+    Geldleistungen für Kinder, es sei denn, dass wegen einer
+    Unterhaltsforderung des Kindes, für das die Leistungen gewährt oder
+    bei dem sie berücksichtigt werden, gepfändet wird;
+
+
+6.  Geldleistungen, die dem Schuldner nach landesrechtlichen oder anderen
+    als in den Nummern 1 bis 5 genannten bundesrechtlichen
+    Rechtsvorschriften gewährt werden, in welchen die Unpfändbarkeit der
+    Geldleistung festgelegt wird.
+
+
+
+Für die Erhöhungsbeträge nach Satz 1 gilt § 899 Absatz 2 entsprechend.
+
+
+#### § 903 Nachweise über Erhöhungsbeträge
+
+(1) Das Kreditinstitut kann aus Guthaben, soweit es als
+Erhöhungsbetrag unpfändbar ist, mit befreiender Wirkung gegenüber dem
+Schuldner an den Gläubiger leisten, bis der Schuldner dem
+Kreditinstitut nachweist, dass es sich um Guthaben handelt, das nach §
+902 nicht von der Pfändung erfasst wird. Der Nachweis ist zu führen
+durch Vorlage einer Bescheinigung
+
+1.  der Familienkasse, des Sozialleistungsträgers oder einer mit der
+    Gewährung von Geldleistungen im Sinne des § 902 Satz 1 befassten
+    Einrichtung,
+
+
+2.  des Arbeitgebers oder
+
+
+3.  einer geeigneten Person oder Stelle im Sinne des § 305 Absatz 1 Nummer
+    1 der Insolvenzordnung.
+
+
+
+
+(2) Das Kreditinstitut hat Bescheinigungen nach Absatz 1 Satz 2 für
+die Dauer zu beachten, für die sie ausgestellt sind. Unbefristete
+Bescheinigungen hat das Kreditinstitut für die Dauer von zwei Jahren
+zu beachten. Nach Ablauf des in Satz 2 genannten Zeitraums kann das
+Kreditinstitut von dem Kontoinhaber, der eine Bescheinigung nach
+Absatz 1 Satz 2 vorgelegt hat, die Vorlage einer neuen Bescheinigung
+verlangen. Vor Ablauf des in Satz 2 genannten Zeitraums kann das
+Kreditinstitut eine neue Bescheinigung verlangen, wenn tatsächliche
+Anhaltspunkte bestehen, die die Annahme rechtfertigen, dass die
+Angaben in der Bescheinigung unrichtig sind oder nicht mehr zutreffen.
+
+(3) Jede der in Absatz 1 Satz 2 Nummer 1 genannten Stellen, die
+Leistungen im Sinne des § 902 Satz 1 Nummer 1 Buchstabe b und c sowie
+Nummer 2 bis 6 durch Überweisung auf ein Zahlungskonto des Schuldners
+erbringt, ist verpflichtet, auf Antrag des Schuldners eine
+Bescheinigung nach Absatz 1 Satz 2 über ihre Leistungen auszustellen.
+Die Bescheinigung muss folgende Angaben enthalten:
+
+1.  die Höhe der Leistung,
+
+
+2.  in welcher Höhe die Leistung zu welcher der in § 902 Satz 1 Nummer 1
+    Buchstabe b und c sowie Nummer 2 bis 6 genannten Leistungsarten
+    gehört,
+
+
+3.  für welchen Zeitraum die Leistung gewährt wird.
+
+
+
+Darüber hinaus ist die in Absatz 1 Satz 2 Nummer 1 genannte Stelle
+verpflichtet, soweit sie Kenntnis hiervon hat, Folgendes zu
+bescheinigen:
+
+1.  die Anzahl der Personen, denen der Schuldner auf Grund gesetzlicher
+    Verpflichtung Unterhalt gewährt,
+
+
+2.  das Geburtsdatum der minderjährigen unterhaltsberechtigten Personen.
+
+
+
+
+(4) Das Kreditinstitut hat die Angaben in der Bescheinigung nach
+Absatz 1 Satz 2 ab dem zweiten auf die Vorlage der Bescheinigung
+folgenden Geschäftstag zu beachten.
+
+
+#### § 904 Nachzahlung von Leistungen
+
+(1) Werden laufende Geldleistungen zu einem späteren Zeitpunkt als dem
+Monat, auf den sich die Leistungen beziehen, ausbezahlt, so werden sie
+von der Pfändung des Guthabens auf dem Pfändungsschutzkonto nicht
+erfasst, wenn es sich um Geldleistungen gemäß § 902 Satz 1 Nummer 1
+Buchstabe b oder c oder Nummer 4 bis 6 handelt.
+
+(2) Laufende Geldleistungen nach dem Sozialgesetzbuch, die nicht in
+Absatz 1 genannt sind, sowie Arbeitseinkommen nach § 850 Absatz 2 und
+3 werden von der Pfändung des Guthabens auf dem Pfändungsschutzkonto
+nicht erfasst, wenn der nachgezahlte Betrag 500 Euro nicht übersteigt.
+
+(3) Laufende Geldleistungen nach Absatz 2, bei denen der nachgezahlte
+Betrag 500 Euro übersteigt, werden von der Pfändung des Guthabens auf
+dem Pfändungsschutzkonto nicht erfasst, soweit der für den jeweiligen
+Monat nachgezahlte Betrag in dem Monat, auf den er sich bezieht, nicht
+zu einem pfändbaren Guthaben geführt hätte. Wird die Nachzahlung
+pauschal und für einen Bewilligungszeitraum gewährt, der länger als
+ein Monat ist, ist die Nachzahlungssumme zu gleichen Teilen auf die
+Zahl der betroffenen Monate aufzuteilen.
+
+(4) Für Nachzahlungen von Leistungen nach den Absätzen 1 und 2 gilt §
+903 Absatz 1, 3 Satz 1 und Absatz 4 entsprechend.
+
+(5) Für die Festsetzung der Höhe des pfändungsfreien Betrages in den
+Fällen des Absatzes 3 ist das Vollstreckungsgericht zuständig.
+Entscheidungen nach Satz 1 ergehen auf Antrag des Schuldners durch
+Beschluss. Der Beschluss nach Satz 2 gilt als Bescheinigung im Sinne
+des § 903 Absatz 1 Satz 2.
+
+
+#### § 905 Festsetzung der Erhöhungsbeträge durch das Vollstreckungsgericht
+
+Macht der Schuldner glaubhaft, dass er eine Bescheinigung im Sinne des
+§ 903 Absatz 1 Satz 2, um deren Erteilung er
+
+1.  zunächst bei einer in § 903 Absatz 1 Satz 2 Nummer 1 genannten Stelle,
+    von der er eine Leistung bezieht, und nachfolgend
+
+
+2.  bei einer weiteren Stelle, die zur Erteilung der Bescheinigung
+    berechtigt ist,
+
+
+
+nachgesucht hat, nicht in zumutbarer Weise von diesen Stellen erlangen
+konnte, hat das Vollstreckungsgericht in dem Beschluss auf Antrag die
+Erhöhungsbeträge nach § 902 festzusetzen und die Angaben nach § 903
+Absatz 3 Satz 2 zu bestimmen. Dabei hat das Vollstreckungsgericht den
+Schuldner auf die Möglichkeit der Stellung eines Antrags nach § 907
+Absatz 1 Satz 1 hinzuweisen, wenn nach dem Vorbringen des Schuldners
+unter Beachtung der von ihm vorgelegten Unterlagen die Voraussetzungen
+dieser Vorschrift erfüllt sein könnten. Der Beschluss des
+Vollstreckungsgerichts nach Satz 1 gilt als Bescheinigung im Sinne des
+§ 903 Absatz 1 Satz 2.
+
+
+#### § 906 Festsetzung eines abweichenden pfändungsfreien Betrages durch das Vollstreckungsgericht
+
+(1) Wird Guthaben wegen einer der in § 850d oder § 850f Absatz 2
+bezeichneten Forderungen gepfändet, tritt an die Stelle der nach § 899
+Absatz 1 und § 902 Satz 1 pfändungsfreien Beträge der vom
+Vollstreckungsgericht im Pfändungsbeschluss belassene Betrag. In den
+Fällen des § 850d Absatz 1 und 2 kann das Vollstreckungsgericht auf
+Antrag einen von Satz 1 abweichenden pfändungsfreien Betrag festlegen.
+
+(2) Das Vollstreckungsgericht setzt auf Antrag einen von § 899 Absatz
+1 und § 902 Satz 1 abweichenden pfändungsfreien Betrag fest, wenn sich
+aus einer bundes- oder landesrechtlichen Vorschrift eine solche
+Abweichung ergibt.
+
+(3) In den Fällen des Absatzes 1 Satz 2 und des Absatzes 2
+
+1.  ist der Betrag in der Regel zu beziffern,
+
+
+2.  hat das Vollstreckungsgericht zu prüfen, ob eine der in § 732 Absatz 2
+    bezeichneten Anordnungen zu erlassen ist, und
+
+
+3.  gilt § 905 Satz 2 entsprechend.
+
+
+
+
+(4) Für Beträge, die nach den Absätzen 1 oder 2 festgesetzt sind, gilt
+§ 899 Absatz 2 entsprechend.
+
+
+#### § 907 Festsetzung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto
+
+(1) Auf Antrag des Schuldners kann das Vollstreckungsgericht
+festsetzen, dass das Guthaben auf dem Pfändungsschutzkonto für die
+Dauer von bis zu zwölf Monaten der Pfändung nicht unterworfen ist,
+wenn der Schuldner
+
+1.  nachweist, dass dem Konto in den letzten sechs Monaten vor
+    Antragstellung ganz überwiegend nur unpfändbare Beträge gutgeschrieben
+    worden sind, und
+
+
+2.  glaubhaft macht, dass auch innerhalb der nächsten sechs Monate ganz
+    überwiegend nur die Gutschrift unpfändbarer Beträge zu erwarten ist.
+
+
+
+Die Festsetzung ist abzulehnen, wenn ihr überwiegende Belange des
+Gläubigers entgegenstehen.
+
+(2) Auf Antrag jedes Gläubigers ist die Festsetzung der Unpfändbarkeit
+aufzuheben, wenn deren Voraussetzungen nicht mehr vorliegen oder die
+Festsetzung den überwiegenden Belangen des den Antrag stellenden
+Gläubigers entgegensteht. Der Schuldner hat die Gläubiger auf eine
+wesentliche Veränderung seiner Vermögensverhältnisse unverzüglich
+hinzuweisen.
+
+
+#### § 908 Aufgaben des Kreditinstituts
+
+(1) Das Kreditinstitut ist dem Schuldner zur Leistung aus dem nicht
+von der Pfändung erfassten Guthaben im Rahmen des vertraglich
+Vereinbarten verpflichtet.
+
+(2) Das Kreditinstitut informiert den Schuldner in einer für diesen
+geeigneten und zumutbaren Weise über
+
+1.  das im laufenden Kalendermonat noch verfügbare von der Pfändung nicht
+    erfasste Guthaben und
+
+
+2.  den Betrag, der mit Ablauf des laufenden Kalendermonats nicht mehr
+    pfändungsfrei ist.
+
+
+
+
+(3) Das Kreditinstitut hat dem Kontoinhaber die Absicht, eine neue
+Bescheinigung nach § 903 Absatz 2 Satz 3 zu verlangen, mindestens zwei
+Monate vor dem Zeitpunkt, ab dem es die ihm vorliegende Bescheinigung
+nicht mehr berücksichtigen will, mitzuteilen.
+
+
+#### § 909 Datenweitergabe; Löschungspflicht
+
+(1) Das Kreditinstitut darf zum Zwecke der Überprüfung der Richtigkeit
+der Versicherung nach § 850k Absatz 3 Satz 2 Auskunfteien mitteilen,
+dass es für den Kontoinhaber ein Pfändungsschutzkonto führt. Nur zu
+diesem Zweck dürfen die Auskunfteien diese Angabe verarbeiten und sie
+nur auf Anfrage anderer Kreditinstitute an diese übermitteln. Die
+Verarbeitung zu einem anderen Zweck ist auch mit Einwilligung des
+Kontoinhabers unzulässig.
+
+(2) Wird das Pfändungsschutzkonto für den Kontoinhaber nicht mehr
+geführt, hat das Kreditinstitut die Auskunfteien, die nach Absatz 1
+Satz 1 eine Mitteilung erhalten haben, unverzüglich zu unterrichten.
+Die Auskunfteien haben nach Erhalt dieser Unterrichtung die Angabe
+über die Führung des Pfändungsschutzkontos unverzüglich zu löschen.
+
+
+#### § 910 Verwaltungsvollstreckung
+
+Die §§ 850k und 850l sowie die Regelungen dieses Abschnitts gelten
+auch bei einer Pfändung von Kontoguthaben wegen Forderungen, die im
+Wege der Verwaltungsvollstreckung nach Bundesrecht beigetrieben
+werden. Mit Ausnahme der Fälle des § 850k Absatz 4 Satz 1, des § 904
+Absatz 5 und des § 907 tritt die Vollstreckungsbehörde an die Stelle
+des Vollstreckungsgerichts.
+
+
+#### (XXXX) §§ 911 bis 915h (weggefallen)
+
 
 
 ### Abschnitt 5 - Arrest und einstweilige Verfügung
@@ -15227,7 +16761,8 @@ wesentlich erschwert werden würde.
 
 (2) Als ein zureichender Arrestgrund ist es anzusehen, wenn das Urteil
 im Ausland vollstreckt werden müsste und die Gegenseitigkeit nicht
-verbürgt ist.
+verbürgt ist. Eines Arrestgrundes bedarf es nicht, wenn der Arrest nur
+zur Sicherung der Zwangsvollstreckung in ein Schiff stattfindet.
 
 
 #### § 918 Arrestgrund bei persönlichem Arrest
@@ -15355,7 +16890,10 @@ Schuldner erfolgen soll.
 
 (2) Die Vollziehung des Arrestbefehls ist unstatthaft, wenn seit dem
 Tag, an dem der Befehl verkündet oder der Partei, auf deren Gesuch er
-erging, zugestellt ist, ein Monat verstrichen ist.
+erging, zugestellt ist, ein Monat verstrichen ist. Kann ein
+ausländischer Sicherungstitel im Inland ohne vorherige
+Vollstreckbarerklärung vollzogen werden, so beträgt die Frist nach
+Satz 1 zwei Monate.
 
 (3) Die Vollziehung ist vor der Zustellung des Arrestbefehls an den
 Schuldner zulässig. Sie ist jedoch ohne Wirkung, wenn die Zustellung
@@ -15379,6 +16917,10 @@ bewegliche körperliche Sache, wenn sie der Gefahr einer beträchtlichen
 Wertverringerung ausgesetzt ist oder wenn ihre Aufbewahrung
 unverhältnismäßige Kosten verursachen würde, versteigert und der Erlös
 hinterlegt werde.
+
+(4) Die Vollziehung des Arrestes in ein nicht eingetragenes Seeschiff
+ist unzulässig, wenn sich das Schiff auf der Reise befindet und nicht
+in einem Hafen liegt.
 
 
 #### § 931 Vollziehung in eingetragenes Schiff oder Schiffsbauwerk
@@ -15414,6 +16956,10 @@ festgestellte Geldbetrag ist als der Höchstbetrag zu bezeichnen, für
 den das Schiff oder Schiffsbauwerk haftet. Im Übrigen gelten der § 867
 Abs. 1 und 2 und der § 870a Abs. 3 entsprechend, soweit nicht
 vorstehend etwas anderes bestimmt ist.
+
+(7) Die Vollziehung des Arrestes in ein eingetragenes Seeschiff ist
+unzulässig, wenn sich das Schiff auf der Reise befindet und nicht in
+einem Hafen liegt.
 
 
 #### § 932 Arresthypothek
@@ -15491,7 +17037,7 @@ ohne mündliche Verhandlung ergehen.
 
 #### § 938 Inhalt der einstweiligen Verfügung
 
-(1) Das Gericht bestimmt nach freien Ermessen, welche Anordnungen zur
+(1) Das Gericht bestimmt nach freiem Ermessen, welche Anordnungen zur
 Erreichung des Zweckes erforderlich sind.
 
 (2) Die einstweilige Verfügung kann auch in einer Sequestration sowie
@@ -15519,9 +17065,23 @@ erscheint.
 
 #### § 940a Räumung von Wohnraum
 
-Die Räumung von Wohnraum darf durch einstweilige Verfügung nur wegen
-verbotener Eigenmacht oder bei einer konkreten Gefahr für Leib oder
-Leben angeordnet werden.
+(1) Die Räumung von Wohnraum darf durch einstweilige Verfügung nur
+wegen verbotener Eigenmacht oder bei einer konkreten Gefahr für Leib
+oder Leben angeordnet werden.
+
+(2) Die Räumung von Wohnraum darf durch einstweilige Verfügung auch
+gegen einen Dritten angeordnet werden, der im Besitz der Mietsache
+ist, wenn gegen den Mieter ein vollstreckbarer Räumungstitel vorliegt
+und der Vermieter vom Besitzerwerb des Dritten erst nach dem Schluss
+der mündlichen Verhandlung Kenntnis erlangt hat.
+
+(3) Ist Räumungsklage wegen Zahlungsverzugs erhoben, darf die Räumung
+von Wohnraum durch einstweilige Verfügung auch angeordnet werden, wenn
+der Beklagte einer Sicherungsanordnung (§ 283a) im Hauptsacheverfahren
+nicht Folge leistet.
+
+(4) In den Fällen der Absätze 2 und 3 hat das Gericht den Gegner vor
+Erlass einer Räumungsverfügung anzuhören.
 
 
 #### § 941 Ersuchen um Eintragungen im Grundbuch usw.
@@ -15589,7 +17149,300 @@ leistet, um die Vollziehung abzuwenden oder die Aufhebung der Maßregel
 zu erwirken.
 
 
-#### (XXXX) §§ 946 bis 1024 (weggefallen)
+#### § 945a Einreichung von Schutzschriften
+
+(1) Die Landesjustizverwaltung Hessen führt für die Länder ein
+zentrales, länderübergreifendes elektronisches Register für
+Schutzschriften (Schutzschriftenregister). Schutzschriften sind
+vorbeugende Verteidigungsschriftsätze gegen erwartete Anträge auf
+Arrest oder einstweilige Verfügung.
+
+(2) Eine Schutzschrift gilt als bei allen ordentlichen Gerichten der
+Länder eingereicht, sobald sie in das Schutzschriftenregister
+eingestellt ist. Schutzschriften sind sechs Monate nach ihrer
+Einstellung zu löschen.
+
+(3) Die Gerichte erhalten Zugriff auf das Register über ein
+automatisiertes Abrufverfahren. Die Verwendung der Daten ist auf das
+für die Erfüllung der gesetzlichen Aufgaben Erforderliche zu
+beschränken. Abrufvorgänge sind zu protokollieren.
+
+
+#### § 945b Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz hat durch
+Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Bestimmungen über die Einrichtung und Führung des Registers, über die
+Einreichung von Schutzschriften zum Register, über den Abruf von
+Schutzschriften aus dem Register sowie über die Einzelheiten der
+Datenübermittlung und -speicherung sowie der Datensicherheit und der
+Barrierefreiheit zu treffen.
+
+
+### Abschnitt 6 - Grenzüberschreitende vorläufige Kontenpfändung
+
+
+
+#### Titel 1 - Erlass des Beschlusses zur vorläufigen Kontenpfändung
+
+
+
+##### § 946 Zuständigkeit
+
+(1) Für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nach
+der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des
+Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen
+Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf
+die Erleichterung der grenzüberschreitenden Eintreibung von
+Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S.
+59) ist das Gericht der Hauptsache zuständig. Die §§ 943 und 944
+gelten entsprechend.
+
+(2) Hat der Gläubiger bereits eine öffentliche Urkunde (Artikel 4
+Nummer 10 der Verordnung (EU) Nr. 655/2014) erwirkt, in der der
+Schuldner verpflichtet wird, die Forderung zu erfüllen, ist das
+Gericht zuständig, in dessen Bezirk die Urkunde errichtet worden ist.
+
+
+##### § 947 Verfahren
+
+(1) Der Gläubiger kann sich in dem Verfahren auf Erlass des
+Beschlusses zur vorläufigen Kontenpfändung aller Beweismittel sowie
+der Versicherung an Eides statt bedienen. Nur eine Beweisaufnahme, die
+sofort erfolgen kann, ist statthaft.
+
+(2) Das Gericht darf die ihm nach Artikel 14 Absatz 6 der Verordnung
+(EU) Nr. 655/2014 übermittelten Kontoinformationen für die Zwecke des
+jeweiligen Verfahrens auf Erlass eines Beschlusses zur vorläufigen
+Kontenpfändung speichern, übermitteln und nutzen. Soweit übermittelte
+Kontoinformationen für den Erlass des Beschlusses zur vorläufigen
+Kontenpfändung nicht erforderlich sind, sind sie unverzüglich zu
+löschen oder ist deren Verarbeitung einzuschränken. Die Löschung ist
+zu protokollieren. § 802d Absatz 1 Satz 3 gilt entsprechend.
+
+
+##### § 948 Ersuchen um Einholung von Kontoinformationen
+
+(1) Zuständige Auskunftsbehörde gemäß Artikel 14 der Verordnung (EU)
+Nr. 655/2014 für die Einholung von Kontoinformationen ist das
+Bundesamt für Justiz.
+
+(2) Zum Zweck der Einholung von Kontoinformationen nach Artikel 14 der
+Verordnung (EU) Nr. 655/2014 darf das Bundesamt für Justiz das
+Bundeszentralamt für Steuern ersuchen, bei den Kreditinstituten die in
+§ 93b Absatz 1 der Abgabenordnung bezeichneten Daten abzurufen (§ 93
+Absatz 8 der Abgabenordnung).
+
+(3) Das Bundesamt für Justiz protokolliert die eingehenden Ersuchen um
+Einholung von Kontoinformationen gemäß Artikel 14 der Verordnung (EU)
+Nr. 655/2014. Zu protokollieren sind ebenfalls die Bezeichnung der
+ersuchenden Stelle eines anderen Mitgliedstaates der Europäischen
+Union, der Abruf der in § 93b Absatz 1 der Abgabenordnung bezeichneten
+Daten und der Zeitpunkt des Eingangs dieser Daten sowie die
+Weiterleitung der eingegangenen Daten an die ersuchende Stelle. Das
+Bundesamt für Justiz löscht den Inhalt der eingeholten
+Kontoinformationen unverzüglich nach deren Übermittlung an die
+ersuchende Stelle; die Löschung ist zu protokollieren.
+
+
+##### § 949 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
+
+(1) Ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung
+wird nach Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr.
+655/2014 durch Beschluss widerrufen.
+
+(2) Zuständige Stelle, an die gemäß Artikel 10 Absatz 2 Unterabsatz 3
+der Verordnung (EU) Nr. 655/2014 das Widerrufsformblatt zu übermitteln
+ist, ist das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren
+stattfinden soll oder stattgefunden hat. Ist ein in einem anderen
+Mitgliedstaat der Europäischen Union erlassener Beschluss zur
+vorläufigen Kontenpfändung im Inland zu vollziehen, hat das
+Amtsgericht nach Satz 1 den Beschluss, durch den das Gericht den
+Beschluss zur vorläufigen Kontenpfändung widerrufen hat, der Bank im
+Sinne des Artikels 4 Nummer 2 der Verordnung (EU) Nr. 655/2014
+zuzustellen.
+
+
+#### Titel 2 - Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
+
+
+
+##### § 950 Anwendbare Vorschriften
+
+Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung
+sind die Vorschriften des Achten Buchs über die Zwangsvollstreckung
+sowie § 930 Absatz 1 Satz 2 entsprechend anzuwenden, soweit die
+Verordnung (EU) Nr. 655/2014 und die §§ 951 bis 957 keine abweichenden
+Vorschriften enthalten.
+
+
+##### § 951 Vollziehung von im Inland erlassenen Beschlüssen
+
+(1) Ist ein im Inland erlassener Beschluss zur vorläufigen
+Kontenpfändung im Inland zu vollziehen, hat der Gläubiger, der seinen
+Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union hat,
+den Beschluss der Bank zustellen zu lassen. Ist der Beschluss in einem
+anderen Mitgliedstaat der Europäischen Union zu vollziehen, hat der
+Gläubiger die Zustellung gemäß Artikel 23 Absatz 3 Unterabsatz 1 der
+Verordnung (EU) Nr. 655/2014 an die Bank zu veranlassen.
+
+(2) Das Gericht, das den Beschluss erlassen hat, lässt dem Schuldner
+den Beschluss nach Artikel 28 der Verordnung (EU) Nr. 655/2014
+zustellen; diese Zustellung gilt als Zustellung auf Betreiben des
+Gläubigers (§ 191). Eine Übersetzung oder Transliteration, die nach
+Artikel 28 Absatz 5 in Verbindung mit Artikel 49 Absatz 1 der
+Verordnung (EU) Nr. 655/2014 erforderlich ist, hat der Gläubiger
+bereitzustellen.
+
+
+##### § 952 Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
+
+(1) Zuständige Stelle ist
+
+1.  in den in Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3 und
+    Artikel 27 Absatz 2 der Verordnung (EU) Nr. 655/2014 bezeichneten
+    Fällen das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren
+    stattfinden soll oder stattgefunden hat,
+
+
+2.  in den in Artikel 28 Absatz 3 der Verordnung (EU) Nr. 655/2014
+    bezeichneten Fällen das Amtsgericht, in dessen Bezirk der Schuldner
+    seinen Wohnsitz hat.
+
+
+
+
+(2) Das nach Absatz 1 Nummer 1 zuständige Amtsgericht hat
+
+1.  in den in Artikel 23 Absatz 3 der Verordnung (EU) Nr. 655/2014
+    bezeichneten Fällen der Bank den Beschluss zur vorläufigen
+    Kontenpfändung zuzustellen,
+
+
+2.  in den in Artikel 27 Absatz 2 der Verordnung (EU) Nr. 655/2014
+    bezeichneten Fällen der Bank die Freigabeerklärung des Gläubigers
+    zuzustellen.
+
+
+
+
+
+#### Titel 3 - Rechtsbehelfe
+
+
+
+##### § 953 Rechtsbehelfe des Gläubigers
+
+(1) Gegen die Ablehnung des Antrags auf Erlass eines Beschlusses zur
+vorläufigen Kontenpfändung und gegen den Widerruf des Beschlusses zur
+vorläufigen Kontenpfändung (§ 949 Absatz 1), soweit sie durch das
+Gericht des ersten Rechtszuges erfolgt sind, findet die sofortige
+Beschwerde statt.
+
+(2) Die in Artikel 21 Absatz 2 Satz 1 der Verordnung (EU) Nr. 655/2014
+bezeichnete Frist von 30 Tagen für die Einlegung des Rechtsbehelfs
+beginnt mit der Zustellung der Entscheidung an den Gläubiger. Dies
+gilt auch in den Fällen des § 321a Absatz 2 für die Ablehnung des
+Antrags auf Erlass des Beschlusses durch das Berufungsgericht.
+
+(3) Die sofortige Beschwerde gegen den Widerruf des Beschlusses zur
+vorläufigen Kontenpfändung ist innerhalb einer Notfrist von einem
+Monat ab Zustellung einzulegen.
+
+
+##### § 954 Rechtsbehelfe nach den Artikeln 33 bis 35 der Verordnung (EU) Nr. 655/2014
+
+(1) Über den Rechtsbehelf des Schuldners gegen einen im Inland
+erlassenen Beschluss zur vorläufigen Kontenpfändung nach Artikel 33
+Absatz 1 der Verordnung (EU) Nr. 655/2014 (Widerspruch) entscheidet
+das Gericht, das den Beschluss erlassen hat. Die Entscheidung ergeht
+durch Beschluss. Die Sätze 1 und 2 gelten entsprechend für den
+Widerspruch des Schuldners gemäß Artikel 33 Absatz 2 der Verordnung
+(EU) Nr. 655/2014 gegen die Entscheidung nach Artikel 12 der
+Verordnung (EU) Nr. 655/2014.
+
+(2) Über den Rechtsbehelf des Schuldners wegen Einwendungen gegen die
+Vollziehung eines Beschlusses zur vorläufigen Kontenpfändung im Inland
+nach Artikel 34 der Verordnung (EU) Nr. 655/2014 entscheidet das
+Vollstreckungsgericht (§ 764 Absatz 2). Für den Antrag nach Artikel 34
+Absatz 1 Buchstabe a der Verordnung (EU) Nr. 655/2014 gelten § 906
+Absatz 1 Satz 2, Absatz 2 und § 907 entsprechend.
+
+(3) Über Rechtsbehelfe, die nach Artikel 35 Absatz 3 und 4 der
+Verordnung (EU) Nr. 655/2014 im Vollstreckungsmitgliedstaat eingelegt
+werden, entscheidet ebenfalls das Vollstreckungsgericht. Sofern nach
+Artikel 35 der Verordnung (EU) Nr. 655/2014 das Gericht zuständig ist,
+das den Beschluss zur vorläufigen Kontenpfändung erlassen hat, ergeht
+die Entscheidung durch Beschluss.
+
+(4) Zuständige Stelle ist in den Fällen des Artikels 36 Absatz 5
+Unterabsatz 2 der Verordnung (EU) Nr. 655/2014 das Amtsgericht, in
+dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder
+stattgefunden hat. Dieses hat den Beschluss der Bank zuzustellen.
+
+
+##### § 955 Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
+
+Für die Entscheidung über Anträge des Schuldners auf Beendigung der
+Vollstreckung wegen erbrachter Sicherheitsleistung nach Artikel 38
+Absatz 1 Buchstabe b der Verordnung (EU) Nr. 655/2014 ist das
+Vollstreckungsgericht zuständig. Die Entscheidung nach Artikel 38
+Absatz 1 der Verordnung (EU) Nr. 655/2014 ergeht durch Beschluss.
+
+
+##### § 956 Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
+
+(1) Gegen die Entscheidungen des Vollstreckungsgerichts nach § 954
+Absatz 2 und 3 Satz 1 sowie nach § 955 Satz 1 findet die sofortige
+Beschwerde statt. Dies gilt auch für Entscheidungen des Gerichts des
+ersten Rechtszugs in den Fällen des § 954 Absatz 1 und 3 Satz 2 sowie
+des § 955 Satz 2.
+
+(2) Die sofortige Beschwerde ist innerhalb einer Notfrist von einem
+Monat ab Zustellung der Entscheidung einzulegen.
+
+
+##### § 957 Ausschluss der Rechtsbeschwerde
+
+In Verfahren zur grenzüberschreitenden vorläufigen Kontenpfändung nach
+der Verordnung (EU) Nr. 655/2014 findet die Rechtsbeschwerde nicht
+statt.
+
+
+#### Titel 4 - Schadensersatz; Verordnungsermächtigung
+
+
+
+##### § 958 Schadensersatz
+
+Erweist sich die Anordnung eines Beschlusses zur vorläufigen
+Kontenpfändung, der im Inland vollzogen worden ist, als von Anfang an
+ungerechtfertigt, so ist der Gläubiger verpflichtet, dem Schuldner den
+Schaden zu ersetzen, der ihm aus der Vollziehung des Beschlusses oder
+dadurch entsteht, dass er Sicherheit leistet, um die Freigabe der
+vorläufig gepfändeten Gelder oder die Beendigung der Vollstreckung zu
+erwirken. Im Übrigen richtet sich die Haftung des Gläubigers gegenüber
+dem Schuldner nach Artikel 13 Absatz 1 und 2 der Verordnung (EU) Nr.
+655/2014.
+
+
+##### § 959 Verordnungsermächtigung
+
+(1) Die Landesregierungen können die Aufgaben nach Artikel 10 Absatz
+2, Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3, Artikel 27
+Absatz 2, Artikel 28 Absatz 3 sowie Artikel 36 Absatz 5 Unterabsatz 2
+und 3 der Verordnung (EU) Nr. 655/2014 einem Amtsgericht für die
+Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
+
+(2) Die Landesregierungen können die Ermächtigung nach Absatz 1 durch
+Rechtsverordnung einer obersten Landesbehörde übertragen.
+
+
+## Buch 9 - (weggefallen)
+
+
+
+### (XXXX) §§ 960 bis 1024 (weggefallen)
 
 
 
@@ -15710,9 +17563,7 @@ enthält, so begründet dies eine Schiedsvereinbarung, wenn die
 Bezugnahme dergestalt ist, dass sie diese Klausel zu einem Bestandteil
 des Vertrages macht.
 
-(4) Eine Schiedsvereinbarung wird auch durch die Begebung eines
-Konnossements begründet, in dem ausdrücklich auf die in einem
-Chartervertrag enthaltene Schiedsklausel Bezug genommen wird.
+(4) (weggefallen)
 
 (5) Schiedsvereinbarungen, an denen ein Verbraucher beteiligt ist,
 müssen in einer von den Parteien eigenhändig unterzeichneten Urkunde
@@ -16546,14 +18397,17 @@ angeordnet werden, gelten die Vorschriften dieses Buches entsprechend.
 
 #### § 1067 Zustellung durch diplomatische oder konsularische Vertretungen
 
-Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007 des
-Europäischen Parlaments und des Rates vom 13. November 2007 über die
-Zustellung gerichtlicher und außergerichtlicher Schriftstücke in
-Zivil- oder Handelssachen in den Mitgliedstaaten und zur Aufhebung der
-Verordnung (EG) Nr. 1348/2000 (ABl. EU Nr. L 324 S. 79), die in der
-Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn
-der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des
-Übermittlungsstaats ist.
+(1) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007
+durch eine deutsche Auslandsvertretung an eine Person, die nicht die
+deutsche Staatsangehörigkeit besitzt, wird nur vorgenommen, sofern der
+Mitgliedstaat, in dem die Zustellung erfolgen soll, dies nicht durch
+eine Erklärung nach Artikel 23 Absatz 1 der Verordnung (EG) Nr.
+1393/2007 ausgeschlossen hat.
+
+(2) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007,
+die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur
+zulässig, wenn der Adressat des zuzustellenden Schriftstücks
+Staatsangehöriger des Übermittlungsstaats ist.
 
 
 #### § 1068 Zustellung durch die Post
@@ -16561,13 +18415,15 @@ der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des
 (1) Zum Nachweis der Zustellung nach Artikel 14 der Verordnung (EG)
 Nr. 1393/2007 genügt der Rückschein oder der gleichwertige Beleg.
 
-(2) Ein Schriftstück, dessen Zustellung eine deutsche Empfangsstelle
-im Rahmen von Artikel 7 Abs. 1 der Verordnung (EG) Nr. 1393/2007 zu
-bewirken oder zu veranlassen hat, kann ebenfalls durch Einschreiben
-mit Rückschein zugestellt werden.
+(2) Sofern die ausländische Übermittlungsstelle keine besondere, im
+deutschen Recht vorgesehene Form der Zustellung wünscht, kann ein
+Schriftstück, dessen Zustellung eine deutsche Empfangsstelle im Rahmen
+von Artikel 7 Absatz 1 der Verordnung (EG) Nr. 1393/2007 zu bewirken
+oder zu veranlassen hat, ebenfalls durch Einschreiben mit Rückschein
+zugestellt werden.
 
 
-#### § 1069 Zuständigkeiten
+#### § 1069 Zuständigkeiten; Verordnungsermächtigungen
 
 (1) Für Zustellungen im Ausland sind als deutsche Übermittlungsstelle
 im Sinne von Artikel 2 Abs. 1 der Verordnung (EG) Nr. 1393/2007
@@ -16591,10 +18447,11 @@ zuständig:
 
 (2) Für Zustellungen in der Bundesrepublik Deutschland ist als
 deutsche Empfangsstelle im Sinne von Artikel 2 Abs. 2 der Verordnung
-(EG) Nr. 1393/2007 dasjenige Amtsgericht zuständig, in dessen Bezirk
-das Schriftstück zugestellt werden soll. Die Landesregierungen können
-die Aufgaben der Empfangsstelle einem Amtsgericht für die Bezirke
-mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
+(EG) Nr. 1393/2007 die Geschäftsstelle desjenigen Amtsgerichts
+zuständig, in dessen Bezirk das Schriftstück zugestellt werden soll.
+Die Landesregierungen können die Aufgaben der Empfangsstelle einem
+Amtsgericht für die Bezirke mehrerer Amtsgerichte durch
+Rechtsverordnung zuweisen.
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung die Stelle,
 die in dem jeweiligen Land als deutsche Zentralstelle im Sinne von
@@ -16607,9 +18464,14 @@ Rechtsverordnung nach Absatz 1 Nr. 2, Absatz 2 Satz 2 und Absatz 3
 Satz 1 einer obersten Landesbehörde übertragen.
 
 
-#### § 1070 (weggefallen)
+#### § 1070 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
 
--
+Wenn die Verordnung (EG) Nr. 1393/2007 im Verhältnis zu Dänemark auf
+Grund des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen
+Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die
+Zustellung gerichtlicher und außergerichtlicher Schriftstücke in
+Zivil- oder Handelssachen anwendbar ist, gelten die Vorschriften der
+§§ 1067 bis 1069 entsprechend.
 
 
 #### § 1071 (weggefallen)
@@ -16623,10 +18485,8 @@ Satz 1 einer obersten Landesbehörde übertragen.
 
 #### § 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
 
-Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 des
-Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten
-der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder
-Handelssachen (ABl. EG Nr. L 174 S. 1) erfolgen, so kann das Gericht
+Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001
+erfolgen, so kann das Gericht
 
 1.  unmittelbar das zuständige Gericht eines anderen Mitgliedstaats um
     Aufnahme des Beweises ersuchen oder
@@ -16723,14 +18583,14 @@ Rechtsverordnung zuweisen. Sie können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen. § 21
 Satz 1 des Auslandsunterhaltsgesetzes bleibt unberührt.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die in Artikel 16 Abs.
-1 der Richtlinie 2003/8/EG vorgesehenen Standardformulare für Anträge
-auf grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung
-einzuführen. Soweit Standardformulare für Anträge auf
-grenzüberschreitende Prozesskostenhilfe und für deren Übermittlung
-eingeführt sind, müssen sich der Antragsteller und die
-Übermittlungsstelle ihrer bedienen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+in Artikel 16 Abs. 1 der Richtlinie 2003/8/EG vorgesehenen
+Standardformulare für Anträge auf grenzüberschreitende
+Prozesskostenhilfe und für deren Übermittlung einzuführen. Soweit
+Standardformulare für Anträge auf grenzüberschreitende
+Prozesskostenhilfe und für deren Übermittlung eingeführt sind, müssen
+sich der Antragsteller und die Übermittlungsstelle ihrer bedienen.
 
 (3) Die Übermittlungsstelle kann die Übermittlung durch Beschluss
 vollständig oder teilweise ablehnen, wenn der Antrag offensichtlich
@@ -16826,11 +18686,9 @@ Für die Ausstellung der Bestätigungen nach
 
 
 
-der Verordnung (EG) Nr. 805/2004 des Europäischen Parlaments und des
-Rates vom 21. April 2004 zur Einführung eines Europäischen
-Vollstreckungstitels für unbestrittene Forderungen (ABl. EU Nr. L 143
-S. 15) sind die Gerichte, Behörden oder Notare zuständig, denen die
-Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
+der Verordnung (EG) Nr. 805/2004 sind die Gerichte, Behörden oder
+Notare zuständig, denen die Erteilung einer vollstreckbaren
+Ausfertigung des Titels obliegt.
 
 
 ##### § 1080 Entscheidung
@@ -16838,7 +18696,9 @@ Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 (1) Bestätigungen nach Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25
 Abs. 1 und Artikel 6 Abs. 3 der Verordnung (EG) Nr. 805/2004 sind ohne
 Anhörung des Schuldners auszustellen. Eine Ausfertigung der
-Bestätigung ist dem Schuldner von Amts wegen zuzustellen.
+Bestätigung ist dem Schuldner von Amts wegen zuzustellen. Das gilt
+nicht, wenn die antragstellende Person Übermittlung an sich zur
+Zustellung im Parteibetrieb beantragt hat.
 
 (2) Wird der Antrag auf Ausstellung einer Bestätigung zurückgewiesen,
 so sind die Vorschriften über die Anfechtung der Entscheidung über die
@@ -16921,12 +18781,12 @@ der Vollstreckbarkeit nach Artikel 6 Abs. 2 der Verordnung (EG) Nr.
 
 ##### § 1086 Vollstreckungsabwehrklage
 
-(1) Für Klagen nach § 767 ist das Gericht ausschließlich örtlich
-zuständig, in dessen Bezirk der Schuldner seinen Wohnsitz hat, oder,
-wenn er im Inland keinen Wohnsitz hat, das Gericht, in dessen Bezirk
-die Zwangsvollstreckung stattfinden soll oder stattgefunden hat. Der
-Sitz von Gesellschaften oder juristischen Personen steht dem Wohnsitz
-gleich.
+(1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 ist das
+Gericht ausschließlich örtlich zuständig, in dessen Bezirk der
+Schuldner seinen Wohnsitz hat, oder, wenn er im Inland keinen Wohnsitz
+hat, das Gericht, in dessen Bezirk die Zwangsvollstreckung stattfinden
+soll oder stattgefunden hat. Der Sitz von Gesellschaften oder
+juristischen Personen steht dem Wohnsitz gleich.
 
 (2) § 767 Abs. 2 ist entsprechend auf gerichtliche Vergleiche und
 öffentliche Urkunden anzuwenden.
@@ -16944,10 +18804,8 @@ gleich.
 
 Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die
 Vollstreckbarerklärung eines Europäischen Zahlungsbefehls nach der
-Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des
-Rates vom 12. Dezember 2006 zur Einführung eines Europäischen
-Mahnverfahrens (ABl. EU Nr. L 399 S. 1) ist das Amtsgericht Wedding in
-Berlin ausschließlich zuständig.
+Verordnung (EG) Nr. 1896/2006 ist das Amtsgericht Wedding in Berlin
+ausschließlich zuständig.
 
 
 ##### § 1088 Maschinelle Bearbeitung
@@ -16955,7 +18813,8 @@ Berlin ausschließlich zuständig.
 (1) Der Antrag auf Erlass des Europäischen Zahlungsbefehls und der
 Einspruch können in einer nur maschinell lesbaren Form bei Gericht
 eingereicht werden, wenn diese dem Gericht für seine maschinelle
-Bearbeitung geeignet erscheint. § 130a Abs. 3 gilt entsprechend.
+Bearbeitung geeignet erscheint. § 130a Absatz 5 Satz 1 gilt
+entsprechend.
 
 (2) Der Senat des Landes Berlin bestimmt durch Rechtsverordnung, die
 nicht der Zustimmung des Bundesrates bedarf, den Zeitpunkt, in dem
@@ -16990,7 +18849,11 @@ zuständig ist. Das Gericht setzt dem Antragsteller hierfür eine nach
 den Umständen angemessene Frist und weist ihn darauf hin, dass dem für
 die Durchführung des streitigen Verfahrens bezeichneten Gericht die
 Prüfung seiner Zuständigkeit vorbehalten bleibt. Die Aufforderung ist
-dem Antragsgegner mitzuteilen.
+dem Antragsgegner mitzuteilen. Für den Fall, dass der Antragsteller
+nicht innerhalb der ihm hierfür nach Satz 2 gesetzten Frist das für
+die Durchführung des streitigen Verfahrens zuständige Gericht benennt,
+ist der Europäische Zahlungsbefehl aufzuheben. Hierdurch endet das
+Verfahren nach der Verordnung (EG) Nr. 1896/2006.
 
 (2) Nach Eingang der Mitteilung des Antragstellers nach Absatz 1 Satz
 1 gibt das Gericht, das den Europäischen Zahlungsbefehl erlassen hat,
@@ -17030,6 +18893,36 @@ endet das Verfahren nach der Verordnung (EG) Nr. 1896/2006.
 Verordnung (EG) Nr. 1896/2006 findet nicht statt.
 
 
+##### § 1092a Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
+
+(1) Der Antragsgegner kann die Aufhebung des Europäischen
+Zahlungsbefehls beantragen, wenn ihm der Europäische Zahlungsbefehl
+
+1.  nicht zugestellt wurde oder
+
+
+2.  in einer nicht den Anforderungen der Artikel 13 bis 15 der Verordnung
+    (EG) Nr. 1896/2006 genügenden Weise zugestellt wurde.
+
+
+
+Der Antrag muss innerhalb eines Monats ab dem Zeitpunkt gestellt
+werden, zu dem der Antragsgegner Kenntnis vom Erlass des Europäischen
+Zahlungsbefehls oder des Zustellungsmangels gehabt hat oder hätte
+haben können. Gibt das Gericht dem Antrag aus einem der in Satz 1
+genannten Gründe statt, wird der Europäische Zahlungsbefehl für
+nichtig erklärt.
+
+(2) Hat das Gericht zum Zeitpunkt der Antragstellung nach Absatz 1
+Satz 1 den Europäischen Zahlungsbefehl bereits nach Artikel 18 der
+Verordnung (EG) Nr. 1896/2006 für vollstreckbar erklärt und gibt es
+dem Antrag nunmehr statt, so erklärt es die Zwangsvollstreckung aus
+dem Zahlungsbefehl für unzulässig. Absatz 1 Satz 3 gilt entsprechend.
+
+(3) Die Entscheidung ergeht durch Beschluss. Der Beschluss ist
+unanfechtbar. § 1092 Absatz 2 bis 4 findet entsprechende Anwendung.
+
+
 #### Titel 4 - Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl
 
 
@@ -17054,10 +18947,11 @@ beglaubigen.
 ##### § 1095 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
 
 (1) Wird die Überprüfung eines im Inland erlassenen Europäischen
-Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006
-beantragt, gilt § 707 entsprechend. Für die Entscheidung über den
-Antrag nach § 707 ist das Gericht zuständig, das über den Antrag nach
-Artikel 20 der Verordnung (EG) Nr. 1896/2006 entscheidet.
+Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 oder
+dessen Aufhebung nach § 1092a beantragt, gilt § 707 entsprechend. Für
+die Entscheidung über den Antrag nach § 707 ist das Gericht zuständig,
+das über den Antrag nach Artikel 20 der Verordnung (EG) Nr. 1896/2006
+entscheidet.
 
 (2) Einwendungen, die den Anspruch selbst betreffen, sind nur insoweit
 zulässig, als die Gründe, auf denen sie beruhen, nach Zustellung des
@@ -17076,8 +18970,8 @@ ist § 1084 Abs. 1 und 3 entsprechend anzuwenden.
 
 (2) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel
 22 Abs. 2 der Verordnung (EG) Nr. 1896/2006 gilt § 1086 Abs. 1
-entsprechend. Für Klagen nach § 767 sind § 1086 Abs. 1 und § 1095 Abs.
-2 entsprechend anzuwenden.
+entsprechend. Für Klagen nach § 795 Satz 1 in Verbindung mit § 767
+sind § 1086 Abs. 1 und § 1095 Abs. 2 entsprechend anzuwenden.
 
 
 ### Abschnitt 6 - Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007
@@ -17090,12 +18984,10 @@ entsprechend. Für Klagen nach § 767 sind § 1086 Abs. 1 und § 1095 Abs.
 
 ##### § 1097 Einleitung und Durchführung des Verfahrens
 
-(1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 des
-Europäischen Parlaments und des Rates vom 11. Juli 2007 zur Einführung
-eines europäischen Verfahrens für geringfügige Forderungen (ABl. EU
-Nr. L 199 S. 1) und andere Anträge oder Erklärungen können als
-Schriftsatz, als Telekopie oder nach Maßgabe des § 130a als
-elektronisches Dokument bei Gericht eingereicht werden.
+(1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 und andere
+Anträge oder Erklärungen können als Schriftsatz, als Telekopie oder
+nach Maßgabe des § 130a als elektronisches Dokument bei Gericht
+eingereicht werden.
 
 (2) Im Fall des Artikels 4 Abs. 3 der Verordnung (EG) Nr. 861/2007
 wird das Verfahren über die Klage ohne Anwendung der Vorschriften der
@@ -17128,7 +19020,7 @@ zur Zeit der Erhebung der Widerklage befunden hat.
 (1) Das Gericht kann den Parteien sowie ihren Bevollmächtigten und
 Beiständen gestatten, sich während einer Verhandlung an einem anderen
 Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. § 128a Abs.
-1 Satz 2 und Abs. 3 bleibt unberührt.
+1 Satz 2 und Abs. 3 Satz 1 bleibt unberührt.
 
 (2) Die Bestimmung eines frühen ersten Termins zur mündlichen
 Verhandlung (§ 275) ist ausgeschlossen.
@@ -17137,12 +19029,13 @@ Verhandlung (§ 275) ist ausgeschlossen.
 ##### § 1101 Beweisaufnahme
 
 (1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art
-aufnehmen, soweit Artikel 9 Abs. 2 und 3 der Verordnung (EG) Nr.
+aufnehmen, soweit Artikel 9 Abs. 2 bis 4 der Verordnung (EG) Nr.
 861/2007 nichts anderes bestimmt.
 
 (2) Das Gericht kann einem Zeugen, Sachverständigen oder einer Partei
 gestatten, sich während einer Vernehmung an einem anderen Ort
-aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 bleibt unberührt.
+aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 Satz 1 bleibt
+unberührt.
 
 
 ##### § 1102 Urteil
@@ -17161,14 +19054,25 @@ anzuwenden.
 
 ##### § 1104 Abhilfe bei unverschuldeter Säumnis des Beklagten
 
-(1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 der Verordnung
-(EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es wird in die
-Lage zurückversetzt, in der es sich vor Erlass des Urteils befand. Auf
-Antrag stellt das Gericht die Nichtigkeit des Urteils durch Beschluss
-fest.
+(1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 und 2 der
+Verordnung (EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es
+wird in die Lage zurückversetzt, in der es sich vor Erlass des Urteils
+befand. Auf Antrag stellt das Gericht die Nichtigkeit des Urteils
+durch Beschluss fest.
 
 (2) Der Beklagte hat die tatsächlichen Voraussetzungen des Artikels 18
-Abs. 1 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
+Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
+
+
+##### § 1104a Gemeinsame Gerichte
+
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem
+Amtsgericht für die Bezirke mehrerer Amtsgerichte und einem
+Landgericht für die Bezirke mehrerer Landgerichte die Angelegenheiten
+in europäischen Verfahren für geringfügige Forderungen nach der
+Verordnung (EG) Nr. 861/2007 zuzuweisen, wenn dies der sachlichen
+Förderung der Verfahren dient. Die Landesregierungen können die
+Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
 #### Titel 2 - Zwangsvollstreckung
@@ -17228,10695 +19132,186 @@ anzuwenden.
 (2) § 1086 gilt entsprechend.
 
 
-##### Anlage (zu § 850c)
+### Abschnitt 7 - Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012
 
-(Fundstelle: BGBl. I 2005, 3363 - 3378)
 
 
-*
+#### Titel 1 - Bescheinigung über inländische Titel
 
 
 
-*    *   Netto-Lohn monatlich
+##### § 1110 Zuständigkeit
 
-    *   Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
+Für die Ausstellung der Bescheinigung nach den Artikeln 53 und 60 der
+Verordnung (EU) Nr. 1215/2012 sind die Gerichte oder Notare zuständig,
+denen die Erteilung einer vollstreckbaren Ausfertigung des Titels
+obliegt.
 
 
-*    *   0
+##### § 1111 Verfahren
 
-    *   1
+(1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU)
+Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den
+Fällen des § 726 Absatz 1 und der §§ 727 bis 729 kann der Schuldner
+vor der Ausstellung der Bescheinigung gehört werden. Eine Ausfertigung
+der Bescheinigung ist dem Schuldner von Amts wegen zuzustellen. Das
+gilt nicht, wenn die antragstellende Person Übermittlung an sich zur
+Zustellung im Parteibetrieb beantragt hat.
 
-    *   2
+(2) Für die Anfechtbarkeit der Entscheidung über die Ausstellung der
+Bescheinigung nach Absatz 1 gelten die Vorschriften über die
+Anfechtbarkeit der Entscheidung über die Erteilung der
+Vollstreckungsklausel entsprechend.
 
-    *   3
 
-    *   4
+#### Titel 2 - Anerkennung und Vollstreckung ausländischer Titel im Inland
 
-    *   5 und mehr
 
 
-*    *   in EUR
+##### § 1112 Entbehrlichkeit der Vollstreckungsklausel
 
+Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen
+Union vollstreckbar ist, findet die Zwangsvollstreckung im Inland
+statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-*    *
-    *   bis
 
-    *   -
+##### § 1113 Übersetzung oder Transliteration
 
-    *   -
+Hat eine Partei nach Artikel 57 der Verordnung (EU) Nr. 1215/2012 eine
+Übersetzung oder eine Transliteration vorzulegen, so ist diese in
+deutscher Sprache abzufassen und von einer in einem Mitgliedstaat der
+Europäischen Union hierzu befugten Person zu erstellen.
 
-    *   -
 
-    *   -
+##### § 1114 Anfechtung der Anpassung eines Titels
 
-    *   -
+Für die Anfechtung der Anpassung eines Titels (Artikel 54 der
+Verordnung (EU) Nr. 1215/2012) sind folgende Rechtsgrundlagen
+entsprechend anzuwenden:
 
-    *   -
+1.  im Fall von Maßnahmen des Gerichtsvollziehers oder des
+    Vollstreckungsgerichts § 766,
 
 
-*    *   939,99
+2.  im Fall von Entscheidungen des Vollstreckungsgerichts oder von
+    Vollstreckungsmaßnahmen des Prozessgerichts § 793 und
 
 
-*    *   940,00
+3.  im Fall von Vollstreckungsmaßnahmen des Grundbuchamts § 71 der
+    Grundbuchordnung.
 
-    *   bis
 
-    *   7,00
 
-    *   -
 
-    *   -
 
-    *   -
+##### § 1115 Versagung der Anerkennung oder der Vollstreckung
 
-    *   -
+(1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung
+(Artikel 45 Absatz 4 und Artikel 47 Absatz 1 der Verordnung (EU) Nr.
+1215/2012) ist das Landgericht ausschließlich zuständig.
 
-    *   -
+(2) Örtlich zuständig ist ausschließlich das Landgericht, in dessen
+Bezirk der Schuldner seinen Wohnsitz hat. Hat der Schuldner im Inland
+keinen Wohnsitz, ist ausschließlich das Landgericht zuständig, in
+dessen Bezirk die Zwangsvollstreckung durchgeführt werden soll. Der
+Sitz von Gesellschaften und juristischen Personen steht dem Wohnsitz
+gleich.
 
+(3) Der Antrag auf Versagung kann bei dem zuständigen Landgericht
+schriftlich eingereicht oder mündlich zu Protokoll der Geschäftsstelle
+erklärt werden.
 
-*    *   949,99
+(4) Über den Antrag auf Versagung entscheidet der Vorsitzende einer
+Zivilkammer durch Beschluss. Der Beschluss ist zu begründen und kann
+ohne mündliche Verhandlung ergehen. Der Antragsgegner ist vor der
+Entscheidung zu hören.
 
+(5) Gegen die Entscheidung findet die sofortige Beschwerde statt. Die
+Notfrist des § 569 Absatz 1 Satz 1 beträgt einen Monat und beginnt mit
+der Zustellung der Entscheidung. Gegen den Beschluss des
+Beschwerdegerichts findet die Rechtsbeschwerde statt.
 
-*    *   950,00
+(6) Über den Antrag auf Aussetzung oder Beschränkung der Vollstreckung
+und den Antrag, die Vollstreckung von der Leistung einer Sicherheit
+abhängig zu machen (Artikel 44 Absatz 1 der Verordnung (EU) Nr.
+1215/2012), wird durch einstweilige Anordnung entschieden. Die
+Entscheidung ist unanfechtbar.
 
-    *   bis
 
-    *   14,00
+##### § 1116 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
 
-    *   -
+Auf Antrag des Schuldners (Artikel 44 Absatz 2 der Verordnung (EU) Nr.
+1215/2012) ist die Zwangsvollstreckung entsprechend § 775 Nummer 1 und
+2 und § 776 auch dann einzustellen oder zu beschränken, wenn der
+Schuldner eine Entscheidung eines Gerichts des Ursprungsmitgliedstaats
+über die Nichtvollstreckbarkeit oder über die Beschränkung der
+Vollstreckbarkeit vorlegt. Auf Verlangen des Vollstreckungsorgans ist
+eine Übersetzung der Entscheidung vorzulegen. § 1108 gilt
+entsprechend.
 
-    *   -
 
-    *   -
+##### § 1117 Vollstreckungsabwehrklage
 
-    *   -
+(1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 gilt § 1086
+Absatz 1 entsprechend.
 
-    *   -
+(2) Richtet sich die Klage gegen die Vollstreckung aus einem
+gerichtlichen Vergleich oder einer öffentlichen Urkunde, ist § 767
+Absatz 2 nicht anzuwenden.
 
 
-*    *   959,99
+### Abschnitt 8 - Beweis der Echtheit ausländischer öffentlicher Urkunden nach der Verordnung (EU) 2016/1191
 
 
-*    *   960,00
 
-    *   bis
+#### § 1118 Zentralbehörde
 
-    *   21,00
+Das Bundesamt für Justiz ist Zentralbehörde nach Artikel 15 Absatz 1
+der Verordnung (EU) 2016/1191 des Europäischen Parlaments und des
+Rates vom 6. Juli 2016 zur Förderung der Freizügigkeit von Bürgern
+durch die Vereinfachung der Anforderungen an die Vorlage bestimmter
+öffentlicher Urkunden innerhalb der Europäischen Union und zur
+Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 200 vom 26.7.2016,
+S. 1). Die Verfahren nach diesem Gesetz vor dem Bundesamt für Justiz
+sind Justizverwaltungsverfahren. Informationen nach Artikel 22 Absatz
+2 der Verordnung werden durch das Bundesamt für Justiz mitgeteilt.
 
-    *   -
 
-    *   -
+#### § 1119 Verwaltungszusammenarbeit
 
-    *   -
+(1) Soweit bei der Überprüfung der Echtheit einer öffentlichen Urkunde
+oder einer beglaubigten Kopie eine Nachfrage bei der ausstellenden
+deutschen Behörde erforderlich ist, kann sich das Bundesamt
+unmittelbar an diese Behörde wenden. Dazu nutzt es das Binnenmarkt-
+Informationssystem unter Beachtung bereits vorhandener
+Verfahrensstrukturen. Diese Behörden sind im Rahmen ihrer
+Zuständigkeit neben dem Bundesamt für Justiz auch zuständig für die
+Beantwortung von Auskunftsersuchen der Mitgliedstaaten der
+Europäischen Union.
 
-    *   -
+(2) Über Änderungen bei den gemäß Artikel 22 Absatz 1 Buchstabe b der
+Verordnung einzustellenden Urkunden unterrichtet das Bundesministerium
+des Innern, für Bau und Heimat das Bundesamt für Justiz, soweit diese
+in seine Zuständigkeit fallen.
 
-    *   -
 
+#### § 1120 Mehrsprachige Formulare
 
-*    *   969,99
+Mehrsprachige Formulare gemäß Artikel 7 der Verordnung (EU) 2016/1191
+werden durch die Behörden ausgestellt, die für die Erteilung der
+Urkunden zuständig sind. Das Bundesamt für Justiz ist für das
+Ausstellen der Formulare zuständig, soweit Urkunden des
+Geschäftsbereichs des Bundesministeriums der Justiz und für
+Verbraucherschutz oder gerichtliche Urkunden betroffen sind.
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
+und IV
+(BGBl. II 1990, 889, 927, 940)
+Abschnitt III
+- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+Abschnitt IV
 
-*    *   970,00
-
-    *   bis
-
-    *   28,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   979,99
-
-
-*    *   980,00
-
-    *   bis
-
-    *   35,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   989,99
-
-
-*    *   990,00
-
-    *   bis
-
-    *   42,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   999,99
-
-
-*    *   1.000,00
-
-    *   bis
-
-    *   49,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.009,99
-
-
-*    *   1.010,00
-
-    *   bis
-
-    *   56,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.019,99
-
-
-*    *   1.020,00
-
-    *   bis
-
-    *   63,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.029,99
-
-
-*    *   1.030,00
-
-    *   bis
-
-    *   70,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.039,99
-
-
-*    *   1.040,00
-
-    *   bis
-
-    *   77,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.049,99
-
-
-*    *   1.050,00
-
-    *   bis
-
-    *   84,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.059,99
-
-
-*    *   1.060,00
-
-    *   bis
-
-    *   91,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.069,99
-
-
-*    *   1.070,00
-
-    *   bis
-
-    *   98,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.079,99
-
-
-*    *   1.080,00
-
-    *   bis
-
-    *   105,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.089,99
-
-
-*    *   1.090,00
-
-    *   bis
-
-    *   112,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.099,99
-
-
-*    *   1.100,00
-
-    *   bis
-
-    *   119,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.109,99
-
-
-*    *   1.110,00
-
-    *   bis
-
-    *   126,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.119,99
-
-
-*    *   1.120,00
-
-    *   bis
-
-    *   133,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.129,99
-
-
-*    *   1.130,00
-
-    *   bis
-
-    *   140,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.139,99
-
-
-*    *   1.140,00
-
-    *   bis
-
-    *   147,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.149,99
-
-
-*    *   1.150,00
-
-    *   bis
-
-    *   154,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.159,99
-
-
-*    *   1.160,00
-
-    *   bis
-
-    *   161,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.169,99
-
-
-*    *   1.170,00
-
-    *   bis
-
-    *   168,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.179,99
-
-
-*    *   1.180,00
-
-    *   bis
-
-    *   175,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.189,99
-
-
-*    *   1.190,00
-
-    *   bis
-
-    *   182,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.199,99
-
-
-*    *   1.200,00
-
-    *   bis
-
-    *   189,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.209,99
-
-
-*    *   1.210,00
-
-    *   bis
-
-    *   196,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.219,99
-
-
-*    *   1.220,00
-
-    *   bis
-
-    *   203,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.229,99
-
-
-*    *   1.230,00
-
-    *   bis
-
-    *   210,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.239,99
-
-
-*    *   1.240,00
-
-    *   bis
-
-    *   217,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.249,99
-
-
-*    *   1.250,00
-
-    *   bis
-
-    *   224,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.259,99
-
-
-*    *   1.260,00
-
-    *   bis
-
-    *   231,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.269,99
-
-
-*    *   1.270,00
-
-    *   bis
-
-    *   238,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.279,99
-
-
-*    *   1.280,00
-
-    *   bis
-
-    *   245,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.289,99
-
-
-*    *   1.290,00
-
-    *   bis
-
-    *   252,00
-
-    *   5,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.299,99
-
-
-*    *   1.300,00
-
-    *   bis
-
-    *   259,00
-
-    *   10,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.309,99
-
-
-*    *   1.310,00
-
-    *   bis
-
-    *   266,00
-
-    *   15,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.319,99
-
-
-*    *   1.320,00
-
-    *   bis
-
-    *   273,00
-
-    *   20,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.329,99
-
-
-*    *   1.330,00
-
-    *   bis
-
-    *   280,00
-
-    *   25,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.339,99
-
-
-*    *   1.340,00
-
-    *   bis
-
-    *   287,00
-
-    *   30,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.349,99
-
-
-*    *   1.350,00
-
-    *   bis
-
-    *   294,00
-
-    *   35,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.359,99
-
-
-*    *   1.360,00
-
-    *   bis
-
-    *   301,00
-
-    *   40,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.369,99
-
-
-*    *   1.370,00
-
-    *   bis
-
-    *   308,00
-
-    *   45,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.379,99
-
-
-*    *   1.380,00
-
-    *   bis
-
-    *   315,00
-
-    *   50,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.389,99
-
-
-*    *   1.390,00
-
-    *   bis
-
-    *   322,00
-
-    *   55,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.399,99
-
-
-*    *   1.400,00
-
-    *   bis
-
-    *   329,00
-
-    *   60,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.409,99
-
-
-*    *   1.410,00
-
-    *   bis
-
-    *   336,00
-
-    *   65,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.419,99
-
-
-*    *   1.420,00
-
-    *   bis
-
-    *   343,00
-
-    *   70,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.429,99
-
-
-*    *   1.430,00
-
-    *   bis
-
-    *   350,00
-
-    *   75,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.439,99
-
-
-*    *   1.440,00
-
-    *   bis
-
-    *   357,00
-
-    *   80,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.449,99
-
-
-*    *   1.450,00
-
-    *   bis
-
-    *   364,00
-
-    *   85,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.459,99
-
-
-*    *   1.460,00
-
-    *   bis
-
-    *   371,00
-
-    *   90,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.469,99
-
-
-*    *   1.470,00
-
-    *   bis
-
-    *   378,00
-
-    *   95,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.479,99
-
-
-*    *   1.480,00
-
-    *   bis
-
-    *   385,00
-
-    *   100,00
-
-    *   2,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.489,99
-
-
-*    *   1.490,00
-
-    *   bis
-
-    *   392,00
-
-    *   105,00
-
-    *   6,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.499,99
-
-
-*    *   1.500,00
-
-    *   bis
-
-    *   399,00
-
-    *   110,00
-
-    *   10,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.509,99
-
-
-*    *   1.510,00
-
-    *   bis
-
-    *   406,00
-
-    *   115,00
-
-    *   14,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.519,99
-
-
-*    *   1.520,00
-
-    *   bis
-
-    *   413,00
-
-    *   120,00
-
-    *   18,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.529,99
-
-
-*    *   1.530,00
-
-    *   bis
-
-    *   420,00
-
-    *   125,00
-
-    *   22,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.539,99
-
-
-*    *   1.540,00
-
-    *   bis
-
-    *   427,00
-
-    *   130,00
-
-    *   26,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.549,99
-
-
-*    *   1.550,00
-
-    *   bis
-
-    *   434,00
-
-    *   135,00
-
-    *   30,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.559,99
-
-
-*    *   1.560,00
-
-    *   bis
-
-    *   441,00
-
-    *   140,00
-
-    *   34,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.569,99
-
-
-*    *   1.570,00
-
-    *   bis
-
-    *   448,00
-
-    *   145,00
-
-    *   38,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.579,99
-
-
-*    *   1.580,00
-
-    *   bis
-
-    *   455,00
-
-    *   150,00
-
-    *   42,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.589,99
-
-
-*    *   1.590,00
-
-    *   bis
-
-    *   462,00
-
-    *   155,00
-
-    *   46,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.599,99
-
-
-*    *   1.600,00
-
-    *   bis
-
-    *   469,00
-
-    *   160,00
-
-    *   50,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.609,99
-
-
-*    *   1.610,00
-
-    *   bis
-
-    *   476,00
-
-    *   165,00
-
-    *   54,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.619,99
-
-
-*    *   1.620,00
-
-    *   bis
-
-    *   483,00
-
-    *   170,00
-
-    *   58,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.629,99
-
-
-*    *   1.630,00
-
-    *   bis
-
-    *   490,00
-
-    *   175,00
-
-    *   62,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.639,99
-
-
-*    *   1.640,00
-
-    *   bis
-
-    *   497,00
-
-    *   180,00
-
-    *   66,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.649,99
-
-
-*    *   1.650,00
-
-    *   bis
-
-    *   504,00
-
-    *   185,00
-
-    *   70,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.659,99
-
-
-*    *   1.660,00
-
-    *   bis
-
-    *   511,00
-
-    *   190,00
-
-    *   74,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.669,99
-
-
-*    *   1.670,00
-
-    *   bis
-
-    *   518,00
-
-    *   195,00
-
-    *   78,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   1.679,99
-
-
-*    *   1.680,00
-
-    *   bis
-
-    *   525,00
-
-    *   200,00
-
-    *   82,00
-
-    *   3,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.689,99
-
-
-*    *   1.690,00
-
-    *   bis
-
-    *   532,00
-
-    *   205,00
-
-    *   86,00
-
-    *   6,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.699,99
-
-
-*    *   1.700,00
-
-    *   bis
-
-    *   539,00
-
-    *   210,00
-
-    *   90,00
-
-    *   9,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.709,99
-
-
-*    *   1.710,00
-
-    *   bis
-
-    *   546,00
-
-    *   215,00
-
-    *   94,00
-
-    *   12,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.719,99
-
-
-*    *   1.720,00
-
-    *   bis
-
-    *   553,00
-
-    *   220,00
-
-    *   98,00
-
-    *   15,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.729,99
-
-
-*    *   1.730,00
-
-    *   bis
-
-    *   560,00
-
-    *   225,00
-
-    *   102,00
-
-    *   18,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.739,99
-
-
-*    *   1.740,00
-
-    *   bis
-
-    *   567,00
-
-    *   230,00
-
-    *   106,00
-
-    *   21,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.749,99
-
-
-*    *   1.750,00
-
-    *   bis
-
-    *   574,00
-
-    *   235,00
-
-    *   110,00
-
-    *   24,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.759,99
-
-
-*    *   1.760,00
-
-    *   bis
-
-    *   581,00
-
-    *   240,00
-
-    *   114,00
-
-    *   27,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.769,99
-
-
-*    *   1.770,00
-
-    *   bis
-
-    *   588,00
-
-    *   245,00
-
-    *   118,00
-
-    *   30,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.779,99
-
-
-*    *   1.780,00
-
-    *   bis
-
-    *   595,00
-
-    *   250,00
-
-    *   122,00
-
-    *   33,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.789,99
-
-
-*    *   1.790,00
-
-    *   bis
-
-    *   602,00
-
-    *   255,00
-
-    *   126,00
-
-    *   36,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.799,99
-
-
-*    *   1.800,00
-
-    *   bis
-
-    *   609,00
-
-    *   260,00
-
-    *   130,00
-
-    *   39,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.809,99
-
-
-*    *   1.810,00
-
-    *   bis
-
-    *   616,00
-
-    *   265,00
-
-    *   134,00
-
-    *   42,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.819,99
-
-
-*    *   1.820,00
-
-    *   bis
-
-    *   623,00
-
-    *   270,00
-
-    *   138,00
-
-    *   45,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.829,99
-
-
-*    *   1.830,00
-
-    *   bis
-
-    *   630,00
-
-    *   275,00
-
-    *   142,00
-
-    *   48,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.839,99
-
-
-*    *   1.840,00
-
-    *   bis
-
-    *   637,00
-
-    *   280,00
-
-    *   146,00
-
-    *   51,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.849,99
-
-
-*    *   1.850,00
-
-    *   bis
-
-    *   644,00
-
-    *   285,00
-
-    *   150,00
-
-    *   54,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.859,99
-
-
-*    *   1.860,00
-
-    *   bis
-
-    *   651,00
-
-    *   290,00
-
-    *   154,00
-
-    *   57,00
-
-    *   -
-
-    *   -
-
-
-*    *   1.869,99
-
-
-*    *   1.870,00
-
-    *   bis
-
-    *   658,00
-
-    *   295,00
-
-    *   158,00
-
-    *   60,00
-
-    *   1,00
-
-    *   -
-
-
-*    *   1.879,99
-
-
-*    *   1.880,00
-
-    *   bis
-
-    *   665,00
-
-    *   300,00
-
-    *   162,00
-
-    *   63,00
-
-    *   3,00
-
-    *   -
-
-
-*    *   1.889,99
-
-
-*    *   1.890,00
-
-    *   bis
-
-    *   672,00
-
-    *   305,00
-
-    *   166,00
-
-    *   66,00
-
-    *   5,00
-
-    *   -
-
-
-*    *   1.899,99
-
-
-*    *   1.900,00
-
-    *   bis
-
-    *   679,00
-
-    *   310,00
-
-    *   170,00
-
-    *   69,00
-
-    *   7,00
-
-    *   -
-
-
-*    *   1.909,99
-
-
-*    *   1.910,00
-
-    *   bis
-
-    *   686,00
-
-    *   315,00
-
-    *   174,00
-
-    *   72,00
-
-    *   9,00
-
-    *   -
-
-
-*    *   1.919,99
-
-
-*    *   1.920,00
-
-    *   bis
-
-    *   693,00
-
-    *   320,00
-
-    *   178,00
-
-    *   75,00
-
-    *   11,00
-
-    *   -
-
-
-*    *   1.929,99
-
-
-*    *   1.930,00
-
-    *   bis
-
-    *   700,00
-
-    *   325,00
-
-    *   182,00
-
-    *   78,00
-
-    *   13,00
-
-    *   -
-
-
-*    *   1.939,99
-
-
-*    *   1.940,00
-
-    *   bis
-
-    *   707,00
-
-    *   330,00
-
-    *   186,00
-
-    *   81,00
-
-    *   15,00
-
-    *   -
-
-
-*    *   1.949,99
-
-
-*    *   1.950,00
-
-    *   bis
-
-    *   714,00
-
-    *   335,00
-
-    *   190,00
-
-    *   84,00
-
-    *   17,00
-
-    *   -
-
-
-*    *   1.959,99
-
-
-*    *   1.960,00
-
-    *   bis
-
-    *   721,00
-
-    *   340,00
-
-    *   194,00
-
-    *   87,00
-
-    *   19,00
-
-    *   -
-
-
-*    *   1.969,99
-
-
-*    *   1.970,00
-
-    *   bis
-
-    *   728,00
-
-    *   345,00
-
-    *   198,00
-
-    *   90,00
-
-    *   21,00
-
-    *   -
-
-
-*    *   1.979,99
-
-
-*    *   1.980,00
-
-    *   bis
-
-    *   735,00
-
-    *   350,00
-
-    *   202,00
-
-    *   93,00
-
-    *   23,00
-
-    *   -
-
-
-*    *   1.989,99
-
-
-*    *   1.990,00
-
-    *   bis
-
-    *   742,00
-
-    *   355,00
-
-    *   206,00
-
-    *   96,00
-
-    *   25,00
-
-    *   -
-
-
-*    *   1.999,99
-
-
-*    *   2.000,00
-
-    *   bis
-
-    *   749,00
-
-    *   360,00
-
-    *   210,00
-
-    *   99,00
-
-    *   27,00
-
-    *   -
-
-
-*    *   2.009,99
-
-
-*    *   2.010,00
-
-    *   bis
-
-    *   756,00
-
-    *   365,00
-
-    *   214,00
-
-    *   102,00
-
-    *   29,00
-
-    *   -
-
-
-*    *   2.019,99
-
-
-*    *   2.020,00
-
-    *   bis
-
-    *   763,00
-
-    *   370,00
-
-    *   218,00
-
-    *   105,00
-
-    *   31,00
-
-    *   -
-
-
-*    *   2.029,99
-
-
-*    *   2.030,00
-
-    *   bis
-
-    *   770,00
-
-    *   375,00
-
-    *   222,00
-
-    *   108,00
-
-    *   33,00
-
-    *   -
-
-
-*    *   2.039,99
-
-
-*    *   2.040,00
-
-    *   bis
-
-    *   777,00
-
-    *   380,00
-
-    *   226,00
-
-    *   111,00
-
-    *   35,00
-
-    *   -
-
-
-*    *   2.049,99
-
-
-*    *   2.050,00
-
-    *   bis
-
-    *   784,00
-
-    *   385,00
-
-    *   230,00
-
-    *   114,00
-
-    *   37,00
-
-    *   -
-
-
-*    *   2.059,99
-
-
-*    *   2.060,00
-
-    *   bis
-
-    *   791,00
-
-    *   390,00
-
-    *   234,00
-
-    *   117,00
-
-    *   39,00
-
-    *   -
-
-
-*    *   2.069,99
-
-
-*    *   2.070,00
-
-    *   bis
-
-    *   798,00
-
-    *   395,00
-
-    *   238,00
-
-    *   120,00
-
-    *   41,00
-
-    *   1,00
-
-
-*    *   2.079,99
-
-
-*    *   2.080,00
-
-    *   bis
-
-    *   805,00
-
-    *   400,00
-
-    *   242,00
-
-    *   123,00
-
-    *   43,00
-
-    *   2,00
-
-
-*    *   2.089,99
-
-
-*    *   2.090,00
-
-    *   bis
-
-    *   812,00
-
-    *   405,00
-
-    *   246,00
-
-    *   126,00
-
-    *   45,00
-
-    *   3,00
-
-
-*    *   2.099,99
-
-
-*    *   2.100,00
-
-    *   bis
-
-    *   819,00
-
-    *   410,00
-
-    *   250,00
-
-    *   129,00
-
-    *   47,00
-
-    *   4,00
-
-
-*    *   2.109,99
-
-
-*    *   2.110,00
-
-    *   bis
-
-    *   826,00
-
-    *   415,00
-
-    *   254,00
-
-    *   132,00
-
-    *   49,00
-
-    *   5,00
-
-
-*    *   2.119,99
-
-
-*    *   2.120,00
-
-    *   bis
-
-    *   833,00
-
-    *   420,00
-
-    *   258,00
-
-    *   135,00
-
-    *   51,00
-
-    *   6,00
-
-
-*    *   2.129,99
-
-
-*    *   2.130,00
-
-    *   bis
-
-    *   840,00
-
-    *   425,00
-
-    *   262,00
-
-    *   138,00
-
-    *   53,00
-
-    *   7,00
-
-
-*    *   2.139,99
-
-
-*    *   2.140,00
-
-    *   bis
-
-    *   847,00
-
-    *   430,00
-
-    *   266,00
-
-    *   141,00
-
-    *   55,00
-
-    *   8,00
-
-
-*    *   2.149,99
-
-
-*    *   2.150,00
-
-    *   bis
-
-    *   854,00
-
-    *   435,00
-
-    *   270,00
-
-    *   144,00
-
-    *   57,00
-
-    *   9,00
-
-
-*    *   2.159,99
-
-
-*    *   2.160,00
-
-    *   bis
-
-    *   861,00
-
-    *   440,00
-
-    *   274,00
-
-    *   147,00
-
-    *   59,00
-
-    *   10,00
-
-
-*    *   2.169,99
-
-
-*    *   2.170,00
-
-    *   bis
-
-    *   868,00
-
-    *   445,00
-
-    *   278,00
-
-    *   150,00
-
-    *   61,00
-
-    *   11,00
-
-
-*    *   2.179,99
-
-
-*    *   2.180,00
-
-    *   bis
-
-    *   875,00
-
-    *   450,00
-
-    *   282,00
-
-    *   153,00
-
-    *   63,00
-
-    *   12,00
-
-
-*    *   2.189,99
-
-
-*    *   2.190,00
-
-    *   bis
-
-    *   882,00
-
-    *   455,00
-
-    *   286,00
-
-    *   156,00
-
-    *   65,00
-
-    *   13,00
-
-
-*    *   2.199,99
-
-
-*    *   2.200,00
-
-    *   bis
-
-    *   889,00
-
-    *   460,00
-
-    *   290,00
-
-    *   159,00
-
-    *   67,00
-
-    *   14,00
-
-
-*    *   2.209,99
-
-
-*    *   2.210,00
-
-    *   bis
-
-    *   896,00
-
-    *   465,00
-
-    *   294,00
-
-    *   162,00
-
-    *   69,00
-
-    *   15,00
-
-
-*    *   2.219,99
-
-
-*    *   2.220,00
-
-    *   bis
-
-    *   903,00
-
-    *   470,00
-
-    *   298,00
-
-    *   165,00
-
-    *   71,00
-
-    *   16,00
-
-
-*    *   2.229,99
-
-
-*    *   2.230,00
-
-    *   bis
-
-    *   910,00
-
-    *   475,00
-
-    *   302,00
-
-    *   168,00
-
-    *   73,00
-
-    *   17,00
-
-
-*    *   2.239,99
-
-
-*    *   2.240,00
-
-    *   bis
-
-    *   917,00
-
-    *   480,00
-
-    *   306,00
-
-    *   171,00
-
-    *   75,00
-
-    *   18,00
-
-
-*    *   2.249,99
-
-
-*    *   2.250,00
-
-    *   bis
-
-    *   924,00
-
-    *   485,00
-
-    *   310,00
-
-    *   174,00
-
-    *   77,00
-
-    *   19,00
-
-
-*    *   2.259,99
-
-
-*    *   2.260,00
-
-    *   bis
-
-    *   931,00
-
-    *   490,00
-
-    *   314,00
-
-    *   177,00
-
-    *   79,00
-
-    *   20,00
-
-
-*    *   2.269,99
-
-
-*    *   2.270,00
-
-    *   bis
-
-    *   938,00
-
-    *   495,00
-
-    *   318,00
-
-    *   180,00
-
-    *   81,00
-
-    *   21,00
-
-
-*    *   2.279,99
-
-
-*    *   2.280,00
-
-    *   bis
-
-    *   945,00
-
-    *   500,00
-
-    *   322,00
-
-    *   183,00
-
-    *   83,00
-
-    *   22,00
-
-
-*    *   2.289,99
-
-
-*    *   2.290,00
-
-    *   bis
-
-    *   952,00
-
-    *   505,00
-
-    *   326,00
-
-    *   186,00
-
-    *   85,00
-
-    *   23,00
-
-
-*    *   2.299,99
-
-
-*    *   2.300,00
-
-    *   bis
-
-    *   959,00
-
-    *   510,00
-
-    *   330,00
-
-    *   189,00
-
-    *   87,00
-
-    *   24,00
-
-
-*    *   2.309,99
-
-
-*    *   2.310,00
-
-    *   bis
-
-    *   966,00
-
-    *   515,00
-
-    *   334,00
-
-    *   192,00
-
-    *   89,00
-
-    *   25,00
-
-
-*    *   2.319,99
-
-
-*    *   2.320,00
-
-    *   bis
-
-    *   973,00
-
-    *   520,00
-
-    *   338,00
-
-    *   195,00
-
-    *   91,00
-
-    *   26,00
-
-
-*    *   2.329,99
-
-
-*    *   2.330,00
-
-    *   bis
-
-    *   980,00
-
-    *   525,00
-
-    *   342,00
-
-    *   198,00
-
-    *   93,00
-
-    *   27,00
-
-
-*    *   2.339,99
-
-
-*    *   2.340,00
-
-    *   bis
-
-    *   987,00
-
-    *   530,00
-
-    *   346,00
-
-    *   201,00
-
-    *   95,00
-
-    *   28,00
-
-
-*    *   2.349,99
-
-
-*    *   2.350,00
-
-    *   bis
-
-    *   994,00
-
-    *   535,00
-
-    *   350,00
-
-    *   204,00
-
-    *   97,00
-
-    *   29,00
-
-
-*    *   2.359,99
-
-
-*    *   2.360,00
-
-    *   bis
-
-    *   1.001,00
-
-    *   540,00
-
-    *   354,00
-
-    *   207,00
-
-    *   99,00
-
-    *   30,00
-
-
-*    *   2.369,99
-
-
-*    *   2.370,00
-
-    *   bis
-
-    *   1.008,00
-
-    *   545,00
-
-    *   358,00
-
-    *   210,00
-
-    *   101,00
-
-    *   31,00
-
-
-*    *   2.379,99
-
-
-*    *   2.380,00
-
-    *   bis
-
-    *   1.015,00
-
-    *   550,00
-
-    *   362,00
-
-    *   213,00
-
-    *   103,00
-
-    *   32,00
-
-
-*    *   2.389,99
-
-
-*    *   2.390,00
-
-    *   bis
-
-    *   1.022,00
-
-    *   555,00
-
-    *   366,00
-
-    *   216,00
-
-    *   105,00
-
-    *   33,00
-
-
-*    *   2.399,99
-
-
-*    *   2.400,00
-
-    *   bis
-
-    *   1.029,00
-
-    *   560,00
-
-    *   370,00
-
-    *   219,00
-
-    *   107,00
-
-    *   34,00
-
-
-*    *   2.409,99
-
-
-*    *   2.410,00
-
-    *   bis
-
-    *   1.036,00
-
-    *   565,00
-
-    *   374,00
-
-    *   222,00
-
-    *   109,00
-
-    *   35,00
-
-
-*    *   2.419,99
-
-
-*    *   2.420,00
-
-    *   bis
-
-    *   1.043,00
-
-    *   570,00
-
-    *   378,00
-
-    *   225,00
-
-    *   111,00
-
-    *   36,00
-
-
-*    *   2.429,99
-
-
-*    *   2.430,00
-
-    *   bis
-
-    *   1.050,00
-
-    *   575,00
-
-    *   382,00
-
-    *   228,00
-
-    *   113,00
-
-    *   37,00
-
-
-*    *   2.439,99
-
-
-*    *   2.440,00
-
-    *   bis
-
-    *   1.057,00
-
-    *   580,00
-
-    *   386,00
-
-    *   231,00
-
-    *   115,00
-
-    *   38,00
-
-
-*    *   2.449,99
-
-
-*    *   2.450,00
-
-    *   bis
-
-    *   1.064,00
-
-    *   585,00
-
-    *   390,00
-
-    *   234,00
-
-    *   117,00
-
-    *   39,00
-
-
-*    *   2.459,99
-
-
-*    *   2.460,00
-
-    *   bis
-
-    *   1.071,00
-
-    *   590,00
-
-    *   394,00
-
-    *   237,00
-
-    *   119,00
-
-    *   40,00
-
-
-*    *   2.469,99
-
-
-*    *   2.470,00
-
-    *   bis
-
-    *   1.078,00
-
-    *   595,00
-
-    *   398,00
-
-    *   240,00
-
-    *   121,00
-
-    *   41,00
-
-
-*    *   2.479,99
-
-
-*    *   2.480,00
-
-    *   bis
-
-    *   1.085,00
-
-    *   600,00
-
-    *   402,00
-
-    *   243,00
-
-    *   123,00
-
-    *   42,00
-
-
-*    *   2.489,99
-
-
-*    *   2.490,00
-
-    *   bis
-
-    *   1.092,00
-
-    *   605,00
-
-    *   406,00
-
-    *   246,00
-
-    *   125,00
-
-    *   43,00
-
-
-*    *   2.499,99
-
-
-*    *   2.500,00
-
-    *   bis
-
-    *   1.099,00
-
-    *   610,00
-
-    *   410,00
-
-    *   249,00
-
-    *   127,00
-
-    *   44,00
-
-
-*    *   2.509,99
-
-
-*    *   2.510,00
-
-    *   bis
-
-    *   1.106,00
-
-    *   615,00
-
-    *   414,00
-
-    *   252,00
-
-    *   129,00
-
-    *   45,00
-
-
-*    *   2.519,99
-
-
-*    *   2.520,00
-
-    *   bis
-
-    *   1.113,00
-
-    *   620,00
-
-    *   418,00
-
-    *   255,00
-
-    *   131,00
-
-    *   46,00
-
-
-*    *   2.529,99
-
-
-*    *   2.530,00
-
-    *   bis
-
-    *   1.120,00
-
-    *   625,00
-
-    *   422,00
-
-    *   258,00
-
-    *   133,00
-
-    *   47,00
-
-
-*    *   2.539,99
-
-
-*    *   2.540,00
-
-    *   bis
-
-    *   1.127,00
-
-    *   630,00
-
-    *   426,00
-
-    *   261,00
-
-    *   135,00
-
-    *   48,00
-
-
-*    *   2.549,99
-
-
-*    *   2.550,00
-
-    *   bis
-
-    *   1.134,00
-
-    *   635,00
-
-    *   430,00
-
-    *   264,00
-
-    *   137,00
-
-    *   49,00
-
-
-*    *   2.559,99
-
-
-*    *   2.560,00
-
-    *   bis
-
-    *   1.141,00
-
-    *   640,00
-
-    *   434,00
-
-    *   267,00
-
-    *   139,00
-
-    *   50,00
-
-
-*    *   2.569,99
-
-
-*    *   2.570,00
-
-    *   bis
-
-    *   1.148,00
-
-    *   645,00
-
-    *   438,00
-
-    *   270,00
-
-    *   141,00
-
-    *   51,00
-
-
-*    *   2.579,99
-
-
-*    *   2.580,00
-
-    *   bis
-
-    *   1.155,00
-
-    *   650,00
-
-    *   442,00
-
-    *   273,00
-
-    *   143,00
-
-    *   52,00
-
-
-*    *   2.589,99
-
-
-*    *   2.590,00
-
-    *   bis
-
-    *   1.162,00
-
-    *   655,00
-
-    *   446,00
-
-    *   276,00
-
-    *   145,00
-
-    *   53,00
-
-
-*    *   2.599,99
-
-
-*    *   2.600,00
-
-    *   bis
-
-    *   1.169,00
-
-    *   660,00
-
-    *   450,00
-
-    *   279,00
-
-    *   147,00
-
-    *   54,00
-
-
-*    *   2.609,99
-
-
-*    *   2.610,00
-
-    *   bis
-
-    *   1.176,00
-
-    *   665,00
-
-    *   454,00
-
-    *   282,00
-
-    *   149,00
-
-    *   55,00
-
-
-*    *   2.619,99
-
-
-*    *   2.620,00
-
-    *   bis
-
-    *   1.183,00
-
-    *   670,00
-
-    *   458,00
-
-    *   285,00
-
-    *   151,00
-
-    *   56,00
-
-
-*    *   2.629,99
-
-
-*    *   2.630,00
-
-    *   bis
-
-    *   1.190,00
-
-    *   675,00
-
-    *   462,00
-
-    *   288,00
-
-    *   153,00
-
-    *   57,00
-
-
-*    *   2.639,99
-
-
-*    *   2.640,00
-
-    *   bis
-
-    *   1.197,00
-
-    *   680,00
-
-    *   466,00
-
-    *   291,00
-
-    *   155,00
-
-    *   58,00
-
-
-*    *   2.649,99
-
-
-*    *   2.650,00
-
-    *   bis
-
-    *   1.204,00
-
-    *   685,00
-
-    *   470,00
-
-    *   294,00
-
-    *   157,00
-
-    *   59,00
-
-
-*    *   2.659,99
-
-
-*    *   2.660,00
-
-    *   bis
-
-    *   1.211,00
-
-    *   690,00
-
-    *   474,00
-
-    *   297,00
-
-    *   159,00
-
-    *   60,00
-
-
-*    *   2.669,99
-
-
-*    *   2.670,00
-
-    *   bis
-
-    *   1.218,00
-
-    *   695,00
-
-    *   478,00
-
-    *   300,00
-
-    *   161,00
-
-    *   61,00
-
-
-*    *   2.679,99
-
-
-*    *   2.680,00
-
-    *   bis
-
-    *   1.225,00
-
-    *   700,00
-
-    *   482,00
-
-    *   303,00
-
-    *   163,00
-
-    *   62,00
-
-
-*    *   2.689,99
-
-
-*    *   2.690,00
-
-    *   bis
-
-    *   1.232,00
-
-    *   705,00
-
-    *   486,00
-
-    *   306,00
-
-    *   165,00
-
-    *   63,00
-
-
-*    *   2.699,99
-
-
-*    *   2.700,00
-
-    *   bis
-
-    *   1.239,00
-
-    *   710,00
-
-    *   490,00
-
-    *   309,00
-
-    *   167,00
-
-    *   64,00
-
-
-*    *   2.709,99
-
-
-*    *   2.710,00
-
-    *   bis
-
-    *   1.246,00
-
-    *   715,00
-
-    *   494,00
-
-    *   312,00
-
-    *   169,00
-
-    *   65,00
-
-
-*    *   2.719,99
-
-
-*    *   2.720,00
-
-    *   bis
-
-    *   1.253,00
-
-    *   720,00
-
-    *   498,00
-
-    *   315,00
-
-    *   171,00
-
-    *   66,00
-
-
-*    *   2.729,99
-
-
-*    *   2.730,00
-
-    *   bis
-
-    *   1.260,00
-
-    *   725,00
-
-    *   502,00
-
-    *   318,00
-
-    *   173,00
-
-    *   67,00
-
-
-*    *   2.739,99
-
-
-*    *   2.740,00
-
-    *   bis
-
-    *   1.267,00
-
-    *   730,00
-
-    *   506,00
-
-    *   321,00
-
-    *   175,00
-
-    *   68,00
-
-
-*    *   2.749,99
-
-
-*    *   2.750,00
-
-    *   bis
-
-    *   1.274,00
-
-    *   735,00
-
-    *   510,00
-
-    *   324,00
-
-    *   177,00
-
-    *   69,00
-
-
-*    *   2.759,99
-
-
-*    *   2.760,00
-
-    *   bis
-
-    *   1.281,00
-
-    *   740,00
-
-    *   514,00
-
-    *   327,00
-
-    *   179,00
-
-    *   70,00
-
-
-*    *   2.769,99
-
-
-*    *   2.770,00
-
-    *   bis
-
-    *   1.288,00
-
-    *   745,00
-
-    *   518,00
-
-    *   330,00
-
-    *   181,00
-
-    *   71,00
-
-
-*    *   2.779,99
-
-
-*    *   2.780,00
-
-    *   bis
-
-    *   1.295,00
-
-    *   750,00
-
-    *   522,00
-
-    *   333,00
-
-    *   183,00
-
-    *   72,00
-
-
-*    *   2.789,99
-
-
-*    *   2.790,00
-
-    *   bis
-
-    *   1.302,00
-
-    *   755,00
-
-    *   526,00
-
-    *   336,00
-
-    *   185,00
-
-    *   73,00
-
-
-*    *   2.799,99
-
-
-*    *   2.800,00
-
-    *   bis
-
-    *   1.309,00
-
-    *   760,00
-
-    *   530,00
-
-    *   339,00
-
-    *   187,00
-
-    *   74,00
-
-
-*    *   2.809,99
-
-
-*    *   2.810,00
-
-    *   bis
-
-    *   1.316,00
-
-    *   765,00
-
-    *   534,00
-
-    *   342,00
-
-    *   189,00
-
-    *   75,00
-
-
-*    *   2.819,99
-
-
-*    *   2.820,00
-
-    *   bis
-
-    *   1.323,00
-
-    *   770,00
-
-    *   538,00
-
-    *   345,00
-
-    *   191,00
-
-    *   76,00
-
-
-*    *   2.829,99
-
-
-*    *   2.830,00
-
-    *   bis
-
-    *   1.330,00
-
-    *   775,00
-
-    *   542,00
-
-    *   348,00
-
-    *   193,00
-
-    *   77,00
-
-
-*    *   2.839,99
-
-
-*    *   2.840,00
-
-    *   bis
-
-    *   1.337,00
-
-    *   780,00
-
-    *   546,00
-
-    *   351,00
-
-    *   195,00
-
-    *   78,00
-
-
-*    *   2.849,99
-
-
-*    *   2.850,00
-
-    *   bis
-
-    *   1.344,00
-
-    *   785,00
-
-    *   550,00
-
-    *   354,00
-
-    *   197,00
-
-    *   79,00
-
-
-*    *   2.851,00
-
-
-*    *   Der Mehrbetrag ab 2.851,00 EUR ist voll pfändbar.
-
-
-
-
-*    *   Netto-Lohn wöchentlich
-
-    *   Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
-
-
-*    *   0
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-    *   5 und mehr
-
-
-*    *   in EUR
-
-
-*    *
-    *   bis
-
-    *   219,99
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   220,00
-
-    *   bis
-
-    *   222,49
-
-    *   1,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   222,50
-
-    *   bis
-
-    *   224,99
-
-    *   3,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   225,00
-
-    *   bis
-
-    *   227,49
-
-    *   5,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   227,50
-
-    *   bis
-
-    *   229,99
-
-    *   7,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   230,00
-
-    *   bis
-
-    *   232,49
-
-    *   8,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   232,50
-
-    *   bis
-
-    *   234,99
-
-    *   10,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   235,00
-
-    *   bis
-
-    *   237,49
-
-    *   12,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   237,50
-
-    *   bis
-
-    *   239,99
-
-    *   14,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   240,00
-
-    *   bis
-
-    *   242,49
-
-    *   15,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   242,50
-
-    *   bis
-
-    *   244,99
-
-    *   17,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   245,00
-
-    *   bis
-
-    *   247,49
-
-    *   19,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   247,50
-
-    *   bis
-
-    *   249,99
-
-    *   21,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   250,00
-
-    *   bis
-
-    *   252,49
-
-    *   22,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   252,50
-
-    *   bis
-
-    *   254,99
-
-    *   24,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   255,00
-
-    *   bis
-
-    *   257,49
-
-    *   26,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   257,50
-
-    *   bis
-
-    *   259,99
-
-    *   28,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   260,00
-
-    *   bis
-
-    *   262,49
-
-    *   29,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   262,50
-
-    *   bis
-
-    *   264,99
-
-    *   31,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   265,00
-
-    *   bis
-
-    *   267,49
-
-    *   33,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   267,50
-
-    *   bis
-
-    *   269,99
-
-    *   35,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   270,00
-
-    *   bis
-
-    *   272,49
-
-    *   36,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   272,50
-
-    *   bis
-
-    *   274,99
-
-    *   38,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   275,00
-
-    *   bis
-
-    *   277,49
-
-    *   40,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   277,50
-
-    *   bis
-
-    *   279,99
-
-    *   42,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   280,00
-
-    *   bis
-
-    *   282,49
-
-    *   43,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   282,50
-
-    *   bis
-
-    *   284,99
-
-    *   45,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   285,00
-
-    *   bis
-
-    *   287,49
-
-    *   47,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   287,50
-
-    *   bis
-
-    *   289,99
-
-    *   49,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   290,00
-
-    *   bis
-
-    *   292,49
-
-    *   50,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   292,50
-
-    *   bis
-
-    *   294,99
-
-    *   52,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   295,00
-
-    *   bis
-
-    *   297,49
-
-    *   54,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   297,50
-
-    *   bis
-
-    *   299,99
-
-    *   56,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   300,00
-
-    *   bis
-
-    *   302,49
-
-    *   57,75
-
-    *   0,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   302,50
-
-    *   bis
-
-    *   304,99
-
-    *   59,50
-
-    *   2,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   305,00
-
-    *   bis
-
-    *   307,49
-
-    *   61,25
-
-    *   3,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   307,50
-
-    *   bis
-
-    *   309,99
-
-    *   63,00
-
-    *   4,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   310,00
-
-    *   bis
-
-    *   312,49
-
-    *   64,75
-
-    *   5,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   312,50
-
-    *   bis
-
-    *   314,99
-
-    *   66,50
-
-    *   7,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   315,00
-
-    *   bis
-
-    *   317,49
-
-    *   68,25
-
-    *   8,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   317,50
-
-    *   bis
-
-    *   319,99
-
-    *   70,00
-
-    *   9,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   320,00
-
-    *   bis
-
-    *   322,49
-
-    *   71,75
-
-    *   10,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   322,50
-
-    *   bis
-
-    *   324,99
-
-    *   73,50
-
-    *   12,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   325,00
-
-    *   bis
-
-    *   327,49
-
-    *   75,25
-
-    *   13,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   327,50
-
-    *   bis
-
-    *   329,99
-
-    *   77,00
-
-    *   14,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   330,00
-
-    *   bis
-
-    *   332,49
-
-    *   78,75
-
-    *   15,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   332,50
-
-    *   bis
-
-    *   334,99
-
-    *   80,50
-
-    *   17,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   335,00
-
-    *   bis
-
-    *   337,49
-
-    *   82,25
-
-    *   18,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   337,50
-
-    *   bis
-
-    *   339,99
-
-    *   84,00
-
-    *   19,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   340,00
-
-    *   bis
-
-    *   342,49
-
-    *   85,75
-
-    *   20,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   342,50
-
-    *   bis
-
-    *   344,99
-
-    *   87,50
-
-    *   22,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   345,00
-
-    *   bis
-
-    *   347,49
-
-    *   89,25
-
-    *   23,25
-
-    *   0,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   347,50
-
-    *   bis
-
-    *   349,99
-
-    *   91,00
-
-    *   24,50
-
-    *   1,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   350,00
-
-    *   bis
-
-    *   352,49
-
-    *   92,75
-
-    *   25,75
-
-    *   2,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   352,50
-
-    *   bis
-
-    *   354,99
-
-    *   94,50
-
-    *   27,00
-
-    *   3,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   355,00
-
-    *   bis
-
-    *   357,49
-
-    *   96,25
-
-    *   28,25
-
-    *   4,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   357,50
-
-    *   bis
-
-    *   359,99
-
-    *   98,00
-
-    *   29,50
-
-    *   5,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   360,00
-
-    *   bis
-
-    *   362,49
-
-    *   99,75
-
-    *   30,75
-
-    *   6,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   362,50
-
-    *   bis
-
-    *   364,99
-
-    *   101,50
-
-    *   32,00
-
-    *   7,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   365,00
-
-    *   bis
-
-    *   367,49
-
-    *   103,25
-
-    *   33,25
-
-    *   8,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   367,50
-
-    *   bis
-
-    *   369,99
-
-    *   105,00
-
-    *   34,50
-
-    *   9,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   370,00
-
-    *   bis
-
-    *   372,49
-
-    *   106,75
-
-    *   35,75
-
-    *   10,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   372,50
-
-    *   bis
-
-    *   374,99
-
-    *   108,50
-
-    *   37,00
-
-    *   11,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   375,00
-
-    *   bis
-
-    *   377,49
-
-    *   110,25
-
-    *   38,25
-
-    *   12,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   377,50
-
-    *   bis
-
-    *   379,99
-
-    *   112,00
-
-    *   39,50
-
-    *   13,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   380,00
-
-    *   bis
-
-    *   382,49
-
-    *   113,75
-
-    *   40,75
-
-    *   14,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   382,50
-
-    *   bis
-
-    *   384,99
-
-    *   115,50
-
-    *   42,00
-
-    *   15,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   385,00
-
-    *   bis
-
-    *   387,49
-
-    *   117,25
-
-    *   43,25
-
-    *   16,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   387,50
-
-    *   bis
-
-    *   389,99
-
-    *   119,00
-
-    *   44,50
-
-    *   17,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   390,00
-
-    *   bis
-
-    *   392,49
-
-    *   120,75
-
-    *   45,75
-
-    *   18,60
-
-    *   0,45
-
-    *   -
-
-    *   -
-
-
-*    *   392,50
-
-    *   bis
-
-    *   394,99
-
-    *   122,50
-
-    *   47,00
-
-    *   19,60
-
-    *   1,20
-
-    *   -
-
-    *   -
-
-
-*    *   395,00
-
-    *   bis
-
-    *   397,49
-
-    *   124,25
-
-    *   48,25
-
-    *   20,60
-
-    *   1,95
-
-    *   -
-
-    *   -
-
-
-*    *   397,50
-
-    *   bis
-
-    *   399,99
-
-    *   126,00
-
-    *   49,50
-
-    *   21,60
-
-    *   2,70
-
-    *   -
-
-    *   -
-
-
-*    *   400,00
-
-    *   bis
-
-    *   402,49
-
-    *   127,75
-
-    *   50,75
-
-    *   22,60
-
-    *   3,45
-
-    *   -
-
-    *   -
-
-
-*    *   402,50
-
-    *   bis
-
-    *   404,99
-
-    *   129,50
-
-    *   52,00
-
-    *   23,60
-
-    *   4,20
-
-    *   -
-
-    *   -
-
-
-*    *   405,00
-
-    *   bis
-
-    *   407,49
-
-    *   131,25
-
-    *   53,25
-
-    *   24,60
-
-    *   4,95
-
-    *   -
-
-    *   -
-
-
-*    *   407,50
-
-    *   bis
-
-    *   409,99
-
-    *   133,00
-
-    *   54,50
-
-    *   25,60
-
-    *   5,70
-
-    *   -
-
-    *   -
-
-
-*    *   410,00
-
-    *   bis
-
-    *   412,49
-
-    *   134,75
-
-    *   55,75
-
-    *   26,60
-
-    *   6,45
-
-    *   -
-
-    *   -
-
-
-*    *   412,50
-
-    *   bis
-
-    *   414,99
-
-    *   136,50
-
-    *   57,00
-
-    *   27,60
-
-    *   7,20
-
-    *   -
-
-    *   -
-
-
-*    *   415,00
-
-    *   bis
-
-    *   417,49
-
-    *   138,25
-
-    *   58,25
-
-    *   28,60
-
-    *   7,95
-
-    *   -
-
-    *   -
-
-
-*    *   417,50
-
-    *   bis
-
-    *   419,99
-
-    *   140,00
-
-    *   59,50
-
-    *   29,60
-
-    *   8,70
-
-    *   -
-
-    *   -
-
-
-*    *   420,00
-
-    *   bis
-
-    *   422,49
-
-    *   141,75
-
-    *   60,75
-
-    *   30,60
-
-    *   9,45
-
-    *   -
-
-    *   -
-
-
-*    *   422,50
-
-    *   bis
-
-    *   424,99
-
-    *   143,50
-
-    *   62,00
-
-    *   31,60
-
-    *   10,20
-
-    *   -
-
-    *   -
-
-
-*    *   425,00
-
-    *   bis
-
-    *   427,49
-
-    *   145,25
-
-    *   63,25
-
-    *   32,60
-
-    *   10,95
-
-    *   -
-
-    *   -
-
-
-*    *   427,50
-
-    *   bis
-
-    *   429,99
-
-    *   147,00
-
-    *   64,50
-
-    *   33,60
-
-    *   11,70
-
-    *   -
-
-    *   -
-
-
-*    *   430,00
-
-    *   bis
-
-    *   432,49
-
-    *   148,75
-
-    *   65,75
-
-    *   34,60
-
-    *   12,45
-
-    *   -
-
-    *   -
-
-
-*    *   432,50
-
-    *   bis
-
-    *   434,99
-
-    *   150,50
-
-    *   67,00
-
-    *   35,60
-
-    *   13,20
-
-    *   -
-
-    *   -
-
-
-*    *   435,00
-
-    *   bis
-
-    *   437,49
-
-    *   152,25
-
-    *   68,25
-
-    *   36,60
-
-    *   13,95
-
-    *   0,30
-
-    *   -
-
-
-*    *   437,50
-
-    *   bis
-
-    *   439,99
-
-    *   154,00
-
-    *   69,50
-
-    *   37,60
-
-    *   14,70
-
-    *   0,80
-
-    *   -
-
-
-*    *   440,00
-
-    *   bis
-
-    *   442,49
-
-    *   155,75
-
-    *   70,75
-
-    *   38,60
-
-    *   15,45
-
-    *   1,30
-
-    *   -
-
-
-*    *   442,50
-
-    *   bis
-
-    *   444,99
-
-    *   157,50
-
-    *   72,00
-
-    *   39,60
-
-    *   16,20
-
-    *   1,80
-
-    *   -
-
-
-*    *   445,00
-
-    *   bis
-
-    *   447,49
-
-    *   159,25
-
-    *   73,25
-
-    *   40,60
-
-    *   16,95
-
-    *   2,30
-
-    *   -
-
-
-*    *   447,50
-
-    *   bis
-
-    *   449,99
-
-    *   161,00
-
-    *   74,50
-
-    *   41,60
-
-    *   17,70
-
-    *   2,80
-
-    *   -
-
-
-*    *   450,00
-
-    *   bis
-
-    *   452,49
-
-    *   162,75
-
-    *   75,75
-
-    *   42,60
-
-    *   18,45
-
-    *   3,30
-
-    *   -
-
-
-*    *   452,50
-
-    *   bis
-
-    *   454,99
-
-    *   164,50
-
-    *   77,00
-
-    *   43,60
-
-    *   19,20
-
-    *   3,80
-
-    *   -
-
-
-*    *   455,00
-
-    *   bis
-
-    *   457,49
-
-    *   166,25
-
-    *   78,25
-
-    *   44,60
-
-    *   19,95
-
-    *   4,30
-
-    *   -
-
-
-*    *   457,50
-
-    *   bis
-
-    *   459,99
-
-    *   168,00
-
-    *   79,50
-
-    *   45,60
-
-    *   20,70
-
-    *   4,80
-
-    *   -
-
-
-*    *   460,00
-
-    *   bis
-
-    *   462,49
-
-    *   169,75
-
-    *   80,75
-
-    *   46,60
-
-    *   21,45
-
-    *   5,30
-
-    *   -
-
-
-*    *   462,50
-
-    *   bis
-
-    *   464,99
-
-    *   171,50
-
-    *   82,00
-
-    *   47,60
-
-    *   22,20
-
-    *   5,80
-
-    *   -
-
-
-*    *   465,00
-
-    *   bis
-
-    *   467,49
-
-    *   173,25
-
-    *   83,25
-
-    *   48,60
-
-    *   22,95
-
-    *   6,30
-
-    *   -
-
-
-*    *   467,50
-
-    *   bis
-
-    *   469,99
-
-    *   175,00
-
-    *   84,50
-
-    *   49,60
-
-    *   23,70
-
-    *   6,80
-
-    *   -
-
-
-*    *   470,00
-
-    *   bis
-
-    *   472,49
-
-    *   176,75
-
-    *   85,75
-
-    *   50,60
-
-    *   24,45
-
-    *   7,30
-
-    *   -
-
-
-*    *   472,50
-
-    *   bis
-
-    *   474,99
-
-    *   178,50
-
-    *   87,00
-
-    *   51,60
-
-    *   25,20
-
-    *   7,80
-
-    *   -
-
-
-*    *   475,00
-
-    *   bis
-
-    *   477,49
-
-    *   180,25
-
-    *   88,25
-
-    *   52,60
-
-    *   25,95
-
-    *   8,30
-
-    *   -
-
-
-*    *   477,50
-
-    *   bis
-
-    *   479,99
-
-    *   182,00
-
-    *   89,50
-
-    *   53,60
-
-    *   26,70
-
-    *   8,80
-
-    *   -
-
-
-*    *   480,00
-
-    *   bis
-
-    *   482,49
-
-    *   183,75
-
-    *   90,75
-
-    *   54,60
-
-    *   27,45
-
-    *   9,30
-
-    *   0,15
-
-
-*    *   482,50
-
-    *   bis
-
-    *   484,99
-
-    *   185,50
-
-    *   92,00
-
-    *   55,60
-
-    *   28,20
-
-    *   9,80
-
-    *   0,40
-
-
-*    *   485,00
-
-    *   bis
-
-    *   487,49
-
-    *   187,25
-
-    *   93,25
-
-    *   56,60
-
-    *   28,95
-
-    *   10,30
-
-    *   0,65
-
-
-*    *   487,50
-
-    *   bis
-
-    *   489,99
-
-    *   189,00
-
-    *   94,50
-
-    *   57,60
-
-    *   29,70
-
-    *   10,80
-
-    *   0,90
-
-
-*    *   490,00
-
-    *   bis
-
-    *   492,49
-
-    *   190,75
-
-    *   95,75
-
-    *   58,60
-
-    *   30,45
-
-    *   11,30
-
-    *   1,15
-
-
-*    *   492,50
-
-    *   bis
-
-    *   494,99
-
-    *   192,50
-
-    *   97,00
-
-    *   59,60
-
-    *   31,20
-
-    *   11,80
-
-    *   1,40
-
-
-*    *   495,00
-
-    *   bis
-
-    *   497,49
-
-    *   194,25
-
-    *   98,25
-
-    *   60,60
-
-    *   31,95
-
-    *   12,30
-
-    *   1,65
-
-
-*    *   497,50
-
-    *   bis
-
-    *   499,99
-
-    *   196,00
-
-    *   99,50
-
-    *   61,60
-
-    *   32,70
-
-    *   12,80
-
-    *   1,90
-
-
-*    *   500,00
-
-    *   bis
-
-    *   502,49
-
-    *   197,75
-
-    *   100,75
-
-    *   62,60
-
-    *   33,45
-
-    *   13,30
-
-    *   2,15
-
-
-*    *   502,50
-
-    *   bis
-
-    *   504,99
-
-    *   199,50
-
-    *   102,00
-
-    *   63,60
-
-    *   34,20
-
-    *   13,80
-
-    *   2,40
-
-
-*    *   505,00
-
-    *   bis
-
-    *   507,49
-
-    *   201,25
-
-    *   103,25
-
-    *   64,60
-
-    *   34,95
-
-    *   14,30
-
-    *   2,65
-
-
-*    *   507,50
-
-    *   bis
-
-    *   509,99
-
-    *   203,00
-
-    *   104,50
-
-    *   65,60
-
-    *   35,70
-
-    *   14,80
-
-    *   2,90
-
-
-*    *   510,00
-
-    *   bis
-
-    *   512,49
-
-    *   204,75
-
-    *   105,75
-
-    *   66,60
-
-    *   36,45
-
-    *   15,30
-
-    *   3,15
-
-
-*    *   512,50
-
-    *   bis
-
-    *   514,99
-
-    *   206,50
-
-    *   107,00
-
-    *   67,60
-
-    *   37,20
-
-    *   15,80
-
-    *   3,40
-
-
-*    *   515,00
-
-    *   bis
-
-    *   517,49
-
-    *   208,25
-
-    *   108,25
-
-    *   68,60
-
-    *   37,95
-
-    *   16,30
-
-    *   3,65
-
-
-*    *   517,50
-
-    *   bis
-
-    *   519,99
-
-    *   210,00
-
-    *   109,50
-
-    *   69,60
-
-    *   38,70
-
-    *   16,80
-
-    *   3,90
-
-
-*    *   520,00
-
-    *   bis
-
-    *   522,49
-
-    *   211,75
-
-    *   110,75
-
-    *   70,60
-
-    *   39,45
-
-    *   17,30
-
-    *   4,15
-
-
-*    *   522,50
-
-    *   bis
-
-    *   524,99
-
-    *   213,50
-
-    *   112,00
-
-    *   71,60
-
-    *   40,20
-
-    *   17,80
-
-    *   4,40
-
-
-*    *   525,00
-
-    *   bis
-
-    *   527,49
-
-    *   215,25
-
-    *   113,25
-
-    *   72,60
-
-    *   40,95
-
-    *   18,30
-
-    *   4,65
-
-
-*    *   527,50
-
-    *   bis
-
-    *   529,99
-
-    *   217,00
-
-    *   114,50
-
-    *   73,60
-
-    *   41,70
-
-    *   18,80
-
-    *   4,90
-
-
-*    *   530,00
-
-    *   bis
-
-    *   532,49
-
-    *   218,75
-
-    *   115,75
-
-    *   74,60
-
-    *   42,45
-
-    *   19,30
-
-    *   5,15
-
-
-*    *   532,50
-
-    *   bis
-
-    *   534,99
-
-    *   220,50
-
-    *   117,00
-
-    *   75,60
-
-    *   43,20
-
-    *   19,80
-
-    *   5,40
-
-
-*    *   535,00
-
-    *   bis
-
-    *   537,49
-
-    *   222,25
-
-    *   118,25
-
-    *   76,60
-
-    *   43,95
-
-    *   20,30
-
-    *   5,65
-
-
-*    *   537,50
-
-    *   bis
-
-    *   539,99
-
-    *   224,00
-
-    *   119,50
-
-    *   77,60
-
-    *   44,70
-
-    *   20,80
-
-    *   5,90
-
-
-*    *   540,00
-
-    *   bis
-
-    *   542,49
-
-    *   225,75
-
-    *   120,75
-
-    *   78,60
-
-    *   45,45
-
-    *   21,30
-
-    *   6,15
-
-
-*    *   542,50
-
-    *   bis
-
-    *   544,99
-
-    *   227,50
-
-    *   122,00
-
-    *   79,60
-
-    *   46,20
-
-    *   21,80
-
-    *   6,40
-
-
-*    *   545,00
-
-    *   bis
-
-    *   547,49
-
-    *   229,25
-
-    *   123,25
-
-    *   80,60
-
-    *   46,95
-
-    *   22,30
-
-    *   6,65
-
-
-*    *   547,50
-
-    *   bis
-
-    *   549,99
-
-    *   231,00
-
-    *   124,50
-
-    *   81,60
-
-    *   47,70
-
-    *   22,80
-
-    *   6,90
-
-
-*    *   550,00
-
-    *   bis
-
-    *   552,49
-
-    *   232,75
-
-    *   125,75
-
-    *   82,60
-
-    *   48,45
-
-    *   23,30
-
-    *   7,15
-
-
-*    *   552,50
-
-    *   bis
-
-    *   554,99
-
-    *   234,50
-
-    *   127,00
-
-    *   83,60
-
-    *   49,20
-
-    *   23,80
-
-    *   7,40
-
-
-*    *   555,00
-
-    *   bis
-
-    *   557,49
-
-    *   236,25
-
-    *   128,25
-
-    *   84,60
-
-    *   49,95
-
-    *   24,30
-
-    *   7,65
-
-
-*    *   557,50
-
-    *   bis
-
-    *   559,99
-
-    *   238,00
-
-    *   129,50
-
-    *   85,60
-
-    *   50,70
-
-    *   24,80
-
-    *   7,90
-
-
-*    *   560,00
-
-    *   bis
-
-    *   562,49
-
-    *   239,75
-
-    *   130,75
-
-    *   86,60
-
-    *   51,45
-
-    *   25,30
-
-    *   8,15
-
-
-*    *   562,50
-
-    *   bis
-
-    *   564,99
-
-    *   241,50
-
-    *   132,00
-
-    *   87,60
-
-    *   52,20
-
-    *   25,80
-
-    *   8,40
-
-
-*    *   565,00
-
-    *   bis
-
-    *   567,49
-
-    *   243,25
-
-    *   133,25
-
-    *   88,60
-
-    *   52,95
-
-    *   26,30
-
-    *   8,65
-
-
-*    *   567,50
-
-    *   bis
-
-    *   569,99
-
-    *   245,00
-
-    *   134,50
-
-    *   89,60
-
-    *   53,70
-
-    *   26,80
-
-    *   8,90
-
-
-*    *   570,00
-
-    *   bis
-
-    *   572,49
-
-    *   246,75
-
-    *   135,75
-
-    *   90,60
-
-    *   54,45
-
-    *   27,30
-
-    *   9,15
-
-
-*    *   572,50
-
-    *   bis
-
-    *   574,99
-
-    *   248,50
-
-    *   137,00
-
-    *   91,60
-
-    *   55,20
-
-    *   27,80
-
-    *   9,40
-
-
-*    *   575,00
-
-    *   bis
-
-    *   577,49
-
-    *   250,25
-
-    *   138,25
-
-    *   92,60
-
-    *   55,95
-
-    *   28,30
-
-    *   9,65
-
-
-*    *   577,50
-
-    *   bis
-
-    *   579,99
-
-    *   252,00
-
-    *   139,50
-
-    *   93,60
-
-    *   56,70
-
-    *   28,80
-
-    *   9,90
-
-
-*    *   580,00
-
-    *   bis
-
-    *   582,49
-
-    *   253,75
-
-    *   140,75
-
-    *   94,60
-
-    *   57,45
-
-    *   29,30
-
-    *   10,15
-
-
-*    *   582,50
-
-    *   bis
-
-    *   584,99
-
-    *   255,50
-
-    *   142,00
-
-    *   95,60
-
-    *   58,20
-
-    *   29,80
-
-    *   10,40
-
-
-*    *   585,00
-
-    *   bis
-
-    *   587,49
-
-    *   257,25
-
-    *   143,25
-
-    *   96,60
-
-    *   58,95
-
-    *   30,30
-
-    *   10,65
-
-
-*    *   587,50
-
-    *   bis
-
-    *   589,99
-
-    *   259,00
-
-    *   144,50
-
-    *   97,60
-
-    *   59,70
-
-    *   30,80
-
-    *   10,90
-
-
-*    *   590,00
-
-    *   bis
-
-    *   592,49
-
-    *   260,75
-
-    *   145,75
-
-    *   98,60
-
-    *   60,45
-
-    *   31,30
-
-    *   11,15
-
-
-*    *   592,50
-
-    *   bis
-
-    *   594,99
-
-    *   262,50
-
-    *   147,00
-
-    *   99,60
-
-    *   61,20
-
-    *   31,80
-
-    *   11,40
-
-
-*    *   595,00
-
-    *   bis
-
-    *   597,49
-
-    *   264,25
-
-    *   148,25
-
-    *   100,60
-
-    *   61,95
-
-    *   32,30
-
-    *   11,65
-
-
-*    *   597,50
-
-    *   bis
-
-    *   599,99
-
-    *   266,00
-
-    *   149,50
-
-    *   101,60
-
-    *   62,70
-
-    *   32,80
-
-    *   11,90
-
-
-*    *   600,00
-
-    *   bis
-
-    *   602,49
-
-    *   267,75
-
-    *   150,75
-
-    *   102,60
-
-    *   63,45
-
-    *   33,30
-
-    *   12,15
-
-
-*    *   602,50
-
-    *   bis
-
-    *   604,99
-
-    *   269,50
-
-    *   152,00
-
-    *   103,60
-
-    *   64,20
-
-    *   33,80
-
-    *   12,40
-
-
-*    *   605,00
-
-    *   bis
-
-    *   607,49
-
-    *   271,25
-
-    *   153,25
-
-    *   104,60
-
-    *   64,95
-
-    *   34,30
-
-    *   12,65
-
-
-*    *   607,50
-
-    *   bis
-
-    *   609,99
-
-    *   273,00
-
-    *   154,50
-
-    *   105,60
-
-    *   65,70
-
-    *   34,80
-
-    *   12,90
-
-
-*    *   610,00
-
-    *   bis
-
-    *   612,49
-
-    *   274,75
-
-    *   155,75
-
-    *   106,60
-
-    *   66,45
-
-    *   35,30
-
-    *   13,15
-
-
-*    *   612,50
-
-    *   bis
-
-    *   614,99
-
-    *   276,50
-
-    *   157,00
-
-    *   107,60
-
-    *   67,20
-
-    *   35,80
-
-    *   13,40
-
-
-*    *   615,00
-
-    *   bis
-
-    *   617,49
-
-    *   278,25
-
-    *   158,25
-
-    *   108,60
-
-    *   67,95
-
-    *   36,30
-
-    *   13,65
-
-
-*    *   617,50
-
-    *   bis
-
-    *   619,99
-
-    *   280,00
-
-    *   159,50
-
-    *   109,60
-
-    *   68,70
-
-    *   36,80
-
-    *   13,90
-
-
-*    *   620,00
-
-    *   bis
-
-    *   622,49
-
-    *   281,75
-
-    *   160,75
-
-    *   110,60
-
-    *   69,45
-
-    *   37,30
-
-    *   14,15
-
-
-*    *   622,50
-
-    *   bis
-
-    *   624,99
-
-    *   283,50
-
-    *   162,00
-
-    *   111,60
-
-    *   70,20
-
-    *   37,80
-
-    *   14,40
-
-
-*    *   625,00
-
-    *   bis
-
-    *   627,49
-
-    *   285,25
-
-    *   163,25
-
-    *   112,60
-
-    *   70,95
-
-    *   38,30
-
-    *   14,65
-
-
-*    *   627,50
-
-    *   bis
-
-    *   629,99
-
-    *   287,00
-
-    *   164,50
-
-    *   113,60
-
-    *   71,70
-
-    *   38,80
-
-    *   14,90
-
-
-*    *   630,00
-
-    *   bis
-
-    *   632,49
-
-    *   288,75
-
-    *   165,75
-
-    *   114,60
-
-    *   72,45
-
-    *   39,30
-
-    *   15,15
-
-
-*    *   632,50
-
-    *   bis
-
-    *   634,99
-
-    *   290,50
-
-    *   167,00
-
-    *   115,60
-
-    *   73,20
-
-    *   39,80
-
-    *   15,40
-
-
-*    *   635,00
-
-    *   bis
-
-    *   637,49
-
-    *   292,25
-
-    *   168,25
-
-    *   116,60
-
-    *   73,95
-
-    *   40,30
-
-    *   15,65
-
-
-*    *   637,50
-
-    *   bis
-
-    *   639,99
-
-    *   294,00
-
-    *   169,50
-
-    *   117,60
-
-    *   74,70
-
-    *   40,80
-
-    *   15,90
-
-
-*    *   640,00
-
-    *   bis
-
-    *   642,49
-
-    *   295,75
-
-    *   170,75
-
-    *   118,60
-
-    *   75,45
-
-    *   41,30
-
-    *   16,15
-
-
-*    *   642,50
-
-    *   bis
-
-    *   644,99
-
-    *   297,50
-
-    *   172,00
-
-    *   119,60
-
-    *   76,20
-
-    *   41,80
-
-    *   16,40
-
-
-*    *   645,00
-
-    *   bis
-
-    *   647,49
-
-    *   299,25
-
-    *   173,25
-
-    *   120,60
-
-    *   76,95
-
-    *   42,30
-
-    *   16,65
-
-
-*    *   647,50
-
-    *   bis
-
-    *   649,99
-
-    *   301,00
-
-    *   174,50
-
-    *   121,60
-
-    *   77,70
-
-    *   42,80
-
-    *   16,90
-
-
-*    *   650,00
-
-    *   bis
-
-    *   652,49
-
-    *   302,75
-
-    *   175,75
-
-    *   122,60
-
-    *   78,45
-
-    *   43,30
-
-    *   17,15
-
-
-*    *   652,50
-
-    *   bis
-
-    *   654,99
-
-    *   304,50
-
-    *   177,00
-
-    *   123,60
-
-    *   79,20
-
-    *   43,80
-
-    *   17,40
-
-
-*    *   655,00
-
-    *   bis
-
-    *   657,49
-
-    *   306,25
-
-    *   178,25
-
-    *   124,60
-
-    *   79,95
-
-    *   44,30
-
-    *   17,65
-
-
-*    *   657,50
-
-    *   bis
-
-    *   658,00
-
-    *   308,00
-
-    *   179,50
-
-    *   125,60
-
-    *   80,70
-
-    *   44,80
-
-    *   17,90
-
-
-*    *   Der Mehrbetrag ab 658,00 EUR ist voll pfändbar.
-
-
-
-
-*    *   Netto-Lohn täglich
-
-    *   Pfändbarer Betrag bei Unterhaltspflicht für ... Personen
-
-
-*    *   0
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-    *   5 und mehr
-
-
-*    *   in EUR
-
-
-*    *
-    *   bis
-
-    *   43,99
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   44,00
-
-    *   bis
-
-    *   44,49
-
-    *   0,35
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   44,50
-
-    *   bis
-
-    *   44,99
-
-    *   0,70
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   45,00
-
-    *   bis
-
-    *   45,49
-
-    *   1,05
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   45,50
-
-    *   bis
-
-    *   45,99
-
-    *   1,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   46,00
-
-    *   bis
-
-    *   46,49
-
-    *   1,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   46,50
-
-    *   bis
-
-    *   46,99
-
-    *   2,10
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   47,00
-
-    *   bis
-
-    *   47,49
-
-    *   2,45
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   47,50
-
-    *   bis
-
-    *   47,99
-
-    *   2,80
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   48,00
-
-    *   bis
-
-    *   48,49
-
-    *   3,15
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   48,50
-
-    *   bis
-
-    *   48,99
-
-    *   3,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   49,00
-
-    *   bis
-
-    *   49,49
-
-    *   3,85
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   49,50
-
-    *   bis
-
-    *   49,99
-
-    *   4,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   50,00
-
-    *   bis
-
-    *   50,49
-
-    *   4,55
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   50,50
-
-    *   bis
-
-    *   50,99
-
-    *   4,90
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   51,00
-
-    *   bis
-
-    *   51,49
-
-    *   5,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   51,50
-
-    *   bis
-
-    *   51,99
-
-    *   5,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   52,00
-
-    *   bis
-
-    *   52,49
-
-    *   5,95
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   52,50
-
-    *   bis
-
-    *   52,99
-
-    *   6,30
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   53,00
-
-    *   bis
-
-    *   53,49
-
-    *   6,65
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   53,50
-
-    *   bis
-
-    *   53,99
-
-    *   7,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   54,00
-
-    *   bis
-
-    *   54,49
-
-    *   7,35
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   54,50
-
-    *   bis
-
-    *   54,99
-
-    *   7,70
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   55,00
-
-    *   bis
-
-    *   55,49
-
-    *   8,05
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   55,50
-
-    *   bis
-
-    *   55,99
-
-    *   8,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   56,00
-
-    *   bis
-
-    *   56,49
-
-    *   8,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   56,50
-
-    *   bis
-
-    *   56,99
-
-    *   9,10
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   57,00
-
-    *   bis
-
-    *   57,49
-
-    *   9,45
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   57,50
-
-    *   bis
-
-    *   57,99
-
-    *   9,80
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   58,00
-
-    *   bis
-
-    *   58,49
-
-    *   10,15
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   58,50
-
-    *   bis
-
-    *   58,99
-
-    *   10,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   59,00
-
-    *   bis
-
-    *   59,49
-
-    *   10,85
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   59,50
-
-    *   bis
-
-    *   59,99
-
-    *   11,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   60,00
-
-    *   bis
-
-    *   60,49
-
-    *   11,55
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   60,50
-
-    *   bis
-
-    *   60,99
-
-    *   11,90
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   61,00
-
-    *   bis
-
-    *   61,49
-
-    *   12,25
-
-    *   0,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   61,50
-
-    *   bis
-
-    *   61,99
-
-    *   12,60
-
-    *   0,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   62,00
-
-    *   bis
-
-    *   62,49
-
-    *   12,95
-
-    *   0,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   62,50
-
-    *   bis
-
-    *   62,99
-
-    *   13,30
-
-    *   1,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   63,00
-
-    *   bis
-
-    *   63,49
-
-    *   13,65
-
-    *   1,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   63,50
-
-    *   bis
-
-    *   63,99
-
-    *   14,00
-
-    *   1,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   64,00
-
-    *   bis
-
-    *   64,49
-
-    *   14,35
-
-    *   1,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   64,50
-
-    *   bis
-
-    *   64,99
-
-    *   14,70
-
-    *   2,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   65,00
-
-    *   bis
-
-    *   65,49
-
-    *   15,05
-
-    *   2,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   65,50
-
-    *   bis
-
-    *   65,99
-
-    *   15,40
-
-    *   2,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   66,00
-
-    *   bis
-
-    *   66,49
-
-    *   15,75
-
-    *   2,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   66,50
-
-    *   bis
-
-    *   66,99
-
-    *   16,10
-
-    *   3,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   67,00
-
-    *   bis
-
-    *   67,49
-
-    *   16,45
-
-    *   3,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   67,50
-
-    *   bis
-
-    *   67,99
-
-    *   16,80
-
-    *   3,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   68,00
-
-    *   bis
-
-    *   68,49
-
-    *   17,15
-
-    *   3,75
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   68,50
-
-    *   bis
-
-    *   68,99
-
-    *   17,50
-
-    *   4,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   69,00
-
-    *   bis
-
-    *   69,49
-
-    *   17,85
-
-    *   4,25
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   69,50
-
-    *   bis
-
-    *   69,99
-
-    *   18,20
-
-    *   4,50
-
-    *   -
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   70,00
-
-    *   bis
-
-    *   70,49
-
-    *   18,55
-
-    *   4,75
-
-    *   0,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   70,50
-
-    *   bis
-
-    *   70,99
-
-    *   18,90
-
-    *   5,00
-
-    *   0,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   71,00
-
-    *   bis
-
-    *   71,49
-
-    *   19,25
-
-    *   5,25
-
-    *   0,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   71,50
-
-    *   bis
-
-    *   71,99
-
-    *   19,60
-
-    *   5,50
-
-    *   0,80
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   72,00
-
-    *   bis
-
-    *   72,49
-
-    *   19,95
-
-    *   5,75
-
-    *   1,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   72,50
-
-    *   bis
-
-    *   72,99
-
-    *   20,30
-
-    *   6,00
-
-    *   1,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   73,00
-
-    *   bis
-
-    *   73,49
-
-    *   20,65
-
-    *   6,25
-
-    *   1,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   73,50
-
-    *   bis
-
-    *   73,99
-
-    *   21,00
-
-    *   6,50
-
-    *   1,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   74,00
-
-    *   bis
-
-    *   74,49
-
-    *   21,35
-
-    *   6,75
-
-    *   1,80
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   74,50
-
-    *   bis
-
-    *   74,99
-
-    *   21,70
-
-    *   7,00
-
-    *   2,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   75,00
-
-    *   bis
-
-    *   75,49
-
-    *   22,05
-
-    *   7,25
-
-    *   2,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   75,50
-
-    *   bis
-
-    *   75,99
-
-    *   22,40
-
-    *   7,50
-
-    *   2,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   76,00
-
-    *   bis
-
-    *   76,49
-
-    *   22,75
-
-    *   7,75
-
-    *   2,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   76,50
-
-    *   bis
-
-    *   76,99
-
-    *   23,10
-
-    *   8,00
-
-    *   2,80
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   77,00
-
-    *   bis
-
-    *   77,49
-
-    *   23,45
-
-    *   8,25
-
-    *   3,00
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   77,50
-
-    *   bis
-
-    *   77,99
-
-    *   23,80
-
-    *   8,50
-
-    *   3,20
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   78,00
-
-    *   bis
-
-    *   78,49
-
-    *   24,15
-
-    *   8,75
-
-    *   3,40
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   78,50
-
-    *   bis
-
-    *   78,99
-
-    *   24,50
-
-    *   9,00
-
-    *   3,60
-
-    *   -
-
-    *   -
-
-    *   -
-
-
-*    *   79,00
-
-    *   bis
-
-    *   79,49
-
-    *   24,85
-
-    *   9,25
-
-    *   3,80
-
-    *   0,15
-
-    *   -
-
-    *   -
-
-
-*    *   79,50
-
-    *   bis
-
-    *   79,99
-
-    *   25,20
-
-    *   9,50
-
-    *   4,00
-
-    *   0,30
-
-    *   -
-
-    *   -
-
-
-*    *   80,00
-
-    *   bis
-
-    *   80,49
-
-    *   25,55
-
-    *   9,75
-
-    *   4,20
-
-    *   0,45
-
-    *   -
-
-    *   -
-
-
-*    *   80,50
-
-    *   bis
-
-    *   80,99
-
-    *   25,90
-
-    *   10,00
-
-    *   4,40
-
-    *   0,60
-
-    *   -
-
-    *   -
-
-
-*    *   81,00
-
-    *   bis
-
-    *   81,49
-
-    *   26,25
-
-    *   10,25
-
-    *   4,60
-
-    *   0,75
-
-    *   -
-
-    *   -
-
-
-*    *   81,50
-
-    *   bis
-
-    *   81,99
-
-    *   26,60
-
-    *   10,50
-
-    *   4,80
-
-    *   0,90
-
-    *   -
-
-    *   -
-
-
-*    *   82,00
-
-    *   bis
-
-    *   82,49
-
-    *   26,95
-
-    *   10,75
-
-    *   5,00
-
-    *   1,05
-
-    *   -
-
-    *   -
-
-
-*    *   82,50
-
-    *   bis
-
-    *   82,99
-
-    *   27,30
-
-    *   11,00
-
-    *   5,20
-
-    *   1,20
-
-    *   -
-
-    *   -
-
-
-*    *   83,00
-
-    *   bis
-
-    *   83,49
-
-    *   27,65
-
-    *   11,25
-
-    *   5,40
-
-    *   1,35
-
-    *   -
-
-    *   -
-
-
-*    *   83,50
-
-    *   bis
-
-    *   83,99
-
-    *   28,00
-
-    *   11,50
-
-    *   5,60
-
-    *   1,50
-
-    *   -
-
-    *   -
-
-
-*    *   84,00
-
-    *   bis
-
-    *   84,49
-
-    *   28,35
-
-    *   11,75
-
-    *   5,80
-
-    *   1,65
-
-    *   -
-
-    *   -
-
-
-*    *   84,50
-
-    *   bis
-
-    *   84,99
-
-    *   28,70
-
-    *   12,00
-
-    *   6,00
-
-    *   1,80
-
-    *   -
-
-    *   -
-
-
-*    *   85,00
-
-    *   bis
-
-    *   85,49
-
-    *   29,05
-
-    *   12,25
-
-    *   6,20
-
-    *   1,95
-
-    *   -
-
-    *   -
-
-
-*    *   85,50
-
-    *   bis
-
-    *   85,99
-
-    *   29,40
-
-    *   12,50
-
-    *   6,40
-
-    *   2,10
-
-    *   -
-
-    *   -
-
-
-*    *   86,00
-
-    *   bis
-
-    *   86,49
-
-    *   29,75
-
-    *   12,75
-
-    *   6,60
-
-    *   2,25
-
-    *   -
-
-    *   -
-
-
-*    *   86,50
-
-    *   bis
-
-    *   86,99
-
-    *   30,10
-
-    *   13,00
-
-    *   6,80
-
-    *   2,40
-
-    *   -
-
-    *   -
-
-
-*    *   87,00
-
-    *   bis
-
-    *   87,49
-
-    *   30,45
-
-    *   13,25
-
-    *   7,00
-
-    *   2,55
-
-    *   -
-
-    *   -
-
-
-*    *   87,50
-
-    *   bis
-
-    *   87,99
-
-    *   30,80
-
-    *   13,50
-
-    *   7,20
-
-    *   2,70
-
-    *   -
-
-    *   -
-
-
-*    *   88,00
-
-    *   bis
-
-    *   88,49
-
-    *   31,15
-
-    *   13,75
-
-    *   7,40
-
-    *   2,85
-
-    *   0,10
-
-    *   -
-
-
-*    *   88,50
-
-    *   bis
-
-    *   88,99
-
-    *   31,50
-
-    *   14,00
-
-    *   7,60
-
-    *   3,00
-
-    *   0,20
-
-    *   -
-
-
-*    *   89,00
-
-    *   bis
-
-    *   89,49
-
-    *   31,85
-
-    *   14,25
-
-    *   7,80
-
-    *   3,15
-
-    *   0,30
-
-    *   -
-
-
-*    *   89,50
-
-    *   bis
-
-    *   89,99
-
-    *   32,20
-
-    *   14,50
-
-    *   8,00
-
-    *   3,30
-
-    *   0,40
-
-    *   -
-
-
-*    *   90,00
-
-    *   bis
-
-    *   90,49
-
-    *   32,55
-
-    *   14,75
-
-    *   8,20
-
-    *   3,45
-
-    *   0,50
-
-    *   -
-
-
-*    *   90,50
-
-    *   bis
-
-    *   90,99
-
-    *   32,90
-
-    *   15,00
-
-    *   8,40
-
-    *   3,60
-
-    *   0,60
-
-    *   -
-
-
-*    *   91,00
-
-    *   bis
-
-    *   91,49
-
-    *   33,25
-
-    *   15,25
-
-    *   8,60
-
-    *   3,75
-
-    *   0,70
-
-    *   -
-
-
-*    *   91,50
-
-    *   bis
-
-    *   91,99
-
-    *   33,60
-
-    *   15,50
-
-    *   8,80
-
-    *   3,90
-
-    *   0,80
-
-    *   -
-
-
-*    *   92,00
-
-    *   bis
-
-    *   92,49
-
-    *   33,95
-
-    *   15,75
-
-    *   9,00
-
-    *   4,05
-
-    *   0,90
-
-    *   -
-
-
-*    *   92,50
-
-    *   bis
-
-    *   92,99
-
-    *   34,30
-
-    *   16,00
-
-    *   9,20
-
-    *   4,20
-
-    *   1,00
-
-    *   -
-
-
-*    *   93,00
-
-    *   bis
-
-    *   93,49
-
-    *   34,65
-
-    *   16,25
-
-    *   9,40
-
-    *   4,35
-
-    *   1,10
-
-    *   -
-
-
-*    *   93,50
-
-    *   bis
-
-    *   93,99
-
-    *   35,00
-
-    *   16,50
-
-    *   9,60
-
-    *   4,50
-
-    *   1,20
-
-    *   -
-
-
-*    *   94,00
-
-    *   bis
-
-    *   94,49
-
-    *   35,35
-
-    *   16,75
-
-    *   9,80
-
-    *   4,65
-
-    *   1,30
-
-    *   -
-
-
-*    *   94,50
-
-    *   bis
-
-    *   94,99
-
-    *   35,70
-
-    *   17,00
-
-    *   10,00
-
-    *   4,80
-
-    *   1,40
-
-    *   -
-
-
-*    *   95,00
-
-    *   bis
-
-    *   95,49
-
-    *   36,05
-
-    *   17,25
-
-    *   10,20
-
-    *   4,95
-
-    *   1,50
-
-    *   -
-
-
-*    *   95,50
-
-    *   bis
-
-    *   95,99
-
-    *   36,40
-
-    *   17,50
-
-    *   10,40
-
-    *   5,10
-
-    *   1,60
-
-    *   -
-
-
-*    *   96,00
-
-    *   bis
-
-    *   96,49
-
-    *   36,75
-
-    *   17,75
-
-    *   10,60
-
-    *   5,25
-
-    *   1,70
-
-    *   -
-
-
-*    *   96,50
-
-    *   bis
-
-    *   96,99
-
-    *   37,10
-
-    *   18,00
-
-    *   10,80
-
-    *   5,40
-
-    *   1,80
-
-    *   -
-
-
-*    *   97,00
-
-    *   bis
-
-    *   97,49
-
-    *   37,45
-
-    *   18,25
-
-    *   11,00
-
-    *   5,55
-
-    *   1,90
-
-    *   0,05
-
-
-*    *   97,50
-
-    *   bis
-
-    *   97,99
-
-    *   37,80
-
-    *   18,50
-
-    *   11,20
-
-    *   5,70
-
-    *   2,00
-
-    *   0,10
-
-
-*    *   98,00
-
-    *   bis
-
-    *   98,49
-
-    *   38,15
-
-    *   18,75
-
-    *   11,40
-
-    *   5,85
-
-    *   2,10
-
-    *   0,15
-
-
-*    *   98,50
-
-    *   bis
-
-    *   98,99
-
-    *   38,50
-
-    *   19,00
-
-    *   11,60
-
-    *   6,00
-
-    *   2,20
-
-    *   0,20
-
-
-*    *   99,00
-
-    *   bis
-
-    *   99,49
-
-    *   38,85
-
-    *   19,25
-
-    *   11,80
-
-    *   6,15
-
-    *   2,30
-
-    *   0,25
-
-
-*    *   99,50
-
-    *   bis
-
-    *   99,99
-
-    *   39,20
-
-    *   19,50
-
-    *   12,00
-
-    *   6,30
-
-    *   2,40
-
-    *   0,30
-
-
-*    *   100,00
-
-    *   bis
-
-    *   100,49
-
-    *   39,55
-
-    *   19,75
-
-    *   12,20
-
-    *   6,45
-
-    *   2,50
-
-    *   0,35
-
-
-*    *   100,50
-
-    *   bis
-
-    *   100,99
-
-    *   39,90
-
-    *   20,00
-
-    *   12,40
-
-    *   6,60
-
-    *   2,60
-
-    *   0,40
-
-
-*    *   101,00
-
-    *   bis
-
-    *   101,49
-
-    *   40,25
-
-    *   20,25
-
-    *   12,60
-
-    *   6,75
-
-    *   2,70
-
-    *   0,45
-
-
-*    *   101,50
-
-    *   bis
-
-    *   101,99
-
-    *   40,60
-
-    *   20,50
-
-    *   12,80
-
-    *   6,90
-
-    *   2,80
-
-    *   0,50
-
-
-*    *   102,00
-
-    *   bis
-
-    *   102,49
-
-    *   40,95
-
-    *   20,75
-
-    *   13,00
-
-    *   7,05
-
-    *   2,90
-
-    *   0,55
-
-
-*    *   102,50
-
-    *   bis
-
-    *   102,99
-
-    *   41,30
-
-    *   21,00
-
-    *   13,20
-
-    *   7,20
-
-    *   3,00
-
-    *   0,60
-
-
-*    *   103,00
-
-    *   bis
-
-    *   103,49
-
-    *   41,65
-
-    *   21,25
-
-    *   13,40
-
-    *   7,35
-
-    *   3,10
-
-    *   0,65
-
-
-*    *   103,50
-
-    *   bis
-
-    *   103,99
-
-    *   42,00
-
-    *   21,50
-
-    *   13,60
-
-    *   7,50
-
-    *   3,20
-
-    *   0,70
-
-
-*    *   104,00
-
-    *   bis
-
-    *   104,49
-
-    *   42,35
-
-    *   21,75
-
-    *   13,80
-
-    *   7,65
-
-    *   3,30
-
-    *   0,75
-
-
-*    *   104,50
-
-    *   bis
-
-    *   104,99
-
-    *   42,70
-
-    *   22,00
-
-    *   14,00
-
-    *   7,80
-
-    *   3,40
-
-    *   0,80
-
-
-*    *   105,00
-
-    *   bis
-
-    *   105,49
-
-    *   43,05
-
-    *   22,25
-
-    *   14,20
-
-    *   7,95
-
-    *   3,50
-
-    *   0,85
-
-
-*    *   105,50
-
-    *   bis
-
-    *   105,99
-
-    *   43,40
-
-    *   22,50
-
-    *   14,40
-
-    *   8,10
-
-    *   3,60
-
-    *   0,90
-
-
-*    *   106,00
-
-    *   bis
-
-    *   106,49
-
-    *   43,75
-
-    *   22,75
-
-    *   14,60
-
-    *   8,25
-
-    *   3,70
-
-    *   0,95
-
-
-*    *   106,50
-
-    *   bis
-
-    *   106,99
-
-    *   44,10
-
-    *   23,00
-
-    *   14,80
-
-    *   8,40
-
-    *   3,80
-
-    *   1,00
-
-
-*    *   107,00
-
-    *   bis
-
-    *   107,49
-
-    *   44,45
-
-    *   23,25
-
-    *   15,00
-
-    *   8,55
-
-    *   3,90
-
-    *   1,05
-
-
-*    *   107,50
-
-    *   bis
-
-    *   107,99
-
-    *   44,80
-
-    *   23,50
-
-    *   15,20
-
-    *   8,70
-
-    *   4,00
-
-    *   1,10
-
-
-*    *   108,00
-
-    *   bis
-
-    *   108,49
-
-    *   45,15
-
-    *   23,75
-
-    *   15,40
-
-    *   8,85
-
-    *   4,10
-
-    *   1,15
-
-
-*    *   108,50
-
-    *   bis
-
-    *   108,99
-
-    *   45,50
-
-    *   24,00
-
-    *   15,60
-
-    *   9,00
-
-    *   4,20
-
-    *   1,20
-
-
-*    *   109,00
-
-    *   bis
-
-    *   109,49
-
-    *   45,85
-
-    *   24,25
-
-    *   15,80
-
-    *   9,15
-
-    *   4,30
-
-    *   1,25
-
-
-*    *   109,50
-
-    *   bis
-
-    *   109,99
-
-    *   46,20
-
-    *   24,50
-
-    *   16,00
-
-    *   9,30
-
-    *   4,40
-
-    *   1,30
-
-
-*    *   110,00
-
-    *   bis
-
-    *   110,49
-
-    *   46,55
-
-    *   24,75
-
-    *   16,20
-
-    *   9,45
-
-    *   4,50
-
-    *   1,35
-
-
-*    *   110,50
-
-    *   bis
-
-    *   110,99
-
-    *   46,90
-
-    *   25,00
-
-    *   16,40
-
-    *   9,60
-
-    *   4,60
-
-    *   1,40
-
-
-*    *   111,00
-
-    *   bis
-
-    *   111,49
-
-    *   47,25
-
-    *   25,25
-
-    *   16,60
-
-    *   9,75
-
-    *   4,70
-
-    *   1,45
-
-
-*    *   111,50
-
-    *   bis
-
-    *   111,99
-
-    *   47,60
-
-    *   25,50
-
-    *   16,80
-
-    *   9,90
-
-    *   4,80
-
-    *   1,50
-
-
-*    *   112,00
-
-    *   bis
-
-    *   112,49
-
-    *   47,95
-
-    *   25,75
-
-    *   17,00
-
-    *   10,05
-
-    *   4,90
-
-    *   1,55
-
-
-*    *   112,50
-
-    *   bis
-
-    *   112,99
-
-    *   48,30
-
-    *   26,00
-
-    *   17,20
-
-    *   10,20
-
-    *   5,00
-
-    *   1,60
-
-
-*    *   113,00
-
-    *   bis
-
-    *   113,49
-
-    *   48,65
-
-    *   26,25
-
-    *   17,40
-
-    *   10,35
-
-    *   5,10
-
-    *   1,65
-
-
-*    *   113,50
-
-    *   bis
-
-    *   113,99
-
-    *   49,00
-
-    *   26,50
-
-    *   17,60
-
-    *   10,50
-
-    *   5,20
-
-    *   1,70
-
-
-*    *   114,00
-
-    *   bis
-
-    *   114,49
-
-    *   49,35
-
-    *   26,75
-
-    *   17,80
-
-    *   10,65
-
-    *   5,30
-
-    *   1,75
-
-
-*    *   114,50
-
-    *   bis
-
-    *   114,99
-
-    *   49,70
-
-    *   27,00
-
-    *   18,00
-
-    *   10,80
-
-    *   5,40
-
-    *   1,80
-
-
-*    *   115,00
-
-    *   bis
-
-    *   115,49
-
-    *   50,05
-
-    *   27,25
-
-    *   18,20
-
-    *   10,95
-
-    *   5,50
-
-    *   1,85
-
-
-*    *   115,50
-
-    *   bis
-
-    *   115,99
-
-    *   50,40
-
-    *   27,50
-
-    *   18,40
-
-    *   11,10
-
-    *   5,60
-
-    *   1,90
-
-
-*    *   116,00
-
-    *   bis
-
-    *   116,49
-
-    *   50,75
-
-    *   27,75
-
-    *   18,60
-
-    *   11,25
-
-    *   5,70
-
-    *   1,95
-
-
-*    *   116,50
-
-    *   bis
-
-    *   116,99
-
-    *   51,10
-
-    *   28,00
-
-    *   18,80
-
-    *   11,40
-
-    *   5,80
-
-    *   2,00
-
-
-*    *   117,00
-
-    *   bis
-
-    *   117,49
-
-    *   51,45
-
-    *   28,25
-
-    *   19,00
-
-    *   11,55
-
-    *   5,90
-
-    *   2,05
-
-
-*    *   117,50
-
-    *   bis
-
-    *   117,99
-
-    *   51,80
-
-    *   28,50
-
-    *   19,20
-
-    *   11,70
-
-    *   6,00
-
-    *   2,10
-
-
-*    *   118,00
-
-    *   bis
-
-    *   118,49
-
-    *   52,15
-
-    *   28,75
-
-    *   19,40
-
-    *   11,85
-
-    *   6,10
-
-    *   2,15
-
-
-*    *   118,50
-
-    *   bis
-
-    *   118,99
-
-    *   52,50
-
-    *   29,00
-
-    *   19,60
-
-    *   12,00
-
-    *   6,20
-
-    *   2,20
-
-
-*    *   119,00
-
-    *   bis
-
-    *   119,49
-
-    *   52,85
-
-    *   29,25
-
-    *   19,80
-
-    *   12,15
-
-    *   6,30
-
-    *   2,25
-
-
-*    *   119,50
-
-    *   bis
-
-    *   119,99
-
-    *   53,20
-
-    *   29,50
-
-    *   20,00
-
-    *   12,30
-
-    *   6,40
-
-    *   2,30
-
-
-*    *   120,00
-
-    *   bis
-
-    *   120,49
-
-    *   53,55
-
-    *   29,75
-
-    *   20,20
-
-    *   12,45
-
-    *   6,50
-
-    *   2,35
-
-
-*    *   120,50
-
-    *   bis
-
-    *   120,99
-
-    *   53,90
-
-    *   30,00
-
-    *   20,40
-
-    *   12,60
-
-    *   6,60
-
-    *   2,40
-
-
-*    *   121,00
-
-    *   bis
-
-    *   121,49
-
-    *   54,25
-
-    *   30,25
-
-    *   20,60
-
-    *   12,75
-
-    *   6,70
-
-    *   2,45
-
-
-*    *   121,50
-
-    *   bis
-
-    *   121,99
-
-    *   54,60
-
-    *   30,50
-
-    *   20,80
-
-    *   12,90
-
-    *   6,80
-
-    *   2,50
-
-
-*    *   122,00
-
-    *   bis
-
-    *   122,49
-
-    *   54,95
-
-    *   30,75
-
-    *   21,00
-
-    *   13,05
-
-    *   6,90
-
-    *   2,55
-
-
-*    *   122,50
-
-    *   bis
-
-    *   122,99
-
-    *   55,30
-
-    *   31,00
-
-    *   21,20
-
-    *   13,20
-
-    *   7,00
-
-    *   2,60
-
-
-*    *   123,00
-
-    *   bis
-
-    *   123,49
-
-    *   55,65
-
-    *   31,25
-
-    *   21,40
-
-    *   13,35
-
-    *   7,10
-
-    *   2,65
-
-
-*    *   123,50
-
-    *   bis
-
-    *   123,99
-
-    *   56,00
-
-    *   31,50
-
-    *   21,60
-
-    *   13,50
-
-    *   7,20
-
-    *   2,70
-
-
-*    *   124,00
-
-    *   bis
-
-    *   124,49
-
-    *   56,35
-
-    *   31,75
-
-    *   21,80
-
-    *   13,65
-
-    *   7,30
-
-    *   2,75
-
-
-*    *   124,50
-
-    *   bis
-
-    *   124,99
-
-    *   56,70
-
-    *   32,00
-
-    *   22,00
-
-    *   13,80
-
-    *   7,40
-
-    *   2,80
-
-
-*    *   125,00
-
-    *   bis
-
-    *   125,49
-
-    *   57,05
-
-    *   32,25
-
-    *   22,20
-
-    *   13,95
-
-    *   7,50
-
-    *   2,85
-
-
-*    *   125,50
-
-    *   bis
-
-    *   125,99
-
-    *   57,40
-
-    *   32,50
-
-    *   22,40
-
-    *   14,10
-
-    *   7,60
-
-    *   2,90
-
-
-*    *   126,00
-
-    *   bis
-
-    *   126,49
-
-    *   57,75
-
-    *   32,75
-
-    *   22,60
-
-    *   14,25
-
-    *   7,70
-
-    *   2,95
-
-
-*    *   126,50
-
-    *   bis
-
-    *   126,99
-
-    *   58,10
-
-    *   33,00
-
-    *   22,80
-
-    *   14,40
-
-    *   7,80
-
-    *   3,00
-
-
-*    *   127,00
-
-    *   bis
-
-    *   127,49
-
-    *   58,45
-
-    *   33,25
-
-    *   23,00
-
-    *   14,55
-
-    *   7,90
-
-    *   3,05
-
-
-*    *   127,50
-
-    *   bis
-
-    *   127,99
-
-    *   58,80
-
-    *   33,50
-
-    *   23,20
-
-    *   14,70
-
-    *   8,00
-
-    *   3,10
-
-
-*    *   128,00
-
-    *   bis
-
-    *   128,49
-
-    *   59,15
-
-    *   33,75
-
-    *   23,40
-
-    *   14,85
-
-    *   8,10
-
-    *   3,15
-
-
-*    *   128,50
-
-    *   bis
-
-    *   128,99
-
-    *   59,50
-
-    *   34,00
-
-    *   23,60
-
-    *   15,00
-
-    *   8,20
-
-    *   3,20
-
-
-*    *   129,00
-
-    *   bis
-
-    *   129,49
-
-    *   59,85
-
-    *   34,25
-
-    *   23,80
-
-    *   15,15
-
-    *   8,30
-
-    *   3,25
-
-
-*    *   129,50
-
-    *   bis
-
-    *   129,99
-
-    *   60,20
-
-    *   34,50
-
-    *   24,00
-
-    *   15,30
-
-    *   8,40
-
-    *   3,30
-
-
-*    *   130,00
-
-    *   bis
-
-    *   130,49
-
-    *   60,55
-
-    *   34,75
-
-    *   24,20
-
-    *   15,45
-
-    *   8,50
-
-    *   3,35
-
-
-*    *   130,50
-
-    *   bis
-
-    *   130,99
-
-    *   60,90
-
-    *   35,00
-
-    *   24,40
-
-    *   15,60
-
-    *   8,60
-
-    *   3,40
-
-
-*    *   131,00
-
-    *   bis
-
-    *   131,49
-
-    *   61,25
-
-    *   35,25
-
-    *   24,60
-
-    *   15,75
-
-    *   8,70
-
-    *   3,45
-
-
-*    *   131,50
-
-    *   bis
-
-    *   131,58
-
-    *   61,60
-
-    *   35,50
-
-    *   24,80
-
-    *   15,90
-
-    *   8,80
-
-    *   3,50
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   Der Mehrbetrag ab 131,58 EUR ist voll pfändbar.
-
-
-
-
-\*) Diese Anlage ist durch Bekanntmachung zu § 850c der
-    Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25.
-    Februar 2005 (BGBl. I S. 493) geändert worden.
-
-
-
-
-
-##### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 927, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin -
+#### Anhang EV - Sonderregelung für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land

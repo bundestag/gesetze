@@ -3,7 +3,7 @@ Title: Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwis
   verschiedener Länder
 jurabk: BMeldDÜV 1 2005
 layout: default
-origslug: bmeldd_v_1_2005
+origslug: bmeldduev_1_2005
 slug: bmeldduev_1_2005
 
 ---

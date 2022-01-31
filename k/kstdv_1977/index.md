@@ -1,5 +1,5 @@
 ---
-Title: Körperschaftsteuer-Durchführungsverordnung
+Title: Körperschaftsteuer-Durchführungsverordnung 1994
 jurabk: KStDV 1977
 layout: default
 origslug: kstdv_1977
@@ -7,7 +7,7 @@ slug: kstdv_1977
 
 ---
 
-# Körperschaftsteuer-Durchführungsverordnung (KStDV 1977)
+# Körperschaftsteuer-Durchführungsverordnung 1994 (KStDV 1977)
 
 Ausfertigungsdatum
 :   1977-06-14
@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1996 I 365;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 17.11.2010 I 1544
+:   Art. 2 Abs. 11 G v. 1.4.2015 I 434
 
 
 ## - - Zu § 5 Abs. 1 Nr. 3 des Gesetzes
@@ -162,12 +162,9 @@ erfüllen:
 
 ### § 4 Kleinere Versicherungsvereine
 
-Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53
-des Gesetzes über die Beaufsichtigung der privaten
-Versicherungsunternehmungen in der im Bundesgesetzblatt Teil III,
-Gliederungsnummer 7631-1, veröffentlichten bereinigten Fassung,
-zuletzt geändert durch das Gesetz vom 18. Dezember 1975 (BGBl. I S.
-3139), sind von der Körperschaftsteuer befreit, wenn
+Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
+des Versicherungsaufsichtsgesetzes sind von der Körperschaftsteuer
+befreit, wenn
 
 1.  ihre Beitragseinnahmen im Durchschnitt der letzten drei
     Wirtschaftsjahre einschließlich des im Veranlagungszeitraum endenden
@@ -204,9 +201,9 @@ zuletzt geändert durch das Gesetz vom 18. Dezember 1975 (BGBl. I S.
 
 ### § 6 Anwendungszeitraum
 
-Die Körperschaftsteuer-Durchführungsverordnung in der Fassung des
-Artikels 5 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1790) ist
-erstmals für den Veranlagungszeitraum 2002 anzuwenden.
+Die Körperschaftsteuer-Durchführungsverordnung in der am 1. Januar
+2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016
+anzuwenden.
 
 
 ### § 7
@@ -214,7 +211,6 @@ erstmals für den Veranlagungszeitraum 2002 anzuwenden.
 (Inkrafttreten)
 
 
-### Anlage (zu § 5)
+### Anlage (weggefallen)
 
-(weggefallen)
 

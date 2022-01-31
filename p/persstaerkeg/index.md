@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 2376
 
 Zuletzt geändert durch
-:   Art. 6 G v. 19.12.2000 I 1815
+:   Art. 8 G v. 20.8.2021 I 3932
 
 
 ## Abschnitt I - Dienstrecht

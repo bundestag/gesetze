@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2263
 
+V aufgeh. durch
+:   § 62 Abs. 2 V v. 2.10.2018 I 1572 mWv 1.1.2020
+
 Zuletzt geändert durch
-:   Art. 36 G v. 6.12.2011 I 2515
+:   Art. 33 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -36,9 +39,9 @@ Bundesministerium für Bildung und Forschung:
 
 (1) Die Ausbildungen in der Gesundheits- und Krankenpflege und in der
 Gesundheits- und Kinderkrankenpflege umfassen mindestens den in der
-Anlage 1 aufgeführten theoretischen und praktischen Unterricht von
-2\.100 Stunden und die aufgeführte praktische Ausbildung von 2.500
-Stunden. Die Ausbildung beinhaltet eine 1.200 Stunden umfassende
+Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2
+100 Stunden und die aufgeführte praktische Ausbildung von 2 500
+Stunden. Die Ausbildung beinhaltet eine 1 200 Stunden umfassende
 Differenzierungsphase im Unterricht und in der praktischen Ausbildung,
 die sich auf die für die Gesundheits- und Krankenpflege oder
 Gesundheits- und Kinderkrankenpflege zu vermittelnden Kompetenzen
@@ -49,7 +52,7 @@ Möglichkeit gegeben werden, die erforderlichen praktischen Fähigkeiten
 und Fertigkeiten zu entwickeln und einzuüben.
 
 (3) Ab der zweiten Hälfte der Ausbildungszeit sind unter Aufsicht von
-Inhabern einer Erlaubnis nach § 1 Abs. 1 Nr. 1 oder 2 des
+Inhabern einer Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer 1 oder 2 des
 Krankenpflegegesetzes mindestens 80, höchstens 120 Stunden im Rahmen
 des Nachtdienstes abzuleisten.
 
@@ -77,15 +80,16 @@ Hierzu ist ein angemessenes Verhältnis zwischen der Zahl der
 Schülerinnen und Schüler zu der Zahl der Praxisanleiterinnen und
 -anleiter in dem jeweiligen Einsatzgebiet entsprechend der Anlage 1
 Buchstabe B sicherzustellen. Zur Praxisanleitung geeignet sind
-Personen mit einer Erlaubnis nach § 1 Abs. 1 Nr. 1 oder 2 des
-Krankenpflegegesetzes, die über eine Berufserfahrung von mindestens
-zwei Jahren sowie eine berufspädagogische Zusatzqualifikation im
-Umfang von mindestens 200 Stunden verfügen. Die zuständige Behörde
-kann bis zu fünf Jahre nach Inkrafttreten dieser Verordnung Ausnahmen
-vom Umfang der berufspädagogischen Zusatzqualifikation zulassen.
-Soweit die Ausbildung in Pflegeeinrichtungen gemäß § 71 des Elften
-Buches Sozialgesetzbuch stattfindet, gilt abweichend von Satz 4 § 2
-Abs. 2 Satz 2 der Altenpflege-Ausbildungs- und Prüfungsverordnung.
+Personen mit einer Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer 1 oder 2
+des Krankenpflegegesetzes, die über eine Berufserfahrung von
+mindestens zwei Jahren sowie eine berufspädagogische
+Zusatzqualifikation im Umfang von mindestens 200 Stunden verfügen. Die
+zuständige Behörde kann bis zu fünf Jahre nach Inkrafttreten dieser
+Verordnung Ausnahmen vom Umfang der berufspädagogischen
+Zusatzqualifikation zulassen. Soweit die Ausbildung in
+Pflegeeinrichtungen gemäß § 71 des Elften Buches Sozialgesetzbuch
+stattfindet, gilt abweichend von Satz 4 § 2 Abs. 2 Satz 2 der
+Altenpflege-Ausbildungs- und Prüfungsverordnung.
 
 (3) Die Schulen stellen die Praxisbegleitung der Schülerinnen und
 Schüler in den Einrichtungen der praktischen Ausbildung nach § 4 Abs.
@@ -526,47 +530,54 @@ Krankenpflegegesetzes eigenverantwortlich auszuführen.
 
 Liegen die Voraussetzungen nach § 2 des Krankenpflegegesetzes für die
 Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1
-Abs. 1 Nr. 1 oder 2 dieses Gesetzes vor, so stellt die zuständige
-Behörde die Erlaubnisurkunde nach dem Muster der Anlage 4 aus.
+Absatz 1 Satz 1 Nummer 1 oder 2 dieses Gesetzes vor, so stellt die
+zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 4
+aus.
+
+
+## Abschnitt 4a - Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
+
 
 
 ### § 20 Sonderregelungen für Inhaberinnen oder Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraums
 
-(1) Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 Nr. 1 oder Nr. 2
-des Krankenpflegegesetzes beantragen, können zum Nachweis, dass die
-Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine
-von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte
-entsprechende Bescheinigung oder einen von einer solchen Behörde
-ausgestellten Strafregisterauszug oder, wenn ein solcher nicht
-beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat
-der Antragsteller den Beruf im Herkunftsmitgliedstaat bereits
-ausgeübt, so kann die für die Erteilung der Erlaubnis nach § 1 Abs. 1
-Nr. 1 oder Nr. 2 des Krankenpflegegesetzes zuständige Behörde bei der
-zuständigen Behörde des Herkunftsmitgliedstaats Auskünfte über etwa
-gegen den Antragsteller verhängte Strafen oder sonstige berufs- oder
-strafrechtliche Maßnahmen wegen schwerwiegenden standeswidrigen
-Verhaltens oder strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsmitgliedstaat betreffen, einholen. Hat die für die Erteilung
-der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder des
-Satzes 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs
-des Gesetzes eingetreten sind und im Hinblick auf die Voraussetzungen
-des § 2 Abs. 1 Nr. 2 des Gesetzes von Bedeutung sein können, so hat
-sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten
-und sie zu bitten, diese Tatbestände zu überprüfen und ihr das
-Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
-ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
-Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen
-sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
-gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
-drei Monate zurückliegt.
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer
+1 oder 2 des Krankenpflegegesetzes beantragen, können zum Nachweis,
+dass die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes
+vorliegen, eine von der zuständigen Behörde des
+Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder
+einen von einer solchen Behörde ausgestellten Strafregisterauszug
+oder, wenn ein solcher nicht beigebracht werden kann, einen
+gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der
+Erlaubnis nach § 1 Absatz 1 des Krankenpflegegesetzes zuständige
+Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde
+eines Mitgliedstaats eine Bestätigung verlangen, aus der sich ergibt,
+dass dem Antragsteller die Ausübung des Berufs, der dem des
+Gesundheits- und Krankenpflegers oder des Gesundheits- und
+Kinderkranken\*pflegers entspricht, nicht auf Grund eines
+schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung
+wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt
+worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde
+in den Fällen des Satzes 1 oder des Satzes 2 von Tatbeständen
+Kenntnis, die außerhalb des Geltungsbereichs des Gesetzes eingetreten
+sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 des
+Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle
+des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese
+Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen,
+die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und
+Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3
+genannten Bescheinigungen und Mitteilungen sind vertraulich zu
+behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn
+bei der Vorlage die Ausstellung nicht mehr als drei Monate
+zurückliegt.
 
-(2) Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 Nr. 1 oder Nr. 2
-des Krankenpflegegesetzes beantragen, können zum Nachweis, dass die
-Voraussetzungen nach § 2 Abs. 1 Nr. 3 dieses Gesetzes vorliegen, einen
-entsprechenden Nachweis ihres Herkunftsmitgliedstaats vorlegen. Wird
-im Herkunftsmitgliedstaat ein solcher Nachweis nicht verlangt, ist
-eine von einer zuständigen Behörde dieses Staates ausgestellte
-Bescheinigung anzuerkennen, aus der sich ergibt, dass die
+(2) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer
+1 oder 2 des Krankenpflegegesetzes beantragen, können zum Nachweis,
+dass die Voraussetzungen nach § 2 Abs. 1 Nr. 3 dieses Gesetzes
+vorliegen, einen entsprechenden Nachweis ihres Herkunftsmitgliedstaats
+vorlegen. Wird im Herkunftsmitgliedstaat ein solcher Nachweis nicht
+verlangt, ist eine von einer zuständigen Behörde dieses Staates
+ausgestellte Bescheinigung anzuerkennen, aus der sich ergibt, dass die
 Voraussetzungen des § 2 Abs. 1 Nr. 3 des Krankenpflegegesetzes erfüllt
 sind. Absatz 1 Satz 4 und 5 gilt entsprechend.
 
@@ -589,19 +600,24 @@ durch Vorlage einer Bescheinigung über die Abgabe einer
 eidesstattlichen Erklärung gegenüber der zuständigen Behörde des
 Herkunftsmitgliedstaats ersetzen.
 
-(5) Die zuständige Behörde hat den Dienstleistungserbringer bei der
-erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 19
-des Krankenpflegegesetzes binnen eines Monats nach Eingang der Meldung
-und der Begleitdokumente über das Ergebnis ihrer Nachprüfung zu
-unterrichten. Ist eine Nachprüfung innerhalb dieser Frist in
-besonderen Ausnahmefällen nicht möglich, unterrichtet die zuständige
-Behörde den Dienstleistungserbringer innerhalb eines Monats über die
-Gründe für diese Verzögerung und über den Zeitplan für ihre
-Entscheidung, die vor Ablauf des zweiten Monats ab Eingang der
-vollständigen Unterlagen ergehen muss. Erhält der
-Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
-Fristen keine Rückmeldung der zuständigen Behörde, darf die
-Dienstleistung erbracht werden.
+(5) Die zuständige Behörde hat Personen, die eine Dienstleistung gemäß
+§ 19 Absatz 2 des Krankenpflegegesetzes erbringen, bei der erstmaligen
+Anzeige einer Dienstleistungserbringung nach § 19 Absatz 4 des
+Krankenpflegegesetzes binnen eines Monats nach Eingang der Meldung und
+der Begleitdokumente über das Ergebnis ihrer Nachprüfung zu
+unterrichten und ihnen dabei mitzuteilen, ob sie die Erbringung der
+Dienstleistung erlaubt oder von ihnen verlangt, eine Eignungsprüfung
+abzulegen. Ist der zuständigen Behörde eine Nachprüfung innerhalb
+eines Monats nach Eingang der Meldung und der Begleitdokumente in
+besonderen Ausnahmefällen nicht möglich, unterrichtet sie den
+Dienstleister innerhalb dieser Frist über die Gründe der Verzögerung;
+sie hat die der Verzögerung zugrunde liegenden Schwierigkeiten binnen
+eines Monats nach dieser Mitteilung zu beheben und spätestens
+innerhalb von zwei Monaten nach der Behebung der der Verzögerung
+zugrunde liegenden Schwierigkeiten über die Dienstleistungserbringung
+zu entscheiden. Erhält der Dienstleistungserbringer innerhalb der in
+den Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
+Behörde, darf die Dienstleistung erbracht werden.
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaaten und
 Drittstaatsangehörige, soweit sich hinsichtlich der Diplomanerkennung
@@ -609,19 +625,258 @@ nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung
 ergibt.
 
 
-### § 20a Frist
+### § 20a Anerkennungsregelungen für Ausbildungsnachweise aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
-nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Sie hat über
-Anträge nach § 2 Absatz 4 des Krankenpflegegesetzes kurzfristig,
-spätestens drei Monate nach Vorlage der Nachweise über das Vorliegen
-der Voraussetzungen dieses Gesetzes zu entscheiden. Für Anträge nach §
-2 Absatz 3, 3a, 5, 5a und 6 des Krankenpflegegesetzes verlängert sich
-die Frist auf vier Monate. Über die Feststellung wesentlicher
-Unterschiede ist dem Antragsteller ein rechtsmittelfähiger Bescheid zu
-erteilen. Satz 3 tritt für Anträge nach § 2 Absatz 3 des
-Krankenpflegegesetzes am 1. Dezember 2012 in Kraft.
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer
+1 des Krankenpflegegesetzes beantragen und
+
+1.  ihre Ausbildung in einem Mitgliedstaat der Europäischen Union oder
+    einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum abgeschlossen haben, die aber nicht unter § 2 Absatz 4
+    des Krankenpflegegesetzes oder § 25 des Krankenpflegegesetzes fallen,
+    oder
+
+
+2.  über einen Ausbildungsnachweis als Krankenschwester oder
+    Krankenpfleger, die für die allgemeine Pflege verantwortlich sind, aus
+    einem Staat, der nicht Mitgliedstaat der Europäischen Union oder
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+    (Drittstaat) ist, verfügen, der aber in einem Mitgliedstaat der
+    Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum anerkannt wurde,
+
+
+
+oder Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer
+2 des Krankenpflegegesetzes beantragen, können zum Ausgleich von
+wesentlichen Unterschieden, die von der zuständigen Behörde im Rahmen
+der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der
+Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse
+und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im
+Rahmen ihrer Berufspraxis oder durch lebenslanges Lernen nach § 2
+Absatz 3 Satz 3 oder nach § 2 Absatz 5 Satz 7 des
+Krankenpflegegesetzes nachweisbar erworben haben, einen
+Anpassungslehrgang nach Absatz 2 absolvieren oder eine Eignungsprüfung
+nach Absatz 3 ablegen.
+
+(2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen
+Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er
+wird entsprechend dem Lehrgangsziel in Form von theoretischem und
+praktischem Unterricht, einer praktischen Ausbildung mit theoretischer
+Unterweisung oder beidem an Einrichtungen nach § 4 Absatz 2 Satz 1
+oder Satz 3 des Krankenpflegegesetzes oder an von der zuständigen
+Behörde als vergleichbar anerkannten Einrichtungen durchgeführt. An
+der theoretischen Unterweisung sollen Praxisanleiter, die die
+Voraussetzungen nach § 2 Absatz 2 Satz 4 oder Satz 6 erfüllen, in
+angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die
+Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das
+Lehrgangsziel erreicht werden kann. Die Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 5 nachzuweisen.
+
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zum Ausgleich der von der zuständigen Behörde
+festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und
+Fähigkeiten verfügen. Die Eignungsprüfung erstreckt sich auf eine
+praktische Prüfung, die mit einem Prüfungsgespräch verbunden ist. Der
+Prüfling hat dabei in mindestens einer und höchstens vier
+Pflegesituationen nachzuweisen, dass er die für den pflegerischen
+Gesamtprozess jeweils erforderlichen Maßnahmen planen, übernehmen,
+ihre Durchführung dokumentieren sowie die Übergabe vornehmen kann. Die
+zuständige Behörde legt die Zahl der Pflegesituationen sowie die
+Versorgungsbereiche, Gebiete oder Fächer im Sinne der Anlage 1
+Buchstabe B, auf die sich die Prüfung erstreckt, gemäß den
+festgestellten wesentlichen Unterschieden fest. Die Prüfung soll für
+jede Pflegesituation nicht länger als 120 Minuten dauern und als
+Patientenprüfung ausgestaltet sein. Sie wird von einem Fachprüfer nach
+§ 4 Absatz 1 Satz 1 Nummer 3 Buchstabe a und einem Fachprüfer nach § 4
+Absatz 1 Satz 1 Nummer 4 abgenommen und bewertet. Während der Prüfung
+sind den Prüfern Nachfragen gestattet, die sich auf das konkrete
+praktische Vorgehen beziehen. Die Eignungsprüfung ist erfolgreich
+abgeschlossen, wenn die Fachprüfer jede Pflegesituation
+übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt
+mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel
+noch den Anforderungen genügt. Kommen die Fachprüfer zu einer
+unterschiedlichen Bewertung, entscheidet der Vorsitzende des
+Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
+Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich
+angeboten werden und darf in jeder Pflegesituation, die nicht
+bestanden wurde, einmal wiederholt werden. Über die bestandene
+Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 6
+erteilt.
+
+
+### § 20b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Satz 1 Nummer
+1 oder Nummer 2 des Krankenpflegegesetzes beantragen, haben einen
+Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung
+über den Inhalt des Anpassungslehrgangs abschließt, oder eine
+Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen
+Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden
+ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen
+Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der
+Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der
+Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse
+und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im
+Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges
+Lernen nach § 2 Absatz 3a des Krankenpflegegesetzes in Verbindung mit
+§ 2 Absatz 3 Satz 3 des Krankenpflegegesetzes oder nach § 2 Absatz 5
+Satz 7 des Krankenpflegegesetzes erworben haben. Satz 1 gilt
+entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des
+Ausbildungsstandes auf Grund der in § 2 Absatz 3 Satz 5 des
+Krankenpflegegesetzes vorliegenden Umstände nicht durchgeführt wird.
+
+(2) Der Anpassungslehrgang dient zusammen mit dem Abschlussgespräch
+der Feststellung, dass die Antragsteller über die zur Ausübung des
+Berufs des Gesundheits- und Krankenpflegers oder des Berufs des
+Gesundheits- und Kinderkrankenpflegers erforderlichen Kenntnisse und
+Fähigkeiten verfügen (Lehrgangsziel). Er wird entsprechend dem
+Lehrgangsziel in Form von theoretischem und praktischem Unterricht,
+einer praktischen Ausbildung mit theoretischer Unterweisung oder
+beidem an Einrichtungen nach § 4 Absatz 2 Satz 1 oder Satz 3 des
+Krankenpflegegesetzes oder an von der zuständigen Behörde als
+vergleichbar anerkannten Einrichtungen durchgeführt und schließt mit
+einer Prüfung über den Inhalt des Anpassungslehrgangs ab. An der
+theoretischen Unterweisung sollen Praxisanleiter, die die
+Voraussetzungen nach § 2 Absatz 2 Satz 4 oder Satz 6 erfüllen, in
+angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die
+Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das
+Lehrgangsziel erreicht werden kann. Die erfolgreiche Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 7 nachzuweisen. Die Bescheinigung wird erteilt, wenn in der
+Prüfung, die in Form eines Abschlussgesprächs durchgeführt wird,
+festgestellt worden ist, dass die Antragsteller das Lehrgangsziel
+erreicht haben. Das Abschlussgespräch wird von einem Fachprüfer nach §
+4 Absatz 1 Satz 1 Nummer 3 gemeinsam mit der Lehrkraft oder dem
+Praxisanleiter nach Satz 3, die die Antragsteller während des
+Lehrgangs mit betreut hat, geführt. Ergibt sich in dem
+Abschlussgespräch, dass die Antragsteller den Anpassungslehrgang nicht
+erfolgreich abgeleistet haben, entscheidet der Fachprüfer nach § 4
+Absatz 1 Satz 1 Nummer 3 im Benehmen mit der an dem Gespräch
+teilnehmenden Lehrkraft oder dem Praxisanleiter über eine angemessene
+Verlängerung des Anpassungslehrgangs. Eine Verlängerung ist nur einmal
+zulässig. Der Verlängerung folgt ein weiteres Abschlussgespräch. Kann
+auch nach dem Ergebnis dieses Gesprächs die Bescheinigung nach Satz 5
+nicht erteilt werden, darf der Anpassungslehrgang nur einmal
+wiederholt werden.
+
+(3) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zur Ausübung des Berufs des Gesundheits- und
+Krankenpflegers oder des Berufs des Gesundheits- und
+Kinderkrankenpflegers erforderlichen Kompetenzen verfügen. Die
+Kenntnisprüfung umfasst jeweils einen mündlichen und praktischen Teil.
+Sie ist erfolgreich abgeschlossen, wenn jeder der beiden Prüfungsteile
+bestanden ist.
+
+(4) Der mündliche Teil der Kenntnisprüfung erstreckt sich auf die
+Themenbereiche 3 und 8 der Anlage 1 Buchstabe A sowie folgende Auszüge
+aus den Themenbereichen 7, 10 und 12:
+
+1.  rechtliche Rahmenbedingungen reflektieren und diese bei ihrem
+    Pflegehandeln berücksichtigen,
+
+
+2.  mit Krisen- und Konfliktsituationen konstruktiv umgehen,
+
+
+3.  pflegerische Erfordernisse in einem intra- sowie in einem
+    interdisziplinären Team zu erklären, angemessen und sicher zu
+    vertreten sowie an der Aushandlung gemeinsamer Behandlungs- und
+    Betreuungskonzepte mitzuwirken sowie
+
+
+4.  die Grenzen des eigenen Verantwortungsbereichs zu beachten und im
+    Bedarfsfall die Unterstützung und Mitwirkung durch andere Experten im
+    Gesundheitswesen einzufordern und zu organisieren.
+
+
+
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling
+mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei
+Fachprüfern, von denen eine Person die Voraussetzungen des § 4 Absatz
+1 Nummer 3 Buchstabe b erfüllen muss, abgenommen und bewertet. Der
+mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn
+die Fachprüfer in einer Gesamtbetrachtung die in Satz 1 genannten
+Themenbereiche 3 und 8 der Anlage 1 Buchstabe A und die in Satz 1
+Nummer 1 bis 4 aufgelisteten Auszüge aus den Themenbereichen 7, 10 und
+12 der Anlage 1 Buchstabe A übereinstimmend mit „bestanden“ bewerten.
+§ 20a Absatz 3 Satz 9 gilt entsprechend. Kommen die Fachprüfer zu
+einer unterschiedlichen Bewertung, entscheidet der Vorsitzende des
+Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
+Bestehen.
+
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 20a Absatz 3
+Satz 2 bis 10 entsprechend.
+
+(6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden und darf im mündlichen Teil sowie in jeder Pflegesituation des
+praktischen Teils, die nicht bestanden wurde, einmal wiederholt
+werden.
+
+(7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach
+dem Muster der Anlage 8 erteilt.
+
+
+### § 20c Fristen, Bescheide, Durchführungsbestimmungen
+
+(1) Die zuständige Behörde hat über Anträge auf Erteilung einer
+Erlaubnis als Gesundheits- und Krankenpflegerin oder Gesundheits- und
+Krankenpfleger nach § 1 Absatz 1 Nummer 1 des Krankenpflegegesetzes
+oder als Gesundheits- und Kinderkrankenpflegerin oder Gesundheits- und
+Kinderkrankenpfleger nach § 1 Absatz 1 Nummer 2 des
+Krankenpflegegesetzes jeweils in Verbindung mit § 2 Absatz 3, 3a, 4,
+5, 5a, 5b oder Absatz 6 des Krankenpflegegesetzes kurzfristig,
+spätestens vier Monate, im Falle von Anträgen nach § 2 Absatz 4 des
+Krankenpflegegesetzes spätestens drei Monate, nach Vorlage der für
+Entscheidungen nach § 2 des Krankenpflegegesetzes erforderlichen
+Unterlagen zu entscheiden.
+
+(2) Über die Feststellung wesentlicher Unterschiede, die zur
+Auferlegung einer Kenntnisprüfung, eines Anpassungslehrgangs oder
+einer Eignungsprüfung führen, ist den Antragstellern ein
+rechtsmittelfähiger Bescheid zu erteilen, der folgende Angaben
+enthält:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
+
+
+2.  die Themenbereiche oder Ausbildungsbestandteile, bei denen wesentliche
+    Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass die Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des Berufs des
+    Gesundheits- und Krankenpflegers oder des Gesundheits- und
+    Kinderkrankenpflegers notwendigen Kenntnisse und Fähigkeiten verfügen,
+    und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+    Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 3 Satz 3 oder Absatz 5
+    Satz 7 des Krankenpflegegesetzes erworben haben.
+
+
+
+
+(3) Die Eignungsprüfung nach § 20a Absatz 3 und die Kenntnisprüfung
+nach § 20b Absatz 3 finden in Form einer staatlichen Prüfung vor einer
+staatlichen Prüfungskommission statt. Die Länder können zur
+Durchführung der Prüfungen die regulären Prüfungstermine der
+staatlichen Prüfung nach § 3 Absatz 1 nutzen; sie haben dabei
+sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von
+sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können.
+Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§
+6, 9 bis 12 für die Durchführung der Prüfungen nach Satz 1
+entsprechend.
 
 
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
@@ -1171,3 +1426,307 @@ Ort, Datum
 .......................................
 (Unterschrift)
 
+
+### Anlage 5 (zu § 20a Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig und mit Erfolg an dem nach § 20a Absatz 2
+        der Ausbildungs- und Prüfungsverordnung für die Berufe in der
+        Krankenpflege von der zuständigen Behörde
+        vorgeschriebenen Anpassungslehrgang teilgenommen.
+
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+
+
+### Anlage 6 (zu § 20a Absatz 3)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Eignungsprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Eignungsprüfung nach § 20a
+        Absatz 3 der Ausbildungs- und
+[^F781546_01_BJNR226300003BJNE003300116]
+        Prüfungsverordnung für die Berufe in der Krankenpflege bestanden/nicht
+        bestanden.
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR226300003BJNE003300116]: 
+
+### Anlage 7 (zu § 20b Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig an dem nach § 20b Absatz 2
+        der Ausbildungs- und Prüfungsverordnung für die Berufe in der
+        Krankenpflege von der zuständigen Behörde
+        vorgeschriebenen Anpassungslehrgang teilgenommen.
+
+
+*    *[^F781546_01_BJNR226300003BJNE003400116]
+   Das Abschlussgespräch hat sie/er bestanden/nicht bestanden
+        .
+
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Personen nach § 20b Absatz 2 Satz 7
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR226300003BJNE003400116]: 
+
+### Anlage 8 (zu § 20b Absatz 7)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Kenntnisprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Kenntnisprüfung nach § 20b
+        Absatz 3 der Ausbildungs- und
+[^F781546_01_BJNR226300003BJNE003500116]
+        Prüfungsverordnung für die Berufe in der Krankenpflege bestanden/nicht
+        bestanden.
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR226300003BJNE003500116]: 

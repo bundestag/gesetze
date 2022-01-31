@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 778
 
+Geändert durch
+:   Art. 9 G v. 4.8.2019 I 1147
+
 
 ## Eingangsformel
 
@@ -32,19 +35,9 @@ genehmigt werden.
 
 ## § 2 Begriffsbestimmung
 
-(1) Uniform im Sinne dieser Verordnung ist die Uniform der Soldatinnen
-und Soldaten der Bundeswehr mit den Abzeichen des Dienstgrades, den zu
-führen die frühere Soldatin oder der frühere Soldat berechtigt ist.
-
-(2) Der Uniform nach Absatz 1 ist als besondere Kennzeichnung eine
-schwarz-rot-goldene Kordel als Überziehschlaufe auf den
-Schulterklappen zwischen Ärmeleinsatz und Dienstgradabzeichen oder ein
-goldfarbener Buchstabe "R" in Verbindung mit dem Dienstgradabzeichen
-(Marine) hinzuzufügen.
-
-(3) Im Übrigen richten sich die Art, Trageweise und besondere
-Kennzeichnung der Uniform nach den für die Uniform der Soldatinnen und
-Soldaten geltenden Dienstvorschriften.
+Uniform ist die Uniform der Soldatinnen und Soldaten der Bundeswehr
+mit den Abzeichen des Dienstgrads, den zu führen die frühere Soldatin
+oder der frühere Soldat berechtigt ist.
 
 
 ## § 3 Anlässe

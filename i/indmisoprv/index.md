@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1117
 
 Zuletzt geändert durch
-:   Art. 17 V v. 25.8.2009 I 2960
+:   Art. 10 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -39,10 +39,10 @@ Industriemeisterin - Fachrichtung Isolierung (Wärme-, Kälte-, Schall-
 und Brandschutz) erworben worden sind, kann die zuständige Stelle
 Prüfungen nach den §§ 2 bis 10 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, folgende
 Aufgaben eines Industriemeisters als Führungskraft zwischen Planung
-und Ausführung in dem ihm übertragenen Aufgabenbereich wahrzunehmen:
+und Ausführung in dem ihr übertragenen Aufgabenbereich wahrzunehmen:
 
 1.  Mitwirken bei der Planung und Einrichtung der Betriebsmittel;
     Überwachen der Betriebsmittel im Hinblick auf Qualitätsanforderungen
@@ -157,10 +157,10 @@ prüfen:
 
 
 
-(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll der
-Prüfungsteilnehmer nachweisen, daß er wirtschaftliche Grundkenntnisse
+(2) Im Prüfungsfach "Grundlagen für kostenbewußtes Handeln" soll die
+zu prüfende Person nachweisen, daß sie wirtschaftliche Grundkenntnisse
 besitzt sowie wirtschaftliche Zusammenhänge erkennen und beurteilen
-kann. Darüber hinaus soll er insbesondere nachweisen, daß er
+kann. Darüber hinaus soll sie insbesondere nachweisen, daß sie
 Organisationsprobleme des Betriebes auch in ihrer Bedeutung als
 Kostenfaktoren beurteilen und notwendige Organisationstechniken anhand
 von Beispielen aus der Praxis anwenden kann. In diesem Rahmen können
@@ -215,10 +215,10 @@ geprüft werden:
 
 
 
-(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll der
-Prüfungsteilnehmer rechtliche Grundkenntnisse nachweisen. Er soll
+(3) Im Prüfungsfach "Grundlagen für rechtsbewußtes Handeln" soll die
+zu prüfende Person rechtliche Grundkenntnisse nachweisen. Sie soll
 insbesondere anhand von betriebsbezogenen und praxisnahen Fällen
-nachweisen, daß er die Bedeutung der Rechtsvorschriften für seinen
+nachweisen, daß sie die Bedeutung der Rechtsvorschriften für ihren
 Funktionsbereich erkennen und beurteilen kann. In diesem Rahmen können
 geprüft werden:
 
@@ -262,7 +262,7 @@ geprüft werden:
 
 
 (4) Im Prüfungsfach "Grundlagen für die Zusammenarbeit im Betrieb"
-soll der Prüfungsteilnehmer nachweisen, daß er über soziologische
+soll die zu prüfende Person nachweisen, daß sie über soziologische
 Grundkenntnisse verfügt und soziologische Zusammenhänge im Betrieb
 erkennen und beurteilen kann. In diesem Rahmen können geprüft werden:
 
@@ -339,12 +339,12 @@ anzufertigenden Arbeit. Die Mindestzeiten betragen im Prüfungsfach:
 
 
 (7) In der mündlichen Prüfung in dem in Absatz 1 Nr. 3 genannten
-Prüfungsfach soll der Prüfungsteilnehmer nachweisen, daß er in der
+Prüfungsfach soll die zu prüfende Person nachweisen, daß sie in der
 Lage ist, bestimmte berufstypische Situationen zu erkennen, ihre
 Ursachen zu klären und sachgerechte Lösungsvorschläge zu machen. Es
 ist von einer praxisbezogenen, betrieblichen Situationsaufgabe
-auszugehen. Die Prüfung soll je Prüfungsteilnehmer nicht länger als 30
-Minuten dauern.
+auszugehen. Die Prüfung soll für die zu prüfende Person nicht länger
+als 30 Minuten dauern.
 
 (8) Wurde in nicht mehr als einem der in Absatz 1 Nummer 1 und 2
 genannten Fächer eine mangelhafte Prüfungsleistung erbracht, ist in
@@ -380,13 +380,13 @@ prüfen:
 
 
 (2) Im Prüfungsfach "Mathematische und naturwissenschaftliche
-Grundlagen" soll der Prüfungsteilnehmer nachweisen, daß er
+Grundlagen" soll die zu prüfende Person nachweisen, daß sie
 grundlegende mathematische und naturwissenschaftliche Kenntnisse zur
 Lösung praxisrelevanter Aufgabenstellungen anwenden kann. Dies
-schließt ein, daß er elementare Gesetzmäßigkeiten der Physik und der
+schließt ein, daß sie elementare Gesetzmäßigkeiten der Physik und der
 allgemeinen Chemie, die für den Bereich der Isoliertechnik von
-Bedeutung sind, kennt. Außerdem soll er deutlich machen, daß er die
-mit seiner Tätigkeit zusammenhängenden Berechnungen unter Nutzung der
+Bedeutung sind, kennt. Außerdem soll sie deutlich machen, daß sie die
+mit ihrer Tätigkeit zusammenhängenden Berechnungen unter Nutzung der
 entsprechenden Gleichungen ausführen kann. In diesem Rahmen können
 geprüft werden:
 
@@ -437,15 +437,15 @@ geprüft werden:
 
 
 (3) Im Prüfungsfach "Technische Kommunikation und Information" soll
-der Prüfungsteilnehmer nachweisen, daß er die dem jeweiligen Stand der
-Technik entsprechenden Kommunikations- und Informationsmittel kennt
-und anwenden kann. Er soll in der Lage sein, Daten und Anweisungen
-verschiedener Informationsträger richtig zu interpretieren und in
-berufliches Handeln mit Vorbereitung, Realisierung und Kontrolle der
-Arbeitsschritte umzusetzen. Darüber hinaus soll er befähigt sein,
-technische Probleme zu erfassen, Lösungsansätze aufzuzeigen und
-Informationen auf geeigneten Informationsträgern weiterzugeben. In
-diesem Rahmen können geprüft werden:
+die zu prüfende Person nachweisen, daß sie die dem jeweiligen Stand
+der Technik entsprechenden Kommunikations- und Informationsmittel
+kennt und anwenden kann. Sie soll in der Lage sein, Daten und
+Anweisungen verschiedener Informationsträger richtig zu interpretieren
+und in berufliches Handeln mit Vorbereitung, Realisierung und
+Kontrolle der Arbeitsschritte umzusetzen. Darüber hinaus soll sie
+befähigt sein, technische Probleme zu erfassen, Lösungsansätze
+aufzuzeigen und Informationen auf geeigneten Informationsträgern
+weiterzugeben. In diesem Rahmen können geprüft werden:
 
 1.  Lesen und Interpretieren von Informationen und Daten unterschiedlicher
     Informationsträger, insbesondere technischer Zeichnungen und
@@ -473,18 +473,18 @@ diesem Rahmen können geprüft werden:
 
 
 
-(4) Im Prüfungsfach "Verarbeitung der Dämm- und Hilfsstoffe" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist, unter Anwendung
-einschlägiger technischer Regelwerke Aufbau und Eigenschaften der
-Dämm- und Hilfsstoffe zu bestimmen und daraus auf materialgerechte
-Lagerung, Transport, Bearbeitung und Verwendung zu schließen. Er soll
-neben der sachgerechten Auswahl der Materialien weiterhin in der Lage
-sein, Entscheidungen über ihre zweckmäßige Anbringung treffen zu
-können. Bei seinen Entscheidungen sind neben technischen und
-organisatorischen Gesichtspunkten auch Kostengesichtspunkte sowie die
-Aspekte der Energieeinsparung, der Arbeitssicherheit und des
-Umweltschutzes zu berücksichtigen. In diesem Rahmen können geprüft
-werden:
+(4) Im Prüfungsfach "Verarbeitung der Dämm- und Hilfsstoffe" soll die
+zu prüfende Person nachweisen, daß sie in der Lage ist, unter
+Anwendung einschlägiger technischer Regelwerke Aufbau und
+Eigenschaften der Dämm- und Hilfsstoffe zu bestimmen und daraus auf
+materialgerechte Lagerung, Transport, Bearbeitung und Verwendung zu
+schließen. Sie soll neben der sachgerechten Auswahl der Materialien
+weiterhin in der Lage sein, Entscheidungen über ihre zweckmäßige
+Anbringung treffen zu können. Bei ihren Entscheidungen sind neben
+technischen und organisatorischen Gesichtspunkten auch
+Kostengesichtspunkte sowie die Aspekte der Energieeinsparung, der
+Arbeitssicherheit und des Umweltschutzes zu berücksichtigen. In diesem
+Rahmen können geprüft werden:
 
 1.  Lagerung und Transport von Dämm- und Hilfsstoffen unter Einhaltung der
     Sicherheits- und Beladevorschriften, einschließlich qualitativer und
@@ -518,10 +518,10 @@ werden:
 
 
 (5) Im Prüfungsfach "Organisation der Baustelle, Arbeitssicherheit und
-Umweltschutz" soll der Prüfungsteilnehmer nachweisen, daß er Aufbau,
+Umweltschutz" soll die zu prüfende Person nachweisen, daß sie Aufbau,
 Funktionsprinzip und Einsatzmöglichkeiten der technischen
 Einrichtungen, der Betriebsstätte und der Anwendungsstelle im Hinblick
-auf einen rationellen Fertigungs- und Montageablauf beherrscht. Er
+auf einen rationellen Fertigungs- und Montageablauf beherrscht. Sie
 soll in der Lage sein, die einschlägigen Apparate, Geräte, Maschinen
 und Anlagen sowie Gerüstkonstruktionen für die Anbringung der
 Dämmstoffe auszuwählen und die Wartung sowie Instandhaltung
@@ -603,10 +603,10 @@ können geprüft werden:
 
 
 (6) Im Prüfungsfach "Fachrichtungsspezifische Situationsaufgabe" soll
-der Prüfungsteilnehmer nachweisen, daß er bei einer praxisbezogenen
+die zu prüfende Person nachweisen, daß sie bei einer praxisbezogenen
 betrieblichen Situationsaufgabe Lösungen unter Beachtung der in den
 Absätzen 2 bis 5 aufgeführten Prüfungsinhalte darstellen und begründen
-kann. Insbesondere soll er in der Lage sein, berufstypische
+kann. Insbesondere soll sie in der Lage sein, berufstypische
 Situationen zu erkennen, ihre Ursachen zu klären und sachgerechte
 Lösungsvorschläge zu machen und zu begründen. In der Situationsaufgabe
 soll die Verantwortung des Industriemeisters für die technischen,
@@ -653,8 +653,8 @@ Stunden betragen; die Mindestzeiten betragen im Prüfungsfach:
 
 
 (9) Die mündliche Prüfung in dem in Absatz 1 Nr. 5 genannten
-Prüfungsfach soll je Prüfungsteilnehmer nicht länger als 30 Minuten
-dauern.
+Prüfungsfach soll für die zu prüfende Person nicht länger als 30
+Minuten dauern.
 
 (10) Wurde in nicht mehr als einem der in Absatz 1 genannten Fächer
 eine mangelhafte Prüfungsleistung erbracht, ist in diesem eine
@@ -667,131 +667,575 @@ Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bestehen der Prüfung
-
-(1) Die Prüfungsteile gemäß § 3 Abs. 1 Nr. 1 und 2 sind gesondert zu
-bewerten. Für jeden dieser Teile der Prüfung ist eine Note als
-arithmetisches Mittel aus den Bewertungen der Leistungen in den
-einzelnen Prüfungsfächern zu bilden. Die Noten der schriftlichen und
-mündlichen Prüfungsleistungen in einem Prüfungsfach sind zu einer Note
-zusammenzufassen; dabei hat die Note der mündlichen Prüfungsleistung
-gemäß § 4 Abs. 7 das doppelte Gewicht.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in jedem
-der drei Prüfungsteile im schriftlichen und im praktischen Teil des
-berufs- und arbeitspädagogischen Teils, sowie im Prüfungsfach gemäß §
-5 Abs. 1 Nr. 4 mindestens ausreichende Leistungen erbracht hat. Dabei
-dürfen nur in einem Prüfungsfach je Prüfungsteil gemäß § 3 Abs. 1 Nr.
-1 und 2 nicht ausreichende Leistungen vorliegen. Bei einer
-ungenügenden Prüfungsleistung in einem Prüfungsfach ist die Prüfung
-nicht bestanden.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage
-Seite 1 und ein Zeugnis gemäß der Anlage Seite 1 und 2 auszustellen.
-Im Fall der Freistellung nach § 6 sind - anstelle der Noten - Ort,
-Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
-abgelegten Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 3 Satz 3, Absatz 4, Absatz 5 Satz 2
+oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im fachrichtungsübergreifenden Prüfungsteil sind die
+Prüfungsleistungen für die Prüfungsfächer „Grundlagen für
+kostenbewusstes Handeln“ und „Grundlagen für rechtsbewusstes Handeln“
+einzeln zu bewerten.
+
+(3) Im Prüfungsfach „Grundlagen für die Zusammenarbeit im Betrieb“ des
+fachrichtungsübergreifenden Prüfungsteils sind die schriftliche
+Prüfung und die mündliche Prüfung einzeln zu bewerten. Aus beiden
+Bewertungen wird als zusammengefasste Bewertung das gewichtete
+arithmetische Mittel berechnet. Dabei werden gewichtet:
+
+1.  die schriftliche Prüfung mit einem Drittel und
+
+
+2.  die mündliche Prüfung mit zwei Dritteln.
+
+
+
+Das Ergebnis ist die Bewertung für das Prüfungsfach „Grundlagen für
+die Zusammenarbeit im Betrieb“.
+
+(4) Aus den einzelnen Bewertungen der Prüfungsleistungen im
+Prüfungsfach „Grundlagen für kostenbewusstes Handeln“ und im
+Prüfungsfach „Grundlagen für rechtsbewusstes Handeln“ sowie der
+zusammengefassten Bewertung im Prüfungsfach „Grundlagen für die
+Zusammenarbeit im Betrieb“ wird als Bewertung für den
+fachrichtungsübergreifenden Prüfungsteil das arithmetische Mittel
+berechnet.
+
+(5) Im fachrichtungsspezifischen Teil sind als Prüfungsleistungen zu
+bewerten:
+
+1.  die schriftlichen Prüfungen nach § 5 Absatz 2 bis 5 und
+
+
+2.  die mündliche Prüfung nach § 5 Absatz 6.
+
+
+
+Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung für
+den fachrichtungsspezifischen Prüfungsteil das arithmetische Mittel
+berechnet.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in zwei der drei Prüfungsfächer des fachrichtungsübergreifenden Teils,
+
+
+2.  in der Bewertung des fachrichtungsübergreifenden Teils,
+
+
+3.  in vier der fünf Prüfungsfächer des fachrichtungsspezifischen Teils,
+
+
+4.  in der zusammengefassten Bewertung des fachrichtungsübergreifenden
+    Teils und
+
+
+5.  im Prüfungsfach „Organisation der Baustelle, Arbeitssicherheit und
+    Umweltschutz“.
+
+
+
+Die Prüfung ist nur bestanden, wenn in den verbleibenden
+Prüfungsleistungen nach Satz 1 Nummer 1 und 3 jeweils mindestens 30
+Punkte erreicht wurden.
+
+(2) Ist die Prüfung bestanden, werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den fachrichtungsübergreifenden Prüfungsteil,
+
+
+2.  die Bewertung für das Prüfungsfach „Grundlagen für die Zusammenarbeit
+    im Betrieb“ und
+
+
+3.  die zusammengefasste Bewertung für den fachspezifischen Prüfungsteil.
+
+
+
+
+(3) Der Bewertung für den fachrichtungsübergreifenden Prüfungsteil,
+den Bewertungen für jedes Prüfungsfach des fachrichtungsübergreifenden
+Prüfungsteils, der zusammengefassten Bewertung für den
+fachrichtungsspezifischen Prüfungsteil sowie den Bewertungen für jedes
+Prüfungsfach des fachrichtungsspezifischen Prüfungsteils ist nach
+Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den fachrichtungsübergreifenden Prüfungsteil mit 25
+    Prozent,
+
+
+2.  die zusammengefasste Bewertung für den fachrichtungsspezifischen
+    Prüfungsteil mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer von einzelnen Prüfungsteilen und Prüfungsfächern
-befreit, wenn er darin in einer vorangegangenen Prüfung mindestens
-ausreichende Leistungen erbracht hat und er sich innerhalb von zwei
-Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
-Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der
-Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
-zu wiederholen. In diesem Fall wird das letzte Ergebnis
-berücksichtigt.
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsteilen und Prüfungsfächern befreit, wenn
+sie darin in einer vorangegangenen Prüfung mindestens ausreichende
+Leistungen erbracht hat und er sich innerhalb von zwei Jahren,
+gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an,
+zur Wiederholungsprüfung angemeldet hat. Die zu prüfende Person kann
+beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
+diesem Fall wird das letzte Ergebnis berücksichtigt.
 
 
-## § 9 Übergangsvorschrift
+## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 1993 in Kraft.
 
+(zu den §§ 7 und 8)
 
-## Anlage (zu § 7 Absatz 3) Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 1993, 1123 - 1124,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Seite 1
-......................................................................
-..
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz)
-Herr/Frau.............................................................
-..
-geboren am ........................ in
-.................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz)
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz)
-vom 29. Juni 1993 (BGBl. I S. 1117),
-die zuletzt durch Artikel 17 der Verordnung vom 25. August 2009
-(BGBl. I S. 2960) geändert worden ist,
-bestanden.
-Datum .............................
-Unterschrift ......................
-(Siegel der zuständigen Stelle)
-Seite 2
-Ergebnisse der Prüfung                                          Note
-I.   Fachrichtungsübergreifender Teil
-............
-1\. Grundlagen für kostenbewußtes Handeln               ............
-2\. Grundlagen für rechtsbewußtes Handeln               ............
-3\. Grundlagen für die Zusammenarbeit im Betrieb        ............
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin wurde nach § 6 im Hinblick
-auf die am .......... in .......... vor ..........
-abgelegte Prüfung vom Prüfungsbestandteil ..........
-freigestellt.“)
-II.  Fachrichtungsspezifischer Teil
-............
-1\. Mathematische und naturwissenschaftliche            ............
-Grundlagen
-2\. Technische Kommunikation und Information            ............
-3\. Verarbeitung der Dämm- und Hilfsstoffe              ............
-4\. Organisation der Baustelle, Arbeitssicherheit       ............
-und Umweltschutz
-5\. Fachrichtungsspezifische Situationsaufgabe          ............
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin wurde nach § 6 im Hinblick
-auf die am .......... in .......... vor ..........
-abgelegte Prüfung vom Prüfungsbestandteil ..........
-freigestellt.“)
-III. Berufs- und arbeitspädagogischer Eignung
-............
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat
-nach § 3 Absatz 3 den Nachweis über den Erwerb der
-berufs- und arbeitspädagogischen Eignung durch die
-Prüfung am ........ in ........ vor ........ erbracht.
+(Fundstelle: BGBl. I 2019, 2187 - 2188)
+
+
+*    *   Punkte
+
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2189)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum fachrichtungsübergreifenden Prüfungsteil
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der drei Prüfungsbereiche und Bewertung mit Noten,
+
+
+
+
+
+2.  zum fachrichtungsspezifischen Prüfungsteil
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note,
+
+
+    b)  Benennung der schriftlichen Prüfung nach § 5 Absatz 2 und Bewertung
+        mit Note,
+
+
+    c)  Benennung der schriftlichen Prüfung nach § 5 Absatz 3 und Bewertung
+        mit Note,
+
+
+    d)  Benennung der schriftlichen Prüfung nach § 5 Absatz 4 und Bewertung
+        mit Note,
+
+
+    e)  Benennung der schriftlichen Prüfung nach § 5 Absatz 5 und Bewertung
+        mit Note sowie
+
+
+    f)  Benennung der mündlichen Prüfung nach § 5 Absatz 6 und Bewertung mit
+        Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 3 Absatz 3.
+
+
+
 

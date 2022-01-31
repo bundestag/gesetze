@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2711
 
+Geändert durch
+:   Art. 16 Abs. 8 G v. 10.3.2017 I 420
+
 
 
 ## Eingangsformel
@@ -29,24 +32,23 @@ Auf Grund des § 4 Satz 3 des Alkopopsteuergesetzes vom 23. Juli 2004
 (1) Das Netto-Mehraufkommen der Alkopopsteuer ist jeweils nach Ablauf
 eines Haushaltsjahres zu ermitteln. Es ergibt sich aus der Differenz
 zwischen dem Aufkommen der Alkopopsteuer und den Mindereinnahmen bei
-der Branntweinsteuer, die sich durch die Einführung der Alkopopsteuer
+der Alkoholsteuer, die sich durch die Einführung der Alkopopsteuer
 ergeben (§ 4 Satz 2 des Alkopopsteuergesetzes).
 
 (2) Das Aufkommen der Alkopopsteuer ist die kassenmäßige Einnahme im
 abgelaufenen Haushaltsjahr ohne die steuerlichen Nebenleistungen nach
 § 3 Abs. 4 der Abgabenordnung.
 
-(3) Für die Berechnung der Mindereinnahmen bei der Branntweinsteuer,
-die sich durch die Einführung der Alkopopsteuer ergeben, ist von einer
+(3) Für die Berechnung der Mindereinnahmen bei der Alkoholsteuer, die
+sich durch die Einführung der Alkopopsteuer ergeben, ist von einer
 jährlichen Verbrauchsmenge von Alkopops vor Einführung der
-Alkopopsteuer von 45.000 Hektoliter reinen Alkohols auszugehen
-(bisherige Verbrauchsmenge). Die Branntweinsteuermindereinnahmen
-werden aus der Differenz zwischen der Branntweinsteuer für die
-bisherige Verbrauchsmenge und der Branntweinsteuer für die im
-abgelaufenen Haushaltsjahr versteuerte Alkoholmenge von Alkopops
-ermittelt. Dabei ist der im abgelaufenen Haushaltsjahr geltende
-Branntweinsteuersatz nach § 131 Abs. 1 des Gesetzes über das
-Branntweinmonopol zugrunde zu legen.
+Alkopopsteuer von 45 000 Hektoliter reinen Alkohols auszugehen
+(bisherige Verbrauchsmenge). Die Mindereinnahmen bei der Alkoholsteuer
+werden aus der Differenz zwischen der Alkoholsteuer für die bisherige
+Verbrauchsmenge und der Alkoholsteuer für die im abgelaufenen
+Haushaltsjahr versteuerte Alkoholmenge von Alkopops ermittelt. Dabei
+ist der im abgelaufenen Haushaltsjahr geltende Alkoholsteuersatz nach
+§ 2 Absatz 1 des Alkoholsteuergesetzes zugrunde zu legen.
 
 
 ## § 2 Verrechnung der Differenz zwischen Soll- und Ist-Netto-Mehraufkommen sowie zwischen Soll- und Ist-Ausgaben für Suchtpräventionsmaßnahmen

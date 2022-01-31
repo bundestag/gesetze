@@ -13,11 +13,12 @@ Ausfertigungsdatum
 :   1990-09-25
 
 Fundstelle
-:   BGBl I: 1990, 2106
+:   BGBl I: 1990, 2106, 2153
 
 Zuletzt geändert durch
 :   Art. 1 V v. 31.10.2006 I 2407
 
+Stand: G in Kraft gem. § 5 iVm Bek. v. 3.10.1990 I 2153 mWv 3.10.1990
 
 ## Eingangsformel
 

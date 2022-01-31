@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2529 (3672)
 
+Zuletzt geändert durch
+:   Art. 15 Abs. 4 G v. 4.5.2021 I 882
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -309,9 +312,10 @@ gegenüber der verantwortlichen ärztlichen Person eingewilligt hat. Die
 Einwilligung nach Satz 1 umfasst sowohl die Entscheidung über den
 Umfang der genetischen Untersuchung als auch die Entscheidung, ob und
 inwieweit das Untersuchungsergebnis zur Kenntnis zu geben oder zu
-vernichten ist. Eine nach § 7 Abs. 2 beauftragte Person oder
-Einrichtung darf die genetische Analyse nur vornehmen, wenn ihr ein
-Nachweis der Einwilligung vorliegt.
+vernichten ist. Die Einwilligung nach Satz 1 umfasst auch die
+Einwilligung in die Verarbeitung genetischer Daten. Eine nach § 7 Abs.
+2 beauftragte Person oder Einrichtung darf die genetische Analyse nur
+vornehmen, wenn ihr ein Nachweis der Einwilligung vorliegt.
 
 (2) Die betroffene Person kann ihre Einwilligung jederzeit mit Wirkung
 für die Zukunft schriftlich oder mündlich gegenüber der
@@ -431,7 +435,8 @@ beauftragt hat.
 
 (3) Die verantwortliche ärztliche Person darf das Ergebnis der
 genetischen Untersuchung oder Analyse anderen nur mit ausdrücklicher
-und schriftlicher Einwilligung der betroffenen Person mitteilen.
+und schriftlich oder in elektronischer Form vorliegender Einwilligung
+der betroffenen Person mitteilen.
 
 (4) Das Ergebnis der genetischen Untersuchung darf der betroffenen
 Person nicht mitgeteilt werden, soweit diese Person nach § 8 Abs. 1
@@ -461,16 +466,16 @@ Untersuchungsunterlagen über die betroffene Person zu vernichten,
 Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung
 schutzwürdige Interessen der betroffenen Person beeinträchtigt würden
 oder wenn die betroffene Person eine längere Aufbewahrung schriftlich
-verlangt, hat die verantwortliche ärztliche Person die Ergebnisse
-anstelle einer Vernichtung nach Satz 2 Nr. 1 zu sperren und dies der
-nach § 7 Abs. 2 beauftragten Person oder Einrichtung mitzuteilen. Satz
-2 Nr. 2 gilt auch, wenn die betroffene Person ihre Einwilligung nach §
-8 Abs. 2 widerrufen hat, soweit ihr die Ergebnisse nicht bereits
-bekannt sind.
+oder in elektronischer Form verlangt, hat die verantwortliche
+ärztliche Person die Ergebnisse anstelle einer Vernichtung nach Satz 2
+Nr. 1 in der Verarbeitung einzuschränken und dies der nach § 7 Abs. 2
+beauftragten Person oder Einrichtung mitzuteilen. Satz 2 Nr. 2 gilt
+auch, wenn die betroffene Person ihre Einwilligung nach § 8 Abs. 2
+widerrufen hat, soweit ihr die Ergebnisse nicht bereits bekannt sind.
 
-(2) Absatz 1 gilt für die Aufbewahrung, Vernichtung und Sperrung des
-Ergebnisses einer genetischen Analyse durch die nach § 7 Abs. 2
-beauftragte Person oder Einrichtung entsprechend.
+(2) Absatz 1 gilt für die Aufbewahrung, Vernichtung und Einschränkung
+der Verarbeitung des Ergebnisses einer genetischen Analyse durch die
+nach § 7 Abs. 2 beauftragte Person oder Einrichtung entsprechend.
 
 
 ### § 13 Verwendung und Vernichtung genetischer Proben
@@ -694,7 +699,7 @@ Jahre aufzubewahren sind.
 (6) Eine vorgeburtliche genetische Untersuchung zur Klärung der
 Abstammung darf abweichend von § 15 Abs. 1 Satz 1 nur durch Ärztinnen
 oder Ärzte vorgenommen werden, wenn nach ärztlicher Erkenntnis an der
-Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 179 des
+Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 178 des
 Strafgesetzbuchs begangen worden ist und dringende Gründe für die
 Annahme sprechen, dass die Schwangerschaft auf der Tat beruht.
 
@@ -991,19 +996,8 @@ gutachtliche Stellungnahmen zu Einzelfragen der Auslegung und
 Anwendung ihrer Richtlinien abgeben.
 
 
-### § 24 Gebühren und Auslagen
+### § 24 (weggefallen)
 
-(1) Das Robert Koch-Institut erhebt für Stellungnahmen der
-Gendiagnostik-Kommission nach § 16 Abs. 2 und § 23 Abs. 5 zur Deckung
-des Verwaltungsaufwandes Gebühren und Auslagen.
-
-(2) Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände und die Höhe der Gebühren zu bestimmen
-und dabei feste Sätze oder Rahmensätze vorzusehen. In der
-Rechtsverordnung können Ermäßigungen und Befreiungen von Gebühren und
-Auslagen zugelassen und die Erstattung von Auslagen auch abweichend
-vom Verwaltungskostengesetz geregelt werden.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
@@ -1055,79 +1049,41 @@ des Absatzes 1 Nr. 3 die Schwangere.
 
 (1) Ordnungswidrig handelt, wer
 
-1.  entgegen § 7 Abs. 1, entgegen Abs. 2, auch in Verbindung mit § 17 Abs.
-    4 Satz 2, oder entgegen § 17 Abs. 4 Satz 1 oder § 20 Abs. 1 Nr. 1 eine
-    genetische Untersuchung oder Analyse vornimmt,
+1.  entgegen § 7 Absatz 1 oder 2, auch in Verbindung mit § 17 Absatz 4
+    Satz 2, oder entgegen § 17 Absatz 4 Satz 1 oder § 20 Absatz 1 Nummer 1
+    eine genetische Untersuchung oder Analyse vornimmt,
 
 
-2.  entgegen § 12 Abs. 1 Satz 2 oder 3, jeweils auch in Verbindung mit
-    Abs. 2 oder § 17 Abs. 5, das Ergebnis einer genetischen Untersuchung
-    oder Analyse nicht oder nicht rechtzeitig vernichtet oder nicht oder
-    nicht rechtzeitig sperrt,
+1a. entgegen § 13 Absatz 1 Satz 1 oder Absatz 2, jeweils auch in
+    Verbindung mit § 17 Absatz 5, eine genetische Probe verwendet,
 
 
-3.  entgegen § 13 Abs. 1 Satz 1 oder Abs. 2, jeweils auch in Verbindung
-    mit § 17 Abs. 5, eine genetische Probe verwendet,
+1b. entgegen § 13 Absatz 1 Satz 2, auch in Verbindung mit § 17 Absatz 5,
+    eine genetische Probe nicht oder nicht rechtzeitig vernichtet,
 
 
-4.  entgegen § 13 Abs. 1 Satz 2, auch in Verbindung mit § 17 Abs. 5, eine
-    genetische Probe nicht oder nicht rechtzeitig vernichtet,
+2.  entgegen § 16 Absatz 2 Satz 1 mit einer genetischen Reihenuntersuchung
+    beginnt oder
 
 
-5.  entgegen § 16 Abs. 2 Satz 1 mit einer genetischen Reihenuntersuchung
-    beginnt,
-
-
-6.  entgegen § 17 Abs. 1 Satz 1 erster Halbsatz, auch in Verbindung mit
-    Abs. 3 Satz 2, eine genetische Untersuchung ohne Einwilligung der dort
-    genannten Person vornimmt,
-
-
-7.  entgegen § 17 Abs. 2 in Verbindung mit Abs. 1 Satz 1 erster Halbsatz,
-    jeweils auch in Verbindung mit Abs. 3 Satz 2,
-
-    a)  als Vater oder Mutter des Kindes, dessen Abstammung geklärt werden
-        soll,
-
-
-    b)  als Kind, das seine Abstammung klären lassen will, oder
-
-
-    c)  als sonstige Person
-
-
-
-    eine genetische Untersuchung ohne die erforderliche Einwilligung
-    vornehmen lässt,
-
-
-8.  entgegen § 18 Abs. 1 Satz 1, § 19 oder § 20 Abs. 1 Nr. 2 die Vornahme
-    einer genetischen Untersuchung oder Analyse oder die Mitteilung dort
-    genannter Daten oder eines dort genannten Ergebnisses verlangt,
-
-
-9.  entgegen § 18 Abs. 1 Satz 1 Nr. 2, § 19 Nr. 2 oder § 20 Abs. 1 Nr. 2
-    dort genannte Daten oder ein dort genanntes Ergebnis entgegennimmt
-    oder
-
-
-10. einer Rechtsverordnung nach § 6 zuwiderhandelt, soweit sie für einen
-    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+3.  einer Rechtsverordnung nach § 6 oder einer vollziehbaren Anordnung auf
+    Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die
+    Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
 
 
 
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 3, 6
-und 9 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen
-des Absatzes 1 Nr. 7 Buchstabe a und b mit einer Geldbuße bis zu
-fünftausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-(3) Die Verwaltungsbehörde soll in den Fällen des Absatzes 1 Nr. 7
-Buchstabe a und b von einer Ahndung absehen, wenn die Personen, deren
-genetische Proben zur Klärung der Abstammung untersucht wurden, der
-Untersuchung und der Gewinnung der dafür erforderlichen genetischen
-Probe nachträglich zugestimmt haben.
+(3) Die Absätze 1 und 2 sind nicht anzuwenden, soweit die Verordnung
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
+2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018,
+S. 2) in der jeweils geltenden Fassung unmittelbar gilt.
 
 
 ## Abschnitt 8 - Schlussvorschriften

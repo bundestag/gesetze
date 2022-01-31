@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3235
 
-Geändert durch
-:   Art. 15 Abs. 83 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 11 G v. 9.6.2021 I 1614
 
 
 
@@ -391,80 +391,7 @@ fortgeführt. Die Bundesanstalt handelt als zuständige Stelle des
 Bundes und vertritt ihn auch vor Gericht.
 
 
-## § 15 Übergangsregelung Personalvertretung
-
-(1) Die erstmaligen Wahlen zur Personalvertretung nach dem
-Bundespersonalvertretungsgesetz in der Bundesanstalt finden innerhalb
-von fünf Monaten nach deren Errichtung statt.
-
-(2) Bis zur Konstituierung der nach Absatz 1 zu wählenden
-Personalvertretung nimmt deren Aufgaben ein Übergangspersonalrat wahr.
-Diesem können nur Beschäftigte angehören, die nach § 18 auf die
-Bundesanstalt übergeleitet werden. Er setzt sich zusammen aus den
-bisherigen Mitgliedern des Hauptpersonalrates. Hinzu kommen je ein
-bisheriges Mitglied der Bezirkspersonalräte der Oberfinanzdirektionen,
-die bis zum Inkrafttreten dieses Gesetzes über eine
-Bundesvermögensabteilung verfügten, sowie je ein bisheriges Mitglied
-der Personalräte Bund oder des Gesamtpersonalrates der ehemaligen
-Bundesvermögensabteilungen. Mitglied ist jeweils der Vorsitzende,
-ersatzweise ein Vorstandsmitglied oder ein Mitglied der jeweiligen
-Personalvertretung. Kommt nach Satz 4 mehr als ein ehemaliger
-Mandatsträger in Betracht, so findet § 17 Abs. 1 Satz 2 des
-Bundespersonalvertretungsgesetzes entsprechend Anwendung. Der
-Vorsitzende des Hauptpersonalrates beim Bundesministerium der Finanzen
-beruft die Mitglieder unter Übersendung der Tagesordnung zur ersten
-Sitzung ein und leitet diese, bis der Übergangspersonalrat aus seiner
-Mitte einen Wahlleiter zur Wahl des Vorstandes bestellt hat.
-
-(3) Der Übergangspersonalrat bestellt den Wahlvorstand für die
-erstmaligen Wahlen nach Absatz 1.
-
-(4) Die am 31. Dezember 2004 bestehenden Dienstvereinbarungen für den
-Bereich der Bundesvermögensverwaltung gelten bis zu einer Neuregelung
-für die Bundesanstalt fort, längstens aber für die Dauer von 18
-Monaten.
-
-
-## § 16 Übergangsregelung Schwerbehindertenvertretung
-
-(1) Die erstmaligen Wahlen zur Schwerbehindertenvertretung nach dem
-Neunten Buch Sozialgesetzbuch finden in der Bundesanstalt spätestens
-fünf Monate nach deren Errichtung statt.
-
-(2) Die Aufgaben der Schwerbehindertenvertretung nimmt bis zur
-Aufnahme ihrer Tätigkeit eine Übergangsschwerbehindertenvertretung
-wahr. Dieser können nur Beschäftigte angehören, die nach § 18 auf die
-Bundesanstalt übergeleitet werden. Aus der Mitte der ehemaligen
-Bezirksvertrauenspersonen und örtlichen Vertrauenspersonen werden eine
-Person, die den Vorsitz ausübt, sowie zwei Vertretungspersonen mit
-jeweils einfacher Mehrheit bestimmt.
-
-(3) Die Vorsitzende oder der Vorsitzende der
-Übergangsschwerbehindertenvertretung bestellt unverzüglich den
-Wahlvorstand für die erstmaligen Wahlen nach Absatz 1.
-
-
-## § 17 Übergangsregelung Gleichstellungsbeauftragte
-
-(1) Die Wahl der Gleichstellungsbeauftragten erfolgt nach den
-Regelungen der Verordnung über die Wahl der
-Gleichstellungsbeauftragten und ihrer Stellvertreterin in
-Dienststellen des Bundes. Die Bestellung muss danach innerhalb von
-vier Monaten nach Errichtung der Bundesanstalt abgeschlossen sein.
-
-(2) Die für die Bundesvermögensverwaltung bestellten
-Gleichstellungsbeauftragten bestimmen zeitnah nach der Errichtung der
-Bundesanstalt mit einfacher Mehrheit aus dem Kreis der nach § 18 auf
-die Bundesanstalt übergeleiteten ehemaligen
-Gleichstellungsbeauftragten aus jedem der ehemaligen neun Bereiche der
-Oberfinanzdirektionen mit Bundesvermögensabteilung eine
-Gleichstellungsbeauftragte. Diese und die Gleichstellungsbeauftragte
-des Bundesministeriums der Finanzen nehmen bis zur Neuwahl das
-Übergangsmandat wahr. Sie entscheiden mit einfacher Mehrheit. Soweit
-im Bereich der Oberfinanzdirektionen mit Bundesvermögensabteilung
-keine Gleichstellungsbeauftragte auf die Bundesanstalt übergeleitet
-wird, nimmt die am Tag vor der Gründung der Bundesanstalt zuständige
-Gleichstellungsbeauftragte das Übergangsmandat wahr.
+## (XXXX) §§ 15 bis 17 (weggefallen)
 
 
 ## § 18 Überleitung von Beschäftigten

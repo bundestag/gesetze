@@ -787,8 +787,9 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 (weggefallen)
 
+(zu § 4 Abs. 3)
 
-### Anlage 2 (zu § 4 Abs. 3) Voraussetzungen für die Anerkennung von Umschlagsbetrieben bei der Ausfuhr von Getreide in unverarbeitetem Zustand
+### Anlage 2 Voraussetzungen für die Anerkennung von Umschlagsbetrieben bei der Ausfuhr von Getreide in unverarbeitetem Zustand
 
 
 1.  Die Lagerkapazität muß mindestens 3.000 Tonnen betragen.
@@ -838,8 +839,9 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 
 
+(zu § 8 Abs. 4)
 
-### Anlage 3 (zu § 8 Abs. 4) Voraussetzungen für die Anerkennung von Verarbeitungsbetrieben
+### Anlage 3 Voraussetzungen für die Anerkennung von Verarbeitungsbetrieben
 
 
 1.  Es muß mindestens eine geeichte Waage zur Verfügung stehen.

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 2100
 
 Neugefasst durch
-:   Bek. v. 13.3.1997 I 458;
-
-Geändert durch
-:   Art. 2 V v. 20.12.2005 I 3499
+:   Bek. v. 17.5.2017 I 1262;
 
 
 ## I. - Begriffsbestimmungen
@@ -33,7 +30,15 @@ Geändert durch
 (1a) Im Sinne dieser Verordnung liegen in einem Rinderbestand vor:
 
 1.  Leukose der Rinder, wenn bei einem über sechs Monate alten Rind durch
-    blut- oder milchserologische Untersuchung (serologische Untersuchung)
+
+    a)  blut- oder milchserologische Untersuchung (serologische Untersuchung),
+
+
+    b)  molekularbiologische Untersuchung mittels
+        Nukleinsäureamplifikationstechnik
+
+
+
     ein positiver Befund festgestellt worden ist;
 
 
@@ -77,12 +82,11 @@ leukoseunverdächtig, wenn
 
 
 
-
         durchgeführt worden sind und diese Untersuchungen keine positiven oder
         wiederholt zweifelhaften Befunde ergeben haben und
 
 
-    c)  in den letzten zwei Jahren keine Tatsachen bekanntgeworden sind, die
+    c)  in den letzten zwei Jahren keine Tatsachen bekannt geworden sind, die
         auf Leukose schließen lassen, oder in dem Bestand die Leukose als
         erloschen oder der Verdacht auf Leukose als beseitigt gilt,
 
@@ -97,16 +101,15 @@ leukoseunverdächtig, wenn
         serologischen Befunde ergeben haben und
 
 
-    b)  in den letzten vier Jahren keine Tatsachen bekanntgeworden sind, die
+    b)  in den letzten vier Jahren keine Tatsachen bekannt geworden sind, die
         auf Leukose schließen lassen, oder in dem Bestand die Leukose als
         erloschen oder der Verdacht auf Leukose als beseitigt gilt;
 
 
 
-
     dies gilt nur, wenn in einem Land oder in dem Teil eines Landes, der
     mindestens einem Regierungsbezirk vergleichbar ist, in weniger als 0,5
-    vom Hundert aller rinderhaltenden Betriebe Leukose oder Verdacht auf
+    vom Hundert aller Rinder haltenden Betriebe Leukose oder Verdacht auf
     Leukose der Rinder festgestellt ist,
 
 
@@ -146,7 +149,6 @@ leukoseunverdächtig, wenn
 
 
 
-
             verwendet werden.
 
 
@@ -155,20 +157,20 @@ leukoseunverdächtig, wenn
 
 
 
-    In Beständen, die mindestens zu 30 vom Hundert aus Milchkühen
-    bestehen, ist die blutserologische Untersuchung mit Ausnahme der
-    Untersuchung der Zuchtbullen entbehrlich, wenn die Kühe mittels einer
-    serologischen Untersuchung der Einzel-, Kannen- oder Tankmilch
-    untersucht worden sind.
 
 
-
+In Beständen, die mindestens zu 30 vom Hundert aus Milchkühen
+bestehen, ist die blutserologische Untersuchung mit Ausnahme der
+Untersuchung der Zuchtbullen entbehrlich, wenn die Kühe mittels einer
+serologischen Untersuchung der Einzel-, Kannen- oder Tankmilch
+untersucht worden sind.
 
 (3) Für die Untersuchungsmethode und die Beurteilung der Befunde bei
-der serologischen Untersuchung gilt Anlage G der Richtlinie 64/432/EWG
-des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen
-beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen
-(ABl. EG 1975 Nr. C 189 S. 1) in der jeweils geltenden Fassung.
+der serologischen Untersuchung gilt Anhang D Kapitel II der Richtlinie
+64/432/EWG des Rates vom 26. Juni 1964 zur Regelung
+viehseuchenrechtlicher Fragen beim innergemeinschaftlichen
+Handelsverkehr mit Rindern und Schweinen (ABl. 121 vom 29.7.1964, S.
+1977) in der jeweils geltenden Fassung.
 
 (4) Zucht- und Nutzrinder im Sinne dieser Verordnung sind Hausrinder,
 die zur Erzeugung von Milch, zur Zucht, zur Mast oder zur Verwendung
@@ -197,16 +199,27 @@ zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
 #### § 3a
 
-Der Besitzer von Rindern ist verpflichtet, die über 24 Monate alten
+(1) Der Halter von Rindern ist verpflichtet, die über 24 Monate alten
 Tiere nach näherer Anweisung der zuständigen Behörde im Abstand von
 längstens drei Jahren mittels einer blutserologischen Untersuchung
-nach § 1 Abs. 3 untersuchen zu lassen. In Beständen, die mindestens zu
-30 vom Hundert aus Milchkühen bestehen, ist die Untersuchung nach Satz
-1 mit Ausnahme der Zuchtbullen entbehrlich, wenn die milchgebenden
-Kühe mittels einer im Abstand von längstens zwei Jahren durch zwei im
-Abstand von mindestens fünf und höchstens sieben Monaten vorgenommenen
-serologischen Untersuchung der Einzel-, Kannen- oder Tankmilch nach §
-1 Abs. 3 untersucht worden sind.
+nach § 1 Absatz 3 untersuchen zu lassen. In Beständen, die mindestens
+zu 30 vom Hundert aus Milchkühen bestehen, ist die Untersuchung nach
+Satz 1 mit Ausnahme der Zuchtbullen entbehrlich, wenn die Milch
+gebenden Kühe mittels einer im Abstand von längstens drei Jahren durch
+zwei im Abstand von mindestens fünf und höchstens sieben Monaten
+vorgenommenen serologischen Untersuchung der Einzel-, Kannen- oder
+Tankmilch nach § 1 Absatz 3 untersucht worden sind.
+
+(2) Abweichend von Absatz 1 Satz 1 kann die zuständige Behörde
+anordnen, dass nach Maßgabe der Sätze 2 bis 4
+Stichprobenuntersuchungen in den Beständen durchgeführt werden. Die
+zuständige Behörde legt die im Rahmen der Stichprobenuntersuchung zu
+untersuchenden Bestände fest. Dabei sind so viele Bestände
+einzubeziehen, dass Leukose mit einer Wahrscheinlichkeit von 99 vom
+Hundert und einer Prävalenzschwelle von 0,2 vom Hundert festgestellt
+werden kann. In den der Stichprobenuntersuchung unterfallenden
+Bestände sind jeweils alle über zwölf Monate alten Rinder zu
+untersuchen. Absatz 1 Satz 2 bleibt unberührt.
 
 
 #### § 4
@@ -260,11 +273,12 @@ anordnen.
 Leukose amtlich festgestellt, so unterliegt das Gehöft oder der
 sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
-1.  Alle Rinder des Bestandes sind im Stall oder auf der Weide so
-    abzusondern, daß sie mit Rindern anderer Besitzer nicht in Berührung
-    kommen können. Rinder, bei denen leukotische Tumoren oder positive
-    oder wiederholt zweifelhafte serologische Befunde festgestellt worden
-    sind, sind von den übrigen Rindern des Bestandes abzusondern.
+1.  Alle Rinder des Bestandes sind im Stall oder auf der Weide vom
+    Besitzer so abzusondern, dass sie mit Rindern anderer Besitzer nicht
+    in Berührung kommen können. Der Besitzer hat Rinder, bei denen
+    leukotische Tumoren oder positive oder wiederholt zweifelhafte
+    serologische Befunde festgestellt worden sind, von den übrigen Rindern
+    des Bestandes abzusondern.
 
 
 2.  Rinder dürfen nur mit Genehmigung der zuständigen Behörde und nur zur
@@ -281,10 +295,10 @@ sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
 5.  Die Milch von Kühen, bei denen leukotische Tumoren oder positive oder
     wiederholt zweifelhafte serologische Befunde festgestellt worden sind,
-    ist entweder vor Abgabe oder Verfütterung aufzukochen oder an
-    Sammelmolkereien abzugeben, in denen eine ausreichende Erhitzung
-    sichergestellt ist. Kolostralmilch ist stets unschädlich zu
-    beseitigen.
+    ist vom Besitzer der Rinder entweder vor Abgabe oder Verfütterung
+    aufzukochen oder an Sammelmolkereien abzugeben, in denen eine
+    ausreichende Erhitzung sichergestellt ist. Kolostralmilch ist vom
+    Besitzer der Rinder stets unschädlich zu beseitigen.
 
 
 6.  Behälter, Gerätschaften und sonstige Gegenstände, die in einem Stall
@@ -296,7 +310,7 @@ sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
 
 (2) Die zuständige Behörde kann im Einzelfall Ausnahmen von Absatz 1
-Nr. 2 und 6 zulassen, wenn Belange der Seuchenbekämpfung nicht
+Nummer 2 und 6 zulassen, wenn Belange der Seuchenbekämpfung nicht
 entgegenstehen.
 
 
@@ -389,89 +403,142 @@ beseitigt ist oder sich als unbegründet erwiesen hat.
     serologischen Befunde ergeben haben und
 
 
-3.  die Desinfektion nach Absatz 2 Nr. 3 durchgeführt worden ist.
+3.  die Desinfektion nach Absatz 2 Nummer 3 durchgeführt worden ist.
 
 
 
 
 
-## IV. - Ordnungswidrigkeiten
+## IV. - Amtlich anerkannter leukosefreier Rinderbestand
+
+
+
+### § 11a
+
+Ein Rinderbestand, der sich im Inland befindet, ist im Sinne des
+Artikels 3 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom
+23\. Juni 2003 zur Feststellung des amtlich anerkannt tuberkulose-,
+brucellose- und rinderleukosefreien Status bestimmter Mitgliedstaaten
+und Regionen von Mitgliedstaaten in Bezug auf die Rinderbestände (ABl.
+L 156 vom 25.6.2003, S. 74), die zuletzt durch den
+Durchführungsbeschluss (EU) 2016/448 (ABl. L 78 vom 24.3.2016, S. 78)
+geändert worden ist, ein amtlich anerkannter leukosefreier
+Rinderbestand.
+
+
+### § 11b
+
+(1) Die zuständige Behörde entzieht dem Inhaber eines Rinderbestandes
+die amtliche Anerkennung seines Bestandes als leukosefrei, soweit für
+den Bestand
+
+1.  der Verdacht auf Leukose der Rinder besteht oder
+
+
+2.  Leukose der Rinder amtlich festgestellt worden ist.
+
+
+
+In den Fällen des Verdachts auf Leukose der Rinder kann die zuständige
+Behörde für die Dauer der behördlichen Untersuchungen anstelle des
+Entzugs das Ruhen der amtlichen Anerkennung anordnen, soweit zu
+erwarten ist, dass über den Ausbruch der Rinderleukose in absehbarer
+Zeit behördlich entschieden werden kann.
+
+(2) Ist die amtliche Anerkennung nach Absatz 1 Satz 1 entzogen worden,
+erkennt die zuständige Behörde den Rinderbestand erneut amtlich als
+frei von Leukose der Rinder an, soweit der Verdacht im Sinne des § 11
+Absatz 3 beseitigt ist oder die Leukose der Rinder im Sinne des § 11
+Absatz 2 erloschen ist.
+
+(3) Die zuständige Behörde hebt die Anordnung des Ruhens der amtlichen
+Anerkennung nach Absatz 1 Satz 2 auf, soweit der Verdacht im Sinne des
+§ 11 Absatz 3 beseitigt ist.
+
+
+## V. - Ordnungswidrigkeiten
 
 
 
 ### § 12
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer mit einer Genehmigung nach § 3 Satz 2, § 5 Abs. 1 Satz 2 oder §
-    8 Abs. 1 Nr. 2 oder 3 oder Abs. 2 verbundenen vollziehbaren Auflage
-    oder
+1.  entgegen § 3 Satz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 
-2.  einer vollziehbaren Anordnung nach § 7 oder § 9
+2.  einer mit einer Genehmigung nach § 3 Satz 2, § 3a Absatz 2 Satz 1, § 5
+    Absatz 1 Satz 2 oder § 8 Absatz 1 Nummer 2 oder Nummer 3 oder Absatz 2
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 3 Satz 1 Impfungen oder Heilversuche vornimmt,
+3.  entgegen § 3a Absatz 1 Satz 1 ein Tier nicht, nicht richtig oder nicht
+    rechtzeitig untersuchen lässt,
 
 
-1a. entgegen § 3a Satz 1 ein Tier nicht, nicht richtig oder nicht in den
-    vorgeschriebenen Abständen untersuchen läßt,
+4.  entgegen § 5 Absatz 1 Satz 1 ein Rind verbringt oder einstellt,
 
 
-2.  entgegen § 4 Rinder nicht mit den vorgeschriebenen Marken
-    kennzeichnet,
+5.  einer vollziehbaren Anordnung nach § 7 oder § 9 zuwiderhandelt,
 
 
-3.  entgegen § 5 Abs. 1 Satz 1 Zucht- oder Nutzrinder in einen
-    Rinderbestand verbringt oder einstellt oder auf einen Viehmarkt, eine
-    Tierschau oder -ausstellung, eine Tierversteigerung, eine
-    Veranstaltung ähnlicher Art oder eine Gemeinschaftsweide verbringt
-    oder
+6.  entgegen § 8 Absatz 1 Nummer 1 ein Rind nicht, nicht richtig oder
+    nicht rechtzeitig absondert,
 
 
-4.  (weggefallen)
+7.  entgegen § 8 Absatz 1 Nummer 2 ein Rind entfernt,
 
 
-5.  einer Vorschrift
-
-    a)  des § 8 Abs. 1 Nr. 1 bis 5 über das Absondern, Entfernen oder
-        Einstellen, das Anzeigen des Verendens oder Notschlachtens von Rindern
-        oder das Aufkochen, Abgeben oder Beseitigen von Milch,
+8.  entgegen § 8 Absatz 1 Nummer 3 ein Rind einstellt,
 
 
-    b)  des § 8 Abs. 1 Nr. 6 oder des § 10 über das Reinigen oder
-        Desinfizieren
+9.  entgegen § 8 Absatz 1 Nummer 4 eine Anzeige nicht oder nicht
+    rechtzeitig erstattet,
 
 
+10. entgegen § 8 Absatz 1 Nummer 5 Satz 1 Milch nicht oder nicht
+    rechtzeitig aufkocht oder nicht, nicht richtig oder nicht rechtzeitig
+    abgibt,
 
 
-    zuwiderhandelt.
+11. entgegen § 8 Absatz 1 Nummer 5 Satz 2 Kolostralmilch nicht, nicht
+    richtig oder nicht rechtzeitig beseitigt oder
+
+
+12. entgegen § 8 Absatz 1 Nummer 6 oder § 10 einen dort genannten
+    Gegenstand oder einen dort genannten Standort nicht oder nicht
+    rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert.
 
 
 
 
 
-## V. - Schlußvorschriften
+## VI. - Schlussvorschriften
 
 
 
 ### § 13
 
-(weggefallen)
+§ 11a gilt nicht für einen Rinderbestand, soweit die zuständige
+Behörde am 30. Mai 2017
+
+1.  wegen des Verdachts auf Leukose der Rinder eine Untersuchung bei einem
+    Rind oder sonstige Schutzmaßregeln im Hinblick auf den Rinderbestand
+    angeordnet hat oder
+
+
+2.  Leukose der Rinder in dem Rinderbestand amtlich festgestellt worden
+    ist.
+
+
+
+Die zuständige Behörde erkennt den Rinderbestand amtlich als frei von
+Leukose der Rinder an, soweit die Voraussetzungen nach § 11b Absatz 2
+vorliegen.
 
 
 ### § 14
 
 (Inkrafttreten, Außerkrafttreten)
-
-
-### (XXXX) Anlagen 1 und 2 (weggefallen)
-
 

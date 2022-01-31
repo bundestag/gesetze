@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.4.2004 I 619
 
+Änderung durch
+:   Art. 26 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -38,7 +41,7 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 
 2.  der in Anlage 2 bestimmte Vordruck für den Briefumschlag nach § 176
-    Abs. 1 der Zivilprozessordnung (innerer Umschlag),
+    Absatz 2 der Zivilprozessordnung (innerer Umschlag),
 
 
 3.  der in Anlage 3 bestimmte Vordruck für den Postzustellungsauftrag nach
@@ -104,27 +107,31 @@ Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Nr. 1)
 
-## Anlage 1 (zu § 1 Nr. 1) Zustellungsurkunde
+## Anlage 1 Zustellungsurkunde
 
-(Inhalt: Nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 2004, 620 u. 621)
-
-
-## Anlage 2 (zu § 1 Nr. 2) Innerer Umschlag
-
-(Inhalt: Nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 2002, 674)
+(Fundstelle: BGBl. I 2004, 620 u. 621)
 
 
-## Anlage 3 (zu § 1 Nr. 3) Äußerer Umschlag/Auftrag
+(zu § 1 Nr. 2)
 
-(Inhalt: Nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 2002, 675)
+## Anlage 2 Innerer Umschlag
+
+(Fundstelle: BGBl. I 2002, 674)
 
 
-## Anlage 4 (zu § 1 Nr. 4) Benachrichtigung
+(zu § 1 Nr. 3)
 
-(Inhalt: Nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 2002, 676)
+## Anlage 3 Äußerer Umschlag/Auftrag
+
+(Fundstelle: BGBl. I 2002, 675)
+
+
+(zu § 1 Nr. 4)
+
+## Anlage 4 Benachrichtigung
+
+(Fundstelle: BGBl. I 2002, 676)
+
 

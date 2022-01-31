@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.1.2012 I 98
 
+Zuletzt geändert durch
+:   Art. 3 Ab. 2 G v. 4.12.2018 I 2257; 2019 I 496
+
 
 ## § 1 Anwendungsbereich
 
@@ -94,9 +97,7 @@ liegende
 
 
 (2a) In unklaren Fällen zu § 1 Absatz 2 Nummer 1, 2 und 8 kann ein
-Bestätigungsnachweis durch die Deutsche Dienststelle für die
-Benachrichtigung der nächsten Angehörigen von Gefallenen der
-ehemaligen deutschen Wehrmacht (WASt) erbracht werden.
+Bestätigungsnachweis durch das Bundesarchiv erbracht werden.
 
 (3) §§ 2 bis 5 des Bundesversorgungsgesetzes in ihrer jeweils
 geltenden Fassung sind entsprechend anzuwenden.
@@ -267,9 +268,7 @@ Lazarettpapiere, Grablageakten) oder sonstige Gegenstände unberechtigt
 in Besitz hat, die für personenstandsrechtliche Feststellungen,
 Identifizierung unbekannter Toter oder Ermittlung von Grablagen der in
 § 1 genannten Personen zweckdienlich sein können, ist verpflichtet,
-sie der Deutschen Dienststelle für die Benachrichtigung der nächsten
-Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt),
-Berlin, herauszugeben.
+sie dem Bundesarchiv herauszugeben.
 
 
 ## § 8 Identifizierungen
@@ -277,9 +276,7 @@ Berlin, herauszugeben.
 Zum Zwecke der Identifizierung namentlich unbekannter Toter kann eine
 Graböffnung angeordnet werden. Eine solche Anordnung soll nur
 getroffen werden, wenn eine Identifizierung nach gutachtlicher
-Äußerung der Deutschen Dienststelle für die Benachrichtigung der
-nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
-(WASt), Berlin, anders nicht durchführbar ist und eine
+Äußerung des Bundesarchivs anders nicht durchführbar ist und eine
 Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
 
@@ -392,7 +389,7 @@ Aufwendungen bleiben unberührt.
 (1) Für Amtshandlungen, die bei Durchführung dieses Gesetzes mit
 Ausnahme des § 7 erforderlich werden, werden Gebühren und Auslagen
 nicht erhoben. Dies gilt auch für Gerichtskosten, Beurkundungs- und
-Beglaubigungskosten nach der Kostenordnung.
+Beglaubigungskosten nach dem Gerichts- und Notarkostengesetz.
 
 (2) Die Wahrnehmung der Aufgaben nach diesem Gesetz gilt nicht als
 gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des

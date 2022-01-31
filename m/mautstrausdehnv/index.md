@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Ausdehnung der Mautpflicht auf bestimmte Abschnitte von Bundesstraßen
+Title: Verordnung zur Ausdehnung der Mautpflicht auf bestimmte Abschnitte von  Bundesstraßen
 jurabk: MautStrAusdehnV
 layout: default
 origslug: mautstrausdehnv
@@ -7,7 +7,7 @@ slug: mautstrausdehnv
 
 ---
 
-# Verordnung zur Ausdehnung der Mautpflicht auf bestimmte Abschnitte von Bundesstraßen (MautStrAusdehnV)
+# Verordnung zur Ausdehnung der Mautpflicht auf bestimmte Abschnitte von  Bundesstraßen (MautStrAusdehnV)
 
 Ausfertigungsdatum
 :   2006-12-08
@@ -58,8 +58,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu den §§ 1 und 2)
 
-## Anlage (zu den §§ 1 und 2) Mautpflichtige Streckenabschnitte von Bundesstraßen
+## Anlage Mautpflichtige Streckenabschnitte von Bundesstraßen
 
 (Fundstelle: BGBl. I 2006, 2859)
 

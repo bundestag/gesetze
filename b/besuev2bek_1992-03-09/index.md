@@ -1253,8 +1253,10 @@ Fundstelle des Originaltextes: BGBl. I 1992, 466 - 468
 
 
 
+(Anlage V des BBesG)
+Ortszuschlag
 
-## Anlage 2 (Anlage V des BBesG) Ortszuschlag (Monatsbeträge in DM)
+## Anlage 2 (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 468
 
@@ -1351,8 +1353,11 @@ Fundstelle des Originaltextes: BGBl. I 1992, 468
 
 
 
+(Anlage VIII des BBesG)
+Anwärtergrundbetrag
+Anwärterverheiratetenzuschlag
 
-## Anlage 3 (Anlage VIII des BBesG) Anwärtergrundbetrag Anwärterverheiratetenzuschlag (Monatsbeträge in DM)
+## Anlage 3 (Monatsbeträge in DM)
 
 Fundstelle des Originaltextes: BGBl. I 1992, 469
 
@@ -1442,8 +1447,11 @@ Fundstelle des Originaltextes: BGBl. I 1992, 469
 
 
 
+(Anlage IX des BBesG)
+Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
+(Monatsbeträge)
 
-## Anlage 4 (Anlage IX des BBesG) Amtszulagen, Stellenzulagen, Zulagen, Vergütungen (Monatsbeträge) - in der Reihenfolge der Gesetzesstellen -
+## Anlage 4 - in der Reihenfolge der Gesetzesstellen -
 
 (Fundstelle des Originaltextes: BGBl. I 1992, 470 - 472)
 

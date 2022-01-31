@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 894
 
-Geändert durch
-:   Art. 5 V v. 17.12.2004 I 3532
+Zuletzt geändert durch
+:   Art. 6 V v. 12.12.2018 I 2446
+
+Änderung durch
+:   Art. 74 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -46,26 +49,17 @@ Bestimmungen dieser Verordnung.
 
 ### § 2 Form der Einreichung
 
-(1) Die schriftliche Anmeldung besteht aus
-
-1.  dem Eintragungsantrag (§ 3 Abs. 2 Nr. 1, 3 und 4 des
-    Halbleiterschutzgesetzes),
-
-
-2.  den Unterlagen zur Identifizierung oder Veranschaulichung der
-    Topografie (§ 3 Abs. 2 Nr. 2 des Halbleiterschutzgesetzes).
-
-
-
+(1) Die Anmeldung der Topografie ist beim Deutschen Patent- und
+Markenamt schriftlich einzureichen.
 
 (2) Die Anmeldung zur Eintragung des Schutzes der Topografie muss
 unter Verwendung des vom Deutschen Patent- und Markenamt
 herausgegebenen Formblatts eingereicht werden.
 
 
-### § 3 Eintragungsantrag
+### § 3 Anmeldung der Topografie
 
-(1) Der Eintragungsantrag muss zur Wahrung des Anmeldetages enthalten:
+(1) Die Anmeldung muss zur Wahrung des Anmeldetages enthalten:
 
 1.  die Erklärung, dass die Eintragung des Schutzes der Topografie
     beantragt wird;
@@ -88,36 +82,35 @@ herausgegebenen Formblatts eingereicht werden.
 
 5.  folgende Angaben zum Anmelder:
 
-    a)  ist der Anmelder eine natürliche Person, den Vornamen und
-        Familiennamen oder, falls die Eintragung unter der Firma des Anmelders
-        erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist;
+    a)  wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder,
+        falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
+        Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift
+        des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer,
+        Postleitzahl und Ort,
 
 
-    b)  ist der Anmelder eine juristische Person oder eine
-        Personengesellschaft, den Namen dieser Person oder Gesellschaft; die
-        Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden.
-        Sofern die juristische Person oder Personengesellschaft in einem
-        Register eingetragen ist, muss der Name entsprechend dem
-        Registereintrag angegeben werden. Bei einer Gesellschaft bürgerlichen
-        Rechts sind auch der Name und die Anschrift mindestens eines
-        vertretungsberechtigten Gesellschafters anzugeben;
+    b)  wenn der Anmelder eine juristische Person oder eine
+        Personengesellschaft ist:
+
+        aa) Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße,
+            Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der
+            Rechtsform kann auf übliche Weise abgekürzt werden; wenn die
+            juristische Person oder Personengesellschaft in einem Register
+            eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
 
 
-
-
-    dabei muss klar ersichtlich sein, ob der Schutz der Topografie für
-    eine oder mehrere Personen oder Gesellschaften, für den Anmelder unter
-    der Firma oder unter dem bürgerlichen Namen angemeldet wird;
-
-    c)  Wohnsitz oder Sitz und die Anschrift (Straße und Hausnummer,
-        Postleitzahl, Ort);
+        bb) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
+            Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
+            mindestens eines vertretungsberechtigten Gesellschafters;
 
 
 
 
 
-6.  falls ein Vertreter bestellt worden ist, seinen Namen und seine
-    Anschrift;
+
+
+
+6.  gegebenenfalls die Angabe eines Vertreters;
 
 
 7.  die Unterschrift aller Anmelder oder deren Vertreter.
@@ -125,22 +118,30 @@ herausgegebenen Formblatts eingereicht werden.
 
 
 
-(2) Hat der Anmelder einen Wohnsitz oder Sitz im Ausland, so ist bei
-der Angabe der Anschrift nach Absatz 1 Nr. 5 Buchstabe c außer dem Ort
-auch der Staat anzugeben. Außerdem können gegebenenfalls Angaben zum
-Bezirk, zur Provinz oder zum Bundesstaat gemacht werden, in dem der
-Anmelder den Wohnsitz oder Sitz hat oder dessen Rechtsordnung er
-unterliegt.
+(2) Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist
+bei der Angabe der Anschrift nach Absatz 1 Nummer 5 außer dem Ort auch
+der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum
+Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder
+dessen Rechtsordnung er unterliegt, sind freiwillig.
 
 (3) Hat das Deutsche Patent- und Markenamt dem Anmelder eine
-Anmeldernummer zugeteilt, so soll diese in der Anmeldung genannt
-werden.
+Kennnummer zugeteilt, so soll diese in der Anmeldung genannt werden.
+In der Anmeldung können zusätzlich eine von der Anschrift des
+Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
+Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
-(4) Hat das Deutsche Patent- und Markenamt dem Vertreter eine
-Vertreternummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
-so soll diese angegeben werden.
+(4) Wird die Anmeldung von mehreren Personen oder
+Personengesellschaften eingereicht, so gelten Absatz 1 Nummer 5 und
+die Absätze 2 und 3 für alle anmeldenden Personen oder
+Personengesellschaften.
 
-(5) Der Eintragungsantrag muss ferner enthalten (§ 3 Abs. 2 Nr. 4 des
+(5) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum
+Vertreter Absatz 1 Nummer 5 und die Absätze 2 und 3 Satz 2
+entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter
+eine Kennnummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
+so soll diese zusätzlich angegeben werden.
+
+(6) Der Eintragungsantrag muss ferner enthalten (§ 3 Abs. 2 Nr. 4 des
 Halbleiterschutzgesetzes):
 
 1.  bei natürlichen Personen die Staatsangehörigkeit des Anmelders oder,
@@ -166,7 +167,7 @@ Halbleiterschutzgesetzes):
 
 
 
-(6) Falls der Anmelder Teile der Unterlagen als Betriebs- oder
+(7) Falls der Anmelder Teile der Unterlagen als Betriebs- oder
 Geschäftsgeheimnisse kennzeichnen will, kann der Eintragungsantrag
 entsprechende Angaben enthalten (§ 4 Abs. 3 des
 Halbleiterschutzgesetzes).
@@ -210,16 +211,13 @@ das Zweitexemplar für die allgemeine Akteneinsicht zur Verfügung
 gehalten.
 
 
-### § 6 Deutsche Übersetzungen
+### § 6 Fremdsprachige Dokumente
 
-(1) Deutsche Übersetzungen von Schriftstücken, die zu den Unterlagen
-der Anmeldung zählen, müssen von einem Rechtsanwalt oder Patentanwalt
-beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt
-sein. Die Unterschrift des Übersetzers ist öffentlich beglaubigen zu
-lassen (§ 129 des Bürgerlichen Gesetzbuchs), ebenso die Tatsache, dass
-der Übersetzer für derartige Zwecke öffentlich bestellt ist.
+(1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
+einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
+öffentlich bestellten Übersetzer angefertigt sein.
 
-(2) Deutsche Übersetzungen von Schriftstücken, die
+(2) Deutsche Übersetzungen von Dokumenten, die
 
 1.  nicht zu den Unterlagen der Anmeldung zählen und
 
@@ -230,18 +228,19 @@ der Übersetzer für derartige Zwecke öffentlich bestellt ist.
 
 
 sind nur auf Anforderung des Deutschen Patent- und Markenamts
-nachzureichen.
+nachzureichen. Das Deutsche Patent- und Markenamt setzt für die
+Nachreichung eine angemessene Frist.
 
-(3) Werden fremdsprachige Schriftstücke, die nicht zu den Unterlagen
-der Anmeldung zählen, in anderen Sprachen als in Absatz 2 Nr. 2
-aufgeführt eingereicht, so sind Übersetzungen in die deutsche Sprache
-innerhalb eines Monats nach Eingang der Schriftstücke nachzureichen.
+(3) Werden Dokumente, die nicht zu den Unterlagen der Anmeldung
+zählen, in anderen Sprachen eingereicht als in Absatz 2 Satz 1 Nummer
+2 aufgeführt, so sind Übersetzungen in die deutsche Sprache innerhalb
+eines Monats nach Eingang der Dokumente nachzureichen.
 
-(4) Die Übersetzung nach Absatz 2 oder Absatz 3 muss von einem
-Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich
-bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
-fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
-zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
+(4) Wird die Übersetzung im Sinne der Absätze 2 und 3 nach Ablauf der
+Frist eingereicht, so gilt das fremdsprachige Dokument als zum
+Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine
+Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht
+eingegangen.
 
 
 ## Abschnitt 3 - Schlussvorschriften

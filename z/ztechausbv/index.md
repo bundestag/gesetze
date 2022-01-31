@@ -352,8 +352,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
 
 (Fundstelle: BGBl. I 1997, 3185 - 3190)
 

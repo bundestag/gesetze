@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1595
 
+Änderung durch
+:   Art. 2 G v. 9.6.2021 I 1730 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## § 1 Rauchverbot
@@ -91,9 +94,10 @@ und Weise ihrer Belüftung, zu erlassen.
 
 
 
-3.  Personenbahnhöfe der öffentlichen Eisenbahnen sind solche nach § 3
-    Abs. 1 in Verbindung mit § 2 Abs. 3c Nr. 2 des Allgemeinen
-    Eisenbahngesetzes.
+3.  Personenbahnhöfe der öffentlichen Eisenbahnen im Sinne dieses Gesetzes
+    sind solche nach § 3 Absatz 1 des Allgemeinen Eisenbahngesetzes in
+    Verbindung mit Anlage 2 (zu den §§ 10 bis 14) Nummer 2 Satz 1
+    Buchstabe a des Eisenbahnregulierungsgesetzes.
 
 
 4.  Räume im Sinne dieses Gesetzes sind

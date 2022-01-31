@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2379
 
+V aufgeh. durch
+:   Art. 3 Abs. 1 Satz 2 G v. 5.7.2017 I 2234 mWv 1.1.2019
+
 Zuletzt geändert durch
-:   Art. 5 Abs. 19 G v. 24.2.2012 I 212
+:   Art. 11 Abs. 10 G v. 18.7.2017 I 2745
+
+Ersetzt durch
+:   G 2129-61 v. 5.7.2017 I 2234 (VerpackG)
 
 Mit dieser Verordnung wird die Richtlinie 94/62/EG des Europäischen
 Parlaments und des Rates vom 20. Dezember 1994 über Verpackungen und
@@ -147,6 +153,8 @@ verpflichten, bleibt unberührt.
     Verpackungen, die den Transport von Waren erleichtern, die Waren auf
     dem Transport vor Schäden bewahren oder die aus Gründen der Sicherheit
     des Transports verwendet werden und beim Vertreiber anfallen.
+    Container für den Straßen-, Schienen-, Schiffs- oder Lufttransport
+    sind keine Transportverpackungen.
 
 
 
@@ -243,7 +251,7 @@ Sportstadien und Raststätten. Vergleichbare Anfallstellen im Sinne von
 Satz 2 sind außerdem landwirtschaftliche Betriebe und
 Handwerksbetriebe, die über haushaltsübliche Sammelgefäße für Papier,
 Pappe, Kartonagen und Leichtverpackungen mit nicht mehr als maximal je
-Stoffgruppe einem 1.100-Liter-Umleerbehälter im haushaltsüblichen
+Stoffgruppe einem 1 100-Liter-Umleerbehälter im haushaltsüblichen
 Abfuhrrhythmus entsorgt werden können.
 
 (12) (weggefallen)
@@ -320,56 +328,47 @@ zum Ersatz ihrer Kosten können die Systeme nach Absatz 3 auch
 denjenigen Herstellern und Vertreibern, die sich an keinem System
 beteiligen, die Kosten für die Sammlung, Sortierung, Verwertung oder
 Beseitigung der von diesen Personen in Verkehr gebrachten und vom
-System entsorgten Verpackungen in Rechnung stellen. Soweit ein
-Vertreiber nachweislich die von ihm in Verkehr gebrachten und an
-private Endverbraucher abgegebenen Verkaufsverpackungen am Ort der
-Abgabe zurückgenommen und auf eigene Kosten einer Verwertung
-entsprechend den Anforderungen nach Anhang I Nr. 1 zugeführt hat,
-können die für die Beteiligung an einem System nach Absatz 3
-geleisteten Entgelte zurückverlangt werden. Satz 5 gilt entsprechend
-für Verkaufsverpackungen, die von einem anderen Vertreiber in Verkehr
-gebracht wurden, wenn es sich um Verpackungen derselben Art, Form und
-Größe und solcher Waren handelt, die der Vertreiber in seinem
-Sortiment führt. Der Nachweis nach Satz 5 hat entsprechend den
-Anforderungen nach Anhang I Nr. 4 Satz 1 bis 4 und 8 zu erfolgen.
+System entsorgten Verpackungen in Rechnung stellen.
 
-(2) Die Pflicht nach Absatz 1 entfällt, soweit Hersteller und
-Vertreiber bei Anfallstellen, die nach § 3 Abs. 11 Satz 2 und 3 den
-privaten Haushaltungen gleichgestellt sind, selbst die von ihnen bei
-diesen Anfallstellen in den Verkehr gebrachten Verpackungen
-entsprechend Absatz 8 Satz 1 zurücknehmen und einer Verwertung
-zuführen und der Hersteller oder Vertreiber oder der von ihnen hierfür
-beauftragte Dritte durch Bescheinigung eines unabhängigen
-Sachverständigen nachweist, dass sie
+(2) Die Pflicht der Hersteller und Vertreiber nach Absatz 1 zur
+Beteiligung an einem System nach Absatz 3 entfällt, soweit sie die von
+ihnen in den Verkehr gebrachten Verkaufsverpackungen bei nach § 3
+Absatz 11 Satz 2 und 3 den privaten Haushaltungen gleichgestellten
+Anfallstellen, die von ihnen entweder selbst oder durch
+zwischengeschaltete Vertreiber in nachprüfbarer Weise beliefert
+werden, entsprechend Absatz 8 Satz 1 zurücknehmen und einer Verwertung
+zuführen. Der Hersteller oder Vertreiber muss durch Bescheinigung
+eines der in Anhang I Nummer 2 Absatz 4 genannten Sachverständigen
+nachweisen, dass er oder ein von ihm hierfür beauftragter Dritter
 
-1.  im jeweiligen Land geeignete, branchenbezogene Erfassungsstrukturen
-    eingerichtet haben, die die regelmäßige kostenlose Rückgabe
-    entsprechend Absatz 8 Satz 1 bei allen von den Herstellern und
-    Vertreibern mit Verpackungen belieferten Anfallstellen nach § 3 Abs.
-    11 Satz 2 und 3 unter Berücksichtigung bestehender entsprechender
-    branchenbezogener Erfassungsstrukturen für Verkaufsverpackungen nach §
-    7 Abs. 1 gewährleisten,
+1.  bei allen von ihm nach Satz 1 belieferten Anfallstellen eine geeignete
+    branchenbezogene Erfassungsstruktur eingerichtet hat, die eine
+    regelmäßige kostenlose Rücknahme aller von ihm dort in den Verkehr
+    gebrachten Verkaufsverpackungen entsprechend Absatz 8 Satz 1
+    gewährleistet,
 
 
-2.  die Verwertung der Verkaufsverpackungen entsprechend den Anforderungen
-    des Anhangs I Nr. 1 und 4 gewährleisten, ohne dabei
-    Verkaufsverpackungen anderer als der innerhalb der jeweiligen Branche
-    von den jeweils teilnehmenden Herstellern und Vertreibern vertriebenen
-    Verpackungen oder Transport- und Umverpackungen in den
-    Mengenstromnachweis einzubeziehen.
+2.  schriftliche Bestätigungen aller von ihm nach Satz 1 belieferten
+    Anfallstellen über deren Einbindung in diese Erfassungsstruktur
+    vorliegen hat,
+
+
+3.  die Verwertung der Verkaufsverpackungen entsprechend den Anforderungen
+    des Anhangs I Nummer 1 und 4 gewährleistet.
 
 
 
-Die Bescheinigung ist mindestens einen Monat vor Beginn der Rücknahme
-der zuständigen obersten Landesbehörde oder der von ihr bestimmten
-Behörde vorzulegen. Der Beginn der Rücknahme ist schriftlich
-anzuzeigen. Abweichend von den Sätzen 2 und 3 haben Hersteller,
-Vertreiber oder die von ihnen beauftragten Dritten, die am 1. Januar
-2009 eine Selbstentsorgung unter Einhaltung der in Satz 1 genannten
-Anforderungen durchführen, die Bescheinigung innerhalb von 30
-Kalendertagen nach dem 1. Januar 2009 der zuständigen Behörde
-zuzuleiten. Absatz 5 Satz 3 und Anhang I Nr. 1, 2 Abs. 4 und Nr. 4
-gelten entsprechend.
+Die Bescheinigung ist zusammen mit den Bestätigungen nach Satz 2
+Nummer 2 mindestens einen Monat vor Beginn der Rücknahme der
+zuständigen obersten Landesbehörde oder der von ihr bestimmten Behörde
+vorzulegen. Der Beginn der Rücknahme sowie jede Änderung des
+Rücknahmesystems sind schriftlich anzuzeigen. Absatz 5 Satz 3 und
+Anhang I Nummer 1, Nummer 2 Absatz 4 und Nummer 4 gelten entsprechend.
+In dem jährlichen Nachweis nach Anhang I Nummer 4 sind zusätzlich die
+Anfallstellen nach Satz 1 adressgenau zu bezeichnen; außerdem sind
+schriftliche Nachweise aller Anfallstellen nach Satz 1 über die bei
+ihnen angelieferten Mengen an Verkaufsverpackungen des jeweiligen
+Herstellers oder Vertreibers beizufügen.
 
 (3) Ein System hat flächendeckend im Einzugsgebiet des verpflichteten
 Vertreibers unentgeltlich die regelmäßige Abholung gebrauchter,
@@ -673,9 +672,9 @@ gelieferten Serviceverpackungen an einem oder mehreren Systemen nach §
 6 Abs. 3 beteiligen.
 
 (4) Hersteller und Vertreiber, die Verkaufsverpackungen nach § 6 der
-Materialarten Glas von mehr als 80.000 Kilogramm oder Papier, Pappe,
-Karton von mehr als 50.000 Kilogramm oder der übrigen in Anhang I Nr.
-1 Abs. 2 genannten Materialarten von mehr als 30.000 Kilogramm im
+Materialarten Glas von mehr als 80 000 Kilogramm oder Papier, Pappe,
+Karton von mehr als 50 000 Kilogramm oder der übrigen in Anhang I Nr.
+1 Abs. 2 genannten Materialarten von mehr als 30 000 Kilogramm im
 Kalenderjahr in Verkehr bringen, haben jährlich eine
 Vollständigkeitserklärung nach Absatz 1 abzugeben. Unterhalb der
 Mengenschwellen nach Satz 1 sind Vollständigkeitserklärungen nur auf
@@ -688,18 +687,18 @@ elektronischer Form für drei Jahre gemäß den Anforderungen von Anhang
 VI zu hinterlegen. Die Prüfbescheinigung nach Absatz 1 Satz 1 der
 Wirtschaftsprüfer, Steuerberater, vereidigten Buchprüfer oder
 unabhängigen Sachverständigen nach Anhang I Nr. 2 Abs. 4 ist mit
-qualifizierter elektronischer Signatur gemäß § 2 des Signaturgesetzes
-zu versehen. Die Industrie- und Handelskammern betreiben die
-Hinterlegungsstellen in Selbstverwaltung. Sie informieren die
-Öffentlichkeit laufend im Internet darüber, wer eine
-Vollständigkeitserklärung abgegeben hat. Sie haben jeder Behörde, die
-für die Überwachung der abfallwirtschaftlichen Vorschriften zuständig
-ist, Einsicht in die hinterlegten Vollständigkeitserklärungen zu
-gewähren. Sie bedienen sich zur Erfüllung ihrer Pflichten nach diesem
-Absatz der Stelle, die nach § 32 Abs. 2 des Umweltauditgesetzes in der
-Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490),
-zuletzt geändert durch Artikel 8 Abs. 1 des Gesetzes vom 4. Dezember
-2004 (BGBl. I S. 3166), benannt ist.
+qualifizierter elektronischer Signatur zu versehen. Die Industrie- und
+Handelskammern betreiben die Hinterlegungsstellen in Selbstverwaltung.
+Sie informieren die Öffentlichkeit laufend im Internet darüber, wer
+eine Vollständigkeitserklärung abgegeben hat. Sie haben jeder Behörde,
+die für die Überwachung der abfallwirtschaftlichen Vorschriften
+zuständig ist, Einsicht in die hinterlegten
+Vollständigkeitserklärungen zu gewähren. Sie bedienen sich zur
+Erfüllung ihrer Pflichten nach diesem Absatz der Stelle, die nach § 32
+Abs. 2 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom
+4\. September 2002 (BGBl. I S. 3490), zuletzt geändert durch Artikel 8
+Abs. 1 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3166), benannt
+ist.
 
 (6) Die Systeme (Systembetreiber, Antragsteller) nach § 6 Abs. 3 sind
 verpflichtet, die Informationen nach Absatz 2 Nr. 2 über eine
@@ -876,8 +875,9 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 6 Absatz 2 Satz 5 in Verbindung mit Anhang I Nummer 4 Satz
-    2 oder Satz 3 eine Dokumentation nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstellt,
+    2 oder Satz 3, jeweils in Verbindung mit § 6 Absatz 2 Satz 6, eine
+    Dokumentation nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstellt,
 
 
 2.  entgegen § 6 Absatz 2 Satz 5 in Verbindung mit Anhang I Nummer 4 Satz
@@ -886,7 +886,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 3.  entgegen § 6 Absatz 2 Satz 5 in Verbindung mit Anhang I Nummer 4 Satz
-    11 eine Dokumentation nicht oder nicht rechtzeitig vorlegt,
+    11, jeweils in Verbindung mit § 6 Absatz 2 Satz 6, eine Dokumentation
+    nicht oder nicht rechtzeitig vorlegt,
 
 
 4.  entgegen § 6 Absatz 3 Satz 2 in Verbindung mit Anhang I Nummer 2
@@ -951,35 +952,18 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 Ware verwendet wurden, dürfen abweichend von den §§ 13 und 14 in
 Verkehr gebracht werden.
 
-(2) Die §§ 6 und 7 finden findet für Kunststoffverpackungen, die aus
-biologisch abbaubaren Werkstoffen hergestellt sind und deren sämtliche
-Bestandteile gemäß einer herstellerunabhängigen Zertifizierung nach
-anerkannten Prüfnormen kompostierbar sind, bis zum 31. Dezember 2012
-keine Anwendung. Die Hersteller und Vertreiber haben sicherzustellen,
-dass ein möglichst hoher Anteil der Verpackungen einer Verwertung
-zugeführt wird. § 9 findet für Einweggetränkeverpackungen aus
-Kunststoff, die die in Satz 1 genannten Voraussetzungen erfüllen und
-zu mindestens 75 Prozent aus nachwachsenden Rohstoffen hergestellt
-sind, bis zum 31. Dezember 2012 keine Anwendung, soweit sich
-Hersteller und Vertreiber hierfür an einem oder mehreren Systemen nach
-§ 6 Abs. 3 beteiligen. Die Erfüllung der in Satz 3 genannten
-Bedingung, wonach die Einweggetränkeverpackung zu mindestens 75
-Prozent aus nachwachsenden Rohstoffen hergestellt werden muss, ist
-durch einen unabhängigen Sachverständigen im Sinne des Anhangs I Nr. 2
-Abs. 4 nachzuweisen. Im Übrigen bleibt § 9 unberührt. Im Fall des
-Satzes 3 und soweit Einweggetränkeverpackungen aus biologisch
-abbaubaren Kunststoffen nach Satz 1 nach § 9 Abs. 2 keiner
-Pfandpflicht unterliegen, haben sich Hersteller und Vertreiber
-abweichend von Satz 1 hierfür an einem System nach § 6 Abs. 3 zu
-beteiligen, soweit es sich um Verpackungen handelt, die beim privaten
-Endverbraucher anfallen.
+(2) Bescheinigungen und Anzeigen, die der zuständigen Behörde gemäß §
+6 Absatz 2 in der bis zum 31. Dezember 2014 geltenden Fassung
+vorgelegt worden sind, gelten nicht als Bescheinigungen oder Anzeigen
+im Sinne von § 6 Absatz 2 in der ab dem 1. Januar 2015 geltenden
+Fassung.
 
 (3) § 10 gilt mit der Maßgabe, dass die Erklärung nach § 10 Abs. 1
 erstmals zum 1. Mai 2009 für die im Jahr 2008 ab dem 5. April 2008 in
 Verkehr gebrachten Verpackungen zu hinterlegen ist.
 
 
-### § 17
+### § 17 \*)
 
 (weggefallen)
 
@@ -1225,8 +1209,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 13 Abs. 2)
 
-### Anhang II (zu § 13 Abs. 2) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
+### Anhang II Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2000, 1344 - 1345;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1322,8 +1307,9 @@ Geltungsbereich der Verordnung niedergelassen, so geht die
 Verpflichtung zur Bereithaltung dieser Unterlagen auf denjenigen über,
 der das Produkt im Geltungsbereich der Verordnung in Verkehr bringt.
 
+(zu § 13 Abs. 3)
 
-### Anhang III (zu § 13 Abs. 3) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
+### Anhang III Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 1572 - 1573;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -2043,92 +2029,189 @@ c)  Verpackungskomponenten und Zusatzelemente, die in eine Verpackung
 
 
 
-
-**2.** **Beispiele für die genannten Kriterien**
-
-
-
+**2. Beispiele für die genannten Kriterien**
 **Beispiele für Kriterium Buchstabe a**
-Gegenstände, die als Verpackung gelten:
+Gegenstände, die als Verpackungen gelten:
 
--   Schachteln für Süßigkeiten
-
-
--   Klarsichtfolie um CD-Hüllen
+–   Schachteln für Süßigkeiten
 
 
-
-Gegenstände, die nicht als Verpackung gelten:
-
--   Blumentöpfe, die dazu bestimmt sind, dass die Pflanze während ihrer
-    Lebenszeit darin verbleibt
+–   Klarsichtfolie um CD-Hüllen
 
 
--   Werkzeugkästen
+–   Versandhüllen, die Kataloge und Magazine enthalten
 
 
--   Teebeutel
+–   Backförmchen für kleineres Backwerk, die mit dem Backwerk verkauft
+    werden
 
 
--   Wachsschichten um Käse
+–   Rollen, Röhren und Zylinder, um die flexibles Material aufgespult ist
+    (z. B. Kunststofffolie, Aluminium, Papier), ausgenommen Rollen, Röhren
+    und Zylinder, die Teile einer Produktionsanlage sind und nicht zur
+    Aufmachung eines Produkts als Verkaufseinheit verwendet werden
 
 
--   Wursthäute
+–   Blumentöpfe, die nur für den Verkauf und den Transport von Pflanzen
+    bestimmt sind und in denen die Pflanze nicht während ihrer Lebenszeit
+    verbleiben soll
+
+
+–   Glasflaschen für Injektionslösungen
+
+
+–   CD-Spindeln, die mit CDs verkauft werden und nicht zur Lagerung
+    verwendet werden sollen
+
+
+–   Kleiderbügel, die mit einem Kleidungsstück verkauft werden
+
+
+–   Streichholzschachteln
+
+
+–   Sterilbarrieresysteme (Beutel, Trays und Materialien, die zur
+    Erhaltung der Sterilität des Produkts erforderlich sind)
+
+
+–   Getränkesystemkapseln (z. B. für Kaffee, Kakao, Milch), die nach
+    Gebrauch leer sind
+
+
+–   wiederbefüllbare Stahlflaschen für verschiedene Arten von Gasen,
+    ausgenommen Feuerlöscher
+
+
+
+
+Gegenstände, die nicht als Verpackungen gelten:
+
+–   Blumentöpfe, in denen die Pflanze während ihrer Lebenszeit verbleibt
+
+
+–   Werkzeugkästen
+
+
+–   Teebeutel
+
+
+–   Wachsschichten um Käse
+
+
+–   Wursthäute
+
+
+–   Kleiderbügel, die getrennt verkauft werden
+
+
+–   Getränkesystemkapseln, Kaffee-Folienbeutel und Kaffeepads aus
+    Filterpapier, die zusammen mit dem verwendeten Kaffeeprodukt entsorgt
+    werden
+
+
+–   Tonerkartuschen
+
+
+–   CD-, DVD- und Videohüllen, die jeweils zusammen mit einer CD, DVD oder
+    einem Video verkauft werden
+
+
+–   CD-Spindeln, die leer verkauft werden und zur Lagerung verwendet
+    werden sollen
+
+
+–   Beutel aus wasserlöslicher Folie für Geschirrspülmittel
+
+
+–   Grablichtbecher (Behälter für Kerzen)
+
+
+–   mechanisches Mahlwerk, das in einem wiederbefüllbaren Behältnis
+    integriert ist (z. B. in einer wiederbefüllbaren Pfeffermühle)
+
 
 
 
 **Beispiele für Kriterium Buchstabe b**
-Gegenstände, die als Verpackung gelten, wenn sie dafür konzipiert und
-bestimmt sind, in der Verkaufsstelle gefüllt zu werden:
 
--   Tragetaschen aus Papier oder Kunststoff
+Gegenstände, die als Verpackungen gelten, wenn sie dafür konzipiert
+und bestimmt sind, in der Verkaufsstelle gefüllt zu werden:
 
-
--   Einwegteller und -tassen
+–   Tragetaschen aus Papier oder Kunststoff
 
 
--   Frischhaltefolie
+–   Einwegteller und -tassen
 
 
--   Frühstücksbeutel
+–   Frischhaltefolie
 
 
--   Aluminiumfolie
+–   Frühstücksbeutel
+
+
+–   Aluminiumfolie
+
+
+–   Kunststofffolie für gereinigte Kleidung in Wäschereien
 
 
 
-Gegenstände, die nicht als Verpackung gelten:
 
--   Rührgerät
+Gegenstände, die nicht als Verpackungen gelten:
+
+–   Rührgerät
 
 
--   Einwegbestecke
+–   Einwegbestecke
+
+
+–   Einpack- und Geschenkpapier, das getrennt verkauft wird
+
+
+–   Papierbackformen für größeres Backwerk, die leer verkauft werden
+
+
+–   Backförmchen für kleineres Backwerk, die leer verkauft werden
+
 
 
 
 **Beispiele für Kriterium Buchstabe c**
-Gegenstände, die als Verpackung gelten:
 
--   Etiketten, die unmittelbar am Produkt hängen oder befestigt sind
+Gegenstände, die als Verpackungen gelten:
+
+–   Etiketten, die unmittelbar am Produkt hängen oder befestigt sind
+
 
 
 
 Gegenstände, die als Teil der Verpackung gelten:
 
--   Wimperntuschebürste als Bestandteil des Packungsverschlusses
+–   Wimperntuschebürste als Bestandteil des Packungsverschlusses
 
 
--   Aufkleber, die an einem anderen Verpackungsobjekt befestigt sind
+–   Aufkleber, die an einem anderen Verpackungsobjekt befestigt sind
 
 
--   Heftklammern
+–   Heftklammern
 
 
--   Kunststoffumhüllung
+–   Kunststoffumhüllung
 
 
--   Dosierhilfe als Bestandteil des Verpackungsverschlusses von
+–   Dosierhilfe als Bestandteil des Verpackungsverschlusses von
     Waschmitteln
+
+
+–   mechanisches Mahlwerk, das in einem nicht wiederbefüllbaren Behältnis
+    integriert ist (z. B. in einer mit Pfeffer gefüllten Pfeffermühle)
+
+
+
+
+Gegenstände, die nicht als Verpackungen gelten:
+
+–   RFID-Tags für die Funkfrequenzkennzeichnung
 
 
 
@@ -2147,7 +2230,7 @@ Gegenstände, die als Teil der Verpackung gelten:
     elektronisch in einer Internet-basierten Datenbank, die von der
     Hinterlegungsstelle eingerichtet und zur Verfügung gestellt wird. Die
     Prüfbescheinigung nach § 10 Abs. 1 ist mit qualifizierter
-    elektronischer Signatur gemäß § 2 Signaturgesetz zu versehen.
+    elektronischer Signatur zu versehen.
 
 
 **2.** **Daten der verpflichteten Unternehmen**

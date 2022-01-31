@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   eBAnz: 2008, AT147 V1
 
-Geändert durch
-:   Art. 1 V v. 2.6.2009 eBAnz AT59 V1
+Zuletzt geändert durch
+:   Art. 1 V v. 8.7.2020 I 1690
 
 Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 2.6.2009 eBAnz AT 59 V1, dadurch ist die Geltung der V über den 12.6.2009 hinaus verlängert worden
@@ -40,22 +40,31 @@ Fischereifonds-Informationen-Gesetz.
 
 ## § 2 Inhalt und Aufbau der Internetseite
 
-(1) Auf der in § 2 Abs. 1 des Agrar- und Fischereifonds-Informationen-
-Gesetzes bezeichneten Internetseite werden nur die
+(1) Auf der in § 2 Absatz 1 des Agrar- und Fischereifonds-
+Informationen-Gesetzes bezeichneten Internetseite werden nur die
 
-1.  in Artikel 1 Abs. 1 der Verordnung (EG) Nr. 259/2008 der Kommission
-    vom 18. März 2008 mit Durchführungsbestimmungen zur Verordnung (EG)
-    Nr. 1290/2005 des Rates hinsichtlich der Veröffentlichung von
-    Informationen über die Empfänger von Mitteln aus dem Europäischen
-    Garantiefonds für die Landwirtschaft (EGFL) und dem Europäischen
-    Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER)
-    (ABl. L 76 vom 19.3.2008, S. 28) und
+1.  in den Artikeln 111 und 112 der Verordnung (EU) Nr. 1306/2013 des
+    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die
+    Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen
+    Agrarpolitik (ABl. L 347 vom 20.12.2013, S. 549),
 
 
-2.  in den Artikeln 30 und 31 der Verordnung (EG) Nr. 498/2007 der
-    Kommission vom 26. März 2007 mit Durchführungsbestimmungen zur
-    Verordnung (EG) Nr. 1198/2006 des Rates über den Europäischen
-    Fischereifonds (EFF) (ABl. L 120 vom 10.5.2008, S. 1)
+2.  in den Artikeln 57 und 58 der Durchführungsverordnung (EU) Nr.
+    908/2014 vom 6. August 2014 mit Durchführungsbestimmungen zur
+    Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des
+    Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der
+    Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für
+    Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S.
+    59) und
+
+
+3.  in Artikel 119 in Verbindung mit Anhang V der Verordnung (EU) Nr.
+    508/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014
+    über den Europäischen Meeres- und Fischereifonds und zur Aufhebung der
+    Verordnungen (EG) Nr. 2328/2003, (EG) Nr. 861/2006, (EG) Nr. 1198/2006
+    und (EG) Nr. 791/2007 des Rates und der Verordnung (EU) Nr. 1255/2011
+    des Europäischen Parlaments und des Rates (ABl. L 149 vom 20.5.2014,
+    S.1)
 
 
 
@@ -68,7 +77,33 @@ vorzusehen, die eine Suche nach den genannten Informationen
 ermöglicht.
 
 
-## § 3 Berichtigung, Sperrung und Löschung von Informationen
+## § 2a Schwellenwertregelung
+
+(1) Für den Zweck der Durchführung des Artikels 112 der Verordnung
+(EU) Nr. 1306/2013 in der jeweils geltenden Fassung wird bei
+Begünstigten, deren Gesamtbetrag an Beihilfen in einem Jahr gleich
+oder niedriger dem von der Europäischen Kommission nach Artikel 112
+Absatz 2 der Verordnung (EU) Nr. 1306/2013 für Deutschland
+veröffentlichten Betrag ist, anstelle des Namens der Code
+„Kleinempfänger“ angegeben.
+
+(2) Wenn die Anzahl der Begünstigten nach Absatz 1 in einer Gemeinde
+hinsichtlich einer der in Anhang XIII der Durchführungsverordnung (EU)
+Nr. 908/2014 aufgeführten Maßnahmen nicht höher als fünf ist, wird für
+den Zweck der Durchführung des Artikels 58 der Durchführungsverordnung
+(EU) Nr. 908/2014 bei allen nach Absatz 1 angegebenen Begünstigten
+dieser Gemeinde, soweit es sich nicht um juristische Personen handelt,
+anstelle der Gemeinde die nächst größere Verwaltungseinheit angegeben,
+der die Gemeinde angehört. Dies gilt auch, wenn einer Gemeinde mehrere
+Postleitzahlen zugeordnet sind und die Begünstigten jeweils unter
+verschiedenen Postleitzahlen derselben Gemeinde geführt werden.
+
+(3) Gemeinden im Sinne von Absatz 2 sind auch kreisfreie Städte.
+Nächst größere Verwaltungseinheit im Sinne von Absatz 2 ist bei
+Gemeinden der Kreis und bei kreisfreien Städten das Land.
+
+
+## § 3 Berichtigung, Einschränkung der Verarbeitung und Löschung von Informationen
 
 (1) Soweit nach den für die veröffentlichende Stelle geltenden
 datenschutzrechtlichen Bestimmungen eine Berichtigung der
@@ -83,8 +118,8 @@ die der Veröffentlichung zu Grunde liegenden Informationen in der
 Veröffentlichungsdatei der Datenbank entsprechend zu löschen. Die
 Löschung unterbleibt, wenn Grund zu der Annahme besteht, dass
 anderenfalls schutzwürdige Interessen der betroffenen Person
-beeinträchtigt werden. In diesem Fall sind die Informationen
-unverzüglich zu sperren.
+beeinträchtigt werden. In diesem Fall ist die Verarbeitung der
+Informationen unverzüglich einzuschränken.
 
 (3) Die jeweils veröffentlichende Stelle löscht die veröffentlichten
 Daten zwei Jahre nach dem ersten Tag ihrer Veröffentlichung.
@@ -96,27 +131,37 @@ Daten zwei Jahre nach dem ersten Tag ihrer Veröffentlichung.
 Europäischen Fonds für Landwirtschaft und Fischerei sind
 ausschließlich über das Internet einsehbar.
 
-(2) Die Barrierefreie Informationstechnik-Verordnung vom 17. Juli 2002
-(BGBl. I S. 2654) in der jeweils geltenden Fassung gilt entsprechend.
+(2) Die Barrierefreie-Informationstechnik-Verordnung vom 12. September
+2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung gilt
+entsprechend.
 
 
 ## § 5 Datensicherheit
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
-stellt durch technische und organisatorische Maßnahmen eines
-Sicherheitskonzeptes sicher, dass
+stellt gemäß den Vorgaben der Artikel 24, 25 und 32 der Verordnung
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
+2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018,
+S. 2) in der jeweils geltenden Fassung durch technische und
+organisatorische Maßnahmen eines Sicherheitskonzeptes sicher, dass
 
-1.  die Veröffentlichung der Daten in einem nach DIN ISO/IEC 27001,
-    Ausgabe 2008–09 \*), auf Basis IT-Grundschutz zertifizierten
-    Informationsverbund erfolgt und alle internen technischen und
-    organisatorischen Maßnahmen in der Bundesanstalt unter den Bedingungen
-    des nach DIN ISO/IEC 27001, Ausgabe 2008–09, auf Basis IT-Grundschutz
-    zertifizierten Informationsverbundes der Bundesanstalt ablaufen,
+1.[^F812257_01_BJNR614700008BJNE000602119]
+  die Veröffentlichung der Daten in einem nach DIN EN ISO/IEC:
+    27001:2017-06
+    , auf Basis IT-Grundschutz zertifizierten Informationsverbund erfolgt
+    und alle internen technischen und organisatorischen Maßnahmen in der
+    Bundesanstalt unter den Bedingungen des nach DIN EN ISO/IEC
+    27001:2017-06, auf Basis IT-Grundschutz zertifizierten
+    Informationsverbundes der Bundesanstalt ablaufen,
 
 
 2.  die auf der Internetseite veröffentlichten Informationen nur durch die
-    jeweils veröffentlichende Stelle verändert, gesperrt oder gelöscht
-    werden können,
+    jeweils veröffentlichende Stelle verändert oder gelöscht werden können
+    und die Verarbeitung der Informationen nur durch diese Stelle
+    eingeschränkt werden kann,
 
 
 3.  die veröffentlichten Informationen während ihrer Veröffentlichung im
@@ -125,8 +170,8 @@ Sicherheitskonzeptes sicher, dass
 
 
 Die Bundesanstalt hat das Sicherheitskonzept nach Maßgabe der
-Bedingungen der DIN ISO/IEC 27001, Ausgabe 2008–09, Zertifizierung auf
-der Basis von IT-Grundschutz, regelmäßig daraufhin zu überprüfen oder
+Bedingungen der DIN EN ISO/IEC 27001:2017-06, Zertifizierung auf der
+Basis von IT-Grundschutz, regelmäßig daraufhin zu überprüfen oder
 überprüfen zu lassen, ob es noch dem Stand der Technik entspricht oder
 an die technische Entwicklung anzupassen ist. Die Frist des Satzes 2
 beginnt mit dem Abschluss der Erstzertifizierung nach Satz 1 Nr. 1.
@@ -148,10 +193,10 @@ Unterbrechungen, hat die Bundesanstalt dies der übermittelnden Stelle
 unverzüglich anzuzeigen. In diesem Fall verlangt die Bundesanstalt
 eine erneute Übermittlung.
 
-    DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
-    Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
-    Patentamt in München archivmäßig gesichert niedergelegt.
-[^FN1_BJNR614700008BJNE000601377]: 
+    DIN EN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
+    Beuth Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und
+    Markenamt in München archivmäßig gesichert niedergelegt.
+[^F812257_01_BJNR614700008BJNE000602119]: 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 

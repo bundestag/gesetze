@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1480
 
+V aufgeh. durch
+:   § 12 Satz 3 V 7110-3-198 v. 26.4.2016 I 974 mWv 31.8.2021
+
 
 
 ## Eingangsformel

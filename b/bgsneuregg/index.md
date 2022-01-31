@@ -22,24 +22,20 @@ Fundstelle
 Der Bundestag hat das folgende Gesetz beschlossen:
 
 
-## Art 1
+## Art 1 - Gesetz über den Bundesgrenzschutz (Bundesgrenzschutzgesetz - BGSG)
 
 
 
-## Art 2 -
+## Art 2 - Folgeänderungen
 
 
 
-## (XXXX) §§ 1 bis 12
-
--
+## (XXXX) §§ 1 bis 12 (Änderungsvorschriften)
 
 
-## § 13 Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf Artikel 2 beruhenden Teile der dort geänderten
-Rechtsverordnungen können auf Grund der jeweils einschlägigen
-Ermächtigung durch Rechtsverordnung geändert werden.
+## § 13 (weggefallen)
+
 
 
 ## Art 3 - Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen

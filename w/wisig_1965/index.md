@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 3.10.1968 I 1069;
 
 Zuletzt geändert durch
-:   Art. 134 V v. 31.10.2006 I 2407
+:   Art. 262 V v. 31.8.2015 I 1474
 
 
 ## § 1 Maßnahmen zur Sicherstellung
@@ -172,17 +172,17 @@ Bewertungsabschlag, anzusetzen.
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
 Bundesregierung. Die Bundesregierung kann diese Befugnis durch
-Rechtsverordnung ohne Zustimmung des Bundesrates, soweit der Geld und
+Rechtsverordnung ohne Zustimmung des Bundesrates, soweit der Geld- und
 Kapitalverkehr betroffen ist, auf das Bundesministerium der Finanzen,
-im übrigen auf das Bundesministerium für Wirtschaft und Technologie
+im übrigen auf das Bundesministerium für Wirtschaft und Energie
 übertragen.
 
 (2) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt, soweit der Geld-
 und Kapitalverkehr betroffen ist, das Bundesministerium der Finanzen,
-im übrigen das Bundesministerium für Wirtschaft und Technologie, wenn
-die Voraussetzung des § 2 Abs. 1 vorliegt. Das Bundesministerium für
-Wirtschaft und Technologie kann diese Befugnis durch Rechtsverordnung
-ohne Zustimmung des Bundesrates
+im übrigen das Bundesministerium für Wirtschaft und Energie, wenn die
+Voraussetzung des § 2 Abs. 1 vorliegt. Das Bundesministerium für
+Wirtschaft und Energie kann diese Befugnis durch Rechtsverordnung ohne
+Zustimmung des Bundesrates
 
 1.  auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA),
 
@@ -203,10 +203,10 @@ Befugnis, übertragen.
 ## § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
-Wirtschaft und Technologie und des Bundesministeriums der Finanzen
-nach § 1 bedürfen nicht der Zustimmung des Bundesrates, wenn ihre
-Geltung auf längstens sechs Monate befristet wird. Eine Verlängerung
-der Geltungsdauer ist nur mit Zustimmung des Bundesrates möglich.
+Wirtschaft und Energie und des Bundesministeriums der Finanzen nach §
+1 bedürfen nicht der Zustimmung des Bundesrates, wenn ihre Geltung auf
+längstens sechs Monate befristet wird. Eine Verlängerung der
+Geltungsdauer ist nur mit Zustimmung des Bundesrates möglich.
 
 (2) Nach Eintritt der Voraussetzung des § 2 Abs. 1 bedürfen
 Rechtsverordnungen nach den §§ 1, 3 und 4 nicht der Zustimmung des
@@ -222,7 +222,7 @@ unbefristet weiter.
 (2) Rechtsverordnungen auf Grund der §§ 1, 3 und 4 sind aufzuheben,
 soweit ihre Fortgeltung für die Zwecke des § 1 nicht mehr erforderlich
 ist. Rechtsverordnungen der Bundesregierung, des Bundesministeriums
-für Wirtschaft und Technologie und des Bundesministeriums der Finanzen
+für Wirtschaft und Energie und des Bundesministeriums der Finanzen
 sind ferner aufzuheben, wenn Bundestag und Bundesrat dies verlangen.
 
 (3) Rechtsverordnungen des Bundesamtes für Wirtschaft und
@@ -264,7 +264,7 @@ Rechtsverordnungen nach den Absätzen 1 bis 3 von den Ländern
 einschließlich der Gemeinden und Gemeindeverbände im Auftrag des
 Bundes ausgeführt werden, übt, soweit der Geld- und Kapitalverkehr
 betroffen ist, das Bundesministerium der Finanzen, im übrigen das
-Bundesministerium für Wirtschaft und Technologie die Befugnisse der
+Bundesministerium für Wirtschaft und Energie die Befugnisse der
 Bundesregierung nach Artikel 85 des Grundgesetzes aus. Das danach
 zuständige Bundesministerium kann diese Befugnisse sowie seine
 Weisungsbefugnis nach Artikel 85 Abs. 3 des Grundgesetzes auf
@@ -289,10 +289,10 @@ Verordnungen besondere Stellen einzurichten sind.
 ## § 9 Verfügungen
 
 Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für
-Wirtschaft und Technologie und des Bundesministeriums der Finanzen
-können vorsehen, daß das Bundesministerium für Wirtschaft und Arbeit
-oder das Bundesministerium der Finanzen zu ihrer Ausführung
-Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die
+Wirtschaft und Energie und des Bundesministeriums der Finanzen können
+vorsehen, daß das Bundesministerium für Wirtschaft und Energie oder
+das Bundesministerium der Finanzen zu ihrer Ausführung Verfügungen
+erläßt, wenn sich der zu erforschende Sachverhalt oder die
 Auswirkungen der zu regelnden Angelegenheit auf mehr als ein Land
 erstrecken und der Zweck der Rechtsverordnungen mittels einer Weisung
 nach Artikel 85 Abs. 3 des Grundgesetzes und durch Verfügung der
@@ -519,7 +519,7 @@ Ordnungswidrigkeiten ist
 
     a)  sofern sie von einer Bundesbehörde erlassen worden sind und der Geld-
         und Kapitalverkehr betroffen ist, das Bundesministerium der Finanzen,
-        im übrigen das Bundesministerium für Wirtschaft und Technologie,
+        im übrigen das Bundesministerium für Wirtschaft und Energie,
 
 
     b)  sofern sie von einer Landesbehörde erlassen worden sind, die
@@ -536,8 +536,8 @@ Ordnungswidrigkeiten ist
 
     a)  soweit Bundesbehörden zur Durchführung zuständig sind und der Geld-
         und Kapitalverkehr betroffen ist, das Bundesministerium der Finanzen,
-        im übrigen das Bundesministerium für Wirtschaft und Technologie oder
-        die in der Rechtsverordnung bestimmte Behörde,
+        im übrigen das Bundesministerium für Wirtschaft und Energie oder die
+        in der Rechtsverordnung bestimmte Behörde,
 
 
     b)  soweit Landesbehörden zur Durchführung zuständig sind, die zuständige

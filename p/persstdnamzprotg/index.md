@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 486
 
+Zuletzt geändert durch
+:   Art. 86 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -37,9 +40,9 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 ## Art 2
 
 Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
-Verwaltungsvorschriften erläßt der Bundesminister des Innern im
-Benehmen mit dem Bundesminister der Justiz und mit Zustimmung des
-Bundesrates.
+Verwaltungsvorschriften erläßt der Bundesminister des Innern, für Bau
+und Heimat im Benehmen mit dem Bundesminister der Justiz und für
+Verbraucherschutz und mit Zustimmung des Bundesrates.
 
 
 ## Art 3

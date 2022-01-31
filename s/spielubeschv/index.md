@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.4.1995 I 510;
 
-Geändert durch
-:   Art. 10 G v. 10.11.2001 I 2992
+Zuletzt geändert durch
+:   Art. 225 V v. 19.6.2020 I 1328
 
 
 ## § 1
@@ -30,11 +30,11 @@ ein anderes Spiel im Sinne des § 33d Abs. 1 der Gewerbeordnung
 entscheidet das Bundeskriminalamt im Benehmen mit der Physikalisch-
 Technischen Bundesanstalt und einem Ausschuß von vier auf dem Gebiete
 des Spielwesens erfahrenen Kriminalbeamten der Länder. Die Mitglieder
-des Ausschusses beruft das Bundesministerium des Innern auf Vorschlag
-der zuständigen obersten Landesbehörden jeweils für die Dauer von 3
-Jahren. Das Bundeskriminalamt kann in den Fällen des § 3 Abs. 1 Nr. 1
-mit der Durchführung von Teilen der Prüfung ein Fachinstitut
-beauftragen.
+des Ausschusses beruft das Bundesministerium des Innern, für Bau und
+Heimat auf Vorschlag der zuständigen obersten Landesbehörden jeweils
+für die Dauer von 3 Jahren. Das Bundeskriminalamt kann in den Fällen
+des § 3 Abs. 1 Nr. 1 mit der Durchführung von Teilen der Prüfung ein
+Fachinstitut beauftragen.
 
 
 ## § 2
@@ -114,81 +114,8 @@ Unbedenklichkeitsbescheinigung zurückgenommen oder widerrufen worden
 oder abgelaufen ist und nicht mehr erteilt wird.
 
 
-## § 6
+## § 6 (weggefallen)
 
-(1) Das Bundeskriminalamt erhebt für
-
-1.  die Prüfung eines Antrags auf Erteilung einer
-    Unbedenklichkeitsbescheinigung,
-
-
-2.  die Erteilung einer Unbedenklichkeitsbescheinigung,
-
-
-3.  die Zurückweisung eines Widerspruchs, soweit er nicht nur deshalb
-    keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder
-    Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
-    unbeachtlich ist,
-
-
-4.  die Umschreibung einer erteilten Unbedenklichkeitsbescheinigung
-    (Änderung des Veranstaltungsortes) und
-
-
-5.  die Erteilung eines Abdrucks der Unbedenklichkeitsbescheinigung (§ 3
-    Abs. 2)
-
-
-
-von dem Antragsteller Kosten (Gebühren und Auslagen).
-
-(2) Die Gebühren für die Prüfung eines Antrags auf Erteilung einer
-Unbedenklichkeitsbescheinigung, für die Erteilung einer
-Unbedenklichkeitsbescheinigung sowie für die Zurückweisung eines
-Widerspruchs sind nach folgenden Stundensätzen zu bemessen:
-
-*    *   1.
-
-    *   für Beamte des höheren Dienstes oder vergleichbare Angestellte
-
-    *   67 Euro
-
-
-*    *   2.
-
-    *   für Beamte des gehobenen Dienstes oder vergleichbare Angestellte
-
-    *   55 Euro
-
-
-*    *   3.
-
-    *   für sonstige Bedienstete
-
-    *   47 Euro.
-
-
-
-Für jede angefangene Viertelstunde ist ein Viertel dieser Stundensätze
-zu berechnen.
-
-(3) Wird ein Antrag nach Beginn und vor Beendigung der Prüfung
-zurückgezogen, so werden Kosten nach Absatz 1 Nr. 1 erhoben.
-
-(4) Die Gebühr nach Absatz 2 darf den Betrag von 2.500 Euro, die
-Gebühr für die Erteilung einer Unbedenklichkeitsbescheinigung den
-Betrag von 250 Euro nicht übersteigen. Erfordert die Prüfung im
-Einzelfall einen außergewöhnlichen Aufwand, so kann diese Gebühr bis
-auf das Doppelte erhöht werden.
-
-(5) Die Gebühr für die Umschreibung einer
-Unbedenklichkeitsbescheinigung beträgt 40 Euro und für die Erteilung
-eines Abdrucks der Unbedenklichkeitsbescheinigung 25 Euro.
-
-(6) Daneben sind vom Antragsteller die in § 10 des
-Verwaltungskostengesetzes genannten Auslagen, insbesondere die
-Aufwendungen zu erstatten, die im Falle des § 1 Satz 3 durch die
-Beauftragung eines Fachinstituts entstehen.
 
 
 ## § 7

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1674, 1676
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 1 G v. 20.6.2011 I 1114
+:   Art. 25 G v. 12.12.2019 I 2652
 
 
 ## § 1 Anspruch

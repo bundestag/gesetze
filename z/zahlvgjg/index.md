@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3416
 
+Geändert durch
+:   Art. 175 V v. 31.8.2015 I 1474
+
 
 
 ## § 1
@@ -25,11 +28,11 @@ der Länder unbar zu leisten sind. Die Landesregierungen können durch
 Rechtsverordnung die Ermächtigung nach Satz 1 auf die
 Landesjustizverwaltungen übertragen.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, in
-welchen Fällen Zahlungen durch die Gerichte und Justizbehörden des
-Bundes oder an Gerichte und Justizbehörden des Bundes unbar zu leisten
-sind.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
+bestimmen, in welchen Fällen Zahlungen durch die Gerichte und
+Justizbehörden des Bundes oder an Gerichte und Justizbehörden des
+Bundes unbar zu leisten sind.
 
 (3) In den Rechtsverordnungen ist zu bestimmen, in welcher Weise
 unbare Zahlungen an die Gerichte und Justizbehörden erfolgen können

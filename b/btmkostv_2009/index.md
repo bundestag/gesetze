@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1675
 
+V aufgeh. durch
+:   Art. 4 Abs. 8 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 21 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 8 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 8 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 ## Eingangsformel
 
@@ -28,10 +37,9 @@ verordnet das Bundesministerium für Gesundheit:
 ## § 1 Anwendungsbereich
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
-Prüfungen und Untersuchungen, für die Bearbeitung von Anträgen sowie
-für andere Amtshandlungen auf dem Gebiet des Betäubungsmittelverkehrs
-Gebühren und Auslagen nach den folgenden Vorschriften und dem
-Gebührenverzeichnis der Anlage.
+individuell zurechenbare öffentliche Leistungen auf dem Gebiet des
+Betäubungsmittelverkehrs Gebühren und Auslagen nach den folgenden
+Vorschriften und dem Gebührenverzeichnis der Anlage.
 
 
 ## § 2 Gebühren in besonderen Fällen
@@ -40,17 +48,17 @@ Für den Widerruf oder die Rücknahme einer Erlaubnis, für die Versagung
 einer Erlaubnis oder Genehmigung sowie für die Rücknahme eines Antrags
 durch den Antragsteller nach Beginn der sachlichen Bearbeitung wird
 eine Gebühr in Höhe von 75 Prozent der für die Vornahme der
-Amtshandlung festzusetzenden Gebühr erhoben. Die vorgesehene Gebühr
-kann bis zu 25 Prozent der für die Vornahme festzusetzenden Gebühr
-ermäßigt oder von ihrer Erhebung kann ganz abgesehen werden, wenn dies
-der Billigkeit entspricht.
+individuell zurechenbaren öffentlichen Leistung festzusetzenden Gebühr
+erhoben. Die vorgesehene Gebühr kann bis zu 25 Prozent der für die
+Vornahme festzusetzenden Gebühr ermäßigt oder von ihrer Erhebung kann
+ganz abgesehen werden, wenn dies der Billigkeit entspricht.
 
 
 ## § 3 Gebühren in Widerspruchsverfahren
 
 (1) Für die teilweise oder vollständige Zurückweisung eines
 Widerspruchs gegen eine Sachentscheidung beträgt die Gebühr mindestens
-100 Euro, höchstens jedoch die für die angefochtene Amtshandlung
+100 Euro, höchstens jedoch die für den angefochtenen Verwaltungsakt
 festgesetzte Gebühr. Dies gilt nicht, wenn der Widerspruch nur deshalb
 keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder
 Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
@@ -82,11 +90,11 @@ unterschritten werden.
 
 Von der Erhebung einer Gebühr oder Auslage kann in den Fällen der
 Gebührennummern 1, 3 bis 9 und 11 teilweise oder ganz abgesehen
-werden, wenn die Amtshandlung wissenschaftlichen, analytischen oder
-anderen im öffentlichen Interesse liegenden Zwecken von besonderer
-Bedeutung dient oder wenn die Erhebung in einem offensichtlichen
-Missverhältnis zum wirtschaftlichen Nutzen für den Kostenschuldner
-steht.
+werden, wenn die individuell zurechenbare öffentliche Leistung
+wissenschaftlichen, analytischen oder anderen im öffentlichen
+Interesse liegenden Zwecken von besonderer Bedeutung dient oder wenn
+die Erhebung in einem offensichtlichen Missverhältnis zum
+wirtschaftlichen Nutzen für den Gebührenschuldner steht.
 
 
 ## § 5 Übergangsvorschrift
@@ -94,22 +102,24 @@ steht.
 Die Betäubungsmittel-Kostenverordnung vom 16. Dezember 1981 (BGBl. I
 S. 1433), die zuletzt durch Artikel 3 § 5 des Gesetzes vom 24. Juni
 1994 (BGBl. I S. 1416) geändert worden ist, ist weiterhin anzuwenden,
-wenn die zugrunde liegende Amtshandlung vor dem 4. Juli 2009 beantragt
-oder, wenn kein Antrag erforderlich ist, beendet worden ist.
+wenn die zugrunde liegende individuell zurechenbare öffentliche
+Leistung vor dem 4. Juli 2009 beantragt oder, wenn kein Antrag
+erforderlich ist, beendet worden ist.
 
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage 1 (zu § 1) Gebührenverzeichnis
+## Anlage 1 Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 1676 - 1677)
 
 *    *   Gebührennummer
 
-    *   Gebührenpflichtige Amtshandlung
+    *   Gebührenpflichtige individuell zurechenbare öffentliche Leistung
 
     *   Gebühr in Euro
 
@@ -561,7 +571,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   11
 
-    *   Sonstige auf Antrag vorgenommene Amtshandlungen
+    *   Sonstige auf Antrag vorgenommene individuell zurechenbare öffentliche
+        Leistungen
 
     *
 

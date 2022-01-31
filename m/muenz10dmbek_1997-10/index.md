@@ -43,7 +43,7 @@ Hensel aus dem Jahre 1829. Die Umschrift lautet:
         *
             *   "HEINRICH HEINE
 
-                \* 1797 + 1856".
+                * 1797 + 1856".
 
 
 

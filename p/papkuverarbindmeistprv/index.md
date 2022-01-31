@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 99 (254)
 
-Geändert durch
-:   Art. 21 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 39 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -425,9 +425,9 @@ Stunden betragen, für jeden Prüfungsbereich mindestens 90 Minuten.
 genannten Prüfungsbereiche mangelhafte Prüfungsleistungen erbracht,
 ist in diesen Prüfungsbereichen eine mündliche Ergänzungsprüfung
 anzubieten. Bei einer oder mehreren ungenügenden Prüfungsleistungen
-besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll je
-Prüfungsbereich und Prüfungsteilnehmer oder Prüfungsteilnehmerin in
-der Regel nicht länger als 20 Minuten dauern. Die Bewertung der
+besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll
+für jeden Prüfungsbereich und für die zu prüfende Person
+in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der
 schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
@@ -770,9 +770,9 @@ nachgewiesen werden, unter Berücksichtigung produktbezogener sowie
 anlagen- und verfahrenstechnischer Unterschiede, in einem der
 nachfolgend genannten Wahlqualifikationsschwerpunkte eine betriebliche
 Aufgabenstellung analysieren, strukturieren, darstellen und einer
-begründeten Lösung zuführen zu können. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin bestimmt einen der nachfolgend genannten
-Wahlqualifikationsschwerpunkte, in dem geprüft werden soll:
+begründeten Lösung zuführen zu können. Die zu prüfende Person bestimmt
+einen der nachfolgend genannten Wahlqualifikationsschwerpunkte, in dem
+geprüft werden soll:
 
 1.  Flexible Packstoffe und Packmittel,
 
@@ -842,17 +842,16 @@ darstellen, beurteilen und lösen zu können. Im Fachgespräch sollen
 weiterführende Fragestellungen dazu beantwortet werden können. Der
 Umfang der schriftlichen Präsentationsunterlagen soll höchstens 20
 Seiten betragen. Als Bearbeitungszeit für die Erstellung der
-Präsentationsunterlagen stehen dem Prüfungsteilnehmer oder der
-Prüfungsteilnehmerin höchstens 30 aufeinander folgende Kalendertage
-zur Verfügung. Die Präsentationsunterlagen sind dem Prüfungsausschuss
-mindestens 21 Kalendertage vor der Präsentation zur Verfügung zu
-stellen. Die Form der Präsentation und der Einsatz angemessener
-Präsentationstechniken stehen dem Prüfungsteilnehmer oder der
-Prüfungsteilnehmerin frei. Die Prüfungszeit für die Präsentation und
-das Fachgespräch beträgt insgesamt höchstens 45 Minuten. Die
-Präsentation soll nicht länger als 15 Minuten dauern. Die einzelnen
-Prüfungsgebiete der praxisbezogenen Aufgabenstellung sind wie folgt zu
-gewichten:
+Präsentationsunterlagen stehen der zu prüfenden Person höchstens 30
+aufeinander folgende Kalendertage zur Verfügung. Die
+Präsentationsunterlagen sind dem Prüfungsausschuss mindestens 21
+Kalendertage vor der Präsentation zur Verfügung zu stellen. Die Form
+der Präsentation und der Einsatz angemessener Präsentationstechniken
+stehen der zu prüfenden Person frei. Die Prüfungszeit für die
+Präsentation und das Fachgespräch beträgt insgesamt höchstens 45
+Minuten. Die Präsentation soll nicht länger als 15 Minuten dauern. Die
+einzelnen Prüfungsgebiete der praxisbezogenen Aufgabenstellung sind
+wie folgt zu gewichten:
 
 1.  schriftliche Präsentationsunterlagen
     20 Prozent,
@@ -881,71 +880,178 @@ Aufgabenstellung nach Absatz 14 besteht keine Möglichkeit einer
 mündlichen Ergänzungsprüfung.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
+8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfungsleistungen der Prüfungsteile
-„Fachrichtungsübergreifende Basisqualifikationen“ und der
-„Handlungsspezifischen Qualifikationen“ sind gesondert nach Punkten zu
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
 
-(2) Für den Prüfungsteil „Fachrichtungsübergreifende
-Basisqualifikationen“ ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
+(2) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den
+Prüfungsteil das arithmetische Mittel zu berechnen.
 
-(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ ist für
-jede schriftliche Situationsaufgabe und die Aufgabenstellung jeweils
-eine Note aus der Punktebewertung der Prüfungsleistung zu bilden.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
 
-(4) Die Prüfung ist insgesamt bestanden, wenn im Prüfungsteil
-„Fachrichtungsübergreifende Basisqualifikationen“ in allen
-Prüfungsbereichen mindestens ausreichende Leistungen sowie im
-Prüfungsteil „Handlungsspezifische Qualifikationen“ in den
-Situationsaufgaben und in der Aufgabenstellung jeweils mindestens
-ausreichende Leistungen erbracht wurden.
-
-(5) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-sowie ein Zeugnis nach der Anlage 2 auszustellen. In das Zeugnis nach
-der Anlage 2 sind die in den Prüfungsteilen
-„Fachrichtungsübergreifende Basisqualifikationen“ und
-„Handlungsspezifische Qualifikationen“ erzielten Noten sowie die
-Punktebewertungen in den einzelnen Prüfungsbereichen nach § 4 sowie
-die Punktebewertungen in den Situationsaufgaben und der
-Aufgabenstellung einzutragen. Im Fall der Freistellung nach § 6 sind
-Ort und Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
-abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb der berufs-
-und arbeitspädagogischen Kenntnisse nach § 2 Abs. 2 ist im Zeugnis
-einzutragen.
+1.  die beiden Situationsaufgaben nach § 5 Absatz 13,
 
 
-## § 8 Wiederholung der Prüfung
+2.  im Handlungsbereich „Spezialisierungsgebiete“ nach § 5 Absatz 14
+
+    a)  die schriftlichen Präsentationsunterlagen,
+
+
+    b)  die mündliche Präsentation und
+
+
+    c)  das Fachgespräch.
+
+
+
+
+
+
+Aus den einzelnen Bewertungen der schriftlichen
+Präsentationsunterlagen, der mündlichen Präsentation und des
+Fachgesprächs ist als zusammengefasste Bewertung das gewichtete
+arithmetische Mittel zu berechnen. Dabei sind die Bewertungen wie
+folgt zu gewichten:
+
+1.  die Bewertung der schriftlichen Präsentationsunterlagen mit 20
+    Prozent,
+
+
+2.  die Bewertung der mündlichen Präsentation mit 30 Prozent und
+
+
+3.  die Bewertung des Fachgesprächs mit 50 Prozent.
+
+
+
+Aus den Bewertungen für die beiden Situationsaufgaben nach § 5 Absatz
+13 und der zusammengefassten Bewertung ist als Bewertung des
+Prüfungsteils „Handlungsspezifische Qualifikationen“ das arithmetische
+Mittel zu berechnen.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Prüfungsbereich des Prüfungsteils „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in jeder der beiden Situationsaufgaben nach § 5 Absatz 13 und
+
+
+    b)  in der zusammengefassten Bewertung nach § 5 Absatz 14.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“,
+
+
+3.  die Bewertung der Situationsaufgabe, in der eine mündliche
+    Ergänzungsprüfung durchgeführt wurde.
+
+
+
+
+(3) Der Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“ und den Bewertungen für die beiden
+Situationsaufgaben und der zusammengefassten Bewertung für den
+Handlungsbereich „Spezialisierungsgebiete“ im Prüfungsteil
+„Handlungsspezifische Qualifikationen“ ist nach Anlage 1 die jeweilige
+Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“ mit 25 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. Juli 2010 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -955,250 +1061,402 @@ durchführen; § 8 Abs. 2 findet in diesem Fall keine Anwendung. Im
 2008 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
+## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Februar 2008 in Kraft.
+Diese Verordnung tritt am 1. Februar 2008 in Kraft. Gleichzeitig tritt
+die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
+Industriemeister/Geprüfte Industriemeisterin – Fachrichtung
+Papierverarbeitung vom 4. Mai 1983 (BGBl. I S. 562), zuletzt geändert
+durch die Verordnung vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 
+(zu den §§ 7 und 8)
 
-## Anlage 1 (zu § 7 Abs. 5) Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2008, 106;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *   ......................................................................
-        ......... ............................................................
-        .................. . .................................................
-        .............................. ....................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2293 – 2294)
 
 
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Industriemeister/Geprüfte Industriemeisterin –
-Fachrichtung Papier- und Kunststoffverarbeitung
-
-
-*    *   Herr/Frau
-        ..................................................................... 
-        ......................................................................
-        ........ . ...........................................................
-        .................... ..............
-
-
-*    *   geboren am ...........................................................
-        ................. ................................
-
-    *   in ...................................................................
-        ......... ...............................................
-
-
-*    *   hat am ...............................................................
-        ............. ........................................
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-## – Fachrichtung Papier- und Kunststoffverarbeitung
-
-
-*    *   nach der Verordnung über die Prüfung zum anerkannten Abschluss
-        Geprüfter Industriemeister/Geprüfte
-        Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung
-        vom 25. Januar 2008 (BGBl. I S. 99, 254), die durch Artikel 21 der
-        Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
-
-
-*    *   bestanden.
-
-
-
-
-
-
-*    *   Datum ................................................................
-        ......... ....................
-
-
-*    *   Unterschrift(en)
-        ..............................................................
-        .................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 7 Abs. 5) Muster
-
-(Fundstelle: BGBl. I 2008, 107 - 108;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Abschluss
-## Geprüfter Industriemeister/Geprüfte Industriemeisterin –
-Fachrichtung Papier- und Kunststoffverarbeitung
-
-
-*    *   Herr/Frau
-
-
-*    *   geboren am
-
-    *   in
-
-
-*    *   hat am
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-## – Fachrichtung Papier- und Kunststoffverarbeitung
-
-nach der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung
-Papier- und Kunststoffverarbeitung vom 25. Januar 2008 (BGBl. I S. 99,
-254), die durch Artikel 21 der Verordnung vom 25. August 2009 (BGBl. I
-S. 2960) geändert worden ist, mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *
-    *[^f770795_01_BJNR009900008BJNE001401308]
-   Punkte
+*    *   Punkte
 
     *   Note
-
-
-*    *   I. Fachrichtungsübergreifende Basisqualifikationen
-
-    *
-    *
-
-*    *   Prüfungsbereiche:
-
-    *
-    *
-
-*    *
-    *   Rechtsbewusstes Handeln
-
-    *
-    *
-
-*    *
-    *   Betriebswirtschaftliches Handeln
-
-    *
-    *
-
-*    *
-    *   Anwenden von Methoden der Information, Kommunikation und Planung
-
-    *
-    *
-
-*    *
-    *   Zusammenarbeit im Betrieb
-
-    *
-    *
-
-*    *
-    *   Berücksichtigen naturwissenschaftlicher und technischer
-        Gesetzmäßigkeiten
-
-    *
-    *
-
-
-   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am ............ in ............ vor
-............ abgelegte Prüfung vom Prüfungsbestandteil ............
-freigestellt.“)
-
-
-*    *   II. Handlungsspezifische Qualifikationen
-
-    *
-    *
-
-*    *
-    *   Punkte
+        als Dezimalzahl
 
     *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *
-    *   1. Situationsaufgabe im Handlungsbereich
-        „Technologie der Papier- und Kunststoffverarbeitung“
+*    *   100
 
-    *
-    *
+    *   1,0
 
-*    *
-    *   2. Situationsaufgabe im Handlungsbereich
-        „Führung und Organisation“
+    *   sehr gut
 
-    *
-    *
-
-*    *
-    *   3. Aufgabenstellung im Handlungsbereich
-        „Spezialisierungsgebiete“ mit dem Wahlqualifikationsschwerpunkt
-
-    *
-    *
-
-*    *
-    *
-    *[^f770795_02_BJNR009900008BJNE001401308]
-
-    *
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am ............ in ............ vor
-............ abgelegte Prüfung vom Prüfungsbestandteil ............
-freigestellt.“)
+*    *   98 und 99
 
-III. Berufs- und arbeitspädagogische Qualifikationen
-
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 2 Abs. 2
-den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Kenntnisse durch die Prüfung am
-in
-vor
-erbracht.
+    *   1,1
 
 
-*    *   Datum
+*    *   96 und 97
+
+    *   1,2
 
 
-*    *   Unterschrift(en)
+*    *   94 und 95
+
+    *   1,3
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-[^f770795_01_BJNR009900008BJNE001401308]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
-    zu gewichten: schriftliche Präsentationsunterlagen 20 Prozent,
-    mündliche Präsentation 30 Prozent, Fachgespräch 50 Prozent-.
-[^f770795_02_BJNR009900008BJNE001401308]: 
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2294 – 2295)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Punkten und Note
+        sowie
+
+
+    b)  Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten und
+        Note,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils,
+
+
+    b)  Benennung der Situationsaufgabe im Handlungsbereich „Technologie der
+        Papier- und Kunststoffverarbeitung“ und Bewertung mit Punkten und
+        Note,
+
+
+    c)  Benennung der Situationsaufgabe im Handlungsbereich „Führung und
+        Organisation“ und Bewertung mit Punkten und Note,
+
+
+    d)  Benennung der Aufgabenstellung im Handlungsbereich
+        „Spezialisierungsgebiete“ und Bewertung mit Punkten und Note sowie
+
+
+    e)  Benennung des Wahlqualifikationsschwerpunkts,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
+
+
+
+

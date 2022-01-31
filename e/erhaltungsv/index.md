@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2107
 
-Geändert durch
-:   Art. 2 V v. 17.12.2010 I 2128
+Zuletzt geändert durch
+:   Art. 3 V v. 6.1.2014 I 26
+
+Änderung durch
+:   Art. 5 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F1_772396_BJNR210710009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/62/EG der
     Kommission vom 20. Juni 2008 mit Ausnahmeregelungen für die Zulassung
@@ -280,10 +283,11 @@ werden, wenn es
     Erhaltungszüchtung gewonnen worden ist,
 
 
-2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer vor der
-    Aussaat der für die Ursprungsregion, oder im Falle eines
-    Vermehrungsbestandes in einer Region nach Absatz 3, der für diese
-    Region zuständigen Behörde mitgeteilt hat,
+2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer bis zu
+    dem in Anlage 1 der Saatgutverordnung jeweils genannten Termin der für
+    die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer
+    Region nach Absatz 3, der für diese Region zuständigen Behörde
+    mitgeteilt hat,
 
 
 3.  mindestens die Voraussetzungen für
@@ -494,7 +498,8 @@ oder ein Stempel mit folgenden Angaben befindet:
 1.  die Angabe „EG-Norm“,
 
 
-2.  Name und Anschrift der für das Kennzeichnen verantwortlichen Person,
+2.  Name und Anschrift oder die Betriebsnummer der für das Kennzeichnen
+    verantwortlichen Person,
 
 
 3.  das Jahr der Verschließung mit der Angabe „verschlossen ... “ oder,
@@ -506,7 +511,7 @@ oder ein Stempel mit folgenden Angaben befindet:
 4.  Pflanzenart,
 
 
-5.  Sortenbezeichnung der Erhaltungssorte,
+5.  Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
 
 
 6.  die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die
@@ -525,8 +530,8 @@ oder ein Stempel mit folgenden Angaben befindet:
     verantwortliche Person,
 
 
-10. angegebenes Netto- oder Bruttogewicht oder, außer bei
-    Pflanzkartoffeln, die angegebene Anzahl der Samen,
+10. angegebenes Netto- oder Bruttogewicht oder die angegebene Anzahl der
+    Samen oder Knollen,
 
 
 11. bei Angaben des Gewichtes und im Falle der Verwendung von granulierten

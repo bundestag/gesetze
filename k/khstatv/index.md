@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 730
 
 Zuletzt geändert durch
-:   Art. 4b G v. 17.3.2009 I 534
+:   Art. 1 V v. 10.7.2017 I 2300
 
 
 ## Eingangsformel
@@ -76,7 +76,9 @@ des Krankenhausfinanzierungsgesetzes genannten Krankenhäuser.
 
 Erhebungseinheiten sind:
 
-1.  Krankenhäuser einschließlich Ausbildungsstätten,
+1.  Krankenhäuser einschließlich Ausbildungsstätten und zusätzlich ab dem
+    1\. Januar 2020 die Standorte der Krankenhäuser entsprechend dem
+    Verzeichnis nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch,
 
 
 2.  Vorsorge- oder Rehabilitationseinrichtungen.
@@ -90,26 +92,21 @@ Erhebungseinheiten sind:
 Erhebungsmerkmale sind:
 
 1.  Art des Krankenhauses oder der Vorsorge- oder
-    Rehabilitationseinrichtung sowie Art der Trägerschaft, einschließlich
-    bei öffentlicher Trägerschaft die Rechtsform,
+    Rehabilitationseinrichtung sowie Art der Trägerschaft,
 
 
 2.  Zulassung nach § 108 des Fünften Buches Sozialgesetzbuch und Vertrag
-    nach § 111 des Fünften Buches Sozialgesetzbuch oder Zulassung nach §
-    30 der Gewerbeordnung,
+    nach § 111 des Fünften Buches Sozialgesetzbuch oder § 111a des Fünften
+    Buches Sozialgesetzbuch oder Zulassung nach § 30 der Gewerbeordnung,
 
 
 3.  Betten, gegliedert nach Art der Förderung und Fachabteilung sowie nach
     Art der Nutzung und Vertragsbestimmung,
 
 
-4.  Einrichtungen der Intensivmedizin und der Geriatrie sowie
-    organisatorisch abgrenzbare Einrichtungen zur Behandlung von
-    Querschnittlähmung, Schwerst-Schädel-Hirn-Verletzungen,
-    Schwerbrandverletzungen, AIDS, Mukoviszidose, Onkologiepatientinnen
-    und -patienten, Transplantationspatientinnen und -patienten oder zur
-    neonatologischen Intensivbehandlung, gegliedert nach Art und Anzahl
-    der Betten, nach Berechnungs- und Belegungstagen sowie der Zahl der
+4.  besondere Einrichtungen nach § 17b Absatz 1 Satz 10 des
+    Krankenhausfinanzierungsgesetzes, gegliedert nach Art und Anzahl der
+    Betten, nach Berechnungs- und Belegungstagen sowie nach der Anzahl der
     behandelten Fälle,
 
 
@@ -120,13 +117,10 @@ Erhebungsmerkmale sind:
 
 
 7.  Zahl der Plätze für teilstationäre Behandlung während des Tages und
-    der Nacht, gegliedert nach Fachabteilungen, Einrichtungen der
-    Geriatrie und organisatorisch abgrenzbaren Einrichtungen zur
-    Behandlung von Querschnittlähmung, Schwerst-Schädel-Hirn-Verletzungen,
-    Schwerbrandverletzungen, AIDS, Mukoviszidose, Onkologiepatientinnen
-    und -patienten, Transplantationspatientinnen und -patienten,
-    Dialysepatientinnen und -patienten oder zur neonatologischen
-    Intensivbehandlung,
+    der Nacht, gegliedert nach Fachabteilungen, nach besonderen
+    Einrichtungen nach § 17b Absatz 1 Satz 10 des
+    Krankenhausfinanzierungsgesetzes sowie nach Einrichtungen für
+    Dialysepatientinnen und -patienten,
 
 
 8.  Art der nicht-bettenführenden Fachabteilungen,
@@ -135,84 +129,94 @@ Erhebungsmerkmale sind:
 9.  Art der Arzneimittelversorgung,
 
 
-10. Art und Zahl der Plätze in Ausbildungsstätten für die in § 2 Nr. 1a
-    des Krankenhausfinanzierungsgesetzes genannten Berufe,
+10. Art und Zahl der Plätze sowie ihre Besetzung in Ausbildungsstätten für
+    die in § 2 Nummer 1a des Krankenhausfinanzierungsgesetzes genannten
+    Berufe,
 
 
-11. ärztliches und zahnärztliches Personal, gegliedert nach Geschlecht und
-    Beschäftigungsverhältnis, bei hauptamtlichen Ärzten zusätzlich nach
-    Dienststellung, Gebiets- und Teilgebietsbezeichnung; ferner Belegärzte
-    nach Gebiets- und Teilgebietsbezeichnung und von diesen angestellte
-    Ärzte nach der Gebiets- und Teilgebietsbezeichnung des anstellenden
-    Belegarztes,
+11. ärztliches Personal, gegliedert nach Geschlecht, Geburtsjahr und
+    Beschäftigungsverhältnis, bei hauptamtlichem ärztlichen Personal
+    zusätzlich nach Dienststellung, Gebiets- und Teilgebietsbezeichnung;
+    ferner Belegärztinnen und Belegärzte nach Gebiets- und
+    Teilgebietsbezeichnung und von diesen angestelltes ärztliches Personal
+    nach der Gebiets- und Teilgebietsbezeichnung der anstellenden
+    Belegärztin oder des anstellenden Belegarztes,
 
 
-12. nichtärztliches Personal, gegliedert nach Geschlecht,
+12. nichtärztliches Personal, gegliedert nach Geschlecht, Geburtsjahr,
     Beschäftigungsverhältnis, Funktionsbereich und Berufsbezeichnung, im
     Pflegedienst auch nach Einsatz in der Psychiatrie, für in
-    Pflegeberufen Ausgebildete nur nach Geschlecht,
-    Beschäftigungsverhältnis und Art der abgeschlossenen Weiterbildung;
-    ferner Personal der Ausbildungsstätten nach Geschlecht und
-    Beschäftigungsverhältnis sowie Personen in Ausbildung mit oder ohne
-    direktes Beschäftigungsverhältnis bei dem Krankenhaus oder der
+    Pflegeberufen Ausgebildete zusätzlich nach Art der abgeschlossenen
+    Weiterbildung; ferner Personal der Ausbildungsstätten nach Geschlecht
+    und Beschäftigungsverhältnis sowie Personen in Ausbildung mit oder
+    ohne direktes Beschäftigungsverhältnis bei dem Krankenhaus oder der
     Vorsorge- oder Rehabilitationseinrichtung nach Geschlecht und
     Beschäftigungsverhältnis, zusätzlich für Pflegeberufe nach der Art des
     Pflegeberufes,
 
 
 13. ärztliches Personal und nichtärztliches Personal umgerechnet auf
-    Vollkräfte, bei nichtärztlichem Personal gegliedert nach
-    Funktionsbereich, im Pflegedienst auch nach Einsatz in der
-    Psychiatrie; hauptamtliches Personal und Personal ohne direktes
-    Beschäftigungsverhältnis bei der Einrichtung sind gesondert
-    auszuweisen,
+    Vollkräfte, bei ärztlichem Personal gegliedert nach Gebiets- und
+    Teilgebietsbezeichnung, bei nichtärztlichem Personal gegliedert nach
+    Funktionsbereich, im Pflegedienst auch nach Berufsbezeichnung, Art der
+    abgeschlossenen Weiterbildung und Fachabteilung; hauptamtliches
+    Personal und Personal ohne direktes Beschäftigungsverhältnis bei der
+    Einrichtung sind gesondert auszuweisen,
 
 
-14. aus dem Krankenhaus oder der Vorsorge- oder Rehabilitationseinrichtung
-    mit mehr als 100 Betten entlassene vollstationär behandelte Patienten
-    und Sterbefälle, gegliedert nach Geschlecht, Geburtsmonat und -jahr,
-    Wohngemeinde, in den Stadtstaaten Stadtteil, Zu- und Abgangsdatum,
-    ferner nach im Zeitpunkt der Entlassung bekannter Hauptdiagnose und
-    nach Fachabteilung mit der längsten Verweildauer, bei Krankenhäusern
-    zusätzlich der Angabe, ob im Zusammenhang mit der Hauptdiagnose
-    operiert worden ist,
+14. aus dem Krankenhaus oder der Vorsorge- oder
+    Rehabilitationseinrichtung, die über mehr als 100 Betten verfügt,
+    entlassene vollstationär behandelte Patientinnen und Patienten und
+    Sterbefälle, gegliedert nach Geschlecht, Geburtsmonat und -jahr,
+    Postleitzahl und Wohnort, in den Stadtstaaten zusätzlich nach
+    Stadtteil, Zu- und Abgangsdatum, ferner nach im Zeitpunkt der
+    Entlassung bekannter Hauptdiagnose und nach Fachabteilung mit der
+    längsten Verweildauer,
 
 
-15. vorstationär, nachstationär und teilstationär behandelte Patienten und
-    teilstationäre Berechnungstage, gegliedert nach Fachabteilung,
-    Einrichtungen der Geriatrie und organisatorisch abgrenzbaren
-    Einrichtungen zur Behandlung von Querschnittlähmung, Schwerst-Schädel-
-    Hirn-Verletzungen, Schwerbrandverletzungen, AIDS, Mukoviszidose,
-    Onkologiepatientinnen und -patienten, Transplantationspatientinnen und
-    -patienten, Dialysepatientinnen und -patienten oder der
-    neonatologischen Intensivbehandlung; Zahl ambulanter Operationen und
-    der Angabe, ob ambulante Operationen im Rahmen einer Ermächtigung zur
-    Teilnahme an der vertragsärztlichen Versorgung erbracht wurden,
+15. vorstationär, nachstationär und teilstationär behandelte Patientinnen
+    und Patienten und teilstationäre Berechnungstage, jeweils gegliedert
+    nach Fachabteilung, nach besonderen Einrichtungen nach § 17b Absatz 1
+    Satz 10 des Krankenhausfinanzierungsgesetzes sowie nach Einrichtungen
+    für Dialysepatientinnen und -patienten,
 
 
-16. Entbindungen und Geburten nach Art und Zahl sowie Zahl der wegen
-    Fehlgeburt und Komplikationen im Zusammenhang mit der Entbindung
-    behandelten Frauen,
+16. Zahl ambulant behandelter Patientinnen und Patienten, gegliedert nach
+    der gesetzlichen Grundlage der Leistungserbringung, bei ambulanten
+    Operationen zusätzlich nach der Zahl der in dem Katalog nach § 115b
+    des Fünften Buches Sozialgesetzbuch genannten Operationen und der Zahl
+    anderer ambulanter Operationen sowie Zahl ambulanter Notfälle,
 
 
-17. Berechnungs- und Belegungstage sowie Patientenzugang und -abgang
-    einschließlich der Einrichtung, in die entlassen wird, jeweils
+17. Stufe der Teilnahme an der stationären Notfallversorgung nach § 136c
+    Absatz 4 des Fünften Buches Sozialgesetzbuch,
+
+
+18. Art und Zahl der Entbindungen und Geburten,
+
+
+19. Berechnungs- und Belegungstage, in Vorsorge- oder
+    Rehabilitationseinrichtungen die Pflegetage, sowie Patientenzugang und
+    -abgang einschließlich der Einrichtung, in die entlassen wird, jeweils
     gegliedert nach Art und Zahl sowie nach Fachabteilung,
 
 
-18. auf der Grundlage der Krankenhaus-Buchführungsverordnung die
+20. auf der Grundlage der Krankenhaus-Buchführungsverordnung die
     Aufwendungen des Krankenhauses nach den Kontenuntergruppen 600 bis
-    720, 730 bis 742, 781 und 782 sowie die Höhe der Aufwendungen, die in
-    diesen Kontenuntergruppen auf Leistungen entfallen, die nicht zu den
-    allgemeinen voll- und teilstationären Krankenhausleistungen gehören
-    (Abzüge), gegliedert nach einzelnen Personal- und Sachkostenarten;
-    soweit die Ermittlung der Abzüge mit unverhältnismäßig hohem Aufwand
-    verbunden ist, sind sie wirklichkeitsnah zu schätzen.
+    720, 730 bis 742, 781 und 782, nachrichtlich die Zahlungen für
+    Ausbildungsfonds sowie die Höhe der Aufwendungen, die in den
+    vorgenannten Kontenuntergruppen auf Leistungen entfallen, die nicht zu
+    den allgemeinen voll- und teilstationären Krankenhausleistungen
+    gehören (Abzüge), gegliedert nach einzelnen Personal- und
+    Sachkostenarten; soweit die Ermittlung der Abzüge mit
+    unverhältnismäßig hohem Aufwand verbunden ist, sind sie
+    wirklichkeitsnah zu schätzen.
 
 
 
-In Vorsorge- und Rehabilitationseinrichtungen werden anstelle der
-Berechnungs- und Belegungstage die Pflegetage erhoben.
+Die Erhebungsmerkmale nach Satz 1 Nummer 3 bis 9 und 14 bis 19 sind ab
+dem 1. Januar 2020 für Krankenhäuser nach Standorten gegliedert zu
+erfassen.
 
 
 ## § 4 Hilfsmerkmale
@@ -227,11 +231,19 @@ Hilfsmerkmale sind:
     Rehabilitationseinrichtung,
 
 
-3.  Name und Telekommunikationsanschlussnummer der für Rückfragen zur
-    Verfügung stehenden Person,
+3.  Name und Anschrift des Eigentümers des Krankenhauses oder der
+    Vorsorge- oder Rehabilitationseinrichtung,
 
 
-4.  Institutionskennzeichen des Krankenhauses.
+4.  Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden
+    Person,
+
+
+5.  Institutionskennzeichen des Krankenhauses,
+
+
+6.  ab dem 1. Januar 2020 die Standorte des Krankenhauses entsprechend dem
+    Verzeichnis nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch.
 
 
 
@@ -239,60 +251,89 @@ Hilfsmerkmale sind:
 
 ## § 5 Periodizität und Berichtszeitraum
 
-Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Nr.
-1, 2 und 5 bis 12 werden jeweils nach dem Stand vom 31. Dezember, die
-Angaben nach § 3 Nr. 3, 4 und 13 bis 17 jeweils für das abgelaufene
-Kalenderjahr, die Angaben nach § 3 Nr. 18 jeweils für das abgelaufene
-Geschäftsjahr erhoben. Die Angaben nach § 3 Nr. 1 bis 17 sind bis zum
-1\. April und die Angaben nach § 3 Nr. 18 bis zum 30. Juni des
-Folgejahres dem zuständigen Statistischen Landesamt zu melden.
+Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Satz
+1 Nummer 1, 2, 5 bis 12 und 17 werden jeweils nach dem Stand vom 31.
+Dezember eines jeden Kalenderjahres, die Angaben nach § 3 Satz 1
+Nummer 3, 4, 13 bis 16 und 18 bis 19 jeweils für das abgelaufene
+Kalenderjahr, die Angaben nach § 3 Satz 1 Nummer 20 jeweils für das
+abgelaufene Geschäftsjahr erhoben. Die Angaben nach § 3 Satz 1 Nummer
+1 bis 19 sind bis zum 1. April und die Angaben nach § 3 Satz 1 Nummer
+20 bis zum 30. Juni des Folgejahres dem zuständigen Statistischen
+Landesamt zu melden.
 
 
 ## § 6 Auskunftspflicht
 
-(1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4 Nr.
-3 sind freiwillig.
+(1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4
+Nummer 4 sind freiwillig.
 
-(2) Auskunftspflichtig sind die Träger der Krankenhäuser und Vorsorge-
-oder Rehabilitationseinrichtungen. Die Träger der Krankenhäuser haben
-Angaben zu den Erhebungsmerkmalen nach § 3 Nr. 1 bis 18, die Träger
-der Vorsorge- oder Rehabilitationseinrichtungen Angaben nach § 3 Nr. 1
-bis 3, 5, 11 bis 13, 14 und 17 zu machen. Der Träger von
-Krankenhäusern nach § 3 Nr. 1 Krankenhausfinanzierungsgesetz hat
-Angaben zu den Erhebungsmerkmalen nach § 3 Nr. 1 bis 8, 14 und 17 zu
-machen, soweit Leistungen für Zivilpatienten erbracht werden.
+(2) Auskunftspflichtig sind die Träger oder die Eigentümer der
+Krankenhäuser und der Vorsorge- oder Rehabilitationseinrichtungen.
+
+(3) Folgende Angaben sind zu machen:
+
+1.  für die Krankenhäuser: Angaben zu den Erhebungsmerkmalen nach § 3 Satz
+    1 Nummer 1 bis 20,
 
 
-## § 7 Übermittlung
+2.  für die Vorsorge- oder Rehabilitationseinrichtungen: Angaben nach § 3
+    Satz 1 Nummer 1 bis 3, 5, 11 bis 14 und 19 und
 
-(1) Die Übermittlung von Tabellen mit statistischen Ergebnissen, auch
-soweit Tabellenfelder nur einen einzigen Fall ausweisen, an die
-fachlich zuständigen obersten Bundes- und Landesbehörden nach § 16
-Abs. 4 des Bundesstatistikgesetzes vom 22. Januar 1987 (BGBl. I S.
-462, 565) ist zulässig. Satz 1 gilt nicht für diagnosebezogene Daten
-nach § 3 Nr. 14, soweit diese differenzierter als auf Kreisebene
-ausgewiesen werden.
 
-(2) Die Statistischen Landesämter sind berechtigt, mit Zustimmung der
-Betroffenen jährlich im Rahmen eines Verzeichnisses Name, Anschrift,
-Träger, Art des Krankenhauses, Fachabteilungen und Bettenzahl von
-Krankenhäusern sowie von Vorsorge- und Rehabilitationseinrichtungen zu
-veröffentlichen.
+3.  für die Krankenhäuser, deren Träger der Bund ist: Angaben zu den
+    Erhebungsmerkmalen nach § 3 Satz 1 Nummer 1 bis 8, 14, 17 und 19, wenn
+    Leistungen für Zivilpatientinnen und Zivilpatienten erbracht werden.
 
-(3) Den obersten Landesbehörden können mit Zustimmung der
-Krankenhäuser für Zwecke der Krankenhausplanung Tabellen nach Absatz 1
-Satz 1 mit diagnosebezogenen Daten nach § 3 Nr. 14 für einzelne
-Krankenhäuser übermittelt werden, wenn nicht mehr als folgende Daten
-verbunden werden:
+
+
+
+
+## § 7 Übermittlung, Veröffentlichung
+
+(1) Das Statistische Bundesamt und die Statistischen Landesämter
+dürfen den fachlich zuständigen obersten Bundes- und Landesbehörden
+Tabellen mit statistischen Ergebnissen übermitteln für
+
+1.  die Verwendung gegenüber den gesetzgebenden Körperschaften und
+
+
+2.  Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen.
+
+
+
+Satz 1 gilt auch, wenn Tabellenfelder nur einen einzigen Fall
+ausweisen. Für Tabellen mit statistischen Ergebnissen mit
+diagnosebezogenen Daten nach § 3 Satz 1 Nummer 14 gilt, dass diese
+nicht Daten unterhalb der Kreisebene ausweisen dürfen.
+
+(2) Die Statistischen Landesämter dürfen den obersten Landesbehörden
+für Zwecke der Krankenhausplanung Tabellen mit statistischen
+Ergebnissen nach Absatz 1 Satz 1 mit diagnosebezogenen Daten nach § 3
+Satz 1 Nummer 14 für einzelne Krankenhäuser übermitteln, wenn nicht
+mehr als die folgenden Daten verbunden werden:
 
 1.  bei Diagnosestatistiken die Hauptdiagnose, gegliedert nach
-    Altersgruppen, in Verbindung mit Patientenzahl, Verweildauer und der
-    Angabe, ob operiert worden ist,
+    Altersgruppen, in Verbindung mit Patientenzahl und Verweildauer,
 
 
-2.  bei Einzugsgebietsstatistiken die Wohngemeinde, in Stadtstaaten
-    Stadtteile, in Verbindung mit Fachabteilung, Hauptdiagnose und
-    Patientenzahl.
+2.  bei Einzugsgebietsstatistiken die Postleitzahl und der Wohnort, in
+    Stadtstaaten zusätzlich die Stadtteile, in Verbindung mit
+    Fachabteilung, Hauptdiagnose und Patientenzahl.
+
+
+
+
+(3) Die Statistischen Landesämter sind berechtigt, jährlich ein
+Verzeichnis mit folgenden Angaben zu veröffentlichen:
+
+1.  Name, Anschrift, Träger oder Eigentümer, Art, Fachabteilungen,
+    Standort, Stufe der Teilnahme an der stationären Notfallversorgung
+    nach § 136c Absatz 4 des Fünften Buches Sozialgesetzbuch und
+    Bettenzahl von Krankenhäusern,
+
+
+2.  Name, Anschrift, Träger oder Eigentümer, Art, Fachabteilungen und
+    Bettenzahl von Vorsorge- oder Rehabilitationseinrichtungen.
 
 
 

@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register
-  nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes
+  nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes
 jurabk: KWGVermV
 layout: default
 origslug: kwgvermv
@@ -8,13 +8,16 @@ slug: kwgvermv
 
 ---
 
-# Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 6 des Kreditwesengesetzes (KWGVermV)
+# Verordnung über die vertraglich gebundenen Vermittler und das öffentliche Register nach § 2 Abs. 10 Satz 5 des Kreditwesengesetzes (KWGVermV)
 
 Ausfertigungsdatum
 :   2007-12-04
 
 Fundstelle
 :   BGBl I: 2007, 2785
+
+Geändert durch
+:   Art. 19 G v. 23.6.2017 I 1693
 
 [^F768771_01_BJNR278500007]:     Diese Verordnung dient der weiteren Umsetzung der Richtlinie
     2004/39/EG des Europäischen Parlaments und des Rates vom 21. April
@@ -102,7 +105,7 @@ geeignet und zuverlässig ist.
 ## § 4 Inhalt des Registers
 
 (1) Von den Angaben nach § 2 werden die folgenden Angaben
-automatisiert in das öffentliche Register nach § 2 Abs. 10 Satz 6 des
+automatisiert in das öffentliche Register nach § 2 Abs. 10 Satz 5 des
 Kreditwesengesetzes eingestellt:
 
 1.  sofern der vertraglich gebundene Vermittler eine natürliche Person
@@ -169,7 +172,7 @@ Anzeigeverfahrens vorzunehmen.
 
 ## § 6 Einsichtnahme in das Register
 
-Die Einsichtnahme in das öffentliche Register nach § 2 Abs. 10 Satz 6
+Die Einsichtnahme in das öffentliche Register nach § 2 Abs. 10 Satz 5
 des Kreditwesengesetzes erfolgt ausschließlich im automatisierten
 Abrufverfahren.
 

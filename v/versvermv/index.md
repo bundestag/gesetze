@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 733 (1967)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 6.12.2011 I 2515
+:   Art. 98 G v. 29.3.2017 I 626
 
 
 
@@ -401,7 +401,7 @@ Eintragungspflichtige der Registerbehörde unverzüglich mitzuteilen.
 
 (2) Bei Versicherungsvermittlern, die nach § 34d Abs. 4 der
 Gewerbeordnung keiner Erlaubnis bedürfen, erfolgt die Übermittlung der
-Angaben abweichend von Absatz 1 ausschließlich nach § 80 Abs. 3 des
+Angaben abweichend von Absatz 1 ausschließlich nach § 48 Absatz 4 des
 Versicherungsaufsichtsgesetzes.
 
 (3) Die Registerbehörde erteilt dem Eintragungspflichtigen und im Fall
@@ -410,17 +410,17 @@ Eintragungsbestätigung mit der Registrierungsnummer, unter der der
 Eintragungspflichtige im Register geführt wird.
 
 (4) Die Registerbehörde unterrichtet den Eintragungspflichtigen und im
-Fall des § 80 Abs. 4 des Versicherungsaufsichtsgesetzes zusätzlich das
-Versicherungsunternehmen unverzüglich über eine Datenlöschung nach §
-11a Abs. 3 Satz 2 der Gewerbeordnung.
+Fall des § 48 Absatz 5 des Versicherungsaufsichtsgesetzes zusätzlich
+das Versicherungsunternehmen unverzüglich über eine Datenlöschung nach
+§ 11a Abs. 3 Satz 2 der Gewerbeordnung.
 
 
 ### § 7 Eingeschränkter Zugang
 
 Hinsichtlich der Angaben nach § 5 Satz 1 Nr. 2 und 8 ist ein
-automatisierter Abruf nicht zulässig. Schriftlich darf die
-Registerbehörde insoweit nur den in § 11a Abs. 7 der Gewerbeordnung
-genannten Behörden Auskunft erteilen.
+automatisierter Abruf nicht zulässig. Die Registerbehörde darf
+insoweit nur den in § 11a Abs. 7 der Gewerbeordnung genannten Behörden
+Auskunft erteilen.
 
 
 ## Abschnitt 3 - Anforderungen an die Haftpflichtversicherung nach § 34d Abs. 2 Nr. 3 der Gewerbeordnung
@@ -450,7 +450,7 @@ Jahre prozentual entsprechend den von Eurostat veröffentlichten
 nächsthöheren Hundertbetrag in Euro aufzurunden sind. Die angepassten
 Mindestversicherungssummen werden jeweils zum 2. Januar des jeweiligen
 Jahres, in dem die Anpassung zu erfolgen hat, durch das
-Bundesministerium für Wirtschaft und Technologie im Bundesanzeiger
+Bundesministerium für Wirtschaft und Energie im Bundesanzeiger
 veröffentlicht.
 
 (3) Der Versicherungsvertrag muss Deckung für die sich aus der
@@ -640,7 +640,7 @@ des Europäischen Verbraucherpreisindexes, wobei sie auf den
 nächsthöheren Hundertbetrag in Euro aufzurunden ist. Die angepasste
 Mindestsicherungssumme wird jeweils zum 2. Januar des jeweiligen
 Jahres, in dem die Anpassung zu erfolgen hat, durch das
-Bundesministerium für Wirtschaft und Technologie im Bundesanzeiger
+Bundesministerium für Wirtschaft und Energie im Bundesanzeiger
 veröffentlicht.
 
 (5) Der Gewerbetreibende hat die Sicherheiten und Versicherungen
@@ -734,7 +734,8 @@ seine Kosten überprüfen lässt. Der Prüfer wird von der nach Satz 1
 zuständigen Behörde bestimmt. Der Prüfungsbericht hat einen Vermerk
 darüber zu enthalten, ob und welche Verstöße des
 Aufzeichnungspflichtigen festgestellt worden sind. Der Prüfer hat den
-Vermerk mit Angabe von Ort und Datum zu unterzeichnen.
+Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die
+elektronische Namenswiedergabe genügt.
 
 (2) Für Versicherungsberater kann die für die Erlaubniserteilung nach
 § 34e Abs. 1 der Gewerbeordnung zuständige Behörde darüber hinaus aus
@@ -807,8 +808,8 @@ Versicherungsvertragsgesetzes sowie für die laufenden Versicherungen.
 
 ### § 18 Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 1 der Gewerbeordnung
-handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
+Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 11 Abs. 1 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht,
@@ -879,8 +880,9 @@ Diese Verordnung tritt am 22. Mai 2007 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 3 Satz 2)
 
-### Anlage 1 (zu § 1 Abs. 3 Satz 2) Inhaltliche Anforderungen an die Sachkundeprüfung
+### Anlage 1 Inhaltliche Anforderungen an die Sachkundeprüfung
 
 
 *
@@ -1259,8 +1261,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 3 Abs. 8)
 
-### Anlage 2 (zu § 3 Abs. 8) Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung "Geprüfter Versicherungsfachmann/-frau IHK" nach § 34d Abs. 2 Nr. 4 / § 34e Abs. 2 der Gewerbeordnung
+### Anlage 2 Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung "Geprüfter Versicherungsfachmann/-frau IHK" nach § 34d Abs. 2 Nr. 4 / § 34e Abs. 2 der Gewerbeordnung
 
 Herr/Frau
 ....................................................................
@@ -1272,7 +1275,7 @@ wohnhaft in
 hat am ...............................................................
 ........
 vor der Industrie- und
-Handelskammer........................................             die
+Handelskammer........................................die
 Sachkundeprüfung für die Ausübung des Gewerbes als
 Versicherungsvermittler oder als Versicherungsberater nach § 34d Abs.
 2 Nr. 4 oder § 34e Abs. 2 der Gewerbeordnung erfolgreich abgelegt.

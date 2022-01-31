@@ -43,7 +43,7 @@ einzureichenden Angaben, Unterlagen und Gutachten müssen die
 Anforderungen erfüllen, die in Anhang I Titel I, II, III und IV Nummer
 2 der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates
 vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für
-Tierarzneimittel (ABI. L 311 vom 28.11.2001, S. 1) in der jeweils
+Tierarzneimittel (ABl. L 311 vom 28.11.2001, S. 1) in der jeweils
 geltenden Fassung geregelt sind.
 
 

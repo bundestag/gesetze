@@ -33,8 +33,10 @@ Zustimmung des Bundesrates:
 ## Erster Titel - Zusammentreffen saarländischer Vorauszahlungen mit saarländischer Unterhaltshilfe und mit Kriegsschadenrente
 
 
+Behandlung der saarländischen Vorauszahlungen bei der Umstellung der
+saarländischen Unterhaltshilfe
 
-### § 1 Behandlung der saarländischen Vorauszahlungen bei der Umstellung der saarländischen Unterhaltshilfe (§ 27 LA-EG-Saar)
+### § 1 (§ 27 LA-EG-Saar)
 
 (1) Sind Vorauszahlungen im Sinne des § 12 Abs. 1 des Gesetzes
 (saarländische Vorauszahlungen) vor oder während der Gewährung von

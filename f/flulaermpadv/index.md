@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Paderborn/Lippstadt
 jurabk: FluLärmPadV
 layout: default
-origslug: flul_rmpadv
+origslug: flulaermpadv
 slug: flulaermpadv
 
 ---

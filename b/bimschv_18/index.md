@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1588 (1790)
 
-Geändert durch
-:   Art. 1 V v. 9. 2.2006 I 324
+Zuletzt geändert durch
+:   Art. 1 V v. 1.6.2017 I 1468
+
+Änderung durch
+:   Art. 1 V v. 8.10.2021 I 4644 (Nr. 72) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -52,119 +55,63 @@ Geräuschimmissionen anderer Sportanlagen nicht überschritten werden.
 (2) Die Immissionsrichtwerte betragen für Immissionsorte außerhalb von
 Gebäuden
 
-*    *   1.
+1.  in Gewerbegebieten
 
-    *   in Gewerbegebieten
+    tags außerhalb der Ruhezeiten 65 dB(A),
 
+    tags innerhalb der Ruhezeiten am Morgen
+    60 dB(A),                    im Übrigen 65 dB(A),
 
-*    *
-    *   tags außerhalb der Ruhezeiten
-
-    *   65 dB(A),
-
-
-*    *
-    *   tags innerhalb der Ruhezeiten
-
-    *   60 dB(A),
+    nachts 50 dB(A),
 
 
-*    *
-    *   nachts
+1a. in urbanen Gebieten
 
-    *   50 dB(A),
+    tags außerhalb der Ruhezeiten 63 dB(A),
 
+    tags innerhalb der Ruhezeiten am Morgen
+    58 dB(A),                    im Übrigen 63 dB(A),
 
-*    *   2.
-
-    *   in Kerngebieten, Dorfgebieten und Mischgebieten
-
-
-*    *
-    *   tags außerhalb der Ruhezeiten
-
-    *   60 dB(A),
+    nachts 45 dB(A),
 
 
-*    *
-    *   tags innerhalb der Ruhezeiten
+2.  in Kerngebieten, Dorfgebieten und Mischgebieten
 
-    *   55 dB(A),
+    tags außerhalb der Ruhezeiten 60 dB(A),
 
+    tags innerhalb der Ruhezeiten am Morgen
+    55 dB(A),                    im Übrigen 60 dB(A),
 
-*    *
-    *   nachts
-
-    *   45 dB(A),
+    nachts 45 dB(A),
 
 
-*    *   3.
+3.  in allgemeinen Wohngebieten und Kleinsiedlungsgebieten
 
-    *   in allgemeinen Wohngebieten und Kleinsiedlungsgebieten
+    tags außerhalb der Ruhezeiten 55 dB(A),
 
+    tags innerhalb der Ruhezeiten am Morgen
+    50 dB(A),                    im Übrigen 55 dB(A),
 
-*    *
-    *   tags außerhalb der Ruhezeiten
-
-    *   55 dB(A),
-
-
-*    *
-    *   tags innerhalb der Ruhezeiten
-
-    *   50 dB(A),
+    nachts 40 dB(A),
 
 
-*    *
-    *   nachts
+4.  in reinen Wohngebieten
 
-    *   40 dB(A),
+    tags außerhalb der Ruhezeiten 50 dB(A),
 
+    tags innerhalb der Ruhezeiten am Morgen
+    45 dB(A),                    im Übrigen 50 dB(A),
 
-*    *   4.
-
-    *   in reinen Wohngebieten
-
-
-*    *
-    *   tags außerhalb der Ruhezeiten
-
-    *   50 dB(A),
+    nachts 35 dB(A),
 
 
-*    *
-    *   tags innerhalb der Ruhezeiten
+5.  in Kurgebieten, für Krankenhäuser und Pflegeanstalten
 
-    *   45 dB(A),
+    tags außerhalb der Ruhezeiten 45 dB(A),
 
+    tags innerhalb der Ruhezeiten 45 dB(A),
 
-*    *
-    *   nachts
-
-    *   35 dB(A),
-
-
-*    *   5.
-
-    *   in Kurgebieten, für Krankenhäuser und Pflegeanstalten
-
-
-*    *
-    *   tags außerhalb der Ruhezeiten
-
-    *   45 dB(A),
-
-
-*    *
-    *   tags innerhalb der Ruhezeiten
-
-    *   45 dB(A),
-
-
-*    *
-    *   nachts
-
-    *   35 dB(A).
+    nachts 35 dB(A).
 
 
 
@@ -342,11 +289,12 @@ dienen.
 
 (4) Bei Sportanlagen, die vor Inkrafttreten dieser Verordnung
 baurechtlich genehmigt oder - soweit eine Baugenehmigung nicht
-erforderlich war - errichtet waren, soll die zuständige Behörde von
-einer Festsetzung von Betriebszeiten absehen, wenn die
-Immissionsrichtwerte an den in § 2 Abs. 2 genannten Immissionsorten
-jeweils um weniger als 5 dB(A) überschritten werden; dies gilt nicht
-an den in § 2 Abs. 2 Nr. 5 genannten Immissionsorten.
+erforderlich war - errichtet waren und danach nicht wesentlich
+geändert werden, soll die zuständige Behörde von einer Festsetzung von
+Betriebszeiten absehen, wenn die Immissionsrichtwerte an den in § 2
+Abs. 2 genannten Immissionsorten jeweils um weniger als 5 dB(A)
+überschritten werden; dies gilt nicht an den in § 2 Abs. 2 Nr. 5
+genannten Immissionsorten.
 
 (5) Die zuständige Behörde soll von einer Festsetzung von
 Betriebszeiten absehen, wenn infolge des Betriebs einer oder mehrerer
@@ -430,7 +378,7 @@ Der Bundesrat hat zugestimmt.
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
 
-## Anhang
+## Anhang 1
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1591 - 1596;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -527,7 +475,7 @@ Ermittlungs- und Beurteilungsverfahren
         Für die Beurteilung einzelner kurzzeitiger Geräuschspitzen wird deren
         Maximalpegel
         L
-        AFmax                          herangezogen .
+        AFmax                          herangezogen.
 
         Für die Beurteilung von Geräuschen bei neu zu errichtenden
         Sportanlagen sind die Geräuschimmissionen nach dem in Nr. 2
@@ -657,9 +605,8 @@ Ermittlungs- und Beurteilungsverfahren
         (L
         Am,i                          + K
         l,i                          = L
-        AFTm,i                         ) . Bei Anlagen, die
-        Geräuschimmissionen mit Impulsen und/oder auffälligen Pegeländerungen
-        in der Teilzeit
+        AFTm,i                         ). Bei Anlagen, die Geräuschimmissionen
+        mit Impulsen und/oder auffälligen Pegeländerungen in der Teilzeit
         T
         i                          mehr als einmal pro Minute hervorrufen und
         vor Inkrafttreten dieser Verordnung baurechtlich genehmigt oder -
@@ -813,11 +760,10 @@ Ermittlungs- und Beurteilungsverfahren
 
     1.5 Seltene Ereignisse
 
-        Überschreitungen der Immissionsrichtwerte durch besondere Ereignisse
-        und Veranstaltungen gelten als selten, wenn sie an höchstens 18
-        Kalendertagen eines Jahres in einer Beurteilungszeit oder mehreren
-        Beurteilungszeiten auftreten. Dies gilt unabhängig von der Zahl der
-        einwirkenden Sportanlagen.
+        Überschreitungen der Immissionsrichtwerte gelten als selten, wenn sie
+        an höchstens 18 Kalendertagen eines Jahres in einer Beurteilungszeit
+        oder mehreren Beurteilungszeiten auftreten. Dies gilt unabhängig von
+        der Zahl der einwirkenden Sportanlagen.
 
 
     1.6 Vergleich des Beurteilungspegels mit dem Immissionsrichtwert
@@ -852,7 +798,7 @@ Ermittlungs- und Beurteilungsverfahren
         Hindernissen und außerdem für schallabstrahlende Außenbauteile von
         Gebäuden die Flächen S und die bewerteten Bauschalldämm-Maße
         R'
-        w                          benötigt .
+        w                          benötigt.
 
         Als Eingangsdaten für die Berechnung können Meßwerte oder
         Erfahrungswerte, soweit sie auf den Meßvorschriften dieses Anhangs
@@ -1243,6 +1189,91 @@ Ermittlungs- und Beurteilungsverfahren
 
 
 
+
+
+
+
+
+## Anhang 2
+
+Maßnahmen, die in der Regel keine wesentliche Änderung im Sinne von §
+5 Absatz 4 darstellen:
+
+–   Flutlichtanlagen,
+
+
+–   nicht überdachte Stellplätze bis insgesamt 100 m
+    2                   ,
+
+
+–   nicht überdachte Lagerflächen bis 300 m
+    2                   ,
+
+
+–   Einrichtung von Sport- und Spielflächen,
+
+
+–   Werbeanlagen,
+
+
+–   Zugänge und Zufahrten,
+
+
+–   Anlagen zur Nutzung erneuerbarer Energien, insbesondere von
+    Solaranlagen in, an und auf Dach- und Außenwandflächen,
+
+
+–   Änderungen der äußeren Gebäudegestaltung,
+
+
+–   Nutzungsänderungen durch Solaranlagen an Dach und Wänden,
+
+
+–   Auswechseln von Belägen auf Sport- und Spielflächen,
+
+
+–   Instandhaltungsmaßnahmen,
+
+
+–   Sanierungs- und Modernisierungsmaßnahmen, insbesondere die Umwandlung
+    von Tennen- oder Rasenspielflächen in Kunststoffrasenspielflächen,
+
+
+–   Erneuerung von Ballfangzäunen, Einzäunungen, Barrieren, Kantsteinen,
+    Zuschauerplätzen,
+
+
+–   Erweiterung der Sanitär- und Umkleidebereiche,
+
+
+–   Neubau von Garagen,
+
+
+–   Umbau der Spielflächen nach dem Stand der Technik,
+
+
+–   Umbau von Anlagen zur Erfüllung immissionsschutzrechtlicher und
+    anderer öffentlich-rechtlicher Anforderungen,
+
+
+–   Beregnungsanlagen,
+
+
+–   Modifizierung der Sportanlage, insbesondere durch den Neubau von
+    Spiel- und Klettergeräten, Trimm- und Kräftigungsgeräten,
+    Kletterwänden oder Boulebahnen,
+
+
+–   Rückbau von Teilen der Anlage,
+
+
+–   Lärmschutzmaßnahmen,
+
+
+–   Neubau von Vereinsheimen und
+
+
+–   Neubau oder Austausch von Lautsprecheranlagen.
 
 
 

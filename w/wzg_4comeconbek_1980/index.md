@@ -36,12 +36,10 @@ Der Bundesminister der Justiz
 
 ## Anlage 1 Bezeichnungen, Abkürzungen und Kennzeichen des Rates für Gegenseitige Wirtschaftshilfe
 
-(Inhalt: Nicht darstellbare Bezeichnungen,
 Fundstelle: BGBl. I 1980, 149)
-
+![bgbl1_1980_j0149_0010.jpg](bgbl1_1980_j0149_0010.jpg)
 
 ## Anlage 2
 
-(Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1980, 150)
-
+![bgbl1_1980_j0150_0010.jpg](bgbl1_1980_j0150_0010.jpg)

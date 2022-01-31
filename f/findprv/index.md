@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 274 (510)
 
+Zuletzt geändert durch
+:   Art. 58 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -169,15 +172,14 @@ jeweils 120 Minuten.
 (4) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung
 durchgeführt. Die mündliche Prüfung bezieht sich auf die
 Handlungsbereiche nach Absatz 2 Nummer 2 bis 4 und findet in Form
-eines fallbezogenen Beratungsgesprächs statt. Der Prüfungsteilnehmer
-oder die Prüfungsteilnehmerin wählt aus drei vorgegebenen
-Fallsituationen eine aus. Es soll nachgewiesen werden, eine komplexe
-Problemstellung der Beratungspraxis erfassen, darstellen, beurteilen
-und lösen zu können. Insbesondere soll nachgewiesen werden, in der
-Beratungssituation fachlich kompetent und kundenorientiert beraten zu
-können. Die Vorbereitungszeit für das fallbezogene Beratungsgespräch
-soll 30 Minuten betragen. Das fallbezogene Beratungsgespräch soll 20
-Minuten dauern.
+eines fallbezogenen Beratungsgesprächs statt. Die zu prüfende Person
+wählt aus drei vorgegebenen Fallsituationen eine aus. Es soll
+nachgewiesen werden, eine komplexe Problemstellung der Beratungspraxis
+erfassen, darstellen, beurteilen und lösen zu können. Insbesondere
+soll nachgewiesen werden, in der Beratungssituation fachlich kompetent
+und kundenorientiert beraten zu können. Die Vorbereitungszeit für das
+fallbezogene Beratungsgespräch soll 30 Minuten betragen. Das
+fallbezogene Beratungsgespräch soll 20 Minuten dauern.
 
 (5) Wurde in nicht mehr als einer der schriftlichen Prüfungsleistungen
 nach Absatz 3 eine mangelhafte Prüfungsleistung erbracht, ist darin
@@ -304,41 +306,83 @@ Qualifikationsinhalte geprüft werden:
 
 
 
-### § 6 Anrechnung anderer Prüfungsleistungen
+### § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 3 und § 8 Absatz 4 Satz 1
+entsprechend. Allein diese Prüfungsbestandteile sind den
+Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
-### § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
+### § 7 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfung ist bestanden, wenn in allen schriftlichen
-Prüfungsleistungen nach § 4 Absatz 3 und in der mündlichen Prüfung
-nach § 4 Absatz 4 mindestens ausreichende Leistungen erbracht wurden.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
 
-(2) Die schriftlichen Prüfungsleistungen nach § 4 Absatz 3 sowie die
-mündliche Prüfung in Form eines fallbezogenen Beratungsgesprächs nach
-§ 4 Absatz 4 werden separat nach Punkten bewertet und gleichgewichtig
-zu einer Note zusammengefasst.
+(2) Die Prüfungsleistungen der schriftlichen Prüfung und das
+fallbezogene Beratungsgespräch der mündlichen Prüfung sind einzeln zu
+bewerten.
 
-(3) Die Gesamtnote der Prüfung ergibt sich aus dem arithmetischen
-Mittel der Summe der Punktebewertungen.
-
-(4) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 6 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+(3) Im schriftlichen Prüfungsteil wird als zusammengefasste Bewertung
+das arithmetische Mittel aus den Prüfungsleistungen nach Absatz 2
+berechnet.
 
 
 ## Teil 3 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für Finanzberatung
 
 
-### § 8 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+### § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+schriftlichen Prüfungsleistungen und in der mündlichen Teilprüfung
+mindestens 50 Punkte erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, ist die zusammengefasste Bewertung der
+schriftlichen Prüfung auf eine ganze Zahl zu runden.
+
+(3) Den Bewertungen für die Prüfungsteile „schriftliche Prüfung“ und
+„mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus der Summe aller schriftlichen
+Prüfungsleistungen und der mündlichen Teilprüfung zu berechnen. Die
+Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der
+gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl
+und die Note in Worten zuzuordnen. Die zugeordnete Note ist die
+Gesamtnote.
+
+
+### § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+### § 10 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Fachwirt für Finanzberatung und zur Geprüften Fachwirtin für
@@ -429,7 +473,7 @@ Fortbildungsabschluss „Geprüfter Fachwirt für Finanzberatung“ oder
 „Geprüfte Fachwirtin für Finanzberatung“.
 
 
-### § 9 Zulassungsvoraussetzungen
+### § 11 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -465,7 +509,7 @@ Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu
 haben, die die Zulassung zur Prüfung rechtfertigen.
 
 
-### § 10 Gliederung und Durchführung der Prüfung
+### § 12 Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -538,31 +582,30 @@ Bearbeitungsdauer beträgt für
 durchgeführt. Diese beinhaltet ein fallbezogenes Beratungsgespräch
 sowie eine Präsentation einschließlich Fachgespräch. Das fallbezogene
 Beratungsgespräch bezieht sich auf die Handlungsbereiche nach Absatz 3
-Nummer 2 bis 4 (Prüfungsteil A). Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin wählt aus drei vorgegebenen Fallsituationen eine
-aus. Es soll nachgewiesen werden, dass eine komplexe Problemstellung
-der Beratungspraxis erfasst, dargestellt, beurteilt und gelöst werden
-kann. Insbesondere soll dabei nachgewiesen werden, dass in der
-Beratungssituation fachlich kompetent und kundenorientiert beraten
-werden kann. Die Vorbereitungszeit für das fallbezogene
-Beratungsgespräch soll 30 Minuten betragen. Das fallbezogene
-Beratungsgespräch soll 20 Minuten dauern. Anhand der Präsentation soll
-nachgewiesen werden, dass eine komplexe Problemstellung der
-betrieblichen Praxis erfasst, dargestellt, beurteilt und gelöst werden
-kann. Die Themenstellung muss sich mindestens auf einen frei wählbaren
-Handlungsbereich nach Absatz 4 Nummer 3 bis 5 sowie auf den
-Handlungsbereich „Vertriebsplanung und -steuerung“ beziehen, wobei
-Bezüge zu den Handlungsbereichen des Prüfungsteils A zu
-berücksichtigen sind. Die Dauer der Präsentation soll zehn Minuten
-nicht überschreiten. Das Thema der Präsentation wird von dem
-Prüfungsteilnehmer oder der Prüfungsteilnehmerin bestimmt und mit
-einer Kurzbeschreibung der Problemstellung, mit Nennung des Ziels und
-einer groben Gliederung dem Prüfungsausschuss zum Termin der ersten
-schriftlichen Prüfungsleistung des Prüfungsteils B eingereicht. Im
-Fachgespräch soll ausgehend von der Präsentation nachgewiesen werden,
-dass insbesondere im gewählten Handlungsbereich Wissen angewendet
-sowie Lösungen vorgeschlagen und begründet werden können. Das
-Fachgespräch soll nicht länger als 20 Minuten dauern.
+Nummer 2 bis 4 (Prüfungsteil A). Die zu prüfende Person wählt aus drei
+vorgegebenen Fallsituationen eine aus. Es soll nachgewiesen werden,
+dass eine komplexe Problemstellung der Beratungspraxis erfasst,
+dargestellt, beurteilt und gelöst werden kann. Insbesondere soll dabei
+nachgewiesen werden, dass in der Beratungssituation fachlich kompetent
+und kundenorientiert beraten werden kann. Die Vorbereitungszeit für
+das fallbezogene Beratungsgespräch soll 30 Minuten betragen. Das
+fallbezogene Beratungsgespräch soll 20 Minuten dauern. Anhand der
+Präsentation soll nachgewiesen werden, dass eine komplexe
+Problemstellung der betrieblichen Praxis erfasst, dargestellt,
+beurteilt und gelöst werden kann. Die Themenstellung muss sich
+mindestens auf einen frei wählbaren Handlungsbereich nach Absatz 4
+Nummer 3 bis 5 sowie auf den Handlungsbereich „Vertriebsplanung und
+-steuerung“ beziehen, wobei Bezüge zu den Handlungsbereichen des
+Prüfungsteils A zu berücksichtigen sind. Die Dauer der Präsentation
+soll zehn Minuten nicht überschreiten. Das Thema der Präsentation wird
+von der zu prüfenden Person bestimmt und mit einer Kurzbeschreibung
+der Problemstellung, mit Nennung des Ziels und einer groben Gliederung
+dem Prüfungsausschuss zum Termin der ersten schriftlichen
+Prüfungsleistung des Prüfungsteils B eingereicht. Im Fachgespräch soll
+ausgehend von der Präsentation nachgewiesen werden, dass insbesondere
+im gewählten Handlungsbereich Wissen angewendet sowie Lösungen
+vorgeschlagen und begründet werden können. Das Fachgespräch soll nicht
+länger als 20 Minuten dauern.
 
 (7) Wurden je Prüfungsteil in nicht mehr als einer schriftlichen
 Prüfungsleistung mangelhafte Leistungen erbracht, ist zu der jeweils
@@ -576,7 +619,7 @@ zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
 
-### § 11 Inhalte im Prüfungsteil A (Privatkunden)
+### § 13 Inhalte im Prüfungsteil A (Privatkunden)
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen
 Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden,
@@ -690,7 +733,7 @@ Qualifikationsinhalte geprüft werden:
 
 
 
-### § 12 Inhalte im Prüfungsteil B (Geschäftskunden)
+### § 14 Inhalte im Prüfungsteil B (Geschäftskunden)
 
 (1) Im Handlungsbereich „Unternehmens- und Personalführung“ sollen die
 Kompetenzen nachgewiesen werden, Unternehmensstrategien auszugestalten
@@ -828,71 +871,110 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 
-### § 13 Anrechnung anderer Prüfungsleistungen
+### § 15 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-### § 14 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in allen schriftlichen
-Prüfungsleistungen nach § 10 Absatz 5 und im fallbezogenen
-Beratungsgespräch sowie in der Präsentation mit anschließendem
-Fachgespräch nach § 10 Absatz 6 mindestens ausreichende Leistungen
-erbracht wurden.
-
-(2) Für den Prüfungsteil A werden die schriftlichen Prüfungsleistungen
-nach § 10 Absatz 5 sowie die mündliche Prüfung in Form eines
-fallbezogenen Beratungsgesprächs nach § 10 Absatz 6 getrennt nach
-Punkten bewertet und gleichgewichtig zu einer Note zusammengefasst.
-Für den Prüfungsteil B werden die schriftlichen Prüfungsleistungen
-nach § 10 Absatz 5 sowie die mündliche Prüfung (Präsentation und
-Fachgespräch) getrennt nach Punkten bewertet und gleichgewichtig zu
-einer Note zusammengefasst. Innerhalb dieser mündlichen Prüfung ist
-das Fachgespräch doppelt zu gewichten. Die Prüfungsleistungen sind
-nach Punkten zu bewerten und auszuweisen. Die Gesamtnote der Prüfung
-ergibt sich aus dem arithmetischen Mittel der Summe der
-Punktebewertungen.
-
-(3) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 3 und 4 auszustellen. Im Fall der Freistellung nach § 13 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§
+16 und 17 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 16 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder §
+17 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-### § 15 Ausbildereignung
+## Teil 4 - Gemeinsame Schlussvorschriften
+
+
+### § 16 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Für den Prüfungsteil A sind die schriftlichen Teilprüfungen nach §
+12 Absatz 5 sowie als mündliche Teilprüfung das fallbezogene
+Beratungsgespräch nach § 12 Absatz 6 einzeln zu bewerten. Aus den
+mündlichen und schriftlichen Teilleistungen wird als zusammengefasste
+Bewertung des Prüfungsteils A das arithmetische Mittel berechnet.
+
+(3) Für den Prüfungsteil B sind die schriftlichen Teilprüfungen nach §
+12 Absatz 5 sowie als mündliche Teilprüfung die Präsentation und das
+Fachgespräch nach § 12 Absatz 6 einzeln zu bewerten. Innerhalb der
+mündlichen Bewertung ist das Fachgespräch doppelt zu gewichten. Aus
+den mündlichen und schriftlichen Teilleistungen wird als
+zusammengefasste Bewertung des Prüfungsteils B das arithmetische
+Mittel berechnet.
+
+
+### § 17 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+schriftlichen und mündlichen Teilprüfungen mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, sind die Bewertungen aller
+Prüfungsleistungen auszuweisen.
+
+(3) Die Bewertungen für den Prüfungsteil A und den Prüfungsteil B sind
+kaufmännisch zu runden. Ihnen wird nach Anlage 1 die jeweilige Note
+als Dezimalzahl zugeordnet.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aller Bewertungen zu berechnen. Die
+Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten
+Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die
+Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
+
+
+### § 18 Zeugnisse
+
+(1) Wer die Prüfung nach § 17 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 3 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 15 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+### § 19 Ausbildereignung
 
 Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil
 der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-
 Eignungsverordnung befreit.
 
 
-## Teil 4 - Gemeinsame Schlussvorschriften
-
-
-### § 16 Wiederholung der Prüfung
+### § 20 Wiederholung der Prüfung
 
 (1) Jede nicht bestandene Prüfung und jeder nicht bestandene
 Prüfungsteil kann zweimal wiederholt werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-### § 17 Übergangsvorschriften
+### § 21 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachberater für
 Finanzdienstleistungen (IHK) und zur Fachberaterin für
@@ -913,449 +995,452 @@ Verordnung durchführen; § 16 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
 
-### § 18 Inkrafttreten
+### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
+(zu den §§ 7, 8, 16 und 17)
 
-### Anlage 1 (zu § 7 Absatz 4) Muster
+### Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 281)
-
-
-*    *   .........................................
+(Fundstelle: BGBl. I 2019, 2357 – 2358)
 
 
-*    *   (Bezeichnung der zuständigen Stelle)
+*    *   Punkte
 
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) bestanden.
-
-
-*    *   Datum ................................................................
-        ........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-### Anlage 2 (zu § 7 Absatz 4) Muster
-
-(Fundstelle: BGBl. I 2012, 282)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-
-*    *   Herr/Frau ............................................................
-        ..................
-
-
-*    *   geboren am ......................................
-
-    *   in ...................................................
-
-
-*    *   hat am ..............................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
-
-
-*    *   Gesamtnote: ..............................
-
-    *
-    *
-    *
-
-*    *
-    *
-    *[^f1775540_01_BJNR027400012BJNE002100000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
 
-
-*    *   Schriftlicher Teil
-
-    *   ..........
-
-    *
-    *   ...........
-
-
-*    *   1.
-
-    *   Organisation und Steuerung der eigenen Vertriebsaktivitäten
-
-    *   ..........
-
-    *
-    *
-
-*    *   2.
-
-    *   Privatkundenberatung zu Geld- und Vermögensanlagen
-
-    *   ..........
-
-    *
-    *
-
-*    *   3.
-
-    *   Privatkundenberatung zu Immobilien und Finanzierungen
-
-    *   ..........
-
-    *
-    *
-
-*    *   4.
-
-    *   Privatkundenberatung zur Absicherung von Personen-, Sach- und
-        Vermögensrisiken
-
-    *   ..........
-
-    *
-    *
-
-*    *
-    *
-    *   Punkte
-
-    *
     *   Note
+        in Worten
 
+    *   Definition
 
-*    *   Mündlicher Teil
 
-    *
-    *
-    *
+*    *   100
 
-*    *   Fallbezogenes Beratungsgespräch
+    *   1,0
 
-    *   ............
+    *   sehr gut
 
-    *
-    *   ...........
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 6 im Hinblick auf die am  ...................
-        in ..................................
-        vor .....................................
-        abgelegte Prüfung vom Prüfungsbestandteil
-        .................................................
-        freigestellt.“)
+*    *   98 und 99
 
+    *   1,1
 
 
+*    *   96 und 97
 
-*    *   Datum ................................................................
-        .......
+    *   1,2
 
 
-*    *   Unterschrift(en)
-        ........................................................
+*    *   94 und 95
 
+    *   1,3
 
-*    *   (Siegel der zuständigen Stelle)
 
+*    *   92 und 93
 
+    *   1,4
 
-[^f1775540_01_BJNR027400012BJNE002100000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
 
+*    *   91
 
-### Anlage 3 (zu § 14 Absatz 3) Muster
+    *   1,5
 
-(Fundstelle: BGBl. I 2012, 283)
+    *   gut
 
+    *   eine Leistung, die den Anforderungen voll entspricht
 
-*    *   .........................................
 
+*    *   90
 
-*    *   (Bezeichnung der zuständigen Stelle)
+    *   1,6
 
 
+*    *   89
 
-## Zeugnis
+    *   1,7
 
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
 
+*    *   88
 
-*    *   Herr/Frau ...........................
+    *   1,8
 
 
-*    *   geboren am .........................
+*    *   87
 
-    *   in .......................
+    *   1,9
 
 
-*    *   hat am ............................
+*    *   85 und 86
 
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
+    *   2,0
 
 
+*    *   84
 
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
+    *   2,1
 
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) bestanden.
 
+*    *   83
 
-*    *   Datum ................................................................
-        ...........
+    *   2,2
 
 
-*    *   Unterschrift(en)
-        .............................................................
+*    *   82
 
+    *   2,3
 
-*    *   (Siegel der zuständigen Stelle)
 
+*    *   81
 
+    *   2,4
 
 
-### Anlage 4 (zu § 14 Absatz 3) Muster
+*    *   79 und 80
 
-(Fundstelle: BGBl. I 2012, 284 - 285)
+    *   2,5
 
+    *   befriedigend
 
-*    *   ......................................................................
-        .........
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
 
 
-*    *   (Bezeichnung der zuständigen Stelle)
+*    *   78
 
+    *   2,6
 
 
-## Zeugnis
+*    *   77
 
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
+    *   2,7
 
 
-*    *   Herr/Frau ............................................................
-        ..................
+*    *   75 und 76
 
+    *   2,8
 
-*    *   geboren am ...........................................
 
-    *   in ...................................
+*    *   74
 
+    *   2,9
 
-*    *   hat am ...................................................
 
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
+*    *   72 und 73
 
+    *   3,0
 
 
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
+*    *   71
 
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
+    *   3,1
 
 
-*    *   Gesamtnote: ..............................
+*    *   70
 
-    *
-    *
-    *
+    *   3,2
 
-*    *
-    *
-    *[^f1775540_01_BJNR027400012BJNE002300000]
-   Punkte
 
-    *
-    *   Note
+*    *   68 und 69
 
+    *   3,3
 
-*    *   Teil A (Privatkunden)
 
-    *   ..........
+*    *   67
 
-    *
-    *   ...........
+    *   3,4
 
 
-*    *   1.
+*    *   65 und 66
 
-    *   Organisation und Steuerung der eigenen Vertriebsaktivitäten
+    *   3,5
 
-    *   ..........
+    *   ausreichend
 
-    *
-    *
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
 
-*    *   2.
 
-    *   Privatkundenberatung zu Geld- und Vermögensanlagen
+*    *   63 und 64
 
-    *   ..........
+    *   3,6
 
-    *
-    *
 
-*    *   3.
+*    *   62
 
-    *   Privatkundenberatung zu Immobilien und Finanzierungen
+    *   3,7
 
-    *   ..........
 
-    *
-    *
+*    *   60 und 61
 
-*    *   4.
+    *   3,8
 
-    *   Privatkundenberatung zur Absicherung von Personen-, Sach- und
-        Vermögensrisiken
 
-    *   ..........
+*    *   58 und 59
 
-    *
-    *
+    *   3,9
 
-*    *   Fallbezogenes Beratungsgespräch
 
-    *   ..........
+*    *   56 und 57
 
-    *
-    *
+    *   4,0
 
-*    *
-    *
-    *   Punkte
 
-    *
-    *   Note
+*    *   55
 
+    *   4,1
 
-*    *   Teil B (Geschäftskunden)
 
-    *   ............
+*    *   53 und 54
 
-    *
-    *   ...........
+    *   4,2
 
 
-*    *   Unternehmens- und Personalführung, Vertriebsplanung und -steuerung
+*    *   51 und 52
 
-    *   ............
+    *   4,3
 
-    *
-    *
 
-*    *   Beratung zur Unternehmensfinanzierung
+*    *   50
 
-    *   ............
+    *   4,4
 
-    *
-    *
 
-*    *   Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen,
-        Beratung zur betrieblichen Altersversorgung
+*    *   48 und 49
 
-    *   ............
+    *   4,5
 
-    *
-    *
+    *   mangelhaft
 
-*    *   Präsentation und Fachgespräch
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
 
-    *   ............
 
-    *
-    *
+*    *   46 und 47
 
-*    *   (Im Fall des § 13: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 13 im Hinblick auf die am  .......
-        in ..................................
-        vor .....................................
-        abgelegte Prüfung
-        ..........................................................
-        freigestellt.“)
+    *   4,6
 
 
+*    *   44 und 45
 
+    *   4,7
 
-*    *   Datum ................................................................
-        .......
 
+*    *   42 und 43
 
-*    *   Unterschrift(en)
-        .........................................................
+    *   4,8
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   40 und 41
 
+    *   4,9
 
 
-[^f1775540_01_BJNR027400012BJNE002300000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+### Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2358)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 2 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  die Benennung, das nach § 7 Absatz 3 errechnete arithmetische Mittel
+    und die Note des schriftlichen Teils sowie die Benennung und die
+    jeweilige Bewertung der Handlungsbereiche nach § 4 Absatz 2,
+
+
+2.  die Benennung, die Bewertung und die Note des mündlichen Teils sowie
+    die Angabe, dass die Prüfung ein fallbezogenes Beratungsgespräch ist,
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6.
+
+
+
+
+(zu § 18)
+
+### Anlage 3 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2359)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 10 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zu Teil A der Prüfung:
+
+    a)  die Benennung, das nach § 16 Absatz 2 Satz 1 errechnete arithmetische
+        Mittel und die Note,
+
+
+    b)  die Benennung und die jeweilige Bewertung der vier Handlungsbereiche
+        nach § 12 Absatz 3,
+
+
+    c)  die Benennung und die Bewertung des fallbezogenen Beratungsgesprächs,
+
+
+
+
+
+2.  zu Teil B der Prüfung:
+
+    a)  die Benennung, das nach § 16 Absatz 3 Satz 2 errechnete arithmetische
+        Mittel und die Note,
+
+
+    b)  die Benennung und die jeweilige Bewertung der drei Handlungsbereiche
+        nach § 12 Absatz 4,
+
+
+    c)  die Benennung und die Bewertung der Präsentation und des
+        Fachgesprächs,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 15,
+
+
+7.  Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach
+    der Ausbilder-Eignungsverordnung nach § 19.
+
+
+
 

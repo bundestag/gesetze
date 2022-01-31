@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1720, 1724
 
-Geändert durch
-:   Art. 16 G v. 17.7.2009 I 1990
+Zuletzt geändert durch
+:   Art. 2 G v. 21.12.2015 I 2408
 
 
 
@@ -39,8 +39,8 @@ und Jugendlichenpsychotherapeutinnen und Kinder- und
 Jugendlichenpsychotherapeuten der Zahlungspflichtigen oder dem
 Zahlungspflichtigen nutzungsbezogene Zuschläge berechnen.
 
-(2) Die Zuschläge dienen der Finanzierung der in § 291a Abs. 7 Satz 4
-Nummer 1 und 2 des Fünften Buches Sozialgesetzbuch genannten Kosten.
+(2) Die Zuschläge dienen der Finanzierung der in § 291a Absatz 7 Satz
+5 Nummer 1 und 2 des Fünften Buches Sozialgesetzbuch genannten Kosten.
 Ihre Höhe darf die nach § 291a Abs. 7b, 7d und 7e des Fünften Buches
 Sozialgesetzbuch vereinbarten oder festgelegten Zuschläge nicht
 überschreiten.

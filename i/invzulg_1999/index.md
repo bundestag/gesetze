@@ -731,7 +731,7 @@ dem 31. Dezember 1999 endende Wirtschaftsjahre beantragt werden.
 (8) § 6 Abs. 2 Satz 4 in der Fassung des Gesetzes vom 15. Dezember
 2003 (BGBl. I S. 2645) ist bei Investitionen anzuwenden, die nach dem
 31\. Dezember 2003 begonnen worden sind. Für Investitionen, auf die der
-multisektorale Regionalbeihilferahmen  vom 13. Februar 2002 anzuwenden
+multisektorale Regionalbeihilferahmen vom 13. Februar 2002 anzuwenden
 ist, ist § 2 Abs. 6 und 7 nur insoweit anzuwenden, als der jeweils
 beihilferechtlich geltende Regionalförderhöchstsatz durch die
 Gewährung von Investitionszulagen nicht überschritten wird.

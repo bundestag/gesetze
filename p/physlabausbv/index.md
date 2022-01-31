@@ -485,8 +485,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Physiklaboranten/zur Physiklaborantin
 
 (Fundstelle: BGBl. I 1996, 161 - 168)
 

@@ -92,8 +92,10 @@ f)  in Artikel II § 5 Nr. 1 der § 68 Abs. 1.
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
+(BGBl. II 1990, 889, 1047)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1047) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

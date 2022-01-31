@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1765
 
 Zuletzt geändert durch
-:   Art. Art. 5 G v. 17.3.2008 I 399
+:   Art. 8 G v. 28.7.2015 I 1400
 
 
 ## § 1 Zweck, Umfang
@@ -263,15 +263,22 @@ sind die Inhaber oder Leiter der Unternehmen oder Einrichtungen zur
 Ausübung einer freiberuflichen Tätigkeit. Die Auskunftserteilung zu
 den Angaben nach § 4 Nr. 2 ist freiwillig.
 
-(2) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g
-Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom  19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von
-Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden
-Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze zusammen
-mit Einnahmen aus selbständiger Arbeit in Höhe von weniger als 500.000
-Euro erwirtschaftet hat.
+(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine
+Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
+keine Auskunftspflicht, wenn das Unternehmen im letzten
+abgeschlossenen Geschäftsjahr Umsätze zusammen mit Einnahmen aus
+selbständiger Arbeit in Höhe von weniger als 800 000 Euro
+erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von
+der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
 
 
 ## § 6 Übermittlungsregelung

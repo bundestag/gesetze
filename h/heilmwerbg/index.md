@@ -19,7 +19,13 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.10.2012 I 2192
+:   Art. 6 G v. 12.5.2021 I 1087
+
+Mittelbare änderung durch
+:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
@@ -29,7 +35,17 @@ Zuletzt geändert durch
 1.  Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
 
 
-1a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
+1a. Medizinprodukte im Sinne von Artikel 2 Nummer 1 der Verordnung (EU)
+    2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017
+    über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der
+    Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und
+    zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl.
+    L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
+    27\.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L
+    130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils
+    geltenden Fassung und im Sinne des § 3 Nummer 4 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung,
 
 
 2.  andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich
@@ -43,13 +59,21 @@ Zuletzt geändert durch
 
 
 (2) Andere Mittel im Sinne des Absatzes 1 Nr. 2 sind kosmetische
-Mittel im Sinne des § 2 Absatz 5 Satz 1 des Lebensmittel- und
-Futtermittelgesetzbuches. Gegenstände im Sinne des Absatzes 1 Nr. 2
-sind auch Gegenstände zur Körperpflege im Sinne des § 2 Absatz 6
-Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
+Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung
+(EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30.
+November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S.
+59), die zuletzt durch die Verordnung (EU) 2015/1298 (ABl. L 199 vom
+29\.7.2015, S. 22) geändert worden ist. Gegenstände im Sinne des
+Absatzes 1 Nr. 2 sind auch Gegenstände zur Körperpflege im Sinne des §
+2 Absatz 6 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
 
 (3) Eine Werbung im Sinne dieses Gesetzes ist auch das Ankündigen oder
 Anbieten von Werbeaussagen, auf die dieses Gesetz Anwendung findet.
+
+(3a) Teleshopping im Sinne dieses Gesetzes ist die Sendung direkter
+Angebote an die Öffentlichkeit für den Absatz von Arzneimitteln gegen
+Entgelt oder die Erbringung von ärztlichen, zahnärztlichen und
+tierärztlichen Behandlungen und Verfahren gegen Entgelt.
 
 (4) Dieses Gesetz findet keine Anwendung auf die Werbung für
 Gegenstände zur Verhütung von Unfallschäden.
@@ -72,10 +96,11 @@ jeweiligen Arzneimittels notwendigen Angaben hinausgehen.
 (8) Das Gesetz findet ferner keine Anwendung auf die auf Anforderung
 einer Person erfolgende Übermittlung der nach den §§ 10 bis 11a des
 Arzneimittelgesetzes für Arzneimittel vorgeschriebenen vollständigen
-Informationen und des öffentlichen Beurteilungsberichts für
-Arzneimittel nach § 34 Absatz 1a Satz 1 Nummer 2 des
-Arzneimittelgesetzes und auf die Bereitstellung dieser Informationen
-im Internet.
+Informationen, des genehmigten und veröffentlichten Schulungsmaterials
+für Arzneimittel nach § 34 Absatz 1f des Arzneimittelgesetzes und des
+öffentlichen Beurteilungsberichts für Arzneimittel nach § 34 Absatz 1a
+Satz 1 Nummer 2 des Arzneimittelgesetzes und auf die Bereitstellung
+dieser Informationen im Internet.
 
 
 ## § 2
@@ -93,9 +118,11 @@ Ausübung ihres Berufes anwenden.
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt
 insbesondere dann vor,
 
-1.  wenn Arzneimitteln, Medizinprodukten, Verfahren, Behandlungen,
-    Gegenständen oder anderen Mitteln eine therapeutische Wirksamkeit oder
-    Wirkungen beigelegt werden, die sie nicht haben,
+1.  wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder anderen
+    Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt
+    werden, die sie nicht haben,
 
 
 2.  wenn fälschlich der Eindruck erweckt wird, daß
@@ -116,8 +143,10 @@ insbesondere dann vor,
 3.  wenn unwahre oder zur Täuschung geeignete Angaben
 
     a)  über die Zusammensetzung oder Beschaffenheit von Arzneimitteln,
-        Medizinprodukten, Gegenständen oder anderen Mitteln oder über die Art
-        und Weise der Verfahren oder Behandlungen oder
+        Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes
+        in der bis einschließlich 25. Mai 2021 geltenden Fassung, Gegenständen
+        oder anderen Mitteln oder über die Art und Weise der Verfahren oder
+        Behandlungen oder
 
 
     b)  über die Person, Vorbildung, Befähigung oder Erfolge des Herstellers,
@@ -281,6 +310,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
     geringem Wert, die durch eine dauerhafte und deutlich sichtbare
     Bezeichnung des Werbenden oder des beworbenen Produktes oder beider
     gekennzeichnet sind, oder um geringwertige Kleinigkeiten handelt;
+    Zuwendungen oder Werbegaben sind für Arzneimittel unzulässig, soweit
+    sie entgegen den Preisvorschriften gewährt werden, die auf Grund des
+    Arzneimittelgesetzes oder des Fünften Buches Sozialgesetzbuch gelten;
 
 
 2.  die Zuwendungen oder Werbegaben in
@@ -297,8 +329,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
     Zuwendungen oder Werbegaben nach Buchstabe a sind für Arzneimittel
     unzulässig, soweit sie entgegen den Preisvorschriften gewährt werden,
-    die aufgrund des Arzneimittelgesetzes gelten; Buchstabe b gilt nicht
-    für Arzneimittel, deren Abgabe den Apotheken vorbehalten ist;
+    die aufgrund des Arzneimittelgesetzes oder des Fünften Buches
+    Sozialgesetzbuch gelten; Buchstabe b gilt nicht für Arzneimittel,
+    deren Abgabe den Apotheken vorbehalten ist;
 
 
 3.  die Zuwendungen oder Werbegaben nur in handelsüblichem Zubehör zur
@@ -345,16 +378,17 @@ werben.
 
 ## § 8
 
-Unzulässig ist die Werbung, Arzneimittel im Wege des Teleshopping oder
-bestimmte Arzneimittel im Wege der Einzeleinfuhr nach § 73 Abs. 2 Nr.
-6a oder § 73 Abs. 3 des Arzneimittelgesetzes zu beziehen. Die
-Übersendung von Listen nicht zugelassener oder nicht registrierter
-Arzneimittel, deren Einfuhr aus einem anderen Mitgliedstaat oder aus
-einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum nur ausnahmsweise zulässig ist, an Apotheker oder
-Betreiber einer tierärztlichen Hausapotheke ist zulässig, soweit die
-Listen nur Informationen über die Bezeichnung, die Packungsgrößen, die
-Wirkstärke und den Preis dieses Arzneimittels enthalten.
+Das Teleshopping im Sinne des § 1 Absatz 3a sowie die Werbung für das
+Teleshopping sind unzulässig. Die Werbung für das Beziehen bestimmter
+Arzneimittel im Wege der Einzeleinfuhr nach § 73 Absatz 2 Nummer 6a
+oder Absatz 3 des Arzneimittelgesetzes ist unzulässig. Die Übersendung
+von Listen nicht zugelassener oder nicht registrierter Arzneimittel,
+deren Einfuhr aus einem anderen Mitgliedstaat oder aus einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nur
+ausnahmsweise zulässig ist, an Apotheker oder Betreiber einer
+tierärztlichen Hausapotheke ist zulässig, soweit die Listen nur
+Informationen über die Bezeichnung, die Packungsgrößen, die Wirkstärke
+und den Preis dieses Arzneimittels enthalten.
 
 
 ## § 9
@@ -362,7 +396,11 @@ Wirkstärke und den Preis dieses Arzneimittels enthalten.
 Unzulässig ist eine Werbung für die Erkennung oder Behandlung von
 Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden, die
 nicht auf eigener Wahrnehmung an dem zu behandelnden Menschen oder
-Tier beruht (Fernbehandlung).
+Tier beruht (Fernbehandlung).  Satz 1 ist nicht anzuwenden auf die
+Werbung für Fernbehandlungen, die unter Verwendung von
+Kommunikationsmedien erfolgen, wenn nach allgemein anerkannten
+fachlichen Standards ein persönlicher ärztlicher Kontakt mit dem zu
+behandelnden Menschen nicht erforderlich ist.
 
 
 ## § 10
@@ -375,7 +413,8 @@ Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die
 Schlaflosigkeit oder psychische Störungen zu beseitigen oder die
 Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht
-geworben werden.
+geworben werden. Dies gilt auch für Arzneimittel, die zur
+Notfallkontrazeption zugelassen sind.
 
 
 ## § 11
@@ -453,10 +492,19 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend.
-Ferner darf für die in § 1 Nummer 2 genannten operativen plastisch-
-chirurgischen Eingriffe nicht mit der Wirkung einer solchen Behandlung
-durch vergleichende Darstellung des Körperzustandes oder des Aussehens
-vor und nach dem Eingriff geworben werden.
+Ferner darf für die in § 1 Absatz 1 Nummer 2 genannten operativen
+plastisch-chirurgischen Eingriffe nicht wie folgt geworben werden:
+
+1.  mit der Wirkung einer solchen Behandlung durch vergleichende
+    Darstellung des Körperzustandes oder des Aussehens vor und nach dem
+    Eingriff oder
+
+
+2.  mit Werbemaßnahmen, die sich ausschließlich oder überwiegend an Kinder
+    und Jugendliche richten.
+
+
+
 
 (2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei
 Menschen nicht mit Angaben geworben werden, die nahe legen, dass die
@@ -466,20 +514,38 @@ anderen Behandlung entspricht oder überlegen ist.
 
 ## § 12
 
-(1) Außerhalb der Fachkreise darf sich die Werbung für Arzneimittel
-und Medizinprodukte nicht auf die Erkennung, Verhütung, Beseitigung
-oder Linderung der in Abschnitt A der Anlage zu diesem Gesetz
-aufgeführten Krankheiten oder Leiden bei Menschen beziehen, die
-Werbung für Arzneimittel außerdem nicht auf die Erkennung, Verhütung,
-Beseitigung oder Linderung der in Abschnitt B dieser Anlage
-aufgeführten Krankheiten oder Leiden beim Tier. Abschnitt A Nr. 2 der
-Anlage findet keine Anwendung auf die Werbung für Medizinprodukte.
+(1) Außerhalb der Fachkreise darf sich
+
+1.  die Werbung für Arzneimittel nicht beziehen auf die Erkennung,
+    Verhütung, Beseitigung oder Linderung der
+
+    a)  in Abschnitt A der Anlage aufgeführten Krankheiten oder Leiden bei
+        Menschen,
+
+
+    b)  in Abschnitt B der Anlage aufgeführten Krankheiten oder Leiden bei
+        Tieren,
+
+
+
+
+
+2.  die Werbung für Medizinprodukte nicht beziehen auf die Erkennung,
+    Verhütung, Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3
+    und 4 der Anlage aufgeführten Krankheiten oder Leiden bei Menschen.
+
+
+
+Satz 1 Nummer 2 gilt nicht für die Werbung für In-vitro-Diagnostika
+gemäß Anlage 3 zu § 3 Absatz 4 der Medizinprodukte-Abgabeverordnung,
+die sich auf die Erkennung der in Abschnitt A Nummer 1 der Anlage
+aufgeführten Krankheiten oder Leiden bei Menschen beziehen.
 
 (2) Die Werbung für andere Mittel, Verfahren, Behandlungen oder
 Gegenstände außerhalb der Fachkreise darf sich nicht auf die
-Erkennung, Beseitigung oder Linderung dieser Krankheiten oder Leiden
-beziehen. Dies gilt nicht für die Werbung für Verfahren oder
-Behandlungen in Heilbädern, Kurorten und Kuranstalten.
+Erkennung, Beseitigung oder Linderung der in der Anlage aufgeführten
+Krankheiten oder Leiden beziehen. Dies gilt nicht für die Werbung für
+Verfahren oder Behandlungen in Heilbädern, Kurorten und Kuranstalten.
 
 
 ## § 13
@@ -527,7 +593,8 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
     sonstige Werbegabe annimmt,
 
 
-5.  entgegen § 8 eine dort genannte Werbung betreibt,
+5.  entgegen § 8 Satz 1 oder Satz 2 Teleshopping oder eine dort genannte
+    Werbung betreibt,
 
 
 6.  entgegen § 9 für eine Fernbehandlung wirbt,
@@ -573,8 +640,9 @@ Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
 (weggefallen)
 
+(zu § 12)
 
-## Anlage (zu § 12) Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
+## Anlage Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2599
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1626
 
+Geändert durch
+:   Art. 1 V v. 31.8.2016 I 2138
+
 
 
 ## Eingangsformel
@@ -245,12 +248,13 @@ Kundenkommunikation, Planen und Organisieren der Arbeit, Bewerten der
 Arbeitsergebnisse, Eisenbahnbetrieb sowie logistische Prozesse und
 Qualitätsmanagement zu berücksichtigen.
 
-(3) Die Prüflinge sollen im Prüfungsbereich Arbeitsaufträge im
-Stellwerk in höchstens 60 Minuten Arbeitsaufträge im
-Fahrdienstleiterstellwerk durchführen und mit aufgabenspezifischen
-Unterlagen dokumentieren sowie begleitende situative
-Fachgesprächsphasen von insgesamt höchstens 10 Minuten führen. Dabei
-sollen die Prüflinge zeigen, dass sie
+(3) Die Prüflinge sollen im Prüfungsbereich Arbeitsaufträge nach
+vorgegebenen betrieblichen Situationen Arbeitsaufträge im
+Fahrdienstleiterstellwerk oder mittels Simulation in höchstens 60
+Minuten durchführen und mit aufgabenspezifischen Unterlagen
+dokumentieren sowie begleitende situative Fachgesprächsphasen von
+insgesamt höchstens 10 Minuten führen. Dabei sollen die Prüflinge
+zeigen, dass sie
 
 1.  Arbeitsaufträge entgegennehmen und beurteilen, Informationen
     beschaffen, technische und organisatorische Schnittstellen beachten,
@@ -269,7 +273,9 @@ sollen die Prüflinge zeigen, dass sie
 
 
 können. Insbesondere sollen die Prüflinge dabei zeigen, dass sie die
-Betriebssicherheit berücksichtigen.
+Betriebssicherheit berücksichtigen können. Bei der Aufgabenstellung
+ist die Stellwerkstechnik zu berücksichtigen, an der der jeweilige
+Prüfling ausgebildet wurde.
 
 (4) Die Prüflinge sollen im Prüfungsbereich Betriebsdienst in
 höchstens 120 Minuten nach vorgegebenen betrieblichen Situationen
@@ -544,8 +550,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
 
 (Fundstelle: BGBl. I 2004, 1630 - 1637)
 

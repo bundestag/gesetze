@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 4013, 4019
 
 Geändert durch
-:   Art. 1 G v. 7.12.2007 I 2807
+:   Art. 12 G v. 20.8.2021 I 3932
 
 
 ## Abschnitt 1 - Dienstrecht

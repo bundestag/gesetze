@@ -240,11 +240,6 @@ zufließen.
 
 ## § 9
 
-(weggefallen)
-
-
-## § 9
-
 Dieses Gesetz ist letztmals für das Kalenderjahr 1995 anzuwenden. Beim
 Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß das
 Gesetz letztmals auf den laufenden Arbeitslohn anzuwenden ist, der für

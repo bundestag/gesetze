@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2174
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 70 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 26.6.2018 I 872
 
 [^f772432_01_BJNR217400009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2009/28/EG des
     Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
@@ -55,9 +55,7 @@ Es verordnen auf Grund
 ### § 1 Anwendungsbereich
 
 Diese Verordnung gilt für flüssige Biomasse, die nach dem Erneuerbare-
-Energien-Gesetz zur Erzeugung von Strom eingesetzt wird, mit Ausnahme
-von flüssiger Biomasse, die nur zur Anfahr-, Zünd- oder Stützfeuerung
-eingesetzt wird.
+Energien-Gesetz zur Erzeugung von Strom eingesetzt wird.
 
 
 ### § 2 Begriffsbestimmungen
@@ -77,44 +75,32 @@ Stromerzeugung erforderlich ist.
 
 (3) Schnittstellen im Sinne dieser Verordnung sind
 
-1.  die Betriebe und Betriebsstätten (Betriebe), die die Biomasse, die für
-    die Herstellung der flüssigen Biomasse erforderlich ist, erstmals von
-    den Betrieben, die diese Biomasse anbauen und ernten, zum Zweck des
-    Weiterhandelns aufnehmen,
+1.  Betriebe und Betriebsstätten (Betriebe), die die für die Herstellung
+    von flüssiger Biomasse erforderliche Biomasse zum Zweck des
+    Weiterhandelns erstmals aufnehmen
+
+    a)  von den Betrieben, die diese Biomasse anbauen und ernten, oder
 
 
-2.  Ölmühlen und
-
-
-3.  Raffinerien sowie sonstige Betriebe zur Aufbereitung der flüssigen
-    Biomasse auf die Qualitätsstufe, die für den Einsatz in Anlagen zur
-    Stromerzeugung erforderlich ist.
+    b)  im Fall von Abfällen und Reststoffen von den Betrieben oder
+        Privathaushalten, bei denen die Abfälle und Reststoffe anfallen,
 
 
 
 
-(4) Umweltgutachterinnen und Umweltgutachter im Sinne dieser
-Verordnung sind
 
-1.  Personen oder Organisationen, die nach dem Umweltauditgesetz in der
-    Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490),
-    das zuletzt durch Artikel 11 des Gesetzes vom 17. März 2008 (BGBl. I
-    S. 399) geändert worden ist, in der jeweils geltenden Fassung für den
-    Bereich Land- oder Forstwirtschaft als Umweltgutachterin,
-    Umweltgutachter oder Umweltgutachterorganisation tätig werden dürfen,
-    und
+2.  Ölmühlen und Fettaufbereitungsanlagen sowie
 
 
-2.  sonstige Umweltgutachterinnen, Umweltgutachter und
-    Umweltgutachterorganisationen, sofern sie in einem anderen
-    Mitgliedstaat der Europäischen Union oder in einem anderen
-    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum für
-    den Bereich Land- oder Forstwirtschaft oder einen vergleichbaren
-    Bereich zugelassen sind, nach Maßgabe des § 18 des
-    Umweltauditgesetzes.
+3.  Betriebe, die flüssige Biomasse so aufbereiten, dass die für den
+    Einsatz in Anlagen zur Stromerzeugung erforderliche Qualitätsstufe
+    erreicht wird.
 
 
 
+
+(4) Letzte Schnittstelle ist die Schnittstelle, nach der keine weitere
+Konversion stattfindet.
 
 (5) Zertifikate im Sinne dieser Verordnung sind
 Konformitätsbescheinigungen darüber, dass Schnittstellen
@@ -143,15 +129,124 @@ und insbesondere Standards zur näheren Bestimmung der Anforderungen
 nach dieser Verordnung, zum Nachweis ihrer Erfüllung sowie zur
 Kontrolle dieses Nachweises enthalten.
 
+(8) Abfälle im Sinne dieser Verordnung sind Stoffe oder Gegenstände
+gemäß § 3 Absatz 1 des Kreislaufwirtschaftsgesetzes. Für die Zwecke
+dieser Verordnung gelten Stoffe und Gegenstände nicht als Abfälle, die
+
+1.  absichtlich erzeugt, verändert oder kontaminiert wurden, um in den
+    Anwendungsbereich dieser Verordnung zu fallen; im Widerspruch zur
+    Pflicht zur Abfallvermeidung nach § 5 Absatz 1 Satz 1 Nummer 3 des
+    Bundes-Immissionsschutzgesetzes oder § 6 Absatz 1 Nummer 1 und Absatz
+    2 des Kreislaufwirtschaftsgesetzes erzeugt worden sind,
+
+
+2.  nur deshalb Abfälle sind, weil
+
+    a)  sie gemäß § 37b Absatz 1 bis 7 des Bundes-Immissionsschutzgesetzes
+        keine Biokraftstoffe sind,
+
+
+    b)  sie gemäß § 37b Absatz 8 des Bundes-Immissionsschutzgesetzes nicht auf
+        die Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit
+        § 37a Absatz 3 und 4 des Bundes-Immissionsschutzgesetzes anrechenbar
+        sind oder
+
+
+    c)  sie nicht der Verordnung über die Beschaffenheit und die Auszeichnung
+        der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl.
+        I S. 1849), die zuletzt durch Artikel 1 der Verordnung vom 1. Dezember
+        2014 (BGBl. I S. 1890) geändert worden ist, entsprechen.
+
+
+
+
+
+
+Satz 2 ist auch für Gemische anzuwenden, die entsprechende Abfälle
+enthalten. Die Sätze 1 bis 3 sind für flüssige Biomasse, die aus im
+Ausland angefallenen Abfällen hergestellt wurde, entsprechend
+anzuwenden.
+
+(9) Reststoffe im Sinne dieser Verordnung sind
+
+1.  Rohglycerin,
+
+
+2.  Tallölpech,
+
+
+3.  Gülle und Stallmist,
+
+
+4.  Stroh oder
+
+
+5.  Altspeisefette und Altspeiseöle.
+
+
+
+Absatz 8 Satz 2 bis 4 ist entsprechend anzuwenden. Altspeisefette und
+Altspeiseöle im Sinne des Satzes 1 Nummer 5 sind pflanzliche Fette
+oder Öle, die zum Braten oder Frittieren von Speisen verwendet worden
+sind und deren Nutzung im üblichen Rahmen erfolgt ist. Die nach § 74
+Absatz 1 zuständige Behörde macht im Bundesanzeiger bekannt, welche
+Mengen oder Nutzungsdauern einer Nutzung im üblichen Rahmen im Sinne
+des Satzes 3 entsprechen.
+
+(10) Reststoffe aus der Verarbeitung im Sinne dieser Verordnung sind
+Stoffe, die keine Endprodukte sind, deren Herstellung durch den
+Produktionsprozess unmittelbar angestrebt wird; sie stellen nicht das
+primäre Ziel des Produktionsprozesses dar, und der Prozess wurde nicht
+absichtlich geändert, um sie zu produzieren.
+
+(11) Reststoffe aus Landwirtschaft, Aquakultur, Forst- oder
+Fischwirtschaft im Sinne dieser Verordnung sind Stoffe, die
+unmittelbar in der Landwirtschaft, Aquakultur, Forst- oder
+Fischwirtschaft entstanden sind; sie umfassen keine Reststoffe aus
+damit verbundenen Wirtschaftszweigen und keine Reststoffe aus der
+Verarbeitung.
+
+(12) Kulturflächen im Sinne dieser Verordnung sind
+
+1.  Flächen mit einjährigen Pflanzen und Pflanzen mit einem
+    Wachstumszyklus von unter einem Jahr, die für eine weitere Ernte
+    erneut gesät oder gepflanzt werden müssen; dazu gehören auch Flächen
+    mit mehrjährigen Pflanzen, die jährlich geerntet und bei der Ernte
+    zerstört werden, wie zum Beispiel Maniok, Yams und Zuckerrohr; Bananen
+    gelten als Pflanzen, die sich im Übergang zur Kategorie der
+    Dauerkulturen befinden,
+
+
+2.  Flächen, die weniger als fünf Jahre brachliegen, bevor sie erneut mit
+    einjährigen Pflanzen bebaut werden.
+
+
+
+Flächen mit Dauerkulturen, Waldflächen und Grünlandflächen sind keine
+Kulturflächen im Sinne dieser Verordnung.
+
+(13) Dauerkulturen sind mehrjährige Kulturpflanzen, deren Stiel
+normalerweise nicht jährlich geerntet wird. Darunter fallen zum
+Beispiel Niederwald mit Kurzumtrieb, Bananen und Ölpalmen.
+Dauergrünland im Sinne des Artikels 4 Buchstabe h der Verordnung (EU)
+Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17.
+Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber
+landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der
+Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr.
+637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl.
+L 347 vom 20.12.2013, S. 608), die zuletzt durch die Delegierte
+Verordnung (EU) 2017/1155 (ABl. L 167 vom 30.6.2017, S. 1) geändert
+worden ist, ist keine Dauerkultur im Sinne dieser Verordnung.
+
 
 ## Teil 2 - Nachhaltigkeitsanforderungen
 
 
 ### § 3 Anforderungen für die Vergütung
 
-(1) Für Strom aus flüssiger Biomasse besteht der Anspruch auf
-Vergütung nach § 27 Absatz 1 des Erneuerbare-Energien-Gesetzes nur,
-wenn
+(1) Für Strom aus flüssiger Biomasse besteht der Anspruch auf Zahlung
+nach den Bestimmungen für Strom aus Biomasse des Erneuerbare-Energien-
+Gesetzes in der für die Anlage jeweils anzuwendenden Fassung nur, wenn
 
 1.  die Anforderungen an
 
@@ -169,9 +264,14 @@ wenn
     nach § 8 aufweist und
 
 
-3.  die Betreiberin oder der Betreiber der Anlage, in der die flüssige
-    Biomasse zur Stromerzeugung eingesetzt wird, die Registrierung dieser
-    Anlage im Anlagenregister nach den §§ 61 bis 63 beantragt hat.
+3.  der Betreiber der Anlage, in der die flüssige Biomasse zur
+    Stromerzeugung eingesetzt wird, die zur Registrierung der Anlage
+    erforderlichen Angaben nach Maßgabe der Rechtsverordnung nach § 93 des
+    Erneuerbare-Energien-Gesetzes übermittelt hat; die Pflicht nach dem
+    ersten Halbsatz ist auch als erfüllt anzusehen, wenn der
+    Anlagenbetreiber die Registrierung der Anlage im Anlagenregister nach
+    den §§ 61 bis 63 der Biomassestrom-Nachhaltigkeitsverordnung in der am
+    31\. Juli 2014 geltenden Fassung beantragt hat.
 
 
 
@@ -277,14 +377,16 @@ Eingriffe von Menschenhand
 
 
 
-Als Grünland mit großer biologischer Vielfalt gelten insbesondere
-Gebiete, die die Kommission der Europäischen Gemeinschaften auf Grund
-des Artikels 17 Absatz 3 Unterabsatz 2 der Richtlinie 2009/28/EG als
-solche festgelegt hat. Die von der Kommission zur Bestimmung von
-natürlichem oder künstlich geschaffenem Grünland auf Grund des
-Artikels 17 Absatz 3 Unterabsatz 2 der Richtlinie 2009/28/EG
-festgelegten Kriterien sind bei der Auslegung des Satzes 1 zu
-berücksichtigen.
+Im Übrigen ist die Verordnung (EU) Nr. 1307/2014 der Kommission vom 8.
+Dezember 2014 zur Festlegung der Kriterien und geografischen
+Verbreitungsgebiete zur Bestimmung von Grünland mit großer
+biologischer Vielfalt für die Zwecke des Artikels 7b Absatz 3
+Buchstabe c der Richtlinie 98/70/EG des Europäischen Parlaments und
+des Rates über die Qualität von Otto- und Dieselkraftstoffen und des
+Artikels 17 Absatz 3 Buchstabe c der Richtlinie 2009/28/EG des
+Europäischen Parlaments und des Rates zur Förderung der Nutzung von
+Energie aus erneuerbaren Quellen (ABl. L 351 vom 9.12.2014, S. 3) in
+der jeweils geltenden Fassung anzuwenden.
 
 
 ### § 5 Schutz von Flächen mit hohem Kohlenstoffbestand
@@ -366,86 +468,65 @@ Mitgliedstaat der Europäischen Union
 erfolgen.
 
 
-### § 8 Treibhausgas-Minderungspotenzial
+### § 8 Treibhausgasminderung
 
-(1) Die eingesetzte flüssige Biomasse muss ein Treibhausgas-
-Minderungspotenzial von mindestens 35 Prozent aufweisen. Dieser Wert
-erhöht sich
+(1) Bei der Verwendung flüssiger Biomasse, die ab dem 1. Januar 2018
+in Verkehr gebracht wird, muss die Minderung der
+Treibhausgasemissionen
 
-1.  am 1. Januar 2017 auf mindestens 50 Prozent und
-
-
-2.  am 1. Januar 2018 auf mindestens 60 Prozent, sofern die Schnittstelle
-    nach § 2 Absatz 3 Nummer 2 nach dem 31. Dezember 2016 in Betrieb
-    genommen worden ist.
+1.  mindestens 50 Prozent erzielen, sofern die letzte Schnittstelle, die
+    die flüssige Biomasse produziert hat, vor dem oder am 5. Oktober 2015
+    in Betrieb genommen worden ist, oder
 
 
+2.  mindestens 60 Prozent erzielen, sofern die letzte Schnittstelle, die
+    die flüssige Biomasse produziert hat, nach dem 5. Oktober 2015 in
+    Betrieb genommen worden ist.
 
 
-(2) Absatz 1 Satz 1 ist erst ab dem 1. April 2013 einzuhalten, sofern
-die Schnittstelle nach § 2 Absatz 3 Nummer 2 vor dem 23. Januar 2008
-in Betrieb genommen worden ist.
 
-(3) Die Berechnung des Treibhausgas-Minderungspotenzials erfolgt
-anhand tatsächlicher Werte nach der in Anlage 1 festgelegten Methode.
-Die tatsächlichen Werte der Treibhausgasemissionen sind anhand genau
-zu messender Daten zu bestimmen. Messungen von Daten werden als genau
-anerkannt, wenn sie insbesondere nach Maßgabe
+Für Anlagen, die nach dem 5. Oktober 2015 bis einschließlich 31.
+Dezember 2016 erstmals den Betrieb aufgenommen haben, ist die
+Anforderung nach Satz 1 Nummer 2 erst ab dem 29. Juni 2018 anzuwenden.
+Der Zeitpunkt der Inbetriebnahme der letzten Schnittstelle ist der
+Zeitpunkt der erstmaligen Produktion von flüssigen Biobrennstoffen.
+
+(2) Die Berechnung der durch die Verwendung von flüssiger Biomasse
+erzielten Minderungen der Treibhausgasemissionen erfolgt anhand
+tatsächlicher Werte nach der in Anlage 1 festgelegten Methodik. Die
+tatsächlichen Werte der Treibhausgasemissionen sind anhand genau zu
+messender Daten zu bestimmen. Messungen von Daten werden insbesondere
+dann als genau anerkannt, wenn sie nach einer der folgenden Maßgaben
+durchgeführt werden:
 
 1.  eines nach dieser Verordnung anerkannten Zertifizierungssystems oder
 
 
-2.  einer Regelung, die
+2.  eines Systems, das als Grundlage für die genaue Messung von Daten
+    anerkannt ist von
 
-    a)  die Kommission der Europäischen Gemeinschaften auf Grund des Artikels
-        18 Absatz 4 Unterabsatz 2 Satz 1 oder Unterabsatz 3 der Richtlinie
-        2009/28/EG oder
-
-
-    b)  die zuständige Behörde
+    a)  der Europäischen Kommission auf Grund des Artikels 18 Absatz 4
+        Unterabsatz 2 Satz 1 oder Unterabsatz 3 der Richtlinie 2009/28/EG oder
 
 
-
-    als Grundlage für die Messung genauer Daten anerkannt hat,
-
-
-
-durchgeführt werden. Die zuständige Behörde macht die Regelungen nach
-Satz 3 Nummer 2 durch gesondertes Schreiben im Bundesanzeiger bekannt.
-
-(4) Bei der Berechnung des Treibhausgas-Minderungspotenzials nach
-Absatz 3 können die in Anlage 2 aufgeführten Standardwerte ganz oder
-teilweise für die Formel in Anlage 1 Nummer 1 herangezogen werden.
-Satz 1 gilt für die Teilstandardwerte in Anlage 2 Nummer 1 Buchstabe a
-nur, wenn
-
-1.  die Biomasse
-
-    a)  außerhalb der Mitgliedstaaten der Europäischen Union oder
-
-
-    b)  in den Mitgliedstaaten der Europäischen Union in Gebieten, die in
-        einer Liste nach Artikel 19 Absatz 2 der Richtlinie 2009/28/EG
-        aufgeführt sind,
-
-
-
-    angebaut worden ist oder
-
-
-2.  die flüssige Biomasse aus Abfall oder aus Reststoffen hergestellt
-    worden ist, es sei denn, die Reststoffe stammen aus der Land- oder
-    Fischwirtschaft oder aus Aquakulturen.
+    b)  der zuständigen Behörde.
 
 
 
 
-(5) Sofern die Kommission der Europäischen Gemeinschaften den Anhang V
-Teil C oder D der Richtlinie 2009/28/EG auf Grund des Artikels 19
-Absatz 7 dieser Richtlinie an den technischen und wissenschaftlichen
-Fortschritt anpasst, sind die Änderungen auch bei der Berechnung des
-Treibhausgas-Minderungspotenzials nach den Absätzen 3 und 4
-anzuwenden.
+
+
+Die zuständige Behörde macht die Regelungen nach Satz 3 Nummer 2 im
+Bundesanzeiger bekannt.
+
+(3) Bei der Berechnung der durch die Verwendung von flüssiger Biomasse
+erzielten Minderungen von Treibhausgasemissionen nach Absatz 2 können
+die in Anlage 2 aufgeführten Standardwerte ganz oder teilweise für die
+Formel in Anlage 1 Nummer 1 herangezogen werden. Standardwerte gemäß
+Anlage 2 Nummer 1 können nur dann herangezogen werden, wenn der gemäß
+Anlage 1 Nummer 7 berechnete Wert der Jahresbasis umgerechneten
+Emissionen aus Kohlenstoffbestandsänderungen infolge von
+Landnutzungsänderungen kleiner oder gleich Null ist.
 
 
 ### § 9
@@ -459,7 +540,7 @@ Für Strom aus flüssiger Biomasse besteht der Anspruch auf den Bonus
 für nachwachsende Rohstoffe nach § 27 Absatz 4 Nummer 2 des
 Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden
 Fassung nur, wenn die Anforderungen nach den §§ 3 bis 8 erfüllt
-werden, wobei § 8 Absatz 2 nicht anzuwenden ist.
+werden.
 
 
 ## Teil 3 - Nachweis
@@ -470,33 +551,44 @@ werden, wobei § 8 Absatz 2 nicht anzuwenden ist.
 
 #### § 11 Nachweis über die Erfüllung der Anforderungen für die Vergütung
 
-Anlagenbetreiberinnen und Anlagenbetreiber müssen gegenüber dem
+(1) Anlagenbetreiberinnen und Anlagenbetreiber müssen gegenüber dem
 Netzbetreiber nachweisen, dass die Anforderungen für die Vergütung
-nach § 3 Absatz 1 erfüllt sind. Die Nachweisführung erfolgt
+nach § 3 Absatz 1 erfüllt sind. Die Nachweisführung erfolgt:
 
 1.  für § 3 Absatz 1 Nummer 1 und 2 in Verbindung mit den §§ 4 bis 8 durch
     die Vorlage eines Nachweises nach § 14 und
 
 
-2.  für § 3 Absatz 1 Nummer 3 in Verbindung mit den §§ 61 bis 63 durch die
-    Vorlage der Bescheinigung der zuständigen Behörde nach § 64 Absatz 4.
+2.  für § 3 Absatz 1 Nummer 3 durch die Vorlage einer Bestätigung der
+    zuständigen Behörde über die Registrierung der Anlage nach Maßgabe der
+    Marktstammdatenregisterverordnung vom 10. April 2017 (BGBl. I S. 842)
+    in der jeweils geltenden Fassung; im Fall des § 3 Absatz 1 Nummer 3
+    zweiter Halbsatz ist abweichend hiervon die Vorlage der Bescheinigung
+    der zuständigen Behörde nach § 64 Absatz 4 der Biomassestrom-
+    Nachhaltigkeitsverordnung in der am 31. Juli 2014 geltenden Fassung
+    ausreichend.
 
 
 
+
+(2) Nachweise beim Einsatz flüssiger Biomasse als Anfahr-, Zünd- und
+Stützfeuerung im Sinne von § 44c Absatz 1 des Erneuerbare-Energien-
+Gesetzes sind für den Vergütungszeitraum ab dem 1. Januar 2018
+vorzulegen.
 
 
 #### § 12 Weitere Nachweise
 
 Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1
-erfüllt sind, können für die Vergütung nach § 27 Absatz 1 des
-Erneuerbare-Energien-Gesetzes nicht verlangt werden. § 58 bleibt
-unberührt.
+erfüllt sind, können für die Zahlung nach den Bestimmungen für Strom
+aus Biomasse des Erneuerbare-Energien-Gesetzes in der für die Anlage
+jeweils anzuwendenden Fassung nicht verlangt werden.
 
 
 #### § 13 Übermittlung der Nachweise an die zuständige Behörde
 
 Anlagenbetreiberinnen und Anlagenbetreiber müssen Kopien der Nachweise
-nach § 11 Satz 2 Nummer 1, die sie dem Netzbetreiber für die
+nach § 11 Absatz 1 Satz 2 Nummer 1, die sie dem Netzbetreiber für die
 Nachweisführung vorlegen, unverzüglich auch an die zuständige Behörde
 schriftlich übermitteln. Den Kopien ist im Fall des § 27 Absatz 3
 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011
@@ -515,17 +607,15 @@ Anerkannte Nachweise über die Erfüllung der Anforderungen nach den §§
     ausgestellt worden sind,
 
 
-2.  Nachhaltigkeitsnachweise nach § 22,
+2.  Nachhaltigkeitsnachweise nach § 22 und
 
 
-3.  Nachhaltigkeitsnachweise nach § 23 und
-
-
-4.  Bescheinigungen von Umweltgutachterinnen und Umweltgutachtern nach §
-    59 Absatz 1.
+3.  Nachhaltigkeitsnachweise nach § 23.
 
 
 
+Die Ausstellung der Nachhaltigkeitsnachweise erfolgt in der Datenbank
+der zuständigen Behörde.
 
 
 #### § 15 Ausstellung von Nachhaltigkeitsnachweisen
@@ -550,14 +640,16 @@ haben, einen Nachhaltigkeitsnachweis ausstellen, wenn
         Herstellung der Biomasse erfüllt worden sind, und
 
 
-    c)  jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse (g CO
-        2eq                         /MJ) die Treibhausgasemissionen angeben,
-        die durch sie und alle von ihnen mit der Herstellung oder Lieferung
-        der Biomasse unmittelbar oder mittelbar befassten Betriebe, die nicht
-        selbst eine Schnittstelle sind, bei der Herstellung und Lieferung der
-        Biomasse verursacht worden sind, soweit sie für die Berechnung des
-        Treibhausgas-Minderungspotenzials nach § 8 berücksichtigt werden
-        müssen,
+    c)  die Treibhausgasemissionen angeben, die durch sie und alle von ihnen
+        mit der Herstellung und Lieferung der Biomasse unmittelbar oder
+        mittelbar befassten Betriebe, die nicht selbst eine Schnittstelle
+        sind, bei der Herstellung und Lieferung der Biomasse verursacht worden
+        sind, soweit diese Treibhausgasemissionen für die Berechnung der durch
+        die Verwendung von flüssiger Biomasse erzielten Treibhausgasminderung
+        nach § 8 berücksichtigt werden müssen; die Treibhausgasemissionen sind
+        jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse oder
+        flüssiger Biobrennstoff oder in Gramm Kohlendioxid-Äquivalent je
+        Kilogramm Biomasse anzugeben,
 
 
 
@@ -568,17 +660,14 @@ haben, einen Nachhaltigkeitsnachweis ausstellen, wenn
     Anforderungen nach § 16 erfüllt, und
 
 
-4.  die Biomasse das Treibhausgas-Minderungspotenzial nach § 8 aufweist.
+4.  die Biomasse die Mindestanforderungen an die Treibhausgasminderung
+    nach § 8 erfüllt.
 
 
 
 
-(2) Die Ausstellung muss in einem Zertifizierungssystem erfolgen, das
-nach dieser Verordnung anerkannt ist.
-
-(3) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur
-Schnittstellen berechtigt, denen keine weitere Schnittstelle
-nachgelagert ist.
+(2) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur letzte
+Schnittstellen berechtigt.
 
 
 #### § 16 Ausstellung auf Grund von Massenbilanzsystemen
@@ -607,11 +696,11 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
 2.  im Fall einer Vermischung verschiedener Mengen von
 
     a)  flüssiger Biomasse, für die bereits Nachhaltigkeitsnachweise
-        ausgestellt worden sind und die unterschiedliche Treibhausgas-
-        Minderungspotenziale aufweisen, diese Treibhausgas-
-        Minderungspotenziale nur saldiert werden, wenn alle Mengen, die dem
-        Gemisch beigefügt werden, vor der Vermischung das Treibhausgas-
-        Minderungspotenzial nach § 8 aufgewiesen haben, oder
+        ausgestellt worden sind und die unterschiedliche
+        Treibhausgasemissionen aufweisen, diese Treibhausgasemissionen nur
+        saldiert werden, wenn alle Mengen flüssiger Biomasse, die dem Gemisch
+        beigefügt werden, vor der Vermischung die Mindestanforderungen an die
+        Treibhausgasminderung nach § 8 Absatz 1 erfüllt haben, oder
 
 
     b)  Biomasse, die zur Herstellung von flüssiger Biomasse nach dieser
@@ -623,10 +712,10 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
         haben, der für diesen Arbeitsschritt der Herstellung festgelegt worden
         ist
 
-        aa) von der Kommission der Europäischen Gemeinschaften oder
+        aa) von der Europäischen Kommission oder
 
 
-        bb) von dem Bundesministerium für Umwelt, Naturschutz und
+        bb) von dem Bundesministerium für Umwelt, Naturschutz, Bau und
             Reaktorsicherheit.
 
 
@@ -641,9 +730,9 @@ mindestens die Anforderungen nach Absatz 2 erfüllen.
 (3) Die Werte nach Absatz 2 Nummer 2 Buchstabe b Doppelbuchstabe bb
 sind aus den Standardwerten nach Anlage 2 abzuleiten und durch
 gesondertes Schreiben im Bundesanzeiger bekannt zu machen. Sie gelten
-nur, sofern nicht die Kommission der Europäischen Gemeinschaften Werte
-für den jeweiligen Arbeitsschritt der Herstellung im Amtsblatt der
-Europäischen Union veröffentlicht hat.
+nur, sofern nicht die Europäische Kommission Werte für den jeweiligen
+Arbeitsschritt der Herstellung im Amtsblatt der Europäischen Union
+veröffentlicht hat.
 
 (4) Weiter gehende Anforderungen in Zertifizierungssystemen, die die
 Vermischung der flüssigen Biomasse mit anderer Biomasse ganz oder
@@ -673,49 +762,34 @@ den Nachhaltigkeitsnachweis ausgestellt hat, nachzuweisen, muss
 1.  sich alle Lieferanten verpflichtet haben, die Anforderungen eines nach
     dieser Verordnung anerkannten Zertifizierungssystems zu erfüllen,
     sofern dieses auch Anforderungen an die Lieferung flüssiger Biomasse
-    enthält,
+    enthält, und
 
 
-2.  alle Lieferanten den Erhalt und die Weitergabe der flüssigen Biomasse
-    einschließlich der Angaben des Nachhaltigkeitsnachweises sowie des
-    Orts und des Datums, an dem sie diese Biomasse erhalten oder
-    weitergegeben haben, in einer der folgenden elektronischen Datenbanken
-    dokumentiert haben:
+2.  alle Lieferanten in der elektronischen Datenbank der zuständigen
+    Behörde zum Nachweis der Erfüllung der Anforderungen nach Absatz 1
+    Folgendes dokumentieren:
 
-    a)  der Datenbank eines Zertifizierungssystems, sofern sich die
-        Anerkennung des Zertifizierungssystems nach § 33 Absatz 2 auch auf den
-        Betrieb oder die Nutzung dieser Datenbank bezieht, oder
+    a)  den Erhalt und die Weitergabe der flüssigen Biomasse einschließlich
+        der Angaben des Nachhaltigkeitsnachweises sowie
 
 
-    b)  der Datenbank einer Zertifizierungsstelle oder einer anderen
-        juristischen oder einer natürlichen Person, sofern sie von der
-        zuständigen Behörde im Bundesanzeiger als anerkannter Nachweis der
-        Erfüllung der Anforderungen nach Absatz 1 bekannt gemacht worden ist;
+    b)  den Ort und das Datum des Erhalts und der Weitergabe der Biomasse,
+        oder
 
 
 
-    bei öffentlichem Interesse kann eine Datenbank auch von der
-    zuständigen Behörde betrieben werden; die berechtigten Interessen der
-    Wirtschaftsteilnehmer, insbesondere ihre Geschäfts- und
-    Betriebsgeheimnisse, sind zu wahren, oder
 
 
-3.  die Erfüllung der Anforderungen an die Lieferung von Biomasse in einem
-    Massenbilanzsystem nach Maßgabe einer Verordnung über Anforderungen an
-    eine nachhaltige Herstellung von Biomasse zur Verwendung als
-    Biokraftstoff kontrolliert wird, die auf Grund des § 37d Absatz 2
-    Nummer 3 und 4 sowie Absatz 3 Nummer 2 des Bundes-
-    Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26.
-    September 2002 (BGBl. I S. 3830), der zuletzt durch Artikel 1 des
-    Gesetzes vom 15. Juli 2009 (BGBl. I S. 1804) geändert worden ist, und
-    des § 66 Absatz 1 Nummer 11a Buchstabe a und b des
-    Energiesteuergesetzes vom 15. Juli 2006 (BGBl. I S. 1534), der zuletzt
-    durch Artikel 2 des Gesetzes vom 15. Juli 2009 (BGBl. I S. 1804)
-    geändert worden ist, in ihrer jeweils geltenden Fassung, erlassen
-    worden ist.
+3.  die Erfüllung der Anforderungen an die Lieferungen von Biomasse in
+    einem Massenbilanzsystem nach Maßgabe der Biokraftstoff-
+    Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl. I S. 3182) in
+    der jeweils geltenden Fassung, kontrolliert wird.
 
 
 
+Bei der Dokumentationspflicht nach Satz 1 Nummer 2 sind die
+berechtigten Interessen der Wirtschaftsteilnehmer, insbesondere ihre
+Geschäfts- und Betriebsgeheimnisse, zu wahren.
 
 (3) Die Erfüllung der Anforderungen nach Absatz 1 ist von dem
 Lieferanten, der die flüssige Biomasse an die Anlagenbetreiberin oder
@@ -731,74 +805,76 @@ enthalten:
 1.  den Namen und die Anschrift der ausstellenden Schnittstelle,
 
 
-1a. das Datum der Ausstellung,
+2.  das Datum der Ausstellung,
 
 
-2.  eine einmalige Nachweisnummer, die sich mindestens aus der
+3.  eine einmalige Nachweisnummer, die sich mindestens aus der
     Zertifikatsnummer der ausstellenden Schnittstelle und einer von dieser
     Schnittstelle einmalig zu vergebenden Nummer zusammensetzt,
 
 
-3.  den Namen des Zertifizierungssystems, in dem der
+4.  den Namen des Zertifizierungssystems, in dem der
     Nachhaltigkeitsnachweis ausgestellt worden ist,
 
 
-4.  die Menge und die Art der flüssigen Biomasse, auf die sich der
+5.  die Menge und die Art der flüssigen Biomasse, auf die sich der
     Nachhaltigkeitsnachweis bezieht,
 
 
-5.  die Bestätigung, dass die flüssige Biomasse, auf die sich der
-    Nachhaltigkeitsnachweis bezieht, die Anforderungen nach den §§ 4 bis 8
-    erfüllt, einschließlich
-
-    a)  im Fall des § 8 Absatz 2 der Angabe, dass die Schnittstelle nach § 2
-        Absatz 3 Nummer 2 vor dem 23. Januar 2008 in Betrieb genommen worden
-        ist, oder
+6.  die Art der Biomasse, die zur Herstellung der flüssigen Biomasse
+    eingesetzt wurde,
 
 
-    b)  der folgenden Angaben:
-
-        aa) der Energiegehalt der flüssigen Biomasse in Megajoule,
+7.  das Land, in dem die Biomasse angebaut wurde oder angefallen ist, und
 
 
-        bb) die Treibhausgasemissionen der Herstellung und Lieferung der flüssigen
-            Biomasse in Gramm Kohlendioxid-Äquivalent je Megajoule flüssiger
-            Biomasse (g CO
-            2eq                               /MJ),
+8.  die Bestätigung,
+
+    a)  dass die flüssige Biomasse, auf die sich der Nachhaltigkeitsnachweis
+        bezieht, die Anforderungen nach den §§ 4 bis 8 erfüllt,
 
 
-        cc) der Vergleichswert für Fossilbrennstoffe, der für die Berechnung des
-            Treibhausgas-Minderungspotenzials nach Anlage 1 verwendet worden ist,
-            und
+    b)  des Energiegehalts der flüssigen Biomasse in Megajoule,
 
 
-        dd) die Länder oder Staaten, in denen die flüssige Biomasse eingesetzt
-            werden kann; diese Angabe kann das gesamte Gebiet umfassen, in das die
-            flüssige Biomasse geliefert und in dem sie eingesetzt werden kann,
-            ohne dass die Treibhausgasemissionen der Herstellung und Lieferung das
-            Treibhausgas-Minderungspotenzial nach § 8 unterschreiten würden,
+    c)  der Treibhausgasemissionen der Herstellung und Lieferung der flüssigen
+        Biomasse in Gramm Kohlendioxid-Äquivalent pro Megajoule flüssiger
+        Biomasse,
 
 
+    d)  des Vergleichswerts für fossile Brennstoffe, der für die Berechnung
+        der Treibhausgasminderung nach Anlage 1 verwendet worden ist,
 
 
+    e)  der Länder oder Regionen, in denen die flüssige Biomasse eingesetzt
+        werden kann; diese Angabe kann das gesamte Gebiet umfassen, in das die
+        flüssige Biomasse geliefert und in dem sie eingesetzt werden kann,
+        ohne dass die Treibhausgasemissionen der Herstellung und Lieferung die
+        nach § 8 vorgeschriebenen Werte der Treibhausgasminderung
+        unterschreiten würden, und
 
 
-
-
-6.  den Namen und die Anschrift des Lieferanten, an den die Biomasse
-    weitergegeben wird, und
-
-
-7.  die Bestätigung des letzten Lieferanten nach § 17 Absatz 3.
+    f)  der Summe aus den Treibhausgasemissionen nach Buchstabe c und der
+        Mittelwert der vorläufigen geschätzten Emissionen infolge von
+        indirekten Landnutzungsänderungen durch flüssige Biobrennstoffe in
+        Gramm Kohlendioxid-Äquivalent pro Megajoule flüssiger Biomasse
+        entsprechend der Anlage 3.
 
 
 
 
-(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form nach dem
-Muster der Anlage 3 ausgestellt werden.
+
+
+
+(2) Nachhaltigkeitsnachweise müssen in schriftlicher Form ausgestellt
+werden.
 
 (3) Nachhaltigkeitsnachweise müssen dem Netzbetreiber in deutscher
 Sprache vorgelegt werden.
+
+(4) Die Angaben nach Absatz 1 Nummer 8 Buchstabe f müssen
+Nachhaltigkeitsnachweise, die ab dem 15. Mai 2018 ausgestellt werden,
+enthalten.
 
 
 #### § 19 Nachtrag fehlender Angaben
@@ -821,8 +897,7 @@ Nachhaltigkeitsnachweis enthalten sind, können nur nachgetragen werden
 
 (1) Nachhaltigkeitsnachweise sind unwirksam, wenn
 
-1.  sie eine oder mehrere Angaben nach § 18 Absatz 1 mit Ausnahme von
-    Nummer 5 Buchstabe b Doppelbuchstabe dd nicht enthalten,
+1.  sie eine oder mehrere Angaben nach § 18 Absatz 1 nicht enthalten,
 
 
 2.  sie gefälscht sind oder eine unrichtige Angabe enthalten,
@@ -849,9 +924,10 @@ Nachhaltigkeitsnachweis enthalten sind, können nur nachgetragen werden
 
 
 (2) Sofern der Nachhaltigkeitsnachweis ausschließlich nach Absatz 1
-Nummer 2 unwirksam ist, entfällt der Anspruch auf die Vergütung und
-Boni nach § 27 des Erneuerbare-Energien-Gesetzes für den Strom aus der
-Menge flüssiger Biomasse, auf die sich der unwirksame
+Nummer 2 unwirksam ist, entfällt der Anspruch auf die Zahlung nach den
+Bestimmungen für Strom aus Biomasse des Erneuerbare-Energien-Gesetzes
+in der für die Anlage jeweils anzuwendenden Fassung für den Strom aus
+der Menge flüssiger Biomasse, auf die sich der unwirksame
 Nachhaltigkeitsnachweis bezieht. Der Anspruch auf den Bonus für Strom
 aus nachwachsenden Rohstoffen nach § 27 Absatz 4 Nummer 2 des
 Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden
@@ -875,35 +951,31 @@ Fassung entfällt darüber hinaus endgültig, wenn
 
 #### § 21 Weitere Folgen fehlender oder nicht ausreichender Angaben
 
-(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zum
-Treibhausgas-Minderungspotenzial nicht den Vergleichswert für die
-Verwendung, zu dessen Zweck die flüssige Biomasse eingesetzt wird,
-muss die Anlagenbetreiberin oder der Anlagenbetreiber gegenüber dem
-Netzbetreiber nachweisen, dass die flüssige Biomasse das Treibhausgas-
-Minderungspotenzial auch bei dieser Verwendung aufweist. Die
-zuständige Behörde kann eine Methode zur Umrechnung des Treibhausgas-
-Minderungspotenzials für unterschiedliche Verwendungen im
-Bundesanzeiger bekannt machen.
-
-(2) Enthält ein Nachhaltigkeitsnachweis keine Angabe nach § 18 Absatz
-1 Nummer 5 Buchstabe b Doppelbuchstabe dd oder wird die Anlage zur
-Stromerzeugung nicht in dem Land oder Staat nach § 18 Absatz 1 Nummer
-5 Buchstabe b Doppelbuchstabe dd betrieben, muss die
+(1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zur
+Treibhausgasminderung nicht den Vergleichswert für die Verwendung, zu
+deren Zweck die flüssige Biomasse eingesetzt wird, muss die
 Anlagenbetreiberin oder der Anlagenbetreiber gegenüber dem
-Netzbetreiber nachweisen, dass die flüssige Biomasse das Treibhausgas-
-Minderungspotenzial auch bei einem Betrieb in diesem Land oder Staat
-aufweist.
+Netzbetreiber nachweisen, dass die flüssige Biomasse die
+Mindestanforderungen an die Minderung der Treibhausgasemissionen nach
+§ 8 Absatz 1 auch bei dieser Verwendung erfüllt. Die zuständige
+Behörde kann eine Methode zur Umrechnung der Treibhausgasminderung für
+unterschiedliche Verwendungen im Bundesanzeiger bekannt machen.
+
+(2) Wird die Anlage zur Stromerzeugung in einem Land oder in einer
+Region betrieben, das oder die nicht auf dem Nachhaltigkeitsnachweis
+angegeben wurde, so muss die Anlagenbetreiberin oder der
+Anlagenbetreiber gegenüber dem Netzbetreiber nachweisen, dass die
+flüssige Biomasse die Mindestanforderungen an die
+Treibhausgasminderung nach § 8 Absatz 1 auch bei einem Betrieb in
+diesem Land oder in dieser Region erfüllt.
 
 
 #### § 22 Anerkannte Nachhaltigkeitsnachweise auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 (1) Nachhaltigkeitsnachweise gelten auch als anerkannt, solange und
-soweit sie auf Grund einer Verordnung über Anforderungen an eine
-nachhaltige Herstellung von Biomasse zur Verwendung als Biokraftstoff
-anerkannt sind, die auf Grund des § 37d Absatz 2 Nummer 3 und 4 sowie
-Absatz 3 Nummer 2 des Bundes-Immissionsschutzgesetzes und des § 66
-Absatz 1 Nummer 11a Buchstabe a und b des Energiesteuergesetzes in
-ihrer jeweils geltenden Fassung erlassen worden ist.
+soweit sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung vom
+30\. September 2009 (BGBl. I S. 3182) in der jeweils geltenden Fassung
+anerkannt sind.
 
 (2) Abweichend von Absatz 1 gelten Nachhaltigkeitsnachweise nicht als
 anerkannt, sobald für sie eine Anerkennung nach den Bestimmungen der
@@ -943,14 +1015,14 @@ und wenn sie in dem anderen Mitgliedstaat ausgestellt worden sind
 
 
 
-(2) Soweit die Kommission der Europäischen Gemeinschaften auf Grund
-des Artikels 18 Absatz 4 Unterabsatz 1 Satz 2 der Richtlinie
-2009/28/EG beschließt, dass die Nachhaltigkeitsanforderungen an die
-Herstellung von Biomasse in einem bilateralen oder multilateralen
-Vertrag, den die Europäische Gemeinschaft mit einem Drittstaat
-geschlossen hat, den Nachhaltigkeitsanforderungen nach Artikel 17
-Absatz 2 bis 5 der Richtlinie 2009/28/EG entsprechen, kann die
-Erfüllung der Anforderungen nach den §§ 4 bis 8 auch durch einen
+(2) Soweit die Europäische Kommission auf Grund des Artikels 18 Absatz
+4 Unterabsatz 1 Satz 2 der Richtlinie 2009/28/EG beschließt, dass die
+Nachhaltigkeitsanforderungen an die Herstellung von Biomasse in einem
+bilateralen oder multilateralen Vertrag, den die Europäische
+Gemeinschaft mit einem Drittstaat geschlossen hat, den
+Nachhaltigkeitsanforderungen nach Artikel 17 Absatz 2 bis 5 der
+Richtlinie 2009/28/EG entsprechen, kann die Erfüllung der
+Anforderungen nach den §§ 4 bis 8 auch durch einen
 Nachhaltigkeitsnachweis nachgewiesen werden, der belegt, dass die
 Biomasse in diesem Drittstaat hergestellt worden ist. Im Übrigen sind
 die Bestimmungen des bilateralen oder multilateralen Vertrages für den
@@ -981,16 +1053,15 @@ Nachhaltigkeitsnachweises Nachhaltigkeits-Teilnachweise aus. Der
 Antrag ist elektronisch zu stellen. Die Nachhaltigkeits-Teilnachweise
 werden unverzüglich und elektronisch nach Vorlage des
 Nachhaltigkeitsnachweises, der in Teilnachweise aufgeteilt werden
-soll, ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden. Die
-Teilnachweise werden nach dem Muster der Anlage 4 ausgestellt.
+soll, ausgestellt. § 18 Absatz 1 ist entsprechend anzuwenden.
 
 (2) Absatz 1 ist für Teilmengen von flüssiger Biomasse, für die
 bereits ein Nachhaltigkeits-Teilnachweis ausgestellt worden ist,
 entsprechend anzuwenden.
 
-(3) Werden Treibhausgas-Minderungspotenziale oder Werte für
-Treibhausgasemissionen verschiedener Mengen von flüssiger Biomasse,
-für die Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise
+(3) Werden Treibhausgasminderung oder Werte für Treibhausgasemissionen
+verschiedener Mengen von flüssiger Biomasse, für die
+Nachhaltigkeitsnachweise oder Nachhaltigkeits-Teilnachweise
 ausgestellt worden sind, nach Maßgabe des § 16 Absatz 2 Nummer 2
 Buchstabe a saldiert, stellt die zuständige Behörde auf Antrag der
 Inhaberin oder des Inhabers des Nachhaltigkeitsnachweises oder
@@ -998,31 +1069,10 @@ Nachhaltigkeits-Teilnachweises einen Nachhaltigkeits-Teilnachweis aus,
 der die Werte enthält, die sich aus der Saldierung ergeben. Absatz 1
 Satz 2 bis 5 ist entsprechend anzuwenden.
 
-(4) Im Fall eines Nachhaltigkeitsnachweises nach § 15 oder § 22 muss
-die zuständige Behörde eine Kopie des Nachhaltigkeits-Teilnachweises
-unverzüglich und elektronisch nach der Ausstellung an die
-Zertifizierungsstelle übermitteln, die der Schnittstelle, die den
-Nachhaltigkeitsnachweis ausgestellt hat, das Zertifikat ausgestellt
-hat. Im Fall eines Nachhaltigkeitsnachweises nach § 23 kann sie eine
-Kopie des Nachhaltigkeits-Teilnachweises an die Behörde oder Stelle
-elektronisch übermitteln, die den Nachhaltigkeitsnachweis ausgestellt
-hat.
-
-(5) Nachhaltigkeits-Teilnachweise nach den Absätzen 1 bis 3 können bei
-flüssiger Biomasse, die durch Lieferanten geliefert wird, die den
-Erhalt und die Weitergabe der Biomasse in einer elektronischen
-Datenbank nach § 17 Absatz 2 Nummer 2 dokumentieren, auch durch den
-Betreiber der elektronischen Datenbank ausgestellt werden. Im Fall des
-Satzes 1 hat der Betreiber der Datenbank der zuständigen Behörde eine
-Kopie des Nachhaltigkeits-Teilnachweises unverzüglich und elektronisch
-zu übermitteln; Absatz 4 ist nicht anzuwenden. Weiter gehende
-Anforderungen in der Anerkennung der elektronischen Datenbank oder in
-Zertifizierungssystemen bleiben unberührt.
-
-(6) Für die nach den Absätzen 1 bis 3 und 5 ausgestellten
-Nachhaltigkeits-Teilnachweise sind die Bestimmungen dieses Abschnitts
-entsprechend anzuwenden, soweit sich aus den Absätzen 1 bis 3 oder 5
-nichts anderes ergibt.
+(4) Für die nach den Absätzen 1 bis 3 ausgestellten Nachhaltigkeits-
+Teilnachweise sind die Bestimmungen dieses Abschnitts entsprechend
+anzuwenden, soweit sich aus den Absätzen 1 bis 3 nichts anderes
+ergibt.
 
 
 ### Abschnitt 3 - Zertifikate für Schnittstellen
@@ -1055,7 +1105,7 @@ wenn
     anerkannt ist,
 
 
-2.  sie sich im Fall von Schnittstellen nach § 15 Absatz 3 verpflichtet
+2.  sie sich im Fall von Schnittstellen nach § 15 Absatz 2 verpflichtet
     haben,
 
     a)  bei der Ausstellung von Nachhaltigkeitsnachweisen die Anforderungen
@@ -1099,14 +1149,15 @@ wenn
         einer Genauigkeit von 20 Metern für jeden Einzelpunkt, und
 
 
-    d)  jeweils in Gramm Kohlendioxid-Äquivalent je Megajoule Biomasse (g CO
-        2eq                         /MJ) die Treibhausgasemissionen, die durch
-        die Schnittstellen und alle von ihnen mit der Herstellung oder
-        Lieferung der Biomasse unmittelbar oder mittelbar befassten Betriebe,
-        die nicht selbst eine Schnittstelle sind, bei der Herstellung und
-        Lieferung der Biomasse verursacht worden sind, soweit sie für die
-        Berechnung des Treibhausgas-Minderungspotenzials nach § 8
-        berücksichtigt werden müssen, und
+    d)  die Treibhausgasemissionen, die durch die Schnittstellen und alle von
+        ihnen mit der Herstellung oder Lieferung der Biomasse unmittelbar oder
+        mittelbar befassten Betriebe, die nicht selbst eine Schnittstelle im
+        Sinne dieser Verordnung sind, bei der Herstellung und Lieferung der
+        Biomasse verursacht worden sind, soweit diese Treibhausgasemissionen
+        für die Berechnung der durch die Verwendung von flüssiger Biomasse
+        erzielten Treibhausgasminderung nach § 8 berücksichtigt werden müssen;
+        die Treibhausgasemissionen sind jeweils in Gramm Kohlendioxid-
+        Äquivalent je Megajoule Biomasse oder flüssiger Biobrennstoff, und
 
 
 
@@ -1188,12 +1239,8 @@ Ausstellung des Zertifikates gültig.
 #### § 30 Anerkannte Zertifikate auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 (1) Zertifikate gelten auch als anerkannt, solange und soweit sie auf
-Grund einer Verordnung über Anforderungen an eine nachhaltige
-Herstellung von Biomasse zur Verwendung als Biokraftstoff anerkannt
-sind, die auf Grund des § 37d Absatz 2 Nummer 3 und 4 sowie Absatz 3
-Nummer 2 des Bundes-Immissionsschutzgesetzes und des § 66 Absatz 1
-Nummer 11a Buchstabe a und b des Energiesteuergesetzes in ihrer
-jeweils geltenden Fassung erlassen worden ist.
+Grund der Biokraftstoff-Nachhaltigkeitsverordnung in der jeweils
+geltenden Fassung anerkannt sind.
 
 (2) § 28 ist entsprechend anzuwenden.
 
@@ -1291,7 +1338,7 @@ Anerkannte Zertifizierungssysteme im Sinne dieser Verordnung sind:
 5.  sie zu diesem Zweck Standards enthalten, die mindestens den
     Anforderungen nach Anhang III zu dem Übereinkommen über technische
     Handelshemmnisse (ABl. L 336 vom 23.12.1994, S. 86) und den
-    Anforderungen nach Anlage 5 entsprechen.
+    Anforderungen nach Anlage 4 entsprechen.
 
 
 
@@ -1317,13 +1364,9 @@ Bestimmung der Anforderungen nach den §§ 4 bis 8, enthalten oder auch
 nachträglich mit Auflagen versehen werden, wenn dies erforderlich ist,
 um die Anforderungen nach Absatz 1 zu erfüllen.
 
-(5) Die Anerkennung kann mit einer Anerkennung nach einer Verordnung
-über Anforderungen an eine nachhaltige Herstellung von Biomasse zur
-Verwendung als Biokraftstoff kombiniert werden, die auf Grund des §
-37d Absatz 2 Nummer 3 und 4 sowie Absatz 3 Nummer 2 des Bundes-
-Immissionsschutzgesetzes und des § 66 Absatz 1 Nummer 11a Buchstabe a
-und b des Energiesteuergesetzes in ihrer jeweils geltenden Fassung
-erlassen worden ist.
+(5) Die Anerkennung kann mit einer Anerkennung nach der Biokraftstoff-
+Nachhaltigkeitsverordnung in der jeweils geltenden Fassung kombiniert
+werden.
 
 (6) Die Anerkennung kann beschränkt werden auf
 
@@ -1473,12 +1516,8 @@ die ihre Vorgaben verwenden, auf ihren Internetseiten veröffentlichen.
 #### § 40 Anerkannte Zertifizierungssysteme auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 Zertifizierungssysteme gelten auch als anerkannt, solange und soweit
-sie auf Grund einer Verordnung über Anforderungen an eine nachhaltige
-Herstellung von Biomasse zur Verwendung als Biokraftstoff anerkannt
-sind, die auf Grund des § 37d Absatz 2 Nummer 3 und 4 sowie Absatz 3
-Nummer 2 des Bundes-Immissionsschutzgesetzes und des § 66 Absatz 1
-Nummer 11a Buchstabe a und b des Energiesteuergesetzes in ihrer
-jeweils geltenden Fassung erlassen worden ist.
+sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung in der
+jeweils geltenden Fassung anerkannt sind.
 
 
 #### § 41 Weitere anerkannte Zertifizierungssysteme
@@ -1486,13 +1525,12 @@ jeweils geltenden Fassung erlassen worden ist.
 Zertifizierungssysteme gelten auch als anerkannt, solange und soweit
 sie
 
-1.  von der Kommission der Europäischen Gemeinschaften auf Grund des
-    Artikels 18 Absatz 4 Unterabsatz 2 Satz 1 der Richtlinie 2009/28/EG
-    oder
+1.  von der Europäischen Kommission auf Grund des Artikels 18 Absatz 4
+    Unterabsatz 2 Satz 1 der Richtlinie 2009/28/EG oder
 
 
 2.  in einem bilateralen oder multilateralen Vertrag, den die Europäische
-    Gemeinschaft mit einem Drittstaat abgeschlossen hat,
+    Union mit einem Drittstaat abgeschlossen hat,
 
 
 
@@ -1558,15 +1596,13 @@ Anerkannte Zertifizierungsstellen im Sinne dieser Verordnung sind:
 
 
 
-3.[^f772432_02_BJNR217400009BJNE004500000]
-  die Anforderungen der DIN EN 45011, Ausgabe März 1998, erfüllen, ihre
-    Konformitätsbewertungen nach den Standards der ISO/IEC Guide 60,
-    Ausgabe September 2004, durchführen und ihre Kontrollen den
-    Anforderungen der DIN EN ISO 19011, Ausgabe Dezember 2002, genügen
-    ,
+3.[^F803109_02_BJNR217400009BJNE004501118]
+  die Anforderungen der DIN EN/IEC 17065, Ausgabe Januar 2013, erfüllen
+    und ihre Kontrollen den Anforderungen der DIN EN ISO 19011, Ausgabe
+    Dezember 2011, genügen,
 
 
-4.  sich entsprechend der Anlage 5 Nummer 1 Buchstabe e schriftlich
+4.  sich entsprechend der Anlage 4 Nummer 1 Buchstabe e schriftlich
     verpflichtet haben und
 
 
@@ -1594,13 +1630,9 @@ entsprechend anzuwenden.
 werden, wenn dies zur ordnungsgemäßen Durchführung der Tätigkeiten
 einer Zertifizierungsstelle erforderlich ist.
 
-(4) Die Anerkennung kann mit einer Anerkennung nach einer Verordnung
-über Anforderungen an eine nachhaltige Herstellung von Biomasse zur
-Verwendung als Biokraftstoff kombiniert werden, die auf Grund des §
-37d Absatz 2 Nummer 3 und 4 sowie Absatz 3 Nummer 2 des Bundes-
-Immissionsschutzgesetzes und des § 66 Absatz 1 Nummer 11a Buchstabe a
-und b des Energiesteuergesetzes in ihrer jeweils geltenden Fassung
-erlassen worden ist.
+(4) Die Anerkennung kann mit einer Anerkennung nach der Biokraftstoff-
+Nachhaltigkeitsverordnung in der jeweils geltenden Fassung kombiniert
+werden.
 
 (5) Die Anerkennung kann beschränkt werden auf
 
@@ -1616,7 +1648,7 @@ erlassen worden ist.
     Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin, zu
     beziehen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert niedergelegt.
-[^f772432_02_BJNR217400009BJNE004500000]: 
+[^F803109_02_BJNR217400009BJNE004501118]: 
 
 ##### § 44 Verfahren zur Anerkennung
 
@@ -1761,14 +1793,14 @@ kontrolliert werden; die Kontrolle beschränkt sich darauf, ob diese
 Betriebe die Anforderungen nach den §§ 4 bis 6 erfüllen.
 
 
-##### § 52 Berichte über Kontrollen
+##### § 52 Mitteilungen und Berichte über Kontrollen
 
-Zertifizierungsstellen müssen nach Abschluss jeder Kontrolle einen
-Bericht erstellen, der insbesondere das Kontrollergebnis enthält.
-Sofern die Kontrolle ergeben hat, dass die Schnittstelle, der Betrieb
-oder der Lieferant die Anforderungen nach dieser Verordnung nicht
-erfüllt hat, ist der Bericht der zuständigen Behörde unverzüglich nach
-Abschluss der Kontrolle und elektronisch zu übermitteln.
+Zertifizierungsstellen müssen der zuständigen Behörde jede Vor-Ort-
+Kontrolle so rechtzeitig ankündigen, dass eine Begleitung durch die
+zuständige Behörde möglich ist. Nach Abschluss jeder Kontrolle müssen
+die Zertifizierungsstellen einen Bericht erstellen, der insbesondere
+das Ergebnis der Kontrolle enthält, der Bericht ist der zuständigen
+Behörde elektronisch zu übermitteln.
 
 
 ##### § 53 Weitere Berichte und Mitteilungen
@@ -1806,8 +1838,7 @@ Kalenderjahr bis zum 28. Februar des folgenden Kalenderjahres und im
 
 2.  eine Liste aller Kontrollen, die sie in dem Kalenderjahr bei
     Schnittstellen, Betrieben und Lieferanten vorgenommen haben,
-    aufgeschlüsselt nach Zertifizierungssystemen, mit Ausnahme der
-    Kontrollen, über die nach § 52 Satz 2 berichtet worden ist, und
+    aufgeschlüsselt nach Zertifizierungssystemen, und
 
 
 3.  einen Bericht über ihre Erfahrungen mit den von ihnen angewendeten
@@ -1856,10 +1887,7 @@ Zertifizierungsstelle wegen fehlender Unabhängigkeit, Fachkunde oder
 Zuverlässigkeit nicht mehr kontrollieren darf, ob die Anforderungen
 nach dieser Verordnung erfüllt werden.
 
-(3) Sofern Umweltgutachterinnen oder Umweltgutachter als
-Zertifizierungsstellen nach dieser Verordnung anerkannt sind, bleiben
-Befugnisse der Zulassungsstelle nach § 28 des Umweltauditgesetzes von
-den Absätzen 1 und 2 unberührt.
+(3) (weggefallen)
 
 
 #### Unterabschnitt 4 - Weitere anerkannte Zertifizierungsstellen
@@ -1868,12 +1896,8 @@ den Absätzen 1 und 2 unberührt.
 ##### § 56 Anerkannte Zertifizierungsstellen auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
-soweit sie auf Grund einer Verordnung über Anforderungen an eine
-nachhaltige Herstellung von Biomasse zur Verwendung als Biokraftstoff
-anerkannt sind, die auf Grund des § 37d Absatz 2 Nummer 3 und 4 sowie
-Absatz 3 Nummer 2 des Bundes-Immissionsschutzgesetzes und des § 66
-Absatz 1 Nummer 11a Buchstabe a und b des Energiesteuergesetzes in
-ihrer jeweils geltenden Fassung erlassen worden ist.
+soweit sie auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung in
+der jeweils geltenden Fassung anerkannt sind.
 
 (2) Die Unterabschnitte 2 und 3 dieses Abschnitts sind entsprechend
 anzuwenden, soweit sich aus der in Absatz 1 genannten Verordnung
@@ -1885,14 +1909,14 @@ nichts anderes ergibt.
 (1) Zertifizierungsstellen gelten auch als anerkannt, solange und
 soweit sie
 
-1.  von der Kommission der Europäischen Gemeinschaften,
+1.  von der Europäischen Kommission,
 
 
 2.  von einem anderen Mitgliedstaat der Europäischen Union oder
 
 
 3.  in einem bilateralen oder multilateralen Vertrag, den die Europäische
-    Gemeinschaft mit einem Drittstaat abgeschlossen hat,
+    Union mit einem Drittstaat abgeschlossen hat,
 
 
 
@@ -1904,101 +1928,19 @@ anerkannt ist.
 
 (2) Die Unterabschnitte 2 und 3 dieses Abschnitts sind nur
 entsprechend anzuwenden, soweit dies mit den Bestimmungen der
-Kommission der Europäischen Gemeinschaften oder des jeweiligen
-bilateralen oder multilateralen Vertrages vereinbar ist.
+Europäischen Kommission oder des jeweiligen bilateralen oder
+multilateralen Vertrages vereinbar ist.
 
 
 ### Abschnitt 6 - Besondere und Übergangsbestimmungen zum Nachweis
 
 
-#### § 58 Nachweis über die Erfüllung der Anforderungen für den Bonus für nachwachsende Rohstoffe
-
-Anerkannte Nachweise über die Erfüllung der Anforderungen nach § 10
-sind:
-
-1.  Nachhaltigkeitsnachweise, die nach § 14 Absatz 1 bis 3 anerkannt sind,
-    sofern
-
-    a)  sie die Angaben nach § 18 Absatz 1 Nummer 5 Buchstabe b enthalten oder
-
-
-    b)  diese Angaben durch eine zusätzliche Bescheinigung
-
-        aa) der Schnittstelle nach § 15 Absatz 3 oder
-
-
-        bb) einer Zertifizierungsstelle, die nach dieser Verordnung anerkannt ist,
+#### § 58 (weggefallen)
 
 
 
-        nachgewiesen werden; wenn diese Bescheinigung von einer Schnittstelle
-        ausgestellt wird, unterliegt diese der Kontrolle nach § 49, oder
+#### § 59 (weggefallen)
 
-
-
-
-
-2.  Bescheinigungen von Umweltgutachterinnen und Umweltgutachtern nach §
-    59 Absatz 1.
-
-
-
-
-
-#### § 59 Nachweis durch Umweltgutachterinnen und Umweltgutachter
-
-(1) Die Erfüllung der Anforderungen nach dieser Verordnung kann bei
-flüssiger Biomasse, die bis zum 31. Dezember 2011 zur Stromerzeugung
-eingesetzt wird, gegenüber dem Netzbetreiber auch durch eine
-Bescheinigung einer Umweltgutachterin oder eines Umweltgutachters
-nachgewiesen werden.
-
-(2) Die Bescheinigung nach Absatz 1 muss die folgenden Angaben
-enthalten:
-
-1.  eine Bestätigung, dass die Anforderungen nach den §§ 4 bis 8 und im
-    Fall, dass der Anspruch auf den Bonus für nachwachsende Rohstoffe
-    geltend gemacht wird, auch nach § 10 erfüllt werden,
-
-
-2.  eine lückenlose Dokumentation der Herstellung und Lieferung und die
-    Bestätigung, dass die Herkunft der flüssigen Biomasse nach Maßgabe des
-    § 16 nachgewiesen worden ist,
-
-
-3.  den Energiegehalt der Menge der flüssigen Biomasse in Megajoule,
-
-
-4.  das Treibhausgas-Minderungspotenzial der flüssigen Biomasse in Gramm
-    Kohlendioxid-Äquivalent je Megajoule flüssiger Biomasse (g CO
-    2eq                   /MJ) und
-
-
-5.  im Fall einer Berechnung des Treibhausgas-Minderungspotenzials nach §
-    8 Absatz 3 die tatsächlichen Werte, getrennt nach den einzelnen
-    Arbeitsschritten der Herstellung und Lieferung in Gramm Kohlendioxid-
-    Äquivalent je Megajoule flüssiger Biomasse (g CO
-    2eq                   /MJ).
-
-
-
-
-(3) Sofern die zuständige Behörde Zertifizierungssysteme nach dieser
-Verordnung anerkannt hat, sollen die Umweltgutachterinnen und
-Umweltgutachter bei der Ausstellung von Bescheinigungen nach Absatz 1
-die Standards eines Zertifizierungssystems verwenden.
-
-(4) Das erstmalige Ausstellen einer Bescheinigung nach Absatz 1 muss
-die Umweltgutachterin oder der Umweltgutachter der zuständigen Behörde
-anzeigen. Vor dem erstmaligen Ausstellen einer Bescheinigung für
-Biomasse, die außerhalb der Mitgliedstaaten der Europäischen Union und
-der anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum angebaut wird, muss die Umweltgutachterin oder der
-Umweltgutachter zusätzlich gegenüber der zuständigen Behörde
-schriftlich das Einverständnis erklären, eine Beaufsichtigung bei der
-Durchführung von Kontrollen auch außerhalb der Mitgliedstaaten der
-Europäischen Union nach Maßgabe des Umweltauditgesetzes zu dulden. §
-33 Absatz 3 Satz 3 ist entsprechend anzuwenden.
 
 
 #### § 60 Nachweis durch vorläufige Anerkennungen
@@ -2022,81 +1964,27 @@ Absatz 1 Nummer 1, 4 und 5 unberührt.
 vorläufigen Anerkennung keine Rechtsansprüche ableiten.
 
 
-## Teil 4 - Zentrales Anlagen- und Informationsregister
+## Teil 4 - Zentrales Informationsregister
 
 
-### § 61 Anlagenregister
-
-Die zuständige Behörde führt ein zentrales Register über alle Anlagen,
-in denen flüssige Biomasse zur Stromerzeugung eingesetzt wird
-(Anlagenregister).
-
-
-### § 62 Registrierungspflicht
-
-Anlagenbetreiberinnen und Anlagenbetreiber, die flüssige Biomasse zur
-Stromerzeugung einsetzen, müssen ihre Anlage im Anlagenregister
-registrieren lassen.
-
-
-### § 63 Inhalt der Registrierung
-
-Der Antrag zur Registrierung der Anlage muss die folgenden Angaben
-enthalten:
-
-1.  den Namen und die Anschrift der Anlagenbetreiberin oder des
-    Anlagenbetreibers,
-
-
-2.  den Standort der Anlage,
-
-
-3.  die elektrische und thermische Leistung der Anlage,
-
-
-4.  das Datum der geplanten oder tatsächlichen Inbetriebnahme der Anlage,
-
-
-5.  die Art und die Menge der geplanten oder tatsächlich eingesetzten
-    flüssigen Biomasse und
-
-
-6.  den Namen und die Anschrift des Netzbetreibers, an dessen Netz die
-    Anlage zur Stromerzeugung angeschlossen worden ist oder wird.
+### § 61 (weggefallen)
 
 
 
+### § 62 (weggefallen)
 
 
-### § 64 Zeitpunkt der Registrierung
 
-(1) Die Registrierung im Anlagenregister muss vor der Inbetriebnahme
-der Anlage beantragt werden.
-
-(2) Abweichend von Absatz 1 muss die Registrierung von Anlagen, die
-vor dem 1. Januar 2011 in Betrieb genommen worden sind, bis zum 31.
-Dezember 2010 beantragt werden.
-
-(3) Maßgeblicher Zeitpunkt nach den Absätzen 1 und 2 ist das Datum, an
-dem der vollständige Antrag bei der zuständigen Behörde eingeht.
-
-(4) Die zuständige Behörde bescheinigt der Anlagenbetreiberin oder dem
-Anlagenbetreiber den Zeitpunkt nach Absatz 3 unverzüglich nach Eingang
-des vollständigen Antrages.
+### § 63 (weggefallen)
 
 
-### § 65 Verspätete Registrierung
 
-Für Strom aus Anlagen, deren Registrierung erst nach dem in § 64
-benannten Zeitpunkt beantragt wird, besteht für den Zeitraum bis zur
-Antragstellung weder ein Anspruch auf die Vergütung nach § 27 Absatz 1
-des Erneuerbare-Energien-Gesetzes noch ein Anspruch auf den Bonus für
-nachwachsende Rohstoffe nach § 27 Absatz 4 Nummer 2 des Erneuerbare-
-Energien-Gesetzes in der am 31. Dezember 2011 geltenden Fassung. Die
-verspätete Beantragung führt nicht dazu, dass der Bonus für
-nachwachsende Rohstoffe nach Nummer VII.1 der Anlage 2 zum
-Erneuerbare-Energien-Gesetz in der am 31. Dezember 2011 geltenden
-Fassung endgültig entfällt.
+### § 64 (weggefallen)
+
+
+
+### § 65 (weggefallen)
+
 
 
 ### § 66 Informationsregister
@@ -2109,10 +1997,28 @@ Nachweisführung nach dieser Verordnung (Informationsregister).
 
 ### § 67 Datenabgleich
 
-(1) Die zuständige Behörde gleicht die Daten im Anlagen- und
-Informationsregister sowohl untereinander als auch mit allen Daten ab,
-die der für Biokraftstoffe zuständigen Stelle nach § 37d Absatz 1 des
-Bundes-Immissionsschutzgesetzes vorliegen.
+(1) Die zuständige Behörde gleicht die Daten im Informationsregister
+nach § 66 ab
+
+1.  mit den Daten
+
+    a)  im Anlagenregister nach § 6 Absatz 2 Satz 1 des Erneuerbare-Energien-
+        Gesetzes oder
+
+
+    b)  des Marktstammdatenregisters nach § 111e des
+        Energiewirtschaftsgesetzes, soweit dieses nach § 6 des Erneuerbare-
+        Energien-Gesetzes die Aufgaben des Anlagenregisters wahrnimmt, und
+
+
+
+
+
+2.  mit den Daten, die der für Biokraftstoffe zuständigen Stelle nach §
+    37d Absatz 1 des Bundes-Immissionsschutzgesetzes vorliegen.
+
+
+
 
 (2) Bei Nachhaltigkeitsnachweisen nach § 23 kann die zuständige
 Behörde Daten mit der Behörde oder Stelle, die diese Nachweise
@@ -2148,18 +2054,8 @@ bezieht:
 
 
 
-### § 69 Clearingstelle
+### § 69 (weggefallen)
 
-(1) Wenden sich die Anlagenbetreiberin oder der Anlagenbetreiber und
-der Netzbetreiber zur Klärung von Streitigkeiten über die Wirksamkeit
-eines Nachweises nach dieser Verordnung an die Clearingstelle nach §
-57 des Erneuerbare-Energien-Gesetzes, soll die Clearingstelle eine
-Stellungnahme der zuständigen Behörde einholen.
-
-(2) Die Clearingstelle berichtet in ihren Tätigkeitsberichten nach §
-57 Absatz 6 Satz 1 des Erneuerbare-Energien-Gesetzes über die
-Verfahren nach Absatz 1. Die berechtigten Interessen der
-Verfahrensbeteiligten sind zu wahren.
 
 
 ## Teil 5 - Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahren
@@ -2170,9 +2066,8 @@ Verfahrensbeteiligten sind zu wahren.
 Die zuständige Behörde kann von Anlagenbetreiberinnen und
 Anlagenbetreibern, Zertifizierungsstellen, Schnittstellen, im Fall von
 Zertifizierungssystemen von den Personen nach § 33 Absatz 1 Nummer 1
-Buchstabe a und im Fall von § 59 von Umweltgutachterinnen und
-Umweltgutachtern weitere Informationen verlangen, soweit dies
-erforderlich ist, um
+Buchstabe a weitere Informationen verlangen, soweit dies erforderlich
+ist, um
 
 1.  die Aufgaben nach dieser Verordnung zu erfüllen,
 
@@ -2195,24 +2090,8 @@ der Bundesregierung erstmals zum 31. Dezember 2010 und sodann jedes
 Jahr einen Erfahrungsbericht vor.
 
 
-### § 72 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+### § 72 (weggefallen)
 
-Auf der Grundlage der Berichte nach § 71 berichtet das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit der
-Kommission der Europäischen Gemeinschaften im Rahmen der Berichte nach
-Artikel 22 der Richtlinie 2009/28/EG über
-
-1.  die Erfüllung der Anforderungen nach dieser Verordnung sowie
-
-
-2.  die Auswirkungen der Herstellung der in der Bundesrepublik Deutschland
-    zur Stromerzeugung eingesetzten flüssigen Biomasse auf die
-    Nachhaltigkeit.
-
-
-
-Im Bericht muss bewertet werden, ob der Einsatz flüssiger Biomasse für
-die Stromerzeugung sozial zu vertreten ist.
 
 
 ### § 73 Datenübermittlung
@@ -2225,16 +2104,19 @@ die zuständige Behörde Informationen übermitteln an
     a)  das Bundesministerium der Finanzen,
 
 
-    b)  das Bundesministerium für Ernährung, Landwirtschaft und
-        Verbraucherschutz,
+    b)  das Bundesministerium für Wirtschaft und Energie,
 
 
-    c)  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-        und
+    c)  das Bundesministerium für Ernährung und Landwirtschaft,
 
 
-    d)  die nachgeordneten Behörden dieser Ministerien, insbesondere an die
-        für Biokraftstoffe zuständige Stelle nach § 37d Absatz 1 des Bundes-
+    d)  das Bundesministerium für Umwelt, Naturschutz, Bau und
+        Reaktorsicherheit und
+
+
+    e)  die nachgeordneten Behörden dieser Bundesministerien, insbesondere an
+        die Bundesnetzagentur, das Umweltbundesamt und die für Biokraftstoffe
+        zuständige Stelle nach § 37d Absatz 1 des Bundes-
         Immissionsschutzgesetzes,
 
 
@@ -2243,25 +2125,26 @@ die zuständige Behörde Informationen übermitteln an
 
 2.  Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von
     Drittstaaten und ihre sonstigen Stellen nach § 23 Absatz 1 Nummer 1
-    bis 3 und
+    bis 3,
 
 
-3.  Organe der Europäischen Union.
+3.  Organe der Europäischen Union,
+
+
+4.  anerkannte Zertifizierungssysteme und
+
+
+5.  anerkannte Zertifizierungsstellen.
 
 
 
 
-(1a) Soweit dies zum Abgleich der Daten eines auf Grund des § 64e des
-Erneuerbare-Energien-Gesetzes eingerichteten Anlagenregisters mit dem
-Anlagenregister nach § 61 erforderlich ist, darf die zuständige
-Behörde Informationen an die in einer Rechtsverordnung auf Grund des §
-64e des Erneuerbare-Energien-Gesetzes benannte Stelle übermitteln.
-
-(2) Die Übermittlung personenbezogener Daten an die Stellen nach
-Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15
-des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die
-Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen
-der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
+(2) Soweit es zum Abgleich der Daten des Informationsregisters nach §
+66 mit den Daten im Marktstammdatenregister nach § 111e des
+Energiewirtschaftsgesetzes oder mit den Daten im Anlagenregister nach
+§ 6 Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes erforderlich
+ist, darf die zuständige Behörde Informationen an das jeweilige
+Register übermitteln.
 
 
 ### § 74 Zuständigkeit
@@ -2269,39 +2152,35 @@ der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung ist zuständig
 für
 
-1.  die Anerkennung von Regelungen nach § 8 Absatz 3 Satz 3 Nummer 2
-    Buchstabe b, ihre Bekanntmachung nach § 8 Absatz 3 Satz 4 und die
+1.  die Bekanntmachung nach § 2 Absatz 6 Satz 3,
+
+
+2.  die Anerkennung von Regelungen nach § 8 Absatz 2 Satz 3 Nummer 2
+    Buchstabe b, ihre Bekanntmachung nach § 8 Absatz 2 Satz 4 und die
     Bekanntmachung nach Anlage 1 Nummer 10 Satz 2,
 
 
-2.  die Entgegennahme von Nachweisen nach § 13,
+3.  die Entgegennahme von Nachweisen nach § 13,
 
 
-3.  die Bekanntmachung einer elektronischen Datenbank und, sofern die
-    Datenbank nicht von einer Zertifizierungsstelle oder einer anderen
-    juristischen oder einer natürlichen Person betrieben wird, den Betrieb
-    dieser Datenbank nach § 17 Absatz 2 Nummer 2,
+4.  den Betrieb der elektronischen Datenbank nach § 14 Satz 2,
 
 
-4.  die Bekanntmachung nach § 21 Absatz 1 Satz 2,
+5.  die Bekanntmachung nach § 21 Absatz 1 Satz 2,
 
 
-5.  die Ausstellung von Nachhaltigkeits-Teilnachweisen nach § 24,
+6.  die Ausstellung von Nachhaltigkeits-Teilnachweisen nach § 24,
 
 
-6.  die Anerkennung und Überwachung von Zertifizierungssystemen nach Teil
+7.  die Anerkennung und Überwachung von Zertifizierungssystemen nach Teil
     3 Abschnitt 4 und nach § 60,
 
 
-7.  die Anerkennung und Überwachung von Zertifizierungsstellen nach Teil 3
+8.  die Anerkennung und Überwachung von Zertifizierungsstellen nach Teil 3
     Abschnitt 5 Unterabschnitt 1 bis 3 und § 60,
 
 
-8.  die Entgegennahme von Anzeigen und Erklärungen nach § 59 Absatz 4,
-
-
-9.  das Führen des zentralen Anlagen- und Informationsregisters nach Teil
-    4,
+9.  das Führen des zentralen Informationsregisters nach Teil 4,
 
 
 10. das Einholen von Auskünften nach § 70,
@@ -2324,10 +2203,10 @@ für
 
 (2) Die Rechts- und Fachaufsicht über die Bundesanstalt für
 Landwirtschaft und Ernährung obliegt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz. Fragen von
-grundsätzlicher Bedeutung sind mit dem Bundesministerium der Finanzen
-abzustimmen und es ist das Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit herzustellen.
+Ernährung und Landwirtschaft. Fragen von grundsätzlicher Bedeutung
+sind mit dem Bundesministerium der Finanzen abzustimmen und es ist das
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit herzustellen.
 
 
 ### § 75 Verfahren vor der zuständigen Behörde
@@ -2342,40 +2221,43 @@ werden, müssen in deutscher Sprache verfasst oder mit einer
 
 ### § 76 Muster und Vordrucke
 
-(1) Unbeschadet des § 18 Absatz 2 und des § 24 Absatz 1 Satz 5 sind
-auch für die folgenden Dokumente Vordrucke und Muster zu verwenden:
+(1) Für die folgenden Dokumente sind Muster und Vordrucke sowie ein
+Datensatzformat einer elektronischen Datenübermittlung zu verwenden:
 
-1.  die Zertifikate nach § 26,
-
-
-2.  die Berichte und Mitteilungen nach den §§ 52 und 53 sowie
+1.  für die Zertifikate nach § 26,
 
 
-3.  die Bescheinigungen nach § 58 Nummer 1 Buchstabe b und § 59 Absatz 1.
+2.  für die Mitteilungen und Berichte nach den §§ 52 und 53,
+
+
+3.  für die Nachhaltigkeitsnachweise nach § 18 und die Nachhaltigkeits-
+    Teilnachweise nach § 24.
 
 
 
 
-(2) Die zuständige Behörde veröffentlicht die Vordrucke und Muster
-sowie das Datensatzformat einer elektronischen Datenübermittlung im
-Bundesanzeiger sowie auf ihrer Internetseite. Sie kann für
-Nachhaltigkeitsnachweise und Nachhaltigkeits-Teilnachweise, die nach
-dem Muster der Anlage 3 oder 4 in englischer oder einer anderen
-Sprache ausgestellt worden sind, eine Übersetzung im Bundesanzeiger
-sowie auf ihrer Internetseite veröffentlichen.
+[^F803109_03_BJNR217400009BJNE007802118]
+(2) Die zuständige Behörde veröffentlicht die Muster und Vordrucke zu
+Absatz 1 sowie das Datensatzformat einer elektronischen
+Datenübermittlung im Bundesanzeiger und auf ihrer Internetseite
+. Sie kann für Nachhaltigkeitsnachweise und Nachhaltigkeits-
+Teilnachweise, die in englischer oder einer anderen Sprache
+ausgestellt worden sind, eine Übersetzung im Bundesanzeiger und auf
+ihrer Internetseite veröffentlichen.
 
+    www.ble.de
+[^F803109_03_BJNR217400009BJNE007802118]: 
 
 ### § 77 Außenverkehr
 
 Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen
 Union und Drittstaaten sowie mit den Organen der Europäischen Union
-obliegt dem Bundesministerium für Umwelt, Naturschutz und
+obliegt dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit. Es kann den Verkehr mit den zuständigen Ministerien
 und Behörden anderer Mitgliedstaaten der Europäischen Union und
 Drittstaaten sowie den Organen der Europäischen Union im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und
-Ernährung übertragen.
+mit dem Bundesministerium für Ernährung und Landwirtschaft auf die
+Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
 
 ## Teil 6 - Übergangs- und Schlussbestimmungen
@@ -2393,11 +2275,13 @@ dem 1. Januar 2011 zur Stromerzeugung eingesetzt wird.
 
 (2) Im Übrigen tritt diese Verordnung am 24. August 2009 in Kraft.
 
+(zu § 8 Absatz 2)
 
-### Anlage 1 (zu § 8 Absatz 3) Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
+### Anlage 1 Methode zur Berechnung der durch die Verwendung von flüssiger Biomasse erzielten Treibhausgasminderung anhand tatsächlicher Werte
 
 (Fundstelle: BGBl. I 2009, 2192 - 2194;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 1.  Die Treibhausgasemissionen bei der Herstellung, Lieferung und
     Verwendung von flüssigen Brennstoffen (flüssige Biomasse und
@@ -2408,21 +2292,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   =
 
         *   e
-            ec                              +
+            ec +
             e
-            l                              +
+            l +
             e
-            p                              +
+            p +
             e
-            td                              +
+            td +
             e
-            u                              –
+            u –
             e
-            sca                              –
+            sca –
             e
-            ccs                              –
+            ccs –
             e
-            ccr                              –
+            ccr –
             e
             ee
 
@@ -2523,9 +2407,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 2.  Die durch flüssige Brennstoffe verursachten Treibhausgasemissionen (
-    E                   ) werden in Gramm Kohlendioxid-Äquivalent je
-    Megajoule flüssiger Brennstoff (g CO
-    2eq                   /MJ) angegeben.
+    E) werden in Gramm Kohlendioxid-Äquivalent je Megajoule flüssiger
+    Brennstoff (g CO
+    2eq/MJ) angegeben.
 
 
 3.  (nicht belegt).
@@ -2538,8 +2422,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   =
             (E
-            F                                – E
-            B                               )/E
+            F – E
+            B)/E
             F
 
 
@@ -2568,27 +2452,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 5.  Die für die in Nummer 1 genannten Zwecke berücksichtigten
     Treibhausgase sind Kohlendioxid (CO
-    2                   ), Distickstoffoxid (N
-    2                   O) und Methan (CH
-    4                   ). Zur Berechnung der CO
-    2                   -Äquivalenz werden diese Gase wie folgt gewichtet:
+    2), Distickstoffoxid (N
+    2O) und Methan (CH
+    4). Zur Berechnung der CO
+    2-Äquivalenz werden diese Gase wie folgt gewichtet:
 
     *        *   CO
-            2                             :
+            2:
 
         *   1
 
         *
 
     *        *   N
-            2                             O:
+            2O:
 
         *   296
 
         *
 
     *        *   CH
-            4                             :
+            4:
 
         *   23
 
@@ -2599,23 +2483,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 6.  Die Emissionen bei der Gewinnung oder beim Anbau der Biomasse (
     e
-    ec                   ) schließen die Emissionen des Gewinnungs- oder
-    Anbauprozesses selbst, beim Sammeln der Rohstoffe, aus Abfällen und
-    Leckagen sowie bei der Herstellung der zur Gewinnung oder zum Anbau
-    verwendeten Chemikalien ein. Die Kohlendioxid-Bindung beim Anbau der
-    Biomasse wird nicht berücksichtigt. Alternativ zu den tatsächlichen
-    Werten können für die Emissionen beim Anbau Schätzungen aus den
-    Durchschnittswerten abgeleitet werden, die für kleinere als die bei
-    der Berechnung der Standardwerte herangezogenen geografischen Gebiete
-    berechnet wurden.
+    ec) schließen die Emissionen des Gewinnungs- oder Anbauprozesses
+    selbst, beim Sammeln der Rohstoffe, aus Abfällen und Leckagen sowie
+    bei der Herstellung der zur Gewinnung oder zum Anbau verwendeten
+    Chemikalien ein. Die Kohlendioxid-Bindung beim Anbau der Biomasse wird
+    nicht berücksichtigt. Alternativ zu den tatsächlichen Werten können
+    für die Emissionen beim Anbau Schätzungen aus den Durchschnittswerten
+    abgeleitet werden, die für kleinere als die bei der Berechnung der
+    Standardwerte herangezogenen geografischen Gebiete berechnet wurden.
 
 
 7.  Die auf Jahresbasis umgerechneten Emissionen aus
     Kohlenstoffbestandsänderungen infolge von Landnutzungsänderungen (
     e
-    l                   ) werden durch gleichmäßige Verteilung der
-    Gesamtemissionen über 20 Jahre berechnet. Diese Emissionen werden wie
-    folgt berechnet:
+    l) werden durch gleichmäßige Verteilung der Gesamtemissionen über 20
+    Jahre berechnet. Diese Emissionen werden wie folgt berechnet:
 
     *        *   e
             l
@@ -2623,9 +2505,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   =
 
         *   (CS
-            R                                – CS
-            A                               ) x 3 664 x 1/20 x 1/P – e
-            B
+            R – CS
+            A) x 3 664 x 1/20 x 1/P – e
+            B.
 
 
 
@@ -2666,9 +2548,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             einschließlich Boden und Vegetation). Wenn sich der Kohlenstoffbestand
             über mehr als ein Jahr anreichert, gilt als
             CS
-            A                             -Wert der geschätzte Kohlenstoffbestand
-            je Flächeneinheit nach 20 Jahren oder zum Zeitpunkt der Reife der
-            Pflanzen, je nachdem, welcher Zeitpunkt der frühere ist,
+            A-Wert der geschätzte Kohlenstoffbestand je Flächeneinheit nach 20
+            Jahren oder zum Zeitpunkt der Reife der Pflanzen, je nachdem, welcher
+            Zeitpunkt der frühere ist,
 
 
     *        *   P
@@ -2685,17 +2567,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   =
 
         *   Bonus von 29 g CO
-            2eq                             /MJ flüssiger Biomasse, wenn die
-            Biomasse nach Maßgabe der Nummer 8 auf wiederhergestellten
-            degradierten Flächen angebaut wird.
+            2eq/MJ flüssiger Biomasse, wenn die Biomasse nach Maßgabe der Nummer 8
+            auf wiederhergestellten degradierten Flächen angebaut wird.
 
 
 
+
+    Kulturflächen und Dauerkulturen sind als eine einzige Landnutzung zu
+    betrachten.
 
 
 8.  Der Bonus von 29 g CO
-    2eq                   /MJ wird gewährt, wenn der Nachweis erbracht
-    wird, dass die betreffende Fläche
+    2eq/MJ wird gewährt, wenn der Nachweis erbracht wird, dass die
+    betreffende Fläche
 
     a)  zum Referenzzeitpunkt nicht landwirtschaftlich oder zu einem anderen
         Zweck genutzt wurde und
@@ -2715,13 +2599,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     Der Bonus von 29 g CO
-    2eq                   /MJ gilt für einen Zeitraum von bis zu zehn
-    Jahren ab dem Zeitpunkt der Umwandlung der Fläche in eine
-    landwirtschaftliche Nutzfläche, sofern ein kontinuierlicher Anstieg
-    des Kohlenstoffbestands und ein nennenswerter Rückgang der Erosion auf
-    Flächen nach Satz 1 Buchstabe b Doppelbuchstabe aa gewährleistet
-    werden und die Bodenverschmutzung auf Flächen nach Doppelbuchstabe bb
-    gesenkt wird.
+    2eq/MJ gilt für einen Zeitraum von bis zu zehn Jahren ab dem Zeitpunkt
+    der Umwandlung der Fläche in eine landwirtschaftliche Nutzfläche,
+    sofern ein kontinuierlicher Anstieg des Kohlenstoffbestands und ein
+    nennenswerter Rückgang der Erosion auf Flächen nach Satz 1 Buchstabe b
+    Doppelbuchstabe aa gewährleistet werden und die Bodenverschmutzung auf
+    Flächen nach Doppelbuchstabe bb gesenkt wird.
 
 
 9.  Die Kategorien nach Nummer 8 Satz 1 Buchstabe b werden wie folgt
@@ -2746,88 +2629,85 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     Als Flächen nach Nummer 8 Satz 1 Buchstabe b gelten auch alle Flächen,
-    die durch eine Entscheidung der Kommission der Europäischen
-    Gemeinschaften auf Grund des Artikels 18 Absatz 4 Unterabsatz 4 der
-    Richtlinie 2009/28/EG als stark geschädigte oder stark verschmutzte
-    Flächen anerkannt worden sind.
+    die durch eine Entscheidung der Europäischen Kommission auf Grund des
+    Artikels 18 Absatz 4 Unterabsatz 4 der Richtlinie 2009/28/EG als stark
+    geschädigte oder stark verschmutzte Flächen anerkannt worden sind.
 
 
-10. Sobald die Kommission der Europäischen Gemeinschaften auf Grund des
-    Anhangs V Teil C Nummer 10 Satz 1 der Richtlinie 2009/28/EG Leitlinien
-    für die Berechnung des Bodenkohlenstoffbestands erstellt hat, sind
-    diese der Berechnung des Bodenkohlenstoffbestands nach dieser Anlage
-    zugrunde zu legen. Die zuständige Behörde macht den Inhalt dieser
-    Leitlinien im Bundesanzeiger bekannt.
+10. Sobald die Europäische Kommission auf Grund des Anhangs V Teil C
+    Nummer 10 Satz 1 der Richtlinie 2009/28/EG Leitlinien für die
+    Berechnung des Bodenkohlenstoffbestands erstellt hat, sind diese der
+    Berechnung des Bodenkohlenstoffbestands nach dieser Anlage zugrunde zu
+    legen. Die zuständige Behörde macht den Inhalt dieser Leitlinien im
+    Bundesanzeiger bekannt.
 
 
 11. Die Emissionen bei der Verarbeitung (
     e
-    p                   ) schließen die Emissionen bei der Verarbeitung
-    selbst, aus Abfällen und Leckagen sowie bei der Herstellung der zur
-    Verarbeitung verwendeten Chemikalien oder sonstigen Produkte ein. Bei
-    der Berücksichtigung des Verbrauchs an Strom, der nicht in der Anlage
-    zur Herstellung des flüssigen Brennstoffes erzeugt wurde, wird
-    angenommen, dass die Treibhausgasemissionsintensität bei Erzeugung und
-    Verteilung dieses Stroms der durchschnittlichen Emissionsintensität
-    bei Erzeugung und Verteilung von Strom in einer bestimmten Region
-    entspricht. Abweichend von Satz 2 können die Hersteller für den von
-    einer einzelnen Stromerzeugungsanlage erzeugten Strom einen
+    p) schließen die Emissionen bei der Verarbeitung selbst, aus Abfällen
+    und Leckagen sowie bei der Herstellung der zur Verarbeitung
+    verwendeten Chemikalien oder sonstigen Produkte ein. Bei der
+    Berücksichtigung des Verbrauchs an Strom, der nicht in der Anlage zur
+    Herstellung des flüssigen Brennstoffes erzeugt wurde, wird angenommen,
+    dass die Treibhausgasemissionsintensität bei Erzeugung und Verteilung
+    dieses Stroms der durchschnittlichen Emissionsintensität bei Erzeugung
+    und Verteilung von Strom in einer bestimmten Region entspricht.
+    Abweichend von Satz 2 können die Hersteller für den von einer
+    einzelnen Stromerzeugungsanlage erzeugten Strom einen
     Durchschnittswert verwenden, sofern diese Anlage nicht an das
     Stromnetz angeschlossen ist.
 
 
 12. Die Emissionen bei der Lieferung (
     e
-    td                   ) schließen die bei dem Transport und der
-    Lagerung von Rohstoffen und Halbfertigerzeugnissen sowie bei der
-    Lagerung und dem Vertrieb von Fertigerzeugnissen anfallenden
-    Emissionen ein. Satz 1 gilt nicht für die Emissionen beim Transport
-    und Vertrieb, die nach Nummer 6 berücksichtigt werden.
+    td) schließen die bei dem Transport und der Lagerung von Rohstoffen
+    und Halbfertigerzeugnissen sowie bei der Lagerung und dem Vertrieb von
+    Fertigerzeugnissen anfallenden Emissionen ein. Satz 1 gilt nicht für
+    die Emissionen beim Transport und Vertrieb, die nach Nummer 6
+    berücksichtigt werden.
 
 
 13. Die Emissionen bei der Nutzung des flüssigen Brennstoffs (
     e
-    u                   ) werden für flüssige Biomasse auf null
-    festgesetzt.
+    u) werden für flüssige Biomasse auf null festgesetzt.
 
 
 14. Die Emissionseinsparungen durch Abscheidung und geologische
     Speicherung von Kohlendioxid (
     e
-    ccs                   ), die noch nicht in
+    ccs), die noch nicht in
     e
-    p                    berücksichtigt wurden, werden begrenzt auf die
-    Emissionen, die durch Abscheidung und Sequestrierung von emittiertem
-    Kohlendioxid vermieden wurden und die unmittelbar mit der Gewinnung,
-    dem Transport, der Verarbeitung und dem Vertrieb des flüssigen
-    Brennstoffes verbunden sind.
+    p berücksichtigt wurden, werden begrenzt auf die Emissionen, die durch
+    Abscheidung und Sequestrierung von emittiertem Kohlendioxid vermieden
+    wurden und die unmittelbar mit der Gewinnung, dem Transport, der
+    Verarbeitung und dem Vertrieb des flüssigen Brennstoffes verbunden
+    sind.
 
 
 15. Die Emissionseinsparungen durch Abscheidung und Ersetzung von
     Kohlendioxid (
     e
-    ccr                   ) werden begrenzt auf die durch Abscheidung von
-    Kohlendioxid vermiedenen Emissionen, bei denen der Kohlenstoff aus
-    Biomasse stammt und anstelle des auf fossile Brennstoffe
-    zurückgehenden Kohlendioxids für gewerbliche Erzeugnisse und
-    Dienstleistungen verwendet wird.
+    ccr) werden begrenzt auf die durch Abscheidung von Kohlendioxid
+    vermiedenen Emissionen, bei denen der Kohlenstoff aus Biomasse stammt
+    und anstelle des auf fossile Brennstoffe zurückgehenden Kohlendioxids
+    für gewerbliche Erzeugnisse und Dienstleistungen verwendet wird.
 
 
-16. Die Emissionseinsparungen durch überschüssigen Strom aus Kraft-Wärme-
-    Kopplung (
+16. Die Emissionseinsparung durch überschüssige Elektrizität aus Kraft-
+    Wärme-Kopplung (
     e
-    ee                   ) werden im Verhältnis zu dem von
-    Brennstoffherstellungssystemen mit Kraft-Wärme-Kopplung, welche als
-    Brennstoff andere Nebenerzeugnisse als Ernterückstände einsetzen,
-    erzeugten Stromüberschuss berücksichtigt. Für die Berücksichtigung
-    dieses Stromüberschusses wird davon ausgegangen, dass die Größe der
-    Kraft-Wärme-Kopplungs- (KWK-) Anlage der Mindestgröße entspricht, die
-    erforderlich ist, um die für die Herstellung des flüssigen Brennstoffs
-    benötigte Wärme zu liefern. Die mit diesem Stromüberschuss verbundenen
-    Minderungen an Treibhausgasemissionen werden der Treibhausgasmenge
-    gleichgesetzt, die bei der Erzeugung einer entsprechenden Strommenge
-    in einem Kraftwerk emittiert würde, das den gleichen Brennstoff
-    einsetzt wie die KWK-Anlage.
+    ee) wird im Verhältnis zu dem Elektrizitätsüberschuss berücksichtigt,
+    der von Kraftstoffherstellungssystemen mit Kraft-Wärme-Kopplung
+    erzeugt wird, außer in Fällen, in denen als Brennstoff andere
+    Nebenerzeugnisse als Ernterückstände eingesetzt werden. Für die
+    Berücksichtigung dieses Stromüberschusses wird davon ausgegangen, dass
+    die Größe der Kraft-Wärme-Kopplungs- (KWK-) Anlage der Mindestgröße
+    entspricht, die erforderlich ist, um die für die Herstellung des
+    flüssigen Brennstoffs benötigte Wärme zu liefern. Die mit diesem
+    Stromüberschuss verbundenen Minderungen an Treibhausgasemissionen
+    werden der Treibhausgasmenge gleichgesetzt, die bei der Erzeugung
+    einer entsprechenden Strommenge in einem Kraftwerk emittiert würde,
+    das den gleichen Brennstoff einsetzt wie die KWK-Anlage.
 
 
 17. Werden bei einem Verfahren zur Herstellung flüssiger Brennstoffe neben
@@ -2842,20 +2722,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 18. Für die Zwecke der Berechnung nach Nummer 17 sind die aufzuteilenden
     Emissionen
     e
-    ec                    +
+    ec +
     e
-    l                   , + die Anteile von
+    l, + die Anteile von
     e
-    p                   ,
+    p,
     e
-    td                    und
+    td und
     e
-    ee                   , die bis einschließlich zu dem Verfahrensschritt
-    anfallen, bei dem ein Nebenerzeugnis erzeugt wird. Wurden Emissionen
-    in einem früheren Verfahrensschritt Nebenerzeugnissen zugewiesen, so
-    wird für diesen Zweck anstelle der Gesamtemissionen der Bruchteil
-    dieser Emissionen verwendet, der im letzten Verfahrensschritt dem
-    Zwischenerzeugnis zugeordnet wird.
+    ee, die bis einschließlich zu dem Verfahrensschritt anfallen, bei dem
+    ein Nebenerzeugnis erzeugt wird. Wurden Emissionen in einem früheren
+    Verfahrensschritt Nebenerzeugnissen zugewiesen, so wird für diesen
+    Zweck anstelle der Gesamtemissionen der Bruchteil dieser Emissionen
+    verwendet, der im letzten Verfahrensschritt dem Zwischenerzeugnis
+    zugeordnet wird.
 
     Im Fall von flüssiger Biomasse werden sämtliche Nebenerzeugnisse
     einschließlich des Stroms, der nicht unter Nummer 16 fällt, für die
@@ -2866,9 +2746,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Die Lebenszyklus-Treibhausgasemissionen von Abfällen, Ernterückständen
     wie Stroh, Bagasse, Hülsen, Maiskolben und Nussschalen sowie
-    Produktionsrückständen einschließlich Rohglycerin (nicht raffiniertes
-    Glycerin) werden bis zur Sammlung dieser Materialien mit null
-    festgesetzt.
+    Reststoffen aus der Verarbeitung einschließlich Rohglycerin (nicht
+    raffiniertes Glycerin) werden bis zur Sammlung dieser Materialien mit
+    null festgesetzt.
 
     Bei flüssigen Brennstoffen, die in Raffinerien hergestellt werden, ist
     die Analyseeinheit für die Zwecke der Berechnung nach Nummer 17 die
@@ -2879,24 +2759,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     die Zwecke der Berechnung nach Nummer 4 der Vergleichswert für
     Fossilbrennstoffe
     E
-    F                    91 g CO
-    2eq                   /MJ.
+    F 91 g CO
+    2eq/MJ.
 
     Bei flüssiger Biomasse, die zur Stromerzeugung in Kraft-Wärme-Kopplung
     verwendet wird, ist für die Zwecke der Berechnung nach Nummer 4 der
     Vergleichswert für Fossilbrennstoffe
     E
-    F                    85 g CO
-    2eq                   /MJ.
+    F 85 g CO
+    2eq/MJ.
 
 
 
 
+(zu § 8 Absatz 3)
 
-### Anlage 2 (zu § 8 Absatz 4) Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
+### Anlage 2 Standardwerte zur Berechnung der durch die Verwendung von flüssiger Biomasse erzielten Treibhausgasminderung
 
 (Fundstelle: BGBl. I 2009, 2195 - 2198;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 **1.** **Standardwerte für flüssige Biomasse**
 
@@ -2909,7 +2791,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3026,7 +2908,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **b)** Teilstandardwerte für die Verarbeitung einschließlich Stromüberschuss
         (e
-        p **–**                           e
+        p **–**e
         ee **gemäß Definition in Anlage 1):**
 
         *            *
@@ -3035,7 +2917,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3197,7 +3079,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3315,7 +3197,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3484,7 +3366,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3555,7 +3437,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     **b)** Teilstandardwerte für die Verarbeitung einschließlich Stromüberschuss
         (e
-        p **–**                           e
+        p **–**e
         ee **gemäß Anlage 1):**
 
         *            *
@@ -3564,7 +3446,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3614,7 +3496,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3691,7 +3573,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             *   Standardtreib-
                 hausgasemissionen
                 (g CO
-                2eq                                   /MJ)
+                2eq/MJ)
 
 
         *            *   aa)
@@ -3768,18 +3650,68 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 18 Absatz 1 Nummer 8 Buchstabe f) Vorläufige geschätzte
+Emissionen infolge von indirekten Landnutzungsänderungen durch
+flüssige Biobrennstoffe (in g CO
 
-### Anlage 3 (zu § 18 Absatz 2) Muster eines Nachhaltigkeitsnachweises
+### Anlage 3 /MJ)
 
-(Fundstelle: BGBl. I 2009, 2199)
-
-
-### Anlage 4 (zu § 24 Absatz 1) Muster eines Nachhaltigkeits-Teilnachweises
-
-(Fundstelle: BGBl. I 2009, 2201)
+(Fundstelle: BGBl. I 2018, 878)
 
 
-### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
+*    *   Rohstoffgruppe
+
+    *[^F803109_05_BJNR217400009BJNE008401118]
+   Mittelwert
+
+    *   Aus der Sensitivitäts-
+        analyse abgeleitete
+        Bandbreite zwischen
+[^F803109_06_BJNR217400009BJNE008401118]
+        den Perzentilen
+
+
+*    *   Getreide und
+        sonstige Kultur-
+        pflanzen mit
+        hohem Stärke-
+        gehalt
+
+    *   12
+
+    *   8 bis 16
+
+
+*    *   Zuckerpflanzen
+
+    *   13
+
+    *   4 bis 17
+
+
+*    *   Ölpflanzen
+
+    *   55
+
+    *   33 bis 66
+
+
+
+    Die hier aufgenommenen Mittelwerte stellen einen gewichteten
+    Durchschnitt der individuell dargestellten Rohstoffwerte dar.
+[^F803109_05_BJNR217400009BJNE008401118]: [^F803109_06_BJNR217400009BJNE008401118]:     Die hier berücksichtigte Bandbreite entspricht 90 Prozent der
+    Ergebnisse unter Verwendung des aus der Analyse resultierenden fünften
+    und fünfundneunzigsten Perzentilwerts. Das fünfte Perzentil deutet auf
+    einen Wert hin, unter dem 5 Prozent der Beobachtungen angesiedelt
+    waren (das heißt: 5 Prozent der verwendeten Gesamtdaten zeigten
+    Ergebnisse unter 8, 4 und 33 g CO2eq/MJ). Das fünfundneunzigste
+    Perzentil deutet auf einen Wert hin, unter dem 95 Prozent der
+    Beobachtungen angesiedelt waren (das heißt: 5 Prozent der verwendeten
+    Gesamtdaten zeigten Ergebnisse über 16, 17 und 66 g CO2eq/MJ).
+
+(zu § 33 Absatz 1, § 43 Absatz 1)
+
+### Anlage 4 Inhaltliche Anforderungen an Zertifizierungssysteme
 
 (Fundstelle: BGBl. I 2009, 2201 - 2202;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3812,8 +3744,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Dritten nicht zugänglich zu machen,
 
 
-        cc) welche Daten für die Berechnung des Treibhausgas-Minderungspotenzials
-            nach § 8 gemessen werden müssen und wie genau diese Daten sein müssen,
+        cc) welche Daten für die Berechnung der Treibhausgasminderung nach § 8
+            gemessen werden müssen und wie genau diese Daten sein müssen,
 
 
         dd) wie in dem Fall, dass eine Zertifizierungsstelle feststellt, dass ein
@@ -3825,7 +3757,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Information wesentlich ist, vorgesehen werden, und
 
 
-        ee) welches Verfahren Schnittstellen nach § 15 Absatz 3 zur Ausstellung
+        ee) welches Verfahren Schnittstellen nach § 15 Absatz 2 zur Ausstellung
             von Nachhaltigkeitsnachweisen anwenden müssen;
 
 
@@ -3914,17 +3846,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Anforderungen nach den §§ 16 und 17 enthalten.
 
 
-4.  Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-    kann die in den Nummern 1 bis 3 genannten Anforderungen im
-    Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-    und Verbraucherschutz durch ein Referenzsystem näher bestimmen und als
+4.  Das Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit kann die in den Nummern 1 bis 3 genannten
+    Anforderungen im Einvernehmen mit dem Bundesministerium für Ernährung
+    und Landwirtschaft durch ein Referenzsystem näher bestimmen und als
     Verwaltungsvorschrift im Bundesanzeiger bekannt machen. Satz 1 gilt
-    nicht für die Angaben, die von der Kommission der Europäischen
-    Gemeinschaften auf Grund des Artikels 18 Absatz 3 Unterabsatz 3 der
-    Richtlinie 2009/28/EG zu dem Zweck festgelegt werden, dass die
-    Wirtschaftsteilnehmer diese Angaben an die Mitgliedstaaten der
-    Europäischen Union übermitteln sollen.
+    nicht für die Angaben, die von der Europäischen Kommission auf Grund
+    des Artikels 18 Absatz 3 Unterabsatz 3 der Richtlinie 2009/28/EG zu
+    dem Zweck festgelegt werden, dass die Wirtschaftsteilnehmer diese
+    Angaben an die Mitgliedstaaten der Europäischen Union übermitteln
+    sollen.
 
 
+
+
+
+### Anlage 5 (jetzt Anlage 4)
 
 

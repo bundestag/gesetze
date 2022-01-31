@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1968, 787
 
 Zuletzt geändert durch
-:   Art. 5 G v. 29.7.2009 I 2424
+:   Art. 41 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel
@@ -92,6 +92,11 @@ Sicherstellung von Arbeitsleistungen
     Abfallbeseitigung,
 
 
+4a. in Ernährungsunternehmen nach § 2 Nummer 6 des
+    Ernährungssicherstellungs- und
+    -vorsorgegesetzes,
+
+
 5.  in Krankenanstalten und anderen Einrichtungen, in denen
     pflegebedürftige Personen betreut werden,
 
@@ -104,9 +109,9 @@ Sicherstellung von Arbeitsleistungen
 
 
 8.  bei der Deutschen Post AG, der Deutschen Postbank AG und der Deutschen
-    Telekom AG sowie bei Unternehmen nach § 2 Nr. 2 und 3 des Post- und
-    Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer
-    Rechtsverordnung nach § 3 des vorgenannten Gesetzes verpflichtet sind,
+    Telekom AG sowie bei Unternehmen, die nach § 1 des
+    Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des
+    Telekommunikationsgesetzes verpflichtet sind,
 
 
 9.  bei der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten
@@ -385,13 +390,13 @@ zu erlassen.
 
 (1) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so
 ruht sein bisheriges Arbeitsverhältnis während der Dauer der
-Verpflichtung. § 1 Abs. 4 und 5, die §§ 2, 3 und 4 Abs. 1 Satz 1, Abs.
-2 bis 4, die §§ 6, 12 Abs. 1, §§ 13, 14a Abs. 3 und 6 und § 14b Abs. 1
-und 5 des Arbeitsplatzschutzgesetzes gelten entsprechend; § 14a Abs. 3
-und 6 und § 14b Abs. 1 und 5 gelten jedoch mit der Maßgabe, daß der
-neue Arbeitgeber erstattungspflichtig ist. Dieser darf etwaige
-Arbeitnehmeranteile von dem Arbeitsentgelt der verpflichteten Personen
-einbehalten.
+Verpflichtung. § 1 Absatz 4 und 5, die §§ 2, 3 und 4 Absatz 1 Satz 1,
+Absatz 2 bis 4, die §§ 5, 6, 12 Absatz 1 und § 13 des
+Arbeitsplatzschutzgesetzes gelten entsprechend; § 14a Absatz 3 und §
+14b Absatz 1 des Arbeitsplatzschutzgesetzes gelten mit der Maßgabe
+entsprechend, dass der neue Arbeitgeber erstattungspflichtig ist.
+Dieser darf etwaige Arbeitnehmeranteile von dem Arbeitsentgelt der
+verpflichteten Personen einbehalten.
 
 (2) Für in Heimarbeit Beschäftigte und für Handelsvertreter gelten die
 §§ 7 und 8 des Arbeitsplatzschutzgesetzes entsprechend.
@@ -419,8 +424,8 @@ gesetzlichen Unfallversicherung gewährt werden; insgesamt darf der
 Arbeitnehmer bei Arbeitsunfähigkeit nicht mehr erhalten, als er
 erhalten würde, wenn er nicht in ein Arbeitsverhältnis verpflichtet
 worden wäre. Für das fortbestehende Arbeitsverhältnis gelten § 1 Abs.
-1, 4 und 5, die §§ 2, 3, 4 Abs. 1 bis 4, die §§ 6, 12, 13 und 14a Abs.
-1 des Arbeitsplatzschutzgesetzes entsprechend.
+1, 4 und 5, die §§ 2, 3, 4 Abs. 1 bis 4, die §§ 5, 6, 12, 13 und 14a
+Absatz 1 des Arbeitsplatzschutzgesetzes entsprechend.
 
 (3) Auf die nach den Absätzen 1 und 2 weiter zu gewährenden
 Dienstbezüge, Unterhaltszuschüsse, Vergütungen oder Arbeitsentgelte
@@ -434,8 +439,10 @@ Unfallversicherung, das Kurzarbeitergeld und das Schlechtwettergeld.
 #### § 17 Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
 
 (1) Ein in ein Arbeitsverhältnis Verpflichteter, der nicht unter § 16
-fällt, erhält, soweit sich sein Nettoeinkommen im Sinne des § 10 des
-Unterhaltssicherungsgesetzes durch die Verpflichtung vermindert, den
+fällt, erhält, soweit sich sein Arbeitsentgelt, gemindert um die
+hierauf zu entrichtende Einkommensteuer, den Solidaritätszuschlag, die
+Arbeitnehmeranteile zur gesetzlichen Sozialversicherung und die
+Kirchensteuer durch die Verpflichtung vermindert, den
 Unterschiedsbetrag von der zuständigen Unterhaltssicherungsbehörde zu
 Lasten des Bundes; dieser ist auch nach dem Ende der Verpflichtung
 weiterzuzahlen, solange Krankengeld aus der gesetzlichen
@@ -443,39 +450,23 @@ Krankenversicherung oder entsprechende Leistungen aus der gesetzlichen
 Unfallversicherung gewährt werden; § 16 Abs. 2 Satz 2 zweiter Halbsatz
 gilt entsprechend. Der Unterschiedsbetrag darf zusammen mit den
 laufenden Nettogeldbezügen aus dem neuen Arbeitsverhältnis je
-Kalendertag der Verpflichtung für Verpflichtete mit
-unterhaltsberechtigten Familienangehörigen den in § 13 Abs. 4
-Buchstabe a des Unterhaltssicherungsgesetzes bestimmten Höchstbetrag
-und für die übrigen Verpflichteten den in § 13 Abs. 4 Buchstabe b des
+Kalendertag der Verpflichtung den in § 5 Absatz 3 des
 Unterhaltssicherungsgesetzes bestimmten Höchstbetrag jeweils nicht
-mehr als um 135 vom Hundert übersteigen. Der Unterschiedsbetrag
-unterliegt nicht den Steuern vom Einkommen und Ertrag.
+mehr als um 135 Prozent übersteigen. Der Unterschiedsbetrag unterliegt
+nicht den Steuern vom Einkommen und Ertrag.
 
-(2) Ein in ein Arbeitsverhältnis Verpflichteter, dessen
-Gewerbebetrieb, Betrieb der Land- und Forstwirtschaft oder dessen
-selbständige Tätigkeit während der Verpflichtung fortgeführt wird,
-erhält den Unterschiedsbetrag nicht. Ihm werden jedoch angemessene
-Aufwendungen für Ersatzkräfte oder Vertreter erstattet, die an seiner
-Stelle während der Dauer der Verpflichtung tätig werden. Die laufenden
-Nettogeldbezüge aus dem neuen Arbeitsverhältnis sind anzurechnen.
+(2) Ein in ein Arbeitsverhältnis Verpflichteter, der Inhaber eines
+Betriebs der Land- und Forstwirtschaft oder eines Gewerbebetriebs ist
+oder eine selbständige Arbeit ausübt, erhält Leistungen entsprechend §
+6 des Unterhaltssicherungsgesetzes. Die laufenden Nettogeldbezüge aus
+dem neuen Arbeitsverhältnis sind anzurechnen.
 
-(3) Ein in ein Arbeitsverhältnis Verpflichteter, der seinen
-Gewerbebetrieb, Betrieb der Land- und Forstwirtschaft oder seine
-selbständige Tätigkeit während der Verpflichtung nicht durch eine
-Ersatzkraft oder einen Vertreter fortführen läßt und dessen Betrieb
-ruht, erhält neben dem Unterschiedsbetrag nach Absatz 1 Ersatz der
-Aufwendungen für Miete der Berufsstätte sowie für die übrigen
-Betriebsausgaben im Sinne des Einkommensteuergesetzes, sofern er
-entsprechende laufende Zahlungsverpflichtungen für die Dauer der
-Verpflichtung nachweist.
+(3) Für das Verfahren nach den Absätzen 1 und 2 gilt Kapitel 3 des
+Unterhaltssicherungsgesetzes.
 
-(4) Die Leistungen nach den Absätzen 1 bis 3 werden auf Antrag
-gewährt. Für die Zuständigkeit und das Verfahren gilt der Dritte
-Abschnitt des Unterhaltssicherungsgesetzes entsprechend.
+(4) § 3 des Unterhaltssicherungsgesetzes gilt entsprechend.
 
-(5) § 23 des Unterhaltssicherungsgesetzes wird mit der Maßgabe
-angewandt, daß an die Stelle des Bundesministeriums der Verteidigung
-das Bundesministerium für Arbeit und Soziales tritt.
+(5) (weggefallen)
 
 
 ### 3. Unterabschnitt - Sozialversicherung, Arbeitslosenversicherung, Pflegeversicherung
@@ -605,17 +596,15 @@ Arbeitsverhältnis nicht als Arbeitnehmer oder nicht zu ihrer
 Berufsausbildung beschäftigt waren, bleiben auch während ihrer
 Verpflichtung in ein Arbeitsverhältnis versicherungsfrei.
 
-(2) Bei der Bemessung des Beitrages zur
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
+(2) Bei der Bemessung des Beitrages zur Bundesagentur für Arbeit
 werden die Leistungen nach den §§ 16 und 17 nicht berücksichtigt.
 
 (3) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so
 darf ihm daraus im Falle der Arbeitslosigkeit hinsichtlich der Höhe
 des Arbeitslosengelds kein Nachteil entstehen. Das Nähere bestimmt die
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-mit Zustimmung des Bundesministeriums für Arbeit und Soziales.
-Mehraufwendungen, die der Bundesagentur in Auswirkung des Satzes 1
-entstehen, trägt der Bund.
+Bundesagentur für Arbeit mit Zustimmung des Bundesministeriums für
+Arbeit und Soziales. Mehraufwendungen, die der Bundesagentur in
+Auswirkung des Satzes 1 entstehen, trägt der Bund.
 
 (4)
 
@@ -704,9 +693,8 @@ Agentur für Arbeit ersetzt im Auftrag des Bundes Grenzarbeitnehmern,
 in Heimarbeit Beschäftigten, soweit sie nicht durch § 25 Abs. 4 erfaßt
 werden, sowie Selbständigen den Verdienstausfall; die Vorschriften des
 Justizvergütungs- und -entschädigungsgesetzes finden sinngemäß
-Anwendung. Diese Aufwendungen werden der
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-vom Bund erstattet.
+Anwendung. Diese Aufwendungen werden der Bundesagentur für Arbeit vom
+Bund erstattet.
 
 
 ### § 27 Rechtsweg
@@ -917,25 +905,22 @@ zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 ### § 34 Koordinierung und Bedarfsdeckung
 
 Die Bundesregierung erläßt durch Rechtsverordnung Vorschriften über
-die Zusammenarbeit der
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-mit den fachlich zuständigen Bundes- und Landesbehörden bei der
-Feststellung und Deckung des Arbeitskräftebedarfs. Sie regelt hierbei,
-wie die zur Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn
-diese nicht ausreichen, den Bedarf zu decken.
+die Zusammenarbeit der Bundesagentur für Arbeit mit den fachlich
+zuständigen Bundes- und Landesbehörden bei der Feststellung und
+Deckung des Arbeitskräftebedarfs. Sie regelt hierbei, wie die zur
+Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn diese nicht
+ausreichen, den Bedarf zu decken.
 
 
-### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
+### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zur
-Durchführung des Gesetzes der
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-Weisungen erteilen. Er führt insoweit auch die Dienstaufsicht.
+Durchführung des Gesetzes der Bundesagentur für Arbeit Weisungen
+erteilen. Es führt insoweit auch die Dienstaufsicht.
 
-(2) Die
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-übernimmt die ihr aus der Durchführung dieses Gesetzes entstehenden
-Kosten. Sie werden ihr vom Bund erstattet.
+(2) Die Bundesagentur für Arbeit übernimmt die ihr aus der
+Durchführung dieses Gesetzes entstehenden Kosten. Sie werden ihr vom
+Bund erstattet.
 
 
 ### § 36 Begriffsbestimmung

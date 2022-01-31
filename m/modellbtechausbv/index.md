@@ -27,7 +27,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25
 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in
@@ -1015,8 +1015,9 @@ Zwischenprüfung abgelegt wurde.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 
 (Fundstelle: BGBl. I 2009, 1193 - 1200)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

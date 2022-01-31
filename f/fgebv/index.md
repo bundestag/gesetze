@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1226
 
+V aufgeh. durch
+:   Art. 4 Abs. 100 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 6.2.2012 I 130
+:   Art. 1 V v. 24.9.2013 I 3710
+
+V aufgeh. durch
+:   Art. 4 Abs. 104 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 104 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -127,9 +133,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   A.3
 
     *   Zurücknahme eines Antrags nach dem Beginn der sachlichen Bearbeitung
-        und vor Beendigung der Amtshandlung; Ablehnung eines Antrags aus
-        anderen Gründen als wegen Unzuständigkeit; Widerruf oder Rücknahme
-        einer Amtshandlung, soweit der Betroffene dazu Anlass gegeben hat
+        und vor Beendigung der individuell zurechenbaren öffentlichen
+        Leistung; Ablehnung eines Antrags aus anderen Gründen als wegen
+        Unzuständigkeit; Widerruf oder Rücknahme eines Verwaltungsaktes,
+        soweit der Betroffene dazu Anlass gegeben hat
 
     *   bis zu 75 % der Gebühr für den beantragten Verwaltungsakt
 
@@ -200,20 +207,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   B.1.1
 
-    *   Zuteilung einer Frequenz in einem GSM-Netz (Referenzbandbreite bis 200
-        kHz)
+    *   (weggefallen)
 
-    *   100.000 bis 2.000.000
-
+    *
 
 *    *   B.1.1.1
 
-    *   Festsetzung der funktechnischen Parameter pro Sektor und Kanal an
-        einem Standort bei Frequenznutzungen in D- und E-Netzen im Rahmen der
-        Frequenzzuteilung
+    *   (weggefallen)
 
-    *   14
-
+    *
 
 *    *   B.1.2
 
@@ -243,12 +245,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   B.1.5
 
-    *   Festsetzung der funktechnischen Parameter pro Sektor und Kanal an
-        einem Standort im Rahmen von Frequenzzuteilungen für Frequenznutzungen
-        in einem UMTS-Netz
+    *   (weggefallen)
 
-    *   36
-
+    *
 
 *    *   B.2
 
@@ -261,7 +260,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuteilung einer Frequenz für den Betrieb einer Sendefunkanlage mit
         Verträglichkeitsprüfung
 
-    *   100 bis 1.500
+    *   100 bis 1 500
 
 
 *    *   B.2.2
@@ -270,7 +269,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Funkanbindung von Teilnehmeranschlussleitungen (Wireless Local Loop
         (WLL), PMP-I-Richtfunk)
 
-    *   1.250 bis 12.500.000
+    *   1 250 bis 12 500 000
 
 
 *    *   B.3
@@ -292,14 +291,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuteilung einer Frequenz für eine Erdfunkstelle mit
         Verträglichkeitsprüfung
 
-    *   100 bis 1.000
+    *   100 bis 1 000
 
 
 *    *   B.3.3
 
     *   Frequenzzuteilung für ein lizenzpflichtiges Satellitenfunksystem
 
-    *   500 bis 3.500
+    *   500 bis 3 500
 
 
 *    *   B.4
@@ -323,7 +322,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Betriebsfunk aus Frequenzbereichen, die nicht zur Nutzung als
         "Gemeinschaftsfrequenzen" bestimmt sind
 
-    *   100 bis 1.000
+    *   100 bis 1 000
 
 
 *    *   B.4.3
@@ -499,7 +498,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Frequenzzuteilung für die Funkanbindung von Teilnehmeranschlüssen
         mittels DECT-Technologie
 
-    *   1.250 bis 1.093.750
+    *   1 250 bis 1 093 750
 
 
 *    *   B.8.2
@@ -507,7 +506,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Frequenzzuteilung für die Funkanbindung von Teilnehmeranschlüssen
         mittels Punkt-zu-Multipunkt-Richtfunk (WLL-PMP-Rifu)
 
-    *   1.250 bis 8.750.000
+    *   1 250 bis 8 750 000
 
 
 *    *   B.9
@@ -520,7 +519,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Frequenzzuteilung für den Betrieb eines Langwellensenders
 
-    *   2.500
+    *   2 500
 
 
 *    *   B.9.2
@@ -528,7 +527,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Frequenzzuteilung für den Betrieb eines Mittelwellensenders in
         analoger Übertragungstechnik
 
-    *   2.500
+    *   2 500
 
 
 *    *   B.9.3
@@ -536,7 +535,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Frequenzzuteilung für den Betrieb eines Mittelwellensenders in
         digitaler Übertragung
 
-    *   1.250
+    *   1 250
 
 
 *    *   B.9.4
@@ -544,7 +543,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Frequenzzuteilung für den Betrieb eines Kurzwellensenders in analoger
         Übertragungstechnik
 
-    *   1.500
+    *   1 500
 
 
 *    *   B.9.5
@@ -621,7 +620,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         der für den Rundfunkdienst zugewiesenen Frequenzbereiche
 
     *   25 % innerhalb der jeweiligen Neuzuteilungsgebühr, mindestens 450;
-        maximal 1.250
+        maximal 1 250
 
 
 *    *   B.9.14
@@ -634,9 +633,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   B.9.15
 
-    *   Frequenzzuteilung für nicht grundstücks- überschreitende
-        Funkanwendungen mit Rundfunktechnik innerhalb der für den
-        Rundfunkdienst zugewiesenen Frequenzbereiche
+    *   Frequenzzuteilung für nicht grundstücksüberschreitende Funkanwendungen
+        mit Rundfunktechnik innerhalb der für den Rundfunkdienst zugewiesenen
+        Frequenzbereiche
 
     *   450
 
@@ -680,6 +679,43 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   50 bis 150
 
 
+*    *   B.10
+
+    *   Drahtloser Netzzugang zum Angebot von Telekommunikationsdiensten
+
+    *
+
+*    *   B.10.1
+
+    *   Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen
+        Netzzugang in den Frequenzbereichen 880 bis 915 MHz und 925 bis 960
+        MHz (einschließlich der Festsetzung funktechnischer Parameter)
+
+    *   B · 500 000 ·
+        t
+        1
+
+
+*    *   B.10.2
+
+    *   Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen
+        Netzzugang in den Frequenzbereichen 1710 bis 1780,5 MHz und 1805 bis
+        1875,5 MHz (einschließlich der Festsetzung funktechnischer Parameter)
+
+    *   B · 250 000 ·
+        t
+        1
+
+
+*    *   B.10.3
+
+    *   Frequenzzuteilung zur regionalen Nutzung für den drahtlosen Netzzugang
+        in dem Frequenzbereich 3400 bis 3800 MHz (einschließlich der
+        Festsetzung funktechnischer Parameter)
+
+    *        ![bgbl1_2013_j3710-1_0010.jpg](bgbl1_2013_j3710-1_0010.jpg)   mindestens jedoch 1 250
+
+
 *    *   C
 
     *   Gebühren für Maßnahmen auf Grund von Verstößen gegen die §§ 44 bis 47
@@ -694,7 +730,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Auflagen oder die Frequenzzuteilungsverordnung einschließlich
         Festlegen der Maßnahmen
 
-    *   25 bis 1.500
+    *   25 bis 1 500
 
 
 *    *   C.2
@@ -717,7 +753,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Funksendern, die gegen Frequenzzuteilungsbedingungen, Auflagen oder
         die Frequenzzuteilungsverordnung verstoßen
 
-    *   250 bis 1.500
+    *   250 bis 1 500
 
 
 *    *   D
@@ -728,7 +764,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Gebührenfestsetzung nach den Vorgaben in § 142 Abs. 2 Satz 3 und 4 des
         Telekommunikationsgesetzes
 
-    *   60 bis 5.000.000
+    *   60 bis 5 000 000
 
 
 
@@ -801,6 +837,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Gleichwellennetz zu keiner Vergrößerung der Theoretischen
     Versorgungsfläche dieses Netzes führen, werden keine
     Zuteilungsgebühren erhoben.
+
+
+
+
+
+*    *   1
+
+    *   Die Höhe der Gebühr wird nach der angegebenen Formel bestimmt.
+
+
+*    *
+    *   Hierbei sind:
+
+
+*    *
+    *   B
+
+    *   zugeteilte Bandbreite in MHz;
+
+
+*    *
+    *   EW
+        Region
+
+    *   Einwohnerzahl der Region bzw. – in Sonderfällen wie zum Beispiel
+        Flughäfen, Firmen – potenzielle Nutzerzahl in der Region, für die die
+        Frequenzzuteilung erfolgt;
+
+
+*    *
+    *   EW
+        BRD
+
+    *   Einwohnerzahl der Bundesrepublik Deutschland;
+
+
+*    *
+    *   t
+
+    *   Laufzeit der Zuteilung in Jahren; soweit die Laufzeit der Zuteilung
+        nicht in vollen Jahren bestimmt ist, wird für jeden angefangenen Monat
+        eine Gebühr in Höhe eines Zwölftels einer Jahresgebühr erhoben.
 
 
 

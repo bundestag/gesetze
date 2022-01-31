@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2907
 
+Geändert durch
+:   Art. 1 V v. 5.12.2013 I 4040
+
 
 
 ## Eingangsformel
@@ -33,12 +36,12 @@ Jugend:
 (1) Die Höhe des Kostenbeitrags, den Elternteile, Ehegatten oder
 Lebenspartner junger Menschen zu entrichten haben, richtet sich nach
 
-a)  der Einkommensgruppe in Spalte 1 der Anlage, der das nach § 93 Abs. 1
-    bis 3 des Achten Buches Sozialgesetzbuch zu ermittelnde Einkommen
-    zuzuordnen ist, und
+a)  der Einkommensgruppe in Spalte 1 der Anlage, der das nach § 93 des
+    Achten Buches Sozialgesetzbuch zu ermittelnde Einkommen zuzuordnen
+    ist, und
 
 
-b)  der Beitragsstufe in den Spalten 2 bis 6 der Anlage, die nach Maßgabe
+b)  der Beitragsstufe in den Spalten 2 bis 5 der Anlage, die nach Maßgabe
     dieser Verordnung zu ermitteln ist.
 
 
@@ -67,15 +70,10 @@ Kostenbeitrag nach Maßgabe von § 7 erhoben.
 
 ## § 3 Wahl der Beitragsstufe bei teilstationären Leistungen
 
-(1) Die Höhe des Kostenbeitrags für teilstationäre Leistungen nach §
-91 Abs. 2 des Achten Buches Sozialgesetzbuch ergibt sich aus den
-Beitragsstufen zur jeweiligen Einkommensgruppe in den Spalten 5 und 6
-der Anlage.
-
-(2) Beträgt die tägliche Förderung durchschnittlich über fünf Stunden,
-so ergibt sich der maßgebliche Kostenbeitrag aus der jeweiligen
-Beitragsstufe in Spalte 5, anderenfalls aus der jeweiligen
-Beitragsstufe in Spalte 6.
+Die Höhe des Kostenbeitrags für teilstationäre Leistungen nach § 91
+Absatz 2 des Achten Buches Sozialgesetzbuch ergibt sich aus der
+Beitragsstufe zur jeweiligen Einkommensgruppe in der Spalte fünf der
+Anlage.
 
 
 ## § 4 Berücksichtigung weiterer Unterhaltspflichten
@@ -89,24 +87,22 @@ weist sie nach, dass sie ihren Unterhaltspflichten regelmäßig
 nachkommt, so ist sie
 
 1.  bei einer Zuordnung des maßgeblichen Einkommens zu einer der
-    Einkommensgruppen 2 bis 7 je Unterhaltspflicht einer um zwei Stufen
+    Einkommensgruppen 2 bis 6 je Unterhaltspflicht einer um zwei Stufen
     niedrigeren Einkommensgruppe zuzuordnen,
 
 
 2.  bei einer Zuordnung des maßgeblichen Einkommens zu einer der
-    Einkommensgruppen 8 bis 20 je Unterhaltspflicht einer um eine Stufe
+    Einkommensgruppen 7 bis 18 je Unterhaltspflicht einer um eine Stufe
     niedrigeren Einkommensgruppe zuzuordnen
 
 
 
 und zu einem entsprechend niedrigeren Kostenbeitrag heranzuziehen.
 
-(2) Würden die Unterhaltsansprüche vorrangig Berechtigter trotz einer
-niedrigeren Einstufung nach Absatz 1 auf Grund der Höhe des
-Kostenbeitrags geschmälert, so ist der Kostenbeitrag entsprechend zu
-reduzieren. Würden die Unterhaltsansprüche gleichrangig Berechtigter
-geschmälert, so liegt eine besondere Härte im Sinne des § 92 Abs. 5
-Satz 1 des Achten Buches Sozialgesetzbuch vor. Lebt die
+(2) Würden die Unterhaltsansprüche vorrangig oder gleichrangig
+Berechtigter trotz einer niedrigeren Einstufung nach Absatz 1 auf
+Grund der Höhe des Kostenbeitrags geschmälert, so ist der
+Kostenbeitrag entsprechend zu reduzieren. Lebt die
 kostenbeitragspflichtige Person nicht in einem Haushalt mit der
 Person, gegenüber der sie mindestens im gleichen Rang zum Unterhalt
 verpflichtet ist, findet eine Reduzierung nur statt, wenn die
@@ -116,10 +112,10 @@ Unterhaltspflichten regelmäßig nachkommt.
 
 ## § 5 Behandlung hoher Einkommen
 
-(1) Liegt das nach § 93 Abs. 1 bis 3 des Achten Buches
-Sozialgesetzbuch maßgebliche Einkommen eines Elternteils, Ehegatten
-oder Lebenspartners oberhalb der Einkommensgruppe 30 der Anlage, so
-ist der Kostenbeitrag nach den folgenden Grundsätzen zu errechnen.
+(1) Liegt das nach § 93 des Achten Buches Sozialgesetzbuch maßgebliche
+Einkommen eines Elternteils, Ehegatten oder Lebenspartners oberhalb
+der Einkommensgruppe 27 der Anlage, so ist der Kostenbeitrag nach den
+folgenden Grundsätzen zu errechnen.
 
 (2) Die Höhe des Kostenbeitrags für vollstationäre Leistungen beträgt
 
@@ -138,23 +134,14 @@ ist der Kostenbeitrag nach den folgenden Grundsätzen zu errechnen.
 
 
 Ab der vierten vollstationär untergebrachten Person wird nur noch ein
-Kostenbeitrag nach Maßgabe von § 7 erhoben. Liegt das nach § 93 Abs. 1
-bis 3 des Achten Buches Sozialgesetzbuch maßgebende Einkommen eines
-Elternteils, Ehegatten oder Lebenspartners oberhalb der
-Einkommensgruppe 30 der Anlage, so kann eine Heranziehung bis zur
-vollen Höhe der Kosten für stationäre Leistungen erfolgen.
+Kostenbeitrag nach Maßgabe von § 7 erhoben. Liegt das nach § 93 des
+Achten Buches Sozialgesetzbuch maßgebende Einkommen eines Elternteils,
+Ehegatten oder Lebenspartners oberhalb der Einkommensgruppe 27 der
+Anlage, so kann eine Heranziehung bis zur vollen Höhe der Kosten für
+stationäre Leistungen erfolgen.
 
 (3) Die Höhe des Kostenbeitrags für teilstationäre Leistungen beträgt
-
-1.  5 Prozent des maßgeblichen Einkommens für Leistungen mit einer
-    Betreuungszeit von mindestens fünf Stunden und
-
-
-2.  3 Prozent des maßgeblichen Einkommens für Leistungen mit einer
-    Betreuungszeit von unter fünf Stunden.
-
-
-
+5 Prozent des maßgeblichen Einkommens.
 
 (4) Die Kostenbeiträge dürfen die Höhe der tatsächlichen Aufwendungen
 nicht überschreiten.
@@ -164,13 +151,20 @@ nicht überschreiten.
 
 Bei Leistungen für junge Volljährige ist ein kostenbeitragspflichtiger
 Elternteil höchstens zu einem Kostenbeitrag auf Grund der
-Einkommensgruppe 14 heranzuziehen.
+Einkommensgruppe 13 heranzuziehen. Der kostenbeitragspflichtige
+Elternteil ist bei einer Zuordnung des maßgeblichen Einkommens zu der
+Einkommensgruppe 2 oder 3 der Einkommensgruppe 1 zuzuordnen. Bei einer
+Zuordnung des maßgeblichen Einkommens zu der Einkommensgruppe 4 ist
+der kostenpflichtige Elternteil der Einkommensgruppe 2 zuzuordnen. Die
+Zuordnung nach den Sätzen 1 und 2 erfolgt nach Berücksichtigung der
+Zuordnung nach § 4 Absatz 1.
 
 
 ## § 7 Einsatz des Kindergelds
 
-(1) Ein Elternteil hat einen Kostenbeitrag in Höhe des Kindergelds zu
-zahlen, wenn
+Ein Elternteil hat unabhängig von einer einkommensabhängigen
+Heranziehung nach den §§ 1 bis 6 einen Kostenbeitrag in Höhe des
+Kindergelds zu zahlen, wenn
 
 1.  vollstationäre Leistungen erbracht werden,
 
@@ -178,34 +172,11 @@ zahlen, wenn
 2.  er Kindergeld für den jungen Menschen bezieht und
 
 
-3.  er nach Maßgabe von §§ 2 und 4 keinen oder einen Kostenbeitrag zu
-    zahlen hätte, der niedriger als das monatliche Kindergeld ist.
+3.  seine Heranziehung nicht nachrangig nach § 94 Absatz 1 Satz 3 und 4
+    des Achten Buches Sozialgesetzbuch ist.
 
 
 
-
-(2) Bei einer Erstattung nach § 74 Abs. 2 des Einkommensteuergesetzes
-wird das Kindergeld in voller Höhe vom Kostenbeitrag des
-kindergeldberechtigten Elternteils abgezogen.
-
-
-## § 8 Übergangsregelung für Altfälle
-
-(1) Ergibt sich bei der Umstellung der Heranziehung zu den Kosten nach
-Maßgabe des § 97b des Achten Buches Sozialgesetzbuch ein
-Kostenbeitrag, der mehr als 20 Prozent über der bisherigen Belastung
-liegt, so ist in den ersten sechs Monaten nach der Umstellung bis zur
-Einkommensgruppe 12 nur eine hälftige Erhöhung vorzunehmen. Danach ist
-der Kostenbeitrag in voller Höhe zu erheben.
-
-(2) Waren die Eltern bisher als Gesamtschuldner
-kostenbeitragspflichtig, so ist jedem der beiden Elternteile bei der
-Vergleichsberechnung nach Absatz 1 die hälftige Belastung zuzurechnen.
-
-
-## § 9 Inkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel
@@ -213,25 +184,34 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage (zu § 1)
+## Anlage
 
-(Fundstelle: BGBl. I 2005, 2909)
-
-*    *   Maßgebliches Einkommen nach § 93 Abs. 1 bis 3 Achtes Buch
-        Sozialgesetzbuch
-
-    *   Beitragsstufe 1 vollstationär erste Person
-
-    *   Beitragsstufe 2 vollstationär zweite Person
+(Fundstelle: BGBl. I 2013, 4041)
 
 
-*    *   Einkommensgruppe
+*    *   Maßgebliches
+        Einkommen nach § 93 des
+        Achten Buches Sozialgesetzbuch
 
-    *   Euro
+    *   Beitragsstufe 1
 
-    *   Euro
+    *   Beitragsstufe 2
 
-    *   Euro
+    *   Beitragsstufe 3
+
+    *   Beitragsstufe 4
+
+
+*    *   vollstationär
+        erste Person
+
+    *   vollstationär
+        zweite Person
+
+    *   vollstationär
+        dritte Person
+
+    *   teilstationär
 
 
 *    *   Spalte 1
@@ -240,285 +220,9 @@ Der Bundesrat hat zugestimmt.
 
     *   Spalte 3
 
+    *   Spalte 4
 
-*    *   1
-
-    *   bis 750
-
-    *   0 \*)
-
-    *   0 \*)
-
-
-*    *   2
-
-    *   751 bis 850
-
-    *   60 \*)
-
-    *   25 \*)
-
-
-*    *   3
-
-    *   851 bis 950
-
-    *   185
-
-    *   50 \*)
-
-
-*    *   4
-
-    *   951 bis 1.050
-
-    *   250
-
-    *   100 \*)
-
-
-*    *   5
-
-    *   1.051 bis 1.150
-
-    *   275
-
-    *   165 \*)
-
-
-*    *   6
-
-    *   1.151 bis 1.300
-
-    *   305
-
-    *   180
-
-
-*    *   7
-
-    *   1.301 bis 1.450
-
-    *   340
-
-    *   205
-
-
-*    *   8
-
-    *   1.451 bis 1.600
-
-    *   380
-
-    *   230
-
-
-*    *   9
-
-    *   1.601 bis 1.800
-
-    *   425
-
-    *   255
-
-
-*    *   10
-
-    *   1.801 bis 2.000
-
-    *   475
-
-    *   285
-
-
-*    *   11
-
-    *   2.001 bis 2.200
-
-    *   525
-
-    *   315
-
-
-*    *   12
-
-    *   2.201 bis 2.400
-
-    *   575
-
-    *   345
-
-
-*    *   13
-
-    *   2.401 bis 2.700
-
-    *   635
-
-    *   380
-
-
-*    *   14
-
-    *   2.701 bis 3.000
-
-    *   710
-
-    *   425
-
-
-*    *   15
-
-    *   3.001 bis 3.300
-
-    *   785
-
-    *   470
-
-
-*    *   16
-
-    *   3.301 bis 3.600
-
-    *   875
-
-    *   515
-
-
-*    *   17
-
-    *   3.601 bis 3.900
-
-    *   935
-
-    *   560
-
-
-*    *   18
-
-    *   3.901 bis 4.200
-
-    *   1.010
-
-    *   605
-
-
-*    *   19
-
-    *   4.201 bis 4.600
-
-    *   1.100
-
-    *   660
-
-
-*    *   20
-
-    *   4.601 bis 5.000
-
-    *   1.200
-
-    *   720
-
-
-*    *   21
-
-    *   5.001 bis 5.500
-
-    *   1.375
-
-    *   825
-
-
-*    *   22
-
-    *   5.501 bis 6.000
-
-    *   1.500
-
-    *   900
-
-
-*    *   23
-
-    *   6.001 bis 6.500
-
-    *   1.625
-
-    *   975
-
-
-*    *   24
-
-    *   6.501 bis 7.000
-
-    *   1.750
-
-    *   1.050
-
-
-*    *   25
-
-    *   7.001 bis 7.500
-
-    *   1.875
-
-    *   1.125
-
-
-*    *   26
-
-    *   7.501 bis 8.000
-
-    *   2.000
-
-    *   1.200
-
-
-*    *   27
-
-    *   8.001 bis 8.500
-
-    *   2.125
-
-    *   1.275
-
-
-*    *   28
-
-    *   8.501 bis 9.000
-
-    *   2.250
-
-    *   1.350
-
-
-*    *   29
-
-    *   9.001 bis 9.500
-
-    *   2.375
-
-    *   1.425
-
-
-*    *   30
-
-    *   9.501 bis 10.000
-
-    *   2.500
-
-    *   1.500
-
-
-*    *
-
-*    *   Maßgebliches Einkommen nach § 93 Abs. 1 bis 3 Achtes Buch
-        Sozialgesetzbuch
-
-    *   Beitragsstufe 3 vollstationär dritte Person
-
-    *   Beitragsstufe 4 teilstationär über 5 Std.
+    *   Spalte 5
 
 
 *    *   Einkommensgruppe
@@ -529,522 +233,360 @@ Der Bundesrat hat zugestimmt.
 
     *   Euro
 
+    *   Euro
 
-*    *   Spalte 1
-
-    *   Spalte 4
-
-    *   Spalte 5
+    *   Euro
 
 
 *    *   1
 
-    *   bis 750
+    *   bis 1 100,99
 
-    *   0 \*)
+    *   0
+
+    *   0
+
+    *   0
 
     *   0
 
 
 *    *   2
 
-    *   751 bis 850
+    *   1 101,00 bis 1 200,99
 
-    *   0 \*)
+    *   50
+
+    *   0
+
+    *   0
 
     *   40
 
 
 *    *   3
 
-    *   851 bis 950
+    *   1 201,00 bis 1 300,99
 
-    *   0 \*)
+    *   130
 
-    *   45
+    *   0
 
-
-*    *   4
-
-    *   951 bis 1.050
-
-    *   50 \*)
+    *   0
 
     *   50
 
 
-*    *   5
+*    *   4
 
-    *   1.051 bis 1.150
+    *   1 301,00 bis 1 450,99
 
-    *   70 \*)
+    *   210
 
-    *   55
+    *   30
 
-
-*    *   6
-
-    *   1.151 bis 1.300
-
-    *   100 \*)
+    *   0
 
     *   60
 
 
-*    *   7
+*    *   5
 
-    *   1.301 bis 1.450
+    *   1 451,00 bis 1 600,99
 
-    *   135 \*)
+    *   259
 
-    *   65
+    *   60
 
+    *   30
 
-*    *   8
-
-    *   1.451 bis 1.600
-
-    *   150 \*)
-
-    *   75
+    *   70
 
 
-*    *   9
+*    *   6
 
-    *   1.601 bis 1.800
+    *   1 601,00 bis 1 800,99
 
-    *   170 \*)
+    *   289
+
+    *   85
+
+    *   40
 
     *   85
 
 
-*    *   10
+*    *   7
 
-    *   1.801 bis 2.000
+    *   1 801,00 bis 2 000,99
 
-    *   190
+    *   342
+
+    *   105
+
+    *   50
 
     *   95
 
 
-*    *   11
+*    *   8
 
-    *   2.001 bis 2.200
+    *   2 001,00 bis 2 200,99
 
-    *   210
+    *   378
+
+    *   140
+
+    *   60
 
     *   105
 
 
-*    *   12
+*    *   9
 
-    *   2.201 bis 2.400
+    *   2 201,00 bis 2 400,99
 
-    *   230
+    *   437
+
+    *   175
+
+    *   80
 
     *   115
 
 
+*    *   10
+
+    *   2 401,00 bis 2 700,99
+
+    *   510
+
+    *   220
+
+    *   120
+
+    *   130
+
+
+*    *   11
+
+    *   2 701,00 bis 3 000,99
+
+    *   570
+
+    *   275
+
+    *   165
+
+    *   145
+
+
+*    *   12
+
+    *   3 001,00 bis 3 300,99
+
+    *   630
+
+    *   335
+
+    *   210
+
+    *   160
+
+
 *    *   13
 
-    *   2.401 bis 2.700
+    *   3 301,00 bis 3 600,99
 
-    *   255
+    *   725
 
-    *   125
+    *   410
+
+    *   260
+
+    *   175
 
 
 *    *   14
 
-    *   2.701 bis 3.000
+    *   3 601,00 bis 3 900,99
 
-    *   285
+    *   825
 
-    *   140
+    *   485
+
+    *   320
+
+    *   190
 
 
 *    *   15
 
-    *   3.001 bis 3.300
+    *   3 901,00 bis 4 200,99
 
-    *   315
+    *   932
 
-    *   155
+    *   560
+
+    *   380
+
+    *   205
 
 
 *    *   16
 
-    *   3.301 bis 3.600
+    *   4 201,00 bis 4 600,99
 
-    *   345
+    *   1 056
 
-    *   170
-
-
-*    *   17
-
-    *   3.601 bis 3.900
-
-    *   375
-
-    *   185
-
-
-*    *   18
-
-    *   3.901 bis 4.200
-
-    *   405
-
-    *   200
-
-
-*    *   19
-
-    *   4.201 bis 4.600
+    *   635
 
     *   440
 
     *   220
 
 
-*    *   20
+*    *   17
 
-    *   4.601 bis 5.000
+    *   4 601,00 bis 5 000,99
 
-    *   480
+    *   1 152
 
-    *   240
-
-
-*    *   21
-
-    *   5.001 bis 5.500
-
-    *   550
-
-    *   275
-
-
-*    *   22
-
-    *   5.501 bis 6.000
-
-    *   600
-
-    *   300
-
-
-*    *   23
-
-    *   6.001 bis 6.500
-
-    *   650
-
-    *   325
-
-
-*    *   24
-
-    *   6.501 bis 7.000
-
-    *   700
-
-    *   350
-
-
-*    *   25
-
-    *   7.001 bis 7.500
-
-    *   750
-
-    *   375
-
-
-*    *   26
-
-    *   7.501 bis 8.000
-
-    *   800
-
-    *   400
-
-
-*    *   27
-
-    *   8.001 bis 8.500
-
-    *   850
-
-    *   425
-
-
-*    *   28
-
-    *   8.501 bis 9.000
-
-    *   900
-
-    *   450
-
-
-*    *   29
-
-    *   9.001 bis 9.500
-
-    *   950
-
-    *   475
-
-
-*    *   30
-
-    *   9.501 bis 10.000
-
-    *   1.000
+    *   715
 
     *   500
 
-
-*    *
-
-*    *   Maßgebliches Einkommen nach § 93 Abs. 1 bis 3 Achtes Buch
-        Sozialgesetzbuch
-
-    *   Beitragsstufe 5 teilstationär bis zu 5 Std.
-
-    *
-
-*    *   Einkommensgruppe
-
-    *   Euro
-
-    *   Euro
-
-
-*    *   Spalte 1
-
-    *   Spalte 6
-
-
-*    *   1
-
-    *   bis 750
-
-    *   0
-
-
-*    *   2
-
-    *   751 bis 850
-
-    *   24
-
-
-*    *   3
-
-    *   851 bis 950
-
-    *   27
-
-
-*    *   4
-
-    *   951 bis 1.050
-
-    *   30
-
-
-*    *   5
-
-    *   1.051 bis 1.150
-
-    *   33
-
-
-*    *   6
-
-    *   1.151 bis 1.300
-
-    *   37
-
-
-*    *   7
-
-    *   1.301 bis 1.450
-
-    *   41
-
-
-*    *   8
-
-    *   1.451 bis 1.600
-
-    *   46
-
-
-*    *   9
-
-    *   1.601 bis 1.800
-
-    *   51
-
-
-*    *   10
-
-    *   1.801 bis 2.000
-
-    *   57
-
-
-*    *   11
-
-    *   2.001 bis 2.200
-
-    *   63
-
-
-*    *   12
-
-    *   2.201 bis 2.400
-
-    *   69
-
-
-*    *   13
-
-    *   2.401 bis 2.700
-
-    *   76
-
-
-*    *   14
-
-    *   2.701 bis 3.000
-
-    *   85
-
-
-*    *   15
-
-    *   3.001 bis 3.300
-
-    *   94
-
-
-*    *   16
-
-    *   3.301 bis 3.600
-
-    *   103
-
-
-*    *   17
-
-    *   3.601 bis 3.900
-
-    *   112
+    *   240
 
 
 *    *   18
 
-    *   3.901 bis 4.200
+    *   5 001,00 bis 5 500,99
 
-    *   121
+    *   1 313
+
+    *   790
+
+    *   555
+
+    *   265
 
 
 *    *   19
 
-    *   4.201 bis 4.600
+    *   5 501,00 bis 6 000,99
 
-    *   132
+    *   1 438
+
+    *   865
+
+    *   605
+
+    *   290
 
 
 *    *   20
 
-    *   4.601 bis 5.000
+    *   6 001,00 bis 6 500,99
 
-    *   144
+    *   1 563
+
+    *   940
+
+    *   658
+
+    *   315
 
 
 *    *   21
 
-    *   5.001 bis 5.500
+    *   6 501,00 bis 7 000,99
 
-    *   165
+    *   1 688
+
+    *   1 015
+
+    *   710
+
+    *   340
 
 
 *    *   22
 
-    *   5.501 bis 6.000
+    *   7 001,00 bis 7 500,99
 
-    *   180
+    *   1 813
+
+    *   1 090
+
+    *   763
+
+    *   365
 
 
 *    *   23
 
-    *   6.001 bis 6.500
+    *   7 501,00 bis 8 000,99
 
-    *   195
+    *   1 938
+
+    *   1 165
+
+    *   815
+
+    *   390
 
 
 *    *   24
 
-    *   6.501 bis 7.000
+    *   8 001,00 bis 8 500,99
 
-    *   210
+    *   2 063
+
+    *   1 240
+
+    *   868
+
+    *   415
 
 
 *    *   25
 
-    *   7.001 bis 7.500
+    *   8 501,00 bis 9 000,99
 
-    *   225
+    *   2 188
+
+    *   1 315
+
+    *   920
+
+    *   440
 
 
 *    *   26
 
-    *   7.501 bis 8.000
+    *   9 001,00 bis 9 500,99
 
-    *   240
+    *   2 313
+
+    *   1 390
+
+    *   973
+
+    *   465
 
 
 *    *   27
 
-    *   8.001 bis 8.500
+    *   9 501,00 bis 10 000,99
 
-    *   255
+    *   2 438
 
+    *   1 465
 
-*    *   28
+    *   1 025
 
-    *   8.501 bis 9.000
-
-    *   270
-
-
-*    *   29
-
-    *   9.001 bis 9.500
-
-    *   285
-
-
-*    *   30
-
-    *   9.501 bis 10.000
-
-    *   300
-
-
-
------
-
-\*) Bezieht der kostenbeitragspflichtige Elternteil das Kindergeld, so ist
-    das auf das Kind entfallende Kindergeld in voller Höhe als
-    Kostenbeitrag einzusetzen.
-
+    *   490
 
 
 

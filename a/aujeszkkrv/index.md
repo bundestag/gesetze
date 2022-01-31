@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 20.12.2005 I 3609;
 
 Geändert durch
-:   Art. 12 V v. 13.12.2011 I 2720
+:   Art. 385 V v. 31.8.2015 I 1474
 
 
 ## I. - Begriffsbestimmungen
@@ -70,9 +70,9 @@ freier Schweinebestand ein Bestand mit Schweinen, der
     26\. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim
     innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl.
     EG Nr. L 121 S. 1977) in der jeweils geltenden Fassung erlassen und
-    vom Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz (Bundesministerium) im Bundesanzeiger bekannt
-    gemacht worden ist, als frei von Aujeszkyscher Krankheit gilt.
+    vom Bundesministerium für Ernährung und Landwirtschaft
+    (Bundesministerium) im Bundesanzeiger bekannt gemacht worden ist, als
+    frei von Aujeszkyscher Krankheit gilt.
 
 
 
@@ -554,73 +554,73 @@ festgestellt, so gelten die §§ 5a bis 14 entsprechend.
 
 ### § 16
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer mit einer Genehmigung nach § 3 Abs. 2, § 3a Satz 2, § 6 Nr. 3, 4
-    Satz 1 oder Nr. 5 Satz 1 oder § 12 Abs. 2 Satz 4 verbundenen
-    vollziehbaren Auflage oder
+1.  entgegen § 3 Absatz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 
-2.  einer vollziehbaren Anordnung nach § 3 Abs. 3 oder 5, § 3b oder nach §
-    7, 10 oder 11 Satz 2, jeweils auch in Verbindung mit § 13 oder 15,
-
-
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 3 Abs. 1 Impfungen oder Heilversuche vornimmt,
-
-
-1a. entgegen § 3a Satz 1 ein Schwein nicht, nicht richtig oder nicht
-    rechtzeitig untersuchen lässt,
-
-
-1b. entgegen § 4 Abs. 1 oder 2 ein Schwein verbringt oder einstellt,
-
-
-1c. entgegen § 4 Abs. 3 eine Bescheinigung nicht aufbewahrt oder vorlegt,
-
-
-1d. entgegen § 5 Nr. 1 oder § 6 Nr. 1 ein Schild nicht oder nicht richtig
-    anbringt,
-
-
-2.  entgegen § 5 Nr. 2 oder § 6 Nr. 2 Schweine nicht absondert,
-
-
-3.  entgegen § 5 Nr. 3 oder § 6 Nr. 10 Satz 1 einen Stall oder sonstigen
-    Standort betritt,
-
-
-4.  einer Vorschrift des § 5 Nr. 4, § 6 Nr. 6, 8, 9, 11 oder 12 oder § 12
-    Abs. 1, 2 Satz 1, 2 oder 3 oder Abs. 3 über das Ablegen der
-    Schutzkleidung, das Ausbringen von Dung oder flüssigen Abgängen oder
-    die Reinigung, Desinfektion und Entwesung zuwiderhandelt,
-
-
-5.  einer Vorschrift des § 5 Nr. 5 oder § 6 Nr. 3 über das Verbringen oder
-    Entfernen von Schweinen oder des § 5 Nr. 7, § 6 Nr. 5 Satz 1 oder Nr.
-    7 über das Entfernen von verendeten oder getöteten Schweinen, von
-    Teilen, die von Schweinen stammen, oder von anderen dort genannten
-    Gegenständen zuwiderhandelt,
-
-
-6.  der Vorschrift des § 5 Nr. 6 über die Aufbewahrung zuwiderhandelt,
-
-
-7.  der Vorschrift des § 6 Nr. 4 über das Decken der Schweine und die
-    Verwendung von Samen zur künstlichen Besamung zuwiderhandelt,
-
-
-8.  der Vorschrift des § 6 Nr. 5 Satz 2 über die unschädliche Beseitigung
+2.  einer mit einer Genehmigung nach § 3 Absatz 2, § 3a Satz 2, § 6 Nummer
+    3 Satzteil vor dem zweiten Halbsatz, Nummer 4 Satz 1 oder Nummer 5
+    Satz 1 oder § 12 Absatz 2 Satz 4 verbundenen vollziehbaren Auflage
     zuwiderhandelt,
 
 
-9.  entgegen § 6 Nr. 13 Hunde und Katzen nicht fernhält.
+3.  einer vollziehbaren Anordnung nach § 3 Absatz 3 oder Absatz 5, § 3a
+    Satz 1, § 3b, § 6 Nummer 6, 7, 8 oder Nummer 9, § 7, § 10 oder § 11
+    Satz 2, jeweils auch in Verbindung mit § 13 oder § 15, oder nach § 12
+    Absatz 1 oder Absatz 2 Satz 2 oder Satz 3 zuwiderhandelt,
+
+
+4.  entgegen § 4 ein Schwein verbringt,
+
+
+5.  entgegen § 5 Nummer 1 oder § 6 Nummer 1 ein Schild nicht, nicht
+    richtig oder nicht rechtzeitig anbringt,
+
+
+6.  entgegen § 5 Nummer 2 oder § 6 Nummer 2 ein Schwein nicht oder nicht
+    rechtzeitig absondert,
+
+
+7.  entgegen § 5 Nummer 3 oder § 6 Nummer 10 einen Stall oder einen
+    sonstigen Standort betritt,
+
+
+8.  entgegen § 5 Nummer 4 oder § 6 Nummer 11 oder Nummer 12 Schutzkleidung
+    nicht oder nicht rechtzeitig ablegt oder eine Reinigung oder eine
+    Desinfektion nicht oder nicht rechtzeitig durchführt,
+
+
+9.  entgegen § 5 Nummer 5 oder § 6 Nummer 3 zweiter Halbsatz ein Schwein
+    verbringt oder entfernt,
+
+
+10. entgegen § 5 Nummer 6 ein Schwein, eine Frucht, ein Ferkel oder eine
+    Nachgeburt nicht oder nicht richtig aufbewahrt,
+
+
+11. entgegen § 5 Nummer 7 einen dort genannten Gegenstand entfernt,
+
+
+12. ohne Genehmigung nach § 6 Nummer 3 Satzteil vor dem zweiten Halbsatz
+    oder Nummer 5 Satz 1 ein Schwein verbringt oder entfernt,
+
+
+13. ohne Genehmigung nach § 6 Nummer 4 Satz 1 ein Schwein decken lässt,
+
+
+14. entgegen § 6 Nummer 4 Satz 2 Samen verwendet,
+
+
+15. entgegen § 6 Nummer 5 Satz 2 eine Frucht, ein Ferkel oder eine
+    Nachgeburt nicht, nicht richtig oder nicht rechtzeitig beseitigt,
+
+
+16. entgegen § 6 Nummer 13 einen Hund oder eine Katze nicht fernhält oder
+
+
+17. entgegen § 12 Absatz 3 Dung oder flüssigen Abgang ausbringt.
 
 
 
@@ -634,8 +634,9 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (Inkrafttreten)
 
+(zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)
 
-### Anlage 1 (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3) Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
+### Anlage 1 Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3615 - 3616;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -869,8 +870,9 @@ aufrechterhalten, wenn die nachfolgenden Anforderungen erfüllt sind:
 
 
 
+(zu § 2)
 
-### Anlage 2 (zu § 2) Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als frei von der Aujeszkyschen Krankheit
+### Anlage 2 Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als  frei von der Aujeszkyschen Krankheit
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3617
 

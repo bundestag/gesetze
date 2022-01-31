@@ -375,8 +375,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zur Produktionsfachkraft Chemie
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Produktionsfachkraft Chemie
 
 (Fundstelle: BGBl. I 2005, 909 - 912)
 

@@ -15,11 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1081
 
+V aufgeh. durch
+:   § 3 Satz 2 V 2032-3-14 v. 27.6.2018 I 891 mWv 1.1.2019
+
 Neugefasst durch
 :   Bek. v. 22.1.1998 I 189;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 41 G v. 5.2.2009 I 160
+:   Art. 35 G v. 29.3.2017 I 626
+
+Ersetzt durch
+:   V 2032-3-14 v. 27.6.2018 I 891 (ATGV 2019)
 
 
 ## § 1 Anwendungsbereich, Zweckbestimmung
@@ -535,9 +541,10 @@ wenn dem Berechtigten die Aufgabe der Unterkunft nicht zuzumuten ist.
 ## § 16 Verfahrensvorschriften
 
 (1) Das Auslandstrennungsgeld ist innerhalb einer Ausschlußfrist von
-zwei Jahren bei der Beschäftigungsbehörde schriftlich zu beantragen.
-Die Frist beginnt mit dem Tage des Dienstantritts, bei Zahlung von
-Reisekostenvergütung für diesen Tag mit dem folgenden Tage.
+zwei Jahren bei der Beschäftigungsbehörde schriftlich oder
+elektronisch zu beantragen. Die Frist beginnt mit dem Tage des
+Dienstantritts, bei Zahlung von Reisekostenvergütung für diesen Tag
+mit dem folgenden Tage.
 
 (2) Das Auslandstrennungsgeld wird monatlich nachträglich gezahlt. Auf
 Antrag kann ein angemessener Abschlag gezahlt werden. Die oberste

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 549
 
 Zuletzt geändert durch
-:   Art. 21 G v. 20.12.2011 I 2854
+:   Art. 6 Abs. 13 G v. 23.5.2017 I 1228
 
 
 ## Eingangsformel
@@ -40,7 +40,7 @@ beschlossen:
 
 2.  sich zur Leistung des Entwicklungsdienstes gegenüber einem anerkannten
     Träger des Entwicklungsdienstes für eine ununterbrochene Zeit von
-    mindestens zwei Jahren vertraglich verpflichtet hat,
+    mindestens einem Jahr vertraglich verpflichtet hat,
 
 
 3.  für den Entwicklungsdienst nur Leistungen erhält, die dieses Gesetz
@@ -109,12 +109,12 @@ werden.
 (3) Der Bundesminister für wirtschaftliche Zusammenarbeit hat die
 Anerkennung zu widerrufen, wenn eine der in Absatz 1 genannten
 Voraussetzungen nicht mehr vorliegt, es sei denn, die Voraussetzung
-des Absatz 1 Nr. 1 ist nur deshalb entfallen, weil die Mehrheit der
-Entsandten allein wegen Fehlens der deutschen Staatsangehörigkeit
-keine Entwicklungshelfer nach § 1 Abs. 1 sind; die Anerkennung kann
-auch aus anderen wichtigen Gründen widerrufen werden, insbesondere,
-wenn eine Auflage nicht erfüllt worden ist. Durch den Widerruf oder
-die Rücknahme der Anerkennung werden die Rechte des
+des Absatzes 1 Satz 1 Nr. 1 ist nur deshalb entfallen, weil die
+Mehrheit der Entsandten allein wegen Fehlens der deutschen
+Staatsangehörigkeit keine Entwicklungshelfer nach § 1 Abs. 1 sind; die
+Anerkennung kann auch aus anderen wichtigen Gründen widerrufen werden,
+insbesondere, wenn eine Auflage nicht erfüllt worden ist. Durch den
+Widerruf oder die Rücknahme der Anerkennung werden die Rechte des
 Entwicklungshelfers nach diesem Gesetz nicht berührt.
 
 
@@ -175,8 +175,8 @@ für den Lebenspartner.
 (1) Wirkt der Entwicklungshelfer auf Veranlassung des Trägers in
 Entwicklungsländern an Vorhaben mit, die von anderen Stellen als dem
 Träger durchgeführt werden, so hat der Träger dafür zu sorgen, daß die
-andere Stelle gegenüber dem Entwicklungshelfer vertraglich die in
-§ 4 Nr. 4              bezeichneten Pflichten übernimmt.
+andere Stelle gegenüber dem Entwicklungshelfer vertraglich die in § 4
+Absatz 1 Nummer 4 bezeichneten Pflichten übernimmt.
 
 (2) Die in § 4 Abs. 1 Nr. 1 bis 3, §§ 6, 7 Abs. 1, §§ 8 und 11
 genannten und die nach § 4 Abs. 2 zugelassenen Leistungen können auch
@@ -227,7 +227,8 @@ dieses Gesetzes gewährt werden, Versicherungsschutz mit mindestens
 folgenden Leistungen gewährt:
 
 1.  Erstattung von Krankheitskosten und Entbindungskosten in voller Höhe
-    bis zu 5.000 DM je Versicherungsfall (Krankheit, Entbindung, Unfall),
+    bis zu 2 556 Euro je Versicherungsfall (Krankheit, Entbindung,
+    Unfall),
 
 
 2.  Erstattung von Rückführungs- und Überführungskosten.
@@ -263,8 +264,8 @@ versichert, so hat der Träger sie nach Absatz 1 zu versichern.
 
 (3) Entstehen dem Entwicklungshelfer oder einem Familienangehörigen im
 Sinne des Absatzes 1 Satz 1 durch den Eintritt eines
-Versicherungsfalles (Absatz 1 Nr. 1 oder 2) notwendige Kosten, die
-weder nach Absatz 1 noch durch Leistungen auf Grund
+Versicherungsfalles (Absatz 1 Satz 1 Nummer 1 oder 2) notwendige
+Kosten, die weder nach Absatz 1 noch durch Leistungen auf Grund
 sozialversicherungsrechtlicher Vorschriften gedeckt sind, so trägt
 diese der Bund, soweit die Gesamtkosten die ortsüblichen Kosten nicht
 übersteigen. Der Bund kann in diesem Umfang auch Kosten übernehmen,
@@ -282,10 +283,11 @@ weiterzugewähren; dies gilt auch, wenn während dieser Zeit das
 Dienstverhältnis des Entwicklungshelfers aufgelöst wird.
 
 (2) Im Falle der Schwangerschaft einer Entwicklungshelferin hat der
-Träger die vertraglichen Unterhaltsleistungen für die Dauer der
-Schutzfristen nach § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes
-weiterzugewähren, und zwar auch dann, wenn das Dienstverhältnis
-während der Schutzfristen endet.
+Träger die vertraglichen Unterhaltsleistungen für die Zeit der
+Beschäftigungsverbote nach den §§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1
+Nummer 3 und § 16 des Mutterschutzgesetzes weiterzugewähren, und zwar
+auch dann, wenn das Dienstverhältnis während der Schutzfristen nach §
+3 des Mutterschutzgesetzes endet.
 
 
 ### § 9 Tagegeld bei Arbeitsunfähigkeit
@@ -317,18 +319,18 @@ Beginns der Arbeitsunfähigkeit an.
 
 (3) Der Anspruch auf Tagegeld endet mit dem Tag, von dem an
 
-a)  Rente wegen voller Erwerbsminderung, Erwerbsunfähigkeit oder
+1.  Rente wegen voller Erwerbsminderung, Erwerbsunfähigkeit oder
     Altersrente aus der gesetzlichen Rentenversicherung oder
 
 
-b)  eine entsprechende Leistung aus einer nach Artikel 2 § 1 des
+2.  eine entsprechende Leistung aus einer nach Artikel 2 § 1 des
     Angestelltenversicherungs-Neuregelungsgesetzes in der Fassung des
     Finanzänderungsgesetzes 1967 vom 21. Dezember 1967 (BGBl. I S. 1259)
     von der Versicherungspflicht befreienden Lebensversicherung, an der
     sich der Arbeitgeber mit Beitragszuschüssen beteiligt hat, oder
 
 
-c)  eine entsprechende Leistung aus einer Versicherungs- oder
+3.  eine entsprechende Leistung aus einer Versicherungs- oder
     Versorgungseinrichtung im Sinne der Vorschrift über die
     Versicherungsbefreiung in der gesetzlichen Rentenversicherung
     zugebilligt wird.
@@ -336,10 +338,10 @@ c)  eine entsprechende Leistung aus einer Versicherungs- oder
 
 
 Ist über diesen Zeitraum hinaus Tagegeld gezahlt worden, so geht der
-Anspruch auf die unter den Buchstaben a bis c bezeichneten Leistungen
-bis zur Höhe des für denselben Zeitraum gezahlten Tagegeldes auf den
-Bund über. Übersteigt das Tagegeld die genannten Leistungen, so kann
-der überschießende Betrag nicht zurückgefordert werden.
+Anspruch auf die in Satz 1 bezeichneten Leistungen bis zur Höhe des
+für denselben Zeitraum gezahlten Tagegeldes auf den Bund über.
+Übersteigt das Tagegeld die genannten Leistungen, so kann der
+überschießende Betrag nicht zurückgefordert werden.
 
 (4) Wird dem Anspruchsberechtigten während des Tagegeldbezugs Rente
 wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit aus der
@@ -347,8 +349,8 @@ gesetzlichen Rentenversicherung zugebilligt, so wird das Tagegeld um
 den Betrag der für denselben Zeitraum gewährten Rente gekürzt.
 Insoweit geht bei rückwirkender Gewährung der Rente aus der
 gesetzlichen Rentenversicherung der Rentenanspruch auf den Bund über.
-Entsprechendes gilt für Leistungen nach Absatz 3 Buchstaben b und c,
-wenn sie wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit
+Entsprechendes gilt für Leistungen nach Absatz 3 Satz 1 Nummer 2 und
+3, wenn sie wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit
 gewährt werden.
 
 (5) Der Anspruch auf Tagegeld entfällt, solange von einem Träger der
@@ -488,7 +490,7 @@ Beendigung des Entwicklungsdienstes drei Jahre vergangen sind. Im
 erbringenden Leistungen werden auf Antrag festgestellt.
 
 (2) Die Durchführung der Aufgaben nach § 7 Abs. 3, §§ 9, 10, 15 dieses
-Gesetzes obliegt der Unfallkasse des Bundes.
+Gesetzes obliegt der Unfallversicherung Bund und Bahn.
 
 (3) (weggefallen)
 
@@ -585,31 +587,17 @@ abgeschlossen worden sind, ehe der Träger nach § 2 dieses Gesetzes
 anerkannt wurde.
 
 
-### § 23a Übergangsvorschrift zu § 13
+### § 23a (weggefallen)
 
-(1) Ist der Anspruch auf Arbeitslosenbeihilfe vor dem 1. Januar 1985
-entstanden, ist § 13 Abs. 2 Nr. 2 in der bis zum 31. Dezember 1984
-geltenden Fassung anzuwenden.
-
-(2) Ist in der Zeit vom 29. bis zum 31. Dezember 1984 ein Anspruch auf
-Arbeitslosenbeihilfe mit einer Anspruchsdauer von 312 Tagen noch nicht
-erschöpft, so erhöht sich diese Anspruchsdauer auf 468 Tage, wenn der
-Arbeitslose bei Entstehung des Anspruches das 49. Lebensjahr vollendet
-hatte.
 
 
 ### § 23b Übergangsvorschrift zu § 13
 
-(1) Zeiten des Entwicklungsdienstes einschließlich des
+Zeiten des Entwicklungsdienstes einschließlich des
 Vorbereitungsdienstes, die vor der Entstehung eines Anspruchs auf
 Arbeitslosenbeihilfe liegen, werden für einen Anspruch auf
 Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch nicht
 berücksichtigt.
-
-(2) Die §§ 13, 14, 15 Abs. 1, § 16 Abs. 3 und die §§ 19 und 23 in der
-bis zum 30. Juni 1987 geltenden Fassung sind auf Ansprüche auf
-Arbeitslosenbeihilfe, die vor dem 1. Juli 1987 entstanden sind, weiter
-anzuwenden.
 
 
 ### § 23c Übergangsvorschrift zu § 10
@@ -620,56 +608,11 @@ entsprechend anzuwenden, wenn die Gesundheitsstörung oder der Tod nach
 dem 31. Dezember 1978 eingetreten ist.
 
 
-### § 24 Geltung in Berlin
+### § 24 (weggefallen)
 
-Dieses Gesetz gilt mit Ausnahme des § 22 nach Maßgabe des § 12 und des
-§ 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952
-(Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 
 ### § 25 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVII Abschnitt III (BGBl. II 1990, 889, 1137) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-Entwicklungshelfer-Gesetz vom 18. Juni 1969 (BGBl. I S. 549), zuletzt
-geändert durch Artikel 75 des Gesetzes vom 18. Dezember 1989 (BGBl. I
-S. 2261),
-mit folgenden Maßgaben:
-
-a)  Soweit in § 8 Abs. 2 auf § 3 Abs. 2 und § 6 Abs. 1 des
-    Mutterschutzgesetzes Bezug genommen wird, gilt bis zu dessen
-    Überleitung am 1. Januar 1991 für Geburten vor dem 1. Januar 1991 §
-    244 Abs. 1 bis 3 des Arbeitsgesetzbuches vom 16. Juni 1977 (GBl. I Nr.
-    18 S. 185), zuletzt geändert durch Gesetz vom 22. Juni 1990 (GBl. I
-    Nr. 35 S. 371) \*).
-
-    b)  Soweit in den §§ 9 bis 11 auf Rechtsvorschriften des
-        Rentenversicherungsrechts Bezug genommen wird, sind bis zum 31.
-        Dezember 1991 die für die Renten- und Unfallversicherung geltenden
-        Rechtsvorschriften in Anlage II Kapitel VIII Sachgebiet F Abschnitt
-        III heranzuziehen.
-
-
-    c)  Als Beitragssatz und Beitragsbemessungsgrenze nach § 7 Abs. 2 Satz 1
-        letzter Teilsatz sind bis zum 31. Dezember 1990 die für die
-        gesetzliche Krankenversicherung in dem in Artikel 3 des Vertrages
-        genannten Gebiet geltenden Werte zugrunde zu legen.
-
-
-
-
-
-
------
-
-\*) siehe Anlage II Kapitel X Sachgebiet A Abschnitt III Nr. 1
-
-
-
 

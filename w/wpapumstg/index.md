@@ -19,7 +19,7 @@ Fundstelle
 
 ## § 1
 
-(1) Die Umstellung des Nennbetrags von Schuldverschreibungen auf
+(1) Die Umstellung des Nennbetrages von Schuldverschreibungen auf
 Deutsche Mark sowie die Neufestsetzung des Nennbetrags von Aktien in
 Deutscher Mark sind keine Konvertierung im Sinne des § 38 Abs. 2 des
 Börsengesetzes. Aktien bedürfen jedoch nach der Neufestsetzung der
@@ -119,8 +119,8 @@ Zulassungsstelle zu bestimmenden Zeitung zu erfolgen. Sind die Aktien
 an mehreren Börsen zugelassen, so kann die Veröffentlichung im
 Bundesanzeiger für alle Börsen gemeinsam vorgenommen werden. Anstelle
 der Veröffentlichungen in den Pflichtblättern aller beteiligten Börsen
-genügt in diesem Fall auch die Veröffentlichung im Pflichtblatt der
-Börse des Wirtschaftsraums, in dem der Aussteller der Wertpapiere
+genügt in diesem Falle auch die Veröffentlichung im Pflichtblatt der
+Börse des Wirtschaftsraumes, in dem der Aussteller der Wertpapiere
 seinen Sitz hat (Heimatbörse), und ein Hinweis in den Pflichtblättern
 der übrigen beteiligten Börsen auf die Veröffentlichungen im
 Bundesanzeiger und im Pflichtblatt der Heimatbörse.
@@ -136,7 +136,7 @@ es einer erneuten Bekanntmachung nicht.
 
 ## § 4
 
-Dieses Gesetz gilt auch im Land Berlin, sobald es gemäß Artikel 87
+Dieses Gesetz gilt auch im Lande Berlin, sobald es gemäß Artikel 87
 Abs. 2 seiner Verfassung die Anwendung dieses Gesetzes beschließt.
 
 

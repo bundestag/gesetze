@@ -327,8 +327,9 @@ Vorschriften vereinbaren.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
 
 (Fundstelle: BGBl. I 1998, 198 - 202)
 

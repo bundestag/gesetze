@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2044
 
+Geändert durch
+:   Art. 6 Abs. 19 G v. 23.5.2017 I 1228
+
 
 
 ## Eingangsformel
@@ -75,11 +78,11 @@ stehen. Soweit tarifvertragliche Regelungen für den Ausbildungsbetrieb
 gelten, sind diese im Betrieb zur Einsicht auszulegen.
 
 (6) Die Ausbildungsstätte muß Gewähr dafür bieten, daß die
-Vorschriften des Jugendarbeitsschutzgesetzes, die
-Unfallverhütungsvorschriften und sonstige Vorschriften zum Schutze des
-Auszubildenden eingehalten werden können. Sie muß über geeignete
-Sozialräume und Sanitärräume verfügen. Bei der Antragstellung gemäß §
-82 Abs. 1 des Berufsbildungsgesetzes muß eine
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, die Unfallverhütungsvorschriften und sonstige
+Vorschriften zum Schutze des Auszubildenden eingehalten werden können.
+Sie muß über geeignete Sozialräume und Sanitärräume verfügen. Bei der
+Antragstellung gemäß § 82 Abs. 1 des Berufsbildungsgesetzes muß eine
 Unbedenklichkeitsbescheinigung der zuständigen Berufsgenossenschaft
 über die Einhaltung der Unfallverhütungsvorschriften vorliegen, die
 nicht älter als ein Jahr ist.

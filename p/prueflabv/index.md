@@ -1,7 +1,6 @@
 ---
-Title: Verordnung über die Bewertung und Anerkennung von Prüflaboratorien als Voraussetzung
-  für die Zulassung privater Gegenprobensachverständiger für die Untersuchung von
-  Proben
+Title: Verordnung über die Akkreditierung von Prüflaboratorien als Voraussetzung für
+  die Zulassung privater Gegenprobensachverständiger für die Untersuchung von Proben
 jurabk: PrüflabV
 layout: default
 origslug: pr_flabv
@@ -9,7 +8,7 @@ slug: prueflabv
 
 ---
 
-# Verordnung über die Bewertung und Anerkennung von Prüflaboratorien als Voraussetzung für die Zulassung privater Gegenprobensachverständiger für die Untersuchung von Proben (PrüflabV)
+# Verordnung über die Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung privater Gegenprobensachverständiger für die Untersuchung von Proben (PrüflabV)
 
 Ausfertigungsdatum
 :   1999-02-11
@@ -18,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 162
 
 Zuletzt geändert durch
-:   Art. 2 V v. 11.8.2009 I 2852
+:   Art. 4 V v. 19.11.2019 I 1862
 
 
 ## Eingangsformel
@@ -29,72 +28,63 @@ September 1997 (BGBl. I S. 2226) verordnet das Bundesministerium für
 Gesundheit:
 
 
-## § 1 Bewertung und Anerkennung von Prüflaboratorien
+## § 1 Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung privater Sachverständiger
 
 (1) Private Sachverständige zur Untersuchung amtlich zurückgelassener
-Proben nach § 42 Abs. 1 Satz 2 des Vorläufigen Tabakgesetzes (Gegen-
-oder Zweitproben) dürfen nur zugelassen werden, wenn sie nachweisen
-können, daß sie über ein zur sachgerechten Durchführung der
-Untersuchung derartiger Proben geeignetes Prüflaboratorium verfügen,
-das die allgemeinen Kriterien für den Betrieb der Prüflaboratorien
-gemäß Artikel 3 Abs. 1 der Richtlinie 93/99/EWG des Rates vom 29.
-Oktober 1993 über zusätzliche Maßnahmen im Bereich der Amtlichen
-Lebensmittelüberwachung (ABl. EG Nr. L 290 S. 14) erfüllt.
+Proben nach § 31 Absatz 3 des Tabakerzeugnisgesetzes dürfen nur
+zugelassen werden, wenn sie nachweisen können, dass sie
 
-(2) Für die in der Richtlinie 93/99/EWG vorgesehene Bewertung und
-Anerkennung der Prüflaboratorien nach Absatz 1 sind die in der Anlage
-genannten Stellen zuständig.
+1.  für Bestimmungen nach § 1 der Tabakerzeugnisverordnung über ein nach §
+    2 Absatz 1 der Tabakerzeugnisverordnung zugelassenes Prüflaboratorium,
 
-(3) Anerkennungen privater Sachverständiger durch andere Stellen, die
-ihrerseits die allgemeinen Anforderungen der Europäischen Norm EN
-45003 über Akkreditierungssysteme für Kalibrier- und Prüflaboratorien
-nach dem Stand vom Mai 1995 \*) erfüllen (Akkreditierungsstelle), sind
-dabei angemessen zu berücksichtigen, soweit es sich um die Anerkennung
-von Anforderungen nach der Europäischen Norm EN 45001 über Allgemeine
-Kriterien zum Betreiben von Prüflaboratorien nach dem Stand vom Mai
-1991 \*) handelt.
 
-(4) GLP-Bescheinigungen und GLP-Bestätigungen nach § 19b des
-Chemikaliengesetzes sind von den in der Anlage genannten Stellen
-angemessen zu berücksichtigen.
-
-(5) Die angemessene Berücksichtigung gemäß den Absätzen 3 und 4
-erfolgt dadurch, daß sich die in der Anlage genannten Stellen in der
-Regel auf eine Dokumentenprüfung beschränken, soweit die andere
-Akkreditierungsstelle denselben Sachverhalt bereits untersucht hat und
-keine Anhaltspunkte vorliegen, die gegen die Zuverlässigkeit der
-anderen Akkreditierungsstelle sprechen.
-
-\*) Zu beziehen durch Beuth-Verlag GmbH, 10772 Berlin.
+2.  für sonstige Bestimmungen über ein Prüflaboratorium, das die
+    Anforderungen nach § 2 Absatz 2 Nummer 1 der Tabakerzeugnisverordnung
+    erfüllt,
 
 
 
+verfügen, das zur sachgerechten Durchführung der Untersuchung
+derartiger Proben geeignet ist.
+
+(2) Für die Akkreditierung der Prüflaboratorien nach Absatz 1 ist die
+Akkreditierungsstelle im Sinne des § 1 Absatz 1 Satz 1 des
+Akkreditierungsstellengesetzes zuständig.
+
+(3) Die Akkreditierung eines Prüflaboratoriums durch die nationale
+Akkreditierungsstelle eines anderen Mitgliedstaates oder eines
+Drittstaates ist anzuerkennen, soweit
+
+1.  diese nationale Akkreditierungsstelle sich erfolgreich der Beurteilung
+    unter Gleichrangigen nach Artikel 10 der Verordnung (EG) Nr. 765/2008
+    unterzogen hat und
 
 
-## § 2 Übergangsregelung
+2.  die Akkreditierung sich auf die Erfüllung der Anforderungen nach
+    Artikel 37 Absatz 4 Buchstabe e der Verordnung (EU) 2017/625 des
+    Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche
+    Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der
+    Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über
+    Tiergesundheit und Tierschutz, Pflanzengesundheit und
+    Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001,
+    (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr.
+    1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des
+    Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr.
+    1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien
+    98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des
+    Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG)
+    Nr. 882/2004 des Europäischen Parlaments und des Rates, der
+    Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG,
+    96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des
+    Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017,
+    S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S. 44; L 322 vom
+    18\.12.2018, S. 85) in der jeweils geltenden Fassung bezieht.
 
-(1) Private Sachverständige, die bereits über eine Zulassung für die
-Untersuchung amtlich zurückgelassener Proben nach § 42 Abs. 1 Satz 2
-des Vorläufigen Tabakgesetzes verfügen, müssen spätestens zwölf Monate
-nach Inkrafttreten dieser Verordnung der nach Landesrecht zuständigen
-Behörde nachweisen, daß sie über ein zur sachgerechten Durchführung
-der Untersuchung solcher Proben geeignetes Prüflaboratorium verfügen,
-das die allgemeinen Kriterien für Prüflaboratorien gemäß Artikel 3
-Abs. 1 der Richtlinie 93/99/EWG erfüllt.
 
-(2) Private Sachverständige, die über eine Zulassung für die
-Untersuchung amtlich zugelassener Proben nach § 42 Abs. 1 Satz 2 des
-Vorläufigen Tabakgesetzes sowie über ein Labor verfügen, das bereits
-eine Anerkennung einer in § 1 Abs. 3 genannten Akkreditierungsstelle
-oder eine in § 1 Abs. 4 genannte Bescheinigung oder Bestätigung
-erhalten hat oder für das eine Anerkennung bei einer in der Anlage
-genannten Stelle angestrebt wird, dürfen Untersuchungen von Gegen- und
-Zweitproben noch zwölf Monate nach Inkrafttreten dieser Verordnung
-weiter durchführen, wenn sie bei der nach Landesrecht zuständigen
-Behörde glaubhaft machen, daß sie unverzüglich eine Bewertung und
-Anerkennung bei einer in der Anlage genannten Stelle im Hinblick auf
-die noch nicht gemäß Artikel 3 Abs. 1 der Richtlinie 93/99/EWG
-bewerteten Prüfgebiete anstreben.
+
+
+
+## § 2 (weggefallen)
 
 
 ## § 3 Inkrafttreten
@@ -105,27 +95,4 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
-
-## Anlage (zu § 1 Abs. 2 und § 2 Abs. 2)
-
-
-*    *   Hessisches Ministerium für Frauen, Arbeit und Sozialordnung - Staatl.
-        Anerkennungsstelle der Lebensmittelüberwachung (SAL) -
-
-    *   Bezirksregierung Hannover - Staatliche Akkreditierungsstelle Hannover
-        (AKS Hannover) -
-
-
-*    *   Postfach 31 40
-
-    *   Postfach 2 03
-
-
-*    *   65021 Wiesbaden
-
-    *   30002 Hannover
-
-
-
 

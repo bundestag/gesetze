@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1357
 
 Zuletzt geändert durch
-:   Art. 3 G v. 15.3.2012 I 462
+:   Art. 4 G v. 28.6.2021 I 2250
 
 
 ## Abschnitt I - Gemeinsame Vorschriften
@@ -31,7 +31,8 @@ für den Inspekteur der Bereitschaftspolizeien der Länder.
 Polizeivollzugsbeamte im Sinne des Satzes 1 sind die mit polizeilichen
 Aufgaben betrauten und zur Anwendung unmittelbaren Zwanges befugten
 Beamten; welche dieser Beamtengruppen im einzelnen dazu gehören,
-bestimmt der Bundesminister des Innern durch Rechtsverordnung.
+bestimmt das Bundesministerium des Innern, für Bau und Heimat durch
+Rechtsverordnung.
 
 (2) Dieses Gesetz gilt auch für die Polizeivollzugsbeamten beim
 Deutschen Bundestag.
@@ -44,7 +45,7 @@ geltenden Vorschriften Anwendung, soweit in diesem Gesetz nichts
 anderes bestimmt ist.
 
 
-### § 3 Laufbahnen
+### § 3 Laufbahnen; Verordnungsermächtigung
 
 (1) Für die in § 1 bezeichneten Polizeivollzugsbeamten bestehen
 folgende Laufbahnen:
@@ -90,13 +91,52 @@ folgende Laufbahnen:
 
 
 
-(2) Die Bundesregierung wird ermächtigt, die allgemeinen Vorschriften
-über die Laufbahnen durch Rechtsverordnung ohne Zustimmung des
-Bundesrates zu erlassen. Das Bundesministerium des Innern wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-besonderen Vorschriften für die in Absatz 1 Nr. 1 und 2 genannten
-Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) zu
-erlassen.
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates allgemeine Vorschriften für die Laufbahnen
+zu erlassen, insbesondere Vorschriften über
+
+1.  die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu
+    durchlaufenden Ämter,
+
+
+2.  die Festlegung von Altersgrenzen,
+
+
+3.  den Erwerb der Laufbahnbefähigung,
+
+
+4.  die Grundsätze der Fortbildung,
+
+
+5.  die Voraussetzungen und das Verfahren für den Aufstieg und
+
+
+6.  die Voraussetzungen für den Laufbahnwechsel.
+
+
+
+
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+besondere Vorschriften für die einzelnen Laufbahnen und
+Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
+
+1.  das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
+
+
+2.  den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte
+    und Dauer,
+
+
+3.  die Prüfung und das Prüfungsverfahren, einschließlich der
+    Prüfungsnoten, sowie
+
+
+4.  die Folgen der Nichtteilnahme an Prüfungen und die Folgen von
+    Ordnungsverstößen.
+
+
+
 
 
 ### § 4 Polizeidienstunfähigkeit
@@ -122,7 +162,7 @@ Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 vorbehalten werden.
 
 
-### § 5
+### § 5 Ruhestand wegen Erreichens der Altersgrenze
 
 (1) Polizeivollzugsbeamte auf Lebenszeit treten mit dem Ende des
 Monats in den Ruhestand, in dem sie das 62. Lebensjahr vollenden.
@@ -308,7 +348,7 @@ angehoben:
 
 
 
-(3) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
+(3) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
 
 ### § 6
@@ -350,9 +390,10 @@ zur Bundespolizei die ergänzenden Kenntnisse und Fähigkeiten zu
 erwerben und die Befähigung durch erfolgreiche Unterweisung in den
 Aufgaben der neuen Laufbahn nachzuweisen. Die für die Gestaltung der
 neuen Laufbahn zuständige oberste Dienstbehörde trifft im Einvernehmen
-mit dem Bundesminister des Innern Regelungen für die Unterweisung und
-für die Feststellung ihres erfolgreichen Abschlusses. § 28 Abs. 3 Satz
-3 des Bundesbeamtengesetzes bleibt unberührt.
+mit dem Bundesministerium des Innern, für Bau und Heimat Regelungen
+für die Unterweisung und für die Feststellung ihres erfolgreichen
+Abschlusses. § 28 Abs. 3 Satz 3 des Bundesbeamtengesetzes bleibt
+unberührt.
 
 (3) Der Beamte ist vor einer Versetzung nach Absatz 1 oder 2 zu hören.
 
@@ -390,10 +431,10 @@ wird anstelle einer Dienstbefreiung nach den §§ 87 und 88 des
 Bundesbeamtengesetzes ein einheitlicher Freizeitausgleich festgesetzt,
 der die Dauer des Einsatzes oder der Übung und die damit verbundene
 dienstliche Beanspruchung angemessen berücksichtigen muß. Die
-Entscheidung trifft der Bundesminister des Innern oder die von ihm
-bestimmte Dienststelle. Der Freizeitausgleich soll gewährt werden,
-sobald die dienstlichen Verhältnisse es zulassen, möglichst innerhalb
-von drei Monaten.
+Entscheidung trifft das Bundesministerium des Innern, für Bau und
+Heimat oder die von ihm bestimmte Dienststelle. Der Freizeitausgleich
+soll gewährt werden, sobald die dienstlichen Verhältnisse es zulassen,
+möglichst innerhalb von drei Monaten.
 
 
 ### § 12 Erstattung der Kosten eines Studiums
@@ -459,6 +500,7 @@ den geänderten Vorschriften.
 
 ### § 15 Verwaltungsvorschriften
 
-Der Bundesminister des Innern erläßt die zur Durchführung dieses
-Gesetze erforderlichen allgemeinen Verwaltungsvorschriften.
+Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur
+Durchführung dieses Gesetze erforderlichen allgemeinen
+Verwaltungsvorschriften.
 

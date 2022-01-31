@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 974
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 91 G v. 5.2.2009 I 160
+:   Art. 302 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -40,8 +40,9 @@ beschlossen:
 ## Art 4 - Übergangs- und Schlußvorschriften
 
 
+Auflösung der Rechtsvorgänger
 
-### I. - Auflösung der Rechtsvorgänger Vermögensübergang
+### I. - Vermögensübergang
 
 
 
@@ -249,11 +250,11 @@ die Versorgungsbezüge der in Satz 1 genannten Personen entsprechend.
 
 (Nummern 8 und 12 der Anlage A zu § 2 Abs. 1 des Gesetzes).
 
-(2) Der Bundesminister des Innern wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates erst nach Verkündung
-dieses Gesetzes ermittelte Einrichtungen der Anlage A zu § 2 Abs. 1
-des in Absatz 1 bezeichneten Gesetzes in die in Absatz 1 enthaltene
-Regelung einzubeziehen.
+(2) Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates erst nach
+Verkündung dieses Gesetzes ermittelte Einrichtungen der Anlage A zu §
+2 Abs. 1 des in Absatz 1 bezeichneten Gesetzes in die in Absatz 1
+enthaltene Regelung einzubeziehen.
 
 (3) Auf Angestellte und Arbeiter, die am 8. Mai 1945 bei Dienststellen
 der Reichsknappschaft im Geltungsbereich dieses Gesetzes beschäftigt

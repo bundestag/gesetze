@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1965, 1089
 
+Geändert durch
+:   Art. 72 G v. 8.7.2016 I 1594
+
 
 
 ## Art 1
@@ -28,18 +31,12 @@ ersichtlichen Fassung wird zugestimmt.
 
 ## Art 2
 
-Der Gouverneur für die Bundesrepublik Deutschland in der
-Internationalen Finanz-Corporation wird ermächtigt, im Gouverneursrat
-dafür zu stimmen, daß Artikel III Abschnitt 6 (i) und Artikel IV
-Abschnitt 6 des Abkommens über die Internationale Finanz-Corporation
-in der Fassung vom 21. September 1961 (Bundesgesetzbl. 1956 II S. 747;
-1961 II S. 1149) die aus der Anlage ersichtliche Fassung erhalten.
+(weggefallen)
 
 
 ## Art 3
 
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt.
+(weggefallen)
 
 
 ## Art 4

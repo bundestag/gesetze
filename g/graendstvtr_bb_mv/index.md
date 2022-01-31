@@ -245,8 +245,11 @@ Fundstelle: BGBl. I 1993, 211)
 (Inhalt: nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 1993, 212)
 
+Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und
+Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
+vom 9. Mai 1992
 
-## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 2
+## (XXXX) Zu Artikel 2
 
 
 1.  Die vertragschließenden Seiten sind sich einig darüber, daß die
@@ -278,8 +281,11 @@ Fundstelle: BGBl. I 1993, 212)
 
 
 
+Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und
+Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
+vom 9. Mai 1992
 
-## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 3
+## (XXXX) Zu Artikel 3
 
 Die vertragschließenden Parteien sind sich einig darüber, daß die
 Worte "gegen Entschädigung" ausschließlich die vom Lande Mecklenburg-
@@ -287,8 +293,11 @@ Vorpommern vorgenommenen Investitionen im Bereich des Stützpunktes
 Lenzen des Staatlichen Amtes für Umwelt und Naturschutz betreffen.
 Weitere entschädigungspflichtige Tatbestände bestehen nicht.
 
+Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und
+Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
+vom 9. Mai 1992
 
-## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 4
+## (XXXX) Zu Artikel 4
 
 Die vertragschließenden Parteien sind sich einig, daß die
 Eintrittspflicht in die bestehenden Arbeitsverhältnisse gemäß Artikel
@@ -297,8 +306,11 @@ Fachressorts des Landes Mecklenburg-Vorpommern geregelt wird.
 Eine Übernahme von Bediensteten aus dem Polizeibereich findet
 grundsätzlich nicht statt.
 
+Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und
+Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze
+vom 9. Mai 1992
 
-## (XXXX) Protokollnotiz zum Vertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze vom 9. Mai 1992 Zu Artikel 7 Abs. 1
+## (XXXX) Zu Artikel 7 Abs. 1
 
 Die vertragschließenden Parteien sind sich darüber einig, daß
 weiterhin die Beschulung über die Ländergrenzen hinaus auf Wunsch der

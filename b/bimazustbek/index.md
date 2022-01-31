@@ -1,5 +1,5 @@
 ---
-Title: Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten der
+Title: Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten  der
   Bundesanstalt für Immobilienaufgaben
 jurabk: BImAZustBek
 layout: default
@@ -8,7 +8,7 @@ slug: bimazustbek
 
 ---
 
-# Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten der Bundesanstalt für Immobilienaufgaben (BImAZustBek)
+# Bekanntmachung über die Übertragung von Befugnissen und Zuständigkeiten  der Bundesanstalt für Immobilienaufgaben (BImAZustBek)
 
 Ausfertigungsdatum
 :   2006-07-04

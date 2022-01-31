@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2138
 
-Geändert durch
-:   Art. 15 Abs. 61 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 76 G v. 29.3.2017 I 626
 
 
 
@@ -205,18 +205,18 @@ Der Direktor oder die Direktorin ist jederzeit berechtigt, Anträge zu
 stellen.
 
 (3) Der Stiftungsrat fasst seine Beschlüsse mit einfacher Mehrheit der
-anwesenden oder sich an einer schriftlichen Abstimmung beteiligenden
-Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas
-anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder
-der Vorsitzenden den Ausschlag. Haushaltsangelegenheiten dürfen nicht
-gegen die Stimmen der Vertreter und Vertreterinnen des Bundes
-entschieden werden. Der Stiftungsrat ist beschlussfähig, wenn
-mindestens die Hälfte der Mitglieder anwesend oder vertreten ist. Eine
-Beschlussfassung im schriftlichen oder fernschriftlichen
-Umlaufverfahren ist zulässig, wenn alle Stiftungsratsmitglieder sich
-mit diesem Verfahren schriftlich oder fernschriftlich einverstanden
-erklärt haben und sich mindestens zwei Drittel der Mitglieder an der
-Abstimmung beteiligen.
+anwesenden oder sich an einer schriftlichen oder elektronischen
+Abstimmung beteiligenden Mitglieder, soweit nicht in diesem Gesetz
+oder der Satzung etwas anderes vorgesehen ist. Bei Stimmengleichheit
+gibt die Stimme des oder der Vorsitzenden den Ausschlag.
+Haushaltsangelegenheiten dürfen nicht gegen die Stimmen der Vertreter
+und Vertreterinnen des Bundes entschieden werden. Der Stiftungsrat ist
+beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend
+oder vertreten ist. Eine Beschlussfassung im schriftlichen oder
+elektronischen Umlaufverfahren ist zulässig, wenn alle
+Stiftungsratsmitglieder sich mit diesem Verfahren schriftlich oder
+elektronisch einverstanden erklärt haben und sich mindestens zwei
+Drittel der Mitglieder an der Abstimmung beteiligen.
 
 
 ## § 8 Direktor/Direktorin

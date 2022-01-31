@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1939
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 10 V v. 12.2.2009 I 320
+:   Art. 1 V v. 25.8.2021 I 4058
 
 
 ## Eingangsformel
@@ -91,6 +91,13 @@ und Amtsbezeichnungen:
 
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
+
+
+### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
+Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ziel und Inhalt der Ausbildung
@@ -230,6 +237,10 @@ Ausschuss durchgeführt; dieser kann externe Beraterinnen oder Berater
 sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige Amt kann
 ein Vorverfahren durchführen. Einzelheiten regelt das Auswärtige Amt.
 
+(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des
+mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
+werden, wenn dafür geeignete Einrichtungen zur Verfügung stehen.
+
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und
 Bewerber zugelassen, die nach den eingereichten Unterlagen die
 Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein
@@ -280,6 +291,11 @@ unabhängig und an Weisungen nicht gebunden. Mitglieder sind
 
 
 
+(6a) Bis zum 31. Dezember 2022 kann als Mitglied des
+Auswahlausschusses nach Absatz 6 Satz 4 Nummer 4 und 5 auch jeweils
+eine entsprechende Arbeitnehmerin oder ein entsprechender Arbeitnehmer
+bestellt werden.
+
 (7) Die Leiterin, der Leiter, die stellvertretende Leiterin oder der
 stellvertretende Leiter der Zentralabteilung des Auswärtigen Amts
 können als weitere stimmberechtigte Mitglieder am Auswahlverfahren
@@ -310,6 +326,11 @@ Mitglieder anwesend sind. Er entscheidet mit Stimmenmehrheit; bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
 
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+der Auswahlausschuss – abweichend von Absatz 7 Satz 6 – schon dann
+beschlussfähig ist, wenn die oder der Vorsitzende und ein weiteres
+Mitglied anwesend sind.
+
 (8) Je ein Mitglied des Personalrats und der
 Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des
 Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
@@ -318,6 +339,13 @@ Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und
 Bewerber fest. Sind mehrere Ausschüsse eingerichtet, wird eine
 Rangfolge aller Bewerberinnen und Bewerber festgelegt.
+
+(10) Im Falle einer erfolglosen Teilnahme am mündlichen
+Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für
+das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig.
+In begründeten Einzelfällen kann der Auswahlausschuss eine frühere
+oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung
+ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
@@ -418,9 +446,9 @@ Verlängerung des Vorbereitungsdienstes nach § 28 Abs. 2.
 
 ### § 10 Gliederung des Vorbereitungsdienstes
 
-Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer
-praktischen Ausbildung (Praktika) und wird in folgenden Abschnitten
-durchgeführt:
+(1) Der Vorbereitungsdienst besteht aus einer fachtheoretischen und
+einer praktischen Ausbildung (Praktika) und wird in folgenden
+Abschnitten durchgeführt:
 
 *    *   1.
 
@@ -453,6 +481,24 @@ durchgeführt:
 
 
 
+
+(2) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+Ausbildungsabschnitte
+
+1.  in einer anderen Abfolge durchgeführt werden als nach Absatz 1 und
+
+
+2.  eine andere Dauer haben als nach Absatz 1.
+
+
+
+
+
+### § 10a Nutzung digitaler Lehrformate
+
+Bis zum 31. Dezember 2022 können für einzelne oder alle
+Lehrveranstaltungen der Ausbildungsabschnitte digitale Lehrformate
+genutzt werden.
 
 
 ### § 11 Fachtheoretische Ausbildung
@@ -566,6 +612,19 @@ Hauptsprache und im Informationstechnik-Grundlagenkurs sowie im
 Schlusslehrgang je eine Aufsichtsarbeit in der Hauptsprache und in der
 Nebensprache anzufertigen.
 
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+
+1.  einzelne oder alle Aufsichtsarbeiten im Einführungs- und im
+    Schlusslehrgang mit Unterstützung durch Informationstechnik
+    durchgeführt werden und
+
+
+2.  die Zahl der nach den Absätzen 1 und 2 zu absolvierenden
+    Aufsichtsarbeiten reduziert wird.
+
+
+
+
 (3) Für die Bewertung gilt § 24. Die Bewertung ist der Anwärterin oder
 dem Anwärter zu eröffnen und mit ihm oder ihr zu besprechen.
 
@@ -609,6 +668,20 @@ Einzelkenntnissen gerichtet.
 (3) Die Prüfung besteht aus einer Sprachprüfung in der Hauptsprache (§
 19) und aus einer Fachprüfung (§ 20). Beide Prüfungen bestehen aus je
 einem schriftlichen und einem mündlichen Teil.
+
+(3a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+bei der Sprachprüfung und der Fachprüfung
+
+1.  der schriftliche Teil jeweils mit Unterstützung durch
+    Informationstechnik durchgeführt wird und
+
+
+2.  der mündliche Teil unter Nutzung von Videokonferenztechnik
+    durchgeführt wird, wenn dafür geeignete technische Einrichtungen zur
+    Verfügung stehen.
+
+
+
 
 (4) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die
 Prüfungskommission (§ 18). § 6 Abs. 8 gilt entsprechend.
@@ -671,6 +744,19 @@ ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in
 Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf
 Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
 
+(2a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+die Prüfungskommission nur besetzt ist mit
+
+1.  einer Beamtin oder einem Beamten des gehobenen Dienstes als
+    Vorsitzender oder Vorsitzendem und
+
+
+2.  einer Sprachlehrerin oder einem Sprachlehrer oder zwei
+    Sprachlehrerinnen oder zwei Sprachlehrern.
+
+
+
+
 
 ### § 20 Fachprüfung
 
@@ -721,6 +807,18 @@ obligatorisch ist:
 
 
 
+(1a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+– abweichend von Absatz 1 Satz 1 –
+
+1.  der Umfang der Aufsichtsarbeiten reduziert und die Bearbeitungszeit
+    der Aufsichtsarbeiten verkürzt wird und
+
+
+2.  die Zahl der Aufsichtsarbeiten auf drei oder zwei reduziert wird.
+
+
+
+
 (2) Die Aufsichtsarbeiten sollen an aufeinander folgenden Arbeitstagen
 gestellt werden. Nach zwei Arbeitstagen soll ein Studientag vorgesehen
 werden.
@@ -750,6 +848,11 @@ zugelassen, wenn mindestens drei schriftliche Aufsichtsarbeiten
 mindestens mit der Note "ausreichend" bewertet worden sind.
 Andernfalls ist die Laufbahnprüfung nicht bestanden.
 
+(7a) Ist festgelegt worden, dass die Zahl der Aufsichtsarbeiten auf
+zwei oder drei reduziert wird, so ist zur mündlichen Laufbahnprüfung
+zugelassen, wer in zwei Aufsichtsarbeiten jeweils mindestens die Note
+„ausreichend“ erreicht hat.
+
 (8) Die Zulassung oder Nichtzulassung wird den Anwärterinnen und
 Anwärtern rechtzeitig vor der mündlichen Prüfung bekannt gegeben.
 Dabei sollen zugelassenen Anwärterinnen und Anwärtern auch die von
@@ -761,10 +864,47 @@ Rechtsbehelfsbelehrung versehen.
 (9) Die mündliche Fachprüfung richtet sich auf unterschiedliche
 Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt
 auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für
-den mittleren Auswärtigen Dienst die Prüfungsfächer aus vier der in
-Absatz 1 Satz 2 genannten Fachgebiete aus. Es sollen nicht mehr als
-fünf Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für
-jeden Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
+den mittleren Auswärtigen Dienst vier der in Absatz 1 Satz 2 genannten
+Fachgebiete als Prüfungsfächer aus. Es sollen nicht mehr als fünf
+Prüflinge gleichzeitig geprüft werden. Die Prüfungsdauer für jeden
+Prüfling beträgt für alle Fächer zusammen höchstens 40 Minuten.
+
+(9a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+
+1.  der mündliche Teil der Fachprüfung als Einzelprüfung durchgeführt
+    wird,
+
+
+2.  für den mündlichen Teil der Fachprüfung weniger als vier der in Absatz
+    1 Satz 2 genannten Fachgebiete als Prüfungsfächer ausgewählt werden
+    und
+
+
+3.  auf die Durchführung des mündlichen Teils der Fachprüfung vollständig
+    verzichtet wird, wenn
+
+    a)  geeignete technische Einrichtungen für eine Durchführung unter Nutzung
+        von Videokonferenztechnik nicht zur Verfügung stehen und
+
+
+    b)  nicht gewährleistet werden kann, dass die Durchführung ohne Verstöße
+        gegen ordnungsrechtliche Vorgaben zur Bewältigung der
+        COVID-19-Pandemie erfolgt, selbst wenn
+
+        aa) der mündliche Teil als Einzelprüfung durchgeführt würde und
+
+
+        bb) die Prüfungsfächer aus weniger als vier Fachgebieten ausgewählt
+            würden.
+
+
+
+
+
+
+
+
+
 
 (10) Die oder der Vorsitzende der Prüfungskommission leitet die
 mündliche Fachprüfung und stellt sicher, dass die Anwärterinnen und
@@ -775,6 +915,12 @@ Fachprüferinnen und Fachprüfer schlagen jeweils die Bewertungen vor.
 Das Ergebnis der mündlichen Fachprüfung ist in einer
 Durchschnittspunktzahl auszudrücken, die sich aus der Summe der
 Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
+
+(11a) Ist festgelegt worden, dass auf den mündlichen Teil verzichtet
+wird, so ist das Ergebnis des mündlichen Teils der Fachprüfung das
+arithmetische Mittel aus den Bewertungen der absolvierten
+Aufsichtsarbeiten der fachtheoretischen Ausbildung (§ 15 Absatz 1 bis
+2a).
 
 (12) Über den Ablauf der mündlichen Fachprüfung wird eine
 Niederschrift gefertigt, die die Mitglieder der Prüfungskommission
@@ -856,6 +1002,37 @@ werden mit insgesamt 13 Prozent berücksichtigt.
 mit insgesamt 56 Prozent berücksichtigt; jede schriftliche
 Aufsichtsarbeit geht dabei mit 9 Prozent und jedes mündliche
 Prüfungsfach mit 5 Prozent in das Ergebnis der Laufbahnprüfung ein.
+
+(4) Ist festgelegt worden, dass im schriftlichen Teil der Fachprüfung
+die Zahl der Aufsichtsarbeiten auf drei oder zwei reduziert wird, so
+geht in die Ergebnisse der schriftlichen und mündlichen Fachprüfung,
+
+1.  wenn drei schriftliche Aufsichtsarbeiten zu absolvieren sind, jede
+    schriftliche Aufsichtsarbeit mit 12 Prozent ein,
+
+
+2.  wenn zwei schriftliche Aufsichtsarbeiten zu absolvieren sind, jede
+    schriftliche Aufsichtsarbeit mit 18 Prozent ein.
+
+
+
+Ist festgelegt worden, dass im mündlichen Teil der Fachprüfung die
+Zahl der Prüfungsfächer reduziert wird, so geht in die Ergebnisse der
+schriftlichen und mündlichen Fachprüfung,
+
+1.  wenn drei Fachgebiete zu prüfen sind, jedes mündliche Prüfungsfach mit
+    6,67 Prozent ein,
+
+
+2.  wenn zwei Fachgebiete zu prüfen sind, jedes mündliche Prüfungsfach mit
+    10 Prozent ein,
+
+
+3.  wenn ein Fachgebiet zu prüfen ist, das mündliche Prüfungsfach mit 20
+    Prozent ein.
+
+
+
 
 
 ### § 24 Noten, Rangpunkte

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1273
 
 Zuletzt geändert durch
-:   Art. 1 G v. 27.5.2010 I 671
+:   Art. 10 G v. 14.8.2017 I 3122
 
 
 ## Eingangsformel
@@ -694,9 +694,15 @@ entsprechend.
 
 #### § 30 Öffentliche Ausschreibung
 
-Dem Abschluß von Verträgen über Lieferungen und Leistungen muß eine
-öffentliche Ausschreibung vorausgehen, sofern nicht die Natur des
-Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen.
+Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine
+Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit
+Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts
+oder besondere Umstände eine Ausnahme rechtfertigen.
+Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche
+Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme
+eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven,
+transparenten und nichtdiskriminierenden Kriterien auswählt und zur
+Abgabe von Angeboten auffordert.
 
 
 #### § 31 Änderung von Verträgen, Veränderung von Ansprüchen
@@ -1257,18 +1263,32 @@ Planungsjahren zu sichern.
 der Länder und der Gemeinden und Gemeindeverbände berät der
 Stabilitätsrat über die zugrunde liegenden volks- und
 finanzwirtschaftlichen Annahmen. Dabei ist den Verpflichtungen der
-Bundesrepublik Deutschland aus Rechtsakten der Europäischen
-Gemeinschaft auf Grund des Artikels 126 des Vertrags über die
-Arbeitsweise der Europäischen Union zur Einhaltung der
-Haushaltsdisziplin und in diesem Rahmen den Erfordernissen des
-gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen. Der
-Stabilitätsrat kann zur Koordinierung der Haushalts- und
-Finanzplanungen Empfehlungen beschließen.
+Bundesrepublik Deutschland aus Rechtsakten der Europäischen Union auf
+Grund der Artikel 121, 126 und 136 des Vertrags über die Arbeitsweise
+der Europäischen Union zur Einhaltung der Haushaltsdisziplin und in
+diesem Rahmen den Erfordernissen des gesamtwirtschaftlichen
+Gleichgewichts Rechnung zu tragen. Der Stabilitätsrat kann zur
+Koordinierung der Haushalts- und Finanzplanungen Empfehlungen
+beschließen. Die voraussichtlichen Einnahmen und Ausgaben der in § 52
+genannten Einrichtungen sollen in die Beratungen und Empfehlungen
+einbezogen werden, soweit sie nicht schon in den Finanzplanungen des
+Bundes, der Länder und der Gemeinden und Gemeindeverbände enthalten
+sind.
 
-(2) Die voraussichtlichen Einnahmen und Ausgaben der in § 52 genannten
-Einrichtungen sollen in die Beratungen und Empfehlungen einbezogen
-werden, soweit sie nicht schon in den Finanzplanungen des Bundes, der
-Länder und der Gemeinden und Gemeindeverbände enthalten sind.
+(2) Das strukturelle gesamtstaatliche Finanzierungsdefizit von Bund,
+Ländern, Gemeinden und Sozialversicherungen darf eine Obergrenze von
+0,5 Prozent des nominalen Bruttoinlandsprodukts nicht überschreiten.
+Für Einzelheiten zu Abgrenzung, Berechnung und zulässigen Abweichungen
+von der Obergrenze sowie zum Umfang und Zeitrahmen der Rückführung des
+strukturellen gesamtstaatlichen Finanzierungsdefizits im Falle einer
+Abweichung sind Artikel 3 des Vertrages vom 2. März 2012 über
+Stabilität, Koordinierung und Steuerung in der Wirtschafts- und
+Währungsunion (BGBl. 2012 II S. 1006, 1008) und die Verordnung (EG)
+Nr. 1466/97 des Rates vom 7. Juli 1997 über den Ausbau der
+haushaltspolitischen Überwachung und der Überwachung und Koordinierung
+der Wirtschaftspolitiken (ABl. L 209 vom 2.8.1997, S. 1), die zuletzt
+durch die Verordnung (EU) Nr. 1175/2011 (ABl. L 306 vom 23.11.2011, S.
+12) geändert worden ist, maßgeblich.
 
 
 ### § 51a (weggefallen)

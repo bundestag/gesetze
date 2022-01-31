@@ -379,8 +379,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tischler/zur Tischlerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tischler/zur Tischlerin
 
 (Fundstelle: BGBl. I 2006, 248 - 254)
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1261
 
-Geändert durch
-:   Art. 4 V v. 30.4.2012 I 1002
+Zuletzt geändert durch
+:   Art. 8 G v. 16.7.2021 I 3026
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -28,12 +28,12 @@ Diese Verordnung regelt die Bedingungen, zu denen die Netzbetreiber
 den Netzzugangsberechtigten im Sinne des § 20 Absatz 1 des
 Energiewirtschaftsgesetzes Zugang zu ihren Leitungsnetzen gewähren,
 einschließlich der Einspeisung von Biogas sowie den Anschluss von
-Biogasanlagen an die Leitungsnetze, die Bedingungen für eine
-effiziente Kapazitätsausnutzung mit dem Ziel, den
-Netzzugangsberechtigten diskriminierungsfreien Netzzugang zu gewähren,
-sowie die Verpflichtungen der Netzbetreiber, zur Erreichung dieses
-Ziels zusammenzuarbeiten. Die Vorschriften dieser Verordnung sind
-abschließend im Sinne des § 111 Absatz 1 des
+Biogasanlagen an die Leitungsnetze, den Netzanschluss von LNG-Anlagen,
+die Bedingungen für eine effiziente Kapazitätsausnutzung mit dem Ziel,
+den Netzzugangsberechtigten diskriminierungsfreien Netzzugang zu
+gewähren, sowie die Verpflichtungen der Netzbetreiber, zur Erreichung
+dieses Ziels zusammenzuarbeiten. Die Vorschriften dieser Verordnung
+sind abschließend im Sinne des § 111 Absatz 1 des
 Energiewirtschaftsgesetzes.
 
 
@@ -69,11 +69,16 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
 
 7.  „Brennwert „H
-[^F774449_01_BJNR126110010BJNE000300000]
+[^F774449_01_BJNR126110010BJNE000302377]
     s,n                   “ “ ist die nach DIN EN ISO 6976 (Ausgabe:
     September 2005)
     bei vollständiger Verbrennung freiwerdende Wärme in Kilowattstunde pro
     Normkubikmeter oder in Megajoule pro Normkubikmeter;
+
+
+7a. „Datenformat“ ist eine für die elektronische Weiterverarbeitung oder
+    Veröffentlichung geeignete und standardisierte Formatvorgabe für die
+    Datenkommunikation, welche die relevanten Parameter enthält;
 
 
 8.  „Einspeiser von Biogas“ ist jede juristische oder natürliche Person,
@@ -100,6 +105,13 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     einem Marktgebiet durch eine Person zu erbringen sind;
 
 
+11a. „Realisierungsfahrplan“ ist ein gemeinsamer Plan von Netzbetreiber und
+    Anschlussnehmer oder Anschlusswilligem über Inhalt, zeitliche Abfolge
+    und Verantwortlichkeit für die einzelnen Schritte zur Herstellung des
+    Netzanschlusses oder zum Kapazitätsausbau, um die einzelnen Schritte
+    der Beteiligten miteinander zu synchronisieren;
+
+
 12. „Regelenergie“ sind die Gasmengen, die vom Netzbetreiber zur
     Gewährleistung der Netzstabilität eingesetzt werden;
 
@@ -107,6 +119,11 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 13. „Technische Kapazität“ ist das Maximum an fester Kapazität, das der
     Netzbetreiber unter Berücksichtigung der Systemintegrität und der
     Erfordernisse des Netzbetriebs Transportkunden anbieten kann;
+
+
+13a. „Untertägige Kapazität“ ist die Kapazität, die nach dem Ende der
+    Auktionen für Kapazitäten auf Tagesbasis für den jeweiligen Tag
+    angeboten und zugewiesen wird;
 
 
 14. „Verfügbare Kapazität“ ist die Differenz zwischen technischer
@@ -129,7 +146,7 @@ Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
     Amtlicher Hinweis: Zu beziehen bei Beuth-Verlag GmbH, Berlin;
     archivmäßig gesichert niedergelegt beim Deutschen Patent- und
     Markenamt.
-[^F774449_01_BJNR126110010BJNE000300000]: 
+[^F774449_01_BJNR126110010BJNE000302377]: 
 
 ## Teil 2 - Vertragliche Ausgestaltung des Netzzugangs
 
@@ -386,7 +403,7 @@ unmittelbar vorgelagerten Fernleitungsnetzbetreibern feste
 Ausspeisekapazitäten an den Netzkopplungspunkten (interne Bestellung),
 um insbesondere die dauerhafte Versorgung von Letztverbrauchern mit
 Gas im eigenen und in den nachgelagerten Netzen zu gewährleisten. § 9
-Absatz 4 und die §§ 10 bis 18 finden auf interne Bestellungen keine
+Absatz 4 und die §§ 11 bis 18 finden auf interne Bestellungen keine
 Anwendung.
 
 (4) Die kapazitätsbezogene Abwicklung von Transporten zwischen
@@ -405,13 +422,11 @@ soweit dies für die Systemintegrität des Ausspeisenetzes erforderlich
 ist und entsprechend vereinbart wurde.
 
 (6) Zur Abwicklung netzübergreifender Transporte haben die
-Netzbetreiber eine Kooperationsvereinbarung bis zum 1. Juli 2011
-abzuschließen, in der sie die Einzelheiten ihrer Zusammenarbeit
-regeln, die notwendig sind, um einen transparenten,
-diskriminierungsfreien, effizienten und massengeschäftstauglichen
-Netzzugang zu angemessenen Bedingungen zu gewähren. Die Regelungen
-dieser Kooperationsvereinbarung treten mit Beginn des neuen
-Gaswirtschaftsjahrs zum 1. Oktober 2011 in Kraft.
+Netzbetreiber eine Kooperationsvereinbarung abzuschließen, in der sie
+die Einzelheiten ihrer Zusammenarbeit regeln, die notwendig sind, um
+einen transparenten, diskriminierungsfreien, effizienten und
+massengeschäftstauglichen Netzzugang zu angemessenen Bedingungen zu
+gewähren.
 
 
 ### § 9 Ermittlung technischer Kapazitäten
@@ -472,66 +487,39 @@ Anwendung von Maßnahmen nach Satz 2 möglichst gering zu halten.
 
 (4) Die Regulierungsbehörde genehmigt die Höhe der von den
 Fernleitungsnetzbetreibern nach Absatz 1 bis 3 ermittelten technischen
-Kapazität, bevor die Fernleitungsnetzbetreiber Verfahren nach § 10
-Absatz 1 einführen. Bei der Genehmigung hat die Regulierungsbehörde
-insbesondere die in den Vorjahren ermittelte technische Kapazität und
-die in den Vorjahren ausgewiesenen Zusatzmengen im Sinne des § 10
-Absatz 1 zu berücksichtigen. Die Fernleitungsnetzbetreiber haben der
-Regulierungsbehörde alle für eine Überprüfung der Ermittlung der
-technischen Kapazität erforderlichen Informationen, insbesondere zu
-den bei der Ermittlung der technischen Kapazität verwendeten Annahmen,
-zur Verfügung zu stellen und ihr Zugang zu den
-Kapazitätsberechnungssystemen zu gewähren. Die zur Verfügung
-gestellten Daten müssen einen sachkundigen Dritten in die Lage
-versetzen, die Ermittlung der technischen Kapazität ohne weitere
+Kapazität, bevor die Fernleitungsnetzbetreiber Verfahren nach Anhang I
+Nummer 2.2.2 der Verordnung (EG) Nr. 715/2009 des Europäischen
+Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für
+den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der
+Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36), die
+zuletzt durch den Beschluss (EU) 2015/715 (ABl. L 114 vom 5.5.2015, S.
+9) geändert worden ist, einführen. Bei der Genehmigung hat die
+Regulierungsbehörde insbesondere die in den Vorjahren ermittelte
+technische Kapazität und, sofern erfolgt, die in den Vorjahren
+ausgewiesenen zusätzlichen Kapazitäten zu berücksichtigen. Die
+Fernleitungsnetzbetreiber haben der Regulierungsbehörde alle für eine
+Überprüfung der Ermittlung der technischen Kapazität erforderlichen
+Informationen, insbesondere zu den bei der Ermittlung der technischen
+Kapazität verwendeten Annahmen, zur Verfügung zu stellen und ihr
+Zugang zu den Kapazitätsberechnungssystemen zu gewähren. Die zur
+Verfügung gestellten Daten müssen einen sachkundigen Dritten in die
+Lage versetzen, die Ermittlung der technischen Kapazität ohne weitere
 Informationen vollständig nachvollziehen zu können.
 
 
-### § 10 Zusatzmenge; Rückkaufsverfahren
+### § 10 (weggefallen)
 
-(1) Um das verfügbare Angebot frei zuordenbarer Kapazitäten über das
-nach § 9 Absatz 4 genehmigte Maß hinaus zu erhöhen, können die
-Fernleitungsnetzbetreiber Verfahren einführen, nach denen sie über die
-bereits ausgewiesene technische Kapazität hinaus feste frei
-zuordenbare kurzfristige Kapazitäten anbieten (Zusatzmenge). Sie
-können insbesondere feste Kapazitätsrechte von den Transportkunden
-zurückkaufen, soweit dies zur Aufrechterhaltung eines technisch
-sicheren Netzbetriebs erforderlich ist (Rückkaufsverfahren). Die
-sichere Versorgung von Letztverbrauchern mit Gas muss bei der
-Anwendung von Rückkaufsverfahren gewährleistet bleiben. Weisen die
-Fernleitungsnetzbetreiber Zusatzmengen aus, sind sie verpflichtet,
-diese bezogen auf einzelne Ein- oder Ausspeisepunkte oder Ein- oder
-Ausspeisezonen an Grenzen zu anderen Staaten oder Marktgebieten zu
-ermitteln.
-
-(2) Die bei Anwendung der Verfahren nach Absatz 1 Satz 1 und 2
-erzielten Einnahmen haben die Fernleitungsnetzbetreiber zunächst zur
-Deckung der Kosten dieser Verfahren zu verwenden. Übersteigen die
-Einnahmen aus den Verfahren nach Absatz 1 Satz 1 und 2 nach Deckung
-der Kosten am Ende eines Kalenderjahres weiterhin die Kosten dieser
-Verfahren, werden 50 Prozent dieser Differenz auf dem
-Regulierungskonto nach § 5 der Anreizregulierungsverordnung verbucht,
-die restlichen 50 Prozent dieser Differenz verbleiben bei den
-Fernleitungsnetzbetreibern. Reichen die Einnahmen aus den Verfahren
-nach Absatz 1 Satz 1 und 2 am Ende eines Kalenderjahres nicht aus, um
-die Kosten dieser Verfahren zu decken, hat der
-Fernleitungsnetzbetreiber 50 Prozent dieser Differenz zu tragen; die
-restlichen 50 Prozent dieser Differenz werden auf dem
-Regulierungskonto nach § 5 der Anreizregulierungsverordnung verbucht.
-Soweit die Kosten der Verfahren nach Absatz 1 Satz 1 und 2 in einem
-Kalenderjahr nicht durch die erzielten Einnahmen gedeckt werden
-konnten, hat der Fernleitungsnetzbetreiber die angebotene Zusatzmenge
-im Folgejahr angemessen zu reduzieren.
 
 
 ### § 11 Kapazitätsprodukte
 
 (1) Fernleitungsnetzbetreiber haben Transportkunden sowohl feste als
-auch unterbrechbare Kapazitäten anzubieten, und zwar mindestens auf
-Jahres-, Monats-, Quartals- und Tagesbasis. Fernleitungsnetzbetreiber
-haben bei der Ausgestaltung der Kapazitätsprodukte in dem Ausmaß
-zusammenzuarbeiten, das erforderlich ist, um aufeinander abgestimmte
-Kapazitätsprodukte in möglichst großem Umfang anzubieten.
+auch unterbrechbare Kapazitäten anzubieten, und zwar auf Jahres-,
+Quartals-, Monats- und Tagesbasis sowie untertägiger Basis.
+Fernleitungsnetzbetreiber haben bei der Ausgestaltung der
+Kapazitätsprodukte in dem Ausmaß zusammenzuarbeiten, das erforderlich
+ist, um aufeinander abgestimmte Kapazitätsprodukte in möglichst großem
+Umfang anzubieten.
 
 (2) Fernleitungsnetzbetreiber haben Einspeisekapazitäten an
 unterschiedlichen Einspeisepunkten zu Einspeisezonen zusammenzufassen,
@@ -545,40 +533,53 @@ zusammenzuarbeiten, der erforderlich ist, um ein Angebot nach Satz 1
 und 2 zu ermöglichen. Die Verpflichtung nach § 9 Absatz 2 Satz 3 und 4
 bleibt unberührt.
 
+(3) Die Fernleitungsnetzbetreiber haben bis zum 1. November 2019 die
+Folgen der Einführung untertägiger Kapazitäten nach Absatz 1 zu
+evaluieren und in einem Bericht der Bundesnetzagentur zu übermitteln.
+In der Evaluierung sind insbesondere Änderungen im Buchungsverhalten,
+die Auswirkungen auf das Ausgleichs- und Regelenergiesystem und die
+aus der Einführung resultierenden Entwicklungen der Höhe der
+spezifischen Fernleitungsentgelte zu betrachten. Die Analyse muss die
+Bundesnetzagentur in die Lage versetzen, die Folgen der Bereitstellung
+untertägiger Kapazitäten überprüfen zu können. Die Bundesnetzagentur
+gibt den berührten Wirtschaftskreisen Gelegenheit zur Stellungnahme.
 
-### § 12 Kapazitätsplattformen
 
-(1) Fernleitungsnetzbetreiber haben spätestens bis zum 1. August 2011
-für die Vergabe von Ein- und Ausspeisekapazitäten eine gemeinsame
-Plattform einzurichten und zu betreiben, über die die Kapazitäten nach
-§ 13 vergeben werden (Primärkapazitätsplattform). Die Kosten für die
-Einrichtung und den Betrieb der Primärkapazitätsplattform sind von den
+### § 12 Kapazitätsbuchungsplattform
+
+(1) Fernleitungsnetzbetreiber haben für die Vergabe von Ein- und
+Ausspeisekapazitäten eine oder eine begrenzte Anzahl gemeinsamer
+Kapazitätsbuchungsplattformen einzurichten und zu betreiben oder durch
+einen vereinbarten Dritten betreiben zu lassen, über die die
+Kapazitäten nach § 13 vergeben werden
+(Primärkapazitätsbuchungsplattform). Die Kosten für die Einrichtung
+und den Betrieb der Kapazitätsbuchungsplattform sind von den
 beteiligten Netzbetreibern anteilig zu tragen und können auf die
 Netzentgelte umgelegt werden.
 
 (2) Transportkunden dürfen Ein- und Ausspeisekapazitäten an Dritte
-weiterveräußern oder diesen zur Nutzung überlassen. Die
-Weiterveräußerung oder Nutzungsüberlassung erfolgt ausschließlich
-unter Nutzung der gemeinsamen von Fernleitungsnetzbetreibern
-eingerichteten Handelsplattform zur Überlassung von Transportkapazität
-(Sekundärkapazitätsplattform). Die Kosten für die Einrichtung und den
-Betrieb der Sekundärkapazitätsplattform sind von den beteiligten
+weiterveräußern oder diesen zur Nutzung überlassen
+(Sekundärkapazitäten). Die Weiterveräußerung oder Nutzungsüberlassung
+erfolgt ausschließlich unter Nutzung der Plattform, über welche die
+Primärkapazitäten vergeben werden. Die auf die Vermarktung der
+Sekundärkapazitäten entfallenden Kosten für die Einrichtung und den
+Betrieb der Plattform nach Absatz 1 sind von den beteiligten
 Fernleitungsnetzbetreibern anteilig zu tragen und können auf die
 Netzentgelte umgelegt werden. Die Entgelte für gehandelte Ein- und
 Ausspeisekapazitäten dürfen die ursprünglich für die entsprechende
 Primärkapazität an den Fernleitungsnetzbetreiber zu zahlenden Entgelte
 nicht wesentlich überschreiten.
 
-(3) Auf der Primär- sowie der Sekundärkapazitätsplattform sind alle
-Angebote gleichartiger Kapazitäten und Nachfragen nach gleichartigen
+(3) Auf der Kapazitätsbuchungsplattform sind alle Angebote
+gleichartiger Kapazitäten und Nachfragen nach gleichartigen
 Kapazitäten für die Transportkunden transparent zu machen. Die
 Anonymität des Handelsvorgangs gegenüber Anbietenden, Nachfragenden
 und Dritten muss gewährleistet sein. Transportkunden müssen nach § 6
-registriert sein, um am Handel auf den Kapazitätsplattformen
+registriert sein, um am Handel auf der Kapazitätsbuchungsplattform
 teilzunehmen.
 
-(4) Die Betreiber der Plattformen nach Absatz 1 und 2 haben einen
-gemeinsamen Internetauftritt einzurichten, um Transportkunden eine
+(4) Die Betreiber der Plattformen nach Absatz 1 haben einen
+Internetauftritt einzurichten, um Transportkunden eine
 massengeschäftstaugliche Abwicklung des Erwerbs von Primär- und
 Sekundärkapazität zu ermöglichen.
 
@@ -586,73 +587,42 @@ Sekundärkapazität zu ermöglichen.
 ### § 13 Zuteilung von Ein- und Ausspeisekapazität
 
 (1) Fernleitungsnetzbetreiber haben feste Ein- und
-Ausspeisekapazitäten über die Primärkapazitätsplattform in einem
-transparenten und diskriminierungsfreien Verfahren, erstmalig
-rechtzeitig vor dem 1. Oktober 2011, zu versteigern. Der Zuschlag bei
-der Kapazitätsversteigerung erfolgt nach dem Markträumungspreis.
-Werden Kapazitäten in der Versteigerung nicht entsprechend dem Umfang
-der Anfrage zugeteilt, gilt der Netzzugang in dem Umfang der nicht
-zugeteilten Kapazität als verweigert. Untertägige Kapazitäten sowie
-unterbrechbare Kapazitäten werden vom Ein- oder Ausspeisenetzbetreiber
-nach der zeitlichen Reihenfolge ihrer jeweiligen Buchung vergeben.
+Ausspeisekapazitäten über die Kapazitätsbuchungsplattform in einem
+transparenten und diskriminierungsfreien Verfahren zu versteigern. Der
+Zuschlag bei der Kapazitätsversteigerung erfolgt nach dem
+Markträumungspreis. Werden Kapazitäten in der Versteigerung nicht
+entsprechend dem Umfang der Anfrage zugeteilt, gilt der Netzzugang in
+dem Umfang der nicht zugeteilten Kapazität als verweigert. Sofern
+Kapazitäten mittels einer Auktion auf der Kapazitätsbuchungsplattform
+vergeben werden, muss das Verfahren für die Auktion den Vorgaben der
+Verordnung (EU) 2017/459 der Kommission vom 16. März 2017 zur
+Festlegung eines Netzkodex über Mechanismen für die
+Kapazitätszuweisung in Fernleitungsnetzen und zur Aufhebung der
+Verordnung (EU) Nr. 984/2013 (ABl. L 72 vom 17.3.2017, S. 1)
+entsprechen.
 
-(2) Inhaber unterbrechbarer Kapazitäten können bei einer Versteigerung
-fester Kapazitäten Gebote abgeben, um die unterbrechbaren Kapazitäten
-in feste Kapazitäten umzuwandeln. Ist der Inhaber unterbrechbarer
-Kapazitäten bei der Versteigerung nicht erfolgreich, behält er seine
-unterbrechbare Kapazität.
+(2) Inhaber unterbrechbarer Kapazitäten oder Kapazitäten mit
+unterbrechbaren Anteilen können bei einer Versteigerung von festen
+Kapazitätsprodukten Gebote abgeben, um ihre Kapazitäten in feste
+Kapazitätsprodukte oder Kapazitätsprodukte mit geringeren
+unterbrechbaren Anteilen umzuwandeln. Ist der Inhaber der Kapazitäten
+bei der Versteigerung nicht erfolgreich, behält er seine
+ursprünglichen Kapazitäten.
 
 (3) Absatz 1 und 2 werden nicht angewendet auf Ausspeisekapazitäten
-zur Ausspeisung zu Letztverbrauchern und Speicheranlagen sowie auf
-Einspeisekapazitäten zur Einspeisung aus Speicher-, Produktions- oder
-LNG-Anlagen sowie aus Anlagen im Sinne des Teils 6 zur Einspeisung von
-Biogas in das Fernleitungsnetz. Diese Kapazitäten werden in der
-zeitlichen Reihenfolge der Anfragen vergeben. Sie können vom
-angeschlossenen Letztverbraucher oder vom Betreiber von Speicher-,
-Produktions- oder LNG-Anlagen oder von Anlagen im Sinne des Teils 6
-zur Einspeisung von Biogas gebucht werden.
+zur Ausspeisung zu Letztverbrauchern sowie auf Einspeisekapazitäten
+zur Einspeisung aus Produktions- oder LNG-Anlagen sowie aus Anlagen im
+Sinne des Teils 6 zur Einspeisung von Biogas in das Fernleitungsnetz.
+Diese Kapazitäten werden in der zeitlichen Reihenfolge der Anfragen
+vergeben. Sie können vom angeschlossenen Letztverbraucher oder vom
+Betreiber von Produktions- oder LNG-Anlagen oder von Anlagen im Sinne
+des Teils 6 zur Einspeisung von Biogas gebucht werden.
 
-(4) Erlöse aus den Versteigerungen nach Absatz 1 sind in dem Umfang,
-in dem sie das in Übereinstimmung mit § 17 Absatz 1 der
-Anreizregulierungsverordnung gebildete Entgelt übersteigen, von den
-Fernleitungsnetzbetreibern unverzüglich für Maßnahmen zur Beseitigung
-von dauerhaften Engpässen zu verwenden oder hierfür zurückzustellen.
-Liegt ein vorübergehender Engpass vor, können die Erlöse aus den
-Versteigerungen nach Absatz 1 Satz 1 in dem Umfang, in dem sie das in
-Übereinstimmung mit § 17 der Anreizregulierungsverordnung gebildete
-Entgelt übersteigen, abweichend von Satz 1 von den
-Fernleitungsnetzbetreibern für Maßnahmen zur Kapazitätserhöhung
-zurückgestellt oder entgeltmindernd in den Netzentgelten
-berücksichtigt werden. Die erzielten Versteigerungserlöse und ihre
-Verwendung sind von den Fernleitungsnetzbetreibern zu dokumentieren.
-Aus der Dokumentation muss erkennbar werden, in welchem Umfang die
-Erlöse das regulierte Entgelt übersteigen. Die Dokumentation ist der
-Regulierungsbehörde vorzulegen.
+(4) (weggefallen)
 
 
-### § 14 Vertragslaufzeiten
+### § 14 (weggefallen)
 
-(1) An Grenzen zu anderen Staaten und Marktgebieten sind 20 Prozent
-der technischen Jahreskapazität eines Einspeisepunkts für
-Kapazitätsprodukte reserviert, die mit Vertragslaufzeiten von bis zu
-zwei Jahren einschließlich vergeben werden. 65 Prozent der technischen
-Jahreskapazität eines Einspeisepunkts dürfen mit Vertragslaufzeiten
-von mehr als vier Jahren vergeben werden. Satz 1 und 2 gelten an
-Grenzen zu anderen Staaten und Marktgebieten für die technische
-Jahreskapazität von Ausspeisepunkten entsprechend.
-
-(2) Bei Punkten, die nach § 11 Absatz 2 zu Ein- oder Ausspeisezonen
-zusammengefasst wurden, gilt Absatz 1 entsprechend für die
-Jahreskapazität der Ein- oder Ausspeisezone.
-
-(3) Die Bundesnetzagentur berichtet der Bundesregierung spätestens zum
-1\. Oktober 2013 zu den Erfahrungen mit der Anwendung von § 14. Die
-Bundesnetzagentur hat in dem Bericht insbesondere dazu Stellung zu
-nehmen, ob eine Absenkung des prozentualen Anteils der technischen
-Jahreskapazität, der an Ein- und Ausspeisepunkten an Grenzen zu
-anderen Staaten oder Marktgebieten mit Vertragslaufzeiten von mehr als
-vier Jahren vergeben werden kann, zur Förderung des Wettbewerbs
-geeignet und erforderlich ist.
 
 
 ### § 15 Nominierung und Nominierungsersatzverfahren
@@ -700,10 +670,9 @@ schlüssig zu begründen.
 (1) Transportkunden sind bis zum Nominierungszeitpunkt verpflichtet,
 vollständig oder teilweise ungenutzte feste Kapazitäten unverzüglich
 als Sekundärkapazitäten auf der in § 12 Absatz 2 vorgesehenen
-Sekundärhandelsplattform anzubieten oder dem Fernleitungsnetzbetreiber
-für den Zeitraum und im Umfang der Nichtnutzung zur Verfügung zu
-stellen. Fernleitungsnetzbetreiber können finanzielle Anreize zur
-Freigabe von ungenutzten Kapazitätsrechten vorsehen.
+Kapazitätsbuchungsplattform anzubieten oder dem
+Fernleitungsnetzbetreiber für den Zeitraum und im Umfang der
+Nichtnutzung zur Verfügung zu stellen.
 
 (2) Soweit der Transportkunde von ihm gebuchte feste Kapazitäten zum
 Nominierungszeitpunkt nicht oder nicht vollständig nominiert, ist der
@@ -732,17 +701,17 @@ Oktober, November, Dezember, Januar, Februar oder März gewesen sein.
     hat,
 
 
-2.  unverzüglich schriftlich schlüssig darlegt, dass er die Kapazitäten in
-    vollem Umfang weiterhin benötigt, um bestehende vertragliche
-    Verpflichtungen, insbesondere aus Gasbezugs- oder Gaslieferverträgen,
-    zu erfüllen, oder
+2.  unverzüglich schriftlich oder elektronisch schlüssig darlegt, dass er
+    die Kapazitäten in vollem Umfang weiterhin benötigt, um bestehende
+    vertragliche Verpflichtungen, insbesondere aus Gasbezugs- oder
+    Gaslieferverträgen, zu erfüllen, oder
 
 
-3.  unverzüglich schriftlich schlüssig darlegt, dass er über verschiedene
-    vertragliche Gasbeschaffungsalternativen verfügt, für die Kapazitäten
-    an unterschiedlichen Einspeisepunkten gebucht sind, die von ihm
-    alternativ genutzt werden, und dass er die nicht benötigten
-    Kapazitäten für den Zeitraum der Nichtnutzung im Umfang der
+3.  unverzüglich schriftlich oder elektronisch schlüssig darlegt, dass er
+    über verschiedene vertragliche Gasbeschaffungsalternativen verfügt,
+    für die Kapazitäten an unterschiedlichen Einspeisepunkten gebucht
+    sind, die von ihm alternativ genutzt werden, und dass er die nicht
+    benötigten Kapazitäten für den Zeitraum der Nichtnutzung im Umfang der
     Nichtnutzung auf dem Sekundärmarkt oder dem Fernleitungsnetzbetreiber
     für den Zeitraum und im Umfang der Nichtnutzung zur Verfügung gestellt
     hat.
@@ -763,8 +732,9 @@ Dritter zur Verfügung zu stellen.
 
 ### § 17 Ermittlung des langfristigen Kapazitätsbedarfs
 
-(1) Fernleitungsnetzbetreiber sind verpflichtet, marktgebietsweit,
-jährlich zum 1. April den langfristigen Kapazitätsbedarf in einem
+Fernleitungsnetzbetreiber sind verpflichtet, marktgebietsweit im
+Verfahren der Netzentwicklungsplanung nach § 15a des
+Energiewirtschaftsgesetzes den langfristigen Kapazitätsbedarf in einem
 netzbetreiberübergreifenden, transparenten und diskriminierungsfreien
 Verfahren zu ermitteln. Dabei berücksichtigen die
 Fernleitungsnetzbetreiber insbesondere:
@@ -805,8 +775,8 @@ Fernleitungsnetzbetreiber insbesondere:
     Verordnung (EG) Nr. 715/2009 des Europäischen Parlaments und des Rates
     vom 13. Juli 2009 über die Bedingungen für den Zugang zu den
     Erdgasfernleitungsnetzen und zur Aufhebung der Verordnung (EG) Nr.
-    1775/2005                    (ABl. L 211 vom 14.8.2009, S. 36, L 229
-    vom 1.9.2009, S. 29), sowie
+    1775/2005 (ABl. L 211 vom 14.8.2009, S. 36, L 229 vom 1.9.2009, S.
+    29), sowie
 
 
 10. vorliegende sowie abgelehnte Kapazitätsreservierungen nach § 38 sowie
@@ -820,11 +790,6 @@ zusammenarbeiten und nach Möglichkeit die Verfahren
 grenzüberschreitend durchführen. Fernleitungsnetzbetreiber sind
 verpflichtet, den ermittelten Kapazitätsbedarf auf ihrer Internetseite
 zu veröffentlichen.
-
-(2) Fernleitungsnetzbetreiber sind verpflichtet, auf der Grundlage der
-Ergebnisse des Kapazitätsermittlungsverfahrens den dauerhaft
-erforderlichen Netzausbau gemäß § 11 des Energiewirtschaftsgesetzes
-durchzuführen.
 
 
 ### § 18 Reduzierung der Kapazität nach Buchung
@@ -904,42 +869,13 @@ netztechnischen Gründen erforderlich ist.
 
 (1) Die Fernleitungsnetzbetreiber, die Marktgebiete nach § 20 bilden,
 haben mit dem Ziel zusammenzuarbeiten, die Liquidität des Gasmarktes
-zu erhöhen. Bis 1. April 2011 haben die Fernleitungsnetzbetreiber die
-Zahl der Marktgebiete für L-Gas auf höchstens eins und die Zahl der
-Marktgebiete für H-Gas auf höchstens zwei zu reduzieren. Ein
-Marktgebiet gilt als H-Gasmarktgebiet, wenn es überwiegend Erdgas in
-H-Gasqualität enthält. Die Fernleitungsnetzbetreiber haben bis zum 1.
-Oktober 2012 die mit einer Marktgebietszusammenlegung durch
-Kapazitätsausbau oder Anwendung von kapazitätserhöhenden Maßnahmen
-nach § 9 Absatz 2 verbundenen Kosten und den mit solchen Maßnahmen
-verbundenen Nutzen zu evaluieren. Sie haben im Rahmen dieser Kosten-
-Nutzen-Analyse die wirtschaftlichen Auswirkungen des Vorgehens nach
-Satz 4 mit anderen Maßnahmen, insbesondere einer Kopplung der
-Virtuellen Handelspunkte in den H-Gasmarktgebieten und die
-Einbeziehung des L-Gasmarktgebiets in eins oder beide der
-H-Gasmarktgebiete, zu vergleichen. Auf Grundlage dieser Analyse sind
-die Fernleitungsnetzbetreiber verpflichtet, bis zum 1. August 2013 die
-Maßnahme umzusetzen, die am Geeignetsten und Wirtschaftlichsten ist,
-um höchstens zwei Marktgebiete in Deutschland zu erreichen. Die
-Fernleitungsnetzbetreiber haben der Regulierungsbehörde die Analyse
-nach Satz 4 bis zum 1. Oktober 2012 zu übermitteln. Die
-Bundesnetzagentur gibt den berührten Wirtschaftskreisen zu der Kosten-
-Nutzen-Analyse der Fernleitungsnetzbetreiber rechtzeitig Gelegenheit
-zur Stellungnahme. Die Analyse muss die Regulierungsbehörde in die
-Lage versetzen, die Wirtschaftlichkeit und Eignung der Maßnahmen
-überprüfen zu können. Die Fernleitungsnetzbetreiber haben der
-Regulierungsbehörde im Einzelfall Zugang zu weiteren Systemen,
-insbesondere zu Lastflusssimulationssystemen, zu gewähren, soweit dies
-für die Überprüfung der Analyse nach Satz 4 und 5 erforderlich ist.
+zu erhöhen. Sie haben spätestens ab 1. April 2022 aus den bestehenden
+zwei Marktgebieten ein gemeinsames Marktgebiet zu bilden.
 
 (2) Die Regulierungsbehörde prüft, ob die Verpflichtungen nach Absatz
-1 Satz 2 und 6 erfüllt wurden. Stellt sie fest, dass dies nicht der
-Fall ist, hat sie von ihren Befugnissen nach § 65 des
-Energiewirtschaftsgesetzes Gebrauch zu machen. Die
-Marktgebietsverantwortlichen haben die Analyse nach Satz 4 unter
-Wahrung von Betriebs- und Geschäftsgeheimnissen Dritter auf Verlangen
-auch Transportkunden zur Verfügung zu stellen, soweit eine
-Marktgebietszusammenlegung nicht erfolgt.
+1 erfüllt werden. Stellt sie fest, dass dies nicht der Fall ist, hat
+sie von ihren Befugnissen nach § 65 des Energiewirtschaftsgesetzes
+Gebrauch zu machen.
 
 
 ## Teil 5 - Bilanzierung und Regelenergie
@@ -1002,10 +938,6 @@ erforderlich und angemessen ist, um die Netzstabilität zu sichern oder
 eine missbräuchliche Ausnutzung des Bilanzierungssystems zu vermeiden.
 Die Entgelte sollen den Bilanzkreisverantwortlichen insbesondere
 angemessene Anreize zur Vermeidung von Bilanzungleichgewichten setzen.
-
-(4) Die Verpflichtung zur Bilanzkreisabrechnung unter Beachtung der
-Vorgaben in Absatz 2 Satz 2 bis 4 und Absatz 3 bei der
-Bilanzkreisabrechnung besteht ab dem 1. Oktober 2011.
 
 
 #### § 24 Standardlastprofile
@@ -1180,18 +1112,8 @@ Bilanzkreisverantwortlichen Abschlagszahlungen zur Deckung der
 voraussichtlichen Kosten für Regelenergie zu verlangen.
 
 
-#### § 30 Evaluierung des Ausgleichs- und Regelenergiesystems
+#### § 30 (weggefallen)
 
-Die Bundesnetzagentur legt zum 1. April 2011 einen Bericht an das
-Bundesministerium für Wirtschaft und Technologie mit einer Evaluierung
-der wirtschaftlichen Wirkungen des Ausgleichs- und Regelenergiesystems
-vor. Sie kann Vorschläge zu einer Weiterentwicklung des Ausgleichs-
-und Regelenergiesystems und Handlungsvorschläge machen. Die
-Bundesnetzagentur soll den Bericht nach Satz 1 unter Beteiligung der
-Länder sowie der betroffenen Wirtschaftskreise erstellen und
-internationale Erfahrungen mit Bilanzierungssystemen berücksichtigen.
-Sie gibt den betroffenen Wirtschaftskreisen Gelegenheit zur
-Stellungnahme.
 
 
 ## Teil 6 - Biogas
@@ -1199,10 +1121,8 @@ Stellungnahme.
 
 ### § 31 Zweck der Regelung
 
-Ziel der Regelungen des Teils 6 ist es, die Einspeisung des in
-Deutschland bestehenden Biogaspotenzials von 6 Milliarden Kubikmetern
-jährlich bis 2020 und 10 Milliarden Kubikmetern jährlich bis zum Jahr
-2030 in das Erdgasnetz zu ermöglichen.
+Ziel der Regelungen des Teils 6 ist es, die Einspeisung von Biogas in
+das Erdgasnetz zu ermöglichen.
 
 
 ### § 32 Begriffsbestimmungen
@@ -1258,23 +1178,7 @@ den Räumen zu gestatten. Der Anschlussnehmer und der Netzbetreiber
 können vertraglich weitere Rechte und Pflichten, insbesondere
 Dienstleistungen, vereinbaren und sich diese gegenseitig vergüten.
 
-(3) Netzbetreiber haben für den Netzanschluss neben den in § 19 Absatz
-2 des Energiewirtschaftsgesetzes aufgeführten Angaben auf ihrer
-Internetseite folgende Angaben zu machen:
-
-1.  die für die Prüfung des Netzanschlussbegehrens mindestens
-    erforderlichen Angaben,
-
-
-2.  standardisierte Bedingungen für den Netzanschluss sowie
-
-
-3.  eine laufend aktualisierte, übersichtliche Darstellung der
-    Netzauslastung in ihrem gesamten Netz einschließlich der Kennzeichnung
-    tatsächlicher oder zu erwartender Engpässe.
-
-
-
+(3) (weggefallen)
 
 (4) Richtet ein Anschlussnehmer ein Netzanschlussbegehren an den
 Netzbetreiber, so hat dieser dem Anschlussnehmer innerhalb von zwei
@@ -1318,15 +1222,11 @@ Teil der Kosten des Netzanschlusses nach Absatz 1. Der Netzbetreiber
 stellt den Netzanschluss auf Grundlage der gemeinsamen Planung
 unverzüglich selbst oder durch einen Dritten her. Zu diesem Zweck
 vereinbaren Netzbetreiber und Anschlussnehmer zusammen mit dem
-Netzanschlussvertrag einen Plan über Inhalt, zeitliche Abfolge und
-Verantwortlichkeit von Netzbetreiber und Anschlussnehmer für die
-einzelnen Schritte zur Herstellung des Netzanschlusses und der
-gesicherten Einspeisekapazität, einschließlich der Rückspeisung in
-vorgelagerte Netze (Realisierungsfahrplan). Der Realisierungsfahrplan
-muss angemessene Folgen bei Nichteinhaltung der wesentlichen,
-insbesondere zeitlichen, Vorgaben vorsehen. Soweit es veränderte
-tatsächliche Umstände erfordern, hat jeder der Beteiligten einen
-Anspruch auf Anpassung des Realisierungsfahrplans. Im
+Netzanschlussvertrag einen Realisierungsfahrplan. Der
+Realisierungsfahrplan muss angemessene Folgen bei Nichteinhaltung der
+wesentlichen, insbesondere zeitlichen, Vorgaben vorsehen. Soweit es
+veränderte tatsächliche Umstände erfordern, hat jeder der Beteiligten
+einen Anspruch auf Anpassung des Realisierungsfahrplans. Im
 Realisierungsfahrplan müssen Zeitpunkte festgelegt werden, zu denen
 wesentliche Schritte zur Verwirklichung des Netzanschlusses
 abgeschlossen sein müssen. Derartige Schritte können insbesondere
@@ -1482,8 +1382,8 @@ Bilanzkreisvertrags zahlen an den Marktgebietsverantwortlichen ein
 Entgelt für den erweiterten Bilanzausgleich in Höhe von 0,001 Euro je
 Kilowattstunde für die Nutzung des tatsächlich in Anspruch genommenen
 Flexibilitätsrahmens. Die Höhe des pauschalierten Entgelts und die
-damit verbundene Anreizwirkung werden im Zuge des Monitoring nach § 37
-überprüft.
+damit verbundene Anreizwirkung werden im Zuge des Monitoring nach § 35
+Absatz 1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
 
 (9) Die §§ 22, 23 sowie 25 finden keine Anwendung.
 
@@ -1532,21 +1432,18 @@ Kosten.
     Wasserfachs e. V.
 [^F774449_03_BJNR126110010BJNE003700000]: 
 
-### § 37 Monitoring
+### § 37 (weggefallen)
 
-Die Auswirkungen der Sonderregelungen für die Einspeisung von Biogas
-in das Erdgasnetz nach Teil 6 werden von der Bundesregierung geprüft.
-Die Bundesnetzagentur legt hierzu erstmals bis zum 31. Mai 2011 und
-anschließend jährlich einen Bericht vor. Darin werden das Erreichen
-der Ziele nach § 31, die Kostenstruktur für die Einspeisung von
-Biogas, die erzielbaren Erlöse, die Kostenbelastung der Netze und
-Speicher sowie die Notwendigkeit von Musterverträgen untersucht.
 
 
 ## Teil 7 - Besondere Regelungen für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
 
 
-### § 38 Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
+### Abschnitt 1 - Kapazitätsreservierung und Kapazitätsausbauanspruch
+
+
+
+#### § 38 Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
 
 (1) Betreiber von Speicher-, LNG- und Produktionsanlagen sowie
 Betreiber von Gaskraftwerken, die nach Inkrafttreten dieser Verordnung
@@ -1586,7 +1483,8 @@ der Anfrage benötigt und welche Kosten mit der Prüfung verbunden sind.
 Der Betreiber der Anlage teilt dem Fernleitungsnetzbetreiber innerhalb
 von zwei Wochen nach Eingang des Prüfungsergebnisses mit, ob der
 Fernleitungsnetzbetreiber die notwendigen Prüfungen durchführen soll.
-Nach Eingang der vollständigen Unterlagen beim
+Die Kosten für die Prüfung nach Satz 1 muss der Betreiber der Anlage
+tragen. Nach Eingang der vollständigen Unterlagen beim
 Fernleitungsnetzbetreiber hat dieser die Anfrage des Betreibers
 innerhalb von zwei Monaten zu prüfen und ihm das Ergebnis der Prüfung
 mitzuteilen. Ergibt die Prüfung, dass eine Reservierung von Kapazität
@@ -1618,7 +1516,7 @@ den Reservierungsgebühren auf dem Regulierungskonto nach § 5 der
 Anreizregulierungsverordnung verbucht.
 
 
-### § 39 Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen
+#### § 39 Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen
 
 (1) Betreiber von Speicher-, LNG- oder Produktionsanlagen sowie
 Gaskraftwerken, deren Reservierungsanfrage nach § 38 wegen fehlender
@@ -1626,42 +1524,46 @@ Kapazität im Fernleitungsnetz nicht berücksichtigt werden konnte
 (Anschlusswillige), haben Anspruch darauf, dass die an der Speicher-,
 LNG- oder Produktionsanlage oder dem Gaskraftwerk benötigte Ein- oder
 Ausspeisekapazität im Rahmen des Kapazitätsausbaus, dessen
-Erforderlichkeit sich auf Grundlage des nach § 17 Absatz 1 ermittelten
-Kapazitätsbedarfs ergibt, bereitgestellt wird, es sei denn, die
-Durchführung des erforderlichen Kapazitätsausbaus ist dem
+Erforderlichkeit sich auf Grundlage des in dem Verfahren der
+Netzentwicklungsplanung nach § 15a des Energiewirtschaftsgesetzes
+ermittelten Kapazitätsbedarfs ergibt, bereitgestellt wird, es sei
+denn, die Durchführung des erforderlichen Kapazitätsausbaus ist dem
 Fernleitungsnetzbetreiber wirtschaftlich nicht zumutbar. Die
 wirtschaftliche Zumutbarkeit eines Kapazitätsausbaus wird vermutet,
-wenn die an der Speicher-, LNG- oder Produktionsanlage oder dem
-Gaskraftwerk benötigte Ein- oder Ausspeisekapazität spätestens 18
-Monate vor dem im Realisierungsfahrplan nach Absatz 2 Satz 2
-vorgesehenen Zeitpunkt der Fertigstellung der neuen oder erweiterten
-Speicher-, LNG- oder Produktionsanlage oder des neuen oder erweiterten
-Gaskraftwerks verbindlich langfristig beim Fernleitungsnetzbetreiber
-gebucht wird.
+wenn die benötigte Ein- oder Ausspeisekapazität nach der
+Verbindlichkeit des Realisierungsfahrplans nach Absatz 2 Satz 3 binnen
+zwei Monaten oder bei der nächsten Auktion von Jahreskapazitäten,
+sofern die Kapazität versteigert wird, verbindlich langfristig beim
+Fernleitungsnetzbetreiber gebucht wird.
 
-(2) Nach Abschluss des Verfahrens nach § 17 Absatz 1 haben der
-Fernleitungsnetzbetreiber und der Anschlusswillige unverzüglich einen
-verbindlichen Realisierungsfahrplan zu erarbeiten, auf dessen
-Grundlage der Ausbau erfolgen soll. Dieser Realisierungsfahrplan hat
-auch den geplanten Zeitpunkt des Baubeginns sowie der Fertigstellung
-der neuen oder erweiterten Speicher-, LNG- oder Produktionsanlage oder
-des neuen oder erweiterten Gaskraftwerks zu enthalten. Der
-Fernleitungsnetzbetreiber hat Anspruch auf Anpassung des
-Realisierungsfahrplans, sofern dies auf Grund von ihm nicht zu
-vertretender Umstände erforderlich ist. Satz 3 gilt für den
-Anschlusswilligen entsprechend.
+(2) Nach Vorlage des Netzentwicklungsplans nach § 15a Absatz 1 Satz 1
+des Energiewirtschaftsgesetzes durch die Fernleitungsnetzbetreiber
+müssen der Fernleitungsnetzbetreiber und der Anschlusswillige
+unverzüglich, spätestens aber nach Zahlung der Planungspauschale nach
+Absatz 3, einen Realisierungsfahrplan erarbeiten, auf dessen Grundlage
+der Ausbau erfolgen soll. Dieser Realisierungsfahrplan hat auch den
+geplanten Zeitpunkt des Baubeginns sowie der Fertigstellung der neuen
+oder erweiterten Speicher-, LNG- oder Produktionsanlage oder des neuen
+oder erweiterten Gaskraftwerks zu enthalten. Der Realisierungsfahrplan
+wird mit Unterzeichnung des Fernleitungsnetzbetreibers und des
+Anschlusswilligen verbindlich, jedoch nicht bevor die darin
+enthaltenen Ausbaumaßnahmen Gegenstand des verbindlichen
+Netzentwicklungsplans nach § 15a Absatz 3 Satz 5 und 7 des
+Energiewirtschaftsgesetzes sind. Der Fernleitungsnetzbetreiber hat
+Anspruch auf Anpassung des verbindlichen Realisierungsfahrplans,
+sofern dies auf Grund von ihm nicht zu vertretender Umstände
+erforderlich ist. Satz 4 ist für den Anschlusswilligen entsprechend
+anzuwenden.
 
-(3) Der Anschlusswillige ist in dem Zeitraum zwischen Abschluss des
-Verfahrens zur Kapazitätsbedarfsermittlung nach § 17 und dem Zeitpunkt
-der verbindlichen langfristigen Buchung der Kapazität an der neuen
-oder erweiterten Speicher-, LNG- oder Produktionsanlage oder dem neuen
-oder erweiterten Gaskraftwerk (Planungsphase) verpflichtet, sich an
-den Planungskosten des Fernleitungsnetzbetreibers mit einer
+(3) Der Anschlusswillige ist zum Zeitpunkt der erstmaligen Aufnahme
+der für die Kapazitätsbereitstellung erforderlichen Maßnahmen in den
+verbindlichen Netzentwicklungsplan verpflichtet, sich einmalig an den
+Planungskosten des Fernleitungsnetzbetreibers mit einer
 Planungspauschale zu beteiligen. Die Planungspauschale beträgt für
 neue oder erweiterte Gaskraftwerke 0,50 Euro pro Kilowattstunde pro
-Stunde pro Jahr und für neue oder erweiterte Speicher-, LNG- oder
-Produktionsanlagen 0,40 Euro pro Kilowattstunde pro Stunde pro Jahr.
-Die vom Anschlusswilligen gezahlte Planungspauschale ist vom
+Stunde und für neue oder erweiterte Speicher-, LNG- oder
+Produktionsanlagen 0,40 Euro pro Kilowattstunde pro Stunde. Die vom
+Anschlusswilligen gezahlte Planungspauschale ist vom
 Fernleitungsnetzbetreiber nach einer verbindlichen langfristigen
 Buchung der Kapazität mit dem Ein- oder Ausspeisentgelt, das für die
 Kapazität zu zahlen ist, zu verrechnen. Wird die Kapazität vom
@@ -1675,85 +1577,221 @@ gezahlte Planungspauschale zu erstatten. Eine Reservierungsgebühr nach
 Planungspauschale nicht verlangt werden.
 
 
+### Abschnitt 2 - Netzanschluss von LNG-Anlagen
+
+
+
+#### § 39a Begriffsbestimmungen
+
+Für diesen Verordnungsabschnitt sind die folgenden
+Begriffsbestimmungen anzuwenden:
+
+1.  „Anschlussnehmer“ ist jede juristische oder natürliche Person, die als
+    Projektentwicklungsträger, Errichter oder Betreiber einer LNG-Anlage
+    den Netzanschluss dieser Anlage beansprucht;
+
+
+2.  „Netzanschluss“ ist die Herstellung der Anbindungsleitung, die die
+    LNG-Anlage mit dem bestehenden Fernleitungsnetz verbindet, und deren
+    Verknüpfung mit dem Anschlusspunkt des bestehenden Fernleitungsnetzes;
+
+
+3.  „für den Netzanschluss erforderliche Infrastruktur“ ist die
+    Anbindungsleitung, die die LNG-Anlage mit dem bestehenden
+    Fernleitungsnetz verbindet, der Anschlusspunkt mit dem bestehenden
+    Fernleitungsnetz, die Gasdruck-Regel-Messanlage und die sonstigen zur
+    Anbindung erforderlichen Betriebsmittel.
+
+
+
+
+
+#### § 39b Netzanschlusspflicht
+
+(1) Fernleitungsnetzbetreiber müssen LNG-Anlagen auf Antrag eines
+Anschlussnehmers an die Fernleitungsnetze anschließen.
+Anschlussverpflichtet ist der Fernleitungsnetzbetreiber, der den
+technisch und wirtschaftlich günstigsten Netzanschluss der LNG-Anlage
+zum Fernleitungsnetz ermöglichen kann.
+
+(2) Der anschlussverpflichtete Fernleitungsnetzbetreiber kann der LNG-
+Anlage einen anderen als den vom Anschlussnehmer begehrten
+Anschlusspunkt zuweisen, wenn dieser im Rahmen des wirtschaftlich
+Zumutbaren die geäußerten Absichten des Anschlussnehmers bestmöglich
+verwirklicht.
+
+(3) Der anschlussverpflichtete Fernleitungsnetzbetreiber kann einen
+Netzanschluss nach Maßgabe des § 17 Absatz 2 des
+Energiewirtschaftsgesetzes ablehnen. Ein Netzanschluss kann nicht
+unter Hinweis darauf verweigert werden, dass in einem mit dem
+Anschlusspunkt direkt oder indirekt verbundenen Netz
+Kapazitätsengpässe vorliegen, soweit die technisch-physikalische
+Aufnahmefähigkeit des Netzes gegeben ist.
+
+(4) Die für den Netzanschluss erforderliche Infrastruktur steht im
+Eigentum des Fernleitungsnetzbetreibers. Sie ist ab dem Zeitpunkt der
+Errichtung ein Teil des Energieversorgungsnetzes.
+
+
+#### § 39c Weitere Pflichten des Fernleitungsnetzbetreibers
+
+(1) Der anschlussverpflichtete Fernleitungsnetzbetreiber ist für die
+Wartung und den Betrieb der für den Netzanschluss erforderlichen
+Infrastruktur verantwortlich.
+
+(2) Der Anschlussnehmer und der Fernleitungsnetzbetreiber können
+vertraglich weitere Rechte und Pflichten, insbesondere
+Dienstleistungen, vereinbaren und sich diese gegenseitig vergüten.
+
+(3) Bei Errichtung und Betrieb der für den Netzanschluss
+erforderlichen Infrastruktur muss der anschlussverpflichtete
+Fernleitungsnetzbetreiber die Grundsätze der effizienten
+Leistungserbringung beachten.
+
+
+#### § 39d Vorbereitung des Netzanschlusses
+
+(1) Richtet ein Anschlussnehmer ein schriftliches
+Netzanschlussbegehren an den Fernleitungsnetzbetreiber, muss dieser
+dem Anschlussnehmer innerhalb von acht Wochen nach Eingang des
+Netzanschlussbegehrens darlegen, welche Prüfungen zur Vorbereitung
+einer Entscheidung über das Netzanschlussbegehren notwendig sind und
+welche erforderlichen Kosten diese Prüfungen verursachen werden.
+Soweit zusätzliche Angaben erforderlich sind, muss der
+Fernleitungsnetzbetreiber diese vollständig unverzüglich, spätestens
+aber innerhalb von sechs Wochen nach Eingang des
+Netzanschlussbegehrens vom Anschlussnehmer anfordern; in diesem Fall
+beginnt die in Satz 1 genannte Frist mit dem Eingang der vollständigen
+zusätzlichen Angaben beim Fernleitungsnetzbetreiber.
+
+(2) Auf Anforderung des Anschlussnehmers muss der
+Fernleitungsnetzbetreiber unverzüglich die für eine Anschlusszusage
+notwendigen Prüfungen durchführen. Soweit erforderlich, sind andere
+Fernleitungsnetzbetreiber zur Mitwirkung bei der Prüfung verpflichtet.
+Der Anschlussnehmer kann verlangen, dass der Fernleitungsnetzbetreiber
+auch Prüfungen unter Zugrundelegung von Annahmen des Anschlussnehmers
+durchführt. Das Ergebnis der Prüfungen ist dem Anschlussnehmer
+unverzüglich, spätestens aber sechs Monate nach der Anforderung
+mitzuteilen.
+
+(3) Der Fernleitungsnetzbetreiber ist an ein positives
+Prüfungsergebnis für die Dauer von zwölf Monaten gebunden. Die Frist
+beginnt mit dem Zeitpunkt der Mitteilung nach Absatz 2 Satz 4.
+Innerhalb dieser Frist muss der Fernleitungsnetzbetreiber dem
+Anschlussnehmer ein verbindliches Vertragsangebot vorlegen. Das
+Vertragsangebot umfasst die Zusicherung einer bestimmten garantierten
+technischen Mindesteinspeisekapazität des Netzanschlusses.
+
+(4) Die Wirksamkeit des Netzanschlussvertrags steht unter der
+aufschiebenden Bedingung, dass der Anschlussnehmer 10 Prozent der
+Plankosten für die Errichtung der für den Netzanschluss erforderlichen
+Infrastruktur an den Fernleitungsnetzbetreiber zahlt. Dieser
+Kostenanteil ist innerhalb von drei Monaten nach Vorlage des
+verbindlichen Vertragsangebots zu zahlen.
+
+(5) Ab dem Zeitpunkt der Wirksamkeit des Netzanschlussvertrags hat der
+Fernleitungsnetzbetreiber in Zusammenarbeit mit dem Anschlussnehmer
+unverzüglich die Planung des Netzanschlusses durchzuführen.
+
+
+#### § 39e Realisierungsfahrplan
+
+(1) Der Fernleitungsnetzbetreiber führt den Netzanschluss auf
+Grundlage der gemeinsamen Planung unverzüglich selbst oder durch einen
+Dritten durch. Zu diesem Zweck vereinbaren Fernleitungsnetzbetreiber
+und Anschlussnehmer zusammen mit dem Netzanschlussvertrag einen
+Realisierungsfahrplan. Dieser muss angemessene Folgen bei
+Nichteinhaltung der wesentlichen, insbesondere zeitlichen Vorgaben
+vorsehen. Soweit es veränderte tatsächliche Umstände erfordern, hat
+jeder der Beteiligten einen Anspruch auf Anpassung des
+Realisierungsfahrplans.
+
+(2) Im Realisierungsfahrplan müssen Zeitpunkte festgelegt werden, zu
+denen wesentliche Schritte zur Verwirklichung des Netzanschlusses und
+der LNG-Anlage abgeschlossen sein müssen. Derartige Schritte können
+insbesondere sein:
+
+1.  der Erwerb dinglicher Rechte oder langfristiger schuldrechtlicher
+    Ansprüche, die die Nutzung der für den Netzanschluss benötigten
+    Grundstücke ermöglichen,
+
+
+2.  die Beantragung der für den Netzanschluss und die LNG-Anlage
+    erforderlichen behördlichen Genehmigungen,
+
+
+3.  die Freigabe der Netzanschlussarbeiten durch den Anschlussnehmer,
+
+
+4.  das Bestellen der erforderlichen Anschlusstechnik,
+
+
+5.  der Beginn der Baumaßnahmen,
+
+
+6.  die Fertigstellung der Baumaßnahmen und
+
+
+7.  der Zeitpunkt der Inbetriebnahme.
+
+
+
+
+(3) Der Fernleitungsnetzbetreiber hat den Realisierungsfahrplan
+unverzüglich der Regulierungsbehörde vorzulegen.
+
+
+#### § 39f Kostenverteilung
+
+(1) Die Kosten für die Errichtung der für den Netzanschluss
+erforderlichen Infrastruktur einschließlich der Kosten für die Planung
+des Netzanschlusses nach § 39d Absatz 5 muss der
+anschlussverpflichtete Fernleitungsnetzbetreiber zu 90 Prozent tragen.
+Der Anschlussnehmer muss die verbleibenden 10 Prozent der Kosten
+tragen. Kommen innerhalb von zehn Jahren nach Errichtung der für den
+Netzanschluss erforderlichen Infrastruktur weitere Anschlüsse hinzu,
+muss der Fernleitungsnetzbetreiber die Kosten so aufteilen, wie er sie
+bei gleichzeitigem Netzanschluss verteilt hätte, und zu viel gezahlte
+Beträge erstatten.
+
+(2) Die Kosten für die Erfüllung der Pflichten nach § 39c Absatz 1
+muss der anschlussverpflichtete Fernleitungsnetzbetreiber tragen.
+
+(3) Die Kosten für die Prüfung nach § 39d Absatz 2 muss der
+Anschlussnehmer tragen.
+
+(4) Soweit der Anschlussnehmer Kosten nach Absatz 1 oder 3 tragen
+muss, muss der anschlussverpflichtete Fernleitungsnetzbetreiber ihm
+die jeweiligen Kosten offenlegen.
+
+(5) Der Fernleitungsnetzbetreiber muss nach Errichtung der für den
+Netzanschluss erforderlichen Infrastruktur eine Schlussabrechnung für
+die Kosten nach Absatz 1 erstellen und hierbei die geleisteten
+Zahlungen des Anschlussnehmers nach § 39d Absatz 4 verrechnen. Zu viel
+oder zu wenig gezahlte Beträge muss er dem Anschlussnehmer erstatten
+oder in Rechnung stellen.
+
+
+#### § 39g Geltungsdauer und Evaluierung
+
+(1) Die Netzanschlusspflicht nach § 39b gilt nur für Anträge, die vor
+dem 1. Juni 2024 beim anschlussverpflichteten
+Fernleitungsnetzbetreiber gestellt werden.
+
+(2) Das Bundesministerium für Wirtschaft und Energie evaluiert bis zum
+1\. Juni 2023 die Netzanschlusspflicht nach § 39b und ihre
+Auswirkungen. In dem Bericht stellt das Bundesministerium für
+Wirtschaft und Energie auch dar, ob eine Fortgeltung der
+Netzanschlusspflicht nach § 39b über den 1. Juni 2024 hinaus notwendig
+ist.
+
+
 ## Teil 8 - Veröffentlichungs- und Informationspflichten
 
 
 ### § 40 Veröffentlichungspflichten
 
-(1) Netzbetreiber sind verpflichtet, auf ihren Internetseiten
-regelmäßig, beginnend mit dem 1. Oktober 2011, folgende aktualisierte
-Angaben in einem gängigen Datenformat zu veröffentlichen:
-
-1.  im Fernleitungsnetz eine unter Betreibern angrenzender Netze
-    abgestimmte einheitliche Bezeichnung für Netzkopplungspunkte oder Ein-
-    oder Ausspeisezonen, unter denen dort Kapazität gebucht werden kann,
-
-
-2.  im Fernleitungsnetz mindestens einmal jährlich Angaben über Termine
-    von Versteigerungen nach § 13 Absatz 1 Satz 1, mindestens für die
-    nächsten fünf Jahre im Voraus,
-
-
-3.  im Fernleitungsnetz, zumindest für den Folgetag, die Zusatzmenge nach
-    § 10 Absatz 1 Satz 1,
-
-
-4.  im Fernleitungsnetz Angaben über die bei der Lastflusssimulation nach
-    § 9 Absatz 2 verwendete Methode,
-
-
-5.  im Fernleitungsnetz mindestens einmal jährlich eine Dokumentation der
-    nach § 9 Absatz 3 durchgeführten kapazitätserhöhenden Maßnahmen und
-    ihrer jeweiligen Kosten,
-
-
-6.  im Fernleitungsnetz Angaben zu den Erlösen aus der Kapazitätsvergabe
-    nach § 13 Absatz 1 und deren Verwendung nach § 13 Absatz 4,
-
-
-7.  im Verteilnetz die Gasbeschaffenheit bezüglich des Brennwerts „H
-    s,n                   “ sowie am zehnten Werktag des Monats den
-    Abrechnungsbrennwert des Vormonats an allen Ein- und Ausspeisepunkten,
-
-
-8.  im Verteilnetz Regeln für den Anschluss anderer Anlagen und Netze an
-    das vom Netzbetreiber betriebene Netz sowie den Zugang solcher Anlagen
-    und Netze zu dem vom Netzbetreiber betriebenen Netz,
-
-
-9.  im örtlichen Verteilnetz die zur Anwendung kommenden
-    Standardlastprofile,
-
-
-10. die Zuordenbarkeit jeder Entnahmestelle zu einem oder mehreren
-    Marktgebieten,
-
-
-11. die „Mindestanforderungen an die Allgemeinen Geschäftsbedingungen“
-    nach § 4 sowie die Vereinbarung nach § 8 Absatz 6 sowie
-
-
-12. Ansprechpartner im Unternehmen für Netzzugangsfragen.
-
-
-
-Diese Angaben sind bei Änderungen unverzüglich anzupassen, mindestens
-monatlich oder, falls es die Verfügbarkeit kurzfristiger
-Dienstleistungen erfordert, täglich. Die Veröffentlichungspflichten
-der Fernleitungsnetzbetreiber nach Anhang I zur Verordnung (EG) Nr.
-715/2009 bleiben unberührt. Die Veröffentlichung der Angaben nach Satz
-1 hat in einem gängigen Format zu erfolgen, das eine automatisierte
-Auslesung der veröffentlichten Daten von der Internetseite des
-Fernleitungsnetzbetreibers ermöglicht. Die Angaben werden in deutscher
-Sprache veröffentlicht. Fernleitungsnetzbetreiber veröffentlichen sie
-auf ihrer Internetseite zusätzlich in englischer Sprache. Örtliche
-Verteilnetzbetreiber stellen darüber hinaus auf ihrer Internetseite
-eine Karte bereit, auf der schematisch erkennbar ist, welche Bereiche
-in einem Gemeindegebiet an das örtliche Gasverteilernetz angeschlossen
-sind.
-
-(2) Marktgebietsverantwortliche veröffentlichen auf ihrer
-Internetseite:
+Marktgebietsverantwortliche veröffentlichen auf ihrer Internetseite:
 
 1.  die Methoden, nach denen die Ausgleichs- und Regelenergieentgelte
     berechnet werden;
@@ -1864,73 +1902,12 @@ verwendet werden, die eine größtmögliche Automatisierung ermöglichen.
 
 ### § 43 Messung
 
-Der Messstellenbetreiber oder gegebenenfalls der Messdienstleister
-nimmt die Messung von Gasmengen vor. Der Netzbetreiber kann, soweit
-dies zur Erfüllung seiner Aufgaben zwingend erforderlich ist,
-Kontrollablesungen durchführen. Die Messung erfolgt nach § 11 der
-Messzugangsverordnung.
+Die Messung erfolgt nach den Bestimmungen des
+Messstellenbetriebsgesetzes.
 
 
-### § 44 Messung des von Haushaltskunden entnommenen Gases
+### (XXXX) §§ 44 bis 48 (weggefallen)
 
-(1) Bei der Messung des von grundversorgten Haushaltskunden
-entnommenen Gases werden die Messeinrichtungen nach den Vorgaben des
-Grundversorgers möglichst in gleichen Zeitabständen, die zwölf Monate
-nicht wesentlich überschreiten dürfen, abgelesen.
-
-(2) Im Falle eines Lieferantenwechsels nach § 41 ist für die
-Ermittlung des Verbrauchswerts im Zeitpunkt des Lieferantenwechsels
-ein einheitliches Verfahren zugrunde zu legen. Die Abrechnung kann auf
-Grundlage einer Messung nach § 43 oder, sofern kein Ableseergebnis
-vorliegt, durch Schätzung des Netzbetreibers erfolgen. Im Falle einer
-Schätzung ist der Verbrauch zeitanteilig zu berechnen; jahreszeitliche
-Verbrauchsschwankungen sind auf der Grundlage der für Haushaltskunden
-maßgeblichen Erfahrungswerte angemessen zu berücksichtigen.
-
-
-### § 45 Messung nach Vorgabe des Transportkunden
-
-Liegt eine Vereinbarung nach § 40 Absatz 3 Satz 2 des
-Energiewirtschaftsgesetzes vor, sind die hieraus folgenden Vorgaben zu
-den Zeitabständen der Messung zu beachten.
-
-
-### § 46 Betrieb von Mess- und Steuereinrichtungen
-
-(1) Für den Betrieb der Mess- und Steuereinrichtungen gelten § 8
-Absatz 1 und § 9 Absatz 3 der Messzugangsverordnung.
-
-(2) Der Anschlussnehmer haftet für das Abhandenkommen und die
-Beschädigung von Mess- und Steuereinrichtungen, soweit ihn daran ein
-Verschulden trifft. Er hat den Verlust, Beschädigungen und Störungen
-dieser Einrichtungen dem Messstellenbetreiber unverzüglich
-mitzuteilen.
-
-
-### § 47 Nachprüfung von Messeinrichtungen
-
-(1) Der Transportkunde kann jederzeit die Nachprüfung der
-Messeinrichtungen durch eine Eichbehörde oder eine staatlich
-anerkannte Prüfstelle im Sinne des § 2 Absatz 4 des Eichgesetzes
-verlangen. Stellt der Transportkunde den Antrag auf Nachprüfung nicht
-bei dem Messstellenbetreiber, so hat er diesen zugleich mit der
-Antragstellung zu benachrichtigen.
-
-(2) Die Kosten der Nachprüfung fallen dem Messstellenbetreiber zur
-Last, falls die Abweichung die eichrechtlichen Verkehrsfehlergrenzen
-überschreitet, sonst dem Transportkunden.
-
-
-### § 48 Vorgehen bei Messfehlern
-
-Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
-gesetzlichen Verkehrsfehlergrenzen und ist die Größe des Fehlers nicht
-einwandfrei festzustellen oder zeigt eine Messeinrichtung nicht an
-(Messfehler), so hat der Netzbetreiber die Daten für die Zeit seit der
-letzten fehlerfreien Ablesung aus dem Durchschnittsverbrauch des ihr
-vorhergehenden und des der Beseitigung des Fehlers nachfolgenden
-Ablesezeitraums oder auf Grund des Vorjahreswertes durch Schätzung zu
-ermitteln.
 
 
 ## Teil 11 - Verweigerung des Netzzugangs nach § 25 des Energiewirtschaftsgesetzes
@@ -1947,16 +1924,16 @@ Prüfung erforderlichen Angaben über die Art und den Umfang der
 Unzumutbarkeit und die von dem Gasversorgungsunternehmen zu deren
 Abwendung unternommenen Anstrengungen beizufügen.
 
-(2) Soweit nach Artikel 27 Absatz 2 der Richtlinie 2003/55/EG des
-Europäischen Parlaments und des Rates vom 26. Juni 2003 über
+(2) Soweit nach Artikel 48 Absatz 2 der Richtlinie 2009/73/EG des
+Europäischen Parlaments und des Rates vom 13. Juli 2009 über
 gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung
-der Richtlinie 98/30/EG (ABl. L 176 vom 15.7.2003, S. 57) die
+der Richtlinie 2003/55/EG (ABl. L 211 vom 14.8.2009, S. 94) die
 Beteiligung der Kommission der Europäischen Gemeinschaften (EG-
 Beteiligungsverfahren) vorgesehen ist, leitet die Regulierungsbehörde
 dieses Verfahren ein. Die Regulierungsbehörde hat eine Entscheidung
 über einen Antrag nach Absatz 1 Satz 1 nach Maßgabe einer endgültigen
-Entscheidung der Kommission nach Artikel 27 Absatz 2 in Verbindung mit
-Artikel 30 Absatz 2 der Richtlinie 2003/55/EG zu ändern oder
+Entscheidung der Kommission nach Artikel 48 Absatz 2 in Verbindung mit
+Artikel 51 Absatz 2 der Richtlinie 2009/73/EG zu ändern oder
 aufzuheben; die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben
 unberührt.
 
@@ -1973,7 +1950,7 @@ Netzbetriebs Entscheidungen durch Festlegungen nach § 29 Absatz 1 des
 Energiewirtschaftsgesetzes treffen:
 
 1.  zu den Verträgen nach den §§ 3, 7 und 33 sowie den
-    Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 33 Absatz 3
+    Geschäftsbedingungen nach § 3 Absatz 6, den §§ 4 und 40 Absatz 1a
     Nummer 2, sofern nicht ein Standardangebot angewendet wird;
 
 
@@ -1994,23 +1971,14 @@ Energiewirtschaftsgesetzes treffen:
     Nummer 1 bis 3, sowie zu Kapazitätsprodukten nach § 11;
 
 
-5.  zum prozentualen Anteil, zu dem Kosten und Erlöse beim
-    Fernleitungsnetzbetreiber verbleiben, in Abweichung zu § 10 Absatz 2
-    Satz 1 und 2, soweit dies erforderlich ist, um eine nachfragegerechte
-    Maximierung des Kapazitätsangebots im Sinne des § 9 durch die
-    Fernleitungsnetzbetreiber zu gewährleisten; um eine nachfragegerechte
-    Maximierung des Kapazitätsangebots im Sinne des § 9 durch die
-    Fernleitungsnetzbetreiber zu gewährleisten, kann die
-    Regulierungsbehörde auch einen Höchstbetrag festlegen, zu dem Erlöse
-    und Kosten aus Verfahren nach § 10 beim Fernleitungsnetzbetreiber
-    verbleiben;
+5.  (weggefallen)
 
 
-6.  zu den Kapazitätsplattformen nach § 12; sie kann insbesondere
+6.  zu den Kapazitätsbuchungsplattformen nach § 12; sie kann insbesondere
     festlegen, dass ein Anteil kurzfristiger Kapazitäten in anderer Weise,
     insbesondere durch implizite Auktionen, zugewiesen werden kann, wenn
     dies erforderlich ist, um insbesondere durch eine Kopplung der Märkte
-    die Liquidität des Gasmarkts zu erhöhen;
+    die Liquidität des Gasmarktes zu erhöhen;
 
 
 7.  zum Verfahren für die Beschaffung, den Einsatz und die Abrechnung von
@@ -2020,7 +1988,7 @@ Energiewirtschaftsgesetzes treffen:
     müssen;
 
 
-8.[^F774449_04_BJNR126110010BJNE005101360]
+8.[^F774449_04_BJNR126110010BJNE005104377]
   zum System und der Beschaffenheit des Netzanschlusses von Anlagen zur
     Aufbereitung von Biogas an das Gasversorgungsnetz, der Einspeisung von
     Biogas in das Erdgasnetz, zur Vereinheitlichung von technischen
@@ -2034,17 +2002,15 @@ Energiewirtschaftsgesetzes treffen:
 
 9.  zum Bilanzierungssystem nach Teil 5 Abschnitt 1 dieser Verordnung, um
     berechtigte Bedürfnisse des Marktes angemessen zu berücksichtigen,
-    sowie insbesondere zu einer von § 23 Absatz 1 Satz 1 abweichenden
-    Länge der Bilanzierungsperiode, zu einer von § 23 Absatz 2 Satz 2
-    abweichenden Bemessung der Toleranzmenge, zu den Anforderungen an und
-    den zu verwendenden Datenformaten für den Informationsaustausch im
-    Rahmen der Bilanzierung, zu Inhalten sowie den Fristen im Zusammenhang
-    mit der Datenübermittlung und zu den Methoden, nach denen die Entgelte
-    nach § 23 Absatz 2 Satz 3 gebildet werden; sie hat dabei zu beachten,
-    dass ein Bilanzausgleichssystem einen effizienten Netzzugang
-    ermöglicht und, soweit erforderlich, auch Anreize gegen eine
-    missbräuchliche Nutzung der Bilanzausgleichsdienstleistungen enthalten
-    soll;
+    sowie insbesondere zu einer von § 23 Absatz 2 Satz 2 abweichenden
+    Bemessung der Toleranzmenge, zu den Anforderungen an und den zu
+    verwendenden Datenformaten für den Informationsaustausch im Rahmen der
+    Bilanzierung, zu Inhalten sowie den Fristen im Zusammenhang mit der
+    Datenübermittlung und zu den Methoden, nach denen die Entgelte nach §
+    23 Absatz 2 Satz 3 gebildet werden; sie hat dabei zu beachten, dass
+    ein Bilanzausgleichssystem einen effizienten Netzzugang ermöglicht
+    und, soweit erforderlich, auch Anreize gegen eine missbräuchliche
+    Nutzung der Bilanzausgleichsdienstleistungen enthalten soll;
 
 
 10. zu Entgelten und Gebühren für die Nutzung des Virtuellen Handelspunkts
@@ -2064,9 +2030,7 @@ Energiewirtschaftsgesetzes treffen:
     nachträgliche Änderungen der Nominierung;
 
 
-13. zu Beginn und Ende des Gastags in Abweichung von § 23 Absatz 1 Satz 2,
-    wenn dies der Erreichung der Ziele des § 1 des
-    Energiewirtschaftsgesetzes dient;
+13. (weggefallen)
 
 
 14. zur Abwicklung des Lieferantenwechsels nach § 41, insbesondere zu den
@@ -2087,7 +2051,16 @@ Energiewirtschaftsgesetzes treffen:
 18. zu bundeseinheitlichen Regelungen zum Datenaustausch zwischen den
     betroffenen Marktbeteiligten, insbesondere zu Fristen und Formaten
     sowie zu Prozessen, die eine größtmögliche Automatisierung
-    ermöglichen.
+    ermöglichen;
+
+
+19. zu den Voraussetzungen, dem Verfahren und der näheren Ausgestaltung
+    eines Übernominierungsverfahrens für die Zuweisung unterbrechbarer
+    untertägiger Kapazitäten;
+
+
+20. zur Einrichtung von virtuellen Kopplungspunkten sowie der näheren
+    Ausgestaltung des Netzzugangs an virtuellen Kopplungspunkten.
 
 
 
@@ -2102,38 +2075,39 @@ langfristige und kurzfristige Kapazitätsrechte vergeben werden.
 
 (3) Die Regulierungsbehörde kann von Amts wegen Festlegungen treffen,
 mit denen die prozentuale Aufteilung der technischen Jahreskapazität
-auf unterschiedliche Kapazitätsprodukte abweichend von § 14 festgelegt
-wird, soweit dies zur Erreichung der Ziele des § 1 des
-Energiewirtschaftsgesetzes erforderlich ist. Sie hat auf Antrag eines
-Gasversorgungsunternehmens eine abweichende prozentuale Aufteilung der
-technischen Jahreskapazität eines Ein- oder Ausspeisepunkts oder einer
-Ein- oder Ausspeisezone festzulegen, soweit das
-Gasversorgungsunternehmen nachweist, dass dies zur Erfüllung von
-Mindestabnahmeverpflichtungen aus Lieferverträgen erforderlich ist,
-die am 1. Oktober 2009 bestanden. Der im Rahmen langfristiger
-Kapazitätsverträge zu vergebende Anteil der technischen
+auf unterschiedliche Kapazitätsprodukte festgelegt wird, soweit dies
+zur Erreichung der Ziele des § 1 des Energiewirtschaftsgesetzes
+erforderlich ist. Sie muss auf Antrag eines Gasversorgungsunternehmens
+eine abweichende prozentuale Aufteilung der technischen
 Jahreskapazität eines Ein- oder Ausspeisepunkts oder einer Ein- oder
-Ausspeisezone darf jedoch 65 Prozent der technischen Jahreskapazität
-eines Ein- oder Ausspeisepunkts oder einer Ein- oder Ausspeisezone
-nicht unterschreiten. Bei einer Festlegung von Amts wegen hat die
+Ausspeisezone festlegen, soweit das Gasversorgungsunternehmen
+nachweist, dass dies zur Erfüllung von Mindestabnahmeverpflichtungen
+aus Lieferverträgen erforderlich ist, die am 1. Oktober 2009
+bestanden. Der im Rahmen langfristiger Kapazitätsverträge zu
+vergebende Anteil der technischen Jahreskapazität eines Ein- oder
+Ausspeisepunkts oder einer Ein- oder Ausspeisezone darf jedoch 65
+Prozent der technischen Jahreskapazität eines Ein- oder
+Ausspeisepunkts oder einer Ein- oder Ausspeisezone nicht
+unterschreiten. Bei einer Festlegung von Amts wegen muss die
 Regulierungsbehörde zuvor die Verbände der Netzbetreiber und die
-Verbände der Transportkunden anzuhören.
+Verbände der Transportkunden anhören.
 
 (4) Die Regulierungsbehörde kann zu Standardlastprofilen nach § 24 und
 deren Anwendung nach Anhörung der Verbände der Netzbetreiber und der
 Verbände der Transportkunden Festlegungen treffen, insbesondere zur
-Behandlung der Messeinrichtungen im Sinne des § 21b Absatz 3a und 3b
-des Energiewirtschaftsgesetzes oder vergleichbaren Messeinrichtungen
-und zur Behandlung der ausgelesenen Messwerte im Rahmen des
-Netzzugangs sowie zur Erarbeitung von Lastprofilen für bestimmte
-Verbrauchergruppen. Sie kann für die Erarbeitung von Lastprofilen für
-bestimmte Verbrauchergruppen terminliche Vorgaben machen. Dabei sind
-die Erfahrungen der Marktteilnehmer angemessen zu berücksichtigen.
+Behandlung der Messeinrichtungen im Sinne des
+Messstellenbetriebsgesetzes und zur Behandlung der ausgelesenen
+Messwerte im Rahmen des Netzzugangs sowie zur Erarbeitung von
+Lastprofilen für bestimmte Verbrauchergruppen. Sie kann für die
+Erarbeitung von Lastprofilen für bestimmte Verbrauchergruppen
+terminliche Vorgaben machen. Dabei sind die Erfahrungen der
+Marktteilnehmer angemessen zu berücksichtigen.
 
-(5) Festlegungen können die Netzbetreiber auch verpflichten, über die
-Angaben in § 40 hinaus weitere Informationen zu veröffentlichen, die
-für den Wettbewerb im Gashandel oder bei der Belieferung von Kunden
-erforderlich sind. Festlegungen können die Netzbetreiber und
+(5) Die Regulierungsbehörde kann die Netzbetreiber auch verpflichten,
+über die Angaben in § 40 hinaus weitere Informationen zu
+veröffentlichen oder an die Regulierungsbehörde zu übermitteln, die
+für den Wettbewerb im Gashandel oder bei der Belieferung der Kunden
+erforderlich sind. Die Regulierungsbehörde kann die Netzbetreiber und
 Transportkunden verpflichten, bei der Erfüllung von Veröffentlichungs-
 und Datenübermittlungspflichten aus dieser Verordnung oder aus
 Festlegungsentscheidungen auf der Grundlage dieser Verordnung
@@ -2149,8 +2123,8 @@ Netzbetreiber auffordern, ihr innerhalb einer bestimmten, angemessenen
 Frist ein Standardangebot für Geschäftsbedingungen nach § 4 und für
 die Ausgestaltung der Kapazitätsprodukte nach § 11 vorzulegen,
 insbesondere in Bezug auf die Möglichkeit zur nachträglichen Änderung
-der Nominierung sowie auf standardisierte Bedingungen nach § 33 Absatz
-3 Nummer 2. Sie kann in dieser Aufforderung Vorgaben für die
+der Nominierung sowie auf standardisierte Bedingungen nach § 40 Absatz
+1a Nummer 2. Sie kann in dieser Aufforderung Vorgaben für die
 Ausgestaltung einzelner Bedingungen machen, insbesondere in Bezug auf
 Diskriminierungsfreiheit und Angemessenheit. Sie gibt den Verbänden
 der Netzbetreiber und den Verbänden der Transportkunden in geeigneter
@@ -2178,7 +2152,7 @@ worden sind.
     Verlagsgesellschaft Gas und Wasser mit beschränkter Haftung, Bonn,
     archivmäßig niedergelegt beim Deutschen Verein des Gas- und
     Wasserfachs e. V.
-[^F774449_04_BJNR126110010BJNE005101360]: 
+[^F774449_04_BJNR126110010BJNE005104377]: 
 
 ## Teil 13 - Sonstige Bestimmungen
 

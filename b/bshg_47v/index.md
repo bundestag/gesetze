@@ -15,11 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1964, 339
 
+V aufgeh. durch
+:   Art. 26 Abs. 4 Satz 2 V v. 23.12.2016 I 3234 mWv 1.1.2020
+
 Neugefasst durch
 :   Bek. v. 1.2.1975 I 433;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 27.12.2003 I 3022
+:   Art. 21 G v. 23.12.2016 I 3234
 
 
 ## Abschnitt I - Personenkreis
@@ -119,7 +122,7 @@ Sozialgesetzbuch zur Folge haben können, sind
 
 Zu den Leistungen der medizinischen Rehabilitation im Sinne des § 54
 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit §
-26 des Neunten Buches Sozialgesetzbuch gehört auch ärztlich
+42 des Neunten Buches Sozialgesetzbuch gehört auch ärztlich
 verordneter Rehabilitationssport in Gruppen unter ärztlicher Betreuung
 und Überwachung.
 
@@ -134,7 +137,7 @@ und Überwachung.
 (1) Die Hilfe zur Beschaffung eines Kraftfahrzeuges gilt als Leistung
 zur Teilhabe am Arbeitsleben und zur Teilhabe am Leben in der
 Gemeinschaft im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches
-Sozialgesetzbuch in Verbindung mit den §§ 33 und 55 des Neunten Buches
+Sozialgesetzbuch in Verbindung mit den §§ 49 und 76 des Neunten Buches
 Sozialgesetzbuch. Sie wird in angemessenem Umfang gewährt, wenn der
 behinderte Mensch wegen Art oder Schwere seiner Behinderung
 insbesondere zur Teilhabe am Arbeitsleben auf die Benutzung eines
@@ -154,7 +157,7 @@ Hilfe gewährt werden.
 ### § 9 Andere Hilfsmittel
 
 (1) Andere Hilfsmittel im Sinne des § 54 Abs. 1 Satz 1 des Zwölften
-Buches Sozialgesetzbuch in Verbindung mit den §§ 26, 33 und 55 des
+Buches Sozialgesetzbuch in Verbindung mit den §§ 42, 49 und 76 des
 Neunten Buches Sozialgesetzbuch sind nur solche Hilfsmittel, die dazu
 bestimmt sind, zum Ausgleich der durch die Behinderung bedingten
 Mängel beizutragen.
@@ -208,7 +211,7 @@ Mängel beizutragen.
 
 (3) Die Versorgung mit einem anderen Hilfsmittel im Sinne des § 54
 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit
-den §§ 26, 33 und 55 des Neunten Buches Sozialgesetzbuch wird nur
+den §§ 42, 49 und 76 des Neunten Buches Sozialgesetzbuch wird nur
 gewährt, wenn das Hilfsmittel im Einzelfall erforderlich und geeignet
 ist, zu dem in Absatz 1 genannten Ausgleich beizutragen, und wenn der
 behinderte Mensch das Hilfsmittel bedienen kann.
@@ -218,7 +221,7 @@ behinderte Mensch das Hilfsmittel bedienen kann.
 
 (1) Zu der Versorgung mit Körperersatzstücken sowie mit orthopädischen
 oder anderen Hilfsmitteln im Sinne des § 54 Abs. 1 Satz 1 des Zwölften
-Buches Sozialgesetzbuch in Verbindung mit den §§ 26, 33 und 55 des
+Buches Sozialgesetzbuch in Verbindung mit den §§ 42, 49 und 76 des
 Neunten Buches Sozialgesetzbuch gehört auch eine notwendige
 Unterweisung in ihrem Gebrauch.
 
@@ -352,7 +355,7 @@ Sozialgesetzbuch umfaßt vor allem Hilfe
 
 Hilfe zur Ausbildung für eine sonstige angemessene Tätigkeit im Sinne
 des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in
-Verbindung mit den §§ 33 und 41 des Neunten Buches Sozialgesetzbuch
+Verbindung mit den §§ 49 und 58 des Neunten Buches Sozialgesetzbuch
 sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 3 des Zwölften
 Buches Sozialgesetzbuch wird insbesondere gewährt, wenn die Ausbildung
 für einen Beruf aus besonderen Gründen, vor allem wegen Art und
@@ -394,7 +397,7 @@ gehören auch
 ### § 17 Eingliederung in das Arbeitsleben
 
 (1) Zu der Hilfe im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches
-Sozialgesetzbuch in Verbindung mit den §§ 33 und 41 des Neunten Buches
+Sozialgesetzbuch in Verbindung mit den §§ 49 und 58 des Neunten Buches
 Sozialgesetzbuch sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 5
 des Zwölften Buches Sozialgesetzbuch gehören auch die Hilfe zur
 Beschaffung von Gegenständen sowie andere Leistungen, wenn sie wegen
@@ -465,7 +468,7 @@ entsprechenden Fachrichtung, ein Psychologe oder sonstige
 sachverständige Personen gehört werden.
 
 
-## Abschnitt III -
+## Abschnitt III - 
 
 (weggefallen)
 

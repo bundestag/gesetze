@@ -17,8 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477
 
 Zuletzt geändert durch
-:   Art. 4 V v. 3.9.2010 I 1261
-
+:   Art. 35 G v. 23.6.2021 I 1858
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -65,7 +64,7 @@ zwischen dem Anschlussnehmer und dem Netzbetreiber.
 (2) Das Netzanschlussverhältnis entsteht durch Vertrag erstmalig mit
 dem Anschlussnehmer, der die Herstellung des Netzanschlusses in
 Auftrag gibt. Bei Herstellung eines Netzanschlusses ist der
-Netzanschlussvertrag schriftlich abzuschließen.
+Netzanschlussvertrag in Textform abzuschließen.
 
 (3) Anschlussnehmer, die nicht Grundstückseigentümer oder
 Erbbauberechtigte sind, haben die schriftliche Zustimmung des
@@ -168,8 +167,10 @@ Anforderung mitzuteilen.
 (2) Der Netzbetreiber ist verpflichtet, jedem Neukunden bei Entstehen
 des Netzanschlussverhältnisses oder des Anschlussnutzungsverhältnisses
 und auf Verlangen den übrigen Kunden die Allgemeinen Bedingungen
-unentgeltlich auszuhändigen. Er hat die Allgemeinen Bedingungen auf
-seiner Internetseite zu veröffentlichen.
+unentgeltlich in Textform zur Verfügung zu stellen. Er hat die
+Allgemeinen Bedingungen auf seiner Internetseite zu veröffentlichen.
+Sofern ein Neukunde dies verlangt, sind ihm die Allgemeinen
+Bedingungen in Papierform auszuhändigen.
 
 (3) Änderungen der ergänzenden Bedingungen, zu denen auch die
 Technischen Anschlussbedingungen nach § 20 gehören, und
@@ -199,7 +200,7 @@ Netzanschluss anzuwenden.
 ### § 6 Herstellung des Netzanschlusses
 
 (1) Netzanschlüsse werden durch den Netzbetreiber hergestellt. Die
-Herstellung des Netzanschlusses soll vom Anschlussnehmer schriftlich
+Herstellung des Netzanschlusses soll vom Anschlussnehmer in Textform
 in Auftrag gegeben werden; auf Verlangen des Netzbetreibers ist ein
 von diesem zur Verfügung gestellter Vordruck zu verwenden. Der
 Netzbetreiber hat dem Anschlussnehmer den voraussichtlichen Zeitbedarf
@@ -213,7 +214,7 @@ Netzanschlüsse ist dabei besonders zu berücksichtigen.
 
 (3) Auf Wunsch des Anschlussnehmers hat der Netzbetreiber die
 Errichter weiterer Anschlussleitungen sowie der
-Telekommunikationslinien im Sinne des § 3 Nr. 26 des
+Telekommunikationslinien im Sinne des § 3 Nummer 64 des
 Telekommunikationsgesetzes im Hinblick auf eine gemeinsame Verlegung
 der verschiedenen Gewerke zu beteiligen. Er führt die Herstellung oder
 Änderungen des Netzanschlusses entweder selbst oder mittels
@@ -536,9 +537,9 @@ Anschlussnutzungsverhältnisses verpflichtet, dem Anschlussnutzer in
 dem im Netzanschlussverhältnis vorgesehenen Umfang die Nutzung des
 Netzanschlusses jederzeit zu ermöglichen. Dies gilt nicht, soweit und
 solange der Netzbetreiber hieran durch höhere Gewalt oder sonstige
-Umstände, deren Beseitigung ihm im Sinne des § 18 Abs. 1 Satz 2 des
-Energiewirtschaftsgesetzes aus wirtschaftlichen Gründen nicht
-zugemutet werden kann, gehindert ist.
+Umstände, deren Beseitigung ihm im Sinne des § 18 Absatz 1 Satz 2
+Nummer 1 des Energiewirtschaftsgesetzes aus wirtschaftlichen Gründen
+nicht zugemutet werden kann, gehindert ist.
 
 (2) Die Anschlussnutzung hat zur Voraussetzung, dass der Gebrauch der
 Elektrizität mit einem Verschiebungsfaktor zwischen cos
@@ -566,8 +567,9 @@ Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
 drohenden Netzzusammenbruchs erforderlich ist. Der Netzbetreiber hat
 jede Unterbrechung oder Unregelmäßigkeit unverzüglich zu beheben. Eine
 notwendige Unterbrechung wegen eines vom Anschlussnutzer veranlassten
-Austauschs der Messeinrichtung durch einen Dritten nach § 21b des
-Energiewirtschaftsgesetzes hat der Netzbetreiber nicht zu vertreten.
+Austauschs der Messeinrichtung durch einen Messstellenbetreiber nach
+den Vorschriften des Messstellenbetriebsgesetzes hat der Netzbetreiber
+nicht zu vertreten.
 
 (2) Der Netzbetreiber hat die Anschlussnutzer bei einer beabsichtigten
 Unterbrechung der Anschlussnutzung rechtzeitig in geeigneter Weise zu
@@ -702,7 +704,7 @@ Unternehmen mitzuteilen.
 
 
 
-#### § 19 Betrieb von elektrischen Anlagen und Verbrauchsgeräten, Eigenerzeugung
+#### § 19 Betrieb von elektrischen Anlagen, Verbrauchsgeräten und Ladeeinrichtungen, Eigenanlagen
 
 (1) Anlage und Verbrauchsgeräte sind vom Anschlussnehmer oder -nutzer
 so zu betreiben, dass Störungen anderer Anschlussnehmer oder -nutzer
@@ -712,8 +714,18 @@ Dritter ausgeschlossen sind.
 (2) Erweiterungen und Änderungen von Anlagen sowie die Verwendung
 zusätzlicher Verbrauchsgeräte sind dem Netzbetreiber mitzuteilen,
 soweit sich dadurch die vorzuhaltende Leistung erhöht oder mit
-Netzrückwirkungen zu rechnen ist. Nähere Einzelheiten über den Inhalt
-der Mitteilung kann der Netzbetreiber regeln.
+Netzrückwirkungen zu rechnen ist. Auch Ladeeinrichtungen für
+Elektrofahrzeuge sind dem Netzbetreiber vor deren Inbetriebnahme
+mitzuteilen. Deren Inbetriebnahme bedarf darüber hinaus der vorherigen
+Zustimmung des Netzbetreibers, sofern ihre Summen-Bemessungsleistung
+12 Kilovoltampere je elektrischer Anlage überschreitet; der
+Netzbetreiber ist in diesem Fall verpflichtet, sich innerhalb von zwei
+Monaten nach Eingang der Mitteilung zu äußern. Stimmt der
+Netzbetreiber nicht zu, hat er den Hinderungsgrund, mögliche
+Abhilfemaßnahmen des Netzbetreibers und des Anschlussnehmers oder
+-nutzers sowie einen hierfür beim Netzbetreiber erforderlichen
+Zeitbedarf darzulegen. Einzelheiten über den Inhalt und die Form der
+Mitteilungen kann der Netzbetreiber regeln.
 
 (3) Vor der Errichtung einer Eigenanlage hat der Anschlussnehmer oder
 -nutzer dem Netzbetreiber Mitteilung zu machen. Der Anschlussnehmer
@@ -744,11 +756,11 @@ Versorgung gefährden würde.
 #### § 21 Zutrittsrecht
 
 Der Anschlussnehmer oder -nutzer hat nach vorheriger Benachrichtigung
-dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers, des
-Messstellenbetreibers oder des Messdienstleisters den Zutritt zum
-Grundstück und zu seinen Räumen zu gestatten, soweit dies für die
-Prüfung der technischen Einrichtungen und Messeinrichtungen, zum
-Austausch der Messeinrichtung, auch anlässlich eines Wechsels des
+dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers oder
+des Messstellenbetreibers den Zutritt zum Grundstück und zu seinen
+Räumen zu gestatten, soweit dies für die Prüfung der technischen
+Einrichtungen und Messeinrichtungen, zum Austausch der
+Messeinrichtung, auch anlässlich eines Wechsels des
 Messstellenbetreibers, zur Ablesung der Messeinrichtung oder zur
 Unterbrechung des Anschlusses und der Anschlussnutzung erforderlich
 ist. Die Benachrichtigung kann durch Mitteilung an die jeweiligen
@@ -767,22 +779,24 @@ der technischen Anforderungen nach § 20 vorzusehen.
 
 (2) Der Netzbetreiber bestimmt den Anbringungsort von Mess- und
 Steuereinrichtungen. Bei der Wahl des Aufstellungsorts ist die
-Möglichkeit einer Fernauslesung der Messdaten zu berücksichtigen.
-Soweit dies technisch machbar und wirtschaftlich zumutbar ist, sind in
-Gebäuden, die neu an das Energieversorgungsnetz angeschlossen oder
-einer größeren Renovierung im Sinne der Richtlinie 2002/91/EG des
-Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die
-Gesamtenergieeffizienz von Gebäuden (ABl. EU Nr. L 1 S. 65) unterzogen
-werden, die baulichen Voraussetzungen für den Einbau von
-Messeinrichtungen zu schaffen, die dem jeweiligen Anschlussnutzer den
-tatsächlichen Energieverbrauch und die tatsächliche Nutzungszeit
-widerspiegeln. Der Netzbetreiber hat den Anschlussnehmer anzuhören und
-dessen berechtigte Interessen zu wahren. Er ist verpflichtet, auf
-Verlangen des Anschlussnehmers einer Verlegung der Mess- und
-Steuereinrichtungen zuzustimmen, wenn dies ohne Beeinträchtigung einer
-einwandfreien Messung möglich ist. Der Anschlussnehmer hat die Kosten
-einer Verlegung der Mess- und Steuereinrichtungen nach Satz 4 zu
-tragen.
+Möglichkeit der Ausstattung mit einem intelligenten Messsystem nach
+dem Messstellenbetriebsgesetz zu berücksichtigen. In Gebäuden, die neu
+an das Energieversorgungsnetz angeschlossen werden, sind die
+Messstellen so anzulegen, dass Smart-Meter-Gateways nach dem
+Messstellenbetriebsgesetz nachträglich einfach eingebaut werden
+können; ausreichend in diesem Sinne ist ein Zählerschrank, der Platz
+für ein Smart-Meter-Gateway bietet. Dies ist auch in Gebäuden
+anzuwenden, die einer größeren Renovierung im Sinne der Richtlinie
+2010/31/EU des Europäischen Parlaments und des Rates vom 19. Mai 2010
+über die Gesamtenergieeffizienz von Gebäuden (ABl. L 153 vom
+18\.6.2010, S. 13) unterzogen werden, soweit dies technisch machbar und
+wirtschaftlich zumutbar ist. Der Netzbetreiber hat den Anschlussnehmer
+anzuhören und dessen berechtigte Interessen bei der Wahl des
+Aufstellungsorts zu wahren. Er ist verpflichtet, den bevorzugten
+Aufstellungsort des Anschlussnehmers zu wählen, wenn dies ohne
+Beeinträchtigung einer einwandfreien Messung möglich ist. Der
+Anschlussnehmer hat die Kosten einer Verlegung der Mess- und
+Steuereinrichtungen nach Satz 5 zu tragen.
 
 (3) Der Anschlussnehmer oder -nutzer hat dafür Sorge zu tragen, dass
 die Mess- und Steuereinrichtungen zugänglich sind. Er hat den Verlust,
@@ -829,8 +843,9 @@ Unterbrechung erforderlich ist, um
     von erheblichem Wert abzuwenden,
 
 
-2.  die Anschlussnutzung unter Umgehung, Beeinflussung oder vor Anbringung
-    der Messeinrichtungen zu verhindern oder
+2.  die Anschlussnutzung ohne Messeinrichtung, unter Umgehung,
+    Beeinflussung oder vor Anbringung der Messeinrichtungen zu verhindern
+    oder
 
 
 3.  zu gewährleisten, dass Störungen anderer Anschlussnehmer oder -nutzer
@@ -886,8 +901,8 @@ gestatten.
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
 auf das Ende eines Kalendermonats gekündigt werden. Eine Kündigung
 durch den Netzbetreiber ist nur möglich, soweit eine Pflicht zum
-Netzanschluss nach § 18 Abs. 1 Satz 2 des Energiewirtschaftsgesetzes
-nicht besteht.
+Netzanschluss nach § 18 Absatz 1 Satz 2 Nummer 1 des
+Energiewirtschaftsgesetzes nicht besteht.
 
 (2) Tritt an Stelle des bisherigen Netzbetreibers ein anderes
 Unternehmen in die sich aus dem Netzanschlussverhältnis ergebenden

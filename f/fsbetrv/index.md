@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2068
 
-Stand: Zuletzt geändert Art. 4 G v. 24.8.2009 I 2942
+Stand: Zuletzt geändert Art. 571 V v. 31.8.2015 I 1474
 
 ## Eingangsformel
 
@@ -160,7 +160,7 @@ und wirtschaftlich gestalten und dazu geeignete Maßnahmen der Planung
 und Steuerung treffen.
 
 (2) Für die Verkehrsflußregelung gelten die vom Bundesministerium für
-Verkehr, Bau und Stadtentwicklung erlassenen Richtlinien. Darüber
+Verkehr und digitale Infrastruktur erlassenen Richtlinien. Darüber
 hinaus sind bei grenzüberschreitenden Flügen die Vorgaben der
 Organisation EUROCONTROL im Rahmen der zentralen europäischen
 Verkehrsflußregelung zu beachten.
@@ -198,8 +198,8 @@ der angegebenen Reihenfolge Vorrang einzuräumen:
 
 
 5.  Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den
-    Bestimmungen des Bundesministeriums für Verkehr, Bau und
-    Stadtentwicklung.
+    Bestimmungen des Bundesministeriums für Verkehr und digitale
+    Infrastruktur.
 
 
 
@@ -430,7 +430,7 @@ Bereich oder im Interesse der Flugsicherheit zweckdienlich erscheint.
 
 Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1
 Buchstabe a sind nach Maßgabe von Richtlinien des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung zu veröffentlichen und zur
+für Verkehr und digitale Infrastruktur zu veröffentlichen und zur
 Gewährleistung einer sicheren, geordneten und flüssigen Durchführung
 des Flugbetriebs international zu verbreiten.
 

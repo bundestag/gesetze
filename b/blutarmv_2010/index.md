@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1326
 
+Zuletzt geändert durch
+:   Art. 9 V v. 31.3.2020 I 752
+
 
 ## Eingangsformel
 
@@ -92,6 +95,43 @@ Die zuständige Behörde kann anordnen, dass
 soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 
+### § 3a Veranstaltungen mit Einhufern
+
+(1) Wer eine überregionale Veranstaltung durchführt, bei der Einhufer
+verschiedener Bestände zusammenkommen, hat ein Register der zu der
+Veranstaltung verbrachten Einhufer zu führen. Das Register muss von
+jedem dieser Einhufer folgende Angaben enthalten:
+
+1.  den Namen des Einhufers,
+
+
+2.  die Ziffern des Codes im Sinne des Artikels 2 Buchstabe n der
+    Durchführungsverordnung (EU) 2015/262 der Kommission vom 17. Februar
+    2015 zur Festlegung von Vorschriften gemäß den Richtlinien 90/427/EWG
+    und 2009/156/EG des Rates in Bezug auf die Methoden zur
+    Identifizierung von Equiden (Equidenpass-Verordnung) (ABl. L 59 vom
+    3\.3.2015, S. 1),
+
+
+3.  den Namen und die Anschrift des Halters,
+
+
+4.  den Standort der Haltung oder des Betriebes nach § 26 Absatz 1 Satz 1
+    der Viehverkehrsverordnung.
+
+
+
+§ 44b der Viehverkehrsverordnung bleibt unberührt. Der Veranstalter
+hat der zuständigen Behörde auf deren Verlangen das Register nach Satz
+1 vorzulegen.
+
+(2) Für die Führung des Registers nach Absatz 1 Satz 1 gilt § 25
+Absatz 1 Satz 1 und 2 und Absatz 2 der Viehverkehrsverordnung
+entsprechend. Für die Aufbewahrung des Registers nach Absatz 1 Satz 1
+gilt § 25 Absatz 3 Satz 1 und 2 der Viehverkehrsverordnung
+entsprechend.
+
+
 ## Abschnitt 3 - Besondere Schutzmaßregeln
 
 
@@ -153,9 +193,17 @@ der Tierhalter des Betriebes unverzüglich
 
 
 
-(2) Einhufer, Einhufersamen, -eizellen und -embryonen dürfen in den
-und aus dem Bestand nur mit Genehmigung der zuständigen Behörde
-verbracht werden.
+(2) Einhufer dürfen nur mit Genehmigung der zuständigen Behörde in den
+und aus dem Betrieb sowie auf Wirtschafts- und Weideflächen des
+Betriebes verbracht werden. Die zuständige Behörde erteilt die
+Genehmigung nach Satz 1, soweit Belange der Tierseuchenbekämpfung
+nicht entgegenstehen. Hierbei berücksichtigt sie die Ergebnisse
+epidemiologischer Untersuchungen, das Vorkommen von Einhufern,
+Vektoren, natürlichen Grenzen und Überwachungsmöglichkeiten.
+
+(3) Einhufersamen, -eizellen und -embryonen dürfen nur mit Genehmigung
+der zuständigen Behörde in den und aus dem Betrieb verbracht werden.
+Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 
 #### § 6 Reinigung und Desinfektion
@@ -237,22 +285,20 @@ Tierseuchenbekämpfung nicht entgegenstehen.
 besteht Ansteckungsverdacht, führt die zuständige Behörde unverzüglich
 die klinische und serologische Untersuchung auf die Einhufer-Blutarmut
 für alle durch die Nachforschungen nach § 4 Absatz 2 Satz 2 Nummer 2
-und 3 ermittelten Einhufer durch. Die klinische und serologische
-Untersuchung ist im Falle eines negativen Ergebnisses der Untersuchung
-im Abstand von drei Monaten zu wiederholen. Im Falle verendeter oder
-getöteter Einhufer ordnet die zuständige Behörde die virologische oder
-serologische Untersuchung auf die Einhufer-Blutarmut an.
+und 3 ermittelten Einhufer durch. Ist die serologische Untersuchung
+nach Satz 1 mit negativem Ergebnis durchgeführt worden und liegt der
+letztmalige Kontakt zu dem seuchenkranken Einhufer weniger als 90
+Tage, gerechnet vom Tag der Seuchenfeststellung, zurück, so ist die
+serologische Untersuchung frühestens im Abstand von 90 Tagen,
+gerechnet vom Tag des letztmaligen Kontaktes zu dem seuchenkranken
+Einhufer, zu wiederholen. Im Falle verendeter oder getöteter Einhufer
+ordnet die zuständige Behörde die virologische oder serologische
+Untersuchung auf die Einhufer-Blutarmut an.
 
 (2) Für Bestände mit ansteckungsverdächtigen Einhufern gilt § 5
 entsprechend.
 
-(3) Ansteckungsverdächtige Einhufer dürfen nur mit Genehmigung der
-zuständigen Behörde auf Wirtschafts- oder Weideflächen des Betriebes
-verbracht werden. Die zuständige Behörde erteilt die Genehmigung,
-sofern Belange der Tierseuchenbekämpfung nicht entgegenstehen. Hierbei
-berücksichtigt sie die Ergebnisse epidemiologischer Untersuchungen,
-das Vorkommen von Einhufern, Vektoren, natürlichen Grenzen und
-Überwachungsmöglichkeiten.
+(3) (weggefallen)
 
 
 #### § 10 Sperrbezirk
@@ -404,47 +450,46 @@ serologische Untersuchung mit negativem Ergebnis durchgeführt wurde.
 
 #### § 13 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  einer mit einer Genehmigung nach § 2 Satz 2, § 5 Absatz 2, § 9 Absatz
-    3 Satz 1 oder § 11 Absatz 2 verbundenen vollziehbaren Auflage oder
-
-
-2.  einer vollziehbaren Anordnung nach § 3, § 4 Absatz 1 Satz 2, § 5
-    Absatz 1 Nummer 1 oder Nummer 4, auch in Verbindung mit § 9 Absatz 2,
-    § 6, § 8 Absatz 1 oder 3, § 9 Absatz 1 Satz 3, § 10 Absatz 10 oder §
-    11 Absatz 1
-
-
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Satz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 
-2.  entgegen § 5 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2,
+2.  einer mit einer Genehmigung nach § 2 Satz 2, § 5 Absatz 2 Satz 1 oder
+    Absatz 3 Satz 1 oder § 11 Absatz 2 verbundenen vollziehbaren Auflage
+    zuwiderhandelt,
+
+
+3.  einer vollziehbaren Anordnung nach § 3, § 4 Absatz 1 Satz 2, § 5
+    Absatz 1 Nummer 1 oder Nummer 4, jeweils auch in Verbindung mit § 9
+    Absatz 2, nach § 6, § 8 Absatz 1 Satz 1 oder Absatz 3, § 9 Absatz 1
+    Satz 3, § 10 Absatz 10 oder § 11 Absatz 1 zuwiderhandelt,
+
+
+3a. entgegen § 3a Absatz 1 Satz 1 ein dort genanntes Register nicht führt,
+
+
+4.  entgegen § 5 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2,
     Einhufer nicht, nicht richtig oder nicht rechtzeitig absondert oder
     versorgt,
 
 
-3.  entgegen § 5 Absatz 1 Nummer 3 eine Insektenbekämpfung nicht oder
+5.  entgegen § 5 Absatz 1 Nummer 3 eine Insektenbekämpfung nicht oder
     nicht rechtzeitig durchführt,
 
 
-4.  entgegen § 5 Absatz 2, auch in Verbindung mit § 9 Absatz 2, § 9 Absatz
-    3 Satz 1 oder § 10 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Einhufer,
-    Einhufersamen, -eizellen oder -embryonen ohne Genehmigung verbringt,
+6.  entgegen § 5 Absatz 2 Satz 1 oder Absatz 3 Satz 1, jeweils auch in
+    Verbindung mit § 9 Absatz 2, oder § 10 Absatz 5 Satz 1 oder Absatz 6
+    Satz 1 Einhufer, Einhufersamen, -eizellen oder -embryonen ohne
+    Genehmigung verbringt,
 
 
-5.  entgegen § 8 Absatz 2 ein Schild nicht, nicht richtig, nicht in der
+7.  entgegen § 8 Absatz 2 ein Schild nicht, nicht richtig, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder
 
 
-6.  entgegen § 10 Absatz 9 Satz 1 eine Ausstellung, einen Markt oder eine
+8.  entgegen § 10 Absatz 9 Satz 1 eine Ausstellung, einen Markt oder eine
     Veranstaltung ähnlicher Art mit Einhufern innerhalb des Sperrbezirks
     durchführt.
 

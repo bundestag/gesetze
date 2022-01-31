@@ -14,10 +14,13 @@ Ausfertigungsdatum
 :   1976-03-16
 
 Fundstelle
-:   BGBl I: 1976, 581 (2088)
+:   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 5.12.2012 I 2425
+:   Art. 12 G v. 25.6.2021 I 2099
+
+Änderung durch
+:   Art. 27 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -91,8 +94,9 @@ sind.
 (3) Nach der Aufnahme wird der Gefangene alsbald ärztlich untersucht
 und dem Leiter der Anstalt oder der Aufnahmeabteilung vorgestellt.
 
+Behandlungsuntersuchung.
 
-#### § 6 Behandlungsuntersuchung. Beteiligung des Gefangenen
+#### § 6 Beteiligung des Gefangenen
 
 (1) Nach dem Aufnahmeverfahren wird damit begonnen, die Persönlichkeit
 und die Lebensverhältnisse des Gefangenen zu erforschen. Hiervon kann
@@ -934,10 +938,10 @@ festgesetzt.
 
 #### § 48 Rechtsverordnung
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie mit Zustimmung
-des Bundesrates zur Durchführung der §§ 43 bis 45 Rechtsverordnungen
-über die Vergütungsstufen zu erlassen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie mit Zustimmung des Bundesrates zur Durchführung der §§ 43
+bis 45 Rechtsverordnungen über die Vergütungsstufen zu erlassen.
 
 
 #### § 49 Unterhaltsbeitrag
@@ -976,13 +980,13 @@ Gemeinschaft nicht zu gefährden.
 (2) Der Haftkostenbeitrag wird in Höhe des Betrages erhoben, der nach
 § 17 Abs. 1 Nr. 4 des Vierten Buches Sozialgesetzbuch durchschnittlich
 zur Bewertung der Sachbezüge festgesetzt ist. Das Bundesministerium
-der Justiz stellt den Durchschnittsbetrag für jedes Kalenderjahr nach
-den am 1. Oktober des vorhergehenden Jahres geltenden Bewertungen der
-Sachbezüge, jeweils getrennt für das in Artikel 3 des
-Einigungsvertrages genannte Gebiet und für das Gebiet, in dem das
-Strafvollzugsgesetz schon vor dem Wirksamwerden des Beitritts gegolten
-hat, fest und macht ihn im Bundesanzeiger bekannt. Bei
-Selbstverpflegung entfallen die für die Verpflegung vorgesehenen
+der Justiz und für Verbraucherschutz stellt den Durchschnittsbetrag
+für jedes Kalenderjahr nach den am 1. Oktober des vorhergehenden
+Jahres geltenden Bewertungen der Sachbezüge, jeweils getrennt für das
+in Artikel 3 des Einigungsvertrages genannte Gebiet und für das
+Gebiet, in dem das Strafvollzugsgesetz schon vor dem Wirksamwerden des
+Beitritts gegolten hat, fest und macht ihn im Bundesanzeiger bekannt.
+Bei Selbstverpflegung entfallen die für die Verpflegung vorgesehenen
 Beträge. Für den Wert der Unterkunft ist die festgesetzte
 Belegungsfähigkeit maßgebend. Der Haftkostenbeitrag darf auch von dem
 unpfändbaren Teil der Bezüge, nicht aber zu Lasten des Hausgeldes und
@@ -1577,8 +1581,11 @@ Maßnahmen zulässig
 (2) Die gewonnenen erkennungsdienstlichen Unterlagen werden zu den
 Gefangenenpersonalakten genommen. Sie können auch in
 kriminalpolizeilichen Sammlungen verwahrt werden. Die nach Absatz 1
-erhobenen Daten dürfen nur für die in Absatz 1, § 87 Abs. 2 und § 180
-Abs. 2 Nr. 4 genannten Zwecke verarbeitet und genutzt werden.
+erhobenen Daten dürfen nur für die in Absatz 1 und § 87 Absatz 2
+genannten Zwecke und zur Verhinderung oder Verfolgung von Straftaten
+sowie zur Verhinderung oder Verfolgung von Ordnungswidrigkeiten, durch
+welche die Sicherheit oder Ordnung der Anstalt gefährdet werden,
+verarbeitet werden.
 
 (3) Personen, die aufgrund des Absatzes 1 erkennungsdienstlich
 behandelt worden sind, können nach der Entlassung aus dem Vollzug
@@ -1653,7 +1660,7 @@ Selbstmordes oder der Selbstverletzung besteht.
 1.  der Entzug oder die Vorenthaltung von Gegenständen,
 
 
-2.  die Beobachtung bei Nacht,
+2.  die Beobachtung auch mit optisch-elektronischen Einrichtungen,
 
 
 3.  die Absonderung von anderen Gefangenen,
@@ -1950,8 +1957,9 @@ angeordnet werden, wenn die Verfehlung mit den zu beschränkenden oder
 zu entziehenden Befugnissen im Zusammenhang steht. Dies gilt nicht bei
 einer Verbindung mit Arrest.
 
+Vollzug der Disziplinarmaßnahmen.
 
-#### § 104 Vollzug der Disziplinarmaßnahmen. Aussetzung zur Bewährung
+#### § 104 Aussetzung zur Bewährung
 
 (1) Disziplinarmaßnahmen werden in der Regel sofort vollstreckt.
 
@@ -2018,7 +2026,7 @@ des Arrestes steht der Gefangene unter ärztlicher Aufsicht.
 die Gesundheit des Gefangenen gefährdet würde.
 
 
-### Vierzehnter Titel - Rechtsbehelfe
+### Vierzehnter Titel - Rechtsbehelfe und gerichtliches Verfahren
 
 
 
@@ -2038,24 +2046,62 @@ selbst betreffen, an ihn wenden kann.
 #### § 109 Antrag auf gerichtliche Entscheidung
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten auf dem
-Gebiet des Strafvollzuges kann gerichtliche Entscheidung beantragt
-werden. Mit dem Antrag kann auch die Verpflichtung zum Erlaß einer
-abgelehnten oder unterlassenen Maßnahme begehrt werden.
+Gebiet des Strafvollzuges oder des Vollzuges freiheitsentziehender
+Maßregeln der Besserung und Sicherung kann gerichtliche Entscheidung
+beantragt werden. Mit dem Antrag kann auch die Verpflichtung zum Erlaß
+einer abgelehnten oder unterlassenen Maßnahme begehrt werden.
 
 (2) Der Antrag auf gerichtliche Entscheidung ist nur zulässig, wenn
 der Antragsteller geltend macht, durch die Maßnahme oder ihre
 Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 
-(3) Das Landesrecht kann vorsehen, daß der Antrag erst nach
-vorausgegangenem Verwaltungsvorverfahren gestellt werden kann.
+(3) Dient die vom Antragsteller begehrte oder angefochtene Maßnahme
+der Umsetzung des § 66c Absatz 1 des Strafgesetzbuches im Vollzug der
+Sicherungsverwahrung oder der ihr vorausgehenden Freiheitsstrafe, so
+ist dem Antragsteller für ein gerichtliches Verfahren von Amts wegen
+ein Rechtsanwalt beizuordnen, es sei denn, dass wegen der Einfachheit
+der Sach- und Rechtslage die Mitwirkung eines Rechtsanwalts nicht
+geboten erscheint oder es ersichtlich ist, dass der Antragsteller
+seine Rechte selbst ausreichend wahrnehmen kann. Über die Bestellung
+und einen Widerruf entscheidet der Vorsitzende des nach § 110
+zuständigen Gerichts.
 
 
 #### § 110 Zuständigkeit
 
 Über den Antrag entscheidet die Strafvollstreckungskammer, in deren
-Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat. Durch die
-Entscheidung in einem Verwaltungsvorverfahren nach § 109 Abs. 3 ändert
-sich die Zuständigkeit der Strafvollstreckungskammer nicht.
+Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat.
+
+
+#### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
+
+(1) Die Gerichtsakten können elektronisch geführt werden. Die
+Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von
+dem an die Akten elektronisch geführt werden. Sie können die
+Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte
+oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass
+Akten, die in Papierform angelegt wurden, auch nach Einführung der
+elektronischen Aktenführung in Papierform weitergeführt werden; wird
+von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
+durch Rechtsverordnung auf die zuständigen Landesministerien
+übertragen werden.
+
+(2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die
+elektronische Aktenführung geltenden organisatorischen und dem Stand
+der Technik entsprechenden technischen Rahmenbedingungen
+einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der
+Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung
+durch Rechtsverordnung auf die zuständigen Landesministerien
+übertragen.
+
+(3) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
+des Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten geltenden Standards. Sie kann die Ermächtigung
+durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
+zuständigen Bundesministerien übertragen.
 
 
 #### § 111 Beteiligte
@@ -2080,10 +2126,8 @@ Aufsichtsbehörde.
 
 (1) Der Antrag muß binnen zwei Wochen nach Zustellung oder
 schriftlicher Bekanntgabe der Maßnahme oder ihrer Ablehnung
-schriftlich oder zur Niederschrift der Geschäftsstelle des Gerichts
-gestellt werden. Soweit ein Verwaltungsvorverfahren (§ 109 Abs. 3)
-durchzuführen ist, beginnt die Frist mit der Zustellung oder
-schriftlichen Bekanntgabe des Widerspruchsbescheides.
+schriftlich oder zu Protokoll der Geschäftsstelle des Gerichts
+gestellt werden.
 
 (2) War der Antragsteller ohne Verschulden verhindert, die Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
@@ -2144,20 +2188,25 @@ Stellung des Antrags auf gerichtliche Entscheidung zulässig.
 
 (1) Das Gericht entscheidet ohne mündliche Verhandlung durch Beschluß.
 Der Beschluss stellt den Sach- und Streitstand seinem wesentlichen
-Inhalt nach gedrängt zusammen. Wegen der Einzelheiten soll auf bei den
-Gerichtsakten befindliche Schriftstücke, die nach Herkunft und Datum
-genau zu bezeichnen sind, verwiesen werden, soweit sich aus ihnen der
-Sach- und Streitstand ausreichend ergibt. Das Gericht kann von einer
+Inhalt nach gedrängt zusammen. Wegen der Einzelheiten kann auf in der
+Gerichtsakte befindliche Dokumente, die nach Herkunft und Datum genau
+zu bezeichnen sind, verwiesen werden, soweit sich aus ihnen der Sach-
+und Streitstand ausreichend ergibt. Das Gericht kann von einer
 Darstellung der Entscheidungsgründe absehen, soweit es der Begründung
 der angefochtenen Entscheidung folgt und dies in seiner Entscheidung
 feststellt.
 
+(1a) Das Gericht kann anordnen, dass eine Anhörung unter Verzicht auf
+die persönliche Anwesenheit des Gefangenen zeitgleich in Bild und Ton
+in die Vollzugsanstalt und das Sitzungszimmer übertragen wird. Eine
+Aufzeichnung findet nicht statt. Die Entscheidung nach Satz 1 ist
+nicht anfechtbar.
+
 (2) Soweit die Maßnahme rechtswidrig und der Antragsteller dadurch in
-seinen Rechten verletzt ist, hebt das Gericht die Maßnahme und, soweit
-ein Verwaltungsvorverfahren vorhergegangen ist, den
-Widerspruchsbescheid auf. Ist die Maßnahme schon vollzogen, kann das
-Gericht auch aussprechen, daß und wie die Vollzugsbehörde die
-Vollziehung rückgängig zu machen hat, soweit die Sache spruchreif ist.
+seinen Rechten verletzt ist, hebt das Gericht die Maßnahme auf. Ist
+die Maßnahme schon vollzogen, kann das Gericht auch aussprechen, daß
+und wie die Vollzugsbehörde die Vollziehung rückgängig zu machen hat,
+soweit die Sache spruchreif ist.
 
 (3) Hat sich die Maßnahme vorher durch Zurücknahme oder anders
 erledigt, spricht das Gericht auf Antrag aus, daß die Maßnahme
@@ -2220,7 +2269,7 @@ einer anderen Rechtsnorm angefochten wird. Ersterenfalls müssen die
 den Mangel enthaltenden Tatsachen angegeben werden.
 
 (3) Der Antragsteller als Beschwerdeführer kann dies nur in einer von
-einem Rechtsanwalt unterzeichneten Schrift oder zur Niederschrift der
+einem Rechtsanwalt unterzeichneten Schrift oder zu Protokoll der
 Geschäftsstelle tun.
 
 
@@ -2247,10 +2296,77 @@ Strafvollstreckungskammer zurückzuverweisen.
 (5) Die Entscheidung des Strafsenats ist endgültig.
 
 
+#### § 119a Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung
+
+(1) Ist die Unterbringung in der Sicherungsverwahrung angeordnet oder
+vorbehalten, stellt das Gericht während des Vollzuges der
+Freiheitsstrafe nach Ablauf der in Absatz 3 genannten Fristen von Amts
+wegen fest,
+
+1.  ob die Vollzugsbehörde dem Gefangenen im zurückliegenden Zeitraum eine
+    Betreuung angeboten hat, die § 66c Absatz 2 in Verbindung mit Absatz 1
+    Nummer 1 des Strafgesetzbuches entspricht;
+
+
+2.  soweit die Betreuung nicht den in Nummer 1 genannten Anforderungen
+    entsprochen hat, welche bestimmten Maßnahmen die Vollzugsbehörde dem
+    Gefangenen bei sich nicht wesentlich ändernder Sachlage künftig
+    anzubieten hat, um den gesetzlichen Anforderungen an die Betreuung zu
+    genügen.
+
+
+
+
+(2) Die Vollzugsbehörde kann jederzeit eine Entscheidung nach Absatz 1
+beantragen, sofern hieran ein berechtigtes Interesse besteht. Nach der
+erstmaligen Aufstellung oder einer wesentlichen Änderung des
+Vollzugsplans kann die Vollzugsbehörde auch beantragen, festzustellen,
+ob die im Vollzugsplan vorgesehenen Maßnahmen im Falle ihres Angebots
+bei sich nicht wesentlich ändernder Sachlage eine dem § 66c Absatz 2
+in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches
+entsprechende Betreuung darstellen würden; in diesem Fall hat das
+Gericht die Feststellungen nach Absatz 1 auch zu treffen, wenn die
+Frist gemäß Absatz 3 noch nicht abgelaufen ist.
+
+(3) Entscheidungen von Amts wegen sind alle zwei Jahre zu treffen. Das
+Gericht kann bei einer Entscheidung nach Absatz 1, auch in Verbindung
+mit Absatz 2 Satz 2, im Hinblick auf die Gesamtdauer der noch zu
+vollziehenden Freiheitsstrafe eine längere Frist festsetzen, die fünf
+Jahre nicht überschreiten darf. Die Frist für die erste Entscheidung
+von Amts wegen beginnt mit dem Vollzug der Freiheitsstrafe zu laufen,
+die Frist für jede weitere mit Bekanntgabe einer erstinstanzlichen
+Entscheidung nach Absatz 1.
+
+(4) Die Strafvollstreckungskammer ist bei Entscheidungen nach den
+Absätzen 1 und 2 Satz 2 mit drei Richtern unter Einschluss des
+Vorsitzenden besetzt.
+
+(5) Gegen die gerichtliche Entscheidung ist die Beschwerde zulässig.
+
+(6) Für das gerichtliche Verfahren ist dem Gefangenen von Amts wegen
+ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der
+Gefangene, die Vollzugsbehörde und die Vollstreckungsbehörde
+anzuhören. Im Übrigen gelten § 109 Absatz 3 Satz 2, die §§ 110 und
+110a sowie die auf dessen Grundlage erlassenen Rechtsverordnungen, die
+§§, 111, 115 Absatz 1 Satz 1 und 2 sowie die §§ 117, 118 Absatz 1 Satz
+1, § 119 Absatz 1 und 5 entsprechend.
+
+(7) Alle Gerichte sind bei nachfolgenden Entscheidungen an die
+rechtskräftigen Feststellungen nach den Absätzen 1 und 2 Satz 2
+gebunden.
+
+
 #### § 120 Entsprechende Anwendung anderer Vorschriften
 
-(1) Soweit sich aus diesem Gesetz nichts anderes ergibt, sind die
-Vorschriften der Strafprozeßordnung entsprechend anzuwenden.
+(1) Kommt die Behörde in den Fällen des § 114 Absatz 2 Satz 2 sowie
+des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen
+Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt
+§ 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die
+Vorschriften der Strafprozessordnung und die auf der Grundlage des §
+32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 6, des § 32b Absatz 5
+und des § 32f Absatz 6 der Strafprozessordnung erlassenen
+Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem
+Gesetz nichts anderes ergibt.
 
 (2) Auf die Bewilligung der Prozeßkostenhilfe sind die Vorschriften
 der Zivilprozeßordnung entsprechend anzuwenden.
@@ -2269,7 +2385,10 @@ in anderer Weise als durch Zurücknahme des Antrags erledigt, so
 entscheidet das Gericht über die Kosten des Verfahrens und die
 notwendigen Auslagen nach billigem Ermessen.
 
-(3) Absatz 2 Satz 2 gilt nicht im Falle des § 115 Abs. 3.
+(3) Bei erstinstanzlichen Entscheidungen des Gerichts nach § 119a
+fallen die Kosten des Verfahrens und die notwendigen Auslagen der
+Staatskasse zur Last. Absatz 2 Satz 2 gilt nicht im Falle des § 115
+Abs. 3.
 
 (4) Im übrigen gelten die §§ 464 bis 473 der Strafprozeßordnung
 entsprechend.
@@ -2277,6 +2396,35 @@ entsprechend.
 (5) Für die Kosten des Verfahrens nach den §§ 109ff. kann auch ein den
 dreifachen Tagessatz der Eckvergütung nach § 43 Abs. 2 übersteigender
 Teil des Hausgeldes (§ 47) in Anspruch genommen werden.
+
+
+#### § 121a Gerichtliche Zuständigkeit bei dem Richtervorbehalt unterliegenden Maßnahmen
+
+(1) Soweit nach den Vollzugsgesetzen eine Maßnahme der vorherigen
+gerichtlichen Anordnung oder der gerichtlichen Genehmigung bedarf, ist
+das Amtsgericht zuständig, in dessen Bezirk die Maßnahme durchgeführt
+wird.
+
+(2) Unterhält ein Land eine Anstalt, in der Freiheitsstrafen oder
+freiheitsentziehende Maßregeln der Besserung und Sicherung vollzogen
+werden, auf dem Gebiet eines anderen Landes, so können die beteiligten
+Länder vereinbaren, dass für gerichtliche Entscheidungen im Sinne des
+Absatzes 1 das Amtsgericht zuständig ist, in dessen Bezirk die für die
+Anstalt zuständige Aufsichtsbehörde ihren Sitz hat.
+
+
+#### § 121b Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Maßnahmen
+
+(1) Das gerichtliche Verfahren im Sinne des § 121a richtet sich nach
+dem Gesetz über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit. Die für
+Unterbringungssachen nach § 312 Nummer 4 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit anzuwendenden Bestimmungen gelten
+entsprechend. Über die Beschwerde entscheidet das Landgericht, über
+die Rechtsbeschwerde der Bundesgerichtshof.
+
+(2) Für das Verfahren werden keine Kosten erhoben.
 
 
 ### Fünfzehnter Titel - Strafvollstreckung und Untersuchungshaft
@@ -2363,8 +2511,8 @@ einzugliedern.
 #### § 130 Anwendung anderer Vorschriften
 
 Für die Sicherungsverwahrung gelten die Vorschriften über den Vollzug
-der Freiheitsstrafe (§§ 3 bis 126, 179 bis 187) entsprechend, soweit
-im folgenden nichts anderes bestimmt ist.
+der Freiheitsstrafe (§§ 3 bis 119 sowie 120 bis 126) entsprechend,
+soweit im folgenden nichts anderes bestimmt ist.
 
 
 #### § 131 Ausstattung
@@ -2455,6 +2603,10 @@ begründen. Die Kosten werden als Justizverwaltungsabgabe erhoben.
 (3) Für das gerichtliche Verfahren gelten die §§ 109 bis 121
 entsprechend.
 
+(4) Soweit nach den Vollzugsgesetzen eine Maßnahme der vorherigen
+gerichtlichen Anordnung oder gerichtlichen Genehmigung bedarf, gelten
+die §§ 121a und 121b entsprechend.
+
 
 ## Vierter Abschnitt - Vollzugsbehörden
 
@@ -2527,10 +2679,10 @@ entsprechend auszugestalten. Sie müssen hinreichend Luftinhalt haben
 und für eine gesunde Lebensführung ausreichend mit Heizung und
 Lüftung, Boden- und Fensterfläche ausgestattet sein.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, mit Zustimmung
-des Bundesrates durch Rechtsverordnung Näheres über den Luftinhalt,
-die Lüftung, die Boden- und Fensterfläche sowie die Heizung und
-Einrichtung der Räume zu bestimmen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
+Näheres über den Luftinhalt, die Lüftung, die Boden- und Fensterfläche
+sowie die Heizung und Einrichtung der Räume zu bestimmen.
 
 
 #### § 145 Festsetzung der Belegungsfähigkeit
@@ -2707,10 +2859,11 @@ sicherzustellen. Sie kann aus besonderen Gründen nebenamtlichen oder
 vertraglich verpflichteten Ärzten übertragen werden.
 
 (2) Die Pflege der Kranken soll von Personen ausgeübt werden, die eine
-Erlaubnis nach dem Krankenpflegegesetz besitzen. Solange Personen im
-Sinne von Satz 1 nicht zur Verfügung stehen, können auch Bedienstete
-des allgemeinen Vollzugsdienstes eingesetzt werden, die eine sonstige
-Ausbildung in der Krankenpflege erfahren haben.
+Erlaubnis nach dem Krankenpflegegesetz oder dem Pflegeberufegesetz
+besitzen. Solange Personen im Sinne von Satz 1 nicht zur Verfügung
+stehen, können auch Bedienstete des allgemeinen Vollzugsdienstes
+eingesetzt werden, die eine sonstige Ausbildung in der Krankenpflege
+erfahren haben.
 
 
 #### § 159 Konferenzen
@@ -2806,10 +2959,10 @@ Einrichtungen der Forschung den Vollzug, namentlich die
 Behandlungsmethoden, wissenschaftlich fortzuentwickeln und seine
 Ergebnisse für Zwecke der Strafrechtspflege nutzbar zu machen.
 
-(2) Die Vorschriften des § 186 gelten entsprechend.
+(2) § 186 Absatz 1 gilt entsprechend.
 
 
-## Fünfter Abschnitt - Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz, Sozial- und Arbeitslosenversicherung, Schlußvorschriften
+## Fünfter Abschnitt - Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlußvorschriften
 
 
 
@@ -2820,11 +2973,10 @@ Ergebnisse für Zwecke der Strafrechtspflege nutzbar zu machen.
 #### § 167 Grundsatz
 
 Für den Vollzug des Strafarrestes in Justizvollzugsanstalten gelten §
-119 Abs. 5 und 6 der Strafprozessordnung sowie die Vorschriften über
-den Vollzug der Freiheitsstrafe (§§ 2 bis 121, 179 bis 187)
-entsprechend, soweit im folgenden nichts anderes bestimmt ist. § 50
-findet nur in den Fällen einer in § 39 erwähnten Beschäftigung
-Anwendung.
+119 Absatz 5 und 6 der Strafprozessordnung sowie die Vorschriften über
+den Vollzug der Freiheitsstrafe (§§ 2 bis 121b) entsprechend, soweit
+im Folgenden nichts anderes bestimmt ist. § 50 findet nur in den
+Fällen einer in § 39 erwähnten Beschäftigung Anwendung.
 
 
 #### § 168 Unterbringung, Besuche und Schriftverkehr
@@ -2866,11 +3018,53 @@ eigene Kosten erwerben.
 #### § 171 Grundsatz
 
 Für den Vollzug einer gerichtlich angeordneten Ordnungs-, Sicherungs-,
-Zwangs- und Erzwingungshaft gelten § 119 Abs. 5 und 6 der
+Zwangs- und Erzwingungshaft gelten § 119 Absatz 5 und 6 der
 Strafprozessordnung sowie die Vorschriften über den Vollzug der
-Freiheitsstrafe (§§ 3 bis 49, 51 bis 121, 179 bis 187) entsprechend,
-soweit nicht Eigenart und Zweck der Haft entgegenstehen oder im
-folgenden etwas anderes bestimmt ist.
+Freiheitsstrafe (§§ 3 bis 49 sowie 51 bis 121b) entsprechend, soweit
+nicht Eigenart und Zweck der Haft entgegenstehen oder im Folgenden
+etwas anderes bestimmt ist.
+
+
+#### § 171a Fixierung
+
+(1) Eine Fesselung, durch die die Bewegungsfreiheit des Gefangenen
+vollständig aufgehoben wird (Fixierung), ist nur zulässig, soweit und
+solange eine gegenwärtige erhebliche Gefahr von Gewalttätigkeiten
+gegen Personen, der Selbsttötung oder der Selbstverletzung besteht und
+die Fixierung zur Abwehr dieser Gefahr unerlässlich ist.
+
+(2) Eine absehbar kurzfristige Fixierung wird durch die
+Anstaltsleitung angeordnet. Bei Gefahr im Verzug können auch andere
+zuständige Bedienstete der Anstalt die Fixierung vorläufig anordnen.
+Die Entscheidung der Anstaltsleitung ist unverzüglich einzuholen.
+
+(3) Eine nicht nur kurzfristige Fixierung bedarf der vorherigen
+Anordnung durch das Gericht. Bei Gefahr im Verzug kann die Anordnung
+der Fixierung durch die Anstaltsleitung oder einen anderen zuständigen
+Bediensteten der Anstalt getroffen werden. Ein Arzt ist unverzüglich
+hinzuzuziehen. Die richterliche Entscheidung ist unverzüglich
+herbeizuführen. Einer richterlichen Entscheidung bedarf es nicht oder
+nicht mehr, wenn bereits zu Beginn der Fixierung abzusehen ist, dass
+die Entscheidung erst nach Wegfall des Grundes der Fixierung ergehen
+wird, oder wenn die Fixierung vor der Herbeiführung der richterlichen
+Entscheidung tatsächlich beendet und auch keine Wiederholung zu
+erwarten ist. Ist eine richterliche Entscheidung beantragt und die
+Fixierung vor deren Erlangung beendet worden, so ist dies dem Gericht
+unverzüglich mitzuteilen.
+
+(4) Während der Dauer der Fixierung stellt ein Arzt eine angemessene
+medizinische Überwachung des Gefangenen sicher. Geschulte
+Vollzugsbedienstete stellen durch ständigen Sicht- und Sprechkontakt
+die Betreuung des Gefangenen sicher.
+
+(5) Die Anordnung, die maßgeblichen Gründe hierfür, ihre Durchsetzung,
+ihre Dauer und die Art der Überwachung sind durch die Anstalt zu
+dokumentieren.
+
+(6) Nach Beendigung einer Fixierung, die nicht gerichtlich angeordnet
+wurde, ist der Gefangene durch den Arzt auf sein Recht hinzuweisen,
+die Zulässigkeit der durchgeführten Maßnahme beim zuständigen Gericht
+überprüfen zu lassen. Der Hinweis ist aktenkundig zu machen.
 
 
 #### § 172 Unterbringung
@@ -2963,7 +3157,7 @@ Besserung und Sicherung vollzogen wird.
 weitere Einschränkungen des Rechtes zum Schußwaffengebrauch vorsehen.
 
 
-### Fünfter Titel - Datenschutz
+### Fünfter Titel - Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft
 
 
 
@@ -2971,135 +3165,118 @@ weitere Einschränkungen des Rechtes zum Schußwaffengebrauch vorsehen.
 
 (1) Die Vollzugsbehörde darf personenbezogene Daten erheben, soweit
 deren Kenntnis für den ihr nach diesem Gesetz aufgegebenen Vollzug der
-Freiheitsstrafe erforderlich ist.
+Haft nach § 171 erforderlich ist.
 
-(2) Personenbezogene Daten sind bei dem Betroffenen zu erheben. Für
-die Erhebung ohne Mitwirkung des Betroffenen, die Erhebung bei anderen
-Personen oder Stellen und für die Hinweis- und Aufklärungspflichten
-gilt § 4 Abs. 2 und 3 und § 13 Abs. 1a des Bundesdatenschutzgesetzes.
+(2) Personenbezogene Daten sind bei der betroffenen Person zu erheben.
+Ohne ihre Mitwirkung dürfen sie nur erhoben werden,
+
+1.  wenn eine Rechtsvorschrift dies vorsieht oder zwingend voraussetzt
+    oder
+
+
+2.  wenn
+
+    a)  die zu erfüllende Aufgabe ihrer Art nach eine Erhebung bei anderen
+        Personen oder Stellen erforderlich macht oder
+
+
+    b)  die Erhebung bei der betroffenen Person einen unverhältnismäßigen
+        Aufwand erfordern würde
+
+
+
+    und keine Anhaltspunkte dafür bestehen, dass überwiegende
+    schutzwürdige Interessen der betroffenen Person beeinträchtigt werden.
+
+
+
+
+(2a) Werden personenbezogene Daten bei der betroffenen Person auf
+Grund einer Rechtsvorschrift erhoben, die zur Auskunft verpflichtet,
+oder ist die Erteilung der Auskunft Voraussetzung für die Gewährung
+von Rechtsvorteilen, so ist die betroffene Person hierauf, sonst auf
+die Freiwilligkeit ihrer Angaben hinzuweisen. Soweit nach den
+Umständen des Einzelfalls erforderlich oder auf Verlangen, ist sie
+über die Rechtsvorschrift und über die Folgen der Verweigerung von
+Angaben aufzuklären. Werden personenbezogene Daten statt bei der
+betroffenen Person bei einer nicht-öffentlichen Stelle erhoben, so ist
+die Stelle auf die Rechtsvorschrift, die zur Auskunft verpflichtet,
+sonst auf die Freiwilligkeit ihrer Angaben hinzuweisen.
 
 (3) Daten über Personen, die nicht Gefangene sind, dürfen ohne ihre
 Mitwirkung bei Personen oder Stellen außerhalb der Vollzugsbehörde nur
-erhoben werden, wenn sie für die Behandlung eines Gefangenen, die
-Sicherheit der Anstalt oder die Sicherung des Vollzuges einer
-Freiheitsstrafe unerläßlich sind und die Art der Erhebung
-schutzwürdige Interessen der Betroffenen nicht beeinträchtigt.
+erhoben werden, wenn sie für die Sicherheit der Anstalt oder die
+Sicherung des Vollzuges der Haft nach § 171 unerläßlich sind und die
+Art der Erhebung schutzwürdige Interessen der betroffenen Personen
+nicht beeinträchtigt.
 
-(4) Über eine ohne seine Kenntnis vorgenommene Erhebung
-personenbezogener Daten wird der Betroffene unter Angabe dieser Daten
-unterrichtet, soweit der in Absatz 1 genannte Zweck dadurch nicht
-gefährdet wird. Sind die Daten bei anderen Personen oder Stellen
-erhoben worden, kann die Unterrichtung unterbleiben, wenn
+(4) Die Rechte und Pflichten nach den Artikeln 13 und 14 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2) bestehen ergänzend zu den in diesen Vorschriften genannten
+Ausnahmen nicht, wenn
 
-1.  die Daten nach einer Rechtsvorschrift oder ihrem Wesen nach,
-    namentlich wegen des überwiegenden berechtigten Interesses eines
-    Dritten, geheimgehalten werden müssen oder
-
-
-2.  der Aufwand der Unterrichtung außer Verhältnis zum Schutzzweck steht
-    und keine Anhaltspunkte dafür bestehen, daß überwiegende schutzwürdige
-    Interessen des Betroffenen beeinträchtigt werden.
+1.  bei der Erhebung personenbezogener Daten ohne Kenntnis der betroffenen
+    Person andernfalls der Vollzug der Haft nach § 171 gefährdet wird oder
 
 
+2.  bei der Erhebung der Daten bei anderen Personen oder Stellen die Daten
+    nach einer Rechtsvorschrift oder ihrem Wesen nach, namentlich wegen
+    des überwiegenden berechtigten Interesses eines Dritten, geheim
+    gehalten werden müssen.
 
 
 
-#### § 180 Verarbeitung und Nutzung
 
-(1) Die Vollzugsbehörde darf personenbezogene Daten verarbeiten und
-nutzen, soweit dies für den ihr nach diesem Gesetz aufgegebenen
-Vollzug der Freiheitsstrafe erforderlich ist. Die Vollzugsbehörde kann
-einen Gefangenen verpflichten, einen Lichtbildausweis mit sich zu
-führen, wenn dies aus Gründen der Sicherheit oder Ordnung der Anstalt
+
+#### § 180 Verarbeitung
+
+(1) Die Vollzugsbehörde darf personenbezogene Daten verarbeiten,
+soweit dies für den ihr nach diesem Gesetz aufgegebenen Vollzug der
+Haft nach § 171 erforderlich ist. Die Vollzugsbehörde kann einen
+Gefangenen verpflichten, einen Lichtbildausweis mit sich zu führen,
+wenn dies aus Gründen der Sicherheit oder Ordnung der Anstalt
 erforderlich ist.
 
-(2) Die Verarbeitung und Nutzung personenbezogener Daten für andere
-Zwecke ist zulässig, soweit dies
+(2) Für die Verarbeitung personenbezogener Daten zu einem anderen
+Zweck als zu demjenigen, zu dem die Daten erhoben wurden, findet § 23
+des Bundesdatenschutzgesetzes Anwendung.
 
-1.  zur Abwehr von sicherheitsgefährdenden oder geheimdienstlichen
-    Tätigkeiten für eine fremde Macht oder von Bestrebungen im
-    Geltungsbereich dieses Gesetzes, die durch Anwendung von Gewalt oder
-    darauf gerichtete Vorbereitungshandlungen
+(3) Über die in Absatz 1 und § 23 des Bundesdatenschutzgesetzes
+genannten Zwecke hinaus dürfen zuständigen öffentlichen Stellen
+personenbezogene Daten übermittelt werden, soweit dies für folgende
+Zwecke erforderlich ist:
 
-    a)  gegen die freiheitliche demokratische Grundordnung, den Bestand oder
-        die Sicherheit des Bundes oder eines Landes gerichtet sind,
-
-
-    b)  eine ungesetzliche Beeinträchtigung der Amtsführung der
-        Verfassungsorgane des Bundes oder eines Landes oder ihrer Mitglieder
-        zum Ziele haben oder
+1.  gesetzlich angeordnete Statistiken der Rechtspflege,
 
 
-    c)  auswärtige Belange der Bundesrepublik Deutschland gefährden,
-
-
-
-
-
-2.  zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer Gefahr
-    für die öffentliche Sicherheit,
-
-
-3.  zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer
-    anderen Person,
-
-
-4.  zur Verhinderung oder Verfolgung von Straftaten sowie zur Verhinderung
-    oder Verfolgung von Ordnungswidrigkeiten, durch welche die Sicherheit
-    oder Ordnung der Anstalt gefährdet werden, oder
-
-
-5.  für Maßnahmen der Strafvollstreckung oder
-    strafvollstreckungsrechtliche Entscheidungen
-
-
-
-erforderlich ist.
-
-(3) Eine Verarbeitung oder Nutzung für andere Zwecke liegt nicht vor,
-soweit sie dem gerichtlichen Rechtsschutz nach den §§ 109 bis 121 oder
-den in § 14 Abs. 3 des Bundesdatenschutzgesetzes genannten Zwecken
-dient.
-
-(4) Über die in den Absätzen 1 und 2 geregelten Zwecke hinaus dürfen
-zuständigen öffentlichen Stellen personenbezogene Daten übermittelt
-werden, soweit dies für
-
-1.  Maßnahmen der Gerichtshilfe, Jugendgerichtshilfe, Bewährungshilfe oder
-    Führungsaufsicht,
-
-
-2.  Entscheidungen in Gnadensachen,
-
-
-3.  gesetzlich angeordnete Statistiken der Rechtspflege,
-
-
-4.  Entscheidungen über Leistungen, die mit der Aufnahme in einer
+2.  Entscheidungen über Leistungen, die mit der Aufnahme in einer
     Justizvollzugsanstalt entfallen oder sich mindern,
 
 
-5.  die Einleitung von Hilfsmaßnahmen für Angehörige (§ 11 Abs. 1 Nr. 1
-    des Strafgesetzbuchs) des Gefangenen,
+3.  die Einleitung von Hilfsmaßnahmen für Angehörige (§ 11 Absatz 1 Nummer
+    1 des Strafgesetzbuches) des Gefangenen,
 
 
-6.  dienstliche Maßnahmen der Bundeswehr im Zusammenhang mit der Aufnahme
+4.  dienstliche Maßnahmen der Bundeswehr im Zusammenhang mit der Aufnahme
     und Entlassung von Soldaten,
 
 
-7.  ausländerrechtliche Maßnahmen oder
+5.  ausländerrechtliche Maßnahmen oder
 
 
-8.  die Durchführung der Besteuerung
+6.  die Durchführung der Besteuerung.
 
 
 
-erforderlich ist. Eine Übermittlung für andere Zwecke ist auch
-zulässig, soweit eine andere gesetzliche Vorschrift dies vorsieht und
-sich dabei ausdrücklich auf personenbezogene Daten über Gefangene
-bezieht.
+Eine Übermittlung für andere Zwecke ist auch zulässig, soweit eine
+andere gesetzliche Vorschrift dies vorsieht und sich dabei
+ausdrücklich auf personenbezogene Daten über Gefangene bezieht.
 
-(5) Öffentlichen und nicht-öffentlichen Stellen darf die
+(4) Öffentlichen und nicht-öffentlichen Stellen darf die
 Vollzugsbehörde auf schriftlichen Antrag mitteilen, ob sich eine
 Person in Haft befindet sowie ob und wann ihre Entlassung
 voraussichtlich innerhalb eines Jahres bevorsteht, soweit
@@ -3114,79 +3291,84 @@ voraussichtlich innerhalb eines Jahres bevorsteht, soweit
 
 
 
-Dem Verletzten einer Straftat können darüber hinaus auf schriftlichen
-Antrag Auskünfte über die Entlassungsadresse oder die
-Vermögensverhältnisse des Gefangenen erteilt werden, wenn die
-Erteilung zur Feststellung oder Durchsetzung von Rechtsansprüchen im
-Zusammenhang mit der Straftat erforderlich ist. Der Gefangene wird vor
-der Mitteilung gehört, es sei denn, es ist zu besorgen, daß dadurch
-die Verfolgung des Interesses des Antragstellers vereitelt oder
-wesentlich erschwert werden würde, und eine Abwägung ergibt, daß
-dieses Interesse des Antragstellers das Interesse des Gefangenen an
-seiner vorherigen Anhörung überwiegt. Ist die Anhörung unterblieben,
-wird der betroffene Gefangene über die Mitteilung der Vollzugsbehörde
-nachträglich unterrichtet.
+Der Gefangene wird vor der Mitteilung gehört, es sei denn, es ist zu
+besorgen, daß dadurch die Verfolgung des Interesses des Antragstellers
+vereitelt oder wesentlich erschwert werden würde, und eine Abwägung
+ergibt, daß dieses Interesse des Antragstellers das Interesse des
+Gefangenen an seiner vorherigen Anhörung überwiegt. Ist die Anhörung
+unterblieben, wird der betroffene Gefangene über die Mitteilung der
+Vollzugsbehörde nachträglich unterrichtet.
 
-(6) Akten mit personenbezogenen Daten dürfen nur anderen
+(5) Akten mit personenbezogenen Daten dürfen nur anderen
 Vollzugsbehörden, den zur Dienst- oder Fachaufsicht oder zu
-dienstlichen Weisungen befugten Stellen, den für strafvollzugs-,
-strafvollstreckungs- und strafrechtliche Entscheidungen zuständigen
-Gerichten sowie den Strafvollstreckungs- und Strafverfolgungsbehörden
-überlassen werden; die Überlassung an andere öffentliche Stellen ist
-zulässig, soweit die Erteilung einer Auskunft einen unvertretbaren
-Aufwand erfordert oder nach Darlegung der Akteneinsicht begehrenden
-Stellen für die Erfüllung der Aufgabe nicht ausreicht. Entsprechendes
-gilt für die Überlassung von Akten an die von der Vollzugsbehörde mit
-Gutachten beauftragten Stellen.
+dienstlichen Weisungen befugten Stellen sowie den für
+Haftentscheidungen zuständigen Gerichten sowie den
+Strafvollstreckungs- und Strafverfolgungsbehörden überlassen werden;
+die Überlassung an andere öffentliche Stellen ist zulässig, soweit die
+Erteilung einer Auskunft einen unvertretbaren Aufwand erfordert oder
+nach Darlegung der Akteneinsicht begehrenden Stellen für die Erfüllung
+der Aufgabe nicht ausreicht. Entsprechendes gilt für die Überlassung
+von Akten an die von der Vollzugsbehörde mit Gutachten beauftragten
+Stellen.
 
-(7) Sind mit personenbezogenen Daten, die nach den Absätzen 1, 2 oder
-4 übermittelt werden dürfen, weitere personenbezogene Daten des
-Betroffenen oder eines Dritten in Akten so verbunden, daß eine
+(6) Sind mit personenbezogenen Daten, die nach den Absätzen 1 bis 3
+übermittelt werden dürfen, weitere personenbezogene Daten der
+betroffenen Person oder eines Dritten in Akten so verbunden, dass eine
 Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist
 die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte
-Interessen des Betroffenen oder eines Dritten an deren Geheimhaltung
-offensichtlich überwiegen; eine Verarbeitung oder Nutzung dieser Daten
-durch den Empfänger ist unzulässig.
+Interessen der betroffenen Person oder eines Dritten an deren
+Geheimhaltung offensichtlich überwiegen; eine Verarbeitung dieser
+Daten durch den Empfänger ist unzulässig.
 
-(8) Bei der Überwachung der Besuche oder des Schriftwechsels sowie bei
-der Überwachung des Inhaltes von Paketen bekanntgewordene
-personenbezogene Daten dürfen nur für die in Absatz 2 aufgeführten
-Zwecke, für das gerichtliche Verfahren nach den §§ 109 bis 121, zur
-Wahrung der Sicherheit oder Ordnung der Anstalt oder nach Anhörung des
-Gefangenen für Zwecke der Behandlung verarbeitet und genutzt werden.
+(7) Personenbezogene Daten, die bei der Überwachung der Besuche oder
+des Schriftwechsels sowie bei der Überwachung des Inhaltes von Paketen
+bekanntgeworden sind, dürfen nur für die in § 23 Absatz 1 Nummer 3 bis
+5 des Bundesdatenschutzgesetzes aufgeführten Zwecke, für das
+gerichtliche Verfahren nach den §§ 109 bis 121 oder zur Wahrung der
+Sicherheit oder Ordnung der Anstalt verarbeitet werden.
 
-(9) Personenbezogene Daten, die gemäß § 179 Abs. 3 über Personen, die
+(8) Personenbezogene Daten, die gemäß § 179 Abs. 3 über Personen, die
 nicht Gefangene sind, erhoben worden sind, dürfen nur zur Erfüllung
-des Erhebungszweckes, für die in Absatz 2 Nr. 1 bis 3 geregelten
-Zwecke oder zur Verhinderung oder Verfolgung von Straftaten von
-erheblicher Bedeutung verarbeitet oder genutzt werden.
+des Erhebungszweckes, für die in § 23 Absatz 1 Nummer 3 und 5 des
+Bundesdatenschutzgesetzes geregelten Zwecke oder zur Verhinderung oder
+Verfolgung von Straftaten von erheblicher Bedeutung verarbeitet
+werden.
 
-(10) Die Übermittlung von personenbezogenen Daten unterbleibt, soweit
+(9) Die Übermittlung von personenbezogenen Daten unterbleibt, soweit
 die in § 182 Abs. 2, § 184 Abs. 2 und 4 geregelten Einschränkungen
 oder besondere gesetzliche Verwendungsregelungen entgegenstehen.
 
-(11) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
+(10) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
 Vollzugsbehörde. Erfolgt die Übermittlung auf Ersuchen einer
 öffentlichen Stelle, trägt diese die Verantwortung. In diesem Fall
 prüft die Vollzugsbehörde nur, ob das Übermittlungsersuchen im Rahmen
-der Aufgaben des Empfängers liegt und die Absätze 8 bis 10 der
+der Aufgaben des Empfängers liegt und die Absätze 7 bis 9 der
 Übermittlung nicht entgegenstehen, es sei denn, daß besonderer Anlaß
 zur Prüfung der Zulässigkeit der Übermittlung besteht.
 
-
-#### § 181 Zweckbindung
-
-Von der Vollzugsbehörde übermittelte personenbezogene Daten dürfen nur
-zu dem Zweck verarbeitet oder genutzt werden, zu dessen Erfüllung sie
-übermittelt worden sind. Der Empfänger darf die Daten für andere
-Zwecke nur verarbeiten oder nutzen, soweit sie ihm auch für diese
-Zwecke hätten übermittelt werden dürfen, und wenn im Falle einer
-Übermittlung an nicht-öffentliche Stellen die übermittelnde
-Vollzugsbehörde zugestimmt hat. Die Vollzugsbehörde hat den nicht-
-öffentlichen Empfänger auf die Zweckbindung nach Satz 1 hinzuweisen.
+(11) Die Unterrichtungspflicht nach Artikel 19 Satz 2 der Verordnung
+(EU) 2016/679 besteht nicht, soweit durch eine solche Unterrichtung
+der Zweck der Übermittlung der Daten gefährdet würde.
 
 
-#### § 182 Schutz besonderer Daten
+#### § 181 Zweckbindung bei Übermittlungen
+
+(1) Von der Vollzugsbehörde an eine öffentliche Stelle übermittelte
+personenbezogene Daten dürfen nur zu dem Zweck verarbeitet werden, zu
+dessen Erfüllung sie übermittelt worden sind. Der Empfänger darf die
+Daten für andere Zwecke nur verarbeiten, soweit sie ihm auch für diese
+Zwecke hätten übermittelt werden dürfen.
+
+(2) Die Übermittlung an eine nicht-öffentliche Stelle ist nur
+zulässig, wenn diese sich gegenüber der übermittelnden Vollzugsbehörde
+verpflichtet hat, die Daten nur für den Zweck zu verarbeiten, zu
+dessen Erfüllung sie ihr übermittelt werden. Eine Verarbeitung dieser
+Daten für andere Zwecke ist zulässig, wenn die Daten auch für diese
+Zwecke hätten übermittelt werden dürfen und die übermittelnde
+Vollzugsbehörde zugestimmt hat.
+
+
+#### § 182 Schutz besonderer Kategorien personenbezogener Daten
 
 (1) Das religiöse oder weltanschauliche Bekenntnis eines Gefangenen
 und personenbezogene Daten, die anläßlich ärztlicher Untersuchungen
@@ -3194,29 +3376,29 @@ erhoben worden sind, dürfen in der Anstalt nicht allgemein kenntlich
 gemacht werden. Andere personenbezogene Daten über den Gefangenen
 dürfen innerhalb der Anstalt allgemein kenntlich gemacht werden,
 soweit dies für ein geordnetes Zusammenleben in der Anstalt
-erforderlich ist; § 180 Abs. 8 bis 10 bleibt unberührt.
+erforderlich ist; § 180 Absatz 7 bis 9 bleibt unberührt.
 
-(2) Personenbezogene Daten, die den in § 203 Abs. 1 Nr. 1, 2 und 5 des
-Strafgesetzbuchs genannten Personen von einem Gefangenen als Geheimnis
-anvertraut oder über einen Gefangenen sonst bekanntgeworden sind,
-unterliegen auch gegenüber der Vollzugsbehörde der Schweigepflicht.
-Die in § 203 Abs. 1 Nr. 1, 2 und 5 des Strafgesetzbuchs genannten
-Personen haben sich gegenüber dem Anstaltsleiter zu offenbaren, soweit
-dies für die Aufgabenerfüllung der Vollzugsbehörde oder zur Abwehr von
+(2) Personenbezogene Daten, die den in § 203 Absatz 1 Nummer 1, 2 und
+6 des Strafgesetzbuchs genannten Personen von einem Gefangenen als
+Geheimnis anvertraut oder über einen Gefangenen sonst bekanntgeworden
+sind, unterliegen auch gegenüber der Vollzugsbehörde der
+Schweigepflicht. Die in § 203 Absatz 1 Nummer 1, 2 und 6 des
+Strafgesetzbuchs genannten Personen haben sich gegenüber dem
+Anstaltsleiter zu offenbaren, soweit dies für die Aufgabenerfüllung
+der Vollzugsbehörde oder zur Abwehr von erheblichen Gefahren für Leib
+oder Leben des Gefangenen oder Dritter erforderlich ist. Der Arzt ist
+zur Offenbarung ihm im Rahmen der allgemeinen Gesundheitsfürsorge
+bekanntgewordener Geheimnisse befugt, soweit dies für die
+Aufgabenerfüllung der Vollzugsbehörde unerläßlich oder zur Abwehr von
 erheblichen Gefahren für Leib oder Leben des Gefangenen oder Dritter
-erforderlich ist. Der Arzt ist zur Offenbarung ihm im Rahmen der
-allgemeinen Gesundheitsfürsorge bekanntgewordener Geheimnisse befugt,
-soweit dies für die Aufgabenerfüllung der Vollzugsbehörde unerläßlich
-oder zur Abwehr von erheblichen Gefahren für Leib oder Leben des
-Gefangenen oder Dritter erforderlich ist. Sonstige
-Offenbarungsbefugnisse bleiben unberührt. Der Gefangene ist vor der
-Erhebung über die nach den Sätzen 2 und 3 bestehenden
-Offenbarungsbefugnisse zu unterrichten.
+erforderlich ist. Sonstige Offenbarungsbefugnisse bleiben unberührt.
+Der Gefangene ist vor der Erhebung über die nach den Sätzen 2 und 3
+bestehenden Offenbarungsbefugnisse zu unterrichten.
 
 (3) Die nach Absatz 2 offenbarten Daten dürfen nur für den Zweck, für
 den sie offenbart wurden oder für den eine Offenbarung zulässig
-gewesen wäre, und nur unter denselben Voraussetzungen verarbeitet oder
-genutzt werden, unter denen eine in § 203 Abs. 1 Nr. 1, 2 und 5 des
+gewesen wäre, und nur unter denselben Voraussetzungen verarbeitet
+werden, unter denen eine in § 203 Absatz 1 Nummer 1, 2 und 6 des
 Strafgesetzbuchs genannte Person selbst hierzu befugt wäre. Der
 Anstaltsleiter kann unter diesen Voraussetzungen die unmittelbare
 Offenbarung gegenüber bestimmten Anstaltsbediensteten allgemein
@@ -3230,25 +3412,24 @@ Anstalt mit der Behandlung des Gefangenen betrauten Psychologen befugt
 sind.
 
 
-#### § 183 Schutz der Daten in Akten und Dateien
+#### § 183 Schutz der Daten in Akten und Dateisystemen
 
 (1) Der einzelne Vollzugsbedienstete darf sich von personenbezogenen
 Daten nur Kenntnis verschaffen, soweit dies zur Erfüllung der ihm
 obliegenden Aufgabe oder für die Zusammenarbeit nach § 154 Abs. 1
 erforderlich ist.
 
-(2) Akten und Dateien mit personenbezogenen Daten sind durch die
+(2) Akten und Dateisysteme mit personenbezogenen Daten sind nach den
+Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 durch die
 erforderlichen technischen und organisatorischen Maßnahmen gegen
 unbefugten Zugang und unbefugten Gebrauch zu schützen.
 Gesundheitsakten und Krankenblätter sind getrennt von anderen
-Unterlagen zu führen und besonders zu sichern. Im übrigen gilt für die
-Art und den Umfang der Schutzvorkehrungen § 9 des
-Bundesdatenschutzgesetzes.
+Unterlagen zu führen und besonders zu sichern.
 
 
-#### § 184 Berichtigung, Löschung und Sperrung
+#### § 184 Berichtigung, Löschung und Einschränkung der Verarbeitung
 
-(1) Die in Dateien gespeicherten personenbezogenen Daten sind
+(1) Die in Dateisystemen gespeicherten personenbezogenen Daten sind
 spätestens zwei Jahre nach der Entlassung des Gefangenen oder der
 Verlegung des Gefangenen in eine andere Anstalt zu löschen. Hiervon
 können bis zum Ablauf der Aufbewahrungsfrist für die
@@ -3258,30 +3439,30 @@ Gefangenen ausgenommen werden, soweit dies für das Auffinden der
 Gefangenenpersonalakte erforderlich ist.
 
 (2) Personenbezogene Daten in Akten dürfen nach Ablauf von zwei Jahren
-seit der Entlassung des Gefangenen nur übermittelt oder genutzt
-werden, soweit dies
+seit der Entlassung des Gefangenen nur verarbeitet werden, soweit dies
 
 1.  zur Verfolgung von Straftaten,
 
 
-2.  für die Durchführung wissenschaftlicher Forschungsvorhaben gemäß §
-    186,
+2.  für die Durchführung wissenschaftlicher Forschungsvorhaben gemäß § 186
+    Absatz 1,
 
 
 3.  zur Behebung einer bestehenden Beweisnot,
 
 
 4.  zur Feststellung, Durchsetzung oder Abwehr von Rechtsansprüchen im
-    Zusammenhang mit dem Vollzug einer Freiheitsstrafe
+    Zusammenhang mit dem Vollzug einer Haft nach § 171
 
 
 
 unerläßlich ist. Diese Verwendungsbeschränkungen enden, wenn der
-Gefangene erneut zum Vollzug einer Freiheitsstrafe aufgenommen wird
-oder der Betroffene eingewilligt hat.
+Gefangene erneut zum Vollzug einer Haft nach § 171 aufgenommen wird
+oder die betroffene Person eingewilligt hat.
 
-(3) Bei der Aufbewahrung von Akten mit nach Absatz 2 gesperrten Daten
-dürfen folgende Fristen nicht überschritten werden:
+(3) Bei der Aufbewahrung von Akten mit nach Absatz 2 der
+eingeschränkten Verarbeitung unterliegenden Daten dürfen folgende
+Fristen nicht überschritten werden:
 
 *    *   Gefangenenpersonalakten, Gesundheitsakten und Krankenblätter
 
@@ -3303,42 +3484,41 @@ unberührt.
 
 (4) Wird festgestellt, daß unrichtige Daten übermittelt worden sind,
 ist dies dem Empfänger mitzuteilen, wenn dies zur Wahrung
-schutzwürdiger Interessen des Betroffenen erforderlich ist.
+schutzwürdiger Interessen der betroffenen Person erforderlich ist.
 
-(5) Im übrigen gilt für die Berichtigung, Löschung und Sperrung
-personenbezogener Daten § 20 Abs. 1 bis 4 und 6 bis 8 des
-Bundesdatenschutzgesetzes.
+(5) (weggefallen)
 
 
-#### § 185 Auskunft an den Betroffenen, Akteneinsicht
+#### § 185 Auskunft an den die betroffene Person, Akteneinsicht
 
-Der Betroffene erhält nach Maßgabe des § 19 des
-Bundesdatenschutzgesetzes Auskunft und, soweit eine Auskunft für die
-Wahrnehmung seiner rechtlichen Interessen nicht ausreicht und er
-hierfür auf die Einsichtnahme angewiesen ist, Akteneinsicht. An die
-Stelle des Bundesbeauftragten für den Datenschutz in § 19 Abs. 5 und 6
-des Bundesdatenschutzgesetzes tritt der Landesbeauftragte für den
-Datenschutz, an die Stelle der obersten Bundesbehörde tritt die
-entsprechende Landesbehörde.
-
-
-#### § 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
-
-Für die Auskunft und Akteneinsicht für wissenschaftliche Zwecke gilt §
-476 der Strafprozessordnung entsprechend.
+Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der
+Verordnung (EU) 2016/679 besteht nicht, soweit die Voraussetzungen
+einer Ausnahme nach § 34 Absatz 1 des Bundesdatenschutzgesetzes
+vorliegen. Steht der betroffenen Person ein Recht auf Auskunft zu,
+erhält sie Akteneinsicht, soweit eine Auskunft für die Wahrnehmung
+ihrer rechtlichen Interessen nicht ausreicht und sie hierfür auf die
+Einsichtnahme angewiesen ist. An die Stelle der oder des
+Bundesbeauftragten in § 34 Absatz 3 des Bundesdatenschutzgesetzes
+tritt die oder der Landesbeauftragte für den Datenschutz, an die
+Stelle der obersten Bundesbehörde tritt die entsprechende
+Landesbehörde.
 
 
-#### § 187 Anwendung des Bundesdatenschutzgesetzes
+#### § 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe
 
-Die Regelungen des Bundesdatenschutzgesetzes über öffentliche und
-nicht-öffentliche Stellen (§ 2), weitere Begriffsbestimmungen (§ 3),
-Einholung und Form der Einwilligung des Betroffenen (§ 4a Abs. 1 und
-2), das Datengeheimnis (§ 5), unabdingbare Rechte des Betroffenen (§ 6
-Abs. 1) und die Durchführung des Datenschutzes (§ 18 Abs. 2) gelten
-entsprechend. Die Landesdatenschutzgesetze bleiben im Hinblick auf die
-Schadensersatz-, Straf- und Bußgeldvorschriften sowie die Bestimmungen
-über die Kontrolle durch die Landesbeauftragten für den Datenschutz
-unberührt.
+(1) Für die Auskunft und Akteneinsicht für wissenschaftliche Zwecke
+gilt § 476 der Strafprozessordnung entsprechend.
+
+(2) Den Mitgliedern einer Delegation des Europäischen Ausschusses zur
+Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung
+oder Strafe wird während des Besuchs in der Anstalt Einsicht in die
+Gefangenenpersonalakten, Gesundheitsakten und Krankenblätter gewährt
+oder Auskunft aus diesen Akten erteilt, soweit dies zur Wahrnehmung
+der Aufgaben des Ausschusses unbedingt erforderlich ist.
+
+
+#### § 187 (weggefallen)
+
 
 
 ### Sechster Titel - Anpassung des Bundesrechts

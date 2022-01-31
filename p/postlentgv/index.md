@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3475
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.5.2011 I 818
+:   Art. 1 V v. 3.12.2020 I 2877
 
 
 ## Eingangsformel
@@ -34,11 +34,7 @@ Bundesministerium des Innern:
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
 Post AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
-leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden. Daneben
-können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
-der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
-1833), die durch die Verordnung vom 3. Dezember 1998 (BGBl. I S. 3650)
-geändert worden ist, gewährt werden.
+leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
@@ -343,74 +339,13 @@ gilt die Gesamtbeurteilungsstufe „voll und ganz zufriedenstellend” als
 erreicht.
 
 
-## § 13 Übergangsregelungen
+## § 13 Übergangsregelung
 
-(1) Für das Jahr 2004 erhalten die Beamtinnen und Beamten eine
-Ausgleichszahlung in Höhe der Sonderzuwendung und des Urlaubsgeldes,
-die sie 2004 erhalten hätten, wenn das Gesetz über die Gewährung einer
-jährlichen Sonderzuwendung und das Urlaubsgeldgesetz nicht durch das
-Bundessonderzahlungsgesetz ersetzt worden wären, abzüglich der im Jahr
-2004 infolge des Artikels 5 des Ersten Gesetzes zur Änderung des
-Postpersonalrechtsgesetzes gewährten Sonderzahlung nach dem
-Bundessonderzahlungsgesetz. Die Ausgleichszahlung erhalten alle
-Beamtinnen und Beamten, denen 2004 von der Deutschen Post AG eine
-Sonderzahlung nach dem Bundessonderzahlungsgesetz gewährt wurde. Die
-Ausgleichszahlung wird am ersten Tag des zweiten auf die Verkündung
-dieser Verordnung folgenden Kalendermonats fällig.
-
-(2) In den Jahren 2005 und 2006 erhalten die Beamtinnen und Beamten
-der Bundesbesoldungsordnung A eine Sonderzahlung in Höhe von 60
-Prozent des monatlichen Endgrundgehaltes der Besoldungsgruppe, der sie
-am 1. Dezember des jeweiligen Jahres angehören. Beamtinnen und Beamte
-der Bundesbesoldungsordnung B erhalten eine Sonderzahlung in Höhe von
-60 Prozent des monatlichen Grundgehaltes der Besoldungsgruppe, der sie
-am 1. Dezember des jeweiligen Jahres angehören. Beamtinnen und Beamte,
-die die Deutsche Post AG im Jahr 2006 verlassen und nach dem
-Bundessonderzahlungsgesetz anspruchsberechtigt werden, erhalten für
-jeden Kalendermonat, in dem sie mindestens 15 Kalendertage bei der
-Deutschen Post AG tätig waren und Bezüge erhalten haben, für das Jahr
-2006 eine anteilige Sonderzahlung in Höhe von 1/12 des Betrages nach
-Satz 1 oder 2.Ein Leistungsentgelt nach § 1 Satz 1 wird nicht gezahlt.
-
-(3) In den Jahren 2007 und 2008 gilt Absatz 2 Satz 1 bis 3 mit der
-Maßgabe, dass die Sonderzahlung im Jahr 2007 um 25 Prozent und im Jahr
-2008 um 50 Prozent vermindert wird.Im Jahr 2007 wird ein
-Leistungsentgelt nach § 1 Satz 1 nicht gezahlt.
-
-(4) In den Jahren 2008 bis 2011 gilt § 3 für die Beamtinnen und
-Beamten des gehobenen und des höheren Dienstes entsprechend; § 6
-Absatz 1 ist in diesen Jahren nicht anzuwenden. Das Budget für jede
-Besoldungsgruppe beträgt abweichend von § 3 Absatz 2
-
-1.  im Jahr 2008 30 Prozent und
-
-
-2.  in den Jahren 2009 bis 2011 jeweils 60 Prozent
-
-
-
-des monatlichen Endgrundgehaltes der jeweiligen Besoldungsgruppe der
-Bundesbesoldungsordnung A oder des Grundgehaltes der jeweiligen
-Besoldungsgruppe der Bundesbesoldungsordnung B, jeweils multipliziert
-mit der Zahl der im Jahresdurchschnitt in der jeweiligen
-Besoldungsgruppe beschäftigten Beamtinnen und Beamten, wobei
-Teilzeitanteile zu Vollzeitäquivalenten zusammengefasst werden. Das
-Budget nach Satz 2 vermindert sich in den Jahren 2008 bis 2011 jeweils
-um die Summe der Sonderzahlungen nach der
-Postsonderzahlungsverordnung.
-
-(5) Die Sonderzahlung nach den Absätzen 2 und 3 wird zusammen mit den
-Bezügen für Dezember des jeweiligen Jahres ausgezahlt, spätestens aber
-mit den Bezügen des zweiten auf die Verkündung dieser Verordnung
-folgenden Kalendermonats.
+Für die Jahre 2012 bis 2025 wird kein Leistungsentgelt nach § 1
+gezahlt.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft. Die §§
-4 und 5 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl.
-I S. 1833), die durch die Verordnung vom 3. Dezember 1998 (BGBl. I S.
-3650) geändert worden ist, treten am Tag der Verkündung dieser
-Verordnung für die bei der Deutschen Post AG beschäftigten Beamtinnen
-und Beamten außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
 

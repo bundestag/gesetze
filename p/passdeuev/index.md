@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2312
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 22.12.2011 I 3044
+:   Art. 79 V v. 19.6.2020 I 1328
 
 
 ## § 1 Anwendungsbereich
@@ -98,8 +98,8 @@ Passgesetzes für Passangelegenheiten im Ausland zuständig sind, und
 dem Auswärtigen Amt muss hinsichtlich Datensicherheit und Datenschutz
 ein den Anforderungen der Verordnung entsprechendes Niveau aufweisen.
 Zu Testzwecken kann nach Genehmigung durch das Bundesministerium des
-Innern von den Vorgaben für das Datenaustauschformat nach Satz 1
-abgewichen werden.
+Innern, für Bau und Heimat von den Vorgaben für das
+Datenaustauschformat nach Satz 1 abgewichen werden.
 
 (4) XhD ist ein auf XML basierendes Datenaustauschformat für
 Dokumentdaten und dokumentenabhängige Geschäftsprozesse in Nachrichten
@@ -156,8 +156,8 @@ anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die
 sowohl in der Passbehörde als auch beim Passhersteller ermittelt und
 vom Passhersteller ausgewertet werden. Der Passhersteller stellt die
 Ergebnisse der Auswertung und auf Verlangen die in der Statistik
-erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern
-und dem BSI zur Verfügung.
+erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern,
+für Bau und Heimat und dem BSI zur Verfügung.
 
 
 ## § 6 Übergangsregelungen

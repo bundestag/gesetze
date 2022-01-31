@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2092
 
+Geändert durch
+:   Art. 1 V v. 9.7.2020 I 1868
+
 
 ## Eingangsformel
 
@@ -28,33 +31,44 @@ Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit
 und Soziales:
 
+Einsatzunfall als
 
-## § 1 Einsatzunfall als Ursache einer psychischen Störung
+## § 1 Ursache einer psychischen Störung
 
-(1) Es wird vermutet, dass eine nachstehend benannte psychische
-Störung durch einen Einsatzunfall verursacht worden ist, wenn durch
-eine Fachärztin oder einen Facharzt für Psychiatrie und Psychotherapie
-der Bundeswehr festgestellt wird, dass sie innerhalb von fünf Jahren
-nach Beendigung einer besonderen Auslandsverwendung aufgetreten ist,
-und die erkrankte Person während der Auslandsverwendung der Gefahr
-einer solchen Störung in besonderer Weise ausgesetzt war:
+(1) Es wird vermutet, dass eine psychische Störung durch einen
+Einsatzunfall verursacht worden ist, wenn
 
-1.  posttraumatische Belastungsstörung,
+1.  eine Fachärztin oder ein Facharzt für Psychiatrie und Psychotherapie
+    der Bundeswehr festgestellt hat, dass die psychische Störung nach
+    Beendigung einer besonderen Auslandsverwendung aufgetreten ist, und
 
 
-2.  Anpassungsstörung,
+2.  die erkrankte Person während der Auslandsverwendung der Gefahr einer
+    psychischen Störung in besonderer Weise ausgesetzt war.
 
 
-3.  sonstige Reaktion auf schwere Belastung,
+
+Psychische Störungen im Sinne von Satz 1 sind:
+
+1.  posttraumatische Belastungsstörungen,
 
 
-4.  Angststörung,
+2.  Anpassungsstörungen,
 
 
-5.  somatoforme Störung,
+3.  sonstige Reaktionen auf schwere Belastung,
 
 
-6.  akute vorübergehende psychotische Störung.
+4.  Angststörungen,
+
+
+5.  affektive Störungen,
+
+
+6.  somatoforme Störungen,
+
+
+7.  akute vorübergehende psychotische Störungen.
 
 
 
@@ -71,7 +85,8 @@ Auslandsverwendung
     oder
 
 
-3.  einer vergleichbaren Belastung ausgesetzt waren.
+3.  einer Situation ausgesetzt waren, die mit den Tatbeständen nach den
+    Nummern 1 und 2 vergleichbar ist.
 
 
 

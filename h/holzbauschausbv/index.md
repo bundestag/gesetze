@@ -26,7 +26,7 @@ demnächst als Beilage im Bundesanzeiger veröffentlicht.
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006
 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Abs. 1
 in Verbindung mit § 26 der Handwerksordnung in der Fassung der
@@ -1195,8 +1195,9 @@ Abschlussprüfung/Gesellenprüfung nach § 9 dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
 
 (Fundstelle: BGBl. I 2007, 617 - 627)
 

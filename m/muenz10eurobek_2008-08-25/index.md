@@ -25,8 +25,8 @@ Juli 1999 im Ziegelrodauer Forst bei Nebra, Sachsen-Anhalt, gefundenen
 „Himmelsscheibe“, bei der es sich um einen Schlüsselfund für die
 europäische Vorgeschichte, die Astronomiegeschichte sowie die frühe
 Religionsgeschichte handelt, eine deutsche Euro-Gedenkmünze im
-Nennwert von 10 Euro prägen zu lassen. Die Auflage der Münze beträgt 1
-760 000 Stück, darunter maximal 260 000 Stück in
+Nennwert von 10 Euro prägen zu lassen. Die Auflage der Münze beträgt
+1 760 000 Stück, darunter maximal 260 000 Stück in
 Spiegelglanzausführung. Die Prägung erfolgt durch die Staatliche Münze
 Berlin.
 

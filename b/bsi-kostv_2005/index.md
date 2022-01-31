@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 519
 
+V aufgeh. durch
+:   Art. 3 Abs. 1 G v. 18.7.2016 I 1666 mWv 1.10.2019
+
+Geändert durch
+:   Art. 2 Abs. 3 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 3 Abs. 1 G v. 7.8.2013 I 3154 mWv 14.8.2016, Art. 3 Abs. 1 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2016
+
 
 
 ## Eingangsformel
@@ -30,30 +39,31 @@ Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
 ## § 1 Anwendungsbereich
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
-erhebt für Amtshandlungen nach § 3 Abs. 1 Nr. 3, 5, 6 und 7 des BSI-
-Errichtungsgesetzes Kosten nach dieser Verordnung.
+erhebt für individuell zurechenbare öffentliche Leistungen nach § 3
+Absatz 1 Nummer 3, 5, 6 und 7 des BSI-Errichtungsgesetzes Gebühren und
+Auslagen nach dieser Verordnung.
 
 
-## § 2 Kosten
+## § 2 Gebühren und Auslagen
 
-(1) Kosten im Sinne dieser Verordnung sind Gebühren und Auslagen. Die
-Gebühren bestimmen sich nach dem anliegenden Gebührenverzeichnis.
-Auslagen werden nach Maßgabe des § 10 des Verwaltungskostengesetzes
-gesondert erhoben.
+(1) Die Gebühren bestimmen sich nach dem anliegenden
+Gebührenverzeichnis. Auslagen werden nach Maßgabe des § 23 Absatz 6
+des Bundesgebührengesetzes gesondert erhoben.
 
-(2) Kosten werden auch erhoben, wenn ein Antrag auf Vornahme einer
-kostenpflichtigen Amtshandlung nach Beginn der sachlichen Bearbeitung
-vom Antragsteller zurückgenommen wird oder ein Antrag aus anderen
-Gründen als wegen Unzuständigkeit abgelehnt wird oder eine
-Amtshandlung zurückgenommen oder widerrufen wird.
+(2) Gebühren und Auslagen werden auch erhoben, wenn ein Antrag auf
+Vornahme einer gebührenpflichtigen individuell zurechenbaren
+öffentlichen Leistung nach Beginn der sachlichen Bearbeitung vom
+Antragsteller zurückgenommen wird oder ein Antrag aus anderen Gründen
+als wegen Unzuständigkeit abgelehnt wird oder ein Verwaltungsakt
+zurückgenommen oder widerrufen wird.
 
-(3) Kosten werden auch erhoben, wenn gegen eine Amtshandlung
-Widerspruch eingelegt und dieser zurückgewiesen wird oder dieser nach
-Beginn der sachlichen Bearbeitung vom Antragsteller zurückgenommen
-wird.
+(3) Gebühren und Auslagen werden auch erhoben, wenn gegen einen
+Verwaltungsakt Widerspruch eingelegt und dieser zurückgewiesen wird
+oder dieser nach Beginn der sachlichen Bearbeitung vom Antragsteller
+zurückgenommen wird.
 
-(4) Kosten, die bei fachgerechter Behandlung der Sache nicht
-entstanden wären, werden nicht erhoben.
+(4) Gebühren und Auslagen, die bei fachgerechter Behandlung der Sache
+nicht entstanden wären, werden nicht erhoben.
 
 
 ## § 3 Berechnung der Gebühren
@@ -63,33 +73,33 @@ Berechnung der Gebühr die im Gebührenverzeichnis angegebenen
 Stundensätze zugrunde gelegt. Für jede angefangene Viertelstunde ist
 ein Viertel dieser Stundensätze zu berechnen.
 
-(2) Werden Amtshandlungen durch Angehörige des Bundesamtes außerhalb
-des Bundesamtes erbracht, so sind Gebühren nach Absatz 1 ferner zu
-berechnen für
+(2) Werden individuell zurechenbare öffentliche Leistungen durch
+Angehörige des Bundesamtes außerhalb des Bundesamtes erbracht, so sind
+Gebühren nach Absatz 1 ferner zu berechnen für
 
 1.  Reisezeiten, die innerhalb der üblichen Arbeitszeit liegen oder von
     dem Bundesamt besonders abgegolten werden,
 
 
-2.  Wartezeiten, die der Kostenschuldner verursacht hat.
+2.  Wartezeiten, die der Gebührenschuldner verursacht hat.
 
 
 
-Bei Amtshandlungen, für die feste Sätze angegeben sind, werden für
+Bei Leistungen, für die feste Sätze angegeben sind, werden für
 Reisezeiten und Wartezeiten zusätzliche Gebühren nach den im
 Gebührenverzeichnis angegebenen Stundensätzen berechnet.
 
 (3) Die Überlassung von Anlagen, Geräten und Werkzeugen des
-Bundesamtes auf Zeit an den Kostenschuldner ist entsprechend dem
+Bundesamtes auf Zeit an den Gebührenschuldner ist entsprechend dem
 Sachaufwand zu berechnen.
 
 
-## § 4 Ausnahmen von der Kostenpflicht
+## § 4 Ausnahmen von der Gebühren- und Auslagenpflicht
 
 Das Bundesministerium des Innern ordnet zeitlich befristete Ausnahmen
-von der Kostenpflichtigkeit für Amtshandlungen des Bundesamtes an,
-soweit dies zur Förderung der Sicherheit in der Informationstechnik
-geboten erscheint.
+von der Gebühren- und Auslagenpflicht für individuell zurechenbare
+öffentliche Leistungen des Bundesamtes an, soweit dies zur Förderung
+der Sicherheit in der Informationstechnik geboten erscheint.
 
 
 ## § 5 Inkrafttreten, Außerkrafttreten
@@ -98,6 +108,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
 ## Anlage (zu § 2 Abs. 1)
+
+(Fundstelle: BGBl. I 2005, 520 - 521)
+bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 *    *   **Gebührenverzeichnis**
@@ -367,7 +380,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
     *   Zertifizierung von Schutzprofilen
 
-    *   kostenfrei bis 12/2006
+    *   gebühren- und auslagenfrei bis 12/2006
 
 
 *    *   1.1.6
@@ -543,8 +556,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
     *   **Vermietung von Anlagen, Geräten und Werkzeugen**
 
-    *   **Kosten auf**                        Anfrage **bis zur Höhe**
-        der Kosten des Ausgangsverfahrens
+    *   **Kosten auf** Anfrage **bis zur Höhe** der Kosten des
+        Ausgangsverfahrens
 
 
 *    *   **VI.**

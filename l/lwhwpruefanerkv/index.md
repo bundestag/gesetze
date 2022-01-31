@@ -98,8 +98,9 @@ entsprechend.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 2 Abs. 1 Nr. 1)
 
-## Anlage 1 (zu § 2 Abs. 1 Nr. 1) Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
+## Anlage 1 Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
 
 (Fundstelle: BGBl. I 2005, 2285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -178,8 +179,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 2 Abs. 1 Nr. 2)
 
-## Anlage 2 (zu § 2 Abs. 1 Nr. 2) Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
+## Anlage 2 Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
 
 (Fundstelle: BGBl. I 2005, 2286;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

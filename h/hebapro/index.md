@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1981, 923
 
 Neugefasst durch
-:   Bek. v. 16. 3.1987 I 929
+:   Bek. v. 16. 3.1987 I 929;
 
 Zuletzt geändert durch
-:   Art. 40 G v. 6.12.2011 I 2515
+:   Art. 11 G v. 18.4.2016 I 886
 
 
 ## § 1 Inhalt der Ausbildung
@@ -70,10 +70,9 @@ beteiligten Prüfungsausschüsse sind vorher zu hören.
 (1) Bei jeder Hebammenschule wird ein Prüfungsausschuß gebildet, der
 aus folgenden Mitgliedern besteht:
 
-1.  einer Medizinalbeamtin oder einem Medizinalbeamten der zuständigen
-    Behörde oder einer von der zuständigen Behörde mit der Wahrnehmung
-    dieser Aufgabe beauftragten Ärztin oder einem entsprechend
-    beauftragten Arzt als Vorsitzenden,
+1.  einem fachlich geeigneten Vertreter der zuständigen Behörde oder einer
+    von der zuständigen Behörde mit der Wahrnehmung dieser Aufgabe
+    betrauten fachlich geeigneten Person als Vorsitzender,
 
 
 2.  einem Beauftragten der Schulverwaltung, wenn die Schule nach den
@@ -384,26 +383,26 @@ sind, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr.
 Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder
 einen von einer solchen Behörde ausgestellten Strafregisterauszug
 oder, wenn ein solcher nicht beigebracht werden kann, einen
-gleichwertigen Nachweis vorlegen. Hat der Antragsteller den Beruf der
-Hebamme im Herkunftsmitgliedstaat bereits ausgeübt, so kann die für
-die Erteilung der Erlaubnis nach § 1 Abs. 1 des Gesetzes zuständige
-Behörde bei der zuständigen Behörde des Herkunftsmitgliedstaats
-Auskünfte über etwa gegen den Antragsteller verhängte Strafen oder
-sonstige berufs- oder strafrechtliche Maßnahmen wegen schwerwiegenden
-standeswidrigen Verhaltens oder strafbarer Handlungen, die die
-Ausübung des Berufs im Herkunftsmitgliedstaat betreffen, einholen. Hat
-die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen
-des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des
-Geltungsbereichs des Gesetzes eingetreten sind und im Hinblick auf die
-Voraussetzungen des § 2 Abs. 1 Nr. 2 des Gesetzes von Bedeutung sein
-können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats
-zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und
-ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
-ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
-Die in Satz 1 bis 3 genannten Bescheinigungen und Mitteilungen sind
-vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
-gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
-drei Monate zurückliegt.
+gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der
+Erlaubnis nach § 1 Absatz 1 des Hebammengesetzes zuständige Behörde
+berechtigte Zweifel, kann sie von der zuständigen Behörde eines
+Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass
+dem Antragsteller die Ausübung des Berufs, der dem der Hebamme oder
+des Entbindungspflegers entspricht, nicht auf Grund eines
+schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung
+wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt
+worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde
+in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die
+außerhalb des Geltungsbereichs des Gesetzes eingetreten sind und im
+Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 des Gesetzes von
+Bedeutung sein können, so hat sie die zuständige Stelle des
+Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese
+Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen,
+die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und
+Nachweise daraus zieht, mitzuteilen. Die in Satz 1 bis 3 genannten
+Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie
+dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der
+Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
 (2) Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 des
 Hebammengesetzes beantragen, können zum Nachweis, dass die
@@ -429,34 +428,243 @@ durch Vorlage einer Bescheinigung über die Abgabe einer
 eidesstattlichen Erklärung gegenüber der zuständigen Behörde des
 Herkunftsmitgliedstaats ersetzen.
 
-(5) Die zuständige Behörde hat den Dienstleistungserbringer bei der
-erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 22
-des Hebammengesetzes binnen eines Monats nach Eingang der Meldung und
-der Begleitdokumente über das Ergebnis ihrer Nachprüfung zu
-unterrichten. Ist eine Nachprüfung innerhalb dieser Frist in
-besonderen Ausnahmefällen nicht möglich, unterrichtet die zuständige
-Behörde den Dienstleistungserbringer innerhalb eines Monats über die
-Gründe für diese Verzögerung und über den Zeitplan für ihre
-Entscheidung, die vor Ablauf des zweiten Monats ab Eingang der
-vollständigen Unterlagen ergehen muss. Erhält der
-Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
-Fristen keine Rückmeldung der zuständigen Behörde, darf die
-Dienstleistung erbracht werden.
+(5) (weggefallen)
+
+(6) Die Absätze 1 bis 4 gelten entsprechend für Drittstaatsdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen Union eine
+Gleichstellung ergibt.
 
 
-## § 16a Frist
+## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
-nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Sie hat über
-Anträge nach § 2 Absatz 3 des Hebammengesetzes kurzfristig, spätestens
-drei Monate nach Vorlage der Nachweise über das Vorliegen der
-Voraussetzungen des Hebammengesetzes zu entscheiden. Für Anträge nach
-§ 2 Absatz 2 und 2a des Hebammengesetzes verlängert sich die Frist auf
-vier Monate. Über die Feststellung wesentlicher Unterschiede ist den
-Antragstellern ein rechtsmittelfähiger Bescheid zu erteilen. Satz 3
-tritt für Anträge nach § 2 Absatz 2 des Hebammengesetzes am 1.
-Dezember 2012 in Kraft.
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
+Hebammengesetzes beantragen und
+
+1.  ihre Ausbildung in einem Mitgliedstaat der Europäischen Union oder
+    einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum abgeschlossen haben, aber nicht unter § 2 Absatz 3 des
+    Hebammengesetzes oder § 28 des Hebammengesetzes fallen, oder
+
+
+2.  über einen Ausbildungsnachweis als Hebamme oder Entbindungspfleger aus
+    einem Staat verfügen, der nicht Mitgliedstaat der Europäischen Union
+    oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+    ist, aber in einem Mitgliedstaat der Europäischen Union oder einem
+    anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum anerkannt wurde,
+
+
+
+können zum Ausgleich von wesentlichen Unterschieden, die von der
+zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung
+der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden
+sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden
+konnten, die die Antragsteller im Rahmen ihrer Berufspraxis
+nachweisbar erworben haben, einen Anpassungslehrgang nach Absatz 2
+absolvieren oder eine Eignungsprüfung nach Absatz 3 ablegen.
+
+(2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen
+Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er
+wird entsprechend dem Lehrgangsziel in Form von theoretischem und
+praktischem Unterricht, einer praktischen Ausbildung mit theoretischer
+Unterweisung oder beidem an Einrichtungen nach § 6 Absatz 1 Satz 3 des
+Hebammengesetzes oder an von der zuständigen Behörde als vergleichbar
+anerkannten Einrichtungen durchgeführt. An der theoretischen
+Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 4 in
+angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die
+Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das
+Lehrgangsziel erreicht werden kann. Die Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 6 nachzuweisen.
+
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zum Ausgleich der von der zuständigen Behörde
+festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und
+Fähigkeiten verfügen. Die Eignungsprüfung besteht aus einer
+praktischen Prüfung, die mit einem Prüfungsgespräch verbunden ist. Der
+Prüfling hat dabei
+
+1.  mindestens eine und höchstens drei Aufgaben des praktischen Teils der
+    Prüfung nach § 7 Absatz 1 Satz 1 Nummer 1, 3 und 4 zu übernehmen sowie
+
+
+2.  an einem Fallbeispiel mit vorgegebenem Befund eine
+    Entbindungssituation mit Erstversorgung des Neugeborenen
+    einschließlich der maßgeblichen Arbeitsabläufe und möglicher
+    Fehlerquellen darzustellen; er hat dabei nachzuweisen, dass er die für
+    die Leitung einer Entbindung jeweils erforderlichen Maßnahmen
+    übernehmen und ihre Durchführung dokumentieren kann.
+
+
+
+Die zuständige Behörde legt die Zahl der Aufgaben nach Satz 3 Nummer
+1, auf die sich die Prüfung erstreckt, gemäß den festgestellten
+wesentlichen Unterschieden fest. Die Prüfung zu den Aufgaben nach Satz
+3 Nummer 1 soll als Patientenprüfung ausgestaltet sein und für jede
+Aufgabe nicht länger als 60 Minuten dauern. Die Prüfung an einem
+Fallbeispiel nach Satz 3 Nummer 2 soll nicht länger als 120 Minuten
+dauern. Die Prüfung wird von zwei Fachprüfern nach § 3 Absatz 1 Nummer
+4 abgenommen und bewertet. Während der Prüfung sind den Prüfern
+Nachfragen gestattet, die sich auf das konkrete, praktische Vorgehen
+beziehen. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die
+Fachprüfer jede Aufgabe nach Satz 3 Nummer 1 sowie die Aufgabe nach
+Satz 3 Nummer 2 übereinstimmend mit „bestanden“ bewerten. Das Bestehen
+setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer
+Mängel noch den Anforderungen genügt. Kommen die Fachprüfer zu einer
+unterschiedlichen Bewertung, entscheidet der Vorsitzende des
+Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
+Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich
+angeboten werden und darf in jeder Aufgabe nach Satz 3 Nummer 1, die
+nicht bestanden wurde, und der Aufgabe nach Satz 3 Nummer 2 einmal
+wiederholt werden. Über die bestandene Eignungsprüfung wird eine
+Bescheinigung nach dem Muster der Anlage 7 erteilt.
+
+
+## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
+Hebammengesetzes beantragen, haben einen Anpassungslehrgang nach
+Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des
+Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz
+3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in
+einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche
+Unterschiede zu der deutschen Ausbildung aufweist, die von der
+zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung
+der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden
+sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden
+konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen
+Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle nach §
+2 Absatz 2 Satz 5 des Hebammengesetzes.
+
+(2) Der Anpassungslehrgang dient zusammen mit dem Abschlussgespräch
+der Feststellung, dass die Antragsteller über die zur Ausübung des
+Berufs der Hebamme und des Entbindungspflegers erforderlichen
+Kenntnisse und Fähigkeiten verfügen (Lehrgangsziel). Er wird
+entsprechend dem Lehrgangsziel in Form von theoretischem und
+praktischem Unterricht, einer praktischen Ausbildung mit theoretischer
+Unterweisung oder beidem an Einrichtungen nach § 6 Absatz 1 Satz 3 des
+Hebammengesetzes oder an von der zuständigen Behörde als vergleichbar
+anerkannten Einrichtungen durchgeführt und schließt mit einer Prüfung
+über den Inhalt des Anpassungslehrgangs ab. An der theoretischen
+Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 4 Buchstabe b in
+angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die
+Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das
+Lehrgangsziel erreicht werden kann. Die erfolgreiche Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 8 nachzuweisen. Die Bescheinigung wird erteilt, wenn in der
+Prüfung, die in Form eines Abschlussgesprächs durchgeführt wird,
+festgestellt worden ist, dass die Antragsteller das Lehrgangsziel
+erreicht haben. Das Abschlussgespräch wird von einem Fachprüfer nach §
+3 Absatz 1 Nummer 4 gemeinsam mit der Person nach Satz 3, die die
+Antragsteller während des Lehrgangs mit betreut hat, geführt. Ergibt
+sich in dem Abschlussgespräch, dass die Antragsteller den
+Anpassungslehrgang nicht erfolgreich abgeleistet haben, entscheidet
+der Fachprüfer nach § 3 Absatz 1 Nummer 4 im Benehmen mit der an dem
+Gespräch teilnehmenden Person nach Satz 3 über eine angemessene
+Verlängerung des Anpassungslehrgangs. Eine Verlängerung ist nur einmal
+zulässig. Der Verlängerung folgt ein weiteres Abschlussgespräch. Kann
+auch nach dem Ergebnis dieses Gesprächs die Bescheinigung nach Satz 5
+nicht erteilt werden, darf der Anpassungslehrgang nur einmal
+wiederholt werden.
+
+(3) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zur Ausübung des Berufs der Hebamme und des
+Entbindungspflegers erforderlichen Kenntnisse und Fähigkeiten
+verfügen. Die Kenntnisprüfung umfasst jeweils einen mündlichen und
+praktischen Teil. Sie ist erfolgreich abgeschlossen, wenn jeder der
+beiden Prüfungsteile bestanden ist.
+
+(4) Der mündliche Teil der Kenntnisprüfung erstreckt sich auf folgende
+Fächer:
+
+1.  Berufs- und Gesetzeskunde,
+
+
+2.  Gesundheitslehre und Hygiene,
+
+
+3.  Geburtshilfe,
+
+
+4.  spezielle Arzneimittellehre.
+
+
+
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling
+mindestens 15 und höchstens 60 Minuten dauern. Er wird von zwei
+Fachprüfern, von denen eine Person die Voraussetzungen des § 3 Absatz
+1 Nummer 4 Buchstabe b erfüllen muss, abgenommen und bewertet. Der
+mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn
+die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit
+„bestanden“ bewerten. § 16a Absatz 3 Satz 9 gilt entsprechend. Kommen
+die Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der
+Vorsitzende des Prüfungsausschusses nach Rücksprache mit den
+Fachprüfern über das Bestehen.
+
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3
+Satz 2 bis 10 entsprechend.
+
+(6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden und darf im mündlichen Teil sowie in jeder Aufgabe nach § 16a
+Absatz 3 Satz 3 Nummer 1, die nicht bestanden wurde, und in der
+Aufgabe nach § 16a Absatz 3 Satz 3 Nummer 2 einmal wiederholt werden.
+
+(7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach
+dem Muster der Anlage 9 erteilt.
+
+
+## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+
+(1) Die zuständige Behörde hat über Anträge auf Erteilung einer
+Erlaubnis als Hebamme oder Entbindungspfleger nach § 1 Absatz 1 des
+Hebammengesetzes in Verbindung mit § 2 Absatz 2, 2a oder Absatz 5 des
+Hebammengesetzes kurzfristig, spätestens vier Monate, im Falle von
+Anträgen nach § 2 Absatz 3 des Hebammengesetzes spätestens drei
+Monate, nach Vorlage der für Entscheidungen nach § 2 des
+Hebammengesetzes erforderlichen Unterlagen zu entscheiden.
+
+(2) Über die Feststellung wesentlicher Unterschiede, die zur
+Auferlegung einer Kenntnisprüfung, eines Anpassungslehrgangs oder
+einer Eignungsprüfung führen, ist den Antragstellern ein
+rechtsmittelfähiger Bescheid zu erteilen, der folgende Angaben
+enthält:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG in der jeweils
+    geltenden Fassung,
+
+
+2.  die Themenbereiche oder Ausbildungsbestandteile, bei denen wesentliche
+    Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass die Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des Berufs der
+    Hebamme oder des Entbindungspflegers notwendigen Kenntnisse und
+    Fähigkeiten verfügen, und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+    Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 2 Satz 3 des
+    Hebammengesetzes erworben haben.
+
+
+
+
+(3) Die Eignungsprüfung nach § 16a Absatz 3 und die Kenntnisprüfung
+nach § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer
+staatlichen Prüfungskommission statt. Die Länder können zur
+Durchführung der Prüfungen die regulären Prüfungstermine der
+staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei
+sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von
+sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können.
+Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die
+§§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1
+entsprechend.
 
 
 ## § 17 (weggefallen)
@@ -2206,8 +2414,7 @@ Fundstelle des Originaltextes: BGBl. I 1987, 933 - 937
 
 *    *   **4**
 
-    *   **Auf der operativen Station**                        (chirurgische
-        Pflege)
+    *   **Auf der operativen Station** (chirurgische Pflege)
 
     *   160
 
@@ -2268,8 +2475,7 @@ Fundstelle des Originaltextes: BGBl. I 1987, 933 - 937
 
 *    *   **5**
 
-    *   **Auf der nicht-operativen Station**
-        (allgemeine Pflegemaßnahmen)
+    *   **Auf der nicht-operativen Station** (allgemeine Pflegemaßnahmen)
 
     *   160
 
@@ -2667,3 +2873,307 @@ Ort, Datum
 \*)
 Nichtzutreffendes streichen.
 
+
+## Anlage 6 (zu § 16a Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig und mit Erfolg an dem nach § 16a Absatz 2
+        der Ausbildungs- und Prüfungsverordnung für Hebammen und
+        Entbindungspfleger von der zuständigen Behörde
+        vorgeschriebenen Anpassungslehrgang teilgenommen.
+
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+
+
+## Anlage 7 (zu § 16a Absatz 3)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Eignungsprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Eignungsprüfung nach § 16a
+        Absatz 3 der Ausbildungs- und
+[^F781546_01_BJNR009230981BJNE003400116]
+        Prüfungsverordnung für Hebammen und Entbindungspfleger bestanden/nicht
+        bestanden.
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR009230981BJNE003400116]: 
+
+## Anlage 8 (zu § 16b Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig an dem nach § 16b Absatz 2 der Ausbildungs-
+        und Prüfungsverordnung für Hebammen und Entbindungspfleger von der
+        zuständigen Behörde vorgeschriebe-
+        nen Anpassungslehrgang teilgenommen.
+
+
+*    *[^F781546_01_BJNR009230981BJNE003500116]
+   Das Abschlussgespräch hat sie/er bestanden/nicht bestanden
+        .
+
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Personen nach § 16b Absatz 2 Satz 7
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR009230981BJNE003500116]: 
+
+## Anlage 9 (zu § 16b Absatz 7)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Kenntnisprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Kenntnisprüfung nach § 16b
+        Absatz 3 der Ausbildungs- und
+[^F781546_01_BJNR009230981BJNE003600116]
+        Prüfungsverordnung für Hebammen und Entbindungspfleger bestanden/nicht
+        bestanden.
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR009230981BJNE003600116]: 

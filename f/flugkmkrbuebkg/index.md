@@ -7,7 +7,7 @@ Title: Gesetz zu dem Übereinkommen vom 11. Dezember 1987 zwischen den Vereinigt
   über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite
 jurabk: FlugkmkRBÜbkG
 layout: default
-origslug: flugkmkrb_bkg
+origslug: flugkmkrbuebkg
 slug: flugkmkrbuebkg
 
 ---

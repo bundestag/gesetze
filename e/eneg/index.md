@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 1. 9.2005 I 2684;
 
-Geändert durch
-:   Art. 1 G v. 28.3.2009 I 643
+Zuletzt geändert durch
+:   Art. 1 G v. 4.7.2013 I 2197
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2002/91/EG des
 Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die
@@ -117,6 +117,32 @@ Absatz 1 genannten Anlagen und Einrichtungen stellen, bleiben sie
 unberührt.
 
 
+## § 2a Zu errichtende Niedrigstenergiegebäude
+
+(1) Wer nach dem 31. Dezember 2020 ein Gebäude errichtet, das nach
+seiner Zweckbestimmung beheizt oder gekühlt werden muss, hat das
+Gebäude, um Energie zu sparen, als Niedrigstenergiegebäude nach
+Maßgabe der nach Absatz 2 zu erlassenden Rechtsverordnung zu
+errichten. Für zu errichtende Nichtwohngebäude, die im Eigentum von
+Behörden stehen und von Behörden genutzt werden sollen, gilt die
+Pflicht nach Satz 1 nach dem 31. Dezember 2018. Ein
+Niedrigstenergiegebäude ist ein Gebäude, das eine sehr gute
+Gesamtenergieeffizienz aufweist; der Energiebedarf des Gebäudes muss
+sehr gering sein und soll, soweit möglich, zu einem ganz wesentlichen
+Teil durch Energie aus erneuerbaren Quellen gedeckt werden. Die §§ 1
+und 2 bleiben unberührt.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Anforderungen an die
+Gesamtenergieeffizienz von Niedrigstenergiegebäuden zu regeln, denen
+zu errichtende Gebäude genügen müssen.
+
+(3) Die Bundesregierung hat die Rechtsverordnung nach Absatz 2 für
+Gebäude im Sinne von Absatz 1 Satz 1 vor dem 1. Januar 2019 und für
+Gebäude im Sinne von Absatz 1 Satz 2 vor dem 1. Januar 2017 zu
+erlassen.
+
+
 ## § 3 Energiesparender Betrieb von Anlagen
 
 (1) Wer Heizungs-, raumlufttechnische, Kühl-, Beleuchtungs- sowie
@@ -131,30 +157,56 @@ Zustimmung des Bundesrates vorzuschreiben, welchen Anforderungen der
 Betrieb der in Absatz 1 genannten Anlagen und Einrichtungen genügen
 muss, damit vermeidbare Energieverluste unterbleiben. Die
 Anforderungen können sich auf die sachkundige Bedienung,
-Instandhaltung, regelmäßige Wartung, Inspektion und auf die
-bestimmungsgemäße Nutzung der Anlagen und Einrichtungen beziehen.
+Instandhaltung, regelmäßige Wartung, Inspektion einschließlich
+Inspektionsberichten, die Berechtigung zur Durchführung von
+Inspektionen sowie die Anforderungen an die Qualifikation der
+inspizierenden Personen und auf die bestimmungsgemäße Nutzung der
+Anlagen und Einrichtungen beziehen.
 
 (3) Soweit andere Rechtsvorschriften höhere Anforderungen an den
 Betrieb der in Absatz 1 genannten Anlagen und Einrichtungen stellen,
 bleiben sie unberührt.
 
 
-## § 3a Verteilung der Betriebskosten
+## § 3a Verteilung der Betriebskosten, Abrechnungsinformationen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates vorzuschreiben, dass
 
-1.  der Energieverbrauch der Benutzer von heizungs- oder
+1.  der Energieverbrauch der Benutzer von heizungs-, kühl- oder
     raumlufttechnischen oder der Versorgung mit Warmwasser dienenden
     gemeinschaftlichen Anlagen oder Einrichtungen erfasst wird,
 
 
 2.  die Betriebskosten dieser Anlagen oder Einrichtungen so auf die
     Benutzer zu verteilen sind, dass dem Energieverbrauch der Benutzer
-    Rechnung getragen wird.
+    Rechnung getragen wird,
+
+
+3.  die Benutzer in regelmäßigen, im Einzelnen zu bestimmenden Abständen
+    auf klare und verständliche Weise Informationen erhalten:
+
+    a)  über Daten, die für die Einschätzung, den Vergleich und die Steuerung
+        des Energieverbrauchs und der Betriebskosten von heizungs-, kühl- oder
+        raumlufttechnischen oder der Versorgung mit Warmwasser dienenden
+        gemeinschaftlichen Anlagen oder Einrichtungen relevant sind, und
+
+
+    b)  über Stellen, bei denen weitergehende Informationen und
+        Dienstleistungen zum Thema Energieeffizienz verfügbar sind.
 
 
 
+
+
+
+In der Rechtsverordnung nach Satz 1 können Regelungen zur Erhebung,
+Verarbeitung und Nutzung der für die in Satz 1 Nummer 1 bis 3
+genannten Zwecke erforderlichen personenbezogenen Daten sowie zu den
+erforderlichen und dem jeweiligen Stand der Technik entsprechenden
+Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit,
+insbesondere zur Gewährleistung von Vertraulichkeit und Integrität der
+Daten, getroffen werden.
 
 
 ## § 4 Sonderregelungen und Anforderungen an bestehende Gebäude
@@ -219,13 +271,12 @@ Zustimmung des Bundesrates zu bestimmen, dass
     können,
 
 
-2.  in bestehenden Gebäuden elektrische Speicherheizsysteme und
-    Heizkessel, die bei bestimmungsgemäßer Nutzung wesentlich mehr Energie
-    verbrauchen als andere marktübliche Anlagen und Einrichtungen gleicher
-    Funktion, außer Betrieb zu nehmen sind, wenn weniger belastende
-    Maßnahmen, wie eine Pflicht zur nachträglichen Anpassung solcher
-    Anlagen und Einrichtungen an den Stand der Technik, nicht zu einer
-    vergleichbaren Energieeinsparung führen,
+2.  in bestehenden Gebäuden Heizkessel, die bei bestimmungsgemäßer Nutzung
+    wesentlich mehr Energie verbrauchen als andere marktübliche Anlagen
+    und Einrichtungen gleicher Funktion, außer Betrieb zu nehmen sind,
+    wenn weniger belastende Maßnahmen, wie eine Pflicht zur nachträglichen
+    Anpassung solcher Anlagen und Einrichtungen an den Stand der Technik,
+    nicht zu einer vergleichbaren Energieeinsparung führen,
 
 
 
@@ -275,11 +326,11 @@ Umwandlungsverluste der Anlagensysteme berücksichtigen
 ## § 5a Energieausweise
 
 Die Bundesregierung wird ermächtigt, zur Umsetzung oder Durchführung
-von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung
-mit Zustimmung des Bundesrates Inhalte und Verwendung von
-Energieausweisen auf Bedarfs- und Verbrauchsgrundlage vorzugeben und
-dabei zu bestimmen, welche Angaben und Kennwerte über die
-Energieeffizienz eines Gebäudes, eines Gebäudeteils oder in § 2 Abs. 1
+von Rechtsakten der Europäischen Union durch Rechtsverordnung mit
+Zustimmung des Bundesrates Inhalte und Verwendung von Energieausweisen
+auf Bedarfs- und Verbrauchsgrundlage vorzugeben und dabei zu
+bestimmen, welche Angaben und Kennwerte über die Energieeffizienz
+eines Gebäudes, eines Gebäudeteils, eines Bauteils oder in § 2 Abs. 1
 genannter Anlagen oder Einrichtungen darzustellen sind. Die Vorgaben
 können sich insbesondere beziehen auf
 
@@ -299,16 +350,17 @@ können sich insbesondere beziehen auf
     Vergleichskennwerte,
 
 
-5.  begleitende Empfehlungen für kostengünstige Verbesserungen der
-    Energieeffizienz,
+5.  Empfehlungen für kosteneffiziente Verbesserungen der Energieeffizienz,
 
 
 6.  die Verpflichtung, Energieausweise Behörden und bestimmten Dritten
-    zugänglich zu machen,
+    vorzulegen oder zu übergeben sowie Angaben aus Energieausweisen in
+    Immobilienanzeigen in kommerziellen Medien, insbesondere bei Verkauf
+    und Vermietung, zu nennen,
 
 
-7.  den Aushang von Energieausweisen für Gebäude, in denen
-    Dienstleistungen für die Allgemeinheit erbracht werden,
+7.  den Aushang von Energieausweisen in Gebäuden mit starkem
+    Publikumsverkehr und die Art der Gebäude,
 
 
 8.  die Berechtigung zur Ausstellung von Energieausweisen einschließlich
@@ -319,7 +371,10 @@ können sich insbesondere beziehen auf
 
 
 
-Die Energieausweise dienen lediglich der Information.
+Die Energieausweise und die Angaben aus den Energieausweisen, die auf
+Grund einer Verordnung nach Satz 2 Nummer 6 in Immobilienanzeigen in
+kommerziellen Medien genannt werden müssen, dienen lediglich der
+Information.
 
 
 ## § 6 Maßgebender Zeitpunkt
@@ -339,21 +394,33 @@ erfüllt werden, soweit die Erfüllung dieser Anforderungen nicht schon
 nach anderen Rechtsvorschriften im erforderlichen Umfang überwacht
 wird.
 
-(2) Die Landesregierungen oder die von ihnen bestimmten Stellen werden
-vorbehaltlich des Absatzes 3 ermächtigt, durch Rechtsverordnung die
-Überwachung hinsichtlich der in den Rechtsverordnungen nach den §§ 1,
-2 und 5a Satz 2 Nr. 8 festgesetzten Anforderungen ganz oder teilweise
-auf geeignete Stellen, Fachvereinigungen oder Sachverständige zu
-übertragen. Soweit sich § 4 auf die §§ 1 und 2 bezieht, gilt Satz 1
-entsprechend.
+(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Art und das Verfahren der Überwachung
+von in den Rechtsverordnungen nach diesem Gesetz festgesetzten
+Anforderungen an zu errichtende Gebäude zu regeln. Durch Landesrecht
+können Anforderungen an die Art der Überwachung geregelt werden, die
+über die in einer Rechtsverordnung nach Satz 1 hierzu getroffenen
+Regelungen hinausgehen. Zur Ermöglichung der Durchführung der
+Überwachung können in der Rechtsverordnung nach Satz 1 Regelungen über
+die Erhebung, Verarbeitung und Nutzung der hierfür erforderlichen
+Daten, einschließlich personenbezogener Daten, getroffen werden.
 
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Überwachung hinsichtlich der durch
-Rechtsverordnung nach § 3 festgesetzten Anforderungen auf geeignete
-Stellen, Fachvereinigungen oder Sachverständige zu übertragen. Soweit
-sich § 4 auf § 3 bezieht, gilt Satz 1 entsprechend. Satz 1 gilt auch
-für die Überwachung von in Rechtsverordnungen nach § 2 Abs. 3 und § 4
-Abs. 3 Satz 1 und 3 festgesetzten Anforderungen an Heizungs- sowie
+(2) Die Landesregierungen oder die von ihnen bestimmten Stellen werden
+vorbehaltlich des Absatzes 3 sowie des § 7b ermächtigt, durch
+Rechtsverordnung die Überwachung hinsichtlich der in den
+Rechtsverordnungen nach den §§ 1 bis 2a und 5a Satz 2 Nr. 8
+festgesetzten Anforderungen ganz oder teilweise auf geeignete Stellen,
+Fachvereinigungen oder Sachverständige zu übertragen. Soweit sich § 4
+auf die §§ 1 bis 2a bezieht, gilt Satz 1 entsprechend.
+
+(3) Die Bundesregierung wird vorbehaltlich des § 7b ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Überwachung
+hinsichtlich der durch Rechtsverordnung nach § 3 festgesetzten
+Anforderungen auf geeignete Stellen, Fachvereinigungen oder
+Sachverständige zu übertragen. Soweit sich § 4 auf § 3 bezieht, gilt
+Satz 1 entsprechend. Satz 1 gilt auch für die Überwachung von in
+Rechtsverordnungen nach § 2 Abs. 3 und § 4 Abs. 3 Satz 1 und 3
+festgesetzten Anforderungen an Heizungs- sowie
 Warmwasserversorgungsanlagen und -einrichtungen. Im Zusammenhang mit
 Regelungen zur Überwachung nach Satz 3 können ergänzend Bestimmungen
 über die Erteilung weitergehender Empfehlungen getroffen werden.
@@ -361,7 +428,7 @@ Regelungen zur Überwachung nach Satz 3 können ergänzend Bestimmungen
 (4) In den Rechtsverordnungen nach den Absätzen 2 und 3 kann die Art
 und das Verfahren der Überwachung geregelt werden; ferner können
 Anzeige- und Nachweispflichten vorgeschrieben werden. Es ist
-vorzusehen, dass in der Regel Anforderungen auf Grund der §§ 1 und 2
+vorzusehen, dass in der Regel Anforderungen auf Grund der §§ 1 bis 2a
 nur einmal und Anforderungen auf Grund des § 3 höchstens einmal im
 Jahr überwacht werden; bei Anlagen in Einfamilienhäusern, kleinen und
 mittleren Mehrfamilienhäusern und vergleichbaren Nichtwohngebäuden ist
@@ -405,12 +472,116 @@ bestehende Gebäude bezieht, gelten die Sätze 1 und 2 entsprechend.
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 vorzusehen, dass private Fachbetriebe hinsichtlich der von ihnen
 durchgeführten Arbeiten, soweit sie zu errichtende Gebäude betreffen,
-die Einhaltung der durch Rechtsverordnung nach den §§ 1 sowie 2 Abs. 1
-und 2 festgelegten Anforderungen bestätigen müssen; in Fällen der
-Eigenleistung kann eine Erklärungspflicht des Bauherrn oder des
-Eigentümers vorgesehen werden. Absatz 1 Satz 2 ist entsprechend
+die Einhaltung der durch Rechtsverordnung nach den §§ 1 und 2 Absatz 1
+und 2 sowie § 2a festgelegten Anforderungen bestätigen müssen; in
+Fällen der Eigenleistung kann eine Erklärungspflicht des Bauherrn oder
+des Eigentümers vorgesehen werden. Absatz 1 Satz 2 ist entsprechend
 anzuwenden. Soweit sich § 4 Abs. 1 auf zu errichtende Gebäude bezieht,
 gelten die Sätze 1 und 2 entsprechend.
+
+
+## § 7b Kontrolle von Energieausweisen und Inspektionsberichten sowie Auswertung von Daten
+
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Art und das Verfahren der Erfassung und
+Kontrolle von Energieausweisen und von Inspektionsberichten über
+Anlagen und Einrichtungen im Sinne des § 3 Absatz 1 sowie die nicht
+personenbezogene Auswertung der hierbei erhobenen und gespeicherten
+Daten zu regeln. Die Vorgaben können sich insbesondere beziehen auf
+
+1.  Inhalt, Umfang und Ausgestaltung der Kontrolle,
+
+
+2.  Regelungen zur Erfassung von Energieausweisen und
+    Inspektionsberichten, insbesondere auf hierfür erforderliche
+    Mitteilungspflichten, Pflichten zur Beantragung und Verwendung von
+    Registriernummern und Bestimmungen über die Zuteilung von
+    Registriernummern,
+
+
+3.  Pflichten zur Aufbewahrung und Herausgabe von Energieausweisen und
+    Inspektionsberichten einschließlich der bei der Erstellung erhobenen,
+    gespeicherten und genutzten Daten zur Durchführung der Kontrolle und
+
+
+4.  Regelungen zur unbefristeten, nicht personenbezogenen Auswertung der
+    bei der Erfassung und Kontrolle von Energieausweisen und
+    Inspektionsberichten erhobenen und gespeicherten Daten mit dem Ziel
+    der Evaluierung und Optimierung von Aufgaben, die der
+    Energieeinsparung dienen, wobei die Datenauswertung insbesondere die
+    Art des Energieausweises, den Anlass der Ausstellung des
+    Energieausweises, die Gebäudeart, die Gebäudeeigenschaften, die
+    energetischen Kennwerte sowie das Bundesland und den Landkreis der
+    Belegenheit des Gebäudes ohne Angabe des Ortes, der Straße und der
+    Hausnummer erfasst.
+
+
+
+In einer Rechtsverordnung nach Satz 1 in Verbindung mit Satz 2 Nummer
+1 bis 3 können zur Durchführung der Kontrolle Regelungen über die
+Erhebung, Verarbeitung und Nutzung der hierfür erforderlichen Daten
+einschließlich personenbezogener Daten getroffen werden. Zudem können
+in einer Rechtsverordnung nach Satz 1 in Verbindung mit Satz 2 Nummer
+1 bis 3 Vorgaben zu Berichtspflichten der Länder über die Durchführung
+der Kontrolle getroffen werden.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates für die Übergangszeit, bis die Einrichtung
+der Behörden im jeweiligen Land landesrechtlich geregelt ist, die
+Übertragung von Aufgaben zur Erfassung und Kontrolle von
+Energieausweisen und von Inspektionsberichten über Anlagen und
+Einrichtungen im Sinne des § 3 Absatz 1 sowie zur nicht
+personenbezogenen Auswertung der hierbei erhobenen und gespeicherten
+Daten auf bestehende Behörden in den Ländern, auch auf bestehende
+Körperschaften oder Anstalten des öffentlichen Rechts, die der
+Aufsicht des jeweiligen Landes unterstehen, mit Ausnahme von Gemeinden
+und Gemeindeverbänden, zu regeln. Regelungen nach Satz 1 zur
+Übertragung von Kontrollaufgaben können sich nur auf solche Aufgaben
+beziehen, die elektronisch durchgeführt werden können.
+
+(3) Die Landesregierungen werden ermächtigt, zu den in den
+Rechtsverordnungen nach Absatz 1 Satz 1 bis 3 getroffenen
+bundesrechtlichen Regelungen zur Erfassung und Kontrolle von
+Energieausweisen und Inspektionsberichten sowie zur nicht
+personenbezogenen Auswertung der hierbei erhobenen und gespeicherten
+Daten durch Rechtsverordnung Regelungen zu erlassen
+
+1.  zur Art der Durchführung der Erfassung und Kontrolle von
+    Energieausweisen und Inspektionsberichten sowie zur nicht
+    personenbezogenen Auswertung der hierbei erhobenen und gespeicherten
+    Daten, die über die Vorgaben der in den Rechtsverordnungen nach Absatz
+    1 Satz 1 bis 3 getroffenen bundesrechtlichen Regelungen hinausgehen,
+    sowie
+
+
+2.  zum Verfahren, die auch von Regelungen in einer Rechtsverordnung nach
+    Absatz 1 Satz 1 bis 3 abweichen können.
+
+
+
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die Übertragung von Aufgaben zur Erfassung und Kontrolle von
+Energieausweisen und Inspektionsberichten sowie zur nicht
+personenbezogenen Auswertung der hierbei erhobenen und gespeicherten
+Daten, die in den Rechtsverordnungen nach den Absätzen 1 bis 3
+geregelt sind, auf folgende Stellen zu regeln:
+
+1.  auf bestehende Behörden in den Ländern, auch auf bestehende
+    Körperschaften oder Anstalten des öffentlichen Rechts, die der
+    Aufsicht des jeweiligen Landes unterstehen, oder
+
+
+2.  auf Fachvereinigungen oder Sachverständige (Beleihung).
+
+
+
+Bei der Übertragung im Wege der Beleihung können die Landesregierungen
+in der Rechtsverordnung nach Satz 1 Nummer 2 auch die Voraussetzungen
+und das Verfahren der Beleihung regeln; dabei muss sichergestellt
+werden, dass die Aufgaben von der beliehenen Stelle entsprechend den
+Rechtsverordnungen nach den Absätzen 1 bis 3 wahrgenommen werden.
+Beliehene unterstehen der Aufsicht der jeweils zuständigen Behörde.
 
 
 ## § 8 Bußgeldvorschriften
@@ -419,14 +590,15 @@ gelten die Sätze 1 und 2 entsprechend.
 Rechtsverordnung
 
 1.  nach § 1 Abs. 2 Satz 1 oder 2, § 2 Abs. 2 auch in Verbindung mit Abs.
-    3, § 3 Abs. 2 oder § 4 Abs. 1, 2 oder Abs. 3 Satz 1, auch in
-    Verbindung mit Satz 3,
+    3, oder § 4 Abs. 1, 2 oder Abs. 3 Satz 1, auch in Verbindung mit Satz
+    3,
 
 
-2.  nach § 5a Satz 1 oder
+2.  nach § 3 Absatz 2 Satz 1 oder § 5a Satz 1 oder
 
 
-3.  nach § 7 Abs. 4 Satz 1 oder § 7a
+3.  nach § 7 Absatz 4 Satz 1, § 7a, § 7b Absatz 1 Satz 1 oder Satz 3 oder
+    § 7b Absatz 3
 
 
 
@@ -434,11 +606,15 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen
 Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
 bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 mit
-einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes
-1 Nr. 2 mit einer Geldbuße bis zu fünfzehntausend Euro und in den
-übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
-werden.
+(2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
+§ 2a Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach §
+2a Absatz 2 ein Gebäude nicht richtig errichtet.
+
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und
+des Absatzes 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den
+Fällen des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu fünfzehntausend
+Euro und in den übrigen Fällen mit einer Geldbuße bis zu fünftausend
+Euro geahndet werden.
 
 
 ## (XXXX) §§ 9 und 10 (gegenstandslos)

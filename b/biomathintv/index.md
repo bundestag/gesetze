@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 151
 
+Geändert durch
+:   Art. 14 Abs. 1 G v. 4.4.2016 I 558
+
 
 
 ## Eingangsformel
@@ -104,7 +107,7 @@ möglich, so kann das Aktenzeichen der Hinterlegung nachgereicht werden
 nach der Mitteilung an den Anmelder, dass ein Recht auf Akteneinsicht
 nach § 31 Abs. 1 Satz 1 des Patentgesetzes besteht, oder im Fall der
 vorzeitigen Offenlegung spätestens mit der Abgabe der Erklärung des
-Anmelders nach § 31 Abs. 2 Nr. 1 des Patentgesetzes.
+Anmelders nach § 31 Absatz 2 Satz 1 Nummer 1 des Patentgesetzes.
 
 
 ## § 4 Freigabeerklärung

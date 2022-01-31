@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl II: 1998, 2346
 
 Zuletzt geändert durch
-:   Art. 277 V v. 31.10.2006 I 2407
+:   durch Art. 458 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -36,21 +36,20 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Wirtschaft und Technologie kann das Abkommen
-in der durch das Protokoll geänderten Fassung als Neufassung
+Das Bundesministerium für Wirtschaft und Energie kann das Abkommen in
+der durch das Protokoll geänderten Fassung als Neufassung
 bekanntmachen.
 
 
 ## Art 3
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit,
-Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern
-(Signataren) des INTERSPUTNIK-Betriebsabkommens durch Rechtsverordnung
-zu regeln.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit, Fachkunde)
+und das Verfahren für eine Benennung von Unterzeichnern (Signataren)
+des INTERSPUTNIK-Betriebsabkommens durch Rechtsverordnung zu regeln.
 
 (2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für
-Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem
+Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen, durch Rechtsverordnung die
 gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die
 Erstattung der Auslagen zu regeln.

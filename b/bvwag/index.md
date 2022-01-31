@@ -16,13 +16,13 @@ Fundstelle
 :   BGBl I: 1959, 829
 
 Zuletzt geändert durch
-:   Art. 12 G v. 8.12.2010 I 1864
+:   Art. 39 V v. 19.6.2020 I 1328
 
 
 ## § 1
 
-(1) Im Geschäftsbereich des Bundesministers des Innern wird eine
-selbständige Bundesoberbehörde unter der Bezeichnung
+(1) Im Geschäftsbereich des Bundesministers des Innern, für Bau und
+Heimat wird eine selbständige Bundesoberbehörde unter der Bezeichnung
 "Bundesverwaltungsamt" errichtet.
 
 (2) Das Bundesverwaltungsamt erledigt in eigener Zuständigkeit
@@ -36,8 +36,9 @@ oder wird.
 (3) Das Bundesverwaltungsamt erledigt als beauftragte Behörde, soweit
 keine andere Zuständigkeit gesetzlich festgelegt ist,
 Verwaltungsaufgaben des Bundes, mit deren Durchführung es vom
-Bundesminister des Innern oder mit seiner Zustimmung von der sachlich
-zuständigen obersten Bundesbehörde beauftragt wird.
+Bundesminister des Innern, für Bau und Heimat oder mit seiner
+Zustimmung von der sachlich zuständigen obersten Bundesbehörde
+beauftragt wird.
 
 
 ## § 2
@@ -117,8 +118,9 @@ aufzubringenden Kosten.
 
 Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder Abs. 3
 Aufgaben aus einem anderen Geschäftsbereich als dem des
-Bundesministers des Innern erledigt werden, steht das fachliche
-Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
+Bundesministers des Innern, für Bau und Heimat erledigt werden, steht
+das fachliche Weisungsrecht der sachlich zuständigen obersten
+Bundesbehörde zu.
 
 
 ## § 9

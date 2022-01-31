@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1998, 3831
 
 Zuletzt geändert durch
-:   § 22 Abs. 9 G v. 12.12.2007 I 2861
+:   Art. 30 G v. 4.8.2019 I 1147
 
 
 ## Eingangsformel
@@ -53,44 +53,47 @@ Rentenversicherung vorgenommen.
 
 (2) Die Beiträge werden wie folgt berechnet:
 
-1.  für Dienstleistende, die eine Verdienstausfallentschädigung nach dem
-    Unterhaltssicherungsgesetz oder Dienstbezüge aufgrund eines
-    versicherten Wehrdienstverhältnisses besonderer Art nach § 6 des
-    Einsatz-Weiterverwendungsgesetzes erhalten:
+1.  für Dienstleistende, die Leistungen nach § 5 oder § 8 Absatz 1 Satz 1
+    in Verbindung mit Anlage 1 des Unterhaltssicherungsgesetzes erhalten
+    und deren beitragspflichtige Einnahme nach § 166 Absatz 1 Nummer 1a
+    des Sechsten Buches Sozialgesetzbuch das Arbeitsentgelt ist, das
+    dieser Leistung vor Abzug von Steuern und Beiträgen zugrunde liegt
+    oder zugrunde läge, oder die Dienstbezüge auf Grund eines versicherten
+    Wehrdienstverhältnisses besonderer Art nach § 6 des Einsatz-
+    Weiterverwendungsgesetzes erhalten:
 
-    Summe der Arbeitsentgelte oder Dienstbezüge x Beitragssatz,
+    ![bgbl1_2019_j1147-1_0010.jpg](bgbl1_2019_j1147-1_0010.jpg)
+
+2.  für Dienstleistende, die Leistungen nach § 5 oder § 8 Absatz 1 Satz 1
+    in Verbindung mit Anlage 1 des Unterhaltssicherungsgesetzes erhalten
+    und deren beitragspflichtige Einnahme nach § 166 Absatz 1 Nummer 1 des
+    Sechsten Buches Sozialgesetzbuch der dort festgesetzte Prozentsatz der
+    Bezugsgröße ist:
+
+    ![bgbl1_2019_j1147-1_0020.jpg](bgbl1_2019_j1147-1_0020.jpg)    .
 
 
-2.  für Dienstleistende, die eine Verdienstausfallentschädigung nach dem
-    Unterhaltssicherungsgesetz nicht erhalten:
 
 
-
-Beitrags-                            Zahl der
-bemessungs-   x   Beitragssatz   x   Diensttage
-grundlage
------------------------------------------------
-365 (in Schaltjahren: 366).
 
 
 ## § 3 Berechnungsgrundlagen
 
 (1) Summe der Arbeitsentgelte (§ 2 Abs. 2 Nr. 1) sind im Fall einer
-Verdienstausfallentschädigung (1. Alternative) die der
-Verdienstausfallentschädigung nach § 13 Abs. 2 des
-Unterhaltssicherungsgesetzes vor Abzug von Steuern und
-Beitragsanteilen zugrunde liegenden Arbeitsentgelte bis zur jeweiligen
-Beitragsbemessungsgrenze und im Fall von Dienstbezügen (2.
-Alternative) die beitragspflichtigen Einnahmen nach § 166 Abs. 1 Nr.
-1a des Sechsten Buches Sozialgesetzbuch.
+Verdienstausfallentschädigung (1. Alternative) die den Leistungen nach
+§ 5 Absatz 1 des Unterhaltssicherungsgesetzes vor Abzug von Steuern
+und Beitragsanteilen zugrunde liegenden Arbeitsentgelte bis zur
+jeweiligen Beitragsbemessungsgrenze und im Fall von Dienstbezügen (2.
+Alternative) die beitragspflichtigen Einnahmen nach § 166 Absatz 1
+Nummer 1b des Sechsten Buches Sozialgesetzbuch.
 
 (2) Beitragsbemessungsgrundlage (§ 2 Abs. 2 Nr. 2) sind die aus der
 für das Kalenderjahr der Dienstleistung geltenden Bezugsgröße
-abgeleiteten beitragspflichtigen Einnahmen nach § 166 Abs. 1 Nr. 1 des
-Sechsten Buches Sozialgesetzbuch. Solange unterschiedliche
-Bezugsgrößen bestimmt sind, ist jeweils die Bezugsgröße des Gebietes
-anzuwenden, in dem die in § 1 genannten Personen ihren Dienst
-regelmäßig ableisten.
+abgeleiteten beitragspflichtigen Einnahmen nach § 166 Absatz 1 Nummer
+1 und 1a des Sechsten Buches Sozialgesetzbuch. Solange
+unterschiedliche Bezugsgrößen bestimmt sind, ist jeweils die
+Bezugsgröße des Gebietes anzuwenden, in dem die in § 1 genannten
+Personen ihren Dienst regelmäßig ableisten.
 
 (3) Beitragssatz (§ 2 Abs. 2) ist der für die allgemeine
 Rentenversicherung sowie der für die knappschaftliche
@@ -103,16 +106,17 @@ Zivildienstes, für die Beiträge zu zahlen sind.
 
 ## § 4 Zuständigkeit
 
-Die Berechnung und die Zahlung der Beiträge wird für
+Die Berechnung und die Zahlung der Beiträge nehmen vor für
 
-1.  Wehrdienstleistende vom Bundesamt für Wehrverwaltung,
-
-
-2.  Zivildienstleistende vom Bundesamt für den Zivildienst
+1.  Wehrdienstleistende das Bundesamt für das Personalmanagement der
+    Bundeswehr,
 
 
+2.  Zivildienstleistende das Bundesamt für Familie und
+    zivilgesellschaftliche Aufgaben.
 
-vorgenommen.
+
+
 
 
 ## § 5 Berechnungsverfahren
@@ -136,9 +140,10 @@ Träger der Rentenversicherung möglich, findet Satz 3 keine Anwendung.
 
 ## § 6 Beitragszahlung
 
-(1) Die Beiträge sind vom Bundesamt für Wehrverwaltung und vom
-Bundesamt für den Zivildienst für das vergangene Kalenderjahr für die
-allgemeine Rentenversicherung an
+(1) Die Beiträge sind vom Bundesamt für das Personalmanagement der
+Bundeswehr und vom Bundesamt für Familie und zivilgesellschaftliche
+Aufgaben für das vergangene Kalenderjahr für die allgemeine
+Rentenversicherung an
 
 1.  die Träger der allgemeinen Rentenversicherung,
 

@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Mechaniker und zur Mechanikerin für
-  Land- und Baumaschinentechnik
+Title: Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker
+  und zur Land- und Baumaschinenmechatronikerin
 jurabk: LandBauMTAusbV 2008
 layout: default
 origslug: landbaumtausbv_2008
@@ -8,13 +8,16 @@ slug: landbaumtausbv_2008
 
 ---
 
-# Verordnung über die Berufsausbildung zum Mechaniker und zur Mechanikerin für Land- und Baumaschinentechnik (LandBauMTAusbV 2008)
+# Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin (LandBauMTAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-07-25
 
 Fundstelle
 :   BGBl I: 2008, 1545
+
+Geändert durch
+:   Art. 1 V v. 19.6.2014 I 811
 
 [^F1_771332.01_BJNR154500008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes und des § 25 der Handwerksordnung. Die
@@ -42,9 +45,8 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Mechaniker für Land- und
-Baumaschinentechnik/Mechanikerin für Land- und Baumaschinentechnik
-wird
+Der Ausbildungsberuf des Land- und Baumaschinenmechatronikers und der
+Land- und Baumaschinenmechatronikerin wird
 
 1.  nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
     21, Landmaschinenmechaniker, der Anlage A der Handwerksordnung und
@@ -89,70 +91,66 @@ Abweichung erfordern.
     Bewerten von Arbeitsergebnissen,
 
 
-6.  Qualitätsmanagement,
+6.  Durchführen von qualitätssichernden Maßnahmen,
 
 
 7.  Messen und Prüfen an Systemen,
 
 
-8.  Betriebliche und technische Kommunikation,
+8.  betriebliche und technische Kommunikation,
 
 
-9.  Kommunikation mit internen und externen Kunden,
+9.  Bedienen von Fahrzeugen und Systemen,
 
 
-10. Bedienen von Fahrzeugen und Systemen,
+10. Durchführen von Service- und Wartungsarbeiten,
 
 
-11. Warten, Prüfen und Einstellen von Fahrzeugen und Systemen sowie von
-    Betriebseinrichtungen,
-
-
-12. Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und
+11. Demontieren, Reparieren und Montieren von Bauteilen, Baugruppen und
     Systemen,
 
 
-13. Messen und Prüfen,
+12. Messen und Prüfen,
 
 
-14. Fügen, Trennen, Umformen,
+13. Fügen, Trennen, Umformen,
 
 
-15. Manuelles und maschinelles Bearbeiten,
+14. manuelles und maschinelles Bearbeiten,
 
 
-16. Warten, Prüfen und Einstellen von Fahrzeugen, Systemen und
+15. Warten, Prüfen und Einstellen von Fahrzeugen, Systemen und
     Betriebseinrichtungen,
 
 
-17. Eingrenzen und Bestimmen von Fehlern, Störungen und deren Ursachen
+16. Eingrenzen und Bestimmen von Fehlern, Störungen und deren Ursachen
     sowie Beurteilen von Schäden,
 
 
-18. Instandsetzen von Fahrzeugen, Systemen und Betriebseinrichtungen,
+17. Instandsetzen von Fahrzeugen, Systemen und Betriebseinrichtungen,
 
 
-19. Prüfen, Einstellen und Anschließen von mechanischen, hydraulischen,
+18. Prüfen, Einstellen und Anschließen von mechanischen, hydraulischen,
     pneumatischen, elektrischen und elektronischen Anlagen und Systemen,
 
 
-20. Prüfen von Abgasen und Einrichtungen zur Emissionsminderung,
+19. Prüfen von Abgasen und Einrichtungen zur Emissionsminderung,
 
 
-21. Installieren von Maschinen und Anlagen,
+20. Installieren von Maschinen und Anlagen,
 
 
-22. Herstellen und Prüfen von elektrischen Stromanschlüssen,
+21. Herstellen und Prüfen von elektrischen Stromanschlüssen,
 
 
-23. Ausrüsten und Umrüsten mit Zubehör und Zusatzeinrichtungen,
+22. Ausrüsten und Umrüsten mit Zubehör und Zusatzeinrichtungen,
 
 
-24. In- und Außerbetriebnehmen von Fahrzeugen, Maschinen, Geräten und
+23. In- und Außerbetriebnehmen von Fahrzeugen, Maschinen, Geräten und
     Anlagen,
 
 
-25. Übergeben von Fahrzeugen, Maschinen, Geräten und Anlagen an Kunden.
+24. Übergeben von Fahrzeugen, Maschinen, Geräten und Anlagen an Kunden.
 
 
 
@@ -315,17 +313,17 @@ Prüfungsbereichen:
         wirtschaftlicher, technischer, organisatorischer, zeitlicher und
         qualitätssichernder Vorgaben sowie unter Berücksichtigung des
         Umweltschutzes, der Arbeitssicherheit und des Gesundheitsschutzes
-        selbstständig planen und umsetzen,
+        selbständig planen und umsetzen,
 
 
-    b)  Material disponieren, Bauteile und Baugruppen montieren, elektrische
-        und hydraulische Systeme aufbauen, instand setzen und in Betrieb
-        nehmen sowie
+    b)  Arbeitsmittel disponieren, Bauteile und Baugruppen montieren,
+        elektrische, mechatronische und hydraulische Systeme aufbauen, instand
+        setzen, in Betrieb nehmen und deren Funktion prüfen sowie
 
 
-    c)  Fehler und Störungen in elektrischen sowie hydraulischen und
-        mechanischen Systemen feststellen, eingrenzen und beheben sowie die
-        Arbeiten dokumentieren
+    c)  Fehler und Störungen in elektrischen sowie hydraulischen, mechanischen
+        und mechatronischen Systemen feststellen, eingrenzen und beheben sowie
+        die Arbeiten dokumentieren
 
 
 
@@ -334,56 +332,55 @@ Prüfungsbereichen:
 
 2.  dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  Montieren und Inbetriebnehmen oder Instandhalten und Inbetriebnehmen
-        sowie jeweils Einstellen eines elektrohydraulischen Systems eines
-        Fahrzeugs oder einer Anlage,
+    a)  Montieren, Inbetriebnehmen und Funktionsprüfung eines mechatronischen
+        oder elektrohydraulischen Systems eines Fahrzeugs oder einer Anlage,
 
 
-    b)  Diagnostizieren von Fehlern und Störungen in elektrischen und
-        elektronischen Bauteilen und Baugruppen sowie Beheben von Störungen
-        und Prüfen der Funktionen an einem Fahrzeug, einer Maschine, einem
-        Gerät oder einer Anlage sowie
+    b)  Diagnostizieren mit technischen Hilfsmitteln und Beheben von Fehlern
+        und Störungen sowie Prüfen der Funktionen eines mechatronischen
+        Systems an einem Fahrzeug, einer Maschine, einem Gerät oder einer
+        Anlage sowie
 
 
     c)  systematische Fehlersuche und Beheben von Fehlern und deren Ursachen
-        an Bauteilen oder Baugruppen in zwei der nachfolgenden
-        maschinentechnischen Funktionsbereiche: Verbrennungsmotor,
-        Kraftübertragung, Fahrwerk, Lenkung, Bremsanlage, Anbaugeräte,
-        Zusatzausstattungen, Pumpensysteme, Heizsysteme sowie Maschinen,
-        Geräte und Anlagen der Land-, Bau- oder Kommunalwirtschaft;
+        an einem der nachfolgenden maschinentechnischen Funktionsbereiche:
+        Verbrennungsmotor, Kraftübertragung, Fahrwerk, Lenkung, Bremsanlage,
+        Anbaugeräte, Zusatzausstattungen, Pumpensysteme, Heizsysteme sowie
+        Maschinen, Geräte und Anlagen der Land-, Bau oder Kommunalwirtschaft;
 
 
 
 
 
 3.  der Prüfling soll im Prüfungsbereich Kundenauftrag ein Prüfungsprodukt
-    erstellen und dokumentieren sowie hierüber ein Fachgespräch führen;
-    durch das Fachgespräch soll der Prüfling zeigen, dass er die für das
-    Prüfungsprodukt wesentlichen Hintergründe aufzeigen sowie Kunden über
-    Einsatz und Instandhaltung unter technischen und wirtschaftlichen
-    Aspekten informieren und beraten kann;
-
-    darüber hinaus soll der Prüfling drei einander gleichwertige
-    Arbeitsaufgaben, die Kundenaufträgen entsprechen, bearbeiten und
-    dokumentieren;
+    und zwei gleichwertige Arbeitsaufgaben, die Kundenaufträgen
+    entsprechen, bearbeiten und mittels praxisbezogener Unterlagen
+    dokumentieren sowie über die Arbeitsaufgaben ein situatives
+    Fachgespräch führen, das aus mehreren Gesprächsphasen besteht;
 
 
-4.  das Prüfungsprodukt bezieht sich auf die Tätigkeiten nach Nummer 2
-    Buchstabe a, die Arbeitsaufgabe eins bezieht sich auf Nummer 2
-    Buchstabe b und die Arbeitsaufgaben zwei und drei beziehen sich auf
+4.  das Prüfungsprodukt und die Arbeitsaufgaben können aus mehreren
+    Teilaufgaben bestehen;
+
+
+5.  das Prüfungsprodukt bezieht sich auf die Tätigkeiten nach Nummer 2
+    Buchstabe a;
+
+
+6.  die Arbeitsaufgabe eins bezieht sich auf die Tätigkeiten nach Nummer 2
+    Buchstabe b und die Arbeitsaufgabe zwei auf die Tätigkeiten nach
     Nummer 2 Buchstabe c;
 
 
-5.  die Prüfungszeit beträgt insgesamt 14 Stunden; innerhalb dieser Zeit
-    sollen das Prüfungsprodukt einschließlich des höchstens 30-minütigen
-    Fachgesprächs in sieben Stunden und die Arbeitsaufgaben in sieben
-    Stunden durchgeführt werden;
+7.  die Prüfungszeit beträgt für das Prüfungsprodukt sechs Stunden und für
+    die Arbeitsaufgaben je zwei Stunden; innerhalb der Zeit für die
+    Arbeitsaufgaben soll das situative Fachgespräch in insgesamt höchstens
+    20 Minuten durchgeführt werden;
 
 
-6.  die Bearbeitung des Prüfungsproduktes einschließlich der Dokumentation
-    ist mit 30 Prozent, das Fachgespräch mit 30 Prozent und die
-    Arbeitsaufgaben einschließlich der Dokumentationen mit 40 Prozent zu
-    gewichten.
+8.  die Bearbeitung des Prüfungsproduktes einschließlich der Dokumentation
+    ist mit 40 Prozent und beide Arbeitsaufgaben einschließlich des
+    situativen Fachgesprächs sind mit jeweils 30 Prozent zu gewichten.
 
 
 
@@ -576,28 +573,29 @@ und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2
 : 1 zu gewichten.
 
 
-## § 10 Bestehende Berufsausbildungsverhältnisse
+## § 10 Fortsetzung der Berufsausbildung
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine
-Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
-die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
-11 Satz 2 genannten Verordnungen weiter anzuwenden.
+Die erfolgreich abgeschlossene Ausbildung zum
+Kraftfahrzeugservicemechaniker und zur
+Kraftfahrzeugservicemechanikerin kann ab der zweiten Hälfte des
+zweiten Ausbildungsjahres im Ausbildungsberuf Land- und
+Baumaschinenmechatroniker und Land- und Baumaschinenmechatronikerin
+nach dieser Verordnung fortgesetzt werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3)   Ausbildungsrahmenplan für die Berufsausbildung in der Land- und Baumaschinentechnik
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin
 
-(Fundstelle: BGBl. I 2008, 1549 - 1559)
+(Fundstelle: BGBl. I 2014, 813 - 823)
 
-**Abschnitt I: Berufliche Grundbildung**
 
+Abschnitt I: Berufliche Grundbildung
+##
 
 *    *   Lfd.
         Nr.
@@ -605,9 +603,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse,
-        die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens zu vermitteln sind
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitliche Richtwerte
         in Wochen
@@ -633,7 +629,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 *    *   1
 
     *   Berufsbildung, Arbeits- und Tarifrecht
-        (§ 3 Abs. 2 Nr. 1)
+        (§ 3 Absatz 2 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -655,16 +651,16 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
 
-    *   während
-        der gesamten
-        Ausbildung
+    *   während der
+        gesamten
+        Ausbildungszeit
         zu vermitteln
 
 
 *    *   2
 
     *   Aufbau und Organisation des Ausbildungsbetriebes
-        (§ 3 Abs. 2 Nr. 2)
+        (§ 3 Absatz 2 Nummer 2)
 
     *
         a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
@@ -690,7 +686,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 *    *   3
 
     *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 3 Abs. 2 Nr. 3)
+        (§ 3 Absatz 2 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -715,7 +711,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 *    *   4
 
     *   Umweltschutz
-        (§ 3 Abs. 2 Nr. 4)
+        (§ 3 Absatz 2 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -728,12 +724,6 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
             anwenden
 
 
-
-
-
-*    *
-    *
-    *
         c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
             Materialverwendung nutzen
 
@@ -744,19 +734,15 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
 
-    *
 
 *    *   5
 
-    *   Planen und Vorbereiten von Arbeitsabläufen
-        sowie Kontrollieren und Bewerten von Arbeits-
-        ergebnissen
-        (§ 3 Abs. 2 Nr. 5)
+    *   Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren und
+        Bewerten von Arbeitsergebnissen
+        (§ 3 Absatz 2 Nummer 5)
 
     *
-        a)  Arbeitsschritte und -abläufe nach funktionalen, organisatorischen,
-            technischen und wirtschaftlichen Kriterien sowie nach
-            Herstellervorgaben planen und festlegen
+        a)  Arbeitsschritte und -abläufe planen und festlegen
 
 
         b)  Werkstoffe, Betriebsmittel und Hilfsstoffe ermitteln
@@ -772,14 +758,14 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
         e)  Arbeitsplatz unter Berücksichtigung des Arbeitsauftrages vorbereiten
 
 
-        f)  Arbeitsergebnisse durch Soll-Ist-Wertvergleiche kontrollieren,
+        f)  Arbeitsergebnisse durch Soll- und Istwertvergleiche kontrollieren,
             bewerten, dokumentieren und Maßnahmen zur Verbesserung der
             Arbeitsergebnisse vorschlagen
 
 
 
 
-    *[^f771332_01_BJNR154500008BJNE001300000]
+    *[^F785852_01_BJNR154500008BJNE001301360]
    4
 
     *
@@ -788,8 +774,8 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 *    *   6
 
-    *   Qualitätsmanagement
-        (§ 3 Abs. 2 Nr. 6)
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 3 Absatz 2 Nummer 6)
 
     *
         a)  Prüfverfahren und Prüfmittel anforderungsbezogen anwenden
@@ -804,7 +790,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
 
-    *   4\*)
+    *   4\*
 
     *
     *
@@ -813,14 +799,15 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 *    *   7
 
     *   Messen und Prüfen an Systemen
-        (§ 3 Abs. 2 Nr. 7)
+        (§ 3 Absatz 2 Nummer 7)
 
     *
-        a)  Verfahren und Messgeräte auswählen, Messfehler abschätzen
+        a)  Solldaten ermitteln, Messverfahren und Messgeräte auswählen
 
 
-        b)  elektrische sowie elektronische Größen und Signale an Baugruppen und
-            Systemen messen, prüfen und beurteilen, Prüfergebnisse dokumentieren
+        b)  Messwerte erfassen und mit Solldaten vergleichen, insbesondere
+            elektrische sowie elektronische Größen und Signale an Bauteilen,
+            Baugruppen und Systemen messen, prüfen und beurteilen
 
 
         c)  elektrische Verbindungen, Leitungen und Leitungsanschlüsse auf
@@ -841,13 +828,16 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
         g)  Werkstücke mit Winkeln, Grenzlehren und Gewindelehren prüfen
 
 
-        h)  physikalische Größen, insbesondere Drücke und Temperaturen messen,
+        h)  physikalische Größen, insbesondere Drücke und Temperaturen, messen,
             prüfen und Prüfergebnisse dokumentieren
 
 
+        i)  Prüfergebnisse dokumentieren
 
 
-    *   5\*)
+
+
+    *   5\*
 
     *
     *
@@ -855,60 +845,67 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 *    *   8
 
-    *   Betriebliche und tech-
-        nische Kommunikation
-        (§ 3 Abs. 2 Nr. 8)
+    *   Betriebliche und technische Kommunikation
+        (§ 3 Absatz 2 Nummer 8)
 
     *
-        a)  Bedeutung der Information, Kommunikation und Dokumentation für den
-            wirtschaftlichen Betriebsablauf beurteilen und zur Vermeidung von
-            Störungen beitragen
-
-
-        b)  betriebliches Informationssystem zum Bearbeiten von Arbeitsaufträgen
+        a)  betriebliches Informationssystem zum Bearbeiten von Arbeitsaufträgen
             anwenden und zur Beschaffung von technischen Unterlagen und
             Informationen nutzen
 
 
-        c)  Gespräche mit Vorgesetzten, Mitarbeitern und in der Gruppe
-            situationsgerecht führen, Sachverhalte darstellen sowie deutsche und
+        b)  Gespräche situationsgerecht führen, Sachverhalte darstellen sowie
             englische Fachausdrücke anwenden
 
 
-        d)  Kommunikation mit vorausgehenden und nachfolgenden Funktionsbereichen
-            sicherstellen
+        c)  Kommunikation mit Kunden und Kundinnen sowie vorausgehenden und
+            nachfolgenden Funktionsbereichen sicherstellen
 
 
-        e)  Datenträger handhaben und Datenschutz beachten; digitale und analoge
+        d)  Datenträger handhaben und Datenschutz beachten; digitale und analoge
             Mess- und Prüfdaten lesen
 
 
-        f)  Fahrzeuge, Systeme, Bauteile und Baugruppen identifizieren
+        e)  Fahrzeuge, Systeme, Bauteile und Baugruppen identifizieren
 
 
-        g)  Zeichnungen lesen und anwenden, Skizzen anfertigen
+        f)  Zeichnungen lesen und anwenden, Skizzen anfertigen
 
 
-        h)  Instandsetzungs-, Montage-, Inbetriebnahme- und Betriebsanleitungen,
-            Kataloge, Tabellen, Diagramme lesen und anwenden
+        g)  Instandsetzungs-, Montage-, Inbetriebnahme- und Betriebsanleitungen,
+            Kataloge, Tabellen sowie Diagramme lesen und anwenden
 
 
-        i)  Schaltpläne, Stromlaufpläne, Anschlusspläne, Anordnungspläne und
+        h)  Schaltpläne, Stromlaufpläne, Anschlusspläne, Anordnungspläne und
             Funktionspläne lesen und anwenden
 
 
-        k)  Funktionspläne fahrzeugpneumatischer und hydraulischer Steuerungen und
+        i)  Funktionspläne fahrzeugpneumatischer und hydraulischer Steuerungen und
             Kraftübertragungen lesen und beachten
 
 
-        l)  Vorschriften und Richtlinien für die Verkehrssicherheit sowie für das
+        j)  Vorschriften und Richtlinien für die Verkehrssicherheit sowie für das
             Verhalten im Straßenverkehr anwenden
 
 
+        k)  Kundenwünsche und Informationen entgegennehmen, im Betrieb
+            weiterleiten und nach Vorgaben berücksichtigen
 
 
-    *[^f771332_02_BJNR154500008BJNE001300000]
-   8
+        l)  Vorgaben für das Informieren über Instandhaltungsarbeiten beachten
+
+
+        m)  Vorgaben für das Informieren hinsichtlich der Bedienung des Zubehörs
+            und der Zusatzeinrichtungen beachten
+
+
+        n)  auf Sicherheitsregeln und Vorschriften hinweisen
+
+
+
+
+    *[^F785852_02_BJNR154500008BJNE001301360]
+   11
 
     *
     *
@@ -916,37 +913,8 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 *    *   9
 
-    *   Kommunikation mit
-        internen und externen Kunden
-        (§ 3 Abs. 2 Nr. 9)
-
-    *
-        a)  Kundenwünsche und Informationen entgegennehmen, im Betrieb
-            weiterleiten und nach Vorgaben berücksichtigen
-
-
-        b)  Vorgaben für das Informieren über Instandhaltungsarbeiten beachten
-
-
-        c)  Vorgaben für das Informieren hinsichtlich der Bedienung des Zubehörs
-            und der Zusatzeinrichtungen beachten
-
-
-        d)  auf Sicherheitsregeln und Vorschriften hinweisen
-
-
-
-
-    *   3\*)
-
-    *
-    *
-    *
-
-*    *   10
-
     *   Bedienen von Fahrzeugen und Systemen
-        (§ 3 Abs. 2 Nr. 10)
+        (§ 3 Absatz 2 Nummer 9)
 
     *
         a)  Vorschriften und Hinweise zur Sicherheit und zur Bedienung beachten
@@ -956,30 +924,26 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
         b)  Bedienungsanleitungen anwenden und erklären
 
 
-        c)  Bedienelemente von Fahrzeugen anwenden
-
-
-        d)  Bedienelemente von Systemen, insbesondere Anlagen, Maschinen oder
-            Geräten, anwenden
+        c)  Bedienelemente von Fahrzeugen, Betriebseinrichtungen und Systemen
+            sowie deren Schutzeinrichtungen handhaben
 
 
 
 
-    *   3\*)
+    *   3\*
 
     *
     *
     *
 
-*    *   11
+*    *   10
 
-    *   Warten, Prüfen und Einstellen von Fahrzeugen und Systemen sowie von
-        Betriebseinrichtungen
-        (§ 3 Abs. 2 Nr. 11)
+    *   Durchführen von Service- und Wartungsarbeiten
+        (§ 3 Absatz 2 Nummer 10)
 
     *
         a)  Arbeits- und Sicherheitsregeln sowie Herstellerrichtlinien beim
-            Transport und beim Heben von Hand anwenden
+            Transport und beim Heben anwenden
 
 
         b)  Fahrzeuge, Baugruppen und Systeme bewegen, abstellen, anheben,
@@ -988,24 +952,27 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
         c)  Wartungsarbeiten nach Vorgabe durchführen, insbesondere
             Betriebsflüssigkeiten kontrollieren, nachfüllen, wechseln und zur
-            Entsorgung beitragen, Arbeitsschritte dokumentieren
+            Entsorgung beitragen
 
 
         d)  mechanische und elektrische Bauteile, Baugruppen und Systeme auf
             Verschleiß, Beschädigungen, Dichtheit, Lageabweichungen und
-            Funktionsfähigkeit prüfen, Arbeiten dokumentieren
+            Funktionsfähigkeit prüfen
 
 
-        e)  hydraulische, pneumatische und elektrische Leitungen, Anschlüsse und
-            mechanische Verbindungen prüfen und Prüfergebnisse dokumentieren
+        e)  Schalt- und Funktionspläne anwenden, hydraulische, pneumatische und
+            elektrische Leitungen, Anschlüsse und mechanische Verbindungen prüfen
 
 
         f)  Drücke an pneumatischen und hydraulischen Systemen messen und
             einstellen
 
 
-        g)  Werterhaltung beim Umgang mit Fahrzeugen und Betriebseinrichtungen
-            berücksichtigen
+        g)  Wartungs- und Prüfanweisungen anwenden und Wartungsarbeiten
+            durchführen
+
+
+        h)  Arbeitsschritte sowie Prüf- und Messergebnisse dokumentieren
 
 
 
@@ -1016,15 +983,16 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
 
-*    *   12
+*    *   11
 
-    *   Montieren, Demontieren und Instandsetzen von Bauteilen, Baugruppen und
+    *   Demontieren, Reparieren und Montieren von Bauteilen, Baugruppen und
         Systemen
-        (§ 3 Abs. 2 Nr. 12)
+        (§ 3 Absatz 2 Nummer 11)
 
     *
         a)  Bauteile, Baugruppen und Systeme außer Betrieb nehmen, demontieren,
-            zerlegen, auf Wiederverwertbarkeit prüfen, kennzeichnen und
+            zerlegen, sicherheits- und gesundheitsgefährdende Stoffe
+            identifizieren, auf Wiederverwertbarkeit prüfen, kennzeichnen und
             systematisch ablegen
 
 
@@ -1051,8 +1019,8 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
         g)  Lage von Bauteilen und Baugruppen prüfen, Lageabweichungen messen
 
 
-        h)  unter Berücksichtigung der Werkstoffeigenschaften Bezugslinien,
-            Bohrungsmitten und Umrisse anreißen und körnen, Bauteile und Halbzeuge
+        h)  Bezugslinien, Bohrungsmitten und Umrisse unter Berücksichtigung der
+            Werkstoffeigenschaften anreißen und körnen, Bauteile und Halbzeuge
             trennen und umformen
 
 
@@ -1060,10 +1028,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
             und einstellen; Werkstücke und Bauteile bohren und senken
 
 
-        k)  Innen- und Außengewinde herstellen und instand setzen
+        j)  Innen- und Außengewinde herstellen und instand setzen
 
 
-        l)  elektrische Verbindungen und Anschlüsse herstellen, überprüfen,
+        k)  elektrische Verbindungen und Anschlüsse herstellen, überprüfen,
             instand setzen und dokumentieren
 
 
@@ -1076,8 +1044,9 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
 
 
-   **Abschnitt II: Berufliche Fachbildung**
 
+   Abschnitt II: Berufliche Fachbildung
+##
 
 *    *   Lfd.
         Nr.
@@ -1085,13 +1054,11 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fertigkeiten und Kenntnisse,
-        die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens zu vermitteln sind
+    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitliche Richtwerte
         in Wochen
-        im Ausbildungsjahr
+        in dem Ausbildungsjahr
 
 
 *    *   1
@@ -1112,11 +1079,9 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 *    *   1
 
-    *   Planen und Vorbereiten von Arbeitsabläufen
-        sowie Kontrollieren
-        und Bewerten von
-        Arbeitsergebnissen
-        (§ 3 Abs. 2 Nr. 5)
+    *   Planen und Vorbereiten von Arbeitsabläufen sowie Kontrollieren und
+        Bewerten von Arbeitsergebnissen
+        (§ 3 Absatz 2 Nummer 5)
 
     *
         a)  Schmier- und Kühlmittel sowie Hydraulikflüssigkeiten unter
@@ -1138,7 +1103,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
     *
-    *[^f771332_03_BJNR154500008BJNE001300000]
+    *[^F785852_03_BJNR154500008BJNE001301360]
    2
 
     *
@@ -1155,7 +1120,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
     *
-    *   2\*)
+    *   2\*
 
     *
     *
@@ -1175,113 +1140,14 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
     *
-    *   3\*)
+    *[^F785852_04_BJNR154500008BJNE001301360]
+   3
 
 
 *    *   2
 
-    *   Betriebliche und tech-
-        nische Kommunikation
-        (§ 3 Abs. 2 Nr. 8)
-
-    *
-        a)  Teil-, Gruppen-, Gesamtzeichnungen und Anordnungspläne lesen und
-            anwenden
-
-
-        b)  technische Skizzen zum Fertigen von Bauteilen erstellen und
-            Stücklisten anfertigen
-
-
-        c)  Normen, insbesondere Toleranz- und Oberflächennormen anwenden
-
-
-        d)  Montage-, Ablauf- und Funktionspläne lesen und anwenden
-
-
-        e)  technische Unterlagen, insbesondere Betriebs- und
-            Bedienungsanleitungen, Anleitungen zum Warten, Prüfen, Fehlersuchen,
-            Montieren, Demontieren und Einstellen von mechanischen, hydraulischen
-            sowie elektrischen und elektronischen Baugruppen und Systemen lesen
-            und anwenden
-
-
-
-
-    *
-    *   3\*)
-
-    *
-    *
-
-*    *
-        f)  Typenschilder und Kennzeichnungen lesen und anwenden
-
-
-        g)  Ersatzteildokumentationen nach Fahrzeug-, Maschinen-, Geräte- und
-            Anlagentyp auswählen, Ersatzteile nach Arbeitsauftrag bestimmen
-
-
-        h)  technische Sachverhalte in Form von Protokollen dokumentieren
-
-
-        i)  Kommunikation mit Lieferanten führen
-
-
-
-
-    *
-    *
-    *   4\*)
-
-    *
-
-*    *   3
-
-    *   Kommunikation mit
-        internen und externen Kunden
-        (§ 3 Abs. 2 Nr. 9)
-
-    *
-        a)  Kunden auf Wartungsarbeiten und -intervalle sowie auf den Nutzen von
-            Service- und Instandhaltungsvereinbarungen hinweisen
-
-
-        b)  Kunden über Bedienung, Funktion und Instandhaltung von Fahrzeugen,
-            Maschinen, Geräten und Anlagen informieren
-
-
-
-
-    *
-    *[^f771332_04_BJNR154500008BJNE001300000]
-   2
-
-    *
-    *
-
-*    *
-        c)  Kunden hinsichtlich technischer und wirtschaftlicher Durchführbarkeit
-            über Einsatz und Instandsetzung von Fahrzeugen, Maschinen, Geräten und
-            Anlagen beraten
-
-
-        d)  Abstimmungen mit Kunden treffen, Änderungswünsche dokumentieren und
-            deren Umsetzung einleiten
-
-
-
-
-    *
-    *
-    *
-    *   4\*)
-
-
-*    *   4
-
-    *   Qualitätsmanagement
-        (§ 3 Abs. 2 Nr. 6)
+    *   Durchführen von qualitätssichernden Maßnahmen
+        (§ 3 Absatz 2 Nummer 6)
 
     *
         a)  Normen und Richtlinien zur Sicherung der Produktqualität beachten und
@@ -1295,7 +1161,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
     *
-    *   2\*)
+    *   2\*
 
     *
     *
@@ -1308,12 +1174,14 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
     *
     *
-    *   2\*)
+    *   2\*
 
     *
 
 *    *
-        d)  Prüf-, Betriebs- und Qualitätsdaten erfassen und bewerten
+        d)  Prüf-, Betriebs- und Qualitätsdaten erfassen und bewerten, Ursachen
+            von Fehlern und Qualitätsmängeln aufzeigen, dokumentieren und zu deren
+            Behebung beitragen
 
 
         e)  Ursachen von Fehlern und Qualitätsmängeln aufzeigen, dokumentieren und
@@ -1325,13 +1193,96 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
     *
-    *   3\*)
+    *   3\*
 
 
-*    *   5
+*    *   3
+
+    *   Betriebliche und technische Kommunikation
+        (§ 3 Absatz 2 Nummer 8)
+
+    *
+        a)  Teil-, Gruppen-, Gesamtzeichnungen und Anordnungspläne lesen und
+            anwenden
+
+
+        b)  technische Skizzen zum Fertigen von Bauteilen erstellen und
+            Stücklisten anfertigen
+
+
+        c)  Normen, insbesondere Toleranz- und Oberflächennormen, anwenden
+
+
+        d)  Montage-, Ablauf- und Funktionspläne lesen und anwenden
+
+
+        e)  technische Unterlagen, insbesondere Betriebs- und
+            Bedienungsanleitungen, Anleitungen zum Warten, Prüfen, Fehlersuchen,
+            Montieren, Demontieren und Einstellen von mechanischen, hydraulischen
+            sowie elektrischen und elektronischen Baugruppen und Systemen, lesen
+            und anwenden
+
+
+        f)  Kunden auf Wartungsarbeiten und -intervalle sowie auf den Nutzen von
+            Service- und Instandhaltungsvereinbarungen hinweisen
+
+
+        g)  Kunden über Bedienung, Funktion und Instandhaltung von Fahrzeugen,
+            Maschinen, Geräten und Anlagen informieren
+
+
+
+
+    *
+    *   5\*
+
+    *
+    *
+
+*    *
+        h)  Typenschilder und Kennzeichnungen lesen und anwenden
+
+
+        i)  Ersatzteildokumentationen nach Fahrzeug-, Maschinen-, Geräte- und
+            Anlagentyp auswählen, Ersatzteile nach Arbeitsauftrag bestimmen
+
+
+        j)  technische Sachverhalte in Form von Protokollen dokumentieren
+
+
+        k)  Kommunikation mit Lieferanten führen
+
+
+
+
+    *
+    *
+    *   4\*
+
+    *
+
+*    *
+        l)  Kunden über Einsatz und Instandsetzung von Fahrzeugen, Maschinen,
+            Geräten und Anlagen beraten
+
+
+        m)  Abstimmungen mit Kunden treffen, Änderungswünsche dokumentieren und
+            deren Umsetzung einleiten
+
+
+
+
+    *
+    *
+    *
+    *[^F785852_05_BJNR154500008BJNE001301360]
+   4
+
+
+*    *   4
 
     *   Messen und Prüfen
-        (§ 3 Abs. 2 Nr. 13)
+        (§ 3 Absatz 2 Nummer 12)
 
     *
         a)  Form- und Lageabweichungen von Werkstücken und Bauteilen, insbesondere
@@ -1342,7 +1293,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
     *
-    *   2\*)
+    *   2\*
 
     *
     *
@@ -1361,14 +1312,13 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
     *
-    *   6\*)
+    *   6\*
 
 
-*    *   6
+*    *   5
 
-    *   Fügen, Trennen,
-        Umformen
-        (§ 3 Abs. 2 Nr. 14)
+    *   Fügen, Trennen, Umformen
+        (§ 3 Absatz 2 Nummer 13)
 
     *
         a)  Fügen
@@ -1395,21 +1345,6 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
                 fördernden Medien, des Druckes und der Temperatur herstellen
 
 
-
-
-
-
-
-    *
-    *   3
-
-    *
-    *
-
-*    *
-    *
-    *
-        *
             gg) Lötwerkzeuge, Lote, Flussmittel nach Eigenschaften und
                 Verwendungszweck auswählen; Bleche, Profile und Rohre aus
                 unterschiedlichen Werkstoffen unter Beachtung der
@@ -1447,8 +1382,6 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
 
-
-
         b)  Trennen
 
             aa) Bleche und Profile aus Stahl thermisch trennen
@@ -1475,16 +1408,15 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
     *
-    *   6
+    *   9
 
     *
     *
 
-*    *   7
+*    *   6
 
-    *   Manuelles und maschi-
-        nelles Bearbeiten
-        (§ 3 Abs. 2 Nr. 15)
+    *   Manuelles und maschinelles Bearbeiten
+        (§ 3 Absatz 2 Nummer 14)
 
     *
         a)  Maschinenwerte von handgeführten und ortsfesten Maschinen bestimmen
@@ -1523,11 +1455,11 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
 
-*    *   8
+*    *   7
 
     *   Warten, Prüfen und Einstellen von Fahrzeugen, Systemen und
         Betriebseinrichtungen
-        (§ 3 Abs. 2 Nr. 16)
+        (§ 3 Absatz 2 Nummer 15)
 
     *
         a)  Motor- und Getriebeöle, Brems- und Hydraulikflüssigkeiten, Schmier-
@@ -1563,12 +1495,11 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
     *
 
-*    *   9
+*    *   8
 
-    *   Eingrenzen und
-        Bestimmen von Fehlern, Störungen und deren
-        Ursachen sowie Beurteilen von Schäden
-        (§ 3 Abs. 2 Nr. 17)
+    *   Eingrenzen und Bestimmen von Fehlern, Störungen und deren Ursachen
+        sowie Beurteilen von Schäden
+        (§ 3 Absatz 2 Nummer 16)
 
     *
         a)  Fehler und Störungen unter Beachtung von Kundenangaben durch
@@ -1594,7 +1525,8 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
         f)  Ursachen von Fehlern, Störungen und Schäden bestimmen und
             dokumentieren sowie Gewährleistungs- und Regulierungsansprüche
-            dokumentieren und weiterleiten
+            dokumentieren
+            und weiterleiten
 
 
 
@@ -1605,10 +1537,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
     *
 
-*    *   10
+*    *   9
 
     *   Instandsetzen von Fahrzeugen, Systemen und Betriebseinrichtungen
-        (§ 3 Abs. 2 Nr. 18)
+        (§ 3 Absatz 2 Nummer 17)
 
     *
         a)  Verschleißteile nach Wartungs- und Instandhaltungsplänen im Rahmen der
@@ -1628,17 +1560,6 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
         d)  Kühl-, Lüftungs-, Pumpen- und Heizsysteme instand setzen
 
 
-
-
-    *
-    *
-    *
-    *   16
-
-
-*    *
-    *
-    *
         e)  elektrisch und elektronisch betätigte Einrichtungen sowie
             Kontrolleinrichtungen instand setzen
 
@@ -1658,15 +1579,14 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *
     *
     *
-    *
+    *   16
 
-*    *   11
 
-    *   Prüfen, Einstellen und
-        Anschließen von mecha-
-        nischen, hydraulischen, pneumatischen, elektrischen und elektronischen
-        Anlagen und Systemen
-        (§ 3 Abs. 2 Nr. 19)
+*    *   10
+
+    *   Prüfen, Einstellen und Anschließen von mechanischen, hydraulischen,
+        pneumatischen, elektrischen und elektronischen Anlagen und Systemen
+        (§ 3 Absatz 2 Nummer 18)
 
     *
         a)  elektrische und elektronische Bauteile und Baugruppen nach
@@ -1723,23 +1643,23 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
             unter Druck prüfen und Undichtigkeiten beseitigen
 
 
-        k)  kundenspezifische Einstelldaten an mechanischen, hydraulischen und
+        j)  kundenspezifische Einstelldaten an mechanischen, hydraulischen und
             elektronischen Bauteilen und Steuerungen, insbesondere mit
             Datenverarbeitungsgeräten, einstellen
 
 
-        l)  Fahrwerksgeometrie, insbesondere Lenkgeometrie, vermessen, einstellen
+        k)  Fahrwerksgeometrie, insbesondere Lenkgeometrie, vermessen, einstellen
             und dokumentieren
 
 
-        m)  mechanische und hydraulische Bremsanlagen auf Einzel- und
+        l)  mechanische und hydraulische Bremsanlagen auf Einzel- und
             Gesamtfunktion prüfen und einstellen
             oder
             Druckluftsysteme, insbesondere für Bremsanlagen, auf Einzel- und
             Gesamtfunktion prüfen und einstellen
 
 
-        n)  Druckluftversorgungssysteme auf Funktionen, Leckverluste und
+        m)  Druckluftversorgungssysteme auf Funktionen, Leckverluste und
             Betriebssicherheit prüfen und einstellen
 
 
@@ -1751,11 +1671,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   11
 
 
-*    *   12
+*    *   11
 
-    *   Prüfen von Abgasen
-        und Einrichtungen zur Emissionsminderung
-        (§ 3 Abs. 2 Nr. 20)
+    *   Prüfen von Abgasen und Einrichtungen zur Emissionsminderung
+        (§ 3 Absatz 2 Nummer 19)
 
     *
         a)  Istwert der Abgaszusammensetzung ermitteln und mit Sollwert
@@ -1773,10 +1692,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   4
 
 
-*    *   13
+*    *   12
 
     *   Installieren von Maschinen und Anlagen
-        (§ 3 Abs. 2 Nr. 21)
+        (§ 3 Absatz 2 Nummer 20)
 
     *
         a)  Arbeitsplatz auf Montagestellen unter besonderer Beachtung des Feuer-
@@ -1820,7 +1739,7 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
             Rahmenbedingungen prüfen und in Betrieb nehmen
 
 
-        k)  Betriebsdaten bei der Inbetriebnahme ermitteln, mit vorgegebenen
+        j)  Betriebsdaten bei der Inbetriebnahme ermitteln, mit vorgegebenen
             Werten vergleichen, auf Sollwerte einstellen und Übergabeprotokoll
             erstellen
 
@@ -1833,12 +1752,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   10
 
 
-*    *   14
+*    *   13
 
-    *   Herstellen und Prüfen
-        von elektrischen
-        Stromanschlüssen
-        (§ 3 Abs. 2 Nr. 22)
+    *   Herstellen und Prüfen von elektrischen Stromanschlüssen
+        (§ 3 Absatz 2 Nummer 21)
 
     *
         a)  Unfallverhütungsvorschriften im Niederspannungsbereich für Innen- und
@@ -1879,10 +1796,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   5
 
 
-*    *   15
+*    *   14
 
     *   Ausrüsten und Umrüsten mit Zubehör und Zusatzeinrichtungen
-        (§ 3 Abs. 2 Nr. 23)
+        (§ 3 Absatz 2 Nummer 22)
 
     *
         a)  Zubehör und Zusatzeinrichtungen für den Einbau vorbereiten,
@@ -1905,11 +1822,11 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   6
 
 
-*    *   16
+*    *   15
 
-    *   In- und Außerbetrieb-
-        nehmen von Fahrzeugen, Maschinen, Geräten und Anlagen
-        (§ 3 Abs. 2 Nr. 24)
+    *   In- und Außerbetriebnehmen von Fahrzeugen, Maschinen, Geräten und
+        Anlagen
+        (§ 3 Absatz 2 Nummer 23)
 
     *
         a)  Maßnahmen zur Entkonservierung treffen und durchführen
@@ -1940,10 +1857,10 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
     *   3
 
 
-*    *   17
+*    *   16
 
     *   Übergeben von Fahrzeugen, Maschinen, Geräten und Anlagen an Kunden
-        (§ 3 Abs. 2 Nr. 25)
+        (§ 3 Absatz 2 Nummer 24)
 
     *
         a)  Kunden auf die Bedienungsanleitung und die allgemeine
@@ -1970,10 +1887,12 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
     Ausbildungsinhalten zu vermitteln.
-[^f771332_01_BJNR154500008BJNE001300000]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+[^F785852_01_BJNR154500008BJNE001301360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
     Ausbildungsinhalten zu vermitteln.
-[^f771332_02_BJNR154500008BJNE001300000]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+[^F785852_02_BJNR154500008BJNE001301360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
     Ausbildungsinhalten zu vermitteln.
-[^f771332_03_BJNR154500008BJNE001300000]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+[^F785852_03_BJNR154500008BJNE001301360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
     Ausbildungsinhalten zu vermitteln.
-[^f771332_04_BJNR154500008BJNE001300000]: 
+[^F785852_04_BJNR154500008BJNE001301360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+    Ausbildungsinhalten zu vermitteln.
+[^F785852_05_BJNR154500008BJNE001301360]: 

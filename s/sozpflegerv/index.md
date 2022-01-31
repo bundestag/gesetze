@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 2157
 
-Geändert durch
-:   Art. 1 V v. 7.6.1995 I 794
+Zuletzt geändert durch
+:   Art. 9 G v. 17.7.2017 I 2581
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 wird geleistet für den Besuch von Ausbildungsstätten
 
 1.  für Dorfhelfer, Altenpflegehelfer, Alten-, Familien-, Haus- und
-    Heilerziehungspfleger,
+    Heilerziehungspfleger, Pflegefachfrauen und Pflegefachmänner,
 
 
 2.  für Fachaltenpfleger.

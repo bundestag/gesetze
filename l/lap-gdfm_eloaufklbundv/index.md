@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2057
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 23 V v. 12.2.2009 I 320
+:   Art. 20 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -760,7 +760,8 @@ Ausführung angekündigt. Der Leistungsnachweis wird von der oder dem
 Lehrenden nach § 31 bewertet und der oder dem Vorgesetzten oder der
 Leitung der jeweiligen Verwaltungsfachschule vorgelegt. Diese können
 Rangpunkte ändern, um eine einheitliche Bewertung sicherzustellen;
-eine Änderung der Rangpunktzahl ist schriftlich zu begründen.
+eine Änderung der Rangpunktzahl ist schriftlich oder elektronisch zu
+begründen.
 
 (8) Die Leistungsnachweise sollen spätestens zwei Wochen vor dem Ende
 des jeweiligen Ausbildungsabschnitts erbracht sein. Wer einen
@@ -787,14 +788,14 @@ Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
 Anwärter während der Praktika wird für jedes Ausbildungsgebiet, dem
 Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für
-vier Wochen zugewiesen werden, eine schriftliche Bewertung nach § 31
-abgegeben.
+vier Wochen zugewiesen werden, eine schriftliche oder elektronische
+Bewertung nach § 31 abgegeben.
 
 (2) Die Bewertungen nach Absatz 1 werden auf der Grundlage eines
 Entwurfs mit den Anwärterinnen und Anwärtern besprochen. Sie sind
 ihnen zu eröffnen. Die Anwärterinnen und Anwärter erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 (3) Zum Abschluss des Praktikums III erstellen die
 Ausbildungsbeauftragten der Bedarfsträger ein zusammenfassendes
@@ -974,10 +975,11 @@ nicht vor der endgültigen Bewertung der Prüfungsarbeiten bekannt
 gegeben werden.
 
 (6) Die Prüfungsarbeiten werden unter Aufsicht gefertigt. Die
-Aufsichtführenden fertigen eine Niederschrift und vermerken darin die
-Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit,
-in Anspruch genommene Prüfungserleichterungen im Sinne des § 11 sowie
-etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
+Aufsichtführenden fertigen ein schriftliches oder elektronisches
+Protokoll und vermerken darin die Zeitpunkte des Beginns, der
+Unterbrechung und der Abgabe der Arbeit, in Anspruch genommene
+Prüfungserleichterungen im Sinne des § 11 sowie etwaige besondere
+Vorkommnisse.
 
 (7) Jede Prüfungsarbeit wird von zwei Prüfenden nach einem vorher von
 der Prüfungskommission festgelegten Bewertungsmaßstab unabhängig
@@ -1029,8 +1031,9 @@ Das Ergebnis der mündlichen Prüfung ist in einer
 Durchschnittspunktzahl auszudrücken, die sich aus der Summe der
 Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
-(5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der Prüfungskommission unterschreiben.
+(5) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 29 Verhinderung, Rücktritt, Säumnis
@@ -1352,8 +1355,8 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz
 mündlich.
 
-(4) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
-zu fertigen.
+(4) Über das Gesamtergebnis der Laufbahnprüfung ist ein schriftliches
+oder elektronisches Protokoll zu fertigen.
 
 
 ### § 33 Zeugnis
@@ -1558,7 +1561,7 @@ der oder dem jeweiligen hauptamtlich Lehrenden bewertet und der
 Leitung der Abteilung Wehrtechnik der Bundesakademie für
 Wehrverwaltung und Wehrtechnik vorgelegt. Diese kann die Rangpunkte
 ändern, um einen einheitlichen Bewertungsmaßstab sicherzustellen; eine
-Änderung ist schriftlich zu begründen.
+Änderung ist schriftlich oder elektronisch zu begründen.
 
 (4) Am Ende der Fachausbildung werden in einer Bewertung, die mit
 einer Note und einer Rangpunktzahl abschließen muss, die erzielten

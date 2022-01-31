@@ -195,8 +195,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 5 Absatz 1)
 
-### Anlage 1 (zu § 5 Absatz 1) Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden deutschen Städte und Gemeinden
+### Anlage 1 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden deutschen Städte und Gemeinden
 
 (Fundstelle: BGBl. I 2010, 2140 - 2149)
 
@@ -3757,8 +3758,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 5 Absatz 1)
 
-### Anlage 2 (zu § 5 Absatz 1) Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden französischen Städte und Gemeinden
+### Anlage 2 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe b des Abkommens zählenden französischen Städte und Gemeinden
 
 (Fundstelle: BGBl. I 2010, 2150 - 2169)
 
@@ -9365,8 +9367,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 5 Absatz 2)
 
-### Anlage 3 (zu § 5 Absatz 2) Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe c des Abkommens zählenden Städte und Gemeinden in Baden-Württemberg und Rheinland-Pfalz
+### Anlage 3 Aufstellung der zum Grenzgebiet im Sinn des Artikels 13 Absatz 5 Buchstabe c des Abkommens zählenden Städte und Gemeinden in Baden-Württemberg und Rheinland-Pfalz
 
 (Fundstelle: BGBl. I 2010, 2170 - 2182)
 

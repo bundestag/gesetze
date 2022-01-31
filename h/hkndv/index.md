@@ -1,6 +1,6 @@
 ---
-Title: Durchführungsverordnung über Herkunftsnachweise für Strom aus erneuerbaren
-  Energien
+Title: Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus
+  erneuerbaren Energien
 jurabk: HkNDV
 layout: default
 origslug: hkndv
@@ -8,13 +8,16 @@ slug: hkndv
 
 ---
 
-# Durchführungsverordnung über Herkunftsnachweise für Strom aus erneuerbaren Energien (HkNDV)
+# Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien (HkNDV)
 
 Ausfertigungsdatum
 :   2012-10-15
 
 Fundstelle
 :   BGBl I: 2012, 2147
+
+Zuletzt geändert durch
+:   Art. 126 G v. 29.3.2017 I 626
 
 [^F778557_01_BJNR214700012]:     Diese Verordnung dient der Umsetzung der Richtlinie 2009/28/EG des
     Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung
@@ -79,7 +82,7 @@ Im Sinne dieser Verordnung bedeutet:
     sind, können sie auch selbst Nutzerinnen oder Nutzer sein;
 
 
-5.  Register: Herkunftsnachweisregister nach § 55 Absatz 3 des
+5.  Register: Herkunftsnachweisregister nach § 79 Absatz 3 des
     Erneuerbare-Energien-Gesetzes;
 
 
@@ -90,9 +93,7 @@ Im Sinne dieser Verordnung bedeutet:
 
 
 7.  Registerverwaltung: das Umweltbundesamt als zuständige Stelle gemäß §
-    55 Absatz 4 des Erneuerbare-Energien-Gesetzes oder eine nach § 4 der
-    Herkunftsnachweisverordnung mit dem Betrieb des Registers beliehene
-    juristische Person;
+    79 Absatz 4 des Erneuerbare-Energien-Gesetzes;
 
 
 8.  Umweltgutachter oder Umweltgutachterorganisation:
@@ -314,22 +315,21 @@ auf dem Konto der Anlagenbetreiberin oder des Anlagenbetreibers, wenn
 
 
 5.  für die erzeugte Strommenge für den Betreiber von hocheffizienten KWK-
-    Anlagen im Sinne des § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes
-    von der zuständigen Stelle noch kein Herkunftsnachweis gemäß § 9a des
+    Anlagen im Sinne des § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes
+    von der zuständigen Stelle noch kein Herkunftsnachweis gemäß § 31 des
     Kraft-Wärme-Kopplungsgesetzes für Strom, der in Kraft-Wärme-Kopplung
     erzeugt wurde, ausgestellt wurde,
 
 
-6.  für die erzeugte Strommenge aus erneuerbaren Energien keine Vergütung
-    nach § 16 des Erneuerbare-Energien-Gesetzes in Anspruch genommen und
-    die Strommenge nicht nach § 33b Nummer 1 des Erneuerbare-Energien-
-    Gesetzes vermarktet worden ist und der Netzbetreiber entsprechende
-    Daten gemäß § 22 übermittelt hat,
+6.  für die erzeugte Strommenge aus erneuerbaren Energien keine Zahlung
+    nach § 19 des Erneuerbare-Energien-Gesetzes in Anspruch genommen
+    worden ist und der Netzbetreiber entsprechende Daten gemäß § 22
+    übermittelt hat,
 
 
 7.  der Herkunftsnachweis bei der Ausstellung nicht wegen Zeitablaufs
-    gemäß § 3 Absatz 4 der Herkunftsnachweisverordnung sowie § 17 Absatz 5
-    Satz 1 bereits entwertet werden müsste,
+    gemäß § 11 Absatz 2 der Erneuerbare-Energien-Verordnung sowie § 17
+    Absatz 5 Satz 1 bereits entwertet werden müsste,
 
 
 8.  ein Umweltgutachter oder eine Umweltgutachterorganisation bei Anlagen,
@@ -356,10 +356,8 @@ auf Ausstellung der Herkunftsnachweise anzugeben, ob und auf welche
 Weise die Strommenge, für die Herkunftsnachweise beantragt werden,
 staatlich gefördert wurde. Der Anlagenbetreiberin oder dem
 Anlagenbetreiber ist es jedoch untersagt, einen Herkunftsnachweis zu
-beantragen, wenn für die erzeugte Strommenge eine Vergütung nach § 16
-des Erneuerbare-Energien-Gesetzes in Anspruch genommen oder die
-Strommenge nach § 33b Nummer 1 des Erneuerbare-Energien-Gesetzes
-vermarktet worden ist.
+beantragen, wenn für die erzeugte Strommenge eine Zahlung nach § 19
+des Erneuerbare-Energien-Gesetzes in Anspruch genommen worden ist.
 
 (4) Der Anlagenbetreiberin oder dem Anlagenbetreiber ist es untersagt,
 einen Herkunftsnachweis für die erzeugte Strommenge zu beantragen, für
@@ -414,8 +412,8 @@ lassen.
 #### § 8 Inhalt des Herkunftsnachweises
 
 (1) Ein von der Registerverwaltung ausgestellter Herkunftsnachweis
-erhält neben den Angaben nach § 2 der Herkunftsnachweisverordnung die
-folgenden weiteren Angaben:
+erhält neben den Angaben nach § 9 der Erneuerbare-Energien-Verordnung
+die folgenden weiteren Angaben:
 
 1.  die Registerverwaltung als ausstellende Stelle,
 
@@ -507,8 +505,8 @@ Registerverwaltung die folgenden Daten elektronisch übermittelt:
 
 
 2.  Standort der Anlage mit Straße, Hausnummer, Postleitzahl, Ort,
-    Landkreis, Bundesland, Flurstück oder bei Offshore-Anlagen im Sinne
-    des § 3 Nummer 9 des Erneuerbare-Energien-Gesetzes mit den
+    Landkreis, Bundesland, Flurstück oder bei Windenergieanlagen auf See
+    nach § 3 Nummer 7 des Windenergie-auf-See-Gesetzes mit den
     geografischen Koordinaten,
 
 
@@ -605,11 +603,11 @@ Registerverwaltung die folgenden Daten elektronisch übermittelt:
 
 #### § 11 Umweltgutachtereinsatz bei Anlagenregistrierung
 
-(1) Folgende Anlagen mit einer Leistung über
-100 Kilowatt              werden nur registriert, wenn die
-Anlagenbetreiberin oder der Anlagenbetreiber die Richtigkeit der gemäß
-§ 10 Absatz 2 übermittelten Daten durch einen Umweltgutachter oder
-eine Umweltgutachterorganisation bestätigen lässt:
+(1) Folgende Anlagen mit einer Leistung über 100 Kilowatt werden nur
+registriert, wenn die Anlagenbetreiberin oder der Anlagenbetreiber die
+Richtigkeit der gemäß § 10 Absatz 2 übermittelten Daten durch einen
+Umweltgutachter oder eine Umweltgutachterorganisation bestätigen
+lässt:
 
 1.  Anlagen, die Strom aus Biomasse erzeugen und neben erneuerbaren
     Energien auch sonstige Energieträger einsetzen dürfen, und
@@ -619,13 +617,13 @@ eine Umweltgutachterorganisation bestätigen lässt:
     Antrag auf Registrierung insgesamt höchstens sechs Monate
 
     a)  eine Vergütung nach dem Erneuerbare-Energien-Gesetz oder eine
-        Marktprämie nach § 33g des Erneuerbare-Energien-Gesetzes erhalten hat
-        oder
+        Marktprämie nach dem Erneuerbare-Energien-Gesetz erhalten hat oder
 
 
     b)  zum Zwecke der Verringerung der EEG-Umlage durch ein
         Elektrizitätsversorgungsunternehmen nach § 39 des Erneuerbare-
-        Energien-Gesetzes direkt vermarktet wurde.
+        Energien-Gesetzes in der am 31. Juli 2014 geltenden Fassung und § 104
+        Absatz 2 des Erneuerbare-Energien-Gesetzes direkt vermarktet wurde.
 
 
 
@@ -941,8 +939,8 @@ ihre Richtigkeit zu prüfen, soweit der Kontoinhaberin und dem
 Kontoinhaber diese Prüfung mit angemessenem Aufwand möglich ist.
 
 (2) Kontoinhaberinnen und Kontoinhaber sind unbeschadet der
-Verpflichtung der Registerverwaltung nach § 1 Absatz 4 der
-Herkunftsnachweisverordnung verpflichtet, auch selbst alle
+Verpflichtung der Registerverwaltung nach § 7 Absatz 4 der
+Erneuerbare-Energien-Verordnung verpflichtet, auch selbst alle
 erforderlichen Maßnahmen zu treffen, um den Zugriff von unbefugten
 Dritten auf ihr Konto zu verhindern. Wird der Verlust oder der
 Diebstahl eines Authentifizierungsinstruments, die missbräuchliche
@@ -993,10 +991,9 @@ Kalendermonat in viertelstündlicher Auflösung zu übermitteln. Für
 andere Anlagen sind die Daten nach Satz 1 nach Ablesung zum 28. Tag
 des auf die Ablesung folgenden Monats, jedoch mindestens einmal
 jährlich zu übermitteln. Die Pflicht zur Übermittlung besteht nur,
-sofern der Strom aus der Anlage nicht nach § 33b Nummer 1 des
-Erneuerbare-Energien-Gesetzes direkt vermarktet wird und für den Strom
-aus der Anlage nicht die Vergütung nach § 16 des Erneuerbare-Energien-
-Gesetzes gezahlt wird.
+sofern für den Strom aus der Anlage keine Zahlung nach § 19 oder § 50
+des Erneuerbare-Energien-Gesetzes in der für die Anlage jeweils
+geltenden Fassung erfolgt.
 
 (3) Soweit Strom aus der Anlage in ein Netz eingespeist wird, das kein
 Netz für die allgemeine Versorgung ist, und dieser Strom von
@@ -1014,11 +1011,11 @@ eine beim Register registrierte Anlage unmittelbar oder mittelbar
 angeschlossen ist, hat der Registerverwaltung unverzüglich, nachdem
 eine Registrierung der Anlage nach § 10 beantragt worden ist,
 mitzuteilen, ob für den von der Anlage erzeugten und ins Netz
-eingespeisten Strom eine Vergütung nach dem Erneuerbare-Energien-
-Gesetz beansprucht wird oder ob der Strom nach § 33b Nummer 1, 2 oder
-3 des Erneuerbare-Energien-Gesetzes vermarktet wird. Auch eine
-Änderung der Vermarktungsform ist der Registerverwaltung unverzüglich
-mitzuteilen.
+eingespeisten Strom eine Zahlung nach dem Erneuerbare-Energien-Gesetz
+beansprucht und in welcher Veräußerungsform im Sinne des § 21b Absatz
+1 des Erneuerbare-Energien-Gesetzes der Strom veräußert wird. Auch
+eine Änderung der Veräußerungsform ist der Registerverwaltung
+unverzüglich mitzuteilen.
 
 (5) Die Übermittlung und die Mitteilung der Daten erfolgt
 elektronisch; die Registerverwaltung kann das Format und den
@@ -1104,14 +1101,14 @@ Unterlagen und Daten auf Verlangen zur Verfügung zu stellen.
 
 (2) Für die Bestätigung muss der Umweltgutachter oder die
 Umweltgutachterorganisation unverzüglich nach der Begutachtung die
-wesentlichen Erkenntnisse und Schlussfolgerungen schriftlich in einem
-Gutachten niederlegen. Das Gutachten muss in nachvollziehbarer Weise
-Inhalt und Ergebnis der Prüfung erkennen lassen. Der Umweltgutachter
-oder die Umweltgutachterorganisation hat die Bestätigung in die von
-der Registerverwaltung zur Verfügung gestellten elektronischen
-Formularvorlagen einzugeben und dieser zu übermitteln. Das der
-Bestätigung zugrunde liegende Gutachten ist der Registerverwaltung auf
-Anfrage elektronisch zu übermitteln.
+wesentlichen Erkenntnisse und Schlussfolgerungen schriftlich oder
+elektronisch in einem Gutachten niederlegen. Das Gutachten muss in
+nachvollziehbarer Weise Inhalt und Ergebnis der Prüfung erkennen
+lassen. Der Umweltgutachter oder die Umweltgutachterorganisation hat
+die Bestätigung in die von der Registerverwaltung zur Verfügung
+gestellten elektronischen Formularvorlagen einzugeben und dieser zu
+übermitteln. Das der Bestätigung zugrunde liegende Gutachten ist der
+Registerverwaltung auf Anfrage elektronisch zu übermitteln.
 
 (3) Der Umweltgutachter oder die Umweltgutachterorganisation wird bei
 seiner oder ihrer Tätigkeit nach den vorstehenden Absätzen im Auftrag
@@ -1186,7 +1183,7 @@ Stellen übermitteln:
 1.  soweit dies im Einzelfall für deren Aufgabenerfüllung jeweils
     erforderlich ist, an:
 
-    a)  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+    a)  das Bundesministerium für Wirtschaft und Energie,
 
 
     b)  die Bundesnetzagentur,
@@ -1198,8 +1195,8 @@ Stellen übermitteln:
 
 
 
-2.  soweit dies im Einzelfall zur Erfüllung der in § 5 der
-    Herkunftsnachweisverordnung genannten Aufgabe und zur Erfüllung der
+2.  soweit dies im Einzelfall zur Erfüllung der in § 79 Absatz 3 des
+    Erneuerbare-Energien-Gesetzes genannten Aufgabe und zur Erfüllung der
     Berichtspflichten der Bundesrepublik Deutschland jeweils erforderlich
     ist, an:
 
@@ -1231,7 +1228,7 @@ Stellen übermitteln:
 
 
 
-3.  an die nach § 62 Absatz 3 Nummer 3 des Erneuerbare-Energien-Gesetzes
+3.  an die nach § 86 Absatz 3 Nummer 4 des Erneuerbare-Energien-Gesetzes
     für die Verfolgung von Ordnungswidrigkeiten zuständige Stelle, soweit
     dies für die Verfolgung einer Ordnungswidrigkeit nach § 29
     erforderlich ist und konkrete Anhaltspunkte für das Vorliegen einer
@@ -1242,10 +1239,10 @@ Stellen übermitteln:
 
 (2) Die Registerverwaltung darf im Register gespeicherte Daten ferner
 an einen Dritten übermitteln, der zum Betrieb eines Anlagenregisters
-durch eine Rechtsverordnung aufgrund von § 64e Nummer 2 des
-Erneuerbare-Energien-Gesetzes verpflichtet worden ist, soweit dies im
-Einzelfall zum Abgleich der Daten des Registers mit dem
-Anlagenregister durch den Dritten erforderlich ist.
+durch eine Rechtsverordnung aufgrund von § 93 des Erneuerbare-
+Energien-Gesetzes verpflichtet worden ist, soweit dies im Einzelfall
+zum Abgleich der Daten des Registers mit dem Anlagenregister durch den
+Dritten erforderlich ist.
 
 (3) Die Übermittlung der im Register gespeicherten Daten an die
 Stellen nach Absatz 1 Nummer 2 Buchstabe a, c und d ist nur bei
@@ -1264,11 +1261,10 @@ für das Führen des Registers nicht mehr erforderlich sind.
 ## Abschnitt 7 - Sonstige Vorschriften
 
 
-### § 29 Ordnungswidrigkeiten
+### § 29 Bußgeldvorschrift
 
-Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 3 Buchstabe b und c
-des Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder
-fahrlässig
+(1) Ordnungswidrig im Sinne des § 86 Absatz 1 Nummer 4 Buchstabe b des
+Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 6 Absatz 3 Satz 2, Absatz 4 Satz 1 oder Satz 2 einen
     Herkunftsnachweis beantragt,
@@ -1277,38 +1273,44 @@ fahrlässig
 2.  entgegen § 8 Absatz 3 Satz 4 den dort genannten Strom nicht liefert,
 
 
-3.  entgegen § 11 Absatz 4 Satz 2 oder § 24 Absatz 1 Satz 5 Daten nicht,
+3.  entgegen § 16 Absatz 3 oder § 17 Absatz 2 Satz 2 einen Antrag stellt
+    oder
+
+
+4.  entgegen § 17 Absatz 1 Satz 2, Absatz 4, 5 Satz 2 oder Absatz 6 Satz 3
+    einen Herkunftsnachweis verwendet.
+
+
+
+
+(2) Ordnungswidrig im Sinne des § 86 Absatz 1 Nummer 4 Buchstabe c des
+Erneuerbare-Energien-Gesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 11 Absatz 4 Satz 2 oder § 24 Absatz 1 Satz 5 Daten nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
     stellt,
 
 
-4.  entgegen § 12 Absatz 1 oder § 20 die dort genannten Daten oder eine
+2.  entgegen § 12 Absatz 1 oder § 20 die dort genannten Daten oder eine
     Änderung nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig übermittelt,
 
 
-5.  entgegen § 14 Absatz 2 Satz 2 eine Bestätigung nicht richtig oder
+3.  entgegen § 14 Absatz 2 Satz 2 eine Bestätigung nicht richtig oder
     nicht vollständig abgibt,
 
 
-6.  entgegen § 16 Absatz 3 oder § 17 Absatz 2 Satz 2 einen Antrag stellt,
-
-
-7.  entgegen § 17 Absatz 1 Satz 2, Absatz 4, Absatz 5 Satz 2 oder Absatz 6
-    Satz 3 einen Herkunftsnachweis verwendet,
-
-
-8.  entgegen § 21 Absatz 3 oder § 22 Absatz 4 eine Mitteilung nicht, nicht
+4.  entgegen § 21 Absatz 3 oder § 22 Absatz 4 eine Mitteilung nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 
-9.  entgegen § 22 Absatz 1, Absatz 2 Satz 1, 2 oder Satz 3 oder Absatz 5
-    Satz 2 eine dort genannte Angabe nicht, nicht richtig, nicht
-    vollständig, nicht auf die vorgeschriebene Weise oder nicht
-    rechtzeitig übermittelt oder
+5.  entgegen § 22 Absatz 1, 2 Satz 1, 2 oder Satz 3 oder Absatz 5 Satz 2
+    eine dort genannte Angabe nicht, nicht richtig, nicht vollständig,
+    nicht auf die vorgeschriebene Weise oder nicht rechtzeitig übermittelt
+    oder
 
 
-10. entgegen § 25 Absatz 1 Satz 4 eine dort genannte Bestätigung nicht
+6.  entgegen § 25 Absatz 1 Satz 4 eine dort genannte Bestätigung nicht
     oder nicht rechtzeitig übermittelt.
 
 
@@ -1437,11 +1439,11 @@ Fall, wenn sie
 § 30 Absatz 3 und § 31 Absatz 3 sind entsprechend anzuwenden.
 
 (2) Eine von der Teilnahme ausgeschlossene Person kann ihre erneute
-Teilnahme am Register bei der Registerverwaltung schriftlich
-beantragen. Der Antrag wird genehmigt, wenn Tatsachen die Annahme
-rechtfertigen, dass von der ausgeschlossenen Person keine Gefahr für
-die Sicherheit, Richtigkeit und Zuverlässigkeit des Registers mehr
-ausgeht.
+Teilnahme am Register bei der Registerverwaltung schriftlich oder
+elektronisch beantragen. Der Antrag wird genehmigt, wenn Tatsachen die
+Annahme rechtfertigen, dass von der ausgeschlossenen Person keine
+Gefahr für die Sicherheit, Richtigkeit und Zuverlässigkeit des
+Registers mehr ausgeht.
 
 (3) Die Registerverwaltung kann den Zugang von Nutzerinnen und Nutzern
 zum Register sperren, wenn der begründete Verdacht einer nicht

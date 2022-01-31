@@ -15,11 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1971
 
-Neugefasst durch
-:   Bek. v. 26.3.2010 I 331
+V aufgeh. durch
+:   Art. 4 Abs. 2 G v. 18.7.2016 I 1666 mWv 1.10.2021
 
-Geändert durch
-:   Art. 1 V v. 5.4.2011 I 557
+Neugefasst durch
+:   Bek. v. 26.3.2010 I 331;
+
+Zuletzt geändert durch
+:   Art. 1 V v. 9.10.2017 I 3538
+
+V aufgeh. durch
+:   Art. 4 Abs. 2 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 2 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## § 1
@@ -27,14 +33,16 @@ Geändert durch
 (1) Das Paul-Ehrlich-Institut erhebt für seine Entscheidungen über die
 Zulassung eines Arzneimittels, über die Genehmigung einer
 Gewebezubereitung oder eines Arzneimittels für neuartige Therapien,
-über die Freigabe von Chargen sowie für andere Amtshandlungen nach dem
-Arzneimittelgesetz Kosten (Gebühren und Auslagen) nach dieser
-Verordnung.
+über die Freigabe von Chargen sowie für andere individuell
+zurechenbare öffentliche Leistungen nach dem Arzneimittelgesetz
+Gebühren und Auslagen nach dieser Verordnung.
 
-(2) Für die Ablehnung eines Antrags auf Vornahme einer Amtshandlung
-sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer
-Amtshandlung werden Gebühren nach Maßgabe des § 15 des
-Verwaltungskostengesetzes erhoben.
+(2) Für die Ablehnung eines Antrags auf Vornahme einer individuell
+zurechenbaren öffentlichen Leistung sowie in den Fällen der
+Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren
+Leistung werden Gebühren nach Maßgabe des § 15 des
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung erhoben.
 
 
 ## § 2
@@ -580,121 +588,42 @@ Arzneimittelgesetzes oder über eine Genehmigung nach § 21a oder nach §
 
 *    *   5.
 
-    *   die Bearbeitung der Änderung der
-        Zulassung von Arzneimitteln nach
-        der Verordnung (EG) Nr. 1084/2003
-        der Kommission vom 3. Juni 2003
-        über die Prüfung von Änderungen
-        einer Zulassung für Human- und
-        Tierarzneimittel, die von einer zuständigen
-        Behörde eines Mitgliedstaates
-        erteilt wurde (ABl. L 159 vom
-        27\.6.2003, S. 1), bei einer Änderung
+    *   die Bearbeitung der Änderung einer Zulassung von Arzneimitteln bei
 
     *
 
 *    *
     *   a)
 
-    *   im Sinne von Artikel 3 Nummer 2
-        der Verordnung (EG) Nr. 1084/
-        2003 (Typ I A), wenn
+    *   einer geringfügigen Änderung des Typs IA im Sinne von Artikel 2 Nummer
+        2 der Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November
+        2008 über die Prüfung von Änderungen der Zulassungen von Human- und
+        Tierarzneimitteln (ABl. L 334 vom 12.12.2008, S. 7), die zuletzt durch
+        die Verordnung (EU) Nr. 712/2012 (ABl. L 209 vom 4.8.2012, S. 4)
+        geändert worden ist
 
-    *
-
-*    *
-    *
-    *   aa)
-
-    *   die Bundesrepublik Deutschland
-        als Referenzmitgliedstaat
-        angegeben ist
-
-    *   660 Euro,
-
-
-*    *
-    *
-    *   bb)
-
-    *   die Bundesrepublik Deutschland
-        betroffener Mitgliedstaat ist
-
-    *   430 Euro,
+    *   20 Euro bis
+        500 Euro,
 
 
 *    *
     *   b)
 
-    *   im Sinne von Artikel 3 Nummer 2
-        der Verordnung (EG) Nr. 1084/
-        2003 (Typ I B), wenn
+    *   einer geringfügigen Änderung des Typs IB im Sinne von Artikel 2 Nummer
+        5 der Verordnung (EG) Nr. 1234/2008
 
-    *
-
-*    *
-    *
-    *   aa)
-
-    *   die Bundesrepublik Deutschland
-        als Referenzmitgliedstaat
-        angegeben ist
-
-    *   1 250 Euro,
-
-
-*    *
-    *
-    *   bb)
-
-    *   die Bundesrepublik Deutschland
-        betroffener Mitgliedstaat ist
-
-    *   800 Euro,
+    *   50 Euro bis
+        5 050 Euro,
 
 
 *    *
     *   c)
 
-    *   im Sinne von Artikel 3 Nummer 3
-        der Verordnung (EG) Nr. 1084/
-        2003 (Typ II), wenn
+    *   einer größeren Änderung des Typs II im Sinne von Artikel 2 Nummer 3
+        der Verordnung (EG) Nr. 1234/2008
 
-    *
-
-*    *
-    *
-    *   aa)
-
-    *   die Bundesrepublik Deutschland
-        als Referenzmitgliedstaat
-        angegeben ist
-
-    *   mindestens
-        550 Euro,
-        höchstens
-        die Gebühr
-        für eine
-        Zulassung
-        (§ 2 Absatz 1
-        Nummer 1 bis 6),
-
-
-*    *
-    *
-    *   bb)
-
-    *   die Bundesrepublik Deutschland
-        betroffener Mitgliedstaat ist
-
-    *   mindestens
-        500 Euro,
-        höchstens
-        die Gebühr
-        für eine
-        Zulassung
-        (§ 2 Absatz 1
-        Nummer 1 bis 6a).
+    *   50 Euro bis
+        5 350 Euro.
 
 
 
@@ -724,12 +653,12 @@ oder Darreichungsformen gilt § 2 Absatz 2 entsprechend.
 importierten Arzneimitteln der Gebührensatz des Absatzes 1 Nummer 4
 Buchstabe c.
 
-(7) Im Falle des Absatzes 1 Nummer 2 und Nummer 5 Buchstabe c gilt § 2
-Absatz 4 und 5 entsprechend.
+(7) Im Falle des Absatzes 1 Nummer 2 und 5 Buchstabe c gilt § 2 Absatz
+4 und 5 entsprechend.
 
-(8) Liegt eine Änderung nach Absatz 1 Nummer 3 Buchstabe c oder Nummer
-4 Buchstabe b oder nach Absatz 1 Nummer 5 Buchstabe c, soweit es sich
-um die Änderung des Prüfverfahrens handelt, auch im öffentlichen
+(8) Liegt eine Änderung nach Absatz 1 Nummer 3 Buchstabe c, Absatz 1
+Nummer 4 Buchstabe b oder Absatz 1 Nummer 5 Buchstabe c, soweit es
+sich um die Änderung des Prüfverfahrens handelt, auch im öffentlichen
 Interesse, so kann die Gebühr auf ein Viertel ermäßigt werden; führt
 die Änderung zum Ersatz oder zur Vermeidung von Tierversuchen, so kann
 von der Erhebung der Gebühr abgesehen werden.
@@ -743,8 +672,9 @@ angemessen ist.
 
 ## § 4a
 
-(1) Für Amtshandlungen im Zusammenhang mit der klinischen Prüfung sind
-folgende Gebühren zu erheben:
+(1) Für individuell zurechenbare öffentliche Leistungen im
+Zusammenhang mit der klinischen Prüfung sind folgende Gebühren zu
+erheben:
 Genehmigung der klinischen Prüfung nach § 42 Absatz 2 des
 Arzneimittelgesetzes,
 
@@ -914,7 +844,8 @@ wenn die Genehmigung einer Studie mit einem zugelassenen oder nach §
 das außerhalb der in der Fachinformation ausgewiesenen
 Anwendungsbedingungen geprüft werden soll, beantragt wird.
 
-(3) Für weitere Amtshandlungen werden folgende Gebühren erhoben:
+(3) Für weitere individuell zurechenbare öffentliche Leistungen werden
+folgende Gebühren erhoben:
 
 *    *   1.
 
@@ -1028,7 +959,7 @@ Arzneimittelgesetzes sind an Gebühren zu erheben, wenn
 Prüfungsteilnehmer nach § 42 Absatz 3 des Arzneimittelgesetzes in
 Verbindung mit § 13 Absatz 6 der GCP-Verordnung wird eine Gebühr in
 Höhe von
-1 000              Euro erhoben.
+1 000 Euro erhoben.
 
 (3) Für die Bewertung des aktualisierten Berichts über die
 Unbedenklichkeit eines Arzneimittels auf der Grundlage der in § 63c
@@ -1315,8 +1246,9 @@ Institut im Sinne des § 8 Nummer 5 zertifiziert, so beträgt die Gebühr
 
 Die nach den §§ 2 bis 5 zu erhebenden Gebühren können bis auf die
 Hälfte ermäßigt werden, wenn die Bedeutung, der wirtschaftliche Wert
-oder der sonstige Nutzen der Amtshandlung für den Gebührenschuldner
-sowie dessen wirtschaftliche Verhältnisse dies rechtfertigen.
+oder der sonstige Nutzen der individuell zurechenbaren öffentlichen
+Leistung für den Gebührenschuldner sowie dessen wirtschaftliche
+Verhältnisse dies rechtfertigen.
 
 
 ## § 7
@@ -1334,8 +1266,8 @@ den Entwicklungskosten besonders gering ist.
 
 ## § 8
 
-Bei folgenden Amtshandlungen, die auf Antrag vorgenommen werden, sind
-an Gebühren zu erheben für
+Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die
+auf Antrag vorgenommen werden, sind an Gebühren zu erheben für
 
 *    *   1.
 
@@ -1463,13 +1395,13 @@ bis zum 5. August 2004 geltenden Fassung an Gebühren zu erheben:
 
 (2) Die Kostenverordnung in der ab dem 24. Juli 2005 geltenden Fassung
 ist auch anzuwenden auf Fälle, in denen vor dem 24. Juli 2005
-Amtshandlungen im Sinne der §§ 4a und 4b vorgenommen worden sind und
-die Kostenerhebung im Hinblick auf die Ergänzung der Kostenverordnung
-für Amtshandlungen des Paul-Ehrlich-Instituts nach dem
-Arzneimittelgesetz um einen entsprechenden Gebührentatbestand
-vorbehalten wurde und der Antragsteller vor Abschluss der
-Amtshandlungen über die voraussichtliche Gebührenhöhe informiert
-worden ist.
+individuell zurechenbare öffentliche Leistungen im Sinne der §§ 4a und
+4b vorgenommen worden sind und die Gebührenerhebung im Hinblick auf
+die Ergänzung der Kostenverordnung für Amtshandlungen des Paul-
+Ehrlich-Instituts nach dem Arzneimittelgesetz um einen entsprechenden
+Gebührentatbestand vorbehalten wurde und der Antragsteller vor
+Abschluss der Leistungen über die voraussichtliche Gebührenhöhe
+informiert worden ist.
 
 (3) Die Kostenverordnung in der ab dem 24. Juli 2005 geltenden Fassung
 ist weiterhin auch auf Änderungen der Zulassung im Sinne von Artikel 4
@@ -1498,7 +1430,7 @@ nach dem Arzneimittelgesetz angezeigt worden sind.
 
 
 
-2.  Kostenentscheidung
+2.  Gebührenfestsetzung
 
     a)  als unbegründet zurückgewiesen, beträgt die Gebühr 10 Prozent des
         streitigen Betrages, höchstens jedoch 500 Euro, und wenn die
@@ -1528,26 +1460,47 @@ vorgesehenen Gebühr.
 
 ## § 11
 
-Auslagen werden nach Maßgabe des § 10 des Verwaltungskostengesetzes
-erhoben.
+Auslagen werden nach Maßgabe des § 23 Absatz 6 des
+Bundesgebührengesetzes erhoben.
 
 
 ## § 12
 
 (1) Diese Verordnung in der ab dem 4. Juli 2009 geltenden Fassung ist
-auch anzuwenden auf Fälle, in denen vor dem 4. Juli 2009
-Amtshandlungen im Sinne des § 2a vorgenommen worden sind und die
-Kostenerhebung im Hinblick auf die Ergänzung der Kostenverordnung für
-Amtshandlungen des Paul-Ehrlich-Instituts um einen entsprechenden
-Gebührentatbestand vorbehalten und der Antragsteller über die
-voraussichtliche Gebührenhöhe informiert worden ist.
+auch anzuwenden auf Fälle, in denen vor dem 4. Juli 2009 individuell
+zurechenbare öffentliche Leistungen im Sinne des § 2a vorgenommen
+worden sind und die Gebührenerhebung im Hinblick auf die Ergänzung der
+Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts um
+einen entsprechenden Gebührentatbestand vorbehalten und der
+Antragsteller über die voraussichtliche Gebührenhöhe informiert worden
+ist.
 
 (2) Diese Verordnung in der ab dem 12. April 2011 geltenden Fassung
 ist auch anzuwenden auf Fälle, in denen vor dem 12. April 2011
-Amtshandlungen im Sinne des § 4b Absatz 3 des Arzneimittelgesetzes
-vorgenommen worden sind und die Kostenerhebung im Hinblick auf die
-Ergänzung der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-
-Instituts um einen entsprechenden Gebührentatbestand vorbehalten wurde
-und der Antragsteller über die voraussichtliche Gebührenhöhe
-informiert worden ist.
+individuell zurechenbare öffentliche Leistungen im Sinne des § 4b
+Absatz 3 des Arzneimittelgesetzes vorgenommen worden sind und die
+Gebührenerhebung im Hinblick auf die Ergänzung der Kostenverordnung
+für Amtshandlungen des Paul-Ehrlich-Instituts um einen entsprechenden
+Gebührentatbestand vorbehalten wurde und der Antragsteller über die
+voraussichtliche Gebührenhöhe informiert worden ist.
+
+(3) Für die Gebührenerhebung für individuell zurechenbare öffentliche
+Leistungen nach Kapitel II der Verordnung (EG) Nr. 1234/2008, die vor
+dem 13. Oktober 2017 beantragt wurden oder mit deren Bearbeitung vor
+diesem Tag begonnen wurde, die aber noch nicht vollständig erbracht
+wurden, ist die Kostenverordnung für Amtshandlungen des Paul-Ehrlich-
+Instituts nach dem Arzneimittelgesetz in der am 12. Oktober 2017
+geltenden Fassung anzuwenden.
+
+(4) Diese Verordnung in der ab dem 13. Oktober 2017 geltenden Fassung
+ist auch anzuwenden auf Fälle, in denen vor dem 13. Oktober 2017
+individuell zurechenbare öffentliche Leistungen nach Kapitel IIa der
+Verordnung (EG) Nr. 1234/2008 erbracht worden sind und die
+Gebührenfestsetzung unter Hinweis auf die bevorstehende Ergänzung
+dieser Verordnung vorbehalten und der Antragsteller vor Abschluss der
+gebührenpflichtigen Leistung über die voraussichtliche Gebührenhöhe
+informiert worden ist. Satz 1 gilt entsprechend, sofern eine dort
+genannte individuell zurechenbare öffentliche Leistung bereits vor dem
+13\. Oktober 2017 beantragt oder mit deren Bearbeitung vor diesem Tag
+begonnen wurde, die aber noch nicht vollständig erbracht wurde.
 

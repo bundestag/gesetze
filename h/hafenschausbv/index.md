@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
+Title: Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin
 jurabk: HafenSchAusbV
 layout: default
 origslug: hafenschausbv
@@ -7,7 +7,7 @@ slug: hafenschausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin (HafenSchAusbV)
+# Verordnung über die Berufsausbildung zum Hafenschiffer/zur  Hafenschifferin (HafenSchAusbV)
 
 Ausfertigungsdatum
 :   2006-01-20
@@ -345,8 +345,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
 
 (Fundstelle: BGBl. I 2006, 209 - 212)
 

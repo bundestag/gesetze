@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 649
 
-Zuletzt geändert durch
-:   Art. 31 G v. 21.12.2000 I 1956
-
+Stand: Zuletzt geändert Art. 1 V v. 13.3.2020 I 521
 
 ## Eingangsformel
 
@@ -288,9 +286,8 @@ auf Verlangen vorzulegen.
 
 ## § 6 Antragsform
 
-(1) Der Antrag auf Erteilung einer Genehmigung ist schriftlich zu
-stellen. Die Genehmigungsbehörde kann in Einzelfällen Ausnahmen
-zulassen.
+(1) Der Antrag auf Erteilung einer Genehmigung ist in Textform zu
+stellen.
 
 (2) Ist mit der Durchführung eines Beschaffungs- oder
 Instandsetzungsauftrages, den ein in § 11 Abs. 2 Nr. 1, 2 und 3 des
@@ -349,150 +346,84 @@ bestimmte Art und Menge erteilt werden.
 ## § 9 Führung und Inhalt des Kriegswaffenbuches
 
 (1) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat den
-Anfangsbestand (§ 10 Abs. 1), jede Bestandsveränderung und den Bestand
-an den Meldestichtagen (§ 10 Abs. 2) in das Kriegswaffenbuch
-einzutragen. Die Eintragungen sind unverzüglich vorzunehmen. In dem
-Buch darf nicht radiert und keine Eintragung unleserlich gemacht
-werden. Änderungen, deren Beschaffenheit es ungewiß läßt, ob sie bei
-der ursprünglichen Eintragung oder später gemacht worden sind, dürfen
-nicht vorgenommen werden.
+Kriegswaffenbestand zu den nach § 10 Absatz 1 vorgeschriebenen
+Meldestichtagen, jede Bestandsveränderung und jede Beförderung ohne
+Bestandsveränderung in das Kriegswaffenbuch einzutragen. Die
+Eintragungen sind unverzüglich nach einem meldepflichtigen Ereignis
+vorzunehmen und müssen in nachvollziehbarer Weise erfolgen. Jede
+Berichtigung eines Eintrags muss als solche erkennbar sein und den
+ursprünglichen Eintrag unverändert lassen. Das Kriegswaffenbuch kann
+in Papierform oder elektronisch geführt werden.
 
-(2) Für jeden Waffentyp ist ein besonderes Blatt mit der Nummer der
-Kriegswaffenliste anzulegen.
+(2) Für jeden Waffentyp ist ein besonderes Blatt oder im Fall des
+elektronisch geführten Kriegswaffenbuches ein gesonderter Datensatz
+mit der Nummer der Kriegswaffenliste anzulegen.
 
-(3) Bei der Eintragung des Anfangsbestandes sind folgende Angaben zu
-machen:
-
-1.  Stückzahl oder Gewicht
-
-
-2.  Waffennummer
-
-
-3.  Nummer der Genehmigungsurkunde
-
-
-4.  Name und Anschrift des Herstellers.
-
-
-
-
-(4) Bei der Eintragung der Bestandsveränderung sind folgende Angaben
-zu machen:
+(3) Bei der Eintragung einer Bestandsveränderung oder einer
+Beförderung ohne Bestandsveränderung sind folgende Angaben zu machen:
 
 1.  Laufende Nummer und Tag der Eintragung
 
 
-2.  Stückzahl oder Gewicht
+2.  Stückzahl
 
 
 3.  Waffennummer
 
 
-4.  Nummer der Genehmigungsurkunde
+4.  Nummer der Genehmigungsurkunde einschließlich Angabe der
+    Genehmigungsbehörde
 
 
-5.  Grund des Zugangs:
-
-    a)  Herstellung einschließlich Umbau und Wiedergewinnung
+5.  Gründe für Zugang oder Abgang der Kriegswaffe
 
 
-    b)  Dauernder, vorübergehender oder genehmigungsfreier Erwerb
+6.  Name und Anschrift des Herstellers
 
 
-    c)  Einfuhr
-
-
-    d)  Lagerungswechsel
-
-
-    e)  Sonstige Gründe
-
-
-
-
-
-6.  Grund des Abgangs:
-
-    a)  Zerlegung oder Umbau
-
-
-    b)  Dauernde, vorübergehende oder genehmigungsfreie Überlassung
-
-
-    c)  Ausfuhr
-
-
-    d)  Lagerungswechsel
-
-
-    e)  Verschluß
-
-
-    f)  Verlust
-
-
-    g)  Sonstige Gründe
-
-
-
-
-
-7.  Name und Anschrift des Herstellers
-
-
-8.  Name und Anschrift desjenigen, der die tatsächliche Gewalt überlassen
+7.  Name und Anschrift desjenigen, der die tatsächliche Gewalt überlassen
     oder erworben hat
 
 
-9.  Beförderungsmittel
+8.  Beförderungsmittel
 
 
-10. Tag des Zugangs oder Abgangs oder Tag der Beförderung
+9.  Tag des Zugangs oder Abgangs oder Tag der Beförderung
 
 
-11. Name und Anschrift des Beförderers.
+10. Name und Anschrift des Beförderers oder der Beförderer.
 
 
 
 
-(5) Bei der Eintragung des Bestandes an den Meldestichtagen sind
+(4) Bei der Eintragung des Bestandes an den Meldestichtagen sind
 folgende Angaben zu machen:
 
 1.  Laufende Nummer und Tag der Eintragung
 
 
-2.  Stückzahl oder Gewicht.
+2.  Stückzahl
+
+
+3.  Meldestichtag.
 
 
 
 
-(6) An Stellen, die der Anlage des Buches nach zu beschreiben sind,
-dürfen keine leeren Zwischenräume gelassen werden. Sofern bei den
-Eintragungen einzelne Angaben nicht gemacht werden können, ist dies
-unter Angabe der Gründe zu vermerken.
+(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann die
+anzugebenden Gründe des Zugangs und des Abgangs von Kriegswaffen nach
+Absatz 3 Nummer 5 durch Allgemeinverfügung, die im Bundesanzeiger
+bekannt zu machen ist, festlegen.
 
-(7) Wird das Kriegswaffenbuch mit Hilfe der automatischen
-Datenverarbeitung geführt, so sind die Datensätze mit den für das
-Kriegswaffenbuch erforderlichen Angaben unverzüglich zu speichern,
-fortlaufend zu numerieren und nach Ablauf eines jeden Monats in
-Klarschrift auszudrucken. Der Ausdruck ist in Karteiform vorzunehmen.
-Angaben ohne Zahlen dürfen verschlüsselt werden, wenn dem Ausdruck ein
-Verzeichnis zur Entschlüsselung beigegeben wird. Bestände sind auf den
-nächsten Monat vorzutragen. Das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle (BAFA) ist berechtigt, abweichend von Satz 1 den
-Ausdruck der im laufenden Monat gespeicherten Angaben und die Vorlage
-der Klarschrift jederzeit zu verlangen.
-
-(8) Werden zum Zwecke des Erwerbs der tatsächlichen Gewalt über
-Schußwaffen an Stelle von Genehmigungen nach § 2 Abs. 2 des
-Kriegswaffenkontrollgesetzes auf Grund zwischenstaatlicher Verträge
-Erlaubnisse oder Anmeldebescheinigungen der Behörden der
+(6) Werden zum Zwecke des Erwerbs der tatsächlichen Gewalt über
+Kriegswaffen an Stelle von Genehmigungen nach § 2 Abs. 2 des Gesetzes
+über die Kontrolle von Kriegswaffen auf Grund zwischenstaatlicher
+Verträge Erlaubnisse oder Anmeldebescheinigungen der Behörden der
 Stationierungsstreitkräfte vorgelegt, so sind die Zweitschriften der
 Erlaubnisse oder der Anmeldebescheinigungen als Anlage zum
-Kriegswaffenbuch zu nehmen.
+Kriegswaffenbuch zu nehmen oder in diesem zu speichern.
 
-(9) Wer Kriegswaffen innerhalb des Bundesgebietes für einen anderen
+(7) Wer Kriegswaffen innerhalb des Bundesgebietes für einen anderen
 befördert oder Kriegswaffen außerhalb des Bundesgebietes mit deutschen
 Seeschiffen oder Luftfahrzeugen befördert oder im Geltungsbereich des
 Gesetzes keinen Wohnsitz und keine gewerbliche Niederlassung hat, ist
@@ -501,30 +432,57 @@ nicht verpflichtet, ein Kriegswaffenbuch zu führen.
 
 ## § 10 Meldung der Kriegswaffenbestände
 
-(1) Der am 1. Juni 1961 vorhandene Kriegswaffenbestand
-(Anfangsbestand) ist dem Bundesamt für Wirtschaft und Ausfuhrkontrolle
-(BAFA) nach Waffentypen getrennt und mit folgenden Angaben bis zum 31.
-Juli 1961 zu melden:
-
-1.  Stückzahl oder Gewicht
-
-
-2.  Nummer der Genehmigungsurkunde.
-
-
-
-
-(2) Jede Bestandsveränderung und die am 31. März und 30. September
+(1) Jede Bestandsveränderung und die am 31. März und 30. September
 eines jeden Jahres (Meldestichtage) vorhandenen Kriegswaffenbestände
-sind dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach
-Waffentypen getrennt und mit den in § 9 Abs. 4 und 5 vorgeschriebenen
-Angaben binnen zwei Wochen nach den Meldestichtagen zu melden. Dieser
-Meldepflicht genügt, wer eine Durchschrift oder Ablichtung der
-einzelnen Blätter des Kriegswaffenbuches übersendet oder
-gegebenenfalls mitteilt, daß seit dem letzten Meldestichtag keine
-Bestandsveränderung eingetreten ist.
+(Bestandseinträge) sind dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle nach Waffentypen getrennt und mit den in § 9 Absatz 3
+und 4 vorgeschriebenen Angaben binnen zwei Wochen nach den
+Meldestichtagen elektronisch zu melden. Dies gilt auch für den Fall,
+dass seit dem letzten Meldestichtag keine Bestandsveränderung
+eingetreten ist. Der Bestandseintrag ist auch dann anzugeben, wenn der
+Bestand im Meldezeitraum auf Null gesunken ist (Nullmeldung). Bleibt
+der Bestand im hierauf folgenden Meldezeitraum ohne
+Bestandsveränderung bei Null, so bedarf es keiner erneuten
+Nullmeldung. Die Meldepflicht nach Satz 1 gilt entsprechend für
+Beförderungen ohne Bestandsveränderungen.
 
-(3) § 9 Abs. 9 gilt entsprechend.
+(2) § 9 Absatz 7 gilt entsprechend.
+
+(3) Die Meldungen nach Absatz 1 sind beginnend mit dem Meldezeitraum
+ab 1. April 2020 elektronisch zu übermitteln. Hierbei ist auch der
+Anfangsbestand zu melden (Übertragungsinformation). Dabei kann
+einmalig gewählt werden, inwiefern die Nummerierung der
+Bestandseinträge des Kriegswaffenbuches fortgeführt oder anlässlich
+des neuen Meldeverfahrens neu begonnen wird. Das Bundesamt für
+Wirtschaft und Ausfuhrkontrolle kann durch Allgemeinverfügung, die im
+Bundesanzeiger bekannt zu machen ist, festlegen, wie die
+Übertragungsinformationen im Einzelnen ausgestaltet sein müssen.
+
+(4) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat dem
+Bundesamt für Wirtschaft und Ausfuhrkontrolle unverzüglich
+elektronisch zu melden, wenn eine bereits gemeldete Eintragung im
+Kriegswaffenbuch berichtigt oder eine versäumte Eintragung oder
+Meldung nachgeholt wurde. Das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle kann durch Allgemeinverfügung, die im Bundesanzeiger
+bekannt zu machen ist, festlegen, wie die Meldung im Falle einer
+anzeigepflichtigen Korrektur des Kriegswaffenbuches auszugestalten
+ist. Die Verlustmeldung nach § 12 Absatz 6 Satz 1 Nummer 3 des
+Gesetzes über die Kontrolle von Kriegswaffen ist elektronisch
+vorzunehmen.
+
+(5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann auf Antrag
+die Übermittlung der meldepflichtigen Daten in Papierform genehmigen,
+wenn die elektronische Übertragung für den Antragsteller eine
+besondere, nicht zumutbare Belastung darstellen würde. Der Antrag ist
+innerhalb eines Monats nach dem ersten meldepflichtigen Ereignis unter
+Angabe von Gründen zu stellen.
+
+(6) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat die
+Richtigkeit und Vollständigkeit der Meldungen zu prüfen, das Ergebnis
+der Prüfung zu vermerken und mit einer Unterschrift zu versehen. Das
+Dokument ist elektronisch dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle binnen der in Absatz 1 genannten Zeiträume zu
+übermitteln.
 
 
 ## § 11 Aufbewahrungsfristen
@@ -537,7 +495,9 @@ der zuletzt vorgenommenen Eintragung an gerechnet.
 (2) Der Inhaber einer Genehmigung hat die Genehmigungsurkunde so lange
 aufzubewahren, wie er die tatsächliche Gewalt über die in der Urkunde
 genannten Kriegswaffen innehat, mindestens jedoch zehn Jahre vom Tag
-der Ausstellung an gerechnet.
+der Ausstellung an gerechnet. Ebenfalls aufzubewahren sind Unterlagen,
+die als Beleg für die Erfüllung von Nebenbestimmungen oder Auflagen zu
+der Genehmigung dienen.
 
 
 ## § 12 Nicht ausgenutzte Genehmigungen

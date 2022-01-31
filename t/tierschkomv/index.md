@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Tierschutzkommission beim Bundesministerium für Ernährung,
-  Landwirtschaft und Verbraucherschutz
+Title: Verordnung über die Tierschutzkommission beim Bundesministerium für Ernährung
+  und Landwirtschaft
 jurabk: TierSchKomV
 layout: default
 origslug: tierschkomv
@@ -8,7 +8,7 @@ slug: tierschkomv
 
 ---
 
-# Verordnung über die Tierschutzkommission beim Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz (TierSchKomV)
+# Verordnung über die Tierschutzkommission beim Bundesministerium für Ernährung und Landwirtschaft (TierSchKomV)
 
 Ausfertigungsdatum
 :   1987-06-23
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1987, 1557
 
 Zuletzt geändert durch
-:   Art. 418 V v. 31.10.2006 I 2407
+:   Art. 393 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -28,13 +28,13 @@ Bekanntmachung vom 18. August 1986 (BGBl. I S. 1319) wird verordnet:
 
 ## § 1 Aufgaben
 
-Die Tierschutzkommission berät das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz (Bundesministerium) in Fragen des
-Tierschutzes, insbesondere vor dem Erlaß von Rechtsverordnungen und
-allgemeinen Verwaltungsvorschriften nach dem Tierschutzgesetz. Auf
-Ersuchen des Bundesministeriums nimmt sie zu Fällen grundsätzlicher
-Bedeutung bei der Genehmigung von Versuchsvorhaben nach § 15a des
-Tierschutzgesetzes Stellung.
+Die Tierschutzkommission berät das Bundesministerium für Ernährung und
+Landwirtschaft (Bundesministerium) in Fragen des Tierschutzes,
+insbesondere vor dem Erlaß von Rechtsverordnungen und allgemeinen
+Verwaltungsvorschriften nach dem Tierschutzgesetz. Auf Ersuchen des
+Bundesministeriums nimmt sie zu Fällen grundsätzlicher Bedeutung bei
+der Genehmigung von Versuchsvorhaben nach § 43 der Tierschutz-
+Versuchstierverordnung Stellung.
 
 
 ## § 2 Zusammensetzung
@@ -91,10 +91,9 @@ er in die Tagesordnung aufzunehmen.
 
 Das Bundesministerium und seine Beauftragten und - soweit ihre Belange
 berührt sind - je ein Beauftragter der Bundesministerien für
-Wirtschaft und Technologie, für Bildung und Forschung und ein
-Beauftragter der für das Veterinärwesen zuständigen obersten
-Landesbehörden können jederzeit an den Sitzungen der
-Tierschutzkommission teilnehmen.
+Wirtschaft und Energie, für Bildung und Forschung und ein Beauftragter
+der für das Veterinärwesen zuständigen obersten Landesbehörden können
+jederzeit an den Sitzungen der Tierschutzkommission teilnehmen.
 
 
 ## § 7 Sachverständige
@@ -102,8 +101,9 @@ Tierschutzkommission teilnehmen.
 Die Tierschutzkommission kann zu ihren Beratungen weitere
 Sachverständige heranziehen.
 
+Ehrenamtliche Tätigkeit
 
-## § 8 Ehrenamtliche Tätigkeit Verfahrensbestimmungen
+## § 8 Verfahrensbestimmungen
 
 (1) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.
 

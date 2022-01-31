@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1956, 861
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.12.2011 I 2983
+:   Art. 15b G v. 6.5.2019 I 646
 
 
 ## Eingangsformel
@@ -129,9 +129,10 @@ Höhe die Trägerorganisationen festsetzen. Die Stellvertreter des oder
 der Vorsitzenden und der weiteren unparteiischen Mitglieder des
 Gemeinsamen Bundesausschusses können eine pauschale Entschädigung für
 Zeitaufwand außerhalb von Sitzungen erhalten, deren Höhe die
-Trägerorganisationen festsetzen. Die Festsetzung bedarf der Zustimmung
-der Aufsichtsbehörde. § 7 Satz 2 und § 8 Sätze 2 und 3 gelten
-entsprechend.
+Trägerorganisationen festsetzen. Satz 2 gilt entsprechend für die
+Stellvertreter der Vorsitzenden der Landesausschüsse. Die Festsetzung
+bedarf der Zustimmung der Aufsichtsbehörde. § 7 Satz 2 und § 8 Sätze 2
+und 3 gelten entsprechend.
 
 
 ## § 11

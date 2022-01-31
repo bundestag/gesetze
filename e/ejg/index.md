@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 902
 
-Geändert durch
-:   Art. 1 G v. 7.6.2012 I 1270
+Zuletzt geändert durch
+:   Art. 166 V v. 31.8.2015 I 1474
 
 
 
@@ -36,10 +36,11 @@ der Bekämpfung der schweren Kriminalität (ABl. L 63 vom 6.3.2002, S.
 1), der durch den Beschluss 2009/426/JI (ABl. L 138 vom 4.6.2009, S.
 14) geändert worden ist, (Eurojust-Beschluss) zu entsendende deutsche
 Mitglied von Eurojust (nationales Mitglied) wird vom Bundesministerium
-der Justiz benannt und abberufen; die Ernennung erfolgt im Benehmen
-mit den Landesjustizverwaltungen. Die als nationales Mitglied zu
-benennende Person muss die Befähigung zum Richteramt nach dem
-Deutschen Richtergesetz besitzen und soll Bundesbediensteter sein.
+der Justiz und für Verbraucherschutz benannt und abberufen; die
+Ernennung erfolgt im Benehmen mit den Landesjustizverwaltungen. Die
+als nationales Mitglied zu benennende Person muss die Befähigung zum
+Richteramt nach dem Deutschen Richtergesetz besitzen und soll
+Bundesbediensteter sein.
 
 (2) Die Amtszeit des nationalen Mitglieds beträgt mindestens vier
 Jahre, gerechnet vom Tag der Benennung; bekleidet das nationale
@@ -60,13 +61,14 @@ wird.
 
 (3) Bei der Erfüllung der ihm nach dem Eurojust-Beschluss übertragenen
 Aufgaben unterliegt das nationale Mitglied den fachlichen Weisungen
-des Bundesministeriums der Justiz.
+des Bundesministeriums der Justiz und für Verbraucherschutz.
 
 (4) Die oberste Dienstbehörde des nationalen Mitglieds trifft die
 dienstrechtlichen Maßnahmen, die erforderlich sind, um die Umsetzung
 von auf Absatz 1 Satz 1 und Absatz 3 beruhenden Entscheidungen des
-Bundesministeriums der Justiz sicherzustellen, soweit nicht eine
-abweichende Vereinbarung getroffen worden ist.
+Bundesministeriums der Justiz und für Verbraucherschutz
+sicherzustellen, soweit nicht eine abweichende Vereinbarung getroffen
+worden ist.
 
 
 ## § 2 Unterstützende Personen
@@ -78,9 +80,9 @@ benennenden Personen auch von den Ländern vorgeschlagene
 Landesbedienstete sein können.
 
 (2) Aus dem Kreis der unterstützenden Personen benennt das
-Bundesministerium der Justiz im Benehmen mit den
-Landesjustizverwaltungen die Personen, die nach Artikel 2 Absatz 5 des
-Eurojust-Beschlusses zur Vertretung des nationalen Mitglieds
+Bundesministerium der Justiz und für Verbraucherschutz im Benehmen mit
+den Landesjustizverwaltungen die Personen, die nach Artikel 2 Absatz 5
+des Eurojust-Beschlusses zur Vertretung des nationalen Mitglieds
 berechtigt sind.
 
 (3) Die Amtszeit der unterstützenden Personen soll im Regelfall zwei
@@ -89,10 +91,11 @@ Halbsatz und Satz 3 entsprechend.
 
 (4) Bei der Erfüllung der ihnen übertragenen Aufgaben unterliegen die
 unterstützenden Personen den fachlichen Weisungen des
-Bundesministeriums der Justiz und des nationalen Mitglieds. Die von
-den unterstützenden Personen wahrzunehmenden Aufgaben legt das
-nationale Mitglied fest. Das Bundesministerium der Justiz wird über
-die getroffene Aufgabenfestlegung unterrichtet.
+Bundesministeriums der Justiz und für Verbraucherschutz und des
+nationalen Mitglieds. Die von den unterstützenden Personen
+wahrzunehmenden Aufgaben legt das nationale Mitglied fest. Das
+Bundesministerium der Justiz und für Verbraucherschutz wird über die
+getroffene Aufgabenfestlegung unterrichtet.
 
 (5) Soweit nach diesem Gesetz dem nationalen Mitglied Aufgaben
 zugewiesen werden, können diese im Rahmen der nach Absatz 4
@@ -278,21 +281,22 @@ Absatz 1 Satz 1 des Eurojust-Beschlusses zur Übermittlung von
 Informationen an Stellen im Sinne von Artikel 26a Absatz 1 des
 Eurojust-Beschlusses erteilt, die es von deutschen öffentlichen
 Stellen erhalten hat, holt es die Zustimmung des Bundesministeriums
-der Justiz oder einer vom Bundesministerium der Justiz allgemein oder
-für den Einzelfall bezeichneten öffentlichen Stelle des Bundes ein,
-soweit nicht das Bundesministerium der Justiz oder die von ihm
-bezeichnete Stelle auf die Zustimmung verzichtet. Vor der Zustimmung
-ist das Benehmen mit der das Verfahren führenden Staatsanwaltschaft
-und der für die Bewilligung der Rechtshilfe zuständigen Stelle
-herzustellen. Enthalten die Informationen, die das nationale Mitglied
-von dritten Stellen erhalten hat, Angaben zu deutschen
-Staatsangehörigen oder berühren sie sonst wesentliche Belange der
-Bundesrepublik Deutschland, unterrichtet das nationale Mitglied das
-Bundesministerium der Justiz oder die von diesem nach Satz 1
-bezeichnete öffentliche Stelle, bevor es seine Zustimmung nach Artikel
-27 Absatz 1 Satz 1 des Eurojust-Beschlusses zur Übermittlung der
-Informationen an Stellen im Sinne von Artikel 26a Absatz 1 des
-Eurojust-Beschlusses erteilt.
+der Justiz und für Verbraucherschutz oder einer vom Bundesministerium
+der Justiz und für Verbraucherschutz allgemein oder für den Einzelfall
+bezeichneten öffentlichen Stelle des Bundes ein, soweit nicht das
+Bundesministerium der Justiz und für Verbraucherschutz oder die von
+ihm bezeichnete Stelle auf die Zustimmung verzichtet. Vor der
+Zustimmung ist das Benehmen mit der das Verfahren führenden
+Staatsanwaltschaft und der für die Bewilligung der Rechtshilfe
+zuständigen Stelle herzustellen. Enthalten die Informationen, die das
+nationale Mitglied von dritten Stellen erhalten hat, Angaben zu
+deutschen Staatsangehörigen oder berühren sie sonst wesentliche
+Belange der Bundesrepublik Deutschland, unterrichtet das nationale
+Mitglied das Bundesministerium der Justiz und für Verbraucherschutz
+oder die von diesem nach Satz 1 bezeichnete öffentliche Stelle, bevor
+es seine Zustimmung nach Artikel 27 Absatz 1 Satz 1 des Eurojust-
+Beschlusses zur Übermittlung der Informationen an Stellen im Sinne von
+Artikel 26a Absatz 1 des Eurojust-Beschlusses erteilt.
 
 
 ## § 4a Verwaltung von Arbeitsdateien und Index durch das nationale Mitglied
@@ -345,13 +349,13 @@ Strafrechtspflege erforderlich ist und das nationale Mitglied des
 anderen Mitgliedstaates den Zugriff durch nationale Behörden nicht
 verweigert hat. Absatz 3 Satz 3 gilt entsprechend.
 
-(5) Das Bundesministerium der Justiz regelt durch Rechtsverordnung
-nach Anhörung des nationalen Mitglieds, ob und in welchem Umfang neben
-den Eurojust-Anlaufstellen nach Absatz 1 weiteren deutschen Behörden
-im Sinne von Artikel 12 Absatz 2 des Eurojust-Beschlusses, die an das
-Fallbearbeitungssystem angebunden sind, Zugang zu Index und
-Arbeitsdateien und Zugriff auf die darin enthaltenen Datensätze
-gewährt wird.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
+durch Rechtsverordnung nach Anhörung des nationalen Mitglieds, ob und
+in welchem Umfang neben den Eurojust-Anlaufstellen nach Absatz 1
+weiteren deutschen Behörden im Sinne von Artikel 12 Absatz 2 des
+Eurojust-Beschlusses, die an das Fallbearbeitungssystem angebunden
+sind, Zugang zu Index und Arbeitsdateien und Zugriff auf die darin
+enthaltenen Datensätze gewährt wird.
 
 
 ## § 4c Weitergabe von Informationen durch Eurojust-Anlaufstellen
@@ -393,9 +397,9 @@ Satz 2 gilt entsprechend.
 
 (1) Beabsichtigt die ersuchte Stelle einem Ersuchen des Kollegiums
 nach Artikel 7 Absatz 1 Buchstabe a des Eurojust-Beschlusses nicht
-stattzugeben, ist das Bundesministerium der Justiz oder eine von ihm
-allgemein oder für den Einzelfall bezeichnete öffentliche Stelle des
-Bundes zu unterrichten.
+stattzugeben, ist das Bundesministerium der Justiz und für
+Verbraucherschutz oder eine von ihm allgemein oder für den Einzelfall
+bezeichnete öffentliche Stelle des Bundes zu unterrichten.
 
 (2) Vor einer Ablehnung der Erledigung des Ersuchens ist zunächst in
 Beratungen der ersuchten Stelle mit dem nationalen Mitglied zu klären,
@@ -406,12 +410,12 @@ Staatsanwaltschaft, führt im vorbereitenden Verfahren und nach
 rechtskräftigem Abschluss des Verfahrens die zuständige
 Staatsanwaltschaft, im Übrigen der Vorsitzende des mit der Sache
 befassten Gerichts die Beratungen nach Satz 1. Führen die Beratungen
-zu keiner Einigung, ist das Bundesministerium der Justiz oder die von
-ihm bezeichnete öffentliche Stelle an den Beratungen zu beteiligen.
-Handelt es sich bei der ersuchten Stelle um ein Gericht oder eine
-Justizbehörde eines Landes, nimmt auch die Landesjustizverwaltung, zu
-deren Geschäftsbereich das Gericht oder die Justizbehörde gehört, an
-den Beratungen teil.
+zu keiner Einigung, ist das Bundesministerium der Justiz und für
+Verbraucherschutz oder die von ihm bezeichnete öffentliche Stelle an
+den Beratungen zu beteiligen. Handelt es sich bei der ersuchten Stelle
+um ein Gericht oder eine Justizbehörde eines Landes, nimmt auch die
+Landesjustizverwaltung, zu deren Geschäftsbereich das Gericht oder die
+Justizbehörde gehört, an den Beratungen teil.
 
 (3) Eine ablehnende Entscheidung ist von der ersuchten Stelle zu
 begründen. Unter den in Artikel 8 des Eurojust-Beschlusses genannten
@@ -516,34 +520,35 @@ Bedingungen zur Verwendung der von ihnen übermittelten Informationen.
 ## § 7 Nationale Anlaufstellen und Festlegung von Befugnissen
 
 (1) Für die Zwecke der Strafverfolgung kann das Bundesministerium der
-Justiz durch Rechtsverordnung mit Zustimmung des Bundesrates eine oder
-mehrere nationale Anlaufstellen im Sinne von Artikel 12 Abs. 1 des
-Eurojust-Beschlusses benennen oder einrichten (Eurojust-Anlaufstellen)
-sowie die nähere Ausgestaltung der Zusammenarbeit dieser Anlaufstellen
-mit Eurojust und den in § 3 Absatz 4 Satz 2 genannten öffentlichen
-Stellen regeln. Als Anlaufstellen können benannt werden das Bundesamt
-für Justiz, der Generalbundesanwalt beim Bundesgerichtshof, die
-Staatsanwaltschaften bei den Oberlandesgerichten oder sonstige
-deutsche Kontaktstellen des Europäischen Justiziellen Netzes, die
-gemäß der Gemeinsamen Maßnahme vom 29. Juni 1998 zur Einrichtung eines
-Europäischen Justiziellen Netzes (98/428/JI) (ABl. EG Nr. L 191 S. 4)
-errichtet worden sind oder die gemäß dem Beschluss 2008/976/JI des
-Rates vom 16. Dezember 2008 über das Europäische Justizielle Netz
-(ABl. L 348 vom 24.12.2008, S. 130) (EJN-Beschluss) errichtet werden.
-Den Anlaufstellen kann die Zusammenführung und Weiterleitung von
-Informationen übertragen werden, die zur Erfüllung der Eurojust nach
-dem Eurojust-Beschluss übertragenen Aufgaben zwischen den für die
-Strafverfolgung zuständigen Gerichten, Staatsanwaltschaften, anderen
-Behörden, soweit diese Aufgaben der Strafverfolgung wahrnehmen, oder
-sonstigen Justizbehörden und Eurojust übermittelt werden sollen. Zur
-Erfüllung der in Satz 3 bezeichneten Aufgaben kann den Anlaufstellen
-das Recht eingeräumt werden, die Informationen in Arbeitsdateien zu
-verwenden. Dem Schutz personenbezogener Daten ist angemessen Rechnung
-zu tragen.
+Justiz und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung
+des Bundesrates eine oder mehrere nationale Anlaufstellen im Sinne von
+Artikel 12 Abs. 1 des Eurojust-Beschlusses benennen oder einrichten
+(Eurojust-Anlaufstellen) sowie die nähere Ausgestaltung der
+Zusammenarbeit dieser Anlaufstellen mit Eurojust und den in § 3 Absatz
+4 Satz 2 genannten öffentlichen Stellen regeln. Als Anlaufstellen
+können benannt werden das Bundesamt für Justiz, der
+Generalbundesanwalt beim Bundesgerichtshof, die Staatsanwaltschaften
+bei den Oberlandesgerichten oder sonstige deutsche Kontaktstellen des
+Europäischen Justiziellen Netzes, die gemäß der Gemeinsamen Maßnahme
+vom 29. Juni 1998 zur Einrichtung eines Europäischen Justiziellen
+Netzes (98/428/JI) (ABl. EG Nr. L 191 S. 4) errichtet worden sind oder
+die gemäß dem Beschluss 2008/976/JI des Rates vom 16. Dezember 2008
+über das Europäische Justizielle Netz (ABl. L 348 vom 24.12.2008, S.
+130) (EJN-Beschluss) errichtet werden. Den Anlaufstellen kann die
+Zusammenführung und Weiterleitung von Informationen übertragen werden,
+die zur Erfüllung der Eurojust nach dem Eurojust-Beschluss
+übertragenen Aufgaben zwischen den für die Strafverfolgung zuständigen
+Gerichten, Staatsanwaltschaften, anderen Behörden, soweit diese
+Aufgaben der Strafverfolgung wahrnehmen, oder sonstigen Justizbehörden
+und Eurojust übermittelt werden sollen. Zur Erfüllung der in Satz 3
+bezeichneten Aufgaben kann den Anlaufstellen das Recht eingeräumt
+werden, die Informationen in Arbeitsdateien zu verwenden. Dem Schutz
+personenbezogener Daten ist angemessen Rechnung zu tragen.
 
 (2) Soweit Festlegungen nach Artikel 9a Absatz 2 und 4 des Eurojust-
 Beschlusses ohne Gesetz oder Verordnung ergehen können, trifft das
-Bundesministerium der Justiz diese im Einvernehmen mit den Ländern.
+Bundesministerium der Justiz und für Verbraucherschutz diese im
+Einvernehmen mit den Ländern.
 
 
 ## § 8 Auskunft, Berichtigung, Sperrung und Löschung
@@ -551,8 +556,8 @@ Bundesministerium der Justiz diese im Einvernehmen mit den Ländern.
 (1) Soweit Ansprüche von Betroffenen nach Artikel 19 Abs. 1 und
 Artikel 20 Abs. 1 des Eurojust-Beschlusses in der Bundesrepublik
 Deutschland geltend gemacht werden, ist der entsprechende Antrag beim
-Bundesministerium der Justiz einzureichen. Er wird an Eurojust
-weitergeleitet.
+Bundesministerium der Justiz und für Verbraucherschutz einzureichen.
+Er wird an Eurojust weitergeleitet.
 
 (2) Für die Geltendmachung eines Anspruchs auf Auskunft gilt § 19 Abs.
 1 Satz 1 bis 3 und Abs. 7 des Bundesdatenschutzgesetzes entsprechend.
@@ -566,13 +571,13 @@ bis 4, 6 und 7 des Bundesdatenschutzgesetzes entsprechend.
 ## § 9 Gemeinsame Kontrollinstanz
 
 (1) Das deutsche Mitglied der gemeinsamen Kontrollinstanz wird vom
-Bundesministerium der Justiz im Benehmen mit den
-Landesjustizverwaltungen benannt. Die zu benennende Person muss die
-Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzen.
-Das deutsche Mitglied der gemeinsamen Kontrollinstanz ist in der
-Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Es
-untersteht einer Dienstaufsicht nur, soweit nicht seine Unabhängigkeit
-beeinträchtigt wird.
+Bundesministerium der Justiz und für Verbraucherschutz im Benehmen mit
+den Landesjustizverwaltungen benannt. Die zu benennende Person muss
+die Befähigung zum Richteramt nach dem Deutschen Richtergesetz
+besitzen. Das deutsche Mitglied der gemeinsamen Kontrollinstanz ist in
+der Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen.
+Es untersteht einer Dienstaufsicht nur, soweit nicht seine
+Unabhängigkeit beeinträchtigt wird.
 
 (2) Die Amtszeit des deutschen Mitglieds der gemeinsamen
 Kontrollinstanz beträgt mindestens drei Jahre, gerechnet vom Tag der
@@ -580,10 +585,11 @@ Benennung. Eine mehrfache Wiederbenennung ist zulässig. Eine
 Abberufung vor dem in Satz 1 genannten Zeitraum gegen den Willen des
 Mitglieds ist nur durch Entscheidung eines Gerichts möglich. Die §§
 21, 24 Abs. 1 Nr. 2 und 4, Abs. 3 mit der Maßgabe, dass der Antrag auf
-gerichtliche Entscheidung durch das Bundesministerium der Justiz
-gestellt wird, und § 24 Abs. 5 der Verwaltungsgerichtsordnung gelten
-entsprechend. Örtlich zuständig ist das für den Sitz der
-Bundesregierung zuständige Oberverwaltungsgericht.
+gerichtliche Entscheidung durch das Bundesministerium der Justiz und
+für Verbraucherschutz gestellt wird, und § 24 Abs. 5 der
+Verwaltungsgerichtsordnung gelten entsprechend. Örtlich zuständig ist
+das für den Sitz der Bundesregierung zuständige
+Oberverwaltungsgericht.
 
 (3) Die in Ausübung des Amtes als deutsches Mitglied der gemeinsamen
 Kontrollinstanz entstehenden Kosten werden, soweit sie nicht von
@@ -615,15 +621,16 @@ Verordnungen (EG) Nr. 1073/1999 und (Euratom) Nr. 1074/1999 des Rates
 
 (1) Eine Übermittlung personenbezogener Daten nach Artikel 26a Absatz
 9 des Eurojust-Beschlusses ist nur mit vorheriger Zustimmung des
-Bundesministeriums der Justiz oder einer von ihm allgemein oder für
-den Einzelfall bezeichneten öffentlichen Stelle des Bundes zulässig.
-Die Zustimmung bedarf des Einvernehmens mit dem Bundesministerium des
-Innern. Das nationale Mitglied kann von der Einholung einer Zustimmung
-nach Satz 1 absehen, soweit durch die Einholung die rechtzeitige
-Durchführung der in Artikel 26a Absatz 9 Satz 1 des Eurojust-
-Beschlusses bezeichneten Maßnahmen gefährdet würde. In diesem Falle
-sind die in den Sätzen 1 und 2 bezeichneten Stellen unverzüglich von
-der Übermittlung nachträglich zu unterrichten.
+Bundesministeriums der Justiz und für Verbraucherschutz oder einer von
+ihm allgemein oder für den Einzelfall bezeichneten öffentlichen Stelle
+des Bundes zulässig. Die Zustimmung bedarf des Einvernehmens mit dem
+Bundesministerium des Innern. Das nationale Mitglied kann von der
+Einholung einer Zustimmung nach Satz 1 absehen, soweit durch die
+Einholung die rechtzeitige Durchführung der in Artikel 26a Absatz 9
+Satz 1 des Eurojust-Beschlusses bezeichneten Maßnahmen gefährdet
+würde. In diesem Falle sind die in den Sätzen 1 und 2 bezeichneten
+Stellen unverzüglich von der Übermittlung nachträglich zu
+unterrichten.
 
 (2) Die Verantwortung nach Artikel 26a Absatz 9 Satz 2 des Eurojust-
 Beschlusses trägt für das nationale Mitglied die Bundesrepublik
@@ -656,12 +663,13 @@ uneingeschränkte Anwendung.
 (2) Das Bundesamt für Justiz, der Generalbundesanwalt beim
 Bundesgerichtshof und die von den Landesregierungen bestimmten
 weiteren Stellen nehmen die Aufgaben der deutschen Kontaktstellen im
-Sinne des EJN-Beschlusses wahr. Das Bundesministerium der Justiz
-benennt im Einvernehmen mit den deutschen Kontaktstellen aus deren
-Kreis die nationale und die technische Anlaufstelle für das
-Europäische Justizielle Netz im Sinne von Artikel 2 Absatz 3 und 4 des
-EJN-Beschlusses. Änderungen der Benennung erfolgen im Einvernehmen mit
-den deutschen Kontaktstellen und sind jederzeit möglich.
+Sinne des EJN-Beschlusses wahr. Das Bundesministerium der Justiz und
+für Verbraucherschutz benennt im Einvernehmen mit den deutschen
+Kontaktstellen aus deren Kreis die nationale und die technische
+Anlaufstelle für das Europäische Justizielle Netz im Sinne von Artikel
+2 Absatz 3 und 4 des EJN-Beschlusses. Änderungen der Benennung
+erfolgen im Einvernehmen mit den deutschen Kontaktstellen und sind
+jederzeit möglich.
 
 (3) Die Landesregierungen werden ermächtigt, die Aufgaben der
 Kontaktstelle einer Landesbehörde zuzuweisen. Sie können die

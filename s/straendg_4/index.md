@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 27.3.2008 I 490;
 
 Zuletzt geändert durch
-:   Art. 48 G v. 23.11.2007 I 2614
+:   Art. 2 Abs. 1 G v. 23.5.2017 I 1226
 
 
 ## § 1 Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
@@ -118,8 +118,8 @@ den Nummern 1 bis 10 bestimmten Besonderheiten anzuwenden:
     Landesverteidigung die Verteidigung der Vertragsstaaten treten;
 
 
-5.  die §§ 113, 114 Abs. 2, §§ 125 und 125a auf Straftaten gegen Soldaten
-    oder Beamte dieser Truppen;
+5.  die §§ 113, 114, 115 Absatz 2, §§ 125 und 125a auf Straftaten gegen
+    Soldaten oder Beamte dieser Truppen;
 
 
 6.  § 120 auf Taten gegen den Gewahrsam an Gefangenen dieser Truppen oder
@@ -139,16 +139,8 @@ den Nummern 1 bis 10 bestimmten Besonderheiten anzuwenden:
     oder einen Beamten dieser Truppen;
 
 
-9a. § 305a auf Straftaten der Zerstörung von Kraftfahrzeugen dieser
-    Truppen;
-
-
-10. § 333 Abs. 1, 3, § 334 Abs. 1, 3, § 335 Abs. 1 Nr. 1 Buchstabe b, Abs.
-    2 Nr. 1 und 3, § 336 auf die Vorteilsgewährung an und die Bestechung
-    von Soldaten, Beamten dieser Truppen oder solchen Bediensteten der
-    Truppen, die auf Grund einer allgemeinen oder besonderen Anweisung
-    einer höheren Dienststelle der Truppen zur gewissenhaften Erfüllung
-    ihrer Obliegenheiten förmlich verpflichtet worden sind.
+10. § 305a auf Straftaten der Zerstörung von Kraftfahrzeugen dieser
+    Truppen.
 
 
 

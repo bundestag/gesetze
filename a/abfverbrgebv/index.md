@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2749
 
-Geändert durch
-:   Art. 1 V v. 23.5.2007 I 952
+V aufgeh. durch
+:   Art. 4 Abs. 22 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 37 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 23 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 23 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -32,18 +38,18 @@ verordnet die Bundesregierung:
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für Amtshandlungen des Umweltbundesamtes als
-zuständige Behörde für die Entscheidung über die
-notifizierungsbedürftige Verbringung von Abfällen durch die
-Bundesrepublik Deutschland.
+Diese Verordnung gilt für individuell zurechenbare öffentliche
+Leistungen des Umweltbundesamtes als zuständige Behörde für die
+Entscheidung über die notifizierungsbedürftige Verbringung von
+Abfällen durch die Bundesrepublik Deutschland.
 
 
 ## § 2 Gebühren und Auslagen
 
 Im Rahmen des § 1 werden Gebühren nach Maßgabe des in der Anlage
 enthaltenen Gebührenverzeichnisses erhoben. Die Gebühr beträgt gemäß §
-4 Abs. 6 Nr. 3 des Abfallverbringungsgesetzes im Einzelfall höchstens
-5\.000 Euro. Auslagen werden nicht gesondert erhoben.
+7 Absatz 3 Satz 3 des Abfallverbringungsgesetzes im Einzelfall
+höchstens 6 000 Euro. Auslagen werden nicht gesondert erhoben.
 
 
 ## § 3 Gebühren bei erfolglosen und zurückgenommenen Widersprüchen
@@ -52,7 +58,7 @@ enthaltenen Gebührenverzeichnisses erhoben. Die Gebühr beträgt gemäß §
 wird für den Widerspruchsbescheid eine Gebühr erhoben. Diese Gebühr
 darf die Gebühr nicht überschreiten, die für den angefochtenen
 Bescheid festgesetzt war, beträgt aber mindestens 25 Euro. Bei einem
-allein gegen eine Kostenentscheidung gerichteten Widerspruch beträgt
+allein gegen eine Gebührenfestsetzung gerichteten Widerspruch beträgt
 die Gebühr bis zu 10 Prozent des Betrages, dessen Festsetzung mit dem
 Widerspruch erfolglos angefochten worden ist, mindestens aber 15 Euro.
 Hat der Widerspruch nur deshalb keinen Erfolg, weil die Verletzung
@@ -67,24 +73,11 @@ Richtete sich der Widerspruch allein gegen eine Kostenentscheidung,
 ist eine Gebühr von 15 Euro zu erheben.
 
 
-## § 4 Übergangsvorschrift
+## § 4 (weggefallen)
 
-Für Amtshandlungen des Umweltbundesamtes im Zusammenhang mit
-Entscheidungen über die notifizierungsbedürftige Verbringung von
-Abfällen durch das Bundesgebiet, die gemäß den Übergangsbestimmungen
-in Artikel 61 Abs. 1 der Verordnung (EG) Nr. 1013/2006 des
-Europäischen Parlaments und des Rates vom 14. Juni 2006 über die
-Verbringung von Abfällen (ABl. EU Nr. L 190 S. 1) den Bestimmungen der
-Verordnung (EWG) Nr. 259/93 des Rates vom 1. Februar 1993 zur
-Überwachung und Kontrolle der Verbringung von Abfällen in der, in die
-und aus der Europäischen Gemeinschaft (ABl. EG Nr. L 30 S. 1), zuletzt
-geändert durch die Verordnung (EG) Nr. 2557/2001 der Kommission vom
-28\. Dezember 2001 (ABl. EG Nr. L 349 S. 1), unterliegt, ist die
-Abfallverbringungsgebührenverordnung vom 17. Dezember 2003 (BGBl. I S.
-2749) in der vor dem 12. Juli 2007 geltenden Fassung anzuwenden.
+(zu § 2)
 
-
-## Anlage (zu § 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 
 *    *

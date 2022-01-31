@@ -6,7 +6,7 @@ Title: Gesetz zur Ausführung des UNESCO-Übereinkommens vom 14. November 1970 �
   Kulturgütern
 jurabk: KultGüRückG 2007
 layout: default
-origslug: kultg_r_ckg_2007
+origslug: kultguerueckg_2007
 slug: kultguerueckg_2007
 
 ---

@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 1996, 766
 
 Zuletzt geändert durch
-:   Art. 3 G v. 19.5.2009 I 1090
+:   Art. 1 V v. 11.2.2020 I 198
 
+Stand: Diese V tritt gem. § 20 idF d. Art. 1 Nr. 2 V v. 11.2.2020 I 198 mit Ablauf des 31.12.2030 außer Kraft
 Die V dient der Durchführung von Rechtsakten der Europäischen
 Gemeinschaft hinsichtlich der Erstattungen bei der Ausfuhr,
 insbesondern der EWGV 3665/87
@@ -71,7 +72,7 @@ Landwirtschaft und Ernährung (Bundesanstalt). Zuständig für
 
 
 
-ist das Hauptzollamt Hamburg-Jonas.
+ist das Hauptzollamt Hamburg.
 
 
 ## § 3 Abfertigung zur Ausfuhr
@@ -464,21 +465,21 @@ können nachträglich ergänzt oder geändert werden.
 
 (2) Eine mit Ergänzungsblättern oder Ladelisten versehene
 Ausfuhranmeldung für Erstattungszwecke gilt als ein zusammenhängender
-Antrag. Durch getrennte Erklärung gegenüber dem Hauptzollamt Hamburg-
-Jonas kann der Antragsteller unabhängig von Artikel 2 Abs. 3 der
-Verordnung (EG) Nr. 800/1999 die getrennte Zahlung einzelner Teile der
+Antrag. Durch getrennte Erklärung gegenüber dem Hauptzollamt Hamburg
+kann der Antragsteller unabhängig von Artikel 2 Abs. 3 der Verordnung
+(EG) Nr. 800/1999 die getrennte Zahlung einzelner Teile der
 Ausfuhranmeldung beantragen. Der Antragsteller kann sich vorbehalten,
 mehrere Ausfuhranmeldungen für Erstattungszwecke zu einem Antrag
 zusammenzufassen, wenn er dieses bereits in der Ausfuhranmeldung für
 Erstattungszwecke durch den Zusatz „Zusammenfassung mit anderen
 Ausfuhranmeldungen vorbehalten“ erklärt. Zur Zahlung dieser Anträge
-ist dem Hauptzollamt Hamburg-Jonas eine abschließende Erklärung über
-die zusammenzufassenden Anträge einzureichen.
+ist dem Hauptzollamt Hamburg eine abschließende Erklärung über die
+zusammenzufassenden Anträge einzureichen.
 
-(3) Der Antragsteller hat beim Hauptzollamt Hamburg-Jonas zu den in
-Absatz 1 aufgeführten Antragsunterlagen eine Kopie der Ausfuhrlizenz
-mit Vorausfestsetzung der Erstattung einzureichen. Diese Kopie muss
-die Vorderseite und die Rückseite oder das Zusatzblatt mit der jeweils
+(3) Der Antragsteller hat beim Hauptzollamt Hamburg zu den in Absatz 1
+aufgeführten Antragsunterlagen eine Kopie der Ausfuhrlizenz mit
+Vorausfestsetzung der Erstattung einzureichen. Diese Kopie muss die
+Vorderseite und die Rückseite oder das Zusatzblatt mit der jeweils
 betreffenden zollamtlichen Abschreibung enthalten. Sofern ein
 Zusatzblatt kopiert wird, ist auf diesem die Nummer und das Datum der
 dazugehörenden Ausfuhrlizenz zu vermerken.
@@ -486,8 +487,8 @@ dazugehörenden Ausfuhrlizenz zu vermerken.
 
 ## § 16 Gewährung der Ausfuhrerstattung, Nachweise
 
-(1) Das Hauptzollamt Hamburg-Jonas setzt die Erstattung durch Bescheid
-fest. Der Erstattungsanspruch wird mit der Bekanntgabe des
+(1) Das Hauptzollamt Hamburg setzt die Erstattung durch Bescheid fest.
+Der Erstattungsanspruch wird mit der Bekanntgabe des
 Erstattungsbescheides fällig. Der Antragsteller hat die
 Voraussetzungen für den Erstattungsanspruch darzutun und dies zu
 beweisen. Für die Bekanntgabe des Bescheides gilt § 122 Abs. 2 der
@@ -507,8 +508,8 @@ als Vorauszahlung gezahlt werden, so hat der Antragsteller
     Ausfuhranmeldung für Erstattungszwecke abzugeben und
 
 
-2.  dem Hauptzollamt Hamburg-Jonas die ihm von der Ausfuhrzollstelle mit
-    dem Abfertigungsbefund zurückgegebene zusätzliche Durchschrift der
+2.  dem Hauptzollamt Hamburg die ihm von der Ausfuhrzollstelle mit dem
+    Abfertigungsbefund zurückgegebene zusätzliche Durchschrift der
     Ausfuhranmeldung für Erstattungszwecke einzureichen.
 
 
@@ -519,10 +520,17 @@ als Vorauszahlung gezahlt werden, so hat der Antragsteller
 
 Soll die Erstattung als Vorauszahlung gezahlt werden, so ist die nach
 den in § 1 genannten Rechtsakten vorgeschriebene Sicherheit beim
-Hauptzollamt Hamburg-Jonas zu leisten.
+Hauptzollamt Hamburg zu leisten.
 
 
-## § 19 Inkrafttreten, Außerkrafttreten
+## § 19 Anwendungsvorschrift
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Ab dem 1. Juni 2019 ist diese Verordnung nur noch auf Anträge zur
+Gewährung der Ausfuhrerstattung nach § 16 anzuwenden, die bis
+einschließlich 31. Mai 2019 gestellt worden sind.
+
+
+## § 20 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2030 außer Kraft.
 

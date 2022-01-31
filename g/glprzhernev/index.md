@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten
+Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der  staatlich anerkannten
   Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in
   handwerklichen Ausbildungsberufen
 jurabk: GlPrZHerneV
@@ -9,7 +9,7 @@ slug: glprzhernev
 
 ---
 
-# Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen (GlPrZHerneV)
+# Verordnung zur Gleichstellung von Prüfungszeugnissen der  staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen (GlPrZHerneV)
 
 Ausfertigungsdatum
 :   2007-07-19
@@ -17,11 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1481
 
-Geändert durch
-:   Art. 1 V v. 20.6.2012 I 1384
+Zuletzt geändert durch
+:   Art. 1 V v. 18.7.2016 I 1720
 
-V aufgeh. durch
-:   § 3 Abs. 1 idF d. Art. 1 Nr. 2 V v. 20.6.2012 I 1384 mWv 1.10.2016
+Die v tritt gem. § 3 abs. 1 idf d. art. 1 nr. 2 v v. 20.6.2012 i 1384 mwv 1.10.2016 außer kraft. die geltung der v ist durch
+:   § 3 Abs. 1 idF d. Art. 1 Nr. 2 V v. 18.7.2016 I 1720 über den 30.9.2016 hinaus bis zum 1.10.2026 verlängert worden.
 
 
 
@@ -38,7 +38,7 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Oktober 2006 bis zum 30. September 2016 von der staatlich
+Die vom 1. Oktober 2006 bis zum 30. September 2026 von der staatlich
 anerkannten Hiberniaschule Herne erteilten Prüfungszeugnisse über
 erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen
 über das Bestehen der Gesellenprüfung in handwerklichen
@@ -115,7 +115,7 @@ die Verordnung vom 4. August 1998 (BGBl. I S. 2086), gelten fort.
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
-und am 1. Oktober 2016 außer Kraft.
+und am 1. Oktober 2026 außer Kraft.
 
 (2)
 

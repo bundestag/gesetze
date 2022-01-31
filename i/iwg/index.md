@@ -15,32 +15,39 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2913
 
+Geändert durch
+:   Art. 1 G v. 8.7.2015 I 1162
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/98/EG des
 Europäischen Parlaments und des Rates vom 17. November 2003 über die
 Weiterverwendung von Informationen des öffentlichen Sektors (ABl. EU
 Nr. L 345 S. 90).
 
 
-## § 1 Anwendungsbereich
+## § 1 Gegenstand und Anwendungsbereich
 
-(1) Dieses Gesetz gilt für die Weiterverwendung aller bei öffentlichen
-Stellen vorhandenen Informationen.
+(1) Dieses Gesetz gilt für die Weiterverwendung von bei öffentlichen
+Stellen vorhandenen Informationen, insbesondere zur Bereitstellung von
+Produkten und Dienstleistungen der digitalen Wirtschaft.
 
 (2) Dieses Gesetz gilt nicht für Informationen,
 
-1.  an denen kein Zugangsrecht besteht,
+1.  an denen kein oder nur ein eingeschränktes Zugangsrecht besteht,
 
 
 2.  die nur bei Nachweis eines rechtlichen oder berechtigten Interesses
     zugänglich sind,
 
 
+2a. die lediglich Logos, Wappen und Insignien enthalten,
+
+
 3.  deren Erstellung nicht unter die öffentlichen Aufgaben der
     betreffenden öffentlichen Stelle fällt,
 
 
-4.  die von Urheberrechten oder verwandten Schutzrechten Dritter oder von
-    gewerblichen Schutzrechten erfasst werden,
+4.  die von Urheberrechten, verwandten Schutzrechten oder gewerblichen
+    Schutzrechten Dritter erfasst werden,
 
 
 5.  die im Besitz öffentlich-rechtlicher Rundfunkanstalten oder deren
@@ -50,13 +57,22 @@ Stellen vorhandenen Informationen.
 
 6.  die im Besitz von Bildungs- und Forschungseinrichtungen sind,
     einschließlich solcher Einrichtungen, die zum Transfer von
-    Forschungsergebnissen gegründet wurden,
+    Forschungsergebnissen gegründet wurden, außer Hochschulbibliotheken,
 
 
-7.  die im Besitz kultureller Einrichtungen sind.
+7.  die im Besitz kultureller Einrichtungen sind, außer öffentlichen
+    Bibliotheken, Museen oder Archiven,
+
+
+8.  die nach den Vorschriften des Bundes oder der Länder über den Zugang
+    der Öffentlichkeit zu Geodaten oder zu Umweltinformationen zugänglich
+    sind und uneingeschränkt weiterverwendet werden dürfen.
 
 
 
+
+(2a) Ein Anspruch auf Zugang zu Informationen wird durch dieses Gesetz
+nicht begründet.
 
 (3) Die Bestimmungen zum Schutz personenbezogener Daten und
 weitergehende Ansprüche aus anderen Rechtsvorschriften auf
@@ -97,45 +113,68 @@ Im Sinne dieses Gesetzes
     Speicherung,
 
 
-3.  ist Weiterverwendung jede Nutzung von Informationen, die über die
-    Erfüllung einer öffentlichen Aufgabe hinausgeht und in der Regel auf
-    die Erzielung von Entgelt gerichtet ist; die intellektuelle
-    Wahrnehmung einer Information und die Verwertung des dadurch erlangten
-    Wissens stellen regelmäßig keine Weiterverwendung dar,
+3.  ist Weiterverwendung jede Nutzung von Informationen für kommerzielle
+    oder nichtkommerzielle Zwecke, die über die Erfüllung einer
+    öffentlichen Aufgabe hinausgeht; die intellektuelle Wahrnehmung einer
+    Information und die Verwertung des dadurch erlangten Wissens stellen
+    regelmäßig keine Weiterverwendung dar,
 
 
 4.  sind Nutzungsbestimmungen Bestimmungen, die wesentliche Fragen der
     Weiterverwendung von Informationen regeln,
 
 
-5.  ist Person jeder Bürger und jede Bürgerin der Europäischen Union und
-    jede natürliche oder juristische Person mit Wohnsitz oder Sitz in
-    einem Mitgliedstaat.
+5.  ist maschinenlesbares Format ein Dateiformat, das so strukturiert ist,
+    dass Softwareanwendungen bestimmte Daten, einschließlich einzelner
+    Sachverhaltsdarstellungen und deren interner Struktur, leicht
+    identifizieren, erkennen und extrahieren können,
+
+
+6.  ist offenes Format ein Dateiformat, das plattformunabhängig ist und
+    der Öffentlichkeit ohne Einschränkungen, die der Weiterverwendung von
+    Informationen hinderlich wären, zugänglich gemacht wird,
+
+
+7.  ist anerkannter, offener Standard ein schriftlich niedergelegter
+    Standard, in dem die Anforderungen für die Sicherstellung der
+    Interoperabilität der Software niedergelegt sind.
 
 
 
+
+
+## § 2a Grundsatz der Weiterverwendung
+
+Informationen, die in den Anwendungsbereich dieses Gesetzes fallen,
+dürfen weiterverwendet werden. Für Informationen, an denen
+Bibliotheken, einschließlich Hochschulbibliotheken, Museen oder
+Archiven, Urheber- oder verwandte Schutzrechte oder gewerbliche
+Schutzrechte zustehen, gilt dies nur, soweit deren Nutzung nach den
+für diese Schutzrechte geltenden Vorschriften zulässig ist oder die
+Einrichtung die Nutzung zugelassen hat; die Bedingungen der Nutzung
+müssen den Vorschriften dieses Gesetzes entsprechen.
 
 
 ## § 3 Gleichbehandlungsanspruch
 
-(1) Jede Person ist bei der Entscheidung über die Weiterverwendung
-vorhandener Informationen öffentlicher Stellen, die diese zur
-Weiterverwendung zur Verfügung gestellt haben, gleich zu behandeln.
-Ein Anspruch auf Zugang zu Informationen wird durch dieses Gesetz
-nicht begründet.
-
-(2) Werden Informationen von öffentlichen Stellen als Ausgangsmaterial
+(1) Werden Informationen von öffentlichen Stellen als Ausgangsmaterial
 für eigene Geschäftstätigkeiten weiterverwendet, gelten hierfür die
 gleichen Entgelte und Bedingungen wie für andere Personen.
 
-(3) Dürfen die Informationen weiterverwendet werden, sind sie in allen
-angefragten Formaten und Sprachen, in denen sie bei der öffentlichen
-Stelle vorliegen, zur Verfügung zu stellen; soweit möglich sind sie
-elektronisch zu übermitteln. Auszüge von Informationen werden zur
-Verfügung gestellt, wenn damit für die öffentliche Stelle kein
-unverhältnismäßiger Aufwand verbunden ist.
+(2) Informationen sind in allen angefragten Formaten und Sprachen, in
+denen sie bei der öffentlichen Stelle vorliegen, zur Weiterverwendung
+zur Verfügung zu stellen; soweit möglich und wenn damit für die
+öffentliche Stelle kein unverhältnismäßiger Aufwand verbunden ist,
+sind sie vollständig oder in Auszügen elektronisch sowie in einem
+offenen und maschinenlesbaren Format zusammen mit den zugehörigen
+Metadaten zu übermitteln. Sowohl die Formate als auch die Metadaten
+sollten so weit wie möglich anerkannten, offenen Standards
+entsprechen.
 
-(4) Regelungen über die Weiterverwendung von Informationen
+
+## § 3a Verbot von Ausschließlichkeitsvereinbarungen
+
+(1) Regelungen über die Weiterverwendung von Informationen
 öffentlicher Stellen dürfen keine ausschließlichen Rechte gewähren.
 Dies gilt nicht, wenn zur Bereitstellung eines Dienstes im
 öffentlichen Interesse ein ausschließliches Recht über die
@@ -147,65 +186,121 @@ eines solchen Rechts muss regelmäßig, mindestens alle drei Jahre,
 die nicht unter Satz 2 fallen, erlöschen mit Ablauf der Regelung,
 spätestens jedoch am 31. Dezember 2008.
 
+(2) Am 17. Juli 2013 bestehende Ausschließlichkeitsvereinbarungen
+enden bei Vertragsablauf, spätestens jedoch am 18. Juli 2043. Dies
+gilt nicht für Regelungen im öffentlichen Interesse oder zur
+Digitalisierung von Kulturbeständen.
 
-## § 4 Bearbeitung von Anfragen; Transparenz
-
-(1) Über Anfragen auf Weiterverwendung von Informationen entscheidet
-die öffentliche Stelle innerhalb von 20 Arbeitstagen nach Eingang der
-Anfrage. Bei umfangreichen oder schwierigen Sachverhalten beträgt die
-Frist 40 Arbeitstage; die anfragende Person ist innerhalb von drei
-Wochen nach Eingang der Anfrage über diese Frist zu unterrichten. Die
-Fristen in Satz 1 und 2 gelten nicht, wenn die öffentliche Stelle
-selbst eine angemessene Frist festgelegt hat oder eine solche aufgrund
-einer Rechtsvorschrift besteht. Wenn eine Bearbeitungsfrist für
-Anträge auf Zugang zu Informationen besteht, ist diese auch für die
-Bearbeitung von Anfragen auf Weiterverwendung maßgeblich.
-
-(2) Innerhalb der Frist nach Absatz 1 stellt die öffentliche Stelle
-die Informationen zur Weiterverwendung zur Verfügung oder lehnt die
-Weiterverwendung ab. Die öffentliche Stelle kann auch ein
-Vertragsangebot unterbreiten, das Nutzungsbestimmungen enthalten kann.
-Die Nutzungsbestimmungen müssen verhältnismäßig sein, dürfen nicht zu
-einer Wettbewerbsverzerrung führen und die Möglichkeiten der
-Weiterverwendung nicht unnötig einschränken.
-
-(3) Werden in einer Vereinbarung Entgelte für die Weiterverwendung
-verlangt, dürfen die Gesamteinnahmen aus der Bereitstellung von
-Informationen und der Gestattung ihrer Weiterverwendung die Kosten
-ihrer Erfassung, Erstellung, Reproduktion und Verbreitung zuzüglich
-einer angemessenen Gewinnspanne nicht übersteigen. Die Entgelte sollen
-für den entsprechenden Abrechnungszeitraum kostenorientiert sein und
-unter Beachtung der für die betreffenden öffentlichen Stellen
-geltenden Buchführungsgrundsätze berechnet werden.
-
-(4) Nutzungsbestimmungen und Entgelte für die Weiterverwendung, die
-allgemein Anwendung finden sollen, sind im Voraus festzulegen und,
-soweit dies technisch möglich und sinnvoll ist, elektronisch zu
-veröffentlichen; die elektronische Veröffentlichungspflicht gilt auch
-für Gebühren. Auf Anfrage gibt die öffentliche Stelle die
-Berechnungsgrundlagen für die veröffentlichten Entgelte und die
-Faktoren an, die bei der Berechnung der Entgelte in besonders
-gelagerten Einzelfällen berücksichtigt werden. Die öffentliche Stelle
-gewährleistet, dass anfragende Personen über die verfügbaren
-Rechtsschutzmöglichkeiten unterrichtet werden.
-
-(5) Lehnt die öffentliche Stelle die Weiterverwendung ganz oder
-teilweise ab, teilt sie der anfragenden Person die Gründe mit und
-weist auf die Rechtsschutzmöglichkeiten hin. Beruht die Ablehnung auf
-§ 1 Abs. 2 Nr. 4, benennt die öffentliche Stelle den Rechtsinhaber,
-wenn er ihr bekannt und seine Nennung zulässig ist.
-
-(6) Die Verpflichtungen aus Absatz 1, 2 und 5 gelten nicht für die in
-§ 1 Abs. 2 Nr. 5 bis 7 genannten öffentlichen Stellen.
+(3) Bezieht sich ein ausschließliches Recht auf die Digitalisierung
+von Kulturbeständen, soll es für höchstens zehn Jahre gewährt werden.
+Wird es für mehr als zehn Jahre gewährt, ist die vereinbarte
+Gewährungsdauer im elften Jahr und danach alle sieben Jahre zu
+überprüfen. Die Ausschließlichkeitsvereinbarungen müssen transparent
+sein und öffentlich bekannt gemacht werden. Der betreffenden
+öffentlichen Stelle ist im Rahmen der Vereinbarung eine Kopie der
+digitalisierten Kulturbestände unentgeltlich zur Verfügung zu stellen.
+Die öffentliche Stelle stellt diese Kopie am Ende des
+Ausschließlichkeitszeitraums zur Weiterverwendung zur Verfügung.
 
 
-## § 5 Rechtsschutz
+## § 4 Nutzungsbestimmungen
+
+(1) Die öffentliche Stelle kann für die Weiterverwendung
+Nutzungsbestimmungen vorsehen. Die Nutzungsbestimmungen müssen
+verhältnismäßig sein, dürfen nicht zu einer Wettbewerbsverzerrung
+führen und die Möglichkeiten der Weiterverwendung nicht unnötig
+einschränken. Die Gleichbehandlung der Nutzer ist zu gewährleisten.
+
+(2) Nutzungsbestimmungen für die Weiterverwendung, die allgemein
+Anwendung finden sollen, sind im Voraus festzulegen und, soweit dies
+technisch möglich und sinnvoll ist, über öffentlich zugängliche Netze
+zu veröffentlichen.
+
+(3) Ist eine Weiterverwendung von Informationen beabsichtigt, auf die
+dieses Gesetz nach § 1 Absatz 2 Nummer 4 keine Anwendung findet,
+benennt die öffentliche Stelle den Rechtsinhaber, wenn er ihr bekannt
+und seine Nennung zulässig ist. Satz 1 gilt nicht für Bibliotheken,
+einschließlich Hochschulbibliotheken, Museen und Archive.
+
+(4) Die Verpflichtungen aus den Absätzen 1, 2 und 3 gelten nicht für
+die in § 1 Absatz 2 Nummer 5 bis 7 genannten öffentlichen Stellen.
+
+
+## § 5 Grundsätze zur Entgeltberechnung
+
+(1) Entgelte für die Weiterverwendung von Informationen sind auf die
+Kosten beschränkt, die durch die Reproduktion, Bereitstellung und
+Weiterverbreitung verursacht werden.
+
+(2) Absatz 1 ist nicht anzuwenden auf
+
+1.  öffentliche Stellen, die ausreichende Einnahmen erzielen müssen, um
+    einen wesentlichen Teil ihrer Kosten im Zusammenhang mit der Erfüllung
+    ihrer öffentlichen Aufträge zu decken;
+
+
+2.  Informationen, für die die betreffende öffentliche Stelle aufgrund von
+    Rechtsvorschriften ausreichende Einnahmen erzielen muss, um einen
+    wesentlichen Teil der Kosten im Zusammenhang mit ihrer Erfassung,
+    Erstellung, Reproduktion und Verbreitung zu decken;
+
+
+3.  Bibliotheken, einschließlich Hochschulbibliotheken, Museen und
+    Archive.
+
+
+
+
+(3) In den in Absatz 2 Nummer 1 und 2 genannten Fällen berechnen die
+betreffenden öffentlichen Stellen die Gesamtentgelte nach von ihnen
+festzulegenden objektiven, transparenten und nachprüfbaren Kriterien.
+Die Gesamteinnahmen dieser Stellen aus der Bereitstellung von
+Informationen und der Gestattung ihrer Weiterverwendung in dem
+entsprechenden Abrechnungszeitraum dürfen die Kosten ihrer Erfassung,
+Erstellung, Reproduktion und Verbreitung zuzüglich einer angemessenen
+Gewinnspanne nicht übersteigen. Die Entgelte werden unter Beachtung
+der für die betreffenden öffentlichen Stellen geltenden
+Buchführungsgrundsätze berechnet.
+
+(4) Wenn die in Absatz 2 Nummer 3 genannten öffentlichen Stellen
+Entgelte verlangen, dürfen die Gesamteinnahmen aus der Bereitstellung
+von Informationen und der Gestattung ihrer Weiterverwendung in dem
+entsprechenden Abrechnungszeitraum die Kosten ihrer Erfassung,
+Erstellung, Reproduktion, Verbreitung, Bewahrung und der Rechteklärung
+zuzüglich einer angemessenen Gewinnspanne nicht übersteigen. Die
+Entgelte werden unter Beachtung der für die betreffenden öffentlichen
+Stellen geltenden Buchführungsgrundsätze berechnet.
+
+
+## § 6 Transparenz
+
+(1) Wurden für die Weiterverwendung Standardentgelte festgelegt, sind
+die entsprechenden Bedingungen und ist die tatsächliche Höhe dieser
+Entgelte einschließlich der Berechnungsgrundlage zu veröffentlichen.
+Die Veröffentlichung soll über öffentlich zugängliche Netze erfolgen.
+
+(2) Wurden für die Weiterverwendung keine Standardentgelte festgelegt,
+geben die öffentlichen Stellen im Voraus an, welche Faktoren bei der
+Berechnung berücksichtigt werden. Auf Anfrage gibt die betreffende
+öffentliche Stelle auch die Berechnungsweise dieser Entgelte in Bezug
+auf den spezifischen Antrag auf Weiterverwendung an.
+
+(3) Die in § 5 Absatz 2 Nummer 2 genannten Anforderungen werden im
+Voraus festgelegt. Soweit möglich, werden sie über öffentlich
+zugängliche Netze veröffentlicht.
+
+
+## § 7 Rechtsschutz
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 eröffnet.
 
 
-## § 6 Inkrafttreten
+## § 8 Praktische Vorkehrungen
 
-Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
+Soweit Informationen mit Metadaten versehene Daten im Sinne des § 12
+Absatz 1 des E-Government-Gesetzes sind und über öffentlich
+zugängliche Netze in maschinenlesbaren Formaten bereitgestellt wurden,
+sollen die Metadaten auf einem nationalen Datenportal zur Verfügung
+gestellt werden.
 

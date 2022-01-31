@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1933, 597
 
 Zuletzt geändert durch
-:   Art. 154 G v. 19.4.2006 I 866
+:   Art. 200 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 Der Scheck enthält:
 
-1.  die Bezeichnung als Scheck im Text der Urkunde, und zwar in der
+1.  die Bezeichnung als Scheck im Texte der Urkunde, und zwar in der
     Sprache, in der sie ausgestellt ist;
 
 
@@ -68,10 +68,10 @@ Namen des Bezogenen angegeben, so ist der Scheck an dem an erster
 Stelle angegebenen Ort zahlbar.
 
 (3) Fehlt eine solche und jede andere Angabe, so ist der Scheck an dem
-Ort zahlbar, an dem der Bezogene seine Hauptniederlassung hat.
+Orte zahlbar, an dem der Bezogene seine Hauptniederlassung hat.
 
 (4) Ein Scheck ohne Angabe des Ausstellungsorts gilt als ausgestellt
-an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
+an dem Orte, der bei dem Namen des Ausstellers angegeben ist.
 
 
 ### Art 3
@@ -135,7 +135,7 @@ geschrieben.
 ### Art 8
 
 Der Scheck kann bei einem Dritten, am Wohnort des Bezogenen oder an
-einem anderen Ort, zahlbar gestellt werden, sofern der Dritte Bankier
+einem anderen Orte, zahlbar gestellt werden, sofern der Dritte Bankier
 ist.
 
 
@@ -153,7 +153,7 @@ Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
 Trägt ein Scheck Unterschriften von Personen, die eine
 Scheckverbindlichkeit nicht eingehen können, gefälschte
 Unterschriften, Unterschriften erdichteter Personen oder
-Unterschriften, die aus irgendeinem anderen Grund für die Personen,
+Unterschriften, die aus irgendeinem anderen Grunde für die Personen,
 die unterschrieben haben oder mit deren Namen unterschrieben worden
 ist, keine Verbindlichkeit begründen, so hat dies auf die Gültigkeit
 der übrigen Unterschriften keinen Einfluß.
@@ -229,7 +229,7 @@ unterschrieben werden.
 
 (2) Das Indossament braucht den Indossatar nicht zu bezeichnen und
 kann selbst in der bloßen Unterschrift des Indossanten bestehen
-(Blankoindossament). In diesem letzteren Fall muß das Indossament, um
+(Blankoindossament). In diesem letzteren Falle muß das Indossament, um
 gültig zu sein, auf die Rückseite des Schecks oder auf den Anhang
 gesetzt werden.
 
@@ -261,8 +261,8 @@ gesetzt werden.
 die Zahlung.
 
 (2) Er kann untersagen, daß der Scheck weiter indossiert wird; in
-diesem Fall haftet er denen nicht, an die der Scheck weiter indossiert
-wird.
+diesem Falle haftet er denen nicht, an die der Scheck weiter
+indossiert wird.
 
 
 ### Art 19
@@ -312,12 +312,12 @@ ausdrückenden Vermerk, so kann der Inhaber alle Rechte aus dem Scheck
 geltend machen; aber er kann ihn nur durch ein weiteres
 Vollmachtsindossament übertragen.
 
-(2) Die Scheckverpflichteten können in diesem Fall dem Inhaber nur
+(2) Die Scheckverpflichteten können in diesem Falle dem Inhaber nur
 solche Einwendungen entgegensetzen, die ihnen gegen den Indossanten
 zustehen.
 
 (3) Die in dem Vollmachtsindossament enthaltene Vollmacht erlischt
-weder mit dem Tod noch mit dem Eintritt der Handlungsunfähigkeit des
+weder mit dem Tode noch mit dem Eintritt der Handlungsunfähigkeit des
 Vollmachtgebers.
 
 
@@ -370,8 +370,8 @@ wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 den er sich verbürgt hat.
 
 (2) Seine Verpflichtungserklärung ist auch gültig, wenn die
-Verbindlichkeit, für die er sich verbürgt hat, aus einem anderen Grund
-als wegen eines Formfehlers nichtig ist.
+Verbindlichkeit, für die er sich verbürgt hat, aus einem anderen
+Grunde als wegen eines Formfehlers nichtig ist.
 
 (3) Der Scheckbürge, der den Scheck bezahlt, erwirbt die Rechte aus
 dem Scheck gegen denjenigen, für den er sich verbürgt hat, und gegen
@@ -394,7 +394,7 @@ zahlbar.
 
 ### Art 29
 
-(1) Ein Scheck, der in dem Land der Ausstellung zahlbar ist, muß
+(1) Ein Scheck, der in dem Lande der Ausstellung zahlbar ist, muß
 binnen acht Tagen zur Zahlung vorgelegt werden.
 
 (2) Ein Scheck, der in einem anderen Land als dem der Ausstellung
@@ -403,10 +403,10 @@ Ausstellungsort und Zahlungsort sich in demselben Erdteil befinden,
 und binnen siebzig Tagen, wenn Ausstellungsort und Zahlungsort sich in
 verschiedenen Erdteilen befinden.
 
-(3) Hierbei gelten die in einem Land Europas ausgestellten und in
-einem an das Mittelmeer grenzenden Land zahlbaren Schecks ebenso wie
-die in einem an das Mittelmeer grenzenden Land ausgestellten und in
-einem Land Europas zahlbaren Schecks als Schecks, die in demselben
+(3) Hierbei gelten die in einem Lande Europas ausgestellten und in
+einem an das Mittelmeer grenzenden Lande zahlbaren Schecks ebenso wie
+die in einem an das Mittelmeer grenzenden Lande ausgestellten und in
+einem Lande Europas zahlbaren Schecks als Schecks, die in demselben
 Erdteil ausgestellt und zahlbar sind.
 
 (4) Die vorstehend erwähnten Fristen beginnen an dem Tag zu laufen,
@@ -416,8 +416,8 @@ der in dem Scheck als Ausstellungstag angegeben ist.
 ### Art 30
 
 Ist ein Scheck auf einen Ort gezogen, dessen Kalender von dem des
-Ausstellungsorts abweicht, so wird der Tag der Ausstellung in den nach
-dem Kalender des Zahlungsorts entsprechenden Tag umgerechnet.
+Ausstellungsortes abweicht, so wird der Tag der Ausstellung in den
+nach dem Kalender des Zahlungsortes entsprechenden Tag umgerechnet.
 
 
 ### Art 31
@@ -425,9 +425,9 @@ dem Kalender des Zahlungsorts entsprechenden Tag umgerechnet.
 (1) Die Einlieferung in eine Abrechnungsstelle steht der Vorlegung zur
 Zahlung gleich.
 
-(2) Das Bundesministerium der Justiz bestimmt, welche Einrichtungen
-als Abrechnungsstellen anzusehen sind und unter welchen
-Voraussetzungen die Einlieferung erfolgen kann.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz
+bestimmt, welche Einrichtungen als Abrechnungsstellen anzusehen sind
+und unter welchen Voraussetzungen die Einlieferung erfolgen kann.
 
 
 ### Art 32
@@ -466,12 +466,12 @@ Indossamente, aber nicht die Unterschriften der Indossanten zu prüfen.
 
 ### Art 36
 
-(1) Lautet der Scheck auf eine Währung, die am Zahlungsort nicht gilt,
-so kann die Schecksumme in der Landeswährung nach dem Wert gezahlt
-werden, den sie am Tag der Vorlegung besitzt. Wenn die Zahlung bei
-Vorlegung nicht erfolgt ist, so kann der Inhaber wählen, ob die
-Schecksumme nach dem Kurs des Vorlegungstags oder nach dem Kurs des
-Zahlungstags in die Landeswährung umgerechnet werden soll.
+(1) Lautet der Scheck auf eine Währung, die am Zahlungsorte nicht
+gilt, so kann die Schecksumme in der Landeswährung nach dem Werte
+gezahlt werden, den sie am Tage der Vorlegung besitzt. Wenn die
+Zahlung bei Vorlegung nicht erfolgt ist, so kann der Inhaber wählen,
+ob die Schecksumme nach dem Kurs des Vorlegungstages oder nach dem
+Kurs des Zahlungstages in die Landeswährung umgerechnet werden soll.
 
 (2) Der Wert der fremden Währung bestimmt sich nach den
 Handelsgebräuchen des Zahlungsorts. Der Aussteller kann jedoch im
@@ -556,9 +556,9 @@ worden ist:
 (1) Der Protest oder die gleichbedeutende Feststellung muß vor Ablauf
 der Vorlegungsfrist vorgenommen werden.
 
-(2) Ist die Vorlegung am letzten Tag der Frist erfolgt, so kann der
+(2) Ist die Vorlegung am letzten Tage der Frist erfolgt, so kann der
 Protest oder die gleichbedeutende Feststellung auch noch an dem
-folgenden Werktag vorgenommen werden.
+folgenden Werktage vorgenommen werden.
 
 
 ### Art 42
@@ -569,10 +569,10 @@ benachrichtigen, die auf den Tag der Protesterhebung oder der Vornahme
 der gleichbedeutenden Feststellung oder, im Falle des Vermerks "ohne
 Kosten", auf den Tag der Vorlegung folgen. Jeder Indossant muß
 innerhalb zweier Werktage nach Empfang der Nachricht seinem
-unmittelbaren Vormann von der Nachricht, die er erhalten hat, Kenntnis
-geben und ihm die Namen und Adressen derjenigen mitteilen, die vorher
-Nachricht gegeben haben, und so weiter in der Reihenfolge bis zum
-Aussteller. Die Fristen laufen vom Empfang der vorhergehenden
+unmittelbaren Vormanne von der Nachricht, die er erhalten hat,
+Kenntnis geben und ihm die Namen und Adressen derjenigen mitteilen,
+die vorher Nachricht gegeben haben, und so weiter in der Reihenfolge
+bis zum Aussteller. Die Fristen laufen vom Empfang der vorhergehenden
 Nachricht.
 
 (2) Wird nach Maßgabe des vorhergehenden Absatzes einer Person, deren
@@ -646,13 +646,13 @@ Der Inhaber kann im Wege des Rückgriffs verlangen:
 1.  die Schecksumme, soweit der Scheck nicht eingelöst worden ist;
 
 
-2.  Zinsen zu sechs vom Hundert seit dem Tag der Vorlegung. Bei einem
+2.  Zinsen zu sechs vom Hundert seit dem Tage der Vorlegung. Bei einem
     Scheck, der im Inland sowohl ausgestellt als auch zahlbar ist, beträgt
     der Zinssatz zwei vom Hundert über dem jeweiligen Basiszinssatz nach §
     247 des Bürgerlichen Gesetzbuches, mindestens aber sechs vom Hundert;
 
 
-3.  die Kosten des Protests oder der gleichbedeutenden Feststellung und
+3.  die Kosten des Protestes oder der gleichbedeutenden Feststellung und
     der Nachrichten sowie die anderen Auslagen;
 
 
@@ -671,7 +671,7 @@ Wer den Scheck eingelöst hat, kann von seinen Vormännern verlangen:
 1.  den vollen Betrag, den er gezahlt hat;
 
 
-2.  die Zinsen dieses Betrags zu sechs vom Hundert seit dem Tag der
+2.  die Zinsen dieses Betrags zu sechs vom Hundert seit dem Tage der
     Einlösung. Bei einem Scheck, der im Inland sowohl ausgestellt als auch
     zahlbar ist, beträgt der Zinssatz zwei vom Hundert über dem jeweiligen
     Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuches, mindestens
@@ -703,7 +703,7 @@ Indossament und die Indossamente seiner Nachmänner ausstreichen.
 ### Art 48
 
 (1) Steht der rechtzeitigen Vorlegung des Schecks oder der
-rechtzeitigen Erhebung des Protests oder der Vornahme einer
+rechtzeitigen Erhebung des Protestes oder der Vornahme einer
 gleichbedeutenden Feststellung ein unüberwindliches Hindernis entgegen
 (gesetzliche Vorschrift eines Staates oder ein anderer Fall höherer
 Gewalt), so werden die für diese Handlungen bestimmten Fristen
@@ -719,15 +719,15 @@ finden die Vorschriften des Artikels 42 Anwendung.
 unverzüglich zur Zahlung vorlegen und gegebenenfalls Protest erheben
 oder eine gleichbedeutende Feststellung vornehmen lassen.
 
-(4) Dauert die höhere Gewalt länger als fünfzehn Tage seit dem Tag, an
-dem der Inhaber, selbst vor Ablauf der Vorlegungsfrist, seinen Vormann
-von dem Fall der höheren Gewalt benachrichtigt hat, so kann Rückgriff
-genommen werden, ohne daß es der Vorlegung oder der Protesterhebung
-oder einer gleichbedeutenden Feststellung bedarf.
+(4) Dauert die höhere Gewalt länger als fünfzehn Tage seit dem Tage,
+an dem der Inhaber, selbst vor Ablauf der Vorlegungsfrist, seinen
+Vormann von dem Fall der höheren Gewalt benachrichtigt hat, so kann
+Rückgriff genommen werden, ohne daß es der Vorlegung oder der
+Protesterhebung oder einer gleichbedeutenden Feststellung bedarf.
 
 (5) Tatsachen, die rein persönlich den Inhaber oder denjenigen
 betreffen, den er mit der Vorlegung des Schecks oder mit der Erhebung
-des Protests oder mit der Herbeiführung einer gleichbedeutenden
+des Protestes oder mit der Herbeiführung einer gleichbedeutenden
 Feststellung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
 
@@ -738,7 +738,7 @@ Feststellung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 ### Art 49
 
 Schecks, die nicht auf den Inhaber gestellt sind und in einem anderen
-Land als dem der Ausstellung oder in einem überseeischen Gebiet des
+Lande als dem der Ausstellung oder in einem überseeischen Gebiet des
 Landes der Ausstellung zahlbar sind, und umgekehrt, oder in dem
 überseeischen Gebiet eines Landes ausgestellt und zahlbar sind oder in
 dem überseeischen Gebiet eines Landes ausgestellt und in einem anderen
@@ -784,7 +784,7 @@ Aussteller und die anderen Scheckverpflichteten verjähren in sechs
 Monaten vom Ablauf der Vorlegungsfrist.
 
 (2) Die Rückgriffsansprüche eines Verpflichteten gegen einen anderen
-Scheckverpflichteten verjähren in sechs Monaten von dem Tag, an dem
+Scheckverpflichteten verjähren in sechs Monaten von dem Tage, an dem
 der Scheck von dem Verpflichteten eingelöst oder ihm gegenüber
 gerichtlich geltend gemacht worden ist.
 
@@ -861,7 +861,7 @@ Unterlassung rechtzeitiger Vorlegung oder Verjährung erloschen ist,
 bleibt dem Inhaber des Schecks so weit verpflichtet, als er sich mit
 dessen Schaden bereichern würde.
 
-(2) Der Anspruch verjährt in einem Jahr seit der Ausstellung des
+(2) Der Anspruch verjährt in einem Jahre seit der Ausstellung des
 Schecks.
 
 
@@ -910,14 +910,14 @@ Personen, auf die ein Scheck gezogen werden kann.
 (2) Ist nach diesem Recht der Scheck im Hinblick auf die Person des
 Bezogenen nichtig, so sind gleichwohl die Verpflichtungen aus
 Unterschriften gültig, die in Ländern auf den Scheck gesetzt worden
-sind, deren Recht die Nichtigkeit aus einem solchen Grund nicht
+sind, deren Recht die Nichtigkeit aus einem solchen Grunde nicht
 vorsieht.
 
 
 ### Art 62
 
 (1) Die Form einer Scheckerklärung bestimmt sich nach dem Recht des
-Landes, in dessen Gebiet die Erklärung unterschrieben worden ist. Es
+Landes, in dessen Gebiete die Erklärung unterschrieben worden ist. Es
 genügt jedoch die Beobachtung der Form, die das Recht des Zahlungsorts
 vorschreibt.
 
@@ -935,7 +935,7 @@ den Formerfordernissen des inländischen Rechts genügt.
 ### Art 63
 
 Die Wirkungen der Scheckerklärungen bestimmen sich nach dem Recht des
-Landes, in dessen Gebiet die Erklärungen unterschrieben worden sind.
+Landes, in dessen Gebiete die Erklärungen unterschrieben worden sind.
 
 
 ### Art 64
@@ -947,7 +947,7 @@ Scheck ausgestellt worden ist.
 
 ### Art 65
 
-Das Recht des Landes, in dessen Gebiet der Scheck zahlbar ist,
+Das Recht des Landes, in dessen Gebiete der Scheck zahlbar ist,
 bestimmt:
 
 1.  ob der Scheck notwendigerweise bei Sicht zahlbar ist oder ob er auf
@@ -998,6 +998,6 @@ bestimmt:
 Die Form des Protests und die Fristen für die Protesterhebung sowie
 die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der
 Scheckrechte erforderlich sind, bestimmen sich nach dem Recht des
-Landes, in dessen Gebiet der Protest zu erheben oder die Handlung
+Landes, in dessen Gebiete der Protest zu erheben oder die Handlung
 vorzunehmen ist.
 

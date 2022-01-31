@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2450
 
-Geändert durch
-:   Art. 1 V v. 8.8.2012 I 1709
+Zuletzt geändert durch
+:   Art. 1 V v. 29.6.2015 I 1167
 
 
 ## § 1 Jährliche Höchstgrenze
@@ -42,19 +42,18 @@ Hochschulen entfallende Zahl der Stipendien mit, die der jährlichen
 Höchstgrenze nach § 1 entspricht. Auf jede Hochschule entfällt
 mindestens ein Stipendium.
 
-(2) Hat eine Hochschule zum 1. September 2012 nicht genügend private
-Mittel eingeworben, um die zu diesem Zeitpunkt gültige Höchstgrenze
-nach § 1 auszuschöpfen, so soll die zuständige Landesbehörde von Amts
-wegen das frei bleibende Stipendienkontingent innerhalb des
-Bundeslandes auf andere Hochschulen (Begünstigte) übertragen. Als
-Begünstigte nach Satz 1 kommen solche Hochschulen in Betracht, die mit
-den von ihnen zum 1. September 2012 eingeworbenen Mitteln mehr
-Stipendien vergeben können, als ihnen nach der jeweils geltenden
+(2) Hat eine Hochschule nicht genügend private Mittel eingeworben, um
+die jeweils gültige Höchstgrenze nach § 1 auszuschöpfen, so soll die
+zuständige Landesbehörde von Amts wegen das frei bleibende
+Stipendienkontingent innerhalb des Bundeslandes auf andere Hochschulen
+(Begünstigte) übertragen. Als Begünstigte nach Satz 1 kommen solche
+Hochschulen in Betracht, die mit den von ihnen eingeworbenen Mitteln
+mehr Stipendien vergeben können, als ihnen nach der jeweils geltenden
 Höchstgrenze zustehen. Die Landesbehörde strebt dabei eine Verteilung
 an, die im Verhältnis zu der Studierendenzahl der begünstigten
 Hochschulen steht.
 
-(3) Durch die Übertragung frei bleibender Stipendien nach dem 1.
-September 2012 darf an den begünstigten Hochschulen die ab dem 1.
-August 2013 geltende Höchstgrenze nicht überschritten werden.
+(3) Durch die Übertragung frei bleibender Stipendien darf an den
+begünstigten Hochschulen die Höchstgrenze des § 11 Absatz 4 Satz 1 des
+Stipendienprogramm-Gesetzes nicht überschritten werden.
 

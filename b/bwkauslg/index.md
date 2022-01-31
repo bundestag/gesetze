@@ -19,8 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 22.12.1981 I 1497
 
+G aufgeh. durch
+:   Art. 58 Nr. 11 G v. 12.12.2019 I 2652 mWv 1.1.2024
 
-## Personenkreis
+
+## Personenkreis - 
 
 
 
@@ -86,7 +89,7 @@ des Bundesentschädigungsgesetzes entsprechen, bekämpft hat und
 deswegen verfolgt worden ist.
 
 
-## Umfang der Wiedergutmachung
+## Umfang der Wiedergutmachung - 
 
 
 
@@ -171,7 +174,7 @@ Umrechnungsverhältnis § 7 Abs. 5 entsprechend.
 im Zusammenhang mit dem Schaden erlangten Vorteils gelten sinngemäß.
 
 
-## Fristen und Verfahren
+## Fristen und Verfahren - 
 
 
 
@@ -226,7 +229,7 @@ maßgebend.
 -
 
 
-## Übergangs- und Schlußvorschriften
+## Übergangs- und Schlußvorschriften - 
 
 
 

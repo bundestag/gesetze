@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 11.1.1995 I 34;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 31.7.2009 I 2512
+:   Art. 12 G v. 30.6.2016 I 1514; 2017 I 559
+
+Änderung durch
+:   Art. 4 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Allgemeine Vorschriften
@@ -31,18 +34,22 @@ Schuldverschreibungen, ferner andere Wertpapiere, wenn diese
 vertretbar sind, mit Ausnahme von Banknoten und Papiergeld.
 Wertpapiere im Sinne dieses Gesetzes sind auch
 Namensschuldverschreibungen, soweit sie auf den Namen einer
-Wertpapiersammelbank ausgestellt wurden.
+Wertpapiersammelbank ausgestellt wurden. Wertpapiere im Sinne dieses
+Gesetzes sind auch elektronisch begebene Wertpapiere im Sinne des
+Gesetzes über elektronische Wertpapiere.
 
 (2) Verwahrer im Sinne dieses Gesetzes ist, wem im Betrieb seines
 Gewerbes Wertpapiere unverschlossen zur Verwahrung anvertraut werden.
 
-(3) Wertpapiersammelbanken sind Kreditinstitute, die von der nach
-Landesrecht zuständigen Stelle des Landes, in dessen Gebiet das
-Kreditinstitut seinen Sitz hat, als solche anerkannt sind. Die
-Anerkennung des Kreditinstituts als Wertpapiersammelbank kann, auch
-nachträglich, im Interesse des Anlegerschutzes von der Erfüllung von
-Auflagen abhängig gemacht werden. Die Anerkennung und deren Aufhebung
-sowie Auflagen sind öffentlich bekanntzugeben.
+(3) Wertpapiersammelbanken sind Kreditinstitute, die nach Artikel 16
+Absatz 1 der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments
+und des Rates vom 23. Juli 2014 zur Verbesserung der
+Wertpapierlieferungen und -abrechnungen in der Europäischen Union und
+über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und
+2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom
+28\.8.2014, S. 1) als Zentralverwahrer zugelassen sind und die die in
+Abschnitt A Nummer 2 des Anhangs zu dieser Verordnung genannte
+Kerndienstleistung im Inland erbringen.
 
 
 ## 1. Abschnitt - Verwahrung
@@ -161,7 +168,20 @@ Verwahrers gehörenden Wertpapieren derselben Art. Für die Bestimmung
 des Bruchteils ist der Wertpapiernennbetrag maßgebend, bei
 Wertpapieren ohne Nennbetrag die Stückzahl.
 
-(2) Der Sammelverwahrer kann aus dem Sammelbestand einem jeden der
+(2) Der Hinterleger kann zur Ausübung seiner Rechte jederzeit gegen
+einen angemessenen Aufwendungsersatz vom Verwahrer einen in
+Schriftform ausgestellten Auszug über den für den Hinterleger in
+Verwahrung genommenen Anteil am Sammelbestand verlangen
+(Depotbescheinigung zur Rechtsausübung). Der Verwahrer steht für die
+Richtigkeit seiner Depotbescheinigung zur Rechtsausübung ein. Wem die
+Depotbescheinigung zur Rechtsausübung den hinterlegten Anteil am
+Sammelbestand zuweist, gilt zum Zwecke der Beweisführung als sein
+Inhaber. Der Leistungsanspruch des Hinterlegers aus seinem Anteil am
+Sammelbestand ist von vornherein dahingehend beschränkt, dass er gegen
+die Leistung einen der Leistung entsprechenden Anteil am Sammelbestand
+auf den Aussteller überträgt.
+
+(3) Der Sammelverwahrer kann aus dem Sammelbestand einem jeden der
 Hinterleger die diesem gebührende Menge ausliefern oder die ihm selbst
 gebührende Menge entnehmen, ohne daß er hierzu der Zustimmung der
 übrigen Beteiligten bedarf. In anderer Weise darf der Sammelverwahrer
@@ -186,9 +206,9 @@ beruht, die er nicht zu vertreten hat.
 
 ### § 8 Ansprüche der Miteigentümer und sonstiger dinglich Berechtigter bei der Sammelverwahrung
 
-Die für Ansprüche des Hinterlegers geltenden Vorschriften der § 6 Abs.
-2 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden Miteigentümers
-oder sonst dinglich Berechtigten anzuwenden.
+Die für Ansprüche des Hinterlegers geltenden Vorschriften von § 6
+Absatz 2 und 3 Satz 1, § 7 sind sinngemäß auf Ansprüche eines jeden
+Miteigentümers oder sonst dinglich Berechtigten anzuwenden.
 
 
 ### § 9 Beschränkte Geltendmachung von Pfand- und Zurückbehaltungsrechten bei der Sammelverwahrung
@@ -235,6 +255,26 @@ nach dem zugrunde liegenden Rechtsverhältnis nicht verpflichtet, an
 die Inhaber der in der Sammelurkunde verbrieften Rechte einzelne
 Wertpapiere auszugeben, kann auch von der Wertpapiersammelbank die
 Auslieferung von einzelnen Wertpapieren nicht verlangt werden.
+
+
+### § 9b Elektronische Schuldverschreibungen in Sammeleintragung
+
+(1) Für elektronisch begebene Schuldverschreibungen auf den Inhaber,
+die in Form einer Sammeleintragung in einem elektronischen
+Wertpapierregister eingetragen sind und die vom Verwahrer auf einem
+Depotkonto des Hinterlegers verbucht werden, gelten die Vorschriften
+dieses Gesetzes über Sammelverwahrung und Sammelbestandanteile
+sinngemäß, soweit nicht Absatz 2 etwas anderes bestimmt. Der Verwahrer
+darf Anteile an der elektronischen Schuldverschreibung in
+Sammeleintragung auf den von ihm geführten Depotkonten nur bis zur
+Höhe der auf ihn lautenden Sammeleintragung gutschreiben.
+
+(2) Wird auf Grund der §§ 7 und 8 die Auslieferung von einzelnen
+Wertpapieren verlangt, so hat der Verwahrer die Sammeleintragung im
+Wertpapierregister in Höhe des auf den Hinterleger entfallenden
+Anteils auf Kosten des Hinterlegers in eine Einzeleintragung
+überführen zu lassen, wenn nicht in den Emissionsbedingungen anderes
+geregelt ist.
 
 
 ### § 10 Tauschverwahrung
@@ -597,7 +637,7 @@ Bestimmungen des bürgerlichen Rechts schon früher auf ihn übergegangen
 ist. Der Kommissionär hat dem Kommittenten die Verschaffung des
 Miteigentums unverzüglich mitzuteilen.
 
-(3) Kreditinstitute und Kapitalanlagegesellschaften brauchen die
+(3) Kreditinstitute und Kapitalverwaltungsgesellschaften brauchen die
 Verschaffung des Miteigentums an einem Wertpapiersammelbestand und die
 Ausführung der Geschäftsbesorgung abweichend von Absatz 2 Satz 2 sowie
 von den §§ 675 und 666 des Bürgerlichen Gesetzbuchs und von § 384 Abs.
@@ -606,7 +646,7 @@ Monaten mitzuteilen, sofern das Miteigentum jeweils auf Grund einer
 vertraglich vereinbarten gleichbleibenden monatlichen, zweimonatlichen
 oder vierteljährlichen Zahlung erworben wird und diese Zahlungen
 jährlich das Dreifache des höchsten Betrags nicht übersteigen, bis zu
-dem nach dem Vierten Vermögensbildungsgesetz in der jeweils geltenden
+dem nach dem Fünften Vermögensbildungsgesetz in der jeweils geltenden
 Fassung vermögenswirksame Leistungen gefördert werden können.
 
 
@@ -745,8 +785,8 @@ Vorschriften der Insolvenzordnung über Insolvenzgläubiger.
 (5) Das Insolvenzgericht hat, wenn es nach Lage des Falles
 erforderlich ist, den vorrangigen Gläubigern zur Wahrung der ihnen
 zustehenden Rechte einen Pfleger zu bestellen. Für die Pflegschaft
-tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 78
-Abs. 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß
+tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 317
+Absatz 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß
 anzuwenden.
 
 
@@ -812,8 +852,8 @@ Insolvenzmasse geltend machen.
 
 ### § 34 Depotunterschlagung
 
-(1) Wer, abgesehen von den Fällen der §§ 246 und 266 des
-Strafgesetzbuchs, eigenen oder fremden Vorteils wegen
+Wer, abgesehen von den Fällen der §§ 246 und 266 des Strafgesetzbuchs,
+eigenen oder fremden Vorteils wegen
 
 1.  über ein Wertpapier der in § 1 Abs. 1 bezeichneten Art, das ihm als
     Verwahrer oder Pfandgläubiger anvertraut worden ist oder das er als
@@ -822,15 +862,13 @@ Strafgesetzbuchs, eigenen oder fremden Vorteils wegen
 
 
 2.  einen Sammelbestand solcher Wertpapiere oder den Anteil an einem
-    solchen Bestand dem § 6 Abs. 2 zuwider verringert oder darüber
-    rechtswidrig verfügt,
+    solchen Bestand dem § 6 Absatz 3 Satz 2 zuwider verringert oder
+    darüber rechtswidrig verfügt,
 
 
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 bestraft.
-
-(2) (weggefallen)
 
 
 ### § 35 Unwahre Angaben über das Eigentum
@@ -875,18 +913,25 @@ Durchführung eines solchen Anspruchs erschwert wird.
 
 ### § 42 Anwendung auf Treuhänder, Erlass weiterer Bestimmungen
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die Anwendung von Vorschriften
-dieses Gesetzes für Fälle vorschreiben, in denen Kaufleute als
-Treuhänder für Dritte Wertpapiere besitzen oder erwerben oder
-Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Anwendung von
+Vorschriften dieses Gesetzes für Fälle vorschreiben, in denen
+Kaufleute als Treuhänder für Dritte Wertpapiere besitzen oder erwerben
+oder Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
 öffentliche Schuldbücher oder sonstige Register eingetragen sind.
 
 
-### § 43
+### § 43 Übergangsregelung zum Ersten Finanzmarktnovellierungsgesetz
 
-(Inkrafttreten, Außerkrafttreten anderer Vorschriften,
-Überleitungsvorschrift)
+Ein Kreditinstitut, das am Tag, den die Bundesregierung nach Artikel
+17 Absatz 3 Satz 2 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) im
+Bundesgesetzblatt bekannt gibt, über eine Anerkennung als
+Wertpapiersammelbank von der nach Landesrecht zuständigen Stelle des
+Landes, in dessen Gebiet das Kreditinstitut seinen Sitz hat, verfügt,
+gilt bis zur Bestandskraft der Entscheidung über den Antrag auf
+Zulassung als Zentralverwahrer nach Artikel 17 Absatz 1 der Verordnung
+(EU) Nr. 909/2014 weiterhin als Wertpapiersammelbank im Sinne dieses
+Gesetzes.
 

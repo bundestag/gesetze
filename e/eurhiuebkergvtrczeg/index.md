@@ -16,7 +16,7 @@ Ausfertigungsdatum
 :   2001-07-13
 
 Fundstelle
-:   BGBl II: 2001, 733
+:   BGBl II: 2001, 733 (2002 II 788)
 
 
 

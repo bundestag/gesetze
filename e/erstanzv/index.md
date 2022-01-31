@@ -48,8 +48,9 @@ vorgesehenen Ausfertigungen beizufügen.
 
 Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
+Anzeige nach § 64e Abs. 2 Satz 1 KWG
 
-## Anlage Anzeige nach § 64e Abs. 2 Satz 1 KWG (Finanzdienstleistungsinstitute und Wertpapierhandelsbanken)1)
+## Anlage (Finanzdienstleistungsinstitute und Wertpapierhandelsbanken)1)
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 3413
 An die Landeszentralbank:

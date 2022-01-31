@@ -487,8 +487,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Fotografen und zur Fotografin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fotografen und zur Fotografin
 
 (Fundstelle: BGBl. I 2009, 1054 - 1059)
 **Abschnitt A**

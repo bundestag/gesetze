@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1978, 1469
 
 Zuletzt geändert durch
-:   Art. 1 V v. 4.8.2011 II 738
+:   Art. 2 V v. 12.12.2018 I 2446
 
 
 ## Eingangsformel
@@ -98,9 +98,9 @@ Blattes anzubringen.
 
 Die Blätter der Übersetzung sind mit arabischen Ziffern fortlaufend zu
 nummerieren. Die Blattnummern sind unterhalb des oberen Randes in der
-Mitte anzubringen. Im Übrigen gilt für die Übersetzung § 6 Absatz 1
-Satz 1, Absatz 2 Satz 2, 5 und 6, Absatz 3 Satz 1, 2 und 6 sowie
-Absatz 4 und 5 der Patentverordnung entsprechend.
+Mitte anzubringen. Im Übrigen gilt für die Übersetzung § 6 Absatz 1, 2
+Satz 2, 5 und 6, Absatz 3 Satz 1, 2 und 6 sowie Absatz 4 und 5 der
+Patentverordnung entsprechend.
 
 
 ## Schlußformel

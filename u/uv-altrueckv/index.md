@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3170
 
-Geändert durch
-:   Art. 13 Abs. 25 G v. 12.4.2012 I 579
+Zuletzt geändert durch
+:   Art. 1 V v. 4.6.2021 I 1493
 
 
 ## Eingangsformel
@@ -49,13 +49,12 @@ Absatz 1 zu bilden.
 (3) In den Fällen des § 219a Absatz 4 Satz 2 des Siebten Buches
 Sozialgesetzbuch ist das Deckungskapital, das bei einem
 aufsichtspflichtigen Unternehmen im Sinne des § 1 Absatz 1 Nummer 1
-und 2 des Versicherungsaufsichtsgesetzes für Versorgungsleistungen
+und 5 des Versicherungsaufsichtsgesetzes für Versorgungsleistungen
 gebildet worden ist, auf die Rückstellungen nach Absatz 1 anzurechnen.
 
 (4) Die Berechnung der Barwerte nach Absatz 1 hat den anerkannten
-Regeln der Versicherungsmathematik zu folgen. Für den Zeitraum bis zum
-31\. Dezember 2014 sind insbesondere die nachfolgenden Annahmen
-zugrunde zu legen:
+Regeln der Versicherungsmathematik zu folgen. Dabei sind insbesondere
+die nachfolgenden Annahmen zugrunde zu legen:
 
 1.  Rechnungszins in Höhe von 4,25 Prozent,
 
@@ -74,13 +73,6 @@ zugrunde zu legen:
 
 
 
-Die der Berechnung zugrunde zu legenden versicherungsmathematischen
-Annahmen, insbesondere ein einheitlicher Rechnungszinsfuß, werden
-spätestens alle fünf Jahre, erstmals für das Jahr 2015, – auf Basis
-der von der Deutschen Gesetzlichen Unfallversicherung e.V. und der
-Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zur
-Verfügung gestellten erforderlichen Angaben – neu ermittelt und durch
-Rechtsverordnung festgelegt.
 
 (5) Die Zuführungen erfolgen jährlich auf Grundlage der
 Barwertberechnung nach den Absätzen 1, 3 und 4.
@@ -90,10 +82,7 @@ Barwertberechnung nach den Absätzen 1, 3 und 4.
 
 Die Unfallversicherungsträger überprüfen regelmäßig, spätestens nach
 Ablauf von jeweils fünf Jahren, die Höhe der Rückstellungen nach § 1
-und der jährlichen Zuführungen für die folgenden fünf Jahre. Eine
-Überprüfung ist erstmals zum 30. Juni 2014 durchzuführen. Das Ergebnis
-ist der zuständigen Aufsichtsbehörde mitzuteilen; das zugrundeliegende
-Gutachten ist – außer in den Fällen des § 1 Absatz 2 – beizufügen.
+und der jährlichen Zuführungen für die folgenden fünf Jahre.
 
 
 ## § 3 Altersrückstellungen für die ehemaligen Beschäftigten des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
@@ -139,37 +128,8 @@ Jahr die gleiche Höhe aufweisen. Im Rahmen der Überprüfungen nach § 2
 sind auch die voraussichtliche Höhe der Altersrückstellungen zum 31.
 Dezember 2029 und der Zuführungsplan zu überprüfen.
 
-(3) In den Jahren 2010 bis 2019 sind Altersrückstellungen für die in §
-172c Absatz 1 Satz 1 des Siebten Buches Sozialgesetzbuch genannten
-Personen, deren Beschäftigungsverhältnis zu einem
-Unfallversicherungsträger erstmals nach dem 31. Dezember 2009
-begründet worden ist, abweichend von § 1 Absatz 1 in Höhe der
-angesammelten Zuführungen nach Satz 2 sowie der hieraus erzielten
-Kapitalerträge zu bilden. Den Altersrückstellungen ist jährlich der
-Betrag zuzuführen, der sich bei Verwendung der Zuweisungssätze nach §
-1 Absatz 1 Nummer 4 bis 7, Absatz 2 und 3 der
-Versorgungsfondszuweisungsverordnung als regelmäßiger Zuweisungsbetrag
-ergibt. Für Unfallversicherungsträger im Landes- und kommunalen
-Bereich gilt Satz 2 mit der Maßgabe, dass für die Ermittlung des
-jährlich zuzuführenden Betrags anstelle der
-Versorgungsfondszuweisungsverordnung eine entsprechende
-landesrechtliche Regelung angewendet werden kann. In den Fällen des §
-219a Absatz 4 des Siebten Buches Sozialgesetzbuch sind für
-Versorgungsleistungen keine Zuführungen nach Satz 2 zu leisten, wenn
-diese Versorgungsleistungen auf Grund bereits geleisteter
-Beschäftigungszeiten von einer öffentlich-rechtlichen
-Versorgungseinrichtung zu erwarten sind oder wenn für diese Zeiten
-Deckungskapital bei einem aufsichtspflichtigen Unternehmen im Sinne
-des § 1 Absatz 1 Nummer 1 und 2 des Versicherungsaufsichtsgesetzes
-gebildet worden ist.
-
-(4) Für die in § 172c Absatz 1 Satz 1 und 3 des Siebten Buches
-Sozialgesetzbuch genannten Personen, deren Beschäftigungsverhältnis zu
-einer landwirtschaftlichen Berufsgenossenschaft oder dem
-Spitzenverband der landwirtschaftlichen Sozialversicherung am 31.
-Dezember 2009 bereits bestanden hat, sind abweichend von § 1 Absatz 1
-und 5 in den Jahren 2010 und 2011 Zuführungen nach Absatz 3 Satz 2 und
-3 vorzunehmen.
+(3) Abweichend von § 1 Absatz 5 können die Zuführungen für die
+Altersrückstellungen für die Jahre 2021 und 2022 ausgesetzt werden.
 
 
 ## § 5 Inkrafttreten

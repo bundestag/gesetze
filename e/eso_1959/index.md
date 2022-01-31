@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1959, 1021, 1022
 
 Zuletzt geändert durch
-:   Art. 498 V v. 31.10.2006 I 2407
+:   Art. 517 V v. 31.8.2015 I 1474
 
 
 ## Inhaltsverzeichnis
@@ -891,13 +891,13 @@ vorschreiben.
 
 (3) Abweichungen von der ESO können im Einzelfall zulassen
 
-1.  das Bundesministerium für Verkehr, Bau und Stadtentwicklung für die
+1.  das Bundesministerium für Verkehr und digitale Infrastruktur für die
     Eisenbahnen des Bundes (EB),
 
 
 2.  die zuständigen obersten Landesverkehrsbehörden für die
     nichtbundeseigenen Eisenbahnen (NE) im Einvernehmen mit dem
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+    Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 
@@ -905,15 +905,15 @@ vorschreiben.
 (4) Von der ESO abweichende Signale mit vorübergehender Gültigkeit
 kann bei Eisenbahnen des Bundes das Eisenbahn-Bundesamt, bei den nicht
 bundeseigenen Eisenbahnen die zuständige oberste Landesverkehrsbehörde
-im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung, genehmigen.
+im Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur, genehmigen.
 
 (5) Anweisungen zur Durchführung der ESO können bei Eisenbahnen des
 Bundes vom Eisenbahn-Bundesamt, bei den nichtbundeseigenen Eisenbahnen
 von der obersten Landesverkehrsbehörde, erlassen werden. Die
-Anweisungen und ihre Änderungen sind dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung rechtzeitig vor Inkrafttreten zur
-Kenntnis zu geben.
+Anweisungen und ihre Änderungen sind dem Bundesministerium für Verkehr
+und digitale Infrastruktur rechtzeitig vor Inkrafttreten zur Kenntnis
+zu geben.
 
 b) Begriffsbestimmungen
 
@@ -951,7 +951,7 @@ Nachtzeichen.
 folgendes Hauptsignal an einem Signalträger vereinigt sein. Das
 Hauptsignal befindet sich dann über dem Vorsignal. Wenn mehrere
 solcher Signale einander folgen, stehen sie in festgelegten Abständen.
-Der Abstand zwischen ihnen beträgt in der Regel 1.000 bis 1.300 m.
+Der Abstand zwischen ihnen beträgt in der Regel 1 000 bis 1 300 m.
 (Inhalt: nicht darstellbare Signale;
 ... Signal Hp 0
 Halt
@@ -1452,15 +1452,15 @@ Fundstelle: BGBl I 1972, 454)
 1\. Allgemeine Bestimmungen
 (47) Der Abschnitt C enthält die von den Bestimmungen in Abschnitt B
 in Form oder Bedeutung abweichenden oder dort nicht enthaltenen
-Signale, die mit Genehmigung des Bundesministerium für Verkehr, Bau
-und Stadtentwicklung während einer Übergangszeit verwendet werden
+Signale, die mit Genehmigung des Bundesministerium für Verkehr und
+digitale Infrastruktur während einer Übergangszeit verwendet werden
 dürfen.
 
 (48) Der Geltungsbereich der Signale des Abschnitts C ist besonders
 angegeben. Stellen, die nach den Bestimmungen des Abschnittes C
 Ausnahmen oder Genehmigungen zu den Signalen des Abschnittes C
-erteilen können, werden vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung bestimmt.
+erteilen können, werden vom Bundesministerium für Verkehr und digitale
+Infrastruktur bestimmt.
 
 2\. Von den Bestimmungen in Abschnitt B abweichende Signale
 
@@ -1497,7 +1497,7 @@ Sachgebiet A Abschnitt III Nr. 8 des Einigungsvertrages vom 31. August
 1990 (BGBl. 1990 II S. 885, 1099) angefügten Signalen der DV 301 der
 Deutschen Reichsbahn sind ab 18. Dezember 1995 die Signale
 Hf 0 (§ 3 Abs. 4 bis 6 DV 301),
-Hi 13 (§ 5 Abs. 22 bis 24 DV 301) und
+Hl 13 (§ 5 Abs. 22 bis 24 DV 301) und
 Sv 4 (§ 6 Abs. 8 bis 10 DV 301)
 nicht mehr anzuwenden.
 
@@ -1506,8 +1506,10 @@ nicht mehr anzuwenden.
 
 Der Bundesminister für Verkehr
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
+(BGBl. II 1990, 889, 1099)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

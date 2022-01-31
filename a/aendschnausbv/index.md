@@ -309,8 +309,9 @@ mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
 des schriftlichen Teils der Prüfung dürfen keine ungenügenden
 Leistungen erbracht worden sein.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
 
 (Fundstelle: BGBl. I 2005, 1295 - 1298)
 

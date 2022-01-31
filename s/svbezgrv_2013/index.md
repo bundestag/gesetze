@@ -56,8 +56,8 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 (1) Das Durchschnittsentgelt für das Jahr 2011 beträgt 32 100 Euro.
 
-(2) Das vorläufige Durchschnittsentgelt für das Jahr 2013 beträgt 34
-071 Euro.
+(2) Das vorläufige Durchschnittsentgelt für das Jahr 2013 beträgt
+34 071 Euro.
 
 (3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend
 ergänzt.

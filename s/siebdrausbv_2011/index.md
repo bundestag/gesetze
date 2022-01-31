@@ -608,8 +608,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Siebdrucker/zur
 Siebdruckerin vom 2. Mai 2000 (BGBl. I S. 679) außer Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck
 
 (Fundstelle: BGBl. I 2011, 594 - 604)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und

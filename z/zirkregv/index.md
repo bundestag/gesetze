@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 376
 
+Geändert durch
+:   Art. 5 V v. 12.12.2013 I 4145
+
 
 ## Eingangsformel
 
@@ -33,15 +36,17 @@ Anhörung der Tierschutzkommission:
 Diese Verordnung regelt die Erhebung und Verwendung personenbezogener
 Daten im automatisierten Verfahren zum Zwecke der Überwachung der
 Einhaltung der tierschutzrechtlichen Bestimmungen durch Betriebe im
-Sinne von § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes.
+Sinne von § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
+Tierschutzgesetzes.
 
 
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
-1.  erteilende Behörde: die für die Erteilung der Erlaubnis nach § 11 Abs.
-    1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes zuständige Behörde;
+1.  erteilende Behörde: die für die Erteilung der Erlaubnis nach § 11
+    Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes zuständige
+    Behörde;
 
 
 2.  kontrollierende Behörde: die für die Kontrolle nach § 16 Abs. 1 Nr. 4
@@ -53,9 +58,8 @@ Im Sinne dieser Verordnung ist
 
 ## § 3 Datenerhebung
 
-(1) Die erteilende Behörde erhebt zusätzlich zu den Angaben nach § 11
-Abs. 1 Satz 2 des Tierschutzgesetzes vor Erteilung einer Erlaubnis
-nach § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes, wenn
+(1) Die erteilende Behörde erhebt vor Erteilung einer Erlaubnis nach §
+11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes, wenn
 die Tätigkeit an wechselnden Orten ausgeübt wird, folgende Daten:
 
 1.  Name, Anschrift, Geburtsdatum, Geburtsort des Antragstellers sowie den
@@ -63,10 +67,20 @@ die Tätigkeit an wechselnden Orten ausgeübt wird, folgende Daten:
 
 
 2.  Name des Betriebes, in dem der Antragsteller tätig ist, und im Fall
-    eines Winterquartiers dessen Anschrift und
+    eines Winterquartiers dessen Anschrift,
 
 
-3.  Name des Inhabers des Betriebes nach Nummer 2.
+3.  Name des Inhabers des Betriebes nach Nummer 2,
+
+
+4.  die Räume und die Einrichtungen, die für die Tätigkeit bestimmt sind,
+
+
+5.  die Art der betroffenen Tiere und
+
+
+6.  Name, Anschrift, Geburtsdatum und Geburtsort der für die Tätigkeit
+    verantwortlichen Person.
 
 
 
@@ -76,9 +90,10 @@ Behörde nicht vorliegen oder der Aktualisierung bedürfen, bei der
 Kontrolle eines in Absatz 1 Nr. 2 genannten Betriebes folgende Daten:
 
 1.  die jeweilige Anzahl der Tiere einer Art, die vom Erlaubnisinhaber zu
-    den in § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d genannten Zwecken gehalten
-    werden sowie deren Kennzeichnung, soweit eine solche durch die
-    Erlaubnis nach § 11 Abs. 1 des Tierschutzgesetzes vorgeschrieben ist,
+    den in § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d genannten Zwecken
+    gehalten werden sowie deren Kennzeichnung, soweit eine solche durch
+    die Erlaubnis nach § 11 Absatz 1 Satz 1 des Tierschutzgesetzes
+    vorgeschrieben ist,
 
 
 2.  die in Absatz 1 genannten Daten.
@@ -89,15 +104,14 @@ Kontrolle eines in Absatz 1 Nr. 2 genannten Betriebes folgende Daten:
 
 ## § 4 Datenverwendung
 
-(1) Die in § 3 genannten Daten und die Angaben nach § 11 Abs. 1 Satz 2
-des Tierschutzgesetzes speichert die erteilende oder die
+(1) Die in § 3 genannten Daten speichert die erteilende oder die
 kontrollierende Behörde in einem automatisierten Verfahren, das die
 Übermittlung der Daten durch Abruf ermöglicht. Zusätzlich speichert
 die erteilende oder kontrollierende Behörde im automatisierten
 Verfahren folgende Daten:
 
-1.  Inhalt der Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des
-    Tierschutzgesetzes einschließlich der erteilten Nebenbestimmungen,
+1.  Inhalt der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d
+    des Tierschutzgesetzes einschließlich der erteilten Nebenbestimmungen,
 
 
 2.  Datum der Ausstellung der Erlaubnis,
@@ -107,9 +121,9 @@ Verfahren folgende Daten:
 
 
 4.  Ergebnis der Kontrolle nach § 16 Abs. 1 Nr. 4 des Tierschutzgesetzes
-    mit Namen und Anschrift der verantwortlichen Person im Sinne des § 11
-    Abs. 1 Satz 2 Nr. 2 des Tierschutzgesetzes einschließlich der
-    erlassenen vollziehbaren Anordnungen,
+    mit Namen und Anschrift der verantwortlichen Person im Sinne des § 3
+    Absatz 1 Nummer 6 einschließlich der erlassenen vollziehbaren
+    Anordnungen,
 
 
 5.  Datum der Kontrolle,
@@ -118,14 +132,14 @@ Verfahren folgende Daten:
 6.  Bezeichnung und Adresse der kontrollierenden Behörde,
 
 
-7.  die Einhaltung der mit einer Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 3
-    Buchstabe d des Tierschutzgesetzes verbundenen vollziehbaren Auflagen
-    oder der in Nummer 4 bezeichneten vollziehbaren Anordnungen und
-    Maßnahmen des Verwaltungszwangs und
+7.  die Einhaltung der mit einer Erlaubnis nach § 11 Absatz 1 Satz 1
+    Nummer 8 Buchstabe d des Tierschutzgesetzes verbundenen vollziehbaren
+    Auflagen oder der in Nummer 4 bezeichneten vollziehbaren Anordnungen
+    und Maßnahmen des Verwaltungszwangs und
 
 
 8.  die unanfechtbare Ablehnung eines Antrags auf Erteilung einer
-    Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des
+    Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
     Tierschutzgesetzes.
 
 
@@ -151,7 +165,7 @@ fehlerhaft oder nicht schlüssig sind, so teilt sie dies der anderen
 Behörde mit.
 
 (5) Die erteilende Behörde erteilt dem Inhaber der Erlaubnis nach § 11
-Abs. 1 Satz 1 Nr. 3 Buchstabe d des Tierschutzgesetzes auf Antrag
+Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes auf Antrag
 Auskunft über die ihn betreffenden in Absatz 1 genannten Daten.
 
 
@@ -159,7 +173,7 @@ Auskunft über die ihn betreffenden in Absatz 1 genannten Daten.
 
 (1) Die Daten nach den §§ 3 und 4 Abs. 1 Satz 2 Nr. 1 bis 7 sind,
 vorbehaltlich des Absatzes 3, ein Jahr nachdem der Inhaber der
-Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 3 Buchstabe d des
+Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
 Tierschutzgesetzes das Zurschaustellen der Tiere oder das für diese
 Zwecke Zurverfügungstellen eingestellt hat, zu löschen. Erlangt die
 zuständige Behörde hiervon erst nach Ablauf eines Jahres Kenntnis,
@@ -172,8 +186,8 @@ Daten nicht bereits nach Absatz 1 gelöscht worden sind.
 
 (3) Die Daten nach § 3 Abs. 1 und § 4 Abs. 1 Satz 2 Nr. 8 sind durch
 die zuständige Behörde ein Jahr nach der unanfechtbaren Ablehnung
-eines Antrags auf Erteilung einer Erlaubnis nach § 11 Abs. 1 Satz 1
-Nr. 3 Buchstabe d zu löschen.
+eines Antrags auf Erteilung einer Erlaubnis nach § 11 Absatz 1 Satz 1
+Nummer 8 Buchstabe d zu löschen.
 
 
 ## § 6 Inkrafttreten

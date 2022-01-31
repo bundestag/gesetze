@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Ent
   solcher Waffen
 jurabk: ChemWaffÜbkG
 layout: default
-origslug: chemwaff_bkg
+origslug: chemwaffuebkg
 slug: chemwaffuebkg
 
 ---

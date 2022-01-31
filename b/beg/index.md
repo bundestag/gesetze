@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1953, 1387
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 63 G v. 5.2.2009 I 160
+:   Art. 10 G v. 12.12.2019 I 2652
+
+Änderung durch
+:   Art. 14 Abs. 5 G v. 28.6.2021 I 2250 (Nr. 39) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -925,8 +928,8 @@ Als Entschädigung werden geleistet
 
 (1) Umfang und Erfüllung des Anspruchs auf ein Heilverfahren richten
 sich nach den Vorschriften über die Unfallfürsorge der Bundesbeamten.
-Die §§ 33, 34 Abs. 1 und § 51 des Beamtenversorgungsgesetzes und die
-Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes
+Die §§ 33, 34, 51 des Beamtenversorgungsgesetzes und die Verordnung
+zur Durchführung des § 33 des Beamtenversorgungsgesetzes
 (Heilverfahrensverordnung) sind entsprechend anzuwenden.
 
 (2) Der Anspruch wird nicht dadurch ausgeschlossen, daß das
@@ -4170,7 +4173,7 @@ sei denn, daß der Verfolgte diese Staatsangehörigkeit erst nach
 Beendigung der Verfolgung erworben hat.
 
 
-## Fünfter Abschnitt -
+## Fünfter Abschnitt - 
 
 
 
@@ -4524,7 +4527,10 @@ Feststellung maßgebend.
 
 (3) Die Erteilung des Erbscheins für den Entschädigungsanspruch
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
-auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen
+Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
 
 
 #### § 182
@@ -4534,7 +4540,7 @@ einer Versicherung außerhalb der Sozialversicherung sind die
 beteiligten Versicherungseinrichtungen auf Verlangen der
 Entschädigungsorgane zur Mitwirkung verpflichtet; sie haben
 insbesondere die erforderlichen Berechnungen vorzunehmen und aus
-Büchern oder Akten schriftlich oder mündlich Auskünfte zu geben.
+Büchern oder Akten Auskünfte zu geben.
 
 (2) Die Entschädigungsorgane sollen bei der Entscheidung über den
 Entschädigungsanspruch die zuständige Versicherungsaufsichtsbehörde zu
@@ -4933,7 +4939,8 @@ Teilbescheide sind zulässig.
     welcher Frist sowie bei welchem Gericht die Klage zu erheben ist,
 
 
-4.  das Datum und die Unterschrift.
+4.  das Datum und die Unterschrift oder die Namenswiedergabe des
+    Behördenleiters, seines Vertreters oder seines Beauftragten.
 
 
 
@@ -5420,8 +5427,8 @@ Beweissicherungsverfahren sind gebühren- und auslagenfrei.
 dem Kläger die Kosten auferlegt werden. Ist die Rechtsverfolgung
 offenbar mutwillig, so kann ein Kostenvorschuß erhoben werden.
 
-(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 42 Abs. 1
-des Gerichtskostengesetzes zu berechnen.
+(3) Bei wiederkehrenden Leistungen ist der Streitwert nach § 9 der
+Zivilprozessordnung zu berechnen.
 
 (4) § 207 Abs. 3 findet entsprechende Anwendung.
 

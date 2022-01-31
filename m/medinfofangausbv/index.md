@@ -812,8 +812,9 @@ Vorschriften vereinbaren.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 4)
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
 
 (Fundstelle: BGBl. I 1998, S. 1262 - 1266
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1794,8 +1795,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum/zur
+Fachangestellten für Medien- und Informationsdienste
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1267 - 1275, 2426,
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 1. 7.1997 I 1620;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 2.12.2010 I 1744
+:   Art. 13 G v. 12.12.2019 I 2652
 
 
 ## § 1 Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen
@@ -84,7 +84,15 @@ Grundsätzen eines Rechtsstaates schlechthin unvereinbar ist und aus
 Gründen der politischen Verfolgung zu einer schweren Herabwürdigung
 des Betroffenen im persönlichen Lebensbereich geführt hat.
 
-(2) § 1 Abs. 3 Satz 1 in Verbindung mit Abs. 2 gilt entsprechend.
+(2) Ist die Rechtsstaatswidrigkeit wegen einer Maßnahme, die mit dem
+Ziel der Zersetzung erfolgte, festgestellt worden, erhält der
+Betroffene auf Antrag eine einmalige Leistung in Höhe von 1 500 Euro.
+Der Anspruch auf die Leistung nach Satz 1 ist unpfändbar, nicht
+übertragbar und nicht vererbbar. Die Leistung nach Satz 1 bleibt bei
+Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist,
+als Einkommen unberücksichtigt.
+
+(3) § 1 Abs. 3 Satz 1 in Verbindung mit Abs. 2 gilt entsprechend.
 
 
 ## § 2 Folgeansprüche
@@ -128,7 +136,10 @@ Berechtigten bleiben bei der Ermittlung des Verkehrswerts außer
 Betracht. Das Aneignungsrecht an dem Ersatzgrundstück oder der
 Anspruch auf dessen Verkehrswert sowie der Anspruch auf
 herauszugebende andere Ausgleichsleistungen stehen dem
-Entschädigungsfonds zu.
+Entschädigungsfonds zu. Abweichend von Satz 1 ist der Folgeanspruch
+nach § 1a Absatz 2 Satz 1 ausgeschlossen, wenn auf Grund desselben
+Sachverhalts Ausgleichsleistungen gewährt wurden oder zukünftig
+gewährt werden.
 
 
 ## § 3 Beschädigtenversorgung
@@ -271,16 +282,15 @@ die Maßnahme unmittelbar in ihren Rechten betroffen ist und nach deren
 Tod von demjenigen, der ein rechtliches Interesse an der
 Rehabilitierung des unmittelbar Betroffenen hat, gestellt werden.
 
-(2) Der Antrag nach § 1a kann von einer natürlichen Person, die durch
-die Maßnahme unmittelbar betroffen ist, und nach deren Tod von
-demjenigen, der ein berechtigtes Interesse an der Rehabilitierung des
-unmittelbar Betroffenen hat, gestellt werden.
+(2) Der Antrag nach § 1a Absatz 1 kann von einer natürlichen Person,
+die durch die Maßnahme unmittelbar betroffen ist, und nach deren Tod
+von demjenigen, der ein berechtigtes Interesse an der Rehabilitierung
+des unmittelbar Betroffenen hat, gestellt werden. Der Antrag nach § 1a
+Absatz 2 kann von einer natürlichen Person, die durch die Maßnahme
+unmittelbar betroffen ist, gestellt werden.
 
-(3) Der Antrag nach § 1 oder § 1a ist bis zum Ablauf des 31. Dezember
-2019 schriftlich bei der zuständigen Rehabilitierungsbehörde zu
-stellen. Die Antragsfrist gilt auch dann als gewahrt, wenn der Antrag
-fristgemäß bei einer anderen inländischen Behörde oder bei einem
-deutschen Gericht gestellt worden ist.
+(3) Der Antrag nach § 1 oder § 1a ist schriftlich bei der zuständigen
+Rehabilitierungsbehörde zu stellen.
 
 
 ## § 10 Inhalt des Antrags
@@ -308,17 +318,16 @@ deutschen Gericht gestellt worden ist.
 
 
 (2) Der Antrag nach § 1a soll neben den notwendigen Angaben zu den
-persönlichen Verhältnissen die in Absatz 1 Nr. 2 und 3
+persönlichen Verhältnissen die in Absatz 1 Nummer 2, 3 und 5
 vorgeschriebenen Angaben enthalten.
 
 
-## § 11 Verwendung personenbezogener Daten
+## § 11 Verarbeitung von personenbezogenen Daten
 
 Personenbezogene Daten aus einem verwaltungsrechtlichen
 Rehabilitierungsverfahren dürfen auch für andere Verfahren zur
 Rehabilitierung, Wiedergutmachung oder Gewährung von Leistungen nach
-dem Häftlingshilfegesetz soweit erforderlich verarbeitet und genutzt
-werden.
+dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 
 
 ## § 12 Rehabilitierungsbehörde
@@ -334,9 +343,11 @@ Feststellungen der Rehabilitierungsbehörde sind für die Behörden und
 Stellen bindend, die über die Folgeansprüche entscheiden.
 
 (2) Die Feststellung der Rechtsstaatswidrigkeit einer Maßnahme im
-Sinne des § 1a obliegt der Rehabilitierungsbehörde des Landes, in
-dessen Gebiet nach dem Stand vom 3. Oktober 1990 die Maßnahme ergangen
-ist.
+Sinne des § 1a, die Gewährung der einmaligen Leistung nach § 1a Absatz
+2 Satz 1 und die Entscheidung über die Ausschließungsgründe nach § 2
+Absatz 2 und 4 Satz 9 obliegen der Rehabilitierungsbehörde des Landes,
+in dessen Gebiet nach dem Stand vom 3. Oktober 1990 die Maßnahme
+ergangen ist.
 
 (3) Rehabilitierungsbehörden werden in den Ländern Berlin,
 Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und

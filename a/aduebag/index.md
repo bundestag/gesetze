@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 17 G v. 17.12.2006 I 3171
 
+Änderung durch
+:   Art. 4 Abs. 4 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Begriffsbestimmungen, Zuständigkeiten und Verfahren
 
@@ -34,25 +37,19 @@ Bundeszentralstelle für Auslandsadoption (Bundeszentralstelle) und die
 zentralen Adoptionsstellen der Landesjugendämter (zentrale
 Adoptionsstellen).
 
-(2) Andere staatliche Stellen im Sinne der Artikel 9 und 22 Abs. 1 des
-Übereinkommens sind die Adoptionsvermittlungsstellen der Jugendämter,
-soweit ihnen nach § 2a Abs. 3 Nr. 2 des Adoptionsvermittlungsgesetzes
-die internationale Adoptionsvermittlung im Verhältnis zu
-Vertragsstaaten des Übereinkommens gestattet ist.
-
-(3) Zugelassene Organisationen im Sinne der Artikel 9 und 22 Abs. 1
+(2) Zugelassene Organisationen im Sinne der Artikel 9 und 22 Abs. 1
 des Übereinkommens sind die anerkannten Auslandsvermittlungsstellen,
 soweit sie zur internationalen Adoptionsvermittlung im Verhältnis zu
-Vertragsstaaten des Übereinkommens zugelassen sind (§ 2a Abs. 3 Nr. 3,
-§ 4 Abs. 2 des Adoptionsvermittlungsgesetzes).
+Vertragsstaaten des Übereinkommens zugelassen sind (§ 2a Absatz 4
+Nummer 2, § 4 Absatz 2 des Adoptionsvermittlungsgesetzes).
 
-(4) Im Sinne dieses Gesetzes
+(3) Im Sinne dieses Gesetzes
 
 1.  sind Auslandsvermittlungsstellen die zentralen Adoptionsstellen und
-    die in den Absätzen 2 und 3 genannten Adoptionsvermittlungsstellen;
+    die in Absatz 2 genannten Adoptionsvermittlungsstellen;
 
 
-2.  ist zentrale Behörde des Heimatstaates (Artikel 2 Abs. 1 des
+2.  ist zentrale Behörde des Heimatstaates (Artikel 2 Absatz 1 des
     Übereinkommens) die Stelle, die nach dem Recht dieses Staates die
     jeweils in Betracht kommende Aufgabe einer zentralen Behörde
     wahrnimmt.
@@ -63,16 +60,16 @@ Vertragsstaaten des Übereinkommens zugelassen sind (§ 2a Abs. 3 Nr. 3,
 
 ### § 2 Sachliche Zuständigkeiten
 
-(1) Die in § 1 Abs. 2 und 3 genannten Adoptionsvermittlungsstellen
-nehmen unbeschadet des Absatzes 3 Satz 1 für die von ihnen betreuten
+(1) Die in § 1 Absatz 2 genannten Adoptionsvermittlungsstellen nehmen
+unbeschadet des Absatzes 3 Satz 1 für die von ihnen betreuten
 Vermittlungsfälle die Aufgaben nach den Artikeln 9 und 14 bis 21 des
 Übereinkommens wahr, die anerkannten Auslandsvermittlungsstellen
 jedoch nur hinsichtlich der Vermittlung eines Kindes mit gewöhnlichem
 Aufenthalt im Ausland an Adoptionsbewerber mit gewöhnlichem Aufenthalt
 im Inland.
 
-(2) Die Bundeszentralstelle nimmt die Aufgaben gemäß Artikel 6 Abs. 2
-Satz 2 des Übereinkommens sowie gemäß § 4 Abs. 6 und § 9 dieses
+(2) Die Bundeszentralstelle nimmt die Aufgaben gemäß Artikel 6 Absatz
+2 Satz 2 des Übereinkommens sowie gemäß § 4 Absatz 6 und § 9 dieses
 Gesetzes wahr und koordiniert die Erfüllung der Aufgaben nach den
 Artikeln 7 und 9 des Übereinkommens mit den
 Auslandsvermittlungsstellen. Die Erfüllung der Aufgaben nach Artikel 8
@@ -86,7 +83,7 @@ zentralen Adoptionsstellen diese Aufgaben wahr.
 (3) In Bezug auf die in den Artikeln 8 und 21 des Übereinkommens
 vorgesehenen Maßnahmen bleiben die allgemeinen gerichtlichen und
 behördlichen Zuständigkeiten unberührt. In den Fällen des Artikels 21
-Abs. 1 des Übereinkommens obliegt jedoch die Verständigung mit der
+Absatz 1 des Übereinkommens obliegt jedoch die Verständigung mit der
 zentralen Behörde des Heimatstaates den nach den Absätzen 1 oder 2
 zuständigen Stellen.
 
@@ -96,12 +93,12 @@ zuständigen Stellen.
 (1) Die Bundeszentralstelle und die Auslandsvermittlungsstellen können
 unmittelbar mit allen zuständigen Stellen im Inland und im Ausland
 verkehren. Auf ihre Tätigkeit finden die Vorschriften des
-Adoptionsvermittlungsgesetzes Anwendung. Die §§ 9b und 9d des
+Adoptionsvermittlungsgesetzes Anwendung. Die §§ 9c und 9e des
 Adoptionsvermittlungsgesetzes gelten auch für die von der zentralen
 Behörde eines anderen Vertragsstaates des Übereinkommens übermittelten
 personenbezogenen Daten und Unterlagen. Für die zentralen
 Adoptionsstellen und die Jugendämter gilt ergänzend das Zehnte Buch
-Sozialgesetzbuch, soweit nicht bereits § 9d des
+Sozialgesetzbuch, soweit nicht bereits § 9e des
 Adoptionsvermittlungsgesetzes auf diese Bestimmungen verweist.
 
 (2) Das Verfahren der Bundeszentralstelle gilt unbeschadet des
@@ -120,18 +117,17 @@ dem Justizvergütungs- und -entschädigungsgesetz.
 ### § 4 Adoptionsbewerbung
 
 (1) Adoptionsbewerber mit gewöhnlichem Aufenthalt im Inland richten
-ihre Bewerbung entweder an die zentrale Adoptionsstelle oder das nach
-§ 2 Abs. 1 in Verbindung mit § 1 Abs. 2 zuständige Jugendamt, in deren
-Bereich sie sich gewöhnlich aufhalten, oder an eine der anerkannten
-Auslandsvermittlungsstellen im Sinne des § 1 Abs. 3.
+ihre Bewerbung entweder an die zentrale Adoptionsstelle oder an eine
+der anerkannten Auslandsvermittlungsstellen im Sinne des § 1 Absatz 2.
 
 (2) Den Adoptionsbewerbern obliegt es,
 
 1.  anzugeben, aus welchem Heimatstaat sie ein Kind annehmen möchten,
 
 
-2.  an den Voraussetzungen für die Vorlage eines Berichts nach § 7 Abs. 3
-    des Adoptionsvermittlungsgesetzes mitzuwirken und
+2.  an den Voraussetzungen für die Vorlage der Berichte nach § 7b Absatz 2
+    Satz 1 und § 7c Absatz 2 Satz 2 des Adoptionsvermittlungsgesetzes
+    mitzuwirken und
 
 
 3.  zu versichern, dass eine weitere Bewerbung um die Vermittlung eines
@@ -151,9 +147,11 @@ bestehende Gefahren hin.
 
 (4) Die Auslandsvermittlungsstelle kann eigene Ermittlungen anstellen
 und nach Beteiligung der für den gewöhnlichen Aufenthaltsort der
-Adoptionsbewerber zuständigen örtlichen Adoptionsvermittlungsstelle (§
-9a des Adoptionsvermittlungsgesetzes) den in Absatz 2 Nr. 2 genannten
-Bericht selbst erstellen.
+Adoptionsbewerber zuständigen örtlichen Vermittlungsstelle (§ 9b des
+Adoptionsvermittlungsgesetzes) sowie unter Einhaltung der in den §§ 7b
+und 7c des Adoptionsvermittlungsgesetzes geregelten
+Verfahrensvorschriften den in § 7c Absatz 3 des
+Adoptionsvermittlungsgesetzes genannten Bericht selbst erstellen.
 
 (5) Hat sich die Auslandsvermittlungsstelle von der Eignung der
 Adoptionsbewerber überzeugt, so leitet sie die erforderlichen

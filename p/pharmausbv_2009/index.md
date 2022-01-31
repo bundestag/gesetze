@@ -26,7 +26,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
@@ -632,8 +632,9 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 
 (Fundstelle: BGBl. I 2009, 1378 - 1386)
 **Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1**

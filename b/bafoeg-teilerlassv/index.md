@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1983, 1439 (1575)
 
 Zuletzt geändert durch
-:   Art. 3 G v. 2.12.2004 I 3127
+:   Art. 72 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -199,9 +199,9 @@ nicht berührt.
 (1) Die Prüfungsstellen haben alle Prüfungsabsolventen auf die
 Möglichkeit eines leistungsabhängigen Teilerlasses von
 Ausbildungsförderungsdarlehen hinzuweisen und darauf hinzuwirken, daß
-die Geförderten eine schriftliche Erklärung abgeben, mit der sie die
-zur Vorbereitung der Entscheidung über den Darlehensteilerlaß
-notwendigen Angaben machen.
+die Geförderten eine schriftliche oder elektronische Erklärung
+abgeben, mit der sie die zur Vorbereitung der Entscheidung über den
+Darlehensteilerlaß notwendigen Angaben machen.
 
 (2) In den in § 18b Abs. 2 Satz 4 und 6 des Gesetzes genannten Fällen
 sind die Prüfungsteilnehmer, die nach dem 31. Dezember 1983

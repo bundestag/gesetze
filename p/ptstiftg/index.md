@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2325, 2382
 
-Geändert durch
-:   Art. 15 Abs. 108 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 2 Abs. 14 G v. 30.3.2021 I 402
 
 
 ## § 1 Rechtsform der Stiftung
@@ -98,16 +98,13 @@ im Sinne des Stiftungszwecks zu verwenden.
 
 
 
-(2) Die Höhe des Zuschusses der aus den Teilsondervermögen der
-Deutschen Bundespost hervorgegangenen Aktiengesellschaften wird
-jährlich im voraus durch das Kuratorium festgesetzt. Der Zuschuß ist
-so zu bemessen, daß zusammen mit den sonstigen Einnahmen und
-Zuschüssen der Stiftungszweck erfüllt und der erforderliche
-Verwaltungsaufwand gedeckt werden kann. Sofern keine andere Regelung
-getroffen wird, tragen die aus den Teilsondervermögen der Deutschen
-Bundespost hervorgegangenen Aktiengesellschaften den jeweils auf sie
-entfallenden Zuschußanteil in dem Verhältnis ihrer Beteiligung im
-Kuratorium.
+(2) Die Höhe des Zuschusses der Postnachfolgeunternehmen wird jährlich
+im voraus durch das Kuratorium festgesetzt. Der Zuschuß ist so zu
+bemessen, daß zusammen mit den sonstigen Einnahmen und Zuschüssen der
+Stiftungszweck erfüllt und der erforderliche Verwaltungsaufwand
+gedeckt werden kann. Sofern keine andere Regelung getroffen wird,
+tragen die Postnachfolgeunternehmen den jeweils auf sie entfallenden
+Zuschußanteil in dem Verhältnis ihrer Beteiligung im Kuratorium.
 
 (3) Sofern weitere Unternehmen oder Privatpersonen im Kuratorium
 vertreten sind, haben sich auch diese nach dem gleichen Maßstab an den
@@ -130,17 +127,14 @@ gilt für Änderungen der Satzung.
 
 ## § 7 Kuratorium
 
-(1) Das Kuratorium besteht aus mindestens elf Mitgliedern. Es setzt
-sich zusammen aus jeweils drei Vertretern des Bundes, der Deutsche
-Post AG und der Deutsche Telekom AG sowie aus zwei Vertretern aus dem
-technischen und allgemeinen Museumswesen. Die Deutsche Postbank AG ist
-berechtigt, einen Vertreter zu entsenden. Ein weiteres Mitglied kann
-vom Bundesrat benannt werden. Die Mitglieder des Kuratoriums werden
-vom Bundesministerium der Finanzen für die Dauer von fünf Jahren
-bestellt. Die Vertreter der Unternehmen werden auf Vorschlag des
-jeweiligen Unternehmens, die Vertreter des Museumswesens werden auf
-Vorschlag des Deutschen Museumsbundes e.V. bestellt. Eine wiederholte
-Bestellung ist zulässig.
+(1) Das Kuratorium besteht aus mindestens elf Mitgliedern. Die
+Deutsche Postbank AG ist berechtigt, einen Vertreter zu entsenden. Ein
+weiteres Mitglied kann vom Bundesrat benannt werden. Die Mitglieder
+des Kuratoriums werden vom Bundesministerium der Finanzen für die
+Dauer von fünf Jahren bestellt. Die Vertreter der Unternehmen werden
+auf Vorschlag des jeweiligen Unternehmens, die Vertreter des
+Museumswesens werden auf Vorschlag des Deutschen Museumsbundes e.V.
+bestellt. Eine wiederholte Bestellung ist zulässig.
 
 (2) Für jedes der Mitglieder ist ein Stellvertreter zu bestellen.
 Absatz 1 gilt entsprechend.
@@ -253,22 +247,20 @@ wird der Stiftung das Recht verliehen, Beamte zu haben.
 
 (2) Das Bundesministerium der Finanzen regelt die Überleitung von
 Beschäftigten des Bundesministeriums der Finanzen und nach Anhörung
-der Aktiengesellschaften auch die Überleitung der Beschäftigten der
-aus den Teilsondervermögen der Deutschen Bundespost hervorgegangenen
-Aktiengesellschaften auf die Stiftung im Hinblick auf die geltenden
-beamtenrechtlichen, disziplinarrechtlichen, arbeitsrechtlichen und
-personalvertretungsrechtlichen Bestimmungen.
+der Postnachfolgeunternehmen auch die Überleitung der Beschäftigten
+der Postnachfolgeunternehmen auf die Stiftung im Hinblick auf die
+geltenden beamtenrechtlichen, disziplinarrechtlichen,
+arbeitsrechtlichen und personalvertretungsrechtlichen Bestimmungen.
 
 (3) Oberste Dienstbehörde für den Kurator ist das Bundesministerium
 der Finanzen, für die übrigen Beamten der Stiftung das Kuratorium. Die
 für die Aufsicht zuständige oberste Bundesbehörde im Sinne des § 144
 des Bundesbeamtengesetzes ist das Bundesministerium der Finanzen.
 
-(4) Auf das Dienstverhältnis der Angestellten und Arbeiter finden die
-für die Angestellten und Arbeiter des Bundes jeweils geltenden
-Vorschriften Anwendung. Für die auf die Stiftung übergeleiteten
-Beschäftigten gelten die Regelungen des Siebten und Achten Abschnitts
-des Bundesanstalt Post-Gesetzes entsprechend.
+(4) Auf das Dienstverhältnis der Arbeitnehmer finden die für die
+Arbeitnehmer des Bundes geltenden Vorschriften Anwendung. Für die auf
+die Stiftung übergeleiteten Beschäftigten gelten die Abschnitte 7 und
+8 des Bundesanstalt-Post-Gesetzes entsprechend.
 
 
 ## § 12 Haushaltsplan, Rechnungsprüfung

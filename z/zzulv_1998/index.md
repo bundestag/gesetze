@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 230, 231
 
 Zuletzt geändert durch
-:   Art. 3 V v. 21.5.2012 I 1201
+:   Art. 23 V v. 5.7.2017 I 2272
 
 
 ## § 1 Allgemeine Vorschriften
@@ -426,6 +426,15 @@ gebracht werden.
 (5) (weggefallen)
 
 
+## § 9b Weitergeltung der Regelungen der Lebensmittel-Kennzeichnungsverordnung
+
+Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden.
+
+
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
@@ -469,8 +478,9 @@ eine Tafelsüße abgibt.
 begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
+(zu § 3 Abs. 1 und § 7)
 
-## Anlage 1 (zu § 3 Abs. 1 und § 7) Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
+## Anlage 1 Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
 
 (Fundstelle: BGBl. I 1998, 234 - 239;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3309,8 +3319,9 @@ Lebensmittel, zugelassen sind
 
 
 
+(zu § 4 Abs. 1 und § 7)
 
-## Anlage 2 (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
+## Anlage 2 Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 240 - 243;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4569,9 +4580,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-[^bjnr023100998bjne001203310_a_BJNR023100998BJNE001203310]:     Bei den mit                             b)
-    gekennzeichneten Lebensmitteln bzw. Höchstmengenangaben sind die
-    Höchstmengen auf Milligramm pro Liter zu beziehen.
+[^bjnr023100998bjne001203310_a_BJNR023100998BJNE001203310]:     Bei den mit b) gekennzeichneten Lebensmitteln bzw. Höchstmengenangaben
+    sind die Höchstmengen auf Milligramm pro Liter zu beziehen.
     Die Höchstmengen sind auf den Gehalt an Acesulfam, berechnet als
     Acesulfam-K, zu beziehen.
 [^bjnr023100998bjne001203310_c_BJNR023100998BJNE001203310]:     Die Höchstmengen sind auf den Gehalt an Aspartam zu beziehen.
@@ -4579,8 +4589,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     mit Aspartam oder Acesulfam-K dürfen die für Aspertam oder Acesulfam-K
     jeweils vorgeschriebenen Höchstmengen nicht überschritten werden.
 [^bjnr023100998bjne001203310_e_BJNR023100998BJNE001203310]: 
+(zu § 5 Abs. 1 und § 7)
 
-## Anlage 3 (zu § 5 Abs. 1 und § 7) Allgemein zugelassene Zusatzstoffe
+## Anlage 3 Allgemein zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 1998, 244;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -4653,8 +4664,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 5 Abs. 1 und § 7)
 
-## Anlage 4 (zu § 5 Abs. 1 und § 7) Begrenzt zugelassene Zusatzstoffe
+## Anlage 4 Begrenzt zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1521 - 1536;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -10831,8 +10843,9 @@ Teil B
 [^BJNR023100998BJNE001405310-1_BJNR023100998BJNE001407310]:     Bei Kombinationen von E 950, E 951, E 957 und E 959 sind die
     Einzelhöchstmengen anteilig zu reduzieren.
 [^BJNR023100998BJNE001405310-2_BJNR023100998BJNE001407310]: 
+(zu § 5 Abs. 1 und § 7)
 
-## Anlage 5 (zu § 5 Abs. 1 und § 7) Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
+## Anlage 5 Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
 
 (Fundstelle: BGBl. I 2000, 1537 - 1545;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -12250,13 +12263,13 @@ Zulassungen
 
 
 *    *   Heidelbeeren (nur
-        Vaccinium corymbosum                       )
+        Vaccinium corymbosum)
 
     *   10
 
 
 *    *   Zimt (nur
-        Cinnamomum ceylanicum                       )
+        Cinnamomum ceylanicum)
 
     *   150
 
@@ -12276,11 +12289,11 @@ Liste 1
 
     *   Verwendete Höchstmenge
         (berechnet als NaNO
-        2                       ) mg/kg
+        2) mg/kg
 
     *   Höchstmenge (§ 2 Nr. 2)
         (berechnet als NaNO
-        2                       ) mg/kg
+        2) mg/kg
 
 
 *    *   E 249
@@ -12300,7 +12313,7 @@ Liste 1
 
     *   Sterilisierte Fleischerzeugnisse
 [^f770809_12_BJNR023100998BJNE001505310]
-        (Fo*                        3,00)
+        (Fo* 3,00)
 
     *   100
 
@@ -12312,9 +12325,9 @@ Liste 1
     *
     *
 
-*    *   Wiltshire bacon                       (1.1);
+*    *   Wiltshire bacon(1.1);
         Entremeada entrecosto, chispe, orelheira e cabeça (salgados), Toucinho
-        fumado                       (1.2)
+        fumado(1.2)
         und ähnliche Erzeugnisse
 
     *
@@ -12323,7 +12336,7 @@ Liste 1
 
 *    *
     *
-    *   Wiltshire ham                        (1.1)
+    *   Wiltshire ham (1.1)
         und ähnliche Erzeugnisse
 
     *
@@ -12332,14 +12345,13 @@ Liste 1
 
 *    *
     *
-    *   Rohschinken nassgepökelt                        (1.6) und ähnliche
-        Erzeugnisse
+    *   Rohschinken nassgepökelt (1.6) und ähnliche Erzeugnisse
 
     *
     *   50
 
 
-*    *   Cured tongue                        (1.3)
+*    *   Cured tongue (1.3)
 
     *
     *   50
@@ -12350,28 +12362,26 @@ Liste 1
     *
     *
 
-*    *   Dry cured bacon                        (2.1)
+*    *   Dry cured bacon (2.1)
         und ähnliche Erzeugnisse
 
     *
     *   175
 
 
-*    *   Dry cured ham                        (2.1);
-        Jamón curado, paleta curada, lomo embuchado y cecina
-        (2.2)
+*    *   Dry cured ham (2.1);
+        Jamón curado, paleta curada, lomo embuchado y cecina (2.2)
 
     *   100
 
 
-*    *   Presunto, presunto da pá und paio do lombo
-        (2.3) und ähnliche Erzeugnisse
+*    *   Presunto, presunto da pá und paio do lombo (2.3) und ähnliche
+        Erzeugnisse
 
 
 *    *
     *
-    *   Rohschinken trockengepökelt                        (2.5) und ähnliche
-        Erzeugnisse
+    *   Rohschinken trockengepökelt (2.5) und ähnliche Erzeugnisse
 
     *
     *   50
@@ -12392,9 +12402,9 @@ Liste 1
         salám
         *
         Herkules
-        *                       salám
+        *salám
         Dunajská klobása
-        *                        (3.5)
+        * (3.5)
         und ähnliche Erzeugnisse
 
     *   180
@@ -12404,9 +12414,8 @@ Liste 1
 *    *
     *
     *   Rohschinken
-        trocken-/nassgepökelt                        (3.1) und ähnliche
-        Erzeugnisse
-        Jellied veal and brisket                        (3.2)
+        trocken-/nassgepökelt (3.1) und ähnliche Erzeugnisse
+        Jellied veal and brisket (3.2)
 
     *
     *   50
@@ -12419,11 +12428,11 @@ Liste 1
     *
     *   Verwendete Höchstmenge
         (berechnet als NaNO
-        3                       ) mg/kg
+        3) mg/kg
 
     *   Höchstmenge (§ 2 Nr. 2)
         (berechnet als NaNO
-        3                       ) mg/kg
+        3) mg/kg
 
 
 *    *   E 251
@@ -12448,7 +12457,7 @@ Liste 1
 *    *
     *
     *   Kylmäsavustettu poronliha
-        Kallrökt renkött                        (1.4)
+        Kallrökt renkött (1.4)
 
     *   300
 
@@ -12456,13 +12465,13 @@ Liste 1
 
 *    *
     *
-    *   Wiltshire bacon                        und
-        Wiltshire ham                        (1.1);
+    *   Wiltshire bacon und
+        Wiltshire ham (1.1);
         Entremeada
         Entrecosto, chispe, orelheira e
-        *                          (salgados),
-        Toucinho fumado                        (1.2)
-        Rohschinken nassgepökelt                        (1.6)
+        * (salgados),
+        Toucinho fumado (1.2)
+        Rohschinken nassgepökelt (1.6)
         und ähnliche Erzeugnisse
 
     *
@@ -12471,8 +12480,7 @@ Liste 1
 
 *    *
     *
-    *   Bacon, Filet de bacon                        (1.5); und ähnliche
-        Erzeugnisse
+    *   Bacon, Filet de bacon (1.5); und ähnliche Erzeugnisse
 
     *
     *   250
@@ -12482,7 +12490,7 @@ Liste 1
 
 *    *
     *
-    *   Cured tongue                        (1.3)
+    *   Cured tongue (1.3)
 
     *
     *   10
@@ -12497,12 +12505,10 @@ Liste 1
 
 *    *
     *
-    *   Dry cured bacon and Dry cured ham                        (2.1);
-        Jamón curado, paleta curada, lomo embuchado y cecina
-        (2.2)
-        Presunto, presunto da pá und paio do lombo
-        (2.3);
-        Rohschinken trockengepökelt                        (2.5)
+    *   Dry cured bacon and Dry cured ham (2.1);
+        Jamón curado, paleta curada, lomo embuchado y cecina (2.2)
+        Presunto, presunto da pá und paio do lombo (2.3);
+        Rohschinken trockengepökelt (2.5)
         und ähnliche Erzeugnisse
 
     *
@@ -12511,8 +12517,8 @@ Liste 1
 
 *    *
     *
-    *   Jambon sec, jambon sel sec et autres*
-        maturées séchées similaires                        (2.4)
+    *   Jambon sec, jambon sel sec et autres* maturées séchées similaires
+        (2.4)
 
     *
     *   250
@@ -12530,7 +12536,7 @@ Liste 1
 *    *
     *
     *   Rohwürste
-        (Salami und Kantwurst)                        (3.3)
+        (Salami und Kantwurst) (3.3)
 
     *   300
         (ohne Zusatz von E 249
@@ -12541,7 +12547,7 @@ Liste 1
 *    *
     *
     *   Rohschinken
-        trocken-/nassgepökelt                        (3.1)
+        trocken-/nassgepökelt (3.1)
         und ähnliche Erzeugnisse
 
     *
@@ -12550,9 +12556,8 @@ Liste 1
 
 *    *
     *
-    *   Salchichón y chorizo tradicionales de larga curanción
-        (3.4);
-        Saucissons secs                        (3.6)
+    *   Salchichón y chorizo tradicionales de larga curanción (3.4);
+        Saucissons secs (3.6)
         und ähnliche Erzeugnisse
 
     *   250
@@ -12563,7 +12568,7 @@ Liste 1
 
 *    *
     *
-    *   Jellied veal and brisket                        (3.2)
+    *   Jellied veal and brisket (3.2)
 
     *
     *   10
@@ -12617,10 +12622,9 @@ Liste 1
     eine Reifung durch Kalträucherung von 4 bis 5 Wochen an.
 
 
-(1.5) 4- bis 5-tägige Tauchpökelung bei 5 bis 7*                   C,
-    normalerweise Reifung von 24 bis 40 Stunden bei 22*
-    C, mögliche 24-stündige Räucherung bei 20 bis 25*                   C
-    und 3- bis 6-wöchige Lagerung bei 12 bis 14*                   C.
+(1.5) 4- bis 5-tägige Tauchpökelung bei 5 bis 7*C, normalerweise Reifung von
+    24 bis 40 Stunden bei 22*C, mögliche 24-stündige Räucherung bei 20 bis
+    25*C und 3- bis 6-wöchige Lagerung bei 12 bis 14*C.
 
 
 (1.6) Die Pökeldauer beträgt je nach Form und Gewicht der Fleischstücke
@@ -12678,18 +12682,17 @@ Liste 1
 (3.4) Reifedauer von mindestens 30 Tagen.
 
 
-(3.5) Getrocknetes Erzeugnis, das auf 70*                   C erhitzt und
-    anschließend einem 8- bis 12-tägigen Trocknungs- oder Räucherverfahren
-    unterzogen wird. Fermentierte Erzeugnisse werden einem 14- bis
-    30-tägigen dreistufigen Fermentierungsverfahren unterzogen und
-    anschließend geräuchert.
+(3.5) Getrocknetes Erzeugnis, das auf 70*C erhitzt und anschließend einem 8-
+    bis 12-tägigen Trocknungs- oder Räucherverfahren unterzogen wird.
+    Fermentierte Erzeugnisse werden einem 14- bis 30-tägigen dreistufigen
+    Fermentierungsverfahren unterzogen und anschließend geräuchert.
 
 
 (3.6) Rohe fermentierte getrocknete Wurst ohne Zusatz von Nitriten. Das
-    Erzeugnis wird bei Temperaturen zwischen 18 und 22*
-    C oder weniger (10 bis 12*                   C) fermentiert; daran
-    schließt sich eine Alterungs-/Reifezeit von mindestens 3 Wochen an.
-    Das Erzeugnis hat ein Wasser-Eiweiß-Verhältnis unter 1,7.
+    Erzeugnis wird bei Temperaturen zwischen 18 und 22*C oder weniger (10
+    bis 12*C) fermentiert; daran schließt sich eine Alterungs-/Reifezeit
+    von mindestens 3 Wochen an. Das Erzeugnis hat ein Wasser-Eiweiß-
+    Verhältnis unter 1,7.
 
 
 
@@ -13218,28 +13221,29 @@ Antioxidationsmittel für bestimmte Lebensmittel
     Ss + Bs: Ss und Bs einzeln oder in Kombination verwendet.
 [^BJNR023100998BJNE001503310_001_BJNR023100998BJNE001505310]:     Ss + PHB: Ss und PHB einzeln oder in Kombination verwendet.
 [^BJNR023100998BJNE001503310_002_BJNR023100998BJNE001505310]:     Ss + Bs + PHB: Ss, Bs und PHB einzeln oder in Kombination verwendet.
-[^BJNR023100998BJNE001503310_003_BJNR023100998BJNE001505310]: [^BJNR023100998BJNE001503310_004_BJNR023100998BJNE001505310]:     Ein SO                            2             -Gehalt von nicht mehr
-    als 10 mg/kg bzw. 10 mg/l wird als nicht vorhanden betrachtet.
+[^BJNR023100998BJNE001503310_003_BJNR023100998BJNE001505310]: [^BJNR023100998BJNE001503310_004_BJNR023100998BJNE001505310]:     Ein SO2-Gehalt von nicht mehr als 10 mg/kg bzw. 10 mg/l wird als nicht
+    vorhanden betrachtet.
     Zusatz zu Lebensmitteln nur als Nitritpökelsalz.
-[^f770809_11_BJNR023100998BJNE001505310]: [^f770809_12_BJNR023100998BJNE001505310]:     *             C (Verminderung der Bakterienlast von einer Milliarde
-    Sporen je 1 000 Dosen auf eine Spore in 1 000 Dosen).
+[^f770809_11_BJNR023100998BJNE001505310]: [^f770809_12_BJNR023100998BJNE001505310]:     *C (Verminderung der Bakterienlast von einer Milliarde Sporen je 1 000
+    Dosen auf eine Spore in 1 000 Dosen).
     Aufgrund der natürlichen Umwandlung von Nitriten in Nitrate in
     säurearmem Milieu können manche wärmebehandelten Fleischerzeugnisse
     Nitrate enthalten.
 [^f770809_13_BJNR023100998BJNE001505310]:     Bei gemeinsamer Verwendung von Gallaten, TBHQ, BHA und BHT sind die
     Einzelmengen prozentual zu reduzieren.
 [^f770809_02_BJNR023100998BJNE001505310]: 
+(zu § 6 und § 7)
 
-## Anlage 6 (zu § 6 und § 7) In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
+## Anlage 6 In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1545 - 1549;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Teil A             Nahrungen für Säuglinge und Kleinkinder nach
-Maßgabe der Teile B, C, D und E dürfen E 414 (Gummi arabicum) und E
-551 (Siliciumdioxid) enthalten, die sich aus dem Zusatz von
-Zubereitungen ergeben, die nicht mehr als 150 g/kg an E 414 und nicht
-mehr als 10 g/kg an E 551 enthalten; ferner ist der Zusatz von E 421
-(Mannit) zulässig, sofern dieser als Trägerstoff für Vitamin
+Teil ANahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile
+B, C, D und E dürfen E 414 (Gummi arabicum) und E 551 (Siliciumdioxid)
+enthalten, die sich aus dem Zusatz von Zubereitungen ergeben, die
+nicht mehr als 150 g/kg an E 414 und nicht mehr als 10 g/kg an E 551
+enthalten; ferner ist der Zusatz von E 421 (Mannit) zulässig, sofern
+dieser als Trägerstoff für Vitamin
 B(tief)12 dient (Verhältnis Vitamin
 B(tief)12: Mannit nicht kleiner als 1:1 000). Der Restgehalt an E 414
 in dem verzehrfertigen Erzeugnis sollte nicht mehr als 10 mg/kg
@@ -14424,8 +14428,9 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
 
 
 
+(zu § 6a)
 
-## Anlage 6a (zu § 6a) Zusatzstoffe, die für Trinkwasser zugelassen sind
+## Anlage 6a Zusatzstoffe, die für Trinkwasser zugelassen sind
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1399 - 1400)
 
@@ -14600,8 +14605,9 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
 
 
 
+(zu § 5 Abs. 1)
 
-## Anlage 7 (zu § 5 Abs. 1) Zusatzstoffe für bestimmte technologische Zwecke
+## Anlage 7 Zusatzstoffe für bestimmte technologische Zwecke
 
 Fundstelle des Originaltextes: BGBl. I 1998, 268 - 269;
 bzgl. der einzelnen Änderungen vgl. Fußnote

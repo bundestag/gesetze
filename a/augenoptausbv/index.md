@@ -459,8 +459,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Augenoptiker/zur
 Augenoptikerin vom 4. März 1997 (BGBl. I S. 436) außer Kraft.
 
+(zu § 3 Absatz 1 Satz 1)
 
-## Anlage (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
 
 (Fundstelle: BGBl. I 2011, 701 - 704)
 

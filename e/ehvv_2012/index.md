@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2048
 
-Geändert durch
-:   Art. 5 G v. 21.7.2011 I 1475
+Zuletzt geändert durch
+:   Art. 134 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -84,7 +84,7 @@ durch Gebühreneinnahmen gedeckten Kosten der Deutschen
 Emissionshandelsstelle beim Umweltbundesamt für das jeweilige
 Haushaltsjahr erforderlich sind; diese Kosten ergeben sich aus dem
 Bundeshaushaltsplan, Einzelplan des Bundesministeriums für Umwelt,
-Naturschutz und Reaktorsicherheit, Kapitel 1605 „Umweltbundesamt“.
+Naturschutz und nukleare Sicherheit, Kapitel 1605 „Umweltbundesamt“.
 Überdeckungen und Unterdeckungen sind auf den zukünftigen
 Refinanzierungsbedarf anzurechnen. Im Jahr 2012 erhöht sich die Menge
 an Berechtigungen nach Absatz 1 Nummer 2 insgesamt um eine Anzahl an

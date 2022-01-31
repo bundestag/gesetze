@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 1977, 2750, 2753
 
 Zuletzt geändert durch
-:   Art. 158 V v. 31.10.2006 I 2407
+:   Art. 302 V v. 31.8.2015 I 1474
 
 
 ## § 1 Meldungen
 
 (1) Die Unternehmen, die in der Bundesrepublik Deutschland
 Steinkohlenbergbau betreiben (Bergbauunternehmen), melden dem
-Bundesministerium für Wirtschaft und Technologie bis zum 15. November
+Bundesministerium für Wirtschaft und Energie bis zum 15. November
 eines jeden Jahres nach Maßgabe des Absatzes 2
 
 1.  bezogen auf Anfang und Ende des vorangegangenen Kalenderjahres
@@ -76,20 +76,19 @@ eines jeden Jahres nach Maßgabe des Absatzes 2
 
 
 Mit den Meldungen teilen die Bergbauunternehmen dem Bundesministerium
-für Wirtschaft und Technologie zugleich die für das laufende und für
-die darauffolgenden drei Kalenderjahre zu erwartende Entwicklung der
-nach Satz 1 zu meldenden Daten mit.
+für Wirtschaft und Energie zugleich die für das laufende und für die
+darauffolgenden drei Kalenderjahre zu erwartende Entwicklung der nach
+Satz 1 zu meldenden Daten mit.
 
 (2) Für die Meldungen nach Absatz 1 sind die vom Bundesministerium für
-Wirtschaft und Technologie herausgegebenen Vordrucke zu verwenden, die
+Wirtschaft und Energie herausgegebenen Vordrucke zu verwenden, die
 eine weitere Aufschlüsselung vorsehen können.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung auch die Meldung von anderen als
-den nach Absatz 1 zu meldenden Daten durch Bergbauunternehmen
-vorzuschreiben, soweit dies für eine umfassende Beurteilung der
-wirtschaftlichen Entwicklung des deutschen Steinkohlenbergbaus
-erforderlich ist.
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung auch die Meldung von anderen als den nach
+Absatz 1 zu meldenden Daten durch Bergbauunternehmen vorzuschreiben,
+soweit dies für eine umfassende Beurteilung der wirtschaftlichen
+Entwicklung des deutschen Steinkohlenbergbaus erforderlich ist.
 
 (4) Auf die nach dieser Vorschrift erlangten Kenntnisse sind die §§
 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie

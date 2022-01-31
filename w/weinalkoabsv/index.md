@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 22.12.2005 I 3664;
 
-Geändert durch
-:   Art. 2 Abs. 99 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 16 Abs. 5 G v. 10.3.2017 I 420
 
 
 ## § 1 Anwendungsbereich
@@ -28,10 +28,9 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
 Gemeinschaften über den Absatz von Alkohol aus Destillationen im
 Rahmen der gemeinsamen Marktorganisation für Wein sowie seine
-Verwendung, Verarbeitung oder Ausfuhr. Die Vorschriften des Zweiten
-Teils des Gesetzes über das Branntweinmonopol und die zu ihrer
-Ausführung erlassenen Vorschriften in der jeweils geltenden Fassung
-bleiben unberührt.
+Verwendung, Verarbeitung oder Ausfuhr. Die Vorschriften des
+Alkoholsteuergesetzes und der zu seiner Ausführung erlassenen
+Rechtsverordnungen bleiben unberührt.
 
 
 ## § 2 Zuständigkeit
@@ -42,67 +41,12 @@ Ernährung (Bundesanstalt), soweit nicht nach Maßgabe dieser Verordnung
 die Bundesfinanzverwaltung zuständig ist.
 
 
-## § 2a Zulassungsverfahren für den Absatz im Kraftstoffsektor
-
-(1) Der Antrag auf Zulassung ist von einem Unternehmen, das nach den
-in § 1 genannten Rechtsakten Alkohol zur Verwendung im
-Kraftstoffsektor in der Gemeinschaft erwerben will, mindestens fünf
-Werktage vor dem Tag der Veröffentlichung der
-Ausschreibungsbekanntmachung bei der Bundesanstalt schriftlich
-einzureichen. Auf Verlangen der Bundesanstalt hat der Antragsteller
-Unterlagen unverzüglich auch elektronisch zu übermitteln. Die
-Bundesanstalt kann für den Antrag Muster im Bundesanzeiger bekannt
-geben und die Verwendung der Muster verlangen.
-
-(2) Der Antrag muss die in den in § 1 genannten Rechtsakten
-vorgeschriebenen Unterlagen und Angaben enthalten. Soweit die
-Unterlagen bereits
-
-1.  nach dem Fünften Abschnitt des Ersten Teils oder des Zweiten Teils des
-    Gesetzes über das Branntweinmonopol oder
-
-
-2.  nach den §§ 6 und 7 des Mineralölsteuergesetzes
-
-
-
-sowie den jeweils zu ihrer Ausführung erlassenen Vorschriften in der
-jeweils geltenden Fassung vorgeschrieben sind, können beglaubigte
-Kopien der in den Steuerverfahren vorgelegten Unterlagen auch für den
-Zulassungsantrag vorgelegt werden.
-
-(3) Zum Zwecke der Überprüfung der mit dem Zulassungsantrag
-eingereichten Unterlagen dürfen Beschäftigte der Bundesanstalt und
-deren Beauftragte
-
-1.  während der Geschäfts- oder Betriebszeit Grundstücke sowie Geschäfts-,
-    Betriebs- und Lagerräume sowie Transportmittel betreten,
-
-
-2.  Besichtigungen vornehmen,
-
-
-3.  alle in schriftlicher oder elektronischer Form vorliegenden
-    Geschäftsunterlagen einsehen, prüfen und verlangen, dass hieraus
-    Abschriften, Auszüge, Ausdrucke oder Kopien angefertigt und überlassen
-    werden und
-
-
-4.  die erforderlichen Auskünfte verlangen.
-
-
-
-
-
 ## § 3 Überwachung
 
 (1) Der Alkohol wird vom Zeitpunkt der Abgabe aus dem
 Interventionslager bis zu seiner Verwendung, Verarbeitung oder Ausfuhr
 aus Marktordnungsgründen der amtlichen Überwachung durch die
 Bundesfinanzverwaltung nach Maßgabe dieser Verordnung unterstellt.
-Wird Alkohol bei der Bundesmonopolverwaltung für Branntwein
-(Bundesmonopolverwaltung) gelagert, verwendet oder verarbeitet, ist
-die Bundesanstalt zuständig.
 
 (2) Überwachende Zollstelle ist die Zollstelle, in deren Bezirk der
 Alkohol verwendet oder verarbeitet wird, im Falle der Ausfuhr in
@@ -128,9 +72,9 @@ der überwachenden Stelle nach § 3 Abs. 2 mitzuteilen
 
 2.  Beginn und Ende der Beförderung des erworbenen Alkohols vom
     Interventionslager zum Verwendungs- oder Verarbeitungsbetrieb, die
-    nach den Vorschriften des Zweiten Teils des Gesetzes über das
-    Branntweinmonopol und den dazu ergangenen Ausführungsbestimmungen im
-    Steueraussetzungsverfahren zu erfolgen hat,
+    nach den Vorschriften des Alkoholsteuergesetzes und den dazu
+    ergangenen Ausführungsbestimmungen im Steueraussetzungsverfahren zu
+    erfolgen hat,
 
 
 3.  Beginn und Ende des Zeitraums, in der die Verwendung oder Verarbeitung
@@ -168,10 +112,9 @@ Verwender oder Verarbeiter
 
 
 
-vorzulegen, sofern dies nicht bereits nach dem Zweiten Teil des
-Gesetzes über das Branntweinmonopol und den dazu ergangenen
-Ausführungsbestimmungen in der jeweils geltenden Fassung erforderlich
-ist.
+vorzulegen, sofern dies nicht bereits nach dem Alkoholsteuergesetz
+sowie aus den zu seiner Ausführung erlassenen Rechtsverordnungen
+erforderlich ist.
 
 (4) Die überwachende Stelle nach § 3 Abs. 2 kann dem Verwender oder
 Verarbeiter weitere Auflagen erteilen, soweit es der Überwachungszweck
@@ -180,10 +123,9 @@ erfordert.
 
 ## § 5 Aufzeichnungspflichten, Aufbewahrungsfristen, Inventur
 
-(1) Soweit sich dies nicht bereits aus dem Zweiten Teil des Gesetzes
-über das Branntweinmonopol und den dazu erlassenen
-Ausführungsbestimmungen in der jeweils geltenden Fassung ergibt, ist
-der Verwender oder Verarbeiter verpflichtet,
+(1) Soweit sich dies nicht bereits aus dem Alkoholsteuergesetz sowie
+den zu seiner Ausführung erlassenen Rechtsverordnungen ergibt, ist der
+Verwender oder Verarbeiter verpflichtet,
 
 1.  ordnungsgemäß kaufmännische Bücher zu führen,
 
@@ -325,7 +267,7 @@ Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 ausgeführt werden, übersendet die Bundesanstalt jeweils eine
 Durchschrift des Abholscheins an die Zollstelle, in deren Bezirk der
 Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol unverzüglich
-der in Satz 1 genannten Zollstelle nach § 9 der
+der in Satz 1 genannten Zollstelle nach § 12 der
 Außenwirtschaftsverordnung zu übermitteln und anzumelden und dabei ein
 Kontrollexemplar T5 in zwei Stücken unter Angabe der übernommenen
 Menge des Alkohols, der Nummer des Abholscheins sowie mit den nach den

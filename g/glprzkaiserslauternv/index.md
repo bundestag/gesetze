@@ -1,7 +1,8 @@
 ---
-Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule -
-  Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in Kaiserslautern
-  mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen
+Title: Verordnung zur Gleichstellung von Prüfungszeugnissen der  Berufsfachschule
+  - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in
+  Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung
+  in  Ausbildungsberufen
 jurabk: GlPrZKaiserslauternV
 layout: default
 origslug: glprzkaiserslauternv
@@ -9,7 +10,7 @@ slug: glprzkaiserslauternv
 
 ---
 
-# Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen (GlPrZKaiserslauternV)
+# Verordnung zur Gleichstellung von Prüfungszeugnissen der  Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in  Ausbildungsberufen (GlPrZKaiserslauternV)
 
 Ausfertigungsdatum
 :   2007-07-19
@@ -17,11 +18,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1489
 
-Zuletzt geändert durch
-:   Art. 1 V v. 20.6.2012 I 1388
-
 V aufgeh. durch
-:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1388 mWv 1.10.2016
+:   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1388 mWv 1.10.2016; die Geltung dieser V ist gem. § 3 Abs. 1 idF d. Art. 1 V v. 18.7.2016 I 1721 über den 1.10.2016 hinaus bis zum 30.9.2026 verlängert worden
+
+Zuletzt geändert durch
+:   Art. 1 V v. 18.7.2016 I 1721
 
 
 
@@ -41,7 +42,7 @@ Bundesinstituts für Berufsbildung:
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
-Die vom 1. Oktober 2006 bis zum 30. September 2016 von der
+Die vom 1. Oktober 2006 bis zum 30. September 2026 von der
 Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des
 Bezirksverbandes Pfalz in Kaiserslautern erteilten Prüfungszeugnisse
 über erfolgreich abgelegte Abschlussprüfungen werden mit den
@@ -171,7 +172,7 @@ gelten fort.
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. Oktober 2006 in Kraft
-und am 1. Oktober 2016 außer Kraft.
+und am 1. Oktober 2026 außer Kraft.
 
 (2)
 

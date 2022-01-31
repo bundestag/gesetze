@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2215
 
+Zuletzt geändert durch
+:   Art. 3 V v. 26.1.2016 I 108
+
 [^F771544_01_BJNR221500008]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
     Informationsverfahren auf dem Gebiet der Normen und technischen
@@ -54,11 +57,22 @@ Bei dem gewerbsmäßigen Herstellen oder Behandeln von
 dürfen die in Satz 2 genannten Stoffe nicht verwendet werden. Stoffe
 im Sinne des Satzes 1 sind
 
-1.  Stoffe, die in Anlage 1 oder Anlage 3 Teil A für den dort in Spalte f
-    genannten Anwendungsbereich 2, 3 oder 4 der Kosmetik-Verordnung in der
-    Fassung der Bekanntmachung vom 7. Oktober 1997 (BGBl. I S. 2410), die
-    zuletzt durch die Verordnung vom 18. September 2008 (BGBl. I S. 1840)
-    geändert worden ist, aufgeführt sind,
+1.  Stoffe, die in der Verordnung (EG) Nr. 1223/2009 des Europäischen
+    Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel
+    (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung
+    (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22)
+    geändert worden ist,
+
+    a)  in Anhang II aufgeführt sind oder
+
+
+    b)  in Anhang IV aufgeführt sind und nach Anhang IV Spalte g nur in
+        auszuspülenden oder abzuspülenden Mitteln, nicht in Mitteln, die auf
+        Schleimhäute aufgetragen werden, oder nicht in Augenmitteln verwendet
+        werden dürfen,
+
+
+
 
 
 2.  Azofarbstoffe, die durch reduktive Spaltung einer oder mehrerer
@@ -234,8 +248,9 @@ Diese Verordnung tritt am 1. Mai 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Satz 2 Nr. 2)
 
-## Anlage 1 (zu § 1 Satz 2 Nr. 2) Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
+## Anlage 1 Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
 
 (Fundstelle: BGBl. I 2008, 2217 - 2218)
 
@@ -485,10 +500,11 @@ Der Bundesrat hat zugestimmt.
     *
 
 
+   (zu § 1 Satz 2 Nr. 3)
 
-## Anlage 2 (zu § 1 Satz 2 Nr. 3) Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
+## Anlage 2 Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
 
-   (Fundstelle: BGBl. I 2008, 2219)
+(Fundstelle: BGBl. I 2008, 2219)
 
 *    *   CI-Name
 

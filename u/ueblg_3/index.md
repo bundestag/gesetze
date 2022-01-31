@@ -49,8 +49,9 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 ## (XXXX) §§ 17 bis 20
 
 
+(§ 12 Abs. 2)
 
-## Anlage 1 (§ 12 Abs. 2) Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
+## Anlage 1 Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
 
 (Fundstelle: BGBl. I 1952, 5)
 
@@ -130,8 +131,9 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 
 
+(§ 12 Abs. 3)
 
-## Anlage 2 (§ 12 Abs. 3) Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
+## Anlage 2 Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
 
 1\.
 
@@ -149,8 +151,9 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 
 
+(§ 13 Abs. 2)
 
-## Anlage 3 (§ 13 Abs. 2) Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
+## Anlage 3 Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
 
 (Fundstelle: BGBl. I 1952, 5 - 6)
 
@@ -284,8 +287,9 @@ dem Land Berlin in monatlichen Teilbeträgen zu überweisen.
 
 
 
+(§ 12 Abs. 3)
 
-## Anlage 4 (§ 12 Abs. 3) Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden*.
+## Anlage 4 Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden\*.
 
 (Fundstelle: BGBl. I 1952, 822 - 823;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

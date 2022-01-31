@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1554
 
 Zuletzt geändert durch
-:   Art. 58 G v. 23.12.2003 I 2848
+:   Art. 2 V v. 23.9.2021 I 4386
 
 
 ## Eingangsformel
@@ -69,6 +69,10 @@ ein Steuerabzug durchgeführt wird.
 zulassen, wenn die Zahlungen geringe oder keine steuerliche Bedeutung
 haben.
 
+(3) Absatz 1 gilt für die in § 93a Absatz 2 der Abgabenordnung
+bezeichneten öffentlichen Stellen erstmals für nach dem 31. Dezember
+2023 geleistete Zahlungen.
+
 
 ### § 3 Honorare der Rundfunkanstalten
 
@@ -93,11 +97,40 @@ die Einschränkung einer steuerlichen Vergünstigung zur Folge haben
 können.
 
 
-### § 4a Ausfuhrerstattungen
+### § 4a Ordnungsgelder nach § 335 des Handelsgesetzbuchs
 
-Die Zollbehörden haben den Landesfinanzbehörden die im Rahmen der
-gemeinsamen Marktorganisationen gewährten Ausfuhrerstattungen
-mitzuteilen.
+(1) Das Bundesamt für Justiz hat als mitteilungspflichtige Stelle
+(§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden die Adressaten
+und die Höhe von nach dem 31. Dezember 2021 im Verfahren nach § 335
+des Handelsgesetzbuchs festgesetzten Ordnungsgeldern mitzuteilen,
+sofern das festgesetzte Ordnungsgeld mindestens 5 000 Euro beträgt.
+
+(2) Die in Absatz 1 bezeichneten Daten sind den Finanzbehörden nach
+Maßgabe des § 93c der Abgabenordnung nach amtlich vorgeschriebenem
+Datensatz über die amtlich bestimmte Schnittstelle zu übermitteln. Die
+Mitteilung hat abweichend von § 93c Absatz 1 Nummer 1 der
+Abgabenordnung spätestens bis zum 31. März des auf die Festsetzung des
+Ordnungsgelds folgenden Kalenderjahres zu erfolgen. Das
+Bundesministerium der Finanzen kann im Einvernehmen mit den obersten
+Finanzbehörden der Länder die Mitteilungsfrist nach Satz 2 durch ein
+im Bundessteuerblatt Teil I zu veröffentlichendes Schreiben
+verlängern, sofern die technischen Voraussetzungen für die Annahme der
+Mitteilungen nicht rechtzeitig vorliegen. Die §§ 8 bis 12 sind nicht
+anzuwenden.
+
+(3) Sind dem Bundesamt für Justiz bei Festsetzung des Ordnungsgelds
+die in § 93c Absatz 1 Nummer 2 Buchstabe c und d der Abgabenordnung
+bezeichneten Daten nicht bekannt, soll es den Finanzbehörden die
+Handelsregisternummer der Gesellschaft oder andere ihm bekannte und
+zur automationsgestützten Identifizierung des Adressaten der
+Ordnungsgeldfestsetzung geeignete Daten übermitteln. Die den
+Finanzbehörden übermittelten Daten sind abweichend von § 93c Absatz 1
+Nummer 4 der Abgabenordnung fünf Jahre aufzubewahren; die Frist
+beginnt mit dem Tag der Festsetzung des Ordnungsgelds. Weitergehende
+Aufbewahrungsbestimmungen aufgrund anderer Rechtsvorschriften bleiben
+unberührt. Wird die Festsetzung eines Ordnungsgelds in einem späteren
+Kalenderjahr ganz oder teilweise widerrufen, zurückgenommen oder
+aufgehoben, ist § 93c Absatz 3 der Abgabenordnung nicht anzuwenden.
 
 
 ### § 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
@@ -286,16 +319,169 @@ zu übersenden, soweit nicht über die einzelne Zahlung bereits eine
 Unterrichtung erfolgt ist.
 
 
-## 4. Teil - Schlußvorschriften
+## 4. Teil - Besondere Vorschriften zu Mitteilungen über Billigkeitsleistungen anlässlich der Corona-Krise
 
 
 
-### § 13 Inkrafttreten
+### § 13 Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise
 
-Diese Verordnung tritt am 1. Januar 1994 in Kraft.
+(1) Behörden und andere öffentliche Stellen des Bundes und der Länder
+haben als mitteilungspflichtige Stellen (§ 93c Absatz 1 der
+Abgabenordnung) den Finanzbehörden folgende als Subvention oder
+ähnliche Förderungsmaßnahme bewilligte Leistungen nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+nach Maßgabe des § 93c der Abgabenordnung mitzuteilen:
+
+1.  Soforthilfen des Bundes für kleine Unternehmen, Soloselbstständige und
+    Angehörige der Freien Berufe zur Milderung der finanziellen Notlagen
+    dieser Unternehmen aufgrund der Corona-Krise,
+
+
+2.  Überbrückungshilfen des Bundes für kleine und mittelständische
+    Unternehmen, Soloselbstständige und Angehörige der Freien Berufe, die
+    ihren Geschäftsbetrieb im Zuge der Corona-Krise ganz oder zu
+    wesentlichen Teilen einstellen müssen oder mussten, oder
+
+
+3.  andere Soforthilfen, Überbrückungshilfen oder vergleichbare
+    Billigkeitsleistungen des Bundes oder des jeweiligen Landes für
+    Unternehmen, Soloselbstständige und Angehörige der Freien Berufe
+    anlässlich der Corona-Krise.
+
+
+
+Satz 1 Nummer 3 gilt nicht für aufgrund der Corona-Krise gewährte
+
+1.  Subventionen oder ähnliche Förderungsmaßnahmen der Gemeinden oder
+    Gemeindeverbände,
+
+
+2.  Hilfsleistungen nach dem Fünften und Elften Buch Sozialgesetzbuch,
+
+
+3.  Hilfsleistungen nach der COVID-19-Versorgungsstrukturen-
+    Schutzverordnung vom 30. April 2020 (BAnz. AT 04.05.2020 V1)
+
+
+4.  Leistungen nach dem Krankenhausfinanzierungsgesetz und
+
+
+5.  Leistungen nach dem Sozialdienstleister-Einsatzgesetz.
+
+
+
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz
+1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben
+mitzuteilen:
+
+1.  die Art und Höhe der jeweils gewährten Zahlung,
+
+
+2.  das Datum, an dem die Zahlung bewilligt wurde,
+
+
+3.  das Datum der Zahlung oder der Zahlungsanordnung und
+
+
+4.  bei unbarer Zahlung die Bankverbindung für das Konto, auf das die
+    Leistung erbracht wurde.
+
+
+
+Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren
+Kalenderjahr ganz oder teilweise zurückerstattet, ist die Rückzahlung
+abweichend von § 93c Absatz 3 der Abgabenordnung von der
+mitteilungspflichtigen Stelle unter Angabe des Datums, an dem die
+Zahlung bei der mitteilungspflichtigen Stelle eingegangen ist,
+mitzuteilen.
+
+(3) Mitteilungen über im Kalenderjahr 2020 ausgezahlte Leistungen sind
+abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach
+Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der
+Freigabe der amtlich bestimmten Schnittstelle bis zum 30. April 2021
+zu übermitteln. Das Bundesministerium der Finanzen kann im
+Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach
+Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes
+Schreiben verlängern, sofern die technischen Voraussetzungen für die
+Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten
+Antrag einer mitteilungspflichtigen Stelle kann die oberste
+Finanzbehörde desjenigen Landes, in dem die mitteilungspflichtige
+Stelle ihren Sitz hat, dieser die Frist nach Satz 1 oder Satz 2 um
+längstens zehn Monate verlängern, sofern die technischen
+Voraussetzungen für die Übersendung der Mitteilungen bei der
+mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
+Bundesministerium der Finanzen ist über eine gewährte
+Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser
+Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2
+bleiben unberührt.
 
 
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
+
+
+### § 14 Mitteilung von Zahlungen der Kassenärztlichen Vereinigungen an die Anbieter von Leistungen nach der Coronavirus-Testverordnung
+
+(1) Die Kassenärztlichen Vereinigungen haben als mitteilungspflichtige
+Stelle im Sinne des § 93c Absatz 1 der Abgabenordnung den
+Finanzbehörden die von ihnen nach dem 31. Dezember 2020 an
+Leistungserbringer geleisteten Zahlungen nach der Coronavirus-
+Testverordnung nach amtlich vorgeschriebenem Datensatz über die
+amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der
+Abgabenordnung mitzuteilen. Als Steuerpflichtiger im Sinne des § 93c
+Absatz 1 Nummer 2 Buchstabe c oder Buchstabe d der Abgabenordnung ist
+stets der Leistungserbringer zu benennen, auch wenn die
+Erstattungsforderung abgetreten, verpfändet oder gepfändet ist. Von
+der Mitteilungspflicht ausgenommen sind Zahlungen nach Satz 1 an
+öffentliche Stellen des Bundes oder eines Landes im Sinne des § 6
+Absatz 1a bis 1c der Abgabenordnung.
+
+(2) Zur Sicherstellung der Besteuerung sind neben den in § 93c Absatz
+1 Nummer 2 der Abgabenordnung genannten Angaben folgende Angaben
+mitzuteilen:
+
+1.  die im jeweils vorangegangenen Kalenderjahr geleisteten Zahlungen im
+    Sinne von Absatz 1 unter Angabe des jeweiligen Rechtsgrunds der
+    Zahlung,
+
+
+2.  das Datum der Zahlungen und
+
+
+3.  bei unbarer Zahlung die Bankverbindung für das Konto, auf das die
+    Zahlungen geleistet wurden.
+
+
+
+Werden mitteilungspflichtige Zahlungen in einem späteren Kalenderjahr
+ganz oder teilweise zurückerstattet, ist die Rückzahlung abweichend
+von § 93c Absatz 3 der Abgabenordnung von der mitteilungspflichtigen
+Stelle unter Angabe des Datums, an dem die Zahlung bei der
+mitteilungspflichtigen Stelle eingegangen ist, mitzuteilen.
+
+(3) Mitteilungen über die im Kalenderjahr 2021 ausgezahlten Leistungen
+sind abweichend von § 93c Absatz 1 Nummer 1 der Abgabenordnung nach
+Veröffentlichung des amtlich vorgeschriebenen Datensatzes und der
+Freigabe der amtlich bestimmten Schnittstelle bis zum 30. April 2022
+zu übermitteln. Das Bundesministerium der Finanzen kann im
+Einvernehmen mit den obersten Finanzbehörden der Länder die Frist nach
+Satz 1 durch ein im Bundessteuerblatt Teil I zu veröffentlichendes
+Schreiben verlängern, sofern die technischen Voraussetzungen für die
+Annahme der Mitteilungen nicht rechtzeitig vorliegen. Auf begründeten
+Antrag einer mitteilungspflichtigen Stelle kann die oberste
+Finanzbehörde desjenigen Landes, in dem die mitteilungspflichtige
+Stelle ihren Sitz hat, dieser die Frist nach Satz 1 oder Satz 2 um
+längstens zehn Monate verlängern, sofern die technischen
+Voraussetzungen für die Übersendung der Mitteilungen bei der
+mitteilungspflichtigen Stelle nicht rechtzeitig vorliegen; das
+Bundesministerium der Finanzen ist über eine gewährte
+Fristverlängerung zu unterrichten.
+
+(4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser
+Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2
+bleiben hiervon unberührt.
 

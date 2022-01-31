@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2. 6.2003 I 744;
 
 Zuletzt geändert durch
-:   Art. 228 V v. 31.10.2006 I 2407
+:   Art. 430 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Begriffsbestimmungen
@@ -48,9 +48,9 @@ Zuletzt geändert durch
 
 (2) Zur Herbeiführung einer einheitlichen Handhabung des Gesetzes kann
 das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, welche
-Einrichtungen Verkaufsstellen gemäß Absatz 1 sind.
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates bestimmen, welche Einrichtungen
+Verkaufsstellen gemäß Absatz 1 sind.
 
 
 ### § 2 Begriffsbestimmungen
@@ -142,9 +142,9 @@ Tagen während des ganzen Tages geöffnet sein, am 24. Dezember jedoch
 nur bis 17 Uhr. Während der allgemeinen Ladenschlusszeiten ist der
 Verkauf von Reisebedarf zulässig.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
-und Technologie und für Arbeit und Soziales durch Rechtsverordnung mit
+und Energie und für Arbeit und Soziales durch Rechtsverordnung mit
 Zustimmung des Bundesrates Ladenschlusszeiten für die Verkaufsstellen
 auf Personenbahnhöfen vorzuschreiben, die sicherstellen, dass die
 Dauer der Offenhaltung nicht über das von den Bedürfnissen des
@@ -153,7 +153,7 @@ Waren in den genannten Verkaufsstellen während der allgemeinen
 Ladenschlusszeiten (§ 3) auf bestimmte Waren beschränken.
 
 (2a) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-zu bestimmen, dass in Städten mit über 200.000 Einwohnern zur
+zu bestimmen, dass in Städten mit über 200 000 Einwohnern zur
 Versorgung der Berufspendler und der anderen Reisenden mit Waren des
 täglichen Ge- und Verbrauchs sowie mit Geschenkartikeln
 
@@ -181,9 +181,9 @@ Flughäfen an allen Tagen während des ganzen Tages geöffnet sein, am
 allgemeinen Ladenschlusszeiten (§ 3) und an Sonn- und Feiertagen ist
 nur die Abgabe von Reisebedarf an Reisende gestattet.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
-und Technologie und für Arbeit und Soziales durch Rechtsverordnung mit
+und Energie und für Arbeit und Soziales durch Rechtsverordnung mit
 Zustimmung des Bundesrates Ladenschlusszeiten für die in Absatz 1
 genannten Verkaufsstellen vorzuschreiben und die Abgabe von Waren
 näher zu regeln.
@@ -235,15 +235,15 @@ erforderlich ist.
 ### § 12 Verkauf bestimmter Waren an Sonntagen
 
 (1) Das Bundesministerium für Arbeit und Soziales bestimmt im
-Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie
-und für Ernährung, Landwirtschaft und Verbraucherschutz durch
-Rechtsverordnung mit Zustimmung des Bundesrates, dass und wie lange an
-Sonn- und Feiertagen abweichend von der Vorschrift des § 3 Abs. 1 Nr.
-1 Verkaufsstellen für die Abgabe von Milch und Milcherzeugnissen im
-Sinne des § 4 Abs. 2 des Milch- und Fettgesetzes in der im
-Bundesgesetzblatt Teil III, gliederungsnummer 7842-1, veröffentlichten
-bereinigten Fassung, Bäcker- und Konditorwaren, frischen Früchten,
-Blumen und Zeitungen geöffnet sein dürfen.
+Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und
+für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung
+des Bundesrates, dass und wie lange an Sonn- und Feiertagen abweichend
+von der Vorschrift des § 3 Abs. 1 Nr. 1 Verkaufsstellen für die Abgabe
+von Milch und Milcherzeugnissen im Sinne des § 4 Abs. 2 des Milch- und
+Fettgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer
+7842-1, veröffentlichten bereinigten Fassung, Bäcker- und
+Konditorwaren, frischen Früchten, Blumen und Zeitungen geöffnet sein
+dürfen.
 
 (2) In den nach Absatz 1 erlassenen Rechtsverordnungen kann die
 Offenhaltung auf bestimmte Sonn- und Feiertage oder Jahreszeiten sowie
@@ -523,7 +523,7 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie durch
+mit dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
 Voraussetzungen und Bedingungen für die Bewilligung von Ausnahmen im
 Sinne des Absatzes 1 erlassen.
@@ -629,4 +629,9 @@ Verordnung, welche Behörden zuständig sind.
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
 
+
+
+### § 31
+
+(Inkrafttreten, Außerkrafttreten)
 

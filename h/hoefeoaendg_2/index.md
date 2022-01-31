@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   1976-03-29
 
 Fundstelle
-:   BGBl I: 1976, 881
+:   BGBl I: 1976, 881 (1977 I 288)
 
 
 

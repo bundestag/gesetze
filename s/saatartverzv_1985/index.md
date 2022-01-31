@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 27.10.2004 I 2696;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.10.2012 I 2270
+:   Art. 1 V v. 24.11.2020 I 2540
+
+Änderung durch
+:   Art. 1 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -153,24 +156,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.1.4
 
-    *   Sorghum bicolor (L.) Moench
+    *   Sorghum bicolor (L.) Moench subsp. bicolor
 
-    *   Mohrenhirse
+    *   Sorghum
 
 
 *    *   1.1.5
 
-    *   Sorghum sudanense (Piper) Stapf
+    *   Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex
+        Davidse
 
     *   Sudangras
 
 
 *    *   1.1.6
 
-    *   Sorghum bicolor x Sorghum sudanense
+    *   Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.)
+        Moench subsp. drummondii (Steud.) de Wet ex Davidse
 
-    *   Hybriden aus der Kreuzung
-        von Sorghum bicolor x Sorghum sudanense
+    *   Hybriden aus der Kreuzung von Sorghum x Sudangras
 
 
 *    *   1.1.7
@@ -183,21 +187,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.1.8
 
-    *   Triticum aestivum L.
+    *   Triticum aestivum L. subsp. aestivum
 
     *   Weichweizen
 
 
 *    *   1.1.9
 
-    *   Triticum durum Desf.
+    *   Triticum turgidum L. subsp. durum (Desf.) van Slageren
 
     *   Hartweizen
 
 
 *    *   1.1.10
 
-    *   Triticum spelta L.
+    *   Triticum aestivum L. subsp. spelta (L.) Thell.
 
     *   Spelz, Dinkel
 
@@ -296,7 +300,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.9.b
 
-    *   Festuca trachyphylla (Hack.) Krajina
+    *   Festuca trachyphylla (Hack.) Hack.
 
     *   Raublättriger Schafschwingel
 
@@ -325,7 +329,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.12
 
-    *   Lolium x boucheanum Kunth
+    *   Lolium x hybridum Hausskn.
 
     *   Bastardweidelgras
 
@@ -589,7 +593,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Brassica juncea (L.) Czern.
 
-    *   Sareptasenf
+    *   Sareptasenf, außer zur Nutzung als Blattgemüse
 
 
 *    *   1.3.2
@@ -711,274 +715,600 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
+        *            *   **2**
 
-*    *   **2**
+            *   **Gemüsearten außer für Zierzwecke**
+                (einschließlich aller Hybriden der nachfolgend aufgeführten Arten und
+                Gruppen)
 
-    *   **Gemüsearten außer für Zierzwecke**
 
+        *            *
+            *   Art
+                botanische Bezeichnung
 
-*    *   2.1
+            *[^F814042_02_BJNR017620985BJNE000722119]
+   Gruppe nach ICNCP
+                oder Sorte
 
-    *   Allium cepa L.
+            *   deutsche
+                Bezeichnung
 
-    *
 
-*    *
-    *   \_ Cepa Gruppe
+        *            *   2.1
 
-    *   Zwiebel, Echalion
+            *   Allium cepa                                  L.
 
+            *
+                –   Cepa-Gruppe
 
-*    *
-    *   \_ Aggregatum Gruppe
 
-    *   Schalotte
+                –   Aggregatum-Gruppe
 
 
-*    *   2.2
 
-    *   Allium fistulosum L.
 
-    *   Winterheckenzwiebel
+            *
+                –   Zwiebel, Echalion
 
 
-*    *   2.3
+                –   Schalotte
 
-    *   Allium porrum L.
 
-    *   Porree
 
 
-*    *   2.4
 
-    *   Allium sativum L.
+        *            *   2.2
 
-    *   Knoblauch
+            *   Allium fistulosum                                  L.
 
+            *   alle Sorten
 
-*    *   2.5
+            *   Winterheckenzwiebel
 
-    *   Allium schoenoprasum L.
 
-    *   Schnittlauch
+        *            *   2.3
 
+            *   Allium porrum                                  L.
 
-*    *   2.6
+            *   alle Sorten
 
-    *   Anthriscus cerefolium (L.) Hoffm.
+            *   Porree
 
-    *   Kerbel
 
+        *            *   2.4
 
-*    *   2.7
+            *   Allium sativum                                  L.
 
-    *   Apium graveolens L.
+            *   alle Sorten
 
-    *   Sellerie, Knollensellerie
+            *   Knoblauch
 
 
-*    *   2.8
+        *            *   2.5
 
-    *   Asparagus officinalis L.
+            *   Allium schoenoprasum                                  L.
 
-    *   Spargel
+            *   alle Sorten
 
+            *   Schnittlauch
 
-*    *   2.9
 
-    *   Beta vulgaris L.
+        *            *   2.6
 
-    *   Rote Rübe, Mangold
+            *   Anthriscus cerefolium                                  (L.) Hoffm.
 
+            *   alle Sorten
 
-*    *   2.10
+            *   Kerbel
 
-    *   Brassica oleracea L.
 
-    *   Grünkohl, Blumenkohl, Brokkoli, Rosenkohl, Wirsing, Weißkohl,Rotkohl,
-        Kohlrabi
+        *            *   2.7
 
+            *   Apium graveolens                                  L.
 
-*    *   2.11
+            *
+                –   Sellerie-Gruppe
 
-    *   Brassica rapa L.
 
-    *   Chinakohl, Herbstrübe, Mairübe, Stoppelrübe
+                –   Knollensellerie-Gruppe
 
 
-*    *   2.12
 
-    *   Capsicum annuum L.
 
-    *   Chili, Paprika, Pfefferoni
+            *
+                –   Sellerie
 
 
-*    *   2.13
+                –   Knollensellerie
 
-    *   Cichorium endivia L.
 
-    *   Endivie, Krausblättrige Endivie, Ganzblättrige Endivie
 
 
-*    *   2.14
 
-    *   Cichorium intybus L.
+        *            *   2.8
 
-    *   Chicorée, Zichorie, Blattzichorie, Gemüsezichorie,
-        Wurzelzichorie,Industriezichorie
+            *   Asparagus officinalis                                  L.
 
+            *   alle Sorten
 
-*    *   2.15
+            *   Spargel
 
-    *   Citrullus lanatus (Thunb.) Matsum. et Nakai
 
-    *   Wassermelone
+        *            *   2.9
 
+            *   Beta vulgaris                                  L.
 
-*    *   2.16
+            *
+                –   Rote-Rüben-Gruppe
 
-    *   Cucumis melo L.
 
-    *   Melone, Zuckermelone
+                –   Blattmangold-Gruppe
 
 
-*    *   2.17
 
-    *   Cucumis sativus L.
 
-    *   Gurke, Salatgurke, Einlegegurke
+            *
+                –   Rote Rübe, Rote Bete
 
 
-*    *   2.18
+                –   Mangold
 
-    *   Cucurbita maxima Duchesne
 
-    *   Riesenkürbis
 
 
-*    *   2.19
 
-    *   Cucurbita pepo L.
+        *            *   2.10
 
-    *   Gartenkürbis, Ölkürbis, Zucchini
+            *   Brassica oleracea                                  L.
 
+            *
+                –   Grünkohl-Gruppe
 
-*    *   2.20
 
-    *   Cynara cardunculus L.
+                –   Blumenkohl- oder
+                    Karfiol-Gruppe
 
-    *   Artischocke, Cardy, Kardonenartischocke
 
+                –   Capitata-Gruppe
 
-*    *   2.21
 
-    *   Daucus carota L.
+                –   Rosenkohl- oder
+                    Kohlsprossen-Gruppe
 
-    *   Karotte, Möhre, Futtermöhre
 
+                –   Kohlrabi-Gruppe
 
-*    *   2.22
 
-    *   Foeniculum vulgare Mill.
+                –   Wirsing- oder
+                    Wirsingkohl-Gruppe
 
-    *   Fenchel
 
+                –   Brokkoli-Gruppe
 
-*    *   2.23
 
-    *   Lactuca sativa L.
+                –   Palmkohl-Gruppe
 
-    *   Salat (Kopfsalat, Schnittsalat, Kochsalat)
 
+                –   Tronchuda-Gruppe
 
-*    *   2.24
 
-    *   Lycopersicon esculentum Mill. Tomate
 
-    *
 
-*    *   2.25
+            *
+                –   Grünkohl
 
-    *   Petroselinum crispum (Mill.)Nyman ex A. W. Hill
 
-    *   Petersilie
+                –   Blumenkohl
 
 
-*    *   2.26
+                –   Rotkohl, Weißkohl
 
-    *   Phaseolus coccineus L.
 
-    *   Prunkbohne, Feuerbohne
+                –   Rosenkohl
 
 
-*    *   2.27
+                –   Kohlrabi
 
-    *   Phaseolus vulgaris L.
 
-    *   Gartenbohne, Buschbohne, Stangenbohne
+                –   Wirsing
 
 
-*    *   2.28
+                –   Brokkoli
 
-    *   Pisum sativum L. (partim)
 
-    *   Erbse, Markerbse, Schalerbse, Zuckererbse außer Futtererbse
+                –   Palmkohl
 
 
-*    *   2.29
+                –   portugiesischer Kohl
 
-    *   Raphanus sativus L.
 
-    *   Radieschen, Rettich
 
 
-*    *   2.30
 
-    *   Rheum rhabarbarum L.
+        *            *   2.11
 
-    *   Rhabarber
+            *   Brassica rapa                                  L.
 
+            *
+                –   Chinakohl-Gruppe
 
-*    *   2.31
 
-    *   Scorzonera hispanica L.
+                –   Herbstrüben-, Mairüben-
+                    oder Stoppelrüben-Gruppe
 
-    *   Schwarzwurzel
 
 
-*    *   2.32
 
-    *   Solanum melongena L.
+            *
+                –   Chinakohl
 
-    *   Aubergine, Eierfrucht
 
+                –   Herbstrübe, Mairübe,
+                    Stoppelrübe
 
-*    *   2.33
 
-    *   Spinacia oleracea L.
 
-    *   Spinat
 
 
-*    *   2.34
+        *            *   2.12
 
-    *   Valerianella locusta (L.) Laterr.
+            *   Capsicum annuum                                  L.
 
-    *   Feldsalat, Rapunzel
+            *   alle Sorten
 
+            *   Chili, Paprika, Pfefferoni
 
-*    *   2.35
 
-    *   Vicia faba L. (partim)
+        *            *   2.13
 
-    *   Dicke Bohne, Puffbohne
+            *   Cichorium endivia                                  L.
 
+            *   alle Sorten
 
-*    *   2.36
+            *   Endivie
 
-    *   Zea mays L. (partim)
 
-    *   Zuckermais, Puffmais
+        *            *   2.14
+
+            *   Cichorium intybus                                  L.
+
+            *
+                –   Chicorée- oder
+                    Zichorie-Gruppe
+
+
+                –   Blattzichorie-Gruppe
+
+
+                –   Wurzelzichorie- oder
+                    Industriezichorie-Gruppe
+
+
+
+
+            *
+                –   Chicorée, Zichorie
+
+
+                –   Blattzichorie
+
+
+                –   Wurzelzichorie,
+                    Industriezichorie
+
+
+
+
+
+        *            *   2.15
+
+            *   Citrullus lanatus
+                (Thunb.) Matsum. et Nakai
+
+            *   alle Sorten
+
+            *   Wassermelone
+
+
+        *            *   2.16
+
+            *   Cucumis melo                                  L.
+
+            *   alle Sorten
+
+            *   Melone, Zuckermelone
+
+
+        *            *   2.17
+
+            *   Cucumis sativus                                  L.
+
+            *
+                –   Gurken- oder
+                    Salatgurken-Gruppe
+
+
+                –   Einlegegurken-Gruppe
+
+
+
+
+            *
+                –   Gurke, Salatgurke
+
+
+                –   Einlegegurke
+
+
+
+
+
+        *            *   2.18
+
+            *   Cucurbita maxima                                  Duchesne
+
+            *   alle Sorten
+
+            *   Riesenkürbis
+
+
+        *            *   2.19
+
+            *   Cucurbita pepo                                  L.
+
+            *   alle Sorten
+
+            *   Gartenkürbis, einschließlich
+                reifer Gartenkürbis, Patisson oder Zucchini, einschließlich
+                unreifer Patisson
+
+
+        *            *   2.20
+
+            *   Cynara cardunculus                                  L.
+
+            *
+                –   Artischocken-Gruppe
+
+
+                –   Cardy- oder Kardonenartischocken-Gruppe
+
+
+
+
+            *
+                –   Artischocke
+
+
+                –   Cardy, Kardonenartischocke
+
+
+
+
+
+        *            *   2.21
+
+            *   Daucus carota                                  L.
+
+            *   alle Sorten
+
+            *   Karotte, Möhre, Futtermöhre
+
+
+        *            *   2.22
+
+            *   Foeniculum vulgare                                  Mill.
+
+            *   Azoricum-Gruppe
+
+            *   Knollenfenchel
+
+
+        *            *   2.23
+
+            *   Lactuca sativa                                  L.
+
+            *   alle Sorten
+
+            *   Salat
+
+
+        *            *   2.24
+
+            *   Petroselinum crispum
+                (Mill.) Nyman ex A. W. Hill
+
+            *
+                –   Blattpetersilien-Gruppe
+
+
+                –   Wurzelpetersilien-Gruppe
+
+
+
+
+            *
+                –   Blattpetersilie
+
+
+                –   Wurzelpetersilie
+
+
+
+
+
+        *            *   2.25
+
+            *   Phaseolus coccineus                                  L.
+
+            *   alle Sorten
+
+            *   Prunkbohne, Feuerbohne
+
+
+        *            *   2.26
+
+            *   Phaseolus vulgaris                                  L.
+
+            *
+                –   Stangenbohnen-Gruppe
+
+
+                –   Buschbohnen-Gruppe
+
+
+
+
+            *
+                –   Stangenbohne
+
+
+                –   Buschbohne
+
+
+
+
+
+        *            *   2.27
+
+            *   Pisum sativum                                  L.
+
+            *
+                –   Schalerbsen-Gruppe
+
+
+                –   Markerbsen- oder
+                    Runzelerbsen-Gruppe
+
+
+                –   Zuckererbsen-Gruppe
+
+
+
+
+            *
+                –   Schalerbse
+
+
+                –   Markerbse
+
+
+                –   Zuckererbse
+
+
+
+
+
+        *            *   2.28
+
+            *   Raphanus sativus                                  L.
+
+            *
+                –   Radieschen-Gruppe
+
+
+                –   Rettich-Gruppe
+
+
+
+
+            *
+                –   Radieschen
+
+
+                –   Rettich
+
+
+
+
+
+        *            *   2.29
+
+            *   Rheum rhabarbarum                                  L.
+
+            *   alle Sorten
+
+            *   Rhabarber
+
+
+        *            *   2.30
+
+            *   Scorzonera hispanica                                  L.
+
+            *   alle Sorten
+
+            *   Schwarzwurzel
+
+
+        *            *   2.31
+
+            *   Solanum lycopersicum                                  L.
+
+            *   alle Sorten
+
+            *   Tomate
+
+
+        *            *   2.32
+
+            *   Solanum melongena                                  L.
+
+            *   alle Sorten
+
+            *   Aubergine, Eierfrucht
+
+
+        *            *   2.33
+
+            *   Spinacia oleracea                                  L.
+
+            *   alle Sorten
+
+            *   Spinat
+
+
+        *            *   2.34
+
+            *   Valerianella locusta                                  (L.) Laterr.
+
+            *   alle Sorten
+
+            *   Rapunzel, Feldsalat
+
+
+        *            *   2.35
+
+            *   Vicia faba                                  L.
+
+            *   alle Sorten
+
+            *   Dicke Bohne, Puffbohne
+
+
+        *            *   2.36
+
+            *   Zea mays                                  L.
+
+            *
+                –   Zuckermais-Gruppe
+
+
+                –   Puffmais-Gruppe
+
+
+
+
+            *
+                –   Zuckermais
+
+
+                –   Puffmais
+
+
+
+
+
+
 
 
 *    *
@@ -1164,3 +1494,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+    ICNCP – Internationaler Code der Nomenklatur der Kulturpflanzen
+    (International Code of Nomenclature for Cultivated Plants).
+[^F814042_02_BJNR017620985BJNE000722119]: 

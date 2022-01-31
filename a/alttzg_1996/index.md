@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1996, 1078
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 7 G v. 12.4.2012 I 579
+:   Art. 22 G v. 12.12.2019 I 2652
+
+Mittelbare änderung durch
+:   Art. 89 Nr. 2 G v. 20.8.2021 I 3932 ist berücksichtigt
 
 
 ## § 1 Grundsatz
@@ -524,9 +527,9 @@ nicht in Betracht.
 
 ## § 12 Verfahren
 
-(1) Die Agentur für Arbeit entscheidet auf schriftlichen Antrag des
-Arbeitgebers, ob die Voraussetzungen für die Erbringung von Leistungen
-nach § 4 vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der
+(1) Die Agentur für Arbeit entscheidet auf Antrag des Arbeitgebers, ob
+die Voraussetzungen für die Erbringung von Leistungen nach § 4
+vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der
 Anspruchsvoraussetzungen, wenn er innerhalb von drei Monaten nach
 deren Vorliegen gestellt wird, andernfalls wirkt er vom Beginn des
 Monats der Antragstellung. In den Fällen des § 3 Abs. 3 kann die
@@ -578,8 +581,8 @@ Höhe zuerkannt wird.
 ## § 13 Auskünfte und Prüfung
 
 Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des
-Zehnten Buches Sozialgesetzbuch gelten entsprechend. § 2 Abs. 1 Nr. 3
-des Schwarzarbeitsbekämpfungsgesetzes bleibt unberührt.
+Zehnten Buches Sozialgesetzbuch gelten entsprechend. § 2 Abs. 1 Satz 1
+Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes bleibt unberührt.
 
 
 ## § 14 Bußgeldvorschriften
@@ -625,16 +628,8 @@ ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
 
-## § 15 Verordnungsermächtigung
+## § 15 (weggefallen)
 
-Das Bundesministerium für Arbeit und Soziales kann durch
-Rechtsverordnung die Mindestnettobeträge nach § 3 Abs. 1 Nr. 1
-Buchstabe a in der bis zum 30. Juni 2004 gültigen Fassung bestimmen.
-Die Vorschriften zum Leistungsentgelt des Dritten Buches
-Sozialgesetzbuch gelten entsprechend. Das bisherige Arbeitsentgelt im
-Sinne des § 6 Abs. 1 in der bis zum 30. Juni 2004 gültigen Fassung ist
-auf den nächsten durch fünf teilbaren Euro-Betrag zu runden. Der
-Kalendermonat ist mit 30 Tagen anzusetzen.
 
 
 ## § 15a Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung
@@ -701,6 +696,26 @@ Ausnahme des § 15 weiterhin anzuwenden. Auf Antrag des Arbeitgebers
 erbringt die Bundesagentur abweichend von Satz 1 Leistungen nach § 4
 in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem
 1\. Juli 2004 maßgebenden Voraussetzungen erfüllt sind.
+
+
+## § 15h Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
+
+Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die
+Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1.
+Januar 2010 begonnen worden ist und die Voraussetzungen für einen
+Anspruch auf eine Rente für besonders langjährig Versicherte nach §
+236b des Sechsten Buches Sozialgesetzbuch erfüllt sind.
+
+
+## § 15i Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten
+Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in
+einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch
+Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als
+versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember
+2012 geltenden Voraussetzungen für das Vorliegen einer
+versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
 
 ## § 16 Befristung der Förderungsfähigkeit

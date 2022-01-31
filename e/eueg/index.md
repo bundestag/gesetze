@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 1956, 13
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 77 G v. 5.2.2009 I 160
+:   Art. 11a G v. 11.12.2018 I 2387
 
+Stand: Die Vorschrift gilt im Saarland gem. § 1 Nr. 59 V v. 26.8.1957 I 1255
 
 ## § 1 Arbeitsverhältnis bei Einberufung
 
@@ -232,11 +233,14 @@ Eignungsübung dem zuständigen Träger der Krankenversicherung
 unverzüglich zu melden. Sonstige Pflichtversicherte und freiwillig
 Versicherte haben diese Meldung selbst zu erstatten.
 
-(3) Für die Zeiten der Teilnahme an der Eignungsübung zahlt der Bund
-den zuständigen Trägern der Krankenversicherung ein Zehntel des
-Beitrags, der zuletzt vor Beginn der Eignungsübung zu entrichten war.
-Während der Eignungsübung eintretende Änderungen des Beitragssatzes
-und der Jahresarbeitsverdienstgrenze sind zu berücksichtigen.
+(3) Für die Zeit der Teilnahme an der Eignungsübung zahlt der Bund den
+zuständigen Trägern der Krankenversicherung den Beitrag zur
+gesetzlichen Krankenversicherung. Für die Bemessung des Beitrags wird
+10 Prozent der monatlichen Bezugsgröße nach § 18 des Vierten Buches
+Sozialgesetzbuch zugrunde gelegt und gilt der allgemeine Beitragssatz
+nach § 241 des Fünften Buches Sozialgesetzbuch zuzüglich des
+durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches
+Sozialgesetzbuch.
 
 
 ## § 8a Pflegeversicherung
@@ -244,10 +248,17 @@ und der Jahresarbeitsverdienstgrenze sind zu berücksichtigen.
 (1) Die Teilnahme an einer Eignungsübung berührt eine bestehende
 Pflegeversicherung nicht.
 
-(2) Für die Zeit der Teilnahme an einer Eignungsübung trägt der Bund
-die Hälfte des Beitrages zur sozialen Pflegeversicherung oder zahlt
-einen Beitragszuschuß für Privatversicherte entsprechend § 61 des
-Elften Buches Sozialgesetzbuch.
+(2) Für die Zeit der Teilnahme an der Eignungsübung wird bei der
+Bemessung des Beitrags zur sozialen Pflegeversicherung die monatliche
+Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch zugrunde
+gelegt.
+
+(3) Für die Zeit der Teilnahme an der Eignungsübung trägt der Bund die
+Hälfte des Beitrags zur sozialen Pflegeversicherung oder zahlt einen
+entsprechenden Beitragszuschuss zur privaten Pflege-
+Pflichtversicherung, höchstens jedoch die Hälfte des Betrages, den der
+Eignungsübende für seine private Pflege-Pflichtversicherung zu zahlen
+hat.
 
 
 ## § 9 Gesetzliche Rentenversicherung
@@ -317,8 +328,8 @@ nach Beendigung der Eignungsübung zu stellen.
 Personen, die an einer Eignungsübung teilnehmen, sind
 versicherungspflichtig nach dem Dritten Buch Sozialgesetzbuch. Für
 Zeiten der Teilnahme an der Eignungsübung trägt der Bund den Beitrag
-zur Arbeitsförderung. Der Beitrag ist in der gleichen Höhe wie zuletzt
-vor Beginn der Eignungsübung zu zahlen.
+zur Arbeitsförderung. Beitragsbemessungsgrundlage ist die monatliche
+Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch.
 
 
 ## § 11 (weggefallen)

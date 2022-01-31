@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1442
 
+G aufgeh. durch
+:   Art. 15 Abs. 5 G v. 17.7.2017 I 2581 mWv 1.1.2020
+
 Zuletzt geändert durch
-:   Art. 35 G v. 6.12.2011 I 2515
+:   Art. 1a G v. 17.7.2017 I 2581
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen von Berufsbezeichnungen
@@ -107,33 +110,41 @@ diesem Gesetz und in der Ausbildungs- und Prüfungsverordnung für die
 Berufe in der Krankenpflege geregelten Ausbildung aufweist.
 Wesentliche Unterschiede im Sinne des Satzes 2 liegen vor, wenn
 
-1.  die von den Antragstellern nachgewiesene Ausbildungsdauer mindestens
-    ein Jahr unter der in diesem Gesetz geregelten Ausbildungsdauer liegt,
+1.  die Ausbildung der Antragsteller hinsichtlich der beruflichen
+    Tätigkeit Fächer oder Bereiche der praktischen Ausbildung umfasst, die
+    sich wesentlich von denen unterscheiden, die nach diesem Gesetz und
+    nach der Ausbildungs- und Prüfungsverordnung für die Berufe in der
+    Krankenpflege vorgeschrieben sind, oder
 
 
-2.  die Ausbildung der Antragsteller sich auf Themenbereiche bezieht, die
-    sich wesentlich von der deutschen Ausbildung unterscheiden, oder
+2.  der Beruf des Gesundheits- und Kranken\*pflegers oder des Gesundheits-
+    und Kinderkrankenpflegers eine oder mehrere reglementierte Tätigkeiten
+    umfasst, die im Herkunftsstaat der Antragsteller nicht Bestandteil des
+    Berufs sind, der dem des Gesundheits- und Kranken\*pflegers oder des
+    Gesundheits- und Kinderkrankenpflegers entspricht, und wenn sich die
+    Ausbildung für diese Tätigkeiten auf Themenbereiche oder Bereiche der
+    praktischen Ausbildung nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für die Berufe in der Krankenpflege bezieht,
+    die sich wesentlich von denen unterscheiden, die von der Ausbildung
+    der Antragsteller abgedeckt sind, und
 
 
-3.  der Beruf des Gesundheits- und Krankenpflegers eine oder mehrere
-    reglementierte Tätigkeiten umfasst, die im Herkunftsstaat der
-    Antragsteller nicht Bestandteil des Berufs der Krankenschwester oder
-    des Krankenpflegers sind, die für die allgemeine Pflege verantwortlich
-    sind, und sich auf Themenbereiche bezieht, die sich wesentlich von
-    denen unterscheiden, die von dem Ausbildungsnachweis abgedeckt werden,
-    den die Antragsteller vorlegen, und
 
-
-
-die Antragsteller diese nicht durch Kenntnisse, die sie im Rahmen
-ihrer Berufspraxis als Krankenschwester oder Krankenpfleger, die für
-die allgemeine Pflege verantwortlich sind, unabhängig davon, in
-welchem Staat diese erworben wurden, ganz oder teilweise ausgleichen
-können. Themenbereiche unterscheiden sich wesentlich, wenn deren
-Kenntnis eine wesentliche Voraussetzung für die Ausübung des Berufs
-ist und die Ausbildung der Antragsteller bedeutende Abweichungen
-hinsichtlich Dauer oder Inhalt gegenüber der deutschen Ausbildung
-aufweist; Satz 3 letzter Halbsatz gilt entsprechend. Ist die
+die Antragsteller diese Unterschiede nicht durch Kenntnisse und
+Fähigkeiten ausgleichen können, die sie im Rahmen ihrer Berufspraxis
+als Gesundheits- und Krankenpfleger oder als Gesundheits- und
+Kinderkrankenpfleger in Voll- oder Teilzeit oder durch lebenslanges
+Lernen erworben haben, sofern die durch lebenslanges Lernen erworbenen
+Kenntnisse und Fähigkeiten von einer dafür in dem jeweiligen Staat
+zuständigen Stelle formell als gültig anerkannt wurden; dabei ist
+nicht entscheidend, in welchem Staat diese Kenntnisse und Fähigkeiten
+erworben worden sind. Themenbereiche oder Bereiche der praktischen
+Ausbildung unterscheiden sich wesentlich, wenn die nachgewiesene
+Ausbildung der Antragsteller wesentliche inhaltliche Abweichungen
+hinsichtlich der Kenntnisse und Fähigkeiten aufweist, die eine
+wesentliche Voraussetzung für die Ausübung des Berufs des Gesundheits-
+und Krankenpflegers oder des Gesundheits- und Kinderkrankenpflegers in
+Deutschland sind; Satz 3 letzter Teilsatz gilt entsprechend. Ist die
 Gleichwertigkeit des Ausbildungsstandes nach Satz 1 nicht gegeben oder
 kann sie nur mit unangemessenem zeitlichem oder sachlichem Aufwand
 festgestellt werden, weil die erforderlichen Unterlagen und Nachweise
@@ -191,75 +202,75 @@ abschließen, die den Mindestanforderungen des Artikels 31 in
 Verbindung mit dem Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG in
 der jeweils geltenden Fassung entspricht, und den für diesen Staat in
 der Anlage zu Satz 1 genannten Nachweisen gleichsteht. Inhaber eines
-bulgarischen Befähigungsnachweises für den Beruf des „*             “
-(„Feldscher“) haben keinen Anspruch auf Anerkennung ihres beruflichen
+bulgarischen Befähigungsnachweises für den Beruf des „*“ („Feldscher“)
+haben keinen Anspruch auf Anerkennung ihres beruflichen
 Befähigungsnachweises in anderen Mitgliedstaaten im Rahmen dieses
 Absatzes.
 
 (5) Für Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 Nr. 2
 anstreben, gilt die Voraussetzung des Absatzes 1 Nr. 1 als erfüllt,
-wenn aus einem in einem anderen Vertragsstaat des Europäischen
-Wirtschaftsraumes erworbenen Diplom hervorgeht, dass der Inhaber eine
-Ausbildung erworben hat, die in diesem Staat für den unmittelbaren
-Zugang zu einem dem Beruf des Gesundheits- und Kinderkrankenpflegers
-entsprechenden Beruf erforderlich ist. Diplome im Sinne dieses
-Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c
-der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
-vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
-(ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) in der jeweils
-geltenden Fassung, die dem in Artikel 11 Buchstabe c oder Buchstabe d
-der Richtlinie genannten Niveau entsprechen. Satz 2 gilt auch für
-einen Ausbildungsnachweis oder eine Gesamtheit von
+wenn aus einem Europäischen Berufsausweis oder aus einem in einem
+anderen Vertragsstaat des Europäischen Wirtschaftsraumes erworbenen
+Diplom hervorgeht, dass der Inhaber eine Ausbildung erworben hat, die
+in diesem Staat für den unmittelbaren Zugang zu einem dem Beruf des
+Gesundheits- und Kinderkrankenpflegers entsprechenden Beruf
+erforderlich ist. Diplome im Sinne dieses Gesetzes sind
+Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie
+2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
+2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255
+S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung, die
+mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG
+genannten Niveau entsprechen und denen eine Bescheinigung des
+Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist. Satz
+2 gilt auch für einen Ausbildungsnachweis oder eine Gesamtheit von
 Ausbildungsnachweisen, die von einer zuständigen Behörde in einem
-Mitgliedstaat ausgestellt wurden, sofern sie eine in der Gemeinschaft
-erworbene abgeschlossene Ausbildung bescheinigen, von diesem
-Mitgliedstaat als gleichwertig anerkannt wurden und in Bezug auf die
-Aufnahme oder Ausübung des Berufs des Gesundheits- und
-Kinderkrankenpflegers dieselben Rechte verleihen oder auf die Ausübung
-des Berufs des Gesundheits- und Kinderkrankenpflegers vorbereiten.
-Satz 2 gilt ferner für Berufsqualifikationen, die zwar nicht den
-Erfordernissen der Rechts- oder Verwaltungsvorschriften des
-Herkunftsmitgliedstaats für die Aufnahme oder Ausübung des Berufs des
-Gesundheits- und Kinderkrankenpflegers entsprechen, ihrem Inhaber
-jedoch nach dem Recht des Herkunftsmitgliedstaats erworbene Rechte
-nach den dort maßgeblichen Vorschriften verleihen. Antragsteller mit
+Mitgliedstaat ausgestellt wurden, sofern sie den erfolgreichen
+Abschluss einer in der Europäischen Union auf Voll- oder Teilzeitbasis
+im Rahmen formaler oder nichtformaler Ausbildungsprogramme erworbenen
+ersetzt. Ausbildung bescheinigen, von diesem Mitgliedstaat als
+gleichwertig anerkannt wurden und in Bezug auf die Aufnahme oder
+Ausübung des Berufs des Gesundheits- und Kinderkrankenpflegers
+dieselben Rechte verleihen oder auf die Ausübung des Berufs des
+Gesundheits- und Kinderkrankenpflegers vorbereiten. Antragsteller mit
 einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen
-Wirtschaftsraumes haben einen höchstens dreijährigen
-Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen,
-wenn
+Wirtschaftsraums haben einen höchstens dreijährigen Anpassungslehrgang
+zu absolvieren oder eine Eignungsprüfung abzulegen, wenn
 
-1.  ihre nachgewiesene Ausbildungsdauer mindestens ein Jahr unter der in
-    diesem Gesetz geregelten Ausbildungsdauer liegt,
-
-
-2.  ihre Ausbildung sich auf Themenbereiche bezieht, die sich wesentlich
-    von denen unterscheiden, die durch die Ausbildung nach diesem Gesetz
-    und der Ausbildungs- und Prüfungsverordnung für die Berufe in der
-    Krankenpflege vorgeschrieben sind,
+1.  die Ausbildung der Antragsteller hinsichtlich der beruflichen
+    Tätigkeit Themenbereiche oder Bereiche der praktischen Ausbildung
+    umfasst, die sich wesentlich von denen unterscheiden, die nach diesem
+    Gesetz und nach der Ausbildungs- und Prüfungsverordnung für die Berufe
+    in der Krankenpflege vorgeschrieben sind, oder
 
 
-3.  der Beruf des Gesundheits- und Kinderkrankenpflegers eine oder mehrere
-    reglementierte Tätigkeiten umfasst, die im Herkunftsmitgliedstaat des
-    Antragstellers nicht Bestandteil des dem Gesundheits- und
-    Kinderkrankenpfleger entsprechenden Berufs sind, und wenn dieser
-    Unterschied in einer besonderen Ausbildung besteht, die nach diesem
-    Gesetz und der Ausbildungs- und Prüfungsverordnung für die Berufe in
-    der Krankenpflege gefordert werden und sich auf Themenbereiche
-    bezieht, die sich wesentlich von denen unterscheiden, die von dem
-    Ausbildungsnachweis abgedeckt werden, den der Antragsteller vorlegt,
-    oder
-
-
-4.  ihr Ausbildungsnachweis lediglich eine Ausbildung auf dem in Artikel
-    11 Buchstabe b der Richtlinie genannten Niveau bescheinigt und
+2.  der Beruf des Gesundheits- und Kinderkrankenpflegers eine oder mehrere
+    reglementierte Tätigkeiten umfasst, die im Herkunftsstaat der
+    Antragsteller nicht Bestandteil des Berufs sind, der dem des
+    Gesundheits- und Kinderkrankenpflegers entspricht, und wenn sich die
+    Ausbildung für diese Tätigkeiten auf Themenbereiche oder Bereiche der
+    praktischen Ausbildung nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für die Berufe in der Krankenpflege bezieht,
+    die sich wesentlich von denen unterscheiden, die von der Ausbildung
+    der Antragsteller abgedeckt sind.
 
 
 
-ihre nachgewiesene Berufserfahrung, unabhängig davon, in welchem Staat
-diese erworben wurde, nicht zum vollständigen oder teilweisen
-Ausgleich der unter den Nummern 1 bis 4 genannten Unterschiede
-geeignet ist. Die Antragsteller haben das Recht, zwischen dem
-Anpassungslehrgang und der Eignungsprüfung zu wählen.
+Themenbereiche oder Bereiche der praktischen Ausbildung unterscheiden
+sich wesentlich, wenn die nachgewiesene Ausbildung der Antragsteller
+wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse und
+Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die
+Ausübung des Berufs des Gesundheits- und Kinderkrankenpflegers in
+Deutschland sind. Wesentliche Unterschiede können ganz oder teilweise
+durch Kenntnisse und Fähigkeiten ausgeglichen werden, die die
+Antragsteller im Rahmen ihrer tatsächlichen und rechtmäßigen Ausübung
+des Berufs des Gesundheits- und Kinderkrankenpflegers in Voll- oder
+Teilzeit oder durch lebenslanges Lernen erworben haben, sofern die
+durch lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von
+einer dafür in dem jeweiligen Staat zuständigen Stelle formell als
+gültig anerkannt wurden; dabei ist nicht entscheidend, in welchem
+Staat diese Kenntnisse und Fähigkeiten erworben worden sind. Die
+Antragsteller haben das Recht, zwischen dem Anpassungslehrgang und der
+Eignungsprüfung zu wählen.
 
 (5a) Absatz 5 gilt entsprechend für Personen,
 
@@ -283,7 +294,27 @@ Anpassungslehrgang und der Eignungsprüfung zu wählen.
 
 
 
-(6) Die Absätze 3a bis 5 gelten entsprechend für Drittstaatdiplome,
+(5b) Die Regelungen der Absätze 3 bis 5a gelten entsprechend für den
+Fall der Einführung eines Europäischen Berufsausweises für den Beruf
+des Gesundheits- und Krankenpflegers und den Beruf des Gesundheits-
+und Kinderkrankenpflegers.
+
+(5c) Für Antragsteller, die über einen Ausbildungsnachweis verfügen,
+der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten
+Niveau entspricht, gelten die Absätze 3, 3a und 5 mit der Maßgabe,
+dass die erforderliche Ausgleichsmaßnahme abweichend von Absatz 3 Satz
+7, Absatz 3a Satz 3 oder Absatz 5 Satz 8 aus einer Eignungsprüfung
+besteht.
+
+(5d) Wird die Voraussetzung des Absatzes 1 Nummer 1 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der
+Berufsqualifikation nach den Absätzen 3, 3a, 4, 5, 5a oder 5b vor den
+Voraussetzungen nach Absatz 1 Nummer 2 bis 4 geprüft werden. Auf
+Antrag ist dem Antragsteller ein gesonderter Bescheid über die
+Feststellung seiner Berufsqualifikation zu erteilen.
+
+(6) Die Absätze 3a bis 5c gelten entsprechend für Drittstaatdiplome,
 für deren Anerkennung sich nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
 
@@ -335,6 +366,105 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
+
+
+### § 2b Vorwarnmechanismus
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 Absatz 1, die
+    sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  den Verzicht auf die Erlaubnis,
+
+
+3.  das Verbot der Ausübung des Berufs des Gesundheits- und
+    Krankenpflegers oder des Gesundheits- und Kinderkrankenpflegers durch
+    unanfechtbare gerichtliche Entscheidung oder
+
+
+4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## Abschnitt 2 - Ausbildung
@@ -402,6 +532,12 @@ befähigen,
 
 
 
+Bei der Durchführung der Ausbildung nach Satz 1 ist sicherzustellen,
+dass die Kenntnisse und Fähigkeiten vermittelt werden, die die
+Krankenschwestern und Krankenpfleger, die für allgemeine Pflege
+verantwortlich sind, befähigen, mindestens die in Artikel 31 Absatz 7
+der Richtlinie 2005/36/EG aufgeführten Tätigkeiten und Aufgaben in
+eigener Verantwortung durchzuführen.
 
 (3) Soweit in Modellvorhaben nach § 4 Abs. 7 erweiterte Kompetenzen
 zur Ausübung heilkundlicher Tätigkeiten erprobt werden, hat sich die
@@ -492,21 +628,39 @@ beschriebenen Aufgaben hinausgehende erweiterte Kompetenzen zur
 Ausübung heilkundlicher Tätigkeiten vermittelt werden. Dabei darf die
 Erreichung des Ausbildungsziels nicht gefährdet sein. Die
 Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG ist zu
-gewährleisten. Abweichend von Absatz 2 Satz 1 kann die Ausbildung an
-Hochschulen erfolgen. Soweit die Ausbildung nach Satz 1 über die in
-diesem Gesetz und die in der Ausbildungs- und Prüfungsverordnung für
-die Berufe in der Krankenpflege geregelten Ausbildungsinhalte
-hinausgeht, wird sie in Ausbildungsplänen der Ausbildungsstätten
-inhaltlich ausgestaltet, die vom Bundesministerium für Gesundheit im
-Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen
-und Jugend zu genehmigen sind. Die Genehmigung setzt voraus, dass sich
-die erweiterte Ausbildung auf ein vereinbartes Modellvorhaben nach §
-63 Abs. 3c des Fünften Buches Sozialgesetzbuch bezieht und die
-Ausbildung geeignet ist, die zur Durchführung dieses Modellvorhabens
+gewährleisten. Abweichend von Absatz 2 Satz 1 kann die Ausbildung, die
+zum Erwerb der erweiterten Kompetenzen führt, an Hochschulen erfolgen.
+Soweit die Ausbildung nach Satz 1 über die in diesem Gesetz und die in
+der Ausbildungs- und Prüfungsverordnung für die Berufe in der
+Krankenpflege geregelten Ausbildungsinhalte hinausgeht, wird sie in
+Ausbildungsplänen der Ausbildungsstätten inhaltlich ausgestaltet, die
+vom Bundesministerium für Gesundheit im Einvernehmen mit dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend zu
+genehmigen sind. Die Genehmigung setzt voraus, dass sich die
+erweiterte Ausbildung auf ein vereinbartes Modellvorhaben nach § 63
+Abs. 3c des Fünften Buches Sozialgesetzbuch bezieht und die Ausbildung
+geeignet ist, die zur Durchführung dieses Modellvorhabens
 erforderliche Qualifikation zu vermitteln. § 4 Abs. 1 Satz 1 erster
 Halbsatz gilt mit der Maßgabe, dass die staatliche Prüfung sich auch
-auf die mit der Ausbildung erworbenen erweiterten Kompetenzen zu
-erstrecken hat.
+auf die mit der zusätzlichen Ausbildung erworbenen erweiterten
+Kompetenzen zu erstrecken hat. Abweichend von Satz 5 kann der
+Gemeinsame Bundesausschuss für die Tätigkeiten, die er in der
+Richtlinie nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch
+festgelegt hat, für die zusätzliche Ausbildung standardisierte Module
+entwickeln, die vom Bundesministerium für Gesundheit im Einvernehmen
+mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend
+auch ohne Vorliegen eines vereinbarten Modellvorhabens nach § 63
+Absatz 3c des Fünften Buches Sozialgesetzbuch genehmigt werden können.
+Der Gemeinsame Bundesausschuss hat vor seiner Entscheidung
+pflegewissenschaftlichen und pflegepädagogischen Sachverstand
+hinzuzuziehen sowie der Bundesärztekammer und den maßgeblichen
+Verbänden der Pflegeberufe Gelegenheit zur Stellungnahme zu geben; die
+Stellungnahmen sind in die Entscheidung einzubeziehen. Die Genehmigung
+der standardisierten Module nach Satz 8 erfolgt einmalig; Änderungen
+bedürfen einer erneuten Genehmigung.
+
+(8) Absatz 7 gilt entsprechend für Personen, die bereits zur Führung
+der Berufsbezeichnung nach § 1 Absatz 1 Satz 1 berechtigt sind.
 
 
 ### § 4a Staatliche Prüfung bei Ausbildungen nach § 4 Abs. 7
@@ -713,7 +867,7 @@ Krankenpfleger sind Artikel 31 in Verbindung mit Anhang V Nummer 5.2.1
 der Richtlinie 2005/36/EG und das Europäische Übereinkommen vom 25.
 Oktober 1967 über die theoretische und praktische Ausbildung von
 Krankenschwestern und Krankenpflegern (BGBl. 1972 II S. 629) zu
-berücksichtigen. Insbesondere ist eine Mindeststundenzahl von 4.600
+berücksichtigen. Insbesondere ist eine Mindeststundenzahl von 4 600
 Stunden vorzusehen, von denen mindestens die Hälfte auf die praktische
 Ausbildung und nicht weniger als ein Drittel auf den theoretischen und
 praktischen Unterricht entfallen; dasselbe ist für die Ausbildung zur
@@ -722,12 +876,13 @@ Kinderkrankenpfleger vorzuschreiben.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Personen, die einen
 Ausbildungsnachweis haben und eine Erlaubnis nach § 2 Abs. 1 in
-Verbindung mit § 2 Absatz 3, 3a, 4, 5 oder 6 beantragen, zu regeln:
+Verbindung mit § 2 Absatz 3, 3a, 3b, 4, 5a, 5b oder Absatz 6
+beantragen, zu regeln:
 
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 2
     und 3, insbesondere die von den Antragstellern vorzulegenden,
     erforderlichen Nachweise und die Ermittlung durch die zuständige
-    Behörde entsprechend dem Artikel 50 Abs. 1 bis 3 in Verbindung mit
+    Behörde entsprechend dem Artikel 50 Absatz 1 bis 3a in Verbindung mit
     Anhang VII der Richtlinie 2005/36/EG,
 
 
@@ -745,7 +900,10 @@ Verbindung mit § 2 Absatz 3, 3a, 4, 5 oder 6 beantragen, zu regeln:
 
 
 5.  die Regelungen zu Durchführung und Inhalt der Anpassungsmaßnahmen nach
-    § 2 Absatz 3 Satz 6 und § 2 Absatz 3a Satz 2.
+    § 2 Absatz 3 Satz 6, Absatz 3a Satz 2 und Absatz 5 Satz 8,
+
+
+6.  das Verfahren bei der Ausstellung eines europäischen Berufsausweises.
 
 
 
@@ -1000,7 +1158,7 @@ oder des Krankenpflegers, die für die allgemeine Pflege verantwortlich
 sind, in einem anderen Vertragsstaat des Europäischen
 Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften
 abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des
-§ 2 Abs. 4 oder Abs. 5a entsprechenden Ausbildungsnachweises
+§ 2 Abs. 4, 5a oder Absatz 5b entsprechenden Ausbildungsnachweises
 berechtigt und in einem Mitgliedstaat rechtmäßig niedergelassen sind,
 dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-
 Vertrages vorübergehend und gelegentlich ihren Beruf im
@@ -1019,7 +1177,7 @@ Wirtschaftsraumes, die zur Ausübung des Berufs des Gesundheits- und
 Kinderkrankenpflegers in einem anderen Vertragsstaat des Europäischen
 Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften
 abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des
-§ 2 Abs. 5 oder Abs. 5a entsprechenden Ausbildungsnachweises
+§ 2 Abs. 5, 5a oder Absatz 5b entsprechenden Ausbildungsnachweises
 berechtigt sind und
 
 1.  die in einem Mitgliedstaat rechtmäßig niedergelassen sind oder,
@@ -1028,8 +1186,8 @@ berechtigt sind und
 2.  wenn der Beruf des Gesundheits- und Kinderkrankenpflegers oder die
     Ausbildung zu diesem Beruf im Niederlassungsmitgliedstaat nicht
     reglementiert ist, diesen Beruf während der vorhergehenden zehn Jahre
-    mindestens zwei Jahre im Niederlassungsmitgliedstaat rechtmäßig
-    ausgeübt haben,
+    mindestens ein Jahr im Niederlassungsmitgliedstaat rechtmäßig ausgeübt
+    haben,
 
 
 
@@ -1046,12 +1204,16 @@ unverzüglich nach Erbringen der Dienstleistung zu erfolgen. Die
 Meldung hat schriftlich zu erfolgen. Sie ist einmal jährlich zu
 erneuern, wenn der Dienstleister beabsichtigt, während des
 betreffenden Jahres vorübergehend und gelegentlich Dienstleistungen im
-Geltungsbereich dieses Gesetzes zu erbringen.
+Geltungsbereich dieses Gesetzes zu erbringen. Wird die Meldung nach
+Satz 1 mittels eines Europäischen Berufsausweises vorgenommen, ist
+abweichend von Satz 4 die Meldung 18 Monate nach Ausstellung des
+Europäischen Berufsausweises zu erneuern.
 
 (4) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im
 Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten
 Dokumenten bescheinigten Situation hat der Dienstleistungserbringer
-folgende Bescheinigungen vorzulegen:
+folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung
+nach Nummer 4 vorzulegen:
 
 1.  Staatsangehörigkeitsnachweis,
 
@@ -1069,37 +1231,44 @@ folgende Bescheinigungen vorzulegen:
         nicht, auch nicht vorübergehend, untersagt ist oder
 
 
-    b)  im Falle der Dienstleistungserbringung nach Absatz 2 eine
-        Bescheinigung über die rechtmäßige Niederlassung im Beruf des
-        Gesundheits- und Kinderkrankenpflegers in einem anderen Mitgliedstaat,
-        die sich auch darauf erstreckt, dass dem Dienstleister die Ausübung
-        seiner Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht,
-        auch nicht vorübergehend, untersagt ist oder im Falle des Absatzes 2
-        Satz 1 Nr. 2 ein Nachweis in beliebiger Form darüber, dass der
-        Dienstleister eine dem Beruf des Gesundheits- und
-        Kinderkrankenpflegers entsprechende Tätigkeit während der
-        vorhergehenden zehn Jahre mindestens zwei Jahre lang rechtmäßig
-        ausgeübt hat.
+    b)  nach Absatz 2 eine Bescheinigung über die rechtmäßige Niederlassung im
+        Beruf des Gesundheits- und Kinderkrankenpflegers in einem anderen
+        Mitgliedstaat, die sich auch darauf erstreckt, dass dem Dienstleister
+        die Ausübung seiner Tätigkeit zum Zeitpunkt der Vorlage der
+        Bescheinigung nicht, auch nicht vorübergehend, untersagt ist und keine
+        Vorstrafen vorliegen, oder im Fall des Absatzes 2 Satz 1 Nummer 2
+        einen Nachweis in beliebiger Form darüber, dass der Dienstleister eine
+        dem Beruf des Gesundheitsund Kinderkrankenpflegers entsprechende
+        Tätigkeit während der vorhergehenden zehn Jahre mindestens ein Jahr
+        lang rechtmäßig ausgeübt hat und
 
 
 
+
+
+4.  eine Erklärung des Dienstleisters, dass er über die zur Erbringung der
+    Dienstleistung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt.
 
 
 
 Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der
 deutschen Sprache müssen vorliegen. Die zuständige Behörde prüft im
-Falle der erstmaligen Dienstleistungserbringung nach Absatz 4 in
-Verbindung mit Absatz 3 Satz 1 Nr. 3 Buchstabe b den
-Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Abs. 5 und
-5a gilt entsprechend mit der Maßgabe, dass für wesentliche
+Fall der erstmaligen Dienstleistungserbringung nach Absatz 2 den
+Berufsqualifikationsnachweis nach Satz 1 Nummer 2 nach. § 2 Abs. 5, 5a
+oder Absatz 5b gilt entsprechend mit der Maßgabe, dass für wesentliche
 Unterschiede zwischen der beruflichen Qualifikation des
 Dienstleistungserbringers und der nach diesem Gesetz und der
 Ausbildungs- und Prüfungsverordnung für die Berufe in der
 Krankenpflege geforderten Ausbildung Ausgleichsmaßnahmen nur gefordert
 werden dürfen, wenn die Unterschiede so groß sind, dass ohne den
 Nachweis der fehlenden Kenntnisse und Fähigkeiten die öffentliche
-Gesundheit gefährdet wäre. Der Ausgleich der fehlenden Kenntnisse und
-Fähigkeiten soll in Form einer Eignungsprüfung erfolgen.
+Gesundheit gefährdet wäre. Soweit dies für die Beurteilung der Frage,
+ob wesentliche Unterschiede vorliegen, erforderlich ist, kann die
+zuständige Behörde bei der zuständigen Behörde des
+Niederlassungsmitgliedstaats Informationen über die Ausbildungsgänge
+des Dienstleisters anfordern. Der Ausgleich der fehlenden Kenntnisse
+und Fähigkeiten erfolgt durch eine Eignungsprüfung.
 
 (5) Staatsangehörigen eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die im Geltungsbereich dieses Gesetzes den Beruf
@@ -1121,25 +1290,28 @@ Bescheinigungen darüber auszustellen, dass
 
 
 
-Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich
-hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht
-der Europäischen Gemeinschaften eine Gleichstellung ergibt.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaaten und
+Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
+Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
+eine Gleichstellung ergibt.
 
 
 ### § 19a Verwaltungszusammenarbeit
 
-Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf
-Anforderung der zuständigen Behörden eines Vertragsstaates des
-Europäischen Wirtschaftsraumes haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
-und die gute Führung des Dienstleisters sowie Informationen darüber,
-dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
-Sanktionen vorliegen, zu übermitteln.
+Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
+berechtigt, für jede Dienstleistungserbringung von den zuständigen
+Behörden des Niederlassungsmitgliedstaats Informationen über die
+Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen. Auf Anforderung der zuständigen Behörden eines
+Vertragsstaates des Europäischen Wirtschaftsraumes haben die
+zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie
+2005/36/EG der anfordernden Behörde alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
+übermitteln.
 
 
 ### § 19b Pflichten des Dienstleistungserbringers
@@ -1358,78 +1530,50 @@ ihrem Hoheitsgebiet ausgeübt hat. Die Tätigkeit muss die volle
 Verantwortung für die Planung, die Organisation und die Ausführung der
 Krankenpflege des Patienten umfasst haben.
 
-(2) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
-4 erfüllen und eine Erlaubnis nach § 1 Abs. 1 auf Grund der Vorlage
-eines Ausbildungsnachweises beantragen, der im Beruf der
-Krankenschwester oder des Krankenpflegers, die für die allgemeine
-Pflege verantwortlich sind, den Mindestanforderungen des Artikels 31
-der Richtlinie 2005/36/EG nicht genügt und von Polen vor dem 1. Mai
-2004 verliehen wurde oder aus dem hervorgeht, dass die Ausbildung zum
-Beruf der Krankenschwester oder des Krankenpflegers, die für die
-allgemeine Pflege verantwortlich sind, in Polen vor dem 1. Mai 2004
-begonnen wurde, ist die Erlaubnis zu erteilen, wenn ihm eine
-Bescheinigung darüber beigefügt ist, dass der Antragsteller
-
-1.  im Falle eines Ausbildungsnachweises der Krankenschwester oder des
-    Krankenpflegers auf Graduiertenebene (dyplom licencjata piel*
-    gniarstwa) in den fünf Jahren vor Ausstellung der Bescheinigung
-    mindestens drei Jahre ohne Unterbrechung oder
-
-
-2.  im Falle eines Ausbildungsnachweises der Krankenschwester oder des
-    Krankenpflegers, der den Abschluss einer postsekundären Ausbildung an
-    einer medizinischen Fachschule bescheinigt (dyplom piel*
-    gniarki albo piel*                   gniarki dyplomowanej), in den
-    sieben Jahren vor Ausstellung der Bescheinigung mindestens fünf Jahre
-    ohne Unterbrechung
-
-
-
-tatsächlich und rechtmäßig den Beruf der Krankenschwester oder des
-Krankenpflegers, die für die allgemeine Pflege verantwortlich sind, in
-Polen ausgeübt hat. Absatz 1 Satz 2 gilt entsprechend.
-
-(3) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
-4 erfüllen und eine Erlaubnis nach § 1 Abs. 1 auf Grund einer in Polen
-vor dem 1. Mai 2004 abgeschlossenen Krankenpflegeausbildung
-beantragen, die den Mindestanforderungen des Artikels 31 der
+(2) Antragstellern, die die Voraussetzungen nach § 2 Absatz 1 Nummer 1
+bis 4 erfüllen und die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 auf
+Grund der Vorlage eines Ausbildungsnachweises beantragen, der in Polen
+für Krankenschwestern und Krankenpfleger verliehen worden ist, deren
+Ausbildung vor dem 1. Mai 2004 abgeschlossen wurde und den
+Mindestanforderungen an die Berufsausbildung gemäß Artikel 31 der
 Richtlinie 2005/36/EG nicht genügte, ist die Erlaubnis zu erteilen,
-wenn sie ein „Bakkalaureat“-Diplom vorlegen, das auf der Grundlage
-eines speziellen Aufstiegsfortbildungsprogramms erworben wurde, das
-nach Artikel 11 des Gesetzes vom 20. April 2004 zur Änderung des
-Gesetzes über den Beruf der Krankenschwester, des Krankenpflegers und
-der Hebamme und zu einigen anderen Rechtsakten (Amtsblatt der Republik
-Polen vom 30. April 2004 Nr. 92 Pos. 885) und nach Maßgabe der
-Verordnung des Gesundheitsministers vom 11. Mai 2004 über die
-Ausbildungsbedingungen für Krankenschwestern, Krankenpfleger und
-Hebammen, die einen Sekundarabschluss (Abschlussexamen-Matura) und
-eine abgeschlossene medizinische Schul- und Fachschulausbildung für
-den Beruf der Krankenschwester, des Krankenpflegers und der Hebamme
-nachweisen können (Amtsblatt der Republik Polen vom 13. Mai 2004 Nr.
-110 Pos. 1170), durchgeführt wurde, um zu überprüfen, ob die
-betreffende Person über einen Kenntnisstand und eine Fachkompetenz
-verfügt, die mit denen der Krankenschwestern oder Krankenpfleger
-vergleichbar ist, die Inhaber der für Polen im Anhang dieses Gesetzes
-genannten Ausbildungsnachweise sind.
+wenn dem Ausbildungsnachweis ein Bakkalaureat-Diplom beigefügt ist,
+das auf der Grundlage eines Aufstiegsfortbildungsprogramms erworben
+wurde, das in einem der in Artikel 33 Absatz 3 Buchstabe b Ziffer i
+oder Ziffer ii der Richtlinie 2005/36/EG genannten Gesetze enthalten
+ist.
 
-(4) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
-4 erfüllen und die eine Erlaubnis nach § 1 Abs. 1 auf Grund der
-Vorlage eines Ausbildungsnachweises beantragen, der im Beruf der
+(3) (weggefallen)
+
+(4) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 auf
+Grund einer in Rumänien abgeleisteten Ausbildung im Beruf der
 Krankenschwester oder des Krankenpflegers, die für die allgemeine
-Pflege verantwortlich sind, den Mindestanforderungen des Artikels 31
-der Richtlinie 2005/36/EG nicht genügt und von Rumänien vor dem 1.
-Januar 2007 verliehen wurde oder aus dem hervorgeht, dass die
-Ausbildung zum Beruf der Krankenschwester oder des Krankenpflegers,
-die für die allgemeine Pflege verantwortlich sind, in Rumänien vor dem
-1\. Januar 2007 begonnen wurde, ist die Erlaubnis zu erteilen, wenn sie
-eine an einer*             coal*              postliceal*
-erworbene postsekundäre Ausbildung nachweisen und eine Bescheinigung
-vorlegen, aus der hervorgeht, dass sie in den sieben Jahren vor dem
-Tag der Ausstellung der Bescheinigung mindestens fünf Jahre ohne
-Unterbrechung tatsächlich und rechtmäßig den Beruf der
-Krankenschwester oder des Krankenpflegers, die für die allgemeine
-Pflege verantwortlich sind, in Rumänien ausgeübt haben. Absatz 1 Satz
-2 gilt entsprechend.
+Pflege verantwortlich sind, beantragen, die den Mindestanforderungen
+an die Berufsausbildung des Artikels 31 der Richtlinie 2005/36/EG
+nicht genügt, erhalten die Erlaubnis, wenn sie über ein
+
+1.  ,Certificat* dem eine Bescheinigung beigefügt ist, dass die Ausbildung
+    vor dem 1. Januar 2007 begonnen wurde,
+
+
+2.  ,* mit einer Hochschulausbildung von kurzer Dauer, dem eine
+    Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober
+    2003 begonnen wurde, oder
+
+
+3.  ,* mit einer Hochschulausbildung von langer Dauer, dem eine
+    Bescheinigung beigefügt ist, dass die Ausbildung vor dem 1. Oktober
+    2003 begonnen wurde,
+
+
+
+verfügen, dem eine Bescheinigung beigefügt ist, aus der hervorgeht,
+dass die Antragsteller während der letzten fünf Jahre vor Ausstellung
+der Bescheinigung mindestens drei Jahre lang den Beruf der
+Krankenschwester und des Krankenpflegers, die für die allgemeine
+Pflege verantwortlich sind, in Rumänien ununterbrochen tatsächlich und
+rechtmäßig ausgeübt haben und sie die Voraussetzungen nach § 2 Absatz
+1 Nummer 2 bis 4 erfüllen. Absatz 1 Satz 2 gilt entsprechend.
 
 (5) Antragstellern, die nicht unter die Absätze 1 bis 4 fallen, die
 Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis 4 erfüllen und eine
@@ -1455,7 +1599,7 @@ Absatz 3a durchgeführt.
 
 ### § 26 Befristung
 
-§ 5 Nummer 2a tritt am 31. Dezember 2017 außer Kraft.
+§ 5 Nummer 2a tritt am 31. Dezember 2019 außer Kraft.
 
 
 ### § 27 Evaluation
@@ -1467,7 +1611,8 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
 
 ### Anlage (zu § 2 Abs. 4 Satz 1)
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 2956 - 2960 )
+(Fundstelle: BGBl. I 2007, 2956 - 2960; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Land
 
@@ -1489,7 +1634,7 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
         –   Diploma gegradueerde
             verpleger/verpleegster/
             *
-            *                           /Diplom eines
+            */Diplom eines
             (einer) graduierten Kranken-
             pflegers (-pflegerin)
 
@@ -1497,7 +1642,7 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
         –   Diploma in de ziekenhuis-
             verpleegkunde/
             *
-            *                           /Brevet
+            */Brevet
             eines (einer) Kranken-
             pflegers (-pflegerin)
 
@@ -1567,7 +1712,7 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
             *
             *
             *
-            *                            zusammen
+            * zusammen
             mit folgender Bescheini-
             gung:*
             *
@@ -1577,9 +1722,9 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
             *
             *
             *
-            *                            zusam-
+            * zusam-
             men mit folgender Beschei-
-            nigung:*                            o
+            nigung:* o
             absolutoriu
 
 
@@ -1622,7 +1767,7 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
 
 *    *   Eesti
 
-    *   Diplom*                      erialal
+    *   Diplom* erialal
 
     *
         1.  Tallinna Meditsiinikool
@@ -1756,6 +1901,66 @@ des § 5 Nummer 2a gemacht wurden, Bericht.
     *   Infirmier(ère)
 
     *   29. Juni 1979
+
+
+*    *   Hrvatska
+
+    *
+        1.  Svjedodžba
+            „medicinska sestra
+            op*e njege/medicinski
+            tehni*ar op*e njege“
+
+
+        2.  Svjedodžba
+
+            „prvostupnik
+            (
+            baccalaureus)
+            sestrinstva/
+            prvostupnica
+            (
+            baccalaurea)
+            sestrinstva“
+
+
+
+
+    *
+        1.  Srednje strukovne škole koje
+            izvode program za stjecanje
+            kvalifikacije „medicinska sestra
+            op*e njege/medicinski tehni*ar
+            op*e njege“
+
+
+        2.  Medicinski fakulteti sveu*ilišta
+            u Republici Hrvatskoj
+
+            Sveu*ilišta u Republici Hrvatskoj
+
+            Veleu*ilišta u Republici Hrvatskoj
+
+
+
+
+    *
+        1.  medicinska
+            sestra op*e
+            njege/
+            medicinski
+            tehni*ar
+            op*e njege
+
+
+        2.  prvostupnik (
+            baccalaureus) sestrinstva/prvostupnica (
+            baccalaurea) sestrinstva
+
+
+
+
+    *   1. Juli 2013
 
 
 *    *   Ireland

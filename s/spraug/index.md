@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2312, 2316
 
 Zuletzt geändert durch
-:   Art. 222 V v. 31.10.2006 I 2407
+:   Art. 6 G v. 10.12.2021 I 5162
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -382,15 +382,41 @@ der Arbeitszeit statt. Der Sprecherausschuß hat bei der Anberaumung
 von Sitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu
 nehmen. Der Arbeitgeber ist über den Zeitpunkt der Sitzung vorher zu
 verständigen. Die Sitzungen des Sprecherausschusses sind nicht
-öffentlich; § 2 Abs. 2 bleibt unberührt.
+öffentlich; § 2 Abs. 2 bleibt unberührt. Die Sitzungen des
+Sprecherausschusses finden als Präsenzsitzung statt.
+
+(6) Abweichend von Absatz 5 Satz 5 kann die Teilnahme an einer Sitzung
+des Sprecherausschusses mittels Video- und Telefonkonferenz erfolgen,
+wenn
+
+1.  die Voraussetzungen für eine solche Teilnahme in der Geschäftsordnung
+    unter Sicherung des Vorrangs der Präsenzsitzung festgelegt sind,
+
+
+2.  nicht mindestens ein Viertel der Mitglieder des Sprecherausschusses
+    binnen einer von dem Vorsitzenden zu bestimmenden Frist diesem
+    gegenüber widerspricht und
+
+
+3.  sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis
+    nehmen können.
+
+
+
+Eine Aufzeichnung der Sitzung ist unzulässig.
+
+(7) Erfolgt die Sitzung des Sprecherausschusses mit der zusätzlichen
+Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt
+auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 13 Beschlüsse und Geschäftsordnung des Sprecherausschusses
 
 (1) Die Beschlüsse des Sprecherausschusses werden, soweit in diesem
 Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der
-anwesenden Mitglieder gefaßt. Bei Stimmengleichheit ist ein Antrag
-abgelehnt.
+anwesenden Mitglieder gefaßt. Mitglieder, die mittels Video- und
+Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als
+anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 
 (2) Der Sprecherausschuß ist nur beschlußfähig, wenn mindestens die
 Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt.
@@ -402,6 +428,10 @@ und die Stimmenmehrheit, mit der sie gefaßt sind, enthält. Die
 Niederschrift ist von dem Vorsitzenden und einem weiteren Mitglied zu
 unterzeichnen. Der Niederschrift ist eine Anwesenheitsliste
 beizufügen, in die sich jeder Teilnehmer eigenhändig einzutragen hat.
+Nimmt ein Mitglied des Sprecherausschusses mittels Video- und
+Telefonkonferenz an der Sitzung teil, so hat es seine Teilnahme
+gegenüber dem Vorsitzenden in Textform zu bestätigen. Die Bestätigung
+ist der Niederschrift beizufügen.
 
 (4) Die Mitglieder des Sprecherausschusses haben das Recht, die
 Unterlagen des Sprecherausschusses jederzeit einzusehen.
@@ -531,7 +561,7 @@ und des stellvertretenden Vorsitzenden des Gesamtsprecherausschusses
 einzuladen. Der Vorsitzende des einladenden Sprecherausschusses hat
 die Sitzung zu leiten, bis der Gesamtsprecherausschuß aus seiner Mitte
 einen Wahlleiter zur Wahl des Vorsitzenden und seines Stellvertreters
-bestellt hat. § 12 Abs. 2 bis 5 gilt entsprechend.
+bestellt hat. § 12 Absatz 2 bis 7 gilt entsprechend.
 
 (3) Der Gesamtsprecherausschuß ist nur beschlußfähig, wenn mindestens
 die Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt und die
@@ -661,8 +691,8 @@ Vorsitzenden und des stellvertretenden Vorsitzenden des
 Konzernsprecherausschusses einzuladen. Der Vorsitzende des einladenden
 Gesamtsprecherausschusses hat die Sitzung zu leiten, bis der
 Konzernsprecherausschuß aus seiner Mitte einen Wahlleiter zur Wahl des
-Vorsitzenden und seines Stellvertreters bestellt hat. § 12 Abs. 2 bis
-5 gilt entsprechend.
+Vorsitzenden und seines Stellvertreters bestellt hat. § 12 Absatz 2
+bis 7 gilt entsprechend.
 
 
 ## Dritter Teil - Mitwirkung der leitenden Angestellten
@@ -722,7 +752,10 @@ zu fördern.
 
 (1) Arbeitgeber und Sprecherausschuß können Richtlinien über den
 Inhalt, den Abschluß oder die Beendigung von Arbeitsverhältnissen der
-leitenden Angestellten schriftlich vereinbaren.
+leitenden Angestellten schriftlich vereinbaren. Werden Richtlinien in
+elektronischer Form geschlossen, haben Arbeitgeber und
+Sprecherausschuss abweichend von § 126a Absatz 2 des Bürgerlichen
+Gesetzesbuchs dasselbe Dokument elektronisch zu signieren.
 
 (2) Der Inhalt der Richtlinien gilt für die Arbeitsverhältnisse
 unmittelbar und zwingend, soweit dies zwischen Arbeitgeber und
@@ -992,10 +1025,15 @@ insbesondere über
 
 
 
-### § 39 Berlin-Klausel
+### § 39 Sonderregelung aus Anlass der COVID-19-Pandemie
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
-aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach §
-14 des Dritten Überleitungsgesetzes.
+(1) Eine Versammlung nach § 15 kann bis zum Ablauf des 19. März 2022
+auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn
+sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis
+von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist
+unzulässig.
+
+(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
+machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
+drei Monate verlängern.
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 549
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.3.2011 I 378
+:   Art. 48 V v. 19.6.2020 I 1328
 
 
 
@@ -79,17 +79,18 @@ Die die Bezügezahlungen anordnenden Dienststellen leisten die
 Zuweisungen für das Kalenderjahr in halbjährlichen Teilbeträgen, die
 jeweils für das erste Halbjahr bis zum 30. September des Jahres und
 für das zweite Halbjahr bis zum 31. März des nächsten Jahres auf dem
-vom Bundesministerium des Innern benannten Sonderkonto eingehen
-müssen.
+vom Bundesministerium des Innern, für Bau und Heimat benannten
+Sonderkonto eingehen müssen.
 
 
 ## § 3 Überprüfung der Höhe der Zuweisungssätze
 
-Die Höhe der Zuweisungssätze ist vom Bundesministerium des Innern im
-Einvernehmen mit dem Bundesministerium der Finanzen spätestens alle
-drei Jahre auf der Grundlage versicherungsmathematischer Berechnungen
-und unter Berücksichtigung der jeweiligen Änderungen des Besoldungs-
-und Versorgungsrechts zu überprüfen und bei Bedarf anzupassen.
+Die Höhe der Zuweisungssätze wird vom Bundesministerium des Innern,
+für Bau und Heimat im Einvernehmen mit dem Bundesministerium der
+Finanzen unter Berücksichtigung versicherungsmathematischer
+Berechnungen der Deckungsgrade des Versorgungsfonds und der jeweiligen
+Änderungen des Besoldungs- und Versorgungsrechts überprüft und bei
+Bedarf angepasst.
 
 
 ## § 4 Inkrafttreten

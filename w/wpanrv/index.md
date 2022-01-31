@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1520
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.9.2012 I 2095
+:   Art. 4 V v. 28.4.2016 I 1046
 
 
 ## Eingangsformel
@@ -157,19 +157,18 @@ unberührt.
 Vertreter oder einer Vertreterin der Aufgabenkommission nach § 8 der
 Wirtschaftsprüferprüfungsverordnung, der Finanzverwaltung, der
 Wirtschaftsprüferkammer, einer oder einem Beauftragten des
-Bundesministeriums für Wirtschaft und Technologie sowie je zwei
-Vertretern oder Vertreterinnen des Berufsstandes und der Hochschulen
-erarbeitet und beschlossen. Der Akkreditierungsrat kann beratend an
-den Sitzungen des Gremiums teilnehmen. Vor einer Anpassung des
-Referenzrahmens soll dem Akkreditierungsrat Gelegenheit zur
-Stellungnahme gegeben werden. Die Wirtschaftsprüferkammer ernennt die
-Mitglieder des Gremiums im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie. Das Gremium ist auch berechtigt,
-unverbindliche Lehrpläne (Curricula) zu erstellen. Das
-Bundesministerium für Wirtschaft und Technologie erklärt den
-Referenzrahmen gegenüber den in § 5 Abs. 2 Satz 1 genannten Vertretern
-und Vertreterinnen für verbindlich. Der Referenzrahmen wird von der
-Prüfungsstelle elektronisch geführt und zugänglich gemacht.
+Bundesministeriums für Wirtschaft und Energie sowie je zwei Vertretern
+oder Vertreterinnen des Berufsstandes und der Hochschulen erarbeitet
+und beschlossen. Der Akkreditierungsrat kann beratend an den Sitzungen
+des Gremiums teilnehmen. Vor einer Anpassung des Referenzrahmens soll
+dem Akkreditierungsrat Gelegenheit zur Stellungnahme gegeben werden.
+Die Wirtschaftsprüferkammer ernennt die Mitglieder des Gremiums im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie. Das
+Gremium ist auch berechtigt, unverbindliche Lehrpläne (Curricula) zu
+erstellen. Das Bundesministerium für Wirtschaft und Energie erklärt
+den Referenzrahmen gegenüber den in § 5 Abs. 2 Satz 1 genannten
+Vertretern und Vertreterinnen für verbindlich. Der Referenzrahmen wird
+von der Prüfungsstelle elektronisch geführt und zugänglich gemacht.
 
 
 ### § 5 Akkreditierung
@@ -185,7 +184,7 @@ festgestellt werden soll, ob der Masterstudiengang zur Ausbildung von
 Wirtschaftsprüfern und Wirtschaftsprüferinnen besonders geeignet ist,
 müssen bei der Akkreditierung je ein Vertreter oder Beauftragter oder
 eine Vertreterin oder Beauftragte des Bundesministeriums für
-Wirtschaft und Technologie, der Finanzverwaltung und der
+Wirtschaft und Energie, der Finanzverwaltung und der
 Wirtschaftsprüferkammer mitwirken. Die Entscheidung nach Satz 1 bedarf
 der Zustimmung von mindestens zwei Vertretern oder Beauftragten. Im
 Fall der Zustimmung ist eine Anrechnung von Leistungen aus dem
@@ -209,7 +208,7 @@ nächstmöglichen Prüfungstermin.
 Wirtschaftsprüferprüfungsverordnung ist das Zeugnis über den
 Masterabschluss im Original oder in beglaubigter Abschrift beizufügen.
 Die Masterabschlussprüfung darf zum Zeitpunkt der Antragstellung auf
-Zulassung zum Wirtschaftsprüfungsexamen nicht länger als drei Jahre
+Zulassung zum Wirtschaftsprüfungsexamen nicht länger als vier Jahre
 zurückliegen.
 
 (3) Die Anrechnung ersetzt die schriftlichen und mündlichen Prüfungen
@@ -230,11 +229,11 @@ Abs. 5 der Wirtschaftsprüferprüfungsverordnung findet Anwendung.
 kann, ist der Hochschule, die das Zeugnis über den Masterabschluss
 ausgestellt hat, Gelegenheit zur Stellungnahme zu geben. Erfolgt
 danach keine Anrechnung, teilt die Prüfungsstelle dies der
-antragstellenden Person schriftlich mit. Die Ablehnung einer
-Anrechnung kann insbesondere gerechtfertigt sein, wenn der
-Masterstudiengang nach der Akkreditierung wesentlich umgestaltet wird,
-so dass eine besondere Eignung nach § 1 ganz oder in Teilen entfallen
-ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
+antragstellenden Person schriftlich oder elektronisch mit. Die
+Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn
+der Masterstudiengang nach der Akkreditierung wesentlich umgestaltet
+wird, so dass eine besondere Eignung nach § 1 ganz oder in Teilen
+entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
 Wirtschaftsprüferordnung entsprechend.
 
 
@@ -304,9 +303,9 @@ verbindlich; § 9 Abs. 6 bleibt unberührt.
 Gebührenordnung der Wirtschaftsprüferkammer kostenpflichtig.
 
 (3) Kann eine Bestätigung nicht erteilt werden, so teilt die
-Prüfungsstelle dies der Hochschule schriftlich mit. Für das
-Widerspruchsverfahren gilt § 5 Abs. 5 der Wirtschaftsprüferordnung
-entsprechend.
+Prüfungsstelle dies der Hochschule schriftlich oder elektronisch mit.
+Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
+Wirtschaftsprüferordnung entsprechend.
 
 
 ### § 9 Anrechnung auf das Wirtschaftsprüfungsexamen
@@ -321,7 +320,7 @@ Original oder in beglaubigter Abschrift mit dem Antrag nach § 1 oder §
 25 der Wirtschaftsprüferprüfungsverordnung vorzulegen. Der
 erfolgreiche Abschluss des Studiengangs, aus dem die
 Leistungsnachweise stammen, darf zum Zeitpunkt der Antragstellung auf
-Zulassung zum Wirtschaftsprüfungsexamen nicht länger als sechs Jahre
+Zulassung zum Wirtschaftsprüfungsexamen nicht länger als acht Jahre
 zurückliegen.
 
 (3) Wird festgestellt, dass ein Leistungsnachweis angerechnet wird,
@@ -344,11 +343,11 @@ Anwendung.
 (6) Wenn eine Anrechnung voraussichtlich nicht erfolgen kann, ist der
 ausstellenden Hochschule Gelegenheit zur Stellungnahme zu geben.
 Erfolgt danach keine Anrechnung, teilt die Prüfungsstelle dies der
-antragstellenden Person schriftlich mit. Die Ablehnung einer
-Anrechnung kann insbesondere gerechtfertigt sein, wenn der Studiengang
-nach der Bestätigung wesentlich umgestaltet wurde, so dass die
-Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen entfallen ist.
-Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
+antragstellenden Person schriftlich oder elektronisch mit. Die
+Ablehnung einer Anrechnung kann insbesondere gerechtfertigt sein, wenn
+der Studiengang nach der Bestätigung wesentlich umgestaltet wurde, so
+dass die Gleichwertigkeit nach § 7 Abs. 2 ganz oder in Teilen
+entfallen ist. Für das Widerspruchsverfahren gilt § 5 Abs. 5 der
 Wirtschaftsprüferordnung entsprechend.
 
 

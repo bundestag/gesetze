@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1332
 
 Zuletzt geändert durch
-:   Art. 5 V v. 8.5.2008 I 797
+:   Art. 26 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -49,10 +49,11 @@ Getränke, die nicht den in Absatz 1 genannten Vorschriften
 entsprechen, unter der Bezeichnung "Bier" gewerbsmäßig in den Verkehr
 gebracht werden, wenn sie im jeweiligen Herstellungsland unter der
 Bezeichnung "Bier" oder einer dieser Bezeichnung entsprechenden
-Verkehrsbezeichnung verkehrsfähig sind. Sind diesen Getränken
-zulassungsbedürftige Zusatzstoffe zugesetzt worden, so gilt dies
-jedoch nur, wenn für diese Zusatzstoffe eine Ausnahmeregelung nach dem
-Lebensmittel- und Futtermittelgesetzbuch getroffen worden ist.
+Bezeichnung des Lebensmittels verkehrsfähig sind. Sind diesen
+Getränken zulassungsbedürftige Zusatzstoffe zugesetzt worden, so gilt
+dies jedoch nur, wenn für diese Zusatzstoffe eine Ausnahmeregelung
+nach dem Lebensmittel- und Futtermittelgesetzbuch getroffen worden
+ist.
 
 (3) Ein Getränk, bei dem die Gärung unterbrochen ist, gilt ebenfalls
 als gegoren.

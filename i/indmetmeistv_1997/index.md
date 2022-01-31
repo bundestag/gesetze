@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 2923
 
 Zuletzt geändert durch
-:   Art. 15 V v. 23.7.2010 I 1010
+:   Art. 14 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -56,7 +56,7 @@ Industriemeister und damit die Befähigung:
 
 
 
-(3) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(3) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 Qualifikation besitzt, um in den betrieblichen Funktionsfeldern
 Betriebserhaltung, Fertigung und Montage insbesondere folgende in
 Zusammenhang stehende Aufgaben eines Industriemeisters der
@@ -231,11 +231,11 @@ ist in folgenden Prüfungsbereichen zu prüfen:
 
 
 
-(2) Im Prüfungsbereich "Rechtsbewußtes Handeln" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist, im Rahmen
-seiner Handlungen einschlägige Rechtsvorschriften zu berücksichtigen.
-Er soll die Arbeitsbedingungen seiner Mitarbeiter unter
-arbeitsrechtlichen Aspekten gestalten. Außerdem soll er die
+(2) Im Prüfungsbereich "Rechtsbewußtes Handeln" soll die zu prüfende
+Person nachweisen, daß sie in der Lage ist, im Rahmen seiner
+Handlungen einschlägige Rechtsvorschriften zu berücksichtigen. Sie
+soll die Arbeitsbedingungen seiner Mitarbeiter unter
+arbeitsrechtlichen Aspekten gestalten. Außerdem soll sie die
 Arbeitssicherheit, den Gesundheitsschutz und den Umweltschutz nach
 rechtlichen Grundlagen gewährleisten sowie die Zusammenarbeit mit den
 entsprechenden Institutionen sicherstellen. In diesem Rahmen können
@@ -275,15 +275,16 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 
-(3) Im Prüfungsbereich "Betriebswirtschaftliches Handeln" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist,
-betriebswirtschaftliche Gesichtspunkte in seinen Handlungen zu
-berücksichtigen und volkswirtschaftliche Zusammenhänge aufzuzeigen. Er
-soll Unternehmensformen darstellen können sowie deren Auswirkungen auf
-seine Aufgabenwahrnehmung analysieren und beurteilen können. Weiterhin
-soll er in der Lage sein, betriebliche Abläufe nach wirtschaftlichen
-Gesichtspunkten zu planen, zu beurteilen und zu beeinflussen. In
-diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(3) Im Prüfungsbereich "Betriebswirtschaftliches Handeln" soll die zu
+prüfende Person nachweisen, daß sie in der Lage ist,
+betriebswirtschaftliche Gesichtspunkte in ihren Handlungen zu
+berücksichtigen und volkswirtschaftliche Zusammenhänge aufzuzeigen.
+Sie soll Unternehmensformen darstellen können sowie deren Auswirkungen
+auf seine Aufgabenwahrnehmung analysieren und beurteilen können.
+Weiterhin soll sie in der Lage sein, betriebliche Abläufe nach
+wirtschaftlichen Gesichtspunkten zu planen, zu beurteilen und zu
+beeinflussen. In diesem Rahmen können folgende Qualifikationsinhalte
+geprüft werden:
 
 1.  Berücksichtigen der ökonomischen Handlungsprinzipien von Unternehmen
     unter Einbeziehung volkswirtschaftlicher Zusammenhänge und sozialer
@@ -308,11 +309,11 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 (4) Im Prüfungsbereich "Anwendung von Methoden der Information,
-Kommunikation und Planung" soll der Prüfungsteilnehmer nachweisen, daß
-er in der Lage ist, Projekte und Prozesse zu analysieren, zu planen
-und transparent zu machen. Er soll Daten aufbereiten, technische
+Kommunikation und Planung" soll die zu prüfende Person nachweisen, daß
+sie in der Lage ist, Projekte und Prozesse zu analysieren, zu planen
+und transparent zu machen. Sie soll Daten aufbereiten, technische
 Unterlagen erstellen sowie entsprechende Planungstechniken einsetzen
-können. Er soll in der Lage sein, angemessene Präsentationstechniken
+können. Sie soll in der Lage sein, angemessene Präsentationstechniken
 anzuwenden. In diesem Rahmen können folgende Qualifikationsinhalte
 geprüft werden:
 
@@ -341,16 +342,15 @@ geprüft werden:
 
 
 
-(5) Im Prüfungsbereich "Zusammenarbeit im Betrieb" soll der
-Prüfungsteilnehmer nachweisen, daß er in der Lage ist, Zusammenhänge
-des Sozialverhaltens zu erkennen, ihre Auswirkungen auf die
-Zusammenarbeit zu beurteilen und durch angemessene Maßnahmen auf eine
-zielorientierte und effiziente Zusammenarbeit hinzuwirken. Er soll in
-der Lage sein, die Leistungsbereitschaft der Mitarbeiter zu fördern,
-betriebliche Probleme und soziale Konflikte zu lösen. Er soll
-Führungsgrundsätze berücksichtigen und angemessene Führungstechniken
-anwenden. In diesem Rahmen können folgende Qualifikationsinhalte
-geprüft werden:
+(5) Im Prüfungsbereich "Zusammenarbeit im Betrieb" soll die zu
+prüfende Person nachweisen, daß sie in der Lage ist, Zusammenhänge des
+Sozialverhaltens zu erkennen, ihre Auswirkungen auf die Zusammenarbeit
+zu beurteilen und durch angemessene Maßnahmen auf eine zielorientierte
+und effiziente Zusammenarbeit hinzuwirken. Sie soll in der Lage sein,
+die Leistungsbereitschaft der Mitarbeiter zu fördern, betriebliche
+Probleme und soziale Konflikte zu lösen. Sie soll Führungsgrundsätze
+berücksichtigen und angemessene Führungstechniken anwenden. In diesem
+Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 1.  Beurteilen und Fördern der beruflichen Entwicklung des einzelnen unter
     Beachtung des bisherigen Berufsweges und unter Berücksichtigung
@@ -382,10 +382,10 @@ geprüft werden:
 
 
 (6) Im Prüfungsbereich "Berücksichtigung naturwissenschaftlicher und
-technischer Gesetzmäßigkeiten" soll der Prüfungsteilnehmer nachweisen,
-daß er in der Lage ist, einschlägige naturwissenschaftliche und
+technischer Gesetzmäßigkeiten" soll die zu prüfende Person nachweisen,
+daß sie in der Lage ist, einschlägige naturwissenschaftliche und
 technische Gesetzmäßigkeiten zur Lösung technischer Probleme
-einzubeziehen. Er soll mathematische, physikalische, chemische und
+einzubeziehen. Sie soll mathematische, physikalische, chemische und
 technische Kenntnisse und Fertigkeiten zur Lösung von Aufgaben aus der
 betrieblichen Praxis anwenden. In diesem Rahmen können folgende
 Qualifikationsinhalte geprüft werden:
@@ -418,14 +418,14 @@ höchstens acht Stunden betragen, pro Prüfungsbereich nach Absatz 1 Nr.
 1 bis 4 mindestens 90 Minuten, im Prüfungsbereich nach Absatz 1 Nr. 5
 mindestens 60 Minuten.
 
-(8) Hat der Prüfungsteilnehmer in nicht mehr als zwei der in Absatz 1
+(8) Hat die zu prüfende Person in nicht mehr als zwei der in Absatz 1
 Nr. 1 bis 5 genannten Prüfungsbereichen mangelhafte Leistungen
-erbracht, ist ihm darin eine mündliche Ergänzungsprüfung anzubieten.
+erbracht, ist ihr darin eine mündliche Ergänzungsprüfung anzubieten.
 Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen
 besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll
-anwendungsbezogen durchgeführt werden und je Prüfungsbereich und
-Prüfungsteilnehmer nicht länger als 20 Minuten dauern. Die Bewertung
-der schriftlichen Prüfungsleistung und die der mündlichen
+anwendungsbezogen durchgeführt werden und für jeden Prüfungsbereich
+und für die zu prüfende Person nicht länger als 20 Minuten dauern. Die
+Bewertung der schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
@@ -511,11 +511,11 @@ einzelnen kann die Situationsaufgabe folgende Qualifikationsinhalte
 aus dem Handlungsbereich "Technik" mit den Schwerpunkten gemäß den
 Nummern 1 bis 3 umfassen:
 
-1.  Im Qualifikationsschwerpunkt "Betriebstechnik" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die technischen
-    Anlagen und Einrichtungen funktionsgerecht einzusetzen und ihre
-    Instandhaltung zu planen, zu organisieren und zu überwachen sowie die
-    Energieversorgung im Betrieb sicherzustellen. Er soll in der Lage
+1.  Im Qualifikationsschwerpunkt "Betriebstechnik" soll die zu prüfende
+    Person nachweisen, daß sie in der Lage ist, die technischen Anlagen
+    und Einrichtungen funktionsgerecht einzusetzen und ihre Instandhaltung
+    zu planen, zu organisieren und zu überwachen sowie die
+    Energieversorgung im Betrieb sicherzustellen. Sie soll in der Lage
     sein, Aufträge zur Installation von Maschinen, Produktionsanlagen,
     Anlagen der Ver- und Entsorgung sowie von Systemen des Transports und
     der Lagerung umzusetzen. In diesem Rahmen können folgende
@@ -554,18 +554,18 @@ Nummern 1 bis 3 umfassen:
 
 
 
-2.  Im Qualifikationsschwerpunkt "Fertigungstechnik" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist,
-    Fertigungsprozesse zur Herstellung und Veränderung von Produkten zu
-    planen, zu organisieren und zu überwachen. Er soll in der Lage sein,
-    fertigungstechnische Einzelheiten und Zusammenhänge sowie
-    Optimierungsmöglichkeiten des Fertigungsprozesses zu erkennen und
-    zweckentsprechende Maßnahmen einzuleiten. Beim Einsatz neuer
-    Maschinen, Anlagen und Werkzeuge sowie bei der Be- und Verarbeitung
-    neuer Werkstoffe und Fertigungshilfsstoffe soll er die Auswirkungen
-    auf den Fertigungsprozeß erkennen und berücksichtigen können. In
-    diesem Rahmen können folgende Qualifikationsinhalte in den
-    Situationsaufgaben geprüft werden:
+2.  Im Qualifikationsschwerpunkt "Fertigungstechnik" soll die zu prüfende
+    Person nachweisen, daß sie in der Lage ist, Fertigungsprozesse zur
+    Herstellung und Veränderung von Produkten zu planen, zu organisieren
+    und zu überwachen. Sie soll in der Lage sein, fertigungstechnische
+    Einzelheiten und Zusammenhänge sowie Optimierungsmöglichkeiten des
+    Fertigungsprozesses zu erkennen und zweckentsprechende Maßnahmen
+    einzuleiten. Beim Einsatz neuer Maschinen, Anlagen und Werkzeuge sowie
+    bei der Be- und Verarbeitung neuer Werkstoffe und
+    Fertigungshilfsstoffe soll sie die Auswirkungen auf den
+    Fertigungsprozeß erkennen und berücksichtigen können. In diesem Rahmen
+    können folgende Qualifikationsinhalte in den Situationsaufgaben
+    geprüft werden:
 
     a)  Planen und Analysieren von Fertigungsaufträgen und Festlegen der
         anzuwendenden Verfahren, Betriebsmittel und Hilfsstoffe einschließlich
@@ -603,13 +603,13 @@ Nummern 1 bis 3 umfassen:
 
 
 
-3.  Im Qualifikationsschwerpunkt "Montagetechnik" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist, Aufträge zur
-    Montage von Maschinen und Anlagen zu planen, zu organisieren und ihre
-    Durchführung zu überwachen. Er soll in der Lage sein, Teilvorgänge und
+3.  Im Qualifikationsschwerpunkt "Montagetechnik" soll die zu prüfende
+    Person nachweisen, daß sie in der Lage ist, Aufträge zur Montage von
+    Maschinen und Anlagen zu planen, zu organisieren und ihre Durchführung
+    zu überwachen. Sie soll in der Lage sein, Teilvorgänge und
     Zusammenhänge, die den Montageablauf bestimmen sowie
     Optimierungsmöglichkeiten des Montageprozesses zu erkennen und
-    entsprechende Maßnahmen zur Umsetzung einzuleiten. Er soll
+    entsprechende Maßnahmen zur Umsetzung einzuleiten. Sie soll
     Montageprinzipien nach vorgegebenen Kriterien auswählen, den Eigen-
     und Fremdteileanteil mitberücksichtigen und die Auswirkungen auf den
     Montageprozeß erkennen können. In diesem Rahmen können folgende
@@ -654,13 +654,13 @@ einzelnen kann die Situationsaufgabe folgende Qualifikationsinhalte
 aus dem Handlungsbereich "Organisation" mit den Schwerpunkten gemäß
 den Nummern 1 bis 3 umfassen:
 
-1.  Im Qualifikationsschwerpunkt "Betriebliches Kostenwesen" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist,
+1.  Im Qualifikationsschwerpunkt "Betriebliches Kostenwesen" soll die zu
+    prüfende Person nachweisen, daß sie in der Lage ist,
     betriebswirtschaftliche Zusammenhänge und kostenrelevante
-    Einflußfaktoren zu erfassen und zu beurteilen. Er soll in der Lage
+    Einflußfaktoren zu erfassen und zu beurteilen. Sie soll in der Lage
     sein, Möglichkeiten der Kostenbeeinflussung aufzuzeigen und Maßnahmen
     zum kostenbewußten Handeln zu planen, zu organisieren, einzuleiten und
-    zu überwachen. Er soll nachweisen, daß er Kalkulationsverfahren und
+    zu überwachen. Sie soll nachweisen, daß sie Kalkulationsverfahren und
     Methoden der Zeitwirtschaft anwenden und organisatorische sowie
     personelle Maßnahmen auch in ihrer Bedeutung als Kostenfaktoren
     beurteilen und berücksichtigen kann. In diesem Rahmen können folgende
@@ -696,10 +696,10 @@ den Nummern 1 bis 3 umfassen:
 
 
 2.  Im Qualifikationsschwerpunkt "Planungs-, Steuerungs- und
-    Kommunikationssysteme" soll der Prüfungsteilnehmer nachweisen, daß er
+    Kommunikationssysteme" soll die zu prüfende Person nachweisen, daß sie
     in der Lage ist, die Bedeutung von Planungs-, Steuerungs- und
     Kommunikationssystemen zu erkennen und sie anforderungsgerecht
-    auszuwählen. Er soll nachweisen, daß er entsprechende Systeme zur
+    auszuwählen. Sie soll nachweisen, daß sie entsprechende Systeme zur
     Überwachung von Planungszielen und Prozessen anwenden kann. In diesem
     Rahmen können folgende Qualifikationsinhalte in den Situationsaufgaben
     geprüft werden:
@@ -729,11 +729,11 @@ den Nummern 1 bis 3 umfassen:
 
 
 3.  Im Qualifikationsschwerpunkt "Arbeits-, Umwelt- und Gesundheitsschutz"
-    soll der Prüfungsteilnehmer nachweisen, daß er in der Lage ist,
+    soll die zu prüfende Person nachweisen, daß sie in der Lage ist,
     einschlägige Gesetze, Vorschriften und Bestimmungen in ihrer Bedeutung
-    zu erkennen und ihre Einhaltung sicherzustellen. Er soll in der Lage
+    zu erkennen und ihre Einhaltung sicherzustellen. Sie soll in der Lage
     sein, Gefahren vorzubeugen, Störungen zu erkennen und zu analysieren
-    sowie Maßnahmen zu ihrer Vermeidung oder Beseitigung einzuleiten. Er
+    sowie Maßnahmen zu ihrer Vermeidung oder Beseitigung einzuleiten. Sie
     soll sicherstellen, daß sich die Mitarbeiter arbeits-, umwelt- und
     gesundheitsschutzbewußt verhalten und entsprechend handeln. In diesem
     Rahmen können folgende Qualifikationsinhalte in den Situationsaufgaben
@@ -781,14 +781,14 @@ Im einzelnen kann die Situationsaufgabe folgende Qualifikationsinhalte
 aus dem Handlungsbereich "Führung und Personal" mit den Schwerpunkten
 gemäß den Nummern 1 bis 3 umfassen:
 
-1.  Im Qualifikationsschwerpunkt "Personalführung" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist, den
-    Personalbedarf zu ermitteln und den Personaleinsatz entsprechend den
-    Anforderungen sicherzustellen. Er soll in der Lage sein, die
-    Mitarbeiter nach zielgerichteten Erfordernissen durch die Anwendung
-    geeigneter Methoden zu verantwortlichem Handeln hinzuführen. In diesem
-    Rahmen können folgende Qualifikationsinhalte in den Situationsaufgaben
-    geprüft werden:
+1.  Im Qualifikationsschwerpunkt "Personalführung" soll die zu prüfende
+    Person nachweisen, daß sie in der Lage ist, den Personalbedarf zu
+    ermitteln und den Personaleinsatz entsprechend den Anforderungen
+    sicherzustellen. Sie soll in der Lage sein, die Mitarbeiter nach
+    zielgerichteten Erfordernissen durch die Anwendung geeigneter Methoden
+    zu verantwortlichem Handeln hinzuführen. In diesem Rahmen können
+    folgende Qualifikationsinhalte in den Situationsaufgaben geprüft
+    werden:
 
     a)  Ermitteln und Bestimmen des qualitativen und quantitativen
         Personalbedarfs unter Berücksichtigung technischer und
@@ -823,12 +823,12 @@ gemäß den Nummern 1 bis 3 umfassen:
 
 
 
-2.  Im Qualifikationsschwerpunkt "Personalentwicklung" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist, auf der
-    Grundlage einer qualitativen und quantitativen Personalplanung eine
-    systematische Personalentwicklung durchzuführen. Er soll
+2.  Im Qualifikationsschwerpunkt "Personalentwicklung" soll die zu
+    prüfende Person nachweisen, daß sie in der Lage ist, auf der Grundlage
+    einer qualitativen und quantitativen Personalplanung eine
+    systematische Personalentwicklung durchzuführen. Sie soll
     Personalentwicklungspotentiale einschätzen und Personalentwicklungs-
-    und Qualifizierungsziele festlegen können. Er soll entsprechende
+    und Qualifizierungsziele festlegen können. Sie soll entsprechende
     Maßnahmen planen, realisieren, ihre Ergebnisse überprüfen und die
     Umsetzung im Betrieb fördern können. In diesem Rahmen können folgende
     Qualifikationsinhalte in den Situationsaufgaben geprüft werden:
@@ -864,10 +864,10 @@ gemäß den Nummern 1 bis 3 umfassen:
 
 
 
-3.  Im Qualifikationsschwerpunkt "Qualitätsmanagement" soll der
-    Prüfungsteilnehmer nachweisen, daß er in der Lage ist, die
+3.  Im Qualifikationsschwerpunkt "Qualitätsmanagement" soll die zu
+    prüfende Person nachweisen, daß sie in der Lage ist, die
     Qualitätsziele durch Anwendung entsprechender Methoden und
-    Beeinflussung des Qualitätsbewußtseins der Mitarbeiter zu sichern. Er
+    Beeinflussung des Qualitätsbewußtseins der Mitarbeiter zu sichern. Sie
     soll bei der Realisierung eines Qualitätsmanagementsystems mitwirken
     und zu dessen Verbesserung und Weiterentwicklung beitragen können. In
     diesem Rahmen können folgende Qualifikationsinhalte in den
@@ -893,22 +893,22 @@ gemäß den Nummern 1 bis 3 umfassen:
 
 
 
-(6) Im situationsbezogenen Fachgespräch soll der Prüfungsteilnehmer
-nachweisen, daß er in der Lage ist, betriebliche Aufgabenstellungen zu
-analysieren, zu strukturieren und einer begründeten Lösung zuzuführen.
-Er soll nachweisen, daß er seinen Lösungsvorschlag möglichst unter
-Einbeziehung von Präsentationstechniken erläutern und erörtern kann.
-Das Fachgespräch hat die gleiche Struktur wie eine schriftliche
-Situationsaufgabe. Es ist dabei der Handlungsbereich in den
-Mittelpunkt zu stellen, der nicht Kern einer schriftlichen
+(6) Im situationsbezogenen Fachgespräch soll die zu prüfende Person
+nachweisen, daß sie in der Lage ist, betriebliche Aufgabenstellungen
+zu analysieren, zu strukturieren und einer begründeten Lösung
+zuzuführen. Sie soll nachweisen, daß sie seinen Lösungsvorschlag
+möglichst unter Einbeziehung von Präsentationstechniken erläutern und
+erörtern kann. Das Fachgespräch hat die gleiche Struktur wie eine
+schriftliche Situationsaufgabe. Es ist dabei der Handlungsbereich in
+den Mittelpunkt zu stellen, der nicht Kern einer schriftlichen
 Situationsaufgabe ist, es integriert insbesondere die
 Qualifikationsschwerpunkte, die nicht schriftlich geprüft werden. Das
-Fachgespräch soll pro Prüfungsteilnehmer mindestens 45 Minuten und
-höchstens 60 Minuten dauern.
+Fachgespräch soll für die zu prüfenden Person mindestens 45 Minuten
+und höchstens 60 Minuten dauern.
 
-(7) Hat der Prüfungsteilnehmer in nicht mehr als einer schriftlichen
+(7) Hat die zu prüfende Person in nicht mehr als einer schriftlichen
 Situationsaufgabe gemäß Absatz 1 mangelhafte Leistungen erbracht, ist
-ihm darin eine mündliche Ergänzungsprüfung anzubieten. Bei einer
+ihr darin eine mündliche Ergänzungsprüfung anzubieten. Bei einer
 ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit
 nicht. Die Ergänzungsprüfung soll handlungsspezifisch und integriert
 durchgeführt werden und nicht länger als 20 Minuten dauern. Die
@@ -917,182 +917,554 @@ Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
-
-(1) Die Prüfungsteile "Fachrichtungsübergreifende
-Basisqualifikationen" und "Handlungsspezifische Qualifikationen" sind
-gesondert zu bewerten.
-
-(2) Für den Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
-
-(3) Bei der Bewertung der Prüfungsleistungen in den schriftlichen
-Situationsaufgaben und im situationsbezogenen Fachgespräch des
-Prüfungsteils "Handlungsspezifische Qualifikationen" sind der Kern und
-die integrierten Qualifikationsinhalte je zur Hälfte in die
-Leistungsbewertung einzubeziehen. Dabei sind die integrierten
-Qualifikationsinhalte je Handlungsbereich etwa gleichgewichtig zu
-bewerten. Für jede Situationsaufgabe und für das situationsbezogene
-Fachgespräch ist jeweils eine Note aus den Punktebewertungen der
-Leistungen zu bilden.
-
-(4) Die Prüfung ist insgesamt bestanden, wenn der Prüfungsteilnehmer
-in allen Prüfungsleistungen ausreichende Leistungen erbracht hat und
-die bestandene Prüfung im Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" nicht länger als fünf Jahre zurückliegt.
-
-(5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen, aus dem die im
-Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen"
-erzielte Note, die in den Prüfungsbereichen erzielten Punkte sowie die
-in den Situationsaufgaben und in dem situationsbezogenen Fachgespräch
-erzielten Noten hervorgehen müssen. Im Fall der Freistellung gemäß § 6
-sind Ort und Datum sowie Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb
-der berufs- und arbeitspädagogischen Kenntnisse ist im Zeugnis
-einzutragen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 4 oder §
+8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den
+Prüfungsteil das arithmetische Mittel zu berechnen.
+
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die Situationsaufgabe nach § 5 Absatz 3,
+
+
+2.  die Situationsaufgabe nach § 5 Absatz 4 und
+
+
+3.  die Situationsaufgabe nach § 5 Absatz 5.
+
+
+
+Bei der Bewertung der Prüfungsleistungen in den schriftlichen
+Situationsaufgaben und in der Situationsaufgabe in Form eines
+situationsbezogenen Fachgesprächs sind der Kern und die integrierten
+Qualifikationsinhalte je zur Hälfte in die Leistungsbewertung
+einzubeziehen. Dabei sind die integrierten Qualifikationsinhalte je
+Handlungsbereich gleichgewichtig zu bewerten. Aus den einzelnen
+Bewertungen ist als Bewertung für den Prüfungsteil das arithmetische
+Mittel zu berechnen.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Prüfungsbereich des Prüfungsteils „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in der Situationsaufgabe nach § 5 Absatz 3,
+
+
+    b)  in der Situationsaufgabe nach § 5 Absatz 4 und
+
+
+    c)  in der Situationsaufgabe nach § 5 Absatz 5.
+
+
+
+
+
+
+Die bestandene Prüfung im Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“ darf dabei nicht länger als fünf Jahre
+zurückliegen.
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“,
+
+
+3.  die Bewertung der Situationsaufgabe, in der eine mündliche
+    Ergänzungsprüfung durchgeführt wurde.
+
+
+
+
+(3) Den Bewertungen für den Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“ sowie den Bewertungen für die drei
+Situationsaufgaben ist nach der Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“ mit 25 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag
-von der Prüfung in einzelnen Prüfungsbereichen, Situationsaufgaben und
-dem situationsbezogenen Fachgespräch zu befreien, wenn seine
-Leistungen darin in einer vorangegangenen Prüfung ausgereicht haben
-und er sich innerhalb von zwei Jahren, gerechnet vom Tage der
-Beendigung des nicht bestandenen Prüfungsteils an, zur
-Wiederholungsprüfung anmeldet.
+(2) In der Wiederholungsprüfung ist zu prüfende Person auf Antrag von
+der Prüfung in einzelnen Prüfungsbereichen, Situationsaufgaben und dem
+situationsbezogenen Fachgespräch zu befreien, wenn ihre Leistungen
+darin in einer vorangegangenen Prüfung ausgereicht haben und sie sich
+innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung des nicht
+bestandenen Prüfungsteils an, zur Wiederholungsprüfung anmeldet.
 
 
-## § 9 Übergangsvorschrift
+## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 10 Inkrafttreten/Außerkrafttreten
+## § 12 Inkrafttreten/Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten
+Abschluß Geprüfter Industriemeister - Fachrichtung Metall vom 12.
+Dezember 1977 (BGBl. I S. 2546), geändert durch Artikel 1 der
+Verordnung vom 6. November 1984 (BGBl. I S. 1330), außer Kraft.
+
+(zu den §§ 7 und 8)
+
+## Anlage 1 Bewertungsmaßstab und -schlüssel
+
+(Fundstelle: BGBl. I 2019, 2203 - 2204)
 
 
-## Anlage 1 (zu § 7 Abs. 5) Muster
+*    *   Punkte
 
-(Fundstelle: BGBl. I 1997, 2930;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Metall
-Herr/Frau
-.....................................................................
-geboren am ......................... in
-.......................................
-hat am ............................. die Prüfung zum anerkannten
-Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Metall
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Metall vom
-12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 15 der
-Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum .......................
-Unterschrift ................
-(Siegel der zuständigen Stelle)
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-## Anlage 2 (zu § 7 Abs. 5) Muster
+*    *   100
 
-(Fundstelle: BGBl. I 1997, 2931 - 2932;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Metall
-Herr/Frau
-.....................................................................
-geboren am ......................... in
-.......................................
-hat am ............................. die Prüfung zum anerkannten
-Abschluß
-Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Metall
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
-Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Metall vom
-12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 15 der
-Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-mit folgenden Ergebnissen 1) bestanden:
-Note
-I. Fachrichtungsübergreifende Basisqualifikationen
-..............
-Prüfungsbereiche:                                   Punkte
-Rechtsbewußtes Handeln                              .........
-Betriebswirtschaftliches Handeln                    .........
-Anwendung von Methoden der Information,
-Kommunikation und Planung                           .........
-Zusammenarbeit im Betrieb                           .........
-Berücksichtigung naturwissenschaftlicher
-und technischer Gesetzmäßigkeiten                   .........
-(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am .......... in ..........
-vor .......... abgelegte Prüfung vom Prüfungsbestandteil ..........
-freigestellt.“)
-II. Handlungsspezifische Qualifikationen                         Note
-1\. Integrative, schriftliche Situationsaufgaben im
-Handlungsbereich Technik
-..............
-Handlungsbereich Organisation
-..............
-Handlungsbereich Führung und Personal
-..............
-2\. Situationsbezogenes Fachgespräch im
-Handlungsbereich .....................
-..............
-(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am .......... in ..........
-vor .......... abgelegte Prüfung vom Prüfungsbestandteil ..........
-freigestellt.“)
-Berufs- und arbeitspädagogische Qualifikationen
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat den Nachweis
-über den Erwerb der berufs- und arbeitspädagogischen Kenntnisse
-durch die Prüfung am .......................... in
-............................
-vor .......... erbracht.
-Datum ..........................
-Unterschrift ...................
-(Siegel der zuständigen Stelle)
------
-1) Die Gesamtnote für den Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" wird aus dem arithmetischen Mittel der
-Punktebewertungen der Prüfungsbereiche gebildet.
-Die Punktebewertungsskala unterteilt sich wie folgt: 100-92 Punkte =
-Note 1
-= sehr gut, unter 92-81 Punkte = Note 2 = gut, unter 81-67 Punkte =
-Note 3
-= befriedigend, unter 67-50 Punkte = Note 4 = ausreichend, unter 50-30
-Punkte = Note 5 = mangelhaft, unter 30-0 Punkte = Note 6 = ungenügend.
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2204 - 2205)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung als Note sowie
+
+
+    b)  Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung als Note,
+
+
+    b)  Benennung der Situationsaufgabe nach § 5 Absatz 3 und Bewertung als
+        Note,
+
+
+    c)  Benennung der Situationsaufgabe nach § 5 Absatz 4 und Bewertung als
+        Note sowie
+
+
+    d)  Benennung der Situationsaufgabe nach § 5 Absatz 5 und Bewertung als
+        Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
+
+
+
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1211, 1214
 
 Zuletzt geändert durch
-:   Art. 16 G v. 19.12.2008 I 2794
+:   Art. 268 V v. 31.8.2015 I 1474
 
 
 ## § 1 Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in Gesellschaften, Betriebe oder Betriebstätten im Ausland
@@ -272,9 +272,9 @@ Wirtschaftsgütern einschließlich der Überlassung von Rechten, Plänen,
 Mustern, Verfahren, Erfahrungen und Kenntnissen bestehen. Soweit die
 Bewirkung gewerblicher Leistungen im Betrieb von Handelsschiffen oder
 Luftfahrzeugen im internationalen Verkehr besteht, ist weitere
-Voraussetzung, daß das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung oder die von ihm bestimmte Stelle die
-verkehrspolitische Förderungswürdigkeit bestätigt.
+Voraussetzung, daß das Bundesministerium für Verkehr und digitale
+Infrastruktur oder die von ihm bestimmte Stelle die verkehrspolitische
+Förderungswürdigkeit bestätigt.
 
 
 ## § 6 Gewerbesteuer

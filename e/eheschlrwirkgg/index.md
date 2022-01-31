@@ -43,15 +43,15 @@ Rechtswirkungen erzeugt:
     unberührt.
 
 
-3.  Ein von dem Mann stammendes Kind der Frau hat die Rechtsstellung eines
-    ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs findet
-    entsprechende Anwendung.
+3.  Ein von dem Manne stammendes Kind der Frau hat die Rechtsstellung
+    eines ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs
+    findet entsprechende Anwendung.
 
 
 
 
-(2) Die Rechtswirkungen gelten mit dem Tag als eingetreten, der in dem
-Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet
+(2) Die Rechtswirkungen gelten mit dem Tage als eingetreten, der in
+dem Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet
 worden ist.
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten auch in den Fällen, in
@@ -59,9 +59,8 @@ denen der Mann für tot erklärt oder sein Tod nach den Vorschriften des
 Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
 
-## § 2
+## § 2 (weggefallen)
 
--
 
 
 ## § 3

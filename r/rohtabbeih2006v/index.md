@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für
+Title: Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak  für
   das Erntejahr 2006
 jurabk: RohTabBeih2006V
 layout: default
@@ -8,7 +8,7 @@ slug: rohtabbeih2006v
 
 ---
 
-# Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak für das Erntejahr 2006 (RohTabBeih2006V)
+# Verordnung zur Festsetzung des endgültigen Beihilfebetrags für Rohtabak  für das Erntejahr 2006 (RohTabBeih2006V)
 
 Ausfertigungsdatum
 :   2007-03-26

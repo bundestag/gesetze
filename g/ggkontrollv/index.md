@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1997, 1306
 
 Neugefasst durch
-:   Bek. v. 26.10.2005 I 3104;
+:   Bek. v. 26.10.2005 I 3104
 
-Geändert durch
-:   Art. 482 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 488 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung der Richtlinie 95/50/EG des
 Rates vom 6. Oktober 1995 über einheitliche Verfahren für die
@@ -166,14 +166,14 @@ kann die zuständige Behörde die Fahrt so lange untersagen, bis die
 Beförderung vorschriftsmäßig durchgeführt werden kann; sie kann auch
 andere geeignete Maßnahmen ergreifen.
 
-(3) § 3 Abs. 3 Satz 4 und Abs. 4 bis 7 gilt entsprechend.
+(3) § 3 Absatz 3 Satz 2 und Abs. 4 bis 7 gilt entsprechend.
 
 
 ## § 5 Berichtswesen
 
 (1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte
 Stelle und das Bundesamt für Güterverkehr übermitteln dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung für jedes
+Bundesministerium für Verkehr und digitale Infrastruktur für jedes
 Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach
 dem Muster in der Anlage 5 erstellten Bericht über die Anwendung
 dieser Verordnung mit folgenden Angaben:
@@ -196,11 +196,12 @@ dieser Verordnung mit folgenden Angaben:
 
 (2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach
 Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung zur
+Bundesministerium für Verkehr und digitale Infrastruktur zur
 Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
+(zu § 3 Abs. 3 Satz 1)
 
-## Anlage 1 (zu § 3 Abs. 3 Satz 1) Prüfliste
+## Anlage 1 Prüfliste
 
 (Fundstelle: BGBl. I 2005, 3107)
 1\. Ort der Kontrolle                   2. Datum             3. Zeit
@@ -331,8 +332,9 @@ die/der die Kontrolle
 
 (weggefallen)
 
+(zu § 3 Abs. 7)
 
-## Anlage 3 (zu § 3 Abs. 7) Verstöße
+## Anlage 3 Verstöße
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 
@@ -540,8 +542,9 @@ dieser Verordnung angegeben) angewandt.
 
 (weggefallen)
 
+(zu § 5 Abs. 1)
 
-## Anlage 5 (zu § 5 Abs. 1) Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+## Anlage 5 Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 

@@ -1,5 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "650 Jahre Städtehanse")
 jurabk: Münz10EuroBek 2006-07-12/2
 layout: default
@@ -8,7 +8,7 @@ slug: muenz10eurobek_2006-07-12_2
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "650 Jahre Städtehanse") (Münz10EuroBek 2006-07-12/2)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "650 Jahre Städtehanse") (Münz10EuroBek 2006-07-12/2)
 
 Ausfertigungsdatum
 :   2006-07-12

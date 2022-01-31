@@ -23,12 +23,12 @@ Geändert durch
 
 
 
-## Art 2 -
+## Art 2 - 
 
 (weggefallen)
 
 
-## Art 3 u. 4 -
+## Art 3 u. 4 - 
 
 -
 
@@ -68,15 +68,15 @@ Fassung der Bekanntmachung vom 1. April 1959 (BGBl. I S. 187)
 durchzuführen.
 
 
-## Art 8 -
+## Art 8 - 
 
 
 
-## Art 9 -
+## Art 9 - 
 
 (weggefallen)
 
 
-## Art 10 -
+## Art 10 - 
 
 

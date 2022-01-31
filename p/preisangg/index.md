@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 1429
 
 Zuletzt geändert durch
-:   Art. 11 G v. 7.9.2007 I 2246
+:   Art. 296 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -24,7 +24,7 @@ Zuletzt geändert durch
 Zum Zwecke der Unterrichtung und des Schutzes der Verbraucher und zur
 Förderung des Wettbewerbs sowie zur Durchführung von diesen Zwecken
 dienenden Rechtsakten der Organe der Europäischen Gemeinschaften wird
-das Bundesministerium für Wirtschaft und Technologie ermächtigt, durch
+das Bundesministerium für Wirtschaft und Energie ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, daß und
 auf welche Art und Weise beim Anbieten von Waren oder Leistungen
 gegenüber Letztverbrauchern oder bei der Werbung für Waren oder

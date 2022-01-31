@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
+Title: Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin
 jurabk: FlechtwAusbV
 layout: default
 origslug: flechtwausbv
@@ -7,7 +7,7 @@ slug: flechtwausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin (FlechtwAusbV)
+# Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur  Flechtwerkgestalterin (FlechtwAusbV)
 
 Ausfertigungsdatum
 :   2006-03-31
@@ -378,8 +378,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 
 (Fundstelle: BGBl. I 2006, 598 - 603)
 
