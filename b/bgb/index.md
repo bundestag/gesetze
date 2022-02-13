@@ -49,7 +49,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 25.6.2021 I 2114 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 25.6.2021 I 2123 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 25.6.2021 I 2123; 2022 I 105 (aus 2021 Nr. 37 u. aus 2022 Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 1 G v. 25.6.2021 I 2133 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -8530,7 +8530,7 @@ Unternehmer sind die folgenden Vorschriften nicht anzuwenden:
 
 
 
-An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten
+An die Stelle der nach Satz 2 nicht anzuwendenden Vorschriften treten
 die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
 
 (2) Der Verkäufer trägt die Kosten der Begründung und Übertragung des

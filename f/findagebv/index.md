@@ -88,7 +88,7 @@ die aufgrund der folgenden Vorschriften erbracht werden:
 14. Zahlungsdiensteaufsichtsgesetz,
 
 
-15. Zahlungsinstituts-Eigenkapitalverordnung,
+15. Zahlungsinstituts-Eigenkapitalverordnung                   ,
 
 
 16. Einlagensicherungsgesetz,
@@ -5113,7 +5113,8 @@ tritt am 1. Januar 2022 in Kraft.
 *    *   29.6.6
 
     *   Verbot der Entgegennahme von Zahlungen, die nicht zur Erfüllung von
-        Verbindlichkeiten gegenüber dem Wertpapierinsitut bestimmt sind
+        Verbindlichkeiten gegenüber dem
+        Wertpapierinstitut                        bestimmt sind
         (§ 79 Absatz 1 Satz 2 Nummer 6 WpIG)
 
     *   nach Zeitaufwand

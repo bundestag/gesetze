@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 605
 
-Änderung durch
-:   Art. 26 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 26 G v. 27.7.2021 I 3146
 
 Stand: Ersetzt V 8053-4-15 v. 17.6.1998 I 1393 (GSGV 12)
     Diese Verordnung dient der Umsetzung der Richtlinie 2014/33/EU des

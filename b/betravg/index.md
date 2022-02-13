@@ -345,8 +345,6 @@ Eintritt des Versorgungsfalls erzielten Erträge), mindestens die Summe
 der bis dahin zugesagten Beiträge, soweit sie nicht rechnungsmäßig für
 einen biometrischen Risikoausgleich verbraucht wurden.
 
-(6) (weggefallen)
-
 
 #### § 2a Berechnung und Wahrung des Teilanspruchs
 

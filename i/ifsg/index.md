@@ -5975,7 +5975,10 @@ eigenen Patienten für die eigene Praxis durchgeführt werden.
     a)  Arzneimitteln,
 
 
-    b)  Medizinprodukten,
+    b)  Tierarzneimitteln,
+
+
+    c)  Medizinprodukten,
 
 
 

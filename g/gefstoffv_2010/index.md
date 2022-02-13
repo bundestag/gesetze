@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1643, 1644
 
 Zuletzt geändert durch
-:   Art. 148 G v. 29.3.2017 I 626
-
-Änderung durch
-:   Art. 2 V v. 21.7.2021 I 3115 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 21.7.2021 I 3115
 
 [^F774705_01_BJNR164400010]:     Artikel 1 dieser Verordnung dient der Umsetzung folgender Richtlinien:
     –                                    Richtlinie 98/24/EG des Rates vom
@@ -2549,9 +2546,9 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
     3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
 
 
-4.  § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine
-    Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet oder
+4.  entgegen § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz
+    1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet oder
 
 
 5.  entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht

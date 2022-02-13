@@ -17,13 +17,7 @@ Fundstelle
 :   BGBl II: 1994, 3816 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 1 iVm Anlage 1 u. 2 V v. 8.11.2019 II 907
-
-Änderung durch
-:   Art. 1 iVm Anlage 1 bis 3 V v. 2.6.2020 II 346 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 iVm Anlage 1 V v. 15.9.2020 II 699 ist berücksichtigt
+:   Art. 1 iVm Anlage 1 V v. 15.9.2020 II 699
 
 Änderung durch
 :   Art. 1 Nr. 1 iVm Anlage 1 bis 3 u. Art. 2 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.12.2021 bzw. 1.1.2022 noch nicht berücksichtigt

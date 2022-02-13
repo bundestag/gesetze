@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1733
 
-Geändert durch
-:   Art. 42 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 2 Abs. 69 V v. 18.1.2022 I 39
 
 
 ## Eingangsformel
@@ -446,9 +446,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

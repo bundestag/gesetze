@@ -17,43 +17,13 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.7.2021 I 2754
-
-Mittelbare änderung durch
-:   Art. 10 Nr. 2 G v. 11.7.2021 I 2754 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 G v. 18.8.2021 I 3890 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 38 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7a G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7b G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 9 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 22.11.2021 I 4906 ist berücksichtigt
-
-Änderung durch
-:   Art. 6 G v. 22.11.2021 I 4906 ist berücksichtigt
-
-Änderung durch
-:   Art. 14 G v. 10.12.2021 I 5162 ist berücksichtigt
+:   Art. 14 G v. 10.12.2021 I 5162
 
 Mittelbare änderung durch
 :   Art. 21 Nr. 1 G v. 10.12.2021 I 5162 ist berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 20j G v. 22.11.2021 I 4906 ist berücksichtigt
-
-Mittelbare änderung durch
-:   Art. 21 Nr. 1 u. 3 G v. 10.12.2021 I 5162 ist berücksichtigt
+:   Art. 21 Nr. 3 G v. 10.12.2021 I 5162 ist berücksichtigt
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -4668,13 +4638,13 @@ und Auswertungen zum Zweck der Nutzenbewertung fordern:
 
 1.  bei Arzneimitteln, deren Inverkehrbringen nach dem Verfahren des
     Artikels 14 Absatz 8 der Verordnung (EG) Nr. 726/2004 des Europäischen
-    Parlaments und des Rates vom 31. März 2004 zur Festlegung von
-    Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human-
-    und Tierarzneimitteln und zur Errichtung einer Europäischen
-    Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt
-    durch die Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24)
-    geändert worden ist, genehmigt wurde oder für die nach Artikel 14-a
-    der Verordnung (EG) Nr. 726/2004 eine Zulassung erteilt wurde, sowie
+    Parlaments und des Rates vom 31. März 2004 zur Festlegung der
+    Verfahren der Union für die Genehmigung und Überwachung von
+    Humanarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-
+    Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die
+    Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden
+    ist, genehmigt wurde oder für die nach Artikel 14-a der Verordnung
+    (EG) Nr. 726/2004 eine Zulassung erteilt wurde, sowie
 
 
 2.  bei Arzneimitteln, die zur Behandlung eines seltenen Leidens nach der
@@ -20873,12 +20843,12 @@ Herstellerabgabepreis einen mengengewichteten arithmetischen
 Mittelwert unter Übermittlung der dem ermittelten Mittelwert
 zugrundeliegenden Preise, die für die Jahre 2017 und 2018 bei der
 Direktabgabe durch den pharmazeutischen Unternehmer nach § 47 Absatz 1
-Satz 1 Nummer 2 Buchstabe a des Arzneimittelgesetzes tatsächlich
-vereinbart worden sind, sowie der zu diesen Preisen abgegebenen Mengen
-zu melden. Satz 1 gilt nicht für Arzneimittel, für die ein
-Erstattungsbetrag nach § 130b vereinbart oder festgesetzt worden ist.
-Die Übermittlung der Preise und Mengen erfolgt in maschinell
-verwertbarer Weise unter Angabe des jeweiligen Vertragspartners.
+Nummer 2 Buchstabe a des Arzneimittelgesetzes tatsächlich vereinbart
+worden sind, sowie der zu diesen Preisen abgegebenen Mengen zu melden.
+Satz 1 gilt nicht für Arzneimittel, für die ein Erstattungsbetrag nach
+§ 130b vereinbart oder festgesetzt worden ist. Die Übermittlung der
+Preise und Mengen erfolgt in maschinell verwertbarer Weise unter
+Angabe des jeweiligen Vertragspartners.
 
 (2) Die Krankenkassen haben dem Spitzenverband Bund der Krankenkassen
 für Arzneimittel zur spezifischen Therapie von Gerinnungsstörungen bei
@@ -20886,8 +20856,7 @@ Hämophilie bis zum 30. November 2019 für die Jahre 2017 und 2018 die
 Preise und die dazugehörigen Mengen in maschinell verwertbarer Weise
 unter Angabe der Betriebsstättennummer zu melden, die bisher im
 Direktbezug über den pharmazeutischen Unternehmer nach § 47 Absatz 1
-Satz 1 Nummer 2 Buchstabe a des Arzneimittelgesetzes abgerechnet
-wurden.
+Nummer 2 Buchstabe a des Arzneimittelgesetzes abgerechnet wurden.
 
 (3) Der Spitzenverband Bund der Krankenkassen prüft den vom
 pharmazeutischen Unternehmer gemeldeten Herstellerabgabepreis nach

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1276
 
+Geändert durch
+:   Art. 2 Abs. 84 V v. 18.1.2022 I 39
+
 Stand: Ersetzt V v. 27.8.1979 I 1559 (KälteAnlBMeistPrV)
 
 ## Eingangsformel
@@ -472,9 +475,8 @@ des Teils II ist nicht bestanden, wenn
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

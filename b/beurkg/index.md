@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1513
 
 Zuletzt geändert durch
-:   Art. 4 G v. 5.7.2021 I 3338
-
-Änderung durch
-:   Art. 23 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 5.10.2021 I 4607
 
 Änderung durch
 :   Art. 2 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

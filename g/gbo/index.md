@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1114;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 16.10.2020 I 2187
-
-Änderung durch
-:   Art. 40 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 28 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 28 G v. 5.10.2021 I 4607
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

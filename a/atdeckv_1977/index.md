@@ -18,6 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 V v. 29.11.2018 I 2034; 2021 I 5261
 
+Änderung durch
+:   Art. 1 V v. 20.1.2022 I 73 (Nr. 3) mWv zukünftig ist berücksichtigt
+
+Änderung durch
+:   Bek. v. 21.1.2022 I 106 (Nr. 3) mWv 2.1.2022 noch nicht berücksichtigt
+
+Stand: Neufassung gem. Bek. v. 21.1.2022 I 118 (Nr. 4) noch nicht berücksichtigt
 
 ## Eingangsformel
 

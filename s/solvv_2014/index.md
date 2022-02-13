@@ -21,7 +21,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 19.2.2019 I 122
 
 Änderung durch
-:   Art. 1 V v. 20.9.2021 I 4306 (Nr. 67) mWv 25.9.2021 noch nicht berücksichtigt
+:   Art. 1 V v. 20.9.2021 I 4306 (Nr. 67) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
     Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des
     Europäischen Parlaments und des Rates vom 26. Juni 2013 über den
@@ -53,14 +53,18 @@ Finanzen:
 
 ### § 1 Anwendungsbereich
 
-(1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln
+(1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln
 92 bis 386 der Verordnung (EU) Nr. 575/2013 des Europäischen
 Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen
-an Kreditinstitute und Wertpapierfirmen und zur Änderung der
-Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) von
-denjenigen Instituten und Gruppen anzuwenden, die sich nach der
-Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die
-Vorgaben dieser Artikel halten müssen.
+an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012
+(ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom
+30\.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S.
+3; L 13 vom 17.1.2020, S. 58; L 335 vom 13.10.2020, S. 20; L 405 vom
+2\.12.2020, S. 79), die zuletzt durch die Verordnung (EU) 2020/873
+(ABl. L 204 vom 26.6.2020, S. 4) geändert worden ist, von denjenigen
+Instituten und Gruppen anzuwenden, die sich nach der Verordnung (EU)
+Nr. 575/2013 oder nach dem Kreditwesengesetz an die Vorgaben dieser
+Artikel halten müssen.
 
 (2) Die §§ 24 bis 31 dieser Verordnung sind ergänzend zu den Artikeln
 25 bis 91 der Verordnung (EU) Nr. 575/2013 von denjenigen Instituten
@@ -671,8 +675,7 @@ Positionen und IRB-Ansatz-Positionen, mit Ausnahme von
 
 
 3.  sonstigen kreditunabhängigen Aktiva nach Artikel 147 Absatz 2
-    Buchstabe g der Verordnung (EU)
-    Nr. 575/2013,
+    Buchstabe g der Verordnung (EU) Nr. 575/2013,
 
 
 4.  Risikopositionen in der Form eines Anteils an einem Organismus für
@@ -681,9 +684,8 @@ Positionen und IRB-Ansatz-Positionen, mit Ausnahme von
 
 
 5.  Risikopositionen, die nach der Entscheidung des Instituts nach Artikel
-    150 der Verordnung (EU)
-    Nr. 575/2013                    ohne zeitliche Beschränkung von der
-    Anwendung des IRB-Ansatzes ausgenommen sind,
+    150 der Verordnung (EU) Nr. 575/2013 ohne zeitliche Beschränkung von
+    der Anwendung des IRB-Ansatzes ausgenommen sind,
 
 
 6.  Risikopositionen eines gruppenangehörigen Unternehmens, das nicht das
@@ -785,10 +787,11 @@ Grundgesamtheit für den Abdeckungsgrad berücksichtigen:
 
 
 4.  Risikopositionen, die das Institut nach Artikel 150 Absatz 1
-    Buchstaben d bis j der Verordnung (EU) Nr. 575/2013 von der Anwendung
-    des IRB-Ansatzes ausgenommen hat und unter Verwendung des KSA bei der
-    Ermittlung des Gesamtrisikopositionsbetrags nach Artikel 92 Absatz 3
-    der Verordnung (EU) Nr. 575/2013 berücksichtigt, sofern das Institut
+    Buchstaben d bis j oder nach Artikel 500a Absatz 3 der Verordnung (EU)
+    Nr. 575/2013 von der Anwendung des IRB-Ansatzes ausgenommen hat und
+    unter Verwendung des KSA bei der Ermittlung des
+    Gesamtrisikopositionsbetrags nach Artikel 92 Absatz 3 der Verordnung
+    (EU) Nr. 575/2013 berücksichtigt, sofern das Institut
 
     a)  diese Risikopositionen unter Verwendung von Ratingsystemen oder
         Beteiligungsrisikomodellen erfasst hat, die es mit Zustimmung der
@@ -1467,7 +1470,7 @@ internationaler Rechnungslegungsstandards (ABl. L 243 vom 11.9.2002,
 S. 1) übernommen wurden, aufgestellt wurde.
 
 
-## Teil 4 - Nähere Bestimmungen zum antizyklischen Kapitalpuffer und zur kombinierten Kapitalpuffer-Anforderung
+## Teil 4 - Nähere Bestimmungen zu den Kapitalpuffern
 
 
 ### Kapitel 1 - Antizyklischer Kapitalpuffer
@@ -1645,7 +1648,102 @@ und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L
 wurden.
 
 
-### Kapitel 2 - Kombinierte Kapitalpuffer-Anforderung
+### Kapitel 2 - Kapitalpuffer für systemische Risiken
+
+
+#### § 36a Berechnung des Kapitalpuffers für systemische Risiken
+
+(1) Der Kapitalpuffer für systemische Risiken nach § 10e Absatz 1 des
+Kreditwesengesetzes kann für folgende Risikopositionen angeordnet
+werden:
+
+1.  alle im Inland belegenen Risikopositionen;
+
+
+2.  alle im Inland belegenen branchenspezifischen Risikopositionen
+
+    a)  des Mengengeschäfts gegenüber natürlichen Personen, die durch
+        Grundpfandrechte auf Wohnimmobilien besichert sind;
+
+
+    b)  gegenüber juristischen Personen, die durch Grundpfandrechte auf
+        gewerbliche Immobilien besichert sind;
+
+
+    c)  gegenüber juristischen Personen mit Ausnahme der in Buchstabe b
+        genannten Risikopositionen;
+
+
+    d)  gegenüber natürlichen Personen mit Ausnahme der in Buchstabe a
+        genannten Risikopositionen;
+
+
+
+
+
+3.  alle in anderen Staaten des Europäischen Wirtschaftsraums belegenen
+    Risikopositionen, für die § 10e Absatz 2 Satz 5 und Absatz 5 des
+    Kreditwesengesetzes gilt;
+
+
+4.  branchenspezifische Risikopositionen nach Nummer 2, die sich in
+    anderen Staaten des Europäischen Wirtschaftsraums befinden, jedoch
+    lediglich um die Anerkennung eines von einem anderen Staat des
+    Europäischen Wirtschaftsraums angeordneten Kapitalpuffers für
+    systemische Risiken nach § 10e Absatz 8 des Kreditwesengesetzes zu
+    ermöglichen;
+
+
+5.  in Drittstaaten belegene Risikopositionen oder
+
+
+6.  Teilgruppen einer der in Nummer 2 genannten Kategorien von
+    Risikopositionen.
+
+
+
+
+(2) Die Institute berechnen den Kapitalpuffer für systemische Risiken
+nach § 10e Absatz 1 des Kreditwesengesetzes wie folgt:
+
+![bgbl1_2021_j4306-1_0010.jpg](bgbl1_2021_j4306-1_0010.jpg)
+Dabei steht
+
+1.  B
+    SR                    für den Kapitalpuffer für systemische Risiken,
+
+
+2.  r
+    T                    für die Pufferquote, die für den
+    Gesamtrisikobetrag des Instituts gilt,
+
+
+3.  E
+    T                    für den gemäß Artikel 92 Absatz 3 der Verordnung
+    (EU) Nr. 575/2013 berechneten Gesamtrisikobetrag eines Instituts,
+
+
+4.  i                    für den Index, der eine der Teilgruppen von
+    Risikopositionen nach Absatz 1 anzeigt,
+
+
+5.  r
+    i                    für die Pufferquote, die für den
+    Gesamtrisikobetrag der Teilgruppe der Risikopositionen
+    i                    gilt, und
+
+
+6.  E
+    i                    für den Risikobetrag eines Instituts für die
+    Teilgruppe der Risikopositionen
+    i                   , der gemäß Artikel 92 Absatz 3 der Verordnung
+    (EU) Nr. 575/2013 berechnet wurde.
+
+
+
+
+
+### Kapitel 3 - Kombinierte Kapitalpufferanforderung
 
 
 #### § 37 Maximal ausschüttungsfähiger Betrag
@@ -1658,18 +1756,17 @@ Faktor. Er reduziert sich durch jede nach § 10i Absatz 3 Satz 3 Nummer
 
 (2) Der zu multiplizierende Betrag ergibt sich aus
 
-1.  den Zwischengewinnen, die nicht im Kernkapital gemäß Artikel 26 Absatz
-    2 der Verordnung (EU) Nr. 575/2013 enthalten sind und die nach der
-    letzten Entscheidung über die Gewinnausschüttung oder eine der unter §
-    10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes
-    aufgeführten Maßnahmen erwirtschaftet wurden;
+1.  den Zwischengewinnen, die nicht im harten Kernkapital gemäß Artikel 26
+    Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind, abzüglich
+    etwaiger Gewinnausschüttungen oder Zahlungen infolge einer Maßnahme
+    gemäß § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes,
 
 
-2.  zuzüglich der Gewinne zum Jahresende, die nicht im Kernkapital gemäß
-    Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten sind
-    und die nach der letzten Entscheidung über die Gewinnausschüttung oder
-    eine der unter § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des
-    Kreditwesengesetzes aufgeführten Maßnahmen erwirtschaftet wurden;
+2.  zuzüglich der Gewinne zum Jahresende, die nicht im harten Kernkapital
+    gemäß Artikel 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 enthalten
+    sind, abzüglich etwaiger Gewinnausschüttungen oder Zahlungen infolge
+    einer Maßnahme gemäß § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des
+    Kreditwesengesetzes,
 
 
 3.  abzüglich der Beträge, die in Form von Steuern zu zahlen wären, wenn
@@ -1679,31 +1776,35 @@ Faktor. Er reduziert sich durch jede nach § 10i Absatz 3 Satz 3 Nummer
 
 
 (3) Liegt das von dem Institut vorgehaltene und nicht zur Einhaltung
-der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe c der
-Verordnung (EU) Nr. 575/2013 verwendete Kernkapital, ausgedrückt als
-Prozentsatz des Gesamtforderungsbetrags im Sinne von Artikel 92 Absatz
-3 der Verordnung (EU) Nr. 575/2013, innerhalb des
+der Eigenmittelanforderungen nach Artikel 92 Absatz 1 Buchstabe a, b
+und c der Verordnung (EU) Nr. 575/2013, der zusätzlichen
+Eigenmittelanforderungen zur Abdeckung anderer Risiken als des Risikos
+einer übermäßigen Verschuldung nach § 6c des Kreditwesengesetzes und
+der erhöhten Eigenmittelanforderungen nach § 10 Absatz 3 und 4 des
+Kreditwesengesetzes verwendete harte Kernkapital, ausgedrückt als
+Prozentsatz des Gesamtrisikobetrags im Sinne von Artikel 92 Absatz 3
+der Verordnung (EU) Nr. 575/2013, innerhalb des
 
 1.  ersten (das heißt des untersten) Quartils der kombinierten
-    Kapitalpuffer-Anforderung, so beträgt der Faktor 0;
+    Kapitalpufferanforderung, so beträgt der Faktor 0;
 
 
-2.  zweiten Quartils der kombinierten Kapitalpuffer-
-    Anforderung,                    so beträgt der Faktor 0,2;
+2.  zweiten Quartils der kombinierten Kapitalpufferanforderung, so beträgt
+    der Faktor 0,2;
 
 
-3.  dritten Quartils der kombinierten Kapitalpuffer-Anforderung, so
-    beträgt der Faktor 0,4;
+3.  dritten Quartils der kombinierten Kapitalpufferanforderung, so beträgt
+    der Faktor 0,4;
 
 
-4.  obersten Quartils der kombinierten Kapitalpuffer-
-    Anforderung,                    so beträgt der Faktor 0,6.
+4.  obersten Quartils der kombinierten Kapitalpufferanforderung, so
+    beträgt der Faktor 0,6.
 
 
 
 
 (4) Die Ober- und Untergrenzen für jedes Quartil der kombinierten
-Kapitalpuffer-Anforderung werden wie folgt berechnet:
+Kapitalpufferanforderung werden wie folgt berechnet:
 ![bgbl1_2013_j4168-1_0010.jpg](bgbl1_2013_j4168-1_0010.jpg)![bgbl1_2013_j4168-1_0020.jpg](bgbl1_2013_j4168-1_0020.jpg)„Q
 n             “ steht für die Ordinalzahl des betreffenden Quartils.
 

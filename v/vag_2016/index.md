@@ -46,7 +46,7 @@ Zuletzt geändert durch
 :   Art. 38 G v. 23.6.2021 I 1858 (Nr. 35) ist berücksichtigt
 
 Änderung durch
-:   Art. 13 G v. 7.8.2021 I 3311 (Nr. 51) mWv 12.8.2021 noch nicht berücksichtigt
+:   Art. 13 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 94 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
@@ -17307,6 +17307,15 @@ Geschäftsjahr anzuwenden. Die §§ 36, 191, 331, 332 und 334 in der bis
 einschließlich 30. Juni 2021 geltenden Fassung sind letztmals
 anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für
 das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+
+### § 358 Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+§ 188 Absatz 1 Satz 2 dieses Gesetzes in Verbindung mit § 76 Absatz 4
+des Aktiengesetzes und § 189 Absatz 3 Satz 1 dieses Gesetzes in
+Verbindung mit § 111 Absatz 5 des Aktiengesetzes in der jeweils vom
+12\. August 2021 an geltenden Fassung des Aktiengesetzes sind erstmals
+auf die Festlegung von Zielgrößen ab dem 12. August 2021 anzuwenden.
 
 
 ### Anlage 1 Einteilung der Risiken nach Sparten

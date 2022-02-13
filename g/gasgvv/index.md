@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2391, 2396
 
 Zuletzt geändert durch
-:   Art. 10 G v. 29.8.2016 I 2034
-
-Änderung durch
-:   Art. 2 V v. 22.11.2021 I 4946 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 22.11.2021 I 4946
 
 
 

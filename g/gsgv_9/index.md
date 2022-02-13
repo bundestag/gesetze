@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 704
 
 Zuletzt geändert durch
-:   Art. 19 G v. 8.11.2011 I 2178
-
-Änderung durch
-:   Art. 23 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 23 G v. 27.7.2021 I 3146
 
 Diese Verordnung dient der Umsetzung der Richtlinie
 89/392/EWG des Rates vom 14. Juni 1989 zur Angleichung der

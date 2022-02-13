@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1959, 565
 
 Zuletzt geändert durch
-:   Art. 8 G v. 25.6.2021 I 2154
-
-Änderung durch
-:   Art. 1 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3415 ist berücksichtigt
-
-Änderung durch
-:   Art. 22 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 5.10.2021 I 4607
 
 
 ## Erster Teil - Der Rechtsanwalt

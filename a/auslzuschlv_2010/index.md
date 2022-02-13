@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.6.2020 I 1485
 
+Änderung durch
+:   Art. 1 V v. 25.1.2022 I 96 (Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -128,12 +131,12 @@ Kaufkraftausgleich.
 
 (4) Die oberste Dienstbehörde setzt die Zuschläge nach den Absätzen 1
 und 2 und die Zeiträume, für die die Zuschläge gewährt werden, im
-Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des
-Innern, für Bau und Heimat und dem Bundesministerium der Finanzen
-fest. Wird ein Zuschlag nach Absatz 1 im Ressorteinvernehmen durch das
-Auswärtige Amt festgesetzt, können andere oberste Dienstbehörden den
-festgesetzten Zuschlag ohne erneute Einholung des Ressorteinvernehmens
-für ihren Geschäftsbereich übernehmen.
+Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern
+und für Heimat und dem Bundesministerium der Finanzen fest. Wird ein
+Zuschlag nach Absatz 1 im Ressorteinvernehmen durch das Auswärtige Amt
+festgesetzt, können andere oberste Dienstbehörden den festgesetzten
+Zuschlag ohne erneute Einholung des Ressorteinvernehmens für ihren
+Geschäftsbereich übernehmen.
 
 
 ## § 3 Auslandszuschlag bei Arbeitsplatzteilung
@@ -371,14 +374,16 @@ Empfängers von Auslandsdienstbezügen mitwirken. § 5 Absatz 6 und § 5a
 gelten entsprechend.
 
 
-## § 7 Inkrafttreten
+## § 7 Übergangsregelung aus Anlass der Zwölften Verordnung zur Änderung der Auslandszuschlagsverordnung
 
-Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
+Bis zum 31. Januar 2022 sind die Anlagen in der bis zum 30. Juni 2021
+geltenden Fassung weiter anzuwenden, wenn dies für die Betroffenen
+günstiger ist.
 
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2020, 1486 – 1491)
+(Fundstelle: BGBl. I 2022, 97 - 102)
 
 
 *    *
@@ -397,7 +402,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   3
 
 
-*    *   **Abschnitt 1**
+*    *   Abschnitt 1
         **Europa**
 
 
@@ -407,7 +412,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Tirana
 
-    *   12
+    *   11
 
 
 *    *   2
@@ -425,7 +430,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Sarajewo
 
-    *   11
+    *   10
 
 
 *    *   4
@@ -507,7 +512,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Athen
 
-    *   5
+    *   4
 
 
 *    *   14
@@ -584,7 +589,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Wilna
 
-    *   6
+    *   5
 
 
 *    *   23
@@ -620,7 +625,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Podgorica
 
-    *   11
+    *   10
 
 
 *    *   27
@@ -645,7 +650,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Skopje
 
-    *   10
+    *   9
 
 
 *    *   30
@@ -755,7 +760,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Kaliningrad
 
-    *   12
+    *   11
 
 
 *    *   44
@@ -787,7 +792,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Bern
 
-    *   2
+    *   3
 
 
 *    *   48
@@ -844,7 +849,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Las Palmas de Gran Canaria
 
-    *   2
+    *   1
 
 
 *    *   55
@@ -883,14 +888,14 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Antalya
 
-    *   7
+    *   6
 
 
 *    *   60
 
     *   Istanbul
 
-    *   6
+    *   5
 
 
 *    *   61
@@ -922,7 +927,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Budapest
 
-    *   3
+    *   4
 
 
 *    *   65
@@ -959,7 +964,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   7
 
 
-*    *   **Abschnitt 2**
+*    *   Abschnitt 2
         **Afrika**
 
 
@@ -969,7 +974,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Kairo
 
-    *   16
+    *   17
 
 
 *    *   70
@@ -978,7 +983,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Algier
 
-    *   15
+    *   14
 
 
 *    *   71
@@ -987,19 +992,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Luanda
 
-    *   20
+    *   18
 
 
 *    *   72
-
-    *   Äquatorialguinea
-
-    *   Malabo
-
-    *   20
-
-
-*    *   73
 
     *   Äthiopien
 
@@ -1008,16 +1004,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   74
+*    *   73
 
     *   Benin
 
     *   Cotonou
 
-    *   20
+    *   19
 
 
-*    *   75
+*    *   74
 
     *   Botsuana
 
@@ -1026,7 +1022,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   15
 
 
-*    *   76
+*    *   75
 
     *   Burkina Faso
 
@@ -1035,7 +1031,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   77
+*    *   76
 
     *   Burundi
 
@@ -1044,16 +1040,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   78
+*    *   77
 
-    *   Côte d'Ivoire
+    *   Côte d´Ivoire
 
     *   Abidjan
 
     *   20
 
 
-*    *   79
+*    *   78
 
     *   Dschibuti
 
@@ -1062,7 +1058,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   80
+*    *   79
 
     *   Eritrea
 
@@ -1071,7 +1067,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   81
+*    *   80
 
     *   Gabun
 
@@ -1080,16 +1076,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   82
+*    *   81
 
     *   Ghana
 
     *   Accra
 
-    *   20
+    *   19
 
 
-*    *   83
+*    *   82
 
     *   Guinea
 
@@ -1098,7 +1094,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   84
+*    *   83
 
     *   Kamerun
 
@@ -1107,7 +1103,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   85
+*    *   84
 
     *   Kenia
 
@@ -1116,7 +1112,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   16
 
 
-*    *   86
+*    *   85
 
     *   Kongo
 
@@ -1125,7 +1121,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   87
+*    *   86
 
     *   Kongo,
         Demokratische Republik
@@ -1135,7 +1131,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   88
+*    *   87
 
     *   Liberia
 
@@ -1144,7 +1140,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   89
+*    *   88
 
     *   Libyen
 
@@ -1153,7 +1149,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   90
+*    *   89
 
     *   Madagaskar
 
@@ -1162,16 +1158,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   91
+*    *   90
 
     *   Malawi
 
     *   Lilongwe
 
-    *   18
+    *   17
 
 
-*    *   92
+*    *   91
 
     *   Mali
 
@@ -1180,16 +1176,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   93
+*    *   92
 
     *   Marokko
 
     *   Rabat
 
-    *   10
+    *   11
 
 
-*    *   94
+*    *   93
 
     *   Mauretanien
 
@@ -1198,25 +1194,25 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   95
+*    *   94
 
     *   Mosambik
 
     *   Maputo
 
-    *   18
+    *   17
 
 
-*    *   96
+*    *   95
 
     *   Namibia
 
     *   Windhuk
 
-    *   12
+    *   11
 
 
-*    *   97
+*    *   96
 
     *   Niger
 
@@ -1225,7 +1221,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   98
+*    *   97
 
     *   Nigeria
 
@@ -1234,32 +1230,32 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   99
+*    *   98
 
     *   Lagos
 
     *   20
 
 
-*    *   100
+*    *   99
 
     *   Ruanda
 
     *   Kigali
 
-    *   20
+    *   19
 
 
-*    *   101
+*    *   100
 
     *   Sambia
 
     *   Lusaka
 
-    *   16
+    *   15
 
 
-*    *   102
+*    *   101
 
     *   Senegal
 
@@ -1268,7 +1264,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   103
+*    *   102
 
     *   Sierra Leone
 
@@ -1277,7 +1273,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   104
+*    *   103
 
     *   Simbabwe
 
@@ -1286,7 +1282,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   105
+*    *   104
 
     *   Sudan
 
@@ -1295,23 +1291,23 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   106
+*    *   105
 
     *   Südafrika
 
     *   Pretoria
 
-    *   9
+    *   7
 
 
-*    *   107
+*    *   106
 
     *   Kapstadt
 
-    *   11
+    *   10
 
 
-*    *   108
+*    *   107
 
     *   Südsudan
 
@@ -1320,7 +1316,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   109
+*    *   108
 
     *   Tansania
 
@@ -1329,7 +1325,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   19
 
 
-*    *   110
+*    *   109
 
     *   Togo
 
@@ -1338,16 +1334,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   111
+*    *   110
 
     *   Tschad
 
-    *   N'Djamena
+    *   N´Djamena
 
     *   20
 
 
-*    *   112
+*    *   111
 
     *   Tunesien
 
@@ -1356,7 +1352,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   9
 
 
-*    *   113
+*    *   112
 
     *   Uganda
 
@@ -1365,11 +1361,11 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   15
 
 
-*    *   **Abschnitt 3**
+*    *   Abschnitt 3
         **Amerika**
 
 
-*    *   114
+*    *   113
 
     *   Argentinien
 
@@ -1378,7 +1374,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   10
 
 
-*    *   115
+*    *   114
 
     *   Bolivien
 
@@ -1387,44 +1383,44 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   15
 
 
-*    *   116
+*    *   115
 
     *   Brasilien
 
     *   Brasilia
 
-    *   13
+    *   12
+
+
+*    *   116
+
+    *   Porto Alegre
+
+    *   11
 
 
 *    *   117
 
-    *   Porto Alegre
+    *   Recife
 
-    *   13
+    *   11
 
 
 *    *   118
 
-    *   Recife
+    *   Rio de Janeiro
 
-    *   12
+    *   13
 
 
 *    *   119
 
-    *   Rio de Janeiro
+    *   São Paulo
 
-    *   15
+    *   13
 
 
 *    *   120
-
-    *   São Paulo
-
-    *   15
-
-
-*    *   121
 
     *   Chile
 
@@ -1433,7 +1429,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   12
 
 
-*    *   122
+*    *   121
 
     *   Costa Rica
 
@@ -1442,7 +1438,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   11
 
 
-*    *   123
+*    *   122
 
     *   Dominikanische Republik
 
@@ -1451,25 +1447,25 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   124
+*    *   123
 
     *   Ecuador
 
     *   Quito
 
-    *   12
+    *   11
 
 
-*    *   125
+*    *   124
 
     *   El Salvador
 
     *   San Salvador
 
-    *   19
+    *   18
 
 
-*    *   126
+*    *   125
 
     *   Guatemala
 
@@ -1478,7 +1474,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   17
 
 
-*    *   127
+*    *   126
 
     *   Haiti
 
@@ -1487,7 +1483,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   128
+*    *   127
 
     *   Honduras
 
@@ -1496,7 +1492,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   129
+*    *   128
 
     *   Jamaika
 
@@ -1505,7 +1501,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   19
 
 
-*    *   130
+*    *   129
 
     *   Kanada
 
@@ -1514,37 +1510,37 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   4
 
 
-*    *   131
+*    *   130
 
     *   Montreal
 
     *   5
 
 
-*    *   132
+*    *   131
 
     *   Toronto
 
     *   4
 
 
-*    *   133
+*    *   132
 
     *   Vancouver
 
-    *   4
+    *   3
 
 
-*    *   134
+*    *   133
 
     *   Kolumbien
 
     *   Bogotá
 
-    *   11
+    *   10
 
 
-*    *   135
+*    *   134
 
     *   Kuba
 
@@ -1553,7 +1549,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   136
+*    *   135
 
     *   Mexiko
 
@@ -1562,7 +1558,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   11
 
 
-*    *   137
+*    *   136
 
     *   Nicaragua
 
@@ -1571,7 +1567,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   138
+*    *   137
 
     *   Panama
 
@@ -1580,7 +1576,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   15
 
 
-*    *   139
+*    *   138
 
     *   Paraguay
 
@@ -1589,16 +1585,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   13
 
 
-*    *   140
+*    *   139
 
     *   Peru
 
     *   Lima
 
-    *   15
+    *   14
 
 
-*    *   141
+*    *   140
 
     *   Trinidad und Tobago
 
@@ -1607,16 +1603,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   142
+*    *   141
 
     *   Uruguay
 
     *   Montevideo
 
-    *   11
+    *   10
 
 
-*    *   143
+*    *   142
 
     *   Venezuela
 
@@ -1625,76 +1621,76 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   19
 
 
-*    *   144
+*    *   143
 
     *   Vereinigte Staaten
 
     *   Washington
 
-    *   7
+    *   6
 
 
-*    *   145
+*    *   144
 
     *   Atlanta
 
     *   6
 
 
-*    *   146
+*    *   145
 
     *   Boston
 
     *   5
 
 
-*    *   147
+*    *   146
 
     *   Chicago
 
     *   6
 
 
-*    *   148
+*    *   147
 
     *   Houston
 
-    *   7
+    *   6
 
 
-*    *   149
+*    *   148
 
     *   Los Angeles
 
     *   6
 
 
-*    *   150
+*    *   149
 
     *   Miami
 
-    *   7
+    *   6
 
 
-*    *   151
+*    *   150
 
     *   New York
 
     *   7
 
 
-*    *   152
+*    *   151
 
     *   San Francisco
 
     *   6
 
 
-*    *   **Abschnitt 4**
+*    *   Abschnitt 4
         **Asien**
 
 
-*    *   153
+*    *   152
 
     *   Afghanistan
 
@@ -1703,14 +1699,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   154
-
-    *   Masar-e Scharif
-
-    *   20
-
-
-*    *   155
+*    *   153
 
     *   Armenien
 
@@ -1719,7 +1708,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   12
 
 
-*    *   156
+*    *   154
 
     *   Aserbaidschan
 
@@ -1728,16 +1717,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   157
+*    *   155
 
     *   Bahrain
 
     *   Manama
 
-    *   19
+    *   18
 
 
-*    *   158
+*    *   156
 
     *   Bangladesch
 
@@ -1746,7 +1735,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   159
+*    *   157
 
     *   Brunei
 
@@ -1755,7 +1744,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   160
+*    *   158
 
     *   China
 
@@ -1764,42 +1753,42 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   13
 
 
-*    *   161
+*    *   159
 
     *   Chengdu
 
     *   15
 
 
-*    *   162
+*    *   160
 
     *   Hongkong
 
     *   11
 
 
-*    *   163
+*    *   161
 
     *   Kanton
 
     *   14
 
 
-*    *   164
+*    *   162
 
     *   Shanghai
 
-    *   13
+    *   12
 
 
-*    *   165
+*    *   163
 
     *   Shenyang
 
-    *   18
+    *   19
 
 
-*    *   166
+*    *   164
 
     *   Georgien
 
@@ -1808,7 +1797,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   13
 
 
-*    *   167
+*    *   165
 
     *   Indien
 
@@ -1817,44 +1806,44 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   16
 
 
-*    *   168
+*    *   166
 
     *   Bangalore
 
     *   15
 
 
-*    *   169
+*    *   167
 
-    *   Chennai (Madras)
+    *   Chennai
 
-    *   16
+    *   15
 
 
-*    *   170
+*    *   168
 
     *   Kalkutta
 
-    *   16
+    *   15
 
 
-*    *   171
+*    *   169
 
-    *   Mumbai (Bombay)
+    *   Mumbai
 
-    *   14
+    *   13
 
 
-*    *   172
+*    *   170
 
     *   Indonesien
 
     *   Jakarta
 
-    *   15
+    *   14
 
 
-*    *   173
+*    *   171
 
     *   Irak
 
@@ -1863,23 +1852,23 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   174
+*    *   172
 
     *   Erbil
 
     *   20
 
 
-*    *   175
+*    *   173
 
     *   Iran
 
     *   Teheran
 
-    *   19
+    *   20
 
 
-*    *   176
+*    *   174
 
     *   Israel
 
@@ -1888,7 +1877,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   11
 
 
-*    *   177
+*    *   175
 
     *   Japan
 
@@ -1897,14 +1886,14 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   12
 
 
-*    *   178
+*    *   176
 
     *   Osaka-Kobe
 
-    *   13
+    *   12
 
 
-*    *   179
+*    *   177
 
     *   Jemen
 
@@ -1913,7 +1902,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   180
+*    *   178
 
     *   Jordanien
 
@@ -1922,7 +1911,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   15
 
 
-*    *   181
+*    *   179
 
     *   Kambodscha
 
@@ -1931,7 +1920,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   182
+*    *   180
 
     *   Kasachstan
 
@@ -1940,14 +1929,14 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   183
+*    *   181
 
     *   Almaty
 
     *   14
 
 
-*    *   184
+*    *   182
 
     *   Katar
 
@@ -1956,7 +1945,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   185
+*    *   183
 
     *   Kirgisistan
 
@@ -1965,7 +1954,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   186
+*    *   184
 
     *   Korea, Demokratische Volksrepublik
 
@@ -1974,34 +1963,34 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   187
+*    *   185
 
     *   Korea, Republik
 
     *   Seoul
 
-    *   11
+    *   10
 
 
-*    *   188
-
-    *   Kuwait
+*    *   186
 
     *   Kuwait
 
-    *   14
+    *   Kuwait
+
+    *   13
 
 
-*    *   189
+*    *   187
 
     *   Laos
 
     *   Vientiane
 
-    *   16
+    *   17
 
 
-*    *   190
+*    *   188
 
     *   Libanon
 
@@ -2010,16 +1999,16 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   16
 
 
-*    *   191
+*    *   189
 
     *   Malaysia
 
     *   Kuala Lumpur
 
-    *   10
+    *   9
 
 
-*    *   192
+*    *   190
 
     *   Mongolei
 
@@ -2028,7 +2017,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   193
+*    *   191
 
     *   Myanmar
 
@@ -2037,7 +2026,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   194
+*    *   192
 
     *   Nepal
 
@@ -2046,32 +2035,32 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   20
 
 
-*    *   195
+*    *   193
 
     *   Oman
 
     *   Maskat
 
-    *   14
+    *   13
 
 
-*    *   196
+*    *   194
 
     *   Pakistan
 
     *   Islamabad
 
-    *   18
+    *   17
 
 
-*    *   197
+*    *   195
 
     *   Karachi
 
-    *   19
+    *   18
 
 
-*    *   198
+*    *   196
 
     *   Philippinen
 
@@ -2080,50 +2069,50 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   199
+*    *   197
 
     *   Saudi-Arabien
 
     *   Riad
 
-    *   17
+    *   18
 
 
-*    *   200
+*    *   198
 
     *   Djidda
 
     *   17
 
 
-*    *   201
+*    *   199
 
     *   Singapur
 
     *   Singapur
 
-    *   11
+    *   10
 
 
-*    *   202
+*    *   200
 
     *   Sri Lanka
 
     *   Colombo
 
-    *   14
+    *   15
 
 
-*    *   203
+*    *   201
 
     *   Syrien
 
     *   Damaskus
 
-    *   20
+    *   19
 
 
-*    *   204
+*    *   202
 
     *   Tadschikistan
 
@@ -2132,7 +2121,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   19
 
 
-*    *   205
+*    *   203
 
     *   Thailand
 
@@ -2141,7 +2130,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   14
 
 
-*    *   206
+*    *   204
 
     *   Turkmenistan
 
@@ -2150,7 +2139,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   18
 
 
-*    *   207
+*    *   205
 
     *   Usbekistan
 
@@ -2159,24 +2148,24 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   19
 
 
-*    *   208
+*    *   206
 
     *   Vereinigte Arabische
         Emirate
 
     *   Abu Dhabi
 
-    *   14
-
-
-*    *   209
-
-    *   Dubai
-
     *   13
 
 
-*    *   210
+*    *   207
+
+    *   Dubai
+
+    *   12
+
+
+*    *   208
 
     *   Vietnam
 
@@ -2185,18 +2174,18 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   16
 
 
-*    *   211
+*    *   209
 
     *   Ho-Chi-Minh-Stadt
 
     *   18
 
 
-*    *   **Abschnitt 5**
+*    *   Abschnitt 5
         **Australien und Neuseeland**
 
 
-*    *   212
+*    *   210
 
     *   Australien
 
@@ -2205,36 +2194,35 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   9
 
 
-*    *   213
+*    *   211
 
     *   Sydney
 
     *   8
 
 
-*    *   214
+*    *   212
 
     *   Neuseeland
 
     *   Wellington
 
-    *   8
+    *   7
 
 
-*    *   **Abschnitt 6**
+*    *   Abschnitt 6
         **Weitere Dienstorte**
 
 
-*    *   215
+*    *   213
 
     *
-    *   Ramallah (Palästinensisches
-        Autonomiegebiet)
+    *   Ramallah (Palästinensisches Autonomiegebiet)
 
-    *   15
+    *   16
 
 
-*    *   216
+*    *   214
 
     *
     *   Taipei (Taiwan)
@@ -2244,10 +2232,9 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 
 
-
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2020, 1492–1493)
+(Fundstelle: BGBl. I 2022, 103 - 104)
 
 
 *    *
@@ -2266,7 +2253,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   3
 
 
-*    *   **Abschnitt 1**
+*    *   Abschnitt 1
         **Europa**
 
 
@@ -2274,8 +2261,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Frankreich
 
-    *   Le Luc/Le Cannet-des-
-        Maures/Draguignan
+    *   Le Luc/Le Cannet-des-Maures/ Draguignan
 
     *   4
 
@@ -2291,7 +2277,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
     *   Italien
 
-    *   Catania/Sigonella
+    *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
 
     *   4
 
@@ -2335,6 +2321,15 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 *    *   9
 
+    *   Norwegen
+
+    *   Stavanger
+
+    *   3
+
+
+*    *   10
+
     *   Polen
 
     *   Stettin
@@ -2342,37 +2337,51 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   5
 
 
-*    *   10
+*    *   11
 
     *   Spanien
 
-    *   Rota
-
-    *   2
-
-
-*    *   11
-
-    *   Saragossa
+    *   Albacete
 
     *   3
 
 
 *    *   12
 
-    *   Sevilla
+    *   Betera
 
     *   2
 
 
 *    *   13
 
-    *   Valencia
+    *   Rota
 
     *   2
 
 
 *    *   14
+
+    *   Saragossa
+
+    *   3
+
+
+*    *   15
+
+    *   Sevilla
+
+    *   2
+
+
+*    *   16
+
+    *   Valencia
+
+    *   2
+
+
+*    *   17
 
     *   Tschechische Republik
 
@@ -2381,16 +2390,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   5
 
 
-*    *   15
-
-    *   Ungarn
-
-    *   Veszprem
-
-    *   5
-
-
-*    *   16
+*    *   18
 
     *   Vereinigtes Königreich
 
@@ -2399,137 +2399,159 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   4
 
 
-*    *   17
-
-    *   Blackwater
-
-    *   3
-
-
-*    *   18
-
-    *   Blandford
-
-    *   4
-
-
 *    *   19
 
-    *   Bristol
+    *   Bicester
 
     *   3
 
 
 *    *   20
 
-    *   Camberley
+    *   Blackwater
 
     *   3
 
 
 *    *   21
 
-    *   Coningsby
+    *   Blandford
 
     *   4
 
 
 *    *   22
 
-    *   Dartmouth
+    *   Brize Norton
 
-    *   4
+    *   3
 
 
 *    *   23
 
-    *   Fareham
+    *   Bristol
 
     *   3
 
 
 *    *   24
 
-    *   High Wycombe
+    *   Camberley
 
     *   3
 
 
 *    *   25
 
-    *   Honington
+    *   Coningsby
 
-    *   3
+    *   4
 
 
 *    *   26
 
-    *   Huntingdon
+    *   Culdrose/Helston
 
     *   3
 
 
 *    *   27
 
-    *   Innsworth
+    *   Fareham
 
     *   3
 
 
 *    *   28
 
-    *   Lossiemouth
+    *   High Wycombe/Waters Ash
 
-    *   4
+    *   3
 
 
 *    *   29
 
-    *   Plymouth
+    *   Honington
 
     *   3
 
 
 *    *   30
 
-    *   Portsmouth
+    *   Huntingdon
 
     *   3
 
 
 *    *   31
 
-    *   Preston/Warton
+    *   Innsworth
 
     *   3
 
 
 *    *   32
 
-    *   Shrivenham
+    *   Lossiemouth
+
+    *   4
+
+
+*    *   33
+
+    *   Plymouth
 
     *   3
 
 
-*    *   33
+*    *   34
+
+    *   Portsmouth
+
+    *   3
+
+
+*    *   35
+
+    *
+    *   Preston/Warton
+
+    *   3
+
+
+*    *   36
+
+    *   Salisbury
+
+    *   4
+
+
+*    *   37
+
+    *   Shrivenham/Swindon
+
+    *   3
+
+
+*    *   38
 
     *   Warminster
 
     *   4
 
 
-*    *   34
+*    *   39
 
     *   Yeovil
 
     *   4
 
 
-*    *   **Abschnitt 2**
+*    *   Abschnitt 2
         **Amerika**
 
 
-*    *   35
+*    *   40
 
     *   Kanada
 
@@ -2538,107 +2560,100 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   9
 
 
-*    *   36
-
-    *   Kingston
-
-    *   7
-
-
-*    *   37
+*    *   41
 
     *   Southport/Portage la Prairie
 
     *   9
 
 
-*    *   38
+*    *   42
 
     *   Vereinigte Staaten
 
-    *   Charleston AFB (South Carolina)
-
-    *   7
-
-
-*    *   39
-
-    *   Colorado Springs (Colorado)
-
-    *   8
-
-
-*    *   40
-
-    *   Dallas (Texas)
-
-    *   8
-
-
-*    *   41
-
-    *   Dayton (Ohio)
-
-    *   8
-
-
-*    *   42
-
-    *   Detroit/Warren (Michigan)
+    *   Alamogordo (New Mexico)
 
     *   8
 
 
 *    *   43
 
-    *   El Paso/Fort Bliss (Texas)
+    *   Charleston AFB (South Carolina)
 
-    *   8
+    *   7
 
 
 *    *   44
 
-    *   Fort Benning (Georgia)
+    *   Colorado Springs (Colorado)
 
     *   8
 
 
 *    *   45
 
-    *   Fort Bragg/Fayetteville (North Carolina)
+    *   Dallas (Texas)
 
     *   8
 
 
 *    *   46
 
-    *   Fort Gordon (Georgia)
+    *   Dayton (Ohio)
 
     *   8
 
 
 *    *   47
 
-    *   Fort Huachuca/Sierra Vista (Arizona)
+    *   El Paso/Fort Bliss (Texas)
 
-    *   10
+    *   8
 
 
 *    *   48
+
+    *   Fort Benning (Georgia)
+
+    *   8
+
+
+*    *   49
+
+    *   Fort Bragg/Fayetteville (North Carolina)
+
+    *   8
+
+
+*    *   50
+
+    *   Fort Gordon (Georgia)
+
+    *   8
+
+
+*    *   51
 
     *   Fort Leavenworth (Kansas)
 
     *   9
 
 
-*    *   49
+*    *   52
+
+    *   Fort Lee (Virginia)
+
+    *   7
+
+
+*    *   53
 
     *   Fort Leonard Wood (Missouri)
 
     *   10
 
 
-*    *   50
+*    *   54
 
     *   Fort Rucker/Enterprise
         (Alabama)
@@ -2646,21 +2661,21 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   9
 
 
-*    *   51
+*    *   55
 
     *   Fort Sill (Oklahoma)
 
     *   9
 
 
-*    *   52
+*    *   56
 
     *   Goodyear/Phoenix (Arizona)
 
     *   9
 
 
-*    *   53
+*    *   57
 
     *   Huntsville/Redstone AFB
         (Alabama)
@@ -2668,105 +2683,83 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
     *   8
 
 
-*    *   54
+*    *   58
 
     *   Jacksonville/Mayport (Florida)
 
     *   8
 
 
-*    *   55
+*    *   59
 
     *   Kirtland AFB/Albuquerque (New Mexico)
 
     *   8
 
 
-*    *   56
+*    *   60
 
-    *   Las Vegas (Nevada)
-
-    *   8
-
-
-*    *   57
-
-    *   Maxwell/Montgomery
-        (Alabama)
-
-    *   8
-
-
-*    *   58
-
-    *   Monterey (Kalifornien)
+    *   Las Vegas/Nellis AFB (Nevada)
 
     *   7
 
 
-*    *   59
+*    *   61
 
-    *   Panama City (Florida)
+    *   Maxwell/Montgomery (Alabama)
+
+    *   8
+
+
+*    *   62
+
+    *   Norfolk/Suffolk/Langley AFB/ Newport News/Virginia Beach (Virginia)
+
+    *   7
+
+
+*    *   63
+
+    *   Panama City/Tyndall AFB
+        (Florida)
 
     *   9
 
 
-*    *   60
+*    *   64
 
     *   Pensacola/Eglin AFB (Florida)
 
     *   9
 
 
-*    *   61
-
-    *   Port Hueneme (Kalifornien)
-
-    *   7
-
-
-*    *   62
+*    *   65
 
     *   Reston/Dulles Int. Airport
         (Virginia)
-
-    *   8
-
-
-*    *   63
-
-    *   San Diego (Kalifornien)
-
-    *   7
-
-
-*    *   64
-
-    *   Sheppard AFB/Wichita Falls (Texas)
-
-    *   9
-
-
-*    *   65
-
-    *   St. Louis (Missouri)
 
     *   7
 
 
 *    *   66
 
-    *   Vicksburg (Mississippi)
+    *   San Diego (Kalifornien)
 
-    *   9
+    *   7
 
 
 *    *   67
 
-    *   Yuma (Arizona)
+    *   Sheppard AFB/Wichita Falls (Texas)
 
-    *   10
+    *   9
 
+
+*    *   68
+
+    *   Tucson (Arizona)
+
+    *   9
 
 
 

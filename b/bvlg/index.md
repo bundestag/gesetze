@@ -42,11 +42,10 @@ insbesondere auf folgenden Gebieten tätig:
     Tabakerzeugnisgesetzes, kosmetische Mittel und sonstige
     Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte,
     Futtermittel und Futtermittelzusatzstoffe, tierische Nebenprodukte und
-    Folgeprodukte, Chemikalien sowie Arzneimittel, die zur Anwendung bei
-    Tieren bestimmt sind, einschließlich deren Herstellung, Anwendung und
-    Verkehr, und bei Tieren angewandte pharmakologisch wirksame Stoffe,
-    ausgenommen Tierimpfstoffe, soweit dem Bund die
-    Verwaltungszuständigkeit zusteht,
+    Folgeprodukte, Chemikalien sowie Tierarzneimittel einschließlich deren
+    Herstellung, Anwendung und Verkehr, und bei Tieren angewandte
+    pharmakologisch wirksame Stoffe, ausgenommen Tierimpfstoffe, soweit
+    dem Bund die Verwaltungszuständigkeit zusteht,
 
 
 2.  Mitwirkung an der Vorbereitung und Begleitung von
@@ -73,9 +72,10 @@ insbesondere auf folgenden Gebieten tätig:
     soweit diese Aufgabe nicht von einer anderen Stelle wahrgenommen wird,
 
 
-6.  Zulassung und Registrierung von Arzneimitteln, die zur Anwendung bei
-    Tieren bestimmt sind, ausgenommen Tierimpfstoffe, nach den
-    arzneimittelrechtlichen Vorschriften,
+6.  Zulassung und Registrierung von Tierarzneimitteln, ausgenommen
+    immunologische Tierarzneimittel und die weiteren in § 65 Absatz 1
+    Nummer 1 des Tierarzneimittelgesetzes genannten Tierarzneimittel, nach
+    den tierarzneimittelrechtlichen Vorschriften,
 
 
 7.  Wahrnehmung der Funktion eines gemeinschaftlichen und nationalen
@@ -158,9 +158,10 @@ insbesondere auf folgenden Gebieten tätig:
 9. bis 12. (weggefallen),
 
 
-13. Arzneimittelgesetzes, soweit es den Verkehr und die Anwendung von
-    Arzneimitteln betrifft, die zur Anwendung bei Tieren bestimmt sind,
-    und es sich dabei nicht um Tierimpfstoffe handelt,
+13. Tierarzneimittelgesetzes, soweit es den Verkehr und die Anwendung von
+    Tierarzneimitteln betrifft und es sich dabei nicht um immunologische
+    Tierarzneimittel oder die weiteren in § 65 Absatz 1 Nummer 1 des
+    Tierarzneimittelgesetzes genannten Tierarzneimittel handelt,
 
 
 14. Produktsicherheitsgesetzes, soweit sein Anwendungsbereich sich auf

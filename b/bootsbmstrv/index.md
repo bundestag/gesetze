@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 974
 
+Geändert durch
+:   Art. 2 Abs. 86 V v. 18.1.2022 I 39
+
 Stand: Ersetzt V 7110-3-100 v. 25.8.1992 I 1582 (BootbMstrV) und V 7110-3-128 v. 18.9.1996 I 1480 (SchiffbMstrV)
 
 ## Eingangsformel
@@ -557,9 +560,8 @@ des Teils II ist nicht bestanden, wenn
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

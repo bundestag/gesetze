@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 2011, 1300
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 2 V v. 8.11.2019 II 907
-
-Änderung durch
-:   Art. 5 V v. 2.6.2020 II 346 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 2.6.2020 II 346
 
 
 ## Eingangsformel

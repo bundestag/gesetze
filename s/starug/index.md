@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3256
 
-Änderung durch
-:   Art. 38 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 38 G v. 10.8.2021 I 3436
 
 
 ## Teil 1 - Krisenfrüherkennung und Krisenmanagement

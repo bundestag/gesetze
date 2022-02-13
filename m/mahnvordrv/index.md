@@ -15,9 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 693
 
-Stand: Zuletzt geändert Art. 4 G v. 11.3.2016 I 396
-Änderung durch
-:   Art. 25 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 25 G v. 5.10.2021 I 4607
 
 
 ## Eingangsformel

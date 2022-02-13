@@ -40,7 +40,7 @@ Zuletzt geändert durch
 :   Art. 15 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 G v. 9.7.2021 I 2570 (Nr. 43) mWv 17.8.2021 noch nicht berücksichtigt
+:   Art. 2 G v. 9.7.2021 I 2570 (Nr. 43) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 26 G v. 5.7.2021 I 3338 (Nr. 52) mWv 1.8.2022 noch nicht berücksichtigt
@@ -853,14 +853,14 @@ verwalten, deren Anleger
 2.  § 20 Absatz 10 entsprechend,
 
 
-3.  § 44 Absatz 1, 2, 4 bis 9,
+3.  § 44 Absatz 1, 4 bis 9, die §§ 45 und 45a,
 
 
 4.  im Hinblick auf eine Vergabe von Gelddarlehen für Rechnung eines AIF §
     20 Absatz 9 entsprechend, § 34 Absatz 6, § 282 Absatz 2 Satz 3 und §
     285 Absatz 2 und 3 sowie im Hinblick auf eine Vergabe von Gelddarlehen
     nach § 285 Absatz 2 § 26 Absatz 1, 2 und 7 Satz 1, § 27 Absatz 1, 2
-    und 5, § 29 Absatz 1, 2, 5 und 5a und § 30 Absatz 1 bis 4 und
+    und 5, § 29 Absatz 1, 2, 5 und 5a, § 30 Absatz 1 bis 4 und § 286 und
 
 
 5.  im Hinblick auf die Verwaltung von Entwicklungsförderungsfonds gemäß
@@ -911,101 +911,11 @@ bestimmen sich nach den Artikeln 2 bis 5 der Delegierten Verordnung
 nach Absatz 6 oder Absatz 7 registriert, darf sie abweichend von Satz
 2 Nummer 1 außer Spezial-AIF auch die entsprechenden AIF verwalten.
 
-(4a) Auf eine interne AIF-Kapitalverwaltungsgesellschaft sind nur die
-§§ 1 bis 17, § 20 Absatz 9 entsprechend, die §§ 42, 44 Absatz 1, 4 bis
-9 und § 261 Absatz 1 Nummer 8 anzuwenden, wenn
-
-1.  die Vermögensgegenstände des von ihr verwalteten inländischen
-    geschlossenen Publikums-AIF einschließlich der durch den Einsatz von
-    Leverage erworbenen Vermögensgegenstände insgesamt nicht den Wert von
-    5 Millionen Euro überschreiten,
-
-
-2.  die Anteile des von ihr verwalteten inländischen geschlossenen
-    Publikums-AIF von nicht mehr als fünf natürlichen Personen gehalten
-    werden und
-
-
-3.  die interne AIF-Kapitalverwaltungsgesellschaft nicht beschlossen hat,
-    sich diesem Gesetz in seiner Gesamtheit zu unterwerfen.
-
-
-
-Für die Berechnung des in Satz 1 Nummer 1 genannten Schwellenwerts und
-die Behandlung von AIF-Kapitalverwaltungsgesellschaften im Sinne des
-Satzes 1, deren verwaltete Vermögensgegenstände innerhalb eines
-Kalenderjahres gelegentlich den betreffenden Schwellenwert über- oder
-unterschreiten, gelten die Artikel 2 bis 5 der Delegierten Verordnung
-(EU) Nr. 231/2013 entsprechend.
+(4a) (weggefallen)
 
 (4b) (weggefallen)
 
-(5) Auf eine AIF-Kapitalverwaltungsgesellschaft sind nur
-
-1.  die §§ 1 bis 17, 42,
-
-
-2.  § 20 Absatz 10 entsprechend,
-
-
-3.  die §§ 26 bis 28,
-
-
-4.  § 44 Absatz 1, 4 bis 9                   , die §§ 45 bis 48,
-
-
-5.  die §§ 80 bis 90,
-
-
-6.  § 169 entsprechend, die §§ 261 bis 270, 271 Absatz 1 und 4, § 272,
-
-
-7.  die §§ 293, 295 bis 297, 300 bis 306, 314 und 316 mit der Maßgabe,
-    dass in dem Verkaufsprospekt und den wesentlichen Anlegerinformationen
-    die Anleger drucktechnisch herausgestellt an hervorgehobener Stelle
-    darauf hinzuweisen sind, dass die AIF-Kapitalverwaltungsgesellschaft
-    nicht über eine Erlaubnis nach diesem Gesetz verfügt und daher
-    bestimmte Anforderungen dieses Gesetzes nicht eingehalten werden
-    müssen und
-
-
-8.  im Hinblick auf eine Vergabe von Gelddarlehen für Rechnung eines AIF §
-    20 Absatz 9 entsprechend, § 34 Absatz 6, § 261 Absatz 1 Nummer 8, §
-    285 Absatz 2 und 3 sowie im Hinblick auf eine Vergabe von Gelddarlehen
-    nach § 285 Absatz 2 die § 29 Absatz 1, 2, 5 und 5a und § 30 Absatz 1
-    bis 4
-
-
-
-anzuwenden, wenn sie die Voraussetzungen des Satzes 2 erfüllt. Die
-Voraussetzungen sind:
-
-1.  die AIF-Kapitalverwaltungsgesellschaft verwaltet entweder direkt oder
-    indirekt über eine Gesellschaft, mit der die AIF-
-    Kapitalverwaltungsgesellschaft über eine gemeinsame Geschäftsführung,
-    ein gemeinsames Kontrollverhältnis oder durch eine wesentliche
-    unmittelbare oder mittelbare Beteiligung verbunden ist, ausschließlich
-    inländische geschlossene AIF, bei denen es sich nicht ausschließlich
-    um Spezial-AIF handelt,
-
-
-2.  die verwalteten Vermögensgegenstände der verwalteten inländischen
-    geschlossenen AIF einschließlich der durch den Einsatz von Leverage
-    erworbenen Vermögensgegenstände überschreiten insgesamt nicht den Wert
-    von 100 Millionen Euro, und
-
-
-3.  die AIF-Kapitalverwaltungsgesellschaft hat nicht beschlossen, sich
-    diesem Gesetz in seiner Gesamtheit zu unterwerfen.
-
-
-
-Die Berechnung des in Satz 2 Nummer 2 genannten Schwellenwertes und
-die Behandlung von AIF-Kapitalverwaltungsgesellschaften im Sinne des
-Satzes 2, deren verwaltete Vermögensgegenstände innerhalb eines
-Kalenderjahres gelegentlich den betreffenden Schwellenwert über- oder
-unterschreiten, bestimmen sich nach den Artikeln 2 bis 5 der
-Delegierten Verordnung (EU) Nr. 231/2013.
+(5) (weggefallen)
 
 (6) Auf eine AIF-Kapitalverwaltungsgesellschaft ist nur Kapitel 5
 anzuwenden, wenn sie
@@ -2376,15 +2286,10 @@ Kapitalverwaltungsgesellschaften und Investmentgesellschaften:
 3.  offener AIF-Investmentaktiengesellschaften,
 
 
-4.  geschlossener Publikumsinvestmentaktiengesellschaften,
+4.  geschlossener Publikumsinvestmentaktiengesellschaften sowie
 
 
-5.  geschlossener Publikumsinvestmentkommanditgesellschaften sowie
-
-
-6.  registrierter Kapitalverwaltungsgesellschaften nach § 2 Absatz 5
-    einschließlich der von ihr verwalteten geschlossenen inländischen
-    Publikums-AIF.
+5.  geschlossener Publikumsinvestmentkommanditgesellschaften.
 
 
 
@@ -4861,8 +4766,8 @@ unterrichten.
 
 ##### § 44 Registrierung und Berichtspflichten
 
-(1) AIF-Kapitalverwaltungsgesellschaften, die die Bedingungen nach § 2
-Absatz 4, 4a oder 5 erfüllen,
+(1) AIF-Kapitalverwaltungsgesellschaften, bei denen die
+Voraussetzungen nach § 2 Absatz 4 Satz 2 vorliegen,
 
 1.  sind zur Registrierung bei der Bundesanstalt verpflichtet,
 
@@ -4890,8 +4795,8 @@ Absatz 4, 4a oder 5 erfüllen,
     ermöglichen,
 
 
-5.  teilen der Bundesanstalt unverzüglich mit, wenn die in § 2 Absatz 4,
-    4a oder 5 genannten Voraussetzungen nicht mehr erfüllt sind,
+5.  teilen der Bundesanstalt unverzüglich mit, wenn die in § 2 Absatz 4
+    genannten Voraussetzungen nicht mehr erfüllt sind,
 
 
 6.  müssen juristische Personen oder Personenhandelsgesellschaften sein
@@ -4912,78 +4817,49 @@ Absatz 4, 4a oder 5 erfüllen,
 
 
     bei der die Nachschusspflicht der Anleger ausgeschlossen ist,
-    verwalten. Wird der AIF im Fall von § 2 Absatz 4 als offener AIF in
-    der Rechtsform der Investmentaktiengesellschaft mit veränderlichem
-    Kapital oder der offenen Investmentkommanditgesellschaft aufgelegt,
-    gelten die §§ 108 bis 123 oder die §§ 124 bis 138. Wird der AIF im
-    Fall von § 2 Absatz 4 als geschlossener AIF in der Rechtsform der
-    Investmentaktiengesellschaft mit fixem Kapital oder als geschlossene
-    Investmentkommanditgesellschaft aufgelegt, gelten die §§ 140 bis 148
-    oder die §§ 149 bis 161. Wird der AIF im Fall von § 2 Absatz 4a oder
-    Absatz 5 in der Rechtsform der Investmentaktiengesellschaft mit fixem
-    Kapital oder der geschlossenen Investmentkommanditgesellschaft
-    aufgelegt, gelten die §§ 140 bis 148 oder die §§ 149 bis 161.
+    verwalten.
 
 
 
+Wird der AIF als offener AIF in der Rechtsform der
+Investmentaktiengesellschaft mit veränderlichem Kapital oder der
+offenen Investmentkommanditgesellschaft aufgelegt, gelten die §§ 108
+bis 123 oder die §§ 124 bis 138. Wird der AIF als geschlossener AIF in
+der Rechtsform der Investmentaktiengesellschaft mit fixem Kapital oder
+als geschlossene Investmentkommanditgesellschaft aufgelegt, gelten die
+§§ 140 bis 148 oder die §§ 149 bis 161.
 
 (2) (weggefallen)
 
-(3) AIF-Kapitalverwaltungsgesellschaften, die die Bedingungen nach § 2
-Absatz 5 erfüllen, legen der Bundesanstalt mit dem Antrag auf
-Registrierung zusätzlich zu den in Absatz 1 genannten Angaben folgende
-Informationen vor:
-
-1.  die Angabe der Geschäftsleiter,
-
-
-2.  Angaben zur Beurteilung der Zuverlässigkeit der Geschäftsleiter,
-
-
-3.  Angaben zur Beurteilung der fachlichen Eignung der Geschäftsleiter.
-
-
-
+(3) (weggefallen)
 
 (4) Die Bundesanstalt bestätigt der AIF-Kapitalverwaltungsgesellschaft
 die Registrierung innerhalb einer Frist von zwei Wochen nach Eingang
 des vollständigen Registrierungsantrags, wenn die Voraussetzungen für
-die Registrierung erfüllt sind. Bei Registrierungsanträgen von AIF-
-Kapitalverwaltungsgesellschaften, die die Bedingungen nach § 2 Absatz
-5 erfüllen, kann die Bundesanstalt diesen Zeitraum um bis zu zwei
-Wochen verlängern, wenn sie dies auf Grund der besonderen Umstände des
-Einzelfalls für notwendig erachtet. Die Registrierung gilt als
-bestätigt, wenn über den Registrierungsantrag nicht innerhalb der
-Frist nach Satz 1 entschieden worden ist und die Bundesanstalt die
-Frist nicht gemäß Satz 2 verlängert hat. Die Bundesanstalt versagt der
-AIF-Kapitalverwaltungsgesellschaft die Registrierung, wenn
+die Registrierung erfüllt sind. Die Registrierung gilt als bestätigt,
+wenn über den Registrierungsantrag nicht innerhalb der Frist nach Satz
+1 entschieden worden ist. Die Bundesanstalt versagt der AIF-
+Kapitalverwaltungsgesellschaft die Registrierung, wenn
 
-1.  die Bedingungen des § 2 Absatz 4, 4a oder 5 nicht erfüllt sind,
+1.  die Bedingungen des § 2 Absatz 4 nicht erfüllt sind,
 
 
 2.  nicht alle zum Zeitpunkt der Registrierung erforderlichen
-    Informationen gemäß Absatz 1, 3 und 7 vorgelegt wurden,
+    Informationen gemäß Absatz 1 und 7 vorgelegt wurden,
 
 
 3.  die AIF-Kapitalverwaltungsgesellschaft, die die Bedingungen nach § 2
-    Absatz 4, 4a oder 5 erfüllt, keine juristische Person oder
+    Absatz 4 erfüllt, keine juristische Person oder
     Personenhandelsgesellschaft ist,
 
 
 4.  die AIF-Kapitalverwaltungsgesellschaft, die die Bedingungen nach § 2
-    Absatz 4, 4a oder 5 erfüllt, AIF in einer anderen als den in Absatz 1
-    Nummer 7 genannten Rechtsformen verwaltet,
+    Absatz 4 erfüllt, AIF in einer anderen als den in Absatz 1 Nummer 7
+    genannten Rechtsformen verwaltet,
 
 
 5.  die Hauptverwaltung oder der satzungsmäßige Sitz der AIF-
-    Kapitalverwaltungsgesellschaft sich nicht im Inland befindet,
-
-
-6.  bei AIF-Kapitalverwaltungsgesellschaften, die die Bedingungen nach § 2
-    Absatz 5 erfüllen, Tatsachen vorliegen, aus denen sich ergibt, dass
-    die Geschäftsleiter der AIF-Kapitalverwaltungsgesellschaft nicht
-    zuverlässig sind oder die zur Leitung erforderliche fachliche Eignung
-    nicht haben.
+    Kapitalverwaltungsgesellschaft sich nicht im Inland befindet.
 
 
 
@@ -5001,8 +4877,8 @@ Vorschriften des Verwaltungsverfahrensgesetzes aufheben, wenn
 
 
 3.  die AIF-Kapitalverwaltungsgesellschaft nachhaltig gegen die
-    Bestimmungen dieser Vorschrift oder die weiteren gemäß § 2 Absatz 4,
-    4a oder 5 anzuwendenden Bestimmungen dieses Gesetzes verstößt,
+    Bestimmungen dieser Vorschrift oder die weiteren gemäß § 2 Absatz 4
+    anzuwendenden Bestimmungen dieses Gesetzes verstößt,
 
 
 4.  die AIF-Kapitalverwaltungsgesellschaft schwerwiegend, wiederholt oder
@@ -5033,23 +4909,9 @@ Kapitalverwaltungsgesellschaft
 
 § 39 Absatz 1 Satz 2 findet entsprechend Anwendung.
 
-(6) Sind die in § 2 Absatz 4 oder 5 genannten Voraussetzungen nicht
-mehr erfüllt, hat die AIF-Kapitalverwaltungsgesellschaft die Erlaubnis
-nach den §§ 20 und 22 innerhalb von 30 Kalendertagen zu beantragen.
-Sind die in § 2 Absatz 4a genannten Voraussetzungen nicht mehr
-erfüllt, hat die AIF-Kapitalverwaltungsgesellschaft innerhalb von 30
-Kalendertagen
-
-1.  eine Registrierung nach Absatz 1 Nummer 1 und den Absätzen 3 und 4 zu
-    beantragen, wenn sie die Voraussetzungen nach § 2 Absatz 5 Satz 1
-    erfüllt, oder
-
-
-2.  die Erlaubnis nach den §§ 20 und 22 zu beantragen, wenn sie nicht die
-    in Nummer 1 genannten Voraussetzungen erfüllt.
-
-
-
+(6) Sind die in § 2 Absatz 4 genannten Voraussetzungen nicht mehr
+erfüllt, hat die AIF-Kapitalverwaltungsgesellschaft die Erlaubnis nach
+den §§ 20 und 22 innerhalb von 30 Kalendertagen zu beantragen.
 
 (7) Nähere Bestimmungen zu den Pflichten der AIF-
 Kapitalverwaltungsgesellschaften zur Registrierung und zur Vorlage von
@@ -5068,145 +4930,155 @@ Meldungen nach Absatz 8 und über die zulässigen Datenträger,
 Datenstrukturen und Übertragungswege festlegen.
 
 
-##### § 45 Erstellung und Bekanntmachung von Jahresberichten
+##### § 45 Jahresabschluss und Lagebericht von registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften
 
-(1) Eine AIF-Kapitalverwaltungsgesellschaft, die die Voraussetzungen
-von § 2 Absatz 5 erfüllt, hat für jeden von ihr verwalteten
-geschlossenen inländischen Publikums-AIF, der nicht verpflichtet ist,
-nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss
-offenzulegen, für den Schluss eines jeden Geschäftsjahres einen
-Jahresbericht zu erstellen und spätestens sechs Monate nach Ablauf des
-Geschäftsjahres beim Betreiber des Bundesanzeigers elektronisch
-einzureichen sowie den Anlegern auf Anforderung auch in Papierform zur
-Verfügung zu stellen.
-
-(2) Der Jahresbericht im Sinne des Absatzes 1 besteht mindestens aus
-
-1.  dem nach Maßgabe des § 46 aufgestellten und von einem Abschlussprüfer
-    geprüften Jahresabschluss,
-
-
-2.  dem nach Maßgabe des § 46 aufgestellten und von einem Abschlussprüfer
-    geprüften Lagebericht,
-
-
-3.  einer den Vorgaben des § 264 Absatz 2 Satz 3 beziehungsweise des § 289
-    Absatz 1 Satz 5 des Handelsgesetzbuchs entsprechenden Erklärung der
-    gesetzlichen Vertreter des geschlossenen inländischen Publikums-AIF
-    sowie
-
-
-4.  den Bestätigungen des Abschlussprüfers nach § 47.
-
-
-
-
-(3) Der Jahresbericht im Sinne des Absatzes 1 ist unverzüglich nach
-der elektronischen Einreichung im Bundesanzeiger bekannt zu machen. §
-325 Absatz 1 Satz 2, Absatz 2 bis 2b, 5 und 6 sowie die §§ 328 und 329
-Absatz 1, 2 und 4 des Handelsgesetzbuchs gelten entsprechend. Die
-Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuchs
-sind auf die Verletzung von Pflichten des vertretungsberechtigten
-Organs der AIF-Kapitalverwaltungsgesellschaft im Sinne des Absatzes 1
-entsprechend anzuwenden. An die Stelle der Pflichten nach § 335 Absatz
-1 Satz 1 Nummer 1 und 2 des Handelsgesetzbuchs treten im Falle der
-Erstellung eines Jahresberichts die Pflichten nach Absatz 1.
-Offenlegung im Sinne des § 325 Absatz 1 Satz 1 des Handelsgesetzbuchs
-sind die Einreichung und Bekanntmachung des Jahresberichts gemäß den
-Absätzen 1 und 2.
-
-(4) Die Bekanntmachung ist über die Internetseite des
-Unternehmensregisters zugänglich zu machen; die Unterlagen sind in
-entsprechender Anwendung des § 8b Absatz 3 Satz 1 Nummer 1 des
-Handelsgesetzbuchs vom Betreiber des Bundesanzeigers zu übermitteln.
-
-
-##### § 46 Inhalt von Jahresabschlüssen und Lageberichten
-
-Bei einem geschlossenen inländischen Publikums-AIF, der von einer AIF-
-Kapitalverwaltungsgesellschaft verwaltet wird, die die Voraussetzungen
-des § 2 Absatz 5 erfüllt, sind für den Jahresabschluss die
+Bei einer Kapitalverwaltungsgesellschaft, bei der die Voraussetzungen
+nach § 2 Absatz 4 Satz 2 vorliegen und auf die § 44 Absatz 1 Nummer 7
+Satz 2 und 3 nicht anzuwenden ist, sind für den Jahresabschluss die
 Bestimmungen des Ersten Unterabschnitts des Zweiten Abschnitts des
 Dritten Buches des Handelsgesetzbuchs und für den Lagebericht die
 Bestimmungen des § 289 des Handelsgesetzbuchs einzuhalten, soweit sich
-aus dem entsprechend anwendbaren § 135 Absatz 3 bis 11 nichts anderes
-ergibt. § 264 Absatz 1 Satz 4 Halbsatz 1, Absatz 3, 4 und § 264b des
+nichts anderes ergibt
+
+1.  aus dem entsprechend anwendbaren § 120 Absatz 2 bis 8 bei internen
+    Kapitalverwaltungsgesellschaften, die Gelddarlehen nach § 285 Absatz 2
+    oder § 292a Absatz 2 vergeben, und in der Rechtsform einer
+    juristischen Person betrieben werden;
+
+
+2.  aus dem entsprechend anwendbaren § 135 Absatz 3 bis 11 bei internen
+    Kapitalverwaltungsgesellschaften, die Gelddarlehen nach § 285 Absatz 2
+    oder § 292a Absatz 2 vergeben und in der Rechtsform einer
+    Personenhandelsgesellschaft betrieben werden.
+
+
+
+§ 264 Absatz 1 Satz 4 erster Halbsatz, Absatz 3 und 4 sowie § 264b des
 Handelsgesetzbuchs sind nicht anzuwenden.
 
 
-##### § 47 Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung
+##### § 45a Abschlussprüfung bei registrierungspflichtigen AIF-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
 
-(1) Der Jahresabschluss und der Lagebericht eines geschlossenen
-inländischen Publikums-AIF im Sinne des § 46 sind durch einen
+(1) Der Jahresabschluss und der Lagebericht einer
+Kapitalverwaltungsgesellschaft im Sinne des § 45 sind durch einen
 Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten
 Unterabschnitts des Zweiten Abschnitts des Dritten Buches des
-Handelsgesetzbuchs zu prüfen. Der Jahresabschluss und der Lagebericht
-müssen mit dem Bestätigungsvermerk oder einem Vermerk über die
-Versagung der Bestätigung versehen sein.
+Handelsgesetzbuchs zu prüfen. Die Prüfung ist spätestens vor Ablauf
+des neunten Monats des dem Abschlussstichtag nachfolgenden
+Geschäftsjahrs vorzunehmen.
+
+(2) Auf die Bestellung eines Abschlussprüfers ist § 28 des
+Kreditwesengesetzes mit der Maßgabe entsprechend anzuwenden, dass die
+dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht
+gelten.
+
+(3) Der Abschlussprüfer hat auch zu prüfen, ob die
+Kapitalverwaltungsgesellschaft ihren Verpflichtungen nach dem
+Geldwäschegesetz nachgekommen ist und die Bestimmungen dieses Gesetzes
+beachtet hat. Das Ergebnis dieser Prüfung hat der Abschlussprüfer im
+Prüfungsbericht gesondert wiederzugeben.
+
+(4) Bei Kapitalverwaltungsgesellschaften im Sinne von § 45 Satz 1
+Nummer 1 oder 2 hat der Abschlussprüfer auch festzustellen, ob die
+Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet
+worden sind. Bei Kapitalverwaltungsgesellschaften im Sinne von § 45
+Satz 1 Nummer 2 hat der Abschlussprüfer darüber hinaus die Zuweisung
+von Gewinnen, Verlusten, Einlagen und Entnahmen zu den einzelnen
+Kapitalkonten zu prüfen und deren Ordnungsmäßigkeit zu bestätigen.
+Dies gilt auch für den Fall, dass der Anteil am AIF für den Anleger
+durch einen Treuhänder gehalten wird.
+
+(5) Der Abschlussprüfer hat den Bericht über die Prüfung der
+Kapitalverwaltungsgesellschaft nach Absatz 1 nach Beendigung der
+Prüfung unverzüglich der Bundesanstalt zu übermitteln.
+
+(6) Das Bundesministerium der Finanzen wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
+und Darstellung des Prüfungsberichts sowie zur Art und Weise seiner
+Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur
+Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
+insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
+der Kapitalverwaltungsgesellschaften zu erhalten, die die
+Voraussetzungen von § 2 Absatz 4 Satz 2 erfüllen. Das
+Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt übertragen.
+
+
+##### § 46 Jahresabschluss und Lagebericht von extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden
+
+Bei einem extern verwalteten geschlossenen inländischen Spezial-AIF,
+für dessen Rechnung eine AIF-Kapitalverwaltungsgesellschaft, die die
+Voraussetzungen des § 2 Absatz 4 Satz 2 erfüllt, Gelddarlehen gemäß §
+285 Absatz 2 oder § 292a Absatz 2 vergibt, und auf den § 44 Absatz 1
+Nummer 7 Satz 3 nicht anzuwenden ist, sind für den Jahresabschluss die
+Bestimmungen des Ersten Unterabschnitts des Zweiten Abschnitts des
+Dritten Buches des Handelsgesetzbuchs und für den Lagebericht die
+Bestimmungen des § 289 des Handelsgesetzbuchs einzuhalten, soweit sich
+nichts anderes ergibt
+
+1.  aus dem entsprechend anwendbaren § 120 Absatz 2 bis 8 bei
+    geschlossenen Spezial-AIF in der Rechtsform einer juristischen Person
+    oder
+
+
+2.  dem entsprechend anwendbaren § 135 Absatz 3 bis 11 bei geschlossenen
+    Spezial-AIF in der Rechtsform einer Personenhandelsgesellschaft.
+
+
+
+§ 264 Absatz 1 Satz 4 erster Halbsatz, Absatz 3 und 4 sowie § 264b des
+Handelsgesetzbuchs sind nicht anzuwenden.
+
+
+##### § 47 Abschlussprüfung bei extern verwalteten Spezial-AIF, für deren Rechnung Gelddarlehen nach § 285 Absatz 2 oder § 292a Absatz 2 vergeben werden; Verordnungsermächtigung
+
+(1) Der Jahresabschluss und der Lagebericht eines geschlossenen
+inländischen Spezial-AIF im Sinne des § 46 sind durch einen
+Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten
+Unterabschnitts des Zweiten Abschnitts des Dritten Buches des
+Handelsgesetzbuchs zu prüfen.
 
 (2) Der Abschlussprüfer hat bei seiner Prüfung auch festzustellen, ob
-die AIF-Kapitalverwaltungsgesellschaft, die die Voraussetzungen von §
-2 Absatz 5 erfüllt, die Bestimmungen eines dem AIF zugrunde liegenden
-Gesellschaftsvertrags, eines Treuhandverhältnisses oder einer Satzung
-sowie der Anlagebedingungen beachtet hat.
+der Spezial-AIF im Sinne des § 46 sowohl die Bestimmungen dieses
+Gesetzes als auch jene eines dem AIF zugrundeliegenden
+Gesellschaftsvertrags oder einer dem AIF zugrundeliegenden Satzung
+beachtet hat.
 
-(3) Die Zuweisung von Gewinnen, Verlusten, Einnahmen, Ausgaben,
-Einlagen und Entnahmen zu den einzelnen Kapitalkonten ist vom
-Abschlussprüfer zu prüfen und deren Ordnungsmäßigkeit zu bestätigen.
-Dies gilt auch für den Fall, dass der Anteil oder die Aktie am AIF für
+(3) Bei einem geschlossenen inländischen Spezial-AIF in der Rechtsform
+einer Personenhandelsgesellschaft hat der Abschlussprüfer auch die
+Zuweisung von Gewinnen, Verlusten, Einlagen und Entnahmen zu den
+einzelnen Kapitalkonten zu prüfen und deren Ordnungsmäßigkeit zu
+bestätigen. Dies gilt auch für den Fall, dass der Anteil am AIF für
 den Anleger durch einen Treuhänder gehalten wird.
 
-(4) Das Bundesministerium der Finanzen wird ermächtigt, im
+(4) Der Prüfungsbericht ist der Bundesanstalt auf Verlangen vom
+Abschlussprüfer einzureichen.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
 und Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur
-Art und Weise der Einreichung des Prüfungsberichts bei der
-Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der
-Bundesanstalt erforderlich ist. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+Art und Weise der Einreichung des Prüfungsberichts des
+Abschlussprüfers bei der Bundesanstalt zu erlassen, soweit dies zur
+Erfüllung der Aufgaben der Bundesanstalt erforderlich ist,
+insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit
+von geschlossenen inländischen Spezial-AIF zu erhalten, für deren
+Rechnung AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen
+des § 2 Absatz 4 Satz 2 erfüllen, Gelddarlehen gemäß § 285 Absatz 2
+oder § 292a Absatz 2 vergeben. Das Bundesministerium der Finanzen kann
+die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 übertragen.
 
 
-##### § 48 Verkürzung der handelsrechtlichen Offenlegungsfrist
-
-(1) Ist der geschlossene inländische Publikums-AIF im Sinne des § 46
-nach den Vorschriften des Handelsgesetzbuchs zur Offenlegung des
-Jahresabschlusses verpflichtet, tritt an die Stelle des Ablaufs des
-zwölften Monats des dem Abschlussstichtag nachfolgenden
-Geschäftsjahres im Sinne des § 325 Absatz 1a des Handelsgesetzbuchs
-der Ablauf des sechsten Monats.
-
-(2) § 326 des Handelsgesetzbuchs über die größenabhängigen
-Erleichterungen für kleine Kapitalgesellschaften ist nicht anzuwenden.
+##### § 48 (weggefallen)
 
 
-##### § 48a Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung
 
-(1) Für die Erstellung, den Inhalt und die Prüfung und Bestätigung des
-Jahresberichts und des Lageberichts eines geschlossenen inländischen
-Spezial-AIF, für dessen Rechnung eine AIF-
-Kapitalverwaltungsgesellschaft, die die Voraussetzungen des § 2 Absatz
-4 erfüllt, Gelddarlehen gemäß § 285 Absatz 2 vergibt, gelten § 45
-Absatz 2 sowie die §§ 46, 47 und 48 Absatz 2 entsprechend. Der
-Abschlussprüfer hat bei seiner Prüfung auch festzustellen, ob die AIF-
-Kapitalverwaltungsgesellschaft die Bestimmungen dieses Gesetzes
-beachtet hat. Der Prüfungsbericht ist der Bundesanstalt auf Verlangen
-vom Abschlussprüfer einzureichen.
+##### § 48a (weggefallen)
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Justiz und für
-Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang
-und Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur
-Art und Weise der Einreichung des Prüfungsberichts bei der
-Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der
-Bundesanstalt erforderlich ist, insbesondere um einheitliche
-Unterlagen zur Beurteilung der Tätigkeit von AIF-
-Kapitalverwaltungsgesellschaften, die Gelddarlehen gemäß § 285 Absatz
-2 für Rechnung von inländischen geschlossenen Spezial-AIF vergeben, zu
-erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung
-durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 #### Unterabschnitt 5 - Grenzüberschreitender Dienstleistungsverkehr bei OGAW-Verwaltungsgesellschaften
@@ -9730,14 +9602,17 @@ Gesellschaft an eine geeignete Stelle zu melden.
 
 (1) Auf den Jahresabschluss und den Lagebericht einer
 Investmentaktiengesellschaft mit veränderlichem Kapital sind die
-Vorschriften des Dritten Buches des Handelsgesetzbuchs anzuwenden,
-soweit sich aus den folgenden Vorschriften nichts anderes ergibt. Die
-gesetzlichen Vertreter einer OGAW-Investmentaktiengesellschaft mit
-veränderlichem Kapital haben den Jahresabschluss und den Lagebericht
-spätestens vier Monate und die gesetzlichen Vertreter einer AIF-
+Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts des
+Dritten Buches des Handelsgesetzbuchs anzuwenden, soweit sich aus den
+folgenden Vorschriften nichts anderes ergibt. Die gesetzlichen
+Vertreter einer OGAW-Investmentaktiengesellschaft mit veränderlichem
+Kapital haben den Jahresabschluss und den Lagebericht spätestens vier
+Monate und die gesetzlichen Vertreter einer AIF-
 Publikumsinvestmentaktiengesellschaft mit veränderlichem Kapital und
 einer Spezialinvestmentaktiengesellschaft mit veränderlichem Kapital
-spätestens sechs Monate nach Ende des Geschäftsjahres aufzustellen.
+spätestens sechs Monate nach Ende des Geschäftsjahres aufzustellen. §
+264 Absatz 1 Satz 4, Absatz 3 und 4 des Handelsgesetzbuchs ist nicht
+anzuwenden.
 
 (2) Die Bilanz ist in Staffelform aufzustellen. Auf Gliederung, Ansatz
 und Bewertung von dem Sondervermögen vergleichbaren
@@ -9751,30 +9626,31 @@ anzuwenden.
 (4) Der Anhang ist um die Angaben nach § 101 Absatz 1, bei
 Spezialinvestmentaktiengesellschaften mit veränderlichem Kapital ohne
 die Angabe nach § 101 Absatz 1 Satz 3 Nummer 6, zu ergänzen, die nicht
-bereits nach den Absätzen 3, 6 und 7 zu machen sind. Bei
+bereits nach den Absätzen 3, 5 und 6 zu machen sind. Bei
 Publikumsinvestmentaktiengesellschaften mit veränderlichem Kapital
 sind in den Anhang die Angaben nach § 101 Absatz 2 aufzunehmen.
 
-(5) Der Lagebericht ist um die Angaben nach § 101 Absatz 1 Satz 2 zu
+(5) Zusätzlich zu den in den Absätzen 1 bis 4 und 6 genannten Angaben
+sind im Anhang des Jahresabschlusses einer AIF-
+Investmentaktiengesellschaft mit veränderlichem Kapital noch die
+Angaben nach § 101 Absatz 3 zu machen. § 101 Absatz 3 Satz 2 ist
+anzuwenden. Zusätzlich zu den in den Absätzen 1 bis 4 und 6 genannten
+Angaben sind im Anhang des Jahresabschlusses einer OGAW-
+Investmentaktiengesellschaft mit veränderlichem Kapital noch die
+Angaben nach § 101 Absatz 4 zu machen mit der Maßgabe, dass an die
+Stelle des inländischen OGAW-Sondervermögens in § 101 Absatz 4 Nummer
+1 die OGAW-Investmentaktiengesellschaft mit veränderlichem Kapital
+tritt.
+
+(6) Der Lagebericht ist um die Angaben nach § 101 Absatz 1 Satz 2 zu
 ergänzen. Die Tätigkeiten einer Kapitalverwaltungsgesellschaft, die
 diese als externe Kapitalverwaltungsgesellschaft ausübt, sind
 gesondert aufzuführen.
 
-(6) Zusätzlich zu den in den Absätzen 1 bis 5 genannten Angaben sind
-im Anhang des Jahresabschlusses einer AIF-Investmentaktiengesellschaft
-mit veränderlichem Kapital noch die Angaben nach § 101 Absatz 3 zu
-machen. § 101 Absatz 3 Satz 2 ist anzuwenden. Zusätzlich zu den in den
-Absätzen 1 bis 5 genannten Angaben sind im Anhang des
-Jahresabschlusses einer OGAW-Investmentaktiengesellschaft mit
-veränderlichem Kapital noch die Angaben nach § 101 Absatz 4 zu machen
-mit der Maßgabe, dass an die Stelle des inländischen OGAW-
-Sondervermögens in § 101 Absatz 4 Nummer 1 die OGAW-
-Investmentaktiengesellschaft mit veränderlichem Kapital tritt.
-
 (7) Soweit die AIF-Investmentaktiengesellschaft mit veränderlichem
 Kapital nach § 114 des Wertpapierhandelsgesetzes verpflichtet ist,
 einen Jahresfinanzbericht zu erstellen, sind den Anlegern auf Antrag
-lediglich die Angaben nach den Absätzen 3 bis 7 zusätzlich vorzulegen.
+lediglich die Angaben nach den Absätzen 3 bis 6 zusätzlich vorzulegen.
 Die Übermittlung dieser Angaben kann gesondert oder in Form einer
 Ergänzung zum Jahresfinanzbericht erfolgen. Im letzteren Fall ist der
 Jahresfinanzbericht spätestens vier Monate nach Ende des
@@ -9911,34 +9787,40 @@ Publikumsinvestmentaktiengesellschaft mit veränderlichem Kapital sind
 die §§ 120 und 121 entsprechend anzuwenden.
 
 
-##### § 123 Offenlegung und Vorlage von Berichten
+##### § 123 Offenlegung und Vorlage des Jahresabschlusses und Lageberichts sowie des Halbjahresberichts
 
-(1) Die Offenlegung des Jahresabschlusses und des Lageberichts hat
-unverzüglich nach seiner Vorlage an die Gesellschafter, jedoch bei
+(1) Auf die Offenlegung des Jahresabschlusses und des Lageberichts
+einer Investmentaktiengesellschaft mit veränderlichem Kapital sind die
+Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts des
+Dritten Buches des Handelsgesetzbuchs mit der Maßgabe anzuwenden, dass
 
-1.  einer OGAW-Investmentaktiengesellschaft spätestens vier Monate nach
-    Ablauf des Geschäftsjahres,
+1.  die Frist zur Offenlegung nach § 325 Absatz 1a Satz 1 des
+    Handelsgesetzbuchs bei einer OGAW-Investmentaktiengesellschaft vier
+    Monate und bei einer AIF-Publikumsinvestmentaktiengesellschaft mit
+    veränderlichem Kapital sechs Monate beträgt und
 
 
-2.  einer AIF-Publikumsinvestmentaktiengesellschaft mit veränderlichem
-    Kapital spätestens sechs Monate nach Ablauf des Geschäftsjahres
+2.  die größenabhängigen Erleichterungen bei der Offenlegung nach den §§
+    326 und 327 des Handelsgesetzbuchs bei einer
+    Investmentaktiengesellschaft, die in Nummer 1 genannt ist, nicht in
+    Anspruch genommen werden dürfen.
 
 
 
-nach Maßgabe der Vorschriften des Vierten Unterabschnitts des Zweiten
-Abschnitts des Dritten Buches des Handelsgesetzbuchs zu erfolgen. Die
-Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuchs
-sind auf die Verletzung von Pflichten des vertretungsberechtigten
-Organs der Investmentaktiengesellschaft mit veränderlichem Kapital
-entsprechend anzuwenden.
+Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
+Handelsgesetzbuchs sind auf die Verletzung von Pflichten der
+Mitglieder des vertretungsberechtigten Organs der
+Investmentaktiengesellschaft mit veränderlichem Kapital entsprechend
+anzuwenden.
 
 (2) Die Offenlegung des Halbjahresberichts erfolgt nach Maßgabe des §
 115 des Wertpapierhandelsgesetzes. Der Halbjahresbericht ist
 unverzüglich im Bundesanzeiger zu veröffentlichen.
 
-(3) Die Berichte nach den Absätzen 1 und 2 müssen dem Publikum an den
-Stellen zugänglich sein, die im Verkaufsprospekt und in den
-wesentlichen Anlegerinformationen angegebenen sind.
+(3) Der Jahresabschluss und der Lagebericht nach Absatz 1 sowie der
+Halbjahresbericht nach Absatz 2 müssen dem Publikum an den Stellen
+zugänglich sein, die im Verkaufsprospekt und in den wesentlichen
+Anlegerinformationen angegebenen sind.
 
 (4) Einem Anleger der Investmentaktiengesellschaft mit veränderlichem
 Kapital sind der Jahresabschluss und der Lagebericht auf Anfrage
@@ -10295,13 +10177,13 @@ anzuwenden.
 nach § 101 Absatz 1 Satz 3 Nummer 6, zu ergänzen, die nicht bereits
 nach den Absätzen 3, 4, 6 und 7 zu machen sind.
 
-(6) Der Lagebericht ist um die Angaben nach § 101 Absatz 1 Satz 2 zu
+(6) Der Anhang hat zusätzlich die Angaben nach § 101 Absatz 3 zu
+enthalten. § 101 Absatz 3 Satz 2 ist anzuwenden.
+
+(7) Der Lagebericht ist um die Angaben nach § 101 Absatz 1 Satz 2 zu
 ergänzen. Die Tätigkeiten einer Kapitalverwaltungsgesellschaft, die
 diese als externe Kapitalverwaltungsgesellschaft ausübt, sind
 gesondert aufzuführen.
-
-(7) Der Lagebericht hat zusätzlich die Angaben nach § 101 Absatz 3 zu
-enthalten. § 101 Absatz 3 Satz 2 ist anzuwenden.
 
 (8) Soweit die offene Investmentkommanditgesellschaft nach § 114 des
 Wertpapierhandelsgesetzes verpflichtet ist, einen Jahresfinanzbericht
@@ -10346,9 +10228,9 @@ Ergebnis der Prüfung hat der Abschlussprüfer in einem besonderen
 Vermerk zusammenzufassen; der Vermerk ist in vollem Wortlaut im
 Jahresabschluss wiederzugeben.
 
-(2) Die Zuweisung von Gewinnen, Verlusten, Einnahmen, Ausgaben,
-Einlagen und Entnahmen zu den einzelnen Kapitalkonten ist vom
-Abschlussprüfer zu prüfen und deren Ordnungsmäßigkeit zu bestätigen.
+(2) Die Zuweisung von Gewinnen, Verlusten, Einlagen und Entnahmen zu
+den einzelnen Kapitalkonten ist vom Abschlussprüfer zu prüfen und
+deren Ordnungsmäßigkeit zu bestätigen.
 
 (3) Der Abschlussprüfer hat bei seiner Prüfung auch festzustellen, ob
 die offene Investmentkommanditgesellschaft die Bestimmungen dieses
@@ -10377,8 +10259,7 @@ Anforderungen nach den §§ 36 und 37 sowie die Anforderungen nach
     (EU) 2017/2402,
 
 
-6.  den Artikeln 3 bis 13 der Verordnung (EU)
-    2019/2088                    sowie
+6.  den Artikeln 3 bis 13 der Verordnung (EU) 2019/2088 sowie
 
 
 7.  den Artikeln 5 bis 7 der Verordnung (EU) 2020/852
@@ -22736,6 +22617,14 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     auflistet,
 
 
+13a. entgegen § 38 Absatz 1 Satz 2 in Verbindung mit § 26 Absatz 1 Satz 1
+    oder 3 des Kreditwesengesetzes, entgegen § 102 Satz 6, § 107 Absatz 3
+    Satz 1 oder § 121 Absatz 3 Satz 4, auch in Verbindung mit § 148 Absatz
+    1, oder entgegen § 136 Absatz 3 Satz 4, auch in Verbindung mit § 159
+    Satz 2, einen dort genannten Bericht nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig einreicht,
+
+
 14. die Erlaubnis einer Kapitalverwaltungsgesellschaft gemäß § 39 Absatz 3
     Nummer 1 auf Grund falscher Erklärungen oder auf sonstige
     rechtswidrige Weise erwirkt hat,
@@ -22745,6 +22634,11 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     Delegierten Verordnung (EU) Nr. 231/2013, oder entgegen § 44 Absatz 8
     eine Information nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig übermittelt,
+
+
+15a. entgegen § 45a Absatz 5 oder § 123 Absatz 5 einen dort genannten
+    Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    übermittelt,
 
 
 16. entgegen
@@ -22865,10 +22759,9 @@ Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     oder nicht rechtzeitig bekannt macht,
 
 
-32. entgegen § 107 Absatz 3 oder § 123 Absatz 5 einen dort genannten
-    Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    übermittelt oder nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig der Bundesanstalt zur Verfügung stellt,
+32. entgegen § 107 Absatz 3 Satz 2 einen dort genannten Bericht nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
+    stellt,
 
 
 33. ohne eine Erlaubnis nach § 113 Absatz 1 Satz 1 das Geschäft einer
@@ -23580,17 +23473,17 @@ gemeinsame Anlagen und zur Änderung der Verordnungen (EU) Nr.
     1, 3 bis 7, 9, 10, 13, 14, 25 bis 30, 33 bis 35, 76, 77, 81, des
     Absatzes 6b Nummer 8, des Absatzes 6c Nummer 1 sowie der Absätze 6d
     bis 6f und bei einer wiederholten Vornahme einer der in Absatz 1
-    Nummer 2 und 3 oder in Absatz 2 Nummer 24, 31, 32, 37, 38, 40, 41, 49
-    bis 63, 65, 72, 73, 78, 79 und 80 aufgeführten Handlungen mit einer
-    Geldbuße bis zu fünf Millionen Euro; gegenüber einer juristischen
-    Person oder einer Personenvereinigung kann über diesen Betrag hinaus
-    eine Geldbuße in Höhe bis zu 10 Prozent des jährlichen Gesamtumsatzes
-    verhängt werden;
+    Nummer 2 und 3 oder in Absatz 2 Nummer 13a, 15a, 24, 31, 32, 37, 38,
+    40, 41, 49 bis 63, 65, 72, 73, 78, 79 und 80 aufgeführten Handlungen
+    mit einer Geldbuße bis zu fünf Millionen Euro; gegenüber einer
+    juristischen Person oder einer Personenvereinigung kann über diesen
+    Betrag hinaus eine Geldbuße in Höhe bis zu 10 Prozent des jährlichen
+    Gesamtumsatzes verhängt werden;
 
 
 2.  in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1a,
-    2, 8, 11, 12, 15 bis 24, 31, 32, 37, 38, 40, 41, 43 bis 46, 49 bis 62,
-    63 bis 67, 70 bis 73, 78 und 80, des Absatzes 4 Nummer 3, 4 und 7, des
+    2, 8, 11, 12, 15 bis 24, 31, 37, 38, 40, 41, 43 bis 46, 49 bis 62, 63
+    bis 67, 70 bis 73, 78 und 80, des Absatzes 4 Nummer 3, 4 und 7, des
     Absatzes 5 Nummer 3, 4 und 7, des Absatzes 6 Nummer 5, 11 und 13, des
     Absatzes 6b Nummer 1, 5 und 7 und des Absatzes 6c Nummer 2 und 3 mit
     einer Geldbuße bis zu einer Million Euro; gegenüber einer juristischen
@@ -23632,9 +23525,8 @@ Nachteile und kann geschätzt werden.
 
 2.  im Fall von Versicherungsunternehmen der sich aus dem auf das
     Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit
-    Artikel 63 der Richtlinie
-    91/674/EWG                    des Rates vom 19. Dezember 1991 über den
-    Jahresabschluss und den konsolidierten Abschluss von
+    Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991
+    über den Jahresabschluss und den konsolidierten Abschluss von
     Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7) ergebende
     Gesamtbetrag, abzüglich der Umsatzsteuer und sonstigen direkt auf
     diese Erträge erhobenen Steuern,
@@ -23834,8 +23726,7 @@ Tätigkeiten im Sinne des § 20 ausüben, haben alle erforderlichen
 Maßnahmen zu ergreifen, um den Rechtsvorschriften dieses Gesetzes
 nachzukommen. Sie haben vor Ablauf des 21. Juli 2014 die Erlaubnis
 nach den §§ 20 und 22 oder, wenn sie die Voraussetzungen des § 2
-Absatz 4, 4a oder Absatz 5 erfüllen, die Registrierung nach § 44 zu
-beantragen.
+Absatz 4 erfüllen, die Registrierung nach § 44 zu beantragen.
 
 (2) EU-AIF-Verwaltungsgesellschaften, die vor dem 22. Juli 2013
 inländische Spezial-AIF im Sinne des § 54 verwalten, haben alle
@@ -23885,17 +23776,17 @@ Aktie gerichteten schuldrechtlichen Verpflichtungsgeschäfts einen
 Anteil oder eine Aktie des AIF gezeichnet hat.
 
 (5) AIF-Kapitalverwaltungsgesellschaften im Sinne des Absatzes 1, die
-weder die Voraussetzungen des § 2 Absatz 4, 4a oder Absatz 5 erfüllen
-noch binnen der in Absatz 1 Satz 2 vorgesehenen Frist einen
-Erlaubnisantrag stellen oder denen die Erlaubnis gemäß § 23 versagt
-wurde, können mit Zustimmung von Anlegern, die mehr als 50 Prozent der
-Anteile des AIF halten, die Abwicklung des inländischen AIF binnen
-drei Monaten nach Ablauf der in Absatz 1 Satz 2 genannten Frist oder
-nach Versagung der Erlaubnis dadurch abwenden, dass sie die Verwaltung
-auf eine AIF-Kapitalverwaltungsgesellschaft übertragen, die über eine
-Erlaubnis nach den §§ 20 und 22 verfügt und sich zur Übernahme der
-Verwaltung bereit erklärt. Die Bundesanstalt kann im öffentlichen
-Interesse bestimmen, dass die Verwaltung des AIF auf eine AIF-
+weder die Voraussetzungen des § 2 Absatz 4 erfüllen noch binnen der in
+Absatz 1 Satz 2 vorgesehenen Frist einen Erlaubnisantrag stellen oder
+denen die Erlaubnis gemäß § 23 versagt wurde, können mit Zustimmung
+von Anlegern, die mehr als 50 Prozent der Anteile des AIF halten, die
+Abwicklung des inländischen AIF binnen drei Monaten nach Ablauf der in
+Absatz 1 Satz 2 genannten Frist oder nach Versagung der Erlaubnis
+dadurch abwenden, dass sie die Verwaltung auf eine AIF-
+Kapitalverwaltungsgesellschaft übertragen, die über eine Erlaubnis
+nach den §§ 20 und 22 verfügt und sich zur Übernahme der Verwaltung
+bereit erklärt. Die Bundesanstalt kann im öffentlichen Interesse
+bestimmen, dass die Verwaltung des AIF auf eine AIF-
 Kapitalverwaltungsgesellschaft, die über eine Erlaubnis nach den §§ 20
 und 22 verfügt und sich zur Übernahme der Verwaltung bereit erklärt,
 übergeht. Die Verwaltung von inländischen Spezial-AIF kann auch auf
@@ -23951,12 +23842,8 @@ Wirtschaftsraum Teil des innerstaatlichen Rechts oder in
 innerstaatliches Recht umgesetzt sind.
 
 
-##### § 344a Übergangsvorschrift zum Kleinanlegerschutzgesetz
+##### § 344a (weggefallen)
 
-§ 45 Absatz 3 Satz 3 und § 123 Absatz 1 Satz 2 in der Fassung des
-Kleinanlegerschutzgesetzes vom 3. Juli 2015 (BGBl. I S. 1114) sind
-erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre
-anzuwenden, die nach dem 31. Dezember 2014 beginnen.
 
 
 #### Unterabschnitt 2 - Besondere Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten
@@ -24695,29 +24582,29 @@ ablief und die für einen Zeitraum aufgelegt wurden, der spätestens am
 ausländische AIF-Verwaltungsgesellschaften entsprechend Anwendung.
 
 (4) Für AIF-Kapitalverwaltungsgesellschaften, die nicht die
-Voraussetzungen des § 2 Absatz 4, 4a oder Absatz 5 erfüllen und die
-geschlossene inländische AIF verwalten, deren Zeichnungsfrist vor dem
-22\. Juli 2013 abgelaufen ist und die nach dem 21. Juli 2013 Anlagen
-tätigen, gelten ab Eingang des Erlaubnisantrags gemäß § 22 bei der
-Bundesanstalt für die Verwaltung dieser geschlossenen inländischen AIF
-nur die §§ 1 bis 43, 53 bis 67, 80 bis 90, 158 Satz 1 in Verbindung
-mit § 135 Absatz 7 und 8, § 158 Satz 2, § 261 Absatz 1 Nummer 8 und
-Absatz 7, § 263 Absatz 2, die §§ 271, 272, 274, 285 Absatz 2 und 3, §§
-286 bis 292, 300, 303, 308 und 339 bis 344, 352 bis 354 entsprechend;
-sofern allerdings der Gesellschaftsvertrag oder eine sonstige
-Vereinbarung, die das Rechtsverhältnis zwischen den Anlegern und einem
-solchen geschlossenen inländischen AIF regelt, bereits vor dem 18.
-März 2016 Regelungen im rechtlich zulässigen Rahmen zur Vergabe von
-Gelddarlehen an Unternehmen, an denen der AIF bereits beteiligt ist,
-für Rechnung des AIF enthält, können auch ab dem 18. März 2016
-Gelddarlehen entsprechend diesen Regelungen vergeben werden und finden
-die darüber hinausgehenden Beschränkungen des § 285 Absatz 3, auch in
-Verbindung mit § 261 Absatz 1 Nummer 8, keine Anwendung. Treffen
-Vorschriften, die nach Satz 1 entsprechend anzuwenden sind, Regelungen
-für geschlossene AIF, sind geschlossene AIF nach Satz 1 auch
-geschlossene AIF im Sinne dieser Vorschriften. Abweichend von Satz 2
-sind sie jedoch nur dann geschlossene AIF im Sinne der §§ 30, 272 und
-286 Absatz 2, wenn sie die Voraussetzungen von Artikel 1 Absatz 3 der
+Voraussetzungen des § 2 Absatz 4 erfüllen und die geschlossene
+inländische AIF verwalten, deren Zeichnungsfrist vor dem 22. Juli 2013
+abgelaufen ist und die nach dem 21. Juli 2013 Anlagen tätigen, gelten
+ab Eingang des Erlaubnisantrags gemäß § 22 bei der Bundesanstalt für
+die Verwaltung dieser geschlossenen inländischen AIF nur die §§ 1 bis
+43, 53 bis 67, 80 bis 90, 158 Satz 1 in Verbindung mit § 135 Absatz 6
+und 8, § 158 Satz 2, § 261 Absatz 1 Nummer 8 und Absatz 7, § 263
+Absatz 2, die §§ 271, 272, 274, 285 Absatz 2 und 3, §§ 286 bis 292,
+300, 303, 308 und 339 bis 344, 352 bis 354 entsprechend; sofern
+allerdings der Gesellschaftsvertrag oder eine sonstige Vereinbarung,
+die das Rechtsverhältnis zwischen den Anlegern und einem solchen
+geschlossenen inländischen AIF regelt, bereits vor dem 18. März 2016
+Regelungen im rechtlich zulässigen Rahmen zur Vergabe von Gelddarlehen
+an Unternehmen, an denen der AIF bereits beteiligt ist, für Rechnung
+des AIF enthält, können auch ab dem 18. März 2016 Gelddarlehen
+entsprechend diesen Regelungen vergeben werden und finden die darüber
+hinausgehenden Beschränkungen des § 285 Absatz 3, auch in Verbindung
+mit § 261 Absatz 1 Nummer 8, keine Anwendung. Treffen Vorschriften,
+die nach Satz 1 entsprechend anzuwenden sind, Regelungen für
+geschlossene AIF, sind geschlossene AIF nach Satz 1 auch geschlossene
+AIF im Sinne dieser Vorschriften. Abweichend von Satz 2 sind sie
+jedoch nur dann geschlossene AIF im Sinne der §§ 30, 272 und 286
+Absatz 2, wenn sie die Voraussetzungen von Artikel 1 Absatz 3 der
 Delegierten Verordnung (EU) Nr. 694/2014 erfüllen. Erfüllen
 geschlossene AIF im Sinne von Satz 1 nicht zugleich die
 Voraussetzungen von Artikel 1 Absatz 3 der Delegierten Verordnung (EU)
@@ -24729,31 +24616,15 @@ deren Zeichnungsfrist vor dem 22. Juli 2013 abgelaufen ist und die
 nach dem 21. Juli 2013 Anlagen tätigen, durch EU-AIF-
 Verwaltungsgesellschaften entsprechend anzuwenden.
 
-(5) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen
-des § 2 Absatz 5 erfüllen und die geschlossene inländische AIF
-verwalten, deren Zeichnungsfrist vor dem 22. Juli 2013 abgelaufen ist
-und die nach dem 21. Juli 2013 Anlagen tätigen, sind ab Eingang des
-Registrierungsantrags gemäß § 44 bei der Bundesanstalt für die
-Verwaltung dieser geschlossenen inländischen AIF abweichend von § 2
-Absatz 5 Satz 1 nur die §§ 1 bis 17, 26 bis 28, 42, 44 bis 48, 80 bis
-90, 261 Absatz 7, § 263 Absatz 2, die §§ 271, 272, 339 bis 343, 353
-und 354 entsprechend anzuwenden; dabei richtet sich die Ausgestaltung
-der in den §§ 26 bis 28 geforderten Verhaltens- und
-Organisationspflichten nach dem Prinzip der Verhältnismäßigkeit, indem
-die Art, der Umfang und die Komplexität der Geschäfte der AIF-
-Kapitalverwaltungsgesellschaft und der von der AIF-
-Kapitalverwaltungsgesellschaft verwalteten AIF berücksichtigt werden.
-Treffen Vorschriften, die nach Satz 1 entsprechend anzuwenden sind,
-Regelungen für geschlossene AIF, sind geschlossene AIF nach Satz 1
-auch geschlossene AIF im Sinne dieser Vorschriften. Abweichend von
-Satz 2 sind sie jedoch nur dann geschlossene AIF im Sinne von § 272,
-wenn sie die Voraussetzungen von Artikel 1 Absatz 3 der Delegierten
-Verordnung (EU) Nr. 694/2014 erfüllen. Erfüllen geschlossene AIF im
-Sinne von Satz 1 nicht zugleich die Voraussetzungen von Artikel 1
-Absatz 3 der Delegierten Verordnung (EU) Nr. 694/2014, gilt für die
-Häufigkeit der Bewertung der Vermögensgegenstände und die Berechnung
-des Nettoinventarwertes je Anteil oder Aktie § 217 Absatz 1 und 2
-entsprechend.
+(5) Für AIF-Kapitalverwaltungsgesellschaften, die geschlossene
+inländische Publikums-AIF verwalten und am 16. August 2021 nach § 44
+Absatz 1 und 4 in der bis zum 16. August 2021 geltenden Fassung
+registriert waren, weil sie die Bedingungen nach § 2 Absatz 4a oder 5
+in der bis zum 16. August 2021 geltenden Fassung dieses Gesetzes
+erfüllt haben, sind für die von ihnen bis zum 16. August 2021
+aufgelegten Publikums-AIF die Vorschriften dieses Gesetzes in der bis
+zum 16. August 2021 gültigen Fassung anzuwenden. Für am 17. August
+2021 bestehende AIF dürfen keine neuen Anteile ausgegeben werden.
 
 (6) Für AIF-Kapitalverwaltungsgesellschaften, die geschlossene
 inländische AIF verwalten, die vor dem 22. Juli 2013 aufgelegt wurden,
@@ -24815,13 +24686,10 @@ vor dem 19. Juli 2014 erteilte Genehmigung von Anlagebedingungen gemäß
 § 268 oder mitgeteilte Vertriebsfreigabe gemäß § 316 Absatz 3 oder §
 321 Absatz 3 erlöschen am 19. Juli 2014, wenn der inländische AIF
 nicht vor dem 19. Juli 2014 im Sinne von § 343 Absatz 4 aufgelegt
-wurde. Entsprechendes gilt für die Registrierung einer AIF-
-Kapitalverwaltungsgesellschaft nach § 2 Absatz 4a in Verbindung mit §
-44, die beabsichtigt, einen AIF im Sinne des Satzes 1 zu verwalten.
-Der Antrag einer AIF-Kapitalverwaltungsgesellschaft, der auf eine
-Genehmigung der Anlagebedingungen eines inländischen AIF im Sinne von
-Satz 1 durch die Bundesanstalt nach diesem Gesetz in der bis zum 18.
-Juli 2014 geltenden Fassung gerichtet ist und der vor dem 19. Juli
+wurde. Der Antrag einer AIF-Kapitalverwaltungsgesellschaft, der auf
+eine Genehmigung der Anlagebedingungen eines inländischen AIF im Sinne
+von Satz 1 durch die Bundesanstalt nach diesem Gesetz in der bis zum
+18\. Juli 2014 geltenden Fassung gerichtet ist und der vor dem 19. Juli
 2014 bei der Bundesanstalt eingegangen ist, jedoch bis zum Ablauf des
 18\. Juli 2014 noch nicht genehmigt war, gilt als am 19. Juli 2014
 gestellter Antrag auf Genehmigung der Anlagebedingungen nach diesem
@@ -24858,17 +24726,14 @@ von Anlagebedingungen nach § 268 oder mitgeteilte Vertriebsfreigabe
 gemäß § 316 Absatz 3 oder § 321 Absatz 3 erlöschen am 19. Januar 2015,
 wenn die nach Satz 1 geänderten Anlagebedingungen und gegebenenfalls
 die Satzung oder der Gesellschaftsvertrag der AIF nicht bis zum 19.
-Januar 2015 in Kraft getreten sind. Entsprechendes gilt für die
-Registrierung einer AIF-Kapitalverwaltungsgesellschaft nach § 2 Absatz
-4a in Verbindung mit § 44, die einen AIF im Sinne des Satzes 1
-verwaltet. Bis zum 19. Januar 2015 sind die Anleger in dem
-Verkaufsprospekt und den wesentlichen Anlegerinformationen
-drucktechnisch herausgestellt an hervorgehobener Stelle auf die
-notwendige Anpassung der Rückgaberechte an die Anforderungen in
-Artikel 1 Absatz 5 der der Delegierten Verordnung (EU) Nr. 694/2014
-und die Folgen einer unterbliebenen Anpassung hinzuweisen. Bei
-Spezial-AIF muss dieser Hinweis im Rahmen der Informationen gemäß §
-307 erfolgen.
+Januar 2015 in Kraft getreten sind. Bis zum 19. Januar 2015 sind die
+Anleger in dem Verkaufsprospekt und den wesentlichen
+Anlegerinformationen drucktechnisch herausgestellt an hervorgehobener
+Stelle auf die notwendige Anpassung der Rückgaberechte an die
+Anforderungen in Artikel 1 Absatz 5 der der Delegierten Verordnung
+(EU) Nr. 694/2014 und die Folgen einer unterbliebenen Anpassung
+hinzuweisen. Bei Spezial-AIF muss dieser Hinweis im Rahmen der
+Informationen gemäß § 307 erfolgen.
 
 (12) Für den Vertrieb von geschlossenen EU-AIF und ausländischen
 geschlossenen AIF, die
@@ -24925,11 +24790,11 @@ die Anwendung der in Satz 1 genannten Vorschriften beschließt.
 ##### § 353b Übergangsvorschriften zu § 285 Absatz 3
 
 § 20 Absatz 9 Satz 1 und § 285 Absatz 3, auch in Verbindung mit § 2
-Absatz 4, 4a und 5, § 261 Absatz 1 Nummer 8, § 282 Absatz 2 Satz 3 und
-§ 284 Absatz 5, in der ab dem 18. März 2016 geltenden Fassung sind
-nicht anzuwenden auf Gelddarlehen, die vor dem 18. März 2016 für
-Rechnung von inländischen AIF an Unternehmen gewährt wurden, an denen
-der inländische AIF bereits beteiligt war. Für nach dem 18. März 2016
+Absatz 4, § 261 Absatz 1 Nummer 8, § 282 Absatz 2 Satz 3 und § 284
+Absatz 5, in der ab dem 18. März 2016 geltenden Fassung sind nicht
+anzuwenden auf Gelddarlehen, die vor dem 18. März 2016 für Rechnung
+von inländischen AIF an Unternehmen gewährt wurden, an denen der
+inländische AIF bereits beteiligt war. Für nach dem 18. März 2016
 vergebene Gelddarlehen sind in die Berechnung der Begrenzung nach §
 285 Absatz 3 Satz 1 auf höchstens 50 Prozent des aggregierten
 eingebrachten und noch nicht eingeforderten zugesagten Kapitals des
@@ -25151,4 +25016,16 @@ Geschäftsjahr anzuwenden. § 148 Absatz 1 und § 160 Absatz 1 in der bis
 einschließlich 1. August 2021 geltenden Fassung sind letztmals
 anzuwenden auf Rechnungsunterlagen und Jahresberichte für das vor dem
 1\. Januar 2021 beginnende Geschäftsjahr.
+
+
+##### § 363 Übergangsvorschrift zum Gesetz zur weiteren Stärkung des Anlegerschutzes
+
+Die §§ 45 bis 47, 123 und 135 in der ab 17. August 2021 geltenden
+Fassung sind erstmals auf Jahresabschlüsse, Lageberichte und
+Jahresberichte für das nach dem 31. Dezember 2020 beginnende
+Geschäftsjahr anzuwenden. Die §§ 46 bis 48a und die §§ 123 und 135 in
+der bis einschließlich 16. August 2021 geltenden Fassung sind
+letztmals anzuwenden auf Jahresberichte, Jahresabschlüsse und
+Lageberichte für das vor dem 1. Januar 2021 beginnende Geschäftsjahr;
+§ 353 Absatz 5 Satz 1 bleibt unberührt.
 

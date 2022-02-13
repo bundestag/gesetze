@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 597
 
-Änderung durch
-:   Art. 22 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 22 G v. 27.7.2021 I 3146
 
 Stand: Ersetzt V 8053-4-9 v. 25.6.1992 I 1171 (GSGV 6)
 [^F1_793498_BJNR059710016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/29/EU des

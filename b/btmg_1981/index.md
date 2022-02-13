@@ -74,11 +74,12 @@ Kontrolle des Betäubungsmittelverkehrs gewährleistet bleiben.
 (3) Das Bundesministerium für Gesundheit wird ermächtigt in dringenden
 Fällen zur Sicherheit oder zur Kontrolle des Betäubungsmittelverkehrs
 durch Rechtsverordnung ohne Zustimmung des Bundesrates Stoffe und
-Zubereitungen, die nicht Arzneimittel sind, in die Anlagen I bis III
-aufzunehmen, wenn dies wegen des Ausmaßes der mißbräuchlichen
-Verwendung und wegen der unmittelbaren oder mittelbaren Gefährdung der
-Gesundheit erforderlich ist. Eine auf der Grundlage dieser Vorschrift
-erlassene Verordnung tritt nach Ablauf eines Jahres außer Kraft.
+Zubereitungen, die nicht Arzneimittel oder Tierarzneimittel sind, in
+die Anlagen I bis III aufzunehmen, wenn dies wegen des Ausmaßes der
+mißbräuchlichen Verwendung und wegen der unmittelbaren oder
+mittelbaren Gefährdung der Gesundheit erforderlich ist. Eine auf der
+Grundlage dieser Vorschrift erlassene Verordnung tritt nach Ablauf
+eines Jahres außer Kraft.
 
 (4) Das Bundesministerium für Gesundheit (Bundesministerium) wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
@@ -215,10 +216,10 @@ Interesse liegenden Zwecken erteilen.
 
 
 2.  im Rahmen des Betriebs einer tierärztlichen Hausapotheke in Anlage III
-    bezeichnete Betäubungsmittel in Form von Fertigarzneimitteln
+    bezeichnete Betäubungsmittel in Form von Tierarzneimitteln
 
     a)  für ein von ihm behandeltes Tier miteinander, mit anderen
-        Fertigarzneimitteln oder arzneilich nicht wirksamen Bestandteilen zum
+        Tierarzneimitteln oder arzneilich nicht wirksamen Bestandteilen zum
         Zwecke der Anwendung durch ihn oder für die Immobilisation eines von
         ihm behandelten Zoo-, Wild- und Gehegetieres mischt,
 
@@ -288,12 +289,14 @@ Interesse liegenden Zwecken erteilen.
 
 6.  in Anlage I, II oder III bezeichnete Betäubungsmittel als Proband oder
     Patient im Rahmen einer klinischen Prüfung oder in Härtefällen nach §
-    21 Absatz 2 Nummer 6 des Arzneimittelgesetzes in Verbindung mit
-    Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen
-    Parlaments und des Rates vom 31. März 2004 zur Festlegung von
-    Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human-
-    und Tierarzneimitteln und zur Errichtung einer Europäischen
-    Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1) erwirbt.
+    21 Absatz 2 Nummer 3 des Arzneimittelgesetzes in Verbindung mit
+    Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen
+    Parlaments und des Rates vom 31. März 2004 zur Festlegung der
+    Verfahren der Union für die Genehmigung und Überwachung von
+    Humanarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-
+    Agentur (ABl. L 136 vom 30.4.2004, S. 1), die zuletzt durch die
+    Verordnung (EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden
+    ist, erwirbt.
 
 
 
@@ -391,12 +394,23 @@ wird erbracht
     Sachkenntnis nach § 15 Absatz 1 des Arzneimittelgesetzes,
 
 
+1a. im Falle des Herstellens von Betäubungsmitteln oder ausgenommenen
+    Zubereitungen, die Tierarzneimittel sind, durch den Nachweis, dass die
+    vorgesehene verantwortliche Person die Voraussetzungen an eine
+    sachkundige Person nach Artikel 97 Absatz 2 und 3 der Verordnung (EU)
+    2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018
+    über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG
+    (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom
+    8\.10.2020, S. 15; L 241 vom 8.7.2021, S. 17) erfüllt,
+
+
 2.  im Falle des Herstellens von Betäubungsmitteln, die keine Arzneimittel
-    sind, durch das Zeugnis über eine nach abgeschlossenem
-    wissenschaftlichem Hochschulstudium der Biologie, der Chemie, der
-    Pharmazie, der Human- oder der Veterinärmedizin abgelegte Prüfung und
-    durch die Bestätigung einer mindestens einjährigen praktischen
-    Tätigkeit in der Herstellung oder Prüfung von Betäubungsmitteln,
+    oder Tierarzneimittel sind, durch das Zeugnis über eine nach
+    abgeschlossenem wissenschaftlichem Hochschulstudium der Biologie, der
+    Chemie, der Pharmazie, der Human- oder der Veterinärmedizin abgelegte
+    Prüfung und durch die Bestätigung einer mindestens einjährigen
+    praktischen Tätigkeit in der Herstellung oder Prüfung von
+    Betäubungsmitteln,
 
 
 3.  im Falle des Verwendens für wissenschaftliche Zwecke durch das Zeugnis

@@ -18701,7 +18701,7 @@ folgende Daten zu übermitteln:
 
 2             Bei einem gemeinsamen Freistellungsauftrag sind die
 Daten beider Ehegatten zu übermitteln.
-31             § 72a Absatz 4, § 93c Absatz 1 Nummer 3 und § 203a der
+3             § 72a Absatz 4, § 93c Absatz 1 Nummer 3 und § 203a der
 Abgabenordnung finden keine Anwendung.
 
 (2)

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2866
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.7.2021 I 2947
-
-Änderung durch
-:   Art. 35 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 35 G v. 10.8.2021 I 3436
 
 
 ## Erster Teil - Allgemeine Vorschriften

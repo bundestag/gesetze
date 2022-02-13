@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 671 (1019)
 
-Geändert durch
-:   Art. 1 V v. 23.4.2004 I 619
-
-Änderung durch
-:   Art. 26 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 26 G v. 5.10.2021 I 4607
 
 
 ## Eingangsformel

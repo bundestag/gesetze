@@ -39,8 +39,10 @@ Stand: Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nic
 ### § 1
 
 (1) Den Apotheken obliegt die im öffentlichen Interesse gebotene
-Sicherstellung einer ordnungsgemäßen Arzneimittelversorgung der
-Bevölkerung.
+Sicherstellung einer ordnungsgemäßen Versorgung der Bevölkerung mit
+Arzneimitteln. Arzneimittel im Sinne dieses Gesetzes sind
+Arzneimittel, die zur Anwendung beim Menschen bestimmt sind, und
+Tierarzneimittel.
 
 (2) Wer eine Apotheke und bis zu drei Filialapotheken betreiben will,
 bedarf der Erlaubnis der zuständigen Behörde.
@@ -371,7 +373,7 @@ erforderlich macht,
 
 a)  findet Absatz 1 keine Anwendung auf Arzneimittel, die von den
     Gesundheitsbehörden des Bundes oder der Länder oder von diesen
-    benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c des
+    benannten Stellen nach § 47 Absatz 1 Nummer 3c des
     Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des
     Arzneimittelgesetzes hergestellt wurden,
 
@@ -747,8 +749,9 @@ bedrohlichen übertragbaren Krankheit handelt, deren Ausbreitung eine
 sofortige und das übliche Maß erheblich überschreitende Bereitstellung
 von spezifischen Arzneimitteln erforderlich macht, und die von den
 Gesundheitsbehörden des Bundes oder der Länder oder von diesen
-benannten Stellen nach § 47 Abs. 1 Satz 1 Nr. 3c bevorratet oder nach
-§ 21 Absatz 2 Nummer 1c des Arzneimittelgesetzes hergestellt wurden.
+benannten Stellen nach § 47 Absatz 1 Nummer 3c des
+Arzneimittelgesetzes bevorratet oder nach § 21 Absatz 2 Nummer 1c des
+Arzneimittelgesetzes hergestellt wurden.
 
 
 ### § 15

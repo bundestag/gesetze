@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1946
 
 Zuletzt geändert durch
-:   Art. 11 G v. 11.2.2021 I 154
+:   Art. 11 G v. 11.2.2021 I 154; 2022 I 105
 
 
 ## Eingangsformel

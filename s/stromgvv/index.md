@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2391
 
 Zuletzt geändert durch
-:   Art. 4 V v. 14.3.2019 I 333
-
-Änderung durch
-:   Art. 1 V v. 22.11.2021 I 4946 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 22.11.2021 I 4946
 
 
 

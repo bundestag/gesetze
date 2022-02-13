@@ -2638,7 +2638,7 @@ Rechtsverordnungen entsprechend. Abweichend von
     Entscheidung sind zu berücksichtigen;
 
 
-3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 62 Euro
+3.  § 23 Absatz 3 des Bundesausbildungsförderungsgesetzes bleiben 66 Euro
     der Ausbildungsvergütung und abweichend von § 25 Absatz 1 des
     Bundesausbildungsförderungsgesetzes zusätzlich 709 Euro
     anrechnungsfrei, wenn die Ausbildungsstätte von der Wohnung der Eltern
@@ -2833,12 +2833,13 @@ erbracht wurden.
 
 ##### § 74 Assistierte Ausbildung
 
-(1) Die Agentur für Arbeit kann förderungsberechtige junge Menschen
-und deren Ausbildungsbetriebe während einer betrieblichen
-Berufsausbildung oder einer Einstiegsqualifizierung (begleitende
-Phase) durch Maßnahmen der Assistierten Ausbildung fördern. Die
-Maßnahme kann auch eine vorgeschaltete Phase enthalten, die die
-Aufnahme einer betrieblichen Berufsausbildung unterstützt (Vorphase).
+(1) Die Agentur für Arbeit kann
+förderungsberechtigte              junge Menschen und deren
+Ausbildungsbetriebe während einer betrieblichen Berufsausbildung oder
+einer Einstiegsqualifizierung (begleitende Phase) durch Maßnahmen der
+Assistierten Ausbildung fördern. Die Maßnahme kann auch eine
+vorgeschaltete Phase enthalten, die die Aufnahme einer betrieblichen
+Berufsausbildung unterstützt (Vorphase).
 
 (2) Ziele der Assistierten Ausbildung sind
 
