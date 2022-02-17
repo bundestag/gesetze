@@ -18,7 +18,7 @@ Fundstelle
 
 Stand: Die V tritt gem. § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1 u. d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1 am 31.3.2022 außer Kraft
 Zuletzt geändert durch
-:   Art. 2 V v. 7.1.2022 BAnz AT 10.01.2022 V1
+:   Art. 1 V v. 11.2.2022 BAnz AT 11.02.2022 V1
 
 Die geltung dieser v ist durch
 :   § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1 u. d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1 über den 31.12.2021 hinaus bis zum 31.3.2022 verlängert worden
@@ -68,21 +68,13 @@ Anspruch nach Satz 1 umfasst
     SARS-CoV-2 einschließlich der Erstellung eines
     COVID-19-Genesenenzertifikats im Sinne des § 22 Absatz 6 des
     Infektionsschutzgesetzes oder eines COVID-19-Testzertifikats im Sinne
-    des § 22 Absatz 7 des Infektionsschutzgesetzes; der Anspruch auf
-    Ausstellung eines COVID-19-Genesenenzertifikates setzt das Vorliegen
-    eines Nachweises hinsichtlich des Vorliegens einer vorherigen
-    Infektion mit dem Coronavirus SARS-CoV-2 in verkörperter oder
-    digitaler Form voraus, wenn die zugrundeliegende Testung durch eine
-    Labordiagnostik mittels Nukleinsäurenachweis erfolgt ist und
-    mindestens 28 Tage sowie maximal sechs Monate zurückliegt.
+    des § 22 Absatz 7 des Infektionsschutzgesetzes.
 
 
 
-Zur Diagnostik können nach Maßgabe dieser Verordnung und der
-Teststrategie des Bundesministeriums für Gesundheit eine
-Labordiagnostik mittels Nukleinsäurenachweis, eine
-variantenspezifische PCR-Testung oder eine Diagnostik durch Antigen-
-Test gehören. Zur Diagnostik durch Antigen-Test gehören
+Zur Diagnostik können nach Maßgabe dieser Verordnung eine Diagnostik
+mittels Nukleinsäurenachweis oder eine Diagnostik durch Antigen-Test
+gehören. Zur Diagnostik durch Antigen-Test gehören
 
 1.  eine Labordiagnostik mittels Antigen-Test,
 
@@ -116,19 +108,18 @@ entsprechende Leistungen hätte. Dies gilt insbesondere für Ansprüche
 auf Leistungen der ambulanten Krankenbehandlung oder der
 Krankenhausbehandlung. Für die bestätigende Diagnostik mittels eines
 Nukleinsäurenachweises des Coronavirus SARS-CoV-2 nach einem positiven
-Antigen-Test sowie für eine variantenspezifische PCR-Testung nach § 4b
-besteht ein Anspruch nach den Absätzen 1 und 2.
+Antigen-Test nach § 4b besteht ein Anspruch nach den Absätzen 1 und 2.
 
 
-## § 2 Testungen von nachweislich infizierten Personen in Absonderung, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten
+## § 2 Testungen von nachweislich infizierten Personen, Kontaktpersonen und von Personen mit Voraufenthalt in Virusvariantengebieten
 
 (1) Wenn sie von einem behandelnden Arzt einer mit dem Coronavirus
-SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst
-festgestellt werden, haben folgende Personen Anspruch auf Testung:
+SARS-CoV-2 infizierten Person, von Einrichtungen oder Unternehmen nach
+§ 3 Absatz 2 oder vom öffentlichen Gesundheitsdienst festgestellt
+werden, haben folgende Personen Anspruch auf Testung:
 
 1.  Personen, bei denen in den letzten 14 Tagen eine Infektion mit dem
-    Coronavirus SARS-CoV-2 nachgewiesen worden ist und die abgesondert
-    sind, und
+    Coronavirus SARS-CoV-2 nachgewiesen worden ist, und
 
 
 2.  asymptomatische Kontaktpersonen nach Absatz 2, die in den letzten 14
@@ -164,11 +155,7 @@ festgestellt werden, haben folgende Personen Anspruch auf Testung:
     bei Gruppenveranstaltungen,
 
 
-5.  Personen, die durch die Corona-Warn-App des Robert Koch-Institutes
-    eine Warnung mit der Statusanzeige erhöhtes Risiko erhalten haben,
-
-
-6.  Personen, die Kontakt zu einer mit dem Coronavirus SARS-CoV-2
+5.  Personen, die Kontakt zu einer mit dem Coronavirus SARS-CoV-2
     infizierten Person hatten,
 
     a)  die sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus
@@ -215,9 +202,6 @@ Einrichtungen oder Unternehmen
 
 
 
-Der Anspruch nach Satz 1 besteht bis zu 21 Tage nach der Feststellung
-einer mit dem Coronavirus SARS-CoV-2 infizierten Person, wenn die
-Testung zur Aufhebung der Absonderung erfolgt.
 
 (2) Einrichtungen oder Unternehmen im Sinne des Absatzes 1 Satz 1 sind
 
@@ -342,16 +326,13 @@ Asymptomatische Personen haben Anspruch auf Testung mittels PoC-
 Antigen-Tests nach § 1 Absatz 1 Satz 4 Nummer 2.
 
 
-## § 4b Bestätigende Diagnostik- und variantenspezifische PCR-Testung
+## § 4b Bestätigende Diagnostik-Testung
 
 Nach einem positiven Antigen-Test oder einem positiven Pooling-Test
 mittels eines Nukleinsäurenachweises hat die getestete Person einen
 Anspruch auf eine bestätigende Testung mittels eines
 Nukleinsäurenachweises des Coronavirus SARS-CoV-2. Dies gilt auch nach
-einem positiven Antigen-Test zur Eigenanwendung. Nach einem positiven
-Nukleinsäurenachweis hat die getestete Person bei begründetem Verdacht
-auf das Vorliegen einer Virusvariante einen Anspruch auf eine
-variantenspezifische PCR-Testung.
+einem positiven Antigen-Test zur Eigenanwendung.
 
 
 ## § 5 Häufigkeit der Testungen
@@ -360,8 +341,8 @@ variantenspezifische PCR-Testung.
 für jeden Einzelfall einmal pro Person wiederholt werden. Testungen
 nach § 4a können im Rahmen der Verfügbarkeit von Testkapazitäten
 mindestens einmal pro Woche in Anspruch genommen werden. Die
-bestätigende Diagnostik und die variantenspezifische PCR-Testung nach
-§ 4b umfasst für jeden Einzelfall bis zu zwei Testungen.
+bestätigende Diagnostik nach § 4b umfasst für jeden Einzelfall bis zu
+zwei Testungen.
 
 (2) Testungen nach § 4 Absatz 1 Satz 1 Nummer 2 bis 4 können für jeden
 Einzelfall mindestens einmal pro Woche durchgeführt werden.
@@ -422,14 +403,11 @@ Stelle des öffentlichen Gesundheitsdienstes anzuzeigen.
 Leistungserbringer nach Absatz 1 Nummer 2 und 3 besteht nur, wenn
 
 1.  bei Testungen nach § 2 gegenüber dem Leistungserbringer dargelegt
-    wurde, dass die zu testende Person von einem behandelnden Arzt einer
-    mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom
+    wurde, dass die zu testende Person von einem behandelnden Arzt, von
+    einer Einrichtung oder einem Unternehmen nach § 3 Absatz 2 oder vom
     öffentlichen Gesundheitsdienst als nachweislich mit dem Coronavirus
-    SARS-CoV-2 infizierte Person in Absonderung, als Kontaktperson oder
-    als Person mit Voraufenthalt in Virusvariantengebieten festgestellt
-    wurde oder dass die zu testende Person durch die Corona-Warn-App des
-    Robert Koch-Instituts eine Warnung mit der Statusanzeige erhöhtes
-    Risiko erhalten hat,
+    SARS-CoV-2 infizierte Person, als Kontaktperson oder als Person mit
+    Voraufenthalt in Virusvariantengebieten festgestellt wurde,
 
 
 2.  bei Testungen nach § 3 gegenüber dem Leistungserbringer dargelegt
@@ -589,8 +567,8 @@ Nummer 1. Das Ergebnis der Testung nach Satz 2 Nummer 5 und der
 Nachweis nach Satz 2 Nummer 7 sind abweichend von Satz 1 bis zum 31.
 Dezember 2022 unverändert zu speichern oder aufzubewahren.
 
-(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 25.
-Januar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und
+(6) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26.
+Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und
 Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem
 Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem
 Deutschen Landkreistag das Nähere fest über
@@ -613,8 +591,8 @@ Deutschen Landkreistag das Nähere fest über
 
 
 
-(7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 17.
-November 2021 im Benehmen mit den maßgeblichen Verbänden der Ärzte und
+(7) Die Kassenärztliche Bundesvereinigung legt spätestens bis zum 26.
+Februar 2022 im Benehmen mit den maßgeblichen Verbänden der Ärzte und
 Einrichtungen, die Leistungen der Labordiagnostik erbringen, dem
 Deutschen Städte- und Gemeindebund, dem Deutschen Städtetag und dem
 Deutschen Landkreistag Form und Inhalt des von allen
@@ -628,7 +606,7 @@ werden.
 
 (8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung
 gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung in der bis zum
-10\. Januar 2022 geltenden Fassung gelten bis zur Neufestlegung der
+11\. Februar 2022 geltenden Fassung gelten bis zur Neufestlegung der
 Vorgaben nach den Absätzen 6 und 7 fort. Die Festlegungen und Vorgaben
 gemäß den Absätzen 6 und 7 werden vom Vorstand der Kassenärztlichen
 Bundesvereinigung gefasst.
@@ -819,19 +797,17 @@ von 2 Prozent des Gesamtbetrags der Abrechnungen durch das Bundesamt
 für Soziale Sicherung erstattet.
 
 
-## § 9 Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis (PCR und weitere Methoden der Nukleinsäureamplifikationstechnik) oder für eine variantenspezifische PCR-Testung
+## § 9 Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis
 
 Die an die nach § 6 Absatz 1 berechtigten Leistungserbringer zu
 zahlende Vergütung für die Leistungen der Labordiagnostik mittels
-eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der
-Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für
-eine variantenspezifische PCR-Testung einschließlich der allgemeinen
-ärztlichen Laborleistungen, Versandmaterial und Transportkosten
-beträgt je Testung 43,56 Euro. Pro Einzelfall beträgt die Vergütung
-höchstens 82,96 Euro. Die an die Leistungserbringer nach § 6 Absatz 1
-Nummer 1 und 3 zu zahlende Vergütung für Leistungen der Diagnostik des
-Coronavirus SARS-CoV-2 mittels eines PoC-NAT-Testsystems beträgt je
-Testung 30 Euro.
+eines Nukleinsäurenachweises (PCR oder weitere Methoden der
+Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2
+einschließlich der allgemeinen ärztlichen Laborleistungen,
+Versandmaterial und Transportkosten beträgt je Testung 43,56 Euro. Die
+an die Leistungserbringer nach § 6 Absatz 1 Nummer 1 und 3 zu zahlende
+Vergütung für Leistungen der Diagnostik des Coronavirus SARS-CoV-2
+mittels eines PoC-NAT-Testsystems beträgt je Testung 30 Euro.
 
 
 ## § 10 Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
@@ -1173,7 +1149,12 @@ Fassung, die bis zum 30. Juni 2021 erbracht wurden, werden nach den §§
 Absatz 1 Satz 2 Nummer 5 in der bis zum 12. November 2021 geltenden
 Fassung, die bis zum 12. November 2021 ausgestellt und noch nicht
 abgerechnet worden sind, werden nach den §§ 7 bis 12 vergütet und mit
-der nächstmöglichen Abrechnung abgerechnet.
+der nächstmöglichen Abrechnung abgerechnet. Leistungen der
+variantenspezifischen PCR-Testung nach § 9 der Coronavirus-
+Testverordnung in der bis zum 11. Februar 2022 geltenden Fassung, die
+bis zum 11. Februar 2022 erbracht wurden, werden nach § 9 der
+Coronavirus-Testverordnung in der bis zum 11. Februar 2022 geltenden
+Fassung vergütet.
 
 
 ## § 19 Inkrafttreten, Außerkrafttreten

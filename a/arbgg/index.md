@@ -2130,11 +2130,6 @@ Erledigung des Rechtsstreits nicht verzögern würde oder nicht auf
 Verschulden der Partei beruht.
 
 
-##### § 67a
-
--
-
-
 ##### § 68 Zurückverweisung
 
 Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die
@@ -2170,9 +2165,8 @@ wenn die Parteien auf sie verzichtet haben; im Übrigen sind die §§
 313a und 313b der Zivilprozessordnung entsprechend anwendbar.
 
 
-##### § 70
+##### § 70 (weggefallen)
 
-(aufgehoben)
 
 
 ##### § 71 (weggefallen)

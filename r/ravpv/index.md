@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2016, 2167
 
 Zuletzt geändert durch
-:   Art. 2 G v. 7.7.2021 I 2363
-
-Änderung durch
-:   Art. 6 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 17.12.2021 I 5219
 
 
 ## Eingangsformel

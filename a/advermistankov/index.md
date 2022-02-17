@@ -16,9 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1266
 
-Änderung durch
-:   durch Art. 4 Abs. 3 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Geändert durch
+:   Art. 4 Abs. 3 G v. 12.2.2021 I 226
 
 
 ## Eingangsformel

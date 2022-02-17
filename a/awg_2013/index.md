@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 2.6.2021 I 1275 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 81 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
+:   Art. 81 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 1 V v. 25.8.2021 BAnz AT 07.09.2021 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2950, 2953
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.3.2020 I 541
-
-Änderung durch
-:   Art. 3 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 12.2.2021 I 226
 
 
 ## § 1 Anwendungsbereich

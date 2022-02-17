@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2950
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 17 G v. 17.12.2006 I 3171
-
-Änderung durch
-:   Art. 4 Abs. 4 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 Abs. 4 G v. 12.2.2021 I 226
 
 
 ## Abschnitt 1 - Begriffsbestimmungen, Zuständigkeiten und Verfahren

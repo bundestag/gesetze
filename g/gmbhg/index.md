@@ -1631,7 +1631,7 @@ Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
 (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66)
 anzuwenden. Bei Gesellschaften, die nicht große im Sinne des § 267
 Abs. 3 des Handelsgesetzbuchs sind, können auch vereidigte Buchprüfer
-zu Prüfern bestellt werden.♦
+zu Prüfern bestellt werden.
 
 
 ### § 57g Vorherige Bekanntgabe des Jahresabschlusses
