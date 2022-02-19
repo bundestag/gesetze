@@ -3977,6 +3977,49 @@ landesrechtliche Vorschriften auf dem Gebiet des Sprengstoffwesens
 keine Anwendung.
 
 
+### § 57a Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
+
+Für bis zum 30. Juni 1990 in dem in Artikel 3 des Einigungsvertrages
+genannten Gebiet erteilte Genehmigungen, Erlaubnisse und Zulassungen
+gilt folgendes:
+
+1.  (weggefallen)
+
+
+2.  (weggefallen)
+
+
+3.  (weggefallen)
+
+
+4.  Die in Genehmigungen, Erlaubnissen und Zulassungen zur Annahme von
+    weiteren radioaktiven Abfällen oder zu deren Einlagerung zum Zwecke
+    der Endlagerung oder zur Annahme von weiteren Kernbrennstoffen oder
+    sonstigen radioaktiven Stoffen zum Zwecke der Aufbewahrung oder
+    Lagerung enthaltenen Gestattungen
+
+    a)  zur Annahme von weiteren radioaktiven Abfällen oder zu deren
+        Einlagerung zum Zwecke der Endlagerung oder
+
+
+    b)  zur Annahme von weiteren Kernbrennstoffen oder sonstigen radioaktiven
+        Stoffen zum Zwecke der Aufbewahrung oder Lagerung
+
+
+
+
+    werden mit dem 27. April 2002 unwirksam; im Übrigen bestehen diese
+    Genehmigungen, Erlaubnisse oder Zulassungen als Genehmigungen nach den
+    Vorschriften dieses Gesetzes fort. Die nach Satz 1 fortbestehenden
+    Genehmigungen können nach den Vorschriften dieses Gesetzes geändert
+    oder mit Anordnungen versehen werden.
+
+
+
+
+(2) (weggefallen)
+
+
 ### § 57b Betrieb und Stilllegung der Schachtanlage Asse II
 
 (1) Für den Betrieb und die Stilllegung der Schachtanlage Asse II
@@ -4141,6 +4184,7 @@ Absatz 2 des Standortauswahlgesetzes offenzuhaltende Bergwerk.
 
 
 ### (XXXX) Anlage 1 und 2 (weggefallen)
+
 
 (zu § 7 Absatz 1a)
 

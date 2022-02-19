@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 10.12.2018 I 2444
 
+Änderung durch
+:   Art. 2 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Signaturgebundene elektronische Kommunikation
 
@@ -127,9 +130,8 @@ versehen
 
 
 
-Das Zertifikat, das der verwendeten elektronischen Signatur zugrunde
-liegt, muss durch das Deutsche Patent- und Markenamt oder durch eine
-von ihm beauftragte Stelle überprüfbar sein.
+Die elektronische Signatur muss durch das Deutsche Patent- und
+Markenamt oder durch eine von ihm beauftragte Stelle überprüfbar sein.
 
 (4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen von
 Patenten beim Deutschen Patent- und Markenamt auch unter Verwendung

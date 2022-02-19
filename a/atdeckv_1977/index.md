@@ -19,13 +19,6 @@ Neugefasst durch
 :   Bek. v. 21.1.2022 I 118
 
 
-## Eingangsformel
-
-Auf Grund des § 13 Abs. 3 und des § 54 Abs. 1 und 2 des Atomgesetzes
-in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S.
-3053) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
-
 ## Erster Abschnitt - Allgemeine Vorschriften
 
 
@@ -291,12 +284,12 @@ der Anlage 2 angegebenen Werte.
 oder in einer sonstigen zur Beseitigung radioaktiver Abfälle
 zugelassenen Einrichtung beträgt die Regeldeckungssumme 7 Millionen
 Euro, sofern es sich bei der Landessammelstelle oder der sonstigen
-Einrichtung nicht um eine Kernanlage im Sinne des § 2 Absatz 4 des
-Atomgesetzes handelt. Wird in einer sonstigen zur Beseitigung
-radioaktiver Abfälle zugelassenen Einrichtung nach Satz 1 mit
-radioaktiven Abfällen umgegangen, die aus einer Anlage im Sinne des
-§ 7 des Atomgesetzes stammen, beträgt die Regeldeckungssumme 70
-Millionen Euro.
+Einrichtung nicht um eine Kernanlage
+im Sinne des              § 2 Absatz 4 des Atomgesetzes handelt. Wird
+in einer sonstigen zur Beseitigung radioaktiver Abfälle zugelassenen
+Einrichtung nach Satz 1 mit radioaktiven Abfällen umgegangen, die aus
+einer Anlage im Sinne des § 7 des Atomgesetzes stammen, beträgt die
+Regeldeckungssumme 70 Millionen Euro.
 
 (4) Für die Beförderung radioaktiver Stoffe gilt Absatz 1
 entsprechend; bei der Beförderung sonstiger radioaktiver Stoffe sind
@@ -521,6 +514,7 @@ die Regeldeckungssumme
 ### § 14 (weggefallen)
 
 
+
 ### § 15 Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung
 
 Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am
@@ -583,6 +577,7 @@ angemessenen Deckungssumme ist insbesondere zu berücksichtigen,
 ### § 17 (weggefallen)
 
 
+
 ### § 18 Deckungssumme bei mehrfachem Umgang
 
 (1) Geht der zur Deckungsvorsorge Verpflichtete auf Grund einer oder
@@ -640,7 +635,9 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 ### § 21 (weggefallen)
 
 
+
 ### § 22 (Inkrafttreten)
+
 
 
 ### Anlage 1 Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
@@ -829,7 +826,8 @@ eines Jahres nach Inkrafttreten dieser Verordnung zu erfolgen hat.
 
     *   hochradioaktive Strahlenquellen nach § 4 Absatz 36 des
         Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der
-        Spalte 3 höhere Summen genannt werden
+        Spalte 3 höhere Summen
+        genannt werden
 
     *   0,05
 

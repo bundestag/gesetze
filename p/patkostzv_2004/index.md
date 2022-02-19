@@ -19,6 +19,9 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 1.11.2013 I 3906
 
+Änderung durch
+:   Art. 3 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -47,7 +50,14 @@ Bundespatentgerichts können gezahlt werden
 
 
 4.  durch Erteilung eines gültigen SEPA-Basislastschriftmandats mit
-    Angaben zum Verwendungszweck.
+    Angaben zum Verwendungszweck;
+
+
+5.  durch elektronisch übermittelte Zahlung auf ein Konto der zuständigen
+    Bundeskasse für das Deutsche Patent- und Markenamt in Marken- und
+    Designverfahren, wenn das Zahlungsmittel für die betreffende
+    Verfahrenshandlung auf der Internetseite des Deutschen Patent- und
+    Markenamts www.dpma.de bekannt gegeben ist.
 
 
 
@@ -87,7 +97,13 @@ Als Zahlungstag gilt
     Patent- und Markenamt erfolgt. Wird das SEPA-Basislastschriftmandat
     durch Telefax übermittelt, ist dessen Original innerhalb einer Frist
     von einem Monat nach Eingang des Telefax nachzureichen. Andernfalls
-    gilt als Zahlungstag der Tag des Eingangs des Originals.
+    gilt als Zahlungstag der Tag des Eingangs des Originals;
+
+
+5.  bei elektronisch übermittelter Zahlung der Tag, an dem der Betrag dem
+    Konto der zuständigen Bundeskasse für das Deutsche Patent- und
+    Markenamt gutgeschrieben wird; bei Kartenzahlverfahren und dem Einsatz
+    elektronischer Zahlungssysteme der Tag der Akzeptanz.
 
 
 

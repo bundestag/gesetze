@@ -22,7 +22,7 @@ Mittelbare änderung durch
 :   Art. 7 G v. 20.5.2021 I 1194 ist berücksichtigt
 
 Änderung durch
-:   Bek. v. 3.1.2022 I 15 (Nr. 1) mWv 1.1.2022 noch nicht berücksichtigt
+:   Bek. v. 3.1.2022 I 15 (Nr. 1) ist berücksichtigt
 
 Änderung durch
 :   Bek. v. 3.1.2022 I 15 (Nr. 1) mWv 1.1.2022 noch nicht berücksichtigt
@@ -2039,18 +2039,17 @@ Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des §
 Beförderung hochradioaktiver Strahlenquellen.
 
 (2) Wer radioaktive Erzeugnisse oder Abfälle befördert, die
-Kernmaterialien im Sinne der Anlage 1 Absatz 1 Nummer 5 zum Atomgesetz
-sind, ohne hierfür der Genehmigung nach § 27 Absatz 1 Satz 1 zu
-bedürfen, darf die Kernmaterialien zur Beförderung oder
-Weiterbeförderung nur dann übernehmen, wenn ihm gleichzeitig eine
-Bescheinigung der zuständigen Behörde darüber vorgelegt wird, dass
-sich die Vorsorge der Person, die ihm die Kernmaterialien übergibt,
-auch auf die Erfüllung gesetzlicher Schadensersatzverpflichtungen im
-Zusammenhang mit der Beförderung oder Weiterbeförderung erstreckt. Die
-Vorlage der Bescheinigung ist entbehrlich, falls er selbst den
-Nachweis der erforderlichen Vorsorge für die Erfüllung gesetzlicher
-Schadensersatzverpflichtungen nach § 4b Absatz 1 des Atomgesetzes zu
-erbringen hat.
+Kernmaterialien im Sinne von § 2 Absatz 4 Satz 1 des Atomgesetzes
+sind, ohne hierfür der Genehmigung nach § 27 Absatz 1 zu bedürfen,
+darf die Kernmaterialien zur Beförderung oder Weiterbeförderung nur
+dann übernehmen, wenn ihm gleichzeitig eine Bescheinigung der
+zuständigen Behörde darüber vorgelegt wird, dass sich die Vorsorge der
+Person, die ihm die Kernmaterialien übergibt, auch auf die Erfüllung
+gesetzlicher Schadensersatzverpflichtungen im Zusammenhang mit der
+Beförderung oder Weiterbeförderung erstreckt. Die Vorlage ist
+entbehrlich, falls er nicht selbst den Nachweis der erforderlichen
+Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
+nach § 4b des Atomgesetzes zu erbringen hat.
 
 
 ##### § 29 Voraussetzungen für die Erteilung der Genehmigung
