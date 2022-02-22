@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 9 G v. 9.12.2020 I 2773
-
-Änderung durch
-:   Art. 4 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 12.5.2021 I 990
 
 Änderung durch
 :   Art. 3 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
