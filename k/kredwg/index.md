@@ -4556,7 +4556,7 @@ Die Aufsichtsbehörde meldet den zuständigen Abwicklungsbehörden
     Kreditinstituten nach § 6c angeordnet wurden, und
 
 
-2.  sämtliche Eigenmittelempfehlungen, die CRR-Instituten nach § 6d
+2.  sämtliche Eigenmittelempfehlungen, die CRR-Kreditinstituten nach § 6d
     mitgeteilt wurden.
 
 
@@ -10317,6 +10317,11 @@ und zurückgetauschten E-Geld-Beträge mit Zeitpunkt und ausgebender
 oder rücktauschender Stelle aufgezeichnet werden. § 8 des
 Geldwäschegesetzes ist entsprechend anzuwenden.
 
+(3a) Kreditinstitute dürfen Zahlungen mit in Drittstaaten
+ausgestellten anonymen Guthabenkarten nur akzeptieren, wenn diese
+Karten die Anforderungen erfüllen, die den in Absatz 2 genannten
+gleichwertig sind.
+
 (4) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass bei der
 Verwendung eines E-Geld-Trägers
 
@@ -10348,11 +10353,6 @@ Anordnungen erteilen. Insbesondere kann sie
 
 
 
-
-(3a) Kreditinstitute dürfen Zahlungen mit in Drittstaaten
-ausgestellten anonymen Guthabenkarten nur akzeptieren, wenn diese
-Karten die Anforderungen erfüllen, die den in Absatz 2 genannten
-gleichwertig sind.
 
 
 #### § 25j Zeitpunkt der Identitätsüberprüfung

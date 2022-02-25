@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.12.2021 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 2 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 Nr. 1 iVm Anlage 1 bis 3 u. Art. 2 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.12.2021 bzw. 1.1.2022 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 1 iVm Anlage 1, 2 u. 3 V v. 16.2.2022 II 82 (Nr. 4) mWv 1.6.2022 bzw. 25.4.2022 noch nicht berücksichtigt
+
 
 ## Inhaltsverzeichnis
 

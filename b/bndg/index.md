@@ -3426,7 +3426,7 @@ und 20 in der am 19. Juni 2020 geltenden Fassung.
 
 (3) Die Übermittlung von Daten, die vor dem 1. Januar 2022 erhoben
 wurden, sowie die Übermittlung von Daten, die auf der Grundlage einer
-Maßnahme nach Absatz 1 erhoben wurden, bestimmen sich nach § 23 in der
+Maßnahme nach Absatz 1 erhoben wurden, bestimmen sich nach § 24 in der
 am 19. Juni 2020 geltenden Fassung.
 
 (4) Bis zur Schaffung der technischen Voraussetzungen für die in § 19

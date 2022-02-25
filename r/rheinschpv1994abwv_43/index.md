@@ -15,4 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   VkBl: 2020, 570
 
-Stand: Die V tritt gem. § 4 dieser V mit Ablauf des 30.11.2023 außer Kraft
+V aufgeh. durch
+:   Art. 5 G v. 16.2.2022 II 82 mWv 25.4.2022
+

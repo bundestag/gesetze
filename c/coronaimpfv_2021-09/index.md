@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Die V tritt gem. § 17 Satz 1 idF d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1 mit Ablauf des 31.5.2022 außer Kraft
 Zuletzt geändert durch
-:   Art. 1 V v. 7.1.2022 BAnz AT 10.01.2022 V1
+:   Art. 1 V v. 21.2.2022 BAnz AT 22.02.2022 V1
 
 Die geltung dieser v ist durch
 :   § 17 Satz 1 idF d. Art. 1 Nr. 6 V v. 15.11.2021 BAnz AT 15.11.2021 V1 u. d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1 über den 31.12.2021 hinaus bis zum Ablauf des 31.5.2022 verlängert worden
@@ -600,15 +600,24 @@ Betriebs.
 
 
 3.  die Personal- und Sachkosten zur Beendigung des Betriebes der
-    Impfzentren und der mobilen Impfteams und
+    Impfzentren und der mobilen Impfteams,
 
 
 4.  die Kosten für die erstmalige oder nachträgliche Erstellung von
     COVID-19-Impfzertifikaten im Sinne des § 22 Absatz 5 des
-    Infektionsschutzgesetzes.
+    Infektionsschutzgesetzes und
+
+
+5.  abweichend von Absatz 3 Nummer 3 die Kosten des Transports von
+    Impfstoffen durch einen von einem Land beauftragten Dritten von einem
+    Abholort des Bundes zu einem Lieferort des Landes ausschließlich zu
+    dem Zweck, die Impfstoffe auf Kosten des Landes weiter zu verteilen.
 
 
 
+Kosten des Transports von Impfstoffen nach Satz 1 Nummer 5 sind nur
+bis zur Höhe der Vergütung nach § 8 Absatz 4 Satz 2 notwendige Kosten
+nach Absatz 1 Satz 1.
 
 (3) Von der Erstattung ausgeschlossen sind
 
@@ -675,15 +684,32 @@ abgerechnet.
 
 (4) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch von
 den Ländern beauftragte Großhändler an von den Ländern mitgeteilte
-Lieferorte entstehenden Aufwand, insbesondere für den Transport, die
+Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2
+entstehenden Aufwand, insbesondere für den Transport, die
 Konfektionierung und die Organisation, erhält der Großhändler eine
 Vergütung in Höhe von 7,45 Euro zuzüglich Umsatzsteuer je abgegebener
-Durchstechflasche.
+Durchstechflasche. Für den im Zusammenhang mit der Abgabe von
+Impfstoffen durch von den Ländern beauftragte Großhändler an von den
+Ländern mitgeteilte Lieferorte, die keine Leistungserbringer sind,
+entstehenden Aufwand, insbesondere für den Transport und die
+Organisation, erhält der Großhändler eine Vergütung in Höhe von 1,50
+Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche,
+höchstens jedoch 2 000 Euro zuzüglich Umsatzsteuer je Transport. Auf
+Grundlage dieser Verordnung ist nur ein Transport für die einem Land
+zugeteilte Impfstoffmenge pro Kalenderwoche abrechenbar.
 
 (5) Für die Abgabe von selbst beschafftem Impfbesteck und -zubehör
 durch von den Ländern beauftragte Großhändler an von den Ländern
-mitgeteilte Lieferorte erhält der Großhändler eine Vergütung in Höhe
-von 3,72 Euro zuzüglich Umsatzsteuer je abgegebener Durchstechflasche.
+mitgeteilte Leistungserbringer nach § 3 Absatz 1 Satz 1 Nummer 1 und 2
+erhält der Großhändler eine Vergütung in Höhe von 3,72 Euro zuzüglich
+Umsatzsteuer je abgegebener Durchstechflasche, wenn die Abgabe
+gleichzeitig mit der Abgabe von Impfstoffen erfolgt. Für die Lieferung
+von Impfbesteck und -zubehör an die von den Ländern mitgeteilten
+Lieferorte, die keine Leistungserbringer sind, erhält der Großhändler
+die Vergütung nach Satz 1 auch, wenn nicht gleichzeitig Impfstoffe
+abgegeben werden. Auf Grundlage dieser Verordnung ist nur eine
+Belieferung nach Satz 2 in der Größenordnung je direktem
+Impfstoffbezug eines Landes von einem Abholort des Bundes abrechenbar.
 
 (6) Die Vergütung nach den Absätzen 4 und 5 wird nach § 11 Absatz 1
 Satz 1 Nummer 3 durch das jeweilige Land abgerechnet.
@@ -822,7 +848,7 @@ den Ländern bis spätestens zum Ende des fünften auf den
 Abrechnungszeitraum folgenden Monats gegenüber dem Bundesamt für
 Soziale Sicherung abzurechnen. Abweichend von Satz 6 sind
 erstattungsfähige Kosten nach § 7 Absatz 1 Satz 1, die bis zum 30.
-September 2021 entstanden sind, bis spätestens zum 28. Februar 2022
+September 2021 entstanden sind, bis spätestens zum 31. März 2022
 abzurechnen. Dabei sind Kosten, die für die Errichtung, die Vorhaltung
 und den Betrieb von Impfzentren im Zeitraum vom 15. Dezember bis zum
 31\. Dezember 2020 entstanden sind, separat auszuweisen. Der Anspruch

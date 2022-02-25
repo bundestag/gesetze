@@ -19,6 +19,9 @@ Stand: Zuletzt geändert Art. 4 V v. 15.9.2020 II 699
 Änderung durch
 :   Art. 5 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.7.2021 noch nicht berücksichtigt
 
+Änderung durch
+:   Art. 4 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

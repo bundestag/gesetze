@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.5.2021 I 990
-
-Änderung durch
-:   Art. 3 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 3.6.2021 I 1423
 
 Änderung durch
 :   Art. 1 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -1029,7 +1023,7 @@ Wertpapierinstitutsgesetzes genannten Betrages ausgestattet sein.
 
 (3) Die Bundesanstalt entscheidet in Zweifelsfällen, dass ein
 inländisches Unternehmen den Vorschriften dieses Gesetzes unterliegt
-oder ob ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt.
+oder dass ein Investmentvermögen im Sinne des § 1 Absatz 1 vorliegt.
 Ihre Entscheidung bindet die Verwaltungsbehörden.
 
 (4) Die Bundesanstalt überwacht die Einhaltung der Bestimmungen des §
@@ -4498,13 +4492,14 @@ durch Rechtsverordnung auf die Bundesanstalt übertragen.
 einer externen Kapitalverwaltungsgesellschaft gelten die §§ 340a bis
 340o des Handelsgesetzbuchs entsprechend. § 26 des Kreditwesengesetzes
 ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten
-Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
+Pflichten gegenüber der Deutschen Bundesbank nicht gelten und der
+festgestellte Jahresabschluss sowie der Lagebericht der Bundesanstalt
+auf Verlangen zu übermitteln sind.
 
 (2) Auf die Bestellung eines Abschlussprüfers ist § 28 des
 Kreditwesengesetzes mit der Maßgabe entsprechend anzuwenden, dass die
 dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht
-gelten und der festgestellte Jahresabschluss sowie der Lagebericht der
-Bundesanstalt auf Verlangen zu übermitteln sind.
+gelten.
 
 (3) Bei der Prüfung des Jahresabschlusses hat der Abschlussprüfer auch
 die wirtschaftlichen Verhältnisse der externen
@@ -20602,7 +20597,7 @@ Gesetzes ist nur zulässig, wenn
     durch sie den Anforderungen der Richtlinie 2011/61/EU entsprechen;
 
 
-4.  die AIF-Verwaltungsgesellschaft ausländische der Bundesanstalt ein
+4.  die ausländische AIF-Verwaltungsgesellschaft der Bundesanstalt ein
     inländisches Kreditinstitut oder eine zuverlässige, fachlich geeignete
     Person mit Sitz oder Wohnsitz im Geltungsbereich dieses Gesetzes als
     Repräsentanten benennt, die hinreichend ausgestattet ist, um die
@@ -20692,11 +20687,6 @@ Gesetzes ist nur zulässig, wenn
         eingeschränkt ist und dass im Jahresbericht und gegebenenfalls in den
         Halbjahresberichten die Angaben gemäß § 101 Absatz 2 Nummer 4 zu
         machen sind,
-
-
-    j)  bei geschlossenen AIF zudem vorsehen, dass die Bildung von
-        Teilinvestmentvermögen und Master-Feeder-Konstruktionen ausgeschlossen
-        ist;
 
 
     j)  bei mit Infrastruktur-Sondervermögen vergleichbaren Investmentvermögen
@@ -22223,7 +22213,7 @@ geltender Fassung enthalten.
 
 
 2.  dass die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz
-    7 zusätzlich unverzüglich die Europäische Wertpapier- und
+    9 zusätzlich unverzüglich die Europäische Wertpapier- und
     Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen
     die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich
     vertriebenen AIF betreffen.
@@ -22263,7 +22253,7 @@ dass
     beginnen kann, und
 
 
-3.  die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7
+3.  die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 9
     zusätzlich unverzüglich die Europäische Wertpapier- und
     Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen
     die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich

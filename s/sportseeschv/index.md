@@ -686,6 +686,35 @@ Strafverfolgungsbehörden für Zwecke der Verfolgung von Straftaten oder
 an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
 
 
+## § 15 Ordnungswidrigkeiten
+
+(1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
+Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  ohne Fahrerlaubnis nach § 1 Abs. 3a Satz 1 ein Traditionsschiff führt,
+
+
+2.  ohne einen dort genannten Sportseeschifferschein,
+    Sporthochseeschifferschein oder Befähigungsnachweis nach § 1 Abs. 6
+    als Maschinist auf Traditionsschiffen tätig ist,
+
+
+3.  entgegen § 1 Abs. 7 Satz 1 seine Befähigung zur Teilnahme am mobilen
+    Seefunkdienst oder am mobilen Seefunkdienst über Satelliten nicht
+    nachweist oder
+
+
+4.  entgegen § 11 Abs. 2 Satz 1 nicht dafür sorgt, dass ein
+    Traditionsschiff die dort genannte Regelbesatzung hat.
+
+
+
+
+(2) Die Zuständigkeit für die Verfolgung und Ahndung von
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
+
+
 ## § 16 Übergangsregelung
 
 § 15a Abs. 1 Nr. 3 ist erst ab dem 1. Januar 2010 anzuwenden.

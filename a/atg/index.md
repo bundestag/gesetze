@@ -20,7 +20,10 @@ Neugefasst durch
 :   Bek. v. 15.7.1985 I 1565
 
 Zuletzt geändert durch
-:   Bek. v. 3.1.2022 I 14
+:   Art. 1 G v. 10.8.2021 I 3530
+
+Änderung durch
+:   Bek. v. 3.1.2022 I 14 (Nr. 1) mWv 1.1.2022 ist berücksichtigt
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
