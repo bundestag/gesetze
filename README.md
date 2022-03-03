@@ -91,6 +91,13 @@ Kontakt
 Twitter: [@bundesgit](https://twitter.com/bundesgit)
 
 
+Mehr Informationen
+------------------
+
+Dieses Projekt wurde auch auf verschiedenen Konferenzen vorgestellt bzw. erwähnt:
+* [chmod o+rw bundestag – Mehr Transparenz und Teilhabe im Gesetzgebungsprozess](https://media.ccc.de/v/29c3-5263-de-en-mehr_transparenz_und_teilhabe_im_gesetzgebungsprozess_h264), 29c3
+* [Demokratie-DevOps](https://media.ccc.de/v/froscon2019-2510-demokratie-devops), FrOSCon 2019
+
 --------
 (English version)
 
@@ -181,3 +188,10 @@ Contact
 
 Twitter: [@bundesgit](https://twitter.com/bundesgit)
 
+
+More information
+----------------
+
+This project was also presented or mentioned at various conferences:
+* [chmod o+rw bundestag - More transparency and participation in the legislative process](https://media.ccc.de/v/29c3-5263-de-en-mehr_transparenz_und_teilhabe_im_gesetzgebungsprozess_h264) (German), 29c3
+* [Democracy DevOps](https://media.ccc.de/v/froscon2019-2510-demokratie-devops) (German), FrOSCon 2019
