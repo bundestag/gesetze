@@ -12857,7 +12857,7 @@ regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
     teilnehmen, gegenüber Patienten erbracht werden, die in der jeweiligen
     Arztpraxis erstmals untersucht und behandelt werden oder die
     mindestens zwei Jahre nicht in der jeweiligen Arztpraxis untersucht
-    und behandelt wurden, und
+    und behandelt wurden,
 
 
 6.  Leistungen im Behandlungsfall, die im Rahmen von bis zu fünf offenen
@@ -12866,7 +12866,11 @@ regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
     erbracht werden; bei einem reduzierten Versorgungsauftrag ist die
     Vergütung außerhalb der Gesamtvergütung auf die jeweils anteilige Zeit
     offener Sprechstunden je Kalenderwoche gemäß § 19a Absatz 1 Satz 4 der
-    Zulassungsverordnung für Vertragsärzte begrenzt.
+    Zulassungsverordnung für Vertragsärzte begrenzt und
+
+
+7.  die regelmäßige Beratung nach § 2 Absatz 1a des
+    Transplantationsgesetzes.
 
 
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1586
 
 Zuletzt geändert durch
-:   Art. 211 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 4 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 7.2.2022 I 171
 
 
 ## Eingangsformel

@@ -893,7 +893,7 @@ sechsten Monats, der auf den Eintritt der Unterbrechung folgt.
 ### § 21 Zulage für allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege
 
 (1) Beamte und Soldaten, die in der Gesundheits- und Krankenpflege
-verwendet werden, erhalten eine Zulage von monatlich 70 Euro.
+verwendet werden, erhalten eine Zulage von monatlich 120 Euro.
 
 (2) Beamte des einfachen und mittleren Dienstes und entsprechende
 Soldaten, die für die in Absatz 3 oder 4 genannten besonderen Dienste

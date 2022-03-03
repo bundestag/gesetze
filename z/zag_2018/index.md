@@ -3643,12 +3643,14 @@ Geschäfts im Inland beiträgt (Systemunternehmen), ist auf Anfrage
 eines Zahlungsdienstleisters im Sinne des § 1 Absatz 1 Satz 1 Nummer 1
 bis 3 oder eines E-Geld-Emittenten im Sinne des § 1 Absatz 2 Satz 1
 Nummer 1 oder 2 verpflichtet, diese technischen
-Infrastrukturleistungen gegen angemessenes Entgelt unverzüglich und
-unter Verwendung angemessener Zugangsbedingungen zur Verfügung zu
-stellen. Die Zurverfügungstellung im Sinne des Satzes 1 muss so
-ausgestaltet sein, dass das anfragende Unternehmen seine
-Zahlungsdienste oder E-Geld-Geschäfte ungehindert erbringen oder
-betreiben kann.
+Infrastrukturleistungen gegen ein die tatsächlichen Kosten des
+jeweiligen Zugriffs nicht übersteigendes Entgelt unverzüglich und
+unter Verwendung einer standardisierten technischen Schnittstelle zu
+allen Endgeräten zur Verfügung zu stellen. Die Zurverfügungstellung im
+Sinne des Satzes 1 muss so ausgestaltet sein, dass das anfragende
+Unternehmen seine Zahlungsdienste oder E-Geld-Geschäfte ungehindert
+erbringen oder betreiben kann und Funktionsgleichheit gewährleistet
+ist.
 
 (2) Absatz 1 gilt nicht, wenn es sich im Zeitpunkt der Anfrage bei dem
 Systemunternehmen nicht um ein Unternehmen handelt, dessen technische
@@ -3663,7 +3665,14 @@ der Zurverfügungstellung vorliegen. Diese liegen insbesondere vor,
 wenn das Systemunternehmen nachweisen kann, dass die Sicherheit und
 Integrität der technischen Infrastrukturleistungen durch die
 Zurverfügungstellung konkret gefährdet wird. Die Ablehnung muss
-nachvollziehbar begründet sein.
+nachvollziehbar begründet sein. Der Zahlungsdienstleister kann die
+Gründe der Ablehnung durch einen Sachverständigen überprüfen lassen.
+Dazu hat das Systemunternehmen dem Sachverständigen die für diese
+Prüfung erforderlichen Informationen nach Aufforderung unverzüglich
+zur Verfügung zu stellen. Der Sachverständige ist in Bezug auf die
+vorgelegten Informationen zur Verschwiegenheit verpflichtet und darf
+diese gegenüber dem Zahlungsdienstleister oder Dritten nicht offen
+legen.
 
 (4) Verstößt ein Systemunternehmen schuldhaft gegen Absatz 1, ist es
 dem anfragenden Unternehmen zum Ersatz des daraus entstehenden

@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 768
 
-Geändert durch
-:   Art. 7 G v. 3.6.2021 I 1309
-
-Änderung durch
-:   Art. 1 V v. 22.9.2021 I 4355 (Nr. 67) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 22.9.2021 I 4355
 
 
 ## Eingangsformel
@@ -1678,9 +1675,6 @@ Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
             nur von dem Versicherten verwendeten IT-System vollständig die – auch
             temporäre – Speicherung von gesundheitsbezogenen Daten auf diesem IT-
             System unterbunden?
-
-
-        –   (weggefallen)
 
 
 

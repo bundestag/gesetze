@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 24.6.2020 I 1485
-
-Änderung durch
-:   Art. 1 V v. 25.1.2022 I 96 (Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 25.1.2022 I 96
 
 
 ## Eingangsformel

@@ -2597,9 +2597,8 @@ Empfehlungen unterbreiten (§ 75 Abs. 1 Buchstabe h).
 
 
 
-### Anlage 2 Registrierung von Verbänden und deren Vertreter
+### Anlage 2 (weggefallen)
 
-(Text siehe: BTGO1980Anl 2)
 
 
 ### Anlage 2a Verhaltenskodex für Interessenvertreterinnen und Interessenvertreter im Rahmen des Lobbyregistergesetzes

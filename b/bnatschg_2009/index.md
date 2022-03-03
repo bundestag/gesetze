@@ -97,14 +97,16 @@ des Naturhaushalts sind insbesondere
 4.  Luft und Klima auch durch Maßnahmen des Naturschutzes und der
     Landschaftspflege zu schützen; dies gilt insbesondere für Flächen mit
     günstiger lufthygienischer oder klimatischer Wirkung wie Frisch- und
-    Kaltluftentstehungsgebiete oder Luftaustauschbahnen; dem Aufbau einer
-    nachhaltigen Energieversorgung insbesondere durch zunehmende Nutzung
-    erneuerbarer Energien kommt eine besondere Bedeutung zu,
+    Kaltluftentstehungsgebiete, Luftaustauschbahnen oder Freiräume im
+    besiedelten Bereich; dem Aufbau einer nachhaltigen Energieversorgung
+    insbesondere durch zunehmende Nutzung erneuerbarer Energien kommt eine
+    besondere Bedeutung zu,
 
 
 5.  wild lebende Tiere und Pflanzen, ihre Lebensgemeinschaften sowie ihre
     Biotope und Lebensstätten auch im Hinblick auf ihre jeweiligen
-    Funktionen im Naturhaushalt zu erhalten,
+    Funktionen im Naturhaushalt, einschließlich ihrer Stoffumwandlungs-
+    und Bestäubungsleistungen, zu erhalten,
 
 
 6.  der Entwicklung sich selbst regulierender Ökosysteme auf hierfür
@@ -121,9 +123,15 @@ sowie des Erholungswertes von Natur und Landschaft sind insbesondere
     Zersiedelung und sonstigen Beeinträchtigungen zu bewahren,
 
 
-2.  zum Zweck der Erholung in der freien Landschaft nach ihrer
+2.  Vorkommen von Tieren und Pflanzen sowie Ausprägungen von Biotopen und
+    Gewässern auch im Hinblick auf ihre Bedeutung für das Natur- und
+    Landschaftserlebnis zu bewahren und zu entwickeln,
+
+
+3.  zum Zweck der Erholung in der freien Landschaft nach ihrer
     Beschaffenheit und Lage geeignete Flächen vor allem im besiedelten und
-    siedlungsnahen Bereich zu schützen und zugänglich zu machen.
+    siedlungsnahen Bereich sowie großflächige Erholungsräume zu schützen
+    und zugänglich zu machen.
 
 
 
@@ -131,27 +139,38 @@ sowie des Erholungswertes von Natur und Landschaft sind insbesondere
 (5) Großflächige, weitgehend unzerschnittene Landschaftsräume sind vor
 weiterer Zerschneidung zu bewahren. Die erneute Inanspruchnahme
 bereits bebauter Flächen sowie die Bebauung unbebauter Flächen im
-beplanten und unbeplanten Innenbereich, soweit sie nicht für
-Grünflächen vorgesehen sind, hat Vorrang vor der Inanspruchnahme von
-Freiflächen im Außenbereich. Verkehrswege, Energieleitungen und
-ähnliche Vorhaben sollen landschaftsgerecht geführt, gestaltet und so
-gebündelt werden, dass die Zerschneidung und die Inanspruchnahme der
-Landschaft sowie Beeinträchtigungen des Naturhaushalts vermieden oder
-so gering wie möglich gehalten werden. Beim Aufsuchen und bei der
-Gewinnung von Bodenschätzen, bei Abgrabungen und Aufschüttungen sind
-dauernde Schäden des Naturhaushalts und Zerstörungen wertvoller
+beplanten und unbeplanten Innenbereich, soweit sie nicht als
+Grünfläche oder als anderer Freiraum für die Verwirklichung der Ziele
+des Naturschutzes und der Landschaftspflege vorgesehen oder
+erforderlich sind, hat Vorrang vor der Inanspruchnahme von Freiflächen
+im Außenbereich. Verkehrswege, Energieleitungen und ähnliche Vorhaben
+sollen landschaftsgerecht geführt, gestaltet und so gebündelt werden,
+dass die Zerschneidung und die Inanspruchnahme der Landschaft sowie
+Beeinträchtigungen des Naturhaushalts vermieden oder so gering wie
+möglich gehalten werden. Beim Aufsuchen und bei der Gewinnung von
+Bodenschätzen, bei Abgrabungen und Aufschüttungen sind dauernde
+Schäden des Naturhaushalts und Zerstörungen wertvoller
 Landschaftsteile zu vermeiden; unvermeidbare Beeinträchtigungen von
 Natur und Landschaft sind insbesondere durch Förderung natürlicher
 Sukzession, Renaturierung, naturnahe Gestaltung, Wiedernutzbarmachung
 oder Rekultivierung auszugleichen oder zu mindern.
 
 (6) Freiräume im besiedelten und siedlungsnahen Bereich einschließlich
-ihrer Bestandteile, wie Parkanlagen, großflächige Grünanlagen und
-Grünzüge, Wälder und Waldränder, Bäume und Gehölzstrukturen, Fluss-
-und Bachläufe mit ihren Uferzonen und Auenbereichen, stehende
-Gewässer, Naturerfahrungsräume sowie gartenbau- und landwirtschaftlich
-genutzte Flächen, sind zu erhalten und dort, wo sie nicht in
-ausreichendem Maße vorhanden sind, neu zu schaffen.
+ihrer Bestandteile, wie Grünzüge, Parkanlagen, Kleingartenanlagen und
+sonstige Grünflächen, Wälder, Waldränder und andere Gehölzstrukturen
+einschließlich Einzelbäume, Fluss- und Bachläufe mit ihren Uferzonen
+und Auenbereichen, stehende Gewässer und ihre Uferzonen, gartenbau-
+und landwirtschaftlich genutzte Flächen, Flächen für natürliche
+Entwicklungsprozesse, Naturerfahrungsräume sowie naturnahe Bereiche im
+Umfeld von Verkehrsflächen und anderen Nutzungen einschließlich
+wegebegleitender Säume, sind zu erhalten und dort, wo sie nicht in
+ausreichendem Maße und hinreichender Qualität vorhanden sind, neu zu
+schaffen oder zu entwickeln.
+
+(7) Den Zielen des Naturschutzes und der Landschaftspflege können auch
+Maßnahmen dienen, die den Zustand von Biotopen und Arten durch
+Nutzung, Pflege oder das Ermöglichen ungelenkter Sukzession auf einer
+Fläche nur für einen begrenzten Zeitraum verbessern.
 
 
 ### § 2 Verwirklichung der Ziele
@@ -190,6 +209,30 @@ Bedeutung von Natur und Landschaft, über deren Bewirtschaftung und
 Nutzung sowie über die Aufgaben des Naturschutzes und der
 Landschaftspflege auf und wecken das Bewusstsein für einen
 verantwortungsvollen Umgang mit Natur und Landschaft.
+
+(7) Der Bereitschaft privater Personen, Unternehmen und Einrichtungen
+der öffentlichen Hand zur Mitwirkung und Zusammenarbeit kommt bei der
+Verwirklichung der Ziele des Naturschutzes und der Landschaftspflege
+eine besondere Bedeutung zu. Soweit sich der Zustand von Biotopen und
+Arten aufgrund freiwilliger Maßnahmen wie vertraglicher Vereinbarungen
+oder der Teilnahme an öffentlichen Programmen zur
+Bewirtschaftungsbeschränkung auf einer Fläche verbessert, ist dieser
+Beitrag bei behördlichen Entscheidungen nach diesem Gesetz oder nach
+dem Naturschutzrecht der Länder im Zusammenhang mit der Wiederaufnahme
+einer Nutzung oder einer sonstigen Änderung des Zustandes dieser
+Fläche, auch zur Förderung der allgemeinen Kooperationsbereitschaft,
+begünstigend zu berücksichtigen.
+
+(8) Für Naturschutzgebiete, Nationalparke, Nationale Naturmonumente,
+Naturdenkmäler, Gebiete von gemeinschaftlicher Bedeutung im Sinne des
+§ 7 Absatz 1 Nummer 6 und gesetzlich geschützte Biotope im Sinne des §
+30 können die Länder freiwillige Vereinbarungen zur Förderung der
+Biodiversität und zu einer nachhaltigen Bewirtschaftungsweise
+anbieten. Als freiwillige Vereinbarung nach Satz 1 gelten insbesondere
+von den Landesregierungen mit den Verbänden der Landwirtschaft und des
+Naturschutzes geschlossene Grundsatzvereinbarungen und Maßnahmenpakete
+für den Naturschutz. Bestandteil freiwilliger Vereinbarungen nach Satz
+1 können auch finanzielle Anreize durch Förderung oder Ausgleich sein.
 
 
 ### § 3 Zuständigkeiten, Aufgaben und Befugnisse, vertragliche Vereinbarungen, Zusammenarbeit der Behörden
@@ -806,7 +849,11 @@ sowie Grünordnungsplänen.
 
 
     g)  zur Erhaltung und Entwicklung von Freiräumen im besiedelten und
-        unbesiedelten Bereich.
+        unbesiedelten Bereich,
+
+
+    h)  zur Sicherung und Förderung der biologischen Vielfalt im Planungsraum
+        einschließlich ihrer Bedeutung für das Naturerlebnis.
 
 
 
@@ -856,9 +903,17 @@ Naturschutzes und der Landschaftspflege sind, soweit sie raumbedeutsam
 sind, in der Abwägung nach § 7 Absatz 2 des Raumordnungsgesetzes zu
 berücksichtigen.
 
-(4) Die Zuständigkeit, das Verfahren der Aufstellung und das
-Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu
-Raumordnungsplänen richten sich nach Landesrecht.
+(4) Landschaftsrahmenpläne und Landschaftsprogramme im Sinne des
+Absatzes 2 Satz 2 sind mindestens alle zehn Jahre fortzuschreiben.
+Mindestens alle zehn Jahre ist zu prüfen, ob und in welchem Umfang
+eine Aufstellung oder Fortschreibung sonstiger Landschaftsprogramme
+erforderlich ist.
+
+(5) Die landschaftsplanerischen Inhalte werden eigenständig erarbeitet
+und dargestellt. Im Übrigen richten sich die Zuständigkeit, das
+Verfahren der Aufstellung und das Verhältnis von Landschaftsprogrammen
+und Landschaftsrahmenplänen zu Raumordnungsplänen nach § 13 des
+Raumordnungsgesetzes nach Landesrecht.
 
 
 ### § 11 Landschaftspläne und Grünordnungspläne
@@ -880,8 +935,7 @@ Rechtsverbindlichkeit bleiben unberührt.
 Hinblick auf Erfordernisse und Maßnahmen im Sinne des § 9 Absatz 3
 Satz 1 Nummer 4 erforderlich ist, insbesondere weil wesentliche
 Veränderungen von Natur und Landschaft im Planungsraum eingetreten,
-vorgesehen oder zu erwarten sind. Grünordnungspläne können aufgestellt
-werden.
+vorgesehen oder zu erwarten sind.
 
 (3) Die in den Landschaftsplänen für die örtliche Ebene
 konkretisierten Ziele, Erfordernisse und Maßnahmen des Naturschutzes
@@ -890,15 +944,44 @@ Baugesetzbuches zu berücksichtigen und können als Darstellungen oder
 Festsetzungen nach den §§ 5 und 9 des Baugesetzbuches in die
 Bauleitpläne aufgenommen werden.
 
-(4) Werden in den Ländern Berlin, Bremen und Hamburg die örtlichen
+(4) Landschaftspläne sind mindestens alle zehn Jahre daraufhin zu
+prüfen, ob und in welchem Umfang mit Blick auf die in Absatz 2 Satz 1
+genannten Kriterien eine Fortschreibung erforderlich ist.
+
+(5) Werden in den Ländern Berlin, Bremen und Hamburg die örtlichen
 Erfordernisse und Maßnahmen des Naturschutzes und der
 Landschaftspflege in Landschaftsrahmenplänen oder
 Landschaftsprogrammen dargestellt, so ersetzen diese die
 Landschaftspläne.
 
-(5) Die Zuständigkeit und das Verfahren zur Aufstellung der
-Landschaftspläne und Grünordnungspläne sowie deren Durchführung
-richten sich nach Landesrecht.
+(6) Grünordnungspläne können aufgestellt werden. Insbesondere können
+sie aufgestellt werden zur
+
+1.  Freiraumsicherung und -pflege einschließlich der Gestaltung des
+    Ortsbildes sowie Entwicklung der grünen Infrastruktur in Wohn-,
+    Gewerbe- und sonstigen baulich genutzten Gebieten,
+
+
+2.  Gestaltung, Pflege und Entwicklung von Parks und anderen Grünanlagen,
+    Gewässern mit ihren Uferbereichen, urbanen Wäldern oder anderen
+    größeren Freiräumen mit besonderer Bedeutung für die siedlungsbezogene
+    Erholung sowie des unmittelbaren Stadt- bzw. Ortsrandes,
+
+
+3.  Gestaltung, Pflege und Entwicklung von Teilräumen bestimmter
+    Kulturlandschaften mit ihren jeweiligen Kulturlandschaftselementen
+    sowie von Bereichen mit einer besonderen Bedeutung für die Erholung in
+    der freien Landschaft.
+
+
+
+Besteht ein Landschaftsplan, so sind Grünordnungspläne aus diesem zu
+entwickeln.
+
+(7) Die Inhalte der Landschaftspläne und Grünordnungspläne werden
+eigenständig erarbeitet und dargestellt. Im Übrigen richten sich die
+Zuständigkeit und das Verfahren zur Aufstellung und Durchführung nach
+Landesrecht.
 
 
 ### § 12 Zusammenwirken der Länder bei der Planung
@@ -1562,6 +1645,24 @@ Naturschutzgebiete der Allgemeinheit zugänglich gemacht werden.
 Durchführung von Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer
 3 und 4 des Wasserhaushaltsgesetzes verboten.
 
+(4) In Naturschutzgebieten ist im Außenbereich nach § 35 des
+Baugesetzbuches die Neuerrichtung von Beleuchtungen an Straßen und
+Wegen sowie von beleuchteten oder lichtemittierenden Werbeanlagen
+verboten. Von dem Verbot des Satzes 1 kann auf Antrag eine Ausnahme
+zugelassen werden, soweit
+
+1.  die Schutzzwecke des Gebietes nicht beeinträchtigt werden können oder
+
+
+2.  dies aus Gründen der Verkehrssicherheit oder anderer Interessen der
+    öffentlichen Sicherheit erforderlich ist.
+
+
+
+Weitergehende Schutzvorschriften, insbesondere solche des § 41a und
+einer auf Grund von § 54 Absatz 4d erlassenen Rechtsverordnung sowie
+solche des Landesrechts, bleiben unberührt.
+
 
 #### § 24 Nationalparke, Nationale Naturmonumente
 
@@ -1594,10 +1695,8 @@ der Bevölkerung dienen.
 
 (3) Nationalparke sind unter Berücksichtigung ihres besonderen
 Schutzzwecks sowie der durch die Großräumigkeit und Besiedlung
-gebotenen Ausnahmen wie Naturschutzgebiete zu schützen. In
-Nationalparken ist die Errichtung von Anlagen zur Durchführung von
-Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer 3 und 4 des
-Wasserhaushaltsgesetzes verboten.
+gebotenen Ausnahmen wie Naturschutzgebiete zu schützen. § 23 Absatz 3
+und 4 gilt in Nationalparken entsprechend.
 
 (4) Nationale Naturmonumente sind rechtsverbindlich festgesetzte
 Gebiete, die
@@ -1647,7 +1746,9 @@ der Bildung für nachhaltige Entwicklung.
 (3) Biosphärenreservate sind unter Berücksichtigung der durch die
 Großräumigkeit und Besiedlung gebotenen Ausnahmen über Kernzonen,
 Pflegezonen und Entwicklungszonen zu entwickeln und wie
-Naturschutzgebiete oder Landschaftsschutzgebiete zu schützen.
+Naturschutzgebiete oder Landschaftsschutzgebiete zu schützen. § 23
+Absatz 4 gilt in Kern- und Pflegezonen von Biosphärenreservaten
+entsprechend.
 
 (4) Biosphärenreservate können auch als Biosphärengebiete oder
 Biosphärenregionen bezeichnet werden.
@@ -1817,14 +1918,19 @@ verboten:
     Küstenbereich, Seegraswiesen und sonstige marine Makrophytenbestände,
     Riffe, sublitorale Sandbänke, Schlickgründe mit bohrender
     Bodenmegafauna sowie artenreiche Kies-, Grobsand- und Schillgründe im
-    Meeres- und Küstenbereich.
+    Meeres- und Küstenbereich,
+
+
+7.  magere Flachland-Mähwiesen und Berg-Mähwiesen nach Anhang I der
+    Richtlinie 92/43/EWG, Streuobstwiesen, Steinriegel und Trockenmauern.
 
 
 
 Die Verbote des Satzes 1 gelten auch für weitere von den Ländern
 gesetzlich geschützte Biotope. Satz 1 Nummer 5 gilt nicht für genutzte
 Höhlen- und Stollenbereiche sowie für Maßnahmen zur Verkehrssicherung
-von Höhlen und naturnahen Stollen.
+von Höhlen und naturnahen Stollen. Satz 1 Nummer 7 gilt nicht für die
+Unterhaltung von Funktionsgrünland auf Flugbetriebsflächen.
 
 (3) Von den Verboten des Absatzes 2 kann auf Antrag eine Ausnahme
 zugelassen werden, wenn die Beeinträchtigungen ausgeglichen werden
@@ -1860,7 +1966,47 @@ Die Registrierung und deren Zugänglichkeit richten sich nach
 Landesrecht.
 
 (8) Weiter gehende Schutzvorschriften einschließlich der Bestimmungen
-über Ausnahmen und Befreiungen bleiben unberührt.
+über Ausnahmen und Befreiungen sowie bestehende landesrechtliche
+Regelungen, die die in Absatz 2 Satz 1 Nummer 7 genannten Biotope
+betreffen, bleiben unberührt.
+
+
+#### § 30a Ausbringung von Biozidprodukten
+
+Außerhalb geschlossener Räume ist in Naturschutzgebieten,
+Nationalparken, Nationalen Naturmonumenten, Kern- und Pflegezonen von
+Biosphärenreservaten, Naturdenkmälern sowie in gesetzlich geschützten
+Biotopen verboten:
+
+1.  der flächige Einsatz von Biozidprodukten der Produktart 18
+    (Insektizide, Akarizide und Produkte gegen andere Arthropoden) des
+    Anhangs V der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments
+    und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt
+    und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S.
+    1; L 303 vom 20.11.2015, S. 109; L 280 vom 28.10.2017, S. 57), die
+    zuletzt durch die Delegierte Verordnung (EU) 2019/1825 (ABl. L 279 vom
+    31\.10.2019, S. 19) geändert worden ist,
+
+
+2.  das Auftragen von Biozidprodukten der Produktart 8 (Holzschutzmittel)
+    des Anhangs V der Verordnung (EU) Nr. 528/2012 durch Spritzen oder
+    Sprühen.
+
+
+
+Die für Naturschutz und Landschaftspflege zuständige Behörde kann im
+Einzelfall auf Antrag Ausnahmen von dem Verbot des Satzes 1 Nummer 1
+zulassen, soweit dies zum Schutz der Gesundheit von Mensch und Tier
+erforderlich ist. Die Länder können unter den Voraussetzungen nach
+Satz 2 Ausnahmen für bestimmte Fallgruppen auch in der Erklärung im
+Sinne von § 22 Absatz 1 zulassen. § 34 und weitergehende
+Schutzvorschriften des Landesrechts sowie Maßnahmen zur Bekämpfung von
+Gesundheitsschädlingen nach den Vorschriften des
+Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), das
+zuletzt durch Artikel 1 des Gesetzes vom 28. Mai 2021 (BGBl. I S.
+1174) geändert worden ist, in der jeweils geltenden Fassung oder nach
+den auf der Grundlage des Infektionsschutzgesetzes erlassenen
+Verordnungen der Länder bleiben unberührt.
 
 
 ### Abschnitt 2 - Netz „Natura 2000“
@@ -2196,6 +2342,13 @@ werden. Die Entnahme hat pfleglich zu erfolgen. Bei der Entscheidung
 über Entnahmen zu Zwecken der Produktion regionalen Saatguts sind die
 günstigen Auswirkungen auf die Ziele des Naturschutzes und der
 Landschaftspflege zu berücksichtigen.
+
+(4a) Ein vernünftiger Grund nach Absatz 1 liegt insbesondere vor, wenn
+wissenschaftliche oder naturkundliche Untersuchungen an Tieren oder
+Pflanzen sowie diesbezügliche Maßnahmen der Umweltbildung im zur
+Erreichung des Untersuchungsziels oder Bildungszwecks notwendigen
+Umfang vorgenommen werden. Vorschriften des Tierschutzrechts bleiben
+unberührt.
 
 (5) Es ist verboten,
 
@@ -3674,6 +3827,57 @@ Geräte, Mittel oder Vorrichtungen, die auf Grund anderer
 Rechtsvorschriften einer Zulassung bedürfen, sofern bei der Zulassung
 die Belange des Artenschutzes zu berücksichtigen sind.
 
+(6a) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
+Bundesrates zum Schutz von Tieren und Pflanzen wild lebender Arten die
+Verwendung von Insektenfallen außerhalb geschlossener Räume zu
+beschränken oder zu verbieten. In der Rechtsverordnung kann
+insbesondere Folgendes geregelt werden:
+
+1.  allgemeine Ausnahmen von Verboten oder Beschränkungen im Sinne von
+    Satz 1,
+
+
+2.  die Voraussetzungen, unter denen behördliche Einzelfallausnahmen von
+    Verboten oder Beschränkungen im Sinne von Satz 1 erteilt werden
+    können,
+
+
+3.  Hinweispflichten betreffend Verbote oder Beschränkungen im Sinne von
+    Satz 1 für diejenigen, die Insektenfallen zum Verkauf anbieten.
+
+
+
+
+(6b) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
+Bundesrates zum Schutz von Tieren wild lebender Arten
+
+1.  den Betrieb von Himmelsstrahlern unter freiem Himmel ganzjährig oder
+    innerhalb bestimmter Zeiträume zu beschränken oder zu verbieten,
+
+
+2.  näher zu bestimmen, welche Arten von starken Projektionsscheinwerfern
+    mit über die Horizontale nach oben gerichteten Lichtstrahlen oder
+    Lichtkegeln, die geeignet sind, Tiere wild lebender Arten erheblich zu
+    beeinträchtigen, dem Verbot und der Beschränkung nach Nummer 1
+    unterfallen.
+
+
+
+In der Rechtsverordnung kann insbesondere Folgendes geregelt werden:
+
+1.  allgemeine Ausnahmen von Verboten oder Beschränkungen im Sinne von
+    Satz 1 Nummer 1,
+
+
+2.  die Voraussetzungen, unter denen behördliche Einzelfallausnahmen von
+    Verboten oder Beschränkungen im Sinne von Satz 1 Nummer 1 erteilt
+    werden können.
+
+
+
+
 (7) Das Bundesministerium für Umwelt, Naturschutz und nukleare
 Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
 Bundesrates Vorschriften zum Schutz von Horststandorten von Vogelarten
@@ -3732,10 +3936,14 @@ Einvernehmens mit dem Bundesministerium der Finanzen sowie dem
 Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen
 nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen
 des Einvernehmens mit dem Bundesministerium für Wirtschaft und
-Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen
-1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und
-Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch
-nur, soweit sie sich beziehen auf
+Energie. Rechtsverordnungen nach Absatz 6a bedürfen des Einvernehmens
+mit dem Bundesministerium für Ernährung und Landwirtschaft sowie dem
+Bundesministerium für Bildung und Forschung. Rechtsverordnungen nach
+Absatz 6b bedürfen des Einvernehmens mit dem Bundesministerium für
+Bildung und Forschung. Im Übrigen bedürfen die Rechtsverordnungen nach
+den Absätzen 1 bis 8 des Einvernehmens mit dem Bundesministerium für
+Ernährung und Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6
+und 8 jedoch nur, soweit sie sich beziehen auf
 
 1.  Tierarten, die dem Jagd- oder Fischereirecht unterliegen,
 
@@ -3755,6 +3963,85 @@ allgemeine Anforderungen an Bewirtschaftungsvorgaben für die land-,
 forst- und fischereiwirtschaftliche Bodennutzung im Sinne des § 44
 Absatz 4 festzulegen. Sie können die Ermächtigung nach Satz 1 durch
 Rechtsverordnung auf andere Landesbehörden übertragen.
+
+(10a) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates nähere Anforderungen für die Durchführung von Maßnahmen,
+die darauf abzielen, durch Nutzung, Pflege oder das Ermöglichen
+ungelenkter Sukzession für einen Zeitraum von mindestens einem Jahr
+bis zu in der Regel zehn Jahren auf Flächen mit einer zugelassenen
+Gewinnung mineralischer Rohstoffe den Zustand von Biotopen und Arten
+zu verbessern, zu regeln, bei deren Beachtung im Rahmen der
+Inanspruchnahme der Fläche oder eines Teils derselben
+
+1.  nicht gegen die Zugriffs- und Besitzverbote nach § 44 Absatz 1 und 2
+    verstoßen wird oder
+
+
+2.  im Interesse der maßgeblich günstigen Auswirkungen auf die Umwelt oder
+    zum Schutz der natürlich vorkommenden Tier- und Pflanzenwelt eine
+    Ausnahme von den Zugriffs- und Besitzverboten nach § 44 Absatz 1 und 2
+    allgemein zugelassen wird.
+
+
+
+In der Rechtsverordnung ist insbesondere zu regeln,
+
+1.  dass und zu welchem Zeitpunkt Maßnahmen im Sinne von Satz 1 der für
+    Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen sind,
+
+
+2.  welche Unterlagen bei dieser Anzeige vorzulegen sind,
+
+
+3.  dass die Behörde die Durchführung der Maßnahme zeitlich befristen,
+    anderweitig beschränken oder auf Antrag den Zeitraum für die
+    Durchführung der Maßnahme auf insgesamt bis zu 15 Jahre verlängern
+    kann.
+
+
+
+
+(10b) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie sowie mit dem Bundesministerium für Verkehr
+und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
+Bundesrates nähere Anforderungen für die Durchführung von Maßnahmen,
+die darauf abzielen, durch das Ermöglichen ungelenkter Sukzession oder
+durch Pflege für einen Zeitraum von mindestens einem Jahr bis zu in
+der Regel zehn Jahren auf Flächen mit einer zugelassenen gewerblichen,
+verkehrlichen oder baulichen Nutzung den Zustand von Biotopen und
+Arten zu verbessern, zu regeln, bei deren Beachtung im Rahmen der
+Inanspruchnahme der Fläche oder eines Teils derselben
+
+1.  nicht gegen die Zugriffs- und Besitzverbote nach § 44 Absatz 1 und 2
+    verstoßen wird oder
+
+
+2.  im Interesse der maßgeblich günstigen Auswirkungen auf die Umwelt oder
+    zum Schutz der natürlich vorkommenden Tier- und Pflanzenwelt eine
+    Ausnahme von den Zugriffs- und Besitzverboten nach § 44 Absatz 1 und 2
+    allgemein zugelassen wird.
+
+
+
+In der Rechtsverordnung ist insbesondere zu regeln,
+
+1.  dass und zu welchem Zeitpunkt Maßnahmen im Sinne von Satz 1 der für
+    Naturschutz und Landschaftspflege zuständigen Behörde anzuzeigen sind,
+
+
+2.  welche Unterlagen bei dieser Anzeige vorzulegen sind,
+
+
+3.  dass die Behörde die Durchführung der Maßnahme zeitlich befristen,
+    anderweitig beschränken oder auf Antrag den Zeitraum für die
+    Durchführung der Maßnahme auf insgesamt bis zu 15 Jahre verlängern
+    kann.
+
+
+
 
 (11) Die Bundesregierung erlässt mit Zustimmung des Bundesrates zur
 Durchführung dieses Gesetzes allgemeine Verwaltungsvorschriften,
@@ -4428,10 +4715,11 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
     (Canis lupus) füttert oder mit Futter anlockt oder
 
 
-6.  einer Rechtsverordnung nach § 54 Absatz 4 Satz 1 oder Absatz 4a oder
-    einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
-    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
-    Tatbestand auf diese Bußgeldvorschrift verweist.
+6.  einer Rechtsverordnung nach § 54 Absatz 4 Satz 1, Absatz 4a oder
+    Absatz 4d Satz 1 Nummer 2 oder einer vollziehbaren Anordnung auf Grund
+    einer solchen Rechtsverordnung zuwiderhandelt, soweit die
+    Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
 
 
 
@@ -4457,12 +4745,21 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
     Meeresgebiet vornimmt, das als Naturschutzgebiet geschützt wird,
 
 
-4a. entgegen § 23 Absatz 3, § 24 Absatz 3 Satz 2 oder § 33 Absatz 1a Satz
-    1 eine dort genannte Anlage errichtet,
+4a. entgegen § 23 Absatz 3, auch in Verbindung mit § 24 Absatz 3 Satz 2,
+    oder entgegen § 33 Absatz 1a Satz 1 eine dort genannte Anlage
+    errichtet,
+
+
+4b. entgegen § 23 Absatz 4 Satz 1, auch in Verbindung mit § 24 Absatz 3
+    Satz 2, eine dort genannte Beleuchtung oder Werbeanlage errichtet,
 
 
 5.  entgegen § 30 Absatz 2 Satz 1 ein dort genanntes Biotop zerstört oder
     sonst erheblich beeinträchtigt,
+
+
+5a. entgegen § 30a Satz 1 ein dort genanntes Biozidprodukt flächig
+    einsetzt oder aufträgt,
 
 
 6.  entgegen § 33 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1,

@@ -13,24 +13,12 @@ Ausfertigungsdatum
 :   2013-08-02
 
 Fundstelle
-:   BGBl I: 2013, 2865
+:   BGBl I: 2013, 2865 (2021 I 4304)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 27.4.2021 BAnz AT 30.04.2021 V1
+:   Art. 2 V v. 25.8.2021 BAnz AT 07.09.2021 V1
 
-Änderung durch
-:   Art. 7 Abs. 19 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 18.5.2021 I 1122, 4304 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 32 G v. 23.6.2021 I 1858 (Nr. 35) ist berücksichtigt
-
-Änderung durch
-:   Art. 2 V v. 25.8.2021 BAnz AT 07.09.2021 V1 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand: Berichtigung v. 14.9.2021 I 4304 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand: Berichtigung v. 14.9.2021 I 4304 ist berücksichtigt
 Stand: V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
 
 ## Eingangsformel
@@ -5586,7 +5574,7 @@ Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934,
 
 ### Anlage 1 Anlage AL zur Außenwirtschaftsverordnung
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 **Inhaltsübersicht**
 ##
@@ -10789,14 +10777,14 @@ Anmerkung: Siehe auch „Luftfahrzeug“.
 
 ### Anlage 3 Vermögen von Inländern im Ausland
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 ![banzat_2021_210811001115B001.jpg](banzat_2021_210811001115B001.jpg)
 ![banzat_2021_210811001115B002.jpg](banzat_2021_210811001115B002.jpg)
 
 ### Anlage 4 Vermögen von Ausländern im Inland
 
-(Fundstelle: BAnz AT 07.09.2021.V1)
+(Fundstelle: BAnz AT 07.09.2021 V1)
 
 ![banzat_2021_210811001115B003.jpg](banzat_2021_210811001115B003.jpg)
 ![banzat_2021_210811001115B004.jpg](banzat_2021_210811001115B004.jpg)

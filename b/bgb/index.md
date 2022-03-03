@@ -4481,9 +4481,7 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 
 
 
-9.  (Laufzeit bei Dauerschuldverhältnissen)
-
-    bei einem Vertragsverhältnis, das die regelmäßige Lieferung von Waren
+9.  bei einem Vertragsverhältnis, das die regelmäßige Lieferung von Waren
     oder die regelmäßige Erbringung von Dienst- oder Werkleistungen durch
     den Verwender zum Gegenstand hat,
 
@@ -4492,17 +4490,18 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 
 
     b)  eine den anderen Vertragsteil bindende stillschweigende Verlängerung
-        des Vertragsverhältnisses um jeweils mehr als ein Jahr oder
+        des Vertragsverhältnisses, es sei denn das Vertragsverhältnis wird nur
+        auf unbestimmte Zeit verlängert und dem anderen Vertragsteil wird das
+        Recht eingeräumt, das verlängerte Vertragsverhältnis jederzeit mit
+        einer Frist von höchstens einem Monat zu kündigen, oder
 
 
-    c)  zu Lasten des anderen Vertragsteils eine längere Kündigungsfrist als
-        drei Monate vor Ablauf der zunächst vorgesehenen oder stillschweigend
-        verlängerten Vertragsdauer;
+    c)  eine zu Lasten des anderen Vertragsteils längere Kündigungsfrist als
+        einen Monat vor Ablauf der zunächst vorgesehenen Vertragsdauer;
 
 
 
-
-    dies gilt nicht für Verträge über die Lieferung als zusammengehörig
+    dies gilt nicht für Verträge über die Lieferung zusammengehörig
     verkaufter Sachen sowie für Versicherungsverträge;
 
 

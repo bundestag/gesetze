@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 83
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 31 G v. 18.7.2017 I 2745
-
-Änderung durch
-:   Art. 1 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 7.2.2022 I 171
 
 
 ## § 1 Elektronische Aktenführung

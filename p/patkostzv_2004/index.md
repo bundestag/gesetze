@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2083
 
-Geändert durch
-:   Art. 4 V v. 1.11.2013 I 3906
-
-Änderung durch
-:   Art. 3 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 3 V v. 7.2.2022 I 171
 
 
 

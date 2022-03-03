@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 Nr. 2 iVm Anlage 3 V v. 8.11.2019 II 907
 
 Änderung durch
-:   Art. 1 Nr. 2 iVm Anlage 4 V v. 20.5.2021 II 442 (Nr. 10) mWv 1.1.2022 noch nicht berücksichtigt
+:   Art. 1 Nr. 2 iVm Anlage 4 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Inhaltsverzeichnis
@@ -1067,9 +1067,9 @@ Andere Begriffe
     von -161° C verflüssigt wurde.
 
 
-40.[^bjnr130030011bjne000202125_01_BJNR130030011BJNE000203126]
+40.[^bjnr130030011bjne000202125_01_BJNR130030011BJNE000204119]
  „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
-    Binnenschiffe Ausgabe 2019/12
+    Binnenschiffe Ausgabe 2021/1
     . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein
     Rheinuferstaat oder Belgien zu verstehen.
 
@@ -1077,10 +1077,10 @@ Andere Begriffe
 
 
     Europäischer Standard der technischen Vorschriften für Binnenschiffe
-    (ES-TRIN), Edition 2019/1, vom Europäischen Ausschuss zur Ausarbeitung
+    (ES-TRIN), Edition 2021/1, vom Europäischen Ausschuss zur Ausarbeitung
     von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen mit
-    Beschluss 2018-II-1 vom 8. November 2018.
-[^bjnr130030011bjne000202125_01_BJNR130030011BJNE000203126]: 
+    Beschluss 2020-II-1 vom 13. Oktober 2020.
+[^bjnr130030011bjne000202125_01_BJNR130030011BJNE000204119]: 
 
 #### § 1.02 Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
 

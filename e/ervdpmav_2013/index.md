@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 3906
 
 Zuletzt geändert durch
-:   Art. 2 V v. 10.12.2018 I 2444
-
-Änderung durch
-:   Art. 2 V v. 7.2.2022 I 171 (Nr. 5) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 7.2.2022 I 171
 
 
 ## § 1 Signaturgebundene elektronische Kommunikation

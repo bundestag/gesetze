@@ -20,18 +20,14 @@ Zuletzt geändert durch
 :   Art. 1 Nr. 1 V v. 20.3.2019 BAnz AT 26.03.2019 V1
 
 Änderung durch
-:   Art. 2 V v. 25.10.2021 BAnz AT 29.10.2021 V2 mWv 30.10.2021 noch nicht berücksichtigt
+:   Art. 2 V v. 25.10.2021 BAnz AT 29.10.2021 V2 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
-## Anlage I Prüfvereinbarung
+## Anlage I Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
-(Fundstelle: BAnz AT 27.03.2018 V2)
+(Fundstelle: BAnz AT 29.10.2021 V2)
 
-Vereinbarung
-über die Durchführung
-des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen
-(Prüfvereinbarung)
-**Prüfvereinbarung**
+Prüfvereinbarung
 ## zwischen
 
 der Bundesrepublik Deutschland, vertreten durch das Bundesministerium
@@ -39,61 +35,78 @@ für Verkehr und digitale Infrastruktur (BMVI), dieses vertreten durch
 das Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln,
 dieses wiederum vertreten durch seinen Präsidenten
 
-– Mauterheber –
+*    *
+    *
 
-und
-
-(Name Anbieter), (Adresse Anbieter), vertreten durch (Vertretung
-Anbieter), (registriert gemäß Artikel 3 der Entscheidung 2009/750/EG
-in …) (Nachweis der Registrierung)
-
-– Anbieter –
-
-**Inhaltsverzeichnis**
-##
+*    *
+    *   – Mauterheber –
 
 
-*    *   §  1
+*    *   und
+
+    *
+
+*    *
+    *
+
+*    *   (Name Anbieter), (Adresse Anbieter), vertreten durch (Vertretung
+        Anbieter), (registriert gemäß Artikel 4 der Richtlinie (EU) 2019/520
+        in …) (Nachweis der Registrierung)
+
+
+*    *
+    *
+
+*    *
+    *   – Anbieter –
+
+
+
+
+### **Inhaltsverzeichnis**
+
+
+*    *   § 1
 
     *   Gegenstand der Vereinbarung
 
 
-*    *   §  2
+*    *   § 2
 
     *   Vertragsbestandteile
 
 
-*    *   §  3
+*    *   § 3
 
     *   Ablauf des Prüfverfahrens
 
 
-*    *   §  4
+*    *   § 4
 
     *   Zeit- und Projektplan
 
 
-*    *   §  5
+*    *   § 5
 
     *   Austausch von Daten
 
 
-*    *   §  6
+*    *   § 6
 
     *   Mauterhebung und Mautauskehr
 
 
-*    *   §  7
+*    *   § 7
 
     *   Sicherheiten
 
 
-*    *   §  8
+*    *   § 8
 
     *   Versicherungen
 
 
-*    *   §  9
+*    *   § 9
 
     *   Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
 
@@ -198,17 +211,107 @@ in …) (Nachweis der Registrierung)
     *   Salvatorische Klausel
 
 
-*    *   Anlagen
+
+
+*    *   Anlagen:
+
+    *
+
+*    *   Anlage 1 zur Prüfvereinbarung:
+
+    *   gegebenenfalls Zusatzvereinbarung
+
+
+*    *   Anlage 2 zur Prüfvereinbarung:
+
+    *   Verfahren zur Feststellung der Gebrauchstauglichkeit -
+
+
+*    *
+    *   Dokument A - Verfahrensbeschreibung
+
+
+*    *   Anlage 3 zur Prüfvereinbarung:
+
+    *   Verfahren zur Feststellung der Gebrauchstauglichkeit -
+
+
+*    *
+    *   Dokument B - Prüfkonzept
 
 
 
-##
+
+*    *
+    *   Anhang A - Vorgaben für Prüfprotokolle und -berichte
+
+
+*    *
+    *   Anhang A.1: Prüfprotokoll für den einzelnen Prüffall (Phase 1 und
+        Phase 2)
+
+
+*    *
+    *   Anhang A.2: Szenariobericht (nur Phase 3)
+
+
+*    *
+    *   Anhang B: Prüfkataloge
+
+
+*    *
+    *   Anlage 1 zum Dokument B- Prüfkonzept:
+
+    *   Prüfkatalog „Schnittstellenprüfung“
+
+
+*    *
+    *   Anlage 2 zum Dokument B- Prüfkonzept:
+
+    *   Prüfkatalog „DSRC-Kompatibilitätstests“
+
+
+*    *
+    *   Anlage 3 zum Dokument B- Prüfkonzept:
+
+    *   Prüfkatalog „MED-Kompatibilitätstests“
+
+
+*    *
+    *   Anlage 4 zum Dokument B- Prüfkonzept:
+
+    *   Prüfkatalog „Probebetrieb“
+
+
+*    *   Anlage 4 zur Prüfvereinbarung:
+
+    *   Zeit- und Projektplan
+
+    *
+
+*    *   Anlage 5 zur Prüfvereinbarung:
+
+    *   Entgeltordnung
+
+    *
+
+*    *   Anlage 6 zur Prüfvereinbarung:
+
+    *   Glossar
+
+    *
+
+*    *   Anlage 7 zur Prüfvereinbarung:
+
+    *   gegebenenfalls Erklärungen / Schriftwechsel
+
+    *
 
 
 
 ## § 1 Gegenstand der Vereinbarung
 
-(1) Diese Prüfvereinbarung („Vereinbarung“) regelt auf der Grundlage
+   (1) Diese Prüfvereinbarung („Vereinbarung“) regelt auf der Grundlage
 von § 10 des Mautsystemgesetzes (MautSysG) und § 4d des
 Bundesfernstraßenmautgesetzes (BFStrMG) sowie der dazu erlassenen
 Rechtsverordnungen die Rechte und Pflichten des Anbieters und des
@@ -312,7 +415,7 @@ Zeit- und Projektplan wird Teil dieser Vereinbarung (Anlage 4).
 
 (2) Der Anbieter wird einen Vorschlag für den Zeit- und Projektplan
 erstellen. Der Mauterheber wird diesen Vorschlag prüfen und Änderungen
-mit dem Anbieter abstimmen.
+mit dem Anbieterabstimmen.
 
 (3) Der Anbieter darf von den Festlegungen des Zeit- und Projektplans
 nur aus wichtigem Grund und nur mit Zustimmung des Mauterhebers
@@ -340,14 +443,12 @@ verlangen.
 
 (3) Der Anbieter soll sich hinsichtlich des Inhalts, der Struktur und
 des Umfangs der Dokumente gemäß Absatz 2 an den Empfehlungen zur
-Dokumentation des Teilsystems des Anbieters orientieren, die Teil der
-Vorgaben für das EETS-Gebiet BFStrMG sind.
+Dokumentation des Teilsystems des Anbieters orientieren, die in Anlage
+3 (Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B -
+Prüfkonzept) enthalten sind.
 
-(4) Der Mauterheber übermittelt dem Anbieter insbesondere folgende
+Der Mauterheber übermittelt dem Anbieter insbesondere folgende
 Dokumente:
-
-–   Empfehlungen zur Dokumentation des Teilsystems des EETS-Anbieters,
-
 
 –   Spezifikation der Schnittstellen des Mauterhebers,
 
@@ -356,12 +457,16 @@ Dokumente:
     Gebrauchstauglichkeitsprüfung,
 
 
-–   Muster-Zulassungsvertrag.
+–   Muster-Zulassungsvertrag,
+
+
+–   Verfahren zur Feststellung der Gebrauchstauglichkeit - Dokument B -
+    Prüfkonzept nebst Anlagen.
 
 
 
 
-(5) Jede Partei bestätigt den Eingang von Dokumenten schriftlich
+(5) Jede Partei bestätigt den Eingang von Dokumenten in Textform
 gegenüber der jeweils anderen Partei. Nach Erhalt der Dokumente prüfen
 die Parteien die Dokumente auf ihre Vollständigkeit und fordern
 gegebenenfalls fehlende Dokumente, Dokumententeile oder andere für den
@@ -393,9 +498,9 @@ schriftlicher Erlaubnis des Mauterhebers und nur in dem in der
 Erlaubnis festgelegten Umfang zur Mitwirkung an der Erhebung der Maut
 im Geltungsbereich des EETS-Gebiets BFStrMG befugt.
 
-(2) Soweit der Anbieter nach Absatz 1 Maut im Geltungsbereich des
-EETS-Gebiets BFStrMG an der Erhebung der Maut mitwirkt, kehrt er diese
-gemäß der Vorgaben für das EETS-Gebiet BFStrMG an den Mauterheber aus.
+(2) Soweit der Anbieter nach Absatz 1 im Geltungsbereich des EETS-
+Gebiets BFStrMG an der Erhebung der Maut mitwirkt, kehrt er diese
+gemäß den Vorgaben für das EETS-Gebiet BFStrMG an den Mauterheber aus.
 
 (3) Der Anbieter muss sicherstellen, dass die Zahlungsvorgänge
 zwischen ihm, seinen Nutzern und dem Mauterheber so ausgestaltet sind,
@@ -414,49 +519,51 @@ gemäß § 19 Absatz 1 MautSysG übergeben, die den Mauterheber
 berechtigt, für alle Ansprüche aus dieser Vereinbarung, insbesondere
 für die an den Mauterheber auszukehrenden Mauteinnahmen, Zahlungen auf
 erstes Anfordern zu erhalten. Für die Prognose wird ein
-Betrachtungszeitraum von 12 Monaten zugrunde gelegt. Die Wirksamkeit
-der Bankgarantie oder des gleichwertigen Finanzinstruments kann bis
-zum Beginn des Pilotbetriebs aufschiebend bedingt sein.
+Betrachtungszeitraum von zwölf Monaten zugrunde gelegt. Die
+Wirksamkeit der Bankgarantie oder des gleichwertigen Finanzinstruments
+kann bis zum Beginn des Pilotbetriebs aufschiebend bedingt sein.
 
 (2) Die Bankgarantie muss von einem Kreditinstitut gegeben werden, das
 seinen Sitz oder seine Niederlassung in der Europäischen Union oder in
-der EFTA hat. Das Kreditinstitut muss ein Investmentgrade-Rating für
-Langfristverbindlichkeiten von mindestens A3 (Moody´s) bzw. A- (S&P
-oder Fitch) aufweisen und für Kurzfristverbindlichkeiten von
-mindestens P2 (Moody´s) bzw. A-2 (S&P) bzw. F-2 (Fitch) aufweisen.
-Verschlechtert sich das Rating des Kreditinstituts während der
-Laufzeit der Bankgarantie, sodass die vorstehend genannten
-Mindestanforderungen nicht mehr erfüllt sind, ist der Anbieter
-verpflichtet, unverzüglich, spätestens aber innerhalb eines Monats
-nach Bekanntwerden des schlechteren Ratings, eine Bankgarantie eines
-Kreditinstituts, das die in diesem Absatz genannten Mindestvorgaben
-erfüllt, zu übergeben.
+der Europäischen Freihandelsassoziation (EFTA) hat. Das Kreditinstitut
+muss ein Investmentgrade-Rating für Langfristverbindlichkeiten von
+mindestens A3 (Moody's) bzw. A- (S&P oder Fitch) aufweisen und für
+Kurzfristverbindlichkeiten von mindestens P2 (Moody's) bzw. A-2 (S&P)
+bzw. F-2 (Fitch) aufweisen. Verschlechtert sich das Rating des
+Kreditinstituts während der Laufzeit der Bankgarantie, sodass die
+vorstehend genannten Mindestanforderungen nicht mehr erfüllt sind, ist
+der Anbieter verpflichtet, unverzüglich, spätestens aber innerhalb
+eines Monats nach Bekanntwerden des schlechteren Ratings, eine
+Bankgarantie eines Kreditinstituts, das die in diesem Absatz genannten
+Mindestvorgaben erfüllt, zu übergeben.
 
 (3) Sofern ein anderes Finanzinstrument als eine Bankgarantie zur
 Sicherung der Mauteinnahmen vorgehalten wird, muss dieses einer
 Bankgarantie, die die genannten Kriterien in Absatz 1 erfüllt,
 gleichwertig sein. Ein Finanzinstrument ist gleichwertig, wenn es
 denselben Grad an Sicherheit wie eine Bankgarantie bietet. Dies kann
-insbesondere der Fall sein, wenn die Gesellschafter des Anbieters eine
-Kapitalintakthalteerklärung in Bezug auf den Anbieter abgeben und eine
-der zu besichernden Summe angemessene finanzielle Leistungsfähigkeit
-besitzen. Die Entscheidung über die Gleichwertigkeit steht im Ermessen
-des Bundesamtes für Güterverkehr.
+insbesondere dann der Fall sein, wenn die Gesellschafter des Anbieters
+eine Kapitalintakthalteerklärung in Bezug auf den Anbieter abgeben und
+eine der zu besichernden Summe angemessene finanzielle
+Leistungsfähigkeit besitzen. Die Entscheidung über die
+Gleichwertigkeit steht im Ermessen des Bundesamtes für Güterverkehr.
 
 (4) Die Garantieerklärung oder der Nachweis eines gleichwertigen
 Finanzinstruments muss vom Anbieter in deutscher Sprache oder in einer
-amtlich beglaubigten Übersetzung übergeben werden. Sollte die
-Bankgarantieerklärung oder die Laufzeit des gleichwertigen
-Finanzinstruments befristet sein, ist der Anbieter verpflichtet,
-spätestens zwei Kalendermonate vor Ablauf des Geltungszeitraums eine
-Verlängerung dieser Bankgarantieerklärung oder des gleichwertigen
-Finanzinstruments vorzulegen. Legt der Anbieter die Verlängerung der
-Bankgarantie oder des gleichwertigen Finanzinstruments nicht
-rechtzeitig vor, ist der Mauterheber – unbeschadet seines Rechts zur
-Beendigung dieser Vereinbarung nach § 23 – von der Erfüllung seiner
-Verpflichtungen nach dieser Vereinbarung so lange frei, bis der
-Anbieter die Verlängerung der Bankgarantieerklärung oder des
-gleichwertigen Finanzinstruments vorgelegt hat
+amtlich beglaubigten Übersetzung übergeben werden. Die Bankgarantie
+muss sich nach zeitlichem Ablauf automatisch erneuern („revolvierende
+Bankgarantie“). Sollte die Bankgarantieerklärung oder die Laufzeit des
+gleichwertigen Finanzinstruments befristet sein, ist der Anbieter
+verpflichtet, spätestens zwei Kalendermonate vor Ablauf des
+Geltungszeitraums eine Verlängerung dieser Bankgarantieerklärung oder
+des gleichwertigen Finanzinstruments vorzulegen. Legt der Anbieter die
+Verlängerung der Bankgarantie oder des gleichwertigen
+Finanzinstruments nicht rechtzeitig vor, ist der Mauterheber -
+unbeschadet seines Rechts zur Beendigung dieser Vereinbarung nach § 23
+- von der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung so
+lange frei, bis der Anbieter die Verlängerung der
+Bankgarantieerklärung oder des gleichwertigen Finanzinstruments
+vorgelegt hat.
 
 
 ## § 8 Versicherungen
@@ -476,7 +583,10 @@ a)  Betriebsbeschreibung: „Mauterhebung als EETS-Anbieter auf den Straßen
 b)  Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach-
     und daraus folgenden Vermögensschäden mit einer Deckungssumme von
     mindestens 15 Mio. Euro (in Worten: fünfzehn Millionen Euro) je
-    Schadensfall.
+    Schadensfall. Der EETS-Anbieter muss sicherstellen, dass zu jederzeit
+    ein ausreichender Versicherungsschutz im Sinne des Satz 1 besteht;
+    dies gilt auch nach Eintritt eines Versicherungsfalles und der
+    Inanspruchnahme der Versicherung.
 
 
 
@@ -520,10 +630,11 @@ nur mit vorheriger Zustimmung des Mauterhebers zulässig.
 
 Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche
 Zustimmung des Mauterhebers Rechte aus dieser Vereinbarung an Dritte
-abzutreten. Dies gilt auch für die Übernahme von Verpflichtungen des
-Anbieters aus dieser Vereinbarung durch Dritte sowie eine vollständige
-Übernahme dieser Vereinbarung des Anbieters durch Dritte. Die
-Erteilung der Zustimmung steht im freien Ermessen des Mauterhebers.
+abzutreten oder zu verpfänden. Dies gilt auch für die
+schuldenbefreiende Übernahme von Verpflichtungen des Anbieters aus
+dieser Vereinbarung durch Dritte sowie eine vollständige Übernahme
+dieser Vereinbarung des Anbieters durch Dritte. Die Erteilung der
+Zustimmung steht im freien Ermessen des Mauterhebers.
 
 
 ## § 10 Entgeltpflicht
@@ -537,29 +648,33 @@ Das Entgelt bestimmt sich nach der Entgeltordnung (Anlage 5).
 (1) Der Anbieter ist verpflichtet, die Rückwirkungsfreiheit der
 verwendeten Systeme und eingebrachten Komponenten im Hinblick auf die
 ungestörte Funktion der Systeme des Mauterhebers, des nationalen
-Betreibers und der von ihm betriebenen Kontrolleinrichtungen zu jedem
-Zeitpunkt zu gewährleisten. Er steht für die jederzeitige
-Rückwirkungsfreiheit gemäß Satz 1 ein.
+Betreibers und der von ihm betriebenen Kontrolleinrichtungen sowie des
+Mauterhebungsdienstes zu jedem Zeitpunkt zu gewährleisten. Er steht
+für die jederzeitige Rückwirkungsfreiheit gemäß Satz 1 ein.
 
 (2) Ist nach den Feststellungen des Mauterhebers die
 Rückwirkungsfreiheit gemäß Absatz 1 nicht gewährleistet und droht
 daraus ein Schaden für die ungestörte Funktion der Systeme des
-Mauterhebers zu entstehen, so ist der Anbieter verpflichtet, alle
-erforderlichen Maßnahmen zu ergreifen, um den Eintritt solcher Schäden
-sicher auszuschließen. Der Mauterheber ist berechtigt, das
-Prüfverfahren so lange auszusetzen bis der Anbieter nachgewiesen hat,
-dass der Eintritt eines Schadens ausgeschlossen ist.
+Mauterhebers, des nationalen Betreibers und der von ihm betriebenen
+Kontrolleinrichtungen sowie des Mauterhebungsdienstes zu entstehen, so
+ist der Anbieter verpflichtet, alle erforderlichen Maßnahmen zu
+ergreifen, um den Eintritt solcher Schäden sicher auszuschließen. Der
+Mauterheber ist berechtigt, das Prüfverfahren so lange auszusetzen bis
+der Anbieter nachgewiesen hat, dass der Eintritt eines Schadens
+ausgeschlossen ist.
 
 
 ## § 12 Mitwirkungspflichten
 
 (1) Anbieter und Mauterheber sowie die von diesen hinzugezogenen
-Personen und Unternehmen arbeiten während der Durchführung des
-Prüfverfahrens, insbesondere während des Verfahrens zur Prüfung der
-Erfüllung aller Vorgaben für das EETS-Gebiet BFStrMG, zusammen. Der
-Mauterheber stellt dem Anbieter solche Informationen zur Verfügung,
-die für die Vertragserfüllung erforderlich sind und seinem
-unmittelbaren Einwirkungsrecht unterliegen.
+Personen und Unternehmen, insbesondere der nationale Betreiber, der
+den Mauterhebungsdienst im Auftrag des Mauterhebers betreibt, arbeiten
+während der Durchführung des Prüfverfahrens, insbesondere während des
+Verfahrens zur Prüfung der Erfüllung aller Vorgaben für das EETS-
+Gebiet BFStrMG, zusammen. Der Mauterheber stellt dem Anbieter solche
+Informationen zur Verfügung, die für die Vertragserfüllung
+erforderlich sind und seinem unmittelbaren Einwirkungsrecht
+unterliegen.
 
 (2) Anbieter und Mauterheber informieren die jeweils andere Partei
 unverzüglich und nachvollziehbar über Störungen während der
@@ -572,10 +687,14 @@ dass nicht unerhebliche Störungen ausgeschlossen sind.
 
 Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm
 diejenigen Unterlagen zur Information vorzulegen, die er zum Nachweis
-seiner finanziellen Leistungsfähigkeit gemäß Artikel 3 Buchstabe d der
-Entscheidung 2009/750/EG im Rahmen seiner Registrierung verwendet hat.
-Die Unterlagen gemäß Satz 1 sind in deutscher Sprache oder in einer
-amtlich beglaubigten Übersetzung vorzulegen.
+seiner finanziellen Leistungsfähigkeit gemäß Artikel 4 Buchstabe d der
+Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates vom
+19\. März 2019 über die Interoperabilität elektronischer Mautsysteme
+und die Erleichterung des grenzüberschreitenden Informationsaustauschs
+über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (ABl.
+L 91 vom 29.3.2019, S. 45) im Rahmen seiner Registrierung verwendet
+hat. Die Unterlagen gemäß Satz 1 sind in deutscher Sprache oder in
+einer amtlich beglaubigten Übersetzung vorzulegen.
 
 
 ## § 14 Datenschutz
@@ -583,21 +702,30 @@ amtlich beglaubigten Übersetzung vorzulegen.
 (1) Der Anbieter stellt sicher, dass er bei der Durchführung des
 Prüfverfahrens jederzeit alle Anforderungen des Datenschutzes erfüllt.
 Dazu gehören insbesondere die spezialgesetzlichen Vorgaben des
-MautSysG, des BFStrMG und – soweit das MautSysG und das BFStrMG keine
-abschließende Regelung treffen – ergänzend die Bestimmungen des
-Bundesdatenschutzgesetzes (BDSG) sowie ab dem 25. Mai 2018 die
-Bestimmungen der Europäischen Datenschutz-Grundverordnung (EU-DSGVO).
-Diese Verpflichtung des Anbieters gilt unabhängig davon, ob der
-Anbieter selbst in den Anwendungsbereich solcher
-Datenschutzbestimmungen fällt. Die Pflicht des Anbieters zur
+MautSysG, des BFStrMG und - soweit das MautSysG und das BFStrMG keine
+abschließende Regelung treffen - ergänzend die Bestimmungen des
+Bundesdatenschutzgesetzes (BDSG) sowie der Verordnung (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72;
+L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35)
+(DatenschutzGrundverordnung). Diese Verpflichtung des Anbieters gilt
+unabhängig davon, ob der Anbieter selbst in den Anwendungsbereich
+solcher Datenschutzbestimmungen fällt. Die Pflicht des Anbieters zur
 Einhaltung nationaler Datenschutzbestimmungen des Staates, in dem er
 niedergelassen ist oder in dem er Daten erhebt oder verarbeitet,
-bleibt unberührt. Im Zweifel haben das MautSysG, das BFStrMG und −
+bleibt unberührt. Im Zweifel haben das MautSysG, das BFStrMG und -
 soweit das MautSysG und das BFStrMG keine abschließende Regelung
-treffen − ergänzend die Bestimmungen des BDSG sowie − soweit anwendbar
-− weitere spezialgesetzliche deutsche oder supranationale
-Datenschutzvorschriften und ab dem 25. Mai 2018 die Bestimmungen der
-EU-DSGVO, Vorrang vor anderen nationalen Datenschutzbestimmungen.
+treffen - ergänzend die Bestimmungen des BDSG sowie - soweit anwendbar
+- weitere spezialgesetzliche deutsche oder supranationale
+Datenschutzvorschriften und die Bestimmungen der Datenschutz-
+Grundverordnung, Vorrang vor anderen nationalen
+Datenschutzbestimmungen. Der Anbieter ist verpflichtet, Erklärungen
+seiner Nutzer einzuholen und dem Mauterheber vorzulegen, wonach sie
+darin einwilligen, dass, bezogen auf die Gebrauchstauglichkeitsphase 3
+- Pilotbetrieb, die Daten zu den Fahrspuren 120 Tage lang aufbewahrt
+werden.
 
 (2) Soweit sich der Anbieter bei der Durchführung des Prüfverfahrens
 eines Dritten bedient, verpflichtet sich der Anbieter unabhängig
@@ -635,27 +763,25 @@ schützen, sodass jederzeit hinsichtlich Vertraulichkeit, Verfügbarkeit
 und Integrität der Daten, Prozesse und Systeme ein dem im Einzelfall
 festgestellten Schutzbedarf entsprechender Schutz vor technischer oder
 organisatorischer Kompromittierung gewährleistet ist. Dabei ist für
-alle Vorgänge, die
+alle Vorgänge von dem jeweils höchsten Schutzbedarf auszugehen, die
 
 a)  personenbezogene und personenbeziehbare Daten und
 
 
 b)  den Datenaustausch oder Systemberührungen mit dem Mauterheber
-    betreffen,
+    betreffen.
 
 
 
-
-von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird
-insbesondere jederzeit die erforderlichen technischen und
-organisatorischen Sicherheitsmaßnahmen ergreifen, um alle beteiligten
-Daten, Systeme und Prozesse zu schützen, zu überwachen und bei
-Kenntnis eines realisierten oder potenziellen Verlustes der
-Vertraulichkeit, Verfügbarkeit oder Integrität von Daten, Systemen,
-oder Prozessen (insgesamt „Sicherheitsvorfall“) den Mauterheber
-unverzüglich zu informieren und unverzüglich in der jeweils
-erforderlichen Art und Weise zu reagieren, sodass insbesondere der
-Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit
+Der Anbieter wird insbesondere jederzeit die erforderlichen
+technischen und organisatorischen Sicherheitsmaßnahmen ergreifen, um
+alle beteiligten Daten, Systeme und Prozesse zu schützen, zu
+überwachen und bei Kenntnis eines realisierten oder potenziellen
+Verlustes der Vertraulichkeit, Verfügbarkeit oder Integrität von
+Daten, Systemen, oder Prozessen (insgesamt „Sicherheitsvorfall“) den
+Mauterheber unverzüglich zu informieren und unverzüglich in der
+jeweils erforderlichen Art und Weise zu reagieren, sodass insbesondere
+der Sicherheitsvorfall ausgeräumt oder seine Auswirkungen sowie damit
 verbundene Schäden und Beeinträchtigungen des Mauterhebers oder
 Dritter soweit wie möglich begrenzt und reduziert werden. Der
 Mauterheber kann verlangen, auf Veranlassung des Anbieters das
@@ -669,11 +795,13 @@ entstehen; dies gilt nicht, soweit er die Pflichtverletzung nicht zu
 vertreten hat. Die Haftung schließt die dem Mauterheber entgangenen
 Mauteinnahmen ein. Der Anbieter übernimmt zudem die Kosten einer
 Wiederinstandsetzung, Reparatur oder sonstigen Überprüfung des Systems
-des Mauterhebers, die aufgrund von Sicherheitsvorfällen aus dem
-Verantwortungsbereich des Anbieters entstanden sind. Sollten aufgrund
-von Sicherheitsvorfällen aus dem Verantwortungsbereich des Anbieters
-Dritte Ansprüche gegenüber dem Mauterheber geltend machen, stellt der
-Anbieter den Mauterheber gemäß § 21 im dort geregelten Umfang von
+des Mauterhebers, des nationalen Betreibers und der von ihm
+betriebenen Kontrolleinrichtungen sowie des Mauterhebungsdienstes, die
+aufgrund von Sicherheitsvorfällen aus dem Verantwortungsbereich des
+Anbieters entstanden sind. Sollten aufgrund von Sicherheitsvorfällen
+aus dem Verantwortungsbereich des Anbieters Dritte Ansprüche gegenüber
+dem Mauterheber oder dem nationalen Betreiber geltend machen, stellt
+der Anbieter den Mauterheber gemäß § 21 im dort geregelten Umfang von
 diesen Ansprüchen frei.
 
 (5) Die Regelungen dieses Paragraphen gelten auch im Falle der
@@ -683,9 +811,9 @@ Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
 ## § 16 Aufbewahrung von vertraulichen Daten
 
-(1) Die vertraulichen Daten sind bis zu ihrer Vernichtung, Löschung
-oder Rückgabe sicher aufzubewahren bzw. zu speichern und vor dem Ein-
-und Zugriff Dritter zu schützen.
+(1) Vertrauliche Daten sind bis zu ihrer Vernichtung, Löschung oder
+Rückgabe sicher aufzubewahren bzw. zu speichern und vor dem Ein- und
+Zugriff Dritter zu schützen.
 
 (2) In diesem Zeitraum verpflichtet sich der Anbieter, die
 vertraulichen Daten in einer Weise aufzubewahren, dass sie von Dritten
@@ -713,7 +841,7 @@ nicht, soweit er die Pflichtverletzung nicht zu vertreten hat.
 
 (5) Nach Beendigung des Prüfverfahrens sind auf Verlangen einer Partei
 alle vertraulichen Daten im Sinne des § 17 an diese zurückzugeben oder
-– soweit dies nach Art der Daten nicht möglich ist – nachweislich zu
+- soweit dies nach Art der Daten nicht möglich ist - nachweislich zu
 löschen oder auf andere Weise zu vernichten. Dies gilt nicht, soweit
 ein berechtigtes Interesse an der Aufbewahrung der vertraulichen Daten
 im Hinblick auf eine spätere Rekonstruktion des Prüfverfahrens bei
@@ -734,7 +862,7 @@ in sonstiger Weise erlangt haben (insgesamt: „vertrauliche Daten“),
 vertraulich behandeln und sie Dritten nicht zugänglich machen. Als
 vertrauliche Daten gelten auch solche Daten, die die Parteien selbst
 im Rahmen der Durchführung des Prüfverfahrens erstellt oder erhoben
-haben und die mit dem Mautdienst, den ihm zugrunde liegenden
+haben und die mit dem Mautdienst, den ihm zugrundeliegenden
 Parametern, den technischen Spezifikationen, wirtschaftlichen Vorgaben
 oder den Parteien selbst in Verbindung stehen. Die Verpflichtung zur
 Vertraulichkeit gilt auch nach Beendigung dieser Vereinbarung oder
@@ -762,7 +890,6 @@ c)  die vertraulichen Daten zur Ausführung der ihnen zugewiesenen Aufgaben
 
 
 
-
 Die Weiterreichung an mit dem Anbieter im Konzernverbund stehende
 Unternehmen („Konzernunternehmen“) ist gestattet, wenn und soweit dies
 zur konzerninternen Prüfung erforderlich ist und zuvor den beteiligten
@@ -771,8 +898,7 @@ Vertraulichkeitsverpflichtung auferlegt worden ist.
 
 (4) Der Anbieter führt eine Liste der Personen in Konzernunternehmen,
 die Zugang zu vertraulichen Daten haben und legt diese dem Mauterheber
-in regelmäßigen Abständen sowie jederzeit auf Verlangen des
-Mauterhebers vor.
+jederzeit auf sein Verlangen vor.
 
 (5) Der Anbieter ist verpflichtet, Personen, die Zugang zu
 vertraulichen Daten haben, in gleichem Umfang und unter Androhung
@@ -819,11 +945,11 @@ vertraulichen Daten zuvor schriftlich zugestimmt hat.
 (11) Gesetzliche Aufbewahrungs- oder Offenlegungspflichten bleiben
 unberührt.
 
-(12) Die Anwendbarkeit der – auch strafrechtlichen – Bestimmungen des
-Datenschutzgesetzes und anderer Rechtsvorschriften zum Schutz der
-Vertraulichkeit und die Geltendmachung von Unterlassungs- sowie von
-weitergehenden Schadensersatzansprüchen des Mauterhebers bleiben von
-den Regelungen dieses Paragraphen unberührt.
+(12) Die Anwendbarkeit der - auch strafrechtlichen - Bestimmungen des
+Bundesdatenschutzgesetzes (BDSG) und anderer Rechtsvorschriften zum
+Schutz der Vertraulichkeit und die Geltendmachung von Unterlassungs-
+sowie von weitergehenden Schadensersatzansprüchen des Mauterhebers
+bleiben von den Regelungen dieses Paragraphen unberührt.
 
 (13) Die Regelungen dieses Paragraphen gelten auch im Falle der
 Beendigung dieser Vereinbarung oder nach Abschluss eines
@@ -875,7 +1001,7 @@ wird bereits jetzt vereinbart, dass solche Einrichtungen und
 Gegenstände nur zu dem vorübergehenden Zweck mit dem Grund und Boden
 verbunden sind. Der Anbieter hat dafür Sorge zu tragen, gegebenenfalls
 gesonderte Absprachen und Vereinbarungen mit den jeweils zuständigen
-Landesverwaltungen zu treffen bzw. abzuschließen.
+Bundes- oder Landesverwaltungen zu treffen bzw. abzuschließen.
 
 
 ## § 20 Haftung
@@ -887,11 +1013,11 @@ von ihm im Rahmen des Verfahrens zur Feststellung der
 Gebrauchstauglichkeit verwendeten Systeme und eingebrachten
 Komponenten im Hinblick auf die ungestörte Funktion der Systeme des
 Mauterhebers, des nationalen Betreibers und der von ihm betriebenen
-Kontrolleinrichtungen und für die inhaltliche Richtigkeit aller im
-Rahmen des Prüfverfahrens übermittelten Daten. Soweit der Anbieter in
-dieser Vereinbarung explizit oder aus den Umständen ersichtlich eine
-Einstandspflicht übernommen hat, haftet er dem Mauterheber auch
-verschuldensunabhängig.
+Kontrolleinrichtungen sowie des Mauterhebungsdienstes und für die
+inhaltliche Richtigkeit aller im Rahmen des Prüfverfahrens
+übermittelten Daten. Soweit der Anbieter in dieser Vereinbarung
+explizit oder aus den Umständen ersichtlich eine Einstandspflicht
+übernommen hat, haftet er dem Mauterheber auch verschuldensunabhängig.
 
 (2) Für das Tun oder Unterlassen seiner Arbeitnehmer, freien
 Mitarbeiter, gesetzlichen Vertreter, des eingesetzten Personals und
@@ -946,7 +1072,9 @@ b)  von Änderungen, Beschränkungen oder Einschränkungen des
 
 
 c)  aus der Bereitstellung und Durchführung der EETS-Mauterkennung für
-    EETS-Anbieter durch einen dritten Dienstleister.
+    EETS-Anbieter durch einen dritten Dienstleister. Davon ausgenommen ist
+    die Erbringung des Mauterhebungsdienstes durch den nationalen
+    Betreiber im Auftrag des Mauterhebers.
 
 
 
@@ -987,26 +1115,16 @@ erfolgen auf erstes Anfordern.
 (1) Für jeden schuldhaften Verstoß gegen die Regelungen zum
 Datenschutz gemäß § 14, zur Datensicherheit gemäß § 15 und zur
 Geheimhaltung und Vertraulichkeit gemäß § 17 dieser Vereinbarung
-verwirkt der Anbieter eine Vertragsstrafe in Höhe von 50 000 Euro.
+verwirkt der Anbieter eine Vertragsstrafe in Höhe von 50 000 Euro (in
+Worten: fünfzigtausend Euro).
 
-(2) Die Summe der Vertragsstrafen nach Absatz 1 darf einen Betrag in
-Höhe von 1 % der erwarteten jährlichen Mauteinnahmen des Anbieters für
-das EETS-Gebiet BFStrMG im Jahr nicht überschreiten.
-
-(3) Die jährlichen vom Anbieter für das EETS-Gebiet BFStrMG
-auszukehrenden Mauteinnahmen betragen im ersten Jahr nach
-Vertragsschluss Euro (einzufügen ist die Summe, die der Anbieter als
-erwarteten Schätzwert angibt). Ab dem zweiten Jahr nach
-Vertragsschluss entsprechen diese dem Wert der Mauteinnahmen der dem
-Zeitpunkt des Pflichtverstoßes vorangegangenen 12 Monate.
-
-(4) Die Vertragsstrafe ist auf erstes schriftliches Anfordern des
+(2) Die Vertragsstrafe ist auf erstes schriftliches Anfordern des
 Mauterhebers unverzüglich auszuzahlen.
 
-(5) Der Mauterheber ist berechtigt, Vertragsstrafen auch nach
+(3) Der Mauterheber ist berechtigt, Vertragsstrafen auch nach
 Beendigung dieses Vertrags geltend zu machen.
 
-(6) Sonstige Ansprüche des Mauterhebers, insbesondere auf Erfüllung,
+(4) Sonstige Ansprüche des Mauterhebers, insbesondere auf Erfüllung,
 auf Schadensersatz oder auf Beendigung der Prüfvereinbarung bleiben
 unberührt. Vertragsstrafen werden auf Schadensersatzansprüche
 angerechnet, wenn und soweit sie auf demselben Sachverhalt beruhen.
@@ -1033,7 +1151,7 @@ insbesondere,
 
 a)  weil die Registrierung des Anbieters gemäß § 4 MautSysG oder bei der
     zuständigen Behörde eines anderen Mitgliedstaats der Europäischen
-    Union oder eines anderen Vertragsstaats des Abkommens über den
+    Union oder eines anderen Vertragsstaats des Abkommens überden
     Europäischen Wirtschaftsraum weggefallen ist oder die sachlichen
     Voraussetzungen hierfür vorliegen,
 
@@ -1089,15 +1207,14 @@ k)  wenn der Anbieter in nicht unerheblicher Weise gegen seine
 
 l)  wenn der Anbieter wiederholt, d. h. nach einem einmaligen Verstoß
     erneut in nicht unerheblicher Weise gegen die Regelungen zur
-    Geheimhaltung und Vertraulichkeit gemäß § 17 dieser Vereinbarung
-    verstoßen hat,
-
-    Liegt ein wichtiger Grund für die Kündigung durch den Mauterheber vor,
-    ist der Mauterheber zur Kündigung ohne Einhaltung einer Frist
-    berechtigt.
+    Geheimhaltung und Vertraulichkeit gemäß §17 dieser Vereinbarung
+    verstoßen hat.
 
 
 
+Liegt ein wichtiger Grund für die Kündigung durch den Mauterheber vor,
+ist der Mauterheber zur Kündigung ohne Einhaltung einer Frist
+berechtigt.
 
 (4) Die Kündigung dieser Vereinbarung ist durch schriftliche Erklärung
 auszusprechen und ist der jeweils anderen Partei per
@@ -1109,13 +1226,13 @@ Einschreiben/Rückschein zuzustellen.
 (1) Der Anbieter ist verpflichtet, mit dem Mauterheber diejenigen
 Änderungen und/oder Ergänzungen zu dieser Vereinbarung zu vereinbaren,
 die aufgrund von Änderungen des geltenden Rechts erforderlich sind.
-Stimmt der Anbieter den erforderlichen Vereinbarungsanpassungen nicht
+Stimmt der Anbieterden erforderlichen Vereinbarungsanpassungen nicht
 oder nicht innerhalb angemessener Frist zu, ist der Mauterheber von
 der Erfüllung eigener Verpflichtungen nach dieser Vereinbarung so
 lange frei, bis die erforderlichen Änderungen und/oder Ergänzungen
 vereinbart sind.
 
-(2) Wird einer Partei die Erfüllung einer ihrer nach der Vereinbarung
+(2) Wird einer Partei die Erfüllung einer ihr nach der Vereinbarung
 obliegenden Verpflichtung infolge höherer Gewalt oder anderer objektiv
 unabwendbarer Ereignisse zeitweise unmöglich, so ruhen die betroffenen
 Rechte und Pflichten der Parteien für den entsprechenden Zeitraum.
@@ -1125,7 +1242,7 @@ Rechte und Pflichten der Parteien für den entsprechenden Zeitraum.
 
 (1) Den Parteien steht es frei, im Falle von Streitigkeiten über den
 Inhalt oder die Auslegung dieser Vereinbarung die Vermittlungsstelle
-nach den §§ 28 ff. MautSysG anzurufen.
+nach den §§ 28 bis 30 MautSysG anzurufen.
 
 (2) Die Anrufung der Vermittlungsstelle hindert nicht die
 Inanspruchnahme von gerichtlichen Rechtsschutzmöglichkeiten in
@@ -1141,40 +1258,41 @@ Deutschland oder auf Ebene der Europäischen Union.
 
 ## § 27 Schriftverkehr
 
-(1) Sämtliche Mitteilungen aus oder im Zusammenhang mit dieser
-Vereinbarung sind schriftlich und in deutscher Sprache abzufassen.
+(1) Sämtliche Mitteilungen gemäß oder im Zusammenhang mit dieser
+Vereinbarung sind schriftlich und in deutscher Sprache abzufassen, es
+sei denn in dieser Vereinbarung wurde Abweichendes vereinbart.
 
 (2) Mitteilungen oder förmliche Zustellungen an den Mauterheber im
 Zusammenhang mit dieser Vereinbarung sind an die folgende Anschrift zu
 richten:
-Bundesamt für Güterverkehr (BAG)
-Werderstraße 34
-50672 Köln
+Bundesamt für Güterverkehr (BAG), Werderstraße 34, 50672 Köln
+(Empfangsberechtigter).
 
 (3) Mitteilungen an den Anbieter im Zusammenhang mit dieser
 Vereinbarung sind an die folgende Anschrift zu richten:
-Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter)
+Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter).
 
 (4) Für förmliche Zustellungen an den Anbieter im Zusammenhang mit
 dieser Vereinbarung muss der Anbieter einen
-Zustellungsbevollmächtigten mit Sitz in Deutschland nennen. Förmliche
-Zustellungen an den Anbieter sind an die folgende Anschrift zu
-richten:
-(Zustellungsbevollmächtigter in Deutschland)
+Zustellungsbevollmächtigten mit Sitz in der Bundesrepublik Deutschland
+nennen. Förmliche Zustellungen an den Anbieter sind an die folgende
+Anschrift zu richten:
+(Zustellungsbevollmächtigter in der Bundesrepublik Deutschland).
 
 (5) Die Parteien werden einander Änderungen der Angaben nach den
-Absätzen 2 bis 4, insbesondere in der Person der Empfangs- und
-Zustellungsbevollmächtigten, unverzüglich mitteilen.
+Absätzen 2 bis 4, insbesondere in der Person des
+Zustellungsbevollmächtigten oder der Empfangsberechtigten,
+unverzüglich mitteilen.
 
 
 ## § 28 Schriftform
 
 Änderungen und Ergänzungen dieser Vereinbarung bedürfen der
-Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich oder
-nach dieser Vereinbarung erforderlich ist. Dies gilt auch für die
-Aufhebung des Schriftformerfordernisses. Die Anwendung von § 126
-Absatz 3 BGB ist ausgeschlossen. Sämtliche Änderungen und Ergänzungen
-sind in deutscher Sprache abzufassen.
+Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich
+erforderlich ist. Dies gilt auch für die Aufhebung des
+Schriftformerfordernisses. Die Anwendung von § 126 Absatz 3 BGB ist
+ausgeschlossen. Sämtliche Änderungen und Ergänzungen sind in deutscher
+Sprache abzufassen.
 
 
 ## § 29 Salvatorische Klausel
@@ -1193,37 +1311,10 @@ Unterschriften
 ## (XXXX) Anlagen:
 
 
-–   Anlage 1: gegebenenfalls Zusatzvereinbarung
 
+## Anlage 1 zur Prüfvereinbarung
 
-–   Anlage 2: Verfahren zur Feststellung der Gebrauchstauglichkeit −
-    Dokument A – Verfahrensbeschreibung
-
-
-–   Anlage 3: Verfahren zur Feststellung der Gebrauchstauglichkeit –
-    Dokument B – Prüfkonzept
-
-
-–   Anlage 4: Zeit- und Projektplan gemäß (§ 4)
-
-
-–   Anlage 5: Entgeltordnung
-
-
-–   Anlage 6: Glossar
-
-
-–   Anlage 7: gegebenenfalls Erklärungen/Schriftwechsel
-
-
-
-
-zur Vereinbarung über die Durchführung des Prüfverfahrens
-zur Erbringung mautdienstbezogener Leistungen
-
-## Anlage 1 (Prüfvereinbarung)
-
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+(Fundstelle: BAnz AT 29.10.2021 V2)
 
 ## **Zusatzvereinbarung**
 
@@ -1232,25 +1323,20 @@ zur Erbringung mautdienstbezogener Leistungen
 
 ## Anlage 2 zur Prüfvereinbarung
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+(Fundstelle: BAnz AT 29.10.2021 V2)
 
-## **Bundesrepublik Deutschland**
-
-## **vertreten durch das**
-
-## **Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)**
-
-## **dieses vertreten durch das**
-
-**Bundesamt für Güterverkehr (BAG)**
-##
+## **Bundesrepublik Deutschland vertreten durch das Bundesministerium
+für Verkehr und digitale Infrastruktur (BMVI) dieses vertreten durch
+das Bundesamt für Güterverkehr (BAG)**
 
 ## **Europäischer elektronischer Mautdienst (EETS)**
 
-Verfahren zur Feststellung der Gebrauchstauglichkeit
-– Dokument A –
-Verfahrensbeschreibung
-## **Stand: 4. Oktober 2017**
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
+
+## **– Dokument A –**
+
+**Verfahrensbeschreibung**
+##
 
 ## **Inhaltsverzeichnis**
 
@@ -1285,7 +1371,7 @@ und Anpassung der Verfahrensbeschreibung
 
 3\.2 GTP Prüfblock 1
 
-3\.3 GTP-Prüfblock 2
+3\.3 GTP Prüfblock 2
 
 3\.4 Ausstellung der Gebrauchstauglichkeitsbescheinigung
 
@@ -1323,6 +1409,7 @@ Gebrauchstauglichkeit
 ## Dokumentenhistorie
 
 
+
 *    *   Version
 
     *   Datum
@@ -1348,7 +1435,7 @@ Gebrauchstauglichkeit
 
     *   BAG
 
-    *   Grundlegende Überarbeitung
+    *   Redaktionelle Überarbeitung
 
 
 *    *   1.00
@@ -1369,73 +1456,133 @@ Gebrauchstauglichkeit
     *   Ergänzung Kompatibilitätstests
 
 
+*    *   1.9
+
+    *   17.09.2020
+
+    *   BAG, RT
+
+    *   Grundlegende Überarbeitung: Redaktionelle Änderungen, Anpassungen an
+        Mauterhebungsdienst
+
+
+*    *   1.91
+
+    *   30.10.2020
+
+    *   RT
+
+    *   Einarbeitung Reviewkommentare und Anmerkungen TC/BAG
+
+
+*    *   1.95
+
+    *   04.12.2020
+
+    *   RT
+
+    *   Überarbeitung und QS nach Review Referat 42
+
+
+*    *   1.97
+
+    *   15.06.2021
+
+    *   RT
+
+    *   Überarbeitung: Aufrechterhaltung Gebrauchstauglichkeit
+
+
+*    *   2.0
+
+    *   07.09.2021
+
+    *   RT
+
+    *   Redaktionelle Überarbeitung und Erstellung Version zur
+        Veröffentlichung
+
+
 
 
 
 ## **1 Ziele und Grundlagen des Dokuments**
 
-1\.1 Zielsetzung
+**1.1 Zielsetzung**
 
 Das vorliegende Dokument konkretisiert das Verfahren zur Feststellung
 der Gebrauchstauglichkeit (Gebrauchstauglichkeitsprüfung). Der
 Mauterheber legt darin den Ablauf und die technischen und
-organisatorischen Rahmenbedingungen für diese Prüfung fest, und es
-bildet die Grundlage für die Abstimmung des Prüfprogramms, sodass alle
-an dem Verfahren Beteiligten rechtzeitig und im notwendigen Umfang
-ihre Vorbereitungen zur Durchführung der Prüfung treffen können.
+organisatorischen Rahmenbedingungen für diese Prüfung fest. Es bildet
+die Grundlage für die Abstimmung der Prüfplanung, so dass alle an dem
+Verfahren Beteiligten rechtzeitig und im notwendigen Umfang ihre
+Vorbereitungen zur Durchführung der Prüfung treffen können.
 
 Darüber hinaus bildet die konkrete Beschreibung des Verfahrens die
-Grundlage für eine Gleichbehandlung der EETS-Anbieter beziehungsweise
-Hersteller von Interoperabilitätskomponenten auf der Basis der jeweils
-gültigen Vorgaben für das EETS-Gebiet BFStrMG.
+Grundlage für eine Gleichbehandlung der EETS-Anbieter oder Hersteller
+von Interoperabilitätskomponenten auf der Basis der jeweils gültigen
+Vorgaben für das EETS-Gebiet BFStrMG.
 
-Die in diesem Dokument getroffenen Regelungen sind für die in Nummer
-1\.3 genannten Akteure bindend.
+Weiterhin bildet das in diesem Dokument beschriebene Verfahren die
+Grundlage für die im Rahmen der Aufrechterhaltung der
+Gebrauchstauglichkeit eventuell notwendige erneute Prüfung eines Teils
+oder des gesamten Systems eines EETS-Anbieters, wobei der Mauterheber
+die vorliegenden organisatorischen und technischen Rahmenbedingungen
+(z.B. Keine Nutzung des Mauterhebungsdienstes) bei der erneuten
+Durchführung berücksichtigt.
 
-1\.2 Aufbau des Dokuments
+Die in diesem Dokument getroffenen Regelungen sind für die unter 1.3
+genannten Akteure bindend.
 
-Nummer 1 erläutert neben der Zielsetzung des Dokumentes und der
+**1.2 Aufbau des Dokuments**
+
+Kapitel 1 erläutert neben der Zielsetzung des Dokumentes und der
 Benennung der Zielgruppe die Einordnung der
 Gebrauchstauglichkeitsprüfung in das EETS-Zulassungsverfahren. Ziel
-des Verfahrens ist der Abschluss eines Vertrags zwischen Mauterheber
+des Verfahrens ist der Abschluss eines Vertrages zwischen Mauterheber
 und EETS-Anbieter.
 
-Nummer 2 benennt die Akteure und deren Hauptaufgaben.
+Kapitel 2 benennt die Akteure und deren Hauptaufgaben.
 
-In Nummer 3 erfolgt eine detaillierte Beschreibung des Verfahrens mit
+In Kapitel 3 erfolgt eine detaillierte Beschreibung des Verfahrens mit
 den Voraussetzungen für die einzelnen Prüfblöcke und Prüfphasen sowie
 Regelungen zur Aufrechterhaltung der Gebrauchstauglichkeit nach
 Änderungen.
 
-Nummer 4 definiert die wesentlichen Vorgaben für die Prüfungen.
+Kapitel 4 definiert die wesentlichen Vorgaben für die Prüfungen.
 
-Nähere Angaben zu den einzelnen Prüfphasen sind in Dokument B –
+Nähere Angaben zu den einzelnen Prüfphasen sind in Dokument B -
 Prüfkonzept zusammengefasst.
 
-1\.3 Zielgruppe
+**1.3 Zielgruppe**
 
-Gemäß Anhang IV, Nummer 2 der Entscheidung 2009/750/EG kann das
-Verfahren zur Feststellung der Gebrauchstauglichkeit entweder
+Gemäß Anhang III, Abschnitt V der Durchführungsverordnung (EU)
+2020/204 der Kommission vom 28. November 2019 über detaillierte
+Pflichten der Anbieter des europäischen elektronischen Mautdienstes,
+den Mindestinhalt der Vorgabe für das EETS-Gebiet, elektronische
+Schnittstellen und Anforderungen an Interoperabilitätskomponenten
+sowie zur Aufhebung der Entscheidung 2009/750/EG (ABl. L 43 vom
+17\.2.2020, S. 49) kann das Verfahren zur Feststellung der
+Gebrauchstauglichkeit entweder
 
 a)  bilateral in Zusammenarbeit zwischen Mauterheber und EETS-Anbieter
     oder
 
 
-b)  unter Einschaltung einer notifizierten Stelle durchgeführt werden.
+b)  unter Einschaltung einer benannten Stelle durchgeführt werden.
 
 
 
 
 Das Verfahren richtet sich an:
 
-–   die EETS-Anbieter
+1.  die EETS-Anbieter
 
 
-–   die Hersteller von Interoperabilitätskomponenten
+2.  die Hersteller von Interoperabilitätskomponenten
 
 
-–   den Mauterheber.
-
+3.  den Mauterheber.
 
 
 
@@ -1443,18 +1590,20 @@ Aus Gründen der Vereinfachung gelten die Formulierungen für den EETS-
 Anbieter ebenso wie für die Hersteller von
 Interoperabilitätskomponenten.
 
-1\.4 Gebrauchstauglichkeitsprüfung im Rahmen des EETS-
-Zulassungsverfahrens
+**1.4 Gebrauchstauglichkeitsprüfung im Rahmen des EETS-
+Zulassungsverfahrens**
 
 Voraussetzung für die Einleitung des in deutscher Sprache zu führenden
 EETS-Zulassungsverfahrens ist die erfolgreiche und gültige
 Registrierung des EETS-Anbieters. Ein EETS-Anbieter kann nach seiner
 Registrierung beim Mauterheber einen Antrag auf Abschluss eines
-Zulassungsvertrags stellen. Damit wird das EETS-Zulassungsverfahren
+Zulassungsvertrages stellen. Damit wird das EETS-Zulassungsverfahren
 eingeleitet. Beide Parteien schließen zunächst die Vereinbarung über
-das EETS-Zulassungsverfahren, die Gebrauchstauglichkeitsprüfung sowie
-die Prüfung der wirtschaftlichen Vorgaben und weitere Rechte und
-Pflichten zu Zeitplan und Kosten ab (Prüfvereinbarung).
+die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener
+Leistungen (Prüfvereinbarung) ab, die die
+Gebrauchstauglichkeitsprüfung sowie die Prüfung der wirtschaftlichen
+Vorgaben und weitere Rechte und Pflichten zu Zeitplan und Kosten
+regelt.
 
 Das Zulassungsverfahren gilt als erfolgreich beendet, sobald der EETS-
 Zulassungsvertrag geschlossen ist. Eine Voraussetzung dafür ist die
@@ -1463,13 +1612,12 @@ Erlangung der Gebrauchstauglichkeitsbescheinigung.
 In folgendem Schaubild wird der Ablauf des EETS-Vertragsverfahrens
 grafisch dargestellt:
 
-![banzat_2019_20190110v2_01.jpg](banzat_2019_20190110v2_01.jpg)
-Abbildung 1: Einbettung der Gebrauchstauglichkeitsprüfung in den
-Ablauf des EETS-Zulassungsverfahrens
+![banzat_2021_20211029v2_01.jpg](banzat_2021_20211029v2_01.jpg)
+**Abbildung 1: Einbettung der Gebrauchstauglichkeitsprüfung in den
+Ablauf des EETS-Zulassungsverfahrens**
 
-
-1\.5 Übersicht über das Verfahren zur Feststellung der
-Gebrauchstauglichkeit
+**1.5 Übersicht über das Verfahren zur Feststellung der
+Gebrauchstauglichkeit**
 
 Die Gebrauchstauglichkeitsprüfung ist in zwei Prüfblöcke unterteilt.
 Der Prüfblock 1 umfasst die Prüfung der Dokumentation des Teilsystems
@@ -1480,59 +1628,62 @@ Prüfblock 2 umfasst drei Prüfphasen. Die Prüfungen finden in
 bestimmten Systemumgebungen statt, um den laufenden Wirkbetrieb nicht
 zu gefährden und möglichst realistische Prüfergebnisse zu erhalten.
 
-–   Für die Schnittstellenprüfung (Phase 1) stellt der Mauterheber eine
+1.  Für die Schnittstellenprüfung (Phase 1) stellt der Mauterheber eine
     Testumgebung zur Verfügung. Der EETS-Anbieter kann für Phase 1 ein
     wirkbetriebsnahes Erprobungssystem einsetzen, das jedoch identische
     Software- und vergleichbare Hardwarestände wie das Wirkbetriebssystem
     aufweisen muss. Anderenfalls hat er sein Wirkbetriebssystem zur
-    Verfügung zu stellen.
-    Die Kompatibilitätstests werden parallel zur Schnittstellenprüfung
-    durchgeführt und sollen die Kompatibilität der Bordgeräte der EETS-
-    Anbieter mit den Kontrolleinrichtungen des deutschen Mautsystems
-    nachweisen.
+    Verfügung zu stellen. Die Kompatibilitätstests werden parallel zur
+    Schnittstellenprüfung vom nationalen Mautbetreiber im Auftrag des
+    Mauterhebers durchgeführt. Sie sollen die Kompatibilität der
+    Bordgeräte der EETS-Anbieter mit den Kontrolleinrichtungen des
+    deutschen Mautsystems und mit dem Mauterhebungsdienst des Mauterhebers
+    nachweisen, sowie die Erfüllung der Ortungsanforderungen des
+    Mauterhebungsdienstes belegen. Dem EETS-Anbieter wird nach der
+    Durchführung der Schnittstellenprüfung und der Kompatibilitätstests
+    die Möglichkeit geboten, eigene EA-Fahrtests durchzuführen. Die
+    Durchführung der EA-Fahrtests ist optional und weder Bedingung noch
+    Voraussetzung für den Übergang in die folgende Prüfphase.
 
 
-–   Für die Durchführung des Probebetriebs (Phase 2) setzt der Mauterheber
+2.  Für die Durchführung des Probebetriebs (Phase 2) setzt der Mauterheber
     ein wirkbetriebsnahes Erprobungssystem ein. Der EETS-Anbieter muss
     wiederum ein wirkbetriebsnahes Erprobungssystem oder das eigene
     Wirkbetriebssystem verwenden. Es gelten dieselben Bedingungen wie für
     Phase 1.
 
 
-–   Der Pilotbetrieb (Phase 3) erfolgt ausschließlich in der
-    Wirkbetriebsumgebung mit den Wirkbetriebssystemen von Mauterheber und
-    EETS-Anbieter.
+3.  Der Pilotbetrieb (Phase 3) erfolgt ausschließlich in der
+    Wirkbetriebsumgebung mit den Wirkbetriebssystemen von Mauterheber, dem
+    nationalen Mautbetreiber und dem EETS-Anbieter.
 
 
 
-
-Für den Übergang von einer Phase in die nächste müssen die Kriterien
+Für den Übergang von einer Phase in die Nächste müssen die Kriterien
 für die Quality Gates 2 bis 4 zwingend erfüllt sein. Der Abschluss von
 Prüfblock 2 ist Voraussetzung für die Ausstellung der
 Gebrauchstauglichkeitsbescheinigung.
 
 Die Prüfblöcke sind in der folgenden Tabelle einschließlich der
 Quality Gates und der Systemumgebungen dargestellt:
-Tabelle 1: Übersicht über das Verfahren zur Feststellung der
-Gebrauchstauglichkeit
-
-*    *   Prüfblock
-
-    *   Phase
-
-    *   Bezeichnung
-
-    *   Systeme und Systemumgebung
 
 
-*    *   Umgebung
+*    *   **Prüfblock**
 
-    *   Beteiligte Systeme
+    *   **Phase**
+
+    *   **Bezeichnung**
+
+    *   **Systeme und Systemumgebung**
 
 
-*    *   Mauterheber
+*    *
+    *   **Beteiligte Systeme**
 
-    *   EETS-Anbieter
+
+*    *   **Mauterheber**
+
+    *   **EETS-Anbieter**
 
 
 *    *   1
@@ -1548,7 +1699,7 @@ Gebrauchstauglichkeit
     *   –
 
 
-*    *   Quality Gate 1
+*    *   ♦ Quality Gate 1
 
 
 *    *   2
@@ -1557,72 +1708,78 @@ Gebrauchstauglichkeit
 
     *   Schnittstellenprüfung
 
-    *   Schnittstellenprüfumgebung
-
-    *   Testumgebung
+    *
+    *   Testumgebung des BAG
 
     *   wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
 
 *    *   Kompatibilitätstests
 
-    *   Kompatibilitätstestumgebung
-
-    *   Testumgebung des Betreibers Toll Collect
+    *
+    *   Testumgebungen des nationalen Mautbetreibers und des BAG
 
     *   wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
 
-*    *   Quality Gate 2
+*    *   EA-Fahrtests (optional)
+
+    *
+    *   Testumgebungen des nationalen Mautbetreibers und des BAG
+
+    *   wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
+
+
+*    *   ♦ Quality Gate 2
 
 
 *    *   2
 
     *   Probebetrieb
 
-    *   Probebetriebsumgebung
-
-    *   wirkbetriebsnahes Erprobungssystem
+    *
+    *   Testumgebungen des BAG und des nationalen Mautbetreibers
 
     *   wirkbetriebsnahes Erprobungssystem oder Wirkbetriebssystem
 
 
-*    *   Quality Gate 3
+*    *   ♦ Quality Gate 3
 
 
 *    *   3
 
     *   Pilotbetrieb
 
-    *   Wirkbetriebsumgebung
+    *
+    *   Wirkbetriebssystem des BAG und des nationalen Mautbetreibers
 
     *   Wirkbetriebssystem
 
-    *   Wirkbetriebssystem
 
-
-*    *   Quality Gate 4
-
+*    *   ♦ Quality Gate 4
 
 
 
-1\.6 Hinweise zu den genannten Fristen
+**Tabelle 1: Übersicht über das Verfahren zur Feststellung der
+Gebrauchstauglichkeit**
+
+**1.6 Hinweise zu den genannten Fristen**
 
 In der folgenden Beschreibung des Verfahrens werden Fristen
 festgelegt, in denen der Mauterheber die jeweils genannten Aktivitäten
 oder Aufgaben abschließt. Der Mauterheber behält sich ausdrücklich
 vor, diese Fristen im Einzelfall auch zu verlängern.
 
-1\.7 Änderung des Verfahrens zur Feststellung der Gebrauchstauglichkeit
-und Anpassung der Verfahrensbeschreibung
+**1.7 Änderung des Verfahrens zur Feststellung der
+Gebrauchstauglichkeit und Anpassung der Verfahrensbeschreibung**
 
 Der Mauterheber kann das Verfahren zur Feststellung der
-Gebrauchstauglichkeit ändern. Das ist z. B. erforderlich, wenn mit dem
-aktuellen Verfahren die Gebrauchstauglichkeit des Teilsystems des
-EETS-Anbieters nicht oder nicht vollständig geprüft werden kann. Eine
-Änderung des Verfahrens kann auch von EETS-Anbietern oder Dritten beim
-Mauterheber beantragt werden. Der Mauterheber prüft den
-Änderungsantrag und teilt dem Antragsteller das Ergebnis mit.
+Gebrauchstauglichkeit ändern. Das ist zum Beispiel erforderlich, wenn
+mit dem aktuellen Verfahren die Gebrauchstauglichkeit des Teilsystems
+des EETS-Anbieters nicht oder nicht vollständig geprüft werden kann.
+Eine Änderung des Verfahrens kann auch von EETS-Anbietern oder Dritten
+beim Mauterheber beantragt werden. Der Mauterheber prüft den
+Änderungsantrag und teilt dem Antragssteller das Ergebnis mit.
 
 Der Mauterheber dokumentiert die Änderung des Verfahrens in der
 Verfahrensbeschreibung und stellt die geänderte Version allen
@@ -1636,33 +1793,38 @@ EETS-Anbieter die Wiederholung von bereits durchgeführten Prüfungen
 verlangen, wenn Zweifel an der Gebrauchstauglichkeit unter den
 veränderten Verfahrensbedingungen bestehen.
 
-
 ## **2 Aufgaben und Verantwortlichkeiten**
 
-2\.1 Mauterheber
+**2.1 Mauterheber**
 
 Der Mauterheber prüft die Dokumentation des Teilsystems des EETS-
-Anbieters und teilt ihm das Ergebnis der Prüfung mit.
+Anbieters und teilt ihm das Ergebnis der Prüfung mit. Dabei werden die
+Ergebnisse der Konformitätsprüfung berücksichtigt.
 
-Der Mauterheber prüft das durch den EETS-Anbieter erstellte
-Prüfprogramm und berücksichtigt dabei die Ergebnisse der
-Konformitätsprüfung. Bei der Gebrauchstauglichkeitsprüfung werden
-daher die Baumusterspezifikationen nicht erneut bewertet, es sei denn
-es gibt Hinweise darauf, dass eventuelle Interoperabilitätsprobleme
-mit diesen Spezifikationen zusammenhängen. Nach erfolgreicher Prüfung
-stimmt der Mauterheber dem Prüfprogramm zu.
+Der Mauterheber prüft die durch den EETS-Anbieter erstellte
+Prüfplanung. Nach erfolgreicher Prüfung stimmt der Mauterheber der
+Prüfplanung zu.
 
 Der Mauterheber begleitet und beaufsichtigt die Prüfungen in allen
 Phasen und bewertet die vorgelegten Prüfergebnisse auf
-Gebrauchstauglichkeit. Zu Beginn jeder Prüfphase stellt der
-Mauterheber sein dafür erforderliches System zur Verfügung,
-verifiziert die korrekte Funktion und überprüft die Anbindung
-innerhalb der Umgebung. Im Anschluss meldet er die Prüfbereitschaft an
-den EETS-Anbieter.
+Gebrauchstauglichkeit. Er unterstützt den EETS-Anbieter bei der
+Durchführung von Prüfungen und führt zudem einige der Prüfungen selber
+durch. Zu Beginn jeder Prüfphase stellt der Mauterheber sein dafür
+erforderliches System zur Verfügung, verifiziert die korrekte Funktion
+und überprüft die Anbindung innerhalb der Umgebung. Im Anschluss
+meldet er die Prüfbereitschaft an den EETS-Anbieter.
 
-Der Mauterheber unterstützt den EETS-Anbieter bei der Fehleranalyse.
+Der Mauterheber führt eigenständig Analysen von Auffälligkeiten und
+Fehlern durch und unterstützt den EETS-Anbieter bei der Fehleranalyse.
 
-Bei Bedarf plant der Mauterheber Inspektionen und führt diese nach
+Der Mauterheber wird bei der Durchführung seiner Aufgaben und
+Verantwortlichkeiten im Rahmen des Verfahrens zur
+Gebrauchstauglichkeit durch den nationalen Mautbetreiber unterstützt.
+Insbesondere führt der nationale Mautbetreiber im Auftrag des
+Mauterhebers in Phase 1 des Prüfblocks 2 die Kompatibilitätstests
+durch.
+
+Bei Bedarf plant der Mauterheber Inspektionen, führt diese nach
 Abstimmung mit dem EETS-Anbieter durch und teilt dem EETS-Anbieter die
 Ergebnisse mit.
 
@@ -1679,100 +1841,108 @@ Teilsystemen erforderlich werden.
 
 Falls Änderungen am Verfahren zur Gebrauchstauglichkeit erforderlich
 sind, ist der Mauterheber für die Aktualisierung der
-Verfahrensbeschreibung verantwortlich (siehe Nummer 1.7).
+Verfahrensbeschreibung verantwortlich (siehe Kapitel 1.7).
 
-2\.2 EETS-Anbieter
+**2.2 EETS-Anbieter**
 
-Der EETS-Anbieter übermittelt die Dokumentation seines Teilsystems an
-den Mauterheber.
+Der EETS-Anbieter übermittelt dem Mauterheber die Dokumentation seines
+Teilsystems.
 
 Nach erfolgreicher Prüfung der Dokumentation erstellt der EETS-
-Anbieter nach den Vorgaben ein Prüfprogramm und stimmt dieses mit dem
-Mauterheber ab. Bei der Festlegung des Prüfumfangs und der Prüfinhalte
-werden die Ergebnisse der Konformitätsprüfung berücksichtigt.
-
+Anbieter nach den Vorgaben des Dokuments B „Prüfkonzept“ und dessen
+Anlagen eine Prüfplanung und stimmt diese mit dem Mauterheber ab.
 Der EETS-Anbieter führt in allen drei Phasen die Prüfungen durch und
-überwacht sein Teilsystem. Zu Beginn jeder Prüfphase stellt er das
-erforderliche System zur Verfügung, verifiziert die korrekte Funktion,
-überprüft die Anbindung innerhalb der Umgebung und meldet
-Prüfbereitschaft an den Mauterheber. Der EETS-Anbieter dokumentiert
-die Prüfergebnisse und übermittelt sie an den Mauterheber zur
-Bewertung. Der EETS-Anbieter ist dafür verantwortlich, dass für die
-Prüfungen ausreichend geschultes Personal in den folgenden
+überwacht sein Teilsystem. Er unterstützt den Mauterheber außerdem bei
+der Umsetzung der Prüfungsanteile, die vom Mauterheber durchgeführt
+werden. Zu Beginn jeder Prüfphase stellt er das erforderliche System
+zur Verfügung, verifiziert die korrekte Funktion, überprüft die
+Anbindung innerhalb der Umgebung und meldet Prüfbereitschaft an den
+Mauterheber. Der EETS-Anbieter dokumentiert die Ergebnisse der von ihm
+durchgeführten Tests und Prüfungen und übermittelt sie dem Mauterheber
+zur Bewertung. Der EETS-Anbieter ist dafür verantwortlich, dass für
+die Prüfungen ausreichend geschultes Personal in den folgenden
 Aufgabenbereichen zur Verfügung steht:
 
-–   Konfiguration und Bedienung der Bordgeräte
+
+1.  Unterstützung beim Einbau der Bordgeräte im Rahmen der Phase 1 –
+    Kompatibilitätstests
 
 
-–   Fahrten für Phasen 1 und 2, Nutzerreferenzgruppe für Phase 3
+2.  Konfiguration und Bedienung der Bordgeräte
 
 
-–   Bedienung der Benutzerschnittstellen des Zentralsystems
+3.  Fahrten für Phase 2, Nutzerreferenzgruppe für Phase 3
 
 
-–   Betreuung der Betriebsprozesse
+4.  Bedienung der Benutzerschnittstellen des Zentralsystems
 
 
-–   Koordinierung der Prüfaktivitäten mit dem Mauterheber.
+5.  Betreuung der Betriebsprozesse
+
+
+6.  Koordinierung der Prüfaktivitäten mit dem Mauterheber
+
+
+7.  Unterstützung bei der Analyse von Auffälligkeiten und Fehlern
 
 
 
 
-Es ist Aufgabe des EETS-Anbieters, die Inspektionen durch
+Es ist Aufgabe des EETS-Anbieters, Inspektionen des Mauterhebers durch
 Bereitstellen entsprechender Ressourcen und Informationen zu
 unterstützen. Falls er Unterauftragnehmer (Dienstleister und
 Lieferanten) einsetzt, ist er für die Koordinierung und Kooperation
 seiner Unterauftragnehmer verantwortlich.
 
 Nach erfolgreicher Gebrauchstauglichkeitsprüfung ist der EETS-Anbieter
-verpflichtet, dem Mauterheber rechtzeitig Änderungen an seinem
-Teilsystem, die das EETS-Gebiet BFStrMG betreffen, anzuzeigen.
-
+verpflichtet, dem Mauterheber rechtzeitig jegliche Änderungen an
+seinem System, die das EETS-Gebiet BFStrMG betreffen, anzuzeigen.
 
 ## **3 Beschreibung des Verfahrens**
 
-3\.1 Überblick
+**3.1 Überblick**
 
 Für die erstmalige Feststellung der Gebrauchstauglichkeit muss jeder
 EETS-Anbieter vor Abschluss des EETS-Zulassungsvertrags das Verfahren
-gemäß den Nummern 3.2 und 3.3 vollständig durchlaufen.
+gemäß Kapitel 3.2 und 3.3 vollständig durchlaufen.
 
 Innerhalb der einzelnen Phasen kann der Mauterheber auch Inspektionen
-beim EETS-Anbieter bzw. in dessen Teilsystem zur Überprüfung der
+beim EETS-Anbieter und in dessen Teilsystem zur Überprüfung der
 Erfüllung seiner Vorgaben durchführen.
 
 Das Verfahren kann abgebrochen werden, wenn grundlegende Vorgaben des
 Mauterhebers nachweislich nicht erfüllt wurden. Die Kriterien für
 einen Abbruch sowie die Regelungen zur Wiederaufnahme des Verfahrens
-sind in Nummer 3.6 enthalten.
+sind in Kapitel 3.6 enthalten.
 
 Ändern sich nach erfolgreicher Durchführung des
 Gebrauchstauglichkeitsverfahrens die Vorgaben des Mauterhebers oder
 die Versionsstände des EETS-Teilsystems von Mauterheber oder EETS-
-Anbieter bzw. die Komponenten eines Teilsystems, so behält sich der
+Anbieter oder die Komponenten eines Teilsystems, so behält sich der
 Mauterheber vor, die Gebrauchstauglichkeit erneut zu prüfen. Dazu
 müssen die system- und verfahrenstechnischen Änderungen im Hinblick
 auf eine teilweise oder vollständige Wiederholung des Verfahrens
-bewertet und gemäß Nummer 3.5 geregelt werden. Das Verfahren muss auch
-bei einem begründeten Verdacht auf Nichteinhaltung der Vorgaben
-wiederholt werden. Wird der Nachweis der Funktions- und
-Leistungsfähigkeit und der Betriebsfähigkeit des Teilsystems des EETS-
-Anbieters bei der Wiederholung des Verfahrens nicht erbracht, wird die
+bewertet und gemäß Kapitel 3.5 geregelt werden. Das Verfahren muss
+auch bei einem begründeten Verdacht auf Nichteinhaltung der Vorgaben
+wiederholt werden. Wird der Nachweis der Funktions-, Leistungs- und
+Betriebsfähigkeit des Teilsystems des EETS-Anbieters bei der
+Wiederholung des Verfahrens nicht erbracht, wird die
 Gebrauchstauglichkeitsbescheinigung widerrufen.
 
 Die gesamte Kommunikation einschließlich Schriftverkehr zwischen
 Mauterheber und EETS-Anbieter erfolgt in deutscher Sprache.
 
-3\.2 GTP Prüfblock 1
+**3.2 GTP Prüfblock 1**
 
-3\.2.1 Prüfung der Voraussetzungen zur Aufnahme des Verfahrens
+**3.2.1 Prüfung der Voraussetzungen zur Aufnahme des Verfahrens**
 
 Die Aufnahme des Verfahrens erfolgt auf Antrag eines EETS-Anbieters.
 Der Antrag ist in schriftlicher Form an den Mauterheber zu richten.
 Dem Antrag sind eine Kopie der Registrierungsbescheinigung und die EG-
 Konformitätserklärungen der Interoperabilitätskomponenten gemäß
-Entscheidung 2009/750/EG Anhang IV Nummer 3 einschließlich
-Versionsstand der jeweiligen Interoperabilitätskomponenten beizufügen.
+Durchführungsverordnung (EU) 2020/204 Anhang III, Abschnitt VI
+einschließlich Versionsstand der jeweiligen
+Interoperabilitätskomponenten beizufügen.
 
 Falls der Nachweis der Gebrauchstauglichkeit nicht vom EETS-Anbieter
 selbst, sondern von einem Hersteller oder einem Bevollmächtigten
@@ -1789,13 +1959,13 @@ Verfahrens nicht erfüllt sind, wird der Mauterheber die Gründe dafür
 schriftlich darlegen. Der Antragsteller hat im Anschluss die
 Möglichkeit, den Antrag nachzubessern und erneut einzureichen.
 
-3\.2.2 Fragen des EETS-Anbieters
+**3.2.2 Fragen des EETS-Anbieters**
 
 Der EETS-Anbieter hat die Möglichkeit, schriftlich Fragen an den
 Mauterheber zu stellen. Der Mauterheber nimmt innerhalb von vier
 Wochen nach Eingang der Fragen schriftlich Stellung. Falls er von
 seinem Recht zur Verlängerung der Frist Gebrauch macht, wird er den
-EETS-Anbieter innerhalb der 4-Wochen-Frist über den Stand der
+EETS-Anbieter innerhalb der Vier-Wochen-Frist über den Stand der
 Bearbeitung und den voraussichtlichen Termin für die Antwort
 informieren.
 
@@ -1806,111 +1976,127 @@ entscheidet der Mauterheber über einen Termin zur Abstimmung. Die
 Einladung zu einem Abstimmungsgespräch erfolgt grundsätzlich durch den
 Mauterheber.
 
-3\.2.3 Prüfung der Dokumentation
+**3.2.3 Prüfung der Dokumentation**
 
-Der EETS-Anbieter übermittelt die Dokumentation seines Teilsystems an
-den Mauterheber. Die Dokumentation enthält Darstellungen zu seinen
+Der EETS-Anbieter übermittelt dem Mauterheber die Dokumentation seines
+Systems. Die Dokumentation enthält Darstellungen zu seinen
 Geschäftsprozessen sowie Grobbeschreibungen der Systembestandteile.
 Zudem dokumentiert der EETS-Anbieter nachvollziehbar die Einhaltung
 der Vorgaben des Mauterhebers in tabellarischer Form. Bei der
 Erstellung der Dokumentation seines Teilsystems soll sich der EETS-
-Anbieter an den „Empfehlungen zur Dokumentation“ (Dokument 4.4 der
-Gebietsvorgaben) orientieren.
+Anbieter an den „Empfehlungen zur Dokumentation“ (Dokument B –
+Prüfkonzept, Kapitel 3.2) orientieren.
 
-Die Dokumentation des Teilsystems wird vom EETS-Anbieter schriftlich
-und elektronisch an den Mauterheber übergeben. Der Eingang der
-Dokumentation wird durch den Mauterheber bestätigt.
+Die Dokumentation des Systems wird vom EETS-Anbieter elektronisch an
+den Mauterheber übergeben. Der Eingang der Dokumentation wird durch
+den Mauterheber bestätigt.
 
 Zunächst prüft der Mauterheber die vom EETS-Anbieter übermittelte
 Dokumentation auf Vollständigkeit, Nachvollziehbarkeit und
 Plausibilität. Details zu den Schwerpunkten der Prüfungen sind im
-Dokument B zusammengefasst. Die Ergebnisse der Prüfung der
-Dokumentation werden dem EETS-Anbieter innerhalb von 12 Wochen nach
-Eingang schriftlich mitgeteilt.
+Dokument B, Kapitel 3.2 zusammengefasst. Die Ergebnisse der Prüfung
+der Dokumentation werden dem EETS-Anbieter innerhalb von zwölf Wochen
+nach Eingang mitgeteilt.
 
 Fällt die Prüfung der Dokumentation durch den Mauterheber nicht
-positiv aus, wird dieser die Gründe dafür schriftlich darlegen.
-Gegebenenfalls wird er Nachbesserungen der Dokumentation oder weitere
-Nachweise fordern. Der EETS-Anbieter hat dann die Möglichkeit,
-Nachbesserungen vorzunehmen und die überarbeitete Dokumentation unter
-Kennzeichnung der vorgenommenen Änderungen wiederum schriftlich und
-elektronisch an den Mauterheber zu übergeben.
+positiv aus, wird dieser die Gründe dafür darlegen. Gegebenenfalls
+wird er Nachbesserungen der Dokumentation oder weitere Nachweise
+fordern. Der EETS-Anbieter hat dann die Möglichkeit, Nachbesserungen
+vorzunehmen und die überarbeitete Dokumentation unter Kennzeichnung
+der vorgenommenen Änderungen wiederum elektronisch an den Mauterheber
+zu übergeben.
 
 Der Eingang der überarbeiteten Dokumentation wird durch den
 Mauterheber bestätigt. Das Ergebnis der Nachprüfung teilt der
 Mauterheber dem EETS-Anbieter innerhalb von sechs Wochen nach Eingang
-der überarbeiteten Dokumentation schriftlich mit.
+der überarbeiteten Dokumentation mit.
 
-3\.2.4 Prüfung des durch den EETS-Anbieter erstellten Prüfprogramms
+**3.2.4 Prüfung des durch den EETS-Anbieter erstellten Prüfprogramms**
 
-Die Planung und Erstellung des Prüfprogramms obliegt dem EETS-
-Anbieter. Der Mauterheber definiert jedoch Vorgaben (Mindestkriterien)
-bezüglich Art und Umfang der Prüfungen. Diese sind in Dokument B
-zusammengefasst. Für die erste Prüfphase sind die Prüffallvorgaben in
-einem Prüfkatalog (Anhang zum Dokument B Prüfkonzept) festgelegt. Für
-die zweite und dritte Phase gibt der Mauterheber Prüfszenarien vor.
-Diese Prüfszenarien und die Prüffallvorgaben hat der EETS-Anbieter in
-seinem Prüfprogramm zu berücksichtigen. Außerdem werden die Ergebnisse
-der Konformitätsprüfung betrachtet.
+Die Planung der Durchführung der Prüfungen obliegt dem EETS-Anbieter.
+Der Mauterheber definiert jedoch Vorgaben (Mindestkriterien) bezüglich
+Art und Umfang der Prüfungen und gibt die Prüfkataloge mit den
+durchzuführenden Prüffällen vor. Diese sind in Dokument B inklusive
+der Anlagen zusammengefasst.
 
-Falls der EETS-Anbieter im Rahmen der Erstellung des Prüfprogramms
-eine Diskrepanz zwischen den Inhalten der Prüffallvorgaben im
-Prüfkatalog und den Festlegungen in Dokument B bzw. den im
-Rahmendokument EETS-Schnittstellen referenzierten
-Schnittstellenspezifikationen feststellt, gelten die Festlegungen in
-den übergreifenden Dokumenten. Die entsprechenden Prüffälle in dem
-durch den EETS-Anbieter zu erstellenden Prüfprogramm haben sich in
-diesem Fall an den übergreifenden Dokumenten zu orientieren, sind dem
-Mauterheber mitzuteilen und in dem Prüfprogramm kenntlich zu machen,
-sodass diese im Rahmen der Abstimmungen zwischen Mauterheber und EETS-
-Anbieter gesondert bewertet werden können. Diese Regelung gilt auch
-für den Fall, wenn der EETS-Anbieter im Rahmen der Erstellung des
-Prüfprogramms eine nicht ausreichende inhaltliche Abdeckung der
-Prüffallvorgaben zu den Festlegungen in den übergreifenden Dokumenten
-identifiziert. In diesem Fall hat der EETS-Anbieter entsprechende
-Prüffälle zu definieren und diese gegenüber dem Mauterheber kenntlich
-zu machen.
+Für die **erste Prüfphase**              sind die Vorgaben in Dokument
+B festgelegt und in seinen Anlagen präzisiert:
 
-Das Prüfprogramm wird nur für den Versionsstand der Komponenten, für
-die eine Konformitätserklärung aus der Registrierung vorliegt, und für
-den Versionsstand des Teilsystems des EETS-Anbieters, die der Prüfung
-der Dokumentation dessen Teilsystems zugrunde lag, durchgeführt.
+1.  Anlage [1] – Schnittstellentests: Diese enthält den Prüfkatalog für
+    den Nachweis der korrekten Anbindung und Bedienung der Schnittstellen
+    des Zentralsystems des Mauterhebers.
 
-Der EETS-Anbieter legt dem Mauterheber das Prüfprogramm in
-schriftlicher und elektronischer Form vor. Der Mauterheber bestätigt
-den Eingang des Prüfprogramms und prüft dieses auf Vollständigkeit,
-Nachvollziehbarkeit und Plausibilität. Der Mauterheber teilt dem EETS-
-Anbieter innerhalb von drei Wochen nach Eingang des Prüfprogramms das
-Ergebnis seiner Prüfung mit. Bei einem positiven Ergebnis stimmen
-Mauterheber und EETS-Anbieter den Zeitplan für die Durchführung des
-Prüfprogramms und die einzuhaltenden Fristen miteinander ab. Das
+
+2.  Anlagen [2] und [3] – Kompatibilitätstests: Diese enthält den
+    Prüfkatalog für die während der Phase 1 durchzuführenden
+    Kompatibilitätstests mit Fokus auf der Kontrollkommunikation und der
+    für den Mauterhebungsdienst notwendigen Datenkommunikation und
+    Ortungsqualität der Bordgeräte des EETS-Anbieters.
+
+
+
+
+Für die **zweite Prüfphase**              gibt der Mauterheber in
+Dokument B die Prüfszenarien vor und präzisiert deren Nachweis in Form
+des Prüfkatalogs „Probebetrieb“, Anlage [4] zu Dokument B.
+
+Für die **dritte Prüfphase**              gibt der Mauterheber
+Prüfszenarien mit entsprechenden Vorgaben und die im Rahmen des
+Pilotbetriebs zu erreichenden Mindestkriterien vor.
+
+Die Durchführung der Prüfszenarien und der in den Prüfkatalogen
+geforderten Prüffälle hat der EETS-Anbieter in seiner Prüfplanung zu
+berücksichtigen und zeitlich zu planen.
+
+Für den Fall, dass der EETS-Anbieter nach Durchführung der
+Schnittstellenprüfung und der Kompatibilitätstests die optionalen „EA-
+Fahrtests“ durchführen möchte, muss er diese zeitlich in seine
+Prüfplanung integrieren und separat beschreiben (z.B. gewünschte
+Mitwirkungsleistungen des Mauterhebers und des nationalen
+Mautbetreibers). Die Durchführung und Planung der EA-Fahrtests wird im
+Rahmen der Abstimmungen der Prüfplanung vom Mauterheber freigegeben.
+
+Die Prüfplanung wird nur für die Komponenten, für die eine
+Konformitätserklärung aus der Registrierung vorliegt, und für den
+Versionsstand des Teilsystems des EETS-Anbieters, die der Prüfung der
+Dokumentation dessen Teilsystems zugrunde lag, durchgeführt.
+
+Der EETS-Anbieter legt dem Mauterheber die Prüfplanung in
+elektronischer Form vor. Der Mauterheber bestätigt den Eingang der
+Prüfplanung und prüft diese auf Vollständigkeit, Nachvollziehbarkeit
+und Plausibilität. Der Mauterheber teilt dem EETS-Anbieter innerhalb
+von drei Wochen nach Eingang der Prüfplanung das Ergebnis seiner
+Prüfung mit. Bei einem positiven Ergebnis stimmen Mauterheber und
+EETS-Anbieter noch notwendige Anpassungen am Zeitplan für die
+Durchführung und die einzuhaltenden Fristen miteinander ab. Das
 Ergebnis der Abstimmung wird von den Beteiligten spätestens innerhalb
-von zwei Wochen schriftlich bestätigt.
+von zwei Wochen bestätigt.
 
-Führt die Prüfung des Programms durch den Mauterheber nicht zu einem
-positiven Ergebnis, so wird dieser die Gründe dafür in der
-schriftlichen Mitteilung darlegen. Gegebenenfalls wird der Mauterheber
-Nachbesserungen fordern. Der EETS-Anbieter hat dann die Möglichkeit,
-Nachbesserungen vorzunehmen und das überarbeitete Prüfprogramm
-wiederum in schriftlicher und elektronischer Form an den Mauterheber
-zu übergeben.
+Führt die Prüfung der Prüfplanung durch den Mauterheber nicht zu einem
+positiven Ergebnis, so wird dieser dem EETS-Anbieter die Gründe dafür
+darlegen. Gegebenenfalls wird der Mauterheber Nachbesserungen fordern.
+Der EETS-Anbieter hat dann die Möglichkeit, Nachbesserungen
+vorzunehmen und die überarbeitete Prüfplanung wiederum in
+elektronischer Form an den Mauterheber zu übergeben.
 
-Der Eingang des überarbeiteten Prüfprogramms wird durch den
-Mauterheber bestätigt. Für die Prüfung des Programms und die
-Abstimmung des Zeitplans gelten die oben genannten Fristen.
+Der Eingang der überarbeiteten Prüfplanung wird durch den Mauterheber
+bestätigt. Für die Prüfung der Planung und die gegebenenfalls
+notwendige Abstimmung des Zeitplans gelten die oben genannten Fristen.
 
-3\.3 GTP Prüfblock 2
+**3.3 GTP Prüfblock 2**
 
-3\.3.1 Phase 1 Schnittstellenprüfung
+**3.3.1 Phase 1 Schnittstellenprüfung und Kompatibilitätstests**
 
-Die Durchführung des Prüfprogramms beginnt mit der Überprüfung der
-Schnittstellen und den initialen Funktionsprüfungen. Voraussetzung für
-diese Prüfungen ist, dass das Teilsystem des EETS-Anbieters
-vollständig errichtet und alle Schnittstellen zum EETS-Teilsystem des
-Mauterhebers funktionsbereit sind. Für die Durchführung der Prüfungen
-stellt der Mauterheber eine Testumgebung zur Verfügung, die alle
-Schnittstellen entsprechend seiner Schnittstellenspezifikation
-bereitstellt.
+**3.3.1.1. Schnittstellenprüfung**
+
+Die Durchführung der Tests gemäß der Prüfplanung beginnt mit der
+Überprüfung der Schnittstellen und den initialen Funktionsprüfungen.
+Voraussetzung für diese Prüfungen ist, dass das Teilsystem des EETS-
+Anbieters vollständig errichtet und alle Schnittstellen zum EETS-
+Teilsystem des Mauterhebers funktionsbereit sind. Für die Durchführung
+der Prüfungen stellt der Mauterheber eine Testumgebung zur Verfügung,
+die alle Schnittstellen entsprechend seiner
+Schnittstellenspezifikationen bereitstellt.
 
 Ziel dieser Prüfphase ist der Nachweis der Funktionsfähigkeit der
 Schnittstellen zwischen den EETS-Teilsystemen von EETS-Anbieter und
@@ -1918,10 +2104,10 @@ Mauterheber sowie der Nachweis der korrekten Implementierung
 ausgewählter (Teil-)Prozesse im System des EETS-Anbieters.
 
 Die Fristen zur Durchführung, Auswertung und Bewertung der einzelnen
-Prüffälle werden im Rahmen der Abstimmung des Programms (siehe Nummer
+Prüffälle werden im Rahmen der Abstimmung der Planung (siehe Kapitel
 3\.2.4) verbindlich festgelegt. Das Prüfkonzept einschließlich der
-Mindest-Prüfszenarien und Prüffallvorgaben ist in Dokument B
-beschrieben.
+Prüfszenarien ist in Dokument B beschrieben. Die durchzuführenden
+Prüffälle sind in Anlage [1] zu Dokument B aufgelistet.
 
 Die Prüffälle werden durch den EETS-Anbieter gegebenenfalls mit
 Unterstützung des Mauterhebers durchgeführt und dokumentiert. Der
@@ -1932,135 +2118,188 @@ der initialen Funktionsprüfungen kann der Mauterheber zusätzliche
 Nachweise verlangen und die Aufnahme des Probebetriebs bis zur
 Ausräumung dieser Zweifel untersagen.
 
-3\.3.1.1 Kompatibilitätstests
+**3.3.1.2. Kompatibilitätstests**
 
-Parallel zur Phase 1 (Schnittstellenprüfungen) werden
-Kompatibilitätstests mit den Bordgeräten des EETS-Anbieters und den
-Kontrolleinrichtungen des deutschen Mautsystems (Kontrollsäule,
-Kontrollbrücke, Kontrollfahrzeug einschließlich der Handgeräte)
-durchgeführt. Ziel der Kompatibilitätstests ist der funktionale und
-betriebliche Nachweis des korrekten Kommunikationsverhaltens zwischen
-den Bordgeräten des EETS-Anbieters und den Kontrolleinrichtungen des
-deutschen Mautsystems. Zu diesem Zweck werden unter anderem
-funktionale Tests unter Berücksichtigung unterschiedlicher Szenarien,
-Kommunikationszonentests und Tests zur Prüfung der stabilen und
-robusten Kommunikation zwischen den EETS-Bordgeräten und den
-Kontrolleinrichtungen durchgeführt.
+Innerhalb der Phase 1 werden Kompatibilitätstests mit den Bordgeräten
+und dem Zentralsystem des EETS-Anbieters durchgeführt. Die
+Kompatibilitätstests umfassen zwei Schwerpunkte:
 
-Die Kompatibilitätstests werden durch den Betreiber der
-Kontrolleinrichtungen im Auftrag des Mauterhebers auf Basis eines
-Testfallkatalogs geplant und durchgeführt. Der EETS-Anbieter hat die
-Möglichkeit, die Tests zu begleiten.
+1.  Nachweis der Kompatibilität zu den Kontrolleinrichtungen des deutschen
+    Mautsystems (Kontrollsäule, Kontrollbrücke, Kontrollfahrzeug
+    einschließlich der Handgeräte) und Funktionsfähigkeit der DSRC-
+    Kommunikation. Ziel dieser DSRC-Kompatibilitätstests ist der
+    funktionale und betriebliche Nachweis des korrekten
+    Kommunikationsverhaltens zwischen den Bordgeräten des EETS-Anbieters
+    und den Kontrolleinrichtungen des deutschen Mautsystems. Zu diesem
+    Zweck werden unter anderem funktionale Tests unter Berücksichtigung
+    unterschiedlicher Szenarien, Kommunikationszonentests und betriebliche
+    Tests zur Prüfung der stabilen und robusten Kommunikation zwischen den
+    EETS-Bordgeräten und den Kontrolleinrichtungen durchgeführt.
 
-Zur Durchführung der Kompatibilitätstests muss der EETS-Anbieter dem
-Mauterheber mindestens zehn Fahrzeuggeräte bereitstellen, deren Typ
-für die spätere Nutzung im Wirkbetrieb im EETS-Gebiet BFStrMG
-vorgesehen sind. Sofern der EETS-Anbieter die Nutzung
+
+2.  Nachweis der Kompatibilität zum Mauterhebungsdienst (MED). Ziel dieser
+    MED-Kompatibilitätstests ist der Nachweis der korrekten Kommunikation
+    zwischen dem Teilsystem des EETS-Anbieters mit den Schnittstellen des
+    vom nationalen Mautbetreiber betriebenen Mauterhebungsdienstes sowie
+    die Erfüllung der Anforderungen an die Ortungsqualität durch die
+    Bordgeräte des EETS-Anbieters.
+
+
+
+
+Die Kompatibilitätstests werden durch den nationalen Mautbetreiber im
+Auftrag des Mauterhebers auf Basis des Prüfkatalogs (Dokument B,
+Anlagen [2] und [3]) geplant und durchgeführt. Der EETS-Anbieter hat
+die Möglichkeit, die Prüfungen zu begleiten.
+
+Zur Durchführung der DSRC- und MED-Kompatibilitätstests muss der EETS-
+Anbieter dem Mauterheber mindestens 43 Fahrzeuggeräte bereitstellen,
+deren Typ für die spätere Nutzung im Wirkbetrieb im EETS-Gebiet
+BFStrMG vorgesehen sind. Sofern der EETS-Anbieter die Nutzung
 unterschiedlicher Bordgerätetypen beabsichtigt, müssen diese vom EETS-
 Anbieter ebenfalls berücksichtigt werden. Der Softwarestand der zur
 Verfügung gestellten Bordgeräte soll dem für den Wirkbetrieb geplanten
 Stand entsprechen und die Vorgaben der Schnittstelle 301, Dokument
-4\.3.1 in der aktuell gültigen Fassung erfüllen.
+4\.3.1 in der aktuell gültigen Fassung erfüllen. Der EETS-Anbieter muss
+die Fahrzeuggeräte samt notwendigem Zubehör (z.B. Verkabelung,
+Befestigungsmaterial) und Dokumentation spätestens zwei Monate vor
+Beginn der Kompatibilitätstests bereitstellen.
 
 Sofern erforderlich, können weitere Mitwirkungsleistungen vom EETS-
 Anbieter notwendig sein, um die Kompatibilitätstests zeitlich
 effizient und in ausreichendem Umfang durchführen zu können. Hierzu
 gehört auch die kurzfristige Behebung von im Rahmen der
 Kompatibilitätstests festgestellten Auffälligkeiten oder Fehlern in
-den Bordgeräten des EETS-Nutzers.
+den Bordgeräten oder im Zentralsystem des EETS-Anbieters sowie
+Unterstützung beim Verbau der Bordgeräte.
 
-3\.3.2 Phase 2 Probebetrieb
+Der Mauterheber stellt dem EETS-Anbieter die Prüfprotokolle mit allen
+Prüfergebnissen der Kompatibilitätstests zur Verfügung. Bei
+berechtigten und schwerwiegenden Zweifeln an dem Erfolg der
+Kompatibilitätstests kann der Mauterheber zusätzliche Nachweise
+verlangen und die Aufnahme des Probebetriebs bis zur Ausräumung dieser
+Zweifel untersagen.
 
-Ziel der zweiten Prüfphase ist es, alle Einrichtungen und Prozesse des
-Teilsystems des EETS-Anbieters auf die Erfüllung der Vorgaben des
-Mauterhebers zu prüfen. Dabei muss sowohl die Funktionsfähigkeit als
-auch die Betriebsfähigkeit des Teilsystems nachgewiesen werden.
+**3.3.1.3. EA-Fahrtests (optional)**
+
+Nach Abschluss der Schnittstellenprüfung und der Kompatibilitätstests
+wird dem EETS-Anbieter die Möglichkeit eingeräumt, Fahrttests mit
+eigenen Fahrzeugen durchzuführen. Die Fahrtests sollen dem EETS-
+Anbieter dazu dienen, eigene Abläufe und Prüfschwerpunkte und -aspekte
+zu testen, die für sein Teilsystem relevant sind.
+Die Durchführung der optionalen EA-Fahrtests muss in die Prüfplanung
+des EETS-Anbieters integriert und vom Mauterheber freigegeben werden.
+Dabei ist darauf zu achten, dass sich dadurch keine technischen oder
+zeitlichen Beeinflussungen für die Durchführung der restlichen
+Prüfungen ergeben. Der Mauterheber wird dem EETS-Anbieter für die
+Durchführung der EA-Fahrtests eine Mitnutzung der für die MED-
+Kompatibilitätstests eingerichteten Systemumgebung ermöglichen.
+
+**3.3.2 Phase 2 Probebetrieb**
+
+Ziel der zweiten Prüfphase ist es, alle Einrichtungen und Ende-zu-Ende
+Prozesse des Teilsystems des EETS-Anbieters auf die Erfüllung der
+Vorgaben des Mauterhebers zu prüfen. Dabei muss sowohl die
+Funktionsfähigkeit als auch die Betriebsfähigkeit des Teilsystems
+nachgewiesen werden. Weiterhin soll im Rahmen des Probebetriebs das
+korrekte übergreifende Zusammenwirken der Teilsysteme des EETS-
+Anbieters und des Mauterhebers inklusive der Systeme des nationalen
+Mautbetreibers in Form von Ende-zu-Ende Szenarien geprüft werden.
 
 Dazu werden Prüfungen durchgeführt, in deren Rahmen unter anderem eine
 anteilige Befahrung des mautpflichtigen Streckennetzes erfolgt.
 Darüber hinaus wird nachgewiesen, dass auch andere, gegebenenfalls vom
-EETS-Anbieter vorgesehene Dienste, den Betrieb des Lkw-Mautsystems im
+EETS-Anbieter vorgesehene Dienste den Betrieb des Lkw-Mautsystems im
 EETS-Gebiet BFStrMG nicht stören.
 
 Die Fristen zur Durchführung, Auswertung und Bewertung der einzelnen
-Prüffälle werden im Rahmen der Abstimmung für das Prüfprogramm (siehe
-Nummer 3.2.4) verbindlich festgelegt. Das Prüfkonzept einschließlich
-der Mindestanzahl an Prüfszenarien ist im Dokument B beschrieben.
+Prüffälle werden im Rahmen der Abstimmung der Prüfplanung (siehe
+Kapitel 3.2.4) verbindlich festgelegt. Das Prüfkonzept einschließlich
+der Prüfszenarien ist in Dokument B beschrieben. Die durchzuführenden
+Prüffälle sind in dem Prüfkatalog „Probebetrieb“, Anlage [4] des
+Dokuments B, formuliert.
 
-Die Prüffälle werden durch den EETS-Anbieter durchgeführt und
-dokumentiert. Der Mauterheber behält sich vor, an der Durchführung der
-Prüffälle des EETS-Anbieters teilzunehmen. Der EETS-Anbieter stellt
-dem Mauterheber die Prüfprotokolle mit allen Prüfergebnissen zur
-Bewertung zur Verfügung. Bei berechtigten und schwerwiegenden Zweifeln
-an dem Erfolg des Probebetriebs kann der Mauterheber zusätzliche
-Nachweise verlangen und die Aufnahme des Pilotbetriebs bis zur
-Ausräumung dieser Zweifel untersagen.
+Die im Prüfkatalog „Probebetrieb“ (Dokument B, Anlage [4])
+vorgesehenen Prüffälle werden durch den EETS-Anbieter durchgeführt und
+dokumentiert. Der Mauterheber unterstützt den EETS-Anbieter bei der
+Durchführung der Prüffälle und behält sich vor, an der Durchführung
+teilzunehmen.
 
-3\.3.3 Phase 3 Pilotbetrieb
+Der EETS-Anbieter stellt dem Mauterheber die Prüfprotokolle mit allen
+Prüfergebnissen zur Bewertung zur Verfügung. Bei berechtigten und
+schwerwiegenden Zweifeln an dem Erfolg des Probebetriebs kann der
+Mauterheber zusätzliche Nachweise verlangen und die Aufnahme des
+Pilotbetriebs bis zur Ausräumung dieser Zweifel untersagen.
 
-Der Pilotbetrieb bildet die dritte und letzte Prüfphase des
-Prüfprogramms wird vollständig in den Wirkbetriebsumgebungen von
-Mauterheber und EETS-Anbieter durchgeführt.
+**3.3.3 Phase 3 Pilotbetrieb**
+
+Der Pilotbetrieb bildet die dritte und letzte Prüfphase der
+Gebrauchstauglichkeitsprüfung und wird vollständig in den
+Wirkbetriebsumgebungen von Mauterheber und EETS-Anbieter durchgeführt.
 
 Ziel des Pilotbetriebs ist es, alle Einrichtungen und Prozesse des
 Teilsystems des EETS-Anbieters auf Erfüllung der Vorgaben des
-Mauterhebers zu prüfen. Dabei muss sowohl die Funktionsfähigkeit und
-Leistungsfähigkeit als auch die Betriebsfähigkeit des Teilsystems im
-Wirkbetrieb nachgewiesen werden. Zu diesem Zweck werden Prüfungen mit
-einer hinreichenden Anzahl von Bordgeräten in Fahrzeugen, die von
-EETS-Nutzern, die einen Vertrag mit dem jeweiligen EETS-Anbieter
-geschlossen haben, im gesamten EETS-Gebiet BFStrMG durchgeführt.
+Mauterhebers zu prüfen. Dabei müssen die Funktionsfähigkeit,
+Betriebsfähigkeit und Leistungsfähigkeit des Systems im Wirkbetrieb
+nachgewiesen werden. Zu diesem Zweck finden jedoch keine dedizierten
+Prüfungen mehr statt, sondern der kontinuierliche Betrieb einer
+hinreichenden Anzahl von Bordgeräten des EETS-Anbieters, die in den
+Fahrzeugen der Nutzerreferenzgruppe des EETS-Anbieters verbaut sind
+und im gesamten EETS-Gebiet BFStrMG unterwegs sind, wird beobachtet
+und ausgewertet. Die Auswertung des Pilotbetriebs erfolgt dahingehend,
+ob die in Dokument B definierten Kriterien und Vorgaben erfüllt
+werden.
 
 Die Fristen zur Durchführung, Auswertung und Bewertung des
-Pilotbetriebs einschließlich der einzelnen Prüffälle werden im Rahmen
-der Abstimmung mit dem Programm (siehe Nummer 3.2.4) verbindlich
-festgelegt. Das Prüfkonzept einschließlich der mindestens
-vorzusehenden Prüfszenarien ist in Dokument B beschrieben.
+Pilotbetriebs werden im Rahmen der Abstimmung der Prüfplanung (siehe
+Kapitel 3.2.4) verbindlich festgelegt. Das Prüfkonzept des
+Pilotbetriebs einschließlich der mindestens zu erreichenden Kriterien
+und zu erfüllenden Vorgaben ist in Dokument B beschrieben.
 
-Die Prüffälle werden durch den EETS-Anbieter unter Begleitung des
-Mauterhebers durchgeführt und dokumentiert. Der EETS-Anbieter stellt
-dem Mauterheber die Prüfprotokolle, die die vollständigen
-Prüfergebnisse enthalten, zur Bewertung zur Verfügung. Bei
-berechtigten und schwerwiegenden Zweifeln an dem Erfolg des
-Pilotbetriebs kann der Mauterheber zusätzliche Nachweise verlangen und
-die Ausstellung der Gebrauchstauglichkeitsbescheinigung bis zur
+Die Erreichung der Kriterien und die Erfüllung der Vorgaben werden
+durch den EETS-Anbieter mit Unterstützung des Mauterhebers geprüft und
+dokumentiert. Der EETS-Anbieter stellt dem Mauterheber die Nachweise,
+die die vollständigen Prüfergebnisse enthalten, zur Bewertung zur
+Verfügung. Bei berechtigten und schwerwiegenden Zweifeln an dem Erfolg
+des Pilotbetriebs kann der Mauterheber zusätzliche Nachweise verlangen
+und die Ausstellung der Gebrauchstauglichkeitsbescheinigung bis zur
 Ausräumung dieser Zweifel versagen.
 
-3\.4 Ausstellung der Gebrauchstauglichkeitsbescheinigung
+**3.4 Ausstellung der Gebrauchstauglichkeitsbescheinigung**
 
 Die Gebrauchstauglichkeitsbescheinigung wird vom Mauterheber nach dem
 erfolgreichen Abschluss des Pilotbetriebs ausgestellt. Sie gilt für
 den darin dokumentierten
 
-–   Stand der Vorgaben des Mauterhebers für die Prüfungen einschließlich
+1.  Stand der Vorgaben des Mauterhebers für die Prüfungen einschließlich
     dem Stand der Verfahrensbeschreibung,
 
 
-–   Versionsstand des EETS-Teilsystems des Mauterhebers, mit dem das
+2.  Versionsstand des EETS-Teilsystems des Mauterhebers, mit dem das
     Verfahren durchgeführt wurde,
 
 
-–   Versionsstand der Komponenten des Teilsystems des EETS-Anbieters gemäß
-    Konformitätserklärung des EETS-Anbieters sowie
+3.  Versionsstand der Komponenten des Teilsystems des EETS-Anbieters gemäß
+    Konformitätserklärungen des EETS-Anbieters,
 
 
-–   Versionsstand des Teilsystems des EETS-Anbieters, für das das
+4.  Versionsstand des Teilsystems des EETS-Anbieters, für dass das
     Verfahren durchgeführt wurde.
 
 
 
 
-3\.5 Aufrechterhaltung der Gebrauchstauglichkeit
+**3.5 Aufrechterhaltung der Gebrauchstauglichkeit**
 
 Es ist unter Umständen möglich, dass zur Aufrechterhaltung der
 Gebrauchstauglichkeit eine erneute Prüfung eines Teils oder des
-gesamten Teilsystems eines EETS-Anbieters notwendig wird. Mögliche
-Gründe sind in Nummer 3.5.1 beschrieben.
+gesamten Systems eines EETS-Anbieters notwendig wird. Mögliche Gründe
+sind im Kapitel 3.5.1 beschrieben.
 
-3\.5.1 Gründe für eine erneute Prüfung
+**3.5.1 Gründe für eine erneute Prüfung**
 
-3\.5.1.1 Änderungen des Verfahrens zur Feststellung der
-Gebrauchstauglichkeit
+**3.5.1.1 Änderungen des Verfahrens zur Feststellung der
+Gebrauchstauglichkeit**
 
 Erfolgt eine Änderung des Verfahrens zur Feststellung der
 Gebrauchstauglichkeit nach Ausstellung der
@@ -2072,125 +2311,165 @@ nicht ausreichend gegeben sein könnte, kann der Mauterheber vom EETS-
 Anbieter eine partielle oder vollständige Wiederholung der Prüfung
 verlangen.
 
-3\.5.1.2 Grundlegende Änderungen im EETS-Teilsystem des Mauterhebers
+**3.5.1.2 Änderungen im EETS-Teilsystem des Mauterhebers (inklusive
+Mauterhebungsdienst)**
 
-Durch den Betrieb des Teilsystems des Mauterhebers ist zu erwarten,
-dass sich im Laufe der Zeit Systemänderungen ergeben. Auslöser für
-Systemänderungen können z. B. betriebliche Optimierungsmaßnahmen oder
-neue gesetzliche Vorgaben sein.
+Durch den Betrieb des Teilsystems des Mauterhebers inklusive des
+Mauterhebungsdienstes ist zu erwarten, dass sich im Laufe der Zeit
+Systemänderungen ergeben. Auslöser für Systemänderungen können zum
+Beispiel betriebliche Optimierungsmaßnahmen oder neue gesetzliche
+Vorgaben sein.
 
-Über Änderungen im EETS-Teilsystem des Mauterhebers (Software-Release,
-Hardware-technische Implementierungen), die für die Schnittstellen zu
-den Teilsystemen der EETS-Anbieter und/oder deren Prozesse bedeutsam
-sein können, oder über geplante Änderungen der Vorgaben wird der
-Mauterheber die EETS-Anbieter informieren. Daraufhin müssen diese
-gegebenenfalls Anpassungen an ihren Teilsystemen (Systemspezifikation,
-Implementierung, Test und Dokumentation) und/oder Prozessdefinitionen
-vornehmen.
+Über Änderungen im EETS-Teilsystem des Mauterhebers inklusive des
+Mauterhebungsdienstes (Software-Releases, Hardwareänderungen), die für
+die Schnittstellen zu den Teilsystemen der EETS-Anbieter und/oder
+deren Prozesse bedeutsam sein können, oder über geplante Änderungen
+der Vorgaben wird der Mauterheber die EETS-Anbieter informieren.
+Daraufhin muss dieser gegebenenfalls Anpassungen an seinen
+Teilsystemen (Systemspezifikation, Implementierung, Test und
+Dokumentation) und/oder Prozessdefinitionen vornehmen. In diesem Fall
+kann der Mauterheber vom EETS-Anbieter eine partielle oder
+vollständige Wiederholung der Prüfung verlangen. Auch für den Fall,
+dass aufgrund von Änderungen im EETS-Teilsystem des Mauterhebers
+inklusive des Mauterhebungsdienstes keine Anpassungen im Teilsystem
+des EETS-Anbieters notwendig werden, besteht unter Umständen dennoch
+erneuter Prüfbedarf, um die Rückwirkungsfreiheit der vom Mauterheber
+vorgenommenen Änderungen auf das korrekte übergreifende Zusammenwirken
+der Teilsysteme des EETS-Anbieters und des Mauterhebers inklusive der
+Systeme des nationalen Mautbetreibers zu prüfen. In diesem Fall würden
+vom Mauterheber partiell Prüfungen aus der
+Gebrauchstauglichkeitsprüfung wiederholt und als Regressionstests
+durchgeführt, bei denen der EETS-Anbieter bei Bedarf mitwirken muss.
 
-3\.5.1.3 Grundlegende Änderungen im Teilsystem des EETS-Anbieters
+**3.5.1.3 Änderungen im Teilsystem des EETS-Anbieters**
 
 Beabsichtigt der EETS-Anbieter, in der Betriebsphase an seinem
-Teilsystem Änderungen vorzunehmen (z. B. betriebliche Optimierungen,
-Software-Releases im Zentralsystem oder am Bordgerät), die die initial
-geprüften Funktionen des Teilsystems oder die Schnittstellen zum
-Mauterheber betreffen können, so hat er dies dem Mauterheber so früh
-wie möglich, mindestens aber drei Monate vorher anzuzeigen.
+Teilsystem Änderungen vorzunehmen (zum Beispiel betriebliche
+Optimierungen, Software-Releases und Hardwareänderungen), die die
+initial geprüften Funktionen des Teilsystems oder die Schnittstellen
+zum Mauterheber betreffen können, so hat er dies dem Mauterheber so
+früh wie möglich, mindestens aber sechs Monate vorher, anzuzeigen.
 
-3\.5.1.4 Begründeter Verdacht des Mauterhebers auf Nichterfüllung
-seiner Vorgaben
+**3.5.1.4 Begründeter Verdacht des Mauterhebers auf Nichterfüllung
+seiner Vorgaben**
 
 Ergeben sich aus der laufenden Überwachung Hinweise, die den Verdacht
 auf Nichteinhaltung der Vorgaben des Mauterhebers durch den EETS-
 Anbieter begründen, kann der Mauterheber die Behebung dieser Mängel am
 Teilsystem des EETS-Anbieters verlangen.
 
-3\.5.2 Bewertung der Anpassungen am Teilsystem des EETS-Anbieters
+**3.5.2 Bewertung der Anpassungen am Teilsystem des EETS-Anbieters**
 
-Werden die durchgeführten Anpassungen oder Hinweise auf
-Nichteinhaltung von Vorgaben vom Mauterheber als derart gravierend
-eingestuft, dass die Prüfaussagen der ursprünglichen
-Gebrauchstauglichkeitsbescheinigung nicht mehr als gültig akzeptiert
-werden können, sind die entsprechenden Teile der Prüfung zumindest für
-die von den Anpassungen betroffenen Systemteile erneut durchzuführen
-und die Systemteile und die dadurch tangierten Prüfszenarien exakt
-festzustellen und abzugrenzen.
+Werden die geplanten Anpassungen oder Hinweise auf Nichteinhaltung von
+Vorgaben vom Mauterheber derart eingestuft, dass die Prüfergebnisse
+der ursprünglichen Gebrauchstauglichkeitsbescheinigung nicht mehr als
+gültig akzeptiert werden können, sind die entsprechenden Teile der
+Prüfung zumindest für die von den Anpassungen betroffenen Teilsysteme
+erneut durchzuführen und die diese Teilsysteme dadurch tangierten
+Prüfszenarien exakt festzustellen und abzugrenzen. Im Fall von
+Änderungen im Teilsystem des EETS-Anbieters erfolgt die Bewertung der
+Änderungen durch den Mauterheber basierend auf den vom EETS-Anbieter
+diesbezüglich übermittelten Informationen (SST 013 – Report „IT-
+Entwicklung“). Im Ergebnis werden vom Mauterheber die Prüfphasen und
+-inhalte festgelegt, die im Rahmen einer Wiederholung der Prüfung
+durchgeführt werden müssen. Dabei werden in Abhängigkeit von den
+vorliegenden technischen und organisatorischen Rahmenbedingungen (z.B.
+Keine Nutzung des Mauterhebungsdienstes) vom Mauterheber relevante
+Teile der Prüfkataloge der Phasen 1 und 2 (Anlagen [1] bis [4],
+Dokument B) ausgewählt oder ergänzende Prüffälle vorgegeben, die
+durchgeführt werden müssen. Die Bewertung des Mauterhebers wird in
+einem Formular dokumentiert. Eine Wiederholung eines partiellen
+Pilotbetriebs zum Nachweis der Erfüllung der Kriterien und Vorgaben
+des Wirkbetriebs mit einer kleineren Anzahl an Bordgeräten ist
+ebenfalls möglich.
 
-3\.5.3 Wiederholung des Verfahrens
+**3.5.3 Wiederholung des Verfahrens**
 
 Die erneute Durchführung des Verfahrens orientiert sich an denselben
 Phasenschritten wie die initiale Durchführung, sofern relevant.
 Sämtliche in der Bewertung der Änderungen als relevant eingestuften
-Prüfszenarien aller Prüfphasen müssen komplett durchlaufen werden.
+Prüffälle der Phasen 1 und 2 müssen durchgeführt werden. Die
+Durchführung ergänzender Prüffälle in Abhängigkeit von den
+vorliegenden technischen und organisatorischen Rahmenbedingungen (z.B.
+Keine Nutzung des Mauterhebungsdienstes) ist möglich. Eine
+Wiederholung eines partiellen Pilotbetriebs im Wirkbetrieb ist
+ebenfalls möglich.
 
 Falls die erneute Prüfung nicht innerhalb von drei Monaten erfolgreich
 abgeschlossen werden kann oder der EETS-Anbieter nicht bereit ist,
 diese Prüfung zu wiederholen, wird der Mauterheber die
 Gebrauchstauglichkeitsbescheinigung widerrufen.
 
-3\.6 Abbruch und Wiederaufnahme des Verfahrens
+**3.6 Abbruch und Wiederaufnahme des Verfahrens**
 
 Stellt sich während der Prüfung zur Feststellung der
 Gebrauchstauglichkeit heraus, dass nach Einschätzung des Mauterhebers
 die Voraussetzungen für ein erfolgreiches Durchlaufen des Verfahrens
-nicht mehr gegeben sind, z. B. aufgrund
+nicht mehr gegeben sind, so wird das Verfahren durch den Mauterheber
+abgebrochen. Ein Abbruch erfolgt zum Beispiel aufgrund folgender
+Voraussetzungen:
 
-–   des Widerrufs der Konformitätserklärung zu einer
-    Interoperabilitätskomponente,
+1.  Wegfall einer, für die Konformitätserklärung einer
+    Interoperabilitätskomponente notwendigen Bestätigung oder
+    Voraussetzung,
 
 
-–   der Änderung des Versionsstandes der Komponenten des Teilsystems des
-    EETS-Anbieters gegenüber dem in der Konformitätserklärung des EETS-
+2.  Änderung des Versionsstandes der Komponenten des Teilsystems des EETS-
+    Anbieters gegenüber dem in der Konformitätserklärung des EETS-
     Anbieters genannten Versionsstand,
 
 
-–   der Nichteinhaltung der Vereinbarung über das EETS-Zulassungsverfahren
-    durch den EETS-Anbieter, gravierender Beanstandungen, wodurch
+3.  Nichteinhaltung der Vereinbarung über das EETS-Zulassungsverfahren
+    durch den EETS-Anbieter, gravierende Beanstandungen, wodurch
     wesentliche Teilkomponenten neu entwickelt oder im Wesentlichen
-    modifiziert werden müssen,
+    modifiziert werden müssen oder
 
 
-–   der grundsätzlichen Nichterfüllbarkeit wesentlicher Vorgaben des
-    Mauterhebers durch das Teilsystem des EETS-Anbieters,
+4.  grundsätzliche Nichterfüllbarkeit wesentlicher Vorgaben des
+    Mauterhebers durch das Teilsystem des EETS-Anbieters.
 
 
 
-so wird das Verfahren durch den Mauterheber abgebrochen. Der
-Mauterheber teilt dem EETS-Anbieter die Gründe für den Abbruch des
+Der Mauterheber teilt dem EETS-Anbieter die Gründe für den Abbruch des
 Verfahrens schriftlich innerhalb von drei Werktagen mit.
 
 Eine Wiederaufnahme des Verfahrens kann erst dann erfolgen, wenn alle
 Voraussetzungen wieder erfüllt sind. Zur Wiederaufnahme des Verfahrens
 gelten dieselben Regelungen wie für die erstmalige Feststellung der
-Gebrauchstauglichkeit (vgl. Nummer 3.2).
+Gebrauchstauglichkeit (siehe Kapitel 3.2).
 
+**4 Vorgaben für die Prüfungen**
 
-## **4 Vorgaben für die Prüfungen**
-
-4\.1 Planungsunterlagen für den Prüfblock 2
+**4.1 Planungsunterlagen für den Prüfblock 2**
 
 Der EETS-Anbieter übernimmt in Abstimmung mit dem Mauterheber die
-Planung für das Prüfprogramm. Die Planungsunterlagen müssen mindestens
-die folgenden Informationen enthalten:
+Erstellung der Planungsunterlagen. Die Planungsunterlagen müssen
+mindestens die folgenden Informationen enthalten:
 
-–   das Prüfprogramm
+1.  zeitliche Planung für
 
-
-–   zeitliche Planung für
-
-    –   Aufbau der Prüfumgebungen für alle drei Prüfphasen
+    •   Aufbau der Prüfumgebungen für alle drei Prüfphasen
 
 
-    –   Prüfablauf für alle drei Prüfphasen mit Bezug auf das Prüfprogramm
+    •   Ablauf der Durchführung der Prüffälle für die Phasen 1 und 2 gemäß der
+        Prüfkataloge (Anlagen [1] bis [4], Dokument B)
+
+
+    •   Planung, Organisation und Durchführung des Pilotbetriebs
+
+
+    •   Vom EETS-Anbieter ergänzte Testfälle und deren Einplanung in den
+        zeitlichen Prüfablauf (sofern vom EETS-Anbieter vorgesehen, siehe
+        Kapitel 3.2.4)
 
 
 
 
 
-–   Berichtswesen
+2.  Berichtswesen
 
 
-–   Organigramm des Prüfteams des EETS-Anbieters.
+3.  Organigramm des Prüfteams des EETS-Anbieters
 
 
 
@@ -2199,19 +2478,14 @@ Eine detaillierte Planung für die Durchführung der einzelnen
 Prüfphasen erfolgt während der Vorbereitung und vor der Aufnahme der
 jeweiligen Phasen.
 
-Bei der zeitlichen Planung ist insbesondere zu beachten, dass der
-Pilotbetrieb (Phase 3) mindestens eine Änderung der Mautbasisdaten
-umfasst und nach der Änderung noch mindestens sechs Wochen fortgeführt
-wird.
-
-4\.2 Zentralsystem des EETS-Anbieters
+**4.2 Zentralsystem des EETS-Anbieters**
 
 Für die Phasen 1 und 2 kann der EETS-Anbieter ein wirkbetriebsnahes
 Erprobungssystem einsetzen, das identische Software- und vergleichbare
 Hardwarestände wie das Wirkbetriebssystem aufweisen muss. Anderenfalls
 muss er sein eigenes Wirkbetriebssystem für die Durchführung der
 Phasen 1 und 2 verwenden. In dem letzteren Fall ist jedoch
-sicherzustellen, dass dadurch keine Einschränkungen des Prüfprogramms
+sicherzustellen, dass dadurch keine Einschränkungen des Prüfablaufs
 entstehen.
 
 Die Phase 3 ist zwingend mit dem Wirkbetriebssystem des EETS-Anbieters
@@ -2222,16 +2496,16 @@ Wirkbetrieb vorgegebenen Prozessen und Verfahren abweichen, ist dies
 vorab mit dem Mauterheber abzustimmen.
 
 Der EETS-Anbieter hat spätestens zu Beginn des ersten Prüfblocks eine
-eindeutige Dokumentation seines Zentralsystems mit Beschreibung der
+detaillierte Dokumentation seines Zentralsystems mit Beschreibung der
 Hardware und Konfiguration sowie eine Auflistung aller Software-
 Komponenten und -module einschließlich eindeutiger
-Versionsbezeichnungen zur Verfügung zu stellen. Diese Dokumentation
+Versionsbezeichnungen zur Verfügung zu stellen. **Diese Dokumentation
 ist bei jeglichen Änderungen des Zentralsystems während und nach
-Abschluss der Gebrauchstauglichkeitsprüfung zu aktualisieren. Alle
-Änderungen sind detailliert zu dokumentieren, und jede Änderung ist
-hinsichtlich der möglichen Auswirkungen zu bewerten.
+Abschluss der Gebrauchstauglichkeitsprüfung zu aktualisieren.**
+Alle Änderungen sind detailliert zu dokumentieren, und jede Änderung
+ist hinsichtlich der möglichen Auswirkungen zu bewerten.
 
-4\.3 Bordgeräte des EETS-Anbieters
+**4.3 Bordgeräte des EETS-Anbieters**
 
 Alle Prüfphasen sind mit den für den Wirkbetrieb bestimmten
 Bordgeräten des EETS-Anbieters durchzuführen. In keiner der Prüfphasen
@@ -2243,53 +2517,65 @@ abhängig von der jeweiligen Phase der Prüfung und wird in Dokument B
 dargestellt.
 
 Falls der EETS-Anbieter gleichzeitig Bordgeräte verschiedener
-Hersteller oder unterschiedliche Varianten beziehungsweise Versionen
-eines Bordgeräts einsetzt, gelten die nachfolgenden Vorgaben sinngemäß
-für jeden Bordgeräte-Typ sowie jede Version beziehungsweise Variante.
+Hersteller oder unterschiedliche Varianten oder Versionen eines
+Bordgerätes einsetzt, gelten die nachfolgenden Vorgaben sinngemäß für
+jeden Bordgeräte-Typ sowie jede Version oder Variante.
 
-Spätestens zu Beginn der Phase 3 hat der EETS-Anbieter mindestens drei
-Exemplare jedes von ihm eingesetzten Bordgerätetyps in der aktuellen
-Konfiguration beziehungsweise Version an den Mauterheber zu übergeben.
-Bei neu hinzukommenden Bordgerätetypen ist der EETS-Anbieter
-verpflichtet, dem Mauterheber ebenfalls drei Exemplare zur Verfügung
-zu stellen. Die übergebenen Exemplare verbleiben dauerhaft und
-zeitlich unbegrenzt beim Mauterheber und müssen vom EETS-Anbieter
-ständig auf aktuellem Stand gehalten werden (Software- und
-Betriebsdaten).
+Spätestens zu Beginn der Phase 1 hat der EETS-Anbieter die in Kapitel
+3\.3.1.2 vorgegebene Anzahl an Bordgeräten an den Mauterheber zu
+übergeben, wobei alle von ihm eingesetzten Bordgerätetypen in der
+aktuellen Konfiguration oder Version berücksichtigt sein müssen.
+Mindestens 25 dieser Bordgeräte verbleiben auch nach der Durchführung
+der Gebrauchstauglichkeitsprüfung beim Mauterheber, um bei eventuell
+notwendigen erneuten Prüfungen (siehe Kapitel 3.5.1.2 und 3.5.1.3)
+eingesetzt zu werden. Bei neu hinzukommenden Bordgerätetypen ist der
+EETS-Anbieter verpflichtet, dem Mauterheber entsprechende Exemplare
+zur Verfügung zu stellen. Die übergebenen Exemplare verbleiben
+dauerhaft und zeitlich unbegrenzt beim Mauterheber und müssen vom
+EETS-Anbieter ständig auf aktuellem Stand gehalten werden (Software-
+und Betriebsdaten).
 
 Der EETS-Anbieter hat spätestens zu Beginn des ersten Prüfblocks eine
-eindeutige Dokumentation der von ihm eingesetzten Bordgeräte zur
-Verfügung zu stellen. Diese Dokumentation ist bei jeglichen Änderungen
-der Bordgeräte während und nach Abschluss der
-Gebrauchstauglichkeitsprüfung zu aktualisieren. Alle Änderungen sind
-detailliert zu dokumentieren, insbesondere ist jede Änderung
-hinsichtlich der möglichen Auswirkungen auf die Gebrauchstauglichkeit
-und Interoperabilität mit dem EETS-Teilsystem des Mauterhebers zu
-bewerten.
+detaillierte Dokumentation der von ihm eingesetzten Bordgeräte zur
+Verfügung zu stellen. **Diese Dokumentation ist bei jeglichen
+Änderungen der Bordgeräte während und nach Abschluss der
+Gebrauchstauglichkeitsprüfung zu aktualisieren.**              Alle
+Änderungen sind detailliert zu dokumentieren, insbesondere ist jede
+Änderung hinsichtlich der möglichen Auswirkungen auf die
+Gebrauchstauglichkeit und Interoperabilität mit dem EETS-Teilsystem
+des Mauterhebers zu bewerten.
 
-4\.4 Vorgaben für Teilnahme an Prüfungen
+**4.4 Vorgaben für Teilnahme an Prüfungen**
 
-Die Prüfungen zur Validierung durch Betriebsbewährung finden räumlich
-verteilt statt. Dementsprechend wird in den nachfolgenden Abschnitten
-geregelt, wer bei den Prüfungen am jeweiligen (Stand-)Ort anwesend
-sein darf bzw. muss.
+Die Prüfungen finden räumlich verteilt statt. Dementsprechend wird in
+den nachfolgenden Abschnitten geregelt, wer bei den Prüfungen am
+jeweiligen Standort anwesend sein darf oder muss.
 
-4\.4.1 Phase 1
+**4.4.1 Phase 1**
 
 An den Prüfungen der Phase 1 sind das Zentralsystem und die Bordgeräte
-des EETS-Anbieters sowie die Testumgebung des Mauterhebers beteiligt.
+des EETS-Anbieters sowie die Testumgebungen des Mauterhebers
+beteiligt.
+
+**Schnittstellenprüfung**
 
 Der EETS-Anbieter kann die Prüfungen in der Schnittstellentestumgebung
 des Mauterhebers ausschließlich über die vom Mauterheber definierten
-technischen und organisatorischen Schnittstellen begleiten.
+technischen Schnittstellen durchführen und über organisatorische
+Schnittstellen begleiten.
 
 Der Mauterheber ist berechtigt, die laufenden Prüfungen sowohl am
 Zentralsystem als auch an den Bordgeräten des EETS-Anbieters zu
-begleiten. Gleiches gilt auch für die Fahrszenarien. Die
-Kompatibilitätstests können vom EETS-Anbieter begleitet werden (siehe
-Nummer 3.3.1.1).
+begleiten.
 
-4\.4.2 Phase 2
+**Kompatibilitätstests**
+
+Die DSRC-Kompatibilitätstests können vom EETS-Anbieter nach Abstimmung
+mit dem Mauterheber begleitet werden (siehe Kap. 3.3.1.2). Eine
+Teilnahme des EETS-Anbieters bei der Durchführung der Befahrungen im
+Rahmen des MED-Kompatibilitätstests ist nicht möglich.
+
+**4.4.2 Phase 2**
 
 An Phase 2 sind das Zentralsystem und die Bordgeräte des EETS-
 Anbieters sowie ein wirkbetriebsnahes Erprobungssystem des
@@ -2297,14 +2583,15 @@ Mauterhebers beteiligt.
 
 Der EETS-Anbieter kann die Prüfungen in der Probebetriebsumgebung des
 Mauterhebers ausschließlich über die vom Mauterheber definierten
-technischen und organisatorischen Schnittstellen begleiten.
+technischen Schnittstellen durchführen und über organisatorische
+Schnittstellen begleiten.
 
 Der Mauterheber ist berechtigt, die laufenden Prüfungen sowohl im
 Zentralsystem als auch an den Bordgeräten des EETS-Anbieters zu
-begleiten. Daraus folgt, dass der Mauterheber auch während der
-Durchführung von Fahrszenarien die Fahrten begleiten darf.
+begleiten. Der Mauterheber darf während der Durchführung von
+Befahrungen die Fahrten begleiten.
 
-4\.4.3 Phase 3
+**4.4.3 Phase 3**
 
 An den Prüfungen der Phase 3 sind das Zentralsystem und die Bordgeräte
 des EETS-Anbieters sowie das Wirkbetriebssystem des Mauterhebers
@@ -2319,41 +2606,31 @@ Zentralsystem als auch an den Bordgeräten des EETS-Anbieters zu
 begleiten. Daraus folgt, dass der Mauterheber auch während der
 Durchführung von Fahrszenarien die Fahrten begleiten darf.
 
-4\.5 Vorgaben für Prüf- und Abschlussberichte
+**4.5 Vorgaben für Prüf- und Abschlussberichte**
 
-Der EETS-Anbieter ist in allen Phasen für die Erstellung des
-Prüfprogramms und für die Durchführung der Prüffälle verantwortlich.
-Daher obliegt es dem EETS-Anbieter, für jeden Prüffall ein
-Prüfprotokoll zu erstellen.
+Der EETS-Anbieter ist für die Erstellung der Prüfplanung für alle
+Phasen verantwortlich. Weiterhin ist er für die Durchführung der
+Prüffälle gemäß den Anlagen [1] und [4] zu Dokument B – Prüfkonzept
+verantwortlich. Daher obliegt es dem EETS-Anbieter, für jeden von ihm
+durchgeführten Prüffall ein Prüfprotokoll zu erstellen.
 
-Der EETS-Anbieter hat für
+Der EETS-Anbieter hat für jeden von ihm durchgeführten Prüffall der
+Phasen 1 und 2 ein separates Prüfprotokoll und für jedes Prüfszenario
+der Phase 3 – „Pilotbetrieb“ einen separaten Szenariobericht sowie für
+jede der drei Prüfphasen einen Abschlussbericht zu erstellen.
 
-–   jeden Prüffall ein separates Prüfprotokoll
-
-
-
-und zusätzlich für
-
-–   jedes Prüfszenario einen separaten Prüfbericht sowie
-
-
-–   für jede der drei Prüfphasen einen Abschlussbericht
-
-
-
-zu erstellen.
-
-Sämtliche Prüfprotokolle und Prüfberichte sind grundsätzlich innerhalb
-einer Woche nach Abschluss der Prüfungen (Prüffälle und Prüfszenarien)
-in elektronischer Form bereitzustellen und müssen vom jeweiligen in
-den Planungsunterlagen genannten Prüfverantwortlichen eigenhändig
-unterschrieben sein.
+Sämtliche Prüfprotokolle und Szenarioberichte sind grundsätzlich
+innerhalb einer Woche nach Abschluss der Prüfungen (Prüffälle und
+Prüfszenarien) in elektronischer Form bereitzustellen und müssen vom
+jeweiligen in den Planungsunterlagen genannten Prüfverantwortlichen
+des EETS-Anbieters digital unterschrieben sein.
 
 Spätestens zwei Wochen nach Abschluss aller Prüfungen und Inspektionen
 einer Prüfphase legt der EETS-Anbieter dem Mauterheber seinen
 Abschlussbericht für diese Prüfphase vor. In diesem Abschlussbericht
-sind auch die vom Mauterheber festgestellten Testergebnisse zu den
-Prüfprotokollen und Prüfberichten zu dokumentieren.
+sind auch die vom Mauterheber festgestellten eigenen Testergebnisse
+und -berichte sowie die Anmerkungen zu den vom EETS-Anbieter
+erstellten Prüfprotokollen und Szenarioberichten zu dokumentieren.
 
 Die detaillierten Anforderungen an die Inhalte aller geforderten
 Protokolle und Berichte sind in Dokument B zu finden.
@@ -2365,211 +2642,247 @@ anfallenden Prüfdokumente und Prüfdaten fünf Jahre archivieren.
 
 ## Anlage 3 zur Prüfvereinbarung
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+(Fundstelle: BAnz AT 29.10.2021 V2)
 
-## **Bundesrepublik Deutschland**
-
-## **vertreten durch das**
-
-## **Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)**
-
-## **dieses vertreten durch das**
-
+Bundesrepublik Deutschland
+vertreten durch das
+Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
+dieses vertreten durch das
 ## **Bundesamt für Güterverkehr (BAG)**
 
 ## **Europäischer elektronischer Mautdienst (EETS)**
 
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
 
-Verfahren zur Feststellung der Gebrauchstauglichkeit
-– Dokument B –
-Prüfkonzept
-## **Stand: 4. Oktober 2017**
+- Dokument B –
+## **Prüfkonzept**
 
-
-## **Inhaltsverzeichnis**
+### **Inhaltsverzeichnis**
 
 Inhaltsverzeichnis
-
 Abbildungsverzeichnis
-
 Tabellenverzeichnis
-
 Dokumentenhistorie
 
-**1 Einleitung**
+1   Einleitung
 
-1\.1 Zielsetzung des Dokuments
+    1.1 Zielsetzung des Dokuments
 
-1\.2 Referenzen/Grundlagen
 
-1\.3 Überblick/Aufbau des Dokuments
+    1.2 Referenzen / Grundlagen
 
-**2 Allgemeine Voraussetzungen**
 
-2\.1 Vorgaben und daraus abgeleitete Prüfverfahren
+    1.3 Überblick / Aufbau des Dokumentes
 
-2\.2 Prüforganisation und -planung
 
-2\.3 Durchführung von Inspektionen
 
-2\.4 Verantwortlichkeiten
 
-2\.5 Kriterien für das Bestehen von Prüfungen
 
-2\.6 Unterbrechung und Wiederaufnahme der Prüfungen
+2   Allgemeine Voraussetzungen
 
-2\.7 Prüfergebnisse
+    2.1 Vorgaben und daraus abgeleitete Prüfverfahren
 
-2\.8 Quality Gates
 
-2\.9 Kriterien für den Abbruch von Prüfungen
+    2.2 Prüforganisation und -planung
 
-2\.10 Risikomanagement
 
-**3 Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
-(Prüfblock 1)**
+    2.3 Durchführung von Inspektionen
 
-3\.1 Übersicht Prüfszenario
 
-3\.2 Schwerpunkte der Prüfung
+    2.4 Verantwortlichkeiten
 
-3\.3 Quality Gate – QG1
 
-**4 Schnittstellenprüfung und initiale fachliche Funktionsprüfungen
-(Prüfblock 2 – Phase 1)**
+    2.5 Kriterien für das Bestehen von Prüfungen
 
-4\.1 Prüfgegenstand und Ziel
 
-4\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+    2.6 Unterbrechung und Wiederaufnahme der Prüfungen
 
-4\.3 Vorgehensweise und Dokumentation
 
-4\.4 Übersicht über die Prüfszenarien
+    2.7 Prüfergebnisse
 
-4\.5 Quality Gate – QG2
 
-**5 Probebetrieb (Prüfblock 2 – Phase 2)**
+    2.8 Quality Gates
 
-5\.1 Prüfgegenstand und Ziel
 
-5\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+    2.9 Kriterien für den Abbruch von Prüfungen
 
-5\.3 Übersicht Prüfszenarien
 
-5\.3.1 P2-001 – korrekte Mauterhebung
+    2.10 Risikomanagement
 
-5\.3.2 P2-002 – korrekte Abrechnung und Auskehr
 
-5\.3.3 P2-003 – Überwachung des EETS-Anbieters
 
-5\.3.4 P2-004 – Änderung der Maut-Basisdaten
 
-5\.3.5 P2-005 – korrekte Kontrollprozesse
 
-5\.4 Quality Gate – QG3
+3   Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
+    (Prüfblock 1)
 
-**6 Pilotbetrieb (Prüfblock 2 – Phase 3)**
+    3.1 Übersicht Prüfszenario
 
-6\.1 Prüfgegenstand und Ziel
 
-6\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+    3.2 Schwerpunkte der Prüfung
 
-6\.3 Übersicht Prüfszenarien
 
-6\.3.1 P3-001 – korrekte Mauterhebung
+    3.3 Quality Gate - QG1
 
-6\.3.2 P3-002 – korrekte Abrechnung und Auskehr
 
-6\.3.3 P3-003 – Überwachung des EETS-Anbieters
 
-6\.3.4 P3-004 – Änderung der Maut-Basisdaten
 
-6\.3.5 P3-005 – korrekte Kontrollprozesse
 
-6\.4 Quality Gate – QG4
+4   Schnittstellenprüfung und Kompatibilitätstests (Prüfblock 2 - Phase 1)
 
+    4.1 Prüfgegenstand und Ziel
 
 
-*    *   Anhang A:
+    4.2 Prüforganisation, -umgebung und Rahmenbedingungen
 
-    *   Vorgaben für Prüfprotokolle und -berichte
 
+    4.3 Vorgehensweise und Dokumentation
 
-*    *   Anhang A.1:
+        4.3.1 Schnittstellenprüfung
 
-    *   Prüfprotokoll für den einzelnen Prüffall (Phasen 1 und 2)
 
+        4.3.2 Kompatibilitätstests
 
-*    *   Anhang A.2:
 
-    *   Prüfbericht für Prüfszenario
 
 
-*    *   Anhang A.3:
 
-    *   Abschlussbericht für jede Prüfphase
+    4.4 Übersicht über die Prüfszenarien
 
+        4.4.1 Schnittstellenprüfung
 
-*    *   Anhang B:
 
-    *   Prüffallvorgaben Schnittstellenprüfung
+        4.4.2 Kompatibilitätstests
 
 
-*    *   Anhang C:
 
-    *   Abdeckungsmatrix Prüfszenarien – Prüffälle
 
 
+    4.5 Quality Gate - QG 2
 
 
-## Abbildungsverzeichnis
 
 
-Abbildung 1: Testumgebung Phase 1
 
+5   Probebetrieb (Prüfblock 2 - Phase 2)
 
-## Tabellenverzeichnis
+    5.1 Prüfgegenstand und Ziel
 
 
+    5.2 Prüforganisation, -umgebung und Rahmenbedingungen
 
-*    *   Tabelle 1:
 
-    *   Prüfszenario für die Dokumentenprüfung
+    5.3 Übersicht Prüfszenarien
 
+        5.3.1 P2-001 – korrekte Mauterhebung
 
-*    *   Tabelle 2:
 
-    *   Schwerpunkte bei der Prüfung der Dokumentation
+        5.3.2 P2-002 – korrekte Abrechnung und Auskehr
 
 
-*    *   Tabelle 3:
+        5.3.3 P2-003 – Überwachung des EETS-Anbieters
 
-    *   Verantwortlichkeit für die Ausrüstung der Prüfumgebung
 
+        5.3.4 P2-005 – korrekte Kontrollprozesse
 
-*    *   Tabelle 4:
 
-    *   Liste der Prüfszenarien für Phase 1 – Schnittstellentest
 
 
-*    *   Tabelle 5:
 
-    *   Struktur der Prüffallvorgaben
+    5.4 Quality Gate - QG3
 
 
-*    *   Tabelle 6:
 
-    *   Liste der Prüfszenarien für Phase 2 – Probebetrieb
 
 
-*    *   Tabelle 7:
+6   Pilotbetrieb (Prüfblock 2 - Phase 3)
 
-    *   Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
+    6.1 Prüfgegenstand und Ziel
 
 
+    6.2 Prüforganisation, -umgebung und Rahmenbedingungen
 
 
-## Dokumentenhistorie
+    6.3 Übersicht Prüfszenarien
+
+        6.3.1 P3-001 – korrekte Mauterhebung
+
+
+        6.3.2 P3-002 – korrekte Abrechnung und Auskehr
+
+
+        6.3.3 P3-003 – Überwachung des EETS-Anbieters
+
+
+        6.3.4 P3-005 – korrekte Kontrollprozesse
+
+
+
+
+
+    6.4 Quality Gate – QG4
+
+
+
+
+
+Anhang A - Vorgaben für Prüfprotokolle und -berichte
+
+    Anhang A.1: Prüfprotokoll für den einzelnen Prüffall (Phase 1 und Phase 2)
+
+
+    Anhang A.2: Szenariobericht (nur Phase 3)
+
+
+
+
+
+Anhang A.3: Abschlussbericht für jede Prüfphase
+
+
+Anhang B: Prüfkataloge
+
+
+
+
+### **Abbildungsverzeichnis**
+
+
+Abbildung 1: Überblick GTP Dokumente
+
+
+Abbildung 2: Testumgebung Phase 1
+
+
+
+
+### **Tabellenverzeichnis**
+
+
+Tabelle 1: Prüfszenario für die Dokumentenprüfung
+
+
+Tabelle 2: Schwerpunkte bei der Prüfung der Dokumentation
+
+
+Tabelle 3: Verantwortlichkeit für die Ausrüstung der Prüfumgebung
+
+
+Tabelle 4: Liste der Prüfszenarien für Phase 1 – Schnittstellenprüfung
+
+
+Tabelle 5: Liste der Prüfszenarien für Phase 1 – Kompatibilitätstests
+
+
+Tabelle 6: Liste der Prüfszenarien für Phase 2 – Probebetrieb
+
+
+Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
+
+
+
+
+### **Dokumentenhistorie**
 
 
 *    *   Version
@@ -2578,7 +2891,7 @@ Abbildung 1: Testumgebung Phase 1
 
     *   Bearbeiter
 
-    *   Bearbeitung/Änderung
+    *   Bearbeitung / Änderung
 
 
 *    *   0.01
@@ -2642,89 +2955,220 @@ Abbildung 1: Testumgebung Phase 1
 
     *   BAG, RT
 
-    *   Anpassung 6.4
+    *   Anpassung in 6.4
+
+
+*    *
+    *   09.03.2020
+
+    *   BAG
+
+    *   Grundlegende Überarbeitung: Redaktionelle Änderungen,
+        Mauterhebungsdienst
+
+
+*    *
+    *   24.03.2020
+
+    *   BAG
+
+    *   Einarbeitung Zuarbeit TC zu SST005
+
+
+*    *   1.9
+
+    *   17.09.2020
+
+    *   BAG, RT
+
+    *   Grundlegende Überarbeitung: Redaktionelle Änderungen, Anpassungen an
+        Mauterhebungsdienst
+
+
+*    *   1.91
+
+    *   30.10.2020
+
+    *   RT
+
+    *   Einarbeitung Reviewkommentare TC
+
+
+*    *   1.95
+
+    *   04.12.2020
+
+    *   RT
+
+    *   Überarbeitung und QS nach Review Referat 42
+
+
+*    *   1.95
+
+    *   04.12.2020
+
+    *   RT
+
+    *   Überarbeitung und QS nach Review Referat 42
+
+
+*    *   1.96
+
+    *   07.05.2021
+
+    *   RT
+
+    *   Überarbeitung: Aufrechterhaltung Gebrauchstauglichkeit,
+        Vertriebsmodell, Vorgaben an produktive Bordgeräte in Pilotphase
+
+
+*    *   1.97
+
+    *   15.06.2021
+
+    *   RT
+
+    *   Ergänzung Bordgerätestatus Reporting während MED Kompatibilitätstests
+
+
+*    *   2.0
+
+    *   07.09.2021
+
+    *   RT
+
+    *   Redaktionelle Überarbeitung und Erstellung Version zur
+        Veröffentlichung
 
 
 
 
-## **1 Einleitung**
+**1 Einleitung**
 
-1\.1 Zielsetzung des Dokuments
+**1.1 Zielsetzung des Dokuments**
 
 Das vorliegende Prüfkonzept enthält die inhaltlichen Vorgaben für die
 Feststellung der Gebrauchstauglichkeit und gibt die Rahmenbedingungen
-für das vom EETS-Anbieter zu erstellende Prüfprogramm vor.
+für die vom EETS-Anbieter zu erstellende Prüfplanung vor.
 
-1\.2 Referenzen/Grundlagen
+Weiterhin stellen die in diesem Dokument und seinen Anlagen
+beschriebenen inhaltlichen Vorgaben die Grundlage für die im Rahmen
+der Aufrechterhaltung der Gebrauchstauglichkeit eventuell notwendigen
+erneuten Prüfungen eines Teils oder des gesamten Systems eines EETS-
+Anbieters dar, wobei der Mauterheber die vorliegenden
+organisatorischen und technischen Rahmenbedingungen (z.B. Keine
+Nutzung des Mauterhebungsdienstes) bei der erneuten Durchführung
+berücksichtigt und basierend darauf Abweichungen und Ergänzungen
+vornehmen kann.
 
-Dem Prüfkonzept liegen das in Dokument A – Verfahrensbeschreibung
+**1.2 Referenzen / Grundlagen**
+
+Dem Prüfkonzept liegen das in Dokument A - Verfahrensbeschreibung
 beschriebene Verfahren der Gebrauchstauglichkeitsprüfung sowie die
 Vorgaben für das EETS-Gebiet BFStrMG zugrunde. Alle dort vorgenommenen
-Festlegungen gelten übergreifend für die Inhalte des Prüfkonzepts und
-für das durch den EETS-Anbieter zu erstellende Prüfprogramm.
+Festlegungen gelten übergreifend für die Inhalte des Prüfkonzeptes und
+für die durch den EETS-Anbieter zu erstellende Prüfplanung.
 
-1\.3 Überblick/Aufbau des Dokuments
+Die folgende Abbildung gibt einen Überblick über die Dokumente mit den
+Vorgaben zur Gebrauchstauglichkeitsprüfung:
+
+![banzat_2021_20211029v2_02.jpg](banzat_2021_20211029v2_02.jpg)
+**Abbildung 1: Überblick GTP Dokumente**
+
+**1.3 Überblick / Aufbau des Dokumentes**
 
 Das Prüfkonzept ist gemäß der in Dokument A festgelegten Inhalte der
 Prüfblöcke „Prüfung der Dokumentation“ (Prüfblock 1) und „Durchführung
 des Prüfprogramms“ (Prüfblock 2) aufgebaut.
 
-Nummer 2 beschreibt allgemeine, für alle Prüfungen im Rahmen der
+Kapitel 2 beschreibt allgemeine, für alle Prüfungen im Rahmen der
 Gebrauchstauglichkeitsprüfung geltende Vorgaben und Voraussetzungen.
 
-Nummer 3 beschreibt die Vorgaben für die Prüfung der Dokumentation des
-Teilsystems des EETS-Anbieters (Prüfblock 1).
+Kapitel 3 beschreibt die Vorgaben für die Prüfung der Dokumentation
+des Teilsystems des EETS-Anbieters (Prüfblock 1).
 
-Nummer 4 enthält die Vorgaben für die Schnittstellenprüfung und
-initiale fachliche Funktionsprüfungen (Prüfblock 2 – Phase 1).
+Kapitel 4 enthält die Vorgaben für die Schnittstellenprüfung,
+Kompatibilitätstests sowie die optionalen EA-Fahrtests (Prüfblock 2 –
+Phase 1).
 
-Nummer 5 enthält die Vorgaben für den Probebetrieb (Prüfblock 2 –
+Kapitel 5 enthält die Vorgaben für den Probebetrieb (Prüfblock 2 –
 Phase 2).
 
-Nummer 6 enthält die Vorgaben für den Pilotbetrieb (Prüfblock 2 –
+Kapitel 6 enthält die Vorgaben für den Pilotbetrieb (Prüfblock 2 –
 Phase 3).
 
-Im Prüfkatalog sind spezifische Vorgaben der für die
-Schnittstellenprüfung (Prüfblock 2 – Phase 1) relevanten Prüfszenarien
-zusammengefasst. Die Vorgaben für die Tests zum Nachweis der
-Kompatibilität zwischen den Bordgeräten des EETS-Anbieters und den
-Kontrolleinrichtungen des deutschen Mautsystems werden in einem
-gesonderten Testkatalog dokumentiert.
+Folgende Anlagen enthalten die Prüfkataloge, in denen die im Rahmen
+der Phase 1 und Phase 2 durchzuführenden Prüfungen aufgeführt sind:
+
+*    *   1.
+
+    *   Anlage [1]
+
+    *   – Prüfkatalog Schnittstellentests
 
 
-## **2 Allgemeine Voraussetzungen**
+*    *   2.
 
-2\.1 Vorgaben und daraus abgeleitete Prüfverfahren
+    *   Anlage [2]
+
+    *   – Prüfkatalog DSRC-Kompatibilitätstests
+
+
+*    *   3.
+
+    *   Anlage [3]
+
+    *   – Prüfkatalog MED-Kompatibilitätstests
+
+
+*    *   4.
+
+    *   Anlage [4]
+
+    *   – Prüfkatalog Probebetrieb
+
+
+
+Hinweis: Sofern in diesem Dokument oder seinen Anlagen die Begriffe
+„Fahrspur“ und „Fahrzeugparameter“ verwendet werden, stehen diese
+synonym für „Positionsdaten“ und „für die Höhe der Maut maßgeblichen
+Merkmale der Fahrzeugklassifizierung“ gemäß § 9 Absatz 1 Buchstabe d
+MautSysG.
+
+**2 Allgemeine Voraussetzungen**
+
+**2.1 Vorgaben und daraus abgeleitete Prüfverfahren**
 
 Das Prüfkonzept basiert auf den Vorgaben für das EETS-Gebiet BFStrMG
-und enthält Prüfszenarien und Prüffallvorgaben, die anhand der in
-Dokument A definierten Stufen des Verfahrens zur Feststellung der
+und enthält Prüfszenarien und Prüffälle, die anhand der in Dokument A
+definierten Stufen des Verfahrens zur Feststellung der
 Gebrauchstauglichkeit strukturiert sind.
 
 Der Mauterheber behält sich im Einzelfall vor, dem Prüfkonzept weitere
 Inhalte hinzuzufügen und/oder bereits festgeschriebene Inhalte
 abzuändern.
 
-2\.2 Prüforganisation und -planung
+**2.2 Prüforganisation und -planung**
 
-Das vom EETS-Anbieter erstellte Prüfprogramm bildet die Grundlage für
+Die vom EETS-Anbieter erstellte Prüfplanung bildet die Grundlage für
 die Organisation und Planung aller Prüfphasen. Im Rahmen der
-Abstimmung des Prüfprogramms werden die zeitliche Planung des
-Prüfablaufs und die Spezifikation der Prüffälle mit Bezug auf die in
-diesem Dokument vorgegebenen Prüfszenarien und Prüffallvorgaben der
-einzelnen Prüfphasen festgelegt.
+Abstimmung der Prüfplanung werden die zeitliche Planung des
+Prüfablaufs und organisatorische Fragen zur Durchführung der in diesem
+Dokument und seinen Anlagen vorgegebenen Prüfszenarien und Prüffällen
+der einzelnen Prüfphasen festgelegt.
 
-In diesem Kontext werden auch die Termine für die Bereitstellung des
-Prüfprogramms und für die Bereitstellung und Beschaffung des
-Prüfgeräts (Bordgeräte etc.) seitens des EETS-Anbieters festgelegt.
+In diesem Kontext werden auch die Termine für die Bereitstellung der
+Prüfplanung und für die Bereitstellung und Beschaffung des Prüfgeräts
+(z.B. Bordgeräte) seitens des EETS-Anbieters festgelegt.
 
-Zur Vorbereitung jeder einzelnen Prüfphase übermittelt der EETS-
-Anbieter dem Mauterheber die konkrete Planung zur Vorbereitung,
-Durchführung und Nachbereitung der Prüfungen.
+Zur Vorbereitung jeder einzelnen Prüfphase überprüft der EETS-Anbieter
+die initiale Prüfplanung und übermittelt dem Mauterheber - sofern
+notwendig - eine aktualisierte Planung zur Abstimmung der
+Vorbereitung, Durchführung und Nachbereitung der Prüfungen.
 
 Übergreifend gelten alle in Dokument A genannten Fristen.
 
-2\.3 Durchführung von Inspektionen
+**2.3 Durchführung von Inspektionen**
 
 Zu jedem Zeitpunkt der Gebrauchstauglichkeitsprüfung kann der
 Mauterheber Inspektionen beim EETS-Anbieter durchführen, wenn aus
@@ -2741,48 +3185,75 @@ Anhand der Unterlagen identifiziert der Mauterheber die Schwerpunkte
 für die Inspektionstätigkeiten. Auf Grundlage der identifizierten
 Schwerpunkte stimmen beide Parteien Ort und Zeit der Inspektionen ab.
 
-Die Inspektionen werden durch den Mauterheber mit Unterstützung des
-EETS-Anbieters durchgeführt.
-
 Die Ergebnisse der Inspektionen haben bei der Entscheidung über die
 Gebrauchstauglichkeit, bezogen auf die Quality Gates, denselben
 Stellenwert wie die Ergebnisse der Prüfungen der einzelnen Prüfphasen
-(Schnittstellenprüfungen, Probebetrieb und Pilotbetrieb). Die
-Bewertung der Ergebnisse der Inspektionen erfolgt in einem vom
-Mauterheber zu erstellenden Inspektionsbericht.
+(Schnittstellenprüfung/Kompatibilitätstests, Probebetrieb und
+Pilotbetrieb). Die Bewertung der Ergebnisse der Inspektionen erfolgt
+in einem vom Mauterheber zu erstellenden Inspektionsbericht.
 
-2\.4 Verantwortlichkeiten
+**2.4 Verantwortlichkeiten**
 
-Der Mauterheber hat innerhalb der Prüfungen folgende Aufgaben und
-Verantwortlichkeiten:
+Der **Mauterheber**              hat innerhalb der Prüfungen folgende
+Aufgaben und Verantwortlichkeiten:
 
-–   Bereitstellung seines Teilsystems als Teil der Prüfumgebung für die
+1.  Bereitstellung seines Teilsystems als Teil der Prüfumgebung für die
     jeweilige Prüfphase
 
 
-–   Bereitstellung und Einbindung der Systemzugangsschlüssel und
+2.  Bereitstellung und Einbindung der Systemzugangsschlüssel und
     sicherheitsrelevanten Informationen
 
 
-–   Benennung von Ansprechpartnern
+3.  Benennung von Ansprechpartnern
 
 
-–   Begleitung und Beaufsichtigung der Prüfdurchführung
+4.  Begleitung und Beaufsichtigung der Prüfdurchführung
 
 
-–   Bereitstellung aller in den Systemen des Mauterhebers erzeugten und
+5.  Bereitstellung aller in den Systemen des Mauterhebers erzeugten und
     für die Auswertung der Prüfung erforderlichen Daten
 
 
-–   Unterstützung des EETS-Anbieters bei der Fehleranalyse
+6.  Unterstützung des EETS-Anbieters bei der Fehleranalyse
 
 
-–   Bewertung und Abnahme der Prüfergebnisse: der Mauterheber stellt seine
+7.  Bewertung und Abnahme der Prüfergebnisse: der Mauterheber stellt seine
     Bewertung zu den durch den EETS-Anbieter erstellten Prüfprotokollen
-    und Prüfberichten dem EETS-Anbieter zur Verfügung, sodass dieser
-    spätestens zwei Wochen nach Abschluss aller Prüfungen und Inspektionen
-    einer Prüfphase dem Mauterheber seinen Abschlussbericht für diese
-    Prüfphase vorlegen kann (vgl. Dokument A, Nummer 4.5).
+    und Szenarioberichten (Phase 2) dem EETS-Anbieter zur Verfügung,
+    sodass dieser spätestens zwei Wochen nach Abschluss aller Prüfungen
+    und Inspektionen einer Prüfphase dem Mauterheber seinen
+    Abschlussbericht für diese Prüfphase vorlegen kann (siehe Dokument A,
+    Kapitel 4.5)
+
+
+
+
+Der **nationale Mautbetreiber**              unterstützt die
+Gebrauchstauglichkeitsprüfungen im Auftrag des Mauterhebers und hat
+innerhalb der Prüfungen folgende Aufgaben und Verantwortlichkeiten:
+
+1.  Bereitstellung seines Teilsystems als Teil der Prüfumgebung für die
+    jeweilige Prüfphase
+
+
+2.  Bereitstellung und Einbindung der Systemzugangsschlüssel und
+    sicherheitsrelevanten Informationen
+
+
+3.  Benennung von Ansprechpartnern
+
+
+4.  Durchführung, Dokumentation und Bewertung der Kompatibilitätstests im
+    Rahmen der Phase 1
+
+
+5.  Bereitstellung aller in den Systemen des nationalen Mautbetreibers
+    erzeugten und für die Auswertung der Prüfung erforderlichen Daten
+    gemäß der Prüfspezifikationen
+
+
+6.  Bewertung von Auffälligkeiten und Unterstützung bei der Fehleranalyse
 
 
 
@@ -2790,41 +3261,50 @@ Verantwortlichkeiten:
 Die Aufgaben und Verantwortlichkeiten des EETS-Anbieters innerhalb der
 Prüfungen lauten wie folgt:
 
-–   Bereitstellung seines Teilsystems und Anbindung in der Prüfumgebung
+1.  Bereitstellung seines Teilsystems und Anbindung in der Prüfumgebung
     für die jeweilige Prüfphase
 
 
-–   Bereitstellung und Einbindung der Systemzugangsschlüssel und
+2.  Bereitstellung und Einbindung der Systemzugangsschlüssel und
     sicherheitsrelevanten Informationen
 
 
-–   Bereitstellung von Prüfgeräten (Bordgeräte etc.) und Ressourcen
+3.  Bereitstellung von Prüfgeräten (z.B. Bordgeräte) und Ressourcen
 
 
-–   Organisation und Durchführung der Prüfungen auf Basis des abgestimmten
-    Prüfprogramms
+4.  Organisation und Durchführung der Prüfungen auf Basis der abgestimmten
+    Prüfplanung
 
 
-–   Beschaffung, Zusammenstellung und Prüfung auf Vollständigkeit aller
+5.  Unterstützung der durch den Mauterheber bzw. den nationalen
+    Mautbetreiber durchzuführenden Prüfungen
+
+
+6.  Beschaffung, Zusammenstellung und Prüfung auf Vollständigkeit aller
     relevanten Prüfdaten
 
 
-–   Dokumentation und Bereitstellung der Prüfergebnisse.
+7.  Dokumentation und Bereitstellung der Prüfergebnisse der vom EETS-
+    Anbieter durchgeführten Prüfungen
 
 
 
 
-2\.5 Kriterien für das Bestehen von Prüfungen
+**2.5 Kriterien für das Bestehen von Prüfungen**
 
 Für alle Prüfungen (Prüfszenarien, Prüffälle und Inspektionen) gelten
 die gleichen unten aufgeführten Bewertungskriterien.
 
 Kriterien für eine bestandene Prüfung sind:
 
-–   Alle Prüfkriterien sind erfüllt und
+1.  Alle Prüfkriterien sind erfüllt.
 
 
-–   es sind keine Fehler aufgetreten.
+2.  Es sind keine Fehler aufgetreten oder
+
+
+3.  für die aufgetretenen Fehler liegt eine Risikobewertung und ein
+    Fehlerbehebungsplan vor, die vom Mauterheber freigegeben wurden.
 
 
 
@@ -2832,7 +3312,7 @@ Kriterien für eine bestandene Prüfung sind:
 In allen anderen Fällen kann eine Prüfung als nicht bestanden gewertet
 werden.
 
-2\.6 Unterbrechung und Wiederaufnahme der Prüfungen
+**2.6 Unterbrechung und Wiederaufnahme der Prüfungen**
 
 Die Durchführung der Prüfungen ist so zu planen, dass sie in
 angemessener Zeit, mit angemessenen technischen und personellen
@@ -2848,115 +3328,174 @@ In begründeten Ausnahmefällen ist eine Unterbrechung der Prüfung
 möglich. Eine Unterbrechung ist im Prüfprotokoll zu dokumentieren, und
 der Aufsatzpunkt zur Wiederaufnahme der Prüfung ist zu beschreiben.
 
-Sämtliche Prüfdaten müssen im Fall einer Unterbrechung und
-Wiederaufnahme einer Prüfung durch den EETS-Anbieter archiviert
-werden. Den Prüfdaten müssen in diesem Fall eindeutige Kennnummern
-(IDs) zugewiesen und diese in den Prüfprotokollen entsprechend
-referenziert werden.
+Sämtliche im Teilsystem des EETS-Anbieters vorliegenden Prüfdaten
+müssen im Fall einer Unterbrechung und Wiederaufnahme einer Prüfung
+durch den EETS-Anbieter archiviert werden. Den Prüfdaten müssen in
+diesem Fall eindeutige Kennnummern (IDs) zugewiesen und diese in den
+Prüfprotokollen entsprechend referenziert werden.
 
-2\.7 Prüfergebnisse
+**2.7 Prüfergebnisse**
 
 Es gelten die Vorgaben für die Dokumentation der Prüfergebnisse aus
-Anhang A. Die entsprechende Detailtiefe für die Dokumentation ist den
-Prüfszenarien zu entnehmen.
+Anhang A. Darüberhinausgehende Anforderungen sind in den
+Beschreibungen der jeweiligen Prüffälle definiert.
 
-Darüber hinausgehende Anforderungen sind in den Beschreibungen der
-jeweiligen Prüfszenarien definiert.
+**2.8 Quality Gates**
 
-2\.8 Quality Gates
-
-Die folgenden Quality Gates definieren die Kriterien für das Bestehen
-eines Prüfblocks beziehungsweise einer Prüfphase der
+Die folgenden Quality Gates (QG) definieren die Kriterien für das
+Bestehen eines Prüfblocks oder einer Prüfphase der
 Gebrauchstauglichkeitsprüfung:
 
-–   QG1 (Prüfung der Dokumentation des Teilsystems des EETS-Anbieters)
+1.  QG1 (Prüfung der Dokumentation des Teilsystems des EETS-Anbieters)
 
 
-–   QG2 (Schnittstellenprüfung und initiale fachliche Funktionsprüfungen)
+2.  QG2 (Schnittstellenprüfung und Kompatibilitätstests)
 
 
-–   QG3 (Probebetrieb)
+3.  QG3 (Probebetrieb)
 
 
-–   QG4 (Pilotbetrieb)
-
-
-
-
-Für das Bestehen des Quality Gates in Prüfblock 1 gelten die folgenden
-Kriterien:
-
-–   Der EETS-Anbieter muss mit der Dokumentation seines Teilsystems
-    nachweisen, dass er die Vorgaben des Mauterhebers erfüllt
-    beziehungsweise in welcher Form er beabsichtigt, die Erfüllung der
-    Vorgaben des Mauterhebers sicherzustellen.
+4.  QG4 (Pilotbetrieb)
 
 
 
+Für das Bestehen des Quality Gates in Prüfblock 1 (QG1) gelten die
+folgenden Kriterien:
 
-Für das Bestehen der Quality Gates in Prüfblock 2 (QG2 bis QG4) gelten
+1.  Der EETS-Anbieter muss mit der Dokumentation seines Teilsystems
+    nachweisen, dass er die Vorgaben des Mauterhebers erfüllt und in
+    welcher Form er beabsichtigt, die Erfüllung der Vorgaben des
+    Mauterhebers sicherzustellen.
+
+
+
+
+Für das Bestehen des **Quality Gates 2 (QG2)**              in
+Prüfblock 2 (Schnittstellenprüfung und Kompatibilitätstests) gelten
 folgende Kriterien:
 
-–   Alle Prüfszenarien müssen durch das Prüfprogramm des EETS-Anbieters
-    vollständig abgedeckt sein. Die Abdeckung ist in einer Kreuz-
-    Referenztabelle zu dokumentieren, so wie sie im Anhang C angefügt ist.
+1.  Alle Prüffälle der Phase 1 müssen innerhalb der Prüfplanung des EETS-
+    Anbieters vollständig abgedeckt sein. Die Prüffälle optionaler
+    Prüfszenarien müssen nicht abgedeckt sein.
 
 
-–   Alle Prüffälle aus dem Prüfprogramm des EETS-Anbieters müssen
-    durchgeführt und bestanden sein (außer für QG4-Pilotbetrieb, da hier
-    nicht basierend auf Prüffällen getestet wird). Die
-    Kompatibilitätstests, die parallel zu der Schnittstellenprüfung
-    durchgeführt werden, müssen erfolgreich bestanden sein.
+2.  Alle Prüffälle der Schnittstellenprüfung gemäß Anlage [1] müssen
+    durchgeführt und bestanden sein. Sofern optionale Prüffälle
+    durchgeführt werden, müssen diese ebenfalls bestanden sein.
 
 
-–   Für jede Prüfung muss die erforderliche Dokumentation der
-    Prüfergebnisse gemäß den Vorgaben aus Anhang A vorliegen.
+3.  Die Kompatibilitätstests gemäß Anlagen [2] und [3], die vom nationalen
+    Mautbetreiber im Auftrag des Mauterhebers durchgeführt werden, müssen
+    erfolgreich bestanden sein.
 
 
-–   Für jede Prüfung liegt innerhalb von zwei Wochen eine abschließende
-    Bewertung des Mauterhebers vor.
+4.  Für jeden vom EETS-Anbieter durchgeführten Prüffall muss die
+    erforderliche Dokumentation der Prüfergebnisse gemäß den Vorgaben aus
+    Anhang A vorliegen.
 
 
-–   Prüfprotokolle für jeden Prüffall (QG2 und QG3)
+5.  Für jeden vom EETS-Anbieter durchgeführten Prüffall liegt innerhalb
+    von zwei Wochen eine abschließende Bewertung des Mauterhebers vor.
 
 
-–   Prüfberichte für jedes Prüfszenario (QG2, QG3 und QG4)
+6.  Prüfprotokolle für jeden Prüffall (QG2) liegen vor und belegen die
+    Einhaltung der Anforderungen.
 
 
-–   Abschlussbericht für die Prüfphase (QG2, QG3 und QG4)
+7.  Ergebnisbericht für die Kompatibilitätstests liegt vor und belegt die
+    Einhaltung der Anforderungen.
 
 
-–   Falls in der entsprechenden Phase Inspektionen durchgeführt wurden,
+8.  Abschlussbericht für die Prüfphase (QG2) liegt vor und belegt die
+    Einhaltung der Anforderungen.
+
+
+9.  Falls in der entsprechenden Phase Inspektionen durchgeführt wurden,
+    müssen diese erfolgreich abgeschlossen sein.
+
+
+
+
+Für das Bestehen des **Quality Gates 3 (QG3)**              in
+Prüfblock 2 (Probebetrieb) gelten folgende Kriterien:
+
+1.  Alle Prüffälle der Phase 2 müssen innerhalb der Prüfplanung des EETS-
+    Anbieters vollständig abgedeckt sein. Die Prüffälle optionaler
+    Prüfszenarien müssen nicht abgedeckt sein.
+
+
+2.  Alle Prüffälle des Probebetriebs gemäß Anlage [4] müssen durchgeführt
+    und bestanden sein. Sofern optionale Prüffälle durchgeführt werden,
+    müssen diese ebenfalls bestanden sein.
+
+
+3.  Für jeden vom EETS-Anbieter durchgeführten Prüffall muss die
+    erforderliche Dokumentation der Prüfergebnisse gemäß den Vorgaben aus
+    Anhang A vorliegen.
+
+
+4.  Für jeden vom EETS-Anbieter durchgeführten Prüffall liegt innerhalb
+    von zwei Wochen eine abschließende Bewertung des Mauterhebers vor.
+
+
+5.  Prüfprotokolle für jeden Prüffall (QG3) liegen vor und belegt die
+    Einhaltung der Anforderungen.
+
+
+6.  Abschlussbericht für die Prüfphase (QG3) liegt vor und belegt die
+    Einhaltung der Anforderungen.
+
+
+7.  Falls in der entsprechenden Phase Inspektionen durchgeführt wurden,
+    müssen diese erfolgreich abgeschlossen sein.
+
+
+
+
+Für das Bestehen des **Quality Gates 4 (QG4)**              in
+Prüfblock 2 (Pilotbetrieb) gelten folgende Kriterien:
+
+1.  Alle für die Durchführung des Pilotbetriebs geltenden Vorgaben wurden
+    eingehalten und die geltenden Kriterien wurden erreicht.
+
+
+2.  Szenarioberichte für die im Pilotbetrieb nachgewiesenen Szenarien
+    liegen vor und belegen die Einhaltung der Anforderungen.
+
+
+3.  Abschlussbericht für die Prüfphase (QG4) liegt vor und belegt die
+    Einhaltung der Anforderungen.
+
+
+4.  Falls in der entsprechenden Phase Inspektionen durchgeführt wurden,
     müssen diese erfolgreich abgeschlossen sein.
 
 
 
 
 Voraussetzung für den Übergang in eine nächste Prüfphase ist, dass im
-Rahmen der durchgeführten Prüfungen keine Fehler gemäß Nummer 2.5
-festgestellt wurden. Alle im Rahmen einer Prüfphase aufgetretenen
-Fehler müssen im Rahmen derselben Prüfphase behoben und nachgeprüft
-worden sein. Abhängig von der Komplexität und dem Umfang der
-Änderungen am Teilsystem des EETS-Anbieters müssen eventuell auch
-Prüfungen aus vorherigen Prüfphasen wiederholt werden.
+Rahmen der durchgeführten Prüfungen keine Fehler gemäß 2.5
+festgestellt wurden oder dass für die festgestellten Fehler eine vom
+Mauterheber freigegebene Risikobewertung und ein Fehlerbehebungsplan
+vorliegen.
 
-2\.9 Kriterien für den Abbruch von Prüfungen
+**2.9 Kriterien für den Abbruch von Prüfungen**
 
 Der Mauterheber kann einzelne Prüfungen, Prüfphasen oder im
 schwerwiegenden Fall auch die Gebrauchstauglichkeitsprüfung abbrechen,
 wenn:
 
-–   der EETS-Anbieter seine im zwischen Mauterheber und EETS-Anbieter
-    abgestimmten Prüfprogramm festgelegten Verpflichtungen verletzt,
+1.  der EETS-Anbieter seine in der zwischen Mauterheber und EETS-Anbieter
+    abgestimmten Prüfplanung festgelegten Verpflichtungen verletzt,
 
 
-–   im Rahmen der Prüfungen ein derart kritisches Fehleraufkommen
-    auftritt, sodass die Prüfungen nicht mit vertretbarem Aufwand
+2.  im Rahmen der Prüfungen ein derart kritisches Fehleraufkommen
+    auftritt, so dass die Prüfungen nicht mit vertretbarem Aufwand
     termingerecht durchgeführt werden können oder ein negatives
     Prüfergebnis absehbar wird oder
 
 
-–   sich begründete Zweifel an der Qualität des Teilsystems des EETS-
+3.  sich begründete Zweifel an der Qualität des Teilsystems des EETS-
     Anbieters einstellen.
 
 
@@ -2964,49 +3503,51 @@ wenn:
 
 Abbrüche und Wiederaufnahme von Prüfungen durch den EETS-Anbieter sind
 nur in Abstimmung mit dem Mauterheber zulässig. Daraus kann sich
-gegebenenfalls die Notwendigkeit zur Neuplanung des Prüfprogramms
-ergeben.
+gegebenenfalls die Notwendigkeit zur Aktualisierung oder Neuerstellung
+der Prüfplanung ergeben.
 
-2\.10 Risikomanagement
+**2.10 Risikomanagement**
 
 Dem EETS-Anbieter wird empfohlen, ein Risikomanagement für das gesamte
 Prüfprogramm durchzuführen. Ein geeignetes Risikomanagement kann sich
-z. B. an den folgenden internationalen Standards orientieren:
+zum Beispiel an den folgenden internationalen Standards orientieren:
 
-–   ISO 31000 Risk management – Principles and guidelines
-
-
-–   ISO/IEC 16085:2006 Systems and software engineering – Life cycle
-    processes – Risk management
+1.  ISO 31000 Risk management — Principles and guidelines
 
 
-–   ISO/IEC 15288:2016 Systems and software engineering – System life
+2.  ISO/IEC 16085:2006 Systems and software engineering - Life cycle
+    processes - Risk management
+
+
+3.  ISO/IEC 15288:2016 Systems and software engineering — System life
     cycle processes.
 
 
 
 
-
-## **3 Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
+**3 Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
 (Prüfblock 1)**
 
-3\.1 Übersicht Prüfszenario
+**3.1 Übersicht Prüfszenario**
 
 Prüfblock 1 umfasst das folgende Prüfszenario:
 
-*    *   Prüfszenario
+*
+    *        *   Prüfszenario
 
-    *   Beschreibung
-
-
-*    *   P0-001
-
-    *   Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
+        *   Beschreibung
 
 
+    *        *   P0-001
+
+        *   Prüfung der Dokumentation des Teilsystems des EETS-Anbieters
 
 
-Tabelle 1: Prüfszenario für die Dokumentenprüfung
+
+
+    **Tabelle 1: Prüfszenario für die Dokumentenprüfung**
+
+
 
 
 Mit Hilfe der Dokumentenprüfung des EETS-Anbieters soll die Einhaltung
@@ -3019,84 +3560,104 @@ Unklarheiten oder Nachforderung von weiteren Dokumenten vermieden
 werden können. Grundsätzlich werden alle in der Dokumentation
 enthaltenen Informationen und Beschreibungen hinsichtlich ihrer
 Nachvollziehbarkeit und Korrektheit geprüft. Die Prüfungsschwerpunkte
-für jede einzelne Vorgabe sind in Nummer 3.2 beschrieben.
+für jede einzelne Vorgabe sind in Abschnitt 3.2 beschrieben.
 
 Hinsichtlich der beizustellenden Dokumentation muss der EETS-Anbieter
-Folgendes berücksichtigen:
+folgendes berücksichtigen:
 
-–   Die Dokumente müssen in deutscher Sprache bereitgestellt werden.
-
-
-–   Es ist eine tabellarische Aufstellung zu liefern, aus der für jede
-    einzelne Gebietsvorgabe hervorgeht, in welchem der eingereichten
-    Dokumente inkl. Kapitelangabe, Informationen zu finden sind, die die
-    Erfüllung der jeweiligen Gebietsvorgabe beschreiben. Wenn die
-    Erfüllung der Vorgabe nicht durch den Verweis auf entsprechende
-    Dokumente erbracht werden kann, ist in der Tabelle eine
-    aussagekräftige textuelle Erläuterung als Nachweis anzuführen.
+1.  Die Dokumente müssen in **deutscher Sprache**
+    bereitgestellt werden.
 
 
-–   EETS-Anbieter sollen auf bereits existierende Dokumente zurückgreifen
-    und eine Auflistung aller bereitgestellten Dokumente liefern. Die
-    Auflistung dient der Prüfung auf Vollständigkeit und als Basis für die
-    erforderliche Referenzierung der Dokumente in tabellarischer
-    Aufstellung.
+2.  Es ist eine **tabellarische Aufstellung**                    zu
+    liefern, aus der für jede einzelne Gebietsvorgabe hervorgeht, in
+    welchem der eingereichten Dokumente inklusive Kapitelangabe
+    Informationen zu finden sind, die die Erfüllung der jeweiligen
+    Gebietsvorgabe beschreiben. Wenn die Erfüllung der Vorgabe nicht durch
+    den Verweis auf entsprechende Dokumente erbracht werden kann, ist in
+    der Tabelle eine aussagekräftige textuelle Erläuterung als Nachweis
+    anzuführen.
 
 
-–   Es ist ein Sicherheitskonzept vorzulegen, aus dem Informationen über
-    das Sicherheitsmanagement, erkannte Bedrohungen der Prozesse und IT-
-    Systeme des EETS-Anbieters und entsprechende Sicherheitsmaßnahmen
+3.  EETS-Anbieter sollen auf bereits existierende Dokumente zurückgreifen
+    und eine **Auflistung aller bereitgestellten Dokumente**
+     liefern. Die Auflistung dient der Prüfung auf Vollständigkeit und als
+    Basis für die erforderliche Referenzierung der Dokumente in
+    tabellarischer Aufstellung.
+
+
+
+
+Die vom EETS-Anbieter bereitzustellende Dokumentation muss inhaltlich
+Folgendes umfassen:
+
+1.  Ein **Sicherheitskonzept**                   , aus dem Informationen
+    über das Sicherheitsmanagement, erkannte Bedrohungen der Prozesse und
+    IT-Systeme des EETS-Anbieters und entsprechende Sicherheitsmaßnahmen
     hervorgehen.
 
 
+2.  Aussagekräftige Beschreibungen der **mautrelevanten
+    Geschäftsprozesse**                    des EETS-Anbieters.
 
 
-Es wird empfohlen, dass die vom EETS-Anbieter bereitzustellende
-Dokumentation inhaltlich Folgendes umfasst:
+3.  Beschreibungen der **Betriebsprozesse und der betrieblichen
+    Organisation**
 
-1)  Aussagekräftige Beschreibungen der mautrelevanten Geschäftsprozesse
-    des EETS-Anbieters.
-
-
-2)  Beschreibungen der Betriebsprozesse und der betrieblichen
-    Organisation. Dabei sollte insbesondere die Ausgestaltung der IT-
-    Serviceprozesse und die Organisationseinheiten des EETS-Anbieters, die
-    für den Betrieb seines Teilsystems verantwortlich sind, einschließlich
-    ihrer Aufgaben und Funktionen sowie ihrer Einbindung in die
-    Gesamtorganisation, beschrieben werden.
+    Darin sollten insbesondere die Ausgestaltung der IT-Serviceprozesse
+    und die Organisationseinheiten des EETS-Anbieters, die für den Betrieb
+    seines Teilsystems verantwortlich sind, einschließlich ihrer Aufgaben
+    und Funktionen sowie ihrer Einbindung in die Gesamtorganisation,
+    beschrieben werden.
 
 
-3)  Ein Datenschutzkonzept, in dem der EETS-Anbieter ausführlich auf den
-    Schutz von personenbezogenen und personenbeziehbaren Daten in seinem
-    Teilsystem eingeht und die Umsetzung der für ihn geltenden Vorgaben
-    zum Datenschutz beschreibt.
+4.  Ein **Datenschutzkonzept**                   , in dem der EETS-
+    Anbieter ausführlich auf den Schutz von personenbezogenen und
+    personenbeziehbaren Daten in seinem Teilsystem eingeht und die
+    Umsetzung der für ihn geltenden Vorgaben zum Datenschutz beschreibt.
 
 
-4)  Eine High-Level-Systemdokumentation, die einen funktionalen Überblick
-    über die vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten,
-    deren Schnittstellen und Hauptdatenflüsse gibt.
+5.  Eine **High-Level Systemdokumentation**                   , die einen
+    funktionalen Überblick über die vom EETS-Anbieter eingesetzten
+    mautrelevanten IT-Komponenten, deren Schnittstellen und
+    Hauptdatenflüsse gibt.
 
 
-5)  Ein Risikomanagementplan in dem der EETS-Anbieter beschreibt, welche
-    technischen, prozessualen, organisatorischen und finanziellen Risiken
-    für seinen Geschäftsbetrieb bestehen und welche Maßnahmen zur
-    Minimierung der Eintrittswahrscheinlichkeit bzw. Maßnahmen zur
-    Reduktion der Risikoauswirkungen vorgesehen werden.
+6.  Ein **Risikomanagementplan**                    in dem der EETS-
+    Anbieter beschreibt, welche technischen, prozessualen,
+    organisatorischen und finanziellen Risiken für seinen Geschäftsbetrieb
+    bestehen und welche Maßnahmen zur Minimierung der
+    Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der
+    Risikoauswirkungen vorgesehen werden.
 
 
-6)  Ein Systemweiterentwicklungskonzept, welches das angewandte
-    Vorgehensmodell des EETS-Anbieters bei der Umsetzung von Veränderungen
-    und Erweiterungen seines technischen Systems beschreibt. Aus dem
-    Konzept soll ersichtlich sein, welche Phasen (z. B. Spezifikation,
-    Test, Integration, Abnahme) bei einer Weiterentwicklung des Systems
-    durchlaufen werden und in welchem zeitlichen Rahmen und welcher
-    Regelmäßigkeit (z. B. feste Releasetermine) Weiterentwicklungsvorhaben
-    umgesetzt werden.
+7.  Ein **Systemweiterentwicklungskonzept**                   , welches
+    das angewandte Vorgehensmodell des EETS-Anbieters bei der Umsetzung
+    von Veränderungen und Erweiterungen seines technischen Systems
+    beschreibt und dabei insbesondere auf die Bewertung eventueller
+    Auswirkungen auf die Schnittstellen zum Mauterheber und dessen
+    Einbindung eingeht.
+
+    Aus dem Konzept soll ersichtlich sein, welche Phasen (z.B.
+    Spezifikation, Test, Integration, Abnahme) bei einer Weiterentwicklung
+    des Systems durchlaufen werden und in welchem zeitlichen Rahmen und
+    welcher Regelmäßigkeit (z.B. feste Releasetermine)
+    Weiterentwicklungsvorhaben umgesetzt werden.
+
+
+8.  Ein **Vertriebsmodell**                    des EETS-Anbieters mit
+    einer Gesamtübersicht der Rollen und Partner (Mauterheber, EETS-
+    Anbieter, EETS-Nutzer, gegebenenfalls technische Dienstleister,
+    Vertriebspartner, Reseller des EETS-Anbieters), die an der
+    Leistungserbringung beteiligt sind. Das Vertriebsmodell muss die
+    Vertragsverhältnisse sowie die Funktionen und Aufgaben der einzelnen
+    Beteiligten beschreiben und die Finanz- bzw. Zahlungsflüsse
+    darstellen.
 
 
 
 
-3\.2 Schwerpunkte der Prüfung
+**3.2 Schwerpunkte der Prüfung**
 
 In der nachfolgenden Tabelle sind die Schwerpunkte aufgeführt, die bei
 der Dokumentenprüfung vorrangig betrachtet werden. Der Mauterheber
@@ -3104,16 +3665,15 @@ prüft in dieser Phase anhand der Dokumentation des Teilsystems des
 EETS-Anbieters, ob und wie der EETS-Anbieter beabsichtigt, die
 Vorgaben des Mauterhebers zu erfüllen.
 
-*    *   Vorgabe
 
-    *   Schwerpunkte der Prüfung
+*    *   **Vorgabe**
 
-    *   Kategorie
+    *   **Schwerpunkte der Prüfung**
 
 
-*    *   Nr.
+*    *   **Nr.**
 
-    *   Kurzbeschreibung
+    *   **Kurzbeschreibung**
 
 
 *    *   wirtschaftliche Vorgaben
@@ -3121,159 +3681,169 @@ Vorgaben des Mauterhebers zu erfüllen.
 
 *    *   1
 
-    *   Sicherheit – Bankgarantie oder gleichwertiges Finanzinstrument
+    *   Sicherheit - Bankgarantie oder gleichwertiges Finanzinstrument
 
-    *   Prüfung der ausreichenden Höhe der initialen Bankgarantie
-        Prüfung Kreditinstitut: „Europäischer Pass“, Rating-Wert für
-        Langfrist- und Kurzfristverbindlichkeiten mindestens der
-        Kreditqualitätsstufe 2 der harmonisierten Ratingskala des Rahmenwerks
-        für Bonitätsbeurteilungen im Eurosystem
-        Prüfung, dass es sich um eine revolvierende Bankgarantie auf erstes
-        Anfordern handelt
-        Prüfung des Prozesses, der die aktuelle Höhe der Bankgarantie
-        ermittelt und eine Anpassung auslöst
+    *   Beschreibung des Prozesses, mit dem der EETS-Anbieter die aktuelle
+        Höhe der Bankgarantie oder des gleichwertigen Finanzinstruments
+        ermittelt und gegebenenfalls eine Anpassung auslöst.
+        Prüfung, ob die Ansprüche des Mauterhebers über die Bankgarantie oder
+        das gleichwertige Finanzinstrument abgedeckt sind.
 
-    *   finanzielle Vorgabe
+        1.  Vorlage Bankgarantie/Nachweis über gleichwertiges Finanzinstrument
+
+
+        2.  Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe
+
+
+
 
 
 *    *   2
 
     *   Gebühren
 
-    *   Prüfung vor jeder Verfahrensphase, ob Gebührenzahlungen gemäß
-        Entgeltordnung geleistet wurden
-
-    *   finanzielle Vorgabe
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe
 
 
 *    *   3
 
     *   Mautauskehr
 
-    *   Prüfung, ob die Risikobetrachtung des EETS-Anbieters alle verlangten
-        Haftungsrisiken mit abdeckt
-
-    *   finanzielle Vorgabe
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe
 
 
 *    *   4
 
     *   Verlust von Mauteinnahmen
 
-    *   Prüfung, ob das Risiko abgedeckt ist (siehe Prüfung zur Bankgarantie)
-
-    *   finanzielle Vorgabe
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.
+        Beschreibung der Maßnahmen zur Minimierung der
+        Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der
+        Auswirkungen bezüglich des Risikos der Inanspruchnahme der
+        Zahlungshaftung.
+        (Vorlage Risikomanagementplan)
 
 
 *    *   5
 
     *   gesamtschuldnerische Haftung
 
-    *   Prüfung des Prozesses, der die Umsetzung der Vorgabe betrifft,
-        insbesondere zum Nachweis, dass es sich nicht um das Bordgerät des
-        EETS-Anbieters handelt bzw. eine Nutzung ausgeschlossen war
-
-    *   finanzielle Vorgabe
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe
 
 
 *    *   6
 
     *   Verzug
 
-    *   Prüfung der Prozesse, die die Zahlungsfristen betreffen, insbesondere
-        das Vorhandensein eines „Prozesszweiges“, der die Verzugszinsen
-        berücksichtigt
-        Berücksichtigung des korrekten Basiszinssatzes der Deutschen
-        Bundesbank
-
-    *   finanzielle Vorgabe
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.
+        Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an
+        den Mauterheber, insbesondere hinsichtlich der korrekten
+        Berücksichtigung von Zahlungsfristen und Berechnung von Verzugszinsen
+        bei der Erstellung der Tagesberichte.
 
 
 *    *   7
 
     *   Beachtung des Haushaltsrechts
 
-    *   Prüfung, dass der EETS-Anbieter die Einhaltung der in der Vorgabe
-        genannten Ordnungen, Vorschriften etc. akzeptiert
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.
 
 
 *    *   8
 
     *   Berechnung der Mauteinnahmen
 
-    *   Prüfung, ob die Berechnung der Mauteinnahmen in Euro erfolgt
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe
 
 
 *    *   9
 
     *   Mauterhebung und Mautauskehr
 
-    *   Prüfung des Prozesses zur Buchung auf das Abwicklungskonto
-        Prüfung der Einhaltung der Zeitvorgaben bzw. Fristen bei den
-        verschiedenen Zahlungsarten hinsichtlich der Buchungen
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an
+        den Mauterheber, insbesondere hinsichtlich der korrekten
+        Berücksichtigung der Wertstellungsfrist und der fristgerechten
+        Auslösung von Überweisungen auf das Verrechnungskonto des
+        Mauterhebers.
+        Beschreibung der Umsetzung der Vorgaben des Mauterhebers in Bezug auf
+        die Nachforderung/Verrechnung von Mauteinnahmen gemäß des
+        Prozessdokuments „Informationen zu Nachforderung, Verrechnung und
+        manueller Korrektur“
+        Beschreibung des Vertriebsmodells aus dem hervorgeht, dass der EETS-
+        Anbieter die Vertragsbeziehung zum EETS-Nutzer hält und die
+        Mautauskehr vom EETS-Anbieter an den Mauterheber direkt erfolgt.
+        (Vorlage Vertriebsmodell)
+        Beschreibung der Maßnahmen zur Minimierung der
+        Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der
+        Auswirkungen (insbesondere Sicherstellung der vollständigen Auskehr
+        der Mautbeträge an den Mauterheber) bezüglich des Insolvenzrisikos des
+        EETS-Anbieters.
+        (Vorlage Risikomanagementplan)
 
 
 *    *   10
 
     *   Mautabrechnung
 
-    *   Prüfung des Abrechnungsprozesses auf Vollständigkeit
-        Prüfung wie der Abrechnungsprozess qualitätsgesichert wird, damit eine
-        korrekte Abrechnung der Maut in allen Fallkonstellationen
-        sichergestellt wird
-        Prüfung, wie mit Fehlern umgegangen wird
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Beschreibung der Geschäftsprozesse der Abrechnung gegenüber dem Nutzer
+        und der Auskehr der Mautbeträge an den Mauterheber.
+        Hier sind insbesondere die Maßnahmen zur Sicherstellung der
+        Vollständigkeit und Korrektheit der Summen, sowie die im Falle von
+        Abweichungen geplanten Maßnahmen darzustellen.
+        Es wird geprüft, ob die Maßnahmen zur Erkennung und Behebung von
+        Fehlern ausreichend sind bzw. ob Rückzahlungen/ Gutschriften an EETS-
+        Nutzer korrekt umgesetzt werden.
+        Bei der Beschreibung sind die Vorgaben des Mauterhebers in Bezug auf
+        die Entgegennahme und Bearbeitung von Reklamationen und
+        Erstattungsanträgen gemäß des Prozessdokuments „Information für EETS-
+        Anbieter – MED Reklamationsprozess“ sowie die Umsetzung von
+        Vergutschriftungen gemäß des Prozessdokuments „Information für EETS-
+        Anbieter – MED Vergutschriftungsprozess“ zu berücksichtigen.
 
 
 *    *   11
 
     *   Bericht über Mauteinnahmen
 
-    *   Prüfung Tagesbericht auf Übereinstimmung Layout und Format, inklusive
-        der rechnungsbegründenden Unterlagen
-        Prüfung des Prozesses der sicherstellt, dass die Zeitvorgabe
-        eingehalten wird
-        Prüfung der Einhaltung der vom Mauterheber vorgegebenen Spezifikation
-        zum Tagesbericht (siehe Vorgabe 16)
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an
+        den Mauterheber insbesondere hinsichtlich der Erstellung der
+        Tagesberichte und Gewährleistung der termingerechten Übermittlung.
+        Erläuterung der geplanten Umsetzung der Schnittstelle „Tagesbericht“
+        im System des EETS-Anbieters (siehe Spezifikation der SST 008
+        –„Tagesbericht“).
 
 
 *    *   12
 
     *   Überwachung des EETS-Anbieters
 
-    *   Prüfung der Einhaltung der vom Mauterheber vorgegebenen Spezifikation
-        der Schnittstellen – abschnittsbezogene Erhebungsdaten,
-        Mautbuchungsnachweise
-        Prüfung, ob ein Archivierungsprozess für die oben genannten Daten
-        vorgesehen ist und ob die Mindestspeicherdauer von vier Monaten
-        berücksichtigt wird
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Beschreibung der technischen Prozesse und Geschäftsprozesse zur
+        Überwachung der Qualität der Systeme des EETS-Anbieters. Beschreibung
+        der Prozesse der Datenübermittlung, Datenlöschung und
+        Datenarchivierung in Verbindung mit den geltenden Löschvorgaben und
+        -fristen.
+        (Vorlage Datenschutzkonzept)
 
 
 *    *   13
 
     *   manuelle Korrektur von Daten
 
-    *   Prüfung, ob ein Prozess vorgesehen ist, mit dem eine manuelle
-        Korrektur von abrechnungsrelevanten Daten vorgenommen werden kann. Der
-        EETS-Anbieter muss berücksichtigen, dass der Auslöser für einen
-        solchen Korrekturprozess auch der Mauterheber sein kann
-        Prüfung, ob dieser Prozess die Revisionsfestigkeit, die eindeutige
-        Nachvollziehbarkeit von vorgenommenen Änderungen, sicherstellt
-        Prüfung, wie sichergestellt wird, dass dieser Prozess vor Missbrauch
-        zuverlässig geschützt wird
-
-    *   Vorgabe zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+    *   Beschreibung des Geschäftsprozesses der Fahrspurerhebung und
+        Abrechnung der Mautbeträge gegenüber dem Nutzer. Hier sind
+        insbesondere eventuell vorhandene Prozessschritte darzustellen, im
+        Rahmen derer Fahrspurdaten, Mautbuchungsnachweise oder sonstige
+        Abrechnungsdaten manuell bearbeitet werden. Im Prozess sollte
+        berücksichtigt sein, dass der Auslöser einer solchen Korrektur auch
+        der Mauterheber sein kann und dass im Prozess dahingehend
+        unterschieden werden muss, ob die sich aus den Daten ergebenden
+        Mautbeträge bereits an den Mauterheber ausgekehrt wurden oder nicht.
+        Bei der Beschreibung sind die Vorgaben des Mauterhebers gemäß des
+        Prozessdokuments „Information für EETS-Anbieter – MED
+        Vergutschriftungsprozess“ zu berücksichtigen. Darstellung der
+        Maßnahmen und Methoden, die zur Verhinderung von Missbrauch vorgesehen
+        sind (z.B. Logging, lückenlose Dokumentation).
+        (Vorlage Sicherheitskonzept)
 
 
 *    *   technisch-organisatorische Vorgaben
@@ -3283,846 +3853,1032 @@ Vorgaben des Mauterhebers zu erfüllen.
 
     *   Kompatibilität der EETS-Teilsysteme
 
-    *   Die Prüfung erstreckt sich auf die gesamte Dokumentation unter dem
-        Aspekt des Zusammenspiels der beiden Teilsysteme. Eine spezielle
-        Prüfung auf einzelne Aspekte ist hier nicht zielführend. Die Prüfung
-        geht über die Schnittstellenprüfung (siehe Vorgabe 16) hinaus
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Funktionale Beschreibung der vom EETS-Anbieter eingesetzten
+        mautrelevanten IT-Komponenten sowie deren Schnittstellen und
+        Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation).
+        Beschreibung aller Geschäftsprozesse und Erläuterung der geplanten
+        Umsetzung der Schnittstellen „Bordgerät – straßenseitiges
+        Kontrollequipment“, „Blocklist/Sperrliste“, „Nutzerlisten“,
+        „Fahrspurdaten“,
+        „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu
+        Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte
+        Anbindung MED“ und der „übergreifenden Aspekte Anbindung BAG“ im
+        System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
+        IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum
+        Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der
+        Interaktion zwischen EETS-Anbieter und Mauterheber.
 
 
 *    *   15
 
     *   Beeinflussung des nationalen Mautsystems
 
-    *   Prüfung, ob das Teilsystem des EETS-Anbieters das EETS-Teilsystem des
-        Mauterhebers, das Kontrollsystem oder externe Anwendungen negativ
-        beeinflusst
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung der Berührungspunkte zwischen dem System des EETS-
+        Anbieters und dem Mautsystem des nationalen Betreibers (Kontrolle,
+        Mauterhebungsdienst), und mit Hilfe welcher Maßnahmen eine negative
+        Beeinflussung ausgeschlossen wird.
 
 
 *    *   16
 
-    *   Funktionen des EETS-
-        Teilsystems
+    *   Funktionen des EETS-Teilsystems
 
-    *   Prüfung, ob alle Geschäftsprozesse vollständig und plausibel
-        beschrieben sind
-        Prüfung, ob die Spezifikation des Teilsystems des EETS-Anbieters alle
-        für die Erbringung des EETS erforderlichen Einrichtungen umfasst
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Funktionale Beschreibung der vom EETS-Anbieter eingesetzten
+        mautrelevanten IT-Komponenten (High-Level-Systemdokumentation).
+        Beschreibung der Geschäftsprozesse in den Bereichen Fahrspurerhebung
+        und Mautabrechnung sowie Prozesse zur Unterstützung der Kontrolle und
+        Überwachung des Mauterhebers.
+        Beschreibung der IT-Serviceprozesse des EETS-Anbieters.
+        Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät –
+        straßenseitiges Kontrollequipment“, „Blocklist/Sperrliste“,
+        „Nutzerlisten“, „Fahrspurdaten“, „Mautbuchungsnachweise“,
+        „Tagesbericht“, Report „Information zu Auffälligkeiten bei
+        Bordgeräten“ sowie der „übergreifenden Aspekte Anbindung MED“ und der
+        „übergreifenden Aspekte Anbindung BAG“ im System des EETS-Anbieters
+        (siehe Schnittstellenspezifikationen).
 
 
 *    *   17
 
     *   Zeitbasis
 
-    *   Prüfung, ob ein Prozess zur Sicherstellung der Verwendung der
-        Zeitbasis des EETS-Teilsystems des Mauterhebers vorgesehen ist und ob
-        dieser plausibel die Einhaltung der Vorgabe belegt
-        Prüfung, welche Maßnahmen zur Qualitätssicherung vorgesehen sind
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Erläuterung der Verwendung der Zeitbasis in den Komponenten des EETS-
+        Anbieter-Teilsystems und Beschreibung des Prozesses zur
+        Zeitsynchronisation.
 
 
 *    *   18
 
     *   Schnittstellen
 
-    *   Prüfung, ob alle vom Mauterheber vorgegebenen Schnittstellen
-        berücksichtigt und korrekt spezifiziert wurden
-        Die Prüfung bezieht sich auf die Inhalte, die Formate und die
-        Übertragung der jeweiligen Datenobjekte. Maßgeblich sind die in den
-        Vorgaben für das EETS-Gebiet genannten Datenobjekte des Mauterhebers
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Funktionale Beschreibung der vom EETS-Anbieter geplanten
+        Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-
+        Systemdokumentation).
+        Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine
+        Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art
+        und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.
+        Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere
+        „Bordgerät – straßenseitiges Kontrollequipment“,
+        „Blocklist/Sperrliste“, „Nutzerlisten“, „Fahrspurdaten“,
+        „Mautbuchungsnachweise“, „Tagesbericht“, Report „Information zu
+        Auffälligkeiten bei Bordgeräten“ sowie der „übergreifenden Aspekte
+        Anbindung MED“ und der „übergreifenden Aspekte Anbindung BAG““ im
+        System des EETS-Anbieters (siehe Schnittstellenspezifikationen).
 
 
 *    *   19
 
-    *   Schwarze Liste
+    *   Blocklist/Sperrliste
 
-    *   Prüfung, ob ein Prozess vorgesehen ist, der sicherstellt, dass
-        Einträge auf der Schwarzen Liste (Blacklist) nur dann vorgenommen
-        werden, wenn das Bordgerät tatsächlich gesperrt ist. Dabei ist darauf
-        zu achten, dass alle denkbaren Fälle (z. B. technischer Defekt des
-        Bordgeräts, Bordgerät kann per GSM nicht erreicht werden) in dem
-        Prozess berücksichtigt sind
-        Prüfung der Spezifikation des Bordgeräts dahingehend, ob unterbunden
-        wird, dass die Erhebungsbereitschaft signalisiert wird, obwohl der
-        EETS-Anbieter das Gerät gesperrt hat
-        Prüfung auf vollständige Übermittlung der Blacklist
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Sperrung von Bordgeräten. Hier
+        sind insbesondere auch technische Sonderfälle darzustellen, wie z. B.
+        technische Defekte des Bordgeräts, gestörte Kommunikation über
+        Mobilfunk.
 
 
 *    *   20
 
     *   Nutzerliste
 
-    *   Prüfung auf regelmäßige Übermittlung der Nutzerliste im vorgegebenen
-        Format zur Wahrnehmung der hoheitlichen Aufgaben im Rahmen der
-        Kontrolle und Ahndung durch den Mauterheber
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers
+        bezüglich Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt
+        werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung
+        der in Dokument 4.3.3 der Gebietsvorgaben, Schnittstellen 002b und
+        002c geforderten Informationen.
+        Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c
+        „Adress- und Fahrzeugdaten und weitere Fahrzeuge eines EETS-Nutzers“
+        im System des EETS-Anbieters (siehe Dokument 4.3.3 − Spezifikation der
+        Schnittstelle SST 002 – Nutzerlisten). Prüfung, wie entsprechende
+        Meldungen über SST009 zu fehlenden Nutzerlisteneinträgen vom EETS-
+        Anbieter berücksichtigt werden
 
 
 *    *   21
 
     *   Trustobjects
 
-    *   Prüfung, ob vorgesehen ist, dass sicherheitsrelevante Daten
-        (Trustobjects) über die Schnittstelle 004 ausgetauscht werden
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses des Austauschs der
+        sicherheitsrelevanten Objekte zwischen EETS-Anbieter und Mauterheber.
+        Erläuterung der geplanten Umsetzung der Schnittstelle 004
+        „Trustobjects“ im System des EETS-Anbieters (siehe Dokument 4.3.11 –
+        Spezifikation der Schnittstelle SST 004 – Trustobjects).
+        Prüfung, wie der Austausch sicherheitsrelevanter Daten für die
+        Anbindung an den Mauterhebungsdienst mit dem nationalen Mautbetreiber
+        vorgesehen wird.
 
 
 *    *   22
 
-    *   abschnittsbezogene Erhebungsdaten
+    *   Positionsdaten und Merkmale der Fahrzeugklassifizierung
 
-    *   Prüfung, ob vorgesehen ist, dass abschnittsbezogene Erhebungsdaten
-        regelmäßig über die Schnittstelle 006 an den Mauterheber übermittelt
-        werden
+    *   Beschreibung des Geschäftsprozesses der Übermittlung der
+        Positionsdaten und Merkmalen der Fahrzeugklassifizierung an den
+        Mauterheber.
+        Erläuterung der geplanten Umsetzung der Schnittstelle 005 „Fahrspuren“
+        im System des EETS-Anbieters (siehe Dokument 4.3.14, Spezifikation der
+        Schnittstelle zum EETS-Anbieter SST 005 –Fahrspurdaten).
+        Beschreibung der Prozessschritte der Erzeugung und Verarbeitung von
+        Positionsdaten zu Fahrspuren durch die On-Board-Units des EETS-
+        Anbieters bis zur Übermittlung der Fahrspuren an den Mauterheber über
+        SST005. Dabei ist mindestens auf folgende Aspekte einzugehen:
 
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+        1.  Verarbeitung in der OBU
+
+            •   Regeln zur Übermittlung der Positionsdaten an die Zentrale
+
+
+            •   Gegebenenfalls vorhandene Sensor-Fusion
+
+
+            •   Stillstandserkennung
+
+
+            •   Tunnelerkennung
+
+
+            •   Prozess der Anreicherung der Fahrspur mit Fahrzeugparametern
+
+
+            •   Einhaltung der Vorgaben der Ortungsspezifikation (Anlage zur SST 005)
+
+
+
+
+
+        2.  Verarbeitung in der Zentrale
+
+            •   Manuelle/Automatisierte Nachbearbeitung von Fahrspuren
+
+
+            •   Prozess der Anreicherung der Fahrspur mit Fahrzeugparametern
+
+
+            •   Regeln zur Bündelung und Übermittlung von Fahrspuren über die SST005
+
+
+
+
+
+
 
 
 *    *   23
 
     *   Mautbuchungsnachweise
 
-    *   Prüfung, ob vorgesehen ist, dass Mautbuchungsnachweise regelmäßig über
-        die Schnittstelle 007 an den Mauterheber übermittelt werden
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Entgegennahme und Verarbeitung
+        der Mautbuchungsnachweise vom Mauterheber.
+        Erläuterung der geplanten Umsetzung der Schnittstelle 007R
+        „Mautbuchungsnachweise“ im System des EETS-Anbieters (siehe Dokument
+        4\.3.15, Spezifikation der Schnittstelle zum EETS-Anbieter SST 007R –
+        Mautbuchungsnachweise).
+        Angabe zum Format der gewünschten Übermittlung der tarifierten
+        Abschnitte (nur IDs aus den Mautbasisdaten oder zusätzlich Texte)
+        Angabe zu den gewünschten Regeln zur Zwangsbeendigung von Fahrten
 
 
 *    *   24
 
     *   Tagesbericht
 
-    *   Prüfung, ob vorgesehen ist, dass der EETS-Anbieter dem Mauterheber
-        werktäglich bis 15.00 Uhr MEZ/MASZ einen Tagesbericht über die
-        Schnittstelle 008 die an den Mauterheber ausgekehrten Mauteinnahmen
-        übermittelt
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Übermittlung des
+        Tagesberichts.
+        Erläuterung der geplanten Umsetzung der Schnittstelle 008
+        „Tagesbericht“ im System des EETS-Anbieters (siehe Dokument 4.3.6,
+        Spezifikation der Schnittstelle zum EETS-Anbieter SST 008 −
+        Tagesbericht).
+        Prüfung ob zusätzlich vorgesehen ist, dass der EETS-Anbieter dem
+        Mauterheber werktäglich bis spätestens 15.00 Uhr MEZ/MESZ eine E-Mail
+        mit dem an den Mauterheber an diesem Werktag tatsächlich ausgekehrten
+        Mauteinnahmen (Ist-Auskehrbetrag) übermittelt.
 
 
 *    *   25
 
-    *   nicht übermittelte Mautbuchungsnachweise
+    *   nicht ausgekehrte Mautbuchungsnachweise
 
-    *   Prüfung, ob eine organisatorische Schnittstelle für die Entgegennahme
-        von Zahlungsaufforderungen des Mauterhebers wegen nachweislich nicht
-        übermittelter Mautbuchungsnachweise vorhanden ist
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Entgegennahme der
+        Zahlungsaufforderungen des Mauterhebers wegen nachweislich nicht
+        ausgekehrter Mautbuchungsnachweise sowie der EETS-Anbieter internen
+        Weiterverarbeitung.
 
 
 *    *   26
 
     *   nicht einbringliche Nacherhebungen
 
-    *   Prüfung, ob eine organisatorische Schnittstelle für die Entgegennahme
-        von Zahlungsaufforderungen des Mauterhebers an den EETS-Anbieter wegen
-        nicht einbringlicher Nacherhebungen vorhanden ist
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
-
-
-*    *   Technisch-organisatorische Vorgaben
+    *   Beschreibung des Geschäftsprozesses der Entgegennahme der
+        Zahlungsaufforderungen des Mauterhebers wegen nicht einbringlicher
+        Nacherhebungen sowie der EETS-Anbieter internen Weiterverarbeitung.
 
 
 *    *   27
 
-    *   Maut-Basisdaten
+    *   Mautbasisdaten
 
-    *   Prüfung, ob der EETS-Anbieter eine Schnittstelle zur Entgegennahme von
-        Maut-Basisdaten vorhält
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Sofern der EETS-Anbieter von der Möglichkeit Gebrauch machen will eine
+        technische Schnittstelle zur Entgegennahme von Mautbasisdaten
+        vorzuhalten:
+        Beschreibung des Geschäftsprozesses der Entgegennahme der
+        Mautbasisdaten und Beschreibung des Geschäftsprozesses des
+        Mautbasisdatenmanagements, inklusive Entgegennahme und Verarbeitung
+        der Mautbasisdaten des Mauterhebers im Teilsystem des EETS-Anbieters.
+        Prüfung, ob diese Schnittstelle die Vorgaben der Schnittstelle 003 des
+        Mauterhebers berücksichtigt
 
 
 *    *   28
 
     *   Überwachungsreports
 
-    *   Prüfung der Systemdokumentation und Systemspezifikation hinsichtlich
-        der vollständigen Abdeckung aller mit dem EETS-Anbieter im Vertrag
-        vereinbarten Überwachungsdaten
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Erfassung von
+        Überwachungsdaten, inklusive Erstellung des geforderten
+        Überwachungsreports.
+        Vorlage eines beispielhaften Entwurfs eines Überwachungsreports in den
+        vom Mauterheber geforderten Bereichen (siehe Vorgaben zu SST 013 –
+        „Überwachungsreports“).
 
 
 *    *   29
 
     *   DSRC-Daten
 
-    *   Prüfung, ob der EETS-Anbieter dem Mauterheber die zur Kontrolle
-        erforderlichen DSRC-Daten über eine 5,8-GHz-Schnittstelle (SST 301)
-        überträgt
-
-    *   Vorgabe zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
-        Mauterhebers
+    *   Beschreibung des Geschäftsprozesses der Übermittlung der DSRC-Daten.
+        Erläuterung der geplanten Umsetzung der Schnittstelle SST 301
+        „Fahrzeuggerät des EETS-Anbieters und straßenseitigem
+        Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters
+        (siehe Dokument 4.3.1 − Spezifikation der DSRC-Schnittstelle zwischen
+        einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet
+        BFStrMG) inklusive Angabe der unterstützten Versionen der SST 301
 
 
 *    *   30
 
     *   Gebührenklassen
 
-    *   Prüfung der Spezifikation dahingehend, in welcher Form die
-        veränderlichen, gebührenrelevanten Parameter deklariert werden
-        Prüfung des Verfahrens zur Zuordnung der statischen,
-        gebührenrelevanten Parameter
-        Prüfung des Verfahrens zur Zuordnung der mautrelevanten
-        Gebührenklassen, insbesondere hinsichtlich der Maßnahmen zur
-        Sicherstellung, dass die bei der Einfahrt in den mautpflichtigen
-        Streckenabschnitt gültigen gebührenrelevanten Parameter verwendet
-        werden
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Geschäftsprozesse der Nutzerregistrierung,
+        Fahrzeugregistrierung, Deklaration am Fahrzeuggerät vor Fahrtbeginn.
+        Beschreibung des Geschäftsprozesses der Fahrspurerhebung, insbesondere
+        hinsichtlich der Zuordnung der statischen, gebührenrelevanten
+        Parameter zur jeweiligen Fahrspur (z.B. dezentral durch das Bordgerät
+        oder durch das Zentralsystem des EETS-Anbieters)
+        Beschreibung der Möglichkeiten zur Nutzerinteraktion (HMI) der OBU
+        (Benutzerhandbuch der OBU, Informationsmaterial für Nutzer).
 
 
 *    *   31
 
-    *   Ort der Mauterhebung
+    *   Nicht-mautpflichtige Befahrungen
 
-    *   Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und
-        nicht mautpflichtigen Fahrten, auch unter Berücksichtigung der
-        Behandlung von Ausnahmen von der regulären Gebührenpflicht
-        Prüfung des Verfahrens zur Erkennung eines mautpflichtigen Abschnitts,
-        insbesondere dahingehend, ob eine Erkennung bei Fahrten außerhalb des
-        mautpflichtigen Streckennetzes ausgeschlossen wird
-        Prüfung des Verfahrens zur Behandlung von Fahrtunterbrechungen
-        innerhalb eines mautpflichtigen Streckenabschnitts, insbesondere
-        dahingehend, ob eine mehrfache Mauterhebung ausgeschlossen wird
-        Prüfung des Verfahrens zur Erkennung eines mautpflichtigen Abschnitts,
-        insbesondere dahingehend, ob ungerechtfertigte Mauterhebungen bei
-        veränderten Spurführungen im Bereich von Baustellen ausgeschlossen
-        werden
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Geschäftsprozesse der Fahrspurerhebung und
+        Mautbefreiung.
+        Prüfung des Verfahrens zur Unterscheidung von mautpflichtigen und
+        nichtmautpflichtigen Fahrzeugen, auch unter Berücksichtigung der
+        Behandlung von Ausnahmen von der regulären Gebührenpflicht und der
+        sich daraus ergebenden Folge, keine Fahrspurdaten über die
+        Schnittstelle 005 an den Mauterheber zu übermitteln (z.B.
+        Sattelzugmaschinen, deren zulässiges Gesamtgewicht ohne Auflieger
+        weniger als 7,5 t beträgt)
 
 
 *    *   32
 
-    *   abschnittsweise Mauterhebung
+    *   Gebietsvorgabe ist entfallen
 
-    *   Prüfung des Verfahrens zur Erkennung eines mautpflichtigen
-        Streckenabschnitts, insbesondere dahingehend, in welcher Form die
-        Erhebung auch in als besonders kritisch eingeschätzten Fahrsituationen
-        (z. B. Grenzübertritte, Wendemöglichkeiten, extrem kurze und extrem
-        lange Abschnitte, Tunnel und Einschnitte) sichergestellt wird
-        Prüfung des Prozesses zur Entgegennahme und Verarbeitung der Maut-
-        Basisdaten
-        Prüfung des Verfahrens zur Zuordnung der bei der Einfahrt in den
-        mautpflichtigen Streckenabschnitt gültigen, gebührenrelevanten
-        Parameter
-        Prüfung des Verfahrens zur korrekten Rundung der Mautgebühren
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
-
+    *
 
 *    *   33
 
     *   Zuordnung der Mauterhebung
 
-    *   Prüfung der Verfahren und Prozesse zur Sicherstellung der
-        eineindeutigen Zuordnung jeder Mauterhebung zu einem amtlichen
-        Kennzeichen einschließlich der Nationalität des mautpflichtigen
-        Fahrzeugs
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung des Geschäftsprozesses der Fahrspurerhebung.
+        Beschreibung des Geschäftsprozesses der Mauterhebung.
+        Es muss deutlich werden an welcher Stelle im Prozess die
+        Zusammenführung zwischen Kfz-Kennzeichen und der Fahrspur erfolgt und
+        wie einer falschen Zuordnung vorgebeugt wird.
 
 
 *    *   34
 
     *   Zuordnung des Bordgeräts
 
-    *   Prüfung der Verfahren und Prozesse zur Sicherstellung der
-        eineindeutigen Zuordnung von Bordgerät, Fahrzeug und amtlichem
-        Kennzeichen einschließlich der Nationalität des mautpflichtigen
-        Fahrzeugs, auch für den Fall, dass ein EETS-Nutzer Verträge mit
-        mehreren Anbietern abgeschlossen hat
+    *   Beschreibung der Geschäftsprozesse der Nutzerregistrierung,
+        Fahrzeugregistrierung sowie der Prozesse zur Änderung von Nutzer- bzw.
+        Fahrzeugdaten.
+        Beschreibung der Geschäftsprozesse der Fahrzeuggeräteinstallation und
+        Inbetriebnahme, insbesondere für das Szenario, dass der Nutzer vorher
+        bereits ein Fahrzeuggerät des EETS-Anbieters verwendet hat (OBU-
+        Tausch).
+        Prüfung der Unterstützung der folgenden Prozesse im Teilsystem des
+        EETS-Anbieters inklusive Sicherstellung der Einhaltung der
+        Gebietsvorgabe und Auswirkungen auf die Übermittlung von Nutzerlisten
+        gemäß Gebietsvorgabe 20:
 
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+        1.  Fahrzeugverkauf mit Bordgerät,
+
+
+        2.  Tausch des Bordgeräts in einem Fahrzeug
+
+
+        3.  Weitergabe des Bordgeräts an ein anderes Fahrzeug.
+
+
+
 
 
 *    *   35
 
     *   Funktionsfähigkeit der Bordgeräte
 
-    *   Es soll anhand der Systemdokumentation und der Dokumentation von durch
-        den Hersteller/EETS-Anbieter durchgeführter Tests überprüft werden, ob
-        alle für den Betrieb im EETS-Gebiet BFStrMG notwendigen Funktionen
-        vollständig und korrekt spezifiziert und auf ihre Basisfunktionalität
-        hin geprüft wurden. Dies beinhaltet auch ein Monitoring der Bordgeräte
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung des Geschäftsprozesses/ IT-Serviceprozesses des
+        Systemmonitorings/-überwachung mit Fokus auf Monitoring der
+        Fahrzeuggeräte.
+        Beschreibung des Geschäftsprozesses des Remote-Device-Management der
+        Fahrzeuggeräteflotte.
+        Beschreibung des bei Auftreten von HW-Defekten an Fahrzeuggeräten
+        (z.B. Überprüfung, Austausch, Reparatur, Neukonfiguration) ablaufenden
+        Geschäftsprozesses.
 
 
 *    *   36
 
     *   Erhebungsbereitschaft des Bordgeräts
 
-    *   Prüfung, dass eine angemessene, korrekte und eindeutige Signalisierung
-        der Erhebungsbereitschaft durch das Bordgerät vorgesehen ist
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung des Geschäftsprozesses/ IT-Serviceprozesses des
+        Systemmonitorings/-überwachung mit Fokus auf Monitoring der
+        Fahrzeuggeräte.
+        Beschreibung der Anzeige- und Ausgabemöglichkeiten der
+        Nutzerschnittstelle (HMI) der OBU bzw. der Applikation eines mit der
+        OBU verbundenen Mobilgerätes (Benutzerhandbuch der OBU.)
 
 
 *    *   37
 
     *   Benutzerschnittstelle der Bordgeräte
 
-    *   Prüfung der Systemdokumentation, der Benutzeranleitungen der
-        Bordgeräte und der Systemspezifikation hinsichtlich der vollständigen
-        und korrekten Benutzerschnittstelle zur Eingabe und Anzeige aller
-        variablen Deklarationsparameter (dies kann umfassen: Zug-Gewicht,
-        Anhänger, Achszahl, Kennzeichen, emissions-relevante Parameter – je
-        nachdem ob und wie der EETS-Anbieter z. B. Wechselkennzeichen erlaubt)
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Möglichkeiten zur Nutzerinteraktion (HMI) der OBU
+        (Benutzerhandbuch der OBU, Informationsmaterial für Nutzer).
 
 
 *    *   38
 
     *   Sicherstellung korrekter Mauterhebung
 
-    *   Prüfung des Prozesses zur Information der Nutzer im Fall eines
-        Ausfalls oder einer Störung des Teilsystems des EETS-Anbieters,
-        insbesondere dahingehend, in welcher Form dem Nutzer derartige
-        Ausfälle oder Störungen mitgeteilt werden und in welcher Form auf die
-        Nutzung eines alternativen Einbuchungsverfahrens hingewiesen wird
-        Prüfung, ob die Spezifikation des EETS-Anbieters ein alternatives
-        Einbuchungsverfahren vorsieht, falls ja, Prüfung ob dieses die Vorgabe
-        der Gewährleistung der Möglichkeit zur Kontrolle (Vorgabe 28) erfüllt
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der IT-Serviceprozesse in den Bereichen
+        Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.
+        Beschreibung der Maßnahmen zur Minimierung der
+        Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der
+        Auswirkungen von Systemausfällen oder -störungen, insbesondere
+        hinsichtlich der Sicherstellung der vollständigen Abrechnung und
+        Auskehr der Mautbeträge (Risikomanagementplan).
 
 
 *    *   39
 
     *   Anpassungen des EETS-Teilsystems
 
-    *   Prüfung der technischen und organisatorischen Verfahren und Prozesse
-        zur Anpassung des Teilsystems des EETS-Anbieters für alle in den
-        Vorgaben aufgeführten Änderungs- und Anpassungsszenarien unter
-        besonderer Berücksichtigung der Maßnahmen, die den störungsfreien
-        Betrieb des Teilsystems des EETS-Anbieters sicherstellen
-        Prüfung der Angaben des EETS-Anbieters, wie für die verschiedenen
-        Anpassungsfälle die jeweils vom Mauterheber vorgegebenen
-        Vorankündigungs-, Reaktions- und Anpassungszeiten eingehalten werden
-        sollen
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung des Vorgehens zur Umsetzung der genannten Veränderungen
+        und Erweiterungen durch den EETS-Anbieter insbesondere hinsichtlich
+        der durchzuführenden Phasen und der zu veranschlagenden Dauer.
+        (Systemweiterentwicklungskonzept)
 
 
 *    *   40
 
-    *   zeitlich begrenzte Veränderungen
+    *   Gebietsvorgabe ist entfallen
 
-    *   Prüfung des Verfahrens zur Erkennung eines mautpflichtigen
-        Streckenabschnitts, insbesondere dahingehend, in welcher Form die
-        korrekte Erkennung auch im Fall zeitlich begrenzter Veränderungen
-        gewährleistet wird
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
-
+    *
 
 *    *   41
 
-    *   Unterstützung der
-        Kontrollprozesse
+    *   Unterstützung der Kontrollprozesse
 
-    *   Prüfung der Verfahren und Prozesse zur Unterstützung der
-        Kontrollprozesse des Mauterhebers, insbesondere bzgl. der
-        Bereitstellung von Beteiligtendaten und der geplanten Maßnahmen zur
-        Information der Nutzer bzgl. der bestehenden gesetzlichen Ausnahmen
-        von der Mautpflicht
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Geschäftsprozesse der Nutzerregistrierung,
+        Fahrzeugregistrierung und Änderungen der Angaben, insbesondere
+        hinsichtlich der dabei erfassten Nutzer- und Fahrzeugdaten sowie deren
+        Qualitätssicherung.
+        Beschreibung der Geschäftsprozesse, die der EETS-Anbieter bezüglich
+        der Befreiung einzelner Nutzer von der Mautpflicht vorsieht inklusive
+        der vorgesehenen Maßnahmen zur Information der Nutzer über die
+        Bestimmungen und Möglichkeiten der Mautbefreiung.
+        Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers
+        bezüglich Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt
+        werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung
+        der in den Schnittstellen 002b und 002c geforderten Informationen.
+        Beschreibung des Geschäftsprozesses der den Umgang mit Ansprüchen des
+        Mauterhebers im Rahmen der Anbieterausfallhaftung beinhaltet.
+        Erläuterung der geplanten Umsetzung der Schnittstelle SST 301
+        „Fahrzeuggerät des EETS-Anbieters und straßenseitigem
+        Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters
+        (siehe Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät
+        und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
+        Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c
+        „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“
+        im System des EETS-Anbieters (siehe Spezifikation der Schnittstelle
+        SST 002 – Nutzerlisten).
 
 
 *    *   42
 
-    *   Datenübermittlung für
-        Kontrollzwecke
+    *   Datenübermittlung für Kontrollzwecke
 
-    *   Prüfung der Verfahren und Prozesse zur Bereitstellung der Daten für
-        die Kontrolle
-        Prüfung, durch welche Prozesse oder Maßnahmen die Eindeutigkeit der
-        Daten gewährleistet wird
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Erläuterung der geplanten Umsetzung der Schnittstelle SST 301
+        „Fahrzeuggerät des EETS-Anbieters und straßenseitigem
+        Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters
+        (siehe Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät
+        und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
+        Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c
+        „Adress- und Fahrzeugdaten und weitere Fahrzeuge eines EETS-Nutzers“
+        im System des EETS-Anbieters (siehe Spezifikation der Schnittstelle
+        SST 002 –„Nutzerlisten“).
+        Darstellung der Maßnahmen und Methoden zur Erkennung und Verhinderung
+        von Manipulation am Fahrzeuggerät.
+        (Vorlage Sicherheitskonzept)
 
 
 *    *   43
 
     *   Ermöglichung der Kontrolle
 
-    *   Prüfung der Verfahren und Prozesse, mit denen gewährleistet wird, dass
-        jedes mautpflichtige Fahrzeug auf jedem mautpflichtigen
-        Streckenabschnitt kontrolliert werden kann
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Erläuterung der geplanten Umsetzung der Schnittstelle SST 301
+        „Fahrzeuggerät des EETS-Anbieters und straßenseitigem
+        Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters
+        (siehe Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät
+        und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
+        Beschreibung der Anzeige- und Ausgabemöglichkeiten der
+        Nutzerschnittstelle (HMI) der OBU (Benutzerhandbuch der OBU).
 
 
 *    *   44
 
     *   Information über technische Probleme
 
-    *   Prüfung des Prozesses zur Meldung von Fehlern und Ausfällen
-        Prüfung der Maßnahmen zur Qualitätssicherung, einschließlich der durch
-        die Qualitätssicherung erfassten Systemkomponenten, Prozesse und
-        Schnittstellen und der dafür erfassten Daten
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der IT-Serviceprozesse im Bereich
+        Systemmonitoring/-überwachung. Hier sind insbesondere die Aktivitäten
+        darzustellen, im Rahmen derer der Mauterheber über Störungen und
+        Ausfälle informiert wird.
 
 
 *    *   45
 
-    *   Sicherheit – Gefahren für Menschen, Sachgüter und Umwelt
+    *   Sicherheit - Gefahren für Menschen, Sachgüter und Umwelt
 
-    *   Für die in Verkehr gebrachten Geräte sollte dies bereits durch die
-        entsprechenden Konformitätsnachweise der Baumuster erbracht sein. Es
-        soll hier durch Sichtung der Dokumentation ermittelt werden, ob durch
-        die vorgesehene Art der Inverkehrbringung, Installation und des
-        Betriebs potenzielle Gefahrensituationen identifizierbar sind
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der technischen Daten der für den Einsatz vorgesehenen
+        OBU, insbesondere hinsichtlich der vorhandenen Typenzulassungen
+        (Benutzerhandbuch der OBU). Hinweis: Für die in Verkehr gebrachten
+        Geräte sollte die Erfüllung der Gebietsvorgabe bereits durch die
+        entsprechenden Konformitätsnachweise der Baumuster erbracht sein.
 
 
 *    *   46
 
     *   Verkehrssicherheit
 
-    *   Prüfung, ob der EETS-Anbieter die Vorschriften der einschlägigen
-        nationalen Gesetzgebung einhält, sodass von seinen Einrichtungen keine
-        Gefahren für Menschen, Sachgüter und Umwelt ausgehen
-        Prüfung, ob die Verkehrssicherheit sowie der Ausbau und die Erhaltung
-        des mautpflichtigen Streckennetzes und des übrigen Straßennetzes durch
-        das Teilsystem des EETS-Anbieters inklusive eventueller
-        straßenseitiger Einrichtungen nicht eingeschränkt wird
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung gegebenenfalls notwendiger straßenseitiger Komponenten im
+        System des EETS-Anbieters (High-Level-Systemdokumentation). Sofern
+        straßenseitige Einrichtungen vorgesehen werden, ist zu beschreiben,
+        wie Beeinträchtigungen der Funktionsfähigkeit von anderen
+        Einrichtungen, Einschränkungen der Verkehrssicherheit sowie der
+        Arbeiten zum Ausbau und Erhalt der Straßeninfrastruktur ausgeschlossen
+        werden.
 
 
 *    *   47
 
     *   Einbauten in Fahrbahn
 
-    *   Prüfung, ob das System des EETS-Anbieters ohne Einbauten in die
-        Fahrbahn zur Kanalisierung des Verkehrs auskommt
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der
+        Vorgabe.Beschreibung gegebenenfalls notwendiger straßenseitiger
+        Komponenten im System des EETS-Anbieters (High-Level-
+        Systemdokumentation).
 
 
 *    *   48
 
     *   Kommunikation mit straßenseitigen Einrichtungen
 
-    *   Die korrekte Implementierung einer zur SST 301 konformen DSRC-
-        Schnittstelle wird bereits durch den Konformitätsnachweis belegt. Hier
-        wird nur geprüft, dass in der Systemspezifikation auch die
-        anforderungsgerechte Implementierung des erweiterten DSRC-
-        Kontrolldatensatzes vorgesehen ist.
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Geeignete Nachweise der korrekten Funktion der DSRC-Schnittstelle, wie
+        beispielsweise vorhandene Zertifizierungen, Testabschlussberichte
+        und/oder Testprotokolle.
 
 
 *    *   49
 
     *   gebührenrelevante Parameter
 
-    *   Prüfung, ob laut Systemspezifikation und Systemdokumentation die nicht
-        variablen, gebührenrelevanten Parameter (komplementär zu Nummer 37 –
-        also z. B. Kennzeichen, falls keine Wechselkennzeichen oder mehrere
-        Fahrzeuge pro Bordgerät erlaubt sind) gesichert gegen Veränderungen
-        hinterlegt sind.
-        Ist ein Prozess vorgesehen, der bei der Erfassung und Hinterlegung
-        dieser Parameter eine Validierung vorsieht (Abgleich mit
-        Fahrzeugpapieren, Anfrage beim nationalen Fahrzeugregister der
-        jeweiligen Zulassungsstelle)?
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung des Geschäftsprozesses der Fahrzeugregistrierung sowie
+        des Prozesses zur Änderung von Fahrzeugdaten insbesondere im Hinblick
+        auf die vorgesehenen Schritte zur Prüfung und Validierung der vom
+        Nutzer angegebenen Parameter (z.B. Abgleich mit Fahrzeugpapieren,
+        Anfrage beim nationalen Fahrzeugregister).
 
 
 *    *   50
 
     *   Änderung von Parametern
 
-    *   Prüfung der Systemdokumentation, der Benutzeranleitungen der
-        Bordgeräte und der Systemspezifikation hinsichtlich der
-        Implementierung der Benutzerschnittstelle ohne Erfordernis von aktiven
-        Interaktionen (Eingaben, Bestätigungen) des Fahrers während der Fahrt.
-        Alle notwendigen Parameter müssen entweder statisch im Fahrzeuggerät
-        hinterlegt sein oder aber vor Fahrtantritt durch den Fahrer deklariert
-        sein. Die variablen Parameter können sich nur während einer
-        Fahrtunterbrechung ändern (Trailer, Lift-Achsen); dann muss auch die
-        Umdeklaration während dieser Fahrtunterbrechung erfolgen.
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Möglichkeiten zur Nutzerinteraktion (HMI) der OBU
+        und/oder der Applikation eines mit der OBU verbundenen Mobilgerätes
+        (Benutzerhandbuch der OBU, Informationsmaterial für Nutzer).
 
 
 *    *   51
 
     *   Sicherung von Daten
 
-    *   Prüfung der Systemdokumentation und Systemspezifikation: Sind
-        angemessene Sicherheitsmaßnahmen gegen bekannte Bedrohungen der
-        Sicherheit enthalten (z. B. in Anlehnung an den „Security Framework“
-        Standard, vgl. ISO 19299)
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Vorlage des Sicherheitskonzepts des EETS-Anbieters, welches die in den
+        IT-Systemen und Schnittstellen verarbeiteten Daten sowie die
+        umgesetzten Maßnahmen zur Sicherung von Vertraulichkeit, Integrität,
+        Authentizität und Verfügbarkeit beschreibt.
+        Vorlage des Datenschutzkonzepts und Prüfung ob Maßnahmen zum Schutz
+        personenbeziehbarer Daten und Einhaltung der Datenschutzanforderungen
+        der nationalen Gesetze sowie der Datenschutz-Grundverordnung und
+        Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom
+        12\. Juli 2002 über die Verarbeitung personenbezogener Daten und den
+        Schutz der Privatsphäre in der elektronischen Kommunikation (ABl. L
+        201 vom 31.7.2002, S. 37), die zuletzt durch die Richtlinie
+        2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11, L 241 vom 10.9.2013, S.
+        9; L 162 vom 23.6.2017, S. 6) geändert worden ist, beim EETS-Anbieter
+        umgesetzt
 
 
 *    *   52
 
     *   Missbrauchsschutz
 
-    *   Prüfung der Systemdokumentation und Systemspezifikation hinsichtlich
-        der voraussichtlichen Wirksamkeit der dort vorgesehenen Maßnahmen
-        (vgl. ISO 19299)
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der Möglichkeiten zur Identifikation von betrügerischen
+        Eingriffen sowie der dann durchzuführenden Maßnahmen zur Verhinderung
+        von negativen Auswirkungen.
+        (Vorlage Sicherheitskonzept)
 
 
 *    *   53
 
     *   Überwachung interner Einrichtungen des EETS-Anbieters
 
-    *   Prüfung der Systemdokumentation und Systemspezifikation hinsichtlich
-        der vorgesehenen Maßnahmen zur Überwachung
-
-    *   Vorgabe zu Mauterhebung, Kontrolle und Überwachung
+    *   Beschreibung der IT-Serviceprozesse in den Bereichen
+        Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.
+        Beschreibung der Maßnahmen zur Minimierung der
+        Eintrittswahrscheinlichkeit und Maßnahmen zur Reduktion der
+        Auswirkungen von Systemausfällen oder -störungen, insbesondere
+        hinsichtlich der Sicherstellung der vollständigen Abrechnung und
+        Auskehr der Mautbeträge.
+        (Risikomanagementplan)
 
 
 *    *   54
 
     *   Qualitätsparameter
 
-    *   Prüfung, ob vorgesehen ist, dass der EETS-Anbieter die
-        Qualitätsparameter erfüllt und entsprechende technische und
-        organisatorische Maßnahmen ergriffen hat
-
-    *   Vorgabe zu Qualitätsanforderungen
+    *   Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.
+        Beschreibung der technischen Prozesse und Geschäftsprozesse zur
+        Umsetzung und Erfüllung der Qualitätsanforderungen.
 
 
 *    *   55
 
     *   System zur Qualitätsmessung
 
-    *   Prüfung, ob der EETS-Anbieter ein System zur Messung und Überwachung
-        der Qualität seines Systems und seiner Prozesse unterhält,
-        kontinuierlich anwendet und Maßnahmen gegen Qualitätsverschlechterung
-        ergreift
+    *   Beschreibung des Systems, das der EETS-Anbieter zur Messung und
+        Überwachung der Qualität seines Systems und seiner Prozesse unterhält.
+        (High-Level Systemdokumentation)
+        Beschreibung der Maßnahmen zur Minimierung der
+        Eintrittswahrscheinlichkeit und Reduktion der Auswirkungen von
+        Qualitätsverschlechterungen.
+        Beschreibung der Maßnahmen, die bei festgestellter Verschlechterung
+        ergriffen werden, um die Qualität wiederherzustellen.
+        (Risikomanagementplan)
 
-    *   Vorgabe zu Qualitätsanforderungen
+
+*    *   56
+
+    *   Information zu Auffälligkeiten bei Bordgeräten
+
+    *   Beschreibung des Geschäftsprozesses, in dem die Entgegennahme und
+        Verarbeitung der vom Mauterheber über die SST 009 an den EETS-Anbieter
+        gesendeten Informationen zu Auffälligkeiten bei Bordgeräten vorgesehen
+        wird.
+        Beschreibung der Maßnahmen, die der EETS-Anbieter basierend auf den
+        über SST 009 empfangenen Informationen zur Qualitätsüberwachung und
+        Systemoptimierung ergreift.
 
 
 
 
-Tabelle 2: Schwerpunkte bei der Prüfung der Dokumentation
+*    *   **Tabelle 2: Schwerpunkte bei der Prüfung der Dokumentation**
+
+
+
 
 Der Mauterheber fasst die Ergebnisse der Dokumentenprüfung in einem
 Prüfbericht zusammen. In dem Prüfbericht ist für jede Vorgabe
 vermerkt, ob basierend auf der vom EETS-Anbieter vorgelegten
 Dokumentation von einer Erfüllung der Vorgabe ausgegangen werden kann.
 
-3\.3  Quality Gate – QG1
+**3.3 Quality Gate - QG1**
 
 Für das Bestehen des ersten Prüfblocks „Dokumentationsprüfung“ gelten
-die in Nummer 2.8 genannten Kriterien.
+die in Abschnitt 2.8 genannten Kriterien.
 
+**4 Schnittstellenprüfung und Kompatibilitätstests (Prüfblock 2 -
+Phase 1)**
 
-## **4 Schnittstellenprüfung und initiale fachliche Funktionsprüfungen
-(Prüfblock 2 – Phase 1)**
+**4.1 Prüfgegenstand und Ziel**
 
-4\.1 Prüfgegenstand und Ziel
+Im Rahmen der Schnittstellenprüfung, die in Phase 1 durchgeführt wird,
+erfolgt die Überprüfung der grundlegenden Funktionalität des
+Teilsystems des EETS-Anbieters mit dem EETS-Teilsystem des
+Mauterhebers, bestehend aus:
 
-Im Rahmen der Schnittstellenprüfung und der initialen fachlichen
-Funktionsprüfungen (Phase 1) erfolgt die Überprüfung der grundlegenden
-Funktionalität des Teilsystems des EETS-Anbieters, bestehend aus:
-
-–   der Feststellung des robusten, korrekten und vollständigen
+1.  der Feststellung des robusten, korrekten und vollständigen
     Datenaustausches über alle für die Phase 1 relevanten Schnittstellen
     des Teilsystems des EETS-Anbieters und des EETS-Teilsystems des
-    Mauterhebers (siehe Tabelle 3)
+    Mauterhebers (siehe Tabelle 3) und
 
 
-–   dem Nachweis einfacher funktionaler Abläufe im Teilsystem des EETS-
+2.  dem Nachweis einfacher funktionaler Abläufe im Teilsystem des EETS-
     Anbieters.
 
 
 
 
-Ziel der Prüfung ist die Feststellung dieser grundlegenden
-Funktionalität.
+Die Kompatibilitätstests, die ebenfalls in der Phase 1 durchgeführt
+werden, umfassen Prüfungen mit den Bordgeräten des EETS-Anbieters und
+Prüfungen der Schnittstellen und funktionalen Abläufe zwischen dem
+Teilsystem des EETS-Anbieters zum Mauterhebungsdienst. Die
+Kompatibilitätstests umfassen zwei Schwerpunkte:
 
+1.  Nachweis der Kompatibilität der Bordgeräte des EETS-Anbieters zu den
+    Kontrolleinrichtungen des deutschen Mautsystems (Kontrollsäule,
+    Kontrollbrücke, Kontrollfahrzeug einschließlich der Handgeräte) und
+    Funktionsfähigkeit der DSRC-Kommunikation (DSRC-Kompatibilitätstests)
+
+
+2.  Nachweis der Kompatibilität zum Mauterhebungsdienst (MED) in Bezug auf
+    die Schnittstellen zwischen dem Teilsystem des EETS-Anbieters und dem
+    MED sowie in Bezug auf die Erfüllung der Anforderungen an die Ortung
+    durch die Bordgeräte des EETS-Anbieters (MED-Kompatibilitätstests).
+
+
+
+
+Die Kompatibilitätstests werden durch den nationalen Mautbetreiber im
+Auftrag des Mauterhebers geplant und durchgeführt.
 Voraussetzung für die Aufnahme der Phase 1 ist das Bestehen des
-Quality Gates 1 gemäß Nummer 3.3 und die Verfügbarkeit der für den
-Schnittstellentest benötigten Ressourcen.
-
+Quality Gates 1 gemäß Abschnitt 3.3 und die Verfügbarkeit der für den
+Schnittstellentest und die Kompatibilitätstests benötigten Ressourcen.
 Der erfolgreiche Abschluss der Phase 1 ist Voraussetzung für den
 Beginn des Probebetriebs (Phase 2).
+Nach Abschluss der Schnittstellenprüfung und der Kompatibilitätstests
+hat der EETS-Anbieter am Ende der Phase 1 die Möglichkeit, eigene
+Fahrtests mit eigenen Fahrzeugen durchzuführen, sofern diese in seine
+Prüfplanung integriert und terminlich und inhaltlich vom Mauterheber
+freigegeben wurden. Die Fahrtests sollen dem EETS-Anbieter dazu
+dienen, eigene Abläufe und Prüfschwerpunkte und -aspekte zu testen,
+die für sein Teilsystem relevant sind. Der Mauterheber wird dem EETS-
+Anbieter für die Durchführung der EA-Fahrtests eine Mitnutzung der für
+die MED-Kompatibilitätstests eingerichteten Systemumgebung
+ermöglichen.
 
-Prüfgegenstand ist das Teilsystem des EETS-Anbieters. Zur Prüfung wird
-die Testumgebung des Mauterhebers verwendet. Parallel zur
-Schnittstellenprüfung erfolgen Kompatibilitätstests mit den
-Bordgeräten des EETS-Anbieters und den Kontrolleinrichtungen des
-deutschen Mautsystems. Die Planung und Durchführung dieser Tests
-erfolgt durch den Betreiber der Kontrolleinrichtungen im Auftrag des
-Mauterhebers auf Grundlage eines separaten Testfallkatalogs. Der EETS-
-Anbieter hat die Möglichkeit, diese Tests zu begleiten. Das Ziel und
-die Vorgaben für die Kompatibilitätstests sind in Nummer 3.3.1.21,
-Dokument A – Verfahrensbeschreibung beschrieben.
-
-4\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+**4.2 Prüforganisation, -umgebung und Rahmenbedingungen**
 
 Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die
-Durchführung und Koordinierung der Prüfaktivitäten. Mauterheber und
+Durchführung, Begleitung und Koordinierung der Prüfaktivitäten. Der
+Mauterheber benennt seinerseits entsprechende Ansprechpartner für die
+Schnittstellenprüfung und die Kompatibilitätstests. Mauterheber und
 EETS-Anbieter sorgen dafür, dass die jeweils genannten
-Verantwortlichen für die gesamte Schnittstellenprüfung zur Verfügung
+Verantwortlichen für den gesamten Zeitraum der Phase 1 zur Verfügung
 stehen.
-
-Die in der Phase 1 verwendete Prüfumgebung – die
-Schnittstellenprüfumgebung – besteht seitens des Mauterhebers aus der
-Testumgebung und seitens des EETS-Anbieters aus einem
-wirkbetriebsnahen Erprobungssystem oder seinem Wirkbetriebssystem.
+Die in der Phase 1 verwendete Prüfumgebung besteht seitens des
+Mauterhebers aus der Testumgebung des EETS@BAG Systems und aus der
+Testumgebung des nationalen Mautbetreibers. Seitens des EETS-Anbieters
+besteht sie aus einem wirkbetriebsnahen Erprobungssystem oder seinem
+Wirkbetriebssystem.
 
 Die Systeme sind über die technischen Schnittstellen gekoppelt.
-
 Die folgende Abbildung veranschaulicht die verwendete Prüfumgebung:
+![banzat_2021_20211029v2_03.jpg](banzat_2021_20211029v2_03.jpg)
 
-![banzat_2018_20180327v2_02.jpg](banzat_2018_20180327v2_02.jpg)
-Abbildung 1: Testumgebung Phase 1
-
-Testumgebung des Mauterhebers – die Testumgebung repräsentiert das
-EETS-Teilsystem des Mauterhebers, sie umfasst:
-
-–   Wirksystem-identische Schnittstellen vom EETS-Teilsystem des
-    Mauterhebers zum Teilsystem des EETS-Anbieters (diese Schnittstelle
-    beinhaltet neben den Schnittstellen zwischen den Zentralsystemen auch
-    die DSRC-Schnittstelle SST 301 zwischen dem Bordgerät des EETS-
-    Anbieters und den Kontrolleinrichtungen des Mauterhebers)
+1.  Die Testumgebung des Mauterhebers repräsentiert das EETS-Teilsystem
+    des Mauterhebers, und umfasst die Schnittstellenprüfumgebung des
+    Mauterhebers und die Testumgebung für die Kompatibilitätstests des
+    nationalen Betreibers.
 
 
-–   Bedienschnittstelle für die Prüfungsbegleitung.
+2.  Die Schnittstellenprüfumgebung des Mauterhebers umfasst die folgenden
+    wirksystem-identischen Schnittstellen vom EETS-Teilsystem des
+    Mauterhebers zum Teilsystem des EETS-Anbieters:
+
+    •   Schnittstelle 001 „Blocklist/Sperrliste“
 
 
+    •   Schnittstelle 002 „Nutzerlisten“
 
 
-Teilsystem des EETS-Anbieters – wirkbetriebsnahes Erprobungssystem des
-EETS-Anbieters in der Wirkbetriebskonfiguration oder
-Wirkbetriebssystem unter folgenden Randbedingungen:
-
-–   Eingriffe in die Software des Teilsystems des EETS-Anbieters sind nach
-    Absprache mit dem Mauterheber zur Behebung von Fehlern zulässig.
-    Weiterhin müssen in Abstimmung mit dem Mauterheber die erneut zu
-    durchlaufenden Prüffälle festgelegt werden.
+    •   Schnittstelle 003 „Mautbasisdaten“ –Tests dieser Schnittstelle
+        erfolgen nur im Fall, dass der EETS-Anbieter eine Übertragung von
+        Mautbasisdaten über die Schnittstelle implementiert hat
 
 
-–   Die Anpassung der Konfiguration ist in Abstimmung mit dem Mauterheber
-    zulässig.
+    •   Schnittstelle 008 „Tagesberichte“
 
 
-–   Es kommen die für den Wirkbetrieb bestimmten Bordgeräte des EETS-
-    Anbieters zum Einsatz.
-
-
-–   Der EETS-Anbieter muss sicherstellen, dass ausschließlich Daten zur
-    Testumgebung des Mauterhebers gesendet werden, die im Rahmen der
-    Prüfungen erzeugt werden.
+    •   Schnittstelle 099 „Acknowledgement/Quittungen“
 
 
 
 
-Die im Rahmen der Phase 1 zwischen EETS-Anbieter und Mauterheber
-ausgetauschten Schlüssel unterliegen auf Seite des Mauterhebers keinem
-besonderen Schutzbedürfnis.
+
+3.  Die Testumgebung für die Kompatibilitätstests umfasst:
+
+    •   Schnittstelle 301 „DSRC-Kontrolldaten“
+
+
+    •   Technische Komponenten zur Prüfung der Kompatibilität der Bordgeräte
+        des EETS-Anbieters mit den Kontrolleinrichtungen des nationalen
+        Mautbetreibers (Laborkomponente, Kontrolleinrichtungen)
+
+
+    •   Schnittstelle 005 „Fahrspurdaten“
+
+
+    •   Schnittstelle 007R „Mautbuchungsnachweise“
+
+
+    •   Schnittstelle 009 Report „Information zu Auffälligkeiten bei
+        Bordgeräten“
+
+
+    •   Schnittstelle 099a/c „Acknowledgement/Quittungen“
+
+
+    •   Technische Komponenten des Mauterhebungsdienstes
+
+
+    •   Ortungsreferenzsystem des nationalen Mautbetreibers zur Auswertung der
+        MED-Kompatibilitätstests
+
+
+
+
+
+4.  Das Teilsystem des EETS-Anbieters muss die folgenden Randbedingungen
+    erfüllen:
+
+    •   Eingriffe in die Software des Teilsystems des EETS-Anbieters sind nach
+        Absprache mit dem Mauterheber zur Behebung von Fehlern zulässig.
+        Weiterhin müssen in Abstimmung mit dem Mauterheber die nach einer
+        Fehlerbehebung erneut zu durchlaufenden Prüffälle festgelegt werden.
+
+
+    •   Die Anpassung der Konfiguration ist in Abstimmung mit dem Mauterheber
+        zulässig.
+
+
+    •   Es kommen die für den Wirkbetrieb bestimmten Bordgeräte des EETS-
+        Anbieters zum Einsatz.
+
+
+    •   Der EETS-Anbieter muss sicherstellen, dass ausschließlich Daten zur
+        Testumgebung des Mauterhebers gesendet werden, die im Rahmen der
+        Prüfungen erzeugt werden.
+
+
+
+
+
+5.  Die im Rahmen der Phase 1 zwischen EETS-Anbieter und Mauterheber
+    ausgetauschten Schlüssel unterliegen auf Seite des Mauterhebers keinem
+    besonderen Schutzbedürfnis.
+
+
+
 
 Die Durchführung der Prüfungen erfolgt unter Verwendung der folgenden
 Ausrüstung. Die hier genannten Verantwortlichkeiten gelten in
 Ergänzung zu den in Kapitel 2.4 genannten Verantwortlichkeiten
 speziell für diese Prüfphase.
 
-*    *   Ausrüstung
 
-    *   Verantwortlich
+*    *   **Ausrüstung**
+
+    *   **Verantwortlich**
 
 
 *    *   Bereitstellung der für die Durchführung der Kontrolle notwendigen
-        Einrichtungen.
+        Einrichtungen
+
+    *   Nationaler Mautbetreiber i.A. des Mauterhebers
+
+
+*    *   Bereitstellung, Betrieb und Administration der
+        Schnittstellenprüfumgebung
 
     *   Mauterheber
 
 
-*    *   Bereitstellung, Betrieb und Administration einer Testumgebung zur
-        Entgegennahme von Daten des EETS-Anbieters an den technischen
-        Schnittstellen (z. B. abschnittsbezogene Erhebungsdaten, DSRC-Daten).
+*    *   Bereitstellung, Betrieb und Administration der Testumgebung für die
+        Kompatibilitätstests
 
-    *   Mauterheber
+    *   Nationaler Mautbetreiber i.A. des Mauterhebers und Mauterheber
 
 
-*    *   Betriebsbereites Zentralsystem im wirkbetriebsnahen Erprobungssystem
-        oder im Wirkbetriebssystem des EETS-Anbieters.
+*    *   Bereitstellung, Betrieb und Administration des Ortungsreferenzsystems
+        für die Kompatibilitätstests
+
+    *   Nationaler Mautbetreiber i.A. des Mauterhebers
+
+
+*    *   Bereitstellung und Betrieb von Fahrzeugen für die
+        Kompatibilitätstests, in die die Bordgeräte des EETS-Anbieters verbaut
+        werden
+
+    *   Nationaler Mautbetreiber i.A. des Mauterhebers
+
+
+*    *   betriebsbereites Zentralsystem im wirkbetriebsnahen Erprobungssystem
+        oder im Wirkbetriebssystem des EETS-Anbieter
 
     *   EETS-Anbieter
 
 
-*    *   In Fahrzeugen verbaute Bordgeräte in ausreichender Zahl.
-        Die Anzahl ist im Prüfprogramm zu dokumentieren und mit dem
-        Mauterheber abzustimmen.
+*    *   Bordgeräte in ausreichender Zahl samt notwendigem Zubehör (z.B.
+        Verkabelung, Befestigungsmaterial)
 
     *   EETS-Anbieter
 
 
 
 
-Tabelle 3: Verantwortlichkeit für die Ausrüstung der Prüfumgebung
+**Tabelle 2: Verantwortlichkeit für die Ausrüstung der Prüfumgebung**
 
 Die Prüfungen der Phase 1 erfolgen unter folgenden Prüfbedingungen:
 
-–   Fahrtests unter realen Verkehrsbedingungen auf öffentlichen Straßen
+1.  Fahrtests unter realen Verkehrsbedingungen auf öffentlichen Straßen
 
 
-–   Betrachtung des Teilsystems des EETS-Anbieters als Blackbox, d. h. die
-    Betrachtung erfolgt anhand des Verhaltens an der Schnittstelle
-    zwischen EETS-Anbieter und Mauterheber
+2.  Betrachtung des Teilsystems des EETS-Anbieters inklusive der
+    Bordgeräte als Blackbox, d.h. die Betrachtung erfolgt anhand des
+    Verhaltens an den Schnittstellen zwischen EETS-Anbieter und
+    Mauterheber
 
 
-–   keine Durchführung von Last- oder Performancetests in dieser Phase.
+3.  keine Durchführung von Last- oder Performancetests in dieser Phase
 
 
 
+Die Definition der Vorgaben für die Prüfungen der Phase 1 erfolgt
+unter Berücksichtigung folgender Randbedingungen:
 
-Die Definition der Vorgaben für die Prüfungen erfolgt unter
-Berücksichtigung folgender Randbedingungen:
-
-–   korrekter und vollständiger Datenaustausch an den zentralseitigen
+1.  korrekter und vollständiger Datenaustausch an den zentralseitigen
     Schnittstellen zum Mauterheber und an den DSRC-Empfangseinheiten des
     Mauterhebers
 
 
-–   Kompatibilität des Teilsystems des EETS-Anbieters mit dem EETS-
+2.  Kompatibilität des Teilsystems des EETS-Anbieters mit dem EETS-
     Teilsystem des Mauterhebers
 
 
-–   ergänzende Negativtests in Form von Stichproben zum Nachweis der
+3.  Einhaltung der Vorgaben an die Ortungsqualität der Bordgeräte für den
+    Mauterhebungsdienst und die Vorgaben an die Kompatibilität der
+    Bordgeräte zu den Kontrolleinrichtungen des Mauterhebers
+
+
+4.  ergänzende Negativtests in Form von Stichproben zum Nachweis der
     Robustheit des Teilsystems des EETS-Anbieters gegenüber vom Regelfall
     abweichendem Verhalten des EETS-Teilsystems des Mauterhebers
 
 
-–   Eingangsdaten für die Prüffallvorgaben werden vom Mauterheber
-    definiert
 
 
-–   Dateneinspeisung erfolgt ausschließlich über folgende Schnittstellen:
-    Standard-Benutzerschnittstellen des Teilsystems des EETS-Anbieters,
-    Schnittstellen der Testumgebung und Bordgeräte.
+**4.3 Vorgehensweise und Dokumentation**
 
+**4.3.1 Schnittstellenprüfung**
 
+Die im Rahmen der Schnittstellenprüfung durchzuführenden Prüffälle
+sind im Prüfkatalog Anlage [1] dokumentiert. Die Prüffälle werden
+durch eine Prüfspezifikation konkretisiert, die vom Mauterheber
+erstellt und dem EETS-Anbieter im Vorfeld der Durchführung der
+Schnittstellenprüfung bereitgestellt wird.
 
+Die Prüffälle der Schnittstellenprüfung müssen vom EETS-Anbieter gemäß
+der abgestimmten Prüfplanung durchgeführt und dokumentiert werden.
+Sofern der EETS-Anbieter andere Dienste unter Verwendung seiner
+Bordgeräte vorsieht, sind diese Dienste bei der Durchführung der
+Prüffälle, wie im realen Betrieb zu erwarten, parallel zu betreiben.
 
-4\.3 Vorgehensweise und Dokumentation
-
-Basis für die Prüfungen in dieser Phase ist das Prüfprogramm des EETS-
-Anbieters, das mindestens aus den Prüffallvorgaben des Mauterhebers
-abgeleitet ist.
-
-Die im Prüfkatalog (Anhang B) vom Mauterheber vorgegebenen
-Prüffallvorgaben werden durch den EETS-Anbieter – sofern nötig –
-konkretisiert und im Rahmen der Erstellung des Prüfprogramms
-spezifiziert und dokumentiert.
-
-Weitere Prüffälle, die nicht durch Prüffallvorgaben abgedeckt sind,
-dürfen in Abstimmung mit dem Mauterheber ergänzend in das Prüfprogramm
-aufgenommen werden.
-
-Sofern der EETS-Anbieter andere Dienste, basierend auf dem Teilsystem
-zur Mauterhebung, vorsieht, sind diese im Prüfprogramm des EETS-
-Anbieters entsprechend zu berücksichtigen. D. h., diese Dienste sind
-bei der Durchführung der Prüffälle, wie im realen Betrieb zu erwarten,
-parallel zu betreiben.
-
-Die Prüffälle werden dann gemäß ihrer Beschreibung im Prüfprogramm des
-EETS-Anbieters durchgeführt, in der die durchzuführenden Schritte
-detailliert beschrieben sind. Die bei der Durchführung über die
+Die Prüffälle werden gemäß ihrer Beschreibung in der Prüfspezifikation
+durchgeführt. In der Prüfspezifikation sind die durchzuführenden
+Schritte detailliert beschrieben. Die bei der Durchführung über die
 Schnittstellen vom Teilsystem des EETS-Anbieters zur Testumgebung
-übertragenen Daten werden in der Testumgebung aufgezeichnet.
+übertragenen Daten werden in der Testumgebung aufgezeichnet. Für alle
+Prüfschritte und Prüffälle ist ein erwartetes Ergebnis definiert, das
+als Referenz für die Auswertung verwendet wird.
 
-Für alle Prüfszenarien ist ein erwartetes Ergebnis definiert, das als
-Referenz für die Auswertung verwendet wird.
+Im Rahmen der Schnittstellenprüfung ist der EETS-Anbieter für die
+Durchführung aller Prüfaktivitäten und damit auch für die
+Dokumentation der Prüfergebnisse in Form von Prüfprotokollen und des
+Abschlussberichts verantwortlich. Der EETS-Anbieter muss sich die
+notwendigen Informationen, die zur Dokumentation der Prüfergebnisse
+der Schnittstellenprüfung notwendig sind, aus seinem Teilsystem und
+dem Teilsystem des Mauterhebers (Testumgebung) beschaffen.
 
-Der EETS-Anbieter ist für die Durchführung aller Prüfaktivitäten und
-damit auch für die Dokumentation der Prüfergebnisse in Form von
-Prüfprotokollen, Prüfberichten und Abschlussbericht verantwortlich.
+**4.3.2 Kompatibilitätstests**
 
-Der EETS-Anbieter muss sich die notwendigen Informationen zur
-Dokumentation der Prüfergebnisse, die für jedes Prüfszenario notwendig
-sind, aus seinem Teilsystem und dem Teilsystem des Mauterhebers
-(Testumgebung) beschaffen.
+Die im Rahmen der Kompatibilitätstests durchzuführenden Prüffälle sind
+im Prüfkatalog Kompatibilitätstests Anlage [2] und [3] dokumentiert.
+Die im Prüfkatalog aufgelisteten Prüffälle werden durch
+Prüfspezifikationen konkretisiert, die vom nationalen Mautbetreiber im
+Auftrag des Mauterhebers erstellt und dem EETS-Anbieter im Vorfeld der
+Durchführung der Kompatibilitätstests bereitgestellt werden.
 
-4\.4 Übersicht über die Prüfszenarien
+Die Kompatibilitätstests werden vom nationalen Mautbetreiber
+durchgeführt und bestehen aus zwei Prüfbereichen:
 
-Für die Phase 1 definiert der Mauterheber Prüffallvorgaben für die in
-dieser Phase durchzuführenden Prüfungen.
-
-Die Prüffallvorgaben des Mauterhebers sind in folgenden Szenarien
-gruppiert:
-
-*    *   Prüf-
-        szenario
-
-    *   Bezeichnung
-
-    *   Schwerpunkt der Prüfung
+1)  **DSRC-Kompatibilitätstests**                    der Bordgeräte des
+    EETS-Anbieters mit den Kontrolleinrichtungen und Einhaltung der
+    Vorgaben der SST 301. Im Rahmen dieses Bereichs werden betriebliche
+    und fachliche Funktionsprüfungen mit den Bordgeräten des EETS-
+    Anbieters durchgeführt. Diese Prüfungen finden teilweise in einem
+    Testlabor und teilweise im Rahmen echter Befahrungen des
+    mautpflichtigen Netzes statt.
 
 
-*    *   P1-001
+2)  **MED-Kompatibilitätstests**                    des Teilsystems des
+    EETS-Anbieters mit dem Mauterhebungsdienst. Im Rahmen der MED-
+    Kompatibilitätstests wird einerseits die korrekte Umsetzung und
+    Kompatibilität der Schnittstellen geprüft, die zwischen dem
+    Zentralsystem des EETS-Anbieters und dem Zentralsystem des
+    Mauterhebungsdienstes existieren. Weiterhin wird im Rahmen der MED-
+    Kompatibilitätstests die Einhaltung der Anforderungen an die
+    Ortungsgenauigkeit durch die Bordgeräte des EETS-Anbieters geprüft.
 
-    *   technische Prüfung der Schnittstellen zum EETS-Anbieter (SST 001, SST
-        002, SST 006, SST 007, SST 008, SST 099)
+
+
+
+Die Prüffälle der Kompatibilitätstests werden vom nationalen
+Mautbetreiber im Auftrag des Mauterhebers gemäß der abgestimmten
+Prüfplanung durchgeführt und dokumentiert. Für alle Prüfschritte und
+Prüffälle der Kompatibilitätstests ist ein erwartetes Ergebnis
+definiert, das als Referenz für die Auswertung verwendet wird. Im
+Rahmen der Kompatibilitätstests ist der nationale Mautbetreiber im
+Auftrag des Mauterhebers für die Durchführung aller Prüfaktivitäten
+und damit auch für die Dokumentation der Prüfergebnisse in Form von
+Prüfprotokollen und des Abschlussberichts verantwortlich.
+
+Während der Durchführung der MED-Kompatibilitätstests muss der EETS-
+Anbieter dem nationalen Mautbetreiber einen wöchentlichen Bericht über
+den Erhebungsstatus der eingesetzten Bordgeräte übermitteln. Der
+Bericht muss jeweils für die Vorwoche eine tabellarische Übersicht mit
+den Zeiträumen enthalten, in denen sich die verwendeten Bordgeräte im
+Erhebungsstatus „nicht erhebungsbereit“ befanden.
+
+**4.4 Übersicht über die Prüfszenarien**
+
+**4.4.1 Schnittstellenprüfung**
+
+Für die Schnittstellenprüfung - Phase 1 definiert der Mauterheber
+Prüffälle für durchzuführende Prüfungen.
+Die Prüffälle des Mauterhebers sind in folgenden Szenarien gruppiert:
+
+*    *   **Prüfszenario**
+
+    *   **Bezeichnung**
+
+    *   **Schwerpunkt der Prüfung**
+
+
+*    *   P1- SSP-001
+
+    *   Austausch von sicherheitsrelevanten Objekten (SST 004)
+
+    *   korrekter Austausch und Verwendung sicherheitsrelevanter Objekte
+
+
+*    *   P1-SSP-002
+
+    *   technische Prüfung der Schnittstellen zwischen EETS@BAG System und
+        EETS-Anbieter (SST 001, SST 002, SST 008, SST 099)
 
     *   korrekter Kommunikationsablauf
 
 
-*    *   P1-002
+*    *   P1- SSP-003
 
-    *   Verwalten der Blacklist (SST 001)
-
-    *   Vollständigkeit und fachliche Korrektheit der Blacklist
-
-
-*    *   P1-003
-
-    *   Verwalten der Whitelist (SST 002a)
+    *   Verwalten der Nutzerliste (Userlist SST 002a)
 
     *   Vollständigkeit und fachliche Korrektheit der Fahrzeug- und
         Bordgerätedaten
 
 
-*    *   P1-004
+*    *   P1- SSP-004
+
+    *   Verwalten der Blocklist/Sperrliste (SST 001)
+
+    *   Vollständigkeit und fachliche Korrektheit der Blocklist/Sperrliste
+
+
+*    *   P1- SSP-005
 
     *   Verwalten von Nutzeradress- und Fahrzeugdaten (SST 002b)
 
@@ -4130,7 +4886,7 @@ gruppiert:
         Fahrzeugdaten
 
 
-*    *   P1-005
+*    *   P1- SSP-006
 
     *   Verwalten der Fahrzeugliste von EETS-Nutzern (SST 002c)
 
@@ -4138,120 +4894,101 @@ gruppiert:
         Nutzern
 
 
-*    *   P1-006
-
-    *   Übertragung und Verwendung der Maut-Basisdaten (SST 003)
-
-    *   Korrektheit der Übernahme der erhaltenen Maut-Basisdaten übergreifend
-        prüfen
-
-
-*    *   P1-007
-
-    *   Austausch von sicherheitsrelevanten Objekten (SST 004)
-
-    *   korrekter Austausch und Verwendung sicherheitsrelevanter Objekte
-
-
-*    *   P1-008
-
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten (SST 006)
-
-    *   fachliche Korrektheit der abschnittsbezogenen Erhebungsdaten
-
-
-*    *   P1-009
-
-    *   Erzeugung von Mautbuchungsnachweisen (SST 007)
-
-    *   fachliche Korrektheit der Mautbuchungsnachweise
-
-
-*    *   P1-010
+*    *   P1- SSP-007
 
     *   Erzeugung von Tagesberichten (SST 008)
 
     *   fachliche Korrektheit der Tagesberichte
 
 
-*    *   P1-011
+*    *   P1-SSP-008
+        (optional)
 
-    *   Abfrage des technischen Zustands eines Bordgeräts (SST 016)
+    *   Übertragung der Mautbasisdaten (SST 003) an den EETS-Anbieter
 
-    *   fachliche Korrektheit der übertragenen Daten zum technischen Zustand
-        des Bordgeräts
-
-
-*    *   P1-012
-
-    *   Kontrolle (DSRC SST 301)
-
-    *   Korrektheit der DSRC-Daten
+    *   Technische Funktionsfähigkeit der Übermittlung der Mautbasisdaten an
+        den EETS-Anbieter. Die Durchführung ist optional, in Abhängigkeit
+        davon, ob der EETS-Anbieter die Umsetzung der Schnittstelle
+        beabsichtigt.
 
 
 
 
-Tabelle 4: Liste der Prüfszenarien für Phase 1 – Schnittstellentest
+**Tabelle 3: Liste der Prüfszenarien für Phase 1 –
+Schnittstellenprüfung**
+
+Im Prüfkatalog „Schnittstellenprüfung“ Anlage [1] finden sich die
+relevanten Informationen und Definitionen zu den in den oben
+aufgeführten Prüfszenarien gruppierten Prüffällen.
+
+**4.4.2 Kompatibilitätstests**
+
+Für die Kompatibilitätstests - Phase 1 definiert der nationale
+Mautbetreiber im Auftrag des Mauterhebers Prüffälle für die
+durchzuführenden Prüfungen, die in folgende Szenarien gruppiert sind:
+
+*    *   **Prüfszenario**
+
+    *   **Bezeichnung**
+
+    *   **Schwerpunkt der Prüfung**
 
 
-Im Prüfkatalog finden sich die relevanten Informationen und
-vollständigen Definitionen zu den in den oben aufgeführten
-Prüfszenarien gruppierten Prüffallvorgaben:
-
-*    *   ID:
-
-    *   eindeutige Kennzeichnung der Prüffallvorgabe
+*    *   DSRC - Kompatibilitätstests
 
 
-*    *   Beschreibung:
+*    *   P1-KTD-001
 
-    *   fachliche Beschreibung der Prüffallvorgabe
+    *   Betriebliche DSRC-Kompatibilitätstests der SST 301 – DSRC-
+        Kommunikation
 
-
-*    *   Prüfkriterien:
-
-    *   Prüfkriterien, die vom EETS-Anbieter zu prüfen sind
-
-
-*    *   Vorbedingungen:
-
-    *   vor Start der Durchführung einer Prüffallvorgabe herzustellender
-        Zustand
+    *   Einhaltung der betrieblichen und technischen Vorgaben der DSRC-
+        Kommunikation
 
 
-*    *   Erwartetes Ergebnis:
+*    *   P1-KTD-002
 
-    *   nach Durchführung der Prüffallvorgabe vorliegendes Ergebnis
+    *   Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-Kommunikation
 
-
-*    *   Eingabedaten:
-
-    *   für die Durchführung der Prüffallvorgabe notwendige Daten
+    *   Korrekte fachliche Belegung der Informationen und Attribute der DSRC-
+        Kommunikation
 
 
-*    *   Akteur:
-
-    *   die für die Prüffall-Durchführung aktiv Tätigen
+*    *   MED - Kompatibilitätstests
 
 
-*    *   Bemerkungen:
+*    *   P1-KTM-001
 
-    *   zusätzliche Informationen zur Prüffallvorgabe
+    *   Ortungstests der Bordgeräte
+
+    *   Prüfung der Einhaltung der Anforderungen an die Ortungsqualität
+
+
+*    *   P1-KTM-002
+
+    *   Erhebungstest unter Alltagsbedingungen
+
+    *   Empfang und fachliche Korrektheit der Fahrspuren, Übermittlung von
+        Mautbuchungsnachweisen, Übermittlung Auffälligkeiten bei Bordgeräten
 
 
 
 
-Tabelle 5: Struktur der Prüffallvorgaben
+**Tabelle 4: Liste der Prüfszenarien für Phase 1 –
+Kompatibilitätstests**
 
-4\.5 Quality Gate – QG 2
+In den Prüfkatalogen „Kompatibilitätstests“ Anlage [2] und [3] finden
+sich die relevanten Informationen und Definitionen zu den in den oben
+aufgeführten Prüfszenarien gruppierten Prüffällen.
 
-Für das Bestehen der Schnittstellenprüfung und den Übergang in die
-nächste Prüfphase gelten die in Nummer 2.8 genannten Kriterien.
+**4.5 Quality Gate - QG 2**
 
+Für das Bestehen der Phase 1 des Prüfblocks 2 und den Übergang in die
+nächste Prüfphase gelten die in Abschnitt 2.8 genannten Kriterien.
 
-## **5 Probebetrieb (Prüfblock 2 – Phase 2)**
+**5 Probebetrieb (Prüfblock 2 - Phase 2)**
 
-5\.1 Prüfgegenstand und Ziel
+**5.1 Prüfgegenstand und Ziel**
 
 Im Rahmen des Probebetriebs (Phase 2) erfolgt eine Überprüfung des
 Teilsystems des EETS-Anbieters, für die der Mauterheber ein
@@ -4259,7 +4996,7 @@ wirkbetriebsnahes Erprobungssystem und der EETS-Anbieter ein
 wirkbetriebsnahes Erprobungssystem oder sein Wirkbetriebssystem
 verwenden.
 
-Voraussetzung für die Aufnahme der Phase 2 ist der in Nummer 4.5
+Voraussetzung für die Aufnahme der Phase 2 ist der in Abschnitt 4.5
 beschriebene, erfolgreiche Abschluss der Phase 1 und die Verfügbarkeit
 der für den Probebetrieb benötigten Ressourcen.
 
@@ -4270,14 +5007,21 @@ Sicherstellung, dass das Teilsystem des EETS-Anbieters das nationale
 deutsche Mautsystem und die Teilsysteme anderer EETS-Anbieter nicht
 negativ beeinflusst.
 
+Im Rahmen des Probebetriebs werden Ende-zu-Ende Prozesse durchgeführt,
+wie sie auch im späteren Produktivbetrieb auftreten. Diese Prozesse
+umfassen technische und organisatorische Abläufe.
+
 Der erfolgreiche Abschluss der Phase 2 ist Voraussetzung für den
 Eintritt in die dritte Prüfphase, den Pilotbetrieb.
 
-5\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+**5.2 Prüforganisation, -umgebung und Rahmenbedingungen**
 
 Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die
-Durchführung und Koordinierung der Prüfaktivitäten. Mauterheber und
-EETS-Anbieter sorgen dafür, dass die jeweils genannten
+Durchführung und Koordinierung der Prüfaktivitäten. Der Mauterheber
+benennt seinerseits entsprechende Ansprechpartner für den
+Probebetrieb.
+
+Mauterheber und EETS-Anbieter sorgen dafür, dass die jeweils genannten
 Verantwortlichen für den gesamten Probebetrieb zur Verfügung stehen.
 
 Die Probebetriebsumgebung unterstützt alle für diese Prüfphase
@@ -4288,36 +5032,40 @@ Der EETS-Anbieter stellt dazu sein wirkbetriebsnahes Erprobungssystem
 oder alternativ sein Wirkbetriebssystem zur Verfügung, welches über
 die technischen Schnittstellen an das wirkbetriebsnahe
 Erprobungssystem des Mauterhebers angebunden wird. Zu diesem Zweck
-werden zwischen EETS-Anbieter und Mauterheber die notwendigen
-Systemzugangsschlüssel und weitere notwendige und sicherheitsrelevante
-Informationen ausgetauscht.
-
-Nach erfolgter Anbindung der Systeme wird die Funktionsfähigkeit der
+werden zwischen EETS-Anbieter und Mauterheber sowie dem nationalen
+Mautbetreiber die notwendigen Systemzugangsschlüssel und weitere
+notwendige und sicherheitsrelevante Informationen ausgetauscht. Nach
+erfolgter Anbindung der Systeme wird die Funktionsfähigkeit der
 Probebetriebsumgebung verifiziert, erst dann können die Prüfungen
 beginnen.
 
-Die Prüfungen werden durch Fahrten im mautpflichtigen Streckennetz,
-Teilen des nicht mautpflichtigen Streckennetzes und auf ausgewählten
-Referenzstrecken durchgeführt. Die genaue Ausprägung der Fahrten wird
-im vom EETS-Anbieter vorgelegten Prüfprogramm abgestimmt und
-festgelegt.
+Die Durchführung der Prüffälle des Probebetriebs auf Grundlage der vom
+Mauterheber bereitgestellten Prüfspezifikation erfolgt durch den EETS-
+Anbieter. Die Prüfungen werden unter anderem durch Fahrten auf
+ausgewählten Referenzstrecken durchgeführt, die sowohl Teile des
+mautpflichtigen und des nicht-mautpflichtigen Streckennetzes
+enthalten.
 
-Für die Durchführung der anteiligen Befahrung des mautpflichtigen
-Streckennetzes kann der EETS-Anbieter PKW mit eingebautem Bordgerät
-einsetzen. Allerdings ist für das Prüfszenario P2-005 „korrekte
-Kontrollprozesse“ zwingend der Einsatz von mautpflichtigen LKWs
-vorzusehen.
+Die Referenzstrecken sind in den entsprechenden Prüffällen des
+Prüfszenarios P2-001 festgelegt und in der Prüfspezifikation
+dokumentiert, welche den Prüfkatalog „Probebetrieb“ Anlage [4]
+konkretisiert.
 
-5\.3 Übersicht Prüfszenarien
+Für die Durchführung der Befahrungen der Referenzstrecken des
+mautpflichtigen Streckennetzes kann der EETS-Anbieter PKW mit
+eingebautem Bordgerät einsetzen. Allerdings ist für das Prüfszenario
+P2-005 „korrekte Kontrollprozesse“ zwingend der Einsatz von
+mautpflichtigen LKWs vorzusehen.
+
+**5.3 Übersicht Prüfszenarien**
 
 Die in der folgenden Tabelle dargestellten Szenarien bilden die
-Grundlage für die Prüfungen, die im Rahmen des Programms zur
-Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und
+Grundlage für die Prüfungen, die im Rahmen des Probebetriebs
 durchgeführt werden müssen.
 
-*    *   Prüfszenario
+*    *   **Prüfszenario**
 
-    *   Beschreibung
+    *   **Beschreibung**
 
 
 *    *   P2-001
@@ -4337,7 +5085,7 @@ durchgeführt werden müssen.
 
 *    *   P2-004
 
-    *   Änderung der Maut-Basisdaten
+    *   Szenario ist entfallen
 
 
 *    *   P2-005
@@ -4347,954 +5095,249 @@ durchgeführt werden müssen.
 
 
 
-Tabelle 6: Liste der Prüfszenarien für Phase 2 – Probebetrieb
+**Tabelle 5: Liste der Prüfszenarien für Phase 2 – Probebetrieb**
+
+Um einen Überblick über die Inhalte der Prüfphase zu geben, werden in
+den folgenden Abschnitten die einzelnen Prüfszenarien beschrieben. Die
+detaillierten Vorgaben zu den durchzuführenden Prüffällen, wie z.B.
+die jeweils zu erreichenden Ergebnisse, ergeben sich aus der
+Prüfspezifikation, welche den Prüfkatalog „Probebetrieb“ Anlage [4]
+konkretisiert. Übergreifend gelten für alle Szenarien die Inhalte des
+Abschnitts 5.2.
 
-In den folgenden Nummern werden die einzelnen Prüfszenarien
-beschrieben. Übergreifend gelten für alle Szenarien die Inhalte der
-Nummer 5.2.
+**5.3.1 P2-001 – korrekte Mauterhebung**
 
-5\.3.1 P2-001 – korrekte Mauterhebung
 
-In diesem Szenario wird geprüft, ob die Mauterhebung als
-übergreifender Prozess technisch funktioniert und fachlich korrekt
-erfolgt. Es werden Fahrtests auf Basis einer abgestimmten
-Streckenplanung im realen Streckennetz durchgeführt, mit dem Ziel, die
-erforderlichen Prüfkriterien abzudecken. Der EETS-Anbieter stellt
-Fahrzeuge mit eingebautem Bordgerät inklusive Fahrpersonal in
-ausreichender Anzahl zur Verfügung.
+*    *   **Ziel**
 
-Der Mauterheber behält sich vor, einige Fahrzeuge des EETS-Anbieters
-parallel mit Geräten für Referenzmessungen auszustatten. Er behält
-sich ebenfalls vor, Prüffahrten zu begleiten. Während des
-Probebetriebs werden Kontrollen auf Basis der Kontrollprozesse des
-Mauterhebers durchgeführt. Sie dienen dazu, die Mauterhebung und die
-Abrechnungsdaten zu verifizieren.
+    *   In diesem Szenario wird geprüft, ob der Prozess der Mauterhebung
+        technisch funktioniert und fachlich korrekt erfolgt. Es beginnt mit
+        der Durchführung von Befahrungen auf dem mautpflichtigen Streckennetz
+        und schließt mit der Übermittlung der Mautbuchungsnachweise an den
+        EETS-Anbieter ab. Die im Rahmen des Prüfszenarios durchzuführenden
+        Prüffälle ergeben sich aus dem Prüfkatalog „Probebetrieb“ Anlage [4].
 
-Die Auswertung der erhobenen Daten erfolgt auf Einzeldatenbasis.
 
-Das Prüfszenario ist in zwei Teile unterteilt:
+*    *   **Durchführung**
 
-Teil A): Durchführung von Fahrten auf dem mautpflichtigen Streckennetz
+    *   Es werden Befahrungen mit einer Testflotte im realen Streckennetz
+        durchgeführt. Die Befahrungen umfassen Fahrten auf vorgegebenen
+        Referenzstrecken sowie Fahrmanöver, die verschiedene typische
+        Konstellationen des Streckennetzes und der mautpflichtigen Fahrzeuge
+        abbilden (z.B. Änderung Deklarationsparameter, Fahrzeuge mit
+        zulässigem Gesamtgewicht unterhalb der Mautpflichtgrenze). Der EETS-
+        Anbieter übermittelt die Fahrspuren an den Mauterhebungsdienst des
+        nationalen Mautbetreibers. Ausgehend von den vom EETS-Anbieter an den
+        nationalen Mautbetreiber übermittelten Fahrspuren findet bei diesem
+        die Erstellung von Mautbuchungsnachweisen statt.
+        Die Mautbuchungsnachweise werden vom nationalen Mautbetreiber zurück
+        an den EETS-Anbieter übermittelt. Weiterhin werden abschnittsbezogene
+        Erhebungsdaten und Mautbuchungsnachweise vom nationalen Mautbetreiber
+        an den Mauterheber gesendet.
 
 
-Teil B): Durchführung von nicht mautpflichtigen Fahrten.
 
+**5.3.2 P2-002 – korrekte Abrechnung und Auskehr**
 
 
+*    *   **Ziel**
 
-5\.3.1.1 Vorgaben für die Prüffälle
+    *   In diesem Szenario wird geprüft, ob der Abrechnungsprozess und die
+        Auskehr der Mauteinnahmen korrekt funktioniert. Weiterhin wird die
+        korrekte Anwendung des Vergutschriftungsprozesses zur Korrektur von im
+        Mauterhebungsdienst entstandenen Fehlvergebührungen geprüft. Das
+        Prüfszenario weist nach, dass durch das Zusammenwirken von nationalem
+        Mautbetreiber, EETS-Anbieter und Mauterheber inklusive des Austauschs
+        der notwendigen Informationen eine korrekte Abrechnung gegenüber dem
+        Nutzer und eine vollständige Auskehr an den Mauterheber sichergestellt
+        wird.
+        Die Abrechnung und die Auskehr von Mauteinnahmen wird in diesem
+        Szenario simuliert. Es findet keine Abrechnung und keine Auskehr
+        echter Mautbeträge statt.
+        Die im Rahmen des Prüfszenarios durchzuführenden Prüffälle ergeben
+        sich aus dem Prüfkatalog „Probebetrieb“ Anlage [4].
 
-Die folgenden Vorgaben müssen mindestens in den vom EETS-Anbieter zu
-erstellenden Prüffällen berücksichtigt werden:
 
-Vorgaben für Teil A – Fahrten auf dem mautpflichtigen Streckennetz:
+*    *   **Durchführung**
 
-1.  Befahrung von mindestens 10 % des mautpflichtigen Streckennetzes
+    *   Der EETS-Anbieter simuliert für die im Szenario P2-001 erzeugten
+        Mautbuchungsnachweise die Auskehr der Mautbeträge und übermittelt die
+        E-Mail mit dem Ist-Auskehrbetrag sowie die entsprechenden
+        Tagesberichte als übergreifenden Prozess regelmäßig an den
+        Mauterheber. Für die Prüfung des Vergutschriftungsprozesses führt der
+        EETS-Anbieter Befahrungen des mautpflichtigen Streckennetzes durch,
+        für die entsprechende Mautbuchungsnachweise erzeugt und an den EETS-
+        Anbieter vom MED übermittelt werden.
+        Für einzelne Abschnitte der Befahrungen wird simuliert, dass deren
+        Widmung zum mautpflichtigen Streckennetz fehlt, so dass sie
+        fälschlicherweise als mautpflichtig erkannt wurden.
+        Der nationale Mautbetreiber übermittelt dem EETS-Anbieter und dem
+        Mauterheber die Information über die Fehlvergebührungen. Der EETS-
+        Anbieter bewertet die Abrechnungs- und Auskehrstatus der Fahrten und
+        führt entsprechende Korrekturen in Form einer Vergutschriftung durch
+        oder er passt den Abrechnungsbetrag gegenüber dem Nutzer bzw. den
+        Auskehrbetrag an den Mauterheber an.
 
 
-2.  Fahrten auf besonderen Strecken:
 
-    –   4-streifige Bundesstraßen
+**5.3.3 P2-003 – Überwachung des EETS-Anbieters**
 
 
-    –   2-streifige Bundesstraßen
+*    *   **Ziel**
 
+    *   Ziel dieses Prüfszenarios ist es, einerseits die technisch und
+        fachlich korrekte Durchführung der Überwachungsprozesse des EETS-
+        Anbieters gemäß SST 013 zu prüfen (im Folgenden Teil A), andererseits
+        die Auswirkungen von möglichen Störungen im System des EETS-Anbieters
+        auf den Mauterheber zu prüfen (im Folgenden Teil B). Dazu werden zwei
+        Prüfziele gesetzt:
 
-    –   Sonnborner Kreuz mit vier verschiedenen Fahrtkombinationen
+        *Teil A)* *Prüfungen im Regelbetrieb*
 
+            1.  Prüfung der technisch und fachlich korrekten Implementierung der
+                Überwachungsprozesse beim EETS-Anbieter in einem dauerhaften
+                Regelbetrieb
 
-    –   Kreuz Wuppertal-Nord mit vier verschiedenen Fahrtkombinationen
 
+            2.  Prüfung der Anwendung der SST 013
 
-    –   Maschener Kreuz mit vier verschiedenen Fahrtkombinationen
 
 
-    –   Baustellen
 
 
-    –   Wenden an Rastplätzen mit Wendemöglichkeit
+        *Teil B)* *Prüfungen im Störungsbetrieb*
 
+            1.  Prüfung der Überwachungsprozesse und des Monitorings bei Systemausfall
+                des EETS-Anbieters durch Auslösung von Störungen
 
-    –   mindestens drei Tunneldurchfahrten mit mindestens je 500 m Länge,
-        davon eine mit einer Abzweigung im Tunnel.
 
+            2.  Prüfung der internen Überwachung des EETS-Anbieters durch Auslösung
+                von Störungen
 
 
+            3.  Prüfung der Anwendung der SST 016
 
 
-3.  Bei den durchzuführenden Fahrten sollen alle Gewichts-, Schadstoff-
-    und Achsklassen angewendet werden. Es sind jedoch nicht alle denkbaren
-    Kombinationen erforderlich.
 
 
-4.  Bei den durchzuführenden Fahrten ist jeweils auf einem Parkplatz durch
-    Aufnahme und durch Abhängen eines Anhängers die Achs- und
-    Gewichtsklasse zu ändern.
 
 
-5.  Nachstehende Fälle sind zu berücksichtigen: Fahrzeugverkauf mit
-    Bordgerät, Tausch des Bordgeräts in einem Fahrzeug, Weitergabe des
-    Bordgeräts an ein anderes Fahrzeug. Diesbezügliche Fahrten sind vor
-    und nach den Fällen durchzuführen.
+        Die im Rahmen des Prüfszenarios durchzuführenden Prüffälle ergeben
+        sich aus dem Prüfkatalog „Probebetrieb“ Anlage [4].
 
 
-6.  Es ist eine Fahrtunterbrechung auf einem Autobahnparkplatz von
-    mindestens 72 Stunden vorzusehen, die zu einer Zwangsbeendigung der
-    Fahrt führt.
+*    *   **Durchführung**
 
+    *
+        Teil A):
+            1.  Der EETS-Anbieter überwacht sein Teilsystem und alle von ihm
+                eingesetzten Bordgeräte. Die von ihm dabei gesammelten Daten werden
+                zur Erstellung des Reports verwendet, der über die organisatorische
+                SST 013 an den Mauterheber übermittelt wird.
 
 
 
-Vorgaben für Teil B – nicht mautpflichtige Fahrten:
 
-7.  drei Fahrten auf nicht mautpflichtigen Strecken, die parallel zu
-    mautpflichtigen Strecken verlaufen
 
+        Teil B):
+            1.  Der EETS-Anbieter führt technische Störungen an den Komponenten seines
+                Teilsystems durch, deren Auftreten durch die Prozesse des Mauterhebers
+                (in Bezug auf Schnittstellen zwischen den Zentralsystemen) und den
+                nationalen Mautbetreiber (in Bezug auf die Bordgeräte) nachvollzogen
+                werden kann.
 
-8.  Fahrten mit Fahrzeugen, die in Deutschland nicht mautpflichtig sind,
-    aber trotzdem eine aktive EETS-OBU haben, da sie in anderen Ländern
-    mautpflichtig sind.
 
+            2.  Die beim EETS-Anbieter aufgetretenen Störungen werden zur Erstellung
+                des Reports herangezogen, der über die organisatorische SST 013 an den
+                Mauterheber übermittelt wird.
 
 
+            3.  Der Mauterheber fragt Informationen zum technischen Zustand eines
+                Bordgeräts an, die der EETS-Anbieter über die organisatorische
+                Schnittstelle SST 016 bereitstellt.
 
-5\.3.1.2 Kriterien
 
-Voraussetzung für das Bestehen des Prüfszenarios ist die Erfüllung
-aller Vorgaben und der nachstehenden Kriterien:
+            4.  Die Durchführung der Prüffälle zum Teil B) des Prüfszenarios darf
+                nicht parallel zu den restlichen Szenarien des Probebetriebs erfolgen,
+                da negative Auswirkungen auf deren Testverlauf nicht ausgeschlossen
+                werden können. Sinnvoll ist eine Durchführung am Ende des
+                Probebetriebs.
 
-–   korrekte Erkennung und Mauterhebung auf Basis der einzelnen
-    mautpflichtigen und nicht mautpflichtigen Streckenabschnitte
-    (getrennte Ermittlung der Maut für jeden Streckenabschnitt)
 
 
-–   nicht mautpflichtige Fahrzeuge dürfen keine Maut erheben
 
 
-–   korrekte Anwendung der Mautrundungsregel
 
 
-–   korrekte Zuordnung von genau einem Mautbuchungsnachweis zu einer Fahrt
 
 
-–   eineindeutige Zuordnung von Kennzeichen (inkl. Nationalität) und
-    Fahrzeug
+**5.3.4 P2-005 – korrekte Kontrollprozesse**
 
 
-–   eineindeutige Zuordnung von Bordgerät zu Fahrzeug
+*    *   **Ziel**
 
+    *   In diesem Szenario wird geprüft, ob der Ende-zu-Ende Prozess der
+        Kontrolle und Ahndung technisch funktioniert und fachlich korrekt
+        erfolgt. Das Prüfszenario umfasst die DSRC-Kommunikation des
+        Bordgerätes, die Erfassung des LKW durch die automatischen
+        Kontrolleinrichtungen und die Bereitstellung von Halter- und
+        Fahrzeuginformationen über die Schnittstellen 002b und 002c für
+        entstehende Kontrollfälle als Unterstützung des vom Mauterheber
+        durchzuführenden Ahndungsprozesses.
+        Die im Rahmen des Prüfszenarios durchzuführenden Prüffälle ergeben
+        sich aus dem Prüfkatalog „Probebetrieb“ Anlage [4].
 
-–   Bereitstellung der Daten an den Schnittstellen gemäß
-    Schnittstellenspezifikation.
 
+*    *   **Durchführung**
 
+    *   Die Korrektheit des Ende-zu-Ende Prozesses der Kontrolle und Ahndung
+        wird im Rahmen von Fahrten mit Kontrollen im realen Verkehr geprüft.
+        Dazu werden vom EETS-Anbieter verschiedene Fahrten durchgeführt, bei
+        denen eine automatische Kontrolle (Sachverhaltsermittlung) erfolgt,
+        welche aufgrund der Deklaration des Bordgeräts einen Kontrollfall
+        verursacht. Sodann wird der Kontrollfall vom nationalen Mautbetreiber
+        im Rahmen der Sachverhaltsfeststellung geprüft und nachbearbeitet.
+        Der Kontrollfall wird im Anschluss weiter an den Mauterheber
+        übermittelt, wobei systemseitig die für die Ahndung des Kontrollfalls
+        benötigten Informationen aus dem Zentralsystem des EETS-Anbieters
+        abgefragt werden.
 
 
-5\.3.1.3 Vorbereitung
 
-Vorbereitung des EETS-Anbieters
-
-–   Planung der einzelnen Prüffahrten in Bezug auf die Vorgaben pro Fahrt
-
-
-–   Erstellung einer Streckenplanung unter Angabe der einzusetzenden
-    technischen und personellen Ressourcen und Übermittlung der Planung an
-    den Mauterheber.
-
-
-
-
-Vorbereitung des Mauterhebers
-
-–   Bereitstellung und Einbau von Geräten für Referenzmessungen (parallel
-    zu den Bordgeräten des EETS-Anbieters)
-
-
-–   Abstimmung der Planung mit dem EETS-Anbieter.
-
-
-
-
-5\.3.1.4 Durchführung
-
-Durchführung EETS-Anbieter
-
-–   Der EETS-Anbieter führt die Prüffahrten auf Basis der abgestimmten
-    Streckenplanung hinsichtlich aller Prüfkriterien sowie für Teil A als
-    auch für Teil B durch.
-
-
-
-
-Durchführung Mauterheber
-
-–   gegebenenfalls Begleitung der Prüffahrten.
-
-
-
-
-5\.3.1.5 Bewertung
-
-Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
-
-Prüfung des EETS-Anbieters
-
-Der EETS-Anbieter gleicht mindestens folgende Daten pro Fahrt
-miteinander ab:
-
-–   Solldaten (sämtliche Details zur Streckenvorgabe und zum erwarteten
-    Ergebnis einer Prüffahrt)
-
-
-–   Übereinstimmung der abschnittsbezogenen Erhebungsdaten mit den Angaben
-    in den Mautbuchungsnachweisen
-
-
-–   Abgleich der Zeitstempel in allen Daten, die an den Schnittstellen
-    übergeben werden.
-
-
-
-
-Ausgewiesen werden müssen mindestens die Details pro Fahrt, die zum
-Nachweis der Prüfkriterien (siehe Nummer 5.3.2.3) erforderlich sind.
-Die Bereitstellung von zusätzlichen Daten (z. B. Logdateien) durch den
-EETS-Anbieter ist erlaubt, falls sie zur angemessenen Bewertung des
-Prüffalls beitragen.
-
-Es ist vom EETS-Anbieter nachzuweisen, dass mindestens 10 % des
-mautpflichtigen Streckennetzes befahren wurden.
-
-Der EETS-Anbieter stellt dem Mauterheber das Ergebnis gemäß Anhang A
-zur Verfügung.
-
-Prüfung des Mauterhebers
-
-Der Mauterheber prüft folgende Punkte:
-
-–   Auswertung des EETS-Anbieters über die korrekte Mauterhebung
-
-
-–   Abgleich der abschnittsbezogenen Erhebungsdaten und der
-    Mautbuchungsnachweise im wirkbetriebsnahen Erprobungssystem
-
-
-–   gegebenenfalls zur jeweiligen Prüffahrt gehörige Daten der Geräte für
-    die Referenzmessung.
-
-
-
-
-5\.3.2 P2-002 – korrekte Abrechnung und Auskehr
-
-In diesem Prüfszenario wird die korrekte Abrechnung sowie die korrekte
-Auskehr an den Mauterheber auf Einzeldatenbasis mit realen Fahrdaten
-geprüft. Die Datenbasis der Fahrten, die im Prüfszenario P2-001
-durchgeführt werden, kann verwendet werden.
-
-Der EETS-Anbieter prüft den Tagesbericht mit sämtlichen
-rechnungsbegründenden Unterlagen (Mautbuchungsnachweisen) gegen den
-ausgekehrten Betrag auf dem Abwicklungskonto. Zudem erfolgt ein
-Abgleich mit den abschnittsbezogenen Erhebungsdaten. Die Prüfung
-erfolgt auf Einzeldatenbasis, damit der übergreifende Prozess von der
-Mauteinnahme bis zur Auskehr nachverfolgt werden kann. Gegebenenfalls
-müssen Prozessschritte bei Banken simuliert werden, das heißt
-Einnahmen und Zahlungseingänge müssen simuliert werden, um den Prozess
-mit realen Wertstellungsfristen vollständig abzudecken. Das
-Prüfszenario wird ohne realen Geldverkehr durchgeführt.
-
-Es sind sämtliche Fristen zur Auskehr und Wertstellung zu
-berücksichtigen. Es werden ausschließlich reale Fristen geprüft,
-Fristverkürzungen sind nicht vorgesehen.
-
-Die Prüfung erfolgt mit realen Fahrdaten und realen, im System
-hinterlegten Fristen zur Wertstellung. Eine Simulation ist nur dann
-zulässig, wenn dies vorher mit dem Mauterheber abgestimmt wurde, und
-zwar dann, wenn ein Zahlungsverkehr Geldfluss/Zahlungseingänge
-vorgesehen ist, das Prüfszenario ansonsten aber ohne realen
-Geldverkehr abläuft.
-
-5\.3.2.1 Vorgaben für die Prüffälle
-
-Die folgenden Vorgaben müssen in den vom EETS-Anbieter zu erstellenden
-Prüffällen berücksichtigt werden:
-
-Manuelle Korrektur abrechnungsrelevanter Daten:
-
-–   manuelle Korrektur von abrechnungsrelevanten Daten, bevor diese an den
-    Mauterheber übermittelt worden sind
-
-
-–   manuelle Korrektur von abrechnungsrelevanten Daten, nachdem diese an
-    den Mauterheber übermittelt worden sind
-
-
-–   manuelle Korrektur von abrechnungsrelevanten Daten, bevor diese an den
-    Mauterheber übermittelt worden sind, bei erneuter Veränderung
-    (Durchführung der Korrektur von bereits korrigierten Daten)
-
-
-–   Berücksichtigung von möglichen Fehlerquellen aus der Mauterhebung (z.
-    B. Verwendung einer unbekannten Abschnitts-ID).
-
-
-
-
-5\.3.2.2 Kriterien
-
-Prüfkriterien für die Korrektheit der Abrechnung
-
-–   Berechnung erfolgt in Euro
-
-
-–   Übereinstimmung der abschnittsbezogenen Erhebungsdaten mit den Angaben
-    in den Mautbuchungsnachweisen und dem Tagesbericht
-
-
-–   Übereinstimmung der Details des simulierten Zahlungseingangs mit der
-    Summe auf dem Abwicklungskonto.
-
-
-
-
-Prüfkriterien für die Korrektheit der Auskehr
-
-–   fachlich korrekte, vollständige und fristgerechte Auskehr des
-    Gesamtbetrags
-
-
-–   korrekte Berücksichtigung aller Wertstellungsfristen und Fälligkeiten
-    für das Abwicklungskonto
-
-
-–   regelmäßige Erstellung und fristgerechte Übermittlung des
-    Tagesberichts (spätestens 15.00 Uhr MEZ)
-
-
-–   regelmäßige Erstellung und Übermittlung der dazugehörigen,
-    rechnungsbegründenden Unterlagen (Mautbuchungsnachweise).
-
-
-
-
-5\.3.2.3 Vorbereitung
-
-Vorbereitung des EETS-Anbieters
-
-–   Planung des Prüfszenarios auf Basis der erwarteten Datenbasis aus
-    P2-001
-
-
-–   alternativ: Planung der einzelnen Prüffahrten in Bezug auf die
-    Vorgaben.
-
-
-
-
-Vorbereitung des Mauterhebers
-
-–   Einrichtung und Einbindung eines Abwicklungskontos für EETS-Anbieter
-
-
-–   Vorbereitung der Simulation von Eingangs-Zahlverkehr (z. B.
-    Austauschen der Bankverbindung mit dem EETS-Anbieter).
-
-
-
-
-5\.3.2.4 Durchführung
-
-Der EETS-Anbieter führt die Auskehr an den Mauterheber als
-übergreifenden Prozess regelmäßig und mit realen Wertstellungsfristen
-durch. Alle zur Prüfung relevanten Daten für die Auskehr werden
-prozesskonform verarbeitet. Der EETS-Anbieter übermittelt eine E-Mail
-mit den normalerweise in einer Überweisung enthaltenen Daten.
-Anschließend erfolgt die Auswertung der Daten.
-
-5\.3.2.5 Bewertung
-
-Der EETS-Anbieter gleicht folgende Daten pro Prüffahrt miteinander ab:
-
-–   Details der abschnittsbezogenen Erhebungsdaten
-
-
-–   Details des Mautbuchungsnachweises pro Fahrt
-
-
-–   Details des Tagesberichts pro Fahrt
-
-
-–   Der EETS-Anbieter stellt dem Mauterheber das Ergebnis gemäß Anhang A
-    zur Verfügung.
-
-
-
-
-Der Mauterheber prüft folgende Punkte:
-
-–   Auswertung des EETS-Anbieters über die korrekte Abrechnung und Auskehr
-
-
-–   Abgleich der Mautbuchungsnachweise mit der simulierten Überweisung.
-
-
-
-
-5\.3.3 P2-003 – Überwachung des EETS-Anbieters
-
-Ziel dieses Prüfszenarios ist es, einerseits die technisch und
-fachlich korrekte Durchführung der Überwachungsprozesse des EETS-
-Anbieters gemäß SST 013 zu prüfen (im Folgenden Teil A), andererseits
-die Auswirkungen von möglichen Störungen im System des EETS-Anbieters
-auf den Mauterheber zu prüfen (im Folgenden Teil B). Dazu werden zwei
-Prüfziele gesetzt:
-
-Teil A: Prüfungen im Regelbetrieb
-
-–   Prüfung der technisch und fachlich korrekten Implementierung der
-    Überwachungsprozesse beim EETS-Anbieter in einem dauerhaften
-    Regelbetrieb
-
-
-–   Prüfung der Anwendung der SST 013.
-
-
-
-
-Teil B: Prüfungen im Störungsbetrieb
-
-–   Prüfung der Überwachungsprozesse und des Monitoring bei Systemausfall
-    des EETS-Anbieters durch Auslösung von Störungen
-
-
-–   Prüfung der internen Überwachung des EETS-Anbieters durch Auslösung
-    von Störungen.
-
-
-
-
-Dieses Prüfszenario sollte nicht parallel zu den restlichen Szenarien
-der Prüfphase durchgeführt werden, da negative Auswirkungen auf deren
-Testverlauf nicht ausgeschlossen werden können. Sinnvoll ist eine
-Durchführung am Ende der Prüfphase.
-
-5\.3.3.1 Vorgaben für die Prüffälle
-
-Die folgenden Vorgaben müssen in den vom EETS-Anbieter zu erstellenden
-Prüffällen berücksichtigt werden:
-
-–   Durchführung von Störungen in Teilbereichen des Teilsystems des EETS-
-    Anbieters, die von der Überwachung betroffen sind (dezentrale und
-    zentrale Systeme, Einrichtungen und Prozesse)
-
-
-–   Durchführung von Störungen an den Schnittstellen des Teilsystems des
-    EETS-Anbieters zum Teilsystem des Mauterhebers
-
-
-–   Durchführung von Störungen an den Bordgeräten (z. B. Unterbrechung der
-    Stromversorgung, Abdeckung des GSM- und GPS-Signals)
-
-
-–   Es werden alle Bordgeräte verwendet, die in den anderen Szenarien der
-    Prüfphase 2 eingesetzt wurden
-
-
-–   Verwaltung aller Soft- und Hardware Konfigurationsstände
-    Die Bordgeräte werden überwacht, Änderungen und Fehlverhalten werden
-    dokumentiert.
-
-
-
-
-5\.3.3.2  Kriterien
-
-Für Teil A:
-
-–   regelmäßige und vollständige Bereitstellung der Überwachungsreports
-    über die SST 013, vollständiges Monitoring des EETS-Anbieters
-
-
-–   Monitoring aller Bordgeräte durch den EETS-Anbieter; bei Problemen
-    Darstellung des Fehlers.
-
-
-
-
-
-Für Teil B:
-
-–   Prüfung, dass die Betriebsbereitschaft des Teilsystems des EETS-
-    Anbieters umgehend wiederhergestellt werden kann
-
-
-–   Überwachung aller dezentralen und zentralen Systeme, Einrichtungen und
-    Prozesse durch den EETS-Anbieter.
-
-
-
-
-5\.3.3.3 Vorbereitung
-
-Vorbereitung des EETS-Anbieters
-
-–   Planung der einzelnen Störungsszenarien in Bezug auf die abzudeckenden
-    Kriterien
-
-
-–   fristgemäße Bereitstellung von Ressourcen.
-
-
-
-
-Vorbereitung des Mauterhebers
-
-–   Abstimmung der Planung mit dem EETS-Anbieter insbesondere hinsichtlich
-    Durchführung der Störungsszenarien.
-
-
-
-
-5\.3.3.4 Durchführung
-
-Durchführung durch den EETS-Anbieter
-
-Für Teil A:
-
-–   Der EETS-Anbieter kontrolliert dazu alle eingesetzten Bordgeräte und
-    steuert deren Einsatz.
-
-
-–   Er verwaltet während der gesamten Prüfphase eine Liste mit einer
-    Übersicht über alle verwendeten Bordgeräte (inkl. Hardware- und
-    Softwarestand) sowie der damit durchgeführten Prüfungen,
-    Prüfergebnisse und Fehlermeldungen sowie das Monitoring über den
-    Gesamtbestand der Bordgeräte.
-
-
-–   Es werden während der gesamten Laufzeit des Probebetriebs
-    Überwachungsdaten generiert und alle Überwachungsprozesse werden
-    angewendet.
-
-
-
-
-Für Teil B:
-
-–   Es werden auf Basis der Planung gezielte Störungen im Teilsystem des
-    EETS-Anbieters ausgelöst, die anhand der bereitgestellten
-    Überwachungsdaten plausibilisiert werden. Der EETS-Anbieter nennt dazu
-    Art und Dauer der Störung.
-
-
-
-
-Durchführung durch den Mauterheber
-
-Für Teil A:
-
-–   Der Mauterheber prüft die vollständige Bereitstellung des Reports der
-    SST 013.
-
-
-
-
-Für Teil B:
-
-–   Der Mauterheber prüft die dazugehörigen Überwachungsdaten und gleicht
-    diese mit den Störungsdaten ab.
-
-
-
-
-5\.3.3.5 Bewertung
-
-Die Auswertung erfolgt auf Basis der Überwachungsdaten und der
-Störungsinformationen des EETS-Anbieters. Zu jeder erfolgten Störung
-müssen sämtliche Überwachungsdaten vorgelegt und miteinander
-abgeglichen werden.
-
-Der EETS-Anbieter stellt dem Mauterheber das Ergebnis in Form eines
-Prüfberichts gemäß Anhang A zur Verfügung.
-
-Der Mauterheber verifiziert die Angaben des EETS-Anbieters.
-
-5\.3.3.6 Kriterien für Unterbrechung und Wiederaufnahme der Prüfungen
-
-Die Prüfungen zu Teil A können daher an sich nicht unterbrochen
-werden. Da Bordgeräte verwendet werden, die in anderen Prüfszenarien
-zum Einsatz kommen, kann es sein, dass in dem anderen Prüfszenario die
-Prüfung unterbrochen wird. Für diesen Fall sind die betroffenen
-Bordgeräte während der Unterbrechung an einem gesicherten Ort
-aufzubewahren inklusive ihres dokumentierten Software- und
-Hardwarestands.
-
-Die Prüfungen zu Teil B enthalten Störungsprüfungen, das heißt, die
-einzelnen Durchführungen der Störungen müssen einzeln vollständig
-durchgeführt und beendet worden sein. Zwischen den einzelnen
-Störungsprüfungen können jedoch Unterbrechungen sein.
-
-5\.3.4 P2-004 – Änderung der Maut-Basisdaten
-
-In diesem Szenario wird geprüft, ob die über die SST 003
-bereitgestellten Maut-Basisdaten korrekt verwendet werden. Die
-fachliche und funktionale Korrektheit muss sowohl während als auch
-nach Änderungen der Maut-Basisdaten nachgewiesen werden. Dazu wird der
-Prozess der Änderung der Maut-Basisdaten im Teilsystem des EETS-
-Anbieters vollständig durchgeführt. Der Mauterheber gibt die
-Änderungen vor.
-
-5\.3.4.1 Vorgaben für die Prüffälle
-
-Die folgenden Vorgaben müssen mindestens in den vom EETS-Anbieter zu
-erstellenden Prüffällen berücksichtigt werden:
-
-Das Prüfszenario P2-004 darf nicht während der Befahrung für P2-001
-und P2-002 durchgeführt werden, damit die Bewertung dieser Szenarien
-(aufgrund gleichbleibender Maut-Basisdaten) erleichtert wird.
-
-Es müssen Fahrten unter den folgenden Sonderkonstellationen
-durchgeführt werden:
-
-–   eine Fahrt speziell über den Gültigkeitsbeginn der neuen Betriebsdaten
-    hinaus (Start vor und Ende nach Gültigkeitsbeginn)
-
-
-–   eine Fahrt, die nach dem Gültigkeitsbeginn der neuen Betriebsdaten
-    startet
-
-
-–   es müssen Fahrten durchgeführt werden, die neue oder weggefallene
-    Abschnitte berühren.
-
-
-
-
-5\.3.4.2 Kriterien
-
-Es müssen folgende Prüfkriterien berücksichtigt werden:
-
-–   Einhaltung von Gültigkeiten (z. B. Überlappung des
-    Gültigkeitszeitraums während einer Fahrt)
-
-
-–   korrekter Abgleich von abschnittsbezogenen Erhebungsdaten,
-    Mautbuchungsnachweisen, Tagesbericht und den Daten des GPS-
-    Referenzsystems pro Bordgerät und Fahrt.
-
-
-
-
-5\.3.4.3 Vorbereitung
-
-Vorbereitung durch den EETS-Anbieter
-
-Der EETS-Anbieter stellt zur Vorbereitung sicher, dass:
-
-–   die Prüffälle auf Basis der festgelegten Kriterien spezifiziert und
-    mit dem Mauterheber abgestimmt sind,
-
-
-–   die Maut-Basisdaten vor Beginn der Änderung mit den Maut-Basisdaten
-    des Mauterhebers identisch sind und
-
-
-–   Prüffälle mit erwartetem Ergebnis zur Mauterhebung (auf Basis neuer
-    Maut-Basisdaten) festgelegt sind.
-
-
-
-
-Vorbereitung durch den Mauterheber
-
-–   Abstimmung über den Zeitpunkt der Bereitstellung und den
-    Gültigkeitsbeginn der neuen Maut-Basisdaten zwischen dem Mauterheber
-    und dem EETS-Anbieter.
-
-
-–   Der Mauterheber bereitet die Änderungen der Maut-Basisdaten zur
-    Übergabe an den EETS-Anbieter vor. Dabei werden folgende
-    Konstellationen berücksichtigt:
-
-
-–   Änderung der Tarife für existierende Abschnitte
-
-
-–   Entfernen von existierenden mautpflichtigen Abschnitten
-
-
-–   Hinzufügen neuer mautpflichtiger Abschnitte.
-
-
-
-
-5\.3.4.4 Durchführung
-
-Durchführung durch den EETS-Anbieter
-
-–   Der EETS-Anbieter stellt die Änderung in sein Teilsystem ein.
-
-
-–   Der EETS-Anbieter bereitet seine Fahrzeuge und Bordgeräte vor.
-
-
-–   Der EETS-Anbieter fährt gemäß Streckenplanung.
-
-
-
-
-Durchführung durch den Mauterheber
-
-–   Die geänderten Maut-Basisdaten werden dem EETS-Anbieter vom
-    Mauterheber über die SST 003 bereitgestellt.
-
-
-
-
-5\.3.4.5 Bewertung
-
-Der EETS-Anbieter stellt dem Mauterheber das Ergebnis seiner Bewertung
-in Form eines Prüfberichts zur Verfügung.
-
-Die Bewertung erfolgt durch den Mauterheber auf Basis der Auswertung
-der erhobenen Daten. Die Korrektheit der Maut-Basisdaten vor und nach
-Gültigkeitsbeginn wird geprüft. Die Prüfung der Vollständigkeit und
-Konsistenz der Daten erfolgt anhand von:
-
-–   abschnittsbezogenen Erhebungsdaten,
-
-
-–   korrekten Mautbuchungsnachweisen,
-
-
-–   Tagesberichten und
-
-
-–   Daten des GPS-Referenzsystems pro Bordgerät und Fahrt.
-
-
-
-
-5\.3.5 P2-005 – korrekte Kontrollprozesse
-
-Die Korrektheit der Kontrollprozesse wird im Rahmen von Fahrten mit
-Kontrollen im realen Verkehr geprüft. Dazu werden vom EETS-Anbieter
-verschiedene Fahrten zur Prüfung der DSRC-Kommunikation durchgeführt.
-
-Das Prüfszenario umfasst die Erkennung (DSRC-Kommunikation des
-Bordgerätes mit den Kontrolleinrichtungen) bis zur
-Sachverhaltsfeststellung. Dies deckt den Prozess der Datenerhebung vom
-Bordgerät des EETS-Anbieters bis zum zentralseitigen Eingang beim
-Mauterheber ab. Berücksichtigt werden alle Einrichtungen der
-automatischen, portablen und manuellen Kontrolle.
-
-Einrichtungen der Betriebskontrolle werden nicht berücksichtigt.
-
-5\.3.5.1 Vorgaben für die Prüffälle
-
-Die Prüffälle müssen mindestens die folgenden Vorgaben abdecken:
-
-–   Varianten der mautrelevanten Daten (Informationen über die
-    Erhebungsbereitschaft des Bordgeräts, alle Achs- und Gewichtsklassen,
-    eindeutige Merkmale zur Identifizierung des Fahrzeugs, Kfz-
-    Kennzeichen, Nationalität)
-
-
-–   Blacklist: Durchführung von Fahrten mit Fahrzeugen, die auf der
-    Blacklist stehen
-
-
-–   Befahrung von Strecken mit den vom Mauterheber für dieses Prüfszenario
-    bereitgestellten Kontrolleinrichtungen
-
-
-–   Fahrzeug eines gebietsfremden Nutzers
-
-
-–   Es sind, soweit verfügbar und nach Anforderung durch den Mauterheber,
-    alle Einrichtungen der Kontrolle zu berücksichtigen (automatische
-    Kontrolle, Kontrollsäule, Einrichtungen der manuellen Kontrolle und
-    portable Kontrolle).
-
-
-
-
-5\.3.5.2 Kriterien
-
-Die folgenden Prüfkriterien gelten für alle Kontrollarten:
-
-–   korrekte Funktionalität der DSRC-Schnittstelle an den Bordgeräten
-
-
-–   Fähigkeit, dass jedes mautpflichtige Fahrzeug auf jedem
-    mautpflichtigen Streckenabschnitt (Stichprobe) kontrolliert werden
-    kann
-
-
-–   Das Teilsystem des EETS-Anbieters darf das Lkw-Mautsystem des
-    Mauterhebers und insbesondere das Kontrollsystem nicht negativ
-    beeinflussen
-
-
-–   Verwendung der korrekten Zeitbasis (UTC).
-
-
-
-
-5\.3.5.3 Vorbereitung
-
-Vorbereitung durch den EETS-Anbieter
-
-–   Vorbereitung der Bordgeräte auf Basis der geforderten Vorgaben für
-    dieses Prüfszenario.
-
-
-–   Streckenplanung auf Basis der vom Mauterheber bekannt gegebenen
-    Kontrollorte zur Abdeckung der Prüfkriterien in den Prüffällen
-    (abgestimmt mit dem Mauterheber).
-
-
-–   Der EETS-Anbieter stellt eine Blacklist bereit.
-
-
-
-
-Vorbereitung durch den Mauterheber
-
-–   Bereitstellung der Kontrolleinrichtungen.
-
-
-–   Bekannt geben der Kontrollorte.
-
-
-–   Laden der Blacklist auf die Kontrolleinrichtung.
-
-
-–   Operative Unterstützung des EETS-Anbieters bei der Durchführung der
-    Prüfung.
-
-
-
-
-5\.3.5.4 Durchführung
-
-Durchführung durch den EETS-Anbieter
-
-–   Der EETS-Anbieter führt die Fahrten durch.
-
-
-
-
-Durchführung durch den Mauterheber
-
-–   Der Mauterheber bedient die Kontrolleinrichtungen.
-
-
-–   Auslesung der DSRC-Daten der Bordgeräte des EETS-Anbieters aus:
-
-    –   der automatischen Kontrolle,
-
-
-    –   der Kontrollsäule,
-
-
-    –   der stationären Kontrolle mit automatischer Vorauswahl,
-
-
-    –   der manuellen Kontrolle,
-
-
-    –   der portablen Kontrolle.
-
-
-
-
-
-–   Nutzung der DSRC-Daten zentralseitig bei der manuellen Nachbearbeitung
-    im Rahmen der Sachverhaltsfeststellung.
-
-
-–   Durchführung EETS-Halterdatenabfrage über die SST 002b und 002c.
-
-
-–   Der Mauterheber stellt dem EETS-Anbieter die von ihm erhobenen und für
-    die Auswertung der Prüfung erforderlichen DSRC-Daten zur Verfügung.
-
-
-–   Der Mauterheber dokumentiert alle während der Durchführung der
-    Prüffälle auftretenden Auffälligkeiten (z. B. fortwährende
-    Verbindungsabbrüche in der Kontrollkommunikation).
-
-
-
-
-5\.3.5.5 Bewertung
-
-Zur Auswertung werden folgende Daten miteinander abgeglichen:
-
-Der EETS-Anbieter anhand der bereitgestellten DSRC-Daten:
-
-–   Abgleich der DSRC-Daten (Informationen über die Erhebungsbereitschaft
-    des Bordgeräts, variable Mautparameter, Parameter der
-    Fahrzeugklassifizierung, eindeutige Merkmale zur Identifizierung des
-    Fahrzeugs, Kfz-Kennzeichen, Nationalität) mit den Erhebungsdaten
-
-
-–   Whitelist (Informationen zu den Fahrzeugen und Bordgeräten vom EETS-
-    Anbieter)
-
-
-–   Blacklist (gesperrte Bordgeräte)
-
-
-–   Plausibilisierung des Zeitstempels der DSRC-Daten mit den
-    Erhebungsdaten.
-
-
-
-
-Der Mauterheber:
-
-–   Übereinstimmung der Angaben in den Prüfprotokollen und im Prüfbericht
-    mit den Feststellungen des Mauterhebers während der Durchführung der
-    Prüffälle
-
-
-–   Durchführung einer EETS-Halterdatenabfrage über SST 002b zu einem
-    Fahrzeug eines gebietsfremden Nutzers über die Schnittstelle des EETS-
-    Teilsystems des Mauterhebers (Adressabfrage).
-
-
-
-
-5\.4 Quality Gate – QG3
+**5.4 Quality Gate - QG3**
 
 Für das Bestehen des Probebetriebs und den Übergang in die nächste
-Prüfphase gelten die in Nummer 2.8 genannten Kriterien.
+Prüfphase gelten die in Abschnitt 2.8 genannten Kriterien.
 
+**6 Pilotbetrieb (Prüfblock 2 - Phase 3)**
 
-## **6 Pilotbetrieb (Prüfblock 2 – Phase 3)**
-
-6\.1 Prüfgegenstand und Ziel
+**6.1 Prüfgegenstand und Ziel**
 
 Im Rahmen der dritten Prüfphase, des Pilotbetriebs, erfolgt eine
-Überprüfung des Teilsystems des EETS-Anbieters in der
-Wirkbetriebsumgebung des Mauterhebers und des EETS-Anbieters.
+Überprüfung des Teilsystems des EETS-Anbieters in der jeweiligen
+Wirkbetriebsumgebung des Mauterhebers, des nationalen Mautbetreibers
+und des EETS-Anbieters.
 
 Der EETS-Anbieter stellt eine Nutzerreferenzgruppe bereit, die im
-Rahmen des Pilotbetriebs wirkbetriebskonform Maut im EETS-Gebiet
-BFStrMG erhebt. Die Nutzerreferenzgruppe ist eine ausgewählte Gruppe
-von Nutzern des EETS-Anbieters, die grundsätzlich aus
-Transportunternehmen des gewerblichen Güterkraftverkehrs besteht.
-Diese ausgewählte Gruppe von Nutzern muss beim EETS-Anbieter für den
-EETS-Dienst registriert und bereit sein, am Pilotbetrieb teilzunehmen.
-Die Nutzerreferenzgruppe hat zum Ziel, ein realistisches Fahrverhalten
-im Pilotbetrieb abzubilden. Sie muss so ausgewählt sein, dass sie die
-Vorgaben abdeckt. Vorgaben sind z. B. eine bestimmte Anzahl von
-Kilometern, die im EETS-Gebiet BFStrMG während der Dauer des
+Rahmen des Pilotbetriebs wirkbetriebskonform Befahrungen durchführt
+und für die Maut im EETS-Gebiet BFStrMG erhoben wird. Die
+Nutzerreferenzgruppe ist eine ausgewählte Gruppe von Nutzern des EETS-
+Anbieters, die grundsätzlich aus Transportunternehmen des gewerblichen
+Güterkraftverkehrs besteht. Diese ausgewählte Gruppe von Nutzern muss
+beim EETS-Anbieter für den EETS-Dienst registriert und bereit sein, am
+Pilotbetrieb teilzunehmen. Zur Qualitätssicherung und um
+detailliertere technische Analysen von Ortungsauffälligkeiten zu
+ermöglichen, sollte der EETS-Anbieter für die Bordgeräte der
+Nutzerreferenzgruppe eine Einwilligung einholen, die dem nationalen
+Mautbetreiber eine Aufbewahrung und Verarbeitung der erhobenen
+Fahrspuren während des Pilotbetriebs ermöglicht. Die
+Nutzerreferenzgruppe hat zum Ziel, ein realistisches Fahrverhalten im
+Pilotbetrieb abzubilden. Sie muss so ausgewählt sein, dass sie die
+Vorgaben abdeckt. Vorgaben sind zum Beispiel ein bestimmter Umfang an
+Befahrungen, die im EETS-Gebiet BFStrMG während der Dauer des
 Pilotbetriebs zurückzulegen sind.
 
-Voraussetzung für die Aufnahme der Phase 3 ist der in Nummer 5.4
+Voraussetzung für die Aufnahme der Phase 3 ist der in Abschnitt 5.4
 beschriebene, erfolgreiche Abschluss der Phase 2 und die Verfügbarkeit
 der für die Prüfphase benötigten Ressourcen.
 
@@ -5303,88 +5346,122 @@ Teilsystems des EETS-Anbieters auf Basis der übergreifenden Prozesse
 des Mauterhebers und des EETS-Anbieters sowie die Erfüllung der
 Vorgaben des Mauterhebers. Ein weiteres Ziel ist die Sicherstellung,
 dass das Teilsystem des EETS-Anbieters das nationale deutsche
-Mautsystem und gegebenenfalls die Teilsysteme anderer EETS-Anbieter
-nicht negativ beeinflusst.
-
-Mit dem erfolgreichen Abschluss der Phase 3 ist das Prüfprogramm
-beendet und die Voraussetzung für die Feststellung der
+Mautsystem und die Teilsysteme anderer EETS-Anbieter nicht negativ
+beeinflusst. Mit dem erfolgreichen Abschluss der Phase 3 ist das
+Prüfprogramm beendet und die Voraussetzung für die Feststellung der
 Gebrauchstauglichkeit gegeben.
 
-6\.2 Prüforganisation, -umgebung und Rahmenbedingungen
+**6.2 Prüforganisation, -umgebung und Rahmenbedingungen**
 
 Der EETS-Anbieter benennt die verantwortlichen Ansprechpartner für die
-Durchführung und Koordinierung der Prüfaktivitäten. Mauterheber und
-EETS-Anbieter sorgen dafür, dass die jeweils genannten
-Verantwortlichen für den gesamten Pilotbetrieb zur Verfügung stehen.
+Durchführung und Koordinierung der Prüfaktivitäten. Der Mauterheber
+benennt seinerseits entsprechende Ansprechpartner für den
+Pilotbetrieb.
 
+Der EETS-Anbieter übermittelt dem Mauterheber eine Liste der am
+Pilotbetrieb teilnehmenden Fahrzeuge bzw. Bordgeräte. In der Liste
+kennzeichnet der EETS-Anbieter für welche Bordgeräte eine Einwilligung
+zur temporären Aufbewahrung und Verarbeitung der Fahrspuren zum Zwecke
+der Qualitätssicherung während des Pilotbetriebs vorliegt.
+
+Mauterheber und EETS-Anbieter sorgen dafür, dass die jeweils genannten
+Verantwortlichen für den gesamten Pilotbetrieb zur Verfügung stehen.
 Im Pilotbetrieb werden die Wirkbetriebsumgebungen des EETS-Anbieters
 und des Mauterhebers verwendet.
 
 Dabei gelten insbesondere die folgenden Randbedingungen des
 Wirkbetriebs:
 
-–   Alle Schnittstellen des EETS-Anbieters zu Dritten sind in Betrieb (z.
-    B. Banken, Kreditkartengesellschaften, Erfüllungsstellen,
+1.  Alle Schnittstellen des EETS-Anbieters zu Dritten sind in Betrieb (zum
+    Beispiel Banken, Kreditkartengesellschaften, Erfüllungsstellen,
     Verrechnungsstellen, Kundenbetreuung).
 
 
-–   Das Teilsystem des EETS-Anbieters befindet sich im regulären
-    Systembetrieb inklusive aller Betriebsprozesse, wie z. B. Betrieb und
-    Wartung zentraler und dezentraler Komponenten sowie Release- und
-    Changemanagement.
+2.  Das Teilsystem des EETS-Anbieters befindet sich im regulären
+    Systembetrieb inklusive aller Betriebsprozesse, wie zum Beispiel
+    Betrieb und Wartung zentraler und dezentraler Komponenten sowie
+    Release- und Changemanagement.
 
 
-–   Es gelten die Regelungen der zwischen Mauterheber und EETS-Anbieter
+3.  Es gelten die Regelungen der zwischen Mauterheber und EETS-Anbieter
     getroffenen EETS-Prüfvereinbarung.
 
 
-–   Die vertraglich vereinbarten SLAs zwischen EETS-Anbieter und
-    Mauterheber sowie Dritten sind wirksam (z. B. Überwachung der
-    Erfassungsquote).
+4.  Die vertraglich vereinbarten SLAs zwischen EETS-Anbieter und
+    Mauterheber sowie Dritten sind wirksam (zum Beispiel Durchlaufzeiten
+    des Mauterhebungsdienstes).
 
 
-–   Es gelten die für den Wirkbetrieb vereinbarten Bestimmungen bezüglich
+5.  Es gelten die für den Wirkbetrieb vereinbarten Bestimmungen bzgl.
     Datenschutz und Datensicherheit.
 
 
-–   Es gelten die vereinbarten Fristen, wie z. B. Wertstellungs- und
-    Archivierungsfristen.
+6.  Es gelten die vereinbarten Fristen, wie zum Beispiel Wertstellungs-
+    und Archivierungsfristen.
+
+
+7.  Die Prüfungen werden durch Fahrten im gesamten mautpflichtigen
+    Streckennetz durchgeführt.
+
+
+8.  Der EETS-Anbieter ist für die Bereitstellung von technischen und
+    personellen Ressourcen für die Durchführung des Pilotbetriebs
+    verantwortlich, insbesondere für die Bereitstellung und Ausstattung
+    der Nutzerreferenzgruppe sowie für die Wartung der Bordgeräte.
+
+
+9.  Der EETS-Anbieter muss sicherstellen, dass produktive Bordgeräte, die
+    nicht Teil seiner Nutzerreferenzgruppe sind, vor und während des
+    Pilotbetriebs entweder keine DSRC-Kommunikation mit den
+    Kontrolleinrichtungen des Mauterhebers durchführen, oder den
+    Erhebungsstatus „nicht erhebungsbereit“ über DSRC übermitteln.
 
 
 
 
-Die Prüfungen werden durch Fahrten im gesamten mautpflichtigen
-Streckennetz durchgeführt.
+*Vorgaben für die Nutzerreferenzgruppe:*
 
-Der EETS-Anbieter ist für die Bereitstellung von technischen und
-personellen Ressourcen für die Durchführung des Pilotbetriebs
-verantwortlich, insbesondere für die Bereitstellung und Ausstattung
-der Nutzerreferenzgruppe sowie für die Wartung der Bordgeräte.
-
-Vorgaben für die Nutzerreferenzgruppe:
-
-–   Anzahl der Fahrzeuge: mindestens 60 und maximal 2 000 Fahrzeuge
+1.[^bjne60862001bjne003403123_01_BJNR608620018BJNE003403123]
+  Anzahl der aktiven Fahrzeuge
+[^bjne60862001bjne003403123_02_BJNR608620018BJNE003403123]
+    : mindestens 100 (im Durchschnitt über die Dauer des Pilotbetriebs)
 
 
-–[^F801812_01_BJNR608620018BJNE003402124]
-   Verteilung der Bordgerätetypen: minimal 15 Fahrzeuge pro Gerätetyp
+2.  Fahrzeuge auf der Nutzerliste: maximal 2000 Fahrzeuge
 
 
-–   Anzahl der zu erreichenden DSRC-Kontakte mit Kontrolleinrichtungen des
-    Mauterhebers: 5 000
+3.[^bjne60862001bjne003403123_03_BJNR608620018BJNE003403123]
+  Verteilung der Bordgerätetypen: minimal 15 Fahrzeuge pro Gerätetyp
 
 
-–   Quote der Abdeckung der mautpflichtigen Streckenabschnitte: 75 % bei
-    Autobahnen und 10 % der Bundesstraßen.
+4.  In einem Fahrzeug der Nutzerreferenzgruppe darf jeweils nur ein
+    Bordgerät des EETS-Anbieters installiert und erhebungsbereit sein
+
+
+5.  Für die Bordgeräte der Nutzerreferenzgruppe sollte der EETS-Anbieter
+    eine Einwilligung des Transportunternehmens einholen, die eine
+    Aufbewahrung und Verarbeitung der Fahrspuren zum Zwecke der
+    Qualitätssicherung durch den nationalen Mautbetreiber während des
+    Pilotbetriebs ermöglicht
 
 
 
+Vorgaben in Bezug auf die zu erreichenden Mengen:
+\_\_\__\_\__\_\__\_\__\_\__\_\__
 
-Die Zeitdauer des Pilotbetriebs beträgt mindestens drei Monate.
 
-Bei der Erstellung des Prüfprogramms ist sicherzustellen, dass der
-Pilotbetrieb mindestens eine Änderung der Maut-Basisdaten umfasst
-(einschließlich Nachlauf zur Berücksichtigung der Wertstellungsfrist).
+1.  Anzahl der zu erreichenden DSRC-Kontakte mit Kontrolleinrichtungen des
+    Mauterhebers: 6 000
+
+
+2.  Umfang der Befahrung des mautpflichtigen Streckennetzes: 500 000
+    mautpflichtige Kilometer, davon mindestens 10% auf Bundesstraßen
+
+
+3.  Die Zeitdauer des Pilotbetriebs beträgt mindestens drei Monate.
+
+
+
 
 Sollten sich Änderungen an den mautbezogenen Rahmenbedingungen
 (mautpflichtiges Streckennetz, mautpflichtige Fahrzeuge) ergeben,
@@ -5408,16 +5485,17 @@ EETS-Anbieter verpflichtet, Maßnahmen zur Erhöhung der Qualität oder
 Fahrleistung zu ergreifen. Sollte dies nicht erfolgen, so kann der
 Mauterheber den Pilotbetrieb abbrechen.
 
-6\.3 Übersicht Prüfszenarien
+**6.3 Übersicht Prüfszenarien**
 
 Die in der folgenden Tabelle dargestellten Szenarien bilden die
 Grundlage für die Prüfungen, die im Rahmen des Programms zur
 Validierung durch Betriebsbewährung des Teilsystems des EETS-Anbieters
 abgedeckt und durchgeführt werden müssen.
 
-*    *   Prüfszenario
 
-    *   Beschreibung
+*    *   **Prüfszenario**
+
+    *   **Beschreibung**
 
 
 *    *   P3-001
@@ -5437,7 +5515,7 @@ abgedeckt und durchgeführt werden müssen.
 
 *    *   P3-004
 
-    *   Änderung der Maut-Basisdaten
+    *   Szenario ist entfallen
 
 
 *    *   P3-005
@@ -5446,743 +5524,643 @@ abgedeckt und durchgeführt werden müssen.
 
 
 
-
-Tabelle 7: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb
+**Tabelle 6: Liste der Prüfszenarien für Phase 3 – Pilotbetrieb**
 
 In den folgenden Abschnitten werden die einzelnen Prüfszenarien
 beschrieben.
 
-6\.3.1 P3-001 – korrekte Mauterhebung
+**6.3.1 P3-001 – korrekte Mauterhebung**
 
-In diesem Szenario wird geprüft, ob die Mauterhebung unter
-Wirkbetriebsbedingungen als übergreifender Prozess technisch
-funktioniert und fachlich korrekt erfolgt.
 
-Der EETS-Anbieter stellt eine Nutzerreferenzgruppe in ausreichender
-Größe zur Verfügung. Der EETS-Anbieter ist verantwortlich für die
-Nutzerreferenzgruppe hinsichtlich der Einhaltung der Vorgaben für die
-Anzahl der verwendeten Fahrzeuge mit eingebautem Bordgerät und der
-erbrachten Fahrleistungen. Die Nutzerreferenzgruppe fährt mit
-mautpflichtigen Fahrzeugen und Bordgeräten unter den Regeln für die
-Teilnahme am Wirkbetrieb (z. B. Mitwirkungspflicht und korrekte
-Selbstdeklaration). Der EETS-Anbieter trägt dafür Sorge, dass die
-Nutzerreferenzgruppe bezüglich der Teilnahme am Pilotbetrieb
-ausreichend informiert ist.
+*    *   **Ziel**
 
-Alle Fahrten, die im Rahmen des Pilotbetriebs durchgeführt werden,
-müssen in diesem Szenario geprüft werden. Zusätzlich überwacht der
-EETS-Anbieter die Nutzerreferenzgruppe hinsichtlich der Erfüllung der
-Prüfkriterien. Können die Kriterien nicht vollständig von der
-Nutzerreferenzgruppe abgedeckt werden, so können vom EETS-Anbieter zur
-Abdeckung dieser Prüfkriterien in Abstimmung mit dem Mauterheber
-besondere Nutzer eingesetzt werden.
+    *   In diesem Szenario wird geprüft, ob der Ende-zu-Ende Prozess der
+        Mauterhebung bis zum Empfang der Mautbuchungsnachweise unter
+        Wirkbetriebsbedingungen technisch funktioniert und fachlich korrekt
+        erfolgt. Die Nutzerreferenzgruppe repräsentiert im Pilotbetrieb die
+        Gruppe der späteren EETS-Nutzer und verhält sich wirkbetriebskonform.
+        Insofern handelt es sich um ein vom Prüfvorgang unbeeinflusstes Fahr-
+        und Nutzerverhalten.
+        Wenn nach Ablauf der Mindestdauer des Pilotbetriebs das unbeeinflusste
+        Fahrverhalten der Nutzerreferenzgruppe nicht ausgereicht hat die
+        Vorgaben des Szenarios abzudecken, so kann in Abstimmung mit dem
+        Mauterheber darüber entschieden werden, ob spezielle Prüffahrten
+        durchzuführen sind, oder ob auf den Nachweis der Erfüllung der Vorgabe
+        verzichtet werden kann.
 
-Der Mauterheber behält sich vor, den EETS-Anbieter aufzufordern,
-einige Fahrzeuge seiner Nutzerreferenzgruppe parallel mit vom
-Mauterheber bereitgestellten Geräten für Referenzmessungen
-auszustatten.
 
-Während des Pilotbetriebs werden Kontrollen auf Basis der
-Kontrollprozesse des Mauterhebers durchgeführt. Sie dienen dazu, die
-Mauterhebung und die Abrechnungsdaten zu verifizieren.
+*    *   **Vorbereitung**
 
-Die Auswertung der erhobenen Daten erfolgt auf Einzeldatenbasis.
+    *   *Vorbereitung des EETS-Anbieters*
 
-Das Prüfszenario umfasst die Prüfung der korrekten Mauterhebung über
-alle EETS-Nutzerkonten. Die Nutzerreferenzgruppe repräsentiert im
-Pilotbetrieb die Gruppe der späteren EETS-Nutzer und verhält sich
-wirkbetriebskonform. Insofern handelt es sich um ein vom Prüfvorgang
-unbeeinflusstes Fahr- und Nutzerverhalten.
+        1.  Die Nutzerreferenzgruppe wird bereitgestellt
 
-Wenn nach Ablauf der Mindestdauer des Pilotbetriebs das unbeeinflusste
-Fahrverhalten der Nutzerreferenzgruppe nicht ausgereicht hat die
-Vorgaben des Szenarios abzudecken, so kann in Abstimmung mit dem
-Mauterheber darüber entschieden werden, ob spezielle Prüffahrten
-durchzuführen sind, oder ob auf den Nachweis der Erfüllung der Vorgabe
-verzichtet werden kann.
 
-6\.3.1.1 Vorgaben für das Szenario
+        2.  Bereitstellung einer Liste mit den Fahrzeugen der
+            Nutzerreferenzgruppe, die für die Teilnahme am automatischen Verfahren
+            beim nationalen Mautbetreiber registriert sind
 
-Der EETS-Anbieter beachtet, dass mit den Fahrten der
-Nutzerreferenzgruppe die folgenden Datenvarianten abgedeckt werden:
 
-–   Es sind alle Gewichts- und Achsklassen sowie mindestens zwei
-    verschiedene Schadstoffklassen abzudecken.
+        3.  Parallele Ausstattung einiger Fahrzeuge der Nutzerreferenzgruppe mit
+            vom Mauterheber bereitgestellten Geräten für Referenzmessungen (nach
+            Aufforderung durch den Mauterheber).
 
 
-–   Jedes Fahrzeug darf nur ein Bordgerät des EETS-Anbieters enthalten.
+        4.  Alle internen Prozesse des EETS-Anbieters sowie die Schnittstellen zum
+            Mauterheber sind technisch und prozessual implementiert und
+            wirkbetriebsbereit.
 
 
-–   Änderung der Achszahl durch Anhängen und Abkoppeln von Anhängern bzw.
-    Wechsel eines Aufliegers bei einer Fahrtunterbrechung auf einem
-    Rastplatz.
+        5.  Einrichtung eines Servicedesks zur Meldung von Incidents und
+            Information des Mauterhebers und des nationalen Mautbetreibers über
+            die Kommunikationswege und -prozesse
 
 
 
+        *Vorbereitung des Mauterhebers*
 
-6\.3.1.2 Kriterien
+        1.  Optional: Aufforderung zur Ausstattung einiger Fahrzeuge der
+            Nutzerreferenzgruppe mit Geräten für Referenzmessungen inklusive
+            Bereitstellung der Geräte.
 
-–   Übermittlung einer vollständigen Nutzerliste durch den EETS-Anbieter
 
+        2.  Alle internen Prozesse des Mauterhebers sowie die Schnittstellen zum
+            EETS-Anbieter und zum nationalen Mautbetreiber sind technisch und
+            prozessual implementiert und im Wirkbetrieb.
 
-–   Prüfung aller Mautbuchungsnachweise auf korrekte Anwendung der
-    Mauttarife
 
 
-–   Übereinstimmung der Mautbuchungsnachweise mit den abschnittsbezogenen
-    Erhebungsdaten
+        *Vorbereitung des nationalen Mautbetreibers*
 
+        1.  Sperrung der Bordgeräte der Fahrzeuge der Nutzerreferenzgruppe, die
+            beim nationalen Mautbetreiber registriert sind, um Doppelbemautung zu
+            vermeiden
 
-–   eindeutige Zuordnung von Kennzeichen (inkl. Nationalität) und Fahrzeug
 
+        2.  Alle internen Prozesse des nationalen Mautbetreibers sowie die
+            Schnittstellen zum EETS-Anbieter und zum Mauterheber sind technisch
+            und prozessual implementiert und im Wirkbetrieb.
 
-–   eindeutige Zuordnung von Bordgerät zu Fahrzeug
 
+        3.  Der EETS-Servicedesk wurde für den EETS-Anbieter eingerichtet und der
+            EETS-Anbieter wurde über die Kommunikationswege und -prozesse
+            informiert
 
-–   korrekte Mauterhebung unter Berücksichtigung aller Vorgaben für das
-    Prüfszenario
 
 
-–   korrekte Erkennung und Mauterhebung auf Basis der einzelnen
-    mautpflichtigen und nicht mautpflichtigen Streckenabschnitte
-    (getrennte Ermittlung der Maut für jeden Streckenabschnitt).
 
 
+*    *   **Durchführung**
 
+    *   Die Nutzerreferenzgruppe fährt mit mautpflichtigen Fahrzeugen und
+        Bordgeräten unter den Regeln für die Teilnahme am Wirkbetrieb (zum
+        Beispiel Mitwirkungspflicht und korrekte Selbstdeklaration). Der EETS-
+        Anbieter trägt dafür Sorge, dass die Nutzerreferenzgruppe bezüglich
+        der Teilnahme am Pilotbetrieb ausreichend informiert ist.
+        Der EETS-Anbieter überwacht die Nutzerreferenzgruppe hinsichtlich der
+        Erfüllung der Prüfkriterien. Können die Kriterien nicht vollständig
+        von der Nutzerreferenzgruppe abgedeckt werden, so können vom EETS-
+        Anbieter zur Abdeckung dieser Prüfkriterien in Abstimmung mit dem
+        Mauterheber besondere Nutzer eingesetzt werden.
 
-6\.3.1.3 Vorbereitung
 
-Vorbereitung des EETS-Anbieters
+*    *   **Bewertung**
 
-–   Die Nutzerreferenzgruppe wird bereitgestellt.
+    *   Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
+        Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
+        der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet.
+        Die Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei
+        umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten
+        Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet
+        sowie dokumentiert werden.
+        Einhaltung der folgenden Vorgaben für das Prüfszenario:
 
+        1.  Es sind alle Gewichts- und Achsklassen sowie mindestens zwei
+            verschiedene Schadstoffklassen abzudecken.
 
-–   Alle internen Prozesse des EETS-Anbieters sowie die Schnittstellen zum
-    Mauterheber sind technisch und prozessual implementiert und
-    wirkbetriebsbereit.
 
+        2.  Jedes Fahrzeug darf nur ein Bordgerät des EETS-Anbieters enthalten.
 
 
+        3.  Änderung der Achszahl durch Anhängen und Abkoppeln von Anhängern bzw.
+            Wechsel eines Aufliegers bei einer Fahrtunterbrechung auf einem
+            Rastplatz
 
-Vorbereitung des Mauterhebers
 
-–   Alle internen Prozesse des Mauterhebers sowie die Schnittstellen zum
-    EETS-Anbieter sind technisch und prozessual implementiert und im
-    Wirkbetrieb.
+        4.  Übermittlung einer vollständigen Nutzerliste durch den EETS-Anbieter
 
 
+        5.  Übermittlung technisch korrekter und fachlich richtiger Fahrspuren an
+            den MED über die Schnittstelle 005
 
 
-6\.3.1.4 Durchführung
+        6.  Vollständiger Empfang der Mautbuchungsnachweise über die SST007R durch
+            den EETS-Anbieter
 
-Die Nutzerreferenzgruppe fährt während des Pilotbetriebs auf dem
-mautpflichtigen Streckennetz.
 
-Der EETS-Anbieter überwacht die Nutzerreferenzgruppe hinsichtlich der
-Abdeckung der Vorgaben (siehe Nummer 6.3.1.1).
+        7.  eineindeutige Zuordnung von Kennzeichen (inklusive Nationalität) und
+            Fahrzeug
 
-6\.3.1.5 Bewertung
 
-Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
+        8.  eineindeutige Zuordnung von Bordgerät zu Fahrzeug
 
-Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
-der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet und
-gemäß Anhang A dokumentiert.
 
-Die Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei
-umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten
-Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet
-sowie dokumentiert werden.
+        9.  Erreichung der gemäß Zulassungsvertrag geforderten Quoten für:
 
-6\.3.2 P3-002 – korrekte Abrechnung und Auskehr
+            9.1. Erfassungsquote
 
-In diesem Prüfszenario wird die korrekte Abrechnung sowie die korrekte
-Auskehr an den Mauterheber auf Einzeldatenbasis mit realen Fahrdaten
-geprüft. Der EETS-Anbieter prüft den Tagesbericht mit sämtlichen
-rechnungsbegründenden Unterlagen (Mautbuchungsnachweisen) gegen den
-ausgekehrten Betrag auf dem Abwicklungskonto. Zudem erfolgt ein
-Abgleich mit den abschnittsbezogenen Erhebungsdaten. Die Prüfung
-erfolgt auf Einzeldatenbasis, damit der vollständige Prozess von der
-Mauteinnahme bis zur Auskehr nachverfolgt werden kann. Die
-Zahlungseingänge müssen wirkbetriebskonform ablaufen und die reale
-Wertstellungsfrist berücksichtigen. Das Prüfszenario wird mit realem
-Geldverkehr durchgeführt.
 
-6\.3.2.1 Vorgaben für das Szenario
+            9.2. Sperrlistenquote
 
-Es gibt keine besonderen Vorgaben für dieses Szenario.
 
-6\.3.2.2 Kriterien
+            9.3. Nutzerlistenquote
 
-Prüfkriterien für die Korrektheit der Abrechnung
 
-–   rechtzeitige und vollständige Abrechnung der Mauteinnahmen bei
-    Fälligkeit
+            9.4. Quote für abschnittsbezogene Erhebungsdaten
 
 
-–   Berechnung erfolgt in Euro
 
 
-–   taggenaue Buchung der Forderung auf das Abwicklungskonto
 
 
-–   Vollständigkeit der Abrechnung
 
 
-–   Übereinstimmung der abschnittsbezogenen Erhebungsdaten mit den Angaben
-    in den Mautbuchungsnachweisen
 
+**P3-002 – korrekte Abrechnung und Auskehr**
 
-–   Methodik der Zinsberechnung.
 
+*    *   **Ziel**
 
+    *   In diesem Prüfszenario wird die korrekte Auskehr der Mautbeträge an
+        den Mauterheber auf Einzeldatenbasis mit realen Fahrdaten geprüft.
 
 
-Prüfkriterien für die Korrektheit der Auskehr
+*    *   **Vorbereitung**
 
-–   fachlich korrekte und vollständige Auskehr des Gesamtbetrags (Prüfung
-    der Auskehr der Mauteinnahmen an den Mauterheber in voller Höhe über
-    die gesamte Laufzeit im Pilotbetrieb [Vollständigkeitsnachweis])
+    *   *Vorbereitung des EETS-Anbieters*
 
+        1.  Einrichten und Einbinden eines Abwicklungskontos
 
-–   korrekte Berücksichtigung der Wertstellungsfrist und Fälligkeit für
-    das Abwicklungskonto
 
+        2.  Anbindung an den wirkbetrieblichen Zahlverkehr sowie an alle
+            relevanten internen und externen Schnittstellen
 
-–   regelmäßige Erstellung und fristgerechte Übermittlung des
-    Tagesberichts (spätestens 15.00 Uhr MEZ)
 
 
-–   regelmäßige Erstellung und fristgerechte Übermittlung der
-    dazugehörigen, rechnungsbegründenden Unterlagen
-    (Mautbuchungsnachweise).
+        *Vorbereitung des Mauterhebers*
 
+        1.  Alle internen Prozesse des Mauterhebers sowie die Schnittstellen zum
+            EETS-Anbieter und zum nationalen Mautbetreiber sind technisch und
+            prozessual implementiert und im Wirkbetrieb.
 
 
 
-6\.3.2.3 Vorbereitung
 
-Vorbereitung des EETS-Anbieters
 
-–   Einrichten und Einbinden eines Abwicklungskontos
+*    *   **Durchführung**
 
+    *   Der EETS-Anbieter übermittelt regelmäßig die E-Mail (Ist-
+        Auskehrbetrag) an den Mauterheber und erstellt und übermittelt
+        regelmäßig die Tagesberichte und überweist den auszukehrenden Betrag
+        auf das Abwicklungskonto. Die Zahlungseingänge müssen
+        wirkbetriebskonform ablaufen und die reale Wertstellungsfrist
+        berücksichtigen. Wenn eine Auskehr nach Ablauf der Wertstellungsfrist
+        erfolgt, werden auch die anfallenden Zinsen korrekt berechnet, im
+        Tagesbericht ausgewiesen und vollständig ausgekehrt.
+        Das Prüfszenario wird mit realem Geldverkehr durchgeführt.
 
-–   Anbindung an den wirkbetrieblichen Zahlverkehr sowie an alle
-    relevanten internen und externen Schnittstellen.
 
+*    *   **Bewertung**
 
+    *   Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
+        Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
+        der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet. Die
+        Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei
+        umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten
+        Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet
+        sowie dokumentiert werden.
+        Einhaltung der folgenden Vorgaben für das Prüfszenario:
 
+        1.  fachlich korrekte und vollständige Auskehr des Gesamtbetrags (Prüfung
+            der Auskehr der Mauteinnahmen an den Mauterheber in voller Höhe über
+            die gesamte Laufzeit im Pilotbetrieb durch einen Ordnungsmäßigkeits-
+            und einen Vollständigkeitsnachweis: Prüfung der Tagesberichte gegen
+            Mautbuchungsnachweise)
 
-6\.3.2.4 Durchführung
 
-Der EETS-Anbieter führt die Abrechnung sowie die Auskehr an den
-Mauterheber regelmäßig und mit der realen Wertstellungsfrist durch.
+        2.  korrekte Berücksichtigung der Wertstellungsfrist und Fälligkeit bei
+            den Überweisungen auf das Abwicklungskonto
 
-Alle Wirkbetriebsprozesse müssen regelkonform zur Anwendung kommen.
-Anschließend erfolgt die Auswertung der Daten nach den definierten
-Kriterien.
 
-6\.3.2.5 Bewertung
+        3.  korrekte Anwendung der Zinsberechnungsmethodik
 
-Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
 
-Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
-der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet und
-gemäß Anhang A dokumentiert.
+        4.  regelmäßige Erstellung und fristgerechte Übermittlung der E-Mail, mit
+            dem Ist-Auskehrbetrag (jeweils am Stichtag der Auskehr bis 15:00 Uhr)
 
-Die Gesamtbewertung erfolgt abschließend durch den Mauterheber.
 
-6\.3.3 P3-003 – Überwachung des EETS-Anbieters
+        5.  regelmäßige Erstellung und fristgerechte Übermittlung des
+            Tagesberichts (spätestens 15:00 Uhr am auf den Stichtag der Auskehr
+            folgenden Werktag)
 
-Ziel dieses Prüfszenarios ist es, einerseits die technisch und
-fachlich korrekte Durchführung der Überwachung des EETS-Anbieters
-gemäß SST 013 zu prüfen, andererseits die Auswirkungen von möglichen
-Störungen im System des EETS-Anbieters auf den Mauterheber zu prüfen.
-Dazu werden folgende Prüfungen durchgeführt:
 
-–   Prüfung der Überwachung und der technisch und fachlich korrekten
-    Implementierung der Überwachungsprozeduren beim EETS-Anbieter in einem
-    dauerhaften Regelbetrieb
 
 
-–   Prüfung der Anwendung der SST 013.
 
 
+**6.3.3 P3-003 – Überwachung des EETS-Anbieters**
 
 
-Es darf nicht simuliert werden. Es dürfen keine Datenbearbeitung und
--extraktion erfolgen, wenn diese nicht in definierten,
-nachvollziehbaren Betriebsprozessen vorgesehen sind.
+*    *   **Ziel**
 
-6\.3.3.1 Vorgaben für das Prüfszenario
+    *   Ziel dieses Prüfszenarios ist es, einerseits die technisch und
+        fachlich korrekte Durchführung der Überwachung des EETS-Anbieters und
+        die Übermittlung der Informationen gemäß SST 013 zu prüfen,
+        andererseits die Auswirkungen von möglichen Störungen im System des
+        EETS-Anbieters auf den Mauterheber zu prüfen. Dazu werden folgende
+        Bereiche überwacht:
 
-Folgende Vorgabe muss vom EETS-Anbieter berücksichtigt werden: Der
-EETS-Anbieter muss die Überwachungsdaten (Überwachungsreports) dem
-Mauterheber regelmäßig in korrekter und vollständiger Form über die
-SST 013 bereitstellen.
+        1.  Prüfung des Monitorings und der Implementierung der
+            Überwachungsprozeduren beim EETS-Anbieter in einem dauerhaften
+            Regelbetrieb
 
-6\.3.3.2 Kriterien
 
-Es gelten folgende Prüfkriterien:
+        2.  Prüfung der Anwendung der SST 013
 
-–   Regulär auftretende Störungen im Pilotbetrieb wurden durch den EETS-
-    Anbieter mit den definierten Mitteln überwacht, erfasst und
-    ausgewertet.
 
 
-–   Die Überwachungsdaten wurden dem Mauterheber regelmäßig, vollständig
-    und korrekt bereitgestellt.
+        Es darf nicht simuliert werden. Es darf keine Datenbearbeitung und
+        -extraktion erfolgen, wenn diese nicht in definierten,
+        nachvollziehbaren Betriebsprozessen vorgesehen sind
 
 
-–   Die Überwachungsreports spiegeln die durch den Mauterheber
-    wahrgenommenen Entwicklungen und Vorkommnisse (z. B. Störungen) im
-    Teilsystem des EETS-Anbieters in korrekter Form wider.
+*    *   **Vorbereitung**
 
+    *   *Vorbereitung des EETS-Anbieters*
 
+        1.  Die Prozesse des EETS-Anbieters zur Überwachung und Bereitstellung von
+            Überwachungsdaten (SST 013 Reports) sind definiert und übergreifend
+            implementiert.
 
 
-6\.3.3.3 Vorbereitung
 
-Die Prozesse des EETS-Anbieters zur Überwachung und Bereitstellung von
-Überwachungsdaten (Überwachungsreports) sind definiert und
-übergreifend implementiert.
 
-6\.3.3.4 Durchführung
 
-Während der gesamten Laufzeit des Pilotbetriebs werden unter
-Wirkbetriebsbedingungen seitens des EETS-Anbieters Überwachungsdaten
-(Überwachungsreports) generiert und alle Überwachungsprozesse
-durchgeführt.
+*    *   **Durchführung**
 
-6\.3.3.5 Bewertung
+    *   Während der gesamten Laufzeit des Pilotbetriebs führt der EETS-
+        Anbieter unter Wirkbetriebsbedingungen ein Monitoring und eine
+        Überwachung seines Systems durch. Der EETS-Anbieter erzeugt
+        entsprechende Überwachungsreports und übermittelt diese über SST 013
+        an den Mauterheber.
 
-Die Auswertung erfolgt auf Basis der vom EETS-Anbieter übermittelten
-Überwachungsdaten (Überwachungsreports).
 
-Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
-der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet und
-gemäß Anhang A dokumentiert.
+*    *   **Bewertung**
 
-Die Gesamtbewertung erfolgt abschließend durch den Mauterheber.
+    *   Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
+        Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
+        der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet. Die
+        Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei
+        umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten
+        Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet
+        sowie dokumentiert werden.
+        Einhaltung der folgenden Vorgaben für das Prüfszenario:
 
-6\.3.4 P3-004 – Änderung der Maut-Basisdaten
+        1.  Der EETS-Anbieter muss die Überwachungsdaten (Überwachungsreports) dem
+            Mauterheber regelmäßig in korrekter und vollständiger Form über die
+            SST 013 bereitstellen.
 
-In diesem Szenario wird die Prüfung durchgeführt, ob die Anwendung der
-Maut-Basisdaten beim EETS-Anbieter korrekt verläuft. Die Korrektheit
-muss sowohl während als auch nach Änderungen der Maut-Basisdaten
-fachlich und funktional nachgewiesen werden. Dazu wird unter
-Wirkbetriebsbedingungen der Prozess der Änderung der Maut-Basisdaten
-durchgeführt.
 
-Ausgangspunkt für die Prüfung ist, dass die korrekte Verwendung der
-aktuellen Maut-Basisdaten nachgewiesen wird. Anschließend wird im
-Rahmen einer regulären Aktualisierung der Maut-Basisdaten diese
-Änderung auch im Teilsystem des EETS-Anbieters durchgeführt. Dabei
-müssen die entsprechenden Vorgaben berücksichtigt werden (siehe Nummer
-6\.3.5.1).
+        2.  Regulär auftretende Störungen im Pilotbetrieb wurden durch den EETS-
+            Anbieter mit den definierten Mitteln überwacht, erfasst und
+            ausgewertet.
 
-6\.3.4.1 Vorgaben für das Prüfszenario
 
-Die folgenden Vorgaben müssen vom EETS-Anbieter berücksichtigt werden:
+        3.  Die Überwachungsreports spiegeln mindestens die durch den Mauterheber
+            wahrgenommenen Entwicklungen und Vorkommnisse (z.B. Störungen) im
+            Teilsystem des EETS-Anbieters in korrekter Form wider.
 
-–   Der Pilotbetrieb muss eine Änderung der Maut-Basisdaten während der
-    Laufzeit umfassen.
 
 
-–   Der Pilotbetrieb muss nach der Änderung der Maut-Basisdaten mindestens
-    sechs Wochen weiterlaufen, um die Stabilität der Änderung insbesondere
-    hinsichtlich der Auskehr nachzuweisen.
 
 
 
+**6.3.4 P3-005 – korrekte Kontrollprozesse**
 
-6\.3.4.2 Kriterien
 
-Es müssen folgende Prüfkriterien berücksichtigt werden:
+*    *   **Ziel**
 
-–   Einhaltung von Fristen
+    *   Die Korrektheit der Kontrollprozesse wird im Rahmen von Fahrten der
+        Nutzerreferenzgruppe mit Kontrollen im realen Verkehr geprüft.
+        Das Prüfszenario umfasst die Sachverhaltsermittlung (DSRC-
+        Kommunikation des Bordgerätes mit den Kontrolleinrichtungen) und geht
+        über die Sachverhaltsfeststellung bis zur Nacherhebung und Ahndung.
+        Dies deckt einerseits den Prozess der Datenerhebung vom Bordgerät des
+        EETS-Anbieters bis zum zentralseitigen Eingang beim Mauterheber ab.
+        Weiterhin ist auch die notwendige Datenbereitstellung für die Zwecke
+        der Ahndung und Nacherhebung (Fahrzeug-/Adressdaten, Bereitstellung
+        Informationen zu weiteren Bordgeräten des EETS-Nutzers) davon umfasst.
+        Berücksichtigt werden alle Einrichtungen der automatischen und der
+        manuellen Kontrolle. Einrichtungen der Betriebskontrolle werden nicht
+        berücksichtigt
 
 
-–   Einhaltung von Gültigkeiten (z. B. Überlappung des
-    Gültigkeitszeitraums während einer Fahrt).
+*    *   **Vorbereitung**
 
+    *   *Vorbereitung des EETS-Anbieters*
 
+        1.  Die Nutzerreferenzgruppe wird bereitgestellt.
 
 
-6\.3.4.3 Vorbereitung
+        2.  Alle internen Prozesse des EETS-Anbieters sowie die Schnittstellen zum
+            Mauterheber sind technisch und prozessual implementiert und
+            wirkbetriebsbereit.
 
-Der EETS-Anbieter stellt zur Vorbereitung sicher, dass:
 
-–   die Prüfplanung die Vorgaben berücksichtigt und
 
+        *Vorbereitung des Mauterhebers*
 
-–   die aktuellen Maut-Basisdaten korrekt verwendet werden.
+        1.  Alle internen Prozesse des Mauterhebers sowie die Schnittstellen zum
+            EETS-Anbieter und zum nationalen Mautbetreiber sind technisch und
+            prozessual implementiert und im Wirkbetrieb.
 
 
 
+        *Vorbereitung des nationalen Mautbetreibers*
 
-6\.3.4.4 Durchführung
+        1.  Alle internen Prozesse des nationalen Mautbetreibers sowie die
+            Schnittstellen zum EETS-Anbieter und zum Mauterheber sind technisch
+            und prozessual implementiert und im Wirkbetrieb.
 
-Die geänderten Maut-Basisdaten werden dem EETS-Anbieter vom
-Mauterheber über die SST 003 bereitgestellt. Der EETS-Anbieter
-arbeitet die Änderungen in seinem Teilsystem ein. Nach dem Stichtag
-der geänderten Maut-Basisdaten werden Fahrten durchgeführt,
-abschnittsbezogene Erhebungsdaten bereitgestellt und
-Mautbuchungsnachweise versandt.
 
-6\.3.4.5 Bewertung
 
-Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
 
-Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
-der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet und
-gemäß Anhang A dokumentiert.
 
-Die Gesamtbewertung erfolgt abschließend durch den Mauterheber.
+*    *   **Durchführung**
 
-Es werden die Korrektheit der Maut-Basisdaten jeweils vor und nach
-Gültigkeitsbeginn der Änderung sowie die Vollständigkeit und
-Konsistenz der nachstehenden Daten geprüft:
+    *   Die Nutzerreferenzgruppe des EETS-Anbieters befährt das mautpflichtige
+        Streckennetz. Der EETS-Anbieter stellt über Schnittstelle 001
+        Sperrlisten bereit.
+        Der Mauterheber führt alle relevanten Kontrollarten durch und
+        ermittelt die dabei entstehenden Sachverhalte im Rahmen der
+        übergreifenden Kontrollprozesse.
+        Die Kontrolleure des Mauterhebers erfassen und dokumentieren dabei
+        besondere Vorkommnisse und Auffälligkeiten in Bezug auf den Pilot-
+        EETS-Anbieter (z.B. fortwährende Verbindungsabbrüche in der
+        Kontrollkommunikation).
+        Aufgenommene Kontrollfälle der EETS-Nutzer werden im Rahmen der
+        Prozesse Nacherhebung und Ahndung beim Mauterheber verarbeitet. Für
+        seine EETS-Nutzer stellt der EETS-Anbieter dem Mauterheber die
+        Beteiligtendaten (Fahrzeug-/Adressdaten, Informationen zu weiteren
+        Bordgeräten des EETS-Nutzers) über die Schnittstellen 002b und 002c
+        bereit.
 
-–   abschnittsbezogene Erhebungsdaten
 
+*    *   **Bewertung**
 
-–   Mautbuchungsnachweise
+    *   Die Bewertung erfolgt auf Basis der Auswertung der erhobenen Daten.
+        Die Prüfergebnisse werden vom EETS-Anbieter hinsichtlich der Erfüllung
+        der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet.
+        Die Gesamtbewertung erfolgt abschließend durch den Mauterheber. Dabei
+        umfasst die Prüfung mindestens, dass die vom EETS-Anbieter vorgelegten
+        Prüfergebnisse hinsichtlich der Prüfkriterien abgeglichen, bewertet
+        sowie dokumentiert werden.
+        Einhaltung der folgenden Vorgaben für das Prüfszenario:
 
+        1.  Technisch korrekte Kommunikation zwischen den Bordgeräten des EETS-
+            Anbieters und den Kontrolleinrichtungen über die Schnittstelle 301
 
-–   Tagesberichte
 
+        2.  Übermittlung fachlich korrekter Werte im Rahmen der DSRC-Kommunikation
 
-–   gegebenenfalls Daten des GPS-Referenzsystems.
 
+        3.  Technisch korrekte Kommunikation über die Schnittstelen 002b und 002c
+            sowie Übermittlung korrekter Beteiligtendaten zur Unterstützung der
+            Prozesse Nacherhebung und Ahndung des Mauterhebers
 
 
+        4.  Erreichung der gemäß Zulassungsvertrag geforderten DSRC-Quote
 
-6\.3.5 P3-005 – korrekte Kontrollprozesse
 
-Die Korrektheit der Kontrollprozesse wird im Rahmen von Fahrten mit
-Kontrollen im realen Verkehr im Pilotbetrieb geprüft.
 
-Das Prüfszenario umfasst die Erkennung (DSRC-Kommunikation des
-Bordgeräts mit den Kontrolleinrichtungen) bis zur
-Sachverhaltsfeststellung. Dies deckt den Prozess der Datenerhebung vom
-Bordgerät des EETS-Anbieters bis zum zentralseitigen Eingang beim
-Mauterheber ab. Berücksichtigt werden alle Einrichtungen der
-automatischen, portablen und manuellen Kontrolle.
 
-Einrichtungen der Betriebskontrolle werden nicht berücksichtigt.
 
-6\.3.5.1 Vorgaben für das Prüfszenario
 
-Da die Kontrollprozesse mit realen Fahrten im Pilotbetrieb geprüft
-werden, gibt es keine besonderen Vorgaben.
-
-6\.3.5.2 Kriterien
-
-Folgende Prozesse müssen unterstützt werden:
-
-–   Sachverhaltsermittlung (Bereitstellung der Nachweise über die
-    Erfüllung der Mitwirkungspflicht)
-
-
-–   Nacherhebungsverfahren (Unterstützung bei der Ermittlung der
-    Beteiligtendaten)
-
-
-–   Ordnungswidrigkeitsverfahren (Unterstützung bei der Ermittlung der
-    Beteiligtendaten).
-
-
-
-
-6\.3.5.3 Vorbereitung
-
-Der EETS-Anbieter bereitet die Bordgeräte für den Pilotbetrieb vor.
-
-6\.3.5.4 Durchführung
-
-Die Nutzerreferenzgruppe des EETS-Anbieters befährt das mautpflichtige
-Streckennetz. Der EETS-Anbieter stellt eine Blacklist bereit.
-
-Der Mauterheber führt alle relevanten Kontrollarten durch und
-ermittelt die dabei entstehenden Sachverhalte im Rahmen der
-übergreifenden Kontrollprozesse. Die Kontrolleure des Mauterhebers
-erfassen und dokumentieren dabei besondere Vorkommnisse und
-Auffälligkeiten in Bezug auf den Pilot-EETS-Anbieter (z. B.
-fortwährende Verbindungsabbrüche in der Kontrollkommunikation).
-
-6\.3.5.5 Bewertung
-
-Die Prüfergebnisse werden vom Mauterheber hinsichtlich der Erfüllung
-der Vorgaben des Prüfszenarios sowie der Prüfkriterien bewertet und
-dokumentiert.
-
-6\.4 Quality Gate – QG4
+**6.4 Quality Gate – QG4**
 
 Das Quality Gate 4 schreibt die Kriterien für die Ausgangsqualität des
 Teilsystems des EETS-Anbieters nach dem Pilotbetrieb vor.
 
-Für das Bestehen des Pilotbetriebs gelten die in Nummer 2.8 genannten
-Kriterien sowie die Erfüllung der durch den Mauterheber festgestellten
-Quoten bezüglich der Güte der Mauterhebung und der Kontrolle.
+Für das Bestehen des Pilotbetriebs gelten die in Abschnitt 2.8
+genannten Kriterien. Im Pilotbetrieb werden die im Wirkbetrieb
+vorgesehenen Quoten und Qualitätsparameter ermittelt und bei der
+Feststellung des Prüfergebnisses berücksichtigt.
 
-
-## Anhang A: Vorgaben für Prüfprotokolle und -berichte
+### **Anhang A - Vorgaben für Prüfprotokolle und -berichte**
 
 Dieser Anhang enthält die detaillierten Anforderungen an die Inhalte
 aller Protokolle und Berichte, die im Rahmen der
 Gebrauchstauglichkeitsprüfung zu erstellen sind.
 
+### **Anhang A.1: Prüfprotokoll für den einzelnen Prüffall (Phase 1
+und Phase 2)**
 
-## Anhang A.1: Prüfprotokoll für den einzelnen Prüffall (Phase 1 und
-2)
-
-Die Durchführung von durch den EETS-Anbieter erstellten Prüffällen ist
-in den Phasen 1 und 2 relevant. Für jeden Prüffall ist ein separates
-Prüfprotokoll zu erstellen, welches das abschließende Prüfergebnis
-dieses Prüffalls dokumentiert. Alle Detailinformationen zu den
-Prüfbedingungen und Ereignissen während der Prüfdurchführung müssen in
-das Prüfprotokoll aufgenommen werden.
-
+Für jeden vom EETS-Anbieter durchgeführten Prüffall ist von ihm ein
+separates Prüfprotokoll zu erstellen, welches das abschließende
+Prüfergebnis dieses Prüffalls dokumentiert. Alle Detailinformationen
+zu den Prüfbedingungen und Ereignissen während der Prüfdurchführung
+müssen in das Prüfprotokoll aufgenommen werden.
 Das Prüfprotokoll muss mindestens die folgenden Inhalte umfassen:
 
-–   eindeutige Referenznummer für das Prüfprotokoll
-    Diese sollte sich zusammensetzen aus der Nummer des Prüffalls gemäß
-    dem abgestimmten Prüfprogramm, einem eindeutigen Bezeichner des EETS-
-    Anbieters und einem eindeutigen Suffix (z. B. Zeitstempel).
+1.  eindeutige Referenznummer für das Prüfprotokoll
 
 
-–   Datum der Fertigstellung des Prüfprotokolls
+2.  Diese sollte sich zusammensetzen aus der Nummer des Prüffalls gemäß
+    des entsprechenden Prüfkatalogs, einem eindeutigen Bezeichner des
+    EETS-Anbieters und einem eindeutigen Suffix (zum Beispiel
+    Zeitstempel).
 
 
-–   Prüfzeitraum (Datum und Uhrzeit von Beginn und Ende der Prüfungen)
+3.  Datum der Fertigstellung des Prüfprotokolls
 
 
-–   Angabe des Prüfszenarios
+4.  Prüfzeitraum (Datum und Uhrzeit von Beginn und Ende der Prüfungen)
 
 
-–   Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
+5.  Angabe des Prüfszenarios
 
 
-–   Angaben zum Verantwortlichen für die Durchführung der Prüfung und
+6.  Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
+
+
+7.  Angaben zum Verantwortlichen für die Durchführung der Prüfung und
     Erstellung des Prüfprotokolls
 
 
-–   Angaben zu den Teilnehmern an der Prüfung (vom EETS-Anbieter und vom
+8.  Angaben zu den Teilnehmern an der Prüfung (vom EETS-Anbieter und vom
     Mauterheber)
 
 
-–   eindeutige Konfigurations-, beziehungsweise Versionsbezeichnung aller
-    beteiligten Teilsysteme des EETS-Anbieters (Zentralsystem und
-    verwendete Bordgeräte)
+9.  eindeutige Konfigurations- und Versionsbezeichnung aller beteiligten
+    Teilsysteme des EETS-Anbieters (Zentralsystem und verwendete
+    Bordgeräte)
 
 
-–   aktuelle Prüfbedingungen (Informationen zu eingesetzten Fahrzeugen,
+10. aktuelle Prüfbedingungen (Informationen zu eingesetzten Fahrzeugen,
     Bordgeräten und Systemen sowie zu Teststrecken und weiteren
     Umgebungsbedingungen)
 
 
-–   besondere Beobachtungen, die für Analyse und Auswertung sowie für die
+11. besondere Beobachtungen, die für Analyse und Auswertung sowie für die
     Bestimmung des Prüfergebnisses relevant sein könnten
 
 
+12. Ergebnis für die durchgeführten Prüffälle mit:
 
-ausschließlich Phase 1:
-
-–   Bewertung der Prüfabdeckung: Welche Prüffallvorgaben werden durch den
-    Prüffälle abgedeckt?
+    •   festgestellten Übereinstimmungen mit den erwarteten Ergebnissen
 
 
-–   Angabe des Standes des verwendeten Prüfkatalogs (Anhang B –
-    Prüfkatalog)
+    •   festgestellten Abweichungen von den erwarteten Ergebnissen inklusive
+        Bewertung der festgestellten Abweichungen
 
 
-
-Ergebnis für die Prüffallvorgaben mit:
-
-–   festgestellten Übereinstimmungen mit dem erwarteten Ergebnis je
-    Prüffallvorgabe
+    •   festgestellte Auffälligkeiten bei der Durchführung der Prüffälle
+        inklusive Bewertung der festgestellten Auffälligkeiten
 
 
-–   festgestellten Abweichungen von den Prüffallvorgaben inklusive
-    Bewertung der festgestellten Abweichungen
-
-
-–   Kommunikationsabläufen gemäß Schnittstellen des EETS-Anbieters in
-    maschinenlesbarem Format
-
-
-–   Bewertungsvorschlag des EETS-Anbieters („bestanden“ oder „nicht
-    bestanden“)
-
-
-–   abschließender Zusammenfassung des Prüfergebnisses
-
-    Falls die Prüffallvorgabe trotz festgestellter Abweichungen als
-    „bestanden“ eingestuft wird, müssen die Abweichungen in Form einer
-    Risikoanalyse bewertet und das Ergebnis begründet werden.
+    •   Bewertungsvorschlag des EETS-Anbieters („bestanden", „bestanden mit
+        Abweichungen/Auffälligkeiten“ oder „nicht bestanden“)
 
 
 
-ausschließlich Phase 2 und 3:
-
-–   Bewertung der Prüfabdeckung: Welche Vorgabe(n) des Prüfszenarios
-    werden durch den Prüffall abgedeckt?
 
 
-–   festgestellte Übereinstimmungen mit den Vorgaben beziehungsweise
-    erwarteten Ergebnissen
+13. abschließender Zusammenfassung des Prüfergebnisses
 
 
-–   festgestellte Abweichungen von den Vorgaben beziehungsweise erwarteten
-    Ergebnissen inklusive Bewertung der festgestellten Abweichungen
+14. Falls der Prüffall trotz festgestellter Abweichungen oder
+    Auffälligkeiten als „bestanden“ eingestuft wird, müssen die
+    Abweichungen oder Auffälligkeiten nach Aufforderung des Mauterhebers
+    in Form einer Risikoanalyse bewertet und das Ergebnis begründet
+    werden.
 
 
-–   abschließende Zusammenfassung des Prüfergebnisses
-
-    Falls der Prüffall trotz festgestellter Abweichungen als „bestanden“
-    eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse
-    bewertet und das Ergebnis begründet werden
-
-
-–   Unterschrift des Verantwortlichen für die Erstellung des
-    Prüfprotokolls.
+15. digitale Unterschrift des Verantwortlichen für die Erstellung des
+    Prüfprotokolls
 
 
 
 
 Zusätzlich sollte das Prüfprotokoll ausreichend Platz vorsehen für:
 
-–   Kommentare des Mauterhebers, insbesondere zu der Bewertung der
+1.  Kommentare des Mauterhebers, insbesondere zu der Bewertung der
     Prüfabdeckung und eventuell festgestellter Abweichungen sowie dem
-    Prüfergebnis, inkl. Name des Kommentierenden
+    Prüfergebnis, inklusive Name des Kommentierenden
 
 
-–   Bewertung des Mauterhebers einzelner Prüffälle
+2.  Bewertung des Mauterhebers für einzelner Prüffälle
 
 
-–   Unterschrift des Mauterhebers.
+3.  digitale Unterschrift des Mauterhebers
 
 
 
 
-## Anhang A.2: Prüfbericht für Prüfszenario
+### **Anhang A.2: Szenariobericht (nur Phase 3)**
 
-Für jedes Prüfszenario ist ein separater Prüfbericht zu erstellen, der
-das abschließende Prüfergebnis dieses Szenarios in Form einer
+Für jedes Prüfszenario ist ein separater Szenariobericht zu erstellen,
+der das abschließende Prüfergebnis dieses Szenarios in Form einer
 Übersicht dokumentiert und mindestens die folgenden Inhalte umfasst:
 
-–   eindeutige Referenznummer für den Prüfbericht
+1.  eindeutige Referenznummer für den Szenariobericht
 
-    Diese sollte sich zusammensetzen aus der Nummer des Prüfszenarios,
+
+2.  Diese sollte sich zusammensetzen aus der Nummer des Prüfszenarios,
     einem eindeutigen Bezeichner des EETS-Anbieters und einem eindeutigen
-    Suffix (z. B. Zeitstempel).
+    Suffix (zum Beispiel Zeitstempel).
 
 
-–   Datum der Fertigstellung des Berichts
+3.  Datum der Fertigstellung des Berichts
 
 
-–   Angabe des Prüfszenarios
+4.  Angabe des Prüfszenarios
 
 
-–   Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
+5.  Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
 
 
-–   Angaben zum Verantwortlichen für die Erstellung des Prüfberichts
+6.  Angaben zum Verantwortlichen für die Erstellung des Prüfberichts
 
 
-–   eindeutige Konfigurations- beziehungsweise Versionsbezeichnung aller
-    beteiligten Teilsysteme des EETS-Anbieters (Zentralsystem und
-    verwendete Bordgeräte)
-    Falls während der Prüfung mehr als eine Konfiguration beziehungsweise
-    Version der Teilsysteme des EETS-Anbieters zum Einsatz kam, sind hier
-    alle Konfigurations- beziehungsweise Versionsbezeichnungen
-    aufzuführen.
+7.  eindeutige Konfigurations- und Versionsbezeichnung aller beteiligten
+    Teilsysteme des EETS-Anbieters (Zentralsystem und verwendete
+    Bordgeräte)
 
 
-–   eindeutige Konfigurations- oder Versionsbezeichnung des Mauterhebers
+8.  Falls während der Prüfung mehr als eine Konfiguration oder Version der
+    Teilsysteme des EETS-Anbieters zum Einsatz kam, sind hier alle
+    Konfigurations- und Versionsbezeichnungen aufzuführen.
 
 
-–   Für die Phase 1 und 2 muss der Prüfbericht eine Übersicht mit allen im
-    Rahmen des Prüfszenarios durchgeführten Prüffällen enthalten. Für
-    jeden Prüffall muss die Liste folgende Informationen enthalten:
-
-    –   Nummer des Prüffalls gemäß des abgestimmten Prüfprogramms
+9.  eindeutige Konfigurations- oder Versionsbezeichnung des Mauterhebers
 
 
-    –   Prüfergebnis (Bestanden/Nicht bestanden)
+10. Der Prüfbericht eine Übersicht aller Vorgaben des Prüfszenarios
+    enthalten (vergleiche jeweils Zeilen „Bewertung“ in Kapitel 6.3). Für
+    jede Vorgabe muss nachvollziehbar erläutert werden, in welcher Form
+    und zu welchem Zeitpunkt sie durch das Fahrverhalten der
+    Nutzerreferenzgruppe, durch die Prozesse im Teilsystem des EETS-
+    Anbieters oder durch die Prozesse des Mauterhebers (z.B. im
+    Kontrollbereich) erfüllt wurde. Für jede Vorgabe muss die Liste
+    folgende Informationen enthalten:
+
+    •   Beschreibung der Vorgabe
 
 
-    –   Abweichungen festgestellt (Ja/Nein)
+    •   Beschreibung der Art und Weise der Erfüllung
 
 
-    –   eindeutige Referenznummer für das entsprechende Umgebungsprotokoll
-        bzw. Prüfprotokoll.
+    •   Zeitpunkt der Erfüllung
 
 
-
-
-
-–   Für Phase 1 und 2 muss eine Bewertung der Prüfabdeckung erfolgen: Wie
-    deckt die Gesamtheit der Prüffälle das Prüfszenario und die zugrunde
-    liegenden Prüffallvorgaben ab?
-
-
-–   Für die Phase 3 muss der Prüfbericht eine Übersicht aller Vorgaben des
-    Prüfszenarios enthalten. Für jede Vorgabe muss nachvollziehbar
-    erläutert werden, in welcher Form und zu welchem Zeitpunkt sie durch
-    das Fahrverhalten der Nutzerreferenzgruppe, durch die Prozesse im
-    Teilsystem des EETS-Anbieters oder durch die Prozesse des Mauterhebers
-    (z. B. im Kontrollbereich) erfüllt wurde. Für jede Vorgabe muss die
-    Liste folgende Informationen enthalten:
-
-    –   Beschreibung der Vorgabe
-
-
-    –   Beschreibung der Art und Weise der Erfüllung
-
-
-    –   Zeitpunkt der Erfüllung
-
-
-    –   Beschreibung eventuell festgestellter Abweichungen.
+    •   Beschreibung eventuell festgestellter Abweichungen
 
 
 
 
 
-–   Abschließende Zusammenfassung des Prüfergebnisses für das
-    Prüfszenario:
+11. abschließende Zusammenfassung des Prüfergebnisses für das Prüfszenario
 
-    Falls das Prüfszenario trotz festgestellter Abweichungen in einzelnen
+
+12. Falls das Prüfszenario trotz festgestellter Abweichungen in einzelnen
     Prüffällen oder trotz unvollständiger Abdeckung als „Bestanden“
-    eingestuft wird, müssen die Abweichungen beziehungsweise der
-    Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis
-    ausführlich begründet werden.
+    eingestuft wird, müssen die Abweichungen in Form einer Risikoanalyse
+    bewertet und das Ergebnis ausführlich begründet werden.
 
 
-–   Gegebenenfalls Beschreibungen der Maßnahmen, mit denen die
-    Abweichungen behoben werden sollen.
+13. gegebenenfalls Beschreibungen der Maßnahmen, mit denen die
+    Abweichungen behoben werden sollen
 
 
-–   Unterschrift des Verantwortlichen für die Erstellung des Prüfberichts.
+14. digitale Unterschrift des Verantwortlichen für die Erstellung des
+    Szenarioberichts
 
 
 
 
-Zusätzlich sollte der Prüfbericht ausreichend Platz vorsehen für:
+Zusätzlich sollte der Szenariobericht ausreichend Platz vorsehen für:
 
-–   Kommentare des Mauterhebers, insbesondere zu der Bewertung der
+1.  Kommentare des Mauterhebers, insbesondere zu der Bewertung der
     Prüfabdeckung und eventuell festgestellter Abweichungen sowie dem
     Prüfergebnis
 
 
-–   Unterschrift des Mauterhebers.
+2.  digitale Unterschrift des Mauterhebers
 
 
 
 
-## Anhang A.3: Abschlussbericht für jede Prüfphase
+### **Anhang A.3: Abschlussbericht für jede Prüfphase**
 
 Für jede Prüfphase ist ein separater Abschlussbericht zu erstellen,
 der das abschließende Prüfergebnis dieser Phase dokumentiert. Der
@@ -6190,71 +6168,121 @@ Abschlussbericht enthält eine Übersicht über alle in der Phase
 durchgeführten Prüfungen und Inspektionen und umfasst mindestens die
 folgenden Inhalte:
 
-–   eindeutige Referenznummer für den Abschlussbericht
-    Diese sollte sich zusammensetzen aus der Bezeichnung der Prüfphase,
+Generelle Inhalte für jede der Phasen 1 bis 3:
+
+1.  eindeutige Referenznummer für den Abschlussbericht
+
+
+2.  Diese sollte sich zusammensetzen aus der Bezeichnung der Prüfphase,
     einem eindeutigen Bezeichner des EETS-Anbieters und einem eindeutigen
-    Suffix (z. B. Zeitstempel).
+    Suffix (zum Beispiel Zeitstempel).
 
 
-–   Datum der Fertigstellung des Berichts
+3.  Datum der Fertigstellung des Berichts
 
 
-–   Angabe der Prüfphase
+4.  Angabe der Prüfphase
 
 
-–   Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
+5.  Angaben zum EETS-Anbieter inklusive Firmenname und Anschrift
 
 
-–   Angaben zum Verantwortlichen für die Erstellung des Abschlussberichts
+6.  Angaben zum Verantwortlichen für die Erstellung des Abschlussberichts
 
 
-–   für Phase 1: Übersicht über die Durchführung aller Prüffallvorgaben
-    inklusive Ergebnis
+7.  sofern Inspektionen durchgeführt wurden:
 
 
-–   Übersicht mit allen im Rahmen der Prüfphase durchgeführten
+8.
+    •   erfolgreich abgeschlossen (Ja/Nein),
+
+
+    •   eindeutige Referenznummer des zugeordneten Inspektionsberichtes
+
+
+
+
+
+9.  abschließende Zusammenfassung des Prüfergebnisses für die Prüfphase
+
+
+10. Falls die Prüfphase trotz festgestellter Abweichungen, Auffälligkeiten
+    oder unvollständiger Abdeckung in einzelnen Prüfszenarien als
+    „Bestanden“ eingestuft wird, müssen die Abweichungen, Auffälligkeiten
+    und der Abdeckungsgrad nach Aufforderung des Mauterhebers in Form
+    einer Risikoanalyse bewertet und das Ergebnis ausführlich begründet
+    werden.
+
+
+11. digitale Unterschrift des Verantwortlichen für die Erstellung des
+    Abschlussberichts
+
+
+
+
+Inhalte des Abschlussberichts für Phase 1:
+
+1.  Übersicht über die Durchführung aller Prüffälle der
+    Schnittstellenprüfung inklusive Ergebnis, für jeden Prüffall muss die
+    Liste folgende Informationen enthalten
+
+
+2.  Nummer des Prüffalls gemäß der abgestimmten Prüfplanung
+
+
+3.  Prüfergebnis („Bestanden“, „Bestanden mit
+    Abweichungen/Auffälligkeiten“,“ Nicht bestanden“)
+
+
+4.  Abweichungen festgestellt (Ja / Nein)
+
+
+5.  eindeutige Referenznummer für das entsprechende Prüfprotokoll
+
+
+6.  Ergebnis der Durchführung der Kompatibilitätstests (DSRC-
+    Kompatibilitätstests und MED-Kompatibilitätstests) inklusive Referenz
+    auf den Ergebnisbericht der Kompatibilitätstests
+
+
+
+
+Inhalte des Abschlussberichts für Phase 2:
+
+1.  Übersicht mit allen im Rahmen der Prüfphase durchgeführten Prüffällen
+    (gegliedert nach den Prüfszenarien); für jeden Prüffall muss die Liste
+    folgende Informationen enthalten:
+
+
+2.  Nummer des Prüffalls gemäß der abgestimmten Prüfplanung
+
+
+3.  Prüfergebnis („Bestanden“, „Bestanden mit
+    Abweichungen/Auffälligkeiten“,“ Nicht bestanden“)
+
+
+4.  Abweichungen festgestellt (Ja / Nein)
+
+
+5.  eindeutige Referenznummer für das entsprechende Prüfprotokoll
+
+
+
+
+Inhalte des Abschlussberichts für Phase 3:
+
+1.  Übersicht mit allen im Rahmen der Prüfphase durchgeführten
     Prüfszenarien; für jedes Prüfszenario muss die Liste folgende
     Informationen enthalten:
 
-    –   Nummern der Prüfszenarien und Prüfergebnis (Bestanden/Nicht bestanden)
+
+2.  Nummer des Prüfszenarios
 
 
-    –   Abweichungen festgestellt (Ja/Nein)
+3.  Prüfergebnis,
 
 
-    –   Prüfabdeckung unvollständig (Ja/Nein)
-
-
-    –   eindeutige Referenznummer für den entsprechenden Prüfbericht;
-
-
-
-
-
-–   sofern Inspektionen durchgeführt wurden: Übersicht mit allen im Rahmen
-    der Prüfphase durchgeführten Inspektionen; für jede Inspektion muss
-    die Liste folgende Informationen enthalten:
-
-    –   erfolgreich abgeschlossen (Ja/Nein)
-
-
-    –   eindeutige Referenznummer des zugeordneten Inspektionsberichts;
-
-
-
-
-
-–   abschließende Zusammenfassung des Prüfergebnisses für die Prüfphase
-
-    Falls die Prüfphase trotz festgestellter Abweichungen oder trotz
-    unvollständiger Abdeckung in einzelnen Prüfszenarien als „Bestanden“
-    eingestuft wird, müssen die Abweichungen beziehungsweise der
-    Abdeckungsgrad in Form einer Risikoanalyse bewertet und das Ergebnis
-    ausführlich begründet werden.
-
-
-–   Unterschrift des Verantwortlichen für die Erstellung des
-    Abschlussberichts
+4.  eindeutige Referenznummer für die entsprechenden Szenarioberichte
 
 
 
@@ -6262,7513 +6290,7787 @@ folgenden Inhalte:
 Nachdem der EETS-Anbieter den Abschlussbericht zur Verfügung gestellt
 hat, erstellt der Mauterheber einen eigenen Abschlussbericht.
 
+### **Anhang B: Prüfkataloge**
 
-## Anhang B: Prüffallvorgaben Schnittstellenprüfung
+Siehe separate Dokumente als Anlagen:
+
+(1) Prüfkatalog Schnittstellenprüfung
+
+
+(2) Prüfkatalog DSRC-Kompatibilitätstests
+
+
+(3) Prüfkatalog MED-Kompatibilitätstests
+
+
+(4) Prüfkatalog Probebetrieb
+
+
+
+
+Bundesrepublik Deutschland
+vertreten durch das Bundesministerium für Verkehr und digitale
+Infrastruktur (BMVI)
+dieses vertreten durch das
+## **Bundesamt für Güterverkehr (BAG)**
+
+## **Europäischer elektronischer Mautdienst (EETS)**
+
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
+
+## **Anlage 1 zum Dokument B- Prüfkonzept**
+
+## **Prüfkatalog „Schnittstellenprüfung“**
+
+
+*    *   **Version**
+
+    *   **Datum**
+
+    *   **Bearbeiter**
+
+    *   **Bearbeitung / Änderung**
+
+
+*    *   0.1
+
+    *   17.09.2020
+
+    *   RT
+
+    *   Erstellung erster unvollständiger Entwurf
+
+
+*    *   1.0
+
+    *   04.12.2020
+
+    *   RT
+
+    *   Überarbeitung nach Review Prüfspezifikation SSP, QS und Finalisierung
+
+
+*    *   1.1
+
+    *   07.09.2021
+
+    *   RT
+
+    *   Redaktionelle Überarbeitung und Ergänzung fehlende Beschreibung bei
+        P1-SSP-006.1
+
+
+
+**1 Einleitung**
+
+Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im
+Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2,
+Phase 1 Schnittstellenprüfung nachzuweisen ist.
+
+Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die
+Prüfspezifikation „Schnittstellenprüfung“ detailliert und
+konkretisiert.
+
+**2 Prüffälle**
+
+**2.1 P1- SSP-001: Austausch von sicherheitsrelevanten Objekten (SST
+004)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-001.1
+
+    *   Übertragung von Transportschlüsseln vom BAG zum EA
+
+    *   Der Mauterheber überträgt die folgenden Transportschlüssel via SST004
+        (organisatorische Schnittstelle) jeweils einzeln an den EETS-Anbieter:
+
+        •   KPUB\_BAG\_ENC
+
+
+        •   KPUB\_BAG\_SIG
+
+
+
+        Der EA implementiert die Transportschlüssel in seinem Zentralsystem
+        und quittiert die erfolgreiche Implementierung .
+
+    *   Korrekte und vollständige Übertragung der Transportschlüssel an den EA
+        und erfolgreiche Quittierung durch den EA
+
+
+*    *   P1-SSP-001.2
+
+    *   Übertragung von Transportschlüsseln vom EA zum BAG
+
+    *   Der EA überträgt den folgenden Transportschlüssel via SST004
+        (organisatorische Schnittstelle) an das BAG:
+
+        •   KPUB\_EP\_SIG
+
+
+
+        Das BAG implementiert den Transportschlüssel in seinem Zentralsystem
+        und quittiert die erfolgreiche Implementierung.
+
+    *   Korrekte und vollständige Übertragung der Transportschlüssel an das
+        BAG und erfolgreiche Quittierung durch das BAG
+
+
+*    *   P1-SSP-001.3
+
+    *   Übertragung von Zertifikaten vom BAG zum EA
+
+    *   Der Mauterheber überträgt die folgenden Zertifikate via SST004
+        (organisatorische Schnittstelle) jeweils einzeln an den EETS-Anbieter:
+
+        •   CERT\_BAG\_HTTPS
+
+
+        •   CERT\_BAG\_HTTPS\_AUTH
+
+
+        •   CERT\_BAG\_MAIL
+
+
+        •   CERT\_BAG\_NSIG
+
+
+        •   CERT\_TA\_BAG
+
+
+        •   CERT\_ROOT\_BAG
+
+
+
+        Der EA implementiert die Zertifikate in seinem Zentralsystem und
+        quittiert die erfolgreiche Implementierung.
+
+    *   Korrekte und vollständige Übertragung der Zertifikate an den EA und
+        erfolgreiche Quittierung durch den EA
+
+
+*    *   P1-SSP-001.4
+
+    *   Übertragung von Zertifikaten vom EA zum BAG
+
+    *
+        •   Der EA überträgt die folgenden Zertifikate via SST004
+            (organisatorische Schnittstelle) an das BAG:
+
+
+        •   CERT\_EP\_HTTPS
+
+
+        •   CERT\_EP\_HTTPS\_AUTH
+
+
+        •   CERT\_EP\_MAIL
+
+
+        •   CERT\_EP\_NSIG
+
+
+        •   CERT\_TA\_EP
+
+
+        •   CERT\_ROOT\_EP
+
+
+
+        Das BAG implementiert die Zertifikate in seinem Zentralsystem und
+        quittiert die erfolgreiche Implementierung.
+
+    *   Korrekte und vollständige Übertragung der Zertifikate an das BAG und
+        erfolgreiche Quittierung durch das BAG
+
+
+*    *   P1-SSP-001.5
+
+    *   Übertragung von Masterkeys vom EA zum BAG
+
+    *   Der EA überträgt die folgenden Masterkeys via SST004 (organisatorische
+        Schnittstelle) an das BAG:
+
+        •   KM\_CONTROL\_MAC1
+
+
+        •   KM\_CONTROL\_AC
+
+
+
+        Das BAG implementiert die Masterkeys in seinem Zentralsystem und
+        Kontrollstellen und quittiert die erfolgreiche Implementierung.
+        Prüfung der DSRC-Kommunikation zwischen EETS-OBU und Kontrollstelle.
+
+    *   Korrekte und vollständige Übertragung der Masterkeys an das BAG sowie
+        erfolgreiche Quittierung durch das BAG und erfolgreiche DSRC-
+        Kommunikation zwischen EETS-OBU und Kontrollstelle.
+
+
+
+**2.2 P1- SSP-002: technische Schnittstellenprüfung (SST 001, SST 002,
+, SST 008, SST 099)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-002.1
+
+    *   Übertragung einer leeren Nutzerliste (SST002a)
+
+    *   Der EA übermittelt dem Mauterheber via SST002a eine leere Nutzerliste.
+        Der Mauterheber bestätigt im selben WebService-Aufruf den
+        erfolgreichen Empfang mit einer sendApduResponse ohne Apdu-Element.
+        Nach der Verarbeitung der empfangenen (leeren) Nutzerliste führt der
+        Mauterheber einen WebService-Aufruf via SST099 durch und sendet dem EA
+        eine AckADU mit dem ApduReasonCode „apduOK
+
+    *   Nachweis der erfolgreichen Übertragung einer Nutzerliste inklusive
+        synchrone und asynchrone Bestätigung
+
+
+*    *   P1-SSP-002.2
+
+    *   Übertragung einer leeren Sperrliste (SST001)
+
+    *   Der EA übermittelt dem Mauterheber via SST001 eine leere Sperrliste.
+        Der Mauterheber bestätigt im selben WebService-Aufruf den
+        erfolgreichen Empfang mit einer sendApduResponse ohne Apdu-Element.
+        Nach der Verarbeitung der empfangenen (leeren) Sperrliste führt der
+        Mauterheber einen WebService-Aufruf via SST099 durch und sendet dem EA
+        eine AckADU mit dem ApduReasonCode „apduOK
+
+    *   Nachweis der erfolgreichen Übertragung einer Sperrliste inklusive
+        synchrone und asynchrone Bestätigung
+
+
+*    *   P1-SSP-002.3
+
+    *   Übertragung eines leeren Tagesberichts (SST008)
+
+    *   Der EA übermittelt dem Mauterheber via SST008 in jeweils einzelnen
+        Nachrichten die verschiedenen Anteile des Tagesberichts. Diese werden
+        vom Mauterheber synchron und asynchron quittiert. Zum Abschluss
+        überträgt der EA den Überblick Tagesbericht, der ebenfalls vom
+        Mauterheber synchron und asynchron quittiert wird.
+
+    *   Nachweis der erfolgreichen Übertragung eines Tagesberichts Sperrliste
+        inklusive synchrone und asynchrone Bestätigungen sowie korrekte
+        Übermittlung des Überblick Tagesberichts am Ende der Übertragung
+
+
+
+**2.3 P1- SSP-003: Verwalten der Nutzerliste (SST 002a)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-003.1
+
+    *   Neuanlage mehrerer Nutzer mit Fahrzeugen
+
+    *   Der EA legt im Rahmen einer Erstvertragsanlage mehrere neue EETS-
+        Nutzer mit jeweils mehreren Fahrzeugen an und aktiviert für diese den
+        Service für das deutsche Mautgebiet BFStrMG. Der EA aktualisiert die
+        Nutzerliste, in dem er die neuen UserIds der EETS-Nutzer in die
+        Nutzerliste einträgt, und übermittelt diese spezifikationskonform via
+        SST002a an den Mauterheber
+
+    *   Nachweis, dass der EA UserIds von EETS-Nutzern vollständig und korrekt
+        anlegt und diese via SST002a vollständig und spezifikationskonform
+        innerhalb der Nutzerliste an den Mauerheber übermittelt.
+
+
+*    *   P1-SSP-003.2
+
+    *   Abmelden eines Fahrzeugs
+
+    *   Der EA meldet der bereits angelegten und an den Mauterheber via
+        SST002a gemeldeten UserId ab und aktualisiert die Nutzerliste.
+        Anschließend übermittelt der EA die Nutzerliste spezifikationskonform
+        via SST002a an den Mauterheber. Die abgemeldete UserID ist nicht mehr
+        Bestandteil der Nutzerliste.
+
+    *   Nachweis, dass der EA UserIds von EETS-Nutzern vollständig und korrekt
+        anlegt und diese via SST002a vollständig und spezifikationskonform
+        innerhalb der Nutzerliste an den Mauerheber übermittelt. Nachweis,
+        dass der EA UserId, die nicht mehr für den Dienst Deutschland bei ihm
+        registriert sind von der Nutzerliste entfernt.
+
+
+*    *   P1-SSP-003.3
+
+    *   Neues Bordgerät für bestehendes Fahrzeug
+
+    *   Das EETS-Bordgerät eines angelegten EETS-Fahrzeugs wird deinstalliert
+        und ein neues Bordgerät wird in das Fahrzeug installiert. Dies führt
+        dazu, dass die „alte“ UserId nicht mehr Bestandteil der Nutzerliste
+        ist. Stattdessen wird die Nutzerliste um die „neue“ UserId ergänzt.
+        Die aktualisierte Nutzerliste wird sodann an den Mauterheber via
+        SST002a spezifikationskonform übermittelt.
+
+    *   Nachweis, dass der EA Änderungen in den Daten einer UserId korrekt
+        verarbeitet und in seinem Zentralsystem korrekt anlegt und dass der EA
+        die Änderungen bei der Aktualisierung der Nutzerliste korrekt
+        berücksichtigt und sie via SST002a vollständig und
+        spezifikationskonform an den Mauerheber übermittelt.
+
+
+
+**2.4 P1- SSP-004: Verwalten der Liste der Sperrliste (SST 001)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-004.1
+
+    *   Sperrung mehrerer Bordgeräte (SST001)
+
+    *   Der EA sperrt mehrere UserIds und aktualisiert die Sperrliste.
+        Anschließend übermittelt der EA die aktualisierte Sperrliste
+        spezifikationskonform via SST001 an den Mauterheber.
+
+    *   Nachweis, dass der EA Sperrungen von bei ihm registrierten UserIds,
+        die einen aktiven Vertrag BFStrMG haben, durchführen kann und die
+        gesperrten UserIds via SST001 vollständig und spezifikationskonform
+        auf der Sperrliste an den Mauerheber übermittelt.
+
+
+*    *   P1-SSP-004.2
+
+    *   Entsperrung mehrerer Bordgeräte (SST001)
+
+    *   Der EA entsperrt die im Rahmen des vorherigen Testfalls gesperrten
+        UserIds und aktualisiert die Sperrliste. Anschließend übermittelt der
+        EA die aktualisierte Sperrliste spezifikationskonform via SST001 an
+        den Mauterheber.
+
+    *   Nachweis, dass der EA gesperrte, bei ihm registrierte UserIds wieder
+        entsperren kann und die entsperrten UserIds nicht mehr auf der
+        Sperrliste an den Mauterheber übermittelt.
+
+
+
+**2.5 P1- SSP-005: Verwalten von Nutzeradress- und Fahrzeugdaten (SST
+002b)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-005.1
+
+    *   Verschiedene Abfragen zu mehreren User-Ids
+
+    *   Der Mauterheber führt Anfragen zu Fahrzeug- und Adressdaten von
+        unterschiedlichen, beim EA registrierten UserIds via SST002b durch.
+        Nach der Verarbeitung der Anfragen stellt der EA via SST002b dem
+        Mauterheber die geforderten Nutzerinformationen bereit.
+
+    *   Der Mauterheber führt Anfragen zu Fahrzeug- und Adressdaten von
+        unterschiedlichen, beim EA registrierten UserIds via SST002b durch.
+        Nach der Verarbeitung der Anfragen stellt der EA via SST002b dem
+        Mauterheber die geforderten Nutzerinformationen bereit.
+
+
+*    *   P1-SSP-005.2
+
+    *   Abfrage von Fahrzeugdaten nach Änderung von Nutzerinformationen
+
+    *   Die Fahrzeugdaten einer UserId werden geändert. Der Mauterheber führt
+        anschließend eine Anfrage zu den (geänderten) Fahrzeugdaten via
+        SST002b durch.
+        Nach der Verarbeitung der Anfrage stellt der EA dem Mauterheber via
+        SST002b die geforderten Nutzerinformationen bereit.
+
+    *   Nachweis, dass der EA Änderungen an den Fahrzeugdaten in seinem
+        Zentralsystem korrekt umsetzt sowie die SST002b-Anfragen des
+        Mauterhebers entgegennimmt und verarbeitet und dem Mauterheber die
+        angeforderten Daten via SST002b vollständig und spezifikationskonform
+        bereitstellt
+
+
+
+**2.6 P1- SSP-006: Verwalten der Fahrzeugliste von EETS-Nutzern (SST
+002c)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-006.1
+
+    *   Abfrage des mautpflichtigen Fahrzeugbestands zu mehreren User-Ids
+
+    *   Der Mauterheber führt Anfragen nach den Fahrzeuglisten mehrerer EETS-
+        Nutzer durch. Nach der Verarbeitung der Anfragen zu den Fahrzeuglisten
+        der EETS-Nutzer stellt der EETS-Anbieter dem Mauterheber die
+        geforderten Flotteninformationen über die SST 002c bereit.
+
+    *   Nachweis, dass der EA Anfragen des Mauterhebers zur Fahrzeugliste
+        mehrerer EETS-Nutzer via SST002c entgegennimmt und verarbeitet und dem
+        Mauterheber die geforderten 002c-Daten vollständig und
+        spezifikationskonform bereitstellt
+
+
+
+**2.7 P1- SSP-007: Erzeugung von Tagesberichten (SST 008)**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-007.1
+
+    *   Erzeugung von Tagesberichten (SST008)
+
+    *   Der EA erstellt die Tagesberichts-Anteile für ausgeglichene und neue
+        überfällige Mautfahrten sowie den Überblick Tagesbericht für die im
+        Rahmen der MED-Kompatibilitätstests erhaltenen Mautbuchungsnachweise
+        (SST007R-Daten). Die SST008-Daten werden spezifikationskonform vom EA
+        an den Mauterheber via SST008 übertragen.
+        Der Mauterheber prüft im Rahmen der EETS-Einnahmeprüfung die
+        Korrektheit der im Tagesbericht kommunizierten Mautbeträge und führt
+        eine Plausibilisierung zwischen den im Tagesbericht referenzierten und
+        den erhaltenen Mautbuchungsnachweisen durch.
+
+    *   Nachweis, dass der EA für die im MED-Kompatibilitätstests erhaltenen
+        Mautbuchungsnachweise Tagesberichte gemäß SST008 erzeugt und diese an
+        spezifikationskonform an den Mauterheber übermittelt.
+
+
+
+**2.8 P1-SSP-008 (optional): Übertragung der Mautbasisdaten (SST003)
+an den EETS-Anbieter**
+
+Hinweis: Bei diesem Szenario handelt es sich um ein optionales
+Prüfszenario. Es muss nur dann absolviert werden, wenn der EETS-
+Anbieter die SST003 implementiert.
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P1-SSP-008.1
+
+    *   Übertragung der Mautbasisdaten (SST003) an den EETS-Anbieter
+
+    *   Der Mauterheber hat in seinem System eine Aktualisierung der
+        Mautbasisdaten durchgeführt. Um die aktualisierten Mautbasisdaten an
+        den EA zu kommunizieren, führt der Mauterheber einen WebService-Aufruf
+        via SST003 in Richtung des EA durch und übermittelt die aktuellen
+        Mautbasisdaten an den EA. Der EA quittiert den erfolgreichen Empfang
+        der Mautbasisdaten im selben WebService-Aufruf anhand einer AckADU mit
+        dem apduReasonCode „apduOk (2)“.
+
+    *   Nachweis, dass der Mauterheber die Schnittstelle 003 beim EA aufrufen
+        und die Mautbasisdaten spezifikationskonform an den EA übertragen kann
+        inklusive der erfolgreichen synchronen Rückmeldung.
+
+
+
+Bundesrepublik Deutschland
+vertreten durch das
+Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
+## **dieses vertreten durch das Bundesamt für Güterverkehr (BAG)**
+
+## **Europäischer elektronischer Mautdienst (EETS)**
+
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
+
+## **Anlage 2 zum Dokument B- Prüfkonzept**
+
+## **Prüfkatalog „DSRC-Kompatibilitätstests“**
+
+**Dokumentenhistorie**
+
+
+*    *   **Version**
+
+    *   **Datum**
+
+    *   **Bearbeiter**
+
+    *   **Bearbeitung / Änderung**
+
+
+*    *   0.1
+
+    *   17.09.2020
+
+    *   RT
+
+    *   Erstellung erster unvollständiger Entwurf
+
+
+*    *   0.2
+
+    *   30.10.2020
+
+    *   RT
+
+    *   Einarbeitung Review TC
+
+
+*    *   1.0
+
+    *   04.12.2020
+
+    *   RT
+
+    *   QS und Finalisierung
+
+
+*    *   2.0
+
+    *   07.07.2021
+
+    *   RT
+
+    *   Ergänzung Prüffälle für Version 3.0 der SST 301
+
+
+
+**1 Einleitung**
+
+Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im
+Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2,
+Phase 1 Kompatibilitätstests nachzuweisen ist. Er beschränkt sich auf
+die Prüffälle zum Nachweis der Kompatibilität zwischen dem Bordgerät
+des EETS-Anbieters zu den Kontrollstellen des nationalen
+Mautbetreibers.
+
+Die DSRC-Kompatibilitätstests umfassen dabei sowohl funktionale als
+auch betriebliche Aspekte und werden durch den nationalen
+Mautbetreiber geplant und durchgeführt.
+
+Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die
+Prüfspezifikation „DSRC-Kompatibilitätstests“ detailliert und
+konkretisiert.
+
+Die Prüffälle werden unterschieden in Bezug auf die Version der
+Schnittstellenspezifikation SST 301 auf die sie sich beziehen.
+
+**2 Prüffälle für SST301 Version 2.1**
+
+**2.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 –
+DSRC-Kommunikation**
+
+
+*    *   **Name / ID**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   DSRC\_A0BA\_BI01\_0010
+
+    *   Die Bake sendet BSTs für AIDs 1, 20 und 21 mit einem profile, das von
+        der OBU nicht unterstützt wird. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einem weiteren von der OBU nicht unterstützten profile
+        wiederholt.
+
+    *
+
+*    *   DSRC\_A0BA\_BI02\_0010
+
+    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung
+        in der mandApplicationList und leerer nonmandApplicationList. Die OBU
+        soll nicht antworten. Das wird wiederholt mit einer weiteren von der
+        OBU nicht unterstützten Anwendung in der mandApplicationList und der
+        vorigen Anwendung in der nonmandApplicationList.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BI03\_0011
+
+    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung
+        mit EID in der mandApplicationList und AID=20 in der
+        nonmandApplicationList. Die OBU soll nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BV01\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Dann schickt sie eine BST, die die OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV02\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die
+        OBU nicht
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV02\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die
+        OBU nicht
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei erst die manufacturerID
+        und dann die individualId der BST verändert wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV04\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST
+        um 256 Sekunden erhöht wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+
+
+*    *   DSRC\_A0BA\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 mit profile=0 und leerer profileList durch. In der VST soll der
+        Wert von Profile auf 0 gesetzt sein. Der Vorgang wird wiederholt mit
+        einer BST mit neuer BeaconID, profile=0 und profileList=1,U, wobei in
+        der VST profile wieder den Wert 0 haben soll. Der Vorgang wird
+        wiederholt mit einer BST mit neuer BeaconID, profile=1 und leerer
+        profileList, wobei in der VST profile wieder den Wert 1 haben soll.
+        Der Vorgang wird wiederholt mit einer BST mit neuer BeaconID,
+        profile=1 und profileList=0,U, wobei in der VST profile wieder den
+        Wert 1 haben soll. U hat den Wert eines Profils, das die OBU nicht
+        unterstützt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Die VST wird auf ein korrektes Format hin überprüft.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit
+        einer korrekten VST beantwortet.
+
+
+*    *   DSRC\_A0DA\_BI01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit
+        Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32,
+        das jeweils mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI05\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 49, 50, 51, 52, 53,
+        61 und 64, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI06\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das jeweils mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+
+
+*    *   DSRC\_A0DA\_BI08\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das
+        mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI09\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 24 und 32, das mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI11\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55,
+        60, 62 und 63, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI12\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit
+        Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV05\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 49, 50, 51, 52, 53,
+        61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0DA\_BV06\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV09\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BI02\_0010
+
+    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die
+        Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend
+        sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+
+
+*    *   DSRC\_A0FU\_BI03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet
+        sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen
+        Werten des Fragmentzählers, die von der OBU nicht beantwortet werden
+        sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7
+        und dem gültigen Wert des Fragmentzählers (0), die von der OBU
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BI04\_0010
+
+    *   Die Bake sendet je eine BST mit allen ungültigen Werten des
+        Fragmentzählers, die von der OBU nicht beantwortet werden sollen.
+        Abschließend führt sie eine reguläre Initialisierung durch, um zu
+        überprüfen, dass die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BI06\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen
+        Fehler erzeugen und die zweite mit "chaining error" beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV08\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und FlowControl=4. Der Tester
+        überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0FU\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und FlowControl=1. Der Tester
+        überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV11\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MM.rq mit mode=0 und FlowControl=1 an die
+        Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV12\_0010
+
+    *   Die Bake sendet ein SET\_MMI.rq mit mode=0 und FlowControl=1 an die
+        Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV13\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+
+
+*    *   DSRC\_A0FU\_BV14\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die
+        OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll.
+        Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1
+        und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer
+        Transaktion PDUs für mehrere Elemente empfangen kann.
+
+
+*    *   DSRC\_A0FU\_BV16\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die
+        jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BV17\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für Attribut 32, das ordnungsgemäß beantwortet
+        werden soll. Dann sendet sie jeweils ein GET.rq mit falschen
+        AccessCredentials, AttributeIdList mit nicht existierendem Attribut 31
+        und falscher EID, die jeweils mit Fehlermeldung beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV19\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET\_STAMPED.rq für Attribut 32, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit falschen AccessCredentials, AttributeIdList mit nicht
+        existierendem Attribut 31, falscher EID und ungültigem Wert 11 und 121
+        für den keyRef-Parameter, die jeweils mit Fehlermeldung beantwortet
+        werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV20\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen
+        Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq
+        mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen
+        soll und das von der OBU korrekt beantwortet werden soll. Zuletzt
+        sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter 129 (0x81),
+        das mit Fehlermeldung beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        SET\_MMI-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0FU\_BV21\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit
+        mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden
+        soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem ActionParameter
+        (hex. 11 01 20 04 12 34 56 78 70), das mit Fehlermeldung beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV01\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 1 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV02\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 2 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV03\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 3 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV04\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 4 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV05\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 5 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0SE\_BV06\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 6 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV07\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 7 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV08\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 8 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für Attribut 32, das regulär beantwortet werden soll.
+        Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für das ungültige Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 11 und 121, die jeweils mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI01\_0010
+
+    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der
+        OBU/das DSRC-Modul nicht unterstützt wird. Die OBU/das DSRC-Modul soll
+        nicht antworten. Das wird wiederholt mit einem weiteren von der OBU
+        nicht unterstützten profile 17 (hex 11) wiederholt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI02\_0010
+
+    *   Die Bake sendet BSTs für die von der OBU nicht unterstütze Anwendung
+        19 (hex 13) in der mandApplicationList und leerer
+        nonmandApplicationList. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einer weiteren von der OBU nicht unterstützten
+        Anwendung 31 (hex 1F) in der mandApplicationList und 19 in der
+        nonmandApplicationList.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI03\_0011
+
+    *   Die Bake sendet BSTs für eine von der OBU/das DSRC-Modul nicht
+        unterstütze Anwendung 19 (hex 13) mit EID in der mandApplicationList
+        und AID=20 in der nonmandApplicationList. Die OBU/das DSRC-modul soll
+        nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BV01\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq, das die OBU/das DSRC-Modul beantworten soll.
+        Dann wiederholt sie ihre BST (evtl. mit neuer BeaconTime, wenn diese
+        sich mittlerweile verändert hat), die die OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV02\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die
+        OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+
+
+*    *   DSRC\_A1BA\_BV03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze
+        Vorgang wird einmal wiederholt mit um 1 erhöhter manufacturerID in der
+        BST und dann nochmals wiederholt mit der vorigen, erhöhten
+        manufacturerID und um 1 erhöhter individualId der BST.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV04\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST
+        um 256 Sekunden erhöht wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV09\_0010
+
+    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der OBU
+        nicht unterstützt wird. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einem weiteren von der OBU nicht unterstützten profile
+        17 (hex 11) wiederholt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Die VST wird auf ein korrektes Format hin überprüft.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit
+        einer korrekten VST beantwortet.
+
+
+*    *   DSRC\_A1DA\_BI01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit
+        Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32,
+        das jeweils mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI05\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 49, 50, 51, 52, 53,
+        61 und 64, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI06\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das jeweils mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+
+
+*    *   DSRC\_A1DA\_BI07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI08\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das
+        mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI09\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 24 und 32, das mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI11\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55,
+        60, 62 und 63, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI12\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61 und 64, das mit
+        Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1DA\_BV05\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 49, 50, 51, 52, 53,
+        61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV06\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV09\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 49, 50, 51,
+        52, 53, 61 und 64, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BI02\_0010
+
+    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die
+        Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend
+        sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BI03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet
+        sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen
+        Werten des Fragmentzählers, die von der OBU nicht beantwortet werden
+        sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7
+        und dem gültigen Wert des Fragmentzählers (0), die von der OBU
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BI04\_0010
+
+    *   Die Bake sendet je eine BST mit allen ungültigen Werten des
+        Fragmentzählers, die von der OBU nicht beantwortet werden sollen.
+        Abschließend führt sie eine reguläre Initialisierung durch, um zu
+        überprüfen, dass die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BI06\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen
+        Fehler erzeugen und die zweite mit "chaining error" beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV08\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1FU\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=4 (z.B. SET\_MMI).
+        Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI).
+        Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV11\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI)
+        an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI
+        ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV12\_0010
+
+    *   Die Bake sendet ein ACTION.rq mit mode=0 und FlowControl=1 (z.B.
+        SET\_MMI) an die Broadcast-LID. Der Tester überprüft, ob die OBU das
+        SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV13\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV14\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die
+        OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll.
+        Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1
+        und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer
+        Transaktion PDUs für mehrere Elemente.
+
+
+*    *   DSRC\_A1FU\_BV16\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die
+        jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV17\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie jeweils ein GET.rq mit
+        falschen AccessCredentials, AttributeIdList mit nicht existierendem
+        Attribut und falscher EID, die jeweils mit Fehlermeldung beantwortet
+        werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV19\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das
+        ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein
+        GET\_STAMPED.rq mit falschen AccessCredentials, AttributeIdList mit
+        nicht existierendem Attribut, falscher EID und ungültigem Wert für den
+        keyRef-Parameter, die jeweils mit Fehlermeldung beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1FU\_BV20\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen
+        Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq
+        mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen
+        soll und das von der OBU korrekt beantwortet werden soll. Zuletzt
+        sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter, das mit
+        Fehlermeldung beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        SET\_MMI-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV21\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit
+        mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden
+        soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem ActionParameter,
+        das mit Fehlermeldung beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 1
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 2
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 3
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1SE\_BV04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 4
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt Die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 5
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 6
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 7
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut, das regulär beantwortet
+        werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq mit
+        ungültigen accesssCredentials, für ein ungültiges Attribut, für eine
+        ungültige EID und mit ungültigem keyRef, die jeweils mit Fehlercode
+        beantwortet werden sollen. Für diesen Testfall wird der keyRef-Wert 8
+        benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_LLC\_\_BI01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für
+        AIDs 1, 20 und 21, bei der die beiden Füllbits im LLC-Kontrollfeld auf
+        die ungültigen Werte 00, 01 und 10 gesetzt sind. Die OBU soll nicht
+        antworten. Anschließend wird mit einer normalen BST überprüft, ob die
+        OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetzten Füllbits im LLC-Kontrollfeld erkennt und
+        ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie einen ECHO-Befehl, bei dem ein halbes Byte
+        entfernt wird. Die OBU soll nicht reagieren. Anschließend wird mit
+        einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ECHO-Befehle mit P-Bit=1, aber allen
+        ungültigen Werten der modifier-Bits. Die OBU soll nicht reagieren.
+        Dann sendet sie ECHO-Befehle mit P-Bit=1, aber allen ungültigen Werten
+        der reserved-Bits. Die OBU soll nicht reagieren. Abschließend wird mit
+        einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit ungültigen modifier- und reserved-Bits im LLC-Kontrollfeld
+        erkennt und ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq mit der LID 0xFF, das die OBU
+        nicht beantworten soll. Danach sendet sie ECHO.rq an alle Multicast-
+        LIDs, die die OBU ebenfalls nicht beantworten soll. Nach jedem
+        ungültigen Rahmen wird mit einem gültigen ECHO.rq an die OBU
+        überprüft, ob sie noch auf valide ACn-Befehle reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Rahmen
+        mit Broadcast- oder Multicast-LID ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für
+        AIDs 1, 20 und 21, bei der in der Nachricht ein halbes Byte fehlt. Die
+        OBU soll nicht antworten. Anschließend wird mit einer normalen BST
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq mit P-Bit im LLC-Kontrollfeld = 1,
+        aber ohne LSDU, der von der OBU ignoriert werden soll. Abschließend
+        wird mit einem gültigen ECHO.rq an die OBU überprüft, ob sie noch auf
+        valide ACn-Befehle reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        mit p-Bit=1, aber ohne LSDU ignoriert.
+
+
+*    *   DSRC\_LLC\_\_BI07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq, das von der OBU beantwortet
+        werden soll. Die Bake wiederholt das ECHO.rq unverändert und erwartet
+        die gleiche Antwort wie vorher. Danach sendet die Bake einen ECHO.rq
+        mit invertiertem n-Bit und anderen ECHO-Daten und erwartet eine
+        korrekte Antwort auf den neuen Befehl.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul doppelt
+        ACn-Befehle korrekt verarbeitet.
+
+
+*    *   DSRC\_LLC\_\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake führt eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Das P-Bit
+        im LLC-Kontrollfeld der VST soll den Wert 0 haben.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul UI-Befehle
+        austauschen kann.
+
+
+*    *   DSRC\_LLC\_\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach
+        sendet sie ein SET\_MMI.rq als AC0-Befehl; als Antwort wird eine
+        AC1-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet. Dann
+        sendet die Bake ein SET\_MMI.rq als AC1-Befehl; als Antwort wird eine
+        AC0-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        empfangen kann.
+
+
+*    *   DSRC\_LLC\_\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach
+        sendet sie ein ECHO.rq als AC0-Befehl; als Antwort wird eine
+        AC1-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet. Dann
+        sendet die Bake ein ECHO.rq als AC1-Befehl; als Antwort wird eine
+        AC0-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        austauschen kann.
+
+
+*    *   DSRC\_LLC\_\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dann
+        sendet sie einen ACn-Befehl, der dazu führt, dass die OBU die late
+        response-Prozedur ausführt. Als Antwort wird ein Rahmen mit LLC status
+        subfield=NE\_OK erwartet. Die Bake wiederholt BSTs, bis die
+        angenommene Verarbeitungsdauer der OBU abgelaufen ist, und erwartet
+        dann ein private window request. Die Bake sendet ein private window
+        response und erwartet die Antwort auf den ACn-Befehl in einem UI-
+        Rahmen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die late
+        response-Prozedur korrekt durchführt.
+
+
+*    *   DSRC\_MAC\_\_BI01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der in der Nachricht zwei Bitfehler
+        auftreten. Die OBU soll nicht antworten. Anschließend wird mit einer
+        ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit zweifachem Bitfehler in der Nachricht ignoriert.
+
+
+
+
+*    *   DSRC\_MAC\_\_BI02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der in der FCS zwei Bitfehler auftreten.
+        Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten
+        BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit zweifachem Bitfehler in der FCS ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake sendet
+        eine BST für AIDs 1, 20 und 21, bei der in der Nachricht 15
+        aufeinanderfolgende Bit invertiert werden. Die OBU soll nicht
+        antworten. Anschließend wird mit einer ungestörten BST überprüft, ob
+        die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit 15 konsekutiven Bitfehlern in der Nachricht ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Einfügen der 0-Bits unterbleibt.
+        Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten
+        BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen ohne 0-Bit insertion in der LID ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das end flag durch ein Abort-Byte
+        ersetzt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einem Abort-Byte anstelle der end flag ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die
+        maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS)
+        überschritten wird. Die OBU soll nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul Rahmen
+        erkennt und ignoriert, die länger als die vom Standard erlaubten 128
+        Byte (incl. Flags und FCS) sind.
+
+
+*    *   DSRC\_MAC\_\_BI07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie privateWindowRequests, bei der die LID 5 statt
+        der vorgesehenen 4 Byte lang ist und bei der die ersten 4 der 5 Byte
+        der LID der OBU entsprechen. Zuletzt wird überprüft, ob die OBU noch
+        auf valide window allocations reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul eine
+        falsche LID erkennt und ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie privateWindowRequests ohne MAC-Kontrollfeld.
+        Zuletzt wird überprüft, ob die OBU noch auf valide window allocations
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen ohne MAC-Kontrollfeld erkennt und ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI09\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das A-Bit im MAC-Kontrollfeld auf 0
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das A-Bit
+        im MAC-Kontrollfeld beachtet.
+
+
+
+
+*    *   DSRC\_MAC\_\_BI10\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das D-Bit im MAC-Kontrollfeld auf 1
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in der BST
+        das D-Bit im MAC-Kontrollfeld beachtet.
+
+
+*    *   DSRC\_MAC\_\_BI11\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das D-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das D-Bit im MAC-Kontrollfeld beachtet.
+
+
+*    *   DSRC\_MAC\_\_BI12\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das L-Bit im MAC-Kontrollfeld auf 0
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem L-Bit im MAC-Kontrollfeld erkennt und
+        ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI13\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das L-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem L-Bit im MAC-Kontrollfeld erkennt und
+        ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI14\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das C/R-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem C/R-Bit im MAC-Kontrollfeld erkennt und
+        ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI15\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem die Füllbits im MAC-
+        Kontrollfeld auf 1 gesetzt sind. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetzten Füllbits im MAC-Kontrollfeld erkennt und
+        ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI16\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal über 15
+        zusammenhängende Bit unterdrückt wird. Die OBU soll nicht antworten.
+        Anschließend wird mit einer ungestörten BST überprüft, ob die OBU
+        korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung über 15 zusammenhängende Bit ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI17\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal während der start flag
+        unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung während der start flag ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI18\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal während der end flag
+        unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung während der end flag ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI19\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation mit der LID 0xFF. Die OBU
+        soll nicht antworten. Anschließend wird mit einem korrekten private
+        window allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit der Broadcast-LID anstelle der privaten ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI20\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Dann
+        sendet sie ein private window allocation mit einer Multicast-LID. Die
+        OBU soll nicht antworten. Anschließend wird mit einem korrekten
+        private window allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Multicast-LID anstelle der privaten ignoriert.
+
+
+*    *   DSRC\_MAC\_\_BI21\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das A-Bit im MAC-
+        Kontrollfeld auf 0 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das A-Bit im MAC-Kontrollfeld beachtet.
+
+
+*    *   DSRC\_MAC\_\_BI22\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und FIXME LA durch.
+        Anschließend sendet sie einen ACn-Befehl, wobei das A-Bit des Rahmens
+        auf 0 gesetzt wird. Zuletzt wird mit einem ACn-Befehl mit korrektem
+        A-Bit überprüft, ob die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das A-Bit im MAC-Kontrollfeld beachtet.
+
+
+*    *   DSRC\_MAC\_\_BI23\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Dann
+        sendet sie ein private window allocation mit gültiger, aber von der
+        LID des private windows request abweichender LID. Die OBU soll nicht
+        antworten. Anschließend wird mit einem korrekten private window
+        allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen die LID beachtet.
+
+
+*    *   DSRC\_MAC\_\_BI24\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Die
+        Bake ignoriert das window request und wiederholt die BST. Die OBU soll
+        ihr private window request wiederholen
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul private
+        window requests korrekt wiederholt.
+
+
+*    *   DSRC\_MAC\_\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die
+        maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS) erreicht
+        wird. Die OBU soll mit einem private Windows request antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen der durch den Standard festgelegten Maximallänge korrekt
+        verarbeiten kann.
+
+
+*    *   DSRC\_MAC\_\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie T1 nach dem Ende der VST ein ECHO.rq. Eine
+        Antwort der OBU wird erwartet
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen
+        Mindestabstand versendet wurden.
+
+
+*    *   DSRC\_MAC\_\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Das
+        wird X male wiederholt und dann ausgewertet, ob die window requests
+        zeitlich im erlaubten Bereich lagen
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der
+        drei public uplink windows benutzt.
+
+
+*    *   DSRC\_MAC\_\_BV04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein SET\_MMI.rq ohne window allocation und
+        dann unmittelbar im zeitlichen Abstand von T2 eine neue BST. Eine
+        Antwort der OBU wird erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen
+        Mindestabstand versendet wurden.
+
+
+*    *   DSRC\_MAC\_\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dabei wird
+        die Zeit zwischen dem Ende des End flag des private window allocation
+        und dem ersten Bit der Präambel der VST sowie dem Ende des letzten Bit
+        der End flag der VST gemessen. Beide Werte sollen die Vorgaben aus dem
+        Standard einhalten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul bei
+        privaten Rahmen das vom Standard vorgegebene Timing einhält.
+
+
+*    *   DSRC\_MAC\_\_BV06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Die Bake
+        ignoriert die VST und sendet ein private window allocation mit dem
+        gleichen S-Bit wie beim vorigen window alocation. Es wird erwartet,
+        dass die OBU mit einer VST antwortet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit
+        und das L-Bit des MAC-Kontrollfeldes korrekt verarbeitet und
+        Wiederholungen der VST korrekt verarbeiten kann.
+
+
+*    *   DSRC\_MAC\_\_BV07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt sie Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet die Bake ein ECHO mit ECHO\_DATA1 und erwartet ein
+        ECHO.rs mit ECHO\_DATA1. Dann sendet die Bake ein ECHO mit ECHO\_DATA2
+        und dem gleichen Wert des s-Bits wie zuvor und erwartet ein ECHO.rs
+        mit ECHO\_DATA2. Dann sendet die Bake ein private window allocation
+        mit dem gleichen Wert des S-Bit und erwartet ein ECHO.rs mit
+        ECHO\_DATA2.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit
+        und das L-Bit des MAC-Kontrollfeldes bei Rahmen mit LPDU korrekt
+        verarbeitet.
+
+
+*    *   DSRC\_MAC\_\_BV08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Das
+        wird X male wiederholt und dann ausgewertet, ob die private window
+        requests gleichmäßig benutzt wurden
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der
+        drei public uplink windows benutzt.
+
+
+*    *   DSRC\_MAC\_\_BV09\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch, wobei das
+        C/R-Bit des private window allocation auf 1 gesetzt wird. Anschließend
+        sendet die Bake ein private window request mit C/R=0 und gleichem
+        s-Bit wie vorher. Die OBU soll eine VST schicken.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul beide
+        gültigen Werte des C/R-Bit des MAC-Kontrollfeldes eines private window
+        requests korrekt verarbeitet.
+
+
+*    *   DSRC\_SFXX\_2BKN\_0010
+
+    *   Zunächst wird testweise eine Transaktion separat mit jeder der
+        beteiligten Baken ausgelöst. Falls keine Kommunikation mit der OBU
+        erfolgt, wird der Testlauf abgebrochen. Dann werden bei
+        gleichbleibender BeaconId an beiden Baken im Parallelbetrieb CCC-
+        Transaktionen durchgeführt. Es wird erwartet, dass das DSRC Modul beim
+        Empfang einer zyklischen BST die Transaktion zu den RSUs ändert und,
+        das das Modul nach dem Ablauf der 2 Baken-Testphase noch eine
+        Transaktion mit einer einzelnen Bake durchführen kann. Nach Ablauf der
+        Testdauer wird ermittelt, ob die OBUs die Bakenbefehle immer mit der
+        korrekten LID und gemäß des Protokollablaufs beantwortet haben.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul sich in einer worst
+        case-Situation, die aber bei der manuellen Kontrolle gelegentlich
+        auftritt, korrekt verhält.
+
+
+*    *   DSRC\_SFXX\_BLIM\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake 200 Mal
+        eine BST und registriert, ob die OBU bis zuletzt mit einem private
+        window request antwortet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul alle
+        empfangenen BSTs richtig auswertet.
+
+
+*    *   DSRC\_SFXX\_D003\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake
+        Transaktionen mit zeitlichen Unterbrechungen und
+        Übertragungswiederholungen durch.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul korrekte
+        Kontrollfeldkombinationen benutzt.
+
+
+*    *   DSRC\_SFXX\_FUL1\_0010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC-Transaktion durch und das Log wird auf
+        korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion
+        überprüft. Der Testfall wird als Dauertest über einen einstellbaren
+        Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate
+        ausgegeben.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen,
+        ordnungsgemäß Transaktionen durchführen kann.
+
+
+*    *   DSRC\_SFXX\_FUL2\_0010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC-Transaktion durch und das Log wird auf
+        korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion
+        überprüft. Der Testfall wird als Dauertest über einen einstellbaren
+        Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate
+        ausgegeben.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen,
+        ordnungsgemäß Transaktionen durchführen kann.
+
+
+*    *   DSRC\_SFXX\_FUL3\_0010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC-Transaktion durch und das Log wird auf
+        korrekte LID, Kontrollfelder und Vollständigkeit der Transaktion
+        überprüft. Der Testfall wird als Dauertest über einen einstellbaren
+        Zeitraum wiederholt. Abschließend wird die Transaktionserfolgsrate
+        ausgegeben.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen, die dem Wirkbetrieb möglichst nahe kommen,
+        ordnungsgemäß Transaktionen durchführen kann.
+
+
+*    *   DSRC\_SFXX\_LID\_\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann wird nach einer regulären
+        Initialisierungsphase das erste GET der CCC-Transaktion gesendet, das
+        ordnungsgemäß beantwortet werden soll. Dann wird der GET-Befehl mit
+        zwei verschiedenen, verfälschten LIDs wiederholt, die beide nicht
+        beantwortet werden sollen. Dann sendet die Bake jeweils ein RELEASE an
+        zwei verfälschte LIDs. Anschließend sendet die Bake den zweiten GET-
+        Befehl der Transaktion an die OBU, der beantwortet werden soll. Dann
+        sendet die Bake den gleichen GET-Befehl an zwei verfälschte LIDs,
+        wobei die OBU nicht antworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die LID
+        korrekt handhabt.
+
+
+*    *   DSRC\_SFXX\_STPW\_0010
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen
+        durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und
+        das Log auf die zeitliche Lage der private windows requests
+        untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass ein DSRC-Modul alle drei public
+        Anmeldefenster gleichmäßig nutzt. Darüber hinaus werden Statistiken
+        zur zeitlichen Lage der private windows requests erhoben.
+
+
+*    *   DSRC\_SFXX\_STPW\_0015
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen
+        durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und
+        das Log auf die zeitliche Lage der private windows requests
+        untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul das erlaubte
+        Zeitfenster für Übertragungen in private uplink windows einhält.
+        Darüber hinaus werden Statistiken zur zeitlichen Lage der
+        Übertragungen erhoben.
+
+
+*    *   DSRC\_SFXX\_STPW\_0020
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen
+        durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und
+        das Log auf die zeitliche Lage der private windows requests
+        untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass mehrere DSRC-Module jeweils alle
+        drei public Anmeldefenster gleichmäßig nutzt. Darüber hinaus werden
+        Statistiken zur zeitlichen Lage der private windows requests erhoben.
+
+
+*    *   DSRC\_SFXX\_STTD\_0010
+
+    *   Zunächst wird testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC-Transaktionen
+        durchgeführt. Nach Ablauf der Testdauer wird die Bake angehalten und
+        aus dem Log die Verteilung der Transaktionsdauern ermittelt.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul Transaktionen
+        innerhalb der vorgesehenen Dauer durchführen kann.
+
+
+*    *   DSRC\_SFXX\_STTD\_0020
+
+    *   Zunächst wird in einer Schleife die Transaktionserfolgsrate gemessen
+        und ausgegeben, so dass der Tester die OBU so platzieren kann, dass
+        die Echoerfolgsrate etwa bei 50% liegt. Dann werden bei laufend
+        wechselnder BeaconId im Dauertest CCC-Transaktionen durchgeführt. Nach
+        Ablauf der Testdauer wird die Bake angehalten und aus dem Log die
+        Verteilung der Transaktionsdauern ermittelt.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul auch bei mäßigen
+        Kommunikationsbedingungen Transaktionen innerhalb der vorgesehenen
+        Dauer durchführen kann.
+
+
+*    *   DSRC\_SFXX\_STTD\_0030
+
+    *   Zunächst wird in einer Schleife die Transaktionserfolgsrate gemessen
+        und ausgegeben, so dass der Tester die
+        Obu                      so platzieren kann, dass die Echoerfolgsrate
+        etwa bei 15% liegt. Dann werden bei laufend wechselnder BeaconId im
+        Dauertest CCC-Transaktionen durchgeführt. Nach Ablauf der Testdauer
+        wird die Bake angehalten und aus dem Log die Verteilung der
+        Transaktionsdauern ermittelt.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul auch bei schwachen
+        Kommunikationsbedingungen Transaktionen innerhalb der vorgesehenen
+        Dauer durchführen kann.
+
+
+*    *   DSRC\_SFXX\_ABAA\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob die OBU/DSRC-Modul
+        kommunikationsbereit ist.
+        Der Tester stellt die Achszahl auf den kleinstmöglichen Wert ein und
+        bestätigt die Einstellung. Die Bake wird für eine CCC-Transaktion
+        konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden
+        die Bakenübertragungen angehalten. Die Transaktionsdaten werden darauf
+        untersucht, ob eine OBU geantwortet hat. Die Bake wird für CCC-
+        Transaktionen alle 10s mit einer wechselnden Beacon-ID konfiguriert
+        und für 3 Minuten aktiviert. Der Tester stellt über die Testdauer (3
+        Minuten) den Wert der Achszahl mindestens 10 Mal auf verschiedene
+        Werte ein. Die Bakenübertragungen werden angehalten und die
+        Transaktionsdaten aus der Bake ausgelesen. Das Log wird bezüglich der
+        achszahlbezogenen Attribute (17, 46, 48, 62) ausgewertet.
+        Aus dem Log muss ersichtlich sein, dass die achszahlbezogenen
+        Attribute (17, 46, 48, 62) nach jeder Einstellung der Achszahl
+        entsprechend den CCC-Attribute-Vorgaben geändert worden sind
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle von
+        der eingestellten Achszahl (Attribut 19) abhängigen Attribute (17, 46,
+        48, 62) gleichzeitig ändert und so die Datenkonsistenz gewährleistet
+        ist, wenn der Nutzer eine andere Achszahl einstellt. Somit wird
+        erwartet, dass sich eine Achszahl-Änderung im Bereich der
+        Kommunikationszone der Bake sich auf alle betroffenen Attribute
+        gleichzeitig ausgewirkt hat.
+
+
+*    *   DSRC\_SFXX\_ABAG\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Der Tester stellt das Gewicht auf den
+        kleinstmöglichen Wert ein und bestätigt die Einstellung. Die Bake wird
+        für eine CCC-Transaktion konfiguriert und aktiviert. Nach einer
+        Wartezeit von 5 Sekunden werden die Bakenübertragungen angehalten. Die
+        Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet
+        hat. Die Bake wird für CCC-Transaktionen alle 10s mit einer
+        wechselnden Beacon-ID konfiguriert und für 3 Minuten aktiviert. Der
+        Tester stellt über die Testdauer (3 Minuten) den Wert für das Gewicht
+        mindestens 10 Mal auf verschiedene Werte ein. Die Bakenübertragungen
+        werden angehalten. Die Transaktionsdaten werden aus der Bake
+        ausgelesen. Das Log wird bezüglich der gewichtbezogenen Attribute (20,
+        46, 60) ausgewertet.
+        Aus dem Log muss ersichtlich sein, dass die gewichtbezogenen Attribute
+        (20, 46, 60) nach jeder Einstellung des Gewichtes entsprechend den
+        CCC-Attribute-Vorgaben geändert worden sind.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle vom
+        eingestellten Gewicht (Attribut 55) abhängigen Attribute (20, 46, 60)
+        gleichzeitig ändert und so die Datenkonsistenz gewährleistet ist, wenn
+        der Nutzer ein anderes Gewicht einstellt.
+        Somit wird erwartet, dass sich eine Gewichtsänderung im Bereich der
+        Kommunikationszone der Bake auf alle betroffenen Attribute
+        gleichzeitig ausgewirkt hat.
+
+
+*    *   DSRC\_SFXX\_ACXX\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Die Bake wird für eine CCC-Transaktion und
+        für die Abfrage des Attributes 52 konfiguriert und aktiviert. Nach
+        einer Wartezeit von 5 Sekunden werden die Bakenübertragungen
+        angehalten. Die Transaktionsdaten werden aus der Bake ausgelesen.
+        Das Log wird bezüglich des Attributes 52 ausgewertet, ob der erste
+        Eintrag Null oder der BAG Context ist und ob die Sequenzlänge <= 4
+        ist.
+
+    *   Es soll nachgewiesen werden, dass in der ersten Sequenz des Attributs
+        ActiveContexts (Attribut 52) entweder ein Nullwert oder der BAG-Wert
+        ausgegeben wird und ob die Sequenzlänge <= 4 ist.
+
+
+*    *   DSRC\_SFXX\_ALAT\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Die Bake wird für eine CCC-Transaktion in
+        der Form konfiguriert, dass jedes Attribut einzeln durch ein Get.rq
+        abgefragt wird. Nach der Attributen-Abfrage wird die Bakenübertragung
+        angehalten. Die Transaktionsdaten werden aus der Bake ausgelesen. Das
+        Log wird bezüglich der Attribute entsprechend den Attributformaten im
+        Standard, der Werte gemäß den Vorgaben vom Einzeldokument 4.3.1 V2.1
+        und bzgl. der Identifikationsdaten der VST ausgewertet.
+        Die CCC-ContextMark/ ManufactuerId/ EquipementClass müssen valide sein
+        und dem Wert des EETS-Providers entsprechen. Alle CCC ISO 12813:2015
+        und Anlage 2 Einzeldokument 4.3.1 V2.1 Attribute (0, 16, 17, 18, 19,
+        20, 22, 24, 32, 46, 48, 49, 50, 51, 52, 53, 55, 60, 61, 62, 63, 64)
+        müssen korrekt gelesen werden und entsprechend den Attributformaten im
+        Standard gültig sein.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters alle der
+        für CCC (ISO 12813:2015 und Anlage 2 Einzeldokument 4.3.1 V2.1)
+        erforderlichen Attribute (0, 16, 17, 18, 19, 20, 22, 24, 32, 46, 48,
+        49, 50, 51, 52, 53, 55, 60, 61, 62, 63, 64) unterstützt.
+        Weiterhin sollen die Identifikationsdaten des Moduls aus der VST
+        ermittelt werden, die aus den Parametern CCC-ContextMark,
+        ManufacturerID und EquipmentClass bestehen.
+
+
+*    *   DSRC\_SFXX\_AWKT\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit sind. Die Bake sendet danach eine neue BST mit
+        der neuen Beacon-ID (1) und erwartet eine private Windows.req vom FzG
+        des EETS-Anbieters. Danach pausiert die Bake für 95ms. Anschließend
+        sendet die Bake eine zweite BST mit einer neuen Beacon-ID (2) und
+        erwartet wieder ein private Windows.req vom FzG des EETS-Anbieters.
+        Die Dauer ab der BST mit Beacon-ID (1) bis zum private window request
+        nach der BST mit Beacon-ID (2) wird gemessen.
+        Das FzG des EETS-Anbieters muss jeweils ein Private Windows Request
+        auf die BST mit der Beacon-ID (1) und Beacon-ID (2) geantwortet haben.
+        Die zeitliche Differenz der Antworten muss <100 ms betragen. Erfolgt
+        keine Antwort oder verspätet diese, so wäre das FzG des EETS-Anbieters
+        in den Energiesparmodus gefallen.
+
+    *   Es soll nachgewiesen werden, dass die Dauer vor dem Umschalten in den
+        Energiesparmodus und damit die AwakeT-Dauer des FzG des EETS-Anbieters
+        >100ms beträgt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_BCKT\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Danach wird eine vollständige CCC-
+        Transaktion mit dem FzG des EETS-Anbieters mit einer neuen Beacon-ID
+        (1) und einem abschließenden Release (1) der Bake durchgeführt.
+        Anschließend sendet Bake BSTs im Abstand von 50 ms mit einer neuen
+        Beacon-ID (2). Es wird die Zeit zwischen dem Release (1) und dem
+        privaten Windows.req auf die BST mit der Beacon-ID (2) ermittelt.
+        Die Blocking-Time des FzG des EETS-Anbieters nach dem Release (1) der
+        Bake bis zum nächsten Private Windows Request nach der Beacon-ID (2)
+        muss <= 3sec sein.
+
+    *   Es soll nachgewiesen werden, dass die Dauer des BlockingTimer des FzG
+        des EETS-Anbieters nicht größer als 3 Sekunden ist.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_BV02\_0001
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Für den eigentlichen Testfall wird eine
+        Initialisierung (BST-VST) mit einer neuen BeaconID und einem
+        anschließenden EVENT-REPORT.request(RELEASE) mit Mode=0 und
+        FlowControl=1 konfiguriert und aktiviert. Danach wird mit der gleichen
+        LID ein ECHO.rq Command mit Poll Bit = 0 und ohne Nutzdaten gesendet
+        und überprüft, ob die OBU/DSRC Modul widererwarten noch reagiert.
+        Das FzG des EETS-Anbieters soll nach dem EVENT-REPORT.request
+        (RELEASE) auf das ECHO nicht mehr reagieren.
+
+    *
+
+*    *   DSRC\_SFXX\_BV02\_0002
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Für den eigentlichen Testfall wird eine
+        Initialisierung (BST-VST) mit einer neuen BeaconID und einem
+        anschließenden EVENT-REPORT.request(RELEASE) mit Mode=0 und
+        FlowControl=1 konfiguriert und aktiviert. Danach wird mit der gleichen
+        BST gesendet und überprüft, ob das FzG des EETS-Anbieters wieder
+        erwarten reagiert. Anschließend wird nach 5s erneut die gleiche BST
+        wiederholt und überprüft, ob das FzG des EETS-Anbieters wieder
+        erwarten reagiert.
+        Das FzG des EETS-Anbieters soll nach dem EVENT-REPORT.request
+        (RELEASE) auf die BST nicht mehr reagieren.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters den
+        RELEASE-Befehl mit einem ECHO.rq korrekt verarbeitet.
+        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016
+        Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=0, siehe ISO
+        TS-13143-1).
+
+
+*    *   DSRC\_SFXX\_BV02\_0003
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Für den eigentlichen Testfall wird eine
+        Initialisierung (BST-VST) mit einer neuen BeaconID durchgeführt, ein
+        ECHO.rq (Poll Bit=1) gesendet, das beantwortet werden soll, und
+        anschließend mit einem EVENT-REPORT.request(RELEASE) mit Mode=0 und
+        FlowControl=1 die Transaktion abgeschlossen. Danach wird die gleiche
+        BST wiederholt und überprüft, ob das FzG des EETS-Anbieters
+        widererwarten reagiert. Anschließend wird nach 5s erneut die gleiche
+        BST wiederholt und überprüft, ob das FzG des EETS-Anbieters
+        widererwarten reagiert. Die Transaktionsdaten werden aus der Bake
+        ausgelesen und ausgewertet.
+        Nach einem RELEASE soll das FzG des EETS-Anbieters nicht mehr auf die
+        ursprüngliche BST antworten.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters den
+        RELEASE-Befehl mit ECHO.rq (Poll Bit=1) korrekt verarbeitet.
+        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016
+        Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=1:
+        Initialisierung, private ACn, RELEASE, Initialisierungsversuch).
+
+
+*    *   DSRC\_SFXX\_BV04\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Für den eigentlichen Testfall wird eine
+        Initialisierung (BST-VST) mit einer neuen BeaconID mit mode=1 und
+        FlowControl=2 konfiguriert und aktiviert. Danach sendet die Bake ein
+        ECHO.rq Befehl, welcher von der OBU beantwortet werden soll. Nach 256
+        Sekunden sendet die Bake erneut eine BST mit gleicher BeaconID mit
+        mode=1 und FlowControl=2, die von der OBU mit einer neuen LID (und in
+        der Folge VST) wieder beantwortet werden soll.
+        Nach Ablauf der 256s soll das FzG des EETS-Anbieters wieder auf die
+        ursprüngliche BST reagieren.
+
+    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters den Parameter
+        beaconTime der BST nach 256s korrekt handhabt.
+        Hinweis: Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2016
+        Normtestfall TP/AP-BAS/OBU/BV/04.
+
+
+*    *   DSRC\_SFXX\_DLAY\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Dann führt die Bake eine Initialisierung
+        (BST-VST) mit einer neuen Beacon-ID durch. Danach sendet die Bake ein
+        ECHO.rq, für das eine Antwort erwartet wird. Dieser ECHO.rq wird mit
+        einer um 0.1ms wachsenden Pause wiederholt bis eine Pause von 1s
+        erreicht wird. Wenn die OBU alle ECHO.rq beantwortet hat, ist der
+        Testfall bestanden.
+        Alle ECHOs werden beantwortet, die Beantwortung der ECHO ist
+        unabhängig von der zeitlichen Pause.
+        Das FzG des EETS-Anbieters soll unabhängig von der Unterbrechungsdauer
+        auf die ACn-Befehle der Bake antworten.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters auch bei
+        unterschiedlich langen Pausen, wie sie bei schwachen Funkbedingungen
+        üblich sind, kommunikationsbereit bleibt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_HNG1\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Dann führt die Bake erneut eine
+        Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des
+        EETS-Anbieters durch. Die Bake sendet ein GET\_STAMPED.rq mit einer
+        anderen LID für Attribut 32, das mit einem GET\_STAMPED.rq für
+        Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet ist, das FzG des
+        EETS-Anbieters darf nicht darauf reagieren. Die Bake sendet ein
+        GET\_STAMPED.rq mit einer anderen LID für die Attribute 32, 60, 50,
+        52, 49, das FzG des EETS-Anbieters darf nicht darauf reagieren. Die
+        Bake sendet ein RELEASE mit einem anderen LID, das FzG des EETS-
+        Anbieters darf nicht darauf reagieren. Die Bake sendet ein
+        GET\_STAMPED.rq mit der LID für das oben registrierte FzG des EETS-
+        Anbieters für das Attribut 32, das mit einem GET\_STAMPED.rq für die
+        Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake
+        sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG
+        des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake
+        sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-
+        Anbieters.
+        Das FzG des EETS-Anbieters darf nicht auf die Transaktion mit der
+        fremden LID reagieren und muss die Transaktion nach Unterbrechung
+        (Fremde LID Transaktion) erfolgreich weiterführen.
+
+    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann
+        sauber kommuniziert, wenn die Bake nach der Initialisierung weitere
+        Transaktionsphasen mit einer anderen LID durchführt (was vom FzG des
+        EETS-Anbieters nicht beantwortet werden darf).
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_HNG2\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Dann führt die Bake erneut eine
+        Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des
+        EETS-Anbieters durch. Die Bake wartet für die Dauer von zwei
+        Datenaustauschphasen einer CCC-Transaktion (20ms) Die Bake sendet ein
+        RELEASE mit einem anderen LID, das FzG des EETS-Anbieters darf nicht
+        darauf reagieren. Die Bake sendet ein GET\_STAMPED.rq mit der LID für
+        das oben registrierte FzG des EETS-Anbieters für das Attribut 32,
+        welches mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55,
+        22, 17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq
+        mit der LID für das oben registrierte FzG des EETS-Anbieters für die
+        Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID
+        für das oben registrierte FzG des EETS-Anbieters.
+        Das FzG des EETS-Anbieters darf durch die Unterbrechung (z.B.
+        Kommunikationsstörung) und durch den Empfang einer fremden LID
+        Nachricht (fremdes RELEASE) nicht in ihrer gesamten Transaktion
+        gestört werden. Die CCC-Transaktion muss erfolgreich zu Ende geführt
+        werden.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters auch dann
+        sauber kommuniziert, wenn die Bake die Kommunikation nach der
+        Initialisierung unterbricht und später wieder aufnimmt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_HNG3\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob die OBU/DSRC-Modul
+        kommunikationsbereit ist. Dann führt die Bake erneut eine
+        Initialisierung (BST-VST) mit einer neuen Beacon-ID mit der OBU/DSRC
+        Modul durch. Die Bake wartet für die Dauer einer gesamten CCC-
+        Transaktion (30ms). Anschließend führt die Bake erneut eine neue
+        Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des
+        EETS-Anbieters durch. Die Bake sendet ein GET\_STAMPED.rq mit der LID
+        für das oben registrierte FzG des EETS-Anbieters für das Attribut 32,
+        welche mit einem GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22,
+        17, 61, 62 verkettet wurde. Die Bake sendet ein GET\_STAMPED.rq mit
+        der LID für das oben registrierte FzG des EETS-Anbieters für die
+        Attribute 32, 60, 50, 52, 49. Die Bake sendet ein RELEASE mit der LID
+        für das oben registrierte FzG des EETS-Anbieters.
+        Das FzG des EETS-Anbieters soll nach einer ersten
+        Initialisierungsphase, bei der die Transaktion nicht weitergeführt
+        werden kann mit einer anschließenden Pause auch eine zweite
+        Initialisierungsphase mit einer erfolgreichen Transaktion durchführen
+        (KonMa-Anwendungsfall).
+
+    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann
+        sauber kommuniziert, wenn die Bake nach der Initialisierung die
+        Kommunikation unterbricht und wieder neu initialisiert.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_HNG4\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Dann führt die Bake erneut eine
+        Initialisierung (BST-VST) mit einer neuen Beacon-ID mit dem FzG des
+        EETS-Anbieters durch. Die Bake sendet während der gesamten Dauer (30
+        ms) einer CCC-Transaktion Zufallsdaten (fehlerhafte DSRC-Daten).
+        Anschließend führt die Bake erneut eine neue Initialisierung (BST-VST)
+        mit einer neuen Beacon-ID mit dem FzG des EETS-Anbieters durch. Die
+        Bake sendet ein GET\_STAMPED.rq mit der LID für die oben registrierte
+        OBU/DSRC Modul für das Attribut 32, die mit einem GET\_STAMPED.rq für
+        die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde. Die Bake
+        sendet ein GET\_STAMPED.rq mit der LID für das oben registrierte FzG
+        des EETS-Anbieters für die Attribute 32, 60, 50, 52, 49. Die Bake
+        sendet ein RELEASE mit der LID für das oben registrierte FzG des EETS-
+        Anbieters.
+        Das FzG des EETS-Anbieters soll eine CCC-Transaktion nach einer ersten
+        Initialisierungsphase, bei der die Transaktion aufgrund CRC gestörten
+        DSRC-Rahmen nicht weitergeführt werden kann, mit einer zweiten
+        Initialisierungsphase weiterführen und mit einer erfolgreichen CCC-
+        Transaktion beenden (KonMa-Anwendungsfall).
+
+    *   Es soll geprüft werden, dass das FzG des EETS-Anbieters auch dann
+        sauber kommuniziert, wenn die Bake nach der Initialisierung
+        fehlerhafte Frames versendet und dann eine neue Transaktion
+        durchführt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_SETA\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        wird durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Der Tester stellt im FzG des EETS-Anbieters
+        die Achszahl auf den kleinstmöglichsten Wert ein und bestätigt die
+        Einstellung. Dann gibt der Tester die Achszahl wie in dem FzG des
+        EETS-Anbieters am Testplatz ein. Die Bake wird für eine CCC-
+        Transaktion konfiguriert und aktiviert. Nach einer Wartezeit von 5
+        Sekunden werden die Bakenübertragungen angehalten. Die
+        Transaktionsdaten werden darauf untersucht, ob eine OBU geantwortet
+        hat. Der Tester stellt im FzG des EETS-Anbieters die Achszahl um eine
+        Stelle höher ein und bestätigt die Einstellung Dann übergibt der
+        Tester dieselbe Achszahl in einem Dialog an die Testausführung. Die
+        Bake wird erneut für eine CCC-Transaktion mit einer anderen BeaconID
+        konfiguriert und aktiviert. Nach einer Wartezeit von 5 Sekunden werden
+        die Bakenübertragungen angehalten. Diese Achszahlerhöhung mit der
+        daran folgenden Bakentransaktion wird bis zur maximalen
+        Einstellmöglichkeit weitergeführt. Die Transaktionsdaten werden aus
+        der Bake ausgelesen. Das Log wird bezüglich der eingestellten
+        Achszahlen (Attribut 19) ausgewertet.
+        Es müssen alle Achszahlen gemäß der Bedienungsanleitung der OBU/DSRC-
+        Modul einstellbar sein.
+        Alle eingestellten Achszahlen werden im Logfile auf die Teilattribute
+        von Attribut 19 auf Traktor und Trailer aufgeteilt.
+
+    *   Es soll nachgewiesen werden, dass vom Nutzer alle
+        Einstellmöglichkeiten der Achszahl korrekt im entsprechenden Attribut
+        19 gespeichert und bei einer CCC-Transaktion an die Bake übertragen
+        werden.
+
+
+*    *   DSRC\_SFXX\_SETG\_0010
+
+    *   Es wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Der Tester stellt in dem FzG des EETS-
+        Anbieters (je nach Typ des FzG des EETS-Anbieters) das Gewicht oder
+        die Gewichtsklasse auf den kleinstmöglichsten Wert ein und bestätigt
+        die Einstellung. Der Tester gibt dasselbe Gewicht oder dieselbe
+        Gewichtsklasse wie in dem FzG des EETS-Anbieters am Testplatz ein. Die
+        Bake wird für eine CCC-Transaktion konfiguriert und aktiviert. Nach
+        einer Wartezeit von 5 Sekunden werden die Bakenübertragungen
+        angehalten. Die Transaktionsdaten werden darauf untersucht, ob eine
+        OBU geantwortet hat. Der Tester stellt in dem FzG des EETS-Anbieters
+        das Gewicht oder die Gewichtsklasse auf den nächst höheren Wert
+        (einmal Tastendruck Gewicht bzw. Gewichtsklasse, aber mindestens in
+        1000 kg-Schritten) ein und bestätigt die Einstellung.
+        Hinweis: Die Einstellmöglichkeiten für Gewicht bzw. Gewichtsklasse
+        unterscheiden sich je nach FzG Typ des EETS-Anbieters. Der Tester gibt
+        dann das Gewicht oder die Gewichtsklasse wie in dem FzG des EETS-
+        Anbieters am Testplatz ein. Die Bake wird erneut für eine CCC-
+        Transaktion mit einer anderen BeaconID konfiguriert und aktiviert.
+        Nach einer Wartezeit von 5 Sekunden werden die Bakenübertragungen
+        angehalten. Die letzten 4 Schritten werden solange wiederholt, bis das
+        maximale Gewicht oder die maximale Gewichtsklasse erreicht ist. Die
+        Transaktionsdaten werden aus der Bake ausgelesen. Das Log wird
+        bezüglich des eingestellten Gewichts (Attribut 55) ausgewertet.
+        Erwartet wird, dass das Attribut 55 jeweils das eingestellte Gewicht
+        oder Gewichtsklasse enthält
+        Es müssen alle Gewichtsangaben gemäß der Bedienungsanleitung des FzG
+        des EETS-Anbieters einstellbar sein.
+        Alle eingestellten Gewichte müssen mit den Baken-Logwerten vom
+        Attribut 55 übereinstimmen.
+
+    *   Es soll nachgewiesen werden, dass das vom Nutzer eingestellte Gewicht
+        korrekt im entsprechenden Attribut (55) gespeichert und bei einer CCC-
+        Transaktion an die Bake übertragen wird.
+
+
+*    *   DSRC\_SFXX\_STPW\_0030
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob alle OBUs/DSRC-Module (FzG des
+        EETS-Anbieters und drei weitere DSRC-Module) kommunikationsbereit
+        sind. Die Bake wird für einen Dauertest konfiguriert, der über eine
+        Zeit von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
+
+        -   Beacon Change Intervall 15s
+
+
+        -   CCC-Transaktionen für Max 15s
+
+
+        -   Nach der Transaktion wird die Bake für 15s angehalten
+
+
+
+        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der
+        Testdauer wird das Bakelog auf die zeitliche Lage der public windows
+        requests untersucht. Darüber hinaus werden Statistiken zur zeitlichen
+        Lage der public windows requests erhoben (PublicWindows
+        Zeitüberlappung und -Verletzungen).
+        Alle FzG des EETS-Anbieters weisen eine statistische Gleichverteilung
+        der Public Windows auf. Es finden keine Überlappungen der Public
+        Windows statt.
+        Alle FzG des EETS-Anbieters halten die in der Norm vorgegebenen
+        Zeiteinheiten für die Public Windows ein.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters im
+        Zusammenspiel mit drei weiteren OBUs (Module verschiedener Typen und
+        Hersteller) alle drei public Anmeldefenster gleichmäßig nutzt und die
+        Module sich nicht gegenseitig stören.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_STTD\_0040
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob alle OBUs/DSRC-Module
+        kommunikationsbereit sind. Die Bake wird für einen Dauertest
+        konfiguriert, der über einen Zeitraum von 5 Stunden mit folgenden
+        Einstellungen durchgeführt wird:
+
+        -   Beacon Change Intervall 15s
+
+
+        -   CCC-Transaktionen für Max 15s
+
+
+        -   Nach der Transaktion wird die Bake für 15s angehalten
+
+
+
+        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der
+        Testdauer wird aus dem Baken-Logs die Verteilung pro OBU/DSRC Modul
+        Transaktionszeiten ermittelt.
+        Die FzG des EETS-Anbieters müssen im Dauertest Transaktionen innerhalb
+        der Transaktionszeiten (<70ms) korrekt durchführen.
+
+    *   Es soll nachgewiesen werden, dass das FzG des EETS-Anbieters
+        Transaktionen innerhalb der vorgesehenen Transaktionszeiten (<70 ms)
+        mit der DSRC Bake durchführen kann, wenn mehrere DSRC-Module (max. 3
+        weitere Module verschiedener Typen und Hersteller) gleichzeitig
+        kommunizieren.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_TRPT\_0040
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob das FzG des EETS-Anbieters
+        kommunikationsbereit ist. Die Bake wird für einen Dauertest
+        konfiguriert, der über einen Zeitraum von 5 Stunden mit folgenden
+        Einstellungen durchgeführt wird:
+
+        -   Beacon Change Intervall 15s
+
+
+        -   CCC-Transaktionen für Max 15s
+
+
+        -   Nach der Transaktion wird die Bake für 15s angehalten
+
+
+
+        (Simulation des Verlassens der Kommunikationszone) Nach Ablauf der
+        Testdauer wird aus dem Bake-Log die Anzahl der durchgeführten
+        Transaktionen mit den zu erwartenden Transaktionen verglichen.
+        Die Anzahl der erfolgreich durchgeführten CCC-Transaktionen ist gleich
+        der Anzahl der Transaktionsversuche.
+
+    *   Es soll nachgewiesen werden, dass in einem Dauerlauf das FzG des EETS-
+        Anbieters alle CCC-Transaktionen erfolgreich durchführt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+*    *   DSRC\_SFXX\_WKUP\_0010
+
+    *   Zunächst wird eine Initialisierung (BST-VST) mit einer neuen Beacon-ID
+        durchgeführt, um festzustellen, ob die OBU/DSRC-Module
+        kommunikationsbereit sind. Die Bake pausiert für 10 Sekunden. Dann
+        sendet Bake BSTs, bis sie ein private window request empfängt. Die
+        Dauer ab der ersten BST bis zum private window request wird gemessen.
+        Die Dauer ab der ersten BST bis zum Private Window Request muss
+        unterhalb von 20 ms liegen.
+
+    *   Es soll sicherstellt werden, dass die Wakeup-Dauer des FzG des EETS-
+        Anbieters unter 20ms liegt.
+        Hinweis: Dieser Test erfolgt als Labortest.
+
+
+
+**2.2 P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 –
+DSRC-Kommunikation**
+
+
+*    *   **Name / ID**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   AutoKST\_SVF\_FG06AV
+
+    *   In diesem Testfall wird die Erzeugung der Fallgruppe 6
+        (Falschdeklarierer) mit einem Test-FzG überprüft. Ein Test-FzG wird im
+        Test-LKW (mit Anhänger) benutzt und auf eine geringere Achszahl bzw.
+        Gewichtsklasse personalisiert, als der Test-LKW inklusive Anhänger
+        tatsächlich besitzt. Bei einer Durchfahrt unter der Test-
+        Kontrollstelle wird überprüft, ob die Test-Kontrollstelle gemäß
+        Tarifparametermodell (gültig ab 01.01.2019) einen Falschdeklarier
+        erkennt. Es werden u.a. folgende Parameter auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+        •   Achsen
+
+
+        •   Gewicht
+
+
+        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
+
+
+        •   Euro-Schadstoffklasse
+
+
+        •   Partikelminderungsfilter
+
+
+
+
+    *
+        •   Ein Test-LKW mit Test-Fahrzeuggerät (FzG), aber unzureichend
+            deklarierter Achsklasse und/oder Gewichtsklasse erzeugt eine
+            Fallgruppe 6 (Falschdeklarierer)
+
+
+        •   Korrekte und vollständige DSRC-Daten
+
+
+
+
+
+*    *   AutoKST\_SVF\_FG06AV\_2xFzG
+
+    *   Ein mautpflichtiges Fahrzeug ist mit einem Fahrzeuggerät (FzG\_1) des
+        EETS-Anbieters sowie einem zweiten deaktivierten/gesperrten
+        Fahrzeuggerät (FzG\_2) eines weiteren Anbieters ausgestattet. Um einen
+        Kontrollfall inklusive DSRC-Daten zu erzeugen, wird das Szenario in
+        Form eines Falschdeklarierers durchgeführt.
+        FzG\_1 und FzG\_2 werden im Test-LKW (mit Anhänger) positioniert.
+        FzG\_1 wird auf eine geringere Achszahl bzw. Gewichtsklasse
+        deklariert, als der Test-LKW inklusive Anhänger tatsächlich besitzt.
+        FzG\_2 befindet sich im Status NOK (gesperrt/deaktiviert).
+        Es werden u.a. folgende Parameter beider FzG auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+        •   Achsen
+
+
+        •   Gewicht
+
+
+        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
+
+
+        •   Euro-Schadstoffklasse
+
+
+        •   Partikelminderungsfilter
+
+
+
+
+    *
+        •   Ein Test-LKW mit falsch deklariertem Test-FzG (FzG\_1) und einem
+            weiteren FzG (FzG\_2) im Status NOK erzeugt einen Verdachtsfall der
+            Fallgruppe 6 (Falschdeklarierer).
+
+
+        •   Korrekte und vollständige DSRC-Daten beider Fahrzeuggeräte
+
+
+
+        Hinweis: Nur eine Auffälligkeit des im Rahmen der GTP zu testenden
+        EETS-Fahrzeuggeräts (FzG\_1) kann zum Fehlschlagen des Testfalls
+        führen.
+
+
+
+
+*    *   AutoKST\_SVF\_FG07\_mautfreier\_Modus
+
+    *   In diesem Testfall wird die Erzeugung der Fallgruppe 7 (mautfreier
+        Modus) mit einem Test-FzG überprüft. Ein Test-FzG wird im Test-LKW
+        (mit Anhänger) angeschlossen. Anschließend wird das Test-FzG in den
+        mautfreien Modus eingestellt. Bei der Durchfahrt an der Kontrollstelle
+        wird überprüft ob die Kontrollstelle eine FG7 erkennt. Es werden u.a.
+        folgende Parameter auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+        •   Achsen
+
+
+        •   Gewicht
+
+
+        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
+
+
+        •   Euro-Schadstoffklasse
+
+
+        •   Partikelminderungsfilter
+
+
+
+
+    *
+        •   Ein Test-LKW mit Test-FzG, welches sich im mautfreien Modus befindet,
+            erzeugt eine Fallgruppe (FG) 7.
+
+
+        •   Korrekte und vollständige DSRC-Daten
+
+
+
+
+
+*    *   AutoKST\_SVF\_FG12
+
+    *   In diesem Testfall wird die Erzeugung der Fallgruppe 12 mit einem
+        Test-FzG überprüft. Der Test-LKW dessen Test-FzG mit dem Status
+        "gesperrt" eingesetzt ist, passiert die Kontrollstelle. Die DSRC-Daten
+        aus dem Test-FzG werden von der Test-Kontrollstelle ausgelesen. Der
+        Status "gesperrt" wird festgestellt und die Test-Kontrollstelle
+        erzeugt einen Verdachtsfall der Fallgruppe 12. Dieser wird
+        anschließend an die Test-Kontrollzentrale gesendet.
+        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+        •   Achsen
+
+
+        •   Gewicht
+
+
+        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
+
+
+        •   Euro-Schadstoffklasse
+
+
+        •   Partikelminderungsfilter
+
+
+
+
+    *
+        •   Ein LKW mit einem eingebauten FzG, welches gesperrt ist, erzeugt eine
+            Fallgruppe 12
+
+
+        •   Korrekte und vollständige DSRC-Daten
+
+
+
+
+
+*    *   AutoKST\_SVF\_FG16
+
+    *   Der Test-LKW befindet sich im automatischen Verfahren. Das Test-FzG
+        wurde den Klassifikationsdaten entsprechend des Test-LKWs oder höher
+        (Überzahler) konfiguriert. Der Test-LKW passiert die Test-
+        Kontrollstelle, der DSRC-Datensatz aus dem Test-FzG wird ausgelesen.
+        Die Test-Kontrollstelle entscheidet aufgrund der deklarierten
+        Parameter und der Sensorikdaten auf Fallgruppe 16. Der Fall wird nicht
+        an die Kontrollzentrale verschickt und in der Test-Kontrollstelle
+        gelöscht.
+        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+        •   Achsen
+
+
+        •   Gewicht
+
+
+        •   Status (OBU-Status: OK= LED grün, NOK=LED rot)
+
+
+        •   Euro-Schadstoffklasse
+
+
+        •   Partikelminderungsfilter
+
+
+
+
+    *
+        •   Ein Test-LKW mit korrekt eingestelltem Test-FzG erzeugt die Fallgruppe
+            16 (Gutzahler AV)
+
+
+        •   Korrekte und vollständige DSRC-Daten
+
+
+        •   Die Falldaten werden nicht an die Kontrollzentrale verschickt und in
+            der Test-Kontrollstelle gelöscht.
+
+
+
+
+
+
+
+*    *   AutoKST\_Verifikation\_EETS\_Masterkeys
+
+    *   In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der
+        dezentralen Komponente (automaische Kontrolleinrichtung/
+        Kontrollsäule) verifiziert.
+        Es werden u.a. folgende Parameter auf Korrektheit geprüft:
+
+        •   Kennzeichen (FzG-Kennzeichen)
+
+
+        •   Nationalität
+
+
+
+
+    *
+        •   Ein Test-LKW mit einem Test-FzG des EETS-Anbieters passiert als
+            Gutzahler die Kontrollstelle
+
+
+        •   DSRC-Daten werden vollständig erfasst und entschlüsselt
+
+
+
+
+
+*    *   KonAu\_Installation\_EETS\_Masterkeys
+
+    *   Installation der EETS-Schlüssel auf der KonAu.
+
+    *   Es wird nachgewiesen, dass sich die EETS-Schlüssel korrekt auf der
+        automatischen Kontrolleinrichtung (KonAu) installieren lassen und
+        diese danach keine Auffälligkeiten aufweist.
+
+
+
+
+*    *   KonB\_DezKst\_SVF\_FG
+
+    *   Ein Test-LKW passiert eine Kontrollstelle und ein Verdachtsfall wird
+        angelegt. Dieser Verdachtsfall wird in der Kontrollzentrale mit der
+        passenden Fallgruppe gespeichert. Kontrollfall- und Nacherhebungsdaten
+        werden aus der Kontrollzentrale in die Kontrollbehörde (BAG)
+        übertragen. Anschließend werden die Daten in das System der
+        Kontrollbehörde (BAG) übernommen und aufbereitet.
+
+        •   Übertragung bis zur Kontrollbehörde (BAG) sowie die Rückantwort an die
+            Kontrollzentrale werden überprüft.
+
+
+
+
+    *
+        •   Sicherstellung, dass der Kontrollfall aus der Kontrollzentrale korrekt
+            in der Kontrollbehörde (BAG) ankommt.
+
+
+        •   Gewährleistung Interoperabilität Kontrollstelle zu weiterführenden
+            Systemen.
+
+
+
+
+
+*    *   KonMa\_auswinken\_VKB
+
+    *
+        •   Das Fahrzeug wird ausgewunken. Ein Kontrollbericht mit der FG19 wird
+            ohne weitere Kontrolle erstellt.
+
+
+
+
+    *
+        •   Erfolgreiches Erstellen eines Kontrollberichts (FG19)
+
+
+
+
+
+*    *   KonMa\_EETS-Masterkeys\_DSRC-Bake
+
+    *
+        •   Es wird geprüft ob die EETS-Masterkeys in die DSRC-Bake geladen werden
+            und aktiv sind.
+
+
+
+
+    *
+        •   EETS-Masterkeys werden in DSRC-Bake geladen.
+
+
+
+
+
+*    *   KonMa\_Installation\_EETS\_Masterkeys
+
+    *   Es wird geprüft ob die Installation der EETS Masterkeys auf der
+        manuellen Kontrolle erfolgreich ist.
+
+    *   EETS-Masterkeys werden auf der manuellen Kontrolle im Verzeichnis
+        abgelegt.
+
+
+*    *   KonMa\_KonZ\_2.0\_Berichte\_ weiterverarbeiten\_in\_KonB
+
+    *   Dieser Testfall prüft die Weiterverarbeitung von Kontrollfällen mit
+        einem Kontrollbericht über die Kontrollzentrale bis in die
+        Kontrollbehörde (BAG).
+        Die Überprüfung erfolgt für den Kontrollfall, Kontrollfalldaten bzw.
+        die erfassten Beweismittel. Es wird die e-Akte in SC-OWI überprüft.
+
+        •   Optional: Die Anreichung der e-Akte mit den zugehörigen DSRC-Daten
+            prüfen.
+
+
+
+
+    *
+        •   Absicherung der Übermittlung von Fahrzeugkontrollfällen nach SC-OWI
+
+
+        •   Optional: Absicherung der DSRC-Daten Anreicherung
+
+
+        •   Vollständigkeit und inhaltliche Richtigkeit der e-Akte in SC-OWI für
+            Fahrzeugkontrollfälle prüfen
+
+
+
+
+
+
+
+*    *   KonMa\_Mobile\_Kontrolle
+
+    *   In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit
+        einer KonMa im Modus mobile Kontrolle durchgeführt. Durchführung einer
+        Mobile-Kontrolle
+        Die entsprechenden Daten des Kontrollfalls bei einer DSRC-/OBE-
+        Auslesung werden vollständig und korrekt angezeigt.
+        Es werden u.a. folgende Parameter der DSRC-Datenauslesung geprüft:
+
+        •   Kennzeichen
+
+
+        •   Status
+
+
+        •   Land
+
+
+        •   Maut-Schadstoffklasse
+
+
+        •   zulässiges Gesamtgewicht
+
+
+        •   Achsen
+
+
+        •   Fallgruppe
+
+
+        •   LED
+
+
+        •   LED-Wechsel
+
+
+
+
+    *
+        •   Mit der manuellen Kontrolle wird eine Mobile Kontrolle gemäß den
+            Testparametern erfolgreich durchführt.
+
+
+        •   Die entsprechenden DSRC-Daten des Kontrollfalls werden vollständig und
+            korrekt angezeigt.
+
+
+
+        Die Fallgruppe wird durch die manuelle Kontrolle korrekt angezeigt.
+
+
+
+
+*    *   KonMa\_Standkontrolle\_Start\_KB
+
+    *   In diesem Testfall wird die Auslesung eines EETS-FzGs, das sich im
+        mautfreien Modus befindet, im Test-LKW mit einer KonMa im Modus
+        Standkontrolle mit dem Handheld durchgeführt.
+
+        •   Beginnen und Durchführung der Standkontrolle zum Erstellen eines
+            Kontrollberichtes.
+
+
+        •   Auslesung der DSRC-Daten mit Handheld
+
+
+        •   Abschluss des Kontrollberichtes
+
+
+
+
+    *
+        •   Mit der manuellen Kontrolle wird eine Standkontrolle gemäß den
+            genannten Testparametern im Szenario erfolgreich gestartet.
+
+
+        •   Die entsprechenden Daten des Kontrollfalls werden vollständig und
+            korrekt angezeigt.
+
+
+        •   Es wird die Kontrollberichterstellung durchgeführt.
+
+
+
+
+
+*    *   KonMa\_Verifikation\_EETS\_Masterkeys
+
+    *   In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der
+        KonMa verifiziert.
+        Es werden u.a. folgende Parameter der DSRC-Datenauslesung geprüft:
+
+        •   Kennzeichen
+
+
+        •   Status
+
+
+        •   Land
+
+
+
+
+    *
+        •   DSRC-Daten des EETS-FzG werden von der manuellen Kontrolle vollständig
+            erfasst und entschlüsselt
+
+
+
+
+
+*    *   KonSL\_Installation\_EETS\_Masterkeys
+
+    *
+        •   Installation der EETS-Schlüssel auf der Kontrollsäule nach SW-Update.
+
+
+
+
+    *
+        •   Es gibt eine Kontrollsäule, auf der bereits eine ältere SW-Version
+            installiert ist.
+
+
+        •   Die neue SW-Version ist geliefert.
+
+
+        •   Die neue SW-Version ist verteilt worden.
+
+
+
+        Es liegt ein valides Paket mit validen EETS-Keys vor ("\*.xer-File"),
+        das sich von dem bereits installierten Paket unterscheidet.
+
+
+
+
+*    *   KonZ\_2.0\_DezKst\_SVF
+
+    *   Die Test-Kontrollstelle erstellt einen Verdachtsfall und sendet diesen
+        mit den Beweismitteln an die Test-Kontrollzentrale.
+        In der WebGUI wird nach dem KFZ-Kennzeichen selektiert und anhand des
+        von der Test-Kontrollstelle gelesenen Kennzeichens überprüft.
+        In diesem Testfall wird die Verarbeitung eines Verdachtsfalls in der
+        Test-Kontrollzentrale einer durch die Test-Kontrollstelle
+        durchgeführten Fahrt überprüft.
+
+        •   Nach der Sachverhaltsfeststellung wird der Verdachtsfall in der
+            Kontrollfallverwaltung verarbeitet, bis der fertige Kontrollfall an
+            die Kontrollbehörde (BAG) exportiert wird.
+
+
+
+
+    *
+        •   Überprüfung der korrekten Weiterleitung des Verdachtsfalls an die
+            Kontrollzentrale.
+
+
+        •   Überprüfung aller relevanten DSRC-Parameter in der Kontrollzentrale
+
+
+        •   Datenerzeugung und Sichtung des entstehenden Kontrollfalles
+
+
+        •   Überprüfung Versand an die Kontrollbehörde (BAG)
+
+
+
+
+
+
+### **3 Prüffälle für SST 301 Version 3.0**
+
+**3.1 P1-KTD-001: Betriebliche DSRC-Kompatibilitätstests der SST 301 –
+DSRC-Kommunikation**
+
+
+*    *   **Name / ID**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   DSRC\_A0BA\_BI01\_0010
+
+    *   Die Bake sendet BSTs für AIDs 1, 20 und 21 mit einem profile, das von
+        der OBU nicht unterstützt wird. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einem weiteren von der OBU nicht unterstützten profile
+        wiederholt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BI02\_0010
+
+    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung
+        in der mandApplicationList und leerer nonmandApplicationList. Die OBU
+        soll nicht antworten. Das wird wiederholt mit einer weiteren von der
+        OBU nicht unterstützten Anwendung in der mandApplicationList und der
+        vorigen Anwendung in der nonmandApplicationList.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BI03\_0011
+
+    *   Die Bake sendet BSTs für eine von der OBU nicht unterstütze Anwendung
+        mit EID in der mandApplicationList und AID=20 in der
+        nonmandApplicationList. Die OBU soll nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BV01\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Dann schickt sie eine BST, die die OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV02\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die
+        OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei erst die manufacturerID
+        und dann die individualId der BST verändert wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A0BA\_BV04\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST
+        um 256 Sekunden erhöht wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+
+
+*    *   DSRC\_A0BA\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 mit profile=0 und leerer profileList durch. In der VST soll der
+        Wert von Profile auf 0
+        gesezt                      sein. Der Vorgang wird wiederholt mit
+        einer BST mit neuer BeaconID, profile=0 und profileList=1,U, wobei in
+        der VST profile wieder den Wert 0 haben soll. Der Vorgang wird
+        wiederholt mit einer BST mit neuer BeaconID, profile=1 und leerer
+        profileList, wobei in der VST profile wieder den Wert 1 haben soll.
+        Der Vorgang wird wiederholt mit einer BST mit neuer BeaconID,
+        profile=1 und profileList=0,U, wobei in der VST profile wieder den
+        Wert 1 haben soll. U hat den Wert eines Profils, das die OBU nicht
+        unterstützt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A0BA\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Die VST wird auf ein korrektes Format hin überprüft.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit
+        einer korrekten VST beantwortet.
+
+
+*    *   DSRC\_A0BA\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Die VST wird auf ein korrektes Format hin überprüft.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit
+        einer korrekten VST beantwortet.
+
+
+*    *   DSRC\_A0DA\_BI01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode
+        (einem Wert ungleich 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode (einem Wert ungleich
+        0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit
+        Fehlercode (einem Wert ungleich 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32,
+        das jeweils mit Fehlercode (einem Wert ungleich 0) beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI05\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames SET.rq für Attribute 49, 50,
+        51, 52, 53, 61, 64, und ein weiteres gemeinsames SET.rq für die
+        Attribute 99, 100 und 101, die mit Fehlercode beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI06\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51,
+        52, 53, 61, 64, 99, 100 und 101, das mit Fehlercode beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+
+
+*    *   DSRC\_A0DA\_BI07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 24 und 32, das mit Fehlercode (einem Wert ungleich 0)
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI08\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das
+        mit Fehlercode (einem Wert ungleich 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI09\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61, 64, und ein
+        weiteres gemeinsames GET.rq mit ungültigen accessCredentials für die
+        Attribute 99, 100 und 101, die mit Fehlercode beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul keine
+        Attributwerte zurückgibt, wenn die AccessCredentials nicht korrekt
+        sind.
+
+
+*    *   DSRC\_A0DA\_BI10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 24 und 32, das mit Fehlercode (einem
+        Wert ungleich 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI11\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55,
+        60, 62 und 63, das mit Fehlercode (einem Wert ungleich 0) beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A0DA\_BI12\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET- STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61, 64, und ein
+        weiteres gemeinsames GET-STAMPED.rq mit ungültigen accessCredentials
+        für die Attribute 99, 100 und 101, die mit Fehlercode beantwortet
+        werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul keine
+        Attributwerte zurückgibt, wenn die AccessCredentials nicht korrekt
+        sind.
+
+
+*    *   DSRC\_A0DA\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0DA\_BV04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV05\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET.rq für Attribute 49, 50,
+        51, 52, 53, 61, 64, und ein weiteres gemeinsames GET.rq für die
+        Attribute 99, 100 und 101, die mit Fehlercode beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV06\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51,
+        52, 53, 61, 64, 99, 100 und 101, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV09\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET- STAMPED.rq für Attribute
+        49, 50, 51, 52, 53, 61, 64, und ein weiteres gemeinsames GET-
+        STAMPED.rq für die Attribute 99, 100 und 101, die mit Fehlercode
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0DA\_BV10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BI02\_0010
+
+    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die
+        Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend
+        sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BI03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet
+        sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen
+        Werten des Fragmentzählers, die von der OBU nicht beantwortet werden
+        sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7
+        und dem gültigen Wert des Fragmentzählers (0), die von der OBU
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BI04\_0010
+
+    *   Die Bake sendet je eine BST mit allen ungültigen Werten des
+        Fragmentzählers, die von der OBU nicht beantwortet werden sollen.
+        Abschließend führt sie eine reguläre Initialisierung durch, um zu
+        überprüfen, daß die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+
+
+*    *   DSRC\_A0FU\_BI06\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen
+        Fehler erzeugen und die zweite mit "chaining error" beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV08\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und FlowControl=4. Der Tester
+        überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV10\_0010
+
+    *   DSRC\_A0FU\_BV10\_0010 Die Bake führt eine reguläre
+        Initialisierungsphase durch. Anschließend sendet sie ein SET\_MMI.rq
+        mit mode=0 und FlowControl=1. Der Tester überprüft, ob die OBU das
+        SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV11\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MM.rq mit mode=0 und FlowControl=1 an die
+        Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV12\_0010
+
+    *   Die Bake sendet ein SET\_MMI.rq mit mode=0 und FlowControl=1 an die
+        Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV13\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A0FU\_BV14\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die
+        OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll.
+        Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1
+        und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer
+        Transaktion PDUs für mehrere Elemente empfangen kann.
+
+
+*    *   DSRC\_A0FU\_BV16\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die
+        jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+
+
+*    *   DSRC\_A0FU\_BV17\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq mit falschen
+        AccessCredentials, das mit Fehlermeldung (ReturnStatus 1) beantwortet
+        werden soll. Dann sendet sie jeweils ein GET.rq mit AttributeIdList
+        mit nicht existierendem Attribut 31 und falscher EID, die jeweils mit
+        Fehlermeldung (ReturnStatus != 0) beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV19\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das
+        ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein
+        GET\_STAMPED.rq mit falschen AccessCredentials, das mit Fehlermeldung
+        (ReturnStatus 1) beantwortet werden soll. Dann sendet sie jeweils ein
+        GET\_STAMPED.rq mit AttributeIdList mit nicht existierendem Attribut
+        31, falscher EID und ungültigem Wert für den keyRef-Parameter 19, die
+        jeweils mit Fehlermeldung (ReturnStatus != 0) beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV20\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen
+        Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq
+        mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen
+        soll und das von der OBU korrekt beantwortet werden soll. Zuletzt
+        sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter, das mit
+        Fehlermeldung (ReturnStatus != 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        SET\_MMI-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0FU\_BV21\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit
+        mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden
+        soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem
+        ActionParameter(hex. 11 01 20 04 12 34 56 78 70), das mit
+        Fehlermeldung (ReturnStatus != 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV01\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 1 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für das Attribut 32, das regulär beantwortet werden
+        soll. Dann sendet sie jeweils ein GET\_STAMPED.rq mit ungültigen
+        accesssCredentials, für ein ungültiges Attribut 31, für eine ungültige
+        EID und mit ungültigem keyRef 19, die jeweils mit Fehlercode
+        beantwortet werden sollen. Die Verwendung korrekter Authenticators ist
+        Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0SE\_BV02\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 2 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV03\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 3 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV04\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 4 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV05\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 5 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV06\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 6 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A0SE\_BV07\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 7 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A0SE\_BV08\_0010
+
+    *   Für diesen Testfall wird der keyRef-Wert 8 benutzt. Die Bake führt
+        eine reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Dann sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Die Verwendung korrekter
+        Authenticators ist Bestandteil der Testprüfung
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI01\_0010
+
+    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der
+        OBU/das DSRC-Modul nicht unterstützt wird. Die OBU/das DSRC-Modul soll
+        nicht antworten. Das wird wiederholt mit einem weiteren von der OBU
+        nicht unterstützten profile 17 (hex 11)
+        wiederholtt                     .
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI02\_0010
+
+    *   Die Bake sendet BSTs für die von der OBU nicht unterstütze Anwendung
+        19 (hex 13) in der mandApplicationList und leerer
+        nonmandApplicationList. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einer weiteren von der OBU nicht unterstützten
+        Anwendung 31 (hex 1F) in der mandApplicationList und 19 in der
+        nonmandApplicationList.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BI03\_0011
+
+    *   Die Bake sendet BSTs für eine von der OBU/das DSRC-Modul nicht
+        unterstütze Anwendung 19 (hex 13) mit EID in der mandApplicationList
+        und AID=20 in der nonmandApplicationList. Die OBU/das DSRC-modul soll
+        nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        applicationIds korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BV01\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq, das die OBU/das DSRC-Modul beantworten soll.
+        Dann
+        wiederhot                      sie ihre BST (evtl. mit neuer
+        BeaconTime, wenn diese sich mittlerweile verändert hat), die die OBU
+        nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV02\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll, und zwei RELEASEs. Dann schickt sie ein weiteres ECHO, das die
+        OBU nicht beantworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq, das die OBU beantworten soll. Der ganze
+        Vorgang wird einmal wiederholt mit um 1 erhöhter manufacturerID in der
+        BST und dann nochmals wiederholt mit der vorigen, erhöhten
+        manufacturerID und um 1 erhöhter individualId der BST.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+
+
+*    *   DSRC\_A1BA\_BV04\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Anschließend sendet sie ein ECHO.rq, das die OBU beantworten
+        soll. Der ganze Vorgang wird wiederholt, wobei die beacon time der BST
+        um 256 Sekunden erhöht wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die
+        Initialisierung korrekt durchführt.
+
+
+*    *   DSRC\_A1BA\_BV09\_0010
+
+    *   Die Bake sendet eine BST mit einem profile 13 (hex D), das von der OBU
+        nicht unterstützt wird. Die OBU soll nicht antworten. Das wird
+        wiederholt mit einem weiteren von der OBU nicht unterstützten profile
+        17 (hex 11) wiederholt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das Profil
+        korrekt handhabt.
+
+
+*    *   DSRC\_A1BA\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AIDs 1, 20 und
+        21 durch. Die VST wird auf ein korrektes Format hin überprüft.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die BST mit
+        einer korrekten VST beantwortet.
+
+
+*    *   DSRC\_A1DA\_BI01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das jeweils mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das mit Fehlercode beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein SET.rq für Attribute 0, 24 und 32, das mit
+        Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 0, 24 und 32,
+        das jeweils mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI05\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames SET.rq für Attribute 49, 50,
+        51, 52, 53, 61, 64, und ein weiteres gemeinsames SET.rq für die
+        Attribute 99, 100 und 101, die mit Fehlercode beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI06\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein SET.rq für Attribute 49, 50, 51,
+        52, 53, 61, 64, 99, 100 und 101, das mit Fehlercode beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        schreibgeschützte Attribute nicht ändert, auch wenn sie mittels SET
+        dazu aufgefordert wird.
+
+
+
+
+*    *   DSRC\_A1DA\_BI07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 24 und 32, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI08\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq mit ungültigen accessCredentials
+        für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55, 60, 62 und 63, das
+        mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels GET dazu
+        aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI09\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61, 64, und ein
+        weiteres gemeinsames GET.rq mit ungültigen accessCredentials für die
+        Attribute 99, 100 und 101, die mit Fehlercode beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul keine
+        Attributwerte zurückgibt, wenn die AccessCredentials nicht korrekt
+        sind.
+
+
+*    *   DSRC\_A1DA\_BI10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 24 und 32, das mit Fehlercode
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI11\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 16, 17, 18, 19, 20, 22, 46, 48, 55,
+        60, 62 und 63, das mit Fehlercode beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul
+        lesegeschützte Attribute nicht zurückgibt, wenn sie mittels
+        GET\_STAMPED dazu aufgefordert wird.
+
+
+*    *   DSRC\_A1DA\_BI12\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET- STAMPED.rq mit ungültigen
+        accessCredentials für Attribute 49, 50, 51, 52, 53, 61, 64, und ein
+        weiteres gemeinsames GET-STAMPED.rq mit ungültigen accessCredentials
+        für die Attribute 99, 100 und 101, die mit Fehlercode beantwortet
+        werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul keine
+        Attributwerte zurückgibt, wenn die AccessCredentials nicht korrekt
+        sind.
+
+
+*    *   DSRC\_A1DA\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24 und 32, das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV02\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 24, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq für Attribute 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV03\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET.rq für Attribute 16, 17, 18, 19, 20,
+        22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1DA\_BV04\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV05\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET.rq für Attribute 49, 50,
+        51, 52, 53, 61, 64, und ein weiteres gemeinsames GET.rq für die
+        Attribute 99, 100 und 101, das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV06\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie jeweils ein GET.rq für Attribute 49, 50, 51,
+        52, 53, 61, 64, 99, 100 und 101, das ordnungsgemäß beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV07\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 24 und 32,
+        das ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV09\_5010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein gemeinsames GET- STAMPED.rq für Attribute
+        49, 50, 51, 52, 53, 61, 64, und ein weiteres gemeinsames GET-
+        STAMPED.rq für die Attribute 99, 100 und 101, das ordnungsgemäß
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1DA\_BV10\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase für AID 20 durch.
+        Anschließend sendet sie ein GET\_STAMPED.rq für Attribute 16, 17, 18,
+        19, 20, 22, 46, 48, 55, 60, 62 und 63, das ordnungsgemäß beantwortet
+        werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BI02\_0010
+
+    *   Die Bake führt vorab eine reguläre Initialisierungsphase durch, um die
+        Bereitschaft der OBU zur Kommunikation zu überprüfen. Anschließend
+        sendet sie je eine BST mit PDU-Nummern 0 und 1, die von der OBU nicht
+        beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BI03\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Dann sendet
+        sie je eine PDU mit mode=1 und flow control=7 und allen ungültigen
+        Werten des Fragmentzählers, die von der OBU nicht beantwortet werden
+        sollen. Abschließend sendet sie eine PDU mit mode=1 und flow control=7
+        und dem gültigen Wert des Fragmentzählers (0), die von der OBU
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BI04\_0010
+
+    *   Die Bake sendet je eine BST mit allen ungültigen Werten des
+        Fragmentzählers, die von der OBU nicht beantwortet werden sollen.
+        Abschließend führt sie eine reguläre Initialisierung durch, um zu
+        überprüfen, daß die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+
+
+*    *   DSRC\_A1FU\_BI06\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "chained" PDUs in einem Rahmen, von denen die erste einen
+        Fehler erzeugen und die zweite mit "chaining error" beantwortet werden
+        soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-Nummern
+        korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV01\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV08\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=1 und FlowControl=7 (z.B. ECHO), das
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV09\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=4 (z.B. SET\_MMI).
+        Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV10\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI).
+        Der Tester überprüft, ob die OBU das SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV11\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ACTION.rq mit mode=0 und FlowControl=1 (z.B. SET\_MMI)
+        an die Broadcast-LID. Der Tester überprüft, ob die OBU das SET\_MMI
+        ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV12\_0010
+
+    *   Die Bake sendet ein ACTION.rq mit mode=0 und FlowControl=1 (z.B.
+        SET\_MMI) an die Broadcast-LID. Der Tester überprüft, ob die OBU das
+        SET\_MMI ausführt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ACTION-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV13\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie je ein ECHO.rq mit PDU number 2 bis 31, das jeweils
+        ordnungsgemäß beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV14\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch, wobei die
+        OBU Anwendungen für zwei ElementIDs != 0 (EID1, EID2) anmelden soll.
+        Dann sendet sie ECHO.rq mit jeweils neuen Daten für EID1, EID2, EID1
+        und EID2, die jeweils ordnungsgemäß beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in einer
+        Transaktion PDUs für mehrere Elemente empfangen kann.
+
+
+*    *   DSRC\_A1FU\_BV16\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie "concatenated" (nicht "chained") PDUs in einem Rahmen, die
+        jeweils ordnungsgemäß in einem Rahmen beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul PDU-
+        Fragmente korrekt erkennt.
+
+
+*    *   DSRC\_A1FU\_BV17\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET.rq für ein geeignetes Attribut, das ordnungsgemäß
+        beantwortet werden soll. Dann sendet sie ein GET.rq mit falschen
+        AccessCredentials, das mit Fehlermeldung (ReturnStatus 1) beantwortet
+        werden soll. Dann sendet sie jeweils ein GET.rq mit AttributeIdList
+        mit nicht existierendem Attribut 31 und falscher EID, die jeweils mit
+        Fehlermeldung (ReturnStatus != 0) beantwortet werden sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den GET-
+        Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1FU\_BV19\_0011
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein GET\_STAMPED.rq für ein geeignetes Attribut, das
+        ordnungsgemäß beantwortet werden soll. Dann sendet sie jeweils ein
+        GET\_STAMPED.rq mit falschen AccessCredentials, das mit Fehlermeldung
+        (ReturnStatus 1) beantwortet werden soll. Dann sendet sie jeweils ein
+        GET\_STAMPED.rq mit AttributeIdList mit nicht existierendem Attribut
+        31, falscher EID und ungültigem Wert für den keyRef-Parameter 19, die
+        jeweils mit Fehlermeldung (ReturnStatus != 0) beantwortet werden
+        sollen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV20\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein SET\_MMI.rq mit mode=0 und flowControl=1, dessen
+        Ausführung der Tester bestätigen soll. Dann sendet sie ein SET\_MMI.rq
+        mit mode=0 und flowControl=4, dessen Ausführung der Tester bestätigen
+        soll und das von der OBU korrekt beantwortet werden soll. Zuletzt
+        sendet sie ein SET\_MMI.rq mit ungültigem ActionParameter, das mit
+        Fehlermeldung (ReturnStatus != 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        SET\_MMI-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1FU\_BV21\_0010
+
+    *   Die Bake führt eine reguläre Initialisierungsphase durch. Anschließend
+        sendet sie ein ECHO.rq mit mode=0. Dann sendet sie ein ECHO.rq mit
+        mode=1 und flowControl=7, das von der OBU korrekt beantwortet werden
+        soll. Zuletzt sendet sie ein ECHO.rq mit ungültigem ActionParameter,
+        das mit Fehlermeldung (ReturnStatus != 0) beantwortet werden soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den ECHO-
+        Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 1 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 1 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1SE\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 3 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 4 benutzt.
+
+    *
+
+*    *   DSRC\_A1SE\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 5 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 6 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_A1SE\_BV07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 7 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+
+
+*    *   DSRC\_A1SE\_BV08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase durch. Anschließend sendet sie ein
+        GET\_STAMPED.rq für ein geeignetes Attribut 32, das regulär
+        beantwortet werden soll. Danach sendet sie jeweils ein GET\_STAMPED.rq
+        mit ungültigen accesssCredentials, für ein ungültiges Attribut 31, für
+        eine ungültige EID und mit ungültigem keyRef 19, die jeweils mit
+        Fehlercode beantwortet werden sollen. Für diesen Testfall wird der
+        keyRef-Wert 8 benutzt.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul den
+        GET\_STAMPED-Befehl korrekt handhabt.
+
+
+*    *   DSRC\_LLC\_\_BI01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für
+        AIDs 1, 20 und 21, bei der die beiden Füllbits im LLC-Kontrollfeld auf
+        die ungültigen Werte 00, 01 und 10 gesetzt sind. Die OBU soll nicht
+        antworten. Anschließend wird mit einer normalen BST überprüft, ob die
+        OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetzten Füllbits im LLC- Kontrollfeld erkennt und
+        ignoriert
+
+
+*    *   DSRC\_LLC\_\_BI02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie einen ECHO-Befehl, bei dem ein halbes Byte
+        entfernt wird. Die OBU soll nicht reagieren. Anschließend wird mit
+        einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert
+
+
+*    *   DSRC\_LLC\_\_BI03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ECHO- Befehle mit P-Bit=1, aber allen
+        ungültigen Werten der modifier-Bits. Die OBU soll nicht reagieren.
+        Dann sendet sie ECHO-Befehle mit P-Bit=1, aber allen ungültigen Werten
+        der reserved-Bits. Die OBU soll nicht reagieren. Abschließend wird mit
+        einem korrekten ECHO-Befehl überprüft, ob die OBU noch korrekt
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit ungültigen modifier- und reserved- Bits im LLC-Kontrollfeld
+        erkennt und ignoriert
+
+
+*    *   DSRC\_LLC\_\_BI04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq mit der LID 0xFF, das die OBU
+        nicht beantworten soll. Danach sendet sie ECHO.rq an alle Multicast-
+        LIDs, die die OBU ebenfalls nicht beantworten soll. Nach jedem
+        ungültigen Rahmen wird mit einem gültigen ECHO.rq an die OBU
+        überprüft, ob sie noch auf valide ACn-Befehle reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Rahmen
+        mit Broadcast- oder Multicast-LID ignoriert
+
+
+*    *   DSRC\_LLC\_\_BI05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake BSTs für
+        AIDs 1, 20 und 21, bei der in der Nachricht ein halbes Byte fehlt. Die
+        OBU soll nicht antworten. Anschließend wird mit einer normalen BST
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit nicht ganzzahliger Anzahl von Bytes erkennt und ignoriert
+
+
+
+
+*    *   DSRC\_LLC\_\_BI06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq mit P-Bit im LLC-Kontrollfeld = 1,
+        aber ohne LSDU, der von der OBU ignoriert werden soll. Abschließend
+        wird mit einem gültigen ECHO.rq an die OBU überprüft, ob sie noch auf
+        valide ACn-Befehle reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        mit p-Bit=1, aber ohne LSDU ignoriert
+
+
+*    *   DSRC\_LLC\_\_BI07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein ECHO.rq, das von der OBU beantwortet
+        werden soll. Die Bake wiederholt das ECHO.rq unverändert und erwartet
+        die gleiche Antwort wie vorher. Danach sendet die Bake einen ECHO.rq
+        mit invertiertem n-Bit und anderen ECHO-Daten und erwartet eine
+        korrekte Antwort auf den neuen Befehl.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul doppelt
+        ACn-Befehle korrekt verarbeitet
+
+
+*    *   DSRC\_LLC\_\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake führt eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Das P-Bit
+        im LLC- Kontrollfeld der VST soll den Wert 0 haben.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul UI-Befehle
+        austauschen kann
+
+
+*    *   DSRC\_LLC\_\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach
+        sendet sie ein SET\_MMI.rq als AC0-Befehl; als Antwort wird eine
+        AC1-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet. Dann
+        sendet die Bake ein SET\_MMI.rq als AC1-Befehl; als Antwort wird eine
+        AC0-Antwort mit Final-Bit=0 und status subfield=NR\_OK erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        empfangen kann
+
+
+*    *   DSRC\_LLC\_\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Danach
+        sendet sie ein ECHO.rq als AC0-Befehl; als Antwort wird eine
+        AC1-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet. Dann
+        sendet die Bake ein ECHO.rq als AC1-Befehl; als Antwort wird eine
+        AC0-Antwort mit Final-Bit=1 und status subfield=OK\_OK erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul ACn-Befehle
+        austauschen kann
+
+
+*    *   DSRC\_LLC\_\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dann
+        sendet sie einen ACn- Befehl, der dazu führt, daß die OBU die late
+        response-Prozedur ausführt. Als Antwort wird ein Rahmen mit LLC status
+        subfield=NE\_OK erwartet. Die Bake wiederholt BSTs, bis die
+        angenommene Verarbeitungsdauer der OBU abgelaufen ist, und erwartet
+        dann ein private window request. Die Bake sendet ein private window
+        response und erwartet die Antwort auf den ACn-Befehl in einem UI-
+        Rahmen.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die late
+        response-przedur I korrektdurchführt
+
+
+
+
+*    *   DSRC\_MAC\_\_BI01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der in der Nachricht zwei Bitfehler
+        auftreten. Die OBU soll nicht antworten. Anschließend wird mit einer
+        ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit zweifachem Bitfehler in der Nachricht ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der in der FCS zwei Bitfehler auftreten.
+        Die OBU soll nicht antworten. Anschließend wird mit einer ungestörten
+        BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit zweifachem Bitfehler in der FCS ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake sendet
+        eine BST für AIDs 1, 20 und 21, bei der in der Nachricht 15
+        aufeinanderfolgende Bit invertiert werden. Die OBU soll nicht
+        antworten. Anschließend wird mit einer ungestörten BST überprüft, ob
+        die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit 15 konsekutiven Bitfehlern in der Nachricht ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das
+        Enfügen                      der 0-Bits unterbleibt. Die OBU soll
+        nicht antworten. Anschließend wird mit einer ungestörten BST
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen ohne 0-Bit insertion in der LID ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das end flag durch ein Abort-Byte
+        ersetzt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einem Abort-Byte anstelle der end flag ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die
+        maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS)
+        überschritten wird. Die OBU soll nicht antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul Rahmen
+        erkennt und ignoriert, die länger als die vom Standard erlaubten 128
+        Byte (incl. Flags und FCS) sind
+
+
+*    *   DSRC\_MAC\_\_BI07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie privateWindowRequests, bei der die LID 5 statt
+        der vorgesehenen 4 Byte lang ist und bei der die ersten 4 der 5 Byte
+        der LID der OBU entsprechen. Zuletzt wird überprüft, ob die OBU noch
+        auf valide window allocations reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul eine
+        falsche LID erkennt und ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie privateWindowRequests ohne MAC-Kontrollfeld.
+        Zuletzt wird überprüft, ob die OBU noch auf valide window allocations
+        reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen ohne MAC-Kontrollfeld erkennt und ignoriert
+
+
+
+
+*    *   DSRC\_MAC\_\_BI09\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das A-Bit im MAC-Kontrollfeld auf 0
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das A-Bit
+        im MAC-Kontrollfeld beachtet
+
+
+*    *   DSRC\_MAC\_\_BI10\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das D-Bit im MAC-Kontrollfeld auf 1
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in der BST
+        das D-Bit im MAC-Kontrollfeld beachtet
+
+
+*    *   DSRC\_MAC\_\_BI11\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das D-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das D-Bit im MAC-Kontrollfeld beachtet
+
+
+*    *   DSRC\_MAC\_\_BI12\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das L-Bit im MAC-Kontrollfeld auf 0
+        gesetzt ist. Die OBU soll nicht antworten. Anschließend wird mit einer
+        normalen BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem L-Bit im MAC- Kontrollfeld erkennt und
+        ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI13\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das L-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem L-Bit im MAC- Kontrollfeld erkennt und
+        ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI14\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das C/R-Bit im MAC-
+        Kontrollfeld auf 1 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetztem C/R-Bit im MAC- Kontrollfeld erkennt und
+        ignoriert
+
+
+
+
+*    *   DSRC\_MAC\_\_BI15\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist.
+        ann                      sendet die Bake eine BST für AIDs 1, 20 und
+        21 und erwartet ein private window request. Danach sendet sie ein
+        private window allocation, bei dem die Füllbits im MAC-Kontrollfeld
+        auf 1 gesetzt sind. Die OBU soll nicht antworten. Anschließend wird
+        mit einem korrekten private window allocation überprüft, ob die OBU
+        korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit falsch gesetzten Füllbits im MAC- Kontrollfeld erkennt und
+        ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI16\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal über 15
+        zusammenhängende Bit unterdrückt wird. Die OBU soll nicht antworten.
+        Anschließend wird mit einer ungestörten BST überprüft, ob die OBU
+        korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung über 15 zusammenhängende Bit ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI17\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal während der start flag
+        unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung während der start flag ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI18\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der das Radiosignal während der end flag
+        unterdrückt wird. Die OBU soll nicht antworten. Anschließend wird mit
+        einer ungestörten BST überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Funkstörung während der end flag ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI19\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation mit der LID 0xFF. Die OBU
+        soll nicht antworten. Anschließend wird mit einem korrekten private
+        window allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit der Broadcast-LID anstelle der privaten ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI20\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Dann
+        sendet sie ein private window allocation mit einer Multicast-LID. Die
+        OBU soll nicht antworten. Anschließend wird mit einem korrekten
+        private window allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul einen
+        Rahmen mit einer Multicast-LID anstelle der privaten ignoriert
+
+
+*    *   DSRC\_MAC\_\_BI21\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Danach
+        sendet sie ein private window allocation, bei dem das A-Bit im MAC-
+        Kontrollfeld auf 0 gesetzt ist. Die OBU soll nicht antworten.
+        Anschließend wird mit einem korrekten private window allocation
+        überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das A-Bit im MAC-Kontrollfeld beachtet
+
+
+
+
+*    *   DSRC\_MAC\_\_BI22\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und FIXME LA durch.
+        Anschließend sendet sie einen ACn-Befehl, wobei das A-Bit des Rahmens
+        auf 0 gesetzt wird. Zuletzt wird mit einem ACn-Befehl mit korrektem
+        A-Bit überprüft, ob die OBU noch korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen das A-Bit im MAC-Kontrollfeld beachtet
+
+
+*    *   DSRC\_MAC\_\_BI23\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Dann
+        sendet sie ein private window allocation mit gültiger, aber von der
+        LID des private windows request abweichender LID. Die OBU soll nicht
+        antworten. Anschließend wird mit einem korrekten private window
+        allocation überprüft, ob die OBU korrekt reagiert.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul in privaten
+        Rahmen die LID beachtet
+
+
+*    *   DSRC\_MAC\_\_BI24\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Die
+        Bake ignoriert das window request und wiederholt die BST. Die OBU soll
+        ihr private window request wiederholen
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul private
+        window requests korrekt wiederholt
+
+
+*    *   DSRC\_MAC\_\_BV01\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21, bei der die ProfileList so lang ist, dass die
+        maximal erlaubte Rahmenlänge (128 Bytes incl. Flags und FCS) erreicht
+        wird. Die OBU soll mit einem private Windows request antworten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen der durch den Standard festgelegten Maximallänge korrekt
+        verarbeiten kann
+
+
+*    *   DSRC\_MAC\_\_BV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie T1 nach dem Ende der VST ein ECHO.rq. Eine
+        Antwort der OBU wird erwartet
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen
+        Mindestabstand versendet wurden
+
+
+*    *   DSRC\_MAC\_\_BV03\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Das
+        wird X male wiederholt und dann ausgewetet, ob die window requests
+        zeitlich im erlaubten Bereich lagen
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der
+        drei public uplink windows benutzt
+
+
+*    *   DSRC\_MAC\_\_BV04\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet sie ein SET\_MMI.rq ohne window allocation und
+        dann unmittelbar im zeitlichen Abstand von T2 eine neue BST. Eine
+        Antwort der OBU wird erwartet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul auch DSRC-
+        Rahmen verarbeiten kann, die im vom Standard erlaubten zeitlichen
+        Mindestabstand versendet wurden
+
+
+
+
+*    *   DSRC\_MAC\_\_BV05\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Dabei wird
+        die Zeit zwischen dem Ende des End flag des private window allocation
+        und dem ersten Bit der Präambel der VST sowie dem Ende des letzten Bit
+        der End flag der VST gemessen. Beide Werte sollen die Vorgaben aus dem
+        Standard einhalten.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul bei
+        privaten Rahmen das vom Standard vorgegebene Timing einhält
+
+
+*    *   DSRC\_MAC\_\_BV06\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch. Die Bake
+        ignoriert die VST und sendet ein private window allocation mit dem
+        gleichen S-Bit wie beim vorigen window alocation. Es wir erwartet, daß
+        die OBU mit einer VST antwortet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit
+        und das L-Bit des MAC-Kontrollfeldes korrekt verarbeitet und
+        Wiederholungen der VST korrekt verarbeiten kann
+
+
+*    *   DSRC\_MAC\_\_BV07\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt sie Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch.
+        Anschließend sendet die Bake ein ECHO mit ECHO\_DATA1 und erwartet ein
+        ECHO.rs mit ECHO\_DATA1. Dann sendet die Bake ein ECHO mit ECHO\_DATA2
+        und dem gleichen Wert des s-Bits wie zuvor und erwartet ein ECHO.rs
+        mit ECHO\_DATA2. Dann sendet die Bake ein private window allocation
+        mit dem gleichen Wert des S-Bit und erwartet ein ECHO.rs mit
+        ECHO\_DATA2.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul das S-Bit
+        und das L-Bit des MAC-Kontrollfeldes bei Rahmen mit LPDU korrekt
+        verarbeitet
+
+
+*    *   DSRC\_MAC\_\_BV08\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake eine BST
+        für AIDs 1, 20 und 21 und erwartet ein private window request. Das
+        wird X male wiederholt und dann ausgewetet, ob die private window
+        requests gleichmäßig benutzt wurden
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul jedes der
+        drei public uplink windows benutzt
+
+
+*    *   DSRC\_MAC\_\_BV09\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake eine
+        reguläre Initialisierungsphase für AIDs 1, 20 und 21 durch, wobei das
+        C/R-Bit des private window allocation auf 1 gesetzt wird. Anschließend
+        sendet die Bake ein private window request mit C/R=0 und gleichem
+        s-Bit wie vorher. Die OBU soll eine VST schicken.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul beide
+        gültigen Werte des C/R-Bit des MAC- Kontrollfeldes eines private
+        window requests korrekt verarbeitet
+
+
+*    *   DSRC\_SFXX\_2CCC\_5010
+
+    *   Die Bake wird für CCC:2019 (BAG v3.0) konfiguriert. Wenn sich die OBU
+        anmeldet, muss diese in der VST alle ContextMarks anzeigen, die Sie
+        für CCC unterstützt. Die Bake führt die Transaktion dann mit der EID
+        der gültigen CCC:2019 (BAG v3.0) ContextMark durch. In einem zweiten
+        Durchlauf wird die Bake für CCC:2015 (BAG v2.0) konfiguriert. Wenn
+        sich die OBU anmeldet, muss diese in der VST alle ContextMarks
+        anzeigen, die Sie für CCC unterstützt. Die Bake führt die Transaktion
+        dann mit der EID der gültigen CCC:2015 (BAG v2.0) ContextMark durch.
+
+    *   Dieser Testfall soll sicherstellen, dass EETS-OBUs, die in der VST
+        CCC:2015 und CCC:2019 anbieten, in beiden Versionen eine CCC-
+        Transaktion erfolgreich durchführen können. In Anlehnung an die
+        Bitfehlerraten-Tests der EN300674-2-2 werden in diesem Labortest die
+        Übertragungssicherheit im stabilen Laboraufbau überprüft.
+
+
+*    *   DSRC\_SFXX\_ABAA\_5010
+
+    *
+        -   Die Bake wird so konfiguriert, dass ausschließlich die Contextmark für
+            CCC:2019 (BAG v3.0) für die Transaktion benutzt wird.
+
+
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob die OBU/DSRC- Modul
+            kommunikationsbereit ist.
+
+
+        -   Die folgenden Schritte werden 10x wiederholt:
+
+
+        -   Der Tester wird aufgefordert, den Wert der Achszahl auf einen neuen
+            Wert einzustellen und bestätigt die Einstellung.
+
+
+        -   Zwei CCC:2019(BAG v3.0)-Transaktionen werden durchgeführt mit einem
+            zeitlichen Abstand von mehr als 15 Sekunden.
+
+
+        -   Die Transaktionsdaten werden aus der Bake ausgelesen.
+
+
+        -   Das Log wird am Ende der 10 Testwiederholungen bezüglich der
+            achszahlbezogenen Attribute (19, 17, 46, 48, 62) ausgewertet, wobei
+            jede zweite Transakten berücksichtigt wird.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT alle von der eingestellten
+        Achszahl (Attribute 19) abhängigen Attribute (17, 46, 48, 62)
+        gleichzeitig ändert und so die Datenkonsistenz gewährleistet ist, wenn
+        der Nutzer eine andere Achszahl einstellt. Somit wird erwartet, dass
+        sich eine Achszahl-Änderung im Bereich der Kommunikationszone der Bake
+        sich auf alle betroffene Attribute gleichzeitig ausgewirkt hat.
+        Dieser Test wurde im Review CEN-
+        TC278-WG1\_N2610\_2\_ISO\_DIS\_13143-1\_Commenting\_Form-Response als
+        sinnvoll angesehen, konnte jedoch noch nicht in den normativen
+        Testfallkatalog aufgenommen werden, weil hierfür noch keine direkte
+        Anforderung in der 12813 besteht. Für das BAG ist dieser Test jedoch
+        notwendig, da inkonsitente Daten eine Beweissicherung erschweren
+        würden.
+
+
+*    *   DSRC\_SFXX\_ALAT\_5010
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        -   Die Bake wird für eine CCC:2019(BAG v3.0)-Transaktion in der Form
+            konfiguriert, dass jedes Attribut einzeln durch ein Get.rq abgefragt
+            wird.
+
+
+        -   Nach der Attribute Abfrage wird die Bakenübertragung angehalten.
+
+
+        -   Die Transaktionsdaten werden aus der Bake ausgelesen.
+
+
+        -   Das Log wird bezüglich der Attribute ensprechend den Attributsformaten
+            im Standard, der Werte gemäß den Vorgaben vom Einzeldokument 4.3.1
+            V3.0 und bzgl. der Indentifkationsdaten der VST ausgewertet.
+
+
+
+
+    *   Es soll geprüft werden, dass das DUT alle der für CCC (ISO 12813:2019
+        und Anlage 2 Einzeldokument 4.3.1 V3.0, Stand: 12.11.2020)
+        erforderlichen Attribute (0, 16, 17, 18, 19, 20, 22, 24, 32, 46, 48,
+        49, 50, 51, 52, 53, 55, 60, 61, 62, 63, 64, 99, 100, 101) unterstützt.
+        Weiterhin sollen die Identifikationsdaten des Moduls aus der VST
+        ermittelt werden, die aus den Parametern CCC-ContextMark,
+        ManufacturerID und EquipmentClass bestehen.
+        Dieses ist ein modifizierter Normtestfall (TP/AP-BAS/OBU/BV/10 und
+        TP/AP-DAT/OBU/BV/04 der Norm CCC ISO\_TS\_13143-1:2020) zur
+        Dokumentation der DUT-Identifikations– und Attributedaten.
+
+
+
+
+*    *   DSRC\_SFXX\_AWKT\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit sind.
+
+        •   Die Bake sendet danach eine neue BST mit der neuen Beacon-ID (1) und
+            erwartet ein private Windows.req vom DUT.
+
+
+        •   Danach pausiert die Bake für 95 ms
+
+
+        •   Dann sendet die Bake eine zweite BST mit einer neuer Beacon-ID (2) und
+            erwartet wieder ein private Windows.req vom DUT.
+
+
+        •   Die Dauer ab der BST mit Beacon-ID (1) bis zum private window request
+            nach der BST mit Beacon-ID (2) wird gemessen.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass die Dauer vor dem Umschalten in den
+        Energiesparmodus und damit die AwakeT- Dauer des DUTs >100ms beträgt.
+        Dieser Test erfolgt als Labortest zur Verifizierung der Anforderungen
+        im Kapitel Interlayer Management nach Einzeldokument 4.3.1 Version 3.0
+        (Stand:11.12.2020).
+
+
+*    *   DSRC\_SFXX\_BCKT\_5010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+        Danach wird eine vollständige CCC:2019(BAG v3.0)-Transaktion mit dem
+        DUT mit einer neuen Beacon-ID (1) und einem abschließenden Release (1)
+        der Bake durchgeführt. Dann sendet Bake BSTs im Abstand von 50 ms mit
+        einer neuen Beacon-ID (2). Es wird die Zeit zwischen dem Release (1)
+        und dem ersten darauffolgenden private window request ermittelt.
+
+    *   Es soll nachgewiesen werden, dass die Dauer des BlockingTimer des DUT
+        nicht größer als 3 Sekunden ist. Dieser Test erfolgt als Labortest zur
+        Verifizierung der Anforderungen im Kapitel Interlayer Management nach
+        Einzeldokument 4.3.1 Version 3.0 (Stand: 12.11.2020).
+
+
+*    *   DSRC\_SFXX\_BCKT\_5011
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+        Danach wird eine vollständige CCC-Transaktion mit dem DUT mit einer
+        neuen Beacon-ID (1) und einem abschließenden Release (1) der Bake
+        durchgeführt. Dann sendet Bake BSTs im Abstand von 50 ms mit einer
+        neuen Beacon-ID (2). Es wird die Zeit zwischen dem Release (1) und dem
+        privaten Windows.req auf die BST mit der Beacon-ID (2) ermittelt
+
+    *   Es soll nachgewiesen werden, dass die Dauer des BlockingTimer des DUT
+        nicht größer als 5 Sekunden ist.
+
+
+*    *   DSRC\_SFXX\_BLIM\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann sendet die Bake 200 Mal
+        eine BST und registriert, ob die OBU bis zuletzt mit einem private
+        window request antwortet.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul alle
+        empfangenen BSTs richtig auswertet.
+
+
+*    *   DSRC\_SFXX\_BV02\_0001
+
+    *
+        •   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        •   Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit
+            einer neuen BeaconID und einem anschließenden EVENT-
+            REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 konfiguriert und
+            aktiviert.
+
+
+        •   Danach wird mit der gleichen LID ein ECHO.rq Command mit Poll Bit = 0
+            und ohne Nutzdaten gesendet und überprüft, ob die OBU/DSRC Modul wider
+            erwarten noch reagiert.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT den RELEASE-Befehl mit einem
+        ECHO.rq korrekt verarbeitet.
+        Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2020-11
+        Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=0, siehe ISO
+        TS-13143-1).
+
+
+*    *   DSRC\_SFXX\_BV02\_0002
+
+    *
+        •   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        •   Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit
+            einer neuen BeaconID und einem anschließenden EVENT-
+            REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 konfiguriert und
+            aktiviert.
+
+
+        •   Danach wird mit der gleichen BST gesendet und überprüft, ob das DUT
+            wieder erwarten reagiert.
+
+
+        •   Anschließend wird nach 5s erneut die gleiche BST wiederholt und
+            überprüft, ob das DUT wieder erwarten reagiert.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT den RELEASE-Befehl mit der
+        selben BST korrekt verarbeitet.
+        Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2020-11
+        Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=0, siehe ISO
+        TS-13143-1).
+        (Sofortiges RELEASE)
+
+
+*    *   DSRC\_SFXX\_BV02\_0003
+
+    *
+        •   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        •   Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit
+            einer neuen BeaconID durchgeführt, ein ECHO.rq (Poll Bit=1) gesendet,
+            das beantwortet werden soll, und anschließend mit einem EVENT-
+            REPORT.request(RELEASE) mit Mode=0 und FlowControl=1 die Transaktion
+            abgeschlossen.
+
+
+        •   Danach wird die gleiche BST wiederholt und überprüft, ob das DUT wider
+            erwarten reagiert.
+
+
+        •   Anschließend wird nach 5s erneut die gleiche BST wiederholt und
+            überprüft, ob das DUT wider erwarten reagiert.
+
+
+        •   Die Transaktionsdaten werden aus der Bake ausgelesen und ausgewertet.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT den RELEASE-Befehl mit
+        ECHO.rq (Poll Bit=1) korrekt verarbeitet.
+        Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2020-11
+        Normtestfall TP/AP-BAS/OBU/BV/02 (ECHO.rq mit Poll Bit=1:
+        Initialisation, private ACn, RELEASE, Initialisationsversuch).
+
+
+*    *   DSRC\_SFXX\_BV04\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+        •   Für den eigentlichen Testfall wird eine Initialisierung (BST-VST) mit
+            einer neuen BeaconID mit mode=1 und FlowControl=2 konfiguriert und
+            aktiviert.
+
+
+        •   Danach sendet die Bake ein ECHO.rq Befehl, welcher von der OBU
+            beantwortet werden soll.
+
+
+        •   Nach 256 Sekunden sendet die Bake erneut eine BST mit gleicher
+            BeaconID mit mode=1 und FlowControl=2, die von der OBU mit einer neuen
+            LID (und in der Folge VST) wieder beantwortet werden soll.
+
+
+
+
+    *   Es soll geprüft werden, dass das DUT den Parameter beaconTime der BST
+        nach 256s korrekt handhabt.
+        Der Testfall ist abgeleitet aus dem CCC ISO\_TS\_13143-1:2020-11
+        Normtestfall TP/AP-BAS/OBU/BV/04.
+
+
+*    *   DSRC\_SFXX\_D003\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann führt die Bake
+        Transaktionen mit zeitlichen Unterbrechungen und
+        Übertragungswiederholungen durch.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul korrekte
+        Kontrollfeldkombinationen benutzt.
+
+
+*    *   DSRC\_SFXX\_DLAY\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+        •   Dann führt die Bake eine Initialisierung (BST-VST) mit einer neuen
+            Beacon-ID durch.
+
+
+        •   Danach sendet die Bake ein ECHO.rq, für das eine Antwort erwartet
+            wird. Dieser ECHO.rq wird mit einer um 0.1 ms wachsenden Pause
+            wiederholt bis eine Pause von 1s erreicht wird.
+
+
+        •   Wenn die OBU alle ECHO.rq beantwortet hat, ist der Testfall bestanden.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT auch bei unterschiedlich
+        langen Pausen, wie sie bei schwachen Funkbedingungen üblich sind,
+        kommunikationsbereit bleibt.
+        Dieser Test erfolgt als Labortest in Anlehnung an die
+        Testspezifikation ISO/TS 14907-1:2015 Table B7-Traffic Conditions-
+        Shadowing.
+
+
+
+
+*    *   DSRC\_SFXX\_HISX\_5010
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        -   Der Benutzer wird aufgefordert den Zustand des DUTs (Go-1)
+            einzustellen (an Stromversorgungangeschlossen, GNSS und Mobilfunk
+            verfügbar, MMI zeigt Betriebsbereitsschaft an).
+
+
+        -   Die Bake führt eine CCC-Transaktion durch. Aus dem Transaktionslog
+            werden die Attribute 53, 61, 99 und 100 zur Auswertung ausgelesen.
+
+
+        -   Der Benutzer wird aufgefordert für 5 Minuten das DUT in eine
+            abgeschirmte Kammern mit angeschlossenen Stromversorgung abzulegen.
+            (Kein GNSS und Mobilfunk verfügbar).
+
+
+        -   Der Benutzer wird aufgefordert das DUT aus der abgeschirmten Kammer
+            rauszunehmen und 5 Minuten zu warten (bis es GNSS bereit ist).
+
+
+        -   Die Bake führt eine CCC-Transaktionen durch. Aus dem Transaktionslog
+            werden die Attribute 53, 61, 99 und 100 zur Auswertung ausgelesen. Es
+            wird erwartet, dass der Zustand in Go-1 erreicht ist.
+
+            Akzeptanzkriterium ist, dass
+
+
+        -   die zuvor aktuellsten zwei Einträge zwei Positionen weitergerückt sind
+
+
+        -   der aktuellste Eintrag einen Zeitstempel hat, der weniger als 6
+            Minuten alt und der Zustand Go-1 ist.
+
+
+        -   der zweite aktuellste Eintrag einen Zeitstempel hat, der weniger als
+            11 Minuten alt und der Zustand noGo-0 ist.
+
+
+        -   Der Benutzer wird aufgefordert für 5 Minuten die Stromversorgung
+            abzuziehen.
+
+
+        -   Die Bake führt eine CCC-Transaktionen durch. Aus dem Transaktionslog
+            werden die Attribute 53, 61, 99 und 100 zur Auswertung ausgelesen. Es
+            wird erwartet, dass der Zustand in noGoUserSchwitchOff-3 erreicht ist.
+
+            Akzeptanzkriterium ist, dass
+
+
+        -   die zuvor aktuellsten drei Einträge eine Position weitergerückt sind.
+
+
+        -   der aktuellste Eintrag einen Zeitstempel hat, der weniger als 6
+            Minuten alt und der Zustand noGoUserSchwitchOff-3 ist.
+
+
+        -   Der Benutzer wird aufgefordert die Stromversorgung einzuschliessen.
+
+
+        -   Die Bake führt eine CCC-Transaktionen durch. Aus dem Transaktionslog
+            werden die Attribute 53, 61, 99 und 100 zur Auswertung ausgelesen. Es
+            wird erwartet, dass der Zustand Go-1 erreicht ist.
+
+            Akzeptanzkriterium ist, dass
+
+
+
+
+        -   die zuvor aktuellsten drei Einträge eine Position weitergerückt sind.
+
+
+        -   der aktuellste Eintrag einen Zeitstempel hat, der weniger als 6
+            Minuten alt und der Zustand Go-1 ist.
+
+
+
+        Benutzer Hinweis:
+        Gemäß Bedienungsanleitung des DUTs können Abweichungen zum Erzwingen
+        eines anderen Status-Zustand beschrieben sein.
+
+    *   In der Version 2019-11 hat der ISO 12813 u.a. die Attribute 99
+        (ExtendedOBUStatusHistoryPart1) und 100
+        (ExtendedOBUStatusHistoryPart2) neu eingeführt. Dieser Testfall soll
+        sicherstellen, dass das DUT gemäß Einzeldokument 4.3.1 Version 3.0
+        (Stand: 12.11.2020) Kap. 2.2 diese Attribute korrekt setzt.
+
+
+*    *   DSRC\_SFXX\_HNG1\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+        •   Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer
+            neuen Beacon-ID mit dem DUT durch.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit einer anderen LID für Attribut
+            32, das mit einem GET\_STAMPED.rq für Attribute 24, 16, 19, 55, 22,
+            17, 61, 62 verkettet ist, das DUT darf nicht darauf reagieren.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit einer anderen LID für die
+            Attribute 32, 60, 50, 52, 49, das DUT darf
+
+
+
+        nicht darauf reagieren.
+
+        •   Die Bake sendet ein RELEASE mit einem anderen LID, das DUT das darf
+            nicht darauf reagieren.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für das Attribute 32, das mit einem GET\_STAMPED.rq
+            für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für die Attribute 32, 60, 50, 52, 49.
+
+
+        •   Die Bake sendet ein RELEASE mit der LID für das oben registrierte DUT.
+
+
+
+
+    *   Es soll geprüft werden, dass das DUT auch dann sauber kommuniziert,
+        wenn die Bake nach der Initialisierung weitere Transaktionsphasen mit
+        einer anderen LID durchführt (Was vom DUT nicht beantworten werden
+        darf).
+        Dieser Test erfolgt als Labortest in Anlehnung an die
+        Testspezifikation ISO/TS 14907-1:2015 Table B1-B3-Traffic Conditions-
+        lateral and longitudinal distance between OBUs.
+
+
+*    *   DSRC\_SFXX\_HNG2\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+        •   Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer
+            neuen Beacon-ID mit dem DUT durch.
+
+
+        •   Die Bake wartet für die Dauer von zwei Datenaustauschphasen einer CCC-
+            Transaktion (20ms)
+
+
+        •   Die Bake sendet ein RELEASE mit einem anderer LID, das DUT darf nicht
+            darauf reagieren.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für das Attribut 32, welches mit einem
+            GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62
+            verkettet wurde.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für die Attribute 32, 60, 50, 52, 49.Die Bake sendet
+            ein GET\_STAMPED.rq mit der LID für das oben registrierte DUT für die
+            Attribute 32, 60, 50, 52, 49.
+
+
+        •   Die Bake sendet ein RELEASE mit der LID für das oben registrierte DUT.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT auch dann sauber
+        kommuniziert, wenn die Bake die Kommunikation nach der Initialisierung
+        unterbricht und später wieder aufnimmt.
+        Dieser Test erfolgt als Labortest in Anlehnung an die
+        Testspezifikation ISO/TS 14907-1:2015 Table B7-Traffic Conditions-
+        Shadowing.
+
+
+*    *   DSRC\_SFXX\_HNG3\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob die OBU/DSRC-Modul
+        kommunikationsbereit ist.
+
+        •   Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer
+            neuen Beacon-ID mit der OBU/DSRC Modul durch.
+
+
+        •   Die Bake wartet für die Dauer einer gesamten CCC-Transaktion (30ms)
+
+
+
+        Anschliessend führt die Bake erneut eine neue Initialisierung (BST-
+        VST) mit einer neuen Beacon-ID mit dem DUT durch.
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für das Attribut 32, welche mit einem GET\_STAMPED.rq
+            für die Attribute 24, 16, 19, 55, 22, 17, 61, 62 verkettet wurde.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für die Attribute 32, 60, 50, 52, 49.
+
+
+        •   Die Bake sendet ein RELEASE mit der LID für das oben registrierte DUT.
+
+
+
+
+    *   Es soll geprüft werden, dass das DUT auch dann sauber kommuniziert,
+        wenn die Bake nach der Initialisierung die Kommunikation unterbricht
+        und wieder neu initialisiert.
+        Mit diesem Testfall soll in einem Labortest die BAG-Anforderung für
+        die Mobile Kontrolle nach Einzeldokument 4.3.1 Version 3.0
+        (Stand:11.12.2020) überprüft werden, mit der nach einer
+        fehlgeschlagenen Transaktion die CCC- Transaktion mit einer neuen
+        Beacon-ID neu aufgesetzt werden kann.
+
+
+*    *   DSRC\_SFXX\_HNG4\_0010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+        Dann führt die Bake erneut eine Initialisierung (BST-VST) mit einer
+        neuen Beacon-ID mit dem DUT durch.
+
+        •   Die Bake sendet während der gesamten Dauer (30 ms) einer CCC-
+            Transaktion Zufallsdaten (Fehlerhafte DSRC- Rahmen).
+
+
+        •   Anschliessend führt die Bake erneut eine neue Initialisierung (BST-
+            VST) mit einer neuen Beacon-ID mit dem DUT durch.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für die oben
+            registrierte OBU/DSRC Modul für das Attribute 32, die mit einem
+            GET\_STAMPED.rq für die Attribute 24, 16, 19, 55, 22, 17, 61, 62
+            verkettet wurde.
+
+
+        •   Die Bake sendet ein GET\_STAMPED.rq mit der LID für das oben
+            registrierte DUT für die Attribute 32, 60, 50, 52, 49.
+
+
+        •   Die Bake sendet ein RELEASE mit der LID für das oben registrierte DUT.
+
+
+
+
+    *   Es soll geprüft werden, dass das DUT auch dann sauber kommuniziert,
+        wenn die Bake nach der Initialisierung fehlerhafte Frames versendet
+        und dann eine neue Transaktion durchführt.
+        Mit diesem Testfall soll in einem Labortest geprüft werden, dass die
+        BAG-Anforderung für die Mobile Kontrolle nach Einzeldokument 4.3.1
+        Version 3.0 (Stand:11.12.2020), mit der nach einer fehlgeschlagenen
+        Transaktion die CCC- Transaktion mit einer neuen Beacon-ID neu
+        aufgesetzt werden kann, mit dem DUT erfüllt werden kann.
+
+
+*    *   DSRC\_SFXX\_LID\_\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann wird nach einer regulären
+        Initialisierungsphase das erste GET der CCC-Transaktion gesendet, das
+        ordnungsgemäß beantwortet werden soll. Dann wird der GET-Befehl mit
+        zwei verschiedenen, verfälschten LIDs wiederholt, die beide nicht
+        beantwortet werden sollen. Dann sendet die Bake jeweils ein RELEASE an
+        zwei verfälschte LIDs. Anschließend sendet die Bake den zweiten GET-
+        Befehl der Transaktion an die OBU, der beantwortet werden soll. Dann
+        sendet die Bake den gleichen GET-Befehl an zwei verfälschte LIDs,
+        wobei die OBU nicht antworten soll.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul die LID
+        korrekt handhabt.
+
+
+*    *   DSRC\_SFXX\_MV02\_0010
+
+    *   Zunächst wird eine Dummytransaktion durchgeführt, um sicherzustellen,
+        dass die OBU kommunikationsbereit ist. Dann wird die OBU
+        initialisiert. Anschließend werden jeweils zwei ECHO.rq so gesendet,
+        daß ein bestimmter Zeitabstand zwischen dem Ende des ersten ECHO.rs
+        und dem Anfang des zweiten ECHO.rq liegt. Dieser Zeitabstand wird
+        schrittweise auf dem minimalen erlaubten Abstand (T1) reduziert.
+
+    *   Es soll nachgewiesen werden, dass die OBU/DSRC-Modul auf Befehle der
+        Bake reagiert, die mit der kleinsten erlaubten Verzögerung von T1
+        zwischen Ende der Antwort auf den vorigen Befehl und Anfang des neuen
+        Befehls gesendet werden.
+
+
+*    *   DSRC\_SFXX\_SETA\_5010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+        Die nächsten Schritte werden für alle Einstellmöglichkeiten der
+        Achszahl wiederholt. Der Tester stellt im DUT die Achszahl (initial
+        auf den kleinstmöglichen Wert) ein und bestätigt die Einstellung. Der
+        Tester gibt die am DUT eingestellte Achszahl am Testplatz ein. Die
+        Bake führt eine CCC:2019(BAG v3.0)-Transaktion (incl. Auslesung des
+        Attributs 19) durch. Die Transaktionsdaten werden darauf untersucht,
+        ob die über DSRC ausgelesene Achszahl dem eingegebenen Wert
+        entspricht.
+
+    *   Es soll nachgewiesen werden, dass vom Nutzer alle
+        Einstellmöglichkeiten der Achszahl korrekt im entsprechenden Attribute
+        19 gespeichert und bei einer CCC:2019(BAG v3.0)-Transaktion an die
+        Bake übertragen werden.
+
+
+*    *   DSRC\_SFXX\_SETG\_5010
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        -   Der Tester stellt in dem DUT (je nach Typ des DUTs) das Gewicht oder
+            die Gewichtsklasse auf den kleinstmöglichen Wert ein und bestätigt die
+            Einstellung.
+
+
+        -   Die nächsten Schritte werden so wiederholt, dass nach Möglichkeit die
+            Gewichte unterhalb und oberhalb der Gewichtsklassegrenzen eingestellt
+            werden.
+
+
+        -   Der Tester stellt im DUT das Gewicht bzw. die Gewichtsklasse (initial
+            auf den kleinstmöglichen Wert) ein und bestätigt die Einstellung.
+
+
+        -   Der Tester gibt das am DUT eingestellte Gewicht am Testplatz ein.
+
+
+        -   Die Bake führt eine CCC:2019(BAG v3.0)-Transaktion (incl. Auslesung
+            des Attributs 55) durch.
+
+
+        -   Die Transaktionsdaten werden darauf untersucht, ob das über DSRC
+            ausgelesene Gewicht dem eingegebenen Wert entspricht.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das vom Nutzer eingestellte Gewicht
+        korrekt im entsprechenden Attribut (55) gespeichert und bei einer
+        CCC:2019(BAG v3.0)-Transaktionan die Bake übertragen wird.
+        Mit diesem Testfall wird überprüft, in welchem Einstellbereich die
+        Gewichtseinstellung des DUTs veränderbar ist.
+
+
+*    *   DSRC\_SFXX\_STPW\_5010
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC:2019(BAG
+        v3.0)-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die
+        Bake angehalten und das Log auf die zeitliche Lage der public windows
+        requests untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass eine OBU/DSRC-Modul alle drei public
+        Anmeldefenster gleichmäßig nutzt. Darüberhinaus werden Statistiken zur
+        zeitlichen Lage der private windows requests erhoben.
+
+
+*    *   DSRC\_SFXX\_STPW\_5015
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC:2019(BAG
+        v3.0)-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die
+        Bake angehalten und das Log auf die zeitliche Lage der private windows
+        requests untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass die OBU/DSRC-Modul das erlaubte
+        Zeitfenster für Übertragungen in private uplink windows einhält.
+        Darüberhinaus werden Statistiken zur zeitlichen Lage der Übertragungen
+        erhoben.
+
+
+*    *   DSRC\_SFXX\_STPW\_5020
+
+    *   Zunächst wird die Sendeleistung der Bake auf den gewünschten Wert
+        eingestellt und testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit den OBUs erfolgt, wird der Testlauf abgebrochen.
+        Dann werden bei laufend wechselnder BeaconId im Dauertest CCC:2019(BAG
+        v3.0)-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die
+        Bake angehalten und das Log auf die zeitliche Lage der private windows
+        requests untersucht. Für eine tiefergehende Analyse wird aus den
+        Sendezeitpunkten zusätzlich ein PDF und ein CSV erzeugt.
+
+    *   Es soll nachgewiesen werden, dass mehere DUT des gleichen Herstellers
+        jeweils alle drei public Anmeldefenster gleichmäßig nutzt.
+        Darüberhinaus werden Statistiken zur zeitlichen Lage der private
+        windows requests erhoben.
+
+
+*    *   DSRC\_SFXX\_STPW\_5030
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob alle OBUs/DSRC- Module (DUT und
+            drei weitere DSRC-Module) kommunikationsbereit sind.
+
+
+        -   Die Bake wird für einen Dauertest konfiguriert, der über eine Zeit von
+            5 Stunden mit folgenden Einstellungen durchgeführt wird:
+
+            1.  Beacon Change Intervall 15s
+
+
+            2.  CCC:2019(BAG v3.0)-Transaktionen für Max 15s
+
+
+            3.  Nach der Transaktion wird die Bake für 15s angehalten (Simulation des
+                Verlassen der Kommunikationszone)
+
+
+
+
+
+        -   Nach Ablauf der Testdauer wird das Bakelog auf die zeitliche Lage der
+            public windows requests untersucht. Darüberhinaus werden Statistiken
+            zur zeitlichen Lage der public windows requests erhoben (PublicWindows
+            Zeit-Überlapperung und -Verletzungen).
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT im Zusammenspiel mit drei
+        weiteren OBUs (Module verschiedener Typen und Hersteller) alle drei
+        public Anmeldefenster gleichmäßig nutzt und die Module sich nicht
+        gegenseitig stören. (Erfahrungsgemäß halten nicht alle Lieferanten von
+        DSRC Modulen die in der Norm vorgegebenen Zeiteinheiten für die Public
+        Windows ein).
+
+
+*    *   DSRC\_SFXX\_STTD\_5010
+
+    *   Zunächst wird testweise eine Transaktion ausgelöst. Falls keine
+        Kommunikation mit der OBU erfolgt, wird der Testlauf abgebrochen. Dann
+        werden bei laufend wechselnder BeaconId im Dauertest CCC:2019(BAG
+        v3.0-Transaktionen durchgeführt. Nach Ablauf der Testdauer wird die
+        Bake angehalten und aus dem Log die Verteilung der Transaktionsdauern
+        ermittelt.
+
+    *   Es soll nachgewiesen werden, dass die OBU/DSRC-Modul Transaktionen
+        innerhalb der vorgesehenen Dauer durchführen kann.
+        Gemäß Kap. 4.2.1 der Gebietsvorgaben (Einzeldokument 4.3.1 Version 3.0
+        (Stand: 12.11.2020)) wird gefordert, dass eine ungestörte Transaktion
+        in einer maximalen Transaktionszeit von 70 ms erfolgen soll.
+
+
+*    *   DSRC\_SFXX\_STTD\_5020
+
+    *   Zunächst wird der Sende Pegel der Bake auf einem mittleren Wert
+        eingestellt ( z.B. 30 dbm). Dann werden bei laufend wechselnder
+        BeaconId im Dauertest CCC:2019(BAG v3.0)-Transaktionen durchgeführt.
+        Nach Ablauf der Testdauer wird die Bake angehalten und aus dem Log die
+        Verteilung der Transaktionsdauern ermittelt.
+
+    *   Es soll nachgewiesen werden, dass die OBU/DSRC-Modul auch bei mäßigen
+        Kommunikationsbedingungen Transaktionen innerhalb der vorgesehenen
+        Dauer durchführen kann. Gemäß Kap. 4.3.1 der Gebietsvorgaben
+        (Einzeldokument 4.3.1 Version 3.0 (Stand: 12.11.2020)) wird gefordert,
+        dass eine ungestörte Transaktion in einer maximalen Transaktionszeit
+        von 70 ms erfolgen soll.
+
+
+*    *   DSRC\_SFXX\_STTD\_5030
+
+    *   Zunächst wird der Sende Pegel der Bake auf einem niedrigen Wert
+        eingestellt ( z.B. 27 dbm). Dann werden bei laufend wechselnder
+        BeaconId im Dauertest CCC:2019(BAG v3.0)-Transaktionen durchgeführt.
+        Nach Ablauf der Testdauer wird die Bake angehalten und aus dem Log die
+        Verteilung der Transaktionsdauern ermittelt.
+
+    *   Es soll nachgewiesen werden, dass die OBU/DSRC-Modul auch bei
+        schwachen Kommunikationsbedingungen Transaktionen innerhalb der
+        vorgesehenen Dauer durchführen kann. Gemäß Kap. 4.3.1 der
+        Gebietsvorgaben (Einzeldokument 4.3.1 Version 3.0 (Stand: 12.11.2020))
+        wird gefordert, dass eine ungestörte Transaktion in einer maximalen
+        Transaktionszeit von 70 ms erfolgen soll.
+
+
+*    *   DSRC\_SFXX\_STTD\_5040
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob alle OBUs/DSRC- Module
+            kommunikationsbereit sind.
+
+
+        -   Die Bake wird für einen Dauertest konfiguriert, der über einen
+            Zeitraum von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
+
+
+        1.  Beacon Change Intervall 15s
+
+
+        2.  CCC:2019(BAG v3.0)-Transaktionen für Max 15s
+
+
+        3.  Nach der Transaktion wird die Bake für 15s angehalten (Simulation des
+            Verlassen der Kommunikationszone)
+
+
+        -   Nach Ablauf der Testdauer wird aus dem Baken-Logs die Verteilung pro
+            OBU/DSRC Modul Transaktionszeiten ermittelt.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass das DUT Transaktionen innerhalb der
+        vorgesehenen Transaktionzeiten (<70 ms) mit der DSRC Bake durchführen
+        kann, wenn mehrere DSRC-Module (max 3 weitere Module verschiedener
+        Typen und Hersteller) gleichzeitig kommunizieren.
+        Dieser Test erfolgt als Labortest in Anlehnung an die
+        Testspezifikation ETSI TS 102 486-1-2 TP/MAC/OBU/BV/01 und in
+        Anlehnung an die Testspezifikation ISO/TS 14907-1:2015 Table
+        B3-Traffic Conditions-Lateral distance between OBEs unter
+        Berücksichtigung der Allgemeinen Vorgaben nach Einzeldokument 4.3.1
+        Version 3.0 (Stand: 12.11.2020).
+
+
+
+
+*    *   DSRC\_SFXX\_TRPT\_5040
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+
+        -   Die Bake wird für einen Dauertest konfiguriert, der über einen
+            Zeitraum von 5 Stunden mit folgenden Einstellungen durchgeführt wird:
+
+
+        1.  Beacon Change Intervall 15s
+
+
+        2.  CCC:2019(BAG v3.0)-Transaktionen für Max 15s
+
+
+        3.  Nach der Transaktion wird die Bake für 15s angehalten (Simulation des
+            Verlassen der Kommunikationszone)
+
+
+        -   Nach Ablauf der Testdauer wird aus dem Bake-Log die Anzahl der
+            durchgeführten Transaktionen mit den zu erwartenden Transaktionen
+            verglichen.
+
+
+
+
+    *   Es soll nachgewiesen werden, dass in einem Dauerlauf das DUT alle
+        CCC:2019(BAG v3.0)-Transaktionen erfolgreich durchführt.
+        In Anlehnung an die Bitfehlerraten-Tests der EN300674-2-2 werden in
+        diesem Labortest die Übertragungssicherheit im stabilen Laboraufbau
+        überprüft.
+
+
+*    *   DSRC\_SFXX\_UCON\_5010
+
+    *   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+        durchgeführt, um festzustellen, ob das DUT kommunikationsbereit ist.
+
+        -   Einer Fehler wird provoziert (z.B. kein GNSS Empfang).
+
+
+        -   Der Benutzer wird aufgefordert die Fehlermeldung zu bestätigen.
+
+
+        -   Die Bake führt eine CCC-Transaktion durch. Aus dem Transaktionslog
+            wird der Zeitstempel der UserConfirmation ausgelesen, der den
+            Zeitpunkt der Bestätigung entspricht.
+
+
+
+
+    *   In der Version 2019-11 hat der ISO 12813 u.a. das Attribut 101
+        (UserConfirmation) neu eingeführt. Dieser Testfall soll sicherstellen,
+        dass das DUT dieses Attribut korrekt setzt.
+
+
+*    *   DSRC\_SFXX\_WKUP\_0010
+
+    *
+        -   Eine Initialisierung (BST-VST) mit einer neuen Beacon-ID wird
+            durchgeführt, um festzustellen, ob die OBU/DSRC- Module
+            kommunikationsbereit sind.
+
+
+        -   Die Bake pausiert für 10 Sekunden.
+
+
+        -   Dann sendet Bake BSTs, bis sie ein private window request empfängt.
+            Die Dauer ab der ersten BST bis zum private window request wird
+            gemessen.
+
+
+
+
+    *   Es soll sicherstellt werden, dass die Wakeup-Dauer des DUTs unter 20
+        ms liegt.
+
+
+*    *   DSRC\_SFXX\_FUL1\_5010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC:2019(BAG v3.0)- Transaktion durch und das Log
+        wird auf korrekte LID, Kontrollfelder und Vollständigkeit der
+        Transaktion überprüft. Der Testfall wird als Dauertest über einen
+        einstellbaren Zeitraum wiederholt. Abschließend wird die
+        Transaktionserfolgsrate ausgegeben, wobei für jeden
+        iInitialisierungsversuch der Bake mindesten ein private request der
+        Bake erwartet wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen [FootPrint (KonSL)] , die dem Wirkbetrieb möglichst
+        nahe kommen, ordnungsgemäß Transaktionen durchführen kann.
+        Hinweis: FootPrint (KonSL): DSRC\_SFXX\_FUL1\_5010-KonSL-
+        LKW-3.5mSeitl-plusLöcher.txt
+        Der Pegelverlauf basiert auf der Messung einer LKW-Passage an einer
+        KonSL, wobei die Messdaten durch manuell eingefügte Pegeleinbrüche
+        künstlich verschlechtert werden.
+
+
+
+
+*    *   DSRC\_SFXX\_FUL2\_5010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC:2019(BAG v3.0)- Transaktion durch und das Log
+        wird auf korrekte LID, Kontrollfelder und Vollständigkeit der
+        Transaktion überprüft. Der Testfall wird als Dauertest über einen
+        einstellbaren Zeitraum wiederholt. Abschließend wird die
+        Transaktionserfolgsrate ausgegeben, wobei für jeden
+        iInitialisierungsversuch                      der Bake mindesten ein
+        private request der Bake erwartet wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen[Footprint (KonMA)], die dem Wirkbetrieb möglichst nahe
+        kommen, ordnungsgemäß Transaktionen durchführen kann.
+        Hinweis: Footprint (KonMA):
+        DSRC\_SFXX\_FUL2\_5010-KonMa1-plusLöcher.txt
+        Der Pegelverlauf basiert auf der Messung einer KonMA-Passage an einem
+        LKW, wobei die Messdaten durch manuell eingefügte Pegeleinbrüche
+        künstlich verschlechtert werden.
+
+
+*    *   SRC\_SFXX\_FUL3\_5010
+
+    *   Das Dämpfungsglied wird für den gewünschten Pegelverlauf eingestellt,
+        die Bake führt eine CCC:2019(BAG v3.0)- Transaktion durch und das Log
+        wird auf korrekte LID, Kontrollfelder und Vollständigkeit der
+        Transaktion überprüft. Der Testfall wird als Dauertest über einen
+        einstellbaren Zeitraum wiederholt. Abschließend wird die
+        Transaktionserfolgsrate ausgegeben, wobei für jeden
+        iInitialisierungsversuch                      der Bake mindesten ein
+        private request der Bake erwartet wird.
+
+    *   Es soll sichergestellt werden, dass die OBU/das DSRC-Modul unter
+        Funkbedingungen[Footprint (Sägezahn)], die dem Wirkbetrieb möglichst
+        nahe kommen, ordnungsgemäß Transaktionen durchführen kann.
+        Hinweis: Footprint (Sägezahn): DSRC\_SFXX\_FUL3\_5010-Saegezahn.txt
+        Der Pegel wird jeweils um 2,8dB besser und verschlechtert sich dann
+        wieder langsam um 1,8 dB. Das wird so lange wiederholt, bis ein
+        ungedämpfter Kanal erreicht ist.
+
+
+*    *   DSRC\_SFXX\_2BKN\_5010
+
+    *   Zunächst wird testweise eine Transaktion separat mit jeder der
+        beteiligten Baken ausgelöst. Falls keine Kommunikation mit der OBU
+        erfolgt, wird der Testlauf abgebrochen. Dann werden bei
+        gleichbleibender BeaconId an beiden Baken im Parallelbetrieb CCC:2019
+        (BAG v3.0)-Transaktionen durchgeführt. Es wird erwartet, dass das DSRC
+        Modul beim Empfang einer BST die laufende Transaktion unterbricht und
+        zur anderen RSU wechselt, und dass das Modul nach dem Ablauf der 2
+        Baken-Testphase noch Transaktionen mit einer einzelnen Bake
+        durchführen kann. Nach Ablauf der Testdauer wird ermittelt, ob die
+        OBUs die Bakenbefehle immer mit der korrekten LID und gemäß des
+        Protokollablaufs beantwortet haben.
+
+    *   Es soll nachgewiesen werden, dass das DSRC-Modul sich in einer worst
+        case-Situation, die aber bei einer Vorbeifahrt einer KonMA unter der
+        KonAU auftritt, korrekt verhält.
+
+
+
+**P1-KTD-002: Fachliche DSRC-Kompatibilitätstests der SST 301 – DSRC-
+Kommunikation**
+
+
+*    *   **Name / ID**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   AutoKST\_SVF\_FG06AV
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E-Szenario überprüft.
+        In diesem Testfall wird die Erzeugung der Fallgruppe 6
+        (Falschdeklarierer) mit einem Test-FzG überprüft. Ein Test-FzG wird im
+        Test-LKW (mit Anhänger) benutzt und auf eine geringere Achszahl bzw.
+        Gewichtsklasse personalisiert, als der Test-LKW inklusive Anhänger
+        tatsächlich besitzt. Bei einer Durchfahrt unter der Test-
+        Kontrollstelle wird überprüft, ob die Test-Kontrollstelle gemäß
+        aktuellem Tarifparametermodell einen Falschdeklarier erkennt.
+        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die
+        Kontrollstellen neben der Gebietsvorgaben V2.0/2.1 auch die Vorgaben
+        der Version 3.0 unterstützen. Anhand der ContextMark kann die
+        Kontrollstelle entscheiden, ob die weitere Kommunikation nach den
+        neuen Gebietsvorgaben 3.0 zu erfolgen hat oder nicht.
+
+    *   Ein Test-LKW mit Test-FzG, aber unzureichend deklarierter Achsklasse
+        und/oder Gewichtsklasse erzeugt eine Fallgruppe 6 (Falschdeklarierer).
+        Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301
+        Version 3.0)
+
+
+*    *   AutoKST\_SVF\_FG06AV\_2xFzG
+
+    *   Der Testfall prüft ein häufig im Pilotbetrieb auftretendes Szenario:
+        Ein mautpflichtiges Fahrzeug ist mit einem Fahrzeuggerät (FzG\_1) des
+        EETS-Anbieters sowie einem zweiten deaktivierten/gesperrten
+        Fahrzeuggerät (FzG\_2) eines weiteren Anbieters ausgestattet. Um einen
+        Kontrollfall inklusive DSRC-Daten zu erzeugen, wird das Szenario in
+        Form eines Falschdeklarierers durchgeführt. FzG\_1 und FzG\_2 werden
+        im Test-LKW (mit Anhänger) positioniert. FzG\_1 wird auf eine
+        geringere Achszahl bzw. Gewichtsklasse deklariert, als der Test-LKW
+        inklusive Anhänger tatsächlich besitzt. FzG\_2 befindet sich im Status
+        NOK (gesperrt/deaktiviert).
+        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die
+        Kontrollstellen neben der Gebietsvorgaben V2.0/2.1 auch die Vorgaben
+        der Version 3.0 unterstützen. Anhand der ContextMark kann die
+        Kontrollstelle entscheiden, ob die weitere Kommunikation nach den
+        neuen Gebietsvorgaben 3.0 zu erfolgen hat oder nicht.
+
+    *   Ein Test-LKW mit falsch deklariertem Test-FzG (FzG\_1) und einem
+        weiteren FzG (FzG\_2) im Status NOK erzeugt einen Verdachtsfall der
+        Fallgruppe 6 (Falschdeklarierer).
+        Die DSRC-Daten beider Fahrzeuggeräte werden korrekt und vollständig
+        übertragen, wobei ausschließlich eine Auffälligkeit des im Rahmen der
+        Gebrauchstauglichkeitsprüfung zu testenden EETS-Fahrzeuggeräts
+        (FzG\_1) zum Fehlschlagen des Testfalls führen kann.
+        Kommunikation gemäß SST-Spezifikation 301 Version 3.0
+
+
+
+
+*    *   AutoKST\_SVF\_FG07\_mautfreier\_Modus
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E- Szenario überprüft.
+        In diesem Testfall wird die Erzeugung der Fallgruppe 7 mit einem Test-
+        FzG überprüft.
+        Ein Test-FzG wird im Test-LKW (mit Anhänger) angeschlossen.
+        Anschließend wird das Test-FzG so eingestellt, dass das Fahrzeug damit
+        im Gebiet BFstrMG nicht mautpflichtig ist. Bei der Durchfahrt an der
+        Kontrollstelle wird überprüft ob die Kontrollstelle eine FG7 erkennt.
+        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die
+        Kontrollstellen neben der Gebietsvorgaben V2.0/2.1 auch die Vorgaben
+        der Version 3.0 unterstützen. Anhand der ContextMark kann die
+        Kontrollstelle entscheiden, ob die weitere Kommunikation nach den
+        neuen Gebietsvorgaben 3.0 zu erfolgen hat oder nicht.
+
+    *   Ein Test-LKW mit Test-FzG, welches sich im mautfreien Modus befindet,
+        erzeugt eine Fallgruppe 7.
+
+        •   Auswertung nach SST 301 v.3.0 durch Attribut
+            ExtendedOBUStatusHistoryPart1
+
+
+        •   Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301
+            Version 3.0)
+
+
+
+
+
+*    *   AutoKST\_SVF\_FG12
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E- Szenario überprüft.
+        In diesem Testfall wird die Erzeugung der Fallgruppe 12 mit einem
+        Test-FzG überprüft. Der Test-LKW dessen Test- FzG mit dem Status
+        "gesperrt" eingesetzt ist, passiert die Kontrollstelle. Die DSRC-Daten
+        aus dem Test-FzG werden von der Test-Kontrollstelle ausgelesen. Der
+        Status "gesperrt" wird festgestellt und die Test-Kontrollstelle
+        erzeugt einen Verdachtsfall der Fallgruppe 12. Dieser wird
+        anschließend an die Test-KonZ\_2.0 gesendet.
+        Für die Kommunikation mit den EETS-Fahrzeuggeräten müssen die
+        Kontrollstellen neben der Gebietsvorgaben V2.0/2.1 auch die Vorgaben
+        der Version 3.0 unterstützen. Anhand der ContextMark kann die
+        Kontrollstelle entscheiden, ob die weitere Kommunikation nach den
+        neuen Gebietsvorgaben 3.0 zu erfolgen hat oder nicht.
+
+    *   Ein LKW mit einem eingebauten FzG, welches gesperrt ist, erzeugt eine
+        FG 12 Auswertung nach SST 301 v.3.0 durch Attribut
+        ExtendedOBUStatusHistoryPart1: FzG-Status "noGoContractual" oder
+        "noGoPaymentMeans" (Parameter entsprechen der jeweiligen
+        Testkonfiguration)
+
+        •   Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301
+            Version 3.0)
+
+
+
+
+
+
+
+*    *   AutoKST\_SVF\_FG16
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E- Szenario überprüft.
+        Der Test-LKW befindet sich im automatischen Verfahren. Das Test-FzG
+        wurde den Klassifikationsdaten entsprechend des Test-LKWs oder höher
+        (Überzahler) konfiguriert. Der Test-LKW passiert die Test-
+        Kontrollstelle, der DSRC-Datensatz aus dem Test-FzG wird ausgelesen.
+        Die Test-Kontrollstelle entscheidet aufgrund der deklarierten
+        Parameter und der Sensorikdaten auf FG16.
+        Der Fall wird nicht an die KonZ\_2.0 verschickt und in der Test-
+        Kontrollstelle gelöscht.
+
+    *   Ein Test-LKW mit korrekt eingestelltem Test-FzG erzeugt die FG16
+        (Gutzahler AV)
+        Korrekte und vollständige DSRC-Daten (gemäß SST-Spezifikation 301
+        Version 3.0)
+        Die Falldaten werden nicht an die KonZ\_2.0 verschickt und in der
+        Test-Kontrollstelle gelöscht.
+
+
+*    *   AutoKST\_Verifikation\_EETS\_Masterkey
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen des
+        Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen
+        an die EETS-Fahrzeuggeräte in einem E2E- Szenario überprüft.
+        In diesem Testfall wird der neu aufgespielte EETS-Masterkey auf der
+        dezentralen Komponente (KonAu/KonSL) verifiziert.
+
+    *   Ein Test-LKW mit einem Test-FzG des EETS-Anbieters passiert als
+        Gutzahler die Kontrollstelle
+        DSRC-Daten werden vollständig erfasst und entschlüsselt (gemäß SST-
+        Spezifikation 301 Version 3.0)
+
+
+
+
+*    *   KonB\_DezKst\_SVF\_FG
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der
+        Kompatibilitätstests wird die Umsetzung der funktionalen Anforderungen
+        an die EETS- Fahrzeuggeräte in einem E2E-Szenario überprüft.
+        Ein Test-LKW passiert eine Kontrollstelle und ein Verdachtsfall wird
+        angelegt. Dieser Verdachtsfall wird in der KonZ2.0 mit der passenden
+        Fallgruppe gespeichert. Kontrollfall- und Nacherhebungsdaten werden
+        aus der KonZ\_2.0 in die KonB (zunächst aKA) übertragen. Anschließend
+        werden die Daten in die VB übernommen und aufbereitet.
+        Übertragung bis ins SC-OWI sowie die Rückantwort an die KonZ\_2.0
+        werden überprüft.
+
+    *   Sicherstellung, dass der Kontrollfall aus der KonZ\_2.0 korrekt in der
+        KonB ankommt.
+        Gewährleistung Interoperabilität Kontrollstelle zu weiterführenden
+        Systemen.
+
+
+*    *   KonMa\_auswinken\_VKB
+
+    *   Das Fahrzeug wird ausgewunken. Ein verkürzter Kontrollberichte (VKB,
+        FG19) wird ohne weitere Kontrolle erstellt.
+
+    *   Erfolgreiches Erstellen eines VKB (FG19)
+
+
+*    *   KonMa\_KonZ\_2.0\_Berichte\_weiterverarbeiten\_in\_KonB
+
+    *   Dieser Testfall prüft die Weiterverarbeitung von Kontrollfällen mit
+        einem Kontrollbericht über die KonZ\_2.0 bis in die KonB.
+        Die Überprüfung erfolgt für den Kontrollfall, Kontrollfalldaten bzw.
+        die erfassten Beweismittel. Es wird die e-Akte in SC-OWI überprüft.
+        Optional: Die Anreichung der e-Akte mit den zugehörigen DSRC-Daten
+        prüfen
+
+    *   Absicherung der Übermittlung von Fahrzeugkontrollfällen nach SC-OWI
+        Optional: Absicherung der DSRC-Daten Anreicherung
+        Vollständigkeit und inhaltliche Richtigkeit der e-Akte in SC-OWI für
+        Fahrzeugkontrollfälle prüfen
+
+
+*    *   KonMa\_Mobile\_Kontrolle
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E-Szenario überprüft.
+        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonMa mit
+        den DSRC-Formaten Gebietsvorgaben 2.0/2.1 und Gebietsvorgaben 3.0
+        umgehen können.
+        In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit
+        einer KonMa im Modus mobile Kontrolle durchgeführt.
+        Durchführung einer Mobile-Kontrolle
+        Die entsprechenden Daten des Kontrollfalls bei einer DSRC-/OBE-
+        Auslesung werden vollständig und korrekt angezeigt
+
+    *   Mit der KonMa wird eine Mobile Kontrolle gemäß den Testparametern
+        erfolgreich durchführt.
+        Die entsprechenden DSRC-Daten des Kontrollfalls werden vollständig und
+        korrekt angezeigt (gemäß SST- Spezifikation 301 Version 3.0)
+        Die Fallgruppe wird durch die KonMa korrekt angezeigt.
+
+
+
+
+*    *   KonMa\_Standkontrolle\_Start\_KB
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der Kompatibilitätstest
+        wird die Umsetzung der funktionalen Anforderungen an die EETS-
+        Fahrzeuggeräte in einem E2E-Szenario überprüft.
+        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonMa mit
+        den DSRC-Formaten Gebietsvorgaben 2.0/2.1 und Gebietsvorgaben 3.0
+        umgehen können.
+        In diesem Testfall wird die Auslesung eines EETS-FzGs im Test-LKW mit
+        einer KonMa im Modus Standkontrolle mit dem Handheld durchgeführt. Das
+        Test-FzG ist so eingestellt, dass das Fahrzeug damit im Gebiet BFstrMG
+        nicht mautpflichtig ist. Bei der Kontrolle wird festgestellt, dass es
+        sich bei dem Fahrzeug um ein mautpflichtiges Fahrzeug handelt und sich
+        demnach eine FG7 (Nichtzahler) ergibt.
+        Beginnen und Durchführung der Standkontrolle zum Erstellen eines
+        Kontrollberichtes.
+        Auslesung der DSRC-Daten mit Handheld
+        Abschluss des Kontrollberichtes
+
+    *   Mit der KonMa wird eine Standkontrolle gemäß den genannten
+        Testparametern im Szenario erfolgreich gestartet.
+        Die entsprechenden Daten des Kontrollfalls werden vollständig und
+        korrekt angezeigt (gemäß SST-Spezifikation 301 Version 3.0)
+        Es wird die Kontrollberichterstellung durchgeführt.
+
+
+*    *   KonZ\_2.0\_DezKst\_SVF
+
+    *   Fahrzeuggeräte von neuen EETS-Providern durchlaufen eine
+        Gebrauchstauglichkeitsprüfung (GTP). Im Rahmen der
+        Kompatibilitätstests wird die Umsetzung der funktionalen Anforderung
+        an die EETS-Fahrzeuggeräte überprüft.
+        Die Test-Kontrollstelle erstellt einen Verdachtsfall und sendet diesen
+        mit den Beweismitteln an die Test-KonZ\_2.0. In der WebGUI wird nach
+        dem KFZ-Kennzeichen selektiert und anhand des von der Test-
+        Kontrollstelle gelesenen Kennzeichens überprüft. In diesem Testfall
+        wird die Verarbeitung eines Verdachtsfalls in der Test-KonZ\_2.0 einer
+        durch die Test-Kontrollstelle durchgeführten Fahrt überprüft.
+        Nach der Sachverhaltsfeststellung wird der Verdachtsfall in der
+        Kontrollfallverwaltung verarbeitet, bis der fertige Kontrollfall an
+        das SC-OWI (KonB) exportiert wird.
+        Aufgrund einer Erweiterung der DSRC-Schnittstelle muss die KonZ mit
+        den DSRC-Formaten Gebietsvorgaben 2.0/2.1 und Gebietsvorgaben 3.0
+        umgehen können.
+
+    *   Überprüfung der korrekten Weiterleitung des Verdachtsfalls von der
+        Kontrollstelle an die KonZ\_2.0.
+        Überprüfung aller relevanten DSRC-Parameter in der Kontrollzentrale
+        (gemäß SST-Spezifikation 301 Version 3.0)
+
+
 
 Bundesrepublik Deutschland
 vertreten durch das
 Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
 dieses vertreten durch das
-Bundesamt für Güterverkehr (BAG)
-**Europäischer elektronischer Mautdienst (EETS)**
-##
+## **Bundesamt für Güterverkehr (BAG)**
 
-Verfahren zur Feststellung der Gebrauchstauglichkeit
-Anhang B – Prüfkatalog
-## **zum Dokument B – Prüfkonzept**
+## **Europäischer elektronischer Mautdienst (EETS)**
 
-## **Stand: 27. November 2017**
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
 
-## **Inhaltsverzeichnis**
+## **Anlage 3 zum Dokument B- Prüfkonzept**
 
-**1 Einleitung**
+## **Prüfkatalog „MED-Kompatibilitätstests“**
 
-1\.1 Zielsetzung des Dokuments
+### **Dokumentenhistorie**
 
-1\.2 Referenzen und Grundlagen
 
-1\.3 Überblick und Aufbau des Dokuments
+*    *   **Version**
 
-**2 Aufbau der Prüffallvorgaben**
+    *   **Datum**
 
-2\.1 Kategorien von Prüffallvorgaben
+    *   **Bearbeiter**
 
-2\.2 Struktur der Prüffallvorgaben
-
-**3 Übersicht Prüffallvorgaben**
-
-**4 Vorgehensweise bei der Durchführung der Prüffallvorgaben**
-
-**5 Prüffallvorgaben zu technischen Schnittstellentests**
-
-**6 Prüffallvorgaben zu fachlichen Tests**
-
-6\.1 Whitelist
-
-6\.2 Blacklist
-
-6\.3 User-Details
-
-6\.4 User-IDs eines EETS-Nutzers
-
-6\.5 Abschnittsbezogene Erhebungsdaten
-
-6\.6 Mautbuchungsnachweise
-
-6\.7 Tagesberichte
-
-6\.8 DSRC-Kontrolldaten
-
-6\.9 Mautbasisdaten
-
-6\.10 Trust Objects
-
-6\.11 Technischer Zustand Bordgerät
-
-**7 Prüffallvorgaben-übergreifend zu verwendende Daten**
-
-7\.1 Stammdaten
-
-7\.2 Fahrszenarien
-
-
-## Tabellenverzeichnis
-
-
-*    *   Tabelle  1:
-
-    *   Kategorien von Prüffallvorgaben
-
-
-*    *   Tabelle  2:
-
-    *   Struktur der Prüffallvorgabe
-
-
-*    *   Tabelle  3:
-
-    *   Übersicht Prüffallvorgaben
-
-
-*    *   Tabelle  4:
-
-    *   Prüffallvorgabe: Übertragung einer leeren EETS-Blacklist
-
-
-*    *   Tabelle  5:
-
-    *   Prüffallvorgabe: Erfolgreiche Übertragung einer leeren EETS-Whitelist
-
-
-*    *   Tabelle  6:
-
-    *   Prüffallvorgabe: Erfolgreiche Übertragung eines Tagesberichts ohne
-        Auskehr
-
-
-*    *   Tabelle  7:
-
-    *   Prüffallvorgabe: Kommunikationsablauf gemäß
-        Schnittstellenspezifikationen
-
-
-*    *   Tabelle  8:
-
-    *   Prüffallvorgabe: Kommunikationsablauf bei Nichtverfügbarkeit
-
-
-*    *   Tabelle  9:
-
-    *   Prüffallvorgabe: Neuanlage eines Nutzers mit einem Fahrzeug
-
-
-*    *   Tabelle 10:
-
-    *   Prüffallvorgabe: Neuanlage mehrerer Nutzer mit mehreren Fahrzeugen
-
-
-*    *   Tabelle 11:
-
-    *   Prüffallvorgabe: Abmelden eines Fahrzeugs
-
-
-*    *   Tabelle 12:
-
-    *   Prüffallvorgabe: Neues Bordgerät für ein bestehendes Fahrzeug
-
-
-*    *   Tabelle 13:
-
-    *   Prüffallvorgabe: Sperrung eines Bordgeräts
-
-
-*    *   Tabelle 14:
-
-    *   Prüffallvorgabe: Sperrung mehrerer Bordgeräte
-
-
-*    *   Tabelle 15:
-
-    *   Prüffallvorgabe: Entsperrung eines Bordgeräts
-
-
-*    *   Tabelle 16:
-
-    *   Prüffallvorgabe: Entsperrung mehrerer Bordgeräte
-
-
-*    *   Tabelle 17:
-
-    *   Prüffallvorgabe: Abfrage von Adressdaten zu einer User-ID
-
-
-*    *   Tabelle 18:
-
-    *   Prüffallvorgabe: Übertragung von Fahrzeugdaten zu einer User-ID
-
-
-*    *   Tabelle 19:
-
-    *   Prüffallvorgabe: Verschiedene Abfragen zu mehreren User-IDs
-
-
-*    *   Tabelle 20:
-
-    *   Prüffallvorgabe: Abfrage nach Änderung der Fahrzeugdaten
-
-
-*    *   Tabelle 21:
-
-    *   Prüffallvorgabe: Abfrage des mautpflichtigen Fahrzeugbestands zu einer
-        User-ID
-
-
-*    *   Tabelle 22:
-
-    *   Prüffallvorgabe: Abfrage des mautpflichtigen Fahrzeugbestands zu
-        mehreren User-IDs
-
-
-*    *   Tabelle 23:
-
-    *   Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein- und einer
-        Ausfahrt
-
-
-*    *   Tabelle 24:
-
-    *   Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein-, einer Durch-
-        und einer Ausfahrt
-
-
-*    *   Tabelle 25:
-
-    *   Prüffallvorgabe: Erhebung bei einer Fahrt mit zwei Ein- und Ausfahrten
-        und einer Durchfahrt
-
-
-*    *   Tabelle 26:
-
-    *   Prüffallvorgabe: Erhebung mit Änderung der Achsklasse
-
-
-*    *   Tabelle 27:
-
-    *   Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse mit Änderung
-        der Mautpflicht
-
-
-*    *   Tabelle 28:
-
-    *   Prüffallvorgabe: Erhebung und Sperrung eines Bordgeräts
-
-
-*    *   Tabelle 29:
-
-    *   Prüffallvorgabe: Erhebung mit erhöhten Mautbeträgen nach Update der
-        Mautbasisdaten
-
-
-*    *   Tabelle 30:
-
-    *   Prüffallvorgabe: Erhebung mit Orts- und Zeitklassen nach Update der
-        Mautbasisdaten
-
-
-*    *   Tabelle 31:
-
-    *   Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse nach
-        Einführung einer neuen Gewichtsklasse
-
-
-*    *   Tabelle 32:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit einer Ein-
-        und einer Ausfahrt
-
-
-*    *   Tabelle 33:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis bei einer Fahrt mit einer Ein-,
-        einer Durch- und einer Ausfahrt
-
-
-*    *   Tabelle 34:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit zwei Ein- und
-        Ausfahrten und einer Durchfahrt
-
-
-*    *   Tabelle 35:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Änderung der
-        Achsklasse
-
-
-*    *   Tabelle 36:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Änderung der
-        Gewichtsklasse
-
-
-*    *   Tabelle 37:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Sperrung
-        eines Bordgeräts
-
-
-*    *   Tabelle 38:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit erhöhten
-        Mautbeträgen nach Update der Mautbasisdaten
-
-
-*    *   Tabelle 39:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweise für Fahrten mit verschiedenen
-        Orts- und Zeitklassen
-
-
-*    *   Tabelle 40:
-
-    *   Prüffallvorgabe: Mautbuchungsnachweise für zwei Fahrten mit Änderung
-        der Gewichtsklasse
-
-
-*    *   Tabelle 41:
-
-    *   Prüffallvorgabe: Tagesberichte
-
-
-*    *   Tabelle 42:
-
-    *   Prüffallvorgabe: Portable Kontrolle
-
-
-*    *   Tabelle 43:
-
-    *   Prüffallvorgabe: Manuelle Kontrolle
-
-
-*    *   Tabelle 44:
-
-    *   Prüffallvorgabe: Automatische Kontrolle
-
-
-*    *   Tabelle 45:
-
-    *   Prüffallvorgabe: Kontrollsäule
-
-
-*    *   Tabelle 46:
-
-    *   Prüffallvorgabe: Kontrolle vor und nach Änderung der Achsklasse
-
-
-*    *   Tabelle 47:
-
-    *   Prüffallvorgabe: Kontrolle vor und nach Änderung der Gewichtsklasse
-
-
-*    *   Tabelle 48:
-
-    *   Prüffallvorgabe: Kontrolle vor und nach Sperrung des Bordgeräts
-
-
-*    *   Tabelle 49:
-
-    *   Prüffallvorgabe: Übertragung von Mautbasisdaten vom Mauterheber zum
-        EETS-Anbieter
-
-
-*    *   Tabelle 50:
-
-    *   Prüffallvorgabe: Übertragung von Transportschlüsseln vom Mauterheber
-        zum EETS-Anbieter
-
-
-*    *   Tabelle 51:
-
-    *   Prüffallvorgabe: Übertragung von Transportschlüsseln vom EETS-Anbieter
-        zum Mauterheber
-
-
-*    *   Tabelle 52:
-
-    *   Prüffallvorgabe: Übertragung von Zertifikaten vom Mauterheber zum
-        EETS-Anbieter
-
-
-*    *   Tabelle 53:
-
-    *   Prüffallvorgabe: Übertragung von Zertifikaten vom EETS-Anbieter zum
-        Mauterheber
-
-
-*    *   Tabelle 54:
-
-    *   Prüffallvorgabe: Übertragung von Masterkeys vom EETS-Anbieter zum
-        Mauterheber
-
-
-*    *   Tabelle 55:
-
-    *   Prüffallvorgabe: Anfrage zum technischen Zustand eines Bordgeräts
-
-
-*    *   Tabelle 56:
-
-    *   Stammdatenzuordnung
-
-
-*    *   Tabelle 57:
-
-    *   EETS-Nutzerdaten Teil 1
-
-
-*    *   Tabelle 58:
-
-    *   EETS-Nutzerdaten Teil 2
-
-
-*    *   Tabelle 59:
-
-    *   Fahrzeugdaten Teil 1
-
-
-*    *   Tabelle 60:
-
-    *   Fahrzeugdaten Teil 2
-
-
-*    *   Tabelle 61:
-
-    *   Fahrzeugdaten Teil 3
-
-
-*    *   Tabelle 62:
-
-    *   Update der Tarifparameter
-
-
-*    *   Tabelle 63:
-
-    *   Update Orts- und Zeitklassen
-
-
-*    *   Tabelle 64:
-
-    *   Fahrszenarien
-
-
-
-
-## Dokumentenhistorie
-
-
-*    *   Version
-
-    *   Datum
-
-    *   Bearbeiter
-
-    *   Bearbeitung/Änderung
+    *   **Bearbeitung / Änderung**
 
 
 *    *   0.1
 
-    *   26.09.2011
+    *   17.09.2020
 
-    *   EETS Projektteam
+    *   RT
 
-    *   Erstellung
+    *   Erstellung erster unvollständiger Entwurf
 
 
-*    *   1.2
+*    *   0.2
 
-    *   13.11.2014
+    *   30.10.2020
 
-    *   BAG
+    *   RT
 
-    *   Redaktionelle Überarbeitung
+    *   Überarbeitung nach Vorlage Prüfspezifikation KT MED
 
 
-*    *   1.32
+*    *   1.0
 
-    *   22.09.2015
+    *   04.12.2020
 
-    *   EETS Projektteam
+    *   RT
 
-    *   Anpassung Integration WS-3.2.0.1:
+    *   Überarbeitung nach Vorlage Prüfspezifikation KT MED v1.0, QS und
+        Finalisierung
 
-        –   Redaktionelle Überarbeitung
 
+*    *   1.1
 
-        –   Versionen SST-EETS-Anbieter
+    *   18.06.2021
 
+    *   RT
 
+    *   Ergänzung Fahrmanöver MF\_09 und MF\_10 in P1-KTM-001
 
 
 
-*    *   1.33
+### **1 Einleitung**
 
-    *   12.10.2015
+Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im
+Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2,
+Phase 1 Kompatiblitätests nachzuweisen ist.
 
-    *   EETS Projektteam
+Er beschränkt sich auf die Prüffälle zum Nachweis der Kompatibilität
+zum Mauterhebungs-dienst (MED) in Bezug auf die Schnittstellen
+zwischen dem Teilsystem des EETS-Anbieters und dem MED sowie in Bezug
+auf die Erfüllung der Anforderungen an die Ortung durch die Bordgeräte
+des EETS-Anbieters (MED-Kompatibilitätstests)
 
-    *   Überarbeitung der Formulierung in Aktionsbeschreibung der
-        Prüffallvorgaben P1-AED-006-007 und P1-MBN-007-007
+Die Kompatibilitätstests werden durch den nationalen Mautbetreiber im
+Auftrag des Mauterhebers geplant und durchgeführt.
 
+Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die
+Prüfspezifikation „Kompatibilitätstests MED“ detailliert und
+konkretisiert.
 
-*    *   1.34
+### **2 Prüffälle**
 
-    *   02.11.2015
+**2.1 P1-KTM-001: Ortungstests der Bordgeräte**
 
-    *   EETS Projektteam
 
-    *   Entfernen der Hinweise auf Tarifkategorie, Zeit- und Ortsklassen in
-        den Prüffallvorgaben P1-AED-006-007 und P1-MBN-007-007 und
-        Beschreibung Fahrszenario FS\_07 sowie der Anschlussstellennummern
+*    *   **ID**
 
+    *   **Name**
 
-*    *   1.35
+    *   **Beschreibung**
 
-    *   15.04.2016
-
-    *   EETS Projektteam
-
-    *   Überarbeiten der Prüffallvorgaben P1-AED-006-007 und P1-MBN-007-007
-        und Solldaten bzgl. mautreiner Fahrten bei Orts- und
-        Zeitklassenwechsel
-
-
-*    *   2.00
-
-    *   04.10.2017
-
-    *   BAG, RT
-
-    *   Grundlegende Überarbeitung: Anpassung an aktuelle
-        Schnittstellenversionen und Umstellung der Prüfumgebung beim BAG
-
-
-*    *   2.1
-
-    *   27.11.2017
-
-    *   BAG, RT
-
-    *   Spezifizierung P1-KON-301-006
-
-
-
-## **1 Einleitung**
-
-1\.1 Zielsetzung des Dokuments
-
-Der vorliegende Prüfkatalog enthält die Prüffallvorgaben, deren
-Erfüllung im Rahmen der Feststellung der Gebrauchstauglichkeit in
-Prüfblock 2, Phase 1 nachzuweisen ist. In diesem Katalog finden sich
-die relevanten Informationen zu den in Dokument B (Prüfkonzept)
-aufgeführten Prüfszenarien in Form von Prüffallvorgaben.
-
-Die Prüffallvorgaben müssen im Rahmen der Erstellung der
-Prüfspezifikation durch den EETS-Anbieter konkretisiert und in seiner
-Prüfspezifikation dokumentiert werden. Im Rahmen der Erstellung der
-Prüfspezifikation durch den EETS-Anbieter ist eine Gruppierung
-mehrerer Prüffallvorgaben des Mauterhebers in einem Prüffall des EETS-
-Anbieters zulässig.
-
-1\.2 Referenzen und Grundlagen
-
-Dem Prüfkatalog liegen das Dokument B (Prüfkonzept) des Verfahrens der
-Gebrauchstauglichkeitsprüfung sowie die im Rahmendokument EETS-
-Schnittstellen aufgeführten Schnittstellenspezifikationen zwischen
-EETS-Anbieter und Mauterheber zugrunde. Alle dort vorgenommenen
-Festlegungen gelten übergreifend für die Inhalte des Prüfkatalogs und
-für die durch den EETS-Anbieter zu erstellende Prüfspezifikation. Die
-in den Schnittstellenspezifikationen definierten und verwendeten
-Datentypen sowie Fehlercodes werden im vorliegenden Prüfkatalog ohne
-weitere Erläuterung verwendet.
-
-1\.3 Überblick und Aufbau des Dokuments
-
-Der Prüfkatalog umfasst die Prüffallvorgaben für die Durchführung des
-Prüfprogramms (Prüfblock 2), Schnittstellenprüfung (Phase 1).
-
-Zunächst wird mit Nummer 1 eine Einleitung in das Dokument gegeben.
-Nummer 2 beschreibt den Aufbau der im Prüfkatalog enthaltenen
-Prüffallvorgaben, bevor Nummer 3 eine Übersicht über die
-Prüffallvorgaben gibt, die in den einzelnen Szenarien der
-Schnittstellenprüfung durchzuführen sind. Im Anschluss daran wird in
-Nummer 4 die Vorgehensweise bei der Durchführung der Prüffallvorgaben
-beschrieben. Nummer 5 enthält die Prüffallvorgaben zu technischen
-Schnittstellentests und Nummer 6 die Prüffallvorgaben zu fachlichen
-Tests. In Nummer 7 werden die zur Durchführung der Prüffallvorgaben zu
-verwendenden Daten beschrieben.
-
-
-## **2 Aufbau der Prüffallvorgaben**
-
-2\.1 Kategorien von Prüffallvorgaben
-
-Die Prüffallvorgaben sind in zwei Kategorien strukturiert:
-
-*    *   Kategorie von Prüffallvorgaben
-
-    *   Beschreibung
-
-
-*    *   Technische Schnittstellentests
-
-    *   Prüffallvorgaben dieser Kategorie sollen den robusten, korrekten und
-        vollständigen Datenaustausch über alle relevanten Schnittstellen des
-        Teilsystems des EETS-Anbieters und des EETS-Teilsystems des
-        Mauterhebers feststellen.
-        Bezeichner für Messages, Attribute und Fehlercodes, welche in diesen
-        Prüffallvorgaben verwendet werden, sind den entsprechenden
-        Schnittstellenspezifikationen inkl. deren Anhänge entnommen.
-
-
-*    *   Fachliche Tests
-
-    *   Prüffallvorgaben dieser Kategorie sollen die grundlegende
-        Funktionalität des Teilsystems des EETS-Anbieters prüfen und den
-        Nachweis einfacher funktionaler Abläufe im Teilsystem des EETS-
-        Anbieters erbringen.
-
-
-
-
-Tabelle 1: Kategorien von Prüffallvorgaben
-
-2\.2 Struktur der Prüffallvorgaben
-
-Jede Prüffallvorgabe ist folgendermaßen strukturiert:
-
-*    *   Attributname
-
-    *   Beschreibung
-
-
-*    *   ID:
-
-    *   Eindeutige
-        Kennzeichnung                        der Prüffallvorgabe
-        Der Bezeichner hat folgende Struktur: P1-XXX-YYY-ZZZ mit folgender
-        Bedeutung:
-
-
-*    *   XXX
-
-    *   Hauptkategorie (2 bis 3 Zeichen) für die Prüffallvorgaben:
-
-
-*    *   SST
-        BL
-        WL
-        UDA
-        FBH
-        AED
-        MBN
-        TB
-        KON
-        TRO
-        MBD
-        TZB
-
-    *   Kategorie „Technische Schnittstellentests“
-        Fachlicher Bereich „Blacklist“
-        Fachlicher Bereich „Whitelist“
-        Fachlicher Bereich „User-Details“-Anfragen
-        Fachlicher Bereich „Fahrzeugbestand eines Halters“
-        Fachlicher Bereich „abschnittsbezogene Erhebungsdaten“
-        Fachlicher Bereich „Mautbuchungsnachweise“
-        Fachlicher Bereich „Tagesbericht“
-        Fachlicher Bereich „Kontrolle“
-        Fachlicher Bereich „Trust Objects“
-        Fachlicher Bereich „Mautbuchungsdaten“
-        Fachlicher Bereich „Technischer Zustand eines Bordgeräts (EETS)“
-
-
-*    *   YYYY
-
-    *   Diese Unterkategorie entspricht der Nummer der betroffenen
-        Schnittstelle (3 bis 4 Zeichen). Ausnahme: Die Kennzeichnung „00X“
-        wird für schnittstellenübergreifende Prüffallvorgaben verwendet.
-
-
-*    *   ZZZ
-
-    *   Eindeutige dreistellige Nummer innerhalb der Unterkategorie
-
-
-*    *   Beschreibung:
-
-    *   Fachliche Beschreibung der Prüffallvorgabe
-
-
-*    *   Prüfkriterien:
-
-    *   Prüfkriterien, die vom EETS-Anbieter zu prüfen sind
-
-
-*    *   Vorbedingungen:
-
-    *   Vor Start der Durchführung einer Prüffallvorgabe herzustellender
-        Zustand
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Nach Durchführung der Prüffallvorgabe vorliegendes Ergebnis
-
-
-*    *   Eingabedaten:
-
-    *   Für die Durchführung der Prüffallvorgabe notwendige Daten
-
-
-*    *   Akteur:
-
-    *   Die für die Durchführung der Prüffallvorgaben aktiv Tätigen
-
-
-*    *   Bemerkungen:
-
-    *   Zusätzliche Informationen zur Prüffallvorgabe
-
-
-
-
-Tabelle 2: Struktur der Prüffallvorgabe
-
-## **3 Übersicht Prüffallvorgaben**
-
-Die folgende Tabelle zeigt eine Übersicht, welche Prüffallvorgaben in
-den einzelnen Szenarien der Schnittstellenprüfung und der initialen
-fachlichen Prüfung in Phase 1 durch den EETS-Anbieter nachzuweisen
-sind.
-
-*    *   Szenario
-
-    *   Prüffallvorgabe – Bezeichnung
-
-    *   Prüffallvorgabe-ID
-
-
-*    *   P1-001
-
-    *   Technische Prüfung der Schnittstellen zum EETS-Anbieter
-        (SST 001, SST 002, SST 006, SST 007, SST 008, SST 099)
-
-    *
-
-*    *
-    *   Übertragung einer leeren EETS-Blacklist
-
-    *   P1-SST-001-001
-
-
-*    *   Übertragung einer leeren EETS-Whitelist
-
-    *   P1-SST-002a-001
-
-
-*    *   Übertragung eines Tagesberichts ohne Auskehr
-
-    *   P1-SST-008-001
-
-
-*    *   Kommunikationsablauf gemäß Schnittstellenspezifikationen
-
-    *   P1-SST-00X-001
-
-
-*    *   Kommunikationsablauf bei Nichtverfügbarkeit
-
-    *   P1-SST-00X-002
-
-
-*    *   P1-002
-
-    *   Verwalten der Blacklist (SST 001)
-
-    *
-
-*    *
-    *   Sperrung eines Bordgeräts
-
-    *   P1-BL-001-001
-
-
-*    *   Sperrung mehrerer Bordgeräte
-
-    *   P1-BL-001-002
-
-
-*    *   Entsperrung eines Bordgeräts
-
-    *   P1-BL-001-003
-
-
-*    *   Entsperrung mehrerer Bordgeräte
-
-    *   P1-BL-001-004
-
-
-*    *   P1-003
-
-    *   Verwalten der Whitelist (SST 002a)
-
-    *
-
-*    *
-    *   Neuanlage eines Nutzers mit einem Fahrzeug
-
-    *   P1-WL-002a-001
-
-
-*    *   Neuanlage mehrerer Nutzer mit mehreren Fahrzeugen
-
-    *   P1-WL-002a-002
-
-
-*    *   Abmelden eines Fahrzeugs
-
-    *   P1-WL-002a-003
-
-
-*    *   Neues Bordgerät für ein bestehendes Fahrzeug
-
-    *   P1-WL-002a-004
-
-
-*    *   P1-004
-
-    *   Verwalten der Nutzeradress- und Fahrzeugdaten (SST 002b)
-
-    *
-
-*    *
-    *   Abfrage von Adressdaten zu einer User-ID
-
-    *   P1-UDA-002b-001
-
-
-*    *   Abfrage von Fahrzeugdaten zu einer User-ID
-
-    *   P1-UDA-002b-002
-
-
-*    *   Verschiedene Abfragen zu mehreren User-IDs
-
-    *   P1-UDA-002b-003
-
-
-*    *   Abfrage nach Änderung der Fahrzeugdaten
-
-    *   P1-UDA-002b-004
-
-
-*    *   P1-005
-
-    *   Verwalten der Fahrzeugliste von EETS-Nutzern (SST 002c)
-
-    *
-
-*    *
-    *   Abfrage des mautpflichtigen Fahrzeugbestands zu einer User-ID
-
-    *   P1-FBH-002c-001
-
-
-*    *   Abfrage des mautpflichtigen Fahrzeugbestands zu mehreren User-IDs
-
-    *   P1-FBH-002c-002
-
-
-*    *   P1-006
-
-    *   Übertragung und Verwendung der Mautbasisdaten (SST 003)
-
-    *
-
-*    *
-    *   Übertragung von Mautbasisdaten vom Mauterheber zum EETS-Anbieter
-
-    *   P1-MBD-003-001
-
-
-*    *   Erhebung mit erhöhten Mautbeträgen nach Update der Mautbasisdaten
-
-    *   P1-AED-006-007
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit erhöhten Mautbeträgen nach
-        Update
-
-    *   P1-MBN-007-007
-
-
-*    *   Erhebung mit Orts- und Zeitklassen nach Update der Mautbasisdaten
-
-    *   P1-AED-006-008
-
-
-*    *   Mautbuchungsnachweise für eine Fahrt mit verschiedenen Orts- und
-        Zeitklassen
-
-    *   P1-MBN-007-008
-
-
-*    *   P1-007
-
-    *   Austausch von sicherheitsrelevanten Objekten (SST 004)
-
-    *
-
-*    *
-    *   Übertragung von Transportschlüsseln vom Mauterheber zum EETS-Anbieter
-
-    *   P1-TRO-004-001
-
-
-*    *   Übertragung von Transportschlüsseln vom EETS-Anbieter zum Mauterheber
-
-    *   P1-TRO-004-002
-
-
-*    *   Übertragung von Zertifikaten vom Mauterheber zum EETS-Anbieter
-
-    *   P1-TRO-004-003
-
-
-*    *   Übertragung von Zertifikaten vom EETS-Anbieter zum Mauterheber
-
-    *   P1-TRO-004-004
-
-
-*    *   Übertragung von Masterkeys vom EETS-Anbieter zum Mauterheber
-
-    *   P1-TRO-004-005
-
-
-*    *   P1-008
-
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten (SST 006)
-
-    *
-
-*    *
-    *   Erhebung bei einer Fahrt mit einer Ein- und einer Ausfahrt
-
-    *   P1-AED-006-001
-
-
-*    *   Erhebung bei einer Fahrt mit einer Ein-, einer Durch- und einer
-        Ausfahrt
-
-    *   P1-AED-006-002
-
-
-*    *   Erhebung bei einer Fahrt mit zwei Ein- und Ausfahrten und einer
-        Durchfahrt
-
-    *   P1-AED-006-003
-
-
-*    *   Erhebung mit Änderung der Achsklasse
-
-    *   P1-AED-006-004
-
-
-*    *   Erhebung mit Änderung der Gewichtsklasse und Änderung der Mautpflicht
-
-    *   P1-AED-006-005
-
-
-*    *   Erhebung und Sperrung eines Bordgeräts
-
-    *   P1-AED-006-006
-
-
-*    *   Erhebung mit erhöhten Mautbeträgen nach Update der Mautbasisdaten
-
-    *   P1-AED-006-007
-
-
-*    *   Erhebung mit Orts- und Zeitklassen nach Update der Mautbasisdaten
-
-    *   P1-AED-006-008
-
-
-*    *   Erhebung mit Änderung der Gewichtsklasse nach Einführung einer neuen
-        Gewichtsklasse
-
-    *   P1-AED-006-009
-
-
-*    *   P1-009
-
-    *   Erzeugung von Mautbuchungsnachweisen (SST 007)
-
-    *
-
-*    *
-    *   Mautbuchungsnachweis für eine Fahrt mit einer Ein- und einer Ausfahrt
-
-    *   P1-MBN-007-001
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit einer Ein-, einer Durch- und
-        einer Ausfahrt
-
-    *   P1-MBN-007-002
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit zwei Ein- und Ausfahrten und
-        einer Durchfahrt
-
-    *   P1-MBN-007-003
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit Änderung der Achsklasse
-
-    *   P1-MBN-007-004
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit Änderung der Gewichtsklasse
-        und Änderung der Mautpflicht
-
-    *   P1-MBN-007-005
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit Sperrung eines Bordgeräts
-
-    *   P1-MBN-007-006
-
-
-*    *   Mautbuchungsnachweis für eine Fahrt mit erhöhten Mautbeträgen nach
-        Update der Mautbasisdaten
-
-    *   P1-MBN-007-007
-
-
-*    *   Mautbuchungsnachweise für eine Fahrt mit verschiedenen Orts- und
-        Zeitklassen
-
-    *   P1-MBN-007-008
-
-
-*    *   Mautbuchungsnachweise für zwei Fahrten mit Änderung der Gewichtsklasse
-
-    *   P1-MBN-007-009
-
-
-*    *   P1-010
-
-    *   Erzeugung von Tagesberichten (SST 008)
-
-    *
-
-*    *
-    *   Tagesberichte für die durchgeführten Fahrten
-
-    *   P1-TB-008-001
-
-
-*    *   P1-011
-
-    *   Abfrage des technischen Zustands eines Bordgeräts (SST 016)
-
-    *
-
-*    *
-    *   Anfrage zum technischen Zustand eines Bordgeräts durch den Mauterheber
-
-    *   P1-TZB-016-001
-
-
-*    *   P1-012
-
-    *   Kontrolle (DSRC SST 301)
-
-    *
-
-*    *
-    *   Portable Kontrolle
-
-    *   P1-KON-301-001
-
-
-*    *   Manuelle Kontrolle
-
-    *   P1-KON-301-002
-
-
-*    *   Automatische Kontrolle
-
-    *   P1-KON-301-003
-
-
-*    *   Kontrollsäule
-
-    *   P1-KON-301-004
-
-
-*    *   Kontrolle vor und nach Änderung der Achsklasse
-
-    *   P1-KON-301-005
-
-
-*    *   Kontrolle vor und nach Änderung der Gewichtsklasse
-
-    *   P1-KON-301-006
-
-
-*    *   Kontrolle vor und nach Sperrung des Bordgeräts
-
-    *   P1-KON-301-007
-
-
-
-
-Tabelle 3: Übersicht Prüffallvorgaben
-
-Anmerkungen zu Tabelle 3:
-
-–   Die korrekte und vollständige Kommunikation des EETS-Anbieters über
-    die Schnittstelle SST 301 wird nicht in separaten Prüffallvorgaben
-    beschrieben, sondern erfolgt im Rahmen der Kontrolle der DSRC-Daten in
-    Verbindung mit der Konformitätserklärung.
-
-
-
-
-## **4 Vorgehensweise bei der Durchführung der Prüffallvorgaben**
-
-Die vorgegebenen Prüffallvorgaben werden durch den EETS-Anbieter
-konkretisiert und im Rahmen der Erstellung des Prüfprogramms in seiner
-Prüfspezifikation in Prüffälle umgesetzt. Der EETS-Anbieter kann
-mehrere Prüffallvorgaben in einem Prüffall zusammenfassen. Die
-Durchführungsreihenfolge der Prüffallvorgaben ist initial in Tabelle 5
-festgelegt.
-
-*    *   Lfd. Nr.
-
-    *   ID
-
-    *   Bezeichnung
-
-
-*    *   1
-
-    *   P1-TRO-004-001
-
-    *   Übertragung von Transportschlüsseln vom Mauterheber zum EETS-Anbieter
-
-
-*    *   2
-
-    *   P1-TRO-004-002
-
-    *   Übertragung von Transportschlüsseln vom EETS-Anbieter zum Mauterheber
-
-
-*    *   3
-
-    *   P1-TRO-004-003
-
-    *   Übertragung von Zertifikaten vom Mauterheber zum EETS-Anbieter
-
-
-*    *   4
-
-    *   P1-TRO-004-004
-
-    *   Übertragung von Zertifikaten vom EETS-Anbieter zum Mauterheber
-
-
-*    *   5
-
-    *   P1-TRO-004-005
-
-    *   Übertragung von Masterkeys vom EETS-Anbieter zum Mauterheber
-
-
-*    *   6
-
-    *   P1-MBD-003-001
-
-    *   Übertragung von Mautbasisdaten vom Mauterheber zum EETS-Anbieter
-
-
-*    *   7
-
-    *   P1-SST-001-001
-
-    *   Übertragung einer leeren EETS-Blacklist
-
-
-*    *   8
-
-    *   P1-SST-002a-001
-
-    *   Übertragung einer leeren EETS-Whitelist
-
-
-*    *   9
-
-    *   P1-SST-008-001
-
-    *   Übertragung eines Tagesberichts ohne Auskehr
-
-
-*    *   10
-
-    *   P1-WL-002a-001
-
-    *   Neuanlage eines Nutzers mit einem Fahrzeug
-
-
-*    *   11
-
-    *   P1-WL-002a-002
-
-    *   Neuanlage mehrerer Nutzer mit mehreren Fahrzeugen
-
-
-*    *   12
-
-    *   P1-WL-002a-003
-
-    *   Abmelden eines Fahrzeugs
-
-
-*    *   13
-
-    *   P1-WL-002a-004
-
-    *   Neues Bordgerät für ein bestehendes Fahrzeug
-
-
-*    *   14
-
-    *   P1-UDA-002b-001
-
-    *   Abfragen von Adressdaten zu einer User-ID
-
-
-*    *   15
-
-    *   P1-UDA-002b-002
-
-    *   Abfragen von Fahrzeugdaten zu einer User-ID
-
-
-*    *   16
-
-    *   P1-UDA-002b-003
-
-    *   Verschiedene Abfragen zu mehreren User-IDs
-
-
-*    *   17
-
-    *   P1-UDA-002b-004
-
-    *   Abfrage nach Änderung der Fahrzeugdaten
-
-
-*    *   18
-
-    *   P1-FBH-002c-001
-
-    *   Abfrage des mautpflichtigen Fahrzeugbestands zu einer User-ID
-
-
-*    *   19
-
-    *   P1-FBH-002c-002
-
-    *   Abfrage des mautpflichtigen Fahrzeugbestands zu mehreren User-IDs
-
-
-*    *   20
-
-    *   P1-BL-001-001
-
-    *   Sperrung eines Bordgeräts
-
-
-*    *   21
-
-    *   P1-BL-001-002
-
-    *   Sperrung mehrerer Bordgeräte
-
-
-*    *   22
-
-    *   P1-BL-001-003
-
-    *   Entsperrung eines Bordgeräts
-
-
-*    *   23
-
-    *   P1-BL-001-004
-
-    *   Entsperrung mehrerer Bordgeräte
-
-
-*    *   24
-
-    *   P1-AED-006-001
-
-    *   Erhebung bei einer Fahrt mit einer Ein- und einer Ausfahrt
-
-
-*    *   25
-
-    *   P1-MBN-007-001
-
-    *   Mautbuchungsnachweis für eine Fahrt mit einer Ein- und einer Ausfahrt
-
-
-*    *   26
-
-    *   P1-AED-006-002
-
-    *   Erhebung bei einer Fahrt mit einer Ein-, einer Durch- und einer
-        Ausfahrt
-
-
-*    *   27
-
-    *   P1-MBN-007-002
-
-    *   Mautbuchungsnachweis für eine Fahrt mit einer Ein-, einer Durch- und
-        einer Ausfahrt
-
-
-*    *   28
-
-    *   P1-AED-006-003
-
-    *   Erhebung bei einer Fahrt mit zwei Ein- und Ausfahrten und einer
-        Durchfahrt
-
-
-*    *   29
-
-    *   P1-MBN-007-003
-
-    *   Mautbuchungsnachweis für eine Fahrt mit zwei Ein- und Ausfahrten und
-        einer Durchfahrt
-
-
-*    *   30
-
-    *   P1-AED-006-004
-
-    *   Erhebung mit Änderung der Achsklasse
-
-
-*    *   31
-
-    *   P1-MBN-007-004
-
-    *   Mautbuchungsnachweis für eine Fahrt mit Änderung der Achsklasse
-
-
-*    *   32
-
-    *   P1-AED-006-005
-
-    *   Erhebung mit Änderung der Gewichtsklasse und Änderung der Mautpflicht
-
-
-*    *   33
-
-    *   P1-MBN-007-005
-
-    *   Mautbuchungsnachweis für eine Fahrt mit Änderung der Gewichtsklasse
-        und Änderung der Mautpflicht
-
-
-*    *   34
-
-    *   P1-AED-006-006
-
-    *   Erhebung und Sperrung eines Bordgeräts
-
-
-*    *   35
-
-    *   P1-MBN-007-006
-
-    *   Mautbuchungsnachweis für eine Fahrt mit Sperrung eines Bordgeräts
-
-
-*    *   36
-
-    *   P1-AED-006-007
-
-    *   Erhebung mit erhöhten Mautbeträgen nach Update der Mautbasisdaten
-
-
-*    *   37
-
-    *   P1-MBN-007-007
-
-    *   Mautbuchungsnachweis für eine Fahrt mit erhöhten Mautbeträgen nach
-        Update der Mautbasisdaten
-
-
-*    *   38
-
-    *   P1-AED-006-008
-
-    *   Erhebung mit Orts- und Zeitklassen nach Update der Mautbasisdaten
-
-
-*    *   39
-
-    *   P1-AED-006-009
-
-    *   Erhebung mit Änderung der Gewichtsklasse nach Einführung einer neuen
-        Gewichtsklasse
-
-
-*    *   40
-
-    *   P1-MBN-007-008
-
-    *   Mautbuchungsnachweise für Fahrten mit verschiedenen Orts- und
-        Zeitklassen
-
-
-*    *   41
-
-    *   P1-MBN-007-009
-
-    *   Mautbuchungsnachweise für zwei Fahrten mit Änderung der Gewichtsklasse
-
-
-*    *   42
-
-    *   P1-TB-008-001
-
-    *   Tagesberichte
-
-
-*    *   43
-
-    *   P1-TZB-016-001
-
-    *   Abfrage zum technischen Zustand eines Bordgeräts durch den Mauterheber
-
-
-*    *   44
-
-    *   P1-KON-301-001
-
-    *   Portable Kontrolle
-
-
-*    *   45
-
-    *   P1-KON-301-002
-
-    *   Manuelle Kontrolle
-
-
-*    *   46
-
-    *   P1-KON-301-003
-
-    *   Automatische Kontrolle
-
-
-*    *   47
-
-    *   P1-KON-301-004
-
-    *   Kontrollsäule
-
-
-*    *   48
-
-    *   P1-KON-301-005
-
-    *   Kontrolle vor und nach Änderung der Achsklasse
-
-
-*    *   49
-
-    *   P1-KON-301-006
-
-    *   Kontrolle vor und nach Änderung der Gewichtsklasse
-
-
-*    *   50
-
-    *   P1-KON-301-007
-
-    *   Kontrolle vor und nach Sperrung des Bordgeräts
-
-
-*    *   51
-
-    *   P1-SST-00X-001
-
-    *   Kommunikationsablauf gemäß Schnittstellenspezifikationen
-
-
-*    *   52
-
-    *   P1-SST-00X-002
-
-    *   Kommunikationsablauf bei Nichtverfügbarkeit
-
-
-
-
-Tabelle 5 Initiale Durchführungsreihenfolge der Prüffallvorgaben
-
-Folgende Randbedingungen sind zu berücksichtigen:
-
-–   Die im Rahmen der Durchführung eines Prüffalls erzeugten Ergebnisdaten
-    können prinzipiell zur Auswertung mehrerer Prüffallvorgaben
-    herangezogen werden.
-
-
-–   In den Prüffallvorgaben zu SST 006 und SST 007 werden identische
-    Fahrszenarien verwendet. Somit muss ein Fahrszenario nur einmal
-    durchgeführt werden und die hierbei erzeugten abschnittsbezogenen
-    Erhebungsdaten und Mautbuchungsnachweise können zum Nachweis der
-    jeweiligen Prüffallvorgabe der Schnittstellen SST 006 und SST 007
-    verwendet werden.
-
-
-–   Die vorgegebenen Stammdaten dürfen nur gemäß der Beschreibung in den
-    Prüffallvorgaben geändert werden. Insbesondere dürfen sie nicht durch
-    Testdaten, die nicht im Rahmen der Durchführung der Prüffallvorgaben
-    erzeugt werden, verändert werden.
-
-
-
-
-
-## **5 Prüffallvorgaben zu technischen Schnittstellentests**
-
-Prüffallvorgabe: Übertragung einer leeren EETS-Blacklist
-
-*    *   ID:
-
-    *   P1-SST-001-001
-
-
-*    *   Beschreibung:
-
-    *   Das Teilsystem des EETS-Anbieters sendet die EETS-Blacklist via
-        BlacklistProService ohne Einträge (leere Blacklist) an die
-        Testumgebung.
-        Diese Nachricht wird seitens der Testumgebung bestätigt.
-        Nach der asynchronen Verarbeitung quittiert die Testumgebung die Daten
-        mit einem AckADU via AckService.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekter und vollständiger Kommunikationsablauf gemäß
-        Schnittstellenspezifikation
-        Sind keine Bordgeräte gesperrt, so wird trotzdem eine Blacklist via
-        BlacklistProService übermittelt.
-
-
-*    *   Vorbedingungen:
-
-    *   Aktuell sind keine Bordgeräte im Teilsystem des EETS-Anbieters
-        gesperrt (die Blacklist ist leer).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekte Verwendung folgender Nachricht:
-
-        –   Nachricht sendApdu vom EETS-Anbieter über BlacklistProService (SST001)
-            ohne Einträge
-
-
-        –   Annahmebestätigung der Nachricht durch die Antwort-Nachricht
-            sendApduResponse vom BAG über BlacklistProService (SST001) ohne Apdu-
-            Element
-
-
-        –   Bestätigung der fachlichen Korrektheit dieser Nachricht durch die
-            Nachricht sendApdu vom BAG über AckService (SST099) ohne Fehler
-            (Issues)
-
-
-        –   Antwort-Nachricht sendApduResponse vom EETS-Anbieter über AckService
-            (SST099) ohne Apdu-Element
-
-
-
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Senden einer leeren Blacklist)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 4 Prüffallvorgabe: Übertragung einer leeren EETS-Blacklist
-
-Prüffallvorgabe: Übertragung einer leeren EETS-Whitelist
-
-*    *   ID:
-
-    *   P1-SST-002a-001
-
-
-*    *   Beschreibung:
-
-    *   Das Teilsystem des EETS-Anbieters sendet die EETS-Whitelist via
-        WhitelistProService ohne Einträge (leere Whitelist) zur Testumgebung.
-        Die Nachricht wird seitens der Testumgebung bestätigt.
-        Nach der asynchronen Verarbeitung quittiert die Testumgebung die Daten
-        mit einem AckADU via AckService.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekter und vollständiger Kommunikationsablauf gemäß
-        Schnittstellenspezifikation
-        Liegen keine Nutzer, Fahrzeuge, Bordgeräte im Teilsystem des EETS-
-        Anbieters vor, so wird trotzdem eine Whitelist via WhitelistProService
-        übermittelt.
-
-
-*    *   Vorbedingungen:
-
-    *   Im Teilsystem des EETS-Anbieters sind keine Nutzer, Fahrzeuge,
-        Bordgeräte angelegt.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekte Verwendung folgender Nachrichten:
-
-        –   Nachricht sendApdu vom EETS-Anbieter über WhitelistProService
-            (SST002a) ohne Einträge
-
-
-        –   Annahmebestätigung der Nachricht durch die Antwort-Nachricht
-            sendApduResponse vom BAG über WhitelistProService (SST002a) ohne Apdu-
-            Element
-
-
-        –   Bestätigung der fachlichen Korrektheit dieser Nachricht durch die
-            Nachricht sendApdu vom BAG über AckService (SST099) ohne Fehler
-            (Issues)
-
-
-        –   Antwort-Nachricht sendApduResponse vom EETS-Anbieter über AckService
-            (SST099) ohne Apdu-Element
-
-
-
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Senden einer leeren Whitelist)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 5 Prüffallvorgabe: Erfolgreiche Übertragung einer leeren EETS-
-Whitelist
-
-Prüffallvorgabe: Übertragung eines Tagesberichts ohne Auskehr
-
-*    *   ID:
-
-    *   P1-SST-008-001
-
-
-*    *   Beschreibung:
-
-    *   Das Teilsystem des EETS-Anbieters sendet im Rahmen der täglichen
-        Übertragung die PaymentAnnouncementADUs ohne Auskehrinformation via
-        TagesberichtProService zur Testumgebung.
-        Die Nachricht wird seitens der Testumgebung bestätigt.
-        Nach der asynchronen Verarbeitung quittiert die Testumgebung die Daten
-        mit einem AckADU via AckService.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekter und vollständiger Kommunikationsablauf gemäß
-        Schnittstellenspezifikation
-        Liegen keine Auskehrinformationen zu einem Stichtag vor, so werden
-        trotzdem PaymentAnnouncementADUs via TagesberichtProService
-        übermittelt.
-
-
-*    *   Vorbedingungen:
-
-    *   Es liegen im Teilsystem des EETS-Anbieters keine Auskehrinformationen
-        für den Tagesbericht zum betreffenden Stichtag vor.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekte Verwendung folgender Nachrichten:
-
-        –   Nachricht sendApdu vom EETS-Anbieter über TagesberichtProService
-            (SST008) ohne Auskehr
-
-
-        –   Annahmebestätigung der Nachricht durch die Antwort-Nachricht
-            sendApduResponse vom BAG über TagesberichtProService (SST008) ohne
-            Apdu-Element
-
-
-        –   Bestätigung der fachlichen Korrektheit dieser Nachricht durch die
-            Nachricht sendApdu vom BAG über AckService (SST099) ohne Fehler
-            (Issues)
-
-
-        –   Antwort-Nachricht sendApduResponse vom EETS-Anbieter über AckService
-            (SST099) ohne Apdu-Element
-
-
-
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Senden einer Nachricht ohne Auskehr)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 6 Prüffallvorgabe: Erfolgreiche Übertragung eines
-Tagesberichts ohne Auskehr
-
-Prüffallvorgabe: Kommunikationsablauf gemäß
-Schnittstellenspezifikationen
-
-*    *   ID:
-
-    *   P1-SST-00X-001
-
-
-*    *   Beschreibung:
-
-    *   Das Teilsystem des EETS-Anbieters tauscht im Rahmen der Durchführung
-        der Prüffallvorgaben
-
-        –   P1-BL-001-001
-
-
-        –   P1-WL-002a-001
-
-
-        –   P1-UDA-002b-001
-
-
-        –   P1-FBH-002c-001
-
-
-        –   P1-AED-006-002
-
-
-        –   P1-MBN-007-002
-
-
-        –   P1-TB-008-001
-
-
-
-        Nachrichten mit der Testumgebung gemäß der Spezifikation der Web-
-        Schnittstelle zum EETS-Anbieter aus.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekter und vollständiger Kommunikationsablauf je Schnittstelle
-        gemäß Schnittstellenspezifikationen anhand der oben genannten
-        Prüffallvorgaben
-
-
-*    *   Vorbedingungen:
-
-    *   Die oben genannten Prüffallvorgaben sind bereits durchgeführt und
-        erfolgreich bestanden.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   An den Schnittstellen SST001, SST002a, SST006, SST007, SST008 wird
-        jeweils folgende Nachrichtensequenz ausgetauscht:
-
-        –   Nachricht sendApdu vom EETS-Anbieter über den entsprechenden Web-
-            Service
-
-
-        –   Annahmebestätigung der Nachricht durch die Antwort-Nachricht
-            sendApduResponse vom BAG über den entsprechenden Web-Service ohne
-            Apdu-Element
-
-
-        –   Bestätigung der fachlichen Korrektheit dieser Nachricht durch die
-            Nachricht sendApdu vom BAG über AckService (SST099) ohne Fehler
-            (Issues)
-
-
-        –   Antwort-Nachricht sendApduResponse vom EETS-Anbieter über AckService
-            (SST099) ohne Apdu-Element
-
-
-
-        An den Schnittstellen SST002b und SST002c wird jeweils folgende
-        Nachrichtensequenz ausgetauscht:
-
-        –   Anfrage-Nachricht sendApdu vom BAG über den entsprechenden Web-Service
-            mit RequestADUs
-
-
-        –   Antwort-Nachricht sendApduResponse vom EETS-Anbieter über den
-            entsprechenden Web-Service ohne Apdu-Element
-
-
-        –   Nachricht sendApdu vom EETS-Anbieter über den entsprechenden Web-
-            Service mit angefragten Daten
-
-
-        –   Antwort-Nachricht sendApduResponse vom BAG mit AckADUs ohne Fehler
-            bzw. Warnungen
-
-
-
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Nachrichtenaustausch hat bereits in den oben genannten
-        Prüffallvorgaben stattgefunden)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 7 Prüffallvorgabe: Kommunikationsablauf gemäß
-Schnittstellenspezifikationen
-
-Prüffallvorgaben: Kommunikationsablauf bei Nichtverfügbarkeit
-
-*    *   ID:
-
-    *   P1-SST-00X-002
-
-
-*    *   Beschreibung:
-
-    *   Das Teilsystem des EETS-Anbieters tauscht im Rahmen der Durchführung
-        der Prüffallvorgaben
-
-        –   P1-WL-002a-002
-
-
-        –   P1-BL-001-002
-
-
-        –   P1-AED-006-003
-
-
-        –   P1-MBN-007-003
-
-
-        –   P1-TB-008-001
-
-
-
-        Nachrichten mit der Testumgebung gemäß der Spezifikation der Web-
-        Schnittstelle zum EETS-Anbieter aus. Zum Zeitpunkt der erwarteten
-        Datenübertragung durch den EETS-Anbieter ist der Web-Server der
-        Testumgebung vorübergehend nicht erreichbar, sodass das Teilsystem des
-        EETS-Anbieters die Datenübertragung wiederholt (Retries).
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte Wiederholung der Datenübertragung und erfolgreiche
-        Datenübertragung gemäß Spezifikation der Web-Schnittstellen zum EETS-
-        Anbieter
-
-
-*    *   Vorbedingungen:
-
-    *   Der Web-Server der Testumgebung ist während der Durchführung der oben
-        genannten Prüffallvorgaben vorübergehend nicht erreichbar.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Alle Nachrichten wurden erfolgreich (nach Wiederverfügbarkeit des Web-
-        Servers) vom EETS-Anbieter übertragen. Der EETS-Anbieter wiederholt
-        die nicht erfolgreiche Nachrichtenübertragung mit identischer
-        Nachrichten-ID.
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Nachrichtenaustausch hat bereits in den oben genannten
-        Prüffallvorgaben stattgefunden)
-
-
-*    *   Bemerkungen:
-
-    *   Die Durchführung der oben genannten Prüffallvorgaben muss zur
-        Herstellung der Vorbedingung in enger Abstimmung mit dem Mauterheber
-        erfolgen.
-
-
-
-
-Tabelle 8 Prüffallvorgabe: Kommunikationsablauf bei Nichtverfügbarkeit
-
-
-## **6 Prüffallvorgaben zu fachlichen Tests**
-
-6\.1 Whitelist
-
-Prüffallvorgabe: Neuanlage eines Nutzers mit einem Fahrzeug
-
-*    *   ID:
-
-    *   P1-WL-002a-001
-
-
-*    *   Beschreibung:
-
-    *   Ein neuer Nutzer meldet ein mautpflichtiges Fahrzeug beim EETS-
-        Anbieter an. Das Fahrzeug erhält ein Fahrzeuggerät des EETS-Anbieters.
-        Die entsprechenden Daten werden im System des EETS-Anbieters angelegt.
-        Der EETS-Anbieter sendet bei seiner täglichen Übertragung der
-        Whitelist die neuen Daten an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung aller im System des EETS-
-        Anbieters angelegten User-IDs
-
-
-*    *   Vorbedingungen:
-
-    *   keine
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die neu angelegten Nutzer- und Fahrzeug-IDs liegen zeitgerecht und
-        korrekt in der Testumgebung des Mauterhebers vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters werden die Stammdaten für einen neuen
-        Nutzer NZ\_01, dem Fahrzeug FZ\_01 und dazugehörigem Bordgerät BG\_01
-        mit den im Kapitel 7 beschriebenen Inhalten neu angelegt.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Anlegen der Stammdaten und Versenden der Whitelist)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 9 Prüffallvorgabe: Neuanlage eines Nutzers mit einem Fahrzeug
-
-Prüffallvorgabe: Neuanlage mehrerer Nutzer mit mehreren Fahrzeugen
-
-*    *   ID:
-
-    *   P1-WL-002a-002
-
-
-*    *   Beschreibung:
-
-    *   Im System des EETS-Anbieters werden sieben neue Nutzer und 13
-        mautpflichtige Fahrzeuge mit neuen Bordgeräten angelegt. Den einzelnen
-        Nutzern sind dabei bis zu drei Fahrzeuge zugeordnet. Falls der EETS-
-        Anbieter gleichzeitig Bordgeräte verschiedener Hersteller oder
-        unterschiedliche Varianten beziehungsweise Versionen eines Bordgeräts
-        verwendet, sind diese hier einzusetzen.
-        Der EETS-Anbieter sendet bei seiner täglichen Übertragung der
-        Whitelist die neuen Daten an die Testumgebung. Im System bereits
-        angelegte Datensätze werden dabei im Rahmen der Komplettübertragung
-        ebenfalls mit übertragen.
-        Während der Übertragung ist der Web-Server der Testumgebung
-        vorübergehend nicht verfügbar. Eine erfolgreiche Übertragung der Daten
-        erfolgt nach Wiedererreichbarkeit des Web-Servers.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung aller im System des EETS-
-        Anbieters angelegten User-IDs
-
-
-*    *   Vorbedingungen:
-
-    *   Der Nutzer NZ\_01 mit dem Fahrzeug FZ\_01 und dem dazugehörigen
-        Bordgerät BG\_01 wurden bereits im Teilsystem des EETS-Anbieters
-        angelegt und per Whitelist mindestens einmal an die Testumgebung
-        übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Nutzer- und Fahrzeug-IDs der sieben neuen Nutzer und der
-        13 Fahrzeuge liegen zeitgerecht und vollständig in der Testumgebung
-        vor. Die im System des EETS-Anbieters bereits vorher angelegten
-        Datensätze werden im Rahmen der Komplettübertragung ebenfalls mit
-        übertragen.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters werden die Stammdaten für die sieben
-        neuen Nutzer NZ\_02 – NZ\_08, den 13 Fahrzeugen FZ\_02 – FZ\_14 und
-        den dazugehörigen Bordgeräten BG\_02 – BG\_14 mit den im Kapitel 7
-        beschriebenen Inhalten neu angelegt.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Anlegen der Stammdaten und Versenden der Whitelist).
-        Mauterheber (vorübergehende Nichtverfügbarkeit des Web-Servers
-        herstellen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 10 Prüffallvorgabe: Neuanlage mehrerer Nutzer mit mehreren
-Fahrzeugen
-
-Prüffallvorgabe: Abmelden eines Fahrzeugs
-
-*    *   ID:
-
-    *   P1-WL-002a-003
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter meldet ein Fahrzeug mit zugehörigem Bordgerät in
-        seinem System ab.
-        Das Teilsystem des EETS-Anbieters sendet bei seiner täglichen
-        Übertragung der Whitelist den betreffenden Datensatz nicht mehr an die
-        Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung der geänderten Whitelist
-
-
-*    *   Vorbedingungen:
-
-    *   Der Nutzer NZ\_08 mit dem Fahrzeug FZ\_13 und dem dazugehörigem
-        Bordgerät BG\_13 wurden bereits im Teilsystem des EETS-Anbieters
-        angelegt und per Whitelist mindestens einmal an die Testumgebung
-        übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der Datensatz mit dem abgemeldeten Fahrzeug wird nicht mehr mit der
-        Whitelist an die Testumgebung übertragen.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird das Fahrzeug FZ\_13 abgemeldet.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Abmelden des Fahrzeugs).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 11 Prüffallvorgabe: Abmelden eines Fahrzeugs
-
-Prüffallvorgabe: Neues Bordgerät für ein bestehendes Fahrzeug
-
-*    *   ID:
-
-    *   P1-WL-002a-004
-
-
-*    *   Beschreibung:
-
-    *   In einem Fahrzeug muss ein defektes Bordgerät ausgetauscht werden.
-        Der EETS-Anbieter löscht das defekte Bordgerät in seinem System und
-        trägt das neue Bordgerät für das bestehende Fahrzeug ein. Die PAN wird
-        dabei übernommen.
-        Der EETS-Anbieter sendet bei seiner täglichen Übertragung der
-        Whitelist die Änderung an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung der geänderten Whitelist
-
-
-*    *   Vorbedingungen:
-
-    *   Im Teilsystem des EETS-Anbieters ist das FZ\_14 mit mit NZ\_08 und
-        BG\_14 konfiguriert und wurde mit der Whitelist bereits an die
-        Testumgebung übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die geänderten Daten liegen zeitgerecht und vollständig in der
-        Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird bei Fahrzeug FZ\_14 das
-        bestehende Bordgerät BG\_14 durch BG\_15 ersetzt.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Ändern der Bordgeräte-ID in den Stammdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 12 Prüffallvorgabe: Neues Bordgerät für ein bestehendes
-Fahrzeug
-
-6\.2 Blacklist
-
-Prüffallvorgabe: Sperrung eines Bordgeräts
-
-*    *   ID:
-
-    *   P1-BL-001-001
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter setzt ein Bordgerät in seinem Teilsystem auf die
-        EETS-Blacklist.
-        Das Teilsystem des EETS-Anbieters übermittelt die EETS-Blacklist mit
-        Informationen zum gesperrten Bordgerät an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte Sperrung des Bordgeräts
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_06 ist für das Fahrzeug FZ\_06
-        konfiguriert und aktuell nicht gesperrt.
-        Es befindet sich auf der Whitelist und ist in der Testumgebung bekannt
-        (Übertragung über
-        SST 002a                        hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die Sperrung des Bordgeräts wurde durchgeführt und nur dieses
-        Bordgerät befindet sich auf der Blacklist.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird das Bordgerät BG\_06 auf die
-        EETS-Blacklist gesetzt. Ein Sperrgrund ist anzugeben.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Setzen des Bordgeräts auf die Blacklist).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 13 Prüffallvorgabe: Sperrung eines Bordgeräts
-
-Prüffallvorgabe: Sperrung mehrerer Bordgeräte
-
-*    *   ID:
-
-    *   P1-BL-001-002
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter setzt 4 Bordgeräte in seinem Teilsystem auf die
-        EETS-Blacklist.
-        Das Teilsystem des EETS-Anbieters übermittelt die EETS-Blacklist mit
-        Informationen zu den gesperrten Bordgeräten an die Testumgebung.
-        Während der Übertragung ist der Web-Server der Testumgebung
-        vorübergehend nicht verfügbar. Eine erfolgreiche Übertragung der Daten
-        erfolgt nach Wiedererreichbarkeit des Web-Servers.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte Sperrung der Bordgeräte
-
-
-*    *   Vorbedingungen:
-
-    *   Die verwendeten Bordgeräte, BG\_07, BG\_08, BG\_09 und BG\_11 sind
-        aktuell nicht gesperrt. (Das Bordgerät BG\_06 ist bereits gesperrt,
-        siehe Prüffallvorgabe P1-BL-001-001).
-        Die Bordgeräte befinden sich auf der Whitelist und sind in der
-        Testumgebung bekannt (Übertragung über SST 002a hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die Sperrung der entsprechenden Bordgeräte wurde durchgeführt und
-        diese sind in der übermittelten Blacklist vollständig und korrekt
-        enthalten.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters werden die Bordgeräte BG\_07, BG\_08,
-        BG\_09 und BG\_11 auf die EETS-Blacklist gesetzt. Die Sperrgründe sind
-        anzugeben.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Setzen der Bordgeräte auf die Blacklist).
-        Mauterheber (vorübergehende Nichtverfügbarkeit des Web-Servers
-        herstellen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 14 Prüffallvorgabe: Sperrung mehrerer Bordgeräte
-
-Prüffallvorgabe: Entsperrung eines Bordgeräts
-
-*    *   ID:
-
-    *   P1-BL-001-003
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter löscht ein Bordgerät in seinem Teilsystem von der
-        EETS-Blacklist.
-        Das Teilsystem des EETS-Anbieters übermittelt die EETS-Blacklist ohne
-        Information zum entsperrten Bordgerät an die Testumgebung
-        In der Blacklist der Testumgebung wird daraufhin der Datensatz zum
-        betroffenen Bordgerät mit einem Gültigkeitsende versehen.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte Entsperrung des Bordgeräts
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_06 ist aktuell gesperrt.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die Entsperrung des Bordgeräts BG\_06 wurde korrekt durchgeführt und
-        dieses Bordgerät befindet sich nicht mehr auf der übermittelten
-        Blacklist.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird das Bordgerät BG\_06 von der
-        EETS-Blacklist gelöscht.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Entsperren des Bordgeräts).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 15 Prüffallvorgabe: Entsperrung eines Bordgeräts
-
-Prüffallvorgabe: Entsperrung mehrerer Bordgeräte
-
-*    *   ID:
-
-    *   P1-BL-001-004
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter löscht 3 Bordgeräte in seinem Teilsystem von der
-        EETS-Blacklist.
-        Das Teilsystem des EETS-Anbieters übermittelt die EETS-Blacklist ohne
-        Informationen zu den entsperrten Bordgeräten an die Testumgebung.
-        In der Blacklist der Testumgebung werden daraufhin die Datensätze zu
-        den betroffenen Bordgeräten mit einem Gültigkeitsende versehen.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte Entsperrung der Bordgeräte
-
-
-*    *   Vorbedingungen:
-
-    *   Die verwendeten Bordgeräte BG\_07, BG\_08, BG\_09 und BG\_11 sind
-        aktuell gesperrt.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die Entsperrung der Bordgeräte wurde vollständig und korrekt
-        durchgeführt und diese Bordgeräte befinden sich nicht mehr auf der
-        übermittelten Blacklist. Bordgerät BG\_08 befindet sich weiterhin auf
-        der Blacklist.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters werden die Bordgeräte BG\_07, BG\_09
-        und BG\_11 von der EETS-Blacklist gelöscht.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Entsperren der Bordgeräte).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 16 Prüffallvorgabe: Entsperrung mehrerer Bordgeräte
-
-6\.3 User-Details
-
-Prüffallvorgabe: Abfrage von Adressdaten zu einer User-ID
-
-*    *   ID:
-
-    *   P1-UDA-002b-001
-
-
-*    *   Beschreibung:
-
-    *   Der Mauterheber sendet eine Abfrage für die Adressdaten zu einer User-
-        ID.
-        Das Teilsystem des EETS-Anbieters übermittelt dann die gewünschten
-        Adressdaten an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage der
-        Adressdaten
-
-
-*    *   Vorbedingungen:
-
-    *   Zum Nutzer wurde das Fahrzeug FZ\_07 im Teilsystem des EETS-Anbieters
-        angelegt und die User-ID wurde über die Whitelist an die Testumgebung
-        übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Adressdaten des Nutzers für die angefragte User-ID
-        liegen nach Versand durch das Teilsystem des EETS-Anbieters in der
-        Testumgebung vollständig und korrekt vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird die Abfrage zu Adressdaten für
-        den Nutzer von Fahrzeug FZ\_07 bearbeitet und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Abfrage für Adressdaten für den Nutzer von
-        Fahrzeug FZ\_07),
-        EETS-Anbieter (Beantworten der Abfrage).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 17 Prüffallvorgabe: Abfrage von Adressdaten zu einer User-ID
-
-Prüffallvorgabe: Abfrage von Fahrzeugdaten zu einer User-ID
-
-*    *   ID:
-
-    *   P1-UDA-002b-002
-
-
-*    *   Beschreibung:
-
-    *   Der Mauterheber sendet eine Abfrage für die Fahrzeugdaten zu einer
-        User-ID.
-        Das Teilsystem des EETS-Anbieters übermittelt dann die gewünschten
-        Fahrzeugdaten an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage zu
-        Fahrzeugdaten
-
-
-*    *   Vorbedingungen:
-
-    *   Zum Nutzer wurde das Fahrzeug FZ\_08 im Teilsystem des EETS-Anbieters
-        angelegt und die User-ID wurde über die Whitelist an die Testumgebung
-        übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten und vollständigen Fahrzeugdaten des Nutzers für die
-        angefragte User-ID liegen nach Versand durch das Teilsystem des EETS-
-        Anbieters in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird die Abfrage zu den Fahrzeugdaten
-        für FZ\_08 bearbeitet und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Abfrage für die Fahrzeugdaten für das
-        FZ\_08),
-        EETS-Anbieter (Beantworten der Abfrage).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 18 Prüffallvorgabe: Übertragung von Fahrzeugdaten zu einer
-User-ID
-
-Prüffallvorgabe: Verschiedene Abfragen zu mehreren User-IDs
-
-*    *   ID:
-
-    *   P1-UDA-002b-003
-
-
-*    *   Beschreibung:
-
-    *   Der Mauterheber sendet Abfragen für Fahrzeug- und Adressdaten zu
-        verschiedenen User-IDs.
-        Das Teilsystem des EETS-Anbieters übermittelt dann die gewünschten
-        Fahrzeug- und Adressdaten an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage zu
-        Fahrzeug- und Adressdaten
-
-
-*    *   Vorbedingungen:
-
-    *   Zu unterschiedlichen Nutzern wurden die Fahrzeugen FZ\_01 bis FZ\_06,
-        FZ\_10, FZ\_11 und FZ\_12 im Teilsystem des EETS-Anbieters angelegt
-        und die User-IDs wurden über die Whitelist an die Testumgebung
-        übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Fahrzeug- und Adressdaten für die angefragten User-IDs
-        liegen nach Versand durch das Teilsystem des EETS-Anbieters in der
-        Testumgebung vollständig vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird die Abfrage zu den Fahrzeugdaten
-        für die Fahrzeuge FZ\_01 bis FZ\_06, den Fahrzeug- und Adressdaten für
-        die Fahrzeuge FZ\_10, FZ\_11 und FZ\_12 bearbeitet und und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Abfragen für die Fahrzeugdaten der Fahrzeuge
-        FZ\_01 bis FZ\_06, FZ\_10, FZ\_11 und FZ\_12 und die Adressdaten für
-        die Nutzer der Fahrzeuge FZ\_10, FZ\_11 und FZ\_12),
-        EETS-Anbieter (Beantworten der Abfragen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 19 Prüffallvorgabe: Verschiedene Abfragen zu mehreren User-IDs
-
-Prüffallvorgabe: Abfrage nach Änderung der Fahrzeugdaten
-
-*    *   ID:
-
-    *   P1-UDA-002b-004
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Anbieter ändert Fahrzeugdaten in seinem Teilsystem.
-        Der Mauterheber sendet eine Abfrage für die Fahrzeugdaten zu einer
-        User-ID.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage zu
-        Fahrzeugdaten
-
-
-*    *   Vorbedingungen:
-
-    *   Zum Nutzer wurde das Fahrzeug FZ\_12 im Teilsystem des EETS-Anbieters
-        angelegt und die User-ID wurde über die Whitelist an die Testumgebung
-        übertragen. Die Fahrzeugdaten zu diesem Fahrzeug wurden bereits einmal
-        abgefragt.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die geänderten Fahrzeugdaten für die angefragte User-ID liegen nach
-        Versand durch das Teilsystem des EETS-Anbieters in der Testumgebung
-        vollständig und korrekt vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der EETS-Anbieter ändert das Leergewicht auf 7 t und das zulässige
-        Gesamtgewicht auf 13,5 t.
-        Im Teilsystem des EETS-Anbieters wird die Abfrage zu Fahrzeugdaten für
-        den Nutzer von Fahrzeug FZ\_12 bearbeitet und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Abfrage für Fahrzeugdaten von FZ\_12),
-        EETS-Anbieter (Ändern der Fahrzeugdaten und Beantworten der Abfrage).
-
-
-*    *   Bemerkungen:
-
-    *   Ein Vergleich der Daten vorher/nachher ist möglich, da die geänderten
-        Fahrzeugdaten in der Testumgebung Datenbank historisiert werden.
-
-
-
-
-Tabelle 20 Prüffallvorgabe: Abfrage nach Änderung der Fahrzeugdaten
-
-6\.4 User-IDs eines EETS-Nutzers
-
-Prüffallvorgabe: Abfrage des mautpflichtigen Fahrzeugbestands zu einer
-User-ID
-
-*    *   ID:
-
-    *   P1-FBH-002c-001
-
-
-*    *   Beschreibung:
-
-    *   Der Mauterheber stellt eine Abfrage zum Fahrzeugbestand eines Nutzers.
-        Der EETS-Anbieter sendet den Fahrzeugbestand des entsprechenden
-        Nutzers an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage zum
-        Fahrzeugbestand des Nutzers
-
-
-*    *   Vorbedingungen:
-
-    *   Zum Nutzer wurden die Fahrzeuge FZ\_06, FZ\_07 und FZ\_08 im
-        Teilsystem des EETS-Anbieters angelegt und die User-IDs wurden über
-        die Whitelist an die Testumgebung übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der korrekte und vollständige Fahrzeugbestand des Nutzers für die
-        angefragte User-ID liegt nach Versand durch das Teilsystem des EETS-
-        Anbieters in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters wird die Abfrage zum Fahrzeugbestand
-        für den Nutzer NZ\_05 bearbeitet und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Abfrage zum Fahrzeugbestand für den Nutzer
-        von Fahrzeug FZ\_06),
-        EETS-Anbieter (Beantworten der Abfrage).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 21 Prüffallvorgabe: Abfrage des mautpflichtigen
-Fahrzeugbestands zu einer User-ID
-
-Prüffallvorgabe: Abfrage des mautpflichtigen Fahrzeugbestands zu
-mehreren User-IDs
-
-*    *   ID:
-
-    *   P1-FBH-002c-002
-
-
-*    *   Beschreibung:
-
-    *   Der Mauterheber stellt eine Abfrage zum Fahrzeugbestand mehrerer
-        Nutzer.
-        Der EETS-Anbieter sendet den Fahrzeugbestand an die Testumgebung.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und zeitgerechte Beantwortung der Abfrage zum
-        Fahrzeugbestand der Nutzer
-
-
-*    *   Vorbedingungen:
-
-    *   Im Teilsystem des EETS-Anbieters liegen keine unbeantworteten
-        Fahrzeugbestandsabfragen vor.
-        Zu unterschiedlichen Nutzern wurden die Fahrzeuge FZ\_01, FZ\_02,
-        FZ\_04, FZ\_11 und FZ\_12 im Teilsystem des EETS-Anbieters angelegt
-        und bereits mit der Whitelist an die Testumgebung übertragen.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten und vollständigen Fahrzeugbestände für die angefragten
-        User-IDs liegen nach Versand durch das Teilsystem des EETS-Anbieters
-        in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Im Teilsystem des EETS-Anbieters werden die Fahrzeugbestandsabfragen
-        für die Nutzer NZ\_01 und NZ\_02 bearbeitet und und versendet.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Stellen der Fahrzeugbestandsabfragen für die Nutzer der
-        Fahrzeuge FZ\_01 und FZ\_04),
-        EETS-Anbieter (Beantworten der Abfragen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 22 Prüffallvorgabe: Abfrage des mautpflichtigen
-Fahrzeugbestands zu mehreren User-IDs
-
-6\.5 Abschnittsbezogene Erhebungsdaten
-
-Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein- und einer
-Ausfahrt
-
-*    *   ID:
-
-    *   P1-AED-006-001
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein- und einer Ausfahrt ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_01 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_01 und Bordgerät BG\_01
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_01 mit dem Fahrzeug
-        FZ\_01 (kein Anhänger, Bordgerät BG\_01) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 23 Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein-
-und einer Ausfahrt
-
-Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein-, einer Durch-
-und einer Ausfahrt
-
-*    *   ID:
-
-    *   P1-AED-006-002
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein-, einer Durch- und einer Ausfahrt ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_02 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_02 und Bordgerät BG\_02
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_02 mit dem Fahrzeug
-        FZ\_02 (kein Anhänger, Bordgerät BG\_02) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 24 Prüffallvorgabe: Erhebung bei einer Fahrt mit einer Ein-,
-einer Durch- und einer Ausfahrt
-
-Prüffallvorgabe: Erhebung bei einer Fahrt mit zwei Ein- und Ausfahrten
-und einer Durchfahrt
-
-*    *   ID:
-
-    *   P1-AED-006-003
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug mit einem 2-Achs-Anhänger eine
-        definierte Strecke mit zwei Ein- und Ausfahrten und einer Durchfahrt
-        ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Während der Übertragung
-        ist der Web-Server der Testumgebung vorübergehend nicht verfügbar.
-        Eine erfolgreiche Übertragung der Daten erfolgt nach
-        Wiedererreichbarkeit des Web-Servers.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_03 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_03, Fahrzeug FZ\_03 und Bordgerät BG\_03
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_03 fährt das Fahrszenario FS\_03 mit dem Fahrzeug
-        FZ\_03 (2-Achs-Anhänger, Bordgerät BG\_03) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-        Mauterheber (vorübergehende Nichtverfügbarkeit des Web-Servers
-        herstellen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 25 Prüffallvorgabe: Erhebung bei einer Fahrt mit zwei Ein- und
-Ausfahrten und einer Durchfahrt
-
-Prüffallvorgabe: Erhebung mit Änderung der Achsklasse
-
-*    *   ID:
-
-    *   P1-AED-006-004
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke ab. Die Achsklasse des Fahrzeugs ändert sich während der
-        Testdurchführung durch Ankoppeln eines 3-Achs-Anhängers.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen den vorgegebenen Konfigurationen des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_04 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_02, Fahrzeug FZ\_04 und Bordgerät BG\_04
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_02 fährt das Fahrszenario FS\_04 mit dem Fahrzeug
-        FZ\_04 (Bordgerät BG\_04) ab. Bis zum Rasthof Frechen Nord erfolgt die
-        Fahrt ohne Anhänger. Nach Erreichen des Rasthofs Frechen Nord wird die
-        Achszahl auf fünf Achsen deklariert (3-Achs-Anhänger wird
-        angekoppelt).
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 26 Prüffallvorgabe: Erhebung mit Änderung der Achsklasse
-
-Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse und Änderung
-der Mautpflicht
-
-*    *   ID:
-
-    *   P1-AED-006-005
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug und einem 2-Achs-Anhänger eine
-        definierte Strecke ab. Die Gewichtsklasse des Fahrzeugs ändert sich
-        während der Testdurchführung durch Abkoppeln des 2-Achs-Anhängers.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen den vorgegebenen Konfigurationen des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_05 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_04, Fahrzeug FZ\_05 und Bordgerät BG\_05
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_04 fährt das Fahrszenario FS\_05 mit dem Fahrzeug
-        FZ\_05 (Bordgerät BG\_05) ab. Bis zum Rasthof Frechen Nord erfolgt die
-        Fahrt mit einem 2-Achs-Anhänger. Nach Erreichen des Rasthofs Frechen
-        Nord wird das Fahrzeuggewicht < 7,5 t deklariert (Anhänger wird
-        abgekoppelt).
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 27 Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse
-mit Änderung der Mautpflicht
-
-Prüffallvorgabe: Erhebung und Sperrung eines Bordgeräts
-
-*    *   ID:
-
-    *   P1-AED-006-006
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug eine definierte Strecke ab. Der
-        EETS-Anbieter sperrt das Bordgerät (LED rot, Status NoGo) während der
-        Testdurchführung und setzt es danach auf die Blacklist.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten bis zum Zeitpunkt der Sperrung des Bordgeräts und
-        übermittelt sie an die Testumgebung. Die Erhebungsdaten entsprechen
-        der vorgegebenen Konfiguration des Bordgeräts und dem definierten
-        Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_06 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_05, Fahrzeug FZ\_06 und Bordgerät BG\_06
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt bis zum Zeitpunkt der Sperrung des Bordgeräts liegen zeitgerecht
-        und vollständig in der Testumgebung nach Versand durch das Teilsystem
-        des EETS-Anbieters vor. Nach dem Zeitpunkt der Sperrung des Bordgeräts
-        wurden keine Erhebungsdaten generiert und an die Testumgebung
-        übermittelt.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_05 fährt das Fahrszenario FS\_06 mit dem Fahrzeug
-        FZ\_06 (kein Anhänger, Bordgerät BG\_06) ab.
-        Der EETS-Anbieter sperrt das Bordgerät nach Erreichen des Rasthofs
-        Frechen Nord und setzt es danach auf die Blacklist. Die Fahrt wird
-        entsprechend des Fahrszenrios FS\_06 anschließend fortgeführt.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 28 Prüffallvorgabe: Erhebung und Sperrung eines Bordgeräts
-
-Prüffallvorgabe: Erhebung mit erhöhten Mautbeträgen nach Update der
-Mautbasisdaten
-
-*    *   ID:
-
-    *   P1-AED-006-007
-
-
-*    *   Beschreibung:
-
-    *   Nach einer Erhöhung der Mautsätze pro Kilometer fährt der Nutzer mit
-        dem Fahrzeug ohne Anhänger eine definierte Strecke ab. Es ist eine
-        Wiederholung einer bereits durchgeführten Fahrt.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten mit erhöhten
-        Mautsätzen pro Kilometer verwendet. Die Veränderungen sind in Nummer
-        7\.1.3 beschrieben.
-        Das verwendete Bordgerät BG\_01 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_01 und Bordgerät BG\_01
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_01 mit dem Fahrzeug
-        FZ\_01 (kein Anhänger, Bordgerät BG\_01) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Updates der Mautbasisdatenversion
-        über SST 003),
-        EETS-Anbieter (Durchführen des Fahrszenarios nach Update der
-        Mautbasisdaten und Versenden der abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   Hier ist eine besondere zeitliche Planung bezüglich der zu
-        verwendenden Mautbasisdaten erforderlich.
-
-
-
-
-Tabelle 29 Prüffallvorgabe: Erhebung mit erhöhten Mautbeträgen nach
-Update der Mautbasisdaten
-
-Prüffallvorgabe: Erhebung mit Orts- und Zeitklassen nach Update der
-Mautbasisdaten
-
-*    *   ID:
-
-    *   P1-AED-006-008
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke zweimal zu unterschiedlichen Zeiten ab. Dabei wird eine
-        veränderte Version der Mautbasisdaten mit Orts- und Zeitklassen
-        verwendet.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten verwendet (geänderte
-        Zeit- und Ortsklassen). Die Veränderungen sind in Nummer 7.1.3
-        beschrieben.
-        Das verwendete Bordgerät BG\_04 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_02, Fahrzeug FZ\_04 und Bordgerät BG\_04
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_02 fährt das Fahrszenario FS\_07 mit dem Fahrzeug
-        FZ\_04 (kein Anhänger, Bordgerät BG\_04) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Updates der Mautbasisdatenversion
-        über SST 003),
-        EETS-Anbieter (Durchführen des Fahrszenarios nach Update der
-        Mautbasisdaten und Versenden der abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   Hier ist eine besondere zeitliche Planung bezüglich der zu
-        verwendenden Mautbasisdaten erforderlich.
-
-
-
-
-Tabelle 30 Prüffallvorgabe: Erhebung mit Orts- und Zeitklassen nach
-Update der Mautbasisdaten
-
-Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse nach
-Einführung einer neuen Gewichtsklasse
-
-*    *   ID:
-
-    *   P1-AED-006-009
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein-, einer Durch- und einer Ausfahrt ab. Die
-        gleiche Strecke wird ein zweites Mal mit Anhänger befahren.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten und übermittelt sie an die Testumgebung. Die
-        Erhebungsdaten entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        abschnittsbezogenen Erhebungsdaten nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten verwendet (geänderte
-        Zeit-, Orts- und Gewichtsklassen). Die Veränderungen sind in Nummer
-        7\.1.3 beschrieben.
-        Das verwendete Bordgerät BG\_02 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_02 und Bordgerät BG\_02
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten abschnittsbezogenen Erhebungsdaten für die definierte
-        Fahrt liegen zeitgerecht und vollständig in der Testumgebung nach
-        Versand durch das Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_08 mit dem Fahrzeug
-        FZ\_02 (kein Anhänger, Bordgerät BG\_02) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        abschnittsbezogenen Erhebungsdaten).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 31 Prüffallvorgabe: Erhebung mit Änderung der Gewichtsklasse
-nach Einführung einer neuen Gewichtsklasse
-
-6\.6 Mautbuchungsnachweise
-
-Für die in diesem Kapitel beschriebenen Prüffallvorgaben können
-dieselben Fahrten wie bei den abschnittsbezogenen Erhebungsdaten
-(Nummer 6.5) verwendet werden.
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit einer Ein-
-und einer Ausfahrt
-
-*    *   ID:
-
-    *   P1-MBN-007-001
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein- und einer Ausfahrt ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_01 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_01 und Bordgerät BG\_01
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_01 mit dem Fahrzeug
-        FZ\_01 (kein Anhänger, Bordgerät BG\_01) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 32 Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit
-einer Ein- und einer Ausfahrt
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit einer Ein-,
-einer Durch- und einer Ausfahrt
-
-*    *   ID:
-
-    *   P1-MBN-007-002
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein-, einer Durch- und einer Ausfahrt ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_02 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_02 und Bordgerät BG\_02
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_02 mit dem Fahrzeug
-        FZ\_02 (kein Anhänger, Bordgerät BG\_02) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 33 Prüffallvorgabe: Mautbuchungsnachweis bei einer Fahrt mit
-einer Ein-, einer Durch- und einer Ausfahrt
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit zwei Ein- und
-Ausfahrten und einer Durchfahrt
-
-*    *   ID:
-
-    *   P1-MBN-007-003
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug mit einem 2-Achs-Anhänger eine
-        definierte Strecke mit zwei Ein- und Ausfahrten und einer Durchfahrt
-        ab.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt werden
-        die Mautbuchungsnachweise übermittelt. Während der Übertragung ist der
-        Web-Server der Testumgebung vorübergehend nicht verfügbar. Eine
-        erfolgreiche Übertragung der Daten erfolgt nach Wiedererreichbarkeit
-        des Web-Servers.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_03 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_03, Fahrzeug FZ\_03 und Bordgerät BG\_03
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_03 fährt das Fahrszenario FS\_03 mit dem Fahrzeug
-        FZ\_03 (2-Achs-Anhänger, Bordgerät BG\_03) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise),
-        Mauterheber (vorübergehende Nichtverfügbarkeit des Web-Servers
-        herstellen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 34 Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit
-zwei Ein- und Ausfahrten und einer Durchfahrt
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Änderung der
-Achsklasse
-
-*    *   ID:
-
-    *   P1-MBN-007-004
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke ab. Die Achsklasse des Fahrzeugs ändert sich während der
-        Testdurchführung durch Ankoppeln eines 3-Achs-Anhängers.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen den vorgegebenen Konfigurationen des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt werden
-        die Mautbuchungsnachweise übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_04 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_02, Fahrzeug FZ\_04 und Bordgerät BG\_04
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_02 fährt das Fahrszenario FS\_04 mit dem Fahrzeug
-        FZ\_04 (Bordgerät BG\_04) ab. Bis zum Rasthof Frechen Nord erfolgt die
-        Fahrt ohne Anhänger. Nach Erreichen des Rasthofs Frechen Nord wird die
-        Achszahl auf fünf Achsen deklariert (3-Achs-Anhänger wird
-        angekoppelt).
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 35 Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit
-Änderung der Achsklasse
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Änderung der
-Gewichtsklasse und Änderung der Mautpflicht
-
-*    *   ID:
-
-    *   P1-MBN-007-005
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug und einem 2-Achs-Anhänger eine
-        definierte Strecke ab. Die Gewichtsklasse des Fahrzeugs ändert sich
-        während der Testdurchführung durch Abkoppeln des 2-Achs-Anhängers.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung des
-        Mautbuchungsnachweises nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_05 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_04, Fahrzeug FZ\_05 und Bordgerät BG\_05
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_04 fährt das Fahrszenario FS\_05 mit dem Fahrzeug
-        FZ\_05 (Bordgerät BG\_05) ab. Bis zum Rasthof Frechen Nord erfolgt die
-        Fahrt mit einem 2-Achs-Anhänger. Nach Erreichen des Rasthofs Frechen
-        Nord wird das Fahrzeuggewicht < 7,5 t deklariert. (Anhänger wird
-        abgekoppelt und das Fahrzeug ist somit nicht mehr mautpflichtig).
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 36 Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit
-Änderung der Gewichtsklasse
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit Sperrung
-eines Bordgeräts
-
-*    *   ID:
-
-    *   P1-MBN-007-006
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug eine definierte Strecke ab. Der
-        EETS-Anbieter setzt das Bordgerät während der Testdurchführung auf die
-        Blacklist.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die aktuelle Version der Mautbasisdaten verwendet.
-        Das verwendete Bordgerät BG\_06 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_05, Fahrzeug FZ\_06 und Bordgerät BG\_06
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der korrekte Mautbuchungsnachweis für die definierte Fahrt liegt
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_05 fährt das Fahrszenario FS\_06 mit dem Fahrzeug
-        FZ\_06 (kein Anhänger, Bordgerät BG\_06) ab.
-        Der EETS-Anbieter setzt Bordgerät nach Erreichen des Rasthofs Frechen
-        Nord auf die Blacklist. Die Fahrt wird entsprechend des Fahrszenrios
-        FS\_06 anschließend fortgeführt.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 37 Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit
-Sperrung eines Bordgeräts
-
-Prüffallvorgabe: Mautbuchungsnachweis für eine Fahrt mit erhöhten
-Mautbeträgen nach Update der Mautbasisdaten
-
-*    *   ID:
-
-    *   P1-MBN-007-007
-
-
-*    *   Beschreibung:
-
-    *   Nach einer Erhöhung der Mautsätze pro Kilometer fährt der Nutzer mit
-        dem Fahrzeug ohne Anhänger eine definierte Strecke ab. Es ist eine
-        Wiederholung einer bereits durchgeführten Fahrt.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung des
-        Mautbuchungsnachweises nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten mit erhöhten
-        Mautsätzen pro Kilometer verwendet. Die Veränderungen sind in Nummer
-        7\.1.3 beschrieben.
-        Das verwendete Bordgerät BG\_01 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_01 und Bordgerät BG\_01
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der korrekte Mautbuchungsnachweis für die definierte Fahrt liegt
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_01 mit dem Fahrzeug
-        FZ\_01 (kein Anhänger, Bordgerät BG\_01) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Updates der Mautbasisdatenversion
-        über SST 003),
-        EETS-Anbieter (Durchführen des Fahrszenarios nach Update der
-        Mautbasisdaten und Versenden der Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   Hier ist eine besondere zeitliche Planung bezüglich der zu
-        verwendenden Mautbasisdaten erforderlich.
-
-
-
-
-Tabelle 38 Prüffallvorgabe: Mautbuchungsnachweis
-für eine Fahrt mit erhöhten Mautbeträgen nach Update der
-Mautbasisdaten
-
-Prüffallvorgabe: Mautbuchungsnachweise für Fahrten mit verschiedenen
-Orts- und Zeitklassen
-
-*    *   ID:
-
-    *   P1-MBN-007-008
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke im mautpflichtigen Bereich des Mauterhebers zweimal zu
-        unterschiedlichen Zeiten ab. Dabei wird eine veränderte Version der
-        Mautbasisdaten mit Orts- und Zeitklassen verwendet.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten verwendet (geänderte
-        Zeit- und Ortsklassen). Die Veränderungen sind in Nummer 7.1.3
-        beschrieben.
-        Das verwendete Bordgerät BG\_04 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_02, Fahrzeug FZ\_04 und Bordgerät BG\_04
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierte Fahrt liegen
-        vollständig und zeitgerecht in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_02 fährt Fahrszenario FS\_07 mit dem Fahrzeug FZ\_04
-        (kein Anhänger, Bordgerät BG\_04) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Updates der Mautbasisdatenversion
-        über SST 003),
-        EETS-Anbieter (Durchführen des Fahrszenarios nach Update der
-        Mautbasisdaten und Versenden der Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   Hier ist eine besondere zeitliche Planung bezüglich der zu
-        verwendenden Mautbasisdaten erforderlich.
-
-
-
-
-Tabelle 39 Prüffallvorgabe: Mautbuchungsnachweise für Fahrten mit
-verschiedenen Orts- und Zeitklassen
-
-Prüffallvorgabe: Mautbuchungsnachweise für zwei Fahrten mit Änderung
-der Gewichtsklasse
-
-*    *   ID:
-
-    *   P1-MBN-007-009
-
-
-*    *   Beschreibung:
-
-    *   Der Nutzer fährt mit dem Fahrzeug ohne Anhänger eine definierte
-        Strecke mit einer Ein-, einer Durch- und einer Ausfahrt ab. Die
-        gleiche Strecke wird ein zweites Mal mit Anhänger befahren.
-        Das Teilsystem des EETS-Anbieters generiert die abschnittsbezogenen
-        Erhebungsdaten. Diese entsprechen der vorgegebenen Konfiguration des
-        Bordgeräts und dem definierten Fahrszenario. Für diese Fahrt wird der
-        Mautbuchungsnachweis übermittelt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung der
-        Mautbuchungsnachweise nach der Befahrung des Szenarios
-
-
-*    *   Vorbedingungen:
-
-    *   Es wird die veränderte Version der Mautbasisdaten verwendet (geänderte
-        Zeit-, Orts- und Gewichtsklassen). Die Veränderungen sind in Nummer
-        7\.1.3 beschrieben.
-        Das verwendete Bordgerät BG\_02 ist betriebsbereit, aktuell nicht
-        gesperrt und die gebührenrelevanten Fahrzeugparameter sind korrekt
-        deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_02 und Bordgerät BG\_02
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Mautbuchungsnachweise für die definierten Fahrten liegen
-        zeitgerecht und vollständig in der Testumgebung nach Versand durch das
-        Teilsystem des EETS-Anbieters vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt das Fahrszenario FS\_08 mit dem Fahrzeug
-        FZ\_02 (kein Anhänger, Bordgerät BG\_02) ab.
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Durchführen des Fahrszenarios und Versenden der
-        Mautbuchungsnachweise).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 40 Prüffallvorgabe: Mautbuchungsnachweise für zwei Fahrten mit
-Änderung der Gewichtsklasse
-
-6\.7 Tagesberichte
-
-Prüffallvorgabe: Tagesberichte für die durchgeführten Fahrten
-
-*    *   ID:
-
-    *   P1-TB-008-001
-
-
-*    *   Beschreibung:
-
-    *   Für die im Rahmen der Prüffallvorgaben P1-AED-006-001 bis
-        P1-AED-006-009 durchgeführten Fahrten und versendeten
-        Mautbuchungsnachweise (P1-MBN-007-001 bis P1-MBN-007-009) werden die
-        Tagesberichte seitens des EETS-Anbieters erstellt und versendet.
-        Während der Übertragung der Tagesberichte ist der Web-Server der
-        Testumgebung vorübergehend nicht verfügbar. Eine erfolgreiche
-        Übertragung der Daten erfolgt nach Wiedererreichbarkeit des Web-
-        Servers.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte, vollständige und rechtzeitige Übermittlung Tagesberichte
-
-
-*    *   Vorbedingungen:
-
-    *   Fahrten wurden durchgeführt und Mautbuchungsnachweise übermittelt.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die korrekten Tagesberichte zu den übermittelten
-        Mautbuchungsnachweisen liegen vollständig und zeitgerecht in der
-        Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   keine
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Erstellen und Versenden der Tagesberichte),
-        Mauterheber (vorübergehende Nichtverfügbarkeit des Web-Servers
-        herstellen).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 41 Prüffallvorgabe: Tagesberichte
-
-6\.8 DSRC-Kontrolldaten
-
-Prüffallvorgabe: Portable Kontrolle
-
-*    *   ID:
-
-    *   P1-KON-301-001
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine noch festzulegende Strecke
-        im mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Während der Fahrt werden die zur Kontrolle relevanten Attribute aus
-        dem Bordgerät über die portable Kontrolle ausgelesen und anschließend
-        in die Testumgebung importiert.
-        Der ausgelesene Kontrolldatensatz entspricht der vorgegebenen
-        Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_01 ist betriebsbereit und aktuell nicht
-        gesperrt.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_01 und Bordgerät BG\_01
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Die portable Kontrolleinrichtung des Mauterhebers ist einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu dem durchgeführten Kontrollfall liegt ein vollständiger und
-        korrekter DSRC-Datensatz in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt eine noch festzulegende Strecke mit dem
-        Fahrzeug FZ\_01 (Bordgerät BG\_01) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen einer portablen Kontrolleinrichtung und
-        Festlegen der abzufahrenden Strecke),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   Prüffallvorgabe wird zurzeit nicht durchgeführt.
-
-
-
-
-Tabelle 42 Prüffallvorgabe: Portable Kontrolle
-
-Prüffallvorgabe: Manuelle Kontrolle
-
-*    *   ID:
-
-    *   P1-KON-301-002
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine vom Mauterheber noch
-        festzulegende Strecke im mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Während der Fahrt werden die zur Kontrolle relevanten Attribute aus
-        dem Bordgerät über die manuelle Kontrolle mit einem Kontrollfahrzeug
-        ausgelesen und anschließend in die Testumgebung importiert.
-        Der ausgelesene Kontrolldatensatz entspricht der vorgegebenen
-        Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_02 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_01, Fahrzeug FZ\_02 und Bordgerät BG\_02
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Ein Kontrollfahrzeug des Mauterhebers ist für den Test einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu dem durchgeführten Kontrollfall liegt ein vollständiger und
-        korrekter DSRC-Datensatz in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_01 fährt eine noch festzulegende Strecke mit dem
-        Fahrzeug FZ\_02 (Bordgerät BG\_02) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Kontrollfahrzeugs, Festlegen der
-        abzufahrenden Strecke und der Kontrollpunkte),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 43 Prüffallvorgabe: Manuelle Kontrolle
-
-Prüffallvorgabe: Automatische Kontrolle
-
-*    *   ID:
-
-    *   P1-KON-301-003
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine vom Mauterheber noch
-        festzulegende Strecke im mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Während der Fahrt werden die zur Kontrolle relevanten Attribute aus
-        dem Bordgerät über die automatische Kontrolle (Kontrollbrücke)
-        ausgelesen und anschließend in die Testumgebung importiert.
-        Der ausgelesene Kontrolldatensatz entspricht der vorgegebenen
-        Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_03 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_03, Fahrzeug FZ\_03 und Bordgerät BG\_03
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Die automatische Kontrolle ist einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu dem durchgeführten Kontrollfall liegt ein vollständiger und
-        korrekter DSRC-Datensatz in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_03 fährt eine noch festzulegende Strecke mit dem
-        Fahrzeug FZ\_03 (Bordgerät BG\_03) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen einer Kontrollbrücke und Festlegen der
-        abzufahrenden Strecke),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 44 Prüffallvorgabe: Automatische Kontrolle
-
-Prüffallvorgabe: Kontrollsäule
-
-*    *   ID:
-
-    *   P1-KON-301-004
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine vom Mauterheber noch
-        festzulegende Strecke im mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Während der Fahrt werden die zur Kontrolle relevanten Attribute aus
-        dem Bordgerät über die Kontrollsäule ausgelesen und anschließend in
-        die Testumgebung importiert.
-        Der ausgelesene Kontrolldatensatz entspricht der vorgegebenen
-        Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_03 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_03, Fahrzeug FZ\_03 und Bordgerät BG\_03
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Die Kontrollsäule ist einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu dem durchgeführten Kontrollfall liegt ein vollständiger und
-        korrekter DSRC-Datensatz in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_03 fährt eine noch festzulegende Strecke mit dem
-        Fahrzeug FZ\_03 (Bordgerät BG\_03) ab.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen einer Kontrollsäule und Festlegen der
-        abzufahrenden Strecke),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 45 Prüffallvorgabe: Kontrollsäule
-
-Prüffallvorgabe: Kontrolle vor und nach Änderung der Achsklasse
-
-*    *   ID:
-
-    *   P1-KON-301-005
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine definierte Strecke im
-        mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Die Achsklasse des Fahrzeugs wird während der Testdurchführung
-        geändert.
-        Die zur Kontrolle relevanten Attribute werden einmal vor der Änderung
-        der Achsklasse auf dem Parkplatz und ein zweites Mal nach Abschluss
-        der Fahrt aus dem Bordgerät ausgelesen und anschließend in die
-        Testumgebung importiert. Der jeweils ausgelesene Kontrolldatensatz
-        entspricht der vorgegebenen Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_04 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_02, Fahrzeug FZ\_04 und Bordgerät BG\_04
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Ein Kontrollfahrzeug des Mauterhebers ist für den Test ist
-        einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu den durchgeführten Kontrollfällen liegen vollständige und korrekte
-        DSRC-Datensätze in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_02 fährt das Fahrszenario FS\_04 mit dem Fahrzeug
-        FZ\_04 (Bordgerät BG\_04) ab. Bis zum Rasthof Frechen Nord erfolgt die
-        Fahrt ohne Anhänger. Nach Erreichen des Rasthofes Frechen Nord wir die
-        Achszahl auf 5 Achsen deklariert. (3-Achs-Anhänger wird angekoppelt).
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Kontrollfahrzeugs und Festlegen der
-        Kontrollpunkte),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 46 Prüffallvorgabe: Kontrolle vor und nach Änderung der
-Achsklasse
-
-Prüffallvorgabe: Kontrolle vor und nach Änderung der Gewichtsklasse
-
-*    *   ID:
-
-    *   P1-KON-301-006
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine definierte Strecke im
-        mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Die Gewichtsklasse des Fahrzeugs wird während der Testdurchführung
-        geändert.
-        Die zur Kontrolle relevanten Attribute werden einmal vor der Änderung
-        der Gewichtsklasse und ein zweites Mal nach Abschluss der Fahrt aus
-        dem Bordgerät ausgelesen und anschließend in die Testumgebung
-        importiert. Der jeweils ausgelesene Kontrolldatensatz entspricht der
-        vorgegebenen Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_05 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_04, Fahrzeug FZ\_05 und Bordgerät BG\_05
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Ein Kontrollfahrzeug des Mauterhebers ist für den Test ist
-        einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu den durchgeführten Kontrollfällen liegen vollständige und korrekte
-        DSRC-Datensätze in der Testumgebung vor.
-        Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil bis
-        zum Rasthof Frechen Nord das Attribut VehicleClass im Bereich
-        LocalVehicleClass den Wert xx0x´B enthalten und das Datenelement
-        statusIndicator im Attribut ExtendedOBEStatusHistory den Wert „go“ (1)
-        enthalten.
-        Bei der Auswertung der DSRC-Datensätze muss für den Fahrtanteil ab dem
-        Rasthof Frechen Nord das Attribut VehicleClass im Bereich
-        LocalVehicleClass den Wert xx1x´B enthalten und das Datenelement
-        statusIndicator im Attribut ExtendedOBEStatusHistory den Wert „go“ (1)
-        enthalten.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_04 fährt Fahrszenario FS\_05 mit dem Fahrzeug FZ\_05
-        (Bordgerät BG\_05) ab. Bis zum Rasthof Frechen Nord erfolgt die Fahrt
-        mit einem 2-Achs-Anhänger. Nach Erreichen des Rasthofes Frechen Nord
-        wird das Fahrzeuggewicht auf < 7,5t deklariert (Anhänger wird
-        abgekoppelt).
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Kontrollfahrzeugs und Festlegen der
-        Kontrollpunkte),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   Erwartetes Ergebnis entspricht der Erwartung in den nachfolgenden
-        Prüfphasen und im Wirkbetrieb.
-
-
-
-
-Tabelle 47 Prüffallvorgabe: Kontrolle vor und nach Änderung der
-Gewichtsklasse
-
-Prüffallvorgabe: Kontrolle vor und nach Sperrung des Bordgerätes
-
-*    *   ID:
-
-    *   P1-KON-301-007
-
-
-*    *   Beschreibung:
-
-    *   Der EETS-Nutzer fährt mit dem Fahrzeug eine definierte Strecke im
-        mautpflichtigen Bereich des Mauterhebers ab.
-        Das Teilsystem des EETS-Anbieters erhebt die Maut.
-        Der EETS-Anbieter setzt das Bordgerät während der Testdurchführung auf
-        die Blacklist.
-        Die zur Kontrolle relevanten Attribute werden einmal vor der Sperrung
-        und ein zweites Mal nach Abschluss der Fahrt aus dem Bordgerät
-        ausgelesen und anschließend in die Testumgebung importiert. Der
-        jeweils ausgelesene Kontrolldatensatz entspricht der vorgegebenen
-        Konfiguration des Bordgerätes.
-
-
-*    *   Prüfkriterien:
-
-    *   Vollständige und korrekte Übermittlung der Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Das verwendete Bordgerät BG\_06 ist betriebsbereit und aktuell nicht
-        gesperrt. Die gebührenrelevanten Fahrzeugparameter wurden deklariert.
-        Die Stammdaten zu Nutzer NZ\_05, Fahrzeug FZ\_06 und Bordgerät BG\_06
-        wurden im Teilsystem des EETS-Anbieters angelegt und die User-ID und
-        die fahrzeugbezogenen Details sind in der Testumgebung bekannt
-        (Übertragung über SST 002a und SST 002b hat stattgefunden).
-        Ein Kontrollfahrzeug des Mauterhebers ist für den Test ist
-        einsatzbereit.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Zu den durchgeführten Kontrollfällen liegen vollständige und korrekte
-        DSRC-Datensätze in der Testumgebung vor.
-
-
-*    *   Eingabedaten:
-
-    *   Der Nutzer NZ\_05 fährt das Fahrszenario FS\_06 mit dem Fahrzeug
-        FZ\_06 (Bordgerät BG\_06) ab.
-        Der EETS-Anbieter setzt Bordgerät nach Erreichen des Rasthofes Frechen
-        Nord auf die Blacklist.
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Bereitstellen eines Kontrollfahrzeugs und Festlegen der
-        Kontrollpunkte),
-        EETS-Anbieter (Abfahren der festgelegten Strecke zum festgelegten
-        Termin).
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 48 Prüffallvorgabe: Kontrolle vor und nach Sperrung des
-Bordgerätes
-
-6\.9 Mautbasisdaten
-
-Prüffallvorgabe: Übertragung von Mautbasisdaten vom Mauterheber zum
-EETS-Anbieter
-
-*    *   ID:
-
-    *   P1-MBD-003-001
-
-
-*    *   Beschreibung:
-
-    *   Die Mautbasisdaten werden vom Mauterheber an den EETS-Anbieter über
-        die technische Schnittstelle (SST) 003 versendet und im System des
-        EETS-Anbieters verarbeitet.
-
-
-*    *   Prüfkriterien:
-
-    *   Empfang und Verarbeitung der vom Mauterheber übermittelten
-        Mautbasisdaten
-
-
-*    *   Vorbedingungen:
-
-    *   Die technische SST 003 zwischen dem EETS-Anbieter und dem Mauterheber
-        ist betriebsbereit
-
-
-*    *   Erwartetes Ergebnis:
-
-    *
-        –   Die Mautbasisdaten können vom EETS-Anbieter verarbeitet werden.
-
-
-        –   Die vom Mauterheber über die technische SST 003 an den EETS-Anbieter
-            übertragenen und vom EETS-Anbieter empfangenen und verarbeiteten
-            Mautbasisdaten (z. B. Mauttabelle und Tarifmodell) sind korrekt und
-            vollständig. D. h. die Mautbasisdaten im Teilsystem des Mauterhebers
-            und im System des EETS-Anbieters sind identisch.
-
-
-
-
-
-*    *   Eingabedaten:
-
-    *   Die aktuellen Mautbasisdaten bzw. die Mautbasisdaten mit Update
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Versenden der Mautbasisdaten),
-        EETS-Anbieter (Empfang und Verarbeiten der Daten)
-
-
-*    *   Bemerkungen:
-
-    *   Diese Schnittstelle ist eine technische Schnittstelle.
-
-
-
-
-Tabelle 49 Prüffallvorgabe: Übertragung von Mautbasisdaten vom
-Mauterheber zum EETS-Anbieter
-
-6\.10 Trust Objects
-
-Prüffallvorgabe: Übertragung von Transportschlüsseln vom Mauterheber
-zum EETS-Anbieter
-
-*    *   ID:
-
-    *   P1-TRO-004-001
-
-
-*    *   Beschreibung:
-
-    *   Folgende Transportschlüssel sind vom Mauterheber auf organisatorischem
-        Wege einzeln an den EETS-Anbieter zu übertragen:
-
-        –   KPUB\_BAG\_ENC
-
-
-        –   KPUB\_BAG\_SIG
-
-
-
-        Der Mauterheber sendet den Fingerabdruck der Transportschlüssel per
-        Brief und die Nachrichten als Dateien per Datenträger oder E-Mail zum
-        EETS-Anbieter. Diese Nachrichten enthalten jeweils einen
-        Transportschlüssel. Der EETS-Anbieter verifiziert den Fingerabdruck
-        der Transportschlüssel, bindet die Transportschlüssel in sein
-        Teilsystem ein und bestätigt die Akzeptanz und Einsatzbereitschaft mit
-        unsignierten Quittierungsnachrichten.
-        Der Mauterheber nimmt die Quittierungen zur Kenntnis.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung von Transportschlüsseln vom
-        Mauterheber zum EETS-Anbieter,
-        Quittierung durch den EETS-Anbieter
-
-
-*    *   Vorbedingungen:
-
-    *   Der Mauterheber hat folgende Trust-Objects generiert:
-
-        –   KPUB\_BAG\_ENC
-
-
-        –   KPUB\_BAG\_SIG
-
-
-
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der EETS-Anbieter erhält vom Mauterheber die folgenden
-        Transportschlüssel:
-
-        –   KPUB\_BAG\_ENC
-
-
-        –   KPUB\_BAG\_SIG
-
-
-
-        Der Mauterheber erhält vom EETS-Anbieter eine vollständige Quittierung
-        aller vom Mauterheber an den EETS-Anbieter übertragenen
-        Transportschlüssel ohne Ablehnung.
-
-
-*    *   Eingabedaten:
-
-    *   Der Mauterheber übermittelt folgende Trust-Objects:
-
-        –   KPUB\_BAG\_ENC
-
-
-        –   KPUB\_BAG\_SIG
-
-
-
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Übertragung der Transportschlüssel),
-        EETS-Anbieter (Quittierung)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 50 Prüffallvorgabe: Übertragung von Transportschlüsseln vom
-Mauterheber zum EETS-Anbieter
-
-Prüffallvorgabe: Übertragung von Transportschlüsseln vom EETS-Anbieter
-zum Mauterheber
-
-*    *   ID:
-
-    *   P1-TRO-004-002
-
-
-*    *   Beschreibung:
-
-    *   Folgender Transportschlüssel wird vom EETS-Anbieter auf
-        organisatorischem Wege an den Mauterheber übertragen:
-
-        –   KPUB\_EP\_SIG
-
-
-
-        Der EETS-Anbieter sendet den Fingerabdruck des Transportschlüssels per
-        Brief und die Nachricht als Datei per Datenträger oder E-Mail zum
-        Mauterheber. Diese Nachricht enthält den Transportschlüssel.
-        Der Mauterheber verifiziert den Fingerabdruck des Transportschlüssels,
-        bindet den Transportschlüssel in sein Teilsystem ein und bestätigt die
-        Akzeptanz und Einsatzbereitschaft mit einer unsignierten
-        Quittierungsnachricht.
-        Der EETS-Anbieter nimmt die Quittierung zur Kenntnis.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung von Transportschlüsseln vom
-        EETS-Anbieter zum Mauterheber, Quittierung durch den Mauterheber
-
-
-*    *   Vorbedingungen:
-
-    *   Der EETS-Anbieter hat folgende Trust-Objects generiert:
-
-        –   KPUB\_EP\_SIG
-
-
-
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der Mauterheber erhält vom EETS-Anbieter den folgenden
-        Transportschlüssel in vollständiger und korrekter Form:
-
-        –   KPUB\_EP\_SIG
-
-
-
-        Der EETS-Anbieter erhält vom Mauterheber eine vollständige Quittierung
-        aller vom EETS-Anbieter an den Mauterheber übertragenen
-        Transportschlüssel ohne Ablehnung.
-
-
-*    *   Eingabedaten:
-
-    *   Der EETS-Anbieter übermittelt folgendes Trust-Object:
-
-        –   KPUB\_EP\_SIG
-
-
-
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Übertragung der Transportschlüssel),
-        Mauterheber (Quittierung)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 51 Prüffallvorgabe: Übertragung von Transportschlüsseln vom
-EETS-Anbieter zum Mauterheber
-
-Prüffallvorgabe: Übertragung von Zertifikaten vom Mauterheber zum
-EETS-Anbieter
-
-*    *   ID:
-
-    *   P1-TRO-004-003
-
-
-*    *   Beschreibung:
-
-    *   Folgende Zertifikate sind vom Mauterheber auf organisatorischem Wege
-        an den EETS-Anbieter zu übertragen:
-
-        –   CERT\_BAG\_HTTPS
-
-
-        –   CERT\_BAG\_MAIL
-
-
-        –   CERT\_BAG\_NSIG
-
-
-        –   CERT\_TA\_BAG
-
-
-        –   CERT\_ROOT\_BAG
-
-
-
-        Der Mauterheber sendet die signierten Nachrichten als Datei per
-        Datenträger oder E-Mail zum EETS-Anbieter. Diese Nachrichten enthalten
-        jeweils ein Zertifikat.
-        Der EETS-Anbieter verifiziert die Signatur der Nachrichten, verteilt
-        die Zertifikate auf die betroffenen Schnittstellen in seinem
-        Teilsystem und bestätigt die Akzeptanz und Einsatzbereitschaft mit
-        signierten Quittierungsnachrichten.
-        Der Mauterheber verifiziert die Signatur der Quittierungsnachrichten
-        und nimmt die Quittierungen zur Kenntnis.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung von Zertifikaten vom Mauterheber
-        zum EETS-Anbieter, signierte Quittierung durch den EETS-Anbieter,
-        Einsatzbereitschaft der Transportschlüssel
-
-
-*    *   Vorbedingungen:
-
-    *   Der Mauterheber hat folgende Trust-Objects generiert:
-
-        –   CERT\_BAG\_HTTPS
-
-
-        –   CERT\_BAG\_MAIL
-
-
-        –   CERT\_BAG\_NSIG
-
-
-        –   CERT\_TA\_BAG
-
-
-        –   CERT\_ROOT\_BAG
-
-
-
-        Die folgenden Trust-Objekts sind beim Mauterheber einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des EETS-Anbieters
-
-
-
-        Die folgenden Trust-Objekts sind beim EETS-Anbieter einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des Mauterhebers
-
-
-
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der EETS-Anbieter erhält vom Mauterheber die folgenden Zertifikate:
-
-        –   CERT\_BAG\_HTTPS
-
-
-        –   CERT\_BAG\_MAIL
-
-
-        –   CERT\_BAG\_NSIG
-
-
-        –   CERT\_TA\_BAG
-
-
-        –   CERT\_ROOT\_BAG
-
-
-
-        Der Mauterheber erhält vom EETS-Anbieter eine signierte Quittierung
-        ohne Ablehnung.
-
-
-*    *   Eingabedaten:
-
-    *   Der Mauterheber übermittelt folgende Trust-Objekts:
-
-        –   CERT\_BAG\_HTTPS
-
-
-        –   CERT\_BAG\_MAIL
-
-
-        –   CERT\_BAG\_NSIG
-
-
-        –   CERT\_TA\_BAG
-
-
-        –   CERT\_ROOT\_BAG
-
-
-
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Übertragung der Zertifikate),
-        EETS-Anbieter (Quittierung)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 52 Prüffallvorgabe: Übertragung von Zertifikaten vom
-Mauterheber zum EETS-Anbieter
-
-Prüffallvorgabe: Übertragung von Zertifikaten vom EETS-Anbieter zum
-Mauterheber
-
-*    *   ID:
-
-    *   P1-TRO-004-004
-
-
-*    *   Beschreibung:
-
-    *   Folgende Zertifikate sind vom EETS-Anbieter auf organisatorischem Wege
-        einzeln an den Mauterheber zu übertragen:
-
-        –   CERT\_EP\_HTTPS
-
-
-        –   CERT\_EP\_MAIL
-
-
-        –   CERT\_EP\_NSIG
-
-
-        –   CERT\_TA\_EP
-
-
-        –   CERT\_ROOT\_EP
-
-
-
-        Der EETS-Anbieter sendet die signierten Nachrichten mit den
-        Zertifikaten als Datei per Datenträger oder E-Mail zum Mauterheber.
-        Diese Nachrichten enthalten jeweils ein Zertifikat.
-        Der Mauterheber verifiziert die Signatur der Nachrichten, verteilt die
-        Zertifikate auf die betroffenen Schnittstellenkomponenten in seiner
-        Testumgebung und bestätigt die Akzeptanz und Einsatzbereitschaft mit
-        signierten Quittierungsnachrichten.
-        Der EETS-Anbieter verifiziert die Signatur der Quittierungsnachrichten
-        und nimmt die Quittierungen zur Kenntnis.
-        Die korrekte und vollständige Einsatzbereitschaft der ausgetauschten
-        Zertifikate wird durch Prüfung der Kommunikation für alle relevanten
-        Schnittstellen (SST001, SST002a/b/c, SST003, SST006, SST007, SST008,
-        SST016, SST099) verifiziert.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung von Zertifikaten vom EETS-
-        Anbieter zum Mauterheber, Quittierung durch den Mauterheber,
-        Einsatzbereitschaft der Transportschlüssel, Einsatzbereitschaft der
-        Zertifikate
-
-
-*    *   Vorbedingungen:
-
-    *   Die folgenden Trust-Objekts sind beim Mauterheber einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des EETS-Anbieters
-
-
-
-        Der EETS-Anbieter hat folgende Trust-Objekts generiert:
-
-        –   CERT\_EP\_HTTPS
-
-
-        –   CERT\_EP\_MAIL
-
-
-        –   CERT\_EP\_NSIG
-
-
-        –   CERT\_TA\_EP
-
-
-        –   CERT\_ROOT\_EP
-
-
-
-        Die folgenden Trust-Objekts sind beim EETS-Anbieter einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des Mauterhebers
-
-
-        –   Zertifikate des Mauterhebers
-
-            –   CERT\_BAG\_HTTPS
-
-
-            –   CERT\_BAG\_MAIL
-
-
-            –   CERT\_BAG\_NSIG
-
-
-            –   CERT\_TA\_BAG
-
-
-            –   CERT\_ROOT\_BAG
-
-
-
-
-
-
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der Mauterheber erhält vom EETS-Anbieter die folgenden Zertifikate:
-
-        –   CERT\_EP\_HTTPS
-
-
-        –   CERT\_EP\_MAIL
-
-
-        –   CERT\_EP\_NSIG
-
-
-        –   CERT\_TA\_EP
-
-
-        –   CERT\_ROOT\_EP
-
-
-
-        Der EETS-Anbieter erhält vom Mauterheber eine signierte Quittierung
-        ohne Ablehnung.
-        Die betreffenden Schnittstellen (siehe Beschreibung der
-        Prüffallvorgabe) können mit den ausgetauschten Zertifikaten
-        vollständig und korrekt betrieben werden.
-
-
-*    *   Eingabedaten:
-
-    *   Der EETS-Anbieter übermittelt folgende Trust-Objekts:
-
-        –   CERT\_EP\_HTTPS
-
-
-        –   CERT\_EP\_MAIL
-
-
-        –   CERT\_EP\_NSIG
-
-
-        –   CERT\_TA\_EP
-
-
-        –   CERT\_ROOT\_EP
-
-
-
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Übertragung der Zertifikate),
-        Mauterheber (Quittierung)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 53 Prüffallvorgabe: Übertragung von Zertifikaten vom EETS-
-Anbieter zum Mauterheber
-
-Prüffallvorgabe: Übertragung von Masterkeys vom EETS-Anbieter zum
-Mauterheber
-
-*    *   ID:
-
-    *   P1-TRO-004-005
-
-
-*    *   Beschreibung:
-
-    *   Folgende Masterkeys sind vom EETS-Anbieter auf organisatorischem Wege
-        an den Mauterheber zu übertragen:
-
-        –   KM\_CONTROL\_MAC1
-
-
-        –   KM\_STB\_MAC1
-
-
-        –   KM\_CONTROL\_AC
-
-
-        –   KM\_STB\_AC
-
-
-
-        Der EETS-Anbieter sendet signierte Nachrichten als Dateien per
-        Datenträger oder E-Mail zum Mauterheber. Diese Nachrichten enthalten
-        jeweils einen verschlüsselten Masterkey.
-        Der Mauterheber verifiziert jeweils die Signatur der Nachrichten,
-        entschlüsselt die Masterkeys, verteilt die Kontroll-Masterkeys auf die
-        Kontrolleinheiten der Testumgebung und bestätigt die Akzeptanz und
-        Einsatzbereitschaft mit signierten Quittierungsnachrichten.
-        Der EETS-Anbieter verifiziert die Signatur der Quittungsnachrichten
-        und nimmt jeweils die Quittierung zur Kenntnis.
-        Die abgeleiteten Kontroll-Schlüssel werden vom EETS-Anbieter in die
-        Bordgeräte einpersonalisiert.
-        Die Einsatzbereitschaft der Masterkeys KM\_CONTROL\_MAC1 und
-        KM\_CONTROL\_AC wird durch Prüfung der Kommunikation über SST301
-        (DSRC-Kontrolldaten) verifiziert.
-        Die MAC1-Prüfung für DSRC-Kontrolldaten wird vom Mauterheber
-        durchgeführt.
-
-
-*    *   Prüfkriterien:
-
-    *   korrekte und vollständige Übertragung von Masterkeys vom EETS-Anbieter
-        zum Mauterheber, Quittierung durch den Mauterheber,
-        Einsatzbereitschaft der Transportschlüssel, erfolgreiche MAC1-Prüfung
-        der DSRC-Kontrolldaten
-
-
-*    *   Vorbedingungen:
-
-    *   Die folgenden Trust-Objekts sind beim Mauterheber einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des EETS-Anbieters
-
-
-
-        Der EETS-Anbieter hat folgende Trust-Objekts generiert:
-
-        –   KM\_CONTROL\_MAC1
-
-
-        –   KM\_STB\_MAC1
-
-
-        –   KM\_CONTROL\_AC
-
-
-        –   KM\_STB\_AC
-
-
-        –   deren abgeleitete CONTROL-Schlüssel
-
-
-
-        Die folgenden Trust-Objects sind beim EETS-Anbieter einsatzbereit:
-
-        –   private Transportschlüssel
-
-
-        –   öffentliche Transportschlüssel des Mauterhebers
-
-
-
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Der Mauterheber erhält vom EETS-Anbieter die folgenden Masterkeys:
-
-        –   KM\_CONTROL\_MAC1
-
-
-        –   KM\_STB\_MAC1
-
-
-        –   KM\_CONTROL\_AC
-
-
-        –   KM\_STB\_AC
-
-
-
-        Der EETS-Anbieter erhält vom Mauterheber eine signierte Quittierung
-        ohne Ablehnung.
-        Die DSRC-Schnittstelle zu den Kontrolleinheiten kann mit den
-        übermittelten Masterkeys KM\_CONTROL\_MAC1 und KM\_CONTROL\_AC
-        vollständig und korrekt betrieben werden.
-        Die MAC1-Prüfung der DSRC-Kontrolldaten ist erfolgreich.
-
-
-*    *   Eingabedaten:
-
-    *   Der EETS-Anbieter übermittelt folgende Trust-Objekts:
-
-        –   KM\_CONTROL\_MAC1
-
-
-        –   KM\_STB\_MAC1
-
-
-        –   KM\_CONTROL\_AC
-
-
-        –   KM\_STB\_AC
-
-
-
-
-
-*    *   Akteur:
-
-    *   EETS-Anbieter (Übertragung der Masterkeys),
-        Mauterheber (Quittierung)
-
-
-*    *   Bemerkungen:
-
-    *   Stützbaken werden in Phase 1 der Gebrauchstauglichkeitsprüfung nicht
-        betrachtet. Daher entfällt die Verifikation der Masterkeys durch
-        Prüfung der Kommunikation an dieser Schnittstelle (SST303).
-
-
-
-
-Tabelle 54 Prüffallvorgabe: Übertragung von Masterkeys vom EETS-
-Anbieter zum Mauterheber
-
-6\.11 Technischer Zustand Bordgerät
-
-Prüffallvorgabe: Abfrage zum technischen Zustand eines Bordgeräts
-
-*    *   ID:
-
-    *   P1-TZB-016-001
-
-
-*    *   Beschreibung:
-
-    *   Aufgrund der Vorgangsbearbeitung Rückerstattung und Reklamationen
-        werden vom Mauterheber Informationen zum technischen Zustand zu einem
-        Bordgerät benötigt. Diese werden organisatorisch via E-Mail durch den
-        Mauterheber beim EETS-Anbieter mit Vergabe eines eindeutigen
-        Aktenzeichens angefragt.
-        Der EETS-Anbieter ermittelt die benötigten Informationen zu dem
-        Bordgerät und sendet diese per E-Mail unter Angabe des Aktenzeichens
-        an den Mauterheber zurück.
-
-
-*    *   Prüfkriterien:
-
-    *   Die durch den Mauterheber ausgelöste Abfrage zum technischen Zustand
-        eines Bordgeräts wird durch den EETS-Anbieter korrekt per E-Mail
-        beantwortet.
-
-
-*    *   Vorbedingungen:
-
-    *   Das Bordgerät, auf welches sich die Abfrage bezieht, hat im
-        angefragten Zeitraum mindestens einen Zustandswechsel in der
-        Empfangsbereitschaft.
-
-
-*    *   Erwartetes Ergebnis:
-
-    *   Die Antwort-E-Mail des EETS-Anbieters mit den Informationen zum
-        angefragten Bordgerät wird innerhalb von drei Werktagen vom
-        Mauterheber empfangen. Die seitens des EETS-Anbieters ermittelten
-        Informationen werden dem Mauterheber korrekt und vollständig über den
-        vorgesehenen Übertragungsweg bereitgestellt.
-
-
-*    *   Eingabedaten:
-
-    *   Der EETS-Anbieter nutzt folgende, per E-Mail vom Mauterheber
-        erhaltenen Angaben, um in seinem System die benötigten Informationen
-        zu dem angefragten Bordgerät zu ermitteln:
-
-        –   ID des Bordgeräts
-
-
-        –   ID des EETS-Users
-
-
-        –   KFZ-Kennzeichen (einschließlich der Nationalität)
-
-
-        –   Zeitraum, zu dem der Mauterheber Angaben erwartet
-
-
-        –   Firmenname (sofern angegeben)
-
-
-
-
-
-*    *   Akteur:
-
-    *   Mauterheber (Abfrage zum technischen Zustand),
-        EETS-Anbieter (Antwort per E-Mail)
-
-
-*    *   Bemerkungen:
-
-    *   keine
-
-
-
-
-Tabelle 55 Prüffallvorgabe: Anfrage zum technischen Zustand eines
-Bordgeräts
-
-
-
-## **7 Prüffallvorgaben-übergreifend zu verwendende Daten**
-
-7\.1 Stammdaten
-
-Zur Durchführung der Prüffallvorgaben kommen vorgegebene Daten für
-fiktive EETS-Nutzer zur Verwendung, denen Fahrzeuge und Bordgeräte
-zugeordnet sind. Die nachfolgende Tabelle zeigt die zu verwendende
-Konstellation von Nutzer, Fahrzeug und Bordgerät:
-
-*    *   Lfd. Nr.
-
-    *   Nutzer
-
-    *   Fahrzeug
-
-    *   Bordgerät
-
-
-*    *   1
-
-    *   NZ\_01
-
-    *   FZ\_01
-
-    *   BG\_01
-
-
-*    *   2
-
-    *   NZ\_01
-
-    *   FZ\_02
-
-    *   BG\_02
-
-
-*    *   3
-
-    *   NZ\_03
-
-    *   FZ\_03
-
-    *   BG\_03
-
-
-*    *   4
-
-    *   NZ\_02
-
-    *   FZ\_04
-
-    *   BG\_04
-
-
-*    *   5
-
-    *   NZ\_04
-
-    *   FZ\_05
-
-    *   BG\_05
-
-
-*    *   6
-
-    *   NZ\_05
-
-    *   FZ\_06
-
-    *   BG\_06
-
-
-*    *   7
-
-    *   NZ\_05
-
-    *   FZ\_07
-
-    *   BG\_07
-
-
-*    *   8
-
-    *   NZ\_05
-
-    *   FZ\_08
-
-    *   BG\_08
-
-
-*    *   9
-
-    *   NZ\_06
-
-    *   FZ\_09
-
-    *   BG\_09
-
-
-*    *   10
-
-    *   NZ\_07
-
-    *   FZ\_10
-
-    *   BG\_10
-
-
-*    *   11
-
-    *   NZ\_02
-
-    *   FZ\_11
-
-    *   BG\_11
-
-
-*    *   12
-
-    *   NZ\_02
-
-    *   FZ\_12
-
-    *   BG\_12
-
-
-*    *   13
-
-    *   NZ\_08
-
-    *   FZ\_13
-
-    *   BG\_13
-
-
-*    *   14
-
-    *   NZ\_08
-
-    *   FZ\_14
-
-    *   BG\_14
-
-
-
-
-Tabelle 56: Stammdatenzuordnung
-
-Jeder Nutzer, jedes Fahrzeug und jedes Bordgerät wird in dieser
-Tabelle durch einen eindeutigen Bezeichner identifiziert. Details zu
-jedem Nutzer beziehungsweise jedem Fahrzeug werden nachfolgend
-beschrieben. Zu den Bordgeräten, die EETS-Anbieter spezifisch sind,
-werden außer der eindeutigen Zuordnung zum jeweiligen Fahrzeug keine
-weiteren Vorgaben gemacht.
-
-7\.1.1 Adressdaten der EETS-Nutzer
-
-Die nachfolgende Übersicht zeigt die fiktiven EETS-Nutzer, die der
-EETS-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu
-verwenden hat. Die Nutzer werden im Rahmen der Durchführung der
-Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur
-Referenzierung ist jedem Nutzer eine eindeutige Nutzer-ID zugeordnet.
-Die Attribute sind durch die Schnittstellspezifikation „SST 002b -
-User-Details“ definiert.
-
-*    *   Nutzer-ID
-
-    *   NZ\_01
-
-    *   NZ\_02
-
-    *   NZ\_03
-
-    *   NZ\_04
-
-    *   NZ\_05
-
-
-*    *   addresseeRoleDescriptor
-
-    *   –
-
-    *   –
-
-    *   z.Hd.
-
-    *   –
-
-    *   z.Hd.
-
-
-*    *   organisationName
-
-    *   Musterfirma AG
-
-    *   –
-
-    *   Export Russia
-
-    *   –
-
-    *   Müller Import Gmbh
-
-
-*    *   organisationUnit
-
-    *   Abteilung Muster
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   –
-
-
-*    *   Function
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   Geschäftsführung
-
-
-*    *   formOfAddress
-
-    *   –
-
-    *   Herr
-
-    *   Mr.
-
-    *   Mr.
-
-    *   Frau
-
-
-*    *   Qualification
-
-    *   –
-
-    *   Dr.
-
-    *   –
-
-    *   –
-
-    *   Dr.
-
-
-*    *   Surname
-
-    *   -–
-
-    *   Mustermann
-
-    *   Iwanow
-
-    *   Lindeberg
-
-    *   Müller Sander
-
-
-*    *   givenName
-
-    *   –
-
-    *   Max
-
-    *   Iwan
-
-    *   Johan Wolfgang
-
-    *   Miriam
-
-
-*    *   deliveryServicePoint
-
-    *   Postfach 22399
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   Postfach 99888
-
-
-*    *   Thoroughfare
-
-    *   –
-
-    *   Musterstrasse 11
-
-    *   Krasnaja Ploschtschad 3
-
-    *   Södra Tollgatan 3
-
-    *   –
-
-
-*    *   postCode
-
-    *   89073
-
-    *   70771
-
-    *   109012
-
-    *   21140
-
-    *   10875
-
-
-*    *   Town
-
-    *   Ulm
-
-    *   Leinfelden-Echterdingen
-
-    *   Moskau
-
-    *   Malmö
-
-    *   Berlin
-
-
-*    *   Region
-
-    *   Baden-Württemberg
-
-    *   Baden-Württemberg
-
-    *   –
-
-    *   –
-
-    *   Berlin
-
-
-*    *   Country
-
-    *   Deutschland
-
-    *   Deutschland
-
-    *   Russia
-
-    *   Sweden
-
-    *   Deutschland
-
-
-*    *   phoneInternationalDiallingCode
-
-    *   +49
-
-    *   +49
-
-    *   +370
-
-    *   +46
-
-    *   +49
-
-
-*    *   phoneDiallingCode
-
-    *   123
-
-    *   731
-
-    *   495
-
-    *   234
-
-    *   30
-
-
-*    *   phoneSubscriberNumber
-
-    *   4567890
-
-    *   8237896
-
-    *   66778899
-
-    *   2376587
-
-    *   5553310
-
-
-*    *   mobileInternationalDiallingCode
-
-    *   –
-
-    *   +49
-
-    *   +370
-
-    *   +46
-
-    *   +49
-
-
-*    *   mobileDiallingCode
-
-    *   –
-
-    *   980
-
-    *   495
-
-    *   10
-
-    *   171
-
-
-*    *   mobileSubscriberNumber
-
-    *   –
-
-    *   3465686
-
-    *   5565342
-
-    *   5656464
-
-    *   12345678
-
-
-*    *   faxInternationalDiallingCode
-
-    *   +49
-
-    *   +49
-
-    *   +370
-
-    *   +46
-
-    *   –
-
-
-*    *   faxDiallingCode
-
-    *   123
-
-    *   731
-
-    *   495
-
-    *   234
-
-    *   –
-
-
-*    *   faxSubscriberNumber
-
-    *   45678910
-
-    *   82378910
-
-    *   66778810
-
-    *   2376510
-
-    *   –
-
-
-*    *   Email
-
-    *   info@musterfirma.de
-
-    *   max.mustermann@mustermann.com
-
-    *   –
-
-    *   j.lindeberg@lindeberg.com
-
-    *   miriam.mueller@mueller-gmbh.de
-
-
-
-
-Tabelle 57: EETS-Nutzerdaten Teil 1
-
-
-
-*    *   Nutzer-ID
-
-    *   NZ\_06
-
-    *   NZ\_07
-
-    *   NZ\_08
-
-    *   NZ\_09
-
-    *   NZ\_10
-
-
-*    *   addresseeRoleDescriptor
-
-    *   –
-
-    *   –
-
-    *   z.Hd.
-
-    *   z.Hd.
-
-    *   –
-
-
-*    *   organisationName
-
-    *   –
-
-    *   –
-
-    *   Beispiel AG
-
-    *   KaKi GmbH
-
-    *   –
-
-
-*    *   organisationUnit
-
-    *   –
-
-    *   –
-
-    *   Abteilung Beispiel
-
-    *   –
-
-    *   –
-
-
-*    *   Function
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   Geschäftsführung
-
-    *   –
-
-
-*    *   formOfAddress
-
-    *   –
-
-    *   Mr.
-
-    *   Mrs.
-
-    *   Frau
-
-    *   Herr
-
-
-*    *   Qualification
-
-    *   –
-
-    *   –
-
-    *   Dr.
-
-    *   –
-
-    *   –
-
-
-*    *   Surname
-
-    *   Hofer
-
-    *   Herodias
-
-    *   Scholz
-
-    *   Kandlein
-
-    *   Geiseler
-
-
-*    *   givenName
-
-    *   Heinz
-
-    *   Aristotélis
-
-    *   Clément
-
-    *   Kirsten
-
-    *   Franz
-
-
-*    *   deliveryServicePoint
-
-    *   –
-
-    *   –
-
-    *   Postfach 12345
-
-    *   –
-
-    *   Postfach 33468
-
-
-*    *   Thoroughfare
-
-    *   Am Europaplatz 1
-
-    *   Leoforos Syngrou
-
-    *   –
-
-    *   Uranusstraße 24
-
-    *   –
-
-
-*    *   postCode
-
-    *   A-1220
-
-    *   105 64
-
-    *   50672
-
-    *   06118
-
-    *   89073
-
-
-*    *   Town
-
-    *   Wien
-
-    *   Athen
-
-    *   Köln
-
-    *   Halle/Saale
-
-    *   Ulm
-
-
-*    *   Region
-
-    *   –
-
-    *   –
-
-    *   Nordrhein-Westfalen
-
-    *   Sachsen-Anhalt
-
-    *   –
-
-
-*    *   Country
-
-    *   Österreich
-
-    *   Greece
-
-    *   Deutschland
-
-    *   Deutschland
-
-    *   –
-
-
-*    *   phoneInternationalDiallingCode
-
-    *   +43
-
-    *   –
-
-    *   –
-
-    *   +49
-
-    *   +49
-
-
-*    *   phoneDiallingCode
-
-    *   70231
-
-    *   –
-
-    *   –
-
-    *   345
-
-    *   731
-
-
-*    *   phoneSubscriberNumber
-
-    *   13765
-
-    *   –
-
-    *   –
-
-    *   5534051
-
-    *   2435687
-
-
-*    *   mobileInternationalDiallingCode
-
-    *   +43
-
-    *   –
-
-    *   –
-
-    *   +49
-
-    *   –
-
-
-*    *   mobileDiallingCode
-
-    *   664
-
-    *   –
-
-    *   –
-
-    *   169
-
-    *   –
-
-
-*    *   mobileSubscriberNumber
-
-    *   1553765
-
-    *   –
-
-    *   –
-
-    *   88779060726488
-
-    *   –
-
-
-*    *   faxInternationalDiallingCode
-
-    *   +43
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   –
-
-
-*    *   faxDiallingCode
-
-    *   70231
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   –
-
-
-*    *   faxSubscriberNumber
-
-    *   13765
-
-    *   –
-
-    *   –
-
-    *   –
-
-    *   –
-
-
-*    *   Email
-
-    *   hofer.heinz@hofer.at
-
-    *   –
-
-    *   karsten.scholz@beispiel-ag.de
-
-    *   –
-
-    *   franz.geiseler@geiseler.com
-
-
-
-
-Tabelle 58: EETS-Nutzerdaten Teil 2
-
-
-7\.1.2 Fahrzeugdaten der EETS-Nutzer
-
-Die nachfolgende Übersicht zeigt die fiktiven Fahrzeuge, die der EETS-
-Anbieter in seinem Teilsystem zur Durchführung der Prüffälle zu
-verwenden hat. Die Fahrzeuge werden im Rahmen der Durchführung der
-Prüffallvorgaben zur Schnittstelle SST 002 angelegt. Zur
-Referenzierung ist jedem Fahrzeug eine eindeutige Fahrzeug-ID
-zugeordnet. Die Attribute sind durch die Schnittstellspezifikation
-„SST 002b - User-Details“ bzw. „SST 006 - Abschnittsbezogene
-Erhebungsdaten“ definiert. Nicht vorgegebene Attributwerte sind EETS-
-Anbieter spezifisch zu füllen. Weitere durch die
-Schnittstellenspezifikation definierte, aber hier nicht aufgeführte
-Attribute, sind für die Prüfung nicht relevant.
-
-*    *   Fahrzeug-ID
-
-    *   FZ\_01
-
-    *   FZ\_02
-
-    *   FZ\_03
-
-    *   FZ\_04
-
-    *   FZ\_05
-
-
-*    *   Pan
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   validityBegin
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   countryCode
-
-    *   DE
-
-    *   SE
-
-    *   RU
-
-    *   AT
-
-    *   DE
-
-
-*    *   alphabetIndicator
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-
-*    *   licencePlateNumber
-
-    *   SK K 2512
-
-    *   CGJ 666
-
-    *   A798AP 177
-
-    *   K510BV
-
-    *   MÜ BY 2698
-
-
-*    *   obeId
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   euroValue
-
-    *   Eev
-
-    *   euro-4
-
-    *   euro-3
-
-    *   euro-2
-
-    *   euro-1
-
-
-*    *   vehicleIdentificationNumber
-
-    *   WVWZZZ1JZ3W386752
-
-    *   WDD1690071J236589
-
-    *   W0L000051T2123456
-
-    *   WP0000051T2123456
-
-    *   WVWZZZ1JZ3W123456
-
-
-*    *   vehicleMaxLadenWeight (10 kg)
-
-    *   1400
-
-    *   1450
-
-    *   1800
-
-    *   1300
-
-    *   749
-
-
-*    *   vehicleTrainMaximumWeight (10 kg)
-
-    *   3300
-
-    *   3400
-
-    *   4000
-
-    *   2600
-
-    *   1800
-
-
-*    *   vehicleWeightUnladen (10 kg)
-
-    *   700
-
-    *   730
-
-    *   750
-
-    *   760
-
-    *   500
-
-
-*    *   tractorAxles
-
-    *   2
-
-    *   2
-
-    *   3
-
-    *   2
-
-    *   2
-
-
-*    *   dieselEmissionValues: unitType
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-
-*    *   dieselEmissionValues: value
-
-    *   15
-
-    *   19
-
-    *   90
-
-    *   140
-
-    *   350
-
-
-*    *   vehicleSpecificCharacteristics: engineCharacteristics
-
-    *   4
-
-    *   4
-
-    *   4
-
-    *   4
-
-    *   4
-
-
-*    *   vehicleSpecificCharacteristics: descriptiveCharacteristics
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   vehicleSpecificCharacteristics: characteristicsFutureUse
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   pmfRequired
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   EuropeanVehicleGroup
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 4 bzw. 5
-
-
-
-
-Tabelle 59: Fahrzeugdaten Teil 1
-
-
-
-*    *   Fahrzeug-ID
-
-    *   FZ\_06
-
-    *   FZ\_07
-
-    *   FZ\_08
-
-    *   FZ\_09
-
-    *   FZ\_10
-
-
-*    *   Pan
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   validityBegin
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   countryCode
-
-    *   FR
-
-    *   SK
-
-    *   ES
-
-    *   GR
-
-    *   DE
-
-
-*    *   alphabetIndicator
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-
-*    *   licencePlateNumber
-
-    *   AB 836 RT
-
-    *   BA 485AS
-
-    *   5776 CNS
-
-    *   IZB 4320
-
-    *   SK KR 49
-
-
-*    *   obeId
-
-    *
-    *
-    *
-    *
-    *
-
-*    *   euroValue
-
-    *   euro-1
-
-    *   euro-3
-
-    *   noEntry
-
-    *   euro-5
-
-    *   euro-2
-
-
-*    *   vehicleIdentificationNumber
-
-    *   WVMZZZ1JZ3H246891
-
-    *   WDD1690071F236666
-
-    *   WVWZZZ5KZ3M123456
-
-    *   WDD1690071B237676
-
-    *   WVWZZZ1JZ3W123459
-
-
-*    *   vehicleMaxLadenWeight
-
-    *   1750
-
-    *   1700
-
-    *   1350
-
-    *   1750
-
-    *   1740
-
-
-*    *   vehicleTrainMaximumWeight
-
-    *   2590
-
-    *   2600
-
-    *   3200
-
-    *   3950
-
-    *   3940
-
-
-*    *   vehicleWeightUnladen
-
-    *   950
-
-    *   740
-
-    *   710
-
-    *   740
-
-    *   730
-
-
-*    *   tractorAxles
-
-    *   2
-
-    *   2
-
-    *   2
-
-    *   3
-
-    *   3
-
-
-*    *   dieselEmissionValues: unitType
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-
-*    *   dieselEmissionValues: value
-
-    *   340
-
-    *   85
-
-    *   14
-
-    *   13
-
-    *   135
-
-
-*    *   vehicleSpecificCharacteristics: engineCharacteristics
-
-    *   4
-
-    *   4
-
-    *   4
-
-    *   4
-
-    *   4
-
-
-*    *   vehicleSpecificCharacteristics: descriptiveCharacteristics
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   vehicleSpecificCharacteristics: characteristicsFutureUse
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   pmfRequired
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   EuropeanVehicleGroup
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-
-
-
-Tabelle 60: Fahrzeugdaten Teil 2
-
-
-
-*    *   Fahrzeug-ID
-
-    *   FZ\_11
-
-    *   FZ\_12
-
-    *   FZ\_13
-
-    *   FZ\_14
-
-
-*    *   Pan
-
-    *
-    *
-    *
-    *
-
-*    *   validityBegin
-
-    *
-    *
-    *
-    *
-
-*    *   countryCode
-
-    *   SE
-
-    *   DE
-
-    *   DE
-
-    *   DE
-
-
-*    *   alphabetIndicator
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-    *   latinAlphabetNo1
-
-
-*    *   licencePlateNumber
-
-    *   PCJ948
-
-    *   UL LA 33
-
-    *   BC LF 456
-
-    *   HDH OW 99
-
-
-*    *   obeId
-
-    *
-    *
-    *
-    *
-
-*    *   euroValue
-
-    *   euro-4
-
-    *   euro-4
-
-    *   euro-3
-
-    *   euro-3
-
-
-*    *   vehicleIdentificationNumber
-
-    *   WDD1690071X568863
-
-    *   WVMZZZ1JZ3W776259
-
-    *   WVMYYY1JZ3W565135
-
-    *   WVMXXX1JZ3W731686
-
-
-*    *   vehicleMaxLadenWeight
-
-    *   1730
-
-    *   1300
-
-    *   1290
-
-    *   1280
-
-
-*    *   vehicleTrainMaximumWeight
-
-    *   3930
-
-    *   3100
-
-    *   2100
-
-    *   2050
-
-
-*    *   vehicleWeightUnladen
-
-    *   720
-
-    *   690
-
-    *   680
-
-    *   670
-
-
-*    *   tractorAxles
-
-    *   3
-
-    *   2
-
-    *   2
-
-    *   2
-
-
-*    *   dieselEmissionValues: unitType
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-kWh
-
-    *   mg-km
-
-
-*    *   dieselEmissionValues: value
-
-    *   18
-
-    *   17
-
-    *   20
-
-    *   20
-
-
-*    *   vehicleSpecificCharacteristics: engineCharacteristics
-
-    *   4
-
-    *   4
-
-    *   4
-
-    *   4
-
-
-*    *   vehicleSpecificCharacteristics: descriptiveCharacteristics
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   vehicleSpecificCharacteristics: characteristicsFutureUse
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   0
-
-
-*    *   pmfRequired
-
-    *   0
-
-    *   0
-
-    *   1
-
-    *   1
-
-
-*    *   EuropeanVehicleGroup
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-    *   Group 5
-
-
-
-Tabelle 61: Fahrzeugdaten Teil 3
-
-
-7\.1.3 Update Mautbasisdaten
-
-Für das Betriebsdaten-Update sind gegenüber der aktuellen Version
-folgende Änderungen in den Mautbasisdaten vorzusehen:
-
-Änderung der Tarifparameter:
-
-*    *   Inhalt
-
-    *   Beschreibung
-
-    *   Wert
-
-
-*    *   Erhöhung Mauttarif
-
-    *   Erhöhung der Infrastrukturkosten je km:
-
-    *   + 0,022 €
-
-
-*    *   Ortsklasse 2
-
-    *   Erhöhung der luftverschmutzungsabhängigen Kosten je km:
-
-    *   + 0,012 €
-
-
-*    *   Ortsklasse 3
-
-    *   Erhöhung der lärmabhängigen Kosten je km:
-
-    *   + 0,017 €
-
-
-*    *   Zeitklasse 2
-
-    *   Zuschlag auf den Mautsatz ab 12.00 Uhr:
-
-    *   + 50 %
-
-
-
-
-Tabelle 62: Update der Tarifparameter
-
-
-Berücksichtigung der Orts- und Zeitklassen in den Mautbasisdaten:
-
-*    *   ID
-
-    *   Von
-
-    *   Bis
-
-    *   Ortsklasse
-
-    *   Zeitklasse
-
-
-*    *   4116
-
-    *   Köln-West, Kreuz
-
-    *   Frechen
-
-    *   1
-
-    *   1
-
-
-*    *   830
-
-    *   Frechen
-
-    *   Köln-West, Kreuz
-
-    *   1
-
-    *   1
-
-
-*    *   2556
-
-    *   Köln-West, Kreuz
-
-    *   Köln-Klettenberg
-
-    *   2
-
-    *   2
-
-
-*    *   1060
-
-    *   Köln-Klettenberg
-
-    *   Containerbahnhof Köln-Eifeltor
-
-    *   2
-
-    *   2
-
-
-*    *   3906
-
-    *   Containerbahnhof Köln-Eifeltor
-
-    *   Köln-Süd, Kreuz
-
-    *   2
-
-    *   2
-
-
-*    *   2021
-
-    *   Köln-Süd, Kreuz
-
-    *   Containerbahnhof Köln-Eifeltor
-
-    *   2
-
-    *   2
-
-
-*    *   3903
-
-    *   Containerbahnhof Köln-Eifeltor
-
-    *   Köln-Klettenberg
-
-    *   2
-
-    *   2
-
-
-*    *   1175
-
-    *   Köln-Klettenberg
-
-    *   Köln-West, Kreuz
-
-    *   2
-
-    *   2
-
-
-*    *   3967
-
-    *   Köln-Bayenthal
-
-    *   Köln-Süd, Kreuz
-
-    *   3
-
-    *   1
-
-
-*    *   3660
-
-    *   Köln-Süd, Kreuz
-
-    *   Köln-Bayenthal
-
-    *   3
-
-    *   1
-
-
-
-
-Tabelle 63: Update Orts- und Zeitklassen
-
-
-Einführung einer neuen Gewichtsklasse (GK3) für Fahrzeuge über 18 t:
-Tarif + 0,05 €
-
-7\.2 Fahrszenarien
-
-Die nachfolgenden Fahrszenarien beschreiben die in den
-Prüffallvorgaben durchzuführenden Fahrten:
-
-*    *   FS\_ID
-
-    *   Szenario
-
-    *   Bemerkung
-
-    *   Vorgaben
+    *   **Ziel**
 
 
 *    *   FS\_01
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt und einer Ausfahrt des mautpflichtigen Bereichs der
-        A555
+    *   Ortungstest
 
-        –   ohne Konfigurationsänderungen
+    *   Es werden die in den folgenden Zeilen beschriebenen Messfahrten mit
+        unterschiedlichen Fahrszenarien durchgeführt. Die durch die EETS-
+        Fahrzeuggeräte aufgezeichneten Fahrspuren werden nach Abschluss aller
+        Messfahrten ausgewertet.
 
+    *   Alle im Rahmen der Messfahrten eingesetzten EETS-Fahrzeuggeräte
+        erfüllen die Qualitätsanforderungen hinsichtlich der Ortung.
 
-        –   eine Einfahrt
 
+*    *   MF\_01: Geradeausfahrt unter normalen Bedingungen
 
-        –   eine Ausfahrt
+    *   Mit diesem Test wird das normale am häufigsten auftretende
+        Fahrverhalten der Nutzer getestet. Es werden alle Fahrten auf der
+        Autobahn ohne besondere Einstellungen durchgeführt.
 
+    *   Das Verhalten der initialen Sensorfunktion der EETS-OBUs wird unter
+        Normalbedingungen überprüft.
 
 
+*    *   MF\_02: Autobahnfahrt/Landstraße – normales Fahren mit wechselnden
+        Bedingungen
 
-    *
-    *   Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: zwei
-        Einfahrt*                        Wesseling
-        Ausfahrt*                        Bornheim (Rhld.)
+    *   Fahrszenario zur Simulation von Fahrverhalten bei wechselnden
+        Bedingungen. Es ist eine Testzeit von minimal 7,5 Stunden angesetzt,
+        um Daten für typische reale GNSS-Empfangsbedingungen zu erhalten.
 
+    *   Das Langzeitverhalten und die Stabilität in einem typischen
+        Produktivszenario werden getestet.
 
-*    *   FS\_02
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrt und einer Ausfahrt des mautpflichtigen
-        Bereichs der A555
+*    *   MF\_03: Gebirge
 
-        –   ohne Konfigurationsänderungen
+    *   Fahrszenario zur Simulation von Fahrverhalten bei starken GNSS-
+        Abschattungen und abwechslungsreichem Gelände.
 
+    *   Es wird das Verhalten der EETS-FzG bei Satellitenabschattung (Bäume,
+        Berge) und gleichzeitig kurvenreicher Strecke getestet. Unter
+        Umständen kann auch ein GNSS-Ausfall provoziert werden um das
+        Aufsetzverhalten (Reakquisition) zu testen
 
-        –   eine Einfahrt
 
+*    *   MF\_04: Stadtfahrt
 
-        –   eine Durchfahrt
+    *   Fahrszenario zur Fahrt im eng bebauten Gebiet (Stadtfahrt). Eine
+        Besonderheit bei den Stadtfahrten stellen Reflexionen des GPS-Signals
+        dar. Dieser Test soll insbesondere die Fähigkeiten der Sensorfusion in
+        solchen Fällen und die Handhabung von Multipath-Effekten in der GNSS-
+        Hardware überprüfen
 
+    *   Es wird das Verhalten der EETS-FzG bei eng bebauten Straßen und hohen
+        Gebäuden getestet
 
-        –   eine Ausfahrt
 
+*    *   MF\_05: Achterfahrt unter normalen Bedingungen
 
+    *   Der Test prüft, ob die GNSS-Sensorik, -Algorithmik oder die
+        Sensorfusion die Messergebnisse verzerren, verzögern oder verfälschen
+        (z.B. die Kurven verziehen, überschwinden, stark abrunden, etc.).
 
+    *   Ziel dieser Tests ist es eine Abhängigkeit aus der ohne GNSS
+        zurückgelegten Strecke, dem Streckenverlauf und der Abweichung über
+        die Strecke zu ermitteln.
 
-    *
-    *   Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: zwei
-        Einfahrt*                        Bornheim (Rhld.)
-        Durchfahrt*                        Wesseling
-        Ausfahrt*                        Godorf
 
+*    *   MF\_06: Rückwärtsfahrt/Wendemanöver
 
-*    *   FS\_03
+    *   Fahrszenario zur Simulation von Fahrverhalten bei Park- und
+        Wendemanövern.
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        von Einfahrt, Durchfahrt und Ausfahrt des mautpflichtigen Bereichs der
-        A555
+    *   Der Test prüft, ob bei Umkehrung der Fahrtrichtung die Sensorik die
+        korrekte Bewegung vollzieht (oder ob z.B. stattdessen eine
+        Vorwärtsfahrt erzeugt wird).
 
-        –   ohne Konfigurationsänderungen
 
+*    *   MF\_07: Langsamfahrt Autobahn (Stau)
 
-        –   eine Einfahrt
+    *   Fahrszenario zur Simulation von Fahrverhalten bei geringen
+        Geschwindigkeiten.
 
+    *   Das Verhalten bei langsamer Fahrt oder Beinahe-Stillstand
+        unterscheidet sich erheblich vom Normalbetrieb. Dies wird mit diesem
+        Test geprüft.
 
-        –   eine Durchfahrt
 
+*    *   MF\_08: Wiederholte Autobahnfahrt
 
-        –   eine Ausfahrt
+    *   Bei diesem Testfall wird die wiederholte Auf- und Abfahrt auf
+        Autobahnen simuliert. Dabei wird dazwischen jeweils ein gerades Stück
+        Autobahn befahren. Dieser Test dient der Erkennung von möglicherweise
+        auftretenden Drifts, also dem seitlichen „Abwandern“ der Positionen
 
+    *   Es wird das Verhalten der Geräte bei wiederholtem Wechsel von
+        geradeaus befahrbaren Straßenabschnitten und Kurvensegmenten getestet.
 
-        –   eine Einfahrt
 
+*    *   MF\_09: Tunnelfahrt
 
-        –   eine Ausfahrt
+    *   Durchführung mehrere Tunnelbefahrungen zur Bewertung der
+        Reakquisitionszeit nach Ausfahrt aus dem Tunnel.
 
+    *   Der Test bewertet die Reakquisitionszeit nach einer Tunnelbefahrung
 
 
+*    *   MF\_10: Statischer Test (Stillstand)
 
-    *
-    *   Zugfahrzeug mit 2-Achs-Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: fünf
-        Einfahrt*                        Godorf
-        Durchfahrt*                        Wesseling
-        Ausfahrt*                        Bornheim (Rhld.)
-        Einfahrt*                        Bornheim (Rhld.) (Richtung Köln)
-        Ausfahrt*                        Wesseling
+    *   Dieses Szenario dient der Simulation von Fahrverhalten bei Stillstand
+        des Fahrzeugs.
 
+    *   Der Test bewertet die Einhaltung der Ortungsanforderungen beim
+        Stillstand des Fahrzeugs.
 
-*    *   FS\_04
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrten und einer Ausfahrt des mautpflichtigen
-        Bereichs der A4
 
-        –   Änderung der Fahrzeugparameter während der Fahrt
+**2.2 P1-KTM-002: Erhebungstest unter Alltagsbedingungen**
 
 
-        –   Änderung der Achszahl von zwei auf fünf
+*    *   **ID**
 
+    *   **Name**
 
-        –   eine Einfahrt
+    *   **Beschreibung**
 
+    *   **Ziel**
 
-        –   vier Durchfahrten (drei Durchfahrten, dann Änderung der
-            Fahrzeugparameter, dann eine Durchfahrt)
 
+*    *   FT-001-SST005
 
-        –   eine Ausfahrt
+    *   Übertragung und Verarbeitung von Fahrspuren (SST 005)
 
+    *   Die mit den OBUs des EETS-Anbieter ausgestattete Speditionsflotte
+        fährt innerhalb des Streckennetzes des Mautgebiets BFStrMG. Die
+        Fahrspuren werden von den OBUs des EETS-Anbieters erhoben und vom
+        Testsystem der EETS-Anbieter über die SST 005 an das Testsystem der TC
+        übermittelt und in diesem verarbeitet.
 
+    *   Der EETS-Anbieter überträgt korrekte und vollständige Fahrspuren über
+        die SST005
 
 
-    *   Änderung der Parameter müssen bei Stillstand des Fahrzeugs, d. h. auf
-        einem öffentlichen Parkplatz durchgeführt werden.
+*    *   FT-002-SST005
 
-    *   Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: zwei
-        Einfahrt*                        Containerbahnhof Köln-Eifeltor (in
-        Richtung Aachen)
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Köln-West, Kreuz
-        Durchfahrt*                        Frechen Nord
-        – Rasthof Frechen Nord
-        3-Achs-Anhänger wird angekoppelt
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: fünf
-        Durchfahrt*                        Kerpen, Kreuz
-        Ausfahrt*                        Kerpen
+    *   Die Bewertung der Ortungsqualität der EETS-Geräte im Speditionsumfeld.
 
+    *   Die vom EETS-Anbieter übertragenen Fahrspuren werden bezüglich
+        Ortungsqualität unter Alltagsbedingungen bewertet.
 
-*    *   FS\_05
+    *   Die Bewertung der Ortungsqualität der EETS-Geräte im Speditionsumfeld.
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrten und einer Ausfahrt des mautpflichtigen
-        Bereichs der A4
 
-        –   Änderung der Fahrzeugparameter während der Fahrt
+*    *   FT-003-SST007R
 
+    *   Erzeugung und Übertragung von Mautbuchungsnachweisen (SST 007R)
 
-        –   Änderung der Achsklasse (Achszahl vier auf Achszahl zwei)
+    *   Aus den übertragenen Fahrspuren der EETS-Anbieter werden Mautbu-
+        chungsnachweise erzeugt und diese vom Testsystem der TC an das
+        Testsystem des EETS-Anbieter über die SST 007R übermittelt.
 
+    *   Die Mautbuchungsnachweise werden aus dem MED über die SST007R an den
+        EETS-Anbieter übertragen.
 
-        –   Änderung der Gewichtsklasse (< 7,5 t)
 
+*    *   FT-004-SST009
 
-        –   eine Einfahrt
+    *   Übermittlung Report „Information zu Auffälligkeiten bei Bordgeräten“
+        (SST009)
 
+    *   Aus den übertragenen Fahrspuren der EETS-Anbieter werden Informationen
+        zu auffälligen Bordgeräten der EETS-Anbieter generiert und vom
+        Testsystem der TC an das Testsystem der EETS-Anbieter über die SST 009
+        übermittelt.
 
-        –   vier Durchfahrten (drei Durchfahrten, dann Änderung der
-            Fahrzeugparameter, dann eine Durchfahrt)
+    *   Übermittlung des Reports zu auffälligen Bordgeräten über die SST009.
 
 
-        –   eine Ausfahrt
 
+Bundesrepublik Deutschland
+vertreten durch das
+Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
+dieses vertreten durch das
+## **Bundesamt für Güterverkehr (BAG)**
 
+## **Europäischer elektronischer Mautdienst (EETS)**
 
+## **Verfahren zur Feststellung der Gebrauchstauglichkeit**
 
-    *   Änderung der Parameter müssen bei Stillstand des Fahrzeugs, d. h. auf
-        einem öffentlichen Parkplatz durchgeführt werden.
+## **Anlage 4 zum Dokument B- Prüfkonzept**
 
-    *   Zugfahrzeug mit 2-Achs-Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: vier
-        Einfahrt*                        Containerbahnhof Köln-Eifeltor (in
-        Richtung Aachen)
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Köln-West, Kreuz
-        Durchfahrt*                        Frechen Nord
-        – Rasthof Frechen Nord
-        2-Achs-Anhänger wird abgekoppelt
-        Deklaration Gewicht: < 7,5 t
-        Deklaration Achszahl: zwei
-        Durchfahrt*                        Kerpen, Kreuz
-        Ausfahrt*                        Kerpen
+## **Prüfkatalog „Probebetrieb“**
 
+### **Dokumentenhistorie**
 
-*    *   FS\_06
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrten und einer Ausfahrt des mautpflichtigen
-        Bereichs der A4
+*    *   **Version**
 
-        –   Bordgerät wird gesperrt
+    *   **Datum**
 
+    *   **Bearbeiter**
 
-        –   eine Einfahrt
+    *   **Bearbeitung / Änderung**
 
 
-        –   vier Durchfahrten (drei Durchfahrten, dann Sperrung des Bordgeräts,
-            dann eine Durchfahrt)
+*    *   0.1
 
+    *   17.09.2020
 
-        –   eine Ausfahrt
+    *   RT
 
+    *   Erstellung erster unvollständiger Entwurf
 
 
+*    *   0.2
 
-    *
-    *   Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: zwei
-        Einfahrt*                        Containerbahnhof Köln-Eifeltor (in
-        Richtung Aachen)
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Köln-West, Kreuz
-        Durchfahrt*                        Frechen Nord
-        – Rasthof Frechen Nord
-        Bordgerät wird auf die Blacklist gesetzt
-        Durchfahrt*                        Kerpen, Kreuz
-        Ausfahrt*                        Kerpen
+    *   30.10.2020
 
+    *   RT
 
-*    *   FS\_07
+    *   Überarbeitung nach Review und Abstimmung mit BAG und TC
 
-    *   Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrten und einer Ausfahrt des mautpflichtigen
-        Bereichs der A555, A4 und A1
 
-        –   von 00.00 bis 11.59 Uhr
+*    *   1.0
 
-            –   zwei Einfahrten
+    *   04.12.2020
 
+    *   RT
 
-            –   acht Durchfahrten
+    *   QS und Finalisierung
 
 
-            –   zwei Einfahrten
 
+### **1 Einleitung**
 
+Der vorliegende Prüfkatalog enthält die Prüffalle, deren Erfüllung im
+Rahmen der Feststellung der Gebrauchstauglichkeit in Prüfblock 2,
+Phase 2 Probebetrieb nachzuweisen ist.
 
+Die in diesem Prüfkatalog aufgeführten Prüffalle werden durch die
+Prüfspezifikation „Probebetrieb“ detailliert und konkretisiert.
 
+**2 Prüffälle**
 
-        –   von 12.00 bis 23.59 Uhr
-            (gleiche Strecke)
+**2.1 P2-001: korrekte Mauterhebung**
 
-            –   zwei Einfahrten
 
+*    *   **ID**
 
-            –   acht Durchfahrten
+    *   **Name**
 
+    *   **Beschreibung**
 
-            –   zwei Einfahrten
+    *   **Ziel**
 
 
+*    *   P2.001.1
 
+    *   Befahrung des mautpflichtigen Streckennetzes
 
+    *   Mehrtägige Befahrung des deutschen mautpflichtigen Streckennetzes
 
+    *   Nachweis der Übermittlung korrekter Fahrspurdaten und Verarbeitung zu
+        Mautbuchungsnachweisen
 
 
-    *
-    *   Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t
-        Deklaration Achszahl: zwei
-        ab 00.00 bis 11.59 Uhr
-        Einfahrt*                        Köln-Bayenthal (A555)
-        Durchfahrt*                        Köln-Süd, Kreuz (A4 in Richtung
-        Aachen)
-        Durchfahrt*                        Containerbahnhof Köln-Eifeltor
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Köln-West, Kreuz (A1 in Richtung
-        Euskirchen)
-        Ausfahrt*                        Frechen
-        Einfahrt*                        Frechen
-        Durchfahrt*                        Köln-West, Kreuz
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Containerbahnhof Köln-Eifeltor
-        Durchfahrt*                        Köln-Süd, Kreuz
-        Ausfahrt*                        Köln-Bayenthal
-        ab 12.00 bis 23.59 Uhr
-        Einfahrt*                        Köln-Bayenthal (A555)
-        Durchfahrt*                        Köln-Süd, Kreuz (A4 in Richtung
-        Aachen)
-        Durchfahrt*                        Containerbahnhof Köln-Eifeltor
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Köln-West, Kreuz (A1 in Richtung
-        Euskirchen)
-        Ausfahrt*                        Frechen
-        Einfahrt*                        Frechen
-        Durchfahrt*                        Köln-West, Kreuz
-        Durchfahrt*                        Köln-Klettenberg
-        Durchfahrt*                        Containerbahnhof Köln-Eifeltor
-        Durchfahrt*                        Köln-Süd, Kreuz
-        Ausfahrt*                        Köln-Bayenthal
+*    *   P2.001.2
 
+    *   Sonderfahrten - Änderung Achs- und Gewichtsklasse
 
-*    *   FS\_08
+    *   Durchführung von Änderungen in den tarifrelevanten Fahrzeugparametern
+        (Achs- und Gewichtsklasse) durch An- und Abhängen eines Anhängers
+        innerhalb des deutschen Mautnetzes (BFStrMG), wobei das mautpflichtige
+        Netz während der Testfalldurchführung nicht verlassen wird.
 
-    *   erste Fahrt:
-        Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrt und einer Ausfahrt des mautpflichtigen
-        Bereichs der A555 ohne Anhänger
+    *   Nachweis der Übermittlung korrekter Fahrspurdaten inklusive
+        veränderter tarifrelevanten Fahrzeugparametern und Verarbeitung zu
+        Mautbuchungsnachweisen basierend auf den geänderten Fahrzeugparametern
 
-        –   ohne Konfigurationsänderungen
 
+*    *   P2.001.3
 
-        –   eine Einfahrt
+    *   Sonderfahrten - Tausch des Bordgeräts in einem Fahrzeug
 
+    *   Das Bordgerät eines bereits beim EA registrierten Nutzers wird
+        ausgetauscht und ein neues Bordgerät in das Fahrzeug installiert. Vor
+        dem Tausch erfolgt eine Befahrung des mautpflichtigen Streckennetzes.
 
-        –   eine Durchfahrt
+    *   Nachweis der korrekten Aktualisierung und Übermittlung der
+        Nutzerlisten an den Mauterheber im Falle des Tauschs eines Bordgeräts
 
 
-        –   eine Ausfahrt
+*    *   P2.001.4
 
+    *   Sonderfahrten - Weitergabe des Bordgeräts an ein anderes Fahrzeug
 
+    *   Das Bordgerät eines bereits beim EA registrierten Nutzers wird aus dem
+        Fahrzeug ausgebaut und in ein anderes Fahrzeug installiert. Vor dem
+        Ausbau erfolgt eine Befahrung des mautpflichtigen Streckennetzes.
 
-        zweite Fahrt:
-        Erzeugung von abschnittsbezogenen Erhebungsdaten durch das Befahren
-        einer Einfahrt, Durchfahrt und einer Ausfahrt des mautpflichtigen
-        Bereichs der A555 mit Anhänger
+    *   Nachweis der korrekten Aktualisierung und Übermittlung der
+        Nutzerlisten an den Mauterheber im Falle der Weitergabe des Bordgeräts
 
-        –   Änderung der Achsklasse (Achszahl zwei auf Achszahl vier) und Änderung
-            der Gewichtsklasse (> 18 t) eine Einfahrt
 
+*    *   P2.001.5
 
-        –   eine Durchfahrt
+    *   Zwangsbeendigung
 
+    *   Durchführung einer Befahrung des mautpflichtigen Netzes mit einer
+        längeren Fahrtunterbrechung auf dem mautpflichtigen Netz
 
-        –   eine Ausfahrt
+    *   Nachweis der Übermittlung korrekter Fahrspurdaten und Verarbeitung zu
+        Mautbuchungsnachweisen auch im Falle von längeren Fahrtunterbrechungen
+        auf dem mautpflichtigen Netz
 
 
+*    *   P2.001.6
 
+    *   Fahrt mit Fahrzeug unterhalb der Mautpflichtgrenze (< 7,5t)
 
-    *   Änderung der Parameter muss vor Beginn der zweiten Fahrt durchgeführt
-        werden.
+    *   Durchführung einer Befahrung des mautpflichtigen Streckennetzes mit
+        einem unterhalb der Mautpflichtgrenze deklarierten Bordgerät
 
-    *   erste Fahrt:
-        Zugfahrzeug ohne Anhänger
-        Deklaration Gewicht: ≥ 7,5 t, < 18 t
-        Deklaration Achszahl: zwei
-        Einfahrt*                        Bornheim (Rhld.)
-        Durchfahrt*                        Wesseling
-        Ausfahrt*                        Godorf
-        zweite Fahrt:
-        Zugfahrzeug mit Anhänger
-        Deklaration Gewicht: > 18 t
-        Deklaration Achszahl: vier
-        Einfahrt*                        Bornheim (Rhld.)
-        Durchfahrt*                        Wesseling
-        Ausfahrt*                        Godorf
+    *   Nachweis, dass keine Fahrspurdaten für nicht-mautpflichtige Fahrzeuge
+        übermittelt werden
 
 
+*    *   P2.001.7
 
+    *   Fahrt mit Fahrzeug ohne aktiven Vertrag für das Mautgebiet BFStrMG
 
-Tabelle 64: Fahrszenarien
+    *   Durchführung einer Befahrung des mautpflichtigen Streckennetzes mit
+        einem Bordgerät ohne aktiven Vertrag für das Mautgebiet BFStrMG
 
+    *   Nachweis, dass keine Fahrspurdaten für Fahrzeuge ohne aktiven Vertrag
+        für das Mautgebiet BFStrMG übermittelt werden
 
-## Anhang C: Abdeckungsmatrix Prüfszenarien – Prüffälle
 
 
-![banzat_2018_20180327v2_03.jpg](banzat_2018_20180327v2_03.jpg)
-    Auslaufende Gerätetypen müssen in der Nutzerreferenzgruppe nicht
-    berücksichtigt werden, wenn der EETS-Anbieter plausibel darlegen kann,
-    dass er sie bis zum Zeitpunkt der Erteilung der endgültigen
-    Betriebserlaubnis aus seiner Flotte entfernt haben wird.
-[^F801812_01_BJNR608620018BJNE003402124]: 
-zur Vereinbarung über die Durchführung des Prüfverfahrens
+**2.2 P2-002: korrekte Abrechnung und Auskehr**
 
-## Anlage 4 zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P2.002.1
+
+    *   Abrechnung und Auskehr der Fahrten aus P2.001
+
+    *   Simulation der Auskehr und Durchführung des Auskehrreportings für die
+        in P2.001 durchgeführten Fahrten
+
+    *   Nachweis, das das Auskehrreporting korrekt und vollständig erfolgt
+
+
+*    *   P2.002.2
+
+    *   Vergutschriftung (Fall A) – manuelle Korrektur für bereits ausgekehrte
+        Mautfahrten
+
+    *   Durchführung des Prozesses der Vergutschriftung aufgrund einer
+        Fehlvergebührung des MED unter der Annahme, dass der fehlerhafte
+        Mautbetrag bereits ausgekehrt wurde
+
+    *   Sicherstellung korrekter Abrechnung und Auskehr auch im Falle von
+        Fehlvergebührungen des MED
+
+
+*    *   P2.002.3
+
+    *   Vergutschriftung (Fall B) – manuelle Korrektur vor Auskehr der
+        Mautfahrten
+
+    *   Durchführung des Prozesses der Vergutschriftung aufgrund einer
+        Fehlvergebührung des MED unter der Annahme, dass der fehlerhafte
+        Mautbetrag noch nicht ausgekehrt wurde
+
+    *   Sicherstellung korrekter Abrechnung und Auskehr auch im Falle von
+        Fehlvergebührungen des MED
+
+
+
+**2.3 P2-003: Überwachung des EETS-Anbieters**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P2.003.1
+
+    *   Bereitstellung der Überwachungsreports über die SST 013
+
+    *   Erstellung und Übermittlung des Überwachungsreports "1. IT Sicherheit
+        & Betrieb"
+
+    *   Nachweis eines funktionsfähigen Überwachungsprozesses beim EA und
+        korrekte Übermittlung des Überwachungsreports
+
+
+*    *   P2.003.2
+
+    *   Störung Schnittstelle – SST002b User-Details
+
+    *   Der EA erzeugt eine Störung der SST002b so dass keine Fahrzeug- und
+        Halterdaten Anfrage erfolgen kann. Nach Beseitigung der Störung ist
+        die Anfrage möglich. Die Störung wird im Überwachungsreport "1. IT
+        Sicherheit & Betrieb" aufgenommen und übermittelt
+
+    *   Nachweis eines funktionsfähigen Überwachungsprozesses beim EA und
+        korrekte Übermittlung des Überwachungsreports
+
+
+*    *   P2.003.3
+
+    *   Störung Bordgerät
+
+    *   Der EA verhindert während einer Fahrt auf dem mautpflichtigen
+        Streckennetz die Übermittlung von Fahrspuren eines Bordgerätes. Die
+        Störung wird > 72h nach Abschluss der Fahrt beseitigt und die
+        aufgezeichneten Fahrspurdaten werden übermittelt. Die technissche
+        Auffälligkeit wird erkannt und an den EA übermittelt.
+
+    *   Nachweis der Funktionsfähigkeit des Prozesses der Erkennung von
+        Auffälligkeiten von Bordgeräten und der korrekten Interaktion zwischen
+        Mauterheber und EA in diesem Fall.
+
+
+*    *   P2.003.4
+
+    *   Bereitstellung Informationen zu technischem Zustand EETS-Bordgerät
+        über die SST 016
+
+    *   Der Mauterheber stellt über die organisatorische Schnittstelle 016 ein
+        eAnfrage zum technischen Zustand eines Bordgeräts an den EA, welche
+        vom EA beantwortet wird.
+
+    *   Nachweis der spezifikationskonformen Bereitstellung von Informatione
+        zum technischen Zustand eines Bordgeräts über die SST 016 durch den EA
+
+
+
+**2.4 P2-005: korrekte Kontrollprozesse**
+
+
+*    *   **ID**
+
+    *   **Name**
+
+    *   **Beschreibung**
+
+    *   **Ziel**
+
+
+*    *   P2.005.1
+
+    *   Kontrolle von Bordgeräten vor und nach Sperrlisteneintrag
+
+    *   Es werden zwei Befahrungen des mautplichtigen Streckennetzes
+        durchgeführt auf welchen jeweils eine automatische Kontrolle erfolgt.
+        Zwischen den beiden Befahrungen wird das Bordgerät gesperrt. Im Rahmen
+        des bei der zweiten Kontrolle entstehenden Verdachtsfalls werden die
+        auf Anfrage des Mauterhebers die Fahrzeug- und Halterdaten über die
+        SST002b vom EA übermittelt
+
+    *   Nachweis der Funktionsfähigkeit des Sperrprozesses der Bordgeräte
+        inklusive der korrekten Aktualisierung der Sperrliste und Übermittlung
+        plausibler Werte über die DSRC-Schnittstelle. Nachweis der
+        Funktionsfähigkeit der Abfrage von Fahrzeug- und Halterdaten über die
+        SST002b im Rahmen des Ahndungsprozesses des Mauterhebers.
+
+
+
+    Aktives Fahrzeug: Ein Fahrzeug, das innerhalb des Pilotbetriebs
+    mindestens eine mautpflichtige Befahrung im Mautgebiet BFStrMG
+    durchgeführt hat.
+[^bjne60862001bjne003403123_01_BJNR608620018BJNE003403123]:     Die Erreichung der minimalen Anzahl von aktiven Fahrzeugen ermittelt
+    sich wie folgt: „Summe der aktiven Fahrzeuge (OBU-IDs) über alle Tage
+    des Pilotbetriebs“ / „Tage des Pilotbetriebs“
+[^bjne60862001bjne003403123_02_BJNR608620018BJNE003403123]:     Definition „Gerätetyp“: Eindeutige Kombination aus Hardware und
+    Software eines Bordgeräts. Hinweis: Auslaufende Gerätetypen müssen in
+    der Nutzerreferenzgruppe nicht berücksichtigt werden, wenn der EETS-
+    Anbieter plausibel darlegen kann, dass er sie bis zum Zeitpunkt der
+    Erteilung der endgültigen Betriebserlaubnis aus seiner Flotte entfernt
+    haben wird oder nicht im Mautgebiet BFStrMG einsetzen wird.
+[^bjne60862001bjne003403123_03_BJNR608620018BJNE003403123]: 
+
+## Anlage 4 zur Prüfvereinbarung
+
+(Fundstelle: BAnz AT 29.10.2021 V 2)
 
 ## **Zeit- und Projektplan**
 
 (Nach Abschluss der Prüfvereinbarung beizufügen.)
 
-zur Vereinbarung über die Durchführung des Prüfverfahrens
 
-## Anlage 5 zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+## Anlage 5 zur Prüfvereinbarung
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+(Fundstelle: BAnz AT 29.10.2021 V 2)
 
 ## **Entgeltordnung**
 
-
-## **1 Vorbemerkung**
+### **1. Vorbemerkung**
 
 Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung
 mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG sind vom
 BAG Gebühren für die Geltendmachung individuell zurechenbarer
-öffentlicher Leistungen zu erheben.
-
-Das Zulassungsverfahren gliedert sich in folgende Phasen:
-
-![banzat_2018_20180327v2_04.jpg](banzat_2018_20180327v2_04.jpg)
-
-## **2 Gebühren**
+öffentlicher Leistungen zu erheben. Das Zulassungsverfahren gliedert
+sich in folgende Phasen:
+![banzat_2021_20211029v2_04.jpg](banzat_2021_20211029v2_04.jpg)
+### **2. Gebühren**
 
 Von einem EETS-Anbieter, der das Zulassungsverfahren durchläuft, sind
 die nachfolgend genannten Pauschalbeträge zu entrichten:
@@ -13779,62 +14081,51 @@ die nachfolgend genannten Pauschalbeträge zu entrichten:
     *   Pauschalentgelt
 
 
-*    *   a.
+*    *   a)
 
-    *   vor Beginn der Prüfung der Voraussetzungen und Dokumentation
-        (GTP Prüfblock 1, Nummer 1, 2 und 3)
+    *   vor Beginn der Prüfung der Voraussetzungen und Dokumentation (GTP
+        Prüfblock 1, Nummer 1, 2, 3 und 4)
 
-    *   35 000 €
+    *   22 500 Euro
 
 
-*    *   b
+*    *   b)
 
     *   vor Beginn der Prüfung der wirtschaftlichen Vorgaben
 
-    *   30 000 €
+    *   25 500 Euro
 
 
-*    *   b.
+*    *   c)
 
-    *   vor Beginn der Prüfung des Prüfprogramms
-        (GTP Prüfblock 1, Nummer 4)
+    *   vor Beginn der GTP Phase 1 (GTP Prüfblock 2, Nummer 5)
 
-    *   35 000 €
-
-
-*    *   c.
-
-    *   vor Beginn der Schnittstellenprüfung
-        (GTP Prüfblock 2, Nummer 5)
-
-    *   50 000 €
+    *   143 500 Euro
 
 
-*    *   d.
+*    *   d)
 
-    *   vor Beginn des Probebetriebs
-        (GTP Prüfblock, Nummer 6)
+    *   vor Beginn des Probebetriebs (GTP Prüfblock, Nummer 6)
 
-    *   50 000 €
-
-
-*    *   e.
-
-    *   vor Beginn des Pilotbetriebs
-        (GTP Prüfblock, Nummer 7)
-
-    *   50 000 €
+    *   48 500 Euro
 
 
-*    *   **Gesamtbetrag:**
+*    *   e)
 
-    *   **250 000 €**
+    *   vor Beginn des Pilotbetriebs (GTP Prüfblock, Nummer 7)
+
+    *   62 000 Euro
+
+
+*    *
+    *   **Gesamtbetrag:**
+
+    *   **302 000 Euro**
 
 
 
 
-
-## **3 Fälligkeit**
+### **3. Fälligkeit**
 
 Diese Pauschalbeträge sind jeweils vor Beginn der zugehörigen
 Verfahrensphase fällig. Das BAG fordert einen EETS-Anbieter vor jeder
@@ -13842,37 +14133,35 @@ Verfahrensphase schriftlich zur Zahlung des Betrags auf. Die
 Verfahrensphase wird vom BAG erst nach Eingang der entsprechenden
 Zahlung eingeleitet.
 
-
-## **4 Erneute Durchführung des Verfahrens**
+### **4. Erneute Durchführung des Verfahrens**
 
 Es ist möglich, dass eine erneute Prüfung eines Teils oder des
 gesamten Teilsystems eines EETS-Anbieters notwendig wird. Dies ist der
 Fall, wenn
 
-–   der Anbieter Änderungen an seinem EETS-Teilsystem vornimmt, die
+1.  der Anbieter Änderungen an seinem EETS-Teilsystem vornimmt, die
     Auswirkungen auf die Gebrauchstauglichkeit haben können,
 
 
-–   der Mauterheber Änderungen an seinem EETS-Teilsystem oder am EETS-
+2.  der Mauterheber Änderungen an seinem EETS-Teilsystem oder am EETS-
     Gebiet BFStrMG vornimmt, die Auswirkungen auf die
     Gebrauchstauglichkeit haben können,
 
 
-–   der Betreiber des Mautsystems Änderungen am Mautsystem vornimmt, die
+3.  der Betreiber des Mautsystems Änderungen am Mautsystem vornimmt, die
     Auswirkungen auf die Gebrauchstauglichkeit haben können,
 
 
-–   bei der Durchführung des EETS im EETS-Gebiet BFStrMG nachhaltige
+4.  bei der Durchführung des EETS im EETS-Gebiet BFStrMG nachhaltige
     technische Probleme auftreten,
 
 
-–   das Verfahren zur Feststellung der Gebrauchstauglichkeit wesentlich
+5.  das Verfahren zur Feststellung der Gebrauchstauglichkeit wesentlich
     geändert wird oder
 
 
-–   bei begründetem Verdacht des Mauterhebers auf Nichterfüllung der
-    Vorgaben durch den Anbieter.
-
+6.  der begründete Verdacht des Mauterhebers auf Nichterfüllung der
+    Vorgaben durch den Anbieter besteht.
 
 
 
@@ -13893,31 +14182,32 @@ Gebrauchstauglichkeit wird dem EETS-Anbieter berechnet, es sei denn,
 Änderungen im System des Mauterhebers sind ursächlich für die erneute
 Durchführung des Verfahrens. Sollte eine Verfahrensphase von der
 erneuten Durchführung nicht betroffen sein, ist der entsprechende
-Pauschalbetrag nicht zu entrichten. Sollte eine der Verfahrensphasen
-von der erneuten Durchführung teilweise betroffen sein, ist der
-Pauschalbetrag nach billigem Ermessen des Mauterhebers anteilig zu
-entrichten.
+Pauschalbetrag nicht zu entrichten.
 
-zur Vereinbarung über die Durchführung des Prüfverfahrens
+Sollte eine der Verfahrensphasen von der erneuten Durchführung
+teilweise betroffen sein, ist der Pauschalbetrag nach billigem
+Ermessen des Mauterhebers anteilig zu entrichten.
 
-## Anlage 6 zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+## Anlage 6 zur Prüfvereinbarung
+
+(Fundstelle: BAnz AT 29.10.2021 V 2)
 
 ## **Glossar**
 
 
+*    *   **Begriff**
 
-*    *   Begriff
-
-    *   Definition
+    *   **Definition**
 
 
 *    *   Anbieter
 
-    *   Rechtsperson, die in einem Mitgliedsstaat niedergelassen und gemäß den
-        Anforderungen der Entscheidung 2009/750/EG registriert ist und einem
-        EETS-Nutzer Zugang zum EETS gewährt.
+    *   Rechtsperson, die den Nutzern durch einen Vertrag Zugang zu mehreren
+        mautpflichtigen Streckennetzen gewährt, die Maut des Mautschuldners an
+        die für die Erhebung der Maut in Bund und Ländern zuständige Behörde
+        zahlt und im Mitgliedstaat registriert ist, in dem sie ihren Sitz oder
+        eine ständige Niederlassung hat.
 
 
 *    *   Auskehr der Maut
@@ -13934,34 +14224,46 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   BDSG
 
-    *   Bundesdatenschutzgesetz.
+    *   Bundesdatenschutzgesetz
 
 
 *    *   Benannte Stelle
 
-    *   Siehe notifizierte Stelle.
+    *   Siehe notifizierte Stelle
 
 
 *    *   Betreibergesellschaft
 
-    *   Gesellschaft, die nach den Vorschriften des BFStrMG mit der Mitwirkung
-        an der Erhebung der Maut für die Benutzung des mautpflichtigen
-        Streckennetzes im Geltungsbereich des BFStrMG beauftragt ist.
+    *   Als Betreibergesellschaft nach den Vorschriften des BFStrMG wurde in
+        Deutschland die Toll Collect GmbH mit der Mitwirkung an der Erhebung
+        der Maut für die Benutzung von Bundesautobahnen und Bundesstraßen
+        durch schwere Nutzfahrzeuge nach § 4 Absatz 3 Satz 1 BFStrMG
+        beauftragt.
 
 
 *    *   Betreiber des Mautsystems
 
-    *   Siehe Betreibergesellschaft.
+    *   Siehe Betreibergesellschaft
 
 
 *    *   BFStrMG
 
-    *   Bundesfernstraßenmautgesetz.
+    *   Bundesfernstraßenmautgesetz
 
 
 *    *   BGB
 
-    *   Bürgerliches Gesetzbuch.
+    *   Bürgerliches Gesetzbuch
+
+
+*    *   Bordgerät
+
+    *   Auch: Fahrzeuggerät
+        Der vollständige Satz von Hardware- und Softwarekomponenten, der für
+        die Bereitstellung des EETS erforderlich ist und der für die Sammlung,
+        Speicherung und Verarbeitung sowie den Fernempfang und die
+        Fernübertragung von Daten in einem Fahrzeug eingebaut ist oder
+        mitgeführt wird.
 
 
 *    *   EETS
@@ -13972,12 +14274,7 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   EETS-Anbieter
 
-    *   Siehe Anbieter.
-
-
-*    *   EETS-Gebiet
-
-    *   Mautgebiet, für das die Richtlinie 2004/52/EG gilt.
+    *   Siehe Anbieter
 
 
 *    *   EETS-Gebiet BFStrMG
@@ -13986,32 +14283,36 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
         erhoben wird.
 
 
+*    *   Fahrzeuggerät
+
+    *   Auch: Bordgerät
+
+
 *    *   Gebrauchstauglichkeit
 
     *   Fähigkeit von im EETS integrierten Interoperabilitätskomponenten,
         während des Betriebs in Verbindung mit dem System des Mauterhebers ein
         bestimmtes Leistungsniveau zu erreichen und aufrechtzuerhalten. Dies
         entspricht der Erfüllung der technischen Vorgaben, die in den Vorgaben
-        für das Gebiet BFStrMG definiert sind.
+        für das EETS-Gebiet definiert sind.
 
 
 *    *   Kapitalintakthalteerklärung
 
-    *   Verpflichtung der Gesellschafter, gesamt- und einzelschuldnerisch
-        weiteres Eigenkapital bereitzustellen.
+    *   Verpflichtung der Gesellschafter eines Unternehmens, gesamt- und
+        einzelschuldnerisch weiteres Eigenkapital bereitzustellen.
 
 
 *    *   Maut
 
     *   Gebühr für die Benutzung des mautpflichtigen Streckennetzes durch
-        schwere Nutzfahrzeuge auf der Grundlage des BFStrMG.
+        schwere Nutzfahrzeuge auf der Grundlage des BFStrMG
 
 
 *    *   Mautdienstregister
 
-    *   Auch: EETS-Register
-        Nationales elektronisches Mautregister zum EETS gemäß Artikel 19 der
-        Entscheidung 2009/750/EG.
+    *   Auch: EETS-Register Nationales elektronisches Mautregister zum EETS
+        gemäß Artikel 21 der Richtlinie (EU) 2019/520 und § 21 MautSysG.
 
 
 *    *   Mautdienst-Teilsystem
@@ -14022,29 +14323,42 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   Mauterheber
 
-    *   Englisch: Toll Charger.
-        Eine öffentliche oder private Stelle, die für den Verkehr von
-        Fahrzeugen in einem Mautgebiet Maut erhebt.
+    *   Englisch: Toll Charger
+        Instanz, welche die Einnahmen aus der Straßenmaut beansprucht. In
+        Deutschland übernimmt diese Rolle das BAG. Die Toll Collect GmbH ist
+        mit Teilen dieser Rolle beliehen.
+
+
+*    *   Mauterhebungsdienst
+
+    *   Der vom nationalen Mautbetreiber im Auftrag des Mauterhebers
+        betriebene Mauterhebungsdienst (MED) führt basierend auf den von EETS-
+        Anbietern übermittelten GNSS-Fahrspuren und Fahrzeugparametern die
+        Erkennung, Tarifierung und Fahrtenbildung von Befahrungen des
+        mautpflichtigen Streckennetzes durch.
 
 
 *    *   MautSysG
 
-    *   Mautsystemgesetz.
+    *   Mautsystemgesetz
 
 
 *    *   Mauttransaktion
 
-    *   Einzelner Erhebungsvorgang in einem elektronischen
-        Mauterhebungssystem.
+    *   Einzelner Erhebungsvorgang in einem elektronischen Mauterhebungssystem
 
 
 *    *   Muster-Zulassungsvertrag
 
-    *   Siehe Zulassungsvertrag.
+    *   Siehe Zulassungsvertrag
 
 
-*    *   Nationales duales
-        Mauterhebungssystem
+*    *   Nationaler Betreiber
+
+    *   Siehe Betreibergesellschaft
+
+
+*    *   Nationales duales Mauterhebungssystem
 
     *   Umfasst alle Einrichtungen und Prozesse des Betreibers gemäß § 4
         Absatz 3 BFStrMG zur Erhebung der Maut im gesamten mautpflichtigen
@@ -14053,8 +14367,8 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   Notifizierte Stelle
 
-    *   Vom Mitgliedsstaat benannte notifizierte Stelle mit den in Artikel 17
-        der Entscheidung 2009/750/EG beschriebenen Aufgaben und
+    *   Vom Mitgliedsstaat benannte notifizierte Stelle mit den in der
+        Durchführungsverordnung (EU) 2020/204 beschriebenen Aufgaben und
         Zuständigkeiten.
 
 
@@ -14073,8 +14387,7 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
         Geräte oder Funkanwendungen stören.
 
 
-*    *   Verfahren zur Feststellung der
-        Gebrauchstauglichkeit
+*    *   Verfahren zur Feststellung der Gebrauchstauglichkeit
 
     *   Summe aller Aktivitäten des Mauterhebers, eines EETS-Anbieters und
         gegebenenfalls einer benannten Stelle, die erforderlich sind, um für
@@ -14082,8 +14395,7 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
         Gebrauchstauglichkeit zu erbringen.
 
 
-*    *   Verfahren zur Prüfung
-        der Erfüllung der wirtschaftlichen Vorgaben
+*    *   Verfahren zur Prüfung der Erfüllung der wirtschaftlichen Vorgaben
 
     *   Summe aller Aktivitäten des Mauterhebers und eines EETS-Anbieters, die
         erforderlich sind, um den Nachweis der Einhaltung der wirtschaftlichen
@@ -14092,9 +14404,10 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   Vermittlungsstelle
 
-    *   Vermittlungsstelle mit der Aufgabe, die Vermittlung bei Streitigkeiten
-        im Zusammenhang mit der Zulassung nach § 10 MautSysG und der
-        beschränkten Zulassung nach § 11 MautSysG zu erleichtern.
+    *   Vermittlungsstelle nach Artikel 11 der Richtlinie (EU) 2019/520 und §
+        28 MautSysG mit der Aufgabe, die Vermittlung bei Streitigkeiten im
+        Zusammenhang mit der Zulassung nach § 10 MautSysG und der beschränkten
+        Zulassung nach § 11 MautSysG zu erleichtern.
 
 
 *    *   Vorgaben für das EETS-Gebiet BFStrMG
@@ -14104,26 +14417,26 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
         verbindlich erlassene Vorgaben für das EETS-Gebiet BFStrMG. Diese
         umfassen:
 
-        –   wirtschaftliche Vorgaben
+        -   wirtschaftliche Vorgaben
 
 
-        –   finanzielle Vorgaben
+        -   finanzielle Vorgaben
 
 
-        –   Vorgaben zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
+        -   Vorgaben zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen
 
 
-        –   technisch-organisatorische Vorgaben
+        -   technisch-organisatorische Vorgaben
 
 
-        –   Vorgaben zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
+        -   Vorgaben zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des
             Mauterhebers
 
 
-        –   Vorgaben zu Mauterhebung, Kontrolle und Überwachung
+        -   Vorgaben zu Mauterhebung, Kontrolle und Überwachung
 
 
-        –   Vorgaben zu Qualitätsanforderungen
+        -   Vorgaben zu Qualitätsanforderungen
 
 
 
@@ -14131,15 +14444,20 @@ zur Vereinbarung über die Durchführung des Prüfverfahrens
 
 *    *   Zulassungsvertrag
 
-    *   Vertrag für die Zulassung zum EETS im EETS-Gebiet BFStrMG.
+    *   Auch: EETS-Zulassungsvertrag
+        Der Vertrag über die Durchführung des Europäischen elektronischen
+        Mautdienstes auf Bundesfernstraßen im Geltungsbereich des
+        Bundesfernstraßenmautgesetzes wird zwischen der Bundesrepublik
+        Deutschland, vertreten durch das Bundesministerium für Verkehr und
+        digitale Infrastruktur (BMVI), dieses vertreten durch das Bundesamt
+        für Güterverkehr (BAG) und dem EETS-Anbieter geschlossen.
 
 
 
-zur Vereinbarung über die Durchführung des Prüfverfahrens
 
-## Anlage 7 zur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+## Anlage 7 zur Prüfvereinbarung
 
-(Fundstelle: BAnz AT 27.03.2018 V 2)
+(Fundstelle: BAnz AT 29.10.2021 V 2)
 
 ## **Erklärungen/Schriftwechsel**
 

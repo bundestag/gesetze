@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2021-07-16
 
 Fundstelle
-:   BGBl I: 2021, 2941, 2942, (4114)
+:   BGBl I: 2021, 2941, 2942 (4114)
 
 
 ## § 1 Grundsatz der offenen Daten

@@ -84,10 +84,12 @@ Betriebskosten im Sinne von § 1 sind:
 4.  die Kosten
 
     a)  des Betriebs der zentralen Heizungsanlage einschließlich der
-        Abgasanlage, hierzu gehören die Kosten der verbrauchten Brennstoffe
-        und ihrer Lieferung, die Kosten des Betriebsstroms, die Kosten der
-        Bedienung, Überwachung und Pflege der Anlage, der regelmäßigen Prüfung
-        ihrer Betriebsbereitschaft und Betriebssicherheit einschließlich der
+        Abgasanlage,
+
+        hierzu gehören die Kosten der verbrauchten Brennstoffe und ihrer
+        Lieferung, die Kosten des Betriebsstroms, die Kosten der Bedienung,
+        Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer
+        Betriebsbereitschaft und Betriebssicherheit einschließlich der
         Einstellung durch eine Fachkraft, der Reinigung der Anlage und des
         Betriebsraums, die Kosten der Messungen nach dem Bundes-
         Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten

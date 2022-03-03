@@ -4481,6 +4481,10 @@ Hierzu zählen
     äußeren Körperhöhlen. Geschlechtskrankheiten.
 
 
+-   Entnahme und Übertragung von Organen und Gewebe, insbesondere die
+    medizinischen, rechtlichen und ethischen Voraussetzungen.
+
+
 -   Wundbehandlung. Asepsis, Antisepsis, Fehlbildungen, Krankheiten und
     Verletzungen von Kopf, Hals, Wirbelsäule, Thorax, Abdomen,
     Extremitäten, Herz, Gefäßen, Nieren, ableitenden Harnwegen, äußeren

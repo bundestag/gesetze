@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Zuletzt geändert Art. 4 V v. 15.9.2020 II 699
 Änderung durch
-:   Art. 5 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.7.2021 noch nicht berücksichtigt
+:   Art. 5 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 4 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
@@ -86,6 +86,21 @@ jeweilige Kilometerangabe aus.
 
 ## Art 1a (weggefallen)
 
+
+
+## Art 1a Vorschriften über die Schiffsuntersuchung
+
+§ 1.08 Nummer 3 Satzteil vor Buchstabe a und Buchstabe a, § 1.10
+Nummer 1 Buchstabe x und Nummer 2 Satz 7, § 1.21 Nummer 4 und § 4.07
+Nummer 1 Satz 2 Buchstabe b zweiter Spiegelstrich der
+Moselschifffahrtspolizeiverordnung – Anlage zu dieser Verordnung –
+sowie die nach Artikel 2 Absatz 2 erlassenen Rechtsverordnungen sind
+mit der Maßgabe anzuwenden, dass sich die Angabe
+„Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der
+Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019
+(BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in
+der jeweils geltenden und anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
@@ -633,8 +648,8 @@ oder fahrlässig als Schiffsführer
 
 
 24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder
-    ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2
-    nicht gekennzeichnet ist,
+    ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht
+    gekennzeichnet ist,
 
 
 25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter
@@ -989,8 +1004,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
         2\.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
 
 
-    j)  dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet
-        ist,
+    j)  dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 
     k)  dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar

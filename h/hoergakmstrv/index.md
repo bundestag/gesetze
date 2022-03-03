@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 895
 
+V aufgeh. durch
+:   § 15 Satz 2 V 7110-3-209 v. 17.2.2022 I 207 mWv 1.7.2022
+
 Zuletzt geändert durch
 :   Art. 2 Abs. 13 V v. 18.1.2022 I 39
+
+Ersetzt durch
+:   V 7110-3-209 v. 17.2.2022 I 207 (HörAkMstrV)
 
 
 ## Eingangsformel
