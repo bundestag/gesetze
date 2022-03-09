@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1133;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 20.11.2019 I 1724
-
-Änderung durch
-:   Art. 42 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 42 G v. 10.8.2021 I 3436
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

@@ -2592,9 +2592,17 @@ Die Treibhausgasemissionen von fossilen Otto- und fossilen
 Dieselkraftstoffen berechnen sich durch Multiplikation der Werte, die
 durch eine Verordnung nach § 37d Absatz 2 Satz 1 Nummer 9 festgelegt
 werden, mit der vom Verpflichteten in Verkehr gebrachten energetischen
-Menge fossilen Otto- und fossilen Dieselkraftstoffs. Biokraftstoffe
-werden wie fossile Otto- oder fossile Dieselkraftstoffe behandelt,
-sofern
+Menge fossilen Otto- und fossilen Dieselkraftstoffs. Die
+Treibhausgasemissionen von Biokraftstoffen berechnen sich durch
+Multiplikation der in den anerkannten Nachweisen nach § 14 der
+Biokraftstoff-Nachhaltigkeitsverordnung vom 30. September 2009 (BGBl.
+I S. 3182), die zuletzt durch Artikel 2 der Verordnung vom 26.
+November 2012 (BGBl. I S. 2363) geändert worden ist, in der jeweils
+geltenden Fassung ausgewiesenen Treibhausgasemissionen in Kilogramm
+Kohlenstoffdioxid-Äquivalent pro Gigajoule mit der vom Verpflichteten
+in Verkehr gebrachten energetischen Menge Biokraftstoffs.
+Biokraftstoffe werden wie fossile Otto- oder fossile Dieselkraftstoffe
+behandelt, sofern
 
 1.  für die Biokraftstoffe anerkannte Nachweise nach § 14 der
     Biokraftstoff-Nachhaltigkeitsverordnung nicht vorgelegt werden,
@@ -3156,9 +3164,9 @@ Kreise (§ 51) durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 7.  die Anrechenbarkeit bestimmter Biokraftstoffe auf die Verpflichtungen
     nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 4 zu
-    begrenzen, sofern die Richtlinie 2009/28/EG eine Begrenzung der
-    Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 3
-    Absatz 4 der Richtlinie (EU) 2018/2001 vorsieht, sowie das
+    begrenzen, sofern die Richtlinie (EU) 2018/2001 eine Begrenzung der
+    Anrechenbarkeit dieser Biokraftstoffe auf das Ziel von Artikel 25
+    Absatz 1 der Richtlinie (EU) 2018/2001 vorsieht, sowie das
     Nachweisverfahren zu regeln,
 
 

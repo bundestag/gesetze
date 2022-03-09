@@ -1202,6 +1202,7 @@ verliehen. Für die Verleihung von Beförderungsämtern gilt, dass
 
 
 
+Weitere Beförderungen sind ausgeschlossen.
 
 (5) Beamtinnen und Beamte, die nach den Absätzen 1 bis 4 ein Amt einer
 höheren Laufbahn verliehen bekommen haben, können auch auf anderen

@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.1.1995 I 114;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 16.10.2020 I 2187
-
-Änderung durch
-:   Art. 41 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 21 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 5.10.2021 I 4607
 
 
 ## Abschnitt I - Das Grundbuch

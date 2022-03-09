@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.6.1994 I 1537;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.11.2020 I 2474
-
-Änderung durch
-:   Art. 29 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 29 G v. 5.10.2021 I 4607
 
 
 ## Erster Teil - Anwendungsbereich

@@ -20,11 +20,17 @@ Stand: Die V tritt gem. § 14 idF d. § 7 V v. 22.12.2021 BAnz AT 22.12.2021 V1 
 Zuletzt geändert durch
 :   Art. 2 V v. 14.1.2022 BAnz AT 14.01.2022 V1
 
+Änderung durch
+:   Art. 1 V v. 1.3.2022 BAnz AT 02.03.2022 V1 mWv 3.3.2022 noch nicht berücksichtigt
+
 Die geltung dieser v ist durch
 :   § 14 idF d. Art. 1 Nr. 2 Buchst. a V v. 8.11.2021 BAnz AT 08.11.2021 V1 über den 31.12.2021 hinaus bis zum Ablauf des 15.1.2022 verlängert worden
 
 Die geltung dieser v ist durch
 :   § 14 idF d. Art. 1 Nr. 7 V v. 22.12.2021 BAnz AT 22.12.2021 V1 über den 15.1.2022 hinaus bis zum Ablauf des 3.3.2022 verlängert worden
+
+Die geltung dieser v ist durch
+:   § 14 idF d. Art. 1 Nr. 4 V v. 1.3.2022 BAnz AT 02.03.2022 V1 über den 3.3.2022 hinaus bis zum Ablauf des 19.3.2022 verlängert worden
 
 Stand: Ersetzt V 2126-13-32 v. 30.7.2021 BAnz AT 30.07.2021 V1 (CoronaEinreiseV 2021-08)
 

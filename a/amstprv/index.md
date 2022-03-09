@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2149
 
+Geändert durch
+:   Art. 2 Abs. 97 V v. 18.1.2022 I 39
+
 
 ## Eingangsformel
 
@@ -462,9 +465,8 @@ mit jeweils mindestens 50 Punkten.
 
 ## § 6 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen I und II der Meisterprüfung bestimmt
 sich nach den für die einzelnen Gewerbe der Anlagen A und B zur

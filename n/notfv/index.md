@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 576
 
 Zuletzt geändert durch
-:   Art. 5 G v. 25.6.2021 I 2154
-
-Änderung durch
-:   Art. 3 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 17.12.2021 I 5219
 
 
 ## Eingangsformel

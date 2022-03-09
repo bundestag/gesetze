@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2159
 
-Änderung durch
-:   Art. 29 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 29 G v. 27.7.2021 I 3146
 
 
 ## § 1 Notifizierende Behörde

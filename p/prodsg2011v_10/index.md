@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2668
 
-Änderung durch
-:   Art. 24 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 24 G v. 27.7.2021 I 3146
 
 Stand: Ersetzt V 8053-4-13-1 v. 9.7.2004 I 1605 (GPSGV 10)
 

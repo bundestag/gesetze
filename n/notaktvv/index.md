@@ -15,20 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2246
 
-Geändert durch
-:   Art. 24 Abs. 5 G v. 25.6.2021 I 2154
-
-Änderung durch
-:   Art. 1 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 6 G v. 21.12.2021 II 1282
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

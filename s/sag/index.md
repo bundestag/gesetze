@@ -10241,147 +10241,16 @@ Geschäftsaktivitäten einer zentralen Gegenpartei zu berücksichtigen
 sind.
 
 
-### § 152b Ausgestaltung von Sanierungsplänen
-
-(1) Vorbehaltlich vereinfachter Anforderungen nach § 19 Absatz 1
-Nummer 1 und in Abhängigkeit der Einbindung der zentralen Gegenpartei
-in eine Gruppe hat der Sanierungsplan neben den in § 13 Absatz 2
-genannten wesentlichen Bestandteilen insbesondere zu enthalten:
-
-1.  eine Darstellung von Szenarien für schwerwiegende Belastungen, die
-    einen Krisenfall auslösen können, und deren Auswirkungen insbesondere
-    auf die kritischen Funktionen der zentralen Gegenpartei; die Szenarien
-    sollen Ereignisse beinhalten, die
-
-    a)  den Ausfall von einem oder mehreren Clearingmitgliedern
-        (Ausfallereignisse),
-
-
-    b)  Verluste infolge von Geschäfts-, Verwahrungs-, Investitions-,
-        Rechtsrisiken oder operationellen Risiken sowie Liquiditätsrisiken der
-        zentralen Gegenpartei (Nichtausfallereignisse) und
-
-
-    c)  eine Kombination aus Ausfall- und Nichtausfallereignissen abbilden,
+### § 152b (weggefallen)
 
 
 
-
-
-2.  eine Aufstellung der Maßnahmen, die die zentrale Gegenpartei getroffen
-    hat oder zu treffen beabsichtigt, um die in den verschiedenen
-    Szenarien identifizierten Risiken einschließlich möglicher
-    Liquiditätsrisiken zu mindern,
-
-
-3.  eine Aufstellung der Maßnahmen, die die zentrale Gegenpartei getroffen
-    hat oder zu treffen beabsichtigt, um bei einem Ausfallereignis
-
-    a)  die Eigenhandelspositionen eines ausgefallenen Clearingmitglieds
-        abzuwickeln und die Kundenpositionen eines ausgefallenen
-        Clearingmitglieds zu übertragen oder abzuwickeln,
-
-
-    b)  ein ausgeglichenes Buch der im System zur Sicherung der Erfüllung der
-        Geschäfte erstellten Clearingpositionen wiederherzustellen,
-
-
-    c)  den nichtausgefallenen Clearingmitgliedern Verluste, die nicht mit
-        vorfinanzierten Finanzmitteln abgedeckt sind, in vollem Umfang
-        zuzuweisen sowie
-
-
-    d)  die Finanzmittel der zentralen Gegenpartei wieder aufzufüllen,
+### § 152c (weggefallen)
 
 
 
+### § 152d (weggefallen)
 
-
-4.  eine Aufstellung angemessener Maßnahmen, die die zentrale Gegenpartei
-    getroffen hat oder zu treffen beabsichtigt, um Verluste aus
-    Nichtausfallereignissen auszugleichen,
-
-
-5.  eine Darstellung, ob und in welchem Umfang ein Mutterunternehmen oder
-    ein sonst mit der zentralen Gegenpartei verbundenes Unternehmen
-    verpflichtet ist, Verluste der zentralen Gegenpartei auszugleichen
-    oder eine gruppeninterne finanzielle Unterstützung im Sinne von § 22
-    zu gewähren.
-
-
-
-
-(2) Sanierungspläne müssen in das Risikomanagement der zentralen
-Gegenpartei integriert sein.
-
-(3) Die zentrale Gegenpartei hat die Durchführung der im
-Sanierungsplan aufgeführten Maßnahmen sicherzustellen. Zu diesem Zweck
-hat die zentrale Gegenpartei ihre Clearingbedingungen und damit in
-Zusammenhang stehende vertragliche Vereinbarungen mit
-Clearingmitgliedern, verbundenen Finanzmarktinfrastrukturen oder
-Handelsplätzen so zu gestalten, dass die aus den Clearingbedingungen
-oder den damit in Zusammenhang stehenden vertraglichen Vereinbarungen
-entstehenden finanziellen oder vertraglichen Ansprüche der zentralen
-Gegenpartei rechtlich durchsetzbar sind.
-
-(4) Die zentrale Gegenpartei soll sicherstellen, dass die
-Clearingbedingungen und damit in Zusammenhang stehenden vertraglichen
-Vereinbarungen nach Absatz 3 auch in den Rechtsordnungen, in denen die
-Clearingmitglieder ihren Sitz haben, jederzeit durchsetzbar sind.
-
-
-### § 152c Bewertung von Sanierungsplänen
-
-Die Aufsichtsbehörde berücksichtigt bei der Bewertung des
-Sanierungsplans der zentralen Gegenpartei insbesondere
-
-1.  die Angemessenheit des bei der zentralen Gegenpartei eingerichteten
-    Ausfallfonds im Sinne des Artikels 42 der Verordnung (EU) Nr.
-    648/2012, die vorfinanzierten Finanzmittel im Sinne des Artikels 43
-    Absatz 1 der Verordnung (EU) Nr. 648/2012 und das Wasserfallprinzip im
-    Sinne des Artikels 45 der Verordnung (EU) Nr. 648/2012,
-
-
-2.  die Anreize, die durch die im Sanierungsplan dargestellten
-    Sanierungsinstrumente und durch deren vorgesehenen Einsatz für ein
-    adäquates Risikomanagement der zentralen Gegenpartei, der
-    Clearingmitglieder und deren Kunden im Sinne des Artikels 2 Nummer 15
-    der Verordnung (EU) Nr. 648/2012 gesetzt werden, und
-
-
-3.  die Auswirkungen, die die Umsetzung des Sanierungsplans auf die
-    Clearingmitglieder und deren Kunden sowie auf das Finanzsystem in den
-    relevanten Mitgliedstaaten und in der Union insgesamt hätte.
-
-
-
-
-
-### § 152d Maßnahmen bei Mängeln von Sanierungsplänen
-
-(1) Gelangt die Aufsichtsbehörde zu der Einschätzung, dass der
-Sanierungsplan nicht den Anforderungen des § 13 oder des § 152b
-entspricht oder dass seiner Umsetzung potentielle Hindernisse
-entgegenstehen, teilt die Aufsichtsbehörde dies der zentralen
-Gegenpartei mit und fordert sie auf, innerhalb von zwei Monaten nach
-Erhalt der Mitteilung einen überarbeiteten Sanierungsplan vorzulegen.
-Vor der Anforderung zur Vorlage eines überarbeiteten Sanierungsplans
-ist die zentrale Gegenpartei anzuhören.
-
-(2) In dem überarbeiteten Sanierungsplan hat die zentrale Gegenpartei
-darzulegen, wie die von der Aufsichtsbehörde festgestellten Mängel
-beseitigt werden.
-
-(3) Legt die zentrale Gegenpartei keinen überarbeiteten Sanierungsplan
-vor, der geeignet ist, die Anforderung des § 13 oder des § 152b zu
-erfüllen, oder gelangt die Aufsichtsbehörde zu dem Schluss, dass die
-ursprünglich von ihr aufgezeigten Mängel oder potentiellen Hindernisse
-mit dem überarbeiteten Sanierungsplan nicht in angemessener Weise
-behoben werden, kann die Aufsichtsbehörde nach Anhörung der zentralen
-Gegenpartei neben den in § 16 Absatz 5 Satz 1 genannten Maßnahmen von
-der zentralen Gegenpartei gemäß § 16 Absatz 4 insbesondere verlangen,
-die Clearingbedingungen und die damit in Zusammenhang stehenden
-vertraglichen Vereinbarungen soweit erforderlich zu ändern.
 
 
 ### § 152e Erstellung und Aktualisierung von Abwicklungsplänen

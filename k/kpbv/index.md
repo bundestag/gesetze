@@ -17,7 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2333
 
-Stand: Die §§ 5 bis 12 sind gem. Art. 13 Abs. 2 u. 3 G. v. 12.7.2017 I 2333 iVm Bek. v. 7.10.2021 I 4648 mWv 31.1.2022 in Kraft getreten.
+Stand: Die §§ 5 bis 12 sind gem. Art. 13 Abs. 2 u. 3 G v. 12.7.2017 I 2333 iVm Bek. v. 7.10.2021 I 4648 mWv 31.1.2022 in Kraft getreten.
 [^BJNR233300017_01]:     Diese Verordnung dient der Durchführung der Verordnung (EU) Nr.
     536/2014 des Europäischen Parlaments und des Rates vom 16. April 2014
     über klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
@@ -245,15 +245,309 @@ registriert ist.
 ## Abschnitt 4 - Genehmigungsverfahren
 
 
-### (XXXX) §§ 5 bis 11 (zukünftig in Kraft)
+### § 5 Validierung
 
+(1) Die zuständige Ethik-Kommission gibt ihre Stellungnahme nach § 40
+Absatz 3 Satz 2 des Arzneimittelgesetzes oder ihre Bewertung nach § 40
+Absatz 3 Satz 5 des Arzneimittelgesetzes gegenüber der zuständigen
+Bundesoberbehörde innerhalb von acht Tagen, nachdem der Antrag auf
+Genehmigung einer klinischen Prüfung bei Menschen über das EU-Portal
+nach Artikel 80 der Verordnung (EU) Nr. 536/2014 eingereicht wurde,
+ab, wenn die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union ist. Ist die Bundesrepublik
+Deutschland betroffener Mitgliedstaat der Europäischen Union, hat die
+Abgabe innerhalb von vier Tagen nach Einreichung des Antrags auf
+Genehmigung einer klinischen Prüfung bei Menschen zu erfolgen. Im Fall
+einer Mitteilung an den Sponsor nach Artikel 5 Absatz 5 Unterabsatz 1
+der Verordnung (EU) Nr. 536/2014 gibt die zuständige Ethik-Kommission
+ihre Stellungnahme nach § 40 Absatz 3 Satz 2 des Arzneimittelgesetzes
+oder ihre Bewertung nach § 40 Absatz 3 Satz 5 des Arzneimittelgesetzes
+zu der Stellungnahme des Sponsors oder zu dem vom Sponsor ergänzten
+Antragsdossier innerhalb von drei Tagen nach deren Eingang über das
+EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014 gegenüber
+der zuständigen Bundesoberbehörde ab.
+
+(2) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, gibt die zuständige
+Bundesoberbehörde gegenüber dem Sponsor die Mitteilungen nach Artikel
+5 Absatz 5 Unterabsatz 1 und 2 der Verordnung (EU) Nr. 536/2014 ab.
+
+(3) Ist die Bundesrepublik Deutschland betroffener Mitgliedstaat der
+Europäischen Union, gibt die zuständige Bundesoberbehörde gegenüber
+dem berichterstattenden Mitgliedstaat der Europäischen Union die
+Anmerkungen nach Artikel 5 Absatz 3 Unterabsatz 2 der Verordnung (EU)
+Nr. 536/2014 ab.
+
+
+### § 6 Prüfung der nach Artikel 6 der Verordnung (EU) Nr. 536/2014 in Teil I des Bewertungsberichts zu behandelnden Aspekte
+
+(1) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union und ist kein anderer
+Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung
+der klinischen Prüfung bei Menschen beteiligt, soll die zuständige
+Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz 2 des
+Arzneimittelgesetzes innerhalb von 21 Tagen ab dem Tag der Validierung
+im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 an
+die zuständige Bundesoberbehörde übermitteln. Die Stellungnahme muss
+spätestens am 40. Tag nach dem Tag der Validierung im Sinne von
+Artikel 5 Absatz 6 der Verordnung (EU) Nr. 536/2014 bei der
+zuständigen Bundesoberbehörde eingehen.
+
+(2) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union und ist mindestens ein weiterer
+Mitgliedstaat der Europäischen Union an dem Verfahren zur Genehmigung
+einer klinischen Prüfung bei Menschen beteiligt, übermittelt die
+zuständige Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz
+2 des Arzneimittelgesetzes innerhalb von 21 Tagen ab dem Tag der
+Validierung im Sinne von Artikel 5 Absatz 6 der Verordnung (EU) Nr.
+536/2014 an die zuständige Bundesoberbehörde.
+
+(3) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, kann die zuständige
+Bundesoberbehörde im Benehmen mit der zuständigen Ethik-Kommission die
+Frist nach Maßgabe des Artikels 6 Absatz 7 der Verordnung (EU) Nr.
+536/2014 verlängern. Die zuständige Bundesoberbehörde teilt der
+zuständigen Ethik-Kommission die entsprechend verlängerten Fristen für
+ihre Stellungnahme mit.
+
+(4) Ist die Bundesrepublik Deutschland betroffener Mitgliedstaat der
+Europäischen Union, übermittelt die zuständige Ethik-Kommission die
+Stellungnahme nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes
+innerhalb von sieben Tagen nach Abschluss der Phase der Erstbewertung
+durch den berichterstattenden Mitgliedstaat der Europäischen Union
+nach Artikel 6 Absatz 5 Unterabsatz 1 Buchstabe a der Verordnung (EU)
+Nr. 536/2014 an die zuständige Bundesoberbehörde.
+
+(5) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, ist die zuständige Ethik-
+Kommission von der zuständigen Bundesoberbehörde in die Phase der
+Konsolidierung im Sinne von Artikel 6 Absatz 5 Unterabsatz 1 Buchstabe
+c der Verordnung (EU) Nr. 536/2014 einzubeziehen. In diesem Fall
+übermittelt die zuständige Ethik-Kommission ihre Stellungnahme nach §
+40 Absatz 4 Satz 2 des Arzneimittelgesetzes innerhalb von vier Tagen
+nach Abschluss der Phase der koordinierten Überprüfung nach Artikel 6
+Absatz 5 Unterabsatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014 an
+die zuständige Bundesoberbehörde.
+
+(6) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, kann die zuständige
+Bundesoberbehörde den Sponsor nach Artikel 6 Absatz 8 Unterabsatz 1
+der Verordnung (EU) Nr. 536/2014 um zusätzliche Informationen zu den
+in Teil I des Bewertungsberichts zu behandelnden Aspekten ersuchen.
+
+(7) Hat der berichterstattende Mitgliedstaat der Europäischen Union
+den Sponsor um zusätzliche Informationen nach Artikel 6 Absatz 8
+Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 ersucht, übermittelt
+die zuständige Ethik-Kommission ihre Stellungnahme nach § 40 Absatz 4
+Satz 2 des Arzneimittelgesetzes zu allen zusätzlich vom Sponsor
+übermittelten Informationen innerhalb von acht Tagen an die zuständige
+Bundesoberbehörde, nachdem die zusätzlichen Informationen des Sponsors
+über das EU-Portal nach Artikel 80 der Verordnung (EU) Nr. 536/2014
+eingegangen sind.
+
+(8) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, ist die zuständige Ethik-
+Kommission von der zuständigen Bundesoberbehörde auch in die Phase der
+weiteren Konsolidierung im Sinne von Artikel 6 Absatz 8 Unterabsatz 4
+der Verordnung (EU) Nr. 536/2014 einzubeziehen. Die zuständige Ethik-
+Kommission übermittelt ihre Stellungnahme nach § 40 Absatz 4 Satz 2
+des Arzneimittelgesetzes im Rahmen dieser weiteren Konsolidierung
+innerhalb von vier Tagen nach Abschluss der koordinierten Überprüfung
+im Sinne von Artikel 6 Absatz 8 Unterabsatz 4 der Verordnung (EU) Nr.
+536/2014 an die zuständige Bundesoberbehörde.
+
+
+### § 7 Prüfung der nach Artikel 7 der Verordnung (EU) Nr. 536/2014 in Teil II des Bewertungsberichts zu behandelnden Aspekte
+
+(1) Die zuständige Ethik-Kommission kann den Sponsor nach Artikel 7
+Absatz 2 Unterabsatz 2, Absatz 3 Unterabsatz 5 der Verordnung (EU) Nr.
+536/2014 um zusätzliche Informationen zu den in Teil II des
+Bewertungsberichts zu behandelnden Aspekten ersuchen.
+
+(2) Die zuständige Ethik-Kommission übermittelt der zuständigen
+Bundesoberbehörde für die Erstellung der Entscheidung nach Artikel 8
+Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 elektronisch
+ein klares Votum im Sinne einer Zustimmung, einer Zustimmung mit
+Auflagen im Sinne des Artikels 8 Absatz 1 Unterabsatz 3 der Verordnung
+(EU) Nr. 536/2014 oder einer Ablehnung der Vertretbarkeit der
+Durchführung der klinischen Prüfung bei Menschen zu den in Teil II des
+Bewertungsberichts zu behandelnden Aspekten sowie eine entsprechende
+Begründung.
+
+
+### § 8 Hinzufügung eines zusätzlichen Mitgliedstaats der Europäischen Union
+
+(1) Wünscht der Sponsor eine genehmigte klinische Prüfung bei Menschen
+nach Artikel 14 der Verordnung (EU) Nr. 536/2014 auf die
+Bundesrepublik Deutschland auszuweiten, übermittelt die zuständige
+Ethik-Kommission ihre Stellungnahme nach § 40 Absatz 4 Satz 2 des
+Arzneimittelgesetzes in Verbindung mit § 40c Absatz 1 des
+Arzneimittelgesetzes innerhalb von 42 Tagen nach dem Tag der
+Einreichung des Antrags nach Artikel 14 Absatz 1 der Verordnung (EU)
+Nr. 536/2014 an die zuständige Bundesoberbehörde.
+
+(2) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, kann die zuständige
+Bundesoberbehörde den Sponsor nach Artikel 14 Absatz 6 Unterabsatz 1
+der Verordnung (EU) Nr. 536/2014 um zusätzliche Informationen zu den
+in Teil I des Bewertungsberichts zu behandelnden Aspekten ersuchen.
+
+(3) Wünscht der Sponsor eine genehmigte klinische Prüfung bei Menschen
+nach Artikel 14 der Verordnung (EU) Nr. 536/2014 auf die
+Bundesrepublik Deutschland auszuweiten, kann die zuständige Ethik-
+Kommission den Sponsor nach Artikel 14 Absatz 7 Satz 2, Absatz 8
+Unterabsatz 5 der Verordnung (EU) Nr. 536/2014 um zusätzliche
+Informationen zu den in Teil II des Bewertungsberichts zu behandelnden
+Aspekten ersuchen.
+
+(4) Die zuständige Ethik-Kommission übermittelt der zuständigen
+Bundesoberbehörde für die Erstellung der Entscheidung nach Artikel 14
+Absatz 3 der Verordnung (EU) Nr. 536/2014 elektronisch ein klares
+Votum im Sinne einer Zustimmung, einer Zustimmung mit Auflagen im
+Sinne des Artikels 14 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr.
+536/2014 oder einer Ablehnung der Vertretbarkeit der Durchführung der
+klinischen Prüfung bei Menschen zu den in Teil II des
+Bewertungsberichts zu behandelnden Aspekten sowie eine entsprechende
+Begründung.
+
+
+### § 9 Wesentliche Änderung einer klinischen Prüfung bei Menschen
+
+(1) Die zuständige Ethik-Kommission gibt bei einem Antrag auf
+Genehmigung einer wesentlichen Änderung einer klinischen Prüfung bei
+Menschen nach den Artikeln 15 bis 24 der Verordnung (EU) Nr. 536/2014,
+der Aspekte betrifft, die in Teil I des Bewertungsberichts zu
+behandeln sind, ihre Stellungnahme nach § 40 Absatz 3 Satz 2 des
+Arzneimittelgesetzes in Verbindung mit § 40c Absatz 1 des
+Arzneimittelgesetzes gegenüber der zuständigen Bundesoberbehörde
+innerhalb von vier Tagen, nachdem der Antrag über das EU-Portal nach
+Artikel 80 der Verordnung (EU) Nr. 536/2014 eingereicht wurde, ab,
+wenn die Bundesrepublik Deutschland berichterstattender Mitgliedstaat
+der Europäischen Union ist. Ist die Bundesrepublik Deutschland
+betroffener Mitgliedstaat der Europäischen Union, hat die Abgabe
+innerhalb von drei Tagen nach Einreichung des Antrags auf Genehmigung
+einer wesentlichen Änderung zu erfolgen.
+
+(2) Ist die Bundesrepublik Deutschland betroffener Mitgliedstaat der
+Europäischen Union, gibt die zuständige Bundesoberbehörde gegenüber
+dem berichterstattenden Mitgliedstaat der Europäischen Union die
+Anmerkungen nach Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU)
+Nr. 536/2014 ab.
+
+(3) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, gibt die zuständige
+Bundesoberbehörde gegenüber dem Sponsor die Mitteilungen nach Artikel
+17 Absatz 4 Unterabsatz 1 und 2 der Verordnung (EU) Nr. 536/2014 ab.
+
+(4) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, übermittelt die zuständige
+Ethik-Kommission die Stellungnahme nach § 40 Absatz 4 Satz 2 des
+Arzneimittelgesetzes in Verbindung mit § 40c Absatz 1 des
+Arzneimittelgesetzes innerhalb von 17 Tagen ab dem Tag der Validierung
+im Sinne von Artikel 17 Absatz 5 der Verordnung (EU) Nr. 536/2014 an
+die zuständige Bundesoberbehörde.
+
+(5) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, kann die zuständige
+Bundesoberbehörde im Benehmen mit der zuständigen Ethik-Kommission die
+Frist nach Maßgabe des Artikels 18 Absatz 5 der Verordnung (EU) Nr.
+536/2014 verlängern. Die zuständige Bundesoberbehörde teilt der
+zuständigen Ethik-Kommission die entsprechend verlängerten Fristen für
+ihre Stellungnahme mit.
+
+(6) Ist die Bundesrepublik Deutschland betroffener Mitgliedstaat der
+Europäischen Union, übermittelt die zuständige Ethik-Kommission die
+Stellungnahme nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes in
+Verbindung mit § 40c Absatz 1 des Arzneimittelgesetzes innerhalb von
+zehn Tagen nach Abschluss der Phase der Erstbewertung durch den
+berichterstattenden Mitgliedstaat der Europäischen Union nach Artikel
+18 Absatz 4 Unterabsatz 1 Buchstabe a der Verordnung (EU) Nr. 536/2014
+an die zuständige Bundesoberbehörde.
+
+(7) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, ist die zuständige Ethik-
+Kommission von der zuständigen Bundesoberbehörde in die Phase der
+Konsolidierung im Sinne von Artikel 18 Absatz 4 Unterabsatz 1
+Buchstabe c der Verordnung (EU) Nr. 536/2014 einzubeziehen. In diesem
+Fall übermittelt die zuständige Ethik-Kommission ihre Stellungnahme
+nach § 40 Absatz 4 Satz 2 des Arzneimittelgesetzes in Verbindung mit §
+40c Absatz 1 des Arzneimittelgesetzes innerhalb von vier Tagen nach
+Abschluss der Phase der koordinierten Überprüfung nach Artikel 18
+Absatz 4 Unterabsatz 1 Buchstabe b der Verordnung (EU) Nr. 536/2014 an
+die zuständige Bundesoberbehörde.
+
+(8) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, kann die zuständige
+Bundesoberbehörde den Sponsor nach Artikel 18 Absatz 6 der Verordnung
+(EU) Nr. 536/2014 um zusätzliche Informationen zu den in Teil I des
+Bewertungsberichts zu behandelnden Aspekten ersuchen.
+
+(9) Hat der berichterstattende Mitgliedstaat der Europäischen Union
+den Sponsor um zusätzliche Informationen nach Artikel 18 Absatz 6
+Unterabsatz 1 der Verordnung (EU) Nr. 536/2014 ersucht, übermittelt
+die zuständige Ethik-Kommission ihre Stellungnahme nach § 40 Absatz 4
+Satz 2 des Arzneimittelgesetzes in Verbindung mit § 40c Absatz 1 des
+Arzneimittelgesetzes zu allen zusätzlich vom Sponsor übermittelten
+Informationen innerhalb von acht Tagen an die zuständige
+Bundesoberbehörde, nachdem die zusätzlichen Informationen des Sponsors
+nach Artikel 18 Absatz 6 Unterabsatz 4 und 6 der Verordnung (EU) Nr.
+536/2014 über das EU-Portal nach Artikel 80 der Verordnung (EU) Nr.
+536/2014 eingegangen sind.
+
+(10) Ist die Bundesrepublik Deutschland berichterstattender
+Mitgliedstaat der Europäischen Union, ist die zuständige Ethik-
+Kommission von der zuständigen Bundesoberbehörde auch in die Phase der
+weiteren Konsolidierung im Sinne von Artikel 18 Absatz 6 Unterabsatz 4
+der Verordnung (EU) Nr. 536/2014 einzubeziehen. Die zuständige Ethik-
+Kommission übermittelt ihre Stellungnahme nach § 40 Absatz 4 Satz 2
+des Arzneimittelgesetzes in Verbindung mit § 40c Absatz 1 des
+Arzneimittelgesetzes im Rahmen dieser weiteren Konsolidierung
+innerhalb von vier Tagen nach Abschluss der koordinierten Überprüfung
+im Sinne von Artikel 18 Absatz 6 Unterabsatz 4 der Verordnung (EU) Nr.
+536/2014 an die zuständige Bundesoberbehörde.
+
+(11) Die zuständige Ethik-Kommission kann den Sponsor nach Artikel 20
+Absatz 6 Unterabsatz 1 und 6 und Artikel 22 Absatz 2 und 3 Unterabsatz
+5 der Verordnung (EU) Nr. 536/2014 um zusätzliche Informationen zu den
+in Teil II des Bewertungsberichts zu behandelnden Aspekten ersuchen.
+
+
+### § 10 Bewertungsverfahren nach Artikel 44 der Verordnung (EU) Nr. 536/2014
+
+Die zuständige Ethik-Kommission übermittelt ihre Bewertung nach § 40c
+Absatz 2 des Arzneimittelgesetzes an die zuständige Bundesoberbehörde.
+
+
+### § 11 Korrekturmaßnahmen
+
+Die zuständige Bundesoberbehörde informiert die zuständige Ethik-
+Kommission über beabsichtigte Korrekturmaßnahmen nach § 42 Absatz 2
+bis 4 des Arzneimittelgesetzes. Die zuständige Ethik-Kommission gibt
+ihre Stellungnahme nach § 42 Absatz 5 des Arzneimittelgesetzes
+innerhalb von sieben Tagen nach dem Tag, an dem sie von der
+zuständigen Bundesoberbehörde informiert wurde, gegenüber der
+zuständigen Bundesoberbehörde ab.
 
 
 ## Abschnitt 5 - Gebühren
 
 
-### § 12 (bedingt zukünftig in Kraft)
+### § 12 Gebühren
 
+(1) Der zuständigen Ethik-Kommission stehen die nach dem in der Anlage
+3 zu § 12 enthaltenen Gebührenverzeichnis festgelegten Gebühren und
+Rahmensätze im Zusammenhang mit klinischen Prüfungen bei Menschen zu.
+
+(2) Im Übrigen gelten für die zuständigen Ethik-
+Kommissionen              die gebührenrechtlichen Regelungen der
+Länder.
+
+(3) Die zuständige Bundesoberbehörde überweist den auf der Grundlage
+von § 40 Absatz 6 Satz 2 des Arzneimittelgesetzes für die zuständige
+Ethik-Kommission vereinnahmten Betrag innerhalb von 21 Tagen nach
+seiner Vereinnahmung und nach Eintritt der Bestandskraft des
+Gebührenbescheides über die Gesamtgebühr an den Träger der zuständigen
+Ethik-Kommission.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
@@ -980,6 +1274,224 @@ Der Bundesrat hat zugestimmt.
 [^F799480_06_BJNR233300017BJNE001700000]: 
 (zu § 12)
 
-### Anlage 3 (bedingt zukünftig in Kraft)
+### Anlage 3 Verzeichnis über die Höhe der Gebühren der Ethik-Kommissionen
+
+(Fundstelle: BGBl. I 2017, 2343)
+
+
+*    *   Nummer
+
+    *   Gebührenpflichtige individuell zurechenbare öffentliche Leistung
+
+    *   Gebühr in Euro
+
+
+*    *   **1**
+
+    *   **Bewertung von Teil I**
+
+    *
+
+*    *   1.1
+
+    *   Mononationale klinische Prüfung bei Menschen oder multinationale
+        klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als
+        betroffenem Mitgliedstaat der Europäischen Union
+
+    *   2 400
+
+
+*    *   1.1.1
+
+    *   Prüfpläne mit integriertem Studienprotokoll für jede zusätzliche
+        Teilstudie
+
+    *   800 bis 2 400
+
+
+*    *   1.2
+
+    *   Multinationale klinische Prüfung bei Menschen mit der Bundesrepublik
+        Deutschland als berichterstattendem Mitgliedstaat der Europäischen
+        Union
+
+    *   3 300
+
+
+*    *   1.2.1
+
+    *   Prüfpläne mit integrierten Studienprotokollen für jede zusätzliche
+        Teilstudie
+
+    *   800 bis 3 300
+
+
+*    *   1.3
+
+    *   Erneute Bewertung bei späterer Hinzuziehung eines betroffenen
+        Mitgliedstaats der Europäischen Union bei einer klinischen Prüfung bei
+        Menschen mit der Bundesrepublik Deutschland als berichterstattendem
+        Mitgliedstaat der Europäischen Union
+
+    *   1 600
+
+
+*    *   1.4
+
+    *   Erneute Bewertung bei späterer Hinzuziehung eines zusätzlichen
+        betroffenen Mitgliedstaats der Europäischen Union bei einer klinischen
+        Prüfung bei Menschen mit der Bundesrepublik Deutschland als
+        betroffenem Mitgliedstaat der Europäischen Union
+
+    *   1 400
+
+
+*    *   **2**
+
+    *   **Bewertung von Teil II und Erstellung des Bewertungsberichts**
+
+    *
+
+*    *   2.1
+
+    *   Bewertung von Teil II und Erstellung des Bewertungsberichts bei
+        gleichzeitiger Einreichung mit Teil I ohne Prüfer und Prüfstellen
+
+    *   2 200
+
+
+*    *   2.1.1
+
+    *   Bewertung von Teil II und Erstellung des Bewertungsberichts bei
+        getrennter Einreichung von Teil I ohne Prüfer und Prüfstellen
+
+    *   2 800
+
+
+*    *   2.2
+
+    *   Einmalige Bewertung der grundsätzlichen Anforderungen an die Eignung
+        der an der klinischen Prüfung bei Menschen mitwirkenden Personen
+
+    *   300
+
+
+*    *   2.2.1
+
+    *   Bewertung des einzelnen Prüfers
+
+    *   55
+
+
+*    *   2.2.2
+
+    *   Je Nachforderung zur Bewertung des einzelnen Prüfers
+
+    *   50
+
+
+*    *   2.3
+
+    *   Einmalige Bewertung der grundsätzlichen Anforderungen an die Eignung
+        der Prüfstelle
+
+    *   300
+
+
+*    *   2.3.1
+
+    *   Bewertung der einzelnen Prüfstelle
+
+    *   100
+
+
+*    *   2.3.2
+
+    *   Je Nachforderung zur Bewertung der einzelnen Prüfstelle
+
+    *   50
+
+
+*    *   **3**
+
+    *   **Bewertung einer wesentlichen Änderung**
+
+    *
+
+*    *   3.1
+
+    *   Wesentliche Änderung zu Teil I
+
+    *
+
+*    *   3.1.1
+
+    *   Mononationale klinische Prüfung bei Menschen oder multinationale
+        klinische Prüfung bei Menschen mit der Bundesrepublik Deutschland als
+        betroffenem Mitgliedstaat der Europäischen Union
+
+    *   300 bis 1 800
+
+
+*    *   3.1.2
+
+    *   Multinationale klinische Prüfung bei Menschen mit der Bundesrepublik
+        Deutschland als berichterstattendem Mitgliedstaat der Europäischen
+        Union
+
+    *   500 bis 2 500
+
+
+*    *   3.2
+
+    *   Wesentliche Änderung zu Teil II
+
+    *   300 bis 900
+
+
+*    *   **4**
+
+    *   **Beteiligung eines externen Sachverständigen für die Bewertung nach
+        Artikel 6 Absatz 7 oder Artikel 18 Absatz 5 der Verordnung (EU) Nr.
+        536/2014**
+
+    *   500
+
+
+*    *   **5**
+
+    *   **Bewertung Jahresbericht**
+
+    *   1 100
+
+
+*    *   **6**
+
+    *   **Wissenschaftliche Beratung vor Antragstellung**
+
+    *   je Mitarbeiter
+        je Stunde
+
+
+*    *   6.1
+
+    *   Verwaltungsmitarbeiter
+
+    *   60
+
+
+*    *   6.2
+
+    *   Wissenschaftlicher Mitarbeiter
+
+    *   90
+
+
+*    *   6.3
+
+    *   Hochschullehrer
+
+    *   105
+
 
 

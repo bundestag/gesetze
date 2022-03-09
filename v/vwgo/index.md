@@ -19,19 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 3a G v. 16.7.2021 I 3026
-
-Änderung durch
-:   Art. 14 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 15 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 16 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 8.10.2021 I 4650 (Nr. 73) ist berücksichtigt
+:   Art. 2 G v. 8.10.2021 I 4650
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

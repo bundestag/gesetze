@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2836
 
+Geändert durch
+:   Art. 2 Abs. 89 V v. 18.1.2022 I 39
+
 Stand: Ersetzt V 7110-3-153 v. 8.5.2003 I 668 (KaFbMstrV 2003)
 
 ## Eingangsformel
@@ -931,9 +934,8 @@ Meisterprüfung ausschlaggebend ist.
 
 ## § 13 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

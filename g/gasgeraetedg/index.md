@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 473
 
-Änderung durch
-:   Art. 30 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 30 G v. 27.7.2021 I 3146
 
 
 ## § 1 Notifizierung von Konformitätsbewertungsstellen

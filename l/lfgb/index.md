@@ -245,7 +245,7 @@ Bedarfsgegenstände sind nicht
     a)  nach § 2 Absatz 2 des Arzneimittelgesetzes als Arzneimittel gelten,
 
 
-[^F818251_02_BJNR261810005BJNE000322116]
+[^F818251_02_BJNR261810005BJNE000324116]
         b)
     *   nach Artikel 2 Nummer 1 und 2 der Verordnung (EU) 2017/745 des
         Europäischen Parlaments und des Rates vom 5. April 2017 über
@@ -275,7 +275,11 @@ Bedarfsgegenstände sind nicht
 
 2.  die in Artikel 1 Absatz 3 der Verordnung (EG) Nr. 1935/2004 genannten
     Materialien und Gegenstände, Überzugs- und Beschichtungsmaterialien
-    und Wasserversorgungsanlagen.
+    und Wasserversorgungsanlagen,
+
+
+3.  veterinärmedizintechnische Produkte im Sinne von § 3 Absatz 3 des
+    Tierarzneimittelgesetzes.
 
 
 
@@ -290,7 +294,7 @@ Bedarfsgegenstände sind nicht
     2010/227/EU der Kommission (ABl. L 117 vom 5.5.2017, S. 176; L 117 vom
     3\.5.2019, S. 11; L 334 vom 27.12.2019, S. 167) in der jeweils
     geltenden Fassung“ ersetzt.
-[^F818251_02_BJNR261810005BJNE000322116]: 
+[^F818251_02_BJNR261810005BJNE000324116]: 
 
 ### § 3 Weitere Begriffsbestimmungen
 
@@ -818,9 +822,9 @@ sind, die
     Nr. 37/2010                    als verbotene Stoffe aufgeführt sind,
 
 
-2.  nicht als Arzneimittel zur Anwendung bei diesen Tieren zugelassen oder
-    registriert sind oder, ohne entsprechende Zulassung oder
-    Registrierung, nicht aufgrund sonstiger arzneimittelrechtlicher
+2.  nicht als Tierarzneimittel zur Anwendung bei diesen Tieren zugelassen
+    oder registriert sind oder, ohne entsprechende Zulassung oder
+    Registrierung, nicht aufgrund sonstiger tierarzneimittelrechtlicher
     Vorschriften bei diesen Tieren angewendet werden dürfen oder
 
 
@@ -1491,7 +1495,7 @@ Behörde.
 
 ### § 19 Verbote zum Schutz vor Täuschung
 
-Es ist verboten, als Verantwortlicher nach Artikel 12 Absatz 2 der
+(1) Es ist verboten, als Verantwortlicher nach Artikel 12 Absatz 2 der
 Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates
 vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von
 Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des
@@ -1523,6 +1527,16 @@ Anforderungen
 
 nicht entspricht, in den Verkehr zu bringen oder für solche
 Futtermittel allgemein oder im Einzelfall zu werben.
+
+(2) Es ist verboten, Futtermittel, deren Kennzeichnung den
+Anforderungen des Artikels 9 Absatz 1 Satz 1 in Verbindung mit Anhang
+III Satz 1 der Verordnung (EU) 2019/4 des Europäischen Parlamentes und
+des Rates vom 11. Dezember 2018 über die Herstellung, das
+Inverkehrbringen und die Verwendung von Arzneifuttermitteln, zur
+Änderung der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments
+und des Rates sowie zur Aufhebung der Richtlinie 90/167/EWG des Rates
+(ABl. L 4 vom 7.1.2019, S. 1; L 162 vom 19.6.2019, S. 28) nicht
+entspricht, in den Verkehr zu bringen.
 
 
 ### § 20 Verbot der krankheitsbezogenen Werbung
@@ -1766,6 +1780,12 @@ mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
         Energiewertes, ihrer Beschaffenheit oder ihrer Zusammensetzung,
 
 
+    8a. die Abgabe von Arzneifuttermitteln und Zwischenerzeugnissen an
+        Tierhalter oder deren Verwendung von einer tierärztlichen
+        Verschreibung abhängig zu machen sowie die Voraussetzungen und das
+        Verfahren für die Verschreibung zu regeln,
+
+
 
 
 
@@ -1796,7 +1816,49 @@ mit § 1 Absatz 3, genannten Zwecke erforderlich ist,
 11. bei dem Herstellen oder Behandeln von Futtermitteln die Verwendung
     bestimmter Stoffe oder Gegenstände oder die Anwendung bestimmter
     Verfahren vorzuschreiben, zu verbieten, zu beschränken oder von einer
-    Zulassung abhängig zu machen.
+    Zulassung abhängig zu machen,
+
+
+12. Werbung für Arzneifuttermittel oder Zwischenerzeugnisse zu verbieten
+    oder zu beschränken, insbesondere von bestimmten Bedingungen abhängig
+    zu machen.
+
+
+
+
+
+### § 23b Weitere Ermächtigungen für Arzneifuttermittel
+
+Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates, soweit es zur Erfüllung der in § 1 Absatz
+1 Nummer 1 oder Nummer 4 Buchstabe a, jeweils auch in Verbindung mit §
+1 Absatz 3, genannten Zwecke erforderlich ist,
+
+1.  für Arzneifuttermittel weitere Regelungen zum Verfahren der
+    Pharmakovigilanz zu erlassen, soweit diese erforderlich sind, um nach
+    Artikel 4 Absatz 4 der Verordnung (EU) 2019/4 das System nach Kapitel
+    IV Abschnitt 5 der Verordnung (EU) 2019/6 des Europäischen Parlaments
+    und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur
+    Aufhebung der Richtlinie 2001/82/EG (ABl. L 4 vom 7.1.2019, S. 43;
+    L 163                    vom 20.6.2019, S. 112; L 326 vom 8.10.2020,
+    S. 15; L 241 vom 8.7.2021, S. 17) umzusetzen,
+
+
+2.  vorzuschreiben, dass Halter von lebenden Tieren im Sinne des § 4
+    Absatz 1 Nummer 1, die diese oder von diesen stammende Erzeugnisse in
+    den Verkehr bringen, zusätzlich zu den Aufzeichnungen entsprechend
+    Artikel 108 der Verordnung (EU) 2019/6
+
+    a)  weitere Aufzeichnungen über den Erwerb, die Aufbewahrung und den
+        Verbleib der Arzneifuttermittel zu führen haben oder
+
+
+    b)  Register oder Nachweise über die Anwendung der Arzneifuttermittel zu
+        führen haben, soweit dies geboten ist, um eine ordnungsgemäße
+        Anwendung der Arzneifuttermittel zu gewährleisten.
+
+
+
 
 
 
@@ -2544,6 +2606,14 @@ ist, Daten, die sie im Rahmen der Überwachung gewonnen haben, anderen
 zuständigen Behörden desselben Landes, den zuständigen Behörden
 anderer Länder, des Bundes oder anderer Mitgliedstaaten oder der
 Europäischen Kommission mitteilen.
+
+(7a) Die zuständigen Behörden können die für die Überwachung des
+Verkehrs mit Tierarzneimitteln zuständigen Behörden desselben Landes,
+anderer Länder oder des Bundes über Sachverhalte unterrichten, die
+ihnen bei der Überwachung der Regelungen über Arzneifuttermittel und
+Zwischenerzeugnisse bekannt geworden sind und deren Kenntnis für die
+Überwachung der Einhaltung der Anforderungen des
+Tierarzneimittelgesetzes erforderlich sind.
 
 (8) Auskünfte, Mitteilungen und Übermittlung von Urkunden und
 Schriftstücken über lebensmittel- und futtermittelrechtliche
@@ -3864,6 +3934,13 @@ ausreichenden oder gleichmäßigen Überwachung,
 
 
         anzuzeigen sind,
+
+
+    d)  dass bestimmte Unterlagen im Zusammenhang mit der Herstellung von
+        Erzeugnissen mitzuführen und vorzulegen sind,
+
+
+    e)  dass bestimmte Beförderungsmittel zu verwenden sind,
 
 
 
@@ -5519,7 +5596,30 @@ bestraft, wer
     3 Absatz 1 der Verordnung (Euratom) 2016/52 festgelegt wird oder
 
 
-12. einer vollziehbaren Anordnung nach Artikel 4 Absatz 4 Buchstabe b
+12. gegen die Verordnung (EU) 2019/4 des Europäischen Parlaments und des
+    Rates vom 11. Dezember 2018 über die Herstellung, das Inverkehrbringen
+    und die Verwendung von Arzneifuttermitteln, zur Änderung der
+    Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates
+    sowie zur Aufhebung der Richtlinie 90/167/EWG des Rates (ABl. L 4 vom
+    7\.1.2019, S. 1; L 162 vom 19.6.2019, S. 28) verstößt, indem er
+
+    a)  entgegen Artikel 16 Absatz 1 Buchstabe a erster Halbsatz ein
+        Arzneifuttermittel an einen Tierhalter liefert,
+
+
+    b)  als Tierarzt entgegen Artikel 16 Absatz 2 eine tierärztliche
+        Verschreibung für Arzneifuttermittel ausstellt oder
+
+
+    c)  als Halter entgegen Artikel 17 Absatz 1, 2 Satz 1 erster Halbsatz oder
+        Absatz 3 ein Arzneifuttermittel bei einem lebenden Tier im Sinne des §
+        4 Absatz 1 Nummer 1 dieses Gesetzes verwendet,
+
+
+
+
+
+13. einer vollziehbaren Anordnung nach Artikel 4 Absatz 4 Buchstabe b
     erster oder zweiter Gedankenstrich oder Artikel 6 Absatz 2 dritter
     oder vierter Gedankenstrich, jeweils auch in Verbindung mit Absatz 3,
     der Delegierten Verordnung (EU) 2019/2090 der Kommission vom 19. Juni
@@ -5533,7 +5633,7 @@ bestraft, wer
     vom 9.12.2019, S. 28) zuwiderhandelt,
 
 
-13. entgegen Artikel 3 Absatz 1 in Verbindung mit Absatz 2 der
+14. entgegen Artikel 3 Absatz 1 in Verbindung mit Absatz 2 der
     Durchführungsverordnung (EU) 2020/1158 der Kommission vom 5. August
     2020 über die Einfuhrbedingungen für Lebens- und Futtermittel mit
     Ursprung in Drittländern nach dem Unfall im Kernkraftwerk Tschernobyl
@@ -5599,7 +5699,7 @@ bestraft, wer
 
 
 2.  § 59 Absatz 1 Nummer 3 bis 8, 10a, 11 bis 21, Absatz 2 Nummer 1, 1a
-    Buchstabe c oder d, Nummer 2 bis 13 oder Absatz 3
+    Buchstabe c oder d, Nummer 2 bis 14 oder Absatz 3
 
 
 
@@ -5717,11 +5817,11 @@ bezeichneten Handlung fahrlässig begeht.
 
     a)  § 13 Absatz 1 Nummer 3 oder Absatz 4 Nummer 1 Buchstabe d, e, f oder
         Buchstabe g, § 14 Absatz 1 Nummer 1, 3 oder 5, Absatz 2 oder 3, § 23
-        Nummer 2 bis 6, § 23a Nummer 5 bis 9, § 28 Absatz 3 Satz 1 Nummer 1
-        oder 3, § 29 Absatz 1 Nummer 1, 2 oder 4 oder Absatz 2, § 32 Absatz 1
-        Nummer 8, auch in Verbindung mit § 28 Absatz 1 Nummer 2, § 34 Satz 1
-        Nummer 7, § 35 Nummer 1, 1a oder Nummer 5, § 36 Satz 1, auch in
-        Verbindung mit Satz 2, § 37 Absatz 1 oder § 46 Absatz 2 oder
+        Nummer 2 bis 6, § 23a Nummer 5 bis 9 oder 12, § 23b, § 28 Absatz 3
+        Satz 1 Nummer 1 oder 3, § 29 Absatz 1 Nummer 1, 2 oder 4 oder Absatz
+        2, § 32 Absatz 1 Nummer 8, auch in Verbindung mit § 28 Absatz 1 Nummer
+        2, § 34 Satz 1 Nummer 7, § 35 Nummer 1, 1a oder Nummer 5, § 36 Satz 1,
+        auch in Verbindung mit Satz 2, § 37 Absatz 1 oder § 46 Absatz 2 oder
 
 
     b)  § 9 Absatz 2 Nummer 1 Buchstabe c, § 14 Absatz 1 Nummer 2 oder 4, § 35

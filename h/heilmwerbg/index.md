@@ -50,10 +50,15 @@ Mittelbare änderung durch
 
 2.  andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich
     die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von
-    Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden bei
-    Mensch oder Tier bezieht, sowie operative plastisch-chirurgische
-    Eingriffe, soweit sich die Werbeaussage auf die Veränderung des
-    menschlichen Körpers ohne medizinische Notwendigkeit bezieht.
+    Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden beim
+    Menschen bezieht, sowie operative plastisch-chirurgische Eingriffe,
+    soweit sich die Werbeaussage auf die Veränderung des menschlichen
+    Körpers ohne medizinische Notwendigkeit bezieht,
+
+
+3.  Verfahren und Behandlungen, soweit sich die Werbeaussage auf die
+    Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden,
+    Körperschäden oder krankhaften Beschwerden beim Tier bezieht.
 
 
 
@@ -172,8 +177,7 @@ Darreichungsformen bezieht, die nicht von der Zulassung erfasst sind.
 
 ## § 4
 
-(1) Jede Werbung für Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2
-Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
+(1) Jede Werbung für Arzneimittel muß folgende Angaben enthalten:
 
 1.  den Namen oder die Firma und den Sitz des pharmazeutischen
     Unternehmers,
@@ -199,13 +203,9 @@ Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
     äußeren Umhüllungen vorgeschrieben sind,
 
 
-7a. bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder
-    tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis
-    "Verschreibungspflichtig",
-
-
-8.  die Wartezeit bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt
-    sind, die der Gewinnung von Lebensmitteln dienen.
+7a. bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des
+    Arzneimittelgesetzes unterliegen, den Hinweis
+    "Verschreibungspflichtig".
 
 
 
@@ -232,13 +232,11 @@ Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen
 Sie Ihren Arzt oder Apotheker" gut lesbar und von den übrigen
 Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben. Bei einer
 Werbung für Heilwässer tritt an die Stelle der Angabe "die
-Packungsbeilage" die Angabe "das Etikett" und bei einer Werbung für
-Tierarzneimittel an die Stelle "Ihren Arzt" die Angabe "den Tierarzt".
-Die Angaben nach Absatz 1 Nr. 1, 3, 5 und 6 können entfallen. Satz 1
-findet keine Anwendung auf Arzneimittel, die für den Verkehr außerhalb
-der Apotheken freigegeben sind, es sei denn, daß in der
-Packungsbeilage oder auf dem Behältnis Nebenwirkungen oder sonstige
-Risiken angegeben sind.
+Packungsbeilage" die Angabe "das Etikett". Die Angaben nach Absatz 1
+Nr. 1, 3, 5 und 6 können entfallen. Satz 1 findet keine Anwendung auf
+Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben
+sind, es sei denn, daß in der Packungsbeilage oder auf dem Behältnis
+Nebenwirkungen oder sonstige Risiken angegeben sind.
 
 (4) Die nach Absatz 1 vorgeschriebenen Angaben müssen von den übrigen
 Werbeaussagen deutlich abgesetzt, abgegrenzt und gut lesbar sein.
@@ -358,9 +356,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
 
 Werbegaben für Angehörige der Heilberufe sind unbeschadet des Satzes 1
-nur dann zulässig, wenn sie zur Verwendung in der ärztlichen,
-tierärztlichen oder pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3
-des Arzneimittelgesetzes bleibt unberührt.
+nur dann zulässig, wenn sie zur Verwendung in der ärztlichen oder
+pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3 des
+Arzneimittelgesetzes bleibt unberührt.
 
 (2) Absatz 1 gilt nicht für Zuwendungen im Rahmen ausschließlich
 berufsbezogener wissenschaftlicher Veranstaltungen, sofern diese einen
@@ -506,33 +504,24 @@ plastisch-chirurgischen Eingriffe nicht wie folgt geworben werden:
 
 
 
-(2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei
-Menschen nicht mit Angaben geworben werden, die nahe legen, dass die
-Wirkung des Arzneimittels einem anderen Arzneimittel oder einer
-anderen Behandlung entspricht oder überlegen ist.
+(2) Außerhalb der Fachkreise darf für Arzneimittel nicht mit Angaben
+geworben werden, die nahe legen, dass die Wirkung des Arzneimittels
+einem anderen Arzneimittel oder einer anderen Behandlung entspricht
+oder überlegen ist.
 
 
 ## § 12
 
 (1) Außerhalb der Fachkreise darf sich
 
-1.  die Werbung für Arzneimittel nicht beziehen auf die Erkennung,
-    Verhütung, Beseitigung oder Linderung der
-
-    a)  in Abschnitt A der Anlage aufgeführten Krankheiten oder Leiden bei
-        Menschen,
+1.  die Werbung für Arzneimittel nicht auf die Erkennung, Verhütung,
+    Beseitigung oder Linderung der in Abschnitt A der Anlage aufgeführten
+    Krankheiten oder Leiden beim Menschen beziehen,
 
 
-    b)  in Abschnitt B der Anlage aufgeführten Krankheiten oder Leiden bei
-        Tieren,
-
-
-
-
-
-2.  die Werbung für Medizinprodukte nicht beziehen auf die Erkennung,
-    Verhütung, Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3
-    und 4 der Anlage aufgeführten Krankheiten oder Leiden bei Menschen.
+2.  die Werbung für Medizinprodukte nicht auf die Erkennung, Verhütung,
+    Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3 und 4 der
+    Anlage aufgeführten Krankheiten oder Leiden beim Menschen beziehen.
 
 
 

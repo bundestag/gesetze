@@ -16,19 +16,13 @@ Fundstelle
 :   BGBl II: 1994, 3816
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.11.2019 II 907
+:   Art. 2 V v. 15.9.2020 II 699
 
 Änderung durch
-:   Art. 1 iVm Anlage 1 bis 3 V v. 2.6.2020 II 346 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 V v. 2.6.2020 II 346 (Nr. 8) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 15.9.2020 II 699 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 V v. 20.5.2021 II 442 (Nr. 10) mWv 2.6.2021 bzw. 1.12.2021 noch nicht berücksichtigt
+:   Art. 2 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -92,6 +86,20 @@ jeweilige Kilometerangabe aus.
 
 ## Art 1a (weggefallen)
 
+
+
+## Art 1a Vorschriften über die Schiffsuntersuchung
+
+§ 1.08 Nummer 3, § 4.07 Nummer 1 Satz 2 Buchstabe b zweiter
+Spiegelstrich sowie die Anlage 13 Satz 1 zweiter Spiegelstrich und
+Nummer 2.2 der Tabelle der Rheinschifffahrtspolizeiverordnung – Anlage
+zu dieser Verordnung – sowie die nach Artikel 2 Absatz 2 erlassenen
+Rechtsverordnungen sind mit der Maßgabe anzuwenden, dass sich die
+Angabe „Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der
+Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019
+(BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in
+der jeweils geltenden und anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
@@ -792,8 +800,9 @@ oder fahrlässig als Schiffsführer
         Bundesrepublik Deutschland liegt,
 
 
-    g)  die Meldepflicht nach § 12.01 Nummer 1, auch in Verbindung mit Nummer
-        9, Nummer 2, 3 Satz 2, Nummer 4 bis 8 oder Nummer 10,
+    g)  die Meldepflicht nach § 12.01 Nummer 1 in Verbindung mit Nummer 2 und
+        3, Nummer 4, 5, 6 Satz 2 oder Nummer 7 bis Nummer 9 erster
+        Spiegelstrich,
 
 
     h)  die Eintauchtiefe von Kanalpenichen nach § 13.03 Nr. 2 oder

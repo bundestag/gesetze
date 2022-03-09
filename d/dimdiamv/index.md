@@ -218,7 +218,16 @@ die Datenübermittlung, einschließlich des Beginns und des Zeitraums
 der Übermittlung, werden vom Bundesinstitut für Arzneimittel und
 Medizinprodukte im Einvernehmen mit den anderen zuständigen Behörden
 des Bundes und der Länder festgelegt; das Bundesamt für Sicherheit in
-der Informationstechnik ist zu beteiligen.
+der Informationstechnik ist zu beteiligen. Die Übermittlung der in
+Satz 1 genannten Daten an das Bundesinstitut für Arzneimittel und
+Medizinprodukte erfolgt nicht, soweit die zuständigen Behörden des
+Bundes oder der Länder die Daten nach § 64 Absatz 3g des
+Arzneimittelgesetzes oder nach der Verordnung (EU) Nr. 536/2014 des
+Europäischen Parlaments und des Rates vom 16. April 2014 über
+klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
+Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1; L 311 vom
+17\.11.2016, S. 25) an eine Datenbank der Europäischen Arzneimittel-
+Agentur übermitteln müssen.
 
 (2) Pharmazeutische Unternehmer und Großhändler übermitteln die in § 1
 Absatz 1 Nummer 3 genannten Daten dem Bundesinstitut für Arzneimittel

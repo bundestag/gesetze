@@ -33,11 +33,18 @@ des § 2 Nummer 1.
 (2) Dieses Gesetz ist nicht anzuwenden auf
 
 1.  Betäubungsmittel im Sinne des § 1 Absatz 1 des
-    Betäubungsmittelgesetzes und
+    Betäubungsmittelgesetzes,
 
 
 2.  Arzneimittel im Sinne des § 2 Absatz 1, 2, 3a und 4 Satz 1 des
-    Arzneimittelgesetzes.
+    Arzneimittelgesetzes sowie
+
+
+3.  Tierarzneimittel im Sinne des Artikels 4 Nummer 1 der Verordnung (EU)
+    2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018
+    über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG
+    (ABl. L 4 vom 7.1.2019, S. 43; L 163 vom 20.6.2019, S. 112; L 326 vom
+    8\.10.2020, S. 15; L 241 vom 8.7.2021, S. 17).
 
 
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2582, 2589
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2020 I 3256
-
-Änderung durch
-:   Art. 37 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 37 G v. 10.8.2021 I 3436
 
 
 ## § 1 Insolvenz- und Restrukturierungsstatistik

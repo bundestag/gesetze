@@ -1042,7 +1042,7 @@ Schiffskörpers zu messen. Starke Vertrimmungen sind zu
 berücksichtigen, feste Flossenkiele und Schwerter jedoch nicht. Eine
 Schmutzwasserlinie kann zu Ermittlung herangezogen werden.
 
-(2) Die Ebene der größten Eintauchung kann auch anhand der
+(2) Die Ebene der größten Eintauchung kann auch an Land anhand der
 Schmutzwasserlinie festgelegt werden.
 
 (3) Es können auch entsprechende Angaben des Herstellers verwendet
@@ -1128,7 +1128,7 @@ Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in
 Kraft gesetzt werden.
 
 (3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender
-Nummer in ein Eichverzeichnis.
+Nummer in ein Eichverzeichnis ein.
 
 (4) Die Eichbescheinigung für das Baumuster eines Sportboots erhält
 den Zusatz "Baumuster". Sie ist nicht Urkunde nach § 13 Abs. 1 der

@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 4394
 
 Zuletzt geändert durch
-:   Art. 9 G v. 31.1.2019 I 54
-
-Änderung durch
-:   Art. 4 Abs. 2 G v. 12.2.2021 I 226 (Nr. 7) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 Abs. 2 G v. 12.2.2021 I 226
 
 
 ## Eingangsformel

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 49
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.5.2021 I 1224, 2028
-
-Änderung durch
-:   Art. 7 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 27.7.2021 I 3146
 
 Stand: Ersetzt V 805-3-9 v. 27.9.2002 I 3777 (BetrSichV)
 

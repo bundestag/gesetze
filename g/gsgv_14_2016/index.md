@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 692
 
-Geändert durch
-:   Art. 2 V v. 6.4.2016 I 597
-
-Änderung durch
-:   Art. 28 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 28 G v. 27.7.2021 I 3146
 
 Stand: § 12 ist gem. § 24 Abs. 1 dieser V am 1.6.2015 in Kraft getreten
 Stand: Ersetzt V 8053-4-17 v. 27.9.2002 I 3777, 3806 (GSGV 14)

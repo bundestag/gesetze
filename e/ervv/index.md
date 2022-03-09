@@ -16,11 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3803
 
-Geändert durch
-:   Art. 1 V v. 9.2.2018 I 200
-
-Änderung durch
-:   Art. 6 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 6 G v. 5.10.2021 I 4607
 
 [^F800934_01_BJNR380300017]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
     Parlaments und des Rates vom 9. September 2015 über ein

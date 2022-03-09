@@ -1773,6 +1773,10 @@ Hilfe teilnehmen, die mindestens neun Unterrichtseinheiten zu je 45
 Minuten umfasst. Die Schulung soll dem Antragsteller durch
 theoretischen Unterricht und durch praktische Übungen gründliches
 Wissen und praktisches Können in der Ersten Hilfe vermitteln.
+Gegenstand der Schulung ist auch die Vermittlung von Grundwissen zur
+Organ- und Gewebespende einschließlich der Möglichkeiten, die
+Entscheidung über die persönliche Spendenbereitschaft zu
+dokumentieren.
 
 (2) Der Nachweis über die Teilnahme an einer Schulung in Erster Hilfe
 wird durch die Bescheinigung einer für solche Schulungen amtlich

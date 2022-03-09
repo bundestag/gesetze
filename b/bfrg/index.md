@@ -43,10 +43,9 @@ Menschen, insbesondere auf folgenden Gebieten tätig:
     Gesundheit des Menschen einschließlich Fragen der Ernährung und
     Ernährungsprävention und, soweit Futtermittel,
     Futtermittelzusatzstoffe, der Verkehr mit und die Anwendung von
-    Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, und bei
-    Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen
-    Tierimpfstoffe, betroffen sind, auch im Hinblick auf die
-    Tiergesundheit in Zusammenhang stehen,
+    Tierarzneimitteln und bei Tieren angewandte pharmakologisch wirksame
+    Stoffe, ausgenommen Tierimpfstoffe, betroffen sind, auch im Hinblick
+    auf die Tiergesundheit in Zusammenhang stehen,
 
 
 2.  wissenschaftliche Beratung des Bundesministeriums und anderer oberster

@@ -16,13 +16,7 @@ Fundstelle
 :   RGBl I: 1937, 191
 
 Zuletzt geändert durch
-:   Art. 31 G v. 10.8.2021 I 3436
-
-Änderung durch
-:   Art. 3 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 21.12.2021 II 1282
 
 
 

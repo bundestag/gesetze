@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1798
 
+Geändert durch
+:   Art. 1 V v. 20.1.2022 I 69
+
 
 
 ## Eingangsformel
@@ -44,11 +47,34 @@ Stimmenzählung, in Betriebsteilen und Betrieben im Sinne des § 1 Abs.
 heranziehen.
 
 (3) Die Beschlüsse des Wahlvorstands werden mit einfacher
-Stimmenmehrheit seiner Mitglieder gefaßt. Über jede Sitzung des
+Stimmenmehrheit seiner Mitglieder gefaßt. Die Sitzungen des
+Wahlvorstands finden als Präsenzsitzung statt. Über jede Sitzung des
 Wahlvorstands ist eine Niederschrift aufzunehmen, die mindestens den
 Wortlaut der gefaßten Beschlüsse enthält. Die Niederschrift ist vom
 Vorsitzenden und einem weiteren Mitglied des Wahlvorstands zu
 unterzeichnen.
+
+(4) Abweichend von Absatz 3 Satz 2 kann der Wahlvorstand beschließen,
+dass die Teilnahme an einer nicht öffentlichen Sitzung des
+Wahlvorstands mittels Video- und Telefonkonferenz erfolgen kann. Dies
+gilt nicht für Sitzungen des Wahlvorstands
+
+1.  zur Prüfung eingereichter Vorschlagslisten nach § 6 Absatz 2 Satz 2,
+
+
+2.  zur Durchführung eines Losverfahrens nach § 9 Absatz 1.
+
+
+
+Es muss sichergestellt sein, dass Dritte vom Inhalt der Sitzung keine
+Kenntnis nehmen können. Eine Aufzeichnung der Sitzung ist unzulässig.
+Die mittels Video- und Telefonkonferenz Teilnehmenden bestätigen ihre
+Teilnahme gegenüber dem Vorsitzenden in Textform. Die Bestätigung ist
+der Niederschrift nach Absatz 3 beizufügen.
+
+(5) Erfolgt die Sitzung des Wahlvorstands mit der zusätzlichen
+Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt
+auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 2 Wählerliste
@@ -71,7 +97,14 @@ die Wählerliste eingetragen sind.
 vom Tage der Einleitung der Wahl (§ 3 Abs. 1) bis zum Abschluß der
 Stimmabgabe an einer oder mehreren geeigneten Stellen zur
 Einsichtnahme auszulegen. Der Abdruck der Wählerliste soll die
-Geburtsdaten der leitenden Angestellten nicht enthalten.
+Geburtsdaten der leitenden Angestellten nicht enthalten. Ergänzend
+können der Abdruck der Wählerliste und die Verordnung mittels der im
+Betrieb vorhandenen Informations- und Kommunikationstechnik bekannt
+gemacht werden. Die Bekanntmachung ausschließlich in elektronischer
+Form ist nur zulässig, wenn alle leitenden Angestellten von der
+Bekanntmachung Kenntnis erlangen können und Vorkehrungen getroffen
+werden, dass Änderungen der Bekanntmachung nur vom Wahlvorstand
+vorgenommen werden können.
 
 
 #### § 3 Wahlausschreiben
@@ -90,14 +123,17 @@ Sprecherausschusses abläuft.
 
 
 2.  die Bestimmung des Orts, an dem die Wählerliste und diese Verordnung
-    ausliegen;
+    ausliegen, sowie im Fall der Bekanntmachung in elektronischer Form (§
+    2 Absatz 4 Satz 3 und 4) wo und wie von der Wählerliste und der
+    Verordnung Kenntnis genommen werden kann;
 
 
 3.  daß nur leitende Angestellte wählen oder gewählt werden können, die in
     die Wählerliste eingetragen sind und daß Einsprüche gegen die
     Wählerliste (§ 4 Abs. 1) nur vor Ablauf von zwei Wochen seit dem Erlaß
     des Wahlausschreibens schriftlich beim Wahlvorstand eingelegt werden
-    können; der letzte Tag der Frist ist anzugeben;
+    können; der letzte Tag der Frist und im Fall des § 40 Absatz 2
+    zusätzlich die Uhrzeit sind anzugeben;
 
 
 4.  die Zahl der zu wählenden Mitglieder des Sprecherausschusses (§ 4 Abs.
@@ -111,8 +147,8 @@ Sprecherausschusses abläuft.
 6.  daß Wahlvorschläge vor Ablauf von zwei Wochen seit dem Erlaß des
     Wahlausschreibens (§ 5 Abs. 1) beim Wahlvorstand, wenn mehrere
     Mitglieder des Sprecherausschusses zu wählen sind, in Form von
-    Vorschlagslisten einzureichen sind; der letzte Tag der Frist ist
-    anzugeben;
+    Vorschlagslisten einzureichen sind; der letzte Tag der Frist und im
+    Fall des § 40 Absatz 2 zusätzlich die Uhrzeit sind anzugeben;
 
 
 7.  daß die Stimmabgabe an die Wahlvorschläge gebunden ist und daß nur
@@ -129,7 +165,7 @@ Sprecherausschusses abläuft.
 
 10. den Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe sowie
     die Betriebsteile und Betriebe im Sinne des § 1 Abs. 2 des Gesetzes,
-    für die schriftliche Stimmabgabe (§ 23 Abs. 2) beschlossen ist;
+    für die schriftliche Stimmabgabe nach § 23 Absatz 3 beschlossen ist;
 
 
 11. den Ort, an dem Einsprüche, Wahlvorschläge und sonstige Erklärungen
@@ -146,7 +182,13 @@ des § 4 Abs. 2 des Gesetzes berücksichtigt werden sollen.
 (4) Ein Abdruck des Wahlausschreibens ist vom Tage seines Erlasses bis
 zum letzten Tag der Stimmabgabe an einer oder mehreren geeigneten, den
 leitenden Angestellten zugänglichen Stellen vom Wahlvorstand
-auszuhängen und in gut lesbarem Zustand zu erhalten.
+auszuhängen und in gut lesbarem Zustand zu erhalten. Ergänzend kann
+das Wahlausschreiben mittels der im Betrieb vorhandenen Informations-
+und Kommunikationstechnik bekannt gemacht werden. § 2 Absatz 4 Satz 4
+gilt entsprechend. Ergänzend hat der Wahlvorstand das Wahlausschreiben
+den Personen nach § 23 Absatz 2 postalisch oder elektronisch zu
+übermitteln; der Arbeitgeber hat dem Wahlvorstand die dazu
+erforderlichen Informationen zur Verfügung zu stellen.
 
 
 #### § 4 Einspruch gegen die Wählerliste
@@ -174,8 +216,8 @@ Wählerliste nochmals auf ihre Vollständigkeit hin überprüfen. Im
 übrigen kann nach Ablauf der Einspruchsfrist die Wählerliste nur bei
 Schreibfehlern, offenbaren Unrichtigkeiten, in Erledigung rechtzeitig
 eingelegter Einsprüche oder bei Eintritt eines leitenden Angestellten
-in den Betrieb bis zum Tage vor dem Beginn der Stimmabgabe berichtigt
-oder ergänzt werden.
+in den Betrieb bis zum Abschluss der Stimmabgabe berichtigt oder
+ergänzt werden.
 
 
 ### Zweiter Abschnitt - Wahl mehrerer Mitglieder des Sprecherausschusses
@@ -312,7 +354,7 @@ sind zu der Losentscheidung rechtzeitig einzuladen.
 (2) Spätestens eine Woche vor Beginn der Stimmabgabe hat der
 Wahlvorstand die als gültig anerkannten Vorschlagslisten bis zum
 Abschluß der Stimmabgabe in gleicher Weise bekanntzumachen wie das
-Wahlausschreiben (§ 3 Abs. 4).
+Wahlausschreiben nach § 3 Absatz 4 Satz 1 bis 3.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten
@@ -323,19 +365,18 @@ Wahlausschreiben (§ 3 Abs. 4).
 
 (1) Der Wähler kann seine Stimme nur für eine der als gültig
 anerkannten Vorschlagslisten abgeben. Die Stimmabgabe erfolgt durch
-Abgabe von Stimmzetteln in den hierfür bestimmten Umschlägen
-(Wahlumschlägen).
+Abgabe von Stimmzetteln.
 
 (2) Auf den Stimmzetteln sind die Vorschlagslisten nach der
 Reihenfolge der Ordnungsnummern sowie unter Angabe der beiden an
 erster und zweiter Stelle benannten Bewerber mit Familienname und
 Vorname untereinander aufzuführen; bei Listen, die mit Kennworten
 versehen sind, ist auch das Kennwort anzugeben. Die Stimmzettel müssen
-dieselbe Größe, Farbe, Beschaffenheit und Beschriftung haben. Dasselbe
-gilt für die Wahlumschläge.
+dieselbe Größe, Farbe, Beschaffenheit und Beschriftung haben.
 
 (3) Der Wähler kennzeichnet die von ihm gewählte Vorschlagsliste durch
-Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle.
+Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle und faltet
+ihn in der Weise, dass seine Stimme nicht erkennbar ist.
 
 (4) Stimmzettel, die mit einem besonderen Merkmal versehen sind oder
 aus denen sich der Wille des Wählers nicht unzweifelhaft ergibt oder
@@ -346,25 +387,35 @@ einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 ##### § 11 Wahlvorgang
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der
-Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen und in
-den Wahlumschlag legen kann. Für die Aufnahme der Wahlumschläge sind
-eine oder mehrere Wahlurnen zu verwenden. Vor Beginn der Stimmabgabe
-sind die Wahlurnen vom Wahlvorstand zu verschließen. Sie müssen so
-eingerichtet sein, daß die eingeworfenen Wahlumschläge nicht
-herausgenommen werden können, ohne daß die Wahlurnen geöffnet werden.
+Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen kann. Für
+die Aufnahme der Stimmzettel sind eine oder mehrere Wahlurnen zu
+verwenden. Vor Beginn der Stimmabgabe sind die Wahlurnen vom
+Wahlvorstand zu verschließen. Sie müssen so eingerichtet sein, daß die
+eingeworfenen Stimmzettel nicht herausgenommen werden können, ohne daß
+die Wahlurnen geöffnet werden.
 
 (2) Während des Zeitraums der Stimmabgabe müssen immer mindestens zwei
 Mitglieder des Wahlvorstands im Wahlraum anwesend sein; sind
 Wahlhelfer bestellt (§ 1 Abs. 2 Satz 2), genügt die Anwesenheit eines
 Mitglieds des Wahlvorstands und eines Wahlhelfers.
 
-(3) Der Wähler händigt den Wahlumschlag, in den der Stimmzettel
-eingelegt ist, dem mit der Entgegennahme der Wahlumschläge betrauten
-Mitglied des Wahlvorstands aus, wobei er seinen Namen angibt. Der
-Wahlumschlag ist in Gegenwart des Wählers in die Wahlurne einzuwerfen,
-nachdem die Stimmabgabe in der Wählerliste vermerkt worden ist.
+(3) Der Wähler gibt seinen Namen an und wirft den gefalteten
+Stimmzettel in die Wahlurne ein, nachdem die Stimmabgabe in der
+Wählerliste vermerkt worden ist.
 
-(4) Nach Abschluß der Stimmabgabe sind die Wahlurnen zu versiegeln,
+(4) Wer infolge seiner Behinderung bei der Stimmabgabe beeinträchtigt
+ist, kann eine Person seines Vertrauens bestimmen, die ihm bei der
+Stimmabgabe behilflich sein soll, und teilt dies dem Wahlvorstand mit.
+Wahlbewerber, Mitglieder des Wahlvorstands sowie Wahlhelfer dürfen
+nicht zur Hilfeleistung herangezogen werden. Die Hilfeleistung
+beschränkt sich auf die Erfüllung der Wünsche des Wählers zur
+Stimmabgabe; die Person des Vertrauens darf gemeinsam mit dem Wähler
+die Wahlzelle aufsuchen. Sie ist zur Geheimhaltung der Kenntnisse
+verpflichtet, die sie bei der Hilfeleistung zur Stimmabgabe erlangt
+hat. Die Sätze 1 bis 4 gelten entsprechend für des Lesens unkundige
+Wähler.
+
+(5) Nach Abschluß der Stimmabgabe sind die Wahlurnen zu versiegeln,
 wenn die Stimmauszählung nicht unmittelbar nach Beendigung der Wahl
 durchgeführt wird.
 
@@ -372,17 +423,18 @@ durchgeführt wird.
 ##### § 12 Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluß der Stimmabgabe nimmt der Wahlvorstand
-öffentlich die Auszählung der Stimmen vor.
+öffentlich die Auszählung der Stimmen vor. Sofern eine schriftliche
+Stimmabgabe erfolgt ist, führt der Wahlvorstand vor Beginn der
+Stimmauszählung das Verfahren nach § 25 durch.
 
 (2) Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die
-Stimmzettel den Wahlumschlägen und zählt die auf jede Vorschlagsliste
-entfallenden Stimmen zusammen. Dabei ist die Gültigkeit der
-Stimmzettel zu prüfen.
+Stimmzettel und zählt die auf jede Vorschlagsliste entfallenden
+Stimmen zusammen. Dabei ist die Gültigkeit der Stimmzettel zu prüfen.
 
-(3) Befinden sich in einem Wahlumschlag mehrere gekennzeichnete
-Stimmzettel (§ 10 Abs. 3), werden sie, wenn sie vollständig
-übereinstimmen, nur einfach gezählt, andernfalls als ungültig
-angesehen.
+(3) Befindet sich in der Wahlurne ein Wahlumschlag mit mehreren
+gekennzeichneten Stimmzetteln (§ 25 Absatz 1 Satz 3), so werden die
+Stimmzettel, wenn sie vollständig übereinstimmen, nur einfach gezählt,
+andernfalls als ungültig angesehen.
 
 
 ##### § 13 Verteilung der Sitze
@@ -415,8 +467,8 @@ Vorschlagslisten bestimmt sich nach der Reihenfolge ihrer Benennung.
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in
 einer Niederschrift festzustellen:
 
-1.  die Gesamtzahl der abgegebenen Wahlumschläge und die Zahl der
-    abgegebenen gültigen Stimmen;
+1.  die Gesamtzahl der abgegebenen Stimmen und die Zahl der abgegebenen
+    gültigen Stimmen;
 
 
 2.  die auf jede Liste entfallenen Stimmenzahlen;
@@ -462,8 +514,9 @@ gewählte Bewerber.
 Sobald die Mitglieder des Sprecherausschusses endgültig feststehen,
 hat der Wahlvorstand das Wahlergebnis und die Namen der Gewählten
 durch zweiwöchigen Aushang in gleicher Weise bekanntzumachen wie das
-Wahlausschreiben (§ 3 Abs. 4). Ein Abdruck der Wahlniederschrift (§
-14) ist dem Arbeitgeber unverzüglich zu übersenden.
+Wahlausschreiben nach § 3 Absatz 4 Satz 1 bis 3. Ein Abdruck der
+Wahlniederschrift (§ 14) ist dem Arbeitgeber unverzüglich zu
+übersenden.
 
 
 ##### § 17 Aufbewahrung der Wahlakten
@@ -487,17 +540,18 @@ Familienname und Vorname in der Reihenfolge aufzuführen, in der sie
 auf der Vorschlagsliste benannt sind.
 
 (3) Der Wähler kennzeichnet die von ihm gewählten Bewerber durch
-Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle; er darf
-nicht mehr Bewerber ankreuzen, als Mitglieder des Sprecherausschusses
-zu wählen sind. § 10 Abs. 1 Satz 2, Abs. 2 Satz 2 und 3 und Abs. 4
-sowie die §§ 11 und 12 Abs. 1 gelten entsprechend.
+Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle und faltet
+ihn in der Weise, dass seine Stimme nicht erkennbar ist; er darf nicht
+mehr Bewerber ankreuzen, als Mitglieder des Sprecherausschusses zu
+wählen sind. § 10 Abs. 1 Satz 2, Abs. 2 Satz 2 und Abs. 4 sowie die §§
+11 und 12 Abs. 1 gelten entsprechend.
 
 
 ##### § 19 Stimmauszählung
 
 Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die Stimmzettel
-den Wahlumschlägen und zählt die auf jeden Bewerber entfallenden
-Stimmen zusammen; § 12 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
+und zählt die auf jeden Bewerber entfallenden Stimmen zusammen; § 12
+Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
 
 
 ##### § 20 Ermittlung der Gewählten
@@ -614,13 +668,32 @@ Wahlvorstand auf sein Verlangen
 
 
 
-auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Wähler
-ferner ein Merkblatt über die Art und Weise der schriftlichen
-Stimmabgabe (§ 24) aushändigen oder übersenden. Der Wahlvorstand hat
-die Aushändigung oder die Übersendung der Unterlagen in der
-Wählerliste zu vermerken.
+auszuhändigen oder zu übersenden. Die Wahlumschläge müssen sämtlich
+die gleiche Größe, Farbe, Beschaffenheit und Beschriftung haben. Der
+Wahlvorstand soll dem Wähler ferner ein Merkblatt über die Art und
+Weise der schriftlichen Stimmabgabe (§ 24) aushändigen oder
+übersenden. Der Wahlvorstand hat die Aushändigung oder die Übersendung
+der Unterlagen in der Wählerliste zu vermerken.
 
-(2) Für Betriebsteile und Betriebe im Sinne des § 1 Abs. 2 des
+(2) Wahlberechtigte, von denen dem Wahlvorstand bekannt ist, dass sie
+
+1.  im Zeitpunkt der Wahl nach der Eigenart ihres
+    Beschäftigungsverhältnisses, insbesondere im Außendienst oder mit
+    Telearbeit Beschäftigte, oder
+
+
+2.  vom Erlass des Wahlausschreibens bis zum Zeitpunkt der Wahl aus
+    anderen Gründen, insbesondere bei Ruhen des Arbeitsverhältnisses oder
+    Arbeitsunfähigkeit,
+
+
+
+voraussichtlich nicht im Betrieb anwesend sein werden, erhalten die in
+Absatz 1 bezeichneten Unterlagen, ohne dass es eines Verlangens der
+Wahlberechtigten bedarf. Der Arbeitgeber hat dem Wahlvorstand die dazu
+erforderlichen Informationen zur Verfügung zu stellen.
+
+(3) Für Betriebsteile und Betriebe im Sinne des § 1 Abs. 2 des
 Gesetzes kann der Wahlvorstand die schriftliche Stimmabgabe
 beschließen. Der Wahlvorstand hat den leitenden Angestellten die in
 Absatz 1 bezeichneten Unterlagen auszuhändigen oder zu übersenden.
@@ -630,8 +703,9 @@ Absatz 1 bezeichneten Unterlagen auszuhändigen oder zu übersenden.
 
 Der Wähler gibt seine Stimme in der Weise ab, daß er
 
-1.  den Stimmzettel unbeobachtet persönlich kennzeichnet und in dem
-    Wahlumschlag verschließt,
+1.  den Stimmzettel unbeobachtet persönlich kennzeichnet und so faltet und
+    in dem Wahlumschlag verschließt, dass die Stimmabgabe erst nach
+    Auseinanderfalten des Stimmzettels erkennbar ist,
 
 
 2.  die vorgedruckte Erklärung unter Angabe des Orts und des Datums
@@ -644,17 +718,22 @@ Der Wähler gibt seine Stimme in der Weise ab, daß er
 
 
 
+Der Wähler kann unter den Voraussetzungen des § 11 Absatz 4 die in den
+Nummern 1 bis 3 bezeichneten Tätigkeiten durch eine Person des
+Vertrauens verrichten lassen.
 
 
 #### § 25 Verfahren bei der Stimmabgabe
 
-(1) Unmittelbar vor Abschluß der Stimmabgabe öffnet der Wahlvorstand
-in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
-Freiumschläge und entnimmt ihnen die Wahlumschläge sowie die
-vorgedruckten Erklärungen. Ist die schriftliche Stimmabgabe
-ordnungsgemäß erfolgt (§ 24), legt der Wahlvorstand den Wahlumschlag
-nach Vermerk der Stimmabgabe in der Wählerliste ungeöffnet in die
-Wahlurne.
+(1) Zu Beginn der öffentlichen Sitzung zur Stimmauszählung nach § 12
+öffnet der Wahlvorstand die bis zum Ende der Stimmabgabe (§ 3 Absatz 2
+Nummer 9) eingegangenen Freiumschläge und entnimmt ihnen die
+Wahlumschläge sowie die vorgedruckten Erklärungen. Ist die
+schriftliche Stimmabgabe ordnungsgemäß erfolgt (§ 24), so vermerkt der
+Wahlvorstand die Stimmabgabe in der Wählerliste, öffnet die
+Wahlumschläge und legt die Stimmzettel in die Wahlurne. Befinden sich
+in einem Wahlumschlag mehrere gekennzeichnete Stimmzettel, werden sie
+in dem Wahlumschlag in die Wahlurne gelegt.
 
 (2) Verspätet eingehende Freiumschläge hat der Wahlvorstand mit einem
 Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den
@@ -686,8 +765,8 @@ Abstimmungsberechtigten (Abstimmungsliste) aufzustellen. § 2 Abs. 1
 Satz 2 sowie Abs. 2 und 4 gilt entsprechend. Abstimmungsberechtigt
 sind nur leitende Angestellte, die in die Abstimmungsliste eingetragen
 sind. Die Abstimmungsliste kann bei Schreibfehlern oder offenbaren
-Unrichtigkeiten bis zum Tage vor dem Beginn der Stimmabgabe berichtigt
-oder ergänzt werden.
+Unrichtigkeiten bis zum Abschluss der Stimmabgabe berichtigt oder
+ergänzt werden.
 
 
 #### Zweiter Unterabschnitt - Abstimmung in einer Versammlung
@@ -734,19 +813,21 @@ unterschreiben.
 
 
 (3) Das Abstimmungsausschreiben ist bis zum Tag der Versammlung in
-gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4) bekanntzumachen.
+gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4) bekanntzumachen
+mit der Maßgabe, dass die Übermittlung nach § 3 Absatz 4 Satz 4 an die
+in § 30 Absatz 2 genannten Personen zu erfolgen hat.
 
 
 ##### § 28 Stimmabgabe
 
-(1) Die Abstimmung erfolgt durch Abgabe von Abstimmungszetteln in den
-hierfür bestimmten Umschlägen (Abstimmungsumschlägen). Die
-Abstimmungszettel dürfen nur die Frage an den Abstimmungsberechtigten
-enthalten, ob er für oder gegen die Wahl eines Sprecherausschusses
-stimmt. Der Abstimmende gibt seine Stimme in der Weise ab, daß er auf
-dem Abstimmungszettel das vorgedruckte "Ja" oder "Nein" ankreuzt. Die
-Abstimmungszettel müssen dieselbe Größe, Farbe, Beschaffenheit und
-Beschriftung haben. Dasselbe gilt für die Abstimmungsumschläge.
+(1) Die Abstimmung erfolgt durch Abgabe von Abstimmungszetteln, die so
+gefaltet sind, dass die Stimmabgabe erst nach Auseinanderfalten der
+Abstimmungszettel erkennbar ist. Die Abstimmungszettel dürfen nur die
+Frage an den Abstimmungsberechtigten enthalten, ob er für oder gegen
+die Wahl eines Sprecherausschusses stimmt. Der Abstimmende gibt seine
+Stimme in der Weise ab, daß er auf dem Abstimmungszettel das
+vorgedruckte "Ja" oder "Nein" ankreuzt. Die Abstimmungszettel müssen
+dieselbe Größe, Farbe, Beschaffenheit und Beschriftung haben.
 
 (2) Abstimmungszettel, die mit einem besonderen Merkmal versehen sind
 oder aus denen sich der Wille des Abstimmenden nicht unzweifelhaft
@@ -758,8 +839,8 @@ Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
 Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der
 Abstimmende den Abstimmungszettel im Versammlungsraum unbeobachtet
-kennzeichnen und in den Abstimmungsumschlag legen kann. § 11 Abs. 1
-Satz 2 bis 4 sowie Abs. 2 bis 4 gilt entsprechend.
+kennzeichnen und falten kann. § 11 Absatz 1 Satz 2 bis 4 sowie Absatz
+2 bis 5 gilt entsprechend.
 
 
 ##### § 30 Schriftliche Stimmabgabe bei Verhinderung
@@ -785,16 +866,39 @@ Wahlvorstand auf sein Verlangen
 
 
 
-auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem
-Abstimmungsberechtigten ferner ein Merkblatt über die Art und Weise
-der schriftlichen Stimmabgabe (Absatz 2) aushändigen oder übersenden.
-Der Wahlvorstand hat die Aushändigung oder die Übersendung der
-Unterlagen in der Abstimmungsliste zu vermerken.
+auszuhändigen oder zu übersenden. Die Abstimmungsumschläge müssen die
+gleiche Größe, Farbe, Beschaffenheit und Beschriftung haben. Der
+Wahlvorstand soll dem Abstimmungsberechtigten ferner ein Merkblatt
+über die Art und Weise der schriftlichen Stimmabgabe (Absatz 3)
+aushändigen oder übersenden. Der Wahlvorstand hat die Aushändigung
+oder die Übersendung der Unterlagen in der Abstimmungsliste zu
+vermerken.
 
-(2) Der Abstimmende gibt seine Stimme in der Weise ab, daß er
+(2) Abstimmungsberechtigte, von denen dem Wahlvorstand bekannt ist,
+dass sie
 
-1.  den Abstimmungszettel unbeobachtet persönlich kennzeichnet und in dem
-    Abstimmungsumschlag verschließt,
+1.  im Zeitpunkt der Versammlung nach der Eigenart ihres
+    Beschäftigungsverhältnisses, insbesondere im Außendienst oder mit
+    Telearbeit Beschäftigte, oder
+
+
+2.  vom Erlass des Abstimmungsausschreibens bis zum Zeitpunkt der
+    Versammlung aus anderen Gründen, insbesondere bei Ruhen des
+    Arbeitsverhältnisses oder Arbeitsunfähigkeit,
+
+
+
+voraussichtlich nicht im Betrieb anwesend sein werden, erhalten die in
+Absatz 1 bezeichneten Unterlagen, ohne dass es eines Verlangens der
+Abstimmungsberechtigten bedarf. Der Arbeitgeber hat dem Wahlvorstand
+die dazu erforderlichen Informationen zur Verfügung zu stellen.
+
+(3) Der Abstimmende gibt seine Stimme in der Weise ab, daß er
+
+1.  den Abstimmungszettel unbeobachtet persönlich kennzeichnet und so
+    faltet und in dem Abstimmungsumschlag verschließt, dass die
+    Stimmabgabe erst nach Auseinanderfalten des Abstimmungszettels
+    erkennbar ist,
 
 
 2.  die vorgedruckte Erklärung unter Angabe des Orts und des Datums
@@ -809,15 +913,17 @@ Unterlagen in der Abstimmungsliste zu vermerken.
 
 
 
-(3) Unmittelbar vor Abschluß der Abstimmung öffnet der Wahlvorstand in
-öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
+(4) Unmittelbar nach Abschluss der Abstimmung öffnet der Wahlvorstand
+in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
 Freiumschläge und entnimmt ihnen die Abstimmungsumschläge sowie die
 vorgedruckten Erklärungen. Ist die schriftliche Stimmabgabe
-ordnungsgemäß erfolgt (Absatz 2), legt der Wahlvorstand den
-Abstimmungsumschlag nach Vermerk der Stimmabgabe in der
-Abstimmungsliste ungeöffnet in die Wahlurne.
+ordnungsgemäß erfolgt (Absatz 3), so vermerkt der Wahlvorstand die
+Stimmabgabe in der Abstimmungsliste, öffnet die Abstimmungsumschläge
+und legt die Abstimmungszettel in die Wahlurne. Befinden sich in einem
+Abstimmungsumschlag mehrere gekennzeichnete Abstimmungszettel, werden
+sie in dem Abstimmungsumschlag in die Wahlurne gelegt.
 
-(4) Verspätet eingehende Freiumschläge hat der Wahlvorstand mit einem
+(5) Verspätet eingehende Freiumschläge hat der Wahlvorstand mit einem
 Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den
 Wahlunterlagen zu nehmen. Die Freiumschläge sind einen Monat nach
 Bekanntgabe des Ergebnisses der Wahl des Sprecherausschusses
@@ -827,13 +933,14 @@ ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 ##### § 31 Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluß der Abstimmung nimmt der Wahlvorstand
-öffentlich die Auszählung der Stimmen vor.
+öffentlich die Auszählung der Stimmen vor. Sofern eine schriftliche
+Stimmabgabe erfolgt ist, führt der Wahlvorstand vor Beginn der
+Stimmauszählung das Verfahren nach § 30 Absatz 4 durch.
 
 (2) Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die
-Abstimmungszettel den Abstimmungsumschlägen und stellt fest, wieviele
-Stimmen für die Wahl eines Sprecherausschusses abgegeben worden sind.
-Dabei ist die Gültigkeit der Abstimmungszettel zu prüfen; § 12 Abs. 3
-gilt entsprechend.
+Abstimmungszettel und stellt fest, wieviele Stimmen für die Wahl eines
+Sprecherausschusses abgegeben worden sind. Dabei ist die Gültigkeit
+der Abstimmungszettel zu prüfen; § 12 Abs. 3 gilt entsprechend.
 
 
 ##### § 32 Bekanntmachung des Abstimmungsergebnisses
@@ -843,9 +950,10 @@ Zahl der für die Wahl eines Sprecherausschusses abgegebenen Stimmen in
 einer Niederschrift festzuhalten; § 14 Abs. 2 gilt entsprechend.
 
 (2) Der Wahlvorstand gibt unverzüglich das Abstimmungsergebnis durch
-zweiwöchigen Aushang in gleicher Weise wie das Wahlausschreiben (§ 3
-Abs. 4) bekannt. Ein Abdruck der Abstimmungsniederschrift (Absatz 1)
-ist dem Arbeitgeber unverzüglich zu übersenden.
+zweiwöchigen Aushang in gleicher Weise wie das Wahlausschreiben nach
+§ 3 Absatz 4 Satz 1 bis 3 bekannt. Ein Abdruck der
+Abstimmungsniederschrift (Absatz 1) ist dem Arbeitgeber unverzüglich
+zu übersenden.
 
 (3) Ist ein Sprecherausschuß nicht zu wählen, endet das Amt des
 Wahlvorstands mit der Bekanntgabe des Abstimmungsergebnisses.
@@ -869,7 +977,7 @@ Wahlvorstands zu unterschreiben ist.
 durch schriftliche Stimmabgabe erfolgt und die Freiumschläge bis zu
 dem vom Wahlvorstand hierfür gesetzten Zeitpunkt bei ihm eingegangen
 sein müssen. Das Abstimmungsausschreiben ist bis zu diesem Zeitpunkt
-in gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4)
+in gleicher Weise wie das Abstimmungsausschreiben nach § 27 Absatz 3
 bekanntzumachen.
 
 (3) Der Wahlvorstand hat den Abstimmungsberechtigten die in § 30 Abs.
@@ -879,20 +987,20 @@ der schriftlichen Stimmabgabe (Absatz 4 Satz 2) aushändigen oder
 übersenden. Er hat die Aushändigung oder Übersendung der Unterlagen in
 der Abstimmungsliste zu vermerken.
 
-(4) Für die schriftliche Stimmabgabe gilt § 28 Abs. 1 Satz 2 bis 5 und
-Abs. 2 entsprechend. § 30 Abs. 2 gilt entsprechend mit der Maßgabe,
-daß der Freiumschlag vor Ablauf der vom Wahlvorstand gesetzten Frist
-(Absatz 1 Satz 1) vorliegen muß.
+(4) Für die schriftliche Stimmabgabe gelten § 28 Absatz 1 Satz 2 bis 4
+und Absatz 2 sowie § 11 Absatz 4 entsprechend. § 30 Absatz 3 gilt
+entsprechend mit der Maßgabe, daß der Freiumschlag vor Ablauf der vom
+Wahlvorstand gesetzten Frist (Absatz 1 Satz 1) vorliegen muß.
 
 (5) Unmittelbar nach Ablauf der Frist (Absatz 1 Satz 1) öffnet der
 Wahlvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt
 eingegangenen Freiumschläge und entnimmt ihnen die
 Abstimmungsumschläge sowie die vorgedruckten Erklärungen. Ist die
-schriftliche Stimmabgabe ordnungsgemäß erfolgt (Absatz 4 Satz 2), legt
-der Wahlvorstand den Abstimmungsumschlag nach Vermerk der Stimmabgabe
-in der Abstimmungsliste ungeöffnet in eine oder mehrere Wahlurnen. §
-11 Abs. 1 Satz 3 und 4 sowie Abs. 4, § 30 Abs. 4 sowie die §§ 31 und
-32 gelten entsprechend.
+schriftliche Stimmabgabe ordnungsgemäß erfolgt (Absatz 4 Satz 2), so
+vermerkt der Wahlvorstand die Stimmabgabe in der Abstimmungsliste,
+öffnet die Abstimmungsumschläge und legt die Abstimmungszettel in die
+Wahlurne. § 11 Absatz 1 Satz 3 und 4 sowie Absatz 5, § 30 Absatz 5, §
+31 Absatz 1 Satz 1 und § 32 gelten entsprechend.
 
 
 ## Zweiter Teil - Besondere Vorschriften für den Unternehmenssprecherausschuß
@@ -927,8 +1035,8 @@ mit der Maßgabe anzuwenden, daß
 
 
 5.  der Unternehmenswahlvorstand auch für einzelne Betriebe des
-    Unternehmens die schriftliche Stimmabgabe beschließen kann (§ 23 Abs.
-    2 Satz 1),
+    Unternehmens die schriftliche Stimmabgabe beschließen kann (§ 23
+    Absatz 3 Satz 1),
 
 
 6.  das Wahlausschreiben die Angabe enthalten muß, ob für einzelne
@@ -1099,15 +1207,19 @@ Maßgabe Anwendung:
 
 ### § 40 Berechnung der Fristen
 
-Für die Berechnung der in dieser Verordnung festgelegten Fristen
+(1) Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
 
+(2) Mit der Bestimmung des letzten Tages einer Frist nach Absatz 1
+kann der Wahlvorstand eine Uhrzeit festlegen, bis zu der ihm
+Erklärungen nach § 4 Absatz 1, § 5 Absatz 1 und 7 Satz 2, § 7 Absatz 2
+sowie § 8 Absatz 1 Satz 1 zugehen müssen. Diese Uhrzeit darf nicht vor
+dem Ende der Arbeitszeit der Mehrheit der Wähler an diesem Tag liegen.
 
-### § 41 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 39 des Sprecherausschußgesetzes auch im Land Berlin.
+### § 41 (weggefallen)
+
 
 
 ### § 42 Inkrafttreten

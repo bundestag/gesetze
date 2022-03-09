@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 623
 
 Zuletzt geändert durch
-:   Art. 26 G v. 20.8.2021 I 3932
-
-Änderung durch
-:   Art. 20 G v. 5.10.2021 I 4607 (Nr. 71) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 20 G v. 5.10.2021 I 4607
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

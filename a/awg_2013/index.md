@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1482
 
 Zuletzt geändert durch
-:   Art. 1 G v. 10.7.2020 I 1637
-
-Änderung durch
-:   Art. 1 G v. 2.6.2021 I 1275 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 81 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 1 V v. 25.8.2021 BAnz AT 07.09.2021 V1 mWv 9.9.2021 noch nicht berücksichtigt
+:   Art. 1 V v. 25.8.2021 BAnz AT 07.09.2021 V1
 
 
 ## Teil 1 - Rechtsgeschäfte und Handlungen
@@ -1368,41 +1359,40 @@ Soweit die in Satz 1 genannten Vorschriften auf die Anhänge II, III
 oder IV zur Verordnung (EU) 2019/125 verweisen, finden diese Anhänge
 in der jeweils geltenden Fassung Anwendung.
 
-(5) Ebenso wird bestraft, wer gegen die Verordnung (EG) Nr. 428/2009
-des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die
-Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der
-Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom
-29\.5.2009, S. 1, L 224 vom 27.8.2009, S. 21), die zuletzt durch die
-Verordnung (EU) 2020/2171 vom 16. Dezember 2020 (ABl. L 432 vom
-21\.12.2020, S. 4) geändert worden ist, verstößt, indem er
+(5) Ebenso wird bestraft, wer gegen die Verordnung (EU) 2021/821 des
+Europäischen Parlaments und des Rates vom 20. Mai 2021 über eine
+Unionsregelung für die Kontrolle der Ausfuhr, der Vermittlung, der
+technischen Unterstützung der Durchfuhr und der Verbringung betreffend
+Güter mit doppeltem Verwendungszweck (ABl. L 206 vom 11.6.2021, S. 1)
+verstößt, indem er
 
-1.  ohne Genehmigung nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 1, 2
-    Satz 1 oder Absatz 3 Güter mit doppeltem Verwendungszweck ausführt,
-
-
-2.  entgegen Artikel 4 Absatz 4 zweiter Halbsatz Güter ohne Entscheidung
-    der zuständigen Behörde über die Genehmigungspflicht oder ohne
-    Genehmigung der zuständigen Behörde ausführt,
+1.  ohne Genehmigung nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 1 Güter
+    mit doppeltem Verwendungszweck ausführt,
 
 
-3.  ohne Genehmigung nach Artikel 5 Absatz 1 Satz 1 eine
-    Vermittlungstätigkeit erbringt oder
+2.  entgegen Artikel 4 Absatz 2 Satz 2 Güter ohne Entscheidung der
+    zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung
+    der zuständigen Behörde ausführt,
 
 
-4.  entgegen Artikel 5 Absatz 1 Satz 2 zweiter Halbsatz eine
-    Vermittlungstätigkeit ohne Entscheidung der zuständigen Behörde über
-    die Genehmigungspflicht oder ohne Genehmigung der zuständigen Behörde
-    erbringt.
+3.  ohne Genehmigung nach Artikel 6 Absatz 1 in Verbindung mit Artikel 4
+    Absatz 1 Buchstabe a eine Vermittlungstätigkeit erbringt oder
+
+
+4.  entgegen Artikel 6 Absatz 2 Satz 2 in Verbindung mit Artikel 4 Absatz
+    1 Buchstabe a eine Vermittlungstätigkeit ohne Entscheidung der
+    zuständigen Behörde über die Genehmigungspflicht oder ohne Genehmigung
+    der zuständigen Behörde erbringt.
 
 
 
 Soweit die in Satz 1 genannten Vorschriften auf Anhang I der
-Verordnung (EG) Nr. 428/2009 verweisen, findet dieser Anhang in der
+Verordnung (EU) 2021/821 verweisen, findet dieser Anhang in der
 jeweils geltenden Fassung Anwendung. In den Fällen des Satzes 1 Nummer
 2 steht dem Ausführer eine Person gleich, die die Ausfuhr durch einen
 anderen begeht, wenn der Person bekannt ist, dass die Güter mit
 doppeltem Verwendungszweck ganz oder teilweise für eine Verwendung im
-Sinne des Artikels 4 Absatz 1 der Verordnung (EG) Nr. 428/2009
+Sinne des Artikels 4 Absatz 1 Buchstabe a der Verordnung (EU) 2021/821
 bestimmt sind.
 
 (5a) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird

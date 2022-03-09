@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2446
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 5 G v. 5.7.2017 I 2234
-
-Änderung durch
-:   Art. 1 G v. 22.9.2021 I 4363 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.9.2021 I 4363
 
 
 ## § 1 Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
@@ -1063,16 +1060,17 @@ Verwaltungsstellen befragt werden. Insoweit sind neben den nach § 14
 Abs. 2 Auskunftspflichtigen auch die Verwaltungsstellen
 auskunftspflichtig.
 
-(4) Für Unternehmen Betriebe und Einrichtungen, deren Inhaber oder
+(4) Für Unternehmen
+Betriebe und Einrichtungen             , deren Inhaber oder
 Inhaberinnen Existenzgründer oder Existenzgründerinnen sind, besteht
 im Kalenderjahr der Betriebseröffnung abweichend von Absatz 1 keine
 Auskunftspflicht für Erhebungen nach den §§ 11 und 12. In den beiden
-folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
-von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können
-sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an
-der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen
-sind.
+folgenden Kalenderjahren besteht dann keine Auskunftspflicht, wenn
+das Unternehmen Betriebe und Einrichtungen              im letzten
+abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000
+Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung
+von der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4
 sind natürliche Personen, die eine gewerbliche oder freiberufliche
@@ -1159,15 +1157,16 @@ Bundesamt die von ihnen erhobenen Einzelangaben für
 Zusatzaufbereitungen des Bundes und für die Erfüllung von über- und
 zwischenstaatlichen Aufgaben.
 
-(6) Das Statistischen Bundesamt und die statistischen Ämter der Länder
-übermitteln dem Umweltbundesamt für eigene statistische Auswertungen
-insbesondere zur Erfüllung europa- und völkerrechtlicher Pflichten der
-Bundesrepublik Deutschland, jedoch nicht für die Regelung von
-Einzelfällen, unentgeltlich Tabellen mit statistischen Ergebnissen,
-auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die
-Tabellen dürfen nur von den für diese Aufgabe zuständigen
-Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt
-und nicht an andere Stellen weitergegeben werden. Die
+(6) Das
+Statistischen              Bundesamt und die statistischen Ämter der
+Länder übermitteln dem Umweltbundesamt für eigene statistische
+Auswertungen insbesondere zur Erfüllung europa- und völkerrechtlicher
+Pflichten der Bundesrepublik Deutschland, jedoch nicht für die
+Regelung von Einzelfällen, unentgeltlich Tabellen mit statistischen
+Ergebnissen, auch soweit Tabellenfelder nur einen einzigen Fall
+ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe
+zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert
+und genutzt und nicht an andere Stellen weitergegeben werden. Die
 Organisationseinheiten nach Satz 2 müssen von den mit Vollzugsaufgaben
 befassten Organisationseinheiten des Umweltbundesamtes räumlich,
 organisatorisch und personell getrennt sein.

@@ -16,10 +16,7 @@ Fundstelle
 :   RMBl: 1937, 515
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.7.2021 I 3338
-
-Änderung durch
-:   Art. 44 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 44 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel

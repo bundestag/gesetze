@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht
-  und dem Bundesgerichtshof
+Title: Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und
+  Markenamt, dem Patentgericht und dem Bundesgerichtshof
 jurabk: EAPatV
 layout: default
 origslug: eapatv
@@ -8,7 +8,7 @@ slug: eapatv
 
 ---
 
-# Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof (EAPatV)
+# Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und Markenamt, dem Patentgericht und dem Bundesgerichtshof (EAPatV)
 
 Ausfertigungsdatum
 :   2010-02-10
@@ -17,21 +17,22 @@ Fundstelle
 :   BGBl I: 2010, 83
 
 Zuletzt geändert durch
-:   Art. 11 Abs. 31 G v. 18.7.2017 I 2745
+:   Art. 1 V v. 7.2.2022 I 171
 
 
 ## § 1 Elektronische Aktenführung
 
-Das Patentamt, das Patentgericht und der Bundesgerichtshof, soweit er
-für die Verhandlung und Entscheidung über Rechtsmittel gegen
-Entscheidungen des Patentgerichts zuständig ist, können
-Verfahrensakten ganz oder teilweise auch elektronisch führen.
+Das Deutsche Patent- und Markenamt, das Patentgericht und der
+Bundesgerichtshof, soweit er für die Verhandlung und Entscheidung über
+Rechtsmittel gegen Entscheidungen des Patentgerichts zuständig ist,
+können Verfahrensakten ganz oder teilweise auch elektronisch führen.
 
 
-## § 2 Verfahrensrecht für das Patentamt
+## § 2 Verfahrensrecht für das Deutsche Patent- und Markenamt
 
-Für das Verfahren vor dem Patentamt gelten die Regelungen der
-Zivilprozessordnung über die elektronische Aktenführung entsprechend.
+Für das Verfahren vor dem Deutschen Patent- und Markenamt gelten die
+Regelungen der Zivilprozessordnung über die elektronische Aktenführung
+entsprechend.
 
 
 ## § 3 Vernichtung von Schriftstücken

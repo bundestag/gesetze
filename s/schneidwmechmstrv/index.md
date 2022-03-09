@@ -18,6 +18,9 @@ Fundstelle
 Änderung durch
 :   Art. 2 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 Abs. 73 V v. 18.1.2022 I 39 (Nr. 3) ist berücksichtigt
+
 
 ## Eingangsformel
 
@@ -431,9 +434,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154), in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

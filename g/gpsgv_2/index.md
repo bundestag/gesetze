@@ -16,12 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1350 (1470)
 
-Zuletzt geändert durch
-:   Art. 1 V v. 9.7.2018 I 1093
-
-Änderung durch
-:   Art. 21 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Stand: Zuletzt geändert Art. 21 G v. 27.7.2021 I 3146
 [^F775453_01_BJNR135000011]:     Diese Verordnung dient der Umsetzung
     1\.                                    der Richtlinie 88/378/EWG des
     Rates vom 3. Mai 1988 zur Angleichung der Rechtsvorschriften der

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1511
 
+Geändert durch
+:   Art. 2 Abs. 10 V v. 18.1.2022 I 39
+
 
 
 ## Eingangsformel
@@ -402,10 +405,11 @@ werden nach den bisherigen Vorschriften zu Ende geführt.
 
 ### § 7 Weitere Anforderungen
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach
-der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
-Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
-geltenden Fassung.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
+
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
+sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten

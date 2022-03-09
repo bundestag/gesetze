@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2886
 
 Zuletzt geändert durch
-:   Art. 11 G v. 7.7.2021 I 2363
+:   Art. 1 V v. 7.2.2022 I 170
 
 
 ## Eingangsformel
@@ -148,6 +148,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – in Kanada:
 
     *   Barrister, Solicitor
+
+
+*    *   – in Kasachstan:
+
+    *   Aдвокат, Advokat, Qorğauşy
 
 
 *    *   – in Kolumbien:

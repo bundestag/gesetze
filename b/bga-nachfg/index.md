@@ -41,16 +41,15 @@ Bundesinstitutes Berlin.
 (3) Dieses Bundesinstitut wird insbesondere tätig auf folgenden
 Gebieten:
 
-1.  Zulassung von Fertigarzneimitteln auf der Grundlage der analytischen,
+1.  Zulassung von Fertigarzneimitteln im Sinne des § 4 Absatz 1 des
+    Arzneimittelgesetzes auf der Grundlage der analytischen,
     pharmakologisch-toxikologischen und klinischen Prüfungen, soweit nicht
-    das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit oder
     das Paul-Ehrlich-Institut nach § 77 des Arzneimittelgesetzes zuständig
     ist,
 
 
-2.  Registrierung homöopathischer Arzneimittel, soweit nicht das Bundesamt
-    für Verbraucherschutz und Lebensmittelsicherheit nach § 77 des
-    Arzneimittelgesetzes zuständig ist,
+2.  Registrierung homöopathischer Arzneimittel im Sinne des § 4 Absatz 26
+    des Arzneimittelgesetzes,
 
 
 3.  Risikoerfassung und -bewertung sowie Durchführung von Maßnahmen nach

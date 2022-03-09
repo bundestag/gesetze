@@ -28,8 +28,9 @@ Zuletzt geändert durch
 ## § 1
 
 Der Apotheker ist berufen, die Bevölkerung ordnungsgemäß mit
-Arzneimitteln zu versorgen. Er dient damit der Gesundheit des
-einzelnen Menschen und des gesamten Volkes.
+Arzneimitteln, die zur Anwendung beim Menschen bestimmt sind, und
+Tierarzneimitteln (Arzneimittel) zu versorgen. Er dient damit der
+Gesundheit des einzelnen Menschen und des gesamten Volkes.
 
 
 ## § 2

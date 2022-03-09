@@ -15,7 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 11.03.2021 V2
 
-Stand: V tritt gem. § 3 dieser V am 31.3.2022 außer Kraft
+Stand: V tritt gem. § 3 idF d. Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1 am 31.3.2023 außer Kraft
+Geändert durch
+:   Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1
+
+Die geltung der v ist durch
+:   § 3 idF d. Art. 1 V v. 24.2.2022 BAnz AT 24.02.2022 V1 mWv 25.2.2022 über den 31.3.2022 hinaus bis zum 31.3.2023 verlängert worden
+
 
 ## Eingangsformel
 
@@ -59,5 +65,5 @@ Kombinationsimpfstoff.
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft und am
-31\. März 2022 außer Kraft.
+31\. März 2023 außer Kraft.
 

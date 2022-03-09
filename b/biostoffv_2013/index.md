@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2013, 2514
 
 Zuletzt geändert durch
-:   Art. 146 G v. 29.3.2017 I 626
-
-Änderung durch
-:   Art. 1 V v. 21.7.2021 I 3115 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 21.7.2021 I 3115
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen und Risikogruppeneinstufung

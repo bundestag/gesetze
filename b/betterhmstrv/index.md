@@ -19,6 +19,9 @@ Fundstelle
 Änderung durch
 :   Art. 3 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 Abs. 96 V v. 18.1.2022 I 39 ist berücksichtigt
+
 Stand: Ersetzt V 7110-3-104 v. 21.1.1993 I 87 (BetTerMstrV)
 
 ## Eingangsformel
@@ -303,8 +306,7 @@ Arbeiten sind zu dokumentieren.
 
 (3) Die Anforderungen an das jeweilige Meisterprüfungsprojekt werden
 nach Maßgabe der Vorschriften der Meisterprüfungsverfahrensverordnung
-vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden
-Fassung festgelegt.
+festgelegt.
 
 (4) Anhand der Anforderungen erarbeitet der Prüfling ein
 Umsetzungskonzept für den Kundenauftrag einschließlich einer Schätzung
@@ -808,8 +810,8 @@ Meisterprüfung ausschlaggebend ist.
 
 ## § 12 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung in der
-jeweils geltenden Fassung bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

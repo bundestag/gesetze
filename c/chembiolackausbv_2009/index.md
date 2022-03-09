@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 24.4.2020 I 868
 
+Geändert durch
+:   Art. 1 V v. 10.2.2022 I 174
+
 [^f772199_01_BJNR160000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
@@ -1728,8 +1731,8 @@ bestehen folgende Vorgaben:
     legen:
 
     a)  Beschichtungsstoffe unter Berücksichtigung einer der nach § 18 Absatz
-        2 Abschnitt B Nummer 1 bis 11 gewählten Wahlqualifikationen
-        herstellen, applizieren und prüfen,
+        2 Abschnitt B gewählten Wahlqualifikationen herstellen, applizieren
+        und prüfen,
 
 
     b)  nach vorgegebener Zusammensetzung eine Arbeitsrezeptur erstellen;
@@ -1780,8 +1783,7 @@ bestehen folgende Vorgaben:
     c)  Formulierung von Beschichtungsstoffen,
 
 
-    d)  drei der nach § 18 Absatz 2 Abschnitt B Nummer 1 bis 11 gewählten
-        Wahlqualifikationen;
+    d)  drei der nach § 18 Absatz 2 Abschnitt B gewählten Wahlqualifikationen;
 
 
 

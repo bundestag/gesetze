@@ -25,7 +25,7 @@ Mittelbare änderung durch
 :   Art. 3 G v. 3.6.2021 I 1436 (Nr. 29) ist berücksichtigt
 
 
-## § 1 Anwendungsbereich
+## § 1 Anwendungsbereich, Begriffsbestimmungen
 
 (1) Dieses Gesetz gilt für Telemediendiensteanbieter, die mit
 Gewinnerzielungsabsicht Plattformen im Internet betreiben, die dazu
@@ -43,8 +43,14 @@ weniger als zwei Millionen registrierte Nutzer hat.
 
 (3) Rechtswidrige Inhalte sind Inhalte im Sinne des Absatzes 1, die
 den Tatbestand der §§ 86, 86a, 89a, 91, 100a, 111, 126, 129 bis 129b,
-130, 131, 140, 166, 184b, 185 bis 187, 201a, 241 oder 269 des
+130, 131, 140, 166, 184b, 185 bis 187, 189, 201a, 241 oder 269 des
 Strafgesetzbuchs erfüllen und nicht gerechtfertigt sind.
+
+(4) Eine Beschwerde über rechtswidrige Inhalte ist jede Beanstandung
+eines Inhaltes mit dem Begehren der Entfernung des Inhaltes oder der
+Sperrung des Zugangs zum Inhalt, es sei denn, dass mit der
+Beanstandung erkennbar nicht geltend gemacht wird, dass ein
+rechtswidriger Inhalt vorliegt.
 
 
 ## § 2 Berichtspflicht
@@ -363,6 +369,98 @@ zeitlich befristeten Zeitraum entfällt, wenn zu erwarten ist, dass bei
 diesem Anbieter die Erfüllung der Pflichten des Absatzes 2 Nummer 3
 durch einen Anschluss an die Regulierte Selbstregulierung nicht
 gewährleistet wird.
+
+
+## § 3a Meldepflicht
+
+(1) Der Anbieter eines sozialen Netzwerks muss ein wirksames Verfahren
+für Meldungen nach den Absätzen 2 bis 5 vorhalten.
+
+(2) Der Anbieter eines sozialen Netzwerks muss dem Bundeskriminalamt
+als Zentralstelle zum Zwecke der Ermöglichung der Verfolgung von
+Straftaten Inhalte übermitteln,
+
+1.  die dem Anbieter in einer Beschwerde über rechtswidrige Inhalte
+    gemeldet worden sind,
+
+
+2.  die der Anbieter entfernt oder zu denen er den Zugang gesperrt hat und
+
+
+3.  bei denen konkrete Anhaltspunkte dafür bestehen, dass sie mindestens
+    einen der Tatbestände
+
+    a)  der §§ 86, 86a, 89a, 91, 126, 129 bis 129b, 130, 131 oder 140 des
+        Strafgesetzbuches,
+
+
+    b)  des § 184b des Strafgesetzbuches oder
+
+
+    c)  des § 241 des Strafgesetzbuches in Form der Bedrohung mit einem
+        Verbrechen gegen das Leben, die sexuelle Selbstbestimmung, die
+        körperliche Unversehrtheit oder die persönliche Freiheit
+
+
+
+    erfüllen und nicht gerechtfertigt sind.
+
+
+
+
+(3) Der Anbieter des sozialen Netzwerks muss unverzüglich, nachdem er
+einen Inhalt entfernt oder den Zugang zu diesem gesperrt hat, prüfen,
+ob die Voraussetzungen des Absatzes 2 Nummer 3 vorliegen, und
+unverzüglich danach den Inhalt gemäß Absatz 4 übermitteln.
+
+(4) Die Übermittlung an das Bundeskriminalamt muss enthalten:
+
+1.  den Inhalt und, sofern vorhanden, den Zeitpunkt, zu dem der Inhalt
+    geteilt oder der Öffentlichkeit zugänglich gemacht worden ist, unter
+    Angabe der zugrunde liegenden Zeitzone,
+
+
+2.  folgende Angaben zu dem Nutzer, der den Inhalt mit anderen Nutzern
+    geteilt oder der Öffentlichkeit zugänglich gemacht hat:
+
+    a)  den Nutzernamen und,
+
+
+    b)  sofern vorhanden, die gegenüber dem Anbieter des sozialen Netzwerkes
+        zuletzt verwendete IP-Adresse einschließlich der Portnummer sowie den
+        Zeitpunkt des letzten Zugriffs unter Angabe der zugrunde liegenden
+        Zeitzone.
+
+
+
+
+
+
+
+(5) Die Übermittlung an das Bundeskriminalamt hat elektronisch an eine
+vom Bundeskriminalamt zur Verfügung gestellte Schnittstelle zu
+erfolgen.
+
+(6) Der Anbieter des sozialen Netzwerks informiert den Nutzer, für den
+der Inhalt gespeichert wurde, vier Wochen nach der Übermittlung an das
+Bundeskriminalamt über die Übermittlung nach Absatz 4. Satz 1 gilt
+nicht, wenn das Bundeskriminalamt binnen vier Wochen anordnet, dass
+die Information wegen der Gefährdung des Untersuchungszwecks, des
+Lebens, der körperlichen Unversehrtheit oder der persönlichen Freiheit
+einer Person oder von bedeutenden Vermögenswerten zurückzustellen ist.
+Im Fall der Anordnung nach Satz 2 informiert das Bundeskriminalamt den
+Nutzer über die Übermittlung nach Absatz 4, sobald dies ohne
+Gefährdung im Sinne des Satzes 2 möglich ist.
+
+(7) Der Anbieter eines sozialen Netzwerks hat der in § 4 genannten
+Verwaltungsbehörde auf deren Verlangen Auskünfte darüber zu erteilen,
+wie die Verfahren zur Übermittlung von Inhalten nach Absatz 1
+gestaltet sind und wie sie angewendet werden.
+
+(8) Strafverfolgungsbehörden dürfen für einen allgemeinen Austausch
+mit den Anbietern sozialer Netzwerke über die Anwendung der Absätze 1
+bis 7 die hierfür erforderlichen personenbezogenen Daten in
+pseudonymisierter Form verarbeiten.
 
 
 ## § 3b Gegenvorstellungsverfahren
@@ -724,18 +822,22 @@ Schlichtungsordnung anzugeben sind.
     oder nicht rechtzeitig anbietet,
 
 
-7.  entgegen § 5 einen inländischen Zustellungsbevollmächtigten oder einen
+7.  entgegen § 3a Absatz 1 ein dort genanntes Verfahren nicht oder nicht
+    richtig vorhält,
+
+
+8.  entgegen § 5 einen inländischen Zustellungsbevollmächtigten oder einen
     inländischen Empfangsberechtigten nicht benennt, oder
 
 
-8.  entgegen § 5 Absatz 2 Satz 2 als Empfangsberechtigter auf
+9.  entgegen § 5 Absatz 2 Satz 2 als Empfangsberechtigter auf
     Auskunftsersuchen nicht reagiert.
 
 
 
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 7
-und 8 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 8
+und 9 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
 übrigen Fällen des Absatzes 1 mit einer Geldbuße bis zu fünf Millionen
 Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über
 Ordnungswidrigkeiten ist anzuwenden.
@@ -840,6 +942,135 @@ das Ersuchen erschöpfenden Auskunft beantwortet wird, ist dies in der
 Antwort zu begründen. Die in § 4 genannte Verwaltungsbehörde führt
 eine Liste der empfangsberechtigten Personen. Sie gibt inländischen
 Strafverfolgungsbehörden hierüber auf Anfrage Auskunft.
+
+
+## § 5a Auskünfte für wissenschaftliche Forschung
+
+(1) Forscher im Sinne dieser Vorschrift ist jede natürliche oder
+juristische Person, die wissenschaftliche Forschung betreibt.
+
+(2) Ein Forscher kann vom Anbieter eines sozialen Netzwerks
+qualifizierte Auskünfte verlangen über
+
+1.  den Einsatz und die konkrete Wirkweise von Verfahren zur
+    automatisierten Erkennung von Inhalten, die entfernt oder gesperrt
+    werden sollen, insbesondere zu Art und Umfang eingesetzter
+    Technologien und den Zwecken, Kriterien und Parametern für deren
+    Programmierung sowie zu den eingesetzten Daten,
+
+
+2.  die Verbreitung von Inhalten, die Gegenstand von Beschwerden über
+    rechtswidrige Inhalte waren oder die vom Anbieter entfernt oder
+    gesperrt worden sind, insbesondere die entsprechenden Inhalte sowie
+    Informationen darüber, welche Nutzer in welcher Weise mit den Inhalten
+    interagiert haben.
+
+
+
+
+(3) Auskünfte nach Absatz 2 können nur verlangt werden, soweit sie für
+Vorhaben einer im öffentlichen Interesse liegenden wissenschaftlichen
+Forschung zu Art, Umfang, Ursachen und Wirkungsweisen öffentlicher
+Kommunikation in sozialen Netzwerken und den Umgang der Anbieter
+hiermit erforderlich sind.
+
+(4) Die Auskunftserteilung darf nur erfolgen, wenn der Forscher
+gegenüber dem Anbieter des sozialen Netzwerks ein Schutzkonzept
+vorlegt. Das Schutzkonzept beinhaltet
+
+1.  eine Beschreibung der für die Forschungszwecke nach Absatz 3
+    erforderlichen Informationen,
+
+
+2.  eine Beschreibung der beabsichtigten Verwendung der Informationen,
+
+
+3.  eine Beschreibung der Vorkehrungen, um eine anderweitige Verwendung
+    der Informationen zu verhindern,
+
+
+4.  eine Beschreibung der Vorkehrungen, um die schutzwürdigen Interessen
+    des Anbieters zu schützen, und
+
+
+5.  eine Beschreibung der technischen und organisatorischen Maßnahmen, die
+    den Schutz der personenbezogenen Daten sicherstellen.
+
+
+
+
+(5) Der Anbieter eines sozialen Netzwerks kann die Auskunft
+verweigern, wenn
+
+1.  seine schutzwürdigen Interessen das öffentliche Interesse an der
+    Forschung erheblich überwiegen oder
+
+
+2.  die schutzwürdigen Interessen der betroffenen Personen beeinträchtigt
+    werden und das öffentliche Interesse an der Forschung das
+    Geheimhaltungsinteresse der betroffenen Personen nicht überwiegt.
+
+
+
+
+(6) Der Anbieter eines sozialen Netzwerks darf zu Zwecken der
+Auskunftserteilung nach Absatz 2 folgende personenbezogene Daten
+übermitteln:
+
+1.  die verbreiteten Inhalte,
+
+
+2.  Beschwerden über rechtswidrige Inhalte,
+
+
+3.  Nutzernamen der an der Verbreitung Beteiligten,
+
+
+4.  die näheren Umstände der Interaktionen der an der Verbreitung
+    Beteiligten im Hinblick auf die jeweiligen Inhalte sowie
+
+
+5.  Trainingsdaten von Verfahren zur automatisierten Erkennung von
+    Inhalten, die entfernt oder gesperrt werden sollen, sowie Angaben zur
+    Wirkweise, zu Zwecken, Kriterien und Parametern für die Programmierung
+    dieser Verfahren.
+
+
+
+Die Daten sind anonymisiert oder zumindest pseudonymisiert zu
+übermitteln, soweit dies ohne Gefährdung des Forschungszwecks möglich
+ist.
+
+(7) Der Forscher darf die Daten ausschließlich verarbeiten für die
+Zwecke von Vorhaben wissenschaftlicher Forschung nach Absatz 3. Soweit
+besondere Kategorien von Daten im Sinne von Artikel 9 Absatz 1 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2) in der jeweils geltenden Fassung verarbeitet werden, hat der
+Forscher dafür angemessene und spezifische Maßnahmen zur Wahrung der
+Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz 2 des
+Bundesdatenschutzgesetzes vorzusehen. Ergänzend zu den dort genannten
+Maßnahmen sind die Daten im Sinne des Artikels 9 Absatz 1 der
+Verordnung (EU) 2016/679 zu anonymisieren, sobald dies nach dem
+Forschungszweck möglich ist. Darüber hinausgehende
+datenschutzrechtliche Vorgaben bleiben unberührt.
+
+(8) Der Anbieter eines sozialen Netzwerks hat gegenüber dem Forscher
+Anspruch auf Erstattung der durch die Auskunftserteilung nach Absatz 2
+entstehenden Kosten in angemessener Höhe. Bei der Bestimmung der
+angemessenen Höhe ist zu berücksichtigen, dass die Kosten kein
+wesentliches Hindernis für die Inanspruchnahme des Auskunftsrechts
+darstellen dürfen. § 287 Absatz 1 der Zivilprozessordnung ist
+entsprechend anzuwenden. Die erstattungsfähigen Kosten dürfen
+vorbehaltlich des Satzes 5 höchstens 5 000 Euro betragen. Dieser
+Betrag darf nur überschritten werden, wenn durch die Erteilung der
+Auskunft ein außergewöhnlich hoher Aufwand entsteht. Nach Vorlage des
+Schutzkonzepts nach Absatz 4 kann der Forscher vom Anbieter die
+Vorlage eines unentgeltlichen Kostenanschlags innerhalb einer
+angemessener Frist verlangen.
 
 
 ## § 6 Übergangsvorschriften

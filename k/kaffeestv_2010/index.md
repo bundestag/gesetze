@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 3262, 3334
 
 Zuletzt geändert durch
-:   Art. 6 V v. 14.8.2020 I 1960
-
-Änderung durch
-:   Art. 3 V v. 11.8.2021 I 3602 (Nr. 55) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 11.8.2021 I 3602
 
 
 ## Abschnitt 1 - Allgemeines

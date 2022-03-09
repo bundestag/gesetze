@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 994
 
-Geändert durch
-:   Art. 3 V v. 28.2.2020 I 246
+Zuletzt geändert durch
+:   Art. 2 Abs. 15 V v. 18.1.2022 I 39
 
 
 
@@ -387,9 +387,8 @@ Meisterprüfungsausschuss fortzuführen.
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-(2) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(2) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 
 ### § 8 Inkrafttreten
