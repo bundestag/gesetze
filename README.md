@@ -189,7 +189,7 @@ Contact
 Twitter: [@bundesgit](https://twitter.com/bundesgit)
 
 
-More information
+See also
 ----------------
 
 This project was also presented or mentioned at various conferences:
