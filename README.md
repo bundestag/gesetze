@@ -79,7 +79,7 @@ bei der [Ausarbeitung eines Git-Workflows](https://github.com/bundestag/gesetze/
 für dieses Repostiory gebeten.
 
 
-Mehr Informationen
+Siehe auch
 ------------------
 
 Dieses Projekt wurde auch auf verschiedenen Konferenzen vorgestellt bzw. erwähnt:
