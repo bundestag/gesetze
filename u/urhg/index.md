@@ -111,11 +111,7 @@ Bestandteil des Datenbankwerkes.
 Entscheidungen und amtlich verfaßte Leitsätze zu Entscheidungen
 genießen keinen urheberrechtlichen Schutz.
 
-(2) Das gleiche gilt für andere amtliche Werke, die im amtlichen
-Interesse zur allgemeinen Kenntnisnahme veröffentlicht worden sind,
-mit der Einschränkung, daß die Bestimmungen über Änderungsverbot und
-Quellenangabe in § 62 Abs. 1 bis 3 und § 63 Abs. 1 und 2 entsprechend
-anzuwenden sind.
+(2) Das gleiche gilt für andere Werke staatlicher Stellen.
 
 (3) Das Urheberrecht an privaten Normwerken wird durch die Absätze 1
 und 2 nicht berührt, wenn Gesetze, Verordnungen, Erlasse oder amtliche
