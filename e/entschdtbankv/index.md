@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2391
 
+Zuletzt geändert durch
+:   Art. 1 V v. 8.6.2021 I 1711
+
 
 
 ## Eingangsformel
@@ -28,10 +31,9 @@ verordnet das Bundesministerium der Finanzen:
 ## § 1
 
 Der Entschädigungseinrichtung deutscher Banken GmbH werden die
-Aufgaben und Befugnisse einer Entschädigungseinrichtung für die in § 6
-Abs. 1 Satz 2 Nr. 1 des Einlagensicherungs- und
-Anlegerentschädigungsgesetzes genannten privatrechtlichen Institute
-zugewiesen.
+Aufgaben und Befugnisse der gesetzlichen Entschädigungseinrichtung für
+alle ihr nach § 24 Absatz 2 des Einlagensicherungsgesetzes
+zugeordneten CRR-Kreditinstitute zugewiesen.
 
 
 ## § 2
@@ -39,6 +41,14 @@ zugewiesen.
 Die Entschädigungseinrichtung deutscher Banken GmbH hat dem
 Bundesministerium der Finanzen Änderungen des Gesellschaftsvertrags
 zur Genehmigung vorzulegen.
+
+
+## § 2a
+
+Die Entschädigungseinrichtung deutscher Banken GmbH folgt der
+Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
+Deutschlands GmbH im Sinne des § 25a Absatz 2 Satz 1 des
+Einlagensicherungsgesetzes nach.
 
 
 ## § 3

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 269
 
 Zuletzt geändert durch
-:   Art. 10 G v. 26.2.2008 I 215
+:   Art. 519 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -61,15 +61,15 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
     besonderer Verhältnisse im Einzelfall
 
     a)  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit
-        Sitz im Ausland das Bundesministerium für Verkehr, Bau und
-        Stadtentwicklung; die zuständigen Landesbehörden sind zu unterrichten,
+        Sitz im Ausland das Bundesministerium für Verkehr und digitale
+        Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten,
         wenn die Einheit des Eisenbahnwesens berührt wird;
 
 
     b)  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde;
-        das Benehmen mit dem Bundesministerium für Verkehr, Bau und
-        Stadtentwicklung ist erforderlich, wenn die Einheit des
-        Eisenbahnwesens berührt wird;
+        das Benehmen mit dem Bundesministerium für Verkehr und digitale
+        Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens
+        berührt wird;
 
 
 
@@ -505,9 +505,13 @@ einfachen Verhältnissen darf hierauf verzichtet werden.
 Die Vorschriften des § 14 der EBO gelten entsprechend.
 
 
-## § 15 Streckenblock, Zugbeeinflussung
+## § 15 Zugbeeinflussung
 
-Die Vorschrift des § 15 Abs. 3 der EBO gilt entsprechend.
+Die zuständigen Eisenbahnaufsichtsbehörden können die Ausrüstung mit
+Zugbeeinflussung oder technischen Einrichtungen, durch die ein Zug
+selbsttätig zum Halten gebracht werden kann, vorschreiben, wenn die
+örtlichen Verhältnisse oder eine besondere Gefahrensituation dies
+erfordern.
 
 
 ## § 16 Fernmeldeanlagen
@@ -748,7 +752,7 @@ Hiervon ausgenommen sind die Teile der Wulstübergänge.
 
 ## § 26
 
--
+(weggefallen)
 
 
 ## § 27 Beschaffenheit der Fahrzeuge
@@ -775,6 +779,13 @@ Ausrüstung haben:
 
 
 3.  Geschwindigkeitsanzeiger,
+
+
+3a. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug
+    selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf
+    Strecken mit Zugbeeinflussung oder technischen Einrichtungen
+    verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben
+    worden ist,
 
 
 4.  Sicherheitsfahrschaltung, die im Geschwindigkeitsbereich von 20 km/h
@@ -835,12 +846,12 @@ Handgriff für Rangierer haben.
 
 ## § 30
 
--
+(weggefallen)
 
 
 ## § 31
 
--
+(weggefallen)
 
 
 ## § 32 Abnahme und Untersuchung der Fahrzeuge
@@ -914,8 +925,8 @@ Bremswegberechnungen ermittelt.
 
 (3) Die Bremstafeln oder Bremswegberechnungen werden genehmigt
 
-1.  für Eisenbahnen des Bundes vom Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung,
+1.  für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und
+    digitale Infrastruktur,
 
 
 2.  für die nicht bundeseigenen Eisenbahnen von der zuständigen
@@ -930,7 +941,7 @@ Bremswegberechnungen ermittelt.
 mehr als
 40v.T. sind von den in Absatz 3 genannten Behörden besondere
 Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die
-Neigung der Verbindungslinie der beiden 2.000 m voneinander entfernten
+Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten
 Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
 
 (6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende
@@ -981,7 +992,7 @@ für leere und beladene Rollwagen ohne Zug- und Stoßeinrichtung.
 
 ## § 37
 
--
+(weggefallen)
 
 
 ## § 38 Fahrordnung
@@ -2506,45 +2517,4 @@ Fundstelle: BGBl I 1972, 286)
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)
-
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
-(BGBl. II 1990, 889, 1099)
-
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-7.  Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen vom 25.
-    Februar 1972 (BGBl. I S. 269), geändert durch Verordnung vom 21.
-    November 1983 (BGBl. I S. 1382),
-
-    mit folgender Maßgabe:
-
-    Für bestehende Anlagen können die in § 3 genannten Stellen die
-    Fortgeltung von Vorschriften der Eisenbahn-Bau- und Betriebsordnung
-    für Schmalspurbahnen vom 25. Juni 1943 (RGBl. II S. 285) bis zum 31.
-    Dezember 1993 zulassen.
-
-
-
-...
-
-10. Bei der Anwendung der Verordnungen unter den Nummern 6 bis 8,
-    insbesondere bei der Errichtung neuer sowie der wesentlichen Änderung
-    bestehender Anlagen und Fahrzeuge, ist auf eine Vereinheitlichung
-    hinzuwirken.
-
-
-11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten
-    Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten
-    nicht oder nicht unmittelbar Anwendung finden können, gelten sie für
-    die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze
-    und Rechtsverordnungen des Bundes, die besondere Regelungen für die
-    Deutsche Bundesbahn vorsehen.
-
-
-
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1982, 558
 
 Zuletzt geändert durch
-:   Art. 184 V v. 31.10.2006 I 2407
+:   Art. 361 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -35,25 +35,25 @@ zugestimmt.
 
 ## Art 2
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung Änderungen
-der Anlage des Übereinkommens nach dessen Artikel V, die sich im
-Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung Änderungen der Anlage des
+Übereinkommens nach dessen Artikel V, die sich im Rahmen der Ziele des
+Übereinkommens halten, in Kraft zu setzen.
 
 
 ## Art 3
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist für die
 Durchführung von Vorschriften zur Erhaltung und Nutzung der
-Waldbestände zuständig.
+Walbestände zuständig.
 
 
 ## Art 4
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung Änderungen
-der Anlage des Übereinkommens nach dessen Artikel V, die sich im
-Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.
+Das Bundesministerium für Ernährung und Landwirtschaft kann den
+Wortlaut des Übereinkommens in der am Tage seines Inkrafttretens für
+die Bundesrepublik Deutschland geltenden Fassung im Bundesgesetzblatt
+bekanntgeben.
 
 
 ## Art 5

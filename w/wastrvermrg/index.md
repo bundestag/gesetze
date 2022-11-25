@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 352
 
 Zuletzt geändert durch
-:   Art. 102 G v. 8.12.2010 I 1864
+:   Art. 521 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -94,7 +94,7 @@ unter § 1 fallen, bleiben bestehen.
 ist der Antrag auf Berichtigung des Grundbuchs von der höheren Behörde
 der Bundeswasserstraßenverwaltung zu stellen, in deren Bezirk das
 Grundstück liegt; bei Zweifeln wird die zuständige Behörde von dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt. War
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmt. War
 als Eigentümer eines solchen Grundstücks nicht das Deutsche Reich im
 Grundbuch eingetragen, so ist die Berichtigung des Grundbuchs
 gemeinsam von der höheren Behörde der Bundeswasserstraßenverwaltung

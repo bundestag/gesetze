@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 204
 
 Zuletzt geändert durch
-:   Art. 4 V v. 16.3.2010 I 282
+:   Art. 4 V v. 24.11.2020 I 2540
 
 
 ## Eingangsformel
@@ -142,13 +142,33 @@ Im Sinne dieser Verordnung sind
 
 
     b)  bei Wurzelreben und Pfropfreben die vom Erzeuger verwendete Nummer der
-        Partie (Seriennummer).
+        Partie (Seriennummer);
 
 
 
 
 
+16. RNQPs: unionsgeregelte Nicht-Quarantäneschädlinge (regulated non-
+    quarantine pests) im Sinne des Artikels 36 der Verordnung (EU)
+    2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober
+    2016 über Maßnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung
+    der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr.
+    1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung
+    der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG,
+    2000/29/EG, 2006/91/EG und 2007/33/EG des Rates (ABl. L 317 vom
+    23\.11.2016, S. 4; L 35 vom 7.2.2020, S. 51), die durch die Verordnung
+    (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S.
+    40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils
+    geltenden Fassung.
 
+
+
+
+
+### § 2a Gestattung des Inverkehrbringens von Standardpflanzgut
+
+Standardpflanzgut, außer Standardpflanzgut von Unterlagsreben, darf zu
+gewerblichen Zwecken in den Verkehr gebracht werden.
 
 
 ## Abschnitt 2 - Anerkennung von Pflanzgut
@@ -200,9 +220,10 @@ stellen.
         ist und
 
 
-    b)  bei dem die in Anlage 1 Nr. 2.2 für Mutterrebenbestände zur Erzeugung
-        von Vorstufenpflanzgut vorgeschriebene Prüfung durchgeführt worden ist
-        und der Rebenbestand die dort genannten Anforderungen erfüllt;
+    b)  bei dem die in Anlage 1 Nummer 2.3.2 für Mutterrebenbestände zur
+        Erzeugung von Vorstufenpflanzgut vorgeschriebene Prüfung durchgeführt
+        worden ist und der Rebenbestand die dort genannten Anforderungen
+        erfüllt;
 
 
 
@@ -217,9 +238,10 @@ stellen.
         ist und
 
 
-    b)  bei dem die in Anlage 1 Nr. 2.3 für Mutterrebenbestände zur Erzeugung
-        von Basispflanzgut vorgeschriebene Prüfung durchgeführt worden ist und
-        der Rebenbestand die dort genannten Anforderungen erfüllt;
+    b)  bei dem die in Anlage 1 Nummer 2.3.3 für Mutterrebenbestände zur
+        Erzeugung von Basispflanzgut vorgeschriebene Prüfung durchgeführt
+        worden ist und der Rebenbestand die dort genannten Anforderungen
+        erfüllt;
 
 
 
@@ -227,10 +249,14 @@ stellen.
 
 3.  bei Zertifiziertem Pflanzgut, dass der Rebenbestand aus Basispflanzgut
     oder aus anerkanntem Vorstufenpflanzgut der angegebenen Sorte oder des
-    angegebenen Klons erwächst, bei dem die in Anlage 1 Nr. 2.4 für
+    angegebenen Klons erwächst, bei dem die in Anlage 1 Nummer 2.3.4 für
     Mutterrebenbestände zur Erzeugung von Zertifiziertem Pflanzgut
     vorgeschriebene Prüfung durchgeführt worden ist und der Rebenbestand
-    die dort genannten Anforderungen erfüllt.
+    die dort genannten Anforderungen erfüllt;
+
+
+4.  bei Standardpflanzgut, dass der Rebenbestand die in Anlage 1 Nummer
+    2\.4.2 Buchstabe c genannten Anforderungen erfüllt.
 
 
 
@@ -248,6 +274,13 @@ vorgenommenen Prüfung des Rebenbestandes und ein Nachweis der
 Genehmigung der Pflanzguteinfuhr nach § 18 Abs. 2 Nr. 4 des
 Saatgutverkehrsgesetzes beizufügen.
 
+(6) Im Fall von Standardpflanzgut, das aus einem Klon erwächst, sind
+im Antrag die Kategorie, die Rebsorte und der Klon des jeweiligen
+Mutterrebenbestandes anzugeben. Soweit der Mutterrebenbestand aus
+einem erhaltungszüchterisch bearbeiteten Klon erwächst, kann der
+Antrag nur durch den eingetragenen Züchter oder mit seiner Zustimmung
+gestellt werden.
+
 
 ### § 5 Anforderungen an die Vermehrungsfläche
 
@@ -258,12 +291,41 @@ erkennen lässt.
 (2) Die Vermehrungsflächen sind zu kennzeichnen und von anderen
 Rebenbeständen abzugrenzen.
 
+(3) Vor der Besichtigung eines Rebenbestandes nach § 7 Absatz 1, für
+dessen Aufwuchs die Anerkennung erstmals beantragt wird, ist der
+Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person eine
+Bescheinigung der zuständigen Behörde oder Stelle des
+Pflanzenschutzdienstes vorzulegen. Aus der Bescheinigung muss
+hervorgehen, dass in der Vermehrungsfläche keine Nematoden, die die in
+Anlage 1 Nummer 2.1 Buchstabe c genannten Viren bei Reben übertragen
+können, nachgewiesen worden sind. Die für die Untersuchungen
+erforderlichen Bodenproben sind in der Regel in der zweiten Hälfte des
+der Pflanzung vorhergehenden Jahres zu entnehmen. Die zuständige
+Behörde oder Stelle des Pflanzenschutzdienstes kann von der
+Untersuchung von Bodenproben bei Mutterrebenbeständen und Rebschulen
+absehen, wenn auf der Fläche in den fünf der Nutzung zu
+Vermehrungszwecken vorangegangenen Jahren nachweislich ausschließlich
+Pflanzen angebaut worden sind, die keine gemeinsamen Wirte sind für
+virusübertragende Nematoden und für Viren, die diesen Nematoden
+jeweils entsprechen. Die Bescheinigung darf zum Zeitpunkt der
+Beantragung der Anerkennung nicht älter als fünf Jahre sein.
+
+(4) Eine Bescheinigung der zuständigen Behörde oder zuständigen Stelle
+des Pflanzenschutzdienstes ist auch erforderlich für die
+Vermehrungsflächen, auf denen Pflanzgut von Zierreben oder
+Tafeltrauben erzeugt wird. Absatz 3 Satz 2 bis 4 gilt entsprechend.
+Die Bescheinigung darf zum Zeitpunkt des Aufwuchses der erstmaligen
+Vermehrung des Pflanzgutes der Zierreben oder Tafeltrauben nicht älter
+als fünf Jahre sein. Die Bescheinigung ist der zuständigen Behörde auf
+Verlangen vorzulegen.
+
 
 ### § 6 Anforderungen an den Rebenbestand und an die Beschaffenheit des Pflanzgutes
 
-Die Anforderungen an den Rebenbestand ergeben sich aus Anlage 1. Die
-Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich aus
-Anlage 2.
+Die Anforderungen an den Rebenbestand, einschließlich der
+Anforderungen hinsichtlich des Befalls mit RNQPs, ergeben sich aus
+Anlage 1. Die Anforderungen an die Beschaffenheit des Pflanzgutes
+ergeben sich aus Anlage 2.
 
 
 ### § 7 Rebenbestandsprüfung
@@ -288,35 +350,15 @@ Rebenbestand zu prüfen, und zwar bei
 
 
 
-(2) Vor der Besichtigung eines Rebenbestandes nach Absatz 1, für
-dessen Aufwuchs die Anerkennung erstmalig beantragt wird, ist der
-Anerkennungsstelle oder der von ihr bestimmten Stelle oder Person eine
-Bescheinigung der zuständigen Behörde oder Stelle des
-Pflanzenschutzdienstes vorzulegen, aus der hervorgeht, daß in der
-Vermehrungsfläche keine Nematoden, die Viren bei Reben übertragen
-können, nachgewiesen worden sind. Die für die Untersuchungen
-erforderlichen Bodenproben sind in der Regel in der zweiten
-Jahreshälfte des der Pflanzung vorhergehenden Jahres zu entnehmen. Die
-zuständige Behörde oder Stelle des Pflanzenschutzdienstes kann von der
-Untersuchung von Bodenproben bei Mutterrebenbeständen und Rebschulen
-absehen, wenn auf der Fläche in den fünf der Nutzung zu
-Vermehrungszwecken vorangegangenen Jahren nachweislich ausschließlich
-Pflanzen angebaut worden sind, die keine gemeinsamen Wirte für
-virusübertragende Nematoden und für diesen Nematoden jeweils
-entsprechende Viren sind. Die Bescheinigung darf zum Zeitpunkt der
-Beantragung der Anerkennung nicht älter als fünf Jahre sein.
-
-(3) Derjenige, in dessen Betrieb die Rebenbestandsprüfung stattfinden
+(2) Derjenige, in dessen Betrieb die Rebenbestandsprüfung stattfinden
 soll, hat vor der Besichtigung an Hand der Etiketten oder der
 Anerkennungsbescheinigungen nachzuweisen, welcher Kategorie die zur
 Herstellung der Pfropfreben verwendeten Rutenteile zugehören.
 
-(4) Erweist sich der Rebenbestand auf einem Teil einer
+(3) Erweist sich der Rebenbestand auf einem Teil einer
 zusammenhängenden Vermehrungsfläche als für die Anerkennung nicht
 geeignet, so wird der Rebenbestand der restlichen Vermehrungsfläche
 nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
-
-(5) (weggefallen)
 
 
 ### § 8 Mängel des Rebenbestandes
@@ -325,11 +367,11 @@ Soweit Mängel des Rebenbestandes behoben werden können, wird auf einen
 spätestens zehn Werktage nach Mitteilung der Mängel vom Antragsteller
 oder Vermehrer gestellten Antrag in angemessener Frist eine
 Nachbesichtigung durchgeführt. Werden Rebschulen, in denen äußere
-Anzeichen des Befalls mit den in Anlage 1 Nr. 2.1 Buchstabe a und b
-genannten Virosen festgestellt worden sind, einer Nachbesichtigung
-unterzogen, muss für das Bestehen der Nachbesichtigung unter Anwendung
-eines geeigneten Testverfahrens festgestellt werden, dass diese
-Virosen nicht mehr nachweisbar sind.
+Anzeichen des Befalls mit den in Anlage 1 Nummer 2.1 Buchstabe c
+Doppelbuchstabe bb bis ee genannten Viren festgestellt worden sind,
+einer Nachbesichtigung unterzogen, muss für das Bestehen der
+Nachbesichtigung unter Anwendung eines geeigneten Testverfahrens
+festgestellt werden, dass diese Viren nicht mehr nachweisbar sind.
 
 
 ### § 9 Mitteilung des Ergebnisses der Rebenbestandsprüfung
@@ -364,21 +406,7 @@ Prüfung vorgestellten Pflanzgut geprüft. Die Packungen oder Bündel
 müssen mindestens die zur Kennzeichnung angegebene Stückzahl nach
 Maßgabe der Anlage 3 enthalten.
 
-(2) Die Prüfung erstreckt sich bei Partien von
-
-1.  1 bis 2.000 Bündeln auf mindestens 1 vom Hundert der Bündel,
-
-
-2.  über 2.000 Bündeln auf mindestens 20 Bündel.
-
-
-
-Bei Topfreben und Kartonagereben sowie bei Pflanzgut in Packungen wird
-die Prüfung an mindestens 1 vom Hundert des vorgestellten Pflanzgutes
-durchgeführt. Bei Pflanzgut in Packungen sind mindestens 10 vom
-Hundert der Packungen zur Prüfung heranzuziehen.
-
-(3) Die Prüfung findet nur statt, wenn
+(2) Die Prüfung findet nur statt, wenn
 
 1.  das Pflanzgut bis zum Abpacken nach der Sorte, im Fall eines nach
     Klonen getrennten Rebenbestandes nach Klonen und im Fall von
@@ -403,7 +431,7 @@ Hundert der Packungen zur Prüfung heranzuziehen.
 
 
 
-(4) Ergibt die Prüfung, daß die Anforderungen nicht erfüllt sind, so
+(3) Ergibt die Prüfung, daß die Anforderungen nicht erfüllt sind, so
 gestattet die Anerkennungsstelle auf Antrag eine weitere
 Beschaffenheitsprüfung, wenn durch Darlegung von Umständen glaubhaft
 gemacht wird, daß der festgestellte Mangel beseitigt ist.
@@ -550,13 +578,65 @@ in anderen Sprachen gemacht werden.
 (3) (weggefallen)
 
 
+### § 17a Pflanzenpass
+
+(1) Für Pflanzgut, für das in dieser Verordnung besondere
+Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind,
+bleiben die folgenden Vorschriften unberührt:
+
+1.  die Vorschriften der Verordnung (EU) 2016/2031,
+
+
+2.  die Vorschriften der Durchführungsverordnung (EU) 2017/2313 der
+    Kommission vom 13. Dezember 2017 zur Festlegung der formalen
+    Anforderungen an den Pflanzenpass für die Verbringung innerhalb des
+    Gebiets der Union und den Pflanzenpass für das Einführen in ein
+    Schutzgebiet und die Verbringung innerhalb dieses Gebiets (ABl. L 331
+    vom 14.12.2017, S. 44) in der jeweils geltenden Fassung und
+
+
+3.  die Vorschriften der Durchführungsverordnung (EU) 2019/2072 der
+    Kommission vom 28. November 2019 zur Festlegung einheitlicher
+    Bedingungen für die Durchführung der Verordnung (EU) 2016/2031 des
+    Europäischen Parlaments und des Rates in Bezug auf Maßnahmen zum
+    Schutz vor Pflanzenschädlingen und zur Aufhebung der Verordnung (EG)
+    Nr. 690/2008 der Kommission sowie zur Änderung der
+    Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom
+    10\.12.2019, S. 1) in der jeweils geltenden Fassung.
+
+
+
+Dies gilt insbesondere für die Vorschriften der in Satz 1 genannten
+Rechtsakte, nach denen bei Pflanzgut, das als Vorstufenpflanzgut,
+Basispflanzgut, Zertifiziertes Pflanzgut oder Standardpflanzgut
+erzeugt oder auf dem Markt bereitgestellt werden soll, der
+Pflanzenpass mit dem amtlichen Etikett kombiniert wird.
+
+(2) Der Pflanzenpass wird durch die zuständige Behörde ausgestellt und
+nach den Vorgaben der in Absatz 1 genannten Rechtsakte mit dem
+amtlichen Etikett zu einem gemeinsamen Etikett zusammengefasst. Das
+gemeinsame Etikett enthält die nach den in Absatz 1 genannten
+Rechtsakten erforderlichen Angaben.
+
+(3) Ein Pflanzenpass ist auch Voraussetzung für das Inverkehrbringen
+von Pflanzgut von Zierreben und Tafeltrauben. Das Pflanzgut muss
+hinsichtlich des Befalls mit den in Anlage 1 Nummer 2.1 aufgeführten
+RNQPs die an Standardpflanzgut gestellten Anforderungen erfüllen. Beim
+Inverkehrbringen ist dieses Pflanzgut mit einem Pflanzenpass zu
+kennzeichnen, der die nach den in Absatz 1 genannten Rechtsakten
+erforderlichen Angaben enthält. Sofern in einem Unternehmen oder auf
+Produktionsstätten sowohl anerkanntes Pflanzgut als auch Pflanzgut von
+Zierreben oder Tafeltrauben hergestellt oder vermehrt wird, ist der
+Pflanzenpass von der zuständigen Behörde auszustellen.
+
+
 ### § 18 Angaben in besonderen Fällen
 
 (1) Die Packungen oder Bündel von anerkanntem Pflanzgut müssen bei
 Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt
 worden oder das nicht zum Anbau in einem Mitgliedstaat bestimmt ist (§
 30 Abs. 2 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes), zusätzlich die
-Angabe "Zur Ausfuhr außerhalb der EG" tragen.
+Angabe "Zur Ausfuhr außerhalb der EU" tragen.
 
 (2) Hat das Bundessortenamt die Sortenzulassung oder ihre Verlängerung
 mit einer Auflage für die Kennzeichnung des Pflanzgutes der Sorte
@@ -619,21 +699,12 @@ Empfang der Partie aufzubewahren. Satz 1 gilt nicht in den Fällen der
 
 Topfreben und Kartonagereben dürfen ungebündelt zu gewerblichen
 Zwecken in den Verkehr gebracht werden, sofern dem Erwerber bei der
-Übergabe schriftlich angegeben werden:
-
-1.  der Name und die Anschrift des Erzeugers und seine Betriebsnummer,
-
-
-2.  die Kategorie, die Sortenbezeichnung und die Bezeichnung des Klones,
-    bei Pfropfreben getrennt nach Edelreis und Unterlage;
-
-
-
-die Vorschriften der §§ 17 und 18 über die Kennzeichnung und des § 19
-über die Schließung sind nicht anzuwenden. Wer Topfreben und
-Kartonagereben nach Satz 1 in den Verkehr bringt, hat das Pflanzgut in
-nach Sorten oder Klonen sowie nach Stückzahlen je Packung getrennten
-und entsprechend bezeichneten Partien aufzubewahren.
+Übergabe eine Kopie des amtlichen Etiketts ausgehändigt wird; die
+Vorschriften der §§ 17 und 18 über die Kennzeichnung und des § 19 über
+die Schließung sind nicht anzuwenden. Wer Topfreben und Kartonagereben
+nach Satz 1 in den Verkehr bringt, hat das Pflanzgut in nach Sorten
+oder Klonen sowie nach Stückzahlen je Packung getrennten und
+entsprechend bezeichneten Partien aufzubewahren.
 
 
 ### § 21 Abgabe in kleinen Mengen
@@ -721,42 +792,7 @@ Satz 1 gilt nicht für Topfreben oder Kartonagereben, wenn die in Satz
 
 
 
-### § 23 Übergangsvorschriften
-
-(1) Abweichend von § 4 Abs. 3 Nr. 2 reicht es bis zum Ende des
-Anerkennungszeitraumes 2011 aus, wenn der Antragsteller erklärt, dass
-der Rebenbestand aus Vorstufenpflanzgut der angegebenen Sorte oder des
-angegebenen Klons erwächst, das, ohne anerkannt zu sein, die
-Anforderungen nach § 4 Abs. 3 Nr. 2 Buchstabe a und b erfüllt.
-
-(2) Abweichend von § 6 Satz 1 in Verbindung mit Anlage 1 Nr. 2 dürfen
-die am 14. Juli 2005 bereits bestehenden Mutterrebenbestände zur
-Erzeugung von
-
-1.  Vorstufen- und Basispflanzgut bis zum Ende des Anerkennungszeitraumes
-    2011 keine schädlichen Virosen, insbesondere keine Reisigkrankheit
-    oder Blattrollkrankheit aufweisen,
-
-
-2.  Zertifiziertem Pflanzgut bis zum Ende des Anerkennungszeitraumes 2012
-    keine Pflanzen, die Symptome schädlicher Virosen aufweisen, enthalten.
-
-
-
-
-(3) Pfropfreben, die aus einer Kombination von Vorstufenvermehrungsgut
-auf Basisvermehrungsgut bestehen, dürfen abweichend von § 12 Abs. 3
-Nr. 2 bis zum Ende des Anerkennungszeitraumes 2010 als
-Vorstufenvermehrungsgut eingestuft werden.
-
-(4) Abweichend von § 17 Abs. 2 und von § 19 Abs. 4, jeweils in
-Verbindung mit Anlage 4, dürfen Packungen oder Bündel von Pflanzgut
-von Rebe bis zum 31. Mai 2010 jeweils mit einem Etikett versehen sein,
-das die Angaben nach Anlage 4 in ihrer bis zum 13. Juli 2006 geltenden
-Fassung enthält.
-
-
-### § 24 Inkrafttreten
+### § 23 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -769,7 +805,8 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 ### Anlage 1 Anforderungen an den Rebenbestand
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 1440 - 1441)
+(Fundstelle: BGBl. I 2006, 1440 - 1441;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1   Allgemeines
@@ -789,89 +826,300 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
     vermerkt worden.
 
 
-2   Virosen
+1.4 Die in dieser Anlage vorgesehenen visuellen Kontrollen, Probenahmen
+    und Untersuchungen werden jeweils in der am besten geeigneten
+    Jahreszeit unter Berücksichtigung von Klima- und Wachstumsbedingungen
+    der Reben sowie der Biologie der relevanten RNQPs durchgeführt.
 
 
-2.1 Die nachfolgend genannten Virosen sind bei der amtlichen Prüfung nach
-    Maßgabe der Nummern 2.2 bis 2.6 entsprechend zu berücksichtigen:
+2.  RNQPs
+
+
+2.1 Die nachfolgend genannten RNQPs sind bei der amtlichen Prüfung nach
+    Maßgabe der Nummern 2.2 bis 2.4 entsprechend zu berücksichtigen:
+
+    a)  Insekten:
+        Viteus vitifoliae                          Fitch
+
+
+    b)  Bakterien:
+        Xylophilus ampelinus                          Willems
+        et al.
+
+
+    c)  Viren, Viroide, virusähnliche Krankheiten und Phytoplasmen:
+
+        aa) Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.
+
+
+        bb) Arabis                                mosaic virus
+
+
+        cc) Grapevine fanleaf virus
+
+
+        dd) Grapevine leafroll associated virus 1
+
+
+        ee) Grapevine leafroll associated virus 3
+
+
+        ff) Grapevine fleck virus (nur bei Unterlagsreben)
 
 
 
 
-*    *   a) Komplex der Reisigkrankheit:
-
-    *   Grapevine fanleaf virus (GFLV), Arabis mosaic virus (ArMV),
-
-
-*    *   b) Blattrollkrankheit:
-
-    *   Grapevine leafroll-associated virus 1 (GLRaV-1) und Grapevine
-        leafroll-associated virus 3 (GLRaV-3),
-
-
-*    *   c) Fleckkrankheit:
-
-    *   Grapevine fleck virus (GFkV) (nur bei Unterlagsreben).
 
 
 
 
-2.2 In den für die Erzeugung von Vorstufenpflanzgut bestimmten
-    Mutterrebenbeständen dürfen durch eine amtliche Prüfung aller Pflanzen
-    in einem international anerkannten Testverfahren die unter Nummer 2.1
-    genannten Virosen nicht nachweisbar sein. Hinsichtlich der unter
-    Nummer 2.1 Buchstabe a und b genannten Virosen ist diese Prüfung alle
-    5 Jahre zu wiederholen.
+2.2 Visuelle Kontrollen bei Vorstufenpflanzgut, Basispflanzgut,
+    Zertifiziertem Pflanzgut und Standardpflanzgut
 
-    Befallene Pflanzen sind zu entfernen.
-
-
-2.3 In den für die Erzeugung von Basispflanzgut bestimmten
-    Mutterrebenbeständen dürfen durch eine amtliche Prüfung aller Pflanzen
-    in einem geeigneten Testverfahren die unter Nummer 2.1 Buchstabe a und
-    b genannten Virosen nicht nachweisbar sein. Diese Prüfung beginnt bei
-    3 Jahre alten Mutterrebenbeständen und ist alle 6 Jahre mindestens
-    einmal zu wiederholen. Werden Mutterrebenbestände einer jährlichen
-    amtlichen Feldbesichtigung aller Pflanzen unterzogen, beginnt die
-    vorgenannte Prüfung bei 6 Jahre alten Mutterrebenbeständen und ist
-    alle 6 Jahre mindestens einmal zu wiederholen.
-
-    Befallene Pflanzen sind zu entfernen.
+    Die für die Erzeugung der genannten Pflanzgutkategorien bestimmten
+    Mutterrebenbestände und Rebschulen werden mindestens jährlich einer
+    amtlichen Bestandsbesichtigung aller Pflanzen auf das Vorhandensein
+    der in Nummer 2.1 genannten RNQPs unterzogen.
 
 
-2.4 In den für die Erzeugung von Zertifiziertem Pflanzgut bestimmten
-    Mutterrebenbeständen dürfen durch eine stichprobenweise amtliche
-    Prüfung in einem geeigneten Testverfahren die unter Nummer 2.1
-    Buchstabe a und b genannten Virosen nicht nachweisbar sein. Diese
-    Prüfung beginnt bei 5 Jahre alten Mutterrebenbeständen und ist alle 10
-    Jahre mindestens einmal zu wiederholen. Werden Mutterrebenbestände
-    einer jährlichen amtlichen Feldbesichtigung aller Pflanzen unterzogen,
-    beginnt die vorgenannte Prüfung bei 10 Jahre alten
-    Mutterrebenbeständen und ist alle 10 Jahre mindestens einmal zu
-    wiederholen.
-
-    Befallene Pflanzen sind zu entfernen.
-
-    Der Anteil der Fehlstellen, die durch die unter Nummer 2.1 Buchstabe a
-    und b genannten Virosen verursacht worden sind, darf nicht mehr als 5
-    v. H. betragen.
+2.3 Beprobung und Untersuchung
 
 
-2.5 Bei den für die Erzeugung von Standardpflanzgut bestimmten
-    Mutterrebenbeständen darf der Anteil der Fehlstellen, die durch die
-    unter Nummer 2.1 Buchstabe a und b genannten Virosen verursacht worden
-    sind, nicht mehr als 10 v. H. betragen.
-
-    Befallene Pflanzen sind deutlich zu kennzeichnen und dürfen nicht für
-    die Erzeugung von Pflanzgut verwendet werden.
+2.3.1 Die Ergebnisse der Beprobung und Untersuchung nach den Nummern 2.3.2
+    bis 2.3.4 müssen vor einer Anerkennung der betreffenden
+    Mutterrebenbestände vorliegen.
 
 
-2.6 In Rebschulen dürfen bei einer Bestandsbesichtigung keine äußeren
-    Anzeichen des Befalls mit den unter Nummer 2.1 Buchstabe a und b
-    genannten Virosen feststellbar sein. Führt die Bestandsbesichtigung zu
-    keinem eindeutigen Ergebnis, muss mit Hilfe eines geeigneten
-    Testverfahrens festgestellt werden, dass diese Virosen nicht
-    nachweisbar sind.
+2.3.2 Vorstufenpflanzgut
+
+    In den für die Erzeugung von Vorstufenpflanzgut bestimmten
+    Mutterrebenbeständen werden alle Reben im Hinblick auf das
+    Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ff
+    genannten Viren beprobt und untersucht. Dabei ist ein Verfahren mit
+    Indikatorpflanzen oder ein gleichwertiges international anerkanntes
+    Testverfahren anzuwenden. Die Beprobung und Untersuchung im Hinblick
+    auf das Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb
+    bis ee genannten Viren sind alle fünf Jahre zu wiederholen.
+
+
+2.3.3 Basispflanzgut
+
+    In den für die Erzeugung von Basispflanzgut bestimmten
+    Mutterrebenbeständen werden alle Reben im Hinblick auf das
+    Vorhandensein der in Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ee
+    genannten Viren beprobt und untersucht. Die Beprobung und Untersuchung
+    beginnen bei sechs Jahre alten Mutterrebenbeständen und sind alle
+    sechs Jahre zu wiederholen.
+
+
+2.3.4 Zertifiziertes Pflanzgut
+
+    In den für die Erzeugung von Zertifiziertem Pflanzgut bestimmten
+    Mutterrebenbeständen wird ein repräsentativer Anteil der Reben im
+    Hinblick auf das Vorhandensein der in Nummer 2.1 Buchstabe c
+    Doppelbuchstabe bb bis ee genannten Viren beprobt und untersucht. Die
+    Beprobung und Untersuchung beginnen bei zehn Jahre alten
+    Mutterrebenbeständen und sind alle zehn Jahre zu wiederholen.
+
+
+2.4 Anforderungen an die Rebenbestände hinsichtlich der unter Nummer 2.1
+    genannten RNQPs
+
+
+2.4.1 Bestände zur Erzeugung von Vorstufenpflanzgut, Basispflanzgut und
+    Zertifiziertem Pflanzgut
+
+    a)  Candidatus                          Phytoplasma
+        solani                          Quaglino
+        et al.
+
+
+        aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei
+            sind von
+            Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.,                                oder
+
+
+        bb) während der gesamten abgeschlossenen Vegetationsperiode wurden an
+            Reben der Vermehrungsbestände keine Symptome von
+            Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.                                gefunden oder
+
+
+        cc) alle Reben, die Symptome von
+            Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.                                aufweisen, wurden bei
+            Mutterrebenbeständen für die Erzeugung von Vorstufenpflanzgut und
+            Basispflanzgut entfernt, für die Erzeugung von Zertifiziertem
+            Pflanzgut zumindest von der Vermehrung ausgeschlossen und bei dem zum
+            Inverkehrbringen bestimmten Pflanzgut, das Symptome von
+            Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.                                aufweist, wurde die gesamte
+            Pflanzgutpartie einer Warmwasserbehandlung oder einer anderen
+            geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen
+            international anerkannten Protokollen unterzogen, um sicherzustellen,
+            dass das Pflanzgut frei ist von
+            Candidatus                                Phytoplasma
+            solani                                Quaglino
+            et al.
+
+
+
+
+
+    b)  Xylophilus ampelinus                          Willems
+        et al.
+
+        aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei
+            sind von
+            Xylophilus ampelinus                                Willems
+            et al.,                                oder
+
+
+        bb) während der gesamten abgeschlossenen Vegetationsperiode wurden an
+            Reben der Vermehrungsbestände keine Symptome von
+            Xylophilus ampelinus                                Willems
+            et al.                                gefunden oder
+
+
+        cc) alle Reben der Mutterrebenbestände für die Erzeugung von
+            Vorstufenpflanzgut, Basispflanzgut und Zertifiziertem Pflanzgut, die
+            Symptome von
+            Xylophilus ampelinus                                Willems
+            et al.                                aufweisen, wurden entfernt und
+            es werden geeignete Hygienemaßnahmen durchgeführt und Reben auf der
+            Vermehrungsfläche, die Symptome von
+            Xylophilus ampelinus                                Willems
+            et al.                                aufweisen, werden nach dem
+            Rebschnitt mit einem Bakterizid behandelt, um sicherzustellen, dass
+            sie frei von
+            Xylophilus ampelinus                                Willems
+            et al.                                sind, und bei dem zum
+            Inverkehrbringen bestimmten Pflanzgut, das Symptome von
+            Xylophilus ampelinus                                Willems
+            et al.                                aufweist, wird die gesamte
+            Pflanzgutpartie einer Warmwasserbehandlung oder einer anderen
+            geeigneten Behandlung gemäß den EPPO-Protokollen oder anderen
+            international anerkannten Protokollen unterzogen, um sicherzustellen,
+            dass das Pflanzgut frei ist von
+            Xylophilus ampelinus                                Willems
+            et al.
+
+
+
+
+
+    c)  Arabis                          mosaic virus, Grapevine fanleaf virus,
+        Grapevine leafroll associated virus 1, Grapevine leafroll associated
+        virus 3
+
+        aa) An Reben der Mutterrebenbestände für die Erzeugung von
+            Vorstufenpflanzgut und Basispflanzgut wurden keine Symptome eines
+            Befalls mit den genannten Viren festgestellt und befallene Pflanzen
+            wurden entfernt und vernichtet und bei Mutterrebenbeständen für die
+            Erzeugung von Zertifiziertem Pflanzgut weisen nicht mehr als 5 v. H.
+            der Reben Symptome eines Befalls mit den genannten Viren auf und die
+            befallenen Reben wurden von der Vermehrung ausgeschlossen oder
+
+
+        bb) alle Reben der Mutterrebenbestände für die Erzeugung von
+            Vorstufenpflanzgut, sowie das Vorstufenpflanzgut selbst werden in
+            insektensicheren Einrichtungen gehalten, um sicherzustellen, dass sie
+            frei von Grapevine leafroll associated Virus 1 und Grapevine leafroll
+            associated Virus 3 sind.
+
+
+
+
+
+    d)  Viteus vitifoliae                          Fitch
+
+        aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei
+            von
+            Viteus vitifoliae                                Fitch sind, oder
+
+
+        bb) Reben werden auf Unterlagen gepfropft, die widerstandsfähig gegen
+            Viteus vitifoliae                                Fitch sind, oder
+
+
+        cc) alle Reben der Mutterrebenbestände für die Erzeugung von
+            Vorstufenpflanzgut sowie das Vorstufenpflanzgut selbst werden in
+            insektensicheren Einrichtungen gehalten und während der gesamten
+            abgeschlossenen Vegetationsperiode wurde an den Reben kein Befall mit
+            Viteus vitifoliae                                Fitch festgestellt
+            und wenn zum Inverkehrbringen bestimmtes Pflanzgut Symptome von
+            Viteus vitifoliae                                Fitch aufweist, wird
+            die gesamte Pflanzgutpartie einer Begasung oder Warmwasserbehandlung
+            oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen
+            oder anderen international anerkannten Protokollen unterzogen, um
+            sicherzustellen, dass das Pflanzgut frei von
+            Viteus vitifoliae                                Fitch ist.
+
+
+
+
+
+
+
+
+2.4.2 Bestände zur Erzeugung von Standardpflanzgut
+
+    a)  Candidatus                          Phytoplasma
+        solani                          Quaglino
+        et al.
+
+        Die Anforderungen nach Nummer 2.4.1 Buchstabe a gelten entsprechend.
+
+
+    b)  Xylophilus ampelinus                          Willems
+        et al.
+
+        Die Anforderungen nach Nummer 2.4.1 Buchstabe b gelten entsprechend.
+
+
+    c)  Arabis                          mosaic virus, Grapevine fanleaf virus,
+        Grapevine leafroll associated virus 1, Grapevine leafroll associated
+        virus 3
+
+        Bei Mutterbeständen für die Erzeugung von Standardpflanzgut dürfen
+        nicht mehr als 10 v. H. der Reben Symptome eines Befalls mit den
+        genannten Viren aufweisen und die befallenen Reben wurden von der
+        Vermehrung ausgeschlossen.
+
+
+    d)  Viteus vitifoliae                          Fitch
+
+        aa) Die Vermehrungsbestände liegen in Gebieten, die bekanntermaßen frei
+            von
+            Viteus vitifoliae                                Fitch sind, oder
+
+
+        bb) Reben werden auf Unterlagen gepfropft, die widerstandsfähig gegen
+            Viteus vitifoliae                                Fitch sind, oder
+
+
+        cc) wenn zum Inverkehrbringen bestimmtes Pflanzgut Symptome von
+            Viteus vitifoliae                                Fitch aufweist, wird
+            die gesamte Pflanzgutpartie einer Begasung oder Warmwasserbehandlung
+            oder einer anderen geeigneten Behandlung gemäß den EPPO-Protokollen
+            oder anderen international anerkannten Protokollen unterzogen, um
+            sicherzustellen, dass das Pflanzgut frei von
+            Viteus vitifoliae                                Fitch ist.
+
+
+
+
+
+
+
+
 
 
 3   Mutterrebenbestände
@@ -912,7 +1160,8 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 ### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
 
-Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
+(Fundstelle: BGBl. I 2006, 1441 - 1442;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 1   Allgemeine Anforderungen
@@ -932,11 +1181,34 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 1.3 Die Ruten weisen eine ausreichende Holzreife auf.
 
 
-1.4 Das Vorhandensein von Schadorganismen, die den Wert des Pflanzgutes
-    beeinträchtigen, ist auf das geringstmögliche Maß beschränkt.
-    Pflanzgut, dass deutliche Anzeichen oder Symptome von Schadorganismen
-    aufweist, für die es keine wirksame Behandlung gibt, muss beseitigt
-    werden.
+1.4 Anforderungen hinsichtlich des Befalls mit RNQPs (entsprechend Anhang
+    IV Teil C der Durchführungsverordnung (EU) 2019/2072)
+
+
+1.4.1 Das Pflanzgut muss frei sein von
+    Xylophilus ampelinus                    Willems
+    et al                   .,
+    Arabis                    mosaic virus,
+    Candidatus                    Phytoplasma
+    solani                    Quaglino
+    et al                   ., Grapevine fanleaf virus, Grapevine leafroll
+    associated virus 1, Grapevine leafroll associated virus 3.
+
+
+1.4.2 Nicht veredeltes Pflanzgut muss frei sein von
+    Viteus vitifoliae                    Fitch. Veredeltes Pflanzgut muss
+    praktisch frei sein von
+    Viteus vitifoliae                    Fitch im Sinne des Artikels 2
+    Absatz 2 Buchstabe a der Durchführungsverordnung (EU) 2019/2072.
+    Vorstufenpflanzgut von Unterlagen muss zusätzlich frei sein von
+    Grapevine fleck virus.
+
+
+1.4.3 Das Pflanzgut muss außerdem den Anforderungen in Bezug auf
+    Unionsquarantäneschädlinge und Schutzgebiet-Quarantäneschädlinge
+    genügen, die in den gemäß der Verordnung (EU) 2016/2031 erlassenen
+    Durchführungsrechtsakten und in den nach Artikel 30 Absatz 1 der
+    Verordnung (EU) 2016/2031 erlassenen Maßnahmen festgelegt sind.
 
 
 2   Besondere Anforderungen
@@ -1151,19 +1423,19 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
 
 
-(zu § 17 Abs. 2, § 19 Abs. 4)
+(zu § 17 Absatz 2, § 17a, § 19 Absatz 4)
 
 ### Anlage 4 Angaben auf dem Etikett
 
-Fundstelle des Originaltextes: BGBl. I 1986, 213;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 1986, 213;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
     1   Basispflanzgut, Zertifiziertes Pflanzgut, Standardpflanzgut
 
 
-    1.1 "EG-Norm"
+    1.1 "EU-Norm"
 
 
     1.2 Erzeugerland
@@ -1222,10 +1494,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     3.2 Nur ein Stück
 
 
+    3.2.1 Angaben nach den Nummern 1.1 bis 1.5 und 1.8.
+
+
+    4.  Kennzeichnung mit einem Pflanzenpass
+
+        Die Kennzeichnung erfolgt bei Vorstufenpflanzgut, Basispflanzgut,
+        Zertifiziertem Pflanzgut und Standardpflanzgut sowie bei Pflanzgut von
+        Zierreben und Tafeltrauben mit einem nach den in § 17a Absatz 1
+        genannten Rechtsakten der Europäischen Union erforderlichen
+        Pflanzenpass entsprechend den dort geregelten Vorgaben.
 
 
 
-3.2.1 Angaben nach den Nummern 1.1 bis 1.5 und 1.8.
 
 
 

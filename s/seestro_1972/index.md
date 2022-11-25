@@ -20,6 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Nr. 2 V v. 18.3.2009 I 647
 
+Änderung durch
+:   Art. 1 V v. 7.12.2021 I 5188 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil A - Allgemeines
 
@@ -1668,6 +1671,90 @@ h)  Dauernde Befreiung von der Versetzung der Rundumlichter nach den
 
 
 
+
+## Teil F - Überprüfung der Einhaltung des Übereinkommens
+
+
+
+### Regel 39 Begriffsbestimmungen
+
+
+a)  “Audit” bezeichnet ein systematisches, unabhängiges und dokumentiertes
+    Verfahren, das dazu dient, Auditnachweise zu erlangen und objektiv
+    auszuwerten, um zu ermitteln, inwieweit die Auditkriterien erfüllt
+    sind.
+
+
+b)[^F819035_02_BJNR008160977BJNE005100360]
+  “Auditsystem” bezeichnet das von der Organisation unter
+    Berücksichtigung der von ihr ausgearbeiteten Richtlinien
+    eingerichtete Auditsystem der IMO-Mitgliedstaaten.
+
+
+c)  “Anwendungscode” bezeichnet den von der Organisation mit Entschließung
+    A.1070(28) angenommenen Code für die Anwendung der IMO-Instrumente
+    (III-Code).
+
+
+d)  “Auditnorm” bezeichnet den Anwendungscode.
+
+
+
+
+    Framework and Procedures for the IMO Member State Audit Scheme,
+    adopted by the Organization by resolution A.1067(28).
+[^F819035_02_BJNR008160977BJNE005100360]: 
+
+### Regel 40 Anwendung
+
+Die Vertragsparteien wenden bei der Wahrnehmung ihrer Verpflichtungen
+und Verantwortlichkeiten nach diesem Übereinkommen den Anwendungscode
+an.
+
+
+### Regel 41 Überprüfung der Einhaltung
+
+
+a)  Jede Vertragspartei unterliegt regelmäßigen Audits, welche die
+    Organisation nach Maßgabe der Auditnorm durchführt, um die Einhaltung
+    und Durchführung dieses Übereinkommens zu überprüfen.
+
+
+b)[^F819035_03_BJNR008160977BJNE005300360]
+  Der Generalsekretär der Organisation ist für die verwaltungsmäßige
+    Durchführung des Auditsystems auf der Grundlage der von der
+    Organisation ausgearbeiteten Richtlinien
+    verantwortlich.
+
+
+c)  Jede Vertragspartei ist verantwortlich für die Erleichterung der
+    Durchführung des Audits und die Umsetzung eines Maßnahmenprogramms zum
+    Umgang mit den Auditergebnissen auf der Grundlage der von der
+    Organisation ausgearbeiteten Richtlinien
+    .
+
+
+d)  Das Audit jeder Vertragspartei
+
+    (i) erfolgt auf der Grundlage eines Gesamtzeitplans, der von dem
+        Generalsekretär der Organisation erstellt wird, unter Berücksichtigung
+        der von der Organisation ausgearbeiteten Richtlinien
+        und
+
+
+    (ii) wird in regelmäßigen Abständen unter Berücksichtigung der von der
+        Organisation ausgearbeiteten Richtlinien
+        durchgeführt.
+
+
+
+
+
+
+
+    Framework and Procedures for the IMO Member State Audit Scheme,
+    adopted by the Organization by resolution A.1067(28).
+[^F819035_03_BJNR008160977BJNE005300360]: 
 
 ### Anlage I Anordnung und technische Einzelheiten der Lichter und Signalkörper
 

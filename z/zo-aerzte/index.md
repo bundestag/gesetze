@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 572, 608
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 2983
+:   Art. 12 G v. 11.7.2021 I 2754
 
 
 ## Eingangsformel
@@ -359,9 +359,12 @@ hinzuziehen. Auch andere Sozialversicherungsträger und die
 Krankenhausgesellschaften sind zu unterrichten; sie können bei der
 Bedarfsplanung hinzugezogen werden.
 
-(2) Die zuständigen Landesbehörden sind über die Aufstellung und
-Anpassung der Bedarfspläne rechtzeitig zu unterrichten, damit ihre
-Anregungen in die Beratungen einbezogen werden können.
+(2) Die zuständigen Landesbehörden und die auf Landesebene für die
+Wahrnehmung der Interessen der Patientinnen und Patienten und der
+Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen
+Organisationen sind über die Aufstellung und Anpassung der
+Bedarfspläne rechtzeitig zu unterrichten, damit ihre Anregungen in die
+Beratungen einbezogen werden können.
 
 (3) Die aufgestellten oder angepassten Bedarfspläne sind den
 Landesausschüssen der Ärzte und Krankenkassen zuzuleiten. Sie sind den
@@ -445,10 +448,9 @@ Vereinigung aufzugeben, binnen einer von ihm zu bestimmenden
 angemessenen Frist die Unterversorgung zu beseitigen. Der
 Landesausschuß kann bestimmte Maßnahmen empfehlen.
 
-(3) Dauert die bestehende oder in absehbarer Zeit drohende
-Unterversorgung auch nach Ablauf der Frist an, hat der Landesausschuß
-festzustellen, ob die in § 100 Abs. 2 des Fünften Buches
-Sozialgesetzbuch bestimmten Voraussetzungen für
+(3) Dauert die bestehende Unterversorgung auch nach Ablauf der Frist
+an, hat der Landesausschuß festzustellen, ob die in § 100 Abs. 2 des
+Fünften Buches Sozialgesetzbuch bestimmten Voraussetzungen für
 Zulassungsbeschränkungen gegeben sind und zur Beseitigung der
 bestehenden oder in absehbarer Zeit drohenden Unterversorgung mit
 verbindlicher Wirkung für einen oder mehrere Zulassungsausschüsse
@@ -545,8 +547,8 @@ b)  Bescheinigungen über die seit der Approbation ausgeübten ärztlichen
 
 
 c)  gegebenenfalls eine Erklärung nach § 19a Abs. 2 Satz 1, mit der der
-    aus der Zulassung folgende Versorgungsauftrag auf die Hälfte
-    beschränkt wird.
+    aus der Zulassung folgende Versorgungsauftrag auf die Hälfte oder drei
+    Viertel beschränkt wird.
 
 
 
@@ -575,7 +577,12 @@ c)  gegebenenfalls eine Erklärung nach § 19a Abs. 2 Satz 1, mit der der
     letzten fünf Jahre einer Entziehungskur wegen Drogen- oder
     Alkoholabhängigkeit unterzogen hat und dass gesetzliche
     Hinderungsgründe der Ausübung des ärztlichen Berufs nicht
-    entgegenstehen.
+    entgegenstehen,
+
+
+6.  eine Versicherungsbescheinigung nach § 113 Absatz 2 des
+    Versicherungsvertragsgesetzes, aus der sich das Bestehen eines
+    ausreichenden Berufshaftpflichtversicherungsschutzes ergibt.
 
 
 
@@ -587,7 +594,7 @@ beigefügt werden.
 bezeichneten Unterlagen nicht vorgelegt werden, so ist der
 nachzuweisende Sachverhalt glaubhaft zu machen.
 
-(5)
+(5) (weggefallen)
 
 
 ## Abschnitt VI - Zulassung und Vertragsarztsitz
@@ -605,10 +612,7 @@ festzusetzen, bis zu dem die vertragsärztliche Tätigkeit aufzunehmen
 ist. Liegen wichtige Gründe vor, so kann der Zulassungsausschuß auf
 Antrag des Arztes nachträglich einen späteren Zeitpunkt festsetzen.
 
-(3) Wenn die vertragsärztliche Tätigkeit in einem von
-Zulassungsbeschränkungen betroffenen Planungsbereich nicht innerhalb
-von drei Monaten nach Zustellung des Beschlusses über die Zulassung
-aufgenommen wird, endet die Zulassung.
+(3) (weggefallen)
 
 (4) In einem Planungsbereich ohne Zulassungsbeschränkungen mit einem
 allgemeinen bedarfsgerechten Versorgungsgrad ab 100 Prozent kann der
@@ -618,18 +622,69 @@ Zulassungsausschuss die Zulassung befristen.
 ### § 19a
 
 (1) Die Zulassung verpflichtet den Arzt, die vertragsärztliche
-Tätigkeit vollzeitig auszuüben.
+Tätigkeit vollzeitig auszuüben. Der Arzt ist verpflichtet, im Rahmen
+seiner vollzeitigen vertragsärztlichen Tätigkeit mindestens 25 Stunden
+wöchentlich in Form von Sprechstunden für gesetzlich Versicherte zur
+Verfügung zu stehen. Ärzte, die an der fachärztlichen Versorgung nach
+§ 73 Absatz 1a Satz 2 des Fünften Buches Sozialgesetzbuch teilnehmen
+und die insbesondere den Arztgruppen der grundversorgenden und
+wohnortnahen Patientenversorgung angehören, müssen mindestens fünf
+Stunden wöchentlich als offene Sprechstunden ohne vorherige
+Terminvereinbarung anbieten. Bei einem reduzierten Versorgungsauftrag
+nach Absatz 2 gelten die in den Sätzen 2 und 3 festgelegten
+Sprechstundenzeiten jeweils anteilig. Besuchszeiten sind auf die
+Sprechstundenzeiten nach Satz 2 anzurechnen. Die Einzelheiten zur
+angemessenen Anrechnung der Besuchszeiten nach Satz 5 sowie zu den
+Arztgruppen, die offene Sprechstunden anzubieten haben, sind bis zum
+31\. August 2019 im Bundesmantelvertrag nach § 82 Absatz 1 des Fünften
+Buches Sozialgesetzbuch zu regeln. Im Bundesmantelvertrag nach § 82
+Absatz 1 des Fünften Buches Sozialgesetzbuch können auch Regelungen
+zur zeitlichen Verteilung der Sprechstunden nach Satz 3 getroffen
+werden.
 
 (2) Der Arzt ist berechtigt, durch schriftliche Erklärung gegenüber
-dem Zulassungsausschuss seinen Versorgungsauftrag auf die Hälfte des
-Versorgungsauftrages nach Absatz 1 zu beschränken. Die Beschränkung
-des Versorgungsauftrages wird entweder im Rahmen eines Beschlusses
-nach § 19 Abs. 1 oder durch gesonderten Beschluss festgestellt.
+dem Zulassungsausschuss seinen Versorgungsauftrag auf die Hälfte oder
+drei Viertel des Versorgungsauftrages nach Absatz 1 Satz 1 zu
+beschränken. Die Beschränkung des Versorgungsauftrages wird entweder
+im Rahmen eines Beschlusses nach § 19 Abs. 1 oder durch gesonderten
+Beschluss festgestellt.
 
 (3) Auf Antrag des Arztes kann eine Beschränkung des
 Versorgungsauftrages nach Absatz 2 Satz 2 durch Beschluss aufgehoben
 werden. Der Antrag muss schriftlich gestellt werden. Es gelten die
 Vorschriften dieses Abschnitts.
+
+(4) Die Kassenärztliche Vereinigung überprüft nach Maßgabe des § 95
+Absatz 3 Satz 4 des Fünften Buches Sozialgesetzbuch die Einhaltung der
+in Absatz 1 genannten Mindestsprechstunden. Stellt sie fest, dass der
+Vertragsarzt diese in mindestens zwei aufeinanderfolgenden Quartalen
+unterschritten hat, so hat sie den betroffenen Arzt aufzufordern,
+umgehend die Anzahl seiner Sprechstunden entsprechend zu erhöhen oder
+seinen Versorgungsauftrag durch schriftliche Erklärung gegenüber dem
+Zulassungsausschuss gemäß Absatz 2 zu beschränken. Die Kassenärztliche
+Vereinigung hat den Vertragsarzt dabei auf die Möglichkeit einer
+Kürzung der Vergütung als Sanktionsmaßnahme und eines
+Zulassungsentzugs gemäß § 95 Absatz 6 des Fünften Buches
+Sozialgesetzbuch hinzuweisen. Die Kassenärztliche Vereinigung hat die
+Vergütung des Vertragsarztes zum nächstmöglichen Zeitpunkt zu kürzen,
+wenn der Vertragsarzt
+
+1.  keine rechtfertigenden Gründe für das Unterschreiten vortragen kann
+    oder
+
+
+2.  der Aufforderung der Kassenärztlichen Vereinigung nach Satz 2 nicht
+    innerhalb einer von der Kassenärztlichen Vereinigung zu setzenden
+    Frist nachkommt.
+
+
+
+Die Kassenärztliche Vereinigung hat den Vertragsarzt über die Höhe der
+Kürzung zu unterrichten. Bei wiederholtem oder fortgesetztem Verstoß
+eines Vertragsarztes gegen die in Absatz 1 Satz 2 oder Satz 4 genannte
+Pflicht hat der Zulassungsausschuss die Zulassung abhängig vom Umfang
+der Unterschreitung von Amts wegen zu einem Viertel, hälftig oder
+vollständig zu entziehen.
 
 
 ### § 20
@@ -644,7 +699,12 @@ zu den in der vertragsärztlichen Versorgung üblichen Zeiten
 anzubieten. Ein Arzt steht auch dann für die Versorgung der
 Versicherten in erforderlichem Maße zur Verfügung, wenn er neben
 seiner vertragsärztlichen Tätigkeit im Rahmen eines Vertrages nach den
-§§ 73b, 73c oder 140b des Fünften Buches Sozialgesetzbuch tätig wird.
+§§ 73b oder 140a des Fünften Buches Sozialgesetzbuch oder im Rahmen
+der ambulanten spezialfachärztlichen Versorgung nach § 116b des
+Fünften Buches Sozialgesetzbuch tätig wird. Gleiches gilt für die
+Tätigkeit im Rahmen eines Vertrages, der nach den §§ 73c und 140b des
+Fünften Buches Sozialgesetzbuch in der am 22. Juli 2015 geltenden
+Fassung geschlossen wurde.
 
 (2) Für die Ausübung vertragsärztlicher Tätigkeit ist nicht geeignet
 ein Arzt, der eine ärztliche Tätigkeit ausübt, die ihrem Wesen nach
@@ -714,31 +774,34 @@ Leistungen in ähnlicher Weise auch am Vertragsarztsitz angeboten
 werden, oder dass das Fachgebiet eines in der Zweigpraxis tätigen
 Arztes auch am Vertragsarztsitz vertreten ist. Ausnahmen zu den in
 Satz 2 genannten Grundsätzen können im Bundesmantelvertrag geregelt
-werden. Regelungen zur Verteilung der Tätigkeit zwischen dem
-Vertragsarztsitz und weiteren Orten sowie zu Mindest- und Höchstzeiten
-gelten bei medizinischen Versorgungszentren nicht für den einzelnen in
-dem medizinischen Versorgungszentrum tätigen Arzt. Sofern die weiteren
-Orte im Bezirk der Kassenärztlichen Vereinigung liegen, in der der
-Vertragsarzt Mitglied ist, hat er bei Vorliegen der Voraussetzungen
-nach Satz 1 Anspruch auf vorherige Genehmigung durch seine
-Kassenärztliche Vereinigung. Sofern die weiteren Orte außerhalb des
-Bezirks seiner Kassenärztlichen Vereinigung liegen, hat der
-Vertragsarzt bei Vorliegen der Voraussetzungen nach Satz 1 Anspruch
-auf Ermächtigung durch den Zulassungsausschuss, in dessen Bezirk er
-die Tätigkeit aufnehmen will; der Zulassungsausschuss, in dessen
-Bezirk er seinen Vertragsarztsitz hat, sowie die beteiligten
-Kassenärztlichen Vereinigungen sind vor der Beschlussfassung
-anzuhören. Der nach Satz 6 ermächtigte Vertragsarzt kann die für die
-Tätigkeit an seinem Vertragsarztsitz angestellten Ärzte auch im Rahmen
-seiner Tätigkeit an dem weiteren Ort beschäftigen. Er kann außerdem
-Ärzte für die Tätigkeit an dem weiteren Ort nach Maßgabe der
-Vorschriften anstellen, die für ihn als Vertragsarzt gelten würden,
-wenn er an dem weiteren Ort zugelassen wäre. Zuständig für die
-Genehmigung der Anstellung nach Satz 8 ist der für die Erteilung der
-Ermächtigung nach Satz 6 zuständige Zulassungsausschuss. Keiner
-Genehmigung bedarf die Tätigkeit eines Vertragsarztes an einem der
-anderen Vertragsarztsitze eines Mitglieds der überörtlichen
-Berufsausübungsgemeinschaft nach § 33 Abs. 2, der er angehört.
+werden. Eine Verbesserung der Versorgung nach Satz 1 Nummer 1 kann
+auch darin bestehen, dass eine bestehende Praxis am ursprünglichen
+Vertragsarztsitz als Zweigpraxis weitergeführt wird. Regelungen zur
+Verteilung der Tätigkeit zwischen dem Vertragsarztsitz und weiteren
+Orten sowie zu Mindest- und Höchstzeiten gelten bei medizinischen
+Versorgungszentren nicht für den einzelnen in dem medizinischen
+Versorgungszentrum tätigen Arzt. Sofern die weiteren Orte im Bezirk
+der Kassenärztlichen Vereinigung liegen, in der der Vertragsarzt
+Mitglied ist, hat er bei Vorliegen der Voraussetzungen nach Satz 1
+Anspruch auf vorherige Genehmigung durch seine Kassenärztliche
+Vereinigung. Sofern die weiteren Orte außerhalb des Bezirks seiner
+Kassenärztlichen Vereinigung liegen, hat der Vertragsarzt bei
+Vorliegen der Voraussetzungen nach Satz 1 Anspruch auf Ermächtigung
+durch den Zulassungsausschuss, in dessen Bezirk er die Tätigkeit
+aufnehmen will; der Zulassungsausschuss, in dessen Bezirk er seinen
+Vertragsarztsitz hat, sowie die beteiligten Kassenärztlichen
+Vereinigungen sind vor der Beschlussfassung anzuhören. Der nach Satz 7
+ermächtigte Vertragsarzt kann die für die Tätigkeit an seinem
+Vertragsarztsitz angestellten Ärzte auch im Rahmen seiner Tätigkeit an
+dem weiteren Ort beschäftigen. Er kann außerdem Ärzte für die
+Tätigkeit an dem weiteren Ort nach Maßgabe der Vorschriften anstellen,
+die für ihn als Vertragsarzt gelten würden, wenn er an dem weiteren
+Ort zugelassen wäre. Zuständig für die Genehmigung der Anstellung nach
+Satz 9 ist der für die Erteilung der Ermächtigung nach Satz 7
+zuständige Zulassungsausschuss. Keiner Genehmigung bedarf die
+Tätigkeit eines Vertragsarztes an einem der anderen Vertragsarztsitze
+eines Mitglieds der überörtlichen Berufsausübungsgemeinschaft nach §
+33 Abs. 2, der er angehört.
 
 (4) Die Genehmigung und die Ermächtigung zur Aufnahme weiterer
 vertragsärztlicher Tätigkeiten nach Absatz 3 können mit
@@ -760,7 +823,8 @@ Zulassungsausschusses wechseln.
 
 (7) Der Zulassungsausschuss darf den Antrag eines Vertragsarztes auf
 Verlegung seines Vertragsarztsitzes nur genehmigen, wenn Gründe der
-vertragsärztlichen Versorgung dem nicht entgegenstehen.
+vertragsärztlichen Versorgung dem nicht entgegenstehen. Entsprechendes
+gilt für die Verlegung einer genehmigten Anstellung.
 
 
 ### § 25
@@ -774,18 +838,31 @@ vertragsärztlichen Versorgung dem nicht entgegenstehen.
 
 ### § 26
 
-(1) Der Zulassungsausschuß hat das vollständige oder hälftige Ruhen
-der Zulassung eines Vertragsarztes zu beschließen, wenn die
-Voraussetzungen des § 95 Abs. 5 des Fünften Buches Sozialgesetzbuch
-erfüllt sind und Gründe der Sicherstellung der vertragsärztlichen
-Versorgung nicht entgegenstehen.
+(1) Der Zulassungsausschuss hat das vollständige Ruhen der Zulassung
+eines Vertragsarztes zu beschließen, wenn
+
+1.  die Voraussetzungen des § 95 Absatz 5 des Fünften Buches
+    Sozialgesetzbuch erfüllt sind und Gründe der Sicherstellung der
+    vertragsärztlichen Versorgung nicht entgegenstehen oder
+
+
+2.  die Voraussetzungen des § 95e Absatz 4 des Fünften Buches
+    Sozialgesetzbuch erfüllt sind.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 kann auch das Ruhen der Hälfte
+oder eines Viertels der Zulassung angeordnet werden. In dem Beschluss
+nach Satz 1 Nummer 2 ist der Zeitpunkt des Ablaufs der Frist nach §
+95e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch festzusetzen.
 
 (2) Tatsachen, die das Ruhen der Zulassung bedingen können, haben der
 Vertragsarzt, die Kassenärztliche Vereinigung, die Krankenkassen und
 die Landesverbände der Krankenkassen dem Zulassungsausschuß
 mitzuteilen.
 
-(3) In dem Beschluß ist die Ruhenszeit festzusetzen.
+(3) In dem Beschluss nach Absatz 1 Satz 1 Nummer 1 und Satz 2 ist die
+Ruhenszeit festzusetzen.
 
 (4) Über die ruhenden Zulassungen führt die Kassenärztliche
 Vereinigung (Registerstelle) ein besonderes Verzeichnis.
@@ -793,12 +870,16 @@ Vereinigung (Registerstelle) ein besonderes Verzeichnis.
 
 ### § 27
 
-Der Zulassungsausschuß hat von Amts wegen über die vollständige oder
-hälftige Entziehung der Zulassung zu beschließen, wenn die
-Voraussetzungen nach § 95 Abs. 6 des Fünften Buches Sozialgesetzbuch
-gegeben sind. Die Kassenärztliche Vereinigung und die Landesverbände
-der Krankenkassen sowie die Ersatzkassen können die Entziehung der
-Zulassung beim Zulassungsausschuß unter Angabe der Gründe beantragen.
+Der Zulassungsausschuß hat von Amts wegen über die vollständige
+Entziehung der Zulassung oder die Entziehung der Hälfte oder eines
+Viertels der Zulassung zu beschließen, wenn die Voraussetzungen nach §
+95 Abs. 6 des Fünften Buches Sozialgesetzbuch gegeben sind. Er
+beschließt auch von Amts wegen über die vollständige Entziehung der
+Zulassung, wenn die Voraussetzungen nach § 95e Absatz 4 Satz 7 des
+Fünften Buches Sozialgesetzbuch gegeben sind. Die Kassenärztliche
+Vereinigung und die Landesverbände der Krankenkassen sowie die
+Ersatzkassen können die Entziehung der Zulassung beim
+Zulassungsausschuß unter Angabe der Gründe beantragen.
 
 
 ### § 28
@@ -847,6 +928,14 @@ ermächtigen, sofern dies notwendig ist, um
 
 
 
+Ärzte mit einer für die Behandlung erforderlichen abgeschlossenen
+Weiterbildung sowie psychosoziale Einrichtungen mit einer fachlich-
+medizinischen ständigen ärztlichen Leitung sind vom
+Zulassungsausschuss auf Antrag zur ambulanten psychotherapeutischen
+und psychiatrischen Versorgung von Empfängern laufender Leistungen
+nach § 2 des Asylbewerberleistungsgesetzes, die Folter, Vergewaltigung
+oder sonstige schwere Formen psychischer, physischer oder sexueller
+Gewalt erlitten haben, zu ermächtigen.
 
 (2) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund
 der Krankenkassen können im Bundesmantelvertrag Regelungen treffen,
@@ -878,8 +967,8 @@ Wirtschaftsraum ausüben dürfen.
 
 (6) Der Antrag auf Ermächtigung ist schriftlich an den
 Zulassungsausschuß zu richten. Ihm sind die Approbationsurkunde sowie
-die in § 18 Abs. 2 Buchstabe e genannten Erklärungen beizufügen. § 18
-Abs. 3 gilt entsprechend.
+die in § 18 Absatz 2 Nummer 5 und 6 genannten Erklärungen und
+Bescheinigungen beizufügen. § 18 Abs. 3 gilt entsprechend.
 
 (7) Die Ermächtigung ist zeitlich, räumlich und ihrem Umfang nach zu
 bestimmen. In dem Ermächtigungsbeschluß ist auch auszusprechen, ob der
@@ -894,8 +983,10 @@ wenn nachträglich bekannt wird, daß bei ihrer Erteilung
 Versagungsgründe im Sinne des Satzes 1 vorgelegen haben. Sie ist zu
 widerrufen, wenn nachträglich durch einen in der Person des Arztes
 liegenden Grund der mit der Ermächtigung verfolgte Zweck nicht
-erreicht wird. Die Sätze 1 bis 3 gelten entsprechend, wenn
-Einrichtungen ermächtigt werden.
+erreicht wird oder die Voraussetzungen des § 95e Absatz 5 in
+Verbindung mit Absatz 4 des Fünften Buches Sozialgesetzbuch erfüllt
+sind. Die Sätze 1 bis 3 gelten entsprechend, wenn Einrichtungen
+ermächtigt werden.
 
 (9) (weggefallen)
 
@@ -911,12 +1002,12 @@ Einrichtungen ermächtigt werden.
 
 
 2.  in einer Vorsorge- oder Rehabilitationseinrichtung, mit der ein
-    Vorsorgevertrag nach § 111 Satz 2 des Fünften Buches Sozialgesetzbuch
-    besteht, oder
+    Versorgungsvertrag nach § 111 Absatz 2 des Fünften Buches
+    Sozialgesetzbuch besteht, oder
 
 
-3.  nach § 119b Satz 3 des Fünftens Buches Sozialgesetzbuch in einer
-    stationären Pflegeeinrichtung
+3.  nach § 119b Absatz 1 Satz 3 und 4 des Fünftens Buches Sozialgesetzbuch
+    in einer stationären Pflegeeinrichtung
 
 
 
@@ -981,7 +1072,11 @@ Vertragsarzt einen Vertreter oder einen Assistenten nur beschäftigen,
 
 
 
-Die Kassenärztliche Vereinigung kann die in Satz 2 Nummer 2 und 3
+Die Beschäftigung von Ärzten als Weiterbildungsassistenten nach Satz 2
+Nummer 1 erste Alternative ist bei Antrag auf Teilnahme zur
+vertragsärztlichen Versorgung auch nach Abschluss der Weiterbildung
+zulässig für die Zeit bis zur Entscheidung über den Antrag. Die
+Kassenärztliche Vereinigung kann die in Satz 2 Nummer 2 und 3
 genannten Zeiträume verlängern. Für die Beschäftigung eines Vertreters
 oder Assistenten ist die vorherige Genehmigung der Kassenärztlichen
 Vereinigung erforderlich. Die Dauer der Beschäftigung ist zu
@@ -993,7 +1088,15 @@ führen können.
 
 (3) Die Beschäftigung eines Assistenten darf nicht der Vergrößerung
 der Kassenpraxis oder der Aufrechterhaltung eines übergroßen
-Praxisumfangs dienen.
+Praxisumfangs dienen. In den Fällen der Beschäftigung eines
+Assistenten im Rahmen der Weiterbildung nach § 75a des Fünften Buches
+Sozialgesetzbuch hat die Kassenärztliche Vereinigung im
+Verteilungsmaßstab nach § 87b des Fünften Buches Sozialgesetzbuch
+festzulegen, in welchem Umfang abweichend von Satz 1 und § 87b Absatz
+2 Satz 1 des Fünften Buches Sozialgesetzbuch eine Vergrößerung der
+Kassenpraxis zulässig ist; bei der Festlegung ist insbesondere der von
+der Praxis zu zahlende Anhebungsbetrag nach § 75a Absatz 1 Satz 4 des
+Fünften Buches Sozialgesetzbuch zu berücksichtigen.
 
 (4) Der Vertragsarzt hat Vertreter und Assistenten zur Erfüllung der
 vertragsärztlichen Pflichten anzuhalten.
@@ -1006,7 +1109,7 @@ vertragsärztliche Tätigkeit persönlich auszuüben. Bei Krankheit,
 Urlaub oder Teilnahme an ärztlicher Fortbildung oder an einer
 Wehrübung kann er sich innerhalb von zwölf Monaten bis zur Dauer von
 drei Monaten vertreten lassen. Satz 2 gilt nicht für Ermächtigungen
-nach § 31 Abs. 1 Buchstabe b.
+nach § 31 Absatz 1 Satz 1 Nummer 2.
 
 
 ### § 32b
@@ -1038,6 +1141,17 @@ Kassenärztlichen Vereinigung die Durchführung eines
 Nachbesetzungsverfahrens nach § 103 Absatz 4 des Fünften Buches
 Sozialgesetzbuch, wird der bisher angestellte Arzt Inhaber der
 Zulassung.
+
+(6) Die Beschäftigung eines Vertreters für einen angestellten Arzt ist
+zulässig; § 32 Absatz 1 und 4 gilt entsprechend. Die Beschäftigung
+eines Vertreters für einen angestellten Arzt ist für die Dauer von
+sechs Monaten zulässig, wenn der angestellte Arzt freigestellt ist
+oder das Anstellungsverhältnis durch Tod, Kündigung oder andere Gründe
+beendet ist. Hat der angestellte Arzt einen gesetzlichen Anspruch auf
+Freistellung, ist eine Vertretung für die Dauer der Freistellung
+zulässig.
+
+(7) § 26 gilt entsprechend.
 
 
 ### § 33
@@ -1163,13 +1277,61 @@ Berufungsausschuß sein.
 
 #### § 36
 
-(1) Der Zulassungsausschuß beschließt in Sitzungen. Zu den Sitzungen
-lädt der Vorsitzende unter Angabe der Tagesordnung ein.
+(1) Der Zulassungsausschuß beschließt in Sitzungen. Sitzungen sind im
+Regelfall als Präsenzsitzungen bei persönlicher Anwesenheit aller
+Sitzungsteilnehmer im Sitzungszimmer durchzuführen; unter den
+Voraussetzungen der Absätze 3 und 4 können sie mittels Videotechnik
+durchgeführt werden. Zu den Sitzungen lädt der Vorsitzende unter
+Angabe der Tagesordnung ein.
 
 (2) In den Fällen des § 140f Abs. 3 des Fünften Buches
-Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter unter
-Einhaltung einer Frist von zwei Wochen unter Angabe der Tagesordnung
-zu laden.
+Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter
+und in den Fällen des § 96 Absatz 2a des Fünften Buches
+Sozialgesetzbuch ist die für die Sozialversicherung zuständige oberste
+Landesbehörde zur Wahrnehmung ihres Mitberatungsrechts
+unter Einhaltung einer Frist von zwei Wochen unter Angabe der
+Tagesordnung zu laden. Soll die Wahrnehmung des Mitberatungsrechts im
+Rahmen einer Sitzung mittels Videotechnik nach Absatz 4 erfolgen, sind
+sie in der Ladung oder im Fall einer späteren Entscheidung für diese
+Sitzungsform unverzüglich über den Ablauf und die technischen
+Voraussetzungen zu informieren.
+
+(3) Abweichend von Absatz 1 kann eine Sitzung aus Gründen des
+Gesundheitsschutzes oder aus anderen gewichtigen Gründen auch ohne die
+persönliche Anwesenheit aller Sitzungsteilnehmer im Sitzungszimmer
+mittels Videotechnik durchgeführt werden. Hierüber entscheidet der
+Zulassungsausschuss nach pflichtgemäßem Ermessen. Dabei entscheidet er
+auch, ob die Sitzung durchgeführt werden soll
+
+1.  als kombinierte Präsenz- und Videositzung, an der sowohl Personen im
+    Sitzungszimmer als auch mittels Videotechnik zugeschaltete Personen
+    teilnehmen, oder
+
+
+2.  als Videokonferenz, an der nur mittels Videotechnik zugeschaltete
+    Personen teilnehmen.
+
+
+
+Die Entscheidung kann nur einstimmig getroffen werden. Der
+Zulassungsausschuss kann die Entscheidung ohne Präsenzsitzung in einer
+Video- oder Telefonkonferenz treffen. Die Gründe nach Satz 1 und die
+Bestätigung der Einstimmigkeit der Beschlussfassung durch den
+Vorsitzenden sind schriftlich zu dokumentieren und der Niederschrift
+nach § 42 beizufügen. Die Entscheidung nach den Sätzen 2 und 3 ist
+nicht isoliert anfechtbar. Wird eine Sitzung mittels Videotechnik
+durchgeführt, so ist sie über die gesamte Sitzungsdauer zeitgleich in
+Bild und Ton an alle Orte, an denen sich die Mitglieder oder
+Beteiligten aufhalten, zu übertragen. Es ist sicherzustellen, dass
+Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine
+Aufzeichnung der Übertragung ist unzulässig.
+
+(4) Hat der Zulassungsausschuss gemäß Absatz 3 Satz 2 entschieden,
+eine Sitzung, bei der die Patientenvertreterinnen und -vertreter oder
+die für die Sozialversicherung zuständige oberste Landesbehörde ein
+Mitberatungsrecht haben, mittels Videotechnik durchzuführen, so können
+diese ihr Mitberatungsrecht wahrnehmen, indem sie mittels Videotechnik
+an der Sitzung teilnehmen.
 
 
 #### § 37
@@ -1177,14 +1339,45 @@ zu laden.
 (1) Über Zulassungen und über die Entziehung von Zulassungen
 beschließt der Zulassungsausschuß nach mündlicher Verhandlung. In
 allen anderen Fällen kann der Zulassungsausschuß eine mündliche
-Verhandlung anberaumen.
+Verhandlung anberaumen. Hat der Zulassungsausschuss gemäß § 36 Absatz
+3 Satz 2 entschieden, eine Sitzung mittels Videotechnik durchzuführen,
+gilt für die im Rahmen dieser Sitzung durchgeführten mündlichen
+Verhandlungen § 36 Absatz 3 Satz 8 bis 10 entsprechend. Widerspricht
+ein am Verfahren beteiligter Arzt der Durchführung der mündlichen
+Verhandlung mittels Videotechnik, ist die mündliche Verhandlung unter
+persönlicher Anwesenheit der Mitglieder des Zulassungsausschusses und
+des widersprechenden Arztes im Sitzungszimmer durchzuführen; auf die
+Form der Teilnahme anderer Beteiligter hat der Widerspruch keinen
+Einfluss. Wird eine mündliche Verhandlung mittels Videotechnik
+durchgeführt, so stellt der Zulassungsausschuss auf Verlangen eines an
+dem Verfahren beteiligten Arztes geeignete Räumlichkeiten mit der
+erforderlichen technischen Ausstattung für seine Teilnahme an der
+Sitzung zur Verfügung.
 
 (2) Die Kassenärztliche Vereinigung, die Landesverbände der
 Krankenkassen und die Ersatzkassen sowie die an dem Verfahren
 beteiligten Ärzte sind unter Einhaltung einer Frist von zwei Wochen
 zur mündlichen Verhandlung zu laden; die Ladung ist zuzustellen. Es
 kann auch in Abwesenheit Beteiligter verhandelt werden, falls in der
-Ladung darauf hingewiesen ist.
+Ladung darauf hingewiesen ist. Hat der Zulassungsausschuss gemäß § 36
+Absatz 3 Satz 2 entschieden, eine Sitzung mittels Videotechnik
+durchzuführen, sind die Beteiligten nach Satz 1 im Fall einer im
+Rahmen dieser Sitzung durchgeführten mündlichen Verhandlung in der
+Ladung oder im Fall einer späteren Entscheidung für diese Sitzungsform
+unverzüglich über den Ablauf und die technischen Voraussetzungen zu
+informieren. Die beteiligten Ärzte sind auch über ihr
+Widerspruchsrecht nach Absatz 1 Satz 4 und die Möglichkeit der
+Teilnahme nach Absatz 1 Satz 5 zu informieren.
+
+(4) Der Zulassungsausschuss kann Beteiligten, Patientenvertreterinnen
+und  -vertretern sowie der für die Sozialversicherung zuständigen
+obersten Landesbehörde auf Antrag oder von Amts wegen gestatten, sich
+während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten
+und dort Verfahrenshandlungen vorzunehmen, auch wenn Gründe nach § 36
+Absatz 3 Satz 1 nicht vorliegen. Er kann Zeugen oder Sachverständigen
+auf Antrag gestatten, sich während einer mündlichen Verhandlung an
+einem anderen Ort aufzuhalten, auch wenn Gründe nach § 36 Absatz 3
+Satz 1 nicht vorliegen. § 36 Absatz 3 Satz 7 bis 10 gilt entsprechend.
 
 
 #### § 38
@@ -1230,6 +1423,10 @@ Anwesenheit bei der Beschlussfassung.
 
 (2) Beschlüsse können nur bei vollständiger Besetzung des
 Zulassungsausschusses gefaßt werden. Stimmenthaltung ist unzulässig.
+
+(2a) Abstimmungen in Sitzungen, die mittels Videotechnik durchgeführt
+werden, erfolgen durch mündliche Erklärung der einzelnen Mitglieder.
+Der Vorsitzende fasst das Abstimmungsergebnis zusammen.
 
 (3) Über den Hergang der Beratungen und über das Stimmenverhältnis ist
 Stillschweigen zu bewahren.
@@ -1377,7 +1574,15 @@ erhoben:
 *    *   d)
 
     *   nach erfolgter Eintragung einer auf § 32b Abs. 2 beruhenden
-        Genehmigung in das Verzeichnis nach § 32b Abs. 4 ....
+        Genehmigung in das Verzeichnis nach § 32b Abs. 4 .........
+
+    *   400 Euro
+
+
+*    *   e)
+
+    *   nach Beschluss des Ruhens einer Zulassung nach § 26 Absatz 1 Satz 1
+        Nummer 2 .........
 
     *   400 Euro.
 
@@ -1399,6 +1604,16 @@ c)  die Gebühr nach Absatz 1 Buchstabe d an die Geschäftsstelle des
 
 
 
+
+(4) Abweichend von den Absätzen 1 und 2 werden in Verfahren, die eine
+Tätigkeit in Gebieten betreffen, für die der Landesausschuss der Ärzte
+und Krankenkassen die Feststellung nach § 100 Absatz 1 und 3 des
+Fünften Buches Sozialgesetzbuch getroffen hat, keine Gebühren erhoben.
+Dies gilt nicht für Anträge nach Absatz 1 Buchstabe a. Der
+Zulassungsausschuss kann von der Erhebung von Gebühren auch absehen
+oder diese reduzieren, wenn dies aus Versorgungsgründen angezeigt ist.
+Bei der Nachbesetzung einer genehmigten Anstellung sind die Gebühren
+nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
 
 
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
@@ -1423,7 +1638,7 @@ Psychotherapeuten, die nach dem 31. Dezember 1998 gestellt werden.
 (1) Nach dem Inkrafttreten dieser Zulassungsordnung sind Arztregister
 nach dem in § 2 vorgeschriebenen Muster anzulegen.
 
-(2) bis (4)
+(2) bis (4) (gegenstandslos)
 
 
 ### § 54
@@ -1437,7 +1652,7 @@ nach dem in § 2 vorgeschriebenen Muster anzulegen.
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
 3 Abs. 2 des Gesetzes über Kassenarztrecht auch im Land Berlin ...
 
-(2)
+(2) (gegenstandslos)
 
 
 ### Schlußformel
@@ -1477,54 +1692,4 @@ Arzt für ............................... ab ................
 22\. Verhängung eines Berufsverbots am ..........................
 23\. Im Arztregister gestrichen am ..............................
 24\. Bemerkungen ................................................
-
-Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III
-(BGBl. II 1990, 889, 1055)
-
-### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-2.  Zulassungsverordnung für Kassenärzte in der im Bundesgesetzblatt Teil
-    III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung,
-    zuletzt geändert durch Artikel 18 des Gesetzes vom 20. Dezember 1988
-    (BGBl. I S. 2477),
-
-    mit folgenden Maßgaben:
-
-    Die §§ 3, 25, 31 Abs. 9 und § 34 finden mit folgenden Maßgaben
-    Anwendung:
-
-    a)  Für Ärzte, die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3
-        des Vertrages genannten Gebiet die Facharztanerkennung besitzen, gilt
-        das Erfordernis des § 3 Abs. 2 Buchstabe b nicht.
-
-
-    b)  Die Vorschriften der §§ 25 und 31 Abs. 9 gelten bis zum 31. Dezember
-        1995 nicht für die Zulassung oder Ermächtigung von Ärzten der
-        Jahrgänge 1941 und älter, wenn diese am 1. Januar 1990 ihren ständigen
-        Wohnsitz in dem in Artikel 3 des Vertrages genannten Gebiet hatten.
-
-
-    c)  Der Zulassungsausschuß nach § 34 besteht in dem in Artikel 3 des
-        Vertrages genannten Gebiet bis zum 31. Dezember 1995 aus drei
-        Vertretern der Krankenkassen und drei Vertretern der Ärzte. Vertreter
-        der Ärzte sind ein Kassenarzt, ein Arzt, der in einer Einrichtung nach
-        § 311 Abs. 2 beschäftigt ist, sowie ein außerordentliches Mitglied der
-        Kassenärztlichen Vereinigung.
-
-
-
-
-
-
-...
-
-11. Die Nummern 2, 3 und 4 treten am 1. Januar 1991 in Kraft.
-
-
-
 

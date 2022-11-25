@@ -14,13 +14,13 @@ Ausfertigungsdatum
 :   1992-12-17
 
 Fundstelle
-:   BGBl I: 1992, 2061
+:   BGBl I: 1992, 2061 (1993, 228)
 
 Neugefasst durch
 :   Bek. v. 3.3.1998 I 394;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.4.2010 I 399
+:   Art. 5 V v. 3.3.2020 I 412
 
 
 ## § 1 Anwendungsbereich
@@ -64,7 +64,8 @@ worden ist.
 (3a) Wer ein Traditionsschiff führt, bedarf einer Fahrerlaubnis. Bei
 Traditionsschiffen bis 15 Meter Rumpflänge und mit weniger als 25
 Personen an Bord, ist die Fahrerlaubnis durch den
-Sportbootführerschein-See nachzuweisen.
+Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen
+nachzuweisen.
 
 (4) Bei Traditionsschiffen bis 15 Meter Rumpflänge und mehr als 25
 Personen an Bord oder mit 15 bis 25 Meter Rumpflänge ist die
@@ -105,10 +106,10 @@ Schiffssicherheitsverordnung anerkanntes und gültiges Seefunkzeugnis.
 
 ## § 2 Beauftragung
 
-Der Deutsche Motoryachtverband e.V. und der Deutsche Segler-Verband e.
-V. werden beauftragt, nach Maßgabe dieser Verordnung und der zu ihrer
-Durchführung vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung erlassenen Richtlinien über Anträge auf Zulassung zur
+Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband
+e. V. werden beauftragt, nach Maßgabe dieser Verordnung und der zu
+ihrer Durchführung vom Bundesministerium für Verkehr und digitale
+Infrastruktur erlassenen Richtlinien über Anträge auf Zulassung zur
 Prüfung zum Erwerb des Sportküstenschifferscheins, des
 Sportseeschifferscheins und des Sporthochseeschifferscheins zu
 entscheiden, die Prüfungen abzunehmen, bei Bestehen der Prüfung
@@ -119,17 +120,19 @@ Traditionsschiffen oder zum Betrieb von Maschinenanlagen auf
 Traditionsschiffen in den Sportsee- oder Sporthochseeschifferschein
 vorzunehmen beziehungsweise den Befähigungsnachweis für Maschinisten
 auf Traditionsschiffen nach dem Muster der Anlage 3 auszustellen sowie
-nach § 15 Kosten zu erheben. Sie unterstehen hierbei der Fachaufsicht
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung, der sich
-bei der Fachaufsicht über die Zentrale Verwaltungsstelle bei der
-Durchführung der Aufgaben nach § 3 Abs. 2 der Wasser- und
-Schiffahrtsdirektion Nordwest bedient. Soweit die beauftragten
-Verbände Aufgaben nach § 13 Abs. 4a in Verbindung mit Anlage 3 der
-Schiffssicherheitsverordnung wahrnehmen, unterstehen sie hierbei der
-Fachaufsicht des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung, das sich bei der Fachaufsicht über die Zentrale
-Verwaltungsstelle insoweit des Bundesamtes für Seeschifffahrt und
-Hydrographie bedient.
+nach einer Besonderen Gebührenverordnung des Bundesministeriums für
+Verkehr und digitale Infrastruktur nach § 22 Absatz 4 des
+Bundesgebührengesetzes Gebühren und Auslagen zu erheben. Sie
+unterstehen hierbei der Fachaufsicht des Bundesministeriums für
+Verkehr und digitale Infrastruktur, der sich bei der Fachaufsicht über
+die Zentrale Verwaltungsstelle bei der Durchführung der Aufgaben nach
+§ 3 Abs. 2 der Generaldirektion Wasserstraßen und Schifffahrt bedient.
+Soweit die beauftragten Verbände Aufgaben nach § 13 Abs. 4a in
+Verbindung mit Anlage 3 der Schiffssicherheitsverordnung wahrnehmen,
+unterstehen sie hierbei der Fachaufsicht des Bundesministeriums für
+Verkehr und digitale Infrastruktur, das sich bei der Fachaufsicht über
+die Zentrale Verwaltungsstelle insoweit des Bundesamtes für
+Seeschifffahrt und Hydrographie bedient.
 
 
 ## § 3 Zuständigkeit
@@ -148,18 +151,18 @@ Zulassungsvoraussetzungen prüft, den Erfordernissen entsprechend die
 Prüfungstermine und Prüfungsorte festlegt, das Bestehen der Prüfung
 feststellt und die entsprechenden Scheine ausstellt. Die Zentrale
 Verwaltungsstelle wird von einem Leiter geführt, der vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung bestellt wird.
-Die Zentrale Verwaltungsstelle ist auch für die Durchführung der
+Bundesministerium für Verkehr und digitale Infrastruktur bestellt
+wird. Die Zentrale Verwaltungsstelle ist auch für die Durchführung der
 Aufgaben zur Erteilung des Sportküstenschifferscheins zuständig. Sie
 bedient sich bei der Zulassung zur Prüfung und deren Durchführung
 sowie der Erteilung des Scheins einschließlich der Erhebung und
-Einziehung der Kosten der Prüfungsausschüsse nach § 4a.
+Einziehung der Gebühren und Auslagen der Prüfungsausschüsse nach § 4a.
 
 (3) Für die Festlegung der besonderen fachlichen Anforderungen an die
 Befähigung von Schiffern im Sinne des § 1 Abs. 5 und Maschinisten im
 Sinne des § 1 Abs. 6 auf Traditionsschiffen (Erfahrungsnachweis) ist
 ausschließlich die Gemeinsame Kommission für historische
-Wasserfahrzeuge e.V. (GSHW) zuständig. Die Einbindung dieser Aufgaben
+Wasserfahrzeuge e. V. (GSHW) zuständig. Die Einbindung dieser Aufgaben
 in das Verfahren zur Prüfung und Bescheinigung gewährleistet eine
 Arbeitsgruppe bestehend aus Vertretern der GSHW und der Zentralen
 Verwaltungsstelle, in der ein Vertreter der GSHW den Vorsitz führt.
@@ -187,12 +190,12 @@ Prüfungskommission besteht
 
 
 (2) Die Vorsitzenden der Prüfungskommissionen werden auf Vorschlag des
-Lenkungsausschusses von der Wasser- und Schifffahrtsdirektion Nordwest
-mit Zustimmung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung und die übrigen Mitglieder der Prüfungskommissionen
-von dem Lenkungsausschuß bestellt. Die Wasser- und
-Schifffahrtsdirektion Nordwest kann mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung die
+Lenkungsausschusses von der Generaldirektion Wasserstraßen und
+Schifffahrt mit Zustimmung des Bundesministeriums für Verkehr und
+digitale Infrastruktur und die übrigen Mitglieder der
+Prüfungskommissionen von dem Lenkungsausschuß bestellt. Die
+Generaldirektion Wasserstraßen und Schifffahrt kann mit Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur die
 Bestellung der Vorsitzenden der Prüfungskommissionen nach Anhörung des
 Lenkungsausschusses widerrufen oder zurücknehmen, der Lenkungsausschuß
 kann die Bestellung der übrigen Mitglieder der Prüfungskommissionen
@@ -225,8 +228,8 @@ in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 Erteilung des Sportküstenschifferscheins werden von den beauftragten
 Verbänden Prüfungsausschüsse eingerichtet, die von einem Leiter
 geführt werden, der auf Vorschlag des Lenkungsausschusses von der
-Wasser- und Schifffahrtsdirektion Nordwest mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung bestellt
+Generaldirektion Wasserstraßen und Schifffahrt mit Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur bestellt
 wird.
 
 (2) Die Prüfung zum Sportküstenschifferschein wird von einer
@@ -234,7 +237,7 @@ Prüfungskommission abgenommen, die vom Leiter des Prüfungsausschusses
 eingesetzt wird. Die Prüfungskommission besteht
 
 1.  für die theoretische Prüfung aus einem Vorsitzenden und mindestens
-    zwei weiteren Prüfern,
+    einem weiteren Prüfer,
 
 
 2.  für die praktische Prüfung aus einem Vorsitzenden und mindestens einem
@@ -265,8 +268,9 @@ enthalten:
 
 
 3.  bei Beantragung des Sportküsten- oder des Sportseeschifferscheins den
-    Sportbootführerschein-See und die Nachweise nach § 6 Abs. 1 Nr. 2 oder
-    § 6 Abs. 2 Nr. 2 für die jeweilige Antriebsart,
+    Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen
+    und die Nachweise nach § 6 Abs. 1 Nr. 2 oder § 6 Abs. 2 Nr. 2 für die
+    jeweilige Antriebsart,
 
 
 4.  bei Beantragung des Sporthochseeschifferscheins den
@@ -303,8 +307,9 @@ Angaben und Unterlagen gemäß Absatz 1 Nr. 1 und 2 folgendes enthalten:
 Yachten mit Antriebsmaschine oder mit Antriebsmaschine und unter Segel
 nach dem Muster der Anlage 1a erhalten, wenn er
 
-1.  im Besitz des Sportbootführerscheins-See nach § 1 der
-    Sportbootführerscheinverordnung-See ist,
+1.  im Besitz des Sportbootführerscheins für den Geltungsbereich
+    Seeschifffahrtsstraßen nach § 1 der Sportbootführerscheinverordnung
+    ist,
 
 
 2.  den Nachweis erbringt, daß er mindestens 300 Seemeilen auf Yachten mit
@@ -321,8 +326,9 @@ nach dem Muster der Anlage 1a erhalten, wenn er
 Yachten mit Antriebsmaschine oder mit Antriebsmaschine und unter Segel
 nach dem Muster der Anlage 1 erhalten, wenn er
 
-1.  im Besitz des Sportbootführerscheins-See nach § 1 der
-    Sportbootführerscheinverordnung-See ist,
+1.  im Besitz des Sportbootführerscheins für den Geltungsbereich
+    Seeschifffahrtsstraßen nach § 1 der Sportbootführerscheinverordnung
+    ist,
 
 
 2.
@@ -338,11 +344,12 @@ nach dem Muster der Anlage 1 erhalten, wenn er
         Seebereich zurückgelegt hat, oder
 
 
-    c)  nachweist, daß er nach Erwerb des Sportbootführerscheins-See
-        mindestens 1.000 Seemeilen auf Yachten mit der jeweiligen Antriebsart
-        im Seebereich, davon mindestens 500 Seemeilen vor der theoretischen
-        Prüfung als Wachtführer oder dessen Vertreter auf Yachten mit der
-        jeweiligen Antriebsart, zurückgelegt hat, und
+    c)  nachweist, daß er nach Erwerb des Sportbootführerscheins für den
+        Geltungsbereich Seeschifffahrtsstraßen mindestens 1.000 Seemeilen auf
+        Yachten mit der jeweiligen Antriebsart im Seebereich, davon mindestens
+        500 Seemeilen vor der theoretischen Prüfung als Wachtführer oder
+        dessen Vertreter auf Yachten mit der jeweiligen Antriebsart,
+        zurückgelegt hat, und
 
 
 
@@ -380,8 +387,9 @@ Anlage 2 erhalten, wenn er
 
 
 
-(4) Die mit dem Sportbootführerschein-See erteilten Auflagen sind auch
-in den Sportküstenschifferschein, den Sportseeschifferschein und den
+(4) Die mit dem Sportbootführerschein für den Geltungsbereich
+Seeschifffahrtsstraßen erteilten Auflagen sind auch in den
+Sportküstenschifferschein, den Sportseeschifferschein und den
 Sporthochseeschifferschein aufzunehmen.
 
 
@@ -572,7 +580,7 @@ Zentralen Verwaltungsstelle abzuliefern.
 
 (3) Gegen Vorlage eines vor dem 1. Januar 1994 ausgestellten
 Sportseeschifferzeugnisses oder Sporthochseeschifferzeugnisses oder
-sonstiger vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
+sonstiger vom Bundesministerium für Verkehr und digitale Infrastruktur
 anerkannter Befähigungsnachweise und Fertigkeitszeugnisse kann die
 Zentrale Verwaltungsstelle (§ 3 Abs. 2) in Abstimmung mit dem
 Lenkungsausschuß (§ 3 Abs. 1) Sportsee- und
@@ -583,7 +591,7 @@ besteht.
 
 (4) Gegen Vorlage eines vor dem 1. Oktober 1999 vom Deutschen Segler-
 Verband e. V. ausgestellten BR-Scheins oder eines sonstigen vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung anerkannten
+Bundesministerium für Verkehr und digitale Infrastruktur anerkannten
 Befähigungsnachweises oder Fertigkeitszeugnisses kann die Zentrale
 Verwaltungsstelle (§ 3 Abs. 2) in Abstimmung mit dem Lenkungsausschuß
 (§ 3 Abs. 1) einen Sportküstenschifferschein ausstellen, sofern die in
@@ -591,8 +599,8 @@ den Durchführungsrichtlinien für den Sportküstenschifferschein hierfür
 festgelegten Voraussetzungen erfüllt sind, die eine Gleichwertigkeit
 mit den Anforderungen an den Sportküstenschifferschein sicherstellen.
 
-(5) Gegen Vorlage eines vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung anerkannten Befähigungsnachweises oder
+(5) Gegen Vorlage eines vom Bundesministerium für Verkehr und digitale
+Infrastruktur anerkannten Befähigungsnachweises oder
 Fertigkeitszeugnisses kann die Zentrale Verwaltungsstelle (§ 3 Abs. 2)
 in Abstimmung mit dem Lenkungsausschuß (§ 3 Abs. 1) Zusatzeinträge
 gemäß § 10 Abs. 2 und 3 vornehmen und einen Befähigungsnachweis zum
@@ -601,12 +609,13 @@ Durchführungsrichtlinien (Traditionsschiffahrt) festgelegten
 Voraussetzungen erfüllt sind oder eine Gleichwertigkeit besteht.
 
 (6) Inhaber des Sportsee- oder Sporthochseeschifferzeugnisses, die im
-Besitz des amtlichen Sportbootführerscheins-See sind und bereits vor
-dem 1. Januar 1998 nachweislich als Schiffer ein Traditionsschiff
-geführt haben, können abweichend von § 1 Abs. 4 und Inhaber einer
-Zulassung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
-als Schiffsführer abweichend von § 1 Abs. 4 und 5 auch nach dem 1.
-Januar 1998 ein in diesen Vorschriften genanntes Traditionsschiff als
+Besitz des amtlichen Sportbootführerscheins für den Geltungsbereich
+Seeschifffahrtsstraßen sind und bereits vor dem 1. Januar 1998
+nachweislich als Schiffer ein Traditionsschiff geführt haben, können
+abweichend von § 1 Abs. 4 und Inhaber einer Zulassung des
+Bundesministeriums für Verkehr und digitale Infrastruktur als
+Schiffsführer abweichend von § 1 Abs. 4 und 5 auch nach dem 1. Januar
+1998 ein in diesen Vorschriften genanntes Traditionsschiff als
 Schiffer führen. Die Einzelheiten über die Erbringung des Nachweises
 und den Eintrag einer entsprechenden Berechtigung in das Zeugnis durch
 die Zentrale Verwaltungsstelle werden in den Durchführungsrichtlinien
@@ -615,16 +624,26 @@ die Zentrale Verwaltungsstelle werden in den Durchführungsrichtlinien
 
 ## § 13 Rücknahme und Entzug
 
-(1) Wird eine Fahrerlaubnis nach § 8 Abs. 2
-Sportbootführerscheinverordnung-See entzogen, so ist gleichzeitig ein
+(1) Wird eine Fahrerlaubnis für den Geltungsbereich
+Seeschifffahrtsstraßen nach § 13 Absatz 1 oder 2 der
+Sportbootführerscheinverordnung entzogen, so ist gleichzeitig ein
 Sportküstenschifferschein, ein Sportseeschifferschein und ein
 Sporthochseeschifferschein zurückzunehmen; der jeweilige Schein ist
 vom Inhaber unverzüglich bei der Zentralen Verwaltungsstelle
-abzuliefern, die hiervon die Wasser- und Schiffahrtsdirektion Nordwest
-unterrichtet. Über die Wiederaushändigung des
+abzuliefern, die hiervon die Generaldirektion Wasserstraßen und
+Schifffahrt unterrichtet. Über die Wiederaushändigung des
 Sportküstenschifferscheins, des Sportseeschifferscheins oder des
-Sporthochseeschifferscheins entscheidet die Wasser- und
-Schiffahrtsdirektion Nordwest.
+Sporthochseeschifferscheins entscheidet die Generaldirektion
+Wasserstraßen und Schifffahrt.
+
+(1a) Wird ein Fahrverbot nach § 14 Absatz 1 der
+Sportbootführerscheinverordnung ausgesprochen, so ist gleichzeitig ein
+entsprechendes Fahrverbot gegen den Inhaber eines
+Sportküstenschifferscheins, eines Sportseeschifferscheins und eines
+Sporthochseeschifferscheins zu verhängen; die jeweilige Urkunde ist
+vom Inhaber unverzüglich bei der Generaldirektion Wasserstraßen und
+Schifffahrt zu hinterlegen, die hiervon die Zentrale Verwaltungsstelle
+unterrichtet.
 
 (2) Ein Sportküstenschifferschein, Sportseeschifferschein,
 Sporthochseeschifferschein, Zusatzeintrag oder Befähigungsnachweis für
@@ -667,273 +686,7 @@ Strafverfolgungsbehörden für Zwecke der Verfolgung von Straftaten oder
 an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
 
 
-## § 15 Gebühren und Auslagen
-
-(1) Es werden folgende Kosten (Gebühren und Auslagen) erhoben:
-
-*    *   1.
-
-    *   für die Zulassung zur Prüfung (SKS/SSS/SHS) beziehungsweise zur
-        Feststellung der Befähigung
-
-    *   25,00 Euro,
-
-
-*    *   2.
-
-    *   für die Zulassung zur Prüfung Funkbetriebszeugnis (SRC/LRC)
-
-    *   18,00 Euro,
-
-
-*    *   3.
-
-    *   für die Abnahme der theoretischen Prüfung (SSS/SHS)
-
-    *   50,00 Euro,
-
-
-*    *   4.
-
-    *   für die Abnahme der theoretischen Prüfung (SKS)
-
-    *   37,50 Euro,
-
-
-*    *   5.
-
-    *   für die Abnahme der Prüfung Funkbetriebszeugnis SRC
-
-    *   36,00 Euro,
-
-
-*    *   6.
-
-    *   für die Abnahme der Prüfung Funkbetriebszeugnis LRC
-
-    *   46,00 Euro,
-
-
-*    *   6a.
-
-    *   für die Abnahme der Anpassungsprüfung im Sinne der Anlage 3 Abschnitt
-        B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines SRC
-
-    *   28,00 Euro,
-
-
-*    *   6b.
-
-    *   für die Abnahme der Anpassungsprüfung im Sinne der Anlage 3 Abschnitt
-        B Nummer 4 der Schiffssicherheitsverordnung zum Erwerb eines LRC
-
-    *   36,00 Euro,
-
-
-*    *   7.
-
-    *   für die Abnahme der praktischen Prüfung (SSS)
-
-    *   62,50 Euro,
-
-
-*    *   8.
-
-    *   für die Abnahme der praktischen Prüfung (SKS)
-
-    *   37,50 Euro,
-
-
-*    *   9.
-
-    *   für die Abnahme der Wiederholung Wiederholung der theoretischen oder
-        praktischen Teilprüfung Funkbetriebszeugnis SRC
-
-    *   18,00 Euro,
-
-
-*    *   10.
-
-    *   für die Abnahme der Wiederholung der theoretischen oder praktischen
-        Teilprüfung Funkbetriebszeugnis LRC
-
-    *   23,00 Euro,
-
-
-*    *   11.
-
-    *   für die Feststellung der Befähigung als Schiffer
-
-    *   50,00 Euro,
-
-
-*    *   12.
-
-    *   für die Feststellung der Befähigung als Maschinist
-
-    *   50,00 Euro,
-
-
-*    *   13.
-
-    *   für die Wiederholung einer theoretischen Teilprüfung (SSS/SHS)
-
-    *   45,00 Euro,
-
-
-*    *   14.
-
-    *   für die Wiederholung einer theoretischen Teilprüfung (SKS)
-
-    *   37,50 Euro,
-
-
-*    *   15.
-
-    *   für die Ablehnung oder in den Fällen der Zurücknahme eines Antrags auf
-        Zulassung zur Prüfung nach Nummer 1
-
-    *   die Höhe der Gebühr bemisst sich nach § 15 des
-        Verwaltungskostengesetzes
-
-
-*    *   16.
-
-    *   für die Ausstellung des Sportküstenschifferscheins
-
-    *   25,00 Euro,
-
-
-*    *   17.
-
-    *   für die Ausstellung des Sportseeschifferscheins
-
-    *   25,00 Euro,
-
-
-*    *   18.
-
-    *   für die Ausstellung des Sporthochseeschifferscheins
-
-    *   25,00 Euro,
-
-
-*    *   19.
-
-    *   für die Ausstellung eines Funkbetriebszeugnisses SRC
-
-    *   18,00 Euro,
-
-
-*    *   20.
-
-    *   für die Ausstellung eines Funkbetriebszeugnisses LRC
-
-    *   18,00 Euro,
-
-
-*    *   21.
-
-    *   für die Ausstellung einer Ersatzausfertigung eines
-        Funkbetriebszeugnisses nach Anlage 3 Buchstabe C Nr. 3 der
-        Schiffssicherheitsverordnung
-
-    *   18,00 Euro,
-
-
-*    *   22.
-
-    *   für die Vornahme einer Zusatzeintragung nach § 10 Abs. 2 und 3 und §
-        12 Abs. 4 oder einer Ausnahme nach § 11 Abs. 3
-
-    *   25,00 Euro,
-
-
-*    *   23.
-
-    *   für die Ausstellung eines Befähigungsnachweises für Maschinisten nach
-        § 10 Abs. 4 in Verbindung mit § 12 Abs. 4
-
-    *   25,00 Euro,
-
-
-*    *   24.
-
-    *   für die Ausstellung in Verbindung mit Auflagen nach § 6 Abs. 4
-
-    *   5,50 Euro,
-
-
-*    *   25.
-
-    *   für die Ausstellung einer Ersatzausfertigung oder einer
-        Ersatzbescheinigung nach § 12 Abs. 1 und 2
-
-    *   25,00 Euro,
-
-
-*    *   26.
-
-    *   für die Ausstellung eines Sportseeschifferscheins oder eines
-        Sporthochseeschifferscheins nach § 12 Abs. 3
-
-    *   25,00 Euro,
-
-
-*    *   27.
-
-    *   für die Ausstellung eines Sportküstenschifferscheins nach § 12 Abs. 4
-
-    *   25,00 Euro,
-
-
-*    *   28.
-
-    *   für die Rücknahme oder den Entzug eines Sportküstenschifferscheins,
-        Sportseeschifferscheins, Sporthochseeschifferscheins, eines
-        Zusatzeintrags oder eines Funkbetriebszeugnisses nach § 13
-
-    *   die Höhe der Gebühr bemisst sich nach § 15 des
-        Verwaltungskostengesetzes,
-
-
-*    *   29.
-
-    *   für die vollständige oder teilweise Zurückweisung eines Widerspruchs
-        gegen eine Sachentscheidung, soweit die Erfolglosigkeit des
-        Widerspruchs nicht nur auf der Unbeachtlichkeit der Verletzung einer
-        Verfahrens- oder Formvorschrift nach § 45 des
-        Verwaltungsverfahrensgesetzes beruht
-
-    *   bis zu 100 Prozent der Gebühr für die angegriffene Amtshandlung,
-        mindestens 25,00 Euro,
-
-
-*    *   30.
-
-    *   in den Fällen der Zurücknahme eines Widerspruchs gegen eine
-        Sachentscheidung nach Beginn der sachlichen Bearbeitung, jedoch vor
-        ihrer Beendigung
-
-    *   bis zu 75 Prozent der Widerspruchsgebühr, mindestens 15,00 Euro,
-
-
-*    *   31.
-
-    *   Reisekosten der Prüfungskommission nach dem Bundesreisekostengesetz
-        und die Kosten für die Bereitstellung von Prüfungsräumen.
-
-    *
-
-
-
-   (2) Die Kosten für die Amtshandlungen werden von der Zentralen
-Verwaltungsstelle im Auftrag des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung nach Maßgabe der Durchführungsrichtlinien erhoben
-und eingezogen.
-
-
-## § 15a Ordnungswidrigkeiten
+## § 15 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
 Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -958,8 +711,8 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
-Schifffahrtsdirektionen Nord und Nordwest übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 16 Übergangsregelung
@@ -970,12 +723,6 @@ Schifffahrtsdirektionen Nord und Nordwest übertragen.
 ## § 17
 
 (Inkrafttreten, Aufhebung von Vorschriften)
-
-
-## Anlage 1 (zu § 2 Satz 1)
-
-(Inhalt: Nicht darstellbares Muster des Sportsee-Schifferscheins;
-Fundstelle: BGBl. I 1998, 400)
 
 
 ## Anlage 1
@@ -1058,7 +805,7 @@ DEUTSCHER SEGLER-VERBAND E.V.
 ......................
 Unterschrift/Signature
 Ermächtigt durch/Authorized by
-BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
+BUNDESMINISTERIUM FÜR VERKEHR UND DIGITALE INFRASTRUKTUR
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
 
 
@@ -1131,14 +878,8 @@ DEUTSCHER SEGLER-VERBAND E.V.
 ......................
 Unterschrift/Signature
 Ermächtigt durch/Authorized by
-BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
+BUNDESMINISTERIUM FÜR VERKEHR UND DIGITALE INFRASTRUKTUR
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions:
-
-
-## Anlage 2 (zu § 2 Satz 1)
-
-(Inhalt: Nicht darstellbares Muster des Sporthochsee-Schifferscheins;
-Fundstelle: BGBl. I 1998, 401)
 
 
 ## Anlage 2
@@ -1203,7 +944,7 @@ DEUTSCHER SEGLER-VERBAND E.V.
 ......................
 Unterschrift/Signature
 Ermächtigt durch/Authorized by
-BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
+BUNDESMINISTERIUM FÜR VERKEHR UND DIGITALE INFRASTRUKTUR
 Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/CONDITIONS:
 
 
@@ -1263,8 +1004,8 @@ DEUTSCHER SEGLER-VERBAND E.V.
 ------------------------------------
 Unterschrift/Signature
 Ermächtigt durch/Authorized by
-BUNDESMINISTERIUM FÜR VERKEHR, BAU-
-UND WOHNUNGSWESEN
+BUNDESMINISTERIUM FÜR VERKEHR
+UND DIGITALE INFRASTRUKTUR
 ---------------------------------------
 Eigenhändige Unterschrift des Inhabers/
 Signature of the Holder
@@ -1325,8 +1066,8 @@ DEUTSCHER SEGLER-VERBAND E.V.
 ------------------------------------
 Unterschrift/Signature
 Ermächtigt durch/Authorized by
-BUNDESMINISTERIUM FÜR VERKEHR, BAU-
-UND WOHNUNGSWESEN
+BUNDESMINISTERIUM FÜR VERKEHR
+UND DIGITALE INFRASTRUKTUR
 ---------------------------------------
 Eigenhändige Unterschrift des Inhabers/
 Signature of the Holder
@@ -1466,7 +1207,7 @@ I wird hiermit im Auftrag des     I    I   Stempel
 I
 I Bundesministeriums für Verkehr, I    I
 I
-I Bau- und Wohnungswesen          I    I
+I und digitale Infrastruktur      I    I
 ................................ I
 I die Befähigung zum Betreiben    I    I (Eigenhändige Unterschrift
 des   I

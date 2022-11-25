@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 212
 
-Geändert durch
-:   Art. 1 G v. 3.7.2009 I 1686
+Zuletzt geändert durch
+:   Art. 75 G v. 29.3.2017 I 626
 
 
 
@@ -142,9 +142,9 @@ Organe der Stiftung sind:
 
 
 Die Mitglieder können ihre Stimme auf ein anderes Mitglied des
-Kuratoriums übertragen oder sich durch schriftliche Einzelvollmacht
-vertreten lassen, wenn sie aus wichtigen Gründen an der
-Sitzungsteilnahme gehindert sind.
+Kuratoriums übertragen oder sich durch schriftliche oder elektronische
+Einzelvollmacht vertreten lassen, wenn sie aus wichtigen Gründen an
+der Sitzungsteilnahme gehindert sind.
 
 (2) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die
 zum Aufgabenbereich der Stiftung gehören, insbesondere

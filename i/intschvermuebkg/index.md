@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1975, 65
 
 Zuletzt geändert durch
-:   Art. 329 V v. 31.10.2006 I 2407
+:   Art. 566 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -27,7 +27,7 @@ Zuletzt geändert durch
 
 ## Art 2
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung Änderungen der Anlagen I - Regeln
 für die Ermittlung der Brutto- und Nettoraumzahlen - und II -
 Internationaler Schiffsmeßbrief (1969) - zum Übereinkommen, die von

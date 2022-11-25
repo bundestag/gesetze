@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2003
 
-Geändert durch
-:   Art. 1 G v. 31.7.2009 I 2622
+Zuletzt geändert durch
+:   Art. 6 G v. 9.6.2021 I 1614
 
 
 
@@ -195,14 +195,14 @@ zur Teilnahme zugelassen werden.
 (3) Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte
 der Mitglieder anwesend oder vertreten ist. Der Stiftungsrat fasst
 seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an
-einer schriftlichen Abstimmung beteiligenden Mitglieder, soweit nicht
-in diesem Gesetz oder der Satzung etwas anderes vorgesehen ist. Bei
-Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den
-Ausschlag. Wirtschaftsplanangelegenheiten, die Bestellung von
-Direktorinnen und Direktoren sowie Satzungsänderungen dürfen nicht
-gegen die Stimmen der vom Bund benannten Mitglieder entschieden
-werden. Der Stiftungsrat holt vor strategisch bedeutsamen und zentral
-haushaltsrelevanten Entscheidungen die Stellungnahme der
+einer schriftlichen oder elektronischen Abstimmung beteiligenden
+Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas
+anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder
+der Vorsitzenden den Ausschlag. Wirtschaftsplanangelegenheiten, die
+Bestellung von Direktorinnen und Direktoren sowie Satzungsänderungen
+dürfen nicht gegen die Stimmen der vom Bund benannten Mitglieder
+entschieden werden. Der Stiftungsrat holt vor strategisch bedeutsamen
+und zentral haushaltsrelevanten Entscheidungen die Stellungnahme der
 Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
 
 
@@ -321,10 +321,10 @@ sonstigen Bestimmungen anzuwenden.
 
 (2) Die Satzung kann mit Genehmigung des Bundesministeriums für
 Bildung und Forschung und Zustimmung der Personalvertretung abweichend
-von § 91 Absatz 1 Nummer 2 des Bundespersonalvertretungsgesetzes für
-die Wahl des Hauptpersonalrats an die strukturellen Besonderheiten der
-Stiftung angepasste Regelungen treffen. Für die in den Instituten
-tätigen Ortskräfte gilt das Ortsrecht des jeweiligen Gastlandes.
+von § 119 Absatz 3 des Bundespersonalvertretungsgesetzes für die Wahl
+des Hauptpersonalrats an die strukturellen Besonderheiten der Stiftung
+angepasste Regelungen treffen. Für die in den Instituten tätigen lokal
+Beschäftigten gilt das Ortsrecht des jeweiligen Gastlandes.
 
 
 ## § 16 Berichterstattung

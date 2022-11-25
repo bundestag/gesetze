@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1996, 1019
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 20 G v. 29.7.2009 I 2258
+:   Art. 4 Abs. 115 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 
 ## § 1 Anwendungsbereich
@@ -68,27 +71,18 @@ folgende Aufgaben:
 
 
 
-(3) Für Amtshandlungen des Eisenbahn-Bundesamtes werden Kosten
-(Gebühren und Auslagen) erhoben. Bis zum Inkrafttreten der
-Rechtsverordnung nach § 10 Abs. 1 Nr. 7 sind die Gebühren im
-Einzelfall an Hand des mit der Amtshandlung verbundenen
-Verwaltungsaufwandes und der Bedeutung des wirtschaftlichen Wertes
-oder des sonstigen Nutzens der Amtshandlung für den Gebührenschuldner
-unter Berücksichtigung der wirtschaftlichen Verhältnisse des
-Gebührenschuldners festzusetzen.
-
-(4) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und
+(3) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und
 Fahrzeuge von Magnetschwebebahnunternehmen können durch
-Rechtsverordnung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung einer anderen öffentlichen oder privaten Einrichtung
+Rechtsverordnung des Bundesministeriums für Verkehr und digitale
+Infrastruktur einer anderen öffentlichen oder privaten Einrichtung
 übertragen werden. Diese unterliegt der Rechtsaufsicht durch das
 Eisenbahn-Bundesamt.
 
-(5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach
+(4) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach
 diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von
 Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der
 Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem
+für Verkehr und digitale Infrastruktur im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-
 Bundesamt übertragen.
@@ -135,8 +129,8 @@ gesetzlich obliegenden arbeitsrechtlichen, sozialrechtlichen und
 steuerrechtlichen Verpflichtungen erfüllt werden. Die Finanzbehörden
 dürfen den Genehmigungsbehörden Mitteilung über die wiederholte
 Nichterfüllung der steuerrechtlichen Verpflichtungen oder die Abgabe
-der eidesstattlichen Versicherung nach § 284 der Abgabenordnung
-machen. Die Mitteilung der Finanzbehörden darf nur für Zwecke eines
+der Vermögensauskunft nach § 284 der Abgabenordnung machen. Die
+Mitteilung der Finanzbehörden darf nur für Zwecke eines
 Widerrufsverfahrens verwendet werden.
 
 
@@ -246,8 +240,8 @@ Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 
 (1) Zur Gewährleistung der Sicherheit und Ordnung im
 Magnetschwebebahnverkehr oder zum Schutz von Leben und Gesundheit der
-Arbeitnehmer wird das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ermächtigt, für öffentliche Magnetschwebebahnen
+Arbeitnehmer wird das Bundesministerium für Verkehr und digitale
+Infrastruktur ermächtigt, für öffentliche Magnetschwebebahnen
 Rechtsverordnungen zu erlassen, die
 
 1.  allgemeine Bedingungen für die Beförderung von Personen durch
@@ -284,11 +278,7 @@ Rechtsverordnungen zu erlassen, die
     Magnetschwebebahnbetriebspersonals und die Bestellung, Bestätigung und
     Prüfung von Betriebsleitern sowie deren Aufgaben und Befugnisse,
     einschließlich des Verfahrens zur Erlangung von Erlaubnissen und
-    Berechtigungen und deren Entziehung oder Beschränkung betreffen,
-
-
-7.  die Kosten (Gebühren und Auslagen) für Amtshandlungen des Eisenbahn-
-    Bundesamtes nach diesem Gesetz betreffen.
+    Berechtigungen und deren Entziehung oder Beschränkung betreffen.
 
 
 
@@ -296,7 +286,7 @@ Rechtsverordnungen zu erlassen, die
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des
 Fahrpersonals sowie des Personals, das unmittelbar in der
 betrieblichen Abwicklung der Beförderung eingesetzt ist, wird das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung ermächtigt,
+Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt,
 Rechtsverordnungen zu erlassen über
 
 1.  Arbeitszeiten, Fahrzeiten und deren Unterbrechungen sowie
@@ -336,7 +326,7 @@ Strecken öffentlicher Magnetschwebebahnen benutzen.
 
 ## § 11 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zur
 Durchführung der auf Grund des § 10 Abs. 2 erlassenen
 Rechtsverordnungen Allgemeine Verwaltungsvorschriften erlassen,

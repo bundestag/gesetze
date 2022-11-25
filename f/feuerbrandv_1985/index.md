@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 2551
 
 Zuletzt geändert durch
-:   Art. 3 § 5 G v. 13.12.2007 I 2930
+:   Art. 10 V v. 10.10.2012 I 2113
 
 
 ## Eingangsformel
@@ -227,12 +227,15 @@ den Feuerbrand bekämpft.
 
 ## § 10
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe a des
-Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505)
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
+Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Abs. 1 die Meldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstattet,
+
+
+1a. einer vollziehbaren Anordnung nach § 2 Absatz 2, § 5, § 6 Absatz 1
+    oder § 7 zuwiderhandelt,
 
 
 2.  entgegen § 4 Abs. 1 Wirtspflanzen oder Teile von diesen von ihrem
@@ -240,7 +243,11 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 3.  entgegen § 4 Abs. 2 Wirtspflanzen oder Teile von diesen ohne
-    Genehmigung aus einem abgegrenzten Gebiet verbringt oder
+    Genehmigung aus einem abgegrenzten Gebiet verbringt,
+
+
+3a. einer mit einer Genehmigung nach § 6 Absatz 2 oder § 8 Absatz 2
+    verbundenen vollziehbaren Auflage zuwiderhandelt oder
 
 
 4.  entgegen § 8 Abs. 1 den Erreger des Feuerbrandes züchtet oder hält
@@ -248,22 +255,6 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
-5\.
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes vom 15. September 1986 handelt, wer vorsätzlich
-oder fahrlässig
-
-1.  einer vollziehbaren Anordnung nach § 2 Abs. 2, §§ 5, 6 Abs. 1 oder § 7
-    oder
-
-
-2.  einer mit einer Genehmigung nach § 6 Abs. 2 oder § 8 Abs. 2
-    verbundenen vollziehbaren Auflage
-
-
-
-zuwiderhandelt.
 
 
 ## § 11

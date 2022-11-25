@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3193
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 50 G v. 22.12.2011 I 3044
+:   Art. 8 G v. 12.12.2019 I 2637
 
 
 
@@ -115,14 +115,14 @@ Aktionärsvereinigung (der Auffordernde)
 
 (2) Der Auffordernde hat im Rahmen der Eintragung einer Aufforderung
 zu versichern, dass er Aktionär der betreffenden Gesellschaft oder
-eine Aktionärsvereinigung im Sinn des § 135 Abs. 8 des Aktiengesetzes
-ist. Liegen, etwa aufgrund eines Hinweises der betroffenen
-Gesellschaft, konkrete Anhaltspunkte vor, die an der Aktionärs- oder
-Aktionärsvereinigungseigenschaft Zweifel begründen, kann der Betreiber
-die Vorlage von Nachweisen in Schrift- oder Textform verlangen. Werden
-die geforderten Nachweise nicht in der vom Betreiber gesetzten Frist
-beigebracht, hat der Betreiber die Aufforderung unverzüglich zu
-löschen.
+eine Aktionärsvereinigung im Sinn des § 135 Absatz 8 Satz 1 des
+Aktiengesetzes ist. Liegen, etwa aufgrund eines Hinweises der
+betroffenen Gesellschaft, konkrete Anhaltspunkte vor, die an der
+Aktionärs- oder Aktionärsvereinigungseigenschaft Zweifel begründen,
+kann der Betreiber die Vorlage von Nachweisen in Schrift- oder
+Textform verlangen. Werden die geforderten Nachweise nicht in der vom
+Betreiber gesetzten Frist beigebracht, hat der Betreiber die
+Aufforderung unverzüglich zu löschen.
 
 (3) Die Angabe des Namens oder der Firma, der Anschrift des Wohnsitzes
 oder des Sitzes des Auffordernden, der Hinweis darauf, ob er als

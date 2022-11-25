@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 1274 (1967)
 
 Neugefasst durch
-:   Bek. v. 3.3.2010 I 203;
-
-Zuletzt geändert durch
-:   Art. 2 Abs. 88 G v. 22.12.2011 I 3044
+:   Bek. v. 26.5.2020 I 1170
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -99,7 +96,7 @@ haben zu sorgen:
 
 (1) Wer eine Einrichtung betreiben will, in der wiederkehrend Vieh
 verschiedener Besitzer verladen, entladen, umgeladen oder verwogen
-wird, ausgenommen Grenzkontrollstellen, (Viehladestelle), hat dies der
+wird, ausgenommen Grenzkontrollstellen (Viehladestelle), hat dies der
 zuständigen Behörde vor Beginn der Tätigkeit unter Angabe seines
 Namens und seiner Anschrift sowie des Ortes der Viehladestelle
 anzuzeigen. Änderungen sind unverzüglich anzuzeigen.
@@ -239,10 +236,11 @@ eingerichtet werden, müssen folgende Anforderungen erfüllen:
 
 
 (2) Für Viehausstellungen, für Viehmärkte geringen Umfangs und für
-Jahr- und Wochenmärkte, die nach § 16 Absatz 2 des Tierseuchengesetzes
-von der amtstierärztlichen Beaufsichtigung befreit sind, kann die
-zuständige Behörde Ausnahmen von Absatz 1 Nummer 1 bis 7 genehmigen,
-soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+Jahr- und Wochenmärkte, die nach § 25 Absatz 2 des
+Tiergesundheitsgesetzes von der amtstierärztlichen Beaufsichtigung
+befreit sind, kann die zuständige Behörde Ausnahmen von Absatz 1
+Nummer 1 bis 7 genehmigen, soweit Belange der Tierseuchenbekämpfung
+nicht entgegenstehen.
 
 (3) Die zuständige Behörde kann für Viehmärkte anordnen, dass diese
 
@@ -262,10 +260,28 @@ soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 ### § 4 Anzeige, Beschränkung und Verbot
 
-(1) Viehausstellungen, Viehmärkte und Veranstaltungen ähnlicher Art
-sind der zuständigen Behörde vom Veranstalter unter Angabe der Art der
-Veranstaltung mindestens vier Wochen vor dem jeweiligen Beginn
-schriftlich anzuzeigen.
+(1) Folgende Veranstaltungen sind der zuständigen Behörde vom
+Veranstalter mindestens vier Wochen vor der jeweiligen Veranstaltung
+anzuzeigen:
+
+1.  Viehausstellungen,
+
+
+2.  Viehmärkte,
+
+
+3.  Viehschauen,
+
+
+4.  Wettbewerbe mit Vieh und
+
+
+5.  Veranstaltungen ähnlicher Art.
+
+
+
+Die Anzeige hat schriftlich oder elektronisch zu erfolgen; dabei ist
+die Art der Veranstaltung anzugeben.
 
 (2) Die zuständige Behörde kann Veranstaltungen nach Absatz 1
 beschränken oder verbieten, soweit dies aus Gründen der
@@ -454,7 +470,7 @@ zuständigen Behörde zugelassen, soweit
     5 Buchstabe a erfüllt sind und
 
 
-2.  sichergestellt ist, dass die Bestimmungen nach Anlage 2 Nummer 2 bis 4
+2.  sichergestellt ist, dass die Bestimmungen nach Anlage 2 Nummer 3 bis 5
     eingehalten werden.
 
 
@@ -478,8 +494,8 @@ zuständigen Behörde zugelassen, soweit
 1.  die Anforderungen nach Anlage 1 erfüllt sind,
 
 
-2.  sichergestellt ist, dass die Bestimmungen nach Anlage 2 Nummer 2 bis 4
-    eingehalten werden, und
+2.  sichergestellt ist, dass die Bestimmungen nach Anlage 2 Nummer 1 und
+    Nummer 3 bis 5 eingehalten werden, und
 
 
 3.  die Sammelstelle gleichzeitig nur für Zucht- und Nutztiere oder nur
@@ -502,7 +518,7 @@ des vom Statistischen Bundesamt herausgegebenen
 Gemeindeschlüsselverzeichnisses sowie einer vierstelligen
 Betriebsnummer gebildet.
 
-(2) Ein nach § 15 der Binnenmarkt-Tierseuchenschutzverordnung
+(2) Ein nach § 15 der Binnenmarkt-Tierseuchenschutzverordnung
 zugelassener Betrieb oder eine nach Artikel 4 Absatz 1 der Verordnung
 (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29.
 April 2004 mit spezifischen Hygienevorschriften für Lebensmittel
@@ -510,17 +526,17 @@ tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom
 25\.6.2004, S. 22) in der jeweils geltenden Fassung zugelassene
 Schlachtstätte gilt als nach dieser Verordnung zugelassen.
 
-(3) Die zuständige Behörde teilt dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz die Zulassung von
-Viehhandelsunternehmen, Transportunternehmen und Sammelstellen unter
-Angabe der erteilten Registriernummer sowie die Rücknahme, den
-Widerruf oder das Ruhen der Zulassung mit.
+(3) Die zuständige Behörde teilt dem Bundesministerium für Ernährung
+und Landwirtschaft die Zulassung von Viehhandelsunternehmen,
+Transportunternehmen und Sammelstellen unter Angabe der erteilten
+Registriernummer sowie die Rücknahme, den Widerruf oder das Ruhen der
+Zulassung mit.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz gibt die Zulassung der Viehhandelsunternehmen,
-Transportunternehmen und Sammelstellen unter Angabe der jeweils
-erteilten Registriernummer sowie die Rücknahme, den Widerruf oder das
-Ruhen der Zulassung im Bundesanzeiger bekannt.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft gibt die
+Zulassung der Viehhandelsunternehmen, Transportunternehmen und
+Sammelstellen unter Angabe der jeweils erteilten Registriernummer
+sowie die Rücknahme, den Widerruf oder das Ruhen der Zulassung im
+Bundesanzeiger bekannt.
 
 
 ### § 16 Ruhen der Zulassung
@@ -546,12 +562,22 @@ Transport, spätestens jedoch nach Ablauf von 29 Stunden seit Beginn
 des Transportes, zu reinigen und zu desinfizieren. Dies gilt nicht für
 nichtgewerblich genutzte bestandseigene Viehtransportfahrzeuge, mit
 denen nur Vieh aus dem eigenen Bestand transportiert wird. Satz 1 gilt
-entsprechend für Eisenbahnwagen sowie Räume und Teile von Räumen in
-Eisenbahnwagen, Flugzeugen und Schiffen, die zur Beförderung lebenden
-Viehs benutzt worden sind. Abweichend von Satz 1 kann die Reinigung
-und Desinfektion nach Abschluss mehrerer Transporte lebenden Viehs von
-demselben Herkunftsbetrieb in denselben Bestimmungsbetrieb
-durchgeführt werden, spätestens jedoch nach Ablauf von 29 Stunden.
+entsprechend für
+
+1.  Eisenbahnwagen sowie Räume und Teile von Räumen in Eisenbahnwagen und
+    Schiffen und
+
+
+2.  die bei der Beförderung lebenden Viehs in den in Nummer 1 genannten
+    Transportmitteln oder Teilen von ihnen oder in Flugzeugen benutzten
+    Behältnissen und Gerätschaften.
+
+
+
+Abweichend von Satz 1 kann die Reinigung und Desinfektion nach
+Abschluss mehrerer Transporte lebenden Viehs von demselben
+Herkunftsbetrieb in denselben Bestimmungsbetrieb durchgeführt werden,
+spätestens jedoch nach Ablauf von 29 Stunden.
 
 (2) Viehtransportfahrzeuge, mit denen Vieh zu Viehladestellen,
 Sammelstellen oder Schlachtstätten verbracht worden ist, müssen, bevor
@@ -762,8 +788,8 @@ das folgende Angaben enthält:
 
 (2) Der Viehhandelsunternehmer, der Transportunternehmer und der
 Betreiber einer Sammelstelle oder einer Schlachtstätte haben über Art
-und Verbrauch des verwendeten Desinfektionsmittels schriftliche
-Aufzeichnungen zu machen.
+und Verbrauch des verwendeten Desinfektionsmittels Aufzeichnungen zu
+machen.
 
 
 ### § 23 Kastrations- und Klauenpflegekontrollbuch
@@ -824,14 +850,15 @@ Desinfektionskontrollbuch müssen dem Muster der Anlage 3 entsprechen.
 (2) Die Eintragungen sind unverzüglich nach Ausführung der
 aufzeichnungspflichtigen Tätigkeit in dauerhafter Weise vorzunehmen.
 
-(3) Die Kontrollbücher und das Deckregister sind für die Zeit ihrer
-Verwendung und im Anschluss daran drei Jahre lang aufzubewahren. Die
-Frist beginnt mit dem Ablauf des 31. Dezember desjenigen Jahres, in
-dem die letzte Eintragung gemacht worden ist. Ergänzend zu § 73 Absatz
-2, 3 und 5 des Tierseuchengesetzes hat im Falle eines elektronisch
-geführten Kontrollbuches oder Deckregisters der
-Aufzeichnungspflichtige der zuständigen Behörde einen Ausdruck auf
-seine Kosten vorzulegen.
+(3) Die Kontrollbücher und das Deckregister sind von denjenigen
+Personen, die das jeweilige Kontrollbuch oder das Deckregister zu
+führen haben, für die Zeit ihrer Verwendung und im Anschluss daran
+drei Jahre lang aufzubewahren. Die Frist beginnt mit dem Ablauf des
+31\. Dezember desjenigen Jahres, in dem die letzte Eintragung gemacht
+worden ist. Ergänzend zu § 24 Absatz 4, 5 und 9 des
+Tiergesundheitsgesetzes hat im Falle eines elektronisch geführten
+Kontrollbuches oder Deckregisters der Aufzeichnungspflichtige der
+zuständigen Behörde einen Ausdruck auf seine Kosten vorzulegen.
 
 
 ## Abschnitt 9 - Tierhaltung
@@ -953,7 +980,7 @@ Ausnahmen von der Form und den Mindestmaßen nach Anlage 4 genehmigen,
 soweit diese Ohrmarke einen elektronischen Speicher (Ohrmarken-
 Transponder) enthält und sichergestellt ist, dass
 
-1.[^f772935_02_BJNR127400007BJNE002903377]
+1.[^F811033_02_BJNR127400007BJNE002905119]
   ein Nurlese-Passivtransponder verwendet wird, dessen Codierung nach
     der ISO-Norm 11784
     aufgebaut und schreibgeschützt ist und die Angaben der Ohrmarke nach
@@ -962,11 +989,14 @@ Transponder) enthält und sichergestellt ist, dass
 
 2.  der Nurlese-Passivtransponder mit einem Gerät ablesbar ist, das den
     Anforderungen der ISO-Norm 11785
-    2                   ) entspricht, und
+    2                    entspricht,
 
 
 3.  die Ohrmarkennummer in schwarzer Schrift auf gelbem Grund auf der
-    Ohrmarke deutlich sichtbar ist.
+    Ohrmarke deutlich sichtbar ist und
+
+
+4.  die Ohrmarke am linken Ohr des Rindes eingezogen wird.
 
 
 
@@ -987,7 +1017,7 @@ Rindes.
     Die ISO-Norm ist im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie
     ist beim Deutschen Patent- und Markenamt archivmäßig gesichert
     niedergelegt.
-[^f772935_02_BJNR127400007BJNE002903377]: 
+[^F811033_02_BJNR127400007BJNE002905119]: 
 
 ### § 28 Anzeige der Kennzeichnung
 
@@ -1062,7 +1092,7 @@ Zusätzlich zu den Angaben nach Satz 1 hat der Tierhalter im Falle
 
 anzuzeigen.
 
-(2) Der nach § 3 des Tierische Nebenprodukte-Beseitigungsgesetzes
+(2) Der nach § 3 des Tierische Nebenprodukte-Beseitigungsgesetzes
 Beseitigungspflichtige oder ein von diesem Beauftragter hat der
 zuständigen Behörde oder einer von dieser beauftragten Stelle die
 Übernahme eines toten Rindes innerhalb von sieben Tagen anzuzeigen,
@@ -1246,8 +1276,7 @@ ergibt, muss bei Schafen und Ziegen
 
 
 2.  das zweite Kennzeichen im Sinne des Artikels 4 Absatz 2 Buchstabe b
-    der Verordnung (EG)
-    Nr. 21/2004
+    der Verordnung (EG) Nr. 21/2004
 
     a)  im Falle der Verwendung eines Ohrmarken-Transponders oder eines Bolus-
         Transponders als erstem Kennzeichen
@@ -1637,17 +1666,18 @@ Transportunternehmen.
 zuständigen Behörde in den Verkehr zu bringen.
 
 
-## Abschnitt 13 - Kennzeichnung von Einhufern nach der Verordnung (EG) Nr. 504/2008
+## Abschnitt 13 - Kennzeichnung von Einhufern nach der Durchführungsverordnung (EU) 2015/262
 
 
 
 ### § 44 Kennzeichnung
 
-(1) Die Durchführung der Kennzeichnung von Einhufern nach Artikel 11
-der Verordnung (EG) Nr. 504/2008 der Kommission vom 6. Juni 2008 zur
-Umsetzung der Richtlinien 90/426/EWG und 90/427/EWG des Rates in Bezug
-auf Methoden zur Identifizierung von Equiden (ABl. L 149 vom 7.6.2008,
-S. 3) in der jeweils geltenden Fassung hat der Tierhalter
+(1) Die Durchführung der Kennzeichnung von Einhufern nach Artikel 18
+der Durchführungsverordnung (EU) 2015/262 der Kommission vom 17.
+Februar 2015 zur Festlegung von Vorschriften gemäß den Richtlinien
+90/427/EWG und 2009/156/EG des Rates in Bezug auf die Methoden zur
+Identifizierung von Equiden (Equidenpass-Verordnung) (ABl. L 59 vom
+3\.3.2015, S. 1) in der jeweils geltenden Fassung hat der Tierhalter
 
 1.  von einem Tierarzt,
 
@@ -1664,13 +1694,13 @@ S. 3) in der jeweils geltenden Fassung hat der Tierhalter
 
 vornehmen zu lassen.
 
-[^f772935_03_BJNR127400007BJNE004602377]
-(2) Die letzten 15 Ziffern des Codes im Sinne des Artikels 2 Absatz 2
-Buchstabe b der Verordnung (EG) Nr. 504/2008 in Verbindung mit der
-ISO-Norm 11784
+[^F811033_03_BJNR127400007BJNE004604119]
+(2) Die letzten 15 Ziffern des Codes im Sinne des Artikels 2 Buchstabe
+n der Durchführungsverordnung (EU) 2015/262 in Verbindung mit der ISO-
+Norm 11784
 müssen wie folgt zusammengesetzt sein:
 
-1.[^f772935_04_BJNR127400007BJNE004602377]
+1.[^F811033_04_BJNR127400007BJNE004604119]
   drei Ziffern „276“ für „Deutschland“ nach der ISO-Norm 3166
     ,
 
@@ -1695,16 +1725,16 @@ Behörde in den Verkehr zu bringen.
     Die ISO-Norm ist im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie
     ist beim Deutschen Patent- und Markenamt archivmäßig gesichert
     hinterlegt.
-[^f772935_03_BJNR127400007BJNE004602377]:     Die ISO-Norm ist im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie
+[^F811033_03_BJNR127400007BJNE004604119]:     Die ISO-Norm ist im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie
     ist beim Deutschen Patent- und Markenamt archivmäßig gesichert
     hinterlegt.
-[^f772935_04_BJNR127400007BJNE004602377]: 
+[^F811033_04_BJNR127400007BJNE004604119]: 
 
 ### § 44a Equidenpass
 
 (1) Die Ausstellung eines Dokumentes zur Identifizierung von Einhufern
-(Equidenpass) nach Artikel 5 der Verordnung (EG) Nr. 504/2008 ist auf
-Antrag des Tierhalters für Einhufer,
+(Equidenpass) nach Artikel 7 der Durchführungsverordnung (EU) 2015/262
+ist auf Antrag des Tierhalters für Einhufer,
 
 1.  die in ein Zuchtbuch eingetragen sind oder dort vermerkt sind und
     eingetragen werden können oder
@@ -1719,11 +1749,13 @@ soweit die Einhufer nicht in einem Zuchtbuch eingetragen oder dort
 vermerkt sind, von einer internationalen Wettkampforganisation
 vorzunehmen. Für andere als in Satz 1 genannte Einhufer gilt Satz 1
 mit der Maßgabe entsprechend, dass der Equidenpass von der zuständigen
-Behörde oder einer von dieser beauftragten Stelle ausgestellt wird und
-lediglich die Angaben nach Abschnitt I, ausgenommen Teil A Nummer 3
-Buchstabe b bis h, Nummer 4 und Teil B Nummer 12 bis 18, Abschnitt
-III, IV und VI bis IX des Anhangs I der Verordnung (EG) Nr. 504/2008
-enthalten muss.
+Behörde oder einer von dieser beauftragten Stelle ausgestellt wird
+und, vorbehaltlich des Artikels 10 der Durchführungsverordnung (EU)
+2015/262, die Angaben nach Anhang I Teil 1 Abschnitt I bis IV und VI
+bis IX der Durchführungsverordnung (EU) 2015/262 enthalten muss. Der
+Tierhalter hat den Antrag auf Ausstellung eines Equidenpasses nach
+Satz 1 oder 2 spätestens sechs Monate nach der Geburt des Einhufers zu
+stellen.
 
 (2) Mit dem Antrag auf einen Equidenpass hat der Tierhalter
 
@@ -1738,40 +1770,161 @@ mitzuteilen. Änderungen bei der nach Satz 1 Nummer 2 gemachten Angabe
 sind der Stelle, die das Dokument nach Absatz 1 ausgestellt hat,
 unverzüglich mitzuteilen.
 
-(3) Soweit die zuständige Behörde nach Artikel 7 Absatz 1 der
-Verordnung (EG) Nr. 504/2008 von der Ausstellung eines Equidenpasses
-absehen will, übermittelt sie die für die Unterrichtung der
-Europäischen Union erforderlichen Angaben dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz.
-
-(4) Nach dem Tod, der Schlachtung oder dem Verlust eines Einhufers hat
-der jeweilige Tierhalter den Equidenpass unter Angabe des Todes- oder
-Verlustdatums unverzüglich an die Stelle, die das Dokument nach Absatz
-1 Satz 1 oder 2 ausgestellt hat, zurückzusenden. Dies ersetzt die
-Bescheinigung nach Artikel 19 Absatz 1 Buchstabe c der Verordnung (EG)
-Nr. 504/2008.
+(3) Soweit die zuständige Behörde nach Artikel 13 Absatz 1 der
+Durchführungsverordnung (EU) 2015/262 von der Ausstellung eines
+Equidenpasses absehen will, übermittelt sie die für die Unterrichtung
+der Europäischen Union erforderlichen Angaben dem Bundesministerium
+für Ernährung und Landwirtschaft.
 
 
-### § 44b Verbot der Übernahme
+### § 44b Rückgabe und Ungültigmachen des Equidenpasses
+
+(1) Im Fall des Todes eines Einhufers gilt, vorbehaltlich der Absätze
+2 und 3, Artikel 35 Absatz 1 der Durchführungsverordnung (EU) 2015/262
+mit der Maßgabe, dass der Tierhalter den Equidenpass
+
+1.  nach Artikel 34 Absatz 1 Buchstabe b der Durchführungsverordnung (EU)
+    2015/262 ungültig zu machen hat und
+
+
+2.  unter Angabe des Datums des Todes des Einhufers an die Stelle, die den
+    Equidenpass nach § 44a Absatz 1 Satz 1 oder 2 ausgestellt hat
+    (Ausstellungsstelle) oder in den Fällen, in denen eine andere Stelle
+    als die Ausstellungsstelle eine Aktualisierung des Equidenpasses nach
+    Artikel 28 Buchstabe b der Durchführungsverordnung (EU) 2015/262
+    vorgenommen hat (Aktualisierungsstelle), an diese zurückzusenden hat.
+
+
+
+Wird der tote Einhufer in einem Verarbeitungsbetrieb für tierische
+Nebenprodukte beseitigt oder verarbeitet, gilt abweichend von Satz 1
+Artikel 34 Absatz 1 in Verbindung mit Absatz 2 Buchstabe b der
+Durchführungsverordnung (EU) 2015/262 mit der Maßgabe, dass
+
+1.  der Tierhalter sicherzustellen hat, dass dem mit der Entsorgung oder
+    Verarbeitung des toten Einhufers beauftragten Betreiber des
+    Verarbeitungsbetriebs für tierische Nebenprodukte der Equidenpass bei
+    der Abholung des toten Einhufers übergeben wird, und
+
+
+2.  die für den Verarbeitungsbetrieb für tierische Nebenprodukte
+    zuständige Behörde den Equidenpass
+
+    a)  nach Artikel 34 Absatz 1 Buchstabe b der Durchführungsverordnung (EU)
+        2015/262 ungültig zu machen hat und
+
+
+    b)  an die Ausstellungsstelle oder in den Fällen, in denen eine
+        Aktualisierung vorgenommen worden ist, an die Aktualisierungsstelle
+        zurückzusenden hat.
+
+
+
+
+
+
+Befindet sich die Ausstellungsstelle oder in den Fällen, in denen eine
+Aktualisierung vorgenommen worden ist, die Aktualisierungsstelle in
+einem anderen Mitgliedstaat und hat dieser eine Kontaktstelle nach
+Artikel 36 Absatz 2 der Durchführungsverordnung (EU) 2015/262
+eingerichtet, so kann die Rücksendung des Equidenpasses abweichend von
+Satz 2 Nummer 2 Buchstabe b an diese Kontaktstelle erfolgen.
+
+(2) Im Fall der Schlachtung eines Einhufers hat der Tierhalter den
+Equidenpass unverzüglich nach der Schlachtung
+
+1.  nach Artikel 34 Absatz 1 Buchstabe b in Verbindung mit Absatz 2 der
+    Durchführungsverordnung (EU) 2015/262 ungültig zu machen und
+
+
+2.  unter Angabe des Datums der Schlachtung an die Ausstellungsstelle oder
+    in den Fällen, in denen eine Aktualisierung vorgenommen worden ist, an
+    die Aktualisierungsstelle zurückzusenden.
+
+
+
+Im Fall der Schlachtung eines Einhufers in einem Schlachthof kann der
+Betreiber des Schlachthofs den Equidenpass abweichend von Satz 1
+Nummer 1 nach Artikel 34 Absatz 1 Buchstabe c Ziffer i in Verbindung
+mit Absatz 2 der Durchführungsverordnung (EU) 2015/262 vernichten und
+der Ausstellungsstelle oder in den Fällen, in denen eine
+Aktualisierung vorgenommen worden ist, der Aktualisierungsstelle eine
+Bescheinigung über die erfolgte Schlachtung des Einhufers und die
+Vernichtung des Equidenpasses unter Angabe des Datums der Schlachtung
+und des Datums der Vernichtung des Equidenpasses zusenden. Die
+Zusendung hat unverzüglich nach der Schlachtung zu erfolgen. Befindet
+sich die Ausstellungsstelle oder die Aktualisierungsstelle in einem
+anderen Mitgliedstaat und hat dieser Mitgliedstaat eine Kontaktstelle
+nach Artikel 36 Absatz 2 der Durchführungsverordnung (EU) 2015/262
+eingerichtet, so kann
+
+1.  die Rücksendung des Equidenpasses abweichend von Satz 1 Nummer 2 an
+    diese Kontaktstelle erfolgen oder
+
+
+2.  die Zusendung der Bescheinigung abweichend von Satz 2 an diese
+    Kontaktstelle erfolgen.
+
+
+
+
+(3) Im Fall der Tötung aus Gründen der Tierseuchenbekämpfung hat der
+Tierhalter den Equidenpass unverzüglich nach der Tötung
+
+1.  nach Artikel 34 Absatz 1 Buchstabe b in Verbindung mit Absatz 2 der
+    Durchführungsverordnung (EU) 2015/262 ungültig zu machen und
+
+
+2.  unter Angabe des Datums der Tötung an die Ausstellungsstelle oder in
+    den Fällen, in denen eine Aktualisierung vorgenommen worden ist, an
+    die Aktualisierungsstelle zurückzusenden.
+
+
+
+Befindet sich die Ausstellungsstelle oder in den Fällen, in denen eine
+Aktualisierung vorgenommen worden ist, die Aktualisierungsstelle in
+einem anderen Mitgliedstaat und hat dieser Mitgliedstaat eine
+Kontaktstelle nach Artikel 36 Absatz 2 der Durchführungsverordnung
+(EU) 2015/262 eingerichtet, so kann die Rücksendung des Equidenpasses
+abweichend von Satz 1 Nummer 2 an diese Kontaktstelle erfolgen.
+
+(4) Im Fall des Verlusts eines Einhufers gilt Artikel 35 Absatz 1 der
+Durchführungsverordnung (EU) 2015/262 mit der Maßgabe, dass der
+Tierhalter den Equidenpass unter Angabe des Datums des Verlusts an die
+Ausstellungsstelle oder in den Fällen, in denen eine Aktualisierung
+vorgenommen worden ist, an die Aktualisierungsstelle zurückzusenden
+hat.
+
+
+### § 44c Verbot der Übernahme
 
 Ein Tierhalter darf einen Einhufer in seinen Bestand nur übernehmen,
-soweit der Einhufer von einem Equidenpass begleitet wird, die
-Begleitung nach Artikel 13 Absatz 1, Artikel 14 Absatz 3 oder Artikel
-15 Absatz 1 der Verordnung (EG) Nr. 504/2008 der Kommission vom 6.
-Juni 2008 zur Umsetzung der Richtlinien 90/426/EWG und 90/427/EWG des
-Rates in Bezug auf Methoden zur Identifizierung von Equiden (ABl. L
-149 vom 7.6.2008, S. 3) vorgeschrieben ist und der Einhufer, soweit er
-nach dem 1. Juli 2009 geboren wurde, mittels Transponder
-gekennzeichnet ist. Dies gilt auch für die Übernahme eines Einhufers
-durch Transportunternehmen.
+wenn der Einhufer
+
+1.  sofern dies nach Artikel 23 Absatz 1, Artikel 24 Absatz 1 oder Artikel
+    26 Absatz 1 der Durchführungsverordnung (EU) 2015/262 vorgeschrieben
+    ist, von einem Equidenpass begleitet wird und
 
 
-### § 44c Anzeige der Kennzeichnung
+2.  sofern er nach dem 30. Juni 2009 geboren worden ist, mittels
+    Transponder gekennzeichnet ist.
+
+
+
+Im Fall der Übernahme eines Einhufers, der in einem Mitgliedstaat
+identifiziert worden ist, der von den alternativen
+Kennzeichnungsmethoden nach Artikel 21 der Durchführungsverordnung
+(EU) 2015/262 Gebrauch gemacht hat, ist Satz 1 Nummer 2 nicht
+anzuwenden. Die Sätze 1 und 2 gelten für die Übernahme eines Einhufers
+durch Transportunternehmen entsprechend.
+
+
+### § 44d Anzeige der Kennzeichnung
 
 Der Tierhalter hat die Kennzeichnung eines Einhufers unverzüglich
-unter Angabe der in Artikel 21 Absatz 1 der Verordnung (EG) Nr.
-504/2008 genannten Angaben der zuständigen Behörde oder einer von ihr
-beauftragten Stelle anzuzeigen.
+unter Angabe der in Artikel 38 Absatz 1 der Durchführungsverordnung
+(EU) 2015/262 genannten Angaben der zuständigen Behörde oder einer von
+ihr beauftragten Stelle anzuzeigen.
 
 
 ## Abschnitt 14 - Sonstige Tierhaltungen
@@ -1811,195 +1964,187 @@ deren jederzeitige Ablesbarkeit gewährleistet ist.
 
 ### § 46 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer
-
-    a)  mit einer Genehmigung nach § 7 Satz 1, § 10 Absatz 1 Satz 1 oder
-        Absatz 2 Satz 3 oder § 18 Absatz 2 oder
-
-
-    b)  mit einer Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1, § 14
-        Absatz 1 Satz 1
-
-
-
-    verbundenen vollziehbaren Auflage oder
+1.  entgegen § 1 Absatz 2 in Verbindung mit Absatz 1 Satz 1, auch in
+    Verbindung mit § 1 Absatz 1 Satz 3, nicht dafür sorgt, dass eine dort
+    genannte Anforderung eingehalten wird,
 
 
 2.  einer vollziehbaren Anordnung nach § 2 Absatz 5, § 3 Absatz 3, § 4
-    Absatz 2 in Verbindung mit Absatz 1, § 6 Absatz 1 Satz 3, § 17 Absatz
-    3 oder § 18 Absatz 3
+    Absatz 2, § 6 Absatz 1 Satz 3, § 17 Absatz 3 oder § 18 Absatz 3
+    zuwiderhandelt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1 Absatz 2 in Verbindung mit Absatz 1 Satz 1 und 3 nicht
-    dafür sorgt, dass die dort genannten Anforderungen an ein dort
-    genanntes Beförderungsmittel eingehalten werden,
+3.  entgegen § 4 Absatz 1, § 11, § 26 Absatz 1 Satz 1 oder Satz 2 oder
+    Absatz 3 Satz 1, § 28, § 29 Absatz 1 Satz 1 oder Satz 2 oder Absatz 2,
+    § 35, § 40 Satz 1, § 44d oder § 45 Absatz 1 Satz 1 eine Anzeige nicht,
+    nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
+    oder nicht rechtzeitig erstattet,
 
 
-2.  entgegen § 4 Absatz 1, § 11 Satz 1 oder 2, § 26 Absatz 1 Satz 1 oder 2
-    oder Absatz 3 Satz 1, § 28, § 29 Absatz 1 Satz 1 oder 2 oder Absatz 2,
-    § 35, § 40 Satz 1 oder § 45 Absatz 1 Satz 1 eine Anzeige nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+4.  entgegen § 5 Satz 1 ein Tier auftreibt,
 
 
-3.  entgegen § 5 Satz 1 ein Tier ohne die vorgeschriebene Kennzeichnung
-    auftreibt,
+5.  ohne Genehmigung nach § 7 Satz 1 Vieh abtreibt,
 
 
-4.  ohne Genehmigung nach § 7 Satz 1 Vieh abtreibt,
+6.  einer mit einer Genehmigung nach § 7 Satz 1, § 10 Absatz 1 Satz 1 oder
+    § 18 Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-5.  entgegen § 9 ein Tier kastriert,
+7.  entgegen § 9 ein Tier kastriert,
 
 
-6.  entgegen § 10 Absatz 1 Satz 1 eine Wanderschafherde ohne Genehmigung
+8.  ohne Genehmigung nach § 10 Absatz 1 Satz 1 eine Wanderschafherde
     treibt,
 
 
-7.  entgegen § 10 Absatz 3 Satz 2 in Verbindung mit Absatz 1 Satz 1 eine
-    Aufzeichnung und eine Genehmigung nicht mitführt oder nicht vorlegt,
+9.  einer vollziehbaren Auflage nach § 10 Absatz 2 Satz 3 zuwiderhandelt,
 
 
-8.  entgegen § 12 Absatz 1 Satz 1, § 13 Absatz 1 oder § 14 Absatz 1 Satz 1
-    ein Viehhandelsunternehmen, ein Transportunternehmen oder eine
-    Sammelstelle ohne Zulassung betreibt,
+10. entgegen § 10 Absatz 3 Satz 2 eine Aufzeichnung oder eine Genehmigung
+    nicht mitführt oder nicht oder nicht rechtzeitig vorlegt,
 
 
-9.  entgegen § 17 Absatz 1 Satz 1 oder 3 oder Absatz 2 Satz 1, jeweils in
-    Verbindung mit Absatz 4, die dort genannten Viehtransportfahrzeuge,
-    Behältnisse, Gerätschaften oder Beförderungsmittel nicht, nicht
-    richtig oder nicht rechtzeitig reinigt oder desinfiziert,
+11. ohne Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1 oder § 14
+    Absatz 1 Satz 1 ein Viehhandelsunternehmen, ein Transportunternehmen
+    oder eine Sammelstelle betreibt,
 
 
-10. entgegen § 18 Absatz 1 die dort genannten Flächen, Räume oder
-    Gerätschaften nicht reinigt, nicht desinfiziert oder nicht reinigen
-    oder nicht desinfizieren lässt,
+12. einer mit einer Zulassung nach § 12 Absatz 1 Satz 1, § 13 Absatz 1
+    oder § 14 Absatz 1 Satz 1 verbundenen vollziehbaren Auflage
+    zuwiderhandelt,
 
 
-11. entgegen § 19 Dung, Streumaterial oder Futterreste nicht oder nicht
-    richtig beseitigt, nicht oder nicht richtig behandelt oder nicht oder
-    nicht richtig beseitigen oder nicht oder nicht richtig behandeln
+13. entgegen § 17 Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder
+    entgegen § 17 Absatz 2 Satz 1, jeweils in Verbindung mit § 17 Absatz
+    4, eine Reinigung oder eine Desinfektion nicht oder nicht rechtzeitig
+    durchführt,
+
+
+14. entgegen § 18 Absatz 1 eine dort genannte Fläche, einen dort genannten
+    Raum, eine dort genannte Gerätschaft oder ein dort genanntes
+    Beförderungsmittel nicht oder nicht rechtzeitig reinigt, nicht oder
+    nicht rechtzeitig desinfiziert, nicht oder nicht rechtzeitig reinigen
+    lässt und nicht oder nicht rechtzeitig desinfizieren lässt,
+
+
+15. entgegen § 19 Dung, Streumaterial oder einen Futterrest nicht oder
+    nicht rechtzeitig beseitigt, nicht oder nicht rechtzeitig behandelt,
+    nicht oder nicht rechtzeitig beseitigen lässt und nicht oder nicht
+    rechtzeitig behandeln lässt,
+
+
+16. entgegen § 21 Absatz 1 Satz 1, § 23 Satz 1, auch in Verbindung mit
+    Satz 2, oder entgegen § 24 ein dort genanntes Buch oder ein
+    Deckregister nicht, nicht richtig oder nicht vollständig führt,
+
+
+17. ohne Genehmigung nach § 21 Absatz 1 Satz 4 ein dort genanntes Buch
+    entfernt,
+
+
+18. entgegen § 21 Absatz 2 Satz 1 oder § 22 Absatz 1 ein dort genanntes
+    Buch nicht mitführt,
+
+
+19. entgegen § 22 Absatz 2 in Verbindung mit § 25 Absatz 2 eine
+    Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+
+20. entgegen § 25 Absatz 3 Satz 1, auch in Verbindung mit § 37 Absatz 2
+    oder § 42 Absatz 2, ein dort genanntes Buch oder Register nicht oder
+    nicht für die vorgeschriebene Dauer aufbewahrt,
+
+
+21. entgegen § 27 Absatz 1 Satz 1 oder Absatz 5, § 34 Absatz 1 Satz 1 oder
+    Satz 2 oder Absatz 5 Satz 1, § 39 Absatz 1, 4 Satz 1 oder Absatz 6
+    Satz 1 ein dort genanntes Tier nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig kennzeichnet und nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig kennzeichnen lässt,
+
+
+22. ohne Genehmigung nach § 27 Absatz 6 Satz 1, § 34 Absatz 6 Satz 1 oder
+    § 39 Absatz 7 Satz 1 eine Ohrmarke oder ein Kennzeichen entfernt oder
+    entfernen lässt,
+
+
+23. entgegen § 30 Absatz 1 oder § 41 Absatz 1 Satz 1 ein Rind oder ein
+    Schwein verbringt oder ausführt,
+
+
+24. entgegen § 33 Absatz 1, § 38 Absatz 1, § 43 Absatz 1 oder § 44c Satz
+    1, auch in Verbindung mit Satz 3, ein dort genanntes Tier übernimmt,
+
+
+25. ohne Genehmigung nach § 33 Absatz 2, § 38 Absatz 2, § 43 Absatz 2 oder
+    § 44 Absatz 4 eine Ohrmarke, ein Kennzeichen oder einen Transponder in
+    den Verkehr bringt,
+
+
+26. entgegen § 42 Absatz 1 Satz 1 oder § 45 Absatz 1 Satz 2 ein dort
+    genanntes Register nicht, nicht richtig oder nicht vollständig führt,
+
+
+27. entgegen § 44 Absatz 1 eine Kennzeichnung nicht richtig vornehmen
     lässt,
 
 
-12. entgegen § 21 Absatz 1 Satz 1 in Verbindung mit Satz 3 und 4, § 23, §
-    24 in Verbindung mit § 25 Absatz 1 Satz 1 oder 4 oder Absatz 2 ein
-    Viehhandelskontrollbuch, ein Kastrationskontrollbuch, ein
-    Klauenpflegekontrollbuch oder ein Deckregister nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig führt,
+28. entgegen § 44a Absatz 1 Satz 3 einen Antrag nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig stellt,
 
 
-13. entgegen § 21 Absatz 2 Satz 1 in Verbindung mit Absatz 1, § 22 Absatz
-    1 ein Transportkontrollbuch oder ein Desinfektionskontrollbuch nicht
-    oder nicht vollständig mitführt,
+29. entgegen § 44a Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
 
 
-14. entgegen § 22 Absatz 2 oder § 25 Absatz 2 eine Aufzeichnung oder
-    Eintragung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig macht,
+30. entgegen § 44b Absatz 1 Satz 2 Nummer 1 nicht sicherstellt, dass der
+    Equidenpass übergeben wird,
 
 
-15. entgegen § 25 Absatz 3 Satz 1, auch in Verbindung mit § 37 Absatz 2
-    oder § 42 Absatz 2, ein dort genanntes Buch oder Register nicht
-    aufbewahrt,
+31. entgegen § 44b Absatz 2 Satz 1 Nummer 1 oder Absatz 3 Satz 1 Nummer 1
+    einen Equidenpass nicht, nicht richtig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig ungültig macht oder
 
 
-16. entgegen § 27 Absatz 1 Satz 1 oder Absatz 5, § 34 Absatz 1 Satz 1 oder
-    2 oder Absatz 5 Satz 1, § 39 Absatz 1, 4 Satz 1 oder Absatz 6 Satz 1
-    ein Rind, ein Schaf, eine Ziege oder ein Schwein nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig kennzeichnet oder
-    kennzeichnen lässt,
-
-
-17. entgegen § 27 Absatz 6 Satz 1, § 34 Absatz 6 Satz 1 oder § 39 Absatz 7
-    Satz 1 eine Ohrmarke oder ein Kennzeichen entfernt oder entfernen
-    lässt,
-
-
-18. entgegen § 30 Absatz 1 oder § 41 Absatz 1 Satz 1 ein Rind oder ein
-    Schwein verbringt, abgibt, ausführt oder einstellt,
-
-
-19. entgegen § 32 Absatz 1 in Verbindung mit Absatz 2, § 37 Absatz 1 in
-    Verbindung mit Absatz 2, § 42 Absatz 1 Satz 1 in Verbindung mit Absatz
-    2 oder § 45 Absatz 1 Satz 2 in Verbindung mit Satz 4, jeweils in
-    Verbindung mit § 25 Absatz 1 Satz 1 oder 4 oder Absatz 2, ein
-    Bestandsregister nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig führt,
-
-
-20. entgegen § 33 Absatz 1, § 38 Absatz 1, § 43 Absatz 1 oder § 44b ein
-    Rind, ein Schaf, eine Ziege, ein Schwein oder einen Einhufer
-    übernimmt,
-
-
-21. entgegen § 33 Absatz 2, § 38 Absatz 2, § 43 Absatz 2 oder § 44 Absatz
-    4 eine Ohrmarke, ein Kennzeichen oder einen Transponder in den Verkehr
-    bringt,
-
-
-22. entgegen § 44 Absatz 1 die Durchführung der Kennzeichnung nicht oder
-    nicht ordnungsgemäß vornehmen lässt,
-
-
-23. entgegen § 44a Absatz 2 Satz 1 die dort genannten Angaben nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
-
-
-24. entgegen § 44a Absatz 2 Satz 2 eine Änderung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig mitteilt oder
-
-
-25. entgegen § 44a Absatz 4 Satz 1 den Equidenpass nicht oder nicht
-    rechtzeitig zurücksendet.
+32. entgegen § 44b Absatz 2 Satz 1 Nummer 2, Absatz 3 Satz 1 Nummer 2 oder
+    Absatz 4 einen Equidenpass nicht oder nicht rechtzeitig zurücksendet.
 
 
 
 
-(3) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr.
+(2) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
 1760/2000 des Europäischen Parlaments und des Rates vom 17. Juli 2000
 zur Einführung eines Systems zur Kennzeichnung und Registrierung von
 Rindern und über die Etikettierung von Rindfleisch und
 Rindfleischerzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr.
-820/97 des Rates (ABl. L 204 vom 11.8.2000, S. 1) verstößt, indem er
-vorsätzlich oder fahrlässig
+820/97 des Rates (ABl. L 204 vom 11.8.2000, S. 1), die zuletzt durch
+die Verordnung (EU) 2016/429 (ABl. L 84 vom 31.3.2016, S. 1) geändert
+worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
-1.  entgegen Artikel 6 Absatz 4 oder 5 den dort genannten Pass nicht oder
-    nicht rechtzeitig einreicht oder nicht oder nicht rechtzeitig
-    zusendet,
-
-
-2.  entgegen Artikel 7 Absatz 1 erster Anstrich in Verbindung mit Artikel
-    8 der Verordnung (EG) Nr. 911/2004 der Kommission vom 29. April 2004
-    zur Umsetzung der Verordnung (EG) Nr. 1760/2000 des Europäischen
+1.  entgegen Artikel 7 Absatz 1 erster Anstrich in Verbindung mit Artikel
+    8 der Verordnung (EG)
+    Nr. 911/2004                    der Kommission vom 29. April 2004 zur
+    Umsetzung der Verordnung (EG) Nr. 1760/2000 des Europäischen
     Parlaments und des Rates in Bezug auf Ohrmarken, Tierpässe und
     Bestandsregister (ABl. L 163 vom 30.4.2004, S. 65) ein Register nicht,
-    nicht richtig oder nicht vollständig führt,
+    nicht richtig oder nicht vollständig führt oder
 
 
-3.  entgegen Artikel 7 Absatz 2 den dort genannten Pass nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig ergänzt oder
-
-
-4.  entgegen Artikel 7 Absatz 4 das dort genannte Register nicht, nicht
+2.  entgegen Artikel 7 Absatz 4 das dort genannte Register nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig offenlegt.
 
 
 
 
-(4) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 6 des
-Tierseuchengesetzes handelt, wer gegen die Verordnung (EG) Nr. 21/2004
-des Rates vom 17. Dezember 2003 zur Einführung eines Systems zur
-Kennzeichnung und Registrierung von Schafen und Ziegen und zur
+(3) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 8 des
+Tiergesundheitsgesetzes handelt, wer gegen die Verordnung (EG) Nr.
+21/2004 des Rates vom 17. Dezember 2003 zur Einführung eines Systems
+zur Kennzeichnung und Registrierung von Schafen und Ziegen und zur
 Änderung der Verordnung (EG) Nr. 1782/2003 sowie der Richtlinien
 92/102/EWG und 64/432/EWG (ABl. L 5 vom 9.1.2004, S. 8) verstößt,
 indem er vorsätzlich oder fahrlässig
@@ -2080,7 +2225,8 @@ anzuwenden.
 
 ### Anlage 1 Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
-(Fundstelle: BGBl. I 2010, 220)
+(Fundstelle: BGBl. I 2020, 1188)
+
 
 1.  Anlagen, die verwendet werden sollen, müssen geeignet sein, die Tiere
     ordnungsgemäß zu entladen und artgerecht zu halten. Diese Anlagen
@@ -2126,8 +2272,8 @@ anzuwenden.
 
 
 5.  Viehhandelsunternehmer, Transportunternehmer und Betreiber einer
-    Sammelstelle müssen über einen schriftlichen Plan für die Reinigung
-    und die Desinfektion
+    Sammelstelle müssen über einen schriftlichen oder elektronischen Plan
+    für die Reinigung und die Desinfektion
 
     a)  der Transportfahrzeuge,
 
@@ -2158,20 +2304,19 @@ anzuwenden.
 
 ### Anlage 2 Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
-(Fundstelle: BGBl. I 2010, 221)
-
-1.  Der Viehhandelsunternehmer hat dafür Sorge zu tragen, dass
-
-    a)  eine Ausbreitung von Tierseuchen verhindert wird und
+(Fundstelle: BGBl. I 2020, 1189)
 
 
-    b)  das Personal regelmäßig im Umgang mit den Tieren geschult wird.
+1.  Der Viehhandelsunternehmer sowie der Sammelstellenbetreiber haben
+    dafür Sorge zu tragen, dass eine Ausbreitung von Tierseuchen
+    verhindert wird.
 
 
+2.  Der Viehhandelsunternehmer hat darüber hinaus dafür Sorge zu tragen,
+    dass das Personal regelmäßig im Umgang mit den Tieren geschult wird.
 
 
-
-2.  Rinder, Schweine, Schafe, Ziegen, Pferde oder Geflügel dürfen nur
+3.  Rinder, Schweine, Schafe, Ziegen, Pferde oder Geflügel dürfen nur
     gehandelt, transportiert oder auf andere Weise verbracht werden, wenn
     die Tiere keine Anzeichen aufweisen, die auf eine übertragbare
     Krankheit hinweisen, es sei denn, die Tiere werden mit Genehmigung der
@@ -2179,12 +2324,12 @@ anzuwenden.
     Beseitigung verbracht.
 
 
-3.  Zucht- und Nutztiere dürfen nicht zusammen mit Schlachttieren aus
+4.  Zucht- und Nutztiere dürfen nicht zusammen mit Schlachttieren aus
     einem anderen Betrieb und Zucht- und Nutztiere verschiedener Tierarten
     dürfen nicht zusammen in einem Fahrzeug transportiert werden.
 
 
-4.  Zucht- und Nutztiere dürfen nach Verlassen des Betriebes oder der
+5.  Zucht- und Nutztiere dürfen nach Verlassen des Betriebes oder der
     Sammelstelle auf dem Transport bis zur Ankunft am Bestimmungsort nicht
     mit Tieren in Berührung kommen, die keinen gleichwertigen
     Gesundheitsstatus haben.
@@ -2196,7 +2341,8 @@ anzuwenden.
 
 ### Anlage 3 Muster für Kontrollbücher
 
-(Fundstelle: BGBl. I 2010, 222)
+(Fundstelle: BGBl. I 2020, 1190)
+
 ### **A. Viehhandelskontrollbuch**
 
 
@@ -2234,20 +2380,26 @@ anzuwenden.
             nehmen
 
 
-        c)  Kfz-Kennzeichen des Transportfahrzeugs
+        c)  Kfz-Kennzeichen des
+            Transportfahrzeugs
 
 
 
 
     *   bei Rindern Ohr-
         markennummer;
-        bei Schweinen Stückzahl, ungefähres Alter, Kennzeichnung;
+        bei Schweinen Stückzahl,
+        ungefähres Alter, Kenn-
+        zeichnung;
         bei Schafen und
-        Ziegen Stückzahl, Kennzeichnung;
-        bei Pferden Geschlecht, Farbe, ungefähres
+        Ziegen Stückzahl, Kenn-
+        zeichnung;
+        bei Pferden Geschlecht,
+        Farbe, ungefähres
         Alter, Abzeichen,
         Markierungen;
-        bei Geflügel Stückzahl, Rasse,
+        bei Geflügel Stückzahl,
+        Rasse,
         ungefähres Alter
 
     *   Datum der
@@ -2256,7 +2408,9 @@ anzuwenden.
     *   Name und
         Anschrift
 
-    *   gegebenenfalls Nummer der Bescheinigung
+    *   gegebenenfalls
+        Nummer der
+        Bescheinigung
 
 
 *    *
@@ -2282,7 +2436,7 @@ anzuwenden.
 
 
 
-   ### **B. Transportkontrollbuch**
+   ## B. Transportkontrollbuch
 
 
 *    *   1
@@ -2312,35 +2466,44 @@ anzuwenden.
         c)  Abfahrtszeit
 
 
-        d)  voraussichtliche Dauer
+        d)  voraussicht-
+            liche Dauer
             der Beförde-
             rung
 
 
 
 
-    *   Name und Anschrift des bisherigen Tierhalters
+    *   Name und Anschrift des
+        bisherigen Tierhalters
 
     *   bei Rindern Ohr-
         markennummer;
-        bei Schweinen Stückzahl, ungefähres Alter, Kennzeichnung;
+        bei Schweinen Stückzahl,
+        ungefähres Alter, Kenn-
+        zeichnung;
         bei Schafen und
-        Ziegen Stückzahl, Kennzeichnung;
-        bei Pferden Geschlecht, Farbe, ungefähres
+        Ziegen Stückzahl, Kenn-
+        zeichnung;
+        bei Pferden Geschlecht,
+        Farbe, ungefähres
         Alter, Abzeichen,
         Markierungen;
         bei Geflügel Stück-
         zahl, Rasse,
         ungefähres Alter
 
-    *   Datum und Zeitpunkt der Übergabe
+    *   Datum und Zeit-
+        punkt der Über-
+        gabe
 
     *   Fahrtziel
         Name und
         Anschrift des
         Übernehmers
 
-    *   gegebenenfalls Nummer der
+    *   gegebenenfalls
+        Nummer der
         Bescheinigung
 
 
@@ -2367,7 +2530,7 @@ anzuwenden.
 
 
 
-   ### **C. Desinfektionskontrollbuch**
+   ## C. Desinfektionskontrollbuch
 
 
 *    *   1
@@ -2386,9 +2549,11 @@ anzuwenden.
 
     *   Art der beförderten Tiere
 
-    *   Datum der Reinigung und Desinfektion
+    *   Datum der Reinigung
+        und Desinfektion
 
-    *   Ort der Reinigung und Desinfektion
+    *   Ort der Reinigung und
+        Desinfektion
 
     *   Desinfektionsmittel/
         eingesetzte Konzen-
@@ -2419,16 +2584,17 @@ anzuwenden.
 
 ### Anlage 4 Ohrmarken zur Rinderkennzeichnung
 
-(Fundstelle: BGBl. I 2010, 223 - 224)
+(Fundstelle: BGBl. I 2020, 1191 – 1192)
+
 **1. Ohrmarke (Vorderseite/Lochteil)**
 
-*    *        ![bgbl1_2010_j0203-1_0010.jpg](bgbl1_2010_j0203-1_0010.jpg)
+*    *        ![bgbl1_2020_j1170-1_0010.jpg](bgbl1_2020_j1170-1_0010.jpg)
     *   Logo der ausgebenden Behörde oder beauftragten Stelle
 
 
 *    *   Ländercode „DE“ (Deutschland) und 10-stellige Nummer,
         (zweizeilig):
-[^f772935_20_BJNR127400007BJNE005601377]
+[^F811033_05_BJNR127400007BJNE005602119]
         – 2 Ziffern (Bundesland)
         – 8 Ziffern (individuell)
 
@@ -2455,11 +2621,11 @@ anzuwenden.
 
 **2. Ohrmarke (Vorderseite/Lochteil)**
 
-*    *        ![bgbl1_2010_j0203-1_0020.jpg](bgbl1_2010_j0203-1_0020.jpg)
+*    *        ![bgbl1_2020_j1170-1_0020.jpg](bgbl1_2020_j1170-1_0020.jpg)
     *   Logo der ausgebenden Behörde oder beauftragten Stelle
 
 
-*    *[^f772935_21_BJNR127400007BJNE005601377]
+*    *[^F811033_06_BJNR127400007BJNE005602119]
    Ländercode „DE“ (Deutschland) und 10-stellige Nummer
         ,(
         zweizeilig                       );
@@ -2487,7 +2653,7 @@ anzuwenden.
 
 **1. und 2. Ohrmarke (Rückseite/Dornteil)**
 
-*    *        ![bgbl1_2010_j0203-1_0030.jpg](bgbl1_2010_j0203-1_0030.jpg)
+*    *        ![bgbl1_2020_j1170-1_0030.jpg](bgbl1_2020_j1170-1_0030.jpg)
     *   Logo der ausgebenden Behörde oder beauftragten Stelle
 
 
@@ -2516,7 +2682,7 @@ anzuwenden.
 
 
 
-[^f772935_20_BJNR127400007BJNE005601377]:    01 = Schleswig-Holstein               02 = Hamburg               03 =
+[^F811033_05_BJNR127400007BJNE005602119]:    01 = Schleswig-Holstein               02 = Hamburg               03 =
     Niedersachsen               04 = Bremen               05 = Nordrhein-
     Westfalen               06 = Hessen               07 = Rheinland-Pfalz
     08 = Baden-Württemberg               09 = Bayern               10 =
@@ -2524,12 +2690,13 @@ anzuwenden.
     13 = Mecklenburg-Vorpommern               14 = Sachsen
     15 = Sachsen-Anhalt               16 = Thüringen
     siehe 1. Ohrmarke (Vorderseite/Lochteil)
-[^f772935_21_BJNR127400007BJNE005601377]: 
+[^F811033_06_BJNR127400007BJNE005602119]: 
 (zu § 27 Absatz 3, § 30 Absatz 2 und § 31 Satz 2)
 
 ### Anlage 5 Regelung über den Typ und die Struktur des Strichcodes gemäß § 27 Absatz 3 Satz 2, § 30 Absatz 2 Satz 2 und § 31 Satz 2
 
-(Fundstelle: BGBl. I 2010, 225 - 226)
+(Fundstelle: BGBl. I 2020, 1193 – 1194)
+
 Der auf dem Vorderteil einer Ohrmarke anzubringende und der auf dem
 Rinderpass einzutragende Strichcode ist wie nachfolgend beschrieben
 aufzubauen:
@@ -2562,7 +2729,7 @@ aufzubauen:
     Beispiel:
 
 
-    *        *            ![bgbl1_2010_j0203-1_0040.jpg](bgbl1_2010_j0203-1_0040.jpg)
+    *        *            ![bgbl1_2020_j1170-1_0040.jpg](bgbl1_2020_j1170-1_0040.jpg)
 
 
 
@@ -2969,446 +3136,509 @@ aufzubauen:
 
 
 
-(zu § 28 und § 32 Absatz 1)
+(zu § 28 und § 32 Absatz 1 Satz 1 Nummer 1)
 
 ### Anlage 6 Rasseschlüssel
 
-(Fundstelle: BGBl. I 2010, 227)
+(Fundstelle: BGBl. I 2020, 1195 – 1197)
+
 
 *    *   Holstein-Schwarzbunt
 
     *   01
-
-    *
-    *   Ungarisches Steppenrind
-
-    *   53
 
 
 *    *   Holstein-Rotbunt
 
     *   02
 
-    *
-    *   Zwerg-Zebus
-
-    *   54
-
 
 *    *   Jersey
 
     *   03
-
-    *
-    *   Grauvieh
-
-    *   55
 
 
 *    *   Braunvieh
 
     *   04
 
-    *
-    *   Dexter
-
-    *   56
-
 
 *    *   Angler
 
     *   05
-
-    *
-    *   White Galloway
-
-    *   57
 
 
 *    *   Rotvieh alter Angler Zuchtrichtung
 
     *   06
 
-    *
-    *   Longhorn
 
-    *   58
-
-
-*    *   Doppelnutzung Rotbunt
+*    *   Rotbunt DN
 
     *   09
-
-    *
-    *   South Devon
-
-    *   59
 
 
 *    *   Deutsches Schwarzbuntes Niederungsrind (DSN)
 
     *   10
 
-    *
-    *   Fjäll-Rind
-
-    *   60
-
 
 *    *   Fleckvieh
 
     *   11
-
-    *
-    *   Tuxer
-
-    *   61
 
 
 *    *   Gelbvieh
 
     *   12
 
-    *
-    *   Telemark
-
-    *   65
-
 
 *    *   Pinzgauer
 
     *   13
-
-    *
-    *   Fleckvieh Fleischnutzung
-
-    *   66
 
 
 *    *   Hinterwälder
 
     *   14
 
-    *
-    *   Uckermärker
-
-    *   67
-
 
 *    *   Murnau-Werdenfelser
 
     *   15
-
-    *
-    *   Blaarkop
-
-    *   68
 
 
 *    *   Vorderwälder
 
     *   16
 
-    *
-    *   Witrug
 
-    *   69
-
-
-*    *   Limpurger
+*    *   Limpurger Rind
 
     *   17
-
-    *
-    *   Lakenfelder
-
-    *   70
 
 
 *    *   Braunvieh alter Zuchtrichtung
 
     *   18
 
-    *
-    *   Rotes Höhenvieh (RHV)
-
-    *   71
-
 
 *    *   Ayrshire
 
     *   19
-
-    *
-    *   Ansbach-Triesdorfer
-
-    *   72
 
 
 *    *   Vogesen-Rind
 
     *   20
 
-    *
-    *   Glanrind
-
-    *   73
-
 
 *    *   Charolais
 
     *   21
-
-    *
-    *   Pinzgauer Fleischnutzung
-
-    *   74
 
 
 *    *   Limousin
 
     *   22
 
-    *
-    *   Pustertaler Schecken
-
-    *   75
-
 
 *    *   Weißblaue Belgier
 
     *   23
 
-    *
-    *   Gelbvieh Fleischnutzung
 
-    *   76
-
-
-*    *   Blonde d'Aquitaine
+*    *   Blonde d´Aquitaine
 
     *   24
 
-    *
-    *   Braunvieh Fleischnutzung
 
-    *   77
-
-
-*    *   Maine Anjou
+*    *   Maine-Anjou
 
     *   25
-
-    *
-    *   Rotbunt Fleischnutzung
-
-    *   78
 
 
 *    *   Salers
 
     *   26
 
-    *
-    *   Hinterwälder Fleischnutzung
 
-    *   79
-
-
-*    *   Montbeliard
+*    *   Montbéliarde
 
     *   27
-
-    *
-    *   Murnau-Werdenfelser Fleischnutzung
-
-    *   80
 
 
 *    *   Aubrac
 
     *   28
 
-    *
-    *   Vorderwälder Fleischnutzung
-
-    *   81
-
 
 *    *   Piemonteser
 
     *   31
-
-    *
-    *   Limpurger Fleischnutzung
-
-    *   82
 
 
 *    *   Chianina
 
     *   32
 
-    *
-    *   Brahman
-
-    *   83
-
 
 *    *   Romagnola
 
     *   33
-
-    *
-    *   Bazadaise
-
-    *   84
 
 
 *    *   Marchigiana
 
     *   34
 
-    *
-    *   Auerochse (Heckrind, Rückkreuzung Auerochse)
-
-    *   85
-
 
 *    *   White Park
 
     *   35
 
-    *
-    *   Beefalo
 
-    *   86
+*    *   British Blue
+
+    *   36
 
 
-*    *   Angus (DA)
+*    *   Angus
 
     *   41
 
-    *
-    *   Wasserbüffel (Bubalus bubalus)
 
-    *   87
-
-
-*    *   Angus/AA (AA)
+*    *   Angus (AA)
 
     *   42
-
-    *
-    *   Bison/Wisent
-
-    *   88
 
 
 *    *   Hereford
 
     *   43
 
-    *
-    *   Yak
-
-    *   89
-
 
 *    *   Deutsches Shorthorn
 
     *   44
 
-    *
-    *   Sonstige Rassen (SON)
 
-    *   90
-
-
-*    *   Highland
+*    *   Highland Cattle
 
     *   45
-
-    *
-    *   Sonstige taurine Rinder (Bos taurus)
-
-    *   91
 
 
 *    *   Welsh-Black
 
     *   46
 
-    *
-    *   Sonstige Zebu-Rinder (Bos indicus)
-
-    *   92
-
 
 *    *   Galloway
 
     *   47
-
-    *
-    *   Sonstige taur indicus-Rinder
-
-    *   93
 
 
 *    *   Lincoln Red
 
     *   48
 
-    *
-    *   Wagyu Rind
-
-    *   94
-
 
 *    *   Belted Galloway
 
     *   49
-
-    *
-    *   Kreuzung Fleischrind x Fleischrind
-
-    *   97
 
 
 *    *   Luing
 
     *   50
 
-    *
-    *   Kreuzung Fleischrind x Milchrind
-
-    *   98
-
 
 *    *   Brangus
 
     *   51
 
-    *
-    *   Kreuzung Milchrind x Milchrind
+
+*    *   Normande
+
+    *   52
+
+
+*    *   Ungarisches Steppenrind
+
+    *   53
+
+
+*    *   Zwerg-Zebu
+
+    *   54
+
+
+*    *   Grauvieh
+
+    *   55
+
+
+*    *   Dexter
+
+    *   56
+
+
+*    *   White Galloway
+
+    *   57
+
+
+*    *   Longhorn
+
+    *   58
+
+
+*    *   South Devon
+
+    *   59
+
+
+*    *   Fjäll-Rind
+
+    *   60
+
+
+*    *   Tuxer
+
+    *   61
+
+
+*    *   Telemark
+
+    *   65
+
+
+*    *   Fleckvieh-Simmental
+
+    *   66
+
+
+*    *   Uckermärker
+
+    *   67
+
+
+*    *   Blaarkop
+
+    *   68
+
+
+*    *   Witrug
+
+    *   69
+
+
+*    *   Lakenfelder
+
+    *   70
+
+
+*    *   Rotes Höhenvieh
+
+    *   71
+
+
+*    *   Ansbach-Triesdorfer
+
+    *   72
+
+
+*    *   Glanrind
+
+    *   73
+
+
+*    *   Pinzgauer Fleischnutzung
+
+    *   74
+
+
+*    *   Pustertaler
+
+    *   75
+
+
+*    *   Gelbvieh Fleischnutzung
+
+    *   76
+
+
+*    *   Braunvieh Fleischnutzung
+
+    *   77
+
+
+*    *   Rotbunt Fleischnutzung
+
+    *   78
+
+
+*    *   Hinterwälder Fleischnutzung
+
+    *   79
+
+
+*    *   Murnau-Werdenfelser Fleischnutzung
+
+    *   80
+
+
+*    *   Vorderwälder Fleischnutzung
+
+    *   81
+
+
+*    *   Limpurger Fleischnutzung
+
+    *   82
+
+
+*    *   Brahman
+
+    *   83
+
+
+*    *   Bazadaise
+
+    *   84
+
+
+*    *   Heckrind (Rückzüchtung)
+
+    *   85
+
+
+*    *   Beefalo
+
+    *   86
+
+
+*    *   Wasserbüffel (Bubalus bubalus)
+
+    *   87
+
+
+*    *   Bison/Wisent
+
+    *   88
+
+
+*    *   Yak
+
+    *   89
+
+
+*    *   Sonstige Rassen (SON)
+
+    *   90
+
+
+*    *   Sonstige taurine Rinder (Bos taurus)
+
+    *   91
+
+
+*    *   Sonstige Zebu-Rinder (Bos indicus)
+
+    *   92
+
+
+*    *   Sonstige taur indicus-Rinder
+
+    *   93
+
+
+*    *   Wagyu Rind
+
+    *   94
+
+
+*    *   Kreuzung Fleischrind x Fleischrind
+
+    *   97
+
+
+*    *   Kreuzung Fleischrind x Milchrind
+
+    *   98
+
+
+*    *   Kreuzung Milchrind x Milchrind
 
     *   99
 
 
-*    *   Normanne
+*    *   Evolener
 
-    *   52
+    *   100
 
-    *
-    *
-    *
+
+*    *   British Longhorn
+
+    *   101
+
+
+*    *   Texas Longhorn
+
+    *   102
+
+
+*    *   Murray Grey
+
+    *   103
+
+
+*    *   Whitbred Shorthorn
+
+    *   104
+
+
+*    *   Murbodener
+
+    *   105
+
+
+*    *   Ennstaler Bergschecken
+
+    *   106
+
+
+*    *   Eringer
+
+    *   107
+
+
+*    *   Parthenaise
+
+    *   108
+
+
+*    *   Kreuzung Zweinutzungsrind x Fleischrind
+
+    *   109
+
+
+*    *   Kreuzung Zweinutzungsrind x Milchrind
+
+    *   110
+
+
+*    *   Kreuzung Zweinutzungsrind x Zweinutzungsrind
+
+    *   111
 
 
 
 
 ### Anlage 7 (zu § 30 Absatz 1 und § 31)
 
-   (Fundstelle: BGBl. I 2010, 228)
+(Fundstelle: BGBl. I 2020, 1198)
+
 
 *    *   Ausgebende Stelle
 
@@ -3419,6 +3649,8 @@ aufzubauen:
 *    *   (Logo)
 
     *   (Passnummer)
+        ......................................................................
+        ...........
 
     *
 
@@ -3434,7 +3666,7 @@ aufzubauen:
     *   Registrier-Nr. nach § 26 der Viehverkehrsverordnung
 
 
-*    *   **Tierhalter**                        (Name, Vorname, Anschrift)
+*    *   **Tierhalter**                      (Name, Vorname, Anschrift)
 
     *   **1. Tierdaten**
         Geburtsdatum:
@@ -3449,47 +3681,61 @@ aufzubauen:
 *    *   aus folgendem Mitgliedstaat der EU:
 
 
+*    *
+
 *    *   aus folgendem Drittland eingeführt:
 
 
+*    *
+
 *    *   vom Drittland vergebene Ohrmarkennummer:
 
+
+*    *
 
 *    *   **3. Angaben zu den Vorbesitzern des Tieres:**
 
 
 *    *   **Registriernummer:**
+        ...............................................................
 
     *
     *
 
 *    *   Datum des Zugangs:
+        ..............................................................
 
     *   Datum des Abgangs:
+        ..............................................................
 
 
 *    *   **Registriernummer:**
+        ...............................................................
 
     *
     *
 
 *    *   Datum des Zugangs:
+        ..............................................................
 
     *   Datum des Abgangs:
+        ..............................................................
 
 
 *    *   **Registriernummer:**
+        ...............................................................
 
     *
     *
 
 *    *   Datum des Zugangs:
+        ..............................................................
 
     *   Datum des Abgangs:
+        ..............................................................
 
 
 *    *   **4. Ort, Datum, Unterschrift des letzten Tierhalters**
-
 
 
 
@@ -3497,7 +3743,8 @@ aufzubauen:
 
 ### Anlage 8 Bestandsregister für Rinderhaltungen
 
-(Fundstelle: BGBl. I 2010, 229)
+(Fundstelle: BGBl. I 2020, 1199)
+
 Seite: …
 
 
@@ -3552,7 +3799,7 @@ Seite: …
         datum
 
     *   Geschlecht
-[^f772935_22_BJNR127400007BJNE006001377]
+[^F811033_07_BJNR127400007BJNE006002119]
         m/w
 
     *   Rasse nach Rasseschlüssel
@@ -3563,7 +3810,7 @@ Seite: …
 
     *   Abgang
 
-    *[^f772935_23_BJNR127400007BJNE006001377]
+    *[^F811033_08_BJNR127400007BJNE006002119]
    Bemerkungen
 
 
@@ -3628,6 +3875,8 @@ Seite: …
     *
 
 
+
+
    **Angaben im Fall der Überprüfung**
 
 *    *   Datum der Überprüfung:
@@ -3642,28 +3891,29 @@ Seite: …
 
 
     m = männlich, w = weiblich.
-[^f772935_22_BJNR127400007BJNE006001377]:     Datum der Beantragung und des Erhalts einer Ersatzohrmarke;
+[^F811033_07_BJNR127400007BJNE006002119]:     Datum der Beantragung und des Erhalts einer Ersatzohrmarke;
     Ursprungsland bei nicht im Inland geborenen Tieren; ursprüngliche
     Kennzeichnung von aus Drittländern stammenden Tieren u. a.
-[^f772935_23_BJNR127400007BJNE006001377]: 
+[^F811033_08_BJNR127400007BJNE006002119]: 
 (zu § 34 Absatz 3 und 4)
 
 ### Anlage 9 Ohrmarken zur Kennzeichnung von Schafen und Ziegen
 
-(Fundstelle: BGBl. I 2010, 230 - 231)
+(Fundstelle: BGBl. I 2020, 1200 – 1201)
+
 **Nummer 1**
 
 **Abschnitt A (Vorderseite/Dornteil)**
 
 
-*    *        ![bgbl1_2010_j0203-1_0050.jpg](bgbl1_2010_j0203-1_0050.jpg)
+*    *        ![bgbl1_2020_j1170-1_0050.jpg](bgbl1_2020_j1170-1_0050.jpg)
     *   Logo der ausgebenden Behörde oder beauftragten Stelle
 
 
 *    *   Ländercode „DE“ (Deutschland) und 12-stellige Nummer (
-        zweizeilig                     ):
+        zweizeilig                       ):
         – „01“ (Tierartenkenncode)
-[^f772935_24_BJNR127400007BJNE006102377]
+[^F811033_09_BJNR127400007BJNE006103119]
         – 2 Ziffern (Bundesland)
         – 8 Ziffern (individuell)
 
@@ -3678,6 +3928,7 @@ Seite: …
 
 
 
+
 **Abschnitt B (Rückseite/Lochteil)**
 
 
@@ -3686,10 +3937,10 @@ Seite: …
     *   Unterabschnitt B
 
 
-*    *        ![bgbl1_2010_j0203-1_0060.jpg](bgbl1_2010_j0203-1_0060.jpg)
+*    *        ![bgbl1_2020_j1170-1_0060.jpg](bgbl1_2020_j1170-1_0060.jpg)
     *   ohne Beschriftung
 
-    *        ![bgbl1_2010_j0203-1_0070.jpg](bgbl1_2010_j0203-1_0070.jpg)
+    *        ![bgbl1_2020_j1170-1_0070.jpg](bgbl1_2020_j1170-1_0070.jpg)
     *   ohne Beschriftung
 
 
@@ -3710,6 +3961,7 @@ Seite: …
 
 
 
+
 **Abschnitt C (Rückseite/Lochteil)**
 
 
@@ -3718,16 +3970,16 @@ Seite: …
     *   Unterabschnitt B
 
 
-*    *        ![bgbl1_2010_j0203-1_0080.jpg](bgbl1_2010_j0203-1_0080.jpg)
+*    *        ![bgbl1_2020_j1170-1_0080.jpg](bgbl1_2020_j1170-1_0080.jpg)
     *   Ländercode „DE“
         (Deutschland) und
         – Kfz-Kennzeichen
         – letzte sieben Ziffern
-        der nach § 26 Absatz 2
-        Satz 2 erteilten Regis-
-        triernummer
+        der nach § 26 Ab-
+        satz 2 Satz 2 erteilten
+        Registriernummer
 
-    *        ![bgbl1_2010_j0203-1_0090.jpg](bgbl1_2010_j0203-1_0090.jpg)
+    *        ![bgbl1_2020_j1170-1_0090.jpg](bgbl1_2020_j1170-1_0090.jpg)
     *   Ländercode „DE“ (Deutschland) und
         – Kfz-Kennzeichen
         – letzte sieben Ziffern der nach § 26 Absatz 2 Satz 2 erteilten
@@ -3751,12 +4003,13 @@ Seite: …
 
 
 
+
 **Nummer 2**
 
 **Abschnitt A (Vorderseite/Dornteil)**
 
 
-*    *        ![bgbl1_2010_j0203-1_0100.jpg](bgbl1_2010_j0203-1_0100.jpg)
+*    *        ![bgbl1_2020_j1170-1_0100.jpg](bgbl1_2020_j1170-1_0100.jpg)
     *   Logo der ausgebenden Behörde oder beauftragten Stelle
 
 
@@ -3776,10 +4029,11 @@ Seite: …
 
 
 
+
 **Abschnitt B (Rückseite/Lochteil)**
 
 
-*    *        ![bgbl1_2010_j0203-1_0110.jpg](bgbl1_2010_j0203-1_0110.jpg)
+*    *        ![bgbl1_2020_j1170-1_0110.jpg](bgbl1_2020_j1170-1_0110.jpg)
     *   ohne Beschriftung
 
 
@@ -3793,17 +4047,18 @@ Seite: …
 
 
 
+
 **Nummer 3**
 
 **Abschnitt A (Vorderseite/Loch- und Dornteil, mit Transponder)**
 
-![bgbl1_2010_j0203-1_0120.jpg](bgbl1_2010_j0203-1_0120.jpg)
+![bgbl1_2020_j1170-1_0120.jpg](bgbl1_2020_j1170-1_0120.jpg)
 Logo der ausgebenden Behörde oder beauftragten Stelle
 
 Ländercode „DE“ (Deutschland) und 12-stellige Nummer (
 einzeilig             ):
 – „01“ (Tierartenkenncode)
-– 2 Ziffern (Bundesland)
+– 2 Ziffern (Bundesland)\*
 – 8 Ziffern (individuell)
 
 *Mindestgröße der Ohrmarke*
@@ -3814,13 +4069,13 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
 **Abschnitt B (Vorderseite/Loch- und Dornteil, ohne Transponder)**
 
-![bgbl1_2010_j0203-1_0130.jpg](bgbl1_2010_j0203-1_0130.jpg)
+![bgbl1_2020_j1170-1_0130.jpg](bgbl1_2020_j1170-1_0130.jpg)
 Logo der ausgebenden Behörde oder beauftragten Stelle
 
 Ländercode „DE“ (Deutschland) und 12-stellige Nummer (
 einzeilig             ):
 – „01“ (Tierartenkenncode)
-– 2 Ziffern (Bundesland)
+– 2 Ziffern (Bundesland)\*
 – 8 Ziffern (individuell)
 
 *Mindestgröße der Ohrmarke*
@@ -3829,7 +4084,7 @@ Länge 75 mm
 
 Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
-[^f772935_24_BJNR127400007BJNE006102377]:     01 = Schleswig-Holstein               02 = Hamburg               03 =
+[^F811033_09_BJNR127400007BJNE006103119]:     01 = Schleswig-Holstein               02 = Hamburg               03 =
     Niedersachsen               04 = Bremen               05 = Nordrhein-
     Westfalen               06 = Hessen               07 = Rheinland-Pfalz
     08 = Baden-Württemberg               09 = Bayern               10 =
@@ -3841,11 +4096,12 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
 ### Anlage 10 Begleitpapier
 
-(Fundstelle: BGBl. I 2010, 232)
+(Fundstelle: BGBl. I 2020, 1202)
 
-*    *   **für Schafe**                        □*
 
-    *   **für Ziegen**                        □*
+*    *   **für Schafe***
+
+    *   **für Ziegen***
 
 
 
@@ -3867,7 +4123,7 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
 
 
-*    *[^f772935_25_BJNR127400007BJNE006201377]
+*    *[^F811033_10_BJNR127400007BJNE006202119]
    **Angaben zum Bestimmungsbetrieb**
         (Tierhalter/Schlachthof)
 
@@ -3886,7 +4142,7 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
 *    *   bei Wanderschafherden:
 
-    *[^f772935_26_BJNR127400007BJNE006201377]
+    *[^F811033_11_BJNR127400007BJNE006202119]
    Bestimmungsort oder Ablichtung der Genehmigung nach § 10 Absatz 1
 
 
@@ -3895,7 +4151,7 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 *    *   **Angaben zu den zu verbringenden Tieren**
 
 
-*    *[^f772935_27_BJNR127400007BJNE006201377]
+*    *[^F811033_12_BJNR127400007BJNE006202119]
    Anzahl Schafe
         :
 
@@ -3942,27 +4198,27 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
 
 *    *   Ort, Datum
 
-    *   Unterschrift des abgebenden Tierhalters
-
+    *   Unterschrift des abgebenden Tierhalters
 
 
 
     Nicht zutreffenden Bestimmungsbetrieb streichen.
-[^f772935_25_BJNR127400007BJNE006201377]:     Nicht Zutreffendes streichen.
-[^f772935_26_BJNR127400007BJNE006201377]:     Nicht zutreffende Tierart streichen.
-[^f772935_27_BJNR127400007BJNE006201377]: 
+[^F811033_10_BJNR127400007BJNE006202119]:     Nicht Zutreffendes streichen.
+[^F811033_11_BJNR127400007BJNE006202119]:     Nicht zutreffende Tierart streichen.
+[^F811033_12_BJNR127400007BJNE006202119]: 
 (zu § 37 Absatz 1)
 
 ### Anlage 11 Bestandsregister
 
-(Fundstelle: BGBl. I 2010, 232)
-Seite: ...
+(Fundstelle: BGBl. I 2020, 1203 – 1204)
+
+Seite: …
 
 
-*    *   für Schafe □*
+*    *   für Schafe*
 
     *
-    *   für Ziegen □*
+    *   für Ziegen*
 
 
 
@@ -3980,13 +4236,13 @@ Seite: ...
 
     *
     *   Zucht
-        ⁪□*
+        *
 
     *   Milch
-        □*
+        *
 
     *   Mast
-        □*
+        *
 
     *   Gesamtanzahl am 1. Januar …
 
@@ -4002,7 +4258,7 @@ Seite: ...
 
 
 
-[^f772935_28_BJNR127400007BJNE006302377]
+[^F811033_13_BJNR127400007BJNE006303119]
 B. Angaben zum Verbringen von Schafen und Ziegen
 ##
 
@@ -4020,7 +4276,7 @@ B. Angaben zum Verbringen von Schafen und Ziegen
 
     *   Anzahl
 
-    *[^f772935_29_BJNR127400007BJNE006302377]
+    *[^F811033_14_BJNR127400007BJNE006303119]
    Bemerkungen
 
 
@@ -4064,7 +4320,7 @@ B. Angaben zum Verbringen von Schafen und Ziegen
     *
 
 
-[^f772935_30_BJNR127400007BJNE006302377]
+[^F811033_15_BJNR127400007BJNE006303119]
    C. Angaben zu im Betrieb geborenen und/oder verendeten Schafen und
 Ziegen
 ##
@@ -4142,16 +4398,17 @@ der zuständigen Behörde
 
     Ersatz der Angaben durch Beifügen einer Ablichtung des
     Begleitdokuments mit diesen Angaben möglich.
-[^f772935_28_BJNR127400007BJNE006302377]:     Z. B. Angabe des Ersatzkennzeichens; ursprüngliche Kennzeichnung von
+[^F811033_13_BJNR127400007BJNE006303119]:     Z. B. Angabe des Ersatzkennzeichens; ursprüngliche Kennzeichnung von
     aus Drittländern stammenden Tieren.
-[^f772935_29_BJNR127400007BJNE006302377]:     Ersatz der Angaben durch Vorlage des Zuchtbuches mit diesen Angaben
+[^F811033_14_BJNR127400007BJNE006303119]:     Ersatz der Angaben durch Vorlage des Zuchtbuches mit diesen Angaben
     möglich.
-[^f772935_30_BJNR127400007BJNE006302377]: 
+[^F811033_15_BJNR127400007BJNE006303119]: 
 (zu § 42 Absatz 1)
 
 ### Anlage 12 Bestandsregister für Schweinehaltungen
 
-(Fundstelle: BGBl. I 2010, 235)
+(Fundstelle: BGBl. I 2020, 1205)
+
 Seite: …
 
 
@@ -4181,6 +4438,7 @@ Seite: …
     *   davon Ferkel bis 30 Kilogramm:
 
     *
+
 
 
 
@@ -4217,7 +4475,7 @@ Seite: …
     *   aktueller
         Bestand
 
-    *[^f772935_31_BJNR127400007BJNE006401377]
+    *[^F811033_16_BJNR127400007BJNE006402119]
    Bemerkungen
 
 
@@ -4281,4 +4539,4 @@ Seite: …
    Datum der Nachkennzeichnung, Ursprungsland bei nicht im Inland
     geborenen Tieren, ursprüngliche Kennzeichnung von aus Drittländern
     stammenden Tieren u. a.
-[^f772935_31_BJNR127400007BJNE006401377]: 
+[^F811033_16_BJNR127400007BJNE006402119]: 

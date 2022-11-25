@@ -20,82 +20,83 @@ Neugefasst durch
 :   Bek. v. 28.10.1983 I 1340;
 
 Zuletzt geändert durch
-:   Art. 14 u. 18 Nr. 2 G v. 23.12.2007 I 3254
+:   Art. 1 V v. 16.7.2019 I 1095
 
 
 ## § 1 Reihenfolge der Tilgung
 
-(1) Darlehen nach dem Ausbildungsförderungsgesetz vom 19. September
-1969 (BGBl. I S. 1719) werden vor solchen nach dem
-Bundesausbildungsförderungsgesetz eingezogen.
-
-(2) Hat ein Auszubildender sowohl Darlehen nach dem
-Bundesausbildungsförderungsgesetz als auch nach
-
-1.  den Besonderen Bewilligungsbedingungen für die Vergabe von
-    Bundesmitteln zur Förderung von Studenten an wissenschaftlichen
-    Hochschulen in der Bundesrepublik Deutschland einschließlich des
-    Landes Berlin des Bundesministers für Bildung und Wissenschaft vom 19.
-    November 1970 oder
-
-
-2.  den in der Verordnung zur Bezeichnung der landesrechtlichen
-    Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz vom
-    18\. November 1971 (BGBl. I S. 1822), geändert durch die Verordnung vom
-    29\. März 1974 (BGBl. I S. 828), bezeichneten landesrechtlichen
-    Vorschriften für den Besuch einer der in § 2 Abs. 1 und 2 des Gesetzes
-    bezeichneten Ausbildungsstätten
-
-
-
-erhalten, so werden auf seinen Antrag die Darlehen nach dem
-Bundesausbildungsförderungsgesetz erst nach den Darlehen getilgt, die
-nach den in den Nummern 1 und 2 bezeichneten Vorschriften geleistet
-worden sind. Abweichend von Satz 1 können Darlehen nach dem
-Bundesausbildungsförderungsgesetz eingezogen werden, solange die
-Einziehung der Darlehen, die nach den in den Nummern 1 und 2
-bezeichneten Vorschriften geleistet worden sind, nicht erfolgt.
-
-(3) Verzinsliche Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31.
-März 1976 geltenden Fassung werden vor unverzinslichen Darlehen nach
-diesem Gesetz eingezogen.
-
-(4) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
+(1) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
 ausreichen, werden zunächst auf das Darlehen, dann auf die Kosten und
 zuletzt auf die Zinsen angerechnet.
 
-(5) Bei mehreren gleichartigen Darlehen ist das ältere vor dem
+(2) Bei mehreren gleichartigen Darlehen ist das ältere vor dem
 jüngeren zu tilgen.
 
-(6) (Aufgehoben)
+(3) Vorzeitige Rückzahlungen sind zunächst auf bereits fällig
+gewordene Beträge anzurechnen. Die Tilgungsreihenfolge nach Satz 1 und
+den Absätzen 1 und 2 kann nicht abbedungen werden.
 
 
-## § 2 Dauer der Verzinsung
+## § 2 Geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten
 
-Das Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31. März 1976
-geltenden Fassung ist von Beginn des Jahres an zu verzinsen, das auf
-die Auszahlung des Betrages folgt.
+Ein im Sinne des § 18 Absatz 12 Satz 3 des Gesetzes nur geringfügiger
+Verstoß gegen die Zahlungs- und Mitwirkungspflichten ist insbesondere
+anzunehmen, wenn im gesamten Rückzahlungszeitraum
+
+1.  höchstens einmal eine Kostenpauschale für die Anschriftenermittlung
+    nach § 12 Absatz 2 Satz 1 wegen Verstoßes gegen die
+    Mitteilungsverpflichtung bei Änderungen der Wohnanschrift und des
+    Familiennamens zu erheben war,
 
 
-## § 3
+2.  kein Bußgeld wegen Verstoßes gegen die Mitteilungsverpflichtung nach §
+    12 Absatz 1 Nummer 4 bei einer Änderung der nach § 18a des Gesetzes
+    maßgeblichen Familien- und Einkommensverhältnisse bestandskräftig
+    festgesetzt wurde und
 
-(Aufgehoben)
+
+3.  sämtliche Zahlungsverpflichtungen einschließlich Kosten- und
+    Zinsforderungen beglichen wurden und höchstens für die Dauer von 150
+    Tagen nach § 18 Absatz 2 Satz 2 und 3 des Gesetzes Zinsen wegen
+    Überschreitung des Zahlungstermins angefallen sind.
 
 
-## § 4 Teilerlaß
 
-(1) Anträge auf Teilerlaß des Darlehens nach § 18b Abs. 2 und 3 des
-Gesetzes sind innerhalb eines Monats nach Bekanntgabe des
-Feststellungs- und Rückzahlungsbescheides (§ 18 Abs. 5a des Gesetzes,
-§ 10) unter Angabe der Förderungsnummer des Amtes, das zuletzt mit
-einer Entscheidung in der Förderungsangelegenheiten befaßt war, beim
-Bundesverwaltungsamt zu stellen. Die Zeitpunkte von Beginn und
-Beendigung des Ausbildungsabschnitts nach § 15b Abs. 3 des Gesetzes
-sind im Fall des § 18b Abs. 3 des Gesetzes nachzuweisen. Das
-Bundesverwaltungsamt teilt seine Entscheidung dem Antragsteller
-schriftlich mit.
 
-(2) (weggefallen)
+
+## § 3 Nachweise für die Freistellung von der Rückzahlungsverpflichtung
+
+(1) Die für eine Freistellung nach § 18a Absatz 1 des Gesetzes
+maßgebliche Höhe ihres Einkommens können Darlehensnehmende
+insbesondere nachweisen durch die Vorlage von
+
+1.  Lohn- und Gehaltsbescheinigungen ihres Arbeitgebers im Fall eines
+    Einkommens aus nichtselbständiger Erwerbstätigkeit,
+
+
+2.  Einkommensteuerbescheiden mit ausgewiesenen Gewinneinkünften im Fall
+    eines Einkommens aus selbständiger Erwerbstätigkeit oder
+
+
+3.  Bescheiden über den Bezug staatlicher Transferleistungen, deren
+    Zweckbestimmung einer Anrechnung auf den Bedarf im Sinne von § 21
+    Absatz 3 Satz 1 Nummer 4 des Gesetzes entgegensteht.
+
+
+
+Liegt im Fall von Einkommen aus selbständiger Erwerbstätigkeit kein
+Einkommensteuerbescheid vor, so können die Einkünfte anhand der
+Einnahmenüberschussrechnung nach § 4 Absatz 3 des
+Einkommensteuergesetzes nachgewiesen werden. Es genügt im Regelfall
+die Vorlage einer Kopie.
+
+(2) Die Nachweispflicht nach § 18a Absatz 3 Satz 3 des Gesetzes gilt
+nur für Freistellungszeiträume ab dem 1. September 2019.
+
+(3) Soweit eine Vorlage von Unterlagen nicht möglich ist, haben
+Darlehensnehmende das Vorliegen der für die Feststellung der
+Voraussetzungen erheblichen Tatsachen des § 18a Absatz 1 des Gesetzes
+an Eides statt zu versichern.
 
 
 ## § 5 Freistellung von der Rückzahlungsverpflichtung
@@ -106,16 +107,43 @@ schriftlich mit.
 ## § 6 Vorzeitige Rückzahlung
 
 (1) Über den Antrag auf Gewährung eines Nachlasses wegen vorzeitiger
-Rückzahlung der Darlehens(rest)schuld nach § 18 Abs. 5b des Gesetzes
-entscheidet das Bundesverwaltungsamt nach Maßgabe des Absatzes 2 und
-der Anlage zu dieser Verordnung.
+Rückzahlung der verbleibenden Darlehensschuld entscheidet das
+Bundesverwaltungsamt nach Maßgabe der folgenden Absätze und der
+Anlage.
 
-(2) Löst der Darlehensnehmer die gesamte Darlehens(rest)schuld nicht
-in einer Summe ab, so wird der Nachlass nur für die Ablösung von
-mindestens 500 Euro gewährt. In diesen Fällen wird der Nachlaß jedoch
-nur dann gewährt, wenn sich der Darlehensnehmer damit einverstanden
-erklärt, daß der Ablösungsbetrag auf die zuletzt fällig werdenden
-Rückzahlungsraten angerechnet wird.
+(2) Die für die Höhe des Nachlasses maßgebliche verbleibende
+Darlehensschuld wird berücksichtigt
+
+1.  für Darlehen, die nach § 17 Absatz 2 Satz 1 des Gesetzes in der bis
+    zum 31. Juli 2019 geltenden Fassung geleistet wurden, höchstens bis zu
+    10 000 Euro,
+
+
+2.  für Darlehen, die nach § 17 Absatz 2 Satz 1 des Gesetzes in der ab dem
+    1\. August 2019 geltenden Fassung geleistet wurden, höchstens bis zu
+    10 010 Euro.
+
+
+
+Für die Bemessung des Nachlasses bleibt der Teil des geleisteten
+Zahlungsbetrags zur Ablösung der verbleibenden Darlehensschuld
+unberücksichtigt, der bereits nach § 1 Absatz 3 Satz 2 auf zuvor
+fällige Beträge angerechnet wurde. Soweit ein Teil einer Rückzahlung,
+die nach dem 31. März 2020 vorzeitig geleistet wurde, auf
+Tilgungsraten entfällt, die zu diesem Zeitpunkt lediglich wegen
+vorausgegangener Freistellung von der Rückzahlungsverpflichtung nach §
+18a Absatz 1 des Gesetzes noch nicht fällig waren, sind diese
+Tilgungsraten für die Bemessung des Nachlasses nicht zu
+berücksichtigen.
+
+(3) Wird die gesamte verbleibende Darlehensschuld nicht in einer Summe
+abgelöst, so ist der Nachlass nur für die Ablösung von mindestens 500
+Euro zu gewähren. Reichen vorzeitig zurückgezahlte Beträge nicht zur
+Ablösung der vollen verbleibenden Darlehensschuld aus, sind sie auf
+die zuletzt fällig werdenden Rückzahlungsraten anzurechnen. Die
+verbleibende Darlehensschuld verringert sich um den vorzeitig
+geleisteten Zahlungsbetrag sowie den im Gegenzug gewährten Nachlass
+nach Maßgabe des § 18 Absatz 13 des Gesetzes.
 
 
 ## § 7 Vergleiche, Veränderungen von Ansprüchen
@@ -127,28 +155,23 @@ Bundeshaushaltsordnung.
 
 ## § 8 Zahlungsrückstand
 
-(1) Die Zinsen nach § 18 Abs. 2 des Gesetzes sind von der jeweiligen
-Darlehens(rest)schuld zu erheben.
+(1) Nach dem Zahlungstermin werden gesondert erhoben:
 
-(2) Die Verzinsung beginnt mit dem auf den Zahlungstermin folgenden
-Kalendermonat. Einem Kalendermonat sind 30 Tage zugrunde zu legen.
-
-(3) Nach dem Zahlungstermin werden gesondert erhoben:
-
-1.  2 Euro Mahnkosten,
+1.  Zinsen nach § 18 Absatz 2 des Gesetzes ab dem auf den Zahlungstermin
+    folgenden Monat, wobei einem Kalendermonat 30 Tage zugrunde zu legen
+    sind,
 
 
-2.  Zinsen nach § 18 Abs. 2 des Gesetzes.
+2.  5 Euro Mahnkosten.
 
 
 
 
-(4) Die Rechtsfolgen nach den Absätzen 1 bis 3 treten unabhängig davon
-ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist.
-Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der
-Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen
-nicht zugegangen ist. Ist der Bescheid dem Darlehensnehmer zugegangen,
-werden Zinsen nur von der darin genannten Darlehensschuld berechnet.
+(2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem
+Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von
+Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem
+Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht
+zugegangen ist.
 
 
 ## § 9 Datenermittlung
@@ -190,19 +213,25 @@ war. Sie sind dem Bundesverwaltungsamt auf Anforderung zu überlassen.
 
 ## § 10 Rückzahlungsbescheid
 
-Unbeschadet der nach § 18 Abs. 3 des Gesetzes eintretenden Fälligkeit
-der Rückzahlungsraten erteilt das Bundesverwaltungsamt dem
-Darlehensnehmer einen Bescheid, in dem der Zeitpunkt des Beginns der
-Rückzahlung des Darlehens, die Höhe der monatlichen oder
-vierteljährlichen Raten sowie gegebenenfalls die Gesamthöhe des
-Zinsbetrages festgestellt werden.
+(1) Unbeschadet der nach § 18 Absatz 4 bis 6 des Gesetzes eintretenden
+Fälligkeit der Rückzahlungsraten erteilt das Bundesverwaltungsamt den
+Darlehensnehmenden jeweils einen Rückzahlungsbescheid.
+
+(2) In dem Rückzahlungsbescheid werden festgestellt:
+
+1.  der Zeitpunkt des Beginns der Rückzahlung des Darlehens und
+
+
+2.  die Höhe der monatlichen oder vierteljährlichen Raten.
+
+
+
 
 
 ## § 11 Rückzahlungsbedingungen
 
-(1) Die Rückzahlungsraten sind bei monatlicher Zahlungsweise (§ 18
-Abs. 3 Satz 1 des Gesetzes) jeweils am Ende des Monats, bei
-vierteljährlicher Zahlungsweise (§ 18 Abs. 4 des Gesetzes) jeweils am
+(1) Die Rückzahlungsraten sind bei monatlicher Zahlungsweise jeweils
+am Ende des Monats, bei vierteljährlicher Zahlungsweise jeweils am
 Ende des dritten Monats in einer Summe zu leisten.
 
 (2) Der Rückzahlungsbetrag wird im Auftrag des Bundesverwaltungsamtes
@@ -218,7 +247,7 @@ Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
 (1) Der Darlehensnehmer ist verpflichtet,
 
-1.  jeden Wohnungswechsel und jede Änderung des Familiennamens,
+1.  jede Änderung der Wohnanschrift und des Familiennamens,
 
 
 2.  (weggefallen)
@@ -233,90 +262,69 @@ Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
 
 
-dem Bundesverwaltungsamt unverzüglich schriftlich mitzuteilen.
-Darlehensnehmer, die vor dem 1. August 1983 Darlehen erhalten haben,
-sind darüber hinaus verpflichtet, dem Bundesverwaltungsamt die
-Beendigung des Ausbildungsabschnitts, für den ihnen Darlehen nach dem
-Gesetz geleistet worden sind, unverzüglich unter Beifügung von
-Unterlagen schriftlich mitzuteilen.
+dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch
+mitzuteilen.
 
 (2) Kommt der Darlehensnehmer seinen Mitteilungspflichten nach Absatz
 1 Nr. 1 nicht nach und muß seine Anschrift deshalb ermittelt werden,
 so hat er für die Ermittlung, sofern nicht höhere Kosten nachgewiesen
 werden, pauschal 25 Euro zu zahlen. Anschriftenermittlungskosten
 sollen nicht erhoben werden, wenn der Darlehensnehmer seine
-Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Abs. 5a
-des Gesetzes und nach § 10 verletzt und das Darlehenskonto des
+Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Absatz
+9 des Gesetzes und nach § 10 verletzt und das Darlehenskonto des
 Darlehensnehmers im Zeitpunkt der Notwendigkeit der
-Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Abs. 3
-Nr. 1 gilt entsprechend.
+Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Absatz 1
+Nummer 2 gilt entsprechend.
 
 
 ## § 13 Aufteilung der eingezogenen Beträge
 
-(1) Das Bundesverwaltungsamt übermittelt den Ländern nach Ablauf eines
+(1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines
 Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge
-und Zinsen (Darlehens- und Verzugszinsen) sowie über die Aufteilung
-nach Maßgabe des § 56 Abs. 2 des Gesetzes. Es leistet zum Ende des
-jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des
-ihm voraussichtlich zustehenden Betrages und führt bis zum 30. Juni
-des laufenden Jahres den Restbetrag ab, der ihm nach der Aufstellung
-gemäß Satz 1 zusteht.
+und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die
+Aufteilung nach Maßgabe des § 56 Absatz 2 des Gesetzes zu übermitteln.
+Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine
+Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages
+zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag
+abzuführen, der ihm nach § 56 Absatz 2 Satz 4 zusteht.
 
-(2) Kostenerstattungen nach § 8 Abs. 3 Nr. 1 und § 12 Abs. 2 sowie
-Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
+(2) Kostenerstattungen nach § 8 Absatz 1 Nummer 2 und § 12 Absatz 2
+sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
 
-## § 13a
+## § 13a Übergangsvorschrift
 
-(weggefallen)
+Bis zum Ablauf des 31. März 2020 sind die §§ 6 und 8 und die Anlage in
+der am 31. August 2019 geltenden Fassung weiter anzuwenden.
 
 
 ## § 14 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 3 des Gesetzes handelt,
-wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 1 Nr. 4 eine
-Änderung nicht unverzüglich schriftlich mitteilt.
+Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 3 des
+Bundesausbildungsförderungsgesetzes handelt, wer vorsätzlich oder
+fahrlässig entgegen § 12 Absatz 1 Nummer 4 eine Mitteilung nicht,
+nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
+oder nicht rechtzeitig macht.
 
 
-## § 15 Berlin-Klausel
+## Anlage (zu § 6 Absatz 1)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
-Land Berlin.
+(Fundstelle : BGBl. I 2019, 1097 – 1098)
 
+*    *   Ablösung des Darlehens
+        bis zu einschließlich
 
-## Anlage (zu § 6 Abs. 1)
-
-Fundstelle des Originaltextes: BGBl. I 2001, 398
-
-*    *   Ablösung des Darlehens bis zu einschließlich
-
-    *   Nachlass in v.H. und Zahlungsbetrag zur Ablösung des Darlehensbetrages
-        in Spalte 1 bei einer monatlichen Rückzahlungsmindestrate von
-
-
-*    *
-    *   25,56 Euro oder 40,90 Euro
-
-    *   61,36 Euro
-
-    *   105 Euro
+    *   Nachlass in Prozent zur Ablösung
+        des Darlehensbetrages in Spalte 1
 
 
 *    *   Euro
 
-    *   Nachlass v.H.
+    *   Nachlass in Prozent
 
-    *   Zahlungsbetrag Euro
-
-    *   Nachlass v.H.
-
-    *   Zahlungsbetrag Euro
-
-    *   Nachlass v.H.
-
-    *   Zahlungsbetrag Euro
+    *   Orientierungswert für
+[^F807885_01_BJNR008950980BJNE001703116]
+        den Zahlungsbetrag in Euro
 
 
 *    *   1
@@ -325,734 +333,348 @@ Fundstelle des Originaltextes: BGBl. I 2001, 398
 
     *   3
 
-    *   4
-
-    *   5
-
-    *   6
-
-    *   7
-
 
 *    *   500
 
-    *   10,0
+    *   5,0
 
-    *   450
+    *   475
 
-    *   9,0
 
-    *   455
+*    *   1 000
+
+    *   6,0
+
+    *   940
+
+
+*    *   1 500
+
+    *   7,0
+
+    *   1 395
+
+
+*    *   2 000
 
     *   8,0
 
-    *   460
+    *   1 840
 
 
-*    *   1.000
-
-    *   13,0
-
-    *   870
-
-    *   11,0
-
-    *   890
+*    *   2 500
 
     *   9,0
 
-    *   910
+    *   2 275
 
 
-*    *   1.500
+*    *   3 000
 
-    *   16,0
+    *   9,5
 
-    *   1.260
-
-    *   13,0
-
-    *   1.305
-
-    *   10,0
-
-    *   1.350
+    *   2 715
 
 
-*    *   2.000
+*    *   3 500
 
-    *   19,0
+    *   10,5
 
-    *   1.620
+    *   3 133
 
-    *   15,0
 
-    *   1.700
+*    *   4 000
 
     *   11,5
 
-    *   1.770
+    *   3 540
 
 
-*    *   2.500
+*    *   4 500
 
-    *   21,5
+    *   12,0
 
-    *   1.963
-
-    *   17,0
-
-    *   2.075
-
-    *   12,5
-
-    *   2.188
+    *   3 960
 
 
-*    *   3.000
+*    *   5 000
 
-    *   24,5
+    *   13,0
 
-    *   2.265
-
-    *   19,0
-
-    *   2.430
-
-    *   13,5
-
-    *   2.595
+    *   4 350
 
 
-*    *   3.500
+*    *   5 500
 
-    *   27,0
+    *   14,0
 
-    *   2.555
-
-    *   21,0
-
-    *   2.765
-
-    *   15,0
-
-    *   2.975
+    *   4 730
 
 
-*    *   4.000
+*    *   6 000
 
-    *   29,5
+    *   14,5
 
-    *   2.820
+    *   5 130
 
-    *   22,5
 
-    *   3.100
+*    *   6 500
+
+    *   15,5
+
+    *   5 493
+
+
+*    *   7 000
 
     *   16,0
 
-    *   3.360
+    *   5 880
 
 
-*    *   4.500
-
-    *   31,5
-
-    *   3.083
-
-    *   24,5
-
-    *   3.398
+*    *   7 500
 
     *   17,0
 
-    *   3.735
+    *   6 225
 
 
-*    *   5.000
+*    *   8 000
 
-    *   34,0
+    *   18,0
 
-    *   3.300
+    *   6 560
 
-    *   26,0
 
-    *   3.700
+*    *   8 500
 
     *   18,5
 
-    *   4.075
+    *   6 928
 
 
-*    *   5.500
-
-    *   36,0
-
-    *   3.520
-
-    *   27,5
-
-    *   3.988
+*    *   9 000
 
     *   19,5
 
-    *   4.428
+    *   7 245
 
 
-*    *   6.000
+*    *   9 500
 
-    *   38,0
+    *   20,0
 
-    *   3.720
-
-    *   29,5
-
-    *   4.230
-
-    *   20,5
-
-    *   4.770
+    *   7 600
 
 
-*    *   6.500
+*    *   10 000
 
-    *   40,0
+    *   21,0
 
-    *   3.900
+    *   7 900
 
-    *   31,0
 
-    *   4.485
+*    *   10 500
 
     *   21,5
 
-    *   5.103
+    *   8 243
 
 
-*    *   7.000
+*    *   11 000
 
-    *   41,5
+    *   22,0
 
-    *   4.095
-
-    *   32,5
-
-    *   4.725
-
-    *   22,5
-
-    *   5.425
+    *   8 580
 
 
-*    *   7.500
+*    *   11 500
 
-    *   43,5
+    *   23,0
 
-    *   4.238
+    *   8 855
 
-    *   34,0
 
-    *   4.950
+*    *   12 000
 
     *   23,5
 
-    *   5.738
+    *   9 180
 
 
-*    *   8.000
-
-    *   45,0
-
-    *   4.400
-
-    *   35,0
-
-    *   5.200
+*    *   12 500
 
     *   24,5
 
-    *   6.040
+    *   9 438
 
 
-*    *   8.500
+*    *   13 000
 
-    *   47,0
+    *   25,0
 
-    *   4.505
+    *   9 750
 
-    *   36,5
 
-    *   5.398
+*    *   13 500
 
     *   25,5
 
-    *   6.333
+    *   10 058
 
 
-*    *   9.000
-
-    *   48,5
-
-    *   4.635
-
-    *   38,0
-
-    *   5.580
+*    *   14 000
 
     *   26,5
 
-    *   6.615
+    *   10 290
 
 
-*    *   9.500
+*    *   14 500
 
-    *   50,0
+    *   27,0
 
-    *   4.750
+    *   10 585
 
-    *   39,0
 
-    *   5.795
+*    *   15 000
 
     *   27,5
 
-    *   6.888
+    *   10 875
 
 
-*    *   10.000
-
-    *   50,0
-
-    *   5.000
-
-    *   40,5
-
-    *   5.950
+*    *   15 500
 
     *   28,5
 
-    *   7.150
+    *   11 083
 
 
-*    *   10.500
+*    *   16 000
 
-    *   50,0
+    *   29,0
 
-    *   5.250
+    *   11 360
 
-    *   41,5
 
-    *   6.143
+*    *   16 500
 
     *   29,5
 
-    *   7.403
+    *   11 633
 
 
-*    *   11.000
-
-    *   50,0
-
-    *   5.500
-
-    *   43,0
-
-    *   6.270
+*    *   17 000
 
     *   30,0
 
-    *   7.700
+    *   11 900
 
 
-*    *   11.500
-
-    *   50,0
-
-    *   5.750
-
-    *   44,0
-
-    *   6.440
+*    *   17 500
 
     *   31,0
 
-    *   7.935
+    *   12 075
 
 
-*    *   12.000
+*    *   18 000
 
-    *   50,0
+    *   31,5
 
-    *   6.000
+    *   12 330
 
-    *   45,0
 
-    *   6.600
+*    *   18 500
 
     *   32,0
 
-    *   8.160
+    *   12 580
 
 
-*    *   12.500
+*    *   19 000
 
-    *   50,0
+    *   32,5
 
-    *   6.250
+    *   12 825
 
-    *   46,5
 
-    *   6.688
+*    *   19 500
 
     *   33,0
 
-    *   8.375
+    *   13 065
 
 
-*    *   13.000
-
-    *   50,0
-
-    *   6.500
-
-    *   47,5
-
-    *   6.825
+*    *   20 000
 
     *   33,5
 
-    *   8.645
+    *   13 300
 
 
-*    *   13.500
-
-    *   50,0
-
-    *   6.750
-
-    *   48,5
-
-    *   6.953
+*    *   20 500
 
     *   34,5
 
-    *   8.843
+    *   13 428
 
 
-*    *   14.000
+*    *   21 000
 
-    *   50,0
+    *   35,0
 
-    *   7.000
+    *   13 650
 
-    *   49,5
 
-    *   7.070
+*    *   21 500
 
     *   35,5
 
-    *   9.030
+    *   13 868
 
 
-*    *   14.500
-
-    *   50,0
-
-    *   7.250
-
-    *   50,5
-
-    *   7.178
+*    *   22 000
 
     *   36,0
 
-    *   9.280
+    *   14 080
 
 
-*    *   15.000
+*    *   22 500
 
-    *   50,0
+    *   36,5
 
-    *   7.500
+    *   14 288
 
-    *   50,5
 
-    *   7.425
+*    *   23 000
 
     *   37,0
 
-    *   9.450
+    *   14 490
 
 
-*    *   15.500
-
-    *   50,0
-
-    *   7.750
-
-    *   50,5
-
-    *   7.673
+*    *   23 500
 
     *   37,5
 
-    *   9.688
+    *   14 688
 
 
-*    *   16.000
+*    *   24 000
+        (und mehr)
 
-    *   50,0
+    *   38,0
 
-    *   8.000
+    *   –
 
-    *   50,5
 
-    *   7.920
 
-    *   38,5
 
-    *   9.840
-
-
-*    *   16.500
-
-    *   50,0
-
-    *   8.250
-
-    *   50,5
-
-    *   8.168
-
-    *   39,0
-
-    *   10.065
-
-
-*    *   17.000
-
-    *   50,0
-
-    *   8.500
-
-    *   50,5
-
-    *   8.415
-
-    *   40,0
-
-    *   10.200
-
-
-*    *   17.500
-
-    *   50,0
-
-    *   8.750
-
-    *   50,5
-
-    *   8.663
-
-    *   40,5
-
-    *   10.413
-
-
-*    *   18.000
-
-    *   50,0
-
-    *   9.000
-
-    *   50,5
-
-    *   8.910
-
-    *   41,5
-
-    *   10.530
-
-
-*    *   18.500
-
-    *   50,0
-
-    *   9.250
-
-    *   50,5
-
-    *   9.158
-
-    *   42,0
-
-    *   10.730
-
-
-*    *   19.000
-
-    *   50,0
-
-    *   9.500
-
-    *   50,5
-
-    *   9.405
-
-    *   43,0
-
-    *   10.830
-
-
-*    *   19.500
-
-    *   50,0
-
-    *   9.750
-
-    *   50,5
-
-    *   9.653
-
-    *   43,5
-
-    *   11.018
-
-
-*    *   20.000
-
-    *   50,0
-
-    *   10.000
-
-    *   50,5
-
-    *   9.900
-
-    *   44,0
-
-    *   11.200
-
-
-*    *   20.500
-
-    *   50,0
-
-    *   10.250
-
-    *   50,5
-
-    *   10.148
-
-    *   45,0
-
-    *   11.275
-
-
-*    *   21.000
-
-    *   50,0
-
-    *   10.500
-
-    *   50,5
-
-    *   10.395
-
-    *   45,5
-
-    *   11.445
-
-
-*    *   21.500
-
-    *   50,0
-
-    *   10.750
-
-    *   50,5
-
-    *   10.643
-
-    *   46,0
-
-    *   11.610
-
-
-*    *   22.000
-
-    *   50,0
-
-    *   11.000
-
-    *   50,5
-
-    *   10.890
-
-    *   47,0
-
-    *   11.660
-
-
-*    *   22.500
-
-    *   50,0
-
-    *   11.250
-
-    *   50,5
-
-    *   11.138
-
-    *   48,0
-
-    *   11.700
-
-
-*    *   23.000
-
-    *   50,0
-
-    *   11.500
-
-    *   50,5
-
-    *   11.385
-
-    *   49,0
-
-    *   11.730
-
-
-*    *   23.500
-
-    *   50,0
-
-    *   11.750
-
-    *   50,5
-
-    *   11.633
-
-    *   50,0
-
-    *   11.750
-
-
-*    *   24.000 (und mehr)
-
-    *   50,0
-
-    *   12.000
-
-    *   50,5
-
-    *   11.880
-
-    *   50,5
-
-    *   11.880
-
-
-
-
+    Der Orientierungswert in Spalte 3 benennt den Betrag, der bei
+    Erreichen des jeweiligen in Spalte 1 bezeichneten Ablösungsbetrages
+    unter Anwendung des entsprechenden Prozentsatzes der Spalte 2 zu
+    zahlen ist.
+[^F807885_01_BJNR008950980BJNE001703116]: 

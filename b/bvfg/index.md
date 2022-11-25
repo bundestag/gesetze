@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.8.2007 I 1902;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 4.12.2011 I 2426
+:   Art. 162 V v. 19.6.2020 I 1328
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -285,24 +285,21 @@ Erziehung, Kultur bestätigt wird.
 Volkszugehöriger, wenn er von einem deutschen Staatsangehörigen oder
 deutschen Volkszugehörigen abstammt und sich bis zum Verlassen der
 Aussiedlungsgebiete durch eine entsprechende Nationalitätenerklärung
-oder auf vergleichbare Weise nur zum deutschen Volkstum bekannt oder
-nach dem Recht des Herkunftsstaates zur deutschen Nationalität gehört
-hat. Das Bekenntnis zum deutschen Volkstum oder die rechtliche
-Zuordnung zur deutschen Nationalität muss bestätigt werden durch die
-familiäre Vermittlung der deutschen Sprache. Diese ist nur
-festgestellt, wenn jemand im Zeitpunkt der verwaltungsbehördlichen
-Entscheidung über den Aufnahmeantrag, in Fällen des § 27 Abs. 2 im
-Zeitpunkt der Begründung des ständigen Aufenthalts im Geltungsbereich
-dieses Gesetzes, auf Grund dieser Vermittlung zumindest ein einfaches
-Gespräch auf Deutsch führen kann, es sei denn, er kann die familiäre
-Vermittlung auf Grund einer später eingetretenen Behinderung im Sinne
-des § 2 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch nicht mehr
-auf diese Weise nachweisen. Ihre Feststellung entfällt, wenn die
-familiäre Vermittlung wegen der Verhältnisse in dem jeweiligen
-Aussiedlungsgebiet nicht möglich oder nicht zumutbar war oder wenn dem
-Aufnahmebewerber die deutsche Sprache wegen einer in seiner Person
-vorliegenden Behinderung im Sinne des § 2 Abs. 1 Satz 1 des Neunten
-Buches Sozialgesetzbuch nicht vermittelt werden konnte. Ein Bekenntnis
+oder auf andere Weise zum deutschen Volkstum bekannt oder nach dem
+Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Das
+Bekenntnis auf andere Weise kann insbesondere durch den Nachweis
+ausreichender deutscher Sprachkenntnisse entsprechend dem Niveau B 1
+des Gemeinsamen Europäischen Referenzrahmens für Sprachen oder durch
+den Nachweis familiär vermittelter Deutschkenntnisse erbracht werden.
+Das Bekenntnis zum deutschen Volkstum muss bestätigt werden durch den
+Nachweis der Fähigkeit, zum Zeitpunkt der verwaltungsbehördlichen
+Entscheidung über den Aufnahmeantrag, in Fällen des § 27 Absatz 1 Satz
+2 im Zeitpunkt der Begründung des ständigen Aufenthalts im
+Geltungsbereich dieses Gesetzes, zumindest ein einfaches Gespräch auf
+Deutsch führen zu können, es sei denn, der Aufnahmebewerber kann diese
+Fähigkeit wegen einer körperlichen, geistigen oder seelischen
+Krankheit oder wegen einer Behinderung im Sinne des § 2 Absatz 1 Satz
+1 des Neunten Buches Sozialgesetzbuch nicht besitzen. Ein Bekenntnis
 zum deutschen Volkstum wird unterstellt, wenn es unterblieben ist,
 weil es mit Gefahr für Leib und Leben oder schwerwiegenden beruflichen
 oder wirtschaftlichen Nachteilen verbunden war, jedoch auf Grund der
@@ -390,12 +387,13 @@ eines vorläufigen Wohnortes nicht nach § 2 Abs. 4 des Gesetzes über
 die Festlegung eines vorläufigen Wohnortes für Spätaussiedler
 gegenstandslos geworden ist, ein Fahrkostenzuschuss zur Teilnahme an
 einem Integrationskurs gewährt, wenn ein Kursangebot nicht zumutbar
-erreichbar ist. Das Bundesministerium des Innern wird ermächtigt,
-nähere Einzelheiten des Integrationskurses, insbesondere die
-Grundstruktur, die Dauer, die Lerninhalte und die Durchführung der
-Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger
-sowie die Rahmenbedingungen für die Teilnahme durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
+erreichbar ist. Das Bundesministerium des Innern, für Bau und Heimat
+wird ermächtigt, nähere Einzelheiten des Integrationskurses,
+insbesondere die Grundstruktur, die Dauer, die Lerninhalte und die
+Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und
+Zulassung der Kursträger sowie die Rahmenbedingungen für die Teilnahme
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, zu regeln.
 
 (2) Spätaussiedler können erhalten
 
@@ -406,7 +404,8 @@ die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
 
 
 
-Das Nähere bestimmt der Bundesminister des Innern durch Richtlinien.
+Das Nähere bestimmt der Bundesminister des Innern, für Bau und Heimat
+durch Richtlinien.
 
 (3) Spätaussiedlern aus der ehemaligen UdSSR, Estland, Lettland oder
 Litauen, die vor dem 1. April 1956 geboren sind, gewährt das
@@ -496,59 +495,26 @@ nach § 55 des Fünften Buches Sozialgesetzbuch und die im Zusammenhang
 mit diesen Leistungen notwendigen Fahrkosten (§ 60 des Fünften Buches
 Sozialgesetzbuch) werden längstens für die ersten 78 Wochen von dem
 Tag der Aufenthaltsnahme im Geltungsbereich dieses Gesetzes an
-gewährt, Krankengeld und Mutterschaftsgeld nach § 200 der
-Reichsversicherungsordnung längstens für 182 Tage, die anderen
-Leistungen bis zum Ablauf der Frist von drei Monaten nach Absatz 1
-Satz 1. Leistungen zur Entbindung einschließlich Mutterschaftsgeld
-werden gewährt, wenn die Entbindung in der Frist von drei Monaten nach
-Absatz 1 Satz 1 liegt.
+gewährt, die anderen Leistungen bis zum Ablauf der Frist von drei
+Monaten nach Absatz 1 Satz 1. Auf Mutterschaftsgeld nach § 24i des
+Fünften Buches Sozialgesetzbuch und auf Krankengeld nach § 24b Absatz
+2 Satz 2 und den §§ 44 bis 51 des Fünften Buches Sozialgesetzbuch
+besteht kein Anspruch.
 
-(3) Krankengeld (§§ 44 bis 51 des Fünften Buches Sozialgesetzbuch) und
-Mutterschaftsgeld (§ 200 der Reichsversicherungsordnung) erhalten
-Berechtigte nur, wenn sie bis zum Verlassen der in Absatz 1 genannten
-Gebiete
-
-1.  in einem Arbeitsverhältnis gestanden haben,
-
-
-2.  in Gewahrsam gehalten wurden und Berechtigte im Sinne des § 1 Abs. 1
-    Nr. 1 des Häftlingshilfegesetzes sind,
-
-
-3.  eine Tätigkeit als Selbständiger oder mithelfender Familienangehöriger
-    hauptberuflich ausgeübt haben,
-
-
-4.  eine gesetzliche Wehrpflicht erfüllt haben oder
-
-
-5.  wegen ihrer Volkszugehörigkeit, ihrer Aussiedlungs- oder
-    Übersiedlungsabsicht oder wegen eines vergleichbaren nach
-    freiheitlich-demokratischer Auffassung von ihnen nicht zu vertretenden
-    Grundes gehindert waren, eine Beschäftigung nach Nummer 1 oder eine
-    Tätigkeit nach Nummer 3 auszuüben.
-
-
-
-Auf eine Leistung nach Absatz 1 besteht kein Anspruch, wenn die
+(3) Auf eine Leistung nach Absatz 1 besteht kein Anspruch, wenn die
 Berechtigten hierauf einen Anspruch nach anderen gesetzlichen
-Vorschriften haben, ausgenommen einen Anspruch auf Grund einer
-Krankenversicherung nach § 5 Abs. 1 Nr. 2 des Fünften Buches
-Sozialgesetzbuch, wenn festgestellt wurde, dass ein Bezieher von
-Eingliederungshilfe bereits bei Beginn des Leistungsbezugs
-arbeitsunfähig war.
+Vorschriften haben.
 
-(4) Krankengeld oder Mutterschaftsgeld erhält der Berechtigte in Höhe
-der Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten
-Buch Sozialgesetzbuch. Die Vorschriften des Zweiten Buches
-Sozialgesetzbuch über die Bedürftigkeit und das bei den Leistungen zur
-Sicherung des Lebensunterhalts zu berücksichtigende Einkommen sind
-nicht anzuwenden.
+(4) (weggefallen)
 
-(5) Die Leistungen gewährt die für den Wohnort der Berechtigten
-zuständige Allgemeine Ortskrankenkasse. Haben die Berechtigten früher
-einer anderen Krankenkasse angehört, so haben sie das Recht, die
-Leistungen bei dieser zu beantragen.
+(5) Die Leistungen gewährt die nach § 173 des Fünften Buches
+Sozialgesetzbuch für die Durchführung der gesetzlichen
+Krankenversicherung gewählte Krankenkasse. Soweit die Wahl einer
+Krankenkasse von einem Wohnort abhängig ist, gilt als Wohnort ein Ort
+in dem Bundesland, das nach § 8 für den Spätaussiedler als
+Aufnahmeland festgelegt ist oder festgelegt wird. Wird das Wahlrecht
+nach Satz 1 nicht ausgeübt, wählt das Bundesverwaltungsamt oder eine
+von ihm benannte Stelle eine Krankenkasse.
 
 (5a) Berechtigte, die eine Leistung nach den Absätzen 1 bis 4 in
 Anspruch nehmen, haben dem Leistungserbringer vor Inanspruchnahme der
@@ -560,28 +526,22 @@ Leistungen nach Absatz 1 nur Anspruch auf die Vergütung, die sie
 erhalten würden, wenn der Spätaussiedler Versicherter der gesetzlichen
 Krankenversicherung wäre.
 
-(6) Der Aufwand, der den Krankenkassen entsteht, wird ihnen aus
-Mitteln des Bundes erstattet. Als Ersatz für Verwaltungskosten
-erhalten die Krankenkassen 8 vom Hundert ihres Aufwands für die nach
-den Absätzen 1 bis 5 gewährten Leistungen.
+(6) (weggefallen)
 
 (7) Bei Gewährung der Leistungen gelten die §§ 61 und 62 des Fünften
 Buches Sozialgesetzbuch über Zuzahlungen und Belastungsgrenze
 entsprechend. Ferner sind hierbei und bei der Erstattung des Aufwands
-und der Verwaltungskosten an die Krankenkassen das Erste und Zehnte
-Buch Sozialgesetzbuch entsprechend anzuwenden, § 110 des Zehnten
-Buches Sozialgesetzbuch jedoch mit der Maßgabe, dass die Krankenkasse
-Erstattungen nach Absatz 6 auch unterhalb des in § 110 Satz 2 des
-Zehnten Buches Sozialgesetzbuch genannten Betrages verlangen kann,
-wenn dieser Betrag durch Zusammenrechnung der Erstattungsansprüche in
-mehreren Einzelfällen erreicht wird.
+der Krankenkassen untereinander für den Fall, dass eine Versicherung
+nicht bei der Krankenkasse zustande kommt, die die Leistungen nach §
+11 erbracht hat, das Erste und Zehnte Buch Sozialgesetzbuch
+entsprechend anzuwenden; für die Erstattung der Krankenkassen
+untereinander gilt § 103 des Zehnten Buches Sozialgesetzbuch
+entsprechend.
 
-(7a) Bei der Gewährung von Leistungen sind die Vorschriften
-anzuwenden, die in dem Land gelten, das nach § 8 für den
-Spätaussiedler als Aufnahmeland festgelegt ist oder festgelegt wird.
+(7a) (weggefallen)
 
 (8) Für Rechtsstreitigkeiten auf Grund der Vorschriften der Absätze 1
-bis 7a ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
+bis 7 ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
 gegeben.
 
 
@@ -742,51 +702,48 @@ Aufnahmebescheid erteilt.
 (1) Der Aufnahmebescheid wird auf Antrag Personen mit Wohnsitz in den
 Aussiedlungsgebieten erteilt, die nach Begründung des ständigen
 Aufenthalts im Geltungsbereich des Gesetzes die Voraussetzungen als
-Spätaussiedler erfüllen. Der im Aussiedlungsgebiet lebende Ehegatte,
-sofern die Ehe seit mindestens drei Jahren besteht, oder Abkömmling
-einer Person im Sinne des Satzes 1 (Bezugsperson) werden zum Zweck der
-gemeinsamen Aussiedlung in den Aufnahmebescheid der Bezugsperson nur
-dann einbezogen, wenn die Bezugsperson dies ausdrücklich beantragt,
-sie Grundkenntnisse der deutschen Sprache besitzen und in ihrer Person
-keine Ausschlussgründe im Sinne des § 5 vorliegen; die Absätze 2 und 3
-bleiben unberührt. Die Einbeziehung von minderjährigen Abkömmlingen in
-den Aufnahmebescheid ist nur gemeinsam mit der Einbeziehung der Eltern
-oder des sorgeberechtigten Elternteils zulässig. Abweichend von Satz 2
-wird einbezogen, wer wegen einer Behinderung im Sinne des § 2 Abs. 1
-Satz 1 des Neunten Buches Sozialgesetzbuch keine Grundkenntnisse der
-deutschen Sprache besitzen kann. Die Einbeziehung in den
-Aufnahmebescheid wird insbesondere dann unwirksam, wenn die Ehe
-aufgelöst wird, bevor beide Ehegatten die Aussiedlungsgebiete
-verlassen haben, oder die Bezugsperson verstirbt, bevor die
-einbezogenen Personen Aufnahme im Sinne von § 4 Abs. 3 Satz 2 gefunden
-haben. Der Wohnsitz im Aussiedlungsgebiet gilt als fortbestehend, wenn
-ein Antrag nach Absatz 2 abgelehnt wurde und der Antragsteller für den
-Folgeantrag nach Satz 1 erneut Wohnsitz in den Aussiedlungsgebieten
-begründet hat.
+Spätaussiedler erfüllen (Bezugspersonen). Abweichend hiervon kann
+Personen, die sich ohne Aufnahmebescheid im Geltungsbereich des
+Gesetzes aufhalten, ein Aufnahmebescheid erteilt oder es kann die
+Eintragung nach Absatz 2 Satz 1 nachgeholt werden, wenn die Versagung
+eine besondere Härte bedeuten würde und die sonstigen Voraussetzungen
+vorliegen. Der Wohnsitz im Aussiedlungsgebiet gilt als fortbestehend,
+wenn ein Antrag nach Satz 2 abgelehnt wurde und der Antragsteller für
+den Folgeantrag nach Satz 1 erneut Wohnsitz in den
+Aussiedlungsgebieten begründet hat.
 
-(2) Abweichend von Absatz 1 kann Personen, die sich ohne
-Aufnahmebescheid im Geltungsbereich des Gesetzes aufhalten, ein
-Aufnahmebescheid erteilt oder es kann die Eintragung nach Absatz 1
-Satz 2 nachgeholt werden, wenn die Versagung eine besondere Härte
-bedeuten würde und die sonstigen Voraussetzungen vorliegen. Die
-Eintragung nach Absatz 1 Satz 2 wird nachgeholt, wenn ein Abkömmling
-einer Person nach Absatz 1 Satz 1 nicht mehr im Aussiedlungsgebiet,
-sondern während des Aussiedlungsvorganges und vor Ausstellung der
-Bescheinigung nach § 15 geboren wird.
+(2) Der im Aussiedlungsgebiet lebende Ehegatte, sofern die Ehe seit
+mindestens drei Jahren besteht, oder der im Aussiedlungsgebiet lebende
+Abkömmling werden zum Zweck der gemeinsamen Aussiedlung in den
+Aufnahmebescheid der Bezugsperson einbezogen, wenn in ihrer Person
+kein Ausschlussgrund im Sinne des § 5 vorliegt und die Bezugsperson
+die Einbeziehung ausdrücklich beantragt; Ehegatten und volljährige
+Abkömmlinge müssen auch Grundkenntnisse der deutschen Sprache
+besitzen. Die Einbeziehung wird nachgeholt, wenn ein Abkömmling einer
+Bezugsperson nicht mehr im Aussiedlungsgebiet, sondern während des
+Aussiedlungsvorganges und vor Ausstellung der Bescheinigung nach § 15
+Absatz 1 geboren wird. Abweichend von Satz 1 kann der im
+Aussiedlungsgebiet verbliebene Ehegatte oder Abkömmling eines
+Spätaussiedlers, der seinen ständigen Aufenthalt im Geltungsbereich
+des Gesetzes hat, nachträglich nach Satz 1 in den Aufnahmebescheid des
+Spätaussiedlers einbezogen werden, wenn die sonstigen Voraussetzungen
+vorliegen. Die Einbeziehung von minderjährigen Abkömmlingen in den
+Aufnahmebescheid ist nur gemeinsam mit der Einbeziehung der Eltern
+oder des sorgeberechtigten Elternteils zulässig. Ein Ehegatte oder
+volljähriger Abkömmling wird abweichend von Satz 1 einbezogen, wenn er
+wegen einer körperlichen, geistigen oder seelischen Krankheit oder
+wegen einer Behinderung im Sinne des § 2 Absatz 1 Satz 1 des Neunten
+Buches Sozialgesetzbuch keine Grundkenntnisse der deutschen Sprache
+besitzen kann. Die Einbeziehung in den Aufnahmebescheid wird
+insbesondere dann unwirksam, wenn die Ehe aufgelöst wird, bevor beide
+Ehegatten die Aussiedlungsgebiete verlassen haben, oder die
+Bezugsperson verstirbt, bevor die einbezogenen Personen Aufnahme im
+Sinne von § 4 Absatz 3 Satz 2 gefunden haben.
 
-(3) Abweichend von Absatz 1 kann der im Aussiedlungsgebiet verbliebene
-Ehegatte oder Abkömmling eines Spätaussiedlers, der seinen ständigen
-Aufenthalt im Geltungsbereich des Gesetzes hat, nachträglich nach
-Absatz 1 Satz 2 in den Aufnahmebescheid des Spätaussiedlers einbezogen
-werden, wenn die Versagung der nachträglichen Einbeziehung eine Härte
-für den Spätaussiedler oder für seinen Ehegatten oder Abkömmling
-bedeuten würde und die sonstigen Voraussetzungen vorliegen. Eine Härte
-im Sinne von Satz 1 kann nur durch Umstände begründet werden, die sich
-nach der Aussiedlung des Spätaussiedlers belastend auf die persönliche
-oder familiäre Situation auswirken. Der Antrag auf Wiederaufgreifen
-eines unanfechtbar abgeschlossenen Einbeziehungsverfahrens nach den
-Absätzen 1 oder 2 ist nicht an eine Frist gebunden. § 8 Absatz 2 und §
-9 Absatz 4 Satz 2 gelten für Familienangehörige der nach Satz 1
+(3) Der Antrag auf Wiederaufgreifen eines unanfechtbar abgeschlossenen
+Verfahrens auf Erteilung eines Aufnahmebescheides oder auf
+Einbeziehung ist nicht an eine Frist gebunden. § 8 Absatz 2 und § 9
+Absatz 4 Satz 2 gelten für Familienangehörige der nach Absatz 2 Satz 3
 nachträglich einbezogenen Personen entsprechend.
 
 (4) Für jedes Kalenderjahr dürfen so viele Aufnahmebescheide erteilt
@@ -933,14 +890,16 @@ Abkömmlings, welcher das fünfte Lebensjahr vollendet hat, erstreckt
 sich die Namensänderung nur dann, wenn er sich der Namensänderung
 durch Erklärung gegenüber dem Bundesverwaltungsamt im
 Verteilungsverfahren oder dem Standesamt anschließt. Ein in der
-Geschäftsfähigkeit beschränktes Kind, welches das vierzehnte
-Lebensjahr vollendet hat, kann die Erklärung nur selbst abgeben; es
-bedarf hierzu der Zustimmung seines gesetzlichen Vertreters.
+Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr
+vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu
+der Zustimmung seines gesetzlichen Vertreters.
 
 (2) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder
-beurkundet werden; im Verteilungsverfahren kann auch das
-Bundesverwaltungsamt die Erklärungen öffentlich beglaubigen oder
-beurkunden. Gebühren und Auslagen werden nicht erhoben.
+beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber
+einem deutschen Standesamt abgegeben werden. Im Verteilungsverfahren
+kann auch das Bundesverwaltungsamt die Erklärungen öffentlich
+beglaubigen oder beurkunden. Gebühren und Auslagen werden nicht
+erhoben.
 
 
 ### § 95 Unentgeltliche Beratung
@@ -1060,12 +1019,9 @@ geltenden Fassung weiterhin anzuwenden.
 
 ### § 100a Übergangsregelung
 
-(1) Auch Anträge nach § 15 Abs. 1 sind nach dem Recht zu bescheiden,
-das nach dem 7. September 2001 gilt.
-
-(2) Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland
-oder Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach §
-26 erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor
+Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland oder
+Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach § 26
+erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor
 dem 24. Mai 2007 geltenden Fassung mit der Maßgabe, dass kein
 Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
 
@@ -1083,9 +1039,10 @@ hervorgeht, dass sie den Status im Sinne des Artikels 116 Abs. 1 des
 Grundgesetzes nicht erworben haben.
 
 
-### § 101 (weggefallen)
+### § 101 Geltung für Lebenspartner
 
--
+Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten
+entsprechend für Lebenspartner.
 
 
 ### § 102 (weggefallen)
@@ -1100,7 +1057,7 @@ Der Bund trägt die Aufwendungen nach § 9 dieses Gesetzes.
 
 ### § 104
 
-Das Bundesministerium des Innern kann allgemeine
+Das Bundesministerium des Innern, für Bau und Heimat kann allgemeine
 Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das
 Bundesverwaltungsamt erlassen.
 

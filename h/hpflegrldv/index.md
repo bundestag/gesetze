@@ -1,7 +1,6 @@
-Verordnung
-über die Kraftfahrzeug-Haftpflichtversicherung
 ---
-Title: ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
+Title: Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge
+  und Kraftfahrzeuganhänger
 jurabk: HPflEGRLDV
 layout: default
 origslug: hpflegrldv
@@ -9,7 +8,7 @@ slug: hpflegrldv
 
 ---
 
-# ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger (HPflEGRLDV)
+# Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger (HPflEGRLDV)
 
 Ausfertigungsdatum
 :   1974-05-08
@@ -18,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 1062
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.3.2010 I 398
+:   Art. 1 V v. 14.11.2019 I 1623
 
 
 ## Eingangsformel
@@ -45,65 +44,9 @@ Haftpflichtversicherung für ausländische Kraftfahrzeuge und
 Kraftfahrzeuganhänger ist nicht erforderlich für
 
 1.  Kraftfahrzeuge und Kraftfahrzeuganhänger, die ein vorgeschriebenes
-    Kennzeichen, unabhängig davon, ob es sich um ein endgültiges oder
-    vorläufiges Kennzeichen handelt, folgender Staaten oder Gebiete
-    führen:
-
-    *   Belgien
-
-        Bulgarien
-
-        Dänemark (ohne Grönland)
-
-        Estland
-
-        Finnland
-
-        Frankreich (ohne Überseegebiete)
-
-        Griechenland
-
-        Irland
-
-        Italien
-
-        Lettland
-
-        Litauen
-
-        Luxemburg
-
-        Malta
-
-        Niederlande
-
-        Österreich
-
-        Polen
-
-        Portugal
-
-        Rumänien
-
-        Schweden
-
-        Slowakei
-
-        Slowenien
-
-        Spanien
-
-        Tschechische Republik
-
-        Ungarn
-
-        Vereinigtes Königreich Großbritannien und Nordirland einschließlich
-        der Kanalinseln, Gibraltar und der Insel Man
-
-        Zypern;
-
-
-
+    Kennzeichen aus einem Mitgliedstaat der Europäischen Union führen,
+    unabhängig davon, ob es sich um ein endgültiges oder vorläufiges
+    Kennzeichen handelt;
 
 
 2.  zweirädrige Kraftfahrzeuge (einschließlich Fahrräder mit Hilfsmotor),
@@ -262,8 +205,6 @@ erforderlich für
 
         Island
 
-        Kroatien
-
         Liechtenstein
 
         Monaco
@@ -273,6 +214,8 @@ erforderlich für
         San Marino
 
         Schweiz
+
+        Serbien
 
         Vatikanstadt;
 

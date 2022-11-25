@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.2.1996 I 210;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 4.12.2001 I 3320
+:   Art. 1 V v. 21.10.2019 I 1470
 
 
 ## § 1 Anwendungsbereich
@@ -48,7 +48,7 @@ abhängig gemacht werden.
 
 (2) Eine Vereinbarung nach Absatz 1 Satz 1 ist nach persönlicher
 Absprache im Einzelfall zwischen Arzt und Zahlungspflichtigem vor
-Einbringung der Leistung des Arztes in einem Schriftstück zu treffen.
+Erbringung der Leistung des Arztes in einem Schriftstück zu treffen.
 Dieses muß neben der Nummer und der Bezeichnung der Leistung, dem
 Steigerungssatz und dem vereinbarten Betrag auch die Feststellung
 enthalten, daß eine Erstattung der Vergütung durch Erstattungsstellen
@@ -460,10 +460,9 @@ abweichende Regelung getroffen werden.
 (Inkrafttreten und Übergangsvorschrift)
 
 
-## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil I)
+## Anlage Gebührenverzeichnis für ärztliche Leistungen
 
-(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 67)
-Teil I der Anlage, Fortsetzung siehe Teil II
+(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 157)
 
 *    *   Nummer
 
@@ -480,7 +479,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *   5
 
 
-*    *   1 bis 107
+*    *   1 bis 109
 
     *   B.
 
@@ -535,7 +534,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *
     *   V.
 
-    *   Zuschläge zu den Leistungen nach den Nummern 45 bis 62
+    *   Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und 101
 
     *   12
 
@@ -550,7 +549,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *   13
 
 
-*    *   100 bis 107
+*    *   100 bis 109
 
     *
     *   VII.
@@ -801,7 +800,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *   67
 
 
-*    *   2000 bis 2010 \*)
+*    *   2000 bis 2010
 
     *
     *   I.
@@ -980,7 +979,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *   99
 
 
-*    *   3541 bis 3621 \*)
+*    *   3541 bis 3621
 
     *
     *   II.
@@ -990,7 +989,7 @@ Teil I der Anlage, Fortsetzung siehe Teil II
     *   100
 
 
-*    *   3630 bis 4469 \*)
+*    *   3630 bis 4469
 
     *
     *   III.
@@ -1340,7 +1339,7 @@ Allgemeine Bestimmungen
         Arterien an beiden Handgelenken, Ellenbeugen, Achseln, Fußrücken,
         Sprunggelenken, Kniekehlen, Leisten sowie der tastbaren Arterien an
         Hals und Kopf, Inspektion und gegebenenfalls Palpation der
-        oberflächlichen Bein-und Halsvenen.
+        oberflächlichen Bein- und Halsvenen.
 
     *
     *
@@ -2386,7 +2385,8 @@ zugrundeliegende Leistung aufzuführen.
 
 *    *   **V.**
 
-    *   **Zuschläge zu den Leistungen nach den Nummern 45 bis 62**
+    *   **Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und
+        101**
 
     *
     *
@@ -2400,9 +2400,13 @@ Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer
 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang
 mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge
 unabhängig von der Anzahl und Kombination der erbrachten Leistungen je
-Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den
-Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge
-nach den Buchstaben A bis D sowie K 1 nicht berechnet werden.
+Inanspruchnahme des Arztes nur einmal berechnet werden. Im
+Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die
+Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und
+Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes
+nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben
+E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D
+sowie K 1 nicht berechnet werden.
 Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die
 zugrundeliegende Leistung aufzuführen.
 
@@ -2665,61 +2669,109 @@ zugrundeliegende Leistung aufzuführen.
 
 
 
-   Allgemeine Bestimmung
-Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen
-nach den Nummern 100 bis 107 außerhalb seiner Arbeitsstätte (Praxis
-oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte
-Wegstrecke Wegegeld nach § 8 berechnen.
+   Allgemeine Bestimmungen
 
-*    *
-    *   100
-
-    *   Untersuchung eines Toten - einschließlich Feststellung des Todes und
-        Ausstellung des Leichenschauscheines -
-
-    *   250
-
-    *   28,50
+1.  Begibt sich der Arzt zur Erbringung einer oder mehrerer Leistungen
+    nach den Nummern 100 bis 109 außerhalb seiner Arbeitsstätte (Praxis
+    oder Krankenhaus) oder seiner Wohnung, kann er für die zurückgelegte
+    Wegstrecke Wegegeld nach § 8 oder Reiseentschädigung nach § 9
+    berechnen.
 
 
-*    *
-    *   102
+2.  Neben den Leistungen nach den Nummern 100 und 101 sind Zuschläge nach
+    den Buchstaben F bis H berechnungsfähig.
+
+
+3.  Neben den Leistungen nach den Nummern 100 und 101 sind die Leistungen
+    nach den Nummern 48 bis 52 nicht berechnungsfähig.
+
+
+4.  Die Leistungen nach den Nummern 100 und 101 sind nicht nebeneinander
+    berechnungsfähig.
+
+
+5.  Die Leistungen nach den Nummern 100 und 101 sowie der Zuschlag nach
+    Nummer 102 sind nur mit dem einfachen Gebührensatz berechnungsfähig.
+
+
+
+
+*    *   100
+
+    *   Untersuchung eines Toten und Ausstellung einer vorläufigen
+        Todesbescheinigung gemäß landesrechtlicher Bestimmungen,
+        gegebenenfalls einschließlich Aktenstudium und Einholung von
+        Auskünften bei Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und
+        Pflegediensten (Dauer mindestens 20 Minuten), gegebenenfalls
+        einschließlich Aufsuchen (vorläufige Leichenschau)
+        Dauert die Leistung nach Nummer 100 weniger als 20 Minuten (ohne
+        Aufsuchen), mindestens aber 10 Minuten (ohne Aufsuchen), sind 60
+        Prozent der Gebühr zu berechnen.
+
+    *   1896
+
+    *
+
+*    *   101
+
+    *   Eingehende Untersuchung eines Toten und Ausstellung einer
+        Todesbescheinigung, einschließlich Angaben zu Todesart und
+        Todesursache gemäß landesrechtlicher Bestimmungen, gegebenenfalls
+        einschließlich Aktenstudium und Einholung von Auskünften bei
+        Angehörigen, vorbehandelnden Ärzten, Krankenhäusern und Pflegediensten
+        (Dauer mindestens 40 Minuten), gegebenenfalls einschließlich Aufsuchen
+        (eingehende Leichenschau)
+        Dauert die Leistung nach Nummer 101 weniger als 40 Minuten (ohne
+        Aufsuchen), mindestens aber 20 Minuten (ohne Aufsuchen), sind 60
+        Prozent der Gebühr zu berechnen.
+
+    *   2844
+
+    *
+
+*    *   102
+
+    *   Zuschlag zu den Leistungen nach den Nummern 100 oder 101 bei einer
+        Leiche mit einer dem Arzt oder der Ärztin unbekannten Identität
+        und/oder besonderen Todesumständen (zusätzliche Dauer mindestens 10
+        Minuten)
+
+    *   474
+
+    *
+
+*    *   106
 
     *   Entnahme einer Körperflüssigkeit bei einem Toten
 
     *   150
 
-    *   17,10
+    *
 
-
-*    *
-    *   104
+*    *   107
 
     *   Bulbusentnahme bei einem Toten
 
     *   250
 
-    *   28,50
+    *
 
-
-*    *
-    *   105
+*    *   108
 
     *   Hornhautentnahme aus einem Auge bei einem Toten
 
     *   230
 
-    *   26,22
+    *
 
-
-*    *
-    *   107
+*    *   109
 
     *   Entnahme eines Herzschrittmachers bei einem Toten
 
     *   220
 
-    *   25,08
+    *
+
 
 
 *    *   **C.**
@@ -4772,12 +4824,18 @@ eines Katheters oder einer Punktionsnadel.
 
 
 *    *
-    *   431
-
+    *
     *   Die Leistung nach Nummer 430 ist auch bei mehrfacher Verabfolgung von
         Stromstößen in engem zeitlichen Zusammenhang zur Erreichung der
-        Defibrillation nur einmal berechnungsfähig. Elektrokardioskopie im
-        Notfall
+        Defibrillation nur einmal berechnungsfähig.
+
+    *
+    *
+
+*    *
+    *   431
+
+    *   Elektrokardioskopie im Notfall
 
     *   100
 
@@ -11602,7 +11660,7 @@ Vergütungssatz nach Nummer 3135 zu kürzen.
 *    *
     *   1529
 
-    *   Intubation oder Einführung von Dehnungs- instrumenten in den Kehlkopf,
+    *   Intubation oder Einführung von Dehnungsinstrumenten in den Kehlkopf,
         als selbständige Leistung
 
     *   152
@@ -13733,16 +13791,10 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *
 
-*    *   Fortsetzung siehe Teil II
+*    *
 
 
 
-
-
-## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil II)
-
-(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 67 - 157)
-Teil II der Anlage, Fortsetzung von Teil I
 
 *    *   Nummer
 
@@ -14396,9 +14448,8 @@ Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.
 *    *
     *   2091
 
-    *   Sehnenscheidenradikaloperation (Tendosynovektomie) - gegebenenfalls
-        mit Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung
-        -
+    *   Sehnenscheidenradikaloperation(Tendosynovektomie)- gegebenenfalls mit
+        Entfernung von vorspringenden Knochenteilen und Sehnenverlagerung -
 
     *   924
 
@@ -15108,8 +15159,8 @@ jeweils nur einmal berechnungsfähig.
 
     *   Arthroskopische Operation mit Entfernung oder Teilresektion eines
         Meniskus im Kniegelenk - gegebenenfalls einschließlich
-        Plicateilresektion, Teilresektion des Hoffa&apos;schen Fettkörpers
-        und/oder Entfernung freier Gelenkkörper - .................
+        Plicateilresektion, Teilresektion des Hoffa`schen Fettkörpers und/oder
+        Entfernung freier Gelenkkörper - .................
 
     *   1500
 
@@ -16872,7 +16923,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 *    *   2504
 
     *   Operation einer offenen Hirnverletzung mit Dura- und/oder
-        KopfSchwartenplastik
+        Kopfschwartenplastik
 
     *   4500
 
@@ -17566,7 +17617,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   2602
 
-    *   Abdomino-retroperitoneale lumbale GrenzStrangresektion
+    *   Abdomino-retroperitoneale lumbale Grenzstrangresektion
 
     *   1480
 
@@ -20031,7 +20082,7 @@ Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.
 
 *    *   3215
 
-    *   Eröffnung eines kongenitalen oberflächlichen AfterverSchlusses
+    *   Eröffnung eines kongenitalen oberflächlichen Afterverschlusses
 
     *   150
 
@@ -21328,7 +21379,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3589.H1
 
-    *   Cholinesterase (Pseudocholinesterase,CHE, PCHE)
+    *   Cholinesterase (Pseudocholinesterase, CHE, PCHE)
 
     *   40
 
@@ -21346,7 +21397,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3591.H1
 
-    *   Creatinkinase MB (CK-MB),Immuninhibitionsmethode
+    *   Creatinkinase MB (CK-MB), Immuninhibitionsmethode
 
     *   50
 
@@ -21442,7 +21493,7 @@ Nummer 3541.H zu beachten.
 
 *    *   3606
 
-    *   Plasmathrombinzeit (PTZ, TZ),Doppelbestimmung
+    *   Plasmathrombinzeit (PTZ, TZ), Doppelbestimmung
 
     *   70
 
@@ -24913,7 +24964,7 @@ Nummer 3633.H zu beachten.
 
 *    *   4079
 
-    *   Zuschlag zu den leistungen nach den Nummern 4071 bis 4078 bei
+    *   Zuschlag zu den Leistungen nach den Nummern 4071 bis 4078 bei
         Anwendung der Gaschromatographie-Massenspektrometrie
 
     *   350
@@ -30421,7 +30472,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
     *   345,42
 
 
-*    *   **0. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
+*    *   **O. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
         Strahlentherapie**
 
     *
@@ -30455,10 +30506,11 @@ Pilz oder Parasit) in der Rechnung anzugeben.
     selbständige Leistung ist nicht berechnungsfähig.
 
 
-5.  Die nach der Strahlenschutzverordnung bzw. Röntgenverordnung
-    notwendige ärztliche Überprüfung der Indikation und des
-    Untersuchungsumfangs ist auch im Überweisungsfall Bestandteil der
-    Leistungen des Abschnitts O und mit den Gebühren abgegolten.
+5.  Die nach dem Strahlenschutzgesetz und den auf dessen Grundlage
+    erlassenen Rechtsverordnungen notwendige ärztliche Überprüfung der
+    Indikation und des Untersuchungsumfangs ist auch im Überweisungsfall
+    Bestandteil der Leistungen des Abschnitts O und mit den Gebühren
+    abgegolten.
 
 
 6.  Die Leistungen nach den Nummern 5011, 5021, 5031, 5101, 5106, 5121,
@@ -33119,8 +33171,8 @@ beachten.
 
 *    *   5733
 
-    *   Zuschlag für computergesteuerte Analyse (z.B. Kinetik, 3D-
-        Rekonstruktion)
+    *   Zuschlag für computergesteuerte Analyse (z.B. Kinetik,
+        3D-Rekonstruktion)
 
     *   800
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 2142
 
 Zuletzt geändert durch
-:   Art. 6 V v. 22.10.2003 I 2085
+:   Art. 171 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -109,8 +109,9 @@ sind entsprechend anzuwenden.
 ### § 3 Anträge auf Bauartgenehmigung und Prüfung
 
 (1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich
-unter Angabe der Typbezeichnung beim Kraftfahrt-Bundesamt zu stellen.
-Dem Antrag ist das Gutachten der Prüfstelle nach § 6 beizufügen.
+oder elektronisch unter Angabe der Typbezeichnung beim Kraftfahrt-
+Bundesamt zu stellen. Dem Antrag ist das Gutachten der Prüfstelle nach
+§ 6 beizufügen.
 
 (2) Abweichend von Absatz 1 kann der Antrag an das Kraftfahrt-
 Bundesamt über die zuständige Prüfstelle nach § 5 mit dem an die
@@ -128,17 +129,17 @@ beizufügen.
 
 ### § 4 Erteilung der Bauartgenehmigung
 
-(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung
-schriftlich. In der Bauartgenehmigung werden der genehmigte Typ, das
-zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des
+(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich
+oder elektronisch. In der Bauartgenehmigung werden der genehmigte Typ,
+das zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des
 Verwaltungsverfahrensgesetzes) und, soweit erforderlich, Ausnahmen von
 den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung festgelegt.
 
 (2) Abweichungen vom genehmigten Typ sind nur zulässig, wenn die
 Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden
-ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich
-erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung
-nicht erforderlich ist.
+ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich oder
+elektronisch erklärt, daß für die vorgesehene Änderung eine
+Nachtragsgenehmigung nicht erforderlich ist.
 
 
 ### § 5 Prüfstellen
@@ -156,29 +157,8 @@ nicht erforderlich ist.
     Einigungsvertrages (BGBl. 1990 II S. 885, 1103),
 
 
-3.  ein nach den §§ 12 oder 18 der Verordnung über die EG-Typgenehmigung
-    für Fahrzeuge und Fahrzeugteile für die in Anlage 1 genannten
-    Fahrzeugteile anerkanntes oder akkreditiertes Prüflaboratorium,
-
-
-4.  ein für gleiche oder vergleichbare Fahrzeugteile für die Prüfungen
-    nach Einzelrichtlinien nach Anhang IV und im Verfahren nach Artikel 14
-    der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur
-    Angleichung der Rechtsvorschriften der Mitgliedstaaten über die
-    Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl.
-    EG Nr. L 42 S. 1), zuletzt geändert durch die Richtlinie 98/14/EG der
-    Kommission vom 6. Februar 1998 (ABl. EG Nr. L 91 S. 1), die in der
-    jeweils geltenden Fassung, soweit diese durch Rechtsverordnung des
-    Bundesministeriums für Verkehr umgesetzt worden ist, vom Kraftfahrt-
-    Bundesamt anerkannter oder akkreditierter Technischer Dienst,
-
-
-5.  ein für gleiche oder vergleichbare Fahrzeugteile für die Prüfungen
-    nach Einzelrichtlinien nach Anhang I und im Verfahren nach Artikel 14
-    der Richtlinie 92/61/EWG des Rates vom 30. Juni 1992 über die
-    Betriebserlaubnis für zwei- oder dreirädrige Kraftfahrzeuge (ABl. EG
-    Nr. L 225 S. 72) vom Kraftfahrt-Bundesamt anerkannter oder
-    akkreditierter Technischer Dienst.
+3.  ein nach § 30 der EG-Fahrzeuggenehmigungsverordnung anerkannter
+    Technischer Dienst.
 
 
 
@@ -228,8 +208,7 @@ E   für Fahrtschreiber
 F   für Auflaufbremsen und Teile davon
 
 
-G   für Sicherheitsgurte, Rückhalteeinrichtungen für Kinder in
-    Kraftfahrzeugen
+G   (weggefallen)
 
 
 K   für lichttechnische Einrichtungen
@@ -997,8 +976,8 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 *    *
 
 *    *
-        *   Kennleuchten für blaues und für gelbes Blinklicht (§ 52 Abs. 3 und 4
-            StVZO)
+        *   Kennleuchten für blaues, rotes und gelbes Blinklicht (§ 52 Abs. 3, 3a
+            und 4 StVZO)
 
 
 
@@ -1138,7 +1117,9 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 *    *
-        10. Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 60 Abs. 4 StVZO)
+        10. Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 10 Abs. 6 Satz 2
+            FZV) Beleuchtungseinrichtungen für transparente amtliche Kennzeichen
+            (§ 10 FZV)
 
 
 
@@ -1286,16 +1267,12 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 *    *
-        16. Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen (§ 21 Abs. 1a
-            StVO)
+        16. (weggefallen)
 
 
 
 
-    *   Muster, Zeichnungen und Beschreibungen sind nach der von der
-        Prüfstelle angewandten Vorschrift und den darin enthaltenen
-        Bestimmungen über den Antrag beizufügen.
-
+    *
 
 *    *
         17. Reifen (§ 36 Abs. 1a StVZO)
@@ -1317,6 +1294,20 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
     *   Muster, Zeichnungen und Beschreibungen sind nach der von der
         Prüfstelle angewandten Vorschrift und den darin enthaltenen
         Bestimmungen über den Antrag beizufügen.
+
+
+*    *
+        19. Warneinrichtungen mit einer Folge von Klängen verschiedener
+            Grundfrequenz
+            (§ 55 Abs. 3 und 3a StVZO)
+
+
+
+
+    *   2 Muster
+
+    *   Zeichnung(en) und Beschreibung der Wirkungsweise in zweifacher
+        Ausfertigung.
 
 
 *    *
@@ -1354,20 +1345,20 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
 *    *   E
 
-    *   Landeseichdirektion
+    *   TÜV NORD Mobilität GmbH & Co. KG
 
     *   -
 
     *   Fahrtschreiber
 
 
-*    *   Nordrhein-Westfalen
+*    *   IFM – Institut für Fahrzeugtechnik und Mobilität
 
 
-*    *   Postfach 30 08 33
+*    *   Am TÜV 1
 
 
-*    *   50778 Köln
+*    *   30519 Hannover
 
 
 *    *   F

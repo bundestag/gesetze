@@ -1996,257 +1996,289 @@ Sterbegeld) und der Deckungsrückstellung für das Sterbegeld bei
 Krankentagegeldversicherungen in der Umstellungsrechnung gelten in den
 Fällen der Ziffer III, 1b Abs. 2 und 1c der Ergänzungsrichtlinien Teil
 D die nachstehenden Grundsätze.
-I. Rechnungsgrundlagen
-1\. Sterbenswahrscheinlichkeiten (q) nach der Sterbetafel 1924/26
-Männer;
-2\. Abgangswahrscheinlichkeit (w): Sie ist rechnungsmäßig in der Weise
-zu berücksichtigen, daß sie, beginnend mit dem Alter 20, eine fallende
-Folge bildet, die spätestens mit dem Alter 80 endet. Der für das Alter
-20 anzusetzende Wert soll 10 vom Hundert nicht übersteigen. Eine
-Trennung der Abgangswahrscheinlichkeiten für Männer und für Frauen ist
-nicht erforderlich.
-Für alle Tarife sollen die gleichen Abgangswahrscheinlichkeiten
-verwendet werden. Nur in den Fällen, in denen offensichtlich ein nicht
-nur als vorübergehende Erscheinung zu wertender Sonderverlauf des
-vorzeitigen Abgangs in Erscheinung tritt, können andere - auch höhere
-- Abgangswahrscheinlichkeiten und/oder kürzere Folgedauern verwendet
-werden. Die Abweichung ist zu begründen. Die Ausscheideordnung ist
-dann folgendermaßen zu bilden:
-1'   = 1'
-21      20 (t - q    - w   )
-20     20
-1'   = 1'
-22      21 (t - q    - w   )
-21     21
-3\. Rechnungszinssatz: 3 1/2 vom Hundert.
 
-4.
-    a)  Für die Krankheitskostenversicherung: eine normierte Kopfschadentafel
-        (Anhang 1);
+I.  Rechnungsgrundlagen
+
+    1.  Sterbenswahrscheinlichkeiten (q) nach der Sterbetafel 1924/26 Männer;
 
 
-    b)  für die Krankheitstagegeldversicherung, soweit sie nach dem
-        sogenannten Hamburger System (keine Daueraussteuerung für das
-        Krankengeld) betrieben wird: ein Tafel der Krankheitsdauer (Anhang 2).
+    2.  Abgangswahrscheinlichkeit (w): Sie ist rechnungsmäßig in der Weise zu
+        berücksichtigen, daß sie, beginnend mit dem Alter 20, eine fallende
+        Folge bildet, die spätestens mit dem Alter 80 endet. Der für das Alter
+        20 anzusetzende Wert soll 10 vom Hundert nicht übersteigen. Eine
+        Trennung der Abgangswahrscheinlichkeiten für Männer und für Frauen ist
+        nicht erforderlich. Für alle Tarife sollen die gleichen
+        Abgangswahrscheinlichkeiten verwendet werden. Nur in den Fällen, in
+        denen offensichtlich ein nicht nur als vorübergehende Erscheinung zu
+        wertender Sonderverlauf des vorzeitigen Abgangs in Erscheinung tritt,
+        können andere - auch höhere - Abgangswahrscheinlichkeiten und/oder
+        kürzere Folgedauern verwendet werden. Die Abweichung ist zu begründen.
+        Die Ausscheideordnung ist dann folgendermaßen zu bilden:
+
+
+        *            *                ![bgbl3_1964_j0089_0010.jpg](bgbl3_1964_j0089_0010.jpg)
 
 
 
 
+    3.  Rechnungszinssatz: 3 1/2 vom Hundert.
 
 
-Bei den nach dem Hamburger System abgeschlossenen
-Krankentagegeldversicherungen, bei denen bei Eintritt der Dauer-
-Invalidität keine Krankengeldleistungen mehr gewährt werden, ist außer
-der Sterblichkeit und dem vorzeitigen Abgang auch die
-Invaliditätswahrscheinlichkeit zu berücksichtigen. Die dabei
-verwendeten Invaliditätswahrscheinlichkeiten sind anzugeben. Eine
-Abschrift der Dekremententafel ist vorzulegen. Ergibt sich aus den
-Erfahrungen der Unternehmung, daß bei ihr die Krankheitsdauern
-durchweg niedriger sind als die im Anhang 2 angegebenen, so kann dem
-bei der Errechnung der Grundtafel Rechnung getragen werden. Im
-Gutachten sind darüber ausführliche, die Abweichung begründende
-Angaben zu machen. Die verwendeten Werte der Krankheitsdauern und die
-mit ihnen aufgestellte Grundtafel sind vorzulegen.
-5\. Eine Abschrift der mittels der Grundlagen 1 bis 4 berechneten
-Grundtafel einschließlich der Kommutationswerte ist zur Genehmigung
-vorzulegen.
-II. Ermittlung des Grundkopfschadens in der
-Krankheitskostenversicherung
-1\. Bei der Verwendung der normierten Kopfschäden ist für jeden Tarif
-die Bestimmung des Grundkopfschadens erforderlich. Er ist für Männer
-und Frauen gesondert zu ermitteln.
-2\. Mehrere Tarife können zu Tarifgemeinschaften zusammengefaßt werden.
-In dem Gutachten ist anzugeben, ob und inwieweit derartige
-Zusammenfassungen erfolgt sind. Sie sind zu begründen.
-3\. Zugrunde zu legen ist der nach erreichtem Alter aufgegliederte
-mittlere Versichertenbestand des Jahres 1947. Läßt sich dieser Bestand
-nicht mehr feststellen, so kann der Berechnung der am 31. Dezember
-1947 vorhandene Versichertenbestand zugrunde gelegt werden. Wenn der
-Bestand für den 31. Dezember 1947 gegliedert nach Männern, Frauen und
-Kindern nicht vorliegt, so ist er unter Zuhilfenahme einer zu einem
-späteren Zeitpunkt festgestellten Gliederung abzuleiten. Im Gutachten
-ist anzugeben, wie der Bestand ermittelt worden ist.
-
-4.
-    a)  Es sind die für das Jahr 1947 gezahlten und zurückgestellten Schäden
-        zu ermitteln. Sollte dies nicht möglich sein, so kann statt dessen die
-        Summe der in 1947 ausgezahlten Schäden vermehrt um die
-        Schadensrückstellung zum 31. Dezember 1947 und vermindert um die
-        Schadensrückstellung zum 31. Dezember 1946 verwendet werden. Die
-        Ermittlung ist getrennt für Männer und Frauen durchzuführen; notfalls
-        kann diese Aufteilung schätzungsweise an Hand von Teiluntersuchungen
-        vorgenommen werden. Sie ist zu begründen.
+    4.
+        a)  Für die Krankheitskostenversicherung: eine normierte Kopfschadentafel
+            (Anhang 1);
 
 
-    b)  Die Schäden der Erwachsenen sind um den durch Beiträge nicht gedeckten
-        Teil der für Kinder gezahlten und zurückgestellten Leistungen zu
-        erhöhen. Dieser nicht durch Beiträge gedeckte Teil der Kinderschäden
-        ist auf die Männer- und Frauenschäden in angemessener Form (z.B. nach
-        der Zahl der versicherten Erwachsenen) zu verteilen.
+        b)  für die Krankheitstagegeldversicherung, soweit sie nach dem
+            sogenannten Hamburger System (keine Daueraussteuerung für das
+            Krankengeld) betrieben wird: ein Tafel der Krankheitsdauer (Anhang 2).
+
+
+
+
+        Bei den nach dem Hamburger System abgeschlossenen
+        Krankentagegeldversicherungen, bei denen bei Eintritt der Dauer-
+        Invalidität keine Krankengeldleistungen mehr gewährt werden, ist außer
+        der Sterblichkeit und dem vorzeitigen Abgang auch die
+        Invaliditätswahrscheinlichkeit zu berücksichtigen. Die dabei
+        verwendeten Invaliditätswahrscheinlichkeiten sind anzugeben. Eine
+        Abschrift der Dekremententafel ist vorzulegen. Ergibt sich aus den
+        Erfahrungen der Unternehmung, daß bei ihr die Krankheitsdauern
+        durchweg niedriger sind als die im Anhang 2 angegebenen, so kann dem
+        bei der Errechnung der Grundtafel Rechnung getragen werden. Im
+        Gutachten sind darüber ausführliche, die Abweichung begründende
+        Angaben zu machen. Die verwendeten Werte der Krankheitsdauern und die
+        mit ihnen aufgestellte Grundtafel sind vorzulegen.
+
+
+    5.  Eine Abschrift der mittels der Grundlagen 1 bis 4 berechneten
+        Grundtafel einschließlich der Kommutationswerte ist zur Genehmigung
+        vorzulegen.
 
 
 
 
 
+II. Ermittlung des Grundkopfschadens in der Krankheitskostenversicherung
 
-5\. Bezeichnet man die für Männer bzw. Frauen ermittelte
-Gesamtschadenssumme mit S und sind
-k , k
-t   t + 1
-die normierten Kopfschäden der Alter bzw. Gruppenalter
-t, t + 1 ..... und L , L      ....
-t   t + 1
-die Versichertenbestände der entsprechenden Alter, so erhält man den
-Wert des Grundkopfschadens G des in Frage kommenden Tarifs nach
-folgender Formel:
-S
-G =   ------------------------------------------
-x
-k x L + k       x L       + ............
-t   t    t + 1     t + 1
+    1.  Bei der Verwendung der normierten Kopfschäden ist für jeden Tarif die
+        Bestimmung des Grundkopfschadens erforderlich. Er ist für Männer und
+        Frauen gesondert zu ermitteln.
+
+
+    2.  Mehrere Tarife können zu Tarifgemeinschaften zusammengefaßt werden. In
+        dem Gutachten ist anzugeben, ob und inwieweit derartige
+        Zusammenfassungen erfolgt sind. Sie sind zu begründen.
+
+
+    3.  Zugrunde zu legen ist der nach erreichtem Alter aufgegliederte
+        mittlere Versichertenbestand des Jahres 1947. Läßt sich dieser Bestand
+        nicht mehr feststellen, so kann der Berechnung der am 31. Dezember
+        1947 vorhandene Versichertenbestand zugrunde gelegt werden. Wenn der
+        Bestand für den 31. Dezember 1947 gegliedert nach Männern, Frauen und
+        Kindern nicht vorliegt, so ist er unter Zuhilfenahme einer zu einem
+        späteren Zeitpunkt festgestellten Gliederung abzuleiten. Im Gutachten
+        ist anzugeben, wie der Bestand ermittelt worden ist.
+
+
+    4.
+        a)  Es sind die für das Jahr 1947 gezahlten und zurückgestellten Schäden
+            zu ermitteln. Sollte dies nicht möglich sein, so kann statt dessen die
+            Summe der in 1947 ausgezahlten Schäden vermehrt um die
+            Schadensrückstellung zum 31. Dezember 1947 und vermindert um die
+            Schadensrückstellung zum 31. Dezember 1946 verwendet werden. Die
+            Ermittlung ist getrennt für Männer und Frauen durchzuführen; notfalls
+            kann diese Aufteilung schätzungsweise an Hand von Teiluntersuchungen
+            vorgenommen werden. Sie ist zu begründen.
+
+
+        b)  Die Schäden der Erwachsenen sind um den durch Beiträge nicht gedeckten
+            Teil der für Kinder gezahlten und zurückgestellten Leistungen zu
+            erhöhen. Dieser nicht durch Beiträge gedeckte Teil der Kinderschäden
+            ist auf die Männer- und Frauenschäden in angemessener Form (z.B. nach
+            der Zahl der versicherten Erwachsenen) zu verteilen.
+
+
+
+
+
+    5.  Bezeichnet man die für Männer bzw. Frauen ermittelte
+        Gesamtschadenssumme mit S und sind
+
+        *            *                ![bgbl3_1964_j0090_0010.jpg](bgbl3_1964_j0090_0010.jpg)
+
+
+   die normierten Kopfschäden der Alter bzw. Gruppenalter
+
+        *            *                ![bgbl3_1964_j0090_0020.jpg](bgbl3_1964_j0090_0020.jpg)
+
+
+   die Versichertenbestände der entsprechenden Alter, so erhält man den
+        Wert des Grundkopfschadens G des in Frage kommenden Tarifs nach
+        folgender Formel:
+
+        *            *                ![bgbl3_1964_j0090_0030.jpg](bgbl3_1964_j0090_0030.jpg)
+
+
+
+
+
+
+
 III. Berechnung der Rückstellungen
 
-1.  Vorbemerkungen
+    1.  Vorbemerkungen
 
-    a)  Es können Altersgruppen von 5, höchstens 10 Jahren gebildet werden.
-        Als Berechnungsalter ist dann das mittlere Alter zugrunde zu legen.
-
-
-    b)  Die der Berechnung der Rückstellung zugrunde zu legende Nettoprämie
-        ist aus der Tarifprämie zu ermitteln. Es ist anzugeben, in welcher
-        Weise dies geschehen ist.
+        a)  Es können Altersgruppen von 5, höchstens 10 Jahren gebildet werden.
+            Als Berechnungsalter ist dann das mittlere Alter zugrunde zu legen.
 
 
-    c)  Es ist anzugeben, in welcher Weise die nach Abzug der Verwaltungs- und
-        Sicherheitszuschläge verbleibende Nettoprämie auf die Prämie für das
-        Krankheitskostenwagnis und für das Sterbegeldwagnis aufgeteilt worden
-        ist.
+        b)  Die der Berechnung der Rückstellung zugrunde zu legende Nettoprämie
+            ist aus der Tarifprämie zu ermitteln. Es ist anzugeben, in welcher
+            Weise dies geschehen ist.
 
 
-    d)  Für mitversicherte Kinder sind keine technischen Rückstellungen zu
-        berechnen und zu stellen. Dasselbe gilt für Jugendliche, die besondere
-        von den Kinder- und Erwachsenenbeiträgen abweichende Prämien zahlen.
+        c)  Es ist anzugeben, in welcher Weise die nach Abzug der Verwaltungs- und
+            Sicherheitszuschläge verbleibende Nettoprämie auf die Prämie für das
+            Krankheitskostenwagnis und für das Sterbegeldwagnis aufgeteilt worden
+            ist.
 
 
-    e)  Bei der Berechnung der Rückstellungen braucht die unterjährige
-        Prämienzahlungsweise und beim Sterbegeld dessen sofortige Zahlung im
-        Versicherungsfall nicht berücksichtigt zu werden.
+        d)  Für mitversicherte Kinder sind keine technischen Rückstellungen zu
+            berechnen und zu stellen. Dasselbe gilt für Jugendliche, die besondere
+            von den Kinder- und Erwachsenenbeiträgen abweichende Prämien zahlen.
 
 
-    f)  Ist das Sterbegeld gestaffelt, so ist der Berechnung der
-        Deckungsrückstellung das Höchststerbegeld zugrunde zu legen.
+        e)  Bei der Berechnung der Rückstellungen braucht die unterjährige
+            Prämienzahlungsweise und beim Sterbegeld dessen sofortige Zahlung im
+            Versicherungsfall nicht berücksichtigt zu werden.
 
 
-
-
-
-2.  Berechnung
-
-    a)  Die Berechnung der Alterungsrückstellung, der Rückstellung für das
-        Krankentagegeld, der Deckungsrückstellung für das unselbständige
-        Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei
-        Krankentagegeldversicherungen hat, für jede Art der Rückstellung
-        gesondert, nach der prospektiven Methode zu erfolgen.
-
-
-    b)  Soweit sich negative Deckungsrückstellungen ergeben, ist Null
-        einzusetzen.
+        f)  Ist das Sterbegeld gestaffelt, so ist der Berechnung der
+            Deckungsrückstellung das Höchststerbegeld zugrunde zu legen.
 
 
 
 
 
-3.  Berechnung der Rückstellung für das Krankentagegeld bei den
-    Krankengeldzuschußkassen, die nach dem "Nürnberger System" arbeiten
+    2.  Berechnung
 
-    Bei Krankengeldzuschußkassen, die die Krankentagegeldversicherung nach
-    dem "Nürnberger System" (Aussteuerung nach Maximaldauer) betreiben,
-    kann die Rückstellung für das Krankentagegeld nach folgendem Verfahren
-    ermittelt werden:
-
-    Festzustellen ist:
-
-    a)  der Grad (g) der durchschnittlichen Inanspruchnahme der Anwartschaften
-        (Ausnutzungsgrad),
+        a)  Die Berechnung der Alterungsrückstellung, der Rückstellung für das
+            Krankentagegeld, der Deckungsrückstellung für das unselbständige
+            Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei
+            Krankentagegeldversicherungen hat, für jede Art der Rückstellung
+            gesondert, nach der prospektiven Methode zu erfolgen.
 
 
-    b)  die Zahl der Gesamtanwartschaftstage der Versicherten bis zum 20. Juni
-        1948 (T),
-
-
-    c)  die Zahl der Tage, für die bis zum 20. Juni 1948 bereits
-        Krankentagegeld bezogen worden ist (K),
-
-
-    d)  das Durchschnittsalter des Bestandes am 20. Juni 1948 (x),
-
-
-    e)  das durchschnittliche tägliche Krankengeld (M).
+        b)  Soweit sich negative Deckungsrückstellungen ergeben, ist Null
+            einzusetzen.
 
 
 
 
-    Die benötigten Zahlen können notfalls schätzungsweise an Hand von
-    Teiluntersuchungen ermittelt werden. Das gewählte Verfahren ist zu
-    begründen.
 
-    Beispiel:
+    3.  Berechnung der Rückstellung für das Krankentagegeld bei den
+        Krankengeldzuschußkassen, die nach dem "Nürnberger System" arbeiten
 
-    Es sei T = 10 Millionen Tage, K = 4 Millionen Tage. Bei einem
-    Ausnutzungsgrad von g = 60 vom Hundert ist die Zahl der Tage (N), für
-    welche die x (=43) Jahre alten Versicherten bis zum Ausscheiden noch
-    Krankentagegeld beziehen können:
+        Bei Krankengeldzuschußkassen, die die Krankentagegeldversicherung nach
+        dem "Nürnberger System" (Aussteuerung nach Maximaldauer) betreiben,
+        kann die Rückstellung für das Krankentagegeld nach folgendem Verfahren
+        ermittelt werden:
 
+        Festzustellen ist:
 
-
-N = T x g - K = 2 Millionen Tage
-
-*   Bis zur Beendigung aller Versicherungen des Bestandes durch Tod oder
-    Ausscheiden bei Lebzeiten ergibt sich insgesamt bei einem
-    durchschnittlichen täglichen Krankentagegeld von M = 2 DM
+        a)  der Grad (g) der durchschnittlichen Inanspruchnahme der Anwartschaften
+            (Ausnutzungsgrad),
 
 
+        b)  die Zahl der Gesamtanwartschaftstage der Versicherten bis zum 20. Juni
+            1948 (T),
 
-R = (T x g - K) x M = 4 Millionen DM.
 
-*   Dieser Betrag kann als eine beim Tod oder Ausscheiden fällige
-    Versicherungssumme angesehen werden. Der Jetztwert (P) dieser
-    Verpflichtung ist nach der Formel
-    P = (1 - d x a'x) x R zu errechnen, wobei d = 0,033816 zu setzen und
-    bei der Berechnung von a'x der vorzeitige Abgang in der unter I,2
-    angegebenen Form zu berücksichtigen ist. Liegt das durchschnittliche
-    Abgangsalter ungefähr fest (z.B. x'= 57 Jahre), so kann der Jetztwert
-    (P) der Verpflichtung auch ohne Berücksichtigung der
-    versicherungstechnischen Grundlagen durch Diskontierung mit dem
-    Zinssatz von 3 1/2 vom Hundert ermittelt werden. In dem angegebenen
-    Beispiel würde der Jetztwert in diesem Fall rund 2.470.000 DM
-    betragen.
+        c)  die Zahl der Tage, für die bis zum 20. Juni 1948 bereits
+            Krankentagegeld bezogen worden ist (K),
+
+
+        d)  das Durchschnittsalter des Bestandes am 20. Juni 1948 (x),
+
+
+        e)  das durchschnittliche tägliche Krankengeld (M).
+
+
+
+
+        Die benötigten Zahlen können notfalls schätzungsweise an Hand von
+        Teiluntersuchungen ermittelt werden. Das gewählte Verfahren ist zu
+        begründen.
+
+        Beispiel:
+
+        Es sei T = 10 Millionen Tage, K = 4 Millionen Tage. Bei einem
+        Ausnutzungsgrad von g = 60 vom Hundert ist die Zahl der Tage (N), für
+        welche die x (=43) Jahre alten Versicherten bis zum Ausscheiden noch
+        Krankentagegeld beziehen können:
+
+        *            *   N = T ∙ g — K = 2 Millionen Tage
+
+
+
+        Bis zur Beendigung aller Versicherungen des Bestandes durch Tod oder
+        Ausscheiden bei Lebzeiten ergibt sich insgesamt bei einem
+        durchschnittlichen täglichen Krankentagegeld von M = 2 DM
+
+        *            *   R = (T ∙ g — K) ∙ M = 4 Millionen DM.
+
+
+
+        Dieser Betrag kann als eine beim Tod oder Ausscheiden fällige
+        Versicherungssumme angesehen werden. Der Jetztwert (P) dieser
+        Verpflichtung ist nach der Formel
+        P = (1 — d ∙ a'x) ∙ R                          zu errechnen, wobei d =
+        0,033816 zu setzen und bei der Berechnung von a'x der vorzeitige
+        Abgang in der unter I,2 angegebenen Form zu berücksichtigen ist. Liegt
+        das durchschnittliche Abgangsalter ungefähr fest (z.B. x'= 57 Jahre),
+        so kann der Jetztwert (P) der Verpflichtung auch ohne Berücksichtigung
+        der versicherungstechnischen Grundlagen durch Diskontierung mit dem
+        Zinssatz von 3 1/2 vom Hundert ermittelt werden. In dem angegebenen
+        Beispiel würde der Jetztwert in diesem Fall rund 2 470 000 DM
+        betragen.
+
+
 
 
 
 IV. Schlußbemerkungen
-1\. Den so errechneten technischen Rückstellungen sind die im
-Reichsmarkabschluß zum 20. Juni 1948 ausgewiesenen entsprechenden
-Rückstellungen gegenüberzustellen. Sind die Rückstellungen, die nach
-den für die Dotierung bisher maßgebenden Grundsätzen im
-Reichsmarkabschluß einzusetzen gewesen wären, geringer als die nach I
-bis III errechneten Rückstellungen, so können die aus der
-Rückgängigmachung von Abschreibungen und der Auflösung freier
-Rücklagen oder überdotierter technischer Reserven, Rückstellungen und
-Wertberichtigungen gewonnenen Beträge zur Auffüllung unzulänglicher
-Rückstellungen im Reichsmarkabschluß verwendet werden. In die
-Umstellungsrechnung ist stets der niedrigere der beiden Werte (nach I
-bis III errechneter Betrag oder im Reichsmarkabschluß zum 20. Juni
-1948 ausgewiesener Betrag der technischen Rückstellungen) einzusetzen.
-Bei der Deckungsrückstellung für das unselbständige Sterbegeld ist
-dabei zu beachten, daß in die Umstellungsrechnung nur ein Zehntel der
-für den Reichsmarkabschluß berechneten Deckungsrückstellung eingesetzt
-werden darf.
-2\. Ist eine im Reichsmarkabschluß ausgewiesene Rückstellung höher als
-die berechnete, so ist der sich im Reichsmarkabschluß zwischen der
-bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende
-Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf
-auszuweisen.
+
+    1.  Den so errechneten technischen Rückstellungen sind die im
+        Reichsmarkabschluß zum 20. Juni 1948 ausgewiesenen entsprechenden
+        Rückstellungen gegenüberzustellen. Sind die Rückstellungen, die nach
+        den für die Dotierung bisher maßgebenden Grundsätzen im
+        Reichsmarkabschluß einzusetzen gewesen wären, geringer als die nach I
+        bis III errechneten Rückstellungen, so können die aus der
+        Rückgängigmachung von Abschreibungen und der Auflösung freier
+        Rücklagen oder überdotierter technischer Reserven, Rückstellungen und
+        Wertberichtigungen gewonnenen Beträge zur Auffüllung unzulänglicher
+        Rückstellungen im Reichsmarkabschluß verwendet werden. In die
+        Umstellungsrechnung ist stets der niedrigere der beiden Werte (nach I
+        bis III errechneter Betrag oder im Reichsmarkabschluß zum 20. Juni
+        1948 ausgewiesener Betrag der technischen Rückstellungen) einzusetzen.
+        Bei der Deckungsrückstellung für das unselbständige Sterbegeld ist
+        dabei zu beachten, daß in die Umstellungsrechnung nur ein Zehntel der
+        für den Reichsmarkabschluß berechneten Deckungsrückstellung eingesetzt
+        werden darf.
+
+
+    2.  Ist eine im Reichsmarkabschluß ausgewiesene Rückstellung höher als die
+        berechnete, so ist der sich im Reichsmarkabschluß zwischen der
+        bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende
+        Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf
+        auszuweisen.
+
+
+
+
+
+
 
 
 #### Anhang 1 Normierte Kopfschäden

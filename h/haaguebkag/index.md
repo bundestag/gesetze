@@ -18,8 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 3105
 
-Geändert durch
-:   Art. 3 G v. 10.12.2008 I 2399
+Zuletzt geändert durch
+:   Art. 3 G v. 11.6.2017 I 1607
 
 
 
@@ -108,7 +108,15 @@ Landesjustizverwaltungen übertragen.
 ### § 8
 
 Für die Erledigung von Rechtshilfeersuchen ist das Amtsgericht
-zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist.
+zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist. Die
+Landesregierungen werden ermächtigt, diese Zuständigkeit durch
+Rechtsverordnung einem anderen Amtsgericht des
+Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
+Oberlandesgerichte errichtet sind, einem Amtsgerichtsbezirk für die
+Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
+Zuweisung kann auch nur für einzelne Arten der Beweisaufnahme
+erfolgen. Die Landesregierungen können diese Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 9
@@ -168,8 +176,8 @@ Verfahrensrechts nicht entgegenstehen, solche Ersuchen unter
 Berücksichtigung der schutzwürdigen Interessen der Betroffenen
 erledigt werden, nachdem die Voraussetzungen der Erledigung und das
 anzuwendende Verfahren durch Rechtsverordnung näher geregelt sind, die
-der Bundesminister der Justiz mit Zustimmung des Bundesrates erlassen
-kann.
+der Bundesminister der Justiz und für Verbraucherschutz mit Zustimmung
+des Bundesrates erlassen kann.
 
 
 ## Dritter Teil - Sonstige Bestimmungen
@@ -178,15 +186,15 @@ kann.
 
 ### § 15
 
-Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung,
-die der Zustimmung des Bundesrates bedarf, die nach den §§ 1 und 7
-dieses Gesetzes errichteten Zentralen Behörden als die Stellen zu
-bestimmen, die gemäß den §§ 1 und 3 Abs. 2 des Gesetzes vom 5. April
-1909 zur Ausführung des Haager Abkommens über den Zivilprozeß vom 17.
-Juli 1905 (RGBl. 1909 S. 430) und gemäß den §§ 1 und 9 des Gesetzes
-zur Ausführung des Haager Übereinkommens vom 1. März 1954 über den
-Zivilprozeß zur Entgegennahme von Anträgen und Ersuchen des Konsuls
-eines ausländischen Staates zuständig sind.
+Der Bundesminister der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, die nach den §§ 1 und 7 dieses Gesetzes errichteten Zentralen
+Behörden als die Stellen zu bestimmen, die gemäß den §§ 1 und 3 Abs. 2
+des Gesetzes vom 5. April 1909 zur Ausführung des Haager Abkommens
+über den Zivilprozeß vom 17. Juli 1905 (RGBl. 1909 S. 430) und gemäß
+den §§ 1 und 9 des Gesetzes zur Ausführung des Haager Übereinkommens
+vom 1. März 1954 über den Zivilprozeß zur Entgegennahme von Anträgen
+und Ersuchen des Konsuls eines ausländischen Staates zuständig sind.
 
 
 ### § 16

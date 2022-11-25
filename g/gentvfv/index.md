@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1996 I 1657;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.4.2008 I 766
+:   Art. 3 V v. 12.8.2019 I 1235
 
 Diese Verordnung dient der Umsetzung der Richtlinie 97/35/EG der
 Kommission
@@ -218,12 +218,12 @@ taxonomischen Gruppe der Gymnospermen oder der Angiospermen gehören
 
 1.  der Nachweis der nach § 15 Abs. 1 Satz 2 in Verbindung mit § 10 Abs. 2
     Satz 2 Nr. 2 des Gentechnikgesetzes erforderlichen Sachkunde des
-    Projektleiters erfolgt nach § 15 der Gentechnik-Sicherheitsverordnung;
+    Projektleiters erfolgt nach § 28 der Gentechnik-Sicherheitsverordnung;
 
 
 2.  der Nachweis der nach § 15 Abs. 1 Satz 2 in Verbindung mit § 10 Abs. 2
     Satz 2 Nr. 3 des Gentechnikgesetzes erforderlichen Sachkunde des oder
-    der Beauftragten für die Biologische Sicherheit erfolgt nach § 17 der
+    der Beauftragten für die Biologische Sicherheit erfolgt nach § 30 der
     Gentechnik-Sicherheitsverordnung;
 
 
@@ -244,12 +244,7 @@ taxonomischen Gruppe der Gymnospermen oder der Angiospermen gehören
 4.  die nach § 15 Abs. 1 Satz 2 Nr. 4 des Gentechnikgesetzes erforderliche
     Risikobewertung nach § 6 Abs. 1 des Gentechnikgesetzes und die
     Darlegung der vorgesehenen Sicherheitsvorkehrungen erfolgt nach
-    Maßgabe des Anhangs II der Richtlinie 2001/18/EG sowie der
-    Entscheidung der Kommission vom 24. Juli 2002 über Leitlinien zur
-    Ergänzung des Anhangs II der Richtlinie 2001/18/EG des Europäischen
-    Parlaments und des Rates über die absichtliche Freisetzung genetisch
-    veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie
-    90/220/EWG des Rates (ABl. EG Nr. L 200 S. 22) auf der Grundlage der
+    Maßgabe des Anhangs II der Richtlinie 2001/18/EG auf der Grundlage der
     nach Anhang III A Nr. II bis IV der Richtlinie 2001/18/EG
     vorzulegenden Informationen;
 
@@ -307,13 +302,9 @@ Inverkehrbringens gilt:
 
 3.  die nach § 15 Abs. 3 Satz 3 Nr. 4 des Gentechnikgesetzes erforderliche
     Risikobewertung und Darlegung der möglichen schädlichen Auswirkungen
-    erfolgt nach Maßgabe des Anhangs II der Richtlinie 2001/18/EG sowie
-    der Entscheidung der Kommission vom 24. Juli 2002 über Leitlinien zur
-    Ergänzung des Anhangs II der Richtlinie 2001/18/EG des Europäischen
-    Parlaments und des Rates über die absichtliche Freisetzung genetisch
-    veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie
-    90/220/EWG des Rates (ABl. EG Nr. L 200 S. 22) auf der Grundlage der
-    nach Anhang IV der Richtlinie 2001/18/EG vorzulegenden Informationen;
+    erfolgt nach Maßgabe des Anhangs II der Richtlinie 2001/18/EG auf der
+    Grundlage der nach Anhang IV der Richtlinie 2001/18/EG vorzulegenden
+    Informationen;
 
 
 4.  die nach § 15 Abs. 3 Satz 3 Nr. 5 des Gentechnikgesetzes erforderliche

@@ -19,7 +19,13 @@ Neugefasst durch
 :   Bek. v. 30.6.2003 I 1255;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.3.2011 I 519
+:   Art. 15 V v. 5.7.2017 I 2272
+
+Änderung durch
+:   Art. 7 V v. 2.6.2021 I 1362 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 V v. 11.10.2021 I 4683 (Nr. 74) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Spirituosen
@@ -29,44 +35,36 @@ Zuletzt geändert durch
 ### § 1 Weinbrand oder Brandy
 
 (1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im
-Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr. 110/2008 des
+Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des
 Europäischen Parlaments und des Rates vom 15. Januar 2008 zur
 Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von
 Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und
-zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. EU Nr. L 39 S.
-16) dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen
-Stoffe hinaus nur folgende Stoffe verwendet werden:
+zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. L 39 vom
+13\.2.2008, S. 16) dürfen im Einklang mit Anhang II Nummer 5 Buchstabe
+d Satz 2 der Verordnung (EG) Nr. 110/2008 zur Abrundung der
+Geschmacks- und Geruchsmerkmale Auszüge verwendet werden. Diese
+Auszüge werden
 
-1.  zur Abrundung der Geschmacks- und Geruchsmerkmale Auszüge, die
-
-    a)  durch Lagerung von Weindestillat auf Eichenholz oder Eichenholzspänen
-        oder
-
-
-    b)  durch Lagerung von Weindestillat auf getrockneten Pflaumen, grünen
-        (unreifen) Walnüssen, auch getrocknet, oder getrockneten
-        Mandelschalen, auch geröstet,
+1.  durch Lagerung von Weindestillat auf Eichenholz oder Eichenholzspänen
+    oder
 
 
-
-
-    hergestellt wurden, wobei das zur Herstellung verwendete Weindestillat
-    zu weniger als 94,8 Volumenprozent destilliert worden sein muss,
-
-
-2.  die nach Maßgabe der Zusatzstoff-Zulassungsverordnung zugelassenen
-    Zusatzstoffe.
+2.  durch Lagerung von Weindestillat auf getrockneten Pflaumen, grünen
+    (unreifen) Walnüssen, auch getrocknet, oder getrockneten
+    Mandelschalen, auch geröstet, hergestellt,
 
 
 
-Die in Anhang I Nr. 3 der Verordnung (EG) Nr. 110/2008 aufgeführten
-Erzeugnisse können auch karamelisiert sein.
+wobei das zur Herstellung verwendete Weindestillat zu weniger als 94,8
+Volumenprozent destilliert worden sein muss. Die in Anhang I Nummer 3
+der Verordnung (EG) Nr. 110/2008 aufgeführten Erzeugnisse können auch
+karamellisiert sein.
 
-(2) Die Auszüge nach Absatz 1 Nr. 1 müssen auf kaltem Wege hergestellt
-werden; dabei dürfen die aus ihren Rückständen gewonnenen Destillate
-verwendet werden.
+(2) Die Auszüge nach Absatz 1 Satz 2 müssen auf kaltem Wege
+hergestellt werden; dabei dürfen die aus ihren Rückständen gewonnenen
+Destillate verwendet werden.
 
-(3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Nr. 1 in
+(3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Satz 2 in
 Verbindung mit Absatz 2 zulässige Stoffe verwendet worden sind, darf
 gewerbsmäßig nicht in den Verkehr gebracht werden.
 
@@ -83,12 +81,12 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 2.  die zur Herstellung verwendeten Weintrauben ausschließlich von
     Rebsorten stammen, die von einem Mitgliedstaat der Europäischen Union
-    nach Artikel 120a Absatz 1 und 2 der Verordnung (EG) Nr. 1234/2007 des
-    Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der
-    Agrarmärkte und mit Sondervorschriften für bestimmte
-    landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO)
-    (ABl. L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung,
-    klassifiziert wurden,
+    nach Artikel 81 Absatz 1 und 2 der Verordnung (EU) Nr. 1308/2013 des
+    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine
+    gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
+    zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+    (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+    S. 671) in der jeweils geltenden Fassung, klassifiziert wurden,
 
 
 3.  das Erzeugnis ausschließlich durch Destillieren zu weniger als 86
@@ -100,7 +98,7 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 
 4.  das gesamte verwendete Weindestillat mindestens zwölf Monate in
-    Eichenholzfässern mit einem Füllungsvermögen von höchstens 1.000
+    Eichenholzfässern mit einem Füllungsvermögen von höchstens 1 000
     Litern gereift ist,
 
 
@@ -112,7 +110,7 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 
 6.  zur Abrundung der Geruchs- und Geschmacksmerkmale nur nach Maßgabe des
-    § 1 Abs. 1 Nr. 1 hergestellte Auszüge aus den dort in Buchstabe b
+    § 1 Absatz 1 Satz 2 hergestellte Auszüge aus den dort in Nummer 2
     genannten Stoffen verwendet worden sind,
 
 
@@ -336,159 +334,57 @@ deren Herstellung entgegen Absatz 2 Zucker verwendet worden ist,
 dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
 
-### § 9 Spirituosen mit geographischen Angaben
+### § 9 Spirituosen mit geografischen Bezugnahmen
 
-(1) Die in Anlage 4 aufgeführten Spirituosen dürfen gewerbsmäßig unter
-den dort in Spalte 2 aufgeführten Verkehrsbezeichnungen nur in den
-Verkehr gebracht werden, wenn sie zusätzlich zu den für ihre
-Produktkategorie in Anhang II der Verordnung (EG) Nr. 110/2008
-genannten Anforderungen die in Spalte 3 festgesetzten Voraussetzungen
-erfüllen.
+(1) Spirituosen dürfen gewerbsmäßig nach Maßgabe des Artikels 10
+Absatz 6 Buchstabe a der Verordnung (EU) 2019/787 des Europäischen
+Parlaments und des Rates vom 17. April 2019 über die
+Begriffsbestimmung, Bezeichnung, Aufmachung und Kennzeichnung von
+Spirituosen, die Verwendung der Bezeichnungen von Spirituosen bei der
+Aufmachung und Kennzeichnung von anderen Lebensmitteln, den Schutz
+geografischer Angaben für Spirituosen und die Verwendung von
+Ethylalkohol und Destillaten landwirtschaftlichen Ursprungs in
+alkoholischen Getränken sowie zur Aufhebung der Verordnung (EG) Nr.
+110/2008 (ABl. L 130 vom 17.05.2019, S. 1; L 289 vom 12.8.2021, S. 4)
+mit einer geografischen Bezugnahme nur in den Verkehr gebracht werden,
+sofern es sich bei dieser geografischen Bezugnahme um die Angabe eines
+Herkunftsortes oder einer Herkunftsregion im Sinne des Artikels 14
+Absatz 1 der Verordnung (EU) 2019/787 handelt. Im Übrigen bestimmt
+sich die Zulässigkeit geografischer Begriffe im Sinne des Artikels 10
+Absatz 5 Buchstabe a Satz 2 der Verordnung (EU) 2019/787 nach den
+Regeln der jeweiligen Produktspezifikation.
 
-(2) Ferner dürfen Spirituosen gewerbsmäßig nach Maßgabe des Artikels 9
-Absatz 5 der Verordnung (EG) Nr. 110/2008 unter Verwendung des Namens
-einer anderen geografischen Angabe als einer in Anhang III der
-Verordnung (EG) Nr. 110/2008 eingetragenen geografischen Angabe in
-Verkehr gebracht werden, sofern es sich bei dieser geografischen
-Angabe auch um eine geografische Angabe im Sinne des Artikels 15
-Absatz 1 der Verordnung (EG) Nr. 110/2008 handelt.
+(2) Soweit ein Obstbrand im Sinne des Anhangs I Kategorie 9 der
+Verordnung (EU) 2019/787 oder ein Geist im Sinne des Anhangs I
+Kategorie 17 der Verordnung (EU) 2019/787 in einer Region oder in
+einem Ort hergestellt wird, die oder der zu einem im Rahmen einer
+Produktspezifikation nach Artikel 22 Absatz 1 Unterabsatz 1 Buchstabe
+d der Verordnung (EU) 2019/787 abgegrenzten geografischen Gebiet
+gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur
+rechtlich vorgeschriebenen Bezeichnung nach Anhang I Kategorie 9 oder
+Kategorie 17 der Verordnung (EU) 2019/787 verwendet werden, wenn
+dieser Obstbrand oder Geist zusätzlich zu den Anforderungen der
+Spirituosenkategorie nach Anhang I der Verordnung (EU) 2019/787
+folgende Bedingungen erfüllt:
 
-(3) Soweit ein Obstbrand im Sinne des Anhangs II Nummer 9 der
-Verordnung (EG) Nr. 110/2008 oder ein Geist im Sinne
-des Anhangs II              Nummer 17 der Verordnung (EG) Nr. 110/2008
-in einer Region oder in einem Ort hergestellt wird, die oder der zu
-einem in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 genannten
-Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend
-zur Verkehrsbezeichnung nach Anhang II Nummer 9 Buchstabe f oder g
-oder Nummer 17 der Verordnung (EG) Nr. 110/2008 verwendet werden, wenn
-zusätzlich zu den Anforderungen an die Produktkategorie nach Anhang II
-der Verordnung (EG) Nr. 110/2008 der Obstbrand oder Geist in der
-jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt
-ist, die aus der jeweiligen Region oder dem jeweiligen Ort stammen,
-und den in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3
-festgesetzten Mindestalkoholgehalt aufweist.
-
-
-### § 9a Korn oder Kornbrand
-
-(1) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG)
-Nr. 110/2008 darf unter der in Anhang III Nr. 3 der Verordnung (EG)
-Nr. 110/2008 aufgeführten Verkehrsbezeichnung
-"Korn              oder
-Kornbrand"              gewerbsmäßig nur in den Verkehr gebracht
-werden, wenn
-
-1.  die Herstellung, einschließlich die des Destillates, und die
-    Herabsetzung auf Trinkstärke mit Wasser im Inland, in Österreich oder
-    in der Deutschsprachigen Gemeinschaft Belgiens erfolgt sind,
+1.  er ist in der jeweiligen Region oder dem jeweiligen Ort aus Früchten
+    hergestellt, die aus der jeweiligen Region oder dem jeweiligen Ort
+    stammen und
 
 
-2.  das Destillat
-
-    a)  ausschließlich durch Destillieren von vergorener Maische aus dem
-        vollen Korn von Weizen, Gerste, Hafer, Roggen oder Buchweizen mit
-        allen seinen Bestandteilen oder
-
-
-    b)  durch erneutes Destillieren eines nach Buchstabe a hergestellten
-        Destillates
+2.  er weist den gegenüber den Erzeugnissen mit einer Gattungsbezeichnung
+    höheren Mindestalkoholgehalt auf, sofern ein solcher höherer
+    Mindestalkoholgehalt in der jeweiligen Produktspezifikation des
+    Erzeugnisses mit einer eingetragenen geografischen Angabe, in dessen
+    abgegrenztem geografischen Gebiet die Region oder der Ort, die oder
+    der in der geografischen Bezugnahme genannt wird, liegt, festgesetzt
+    worden ist.
 
 
 
-    hergestellt worden ist,
 
 
-3.  dem Erzeugnis keine Lebensmittel-Zusatzstoffe zugesetzt worden sind
-    und
-
-
-4.  der Alkoholgehalt der fertigen Spirituose
-
-    a)  im Falle von „Korn“ mindestens 32 Volumenprozent,
-
-
-    b)  im Falle von „Kornbrand“ mindestens 37,5 Volumenprozent
-
-
-
-    beträgt.
-
-
-
-Satz 1 Nr. 2 bis 4 gilt nicht für eine in Österreich oder in der
-Deutschsprachigen Gemeinschaft Belgiens hergestellte und dort
-abgefüllte Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung
-(EG) Nr. 110/2008.
-
-(2) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG)
-Nr. 110/2008 darf unter der im Anhang III Nr. 3 der Verordnung (EG)
-Nr. 110/2008 aufgeführten Verkehrsbezeichnung
-"Münsterländer Korn"             ,
-"Münsterländer Kornbrand"             ,
-"Sendenhorster Korn"             ,
-"Sendenhorster Kornbrand"             ,
-"Bergischer Korn"             ,
-"Bergischer Kornbrand"             ,
-"Emsländer Korn"             ,
-"Emsländer Kornbrand"             ,
-"Haselünner Korn"             ,
-"Haselünner Kornbrand"             ,
-"Hasetaler Korn"              oder
-"Hasetaler Kornbrand"              gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn
-
-1.  das Destillat
-
-    a)  ausschließlich durch Destillieren von vergorener Maische aus dem
-        vollen Korn von Weizen, Gerste, Hafer, Roggen oder Buchweizen mit
-        allen seinen Bestandteilen
-
-
-
-    oder
-
-    b)  durch erneutes Destillieren eines nach Buchstabe a hergestellten
-        Destillates
-
-
-
-    hergestellt worden ist,
-
-
-2.  dem Erzeugnis keine Lebensmittel-Zusatzstoffe zugesetzt worden sind
-    und
-
-
-3.  der Alkoholgehalt der fertigen Spirituose
-
-    a)  im Falle von
-        "Münsterländer Korn"                         ,
-        "Sendenhorster Korn"                         ,
-        "Bergischem Korn"                         ,
-        "Emsländer Korn"                         ,
-        "Haselünner Korn"                          oder
-        "Hasetaler Korn"                          mindestens 32
-        Volumenprozent,
-
-
-    b)  im Falle von
-        "Münsterländer Kornbrand"                         ,
-        "Sendenhorster Kornbrand"                         ,
-        "Bergischem Kornbrand"                         ,
-        "Emsländer Kornbrand"                         ,
-        "Haselünner Kornbrand"                          oder
-        "Hasetaler Kornbrand"                          mindestens 37,5
-        Volumenprozent
-
-
-
-    beträgt und
-
-
-4.  die in Anlage 4 Spalte 3 jeweils festgelegten Voraussetzungen
-    eingehalten sind.
-
-
+### § 9a (weggefallen)
 
 
 
@@ -532,8 +428,8 @@ werden.
 der in den Absätzen 1, 2 und 3 bezeichneten Getränke nicht verwendet
 werden.
 
-(6) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
-anzuwenden.
+(6) Die Vorschriften der Lebensmittelzusatzstoff-
+Durchführungsverordnung sind anzuwenden.
 
 (7) Die in den Absätzen 1 bis 4 bezeichneten Getränke können auch
 alkoholfrei oder alkoholreduziert sein.
@@ -554,11 +450,21 @@ anzugeben. An Stelle der Namen der Früchte können auch andere
 entsprechende Bezeichnungen wie insbesondere Gattungsbezeichnungen
 verwendet werden. Bei den in § 10 Abs. 2 oder 3 genannten Getränken
 ist die Verwendung nicht aus der Gärung stammender Kohlensäure in
-Verbindung mit der Verkehrsbezeichnung kenntlich zu machen. Diese
-Angabe kann entfallen, wenn auf der Fertigpackung ein Verzeichnis der
-Zutaten im Sinne der Lebensmittel-Kennzeichnungsverordnung angegeben
-ist. Artikel 113d Absatz 1 Unterabsatz 3 der Verordnung (EG) Nr.
-1234/2007 bleibt unberührt.
+Verbindung mit der Bezeichnung des Lebensmittels kenntlich zu machen.
+Diese Angabe kann entfallen, wenn auf der Fertigpackung ein
+Verzeichnis der Zutaten im Sinne der Verordnung (EU) Nr. 1169/2011 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend
+die Information der Verbraucher über Lebensmittel und zur Änderung der
+Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des
+Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie
+87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der
+Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des
+Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und
+2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der
+Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S.
+41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der
+jeweils geltenden Fassung angegeben ist. Anhang VII Teil II Nummer 1
+Unterabsatz 6 der Verordnung (EU) Nr. 1308/2013 bleibt unberührt.
 
 (2) Soweit die in § 10 Absatz 3 bezeichneten Getränke die
 Anforderungen nach Absatz 1 erfüllen, dürfen sie als „…-Schaumwein“ in
@@ -589,8 +495,7 @@ Futtermittelgesetzbuches wird bestraft,
         Verkehrsbezeichnung „Deutscher Weinbrand“,
 
 
-    c)  entgegen § 8 Abs. 3, § 9 Absatz 1 oder § 9a Abs. 1 Satz 1 oder Abs. 2
-        eine Spirituose oder
+    c)  entgegen § 8 Absatz 3 oder § 9 Absatz 1 eine Spirituose oder
 
 
     d)  entgegen § 10 Abs. 8 oder § 11 Satz 1 ein dort genanntes Getränk
@@ -978,189 +883,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
 
 
-(zu § 9 und § 9a Abs. 2)
 
-### Anlage 4 Spirituosen mit geographischen Angaben
-
-( Fundstelle des Originaltextes: BGBl. I 2003, 1263;
-bzgl. der einzelnen Änderungen vgl. Fußnote )
-
-*    *   Lfd. Nr.
-
-    *   Verkehrsbezeichnungen
-
-    *   Voraussetzungen
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   1.
-
-    *   Schwarzwälder Kirschwasser, Schwarzwälder Himbeergeist, Schwarzwälder
-        Williamsbirne, Schwarzwälder Mirabellenwasser, Schwarzwälder
-        Zwetschgenwasser
-
-    *   Herstellung im Schwarzwald aus den jeweiligen Früchten des
-        Schwarzwaldes und seines nahe gelegenen Vorlandes. Zum Gebiet
-        "Schwarzwald und sein nahe gelegenes Vorland" zählen vom
-        Regierungsbezirk Freiburg die Landkreise Breisgau-Hochschwarzwald,
-        Emmendingen, Konstanz, Lörrach, Ortenaukreis, Rottweil, Schwarzwald-
-        Baar-Kreis, Tuttlingen, Waldshut und die kreisfreien Städte Freiburg
-        und Offenburg, und vom Regierungsbezirk Karlsruhe die Landkreise Calw,
-        Enzkreis, Freudenstadt, Karlsruhe, Rastatt und die kreisfreien Städte
-        Baden-Baden und Karlsruhe. Der Alkoholgehalt der fertigen Spirituose
-        beträgt mindestens 40 Volumenprozent.
-
-
-*    *   2.
-
-    *   Fränkisches Kirschwasser, Fränkisches Zwetschgenwasser, Fränkischer
-        Obstler
-
-    *   Herstellung in Franken aus den jeweiligen Früchten von Franken. Zum
-        Gebiet "Franken" zählen die Regierungsbezirke Unter-, Mittel- und
-        Oberfranken. "Fränkischer Obstler" darf nur aus Birnen und Äpfeln
-        hergestellt werden. Der Alkoholgehalt der fertigen Spirituose beträgt
-        im Falle von
-        "Fränkischem Kirschwasser"                        und
-        "Fränkischem Zwetschgenwasser"                        mindestens 40
-        Volumenprozent und im Falle von
-        "Fränkischem Obstler"                        mindestens 38
-        Volumenprozent.
-
-
-*    *   3.
-
-    *   Bayerischer Gebirgsenzian
-
-    *   Herstellung im Freistaat Bayern aus Enzianwurzeln, angebaut in den
-        bayerischen Alpen oder dem bayerischen Alpenvorland. Der Alkoholgehalt
-        der fertigen Spirituose beträgt mindestens 38 Volumenprozent.
-
-
-*    *   4.
-
-    *   Ostfriesischer Korngenever
-
-    *   Herstellung in Ostfriesland. Zum Gebiet "Ostfriesland" zählen vom
-        Regierungsbezirk Weser-Ems die Landkreise Aurich, Leer und Wittmund
-        und die kreisfreie Stadt Emden. Der Alkoholgehalt besteht
-        ausschließlich aus Korndestillat. Der Alkoholgehalt der fertigen
-        Spirituose beträgt mindestens 38 Volumenprozent.
-
-
-*    *   5.
-
-    *   Steinhäger
-
-    *   Herstellung in Steinhagen. Bei der Weiterverarbeitung des
-        Wacholderlutters durch erneute Destillation darf nur Äthylalkohol
-        landwirtschaftlichen Ursprungs oder Korndestillat sowie Wasser
-        zugesetzt werden. Die Beigabe von anderen Zutaten mit Ausnahme einer
-        geringen Menge an Wacholderbeeren ist unzulässig. Der Alkoholgehalt
-        der fertigen Spirituose beträgt mindestens 38 Volumenprozent.
-
-
-*    *   6.
-
-    *   Berliner Kümmel, Hamburger Kümmel, Münchener Kümmel
-
-    *   Herstellung in den jeweiligen Stadtgebieten und den jeweiligen
-        Landkreisen.
-
-
-*    *   7.
-
-    *   Bayerischer Kräuterlikör
-
-    *   Herstellung im Freistaat Bayern.
-
-
-*    *   8.
-
-    *   Benediktbeurer Klosterlikör
-
-    *   Herstellung in Benediktbeuren nach Maßgabe der dortigen Praxis.
-
-
-*    *   9.
-
-    *   Chiemseer Klosterlikör
-
-    *   Herstellung auf der Insel Frauen-Chiemsee nach Maßgabe der dortigen
-        Praxis.
-
-
-*    *   10.
-
-    *   Ettaler Klosterlikör
-
-    *   Herstellung in Ettal nach Maßgabe der dortigen Praxis.
-
-
-*    *   11.
-
-    *   Münsterländer Korn, Münsterländer Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser im Regierungsbezirk Münster
-
-
-*    *   12.
-
-    *   Sendenhorster Korn, Sendenhorster Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser in Sendenhorst
-
-
-*    *   13.
-
-    *   Bergischer Korn, Bergischer Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser im Bergischen Land. Zum Gebiet „Bergisches
-        Land“ zählen vom Landkreis Oberbergischer Kreis die Gemeinden
-        Bergneustadt, Engelskirchen, Gummersbach, Hückeswagen, Lindlar,
-        Marienheide, Morsbach, Nümbrecht, Radevormwald, Reichshof, Waldbröl,
-        Wiehl, Wipperfürth; vom Rheinisch-Bergischen Kreis die Gemeinden
-        Bergisch-Gladbach, Burscheid, Kürten, Leichlingen, Odenthal, Overath,
-        Rösrath, Wermelskirchen; vom Rhein-Sieg-Kreis die Gemeinden Eitorf,
-        Hennef, Lohmar, Much, Neunkirchen-Seelscheid, Ruppichteroth, Windeck;
-        vom Kreis Mettmann die Gemeinden Erkrath, Haan, Heiligenhaus, Hilden,
-        Langenfeld, Mettmann, Monheim, Ratingen, Velbert, Wülfrath; die
-        kreisfreien Städte Wuppertal, Remscheid, Solingen und Leverkusen sowie
-        von der kreisfreien Stadt Köln die Stadtbezirke Mülheim, Kalk, Porz
-
-
-*    *   14.
-
-    *   Emsländer Korn, Emsländer Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser im Landkreis Emsland
-
-
-*    *   15.
-
-    *   Haselünner Korn, Haselünner Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser in Haselünne
-
-
-*    *   16.
-
-    *   Hasetaler Korn, Hasetaler Kornbrand
-
-    *   Herstellung, einschließlich die des Destillates, und die Herabsetzung
-        auf Trinkstärke mit Wasser im Gebiet des Zweckverbandes Hasetal
-
-
-
+### Anlage 4 (weggefallen)
 

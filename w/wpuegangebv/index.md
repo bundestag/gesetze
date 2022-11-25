@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 4263
 
 Zuletzt geändert durch
-:   Art. 17 G v. 6.12.2011 I 2481
+:   Art. 8 Abs. 8 G v. 8.7.2019 I 1002
 
 
 ## Eingangsformel
@@ -56,21 +56,24 @@ aufzunehmen:
     der Gesellschaften zum Bieter und zur Zielgesellschaft;
 
 
-2.  Angaben nach § 7 des Wertpapierprospektgesetzes in Verbindung mit der
-    Verordnung (EG) Nr. 809/2004 der Kommission vom 29. April 2004 zur
-    Umsetzung der Richtlinie 2003/71/EG des Europäischen Parlaments und
-    des Rates betreffend die in Prospekten enthaltenen Angaben sowie die
-    Aufmachung, die Aufnahme eines Verweises und die Veröffentlichung
-    solcher Prospekte und die Verbreitung von Werbung (ABl. EU Nr. L 149
-    S. 1, Nr. L 215 S. 3), sofern Wertpapiere als Gegenleistung angeboten
-    werden; wurde für die Wertpapiere vor Veröffentlichung der
-    Angebotsunterlage ein Prospekt, auf Grund dessen die Wertpapiere
-    öffentlich angeboten oder zum Handel an einem organisierten Markt
-    zugelassen worden sind, im Inland in deutscher Sprache veröffentlicht
-    und ist für die als Gegenleistung angebotenen Wertpapiere während der
-    gesamten Laufzeit des Angebots ein gültiger Prospekt veröffentlicht,
-    genügt die Angabe, dass ein Prospekt veröffentlicht wurde und wo
-    dieser jeweils erhältlich ist;
+2.  Angaben nach Artikel 13 Absatz 1, Artikel 14 Absatz 1 und 2 oder
+    Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in Verbindung mit
+    den jeweiligen Vorgaben in den Kapiteln II bis IV der Delegierten
+    Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur
+    Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments
+    und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung
+    und der Billigung des Prospekts, der beim öffentlichen Angebot von
+    Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten
+    Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG)
+    Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26), sofern
+    Wertpapiere als Gegenleistung angeboten werden; wurde für die
+    Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt,
+    auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel
+    an einem organisierten Markt zugelassen worden sind, im Inland in
+    deutscher Sprache veröffentlicht und ist für die als Gegenleistung
+    angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein
+    gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt
+    veröffentlicht wurde und wo dieser jeweils erhältlich ist;
 
 
 2a. Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der
@@ -115,7 +118,7 @@ aufzunehmen:
     sowie die Höhe der von diesen gehaltenen Stimmrechtsanteile unter
     Angabe der ihnen jeweils nach § 30 des Wertpapiererwerbs- und
     Übernahmegesetzes zuzurechnenden Stimmrechtsanteile getrennt für jeden
-    Zurechnungstatbestand sowie die Höhe der nach den §§ 25 und 25a des
+    Zurechnungstatbestand sowie die Höhe der nach den §§ 38 und 39 des
     Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile;
 
 
@@ -133,6 +136,15 @@ aufzunehmen:
     des Wertpapiererwerbs- und Übernahmegesetzes erfolgte; dem Erwerb
     gleichgestellt sind Vereinbarungen, auf Grund derer die Übereignung
     der Wertpapiere verlangt werden kann;
+
+
+7a. bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes
+    Angaben zu dem bevorstehenden Antrag der Zielgesellschaft auf einen
+    Widerruf der Zulassung der betroffenen Wertpapiere zum Handel im
+    regulierten Markt; die Angaben müssen einen ausdrücklichen Hinweis auf
+    mögliche Einschränkungen der Handelbarkeit der betroffenen Wertpapiere
+    als Folge des Widerrufs und die damit einhergehende Möglichkeit von
+    Kursverlusten enthalten;
 
 
 8.  Angaben zum Erfordernis und Stand behördlicher, insbesondere
@@ -209,8 +221,15 @@ entsprechen.
 
 (3) Der gewichtete durchschnittliche inländische Börsenkurs ist der
 nach Umsätzen gewichtete Durchschnittskurs der der Bundesanstalt für
-Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 9 des
-Wertpapierhandelsgesetzes als börslich gemeldeten Geschäfte.
+Finanzdienstleistungsaufsicht (Bundesanstalt) nach Artikel 26 der
+Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates
+vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung
+der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6
+vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4), die zuletzt durch
+die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1)
+geändert worden ist, oder von einer zentralen Gegenpartei nach § 22
+Absatz 3 des Wertpapierhandelsgesetzes als an einem organisierten
+Markt getätigt gemeldeten oder übermittelten Geschäfte.
 
 (4) Sind für die Aktien der Zielgesellschaft während der letzten drei
 Monate vor der Veröffentlichung nach § 10 Abs. 1 Satz 1 oder § 35 Abs.
@@ -381,6 +400,15 @@ Bundesanstalt den Antragsteller unverzüglich aufzufordern, den Antrag
 oder die Unterlagen innerhalb einer angemessenen Frist zu ergänzen.
 Wird der Aufforderung innerhalb der von der Bundesanstalt gesetzten
 Frist nicht entsprochen, gilt der Antrag als zurückgenommen.
+
+
+### § 12a Übergangsvorschriften
+
+Soweit der nach § 5 oder der nach § 39 Absatz 3 des Börsengesetzes
+maßgebliche Zeitraum teilweise oder vollständig in die Zeit vor dem 3.
+Januar 2018 fällt, sind für diesen Zeitraum die nach § 9 des
+Wertpapierhandelsgesetzes in der bis zum 2. Januar 2018 geltenden
+Fassung als börslich gemeldeten Geschäfte zu berücksichtigen.
 
 
 ## Fünfter Abschnitt - Schlussvorschrift

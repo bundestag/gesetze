@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1591
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 9 V v. 12.2.2009 I 320
+:   Art. 2 V v. 25.8.2021 I 4058, 4456
 
 
 ## Eingangsformel
@@ -98,6 +98,13 @@ und Amtsbezeichnungen:
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
 
+### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
+
+Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
+Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
+Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
+
+
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -173,6 +180,9 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 
+Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung
+seiner Aufgaben erheblichen Bedarf sieht, als weitere Ersatzsprachen
+für Französisch zulassen.
 
 
 ### § 5 Ausschreibung, Bewerbung
@@ -248,6 +258,11 @@ und Berater sowie Fach- und Sprachprüfende hinzuziehen. Das Auswärtige
 Amt kann ein Vorverfahren durchführen. Einzelheiten regelt das
 Auswärtige Amt.
 
+(2a) Bis zum 31. Dezember 2022 kann für die Durchführung des
+mündlichen Teils des Auswahlverfahrens Videokonferenztechnik genutzt
+werden, wenn dafür geeignete technische Einrichtungen zur Verfügung
+stehen.
+
 (3) Zum schriftlichen Auswahlverfahren werden alle Bewerberinnen und
 Bewerber zugelassen, die nach den eingereichten Unterlagen die
 Einstellungsvoraussetzungen gemäß § 4 erfüllen, sofern nicht ein
@@ -277,12 +292,12 @@ unabhängig und an Weisungen nicht gebunden. Mitglieder sind
 1.  die Leiterin oder der Leiter der Akademie Auswärtiger Dienst,
 
 
-2.  die Leiterin oder der Leiter des Personalreferats für den gehobenen
-    Auswärtigen Dienst,
+2.  die Leiterin oder der Leiter des für die Personalentwicklung und
+    -planung des gehobenen Dienstes zuständigen Referats,
 
 
 3.  die Ausbildungsleiterin oder der Ausbildungsleiter für den gehobenen
-    Dienst,
+    Auswärtigen Dienst sowie
 
 
 4.  zwei von der Leiterin oder dem Leiter der Zentralabteilung des
@@ -305,11 +320,28 @@ Vorsitzende des Auswahlausschusses wird vertreten durch:
 
 
 2.  die Leiterin oder den Leiter des Personalreferats für den gehobenen
-    Auswärtigen Dienst und
+    Dienst und
 
 
 3.  die Ausbildungsleiterin oder den Ausbildungsleiter für den gehobenen
-    Dienst.
+    Auswärtigen Dienst,
+
+
+4.  die Leiterin oder den Leiter des für die Personalentwicklung und
+    -planung des höheren Dienstes zuständigen Referats,
+
+
+5.  die stellvertretende Leiterin oder den stellvertretenden Leiter des
+    für die Personalentwicklung und -planung des gehobenen Dienstes
+    zuständigen Referats,
+
+
+6.  die Ausbildungsleiterin oder den Ausbildungsleiter für den höheren
+    Auswärtigen Dienst oder
+
+
+7.  die Ausbildungsleiterin oder den Ausbildungsleiter für den mittleren
+    Auswärtigen Dienst.
 
 
 
@@ -321,6 +353,10 @@ entscheidet mit Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
+(7a) Das Auswärtige Amt kann festlegen, dass bis zum 31. Dezember 2022
+der Auswahlausschuss schon dann beschlussfähig ist, wenn die oder der
+Vorsitzende und ein weiteres Mitglied anwesend sind.
+
 (8) Je ein Mitglied des Personalrats und der
 Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des
 Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
@@ -329,6 +365,13 @@ Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und
 Bewerber fest. Sind mehrere Auswahlausschüsse eingerichtet, wird eine
 Rangfolge aller Bewerberinnen und Bewerber festgelegt.
+
+(10) Im Falle einer erfolglosen Teilnahme am mündlichen
+Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für
+das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig.
+In begründeten Einzelfällen kann der Auswahlausschuss eine frühere
+oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung
+ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst
@@ -435,7 +478,7 @@ Berufspraktische Studienzeiten bestehen aus Praktika und
 praxisbezogenen Lehrveranstaltungen.
 
 (2) Die Lehrveranstaltungen der Fachstudien und die praxisbezogenen
-Lehrveranstaltungen betragen zusammen mindestens 2.200 Lehrstunden.
+Lehrveranstaltungen betragen zusammen mindestens 2 200 Lehrstunden.
 
 (3) Die Ausbildung wird in folgenden Abschnitten durchgeführt:
 
@@ -509,15 +552,33 @@ praxisbezogene Lehrveranstaltungen durchgeführt. Insbesondere können
 während des Praktikums II auf die Ausbildung im Ausland vorbereitende
 Lehrveranstaltungen sowie ein Sprachintensivkurs durchgeführt werden.
 
+(3a) Die Hochschule des Bundes für öffentliche Verwaltung (Hochschule)
+kann mit Zustimmung des Auswärtigen Amts festlegen, dass bis zum 31.
+Dezember 2022 für Lehrveranstaltungen digitale Lehrformate genutzt
+werden können.
+
+(3b) Die Hochschule kann mit Zustimmung des Auswärtigen Amts bis zum
+31\. Dezember 2022 zudem festlegen, dass die Ausbildungsabschnitte
+
+1.  in einer anderen Abfolge durchgeführt werden als nach Absatz 3 Satz 1
+    und 2 sowie
+
+
+2.  eine andere Dauer haben als nach Absatz 1 Satz 1 und Absatz 3 Satz 1
+    und 2.
+
+
+
+
 (4) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
 
-### § 11 Fachhochschule des Bundes für öffentliche Verwaltung
+### § 11 Durchführung der Fachstudien
 
-Die Fachstudien werden an der Fachhochschule des Bundes für
-öffentliche Verwaltung, Fachbereich Auswärtige Angelegenheiten,
-durchgeführt. Mit der Durchführung des Hauptstudiums I kann eine
-andere geeignete Fachhochschule beauftragt werden.
+Die Fachstudien werden an der Hochschule des Bundes für öffentliche
+Verwaltung, Fachbereich Auswärtige Angelegenheiten, durchgeführt. Mit
+der Durchführung des Hauptstudiums I kann eine andere geeignete
+Hochschule beauftragt werden.
 
 
 ### § 12 Grundsätze der Fachstudien
@@ -532,13 +593,25 @@ das Grundstudium entfallen mindestens 700 Lehrstunden, davon
 mindestens 560 Stunden auf die Studiengebiete nach § 13 Abs. 2 Nr. 1
 bis 6. Wahlpflichtfächer und Wahlfächer können angeboten werden.
 
+(2a) Die Hochschule kann bis zum 31. Dezember 2022 festlegen, dass
+
+1.  auf das Grundstudium ein anderer Mindestanteil an Lehrstunden entfällt
+    und
+
+
+2.  auf die Studiengebiete nach § 13 Absatz 2 Satz 1 Nummer 1 bis 6 ein
+    anderer Mindestanteil an Lehrstunden entfällt.
+
+
+
+
 (3) Der Studienplan bestimmt die Lernziele der Studienabschnitte sowie
 - getrennt nach Studienabschnitten - die Lernziele der Studienfächer,
 die ihnen und ihren Intensitätsstufen entsprechenden Lerninhalte, die
 Stundenzahlen und die Art der Leistungsnachweise. Auf der Grundlage
 des Studienplans werden Lehrveranstaltungspläne erstellt. Der
 Studienplan für das Hauptstudium I wird im Einvernehmen mit der nach §
-11 Satz 2 beauftragten Fachhochschule erstellt.
+11 Satz 2 beauftragten Hochschule erstellt.
 
 
 ### § 13 Grundstudium
@@ -586,6 +659,12 @@ Aufgaben des gehobenen Dienstes:
 
 
 
+(2a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 Lehrveranstaltungen oder
+Teile von Lehrveranstaltungen in einen anderen Studienabschnitt der
+Fachstudien verschoben werden. Möglich ist eine Verschiebung auch in
+ein Praktikum.
+
 
 ### § 14 Hauptstudium
 
@@ -599,6 +678,12 @@ der Praktika auf.
 vorgesehen. Dabei werden die bisher erworbenen zivilrechtlichen
 Kenntnisse und Fähigkeiten ergänzt, erweitert und vertieft sowie
 Lehrveranstaltungen im Straf- und Wirtschaftsrecht durchgeführt.
+
+(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
+Lehrveranstaltungen des Hauptstudiums I oder Teile dieser
+Lehrveranstaltungen in einen anderen Studienabschnitt der Fachstudien
+verschoben werden. Für eine Verschiebung in ein Praktikum ist die
+Zustimmung des Auswärtigen Amts erforderlich.
 
 (3) Im Hauptstudium II werden im Grundstudium (§ 13 Abs. 2) oder im
 Hauptstudium I behandelte Lerninhalte der Studiengebiete ergänzt,
@@ -661,6 +746,9 @@ Hauptstudium I gelehrt werden. Neben der praktischen Anwendung zivil-
 und verwaltungsrechtlicher Vorschriften soll den Anwärterinnen und
 Anwärtern auch die Bedeutung bürgernaher Verwaltung vermittelt werden.
 
+(3a) Bis zum 31. Dezember 2022 kann das Praktikum II teilweise in der
+Zentrale des Auswärtigen Amts durchgeführt werden.
+
 
 ### § 18 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
@@ -689,8 +777,12 @@ Ausbildungsstand.
 
 (4) Vor Beginn der Praktika erstellt die Ausbildungsleitung für jede
 Anwärterin und jeden Anwärter einen Ausbildungsplan, aus dem sich die
-Sachgebiete ergeben, in denen sie oder er ausgebildet wird; die
-Anwärterinnen und Anwärter erhalten eine Ausfertigung.
+Sachgebiete ergeben, in denen sie oder er ausgebildet wird. Der
+Ausbildungsplan ist der Anwärterin oder dem Anwärter bekannt zu geben.
+
+(5) Bis zum 31. Dezember 2022 kann das Auswärtige Amt einen bereits
+bekannt gegebenen Ausbildungsplan ändern. Die Änderung ist der
+Anwärterin oder dem Anwärter bekannt zu geben.
 
 
 ### § 19 Praxisbezogene Lehrveranstaltungen
@@ -779,6 +871,26 @@ Aufsichtsarbeiten aus den in § 29 Abs. 1 Satz 2 genannten
 Prüfungsfächern des schriftlichen Teils der Laufbahnprüfung zu
 fertigen.
 
+(4a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022
+
+1.  einige oder alle der in den Absätzen 2 bis 4 geregelten
+    Leistungsnachweise in anderen Studienabschnitten zu absolvieren sind,
+
+
+2.  einige oder alle der schriftlichen Aufsichtsarbeiten jeweils durch
+    einen anderen Leistungsnachweis ersetzt werden,
+
+
+3.  die Zahl der nach den Absätzen 2 bis 4 zu absolvierenden
+    Leistungsnachweise reduziert wird und
+
+
+4.  vollständig auf die Leistungsnachweise verzichtet wird.
+
+
+
+
 (5) Jeder Leistungsnachweis wird mindestens eine Woche vor der
 Ausführung angekündigt. Der Leistungsnachweis wird nach § 34 bewertet
 und schriftlich bestätigt; Studienabschnitt, Fach, Art des Nachweises,
@@ -823,6 +935,18 @@ abgegeben.
 zwei Leistungsnachweise zu erbringen, die nach § 34 bewertet werden. §
 20 Abs. 6 Satz 2 und 3 und Abs. 8 ist entsprechend anzuwenden.
 
+(2a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 während der praxisbezogenen
+Lehrveranstaltungen
+
+1.  nur ein Leistungsnachweis zu erbringen ist oder
+
+
+2.  auf Leistungsnachweise vollständig verzichtet wird.
+
+
+
+
 (3) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
@@ -831,10 +955,21 @@ nehmen.
 
 (4) Zum Abschluss der berufspraktischen Studienzeiten erstellt das
 Auswärtige Amt ein zusammenfassendes Zeugnis, das die Bewertungen nach
-den Absätzen 1 und 2 aufführt. Die Durchschnittspunktzahl wird
-festgestellt, indem die Summe der Rangpunkte durch die Anzahl der
-bewerteten Ausbildungsabschnitte und der Leistungsnachweise geteilt
-wird. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
+den Absätzen 1 und 2 sowie die Durchschnittspunktzahl der
+berufspraktischen Studienzeiten aufführt. Die Durchschnittspunktzahl
+der berufspraktischen Studienzeiten ist das arithmetische Mittel aus
+den einzelnen Bewertungen der Ausbildungsgebiete und der
+Leistungsnachweise. Die Anwärterinnen und Anwärter erhalten eine
+Ausfertigung des zusammenfassenden Zeugnisses.
+
+(5) Falls nach Absatz 2a festgelegt worden ist, dass auf die
+Leistungsnachweise vollständig verzichtet wird, kann die Hochschule
+mit Zustimmung des Auswärtigen Amts festlegen, dass die
+Durchschnittspunktzahl der berufspraktischen Studienzeiten aus den
+einzelnen Bewertungen der Ausbildungsgebiete gebildet wird. Dabei
+fließen die einzelnen Bewertungen der Ausbildungsgebiete jeweils mit
+dem Gewicht ein, das dem zeitlichen Anteil des Ausbildungsgebiets an
+der Gesamtdauer der berufspraktischen Studienzeiten entspricht.
 
 
 ## Kapitel 2 - Prüfungen
@@ -855,6 +990,35 @@ Studiengebieten nach § 13 Abs. 2 Nr. 1 bis 4 zugeordnet sind;
 Sachverhalte nach § 13 Abs. 2 Nr. 7 können berücksichtigt werden. Zur
 Bearbeitung der Aufsichtsarbeiten stehen je drei Zeitstunden zur
 Verfügung. § 29 Abs. 2 Satz 2 und 3 gilt entsprechend.
+
+(2a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022
+
+1.  die Dauer der schriftlichen Aufsichtsarbeiten verkürzt wird,
+
+
+2.  schriftliche Aufsichtsarbeiten jeweils ersetzt werden durch eine der
+    folgenden Prüfungsformen:
+
+    a)  eine Hausarbeit,
+
+
+    b)  eine andere Prüfungsarbeit oder
+
+
+    c)  eine mündliche Prüfung, bei deren Durchführung Videokonferenztechnik
+        genutzt wird, wenn dafür geeignete technische Einrichtungen zur
+        Verfügung stehen, und
+
+
+
+
+
+3.  die Zahl der schriftlichen Aufsichtsarbeiten auf drei, zwei oder eine
+    reduziert wird.
+
+
+
 
 (3) Die Durchführung der ersten Zwischenprüfung und die Festlegung
 ihrer Einzelheiten obliegen der Fachhochschule; die §§ 32 und 33 sind
@@ -878,6 +1042,20 @@ entsprechend anzuwenden.
 (6) Die Zwischenprüfung hat bestanden, wer für drei Aufsichtsarbeiten
 mindestens die Note "ausreichend" erzielt und insgesamt die
 Durchschnittspunktzahl 5 erreicht hat.
+
+(6a) Ist festgelegt worden, dass schriftliche Aufsichtsarbeiten durch
+eine andere Prüfungsform ersetzt werden, so hat die erste
+Zwischenprüfung bestanden, wer für drei Aufsichtsarbeiten oder andere
+Prüfungsformen jeweils mindestens die Note „ausreichend“ erzielt hat
+und insgesamt eine Durchschnittspunktzahl von mindestens 5,00 erreicht
+hat.
+
+(6b) Ist festgelegt worden, dass die Zahl der schriftlichen
+Aufsichtsarbeiten auf weniger als vier reduziert wird, so trifft die
+Hochschule mit Zustimmung des Auswärtigen Amts eine Regelung über das
+Bestehen der ersten Zwischenprüfung. Sind mindestens zwei
+Aufsichtsarbeiten absolviert worden, so muss die
+Durchschnittspunktzahl mindestens 5,00 betragen.
 
 (7) Wer die Zwischenprüfung nicht bestanden hat, kann sie spätestens
 fünf Monate nach Abschluss des Grundstudiums und frühestens einen
@@ -926,16 +1104,50 @@ aus
 § 25 Abs. 1 und 5 Satz 2 bis 4, § 26 Abs. 5 und § 27 Abs. 1 und 2
 gelten entsprechend.
 
+(2a) Die Hochschule kann im Einvernehmen mit dem Auswärtigen Amt
+festlegen, dass bis zum 31. Dezember 2022 die Prüfungskommission nur
+aus folgenden Mitgliedern besteht:
+
+1.  einer Beamtin oder einem Beamten des höheren oder gehobenen Dienstes
+    als Vorsitzender oder Vorsitzendem und
+
+
+2.  einer Sprachlehrerin oder einem Sprachlehrer als Fachprüferin oder
+    Fachprüfer oder zwei Sprachlehrerinnen oder zwei Sprachlehrern als
+    Fachprüferinnen oder Fachprüfer.
+
+
+
+
 (3) In der schriftlichen Prüfung sind je eine Aufsichtsarbeit in der
 englischen und der französischen Sprache zu fertigen. Die
 Prüfungsaufgaben bestimmt das Prüfungsamt (§ 24). § 29 Abs. 2 sowie 4
 bis 8 ist entsprechend anzuwenden. An einem Tag wird nur in einer
 Sprache geprüft.
 
+(3a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 eine der beiden
+Aufsichtsarbeiten
+
+1.  mit Unterstützung durch Informationstechnik durchgeführt wird oder
+
+
+2.  durch eine Hausarbeit oder eine andere schriftliche Ausarbeitung
+    ersetzt wird.
+
+
+
+
 (4) In der mündlichen Prüfung sollen die Anwärterinnen und Anwärter
 einzeln in beiden Sprachen jeweils mindestens 15 und höchstens 25
 Minuten geprüft werden. § 31 Abs. 2, 4 und 5 und die §§ 32 und 33 sind
 entsprechend anzuwenden.
+
+(4a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 für die Durchführung des
+mündlichen Teils der zweiten Zwischenprüfung Videokonferenztechnik
+genutzt wird, wenn dafür geeignete technische Einrichtungen zur
+Verfügung stehen.
 
 (5) Die Zwischenprüfung ist bestanden, wenn mindestens die
 Durchschnittspunktzahl 5 erreicht und die Leistung in keiner der
@@ -1021,6 +1233,11 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
+(5a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 die Prüfungskommission schon
+dann beschlussfähig ist, wenn mindestens die oder der Vorsitzende und
+eine Lehrende oder ein Lehrender anwesend sind.
+
 
 ### § 26 Ziel und Inhalt der Laufbahnprüfung
 
@@ -1102,6 +1319,13 @@ schriftlich zu versichern, dass sie ihre Diplomarbeit selbständig
 verfasst und keine anderen als die angegebenen Hilfsmittel benutzt
 haben.
 
+(3a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 für die Diplomarbeit eine
+längere Bearbeitungszeit als sechs Wochen unter Freistellung von
+sonstigen Verpflichtungen im Rahmen der Ausbildung zur Verfügung
+steht. Die Hochschule kann zulassen, dass bis zum 31. Dezember 2022
+die Diplomarbeit elektronisch als Datei übermittelt wird.
+
 (4) Die Diplomarbeit ist von zwei Prüfenden unabhängig voneinander zu
 bewerten. Erstprüferin oder Erstprüfer ist, wer das Thema der
 Diplomarbeit vorgeschlagen hat. Das Prüfungsamt bestimmt die
@@ -1120,11 +1344,10 @@ der Durchschnittspunktzahl der drei Bewertungen fest.
 ### § 29 Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt; der Fachbereich
-Auswärtige Angelegenheiten der Fachhochschule des Bundes für
-öffentliche Verwaltung wird bei der Erarbeitung beteiligt. Die
-Aufgaben der vier schriftlichen Arbeiten sind aus folgenden
-Prüfungsfächern auszuwählen, von denen das Fach gemäß Nummer 1
-zwingend ist:
+Auswärtige Angelegenheiten der Hochschule des Bundes für öffentliche
+Verwaltung wird bei der Erarbeitung beteiligt. Die Aufgaben der vier
+schriftlichen Arbeiten sind aus folgenden Prüfungsfächern auszuwählen,
+von denen das Fach gemäß Nummer 1 zwingend ist:
 
 1.  Bürgerliches Recht (§ 20 Abs. 3 Nr. 1 bis 5),
 
@@ -1155,16 +1378,31 @@ zwingend ist:
 
 
 
+(1a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 die schriftlichen
+Aufsichtsarbeiten mit Unterstützung durch Informationstechnik
+durchgeführt werden.
+
 (2) Für die Bearbeitung stehen jeweils vier Zeitstunden zur Verfügung.
 Bei jeder Aufgabe werden die Hilfsmittel, die benutzt werden dürfen,
 angegeben. Die Hilfsmittel werden in der Regel nicht von Amts wegen
 zur Verfügung gestellt.
 
+(2a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 die Bearbeitungszeit für die
+schriftlichen Aufsichtsarbeiten verkürzt wird.
+
 (3) An einem Tag wird nur eine Aufgabe gestellt. Die schriftlichen
 Aufsichtsarbeiten werden an aufeinander folgenden Arbeitstagen
 geschrieben; nach zwei Arbeitstagen wird ein freier Tag vorgesehen.
 
-(4) Prüfungsvorschläge und -aufgaben sind geheim zu halten.
+(3a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 die schriftlichen
+Aufsichtsarbeiten – abweichend von Absatz 3 Satz 2 – nicht an
+aufeinanderfolgenden Tagen geschrieben werden.
+
+(4) Prüfungsvorschläge und -aufgaben sind bis zur Prüfung geheim zu
+halten.
 
 (5) Die Arbeiten werden anstelle des Namens mit einer für sämtliche
 Arbeiten gleichen Kennziffer versehen. Die Kennziffern werden vor
@@ -1187,6 +1425,14 @@ die Bewertungen voneinander ab, entscheidet die Prüfungskommission mit
 Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Wird die
 geforderte Prüfungsarbeit nicht oder nicht rechtzeitig abgeliefert,
 gilt sie als mit "ungenügend" (Rangpunkt 0) bewertet.
+
+(7a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 jede schriftliche
+Aufsichtsarbeit nur von einer oder einem Prüfenden bewertet wird. Ist
+eine schriftliche Aufsichtsarbeit jedoch mit weniger als fünf
+Rangpunkten bewertet worden, so ist sie zusätzlich von einer oder
+einem Zweitprüfenden zu bewerten. In diesem Fall gilt Absatz 7 Satz 2
+bis 4 entsprechend.
 
 (8) Erscheinen Anwärterinnen und Anwärter verspätet zu einer
 Aufsichtsarbeit und wird nicht nach § 32 verfahren, gilt die versäumte
@@ -1216,6 +1462,23 @@ Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt
 aus den Gebieten der schriftlichen Prüfung (§ 29 Abs. 1) entsprechend
 aus.
 
+(1a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022
+
+1.  für die Durchführung der mündlichen Prüfung Videokonferenztechnik
+    genutzt wird, wenn dafür geeignete technische Einrichtungen zur
+    Verfügung stehen, oder
+
+
+2.  auf die mündliche Prüfung verzichtet wird, wenn nicht gewährleistet
+    werden kann, dass die Durchführung ohne Verstöße gegen
+    ordnungsrechtliche Vorgaben zur Bewältigung der COVID-19-Pandemie
+    erfolgt, selbst wenn die Mindestzahl für die Beschlussfähigkeit der
+    Prüfungskommission nach § 25 Absatz 5a reduziert würde.
+
+
+
+
 (2) Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung
 und stellt sicher, dass die Anwärterinnen und Anwärter in geeigneter
 Weise geprüft werden.
@@ -1225,11 +1488,21 @@ oder Anwärter nicht unterschreiten; sie soll 50 Minuten nicht
 überschreiten. Es sollen nicht mehr als fünf Anwärterinnen und
 Anwärter gleichzeitig geprüft werden.
 
+(3a) Die Hochschule kann mit Zustimmung des Auswärtigen Amts
+festlegen, dass bis zum 31. Dezember 2022 die Dauer der mündlichen
+Abschlussprüfung 30 Minuten je Anwärterin oder Anwärter nicht
+unterschreiten darf.
+
 (4) Die Prüfungskommission bewertet die Leistungen nach § 34; die
 Fachprüferin oder der Fachprüfer schlägt jeweils die Bewertung vor.
 Das Ergebnis der mündlichen Prüfung ist in einer
 Durchschnittspunktzahl auszudrücken, die sich aus der Summe der
 Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
+
+(4a) Ist festgelegt worden, dass auf die mündliche Prüfung verzichtet
+wird, so wird die Durchschnittspunktzahl der mündlichen Prüfung
+ersetzt durch das arithmetische Mittel aus den Bewertungen der
+schriftlichen Aufsichtsarbeiten der schriftlichen Prüfung (§ 29).
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
@@ -1527,11 +1800,38 @@ beträgt, werden Dezimalstellen von 50 bis 99 für die Bildung der
 Abschlussnote aufgerundet; im Übrigen bleiben Dezimalstellen für die
 Bildung von Noten unberücksichtigt.
 
+(1a) Ist festgelegt worden, dass im Hauptstudium vollständig auf die
+Leistungsnachweise verzichtet wird, so legt die Hochschule mit
+Zustimmung des Auswärtigen Amts fest, durch welche anderen Bewertungen
+die Durchschnittspunktzahl des Hauptstudiums ersetzt wird bei der
+Berechnung der abschließenden Durchschnittspunktzahl.
+
 (2) Die Prüfung ist bestanden, wenn im Gesamtergebnis nach Absatz 1
 und in der mündlichen Prüfung mindestens die Durchschnittspunktzahl 5
 erreicht ist und wenn in dem Prüfungsfach Bürgerliches Recht die
 Durchschnittspunktzahl der schriftlichen und mündlichen Prüfung
 mindestens 5 beträgt.
+
+(2a) Ist festgelegt worden, dass auf die mündliche Prüfung verzichtet
+wird, so ist die Prüfung bestanden, wenn
+
+1.  im Gesamtergebnis nach Absatz 1 mindestens die Durchschnittspunktzahl
+    5 erreicht ist,
+
+
+2.  in der schriftlichen Prüfung im Prüfungsfach Bürgerliches Recht
+    mindestens fünf Rangpunkte erreicht worden sind oder das arithmetische
+    Mittel aus der Bewertung der schriftlichen Prüfung im Prüfungsfach
+    Bürgerliches Recht und den Bewertungen aller schriftlichen
+    Leistungsnachweise des Hauptstudiums im Fach Bürgerliches Recht
+    mindestens 5,00 beträgt und
+
+
+3.  das arithmetische Mittel aus den vier Aufsichtsarbeiten der
+    schriftlichen Prüfung mindestens 5,00 beträgt.
+
+
+
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder
 der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern

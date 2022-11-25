@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2891
 
-Geändert durch
-:   Art. 1 G v. 14.6.2010 I 784
+Zuletzt geändert durch
+:   Art. 158 V v. 19.6.2020 I 1328
 
 
 ## Abschnitt 1 - Stiftung „Deutsches Historisches Museum“
@@ -193,7 +193,8 @@ Museum-GmbH.
 
 (2) Die Präsidentin oder der Präsident hat dem Kuratorium entsprechend
 § 90 des Aktiengesetzes zu berichten. Die in § 90 Abs. 1 Satz 1 des
-Aktiengesetzes genannten Berichte sind schriftlich zu erstatten.
+Aktiengesetzes genannten Berichte sind schriftlich oder elektronisch
+zu erstatten.
 
 (3) Die Präsidentin oder der Präsident führt die Geschäfte der
 Stiftung, vollzieht die Beschlüsse des Kuratoriums, entscheidet in
@@ -415,8 +416,8 @@ Direktor.
 
 
 2.  je ein Mitglied durch das Auswärtige Amt, das Bundesministerium des
-    Innern und die Beauftragte oder den Beauftragten der Bundesregierung
-    für Kultur und Medien,
+    Innern, für Bau und Heimat und die Beauftragte oder den Beauftragten
+    der Bundesregierung für Kultur und Medien,
 
 
 3.  sechs Mitglieder durch den Bund der Vertriebenen e. V.,

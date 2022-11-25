@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2266
 
+Änderung durch
+:   Art. 7 Abs. 34 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -83,11 +86,11 @@ im Inland zu veröffentlichen.
 
 
 2.  über ein elektronisch betriebenes Informationsverbreitungssystem, das
-    bei Kreditinstituten, Finanzdienstleistungsinstituten, nach § 53 Abs.
-    1 des Kreditwesengesetzes tätigen Unternehmen, anderen Unternehmen,
-    die ihren Sitz im Inland haben und an einer inländischen Börse zur
-    Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit
-    verbreitet ist,
+    bei Kreditinstituten, Finanzdienstleistungsinstituten,
+    Wertpapierinstituten, nach § 53 Abs. 1 des Kreditwesengesetzes tätigen
+    Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und
+    an einer inländischen Börse zur Teilnahme am Handel zugelassen sind,
+    und Versicherungsunternehmen weit verbreitet ist,
 
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 57 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 10.8.2021 I 3411
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -24,37 +24,31 @@ Zuletzt geändert durch
 
 ### § 1 Steuergebiet, Steuergegenstand
 
-(1) Tabakwaren unterliegen im Steuergebiet der Tabaksteuer.
-Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das
-Gebiet von Büsingen und ohne die Insel Helgoland. Die Tabaksteuer ist
-eine Verbrauchsteuer im Sinn der Abgabenordnung.
+(1) Tabakwaren, erhitzter Tabak und Wasserpfeifentabak unterliegen im
+Steuergebiet der Tabaksteuer. Steuergebiet ist das Gebiet der
+Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die
+Insel Helgoland. Die Tabaksteuer ist eine Verbrauchsteuer im Sinn der
+Abgabenordnung.
 
 (2) Tabakwaren sind
 
-1.  Zigarren oder Zigarillos: als solche zum Rauchen geeignete, mit einem
-    Deckblatt oder mit einem Deckblatt und einem Umblatt umhüllte
-    Tabakstränge
+1.  Zigarren oder Zigarillos: als solche zum Rauchen geeignete und auf
+    Grund ihrer Eigenschaften und der normalen Verbrauchererwartungen
+    ausschließlich dafür bestimmte, mit einem Deckblatt oder mit einem
+    Deckblatt und einem Umblatt umhüllte Tabakstränge
 
     a)  ganz aus natürlichem Tabak,
 
 
-    b)  mit einem Deckblatt aus natürlichem Tabak,
+    b)  mit einem äußeren Deckblatt aus natürlichem Tabak,
 
 
-    c)  gefüllt mit entripptem Mischtabak, mit einem zigarrenfarbenen
-        Deckblatt und einem Umblatt, beide aus rekonstituiertem Tabak, wobei
-        das äußere Deckblatt das Erzeugnis vollständig umhüllt, gegebenenfalls
-        auch den Filter, nicht aber das Mundstück, wenn ihr Stückgewicht 1,2
-        Gramm oder mehr beträgt und das Deckblatt spiralenförmig mit einem
-        spitzen Winkel zur Längsachse des Tabakstrangs von mindestens 30 Grad
-        aufgelegt ist, oder
-
-
-    d)  gefüllt mit entripptem Mischtabak, mit einem äußeren zigarrenfarbenen
-        Deckblatt aus rekonstituiertem Tabak, das das Erzeugnis vollständig
-        umhüllt, gegebenenfalls auch den Filter, nicht aber das Mundstück,
-        wenn ihr Stückgewicht 2,3 Gramm oder mehr und ihr Umfang auf
-        mindestens einem Drittel ihrer Länge 34 Millimeter oder mehr beträgt;
+    c)  gefüllt mit gerissenem Mischtabak, mit einem äußeren Deckblatt von
+        normaler Zigarrenfarbe aus rekonstituiertem Tabak, das das Erzeugnis
+        vollständig umhüllt, gegebenenfalls auch den Filter, nicht aber das
+        Mundstück, wenn ihr Stückgewicht mindestens 2,3 Gramm und höchstens 10
+        Gramm und ihr Umfang auf mindestens einem Drittel ihrer Länge 34
+        Millimeter oder mehr beträgt;
 
 
 
@@ -84,10 +78,26 @@ eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
 
 
+(2a) Erhitzter Tabak im Sinne dieses Gesetzes ist stückweise und
+einzeln portionierter Rauchtabak, der dazu geeignet ist, durch
+Inhalation eines in einer Vorrichtung erzeugten Aerosols oder Rauches
+konsumiert zu werden.
+
+(2b) Wasserpfeifentabak im Sinne dieses Gesetzes sind Waren der
+Unterposition 2403 11 der Kombinierten Nomenklatur sowie Erzeugnisse
+für Wasserpfeifen, die keinen Tabak enthalten; Kombinierte Nomenklatur
+im Sinne dieses Gesetzes ist die Warennomenklatur nach Anhang I der
+Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
+zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
+Zolltarif (ABl. L 256 vom 7.9.1987, S. 1), der durch die
+Durchführungsverordnung (EU) 2018/1602 (ABl. L 273 vom 31.10.2018, S.
+1) geändert worden ist, in der am 1. Januar 2019 geltenden Fassung und
+der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr.
+2658/87 erlassenen Rechtsvorschriften.
+
 (3) Stückgewicht nach Absatz 2 Nummer 1 Buchstabe c und d ist das
-Durchschnittsgewicht von
-1 000 Stück              ohne Filter und Mundstück im Zeitpunkt der
-Steuerentstehung.
+Durchschnittsgewicht von 1 000 Stück ohne Filter und Mundstück im
+Zeitpunkt der Steuerentstehung.
 
 (4) Tabakabfälle sind Rauchtabak, wenn sie zum Rauchen geeignet und
 für den Einzelverkauf aufgemacht sind sowie nicht Zigarren oder
@@ -103,11 +113,9 @@ der Tabakteile weniger als 1,5 Millimeter lang oder breit sind.
 (6) Pfeifentabak gilt als Feinschnitt, wenn er dazu bestimmt ist, zur
 Selbstfertigung von Zigaretten verwendet zu werden.
 
-(7) Als Zigarren oder Zigarillos gelten Erzeugnisse mit einem
-Deckblatt aus natürlichem oder rekonstituiertem Tabak oder mit einem
-Deckblatt und einem Umblatt aus rekonstituiertem Tabak, die im Übrigen
-statt aus Tabak ganz oder teilweise aus anderen Stoffen bestehen und
-die sonstigen Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
+(7) Als Zigarren oder Zigarillos gelten Erzeugnisse, die statt aus
+Tabak teilweise aus anderen Stoffen bestehen und die die sonstigen
+Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
 
 (8) Als Zigaretten oder Rauchtabak gelten Erzeugnisse, die statt aus
 Tabak ganz oder teilweise aus anderen Stoffen bestehen und die
@@ -126,49 +134,45 @@ Einzelheiten zur Feststellung des Stückgewichts nach Absatz 3
 festzulegen.
 
 
+### § 1a Erhitzter Tabak, Wasserpfeifentabak
+
+Soweit nicht anders bestimmt, gelten die Vorschriften dieses Gesetzes
+für Rauchtabak sowie die dazu ergangenen Durchführungsbestimmungen
+auch für erhitzten Tabak und Wasserpfeifentabak.
+
+
 ### § 2 Steuertarif
 
 (1) Die Steuer beträgt:
 
 1.  für Zigaretten
 
-    a)  vorbehaltlich der Buchstaben b bis g 9,82 Cent je Stück und 21,69
-        Prozent des Kleinverkaufspreises, mindestens den Betrag, der sich aus
-        Absatz 2 ergibt;
+    a)  vorbehaltlich der Buchstaben b bis e 12,28 Cent je Stück und 19,84
+        Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der
+        sich aus Absatz 2 ergibt;
 
 
-    b)  bis zum 30. April 2011 8,27 Cent je Stück und 24,66 Prozent des
-        Kleinverkaufspreises, mindestens 17,586 Cent je Stück abzüglich der
-        Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarette
-        höchstens jedoch 14,370 Cent je Stück;
-
-
-    c)  für den Zeitraum vom 1. Mai 2011 bis zum 31. Dezember 2011 9,08 Cent
-        je Stück und 21,94 Prozent des Kleinverkaufspreises, mindestens 18,156
-        Cent je Stück abzüglich der Umsatzsteuer des Kleinverkaufspreises der
-        zu versteuernden Zigarette;
-
-
-    d)  für den Zeitraum vom 1. Januar 2012 bis zum 31. Dezember 2012 9,26
-        Cent je Stück und 21,87 Prozent des Kleinverkaufspreises, mindestens
-        18,518 Cent je Stück abzüglich der Umsatzsteuer des
+    b)  für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 10,88
+        Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens
+        jedoch 22,276 Cent je Stück abzüglich der Umsatzsteuer des
         Kleinverkaufspreises der zu versteuernden Zigarette;
 
 
-    e)  für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2013 9,44
-        Cent je Stück und 21,80 Prozent des Kleinverkaufspreises, mindestens
-        18,881 Cent je Stück abzüglich der Umsatzsteuer des
+    c)  für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 11,15
+        Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens
+        jedoch 22,888 Cent je Stück abzüglich der Umsatzsteuer des
         Kleinverkaufspreises der zu versteuernden Zigarette;
 
 
-    f)  für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014 9,63
-        Cent je Stück und 21,74 Prozent des Kleinverkaufspreises, mindestens
-        19,259 Cent je Stück abzüglich der Umsatzsteuer des
+    d)  für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 11,71
+        Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens
+        jedoch 24,163 Cent je Stück abzüglich der Umsatzsteuer des
         Kleinverkaufspreises der zu versteuernden Zigarette;
 
 
-    g)  für den Zeitraum vom 1. Januar 2015 bis zum 14. Februar 2016
-        mindestens 19,636 Cent je Stück abzüglich der Umsatzsteuer des
+    e)  für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 12,28
+        Cent je Stück und 19,84 Prozent des Kleinverkaufspreises, mindestens
+        jedoch 25,106 Cent je Stück abzüglich der Umsatzsteuer des
         Kleinverkaufspreises der zu versteuernden Zigarette;
 
 
@@ -177,18 +181,15 @@ festzulegen.
 
 2.  für Zigarren und Zigarillos
 
-    a)  vorbehaltlich der Buchstaben b und c 1,4 Cent je Stück und 1,47
-        Prozent des Kleinverkaufspreises, mindestens 5,760 Cent je Stück
-        abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu
-        versteuernden Zigarre oder des zu versteuernden Zigarillos;
+    a)  vorbehaltlich Buchstabe b 1,4 Cent je Stück und 1,47 Prozent des
+        Kleinverkaufspreises, mindestens jedoch 7,504 Cent je Stück abzüglich
+        der Umsatzsteuer des Kleinverkaufspreises der zu versteuernden Zigarre
+        oder des zu versteuernden Zigarillos;
 
 
-    b)  bis 30. April 2011 1,4 Cent je Stück und 1,47 Prozent des
-        Kleinverkaufspreises;
-
-
-    c)  für den Zeitraum vom 1. Mai 2011 bis zum 31. Dezember 2011 mindestens
-        4,888 Cent je Stück abzüglich der Umsatzsteuer des
+    b)  für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 1,4 Cent
+        je Stück und 1,47 Prozent des Kleinverkaufspreises, mindestens jedoch
+        6,632 Cent je Stück abzüglich der Umsatzsteuer des
         Kleinverkaufspreises der zu versteuernden Zigarre oder des zu
         versteuernden Zigarillos;
 
@@ -198,50 +199,78 @@ festzulegen.
 
 3.  für Feinschnitt
 
-    a)  vorbehaltlich der Buchstaben b bis g
-        48,49 Euro                          je Kilogramm und 14,76 Prozent des
-        Kleinverkaufspreises, mindestens den Betrag, der sich aus Absatz 3
-        ergibt;
+    a)  vorbehaltlich der Buchstaben b bis e 61,58 Euro je Kilogramm und 17,40
+        Prozent des Kleinverkaufspreises, mindestens jedoch den Betrag, der
+        sich aus Absatz 3 ergibt;
 
 
-    b)  bis 30. April 2011 34,06 Euro je Kilogramm und 18,57 Prozent des
-        Kleinverkaufspreises, mindestens 53,28 Euro je Kilogramm;
+    b)  für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 49,65
+        Euro je Kilogramm und 16,00 Prozent des Kleinverkaufspreises,
+        mindestens jedoch 102,65 Euro je Kilogramm abzüglich der Umsatzsteuer
+        des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 
-    c)  für den Zeitraum vom 1. Mai 2011 bis zum 31. Dezember 2011 41,65 Euro
-        je Kilogramm und 14,30 Prozent des Kleinverkaufspreises, mindestens
-        81,63 Euro je Kilogramm abzüglich der Umsatzsteuer des
-        Kleinverkaufspreises des zu versteuernden Feinschnitts;
+    c)  für den Zeitraum vom 1. Januar 2023 bis zum 31. Dezember 2024 54,39
+        Euro je Kilogramm und 17,00 Prozent des Kleinverkaufspreises,
+        mindestens jedoch 111,78 Euro je Kilogramm abzüglich der Umsatzsteuer
+        des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 
-    d)  für den Zeitraum vom 1. Januar 2012 bis zum 31. Dezember 2012 43,31
-        Euro je Kilogramm und 14,41 Prozent des Kleinverkaufspreises,
-        mindestens 84,89 Euro je Kilogramm abzüglich der Umsatzsteuer des
-        Kleinverkaufspreises des zu versteuernden Feinschnitts;
+    d)  für den Zeitraum vom 1. Januar 2025 bis zum 31. Dezember 2025 57,85
+        Euro je Kilogramm und 17,20 Prozent des Kleinverkaufspreises,
+        mindestens jedoch 121,51 Euro je Kilogramm abzüglich der Umsatzsteuer
+        des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 
-    e)  für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2013 45,00
-        Euro je Kilogramm und 14,51 Prozent des Kleinverkaufspreises,
-        mindestens 88,20 Euro je Kilogramm abzüglich der Umsatzsteuer des
-        Kleinverkaufspreises des zu versteuernden Feinschnitts;
-
-
-    f)  für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014 46,75
-        Euro je Kilogramm und 14,63 Prozent des Kleinverkaufspreises,
-        mindestens 91,63 Euro je Kilogramm abzüglich der Umsatzsteuer des
-        Kleinverkaufspreises des zu versteuernden Feinschnitts;
-
-
-    g)  für den Zeitraum vom 1. Januar 2015 bis zum 14. Februar 2016
-        mindestens 95,04 Euro je Kilogramm abzüglich der Umsatzsteuer des
-        Kleinverkaufspreises des zu versteuernden Feinschnitts;
+    e)  für den Zeitraum vom 1. Januar 2026 bis zum 14. Februar 2027 61,58
+        Euro je Kilogramm und 17,40 Prozent des Kleinverkaufspreises,
+        mindestens jedoch 128,83 Euro je Kilogramm abzüglich der Umsatzsteuer
+        des Kleinverkaufspreises des zu versteuernden Feinschnitts;
 
 
 
 
 
-4.  für Pfeifentabak 15,66 Euro je Kilogramm und 13,13 Prozent des
-    Kleinverkaufspreises, mindestens 22 Euro je Kilogramm.
+4.  für Pfeifentabak
+
+    a)  vorbehaltlich Buchstabe b 15,66 Euro je Kilogramm und 13,13 Prozent
+        des Kleinverkaufspreises, mindestens jedoch 26,00 Euro je Kilogramm;
+
+
+    b)  für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 15,66
+        Euro je Kilogramm und 13,13 Prozent des Kleinverkaufspreises,
+        mindestens jedoch 24,00 Euro je Kilogramm;
+
+
+
+
+
+5.  für erhitzten Tabak die Steuer nach Nummer 4 zuzüglich einer
+    Zusatzsteuer, die sich bemisst aus 80 Prozent des Steuerbetrags nach
+    Nummer 1 abzüglich des Steuerbetrags nach Nummer 4. Für die Berechnung
+    nach Nummer 1 entspricht hierbei der jeweils stückweise und einzeln
+    portionierte Rauchtabak einer Zigarette;
+
+
+6.  für Wasserpfeifentabak die Steuer nach Nummer 4 zuzüglich folgender
+    Zusatzsteuer
+
+    a)  für den Zeitraum 1. Januar 2022 bis 31. Dezember 2022 15,00 Euro je
+        Kilogramm;
+
+
+    b)  für den Zeitraum 1. Januar 2023 bis 31. Dezember 2024 19,00 Euro je
+        Kilogramm;
+
+
+    c)  für den Zeitraum 1. Januar 2025 bis 31. Dezember 2025 21,00 Euro je
+        Kilogramm;
+
+
+    d)  ab 1. Januar 2026 23,00 Euro je Kilogramm.
+
+
+
 
 
 
@@ -252,7 +281,7 @@ Gesamtsteuerbelastung durch die Tabaksteuer und die Umsatzsteuer auf
 den gewichteten durchschnittlichen Kleinverkaufspreis für Zigaretten
 abzüglich der Umsatzsteuer des Kleinverkaufspreises der zu
 versteuernden Zigarette, mindestens jedoch der Betrag, der sich aus
-Absatz 1 Nummer 1 Buchstabe g ergibt. Zur Ermittlung der
+Absatz 1 Nummer 1 Buchstabe e ergibt. Zur Ermittlung der
 Steuerbelastung ist der am 1. Januar eines Jahres geltende Steuersatz
 maßgebend.
 
@@ -262,9 +291,14 @@ Gesamtsteuerbelastung durch die Tabaksteuer und die Umsatzsteuer auf
 den gewichteten durchschnittlichen Kleinverkaufspreis für Feinschnitt
 abzüglich der Umsatzsteuer des Kleinverkaufspreises des zu
 versteuernden Feinschnitts, mindestens jedoch der Betrag, der sich aus
-Absatz 1 Nummer 3 Buchstabe g ergibt. Zur Ermittlung der
+Absatz 1 Nummer 3 Buchstabe e ergibt. Zur Ermittlung der
 Steuerbelastung ist der am 1. Januar eines Jahres geltende Steuersatz
 maßgebend.
+
+(3a) Für den Zeitraum vom 1. Juli 2020 bis 31. Dezember 2020 gilt für
+die Zwecke der Berechnung des Mindeststeuersatzes nach den Absätzen 1
+bis 3 weiterhin der zum 1. Januar 2020 gültige Umsatzsteuersatz nach §
+12 des Umsatzsteuergesetzes.
 
 (4) Das Bundesministerium der Finanzen macht im Bundesanzeiger jeweils
 im Monat Januar eines Jahres mit Wirkung vom 15. Februar des gleichen
@@ -328,10 +362,10 @@ vorgeschrieben ist.
 
 (1) Kleinverkaufspreis ist der Preis, den der Hersteller oder
 Einführer als Einzelhandelspreis für Zigarren, Zigarillos und
-Zigaretten je Stück und für Rauchtabak je Kilogramm bestimmt. Wird nur
-ein Packungspreis bestimmt, gilt als Kleinverkaufspreis der Preis, der
-sich aus dem Packungspreis und dem Packungsinhalt je Stück oder
-Kilogramm ergibt.
+Zigaretten je Stück, für erhitzten Tabak je Stück und je Kilogramm,
+sowie für Rauchtabak je Kilogramm bestimmt. Wird nur ein Packungspreis
+bestimmt, gilt als Kleinverkaufspreis der Preis, der sich aus dem
+Packungspreis und dem Packungsinhalt je Stück oder Kilogramm ergibt.
 
 (2) Hersteller mit Sitz in einem anderen Mitgliedstaat können die
 Bestimmung des Kleinverkaufspreises einer im Steuergebiet ansässigen
@@ -1327,19 +1361,19 @@ berücksichtigen:
 
 
 
-(3) Ab 1. Januar 2014 sind Zigaretten, die Privatpersonen in den
-Republiken Bulgarien, Estland, Griechenland, Lettland, Litauen,
-Ungarn, Polen oder Rumänien im steuerrechtlich freien Verkehr für
-ihren Eigenbedarf erwerben und selbst in das Steuergebiet befördern,
-vorbehaltlich des vorzeitigen Erreichens der globalen Verbrauchsteuer
-im Sinn des Artikels 2 der Richtlinie 92/79/EWG durch einen der
-genannten Mitgliedstaaten nur bis zu einer Menge von 300 Stück
-steuerfrei. Werden die Mengenbegrenzungen des Satzes 1 überschritten,
-gelten die darüber hinaus verbrachten Mengen als zu gewerblichen
-Zwecken verbracht. Das vorzeitige Erreichen der globalen
-Verbrauchsteuer nach Satz 1 durch einen der in Satz 1 genannten
-Mitgliedstaaten macht das Bundesministerium der Finanzen durch
-gesondertes Schreiben im Bundesanzeiger bekannt.
+(3) Bis zum 31. Dezember 2017 sind Zigaretten, die Privatpersonen in
+den Republiken Bulgarien, Kroatien, Lettland, Litauen, Ungarn oder
+Rumänien im steuerrechtlich freien Verkehr für ihren Eigenbedarf
+erwerben und selbst in das Steuergebiet befördern, vorbehaltlich des
+vorzeitigen Erreichens der globalen Verbrauchsteuer im Sinne des
+Artikels 10 der Richtlinie 2011/64/EU durch einen der genannten
+Mitgliedstaaten, nur bis zu einer Menge von 300 Stück steuerfrei.
+Werden die Mengenbegrenzungen des Satzes 1 überschritten, gelten die
+darüber hinaus verbrachten Mengen als zu gewerblichen Zwecken
+verbracht. Das vorzeitige Erreichen der globalen Verbrauchsteuer nach
+Satz 1 durch einen der in Satz 1 genannten Mitgliedstaaten macht das
+Bundesministerium der Finanzen durch gesondertes Schreiben im
+Bundesanzeiger bekannt.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
@@ -1422,9 +1456,7 @@ nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus
 dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents
 lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
-(2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer
-Kleinverkaufspackung für Zigaretten 19 Stück und der Inhalt einer
-Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
+(2) (weggefallen)
 
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
@@ -1495,11 +1527,6 @@ Steuer ist sofort fällig.
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die notwendigen
 Vorschriften zu Absatz 1 zu erlassen.
-
-
-### § 29 Ausspielung
-
-Tabakwaren dürfen nicht gewerbsmäßig ausgespielt werden.
 
 
 ## Abschnitt 6 - Steuervergünstigungen
@@ -1777,11 +1804,11 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 3.  zur Durchführung
 
-    a)  des Artikels 35 der Systemrichtlinie das Verfahren bei der Beförderung
-        von Tabakwaren des steuerrechtlich freien Verkehrs durch einen anderen
-        Mitgliedstaat unter Verwendung des Begleitdokuments nach Artikel 34
-        der Systemrichtlinie und den dazu ergangenen Verordnungen in den
-        jeweils geltenden Fassungen zu regeln und vorzusehen, dass durch
+    a)  der Artikel 33 bis 46 der Richtlinie (EU) 2020/262 des Rates vom 19.
+        Dezember 2019 zur Festlegung des allgemeinen Verbrauchsteuersystems
+        (Neufassung) (ABl. L 58 vom 27.2.2020, S. 4) das Verfahren bei der
+        Beförderung von Tabakwaren des steuerrechtlich freien Verkehrs und des
+        Versandhandels näher zu regeln und dabei auch zuzulassen, dass durch
         bilaterale Vereinbarungen mit den jeweiligen Mitgliedstaaten ein vom
         Regelverfahren abweichendes vereinfachtes Verfahren zugelassen werden
         kann,
@@ -1798,17 +1825,32 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-4.  zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+4.  im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+    alternativ zur qualifizierten elektronischen Signatur ein anderes
+    sicheres Verfahren zuzulassen, das den Datenübermittler
+    authentifiziert und die Vertraulichkeit und Integrität des
+    elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6
+    Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung
+    können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1
+    zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann
+    in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen
+    sachverständiger Stellen geregelt werden;
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+5.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -1817,41 +1859,33 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist;
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
 
-5.  Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
+6.  Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
 
 
-6.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
+7.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
     ergeben.
 
@@ -1902,18 +1936,13 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
     andere Gegenstände beipackt,
 
 
-3.  einer Vorschrift des § 25 Absatz 1 Satz 1, Satz 2 oder Satz 4 bis 6
-    oder Absatz 2 über Packungen im Handel oder den Stückverkauf
-    zuwiderhandelt,
+3.  einer Vorschrift des § 25 Satz 1, Satz 2 oder Satz 4 bis 6 über
+    Packungen im Handel oder den Stückverkauf zuwiderhandelt oder
 
 
 4.  entgegen § 26 Absatz 1 den Packungspreis oder den Kleinverkaufspreis
     unterschreitet, Rabatt oder eine Rückvergütung gewährt, Gegenstände
-    zugibt oder die Abgabe mit dem Verkauf anderer Gegenstände koppelt
-    oder
-
-
-5.  entgegen § 29 Tabakwaren gewerbsmäßig ausspielt.
+    zugibt oder die Abgabe mit dem Verkauf anderer Gegenstände koppelt.
 
 
 

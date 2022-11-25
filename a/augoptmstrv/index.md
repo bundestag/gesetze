@@ -16,15 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2610
 
-Geändert durch
-:   Art. 20 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 2 Abs. 47 V v. 18.1.2022 I 39
 
 
 
 ## Eingangsformel
 
 Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 24. September 1998 (BGBI. I S. 3074), der durch
+Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch
 Artikel 1 Nr. 39 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934)
 geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und
@@ -453,9 +453,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

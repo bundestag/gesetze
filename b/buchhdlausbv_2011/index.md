@@ -1,8 +1,5 @@
-[^Fn775122_01_BJNR042200011]
-Verordnung über die Berufsausbildung zum Buchhändler und zur
-Buchhändlerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin
 jurabk: BuchhdlAusbV 2011
 layout: default
 origslug: buchhdlausbv_2011
@@ -10,7 +7,7 @@ slug: buchhdlausbv_2011
 
 ---
 
-#  (BuchhdlAusbV 2011)
+# Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin (BuchhdlAusbV 2011)
 
 Ausfertigungsdatum
 :   2011-03-15
@@ -671,7 +668,7 @@ Buchhändlerin vom 5. März 1998 (BGBl. I S. 462) außer Kraft.
 ### – Sachliche Gliederung –
 
 **Abschnitt A: Berufsprofilgebende  Fertigkeiten,  Kenntnisse  und
-Fähigkeiten  in  den  Pflichtqualifikationseinheiten**
+ Fähigkeiten  in  den  Pflichtqualifikationseinheiten**
 
 *    *   Lfd. Nr.
 

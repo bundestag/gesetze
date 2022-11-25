@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 869
 
 Zuletzt geändert durch
-:   Art. 5a G v. 12.4.2011 I 619
+:   Art. 3 G v. 8.8.2020 I 1728
 
 
 ## Eingangsformel
@@ -98,8 +98,9 @@ Wohn- und Nichtwohnzwecken geändert wird.
     konventionelle Bauart oder Fertigteilbau, überwiegend verwendeter
     Baustoff; Art der Beheizung und vorgesehene Heizenergie; Art der
     Warmwasserbereitung und hierfür vorgesehene Energie; Anlagen zur
-    Lüftung, Anlagen zur Kühlung sowie Art der Erfüllung des Erneuerbare-
-    Energien-Wärmegesetzes; bei Wohngebäuden auch der Haustyp;
+    Lüftung, Anlagen zur Kühlung sowie Art der Erfüllung der Pflicht zur
+    Nutzung erneuerbarer Energien nach dem Gebäudeenergiegesetz vom 8.
+    August 2020 (BGBl. I S. 1728); bei Wohngebäuden auch der Haustyp;
 
 
 7.  bei Gebäuden mit Wohnraum zusätzlich Zahl der Wohneinheiten nach Zahl
@@ -169,14 +170,18 @@ Hilfsmerkmale sind
 1.  Bauscheinnummer, Aktenzeichen;
 
 
-2.  Straße und Hausnummer des Baugrundstücks;
+2.  Anschrift des Baugrundstücks;
 
 
 3.  Name und Anschrift des Bauherrn für die Erhebungen nach § 1 Abs. 2 Nr.
     1 bis 3 und des Eigentümers für die Erhebung nach § 1 Abs. 2 Nr. 4;
 
 
-4.  bei Wiedererrichtung eines Gebäudes zusätzlich Abgangsjahr des
+4.  Name und Kontaktdaten der Personen, die für Rückfragen zur Verfügung
+    stehen;
+
+
+5.  bei Wiedererrichtung eines Gebäudes zusätzlich Abgangsjahr des
     vorherigen Gebäudes und Meldung zur Erhebung nach § 1 Abs. 2 Nr. 4.
 
 
@@ -194,6 +199,8 @@ jährlich für das abgelaufene Kalenderjahr, die Erhebung nach § 1 Abs.
 ## § 6 Auskunftspflicht
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
+Die Auskunftserteilung zu den Angaben nach § 4 Nummer 4 ist
+freiwillig.
 
 (2) Auskunftspflichtig sind die Bauaufsichtsbehörden sowie für die
 Angaben nach § 3 Abs. 1 bis 3 auch die Bauherren und die mit der

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 938
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 10 G v. 12.3.2004 I 390
+:   Art. 14 Abs. 2 G v. 4.4.2016 I 558
 
 
 ## Teil 1 - Erstreckung
@@ -232,8 +232,9 @@ Anmeldung als zurückgenommen.
 
 (3) Bei einer nach § 4 erstreckten Patentanmeldung wird, sofern die
 Erteilung des Patents noch nicht beschlossen worden ist, die freie
-Einsicht in die Akten nach § 31 Abs. 2 Nr. 2 des Patentgesetzes
-gewährt und die Anmeldung als Offenlegungsschrift veröffentlicht.
+Einsicht in die Akten nach § 31 Absatz 2 Satz 1 Nummer 2 des
+Patentgesetzes gewährt und die Anmeldung als Offenlegungsschrift
+veröffentlicht.
 
 (4) Ist für eine nach § 4 erstreckte Patentanmeldung ein
 Prüfungsantrag wirksam gestellt worden, so wird er weiterbehandelt.

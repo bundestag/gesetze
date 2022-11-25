@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2592
 
+Geändert durch
+:   Art. 21 G v. 26.6.2013 I 1809
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -87,8 +90,9 @@ entstandenen Forderungen. Forderungen im Sinne dieses Gesetzes sind
 
 (3) Der Anwendungsbereich dieses Gesetzes umfasst nicht
 
-1.  Pflichtbeiträge zur Sozialversicherung, die an öffentlich-rechtliche
-    Einrichtungen der Sozialversicherung zu leisten sind;
+1.  Beiträge und Umlagen sowie damit verbundene Abgaben und Gebühren nach
+    dem Sozialgesetzbuch, den in § 68 des Ersten Buches Sozialgesetzbuch
+    genannten Gesetzen und dem Aufwendungsausgleichsgesetz;
 
 
 2.  andere als die in Absatz 2 genannten Gebühren;

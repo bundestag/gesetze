@@ -836,6 +836,7 @@ für Familie, Senioren, Frauen und Jugend auf Ersuchen Auskunft über
 die Tatsachen zu erteilen, deren Kenntnis für die Erfüllung seiner
 Aufgaben nach diesem Gesetz erforderlich ist. Daten der Bewohnerinnen
 und Bewohner dürfen nur in anonymisierter Form übermittelt werden.
+
 (3) Die zuständigen Behörden sind verpflichtet, alle zwei Jahre einen
 Tätigkeitsbericht zu erstellen. Dieser Bericht ist zu veröffentlichen.
 

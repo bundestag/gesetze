@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 594
 
+Geändert durch
+:   Art. 2 V v. 8.10.2021 I 4640
+
 
 
 ## Eingangsformel
@@ -60,12 +63,14 @@ stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
 der Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern,
 aufzustellen. Die Wahlberechtigten sollen mit Familiennamen, Vornamen
 und Geburtsdatum in alphabetischer Reihenfolge aufgeführt werden. Der
-Wahlvorstand hat die Wählerliste bis zum Beginn der Stimmabgabe zu
+Wahlvorstand hat die Wählerliste bis zum Abschluss der Stimmabgabe zu
 berichtigen, wenn ein Besatzungsmitglied den Dienst an Bord aufnimmt
 oder beendet.
 
 (2) Wahlberechtigt und wählbar sind nur Besatzungsmitglieder, die in
-die Wählerliste eingetragen sind.
+die Wählerliste eingetragen sind. In der Wählerliste sind nach Maßgabe
+des § 115 Absatz 2 Nummer 1 und 2 des Gesetzes die aktiv und passiv
+Wahlberechtigten auszuweisen.
 
 (3) Ein Abdruck der Wählerliste und ein Abdruck dieser Verordnung sind
 vom Tage der Einleitung der Wahl (§ 5 Abs. 1 Satz 2) bis zum Abschluss
@@ -103,7 +108,7 @@ mitzuteilen.
 
 (3) Die Wählerliste kann nach Ablauf der Einspruchsfrist nur bei
 Schreibfehlern, offenbaren Unrichtigkeiten und in Erledigung
-rechtzeitig eingelegter Einsprüche bis zum Beginn der Stimmabgabe
+rechtzeitig eingelegter Einsprüche bis zum Abschluss der Stimmabgabe
 berichtigt werden; § 2 Abs. 1 Satz 3 bleibt unberührt.
 
 
@@ -155,7 +160,9 @@ eingeleitet.
     eingetragen ist, und dass Einsprüche gegen die Wählerliste nur vor
     Ablauf von 48 Stunden seit dem Erlass des Wahlausschreibens beim
     Wahlvorstand eingelegt werden können; der Zeitpunkt des Ablaufs der
-    Frist ist anzugeben;
+    Frist ist anzugeben, verbunden mit einem Hinweis auf die
+    Anfechtungsausschlussgründe nach § 19 Absatz 3 Satz 1 und 2 des
+    Gesetzes;
 
 
 4.  den Anteil der Geschlechter und den Hinweis, dass das Geschlecht in
@@ -379,10 +386,9 @@ Bordvertretung zu wählen sind.
 
 #### § 12 Stimmabgabe
 
-(1) Das Wahlrecht wird durch Abgabe eines Stimmzettels in einem
-Wahlumschlag ausgeübt. Die Stimmzettel müssen alle dieselbe Größe,
-Farbe, Beschaffenheit und Beschriftung haben; dasselbe gilt für die
-Wahlumschläge.
+(1) Das Wahlrecht wird durch Abgabe eines Stimmzettels ausgeübt. Die
+Stimmzettel müssen alle dieselbe Größe, Farbe, Beschaffenheit und
+Beschriftung haben.
 
 (2) Ist die Bordvertretung nach den Grundsätzen der Verhältniswahl zu
 wählen (§§ 21 bis 23), so kann der Wahlberechtigte seine Stimme nur
@@ -395,11 +401,11 @@ einzelnen Bewerberinnen oder Bewerber abzugeben.
 
 (1) Der Wahlvorstand hat Vorkehrungen zu treffen, dass die Wählerin
 oder der Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen
-und in den Wahlumschlag legen kann. Für die Aufnahme der Wahlumschläge
-sind eine oder mehrere Wahlurnen zu verwenden. Vor Beginn der
-Stimmabgabe sind die Wahlurnen vom Wahlvorstand zu verschließen. Sie
-müssen so eingerichtet sein, dass die Wahlumschläge nicht entnommen
-werden können, ohne dass die Wahlurne geöffnet wird.
+und falten kann. Für die Aufnahme der Stimmzettel sind eine oder
+mehrere Wahlurnen zu verwenden. Vor Beginn der Stimmabgabe sind die
+Wahlurnen vom Wahlvorstand zu verschließen. Sie müssen so eingerichtet
+sein, dass die Stimmzettel nicht entnommen werden können, ohne dass
+die Wahlurne geöffnet wird.
 
 (2) Während des Zeitraums der Stimmabgabe müssen mindestens zwei
 stimmberechtigte Mitglieder des Wahlvorstands im Wahlraum anwesend
@@ -408,9 +414,9 @@ Anwesenheit eines stimmberechtigten Mitglieds des Wahlvorstands und
 einer Wahlhelferin oder eines Wahlhelfers.
 
 (3) Die Wählerin oder der Wähler gibt ihren oder seinen Namen an und
-wirft den Wahlumschlag, in den der Stimmzettel eingelegt ist, in die
-Wahlurne ein, nachdem die Stimmabgabe in der Wählerliste vermerkt
-worden ist.
+wirft den Stimmzettel so gefaltet, dass ihre oder seine Stimme nicht
+erkennbar ist, in die Wahlurne ein, nachdem die Stimmabgabe in der
+Wählerliste vermerkt worden ist.
 
 (4) Wer infolge seiner Behinderung bei der Stimmabgabe beeinträchtigt
 ist, kann eine Person seines Vertrauens bestimmen, die ihm bei der
@@ -444,26 +450,19 @@ Wahlumschlägen die Stimmzettel und prüft ihre Gültigkeit.
 
 (2) Ungültig sind Stimmzettel,
 
-1.  die nicht in einem Wahlumschlag abgegeben sind,
+1.  die nicht den Erfordernissen des § 12 Abs. 1 Satz 2 entsprechen,
 
 
-2.  die nicht den Erfordernissen des § 12 Abs. 1 Satz 2 entsprechen,
+2.  aus denen sich der Wille des Wählers nicht zweifelsfrei ergibt,
 
 
-3.  aus denen sich der Wille des Wählers nicht zweifelsfrei ergibt,
-
-
-4.  die ein besonderes Merkmal, einen Zusatz oder einen Vorbehalt
+3.  die ein besonderes Merkmal, einen Zusatz oder einen Vorbehalt
     enthalten.
 
 
 
 
-(3) Mehrere in einem Wahlumschlag enthaltene Stimmzettel, die
-vollständig übereinstimmen, werden als eine Stimme gezählt. Stimmen
-sie nicht vollständig überein, so sind sie ungültig.
-
-(4) Der Wahlvorstand zählt
+(3) Der Wahlvorstand zählt
 
 1.  im Fall der Verhältniswahl (§§ 21 bis 23) die auf jede
     Vorschlagsliste,
@@ -742,8 +741,8 @@ nach den Grundsätzen der Mehrheitswahl (§ 14 Abs. 2 des Gesetzes).
 
 #### § 28 Wahlvorschläge
 
-(1) Wahlberechtigte können für die Wahl des Mitglieds der
-Bordvertretung rechtswirksam nur einen Wahlvorschlag unterzeichnen.
+(1) Wahlvorschläge für die Wahl des Mitglieds der Bordvertretung
+bedürfen keiner Unterzeichnung.
 
 (2) Unverzüglich nach Ablauf der in § 6 Abs. 1, § 9 Abs. 2 und § 10
 Abs. 1 genannten Fristen ordnet der Wahlvorstand die als gültig
@@ -844,11 +843,36 @@ Wahlhelferinnen oder Wahlhelfer zu seiner Unterstützung bei den in §
 heranziehen.
 
 (3) Die Beschlüsse des Wahlvorstands werden mit einfacher
-Stimmenmehrheit seiner stimmberechtigten Mitglieder gefasst. Über jede
+Stimmenmehrheit seiner stimmberechtigten Mitglieder gefasst. Die
+Sitzungen des Wahlvorstands finden als Präsenzsitzung statt. Über jede
 Sitzung des Wahlvorstands ist eine Niederschrift aufzunehmen, die
 mindestens den Wortlaut der gefassten Beschlüsse enthält. Die
 Niederschrift ist von der oder dem Vorsitzenden und einem weiteren
 stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
+
+(4) Abweichend von Absatz 3 Satz 2 kann der Wahlvorstand beschließen,
+dass die Teilnahme an einer nicht öffentlichen Sitzung des
+Wahlvorstands mittels Video- und Telefonkonferenz erfolgen kann. Dies
+gilt nicht für Sitzungen des Wahlvorstands
+
+1.  zur Prüfung der eingereichten Wahlvorschläge nach § 43 Absatz 2 Satz
+    2,
+
+
+2.  zur Durchführung des Losverfahrens nach § 57 in Verbindung mit § 20
+    Satz 1.
+
+
+
+Es muss sichergestellt sein, dass Dritte vom Inhalt der Sitzung keine
+Kenntnis nehmen können. Eine Aufzeichnung der Sitzung ist unzulässig.
+Die mittels Video- und Telefonkonferenz Teilnehmenden bestätigen ihre
+Teilnahme gegenüber der oder dem Vorsitzenden in Textform. Die
+Bestätigung ist der Niederschrift nach Absatz 3 beizufügen.
+
+(5) Erfolgt die Sitzung des Wahlvorstands mit der zusätzlichen
+Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt
+auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 33 Wählerliste
@@ -998,7 +1022,9 @@ Seebetriebsrats eingeleitet.
         Listen nur bis zu dem vom Wahlvorstand für die Einreichung von
         Wahlvorschlägen festgesetzten Zeitpunkt schriftlich beim Wahlvorstand
         eingelegt werden können; der Zeitpunkt des Ablaufs der Frist ist
-        anzugeben;
+        anzugeben verbunden mit einem Hinweis auf die
+        Anfechtungsausschlussgründe nach § 19 Absatz 3 Satz 1 und 2 des
+        Gesetzes;
 
 
 
@@ -1569,11 +1595,13 @@ des Seebetriebsrats mit folgender Maßgabe entsprechend:
 
 #### § 58 Wahl nur eines Mitglieds des Seebetriebsrats
 
-Die Vorschriften der §§ 27 bis 30 gelten für die Wahl nur eines
-Mitglieds des Seebetriebsrats entsprechend mit der Maßgabe, dass an
-die Stelle der in § 28 Abs. 2 genannten Fristen die für die
-Einreichung von Wahlvorschlägen für die Wahl des Seebetriebsrats
-festgesetzte Frist (§ 40) tritt.
+Die Vorschriften der §§ 27 und 28 Absatz 2 sowie der §§ 29 bis 30
+gelten für die Wahl nur eines Mitglieds des Seebetriebsrats
+entsprechend mit der Maßgabe, dass an die Stelle der in § 28 Abs. 2
+genannten Fristen die für die Einreichung von Wahlvorschlägen für die
+Wahl des Seebetriebsrats festgesetzte Frist (§ 40) tritt.
+Wahlberechtigte können für die Wahl des Mitglieds des Seebetriebsrats
+rechtswirksam nur einen Wahlvorschlag unterstützen.
 
 
 ## Dritter Teil - Übergangs- und Schlussvorschriften

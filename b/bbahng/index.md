@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 955
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 111 G v. 5.2.2009 I 160
+:   Art. 331 V v. 19.6.2020 I 1328
 
 
 ## § 8 Zusammensetzung und Rechtsstellung des Vorstands
@@ -75,7 +75,7 @@ entscheidet, inwieweit eine Vergütung abzuführen ist.
 geltenden § 22 Abs. 2 und § 23 Abs. 3, 5 und 6 des
 Bundesdatenschutzgesetzes vom 20. Dezember 1990 (BGBl. I S. 2954) sind
 entsprechend anzuwenden; dabei tritt an die Stelle des Bundesministers
-des Innern der Bundesminister für Verkehr.
+des Innern, für Bau und Heimat der Bundesminister für Verkehr.
 
 (3) Im übrigen werden die Rechtsverhältnisse der Vorstandsmitglieder,
 insbesondere Gehälter, Ruhegehälter, Hinterbliebenenbezüge und
@@ -191,15 +191,16 @@ Abs. 1 Satz 4 und 5, Abs. 2 Satz 2, 3 und 5, Abs. 3 sowie die §§ 8a,
 ## § 23 Belohnungen und Vergütungen
 
 (1) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im
-Einvernehmen mit den Bundesministerien des Innern und der Finanzen
-erteilt wird, Richtlinien für die Gewährung von Belohnungen in
-besonderen Fällen und für besondere Leistungen erlassen.
+Bundesministeriums für Verkehr und digitale Infrastruktur, die im
+Einvernehmen mit den Bundesministerien des Innern, für Bau und Heimat
+und der Finanzen erteilt wird, Richtlinien für die Gewährung von
+Belohnungen in besonderen Fällen und für besondere Leistungen
+erlassen.
 
 (2) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im
-Einvernehmen mit den Bundesministerien des Innern und der Finanzen
-erteilt wird, Richtlinien darüber erlassen, inwieweit für die
-Tätigkeit auf besonders schwierigen Dienstposten des Außendienstes
-widerrufliche Vergütungen gewährt werden.
+Bundesministeriums für Verkehr und digitale Infrastruktur, die im
+Einvernehmen mit den Bundesministerien des Innern, für Bau und Heimat
+und der Finanzen erteilt wird, Richtlinien darüber erlassen, inwieweit
+für die Tätigkeit auf besonders schwierigen Dienstposten des
+Außendienstes widerrufliche Vergütungen gewährt werden.
 

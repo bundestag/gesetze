@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 1719
 
 Neugefasst durch
-:   Bek. vom 12.10.1990, 2178;
+:   Bek. vom 12.10.1990 I 2178;
 
 Zuletzt geändert durch
 :   Art. 78 Abs. 2 G v. 23.11.2007 I 2614

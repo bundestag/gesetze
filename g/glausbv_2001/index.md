@@ -229,7 +229,7 @@ kommen insbesondere in Betracht:
     Glaskonstruktion,
 
 
-\* 2. Einrahmen eines Objektes,
+* 2. Einrahmen eines Objektes,
 
 
 3.  Herstellen oder Instandsetzen einer Kunstverglasung oder
@@ -382,7 +382,7 @@ kommen insbesondere in Betracht:
 1.  Herstellen eines Fensters oder einer Fenstertür,
 
 
-\* 2. Herstellen einer Tür- oder Torkonstruktion,
+* 2. Herstellen einer Tür- oder Torkonstruktion,
 
 
 3.  Herstellen einer Glasfassadenkonstruktion oder

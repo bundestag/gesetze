@@ -1,7 +1,5 @@
-[^f772200_01_BJNR136000009]
-Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin
 jurabk: ChemikAusbV 2009
 layout: default
 origslug: chemikausbv_2009
@@ -9,13 +7,16 @@ slug: chemikausbv_2009
 
 ---
 
-#  (ChemikAusbV 2009)
+# Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin (ChemikAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-06-10
 
 Fundstelle
 :   BGBl I: 2009, 1360
+
+Geändert durch
+:   Art. 1 V v. 20.3.2018 I 382
 
 [^f772200_01_BJNR136000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -28,7 +29,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
@@ -54,7 +55,7 @@ Die Berufsausbildung gliedert sich in:
 
 
 2.  vier vom Ausbildenden festzulegende Wahlqualifikationen der
-    Auswahlliste nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 19; dabei ist
+    Auswahlliste nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 20; dabei ist
     mindestens eine Wahlqualifikation aus Nummer 1 bis 8 zu wählen.
 
 
@@ -212,7 +213,10 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 18. Anwenden produktionsbezogener mikrobiologischer Arbeitstechniken,
 
 
-19. Internationale Kompetenz.
+19. Internationale Kompetenz,
+
+
+20. Digitalisierung und vernetzte Produktion.
 
 
 
@@ -232,11 +236,7 @@ nachzuweisen.
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
 erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) (weggefallen)
 
 
 ## § 6 Abschlussprüfung
@@ -703,7 +703,8 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
 
-(Fundstelle: BGBl. I 2009, 1364 - 1373)
+(Fundstelle: BGBl. I 2009, 1364 - 1373; bzgl. einzelner Änderungen
+vgl. Fußnote)
 **Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1**
 
 *    *   Lfd.
@@ -955,7 +956,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 
 
-    *[^f772200_02_BJNR136000009BJNE001400000]
+    *[^f772200_02_BJNR136000009BJNE001401125]
    6
 
     *
@@ -1085,7 +1086,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 
 
-    *[^f772200_03_BJNR136000009BJNE001400000]
+    *[^f772200_03_BJNR136000009BJNE001401125]
    3
 
     *   2\*)
@@ -2168,8 +2169,52 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *   10
 
 
+*    *   II.20
+
+    *   Digitalisierung und
+        vernetzte Produktion
+        (§ 4 Absatz 2
+        Abschnitt II Nummer 20)
+
+    *
+        a)  in der digitalen vernetzten Produktion selbstorganisiert arbeiten und
+            digitale Kommunikationsmittel einsetzen sowie in virtuellen Teams
+            mitwirken
+
+
+        b)  Daten digital erfassen, prüfen, auswerten und sichern
+
+
+        c)  Fehler beim Datenaustausch zwischen digitalen Systemen erkennen und
+            Maßnahmen zur Beseitigung der Fehler einleiten
+
+
+        d)  Datenanalysen oder Simulationen für die Optimierung von
+            Produktionsprozessen und für die vorausschauende Instandhaltung von
+            Produktionsanlagen nutzen
+
+
+        e)  Software-Applikationen des Betriebes mit mobilen und stationären
+            Arbeitsmitteln einsetzen
+
+
+        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig
+            nutzen
+
+
+        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit
+            digitaler Daten im Produktionsprozess einhalten
+
+
+
+
+    *
+    *
+    *   10
+
+
 
 
     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772200_02_BJNR136000009BJNE001400000]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772200_03_BJNR136000009BJNE001400000]: 
+[^f772200_02_BJNR136000009BJNE001401125]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
+[^f772200_03_BJNR136000009BJNE001401125]: 

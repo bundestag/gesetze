@@ -1,7 +1,7 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
-  Fachkaufmann für Büro- und Projektorganisation und Geprüfte Fachkauffrau für Büro-
-  und Projektorganisation
+  Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und
+  Projektorganisation
 jurabk: FachkBüroPrV 2012
 layout: default
 origslug: fachkb_roprv_2012
@@ -9,13 +9,16 @@ slug: fachkbueroprv_2012
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und Projektorganisation und Geprüfte Fachkauffrau für Büro- und Projektorganisation (FachkBüroPrV 2012)
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation (FachkBüroPrV 2012)
 
 Ausfertigungsdatum
 :   2012-02-09
 
 Fundstelle
 :   BGBl I: 2012, 268
+
+Zuletzt geändert durch
+:   Art. 57 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -32,11 +35,10 @@ Bundesministerium für Wirtschaft und Technologie:
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
-Geprüften Fachkaufmann für Büro- und Projektorganisation und zur
-Geprüften Fachkauffrau für Büro- und Projektorganisation nach den §§ 2
-bis 9 durchführen, in denen die auf einen beruflichen Aufstieg
-abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen
-ist.
+Geprüften Fachwirt für Büro- und Projektorganisation und zur Geprüften
+Fachwirtin für Büro- und Projektorganisation nach den §§ 2 bis 9
+durchführen, in denen die auf einen beruflichen Aufstieg abzielende
+Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
 (2) Durch die Prüfung ist festzustellen, ob die notwendigen
 Kompetenzen vorhanden sind, um eigenständig und verantwortlich in den
@@ -81,8 +83,8 @@ insbesondere folgende Aufgaben wahrgenommen werden:
 
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten
-Fortbildungsabschluss „Geprüfter Fachkaufmann für Büro- und
-Projektorganisation“ oder „Geprüfte Fachkauffrau für Büro- und
+Fortbildungsabschluss „Geprüfter Fachwirt für Büro- und
+Projektorganisation“ oder „Geprüfte Fachwirtin für Büro- und
 Projektorganisation“.
 
 
@@ -165,11 +167,10 @@ Ausbilden im büro- und personalwirtschaftlichen Umfeld“ nach Absatz 1
 Nummer 3 sowie auf einen weiteren Handlungsbereich nach Absatz 1
 beziehen. Die Präsentationszeit soll zehn Minuten nicht überschreiten.
 Die Präsentation geht mit einem Drittel in die Bewertung der
-mündlichen Prüfung ein. Das Thema der Präsentation wird von dem
-Prüfungsteilnehmer oder von der Prüfungsteilnehmerin gewählt und mit
-einer Kurzbeschreibung der Problemstellung, des Ziels und einer
-Gliederung dem Prüfungsausschuss bei der schriftlichen
-Prüfungsleistung eingereicht.
+mündlichen Prüfung ein. Das Thema der Präsentation wird von der zu
+prüfenden Person gewählt und mit einer Kurzbeschreibung der
+Problemstellung, des Ziels und einer Gliederung dem Prüfungsausschuss
+bei der schriftlichen Prüfungsleistung eingereicht.
 
 (6) Ausgehend von der Präsentation nach den Absätzen 4 und 5 soll in
 dem Fachgespräch nach Absatz 4 die Fähigkeit nachgewiesen werden, dass
@@ -305,36 +306,102 @@ folgende Qualifikationsinhalte geprüft werden:
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in der schriftlichen Prüfung und
-in der mündlichen Prüfung jeweils insgesamt mindestens ausreichende
-Leistungen erbracht wurden.
-
-(2) Die schriftliche und die mündliche Prüfung sind jeweils nach
-Punkten zu bewerten. Die Gesamtnote ergibt sich aus dem arithmetischen
-Mittel der beiden Punktebewertungen und ist gesondert auszuweisen.
-
-(3) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 5 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
+7 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die beiden Aufgabenstellungen im schriftlichen Prüfungsteil nach §
+3 Absatz 3 sind einzeln zu bewerten. Aus den Bewertungen der
+Aufgabenstellungen ist das arithmetische Mittel als Ergebnis der
+schriftlichen Prüfung zu berechnen.
+
+(3) Im mündlichen Prüfungsteil sind als Prüfungsleistungen zu
+bewerten:
+
+1.  die Präsentation sowie
+
+
+2.  das Fachgespräch.
+
+
+
+Aus den Bewertungen der Präsentation und des Fachgesprächs wird als
+zusammengefasste Bewertung das gewichtete arithmetische Mittel
+berechnet. Dabei sind die Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung des Fachgesprächs mit zwei Dritteln,
+
+
+2.  die Bewertung der Präsentation mit einem Drittel.
+
+
+
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
+und der mündlichen Teilprüfung jeweils mindestens 50 Punkte erreicht
+worden sind.
+
+(2) Ist die Prüfung bestanden, sind die Bewertungen für die
+schriftliche und die mündliche Prüfung jeweils kaufmännisch auf eine
+ganze Zahl zu runden.
+
+(3) Den Bewertungen für die Prüfungsteile „schriftliche Prüfung“ und
+„mündliche Prüfung“ ist nach Anlage 1 die jeweilige Note als
+Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel der beiden Prüfungsteile zu berechnen. Die
+Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der
+gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl
+und die Note in Worten zuzuordnen. Die zugeordnete Note ist die
+Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
 (2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich
@@ -346,15 +413,16 @@ richten, die bestandene Prüfungsleistung einmal zu wiederholen. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 8 Ausbildereignung
+## § 10 Ausbildereignung
 
 Mit der erfolgreich abgelegten Fortbildungsprüfung nach dieser
 Verordnung wurden auch die berufs- und arbeitspädagogischen
 Fertigkeiten, Kenntnisse und Fähigkeiten nach § 30 Absatz 5 des
-Berufsbildungsgesetzes nachgewiesen.
+Berufsbildungsgesetzes nachgewiesen. Der zu prüfenden Person ist das
+Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Fachkaufmann für
 Büromanagement und zur Geprüften Fachkauffrau für Büromanagement
@@ -369,216 +437,366 @@ Prüfungen nach Absatz 1 nach dieser Verordnung durchführen; § 7 Absatz
 2 findet in diesem Fall keine Anwendung.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
+## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
 Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für
 Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 
-(zu § 6 Absatz 3)
+(zu den §§ 6 und 7)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 271)
+(Fundstelle: BGBl. I 2019, 2353 – 2354)
 
 
-*    *   .........................................
+*    *   Punkte
 
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und
-Projektorganisation und Geprüfte Fachkauffrau für Büro- und
-Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268) bestanden.
-
-Damit wurden die berufs- und arbeitspädagogischen Fertigkeiten,
-Kenntnisse und Fähigkeiten im Sinne von § 30 Absatz 5 des
-Berufsbildungsgesetzes nachgewiesen.
-
-
-*    *   Datum ................................................................
-        ...........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-(zu § 6 Absatz 3)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. I 2012, 272 - 273)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
-
-
-*    *   Herr/Frau
-        ......................................................................
-        ........ ...
-
-
-*    *   geboren am
-        ..........................................
-
-    *   in
-        ...................................
-
-
-*    *   hat am
-        ...................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und
-Projektorganisation und Geprüfte Fachkauffrau für Büro- und
-Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268) bestanden:
-
-Die Prüfung beinhaltet die Handlungsbereiche:
-
-1.  Koordinieren von Entscheidungsprozessen im Rahmen betrieblicher
-    Organisationsstrukturen
-
-
-2.  Gestalten und Pflegen von Kundenbeziehungen in betrieblichen
-    Leistungsprozessen
-
-
-3.  Führen, Betreuen, Verwalten und Ausbilden im büro- und
-    personalwirtschaftlichen Umfeld
-
-
-4.  Steuern von Geschäftsprozessen im bürowirtschaftlichen Umfeld
-
-
-
-
-
-*    *   Prüfungsergebnis:
-
-    *[^f1775540_01_BJNR026800012BJNE001300000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Schriftliche Prüfung
+    *   1,0
 
-    *   ..........
+    *   sehr gut
 
-    *
-    *   ...........
-
-
-*    *   II.
-
-    *   Mündliche Prüfung
-
-    *
-    *
-    *
-
-*    *
-    *   Präsentation und Fachgespräch
-
-    *   ............
-
-    *
-    *   ...........
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *
-    *   Gesamtnote
+*    *   98 und 99
 
-    *
-    *
-    *   ...........
+    *   1,1
 
 
-*    *   Damit wurden die berufs- und arbeitspädagogischen Fertigkeiten,
-        Kenntnisse und Fähigkeiten im Sinne von § 30 Absatz 5 des
-        Berufsbildungsgesetzes nachgewiesen.
-        (Im Fall des § 5: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 5 im Hinblick auf die am
-        ..............
-        in
-        .................................. vor
-        .....................................abgelegte Prüfung von der
-        Prüfung
-        ..........................................................
-        freigestellt.“)
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2354 – 2355)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
 
 
 
 
-*    *   Datum
-        ......................................................................
-        .
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung der Handlungsbereiche der Prüfung,
 
 
-*    *   Unterschrift(en)
-        ......................................................................
-        ........ .
+2.  Bewertung und Note der schriftlichen und der mündlichen Prüfung,
 
 
-*    *   (Siegel der zuständigen Stelle)
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 5.
 
 
 
-[^f1775540_01_BJNR026800012BJNE001300000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
 

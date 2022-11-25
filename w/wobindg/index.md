@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.2001 I 2404;
 
 Zuletzt geändert durch
-:   Art. 87 V v. 31.10.2006 I 2407
+:   Art. 161 V v. 19.6.2020 I 1328
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -404,7 +404,7 @@ diesem Gesetz zulässigen Entgelts verpflichtet, so kann der Vermieter
 dem Mieter gegenüber schriftlich erklären, dass das Entgelt um einen
 bestimmten Betrag, bei Umlagen um einen bestimmbaren Betrag, bis zur
 Höhe des zulässigen Entgelts erhöht werden soll. Die Erklärung ist nur
-wirksam, wenn in ihr die Erhöhung berechnet und erläutert ist. Die
+wirksam, wenn in ihr die Erhöhung berechnet und erläutert ist. Der
 Berechnung der Kostenmiete ist eine Wirtschaftlichkeitsberechnung oder
 ein Auszug daraus, der die Höhe der laufenden Aufwendungen erkennen
 lässt, beizufügen. An Stelle einer Wirtschaftlichkeitsberechnung kann
@@ -823,13 +823,12 @@ Die Vorschriften der §§ 18a bis 18d gelten entsprechend für
 öffentliche Baudarlehen und Zins- und Tilgungshilfen, die nach dem
 Gesetz zur Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau aus
 Mitteln des Treuhandvermögens des Bundes bewilligt worden sind. Die in
-§ 18b Abs. 1 bezeichneten Aufgaben obliegen dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung im Benehmen mit den für das
-Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, die Bestimmungen nach § 18a Abs. 1 bis 3 und 5 sowie nach
-§ 18d durch Rechtsverordnung mit Zustimmung des Bundesrates zu
-treffen.
+§ 18b Abs. 1 bezeichneten Aufgaben obliegen dem Bundesministerium des
+Innern, für Bau und Heimat im Benehmen mit den für das Wohnungs- und
+Siedlungswesen zuständigen obersten Landesbehörden. Das
+Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, die
+Bestimmungen nach § 18a Abs. 1 bis 3 und 5 sowie nach § 18d durch
+Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
 
 ### § 18f Mieterhöhung
@@ -930,7 +929,8 @@ b)  wenn die zuständige Stelle eine Freistellung von der Zweckbindung der
     Bergarbeiterwohnung unter den Voraussetzungen des § 6 Abs. 3 oder 4
     des Gesetzes zur Förderung des Bergarbeiterwohnungsbaus im
     Kohlenbergbau zugunsten von Wohnberechtigten im Sinne des
-    Wohnungsbindungsgesetzes ausgesprochen hat.
+    Wohnungsbindungsgesetzes oder entsprechender landesrechtlicher
+    Vorschriften ausgesprochen hat.
 
 
 
@@ -939,8 +939,9 @@ b)  wenn die zuständige Stelle eine Freistellung von der Zweckbindung der
 Bergarbeiterwohnungsbaus im Kohlenbergbau bezeichneten Wohnungen die
 Zweckbindung zugunsten von Wohnungsberechtigten im Kohlenbergbau
 beendet, so sind hinsichtlich der Zweckbindung die Vorschriften der §§
-4 bis 7 dieses Gesetzes anzuwenden; der Verfügungsberechtigte darf die
-Wohnung jedoch auch einem Wohnungsberechtigten im Sinne des § 4 Abs. 1
+4 bis 7 dieses Gesetzes oder entsprechende landesrechtliche
+Vorschriften anzuwenden; der Verfügungsberechtigte darf die Wohnung
+jedoch auch einem Wohnungsberechtigten im Sinne des § 4 Abs. 1
 Buchstabe a bis c des Gesetzes zur Förderung des
 Bergarbeiterwohnungsbaus im Kohlenbergbau vermieten oder überlassen.
 

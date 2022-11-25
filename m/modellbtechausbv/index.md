@@ -1,8 +1,6 @@
-[^f772144_01_BJNR118700009]
-Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur
-Technischen Modellbauerin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen
+  Modellbauerin
 jurabk: ModellBTechAusbV
 layout: default
 origslug: modellbtechausbv
@@ -10,7 +8,7 @@ slug: modellbtechausbv
 
 ---
 
-#  (ModellBTechAusbV)
+# Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin (ModellBTechAusbV)
 
 Ausfertigungsdatum
 :   2009-05-27
@@ -29,7 +27,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25
 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in

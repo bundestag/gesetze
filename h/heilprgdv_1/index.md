@@ -17,8 +17,9 @@ Fundstelle
 :   RGBl I: 1939, 259
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.12.2002 I 4456
+:   Art. 17f iVm Art. 18 Abs. 4 G v. 23.12.2016 I 3191
 
+Stand: Bek. v. 9.1.2018 I 126 mWv 22.3.2018 (Nr. 3) ist berücksichtigt
 
 ## Eingangsformel
 
@@ -66,12 +67,18 @@ h)  wenn mit Sicherheit anzunehmen ist, daß er die Heilkunde neben einem
 
 
 i)  wenn sich aus einer Überprüfung der Kenntnisse und Fähigkeiten des
-    Antragstellers durch das Gesundheitsamt ergibt, daß die Ausübung der
-    Heilkunde durch den Betreffenden eine Gefahr für die Volksgesundheit
-    bedeuten würde.
+    Antragstellers durch das Gesundheitsamt, die auf der Grundlage von
+    Leitlinien zur Überprüfung von Heilpraktikeranwärtern durchgeführt
+    wurde, ergibt, dass die Ausübung der Heilkunde durch den Betreffenden
+    eine Gefahr für die Gesundheit der Bevölkerung oder für die ihn
+    aufsuchenden Patientinnen und Patienten bedeuten würde.
 
 
 
+Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung
+von Heilpraktikeranwärtern bis spätestens zum 31. Dezember 2017 im
+Bundesanzeiger bekannt. Bei der Erarbeitung der Leitlinien sind die
+Länder zu beteiligen.
 
 (2)
 

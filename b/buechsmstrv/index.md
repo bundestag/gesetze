@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 1117
 
+Geändert durch
+:   Art. 2 Abs. 1 V v. 18.1.2022 I 39
+
 
 
 ## Eingangsformel
@@ -340,16 +343,15 @@ ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 3,
 
 ### § 7 Weitere Anforderungen
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmten sich nach
-der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
-Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
-geltenden Fassung.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
+
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
+sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
-### § 8 Berlin-Klausel
+### § 8 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
 
 ### § 9 Inkrafttreten

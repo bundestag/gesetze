@@ -1,8 +1,6 @@
-[^f771489_01_BJNR193100008]
-Verordnung über das erlaubnispflichtige Personal der Flugsicherung und
-seine Ausbildung
 ---
-Title: ''
+Title: Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine
+  Ausbildung
 jurabk: FSPersAV
 layout: default
 origslug: fspersav
@@ -10,7 +8,7 @@ slug: fspersav
 
 ---
 
-#  (FSPersAV)
+# Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung (FSPersAV)
 
 Ausfertigungsdatum
 :   2008-10-10
@@ -18,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1931
 
-Geändert durch
-:   Art. 1 V v. 23.12.2009 I 3972
+Zuletzt geändert durch
+:   Art. 15 Abs. 32 G v. 4.5.2021 I 882
 
 [^f771489_01_BJNR193100008]:     Die Abschnitte 1 und 2 dieser Verordnung dienen der Umsetzung der
     Richtlinie 2006/23/EG des Europäischen Parlaments und des Rates vom 5.
@@ -1452,7 +1450,7 @@ Voraussetzungen:
 (1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die
 medizinische Tauglichkeit vor der Einstellung in einer
 Erstuntersuchung nach der entsprechenden Tauglichkeitsrichtlinie des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 25.
+Bundesministeriums für Verkehr und digitale Infrastruktur vom 25.
 August 2001, NfL II 78/01, in der jeweils gültigen Fassung
 nachzuweisen.
 
@@ -1480,7 +1478,7 @@ genannten Richtlinie in folgenden Zeiträumen festzustellen:
 
 
 (3) Falls von dem nach der in Absatz 1 genannten Richtlinie des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+Bundesministeriums für Verkehr und digitale Infrastruktur
 untersuchenden Arzt eine kürzere Frist für erforderlich gehalten wird,
 kann eine vorzeitige Nachuntersuchung veranlasst werden. Auch beim
 Vorliegen besonderer Gründe, die Zweifel an dem Fortbestehen der
@@ -1888,6 +1886,16 @@ Tätigkeit auf dem betreffenden Arbeitsplatz der
 Flugsicherungsbetriebsdienste in den Verwendungsbereichen nach § 1 Nr.
 2 oder zur selbstverantwortlichen Inbetriebhaltung der betreffenden
 flugsicherungstechnischen Einrichtung nach § 1 Nr. 3 vorhanden sind.
+
+(4) Die Aufsichtsbehörde kann in außergewöhnlichen Notfällen mit
+bundesweiten Auswirkungen, insbesondere in epidemischen Lagen von
+nationaler Tragweite nach § 5 Absatz 1 des Infektionsschutzgesetzes,
+Berechtigungen auch ohne Vorliegen der Voraussetzungen des Absatzes 2
+für einen Zeitraum von bis zu sechs Monaten verlängern, wenn und
+soweit dies für die Aufrechterhaltung der Funktionsfähigkeit der
+Flugsicherung erforderlich ist. Bei Fortdauer des Notfalls und
+nachgewiesenem Personalbedarf ist einmalig eine erneute Verlängerung
+um bis zu drei weitere Monate möglich.
 
 
 #### § 44 Überprüfung, Ruhen und Widerruf von Berechtigungen
@@ -2369,7 +2377,7 @@ und 8)
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Grundkurs für Flugverkehrskontrolle,**
-        insbesondere:
+         insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -2449,7 +2457,7 @@ und 8)
 
 
         **Betriebsverfahren für die Flugverkehrskontrolle,**
-        insbesondere:
+         insbesondere:
 
         –   Allgemeine Kontrollverfahren
 
@@ -2519,7 +2527,7 @@ und 8)
 
 
         **Luftfahrzeuge und Luftfahrtkunde,**
-        insbesondere:
+         insbesondere:
 
         –   Aerodynamik
 
@@ -2539,7 +2547,7 @@ und 8)
 
 
         **Technische Flugsicherungssysteme,**
-        insbesondere:
+         insbesondere:
 
         –   Funk- und Kommunikationssysteme
 
@@ -2684,7 +2692,7 @@ und 8)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
         Flugsicherungsdienste in Flugplatzkontrollstellen,**
-        insbesondere:
+         insbesondere:
 
         –   Einweisung in das Simulationssystem
 
@@ -2768,7 +2776,7 @@ und 8)
         **Grundlegende Radartheorie und -verfahren**
 
         **Rollfeldradar und Radarbeobachtung in der Flugplatzkontrolle,**
-        insbesondere:
+         insbesondere:
 
         –   Praktische Übungen und Simulation
 
@@ -2834,7 +2842,7 @@ und 8)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
         Radarkontrolle in Flugplatzkontrollstellen,**
-        insbesondere:
+         insbesondere:
 
 
         –   Einweisung in das Simulationssystem
@@ -2904,7 +2912,7 @@ und 8)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
         Flugsicherungsdienste in Flugplatzkontrollstellen,**
-        insbesondere:
+         insbesondere:
 
         –   Einweisung in das Simulationssystem
 
@@ -2994,7 +3002,7 @@ und 8)
 
         **Betriebliche Kenntnisse und Verfahren zur Nutzung von elektronischer
         Rollverkehrsdarstellung in Flugplatzkontrollstellen,**
-        insbesondere:
+         insbesondere:
 
 
         –   Grundsätzliche Funktionsweise und Verwendung von Radar
@@ -3286,7 +3294,7 @@ und 8)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
         Flugsicherungsdienste im Nahverkehrsbereich,**
-        insbesondere:
+         insbesondere:
 
         –   Einweisung in die Simulationsübungen
 
@@ -3598,7 +3606,7 @@ und 8)
 
 
         **Abschnittsübergreifende fachliche Inhalte,**
-        insbesondere:
+         insbesondere:
 
         –   Örtliche Luftraumordnung
 
@@ -3634,7 +3642,7 @@ und 8)
     a)  Ausbildungsinhalte
 
         **Abschnittsbezogene fachliche Einweisungsinhalte,**
-        insbesondere:
+         insbesondere:
 
         –   Zuständigkeitsbereiche und Arbeitsplätze des Trainingsabschnitts
 
@@ -4147,7 +4155,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Einführung in das Flugsicherungsunternehmen DFS,**
-        insbesondere:
+         insbesondere:
 
         –   Aufgaben und Organisation der DFS
 
@@ -4190,7 +4198,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Flugsicherungsbetriebsverfahren,**
-        insbesondere:
+         insbesondere:
 
         –   Flugverkehrskontrolldienst
 
@@ -4242,7 +4250,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Luftfahrzeuge und Luftfahrtkunde,**
-        insbesondere:
+         insbesondere:
 
         –   Grundprinzipien des Fliegens
 
@@ -4256,7 +4264,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Technische Flugsicherungssysteme,**
-        insbesondere:
+         insbesondere:
 
         –   Funk- und Kommunikationssysteme
 
@@ -4293,7 +4301,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Praktische Flugdatenbearbeitung,**
-        insbesondere:
+         insbesondere:
 
         –   Flugpläne
 
@@ -4355,7 +4363,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Erlaubniskurs für Flugdatenbearbeitung,**
-        insbesondere:
+         insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4391,7 +4399,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Betriebsverfahren in der Flugdatenbearbeitung,**
-        insbesondere:
+         insbesondere:
 
         –   Regelungen zur Flugdatenbearbeitung
 
@@ -4420,7 +4428,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Praktische Flugdatenbearbeitung,**
-        insbesondere:
+         insbesondere:
 
         –   Fertigkeiten in der Flugdatenbearbeitung
 
@@ -4482,7 +4490,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Erlaubniskurs für Fluginformationsdienst,**
-        insbesondere:
+         insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4518,7 +4526,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Betriebsverfahren im Fluginformationsdienst,**
-        insbesondere:
+         insbesondere:
 
         –   Regelungen für den Fluginformationsdienst
 
@@ -4548,7 +4556,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Technische Flugsicherungssysteme,**
-        insbesondere:
+         insbesondere:
 
         –   Elektronische Luftverkehrsdarstellung
 
@@ -4579,7 +4587,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Praktischer Fluginformationsdienst ohne Radar,**
-        insbesondere:
+         insbesondere:
 
         –   Allgemeine Informationen
 
@@ -4602,7 +4610,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Praktischer Fluginformationsdienst mit Radar,**
-        insbesondere:
+         insbesondere:
 
         –   Identifizierung
 
@@ -4685,7 +4693,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Erlaubniskurs für Flugberatung,**
-        insbesondere:
+         insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4721,7 +4729,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Betriebsverfahren in der Flugberatung,**
-        insbesondere:
+         insbesondere:
 
         –   Regelungen zur Flugberatung
 
@@ -4832,7 +4840,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Ergänzungskurs für Platzkoordination,**
-        insbesondere:
+         insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4846,7 +4854,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Betriebsverfahren in der Platzkoordination,**
-        insbesondere:
+         insbesondere:
 
         –   Anlassverfahren
 
@@ -4863,7 +4871,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Technische Flugsicherungssysteme,**
-        insbesondere:
+         insbesondere:
 
         –   Integrierte Flugplanverarbeitung
 
@@ -4891,7 +4899,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Praktische Platzkoordination,**
-        insbesondere:
+         insbesondere:
 
         –   Anlasserlaubnis
 
@@ -4958,7 +4966,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     Lehrfächer **und wesentliche Themengebiete)**
 
     **Rechtsgrundlagen, Organisation und Betriebsdurchführung,**
-    insbesondere:
+     insbesondere:
 
     –   Recht und Verwaltungshandeln
 
@@ -4981,7 +4989,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     **Technisches Englisch**
 
     **Technische Grundlagen der Datenverarbeitung (Hardware),**
-    insbesondere:
+     insbesondere:
 
     –   Struktur und Aufgaben aktueller Rechnersysteme
 
@@ -4989,7 +4997,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Datenverarbeitung (Software),**
-    insbesondere:
+     insbesondere:
 
     –   Struktur und Funktion von Programmiersprachen
 
@@ -5003,7 +5011,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Datenübertragungstechnik,**
-    insbesondere:
+     insbesondere:
 
     –   Netzwerke
 
@@ -5017,7 +5025,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Sende- und Empfangstechnik,**
-    insbesondere:
+     insbesondere:
 
     –   Struktur und Funktion von Funksprechsystemen
 
@@ -5039,7 +5047,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Navigationstechnik,**
-    insbesondere:
+     insbesondere:
 
     –   Begriffe der Navigation
 
@@ -5053,7 +5061,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Radartechnik,**
-    insbesondere:
+     insbesondere:
 
     –   Begriffe und Definitionen
 
@@ -5073,7 +5081,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Flugsicherungssysteme,**
-    insbesondere:
+     insbesondere:
 
     –   Funktion, Arbeitsweise, Zusammenhänge und Bedeutung von
         Flugsicherungssystemen
@@ -5169,7 +5177,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
         **Abschnittsübergreifende fachliche Inhalte,**
-        insbesondere:
+         insbesondere:
 
         –   Örtliche Luftraumordnung
 
@@ -5205,7 +5213,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     a)  Ausbildungsinhalte
 
         **Abschnittsbezogene fachliche Einweisungsinhalte,**
-        insbesondere:
+         insbesondere:
 
         –   Zuständigkeitsbereiche und Arbeitsplätze des Trainingsabschnitts
 

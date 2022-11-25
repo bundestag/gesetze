@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.12.1982 I 1728;
 
 Zuletzt geändert durch
-:   Art. 414 V v. 31.10.2006 I 2407
+:   Art. 383 V v. 31.8.2015 I 1474
 
 
 ## I. - Allgemeine Vorschriften
@@ -81,8 +81,8 @@ Das innergemeinschaftliche Verbringen aus anderen Mitgliedstaaten
 ### § 2
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-das Verbringen und die Einfuhr von Erregern
+Bundesministerium für Ernährung und Landwirtschaft das Verbringen und
+die Einfuhr von Erregern
 der Afrikanischen Pferdepest,
 der Amerikanischen Pferdeencephalitis (Typ Ost, Typ West und Typ
 Venezuela),
@@ -183,21 +183,20 @@ Chargenprüfung übersandt werden.
 ### § 5
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-das Verbringen und die Einfuhr von Impfstoffen und
-Antigenpräparationen, die Erreger der in § 2 Abs. 1 aufgeführten
-Tierseuchen oder serologisch mit diesen verwandte Tierseuchenerreger
-enthalten, für Zwecke der staatlichen Tierseuchenbekämpfung im
-Einzelfall genehmigen, sofern infolge der Entwicklung der
-Tierseuchenlage im Ausland oder des Auftretens einer in § 2 Abs. 1
-genannten Tierseuche im Inland zum Schutz der einheimischen
-Nutztierbestände eine Bevorratung mit derartigen Impfstoffen und
-Antigenpräparationen oder eine Anwendung derartiger Impfstoffe oder
-Antigenpräparationen erforderlich ist. Dies gilt nicht, soweit
-Impfstoffe oder Antigenpräparationen mit ausreichender Wirksamkeit,
-die keine Tierseuchenerreger enthalten, zur Verfügung stehen. Die
-Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen.
-In diesen sind insbesondere vorzusehen:
+Bundesministerium für Ernährung und Landwirtschaft das Verbringen und
+die Einfuhr von Impfstoffen und Antigenpräparationen, die Erreger der
+in § 2 Abs. 1 aufgeführten Tierseuchen oder serologisch mit diesen
+verwandte Tierseuchenerreger enthalten, für Zwecke der staatlichen
+Tierseuchenbekämpfung im Einzelfall genehmigen, sofern infolge der
+Entwicklung der Tierseuchenlage im Ausland oder des Auftretens einer
+in § 2 Abs. 1 genannten Tierseuche im Inland zum Schutz der
+einheimischen Nutztierbestände eine Bevorratung mit derartigen
+Impfstoffen und Antigenpräparationen oder eine Anwendung derartiger
+Impfstoffe oder Antigenpräparationen erforderlich ist. Dies gilt
+nicht, soweit Impfstoffe oder Antigenpräparationen mit ausreichender
+Wirksamkeit, die keine Tierseuchenerreger enthalten, zur Verfügung
+stehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen
+zu versehen. In diesen sind insbesondere vorzusehen:
 
 1.  Anforderungen an Art und Eigenschaften des zur Herstellung des
     Impfstoffes oder der Antigenpräparation verwendeten Erregerstammes,
@@ -283,10 +282,9 @@ Einrichtungen oder Betriebe abgegeben werden darf.
 ### § 7
 
 Die zuständigen obersten Landesbehörden können im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-abweichend von den §§ 5 und 6 das Verbringen und die Einfuhr von
-Impfstoffen, die Tierseuchenerreger enthalten, im Einzelfall
-genehmigen
+Bundesministerium für Ernährung und Landwirtschaft abweichend von den
+§§ 5 und 6 das Verbringen und die Einfuhr von Impfstoffen, die
+Tierseuchenerreger enthalten, im Einzelfall genehmigen
 
 1.  für Zwecke der staatlichen Tierseuchenbekämpfung,
 
@@ -326,22 +324,19 @@ Satz 3 und 4 und Abs. 2 gilt entsprechend.
 
 ### § 8
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig einer mit
-einer Genehmigung nach § 2 Abs. 1, § 3, § 4, § 5 Abs. 1, § 6 oder § 7
-verbundenen vollziehbaren Auflage zuwiderhandelt.
+Nach § 31 Absatz 1 Nummer 2, Absatz 3 bis 5 des
+Tiergesundheitsgesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1a einen Tierseuchenerreger oder
+1.  entgegen § 1a oder § 4a Absatz 1 einen Tierseuchenerreger, einen
+    Impfstoff oder eine Antigenpräparation verbringt oder einführt oder
 
 
-2.  entgegen § 4a Abs. 1 einen Impfstoff oder eine Antigenpräparation
+2.  einer vollziehbaren Auflage nach § 2 Absatz 2 Satz 3, § 3 Satz 2, § 4
+    Satz 2, § 5 Absatz 1 Satz 3, § 6 Absatz 1 Satz 2 oder Absatz 2 Satz 2
+    oder § 7 Satz 2 erster Halbsatz zuwiderhandelt.
 
 
 
-verbringt oder einführt.
 
 
 ## V. - Schlußvorschriften

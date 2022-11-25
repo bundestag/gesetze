@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1866
 
-Geändert durch
-:   Art. 1 G v. 16.3.2011 I 420
+Zuletzt geändert durch
+:   Art. 8 V v. 19.6.2020 I 1328
 
 
 
@@ -128,7 +128,7 @@ Bundes oder der Länder betraut sein.
 (10) Die Mitglieder des Nationalen Normenkontrollrates erhalten eine
 pauschale Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden
 vom Chef des Bundeskanzleramtes im Einvernehmen mit dem Bundesminister
-des Innern festgesetzt.
+des Innern, für Bau und Heimat festgesetzt.
 
 (11) Die Mitglieder des Nationalen Normenkontrollrates und die
 Angehörigen des Sekretariats sind zur Verschwiegenheit über die

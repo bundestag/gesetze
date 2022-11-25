@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1998, 2455
 
 Zuletzt geändert durch
-:   Art. 72 V v. 31.10.2006 I 2407
+:   Art. 127 V v. 19.6.2020 I 1328
 
 
 ## § 1 Zielsetzung
@@ -83,15 +83,22 @@ Bundeswehr.
 
 3.  jede Lagerung von Abfällen oder sonstigen Stoffen auf dem Meeresboden
     und im Meeresuntergrund von Schiffen, Luftfahrzeugen, Plattformen oder
-    sonstigen auf Hoher See errichteten Anlagen aus und
+    sonstigen auf Hoher See errichteten Anlagen aus,
 
 
 4.  die Aufgabe von Plattformen oder sonstigen auf Hoher See errichteten
     Anlagen insbesondere durch deren teilweises oder vollständiges
-    Versenken vor Ort in der Absicht, sich dieser Anlagen zu entledigen.
+    Versenken vor Ort in der Absicht, sich dieser Anlagen zu entledigen,
+
+
+5.  jede Zuführung von Stoffen und Gegenständen in die Hohe See im Rahmen
+    des marinen Geo-Engineerings.
 
 
 
+Ein Einbringen im Sinne von Satz 1 liegt nicht vor, wenn Maßnahmen des
+Naturschutzes von der zuständigen Behörde durchgeführt, angeordnet
+oder mit ihrer Zustimmung von Dritten durchgeführt werden.
 
 (2) Verbrennung auf Hoher See im Sinne dieses Gesetzes ist die
 Verbrennung von Abfällen oder sonstigen Stoffen zum Zwecke ihrer
@@ -112,6 +119,23 @@ rechtmäßige Nutzung des Meeres wie die Fischerei behindern, die
 Qualität des Meerwassers verschlechtern und sonstige Umweltgüter
 beeinträchtigen.
 
+(5) Marines Geo-Engineering im Sinne dieses Gesetzes ist das gezielte
+Eingreifen in die Meeresumwelt zur Beeinflussung natürlicher Prozesse,
+das nachteilige Auswirkungen auf die Umwelt oder auf die Gesundheit
+von Menschen haben kann. Ein Eingreifen im Sinne von Satz 1 liegt
+insbesondere vor, wenn damit den vom Menschen verursachten
+Klimaänderungen oder ihren Auswirkungen entgegengewirkt werden soll.
+Nicht zum marinen Geo-Engineering im Sinne dieses Gesetzes gehören
+Vorhaben
+
+1.  der konventionellen Aqua- und Marikultur und
+
+
+2.  zur Schaffung künstlicher Riffe.
+
+
+
+
 
 ## § 4 Einbringungsverbot, Ausnahmen
 
@@ -122,7 +146,12 @@ die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
 
 
 2.  Urnen zur Seebestattung (Behältnisse, die mit der Asche aus der
-    Verbrennung eines menschlichen Leichnams gefüllt sind).
+    Verbrennung eines menschlichen Leichnams gefüllt sind),
+
+
+3.  Stoffe und Gegenstände, die im Rahmen von Maßnahmen des marinen Geo-
+    Engineerings, die in der Anlage aufgeführt worden sind, eingebracht
+    werden.
 
 
 
@@ -148,9 +177,75 @@ Baggergut an Land zu verwerten oder zu beseitigen, ohne daß dies
 Gefahren für die menschliche Gesundheit oder die Umwelt mit sich
 bringt oder unangemessen hohe Kosten verursacht.
 
-(3) Die Erlaubnis für das Einbringen von Urnen zur Seebestattung kann
+(3) Für das Einbringen von Stoffen und Gegenständen im Rahmen des
+marinen Geo-Engineerings ist die Erlaubnis auch dann zu versagen, wenn
+nicht sichergestellt ist, dass der Vorhabenträger die sich aus § 5a
+ergebenden Pflichten erfüllt.
+
+(4) Die Erlaubnis für das Einbringen von Urnen zur Seebestattung kann
 für längstens ein Jahr im voraus für eine noch nicht bekannte Zahl von
-Einzelfällen erteilt werden.
+Einzelfällen erteilt werden. Die Erlaubnis für das Einbringen von
+Stoffen und Gegenständen im Rahmen des marinen Geo-Engineerings kann
+längstens für drei Jahre erteilt werden.
+
+
+## § 5a Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings
+
+(1) Bei Einbringungen nach § 3 Absatz 1 Nummer 5 hat der
+Vorhabenträger ein hohes Schutzniveau für die Meeresumwelt und die
+menschliche Gesundheit zu gewährleisten. Insbesondere hat er
+sicherzustellen, dass
+
+1.  keine Stoffe und Gegenstände in internationalen oder nationalen
+    Meeresschutzgebieten eingebracht werden und die Einbringung von
+    Stoffen und Gegenständen außerhalb solcher Schutzgebiete keine
+    nachteiligen Auswirkungen auf diese haben kann,
+
+
+2.  Verschmutzungen, erhebliche nachteilige Auswirkungen und Gefahren für
+    die Meeresumwelt, die Ökosysteme, die biologische Vielfalt, die
+    menschliche Gesundheit und für die zulässige Nutzung der Meere
+    verhindert werden,
+
+
+3.  Vorsorge gegen Verschmutzungen, erhebliche nachteilige Auswirkungen
+    und Gefahren nach Nummer 2 getroffen wird,
+
+
+4.  keine erhebliche nachteilige Veränderung der Wasserbeschaffenheit zu
+    besorgen ist und
+
+
+5.  Abfälle vermieden, nicht zu vermeidende Abfälle verwertet und nicht zu
+    verwertende Abfälle ohne Beeinträchtigung des Wohls der Allgemeinheit
+    beseitigt werden.
+
+
+
+
+(2) Bei Einbringungen nach § 3 Absatz 1 Nummer 5, die der
+wissenschaftlichen Forschung dienen, hat der Vorhabenträger
+unbeschadet des Absatzes 1 sicherzustellen, dass die Maßnahmen
+
+1.  von Beginn an ausreichend finanziert sind,
+
+
+2.  entsprechend dem Stand von Wissenschaft und Technik durchgeführt
+    werden,
+
+
+3.  nicht aus wirtschaftlichen Interessen durchgeführt werden,
+
+
+4.  zur Qualitätssicherung durch unabhängige Fachwissenschaftler überprüft
+    werden und
+
+
+5.  mit ihren Ergebnissen in wissenschaftlichen Fachzeitschriften
+    veröffentlicht werden.
+
+
+
 
 
 ## § 6 Verbrennungsverbot
@@ -173,56 +268,93 @@ der eingebrachten oder eingeleiteten Stoffe dem Bundesamt für
 Seeschiffahrt und Hydrographie zu melden.
 
 
-## § 8 Erlaubnisbehörde
+## § 8 Zuständigkeiten, Aufgaben und Befugnisse
 
-(1) Für die Entscheidung über die Erteilung von Erlaubnissen nach § 5
-ist das Bundesamt für Seeschiffahrt und Hydrographie zuständig. Um
-festzustellen, ob die Voraussetzungen des § 5 Abs. 2 Satz 1 und 2
-vorliegen, hört es die zuständigen Behörden des Bundes und der Länder
-an. Das Bundesamt für Seeschiffahrt und Hydrographie holt bei
-Baggergut vor der Entscheidung eine Stellungnahme des
-Umweltbundesamtes ein. Das Umweltbundesamt stellt nach Anhörung der
-zuständigen Landesbehörde, in deren Bereich das Baggergut angefallen
-ist oder beseitigt werden könnte, fest, ob die Voraussetzungen des § 5
-Abs. 2 Satz 3 vorliegen. Das Bundesamt für Seeschiffahrt und
-Hydrographie kann die zur Entscheidungsfindung erforderlichen
-Feststellungen treffen, Untersuchungen anordnen und die Einhaltung der
-Bedingungen und Auflagen überwachen.
+(1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für den
+Vollzug dieses Gesetzes zuständig; es untersteht insoweit der
+Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und
+nukleare Sicherheit. Um festzustellen, ob die Voraussetzungen des § 5
+Abs. 2 Satz 1 und 2 vorliegen, hört es die zuständigen Behörden des
+Bundes und der Länder an. Das Bundesamt für Seeschiffahrt und
+Hydrographie holt bei Baggergut vor der Entscheidung eine
+Stellungnahme des Umweltbundesamtes ein. Das Umweltbundesamt stellt
+nach Anhörung der zuständigen Landesbehörde, in deren Bereich das
+Baggergut angefallen ist oder beseitigt werden könnte, fest, ob die
+Voraussetzungen des § 5 Abs. 2 Satz 3 vorliegen. Das Bundesamt für
+Seeschiffahrt und Hydrographie kann die zur Entscheidungsfindung
+erforderlichen Feststellungen treffen, Untersuchungen anordnen und die
+Einhaltung der Bedingungen und Auflagen überwachen.
 
-(2) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
-Vorschriften aufgrund von § 9 Abs. 1 Nr. 1 werden nach dem
+(2) Das Bundesamt für Seeschifffahrt und Hydrographie kann die
+notwendigen Maßnahmen treffen, die zur Feststellung oder zur
+Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur
+Beseitigung festgestellter Verstöße oder zur Verhütung künftiger
+Verstöße erforderlich sind. Insbesondere kann das Bundesamt für
+Seeschifffahrt und Hydrographie anordnen, dass Abfälle oder sonstige
+Stoffe oder Gegenstände, die
+
+1.  entgegen § 4 Satz 1,
+
+
+2.  ohne Erlaubnis nach § 5 Absatz 1 oder
+
+
+3.  entgegen einer mit einer Erlaubnis nach § 5 Absatz 1 verbundenen
+    vollziehbaren Auflage
+
+
+
+in die Hohe See eingebracht worden sind, zu entfernen sind oder so zu
+sichern sind, dass sie nicht zu einer Verschmutzung der Meeresumwelt
+führen können.
+
+(3) Für die Erteilung und Überwachung der Einhaltung der Erlaubnis für
+das Einbringen von Stoffen und Gegenständen im Rahmen des marinen Geo-
+Engineerings sowie für nachträgliche Anordnungen, die die Einhaltung
+der Anforderungen nach § 5a sicherstellen, ist das Umweltbundesamt
+zuständig. Absatz 1 Satz 5 gilt entsprechend. Das Umweltbundesamt soll
+nachträgliche Anordnungen im Sinne von Satz 1 treffen, wenn nach
+Erteilung der Erlaubnis festgestellt wird, dass die Meeresumwelt oder
+die menschliche Gesundheit nicht ausreichend vor schädlichen
+Auswirkungen oder sonstigen Gefahren geschützt sind. Das
+Umweltbundesamt holt vor der Erteilung einer Erlaubnis und vor einer
+nachträglichen Anordnung im Sinne von Satz 1 Stellungnahmen des
+Bundesamtes für Seeschifffahrt und Hydrographie, des Bundesamtes für
+Naturschutz, der zuständigen Behörden der Länder sowie der Deutschen
+Forschungsgemeinschaft e. V. ein.
+
+(4) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
+Vorschriften aufgrund von § 9 Satz 1 Nummer 1 werden nach dem
 Verwaltungs-Vollstreckungsgesetz und dem Gesetz über den unmittelbaren
 Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes
-vollzogen. Unmittelbarer Zwang wird von den Vollzugsbeamten der
-Wasser- und Schiffahrtsverwaltung des Bundes mit strom- und
+vollzogen. Das Verwaltungsverfahrensgesetz ist anzuwenden.
+Unmittelbarer Zwang wird von den Vollzugsbeamten der Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes mit strom- und
 schiffahrtspolizeilichen Befugnissen sowie den Vollzugsbeamten der
 Bundespolizei und der Zollverwaltung ausgeübt; das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung regelt im Einvernehmen mit dem
-Bundesministerium des Innern und dem Bundesministerium der Finanzen
-das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der
-Bundespolizei und der Zollverwaltung.
+für Verkehr und digitale Infrastruktur regelt im Einvernehmen mit dem
+Bundesministerium des Innern, für Bau und Heimat und dem
+Bundesministerium der Finanzen das Zusammenwirken der Wasserstraßen-
+und Schifffahrtsverwaltung, der Bundespolizei und der Zollverwaltung.
 
-(3) § 8 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
-Seeschiffahrt gilt entsprechend. Das Grundrecht der Unverletzlichkeit
-der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit
-eingeschränkt.
+(5) § 8 des Seeaufgabengesetzes gilt entsprechend. Das Grundrecht der
+Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
+insoweit eingeschränkt.
 
-(4) Für Amtshandlungen aufgrund des Absatzes 1 oder der auf § 9 Abs. 1
-Nr. 1 beruhenden Rechtsverordnungen werden Gebühren und Auslagen
-erhoben.
+(6) Für Amtshandlungen aufgrund der Absätze 1 und 2 oder der auf § 9
+Satz 1 Nummer 1 beruhenden Rechtsverordnungen werden Gebühren und
+Auslagen erhoben.
 
 
 ## § 9 Verordnungsermächtigungen
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.  im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung und dem Bundesministerium für Wirtschaft und
-    Technologie Durchführungsvorschriften zu erlassen, die das Verfahren
-    bei der Erteilung der Erlaubnisse nach § 5 regeln; es kann
-    insbesondere Vorschriften über die Antragsunterlagen und die Form der
-    Erlaubnis erlassen;
+1.  im Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+    Infrastruktur und dem Bundesministerium für Wirtschaft und Energie das
+    Verfahren zur Erteilung der Erlaubnisse nach § 5 sowie die frühzeitige
+    Öffentlichkeitsbeteiligung zu regeln;
 
 
 2.  im Einvernehmen mit dem Bundesministerium der Finanzen die Gebühren
@@ -233,6 +365,10 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 
+Die Rechtsverordnung nach Satz 1 Nummer 1 bedarf auch des
+Einvernehmens mit dem Bundesministerium für Bildung und Forschung,
+soweit Vorhaben des marinen Geo-Engineerings betroffen sind, die der
+wissenschaftlichen Forschung dienen.
 
 
 ## § 10 Bußgeldvorschriften
@@ -243,14 +379,14 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
     die See einbringt,
 
 
-2.  ohne Erlaubnis nach § 5 Abs. 1 Satz 1 Stoffe oder Gegenstände
+2.  ohne Erlaubnis nach § 5 Absatz 1 Satz 1 Stoffe oder Gegenstände
     einbringt,
 
 
-3.  eine Bedingung nach § 5 Abs. 2 Satz 1 nicht einhält,
+3.  eine Bedingung nach § 5 Absatz 2 Satz 1 nicht einhält,
 
 
-4.  einer vollziehbaren Auflage nach § 5 Abs. 2 Satz 1 zuwiderhandelt,
+4.  einer vollziehbaren Auflage nach § 5 Absatz 2 Satz 1 zuwiderhandelt,
 
 
 5.  entgegen § 6 Abfälle oder sonstige Stoffe verbrennt oder
@@ -265,10 +401,14 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für
+Seeschifffahrt und Hydrographie.
+
 
 ## § 11 Vollzugsbeamte
 
-Die in § 8 Abs. 2 bezeichneten Vollzugsbeamten des Bundes haben auf
+Die in § 8 Absatz 4 bezeichneten Vollzugsbeamten des Bundes haben auf
 der Hohen See bei der Erforschung von Zuwiderhandlungen nach § 10 und
 nach den §§ 324, 326, 330 und 330a des Strafgesetzbuches die Rechte
 und Pflichten der Polizeibeamten nach den Vorschriften der
@@ -313,4 +453,17 @@ Dieses Gesetz berührt nicht
 ## § 13 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
+
+(zu § 4 Satz 2 Nummer 3)
+
+## Anlage Maßnahmen des marinen Geo-Engineerings
+
+(Fundstelle: BGBl. I 2018, S. 2255)
+
+Folgende Maßnahmen sind Maßnahmen des marinen Geo-Engineerings nach §
+4 Satz 2 Nummer 3:
+
+Tätigkeiten, die darauf abzielen, die Primärproduktion im Meer
+anzuregen (Meeresdüngung), wenn sie der wissenschaftlichen Forschung
+dienen.
 

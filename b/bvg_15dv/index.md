@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 105
 
+V aufgeh. durch
+:   Art. 58 Nr. 16 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 
 ## Eingangsformel

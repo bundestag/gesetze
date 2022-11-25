@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 1003
 
 Zuletzt geändert durch
-:   Art. 73 G v. 8.12.2010 I 1864
+:   Art. 301 V v. 31.8.2015 I 1474
 
 
 ## Gliederung
@@ -2224,7 +2224,7 @@ ausreichen.
 
 #### § 108
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt im
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt im
 Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen
 mit der
 Bank deutscher Länder              die im Hinblick auf die

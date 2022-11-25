@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 504
 
+Zuletzt geändert durch
+:   Art. 118 G v. 10.8.2021 I 3436
+
 
 ## Eingangsformel
 
@@ -203,9 +206,8 @@ erfüllt werden wird.
 
 ## § 3 Maßnahmezulassung
 
-(1) Eine Maßnahme lässt nach § 179 Absatz 1 Satz 1 Nummer 1 des
-Dritten Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten,
-wenn
+(1) Eine Maßnahme lässt nach § 179 Absatz 1 Nummer 1 des Dritten
+Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten, wenn
 
 1.  Ziele, Dauer und Inhalte der Maßnahme jeweils auf die Voraussetzungen
     der Zielgruppe und das Maßnahmeziel hin konzipiert sind und
@@ -217,27 +219,61 @@ wenn
 
 
 
-(2) Die Bundesagentur für Arbeit veröffentlicht jährlich die
-durchschnittlichen Kostensätze nach § 179 Absatz 1 Satz 2 und § 180
-Absatz 3 Satz 1 Nummer 3 des Dritten Buches Sozialgesetzbuch.
+(2) Die Bundesagentur für Arbeit veröffentlicht zweijährlich, erstmals
+im Jahr 2022, die durchschnittlichen Kostensätze nach § 179 Absatz 2
+des Dritten Buches Sozialgesetzbuch. Grundlage sind die der
+Bundesagentur für Arbeit gemeldeten Kostensätze der zugelassenen
+Maßnahmen der vorangegangenen zwei Kalenderjahre.
 
-(3) Bei der Prüfung nach § 179 Absatz 1 Satz 1 Nummer 3 des Dritten
-Buches Sozialgesetzbuch, ob die Kosten einer Maßnahme angemessen sind,
+(3) Bei der Prüfung nach § 179 Absatz 1 Nummer 3 des Dritten Buches
+Sozialgesetzbuch, ob die Kosten einer Maßnahme angemessen sind,
 berücksichtigt die fachkundige Stelle insbesondere die
-Maßnahmekonzeption, einschließlich ihrer Kalkulation.
+Maßnahmekonzeption einschließlich ihrer Kalkulation. Der
+Kostenkalkulation für eine Gruppenmaßnahme ist grundsätzlich eine
+Gruppengröße von zwölf Teilnehmenden zu Grunde zu legen.
 
-(4) Bei der Prüfung, ob die Kosten einer Maßnahme nach § 45 Absatz 4
-Satz 3 Nummer 1 des Dritten Buches Sozialgesetzbuch die
-durchschnittlichen Kostensätze nach § 179 Absatz 1 Satz 2 des Dritten
-Buches Sozialgesetzbuch nicht unverhältnismäßig übersteigen, sind die
-Besonderheiten der Maßnahme und ihre inhaltliche Qualität zu
-berücksichtigen.
+(4) Als besondere Aufwendungen im Sinne des § 179 Absatz 2 Satz 1 des
+Dritten Buches Sozialgesetzbuch können insbesondere solche
+Aufwendungen anerkannt werden, die begründet sind durch
 
-(5) Soweit eine Maßnahme zugelassen werden soll, für deren
+1.  einen notwendigen überdurchschnittlichen Einsatz von Personal,
+
+
+2.  eine besondere räumliche Ausstattung,
+
+
+3.  eine besondere technische Ausstattung oder
+
+
+4.  eine besondere inhaltliche Ausgestaltung.
+
+
+
+Als besondere Aufwendungen können auch Kosten anerkannt werden, die
+auf eine barrierefreie Ausgestaltung der Maßnahme oder auf eine
+begründete geringere Teilnehmerzahl zurückzuführen sind.
+
+(5) Die Bundesagentur für Arbeit kann bei der Ermittlung der
+durchschnittlichen Kostensätze neben den ihr nach § 181 Absatz 8 des
+Dritten Buches Sozialgesetzbuch vorliegenden Daten auch die allgemeine
+Preisentwicklung oder die Lohnentwicklung im Bereich der beruflichen
+Erwachsenenbildung berücksichtigen, sofern der Anstieg bei den
+durchschnittlichen Kostensätzen die allgemeine Preis- und
+Lohnentwicklung nicht übersteigt.
+
+(6) Auf der Grundlage der Prüfung der fachkundigen Stelle soll die
+Bundesagentur für Arbeit ihre Zustimmung nach § 179 Absatz 2 Satz 2
+des Dritten Buches Sozialgesetzbuch von einem besonderen
+arbeitsmarktpolitischen Interesse an der Maßnahme und dem Nachweis
+notwendiger überdurchschnittlicher technischer, organisatorischer oder
+personeller Aufwendungen für die Durchführung der Maßnahme abhängig
+machen.
+
+(7) Soweit eine Maßnahme zugelassen werden soll, für deren
 Durchführung eine Berechtigung erforderlich ist, ist diese der
 fachkundigen Stelle vorzulegen.
 
-(6) Die fachkundige Stelle kann Maßnahmebausteine zulassen. Die
+(8) Die fachkundige Stelle kann Maßnahmebausteine zulassen. Die
 Zulassung gilt auch für eine aus zugelassenen Maßnahmebausteinen
 bestehende Maßnahme, wenn der Träger gewährleistet, dass diese
 Maßnahme individuell auf die Bedürfnisse der Teilnehmenden und des
@@ -248,20 +284,13 @@ Sozialgesetzbuch erfüllt.
 
 ## § 4 Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
 
-(1) Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und
-82 des Dritten Buches Sozialgesetzbuch zugelassen werden sollen, die
-auf Berufsabschlüsse in anerkannten Ausbildungsberufen oder bundes-
-oder landesrechtlich geregelten Berufen vorbereiten, ist der
-fachkundigen Stelle eine Bestätigung der zuständigen Stelle oder der
-zuständigen Aufsichtsbehörde über die Eignung des Trägers als
-Ausbildungsstätte vorzulegen.
-
-(2) Die Bundesagentur für Arbeit soll ihre Zustimmung nach § 180
-Absatz 3 Satz 1 Nummer 3 des Dritten Buches Sozialgesetzbuch von einem
-besonderen arbeitsmarktpolitischen Interesse an der Maßnahme und dem
-Nachweis notwendiger überdurchschnittlicher technischer,
-organisatorischer oder personeller Aufwendungen für die Durchführung
-der Maßnahme abhängig machen.
+Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82
+des Dritten Buches Sozialgesetzbuch zugelassen werden sollen, die auf
+Berufsabschlüsse in anerkannten Ausbildungsberufen oder bundes- oder
+landesrechtlich geregelten Berufen vorbereiten, ist der fachkundigen
+Stelle eine Bestätigung der zuständigen Stelle oder der zuständigen
+Aufsichtsbehörde über die Eignung des Trägers als Ausbildungsstätte
+vorzulegen.
 
 
 ## § 5 Zulassungsverfahren
@@ -308,9 +337,8 @@ Vorliegen der Anforderungen der §§ 3 und 4 ortsbezogen. Absatz 1 Satz
 Sozialgesetzbuch beruht auf einer unabhängigen, repräsentativen
 Stichprobenauswahl der fachkundigen Stelle. Die Referenzauswahl kann
 durchgeführt werden für die Prüfung von Maßnahmen, deren Kosten die
-Durchschnittskostensätze nach § 179 Absatz 1 Satz 2 oder § 180 Absatz
-3 Satz 1 Nummer 3 des Dritten Buches Sozialgesetzbuch nicht
-übersteigen.
+Durchschnittskostensätze nach § 179 Absatz 2 des Dritten Buches
+Sozialgesetzbuch nicht übersteigen.
 
 (4) Die Dauer der Zulassung von Maßnahmen richtet sich nach den
 voraussichtlichen Entwicklungen am Ausbildungs- und Arbeitsmarkt. Sie
@@ -361,14 +389,15 @@ berücksichtigen. Sie hat dabei die Empfehlungen des Beirats nach § 182
 des Dritten Buches Sozialgesetzbuch zu beachten.
 
 
-## § 7 Übergangsregelung
+## § 7 Sonderregelung
 
-Empfehlungen des Anerkennungsbeirats nach der Anerkennungs- und
-Zulassungsverordnung – Weiterbildung vom 16. Juni 2004 (BGBl. I S.
-1100) in der bis zum 31. März 2012 gültigen Fassung gelten bis zum
-Wirksamwerden neuer Empfehlungen fort, sofern sie nicht den
-gesetzlichen Regelungen des Dritten Buches Sozialgesetzbuch und dieser
-Verordnung widersprechen.
+Für das Jahr 2020 werden die durchschnittlichen Kostensätze für
+Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und nach den §§ 81 und 82
+des Dritten Buches Sozialgesetzbuch auf der Basis der im Jahr 2019 von
+den fachkundigen Stellen vorgelegten Kostensätze ermittelt. Zum 1.
+Juli 2020 werden die durchschnittlichen Kostensätze für Maßnahmen der
+beruflichen Weiterbildung nach den §§ 81 und 82 um 20 Prozent
+angehoben.
 
 
 ## § 8 Inkrafttreten, Außerkrafttreten

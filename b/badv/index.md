@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2885
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.5.2011 I 820
+:   Art. 1 V v. 6.12.2018 I 2442
 
 
 ## § 1 Anwendungsbereich
@@ -174,11 +174,11 @@ jeweils drei Jahre verlängert werden.
 (9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach
 Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen
 Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung spätestens
+Bundesministerium für Verkehr und digitale Infrastruktur spätestens
 drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und
 in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000
 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung über die
+Bundesministerium für Verkehr und digitale Infrastruktur über die
 Luftfahrtbehörde die hierfür erforderlichen Unterlagen und
 Begründungen rechtzeitig zu übermitteln.
 
@@ -384,8 +384,8 @@ Rechts wegen oder tatsächlich
 
 
 
-behandelt, ist das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zu unterrichten.
+behandelt, ist das Bundesministerium für Verkehr und digitale
+Infrastruktur zu unterrichten.
 
 (2) Dieses kann, unbeschadet der internationalen Verpflichtungen der
 Europäischen Union, die Pflichten, die sich aus der Richtlinie
@@ -393,21 +393,21 @@ Europäischen Union, die Pflichten, die sich aus der Richtlinie
 und Nutzern dieses Drittlandes ergeben, im Einklang mit dem
 Gemeinschaftsrecht ganz oder teilweise aussetzen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur
 unterrichtet die Kommission der Europäischen Gemeinschaften über Art
 und Ausmaß der Entscheidung.
 
 
 ## § 13 Unterrichtung
 
-(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung die unter diese Verordnung fallenden Flugplätze
+(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr und
+digitale Infrastruktur die unter diese Verordnung fallenden Flugplätze
 vor dem 1. Juni jeden Jahres mit Angaben zum jeweiligen Passagier- und
 Frachtaufkommen des abgelaufenen Kalenderjahres und des dem 1. April
 und dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraums.
 
-(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung auf dessen Anforderung hin Informationen zur
+(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr und
+digitale Infrastruktur auf dessen Anforderung hin Informationen zur
 Verfügung, die die Kommission der Europäischen Gemeinschaften zur
 Erstellung eines Berichts über die Anwendung der Richtlinie 96/67/EG
 des Rates benötigt.
@@ -606,7 +606,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
 (zu § 7)
 
-## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -953,9 +953,9 @@ Gleiches gilt für die zwingenden Bestimmungen des Arbeitsrechts und
 die arbeitsschutzrechtlichen Vorschriften, wie das Arbeitsschutzgesetz
 und die auf seiner Grundlage erlassenen Rechtsverordnungen, das
 Arbeitssicherheitsgesetz, das Arbeitszeitgesetz, das
-Jugendarbeitsschutzgesetz, die Arbeitsstättenverordnung, die
-Gefahrstoffverordnung und die Unfallverhütungsvorschriften,
-insbesondere die VBG 78 und die GUV 5.8.
+Jugendarbeitsschutzgesetz, das Mutterschutzgesetz, die
+Arbeitsstättenverordnung, die Gefahrstoffverordnung und die
+Unfallverhütungsvorschriften, insbesondere die VBG 78 und die GUV 5.8.
 
 (6) Vor Aufnahme von Bodenabfertigungstätigkeiten nach Anlage 1 ist
 dem Flugplatzunternehmer der Abschluss einer Haftpflichtversicherung
@@ -1110,13 +1110,14 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
         übertragen hat.
 
 
-    3.4 Der Organisator ist zuständig für die Erstellung von Einladung,
-        Tagesordnung und Niederschrift der Sitzungen des Nutzerausschusses
-        sowie für die Bereitstellung des Sitzungsraumes. Die Einladung zu den
-        Sitzungen erfolgt schriftlich mit einer Frist von drei Wochen, es sei
-        denn, der Vorsitzende hält eine kürzere Frist für geboten. Der Termin
-        der Sitzung wird im Einvernehmen mit dem Vorsitzenden festgelegt. Die
-        Niederschrift ist vom Leiter der Sitzung zu unterzeichnen.
+    3.4 Der Organisator ist zuständig für die Erstellung von Einladung und
+        Tagesordnung, für die schriftliche oder elektronische Protokollierung
+        der Sitzungen des Nutzerausschusses sowie für die Bereitstellung des
+        Sitzungsraumes. Die Einladung zu den Sitzungen erfolgt schriftlich mit
+        einer Frist von drei Wochen, es sei denn, der Vorsitzende hält eine
+        kürzere Frist für geboten. Der Termin der Sitzung wird im Einvernehmen
+        mit dem Vorsitzenden festgelegt. Die Niederschrift ist vom Leiter der
+        Sitzung zu unterzeichnen.
 
 
     3.5 Die Sitzung des Nutzerausschusses wird vom Organisator mindestens
@@ -1126,8 +1127,9 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
         -   die Mitwirkung des Nutzerausschusses gemäß 1.1 erforderlich ist oder
 
 
-        -   dies schriftlich unter Angabe des Zwecks und der Gründe von mehr als
-            einem Viertel der Mitglieder des Nutzerausschusses verlangt wird oder
+        -   dies schriftlich oder elektronisch unter Angabe des Zwecks und der
+            Gründe von mehr als einem Viertel der Mitglieder des Nutzerausschusses
+            verlangt wird oder
 
 
         -   der Vorsitzende aus anderen Gründen die Einberufung für erforderlich
@@ -1200,18 +1202,19 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
 
 ## Anlage 5 (zu § 3 Abs. 2)
 
-Fundstelle des Originaltextes: BGBl. I 1997, 2893 - 2899;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 1997, 2893 - 2899,
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Frankfurt (FRA) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -1310,11 +1313,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen München (MUC) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -1417,11 +1421,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Düsseldorf (DUS) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -1430,7 +1435,7 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   2
 
-    *   2
+    *   3
 
 
 *    *   4
@@ -1439,21 +1444,26 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
         Flugzeug)
 
     *
+    *
 
 *    *   4.1
 
-    *   in bezug auf Fracht ohne Zollagerbetrieb
+    *   in Bezug auf Fracht ohne Zolllagerbetrieb
 
     *   2
 
-    *   2
+    *   3
 
 
 *    *   4.2
 
-    *   in bezug auf Post
+    *   in Bezug auf Post
 
-    *   Postabfertigung entfällt
+    *   Postabfertigung
+        entfällt
+
+    *   Postabfertigung
+        entfällt
 
 
 *    *   5.1
@@ -1469,9 +1479,9 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   Unterstützen beim Parken
 
-    *   2
+    *   unbegrenzt
 
-    *   2
+    *   unbegrenzt
 
 
 *    *   5.3
@@ -1485,11 +1495,14 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
 *    *   5.4
 
-    *   Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck
+    *   Be- und Entladung sowie Beförderung Fluggast/Gepäck
+        Beförderung Besatzung
 
     *   2
+        unbegrenzt
 
-    *   2
+    *   3
+        unbegrenzt
 
 
 *    *   5.5
@@ -1498,7 +1511,7 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   2
 
-    *   2
+    *   3
 
 
 *    *   5.6
@@ -1507,7 +1520,7 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   2
 
-    *   2
+    *   3
 
 
 *    *   5.7
@@ -1523,6 +1536,7 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   Betankungsdienste
 
+    *
     *
 
 *    *   7.1
@@ -1551,88 +1565,13 @@ eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Berlin-Tegel (TXL) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
-----------------------------------------------------------------------
---
-I      Dienst gemäß Anlage 1      I       Zahl       I      Zahl
-I
-I                                 I Selbstabfertiger I Drittabfertiger
-I
-I
-----------------------------------------------------------------------
-I
-I 3   Gepäckabfertigung           I        2         I       2
-I
-I
-----------------------------------------------------------------------
-I
-I 4   Fracht- und Postabfertigung I        2         I       2
-I
-I     (Beförderung zwischen       I                  I
-I
-I     Flugplatz und Flugzeug)     I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 5.1 Lotsen                      I      )           I     )
-I
-I---------------------------------I      )           I     )
-I
-I 5.2 Unterstützen beim Parken    I      )           I     )
-I
-I---------------------------------I      )           I     )
-I
-I 5.3 Kommunikation Flugzeug/     I      )           I     )
-I
-I     Abfertiger                  I      )           I     )
-I
-I---------------------------------I      ) 2         I     ) 2
-I
-I 5.4 Be- und Entladung sowie     I      )           I     )
-I
-I     Beförderung Besatzung/      I      )           I     )
-I
-I     Fluggast/Gepäck             I      )           I     )
-I
-I---------------------------------I      )           I     )
-I
-I 5.5 Anlassen/Triebwerke         I      )           I     )
-I
-I---------------------------------I      )           I     )
-I
-I 5.6 Bewegen des Flugzeugs/      I      )           I     )
-I
-I     Bereitstellen               I      )           I     )
-I
-I
-----------------------------------------------------------------------
-I
-I 5.7 Beförderung, Ein-/Ausladen  I        2         I       3
-I
-I     von Nahrungsmitteln/        I                  I
-I
-I     Getränken                   I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 7   Betankungsdienste           I        2         I       8
-I
-----------------------------------------------------------------------
---
-Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw.
-Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen
-aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung
-eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
-Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
-auf dem Flughafen Hamburg (HAM) bei den folgenden
-Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -1649,7 +1588,92 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
     *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und
         Flugzeug)
 
-    *
+    *   2
+
+    *   2
+
+
+*    *   5.1
+
+    *   Lotsen
+
+    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
+    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
+
+*    *   5.2
+
+    *   Unterstützen beim Parken
+
+
+*    *   5.3
+
+    *   Kommunikation Flugzeug/Abfertiger
+
+
+*    *   5.4
+
+    *   Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck
+
+
+*    *   5.5
+
+    *   Anlassen/Triebwerke
+
+
+*    *   5.6
+
+    *   Bewegen des Flugzeugs/Bereitstellen
+
+
+*    *   5.7
+
+    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
+
+    *   2
+
+    *   3
+
+
+*    *   7
+
+    *   Betankungsdienste
+
+    *   2
+
+    *   8
+
+
+
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw.
+Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen
+aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung
+eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
+auf dem Flughafen Hamburg (HAM) bei den folgenden
+Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+
+*    *
+    *   Dienst gemäß Anlage 1
+
+    *   Zahl der Selbstabfertiger
+
+    *   Zahl der Drittabfertiger
+
+
+*    *   3
+
+    *   Gepäckabfertigung
+
+    *   2
+
+    *   2
+
+
+*    *   4
+
+    *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und
+        Flugzeug)
+
 
 *    *   4.1
 
@@ -1748,11 +1772,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Stuttgart (STR) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -1769,7 +1794,6 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
     *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und
         Flugzeug)
 
-    *
 
 *    *   4.1
 
@@ -1819,18 +1843,13 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 *    *   5.4
 
     *   Be- und Entladung sowie Beförderung Fluggast/Gepäck
+        ausgenommen Beförderung Besatzung
 
     *   2
+        unbegrenzt
 
     *   2
-
-
-*    *
-    *   ausgenommen Beförderung Besatzung
-
-    *   unbegrenzt
-
-    *   unbegrenzt
+        unbegrenzt
 
 
 *    *   5.5
@@ -1864,7 +1883,6 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
     *   Betankungsdienste
 
-    *
 
 *    *   7.1
 
@@ -1893,11 +1911,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Köln-Bonn (CGN) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2000,11 +2019,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Hannover (HAJ) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2106,79 +2126,101 @@ eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Nürnberg (NUE) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
-----------------------------------------------------------------------
---
-I      Dienst gemäß Anlage 1      I       Zahl       I      Zahl
-I
-I                                 I Selbstabfertiger I Drittabfertiger
-I
-I
-----------------------------------------------------------------------
-I
-I 3   Gepäckabfertigung           I        2         I       2
-I
-I
-----------------------------------------------------------------------
-I
-I 4   Fracht- und Postabfertigung I        2         I       2
-I
-I     (Beförderung zwischen       I                  I
-I
-I     Flugplatz und Flugzeug)     I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 5.1 Lotsen                      I        2         I       2
-I
-I
-----------------------------------------------------------------------
-I
-I 5.2 Unterstützen beim Parken    I      )           I     )
-I
-I---------------------------------I      ) 2         I     ) 2
-I
-I 5.3 Kommunikation Flugzeug/     I      )           I     )
-I
-I     Abfertiger                  I      )           I     )
-I
-I
-----------------------------------------------------------------------
-I
-I 5.4 Be- und Entladung sowie     I        2         I       2
-I
-I     Beförderung Besatzung/      I                  I
-I
-I     Fluggast/Gepäck             I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 5.5 Anlassen/Triebwerke         I        2         I       2
-I
-I
-----------------------------------------------------------------------
-I
-I 5.6 Bewegen des Flugzeugs/      I        3         I       3
-I
-I     Bereitstellen               I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 5.7 Beförderung, Ein-/Ausladen  I        4         I       4
-I
-I     von Nahrungsmitteln/        I                  I
-I
-I     Getränken                   I                  I
-I
-I
-----------------------------------------------------------------------
-I
-I 7   Betankungsdienste           I        3         I       3
-I
-----------------------------------------------------------------------
---
+
+*    *
+    *   Dienst gemäß Anlage 1
+
+    *   Zahl der Selbstabfertiger
+
+    *   Zahl der Drittabfertiger
+
+
+*    *   3
+
+    *   Gepäckabfertigung
+
+    *   2
+
+    *   2
+
+
+*    *   4
+
+    *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und
+        Flugzeug)
+
+    *   2
+
+    *   2
+
+
+*    *   5.1
+
+    *   Lotsen
+
+    *   2
+
+    *   2
+
+
+*    *   5.2
+
+    *   Unterstützen beim Parken
+
+    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
+    *        ![bgbl1_1997_j2894_0010.jpg](bgbl1_1997_j2894_0010.jpg)
+
+*    *   5.3
+
+    *   Kommunikation Flugzeug/Abfertiger
+
+
+*    *   5.4
+
+    *   Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck
+
+    *   2
+
+    *   2
+
+
+*    *   5.5
+
+    *   Anlassen/Triebwerke
+
+    *   2
+
+    *   2
+
+
+*    *   5.6
+
+    *   Bewegen des Flugzeugs/Bereitstellen
+
+    *   3
+
+    *   3
+
+
+*    *   5.7
+
+    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
+
+    *   4
+
+    *   4
+
+
+*    *   7
+
+    *   Betankungsdienste
+
+    *   3
+
+    *   3
+
+
+
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw.
 Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen
 aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung
@@ -2187,11 +2229,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Leipzig (LEJ) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2224,7 +2267,7 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
 *    *   5.7
 
-    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/ Getränken
+    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
 
     *   2
 
@@ -2249,22 +2292,21 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Berlin-Schönefeld (SXF) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *[^BJNR288510997BJNE001801308_001_BJNR288510997BJNE001803305]
-   Zahl
-        Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
 
     *   Gepäckabfertigung
 
-    *   2
+    *   3
 
-    *   2
+    *   3
 
 
 *    *   4
@@ -2272,23 +2314,72 @@ Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
     *   Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und
         Flugzeug)
 
-    *   2
+    *   3
 
-    *   2
+    *   3
 
 
-*    *   5.1 bis 5.6
+*    *   5.1
 
-    *   Vorfelddienste
+    *   Lotsen
 
-    *   2
+    *   3
 
-    *   2
+    *   3
+
+
+*    *   5.2
+
+    *   Unterstützen beim Parken
+
+    *   3
+
+    *   3
+
+
+*    *   5.3
+
+    *   Kommunikation Flugzeug/Abfertiger
+
+    *   3
+
+    *   3
+
+
+*    *   5.4
+
+    *   Be- und Entladung sowie Beförderung Fluggast/Gepäck
+        Beförderung Besatzung
+
+    *   3
+        unbegrenzt
+
+    *   3
+        unbegrenzt
+
+
+*    *   5.5
+
+    *   Anlassen/Triebwerke
+
+    *   3
+
+    *   3
+
+
+*    *   5.6
+
+    *   Bewegen des Flugzeugs/Bereitstellen (mit Ausnahme sogenannter
+        Werftschlepps)
+
+    *   3
+
+    *   3
 
 
 *    *   5.7
 
-    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/ Getränken
+    *   Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
 
     *   unbegrenzt
 
@@ -2313,13 +2404,13 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Dresden (DRS) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *[^BJNR288510997BJNE001801308_002_BJNR288510997BJNE001803305]
-   Zahl
-        Drittabfertiger
+    *[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001804124]
+   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2368,13 +2459,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Bremen (BRE) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *[^BJNR288510997BJNE001801308_003_BJNR288510997BJNE001803305]
-   Zahl
-        Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2475,11 +2565,12 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Münster/Osnabrück (FMO) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 
-*    *   Dienst gemäß Anlage 1
+*    *
+    *   Dienst gemäß Anlage 1
 
-    *   Zahl Selbstabfertiger
+    *   Zahl der Selbstabfertiger
 
-    *   Zahl Drittabfertiger
+    *   Zahl der Drittabfertiger
 
 
 *    *   3
@@ -2582,14 +2673,6 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist
 auf dem Flughafen Berlin-Tempelhof (THF) bei den folgenden
 Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
 (weggefallen)
-[^BJNR288510997BJNE001801308_004_BJNR288510997BJNE001803305]
-Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw.
-Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen
-aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung
-eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 
     Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
-[^BJNR288510997BJNE001801308_001_BJNR288510997BJNE001803305]:     Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
-[^BJNR288510997BJNE001801308_002_BJNR288510997BJNE001803305]:     Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
-[^BJNR288510997BJNE001801308_003_BJNR288510997BJNE001803305]:     Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
-[^BJNR288510997BJNE001801308_004_BJNR288510997BJNE001803305]: 
+[^bjnr288510997bjne001800310_01_BJNR288510997BJNE001804124]: 

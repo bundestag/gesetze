@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21. 2.1996 I 326;
 
 Zuletzt geändert durch
-:   G v. 8.11.2011 I 2218
+:   Art 1 G v. 8.10.2021 I 4650
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
@@ -214,29 +214,41 @@ abweichende Regelungen treffen.
 
 ### § 11 Abgeordnetenentschädigung
 
-(1) Ein Mitglied des Bundestages erhält eine monatliche
-Abgeordnetenentschädigung, die sich an den Monatsbezügen
-
-–   eines Richters bei einem obersten Gerichtshof des Bundes
-    (Besoldungsgruppe R 6),
-
-
-–   eines kommunalen Wahlbeamten auf Zeit (Besoldungsgruppe B 6)
-
-
-
-orientiert. Die Abgeordnetenentschädigung beträgt mit Wirkung vom 1.
-Januar 2012 7 960 Euro und vom 1. Januar 2013 8 252 Euro. Für spätere
-Anpassungen gilt das in § 30 geregelte Verfahren.
+(1) Die monatliche Entschädigung eines Mitglieds des Deutschen
+Bundestages orientiert sich an den Bezügen eines Richters an einem
+obersten Gerichtshof des Bundes (Besoldungsgruppe R 6 gemäß der Anlage
+IV des Bundesbesoldungsgesetzes mit Zulage für Richter und
+Staatsanwälte bei obersten Gerichtshöfen des Bundes). Die
+Abgeordnetenentschädigung beträgt 10 083, 47 Euro. Für die Anpassung
+der Entschädigung gilt das in den Absätzen 4 und 5 geregelte
+Verfahren.
 
 (2) Der Präsident erhält eine monatliche Amtszulage in Höhe eines
 Monatsbetrages nach Absatz 1, seine Stellvertreter in Höhe der Hälfte
-eines Monatsbetrages nach Absatz 1.
+des Monatsbetrages nach Absatz 1 und die Vorsitzenden der Ausschüsse,
+der Untersuchungsausschüsse, der Enquete-Kommissionen sowie des
+Parlamentarischen Kontrollgremiums in Höhe von 15 vom Hundert des
+Monatsbetrages nach Absatz 1.
 
 (3) Der Auszahlungsbetrag der Abgeordnetenentschädigung und der
 Amtszulage vermindert sich in Ansehung der zu den Kosten in
 Pflegefällen nach § 27 gewährten Zuschüsse vom 1. Januar 1995 an um
 ein Dreihundertfünfundsechzigstel.
+
+(4) Die monatliche Entschädigung nach Absatz 1 wird jährlich zum 1.
+Juli angepasst. Grundlage ist die Entwicklung des vom Statistischen
+Bundesamt ermittelten Nominallohnindex, den der Präsident des
+Statistischen Bundesamtes jährlich bis zum 31. März an den Präsidenten
+des Deutschen Bundestages übermittelt. Dieser veröffentlicht den
+angepassten Betrag der Entschädigung in einer Bundestagsdrucksache.
+
+(5) Das Anpassungsverfahren nach Absatz 4 bleibt für eine neue
+Wahlperiode nur wirksam, wenn der Deutsche Bundestag innerhalb von
+drei Monaten nach der konstituierenden Sitzung einen entsprechenden
+Beschluss fasst. Wird innerhalb dieser Frist kein Beschluss gefasst,
+gilt für die Entschädigung der letzte nach Absatz 4 ermittelte Betrag,
+bis der Deutsche Bundestag das Anpassungsverfahren in einem Gesetz
+bestätigt oder ändert.
 
 
 ### § 12 Amtsausstattung
@@ -297,6 +309,16 @@ ausgeschlossen. Die Mitarbeiter sind nicht Angehörige des öffentlichen
 Dienstes. Es bestehen keine arbeitsrechtlichen Beziehungen zwischen
 den Mitarbeitern und der Verwaltung des Bundestages.
 
+(3a) Ausgeschlossen ist die Erstattung für Tätigkeiten der
+Mitarbeiter, die nicht der Unterstützung bei der Erledigung der
+parlamentarischen Arbeit dienen und deshalb nicht in der Arbeitszeit
+ausgeübt werden dürfen. Das Präsidium kann gegen ein Mitglied des
+Bundestages, das hiergegen verstößt, ein Ordnungsgeld bis zur Höhe der
+Hälfte der jährlichen Abgeordnetenentschädigung festsetzen. Der
+Präsident macht das Ordnungsgeld durch Verwaltungsakt geltend. § 31
+bleibt unberührt. Das Nähere bestimmen die Verhaltensregeln des Elften
+Abschnitts.
+
 (4) Zur Amtsausstattung gehören auch
 
 1.  die Bereitstellung eines eingerichteten Büros am Sitz des Bundestages,
@@ -342,8 +364,8 @@ bereits abgeschlossen hat.
 Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
 Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste
 ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die
-Anwesenheitsliste ein, werden ihm 50 Euro von der Kostenpauschale
-einbehalten. Der einzubehaltende Betrag erhöht sich auf 100 Euro, wenn
+Anwesenheitsliste ein, werden ihm 100 Euro von der Kostenpauschale
+einbehalten. Der einzubehaltende Betrag erhöht sich auf 200 Euro, wenn
 ein Mitglied an einem Plenarsitzungstag sich nicht in die
 Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Der
 Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des
@@ -367,10 +389,10 @@ Anwesenheitsliste des Ältestenrates oder durch eine für den
 Sitzungstag genehmigte und durchgeführte Dienstreise.
 
 (2) Einem Mitglied des Bundestages, das an einer namentlichen
-Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden 50
-Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht,
-wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach Absatz 1
-erfolgt oder in den Fällen des Absatzes 1 Satz 6.
+Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden
+100 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt
+nicht, wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach
+Absatz 1 erfolgt oder in den Fällen des Absatzes 1 Satz 6.
 
 
 ### § 15 Bezug anderer Tage- oder Sitzungsgelder
@@ -473,8 +495,9 @@ monatlicher Zahlung ruhen würde, zu erstatten. Der Präsident bestimmt,
 in welchen Teilbeträgen zu erstatten ist.
 
 (5) Stirbt ein ehemaliges Mitglied, werden die Leistungen nach Absatz
-1 an den überlebenden Ehegatten, die leiblichen Abkömmlinge sowie die
-als Kind angenommenen Kinder fortgesetzt oder ihnen belassen, wenn
+1 an den überlebenden Ehegatten, die eingetragene Lebenspartnerin/den
+eingetragenen Lebenspartner, die leiblichen Abkömmlinge sowie die als
+Kind angenommenen Kinder fortgesetzt oder ihnen belassen, wenn
 Versorgungsansprüche nach diesem Gesetz nicht entstehen.
 
 (6) Ein ehemaliges Mitglied, das dem Europäischen Parlament angehört,
@@ -667,11 +690,16 @@ sind, wird die Altersgrenze wie folgt angehoben:
 
 
 (3) Gehörte ein ausgeschiedenes Mitglied dem Bundestag mehrmals mit
-Unterbrechung an, so sind die Zeitabschnitte zusammenzurechnen. Mit
-jedem über das achte Jahr hinausgehenden Jahr bis zum 18. Jahr der
-Mitgliedschaft im Bundestag entsteht der Anspruch auf
-Altersentschädigung ein Lebensjahr früher. § 18 Abs. 1 Satz 4 gilt
-entsprechend.
+Unterbrechung an, so sind die Zeitabschnitte zusammenzurechnen. § 18
+Abs. 1 Satz 4 gilt entsprechend.
+
+(4) Auf Antrag kann die Altersentschädigung vorzeitig ab Vollendung
+des 63. Lebensjahres in Anspruch genommen werden. Die
+Altersentschädigung vermindert sich in diesem Fall um 0,3 vom Hundert
+für jeden Monat, für den die Altersentschädigung vor dem in den
+Absätzen 1 und 2 genannten Zeitpunkt in Anspruch genommen wird.
+Anrechnungen nach § 29 erfolgen bezogen auf den nach Satz 2
+verminderten Betrag der Altersentschädigung.
 
 
 ### § 20 Höhe der Altersentschädigung
@@ -680,7 +708,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen
 Abgeordnetenentschädigung (§ 11 Abs. 1). Der Steigerungssatz beträgt
 vom 1. Januar 2008 an für jedes Jahr der Mitgliedschaft je 2,5 vom
 Hundert der Abgeordnetenentschädigung nach § 11 Abs. 1. Der
-Höchstbemessungssatz der Altersentschädigung beträgt 67,5 vom Hundert.
+Höchstbemessungssatz der Altersentschädigung beträgt 65 vom Hundert.
 Die Zeit der Wahrnehmung der Ämter des Präsidenten und seiner
 Stellvertreter wird der Berechnung der Altersentschädigung nach den
 Sätzen 1 und 2 mit der Abgeordnetenentschädigung nach § 11 Abs. 1
@@ -792,7 +820,8 @@ entsprechend.
 
 (1) Die Hinterbliebenen eines Mitglieds des Bundestages erhalten die
 noch nicht abgerechneten Leistungen nach diesem Gesetz, soweit sie im
-Zeitpunkt des Todes fällig waren. Der überlebende Ehegatte und die
+Zeitpunkt des Todes fällig waren. Der überlebende Ehegatte, die
+eingetragene Lebenspartnerin/der eingetragene Lebenspartner und die
 Abkömmlinge erhalten ein Überbrückungsgeld in Höhe einer
 Abgeordnetenentschädigung nach § 11 Abs. 1. Das Überbrückungsgeld
 beträgt bei einer Dauer der Mitgliedschaft von mehr als acht Jahren
@@ -801,7 +830,7 @@ Abgeordnetenentschädigung nach § 11 Abs. 1. Sind Hinterbliebene im
 Sinne des Satzes 2 nicht vorhanden, wird sonstigen Personen, die die
 Kosten der letzten Krankheit getragen haben, das Überbrückungsgeld bis
 zur Höhe ihrer Aufwendungen gewährt. Der Auszahlungsbetrag des
-Überbrückungsgeldes vermindert sich vom 31. März 2004 an um 1.050
+Überbrückungsgeldes vermindert sich vom 31. März 2004 an um 1 050
 Euro.
 
 (2) Das gleiche gilt beim Tod eines ehemaligen Mitglieds des
@@ -853,9 +882,11 @@ Versorgungsausgleichsgesetzes (unmittelbare Bewertung).
 ### § 25b Maßnahmen zur Kostendämpfung bei Versorgungsansprüchen
 
 (1) Unter den in § 25 genannten Voraussetzungen erhält der überlebende
-Ehegatte 55 vom Hundert der jeweiligen Altersentschädigung. Das gilt
-nicht für vor dem 28. Dezember 2004 geschlossene Ehen, wenn zu diesem
-Zeitpunkt mindestens ein Ehegatte das 40. Lebensjahr vollendet hatte.
+Ehegatte oder Lebenspartner 55 vom Hundert der jeweiligen
+Altersentschädigung. Das gilt nicht für vor dem 28. Dezember 2004
+geschlossene Ehen oder Lebenspartnerschaften, wenn zu diesem Zeitpunkt
+mindestens ein Ehegatte oder Lebenspartner das 40. Lebensjahr
+vollendet hatte.
 
 (2) Leistungen nach den §§ 18, 19, 21, 22 und 25 werden bei
 Anspruchsberechtigten nach § 27 Abs. 1 um den hälftigen Prozentsatz
@@ -920,18 +951,20 @@ Krankenversicherungsbeitrag nach § 249a des Fünften Buches
 Sozialgesetzbuch nur zur Hälfte tragen oder gemäß § 106 des Sechsten
 Buches Sozialgesetzbuch einen Beitragszuschuß beziehen, erhalten für
 diesen rentenbezogenen Krankenversicherungsbeitrag keinen Zuschuß. Als
-Zuschuß ist die Hälfte des aus eigenen Mitteln geleisteten
-Krankenversicherungsbeitrages zu zahlen. Besteht die Mitgliedschaft
-nicht ausschließlich in einer gesetzlichen Krankenkasse gemäß § 4 des
-Fünften Buches Sozialgesetzbuch, beträgt der Zuschuß höchstens die
-Hälfte des Höchstbeitrages der im Falle der Versicherungspflicht
-zuständigen Allgemeinen Ortskrankenkasse.
+Zuschuss ist die Hälfte des aus eigenen Mitteln geleisteten
+Krankenversicherungsbeitrages in Anlehnung an § 249 des Fünften Buches
+Sozialgesetzbuch zu zahlen. Besteht die Mitgliedschaft nicht
+ausschließlich in einer gesetzlichen Krankenkasse gemäß § 4 des
+Fünften Buches Sozialgesetzbuch, beträgt der Zuschuss höchstens die
+Hälfte des Beitrages nach § 249 des Fünften Buches Sozialgesetzbuch.
 
 (3) Der Anspruch auf den Zuschuß zu den Krankenversicherungsbeiträgen
 nach Absatz 2 schließt bei Mitgliedern des Bundestages ein den
 Anspruch auf einen Zuschuß in Höhe der Hälfte des aus eigenen Mitteln
 geleisteten Pflegeversicherungsbeitrages, höchstens jedoch die Hälfte
-des Höchstbeitrages der sozialen Pflegeversicherung.
+des Höchstbeitrages der sozialen Pflegeversicherung. Der Zuschuss
+umfasst nicht den Beitragszuschlag für Kinderlose nach § 55 des Elften
+Buches Sozialgesetzbuch.
 
 (4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen
 nach Absatz 1 den Zuschuß nach Absatz 2 in Anspruch nehmen will, ist
@@ -939,7 +972,7 @@ innerhalb von vier Monaten nach Feststellung des Bundeswahlausschusses
 (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats
 dem Präsidenten des Bundestages mitzuteilen; die Entscheidung ist für
 die Dauer der Wahlperiode unwiderruflich. Versorgungsempfänger haben
-die Entscheidung innerhalb von vier Monaten nach Zustellung des
+die Entscheidung innerhalb von vier Monaten nach Bekanntgabe des
 Versorgungsbescheides dem Präsidenten mitzuteilen; sie bleiben an
 diese Entscheidung gebunden.
 
@@ -978,20 +1011,20 @@ landesrechtliche Vorschriften oder seitens der zwischen- oder
 Verwendung im öffentlichen Dienst ruhen neben der
 Abgeordnetenentschädigung nach § 11 Abs. 1 um 80 vom Hundert,
 höchstens jedoch in Höhe der Abgeordnetenentschädigung nach § 11 Abs.
-1 und 3. Entsprechendes gilt für Renten im Sinne des § 55 Abs. 1 Satz
-2 des Beamtenversorgungsgesetzes mit Ausnahme von Renten aus einer
-freiwilligen Pflichtversicherung auf Antrag gemäß § 4 Abs. 2 des
-Sechsten Buches Sozialgesetzbuch; § 55 Abs. 3 und 4 des
-Beamtenversorgungsgesetzes ist sinngemäß anzuwenden. Das nach
-Anwendung sonstiger Anrechnungs- und Ruhensvorschriften verbleibende
-Übergangsgeld nach dem Gesetz über die Rechtsverhältnisse der
-Mitglieder der Bundesregierung und nach dem Gesetz über die
+1 und 3. Entsprechendes gilt in Höhe von 50 vom Hundert für Renten im
+Sinne des § 55 Abs. 1 Satz 2 des Beamtenversorgungsgesetzes mit
+Ausnahme von Renten aus einer freiwilligen Pflichtversicherung auf
+Antrag gemäß § 4 Abs. 2 des Sechsten Buches Sozialgesetzbuch; § 55
+Abs. 3 und 4 des Beamtenversorgungsgesetzes ist sinngemäß anzuwenden.
+Das nach Anwendung sonstiger Anrechnungs- und Ruhensvorschriften
+verbleibende Übergangsgeld nach dem Gesetz über die Rechtsverhältnisse
+der Mitglieder der Bundesregierung und nach dem Gesetz über die
 Rechtsverhältnisse der Parlamentarischen Staatssekretäre ruht neben
 der Abgeordnetenentschädigung nach § 11 ab dem zweiten Monat nach dem
 Ausscheiden aus dem Amt. Beruht ein Versorgungsanspruch nach Satz 1
-oder 2 auf Landesrecht, so tritt an die Stelle des Ruhens des
+oder Satz 2 auf Landesrecht, so tritt an die Stelle des Ruhens des
 Versorgungsanspruches das Ruhen der Abgeordnetenentschädigung um den
-sich aus Satz 1 ergebenden Betrag. Entsprechendes gilt für
+sich aus Satz 1 oder Satz 2 ergebenden Betrag. Entsprechendes gilt für
 Versorgungsansprüche aus einem Amtsverhältnis beziehungsweise einer
 Verwendung im öffentlichen Dienst einer zwischen- oder überstaatlichen
 Einrichtung.
@@ -1035,11 +1068,10 @@ Gesetz auf die dortige Versorgung bestimmt ist.
 (7) Die Versorgungsbezüge mit Ausnahme der Renten gemäß Absatz 4 Satz
 3 werden nur mit dem Teil in die Anrechnung einbezogen, der nicht auf
 eigenen Beiträgen beruht. Die Absätze 1 bis 4 sind nicht auf
-Leistungen nach dem Bundessonderzahlungsgesetz oder entsprechende
 Leistungen auf Grund landesrechtlicher oder tarifvertraglicher
-Regelungen anzuwenden. Bei Anwendung der Absätze 1 bis 4 sind
-Aufwandsentschädigungen, Unfallausgleich, Urlaubsgelder und einmalige
-Zahlungen außer Betracht zu lassen.
+Regelungen zu Jahressonderzahlungen anzuwenden. Bei Anwendung der
+Absätze 1 bis 4 sind Aufwandsentschädigungen, Unfallausgleich,
+Urlaubsgelder und einmalige Zahlungen außer Betracht zu lassen.
 
 (8) Bei den Anrechnungsgrenzen der Absätze 3 bis 6 wird die Amtszulage
 nach § 11 Abs. 2 entsprechend berücksichtigt.
@@ -1054,14 +1086,8 @@ hierzu erlassenen Vorschriften.
 
 
 
-### § 30 Anpassungsverfahren
+### § 30 (weggefallen)
 
-Der Bundestag beschließt über die Anpassung der
-Abgeordnetenentschädigung nach Maßgabe des § 11 Abs. 1 Satz 1.
-Gleichzeitig bestimmt er unter Anwendung des nach Satz 1 beschlossenen
-Anpassungsfaktors die fiktiven Bemessungsbeträge nach § 35a Abs. 2 und
-§ 35b Satz 1. Der Präsident leitet den Fraktionen den entsprechenden
-Gesetzesvorschlag zu.
 
 
 ### § 31 Verzicht, Übertragbarkeit
@@ -1123,28 +1149,23 @@ Monaten.
 (8) Die Abgeordnetenentschädigung nach § 11 und die Geldleistungen
 nach § 12 Abs. 2 und §§ 20 bis 27 werden monatlich im voraus gezahlt.
 Ist nur ein Teil zu leisten, so wird für jeden Kalendertag ein
-Dreißigstel gezahlt; § 33 gilt entsprechend.
+Dreißigstel gezahlt.
 
 
-### § 33 Aufrundung
+### § 33 (weggefallen)
 
-Die Leistungen des Fünften und Sechsten Abschnitts werden auf volle
-Euro aufgerundet.
 
 
 ### § 34 Ausführungsbestimmungen
 
 (1) Soweit durch Bundesgesetz dazu ermächtigt, kann der Ältestenrat
 Ausführungsbestimmungen zur Rechtsstellung der Mitglieder des
-Bundestages erlassen, die vom Präsidenten im Amtlichen Handbuch des
-Deutschen Bundestages veröffentlicht werden.
+Bundestages erlassen, die vom Präsidenten veröffentlicht werden.
 
 (2) Der Ältestenrat kann allgemeine Verwaltungsvorschriften zu diesem
 Gesetz erlassen.
 
-(3) Der Präsident veröffentlicht in einer Anlage zum
-Abgeordnetengesetz im Amtlichen Handbuch des Deutschen Bundestages den
-Betrag der Kostenpauschale.
+(3) Der Präsident veröffentlicht den Betrag der Kostenpauschale.
 
 
 ## Neunter Abschnitt - Übergangsregelungen
@@ -1200,9 +1221,11 @@ Bemessungsbetrag für die Altersentschädigung wird mit Wirkung vom 1.
 Juli 2000 auf 11 683 Deutsche Mark, vom 1. Januar 2001 auf 11 868
 Deutsche Mark, vom 1. Januar 2002 auf 6 165 Euro, vom 1. Januar 2003
 auf 6 263 Euro, vom 1. Januar 2008 auf 6 411 Euro, vom 1. Januar 2009
-auf 6 555 Euro, vom 1. Januar 2012 auf 6 805 Euro und vom 1. Januar
-2013 auf 7 055 Euro festgesetzt. Für spätere Anpassungen gilt das in §
-30 geregelte Verfahren.
+auf 6 555 Euro, vom 1. Januar 2012 auf 6 805 Euro, vom 1. Januar 2013
+auf 7 055 Euro, vom 1. Juli 2014 auf 7 410 Euro und vom 1. Januar 2015
+auf 7 765 Euro festgesetzt. Für spätere Anpassungen wird der
+Anpassungsfaktor anhand des in § 11 Absatz 4 und 5 geregelten
+Verfahrens ermittelt.
 
 (3) Bei der Anwendung des § 29 auf Versorgungsansprüche nach diesem
 Gesetz wird in den Fällen des Absatzes 1 statt der
@@ -1231,9 +1254,10 @@ entsprechend.
 des Absatzes 1 ein gesonderter fiktiver Bemessungsbetrag. Dieser
 fiktive Bemessungsbetrag wird mit Wirkung vom 1. Januar 2008 auf 7 174
 Euro, vom 1. Januar 2009 auf 7 335 Euro, vom 1. Januar 2012 auf 7 615
-Euro und vom 1. Januar 2013 auf 7 895 Euro festgesetzt. § 35a bleibt
-unberührt. Für spätere Anpassungen gilt das in § 30 geregelte
-Verfahren.
+Euro, vom 1. Januar 2013 auf 7 895 Euro, vom 1. Juli 2014 auf 8 292
+Euro und vom 1. Januar 2015 auf 8 689 Euro festgesetzt. § 35a bleibt
+unberührt. Für spätere Anpassungen wird der Anpassungsfaktor anhand
+des in § 11 Absatz 4 und 5 geregelten Verfahrens ermittelt.
 
 (3) Bei der Berechnung von Ansprüchen und Anwartschaften von
 Mitgliedern des 16. Deutschen Bundestages gemäß Absatz 1 findet die
@@ -1251,6 +1275,17 @@ jeweils der Betrag zugrunde zu legen, der sich unter Berücksichtigung
 des jeweiligen prozentualen Verhältnisses ergibt, mit dem die
 Versorgung auf der Grundlage des fiktiven Berechnungsbetrages nach
 Absatz 2 und der Entschädigung nach § 11 errechnet wird.
+
+
+### § 35c Übergangsregelungen zum Dreißigsten Änderungsgesetz
+
+Auf alle bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages
+entstandenen Ansprüche und Anwartschaften von Mitgliedern des
+Deutschen Bundestages, ehemaligen Mitgliedern und ihren
+Hinterbliebenen finden die Regelungen des Fünften und des Neunten
+Abschnitts in der bis zum Tag der ersten Sitzung des 19. Deutschen
+Bundestages geltenden Fassung Anwendung. Die §§ 35a und 35b bleiben
+unberührt.
 
 
 ### § 36 Übergangsregelung für die Angehörigen des öffentlichen Dienstes
@@ -1420,7 +1455,7 @@ Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den
 
 
 
-### § 44a Ausübung des Mandats
+### § 44a Unabhängigkeit des Mandats
 
 (1) Die Ausübung des Mandats steht im Mittelpunkt der Tätigkeit eines
 Mitglieds des Bundestages. Unbeschadet dieser Verpflichtung bleiben
@@ -1430,69 +1465,46 @@ grundsätzlich zulässig.
 (2) Für die Ausübung des Mandats darf ein Mitglied des Bundestages
 keine anderen als die gesetzlich vorgesehenen Zuwendungen oder andere
 Vermögensvorteile annehmen. Unzulässig ist insbesondere die Annahme
-von Geld oder von geldwerten Zuwendungen, die nur deshalb gewährt
-werden, weil dafür die Vertretung und Durchsetzung der Interessen des
-Leistenden im Bundestag erwartet wird. Unzulässig ist ferner die
-Annahme von Geld oder von geldwerten Zuwendungen, wenn diese Leistung
-ohne angemessene Gegenleistung des Mitglieds des Bundestages gewährt
-wird. Die Entgegennahme von Spenden bleibt unberührt.
+von Geld oder von geldwerten Zuwendungen, die erkennbar deshalb
+gewährt werden, weil dafür die Vertretung und Durchsetzung der
+Interessen des Leistenden im Bundestag erwartet wird. Unzulässig ist
+ferner die Annahme von Geld oder von geldwerten Zuwendungen, wenn
+diese Leistung für eine Vortragstätigkeit, die in Zusammenhang mit der
+Mandatsausübung steht oder ohne angemessene Gegenleistung des
+Mitglieds des Bundestages gewährt wird. Unberührt bleibt die
+Entgegennahme von geldwerten Zuwendungen unter den Voraussetzungen des
+§ 48. Die Entgegennahme von Geldspenden, die bei der oder dem
+Abgeordneten verbleiben sollen, ist unzulässig.
 
-(3) Nach Absatz 2 unzulässige Zuwendungen oder Vermögensvorteile oder
-ihr Gegenwert sind dem Haushalt des Bundes zuzuführen. Der Präsident
-macht den Anspruch durch Verwaltungsakt geltend, soweit der Erhalt der
-Zuwendung oder des Vermögensvorteils nicht länger als drei Jahre
-zurückliegt. Der Anspruch wird durch einen Verlust der Mitgliedschaft
-im Bundestag nicht berührt. Das Nähere bestimmen die Verhaltensregeln
-nach § 44b.
+(3) Unzulässig neben dem Mandat ist die entgeltliche
+Interessenvertretung für Dritte gegenüber dem Bundestag oder der
+Bundesregierung und sind entgeltliche Beratungstätigkeiten, die in
+unmittelbarem Zusammenhang mit der Mandatsausübung stehen. Hiervon
+unberührt sind ehrenamtliche Tätigkeiten, für die eine jeweils
+verhältnismäßige Aufwandsentschädigung vorgesehen ist, die monatlich
+10 vom Hundert der monatlichen Entschädigung nach § 11 Absatz 1 nicht
+übersteigt, oder politische Ämter. Vereinbarungen, durch die das
+Mitglied des Bundestages erst nach dem Verlust der Mitgliedschaft
+Zuwendungen oder andere Vermögensvorteile für während der
+Mitgliedschaft getätigte Interessenvertretungs- oder
+Beratungstätigkeiten nach Satz 1 erhalten soll, sind unzulässig.
 
-(4) Tätigkeiten vor Übernahme des Mandats sowie Tätigkeiten und
-Einkünfte neben dem Mandat, die auf für die Ausübung des Mandats
-bedeutsame Interessenverknüpfungen hinweisen können, sind nach Maßgabe
-der Verhaltensregeln (§ 44b) anzuzeigen und zu veröffentlichen. Werden
-anzeigepflichtige Tätigkeiten oder Einkünfte nicht angezeigt, kann das
-Präsidium ein Ordnungsgeld bis zur Höhe der Hälfte der jährlichen
-Abgeordnetenentschädigung festsetzen. Der Präsident macht das
-Ordnungsgeld durch Verwaltungsakt geltend. § 31 bleibt unberührt. Das
-Nähere bestimmen die Verhaltensregeln nach § 44b.
+(4) Missbräuchliche Hinweise auf die Mitgliedschaft im Bundestag in
+beruflichen oder geschäftlichen Angelegenheiten sind unzulässig.
+Hinweise auf die Mitgliedschaft im Bundestag sind missbräuchlich, wenn
+sie geeignet sind, auf Grund der Mitgliedschaft im Bundestag einen
+Vorteil in beruflichen oder geschäftlichen Angelegenheiten zu
+erzeugen.
 
-(5) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder
-der Würde des Bundestages bei dessen Sitzungen kann der Präsident
-gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000
-Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf
-2 000 Euro. Bei gröblicher Verletzung der Ordnung oder der Würde des
-Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal
-verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen
-des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere
-regelt die Geschäftsordnung des Bundestages.
-
-
-### § 44b Verhaltensregeln
-
-Der Bundestag gibt sich Verhaltensregeln, die insbesondere
-Bestimmungen enthalten müssen über
-
-1.  die Fälle einer Pflicht zur Anzeige von Tätigkeiten vor der
-    Mitgliedschaft im Bundestag sowie von Tätigkeiten neben dem Mandat;
+(5) Nach den Absätzen 2 bis 4 unzulässige Zuwendungen oder
+Vermögensvorteile oder ihr Gegenwert sind dem Haushalt des Bundes
+zuzuführen. Der Präsident macht den Anspruch durch Verwaltungsakt
+geltend, soweit der Erhalt der Zuwendung oder des Vermögensvorteils
+nicht länger als drei Jahre zurückliegt. Der Anspruch wird durch einen
+Verlust der Mitgliedschaft im Bundestag nicht berührt.
 
 
-2.  die Fälle einer Pflicht zur Anzeige der Art und Höhe der Einkünfte
-    neben dem Mandat oberhalb festgelegter Mindestbeträge;
-
-
-3.  die Pflicht zur Rechnungsführung und zur Anzeige von Spenden oberhalb
-    festgelegter Mindestbeträge sowie Annahmeverbote und
-    Ablieferungspflichten in den in den Verhaltensregeln näher bestimmten
-    Fällen;
-
-
-4.  die Veröffentlichung von Angaben im Amtlichen Handbuch und im
-    Internet;
-
-
-5.  das Verfahren sowie die Befugnisse und Pflichten des Präsidiums und
-    des Präsidenten bei Entscheidungen nach § 44a Abs. 3 und 4.
-
-
+### § 44b (weggefallen)
 
 
 
@@ -1537,11 +1549,349 @@ oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder
 erheblich erschweren würde.
 
 
-## Elfter Abschnitt - Fraktionen
+### § 44e Ordnungsmaßnahmen gegen Mitglieder
+
+((1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder
+der Würde des Bundestages bei dessen Sitzungen kann der Präsident
+gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000
+Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf
+2 000 Euro. Bei gröblicher Verletzung der Ordnung oder der Würde des
+Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal
+verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen
+des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere
+regelt die Geschäftsordnung des Bundestages.
+
+(2) Wegen einer nicht nur geringfügigen Verletzung der Hausordnung des
+Bundestages kann der Präsident gegen ein Mitglied des Bundestages ein
+Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall
+erhöht sich das Ordnungsgeld auf 2 000 Euro; ein Wiederholungsfall
+liegt in der Regel vor, wenn das betroffene Mitglied innerhalb von
+sechs Monaten erneut Anlass für die Festsetzung eines Ordnungsgeldes
+wegen einer nicht nur geringfügigen Verletzung der Hausordnung gegeben
+hat.
+
+(3) Zuständiges Gericht für Streitigkeiten über Maßnahmen und
+Entscheidungen nach den Absätzen 1 und 2 ist das
+Bundesverfassungsgericht.
+
+
+## Elfter Abschnitt - Verhaltensregeln für die Mitglieder des Bundestages
 
 
 
-### § 45 Fraktionsbildung
+### § 45 Anzeigepflicht
+
+(1) Ein Mitglied des Bundestages ist verpflichtet, dem Präsidenten aus
+der Zeit vor seiner Mitgliedschaft im Bundestag schriftlich oder in
+Textform anzuzeigen:
+
+1.  die zuletzt ausgeübte Berufstätigkeit und das Bestehen eines
+    Rückkehrrechts nach Beendigung des Mandats oder eines
+    Kündigungsschutzes gemäß § 2 Absatz 3;
+
+
+2.  Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates,
+    Verwaltungsrates, Beirates oder eines sonstigen Gremiums einer
+    Gesellschaft oder eines in einer anderen Rechtsform betriebenen
+    Unternehmens;
+
+
+3.  Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates,
+    Verwaltungsrates, Beirates oder eines sonstigen Gremiums einer
+    Körperschaft oder Anstalt des öffentlichen Rechts.
+
+
+
+
+(2) Ein Mitglied des Bundestages ist zusätzlich verpflichtet, dem
+Präsidenten schriftlich oder in Textform die folgenden Tätigkeiten und
+Verträge, die während der Mitgliedschaft im Bundestag ausgeübt oder
+aufgenommen werden beziehungsweise wirksam sind, anzuzeigen:
+
+1.  entgeltliche Tätigkeiten neben dem Mandat, die selbstständig oder im
+    Rahmen eines Anstellungsverhältnisses ausgeübt werden. Darunter fallen
+    zum Beispiel die Fortsetzung einer vor der Mitgliedschaft ausgeübten
+    Berufstätigkeit sowie Beratungs-, Vertretungs-, Gutachter- und
+    publizistische und Vortragstätigkeiten. Die Anzeigepflicht für die
+    Erstattung von Gutachten und für publizistische und
+    Vortragstätigkeiten entfällt, wenn die Höhe der jeweils vereinbarten
+    Einkünfte den Betrag von 1 000 Euro im Monat oder, wenn dies nicht der
+    Fall ist, von 3 000 Euro im Kalenderjahr nicht übersteigt. Sie
+    entfällt ferner für die Tätigkeit als Mitglied der Bundesregierung,
+    als Parlamentarischer Staatssekretär, als Staatsminister, als
+    Beauftragter oder Koordinator der Bundesregierung oder für
+    parlamentarische Ämter und Funktionen;
+
+
+2.  Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates,
+    Verwaltungsrates, Beirates oder eines sonstigen Gremiums einer
+    Gesellschaft oder eines in einer anderen Rechtsform betriebenen
+    Unternehmens;
+
+
+3.  Tätigkeiten als Mitglied eines Vorstandes, Aufsichtsrates,
+    Verwaltungsrates, Beirates oder eines sonstigen Gremiums einer
+    Körperschaft oder Anstalt des öffentlichen Rechts;
+
+
+4.  Tätigkeiten als Mitglied eines Vorstandes oder eines sonstigen
+    leitenden oder beratenden Gremiums eines Vereins, Verbandes oder einer
+    ähnlichen Organisation sowie einer Stiftung mit nicht ausschließlich
+    lokaler Bedeutung;
+
+
+5.  das Bestehen beziehungsweise der Abschluss von Vereinbarungen, wonach
+    dem Mitglied des Bundestages während oder nach Beendigung der
+    Mitgliedschaft bestimmte Tätigkeiten übertragen oder Vermögensvorteile
+    zugewendet werden sollen;
+
+
+6.  Beteiligungen an Kapital- oder Personengesellschaften, wenn der Anteil
+    mehr als 5 vom Hundert beträgt und soweit die Tätigkeit der
+    Personengesellschaften nicht ausschließlich die Vermietung und
+    Verpachtung im Rahmen der privaten Vermögensverwaltung betrifft. Im
+    Falle einer nach Satz 1 anzeigepflichtigen Beteiligung an einer
+    Beteiligungsgesellschaft sind auch die Beteiligungen der
+    Beteiligungsgesellschaft anzuzeigen, soweit diese jeweils mehr als 5
+    vom Hundert betragen.
+
+
+
+Für das Jahr der Bundestagswahl werden die Zeiträume der jeweils
+endenden Wahlperiode und der neuen Wahlperiode getrennt voneinander
+behandelt.
+
+(3) Bei einer Tätigkeit und einem Vertrag, die gemäß Absatz 2 Satz 1
+Nummer 1 bis 5 anzeigepflichtig sind, ist auch die Höhe der jeweiligen
+Einkünfte anzugeben, wenn diese den Betrag von 1 000 Euro im Monat
+oder, wenn dies nicht der Fall ist, den Betrag von 3 000 Euro im
+Kalenderjahr übersteigen. Einkünften gleichgestellt ist die Zuwendung
+von Optionen auf Einräumung von Gesellschaftsanteilen oder von
+vergleichbaren Finanzinstrumenten, die als Gegenleistung für eine
+Tätigkeit gewährt wird. Bei Beteiligungen an Kapital- oder
+Personengesellschaften, die gemäß § 45 Absatz 2 Nummer 6
+anzeigepflichtig sind, ist auch die Höhe der jeweiligen Einkünfte aus
+diesen Beteiligungen anzugeben. Zu Grunde zu legen sind hierbei die
+für eine Tätigkeit zu zahlenden Bruttobeträge unter Einschluss von
+Entschädigungs-, Ausgleichs- und Sachleistungen. Soweit die Einkünfte
+aus Umsatzerlösen bestehen, ist statt der Bruttobeträge der Gewinn vor
+Steuern anzuzeigen. Soweit der Wert nicht bezifferbar ist, ist dies
+ebenfalls anzugeben. Tatsächlich entstandene Aufwendungen, die zur
+Durchführung der Tätigkeit durch den Vertragspartner oder Arbeitgeber
+erstattet werden, gelten nicht als Einkünfte.
+
+(4) Die Anzeigepflicht umfasst nicht die Mitteilung von Tatsachen über
+Dritte, für die der Abgeordnete gesetzliche Zeugnisverweigerungsrechte
+oder Verschwiegenheitspflichten geltend machen kann. In diesem Fall
+ist statt der Angaben zum Auftraggeber eine Branchenbezeichnung
+anzugeben. Die Pflicht zur Angabe der Branche gilt nicht, wenn der
+Abgeordnete erklärt, dass die Branchenbezeichnung den Vertragspartner
+identifizieren würde.
+
+(5) Anzeigen nach den Verhaltensregeln sind innerhalb einer Frist von
+drei Monaten nach Erwerb der Mitgliedschaft im Bundestag sowie nach
+Eintritt von Änderungen oder Ergänzungen während der Wahlperiode dem
+Präsidenten einzureichen.
+
+
+### § 46 Rechtsanwälte
+
+(1) Mitglieder des Bundestages, die gegen Entgelt gerichtlich oder
+außergerichtlich für die Bundesrepublik Deutschland auftreten, haben
+dem Präsidenten die Übernahme der Vertretung anzuzeigen, wenn das
+Honorar den Betrag von 1 000 Euro übersteigt.
+
+(2) Mitglieder des Bundestages, die gegen Entgelt zur Besorgung
+fremder Angelegenheiten gerichtlich oder außergerichtlich gegen die
+Bundesrepublik Deutschland auftreten, haben dem Präsidenten die
+Übernahme der Vertretung anzuzeigen, wenn das Honorar den Betrag von
+1 000 Euro übersteigt. § 44a Absatz 3 bleibt unberührt.
+
+(3) Die Absätze 1 und 2 gelten entsprechend bei gerichtlichem oder
+außergerichtlichem Auftreten insbesondere für oder gegen
+bundesunmittelbare Körperschaften, Anstalten oder Stiftungen des
+öffentlichen Rechts.
+
+
+### § 47 Veröffentlichung
+
+Die anzeigepflichtigen Angaben gemäß § 45 Absatz 1 Nummer 1 und Absatz
+2 bis 4 werden auf den Internetseiten des Bundestages veröffentlicht.
+Soweit der Wert der Angaben nach § 45 Absatz 3 nicht bezifferbar ist,
+erfolgt die Veröffentlichung unter Beschreibung der eingeräumten
+Rechtsposition.
+
+
+### § 48 Geldwerte Zuwendungen (Spenden)
+
+(1) Ein Mitglied des Bundestages hat über geldwerte Zuwendungen aller
+Art (Spenden), die ihm im Rahmen eines ehrenamtlichen politischen
+Engagements oder einer Sachunterstützung des Spenders für die
+politische Tätigkeit des Mitglieds zur Verfügung gestellt werden,
+gesondert Rechnung zu führen. § 44a Absatz 2 Satz 5 bleibt hiervon
+unberührt.
+
+(2) Eine Spende, deren Wert in einem Kalenderjahr 1 000 Euro
+übersteigt, ist unter Angabe des Namens und der Anschrift des Spenders
+sowie der Gesamthöhe dem Präsidenten anzuzeigen.
+
+(3) Spenden sind, soweit sie in einem Kalenderjahr einzeln oder bei
+mehreren Spenden desselben Spenders zusammen den Wert von 3 000 Euro
+übersteigen, vom Präsidenten unter Angabe ihrer Höhe und Herkunft auf
+den Internetseiten des Deutschen Bundestages zu veröffentlichen.
+
+(4) Für Spenden an ein Mitglied des Bundestages findet § 25 Absatz 2
+und 4 des Gesetzes über die politischen Parteien entsprechende
+Anwendung.
+
+(5) Geldwerte Zuwendungen
+
+1.  aus Anlass der Wahrnehmung interparlamentarischer oder internationaler
+    Beziehungen,
+
+
+2.  zur Teilnahme an Veranstaltungen zur politischen Information, zur
+    Darstellung der Standpunkte des Deutschen Bundestages oder seiner
+    Fraktionen oder als Repräsentant des Deutschen Bundestages
+
+
+
+gelten nicht als Spenden im Sinne dieser Vorschrift; sie sind jedoch
+entsprechend Absatz 2 anzuzeigen und nach Maßgabe von Absatz 3 zu
+veröffentlichen.
+
+(6) Geldwerte Zuwendungen, die ein Mitglied des Bundestages als
+Gastgeschenk in Bezug auf sein Mandat erhält, müssen dem Präsidenten
+angezeigt und ausgehändigt werden, wenn der materielle Wert des
+Gastgeschenks 200 Euro übersteigt. Das Mitglied kann beantragen, das
+Gastgeschenk gegen Bezahlung des Gegenwertes an die Bundeskasse zu
+behalten.
+
+(7) Der Präsident entscheidet über die Verwendung angezeigter
+Gastgeschenke und rechtswidrig angenommener Spenden. Diese können
+versteigert oder vernichtet werden. Werden sie versteigert, ist der
+Erlös dem Haushalt des Bundes zuzuführen.
+
+(8) Anzeigen nach dieser Vorschrift sind schriftlich oder in Textform
+zu übermitteln.
+
+
+### § 49 Interessenverknüpfung im Ausschuss
+
+Ein Mitglied des Bundestages, das entgeltlich mit einem Gegenstand
+beschäftigt ist, der in einem Ausschuss des Bundestages zur Beratung
+ansteht, hat als Mitglied dieses Ausschusses vor einer Wortmeldung
+eine Interessenverknüpfung offenzulegen. Ein Mitglied des Bundestages,
+das in einem Ausschuss die Berichterstattung übernommen hat, hat vor
+der Beratung eine konkrete Interessenverknüpfung offenzulegen; diese
+Angaben werden in der Beschlussempfehlung des Ausschusses angemerkt.
+
+
+### § 50 Rückfrage
+
+In Zweifelsfragen ist das Mitglied des Bundestages verpflichtet, sich
+durch Rückfragen beim Präsidenten über den Inhalt seiner Pflichten
+nach diesen Verhaltensregeln zu vergewissern.
+
+
+### § 51 Verfahren bei Verstößen
+
+(1) Bestehen Anhaltspunkte dafür, dass ein Mitglied des Bundestages
+seine Pflichten nach § 44a Absatz 2 bis 4 oder den Verhaltensregeln
+dieses Abschnitts oder Regeln der Mitarbeiterbeschäftigung nach § 12
+Absatz 3a verletzt hat (Pflichtverstoß), kann der Präsident von dem
+betroffenen Mitglied ergänzende Auskünfte zur Erläuterung und
+Aufklärung des Sachverhalts verlangen und den Vorsitzenden der
+Fraktion, der dieses Mitglied angehört, um Stellungnahme bitten.
+
+(2) Ergibt sich nach der Überzeugung des Präsidenten, dass ein minder
+schwerer Fall beziehungsweise leichte Fahrlässigkeit vorliegt (zum
+Beispiel Überschreitung von Anzeigefristen um höchstens drei Monate),
+wird das betreffende Mitglied ermahnt. Ansonsten teilt der Präsident
+das Ergebnis der Überprüfung dem Präsidium und den Vorsitzenden der
+Fraktionen mit. Das Präsidium stellt nach Anhörung des betroffenen
+Mitglieds fest, ob ein Pflichtverstoß vorliegt. Die Feststellung des
+Präsidiums, dass ein Mitglied des Bundestages gegen Pflichten
+verstoßen hat, wird unbeschadet weiterer Sanktionen nach § 12 Absatz
+3a sowie § 44a als Drucksache veröffentlicht. Die Feststellung, dass
+kein Pflichtverstoß vorliegt, wird auf Wunsch des Mitglieds des
+Bundestages veröffentlicht.
+
+(3) Bestehen Anhaltspunkte für einen Pflichtverstoß gegen ein Mitglied
+des Präsidiums oder gegen einen Fraktionsvorsitzenden, nimmt das
+betroffene Mitglied des Bundestages an Sitzungen im Rahmen dieses
+Verfahrens nicht teil. Anstelle eines betroffenen
+Fraktionsvorsitzenden wird sein Stellvertreter gemäß Absatz 1 angehört
+und gemäß Absatz 2 unterrichtet. Bestehen Anhaltspunkte dafür, dass
+der Präsident gegen Pflichten verstoßen hat, hat sein Stellvertreter
+nach den Vorschriften der Absätze 1 und 2 zu verfahren.
+
+(4) Werden anzeigepflichtige Tätigkeiten, Einkünfte oder
+Unternehmensbeteiligungen nicht angezeigt oder wird gegen die
+Pflichten nach § 44a Absatz 2 bis 4 oder § 12 Absatz 3a Satz 1
+verstoßen, kann das Präsidium nach erneuter Anhörung ein Ordnungsgeld
+festsetzen. Die Höhe des Ordnungsgeldes bemisst sich nach der Schwere
+des Einzelfalles und nach dem Grad des Verschuldens. Es kann bis zur
+Höhe der Hälfte der jährlichen Abgeordnetenentschädigung festgesetzt
+werden. Der Präsident führt die Festsetzung aus. Der Präsident macht
+das Ordnungsgeld durch Verwaltungsakt geltend. Auf Wunsch des
+betreffenden Mitglieds kann eine Ratenzahlung vereinbart werden. § 31
+Satz 3 und 4 gilt entsprechend.
+
+(5) In Fällen des § 12 Absatz 3a und des § 44a Absatz 5 leitet der
+Präsident nach Anhörung des betroffenen Mitglieds eine Prüfung in
+tatsächlicher und rechtlicher Hinsicht ein. Dabei ist bei der Prüfung
+auf Vorliegen einer angemessenen Gegenleistung im Sinne des § 44a
+Absatz 2 Satz 3 auf die Verkehrsüblichkeit abzustellen; hilfsweise ist
+entscheidend, ob Leistung und Gegenleistung offensichtlich außer
+Verhältnis stehen. Maßnahmen nach diesem Absatz setzen voraus, dass
+der Erhalt der Zuwendung oder des Vermögensvorteils nicht länger als
+drei Jahre zurückliegt. Der Präsident kann von dem Mitglied ergänzende
+Auskünfte zur Erläuterung und Aufklärung des Sachverhalts verlangen
+und den Vorsitzenden der Fraktion, der dieses Mitglied angehört, um
+Stellungnahme bitten. Ergibt sich nach der Überzeugung des
+Präsidenten, dass eine unzulässige Zuwendung nach § 44a Absatz 2 bis 4
+oder ein Fall des § 12 Absatz 3a vorliegt, teilt er das Ergebnis der
+Überprüfung dem Präsidium und den Vorsitzenden der Fraktionen mit. Das
+Präsidium stellt nach Anhörung des betroffenen Mitglieds fest, ob ein
+Verstoß gegen § 44a Absatz 2 bis 4 oder gegen Regeln der
+Mitarbeiterbeschäftigung vorliegt. Der Präsident macht Ansprüche nach
+§ 12 Absatz 3a und den Anspruch gemäß § 44a Absatz 5 durch
+Verwaltungsakt geltend. Die Feststellung, dass ein Mitglied des
+Bundestages seine Pflichten nach diesem Gesetz verletzt hat, wird
+unbeschadet weiterer Sanktionen nach § 12 Absatz 3a und § 44a als
+Drucksache veröffentlicht. Die Feststellung, dass kein Verstoß
+vorliegt, wird auf Wunsch des Mitglieds des Bundestages
+veröffentlicht. Absatz 3 gilt entsprechend.
+
+(6) Über die Anwendung der Vorschriften dieses Abschnitts legt der
+Präsident dem Bundestag zu Beginn einer Wahlperiode einen Bericht vor,
+der Daten über die Anzahl der eingeleiteten Prüfverfahren sowie deren
+Abschluss durch Einstellung des Verfahrens, Ermahnung, festgestellte
+Pflichtverstöße sowie geltend gemachte Sanktionen und die Höhe der
+Zuführungen nach § 44a Absatz 5 enthält.
+
+
+### § 52 Ausführungsbestimmungen
+
+Der Ältestenrat erlässt Ausführungsbestimmungen über Inhalt und Umfang
+der im Zehnten und Elften Abschnitt vorgesehenen Pflichten.
+
+
+### § 52a Übergangsregelung
+
+Für Beteiligungen, die bei Inkrafttreten dieses Gesetzes bereits
+gehalten werden und für die nach bisherigem Recht keine
+Anzeigepflichten bestanden, entsteht eine Anzeigepflicht gemäß § 45
+Absatz 2 Satz 1 Nummer 6 und Absatz 3 Satz 3 erstmals zwölf Monate
+nach dem Inkrafttreten.
+
+
+## Zwölfter Abschnitt - Fraktionen
+
+
+
+### § 53 Fraktionsbildung
 
 (1) Mitglieder des Bundestages können sich zu Fraktionen
 zusammenschließen.
@@ -1549,7 +1899,7 @@ zusammenschließen.
 (2) Das Nähere regelt die Geschäftsordnung des Deutschen Bundestages.
 
 
-### § 46 Rechtsstellung
+### § 54 Rechtsstellung
 
 (1) Die Fraktionen sind rechtsfähige Vereinigungen von Abgeordneten im
 Deutschen Bundestag.
@@ -1560,7 +1910,17 @@ Deutschen Bundestag.
 üben keine öffentliche Gewalt aus.
 
 
-### § 47 Aufgaben
+## Zwölfter Abschnitt - (weggefallen)
+
+-
+
+
+### § 55 (weggefallen)
+
+-
+
+
+### § 55 Aufgaben
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen
 Bundestages mit.
@@ -1573,7 +1933,7 @@ zusammenarbeiten.
 ihre Tätigkeit unterrichten.
 
 
-### § 48 Organisation
+### § 56 Organisation
 
 (1) Die Fraktionen sind verpflichtet, ihre Organisation und
 Arbeitsweise auf den Grundsätzen der parlamentarischen Demokratie
@@ -1582,7 +1942,7 @@ aufzubauen und an diesen auszurichten.
 (2) Die Fraktionen geben sich eine eigene Geschäftsordnung.
 
 
-### § 49 Geheimhaltungspflicht der Fraktionsangestellten
+### § 57 Geheimhaltungspflicht der Fraktionsangestellten
 
 (1) Angestellte der Fraktionen sind, auch nach Beendigung ihres
 Beschäftigungsverhältnisses, verpflichtet, über die ihnen bei ihrer
@@ -1601,7 +1961,7 @@ anzuzeigen und bei Gefährdung der freiheitlich demokratischen
 Grundordnung für deren Erhaltung einzutreten.
 
 
-### § 50 Geld- und Sachleistungen
+### § 58 Geld- und Sachleistungen
 
 (1) Die Fraktionen haben zur Erfüllung ihrer Aufgaben Anspruch auf
 Geld- und Sachleistungen aus dem Bundeshaushalt.
@@ -1628,7 +1988,7 @@ für Parteiaufgaben ist unzulässig.
 werden.
 
 
-### § 51 Haushalts- und Wirtschaftsführung, Buchführung
+### § 59 Haushalts- und Wirtschaftsführung, Buchhaltung
 
 (1) Einzelheiten der Haushalts- und Wirtschaftsführung werden in
 Ausführungsbestimmungen geregelt, die der Ältestenrat nach Anhörung
@@ -1639,24 +1999,24 @@ Einnahmen und Ausgaben sowie über ihr Vermögen zu führen. Dabei ist
 nach den Grundsätzen ordnungsgemäßer Buchführung unter
 Berücksichtigung des Gesetzeszwecks zu verfahren.
 
-(3) Aus den Geldleistungen nach § 50 Abs. 1 beschaffte Gegenstände
+(3) Aus den Geldleistungen nach § 58 Absatz 1 beschaffte Gegenstände
 sind, wenn sie nicht zum kurzfristigen Verbrauch bestimmt oder nur von
 geringem Wert sind, zu kennzeichnen und in einem Nachweis aufzuführen.
 
 (4) Die Rechnungsunterlagen sind fünf Jahre aufzubewahren.
 
 
-### § 52 Rechnungslegung
+### § 60 Rechnungslegung
 
 (1) Die Fraktionen haben über die Herkunft und die Verwendung der
 Mittel, die ihnen innerhalb eines Kalenderjahres (Rechnungsjahr) gemäß
-§ 50 Abs. 1 zugeflossen sind, öffentlich Rechenschaft zu geben.
+§ 58 Absatz 1 zugeflossen sind, öffentlich Rechenschaft zu geben.
 
 (2) Die Rechnung ist wie folgt zu gliedern:
 
 1.  Einnahmen:
 
-    a)  Geldleistungen nach § 50 Abs. 1,
+    a)  Geldleistungen nach § 58 Absatz 1,
 
 
     b)  sonstige Einnahmen;
@@ -1701,7 +2061,7 @@ Mittel, die ihnen innerhalb eines Kalenderjahres (Rechnungsjahr) gemäß
 
 
 
-(3) Die Rechnung muß das Vermögen, das mit Mitteln gemäß § 50 Abs. 1
+(3) Die Rechnung muß das Vermögen, das mit Mitteln gemäß § 58 Absatz 1
 erworben wurde, die Rücklagen, die aus diesen Mitteln gebildet werden,
 sowie die Forderungen und die Verbindlichkeiten ausweisen. Die
 Vermögensrechnung gliedert sich wie folgt:
@@ -1749,31 +2109,31 @@ der Absätze 2 und 3 geprüft werden und einen entsprechenden
 Prüfungsvermerk aufweisen. Die geprüfte Rechnung ist dem Präsidenten
 oder der Präsidentin des Deutschen Bundestages spätestens bis zum Ende
 des sechsten Monats nach Ablauf des Kalenderjahres oder des Monats
-vorzulegen, in dem die Geldleistungen nach § 50 Abs. 1 letztmals
+vorzulegen, in dem die Geldleistungen nach § 58 Absatz 1 letztmals
 gezahlt wurden. Der Präsident oder die Präsidentin des Deutschen
 Bundestages können die Frist aus besonderen Gründen bis zu drei
 Monaten verlängern. Die geprüfte Rechnung wird als Bundestags-
 Drucksache verteilt.
 
 (5) Solange eine Fraktion mit der Rechnungslegung in Verzug ist, sind
-Geld- und Sachleistungen nach § 50 Abs. 1 zurückzubehalten.
+Geld- und Sachleistungen nach § 58 Absatz 1 zurückzubehalten.
 
 
-### § 53 Rechnungsprüfung
+### § 61 Rechnungsprüfung
 
 (1) Der Bundesrechnungshof prüft die Rechnung sowie die den Fraktionen
-nach § 50 Abs. 1 zur Verfügung gestellten Geld- und Sachleistungen auf
-ihre wirtschaftliche und ordnungsgemäße Verwendung nach Maßgabe der
-Ausführungsbestimmungen gemäß § 51 Abs. 1.
+nach § 58 Absatz 1 zur Verfügung gestellten Geld- und Sachleistungen
+auf ihre wirtschaftliche und ordnungsgemäße Verwendung nach Maßgabe
+der Ausführungsbestimmungen gemäß § 59 Absatz 1.
 
 (2) Bei der Prüfung sind die Rechtsstellung und die Aufgaben der
 Fraktionen zu beachten. Die politische Erforderlichkeit einer Maßnahme
 der Fraktionen ist nicht Gegenstand der Prüfung.
 
 
-### § 54 Beendigung der Rechtsstellung und Liquidation
+### § 62 Beendigung der Rechtsstellung und Liquidation
 
-(1) Die Rechtsstellung nach § 46 entfällt
+(1) Die Rechtsstellung nach § 54 entfällt
 
 1.  bei Erlöschen des Fraktionsstatus,
 
@@ -1795,15 +2155,15 @@ der Fraktion nichts anderes bestimmt.
 (3) Die Liquidatoren haben die laufenden Geschäfte zu beenden, die
 Forderungen einzuziehen und die Gläubiger zu befriedigen. Sie sind
 berechtigt, zu diesem Zweck neue Geschäfte einzugehen und das Vermögen
-in Geld umzusetzen. Die Zweckbindung gemäß § 50 Abs. 4 ist zu
+in Geld umzusetzen. Die Zweckbindung gemäß § 58 Absatz 4 ist zu
 beachten. Fällt den Liquidatoren bei der Durchführung der Liquidation
 ein Verschulden zur Last, so haften sie für den daraus entstehenden
 Schaden gegenüber den Gläubigern als Gesamtschuldner.
 
-(4) Soweit nach der Beendigung der Liquidation nach § 50 Abs. 1
+(4) Soweit nach der Beendigung der Liquidation nach § 58 Absatz 1
 gewährte Geldleistungen verbleiben, sind diese an den Bundeshaushalt
 zurückzuführen. Das gleiche gilt für Vermögenswerte, die mit diesen
-Geldern angeschafft worden sind. Die Sachleistungen nach § 50 Abs. 3
+Geldern angeschafft worden sind. Die Sachleistungen nach § 58 Absatz 3
 sind derjenigen Stelle zurückzugeben, die die Sachleistung erbracht
 hat.
 
@@ -1813,7 +2173,7 @@ Fraktion bestimmten Personen oder Stellen.
 
 (6) Maßnahmen nach den Absätzen 4 und 5 dürfen erst vorgenommen
 werden, wenn seit dem Ereignis, das zum Verlust der Rechtsstellung
-nach § 46 geführt hat, sechs Monate verstrichen sind. Die Sicherung
+nach § 54 geführt hat, sechs Monate verstrichen sind. Die Sicherung
 der Gläubiger hat nach § 52 des Bürgerlichen Gesetzbuchs zu erfolgen.
 
 (7) Im Falle des Absatzes 1 Nr. 3 findet eine Liquidation nicht statt,
@@ -1823,14 +2183,4 @@ die durch eine Fraktion in der abgelaufenen Wahlperiode im Deutschen
 Bundestag vertreten war und die sich zur Nachfolgefraktion erklärt. In
 diesem Fall ist die neu konstituierte Fraktion die Rechtsnachfolgerin
 der alten Fraktion.
-
-
-## Zwölfter Abschnitt - (weggefallen)
-
--
-
-
-### § 55 (weggefallen)
-
--
 

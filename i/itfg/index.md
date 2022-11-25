@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 416, 417
 
-Geändert durch
-:   Art. 1 G v. 25.6.2009 I 1577
+Zuletzt geändert durch
+:   Art. 10 G v. 24.5.2016 I 1217
 
 
 ## § 1 Errichtung des Sondervermögens
@@ -885,8 +885,8 @@ verbleibendes Vermögen fällt dem Bund zu.
 *    *
     *   6.
 
-    *   die Modernisierung der betrieblichen Infrastruktur der Wasser- und
-        Schifffahrtsverwaltung.
+    *   die Modernisierung der betrieblichen Infrastruktur der Wasserstraßen-
+        und Schifffahrtsverwaltung des Bundes.
 
     *
     *
@@ -2021,8 +2021,8 @@ verbleibendes Vermögen fällt dem Bund zu.
     *
 
 *    *
-    *   Aus diesem Titel können auch Ausgaben für die Errichtung von
-        IT-Leitungsnetzen                      geleistet werden.
+    *   Aus diesem Titel können auch Ausgaben für die Errichtung von IT-
+        Leitungsnetzen geleistet werden.
 
     *
     *

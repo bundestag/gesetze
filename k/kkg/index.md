@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2975
 
+Zuletzt geändert durch
+:   Art. 2 G v. 3.6.2021 I 1444
+
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
 
@@ -81,16 +84,16 @@ Fragen der Angebotsgestaltung und -entwicklung zu klären sowie
 Verfahren im Kinderschutz aufeinander abzustimmen.
 
 (2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste der
-öffentlichen und freien Jugendhilfe, Einrichtungen und Dienste, mit
-denen Verträge nach § 75 Absatz 3 des Zwölften Buches Sozialgesetzbuch
-bestehen, Gesundheitsämter, Sozialämter, Gemeinsame Servicestellen,
-Schulen, Polizei- und Ordnungsbehörden, Agenturen für Arbeit,
-Krankenhäuser, Sozialpädiatrische Zentren, Frühförderstellen,
-Beratungsstellen für soziale Problemlagen, Beratungsstellen nach den
-§§ 3 und 8 des Schwangerschaftskonfliktgesetzes, Einrichtungen und
-Dienste zur Müttergenesung sowie zum Schutz gegen Gewalt in engen
-sozialen Beziehungen, Familienbildungsstätten, Familiengerichte und
-Angehörige der Heilberufe einbezogen werden.
+öffentlichen und freien Jugendhilfe, Leistungserbringer, mit denen
+Verträge nach § 125 des Neunten Buches Sozialgesetzbuch bestehen,
+Gesundheitsämter, Sozialämter, Schulen, Polizei- und Ordnungsbehörden,
+Agenturen für Arbeit, Krankenhäuser, Sozialpädiatrische Zentren,
+Frühförderstellen, Beratungsstellen für soziale Problemlagen,
+Beratungsstellen nach den §§ 3 und 8 des
+Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur
+Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen
+Beziehungen, Mehrgenerationenhäuser, Familienbildungsstätten,
+Familiengerichte und Angehörige der Heilberufe einbezogen werden.
 
 (3) Sofern Landesrecht keine andere Regelung trifft, soll die
 verbindliche Zusammenarbeit im Kinderschutz als Netzwerk durch den
@@ -121,10 +124,10 @@ Ländern schließt.
 
 (1) Werden
 
-1.  Ärztinnen oder Ärzten, Hebammen oder Entbindungspflegern oder
-    Angehörigen eines anderen Heilberufes, der für die Berufsausübung oder
-    die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung
-    erfordert,
+1.  Ärztinnen oder Ärzten, Zahnärztinnen oder Zahnärzten Hebammen oder
+    Entbindungspflegern oder Angehörigen eines anderen Heilberufes, der
+    für die Berufsausübung oder die Führung der Berufsbezeichnung eine
+    staatlich geregelte Ausbildung erfordert,
 
 
 2.  Berufspsychologinnen oder -psychologen mit staatlich anerkannter
@@ -156,10 +159,10 @@ Ländern schließt.
 in Ausübung ihrer beruflichen Tätigkeit gewichtige Anhaltspunkte für
 die Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt,
 so sollen sie mit dem Kind oder Jugendlichen und den
-Personensorgeberechtigten die Situation erörtern und, soweit
-erforderlich, bei den Personensorgeberechtigten auf die
-Inanspruchnahme von Hilfen hinwirken, soweit hierdurch der wirksame
-Schutz des Kindes oder des Jugendlichen nicht in Frage gestellt wird.
+Erziehungsberechtigten die Situation erörtern und, soweit
+erforderlich, bei den Erziehungsberechtigten auf die Inanspruchnahme
+von Hilfen hinwirken, soweit hierdurch der wirksame Schutz des Kindes
+oder des Jugendlichen nicht in Frage gestellt wird.
 
 (2) Die Personen nach Absatz 1 haben zur Einschätzung der
 Kindeswohlgefährdung gegenüber dem Träger der öffentlichen Jugendhilfe
@@ -176,5 +179,48 @@ abzuwenden, so sind sie befugt, das Jugendamt zu informieren; hierauf
 sind die Betroffenen vorab hinzuweisen, es sei denn, dass damit der
 wirksame Schutz des Kindes oder des Jugendlichen in Frage gestellt
 wird. Zu diesem Zweck sind die Personen nach Satz 1 befugt, dem
-Jugendamt die erforderlichen Daten mitzuteilen.
+Jugendamt die erforderlichen Daten mitzuteilen. Die Sätze 1 und 2
+gelten für die in Absatz 1 Nummer 1 genannten Personen mit der
+Maßgabe, dass diese unverzüglich das Jugendamt informieren sollen,
+wenn nach deren Einschätzung eine dringende Gefahr für das Wohl des
+Kindes oder des Jugendlichen das Tätigwerden des Jugendamtes
+erfordert.
+
+(4) Wird das Jugendamt von einer in Absatz 1 genannten Person
+informiert, soll es dieser Person zeitnah eine Rückmeldung geben, ob
+es die gewichtigen Anhaltspunkte für die Gefährdung des Wohls des
+Kindes oder Jugendlichen bestätigt sieht und ob es zum Schutz des
+Kindes oder Jugendlichen tätig geworden ist und noch tätig ist.
+Hierauf sind die Betroffenen vorab hinzuweisen, es sei denn, dass
+damit der wirksame Schutz des Kindes oder des Jugendlichen in Frage
+gestellt wird.
+
+(5) Die Absätze 2 und 3 gelten entsprechend für Mitarbeiterinnen und
+Mitarbeiter von Zollbehörden.
+
+(6) Zur praktischen Erprobung datenschutzrechtskonformer
+Umsetzungsformen und zur Evaluierung der Auswirkungen auf den
+Kinderschutz kann Landesrecht die Befugnis zu einem fallbezogenen
+interkollegialen Austausch von Ärztinnen und Ärzten regeln.
+
+
+## § 5 Mitteilungen an das Jugendamt
+
+(1) Werden in einem Strafverfahren gewichtige Anhaltspunkte für die
+Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt,
+informiert die Strafverfolgungsbehörde oder das Gericht unverzüglich
+den zuständigen örtlichen Träger der öffentlichen Jugendhilfe sowie im
+Falle seiner Zuständigkeit den überörtlichen Träger der öffentlichen
+Jugendhilfe und übermittelt die aus ihrer Sicht zur Einschätzung des
+Gefährdungsrisikos erforderlichen Daten. Die Mitteilung ordnen
+Richterinnen oder Richter, Staatsanwältinnen oder Staatsanwälte an. §
+4 Absatz 2 gilt entsprechend.
+
+(2) Gewichtige Anhaltspunkte für eine Gefährdung können insbesondere
+dann vorliegen, wenn gegen eine Person, die mit einem Kind oder
+Jugendlichen in häuslicher Gemeinschaft lebt oder die regelmäßig
+Umgang mit ihm hat oder haben wird, der Verdacht besteht, eine
+Straftat nach den §§ 171, 174, 176 bis 180, 182, 184b bis 184e, 225,
+232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs begangen zu
+haben.
 

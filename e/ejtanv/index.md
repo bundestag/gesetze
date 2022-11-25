@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3520
 
-Geändert durch
-:   Art. 1 V v. 7.7.2006 I 1450
+Zuletzt geändert durch
+:   Art. 3 Abs. 2 G v. 9.12.2019 I 2010
 
 Diese Verordnung dient der Umsetzung des Beschlusses 2003/48/JI des
 Rates vom 19. Dezember 2002 über die Anwendung besonderer Maßnahmen im
@@ -35,11 +35,13 @@ I S. 902) verordnet das Bundesministerium der Justiz:
 ## § 1 Nationale Anlaufstelle für Terrorismusfragen
 
 Der Generalbundesanwalt beim Bundesgerichtshof ist nationale Eurojust-
-Anlaufstelle für Terrorismusfragen nach Artikel 12 Abs. 1 des
-Beschlusses 2002/187/JI des Rates vom 28. Februar 2002 über die
-Errichtung von Eurojust zur Verstärkung der Bekämpfung der schweren
-Kriminalität (ABl. EG Nr. L 63 S. 1) und Artikel 2 Abs. 2 des
-Beschlusses 2005/671/JI des Rates vom 20. September 2005 über den
+Anlaufstelle für Terrorismusfragen nach Artikel 20 Absatz 3 Buchstabe
+c der Verordnung (EU) 2018/1727 des Europäischen Parlaments und des
+Rates vom 14. November 2018 betreffend die Agentur der Europäischen
+Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und zur
+Ersetzung und Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L
+295 vom 21.11.2018, S. 138 – Eurojust-Verordnung) und Artikel 2 Abs. 2
+des Beschlusses 2005/671/JI des Rates vom 20. September 2005 über den
 Informationsaustausch und die Zusammenarbeit betreffend terroristische
 Straftaten (ABl. EU Nr. L 253 S. 22) (nationale Anlaufstelle).
 
@@ -54,15 +56,17 @@ Gerichtsverfassungsgesetz und der Strafprozessordnung zugewiesenen
 Aufgaben als Strafverfolgungsbehörde erhoben hat, in einer gesonderten
 Datei. § 490 der Strafprozessordnung bleibt unberührt.
 
-(2) Terroristische Straftaten nach Absatz 1 sind die in Artikel 1 Abs.
-1, Artikel 2 und 3 des Rahmenbeschlusses 2002/475/JI des Rates vom 13.
-Juni 2002 zur Terrorismusbekämpfung (ABl. EG Nr. L 164 S. 3)
+(2) Terroristische Straftaten nach Absatz 1 sind die in den Titeln II
+und III der Richtlinie (EU) 2017/541 des Europäischen Parlaments und
+des Rates vom 15. März 2017 zur Terrorismusbekämpfung und zur
+Ersetzung des Rahmenbeschlusses 2002/475/JI des Rates und zur Änderung
+des Beschlusses 2005/671/JI des Rates (ABl. L 88 vom 31.3.2017, S. 6)
 bezeichneten Straftaten.
 
 (3) Der Generalbundesanwalt ist verpflichtet, technische und
 organisatorische Maßnahmen zu treffen, um eine Trennung der Datei nach
 Absatz 1 Satz 1 von den sonstigen bei ihm geführten Dateien und
-Registern zu gewährleisten. § 9 des Bundesdatenschutzgesetzes bleibt
+Registern zu gewährleisten. § 64 des Bundesdatenschutzgesetzes bleibt
 unberührt.
 
 
@@ -99,17 +103,17 @@ berücksichtigen.
 Zusammenführung von Informationen gemäß Absatz 1 erfolgen, damit die
 Informationen an Eurojust nach Absatz 3 übermittelt werden.
 
-(3) Die Übermittlung von Informationen an Eurojust erfolgt nach § 4
-des Eurojust-Gesetzes.
+(3) Die Übermittlung von Informationen an Eurojust erfolgt nach
+Artikel 21 der Eurojust-Verordnung.
 
 
 ## § 5 Schutz personenbezogener Informationen
 
 (1) Auf die Verwendung der nach § 3 Abs. 1 übermittelten und der in
 der Datei nach § 2 Abs. 1 Satz 1 gespeicherten Informationen finden §
-485 Satz 1, § 487 Abs. 6, § 489 Abs. 1 und 2 Satz 1, 2 Nr. 3 sowie §
-491 Abs. 1 und 2 der Strafprozessordnung entsprechende Anwendung,
-soweit in dieser Verordnung nichts Abweichendes bestimmt ist.
+485 Satz 1, § 487 Absatz 6, § 489 Absatz 1 Nummer 3 sowie § 491 der
+Strafprozessordnung entsprechende Anwendung, soweit in dieser
+Verordnung nichts Abweichendes bestimmt ist.
 
 (2) Nach ihrer Übermittlung an Eurojust sind die nach § 2 Abs. 1 Satz
 1 gespeicherten Informationen in dieser Datei zu löschen, spätestens
@@ -121,35 +125,20 @@ Liste nach Artikel 1 Abs. 4 des Gemeinsamen Standpunkts 2001/931/GASP
 des Rates über die Anwendung besonderer Maßnahmen zur Bekämpfung des
 Terrorismus vom 27. Dezember 2001 (ABl. EG Nr. L 344 S. 93) gestrichen
 worden ist. Satz 3 gilt nicht, wenn sich die Informationen auf eine
-terroristische Vereinigung im Sinne von Artikel 2 des
-Rahmenbeschlusses 2002/475/JI beziehen.
-
-(3) Absatz 2 Satz 1 findet erst Anwendung, wenn das nationale
-Eurojust-Mitglied mitteilt, dass ein Verlust der übermittelten
-Informationen bei Eurojust nicht zu besorgen ist. Das nationale
-Eurojust-Mitglied ist in regelmäßigen Abständen vom
-Generalbundesanwalt zu ersuchen, ob eine Mitteilung nach Satz 1
-erfolgen kann. Bis zu einer Mitteilung nach Satz 1 sind die nach § 2
-Abs. 1 Satz 1 gespeicherten Informationen in dieser Datei nach ihrer
-Übermittlung an Eurojust zu sperren; bei einem Verlust der
-Informationen bei Eurojust darf eine erneute Übermittlung an Eurojust
-erfolgen.
+terroristische Vereinigung im Sinne von Artikel 2 Nummer 3 der
+Richtlinie (EU) 2017/541 beziehen.
 
 
 ## § 6 Aufsicht
 
 Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben
 unterliegt der Generalbundesanwalt der fachlichen Aufsicht des
-Bundesministeriums der Justiz.
+Bundesministeriums der Justiz und für Verbraucherschutz.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 
-Die Verordnung tritt am Tag nach der Verkündung in Kraft. § 5 Abs. 3
-tritt an dem Tag außer Kraft, an dem das nationale Eurojust-Mitglied
-mitteilt, dass keinerlei Verlust der übermittelten Informationen bei
-Eurojust zu besorgen ist. Das Bundesministerium der Justiz gibt den
-Tag des Außerkrafttretens des § 5 Abs. 3 im Bundesgesetzblatt bekannt.
+Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 ## Schlussformel

@@ -447,8 +447,8 @@ Sauerstoff zur Versorgung wie folgt ausreicht:
 
 
 2.  Versorgung aller Besatzungsmitglieder sowie der Fluggäste für die
-    gesamte Zeit in einer Kabinendruckhöhe von mehr als 4 000 Meter (13
-    000 Fuß).
+    gesamte Zeit in einer Kabinendruckhöhe von mehr als 4 000 Meter
+    (13 000 Fuß).
 
 
 
@@ -565,8 +565,8 @@ Tonaufzeichnungsanlage für das Cockpit
 
 #### § 17 (zu § 22 LuftBO)
 
-(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27
-000 Kilogramm, die seit dem 1. Januar 1987 erstmals zum Verkehr
+(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als
+27 000 Kilogramm, die seit dem 1. Januar 1987 erstmals zum Verkehr
 zugelassen worden sind, sind mit einer Tonaufzeichnungsanlage für das
 Cockpit auszurüsten.
 
@@ -586,8 +586,8 @@ Flugdatenschreiberanlage
 
 #### § 18 (zu § 22 LuftBO)
 
-(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als 27
-000 Kilogramm, die am oder nach dem 1. Januar 1989 erstmals zum
+(1) Flugzeuge mit einer höchstzulässigen Startmasse von mehr als
+27 000 Kilogramm, die am oder nach dem 1. Januar 1989 erstmals zum
 Verkehr zugelassen worden sind, sind mit einem Flugdatenschreiber des
 Typs I auszurüsten.
 
@@ -719,8 +719,8 @@ Tonaufzeichnungsanlage für das Cockpit
 
 #### § 26 (zu § 22 LuftBO)
 
-(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7
-000 Kilogramm, die am oder nach dem 1. Januar 1987 erstmals zum
+(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als
+7 000 Kilogramm, die am oder nach dem 1. Januar 1987 erstmals zum
 Verkehr zugelassen wurden, sind mit einer Tonaufzeichnungsanlage für
 das Cockpit auszurüsten.
 
@@ -739,13 +739,13 @@ Flugdatenschreiberanlage
 
 #### § 27 (zu § 22 LuftBO)
 
-(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 7
-000 Kilogramm, die nach dem 1. Januar 1989 erstmals zum Verkehr
+(1) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als
+7 000 Kilogramm, die nach dem 1. Januar 1989 erstmals zum Verkehr
 zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV
 ausgerüstet sein.
 
-(2) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als 3
-180 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr
+(2) Hubschrauber mit einer höchstzulässigen Startmasse von mehr als
+3 180 Kilogramm, die nach dem 1. Januar 2005 erstmals zum Verkehr
 zugelassen worden sind, müssen mit einem Flugdatenschreiber vom Typ IV
 A ausgerüstet sein.
 

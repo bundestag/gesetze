@@ -30,9 +30,9 @@ und Forschung:
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
-Der Ausbildungsberuf Mathematisch-technischer Softwareentwickler
-/Mathematisch-technische Softwareentwicklerin wird nach § 4 Abs. 1 des
-Berufsbildungsgesetzes staatlich anerkannt.
+Der Ausbildungsberuf Mathematisch-technischer
+Softwareentwickler/Mathematisch-technische Softwareentwicklerin wird
+nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung

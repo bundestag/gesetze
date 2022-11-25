@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 31.7.2009 I 2521
 
+Änderung durch
+:   Art. 25 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Anwendungsbereich und Begriffsbestimmungen
 

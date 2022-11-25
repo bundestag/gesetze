@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2005, 242
 
 Zuletzt geändert durch
-:   § 22 Abs. 3 G v. 26.2.2008 I 220
+:   Art. 4 Abs. 109 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -49,17 +52,13 @@ Diese Verordnung regelt
     Mitbenutzung von Rufzeichen,
 
 
-5.  den Ausbildungsfunkbetrieb,
+5.  den Ausbildungsfunkbetrieb und
 
 
 6.  die technischen und betrieblichen Rahmenbedingungen für die
     Durchführung des Amateurfunkdienstes einschließlich der
     Nutzungsbedingungen für die im Frequenznutzungsplan für den
-    Amateurfunkdienst ausgewiesenen Frequenzbereiche (Anlage 1) und
-
-
-7.  die Gebühren und Auslagen für Maßnahmen nach § 8 Satz 2 des
-    Amateurfunkgesetzes (Anlage 2).
+    Amateurfunkdienst ausgewiesenen Frequenzbereiche (Anlage 1).
 
 
 
@@ -137,6 +136,10 @@ Im Sinne dieser Verordnung ist
 
 
 
+## Anlage 2 (weggefallen)
+
+
+
 ## § 3 Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist gleichzeitig mit dem
@@ -148,7 +151,9 @@ Antragsverfahren werden von der Regulierungsbehörde festgelegt und in
 ihrem Amtsblatt veröffentlicht.
 
 (2) Die Zulassung zur Prüfung erfolgt, wenn zuvor die jeweilige Gebühr
-gemäß Anlage 2 Nr. 1 dieser Verordnung entrichtet wurde.
+gemäß der Besonderen Gebührenverordnung des Bundesministeriums für
+Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes
+entrichtet wurde.
 
 
 ## § 4 Prüfungsanforderungen und Prüfungsinhalte
@@ -187,10 +192,11 @@ und in ihrem Amtsblatt veröffentlicht.
 
 (5) In einer freiwilligen Zusatzprüfung können Fertigkeiten im Hören
 und Geben von Morsezeichen nachgewiesen werden. Die Prüfung ist
-gebührenpflichtig nach Anlage 2 Nr. 1c. Die Regulierungsbehörde
-bescheinigt den erfolgreichen Nachweis von praktischen Fertigkeiten im
-Hören und Geben von Morsezeichen. Die Bestimmungen der §§ 5 und 6
-gelten entsprechend.
+gebührenpflichtig nach der Besonderen Gebührenverordnung des
+Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des
+Bundesgebührengesetzes. Die Regulierungsbehörde bescheinigt den
+erfolgreichen Nachweis von praktischen Fertigkeiten im Hören und Geben
+von Morsezeichen. Die Bestimmungen der §§ 5 und 6 gelten entsprechend.
 
 
 ## § 5 Durchführung der Prüfung
@@ -577,11 +583,8 @@ anordnen.
 Verträglichkeit von Betriebsmitteln bleiben unberührt.
 
 
-## § 18 Gebühren und Auslagen
+## § 18 (weggefallen)
 
-Für Amtshandlungen nach dem Amateurfunkgesetz und dieser Verordnung
-werden Gebühren nach Anlage 2 dieser Verordnung und Auslagen nach § 10
-des Verwaltungskostengesetzes erhoben.
 
 
 ## § 19 Übergangsregelungen
@@ -1482,233 +1485,6 @@ Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.
     durch den Amateurfunkdienst genutzt werden. Die Nutzungsbedingungen
     werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsblatt
     veröffentlicht.
-
-
-
-
-(zu § 1 Nr. 7 und § 18)
-
-## Anlage 2 Gebührenverzeichnis
-
-(Fundstelle: BGBl. I 2005, 250)
-
-Die Regulierungsbehörde erhebt für Amtshandlungen nach § 18 dieser
-Verordnung folgende Gebühren:
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *
-
-*    *   Lfd. Nr.
-
-    *   Gebührentatbestand
-
-    *   Gebühr in Euro
-        (ab jeweils 1.1.)
-
-
-*    *   2005
-
-    *   2006
-
-    *   2008
-
-
-*    *   1
-
-    *
-        a)  Erteilung eines Amateurfunkzeugnisses nach bestandener (Erst-) Prüfung
-            für die
-
-
-
-
-    *   Klasse A
-
-    *   90\*)
-
-    *   100\*)
-
-    *   110\*)
-
-
-*    *   Klasse E
-
-    *   60\*)
-
-    *   70\*)
-
-    *   80\*)
-
-
-*    *
-        b)  Erteilung eines Amateurfunkzeugnisses nach bestandener
-            Wiederholungsprüfung für die
-
-
-
-
-    *   Klasse A
-
-    *   60\*)
-
-    *   70\*)
-
-    *   80\*)
-
-
-*    *   Klasse E
-
-    *   40\*)
-
-    *   50\*)
-
-    *   60\*)
-
-
-*    *
-        c)  Erteilung einer Bescheinigung oder eines Amateurfunkzeugnisses nach
-            bestandener Zusatzprüfung gemäß § 4 Abs. 3 oder Abs. 5
-
-
-
-
-    *   60\*)
-
-    *   70\*)
-
-    *   80\*)
-
-
-*    *   2
-
-    *   Ausstellen einer harmonisierten Prüfungsbescheinigung oder einer
-        Zeugniszweitschrift
-
-    *   40
-
-    *   55
-
-    *   70
-
-
-*    *   3
-
-    *
-        a)  Zulassung zur Teilnahme am Amateurfunkdienst und Zuteilung eines
-            personengebundenen Rufzeichens
-
-
-
-
-    *   40
-
-    *   55
-
-    *   70
-
-
-*    *
-        b)  Zuteilung eines weiteren Rufzeichens nach § 16 Abs. 2
-
-
-
-
-    *   40
-
-    *   55
-
-    *   70
-
-
-*    *
-        c)  Zuteilung eines Ausbildungsrufzeichens nach § 12 Abs. 1
-
-
-
-
-    *   70
-
-    *   70
-
-    *   70
-
-
-*    *
-        d)  Zuteilung eines Rufzeichens für eine Klubstation nach § 14 Abs. 1
-
-
-
-
-    *   60
-
-    *   85
-
-    *   110
-
-
-*    *
-        e)  Zuteilung eines Rufzeichens für eine fernbediente oder automatisch
-            arbeitende Amateurfunkstelle (beispielsweise Relaisfunkstelle oder
-            Funkbake) nach § 13 Abs. 1
-
-
-
-
-    *   80
-
-    *   150
-
-    *   200
-
-
-*    *   4
-
-    *   Anordnung der Einschränkung des Betriebes oder der Außerbetriebnahme
-        einer Amateurfunkstelle auf Grund von Verstößen gegen Bestimmungen des
-        Amateurfunkgesetzes oder der Amateurfunkverordnung
-
-    *   160
-
-    *   160
-
-    *   160
-
-
-*    *   5
-
-    *   Prüfen und Anerkennen von Genehmigungen anderer Verwaltungen und nicht
-        CEPT-konformer Prüfungsbescheinigungen
-
-    *   70
-
-    *   100
-
-    *   130
-
-
-*    *   6
-
-    *   Zurücknahme eines Antrags nach dem Beginn der sachlichen Bearbeitung
-        und vor Beendigung der Amtshandlung; Ablehnung von Anträgen auf die in
-        den Nummern 1 bis 3 und 5 genannten Amtshandlungen; Widerruf oder
-        Rücknahme einer Amtshandlung, soweit der Betroffene dazu Anlass
-        gegeben hat.
-
-    *   Die Gebühr ermäßigt sich um ein Viertel der für den Verwaltungsakt
-        vorgesehenen Gebühr.
-
-
-*    *
-        \*) Maßgeblich für die Gebühr ist der Prüfungstermin.
-
-
-
 
 
 

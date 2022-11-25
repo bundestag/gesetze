@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1490
 
+Zuletzt geändert durch
+:   Art. 55 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -213,7 +216,7 @@ Handlungsbereiche nach Absatz 3 beziehen. Die Dauer der Präsentation
 soll dabei zehn Minuten nicht überschreiten. Die Präsentation geht mit
 einem Drittel in die Bewertung der mündlichen Prüfung ein.
 
-(7) Das Thema der Präsentation wird vom Prüfungsteilnehmer selbst
+(7) Das Thema der Präsentation wird von der zu prüfenden Person selbst
 formuliert und zusammen mit einer Kurzbeschreibung dem
 Prüfungsausschuss bei der ersten schriftlichen Prüfungsleistung der
 „Handlungsspezifischen Qualifikationen“ eingereicht.
@@ -528,37 +531,159 @@ Ergebnis der schriftlichen Prüfungsleistung ist aus den beiden
 schriftlichen Teilergebnissen gleichgewichtig zu bilden.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in allen schriftlich geprüften
-Qualifikations- und Handlungsbereichen sowie in der mündlichen Prüfung
-nach § 3 Absatz 5 und 6 mindestens ausreichende Leistungen erbracht
-wurden.
-
-(2) Die schriftlich geprüften Qualifikations- und Handlungsbereiche
-sowie die mündliche Prüfung nach § 3 Absatz 5 und 6 sind jeweils
-gesondert zu bewerten.
-
-(3) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. Im Falle der Freistellung nach § 6 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder §
+8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewertung der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ ist die
+Prüfungsleistung für jeden Qualifikationsbereich einzeln zu bewerten.
+Aus den einzelnen Bewertungen ist als Bewertung für den jeweiligen
+Prüfungsteil das arithmetische Mittel zu berechnen.
+
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die schriftliche Situationsaufgabe nach § 5 Absatz 6 Satz 1,
+
+
+2.  nach Maßgabe der Sätze 2 und 3
+
+    a)  das situationsbezogene Fachgespräch nach § 3 Absatz 5 Satz 1 und
+
+
+    b)  die Präsentation nach § 3 Absatz 5 Satz 1.
+
+
+
+
+
+
+Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs
+und der Präsentation wird als zusammengefasste Bewertung das
+gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen
+wie folgt zu gewichten:
+
+1.  die Bewertung des situationsbezogenen Fachgesprächs mit zwei Dritteln
+    und
+
+
+2.  die Bewertung der Präsentation mit einem Drittel.
+
+
+
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Qualifikationsbereich des Prüfungsteils „Wirtschaftsbezogene
+    Qualifikationen“,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in der schriftlichen Situationsaufgabe und
+
+
+    b)  in der zusammengefassten Bewertung für das situationsbezogene
+        Fachgespräch und der Präsentation.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  die Bewertungen für den Prüfungsteil „Wirtschaftsbezogene
+    Qualifikationen“ sowie
+
+
+2.  die zusammengefasste Bewertung für das situationsbezogene Fachgespräch
+    und der Präsentation.
+
+
+
+
+(3) Den Bewertungen für den Prüfungsteil „Wirtschaftsbezogene
+Qualifikationen“, der Bewertung für die schriftliche Situationsaufgabe
+sowie der zusammengefassten Bewertung für das situationsbezogene
+Fachgespräch und der Präsentation ist nach Anlage 1 die jeweilige Note
+als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung für den Prüfungsteil „Wirtschaftsbezogene
+    Qualifikationen“ mit 25 Prozent,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  die Bewertung der schriftlichen Situationsaufgabe mit 50 Prozent und
+
+
+    b)  die zusammengefasste Bewertung für das situationsbezogene Fachgespräch
+        und der Präsentation mit 25 Prozent.
+
+
+
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen
 Prüfungsverfahrens wiederholt werden.
 
@@ -572,35 +697,32 @@ Werden bestandene Prüfungsleistungen erneut geprüft, gilt in diesem
 Fall das Ergebnis der letzten Prüfung.
 
 
-## § 9 Ausbildereignung
+## § 11 Ausbildereignung
 
-(1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann nach
-erfolgreichem Abschluss des Prüfungsteils „Handlungsspezifische
-Qualifikationen“ beantragen, eine zusätzliche Prüfung zum Nachweis der
-berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese
-besteht aus der Präsentation einer Ausbildungssituation und einem
-Fachgespräch mit einer Dauer von höchstens 30 Minuten. Der Teilnehmer
-oder die Teilnehmerin wählt hierfür eine berufstypische
-Ausbildungssituation aus. Die Präsentation soll 15 Minuten nicht
-übersteigen. Die Auswahl und Gestaltung der Ausbildungssituation sind
-in dem Fachgespräch zu erläutern. Anstelle der Präsentation kann eine
-Ausbildungssituation auch praktisch durchgeführt werden. Die
-zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende
-Leistungen erbracht wurden.
+(1) Die zu prüfende Person kann nach erfolgreichem Abschluss des
+Prüfungsteils „Handlungsspezifische Qualifikationen“ beantragen, eine
+zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen
+Qualifikationen abzulegen. Diese besteht aus der Präsentation einer
+Ausbildungssituation und einem Fachgespräch mit einer Dauer von
+höchstens 30 Minuten. Die zu prüfende Person wählt hierfür eine
+berufstypische Ausbildungssituation aus. Die Präsentation soll 15
+Minuten nicht übersteigen. Die Auswahl und Gestaltung der
+Ausbildungssituation sind in dem Fachgespräch zu erläutern. Anstelle
+der Präsentation kann eine Ausbildungssituation auch praktisch
+durchgeführt werden. Die zusätzliche Prüfung ist bestanden, wenn
+mindestens ausreichende Leistungen erbracht wurden.
 
 (2) Wer den Prüfungsteil „Handlungsspezifische Qualifikationen“
 bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem
 Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 Wer auch die zusätzliche Prüfung nach Absatz 1 bestanden hat, hat die
 berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und
-Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Dem
-Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist ein Zeugnis
-auszustellen, aus dem hervorgeht, dass die berufs- und
-arbeitspädagogische Qualifikation nach § 30 Absatz 5 des
-Berufsbildungsgesetzes nachgewiesen wurde.
+Fähigkeiten nach dem Berufsbildungsgesetz nachgewiesen. Im Falle des
+Satzes 2 ist der zu prüfenden Person das Zeugnis nach § 5 der
+Ausbilder-Eignungsverordnung auszustellen.
 
 
-## § 10 Übergangsvorschriften
+## § 12 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Sportfachwirt und zur
 Sportfachwirtin (IHK) können bis zum 31. Dezember 2014 nach den
@@ -614,221 +736,389 @@ Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
 
-## § 11 Inkrafttreten
+## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
-(zu § 7 Absatz 3)
+(zu den §§ 7 und 8)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2010, 1495)
-
-## ...................................................................
-.....
-
-## (Bezeichnung der zuständigen Stelle)
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Sportfachwirt
-## Geprüfte Sportfachwirtin
+(Fundstelle: BGBl. I 2019, 2347 – 2348)
 
 
-*    *   Herr/Frau
-        .....................................................................
-        .........................
+*    *   Punkte
 
-
-*    *   geboren am ...........................................................
-        ................. ..................
-
-    *   in ...................................................................
-        ......... ..................
-
-
-*    *   hat am ...............................................................
-        ............. ..................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Sportfachwirt
-## Geprüfte Sportfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte
-Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490)
-
-bestanden.
-
-
-*    *   Datum ................................................................
-        ......... .....................
-
-
-*    *   Unterschrift(en)
-        ..............................................................
-        ..................
-
-
-*    *
-
-*    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-(zu § 7 Absatz 3)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. I 2010, 1495)
-
-## ...................................................................
-......
-
-## (Bezeichnung der zuständigen Stelle)
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Sportfachwirt
-## Geprüfte Sportfachwirtin
-
-
-*    *   Herr/Frau
-        ..................................................................... 
-        ......................................................................
-        ........ . ...........
-
-
-*    *   geboren am  ..........................................................
-        ................. ......................
-
-    *   in  ..................................................................
-        ......... ......................
-
-
-*    *   hat am  ..............................................................
-        ............. ......................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Sportfachwirt
-## Geprüfte Sportfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte
-Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490) mit folgenden
-Ergebnissen bestanden:
-
-
-*    *
-    *
-    *[^f774677_01_BJNR149000010BJNE001400000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Wirtschaftsbezogene Qualifikationen
+    *   1,0
 
-    *   ..................
+    *   sehr gut
 
-    *
-    *   ..................
-
-
-*    *
-    *   1. Volks- und Betriebswirtschaft
-
-    *   ..................
-
-    *
-    *
-
-*    *
-    *   2. Rechnungswesen
-
-    *   ..................
-
-    *
-    *
-
-*    *
-    *   3. Recht und Steuern
-
-    *   ..................
-
-    *
-    *
-
-*    *
-    *   4. Unternehmensführung
-
-    *   ..................
-
-    *
-    *
-
-*    *   II.
-
-    *   Handlungsfeldspezifische Qualifikationen
-
-    *
-    *
-    *
-
-*    *
-    *   1. Schriftliche betriebliche Situationsaufgabe
-
-    *   ..................
-
-    *
-    *   ..................
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *
-    *   2. Präsentation und situationsbezogenes Fachgespräch
+*    *   98 und 99
 
-    *   ..................
-
-    *
-    *   ..................
+    *   1,1
 
 
+*    *   96 und 97
 
-(Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die
-Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
-..................
-in .................. vor .................. abgelegte Prüfung von der
-Prüfung ..................
-freigestellt. “)
+    *   1,2
 
 
-*    *   Datum ..............................................................
+*    *   94 und 95
+
+    *   1,3
 
 
-*    *   Unterschrift(en) .................................................
+*    *   92 und 93
+
+    *   1,4
 
 
-*    *
+*    *   91
 
-*    *
+    *   1,5
 
-*    *   (Siegel der zuständigen Stelle)
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ..................
-[^f774677_01_BJNR149000010BJNE001400000]: 
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2348 – 2349)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Punkten und Note
+        sowie
+
+
+    b)  Benennung und Bewertung der vier Qualifikationsbereiche mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung des Prüfungsteils,
+
+
+    b)  Benennung der schriftlichen Situationsaufgabe mit Punkten und Note
+        sowie
+
+
+    c)  Benennung des situationsbezogenen Fachgesprächs mit Präsentation mit
+        Punkten und Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach
+    der Ausbilder-Eignungsverordnung nach § 11 Absatz 2 Satz 1.
+
+
+
+

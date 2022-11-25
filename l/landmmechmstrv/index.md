@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
-  in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk
+  in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
 jurabk: LandmMechMstrV
 layout: default
 origslug: landmmechmstrv
@@ -8,7 +8,7 @@ slug: landmmechmstrv
 
 ---
 
-# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk (LandmMechMstrV)
+# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk (LandmMechMstrV)
 
 Ausfertigungsdatum
 :   2001-04-05
@@ -18,6 +18,12 @@ Fundstelle
 
 Geändert durch
 :   Art. 4 V v. 17.11.2011 I 2234
+
+Änderung durch
+:   Art. 1 V v. 23.11.2021 I 4952 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 Abs. 33 V v. 18.1.2022 I 39 ist berücksichtigt
 
 
 
@@ -34,8 +40,8 @@ und Forschung:
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
 
-Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst
-folgende selbständige Prüfungsteile:
+Die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
+umfasst folgende selbständige Prüfungsteile:
 
 1.  die Prüfung der meisterhaften Verrichtung der gebräuchlichen Arbeiten
     (Teil I),
@@ -57,17 +63,17 @@ folgende selbständige Prüfungsteile:
 
 ## § 2 Meisterprüfungsberufsbild
 
-(1) Durch die Meisterprüfung im Landmaschinenmechaniker-Handwerk wird
-festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb
-selbständig zu führen, Leitungsaufgaben in den Bereichen Technik,
-Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die
-Ausbildung durchzuführen und seine berufliche Handlungskompetenz
-selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen
-anzupassen.
+(1) Durch die Meisterprüfung im Land- und Baumaschinenmechatroniker-
+Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen
+Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den
+Bereichen Technik, Betriebswirtschaft, Personalführung und
+-entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine
+berufliche Handlungskompetenz selbständig umzusetzen und an neue
+Bedarfslagen in diesen Bereichen anzupassen.
 
-(2) Dem Landmaschinenmechaniker-Handwerk werden zum Zwecke der
-Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten als
-ganzheitliche Qualifikationen zugerechnet:
+(2) Dem Land- und Baumaschinenmechatroniker-Handwerk werden zum Zwecke
+der Meisterprüfung folgende Tätigkeiten, Kenntnisse und Fertigkeiten
+als ganzheitliche Qualifikationen zugerechnet:
 
 1.  Kundenwünsche ermitteln, Kunden beraten, Auftragsverhandlungen führen
     und Auftragsziele festlegen, Leistungen kalkulieren und Angebote
@@ -165,10 +171,10 @@ sein darf.
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das
 einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass
-er einen Kundenauftrag im Landmaschinenmechaniker-Handwerk planen,
-durchführen und abschließen kann. Der Prüfling wählt, ob er die
-Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine oder
-einem Motorgerät durchführen will. Die konkrete Aufgabenstellung
+er einen Kundenauftrag im Land- und Baumaschinenmechatroniker-Handwerk
+planen, durchführen und abschließen kann. Der Prüfling wählt, ob er
+die Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine
+oder einem Motorgerät durchführen will. Die konkrete Aufgabenstellung
 erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des
 Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des
 Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich
@@ -213,7 +219,8 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 ## § 6 Situationsaufgabe
 
 (1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis
-für die Meisterprüfung im Landmaschinenmechaniker-Handwerk.
+für die Meisterprüfung im Land- und Baumaschinenmechatroniker-
+Handwerk.
 
 (2) Als Situationsaufgabe ist die nachstehend aufgeführte Aufgabe
 auszuführen:
@@ -259,8 +266,8 @@ bearbeiten, die fallorientiert sein muss.
 
     Der Prüfling soll nachweisen, dass er in der Lage ist,
     maschinentechnische Aufgaben und Probleme unter Beachtung
-    wirtschaftlicher und ökologischer Aspekte in einem
-    Landmaschinenmechanikerbetrieb zu bearbeiten. Er soll
+    wirtschaftlicher und ökologischer Aspekte in einem Land- und
+    Baumaschinenmechatronikerbetrieb zu bearbeiten. Er soll
     maschinentechnische Sachverhalte beurteilen und beschreiben. Bei der
     Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten
     Qualifikationen verknüpft werden:
@@ -326,8 +333,8 @@ bearbeiten, die fallorientiert sein muss.
 
     Der Prüfling soll nachweisen, das er in der Lage ist, bei der
     Auftragsabwicklung die ablauftechnischen Maßnahmen, die für den
-    technischen und wirtschaftlichen Erfolg in einem
-    Landmaschinenmechanikerbetrieb notwendig sind, kundenorientiert
+    technischen und wirtschaftlichen Erfolg in einem Land- und
+    Baumaschinenmechatronikerbetrieb notwendig sind, kundenorientiert
     einzuleiten und abzuschließen. Bei der Aufgabenstellung sollen jeweils
     mehrere der nachfolgend aufgeführten Qualifikationen verknüpft werden:
 
@@ -363,10 +370,10 @@ bearbeiten, die fallorientiert sein muss.
 4.  Betriebsführung und Betriebsorganisation:
 
     Der Prüfling soll nachweisen, dass er in der Lage ist, Aufgaben der
-    Betriebsführung und Betriebsorganisation in einem
-    Landmaschinenmechanikerbetrieb wahrzunehmen. Bei der Aufgabenstellung
-    sollen jeweils mehrere der nachfolgend aufgeführten Qualifikationen
-    verknüpft werden:
+    Betriebsführung und Betriebsorganisation in einem Land- und
+    Baumaschinenmechatronikerbetrieb wahrzunehmen. Bei der
+    Aufgabenstellung sollen jeweils mehrere der nachfolgend aufgeführten
+    Qualifikationen verknüpft werden:
 
     a)  betriebliche Kosten ermitteln, dabei betriebswirtschaftliche
         Zusammenhänge berücksichtigen,
@@ -429,9 +436,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober

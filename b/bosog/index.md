@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 2182, 2215
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2010 I 2255
+:   Art. 186 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Sonderung von Grundstücken und dinglichen Nutzungsrechten
@@ -325,10 +325,10 @@ ist, nach Maßgabe des Artikels 233 § 2 Abs. 3 des Einführungsgesetzes
 zum Bürgerlichen Gesetzbuche ein Vertreter zu bestellen, soweit dies
 nicht schon nach anderen Vorschriften geschehen ist.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die Gestaltung des
-Sonderungsplans, auch durch Bestimmung von Mustern, unter
-Berücksichtigung der für die Führung des Liegenschaftskatasters
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Gestaltung des Sonderungsplans, auch durch Bestimmung von Mustern,
+unter Berücksichtigung der für die Führung des Liegenschaftskatasters
 bestehenden Vorschriften festzulegen.
 
 
@@ -550,12 +550,13 @@ ihren Sitz hat. Der Antrag kann erst nach vorausgegangenem
 Verwaltungsvorverfahren nach dem 8. Abschnitt der
 Verwaltungsgerichtsordnung gestellt werden, für das die Stelle
 zuständig ist, die nach dem Landesrecht die allgemeine Aufsicht über
-die Sonderungsbehörde führt. Das Bundesministerium der Justiz wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-näheren Einzelheiten zu regeln und hierbei auch von den Bestimmungen
-der Verwaltungsgerichtsordnung abzuweichen, soweit dies für Verfahren
-nach diesem Gesetz erforderlich ist, sowie die Zuständigkeit für das
-Verwaltungsvorverfahren anders zu bestimmen.
+die Sonderungsbehörde führt. Das Bundesministerium der Justiz und für
+Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die näheren Einzelheiten zu regeln und
+hierbei auch von den Bestimmungen der Verwaltungsgerichtsordnung
+abzuweichen, soweit dies für Verfahren nach diesem Gesetz erforderlich
+ist, sowie die Zuständigkeit für das Verwaltungsvorverfahren anders zu
+bestimmen.
 
 (2) Der Antrag muß innerhalb eines Monats nach Zustellung der in dem
 Verwaltungsvorverfahren ergangenen Entscheidung schriftlich bei dem
@@ -588,8 +589,8 @@ auf. Es soll den Bescheid entsprechend ändern oder spricht die
 Verpflichtung aus, den Antragsteller unter Beachtung der
 Rechtsauffassung des Gerichts zu bescheiden.
 
-(5) Auf das Verfahren sind die Vorschriften des § 217 Abs. 4, des des
-§ 218 Abs. 1, des § 221 Abs. 2 und 3, des § 222 Abs. 1 und 2 sowie der
+(5) Auf das Verfahren sind die Vorschriften des § 217 Abs. 4, des §
+218 Abs. 1, des § 221 Abs. 2 und 3, des § 222 Abs. 1 und 2 sowie der
 §§ 227 und 228 des Baugesetzbuchs sinngemäß anzuwenden. Im übrigen
 gelten die bei Klagen in bürgerlichen Rechtsstreitigkeiten
 anzuwendenden Vorschriften entsprechend. § 78 der Zivilprozeßordnung
@@ -667,7 +668,8 @@ werden, auf welchen Grundstücken sich Gebäudeeigentum nach Artikel 233
 
 ### § 23 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die grundbuchmäßige
-Behandlung von Anteilen an ungetrennten Hofräumen zu regeln.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen zu
+regeln.
 

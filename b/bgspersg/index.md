@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 1357
 
-Geändert durch
-:   Art. 15 Abs. 9 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 25 V v. 19.6.2020 I 1328
 
 
 
@@ -667,7 +667,8 @@ Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 
     *   a)
 
-    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern -
+    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern, für
+        Bau und Heimat -
 
     *   -
 
@@ -689,7 +690,8 @@ Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 
     *   B 3
 
-    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern -
+    *   Direktor im Bundesgrenzschutz - im Bundesministerium des Innern, für
+        Bau und Heimat -
 
     *   -
 

@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 27.8.2002 I 3422, 4346;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.2.2012 I 146
+:   Art. 2 G v. 26.11.2020 I 2568
+
+Änderung durch
+:   Art. 4 G v. 31.5.2021 I 1204 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 20 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 25.6.2021 I 2123 (Nr. 37) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
@@ -35,46 +44,65 @@ Unterlassung und im Fall des Empfehlens auch auf Widerruf in Anspruch
 genommen werden.
 
 
-### § 2 Unterlassungsanspruch bei verbraucherschutzgesetzwidrigen Praktiken
+### § 1a Unterlassungsanspruch wegen der Beschränkung der Haftung bei Zahlungsverzug
+
+Wer in anderer Weise als durch Verwendung oder Empfehlung von
+Allgemeinen Geschäftsbedingungen den Vorschriften des § 271a Absatz 1
+bis 3, des § 286 Absatz 5 oder des § 288 Absatz 6 des Bürgerlichen
+Gesetzbuchs zuwiderhandelt, kann auf Unterlassung in Anspruch genommen
+werden.
+
+
+### § 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von
 Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem
 Schutz der Verbraucher dienen (Verbraucherschutzgesetze), kann im
-Interesse des Verbraucherschutzes auf Unterlassung in Anspruch
-genommen werden. Werden die Zuwiderhandlungen in einem geschäftlichen
-Betrieb von einem Angestellten oder einem Beauftragten begangen, so
-ist der Unterlassungsanspruch auch gegen den Inhaber des Betriebs
-begründet.
+Interesse des Verbraucherschutzes auf Unterlassung und Beseitigung in
+Anspruch genommen werden. Werden die Zuwiderhandlungen in einem
+Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so ist
+der Unterlassungsanspruch oder der Beseitigungsanspruch auch gegen den
+Inhaber des Unternehmens begründet. Bei Zuwiderhandlungen gegen die in
+Absatz 2 Satz 1 Nummer 11 genannten Vorschriften richtet sich der
+Beseitigungsanspruch nach den entsprechenden datenschutzrechtlichen
+Vorschriften.
 
 (2) Verbraucherschutzgesetze im Sinne dieser Vorschrift sind
 insbesondere
 
 1.  die Vorschriften des Bürgerlichen Rechts, die für
 
-    a)  Haustürgeschäfte,
+    a)  außerhalb von Geschäftsräumen geschlossene Verträge,
 
 
     b)  Fernabsatzverträge,
 
 
-    c)  Verbrauchsgüterkäufe,
+    c)  Verbraucherverträge über digitale Produkte,
 
 
-    d)  Teilzeit-Wohnrechteverträge, Verträge über langfristige
+    d)  Verbrauchsgüterkäufe,
+
+
+    e)  Teilzeit-Wohnrechteverträge, Verträge über langfristige
         Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge,
 
 
-    e)  Verbraucherdarlehensverträge, Finanzierungshilfen und
+    f)  Verbraucherdarlehensverträge, Finanzierungshilfen und
         Ratenlieferungsverträge,
 
 
-    f)  Reiseverträge,
+    g)  Bauverträge,
 
 
-    g)  Darlehensvermittlungsverträge sowie
+    h)  Pauschalreiseverträge, die Reisevermittlung und die Vermittlung
+        verbundener Reiseleistungen,
 
 
-    h)  Zahlungsdiensteverträge
+    i)  Darlehensvermittlungsverträge sowie
+
+
+    j)  Zahlungsdiensteverträge
 
 
 
@@ -92,15 +120,11 @@ insbesondere
 3.  das Fernunterrichtsschutzgesetz,
 
 
-4.  die Vorschriften des Bundes- und Landesrechts zur Umsetzung der
-    Artikel 10 bis 21 der Richtlinie 89/552/EWG des Rates vom 3. Oktober
-    1989 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften
-    der Mitgliedstaaten über die Ausübung der Fernsehtätigkeit (ABl. EG
-    Nr. L 298 S. 23), geändert durch die Richtlinie 97/36/EG des
-    Europäischen Parlaments und des Rates vom 30. Juni 1997 zur Änderung
-    der Richtlinie 89/552/EWG des Rates zur Koordinierung bestimmter
-    Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die
-    Ausübung der Fernsehtätigkeit (ABl. EG Nr. L 202 S. 60),
+4.  die Vorschriften zur Umsetzung der Artikel 19 bis 26 der Richtlinie
+    2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010
+    zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der
+    Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste
+    (ABl. L 95 vom 15.4.2010, S. 1),
 
 
 5.  die entsprechenden Vorschriften des Arzneimittelgesetzes sowie Artikel
@@ -108,10 +132,10 @@ insbesondere
     Heilwesens,
 
 
-6.  § 126 des Investmentgesetzes,
+6.  § 126 des Investmentgesetzes oder § 305 des Kapitalanlagegesetzbuchs,
 
 
-7.  die Vorschriften des Abschnitts 6 des Wertpapierhandelsgesetzes, die
+7.  die Vorschriften des Abschnitts 11 des Wertpapierhandelsgesetzes, die
     das Verhältnis zwischen einem Wertpapierdienstleistungsunternehmen und
     einem Kunden regeln,
 
@@ -119,161 +143,365 @@ insbesondere
 8.  das Rechtsdienstleistungsgesetz,
 
 
-9.  § 37 Abs. 1 und 2, § 53 Abs. 2 und 3, §§ 54, 55 Abs. 2 und 3 sowie §
-    56 des Erneuerbare-Energien-Gesetzes,
+9.  die §§ 59 und 60 Absatz 1, die §§ 78, 79 Absatz 2 und 3 sowie § 80 des
+    Erneuerbare-Energien-Gesetzes,
 
 
-10. das Wohn- und Betreuungsvertragsgesetz.
+10. das Wohn- und Betreuungsvertragsgesetz,
+
+
+11. die Vorschriften, welche die Zulässigkeit regeln
+
+    a)  der Erhebung personenbezogener Daten eines Verbrauchers durch einen
+        Unternehmer oder
+
+
+    b)  der Verarbeitung oder der Nutzung personenbezogener Daten, die über
+        einen Verbraucher erhoben wurden, durch einen Unternehmer,
 
 
 
 
-(3) Der Anspruch auf Unterlassung kann nicht geltend gemacht werden,
-wenn die Geltendmachung unter Berücksichtigung der gesamten Umstände
-missbräuchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen
-den Zuwiderhandelnden einen Anspruch auf Ersatz von Aufwendungen oder
-Kosten der Rechtsverfolgung entstehen zu lassen.
+    wenn die Daten zu Zwecken der Werbung, der Markt- und
+    Meinungsforschung, des Betreibens einer Auskunftei, des Erstellens von
+    Persönlichkeits- und Nutzungsprofilen, des Adresshandels, des
+    sonstigen Datenhandels oder zu vergleichbaren kommerziellen Zwecken
+    erhoben, verarbeitet oder genutzt werden,
+
+
+12. § 2 Absatz 2 sowie die §§ 36 und 37 des
+    Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
+    254) und Artikel 14 Absatz 1 und 2 der Verordnung (EU) Nr. 524/2013
+    des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die
+    Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur
+    Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
+    2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1),
+
+
+13. die Vorschriften des Zahlungskontengesetzes, die das Verhältnis
+    zwischen einem Zahlungsdienstleister und einem Verbraucher regeln, und
+
+
+14. die Vorschriften des Telekommunikationsgesetzes, die das Verhältnis
+    zwischen Anbietern von öffentlich zugänglichen
+    Telekommunikationsdiensten und Verbrauchern regeln.
+
+
+
+Eine Datenerhebung, Datenverarbeitung oder Datennutzung zu einem
+vergleichbaren kommerziellen Zweck im Sinne des Satzes 1 Nummer 11
+liegt insbesondere nicht vor, wenn personenbezogene Daten eines
+Verbrauchers von einem Unternehmer ausschließlich für die Begründung,
+Durchführung oder Beendigung eines rechtsgeschäftlichen oder
+rechtsgeschäftsähnlichen Schuldverhältnisses mit dem Verbraucher
+erhoben, verarbeitet oder genutzt werden.
+
+(3) (weggefallen)
 
 
 ### § 2a Unterlassungsanspruch nach dem Urheberrechtsgesetz
 
-(1) Wer gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstößt, kann
-auf Unterlassung in Anspruch genommen werden.
+Wer gegen § 95b Absatz 1 Satz 1 des Urheberrechtsgesetzes verstößt,
+kann auf Unterlassung in Anspruch genommen werden.
 
-(2) Absatz 1 gilt nicht, soweit Werke und sonstige Schutzgegenstände
-der Öffentlichkeit auf Grund einer vertraglichen Vereinbarung in einer
-Weise zugänglich gemacht werden, dass sie Mitgliedern der
-Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind.
 
-(3) § 2 Abs. 3 gilt entsprechend.
+### § 2b Missbräuchliche Geltendmachung von Ansprüchen
+
+Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2a ist
+unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände
+missbräuchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen
+den Anspruchsgegner einen Anspruch auf Ersatz von Aufwendungen oder
+Kosten der Rechtsverfolgung entstehen zu lassen. Eine missbräuchliche
+Geltendmachung ist im Zweifel anzunehmen, wenn
+
+1.  die Vereinbarung einer offensichtlich überhöhten Vertragsstrafe
+    verlangt wird,
+
+
+2.  die vorgeschlagene Unterlassungsverpflichtung offensichtlich über die
+    abgemahnte Rechtsverletzung hinausgeht,
+
+
+3.  mehrere Zuwiderhandlungen, die zusammen hätten abgemahnt werden
+    können, einzeln abgemahnt werden oder
+
+
+4.  wegen einer Zuwiderhandlung, für die mehrere Zuwiderhandelnde
+    verantwortlich sind, die Ansprüche gegen die Zuwiderhandelnden ohne
+    sachlichen Grund nicht zusammen geltend gemacht werden.
+
+
+
+In diesen Fällen kann der Anspruchsgegner Ersatz der für seine
+Rechtsverteidigung erforderlichen Aufwendungen verlangen.
+Weitergehende Ersatzansprüche bleiben unberührt.
 
 
 ### § 3 Anspruchsberechtigte Stellen
 
-(1) Die in den §§ 1 und 2 bezeichneten Ansprüche auf Unterlassung und
-auf Widerruf stehen zu:
+(1) Die in den §§ 1 bis 2 bezeichneten Ansprüche auf Unterlassung, auf
+Widerruf und auf Beseitigung stehen zu:
 
-1.  qualifizierten Einrichtungen, die nachweisen, dass sie in die Liste
-    qualifizierter Einrichtungen nach § 4 oder in dem Verzeichnis der
-    Kommission der Europäischen Gemeinschaften nach Artikel 4 der
-    Richtlinie 98/27/EG des Europäischen Parlaments und des Rates vom 19.
-    Mai 1998 über Unterlassungsklagen zum Schutz der Verbraucherinteressen
-    (ABl. EG Nr. L 166 S. 51) in der jeweils geltenden Fassung eingetragen
-    sind,
+1.  den qualifizierten Einrichtungen, die in der Liste nach § 4
+    eingetragen sind, oder den qualifizierten Einrichtungen aus anderen
+    Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der
+    Europäischen Kommission nach Artikel 4 Absatz 3 der Richtlinie
+    2009/22/EG eingetragen sind,
 
 
-2.  rechtsfähigen Verbänden zur Förderung gewerblicher oder selbständiger
-    beruflicher Interessen, soweit sie insbesondere nach ihrer
-    personellen, sachlichen und finanziellen Ausstattung imstande sind,
-    ihre satzungsgemäßen Aufgaben der Verfolgung gewerblicher oder
-    selbständiger beruflicher Interessen tatsächlich wahrzunehmen, und,
-    bei Klagen nach § 2, soweit ihnen eine erhebliche Zahl von
-    Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder
-    verwandter Art auf demselben Markt vertreiben und der Anspruch eine
-    Handlung betrifft, die die Interessen ihrer Mitglieder berührt und die
-    geeignet ist, den Wettbewerb nicht unerheblich zu verfälschen;
+2.  den qualifizierten Wirtschaftsverbänden, die in die Liste nach § 8b
+    des Gesetzes gegen den unlauteren Wettbewerb eingetragen sind, soweit
+    ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren und
+    Dienstleistungen gleicher oder verwandter Art auf demselben Markt
+    vertreiben, und die Zuwiderhandlung die Interessen ihrer Mitglieder
+    berührt,
 
 
-3.  den Industrie- und Handelskammern oder den Handwerkskammern.
+3.  den Industrie- und Handelskammern, den nach der Handwerksordnung
+    errichteten Organisationen und anderen berufsständischen
+    Körperschaften des öffentlichen Rechts sowie den Gewerkschaften im
+    Rahmen der Erfüllung ihrer Aufgaben bei der Vertretung selbstständiger
+    beruflicher Interessen.
 
 
 
 Der Anspruch kann nur an Stellen im Sinne des Satzes 1 abgetreten
-werden.
+werden. Stellen nach Satz 1 Nummer 1 und 2 können die Ansprüche nicht
+geltend machen, solange ihre Eintragung ruht.
 
-(2) Die in Absatz 1 Nr. 1 bezeichneten Einrichtungen können Ansprüche
-auf Unterlassung und auf Widerruf nach § 1 nicht geltend machen, wenn
-Allgemeine Geschäftsbedingungen gegenüber einem Unternehmer (§ 14 des
-Bürgerlichen Gesetzbuchs) verwendet oder wenn Allgemeine
-Geschäftsbedingungen zur ausschließlichen Verwendung zwischen
-Unternehmern empfohlen werden.
+(2) Die in Absatz 1 Satz 1 Nummer 1 bezeichneten Stellen können die
+folgenden Ansprüche nicht geltend machen:
+
+1.  Ansprüche nach § 1, wenn Allgemeine Geschäftsbedingungen gegenüber
+    einem Unternehmer (§ 14 des Bürgerlichen Gesetzbuchs) oder einem
+    öffentlichen Auftraggeber (§ 99 Nummer 1 bis 3 des Gesetzes gegen
+    Wettbewerbsbeschränkungen) verwendet oder wenn Allgemeine
+    Geschäftsbedingungen zur ausschließlichen Verwendung zwischen
+    Unternehmern oder zwischen Unternehmern und öffentlichen Auftraggebern
+    empfohlen werden,
+
+
+2.  Ansprüche nach § 1a, es sei denn, eine Zuwiderhandlung gegen § 288
+    Absatz 6 des Bürgerlichen Gesetzbuchs betrifft einen Anspruch eines
+    Verbrauchers.
+
+
+
 
 
 ### § 3a Anspruchsberechtigte Verbände nach § 2a
 
-Der in § 2a Abs. 1 bezeichnete Anspruch auf Unterlassung steht
-rechtsfähigen Verbänden zur nicht gewerbsmäßigen und nicht nur
-vorübergehenden Förderung der Interessen derjenigen zu, die durch §
-95b Abs. 1 Satz 1 des Urheberrechtsgesetzes begünstigt werden. Der
-Anspruch kann nur an Verbände im Sinne des Satzes 1 abgetreten werden.
+Der in § 2a bezeichnete Anspruch auf Unterlassung steht rechtsfähigen
+Verbänden zur nicht gewerbsmäßigen und nicht nur vorübergehenden
+Förderung der Interessen derjenigen zu, die durch § 95b Abs. 1 Satz 1
+des Urheberrechtsgesetzes begünstigt werden. Der Anspruch kann nur an
+Verbände im Sinne des Satzes 1 abgetreten werden.
 
 
-### § 4 Qualifizierte Einrichtungen
+### § 4 Liste der qualifizierten Einrichtungen
 
-(1) Das Bundesamt für Justiz führt eine Liste qualifizierter
-Einrichtungen. Diese Liste wird mit dem Stand zum 1. Januar eines
-jeden Jahres im Bundesanzeiger bekannt gemacht und der Kommission der
-Europäischen Gemeinschaften unter Hinweis auf Artikel 4 Abs. 2 der
-Richtlinie 98/27/EG des Europäischen Parlaments und des Rates vom 19.
-Mai 1998 über Unterlassungsklagen zum Schutz der Verbraucherinteressen
-(ABl. EG Nr. L 166 S. 51) zugeleitet.
+(1) Das Bundesamt für Justiz führt eine Liste der qualifizierten
+Einrichtungen und veröffentlicht sie in der jeweils aktuellen Fassung
+auf seiner Internetseite. Es übermittelt die Liste mit Stand zum 1.
+Januar und zum 1. Juli eines jeden Jahres an die Europäische
+Kommission unter Hinweis auf Artikel 4 Absatz 2 der Richtlinie
+2009/22/EG.
 
-(2) In die Liste werden auf Antrag rechtsfähige Verbände eingetragen,
-zu deren satzungsmäßigen Aufgaben es gehört, die Interessen der
-Verbraucher durch Aufklärung und Beratung nicht gewerbsmäßig und nicht
-nur vorübergehend wahrzunehmen, wenn sie in diesem Aufgabenbereich
-tätige Verbände oder mindestens 75 natürliche Personen als Mitglieder
-haben, seit mindestens einem Jahr bestehen und auf Grund ihrer
-bisherigen Tätigkeit Gewähr für eine sachgerechte Aufgabenerfüllung
-bieten. Es wird unwiderleglich vermutet, dass Verbraucherzentralen und
-andere Verbraucherverbände, die mit öffentlichen Mitteln gefördert
-werden, diese Voraussetzungen erfüllen. Die Eintragung in die Liste
-erfolgt unter Angabe von Namen, Anschrift, Registergericht,
-Registernummer und satzungsmäßigem Zweck. Sie ist mit Wirkung für die
-Zukunft aufzuheben, wenn
+(2) Ein eingetragener Verein, zu dessen satzungsmäßigen Aufgaben es
+gehört, Interessen der Verbraucher durch nicht gewerbsmäßige
+Aufklärung und Beratung wahrzunehmen, wird auf seinen Antrag in die
+Liste eingetragen, wenn
 
-1.  der Verband dies beantragt oder
+1.  er mindestens drei Verbände, die im gleichen Aufgabenbereich tätig
+    sind, oder mindestens 75 natürliche Personen als Mitglieder hat,
 
 
-2.  die Voraussetzungen für die Eintragung nicht vorlagen oder weggefallen
-    sind.
+2.  er zum Zeitpunkt der Antragstellung seit mindestens einem Jahr im
+    Vereinsregister eingetragen ist und ein Jahr seine satzungsmäßigen
+    Aufgaben wahrgenommen hat,
+
+
+3.  auf Grund seiner bisherigen Tätigkeit sowie seiner personellen,
+    sachlichen und finanziellen Ausstattung gesichert erscheint, dass er
+
+    a)  seine satzungsgemäßen Aufgaben auch künftig dauerhaft wirksam und
+        sachgerecht erfüllen wird und
+
+
+    b)  seine Ansprüche nicht vorwiegend geltend machen wird, um für sich
+        Einnahmen aus Abmahnungen oder Vertragsstrafen zu erzielen,
 
 
 
-Ist auf Grund tatsächlicher Anhaltspunkte damit zu rechnen, dass die
-Eintragung nach Satz 4 zurückzunehmen oder zu widerrufen ist, so soll
-das Bundesamt für Justiz das Ruhen der Eintragung für einen bestimmten
-Zeitraum von längstens drei Monaten anordnen. Widerspruch und
-Anfechtungsklage haben im Fall des Satzes 5 keine aufschiebende
-Wirkung.
-
-(3) Entscheidungen über Eintragungen erfolgen durch einen Bescheid,
-der dem Antragsteller zuzustellen ist. Das Bundesamt für Justiz
-erteilt den Verbänden auf Antrag eine Bescheinigung über ihre
-Eintragung in die Liste. Es bescheinigt auf Antrag Dritten, die daran
-ein rechtliches Interesse haben, dass die Eintragung eines Verbands in
-die Liste aufgehoben worden ist.
-
-(4) Ergeben sich in einem Rechtsstreit begründete Zweifel an dem
-Vorliegen der Voraussetzungen nach Absatz 2 bei einer eingetragenen
-Einrichtung, so kann das Gericht das Bundesamt für Justiz zur
-Überprüfung der Eintragung auffordern und die Verhandlung bis zu
-dessen Entscheidung aussetzen.
-
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, die
-Einzelheiten des Eintragungsverfahrens, insbesondere die zur Prüfung
-der Eintragungsvoraussetzungen erforderlichen Ermittlungen, sowie die
-Einzelheiten der Führung der Liste zu regeln.
 
 
-### § 4a Unterlassungsanspruch bei innergemeinschaftlichen Verstößen
+4.  den Mitgliedern keine Zuwendungen aus dem Vereinsvermögen gewährt
+    werden und Personen, die für den Verein tätig sind, nicht durch
+    unangemessen hohe Vergütungen oder andere Zuwendungen begünstigt
+    werden.
 
-(1) Wer innergemeinschaftlich gegen Gesetze zum Schutz der
-Verbraucherinteressen im Sinne von Artikel 3 Buchstabe b der
-Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des
-Rates vom 27. Oktober 2004 über die Zusammenarbeit zwischen den für
-die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen
-Behörden (ABl. EU Nr. L 364 S. 1), geändert durch Artikel 16 Nr. 2 der
-Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom
-11\. Mai 2005 (ABl. EU Nr. L 149 S. 22), verstößt, kann auf
-Unterlassung in Anspruch genommen werden. § 2 Absatz 3 ist
-entsprechend anzuwenden.
+
+
+Es wird unwiderleglich vermutet, dass Verbraucherzentralen sowie
+andere Verbraucherverbände, wenn sie überwiegend mit öffentlichen
+Mitteln gefördert werden, diese Voraussetzungen erfüllen.
+
+(3) Über die Eintragung wird durch einen schriftlichen Bescheid
+entschieden, der dem antragstellenden Verein zuzustellen ist. Auf der
+Grundlage eines wirksamen Bescheides ist der Verein unter Angabe des
+Namens, der Anschrift, des zuständigen Registergerichts, der
+Registernummer und des satzungsmäßigen Zwecks in die Liste
+einzutragen.
+
+(4) Auf Antrag erteilt das Bundesamt für Justiz einer qualifizierten
+Einrichtung, die in der Liste eingetragen ist, eine Bescheinigung über
+ihre Eintragung.
+
+
+### § 4a Überprüfung der Eintragung
+
+(1) Das Bundesamt für Justiz überprüft von Amts wegen, ob eine
+qualifizierte Einrichtung, die in der Liste nach § 4 eingetragen ist,
+die Eintragungsvoraussetzungen nach § 4 Absatz 2 Satz 1 erfüllt,
+
+1.  nach Ablauf von zwei Jahren nach ihrer Ersteintragung und danach
+    jeweils nach Ablauf von fünf Jahren nach Abschluss der letzten
+    Überprüfung oder
+
+
+2.  unabhängig von den Fristen nach Nummer 1, wenn begründete Zweifel am
+    Vorliegen der Eintragungsvoraussetzungen bestehen.
+
+
+
+
+(2) Ergeben sich in einem Rechtstreit begründete Zweifel daran, ob
+eine qualifizierte Einrichtung, die in der Liste nach § 4 eingetragen
+ist, die Eintragungsvoraussetzungen nach § 4 Absatz 2 Satz 1 erfüllt,
+kann das Gericht das Bundesamt für Justiz zur Überprüfung der
+Eintragung auffordern und die Verhandlung bis zum Abschluss der
+Überprüfung aussetzen.
+
+(3) Das Bundesamt für Justiz kann die qualifizierten Einrichtungen und
+deren Vorstandsmitglieder zur Befolgung der Pflichten im Verfahren zur
+Überprüfung der Eintragung durch die Festsetzung eines Zwangsgelds
+anhalten.
+
+
+### § 4b Berichtspflichten und Mitteilungspflichten
+
+(1) Die qualifizierten Einrichtungen, die in der Liste nach § 4 Absatz
+1 eingetragen sind, sind verpflichtet, bis zum 30. Juni eines jeden
+Kalenderjahres dem Bundesamt für Justiz für das vorangegangene
+Kalenderjahr zu berichten über
+
+1.  die Anzahl der von ihnen ausgesprochenen Abmahnungen, gestellten
+    Anträge auf einstweilige Verfügungen und erhobene Klagen zur
+    Durchsetzung ihrer Ansprüche unter Angabe der diesen
+    Durchsetzungsmaßnahmen zugrunde liegenden Zuwiderhandlungen,
+
+
+2.  die Anzahl der auf Grund von Abmahnungen vereinbarten strafbewehrten
+    Unterlassungsverpflichtungen unter Angabe der Höhe der darin
+    vereinbarten Vertragsstrafe,
+
+
+3.  die Höhe der entstandenen Ansprüche auf
+
+    a)  Aufwendungsersatz für Abmahnungen,
+
+
+    b)  Erstattung der Kosten der gerichtlichen Rechtsverfolgung und
+
+
+    c)  verwirkte Vertragsstrafen sowie
+
+
+
+
+
+4.  die Anzahl ihrer Mitglieder zum 31. Dezember und deren Bezeichnung.
+
+
+
+Satz 1 Nummer 4 ist nicht anzuwenden auf qualifizierte Einrichtungen,
+für die die Vermutung nach § 4 Absatz 2 Satz 2 gilt.
+
+(2) Das Bundesamt für Justiz kann die qualifizierten Einrichtungen und
+deren Vorstandsmitglieder zur Befolgung der Pflichten nach Absatz 1
+durch die Festsetzung eines Zwangsgelds anhalten.
+
+(3) Gerichte haben dem Bundesamt für Justiz Entscheidungen
+mitzuteilen, in denen festgestellt wird, dass eine qualifizierte
+Einrichtung, die in der Liste nach § 4 eingetragen ist, einen Anspruch
+missbräuchlich geltend gemacht hat.
+
+
+### § 4c Aufhebung der Eintragung
+
+(1) Die Eintragung einer qualifizierten Einrichtung in der Liste nach
+§ 4 ist mit Wirkung für die Zukunft aufzuheben, wenn
+
+1.  die qualifizierte Einrichtung dies beantragt oder
+
+
+2.  die Voraussetzungen für die Eintragung nach § 4 Absatz 2 Satz 1 nicht
+    vorlagen oder weggefallen sind.
+
+
+
+
+(2) Ist auf Grund tatsächlicher Anhaltspunkte damit zu rechnen, dass
+die Eintragung nach Absatz 1 Nummer 2 zurückzunehmen oder zu
+widerrufen ist, so soll das Bundesamt für Justiz das Ruhen der
+Eintragung für einen bestimmten Zeitraum anordnen. Das Ruhen darf für
+längstens drei Monate angeordnet werden. Ruht die Eintragung, ist dies
+in der Liste nach § 4 zu vermerken.
+
+(3) Widerspruch und Anfechtungsklage gegen Entscheidungen nach Absatz
+1 oder Absatz 2 haben keine aufschiebende Wirkung.
+
+(4) Auf Antrag bescheinigt das Bundesamt für Justiz einem Dritten, der
+ein rechtliches Interesse daran hat, dass die Eintragung einer
+qualifizierten Einrichtung in der Liste nach § 4 ruht oder aufgehoben
+worden ist.
+
+
+### § 4d Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Einzelheiten zu regeln
+
+1.  zur Eintragung von eingetragenen Vereinen in die Liste nach § 4 sowie
+    zur Überprüfung und Aufhebung von Eintragungen einer qualifizierten
+    Einrichtung in der Liste nach § 4, einschließlich der in den Verfahren
+    bestehenden Mitwirkungs- und Nachweispflichten und
+
+
+2.  zu den Berichtspflichten der qualifizierten Einrichtungen nach § 4b
+    Absatz 1.
+
+
+
+
+
+### § 4e Unterlassungsanspruch bei innergemeinschaftlichen Verstößen
+
+(1) Wer einen Verstoß im Sinne von Artikel 3 Nummer 5 der Verordnung
+(EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12.
+Dezember 2017 über die Zusammenarbeit zwischen den für die
+Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen
+Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L
+345 vom 27.12.2017, S. 1), die zuletzt durch die Richtlinie (EU)
+2019/771 (ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, in der
+jeweils geltenden Fassung, begeht, kann auf Unterlassung in Anspruch
+genommen werden.
 
 (2) Die Ansprüche stehen den Stellen nach § 3 Absatz 1 Satz 1 zu. Es
-wird unwiderleglich vermutet, dass ein nach § 7 Absatz 1 des EG-
-Verbraucherschutzdurchsetzungsgesetzes beauftragter Dritter eine
-Stelle nach Satz 1 ist. § 3 Absatz 1 Satz 2 ist entsprechend
+wird unwiderleglich vermutet, dass ein nach § 7 Absatz 3 des EU-
+Verbraucherschutzdurchführungsgesetzes benannter Dritter eine Stelle
+nach Satz 1 ist. § 3 Absatz 1 Satz 2 und 3 ist entsprechend
 anzuwenden.
 
 
@@ -288,8 +516,9 @@ anzuwenden.
 #### § 5 Anwendung der Zivilprozessordnung und anderer Vorschriften
 
 Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und §
-12 Abs. 1, 2 und 4 des Gesetzes gegen den unlauteren Wettbewerb
-anzuwenden, soweit sich aus diesem Gesetz nicht etwas anderes ergibt.
+12 Absatz 1, 3 und 4, § 13 Absatz 1 bis 3 und 5 sowie § 13a des
+Gesetzes gegen den unlauteren Wettbewerb anzuwenden, soweit sich aus
+diesem Gesetz nicht etwas anderes ergibt.
 
 
 #### § 6 Zuständigkeit
@@ -308,7 +537,7 @@ zuständig, in Ermangelung eines solchen das Gericht, in dessen Bezirk
 2.  gegen Verbraucherschutzgesetze verstoßen wurde oder
 
 
-3.  gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstoßen wurde.
+3.  gegen § 95b Absatz 1 Satz 1 des Urheberrechtsgesetzes verstoßen wurde.
 
 
 
@@ -352,15 +581,15 @@ Befugnis zeitlich begrenzen.
 
 
 (2) Das Gericht hat vor der Entscheidung über eine Klage nach § 1 die
-Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) zu
-hören, wenn Gegenstand der Klage
+Bundesanstalt für Finanzdienstleistungsaufsicht zu hören, wenn
+Gegenstand der Klage
 
 1.  Bestimmungen in Allgemeinen Versicherungsbedingungen sind oder
 
 
-2.  Bestimmungen in Allgemeinen Geschäftsbedingungen sind, die die
-    Bundesanstalt nach Maßgabe des Gesetzes über Bausparkassen oder des
-    Investmentgesetzes zu genehmigen hat.
+2.  Bestimmungen in Allgemeinen Geschäftsbedingungen sind, für die nach
+    dem Bausparkassengesetz oder dem Kapitalanlagegesetzbuch eine
+    Genehmigung vorgesehen ist.
 
 
 
@@ -425,7 +654,18 @@ Wettbewerb und die darin enthaltene Verordnungsermächtigung
 entsprechend.
 
 
-## Abschnitt 3 - Auskunft zur Durchführung von Unterlassungsklagen
+#### § 12a Anhörung der Datenschutzbehörden in Verfahren über Ansprüche nach § 2
+
+Das Gericht hat vor einer Entscheidung in einem Verfahren über einen
+Anspruch nach § 2, das eine Zuwiderhandlung gegen ein
+Verbraucherschutzgesetz nach § 2 Absatz 2 Satz 1 Nummer 11 zum
+Gegenstand hat, die zuständige inländische Datenschutzbehörde zu
+hören. Satz 1 ist nicht anzuwenden, wenn über einen Antrag auf Erlass
+einer einstweiligen Verfügung ohne mündliche Verhandlung entschieden
+wird.
+
+
+## Abschnitt 3 - Auskunft zur Durchsetzung von Ansprüchen
 
 
 
@@ -433,27 +673,12 @@ entsprechend.
 
 (1) Wer geschäftsmäßig Post-, Telekommunikations- oder
 Telemediendienste erbringt oder an der Erbringung solcher Dienste
-mitwirkt, hat
-
-1.  qualifizierten Einrichtungen, die nachweisen, dass sie in die Liste
-    gemäß § 4 oder in das Verzeichnis der Kommission der Europäischen
-    Gemeinschaften gemäß Artikel 4 der Richtlinie 98/27/EG eingetragen
-    sind,
-
-
-2.  rechtsfähigen Verbänden zur Förderung gewerblicher oder selbständiger
-    beruflicher Interessen und
-
-
-3.  Industrie- und Handelskammern oder den Handwerkskammern
-
-
-
-auf deren Verlangen den Namen und die zustellungsfähige Anschrift
-eines Beteiligten an Post-, Telekommunikations- oder
-Telemediendiensten mitzuteilen, wenn diese Stellen schriftlich
-versichern, dass sie die Angaben zur Durchsetzung ihrer Ansprüche
-gemäß § 1 oder § 2 benötigen und nicht anderweitig beschaffen können.
+mitwirkt, hat anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1
+auf deren Verlangen den Namen und die zustellfähige Anschrift eines an
+Post-, Telekommunikations- oder Telemediendiensten Beteiligten
+mitzuteilen, wenn diese Stellen schriftlich versichern, dass sie die
+Angaben zur Durchsetzung ihrer Ansprüche nach den §§ 1 bis 2a oder
+nach § 4e benötigen und nicht anderweitig beschaffen können.
 
 (2) Der Anspruch besteht nur, soweit die Auskunft ausschließlich
 anhand der bei dem Auskunftspflichtigen vorhandenen Bestandsdaten
@@ -461,11 +686,12 @@ erteilt werden kann. Die Auskunft darf nicht deshalb verweigert
 werden, weil der Beteiligte, dessen Angaben mitgeteilt werden sollen,
 in die Übermittlung nicht einwilligt.
 
-(3) Der Auskunftspflichtige kann von dem Anspruchsberechtigten einen
+(3) Der Auskunftspflichtige kann von dem Auskunftsberechtigten einen
 angemessenen Ausgleich für die Erteilung der Auskunft verlangen. Der
-Beteiligte hat, wenn der gegen ihn geltend gemachte Anspruch nach § 1
-oder § 2 begründet ist, dem Anspruchsberechtigten den gezahlten
-Ausgleich zu erstatten.
+Auskunftsberechtigte kann von dem Beteiligten, dessen Angaben
+mitgeteilt worden sind, Erstattung des gezahlten Ausgleichs verlangen,
+wenn er gegen diesen Beteiligten einen Anspruch nach den §§ 1 bis 2a
+oder nach § 4e hat.
 
 
 ### § 13a Auskunftsanspruch sonstiger Betroffener
@@ -473,16 +699,16 @@ Ausgleich zu erstatten.
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen,
 der Erbringung unbestellter sonstiger Leistungen oder der Zusendung
 oder sonstiger Übermittlung unverlangter Werbung verlangen kann, hat
-die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle des
-Anspruchs nach § 1 oder § 2 sein Anspruch auf Unterlassung nach
-allgemeinen Vorschriften tritt.
+die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle eines
+Anspruchs nach den §§ 1 bis 2a oder nach § 4e sein Anspruch auf
+Unterlassung nach allgemeinen Vorschriften tritt.
 
 
 ## Abschnitt 4 - Außergerichtliche Schlichtung
 
 
 
-### § 14 Schlichtungsverfahren
+### § 14 Schlichtungsverfahren und Verordnungsermächtigung
 
 (1) Bei Streitigkeiten aus der Anwendung
 
@@ -490,56 +716,151 @@ allgemeinen Vorschriften tritt.
     Fernabsatzverträge über Finanzdienstleistungen,
 
 
-2.  der §§ 491 bis 509 des Bürgerlichen Gesetzbuchs,
+2.  der §§ 491 bis 508, 511 und 655a bis 655d des Bürgerlichen Gesetzbuchs
+    sowie Artikel 247a § 1 des Einführungsgesetzes zum Bürgerlichen
+    Gesetzbuche,
 
 
-3.  der §§ 675c bis 676c des Bürgerlichen Gesetzbuchs und der Verordnung
-    (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16.
-    September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft
-    und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom
-    9\.10.2009, S. 11) oder
+3.  der Vorschriften betreffend Zahlungsdiensteverträge in
+
+    a)  den §§ 675c bis 676c des Bürgerlichen Gesetzbuchs,
 
 
-4.  des § 2 Absatz 1a Satz 3 und des § 23b des
-    Zahlungsdiensteaufsichtsgesetzes zwischen E-Geld-Emittenten und ihren
-    Kunden
+    b)  der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des
+        Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in
+        der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001
+        (ABl. L 266 vom 9.10.2009, S. 11), die zuletzt durch Artikel 17 der
+        Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert
+        worden ist, und
+
+
+    c)  der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des
+        Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften
+        und der Geschäftsanforderungen für Überweisungen und Lastschriften in
+        Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+        30\.3.2012, S. 22), die durch die Verordnung (EU) Nr. 248/2014 (ABl. L
+        84 vom 20.3.2014, S. 1) geändert worden ist,
+
+
+    d)  der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates
+        vom 29. April 2015 über Interbankenentgelte für kartengebundene
+        Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
+
+
+
+
+
+4.  der Vorschriften des Zahlungsdiensteaufsichtsgesetzes, soweit sie
+    Pflichten von E-Geld-Emittenten oder Zahlungsdienstleistern gegenüber
+    ihren Kunden begründen,
+
+
+5.  der Vorschriften des Zahlungskontengesetzes, die das Verhältnis
+    zwischen einem Zahlungsdienstleister und einem Verbraucher regeln,
+
+
+6.  der Vorschriften des Kapitalanlagegesetzbuchs, wenn an der
+    Streitigkeit Verbraucher beteiligt sind, oder
+
+
+7.  sonstiger Vorschriften im Zusammenhang mit Verträgen, die
+    Bankgeschäfte nach § 1 Absatz 1 Satz 2 des Kreditwesengesetzes oder
+    Finanzdienstleistungen nach § 1 Absatz 1a Satz 2 des
+    Kreditwesengesetzes betreffen, zwischen Verbrauchern und nach dem
+    Kreditwesengesetz beaufsichtigten Unternehmen
 
 
 
 können die Beteiligten unbeschadet ihres Rechts, die Gerichte
-anzurufen, die Schlichtungsstelle anrufen, die bei der Deutschen
-Bundesbank einzurichten ist.
+anzurufen, eine vom Bundesamt für Justiz für diese Streitigkeiten
+anerkannte private Verbraucherschlichtungsstelle oder die bei der
+Deutschen Bundesbank oder die bei der Bundesanstalt für
+Finanzdienstleistungsaufsicht eingerichtete
+Verbraucherschlichtungsstelle anrufen. Die bei der Deutschen
+Bundesbank eingerichtete Verbraucherschlichtungsstelle ist für die
+Streitigkeiten nach Satz 1 Nummer 1 bis 5 zuständig; die bei der
+Bundesanstalt für Finanzdienstleistungsaufsicht eingerichtete
+Verbraucherschlichtungsstelle ist für die Streitigkeiten nach Satz 1
+Nummer 6 und 7 zuständig. Diese behördlichen
+Verbraucherschlichtungsstellen sind nur zuständig, wenn es für die
+Streitigkeit keine zuständige anerkannte Verbraucherschlichtungsstelle
+gibt.
 
-(2) Das Bundesministerium der Justiz regelt durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, die näheren
-Einzelheiten des Verfahrens der Schlichtungsstelle nach Absatz 1 und
-die Zusammenarbeit mit vergleichbaren Stellen zur außergerichtlichen
-Streitbeilegung in anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum. Das Verfahren ist auf die Verwirklichung
-des Rechts auszurichten und es muss gewährleisten, dass
+(2) Jede Verbraucherschlichtungsstelle nach Absatz 1 muss mit
+mindestens zwei Schlichtern besetzt sein, die die Befähigung zum
+Richteramt haben. Die Schlichter müssen unabhängig sein und das
+Schlichtungsverfahren fair und unparteiisch führen. Sie sollen ihre
+Schlichtungsvorschläge am geltenden Recht ausrichten und sie sollen
+insbesondere die zwingenden Verbraucherschutzgesetze beachten. Für das
+Schlichtungsverfahren kann von einem Verbraucher kein Entgelt verlangt
+werden.
 
-1.  die Schlichtungsstelle unabhängig ist und unparteiisch handelt,
+(3) Das Bundesamt für Justiz erkennt auf Antrag eine
+Schlichtungsstelle als private Verbraucherschlichtungsstelle nach
+Absatz 1 Satz 1 an, wenn
 
-
-2.  ihre Verfahrensregelungen für Interessierte zugänglich sind und
-
-
-3.  die Beteiligten des Schlichtungsverfahrens rechtliches Gehör erhalten,
-    insbesondere Tatsachen und Bewertungen vorbringen können.
+1.  der Träger der Schlichtungsstelle ein eingetragener Verein ist,
 
 
+2.  die Schlichtungsstelle für die Streitigkeiten nach Absatz 1 Satz 1
+    zuständig ist und
 
-Die Rechtsverordnung regelt auch die Pflicht der Unternehmen, sich
-nach Maßgabe eines geeigneten Verteilungsschlüssels an den Kosten des
-Verfahrens zu beteiligen; das Nähere, insbesondere zu diesem
-Verteilungsschlüssel, regelt die Rechtsverordnung.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit den Bundesministerien der Finanzen und für Wirtschaft und
-Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Streitschlichtungsaufgaben nach Absatz 1 auf eine oder mehrere
-geeignete private Stellen zu übertragen, wenn die Aufgaben dort
-zweckmäßiger erledigt werden können.
+3.  die Organisation, Finanzierung und Verfahrensordnung der
+    Schlichtungsstelle den Anforderungen dieses Gesetzes und der
+    Rechtsverordnung entspricht, die auf Grund dieses Gesetzes erlassen
+    wurde.
+
+
+
+Die Verfahrensordnung einer anerkannten Schlichtungsstelle kann nur
+mit Zustimmung des Bundesamts für Justiz geändert werden.
+
+(4) Das Bundesamt für Justiz nimmt die Verbraucherschlichtungsstellen
+nach Absatz 1 in die Liste nach § 33 Absatz 1 des
+Verbraucherstreitbeilegungsgesetzes auf und macht die Anerkennung und
+den Widerruf oder die Rücknahme der Anerkennung im Bundesanzeiger
+bekannt.
+
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz regelt
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+entsprechend den Anforderungen der Richtlinie 2013/11/EU des
+Europäischen Parlaments und des Rates vom 21. Mai 2013 über die
+alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur
+Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
+2009/22/EG (ABl. L 165 vom 18.6.2013, S. 63)
+
+1.  die näheren Einzelheiten der Organisation und des Verfahrens der bei
+    der Deutschen Bundesbank und der bei der Bundesanstalt für
+    Finanzdienstleistungsaufsicht nach diesem Gesetz eingerichteten
+    Verbraucherschlichtungsstellen, insbesondere auch die Kosten des
+    Schlichtungsverfahrens für einen am Schlichtungsverfahren beteiligten
+    Unternehmer,
+
+
+2.  die Voraussetzungen und das Verfahren für die Anerkennung einer
+    privaten Verbraucherschlichtungsstelle und für die Aufhebung dieser
+    Anerkennung sowie die Voraussetzungen und das Verfahren für die
+    Zustimmung zur Änderung der Verfahrensordnung,
+
+
+3.  die Zusammenarbeit der behördlichen Verbraucherschlichtungsstellen und
+    der privaten Verbraucherschlichtungsstellen mit
+
+    a)  staatlichen Stellen, insbesondere der Bundesanstalt für
+        Finanzdienstleistungsaufsicht, und
+
+
+    b)  vergleichbaren Stellen zur außergerichtlichen Streitbeilegung in
+        anderen Vertragsstaaten des Abkommens über den Europäischen
+        Wirtschaftsraum.
+
+
+
+
+
+
 
 
 ## Abschnitt 5 - Anwendungsbereich
@@ -551,30 +872,47 @@ zweckmäßiger erledigt werden können.
 Dieses Gesetz findet auf das Arbeitsrecht keine Anwendung.
 
 
-## Abschnitt 6 - Überleitungsvorschriften
+## Abschnitt 6 - Bußgeldvorschriften
 
 
 
-### § 16 Überleitungsvorschrift zur Aufhebung des AGB-Gesetzes
+### § 16 Bußgeldvorschriften
 
-(1) Soweit am 1. Januar 2002 Verfahren nach dem AGB-Gesetz in der
-Fassung der Bekanntmachung vom 29. Juni 2000 (BGBl. I S. 946) anhängig
-sind, werden diese nach den Vorschriften dieses Gesetzes
-abgeschlossen.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-(2) Das beim Bundeskartellamt geführte Entscheidungsregister nach § 20
-des AGB-Gesetzes steht bis zum Ablauf des 31. Dezember 2004 unter den
-bis zum Ablauf des 31. Dezember 2001 geltenden Voraussetzungen zur
-Einsicht offen. Die in dem Register eingetragenen Entscheidungen
-werden 20 Jahre nach ihrer Eintragung in das Register, spätestens mit
-dem Ablauf des 31. Dezember 2004 gelöscht.
+1.  entgegen § 4b Absatz 1, auch in Verbindung mit einer Rechtsverordnung
+    nach § 4d Nummer 2, einen dort genannten Bericht nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erstattet oder
 
-(3) Schlichtungsstellen im Sinne von § 14 Abs. 1 sind auch die auf
-Grund des bisherigen § 29 Abs. 1 des AGB-Gesetzes eingerichteten
-Stellen.
 
-(4) Die nach § 22a des AGB-Gesetzes eingerichtete Liste qualifizierter
-Einrichtungen wird nach § 4 fortgeführt. Mit Ablauf des 31. Dezember
-2001 eingetragene Verbände brauchen die Jahresfrist des § 4 Abs. 2
-Satz 1 nicht einzuhalten.
+2.  einer Rechtsverordnung nach § 4d Nummer 1 oder einer vollziehbaren
+    Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
+    soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
+
+
+## Abschnitt 7 - Überleitungsvorschriften
+
+
+
+### § 17 Überleitungsvorschriften zu dem Gesetz zur Stärkung des fairen Wettbewerbs
+
+(1) Abweichend von § 4a Absatz 1 Nummer 1 sind die
+Eintragungsvoraussetzungen bei qualifizierten Einrichtungen, die vor
+dem 2. Dezember 2020 in die Liste nach § 4 eingetragen wurden und die
+am 2. Dezember 2020 schon länger als zwei Jahre in der Liste nach § 4
+eingetragen sind, vom Bundesamt für Justiz im Zeitraum vom 2. Dezember
+2020 bis zum 31. Dezember 2021 zu überprüfen.
+
+(2) Die Berichtspflichten nach § 4b Absatz 1 sind erstmals für das
+Kalenderjahr 2021 zu erfüllen.
 

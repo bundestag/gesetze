@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2985
 
-Geändert durch
-:   Art. 7 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 2 Abs. 36 V v. 18.1.2022 I 39
 
 
 
@@ -473,9 +473,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 8 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
@@ -484,9 +483,10 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 ## § 9 Übergangsvorschrift
 
-Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31.
-Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
-bisherigen Vorschriften zu Ende geführt.
+Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
+worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
+Vorschriften durch den nach § 47 der Handwerksordnung errichteten
+Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten

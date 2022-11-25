@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3543;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.11.2010 I 1643
+:   Art. 111 G v. 29.3.2017 I 626
 
 
 ## § 1 Anwendungsbereich
@@ -68,8 +68,9 @@ nachzuweisen.
 
 ## § 3 Ausnahmen
 
-Die zuständige Behörde kann auf schriftlichen Antrag Ausnahmen von den
-Vorschriften des Anhangs zu dieser Verordnung zulassen, wenn
+Die zuständige Behörde kann auf schriftlichen oder elektronischen
+Antrag Ausnahmen von den Vorschriften des Anhangs zu dieser Verordnung
+zulassen, wenn
 
 1.  eine andere, ebenso wirksame Maßnahme getroffen wird oder
 
@@ -4372,24 +4373,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
     geltenden Fassung gleichzusetzen.
 [^F774705_28_BJNR021890977BJNE001805377]: [^F774705_29_BJNR021890977BJNE001805377]:     Der Kategorie T1 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            1              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
+    Unterklasse T             1              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung gleichzusetzen.
 [^F774705_30_BJNR021890977BJNE001805377]:     Der Kategorie T2 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            2              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
-[^F774705_31_BJNR021890977BJNE001805377]:     Der Kategorie P1 ist der Teil der Unterklasse T
-    1              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_32_BJNR021890977BJNE001805377]:     Der Kategorie P2 ist der Teil der Unterklasse T
-    2              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_33_BJNR021890977BJNE001805377]:     Klasse T                            1              nach § 6 Absatz 4
-    der Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30.
-    September 2009 geltenden Fassung.
+    Unterklasse T             2              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung gleichzusetzen.
+[^F774705_31_BJNR021890977BJNE001805377]:     Der Kategorie P1 ist der Teil der Unterklasse T             1
+    nach § 6 Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der
+    bis zum 30. September 2009 geltenden Fassung gleichzusetzen, der nicht
+    Bühnen- und Theaterfeuerwerk ist.
+[^F774705_32_BJNR021890977BJNE001805377]:     Der Kategorie P2 ist der Teil der Unterklasse T             2
+    nach § 6 Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der
+    bis zum 30. September 2009 geltenden Fassung gleichzusetzen, der nicht
+    Bühnen- und Theaterfeuerwerk ist.
+[^F774705_33_BJNR021890977BJNE001805377]:     Klasse T             1              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung.
 
 
 ## Anlage 7 zum Anhang Aufbewahrung kleiner Mengen im nicht gewerblichen Bereich nach Nummer 4 des Anhangs Maximal zulässige Nettoexplosivstoffmassen/Nettomassen in kg
@@ -4655,22 +4656,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
     geltenden Fassung gleichzusetzen.
 [^F774705_48_BJNR021890977BJNE001904377]: [^F774705_49_BJNR021890977BJNE001904377]:     Der Kategorie T1 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            1              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
+    Unterklasse T             1              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung gleichzusetzen.
 [^F774705_50_BJNR021890977BJNE001904377]:     Der Kategorie T2 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            2              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
-[^F774705_51_BJNR021890977BJNE001904377]:     Der Kategorie P1 ist der Teil der Unterklasse T
-    1              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_52_BJNR021890977BJNE001904377]:     Der Kategorie P2 ist der Teil der Unterklasse T
-    2              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_53_BJNR021890977BJNE001904377]:     Klasse T                            1              nach § 6 Absatz 4
-    der Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30.
-    September 2009 geltenden Fassung.
+    Unterklasse T             2              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung gleichzusetzen.
+[^F774705_51_BJNR021890977BJNE001904377]:     Der Kategorie P1 ist der Teil der Unterklasse T             1
+    nach § 6 Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der
+    bis zum 30. September 2009 geltenden Fassung gleichzusetzen, der nicht
+    Bühnen- und Theaterfeuerwerk ist.
+[^F774705_52_BJNR021890977BJNE001904377]:     Der Kategorie P2 ist der Teil der Unterklasse T             2
+    nach § 6 Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der
+    bis zum 30. September 2009 geltenden Fassung gleichzusetzen, der nicht
+    Bühnen- und Theaterfeuerwerk ist.
+[^F774705_53_BJNR021890977BJNE001904377]:     Klasse T             1              nach § 6 Absatz 4 der Ersten
+    Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
+    geltenden Fassung.
 

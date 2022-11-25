@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3494
 
-Geändert durch
-:   Art. 2 V v. 23. 6.2004 I 1393
+Zuletzt geändert durch
+:   Art. 1 V v. 8.10.2021 I 4640
 
 
 ## Eingangsformel
@@ -45,11 +45,38 @@ seiner Unterstützung bei der Durchführung der Stimmabgabe und bei der
 Stimmenzählung heranziehen.
 
 (3) Die Beschlüsse des Wahlvorstands werden mit einfacher
-Stimmenmehrheit seiner stimmberechtigten Mitglieder gefasst. Über jede
+Stimmenmehrheit seiner stimmberechtigten Mitglieder gefasst. Die
+Sitzungen des Wahlvorstands finden als Präsenzsitzung statt. Über jede
 Sitzung des Wahlvorstands ist eine Niederschrift aufzunehmen, die
 mindestens den Wortlaut der gefassten Beschlüsse enthält. Die
 Niederschrift ist von der oder dem Vorsitzenden und einem weiteren
 stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
+
+(4) Abweichend von Absatz 3 Satz 2 kann der Wahlvorstand beschließen,
+dass die Teilnahme an einer nicht öffentlichen Sitzung des
+Wahlvorstands mittels Video- und Telefonkonferenz erfolgen kann. Dies
+gilt nicht für Sitzungen des Wahlvorstands
+
+1.  im Rahmen einer Wahlversammlung nach § 14a Absatz 1 Satz 2 des
+    Gesetzes,
+
+
+2.  zur Prüfung eingereichter Vorschlagslisten nach § 7 Absatz 2 Satz 2,
+
+
+3.  zur Durchführung eines Losverfahrens nach § 10 Absatz 1.
+
+
+
+Es muss sichergestellt sein, dass Dritte vom Inhalt der Sitzung keine
+Kenntnis nehmen können. Eine Aufzeichnung der Sitzung ist unzulässig.
+Die mittels Video- und Telefonkonferenz Teilnehmenden bestätigen ihre
+Teilnahme gegenüber der oder dem Vorsitzenden in Textform. Die
+Bestätigung ist der Niederschrift nach Absatz 3 beizufügen.
+
+(5) Erfolgt die Sitzung des Wahlvorstands mit der zusätzlichen
+Möglichkeit der Teilnahme mittels Video- und Telefonkonferenz, gilt
+auch eine Teilnahme vor Ort als erforderlich.
 
 
 #### § 2 Wählerliste
@@ -58,8 +85,8 @@ stimmberechtigten Mitglied des Wahlvorstands zu unterzeichnen.
 Wahlberechtigten (Wählerliste), getrennt nach den Geschlechtern,
 aufzustellen. Die Wahlberechtigten sollen mit Familienname, Vorname
 und Geburtsdatum in alphabetischer Reihenfolge aufgeführt werden. Die
-nach § 14 Abs. 2 Satz 1 des Arbeitnehmerüberlassungsgesetzes nicht
-passiv Wahlberechtigten sind in der Wählerliste auszuweisen.
+nach Absatz 3 Satz 2 nicht passiv Wahlberechtigten sind in der
+Wählerliste auszuweisen.
 
 (2) Der Arbeitgeber hat dem Wahlvorstand alle für die Anfertigung der
 Wählerliste erforderlichen Auskünfte zu erteilen und die
@@ -69,9 +96,10 @@ Gesetzes genannten Personen zu unterstützen.
 
 (3) Das aktive und passive Wahlrecht steht nur Arbeitnehmerinnen und
 Arbeitnehmern zu, die in die Wählerliste eingetragen sind.
-Wahlberechtigten Leiharbeitnehmerinnen und Leiharbeitnehmern im Sinne
-des Arbeitnehmerüberlassungsgesetzes steht nur das aktive Wahlrecht zu
-(§ 14 Abs. 2 Satz 1 des Arbeitnehmerüberlassungsgesetzes).
+Wahlberechtigten Arbeitnehmerinnen und Arbeitnehmern, die am Wahltag
+nicht nach § 8 des Gesetzes wählbar sind, und wahlberechtigten
+Leiharbeitnehmerinnen und Leiharbeitnehmern (§ 14 Absatz 2 Satz 1 des
+Arbeitnehmerüberlassungsgesetzes) steht nur das aktive Wahlrecht zu.
 
 (4) Ein Abdruck der Wählerliste und ein Abdruck dieser Verordnung sind
 vom Tage der Einleitung der Wahl (§ 3 Abs. 1) bis zum Abschluss der
@@ -118,7 +146,10 @@ die Amtszeit des Betriebsrats abläuft.
     können, die in die Wählerliste eingetragen sind, und dass Einsprüche
     gegen die Wählerliste (§ 4) nur vor Ablauf von zwei Wochen seit dem
     Erlass des Wahlausschreibens schriftlich beim Wahlvorstand eingelegt
-    werden können; der letzte Tag der Frist ist anzugeben;
+    werden können, verbunden mit einem Hinweis auf die
+    Anfechtungsausschlussgründe nach § 19 Absatz 3 Satz 1 und 2 des
+    Gesetzes; der letzte Tag der Frist und im Fall des § 41 Absatz 2
+    zusätzlich die Uhrzeit sind anzugeben;
 
 
 4.  den Anteil der Geschlechter und den Hinweis, dass das Geschlecht in
@@ -142,8 +173,9 @@ die Amtszeit des Betriebsrats abläuft.
 
 8.  dass Wahlvorschläge vor Ablauf von zwei Wochen seit dem Erlass des
     Wahlausschreibens beim Wahlvorstand in Form von Vorschlagslisten
-    einzureichen sind, wenn mehr als drei Betriebsratsmitglieder zu wählen
-    sind; der letzte Tag der Frist ist anzugeben;
+    einzureichen sind, wenn mehr als fünf Betriebsratsmitglieder zu wählen
+    sind; der letzte Tag der Frist und im Fall des § 41 Absatz 2
+    zusätzlich die Uhrzeit sind anzugeben;
 
 
 9.  dass die Stimmabgabe an die Wahlvorschläge gebunden ist und dass nur
@@ -182,7 +214,10 @@ den Wahlberechtigten zugänglichen Stellen vom Wahlvorstand auszuhängen
 und in gut lesbarem Zustand zu erhalten. Ergänzend kann das
 Wahlausschreiben mittels der im Betrieb vorhandenen Informations- und
 Kommunikationstechnik bekannt gemacht werden. § 2 Abs. 4 Satz 4 gilt
-entsprechend.
+entsprechend. Ergänzend hat der Wahlvorstand das Wahlausschreiben den
+Personen nach § 24 Absatz 2 postalisch oder elektronisch zu
+übermitteln; der Arbeitgeber hat dem Wahlvorstand die dazu
+erforderlichen Informationen zur Verfügung zu stellen.
 
 
 #### § 4 Einspruch gegen die Wählerliste
@@ -210,8 +245,8 @@ Wählerliste nochmals auf ihre Vollständigkeit hin überprüfen. Im
 Übrigen kann nach Ablauf der Einspruchsfrist die Wählerliste nur bei
 Schreibfehlern, offenbaren Unrichtigkeiten, in Erledigung rechtzeitig
 eingelegter Einsprüche oder bei Eintritt von Wahlberechtigten in den
-Betrieb oder bei Ausscheiden aus dem Betrieb bis zum Tage vor dem
-Beginn der Stimmabgabe berichtigt oder ergänzt werden.
+Betrieb oder bei Ausscheiden aus dem Betrieb bis zum Abschluss der
+Stimmabgabe berichtigt oder ergänzt werden.
 
 
 #### § 5 Bestimmung der Mindestsitze für das Geschlecht in der Minderheit
@@ -237,7 +272,7 @@ zugleich entfällt, so entscheidet das Los darüber, welchem Geschlecht
 dieser Sitz zufällt.
 
 
-### Zweiter Abschnitt - Wahl von mehr als drei Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
+### Zweiter Abschnitt - Wahl von mehr als fünf Betriebsratsmitgliedern (aufgrund von Vorschlagslisten)
 
 
 
@@ -247,10 +282,12 @@ dieser Sitz zufällt.
 
 ##### § 6 Vorschlagslisten
 
-(1) Sind mehr als drei Betriebsratsmitglieder zu wählen, so erfolgt
-die Wahl aufgrund von Vorschlagslisten. Die Vorschlagslisten sind von
-den Wahlberechtigten vor Ablauf von zwei Wochen seit Erlass des
-Wahlausschreibens beim Wahlvorstand einzureichen.
+(1) Sind mehr als fünf Betriebsratsmitglieder zu wählen, so erfolgt
+die Wahl aufgrund von Vorschlagslisten, sofern nicht die Anwendung des
+vereinfachten Wahlverfahrens vereinbart worden ist (§ 14a Absatz 5 des
+Gesetzes). Die Vorschlagslisten sind von den Wahlberechtigten vor
+Ablauf von zwei Wochen seit Erlass des Wahlausschreibens beim
+Wahlvorstand einzureichen.
 
 (2) Jede Vorschlagsliste soll mindestens doppelt so viele
 Bewerberinnen oder Bewerber aufweisen, wie Betriebsratsmitglieder zu
@@ -323,9 +360,10 @@ Gründe zu unterrichten.
 
 
 3.  die bei der Einreichung nicht die erforderliche Zahl von
-    Unterschriften (§ 14 Abs. 4 des Gesetzes) aufweisen. Die Rücknahme von
-    Unterschriften auf einer eingereichten Vorschlagsliste beeinträchtigt
-    deren Gültigkeit nicht; § 6 Abs. 5 bleibt unberührt.
+    Unterschriften (§ 14 Absatz 4 Satz 2 und 3 des Gesetzes) aufweisen.
+    Die Rücknahme von Unterschriften auf einer eingereichten
+    Vorschlagsliste beeinträchtigt deren Gültigkeit nicht; § 6 Abs. 5
+    bleibt unberührt.
 
 
 
@@ -375,7 +413,7 @@ sind zu der Losentscheidung rechtzeitig einzuladen.
 (2) Spätestens eine Woche vor Beginn der Stimmabgabe hat der
 Wahlvorstand die als gültig anerkannten Vorschlagslisten bis zum
 Abschluss der Stimmabgabe in gleicher Weise bekannt zu machen wie das
-Wahlausschreiben (§ 3 Abs. 4).
+Wahlausschreiben nach § 3 Absatz 4 Satz 1 bis 3.
 
 
 #### Zweiter Unterabschnitt - Wahlverfahren bei mehreren Vorschlagslisten (§ 14 Abs. 2 Satz 1 des Gesetzes)
@@ -386,8 +424,7 @@ Wahlausschreiben (§ 3 Abs. 4).
 
 (1) Die Wählerin oder der Wähler kann ihre oder seine Stimme nur für
 eine der als gültig anerkannten Vorschlagslisten abgeben. Die
-Stimmabgabe erfolgt durch Abgabe von Stimmzetteln in den hierfür
-bestimmten Umschlägen (Wahlumschlägen).
+Stimmabgabe erfolgt durch Abgabe von Stimmzetteln.
 
 (2) Auf den Stimmzetteln sind die Vorschlagslisten nach der
 Reihenfolge der Ordnungsnummern sowie unter Angabe der beiden an
@@ -396,11 +433,12 @@ Vorname und Art der Beschäftigung im Betrieb untereinander
 aufzuführen; bei Listen, die mit Kennworten versehen sind, ist auch
 das Kennwort anzugeben. Die Stimmzettel für die Betriebsratswahl
 müssen sämtlich die gleiche Größe, Farbe, Beschaffenheit und
-Beschriftung haben. Das Gleiche gilt für die Wahlumschläge.
+Beschriftung haben.
 
 (3) Die Wählerin oder der Wähler kennzeichnet die von ihr oder ihm
 gewählte Vorschlagsliste durch Ankreuzen an der im Stimmzettel hierfür
-vorgesehenen Stelle.
+vorgesehenen Stelle und faltet ihn in der Weise, dass ihre oder seine
+Stimme nicht erkennbar ist.
 
 (4) Stimmzettel, die mit einem besonderen Merkmal versehen sind oder
 aus denen sich der Wille der Wählerin oder des Wählers nicht
@@ -415,8 +453,8 @@ enthalten, sind ungültig.
 Bezeichnung der Stimmzettel im Wahlraum zu treffen und für die
 Bereitstellung einer Wahlurne oder mehrerer Wahlurnen zu sorgen. Die
 Wahlurne muss vom Wahlvorstand verschlossen und so eingerichtet sein,
-dass die eingeworfenen Wahlumschläge nicht herausgenommen werden
-können, ohne dass die Urne geöffnet wird.
+dass die eingeworfenen Stimmzettel nicht herausgenommen werden können,
+ohne dass die Urne geöffnet wird.
 
 (2) Während der Wahl müssen immer mindestens zwei stimmberechtigte
 Mitglieder des Wahlvorstands im Wahlraum anwesend sein; sind
@@ -425,9 +463,8 @@ Anwesenheit eines stimmberechtigten Mitglieds des Wahlvorstands und
 einer Wahlhelferin oder eines Wahlhelfers.
 
 (3) Die Wählerin oder der Wähler gibt ihren oder seinen Namen an und
-wirft den Wahlumschlag, in den der Stimmzettel eingelegt ist, in die
-Wahlurne ein, nachdem die Stimmabgabe in der Wählerliste vermerkt
-worden ist.
+wirft den gefalteten Stimmzettel in die Wahlurne ein, nachdem die
+Stimmabgabe in der Wählerliste vermerkt worden ist.
 
 (4) Wer infolge seiner Behinderung bei der Stimmabgabe beeinträchtigt
 ist, kann eine Person seines Vertrauens bestimmen, die ihm bei der
@@ -452,18 +489,20 @@ wird, insbesondere wenn sie an mehreren Tagen erfolgt.
 
 Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich
 die Auszählung der Stimmen vor und gibt das aufgrund der Auszählung
-sich ergebende Wahlergebnis bekannt.
+sich ergebende Wahlergebnis bekannt. Sofern eine schriftliche
+Stimmabgabe erfolgt ist, führt der Wahlvorstand vor Beginn der
+Stimmauszählung das Verfahren nach § 26 durch.
 
 
 ##### § 14 Verfahren bei der Stimmauszählung
 
 (1) Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die
-Stimmzettel den Wahlumschlägen und zählt die auf jede Vorschlagsliste
-entfallenden Stimmen zusammen. Dabei ist die Gültigkeit der
-Stimmzettel zu prüfen.
+Stimmzettel und zählt die auf jede Vorschlagsliste entfallenden
+Stimmen zusammen. Dabei ist die Gültigkeit der Stimmzettel zu prüfen.
 
-(2) Befinden sich in einem Wahlumschlag mehrere gekennzeichnete
-Stimmzettel (§ 11 Abs. 3), so werden sie, wenn sie vollständig
+(2) Befindet sich in der Wahlurne ein Wahlumschlag mit mehreren
+gekennzeichneten Stimmzetteln (§ 26 Absatz 1 Satz 3, § 35 Absatz 4
+Satz 3), so werden die Stimmzettel, wenn sie vollständig
 übereinstimmen, nur einfach gezählt, andernfalls als ungültig
 angesehen.
 
@@ -540,8 +579,8 @@ Folgendes:
 als Betriebsratsmitglieder gewählt sind, hat der Wahlvorstand in einer
 Niederschrift festzustellen:
 
-1.  die Gesamtzahl der abgegebenen Wahlumschläge und die Zahl der
-    abgegebenen gültigen Stimmen;
+1.  die Gesamtzahl der abgegebenen Stimmen und die Zahl der abgegebenen
+    gültigen Stimmen;
 
 
 2.  die jeder Liste zugefallenen Stimmenzahlen;
@@ -592,9 +631,10 @@ Mindestsitze erhält. § 15 Abs. 5 Nr. 2 bis 5 gilt entsprechend.
 
 Sobald die Namen der Betriebsratsmitglieder endgültig feststehen, hat
 der Wahlvorstand sie durch zweiwöchigen Aushang in gleicher Weise
-bekannt zu machen wie das Wahlausschreiben (§ 3 Abs. 4). Je eine
-Abschrift der Wahlniederschrift (§ 16) ist dem Arbeitgeber und den im
-Betrieb vertretenen Gewerkschaften unverzüglich zu übersenden.
+bekannt zu machen wie das Wahlausschreiben nach § 3 Absatz 4 Satz 1
+bis 3. Je eine Abschrift der Wahlniederschrift (§ 16) ist dem
+Arbeitgeber und den im Betrieb vertretenen Gewerkschaften unverzüglich
+zu übersenden.
 
 
 ##### § 19 Aufbewahrung der Wahlakten
@@ -621,18 +661,18 @@ benannt sind.
 
 (3) Die Wählerin oder der Wähler kennzeichnet die von ihr oder ihm
 gewählten Bewerberinnen oder Bewerber durch Ankreuzen an der hierfür
-im Stimmzettel vorgesehenen Stelle; es dürfen nicht mehr Bewerberinnen
-oder Bewerber angekreuzt werden, als Betriebsratsmitglieder zu wählen
-sind. § 11 Abs. 1 Satz 2, Abs. 2 Satz 2 und 3, Abs. 4, §§ 12 und 13
-gelten entsprechend.
+im Stimmzettel vorgesehenen Stelle und faltet ihn in der Weise, dass
+ihre oder seine Stimme nicht erkennbar ist; es dürfen nicht mehr
+Bewerberinnen oder Bewerber angekreuzt werden, als
+Betriebsratsmitglieder zu wählen sind. § 11 Abs. 1 Satz 2, Abs. 2 Satz
+2, Abs. 4, §§ 12 und 13 gelten entsprechend.
 
 
 ##### § 21 Stimmauszählung
 
 Nach Öffnung der Wahlurne entnimmt der Wahlvorstand die Stimmzettel
-den Wahlumschlägen und zählt die auf jede Bewerberin und jeden
-Bewerber entfallenden Stimmen zusammen; § 14 Abs. 1 Satz 2 und Abs. 2
-gilt entsprechend.
+und zählt die auf jede Bewerberin und jeden Bewerber entfallenden
+Stimmen zusammen; § 14 Abs. 1 Satz 2 und Abs. 2 gilt entsprechend.
 
 
 ##### § 22 Ermittlung der Gewählten
@@ -713,19 +753,30 @@ Wahlvorstand auf ihr Verlangen
 
 
 
-auszuhändigen oder zu übersenden. Der Wahlvorstand soll der Wählerin
-oder dem Wähler ferner ein Merkblatt über die Art und Weise der
-schriftlichen Stimmabgabe (§ 25) aushändigen oder übersenden. Der
-Wahlvorstand hat die Aushändigung oder die Übersendung der Unterlagen
-in der Wählerliste zu vermerken.
+auszuhändigen oder zu übersenden. Die Wahlumschläge müssen sämtlich
+die gleiche Größe, Farbe, Beschaffenheit und Beschriftung haben. Der
+Wahlvorstand soll der Wählerin oder dem Wähler ferner ein Merkblatt
+über die Art und Weise der schriftlichen Stimmabgabe (§ 25)
+aushändigen oder übersenden. Der Wahlvorstand hat die Aushändigung
+oder die Übersendung der Unterlagen in der Wählerliste zu vermerken.
 
 (2) Wahlberechtigte, von denen dem Wahlvorstand bekannt ist, dass sie
-im Zeitpunkt der Wahl nach der Eigenart ihres
-Beschäftigungsverhältnisses voraussichtlich nicht im Betrieb anwesend
-sein werden (insbesondere im Außendienst oder mit Telearbeit
-Beschäftigte und in Heimarbeit Beschäftigte), erhalten die in Absatz 1
-bezeichneten Unterlagen, ohne dass es eines Verlangens der
-Wahlberechtigten bedarf.
+
+1.  im Zeitpunkt der Wahl nach der Eigenart ihres
+    Beschäftigungsverhältnisses, insbesondere im Außendienst oder mit
+    Telearbeit Beschäftigte und in Heimarbeit Beschäftigte, oder
+
+
+2.  vom Erlass des Wahlausschreibens bis zum Zeitpunkt der Wahl aus
+    anderen Gründen, insbesondere bei Ruhen des Arbeitsverhältnisses oder
+    Arbeitsunfähigkeit,
+
+
+
+voraussichtlich nicht im Betrieb anwesend sein werden, erhalten die in
+Absatz 1 bezeichneten Unterlagen, ohne dass es eines Verlangens der
+Wahlberechtigten bedarf. Der Arbeitgeber hat dem Wahlvorstand die dazu
+erforderlichen Informationen zur Verfügung zu stellen.
 
 (3) Für Betriebsteile und Kleinstbetriebe, die räumlich weit vom
 Hauptbetrieb entfernt sind, kann der Wahlvorstand die schriftliche
@@ -737,8 +788,9 @@ Stimmabgabe beschließen. Absatz 2 gilt entsprechend.
 Die Stimmabgabe erfolgt in der Weise, dass die Wählerin oder der
 Wähler
 
-1.  den Stimmzettel unbeobachtet persönlich kennzeichnet und in dem
-    Wahlumschlag verschließt,
+1.  den Stimmzettel unbeobachtet persönlich kennzeichnet und so faltet und
+    in dem Wahlumschlag verschließt, dass die Stimmabgabe erst nach
+    Auseinanderfalten des Stimmzettels erkennbar ist,
 
 
 2.  die vorgedruckte Erklärung unter Angabe des Orts und des Datums
@@ -759,13 +811,15 @@ Person des Vertrauens verrichten lassen.
 
 #### § 26 Verfahren bei der Stimmabgabe
 
-(1) Unmittelbar vor Abschluss der Stimmabgabe öffnet der Wahlvorstand
-in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen
-Freiumschläge und entnimmt ihnen die Wahlumschläge sowie die
-vorgedruckten Erklärungen. Ist die schriftliche Stimmabgabe
-ordnungsgemäß erfolgt (§ 25), so legt der Wahlvorstand den
-Wahlumschlag nach Vermerk der Stimmabgabe in der Wählerliste
-ungeöffnet in die Wahlurne.
+(1) Zu Beginn der öffentlichen Sitzung zur Stimmauszählung nach § 13
+öffnet der Wahlvorstand die bis zum Ende der Stimmabgabe (§ 3 Absatz 2
+Nummer 11) eingegangenen Freiumschläge und entnimmt ihnen die
+Wahlumschläge sowie die vorgedruckten Erklärungen. Ist die
+schriftliche Stimmabgabe ordnungsgemäß erfolgt (§ 25), so vermerkt der
+Wahlvorstand die Stimmabgabe in der Wählerliste, öffnet die
+Wahlumschläge und legt die Stimmzettel in die Wahlurne. Befinden sich
+in einem Wahlumschlag mehrere gekennzeichnete Stimmzettel, werden sie
+in dem Wahlumschlag in die Wahlurne gelegt.
 
 (2) Verspätet eingehende Briefumschläge hat der Wahlvorstand mit einem
 Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den
@@ -828,11 +882,9 @@ b)  dass Wahlvorschläge zur Wahl des Betriebsrats bis zum Ende der
 
 
 c)  dass Wahlvorschläge der Arbeitnehmerinnen und Arbeitnehmer zur Wahl
-    des Betriebsrats mindestens von einem Zwanzigstel der
-    Wahlberechtigten, mindestens jedoch von drei Wahlberechtigten
-    unterzeichnet sein müssen; in Betrieben mit in der Regel bis zu
-    zwanzig Wahlberechtigten reicht die Unterzeichnung durch zwei
-    Wahlberechtigte;
+    des Betriebsrats von mindestens zwei Wahlberechtigten unterzeichnet
+    sein müssen; in Betrieben mit in der Regel bis zu zwanzig
+    Wahlberechtigten bedarf es keiner Unterzeichnung von Wahlvorschlägen;
 
 
 d)  dass Wahlvorschläge zur Wahl des Betriebsrats, die erst in der
@@ -900,9 +952,12 @@ Das Wahlausschreiben muss folgende Angaben enthalten:
 
 3.  dass nur Arbeitnehmerinnen und Arbeitnehmer wählen oder gewählt werden
     können, die in die Wählerliste eingetragen sind, und dass Einsprüche
-    gegen die Wählerliste (§ 4) nur vor Ablauf von drei Tagen seit dem
-    Erlass des Wahlausschreibens schriftlich beim Wahlvorstand eingelegt
-    werden können; der letzte Tag der Frist ist anzugeben;
+    gegen die Wählerliste (§ 30 Absatz 2 Satz 1) nur vor Ablauf von drei
+    Tagen seit dem Erlass des Wahlausschreibens schriftlich beim
+    Wahlvorstand eingelegt werden können, verbunden mit einem Hinweis auf
+    die Anfechtungsausschlussgründe nach § 19 Absatz 3 Satz 1 und 2 des
+    Gesetzes; der letzte Tag der Frist und im Fall des § 41 Absatz 2
+    zusätzlich die Uhrzeit sind anzugeben;
 
 
 4.  den Anteil der Geschlechter und den Hinweis, dass das Geschlecht in
@@ -995,12 +1050,15 @@ des Wahlvorstands bei diesem einzureichen. Wahlvorschläge, die erst in
 dieser Wahlversammlung gemacht werden, bedürfen nicht der Schriftform
 (§ 14a Abs. 2 des Gesetzes).
 
-(2) Für Wahlvorschläge gilt § 6 Abs. 2 bis 4 entsprechend. § 6 Abs. 5
-gilt entsprechend mit der Maßgabe, dass ein Wahlberechtigter, der
-mehrere Wahlvorschläge unterstützt, auf Aufforderung des Wahlvorstands
-in der Wahlversammlung erklären muss, welche Unterstützung er
-aufrechterhält. Für den Wahlvorschlag einer im Betrieb vertretenen
-Gewerkschaft gilt § 27 entsprechend.
+(2) Für Wahlvorschläge gilt § 6 Abs. 2 bis 4 entsprechend. Im Fall des
+§ 14 Absatz 4 Satz 1 des Gesetzes gilt § 6 Absatz 4 entsprechend mit
+der Maßgabe, dass Person im Sinne des § 6 Absatz 4 Satz 2 diejenige
+ist, die den Wahlvorschlag eingereicht hat. § 6 Abs. 5 gilt
+entsprechend mit der Maßgabe, dass ein Wahlberechtigter, der mehrere
+Wahlvorschläge unterstützt, auf Aufforderung des Wahlvorstands in der
+Wahlversammlung erklären muss, welche Unterstützung er aufrechterhält.
+Für den Wahlvorschlag einer im Betrieb vertretenen Gewerkschaft gilt §
+27 entsprechend.
 
 (3) § 7 gilt entsprechend. § 8 gilt entsprechend mit der Maßgabe, dass
 Mängel der Wahlvorschläge nach § 8 Abs. 2 nur in der Wahlversammlung
@@ -1025,10 +1083,11 @@ benannt sind. Auf den Stimmzetteln sind die Bewerberinnen oder
 Bewerber in alphabetischer Reihenfolge unter Angabe von Familienname,
 Vorname und Art der Beschäftigung im Betrieb aufzuführen. Die Wählerin
 oder der Wähler kennzeichnet die von ihm Gewählten durch Ankreuzen an
-der hierfür im Stimmzettel vorgesehenen Stelle; es dürfen nicht mehr
-Bewerberinnen oder Bewerber angekreuzt werden, als
+der hierfür im Stimmzettel vorgesehenen Stelle und faltet ihn in der
+Weise, dass ihre oder seine Stimme nicht erkennbar ist; es dürfen
+nicht mehr Bewerberinnen oder Bewerber angekreuzt werden, als
 Betriebsratsmitglieder zu wählen sind. § 11 Abs. 1 Satz 2, Abs. 2 Satz
-2 und 3, Abs. 4 und § 12 gelten entsprechend.
+2, Abs. 4 und § 12 gelten entsprechend.
 
 (2) Im Fall der nachträglichen schriftlichen Stimmabgabe (§ 35) hat
 der Wahlvorstand am Ende der Wahlversammlung zur Wahl des Betriebsrats
@@ -1068,16 +1127,22 @@ Stimmauszählung in gleicher Weise bekannt zu machen wie das
 Wahlausschreiben (§ 31 Abs. 2).
 
 (3) Unmittelbar nach Ablauf der Frist für die nachträgliche
-schriftliche Stimmabgabe öffnet der Wahlvorstand in öffentlicher
-Sitzung die bis zu diesem Zeitpunkt eingegangenen Freiumschläge und
-entnimmt ihnen die Wahlumschläge sowie die vorgedruckten Erklärungen.
-Ist die nachträgliche schriftliche Stimmabgabe ordnungsgemäß erfolgt
-(§ 25), so legt der Wahlvorstand den Wahlumschlag nach Vermerk der
-Stimmabgabe in der Wählerliste in die bis dahin versiegelte Wahlurne.
+schriftliche Stimmabgabe nimmt der Wahlvorstand in öffentlicher
+Sitzung die Auszählung der Stimmen vor.
 
-(4) Nachdem alle ordnungsgemäß nachträglich abgegebenen Wahlumschläge
-in die Wahlurne gelegt worden sind, nimmt der Wahlvorstand die
-Auszählung der Stimmen vor. § 34 Abs. 3 bis 5 gilt entsprechend.
+(4) Zu Beginn der öffentlichen Sitzung nach Absatz 3 öffnet der
+Wahlvorstand die bis zu diesem Zeitpunkt eingegangenen Freiumschläge
+und entnimmt ihnen die Wahlumschläge sowie die vorgedruckten
+Erklärungen. Ist die nachträgliche schriftliche Stimmabgabe
+ordnungsgemäß erfolgt (§ 25), so vermerkt der Wahlvorstand die
+Stimmabgabe in der Wählerliste, öffnet die Wahlumschläge und legt die
+Stimmzettel in die bis dahin versiegelte Wahlurne. Befinden sich in
+einem Wahlumschlag mehrere gekennzeichnete Stimmzettel, werden sie in
+dem Wahlumschlag in die Wahlurne gelegt.
+
+(5) Nachdem alle ordnungsgemäß nachträglich abgegebenen Stimmzettel in
+die Wahlurne gelegt worden sind, nimmt der Wahlvorstand im Anschluss
+die Auszählung der Stimmen vor. § 34 Abs. 3 bis 5 gilt entsprechend.
 
 
 ### Zweiter Abschnitt - Wahl des Betriebsrats im einstufigen Verfahren (§ 14a Abs. 3 des Gesetzes)
@@ -1114,7 +1179,8 @@ anderes bestimmt ist:
 2.  Abweichend von Nummer 8 hat der Wahlvorstand anzugeben, dass die
     Wahlvorschläge spätestens eine Woche vor dem Tag der Wahlversammlung
     zur Wahl des Betriebsrats beim Wahlvorstand einzureichen sind (§ 14a
-    Abs. 3 Satz 2 des Gesetzes); der letzte Tag der Frist ist anzugeben.
+    Abs. 3 Satz 2 des Gesetzes); der letzte Tag der Frist und im Fall des
+    § 41 Absatz 2 zusätzlich die Uhrzeit sind anzugeben.
 
 
 
@@ -1145,16 +1211,16 @@ stattfindet. Die Bekanntmachung hat in gleicher Weise wie das
 Wahlausschreiben (Absatz 3) zu erfolgen.
 
 
-### Dritter Abschnitt - Wahl des Betriebsrats in Betrieben mit in der Regel 51 bis 100 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
+### Dritter Abschnitt - Wahl des Betriebsrats in Betrieben mit in der Regel 101 bis 200 Wahlberechtigten (§ 14a Abs. 5 des Gesetzes)
 
 
 
 #### § 37 Wahlverfahren
 
 Haben Arbeitgeber und Wahlvorstand in einem Betrieb mit in der Regel
-51 bis 100 Wahlberechtigten die Wahl des Betriebsrats im vereinfachten
-Wahlverfahren vereinbart (§ 14a Abs. 5 des Gesetzes), richtet sich das
-Wahlverfahren nach § 36.
+101 bis 200 Wahlberechtigten die Wahl des Betriebsrats im
+vereinfachten Wahlverfahren vereinbart (§ 14a Abs. 5 des Gesetzes),
+richtet sich das Wahlverfahren nach § 36.
 
 
 ## Dritter Teil - Wahl der Jugend- und Auszubildendenvertretung
@@ -1174,10 +1240,12 @@ mindestens eine nach § 8 des Gesetzes wählbare Person angehören.
 
 (1) Sind mehr als drei Mitglieder zur Jugend- und
 Auszubildendenvertretung zu wählen, so erfolgt die Wahl aufgrund von
-Vorschlagslisten. § 6 Abs. 1 Satz 2, Abs. 2 und 4 bis 7, die §§ 7 bis
-10 und § 27 gelten entsprechend. § 6 Abs. 3 gilt entsprechend mit der
-Maßgabe, dass in jeder Vorschlagsliste auch der Ausbildungsberuf der
-einzelnen Bewerberinnen oder Bewerber aufzuführen ist.
+Vorschlagslisten, sofern die Wahl nicht im vereinfachten Wahlverfahren
+erfolgt (§ 63 Absatz 4 und 5 des Gesetzes). § 6 Abs. 1 Satz 2, Abs. 2
+und 4 bis 7, die §§ 7 bis 10 und § 27 gelten entsprechend. § 6 Abs. 3
+gilt entsprechend mit der Maßgabe, dass in jeder Vorschlagsliste auch
+der Ausbildungsberuf der einzelnen Bewerberinnen oder Bewerber
+aufzuführen ist.
 
 (2) Sind mehrere gültige Vorschlagslisten eingereicht, so kann die
 Stimme nur für eine Vorschlagsliste abgegeben werden. § 11 Abs. 1 Satz
@@ -1199,8 +1267,8 @@ entsprechend.
 
 ### § 40 Wahl der Jugend- und Auszubildendenvertretung im vereinfachten Wahlverfahren
 
-(1) In Betrieben mit in der Regel fünf bis fünfzig der in § 60 Abs. 1
-des Gesetzes genannten Arbeitnehmerinnen und Arbeitnehmern wird die
+(1) In Betrieben mit in der Regel fünf bis 100 der in § 60 Abs. 1 des
+Gesetzes genannten Arbeitnehmerinnen und Arbeitnehmern wird die
 Jugend- und Auszubildendenvertretung im vereinfachten Wahlverfahren
 gewählt (§ 63 Abs. 4 Satz 1 des Gesetzes). Für das Wahlverfahren gilt
 § 36 entsprechend mit der Maßgabe, dass in den Wahlvorschlägen und auf
@@ -1208,7 +1276,7 @@ den Stimmzetteln auch der Ausbildungsberuf der einzelnen Bewerberinnen
 oder Bewerber aufzuführen ist. § 38 Satz 2 gilt entsprechend.
 
 (2) Absatz 1 Satz 2 und 3 gilt entsprechend, wenn in einem Betrieb mit
-in der Regel 51 bis 100 der in § 60 Abs. 1 des Gesetzes genannten
+in der Regel 101 bis 200 der in § 60 Abs. 1 des Gesetzes genannten
 Arbeitnehmerinnen und Arbeitnehmern Arbeitgeber und Wahlvorstand die
 Anwendung des vereinfachten Wahlverfahrens vereinbart haben (§ 63 Abs.
 5 des Gesetzes).
@@ -1220,9 +1288,17 @@ Anwendung des vereinfachten Wahlverfahrens vereinbart haben (§ 63 Abs.
 
 ### § 41 Berechnung der Fristen
 
-Für die Berechnung der in dieser Verordnung festgelegten Fristen
+(1) Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
+
+(2) Mit der Bestimmung des letzten Tages einer Frist nach Absatz 1
+kann der Wahlvorstand eine Uhrzeit festlegen, bis zu der ihm
+Erklärungen nach § 4 Absatz 1, § 6 Absatz 1 und 7 Satz 2, § 8 Absatz
+2, § 9 Absatz 1 Satz 1, § 30 Absatz 2 Satz 1 sowie § 36 Absatz 5 Satz
+1 und 2 zugehen müssen. Diese Uhrzeit darf nicht vor dem Ende der
+Arbeitszeit der Mehrheit der Wählerinnen und Wähler an diesem Tag
+liegen.
 
 
 ### § 42 Bereich der Seeschifffahrt

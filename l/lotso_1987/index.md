@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 1290
 
 Zuletzt geändert durch
-:   Art. 106 G v. 8.12.2010 I 1864
+:   Art. 68 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -86,20 +86,10 @@ Lotsenversetzpositionen bei den Tonnen "Landtief B" und "Osttief 2".
 Anlagen 1, 2 und 3 ersichtlich.
 
 
-## § 3 Aufsichtsbehörden
+## § 3 Aufsichtsbehörde
 
-Aufsichtsbehörden für das Seelotswesen sind
-
-1.  die Wasser- und Schiffahrtsdirektion Nordwest für die Seelotsreviere
-    Ems, Weser I und Weser II/Jade und
-
-
-2.  die Wasser- und Schiffahrtsdirektion Nord für die Seelotsreviere Elbe,
-    Nord-Ostsee-Kanal I, Nord-Ostsee-Kanal II/Kieler
-    Förde/Trave/Flensburger Förde und Wismar/Rostock/Stralsund.
-
-
-
+Aufsichtsbehörde für die Seelotsreviere ist die Generaldirektion
+Wasserstraßen und Schifffahrt.
 
 
 ## § 4 Ermächtigung der Aufsichtsbehörden zum Erlaß von Lotsverordnungen

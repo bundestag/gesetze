@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 233
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.4.2012 I 579
+:   Art. 87 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel
@@ -94,13 +94,14 @@ Erzeugung (ABl. EG Nr. L 106 S. 28) erhält.
 (1) Eine Fläche gilt als stillgelegt, wenn
 
 1.  die landwirtschaftliche Nutzung ruht und eine Abgabe im Sinne des § 21
-    Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte
-    nicht vorliegt; Maßnahmen zur umweltgerechten Pflege der stillgelegten
-    Fläche sind zulässig,
+    Abs. 1, 2 und 8 des Gesetzes über die Alterssicherung der Landwirte in
+    der bis zum 8. August 2018 geltenden Fassung nicht vorliegt; Maßnahmen
+    zur umweltgerechten Pflege der stillgelegten Fläche sind zulässig,
 
 
 2.  sie erstmals unter den Voraussetzungen des § 21 Abs. 5 des Gesetzes
-    über die Alterssicherung der Landwirte aufgeforstet wird.
+    über die Alterssicherung der Landwirte in der bis zum 8. August 2018
+    geltenden Fassung aufgeforstet wird.
 
 
 
@@ -125,12 +126,12 @@ Erstaufforstung steht hinsichtlich der Mindeststillegungsdauer der
 Stillegung nach diesem Gesetz gleich.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz Näheres über die Voraussetzungen, unter denen eine
-Fläche als stillgelegt gilt, insbesondere auch über zulässige
-Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates
-bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der
-Landschaftspflege und der Raumordnung zu beachten.
+mit dem Bundesministerium für Ernährung und Landwirtschaft Näheres
+über die Voraussetzungen, unter denen eine Fläche als stillgelegt
+gilt, insbesondere auch über zulässige Pflegemaßnahmen durch
+Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind
+die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und
+der Raumordnung zu beachten.
 
 
 ### § 3 Abgabe von Flächen
@@ -233,15 +234,15 @@ schriftlich widerspricht.
 ### § 4 Rückbehalt
 
 Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der
-Landwirte nicht abgegebenen Fläche dürfen land- und
-forstwirtschaftliche Erzeugnisse für den Markt nicht produziert
-werden. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung.
-Eine Produktion gilt insbesondere als für den Markt erfolgt, wenn der
-Wert der für den Eigenverbrauch erzeugten land- und
-forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des
-Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche
-Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben
-unberücksichtigt.
+Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht
+abgegebenen Fläche dürfen land- und forstwirtschaftliche Erzeugnisse
+für den Markt nicht produziert werden. § 51 Abs. 2 des
+Bewertungsgesetzes findet keine Anwendung. Eine Produktion gilt
+insbesondere als für den Markt erfolgt, wenn der Wert der für den
+Eigenverbrauch erzeugten land- und forstwirtschaftlichen Produkte ein
+Siebtel der Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch)
+übersteigt. Forstwirtschaftliche Erzeugnisse, die durch notwendige
+Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
 
 
 ### § 5 Leistungen an Hinterbliebene
@@ -346,22 +347,23 @@ Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn,
 Renten, über Leistungen an Berechtigte im Ausland, über Beginn und
 Abschluß des Verfahrens, über Auszahlung und Anpassung und über
 Berechnungsgrundsätze gelten entsprechend. § 30 Abs. 2 des Gesetzes
-über die Alterssicherung der Landwirte gilt auch in den Fällen
-entsprechend, in denen ein Leistungsberechtigter auf der nach § 21
-Abs. 7 des Gesetzes über die Alterssicherung der Landwirte nicht
-abgegebenen Fläche landwirtschaftliche Erzeugnisse für den Markt
-produziert. Werden Verträge über die Abgabe landwirtschaftlich
-genutzter Flächen vor Ablauf der Mindestdauer (§ 3 Abs. 1 Satz 1) oder
-wird die Stillegung einer Fläche vor Ablauf der Mindestdauer (§ 2 Abs.
-3) beendet, ruht der Anspruch auf Produktionsaufgaberente vom Beginn
-des dritten auf die Beendigung der Verträge oder der Stillegung
-folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder
-erbracht, in dem Verpflichtungen wirksam werden, die eine Verwendung
-der Flächen nach den §§ 2 und 3 für die jeweilige Mindestdauer
-sicherstellen; die aufgrund der vorzeitig beendeten Verträge
-zurückgelegte Zeit wird auf die Mindestabgabedauer und die Zeit der
-bisherigen Stillegung wird auf die Mindeststillegungsdauer
-angerechnet.
+über die Alterssicherung der Landwirte in der bis zum 8. August 2018
+geltenden Fassung gilt auch in den Fällen entsprechend, in denen ein
+Leistungsberechtigter auf der nach § 21 Abs. 7 des Gesetzes über die
+Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden
+Fassung nicht abgegebenen Fläche landwirtschaftliche Erzeugnisse für
+den Markt produziert. Werden Verträge über die Abgabe
+landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer (§ 3
+Abs. 1 Satz 1) oder wird die Stillegung einer Fläche vor Ablauf der
+Mindestdauer (§ 2 Abs. 3) beendet, ruht der Anspruch auf
+Produktionsaufgaberente vom Beginn des dritten auf die Beendigung der
+Verträge oder der Stillegung folgenden Monats an. Die Leistung wird
+vom Beginn des Monats an wieder erbracht, in dem Verpflichtungen
+wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3
+für die jeweilige Mindestdauer sicherstellen; die aufgrund der
+vorzeitig beendeten Verträge zurückgelegte Zeit wird auf die
+Mindestabgabedauer und die Zeit der bisherigen Stillegung wird auf die
+Mindeststillegungsdauer angerechnet.
 
 (2) Der Anspruch auf Produktionsaufgaberente ruht ferner mit Ablauf
 des Kalendermonats, in dem
@@ -373,7 +375,8 @@ des Kalendermonats, in dem
 
     b)  land- oder forstwirtschaftliche Erzeugnisse auf einer anderen als der
         nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte
-        nicht abgegebenen Fläche für den Leistungsempfänger
+        in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen
+        Fläche für den Leistungsempfänger
 
 
 
@@ -420,13 +423,10 @@ Landesrecht zuständigen Stelle, der Nachweis der Voraussetzungen des §
 3 Abs. 1 Satz 2 Nr. 2 Buchstabe b wird durch eine Bescheinigung der
 übernehmenden Stelle geführt.
 
-(6) Die durchführenden Stellen haben von Amts wegen bei der
-Bewilligung und während der laufenden Zahlung einer
-Produktionsaufgaberente zu überprüfen, ob deren Voraussetzungen
-vorliegen; hierbei haben sie eng mit den landwirtschaftlichen
-Krankenkassen und landwirtschaftlichen Berufsgenossenschaften
-zusammenzuarbeiten. Satz 1 gilt entsprechend bei der Bewilligung und
-während der laufenden Zahlung eines Ausgleichsgeldes.
+(6) Die durchführende Stelle hat von Amts wegen bei der Bewilligung
+und während der laufenden Zahlung einer Produktionsaufgaberente oder
+eines Ausgleichsgeldes zu überprüfen, ob die jeweiligen
+Voraussetzungen vorliegen.
 
 
 ### § 8 Zusammentreffen mit Einkommen
@@ -746,8 +746,8 @@ werden.
 (1) Der Bund trägt die Beiträge zur landwirtschaftlichen
 Unfallversicherung, soweit sie für nach § 2 stillgelegte Flächen zu
 entrichten sind, die vom Leistungsberechtigten gepflegt werden und für
-die ein Flächenzuschlag gezahlt wird. Sie werden vom Bund an den
-Spitzenverband der landwirtschaftlichen Sozialversicherung gezahlt.
+die ein Flächenzuschlag gezahlt wird. Sie werden vom Bund an die
+landwirtschaftliche Alterskasse gezahlt.
 
 (2) Bestand am 31. Dezember 1994 Anspruch auf den Grundbetrag der
 Produktionsaufgaberente und hat der Bund am 31. Dezember 1994 die
@@ -804,12 +804,11 @@ Rentenversicherung ist das der Berechnung des Ausgleichsgeldes
 zugrunde liegende Bruttoarbeitsentgelt. Die
 Beitragsbemessungsgrundlage erhöht sich zum 1. Juli eines jeden Jahres
 entsprechend der Anpassung der Ausgleichsgelder. Der Bund trägt die
-Beiträge und führt sie an den Spitzenverband der landwirtschaftlichen
-Sozialversicherung ab. Der Verband oder die landwirtschaftlichen
-Alterskassen leiten die Beiträge unverzüglich an die Träger der
-gesetzlichen Rentenversicherung weiter. Das Nähere über Zahlung und
-Abrechnung können die landwirtschaftlichen Alterskassen und die Träger
-der gesetzlichen Rentenversicherung durch Vereinbarung regeln.
+Beiträge und führt sie an die landwirtschaftliche Alterskasse ab.
+Diese leitet die Beiträge unverzüglich an die Träger der gesetzlichen
+Rentenversicherung weiter. Das Nähere über Zahlung und Abrechnung
+können die landwirtschaftliche Alterskasse und die Träger der
+gesetzlichen Rentenversicherung durch Vereinbarung regeln.
 
 (2) Soweit die Vorschriften der gesetzlichen Rentenversicherung
 Pflichten für Arbeitgeber vorsehen, gelten diese für die zur Zahlung
@@ -823,10 +822,9 @@ Leistungsbezug in der gesetzlichen Krankenversicherung versichert
 waren und weder versicherungspflichtig beschäftigt sind noch
 Krankengeld beziehen. Der Bezug des Ausgleichsgeldes gilt als Bezug
 von Arbeitsentgelt. Der Bund trägt die Arbeitgeberanteile an den
-Krankenversicherungsbeiträgen und führt sie an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung ab. Der Verband oder die
-landwirtschaftlichen Alterskassen leiten die Arbeitgeberanteile
-zusammen mit den Arbeitnehmeranteilen an die Träger der gesetzlichen
+Krankenversicherungsbeiträgen und führt sie an die landwirtschaftliche
+Alterskasse ab. Diese leitet die Arbeitgeberanteile zusammen mit den
+Arbeitnehmeranteilen an die Träger der gesetzlichen
 Krankenversicherung weiter. Soweit das Fünfte Buch Sozialgesetzbuch
 Pflichten für Arbeitgeber vorsieht, gelten diese für die zur Zahlung
 des Ausgleichsgeldes Verpflichteten entsprechend.
@@ -917,13 +915,13 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
 
 
-### § 17 Durchführende Stellen
+### § 17 Durchführende Stelle
 
-Dieses Gesetz wird von den landwirtschaftlichen Alterskassen
-durchgeführt. Bundesunmittelbare Körperschaften unterliegen bei der
-Ausführung des Gesetzes den Weisungen des Bundesministeriums für
-Arbeit und Soziales, die im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz erteilt werden.
+Dieses Gesetz wird von der landwirtschaftlichen Alterskasse
+durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
+Weisungen des Bundesministeriums für Arbeit und Soziales, die im
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft erteilt werden.
 
 
 ### § 18 Anwendung sonstiger Vorschriften
@@ -954,16 +952,16 @@ des Ersten Abschnittes betreten und dort Prüfungs- und
 Vorliegens der Voraussetzungen einer Maßnahme nach § 2 notwendig ist.
 
 (3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates Näheres über die Zusammenarbeit der durchführenden Stellen
-mit den zuständigen Behörden der Länder zur Sicherstellung der
-Durchführung dieses Gesetzes, insbesondere bei der Überprüfung des
-Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche
-Fläche als stillgelegt oder abgegeben gilt, bestimmen. Dabei kann die
-Überprüfung des Vorliegens der Voraussetzungen, unter denen eine
-landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt,
-unmittelbar den zuständigen Behörden der Länder übertragen werden.
+mit dem Bundesministerium für Ernährung und Landwirtschaft durch
+Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die
+Zusammenarbeit der durchführenden Stellen mit den zuständigen Behörden
+der Länder zur Sicherstellung der Durchführung dieses Gesetzes,
+insbesondere bei der Überprüfung des Vorliegens der Voraussetzungen,
+unter denen eine landwirtschaftliche Fläche als stillgelegt oder
+abgegeben gilt, bestimmen. Dabei kann die Überprüfung des Vorliegens
+der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als
+stillgelegt oder abgegeben gilt, unmittelbar den zuständigen Behörden
+der Länder übertragen werden.
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind
 Streitigkeiten in Angelegenheiten der Sozialversicherung.
@@ -1090,12 +1088,8 @@ Ausland einer solchen im Geltungsbereich dieses Gesetzes gleich.
 
 ### § 19 Kostentragung
 
-(1) Die Leistungsaufwendungen trägt der Bund.
-
-(2) Die bei der Durchführung dieses Gesetzes entstehenden
-Verwaltungskosten der durchführenden Stellen werden bei
-landesunmittelbaren Körperschaften von den Ländern und bei
-bundesunmittelbaren Körperschaften vom Bund getragen.
+Die Leistungsaufwendungen und die bei der Durchführung dieses Gesetzes
+entstehenden Verwaltungskosten werden vom Bund getragen.
 
 
 ## Fünfter Abschnitt - Schlußvorschriften

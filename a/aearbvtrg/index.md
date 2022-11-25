@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 742
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.4.2007 I 506
+:   Art. 3 G v. 15.11.2019 I 1604
 
 
 ## Eingangsformel
@@ -80,9 +80,9 @@ Arzt nicht anzurechnen:
     überschreitet,
 
 
-3.  Zeiten einer Beurlaubung nach § 8a des Mutterschutzgesetzes oder § 15
-    Abs. 1 des Bundeselterngeld- und Elternzeitgesetzes und Zeiten eines
-    Beschäftigungsverbots nach den §§ 3, 4, 6 und 8 des
+3.  die Elternzeit nach § 15 Abs. 1 des Bundeselterngeld- und
+    Elternzeitgesetzes und Zeiten eines Beschäftigungsverbots nach den §§
+    3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des
     Mutterschutzgesetzes, soweit eine Beschäftigung nicht erfolgt ist,
 
 
@@ -103,6 +103,10 @@ der Absätze 1 bis 4 nicht widersprechen.
 
 (6) Die Absätze 1 bis 5 gelten nicht, wenn der Arbeitsvertrag unter
 den Anwendungsbereich des Wissenschaftszeitvertragsgesetzes fällt.
+
+(7) Die Absätze 1 bis 6 gelten auch für die Beschäftigung eines
+Psychotherapeuten im Rahmen einer zeitlich und inhaltlich
+strukturierten Weiterbildung zum Fachpsychotherapeuten.
 
 
 ## § 2 Berlin-Klausel

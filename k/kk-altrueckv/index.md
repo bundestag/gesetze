@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1396
 
-Geändert durch
-:   Art. 13 Abs. 22 G v. 12.4.2012 I 579
+Zuletzt geändert durch
+:   Art. 8a G v. 22.3.2020 I 604
 
 
 ## Eingangsformel
@@ -26,25 +26,24 @@ Auf Grund des § 171e Absatz 3 Satz 1 und 2 in Verbindung mit § 171f
 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung
 – sowie in Verbindung mit § 1 der Verordnung zur Übertragung der
 Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch
-Sozialgesetzbuch auf das Bundesversicherungsamt vom 12. Februar 2010
-(BGBl. I S. 88), von denen § 171e Absatz 3 Satz 1 und 2 und § 171f des
-Fünften Buches Sozialgesetzbuch durch Artikel 1 Nummer 8 des Gesetzes
-vom 15. Dezember 2008 (BGBl. I S. 2426) eingefügt worden sind,
-verordnet das Bundesversicherungsamt:
+Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung vom 12.
+Februar 2010 (BGBl. I S. 88), von denen § 171e Absatz 3 Satz 1 und 2
+und § 171f des Fünften Buches Sozialgesetzbuch durch Artikel 1 Nummer
+8 des Gesetzes vom 15. Dezember 2008 (BGBl. I S. 2426) eingefügt
+worden sind, verordnet das Bundesamt für Soziale Sicherung:
 
 
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung sind auf die Krankenkassen und die
 Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
-Krankenkassen sowie mit Ausnahme des Spitzenverbands der
-landwirtschaftlichen Sozialversicherung anzuwenden.
+Krankenkasse anzuwenden.
 
 
 ## § 2 Abgrenzung der Altersversorgungsverpflichtungen
 
 Altersrückstellungen und Deckungskapital für
-Altersversorgungsverpflichtungen nach § 171e Absatz 1 Satz 1 und 2 des
+Altersversorgungsverpflichtungen nach § 170 Absatz 1 Satz 1 und 2 des
 Fünften Buches Sozialgesetzbuch sind für unmittelbare Zusagen auf eine
 betriebliche Altersversorgung (Direktzusagen), für Zusagen auf eine
 betriebliche Altersversorgung, die von einer Unterstützungskasse
@@ -111,7 +110,7 @@ mit
 
         D
     =   bis zum 31. Dezember 2049 zu bildendes Deckungskapital für
-        Versorgungszusagen gemäß § 171e Absatz 1 Satz 1 des Fünften Buches
+        Versorgungszusagen gemäß § 170 Absatz 1 Satz 1 des Fünften Buches
         Sozialgesetzbuch,
 
 
@@ -148,10 +147,7 @@ Die jährlichen Zuweisungsbeträge sind dem Deckungskapital bis zum 31.
 Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
 
 
-## § 6 Anlage der Mittel
-
-Das Deckungskapital zur Finanzierung der Altersrückstellungen ist nach
-§ 80 des Vierten Buches Sozialgesetzbuch anzulegen.
+## § 6 (weggefallen)
 
 
 ## § 7 Inkrafttreten

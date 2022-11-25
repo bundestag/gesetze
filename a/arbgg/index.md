@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 2.7.1979 I 853, 1036;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.11.2011 I 2302
+:   Art. 10 G v. 5.10.2021 I 4607
+
+Mittelbare änderung durch
+:   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -81,7 +84,9 @@ durch die Arbeitsgerichte - §§ 14 bis 31 -, die Landesarbeitsgerichte
 
 
     b)  gemeinsamen Einrichtungen der Tarifvertragsparteien oder
-        Sozialeinrichtungen des privaten Rechts über Ansprüche aus dem
+        Sozialeinrichtungen des privaten Rechts oder Versorgungseinrichtungen,
+        soweit Letztere reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a des
+        Betriebsrentengesetzes durchführen, über Ansprüche aus dem
         Arbeitsverhältnis oder Ansprüche, die mit dem Arbeitsverhältnis in
         rechtlichem oder unmittelbar wirtschaftlichem Zusammenhang stehen,
 
@@ -126,7 +131,7 @@ durch die Arbeitsgerichte - §§ 14 bis 31 -, die Landesarbeitsgerichte
 
 10. bürgerliche Rechtsstreitigkeiten zwischen behinderten Menschen im
     Arbeitsbereich von Werkstätten für behinderte Menschen und den Trägern
-    der Werkstätten aus den in § 138 des Neunten Buches Sozialgesetzbuch
+    der Werkstätten aus den in § 221 des Neunten Buches Sozialgesetzbuch
     geregelten arbeitnehmerähnlichen Rechtsverhältnissen.
 
 
@@ -188,7 +193,7 @@ zuständig für
     § 103 Abs. 3 des Aktiengesetzes zu entscheiden ist;
 
 
-3a. Angelegenheiten aus den §§ 94, 95, 139 des Neunten Buches
+3a. Angelegenheiten aus den §§ 177, 178 und 222 des Neunten Buches
     Sozialgesetzbuch,
 
 
@@ -228,7 +233,18 @@ zuständig für
 
 
 4.  die Entscheidung über die Tariffähigkeit und die Tarifzuständigkeit
-    einer Vereinigung.
+    einer Vereinigung;
+
+
+5.  die Entscheidung über die Wirksamkeit einer
+    Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes,
+    einer Rechtsverordnung nach § 7 oder § 7a des Arbeitnehmer-
+    Entsendegesetzes und einer Rechtsverordnung nach § 3a des
+    Arbeitnehmerüberlassungsgesetzes;
+
+
+6.  die Entscheidung über den nach § 4a Absatz 2 Satz 2 des
+    Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag.
 
 
 
@@ -277,10 +293,11 @@ Vertragsdauer während dieser, im Durchschnitt monatlich nicht mehr als
 einschließlich Provision und Ersatz für im regelmäßigen
 Geschäftsbetrieb entstandene Aufwendungen bezogen haben. Das
 Bundesministerium für Arbeit und Soziales und das Bundesministerium
-der Justiz können im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie die in Satz 1 bestimmte Vergütungsgrenze
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, den jeweiligen Lohn- und Preisverhältnissen anpassen.
+der Justiz und für Verbraucherschutz können im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie die in Satz 1 bestimmte
+Vergütungsgrenze durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, den jeweiligen Lohn- und Preisverhältnissen
+anpassen.
 
 
 ### § 6 Besetzung der Gerichte für Arbeitssachen
@@ -332,9 +349,10 @@ Vorschriften entsprechend:
 eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten
 besetzt wird. Die Einrichtung der Geschäftsstelle bestimmt bei dem
 Bundesarbeitsgericht das Bundesministerium für Arbeit und Soziales im
-Benehmen mit dem Bundesministerium der Justiz. Die Einrichtung der
-Geschäftsstelle bestimmt bei den Arbeitsgerichten und
-Landesarbeitsgerichten die zuständige oberste Landesbehörde.
+Benehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz. Die Einrichtung der Geschäftsstelle bestimmt bei
+den Arbeitsgerichten und Landesarbeitsgerichten die zuständige oberste
+Landesbehörde.
 
 (2) Die Kosten der Arbeitsgerichte und der Landesarbeitsgerichte trägt
 das Land, das sie errichtet. Die Kosten des Bundesarbeitsgerichts
@@ -343,7 +361,8 @@ trägt der Bund.
 
 ### § 8 Gang des Verfahrens
 
-(1) Im ersten Rechtszug sind die Arbeitsgerichte zuständig.
+(1) Im ersten Rechtszug sind die Arbeitsgerichte zuständig, soweit
+durch Gesetz nichts anderes bestimmt ist.
 
 (2) Gegen die Urteile der Arbeitsgerichte findet die Berufung an die
 Landesarbeitsgerichte nach Maßgabe des § 64 Abs. 1 statt.
@@ -407,17 +426,21 @@ und Vereinigungen von Arbeitgebern sowie Zusammenschlüsse solcher
 Verbände; in den Fällen des § 2a Abs. 1 Nr. 1 bis 3f sind auch die
 nach dem Betriebsverfassungsgesetz, dem Sprecherausschussgesetz, dem
 Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem
-Drittelbeteiligungsgesetz, dem § 139 des Neunten Buches
+Drittelbeteiligungsgesetz, dem § 222 des Neunten Buches
 Sozialgesetzbuch, dem § 51 des Berufsbildungsgesetzes und den zu
 diesen Gesetzen ergangenen Rechtsverordnungen sowie die nach dem
 Gesetz über Europäische Betriebsräte, dem SE-Beteiligungsgesetz, dem
 SCE-Beteiligungsgesetz und dem Gesetz über die Mitbestimmung der
 Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung beteiligten
-Personen und Stellen Beteiligte.  Parteifähig im arbeitsgerichtlichen
-Verfahren sind in den Fällen des § 2a  Abs. 1 Nr. 4 auch die
-beteiligten Vereinigungen von Arbeitnehmern und  Arbeitgebern sowie
-die oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf
-deren Bereich sich die Tätigkeit der Vereinigung erstreckt.
+Personen und Stellen Beteiligte. Parteifähig im arbeitsgerichtlichen
+Verfahren sind in den Fällen des § 2a Abs. 1 Nr. 4 auch die
+beteiligten Vereinigungen von Arbeitnehmern und Arbeitgebern sowie die
+oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf deren
+Bereich sich die Tätigkeit der Vereinigung erstreckt. Parteifähig im
+arbeitsgerichtlichen Verfahren sind in den Fällen des § 2a Absatz 1
+Nummer 5 auch die oberste Arbeitsbehörde des Bundes oder die oberste
+Arbeitsbehörde eines Landes, soweit ihr nach § 5 Absatz 6 des
+Tarifvertragsgesetzes Rechte übertragen sind.
 
 
 ### § 11 Prozessvertretung
@@ -511,34 +534,13 @@ widerrufen oder berichtigt wird.
 
 ### § 11a Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe
 
-(1) Einer Partei, die außerstande ist, ohne Beeinträchtigung des für
-sie und ihre Familie notwendigen Unterhalts die Kosten des Prozesses
-zu bestreiten, und die nicht durch ein Mitglied oder einen
-Angestellten einer Gewerkschaft oder einer Vereinigung von
-Arbeitgebern vertreten werden kann, hat der Vorsitzende des
-Arbeitsgerichts auf ihren Antrag einen Rechtsanwalt beizuordnen, wenn
-die Gegenpartei durch einen Rechtsanwalt vertreten ist. Die Partei ist
-auf ihr Antragsrecht hinzuweisen.
-
-(2) Die Beiordnung kann unterbleiben, wenn sie aus besonderen Gründen
-nicht erforderlich ist, oder wenn die Rechtsverfolgung offensichtlich
-mutwillig ist.
-
-(2a) Die Absätze 1 und 2 gelten auch für die grenzüberschreitende
-Prozesskostenhilfe innerhalb der Europäischen Union nach der
-Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung
-des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug
-durch Festlegung gemeinsamer Mindestvorschriften für die
-Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41,
-ABl. EU Nr. L 32 S. 15).
-
-(3) Die Vorschriften der Zivilprozessordnung über die
+(1) Die Vorschriften der Zivilprozessordnung über die
 Prozesskostenhilfe und über die grenzüberschreitende
 Prozesskostenhilfe innerhalb der Europäischen Union nach der
 Richtlinie 2003/8/EG gelten in Verfahren vor den Gerichten für
 Arbeitssachen entsprechend.
 
-(4) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur
+(2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, zur
 Vereinfachung und Vereinheitlichung des Verfahrens durch
 Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die
 Erklärung der Partei über ihre persönlichen und wirtschaftlichen
@@ -547,7 +549,7 @@ Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
 
 ### § 12 Kosten
 
-Die Justizverwaltungskostenordnung und die Justizbeitreibungsordnung
+Das Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz
 gelten entsprechend, soweit sie nicht unmittelbar Anwendung finden.
 Bei Einziehung der Gerichts- und Verwaltungskosten leisten die
 Vollstreckungsbehörden der Justizverwaltung oder die sonst nach
@@ -571,14 +573,14 @@ allgemeinen Verwaltungsgerichtsbarkeit, der Finanz- oder
 Sozialgerichtsbarkeit angerufen und dieses den Rechtsstreit an das
 Arbeitsgericht verwiesen hat.
 
-(2) Werden im Urteilsverfahren des zweiten Rechtszugs die Kosten nach
-§ 92 Abs. 1 der Zivilprozeßordnung verhältnismäßig geteilt und ist die
-eine Partei durch einen Rechtsanwalt, die andere Partei durch einen
-Verbandsvertreter nach § 11 Abs. 2 Satz 2 Nr. 4 und 5 vertreten, so
-ist diese Partei hinsichtlich der außergerichtlichen Kosten so zu
-stellen, als wenn sie durch einen Rechtsanwalt vertreten worden wäre.
-Ansprüche auf Erstattung stehen ihr jedoch nur insoweit zu, als ihr
-Kosten im Einzelfall tatsächlich erwachsen sind.
+(2) Werden im Urteilsverfahren des zweiten und dritten Rechtszugs die
+Kosten nach § 92 Abs. 1 der Zivilprozeßordnung verhältnismäßig geteilt
+und ist die eine Partei durch einen Rechtsanwalt, die andere Partei
+durch einen Verbandsvertreter nach § 11 Abs. 2 Satz 2 Nr. 4 und 5
+vertreten, so ist diese Partei hinsichtlich der außergerichtlichen
+Kosten so zu stellen, als wenn sie durch einen Rechtsanwalt vertreten
+worden wäre. Ansprüche auf Erstattung stehen ihr jedoch nur insoweit
+zu, als ihr Kosten im Einzelfall tatsächlich erwachsen sind.
 
 
 ### § 13 Rechtshilfe
@@ -686,8 +688,11 @@ Arbeitnehmer und der Arbeitgeber tätig.
 
 #### § 17 Bildung von Kammern
 
-(1) Die zuständige oberste Landesbehörde bestimmt die Zahl der Kammern
-nach Anhörung der in § 14 Abs. 5 genannten Verbände.
+(1) Die zuständige oberste Landesbehörde bestimmt die Zahl der
+Kammern. Die Landesregierung kann diese Befugnis durch
+Rechtsverordnung auf die Präsidentin oder den Präsidenten des
+Landesarbeitsgerichts übertragen. Vor Bestimmung der Zahl der Kammern
+sind die in § 14 Absatz 5 genannten Verbände zu hören.
 
 (2) Soweit ein Bedürfnis besteht, kann die Landesregierung durch
 Rechtsverordnung für die Streitigkeiten bestimmter Berufe und Gewerbe
@@ -896,9 +901,8 @@ niederlegen,
 die zuständige Stelle (§ 20). Die Entscheidung ist endgültig.
 
 
-#### § 25
+#### § 25 (weggefallen)
 
-(weggefallen)
 
 
 #### § 26 Schutz der ehrenamtlichen Richter
@@ -979,9 +983,8 @@ aufgestellt werden, die am Gerichtssitz oder in der Nähe wohnen oder
 ihren Dienstsitz haben.
 
 
-#### § 32
+#### § 32 (weggefallen)
 
-(weggefallen)
 
 
 ### Zweiter Abschnitt - Landesarbeitsgerichte
@@ -1070,9 +1073,10 @@ entsprechend anzuwenden.
 
 (2) Die Geschäfte der Verwaltung und Dienstaufsicht führt das
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
-Bundesministerium der Justiz. Das Bundesministerium für Arbeit und
-Soziales kann im Einvernehmen mit dem Bundesministerium der Justiz
-Geschäfte der Verwaltung und Dienstaufsicht auf den Präsidenten des
+Bundesministerium der Justiz und für Verbraucherschutz. Das
+Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem
+Bundesministerium der Justiz und für Verbraucherschutz Geschäfte der
+Verwaltung und Dienstaufsicht auf den Präsidenten des
 Bundesarbeitsgerichts übertragen.
 
 
@@ -1089,7 +1093,8 @@ berufsrichterlichen Beisitzern und je einem ehrenamtlichen Richter aus
 den Kreisen der Arbeitnehmer und der Arbeitgeber tätig.
 
 (3) Die Zahl der Senate bestimmt das Bundesministerium für Arbeit und
-Soziales im Einvernehmen mit dem Bundesministerium der Justiz.
+Soziales im Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz.
 
 
 #### § 42 Bundesrichter
@@ -1099,7 +1104,7 @@ und berufsrichterliche Beisitzer nach § 41 Abs. 1 Satz 1) gelten die
 Vorschriften des Richterwahlgesetzes. Zuständiges Ministerium im Sinne
 des § 1 Abs. 1 des Richterwahlgesetzes ist das Bundesministerium für
 Arbeit und Soziales; es entscheidet im Benehmen mit dem
-Bundesministerium der Justiz.
+Bundesministerium der Justiz und für Verbraucherschutz.
 
 (2) Die zu berufenden Personen müssen das fünfunddreißigste Lebensjahr
 vollendet haben.
@@ -1209,13 +1214,14 @@ bestimmt. Die Vorschriften über den frühen ersten Termin zur
 mündlichen Verhandlung und das schriftliche Vorverfahren (§§ 275 bis
 277 der Zivilprozeßordnung), über das vereinfachte Verfahren (§ 495a
 der Zivilprozeßordnung), über den Urkunden- und Wechselprozeß (§§ 592
-bis 605a der Zivilprozeßordnung), über die Entscheidung ohne mündliche
-Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über die
-Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§ 227
-Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. § 127
-Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass
-die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig
-von dem Streitwert zulässig ist.
+bis 605a der Zivilprozeßordnung), über die Musterfeststellungsklage
+(§§ 606 bis 613 der Zivilprozessordnung), über die Entscheidung ohne
+mündliche Verhandlung (§ 128 Abs. 2 der Zivilprozeßordnung) und über
+die Verlegung von Terminen in der Zeit vom 1. Juli bis 31. August (§
+227 Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. §
+127 Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung,
+dass die sofortige Beschwerde bei Bestandsschutzstreitigkeiten
+unabhängig von dem Streitwert zulässig ist.
 
 
 ##### § 46a Mahnverfahren
@@ -1223,23 +1229,36 @@ von dem Streitwert zulässig ist.
 (1) Für das Mahnverfahren vor den Gerichten für Arbeitssachen gelten
 die Vorschriften der Zivilprozeßordnung über das Mahnverfahren
 einschließlich der maschinellen Bearbeitung entsprechend, soweit
-dieses Gesetz nichts anderes bestimmt. § 690 Abs. 3 Satz 2 der
+dieses Gesetz nichts anderes bestimmt. § 702 Absatz 2 Satz 2 der
 Zivilprozessordnung ist nicht anzuwenden.
 
 (2) Zuständig für die Durchführung des Mahnverfahrens ist das
 Arbeitsgericht, das für die im Urteilsverfahren erhobene Klage
-zuständig sein würde.
+zuständig sein würde. Die Landesregierungen werden ermächtigt, einem
+Arbeitsgericht durch Rechtsverordnung Mahnverfahren für die Bezirke
+mehrerer Arbeitsgerichte zuzuweisen. Die Zuweisung kann auf
+Mahnverfahren beschränkt werden, die maschinell bearbeitet werden. Die
+Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
+die jeweils zuständige oberste Landesbehörde übertragen. Mehrere
+Länder können die Zuständigkeit eines Arbeitsgerichts über die
+Landesgrenzen hinaus vereinbaren.
 
 (3) Die in den Mahnbescheid nach § 692 Abs. 1 Nr. 3 der
 Zivilprozeßordnung aufzunehmende Frist beträgt eine Woche.
 
 (4) Wird rechtzeitig Widerspruch erhoben und beantragt eine Partei die
-Durchführung der mündlichen Verhandlung, so hat die Geschäftsstelle
-dem Antragsteller unverzüglich aufzugeben, seinen Anspruch binnen zwei
-Wochen schriftlich zu begründen. Bei Eingang der Anspruchsbegründung
-bestimmt der Vorsitzende den Termin zur mündlichen Verhandlung. Geht
-die Anspruchsbegründung nicht rechtzeitig ein, so wird bis zu ihrem
-Eingang der Termin nur auf Antrag des Antragsgegners bestimmt.
+Durchführung der mündlichen Verhandlung, so gibt das Gericht, das den
+Mahnbescheid erlassen hat, den Rechtsstreit von Amts wegen an das
+Gericht ab, das in dem Mahnbescheid gemäß § 692 Absatz 1 Nummer 1 der
+Zivilprozessordnung bezeichnet worden ist. Verlangen die Parteien
+übereinstimmend die Abgabe an ein anderes als das im Mahnbescheid
+bezeichnete Gericht, erfolgt die Abgabe dorthin. Die Geschäftsstelle
+hat dem Antragsteller unverzüglich aufzugeben, seinen Anspruch binnen
+zwei Wochen schriftlich zu begründen. Bei Eingang der
+Anspruchsbegründung bestimmt der Vorsitzende den Termin zur mündlichen
+Verhandlung. Geht die Anspruchsbegründung nicht rechtzeitig ein, so
+wird bis zu ihrem Eingang der Termin nur auf Antrag des Antragsgegners
+bestimmt.
 
 (5) Die Streitsache gilt als mit Zustellung des Mahnbescheids
 rechtshängig geworden, wenn alsbald nach Erhebung des Widerspruchs
@@ -1267,6 +1286,8 @@ genommenen Partei Formulare einzuführen. Dabei können für
 Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten,
 und für Mahnverfahren bei Gerichten, die die Verfahren nicht
 maschinell bearbeiten, unterschiedliche Formulare eingeführt werden.
+Die Rechtsverordnung kann ein elektronisches Formular vorsehen; § 130c
+Satz 2 bis 4 der Zivilprozessordnung gilt entsprechend.
 
 
 ##### § 46b Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
@@ -1289,30 +1310,80 @@ Durchführung der mündlichen Verhandlung gilt als vom Antragsteller
 gestellt.
 
 
-##### § 46c Einreichung elektronischer Dokumente
+##### § 46c Elektronisches Dokument; Verordnungsermächtigung
 
-(1) Soweit für vorbereitende Schriftsätze und deren Anlagen, für
-Anträge und Erklärungen der Parteien sowie für Auskünfte, Aussagen,
-Gutachten und Erklärungen Dritter die Schriftform vorgesehen ist,
-genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn
-dieses für die Bearbeitung durch das Gericht geeignet ist. Die
-verantwortende Person soll das Dokument mit einer qualifizierten
-elektronischen Signatur nach dem Signaturgesetz versehen. Ist ein
-übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung
-nicht geeignet, ist dies dem Absender unter Angabe der geltenden
-technischen Rahmenbedingungen unverzüglich mitzuteilen.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Parteien sowie schriftlich
+einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und
+Erklärungen Dritter können nach Maßgabe der folgenden Absätze als
+elektronische Dokumente bei Gericht eingereicht werden.
 
-(2) Die Bundesregierung und die Landesregierungen bestimmen für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Dokumente bei den Gerichten eingereicht werden können, sowie die für
-die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen
-können die Ermächtigung durch Rechtsverordnung auf die jeweils
-zuständige oberste Landesbehörde übertragen. Die Zulassung der
-elektronischen Form kann auf einzelne Gerichte oder Verfahren
-beschränkt werden.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates technische
+Rahmenbedingungen für die Übermittlung und die Eignung zur Bearbeitung
+durch das Gericht.
 
-(3) Ein elektronisches Dokument ist eingereicht, sobald die für den
-Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden. Satz 1 gilt nicht für Anlagen,
+die vorbereitenden Schriftsätzen beigefügt sind.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
+    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+
+
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
+    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
+    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
+    Postfach und der elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts,
+
+
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und der elektronischen Poststelle des Gerichts,
+
+
+5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    der elektronischen Poststelle des Gerichts,
+
+
+6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+Das Nähere zu den Übermittlungswegen gemäß Satz 1 Nummer 3 bis 5
+regelt die Rechtsverordnung nach Absatz 2 Satz 2.
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs unverzüglich mitzuteilen. Das Dokument gilt
+als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der
+Absender es unverzüglich in einer für das Gericht zur Bearbeitung
+geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst
+eingereichten Dokument inhaltlich übereinstimmt.
 
 
 ##### § 46d Gerichtliches elektronisches Dokument
@@ -1322,10 +1393,13 @@ Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die
 handschriftliche Unterzeichnung vorschreibt, genügt dieser Form die
 Aufzeichnung als elektronisches Dokument, wenn die verantwortenden
 Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument
-mit einer qualifizierten elektronischen Signatur versehen.
+mit einer qualifizierten elektronischen Signatur versehen. Der in Satz
+1 genannten Form genügt auch ein elektronisches Dokument, in welches
+das handschriftlich unterzeichnete Schriftstück gemäß § 46e Absatz 2
+übertragen worden ist.
 
 
-##### § 46e Elektronische Akte
+##### § 46e Elektronische Akte; Verordnungsermächtigung
 
 (1) Die Prozessakten können elektronisch geführt werden. Die
 Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
@@ -1335,17 +1409,74 @@ Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
 elektronischen Akten. Die Landesregierungen können die Ermächtigung
 durch Rechtsverordnung auf die jeweils zuständige oberste
 Landesbehörde übertragen. Die Zulassung der elektronischen Akte kann
-auf einzelne Gerichte oder Verfahren beschränkt werden.
+auf einzelne Gerichte oder Verfahren beschränkt werden; wird von
+dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung
+bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
+bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten
+elektronisch zu führen sind.
 
-(2) In Papierform eingereichte Schriftstücke und sonstige Unterlagen
-sollen zur Ersetzung der Urschrift in ein elektronisches Dokument
-übertragen werden. Die Unterlagen sind, sofern sie in Papierform
-weiter benötigt werden, mindestens bis zum rechtskräftigen Abschluss
-des Verfahrens aufzubewahren.
+(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Aufbewahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+durch Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit
+zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
+der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Das elektronische Dokument muss den Vermerk enthalten, wann und
-durch wen die Unterlagen in ein elektronisches Dokument übertragen
-worden sind.
+(2) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
+
+
+##### § 46f Formulare; Verordnungsermächtigung
+
+Das Bundesministerium für Arbeit und Soziales kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 46c Absatz 3 auch durch Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz
+5 des Aufenthaltsgesetzes erfolgen kann.
+
+
+##### § 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen
+
+Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich
+einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt,
+durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen
+Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als
+elektronisches Dokument zu übermitteln. Gleiches gilt für die nach
+diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer
+Übermittlungsweg nach § 46c Absatz 4 Satz 1 Nummer 2 zur Verfügung
+steht. Ist eine Übermittlung aus technischen Gründen vorübergehend
+nicht möglich, bleibt die Übermittlung nach den allgemeinen
+Vorschriften zulässig. Die vorübergehende Unmöglichkeit ist bei der
+Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf
+Anforderung ist ein elektronisches Dokument nachzureichen.
 
 
 ##### § 47 Sondervorschriften über Ladung und Einlassung \*)
@@ -1428,9 +1559,9 @@ beschlußunfähig, so entscheidet das Landesarbeitsgericht.
 Übermittlung an die Geschäftsstelle zugestellt. § 317 Abs. 1 Satz 3
 der Zivilprozeßordnung ist nicht anzuwenden.
 
-(2) Die §§ 174, 178 Abs. 1 Nr. 2 der Zivilprozessordnung sind auf die
-nach § 11 zur Prozessvertretung zugelassenen Personen entsprechend
-anzuwenden.
+(2) Die §§ 173, 175 und 178 Absatz 1 Nummer 2 der Zivilprozessordnung
+sind auf die nach § 11 zur Prozessvertretung zugelassenen Personen
+entsprechend anzuwenden.
 
 (3) (weggefallen)
 
@@ -1462,8 +1593,9 @@ weil Betriebs-, Geschäfts- oder Erfindungsgeheimnisse zum Gegenstand
 der Verhandlung oder der Beweisaufnahme gemacht werden; außerdem ist §
 171b des Gerichtsverfassungsgesetzes entsprechend anzuwenden. Im
 Güteverfahren kann es die Öffentlichkeit auch aus
-Zweckmäßigkeitsgründen ausschließen. § 169 Satz 2 sowie die §§ 173 bis
-175 des Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
+Zweckmäßigkeitsgründen ausschließen. § 169 Absatz 1 Satz 2 bis 5,
+Absatz 2 und 4 sowie die §§ 173 bis 175 des
+Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
 
 ##### § 53 Befugnisse des Vorsitzenden und der ehrenamtlichen Richter
@@ -1498,7 +1630,7 @@ Satz 1 und § 282 Abs. 3 Satz 1 der Zivilprozeßordnung sind nicht
 anzuwenden.
 
 (3) Das Ergebnis der Güteverhandlung, insbesondere der Abschluß eines
-Vergleichs, ist in die Niederschrift aufzunehmen.
+Vergleichs, ist in das Protokoll aufzunehmen.
 
 (4) Erscheint eine Partei in der Güteverhandlung nicht oder ist die
 Güteverhandlung erfolglos, schließt sich die weitere Verhandlung
@@ -1512,6 +1644,27 @@ Partei ist Termin zur streitigen Verhandlung zu bestimmen. Dieser
 Antrag kann nur innerhalb von sechs Monaten nach der Güteverhandlung
 gestellt werden. Nach Ablauf der Frist ist § 269 Abs. 3 bis 5 der
 Zivilprozeßordnung entsprechend anzuwenden.
+
+(6) Der Vorsitzende kann die Parteien für die Güteverhandlung sowie
+deren Fortsetzung vor einen hierfür bestimmten und nicht
+entscheidungsbefugten Richter (Güterichter) verweisen. Der Güterichter
+kann alle Methoden der Konfliktbeilegung einschließlich der Mediation
+einsetzen.
+
+
+##### § 54a Mediation, außergerichtliche Konfliktbeilegung
+
+(1) Das Gericht kann den Parteien eine Mediation oder ein anderes
+Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
+
+(2) Entscheiden sich die Parteien zur Durchführung einer Mediation
+oder eines anderen Verfahrens der außergerichtlichen
+Konfliktbeilegung, ordnet das Gericht das Ruhen des Verfahrens an. Auf
+Antrag einer Partei ist Termin zur mündlichen Verhandlung zu
+bestimmen. Im Übrigen nimmt das Gericht das Verfahren nach drei
+Monaten wieder auf, es sei denn, die Parteien legen übereinstimmend
+dar, dass eine Mediation oder eine außergerichtliche Konfliktbeilegung
+noch betrieben wird.
 
 
 ##### § 55 Alleinentscheidung durch den Vorsitzenden
@@ -1544,7 +1697,7 @@ allein
 7.  über die örtliche Zuständigkeit;
 
 
-8.  über die Aussetzung des Verfahrens;
+8.  über die Aussetzung und Anordnung des Ruhens des Verfahrens;
 
 
 9.  wenn nur noch über die Kosten zu entscheiden ist;
@@ -1568,7 +1721,7 @@ mit Zustimmung der Parteien auch in dem Fall des Absatzes 1 Nr. 2.
 Verhandlung, die sich unmittelbar an die Güteverhandlung anschließt,
 eine das Verfahren beendende Entscheidung ergehen kann und die
 Parteien übereinstimmend eine Entscheidung durch den Vorsitzenden
-beantragen; der Antrag ist in die Niederschrift aufzunehmen.
+beantragen; der Antrag ist in das Protokoll aufzunehmen.
 
 (4) Der Vorsitzende kann vor der streitigen Verhandlung einen
 Beweisbeschluß erlassen, soweit er anordnet
@@ -1656,13 +1809,18 @@ der Zivilprozeßordnung ist die eidesstattliche Versicherung nur
 erforderlich, wenn die Kammer sie aus dem gleichen Grund für notwendig
 hält.
 
+(3) Insbesondere über die Zahl der in einem Arbeitsverhältnis
+stehenden Mitglieder oder das Vertretensein einer Gewerkschaft in
+einem Betrieb kann Beweis auch durch die Vorlegung öffentlicher
+Urkunden angetreten werden.
+
 
 ##### § 59 Versäumnisverfahren
 
 Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil
 ergangen ist, binnen einer Notfrist von einer Woche nach seiner
 Zustellung Einspruch einlegen. Der Einspruch wird beim Arbeitsgericht
-schriftlich oder durch Abgabe einer Erklärung zur Niederschrift der
+schriftlich oder durch Abgabe einer Erklärung zu Protokoll der
 Geschäftsstelle eingelegt. Hierauf ist die Partei zugleich mit der
 Zustellung des Urteils schriftlich hinzuweisen. § 345 der
 Zivilprozeßordnung bleibt unberührt.
@@ -1791,7 +1949,9 @@ Arrests und der einstweiligen Verfügung die Vorschriften des Achten
 Buchs der Zivilprozeßordnung Anwendung. Die Entscheidung über den
 Antrag auf Erlaß einer einstweiligen Verfügung kann in dringenden
 Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche
-Verhandlung ergehen.
+Verhandlung ergehen. Eine in das Schutzschriftenregister nach § 945a
+Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch
+als bei allen Arbeitsgerichten der Länder eingereicht.
 
 
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen
@@ -1888,15 +2048,17 @@ dieses Gesetz nichts anderes bestimmt, die Vorschriften der
 Zivilprozeßordnung über die Berufung entsprechend. Die Vorschriften
 über das Verfahren vor dem Einzelrichter finden keine Anwendung.
 
-(7) Die Vorschriften des § 49 Abs. 1 und 3, des § 50, des § 51 Abs. 1,
-der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4, der §§ 56 bis 59,
-61 Abs. 2 und 3 und der §§ 62 und 63 über Ablehnung von
+(7) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1 und 3, des § 50,
+des § 51 Abs. 1, der §§ 52, 53, 55 Abs. 1 Nr. 1 bis 9, Abs. 2 und 4,
+des § 54 Absatz 6, des § 54a, der §§ 56 bis 59, 61 Abs. 2 und 3 und
+der §§ 62 und 63 über den elektronischen Rechtsverkehr, Ablehnung von
 Gerichtspersonen, Zustellungen, persönliches Erscheinen der Parteien,
 Öffentlichkeit, Befugnisse des Vorsitzenden und der ehrenamtlichen
-Richter, Vorbereitung der streitigen Verhandlung, Verhandlung vor der
-Kammer, Beweisaufnahme, Versäumnisverfahren, Inhalt des Urteils,
-Zwangsvollstreckung und Übersendung von Urteilen in
-Tarifvertragssachen gelten entsprechend.
+Richter, Güterichter, Mediation und außergerichtliche
+Konfliktbeilegung, Vorbereitung der streitigen Verhandlung,
+Verhandlung vor der Kammer, Beweisaufnahme, Versäumnisverfahren,
+Inhalt des Urteils, Zwangsvollstreckung und Übersendung von Urteilen
+in Tarifvertragssachen gelten entsprechend.
 
 (8) Berufungen in Rechtsstreitigkeiten über das Bestehen, das
 Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind
@@ -1968,11 +2130,6 @@ Erledigung des Rechtsstreits nicht verzögern würde oder nicht auf
 Verschulden der Partei beruht.
 
 
-##### § 67a
-
--
-
-
 ##### § 68 Zurückverweisung
 
 Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die
@@ -2008,14 +2165,12 @@ wenn die Parteien auf sie verzichtet haben; im Übrigen sind die §§
 313a und 313b der Zivilprozessordnung entsprechend anwendbar.
 
 
-##### § 70
-
-(aufgehoben)
+##### § 70 (weggefallen)
 
 
-##### § 71
 
-(weggefallen)
+##### § 71 (weggefallen)
+
 
 
 #### Dritter Unterabschnitt - Revisionsverfahren
@@ -2064,12 +2219,15 @@ dieses Gesetz nichts anderes bestimmt, die Vorschriften der
 Zivilprozeßordnung über die Revision mit Ausnahme des § 566
 entsprechend.
 
-(6) Die Vorschriften des § 49 Abs. 1, der §§ 50, 52 und 53, des § 57
-Abs. 2, des § 61 Abs. 2 und des § 63 über Ablehnung von
-Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des
-Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des
-Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in
-Tarifvertragssachen gelten entsprechend.
+(6) Die Vorschriften der §§ 46c bis 46g, 49 Abs. 1, der §§ 50, 52 und
+53, des § 57 Abs. 2, des § 61 Abs. 2 und des § 63 dieses Gesetzes über
+den elektronischen Rechtsverkehr, Ablehnung von Gerichtspersonen,
+Zustellung, Öffentlichkeit, Befugnisse des Vorsitzenden und der
+ehrenamtlichen Richter, gütliche Erledigung des Rechtsstreits sowie
+Inhalt des Urteils und Übersendung von Urteilen in Tarifvertragssachen
+und des § 169 Absatz 3 und 4 des Gerichtsverfassungsgesetzes über die
+Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen bei
+der Entscheidungsverkündung gelten entsprechend.
 
 
 ##### § 72a Nichtzulassungsbeschwerde
@@ -2269,12 +2427,14 @@ Arbeitsgerichts unverzüglich Nachricht zu geben.
 ##### § 77 Revisionsbeschwerde
 
 Gegen den Beschluss des Landesarbeitsgerichts, der die Berufung als
-unzulässig verwirft, findet die Rechtsbeschwerde nur statt, wenn das
-Landesarbeitsgericht sie in dem Beschluss zugelassen hat. Für die
-Zulassung der Rechtsbeschwerde gilt § 72 Abs. 2 entsprechend. Über die
-Rechtsbeschwerde entscheidet das Bundesarbeitsgericht ohne Zuziehung
-der ehrenamtlichen Richter. Die Vorschriften der Zivilprozessordnung
-über die Rechtsbeschwerde gelten entsprechend.
+unzulässig verwirft, findet die Revisionsbeschwerde statt, wenn das
+Landesarbeitsgericht sie in dem Beschluss oder das
+Bundesarbeitsgericht sie zugelassen hat. Für die Zulassung der
+Revisionsbeschwerde gelten § 72 Absatz 2 und § 72a entsprechend. Über
+die Nichtzulassungsbeschwerde und die Revisionsbeschwerde entscheidet
+das Bundesarbeitsgericht ohne Hinzuziehung der ehrenamtlichen Richter.
+Die Vorschriften der Zivilprozessordnung über die Rechtsbeschwerde
+gelten entsprechend.
 
 
 #### Vierter Unterabschnitt - Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
@@ -2380,19 +2540,12 @@ ausschließen, gestützt werden.
 (1) Das Beschlußverfahren findet in den in § 2a bezeichneten Fällen
 Anwendung.
 
-(2) Für das Beschlußverfahren des ersten Rechtszugs gelten die für das
+(2) Für das Beschlussverfahren des ersten Rechtszugs gelten die für
+das Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften
+entsprechend, soweit sich aus den §§ 81 bis 84 nichts anderes ergibt.
+Der Vorsitzende kann ein Güteverfahren ansetzen; die für das
 Urteilsverfahren des ersten Rechtszugs maßgebenden Vorschriften über
-Prozeßfähigkeit, Prozeßvertretung, Ladungen, Termine und Fristen,
-Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen,
-persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des
-Vorsitzenden und der ehrenamtlichen Richter, Vorbereitung der
-streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme,
-gütliche Erledigung des Verfahrens, Wiedereinsetzung in den vorigen
-Stand und Wiederaufnahme des Verfahrens entsprechend; soweit sich aus
-den §§ 81 bis 84 nichts anderes ergibt. Der Vorsitzende kann ein
-Güteverfahren ansetzen; die für das Urteilsverfahren des ersten
-Rechtszugs maßgebenden Vorschriften über das Güteverfahren gelten
-entsprechend.
+das Güteverfahren gelten entsprechend.
 
 (3) § 48 Abs. 1 findet entsprechende Anwendung.
 
@@ -2401,7 +2554,7 @@ entsprechend.
 
 (1) Das Verfahren wird nur auf Antrag eingeleitet; der Antrag ist bei
 dem Arbeitsgericht schriftlich einzureichen oder bei seiner
-Geschäftsstelle mündlich zur Niederschrift anzubringen.
+Geschäftsstelle mündlich zu Protokoll anzubringen.
 
 (2) Der Antrag kann jederzeit in derselben Form zurückgenommen werden.
 In diesem Fall ist das Verfahren vom Vorsitzenden des Arbeitsgerichts
@@ -2483,12 +2636,12 @@ und der Augenschein eingenommen werden.
 Stellen zu hören, die nach dem Betriebsverfassungsgesetz, dem
 Sprecherausschussgesetz, dem Mitbestimmungsgesetz, dem
 Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz, den §§
-94, 95, 139 des Neunten Buches Sozialgesetzbuch, dem § 18a des
+177, 178 und 222 des Neunten Buches Sozialgesetzbuch, dem § 18a des
 Berufsbildungsgesetzes und den zu diesen Gesetzen ergangenen
 Rechtsverordnungen sowie nach dem Gesetz über Europäische
 Betriebsräte, dem SE-Beteiligungsgesetz, dem SCE-Beteiligungsgesetz
 und dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
-grenzüberschreitenden Verschmelzung im einzelnen Fall  beteiligt sind.
+grenzüberschreitenden Verschmelzung im einzelnen Fall beteiligt sind.
 
 (4) Die Beteiligten können sich schriftlich äußern. Bleibt ein
 Beteiligter auf Ladung unentschuldigt aus, so ist der Pflicht zur
@@ -2503,9 +2656,10 @@ Vorsitzenden findet die Beschwerde nach Maßgabe des § 78 statt.
 ##### § 83a Vergleich, Erledigung des Verfahrens
 
 (1) Die Beteiligten können, um das Verfahren ganz oder zum Teil zu
-erledigen, zur Niederschrift des Gerichts oder des Vorsitzenden einen
-Vergleich schließen, soweit sie über den Gegenstand des Vergleichs
-verfügen können, oder das Verfahren für erledigt erklären.
+erledigen, zu Protokoll des Gerichts oder des Vorsitzenden oder des
+Güterichters einen Vergleich schließen, soweit sie über den Gegenstand
+des Vergleichs verfügen können, oder das Verfahren für erledigt
+erklären.
 
 (2) Haben die Beteiligten das Verfahren für erledigt erklärt, so ist
 es vom Vorsitzenden des Arbeitsgerichts einzustellen. § 81 Abs. 2 Satz
@@ -2548,12 +2702,14 @@ Zivilprozeßordnung über die einstweilige Verfügung entsprechend mit
 der Maßgabe, daß die Entscheidungen durch Beschluß der Kammer ergehen,
 erforderliche Zustellungen von Amts wegen erfolgen und ein Anspruch
 auf Schadensersatz nach § 945 der Zivilprozeßordnung in
-Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht.
+Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht. Eine in
+das Schutzschriftenregister nach § 945a Absatz 1 der
+Zivilprozessordnung eingestellte Schutzschrift gilt auch als bei allen
+Arbeitsgerichten der Länder eingereicht.
 
 
-##### § 86
+##### § 86 (weggefallen)
 
-(weggefallen)
 
 
 #### Zweiter Unterabschnitt - Zweiter Rechtszug
@@ -2566,19 +2722,12 @@ Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht.
 findet die Beschwerde an das Landesarbeitsgericht statt.
 
 (2) Für das Beschwerdeverfahren gelten die für das Berufungsverfahren
-maßgebenden Vorschriften über die Einlegung der Berufung und ihre
-Begründung, über Prozeßfähigkeit, Ladungen, Termine und Fristen,
-Ablehnung und Ausschließung von Gerichtspersonen, Zustellungen,
-persönliches Erscheinen der Parteien, Öffentlichkeit, Befugnisse des
-Vorsitzenden und der ehrenamtlichen Richter, Vorbereitung der
-streitigen Verhandlung, Verhandlung vor der Kammer, Beweisaufnahme,
-gütliche Erledigung des Rechtsstreits, Wiedereinsetzung in den vorigen
-Stand und Wiederaufnahme des Verfahrens sowie die Vorschriften des §
-85 über die Zwangsvollstreckung entsprechend. Für die Vertretung der
-Beteiligten gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann
-jederzeit mit Zustimmung der anderen Beteiligten zurückgenommen
-werden; § 81 Abs. 2 Satz 2 und 3 und Absatz 3 ist entsprechend
-anzuwenden.
+maßgebenden Vorschriften sowie die Vorschrift des § 85 über die
+Zwangsvollstreckung entsprechend, soweit sich aus den §§ 88 bis 91
+nichts anderes ergibt. Für die Vertretung der Beteiligten gilt § 11
+Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit
+Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2
+Satz 2 und 3 und Absatz 3 ist entsprechend anzuwenden.
 
 (3) In erster Instanz zu Recht zurückgewiesenes Vorbringen bleibt
 ausgeschlossen. Neues Vorbringen, das im ersten Rechtszug entgegen
@@ -2636,13 +2785,12 @@ ist.
 (1) Die Beschwerdeschrift und die Beschwerdebegründung werden den
 Beteiligten zur Äußerung zugestellt. Die Äußerung erfolgt durch
 Einreichung eines Schriftsatzes beim Beschwerdegericht oder durch
-Erklärung zur Niederschrift der Geschäftsstelle des Arbeitsgerichts,
-das den angefochtenen Beschluß erlassen hat.
+Erklärung zu Protokoll der Geschäftsstelle des Arbeitsgerichts, das
+den angefochtenen Beschluß erlassen hat.
 
 (2) Für das Verfahren sind die §§ 83 und 83a entsprechend anzuwenden.
 
-(3) Gegen Beschlüsse und Verfügungen des Landesarbeitsgerichts oder
-seines Vorsitzenden findet kein Rechtsmittel statt.
+(3) (weggefallen)
 
 
 ##### § 91 Entscheidung
@@ -2671,18 +2819,12 @@ ist entsprechend anzuwenden. In den Fällen des § 85 Abs. 2 findet die
 Rechtsbeschwerde nicht statt.
 
 (2) Für das Rechtsbeschwerdeverfahren gelten die für das
-Revisionsverfahren maßgebenden Vorschriften über Einlegung der
-Revision und ihre Begründung, Prozeßfähigkeit, Ladung, Termine und
-Fristen, Ablehnung und Ausschließung von Gerichtspersonen,
-Zustellungen, persönliches Erscheinen der Parteien, Öffentlichkeit,
-Befugnisse des Vorsitzenden und der Beisitzer, gütliche Erledigung des
-Rechtsstreits, Wiedereinsetzung in den vorigen Stand und
-Wiederaufnahme des Verfahrens sowie die Vorschriften des § 85 über die
-Zwangsvollstreckung entsprechend, soweit sich aus den §§ 93 bis 96
-nichts anderes ergibt. Für die Vertretung der Beteiligten gilt § 11
-Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit mit
-Zustimmung der anderen Beteiligten zurückgenommen werden; § 81 Abs. 2
-Satz 2 und 3 ist entsprechend anzuwenden.
+Revisionsverfahren maßgebenden Vorschriften sowie die Vorschrift des §
+85 über die Zwangsvollstreckung entsprechend, soweit sich aus den §§
+93 bis 96 nichts anderes ergibt. Für die Vertretung der Beteiligten
+gilt § 11 Abs. 1 bis 3 und 5 entsprechend. Der Antrag kann jederzeit
+mit Zustimmung der anderen Beteiligten zurückgenommen werden; § 81
+Abs. 2 Satz 2 und 3 ist entsprechend anzuwenden.
 
 (3) Die Einlegung der Rechtsbeschwerde hat aufschiebende Wirkung. § 85
 Abs. 1 Satz 2 bleibt unberührt.
@@ -2740,11 +2882,11 @@ worden ist.
 Die Rechtsbeschwerdeschrift und die Rechtsbeschwerdebegründung werden
 den Beteiligten zur Äußerung zugestellt. Die Äußerung erfolgt durch
 Einreichung eines Schriftsatzes beim Bundesarbeitsgericht oder durch
-Erklärung zur Niederschrift der Geschäftsstelle des
-Landesarbeitsgerichts, das den angefochtenen Beschluß erlassen hat.
-Geht von einem Beteiligten die Äußerung nicht rechtzeitig ein, so
-steht dies dem Fortgang des Verfahrens nicht entgegen. § 83a ist
-entsprechend anzuwenden.
+Erklärung zu Protokoll der Geschäftsstelle des Landesarbeitsgerichts,
+das den angefochtenen Beschluß erlassen hat. Geht von einem
+Beteiligten die Äußerung nicht rechtzeitig ein, so steht dies dem
+Fortgang des Verfahrens nicht entgegen. § 83a ist entsprechend
+anzuwenden.
 
 
 ##### § 96 Entscheidung
@@ -2779,7 +2921,7 @@ Rechtsbeschwerdeschrift, andernfalls dem Antrag beizufügen.
 
 
 
-##### § 97 Entscheidung über die Tariffähigkeit und Tarifzuständigkeit einer Vereinigung
+##### § 97 Entscheidung über die Tariffähigkeit oder Tarifzuständigkeit einer Vereinigung
 
 (1) In den Fällen des § 2a Abs. 1 Nr. 4 wird das Verfahren auf Antrag
 einer räumlich und sachlich zuständigen Vereinigung von Arbeitnehmern
@@ -2787,16 +2929,25 @@ oder von Arbeitgebern oder der obersten Arbeitsbehörde des Bundes oder
 der obersten Arbeitsbehörde eines Landes, auf dessen Gebiet sich die
 Tätigkeit der Vereinigung erstreckt, eingeleitet.
 
-(2) Für das Verfahren sind die §§ 80 bis 84, 87 bis 96a entsprechend
-anzuwenden.
+(2) Für Verfahren nach § 2a Absatz 1 Nummer 4 ist das
+Landesarbeitsgericht zuständig, in dessen Bezirk die Vereinigung, über
+deren Tariffähigkeit oder Tarifzuständigkeit zu entscheiden ist, ihren
+Sitz hat.
 
-(3) Die Vorschrift des § 63 über die Übersendung von Urteilen gilt
+(2a) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§
+81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 91 Absatz 2
+und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der
+Beteiligten gilt § 11 Absatz 4 und 5 entsprechend.
+
+(3) Der rechtskräftige Beschluss über die Tariffähigkeit oder
+Tarifzuständigkeit einer Vereinigung wirkt für und gegen jedermann.
+Die Vorschrift des § 63 über die Übersendung von Urteilen gilt
 entsprechend für die rechtskräftigen Beschlüsse von Gerichten für
 Arbeitssachen im Verfahren nach § 2a Abs. 1 Nr. 4.
 
 (4) In den Fällen des § 2a Abs. 1 Nr. 4 findet eine Wiederaufnahme des
 Verfahrens auch dann statt, wenn die Entscheidung über die
-Tariffähigkeit und Tarifzuständigkeit darauf beruht, daß ein
+Tariffähigkeit oder Tarifzuständigkeit darauf beruht, daß ein
 Beteiligter absichtlich unrichtige Angaben oder Aussagen gemacht hat.
 § 581 der Zivilprozeßordnung findet keine Anwendung.
 
@@ -2808,7 +2959,104 @@ Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlußverfahren
 nach § 2a Abs. 1 Nr. 4 antragsberechtigt.
 
 
-##### § 98 Entscheidung über die Besetzung der Einigungsstelle
+##### § 98 Entscheidung über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer Rechtsverordnung
+
+(1) In den Fällen des § 2a Absatz 1 Nummer 5 wird das Verfahren
+eingeleitet auf Antrag
+
+1.  jeder natürlichen oder juristischen Person oder
+
+
+2.  einer Gewerkschaft oder einer Vereinigung von Arbeitgebern,
+
+
+
+die nach Bekanntmachung der Allgemeinverbindlicherklärung oder der
+Rechtsverordnung geltend macht, durch die
+Allgemeinverbindlicherklärung oder die Rechtsverordnung oder deren
+Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit
+verletzt zu werden.
+
+(2) Für Verfahren nach § 2a Absatz 1 Nummer 5 ist das
+Landesarbeitsgericht zuständig, in dessen Bezirk die Behörde ihren
+Sitz hat, die den Tarifvertrag für allgemeinverbindlich erklärt hat
+oder die Rechtsverordnung erlassen hat.
+
+(3) Für das Verfahren sind § 80 Absatz 1, 2 Satz 1 und Absatz 3, §§
+81, 83 Absatz 1 und 2 bis 4, §§ 83a, 84 Satz 1 und 2, § 91 Absatz 2
+und §§ 92 bis 96 entsprechend anzuwenden. Für die Vertretung der
+Beteiligten gilt § 11 Absatz 4 und 5 entsprechend. In dem Verfahren
+ist die Behörde, die den Tarifvertrag für allgemeinverbindlich erklärt
+hat oder die Rechtsverordnung erlassen hat, Beteiligte.
+
+(4) Der rechtskräftige Beschluss über die Wirksamkeit einer
+Allgemeinverbindlicherklärung oder einer Rechtsverordnung wirkt für
+und gegen jedermann. Rechtskräftige Beschlüsse von Gerichten für
+Arbeitssachen im Verfahren nach § 2a Absatz 1 Nummer 5 sind alsbald
+der obersten Arbeitsbehörde des Bundes in vollständiger Form
+abschriftlich zu übersenden oder elektronisch zu übermitteln. Soweit
+eine Allgemeinverbindlicherklärung oder eine Rechtsverordnung
+rechtskräftig als wirksam oder unwirksam festgestellt wird, ist die
+Entscheidungsformel durch die oberste Arbeitsbehörde des Bundes im
+Bundesanzeiger bekannt zu machen.
+
+(5) In den Fällen des § 2a Absatz 1 Nummer 5 findet eine
+Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung
+über die Wirksamkeit einer Allgemeinverbindlicherklärung oder einer
+Rechtsverordnung darauf beruht, dass ein Beteiligter absichtlich
+unrichtige Angaben oder Aussagen gemacht hat. § 581 der
+Zivilprozessordnung findet keine Anwendung.
+
+(6) Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine
+Allgemeinverbindlicherklärung oder eine Rechtsverordnung wirksam ist
+und hat das Gericht ernsthafte Zweifel nichtverfassungsrechtlicher Art
+an der Wirksamkeit der Allgemeinverbindlicherklärung oder der
+Rechtsverordnung, so hat das Gericht das Verfahren bis zur Erledigung
+des Beschlussverfahrens nach § 2a Absatz 1 Nummer 5 auszusetzen. Setzt
+ein Gericht für Arbeitssachen nach Satz 1 einen Rechtsstreit über den
+Leistungsanspruch einer gemeinsamen Einrichtung aus, hat das Gericht
+auf deren Antrag den Beklagten zur vorläufigen Leistung zu
+verpflichten. Die Anordnung unterbleibt, wenn das Gericht die
+Allgemeinverbindlicherklärung oder die Rechtsverordnung nach dem
+bisherigen Sach- und Streitstand für offensichtlich unwirksam hält
+oder der Beklagte glaubhaft macht, dass die vorläufige
+Leistungspflicht ihm einen nicht zu ersetzenden Nachteil bringen
+würde. Auf die Entscheidung über die vorläufige Leistungspflicht
+finden die Vorschriften über die Aussetzung entsprechend Anwendung;
+die Entscheidung ist ein Vollstreckungstitel gemäß § 794 Absatz 1
+Nummer 3 der Zivilprozessordnung. Auch außerhalb eines
+Beschwerdeverfahrens können die Parteien die Änderung oder Aufhebung
+der Entscheidung über die vorläufige Leistungspflicht wegen
+veränderter oder im ursprünglichen Verfahren ohne Verschulden nicht
+geltend gemachter Umstände beantragen. Ergeht nach Aufnahme des
+Verfahrens eine Entscheidung, gilt § 717 der Zivilprozessordnung
+entsprechend. Im Falle des Satzes 1 sind die Parteien des
+Rechtsstreits auch im Beschlussverfahren nach § 2a Absatz 1 Nummer 5
+antragsberechtigt.
+
+
+##### § 99 Entscheidung über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag
+
+(1) In den Fällen des § 2a Absatz 1 Nummer 6 wird das Verfahren auf
+Antrag einer Tarifvertragspartei eines kollidierenden Tarifvertrags
+eingeleitet.
+
+(2) Für das Verfahren sind die §§ 80 bis 82 Absatz 1 Satz 1, die §§ 83
+bis 84 und 87 bis 96a entsprechend anzuwenden.
+
+(3) Der rechtskräftige Beschluss über den nach § 4a Absatz 2 Satz 2
+des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag wirkt
+für und gegen jedermann.
+
+(4) In den Fällen des § 2a Absatz 1 Nummer 6 findet eine
+Wiederaufnahme des Verfahrens auch dann statt, wenn die Entscheidung
+über den nach § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im
+Betrieb anwendbaren Tarifvertrag darauf beruht, dass ein Beteiligter
+absichtlich unrichtige Angaben oder Aussagen gemacht hat. § 581 der
+Zivilprozessordnung findet keine Anwendung.
+
+
+##### § 100 Entscheidung über die Besetzung der Einigungsstelle
 
 (1) In den Fällen des § 76 Abs. 2 Satz 2 und 3 des
 Betriebsverfassungsgesetzes entscheidet der Vorsitzende allein. Wegen
@@ -2834,16 +3082,6 @@ Kammer des Landesarbeitsgericht der Vorsitzende tritt. Gegen dessen
 Entscheidungen findet kein Rechtsmittel statt.
 
 
-##### § 99
-
-(weggefallen)
-
-
-##### § 100
-
-(weggefallen)
-
-
 ## Vierter Teil - Schiedsvertrag in Arbeitsstreitigkeiten
 
 
@@ -2862,9 +3100,8 @@ das sich nach einem Tarifvertrag bestimmt, können die Parteien des
 Tarifvertrags die Arbeitsgerichtsbarkeit im Tarifvertrag durch die
 ausdrückliche Vereinbarung ausschließen, daß die Entscheidung durch
 ein Schiedsgericht erfolgen soll, wenn der persönliche Geltungsbereich
-des Tarifvertrags überwiegend Bühnenkünstler, Filmschaffende, Artisten
-oder Kapitäne und Besatzungsmitglieder im Sinne der §§ 2 und 3 des
-Seemannsgesetzes umfaßt. Die Vereinbarung gilt nur für tarifgebundene
+des Tarifvertrags überwiegend Bühnenkünstler, Filmschaffende oder
+Artisten umfaßt. Die Vereinbarung gilt nur für tarifgebundene
 Personen. Sie erstreckt sich auf Parteien, deren Verhältnisse sich aus
 anderen Gründen nach dem Tarifvertrag regeln, wenn die Parteien dies
 ausdrücklich und schriftlich vereinbart haben; der Mangel der Form
@@ -3094,29 +3331,35 @@ Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§
 107 und 109 gelten entsprechend.
 
 
-### § 112
+### § 112 Übergangsregelungen
 
-(weggefallen)
+(1) Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum
+Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in
+der an diesem Tag geltenden Fassung bis zum Abschluss des Verfahrens
+durch einen rechtskräftigen Beschluss fort.
 
-
-### § 113
-
-(weggefallen)
-
-
-### § 114
-
-(weggefallen)
+(2) § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
+entsprechend.
 
 
-### § 115
+### § 113 Berichterstattung
 
-(weggefallen)
+Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 8.
+September 2020 über die Auswirkungen der vorläufigen Leistungspflicht
+nach § 98 Absatz 6 Satz 2 und gibt eine Einschätzung dazu ab, ob die
+Regelung fortbestehen soll.
 
 
-### § 116
+### § 114 (weggefallen)
 
-(weggefallen)
+
+
+### § 115 (weggefallen)
+
+
+
+### § 116 (weggefallen)
+
 
 
 ### § 117 Verfahren bei Meinungsverschiedenheiten der beteiligten Verwaltungen
@@ -3125,42 +3368,22 @@ Soweit in den Fällen der §§ 40 und 41 das Einvernehmen nicht erzielt
 wird, entscheidet die Bundesregierung.
 
 
-### § 118
-
-(weggefallen)
+### § 118 (weggefallen)
 
 
-### § 119
 
-(weggefallen)
-
-
-### § 120
-
-(weggefallen)
+### § 119 (weggefallen)
 
 
-### § 121
 
-(weggefallen)
-
-
-### § 121a
-
-(weggefallen)
+### § 120 (weggefallen)
 
 
-### § 122
 
-(weggefallen)
-
-
-### Anlage 1
-
-(weggefallen)
+### § 121 (weggefallen)
 
 
-### Anlage 2
 
-(weggefallen)
+### § 122 (weggefallen)
+
 

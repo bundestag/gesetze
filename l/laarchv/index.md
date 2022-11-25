@@ -236,9 +236,8 @@ Der Bundesminister des Innern
 
 ## Anlage 1 (zu § 6 Abs. 1)
 
-(Inhalt: nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 1988, 163)
-
+(Fundstelle: BGBl. I 1988, 163)
+![bgbl1_1988_j0163_0010.jpg](bgbl1_1988_j0163_0010.jpg)
 (zu § 6 Abs. 2)
 
 ## Anlage 2 Abgabeliste für negativ beschiedene oder sonstwie abgeschlossene FG-Akten

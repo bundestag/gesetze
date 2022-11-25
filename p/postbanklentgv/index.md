@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Gewährung von Leistungsentgelten an Beamtinnen und Beamte bei
-  der Deutschen Postbank AG
+Title: Postbankleistungsentgeltverordnung
 jurabk: PostbankLEntgV
 layout: default
 origslug: postbanklentgv
@@ -8,13 +7,16 @@ slug: postbanklentgv
 
 ---
 
-# Verordnung zur Gewährung von Leistungsentgelten an Beamtinnen und Beamte bei der Deutschen Postbank AG (PostbankLEntgV)
+# Postbankleistungsentgeltverordnung (PostbankLEntgV)
 
 Ausfertigungsdatum
 :   2007-12-13
 
 Fundstelle
 :   BGBl I: 2007, 2938
+
+Zuletzt geändert durch
+:   Art. 1 V v. 24.6.2020 I 1532
 
 
 ## Eingangsformel
@@ -30,19 +32,15 @@ Bundesministerium des Innern:
 ## § 1 Persönlicher Geltungsbereich, leistungsbezogene Entgelte
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
-Postbank AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
-leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden. Daneben
-können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
-der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
-1833), die zuletzt durch § 14 Satz 2 der Verordnung vom 12. Dezember
-2005 (BGBl. I S. 3475) geändert worden ist, gewährt werden.
+Bank AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
+leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
 
-(1) Das Leistungsentgelt nach § 1 Satz 1 wird als Jahresbetrag für
-erzielte Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe
-wird auf der Grundlage der Zielbewertung nach § 5 oder einer
+(1) Das Leistungsentgelt nach § 1 wird als Jahresbetrag für erzielte
+Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe wird auf
+der Grundlage der Zielbewertung nach § 5 oder einer
 Leistungsbeurteilung nach § 7 ermittelt.
 
 (2) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat Mai
@@ -53,27 +51,33 @@ Leistungsentgelt wird nicht auf die Besoldung angerechnet.
 
 ## § 3 Leistungsbudget
 
-(1) In jedem Vorstandsressort wird für jede Laufbahngruppe ein
-Leistungsbudget ermittelt, das 60 Prozent der Summe aller monatlichen
-Endgrundgehälter und Grundgehälter der zu der jeweiligen
+(1) Für jede Laufbahngruppe mit Ausnahme derjenigen im Filialvertrieb
+wird ein Leistungsbudget ermittelt, das 60 Prozent der Summe aller
+monatlichen Endgrundgehälter und Grundgehälter der zu der jeweiligen
 Laufbahngruppe gehörenden Beamtinnen und Beamten beträgt.
 Teilzeitanteile werden zu einem Vollzeitäquivalent zusammengefasst.
 Stichtag für die Zuordnung zu einer Laufbahngruppe und die Bestimmung
 der jeweiligen monatlichen Endgrundgehälter und Grundgehälter ist der
 31\. Dezember des jeweiligen Beurteilungszeitraums.
 
-(2) Der Gesamtbetriebsrat wird über die Höhe der nach Absatz 1
-ermittelten Leistungsbudgets und die Anzahl der Beamtinnen und Beamten
-je Leistungsbudget unterrichtet.
+(2) Für den Filialvertrieb erfolgt eine gesonderte Ermittlung der
+Leistungsbudgets in entsprechender Anwendung des Absatzes 1, solange
+eine Leistungszulage nach § 10 gezahlt wird. Die Leistungsbudgets
+vermindern sich jeweils um die Summe der für das jeweilige Jahr
+gezahlten Leistungszulagen nach § 10.
+
+(3) Der Gesamtbetriebsrat wird über die Höhe der nach den Absätzen 1
+und 2 ermittelten Leistungsbudgets und die Anzahl der Beamtinnen und
+Beamten je Leistungsbudget unterrichtet.
 
 
 ## § 4 Ermittlung des Zahlbetrages
 
 (1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten
-entfallenden Zahlbeträge wird für jede Laufbahngruppe jedes
-Vorstandsressorts gesondert jede Beamtin und jeder Beamte entsprechend
-der jeweiligen Zielbewertungsstufe oder der Leistungsbewertungsstufe
-mit folgenden Faktoren gewichtet:
+entfallenden Zahlbeträge wird für jede Laufbahngruppe gesondert jede
+Beamtin und jeder Beamte entsprechend der jeweiligen
+Zielbewertungsstufe oder der Leistungsbewertungsstufe mit folgenden
+Faktoren gewichtet:
 
 *    *   Zielbewertungsstufe
 
@@ -151,9 +155,9 @@ mit folgenden Faktoren gewichtet:
 Teilzeitbeschäftigte werden auf Vollzeitbeschäftigte umgerechnet.
 
 (2) Der Quotient aus dem auf die jeweilige Laufbahngruppe entfallenden
-Leistungsbudget nach § 3 Abs. 1 und dem nach Absatz 1 ermittelten
-gewichteten Ergebnis dieser Laufbahngruppe ergibt den auf die
-Beamtinnen und Beamten dieser Laufbahngruppe mit der
+Leistungsbudget nach § 3 Absatz 1 und 2 und dem nach Absatz 1
+ermittelten gewichteten Ergebnis dieser Laufbahngruppe ergibt den auf
+die Beamtinnen und Beamten dieser Laufbahngruppe mit der
 Zielbewertungsstufe „Ziele sind erreicht“ oder der
 Leistungsbewertungsstufe „Erfüllt stets die Anforderungen“ jeweils
 entfallenden Zahlbetrag des Leistungsentgelts. Für die übrigen
@@ -171,13 +175,13 @@ Altersteilzeit zugrunde gelegt wird.
 in denen der Beamtin oder dem Beamten keine Bezüge zugestanden haben.
 Die Minderung beträgt ein Zwölftel für jeden Kalendermonat, in dem sie
 oder er nicht mindestens 15 Kalendertage in einem aktiven
-Beamtenverhältnis gestanden und Bezüge erhalten hat. Der Zahlung von
-Bezügen steht die Zahlung von Mutterschaftsgeld nach dem
-Mutterschutzgesetz gleich. Für die Dauer einer Elternzeit unterbleibt
-die Minderung bis zur Vollendung des zwölften Lebensmonats des Kindes.
-Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen, die die
-Beamtin oder der Beamte zu vertreten hat, weniger als drei Monate
-bestanden, ist der Faktor 0,5 nach Absatz 2 anzuwenden.
+Beamtenverhältnis gestanden und Bezüge erhalten hat. Die Sätze 1 und 2
+sind nicht anzuwenden auf Zeiten nach der Mutterschutz- und
+Elternzeitverordnung, im Fall von Elternzeit ohne Dienstbezüge jedoch
+nur auf die Zeit bis zur Vollendung des zwölften Lebensmonats des
+Kindes. Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen,
+die die Beamtin oder der Beamte zu vertreten hat, weniger als drei
+Monate bestanden, ist der Faktor 0,5 nach Absatz 1 anzuwenden.
 
 
 ## § 5 Zielbewertung
@@ -249,7 +253,7 @@ erforderlichen Unterlagen.
 
 (4) Der oder dem Vorsitzenden des örtlichen Betriebsrats und deren
 oder dessen Stellvertretung werden die Ziele in anonymisierter Form
-mitgeteilt. Die Deutsche Postbank AG kann Ziele ausdrücklich als
+mitgeteilt. Die Deutsche Bank AG kann Ziele ausdrücklich als
 geheimhaltungsbedürftig kennzeichnen.
 
 
@@ -283,8 +287,8 @@ dem Beamten wahrnimmt, eröffnet ihr oder ihm die Leistungsbeurteilung
 innerhalb von acht Wochen nach Ablauf des Beurteilungszeitraums im
 Rahmen eines Gesprächs. Dies kann auch durch eine Beauftragte oder
 einen Beauftragten geschehen. Zur Vorbereitung auf das Gespräch erhält
-sie oder er mindestens zwei Wochen vorher die hierzu erforderlichen
-Informationen. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
+sie oder er mindestens zwei Wochen vorher den Entwurf der
+Leistungsbeurteilung. § 6 Abs. 2 Satz 7 und 8 gilt entsprechend.
 
 (3) § 5 Abs. 3 gilt entsprechend.
 
@@ -306,10 +310,10 @@ Leistungsbeurteilung vorgenommen oder eröffnet haben, können nicht
 Mitglieder der Einigungskommission sein. Die Mitglieder sind für die
 Sitzungsteilnahme einschließlich erforderlicher Vorbereitungszeit
 unter Fortzahlung der Bezüge oder Arbeitsentgelte freizustellen. § 78
-Betriebsverfassungsgesetz ist entsprechend anzuwenden. Der
+des Betriebsverfassungsgesetzes ist entsprechend anzuwenden. Der
 Einigungskommission sind die für ihre Aufgabe erforderlichen
 Informationen zur Verfügung zu stellen. Die Kosten der
-Einigungskommission trägt die Deutsche Postbank AG.
+Einigungskommission trägt die Deutsche Bank AG.
 
 (3) Die Gegenvorstellung ist von derjenigen oder demjenigen, die oder
 der die Dienstvorgesetztenbefugnisse wahrnimmt, unverzüglich an die
@@ -328,70 +332,45 @@ Entscheidung.
 
 (5) Die Einigungskommission tritt auf Verlangen einer Seite
 unverzüglich auch dann zusammen, wenn in einem Zeitraum von zwei
-Wochen nach einem Zielvereinbarungsgespräch nach § 4 Abs. 2 Satz 1
+Wochen nach einem Zielvereinbarungsgespräch nach § 6 Abs. 2 Satz 1
 keine Zielvereinbarung geschlossen wird. Die Absätze 1 bis 4 gelten
 entsprechend.
 
 
-## § 9 Übergangsregelung
+## § 9 Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
 
-(1) Für das Jahr 2004 erhalten die Beamtinnen und Beamten eine
-Ausgleichszahlung in Höhe der Sonderzuwendung und des Urlaubsgeldes,
-die sie im Jahr 2004 erhalten hätten, wenn das Gesetz über die
-Gewährung einer jährlichen Sonderzuwendung und das Urlaubsgeldgesetz
-nicht durch das Bundessonderzahlungsgesetz ersetzt worden wären,
-abzüglich der im Jahre 2004 infolge des Artikels 5 des Ersten Gesetzes
-zur Änderung des Postpersonalrechtsgesetzes gewährten Sonderzahlung
-nach dem Bundessonderzahlungsgesetz. Die Ausgleichszahlung erhalten
-alle Beamtinnen und Beamten, denen im Jahr 2004 von der Deutschen
-Postbank AG eine Sonderzahlung nach dem Bundessonderzahlungsgesetz
-gewährt wurde. Die Ausgleichszahlung wird am ersten Tag des zweiten
-auf die Verkündung dieser Verordnung folgenden Kalendermonats fällig.
-
-(2) Für die Jahre 2005 und 2006 erhalten die Beamtinnen und Beamten
-der Bundesbesoldungsordnung A eine Sonderzahlung in Höhe von 60
-Prozent des monatlichen Endgrundgehaltes der Besoldungsgruppe, der sie
-am 1. Dezember des jeweiligen Jahres angehörten. Beamtinnen und Beamte
-der Bundesbesoldungsordnung B erhalten für die Jahre 2005 und 2006
-eine Sonderzahlung in Höhe von 60 Prozent des monatlichen
-Grundgehaltes der Besoldungsgruppe, der sie am 1. Dezember des
-jeweiligen Jahres angehörten. Beamtinnen und Beamte, die die Deutsche
-Postbank AG im Jahr 2006 verlassen haben und nach dem
-Bundessonderzahlungsgesetz anspruchsberechtigt sind, erhalten für
-jeden Kalendermonat, in dem sie mindestens 15 Kalendertage in einem
-aktiven Beamtenverhältnis bei der Postbank tätig waren und Bezüge
-erhalten haben, im Jahr 2006 eine anteilige Sonderzahlung in Höhe von
-einem Zwölftel des Betrages nach Satz 1 oder Satz 2. Bei
-Teilzeitbeschäftigung wird die Sonderzahlung im gleichen Verhältnis
-wie die Arbeitszeit gekürzt. Bei Altersteilzeit wird die Sonderzahlung
-nach der Arbeitszeit bemessen, die während der Altersteilzeit zugrunde
-gelegt wird. Ein Leistungsentgelt nach § 1 Satz 1 wird nicht gezahlt.
-
-(3) In den Jahren 2007 und 2008 gilt Absatz 2 Satz 1 und 2 mit der
-Maßgabe, dass die Sonderzahlung im Jahr 2007 um 25 Prozent und im Jahr
-2008 um 50 Prozent vermindert wird. Absatz 2 Satz 3 bis 5 gilt
-entsprechend.
-
-(4) Im Jahr 2007 werden der Berechnung des Leistungsbudgets abweichend
-von § 3 Abs. 1 Satz 1 15 Prozent und im Jahr 2008 30 Prozent der Summe
-der Endgrundgehälter oder Grundgehälter zugrunde gelegt.
-
-(5) Die Sonderzahlung nach den Absätzen 2 und 3 wird zusammen mit den
-Bezügen für den Monat Dezember des jeweiligen Jahres ausgezahlt,
-spätestens aber mit den Bezügen des zweiten auf die Verkündung dieser
-Verordnung folgenden Kalendermonats.
-
-(6) Abweichend von § 2 Abs. 1 Satz 3 und § 5 erfolgt die Ermittlung
-des Leistungsentgelts im Jahr 2007 auf der Basis einer
-Leistungsbeurteilung.
+Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die
+Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen
+von ihr oder ihm nicht zu vertretenden Gründen im Beurteilungszeitraum
+weniger als drei Monate aktiven Dienst verrichtet hat. In diesem Fall
+gilt die im vorangegangenen Beurteilungszeitraum zuerkannte Ziel- oder
+Leistungsbewertungsstufe nach § 4 Absatz 1 als erreicht. Ist im
+vorangegangenen Beurteilungszeitraum keine Zielbewertung oder
+Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe
+„Erfüllt stets die Anforderungen“ als erreicht.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten anderer Vorschriften
+## § 10 Leistungszulage für Tätigkeiten im Filialbetrieb
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft. Die §§
-4 und 5 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl.
-I S. 1833), die zuletzt durch § 14 Satz 2 der Verordnung vom 12.
-Dezember 2005 (BGBl. I S. 3475) geändert worden ist, treten am Tag der
-Verkündung dieser Verordnung für die bei der Deutschen Postbank AG
-beschäftigten Beamtinnen und Beamten außer Kraft.
+(1) Beamtinnen und Beamte, denen eine Tätigkeit im Filialvertrieb
+zugewiesen ist, erhalten eine monatliche Leistungszulage
+(Filialzulage).
+
+(2) Die Höhe der Filialzulage entspricht der Höhe der Sonderzahlung,
+die der Beamtin oder dem Beamten für Dezember 2007 nach § 1 Absatz 2
+der Postbanksonderzahlungsverordnung vom 15. August 2007 (BGBl. I S.
+2121)
+
+1.  zugestanden hat oder
+
+
+2.  im Fall einer Beurlaubung ohne Anspruch auf Dienstbezüge zugestanden
+    hätte.
+
+
+
+
+(3) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
+
+(4) Die Filialzulage wird letztmalig für Januar 2022 gewährt.
 

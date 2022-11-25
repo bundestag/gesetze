@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 700
 
 Zuletzt geändert durch
-:   Art. 25 G v. 8.12.2010 I 1768
+:   Art. 1 G v. 12.5.2021 I 1085
 
 
 ## Teil 1 - Der Versorgungsausgleich
@@ -292,7 +292,10 @@ besteht (externe Teilung).
     Rentenbetrag als maßgeblicher Bezugsgröße höchstens 2 Prozent, in
     allen anderen Fällen als Kapitalwert höchstens 240 Prozent der
     monatlichen Bezugsgröße nach § 18 Abs. 1 des Vierten Buches
-    Sozialgesetzbuch beträgt.
+    Sozialgesetzbuch beträgt; sind mehrere Anrechte im Sinne des
+    Betriebsrentengesetzes bei einem Versorgungsträger auszugleichen, so
+    ist die Summe der Ausgleichswerte der Anrechte maßgeblich, deren
+    externe Teilung der Versorgungsträger verlangt.
 
 
 
@@ -398,11 +401,20 @@ entsprechend.
 
 
 3.  soweit sein Ausgleich für die ausgleichsberechtigte Person
-    unwirtschaftlich wäre oder
+    unwirtschaftlich wäre,
 
 
 4.  wenn es bei einem ausländischen, zwischenstaatlichen oder
-    überstaatlichen Versorgungsträger besteht.
+    überstaatlichen Versorgungsträger besteht oder
+
+
+5.  wenn sich bei einem Anrecht aus der betrieblichen Altersversorgung
+    oder der privaten Altersvorsorge nach dem Ende der Ehezeit der
+    Kapitalwert als maßgebliche Bezugsgröße und damit der Ausgleichswert
+    verändert hat, weil die ausgleichspflichtige Person innerhalb der
+    bisher bestehenden Leistungspflicht eine Versorgung aus dem Anrecht
+    bezogen hat, und die ausgleichsberechtigte Person verlangt, dass das
+    Anrecht vom Wertausgleich bei der Scheidung ausgenommen wird.
 
 
 
@@ -584,9 +596,10 @@ Höhe des Ausgleichswerts auswirken können.
 (1) Entscheidet das Familiengericht rechtskräftig über den Ausgleich
 und leistet der Versorgungsträger innerhalb einer bisher bestehenden
 Leistungspflicht an die bisher berechtigte Person, so ist er für eine
-Übergangszeit gegenüber der nunmehr auch berechtigten Person von der
-Leistungspflicht befreit. Satz 1 gilt für Leistungen des
-Versorgungsträgers an die Witwe oder den Witwer entsprechend.
+Übergangszeit gegenüber der nunmehr auch berechtigten Person im Umfang
+der Überzahlung von der Leistungspflicht befreit. Satz 1 gilt für
+Leistungen des Versorgungsträgers an die Witwe oder den Witwer
+entsprechend.
 
 (2) Die Übergangszeit dauert bis zum letzten Tag des Monats, der dem
 Monat folgt, in dem der Versorgungsträger von der Rechtskraft der
@@ -973,6 +986,27 @@ Grundsätzen ermittelter Barwert maßgeblich.
 und § 27 sind nicht nur die Kapitalwerte und korrespondierenden
 Kapitalwerte, sondern auch die weiteren Faktoren der Anrechte zu
 berücksichtigen, die sich auf die Versorgung auswirken.
+
+
+## Teil 2a - Ergänzende Vorschriften
+
+
+### § 47a Erstattung nach interner Teilung von Anrechten aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis
+
+(1) Ist ein Anrecht aus einem öffentlich-rechtlichen Dienst- oder
+Amtsverhältnis intern geteilt worden und wechselt die
+ausgleichspflichtige Person danach den Dienstherrn oder scheidet aus
+dem Dienst- oder Amtsverhältnis aus, ohne dass ein Anrecht bei dem
+bisherigen Versorgungsträger für sie fortbesteht, so hat der bisherige
+Versorgungsträger einen Anspruch auf Erstattung der Zahlungen, die er
+nach dem Dienstherrenwechsel oder Ausscheiden aus dem Dienst- oder
+Amtsverhältnis an die ausgleichsberechtigte Person geleistet hat.
+
+(2) Der Erstattungsanspruch richtet sich bei einem Dienstherrenwechsel
+gegen den nunmehr zuständigen Träger der Versorgungslast und bei einer
+Nachversicherung in der gesetzlichen Rentenversicherung gegen den
+zuständigen Träger der gesetzlichen Rentenversicherung. § 2 der
+Versorgungsausgleichs-Erstattungsverordnung gilt entsprechend.
 
 
 ## Teil 3 - Übergangsvorschriften

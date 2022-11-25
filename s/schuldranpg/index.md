@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 2538
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.5.2002 I 1580
+:   Art. 20 G v. 20.11.2015 I 2010
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -351,10 +351,10 @@ Vertragsverhältnis nach Ablauf des 31. Dezember 2022 endet.
 Grundstückseigentümer zur Kündigung des Vertrages nach § 564 Satz 2, §
 580 des Bürgerlichen Gesetzbuchs berechtigt.
 
-(2) Ein Vertrag nach § 1 Abs. 1 Nr. 1 zur kleingärtnerischen Nutzung,
-Erholung oder Freizeitgestaltung wird beim Tod eines Ehegatten mit dem
-überlebenden Ehegatten fortgesetzt, wenn auch der überlebende Ehegatte
-Nutzer ist.
+(2) Ein Vertrag nach § 1 Absatz 1 Nummer 1 zur kleingärtnerischen
+Nutzung, Erholung oder Freizeitgestaltung wird beim Tod eines Nutzers
+mit dessen Ehegatten oder Lebenspartner fortgesetzt, wenn auch der
+Ehegatte oder Lebenspartner Nutzer ist.
 
 
 ##### § 17 Unredlicher Erwerb
@@ -449,8 +449,9 @@ die verspätete Geltendmachung nicht zu vertreten.
 Grundstücksteil nach Ablauf des 2. Oktober 1990 grundstücksbezogenen
 einmalig erhobenen Beiträge und sonstigen Abgaben kann der
 Grundstückseigentümer vom Nutzer eines außerhalb von
-Kleingartenanlagen kleingärtnerisch genutzten Grundstücks bis zu einer
-Höhe von 50 Prozent verlangen. Das Erstattungsverlangen ist dem Nutzer
+Kleingartenanlagen kleingärtnerisch genutzten Grundstücks, eines
+Erholungsgrundstücks oder eines Freizeitgrundstücks bis zu einer Höhe
+von 50 Prozent verlangen. Das Erstattungsverlangen ist dem Nutzer
 schriftlich zu erklären. Von dem nach Satz 1 verlangten Betrag wird
 jährlich ein Teilbetrag in Höhe von 10 Prozent zum Ende des
 Pachtjahres fällig, solange das Vertragsverhältnis besteht; der erste

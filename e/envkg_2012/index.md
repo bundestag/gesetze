@@ -16,27 +16,59 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1070
 
+Zuletzt geändert durch
+:   Art. 6 G v. 8.8.2020 I 1728
 
-## § 1 Anwendungsbereich
+Änderung durch
+:   Art. 10a G v. 16.7.2021 I 3026 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-(1) Dieses Gesetz gilt für die Kennzeichnung von Produkten mit Angaben
-über den Verbrauch an Energie und an anderen wichtigen Ressourcen
-sowie CO
-2             -Emissionen mittels Verbrauchskennzeichnung, sonstigen
-Produktinformationen und Angaben in der Werbung und in sonstigen
-Werbeinformationen. Neben den Angaben im Sinne des Satzes 1 sind auch
-Angaben über die Auswirkungen von Produkten auf den Verbrauch an
-Energie und auf andere wichtige Ressourcen vom Anwendungsbereich
-dieses Gesetzes erfasst.
 
-(2) Dieses Gesetz gilt nicht für
+## Abschnitt 1 - Allgemeine Vorschriften
 
-1.  gebrauchte Produkte,
+
+
+### § 1 Anwendungsbereich
+
+(1) Dieses Gesetz ist anzuwenden für die Kennzeichnung von neu in
+Verkehr gebrachten Produkten mit Angaben über den Verbrauch an Energie
+und an anderen wichtigen Ressourcen sowie Kohlendioxid-Emissionen
+mittels Verbrauchskennzeichnung, sonstigen Produktinformationen und
+Angaben in der Werbung und in sonstigen Werbeinformationen. Neben den
+Angaben im Sinne des Satzes 1 sind auch Angaben über die Auswirkungen
+von Produkten auf den Verbrauch an Energie und auf andere wichtige
+Ressourcen vom Anwendungsbereich dieses Gesetzes erfasst.
+
+(2) Dieses Gesetz ist für gebrauchte Produkte anzuwenden, soweit
+
+1.  es sich um Heizgeräte im Sinne von Artikel 1 der delegierten
+    Verordnung (EU) Nr. 811/2013 der Kommission vom 18. Februar 2013 zur
+    Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und
+    des Rates im Hinblick auf die Energiekennzeichnung von
+    Raumheizgeräten, Kombiheizgeräten, Verbundanlagen aus Raumheizgeräten,
+    Temperaturreglern und Solareinrichtungen sowie von Verbundanlagen aus
+    Kombiheizgeräten, Temperaturreglern und Solareinrichtungen (ABl. L 239
+    vom 6.9.2013, S. 1), die zuletzt durch die delegierte Verordnung (EU)
+    Nr. 518/2014 (ABl. L 147 vom 17.5.2014, S. 1) geändert worden ist,
+    handelt,
+
+
+2.  es sich um Heizkessel für gasförmige und flüssige Brennstoffe handelt
+    und
+
+
+3.  diese eine Nennleistung von bis zu 400 Kilowatt besitzen.
+
+
+
+
+(3) Dieses Gesetz ist nicht anzuwenden für
+
+1.  gebrauchte Produkte mit Ausnahme der in Absatz 2 genannten,
 
 
 2.  Etiketten, Beschriftungen, Leistungsschilder oder sonstige
     Informationen und Zeichen, die aus Sicherheitsgründen an Produkten
-    angebracht werden und
+    angebracht werden, und
 
 
 3.  Produkte, die ausschließlich zur Verwendung für militärische Zwecke
@@ -46,7 +78,7 @@ dieses Gesetzes erfasst.
 
 
 
-## § 2 Begriffsbestimmungen
+### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -297,13 +329,37 @@ Im Sinne dieses Gesetzes
 24. sind die für die Kontrolle der Außengrenzen zuständigen Behörden
 
     die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des
-    Zollverwaltungsgesetzes.
+    Zollverwaltungsgesetzes,
+
+
+25. ist Tankstelle eine öffentliche Tankanlage mit Personal, an der über
+    eine ortsfeste Vorrichtung Kraftstoffe für Personenkraftwagen
+    abgegeben werden können;
+
+
+26. ist Mehrproduktzapfsäule eine Anlage zur Abgabe des Kraftstoffes, die
+    mehrere Kraftstoffarten über getrennte Zapfventile bereitstellen kann;
+    dabei ist unerheblich, ob an der Mehrproduktzapfsäule ein oder mehrere
+    Kraftfahrzeuge gleichzeitig tanken können;
+
+
+27. ist Energiekostenvergleich die Darstellung der auf Kostenbasis
+    normierten Energieverbrauchsangaben;
+
+
+28. ist Tankstellenbetreiber, wer die tatsächliche oder rechtliche
+    Möglichkeit hat, die notwendigen Entscheidungen im Hinblick auf die
+    Anzeige des Energiekostenvergleiches gemäß Anlage 4 zu treffen.
 
 
 
 
 
-## § 3 Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
+## Abschnitt 2 - Neu in Verkehr gebrachte Produkte
+
+
+
+### § 3 Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
 
 (1) Ein Produkt darf nur dann angeboten oder ausgestellt werden, wenn
 
@@ -373,12 +429,52 @@ haben der Hersteller des Kraftfahrzeugs, der Lieferant und der Händler
 die hierin genannten Angaben zu machen. Das gilt entsprechend für
 sonstige Werbeinformationen.
 
+(4) Zur Umsetzung der Richtlinie 2014/94/EU des Europäischen
+Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der
+Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014,
+S. 1), die durch die Delegierte Verordnung (EU) 2018/674 (ABl. L 114
+vom 4.5.2018, S. 1) geändert worden ist, und um künftige
+Kaufentscheidungen der Verbraucher bei der Personenkraftfahrzeugwahl
+zu unterstützen, haben die Tankstellenbetreiber von Tankstellen mit
+mehr als sechs Mehrproduktzapfsäulen sicherzustellen, dass während der
+Geschäftszeiten der Tankstelle ein Energiekostenvergleich nach den
+Maßgaben des Artikels 1 der Durchführungsverordnung (EU) 2018/732 der
+Kommission vom 17. Mai 2018 über eine gemeinsame Methode für den auf
+eine Maßeinheit bezogenen Preisvergleich für alternative Kraftstoffe
+gemäß der Richtlinie 2014/94/EU des Europäischen Parlaments und des
+Rates (ABl. L 123 vom 18.5.2018, S. 85), die durch die
+Durchführungsverordnung (EU) 2020/858 (ABl. L 195 vom 19.6.2020, S.
+57) geändert worden ist, und nach den nachfolgenden Bestimmungen
+angebracht ist:
 
-## § 4 Ermächtigung zum Erlass von Rechtsverordnungen
+1.  der Energiekostenvergleich ist gemäß dem Muster in Anlage 4 durch
+    sichtbaren Aushang entweder an mindestens der Hälfte der
+    Mehrproduktzapfsäulen oder an einer gut sichtbaren Stelle im Bereich
+    des Zahlungsortes anzubringen, dabei sollte das Format an den
+    Mehrproduktzapfsäulen DIN A3 und im Bereich des Zahlungsortes
+    mindestens DIN A2 sein; bei einer digitalen Darstellung muss eine
+    Bildschirmgröße von mindestens 19 Zoll sichergestellt werden, wobei
+    der Energiekostenvergleich mindestens alle 2,5 Minuten für jeweils
+    30 Sekunden angezeigt werden muss;
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, in Rechtsverordnungen mit Zustimmung des Bundesrates
-Folgendes festzulegen:
+
+2.  der Energiekostenvergleich nach Satz 2 ist jeweils bis zum vierten
+    Werktag nach einem Quartalsbeginn zu aktualisieren.
+
+
+
+Die amtliche Veröffentlichung des Energiekostenvergleiches erfolgt auf
+der Internetseite des Bundesministeriums für Wirtschaft und Energie
+jeweils spätestens vier Wochen vor Quartalsbeginn. Der nach
+Landesrecht zuständigen Behörde obliegt die Überwachung der Erfüllung
+der Pflichten nach Satz 1.
+
+
+### § 4 Ermächtigung zum Erlass von Rechtsverordnungen
+
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+in Rechtsverordnungen mit Zustimmung des Bundesrates Folgendes
+festzulegen:
 
 1.  produktspezifische Anforderungen an die Kennzeichnung von Produkten
     mit Angaben über den Verbrauch an Energie und an anderen wichtigen
@@ -508,19 +604,19 @@ Folgendes regeln:
 
 1.  bei energieverbrauchsrelevanten Produkten im Einvernehmen mit dem
     Bundesministerium für Arbeit und Soziales, dem Bundesministerium für
-    Umwelt, Naturschutz und Reaktorsicherheit sowie dem Bundesministerium
-    für Verkehr, Bau und Stadtentwicklung,
+    Umwelt, Naturschutz und nukleare Sicherheit sowie dem
+    Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
 2.  bei Kraftfahrzeugen im Einvernehmen mit dem Bundesministerium für
-    Umwelt, Naturschutz und Reaktorsicherheit sowie dem Bundesministerium
-    für Verkehr, Bau und Stadtentwicklung.
+    Umwelt, Naturschutz und nukleare Sicherheit sowie dem
+    Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 
 
 
-## § 5 Zuständigkeit für die Marktüberwachung und Zusammenarbeit; Verordnungsermächtigung
+### § 5 Zuständigkeit für die Marktüberwachung und Zusammenarbeit; Verordnungsermächtigung
 
 (1) Die Marktüberwachung obliegt vorbehaltlich des Satzes 3 den nach
 Landesrecht zuständigen Behörden. Im Anwendungsbereich der Pkw-
@@ -584,14 +680,14 @@ einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen
 Union zu beleihen.
 
 
-## § 6 Marktüberwachungskonzept
+### § 6 Marktüberwachungskonzept
 
 (1) Die Marktüberwachungsbehörden haben für die in einer
 Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union
 genannten Produkte in Bezug auf die in diesen Rechtsvorschriften
-genannten Anforderungen und den Anforderungen dieses Gesetzes eine
-wirksame Marktüberwachung auf der Grundlage eines
-Marktüberwachungskonzepts zu gewährleisten. Das
+genannten Anforderungen und den Anforderungen dieses Gesetzes mit
+Ausnahme von § 3 Absatz 4 eine wirksame Marktüberwachung auf der
+Grundlage eines Marktüberwachungskonzepts zu gewährleisten. Das
 Marktüberwachungskonzept soll insbesondere Folgendes umfassen:
 
 1.  die Erhebung und Auswertung von Informationen zur Ermittlung von
@@ -618,7 +714,7 @@ Nummer 2 der Öffentlichkeit in nicht personenbezogener Form auf
 elektronischem Weg und gegebenenfalls in anderer Form zur Verfügung.
 
 
-## § 7 Vermutungswirkung
+### § 7 Vermutungswirkung
 
 Werden die in diesem Gesetz, einer Rechtsverordnung nach § 4 oder
 einer Verordnung der Europäischen Union festgelegten
@@ -627,14 +723,14 @@ Produktinformationen verwendet, so wird bis zum Beweis des Gegenteils
 vermutet, dass diese den dort genannten Anforderungen entsprechen.
 
 
-## § 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen
+### § 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener
 Stichproben auf geeignete Weise und in angemessenem Umfang, ob die
-Anforderungen dieses Gesetzes, einer Rechtsverordnung nach § 4 oder
-einer Verordnung der Europäischen Union an die
-Verbrauchskennzeichnung, sonstige Produktinformationen sowie an die
-Werbung und sonstige Werbeinformationen erfüllt sind. Sofern es im
+Anforderungen dieses Gesetzes mit Ausnahme von § 3 Absatz 4, einer
+Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union
+an die Verbrauchskennzeichnung, sonstige Produktinformationen sowie an
+die Werbung und sonstige Werbeinformationen erfüllt sind. Sofern es im
 Einzelfall angezeigt und erforderlich ist, überprüfen die
 Marktüberwachungsbehörden die erforderlichen Unterlagen oder führen
 physische Kontrollen und Laborprüfungen durch. Weitergehende
@@ -724,7 +820,7 @@ Kenntnis zu setzen.
 gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 4.
 
 
-## § 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen
+### § 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
 (1) Die Stichprobenkontrollen und Maßnahmen der
 Marktüberwachungsbehörden im Sinne des § 8 Absatz 1 bis 4 sind gegen
@@ -742,7 +838,7 @@ Maßnahme wird daraufhin umgehend überprüft.
 59 der Verwaltungsgerichtsordnung entsprechend.
 
 
-## § 10 Betretensrechte, Befugnisse und Duldungspflichten
+### § 10 Betretensrechte, Befugnisse und Duldungspflichten
 
 (1) Die Marktüberwachungsbehörden und ihre Beauftragten sind, soweit
 dies zur Erfüllung ihrer Aufgaben erforderlich ist, befugt, zu den
@@ -799,7 +895,7 @@ Geschäftstätigkeit energieverbrauchsrelevante Produkte im Sinne des §
 genommen werden.
 
 
-## § 11 Meldeverfahren
+### § 11 Meldeverfahren
 
 (1) Trifft die Marktüberwachungsbehörde Maßnahmen nach § 8 Absatz 4,
 durch die das Anbieten oder Ausstellen eines Produkts untersagt wird,
@@ -812,7 +908,7 @@ erforderlich einschließlich personenbezogener Daten
 
 
 2.  für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und
-    Reifen das Bundesministerium für Wirtschaft und Technologie.
+    Reifen das Bundesministerium für Wirtschaft und Energie.
 
 
 
@@ -822,26 +918,26 @@ energieverbrauchsrelevanten Produkten überprüft die beauftragte Stelle
 im Sinne des § 13 die eingegangene Meldung nach Absatz 1 Nummer 1 auf
 Vollständigkeit und Schlüssigkeit und informiert soweit erforderlich
 einschließlich personenbezogener Daten das Bundesministerium für
-Wirtschaft und Technologie über die Meldung nach Absatz 1 Nummer 1 und
+Wirtschaft und Energie über die Meldung nach Absatz 1 Nummer 1 und
 leitet diese soweit erforderlich einschließlich personenbezogener
 Daten unverzüglich der Europäischen Kommission und den Mitgliedstaaten
 der Europäischen Union und den Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum zu. Die beauftragte Stelle informiert
 soweit erforderlich einschließlich personenbezogener Daten das
-Bundesministerium für Wirtschaft und Technologie und die
+Bundesministerium für Wirtschaft und Energie und die
 Marktüberwachungsbehörden über Meldungen der Kommission oder eines
 anderen Mitgliedstaates der Europäischen Union oder eines
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
 
 (3) Für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen
-und Reifen überprüft das Bundesministerium für Wirtschaft und
-Technologie die nach Absatz 1 Nummer 2 eingegangene Meldung auf
-Vollständigkeit und Schlüssigkeit und leitet diese soweit erforderlich
-einschließlich personenbezogener Daten unverzüglich der Europäischen
-Kommission und den Mitgliedstaaten der Europäischen Union und den
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-zu. Das Bundesministerium für Wirtschaft und Technologie informiert
-soweit erforderlich einschließlich personenbezogener Daten die
+und Reifen überprüft das Bundesministerium für Wirtschaft und Energie
+die nach Absatz 1 Nummer 2 eingegangene Meldung auf Vollständigkeit
+und Schlüssigkeit und leitet diese soweit erforderlich einschließlich
+personenbezogener Daten unverzüglich der Europäischen Kommission und
+den Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum zu. Das
+Bundesministerium für Wirtschaft und Energie informiert soweit
+erforderlich einschließlich personenbezogener Daten die
 Marktüberwachungsbehörden über Meldungen der Kommission oder eines
 anderen Mitgliedstaates der Europäischen Union oder eines
 Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
@@ -850,7 +946,7 @@ Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
 elektronische Kommunikationsmittel zu benutzen.
 
 
-## § 12 Berichtspflichten
+### § 12 Berichtspflichten
 
 (1) Die zuständigen obersten Landesbehörden berichten jährlich in
 nicht personenbezogener Form über die ergriffenen Vollzugsmaßnahmen
@@ -862,8 +958,9 @@ Berichte
     Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten,
 
 
-2.  dem Bundesministerium für Wirtschaft und Technologie für den Bereich
-    der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen.
+2.  dem Bundesministerium für Wirtschaft und Energie für den Bereich der
+    Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen sowie des
+    Energiekostenvergleiches gemäß § 3 Absatz 4.
 
 
 
@@ -876,8 +973,8 @@ hierüber in nicht personenbezogener Form
     Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten,
 
 
-2.  das Bundesministerium für Wirtschaft und Technologie für den Bereich
-    der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen.
+2.  das Bundesministerium für Wirtschaft und Energie für den Bereich der
+    Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen.
 
 
 
@@ -904,7 +1001,7 @@ anderer Form zur Verfügung. Der erste Bericht muss spätestens bis zum
 19\. Juni 2014 der Europäischen Kommission übermittelt werden.
 
 
-## § 13 Beauftragte Stelle
+### § 13 Beauftragte Stelle
 
 Beauftragte Stelle für die Verbrauchskennzeichnung von
 energieverbrauchsrelevanten Produkten im Anwendungsbereich der
@@ -912,7 +1009,7 @@ Energieverbrauchskennzeichnungsverordnung ist die Bundesanstalt für
 Materialforschung und -prüfung.
 
 
-## § 14 Aufgaben der beauftragten Stelle
+### § 14 Aufgaben der beauftragten Stelle
 
 (1) Die Aufgaben der beauftragten Stelle umfassen
 
@@ -938,12 +1035,12 @@ Anforderungen einer Rechtsverordnung nach § 4 oder einer Verordnung
 der Europäischen Union zu erfüllen.
 
 (4) Die beauftragte Stelle unterstützt das Bundesministerium für
-Wirtschaft und Technologie im Prozess der Verabschiedung von
-Verordnungen der Europäischen Union auf der Grundlage des Artikels 10
-der Richtlinie 2010/30/EU.
+Wirtschaft und Energie im Prozess der Verabschiedung von Verordnungen
+der Europäischen Union auf der Grundlage des Artikels 10 der
+Richtlinie 2010/30/EU.
 
 
-## § 15 Bußgeldvorschriften; Verordnungsermächtigung
+### § 15 Bußgeldvorschriften; Verordnungsermächtigung
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -951,6 +1048,10 @@ der Richtlinie 2010/30/EU.
     Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die
     Rechtsverordnung für einen bestimmten Tatbestand auf diese
     Bußgeldvorschrift verweist,
+
+
+1a. entgegen § 3 Absatz 4 Satz 1 nicht sicherstellt, dass ein
+    Energiekostenvergleich angebracht ist,
 
 
 2.  einer vollziehbaren Anordnung nach § 10 Absatz 3 Satz 1
@@ -976,10 +1077,227 @@ der Richtlinie 2010/30/EU.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
-Europäischen Gemeinschaft oder der Europäischen Union erforderlich
-ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1
-Nummer 5 geahndet werden können.
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+soweit dies zur Durchsetzung der Rechtsakte der Europäischen
+Gemeinschaft oder der Europäischen Union erforderlich ist, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu
+bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 5 geahndet
+werden können.
 
+
+## Abschnitt 3 - Gebrauchte Produkte
+
+
+
+### § 16 Berechtigung zur Verbrauchskennzeichnung
+
+(1) Heizungsinstallateure, Schornsteinfeger gemäß § 2 des
+Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S.
+2242), das zuletzt durch Artikel 284 der Verordnung vom 31. August
+2015 (BGBl. I S. 1474) geändert worden ist, Gebäudeenergieberater des
+Handwerks und Ausstellungsberechtigte nach § 88 Absatz 1 und 2 des
+Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S. 1728) sind
+berechtigt, auf Heizgeräten nach § 1 Absatz 2 ein Etikett nach dem
+Muster in Anlage 1 oder 2 anzubringen, wenn sie mit dem Eigentümer
+oder Mieter des jeweiligen Gerätes in einem bestehenden
+Vertragsverhältnis mit Bezug zu den Heizgeräten oder zur energetischen
+Sanierung des Gesamtgebäudes stehen oder wenn sie vom Eigentümer oder
+Mieter mit der Untersuchung der Heizgeräte beauftragt worden sind. Bei
+der Anbringung des Etiketts sind die Vorgaben nach § 18 Absatz 1 zu
+berücksichtigen.
+
+(2) Die Berechtigten nach Absatz 1 dürfen Etiketten nur nach den
+zeitlichen Vorgaben der Anlage 3 vergeben.
+
+
+### § 17 Verpflichtung zur Verbrauchskennzeichnung
+
+(1) Der zuständige bevollmächtigte Bezirksschornsteinfeger hat im
+Anschluss an die Feuerstättenschau nach § 14 des Schornsteinfeger-
+Handwerksgesetzes auf jedem Heizgerät nach § 1 Absatz 2 ein Etikett
+nach dem Muster in Anlage 1 oder 2 anzubringen, wobei die Vorgaben
+nach § 18 Absatz 1 zu berücksichtigen sind. Dabei sind im Rahmen eines
+ersten Überprüfungszyklus der Feuerstättenschau die Heizgeräte mit
+einem Baujahr bis einschließlich 1994 und in einem zweiten
+Überprüfungszyklus die Heizgeräte mit einem Baujahr bis einschließlich
+2008 zu etikettieren. Danach sind die Heizgeräte zu etikettieren, die
+bei der Feuerstättenschau bezogen auf das Baujahr mindestens 15 Jahre
+alt sind. Ist ein Heizgerät bereits etikettiert worden, so entfällt
+die Pflicht nach Satz 1. Sie entfällt auch dann, wenn das Etikett in
+einem weiteren Überprüfungszyklus nicht mehr vorhanden ist. Die sich
+aus dem Gebäudeenergiegesetz vom 8. August 2020 (BGBl. I S. 1728)
+ergebenden Pflichten des bevollmächtigten Bezirksschornsteinfegers
+bleiben von der Verpflichtung nach Satz 1 unberührt.
+
+(2) Hat ein bevollmächtigter Bezirksschornsteinfeger ein Etikett nach
+Absatz 1 angebracht, so darf er innerhalb eines Zeitraums von sechs
+Kalendermonaten nach Anbringen des Etiketts mit dem jeweiligen
+Eigentümer des Heizgerätes keine Gespräche über den Verkauf eines
+neuen Heizgerätes führen oder ihm ein entsprechendes Angebot
+unterbreiten.
+
+(3) Der bevollmächtigte Bezirksschornsteinfeger nach Absatz 1 erhält
+vom Bundesamt für Wirtschaft und Ausfuhrkontrolle eine angemessene
+Aufwandsentschädigung für
+
+1.  das Anbringen des Etiketts an dem Heizgerät,
+
+
+2.  die Übergabe der geeigneten Informationsbroschüre und
+
+
+3.  die Information des Eigentümers oder des Mieters über die
+    Energieeffizienz des Heizgerätes.
+
+
+
+
+
+### § 18 Verfahren zur Verbrauchskennzeichnung und Überprüfung
+
+(1) Bei der Verbrauchskennzeichnung haben die Berechtigten nach § 16
+Absatz 1 und die Verpflichteten nach § 17 Absatz 1
+
+1.  zur Feststellung der Energieeffizienzklasse des Heizgerätes die zu
+    diesem Zweck auf der Internetseite des Bundesministeriums für
+    Wirtschaft und Energie zur Verfügung gestellten Computerprogramme oder
+    Anwendungen einzusetzen,
+
+
+2.  dem Eigentümer oder dem Mieter die geeigneten Informationsbroschüren
+    des Bundesministeriums für Wirtschaft und Energie zu übergeben und
+
+
+3.  den Eigentümer oder den Mieter beim Anbringen des Etiketts über die
+    Energieeffizienz des Heizgerätes zu informieren.
+
+
+
+Das Etikett ist von den Berechtigten nach § 16 Absatz 1 und den
+Verpflichteten nach § 17 Absatz 1 deutlich sichtbar auf der Außenseite
+der Gerätefront anzubringen.
+
+(2) Bei der Vergabe des Etiketts ist bis einschließlich zum 25.
+September 2019 das Etikett nach dem Muster in Anlage 1 und ab dem 26.
+September 2019 das Etikett nach dem Muster in Anlage 2 zu verwenden.
+
+(3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt,
+die Vergabe des Etiketts stichprobenhaft zu überprüfen.
+
+
+### § 19 Kostenfreiheit und Duldungspflicht
+
+(1) Für den Eigentümer und den Mieter eines Heizgerätes nach § 1
+Absatz 2 ist das Anbringen des Etiketts und die Information nach § 18
+Absatz 1 durch den Berechtigten nach § 16 Absatz 1 oder den
+Verpflichteten nach § 17 Absatz 1 kostenfrei.
+
+(2) Der Eigentümer und der Mieter eines Heizgerätes nach § 1 Absatz 2
+haben das Anbringen des Etiketts nach § 16 Absatz 1 oder § 17 Absatz 1
+zu dulden.
+
+(zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)
+
+### Anlage 1 Musteretikett für Heizgeräte zur Verwendung bis einschließlich 25. September 2019
+
+(Fundstelle: BGBl. I 2015, 2197)
+![bgbl1_2015_j2194-1_0020.jpg](bgbl1_2015_j2194-1_0020.jpg)
+(zu § 16 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1)
+
+### Anlage 2 Musteretikett für Heizgeräte zur Verwendung ab 26. September 2019
+
+(Fundstelle: BGBl. I 2015, 2198)
+![bgbl1_2015_j2194-1_0010.jpg](bgbl1_2015_j2194-1_0010.jpg)
+(zu § 16 Absatz 2)
+
+### Anlage 3 Zeitliche Vorgabe zur Etikettierung
+
+(Fundstelle: BGBl. I 2015, 2199)
+Ab den folgenden Jahren kann das Etikett durch die in § 16 Absatz 1
+genannten Berechtigten auf Heizgeräte der nachstehenden Baujahre
+angebracht werden:
+
+*    *   laufende Nummer
+
+    *   ab dem Jahr
+
+    *   Etikettierung auf Heizgeräten der Baujahre
+
+
+*    *   1.
+
+    *   2016
+
+    *   bis einschließlich 1986
+
+
+*    *   2.
+
+    *   2017
+
+    *   bis einschließlich 1991
+
+
+*    *   3.
+
+    *   2018
+
+    *   bis einschließlich 1993
+
+
+*    *   4.
+
+    *   2019
+
+    *   bis einschließlich 1995
+
+
+*    *   5.
+
+    *   2020
+
+    *   bis einschließlich 1997
+
+
+*    *   6.
+
+    *   2021
+
+    *   bis einschließlich 2001
+
+
+*    *   7.
+
+    *   2022
+
+    *   bis einschließlich 2005
+
+
+*    *   8.
+
+    *   2023
+
+    *   bis einschließlich 2008
+
+
+*    *   9.
+
+    *   2024
+
+    *   ab 2009, sofern sie mindestens 15 Jahre alt sind
+
+
+
+
+(zu § 3 Absatz 4)
+
+### Anlage 4 Poster zum Energiekostenvergleich
+
+(Fundstelle: BGBl. I 3062, 3063)
+
+Vorlage DIN A2
+
+![bgbl1_2021_j3026-1_0010.jpg](bgbl1_2021_j3026-1_0010.jpg)
+Vorlage DIN A3
+
+![bgbl1_2021_j3026-1_0020.jpg](bgbl1_2021_j3026-1_0020.jpg)

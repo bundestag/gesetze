@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 66
 
 Zuletzt geändert durch
-:   Art. 9 V v. 23.7.2010 I 1010
+:   Art. 72 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -136,9 +136,8 @@ nachweist.
 (2) Zur Prüfung im Prüfungsteil "Handlungsspezifische Qualifikationen"
 ist zuzulassen, wer Folgendes nachweist:
 
-1.  den erfolgreichen Abschluss der Prüfungsteile "Wirtschaftsbezogene
-    Qualifikationen" und "Technische Qualifikationen", der nicht länger
-    als fünf Jahre zurückliegt, und
+1.  das Ablegen der Prüfungsteile „Wirtschaftsbezogene Qualifikationen“
+    und „Technische Qualifikationen“ innerhalb der letzten fünf Jahre, und
 
 
 2.  in den in Absatz 1 Nummer 1 bis 3 genannten Fällen ein weiteres Jahr
@@ -639,179 +638,597 @@ Die Prüfungsdauer beträgt mindestens 240, höchstens 300 Minuten.
 
 ## § 7 Weitere Prüfung
 
-(1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann
-beantragen, nach erfolgreichem Abschluss des Prüfungsteils
-"Handlungsspezifische Qualifikationen" ausgehend vom Handlungsbereich
-"Führung und Zusammenarbeit" eine zusätzliche Prüfung zum Nachweis
-berufs- und arbeitspädagogischer Qualifikationen abzulegen. Diese
-besteht aus einer Präsentation oder der praktischen Durchführung einer
-Ausbildungssituation und einem Prüfungsgespräch. Der Teilnehmer oder
-die Teilnehmerin wählt dazu eine Ausbildungssituation aus. Die Auswahl
-und Gestaltung der Ausbildungssituation ist in dem Gespräch zu
-begründen. Die Dauer der praktischen Prüfung soll höchstens 30 Minuten
-betragen.
+(1) Die zu prüfende Person kann beantragen, nach erfolgreichem
+Abschluss des Prüfungsteils "Handlungsspezifische Qualifikationen"
+ausgehend vom Handlungsbereich "Führung und Zusammenarbeit" eine
+zusätzliche Prüfung zum Nachweis berufs- und arbeitspädagogischer
+Qualifikationen abzulegen. Diese besteht aus einer Präsentation oder
+der praktischen Durchführung einer Ausbildungssituation und einem
+Prüfungsgespräch. Die zu prüfende Person wählt dazu eine
+Ausbildungssituation aus. Die Auswahl und Gestaltung der
+Ausbildungssituation ist in dem Gespräch zu begründen. Die Dauer der
+praktischen Prüfung soll höchstens 30 Minuten betragen.
 
 (2) Die zusätzliche Prüfung ist bestanden, wenn die Prüfung im
 Prüfungsteil "Handlungsspezifische Qualifikationen" bestanden wurde
 und in der zusätzlichen Prüfung nach Absatz 1 mindestens ausreichende
 Leistungen erbracht sind.
 
-(3) Dem Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist ein
-zusätzliches Zeugnis auszustellen, aus dem hervorgeht, dass die
-berufs- und arbeitspädagogische Qualifikation durch eine Prüfung gemäß
-§ 6 Abs. 4 und 5 sowie § 7 Abs. 1 nachgewiesen wurde.
+(3) Der zu prüfenden Person ist ein zusätzliches Zeugnis auszustellen,
+aus dem hervorgeht, dass die berufs- und arbeitspädagogische
+Qualifikation durch eine Prüfung gemäß § 6 Abs. 4 und 5 sowie § 7 Abs.
+1 nachgewiesen wurde.
 
 
-## § 8 Anrechnung anderer Prüfungsleistungen
+## § 8 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9
+und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 9 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder §
+10 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 9 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 9 Bewerten von Prüfungsleistungen
 
-(1) Die Prüfungsleistungen in den Prüfungsteilen "Wirtschaftsbezogene
-Qualifikationen", "Technische Qualifikationen" und
-"Handlungsspezifische Qualifikationen" sind gesondert nach Punkten zu
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
 
-(2) Für die Prüfungsteile "Wirtschaftsbezogene Qualifikationen" und
-"Technische Qualifikationen" ist je eine Note aus dem arithmetischen
-Mittel der Punktebewertungen der Leistungen in den einzelnen
-Qualifikationsbereichen zu bilden.
+(2) In den Prüfungsteilen „Wirtschaftsbezogene Qualifikationen“ und
+„Technische Qualifikationen“ sind die Prüfungsleistungen für jeden
+Qualifikationsbereich einzeln zu bewerten. Aus den einzelnen
+Bewertungen ist als Bewertung für den jeweiligen Prüfungsteil das
+arithmetische Mittel zu berechnen.
 
-(3) Im Prüfungsteil "Handlungsspezifische Qualifikationen" ist eine
-Note aus der schriftlichen Situationsaufgabe sowie eine Note aus dem
-situationsbezogenen Fachgespräch und der Präsentation zu bilden.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
 
-(4) Die Prüfung ist insgesamt bestanden, wenn in allen
-Prüfungsleistungen mindestens ausreichende Leistungen erbracht wurden.
-
-(5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen. Im Fall der Freistellung gemäß § 8 sind
-nur Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben.
+1.  die schriftliche Situationsaufgabe nach § 6 Absatz 5 Satz 1,
 
 
-## § 10 Wiederholung der Prüfung
+2.  nach Maßgabe der Sätze 2 und 3
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+    a)  das situationsbezogene Fachgespräch nach § 3 Absatz 6 Satz 1 und 2 und
+
+
+    b)  die Präsentation nach § 3 Absatz 6 Satz 1.
+
+
+
+
+
+
+Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs
+und der Präsentation wird als zusammengefasste Bewertung das
+gewichtete arithmetische Mittel berechnet. Dabei sind die Bewertungen
+wie folgt zu gewichten:
+
+1.  die Bewertung des situationsbezogenen Fachgesprächs mit zwei Dritteln
+    und
+
+
+2.  die Bewertung der Präsentation mit einem Drittel.
+
+
+
+
+
+## § 10 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Qualifikationsbereich des Prüfungsteils „Wirtschaftsbezogene
+    Qualifikationen“,
+
+
+2.  in jedem Qualifikationsbereich des Prüfungsteils „Technische
+    Qualifikationen“,
+
+
+3.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in der schriftlichen Situationsaufgabe und
+
+
+    b)  in der zusammengefassten Bewertung für das situationsbezogene
+        Fachgespräch und der Präsentation.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, sind die folgenden Bewertungen jeweils
+kaufmännisch auf eine ganze Zahl zu runden:
+
+1.  die Bewertungen für die Prüfungsteile „Wirtschaftsbezogene
+    Qualifikationen“ und „Technische Qualifikationen“ sowie
+
+
+2.  die zusammengefasste Bewertung für das situationsbezogene Fachgespräch
+    und der Präsentation.
+
+
+
+
+(3) Den Bewertungen für die Prüfungsteile „Wirtschaftsbezogene
+Qualifikationen“ und „Technische Qualifikationen“, der Bewertung für
+die schriftliche Situationsaufgabe sowie der zusammengefassten
+Bewertung für das situationsbezogene Fachgespräch und der Präsentation
+ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung für den Prüfungsteil „Wirtschaftsbezogene
+    Qualifikationen“ mit 15 Prozent,
+
+
+2.  die Bewertungen für den Prüfungsteil „Technische Qualifikationen“ mit
+    15 Prozent,
+
+
+3.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  die Bewertung der schriftlichen Situationsaufgabe mit 45 Prozent und
+
+
+    b)  die zusammengefasste Bewertung für das situationsbezogene Fachgespräch
+        und der Präsentation mit 25 Prozent.
+
+
+
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 11 Zeugnisse
+
+(1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 8 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 12 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen
 Prüfungsverfahrens wiederholt werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 11 Übergangsvorschrift
+## § 13 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
 Ende geführt werden.
 
 
-## § 12 Inkrafttreten
+## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
-(zu § 9 Abs. 5)
+(zu den §§ 9 und 10)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2006, 72;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-Herr/Frau
-....................................................................
-geboren am ............................. in
-..................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Technischer Fachwirt/Geprüfte Technische Fachwirtin vom 17. Januar
-2006
-(BGBl. I S. 66), die zuletzt durch Artikel 9 der Verordnung vom 23.
-Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2401 – 2402)
 
-(zu § 9 Abs. 5)
 
-## Anlage 2 Muster
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2006, 73;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-Herr/Frau
-....................................................................
-geboren am ............................. in
-..................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Technischer Fachwirt/Geprüfte Fachwirtin vom 17. Januar 2006 (BGBl. I
-S. 66),
-die zuletzt durch Artikel 9 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
-bestanden:
-Punkte \*)    Note
-1\.  Wirtschafsbezogene Qualifikationen
-.........
-Qualifikationsbereiche
-1\. Volks- und Betriebswirtschaft               .........
-2\. Rechnungswesen                                .........
-3\. Recht und Steuern                             .........
-4\. Unternehmensführung                           .........
-2\.  Technische Qualifikationen
-.........
-Naturwissenschaftliche und technische Grundlagen .........
-Technische Kommunikation und
-Werkstofftechnologie                             .........
-Fertigungs- und Betriebstechnik                .........
-3\.  Handlungsspezifische Qualifikationen
-Schriftliche Situationsaufgabe                               .........
-Situationsbezogenes Fachgespräch mit
-Präsentation                                                 .........
-(Im Fall des § 8: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-nach § 8 im Hinblick auf die am .......... in .......... vor
-..........
-abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
+    *   Note
+        als Dezimalzahl
 
-\*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    .............
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 11)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2402 – 2403)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der vier Qualifikationsbereiche mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Technische Qualifikationen“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der drei Qualifikationsbereiche mit Punkten,
+
+
+
+
+
+3.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung des Prüfungsteils,
+
+
+    b)  Benennung der schriftlichen Situationsaufgabe mit Note sowie
+
+
+    c)  Benennung des situationsbezogenen Fachgesprächs mit Präsentation mit
+        Note,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 8.
 
 
 

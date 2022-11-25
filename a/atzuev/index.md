@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.6.2010 I 825
+:   Art. 15 V v. 29.11.2018 I 2034; 2021 I 5261
+
+Änderung durch
+:   Art. 82 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -42,19 +45,19 @@ Verordnung.
 
 (2)
 1             Einer Überprüfung der Zuverlässigkeit einer Person, die
-bei der Errichtung oder dem Betrieb von Anlagen, beim Umgang mit
-radioaktiven Stoffen oder bei der Beförderung von radioaktiven Stoffen
-im Sinne der §§ 7, 11 oder § 16 der Strahlenschutzverordnung tätig
-werden soll, bedarf es nur, wenn die zuständige Behörde die
-Überprüfung verlangt, weil der Schutz gegen unbefugte Handlungen, die
-zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen
-können, die Überprüfung erfordert.
+bei der Errichtung oder dem Betrieb von Anlagen zur Erzeugung
+ionisierender Strahlung, beim Umgang mit radioaktiven Stoffen oder bei
+der Beförderung von radioaktiven Stoffen im Sinne von § 12 Absatz 1
+Nummer 1 bis 3 oder § 27 des Strahlenschutzgesetzes tätig werden soll,
+bedarf es nur, wenn die zuständige Behörde die Überprüfung verlangt,
+weil der Schutz gegen unbefugte Handlungen, die zu einer Entwendung
+oder Freisetzung radioaktiver Stoffe führen können, die Überprüfung
+erfordert.
 2             Satz 1 gilt nicht für die Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes und den Umgang mit
-umschlossenen radioaktiven Stoffen im Sinne des § 3 Absatz 2 Nummer 29
-Buchstabe b der Strahlenschutzverordnung im nichtmedizinischen
-Bereich, deren Aktivität den Aktivitätswert von 1 000 Terabecquerel
-übersteigt.
+Sinne des § 186 Absatz 1 Satz 2 des Strahlenschutzgesetzes und den
+Umgang mit umschlossenen radioaktiven Stoffen im Sinne des § 5 Absatz
+35 und 36 des Strahlenschutzgesetzes im nichtmedizinischen Bereich,
+deren Aktivität den Aktivitätswert von 1 000 Terabecquerel übersteigt.
 
 (3) Einer Zuverlässigkeitsüberprüfung bedarf es nicht, wenn für eine
 Person nach dieser Verordnung bereits eine Überprüfung in der gleichen
@@ -157,9 +160,11 @@ folgenden Personen durchzuführen:
 4.  Angehörige des Objektsicherungsdienstes und
 
 
-5.  Einsatzpersonal, das während des Leistungsbetriebs im inneren
-    Sicherungsbereich unbeaufsichtigt Arbeiten an zu schützenden
-    Anlagenteilen oder an Sicherungssystemen ausführt.
+5.  Einsatzpersonal, das im inneren Sicherungsbereich unbeaufsichtigt
+    Arbeiten an zu schützenden Anlagenteilen oder an Sicherungssystemen
+    ausführt; für Anlagen in Stilllegung nach § 7 Absatz 3 des
+    Atomgesetzes nur, solange in der Anlage neben aktivierten oder
+    kontaminierten Anlagenteilen Kernbrennstoffe vorhanden sind.
 
 
 
@@ -324,10 +329,15 @@ anerkennen, und zwar
 2             Der Antragsteller soll zur Bestätigung der Mitteilung
 ergänzende Unterlagen vorlegen.
 
-(5) Zur Überprüfung der Zuverlässigkeit in den Fällen des § 1 Absatz 2
-Satz 1 lässt sich die zuständige Behörde nur ein Führungszeugnis für
-Behörden nach § 30 Absatz 5 des Bundeszentralregistergesetzes
-vorlegen.
+(5)
+1             Zur Überprüfung der Zuverlässigkeit in den Fällen des §
+1 Absatz 2 Satz 1 lässt sich die zuständige Behörde nur ein
+Führungszeugnis für Behörden nach § 30 Absatz 5 des
+Bundeszentralregisters vorlegen.
+2             In Einzelfällen, in denen es der Schutz gegen
+Störmaßnahmen und Einwirkungen Dritter erfordert, kann die zuständige
+Behörde abweichend von Satz 1 Zuverlässigkeitsüberprüfungen nach § 2
+durchführen.
 
 (6) Bei tatsächlichen Anhaltspunkten für Zweifel an der
 Zuverlässigkeit des Betroffenen kann die zuständige Behörde zusätzlich
@@ -343,13 +353,13 @@ Einrichtung auf Antrag durch die zuständige Behörde zu überprüfen.
 2             Antragsberechtigt sind Antragsteller in Genehmigungs-
 oder Planfeststellungsverfahren oder Genehmigungsinhaber in
 Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§
-4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach den §§ 7, 11
-oder 16 der Strahlenschutzverordnung beziehen.
+4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach § 12 Absatz 1
+Nummer 1 bis 3 oder § 27 des Strahlenschutzgesetzes beziehen.
 3             Überträgt der Inhaber einer Genehmigung nach § 4 des
 Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes einem Dritten Aufgaben, die
-in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind,
-ist auch der Dritte antragsberechtigt.
+Sinne des § 23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in
+der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist
+auch der Dritte antragsberechtigt.
 4             Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4
 des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des
 Betroffenen durch die zuziehende Behörde veranlaßt.
@@ -483,10 +493,11 @@ insbesondere in Betracht kommen bei
 
 
 6.  Verhängung einer Geldbuße wegen Verletzung der Vorschriften des
-    Atomgesetzes, des Gesetzes über die Kontrolle von Kriegswaffen, des
-    Gesetzes über die Beförderung gefährlicher Güter, des Waffengesetzes,
-    des Beschussgesetzes, des Sprengstoffgesetzes oder einer auf Grund
-    dieser Gesetze erlassenen Rechtsverordnung.
+    Atomgesetzes, des Strahlenschutzgesetzes, des Gesetzes über die
+    Kontrolle von Kriegswaffen, des Gesetzes über die Beförderung
+    gefährlicher Güter, des Waffengesetzes, des Beschussgesetzes, des
+    Sprengstoffgesetzes oder einer auf Grund dieser Gesetze erlassenen
+    Rechtsverordnung.
 
 
 
@@ -652,10 +663,8 @@ entscheidet die zuständige Behörde.
 2             Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
 
-## § 10 Übergangsregelung
+## § 10 (weggefallen)
 
-Zuverlässigkeitsüberprüfungen, die vor dem 1. Juli 2010 beantragt
-wurden, sind nach dem bis dahin geltenden Recht zu Ende zu führen.
 
 
 ## § 11 (weggefallen)

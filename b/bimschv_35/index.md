@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2218
 
-Geändert durch
-:   Art. 1 V v. 5.12.2007 I 2793
+Zuletzt geändert durch
+:   Art. 85 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -109,12 +109,12 @@ nachgewiesen
 2.  für Kraftfahrzeuge, die unter die Regelungen des Autobahnmautgesetzes
     für schwere Nutzfahrzeuge in der Fassung der Bekanntmachung vom 2.
     Dezember 2004 (BGBl. I S. 3122) fallen, durch Nachweise nach den §§ 8
-    und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBI. I S. 1003).
+    und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003).
 
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt
 die Zuordnung der in den Fahrzeugpapieren eingetragenen
 Emissionsschlüsselnummern zu den einzelnen Schadstoffgruppen im
 Verkehrsblatt bekannt.
@@ -126,7 +126,7 @@ Verkehrsblatt bekannt.
 Regelungen des Autobahnmautgesetzes für schwere Nutzfahrzeuge in der
 Fassung der Bekanntmachung vom 2. Dezember 2004 (BGBl. I S. 3122)
 fallen, kann die Zuordnung zu einer Schadstoffgruppe durch Nachweise
-nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBI. I
+nach den §§ 8 und 9 der LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I
 S. 1003) nachgewiesen werden.
 
 (2) Bei Fahrzeugen, die im Ausland zugelassen sind, wird vermutet,

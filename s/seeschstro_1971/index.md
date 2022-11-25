@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1998 I 3209; 1999 I 193;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 8.3.2012 I 483
+:   Art. 2 § 12 V v. 21.9.2018 I 1398
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -303,8 +303,8 @@ dieser Verordnung:
 14. Binnenschiffe
 
     Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) in der jeweils geltenden Fassung, erteilt worden ist sowie
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung, erteilt worden ist sowie
     Binnenfahrzeuge unter fremder Flagge;
 
 
@@ -455,7 +455,7 @@ dieser Verordnung:
 
 27. Verkehrszentralen
 
-    die von der Wasser- und Schiffahrtsverwaltung des Bundes
+    die von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     eingerichteten Revierzentralen;
 
 
@@ -701,11 +701,9 @@ S. 25) zur Verwendung auf Seeschiffahrtsstraßen zugelassen ist. § 5 in
 Verbindung mit Anlage 1 Abschnitt A.I der Schiffssicherheitsverordnung
 vom 18. September 1998 (BGBl. I S. 3013, 3023), zuletzt geändert durch
 Artikel 2 der Verordnung vom 24. Juni 1999 (BGBl. I S. 1462), gilt
-entsprechend. Die Sätze 1 und 2 gelten nicht für Sportboote im Sinne
-des § 1 Absatz 2 der Verordnung über die Bereitstellung von
-Sportbooten und den Verkehr mit Sportbooten und Wasserfahrzeuge nach §
-1 Absatz 7 Nummer 1 bis 11 der Verordnung über die Bereitstellung von
-Sportbooten und den Verkehr mit Sportbooten.
+entsprechend. Die Sätze 1 und 2 gelten nicht für Wasserfahrzeuge im
+Sinne des § 1 Absatz 1 Nummer 1 der Verordnung über Sportboote und
+Wassermotorräder.
 
 (2) Abweichend von Nummer 11 der Anlage I der
 Kollisionsverhütungsregeln müssen Positionslaternen elektrisch
@@ -713,7 +711,7 @@ betrieben sein. Auf Fahrzeugen unter Ruder oder Segel von weniger als
 20 Metern Länge, auf denen keine ausreichende Stromquelle vorhanden
 ist, auf unbemannten Fahrzeugen, auf bemannten Binnenschiffen ohne
 eigene Antriebsanlage sowie für die Reservebeleuchtung von
-Binnenschiffen nach Anhang III § 6.06 der
+Binnenschiffen nach Anhang III § 6.06 Buchstabe c der
 Binnenschiffsuntersuchungsordnung dürfen nichtelektrische
 Positionslaternen verwendet werden.
 
@@ -726,21 +724,16 @@ Fahrzeugen der Wasserschutzpolizeien und der Bundespolizei der Abstand
 zwischen den senkrecht übereinander zu führenden Lichtern mindestens 1
 Meter betragen.
 
-(4) Auf Binnenschiffen im Sinne des § 8 Abs. 1 Satz 5 dürfen zur
+(4) Auf Binnenschiffen im Sinne des § 8 Absatz 1 Satz 5 dürfen zur
 Lichterführung nach dieser Verordnung und den
 Kollisionsverhütungsregeln auch solche Positionslaternen verwendet
-werden, die vom Bundesamt für Seeschiffahrt und Hydrographie als helle
-Lichter, bei Verwendung als Topplaternen als starke Lichter nach der
-Verordnung über die Farbe und Lichtstärke der Bordlichter sowie die
-Zulassung von Signalleuchten in der Binnenschiffahrt auf Rhein und
-Mosel vom 16. März 1992 (BGBl. I S. 531), geändert durch Verordnung
-vom 4. März 1994 (BGBl. I S. 440), in der jeweils geltenden Fassung
-oder nach der Verordnung über die Farbe und Lichtstärke der
-Bordlichter sowie die Zulassung von Signalleuchten im Geltungsbereich
-der Binnenschiffahrtsstraßen-Ordnung vom 14. September 1972 (BGBl. I
-S. 1775), zuletzt geändert durch § 5 der Verordnung vom 16. März 1992
-(BGBl. I S. 531), in der jeweils geltenden Fassung, zugelassen sind.
-Wird die Wirksamkeit oder Betriebssicherheit dieser Positionslaternen
+werden, die vom Bundesamt für Seeschifffahrt und Hydrographie als
+helle Lichter, bei Verwendung als Topplaternen als starke Lichter nach
+Anhang II § 7.05 der Binnenschiffsuntersuchungsordnung vom 6. Dezember
+2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung vom
+20\. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der
+jeweils geltenden und anzuwendenden Fassung zugelassen sind. Wird die
+Wirksamkeit oder Betriebssicherheit dieser Positionslaternen
 beeinträchtigt, ist unverzüglich für sachgemäße Instandsetzung oder
 Ersatz zu sorgen.
 
@@ -1446,11 +1439,11 @@ Fahrwasser zu schaffen, daß die Schiffahrt nicht beeinträchtigt wird.
 Nach einem Zusammenstoß ist hierzu auch der Führer eines beteiligten
 schwimmfähig gebliebenen Fahrzeugs verpflichtet.
 
-(2) Wird der für die Schiffahrt erforderliche Zustand der
-Seeschiffahrtsstraße oder die Sicherheit und Leichtigkeit des Verkehrs
-durch
+(2) Wird der für die Schifffahrt erforderliche Zustand der
+Seeschifffahrtsstraße oder die Sicherheit und Leichtigkeit des
+Verkehrs durch
 
-1.  in der Seeschiffahrtsstraße hilflos treibende, festgekommene,
+1.  in der Seeschifffahrtsstraße hilflos treibende, festgekommene,
     gestrandete oder gesunkene Fahrzeuge, schwimmende Anlagen oder
     außergewöhnliche Schwimmkörper oder durch andere treibende oder auf
     Grund geratene Gegenstände oder
@@ -1461,14 +1454,15 @@ durch
 
 
 
-beeinträchtigt oder gefährdet, so ist das zuständige Wasser- und
-Schiffahrtsamt oder die Verkehrszentrale unverzüglich zu unterrichten.
+beeinträchtigt oder gefährdet, so ist das zuständige Wasserstraßen-
+und Schifffahrtsamt oder die Verkehrszentrale unverzüglich zu
+unterrichten.
 
 (3) Der Ort eines gesunkenen Fahrzeugs ist vom Fahrzeugführer
 unverzüglich behelfsmäßig zu bezeichnen. Nach einem Zusammenstoß ist
 hierzu auch der Führer eines beteiligten schwimmfähig gebliebenen
 Fahrzeugs verpflichtet. Er darf die Fahrt erst nach Genehmigung des
-zuständigen Wasser- und Schiffahrtsamtes fortsetzen.
+zuständigen Wasserstraßen- und Schifffahrtsamtes fortsetzen.
 
 (4) Ein festgekommenes Fahrzeug darf seine Maschine zum Freikommen
 benutzen, es sei denn, daß dies ohne Beschädigung der
@@ -1520,15 +1514,15 @@ Fahrgastschiffahrt und den Fährbetrieb bleiben unberührt.
 (2) Wer Fahrgastschiffe oder Fähren zu regelmäßigen Fahrten einsetzen
 will, hat den Fahrplan mit den Abfahrts- und Ankunftszeiten und den
 Anlegestellen spätestens zwei Wochen vor Beginn der Fahrten dem
-zuständigen Wasser- und Schiffahrtsamt vorzulegen. Die Fahrten sind
-nach den im Fahrplan angegebenen Zeiten durchzuführen. Jede
+zuständigen Wasserstraßen- und Schifffahrtsamt vorzulegen. Die Fahrten
+sind nach den im Fahrplan angegebenen Zeiten durchzuführen. Jede
 Fahrplanänderung ist zwei Wochen, bevor sie in Kraft treten soll, der
 nach Satz 1 zuständigen Behörde mitzuteilen.
 
-(3) Der Unternehmer hat auf Verlangen des zuständigen Wasser- und
-Schiffahrtsamtes den Fahrplan so zu ändern, daß Beeinträchtigungen der
-Sicherheit und Leichtigkeit des Verkehrs an den Anlegestellen und im
-Fahrwasser vermieden werden.
+(3) Der Unternehmer hat auf Verlangen des zuständigen Wasserstraßen-
+und Schifffahrtsamtes den Fahrplan so zu ändern, daß
+Beeinträchtigungen der Sicherheit und Leichtigkeit des Verkehrs an den
+Anlegestellen und im Fahrwasser vermieden werden.
 
 (4) Das Ausbooten von Fahrgästen und das Übersteigen von Fahrgästen
 von einem Fahrzeug auf ein anderes ist verboten, es sei denn, örtliche
@@ -1646,9 +1640,9 @@ verkehrsbedingten Gründen nicht liegen.
 
 (1) Der Fahrzeugführer oder sein Beauftragter hat die Kanalfahrt
 umgehend nach dem Einfahren in die Schleusen Brunsbüttel, Kiel-
-Holtenau oder Gieselau beim zuständigen Wasser- und Schiffahrtsamt
-unter Vorlage der nach § 60 Abs. 1 bekanntgemachten Unterlagen
-anzumelden.
+Holtenau oder Gieselau beim zuständigen Wasserstraßen- und
+Schifffahrtsamt unter Vorlage der nach § 60 Abs. 1 bekanntgemachten
+Unterlagen anzumelden.
 
 (2) Macht ein Fahrzeug im Nord-Ostsee-Kanal fest, ohne ein Haltegebot
 erhalten zu haben, so hat es sich bei der zuständigen Verkehrszentrale
@@ -1842,7 +1836,8 @@ Ausschleusen zur Elbe.
 (2) Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren
 Lagerplatz unmittelbar am Nord-Ostsee-Kanal zwischen den Schleusen
 haben und auf dem Nord-Ostsee-Kanal fahren wollen, benötigen einen vom
-zuständigen Wasser- und Schiffahrtsamt ausgestellten Fahrtausweis.
+zuständigen Wasserstraßen- und Schifffahrtsamt ausgestellten
+Fahrtausweis.
 
 (3) Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, daß sie vor
 Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle
@@ -1892,34 +1887,32 @@ südlich der Gieselauschleuse befindlichen Liegestelle festmachen.
 (aufgehoben)
 
 
-## Achter Abschnitt - Aufgaben und Zuständigkeiten der Behörden der Wasser- und Schiffahrtsverwaltung des Bundes
+## Achter Abschnitt - Aufgaben und Zuständigkeiten der Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
 
 
-### § 55 Schiffahrtspolizei
+### § 55 Schifffahrtspolizei
 
-(1) Schiffahrtspolizeibehörden sind die Wasser- und
-Schiffahrtsdirektionen Nord und Nordwest sowie die ihnen
-nachgeordneten Wasser- und Schiffahrtsämter; sie bedienen sich nach
-Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die
-Ausübung der schiffahrtspolizeilichen Vollzugsaufgaben der
-Wasserschutzpolizei der Küstenländer sowie nach Maßgabe des § 3 Abs. 2
-des Seeaufgabengesetzes der Bundespolizei und der Zollverwaltung.
+(1) Schifffahrtspolizeibehörden sind die Generaldirektion
+Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten, für die
+Seeschifffahrtsstraßen zuständigen Wasserstraßen- und
+Schifffahrtsämter; sie bedienen sich nach Maßgabe der Vereinbarungen
+zwischen dem Bund und den Ländern über die Ausübung der
+schifffahrtspolizeilichen Vollzugsaufgaben der Wasserschutzpolizei der
+Küstenländer sowie nach Maßgabe des § 3 Absatz 2 des
+Seeaufgabengesetzes der Bundespolizei und der Zollverwaltung.
 
-(2) Örtliche Maßnahmen der Schiffahrtspolizei treffen die Wasser- und
-Schiffahrtsämter. Wenn sich eine Maßnahme über den Bezirk eines
-Wasser- und Schiffahrtsamtes hinaus auswirkt, ist dasjenige Amt
-zuständig, in dessen Bezirk der zu regelnde Sachverhalt zuerst
-eintritt. Die zuständige Wasser- und Schiffahrtsdirektion kann
-abweichend hiervon die Zuständigkeit für bestimmte
-schiffahrtspolizeiliche Aufgaben auf einer Seeschiffahrtsstraße einem
-bestimmten Wasser- und Schiffahrtsamt übertragen. Wirkt sich eine
-Maßnahme über den Bezirk einer Wasser- und Schiffahrtsdirektion hinaus
-aus, ist das Wasser- und Schiffahrtsamt der Wasser- und
-Schiffahrtsdirektion zuständig, in dessen Bezirk der zu regelnde
-Sachverhalt zuerst eintritt. Ist eine Maßnahme von grundsätzlicher
-Bedeutung, trifft sie die zuständige Wasser- und Schiffahrtsdirektion.
-Schiffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können
+(2) Örtliche Maßnahmen der Schifffahrtspolizei treffen die
+Wasserstraßen- und Schifffahrtsämter. Wenn sich eine Maßnahme über den
+Bezirk eines Wasserstraßen- und Schifffahrtsamtes hinaus auswirkt, ist
+dasjenige Amt zuständig, in dessen Bezirk der zu regelnde Sachverhalt
+zuerst eintritt. Die Generaldirektion Wasserstraßen und Schifffahrt
+kann abweichend hiervon die Zuständigkeit für bestimmte
+schifffahrtspolizeiliche Aufgaben auf einer Seeschifffahrtsstraße
+einem bestimmten Wasserstraßen- und Schifffahrtsamt übertragen. Ist
+eine Maßnahme von grundsätzlicher Bedeutung, trifft sie die
+Generaldirektion Wasserstraßen und Schifffahrt.
+Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können
 auch von der Wasserschutzpolizei getroffen werden.
 
 
@@ -1959,8 +1952,8 @@ vor.
 
 ### § 57 Schiffahrtspolizeiliche Genehmigungen
 
-(1) Einer schiffahrtspolizeilichen Genehmigung des nach § 55 Abs. 2
-zuständigen Wasser- und Schiffahrtsamtes bedürfen
+(1) Einer schiffahrtspolizeilichen Genehmigung des nach § 55 Absatz 2
+zuständigen Wasserstraßen- und Schifffahrtsamtes bedürfen
 
 1.  der Verkehr von außergewöhnlich großen Fahrzeugen, von Luftkissen-,
     Tragflächen- und Bodeneffektfahrzeugen, von
@@ -2113,26 +2106,23 @@ Verordnung im Einzelfall befreien.
 
 ### § 60 Ermächtigung zum Erlaß von schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
 
-(1) Die Wasser- und Schiffahrtsdirektionen Nord und Nordwest werden,
-jeweils für ihren Zuständigkeitsbereich, ermächtigt, die in den
-vorstehenden Vorschriften vorgesehenen Bekanntmachungen zu erlassen,
-wenn und soweit dies zur Abwehr von Gefahren für die Sicherheit und
-Leichtigkeit des Verkehrs, zur Abwehr von Gefahren für die
-Meeresumwelt oder zur Verhütung von der Schifffahrt ausgehender
-schädlicher Umwelteinwirkungen im Sinne des Bundes-
-Immissionsschutzgesetzes erforderlich ist. Die Bekanntmachungen sind
-im Bundesanzeiger zu veröffentlichen.
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, die in den vorstehenden Vorschriften vorgesehenen
+Bekanntmachungen zu erlassen, wenn und soweit dies zur Abwehr von
+Gefahren für die Sicherheit und Leichtigkeit des Verkehrs, zur Abwehr
+von Gefahren für die Meeresumwelt oder zur Verhütung von der
+Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des
+Bundes-Immissionsschutzgesetzes erforderlich ist. Die Bekanntmachungen
+sind im Bundesanzeiger zu veröffentlichen.
 
-(2) Die Wasser- und Schiffahrtsdirektionen Nord und Nordwest werden,
-jeweils für ihren Zuständigkeitsbereich, ermächtigt,
-Rechtsverordnungen über die Begrenzung von militärischen und zivilen
-Übungs- und Sperrgebieten sowie über das dadurch bedingte Verhalten
-von Fahrzeugen zu erlassen.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, Rechtsverordnungen über die Begrenzung von militärischen
+und zivilen Übungs- und Sperrgebieten sowie über das dadurch bedingte
+Verhalten von Fahrzeugen zu erlassen.
 
-(3) Die Wasser- und Schifffahrtsdirektionen Nord und Nordwest werden,
-jeweils für ihren Zuständigkeitsbereich, ermächtigt, durch
-Rechtsverordnung Anordnungen vorübergehender Art mit einer
-Geltungsdauer von höchstens drei Jahren zu erlassen, die aus
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender Art mit
+einer Geltungsdauer von höchstens drei Jahren zu erlassen, die aus
 besonderen Anlässen für die Sicherheit und Leichtigkeit des Verkehrs
 auf den Seeschifffahrtsstraßen, zur Abwehr von Gefahren für die
 Meeresumwelt oder zur Verhütung von der Schifffahrt ausgehender
@@ -2355,17 +2345,17 @@ fahrlässig
 
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
-Schiffahrtsdirektionen Nord und Nordwest übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten auf Grund der nach § 60 Abs. 2 und 3 erlassenen
-Rechtsverordnungen wird auf die Wasser- und Schiffahrtsdirektionen
-Nord und Nordwest übertragen.
+Rechtsverordnungen wird auf die Generaldirektion Wasserstraßen und
+Schifffahrt übertragen.
 
 (4) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 15 Abs. 1 Nr. 1 des Seeaufgabengesetzes
-wird auf die Wasser- und Schiffahrtsdirektionen Nord und Nordwest
+wird auf die Generaldirektion Wasserstraßen und Schifffahrt
 übertragen. Dies gilt auch, soweit die Ordnungswidrigkeiten auf einem
 deutschen Schiff außerhalb der deutschen Hoheitsgewässer begangen
 werden.

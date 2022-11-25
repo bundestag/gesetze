@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2787
 
-Geändert durch
-:   Art. 516 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 3 V v. 1.3.2016 I 329
 
 
 ## § 1 Zweck der Verordnung und Zuständigkeit des Bundes
@@ -317,12 +317,96 @@ Schiff verantwortlich. Er kann sich bei dessen Erarbeitung der Hilfe
 Dritter bedienen, die über einschlägige Erfahrungen im Sinne des Teils
 A Abschnitt 9 des ISPS-Codes verfügen.
 
+(1a) Der Plan zur Gefahrenabwehr auf dem Schiff hat als Verfahren zur
+Reaktion auf Bedrohungssituationen im Sinne des Teils A Abschnitt 9.4
+Nummer 4 des ISPS-Codes mindestens die Nutzung international
+eingerichteter Melde- und Warnsysteme beim Einfahren in oder beim
+Durchfahren durch ein nach § 1 Nummer 14 des Seeaufgabengesetzes in
+Gefahrenstufe 2 oder Gefahrenstufe 3 eingestuftes Seegebiet
+vorzusehen.
+
+(1b) Sieht das Unternehmen den Einsatz von privaten bewaffneten
+Wachpersonen an Bord eines Seeschiffs seewärts der Begrenzung der
+deutschen ausschließlichen Wirtschaftszone zur Abwehr äußerer Gefahren
+vor, so ist ein genehmigter Zusatz zu dem Plan zur Gefahrenabwehr auf
+dem Schiff erforderlich.
+
 (2) Der Plan zur Gefahrenabwehr auf dem Schiff wird auf Antrag vom
 Bundesamt genehmigt, wenn der Plan die in Teil A Abschnitt 9.4 des
 ISPS-Codes genannten Voraussetzungen unter Berücksichtigung der
 Hinweise in Teil B des ISPS-Codes erfüllt. Die Genehmigung ist zu
 widerrufen, wenn die zu ihrer Erteilung notwendigen Voraussetzungen
 nicht mehr vorliegen.
+
+(2a) Das Bundesamt genehmigt auf Antrag den Zusatz zum Plan zur
+Gefahrenabwehr nach Absatz 1b für einen Zeitraum von längstens zwei
+Jahren, wenn:
+
+1.  der Einsatz von privaten bewaffneten Wachpersonen als Verfahren zur
+    Reaktion auf Bedrohungssituationen im Sinne des Teils A Abschnitt 9.4
+    Nummer 4 des ISPS-Codes aufgenommen wird und
+
+
+2.  der Beauftragte für die Gefahrenabwehr im Unternehmen gegenüber dem
+    Bundesamt schriftlich erklärt, dass folgende Anforderungen erfüllt
+    werden:
+
+    a)  Die privaten bewaffneten Wachpersonen, die eingesetzt werden sollen,
+        sind Mitarbeiter von nach § 31 Absatz 1 der Gewerbeordnung in der
+        Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die
+        zuletzt durch Artikel 3 des Gesetzes vom 15. Juli 2013 (BGBl. I S.
+        2390) geändert worden ist, zugelassenen Bewachungsunternehmen auf
+        Seeschiffen und
+
+
+    b)  bei dem Einsatz werden die Leitlinien der Internationalen
+        Seeschifffahrts-Organisation „Überarbeitete vorläufige Leitlinien für
+        Reeder, Schiffsbetreiber und Schiffsführer über den Einsatz von
+        bewaffnetem privaten Wachpersonal an Bord von Schiffen im
+        Hochrisikogebiet“ in der Fassung der Bekanntmachung des
+        Bundesministeriums für Verkehr und digitale Infrastruktur vom 15. Mai
+        2013 (VkBl. 2013 S. 640) beachtet.
+
+
+
+
+
+
+Der Antragsteller ist durch Auflagen zur Genehmigung zu verpflichten,
+
+1.  durch den Beauftragten für die Gefahrenabwehr im Unternehmen
+    spätestens 24 Stunden vor Einfahrt in ein in die Gefahrenstufe 2 oder
+    Gefahrenstufe 3 eingestuftes Seegebiet der Zentralen Kontaktstelle
+    nach § 10 Absatz 1 den Einsatz von privaten bewaffneten Wachpersonen
+    von nach § 31 Absatz 1 der Gewerbeordnung zugelassenen
+    Bewachungsunternehmen auf Seeschiffen anzuzeigen,
+
+
+2.  die Berichte und Aufzeichnungen, die nach den in Satz 1 Nummer 2
+    Buchstabe b genannten Leitlinien, Abschnitt „Berichte und
+    Aufzeichnungen“, zu erstellen sind, zwei Jahre lang aufzubewahren,
+    wobei die Frist zur Aufbewahrung mit dem Schluss des Kalenderjahres
+    beginnt, in dem der Bericht oder die Aufzeichnung angefertigt wurden,
+    und
+
+
+3.  diese Berichte und Aufzeichnungen dem Bundesamt, dem Bundesamt für
+    Wirtschaft und Ausfuhrkontrolle und der nach § 1 Absatz 3 Nummer 3 der
+    Verordnung über die Zuständigkeit der Bundespolizeibehörden vom 22.
+    Februar 2008 (BGBl. I S. 250), die zuletzt durch Artikel 1 der
+    Verordnung vom 27. Juni 2013 (BGBl. I S. 1952) geändert worden ist,
+    zuständigen Stelle der Bundespolizei bei Abfeuerung von Schusswaffen
+    oder auf Anforderung unverzüglich durch den Beauftragten für die
+    Gefahrenabwehr im Unternehmen oder durch den Beauftragten für die
+    Gefahrenabwehr auf dem Schiff vorzulegen.
+
+
+
+Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen,
+wenn das Bundesamt von Tatsachen Kenntnis erlangt, dass private
+bewaffnete Wachpersonen eingesetzt werden, die nicht Mitarbeiter eines
+nach § 31 Absatz 1 der Gewerbeordnung zugelassenen
+Bewachungsunternehmens sind.
 
 (3) Der Beauftragte für die Gefahrenabwehr auf dem Schiff hat die im
 Plan zur Gefahrenabwehr auf dem Schiff vorgesehenen Punkte gemäß Teil
@@ -338,7 +422,8 @@ fortlaufend zu dokumentieren und dem Bundesamt durch den Beauftragten
 zur Gefahrenabwehr im Unternehmen mitzuteilen. Wesentliche Änderungen
 bedürfen der Genehmigung durch das Bundesamt. Dies sind insbesondere
 Änderungen der Maßnahmen betreffend Teil A Abschnitt 9.4 Nr. 1 bis 3,
-5 und 14 des ISPS-Codes.
+5 und 14 des ISPS-Codes. Änderungen des Zusatzes zum
+Gefahrenabwehrplan sind nicht zulässig.
 
 (5) Die Beauftragten für die Gefahrenabwehr im Unternehmen und an Bord
 des Schiffes sind gemäß Teil A Abschnitt 9.7 des ISPS-Codes
@@ -450,9 +535,9 @@ Ausstellung an Bord aufzubewahren.
 ## § 10 Kommunikation
 
 (1) Gemäß der Regel 7 des Kapitels XI-2 der Anlage des SOLAS-
-Übereinkommens wird eine Zentrale Kontaktstelle im
-Zuständigkeitsbereich der Wasser- und Schifffahrtsverwaltung des
-Bundes eingerichtet.
+Übereinkommens wird eine Zentrale Kontaktstelle des Bundes im
+gemeinsamen Lagezentrum See des Maritimen Sicherheitszentrums Cuxhaven
+eingerichtet.
 
 (2) Die Zentrale Kontaktstelle nimmt neben Anfragen und Berichten der
 Schifffahrt die in der Regel 6 des Kapitels XI-2 der Anlage des SOLAS-
@@ -533,11 +618,11 @@ Unternehmen teilt Angaben zu Übungen dem Bundesamt auf Anfrage mit,
 unter anderem um den Behörden im Sinne von Teil B Abschnitt 13.7 des
 ISPS-Codes eine Teilnahme zu ermöglichen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 zur Überprüfung des Systems zur Gefahrenabwehr in der Seeschifffahrt
 im Sinne des ISPS-Codes übergreifende Übungen veranlassen. Sollen
 Stellen oder Behörden außerhalb des Geschäftsbereichs des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung an solchen
+Bundesministeriums für Verkehr und digitale Infrastruktur an solchen
 Übungen teilnehmen, bedarf es der vorherigen Zustimmung der jeweiligen
 obersten Bundesbehörde.
 
@@ -575,20 +660,27 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
     erreichbar ist,
 
 
-5.  entgegen § 7 Abs. 3 Satz 1 die im Plan zur Gefahrenabwehr auf dem
+5.  ohne genehmigten Zusatz zu dem Plan zur Gefahrenabwehr auf dem Schiff
+    nach § 7 Absatz 1b private bewaffnete Wachpersonen einsetzt,
+
+
+6.  einer vollziehbaren Auflage nach § 7 Absatz 2a Satz 2 zuwiderhandelt,
+
+
+7.  entgegen § 7 Abs. 3 Satz 1 die im Plan zur Gefahrenabwehr auf dem
     Schiff vorgesehenen Punkte nicht oder nicht rechtzeitig behandelt,
 
 
-6.  entgegen § 9 Abs. 1 nicht dafür sorgt, dass erst mit dem Austausch von
+8.  entgegen § 9 Abs. 1 nicht dafür sorgt, dass erst mit dem Austausch von
     Personen oder Gütern begonnen wird, wenn die dort genannten
     Voraussetzungen erfüllt sind,
 
 
-7.  entgegen § 9 Abs. 6 eine Sicherheitserklärung nicht oder nicht
+9.  entgegen § 9 Abs. 6 eine Sicherheitserklärung nicht oder nicht
     mindestens ein Jahr aufbewahrt oder
 
 
-8.  entgegen § 10 Abs. 7 Satz 1 die Erreichbarkeit eines Schiffes nicht
+10. entgegen § 10 Abs. 7 Satz 1 die Erreichbarkeit eines Schiffes nicht
     gewährleistet.
 
 
@@ -604,4 +696,13 @@ Seeschifffahrt und Hydrographie übertragen.
 ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und
 Markenamt in München archivmäßig gesichert niedergelegt.
+
+
+## § 14 Übergangsvorschrift zu § 7 Absatz 2a
+
+Anträge nach § 7 Absatz 2a auf Genehmigung des Zusatzes zu dem Plan
+zur Gefahrenabwehr auf dem Schiff nach § 7 Absatz 1b in der ab dem 1.
+Dezember 2013 geltenden Fassung können bereits vor dem 1. Dezember
+2013 bearbeitet werden. Genehmigungen werden frühestens mit Wirkung
+zum 1. Dezember 2013 erteilt.
 

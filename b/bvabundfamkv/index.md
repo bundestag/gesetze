@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 673
 
+Geändert durch
+:   Art. 195 V v. 19.6.2020 I 1328
+
 
 ## Eingangsformel
 
@@ -34,10 +37,11 @@ eingerichtet.
 (2) Die Bundesfamilienkasse beim Bundesverwaltungsamt ist zuständig
 für die Festsetzung und Auszahlung von Kindergeld an die in § 72
 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes
-bezeichneten Angehörigen des Bundesministeriums des Innern und seines
-Geschäftsbereiches. Der Bundesfamilienkasse beim Bundesverwaltungsamt
-können weitere Aufgaben übertragen werden, die im Zusammenhang mit der
-Festsetzung, Auszahlung und Rückforderung von Kindergeld stehen.
+bezeichneten Angehörigen des Bundesministeriums des Innern, für Bau
+und Heimat und seines Geschäftsbereiches. Der Bundesfamilienkasse beim
+Bundesverwaltungsamt können weitere Aufgaben übertragen werden, die im
+Zusammenhang mit der Festsetzung, Auszahlung und Rückforderung von
+Kindergeld stehen.
 
 
 ## § 2 Aufgabenübertragung

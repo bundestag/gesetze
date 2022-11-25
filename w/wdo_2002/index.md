@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2093
 
 Zuletzt geändert durch
-:   Art. 20 G v. 24.11.2011 I 2302
+:   Art. 13 G v. 20.8.2021 I 3932
 
 
 ## Einleitende Bestimmungen
@@ -34,10 +34,11 @@ in einem Wehrdienstverhältnis gestanden haben (frühere Soldaten),
 soweit sich aus diesem Gesetz nichts anderes ergibt.
 
 (3) Frühere Soldaten, die keinen Anspruch auf Ruhegehalt, jedoch einen
-sonstigen Anspruch auf Dienstzeitversorgung oder auf Berufsförderung
-haben, gelten bis zur Beendigung der Gewährung dieser Leistungen im
-Sinne dieses Gesetzes als Soldaten im Ruhestand. Die Leistungen, die
-sie erhalten, gelten als Ruhegehalt.
+sonstigen Anspruch auf Dienstzeitversorgung, Altersgeld nach dem
+Altersgeldgesetz vom 28. August 2013 (BGBl. I S. 3386) oder auf
+Berufsförderung haben, gelten bis zur Beendigung der Gewährung dieser
+Leistungen im Sinne dieses Gesetzes als Soldaten im Ruhestand. Die
+Leistungen, die sie erhalten, gelten als Ruhegehalt.
 
 
 ### § 2 Früher begangene Dienstvergehen
@@ -77,7 +78,7 @@ dürfen weder beigezogen noch verwertet werden.
 ### § 4 Beteiligung der Vertrauensperson
 
 Für die Beteiligung der Vertrauensperson bei Entscheidungen nach
-diesem Gesetz gelten die §§ 27 und 28 des
+diesem Gesetz gelten die §§ 28 und 29 des
 Soldatenbeteiligungsgesetzes. Das Ergebnis der Anhörung der
 Vertrauensperson ist dem Soldaten vor dessen Anhörung nach § 14 Abs. 1
 Satz 3, § 32 Abs. 5 Satz 1 oder nach § 93 Abs. 1 Satz 2 bekannt zu
@@ -482,8 +483,8 @@ richterliche Anordnung ergangen ist, auch die Tatsachen ergeben
 müssen, die zur Annahme einer Gefahr im Verzug geführt haben. Dem
 Soldaten ist auf Verlangen eine Abschrift auszuhändigen.
 
-(5) Im Übrigen gelten § 94 Abs. 1 und 2, § 95 Abs. 1, §§ 97, 109 und
-111k der Strafprozessordnung entsprechend.
+(5) Im Übrigen gelten § 94 Abs. 1 und 2, § 95 Abs. 1, §§ 97, 109, 111n
+und 111o der Strafprozessordnung entsprechend.
 
 
 #### § 21 Vorläufige Festnahme
@@ -591,6 +592,11 @@ Disziplinarmaßnahme zulässig.
 
 (3) Eine einfache Disziplinarmaßnahme steht der Beförderung eines im
 Übrigen bewährten Soldaten nicht entgegen.
+
+(4) Gegen Soldaten in einem Wehrdienstverhältnis nach dem
+Reservistengesetz kann außerhalb einer Aktivierung nach § 8 des
+Reservistengesetzes oder einer Zuziehung nach § 9 des
+Reservistengesetzes nur ein Verweis verhängt werden.
 
 
 ##### § 23 Verweis, strenger Verweis
@@ -739,7 +745,8 @@ Disziplinarvorgesetzte die Disziplinarbefugnis aus. Nächster
 Disziplinarvorgesetzter ist der unterste Vorgesetzte mit
 Disziplinarbefugnis, dem der Soldat unmittelbar unterstellt ist. Die
 Zuständigkeit für die disziplinare Ahndung von Dienstvergehen der
-Vertrauensperson regelt § 14 Abs. 2 des Soldatenbeteiligungsgesetzes.
+Vertrauensperson regelt § 15 Absatz 2 des
+Soldatenbeteiligungsgesetzes.
 
 (2) Wechselt vor Erledigung eines Falles das Unterstellungsverhältnis,
 wird der neue Disziplinarvorgesetzte zuständig. Dies gilt insbesondere
@@ -767,12 +774,12 @@ kann, weil
 
 
 3.  die Tat von einer Vertrauensperson begangen worden ist, es sei denn,
-    dass die Voraussetzungen des § 14 Abs. 2 Satz 2 des
+    dass die Voraussetzungen des § 15 Absatz 2 Satz 2 des
     Soldatenbeteiligungsgesetzes vorliegen,
 
 
 4.  der nächste Disziplinarvorgesetzte nicht erreichbar ist und die
-    militärische Disziplin ein sofortiges Einschreiten erfordert. Solche
+    militärische Disziplin ein sofortiges Einschreiten erfordert; solche
     Fälle sind unverzüglich dem sonst zuständigen Disziplinarvorgesetzten
     mitzuteilen.
 
@@ -1111,22 +1118,22 @@ Maßgabe anzuwenden:
     errichtet ist, zu dem der Vorgesetzte, der die angefochtene
     Disziplinarmaßnahme verhängt oder die angefochtene Maßnahme oder
     Entscheidung getroffen hat, zum Zeitpunkt des Beschwerdeanlasses
-    gehört. Hat der Bundesminister der Verteidigung oder einer der in § 22
-    der Wehrbeschwerdeordnung genannten Disziplinarvorgesetzten über die
-    Beschwerde entschieden, ist das Bundesverwaltungsgericht zuständig.
-    Die angefochtene Disziplinarmaßnahme, Maßnahme oder Entscheidung
-    unterliegt der Prüfung des Wehrdienstgerichts in vollem Umfang; das
-    Gericht trifft zugleich die in der Sache erforderliche Entscheidung. §
-    40 Abs. 4 Satz 7 gilt entsprechend.
+    gehört. Hat der Bundesminister der Verteidigung oder der
+    Generalinspekteur der Bundeswehr über die Beschwerde entschieden, ist
+    das Bundesverwaltungsgericht zuständig. Die angefochtene
+    Disziplinarmaßnahme, Maßnahme oder Entscheidung unterliegt der Prüfung
+    des Wehrdienstgerichts in vollem Umfang; das Gericht trifft zugleich
+    die in der Sache erforderliche Entscheidung. § 40 Abs. 4 Satz 7 gilt
+    entsprechend.
 
 
 5.  Gegen die Rücknahme einer förmlichen Anerkennung, gegen Maßnahmen nach
     § 20 und gegen Disziplinararrest ist nur die Beschwerde an das
     Truppendienstgericht zulässig. Richtet sich die Beschwerde in diesen
     Fällen gegen eine Maßnahme oder Entscheidung des Bundesministers der
-    Verteidigung oder der in § 22 der Wehrbeschwerdeordnung genannten
-    Disziplinarvorgesetzten, entscheidet das Bundesverwaltungsgericht.
-    Nummer 4 Satz 4 und 5 ist entsprechend anzuwenden.
+    Verteidigung oder des Generalinspekteurs der Bundeswehr, entscheidet
+    das Bundesverwaltungsgericht. Nummer 4 Satz 4 und 5 ist entsprechend
+    anzuwenden.
 
 
 6.  Die Entscheidung über die Beschwerde darf die Disziplinarmaßname nicht
@@ -1571,8 +1578,9 @@ frühere Soldaten, die noch zu Dienstleistungen herangezogen werden
 können, dürfen nur die in Satz 1 genannten gerichtlichen
 Disziplinarmaßnahmen verhängt werden.
 
-(3) Gerichtliche Disziplinarmaßnahmen gegen Angehörige der Reserve
-sowie gegen nicht wehrpflichtige frühere Soldaten, die noch zu
+(3) Gerichtliche Disziplinarmaßnahmen gegen Soldaten in einem
+Wehrdienstverhältnis nach dem Reservistengesetz, gegen Angehörige der
+Reserve sowie gegen nicht wehrpflichtige frühere Soldaten, die noch zu
 Dienstleistungen herangezogen werden können, sind:
 
 1.  Dienstgradherabsetzung und
@@ -1582,6 +1590,10 @@ Dienstleistungen herangezogen werden können, sind:
 
 
 
+Für Soldaten im Ruhestand und frühere Soldaten, die als Soldaten im
+Ruhestand gelten (§ 1 Absatz 3), die in ein Wehrdienstverhältnis nach
+dem Reservistengesetz berufen werden, bleibt Absatz 2 Satz 1
+unberührt.
 
 (4) Wegen desselben Dienstvergehens dürfen nur Kürzung der
 Dienstbezüge und Beförderungsverbot nebeneinander verhängt werden. Sie
@@ -1649,8 +1661,9 @@ zulässig. Diese Beschränkung gilt auch bei Offizieren, gegen die
 Disziplinarmaßnahmen nach § 58 Abs. 2 und 3 verhängt werden dürfen.
 Bei Unteroffizieren, die Berufssoldaten sind, sowie bei Berufssoldaten
 im Ruhestand, die einen Unteroffizierdienstgrad führen, ist die
-Dienstgradherabsetzung bis zum Feldwebel zulässig. Im Übrigen ist sie
-unbeschränkt zulässig.
+Dienstgradherabsetzung bis zum Dienstgrad Feldwebel, bei
+Stabsunteroffizieren zum Dienstgrad Unteroffizier zulässig. Im Übrigen
+ist sie unbeschränkt zulässig.
 
 (2) Durch die Dienstgradherabsetzung verliert der Soldat alle Rechte
 aus seinem bisherigen Dienstgrad. Er tritt in den Dienstgrad und, wenn
@@ -1744,14 +1757,16 @@ Dienst befände. § 63 Abs. 1 Satz 3 gilt entsprechend.
 
 (1) Bei früheren Soldaten, die als Soldaten im Ruhestand gelten (§ 1
 Abs. 3), besteht die Kürzung des Ruhegehalts in der Kürzung der
-Übergangsbeihilfe, der Übergangsgebührnisse, der Ausgleichsbezüge oder
-des Unterhaltsbeitrags. Neben oder anstelle der Kürzung der
-Übergangsgebührnisse oder der Ausgleichsbezüge kann auf Kürzung der
-Übergangsbeihilfe erkannt werden.
+Übergangsbeihilfe, der Übergangsgebührnisse, der Ausgleichsbezüge, des
+Altersgelds nach dem Altersgeldgesetz oder des Unterhaltsbeitrags.
+Neben oder anstelle der Kürzung der Übergangsgebührnisse oder der
+Ausgleichsbezüge kann auf Kürzung der Übergangsbeihilfe erkannt
+werden.
 
-(2) Für die Kürzung der Übergangsgebührnisse, der Ausgleichsbezüge
-oder des Unterhaltsbeitrags gilt § 59 entsprechend. Die
-Übergangsbeihilfe kann bis zur Hälfte gekürzt werden.
+(2) Für die Kürzung der Übergangsgebührnisse, der Ausgleichsbezüge,
+des Altersgelds nach dem Altersgeldgesetz oder des Unterhaltsbeitrags
+gilt § 59 entsprechend. Die Übergangsbeihilfe kann bis zur Hälfte
+gekürzt werden.
 
 (3) Durch die Dienstgradherabsetzung erlöschen die Rechte aus einem
 Eingliederungs- oder Zulassungsschein, sofern der frühere Soldat noch
@@ -1761,9 +1776,9 @@ bleibt ein Anspruch auf Berufsförderung unberührt.
 (4) Mit der Aberkennung des Ruhegehalts verliert der frühere Soldat
 den Anspruch auf eine noch nicht gezahlte Übergangsbeihilfe sowie
 Ansprüche auf Übergangsgebührnisse, Ausgleichsbezüge,
-Unterhaltsbeitrag und Berufsförderung. Er verliert ferner seinen
-Dienstgrad und die sich daraus ergebenden Befugnisse. § 63 Abs. 4 gilt
-entsprechend.
+Unterhaltsbeitrag, Altersgeld nach dem Altersgeldgesetz und
+Berufsförderung. Er verliert ferner seinen Dienstgrad und die sich
+daraus ergebenden Befugnisse. § 63 Abs. 4 gilt entsprechend.
 
 
 #### 2. - Wehrdienstgerichte
@@ -1889,8 +1904,8 @@ Truppendienstgericht möglichst die dreifache Anzahl der erforderlichen
 ehrenamtlichen Richter. Sie benennen außerdem möglichst die dreifache
 Anzahl der erforderlichen ehrenamtlichen Richter aus der Laufbahn des
 Sanitätsdienstes, die Ärzte oder Zahnärzte sind. Außerdem benennen die
-Kreiswehrersatzämter die erforderliche Anzahl von Angehörigen der
-Reserve. Die ehrenamtlichen Richter sind getrennt nach
+Karrierecenter der Bundeswehr die erforderliche Anzahl von Angehörigen
+der Reserve. Die ehrenamtlichen Richter sind getrennt nach
 Dienstgradgruppen zu benennen. Soldaten oder frühere Soldaten, die im
 laufenden oder vorhergegangenen Kalenderjahr in einem Strafverfahren
 zu einer Freiheitsentziehung oder in einem gerichtlichen
@@ -2108,14 +2123,15 @@ Verwaltungsgerichtsordnung, soweit sich aus diesem Gesetz nichts
 anderes ergibt.
 
 (2) Bei den Wehrdienstsenaten können nur Richter mitwirken, die vom
-Bundesministerium der Justiz hierfür bestimmt sind. Die Bestimmung
-wird bei der Übertragung des Richteramtes beim
-Bundesverwaltungsgericht getroffen. Sie kann auf Vorschlag oder mit
-Zustimmung des Präsidiums des Bundesverwaltungsgerichts auch später
-ergehen oder aufgehoben werden. Durch Beschluss des Präsidiums können
-Richter anderer Senate auch zu zeitweiligen Mitgliedern eines
-Wehrdienstsenats bestellt werden, wenn dieser infolge Verhinderung
-seiner Mitglieder oder regelmäßigen Vertreter beschlussunfähig ist.
+Bundesministerium der Justiz und für Verbraucherschutz hierfür
+bestimmt sind. Die Bestimmung wird bei der Übertragung des
+Richteramtes beim Bundesverwaltungsgericht getroffen. Sie kann auf
+Vorschlag oder mit Zustimmung des Präsidiums des
+Bundesverwaltungsgerichts auch später ergehen oder aufgehoben werden.
+Durch Beschluss des Präsidiums können Richter anderer Senate auch zu
+zeitweiligen Mitgliedern eines Wehrdienstsenats bestellt werden, wenn
+dieser infolge Verhinderung seiner Mitglieder oder regelmäßigen
+Vertreter beschlussunfähig ist.
 
 (3) Die Wehrdienstsenate entscheiden in der Besetzung von drei
 Richtern und zwei ehrenamtlichen Richtern, bei Beschlüssen außerhalb
@@ -2142,8 +2158,7 @@ bis 79 gelten sinngemäß.
 (1) Das Bundesministerium der Verteidigung bestellt bei den
 Truppendienstgerichten Beamte für die Dauer ihres Hauptamtes als
 Wehrdisziplinaranwälte. Sie müssen die Befähigung zum Richteramt nach
-dem Deutschen Richtergesetz haben oder die Voraussetzungen des § 110
-Satz 1 des Deutschen Richtergesetzes erfüllen.
+dem Deutschen Richtergesetz haben.
 
 (2) Die Wehrdisziplinaranwälte vertreten die dem Bundesminister der
 Verteidigung nachgeordneten Einleitungsbehörden im gerichtlichen
@@ -2327,12 +2342,9 @@ Verteidiger zu bestellen.
 
 (2) Verteidiger vor dem Truppendienstgericht können Rechtsanwälte und
 andere Personen, welche die Befähigung zum Richteramt nach dem
-Deutschen Richtergesetz haben oder die Voraussetzungen des § 110 Satz
-1 des Deutschen Richtergesetzes erfüllen, sowie Soldaten sein. Als
-Verteidiger vor dem Bundesverwaltungsgericht sind nur Personen
-zugelassen, welche die Befähigung zum Richteramt nach dem Deutschen
-Richtergesetz haben oder die Voraussetzungen des § 110 Satz 1 des
-Deutschen Richtergesetzes erfüllen.
+Deutschen Richtergesetz haben, sowie Soldaten sein. Als Verteidiger
+vor dem Bundesverwaltungsgericht sind nur Personen zugelassen, welche
+die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben.
 
 (3) Dem Verteidiger steht das Recht, Einsicht in die Akten zu nehmen,
 in gleichem Umfang zu wie dem Soldaten.
@@ -3765,10 +3777,10 @@ Dienstverhältnis bindend.
 ### § 146 Ermächtigung zum Erlass einer Rechtsverordnung
 
 Das Bundesministerium der Verteidigung wird ermächtigt, durch
-Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern
-zu bestimmen, welche Bezüge einschließlich der Sachbezüge als
-Dienstbezüge und Wehrsold im Sinne der §§ 24, 126 und des 1.
-Unterabschnittes des Dritten Abschnitts anzusehen sind.
+Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern,
+für Bau und Heimat zu bestimmen, welche Bezüge einschließlich der
+Sachbezüge als Dienstbezüge und Wehrsold im Sinne der §§ 24, 126 und
+des 1. Unterabschnittes des Dritten Abschnitts anzusehen sind.
 
 
 ### § 147 Überleitungsvorschriften

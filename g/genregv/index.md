@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.10.2006 I 2268;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 19 G v. 25.5.2009 I 1102
+:   Art. 6 G v. 5.7.2021 I 3338
 
 
 ## Abschnitt 1 - Allgemeines
@@ -529,7 +529,8 @@ folgenden Nummern 1 bis 8 eingetragen.
         Amts wegen;
 
 
-    cc) Eintragungen nach dem Umwandlungsgesetz;
+    cc) Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und
+        Abwicklungsgesetz;
 
 
     dd) die Nichtigkeit von Beschlüssen der Generalversammlung.
@@ -579,7 +580,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         b)  Sitz, Niederlassung, inländische Geschäftsanschrift und
-            empfangsberechtigte Personen der Europäischen Genossenschaft,
+            empfangsberechtigte Person der Europäischen Genossenschaft,
             Zweigniederlassungen
 
 

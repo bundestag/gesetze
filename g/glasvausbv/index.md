@@ -516,7 +516,7 @@ Höchstwerten auszugehen:
 
 *    *   2.
 
-    *   im Prüfungsbereich Bearbeitung und und Herstellung
+    *   im Prüfungsbereich Bearbeitung und Herstellung
 
     *   180 Minuten,
 

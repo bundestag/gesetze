@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 88
 
+Zuletzt geändert durch
+:   Art. 192 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -299,18 +302,18 @@ Führung des Lagers betraute Lagerpersonal, die rechnungsmäßig aus den
 Lagerkosten nicht ausgliederbaren allgemeinen Haushaltsausgaben und
 die Kosten für die laufende bauliche Unterhaltung des Lagers.
 
-(4) Der Bundesminister des Innern kann mit Zustimmung des
-Bundesministers der Finanzen Ausgaben für besondere Einrichtungen,
-namentlich Lagerschulen, Kindergärten, Werk- und Nähstuben,
-Krankenreviere, Lesestuben, Sporteinrichtungen und Wärmehallen, ganz
-oder teilweise als verrechnungsfähige Aufwendungen der
-Kriegsfolgenhilfe anerkennen, wenn diese Einrichtungen nach Lage,
+(4) Der Bundesminister des Innern, für Bau und Heimat kann mit
+Zustimmung des Bundesministers der Finanzen Ausgaben für besondere
+Einrichtungen, namentlich Lagerschulen, Kindergärten, Werk- und
+Nähstuben, Krankenreviere, Lesestuben, Sporteinrichtungen und
+Wärmehallen, ganz oder teilweise als verrechnungsfähige Aufwendungen
+der Kriegsfolgenhilfe anerkennen, wenn diese Einrichtungen nach Lage,
 Größe und Art des Lagers unabweisbar notwendig sind.
 
 (5) Die Kosten der erstmaligen Instandsetzung, Errichtung,
 Erweiterung, des Umbaues und der Verlegung von Durchgangs- und
-Wohnlagern kann der Bundesminister des Innern mit Zustimmung des
-Bundesministers der Finanzen in begründeten Fällen als
+Wohnlagern kann der Bundesminister des Innern, für Bau und Heimat mit
+Zustimmung des Bundesministers der Finanzen in begründeten Fällen als
 verrechnungsfähig anerkennen.
 
 (6) Zu den Einnahmen im Sinne des Absatzes 2 gehören insbesondere die

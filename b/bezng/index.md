@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 112 G v. 5.2.2009 I 160
+:   Art. 14 Abs. 2 G v. 28.6.2021 I 2250
 
 
 ## § 1 Zusammenführung der Bundeseisenbahnen
@@ -140,7 +140,7 @@ Aktiengesellschaft in das Handelsregister durch eine
 Verwaltungsordnung geregelt, soweit das Gesetz über die
 Eisenbahnverkehrsverwaltung des Bundes nichts anderes bestimmt. Die
 Verwaltungsordnung, die der Präsident aufstellt, bedarf der Zustimmung
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
+des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 
 ## § 7 Personalwesen
@@ -165,101 +165,58 @@ Gewerkschaften zu schließen sind. Soweit die Vereinbarungen wegen
 ihrer grundsätzlichen Bedeutung geeignet sind, die Gestaltung der
 Lohn- und Arbeitsbedingungen in anderen Zweigen der Bundesverwaltung
 zu beeinflussen, sind sie im Einvernehmen mit dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung, dem Bundesministerium der
-Finanzen und dem Bundesministerium des Innern abzuschließen. Das
-Einvernehmen gilt als hergestellt, wenn das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung nicht binnen einer Frist von einem
-Monat, gerechnet vom Eingang des Antrages auf Abschluß einer
-Tarifvereinbarung, entschieden hat.
+für Verkehr und digitale Infrastruktur, dem Bundesministerium der
+Finanzen und dem Bundesministerium des Innern, für Bau und Heimat
+abzuschließen. Das Einvernehmen gilt als hergestellt, wenn das
+Bundesministerium für Verkehr und digitale Infrastruktur nicht binnen
+einer Frist von einem Monat, gerechnet vom Eingang des Antrages auf
+Abschluß einer Tarifvereinbarung, entschieden hat.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der
 Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister
 Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und
 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt
 oder ihr zugewiesen sind, durch Rechtsverordnung
 
-1.  im Einvernehmen mit dem Bundesministerium des Innern und dem
-    Bundesministerium der Finanzen nach Maßgabe des § 26 Abs. 1 Nr. 1 des
-    Bundesbeamtengesetzes die Laufbahnen beim Bundeseisenbahnvermögen
-    selbständig zu gestalten und Ausnahmeregelungen zu treffen,
+1.  im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
+    Heimat und dem Bundesministerium der Finanzen nach Maßgabe des § 26
+    Absatz 1 des Bundesbeamtengesetzes die Laufbahnen beim
+    Bundeseisenbahnvermögen selbständig zu gestalten und
+    Ausnahmeregelungen zu treffen,
 
 
-2.  im Einvernehmen mit dem Bundesministerium des Innern für die
-    zugewiesenen Beamten besondere Arbeitszeitvorschriften zu erlassen und
-    dabei von § 88 des Bundesbeamtengesetzes abweichende Regelungen über
-    die Verpflichtung der Beamten, über die regelmäßige wöchentliche
-    Arbeitszeit hinaus Dienst zu tun, sowie über den Ausgleich von
-    Mehrarbeit zu treffen,
+2.  im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
+    Heimat für die zugewiesenen Beamten besondere Arbeitszeitvorschriften
+    zu erlassen und dabei von § 88 des Bundesbeamtengesetzes abweichende
+    Regelungen über die Verpflichtung der Beamten, über die regelmäßige
+    wöchentliche Arbeitszeit hinaus Dienst zu tun, sowie über den
+    Ausgleich von Mehrarbeit zu treffen,
 
 
 
 soweit es durch die Eigenart des Eisenbahnbetriebes dieser
 Gesellschaft begründet ist.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch
-Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4
-genannten Beamten die besonderen Vorschriften für die einzelnen
-Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) in
-sinngemäßer Anwendung des § 26 Abs. 1 Nr. 2 des Bundesbeamtengesetzes
-zu erlassen.
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für
+Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates
+für die in Absatz 4 genannten Beamten die besonderen Vorschriften für
+die einzelnen Laufbahnen und Vorbereitungsdienste in sinngemäßer
+Anwendung des § 26 Abs. 2 des Bundesbeamtengesetzes zu erlassen.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 auf Vorschlag des Präsidenten des Bundeseisenbahnvermögens im
-Einvernehmen mit dem Bundesministerium des Innern und dem
-Bundesministerium der Finanzen ergänzende Bestimmungen über die Reise-
-und Umzugskosten der Beamten, die der Deutsche Bahn Aktiengesellschaft
-gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen
-sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es
-erfordert.
+Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+und dem Bundesministerium der Finanzen ergänzende Bestimmungen über
+die Reise- und Umzugskosten der Beamten, die der Deutsche Bahn
+Aktiengesellschaft gemäß § 12 Abs. 2 und 3 des Deutsche Bahn
+Gründungsgesetzes zugewiesen sind, erlassen, soweit die Eigenart des
+Eisenbahnbetriebes es erfordert.
 
 
-## § 8 Personalvertretung
+## § 8 (weggefallen)
 
-(1) Spätestens drei Monate nach Eintragung der gemäß § 1 Abs. 1 des
-Deutsche Bahn Gründungsgesetzes zu gründenden Aktiengesellschaft in
-das Handelsregister finden beim Bundeseisenbahnvermögen Wahlen zu den
-Personalvertretungen sowie zu den Jugend- und
-Auszubildendenvertretungen statt. Wahlberechtigt und wählbar nach den
-§§ 13, 14 und 58 des Bundespersonalvertretungsgesetzes sind die
-Beamten, die nicht der Deutsche Bahn Aktiengesellschaft gemäß § 12 des
-Deutsche Bahn Gründungsgesetzes zugewiesen sind, sowie die
-Arbeitnehmer beim Bundeseisenbahnvermögen.
-
-(2) Bis zur Neuwahl zu den Personalvertretungen nach Absatz 1 bleiben
-die im Zeitpunkt der Ausgliederung des Unternehmerischen Bereichs (§ 1
-Abs. 1 des Deutsche Bahn Gründungsgesetzes) bei den im Bereich des
-Bundeseisenbahnvermögens verbleibenden Dienststellen bestehenden
-örtlichen Personalvertretungen übergangsweise im Amt. Die Mitglieder
-des bei der Deutschen Bundesbahn und des bei der Deutschen Reichsbahn
-bestehenden Hauptpersonalrats bilden übergangsweise einen gemeinsamen
-Hauptpersonalrat beim Bundeseisenbahnvermögen; bisherige
-Vorstandsmitglieder sind Vorstandsmitglieder des übergangsweise
-gebildeten Hauptpersonalrats.
-
-(3) Die Vorsitzenden der bisher bei der Deutschen Bundesbahn und der
-Deutschen Reichsbahn bestehenden Hauptpersonalräte laden unverzüglich
-nach Inkrafttreten dieses Gesetzes zu der ersten Sitzung des
-gemeinsamen Hauptpersonalrats ein. Für die Wahl des Vorsitzenden und
-seines Stellvertreters gilt § 32 Abs. 2 des
-Bundespersonalvertretungsgesetzes entsprechend. Die Deutsche Bahn
-Aktiengesellschaft ist verpflichtet, den bei ihr beschäftigten
-Mitgliedern des gemeinsamen Hauptpersonalrats die Wahrnehmung ihrer
-Rechte und Pflichten ohne eine Minderung des Arbeitsentgelts zu
-ermöglichen. Bis zur Neuwahl nach Absatz 1 ist der gemeinsame
-Hauptpersonalrat als örtlicher Personalrat zuständig für die nach § 6
-Abs. 1 Satz 2 gebildete Dienststelle.
-
-(4) Für die Jugend- und Auszubildendenvertretungen gelten Absatz 2
-Satz 1 und 2 erster Halbsatz sowie Absatz 3 Satz 1, 3 und 4
-entsprechend; für die Wahl des Vorsitzenden und seines Stellvertreters
-findet § 60 Abs. 3 des Bundespersonalvertretungsgesetzes entsprechende
-Anwendung.
-
-(5) Die Bildung der Wahlvorstände für die Wahlen gemäß Absatz 1 hat so
-rechtzeitig zu erfolgen, daß die dort genannte Frist eingehalten
-werden kann.
 
 
 ## § 9 Schwerbehindertenvertretung
@@ -289,7 +246,7 @@ Bundeseisenbahnvermögen.
 
 ## § 10 Vorgesetzte
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur ist
 oberster Dienstvorgesetzter und Vorgesetzter des Präsidenten des
 Bundeseisenbahnvermögens. Der Präsident ist oberster
 Dienstvorgesetzter der Beamten und Vorgesetzter aller Beamten,
@@ -299,10 +256,10 @@ Angestellten und Arbeiter des Bundeseisenbahnvermögens.
 Dienstbehörde. Beamtenrechtliche Entscheidungen über Bundesbeamte mit
 festen Gehältern und Gehältern der obersten Besoldungsgruppe der
 Besoldungsordnungen ergehen im Einvernehmen mit dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung nach Maßgabe der
+für Verkehr und digitale Infrastruktur nach Maßgabe der
 Verwaltungsordnung. Die Verwaltungsordnung bestimmt die Dienstposten,
-deren Besetzung der Zustimmung des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung bedarf.
+deren Besetzung der Zustimmung des Bundesministeriums für Verkehr und
+digitale Infrastruktur bedarf.
 
 
 ## § 11 Verwendung auf anderen Dienstposten
@@ -352,25 +309,7 @@ Bundeseisenbahnen weiter.
 
 (2) (weggefallen)
 
-(3) Anstelle der Bundesbahn-Ausführungsbehörde für Unfallversicherung
-wird eine rechtlich selbständige Eisenbahn-Unfallkasse geschaffen. Der
-Eisenbahn-Unfallkasse wird gegen Kostenerstattung durch die
-Mitgliedsunternehmen die Aufgabe der Prävention mit Ausnahme des
-Erlasses von Verwaltungsvorschriften über die Sicherheit und den
-Gesundheitsschutz bei der Arbeit für die Beamten des
-Bundeseisenbahnvermögens, auch soweit sie nach Maßgabe des § 12 des
-Deutsche Bahn Gründungsgesetzes der Deutsche Bahn Aktiengesellschaft
-oder den nach § 2 Abs. 1 und § 3 Abs. 3 des genannten Gesetzes
-ausgegliederten Gesellschaften zugewiesen sind, übertragen. Die
-Aufsicht über die Durchführung der der Unfallkasse übertragenen
-Aufgabe führt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung; insoweit finden die Vorschriften über die
-Selbstverwaltung der Träger der Sozialversicherung keine Anwendung.
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung regelt das
-Nähere, insbesondere den Umfang der Erstattung von Personal- und
-Sachkosten und sonstigen Ausgaben durch die Mitgliedsunternehmen,
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf.
+(3) (weggefallen)
 
 (4) Die Zuständigkeiten der Bundesbahn-Betriebskrankenkasse sowie der
 Reichsbahn-Betriebskrankenkasse, auch für den Fall der Vereinigung der
@@ -499,14 +438,14 @@ Zahlungen, Buchführung und Rechnungslegung gelten die Vorschriften der
 Bundeshaushaltsordnung entsprechend.
 
 (3) Der Wirtschaftsplan bedarf der Genehmigung durch das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen. Das gleiche gilt
 für wesentliche Änderungen während des Kalenderjahres. Abweichungen im
 Stellenplan bedürfen stets der Genehmigung durch das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung und das Bundesministerium der
+für Verkehr und digitale Infrastruktur und das Bundesministerium der
 Finanzen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 mit Einwilligung des Bundesministeriums der Finanzen zulassen, daß das
 Bundeseisenbahnvermögen die zur Durchführung seiner Aufgaben und zur
 Erfüllung rechtlich begründeter Verpflichtungen unvermeidbaren
@@ -514,9 +453,9 @@ Ausgaben leistet, wenn der Wirtschaftsplan zu Beginn des neuen
 Kalenderjahres noch nicht genehmigt ist.
 
 (5) Verfügungen über Grundstücke und grundstücksgleiche Rechte, deren
-Wert im Einzelfall 10 Millionen Deutsche Mark übersteigt, bedürfen der
-Genehmigung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung und des Bundesministeriums der Finanzen.
+Wert im Einzelfall 5 Millionen Euro übersteigt, bedürfen der
+Genehmigung des Bundesministeriums für Verkehr und digitale
+Infrastruktur und des Bundesministeriums der Finanzen.
 
 
 ## § 17 Schuldurkunden
@@ -539,7 +478,7 @@ Forderungen und Verbindlichkeiten erkennen lassen sowie die Einnahmen
 und Ausgaben nachweisen.
 
 (2) Das Bundeseisenbahnvermögen berichtet dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung jährlich über seine Tätigkeit, und
+Verkehr und digitale Infrastruktur jährlich über seine Tätigkeit, und
 zwar gegliedert nach
 
 1.  Personaleinsatz und Personalkosten,
@@ -554,7 +493,7 @@ zwar gegliedert nach
 
 
 (3) Das Bundeseisenbahnvermögen ist verpflichtet, dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Verlangen
+Bundesministerium für Verkehr und digitale Infrastruktur auf Verlangen
 Auskunft über die wesentlichen Vorgänge in der Verwaltung und
 Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
 
@@ -591,36 +530,21 @@ Liegenschaften insoweit zu übertragen, als die Bahnnotwendigkeit
 nachgewiesen ist. Bis zur Übertragung gemäß Satz 1 erhält die Deutsche
 Bahn Aktiengesellschaft die Liegenschaften unentgeltlich zur Nutzung
 mit der Maßgabe, über Veränderungen an diesen Liegenschaften dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung zu berichten.
+Bundesministerium für Verkehr und digitale Infrastruktur zu berichten.
 Das Nähere regelt eine Vereinbarung zwischen der Deutsche Bahn
 Aktiengesellschaft und dem Bundeseisenbahnvermögen, die der
-Genehmigung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
-Finanzen bedarf.
+Genehmigung des Bundesministeriums für Verkehr und digitale
+Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen
+bedarf.
 
 (3) Nicht bahnnotwendige Liegenschaften, insbesondere das nicht
 betrieblichen Zwecken dienende ehemalige Reichsbahnvermögen
 (Vorratsvermögen) in Berlin (West), verbleiben beim
 Bundeseisenbahnvermögen.
 
-(4) Die Bundesrepublik Deutschland garantiert, daß die Summe der
-entsprechend den §§ 7 und 9 des D-Markbilanzgesetzes in der Fassung
-der Bekanntmachung vom 18. April 1991 (BGBl. I S. 971, 1951), das
-zuletzt durch Artikel 3 des Gesetzes vom 21. Dezember 1992, (BGBl. I
-S. 2133) geändert worden ist, bewerteten bahnnotwendigen
-Liegenschaften mindestens fünf Milliarden Deutsche Mark beträgt, wobei
-nur der reine Grundstückswert berücksichtigt ist. Die Garantie
-erstreckt sich nicht auf die in § 26 genannten Liegenschaften. § 9
-Abs. 1 Satz 2 des D-Markbilanzgesetzes ist mit der Maßgabe
-entsprechend anzuwenden, daß die Wertverhältnisse zum Stichtag der
-Eröffnungsbilanz der Deutsche Bahn Aktiengesellschaft maßgebend sind.
-Die Garantie erlischt spätestens am 31. Dezember 2001.
+(4) (weggefallen)
 
-(5) Die Garantie nach Absatz 4 erlischt, wenn die Summe der nach den
-§§ 21 und 23 Abs. 1 Satz 1 übergegangenen und der nach § 23 Abs. 1
-Satz 2 übertragenen Liegenschaften, wobei nur der reine
-Grundstückswert zu berücksichtigen ist, 5 Milliarden Deutsche Mark
-übersteigt. Die Garantie erlischt spätestens am 31. Dezember 2001.
+(5) (weggefallen)
 
 
 ## § 21 Vermögensübergang
@@ -673,11 +597,12 @@ Bundeseisenbahnvermögen auszuzahlen, wenn ihm der Gegenstand durch
 einen vollziehbaren Übergabebescheid zugeordnet wird.
 
 (5) Die in Absatz 1 Satz 1 genannte Anlage kann durch Rechtsverordnung
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung im
-Einvernehmen mit dem Bundesministerium der Justiz geändert werden, um
-andere Rechtsvorgänger der Bundesrepublik Deutschland
-Bundeseisenbahnvermögen, der Bundesrepublik Deutschland Sondervermögen
-"Deutsche Bundesbahn" oder der Deutschen Reichsbahn aufzunehmen.
+des Bundesministeriums für Verkehr und digitale Infrastruktur im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz geändert werden, um andere Rechtsvorgänger der
+Bundesrepublik Deutschland Bundeseisenbahnvermögen, der Bundesrepublik
+Deutschland Sondervermögen "Deutsche Bundesbahn" oder der Deutschen
+Reichsbahn aufzunehmen.
 
 
 ## § 23 Feststellung des Übergangs und Vornahme der Übertragung
@@ -772,18 +697,19 @@ durch Schiedsspruch, welche Liegenschaften in welchem Umfang
 übertragen werden. Der Schiedsspruch steht einem vollziehbaren
 Übergabebescheid gleich; § 23 Abs. 3 gilt sinngemäß.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung in Anlehnung an die Vorschriften des Zehnten Buches
-der Zivilprozeßordnung das Verfahren der Schiedsstelle und deren
-Besetzung zu regeln. In dieser Rechtsverordnung kann auch geregelt
-werden, ob und in welcher Höhe eine Vergütung gezahlt wird.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und
+für Verbraucherschutz durch Rechtsverordnung in Anlehnung an die
+Vorschriften des Zehnten Buches der Zivilprozeßordnung das Verfahren
+der Schiedsstelle und deren Besetzung zu regeln. In dieser
+Rechtsverordnung kann auch geregelt werden, ob und in welcher Höhe
+eine Vergütung gezahlt wird.
 
 
 ## § 25 Verwaltungsvorschriften
 
 Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen.
 
 
@@ -826,8 +752,8 @@ Liegenschaften nach Absatz 1 ist, daß
 
 (3) Die Übertragung der Liegenschaften sowie der durch dingliche
 Rechte an diesen Liegenschaften gesicherten Verbindlichkeiten erfolgt
-durch Vertrag, der der Zustimmung des Bundesministeriums für Verkehr,
-Bau und Stadtentwicklung bedarf.
+durch Vertrag, der der Zustimmung des Bundesministeriums für Verkehr
+und digitale Infrastruktur bedarf.
 
 (4) Die Liegenschaften sind im übrigen kostenfrei zu übertragen, es
 sei denn, die Deutsche Bahn Aktiengesellschaft hat nach Abschluß der
@@ -916,8 +842,8 @@ Zustimmung des Bundesrates.
 (1) Die Bundesregierung wird ermächtigt, frühestens zehn Jahre nach
 Inkrafttreten dieses Gesetzes das Bundeseisenbahnvermögen aufzulösen
 und die von ihm noch wahrgenommenen Aufgaben auf das Eisenbahn-
-Bundesamt, das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-oder die Bundesschuldenverwaltung zu übertragen.
+Bundesamt, das Bundesministerium für Verkehr und digitale
+Infrastruktur oder die Bundesschuldenverwaltung zu übertragen.
 
 (2) Die nach § 17 des Deutsche Bahn Gründungsgesetzes gebildeten
 besonderen Personalvertretungen, Jugend- und

@@ -113,7 +113,7 @@ Geändert durch
 
 ## II. Schlußvorschriften
 
-1\. u. 2.
+1\. u. 2. (Aufhebungsvorschriften)
 
 3.  (1) Wo auf die Vorschriften verwiesen wird, die durch dieses Gesetz
     aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt

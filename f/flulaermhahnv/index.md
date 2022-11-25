@@ -7086,6 +7086,6 @@ Der Bundesminister des Innern
 
 ## Anlage 2 (zu Artikel 1 Nummer 2 der Ersten Verordnung zur Änderung der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Hahn)
 
-   (Inhalt: nicht darstellbare topographische Karte,
-Fundstelle: BGBl I 1983, 1044)
+   (Fundstelle: BGBl I 1983, 1044)
 
+![bgbl1_1983_j1044_0010.jpg](bgbl1_1983_j1044_0010.jpg)

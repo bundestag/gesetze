@@ -37,7 +37,25 @@ Kommission für Deutschland S. 103).
 
 ## § 2 Aufhebung bundesrechtlicher Vorschriften über die Bereinigung von Besatzungsrecht
 
--
+Es werden aufgehoben:
+
+1.  das Erste Gesetz zur Aufhebung des Besatzungsrechts vom 30. Mai 1956
+    (BGBl. I S. 437; BGBl. III 104–1),
+
+
+2.  das Zweite Gesetz zur Aufhebung des Besatzungsrechts vom 30. Mai 1956
+    (BGBl. I S. 446; BGBl. III 104–2),
+
+
+3.  das Dritte Gesetz zur Aufhebung des Besatzungsrechts vom 23. Juli 1958
+    (BGBl. I S. 540; BGBl. III 104–3) und
+
+
+4.  das Vierte Gesetz zur Aufhebung des Besatzungsrechts vom 19. Dezember
+    1960 (BGBl. I S. 1015; BGBl. III 104–4).
+
+
+
 
 
 ## § 3 Folgen der Aufhebung

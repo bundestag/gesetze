@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2370
 
+Zuletzt geändert durch
+:   Art. 13 G v. 9.6.2021 I 1614
+
 
 ## § 1 Zuordnung des Personals
 
@@ -41,9 +44,10 @@ Absatzes 1 am 1. Januar 2009 Tätigkeiten zugewiesen, die einer
 niedrigeren Entgeltgruppe zuzuordnen sind, werden sie entsprechend
 ihrer vorigen Tätigkeit eingruppiert. Soweit es darüber hinaus im
 Zusammenhang mit der Zuweisung angemessen ist, kann das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium des Innern und dem Bundesministerium der
-Finanzen ergänzend außer- und übertarifliche Regelungen treffen.
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium des Innern, für Bau und Heimat und dem
+Bundesministerium der Finanzen ergänzend außer- und übertarifliche
+Regelungen treffen.
 
 (4) Das Arbeitnehmerüberlassungsgesetz wird auf die Zuweisung von
 Tätigkeiten nach Absatz 1 nicht angewendet.
@@ -73,7 +77,7 @@ Außenwirtschaft und Standortmarketing mbH zu regeln.
 Die in § 2 Abs. 1 genannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
 Wirtschaft und Ausfuhrkontrolle; sie sind aktiv und passiv
-wahlberechtigt. § 13 Abs. 2 Satz 4 des
+wahlberechtigt. § 14 Absatz 2 Satz 4 des
 Bundespersonalvertretungsgesetzes ist nicht anzuwenden.
 
 
@@ -126,7 +130,7 @@ wahrgenommen.
 Menschen, die nach § 2 Abs. 1 bei der Germany Trade and Invest –
 Gesellschaft für Außenwirtschaft und Standortmarketing mbH tätig sind,
 ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle Arbeitgeber im
-Sinne des Teils 2 des Neunten Buches Sozialgesetzbuch.
+Sinne des Teils 3 des Neunten Buches Sozialgesetzbuch.
 
 (2) Für die Anwendung der Vorschriften über die
 Schwerbehindertenvertretung in der Germany Trade and Invest –
@@ -166,7 +170,7 @@ zu den Beschäftigten im Sinne des § 2 Abs. 1 gehören, die Aufgaben
 eines Betriebsrates nach dem Betriebsverfassungsgesetz wahr. Absatz 2
 gilt entsprechend.
 
-(4) Sofern nach den Bestimmungen des Teils 2 des Neunten Buches
+(4) Sofern nach den Bestimmungen des Teils 3 des Neunten Buches
 Sozialgesetzbuch bei der Germany Trade and Invest – Gesellschaft für
 Außenwirtschaft und Standortmarketing mbH eine
 Schwerbehindertenvertretung einzurichten ist, gelten die vorstehenden
@@ -185,8 +189,8 @@ Germany Trade and Invest – Gesellschaft für Außenwirtschaft und
 Standortmarketing mbH bestehende Betriebsvereinbarungen über den
 gleichen Regelungsgegenstand verdrängt. Entsprechendes gilt für die
 Fortgeltung der im Geschäftsbereich des Bundesministeriums für
-Wirtschaft und Technologie bestehenden Rahmenintegrationsvereinbarung
-nach § 83 des Neunten Buches Sozialgesetzbuch. § 77 Abs. 6 des
+Wirtschaft und Energie bestehenden Rahmenintegrationsvereinbarung nach
+§ 83 des Neunten Buches Sozialgesetzbuch. § 77 Abs. 6 des
 Betriebsverfassungsgesetzes ist nicht anzuwenden.
 
 

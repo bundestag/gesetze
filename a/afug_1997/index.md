@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1997, 1494
 
 Zuletzt geändert durch
-:   § 22 Abs. 2 G v. 26.2.2008 I 220
+:   Art. 8 G v. 4.11.2016 I 2473
+
+Änderung durch
+:   Art. 53 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Geltungsbereich
@@ -50,8 +53,8 @@ Im Sinne dieses Gesetzes ist
     Sendefunkanlagen und Empfangsfunkanlagen einschließlich der
     Antennenanlagen und der zu ihrem Betrieb erforderlichen
     Zusatzeinrichtungen besteht und die auf mindestens einer der im
-    Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen
-    Frequenzen betrieben werden kann.
+    Frequenzplan für den Amateurfunkdienst ausgewiesenen Frequenzen
+    betrieben werden kann.
 
 
 
@@ -59,17 +62,19 @@ Im Sinne dieses Gesetzes ist
 
 ## § 3 Voraussetzungen zur Teilnahme am Amateurfunkdienst, Rufzeichen, Frequenzzuteilung
 
-(1) Die Regulierungsbehörde (§ 10) läßt eine natürliche Person unter
+(1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen (§ 10) läßt eine natürliche Person unter
 gleichzeitiger Zuteilung eines personengebundenen Rufzeichens auf
 Antrag zur Teilnahme am Amateurfunkdienst zu, wenn sie eine fachliche
 Prüfung für Funkamateure erfolgreich abgelegt oder eine Amateurfunk-
 Prüfungsbescheinigung nach § 2 Nr. 1 vorgelegt hat.
 
-(2) Die Regulierungsbehörde teilt dem Funkamateur auf Antrag weitere
-Rufzeichen zu. Das Bundesministerium für Wirtschaft und Technologie
-wird ermächtigt, durch Rechtsverordnung das Verfahren der Zuteilung
-und Einzelheiten der Anwendung und Mitbenutzung von Rufzeichen zu
-regeln.
+(2) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen teilt dem Funkamateur auf Antrag weitere
+Rufzeichen zu. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, durch Rechtsverordnung das Verfahren
+der Zuteilung und Einzelheiten der Anwendung und Mitbenutzung von
+Rufzeichen zu regeln.
 
 (3) Eine Amateurfunkstelle darf erst nach der Zulassung zur Teilnahme
 am Amateurfunkdienst und der Zuteilung
@@ -90,7 +95,8 @@ am Amateurfunkdienst und der Zuteilung
 
 durch den Funkamateur betrieben werden.
 
-(4) Die Regulierungsbehörde kann unter Beibehaltung der Zulassung zur
+(4) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen kann unter Beibehaltung der Zulassung zur
 Teilnahme am Amateurfunkdienst zugeteilte Rufzeichen aus wichtigen
 Gründen, insbesondere bei Änderungen durch internationale Vorgaben
 ändern. Sie kann unbeschadet des § 49 Abs. 2 des
@@ -100,16 +106,15 @@ Rufzeichen widerrufen, wenn der Funkamateur fortgesetzt gegen dieses
 Gesetz oder gegen auf Grund dieses Gesetzes erlassene
 Rechtsverordnungen verstößt.
 
-(5) Die im Frequenznutzungsplan (§ 46 des Telekommunikationsgesetzes
-vom 25. Juli 1996 - BGBl. I S. 1120) für den Amateurfunkdienst
-ausgewiesenen Frequenzen gelten einem Funkamateur mit Wohnsitz in
-Deutschland als zugeteilt, wenn ihm ein oder mehrere Rufzeichen
-zugeteilt worden sind.
+(5) Die im Frequenzplan (§ 90 des Telekommunikationsgesetzes) für den
+Amateurfunkdienst ausgewiesenen Frequenzen gelten einem Funkamateur
+mit Wohnsitz in Deutschland als zugeteilt, wenn ihm ein oder mehrere
+Rufzeichen zugeteilt worden sind.
 
 
 ## § 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung die Durchführung und die
 inhaltlichen Anforderungen der fachlichen Prüfung für Funkamateure,
 den Ausbildungsfunkbetrieb, die Einteilung der verschiedenen Arten von
@@ -134,8 +139,9 @@ Amateurfunkstelle in Deutschland betreiben.
 
 ## § 5 Rechte und Pflichten des Funkamateurs
 
-(1) Der Funkamateur darf nur ein ihm von der Regulierungsbehörde
-zugeteiltes Rufzeichen benutzen.
+(1) Der Funkamateur darf nur ein ihm von der Bundesnetzagentur für
+Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zugeteiltes
+Rufzeichen benutzen.
 
 (2) Mit einem von der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen zugeteilten Rufzeichen ist der
@@ -168,14 +174,14 @@ Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln. Satz
 
 ## § 6 Technische und betriebliche Rahmenbedingungen
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-durch Rechtsverordnung unter Berücksichtigung internationaler
-Vereinbarungen und anderer den Amateurfunkdienst betreffenden
-internationalen Empfehlungen die technischen und betrieblichen
-Rahmenbedingungen für die Durchführung des Amateurfunkdienstes
-festzulegen, insbesondere für
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung unter Berücksichtigung
+internationaler Vereinbarungen und anderer den Amateurfunkdienst
+betreffenden internationalen Empfehlungen die technischen und
+betrieblichen Rahmenbedingungen für die Durchführung des
+Amateurfunkdienstes festzulegen, insbesondere für
 
-1.  die Planung und Fortschreibung der im Frequenznutzungsplan für den
+1.  die Planung und Fortschreibung der im Frequenzplan für den
     Amateurfunkdienst ausgewiesenen Frequenzen für Relaisfunkstellen als
     fernbediente und automatisch arbeitende Amateurfunkstellen,
 
@@ -232,38 +238,7 @@ Standortbescheinigung aus. § 12 des Gesetzes über Funkanlagen und
 Telekommunikationsendeinrichtungen findet insoweit Anwendung.
 
 
-## § 8 Gebühren und Auslagen
-
-Für Amtshandlungen nach diesem Gesetz werden Kosten (Gebühren und
-Auslagen) erhoben. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, im Einvernehmen mit dem Bundesministerium
-der Finanzen durch Rechtsverordnung nach Maßgabe des
-Verwaltungskostengesetzes die Gebühren festzulegen für
-
-1.  die Erteilung von Amateurfunkzeugnissen nach bestandener fachlicher
-    Prüfung,
-
-
-2.  die Zulassung zur Teilnahme am Amateurfunkdienst und die Zuteilung von
-    Rufzeichen,
-
-
-3.  die Ausstellung von harmonisierten Prüfungsbescheinigungen,
-
-
-4.  die Rücknahme und die Ablehnung von Anträgen auf die in den Nummern 1
-    bis 3 genannten Amtshandlungen sowie den Widerruf solcher
-    Amtshandlungen,
-
-
-5.  die Anordnung der Einschränkung des Betriebes oder die
-    Außerbetriebnahme einer Amateurfunkstelle und
-
-
-6.  die Überlassung des Verzeichnisses der zugeteilten deutschen
-    Rufzeichen und ihrer Inhaber.
-
-
+## § 8 (weggefallen)
 
 
 
@@ -294,7 +269,8 @@ Buchstabe b mit einer Geldbuße bis zu zehntausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist die Regulierungsbehörde.
+über Ordnungswidrigkeiten ist die Bundesnetzagentur für Elektrizität,
+Gas, Telekommunikation, Post und Eisenbahnen.
 
 
 ## § 10 Zuständigkeiten
@@ -302,14 +278,12 @@ Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 (1) Die sich aus diesem Gesetz und den auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ergebenden Aufgaben nimmt die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen wahr (§ 66 Abs. 1 des Telekommunikationsgesetzes). Aufgabe
-der Regulierungsbehörde ist es auch, die Einhaltung dieses Gesetzes
-und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu
-überwachen.
+Eisenbahnen wahr. Aufgabe der Bundesnetzagentur für Elektrizität, Gas,
+Telekommunikation, Post und Eisenbahnen ist es auch, die Einhaltung
+dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen zu überwachen.
 
-(2) Die der Regulierungsbehörde nach diesem Gesetz zugewiesenen
-Aufgaben und Befugnisse werden bis zum 31. Dezember 1997 durch das
-Bundesamt für Post und Telekommunikation wahrgenommen.
+(2) (weggefallen)
 
 (3) Bei der Vorbereitung von nach diesem Gesetz zu erlassenden
 Rechtsverordnungen können nach Maßgabe der Gemeinsamen
@@ -321,17 +295,19 @@ erhalten.
 
 ## § 11 Betriebseinschränkungen und -verbote
 
-(1) Die Regulierungsbehörde kann bei Verstößen gegen dieses Gesetz
-oder gegen auf Grund dieses Gesetzes erlassene Rechtsverordnungen eine
+(1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
+Post und Eisenbahnen kann bei Verstößen gegen dieses Gesetz oder gegen
+auf Grund dieses Gesetzes erlassene Rechtsverordnungen eine
 Einschränkung des Betriebes oder die Außerbetriebnahme von
 Amateurfunkstellen anordnen.
 
 (2) Die sofortige Vollziehbarkeit von Betriebseinschränkungen oder
-Betriebsverboten soll von der Regulierungsbehörde angeordnet werden,
-wenn eine Gefährdung von Leib und Leben eines anderen oder einer
-fremden Sache von bedeutendem Wert zu befürchten ist. Gleiches gilt,
-wenn zu befürchten ist, daß der Funkamateur Frequenzbereiche nutzt,
-die anderen Funkdiensten zugewiesen sind und die Gefahr besteht, daß
+Betriebsverboten soll von der Bundesnetzagentur für Elektrizität, Gas,
+Telekommunikation, Post und Eisenbahnen angeordnet werden, wenn eine
+Gefährdung von Leib und Leben eines anderen oder einer fremden Sache
+von bedeutendem Wert zu befürchten ist. Gleiches gilt, wenn zu
+befürchten ist, daß der Funkamateur Frequenzbereiche nutzt, die
+anderen Funkdiensten zugewiesen sind und die Gefahr besteht, daß
 hierdurch erhebliche Störungen dieser Funkdienste verursacht werden. §
 80 Abs. 2 Nr. 4 der Verwaltungsgerichtsordnung bleibt unberührt.
 

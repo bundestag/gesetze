@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.11.2004 I 2858
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 39 V v. 12.2.2009 I 320
+:   Art. 6 V v. 20.8.2013 I 3286, 3741
 
 
 ## § 1
@@ -123,15 +123,14 @@ entsprechend.
 ## § 6
 
 Durch die Verbote der §§ 3 bis 5 sowie des § 2 Abs. 1 Satz 2
-hinsichtlich des Dienstes zu ungünstigen Zeiten und des
-Wechselschicht- oder Schichtdienstes wird die Zahlung der Dienstbezüge
-und des Ausbildungsgeldes für Sanitätsoffizier-Anwärter nicht berührt.
-Das gleiche gilt für die Dienstbefreiung während der Stillzeit (§ 5
-Abs. 3 Satz 2). Bemessungsgrundlage für die Zahlung der
-Erschwerniszulagen für Dienst zu ungünstigen Zeiten und für
-Wechselschicht- oder Schichtdienst ist der Durchschnitt der Zulagen
-der letzten drei Monate vor Beginn des Monats, in dem die
-Schwangerschaft eingetreten ist.
+hinsichtlich des Dienstes zu ungünstigen Zeiten und des Dienstes zu
+wechselnden Zeiten wird die Zahlung der Dienstbezüge und des
+Ausbildungsgeldes für Sanitätsoffizier-Anwärter nicht berührt. Das
+gleiche gilt für die Dienstbefreiung während der Stillzeit (§ 5 Abs. 3
+Satz 2). Bemessungsgrundlage für die Zahlung der Erschwerniszulagen
+für Dienst zu ungünstigen Zeiten und für Dienst zu wechselnden Zeiten
+ist der Durchschnitt der Zulagen der letzten drei Monate vor Beginn
+des Monats, in dem die Schwangerschaft eingetreten ist.
 
 
 ## § 6a

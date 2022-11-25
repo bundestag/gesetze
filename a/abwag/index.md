@@ -19,7 +19,18 @@ Neugefasst durch
 :   Bek. v. 18.1.2005 I 114
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.8.2010 I 1163
+:   Art. 2 V v. 22.8.2018 I 1327
+
+Dieses Gesetz dient in Teilen auch der Umsetzung der Richtlinien des
+Rates
+
+-   2010/75/EU des Europäischen Parlaments und des Rates vom 24. November
+    2010 über Industrieemissionen (integrierte Vermeidung und Verminderung
+    der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S.
+    17).
+
+
+
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -105,9 +116,10 @@ einzuhaltenden Verdünnungsfaktor zu begrenzen (Überwachungswerte)
 sowie die Jahresschmutzwassermenge festzulegen. Enthält der Bescheid
 für einen Schadstoff oder eine Schadstoffgruppe Überwachungswerte für
 verschiedene Zeiträume, ist der Abgabenberechnung der Überwachungswert
-für den längsten Zeitraum zugrunde zu legen. Ist im Abwasser einer der
-in der Anlage zu § 3 genannten Schadstoffe oder Schadstoffgruppen
-nicht über den dort angegebenen Schwellenwerten zu erwarten, so kann
+für den längsten Zeitraum zugrunde zu legen; Jahres- und
+Monatsmittelwerte bleiben außer Betracht. Ist im Abwasser einer der in
+der Anlage zu § 3 genannten Schadstoffe oder Schadstoffgruppen nicht
+über den dort angegebenen Schwellenwerten zu erwarten, so kann
 insoweit von der Festlegung von Überwachungswerten abgesehen werden.
 
 (2) In den Fällen des § 9 Abs. 3 (Flusskläranlagen) gilt Absatz 1
@@ -537,7 +549,8 @@ abgabepflichtig bestimmen können.
 
 ### Anlage (zu § 3)
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 119)
+(Fundstelle: BGBl. I 2005, 119;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (1) Die Bewertungen der Schadstoffe und Schadstoffgruppen sowie die
 Schwellenwerte ergeben sich aus folgender Tabelle:
@@ -690,7 +703,7 @@ Schwellenwerte ergeben sich aus folgender Tabelle:
 
     *   Kupfer
 
-    *   1.000 Gramm
+    *   1 000 Gramm
 
     *   100 Mikrogramm
         5 Kilogramm
@@ -709,7 +722,7 @@ Schwellenwerte ergeben sich aus folgender Tabelle:
 
     *   Giftigkeit gegenüber Fischeiern
 
-    *   6.000 Kubikmeter Abwasser geteilt durch G(tief)EI
+    *   6 000 Kubikmeter Abwasser geteilt durch G(tief)EI
 
     *   G(tief)EI = 2
 
@@ -718,11 +731,9 @@ Schwellenwerte ergeben sich aus folgender Tabelle:
 
 
 G(tief)EI ist der Verdünnungsfaktor, bei dem Abwasser im Fischeitest
-nicht mehr giftig ist. Den Festlegungen der Tabelle liegen die
-Verfahren zur Bestimmung der Schädlichkeit des Abwassers nach den
-angegebenen Nummern in der Anlage "Analysen- und Messverfahren" zur
-Abwasserverordnung in der Fassung der Bekanntmachung vom 17. Juni 2004
-(BGBl. I S. 1108, 2625) zugrunde.
+nicht mehr giftig ist. Die Verfahren zur Bestimmung der Schädlichkeit
+des Abwassers entsprechen den Analyse- und Messverfahren nach den
+Nummern, die in Anlage 1 der Abwasserverordnung angegeben sind.
 
 (2) Wird Abwasser in Küstengewässer eingeleitet, bleibt die Giftigkeit
 gegenüber Fischeiern insoweit unberücksichtigt, als sie auf dem Gehalt

@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.10.2009 I 3250
 
+Änderung durch
+:   Art. 1 V v. 24.11.2021 I 4964 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -117,19 +120,78 @@ dieser Verpflichtungen zu verlangen.
 
 (1) Zur Erfassung des anteiligen Wärmeverbrauchs sind Wärmezähler oder
 Heizkostenverteiler, zur Erfassung des anteiligen Warmwasserverbrauchs
-Warmwasserzähler oder andere geeignete Ausstattungen zu verwenden.
-Soweit nicht eichrechtliche Bestimmungen zur Anwendung kommen, dürfen
-nur solche Ausstattungen zur Verbrauchserfassung verwendet werden,
-hinsichtlich derer sachverständige Stellen bestätigt haben, dass sie
-den anerkannten Regeln der Technik entsprechen oder dass ihre Eignung
-auf andere Weise nachgewiesen wurde. Als sachverständige Stellen
-gelten nur solche Stellen, deren Eignung die nach Landesrecht
-zuständige Behörde im Benehmen mit der Physikalisch-Technischen
-Bundesanstalt bestätigt hat. Die Ausstattungen müssen für das
-jeweilige Heizsystem geeignet sein und so angebracht werden, dass ihre
-technisch einwandfreie Funktion gewährleistet ist.
+Warmwasserzähler zu verwenden. Soweit nicht eichrechtliche
+Bestimmungen zur Anwendung kommen, dürfen nur solche Ausstattungen zur
+Verbrauchserfassung verwendet werden, hinsichtlich derer
+sachverständige Stellen bestätigt haben, dass sie den anerkannten
+Regeln der Technik entsprechen oder dass ihre Eignung auf andere Weise
+nachgewiesen wurde. Als sachverständige Stellen gelten nur solche
+Stellen, deren Eignung die nach Landesrecht zuständige Behörde im
+Benehmen mit der Physikalisch-Technischen Bundesanstalt bestätigt hat.
+Die Ausstattungen müssen für das jeweilige Heizsystem geeignet sein
+und so angebracht werden, dass ihre technisch einwandfreie Funktion
+gewährleistet ist.
 
-(2) Wird der Verbrauch der von einer Anlage im Sinne des § 1 Absatz 1
+(2) Ausstattungen zur Verbrauchserfassung nach Absatz 1 Satz 1 und
+nach § 9 Absatz 2 Satz 1, die nach dem 1. Dezember 2021 installiert
+werden, müssen fernablesbar sein und dabei den Datenschutz und die
+Datensicherheit nach dem Stand der Technik gewährleisten. Fernablesbar
+ist eine Ausstattung zur Verbrauchserfassung, wenn sie ohne Zugang zu
+einzelnen Nutzeinheiten abgelesen werden kann. Ab dem 1. Dezember 2022
+dürfen nur noch solche fernablesbaren Ausstattungen installiert
+werden, die sicher an ein Smart-Meter-Gateway nach § 2 Satz 1 Nummer
+19 des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S.
+2034), das zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021
+(BGBl. I S. 3026) geändert worden ist, unter Beachtung des in
+Schutzprofilen und Technischen Richtlinien des Bundesamtes für
+Sicherheit in der Informationstechnik niedergelegten Stands der
+Technik nach dem Messstellenbetriebsgesetz angebunden werden können.
+Die Sätze 1 bis 3 sind nicht anzuwenden, wenn ein einzelner Zähler
+oder Heizkostenverteiler ersetzt oder ergänzt wird, der Teil eines
+Gesamtsystems ist und die anderen Zähler oder Heizkostenverteiler
+dieses Gesamtsystems zum Zeitpunkt des Ersatzes oder der Ergänzung
+nicht fernablesbar sind.
+
+(3) Nicht fernablesbare Ausstattungen zur Verbrauchserfassung, die bis
+zum 1. Dezember 2021 oder nach Maßgabe des Absatzes 2 Satz 4 nach dem
+1\. Dezember 2021 installiert wurden, müssen bis zum 31. Dezember 2026
+die Anforderungen nach den Absätzen 2 und 5 durch Nachrüstung oder
+Austausch erfüllen. Satz 1 ist nicht anzuwenden, wenn dies im
+Einzelfall wegen besonderer Umstände technisch nicht möglich ist oder
+durch einen unangemessenen Aufwand oder in sonstiger Weise zu einer
+unbilligen Härte führen würde.
+
+(4) Fernablesbare Ausstattungen zur Verbrauchserfassung, die bis zum
+1\. Dezember 2022 installiert wurden, müssen nach dem 31. Dezember 2031
+die Anforderungen nach Absatz 2 Satz 3 und Absatz 5 durch Nachrüstung
+oder Austausch erfüllen.
+
+(5) Ab dem 1. Dezember 2022 dürfen nur noch solche fernauslesbaren
+Ausstattungen zur Verbrauchserfassung installiert werden, die
+einschließlich ihrer Schnittstellen mit den Ausstattungen gleicher Art
+anderer Hersteller interoperabel sind und dabei den Stand der Technik
+einhalten. Die Interoperabilität ist in der Weise zu gewährleisten,
+dass im Fall der Übernahme der Ablesung durch eine andere Person diese
+die Ausstattungen zur Verbrauchserfassung selbst fernablesen kann. Das
+Schlüsselmaterial der fernablesbaren Ausstattungen zur
+Verbrauchserfassung ist dem Gebäudeeigentümer kostenfrei zur Verfügung
+zu stellen.
+
+(6) Die Einhaltung des Stands der Technik nach den Absätzen 2 und 5
+wird vermutet, soweit Schutzprofile und technische Richtlinien
+eingehalten werden, die vom Bundesamt für Sicherheit in der
+Informationstechnik bekannt gemacht worden sind, oder wenn die
+Ausstattung zur Verbrauchserfassung mit einem Smart-Meter-Gateway nach
+§ 2 Satz 1 Nummer 19 des Messstellenbetriebsgesetzes verbunden ist und
+die nach dem Messstellenbetriebsgesetz geltenden Schutzprofile und
+technischen Richtlinien eingehalten werden. Wenn der Gebäudeeigentümer
+von der Möglichkeit des § 6 Absatz 1 des Messstellenbetriebsgesetzes
+für die Sparte Heizwärme Gebrauch gemacht hat, sind fernablesbare
+Ausstattungen zur Verbrauchserfassung nach den Absätzen 2 und 3 an
+vorhandene Smart-Meter-Gateways nach § 2 Satz 1 Nummer 19 des
+Messstellenbetriebsgesetzes anzubinden.
+
+(7) Wird der Verbrauch der von einer Anlage im Sinne des § 1 Absatz 1
 versorgten Nutzer nicht mit gleichen Ausstattungen erfasst, so sind
 zunächst durch Vorerfassung vom Gesamtverbrauch die Anteile der
 Gruppen von Nutzern zu erfassen, deren Verbrauch mit gleichen
@@ -138,19 +200,26 @@ unterschiedlichen Nutzungs- oder Gebäudearten oder aus anderen
 sachgerechten Gründen eine Vorerfassung nach Nutzergruppen
 durchführen.
 
+(8) Die Bundesregierung evaluiert die Auswirkungen der Regelungen auf
+Mieter in den Absätzen 2, 5 und 6 drei Jahre nach dem 1. Dezember
+2021, insbesondere im Hinblick auf zusätzliche Betriebskosten durch
+fernablesbare Ausstattungen und den Nutzen dieser Ausstattungen für
+Mieter. Der Evaluationsbericht wird spätestens am 31. August 2025
+veröffentlicht.
+
 
 ## § 6 Pflicht zur verbrauchsabhängigen Kostenverteilung
 
 (1) Der Gebäudeeigentümer hat die Kosten der Versorgung mit Wärme und
 Warmwasser auf der Grundlage der Verbrauchserfassung nach Maßgabe der
 §§ 7 bis 9 auf die einzelnen Nutzer zu verteilen. Das Ergebnis der
-Ablesung soll dem Nutzer in der Regel innerhalb eines Monats
-mitgeteilt werden. Eine gesonderte Mitteilung ist nicht erforderlich,
-wenn das Ableseergebnis über einen längeren Zeitraum in den Räumen des
-Nutzers gespeichert ist und von diesem selbst abgerufen werden kann.
-Einer gesonderten Mitteilung des Warmwasserverbrauchs bedarf es auch
-dann nicht, wenn in der Nutzeinheit ein Warmwasserzähler eingebaut
-ist.
+Ablesung bei nicht fernablesbaren Ausstattungen soll dem Nutzer in der
+Regel innerhalb eines Monats mitgeteilt werden. Eine gesonderte
+Mitteilung ist nicht erforderlich, wenn das Ableseergebnis über einen
+längeren Zeitraum in den Räumen des Nutzers gespeichert ist und von
+diesem selbst abgerufen werden kann. Einer gesonderten Mitteilung des
+Warmwasserverbrauchs bedarf es auch dann nicht, wenn in der
+Nutzeinheit ein Warmwasserzähler eingebaut ist.
 
 (2) In den Fällen des § 5 Absatz 2 sind die Kosten zunächst mindestens
 zu 50 vom Hundert nach dem Verhältnis der erfassten Anteile am
@@ -198,6 +267,142 @@ Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit
 Wirkung zum Beginn eines Abrechnungszeitraumes zulässig.
 
 
+## § 6a Abrechnungs- und Verbrauchsinformationen; Informationen in der Abrechnung
+
+(1) Wenn fernablesbare Ausstattungen zur Verbrauchserfassung
+installiert wurden, hat der Gebäudeeigentümer den Nutzern Abrechnungs-
+oder Verbrauchsinformationen für Heizung und Warmwasser auf der
+Grundlage des tatsächlichen Verbrauchs oder der Ablesewerte von
+Heizkostenverteilern in folgenden Zeitabständen mitzuteilen:
+
+1.  für alle Abrechnungszeiträume, die ab dem 1. Dezember 2021 beginnen
+
+    a)  auf Verlangen des Nutzers oder wenn der Gebäudeeigentümer sich
+        gegenüber dem Versorgungsunternehmen für die Zustellung der Abrechnung
+        auf elektronischem Wege entschieden hat, mindestens vierteljährlich
+        und
+
+
+    b)  ansonsten mindestens zweimal im Jahr,
+
+
+
+
+
+2.  ab dem 1. Januar 2022 monatlich.
+
+
+
+
+(2) Verbrauchsinformationen nach Absatz 1 Nummer 2 müssen mindestens
+folgende Informationen enthalten:
+
+1.  Verbrauch des Nutzers im letzten Monat in Kilowattstunden,
+
+
+2.  einen Vergleich dieses Verbrauchs mit dem Verbrauch des Vormonats
+    desselben Nutzers sowie mit dem entsprechenden Monat des Vorjahres
+    desselben Nutzers, soweit diese Daten erhoben worden sind, und
+
+
+3.  einen Vergleich mit dem Verbrauch eines normierten oder durch
+    Vergleichstests ermittelten Durchschnittsnutzers derselben
+    Nutzerkategorie.
+
+
+
+
+(3) Wenn die Abrechnungen auf dem tatsächlichen Verbrauch oder auf den
+Ablesewerten von Heizkostenverteilern beruhen, muss der
+Gebäudeeigentümer den Nutzern für Abrechnungszeiträume, die ab dem 1.
+Dezember 2021 beginnen, zusammen mit den Abrechnungen folgende
+Informationen zugänglich machen:
+
+1.  Informationen über
+
+    a)  den Anteil der eingesetzten Energieträger und bei Nutzern, die mit
+        Fernwärme aus Fernwärmesystemen versorgt werden, auch über die damit
+        verbundenen jährlichen Treibhausgasemissionen und den
+        Primärenergiefaktor des Fernwärmenetzes, bei Fernwärmesystemen mit
+        einer thermischen Gesamtleistung unter 20 Megawatt jedoch erst ab dem
+        1\. Januar 2022,
+
+
+    b)  die erhobenen Steuern, Abgaben und Zölle,
+
+
+    c)  die Entgelte für die Gebrauchsüberlassung und Verwendung der
+        Ausstattungen zur Verbrauchserfassung, einschließlich der Eichung,
+        sowie für die Ablesung und Abrechnung,
+
+
+
+
+
+2.  Kontaktinformationen, darunter Internetadressen von
+    Verbraucherorganisationen, Energieagenturen oder ähnlichen
+    Einrichtungen, bei denen Informationen über angebotene Maßnahmen zur
+    Energieeffizienzverbesserung, Endnutzer-Vergleichsprofile und
+    objektive technische Spezifikationen für energiebetriebene Geräte
+    eingeholt werden können,
+
+
+3.  im Falle eines Verbrauchervertrags nach § 310 Absatz 3 des
+    Bürgerlichen Gesetzbuches die Information über die Möglichkeit der
+    Durchführung von Streitbeilegungsverfahren nach dem
+    Verbraucherstreitbeilegungsgesetz, wobei die §§ 36 und 37 des
+    Verbraucherstreitbeilegungsgesetzes unberührt bleiben,
+
+
+4.  Vergleiche mit dem Verbrauch eines normierten oder durch
+    Vergleichstests ermittelten Durchschnittsnutzers derselben
+    Nutzerkategorie, wobei im Fall elektronischer Abrechnungen ein solcher
+    Vergleich online bereitgestellt und in der Abrechnung darauf verwiesen
+    werden kann,
+
+
+5.  einen Vergleich des witterungsbereinigten Energieverbrauchs des
+    jüngsten Abrechnungszeitraums des Nutzers mit seinem
+    witterungsbereinigten Energieverbrauch im vorhergehenden
+    Abrechnungszeitraum in grafischer Form.
+
+
+
+Der Energieverbrauch nach Satz 1 Nummer 5 umfasst den Wärmeverbrauch
+und den Warmwasserverbrauch. Dabei ist der Wärmeverbrauch einer
+Witterungsbereinigung unter Anwendung eines den anerkannten Regeln der
+Technik entsprechenden Verfahrens zu unterziehen. Die Einhaltung der
+anerkannten Regeln der Technik wird vermutet, soweit für den Vergleich
+der witterungsbereinigten Energieverbräuche Vereinfachungen verwendet
+werden, die vom Bundesministerium für Wirtschaft und Energie und vom
+Bundesministerium des Innern, für Bau und Heimat gemeinsam im
+Bundesanzeiger bekannt gemacht worden sind.
+
+(4) Die Pflichten gemäß § 556 Absatz 3 des Bürgerlichen Gesetzbuches
+bleiben unberührt.
+
+(5) Abrechnungen, die nicht auf dem tatsächlichen Verbrauch oder auf
+den Ablesewerten von Heizkostenverteilern beruhen, müssen mindestens
+die Informationen gemäß Absatz 3 Satz 1 Nummer 2 und 3 enthalten.
+
+
+## § 6b Zulässigkeit und Umfang der Verarbeitung von Daten
+
+Die Erhebung, Speicherung und Verwendung von Daten aus einer
+fernablesbaren Ausstattung zur Verbrauchserfassung darf nur durch den
+Gebäudeeigentümer oder einen von ihm beauftragten Dritten erfolgen und
+soweit dies erforderlich ist:
+
+1.  zur Erfüllung der verbrauchsabhängigen Kostenverteilung und zur
+    Abrechnung mit dem Nutzer nach § 6 oder
+
+
+2.  zur Erfüllung der Informationspflichten nach § 6a.
+
+
+
+
+
 ## § 7 Verteilung der Kosten der Versorgung mit Wärme
 
 (1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind
@@ -230,13 +435,11 @@ Bundes-Immissionsschutzgesetz, die Kosten der Anmietung oder anderer
 Arten der Gebrauchsüberlassung einer Ausstattung zur
 Verbrauchserfassung sowie die Kosten der Verwendung einer Ausstattung
 zur Verbrauchserfassung einschließlich der Kosten der Eichung sowie
-der Kosten der Berechnung, Aufteilung und Verbrauchsanalyse. Die
-Verbrauchsanalyse sollte insbesondere die Entwicklung der Kosten für
-die Heizwärme- und Warmwasserversorgung der vergangenen drei Jahre
-wiedergeben.
+der Kosten der Berechnung, Aufteilung und Abrechnungs- und
+Verbrauchsinformationen gemäß § 6a.
 
 (3) Für die Verteilung der Kosten der Wärmelieferung gilt Absatz 1
-entsprechend.
+Satz 1 und 3 bis 5 entsprechend.
 
 (4) Zu den Kosten der Wärmelieferung gehören das Entgelt für die
 Wärmelieferung und die Kosten des Betriebs der zugehörigen Hausanlagen
@@ -280,66 +483,74 @@ Wärmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden
 sind, sind dem Anteil an den einheitlich entstandenen Kosten
 hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit
 Wärme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs
-der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die weder
-durch Heizkessel noch durch eigenständige gewerbliche Wärmelieferung
-mit Wärme versorgt werden, können anerkannte Regeln der Technik zur
-Aufteilung der Kosten verwendet werden. Der Anteil der zentralen
-Warmwasserversorgungsanlage am Wärmeverbrauch ist nach Absatz 2, der
-Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.
+der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die nicht
+ausschließlich durch Heizkessel oder durch eigenständige gewerbliche
+Wärmelieferung mit Wärme versorgt werden, können anerkannte Regeln der
+Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der
+zentralen Warmwasserversorgungsanlage am Wärmeverbrauch ist nach
+Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu
+ermitteln.
 
 (2) Die auf die zentrale Warmwasserversorgungsanlage entfallende
-Wärmemenge (Q) ist ab dem 31. Dezember 2013 mit einem Wärmezähler zu
-messen. Kann die Wärmemenge nur mit einem unzumutbar hohen Aufwand
-gemessen werden, kann sie nach der Gleichung
+Wärmemenge (Q) ist mit einem Wärmezähler zu messen. Kann die
+Wärmemenge nur mit einem unzumutbar hohen Aufwand gemessen werden,
+kann sie nach folgender Zahlenwertgleichung als Ergebnis in
+Kilowattstunden pro Jahr bestimmt werden:
 
-*    *   Q = 2,5 ·
-
-    *   kWh
-
-    *   · V · (t
-        w                        – 10 °C)
+*    *   Q = 2,5 x V x (tw-10).
 
 
-*    *   m
-        3                        · K
+*    *
 
 
+   Dabei sind zu Grunde zu legen:
 
-bestimmt werden. Dabei sind zu Grunde zu legen
+1.  der Wert 2,5 für die Erzeugeraufwandszahl des Wärmeerzeugers, die
+    mittlere spezifische Wärmekapazität des Wassers, die Wärmeverluste für
+    Warmwasserspeicher, Verteilung einschließlich Zirkulation,
+    Messdatenerhebungen zum Warmwasserverbrauch,
 
-1.  das gemessene Volumen des verbrauchten Warmwassers (V) in Kubikmetern
-    (m
-    3                   );
+
+2.  das gemessene Volumen des verbrauchten Warmwassers (V) in Kubikmetern,
 
 
-2.  die gemessene oder geschätzte mittlere Temperatur des Warmwassers (t
-    w                   ) in Grad Celsius (°C).
+3.  die gemessene oder geschätzte mittlere Temperatur des Warmwassers (tw)
+    in Grad Celsius und
+
+
+4.  der Wert 10 für die übliche Kaltwassereintrittstemperatur in die
+    Warmwasserversorgungsanlage in Grad Celsius.
 
 
 
 Wenn in Ausnahmefällen weder die Wärmemenge noch das Volumen des
-verbrauchten Warmwassers gemessen werden können, kann die auf die
-zentrale Warmwasserversorgungsanlage entfallende Wärmemenge nach
-folgender Gleichung bestimmt werden
+verbrauchten Warmwassers gemessen werden können, kann die Wärmemenge,
+die auf die zentrale Warmwasserversorgungsanlage entfällt, nach
+folgender Zahlenwertgleichung als Ergebnis in Kilowattstunden pro Jahr
+bestimmt werden:
 
-*    *   Q = 32 ·
-
-    *   kWh
-
-    *   · A
-        Wohn
+*    *   Q = 32 x A
+        Wohn                       .
 
 
-*    *   m
-        2                        A
-        Wohn
+*    *
+
+
+   Dabei sind zu Grunde zu legen:
+
+1.  der Wert 32 für den Nutzwärmebedarf für Warmwasser, die
+    Erzeugeraufwandszahl des Wärmeerzeugers, Messdatenerhebungen zum
+    Warmwasserverbrauch und
+
+
+2.  die durch die zentrale Anlage mit Warmwasser versorgte Wohn- oder
+    Nutzfläche (A
+    Wohn                   ) in Quadratmeter.
 
 
 
-Dabei ist die durch die zentrale Anlage mit Warmwasser versorgte Wohn-
-oder Nutzfläche (A
-Wohn             ) zu Grunde zu legen. Die nach den Gleichungen in
-Satz 2 oder 4 bestimmte Wärmemenge (Q) ist
+Die nach den Zahlenwertgleichungen in Satz 2 oder 4 bestimmte
+Wärmemenge (Q) ist
 
 1.  bei brennwertbezogener Abrechnung von Erdgas
     mit 1,11                    zu multiplizieren und
@@ -352,118 +563,131 @@ Satz 2 oder 4 bestimmte Wärmemenge (Q) ist
 
 
 (3) Bei Anlagen mit Heizkesseln ist der Brennstoffverbrauch der
-zentralen Warmwasserversorgungsanlage (B) in Litern, Kubikmetern,
-Kilogramm oder Schüttraummetern nach der Gleichung
-
-*    *   B =
-
-    *   *Q*
-
-    *
-
-*    *   H
-        i
-
-
-
-zu bestimmen. Dabei sind zu Grunde zu legen
+zentralen Warmwasserversorgungsanlage (B) in Litern, Kubikmetern oder
+Kilogramm nach folgender Gleichung zu bestimmen:
+![bgbl1_2021_j4964-1_0010.jpg](bgbl1_2021_j4964-1_0010.jpg).
+Dabei sind zu Grunde zu legen
 
 1.  die auf die zentrale Warmwasserversorgungsanlage entfallende
     Wärmemenge (Q) nach Absatz 2 in kWh;
 
 
 2.  der Heizwert des verbrauchten Brennstoffes (H
-    i                   ) in Kilowattstunden (kWh) je Liter (l),
-    Kubikmeter (m
-    3                   ), Kilogramm (kg) oder Schüttraummeter (SRm). Als
-    H
-    i                   -Werte können verwendet werden für
-
-    *        *   Leichtes Heizöl EL
-
-        *   10
-
-        *   kWh/l
-
-
-    *        *   Schweres Heizöl
-
-        *   10,9
-
-        *   kWh/l
-
-
-    *        *   Erdgas H
-
-        *   10
-
-        *   kWh/m
-            3
-
-
-    *        *   Erdgas L
-
-        *   9
-
-        *   kWh/m
-            3
-
-
-    *        *   Flüssiggas
-
-        *   13
-
-        *   kWh/kg
-
-
-    *        *   Koks
-
-        *   8
-
-        *   kWh/kg
-
-
-    *        *   Braunkohle
-
-        *   5,5
-
-        *   kWh/kg
-
-
-    *        *   Steinkohle
-
-        *   8
-
-        *   kWh/kg
-
-
-    *        *   Holz (lufttrocken)
-
-        *   4,1
-
-        *   kWh/kg
-
-
-    *        *   Holzpellets
-
-        *   5
-
-        *   kWh/kg
-
-
-    *        *   Holzhackschnitzel
-
-        *   650
-
-        *   kWh/SRm.
+    i                   ) in Kilowattstunden je Liter, Kubikmeter oder
+    Kilogramm.
 
 
 
+Als Heizwerte nach Satz 2 Nummer 2 sind die in den
+Abrechnungsunterlagen des Energieversorgungsunternehmens oder
+Brennstofflieferanten angegebenen Heizwerte zu verwenden. Wenn diese
+vom Energieversorgungsunternehmen oder Brennstofflieferanten nicht
+angegeben werden, können hilfsweise folgende Werte verwendet werden:
+
+*    *
+    *   Heiz-
+        wert H
+        i
+
+    *   Einheit
+
+
+*    *   Leichtes Heizöl
+        extra leichtflüssig
+
+    *   10
+
+    *   Kilowattstunden
+        je Liter
+
+
+*    *   Schweres Heizöl
+
+    *   10,9
+
+    *   Kilowattstunden
+        je Liter
+
+
+*    *   Erdgas H
+
+    *   10
+
+    *   Kilowattstunden
+        je Kubikmeter
+
+
+*    *   Erdgas L
+
+    *   9
+
+    *   Kilowattstunden
+        je Kubikmeter
+
+
+*    *   Flüssiggas
+
+    *   13
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Koks
+
+    *   8
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Braunkohle
+
+    *   5,5
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Steinkohle
+
+    *   8
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Brennholz
+        (lufttrocken)
+
+    *   4,1
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Holzpellets
+
+    *   5
+
+    *   Kilowattstunden
+        je Kilogramm
+
+
+*    *   Holzhackschnitzel
+        (lufttrocken)
+
+    *   4
+
+    *   Kilowattstunden
+        je Kilogramm
 
 
 
-Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens
-oder Brennstofflieferanten H
+Soweit die Abrechnung über Kilowattstunden-Werte erfolgt, ist eine
+Umrechnung in Brennstoffverbrauch nicht erforderlich. Enthalten die
+Abrechnungsunterlagen des Energieversorgungsunternehmens oder
+Brennstofflieferanten H
 i             -Werte, so sind diese zu verwenden. Soweit die
 Abrechnung über kWh-Werte erfolgt, ist eine Umrechnung in
 Brennstoffverbrauch nicht erforderlich.
@@ -603,41 +827,21 @@ Warmwasser beziehen, gilt Absatz 1 entsprechend.
 entgegen den Vorschriften dieser Verordnung nicht verbrauchsabhängig
 abgerechnet werden, hat der Nutzer das Recht, bei der nicht
 verbrauchsabhängigen Abrechnung der Kosten den auf ihn entfallenden
-Anteil um 15 vom Hundert zu kürzen. Dies gilt nicht beim
-Wohnungseigentum im Verhältnis des einzelnen Wohnungseigentümers zur
-Gemeinschaft der Wohnungseigentümer; insoweit verbleibt es bei den
-allgemeinen Vorschriften.
+Anteil um 15 vom Hundert zu kürzen. Wenn der Gebäudeeigentümer
+entgegen § 5 Absatz 2 oder Absatz 3 keine fernablesbare Ausstattung
+zur Verbrauchserfassung installiert hat, hat der Nutzer das Recht, bei
+der Abrechnung der Kosten den auf ihn entfallenden Anteil um 3 vom
+Hundert zu kürzen. Dasselbe ist anzuwenden, wenn der Gebäudeeigentümer
+die Informationen nach § 6a nicht oder nicht vollständig mitteilt. Die
+Sätze 1 bis 3 sind nicht anzuwenden beim Wohnungseigentum im
+Verhältnis des einzelnen Wohnungseigentümers zur Gemeinschaft der
+Wohnungseigentümer; insoweit verbleibt es bei den allgemeinen
+Vorschriften.
 
-(2) Die Anforderungen des § 5 Absatz 1 Satz 2 gelten bis zum 31.
-Dezember 2013 als erfüllt
-
-1.  für die am 1. Januar 1987 für die Erfassung des anteiligen
-    Warmwasserverbrauchs vorhandenen Warmwasserkostenverteiler und
-
-
-2.  für die am 1. Juli 1981 bereits vorhandenen sonstigen Ausstattungen
-    zur Verbrauchserfassung.
-
-
-
-
-(3) Bei preisgebundenen Wohnungen im Sinne der Neubaumietenverordnung
-1970 gilt Absatz 2 mit der Maßgabe, dass an die Stelle des Datums "1.
-Juli 1981" das Datum "1. August 1984" tritt.
-
-(4) § 1 Absatz 3, § 4 Absatz 3 Satz 2 und § 6 Absatz 3 gelten für
-Abrechnungszeiträume, die nach dem 30. September 1989 beginnen;
-rechtsgeschäftliche Bestimmungen über eine frühere Anwendung dieser
-Vorschriften bleiben unberührt.
-
-(5) Wird in den Fällen des § 1 Absatz 3 der Wärmeverbrauch der
+(2) Wird in den Fällen des § 1 Absatz 3 der Wärmeverbrauch der
 einzelnen Nutzer am 30. September 1989 mit Einrichtungen zur Messung
 der Wassermenge ermittelt, gilt die Anforderung des § 5 Absatz 1 Satz
 1 als erfüllt.
-
-(6) Auf Abrechnungszeiträume, die vor dem 1. Januar 2009 begonnen
-haben, ist diese Verordnung in der bis zum 31. Dezember 2008 geltenden
-Fassung weiter anzuwenden.
 
 
 ## § 13 (Berlin-Klausel)
@@ -645,5 +849,71 @@ Fassung weiter anzuwenden.
 
 
 ## § 14 (Inkrafttreten)
+
+
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 1007)
+
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+
+Abschnitt III
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
+mit folgenden Maßgaben in Kraft:
+...
+Verordnung über Heizkostenabrechnung in der Fassung der Bekanntmachung
+vom 20. Januar 1989 (BGBl. I S. 115)
+mit folgenden Maßgaben:
+
+*
+    a)  Die Verordnung tritt zum 1. Januar 1991 in Kraft. Bis zum 31. Dezember
+        1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den
+        bisherigen Regeln verfahren werden.
+
+
+    b)  Räume, die vor dem 1. Januar 1991 bezugsfertig geworden sind und in
+        denen die nach der Verordnung erforderliche Ausstattung zur
+        Verbrauchserfassung noch nicht vorhanden ist, sind bis spätestens zum
+        31\. Dezember 1995 auszustatten. Der Gebäudeeigentümer ist berechtigt,
+        die Ausstattung bereits vor dem 31. Dezember 1995 anzubringen.
+
+
+    c)  Soweit und solange die nach Landesrecht zuständigen Behörden des in
+        Artikel 3 des Vertrages genannten Gebietes noch nicht die Eignung
+        sachverständiger Stellen gemäß § 5 Abs. 1 Satz 2 und 3 der Verordnung
+        bestätigt haben, können Ausstattungen zur Verbrauchserfassung
+        verwendet werden für die eine sachverständige Stelle aus dem Gebiet,
+        in dem die Verordnung schon vor dem Beitritt gegolten hat, die
+        Bestätigung im Sinne von § 5 Abs. 1 Satz 2 erteilt hat.
+
+
+    d)  Als Heizwerte der verbrauchten Brennstoffe (Hu) nach § 9 Abs. 2 Ziff.
+        3 können auch verwendet werden:
+
+
+
+
+
+
+Braunkohlenbrikett              5,5 kWh/kg
+Braunkohlenhochtemperaturkoks   8,0 kWh/kg
+
+*
+    e)  Die Vorschriften dieser Verordnung über die Kostenverteilung gelten
+        erstmalig für den Abrechnungszeitraum, der nach dem Anbringen der
+        Ausstattung beginnt.
+
+
+    f)  § 11 Abs. 1 Nr. 1 Buchstabe b) ist mit der Maßgabe anzuwenden, daß an
+        die Stelle des Datums "1. Juli 1981" das Datum "1. Januar 1991" tritt.
+
+
+    g)  § 12 Abs. 2 ist mit der Maßgabe anzuwenden, daß an die Stelle der
+        Daten "1. Januar 1987" und "1. Juli 1981" jeweils das Datum "1. Januar
+        1991" tritt.
+
+
+
+
+
 
 

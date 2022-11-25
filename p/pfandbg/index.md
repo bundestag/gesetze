@@ -16,7 +16,22 @@ Fundstelle
 :   BGBl I: 2005, 1373
 
 Zuletzt geändert durch
-:   Art. 12 G v. 9.12.2010 I 1900
+:   Art. 22 G v. 22.12.2020 I 3256
+
+Änderung durch
+:   Art. 7 Abs. 30 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 1 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 11 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 27 G v. 5.7.2021 I 3338 (Nr. 52) mWv 1.8.2022 noch nicht berücksichtigt
 
 
 ## Abschnitt 1 - Anwendungsbereich, Erlaubnis und Aufsicht
@@ -85,9 +100,15 @@ Pfandbriefgeschäfts folgende Voraussetzungen erfüllen:
     Millionen Euro verfügen.
 
 
-2.  Das Kreditinstitut muss eine Erlaubnis für das Kreditgeschäft im Sinne
-    des § 1 Abs. 1 Satz 2 Nr. 2 des Kreditwesengesetzes haben und dieses
-    voraussichtlich betreiben.
+2.  Das Kreditinstitut muss als CRR-Kreditinstitut im Sinne des Artikels 4
+    Absatz 1 Nummer 1 Buchstabe a der Verordnung (EU) Nr. 575/2013 des
+    Europäischen Parlaments und des Rates vom 26. Juni 2013 über
+    Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur
+    Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013,
+    S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom
+    21\.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt durch die
+    Verordnung (EU) 2021/558 (ABl. L 116 vom 6.4.2021, S. 25) geändert
+    worden ist, zugelassen sein.
 
 
 3.  Das Kreditinstitut muss über geeignete Regelungen und Instrumente im
@@ -110,13 +131,13 @@ Pfandbriefgeschäfts folgende Voraussetzungen erfüllen:
 
 
 
-Abweichend von § 33 Abs. 4 des Kreditwesengesetzes ist die nach Satz 1
-erforderliche Erlaubnis auch dann zu versagen, wenn die
+Abweichend von § 33 Absatz 3 des Kreditwesengesetzes ist die nach Satz
+1 erforderliche Erlaubnis auch dann zu versagen, wenn die
 Voraussetzungen des Satzes 2 Nr. 1 bis 5 nicht vorliegen. § 32 Abs. 2
 Satz 2 des Kreditwesengesetzes ist mit der Maßgabe anzuwenden, dass
 die Erlaubnis für das Pfandbriefgeschäft auch auf einzelne der in § 1
 Abs. 1 Satz 2 Nr. 1 bis 4 genannten Tätigkeiten beschränkt werden
-kann. Die nach § 33 Abs. 2 Satz 1 des Kreditwesengesetzes
+kann. Die nach § 25c Absatz 1 Satz 2 des Kreditwesengesetzes
 vorausgesetzten theoretischen und praktischen Kenntnisse sind im
 Pfandbriefgeschäft abhängig von der Reichweite der Erlaubnis
 regelmäßig anzunehmen, wenn die Geschäftsleiter über entsprechende
@@ -129,16 +150,22 @@ Pfandbriefgeschäfts außer in den Fällen des § 35 Abs. 2 des
 Kreditwesengesetzes auch aufheben, wenn
 
 1.  die Voraussetzungen des Absatzes 1 Satz 2 Nr. 1 bis 3 und 5 nicht mehr
-    vorliegen oder
+    vorliegen,
 
 
 2.  die Pfandbriefbank seit mehr als zwei Jahren keine Pfandbriefe begeben
     hat und nicht zu erwarten ist, dass das Pfandbriefgeschäft innerhalb
     der nächsten sechs Monate als regelmäßig und nachhaltig betriebenes
-    Bankgeschäft wieder aufgenommen wird.
+    Bankgeschäft wieder aufgenommen wird oder
+
+
+3.  die Pfandbriefbank nachhaltig gegen Bestimmungen dieses Gesetzes oder
+    die zu dessen Durchführung erlassenen Verordnungen oder Anordnungen
+    verstoßen hat.
 
 
 
+Absatz 1 Satz 4 gilt entsprechend.
 
 (3) Hebt die Bundesanstalt die Erlaubnis für das Pfandbriefgeschäft
 auf oder erlischt diese, so sind die Deckungsmassen abzuwickeln.
@@ -152,44 +179,52 @@ bis zur vollständigen und fristgerechten Erfüllung der
 Pfandbriefverbindlichkeiten fort, soweit nicht die Bundesanstalt die
 Erstreckung der Erlaubnisaufhebung ausdrücklich anordnet.
 
-(5) In den Fällen der Absätze 3 und 4 ernennt das Gericht am Sitz der
-Pfandbriefbank auf Antrag der Bundesanstalt eine oder zwei geeignete
-natürliche Personen als Sachwalter, wenn dies für die vollständige und
-fristgerechte Erfüllung der Pfandbriefverbindlichkeiten erforderlich
-ist und nicht bereits nach § 30 Absatz 2 oder 5 ein Sachwalter ernannt
-worden ist. Die Ernennung kann auf Antrag der Bundesanstalt mit
-Zustimmung der Geschäftsleiter der Pfandbriefbank auch dann erfolgen,
-wenn die Ernennung eines Sachwalters dienlich erscheint. Für die
-Rechtsstellung dieses Sachwalters gelten die Vorschriften der §§ 30
-bis 36 entsprechend.
+(5) In den Fällen der Absätze 3 und 4 ist ein Sachwalter zu ernennen,
+wenn dies für die vollständige und fristgerechte Erfüllung der
+Pfandbriefverbindlichkeiten erforderlich ist und nicht bereits nach §
+30 Absatz 2 oder 5 ein Sachwalter ernannt worden ist. Die Ernennung
+kann auf Antrag der Bundesanstalt mit Zustimmung der Geschäftsleiter
+der Pfandbriefbank auch dann erfolgen, wenn die Ernennung eines
+Sachwalters dienlich erscheint. Für das Verfahren der Ernennung und
+die Rechtsstellung dieses Sachwalters gelten die Vorschriften der §§
+30 bis 36 mit Ausnahme des § 30 Absatz 2 Satz 6 in Verbindung mit § 30
+Absatz 2a entsprechend.
 
 
-### § 3 Aufsicht
+### § 3 Aufsicht; Auskunfts- und Vorlageverlangen
 
-Die Bundesanstalt übt die Aufsicht über die Pfandbriefbanken nach den
-Vorschriften dieses Gesetzes und des Kreditwesengesetzes aus. Sie ist
+(1) Die Bundesanstalt übt die Aufsicht über die Pfandbriefbanken nach
+den Vorschriften dieses Gesetzes und den in § 6 Absatz 1 Satz 1 des
+Kreditwesengesetzes genannten Gesetzen und Verordnungen aus. Sie ist
 befugt, alle Anordnungen zu treffen, die geeignet und erforderlich
 sind, um das Geschäft der Pfandbriefbanken mit diesem Gesetz und den
 dazu erlassenen Rechtsverordnungen im Einklang zu erhalten. Sie hat zu
 von ihr bestimmten Zeitpunkten auf der Grundlage geeigneter
 Stichproben die Deckung der Pfandbriefe zu prüfen; hierbei kann sie
 sich anderer Personen und Einrichtungen bedienen. Die Prüfung soll in
-der Regel nach jeweils zwei Jahren erfolgen. Die von anderen
+der Regel nach jeweils drei Jahren erfolgen. Die von anderen
 staatlichen Stellen ausgeübte Aufsicht bleibt unberührt.
+
+(2) Eine Pfandbriefbank, die Mitglieder deren Organe, deren
+Beschäftigte und ein Sachwalter haben der Bundesanstalt sowie den
+Personen und Einrichtungen, derer sich die Bundesanstalt bei der
+Durchführung ihrer Aufgaben bedient, auf Verlangen über die
+Deckungssituation einschließlich der wirtschaftlichen Werthaltigkeit
+der Deckung Auskünfte zu erteilen und Unterlagen vorzulegen.
 
 
 ## Abschnitt 2 - Allgemeine Vorschriften über die Pfandbriefemission
 
 
 
-### § 4 Deckungskongruenz
+### § 4 Deckungskongruenz; Anordnung erhöhter Mindestdeckungsanforderungen
 
 (1) Die jederzeitige Deckung der umlaufenden Pfandbriefe nach dem
 Barwert, der die Zins- und Tilgungsverpflichtungen einbezieht, muss
-sichergestellt sein; der Barwert der eingetragenen Deckungswerte muss
+sichergestellt sein. Der Barwert der eingetragenen Deckungswerte muss
 den Barwert der zu deckenden Verbindlichkeiten um 2 Prozent
-übersteigen (sichernde Überdeckung). Die sichernde Überdeckung muss
-bestehen in
+übersteigen (barwertige sichernde Überdeckung). Die barwertige
+sichernde Überdeckung muss bestehen in
 
 1.  Schuldverschreibungen, Schuldbuchforderungen, Schatzwechseln und
     Schatzanweisungen, deren Schuldner der Bund, ein Sondervermögen des
@@ -200,41 +235,76 @@ bestehen in
     Entwicklung, die Entwicklungsbank des Europarates oder die Europäische
     Bank für Wiederaufbau und Entwicklung ist; dies gilt auch für
     Schuldverschreibungen, Schuldbuchforderungen, Schatzwechsel und
-    Schatzanweisungen, deren Schuldner die Schweiz, die Vereinigten
-    Staaten von Amerika, Kanada oder Japan sind, sofern deren
-    Risikogewicht entsprechend dem Rating einer anerkannten
-    internationalen Ratingagentur der Bonitätsstufe 1 nach Tabelle 1 des
-    Anhangs VI der Richtlinie 2006/48/EG des Europäischen Parlaments und
-    des Rates vom 14. Juni 2006 über die Aufnahme und Ausübung der
-    Tätigkeit der Kreditinstitute (ABl. EU Nr. L 177 S. 1) in der jeweils
-    geltenden Fassung zugeordnet worden ist;
+    Schatzanweisungen, deren Schuldner die Schweiz, das Vereinigte
+    Königreich Großbritannien und Nordirland, die Vereinigten Staaten von
+    Amerika, Kanada oder Japan sind, sofern deren Risikogewicht
+    entsprechend dem Rating einer anerkannten internationalen
+    Ratingagentur der Bonitätsstufe 1 nach Tabelle 1 des Artikels 114
+    Absatz 2 der Verordnung (EU) Nr. 575/2013 zugeordnet worden ist;
 
 
 2.  Schuldverschreibungen, für deren Verzinsung und Rückzahlung eine der
     unter Nummer 1 bezeichneten Stellen die Gewährleistung übernommen hat,
 
 
-3.  Guthaben bei der Europäischen Zentralbank, bei Zentralbanken der
-    Mitgliedstaaten der Europäischen Union oder bei geeigneten
-    Kreditinstituten mit Sitz in einem der in Nummer 1 genannten Staaten,
-    denen ein der Bonitätsstufe 1 entsprechendes Risikogewicht nach
-    Tabelle 3 des Anhangs VI der Richtlinie 2006/48/EG nach den nationalen
-    Regelungen zugeordnet worden ist, die zur Umsetzung der
-    Rahmenvereinbarung „Internationale Konvergenz der Kapitalmessung und
-    Eigenkapitalanforderungen“ des Baseler Ausschusses für Bankenaufsicht
-    vom Juni 2004 gleichwertig zur Richtlinie 2006/48/EG erlassen worden
-    sind, deren Erfüllung nicht bedingt, befristet, anderen Forderungen
+2a. Guthaben, sofern die Höhe der Forderungen der Pfandbriefbank bereits
+    beim Erwerb bekannt ist, deren Erfüllung nicht bedingt, befristet,
+    anderen Forderungen rechtsgeschäftlich nachgeordnet oder in sonstiger
+    Weise eingeschränkt ist und die unterhalten werden bei
+
+    a)  der Europäischen Zentralbank oder
+
+
+    b)  Zentralbanken der Mitgliedstaaten der Europäischen Union oder anderer
+        Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum.
+
+
+
+
+
+3.  Guthaben bei geeigneten Kreditinstituten mit Sitz in einem der in
+    Nummer 1 genannten Staaten, für den, sofern er nicht Mitgliedstaat der
+    Europäischen Union oder ein anderer Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum ist, die Gleichwertigkeit des
+    Aufsichtsrahmens im Sinne des Artikels 107 Absatz 4 der Verordnung
+    (EU) Nr. 575/2013 durch die Europäische Kommission festgestellt ist,
+    denen nach Maßgabe von Artikel 119 Absatz 1 der Verordnung (EU) Nr.
+    575/2013 ein der Bonitätsstufe 1, bei Ursprungslaufzeiten von bis zu
+    100 Tagen und Sitz in einem Mitgliedstaat der Europäischen Union ein
+    der Bonitätsstufe 1 oder 2 entsprechendes Risikogewicht nach der
+    Tabelle 3 des Artikels 120 Absatz 1 oder der Tabelle 5 des Artikels
+    121 Absatz 1 der Verordnung (EU) Nr. 575/2013 zugeordnet worden ist,
+    deren Erfüllung nicht bedingt, befristet, anderen Forderungen
     rechtsgeschäftlich nachgeordnet oder in sonstiger Weise eingeschränkt
     ist, jedoch nur, sofern die Höhe der Forderungen der Pfandbriefbank
-    bereits beim Erwerb bekannt ist; für die Zuordnung zur Bonitätsstufe 1
-    sind die Ratings anerkannter internationaler Ratingagenturen
-    maßgeblich.
+    bereits beim Erwerb bekannt ist; für die Zuordnung zu den
+    Bonitätsstufen sind die Ratings anerkannter internationaler
+    Ratingagenturen maßgeblich.
 
 
 
 Die Begrenzungen des § 19 Abs. 1 Nr. 2 und 3, des § 20 Abs. 2 Nr. 2,
 des § 26 Abs. 1 Nr. 3 und 4 und des § 26f Abs. 1 Nr. 3 und 4 sind
-insoweit nicht anzuwenden.
+insoweit nicht anzuwenden. Die Bundesanstalt kann nach Anhörung der
+Europäischen Bankenaufsichtsbehörde durch Allgemeinverfügung anordnen,
+dass abweichend von Absatz 1 Satz 3 Nummer 3 auch Guthaben mit einer
+Ursprungslaufzeit von über 100 Tagen bei inländischen
+Kreditinstituten, denen ein der Bonitätsstufe 2 entsprechendes
+Risikogewicht nach der Tabelle 3 des Artikels 120 Absatz 1 der
+Verordnung (EU) Nr. 575/2013 zugeordnet ist, zur Deckung verwendet
+werden dürfen, sofern durch die Beschränkung auf Bonitätsstufe 1 die
+Gefahr einer erheblichen Schuldnerkonzentration bei Forderungen gegen
+inländische Kreditinstitute entstünde. Die Bundesanstalt überprüft das
+Fortbestehen des Anordnungsgrundes mindestens halbjährlich. Die
+Allgemeinverfügung ist aufzuheben, sobald ihr Anordnungsgrund
+weggefallen ist. Die Allgemeinverfügung und ihre Aufhebung sind auf
+der Internetseite der Bundesanstalt und im Bundesanzeiger bekannt zu
+machen. Bis zur Bekanntmachung der Aufhebung der Allgemeinverfügung im
+Bundesanzeiger in das Deckungsregister eingetragene Deckungswerte,
+deren Deckungsfähigkeit auf der Allgemeinverfügung beruht, dürfen nach
+Aufhebung der Allgemeinverfügung bis zu ihrer ursprünglichen
+Fälligkeit, längstens jedoch sechs Monate nach Bekanntmachung der
+Aufhebung, zur Deckung verwendet werden.
 
 (1a) Zusätzlich ist zur Sicherung der Liquidität für die nächsten 180
 Tage ein taggenauer Abgleich der fällig werdenden Forderungen aus
@@ -243,7 +313,7 @@ aus ausstehenden Pfandbriefen und in Deckung befindlichen
 Derivategeschäften vorzunehmen. Für jeden Tag ist die Summe der bis zu
 diesem Tag anfallenden Tagesdifferenzen zu bilden. Die größte sich
 ergebende negative Summe in den nächsten 180 Tagen muss jederzeit
-durch die Summe aus den Deckungswerten nach Absatz 1 Satz 2 und den
+durch die Summe aus den Deckungswerten nach Absatz 1 Satz 3 und den
 eingetragenen Deckungswerten, die vom Europäischen System der
 Zentralbanken als notenbankfähig eingestuft werden, gedeckt werden.
 Für Werte, die ausschließlich zur Sicherung der Liquidität ins
@@ -254,35 +324,74 @@ Deckungsregister eingetragen werden, sind die Begrenzungen der §§ 19,
 einer Gattung muss auch in Höhe des Nennwertes jederzeit durch Werte
 von mindestens gleicher Höhe gedeckt sein. Wenn der zum Zeitpunkt der
 Pfandbriefausgabe bekannte maximale Einlösungswert höher als der
-Nennwert ist, tritt er an die Stelle des Nennwertes.
+Nennwert ist, tritt er an die Stelle des Nennwertes. Für
+Deckungswerte, die zu einem geringeren als ihrem Nennwert erfüllt
+werden können, ist insoweit der geringere Einlösungswert maßgeblich.
 
 (3) Soweit aus als Deckung verwendeten Derivategeschäften
 Verbindlichkeiten der Pfandbriefbank begründet werden, müssen auch die
-Ansprüche der Vertragspartner der Pfandbriefbank gedeckt sein.
-Derivategeschäfte im Sinne dieses Gesetzes sind unter einem
-standardisierten Rahmenvertrag zusammengefasste Derivate nach § 1 Abs.
-11 Satz 4 Nr. 1 des Kreditwesengesetzes einschließlich der unter dem
-Rahmenvertrag abgeschlossenen Besicherungsanhänge und weiteren
-Vereinbarungen.
+Ansprüche der Vertragspartner der Pfandbriefbank genauso wie
+Pfandbriefverbindlichkeiten gedeckt sein.
+
+(3a) Die Bundesanstalt kann für jede Deckungsmasse anordnen, dass eine
+Pfandbriefbank über Absatz 1 Satz 1 und 2 und Absatz 2, jeweils in
+Verbindung mit Absatz 3 Satz 1, hinausgehende Deckungsanforderungen
+einhalten muss, sofern eine werthaltige Deckung der Verbindlichkeiten
+aus im Umlauf befindlichen Pfandbriefen und in Deckung befindlichen
+Derivategeschäften nicht sichergestellt erscheint. Den Umstand einer
+Anordnung nach Satz 1 hat die Pfandbriefbank unverzüglich unter Angabe
+der entsprechenden Höhe der Zusatzanforderung auf ihrer Internetseite
+bei den nach § 28 zu der betreffenden Pfandbriefgattung
+veröffentlichten Angaben zu veröffentlichen. Eine Anordnung nach Satz
+1 ist aufzuheben, soweit ihr Grund nachweislich entfallen ist,
+frühestens jedoch drei Monate nach ihrem Erlass.
+
+(3b) Absatz 3a Satz 1 und 2 gilt entsprechend bei im Rahmen der
+Jahresabschlussprüfung oder von Sonderprüfungen nach § 44 Absatz 1
+Satz 2 des Kreditwesengesetzes, einschließlich Deckungsprüfungen nach
+§ 3 Absatz 1 Satz 3, festgestellten Mängeln, die die Deckungsrechnung
+nach Absatz 4, die Deckungsregisterführung nach § 5, die Anforderungen
+an das Risikomanagement nach § 27, das pfandbriefrechtliche Meldewesen
+nach § 27a, die Einhaltung der Transparenzvorschriften des § 28, die
+Angemessenheit der zur Ermittlung der barwertigen sichernden
+Überdeckung nach der Pfandbrief-Barwertverordnung verwendeten Methoden
+und Prozesse oder die Angemessenheit der Methoden und Verfahren der
+Beleihungswertermittlung betreffen. Eine nach Satz 1 getroffene
+Anordnung ist aufzuheben, wenn die Pfandbriefbank die Behebung des zur
+Anordnung führenden Mangels zur Überzeugung der Bundesanstalt
+nachgewiesen hat oder sobald prüferisch festgestellt worden ist, dass
+der zur Anordnung nach Satz 1 führende Mangel nicht mehr fortbesteht
+und kein neuer Anordnungsgrund vorliegt.
 
 (4) Die Pfandbriefbank hat fortlaufend durch geeignete Rechenwerke
 sicherzustellen und in nachvollziehbarer Weise zu dokumentieren, dass
-die vorschriftsmäßige Deckung jederzeit gegeben ist.
+die vorschriftsmäßige Deckung jederzeit gegeben ist. Für die
+vorschriftmäßige Deckung dürfen Deckungswerte, für die weder ein
+Grundpfandrecht, noch eine Schiffshypothek, noch ein
+Registerpfandrecht oder eine ausländische Flugzeughypothek bestellt
+ist, noch eine Gewährleistung im Sinne des § 20 Absatz 1 Nummer 2 Satz
+2 und 3 besteht und für die oder für deren Schuldner ein Ausfall im
+Sinne des Artikels 178 Absatz 1 der Verordnung (EU) Nr. 575/2013 als
+eingetreten gilt, nicht berücksichtigt werden. Satz 2 gilt
+entsprechend für gewährleistete Deckungswerte, deren
+Gewährleistungsgeber danach als ausgefallen gilt.
 
 (5) Im Umlauf befindlich ist ein Pfandbrief, wenn der Treuhänder ihn
 gemäß § 8 Abs. 3 ausgefertigt und der Pfandbriefbank übergeben hat;
 soweit sichergestellt wird, dass eine Verfügung über einen von der
 Pfandbriefbank gehaltenen Pfandbrief ohne Zustimmung des Treuhänders
 nicht ausgeführt würde, scheidet der Pfandbrief für die Dauer der
-Sicherstellung aus dem Umlauf aus.
+Sicherstellung aus dem Umlauf aus. Ein als elektronisches Wertpapier
+nach § 2 Absatz 1 des Gesetzes über elektronische Wertpapiere
+begebener Pfandbrief ist im Umlauf, sobald die von § 8 Absatz 3 Satz 1
+geforderte Bescheinigung nach § 8 Absatz 3 Satz 3 niedergelegt ist.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Einzelheiten der Methode für die Barwertrechnung nach Absatz 1 Satz 1
-und § 19 Abs. 1 Nr. 4 Satz 3, auch in Verbindung mit § 20 Abs. 2 Nr. 3
-und § 26 Abs. 1 Nr. 5 sowie § 26f Abs. 1 Nr. 5, sowie das Maß der
-Zins- und Währungskursveränderungen zu bestimmen, dem die Deckung nach
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Einzelheiten der Methode für die Barwertrechnung
+nach Absatz 1 Satz 1 und 2 und § 4b Absatz 2 sowie das Maß der Zins-
+und Währungskursveränderungen zu bestimmen, dem die Deckung nach
 Absatz 1 Satz 1 mindestens standhalten muss. Das Bundesministerium der
 Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt für Finanzdienstleistungsaufsicht übertragen. Vor Erlass
@@ -296,11 +405,77 @@ ist auch verboten, für eine Pfandbriefbank über einen im
 Deckungsregister eingetragenen Wert durch Veräußerung oder Belastung
 zum Nachteil der Pfandbriefgläubiger oder der Gläubiger von Ansprüchen
 aus Derivategeschäften nach Absatz 3 zu verfügen, obwohl die übrigen
-im jeweiligen Register eingetragenen Werte zur vorschriftsmäßigen
-Deckung der entsprechenden Pfandbriefe und der Ansprüche aus
-Derivategeschäften nach Absatz 3 nicht genügen. Pfandbriefe dürfen
-nicht ohne die nach § 8 Abs. 3 Satz 1 erforderliche Bescheinigung in
-den Verkehr gebracht werden.
+im jeweiligen Deckungsregister eingetragenen Werte zur
+vorschriftsmäßigen Deckung der entsprechenden Pfandbriefe und der
+Ansprüche aus Derivategeschäften nach Absatz 3 nicht genügen.
+Pfandbriefe dürfen nicht ohne die nach § 8 Abs. 3 Satz 1 erforderliche
+Bescheinigung in den Verkehr gebracht werden.
+
+
+### § 4a Umschuldungsklauseln in Staatsanleihen
+
+Umschuldungsklauseln nach § 4a des Bundesschuldenwesengesetzes in den
+Emissionsbedingungen von Schuldverschreibungen des Bundes sowie
+entsprechende Umschuldungsklauseln in den Emissionsbedingungen von
+Schuldverschreibungen anderer Schuldner im Sinne des § 20 Absatz 1
+Nummer 1 stehen einer Indeckungnahme nach § 4 Absatz 1 Satz 3 Nummer 1
+und 2, § 19 Absatz 1 Nummer 3, § 20 Absatz 1 Nummer 1, § 26 Absatz 1
+Nummer 4 oder § 26f Absatz 1 Nummer 4 nicht entgegen.
+
+
+### § 4b Deckungsgeeignete Derivategeschäfte
+
+(1) Deckungsgeeignete Derivategeschäfte (Derivategeschäfte) sind unter
+einem standardisierten Rahmenvertrag für jede Pfandbriefgattung
+separat zusammengefasste Derivate nach § 1 Absatz 11 Satz 6 Nummer 1
+des Kreditwesengesetzes einschließlich der unter dem Rahmenvertrag
+abgeschlossenen Besicherungsanhänge und weiteren Vereinbarungen.
+Hierbei müssen sämtliche der einbezogenen Derivate als Festgeschäfte
+ausgestaltet sein und der Absicherung einzelner anderer Deckungswerte
+oder Pfandbriefverbindlichkeiten oder einer Gesamtheit von
+Deckungswerten oder Pfandbriefverbindlichkeiten gegen ein allgemeines
+Zinsänderungsrisiko, ein besonderes zinsbezogenes Kursrisiko, ein
+Währungsrisiko oder eine Kombination davon dienen. Weiterhin muss für
+den Rahmenvertrag sichergestellt sein, dass die Ansprüche der
+Pfandbriefbank nach Maßgabe des Rahmenvertrags im Falle weder der
+Insolvenz der Pfandbriefbank, noch des Erlasses von
+Abwicklungsmaßnahmen im Sinne des § 2 Absatz 3 Nummer 5 des
+Sanierungs- und Abwicklungsgesetzes oder des Artikels 3 Absatz 1
+Nummer 10 der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments
+und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher
+Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von
+Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines
+einheitlichen Abwicklungsmechanismus und eines einheitlichen
+Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010
+(ABl. L 225 vom 30.7.2014, S. 1; L 101 vom 18.4.2015, S. 62), die
+zuletzt durch die Verordnung (EU) 2021/23 (ABl. L 22 vom 22.1.2021,
+S. 1) geändert worden ist, gegen die Pfandbriefbank noch eines
+Insolvenzverfahrens über das Vermögen der Pfandbriefbank mit
+beschränkter Geschäftstätigkeit anderer Pfandbriefgattungen
+beeinträchtigt werden können.
+
+(2) Der jeweils nach dem Barwert bestimmte Anteil sämtlicher
+Verbindlichkeiten der Pfandbriefbank aus Derivategeschäften einer
+Pfandbriefgattung am Gesamtbetrag der in Umlauf befindlichen
+Pfandbriefe dieser Gattung zuzüglich der Verbindlichkeiten aus diesen
+Derivategeschäften darf 12 Prozent nicht übersteigen.
+Verbindlichkeiten der Pfandbriefbank aus Derivategeschäften, die
+ausschließlich der Absicherung eines Währungsrisikos von
+Deckungswerten oder Pfandbriefverbindlichkeiten dienen, bleiben
+hierfür unberücksichtigt.
+
+(3) Derivategeschäfte dürfen abgeschlossen werden mit
+
+1.  dem Bund,
+
+
+2.  einem Land oder
+
+
+3.  einem Kreditinstitut im Sinne des § 4 Absatz 1 Satz 3 Nummer 3.
+
+
+
 
 
 ### § 5 Deckungsregister
@@ -311,9 +486,10 @@ der Pfandbriefbank einzeln in das für die jeweilige Pfandbriefgattung
 geführte Register (Deckungsregister) einzutragen. Derivate dürfen nur
 mit Zustimmung des Treuhänders und des Vertragspartners der
 Pfandbriefbank eingetragen werden; eine Eintragung ohne die
-erforderliche Zustimmung gilt als nicht erfolgt. Wird ein zur Deckung
-benötigter Wert zurückgezahlt, so hat derjenige, der für die
-Eintragung der Deckungswerte verantwortlich ist, unverzüglich
+erforderliche Zustimmung gilt als nicht erfolgt. Wird ein zur
+vorschriftsmäßigen Deckung benötigter Wert zurückgezahlt oder verliert
+ein solcher Wert seine Eignung zur Deckung, so hat derjenige, der für
+die Eintragung der Deckungswerte verantwortlich ist, unverzüglich
 entsprechende Ersatzwerte in das Deckungsregister einzutragen. Zum
 jeweiligen Deckungsregister können mehrere Unterregister, die den
 Anforderungen des Deckungsregisters entsprechen, angelegt werden, wenn
@@ -339,7 +515,7 @@ genaue Angaben über den Gläubiger des Übertragungsanspruchs enthalten;
 bei teilweiser treuhänderischer Verwaltung gelten die Sätze 1 und 2
 entsprechend. Eine treuhänderische Verwaltung nach Satz 4 liegt vor,
 wenn die verwalteten Werte im Verhältnis zwischen dem Treugeber und
-der Pfandbriefbank oder deren Gläubiger als Werte des Treugebers
+der Pfandbriefbank oder deren Gläubigern als Werte des Treugebers
 gelten, obwohl sie nicht übertragen sind, insbesondere im Falle der
 Verwaltung als Refinanzierungsunternehmen nach den §§ 22a bis 22o des
 Kreditwesengesetzes.
@@ -350,29 +526,40 @@ Refinanzierung über Pfandbriefe nach der Deckungsregisterverordnung
 zur Eintragung der Daten in ihr Deckungsregister verpflichtet ist, ist
 zur Wahrnehmung berechtigter Interessen zulässig.
 
-(2) Innerhalb des ersten Monats eines jeden Kalenderhalbjahres ist
-eine von dem nach § 7 bestellten Treuhänder bestätigte Aufzeichnung
-der Eintragungen, welche während des letzten Kalenderhalbjahres in den
-Deckungsregistern vorgenommen worden sind, der Bundesanstalt zu
-übermitteln.Ist ein Treuhänder erstmalig im Laufe des letzten
-Kalenderhalbjahres bestellt worden, so hat die bestätigte Aufzeichnung
-sämtliche in den Deckungsregistern vorgenommenen Eintragungen zu
-enthalten. In der nach Absatz 3 zu erlassenden Rechtsverordnung kann
-bestimmt werden, dass im Falle der Übermittlung der Aufzeichnung in
-elektronischer Form diese abweichend von Satz 1 sämtliche in den
-Deckungsregistern vorgenommenen Eintragungen zu enthalten hat.
+(1c) Wird das Pfandbriefgeschäft einer Pfandbriefbank ganz oder
+teilweise im Wege der Gesamtrechtsnachfolge auf eine andere
+Pfandbriefbank übertragen, so bilden die von der übertragenden Bank
+geführten Deckungsregister einschließlich bestehender Unterregister
+mit Wirksamkeit der Übertragung gesonderte Unterregister des
+Deckungsregisters der jeweiligen Pfandbriefgattung der übernehmenden
+Pfandbriefbank. Die in diesen gesonderten Unterregistern eingetragenen
+Deckungswerte sind innerhalb eines angemessenen Zeitraums in das
+Hauptregister und entsprechende Unterregister des jeweiligen
+Deckungsregisters der übernehmenden Pfandbriefbank zu übertragen.
+
+(2) Innerhalb des ersten Monats eines jeden Kalenderhalbjahres hat die
+Pfandbriefbank der Bundesanstalt eine Aufzeichnung sämtlicher
+Eintragungen des Deckungsregisters in elektronischer Form zu
+übermitteln. Der nach § 7 bestellte Treuhänder hat dabei die
+Übereinstimmung mindestens der das letzte Kalenderhalbjahr
+betreffenden Eintragungen mit den im entsprechenden Kalenderhalbjahr
+im Deckungsregister vorgenommenen Eintragungen zu bestätigen. Das
+Nähere regelt die Rechtsverordnung nach Absatz 3.
 
 (3) Das Bundesministerium der Finanzen hat im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, Einzelheiten über die Form und den
-notwendigen Inhalt des Deckungsregisters sowie der vorzunehmenden
-Eintragungen zu bestimmen. Die Rechtsverordnung muss auch Vorschriften
-über die Form der Aufzeichnung, über die Form der Bestätigung durch
-den Treuhänder sowie über die Art und Weise der Übermittlung der
-Aufzeichnung und deren Aufbewahrung durch die Bundesanstalt enthalten.
-Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
-Kreditwirtschaft anzuhören. Das Bundesministerium der Finanzen kann
-diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+Einzelheiten über die Form und den notwendigen Inhalt des
+Deckungsregisters sowie der vorzunehmenden Eintragungen,
+einschließlich Verfahren und Dokumentation der Zustimmung des
+Treuhänders nach Absatz 1 Satz 2 und § 8 Absatz 4 Satz 1, zu
+bestimmen. Die Rechtsverordnung muss auch Vorschriften über die Form
+der Aufzeichnung, über die Form der Bestätigung durch den Treuhänder
+sowie über die Art und Weise der Übermittlung der Aufzeichnung und
+deren Aufbewahrung durch die Bundesanstalt enthalten. Vor Erlass der
+Rechtsverordnung sind die Spitzenverbände der Kreditwirtschaft
+anzuhören. Das Bundesministerium der Finanzen kann diese Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -384,7 +571,8 @@ insbesondere bezüglich der Kündbarkeit der Pfandbriefe, ersichtlich zu
 machen.
 
 (2) Den Pfandbriefgläubigern darf ein Kündigungsrecht nicht eingeräumt
-werden.
+werden. Ein entgegen Satz 1 eingeräumtes Kündigungsrecht ist
+unwirksam.
 
 (3) Die Ausgabe von Pfandbriefen, deren maximaler Einlösungswert nicht
 bekannt ist, ist nicht gestattet.
@@ -410,17 +598,18 @@ Pfandbriefbank; vor der erstmaligen Ausgabe von Pfandbriefen findet
 eine Bestellung nur auf Antrag der Pfandbriefbank statt. Die
 Bestellung kann befristet und jederzeit aus sachlichem Grund durch die
 Bundesanstalt widerrufen werden. Die Bestellung endet spätestens zum
-Ende des Monats, in dem das 75. Lebensjahr vollendet wird.Mit der
-Ernennung eines Sachwalters nach § 2 Absatz 5 oder § 30 Absatz 2 oder
-5 ruht das Amt des Treuhänders bis zur Beendigung des Sachwalteramtes.
-Der Treuhänder bleibt verpflichtet, dem Sachwalter alle Informationen
-mitzuteilen, die für die Verwaltung der Deckungswerte von Bedeutung
-sein können.
+Ende des Monats, in dem das 75. Lebensjahr vollendet wird. Mit der
+Ernennung eines Sachwalters nach § 2 Absatz 5 Satz 1 oder 2, § 30
+Absatz 2 oder 5, § 36a Absatz 1 Satz 1 oder seiner vorläufigen
+Bestellung nach § 36a Absatz 1 Satz 5 oder Absatz 2 ruht das Amt des
+Treuhänders bis zur Beendigung des Sachwalteramtes. Der Treuhänder
+bleibt verpflichtet, dem Sachwalter alle Informationen mitzuteilen,
+die für die Verwaltung der Deckungswerte von Bedeutung sein können.
 
-(4) Der Treuhänder hat der Bundesanstalt Auskunft über die von ihm im
-Rahmen seiner Tätigkeit getroffenen Feststellungen und Beobachtungen
-zu erteilen. Der Treuhänder ist an Weisungen der Bundesanstalt nicht
-gebunden.
+(4) Der Treuhänder hat der Bundesanstalt die von ihm im Rahmen seiner
+Tätigkeit getroffenen wesentlichen Feststellungen und Beobachtungen
+mitzuteilen und ihr auf Verlangen Auskunft zu erteilen. Der Treuhänder
+ist an Weisungen der Bundesanstalt nicht gebunden.
 
 (5) Treuhänder und Stellvertreter haften der Pfandbriefbank sowie den
 Pfandbriefgläubigern und den Gläubigern von Ansprüchen aus
@@ -460,17 +649,30 @@ Derivategeschäfts mitgeteilt wird.
 (3) Der Treuhänder hat die Pfandbriefe vor der Ausgabe mit einer
 Bescheinigung über das Vorhandensein der vorschriftsmäßigen Deckung
 und über die Eintragung in das entsprechende Deckungsregister zu
-versehen. Eine Nachbildung der eigenhändigen Unterschrift genügt.
+versehen. Eine Nachbildung der eigenhändigen Unterschrift genügt. Bei
+einem Pfandbrief, der als elektronisches Wertpapier nach § 2 Absatz 1
+des Gesetzes über elektronische Wertpapiere begeben werden soll, ist
+die Bescheinigung nach Satz 1 vor Eintragung des Pfandbriefs in ein
+elektronisches Wertpapierregister bei derselben registerführenden
+Stelle im Sinne des § 4 Absatz 10 des Gesetzes über elektronische
+Wertpapiere niederzulegen, bei der auch die Emissionsbedingungen des
+Pfandbriefs niedergelegt sind; § 5 Absatz 1 des Gesetzes über
+elektronische Wertpapiere gilt entsprechend.
 
 (4) Im Deckungsregister eingetragene Werte können nur mit Zustimmung
-des Treuhänders in dem Register gelöscht werden. Die Zustimmung des
-Treuhänders bedarf der Schriftform; sie kann in der Weise erfolgen,
-dass der Treuhänder seine Namensunterschrift dem Löschungsvermerk im
-Deckungsregister beifügt. Für die Löschung eines eingetragenen
-Derivats, das noch nicht vollständig abgewickelt ist, ist ferner die
-Zustimmung des Vertragspartners der Pfandbriefbank erforderlich; eine
-Löschung ohne die erforderliche Zustimmung gilt als nicht erfolgt.
-Absatz 2 Satz 2 ist entsprechend anzuwenden.
+des Treuhänders in dem Deckungsregister gelöscht werden. Die
+Zustimmung des Treuhänders bedarf bei einem in Papierform geführten
+Deckungsregister der Schriftform; sie kann in der Weise erfolgen, dass
+der Treuhänder seine Namensunterschrift dem Löschungsvermerk im
+Deckungsregister beifügt. Bei einem elektronisch geführten
+Deckungsregister darf die Pfandbriefbank von einer Zustimmung des
+Treuhänders ausgehen, wenn sie mittels eines geeigneten
+Authentifizierungsinstruments erteilt wurde und beweissicher
+dokumentiert ist. Für die Löschung eines eingetragenen Derivats, das
+noch nicht vollständig abgewickelt ist, ist ferner die Zustimmung des
+Vertragspartners der Pfandbriefbank erforderlich; eine Löschung ohne
+die erforderliche Zustimmung gilt als nicht erfolgt. Absatz 2 Satz 2
+ist entsprechend anzuwenden.
 
 
 ### § 9 (weggefallen)
@@ -516,7 +718,7 @@ entscheidet die Bundesanstalt.
 
 (1) Zur Deckung für Hypothekenpfandbriefe nach § 1 Abs. 1 Satz 2 Nr. 1
 dürfen nur Hypotheken benutzt werden, soweit sie den Erfordernissen
-der §§ 13 bis 17 entsprechen.
+der §§ 13 bis 16 entsprechen.
 
 (2) Steht der Pfandbriefbank eine Hypothek an einem Grundstück zu, das
 sie zur Verhütung eines Verlustes an der Hypothek erworben hat, so
@@ -528,9 +730,18 @@ Forderungen, deren Inhaber die Pfandbriefbank ist und die auf die
 wirtschaftliche Substanz des Grundstücks gerichtet sind, insbesondere
 Forderungen, auf die sich die Hypothek bei inländischen Grundstücken
 nach den §§ 1120, 1123, 1126, 1127 und 1128 des Bürgerlichen
-Gesetzbuchs erstrecken würde, auf die Übertragung des Grundstücks oder
-grundstücksgleiche oder vergleichbare Rechte und auf die Auskehr des
-Erlöses einer Verwertung.
+Gesetzbuchs erstrecken würde sowie auf Ansprüche der Pfandbriefbank
+aus eigenem oder abgetretenem Recht aus einer Versicherung nach § 15,
+auf die Übertragung des Grundstücks oder grundstücksgleiche oder
+vergleichbare Rechte und auf die Auskehr des Erlöses einer Verwertung.
+Für den Fall der Insolvenz der Pfandbriefbank gilt Satz 1 in Bezug auf
+einen Anspruch auf die Mittel nach § 251 Absatz 3 Satz 1 der
+Insolvenzordnung oder die Mittel nach § 64 Absatz 3 Satz 1 des
+Unternehmensstabilisierungs- und -restrukturierungsgesetzes
+entsprechend, soweit die Pfandbriefbank wegen der Bestätigung eines
+Insolvenzplans oder Restrukturierungsplans zum Ausgleich für die
+Schlechterstellung auf Grund einer gegen ihren Willen vorgenommenen
+Umgestaltung eines Deckungswertes Anspruch auf diese Mittel hat.
 
 
 #### § 13 Belegenheit der Sicherheiten
@@ -541,14 +752,16 @@ den grundstücksgleichen Rechten deutschen Rechts vergleichbar sind.
 Die belasteten Grundstücke und die Grundstücke, an denen die
 belasteten Rechte bestehen, müssen in einem Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum, in der Schweiz, in den Vereinigten
-Staaten von Amerika, in Kanada oder in Japan belegen sein; der
-Gesamtbetrag der Beleihungen in Staaten, die nicht der Europäischen
-Union angehören, bei denen nicht sichergestellt ist, dass sich das
-Vorrecht der Pfandbriefgläubiger nach § 30 Abs. 1 auf die Forderungen
-der Pfandbriefbank aus diesen Beleihungen erstreckt, darf 10 Prozent
-des Gesamtbetrages der Beleihungen, bei denen das Vorrecht
-sichergestellt ist, nicht übersteigen.
+den Europäischen Wirtschaftsraum, in der Schweiz, im Vereinigten
+Königreich Großbritannien und Nordirland, in den Vereinigten Staaten
+von Amerika, in Kanada, in Japan, in Australien, in Neuseeland oder in
+Singapur belegen sein; der Gesamtbetrag der Beleihungen in Staaten,
+die nicht der Europäischen Union angehören, bei denen nicht
+sichergestellt ist, dass sich das Vorrecht der Pfandbriefgläubiger
+nach § 30 Abs. 1 auf die Forderungen der Pfandbriefbank aus diesen
+Beleihungen erstreckt, darf 10 Prozent des Gesamtbetrages der
+Beleihungen, bei denen das Vorrecht sichergestellt ist, nicht
+übersteigen.
 
 (2) Die Beleihung befristeter Rechte ist nur zulässig, wenn die
 planmäßige Tilgung der Hypothek spätestens zehn Jahre vor Ablauf des
@@ -565,13 +778,41 @@ Wertes des Grundstücks (Beleihungswert) zur Deckung benutzt werden.
 
 #### § 15 Versicherungspflicht
 
-(1) Auf dem Grundstück aufstehende Gebäude müssen während der gesamten
-Dauer der Beleihung zumindest in Höhe des Bauwertes gegen die nach
-Lage und Art des Objektes erheblichen Risiken versichert sein.
+Werden mit dem Grundstück fest verbundene Bauwerke beim Beleihungswert
+werterhöhend berücksichtigt, muss während der gesamten Dauer der
+Beleihung sichergestellt sein, dass die Pfandbriefbank im Falle der
+Beschädigung oder Zerstörung des Bauwerks, sofern dieses nicht
+wiederhergestellt wird, eine Entschädigungsleistung aus einer
+Versicherung erhält. Die Versicherung muss mindestens die nach Art und
+Lage des Objektes erheblichen Schadensrisiken erfassen. Die Höhe der
+Versicherung muss mindestens Folgendes abdecken:
 
-(2) Erstreckt sich die Hypothek nicht kraft Gesetzes auf die
-Versicherungsforderung, ist die Beleihung nur zulässig, wenn die
-Pfandbriefbank durch Vertrag eine entsprechende Sicherheit erhält.
+1.  die für eine Wiederherstellung der in Satz 1 genannten Bauwerke
+    erwartungsgemäß aufzuwendenden Kosten,
+
+
+2.  den bei Eintritt erheblicher Risiken an den in Satz 1 genannten
+    Bauwerken mit hoher Wahrscheinlichkeit nicht überschrittenen Schaden
+    oder
+
+
+3.  die jeweils ausstehende Darlehensforderung, begrenzt auf den
+    Zeitwertschaden, den die Pfandbriefbank aus einer wertangemessenen
+    Gebäudeversicherung im Schadensfall erhalten hätte.
+
+
+
+Ist die Versicherung für eine Vielzahl von Objekten oder eine Vielzahl
+von ausstehenden Darlehensforderungen abgeschlossen, so ist die
+Vereinbarung einer Begrenzung der Versicherungsleistung auf den in
+einem Zeitraum von einem Jahr mit hoher Wahrscheinlichkeit nicht
+überschrittenen Schaden (Jahreshöchstentschädigung) zulässig. Bei
+einer Gebäudeeinzelversicherung ist eine Jahreshöchstentschädigung für
+einzelne Gefahrenarten mit Ausnahme der Feuergefahr zulässig. Die
+Pfandbriefbank darf die Versicherung für eigene Rechnung nur
+abschließen, wenn eine Verpflichtung des Darlehensnehmers zum
+Abschluss einer entsprechenden Versicherung nach Satz 3 Nummer 1 oder
+Nummer 2 besteht.
 
 
 #### § 16 Beleihungswertermittlung
@@ -600,28 +841,29 @@ Partei mit Sachkenntnis, Umsicht und ohne Zwang handelt.
 (3) Die zur Deckung verwendeten Hypotheken an Bauplätzen sowie an
 solchen Neubauten, die noch nicht fertig gestellt und ertragsfähig
 sind, dürfen zusammen 10 Prozent des Gesamtbetrages der zur Deckung
-der Hypothekenpfandbriefe benutzten Deckungswerte sowie das Doppelte
-des haftenden Eigenkapitals nicht überschreiten. Hypotheken an
-Bauplätzen dürfen 1 Prozent des Gesamtbetrages der zur Deckung der
-Hypothekenpfandbriefe benutzten Deckungswerte nicht überschreiten.
-Hypotheken an Grundstücken, die einen dauernden Ertrag nicht gewähren,
-insbesondere an Gruben und Brüchen, sind von der Verwendung zur
-Deckung ebenso ausgeschlossen wie Hypotheken an Bergwerken. Hypotheken
-an anderen Berechtigungen, für welche die sich auf Grundstücke
-beziehenden Vorschriften Anwendung finden, sind von der Verwendung zur
-Deckung von Hypothekenpfandbriefen ebenfalls ausgeschlossen, sofern
-die Berechtigungen einen dauernden Ertrag nicht gewähren.
+der Hypothekenpfandbriefe benutzten Deckungswerte nicht überschreiten.
+Hypotheken an Bauplätzen dürfen 1 Prozent des Gesamtbetrages der zur
+Deckung der Hypothekenpfandbriefe benutzten Deckungswerte nicht
+überschreiten. Hypotheken an Grundstücken, die einen dauernden Ertrag
+nicht gewähren, insbesondere an Gruben und Brüchen, sind von der
+Verwendung zur Deckung ebenso ausgeschlossen wie Hypotheken an
+Bergwerken. Hypotheken an anderen Berechtigungen, für welche die sich
+auf Grundstücke beziehenden Vorschriften Anwendung finden, sind von
+der Verwendung zur Deckung von Hypothekenpfandbriefen ebenfalls
+ausgeschlossen, sofern die Berechtigungen einen dauernden Ertrag nicht
+gewähren.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Einzelheiten der Methodik und Form der Beleihungswertermittlung sowie
-die Mindestanforderungen an die Qualifikation des Gutachters zu
-bestimmen. Die Rechtsverordnung kann für die Bewertung von überwiegend
-zu Wohnzwecken genutzten Beleihungsobjekten Erleichterungen vorsehen.
-Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
-Kreditwirtschaft anzuhören. Das Bundesministerium der Finanzen kann
-diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Einzelheiten der Methodik und Form der
+Beleihungswertermittlung sowie die Mindestanforderungen an die
+Qualifikation des Gutachters zu bestimmen. Die Rechtsverordnung kann
+für die Bewertung von überwiegend zu Wohnzwecken genutzten
+Beleihungsobjekten Erleichterungen vorsehen. Vor Erlass der
+Rechtsverordnung sind die Spitzenverbände der Kreditwirtschaft
+anzuhören. Das Bundesministerium der Finanzen kann diese Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -643,7 +885,12 @@ der Pfandbriefbank und dem jeweiligen Grundstückseigentümer der
 Sicherung einer Darlehensforderung dienen, ist § 12 Abs. 1 mit der
 Maßgabe anzuwenden, dass an die Stelle der Hypotheken die
 Grundschulden nebst den ihr zugrunde liegenden Darlehensforderungen
-treten.
+treten. § 5 Absatz 1a gilt entsprechend, wenn eine Zweckvereinbarung
+mehrere Forderungen umfasst. Mehrere zur Deckung bestimmte Forderungen
+haben im Zweifel gleichen Rang. Soweit ausländische Sicherungsrechte
+Forderungen unterschiedlicher Gläubiger sichern, bestimmt sich der
+Rang einer zur Deckung bestimmten Forderung nach den Regeln des
+jeweils anwendbaren Rechts.
 
 (3) Hat die Pfandbriefbank ein Grundstück zur Verhütung von Verlusten
 an einer ihr an dem Grundstück zustehenden Hypothek oder Grundschuld
@@ -654,7 +901,7 @@ so findet auf diese § 12 Abs. 2 entsprechende Anwendung.
 
 #### § 19 Weitere Deckungswerte
 
-(1) Die in § 4 vorgeschriebene Deckung kann auch erfolgen
+(1) Die in § 12 Absatz 1 vorgeschriebene Deckung kann auch erfolgen
 
 1.  durch in Inhaberschuldverschreibungen umgewandelte
     Ausgleichsforderungen nach § 8 Abs. 2 der Verordnung über die
@@ -666,15 +913,16 @@ so findet auf diese § 12 Abs. 2 entsprechende Anwendung.
 
 
 2.  bis zu insgesamt 10 Prozent des Gesamtbetrages der im Umlauf
-    befindlichen Hypothekenpfandbriefe durch Werte der in § 4 Abs. 1 Satz
-    2 Nr. 1 und 2 bezeichneten Art sowie durch Geldforderungen gegen die
-    Europäische Zentralbank, gegen Zentralbanken der Mitgliedstaaten der
-    Europäischen Union oder gegen geeignete Kreditinstitute im Sinne des §
-    4 Abs. 1 Satz 2 Nr. 3, sofern die Höhe der Forderungen der
-    Pfandbriefbank bereits beim Erwerb bekannt ist; der Anteil an
-    Geldforderungen gegen ein und dasselbe Kreditinstitut darf nicht höher
-    sein als 2 Prozent des Gesamtbetrages der in Halbsatz 1 genannten
-    Hypothekenpfandbriefe,
+    befindlichen Hypothekenpfandbriefe durch Werte der in § 4 Absatz 1
+    Satz 3 Nummer 1 und 2 bezeichneten Art, durch Geldforderungen gegen
+    die Europäische Zentralbank, gegen Zentralbanken der Mitgliedstaaten
+    der Europäischen Union oder gegen Kreditinstitute im Sinne des § 4
+    Absatz 1 Satz 3 Nummer 3, sofern die Höhe der Forderungen der
+    Pfandbriefbank bereits beim Erwerb bekannt ist, sowie durch das
+    jeweilige Guthaben aus einer Kontoverbindung mit den vorgenannten
+    Stellen; der Anteil an Geldforderungen gegen ein und dasselbe
+    Kreditinstitut darf nicht höher sein als 2 Prozent des Gesamtbetrages
+    der in Halbsatz 1 genannten Hypothekenpfandbriefe,
 
 
 3.  bis zu insgesamt 20 Prozent des Gesamtbetrages der im Umlauf
@@ -683,35 +931,14 @@ so findet auf diese § 12 Abs. 2 entsprechende Anwendung.
     in Nummer 2 genannten Deckungswerte sind anzurechnen,
 
 
-4.  durch Ansprüche aus Derivategeschäften im Sinne des § 4 Abs. 3 Satz 2,
-    die mit geeigneten Kreditinstituten, Kapitalanlagegesellschaften,
-    Investmentaktiengesellschaften, Finanzdienstleistungsinstituten,
-    Versicherungsunternehmen, einem zentralen Kontrahenten bei einer
-    Börse, dem Bund oder den Ländern abgeschlossen werden, sofern
-    sichergestellt ist, dass die Ansprüche der Pfandbriefbank nach Maßgabe
-    des Rahmenvertrags im Falle der Insolvenz der Pfandbriefbank oder der
-    anderen Deckungsmassen nicht beeinträchtigt werden können. Die
-    Geschäfte dürfen nur Risiken beinhalten oder nachbilden, welche die
-    Pfandbriefbank auch mit Geschäften über die übrigen nach diesem Gesetz
-    zulässigen Deckungswerte eingehen kann; ausgeschlossen sind Optionen
-    und andere Derivate, wenn sie eine offene Stillhalterposition der
-    Pfandbriefbank begründen, sowie Geschäfte, die in vergleichbarer Weise
-    ein einer offenen Stillhalterposition entsprechendes Risiko begründen.
-    Der Anteil der Ansprüche der Pfandbriefbank aus den in Deckung
-    genommenen Derivategeschäften am Gesamtbetrag der Deckungswerte sowie
-    der Anteil der Verbindlichkeiten der Pfandbriefbank aus diesen
-    Derivategeschäften am Gesamtbetrag der im Umlauf befindlichen
-    Hypothekenpfandbriefe zuzüglich der Verbindlichkeiten aus
-    Derivategeschäften dürfen jeweils 12 Prozent nicht überschreiten; die
-    Berechnung hat auf der Grundlage der Barwerte der Derivategeschäfte zu
-    erfolgen; auf die Grenzen nach Halbsatz 1 sind Ansprüche und
-    Verbindlichkeiten der Pfandbriefbank aus solchen in Deckung genommenen
-    Derivategeschäften nicht anzurechnen, die ausschließlich der
-    Absicherung eines Währungsrisikos von Deckungswerten und Pfandbriefen
-    dienen.
+4.  bis zu 12 Prozent des nach dem Barwert bemessenen Gesamtbetrages der
+    im Umlauf befindlichen Hypothekenpfandbriefe durch den Barwert der
+    Ansprüche aus in das Deckungsregister eingetragenen Derivategeschäften
+    im Sinne des § 4b.
 
 
 
+Für Nummer 2 gilt § 4 Absatz 1 Satz 5 bis 9 entsprechend.
 
 (2) Im Falle des § 2 Abs. 3 kann die Bundesanstalt Ausnahmen von den
 Begrenzungen des Absatzes 1 Nr. 2 und 3 zulassen.
@@ -726,8 +953,8 @@ Begrenzungen des Absatzes 1 Nr. 2 und 3 zulassen.
 (1) Zur Deckung Öffentlicher Pfandbriefe dürfen nur Geldforderungen
 aus der Vergabe von Darlehen, aus Schuldverschreibungen oder aus einem
 vergleichbaren Rechtsgeschäft oder andere, von den in Nummer 1
-Buchstabe a bis f genannten Stellen schriftlich als einredefrei
-anerkannte Forderungen benutzt werden,
+genannten Stellen schriftlich als einredefrei anerkannte
+Geldforderungen benutzt werden,
 
 1.  die sich unmittelbar richten gegen
 
@@ -738,7 +965,7 @@ anerkannte Forderungen benutzt werden,
         Erhebung von Gebühren, Umlagen oder anderen Abgaben innehaben,
 
 
-    b)  andere Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des
+    b)  Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des
         Abkommens über den Europäischen Wirtschaftsraum sowie deren
         Zentralnotenbanken,
 
@@ -747,110 +974,102 @@ anerkannte Forderungen benutzt werden,
         genannten Staaten,
 
 
-    d)  die Vereinigten Staaten von Amerika, Japan, die Schweiz und Kanada
-        sowie deren Zentralnotenbanken, sofern das Risikogewicht nach Tabelle
-        1 des Anhangs VI der Richtlinie 2006/48/EG entsprechend der von den
-        zuständigen Behörden vorgenommenen Zuordnung des Ratings anerkannter
-        internationaler Ratingagenturen der Bonitätsstufe 1 zugeordnet worden
-        ist,
+    d)  die Vereinigten Staaten von Amerika, Japan, die Schweiz, das
+        Vereinigte Königreich Großbritannien und Nordirland und Kanada sowie
+        deren Zentralnotenbanken, sofern das Risikogewicht nach Tabelle 1 des
+        Artikels 114 Absatz 2 der Verordnung (EU) Nr. 575/2013 entsprechend
+        der von den zuständigen Behörden vorgenommenen Zuordnung des Ratings
+        anerkannter internationaler Ratingagenturen der Bonitätsstufe 1
+        zugeordnet worden ist,
 
 
     e)  Regionalverwaltungen sowie Gebietskörperschaften der in Buchstabe d
         genannten Staaten, sofern sie von der jeweiligen nationalen Behörde
         dem Zentralstaat gleichgestellt worden sind oder sofern ihnen ein der
-        Bonitätsstufe 1 entsprechendes Risikogewicht nach Tabelle 3 des
-        Anhangs VI der Richtlinie 2006/48/EG nach den nationalen Regelungen
-        zugeordnet worden ist, die zur Umsetzung der Rahmenvereinbarung
-        „Internationale Konvergenz der Kapitalmessung und
+        Bonitätsstufe 1 entsprechendes Risikogewicht nach Tabelle 5 des
+        Artikels 121 Absatz 1 der Verordnung (EU) Nr. 575/2013 nach den
+        nationalen Regelungen zugeordnet worden ist, die zur Umsetzung der
+        Rahmenvereinbarung „Internationale Konvergenz der Kapitalmessung und
         Eigenkapitalanforderungen“ des Baseler Ausschusses für Bankenaufsicht
-        vom Juni 2004 gleichwertig zur Richtlinie 2006/48/EG erlassen worden
-        sind; für die Zuordnung zur Bonitätsstufe 1 sind die Ratings
-        anerkannter internationaler Ratingagenturen maßgeblich,
+        vom Juni 2004 erlassen worden sind; für die Zuordnung zur
+        Bonitätsstufe 1 sind die Ratings anerkannter internationaler
+        Ratingagenturen maßgeblich; hierfür gilt Artikel 115 Absatz 4 der
+        Verordnung (EU) Nr. 575/2013 entsprechend,
 
 
     f)  die Europäische Zentralbank sowie multilaterale Entwicklungsbanken und
-        internationale Organisationen im Sinne des Anhangs VI Nr. 1, 4 und 5
-        der Richtlinie 2006/48/EG,
+        internationale Organisationen im Sinne von Artikel 117 Absatz 2 und
+        Artikel 118 der Verordnung (EU) Nr. 575/2013,
 
 
-    g)  öffentliche Stellen eines Mitgliedstaats der Europäischen Union oder
-        eines anderen Vertragsstaats des Abkommens über den Europäischen
-        Wirtschaftsraum,
+    g)  öffentliche Stellen eines anderen Mitgliedstaats der Europäischen
+        Union oder eines anderen Vertragsstaats des Abkommens über den
+        Europäischen Wirtschaftsraum,
 
 
-    h)  öffentliche Stellen im Sinne des Artikels 4 Nr. 18 der Richtlinie
-        2006/48/EG der unter Buchstabe d genannten Staaten, sofern sie die in
-        Buchstabe e aufgeführten Anforderungen erfüllen, oder
+    h)  öffentliche Stellen im Sinne des Artikels 4 Absatz 1 Nummer 8 der
+        Verordnung (EU) Nr. 575/2013 der unter Buchstabe d genannten Staaten,
+        sofern sie die in Buchstabe e aufgeführten Anforderungen erfüllen,
+        oder
 
 
 
 
 
 2.  für die eine der in Nummer 1 Buchstabe a bis f genannten Stellen oder
-    ein Exportkreditversicherer nach Artikel 2 der Richtlinie 98/29/EG des
-    Rates vom 7. Mai 1998 zur Harmonisierung der wichtigsten Bestimmungen
-    über die Exportkreditversicherung zur Deckung mittel- und
-    langfristiger Geschäfte (ABl. EG Nr. L 148 S. 22), der die
-    Anforderungen an eine öffentliche Stelle nach Nummer 1 Buchstabe g
-    erfüllt, die Gewährleistung übernommen hat. Eine Gewährleistung liegt
-    insoweit vor, als auf Grund eines Gesetzes, einer Verordnung, einer
-    Satzung oder eines Rechtsgeschäfts der Forderungsinhaber einen
-    Anspruch gegen den Gewährleistenden hat, dass dieser im Falle der
-    Nichtzahlung des Schuldners die für die Erfüllung der Verpflichtung
-    erforderlichen Mittel zur Verfügung stellt. Der Gewährleistende darf
-    gegenüber der Pfandbriefbank nicht das Recht haben, Einwendungen aus
-    dem Rechtsverhältnis mit Dritten geltend zu machen oder sich einseitig
-    von seinen Verpflichtungen zu lösen, oder
+    ein Exportkreditversicherer mit Sitz in einem der in Nummer 1
+    Buchstabe b und d genannten Staaten, sofern die Anforderungen der
+    Nummer 1 Buchstabe g oder Buchstabe h erfüllt sind, die Gewährleistung
+    übernommen hat. Eine Gewährleistung liegt insoweit vor, als auf Grund
+    eines Gesetzes, einer Verordnung, einer Satzung oder eines
+    Rechtsgeschäfts der Forderungsinhaber einen Anspruch gegen den
+    Gewährleistenden hat, dass dieser im Falle der Nichtzahlung des
+    Schuldners die für die Erfüllung der Verpflichtung erforderlichen
+    Mittel zur Verfügung stellt. Der Gewährleistende darf gegenüber der
+    Pfandbriefbank nicht das Recht haben, Einwendungen aus dem
+    Rechtsverhältnis mit Dritten geltend zu machen oder sich einseitig von
+    seinen Verpflichtungen zu lösen, oder
 
 
 3.  die von einer
 
     a)  Zentralregierung, Zentralnotenbank, Regionalverwaltung oder örtlichen
-        Gebietskörperschaft eines in Nummer 1 Buchstabe d aufgeführten
-        Staates,
+        Gebietskörperschaft eines in Nummer 1 Buchstabe d aufgeführten Staates
+        oder
 
 
     b)  von einer öffentlichen Stelle eines in Nummer 1 Buchstabe d
-        aufgeführten Staates,
-
-
-    c)  von einer multilateralen Entwicklungsbank oder
-
-
-    d)  von einer internationalen Organisation
+        aufgeführten Staates
 
 
 
-    geschuldet oder von den in Buchstabe a, c oder d genannten
-    Einrichtungen gewährleistet werden, sofern der Schuldner oder
-    Gewährleistungsgeber der Bonitätsstufe 2 zugeordnet ist und zum
-    Zeitpunkt der Eintragung der konkreten Forderung in das
-    Deckungsregister der Bonitätsstufe 1 zugeordnet war und diese
-    Forderungen insgesamt 20 Prozent des Gesamtbetrages der ausstehenden
-    Öffentlichen Pfandbriefe der Pfandbriefbank nicht übersteigen.
+    geschuldet oder von den in Buchstabe a genannten Einrichtungen
+    gewährleistet werden, sofern der Schuldner oder Gewährleistungsgeber
+    der Bonitätsstufe 2 zugeordnet ist und zum Zeitpunkt der Eintragung
+    der konkreten Forderung in das Deckungsregister der Bonitätsstufe 1
+    zugeordnet war und diese Forderungen insgesamt 20 Prozent des
+    Gesamtbetrages der ausstehenden Öffentlichen Pfandbriefe der
+    Pfandbriefbank nicht übersteigen.
 
 
 
-Der Gesamtbetrag der Forderungen gegen Schuldner in Staaten, die nicht
-der Europäischen Union angehören, bei denen nicht sichergestellt ist,
-dass sich das Vorrecht der Gläubiger der Öffentlichen Pfandbriefe nach
-§ 30 Abs. 1 auf die Forderungen der Pfandbriefbank aus diesen
-Forderungen erstreckt, darf 10 Prozent des Gesamtbetrages der
-Forderungen, bei denen das Vorrecht sichergestellt ist, nicht
-übersteigen.
 
-(2) Die Deckung kann auch erfolgen
+(2) Die in Absatz 1 vorgeschriebene Deckung kann auch erfolgen
 
 1.  durch die in § 19 Abs. 1 Nr. 1 genannten Werte;
 
 
 2.  bis zu 10 Prozent des Gesamtbetrages der im Umlauf befindlichen
-    Öffentlichen Pfandbriefe durch Geldforderungen gegen geeignete
-    Kreditinstitute im Sinne des § 4 Abs. 1 Satz 2 Nr. 3, sofern die Höhe
-    der Forderungen der Pfandbriefbank bereits beim Erwerb bekannt ist;
-    der Anteil an Geldforderungen gegen ein und dasselbe geeignete
-    Kreditinstitut darf nicht höher als 2 Prozent des Gesamtbetrages der
-    im Umlauf befindlichen Öffentlichen Pfandbriefe sein;
+    Öffentlichen Pfandbriefe durch Geldforderungen gegen die Europäische
+    Zentralbank, gegen Zentralbanken der Mitgliedstaaten der Europäischen
+    Union oder gegen Kreditinstitute im Sinne des § 4 Absatz 1 Satz 3
+    Nummer 3, sofern die Höhe der Forderungen der Pfandbriefbank bereits
+    beim Erwerb bekannt ist, sowie durch das jeweilige Guthaben aus einer
+    Kontoverbindung mit den vorgenannten Stellen; der Anteil an
+    Geldforderungen gegen ein und dasselbe geeignete Kreditinstitut darf
+    nicht höher als 2 Prozent des Gesamtbetrages der im Umlauf
+    befindlichen Öffentlichen Pfandbriefe sein; § 4 Absatz 1 Satz 5 bis 9
+    gilt entsprechend;
 
 
 3.  durch die in § 19 Abs. 1 Nr. 4 genannten Werte unter den dort
@@ -862,13 +1081,37 @@ Forderungen, bei denen das Vorrecht sichergestellt ist, nicht
 
 
 
+(2a) Der Gesamtbetrag der Forderungen gegen außerhalb der
+Mitgliedstaaten der Europäischen Union ansässige Schuldner, bei denen
+nicht sichergestellt ist, dass sich das Vorrecht der Gläubiger der
+Öffentlichen Pfandbriefe nach § 30 Absatz 1 auf die Forderungen der
+Pfandbriefbank nach den Absätzen 1 und 2 erstreckt, darf 10 Prozent
+des Gesamtbetrags der Forderungen, bei denen das Vorrecht
+sichergestellt ist oder für die eine Verpflichtung nach Satz 3
+besteht, nicht übersteigen. Satz 1 gilt entsprechend für Ansprüche
+gegen Gewährleistende nach Absatz 1 Nummer 2. Eine Anrechnung von
+Forderungen gegen die in den Sätzen 1 und 2 genannten Schuldner auf
+die in Satz 1 genannte Grenze unterbleibt, soweit eine der in Absatz 1
+Nummer 1 Buchstabe b oder Buchstabe d genannten Stellen oder ein
+Exportkreditversicherer, der die Anforderungen des Absatzes 1 Nummer 2
+erfüllt, gegenüber der Pfandbriefbank die Verpflichtung übernommen
+hat, die Pfandbriefbank mit beschränkter Geschäftstätigkeit im Falle
+der Entziehung der betreffenden Forderung schadlos zu stellen, und
+dieser Anspruch bei der betreffenden Forderung in das Deckungsregister
+für Öffentliche Pfandbriefe eingetragen wird; sofern der zur
+Schadlosstellung Verpflichtete seinen Sitz außerhalb der
+Mitgliedstaaten der Europäischen Union hat, unterbleibt die Anrechnung
+auf die in Satz 1 genannte Grenze nur, wenn sichergestellt ist, dass
+sich das Vorrecht der Pfandbriefgläubiger auf den Anspruch auf
+Schadlosstellung erstreckt.
+
 (3) Im Falle des § 2 Abs. 3 kann die Bundesanstalt Ausnahmen von den
 Begrenzungen des Absatzes 2 zulassen.
 
 (4) Die eingetragenen Deckungswerte erstrecken sich auch auf alle
 Forderungen, deren Inhaber die Pfandbriefbank ist und die auf die
 wirtschaftliche Substanz des Deckungswertes gerichtet sind, im Falle
-einer nach Absatz 1 Satz 1 Nr. 2 gewährleisteten Hypothek insbesondere
+einer nach Absatz 1 Nummer 2 gewährleisteten Hypothek insbesondere
 auch auf die in § 12 Abs. 3 genannten Forderungen.
 
 
@@ -966,10 +1209,10 @@ wirtschaftliche Substanz des Schiffes oder Schiffsbauwerkes gerichtet
 sind, insbesondere Forderungen, auf die sich die Schiffshypothek bei
 in das deutsche Seeschiffsregister eingetragenen Schiffen und
 Schiffsbauwerken nach den §§ 31 und 32 des Gesetzes über Rechte an
-eingetragenen Schiffen und Schiffsbauwerken erstrecken würde, wie
+eingetragenen Schiffen und Schiffsbauwerken erstrecken würde, sowie
 Miet- und Pachtforderungen, Forderungen auf die Übertragung des
 Schiffes oder Schiffsbauwerkes und Forderungen auf Auskehr des Erlöses
-einer Verwertung.
+einer Verwertung. § 12 Absatz 3 Satz 2 gilt entsprechend.
 
 
 #### § 23 Versicherung
@@ -1028,14 +1271,15 @@ dürfen zusammen 20 Prozent des Gesamtbetrages der zur Deckung der
 Schiffspfandbriefe verwendeten Schiffshypotheken nicht übersteigen.
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Einzelheiten der Methodik und Form der Schiffsbeleihungswertermittlung
-sowie die Mindestanforderungen an die Qualifikation des Gutachters zu
-bestimmen. Vor Erlass der Rechtsverordnung sind die Spitzenverbände
-der Kreditwirtschaft anzuhören. Das Bundesministerium der Finanzen
-kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
-für Finanzdienstleistungsaufsicht übertragen.
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Einzelheiten der Methodik und Form der
+Schiffsbeleihungswertermittlung sowie die Mindestanforderungen an die
+Qualifikation des Gutachters zu bestimmen. Vor Erlass der
+Rechtsverordnung sind die Spitzenverbände der Kreditwirtschaft
+anzuhören. Das Bundesministerium der Finanzen kann diese Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt für
+Finanzdienstleistungsaufsicht übertragen.
 
 
 #### § 25 Abzahlungsbeginn
@@ -1049,7 +1293,7 @@ verlängert werden.
 
 #### § 26 Weitere Deckungswerte
 
-(1) Die in § 4 vorgeschriebene Deckung kann auch erfolgen
+(1) Die in § 21 Satz 1 vorgeschriebene Deckung kann auch erfolgen
 
 1.  durch Schuldversprechen oder Schuldanerkenntnisse im Sinne der §§ 780
     und 781 des Bürgerlichen Gesetzbuchs, die durch Schiffshypotheken
@@ -1064,14 +1308,16 @@ verlängert werden.
 
 
 3.  bis zu 10 Prozent des Gesamtbetrages der im Umlauf befindlichen
-    Schiffspfandbriefe durch Werte der in § 4 Abs. 1 Satz 2 Nr. 1 und 2
-    bezeichneten Art sowie durch Geldforderungen gegen die Europäische
+    Schiffspfandbriefe durch Werte der in § 4 Absatz 1 Satz 3 Nummer 1 und
+    2 bezeichneten Art, durch Geldforderungen gegen die Europäische
     Zentralbank, gegen Zentralbanken der Mitgliedstaaten der Europäischen
-    Union oder gegen geeignete Kreditinstitute im Sinne des § 4 Abs. 1
-    Satz 2 Nr. 3, sofern die Höhe der Forderungen der Pfandbriefbank
-    bereits beim Erwerb bekannt ist; der Anteil an Geldforderungen gegen
-    ein und dasselbe Kreditinstitut darf nicht höher als 2 Prozent des
-    Gesamtbetrages der in Halbsatz 1 genannten Schiffspfandbriefe sein;
+    Union oder gegen Kreditinstitute im Sinne des § 4 Abs. 1 Satz 2 Nr. 3,
+    sofern die Höhe der Forderungen der Pfandbriefbank bereits beim Erwerb
+    bekannt ist, sowie durch das jeweilige Guthaben aus einer
+    Kontoverbindung mit den vorgenannten Stellen; der Anteil an
+    Geldforderungen gegen ein und dasselbe Kreditinstitut darf nicht höher
+    als 2 Prozent des Gesamtbetrages der in Halbsatz 1 genannten
+    Schiffspfandbriefe sein; § 4 Absatz 1 Satz 5 bis 9 gilt entsprechend;
 
 
 4.  bis zu insgesamt 20 Prozent des Gesamtbetrages der im Umlauf
@@ -1103,9 +1349,14 @@ Zur Deckung für Flugzeugpfandbriefe dürfen nur durch
 Registerpfandrechte nach § 1 des Gesetzes über Rechte an
 Luftfahrzeugen oder durch ausländische Flugzeughypotheken gesicherte
 Darlehensforderungen verwendet werden, soweit sie den Erfordernissen
-der §§ 26b bis 26f entsprechen. Im Falle einer teilweisen Verwendung
+der §§ 26b bis 26d entsprechen. Im Falle einer teilweisen Verwendung
 einer Darlehensforderung zur Deckung hat die Pfandbriefbank den
-Vorgang nachvollziehbar zu dokumentieren.
+Vorgang nachvollziehbar zu dokumentieren. Bei der Indeckungnahme ist
+eine kritische Konzentration von Risiken zu vermeiden. Eine solche ist
+im Regelfall anzunehmen, wenn ein unangemessen hoher Anteil der
+belasteten Flugzeuge von derselben Gesellschaft betrieben wird oder zu
+einem einzelnen Flugzeugtyp gehört und dadurch eine zeitnahe
+Verwertung der Deckungswerte gefährdet ist.
 
 
 #### § 26b Beleihungsgrenze
@@ -1180,17 +1431,18 @@ Register entsteht, zur Sicherung der Rechte des Gläubigers Dritten
 gegenüber aber in ein solches Register eingetragen werden kann, so ist
 die Beleihung nur mit der Maßgabe zulässig, dass die Pfandbriefbank
 die Eintragung in das öffentliche Register unverzüglich herbeiführt.
-Die Beleihung ist regelmäßig nur zur ersten Stelle zulässig; Absatz 2
-Satz 4 gilt entsprechend.
+Die Beleihung ist regelmäßig nur zur ersten Stelle zulässig. Absatz 2
+Satz 6 gilt entsprechend.
 
 (5) Die eingetragenen Deckungswerte erstrecken sich auch auf alle
 Forderungen, deren Inhaber die Pfandbriefbank ist und die auf die
 wirtschaftliche Substanz des Flugzeuges gerichtet sind, insbesondere
-Forderungen, auf die sich das Registerpfandrecht oder die ausländische
-Flugzeughypothek nach den §§ 31 und 32 des Gesetzes über Rechte an
-Luftfahrzeugen erstrecken würde, wie Miet- und Pachtforderungen,
+Forderungen, auf die sich das Registerpfandrecht nach den §§ 31 und 32
+des Gesetzes über Rechte an Luftfahrzeugen oder die ausländische
+Flugzeughypothek erstrecken würde, sowie Miet- und Pachtforderungen,
 Forderungen auf die Übertragung des Flugzeuges und Forderungen auf
-Auskehr des Erlöses einer Verwertung.
+Auskehr des Erlöses einer Verwertung. § 12 Absatz 3 Satz 2 gilt
+entsprechend.
 
 
 #### § 26c Versicherung
@@ -1242,9 +1494,9 @@ ermittelten Marktwert nicht übersteigen. § 16 Abs. 2 Satz 4 gilt
 entsprechend.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Einzelheiten der Methodik und Form der
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Einzelheiten der Methodik und Form der
 Flugzeugbeleihungswertermittlung sowie die Mindestanforderungen an die
 Qualifikation des Gutachters zu bestimmen. Vor Erlass der
 Rechtsverordnung sind die Spitzenverbände der Kreditwirtschaft
@@ -1264,7 +1516,7 @@ verlängert werden.
 
 #### § 26f Weitere Deckungswerte
 
-(1) Die in § 4 vorgeschriebene Deckung kann auch erfolgen
+(1) Die in § 26a Satz 1 vorgeschriebene Deckung kann auch erfolgen
 
 1.  durch Schuldversprechen oder Schuldanerkenntnisse im Sinne der §§ 780
     und 781 des Bürgerlichen Gesetzbuchs, die durch Registerpfandrechte
@@ -1272,21 +1524,23 @@ verlängert werden.
     den in den §§ 26b bis 26d bezeichneten Erfordernissen entsprechen;
     soweit die Darlehensforderungen den vorgenannten Erfordernissen nur
     teilweise entsprechen, können sie nur in diesem Umfang zur Deckung
-    verwendet werden; § 21 Satz 2 gilt entsprechend;
+    verwendet werden; § 26a Satz 2 gilt entsprechend;
 
 
 2.  durch Werte der in § 19 Abs. 1 Nr. 1 bezeichneten Art;
 
 
 3.  bis zu 10 Prozent des Gesamtbetrages der im Umlauf befindlichen
-    Flugzeugpfandbriefe durch Werte der in § 4 Abs. 1 Satz 2 Nr. 1 und 2
-    bezeichneten Art sowie durch Geldforderungen gegen die Europäische
+    Flugzeugpfandbriefe durch Werte der in § 4 Absatz 1 Satz 3 Nummer 1
+    und 2 bezeichneten Art, durch Geldforderungen gegen die Europäische
     Zentralbank, gegen Zentralbanken der Mitgliedstaaten der Europäischen
-    Union oder gegen geeignete Kreditinstitute im Sinne des § 4 Abs. 1
-    Satz 2 Nr. 3, sofern die Höhe der Forderungen der Pfandbriefbank
-    bereits beim Erwerb bekannt ist; der Anteil an Geldforderungen gegen
-    ein und dasselbe Kreditinstitut darf nicht höher als 2 Prozent des
-    Gesamtbetrages der in Halbsatz 1 genannten Flugzeugpfandbriefe sein;
+    Union oder gegen Kreditinstitute im Sinne des § 4 Abs. 1 Satz 2 Nr. 3,
+    sofern die Höhe der Forderungen der Pfandbriefbank bereits beim Erwerb
+    bekannt ist, sowie durch das jeweilige Guthaben aus einer
+    Kontoverbindung mit den vorgenannten Stellen; der Anteil an
+    Geldforderungen gegen ein und dasselbe Kreditinstitut darf nicht höher
+    als 2 Prozent des Gesamtbetrages der in Halbsatz 1 genannten
+    Flugzeugpfandbriefe sein; § 4 Absatz 1 Satz 5 bis 9 gilt entsprechend;
 
 
 4.  bis zu insgesamt 20 Prozent des Gesamtbetrages der im Umlauf
@@ -1354,7 +1608,28 @@ eines gefestigten Erfahrungswissens hinsichtlich dieser neuen
 Geschäfte in Deckung nehmen, bei Geschäften auf neuen Märkten im
 Bereich des Hypothekarkredites nicht jedoch vor Ablauf von zwei Jahren
 nach deren Aufnahme. Das Vorhandensein eines gefestigten
-Erfahrungswissens ist ausführlich schriftlich darzulegen.
+Erfahrungswissens ist ausführlich in Textform zu dokumentieren.
+
+
+### § 27a Pfandbriefmeldungen; Verordnungsermächtigung
+
+(1) Die Pfandbriefbank hat der Bundesanstalt innerhalb von zwei Wochen
+nach Quartalsende auf das Quartalsende bezogen zu jeder Gattung im
+Umlauf befindlicher Pfandbriefe Meldungen zu den Deckungsmassen,
+insbesondere zu deren Werthaltigkeit, einzureichen. Die Bundesanstalt
+kann den Berichtszeitraum für einzelne Pfandbriefbanken oder im Wege
+der Allgemeinverfügung für einzelne Pfandbriefgattungen auf einen
+Monat verkürzen, sofern dies die Deckungssituation oder die
+Marktverhältnisse angemessen erscheinen lassen.
+
+(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
+über Inhalt und Umfang und über die zu verwendenden Datenträger,
+Übertragungswege und Datenformate der Pfandbriefmeldungen erlassen.
+Vor Erlass der Rechtsverordnung sind die Spitzenverbände der
+Kreditwirtschaft anzuhören. Das Bundesministerium der Finanzen kann
+diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
+übertragen.
 
 
 ### § 28 Transparenzvorschriften
@@ -1372,42 +1647,89 @@ Quartalsende bezogene Angaben zu veröffentlichen:
 2.  die Laufzeitenstruktur der im Umlauf befindlichen
     Hypothekenpfandbriefe, Öffentlichen Pfandbriefe, Schiffspfandbriefe
     und Flugzeugpfandbriefe sowie die Zinsbindungsfristen der
-    entsprechenden Deckungsmassen, jeweils in Stufen von bis zu einem
-    Jahr, von mehr als einem Jahr bis zu zwei Jahren, von mehr als zwei
-    Jahren bis zu drei Jahren, von mehr als drei Jahren bis zu vier
-    Jahren, von mehr als vier Jahren bis zu fünf Jahren, von mehr als fünf
-    Jahren bis zu zehn Jahren und über zehn Jahren,
+    entsprechenden Deckungsmassen, jeweils in Stufen von bis zu sechs
+    Monaten, von mehr als sechs Monaten bis zu zwölf Monaten, von mehr als
+    zwölf Monaten bis zu 18 Monaten, von mehr als 18 Monaten bis zu zwei
+    Jahren, von mehr als zwei Jahren bis zu drei Jahren, von mehr als drei
+    Jahren bis zu vier Jahren, von mehr als vier Jahren bis zu fünf
+    Jahren, von mehr als fünf Jahren bis zu zehn Jahren und über zehn
+    Jahren,
 
 
-3.  den Anteil der Derivategeschäfte an den Deckungsmassen gemäß § 19 Abs.
-    1 Nr. 4 Satz 3, auch in Verbindung mit § 20 Abs. 2 Nr. 3 und § 26 Abs.
-    1 Nr. 5 sowie § 26f Abs. 1 Nr. 5, bei einem negativen Gesamtwert der
-    Derivategeschäfte an Stelle des Anteils an den Deckungsmassen den
-    Anteil an den zu deckenden Verbindlichkeiten, sowie
+3.  den Anteil der Derivategeschäfte an den Deckungsmassen gemäß § 19
+    Absatz 1 Satz 1 Nummer 4, auch in Verbindung mit § 20 Abs. 2 Nr. 3 und
+    § 26 Abs. 1 Nr. 5 sowie § 26f Abs. 1 Nr. 5, bei einem negativen
+    Gesamtwert der Derivategeschäfte an Stelle des Anteils an den
+    Deckungsmassen den Anteil an den zu deckenden Verbindlichkeiten,
 
 
-4.  jeweils die Gesamthöhe der Werte nach § 19 Abs. 1 Nr. 2 und 3, nach §
-    20 Abs. 2 Nr. 2, nach § 26 Abs. 1 Nr. 3 und 4 sowie nach § 26f Abs. 1
-    Nr. 3 und 4.Die Angaben sind in den Anhang des Jahresabschlusses
-    aufzunehmen und für die Dauer von zwei Jahren auf der Internetseite
-    der Pfandbriefbank zu veröffentlichen. Die Veröffentlichung der
-    Angaben auf der Internetseite hat für die ersten drei Quartale eines
-    Geschäftsjahres jeweils innerhalb eines Monats nach Quartalsende zu
-    erfolgen; für das vierte Quartal eines Geschäftsjahres hat die
-    Veröffentlichung der Angaben innerhalb von zwei Monaten nach
-    Quartalsende zu erfolgen.
+4.  jeweils den Gesamtbetrag der in das Deckungsregister eingetragenen
+    Forderungen im Sinne des § 19 Absatz 1 Nummer 1, § 20 Absatz 2 Nummer
+    1, § 26 Absatz 1 Nummer 2 und § 26f Absatz 1 Nummer 2,
+
+
+5.  jeweils den Gesamtbetrag der in das Deckungsregister eingetragenen
+    Forderungen im Sinne des § 19 Absatz 1 Nummer 2, § 20 Absatz 2 Nummer
+    2, § 26 Absatz 1 Nummer 3 und § 26f Absatz 1 Nummer 3 jeweils mit
+    Ausnahme der Werte im Sinne des § 4 Absatz 1 Satz 3 Nummer 1 und 2
+    getrennt nach den Staaten, in denen die Schuldner ihren Sitz haben,
+    und hierzu jeweils zusätzlich den Gesamtbetrag der Forderungen im
+    Sinne des Artikels 129 der Verordnung (EU) Nr. 575/2013,
+
+
+6.  jeweils den Gesamtbetrag der in das Deckungsregister eingetragenen
+    Forderungen im Sinne des § 19 Absatz 1 Nummer 3 zuzüglich der Werte
+    nach § 19 Absatz 1 Nummer 2 in Verbindung mit § 4 Absatz 1 Satz 3
+    Nummer 1 und 2, § 26 Absatz 1 Nummer 4 zuzüglich der Werte nach § 26
+    Absatz 1 Nummer 3 in Verbindung mit § 4 Absatz 1 Satz 3 Nummer 1 und 2
+    sowie § 26f Absatz 1 Nummer 4 zuzüglich der Werte nach § 26f Absatz 1
+    Nummer 3 in Verbindung mit § 4 Absatz 1 Satz 3 Nummer 1 und 2 getrennt
+    nach den Staaten, in denen die Schuldner oder im Fall einer vollen
+    Gewährleistung die gewährleistenden Stellen ihren Sitz haben,
+
+
+7.  für die in das Deckungsregister eingetragenen Hypotheken nach § 12
+    Absatz 1 auch den Gesamtbetrag der Forderungen, die die Grenzen des §
+    13 Absatz 1 überschreiten,
+
+
+8.  für die Nummern 5 und 6 jeweils auch den Gesamtbetrag der Forderungen,
+    die die Begrenzungen des § 19 Absatz 1, des § 20 Absatz 2, des § 26
+    Absatz 1 und des § 26f Absatz 1 überschreiten,
+
+
+9.  den prozentualen Anteil der festverzinslichen Deckungswerte an der
+    entsprechenden Deckungsmasse sowie den prozentualen Anteil der
+    festverzinslichen Pfandbriefe an den zu deckenden Verbindlichkeiten,
+
+
+10. je Fremdwährung den Nettobarwert nach § 6 der Pfandbrief-
+    Barwertverordnung und
+
+
+11. für die zur Deckung nach § 12 Absatz 1 verwendeten Forderungen auch
+    den volumengewichteten Durchschnitt der seit der Kreditvergabe
+    verstrichenen Laufzeit.
 
 
 
+Die Angaben sind in den Anhang des Jahresabschlusses aufzunehmen und
+für die Dauer von zwei Jahren auf der Internetseite der Pfandbriefbank
+zu veröffentlichen. Die Veröffentlichung der Angaben auf der
+Internetseite hat für die ersten drei Quartale eines Geschäftsjahres
+jeweils innerhalb eines Monats nach Quartalsende zu erfolgen; für das
+vierte Quartal eines Geschäftsjahres hat die Veröffentlichung der
+Angaben innerhalb von zwei Monaten nach Quartalsende zu erfolgen.
 
 (2) Für den Gesamtbetrag der zur Deckung von Hypothekenpfandbriefen
-verwendeten Forderungen sind zusätzlich anzugeben:
+verwendeten Forderungen nach § 12 Absatz 1 sind zusätzlich anzugeben:
 
 1.  die Verteilung mit den nennwertig als Deckung in Ansatz gebrachten
     Beträgen
 
     a)  nach ihrer Höhe in Stufen bis zu 300 000 Euro, von mehr als 300 000
-        Euro bis zu 5 Millionen Euro und von mehr als 5 Millionen Euro,
+        Euro bis zu 1 Million Euro, von mehr als 1 Million Euro bis zu 10
+        Millionen Euro und von mehr als 10 Millionen Euro,
 
 
     b)  nach den Staaten, in denen die Grundstückssicherheiten liegen, dabei
@@ -1415,21 +1737,32 @@ verwendeten Forderungen sind zusätzlich anzugeben:
 
 
     c)  nach gewerblich und wohnwirtschaftlich genutzten Grundstücken sowie
-        nach Wohnungen, Einfamilienhäusern, Mehrfamilienhäusern, Bürogebäuden,
-        Handelsgebäuden, Industriegebäuden, sonstigen gewerblich genutzten
-        Gebäuden, unfertigen und noch nicht ertragsfähigen Neubauten sowie
-        Bauplätzen,
+        nach Eigentumswohnungen, Ein- und Zweifamilienhäusern,
+        Mehrfamilienhäusern, Bürogebäuden, Handelsgebäuden, Industriegebäuden,
+        sonstigen gewerblich genutzten Gebäuden, unfertigen und noch nicht
+        ertragsfähigen Neubauten sowie Bauplätzen,
 
 
 
 
 
 2.  der Gesamtbetrag der mindestens 90 Tage rückständigen Leistungen auf
-    diese Forderungen und dessen Verteilung nach Staaten entsprechend
-    Nummer 1 Buchstabe b sowie
+    diese Forderungen sowie der Gesamtbetrag dieser Forderungen, soweit
+    der jeweilige Rückstand mindestens 5 Prozent der Forderung beträgt,
+    und deren Verteilung nach Staaten entsprechend Nummer 1 Buchstabe b,
 
 
-3.  ausschließlich im Anhang des Jahresabschlusses
+3.  der durchschnittliche, anhand des Betrags der zur Deckung verwendeten
+    Forderungen gewichtete Beleihungsauslauf; werden mehrere auf einem
+    Grundstück lastende Hypotheken zur Deckung genutzt, so ist hiervon nur
+    diejenige mit dem höchsten Beleihungsauslauf zugrunde zu legen;
+    Beleihungsauslauf im Sinne dieses Gesetzes ist das prozentuale
+    Verhältnis der nach § 14 zur Deckung genutzten Hypothek zuzüglich der
+    ihr vorrangigen und gleichrangigen Belastungen zum Beleihungswert,
+    sowie
+
+
+4.  ausschließlich im Anhang des Jahresabschlusses
 
     a)  die Zahl der Zwangsversteigerungs- und Zwangsverwaltungsverfahren, die
         am Abschlussstichtag anhängig waren, sowie die Zahl der im
@@ -1450,24 +1783,34 @@ verwendeten Forderungen sind zusätzlich anzugeben:
 
 
 
-Die in Satz 1 Nr. 3 Buchstabe a bis c bezeichneten Angaben sind
+Die in Satz 1 Nummer 4 Buchstabe a bis c bezeichneten Angaben sind
 getrennt nach gewerblich genutzten und Wohnzwecken dienenden
 Grundstücken aufzuführen.
 
 (3) Für den Gesamtbetrag der zur Deckung von Öffentlichen Pfandbriefen
-verwendeten Forderungen sind zusätzlich anzugeben:
+verwendeten Forderungen nach § 20 Absatz 1 sind zusätzlich anzugeben:
 
-1.  verteilt auf die einzelnen Staaten, in denen die Schuldner und im
-    Falle einer vollen Gewährleistung die gewährleistenden Stellen ihren
-    Sitz haben, die nennwertig als Deckung in Ansatz gebrachten Beträge,
-    der Art nach zusätzlich danach aufgeschlüsselt, ob sich die Forderung
+1.  die Verteilung mit den nennwertig als Deckung in Ansatz gebrachten
+    Beträgen nach ihrer Höhe in Stufen bis zu 10 Millionen Euro, von mehr
+    als 10 Millionen Euro bis zu 100 Millionen Euro und von mehr als 100
+    Millionen Euro, jeweils bezogen auf einen Schuldner oder eine
+    gewährleistende Stelle;
+
+
+2.  verteilt auf die einzelnen Staaten, in denen die Schuldner und im
+    Falle einer Gewährleistung die gewährleistenden Stellen ihren Sitz
+    haben, die nennwertig als Deckung in Ansatz gebrachten Beträge, der
+    Art nach zusätzlich danach aufgeschlüsselt, ob sich die Forderung
     gegen den Staat, regionale Gebietskörperschaften, örtliche
     Gebietskörperschaften oder sonstige Schuldner richtet oder von diesen
-    jeweils voll gewährleistet ist;
+    jeweils gewährleistet ist sowie danach, ob eine Gewährleistung aus
+    Gründen der Exportförderung gewährt wurde;
 
 
-2.  der Gesamtbetrag der mindestens 90 Tage rückständigen Leistungen auf
-    diese Forderungen und dessen regionale Verteilung gemäß Nummer 1.
+3.  der Gesamtbetrag der mindestens 90 Tage rückständigen Leistungen auf
+    diese Forderungen sowie der Gesamtbetrag dieser Forderungen, soweit
+    der jeweilige Rückstand mindestens 5 Prozent der Forderung beträgt,
+    und deren regionale Verteilung gemäß Nummer 2.
 
 
 
@@ -1489,13 +1832,18 @@ anzugeben:
 
 
     c)  nach den Staaten, in denen die beliehenen Flugzeuge registriert sind,
-        sowie
 
 
 
 
 
-2.  ausschließlich im Anhang des Jahresabschlusses
+2.  der Gesamtbetrag der mindestens 90 Tage rückständigen Leistungen auf
+    diese Forderungen sowie der Gesamtbetrag dieser Forderungen, soweit
+    der jeweilige Rückstand mindestens 5 Prozent der Forderung beträgt,
+    sowie
+
+
+3.  ausschließlich im Anhang des Jahresabschlusses
 
     a)  die Zahl der Verfahren zur Zwangsversteigerung von Schiffen,
         Schiffsbauwerken und Flugzeugen, die am Abschlussstichtag anhängig
@@ -1518,7 +1866,7 @@ anzugeben:
 
 
 
-Die in Satz 1 Nr. 2 Buchstabe a bis c bezeichneten Angaben sind
+Die in Satz 1 Nummer 3 Buchstabe a bis c bezeichneten Angaben sind
 getrennt nach Seeschiffen und Binnenschiffen vorzunehmen.
 
 (5) Für sämtliche Angaben nach den Absätzen 1 bis 4 ist jeweils auch
@@ -1539,7 +1887,7 @@ Derivategeschäften statt. § 394 des Bürgerlichen Gesetzbuchs ist
 entsprechend anzuwenden.
 
 
-### § 30 Trennungsprinzip bei Insolvenz der Pfandbriefbank; Sachwalterernennung
+### § 30 Trennungsprinzip bei Insolvenz der Pfandbriefbank; Fälligkeitsverschiebung
 
 (1) Die in die Deckungsregister eingetragenen Werte einschließlich der
 Werte im Sinne des Absatzes 3 sowie die bei der Deutschen Bundesbank
@@ -1554,21 +1902,19 @@ Absatz 6 Satz 4 bleibt gewahrt. Diese in den Sätzen 1 und 2 genannten
 Teile der Pfandbriefbank bestehen außerhalb des Insolvenzverfahrens
 für jede Pfandbriefgattung als Pfandbriefbank mit beschränkter
 Geschäftstätigkeit fort. Zweck der jeweiligen Pfandbriefbank mit
-beschränkter Geschäftstätigkeit ist die vollständige und fristgerechte
+beschränkter Geschäftstätigkeit ist die vollständige vertragsgemäße
 Erfüllung der Pfandbriefverbindlichkeiten und die hierzu notwendige
 ordnungsgemäße Verwaltung des insolvenzfreien Vermögens. Die
 Geschäftsführung der jeweiligen Pfandbriefbank mit beschränkter
-Geschäftstätigkeit steht dem nach Absatz 2 ernannten Sachwalter oder
-bei Ernennung von zwei Sachwaltern diesen gemeinsam zu. Die jeweilige
-Pfandbriefbank mit beschränkter Geschäftstätigkeit haftet für die
-Pfandbriefverbindlichkeiten sowie für die Ansprüche nach Absatz 3 Satz
-3 und 4 und den Absätzen 4 und 7 sowie für die aus Geschäften des
-Sachwalters entstehenden Verbindlichkeiten mit dem zugehörigen
-insolvenzfreien Vermögen.
+Geschäftstätigkeit steht dem nach § 31 Absatz 1 und 2 ernannten
+Sachwalter zu. Die jeweilige Pfandbriefbank mit beschränkter
+Geschäftstätigkeit haftet für die Pfandbriefverbindlichkeiten sowie
+für die Ansprüche nach Absatz 3 Satz 3 und 4 und den Absätzen 4 und 7
+sowie für die aus Geschäften des Sachwalters entstehenden
+Verbindlichkeiten mit dem zugehörigen insolvenzfreien Vermögen.
 
-(2) Im Falle des Absatzes 1 ernennt das Gericht des Sitzes der
-Pfandbriefbank auf Antrag der Bundesanstalt eine oder zwei geeignete
-natürliche Personen als Sachwalter. Mit der Ernennung geht das Recht,
+(2) Im Fall des Absatzes 1 ist ein Sachwalter zu ernennen; für das
+Verfahren gilt § 31 Absatz 1 und 2. Mit der Ernennung geht das Recht,
 alle eingetragenen Werte einschließlich der Werte im Sinne des
 Absatzes 3 zu verwalten und über sie zu verfügen, auf den Sachwalter
 über. Hat die Pfandbriefbank nach der Ernennung des Sachwalters über
@@ -1581,20 +1927,82 @@ Tag der Ernennung des Sachwalters verfügt, so wird vermutet, dass sie
 nach der Ernennung verfügt hat. Der Sachwalter darf mit Wirkung für
 die jeweilige Pfandbriefbank mit beschränkter Geschäftstätigkeit nach
 Absatz 1 Rechtsgeschäfte tätigen, soweit dies für die ordnungsgemäße
-Verwaltung der Deckungsmassen im Interesse der vollständigen und
-fristgerechten Erfüllung der Pfandbriefverbindlichkeiten erforderlich
-ist; insbesondere kann er liquide Mittel zur zeitgerechten Bedienung
-ausstehender Pfandbriefe beschaffen. Für diesen Geschäftskreis
-vertritt er die Pfandbriefbank gerichtlich und außergerichtlich. Der
-Sachwalter ist unter den in Satz 5 genannten Voraussetzungen auch
-berechtigt, sonstige Handlungen im Hinblick auf die Verwaltung der
-Deckungsmassen vorzunehmen, insbesondere ein neues
+Verwaltung der Deckungsmassen im Interesse der vollständigen
+vertragsgemäßen              Erfüllung der Pfandbriefverbindlichkeiten
+erforderlich ist. Insbesondere darf er liquide Mittel zur
+zeitgerechten Bedienung ausstehender Pfandbriefe beschaffen oder die
+Fälligkeit von Zinszahlungen und Tilgungszahlungen unter den
+Voraussetzungen der Absätze 2a und 2b hinausschieben. Für diesen
+Geschäftskreis vertritt er die Pfandbriefbank gerichtlich und
+außergerichtlich. Der Sachwalter ist unter den in Satz 5 genannten
+Voraussetzungen auch berechtigt, sonstige Handlungen im Hinblick auf
+die Verwaltung der Deckungsmassen vorzunehmen, insbesondere ein neues
 Refinanzierungsregister im Sinne der §§ 22a bis 22o des
 Kreditwesengesetzes einzurichten und ein bestehendes
 Refinanzierungsregister der Pfandbriefbank zu nutzen. Die Begrenzungen
-des § 19 Absatz 1 Nummer 2 bis 4, des § 20 Abs. 2 Nr. 2 und 3 und des
-§ 26 Absatz 1 Nummer 3 bis 5 sowie des § 26f Absatz 1 Nummer 3 bis 5
+gemäß § 19 Absatz 1, § 20 Absatz 2, § 26 Absatz 1 und § 26f Absatz 1
 gelten nicht.
+
+(2a) Der Sachwalter kann die Fälligkeiten der Tilgungszahlungen unter
+den Voraussetzungen des Absatzes 2b verschieben. Die
+Verschiebungsdauer bestimmt der Sachwalter entsprechend der
+Erforderlichkeit nach Absatz 2b. Insgesamt darf die Verschiebungsdauer
+einen Zeitraum von zwölf Monaten nicht überschreiten. Weiterhin kann
+der Sachwalter die Fälligkeiten der Zinszahlungen, die innerhalb eines
+Monats nach seiner Ernennung fällig werden, auf das Ende dieses
+Monatszeitraums verschieben. Der Sachwalter darf von seiner Befugnis
+für sämtliche Pfandbriefe einer Emission nur einheitlich, jedoch
+vollständig oder anteilig, Gebrauch machen. Macht der Sachwalter von
+der Möglichkeit der Fälligkeitsverschiebung für eine
+Pfandbriefemission Gebrauch, muss er auch die Fälligkeiten der
+innerhalb dieses Verschiebungszeitraums fällig werdenden Zahlungen
+anderer Pfandbriefverbindlichkeiten in mindestens dem Verhältnis
+verschieben, in dem die ursprünglich früher fällige Pfandbriefemission
+zu diesem Zeitpunkt noch nicht erfüllt ist.
+Pfandbriefverbindlichkeiten, deren Fälligkeit ohne die Verschiebung
+eingetreten wäre, bleiben auch während der Dauer ihrer Verschiebung
+mit der Maßgabe erfüllbar, dass die Verbindlichkeiten einer Emission
+nur einheitlich, aber vollständig oder anteilig, und höchstens in dem
+Verhältnis getilgt werden dürfen, in dem ursprünglich früher fällige,
+aber noch nicht vollständig zurückgezahlte Pfandbriefemissionen zu
+diesem Zeitpunkt erfüllt sind. Vorbehaltlich abweichender
+Vereinbarungen sind hinausgeschobene Beträge für die Dauer der
+Fälligkeitsverschiebung nach den bis zur Verschiebung geltenden
+Bedingungen zu verzinsen. Hinausgeschobene Zinszahlungen gelten
+hierbei als Kapitalbeträge. Absatz 6 Satz 1 und 2 bleibt unberührt.
+
+(2b) Der Sachwalter darf eine Fälligkeitsverschiebung nur vornehmen,
+sofern zum Zeitpunkt des Hinausschiebens der Fälligkeit
+
+1.  das Hinausschieben der Fälligkeit erforderlich ist, um die
+    Zahlungsunfähigkeit der Pfandbriefbank mit beschränkter
+    Geschäftstätigkeit zu vermeiden,
+
+
+2.  die Pfandbriefbank mit beschränkter Geschäftstätigkeit nicht
+    überschuldet ist und
+
+
+3.  Grund zu der Annahme besteht, dass die Pfandbriefbank mit beschränkter
+    Geschäftstätigkeit jedenfalls nach Ablauf des größtmöglichen
+    Verschiebungszeitraums unter Berücksichtigung weiterer
+    Verschiebungsmöglichkeiten ihre dann fälligen Verbindlichkeiten
+    erfüllen kann.
+
+
+
+Für Fälligkeitsverschiebungen, die den Zeitraum von einem Monat nach
+Ernennung des Sachwalters nicht überschreiten, wird das Vorliegen
+dieser Voraussetzungen unwiderlegbar vermutet.
+
+(2c) Der Sachwalter hat jedes Hinausschieben der Fälligkeit
+unverzüglich unter Angabe der betroffenen Pfandbriefemissionen sowie
+des jeweiligen Verschiebungsumfangs auf der Internetseite der
+Pfandbriefbank bei den nach § 28 zu der betreffenden Pfandbriefgattung
+veröffentlichten Angaben, in mindestens einem überregionalen
+Börsenpflichtblatt sowie im Bundesanzeiger zu veröffentlichen. Satz 1
+gilt entsprechend für nach Absatz 2a Satz 7 vorgenommene
+Tilgungszahlungen.
 
 (3) Die im Deckungsregister eingetragenen Werte unterliegen auch
 insoweit der Verwaltungs- und Verfügungsbefugnis des Sachwalters, als
@@ -1613,13 +2021,15 @@ soweit der Insolvenzverwalter Teilung verlangt, die Insolvenzmasse.
 
 (4) Der Insolvenzverwalter kann jederzeit verlangen, dass eingetragene
 Werte, die nicht treuhänderischer Verwaltung unterliegen und zur
-Deckung der jeweiligen Pfandbriefgattung einschließlich der sichernden
-Überdeckung offensichtlich nicht notwendig sein werden, vom Sachwalter
-der Insolvenzmasse zugeführt werden. Nach Befriedigung der
-Pfandbriefgläubiger und Deckung der Verwaltungskosten verbleibende
-Werte sind an die Insolvenzmasse herauszugeben.
+Deckung der jeweiligen Pfandbriefgattung einschließlich der
+barwertigen sichernden Überdeckung offensichtlich nicht notwendig sein
+werden, vom Sachwalter der Insolvenzmasse zugeführt werden. Nach
+Befriedigung der Pfandbriefgläubiger und Deckung der Verwaltungskosten
+verbleibende Werte sind an die Insolvenzmasse herauszugeben. Eine
+Anfechtung der Handlungen des Sachwalters durch den Insolvenzverwalter
+der Pfandbriefbank ist ausgeschlossen.
 
-(5) Das Gericht des Sitzes der Pfandbriefbank kann auf Antrag der
+(5) Das nach § 31 Absatz 11 zuständige Gericht kann auf Antrag der
 Bundesanstalt schon vor der Eröffnung eines Insolvenzverfahrens über
 das Vermögen der Pfandbriefbank bei Vorliegen der Voraussetzungen des
 § 46 Absatz 1 des Kreditwesengesetzes einen Sachwalter ernennen. Für
@@ -1629,31 +2039,89 @@ nach Absatz 2 Satz 1 ernannten Sachwalter entsprechend.
 (6) Die Bundesanstalt kann entsprechend § 46 des Kreditwesengesetzes
 eigene Maßnahmen in Bezug auf einzelne Deckungsmassen treffen. Im
 Falle der Zahlungsunfähigkeit oder Überschuldung einer Deckungsmasse
-findet über sie ein gesondertes Insolvenzverfahren statt; der Antrag
-auf Eröffnung des Insolvenzverfahrens kann nur von der Bundesanstalt
-gestellt werden. Absatz 4 ist entsprechend anzuwenden. Im
-Insolvenzverfahren über das übrige Vermögen der Pfandbriefbank können
-die Pfandbriefgläubiger ihre Forderungen nur in Höhe des Ausfalls
-geltend machen; im Übrigen gelten die Vorschriften für
-absonderungsberechtigte Gläubiger, insbesondere § 52 Satz 1, § 190
-Abs. 1 und 2 sowie § 192 der Insolvenzordnung entsprechend. Werte im
-Sinne des Absatzes 3, die zur Insolvenzmasse der Pfandbriefbank
-gehören, berechtigen im Insolvenzverfahren über die Deckungsmasse zur
-Aussonderung nach § 47 der Insolvenzordnung.Sowohl der Sachwalter als
-auch der Insolvenzverwalter in dem Insolvenzverfahren über die
-Deckungsmasse sind berechtigt, die in Satz 4 genannten Forderungen der
-Pfandbriefgläubiger in dem Insolvenzverfahren über das Vermögen der
-Pfandbriefbank anzumelden. Das Recht der Pfandbriefgläubiger, die
-Anmeldung abzulehnen oder zurückzunehmen, bleibt unberührt.
+findet über das Vermögen der Pfandbriefbank mit beschränkter
+Geschäftstätigkeit ein gesondertes Insolvenzverfahren statt; der
+Antrag auf Eröffnung des Insolvenzverfahrens kann nur von der
+Bundesanstalt gestellt werden. Absatz 4 ist entsprechend anzuwenden.
+Im Insolvenzverfahren über das übrige Vermögen der Pfandbriefbank
+können die Pfandbriefgläubiger ihre Forderungen nur in Höhe des
+Ausfalls geltend machen. Vor vollständiger Abwicklung der
+Pfandbriefbank mit beschränkter Geschäftstätigkeit hat der
+Insolvenzverwalter im Insolvenzverfahren über das Vermögen der
+Pfandbriefbank bei einer Abschlagsverteilung angemessene Beträge als
+Vorsorge für mögliche Ausfallforderungen nach Satz 4 einzubehalten;
+eine Schlussverteilung findet erst statt, sobald feststeht, in welcher
+Höhe Ausfallforderungen im Sinne des Satzes 4 geltend gemacht werden
+können. Im Übrigen gelten die Vorschriften für absonderungsberechtigte
+Gläubiger, insbesondere § 52 Satz 1, § 190 Absatz 1 und 2 sowie § 192
+der Insolvenzordnung entsprechend. Werte im Sinne des Absatzes 3, die
+zur Insolvenzmasse der Pfandbriefbank gehören, berechtigen im
+Insolvenzverfahren über das Vermögen der Pfandbriefbank mit
+beschränkter Geschäftstätigkeit zur Aussonderung nach § 47 der
+Insolvenzordnung. Sowohl der Sachwalter als auch der
+Insolvenzverwalter in dem Insolvenzverfahren über das Vermögen der
+Pfandbriefbank mit beschränkter Geschäftstätigkeit sind berechtigt,
+die in Satz 4 genannten Forderungen der Pfandbriefgläubiger in dem
+Insolvenzverfahren über das Vermögen der Pfandbriefbank anzumelden.
+Das Recht der Pfandbriefgläubiger, die Anmeldung abzulehnen oder
+zurückzunehmen, bleibt unberührt.
 
-(7) Gläubiger von Ansprüchen aus Derivategeschäften nach § 4 Abs. 3
-stehen Pfandbriefgläubigern gleich.
+(6a) Im Insolvenzverfahren über das Vermögen der Pfandbriefbank mit
+beschränkter Geschäftstätigkeit soll das Insolvenzgericht auf Antrag
+der Bundesanstalt die Eigenverwaltung durch den Sachwalter anordnen,
+es sei denn, es ist nach den Umständen zu erwarten, dass die Anordnung
+zu Nachteilen für die Gläubiger führen wird. Falls eine solche von der
+Bundesanstalt beantragte Anordnung dem einstimmigen Beschluss eines
+vorläufigen Gläubigerausschusses, sofern ein solcher vorhanden ist,
+widerspricht, entscheidet das Gericht nach pflichtgemäßem Ermessen auf
+der Grundlage der von der Bundesanstalt, dem Sachwalter und dem
+vorläufigen Gläubigerausschuss mitgeteilten Tatsachen. Im Verfahren
+der Eigenverwaltung bleibt der Sachwalter im Sinne des Absatzes 2
+(Eigenverwalter) für die schuldnerische Pfandbriefbank mit
+beschränkter Geschäftstätigkeit geschäftsführungs- und
+vertretungsbefugt, soweit die Vorschriften der Insolvenzordnung diese
+Befugnisse nicht beschränken. Die Stellung des Beirats nach § 31
+Absatz 6a bleibt unberührt. Vor der Bestellung des Sachwalters im
+Sinne des § 270f Absatz 2 der Insolvenzordnung und des vorläufigen
+Sachwalters im Sinne des § 270b Absatz 1 Satz 1 der Insolvenzordnung
+ist die Bundesanstalt zu hören. Neben den gemäß § 270e Absatz 1 Nummer
+4 bis 5 und § 272 Absatz 1 Nummer 3 bis 5 der Insolvenzordnung
+Antragsberechtigten ist auch die Bundesanstalt berechtigt, die
+Aufhebung der Anordnung der Eigenverwaltung oder der vorläufigen
+Eigenverwaltung zu beantragen. § 270c Absatz 5, die §§ 270d, 270f
+Absatz 1 und die §§ 276a, 278 Absatz 1 der Insolvenzordnung gelten
+nicht.
+
+(7) Gläubiger von Ansprüchen aus Derivategeschäften nach § 4 Absatz 3
+und Gläubiger von Ansprüchen aus Rechtsgeschäften nach Absatz 2 Satz 5
+stehen Pfandbriefgläubigern gleich. Auf die Zahlungsverpflichtungen
+aus den in Satz 1 genannten Geschäften findet die Befugnis eines
+Sachwalters nach Absatz 2 Satz 6 in Verbindung mit Absatz 2a keine
+Anwendung.
 
 
-### § 31 Aufgaben und Befugnisse des Sachwalters
+### § 31 Ernennung des Sachwalters; Rechte und Pflichten
 
-(1) Der Sachwalter steht unter der Aufsicht des Gerichts des Sitzes
-der Pfandbriefbank. Das Gericht kann insbesondere jederzeit einzelne
+(1) Zuständig für die Ernennung des Sachwalters ist das gemäß Absatz
+11 zuständige Gericht. Die Bundesanstalt schlägt dem Gericht
+mindestens eine geeignete natürliche Person zur Ernennung vor. Das
+Gericht darf die Ernennung einer vorgeschlagenen Person nur versagen,
+wenn die Person zur Übernahme des Amtes nicht geeignet ist; vor einer
+Versagung ist die Bundesanstalt anzuhören. Vor einer vom Vorschlag der
+Bundesanstalt abweichenden Ernennung ist die Bundesanstalt ebenfalls
+zu hören.
+
+(2) Das zuständige Gericht kann auf Vorschlag der Bundesanstalt bis zu
+drei Sachwalter ernennen. Der Vorschlag der Bundesanstalt muss bei
+Benennung mehrerer Sachwalter eine Regelung der Geschäftsführungs- und
+Vertretungsbefugnisse enthalten; Absatz 1 Satz 4 gilt entsprechend.
+Ein Sachwalter kann gleichzeitig für mehrere Pfandbriefbanken mit
+beschränkter Geschäftstätigkeit ernannt werden. Die Vorschriften
+dieses Gesetzes über den Sachwalter gelten für mehrere Sachwalter
+entsprechend.
+
+(2a) Der Sachwalter steht unter der Aufsicht des für die Ernennung
+zuständigen Gerichts. Das Gericht kann insbesondere jederzeit einzelne
 Auskünfte oder einen Bericht über den Sachstand und die
 Geschäftsführung von ihm verlangen. Es kann den Sachwalter auf Antrag
 der Bundesanstalt abberufen, wenn ein wichtiger Grund vorliegt. Der
@@ -1661,9 +2129,10 @@ Sachwalter tritt gegenüber der Bundesanstalt in die Pflichten ein, die
 von der Pfandbriefbank nach diesem Gesetz und dem Kreditwesengesetz im
 Zusammenhang mit der Verwaltung der Deckungswerte zu erfüllen sind.
 
-(2) Der Sachwalter erhält eine Urkunde über seine Ernennung, die er
-bei Beendigung seines Amtes dem Gericht zurückzugeben hat. Das Gericht
-hat die Ernennung und Abberufung des Sachwalters dem zuständigen
+(2b) Der Sachwalter erhält eine Urkunde über seine Ernennung, die er
+bei Beendigung seines Amtes dem Gericht zurückzugeben hat. In der
+Urkunde ist der Rechtsgrund der Ernennung anzugeben. Das Gericht hat
+die Ernennung und Abberufung des Sachwalters dem zuständigen
 Registergericht mitzuteilen und unverzüglich im Bundesanzeiger bekannt
 zu machen. Die Ernennung und Abberufung des Sachwalters ist von Amts
 wegen in das Handelsregister oder im Falle des § 33 Abs. 5 in das
@@ -1671,43 +2140,47 @@ Genossenschaftsregister einzutragen. Die Eintragungen werden nicht
 bekannt gemacht. Die Vorschriften des § 15 des Handelsgesetzbuchs sind
 nicht anzuwenden.
 
-(3) Die Ernennung des Sachwalters ist bei den im Register
+(3) Die Ernennung des Sachwalters ist bei den im Deckungsregister
 eingetragenen Hypotheken in das Grundbuch einzutragen, wenn nach Art
 des Rechts und nach den Umständen zu befürchten ist, dass ohne die
 Eintragung die Pfandbriefgläubiger benachteiligt würden. Die
 Eintragung ist vom Sachwalter beim Grundbuchamt zu beantragen. Werden
 Hypotheken, bei denen die Ernennung des Sachwalters eingetragen worden
-ist, im Register gelöscht, so hat der Sachwalter beim Grundbuchamt die
-Löschung der Eintragung der Sachwalterernennung zu beantragen. Bei im
-Register eingetragenen Rechten an Schiffen tritt an die Stelle des
-Grundbuches das Schiffsregister, bei im Register eingetragenen Rechten
-an Schiffsbauwerken das Schiffsbauregister, an die Stelle des
-Grundbuchamtes tritt das Registergericht.
+ist, im Deckungsregister gelöscht, so hat der Sachwalter beim
+Grundbuchamt die Löschung der Eintragung der Sachwalterernennung zu
+beantragen. Bei im Deckungsregister eingetragenen Rechten an Schiffen
+tritt an die Stelle des Grundbuches das Schiffsregister, bei im
+Deckungsregister eingetragenen Rechten an Schiffsbauwerken das
+Schiffsbauregister, bei im Deckungsregister eingetragenen
+Registerpfandrechten nach § 1 des Gesetzes über Rechte an
+Luftfahrzeugen das Register für Pfandrechte an Luftfahrzeugen und an
+die Stelle des Grundbuchamtes tritt das jeweilige Registergericht.
 
-(4) Der Sachwalter hat Anspruch auf Vergütung seiner Tätigkeit und
-Ersatz angemessener Auslagen. Die Kosten der Verwaltung durch den
-Sachwalter einschließlich seiner Vergütung und der Erstattung seiner
-Auslagen sind anteilig aus den in den Deckungsregistern eingetragenen
-Werten zu tragen; maßgeblich ist das Verhältnis des Nennwertes der
-einzelnen Deckungsmasse zum Nennwert aller Deckungsmassen der
-Pfandbriefbank. Das Gericht des Sitzes der Pfandbriefbank setzt die
-Vergütung und die Auslagen auf Antrag des Sachwalters fest. Die
-Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen
-Entscheidung findet die Zwangsvollstreckung nach der
-Zivilprozessordnung statt.
+(4) (weggefallen)
 
 (5) Der Sachwalter hat die Werthaltigkeit der einzelnen Deckungsmassen
 regelmäßig zu überwachen; § 4 Absatz 4 ist entsprechend anzuwenden.
 Die Bundesanstalt kann Sonderprüfungen anordnen. Die der Bundesanstalt
 dadurch entstehenden Kosten sind anteilig aus den in den Registern
-eingetragenen Werten zu tragen; Absatz 4 Satz 2 Halbsatz 2 gilt
-entsprechend.
+eingetragenen Werten zu tragen; maßgeblich ist das Verhältnis des
+Nennwertes der einzelnen Deckungsmasse zum Nennwert aller
+Deckungsmassen der Pfandbriefbank.
 
 (6) Der Sachwalter hat bei seiner Geschäftsführung die Sorgfalt eines
-ordentlichen und gewissenhaften Geschäftsführers anzuwenden. Er ist
-bei Pflichtverletzung der Pfandbriefbank zum Schadenersatz
-verpflichtet. § 45c Absatz 7 des Kreditwesengesetzes gilt
-entsprechend.
+ordentlichen und gewissenhaften Geschäftsführers anzuwenden. Bei einer
+Pflichtverletzung ist er der Pfandbriefbank mit beschränkter
+Geschäftstätigkeit zum Schadensersatz verpflichtet. Eine
+Pflichtverletzung liegt nicht vor, wenn der Sachwalter bei einer
+unternehmerischen Entscheidung vernünftigerweise annehmen durfte, auf
+der Grundlage angemessener Information zum Wohle der
+Pfandbriefgläubiger zu handeln.
+
+(6a) Der Sachwalter kann einen Beirat mit bis zu fünf sachverständigen
+Mitgliedern berufen. Der Beirat berät den Sachwalter. Er gibt sich
+eine Geschäftsordnung. Der Sachwalter kann die Mitglieder abberufen
+und neue Mitglieder berufen. Für die Vergütung und den Ersatz von
+Auslagen gelten § 17 Absatz 1 und § 18 der Insolvenzrechtlichen
+Vergütungsverordnung entsprechend. Im Übrigen gilt § 31a entsprechend.
 
 (7) Sachwalter und Insolvenzverwalter haben einander alle
 Informationen mitzuteilen, die für das Insolvenzverfahren der
@@ -1716,13 +2189,56 @@ sein können.
 
 (8) Der Sachwalter ist berechtigt, zur Erfüllung seiner Aufgaben auf
 die personellen und sachlichen Mittel der Pfandbriefbank
-zurückzugreifen. Die dabei tatsächlich anfallenden Kosten hat er der
-Insolvenzmasse zu erstatten.
+zurückzugreifen. Auf Verlangen des Sachwalters hat die Pfandbriefbank
+alle zur Abwicklung der Deckungsmassen erforderlichen Handlungen und
+Rechtsgeschäfte vorzunehmen beziehungsweise Handlungen und
+Rechtsgeschäfte, die die Abwicklung der Deckungsmassen zu verhindern
+drohen, zu unterlassen. Die dabei tatsächlich anfallenden Kosten hat
+der Sachwalter der Insolvenzmasse zu erstatten.
 
-(9) Der Sachwalter darf personenbezogene Daten erheben und verwenden,
-soweit dies zur Erfüllung seiner Aufgaben erforderlich ist. § 203 des
+(9) Der Sachwalter darf personenbezogene Daten verarbeiten, soweit
+dies zur Erfüllung seiner Aufgaben erforderlich ist. § 203 des
 Strafgesetzbuchs steht einer Übertragung von Informationen, die zur
 Erfüllung seiner Aufgaben erforderlich ist, nicht entgegen.
+
+(10) Die Bundesanstalt kann einen Sonderbeauftragten gemäß § 45c
+Absatz 1 Satz 1 des Kreditwesengesetzes bestellen mit der
+ausschließlichen Aufgabe, die Verwaltung der Deckungsmasse als
+Sachwalter vorzubereiten. Der Sonderbeauftragte darf keine
+geschäftsführenden oder beratenden Aufgaben wahrnehmen. Im Übrigen
+gilt § 45c Absatz 1 Satz 3 bis 5, Absatz 6 und 7 des
+Kreditwesengesetzes entsprechend. Die Bestellung zum
+Sonderbeauftragten ist kein Grund zur Ablehnung der späteren Ernennung
+zum Sachwalter durch das zuständige Gericht, es sei denn, der
+Sonderbeauftragte hat entgegen den Sätzen 1 und 2 geschäftsführende
+oder beratende Aufgaben wahrgenommen.
+
+(11) Für alle die Ernennung und Stellung des Sachwalters betreffenden
+gerichtlichen Entscheidungen richtet sich die Zuständigkeit nach den
+§§ 2 und 3 der Insolvenzordnung. Die Entscheidungen ergehen durch
+Beschluss. Für das Verfahren gelten die §§ 4, 5 Absatz 1 und 3 und § 6
+Absatz 1 Satz 2 und Absatz 2 und 3 der Insolvenzordnung entsprechend.
+Gegen Entscheidungen des Gerichts steht der Bundesanstalt, dem
+Sachwalter sowie der Pfandbriefbank die sofortige Beschwerde zu;
+Halbsatz 1 gilt nicht in den Fällen des § 30 Absatz 6a.
+
+
+### § 31a Vergütung des Sachwalters
+
+(1) Der Sachwalter hat Anspruch auf Vergütung seiner Tätigkeit und
+Ersatz angemessener Auslagen. Die Höhe der Vergütung soll den Aufwand
+des Sachwalters, den wertmäßigen Erfolg der Abwicklung und den
+Nennwert des Pfandbriefumlaufs berücksichtigen. Die Kosten der
+Verwaltung durch den Sachwalter einschließlich seiner Vergütung und
+der Erstattung seiner Auslagen sind aus dem Vermögen der
+Pfandbriefbank mit beschränkter Geschäftstätigkeit zu tragen.
+
+(2) Das für die Ernennung zuständige Gericht setzt die Vergütung und
+die Auslagen auf Antrag des Sachwalters fest. Aus der rechtskräftigen
+Entscheidung findet die Zwangsvollstreckung nach der
+Zivilprozessordnung statt.
+
+(3) (weggefallen)
 
 
 ### § 32 Übertragung der Deckungsmassen und -verbindlichkeiten
@@ -1809,11 +2325,13 @@ die übernehmende Pfandbriefbank über. Durch die Eintragung wird der
 Mangel der notariellen Beurkundung des Übertragungsvertrags geheilt. §
 33 Abs. 5 gilt entsprechend. Für die übertragenen
 Pfandbriefverbindlichkeiten haften die übertragende Pfandbriefbank und
-die übernehmende Pfandbriefbank als Gesamtschuldner.
+die übernehmende Pfandbriefbank als Gesamtschuldner. § 30 Absatz 6
+Satz 4 bleibt unberührt.
 
-(2) Im Falle der Gewährung einer Gegenleistung gilt § 30 Abs. 4
-entsprechend. § 30 Abs. 3 gilt mit der Maßgabe entsprechend, dass an
-die Stelle des Sachwalters die übernehmende Pfandbriefbank tritt.
+(2) Im Falle der Gewährung einer Gegenleistung gilt § 30 Absatz 4 Satz
+1 und 2 entsprechend. § 30 Abs. 3 gilt mit der Maßgabe entsprechend,
+dass an die Stelle des Sachwalters die übernehmende Pfandbriefbank
+tritt.
 
 
 ### § 35 Treuhänderische Verwaltung
@@ -1831,16 +2349,15 @@ genau zu bezeichnen.
 
 (2) Die im Sinne des Absatzes 1 treuhänderisch verwalteten Werte
 gelten im Verhältnis zwischen der anderen Pfandbriefbank und der
-insolventen Pfandbriefbank oder dessen Gläubigern als Werte der
-anderen Pfandbriefbank, auch wenn sie nicht auf diese übertragen
-wurden.
+insolventen Pfandbriefbank oder deren Gläubigern als Werte der anderen
+Pfandbriefbank, auch wenn sie nicht auf diese übertragen wurden.
 
 (3) Der aus dem Treuhandverhältnis folgende Übertragungsanspruch ist
-in das entsprechende Register der anderen Pfandbriefbank einzutragen.
-Die im Vertrag im Sinne des Absatzes 1 bezeichneten und im
-Deckungsregister der insolventen Pfandbriefbank eingetragenen Werte
-gelten als im Register der anderen Pfandbriefbank eingetragen. Der
-Treuhänder der anderen Pfandbriefbank nimmt seine Aufgaben und
+in das entsprechende Deckungsregister der anderen Pfandbriefbank
+einzutragen. Die im Vertrag im Sinne des Absatzes 1 bezeichneten und
+im Deckungsregister der insolventen Pfandbriefbank eingetragenen Werte
+gelten als im Deckungsregister der anderen Pfandbriefbank eingetragen.
+Der Treuhänder der anderen Pfandbriefbank nimmt seine Aufgaben und
 Befugnisse insoweit gegenüber der insolventen Pfandbriefbank wahr. Die
 teilweise treuhänderische Verwaltung ist im jeweiligen
 Deckungsregister der insolventen Pfandbriefbank bei den einzelnen
@@ -1861,30 +2378,55 @@ Abs. 1.
 
 ### § 36a Trennungsprinzip bei Reorganisation oder Restrukturierung der Pfandbriefbank
 
-(1) Maßnahmen nach den Vorschriften des Kreditinstitute-
-Reorganisationsgesetzes finden keine Anwendung auf die Teile der
-Pfandbriefbank, die nach § 30 Absatz 1 Satz 3 im Falle einer Insolvenz
-als Pfandbriefbank mit beschränkter Geschäftstätigkeit fortbestehen
-würden. Wird ein Reorganisationsverfahren nach § 7 des
-Kreditinstitute-Reorganisationsgesetzes angeordnet, gelten für den
-Bereich des Pfandbriefgeschäfts die §§ 30 bis 36 entsprechend. Der
-Sachwalter soll die Bestimmungen des Reorganisationsplans bei
-Erfüllung seiner Pflichten und Ausübung seiner Rechte beachten, es sei
-denn, es droht entgegen §§ 30 bis 36 eine Benachteiligung der
-Pfandbriefgläubiger.
+(1) Trifft die Abwicklungsbehörde bei einer Übertragung im Sinne des §
+107 des Sanierungs- und Abwicklungsgesetzes Bestimmungen zur
+teilweisen oder vollständigen Übertragung des Pfandbriefgeschäfts, ist
+die Übertragung abweichend von § 114 Absatz 2 des Sanierungs- und
+Abwicklungsgesetzes nach Maßgabe der §§ 30 bis 36 zu vollziehen. Der
+Sachwalter beachtet bei Erfüllung seiner Pflichten und Ausübung seiner
+Rechte die Bestimmungen der Anordnung im Sinne des Satzes 1. Die
+Anordnung im Sinne des Satzes 1 kann abweichend von Satz 1 auch den
+unmittelbaren Übergang der in den Deckungsregistern eingetragenen
+Werte einschließlich der Werte im Sinne des § 30 Absatz 3 und der
+zugehörigen Pfandbriefverbindlichkeiten anordnen. Im Fall des Satzes 3
+gilt § 30 Absatz 3 mit der Maßgabe entsprechend, dass an die Stelle
+des Sachwalters die übernehmende Pfandbriefbank tritt und die
+Abführungspflicht gegenüber der übertragenden Pfandbriefbank
+unabhängig von ihrer Insolvenz besteht; ist die Gewährung einer
+Gegenleistung vorgesehen, gilt darüber hinaus § 30 Absatz 4 Satz 1 und
+2 entsprechend. Sind im Deckungsregister
 
-(2) Trifft eine Übertragungsanordnung nach § 48a des
-Kreditwesengesetzes Bestimmungen zur teilweisen oder vollständigen
-Übertragung des Pfandbriefgeschäfts, ist die Übertragung abweichend
-von § 48g Absatz 2 Nummer 1 des Kreditwesengesetzes nach Maßgabe der
-§§ 30 bis 36 zu vollziehen. Der Sachwalter ist an die Bestimmungen der
-Übertragungsanordnung nicht gebunden, soweit diese entgegen §§ 30 bis
-36 die Pfandbriefgläubiger benachteiligt.
+1.  Forderungen gegen Schuldner eingetragen, die ihren Sitz nicht in einem
+    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+    des Abkommens über den Europäischen Wirtschaftsraum haben, oder
 
-(3) Bei Einleitung des Reorganisationsverfahrens oder bei Erlass der
-Übertragungsanordnung kann die Bundesanstalt den Sachwalter von Amts
-wegen vorläufig bestellen. Die gerichtliche Ernennung ist unverzüglich
-nachzuholen.
+
+2.  Sicherheiten an Grundstücken oder grundstücksgleichen Rechten,
+    Schiffen oder Flugzeugen eingetragen, die ihrerseits außerhalb der
+    Mitgliedstaaten der Europäischen Union oder der anderen
+    Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+    belegen oder registriert sind,
+
+
+
+kann die Übertragung nach Satz 3 jedoch nur in der Weise erfolgen,
+dass die Abwicklungsbehörde zeitgleich einen Sachwalter von Amts wegen
+vorläufig bestellt, der die übertragenen Werte gemäß § 35
+treuhänderisch für die übernehmende Pfandbriefbank verwaltet. Für das
+Verfahren der vorläufigen Bestellung und die Rechtsstellung des
+Sachwalters im Sinne des Satzes 5 gelten § 31 mit der Maßgabe, dass
+die Bundesanstalt an die Stelle des Gerichts tritt, sowie § 31a
+entsprechend. Die gerichtliche Ernennung ist unverzüglich nachzuholen.
+Für das Verfahren der Ernennung gilt § 31 Absatz 1 und 2 entsprechend.
+
+(2) Bei Erlass der Anordnung im Sinne des Absatzes 1 Satz 1 kann die
+Abwicklungsbehörde den Sachwalter von Amts wegen vorläufig bestellen,
+sofern nicht nach Absatz 1 Satz 5 eine vorläufige Bestellung erfolgen
+muss. Für diesen Sachwalter gilt Absatz 1 Satz 6 bis 8 entsprechend.
+
+(3) Die Absätze 1 und 2 gelten entsprechend bei Anwendung eines
+Instrumentes nach den Artikeln 24 bis 26 der Verordnung (EU) Nr.
+806/2014.
 
 
 ## Abschnitt 6 - Rechtsbehelfe und Zuwiderhandlungen
@@ -1893,10 +2435,12 @@ nachzuholen.
 
 ### § 37 Sofortige Vollziehbarkeit
 
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt auf
-der Grundlage von § 2 Abs. 2 Nr. 1, § 3 Satz 2 und 3, § 7 Abs. 3 Satz
-2, § 32 Abs. 1, § 35 Abs. 1 Satz 1 sowie § 42 Abs. 1 Satz 3 und Abs. 2
-haben keine aufschiebende Wirkung.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
+einschließlich der Androhung und Festsetzung von Zwangsmitteln auf der
+Grundlage von § 2 Abs. 2 Nr. 1, § 3 Absatz 1 Satz 2 und 3, Absatz 2, §
+4 Absatz 3a und 3b, § 7 Abs. 3 Satz 2, § 27a Absatz 1 Satz 2, § 32
+Abs. 1, § 35 Abs. 1 Satz 1, § 36a Absatz 1 Satz 5 und Absatz 2 sowie §
+42 Abs. 1 Satz 3 und Abs. 2 haben keine aufschiebende Wirkung.
 
 
 ### § 38 Strafvorschriften
@@ -1948,7 +2492,8 @@ die das Wort Pfandbrief enthält, nur in Verkehr gebracht werden
     Pfandbriefgeschäfts erteilt worden ist,
 
 
-2.  von Einlagenkreditinstituten mit Sitz in einem anderen Mitgliedstaat
+2.  von Kreditinstituten im Sinne des Artikels 4 Absatz 1 Nummer 1 der
+    Verordnung (EU) Nr. 575/2013 mit Sitz in einem anderen Mitgliedstaat
     der Europäischen Union oder einem anderen Vertragsstaat des Abkommens
     über den Europäischen Wirtschaftsraum auch ohne Erlaubnis durch die
     Bundesanstalt, wenn
@@ -1957,22 +2502,23 @@ die das Wort Pfandbrief enthält, nur in Verkehr gebracht werden
         Bezeichnungen auch im Herkunftsstaat zulässigerweise betrieben wird,
 
 
-    b)  es sich um Schuldverschreibungen im Sinne des Artikels 22 Abs. 4
-        Unterabs. 1 der Richtlinie 85/611/EG des Rates vom 20. Dezember 1985
-        zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend
-        bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)
-        (ABl. EG Nr. L 375 S. 3), die zuletzt durch die Richtlinie 2004/39/EG
-        des Europäischen Parlaments und des Rates vom 21. April 2004 (ABl. EU
-        Nr. L 145 S. 1) geändert worden ist, handelt und die
-        Schuldverschreibungen in einer gemäß Artikel 22 Abs. 4 Unterabs. 3 der
-        vorgenannten Richtlinie vom Herkunftsstaat des Kreditinstituts an die
-        Kommission übersandten Liste enthalten sind,
+    b)  es sich um Schuldverschreibungen im Sinne des Artikels 52 Absatz 4
+        Unterabsatz 1 der Richtlinie 2009/65/EG des Europäischen Parlaments
+        und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und
+        Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame
+        Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32, L
+        269 vom 13.10.2010, S. 27) in der jeweils geltenden Fassung handelt
+        und die Schuldverschreibungen in einer gemäß Artikel 52 Absatz 4
+        Unterabsatz 3 der vorgenannten Richtlinie vom Herkunftsstaat des
+        Kreditinstituts an die Europäische Kommission übersandten Liste
+        enthalten sind,
 
 
     c)  bei den zur Deckung verwendeten Hypotheken, Schiffshypotheken und
         Registerpfandrechten oder ausländischen Flugzeughypotheken eine Grenze
-        von 50 Prozent des Marktwertes oder 60 Prozent des Beleihungswertes im
-        Sinne der Richtlinie 2006/48/EG nicht überschritten wird und
+        von 50 Prozent des Marktwertes oder 60 Prozent des Beleihungswertes
+        entsprechend dem Artikel 4 Absatz 1 Nummer 74 der Verordnung (EU) Nr.
+        575/2013 nicht überschritten wird und
 
 
     d)  bei der Bezeichnung der Schuldverschreibung in allen Prospekten,
@@ -2025,14 +2571,8 @@ erteilt. Die in § 35 Abs. 1 des Kreditwesengesetzes genannte Frist
 beginnt am 19. Juli 2005.
 
 
-### § 44 Erlaubnis für Schiffspfandbriefbanken
+### § 44 (weggefallen)
 
-Für die bei Ablauf des 18. Juli 2005 zugelassenen
-Schiffspfandbriefbanken im Sinne des § 1 des Schiffsbankgesetzes gilt
-die Erlaubnis für die in § 1 Abs. 1 Satz 2 Nr. 1 bis 5 und 7 bis 10
-des Kreditwesengesetzes bezeichneten Bankgeschäfte nach § 32 des
-Kreditwesengesetzes als erteilt. Die in § 35 Abs. 1 des
-Kreditwesengesetzes genannte Frist beginnt am 19. Juli 2005.
 
 
 ### § 45 Versicherungspflicht
@@ -2040,13 +2580,13 @@ Kreditwesengesetzes genannte Frist beginnt am 19. Juli 2005.
 Hypotheken, die den Pfandbriefbanken zu Beginn des 19. Juli 2005
 zustehen, sind zur Deckung der von ihnen ausgegebenen
 Hypothekenpfandbriefe nicht aus dem Grunde ungeeignet, weil das
-aufstehende Gebäude nicht nach Maßgabe des § 15 Abs. 1 versichert ist.
-Durch Schiffshypotheken gesicherte Darlehensforderungen, die den
-Pfandbriefbanken zu Beginn des 19. Juli 2005 zustehen, sind zur
-Deckung der von ihnen ausgegebenen Schiffspfandbriefe nicht aus dem
-Grunde ungeeignet, weil das Schiff oder Schiffsbauwerk nicht in Höhe
-der Versicherungspflicht nach Maßgabe des § 23 Abs. 1 Satz 1
-versichert ist.
+aufstehende Gebäude nicht nach Maßgabe des § 15 Satz 3 Nummer 1
+versichert ist. Durch Schiffshypotheken gesicherte
+Darlehensforderungen, die den Pfandbriefbanken zu Beginn des 19. Juli
+2005 zustehen, sind zur Deckung der von ihnen ausgegebenen
+Schiffspfandbriefe nicht aus dem Grunde ungeeignet, weil das Schiff
+oder Schiffsbauwerk nicht in Höhe der Versicherungspflicht nach
+Maßgabe des § 23 Abs. 1 Satz 1 versichert ist.
 
 
 ### § 46 Beleihungsgrenze
@@ -2065,51 +2605,84 @@ mit der Maßgabe anzuwenden, dass statt der in § 14 Abs. 1 festgelegten
 Beleihungsgrenze die Grenze nach Absatz 1 maßgeblich ist.
 
 
-### § 47 Vorrecht der Schiffspfandbriefgläubiger
-
-Bis zum Ablauf des 18. Juli 2009 unterliegt eine Pfandbriefbank, die
-vor dem 19. Juli 2005 Schiffspfandbriefe nach § 1 Nr. 1 des
-Schiffsbankgesetzes begeben hat, nicht der Grenze des § 22 Abs. 5 Satz
-2\. Die Pfandbriefbank hat jedoch sicherzustellen, dass der
-Gesamtbetrag der Beleihungen, bei denen nicht sichergestellt ist, dass
-sich das Vorrecht der Schiffspfandbriefgläubiger nach § 30 Abs. 1 auf
-die Forderungen der Pfandbriefgläubiger aus diesen Beleihungen
-erstreckt, bis zum Ablauf des 18. Juli 2007 50 Prozent des
-Gesamtbetrages der Forderungen, bei denen das Vorrecht sichergestellt
-ist, nicht übersteigt.
+### § 47 (weggefallen)
 
 
-### § 48 Schiffspfandbriefe in ausländischer Währung
 
-Auf die von einer Schiffspfandbriefbank im Sinne des § 1 des
-Schiffsbankgesetzes vor dem 19. Juli 2005 nach § 37 des
-Schiffsbankgesetzes ausgegebenen Schiffspfandbriefe sind die vor dem
-19\. Juli 2005 geltenden Vorschriften des Schiffsbankgesetzes weiter
-anzuwenden.
+### § 48 (weggefallen)
+
 
 
 ### § 49 Fortgeltende Deckungsfähigkeit
 
-(1) Abweichend von § 20 Abs. 1 Satz 1 Nr. 1 Buchstabe a sind
-Forderungen gegen solche Kreditinstitute, die in der Rechtsform einer
-Körperschaft oder Anstalt des öffentlichen Rechts geführt werden,
-weiterhin unbeschränkt deckungsfähig, wenn die Forderungen bereits am
-18\. Juli 2001 bestanden. Forderungen gegen die genannten
-Kreditinstitute sind auch deckungsfähig, wenn die Forderungen nach dem
-18\. Juli 2001 und vor dem 19. Juli 2005 vereinbart worden sind und
-ihre Laufzeit nicht über den 31. Dezember 2015 hinausgeht.
+(1) Abweichend von § 20 Absatz 1 Nummer 1 Buchstabe a sind Forderungen
+gegen solche Kreditinstitute, die in der Rechtsform einer Körperschaft
+oder Anstalt des öffentlichen Rechts geführt werden, weiterhin
+unbeschränkt deckungsfähig, wenn die Forderungen bereits am 18. Juli
+2001 bestanden. Forderungen gegen die genannten Kreditinstitute sind
+auch deckungsfähig, wenn die Forderungen nach dem 18. Juli 2001 und
+vor dem 19. Juli 2005 vereinbart worden sind und ihre Laufzeit nicht
+über den 31. Dezember 2015 hinausgeht.
 
-(2) Abweichend von § 20 Absatz 1 Satz 1 Nr. 1 Buchstabe d, e und h in
-der ab dem 26. März 2009 geltenden Fassung sind Forderungen gegen die
-dort genannten Schuldner oder Gewährleistungsgeber, welche der
-Bonitätsstufe 2 nach Anhang VI der Richtlinie 2006/48/EG zugeordnet
-worden sind, weiterhin deckungsfähig, sofern die Forderungen vor dem
-26\. März 2009 in das Deckungsregister eingetragen worden sind. Der
-Gesamtbetrag der Forderungen gegen Schuldner der Bonitätsstufe 2 darf
-höchstens einen Anteil von 20 Prozent der ausstehenden Pfandbriefe der
-jeweiligen Pfandbriefgattung betragen; die von § 20 Absatz 1 Satz 1
-Nr. 3 in der ab dem 26. März 2009 geltenden Fassung umfassten
-Deckungswerte sind anzurechnen.
+(2) Abweichend von § 20 Absatz 1 Nummer 1 Buchstabe d, e und h in der
+ab dem 26. März 2009 geltenden Fassung sind Forderungen gegen die dort
+genannten Schuldner oder Gewährleistungsgeber, welche der
+Bonitätsstufe 2 nach Tabelle 1 des Artikels 114 Absatz 2, Tabelle 5
+des Artikels 121 Absatz 1, Tabelle 2 des Artikels 116 Absatz 1 oder
+Tabelle 3 des Artikels 120 Absatz 1 der Verordnung (EU) Nr. 575/2013
+zugeordnet worden sind, weiterhin deckungsfähig, sofern die
+Forderungen vor dem 26. März 2009 in das Deckungsregister eingetragen
+worden sind. Der Gesamtbetrag der Forderungen gegen Schuldner der
+Bonitätsstufe 2 darf höchstens einen Anteil von 20 Prozent der
+ausstehenden Pfandbriefe der jeweiligen Pfandbriefgattung betragen;
+die von § 20 Absatz 1 Nummer 3 in der ab dem 26. März 2009 geltenden
+Fassung umfassten Deckungswerte sind anzurechnen.
+
+(3) Abweichend von § 4 Absatz 1 Satz 3 Nummer 2a Buchstabe b, § 19
+Absatz 1 Satz 1 Nummer 2, § 20 Absatz 2 Nummer 2, § 26 Absatz 1 Nummer
+3 sowie § 26f Absatz 1 Nummer 3 sind Forderungen, die sich gegen das
+Vereinigte Königreich Großbritannien und Nordirland oder dort
+ansässige Schuldner richten oder für die von diesen Stellen die
+Gewährleistung übernommen worden ist und vor dem Zeitpunkt, ab dem das
+Vereinigte Königreich Großbritannien und Nordirland nicht mehr
+Mitgliedstaat der Europäischen Union ist und auch nicht wie ein
+solcher zu behandeln ist, gemäß den vorgenannten Vorschriften zur
+Deckung verwendet worden sind, weiterhin für die entsprechende
+Pfandbriefgattung deckungsfähig. Für Sichteinlagen und Geldforderungen
+mit täglicher Fälligkeit gilt dies bis zu einem Monat nach dem Tag, an
+dem erstmalig über die vorgenannten Guthaben seitens der
+Pfandbriefbank verfügt werden konnte.
+
+(4) Forderungen, die
+
+1.  durch Grundpfandrechte an im Vereinigten Königreich Großbritannien und
+    Nordirland belegenen Grundstücken und grundstücksgleichen Rechten,
+
+
+2.  durch Schiffshypotheken an dort registrierten Schiffen und
+    Schiffsbauwerken oder
+
+
+3.  durch Flugzeughypotheken an dort registrierten Flugzeugen im Sinne des
+    § 1 Absatz 2 Satz 1 Nummer 1 des Luftverkehrsgesetzes besichert sind
+    oder die
+
+
+4.  sich gegen das Vereinigte Königreich Großbritannien und Nordirland
+    oder dort ansässige Schuldner richten oder für die von diesen Stellen
+    die Gewährleistung übernommen worden ist
+
+
+
+und vor dem Zeitpunkt, ab dem das Vereinigte Königreich Großbritannien
+und Nordirland nicht mehr Mitgliedstaat der Europäischen Union ist und
+auch nicht wie ein solcher zu behandeln ist, gemäß § 12 Absatz 1 in
+Verbindung mit § 13 Absatz 1 Satz 2, § 20 Absatz 1 Nummer 1 Buchstabe
+b, c und g sowie Nummer 2, § 21 in Verbindung mit § 22 Absatz 5 Satz 1
+und § 26a in Verbindung mit § 26b Absatz 4 Satz 1 zur Deckung
+verwendet worden sind, sind nicht auf die in § 13 Absatz 1 Satz 2
+zweiter Halbsatz, § 20 Absatz 2a, § 22 Absatz 5 Satz 2 und § 26b
+Absatz 4 Satz 2 genannten Grenzen anzurechnen.
 
 
 ### § 50 Fortgeltung bisherigen Rechts
@@ -2200,7 +2773,32 @@ bleiben für den durch die Maßgabe bezeichneten Umfang und
 Anwendungsbereich unverändert anwendbar.
 
 
-### § 53 (weggefallen)
+### § 53 Übergangsvorschrift zum CRD IV-Umsetzungsgesetz
 
--
+§ 28 Absatz 1 bis 3 dieses Gesetzes in der ab dem 1. Januar 2014
+geltenden Fassung ist erstmals auf das am 1. April 2014 beginnende
+Quartal, bei Anwendung des § 28 Absatz 5 erstmals auf das am 1. April
+2015 beginnende Quartal, anzuwenden. § 28 Absatz 1 bis 3 in der bis
+zum 31. Dezember 2013 geltenden Fassung ist letztmalig auf das am 31.
+März 2014 endende Quartal und § 28 Absatz 5 in der bis zum 31.
+Dezember 2013 geltenden Fassung ist in Bezug auf § 28 Absatz 1 Satz 1
+Nummer 1 und 3, Absatz 2 Satz 1 Nummer 3 und Satz 2, Absatz 3 Nummer 1
+und Absatz 4 in der bis zum 31. Dezember 2013 geltenden Fassung
+letztmalig auf das am 31. März 2015 endende Quartal anzuwenden.
+
+
+### § 54 Übergangsvorschrift zum BRRD-Umsetzungsgesetz
+
+§ 28 Absatz 1 bis 4 dieses Gesetzes in der ab dem 19. Dezember 2014
+geltenden Fassung ist erstmals auf das am 1. April 2015 beginnende
+Quartal, bei Anwendung des § 28 Absatz 5 erstmals auf das am 1. April
+2016 beginnende Quartal, anzuwenden. § 28 Absatz 1 bis 4 in der bis
+zum 18. Dezember 2014 geltenden Fassung ist letztmalig auf das am 31.
+März 2015 endende Quartal und § 28 Absatz 5 ist in Bezug auf § 28
+Absatz 1 Satz 1 Nummer 5 und 6, Absatz 2 Satz 1 Nummer 3, Absatz 3
+Nummer 1 und 2 letzter Satzteil sowie auf Absatz 4 Nummer 2 in der bis
+zum 18. Dezember 2014 geltenden Fassung letztmalig auf das am 31. März
+2016 endende Quartal anzuwenden. § 27a Absatz 1 ist erst mit
+Inkrafttreten der Rechtsverordnung nach § 27a Absatz 2 Satz 1
+anzuwenden.
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 35
 
+Geändert durch
+:   Art. 5 V v. 29.10.2015 I 1894
+
 
 
 ## Eingangsformel
@@ -35,10 +38,10 @@ und Reaktorsicherheit nach Anhörung des Beratenden Ausschusses nach §
 
 (1) Zum Schutz der Bevölkerung vor Fluglärm an Landeplätzen, auf denen
 nach Erhebungen des Statistischen Bundesamtes im vorausgegangenen
-Kalenderjahr 15.000 oder mehr Flugbewegungen (Starts und Landungen)
+Kalenderjahr 15 000 oder mehr Flugbewegungen (Starts und Landungen)
 von Flugzeugen, Motorseglern und Drehflüglern stattgefunden haben,
 sind Starts und Landungen von propellergetriebenen Flugzeugen und
-Motorseglern bis zu 9.000 kg höchstzulässiger Startmasse untersagt:
+Motorseglern bis zu 9 000 kg höchstzulässiger Startmasse untersagt:
 
 1.  montags bis freitags vor 7.00 Uhr, zwischen 13.00 und 15.00 Uhr
     Ortszeit und nach Sonnenuntergang,
@@ -50,18 +53,25 @@ Motorseglern bis zu 9.000 kg höchstzulässiger Startmasse untersagt:
 
 
 
-(2) Überlandflüge (Starts und Landungen) im Sinne des § 3a Abs. 2 der
-Luftverkehrs-Ordnung sind während der Ruhezeiten nach Absatz 1
-zulässig, wenn für das propellergetriebene Flugzeug oder den
-Motorsegler ein Lärmzeugnis oder eine ihm entsprechende Urkunde des
-Staates erteilt ist, in dem das Luftfahrzeug zum Verkehr zugelassen
-ist. Im Falle eines Starts gilt dies nur, wenn das Luftfahrzeug nicht
-vor Ablauf von 60 Minuten zum Startflugplatz zurückkehrt; diese
-Einschränkung gilt nicht, wenn das Luftfahrzeug aus Gründen der
-sicheren Flugdurchführung vorzeitig zurückkehren muß. Nicht im Inland
-erteilte Lärmzeugnisse oder die ihnen entsprechenden Urkunden werden
-als gültig anerkannt, wenn aus ihnen die Einhaltung der Lärmgrenzwerte
-nach Anlage 1 ersichtlich ist.
+(2) Starts und Landungen von Flügen, die über den Flugplatzverkehr
+nach Artikel 2 Nummer 9 der Durchführungsverordnung (EU) Nr. 923/2012
+der Kommission vom 26. September 2012 zur Festlegung gemeinsamer
+Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren
+der Flugsicherung und zur Änderung der Durchführungsverordnung (EG)
+Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr.
+1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010
+(ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der
+jeweils geltenden Fassung hinausführen, sind während der Ruhezeiten
+nach Absatz 1 zulässig, wenn für das propellergetriebene Flugzeug oder
+den Motorsegler ein Lärmzeugnis oder eine dem Lärmzeugnis
+entsprechende Urkunde des Staates erteilt ist, in dem das Luftfahrzeug
+zum Verkehr zugelassen ist. Im Falle eines Starts gilt dies nur, wenn
+das Luftfahrzeug nicht vor Ablauf von 60 Minuten zum Startflugplatz
+zurückkehrt; diese Einschränkung gilt nicht, wenn das Luftfahrzeug aus
+Gründen der sicheren Flugdurchführung vorzeitig zurückkehren muß.
+Nicht im Inland erteilte Lärmzeugnisse oder die ihnen entsprechenden
+Urkunden werden als gültig anerkannt, wenn aus ihnen die Einhaltung
+der Lärmgrenzwerte nach Anlage 1 ersichtlich ist.
 
 
 ## § 2 Regelungen durch die Landesbehörden

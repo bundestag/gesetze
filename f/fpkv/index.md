@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1262
 
 Zuletzt geändert durch
-:   Art. 16 G v. 29.7.2005 I 2424
+:   Art. 573 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -93,17 +93,18 @@ koordinierten Flughafen nach Maßgabe der Verordnung (EWG) Nr. 95/93
 erfolgt im Einvernehmen mit der obersten Luftfahrtbehörde des Landes,
 im Benehmen mit dem betroffenen Flughafenunternehmer und nach Anhörung
 des Koordinierungsausschusses nach § 2 durch das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung; sie wird im Bundesanzeiger sowie in
-den Nachrichten für Luftfahrer bekanntgemacht. Das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung bestimmt dabei im Einvernehmen
-mit der obersten Luftfahrtbehörde des Landes, ob der Verkehrsflughafen
-während seiner gesamten Betriebszeit oder nur für die Zeiträume, in
-denen Kapazitätsprobleme auftreten, für koordiniert erklärt wird.
+Verkehr und digitale Infrastruktur; sie wird im Bundesanzeiger sowie
+in den Nachrichten für Luftfahrer bekanntgemacht. Das
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmt
+dabei im Einvernehmen mit der obersten Luftfahrtbehörde des Landes, ob
+der Verkehrsflughafen während seiner gesamten Betriebszeit oder nur
+für die Zeiträume, in denen Kapazitätsprobleme auftreten, für
+koordiniert erklärt wird.
 
 (3) Übersteigt innerhalb bestimmter Zeiträume die Nachfrage nach
 Start- und Landezeiten regelmäßig nicht die Flugplatz- und
 Flugsicherungskapazität der in Absatz 1 genannten Verkehrsflughäfen,
-kann das Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+kann das Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit der obersten Luftfahrtbehörde des Landes, im Benehmen
 mit dem betroffenen Flughafenunternehmer und nach Anhörung des
 Koordinierungsausschusses nach § 2 einzelne Verkehrsflughäfen
@@ -114,8 +115,8 @@ sowie in den Nachrichten für Luftfahrer bekannt gemacht.
 (4) Über Einzelfragen der zweckdienlichen Auslegung und Anwendung der
 Vorschriften über den Vorrang bei der Zuweisung von Start- und
 Landezeiten (Slots) sowie der Vorschriften über die Durchführung der
-Flughafenkoordination entscheidet das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung im Rahmen seiner Rechts- und Fachaufsicht.
+Flughafenkoordination entscheidet das Bundesministerium für Verkehr
+und digitale Infrastruktur im Rahmen seiner Rechts- und Fachaufsicht.
 
 
 ## § 2 Koordinierungsausschuss
@@ -137,7 +138,7 @@ Koordinierungsausschuss obliegt dem jeweiligen Flughafenunternehmer.
 
 (3) Wird vom Koordinierungsausschuss ein Bedarf festgestellt oder wird
 ein Verkehrsflughafen zum koordinierten Flughafen erklärt, setzt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung für den
+Bundesministerium für Verkehr und digitale Infrastruktur für den
 betreffenden Verkehrsflughafen einen Koordinierungsausschuss ein, der
 für diesen Flughafen die Aufgaben des Koordinierungsausschusses nach
 Absatz 1 wahrnimmt.

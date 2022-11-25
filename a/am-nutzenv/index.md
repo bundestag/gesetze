@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2324
 
+Zuletzt geändert durch
+:   Art. 13 G v. 9.8.2019 I 1202
+
 
 ## Eingangsformel
 
@@ -72,7 +75,7 @@ Buches Sozialgesetzbuch verglichen wird.
 
 ## § 3 Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
 
-Die Nutzenbewertung nach § 35a Absatz 1 und 6 des Fünften Buches
+(1) Die Nutzenbewertung nach § 35a Absatz 1 des Fünften Buches
 Sozialgesetzbuch wird durchgeführt für erstattungsfähige Arzneimittel
 mit neuen Wirkstoffen und neuen Wirkstoffkombinationen,
 
@@ -86,31 +89,26 @@ mit neuen Wirkstoffen und neuen Wirkstoffkombinationen,
     Absatz 2 erhalten,
 
 
-3.  wenn der Gemeinsame Bundesausschuss eine Nutzenbewertung nach § 35a
-    Absatz 6 des Fünften Buches Sozialgesetzbuch veranlasst,
-
-
-4.  die vor dem 1. Januar 2011 in den Verkehr gebracht worden sind und die
-    nach dem 1. Januar 2011 ein neues Anwendungsgebiet nach § 2 Absatz 2
-    erhalten, sofern der Gemeinsame Bundesausschuss für das Arzneimittel
-    bereits eine Nutzenbewertung nach § 35a Absatz 6 des Fünften Buches
-    Sozialgesetzbuch veranlasst hat,
-
-
-5.  frühestens ein Jahr nach dem Beschluss über die Nutzenbewertung nach §
+3.  frühestens ein Jahr nach dem Beschluss über die Nutzenbewertung nach §
     7 Absatz 4 auf Antrag des pharmazeutischen Unternehmers,
 
 
-6.  frühestens ein Jahr nach dem Beschluss über die Nutzenbewertung nach §
+4.  frühestens ein Jahr nach dem Beschluss über die Nutzenbewertung nach §
     7 Absatz 4 bei Vorliegen neuer Erkenntnisse auf Veranlassung des
     Gemeinsamen Bundesausschusses,
 
 
-7.  für die der Gemeinsame Bundesausschuss über eine Nutzenbewertung mit
+5.  für die der Gemeinsame Bundesausschuss über eine Nutzenbewertung mit
     Befristung beschlossen hat, wenn die Frist abgelaufen ist.
 
 
 
+
+(2) Die Nutzenbewertung nach § 35a Absatz 6 des Fünften Buches
+Sozialgesetzbuch wird durchgeführt für erstattungsfähige Arzneimittel
+mit Wirkstoffen, die keine neuen Wirkstoffe im Sinne dieser Verordnung
+sind, wenn der Gemeinsame Bundesausschuss eine Nutzenbewertung nach §
+35a Absatz 6 des Fünften Buches Sozialgesetzbuch veranlasst.
 
 
 ## § 4 Dossier des pharmazeutischen Unternehmers
@@ -138,10 +136,10 @@ mit neuen Wirkstoffen und neuen Wirkstoffkombinationen,
 
 
 
-Für Arzneimittel nach § 35a Absatz 1 Satz 10 des Fünften Buches
+Für Arzneimittel nach § 35a Absatz 1 Satz 11 des Fünften Buches
 Sozialgesetzbuch sind keine Angaben zu den Nummern 2 und 3
 erforderlich, es sei denn, die Voraussetzungen des § 35a Absatz 1 Satz
-11 des Fünften Buches Sozialgesetzbuch sind erfüllt.
+12 des Fünften Buches Sozialgesetzbuch sind erfüllt.
 
 (2) Das Dossier soll auch die Zulassungsnummer, das Datum der
 Zulassung, den Zulassungsinhaber, die Pharmazentralnummer, die
@@ -167,24 +165,23 @@ Vereinbarungen nach § 130b des Fünften Buches Sozialgesetzbuch ist.
 
 2.  für Arzneimittel, die ein neues Anwendungsgebiet nach § 2 Absatz 2
     erhalten, wenn für das Arzneimittel eine Nutzenbewertung nach dieser
-    Verordnung durchgeführt wurde, innerhalb von vier Wochen nach
-    Zulassung des neuen Anwendungsgebietes oder der Unterrichtung des
+    Verordnung veranlasst wurde, innerhalb von vier Wochen nach Zulassung
+    des neuen Anwendungsgebietes oder der Unterrichtung des
     pharmazeutischen Unternehmers über eine Genehmigung für eine Änderung
     des Typs 2 nach Anhang 2 Nummer 2 Buchstabe a der Verordnung (EG) Nr.
     1234/2008;
 
 
-3.  für Arzneimittel, die vor dem 1. Januar 2011 in den Verkehr gebracht
-    worden sind, innerhalb von drei Monaten nach Anforderung des
-    Gemeinsamen Bundesausschusses;
+3.  für Arzneimittel, für die ein Antrag nach § 35a Absatz 5b des Fünften
+    Buches Sozialgesetzbuch gestellt wurde, zu dem vom Gemeinsamen
+    Bundesausschuss bestimmten Zeitpunkt;
 
 
 4.  für Arzneimittel, für die bereits eine Nutzenbewertung beschlossen
-    worden ist und für die der pharmazeutische Unternehmer frühestens ein
-    Jahr nach dem Beschluss eine erneute Nutzenbewertung beantragt hat
-    oder für die der Gemeinsame Bundesausschuss eine erneute
-    Nutzenbewertung veranlasst, innerhalb von drei Monaten nach
-    Anforderung des Gemeinsamen Bundesausschusses;
+    worden ist und für die der pharmazeutische Unternehmer eine erneute
+    Nutzenbewertung beantragt hat oder für die der Gemeinsame
+    Bundesausschuss eine erneute Nutzenbewertung veranlasst, innerhalb von
+    drei Monaten nach Anforderung des Gemeinsamen Bundesausschusses;
 
 
 5.  für Arzneimittel, für die ein befristeter Beschluss über die
@@ -193,7 +190,13 @@ Vereinbarungen nach § 130b des Fünften Buches Sozialgesetzbuch ist.
 
 6.  für Arzneimittel, für die eine Nutzenbewertung nach § 35a Absatz 1
     Satz 11 des Fünften Buches Sozialgesetzbuch durchgeführt wird, drei
-    Monate nach Aufforderung des Gemeinsamen Bundesausschusses.
+    Monate nach Aufforderung des Gemeinsamen Bundesausschusses;
+
+
+7.  für Arzneimittel, für die der Gemeinsame Bundesausschuss eine
+    Nutzenbewertung nach § 35a Absatz 6 des Fünften Buches
+    Sozialgesetzbuch veranlasst, innerhalb von drei Monaten nach
+    Anforderung des Gemeinsamen Bundesausschusses.
 
 
 
@@ -300,18 +303,39 @@ des Zusatznutzens erfolgen.
 (5) Für Arzneimittel nach Absatz 3 wird der Zusatznutzen gegenüber der
 zweckmäßigen Vergleichstherapie festgestellt als Verbesserung der
 Beeinflussung patientenrelevanter Endpunkte zum Nutzen gemäß § 2
-Absatz 3. Können zum Zeitpunkt der Bewertung valide Daten zu
-patientenrelevanten Endpunkten noch nicht vorliegen, erfolgt die
-Bewertung auf der Grundlage der verfügbaren Evidenz unter
-Berücksichtigung der Studienqualität mit Angabe der Wahrscheinlichkeit
-für den Beleg eines Zusatznutzens und kann eine Frist bestimmt werden,
-bis wann valide Daten zu patientenrelevanten Endpunkten vorgelegt
-werden sollen. Liegen keine direkten Vergleichsstudien für das neue
-Arzneimittel gegenüber der zweckmäßigen Vergleichstherapie vor oder
-lassen diese keine ausreichenden Aussagen über einen Zusatznutzen zu,
-können verfügbare klinische Studien für die zweckmäßige
-Vergleichstherapie herangezogen werden, die sich für einen indirekten
-Vergleich mit dem Arzneimittel mit neuen Wirkstoffen eignen.
+Absatz 3. Bei der Bewertung des Zusatznutzens von Antibiotika soll die
+Resistenzsituation berücksichtigt werden. Können zum Zeitpunkt der
+Bewertung valide Daten zu patientenrelevanten Endpunkten noch nicht
+vorliegen, erfolgt die Bewertung auf der Grundlage der verfügbaren
+Evidenz unter Berücksichtigung der Studienqualität mit Angabe der
+Wahrscheinlichkeit für den Beleg eines Zusatznutzens und kann eine
+Frist bestimmt werden, bis wann valide Daten zu patientenrelevanten
+Endpunkten vorgelegt werden sollen. Liegen keine direkten
+Vergleichsstudien für das neue Arzneimittel gegenüber der zweckmäßigen
+Vergleichstherapie vor oder lassen diese keine ausreichenden Aussagen
+über einen Zusatznutzen zu, können verfügbare klinische Studien für
+die zweckmäßige Vergleichstherapie herangezogen werden, die sich für
+einen indirekten Vergleich mit dem Arzneimittel mit neuen Wirkstoffen
+eignen.
+
+(5a) Bei der Bewertung von Arzneimitteln mit einer Genehmigung für die
+pädiatrische Verwendung im Sinne des Artikels 2 Absatz 4 der
+Verordnung (EG) Nr. 1901/2006 des Europäischen Parlaments und des
+Rates vom 12. Dezember 2006 über Kinderarzneimittel und zur Änderung
+der Verordnung (EWG) Nr. 1768/92, der Richtlinien 2001/20/EG und
+2001/83/EG sowie der Verordnung (EG) Nr. 726/2004 (ABl. L 378 vom
+27\.11.2006, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1902/2006
+(ABl. L 378 vom 27.12.2006, S. 20) geändert worden ist, prüft der
+Gemeinsame Bundesausschuss, ob für Patientengruppen oder
+Teilindikationen, die von der Zulassung umfasst sind, die jedoch in
+der Studienpopulation nicht oder nicht hinreichend vertreten sind und
+für die die Zulassung aufgrund der Übertragung von Evidenz
+ausgesprochen wurde, ein Zusatznutzen anerkannt werden kann. Er kann
+in diesen Fällen einen Zusatznutzen anerkennen, sofern die Übertragung
+der Evidenz nach dem Stand der wissenschaftlichen Erkenntnis auch im
+Hinblick auf die Nutzenbewertung zulässig und begründet ist. Der
+Gemeinsame Bundesausschuss regelt das Nähere in seiner
+Verfahrensordnung.
 
 (6) Die Aussagekraft der Nachweise ist unter Berücksichtigung der
 Studienqualität, der Validität der herangezogenen Endpunkte sowie der
@@ -352,7 +376,7 @@ und die therapeutische Bedeutung des Zusatznutzens unter
 Berücksichtigung des Schweregrades der Erkrankung gegenüber dem Nutzen
 der zweckmäßigen Vergleichstherapie wie folgt zu quantifizieren:
 
-1.  Ein erheblicher Zusatznutzen liegt vor, wenn eine nachhaltige und
+1.  ein erheblicher Zusatznutzen liegt vor, wenn eine nachhaltige und
     gegenüber der zweckmäßigen Vergleichstherapie bisher nicht erreichte
     große Verbesserung des therapierelevanten Nutzens im Sinne von § 2
     Absatz 3 erreicht wird, insbesondere eine Heilung der Erkrankung, eine
@@ -392,15 +416,33 @@ der zweckmäßigen Vergleichstherapie wie folgt zu quantifizieren:
 
 
 
+Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach
+den Nummern 1 bis 6 oder einschränkende Zusätze des Beschlusses über
+die Nutzenbewertung nach § 7 Absatz 4 sind nicht zulässig.
+
+(8) Für Arzneimittel, die zur Behandlung eines seltenen Leidens nach
+der Verordnung (EG) Nr. 141/2000 des Europäischen Parlaments und des
+Rates vom 16. Dezember 1999 über Arzneimittel für seltene Leiden (ABl.
+L 18 vom 22.1.2000, S. 1) zugelassen sind und für die keine Nachweise
+nach § 35a Absatz 1 Satz 3 Nummer 2 und 3 des Fünften Buches
+Sozialgesetzbuch vorgelegt werden müssen, ist unter Angabe der
+Aussagekraft der Nachweise nur das Ausmaß des Zusatznutzens nach
+Absatz 7 Satz 1 Nummer 1 bis 4 zu quantifizieren. Im Fall des Absatzes
+7 Satz 1 Nummer 4 hat der Gemeinsame Bundesausschuss im Beschluss über
+die Nutzenbewertung nach § 7 Absatz 4 danach zu differenzieren, ob ein
+Zusatznutzen vorliegt, aber nicht quantifizierbar ist, weil die
+wissenschaftliche Datengrundlage dies nicht zulässt oder weil die
+erforderlichen Nachweise nicht vollständig sind. Absatz 7 Satz 2 gilt
+entsprechend. Sofern es unmöglich oder unangemessen ist, Studien
+höchster Evidenzstufe durchzuführen oder zu fordern, sind Nachweise
+der bestverfügbaren Evidenzstufe einzureichen.
 
 
 ## § 6 Zweckmäßige Vergleichstherapie
 
 (1) Die zweckmäßige Vergleichstherapie ist regelhaft zu bestimmen nach
 Maßstäben, die sich aus den internationalen Standards der
-evidenzbasierten Medizin ergeben. Bei mehreren Alternativen ist die
-wirtschaftlichere Therapie zu wählen, vorzugsweise eine Therapie, für
-die ein Festbetrag gilt.
+evidenzbasierten Medizin ergeben.
 
 (2) Die zweckmäßige Vergleichstherapie muss eine nach dem allgemein
 anerkannten Stand der medizinischen Erkenntnisse zweckmäßige Therapie
@@ -410,22 +452,26 @@ sich in der praktischen Anwendung bewährt hat, soweit nicht
 Richtlinien nach § 92 Absatz 1 des Fünften Buches Sozialgesetzbuch
 oder das Wirtschaftlichkeitsgebot dagegensprechen.
 
+(2a) Sind nach den Absätzen 1 und 2 mehrere Alternativen für die
+Vergleichstherapie gleichermaßen zweckmäßig, kann der Zusatznutzen
+gegenüber jeder dieser Therapien nachgewiesen werden. § 35a Absatz 1
+Satz 4 des Fünften Buches Sozialgesetzbuch bleibt unberührt.
+
 (3) Für Arzneimittel einer Wirkstoffklasse ist die gleiche zweckmäßige
 Vergleichstherapie heranzuziehen, um eine einheitliche Bewertung zu
-gewährleisten. Die zweckmäßige Vergleichstherapie muss auch geeignet
-sein für Bewertungen von Arzneimitteln auf Veranlassung des
-Gemeinsamen Bundesausschusses nach § 35a Absatz 6 des Fünften Buches
-Sozialgesetzbuch, die vor dem 1. Januar 2011 in den Verkehr gebracht
-worden sind.
+gewährleisten.
 
 
 ## § 7 Nutzenbewertung
 
 (1) Der Gemeinsame Bundesausschuss führt die Nutzenbewertung durch.
-Grundlage dafür ist das Dossier des pharmazeutischen Unternehmers nach
-§ 4. Der Gemeinsame Bundesausschuss kann das Institut für Qualität und
-Wirtschaftlichkeit im Gesundheitswesen oder Dritte mit der
-Nutzenbewertung beauftragen.
+Grundlage dafür sind das Dossier des pharmazeutischen Unternehmers
+nach § 4 sowie die aus einer anwendungsbegleitenden Datenerhebung nach
+§ 35a Absatz 3b des Fünften Buches Sozialgesetzbuch erhobenen oder
+gewonnenen Daten. Der Gemeinsame Bundesausschuss kann das Institut für
+Qualität und Wirtschaftlichkeit im Gesundheitswesen oder Dritte mit
+der Nutzenbewertung beauftragen. Die Bestimmungen zum Schutz
+personenbezogener Daten bleiben unberührt.
 
 (2) Mit der Nutzenbewertung wird die Validität und Vollständigkeit der
 Angaben im Dossier geprüft. Dabei werden die Unterlagen hinsichtlich
@@ -445,6 +491,11 @@ zweckmäßigen Vergleichstherapie belegt ist, welcher Zusatznutzen für
 welche Patientengruppen in welchem Ausmaß belegt ist, wie die
 vorliegende Evidenz zu bewerten ist und mit welcher Wahrscheinlichkeit
 der Beleg jeweils erbracht wird.
+
+(2a) Die aus einer anwendungsbegleitenden Datenerhebung nach § 35a
+Absatz 3b des Fünften Buches Sozialgesetzbuch erhobenen und
+ausgewerteten Daten sind vom Gemeinsamen Bundesausschuss zur
+Nutzenbewertung heranzuziehen.
 
 (3) Die Nutzenbewertung ist spätestens drei Monate nach dem Zeitpunkt
 abzuschließen, der für die Einreichung der Nachweise nach § 4 Absatz 3
@@ -489,11 +540,11 @@ vorzulegenden Unterlagen und Studien sowie die zweckmäßige
 Vergleichstherapie. Der Gemeinsame Bundesausschuss kann hierüber
 Vereinbarungen mit dem pharmazeutischen Unternehmer treffen. Der
 Gemeinsame Bundesausschuss führt die Beratung innerhalb von acht
-Wochen nach Einreichung der Unterlagen durch. Bei Nutzenbewertungen
-nach § 35a Absatz 6 des Fünften Buches Sozialgesetzbuch ist eine
-Beratung anzubieten, bevor der Gemeinsame Bundesausschuss den
-pharmazeutischen Unternehmer zur Einreichung eines Dossiers
-auffordert.
+Wochen nach Einreichung der Unterlagen durch. Veranlasst der
+Gemeinsame Bundesausschuss eine Nutzenbewertung nach § 35a Absatz 6
+des Fünften Buches Sozialgesetzbuch, so hat er eine Beratung
+anzubieten, bevor er den pharmazeutischen Unternehmer zur Einreichung
+eines Dossiers auffordert.
 
 (3) Die Frist für die Einreichung eines Dossiers nach § 4 Absatz 3
 gilt unbeschadet der Beratung. Der Anspruch auf Beratung erlischt mit

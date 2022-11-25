@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 1573
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.11.2007 I 2569
+:   Art. 483 V v. 31.8.2015 I 1474
+
+Änderung durch
+:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 2.8.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -560,10 +563,6 @@ sein oder den Sitz des Fahrzeugführers von den Fahrgastplätzen
 abteilen; sie darf versenkbar oder so beschaffen sein, daß ein Teil
 seitlich verschoben werden kann.
 
-(4)
-
-(5)
-
 
 #### § 26 Kenntlichmachung
 
@@ -600,11 +599,24 @@ die die Genehmigungsbehörde erteilt hat, anzubringen.
 sichtbaren Stelle ein Schild mit Namen und Betriebssitz des
 Unternehmers anzubringen.
 
+(3) Bei Mietwagen ist an der rechten unteren Ecke der Heckscheibe ein
+nach außen und innen wirkendes Schild nach Anlage 3a mit der
+Ordnungsnummer, die die Genehmigungsbehörde erteilt hat, anzubringen.
+
+(4) Bei Fahrzeugen des gebündelten Bedarfsverkehrs nach § 50 des
+Personenbeförderungsgesetzes ist an der rechten unteren Ecke der
+Heckscheibe ein nach außen und innen wirkendes Schild nach Anlage 3b
+mit der Ordnungsnummer, die die Genehmigungsbehörde erteilt hat,
+anzubringen.
+
 
 #### § 28 Fahrpreisanzeiger
 
 (1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger ausgerüstet
-sein. Die Vorschriften des Eichrechts finden Anwendung.
+sein. Abweichend von Satz 1 ist statt der Ausrüstung mit einem
+beleuchtbaren Fahrpreisanzeiger auch die Ausrüstung mit einem
+konformitätsbewerteten softwarebasierten System möglich. Die
+Vorschriften des Eichrechts finden Anwendung.
 
 (2) Der Fahrpreisanzeiger muß anzeigen
 
@@ -618,6 +630,30 @@ sein. Die Vorschriften des Eichrechts finden Anwendung.
 Die Anzeige muß leicht ablesbar und bei Dunkelheit beleuchtet sein.
 
 
+#### § 28a Navigationsgerät
+
+Taxen müssen mit einem dem Stand der Technik entsprechenden
+Navigationsgerät ausgerüstet sein, welches mindestens nachfolgende
+Funktionen besitzen muss:
+
+1.  echtzeitdatenbasierte Streckenführung,
+
+
+2.  Echtzeit-Staumeldungen,
+
+
+3.  Stau- und Sperrungsumfahrungen und
+
+
+4.  umfassendes Sonderzieleverzeichnis.
+
+
+
+Als ein dem Stand der Technik entsprechendes Navigationsgerät gilt
+auch ein softwarebasiertes System mit den oben genannten Funktionen
+auf einem entsprechenden Endgerät.
+
+
 #### § 29 Gepäck
 
 Taxen müssen auch bei vollständiger Besetzung im Rahmen ihres
@@ -627,18 +663,23 @@ zulässigen Gesamtgewichts mindestens 50 kg Gepäck befördern können.
 #### § 30 Wegstreckenzähler
 
 (1) In Mietwagen ist ein leicht ablesbarer Wegstreckenzähler
-anzubringen. Die Vorschriften des Eichrechts finden Anwendung.
+anzubringen. Anstelle des Wegstreckenzählers ist die Ausrüstung mit
+einem konformitätsbewerteten softwarebasierten System möglich. Die
+Vorschriften des Eichrechts finden Anwendung.
 
 (2) Absatz 1 gilt auch für Mietomnibusse, wenn das Beförderungsentgelt
 nach den Angaben eines Wegstreckenzählers ermittelt wird.
 
 
-#### § 31 Fahrzeuge mit einer Genehmigung für den Taxen- und Mietwagenverkehr
+#### § 31 Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und gebündelten Bedarfsverkehr
 
-(1) Für Fahrzeuge, die für den Taxen- und Mietwagenverkehr genehmigt
-sind, gelten die §§ 25 bis 30. Wird Mietwagenverkehr ausgeführt,
-dürfen das Taxischild nach § 26 Abs. 1 Nr. 2 und die Ordnungsnummer
-nach § 27 Abs. 1 nicht gezeigt werden.
+(1) Für Fahrzeuge, die für den Taxenverkehr und mindestens einen
+weiteren Gelegenheitsverkehr nach § 49 Absatz 4 oder § 50 des
+Personenbeförderungsgesetzes genehmigt sind, gelten die §§ 25 bis 30.
+Für Fahrzeuge, die für den Mietwagenverkehr und gebündelten
+Bedarfsverkehr genehmigt sind, gelten die §§ 25, 27 Absatz 3 und 4 und
+§ 30. Wird Mietwagen- oder gebündelter Bedarfsverkehr ausgeführt, darf
+das Taxischild nach § 26 Absatz 1 Nummer 2 nicht gezeigt werden.
 
 (2) Wird ein Fahrzeug nur in geringem Umfang für den Mietwagenverkehr
 verwendet, kann die Genehmigungsbehörde gestatten, daß das Fahrzeug
@@ -742,8 +783,9 @@ des Linienverkehrs (§ 43 PBefG).
 
 #### § 37 Beförderungsentgelte
 
-(1) Ein anderes als das vom Fahrpreisanzeiger angezeigte
-Beförderungsentgelt darf nicht gefordert werden.
+(1) Ein anderes als das vom Fahrpreisanzeiger angezeigte oder im
+Rahmen des Bestellvorgangs vereinbarte Beförderungsentgelt darf nicht
+gefordert werden.
 
 (2) Bei Versagen des Fahrpreisanzeigers wird das Beförderungsentgelt
 nach der durchfahrenen Strecke berechnet; der Fahrzeugführer hat den
@@ -839,8 +881,8 @@ Mietwagenverkehr sind, genehmigen. Ausnahmen von der Vorschrift der
 Anlage 1 sind hinsichtlich der Aufschrift und der Farbgebung nicht
 möglich.
 
-(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des
+(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr und
+digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
 Bundesrates nach Anhören der zuständigen obersten Landesbehörden.
 
 (3) Die Ausnahmegenehmigung kann unter dem Vorbehalt des Widerrufs
@@ -1286,6 +1328,101 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 
 
 (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
+
+(zu § 27 Absatz 3)
+
+### Anlage 3a Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
+
+(Fundstelle: BGBl. I 2021, 831)
+
+
+*    *   Breite
+
+    *   150 mm
+
+
+*    *   Höhe
+
+    *   70 mm
+
+
+*    *   Schrifthöhe
+
+    *   50 mm
+
+
+*    *   Strichstärke
+
+    *   6 mm
+
+
+*    *   Waagerechter Abstand der Ziffern
+        voneinander
+
+    *   5 mm
+
+
+*    *   Farbe der Schrift
+
+    *   weiß
+
+
+*    *   Farbe des Untergrunds
+
+    *   blau
+
+
+*    *   (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
+
+
+
+
+(zu § 27 Absatz 4)
+
+### Anlage 3b Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre
+
+(Fundstelle: BGBl. I 2021, 832)
+
+
+*    *   Breite
+
+    *   150 mm
+
+
+*    *   Höhe
+
+    *   70 mm
+
+
+*    *   Schrifthöhe
+
+    *   50 mm
+
+
+*    *   Strichstärke
+
+    *   6 mm
+
+
+*    *   Waagerechter Abstand der Ziffern
+        voneinander
+
+    *   5 mm
+
+
+*    *   Farbe der Schrift
+
+    *   weiß
+
+
+*    *   Farbe des Untergrunds
+
+    *   grün
+
+
+*    *   (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
+
+
 
 
 ### Anlage 4 (§ 33 Abs. 4)

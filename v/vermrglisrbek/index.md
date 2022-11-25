@@ -76,8 +76,8 @@ vom 1. Juni 1962 gezahlten Entschädigung (Bundesgesetzbl. 1965 I S.
         vom 21. April 1965 der Betrag von 747 088 DM für den Verlust von
         Vermögenswerten, über die vor Errichtung des Staates Israel verfügt
         worden und deren Gegenwert in dem im Briefwechsel Nr. 1 zum deutsch-
-        israelischen Abkommen vom 1. Juni 1962 bezeichneten Betrage von 1 793
-        000
+        israelischen Abkommen vom 1. Juni 1962 bezeichneten Betrage von
+        1 793 000
         Pfund enthalten ist.
 
 

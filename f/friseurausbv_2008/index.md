@@ -1,7 +1,5 @@
-[^f771102_01_BJNR085600008]
-Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
 jurabk: FriseurAusbV 2008
 layout: default
 origslug: friseurausbv_2008
@@ -9,13 +7,16 @@ slug: friseurausbv_2008
 
 ---
 
-#  (FriseurAusbV 2008)
+# Verordnung über die Berufsausbildung zum Friseur/zur Friseurin (FriseurAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-05-21
 
 Fundstelle
 :   BGBl I: 2008, 856
+
+Geändert durch
+:   Art. 1 V v. 30.4.2021 I 861
 
 [^f771102_01_BJNR085600008]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 25
     der Handwerksordnung. Die Ausbildungsordnung und der damit
@@ -143,35 +144,33 @@ Abschnitt B
 Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 in den Wahlqualifikationseinheiten:
 
-1.  Pflegende Kosmetik/Visagistik,
+1.  Visagistik,
 
 
 2.  Langhaarfrisuren,
 
 
-3.  Nageldesign/-modellage,
+3.  Haarersatz,
 
 
-4.  Haarersatz,
-
-
-5.  Coloration;
+4.  Coloration;
 
 
 
 Abschnitt C
 Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
-1.  Berufsbildung, Arbeits- und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+    und Tarifrecht,
 
 
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
+2.  Sicherheit und Gesundheit bei der Arbeit,
 
 
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
+3.  Umweltschutz und Nachhaltigkeit,
 
 
-4.  Umweltschutz.
+4.  digitalisierte Arbeitswelt.
 
 
 
@@ -190,11 +189,7 @@ nachzuweisen.
 (2) Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplans einen Ausbildungsplan zu erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) (weggefallen)
 
 
 ## § 6 Gesellenprüfung
@@ -228,9 +223,9 @@ vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
 ist.
 
 (3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich
-Klassische Friseurarbeit.
+Basisfriseurarbeiten.
 
-(4) Für den Prüfungsbereich Klassische Friseurarbeit bestehen folgende
+(4) Für den Prüfungsbereich Basisfriseurarbeiten bestehen folgende
 Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
@@ -238,7 +233,7 @@ Vorgaben:
     a)  Haar und Kopfhaut beurteilen, reinigen und pflegen,
 
 
-    b)  Kopfhaut mit verschiedenen Techniken massieren,
+    b)  Augenbrauen färben und formen,
 
 
     c)  Haare mit klassischen Techniken schneiden,
@@ -276,22 +271,18 @@ Vorgaben:
 
 
 
-3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe mit
-    situativem Fachgespräch und schriftlichen Aufgabenstellungen
-    durchführen sowie nach Nummer 2 Buchstabe b ein Prüfungsstück
-    erstellen.
+3.  Der Prüfling soll nach Nummer 2 Buchstabe a eine Arbeitsaufgabe
+    durchführen und Aufgaben schriftlich lösen sowie nach Nummer 2
+    Buchstabe b ein Prüfungsstück erstellen.
 
 
-4.  Die Prüfungszeit beträgt insgesamt 270 Minuten. Innerhalb dieser Zeit
-    soll die Arbeitsaufgabe in 210 Minuten einschließlich 10 Minuten
-    situatives Fachgespräch und 60 Minuten schriftliche Aufgabenstellungen
-    durchgeführt werden. Das Prüfungsstück soll einen zeitlichen Umfang
-    von 60 Minuten haben.
+4.  Die Prüfungszeit beträgt für die Arbeitsaufgabe 210 Minuten und für
+    die schriftliche Arbeit 60 Minuten. Das Prüfungsstück soll einen
+    zeitlichen Umfang von 60 Minuten haben.
 
 
-5.  Die Arbeitsaufgabe einschließlich des situativen Fachgespräches und
-    der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das
-    Prüfungsstück mit 30 Prozent zu gewichten.
+5.  Die Arbeitsaufgabe einschließlich der schriftlichen Aufgabenstellungen
+    ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
 
 
@@ -304,9 +295,9 @@ aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
 Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
 Berufsausbildung wesentlich ist.
 
-(2) Die Gesellenprüfung besteht aus den Prüfungsbereichen:
+(2) Teil 2 der Gesellenprüfung besteht aus den Prüfungsbereichen:
 
-1.  Friseur- und Kosmetikdienstleistungen,
+1.  Friseur- und dekorative Kosmetikdienstleistungen,
 
 
 2.  Friseurtechniken,
@@ -320,8 +311,8 @@ Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Friseur- und Kosmetikdienstleistungen
-bestehen folgende Vorgaben:
+(3) Für den Prüfungsbereich Friseur- und dekorative
+Kosmetikdienstleistungen bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -365,11 +356,11 @@ bestehen folgende Vorgaben:
 
 2.  Dem Prüfungsbereich sind folgende Tätigkeiten zugrunde zu legen:
 
-    a)  Ausführen einer modernen Friseurarbeit an der Dame zu einem besonderen
-        Anlass mit einem darauf abgestimmten Make-up und
+    a)  Ausführen einer aktuell modischen Friseurarbeit an der Dame zu einem
+        besonderen Anlass mit einem darauf abgestimmten Make-up und
 
 
-    b)  Ausführen einer modernen Friseurarbeit am Herren.
+    b)  Ausführen einer aktuell modischen Friseurarbeit am Herren.
 
 
 
@@ -478,7 +469,7 @@ folgende Vorgaben:
 *    *   1.
 
     *   Prüfungsbereich
-        Klassische Friseurarbeit
+        Basisfriseurarbeiten
 
     *   25 Prozent,
 
@@ -486,7 +477,7 @@ folgende Vorgaben:
 *    *   2.
 
     *   Prüfungsbereich
-        Friseur- und Kosmetikdienstleistungen
+        Friseur- und dekorative Kosmetikdienstleistungen
 
     *   45 Prozent,
 
@@ -524,8 +515,8 @@ folgende Vorgaben:
     „ausreichend“,
 
 
-3.  im Prüfungsbereich Friseur- und Kosmetikdienstleistungen mit
-    mindestens „ausreichend“,
+3.  im Prüfungsbereich Friseur- und dekorative Kosmetikdienstleistungen
+    mit mindestens „ausreichend“,
 
 
 4.  in mindestens zwei der übrigen Prüfungsbereiche von Teil 2 mit
@@ -565,7 +556,8 @@ Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
 
-(Fundstelle: BGBl. I 2008, 860 - 866)
+(Fundstelle: BGBl. I 2008, 860 - 866, bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 ## Abschnitt A: Gemeinsame berufsprofilgebende Fertigkeiten,
 Kenntnisse und Fähigkeiten
@@ -1229,8 +1221,7 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
 *    *   1
 
-    *   Pflegende Kosmetik/
-        Visagistik
+    *   Visagistik
         (§ 4 Abs. 2 Abschnitt B Nr. 1)
 
     *
@@ -1292,31 +1283,8 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
 *    *   3
 
-    *   Nageldesign/-modellage
-        (§ 4 Abs. 2 Abschnitt B Nr. 3)
-
-    *
-        a)  Fingernägel mit Schablonen- und Tiptechnik durch Verarbeiten
-            verschiedener Systeme, insbesondere Gel-, Pulver-/Flüssigkeit- und
-            Fieberglassystem, verlängern und formen
-
-
-        b)  Fingernägel kreativ gestalten
-
-
-        c)  Naturnägel behandeln, pflegen und verschönern
-
-
-
-
-    *
-    *   8
-
-
-*    *   4
-
     *   Haarersatz
-        (§ 4 Abs. 2 Abschnitt B Nr. 4)
+        (§ 4 Abs. 2 Abschnitt B Nr. 3)
 
     *
         a)  Haarersatz auswählen und einarbeiten
@@ -1339,10 +1307,10 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
     *   8
 
 
-*    *   5
+*    *   4
 
     *   Coloration
-        (§ 4 Abs. 2 Abschnitt B Nr. 5)
+        (§ 4 Abs. 2 Abschnitt B Nr. 4)
 
     *
         a)  individuelle Farbtonberatung durchführen
@@ -1379,7 +1347,8 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
 
 
-## Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
+## Abschnitt C: integrativ zu vermittelnde Fertigkeiten, Kenntnisse
+und Fähigkeiten
 
 *    *   Lfd.
         Nr.
@@ -1387,19 +1356,11 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Fertigkeiten, Kenntnisse und Fähigkeiten,
-        die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens zu vermitteln sind
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
 
-    *   Zeitliche Richtwerte
-        in Wochen im
-
-
-*    *   1.–18.
-        Monat
-
-    *   19.–36.
-        Monat
+    *   Zeitliche
+        Zuordnung
 
 
 *    *   1
@@ -1413,113 +1374,195 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
 *    *   1
 
-    *   Berufsbildung,
-        Arbeits- und Tarifrecht
-        (§ 4 Abs. 2 Abschnitt C Nr. 1)
+    *   Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+        und Tarifrecht
+        (§ 4 Absatz 2 Abschnitt C Nummer 1)
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des
+            Ausbildungsbetriebes erläutern
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und
+            Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im
+            System der dualen Berufsausbildung Beteiligten beschreiben
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und
+            des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung
+            beitragen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
-
-
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        d)  die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und
+            mitbestimmungsrechtlichen Vorschriften erläutern
 
 
 
 
     *   während
         der gesamten
-        Ausbildungszeit
-        zu vermitteln
+        Ausbildung
 
+
+*    *
+    *
+    *
+        e)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
+            erläutern
+
+
+        f)  Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu
+            Wirtschaftsorganisationen und Gewerkschaften erläutern
+
+
+        g)  Positionen der eigenen Entgeltabrechnung erläutern
+
+
+        h)  wesentliche Inhalte von Arbeitsverträgen erläutern
+
+
+        i)  Möglichkeiten des beruflichen Aufstiegs und der beruflichen
+            Weiterentwicklung erläutern
+
+
+
+
+    *
 
 *    *   2
 
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 4 Abs. 2 Abschnitt C Nr. 2)
+    *   Sicherheit und Gesundheit bei der Arbeit
+        (§ 4 Absatz 2 Abschnitt C Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und
+            Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes, wie Angebot, Beschaffung,
-            Fertigung, Absatz und Verwaltung, erklären
+        b)  Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem
+            Arbeitsweg prüfen und beurteilen
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  sicheres und gesundheitsgerechtes Arbeiten erläutern
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  technische und organisatorische Maßnahmen zur Vermeidung von
+            Gefährdungen sowie von psychischen und physischen Belastungen für sich
+            und andere, auch präventiv, ergreifen
+
+
+        e)  ergonomische Arbeitsweisen beachten und anwenden
+
+
+        f)  Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei
+            Unfällen einleiten
+
+
+        g)  betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden,
+            Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur
+            Brandbekämpfung ergreifen
 
 
 
+
+    *   während
+        der gesamten
+        Ausbildung
 
 
 *    *   3
 
-    *   Sicherheit und
-        Gesundheitsschutz
-        bei der Arbeit
-        (§ 4 Abs. 2 Abschnitt C Nr. 3)
+    *   Umweltschutz und Nachhaltigkeit
+        (§ 4 Absatz 2 Abschnitt C Nummer 3)
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
+        a)  Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt
+            und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren
+            Weiterentwicklung beitragen
 
 
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
+        b)  bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder
+            Dienstleistungen, Materialien und Energie unter wirtschaftlichen,
+            umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit
+            nutzen
 
 
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
-            einleiten
+        c)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
+            einhalten
 
 
-        d)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        d)  Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden
+            Wiederverwertung oder Entsorgung zuführen
+
+
+        e)  Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich
+            entwickeln
+
+
+        f)  unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen,
+            ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und
+            adressatengerecht kommunizieren
 
 
 
+
+    *   während
+        der gesamten
+        Ausbildung
 
 
 *    *   4
 
-    *   Umweltschutz
-        (§ 4 Abs. 2 Abschnitt C Nr. 4)
+    *   Digitalisierte Arbeitswelt
+        (§ 4 Absatz 2 Abschnitt C Nummer 4)
 
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
+    *
+        a)  mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter
+            umgehen und dabei die Vorschriften zum Datenschutz und zur
+            Datensicherheit einhalten
 
 
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
+        b)  Risiken bei der Nutzung von digitalen Medien und
+            informationstechnischen Systemen einschätzen und bei deren Nutzung
+            betriebliche Regelungen einhalten
 
 
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        c)  ressourcenschonend, adressatengerecht und effizient kommunizieren
+            sowie Kommunikationsergebnisse dokumentieren
 
+
+        d)  Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung
+            beitragen
+
+
+        e)  Informationen in digitalen Netzen recherchieren und aus digitalen
+            Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten
+            und auswählen
+
+
+        f)  Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten
+            Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des
+            lebensbegleitenden Lernens erkennen und ableiten
+
+
+        g)  Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten
+            anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler
+            Medien, planen, bearbeiten und gestalten
+
+
+        h)  Wertschätzung anderer unter Berücksichtigung gesellschaftlicher
+            Vielfalt praktizieren
+
+
+
+
+    *
+        *            *   während
+                der gesamten
+                Ausbildung
+
+            *
 
 
 

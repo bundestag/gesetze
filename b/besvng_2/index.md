@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1975, 1173
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 46 G v. 5.2.2009 I 160
+:   Art. 67 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 77 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -213,16 +216,16 @@ oder 2 zu diesem Versorgungsbezug gewährt.
 
 (1) Die obersten Bundesbehörden oder die von ihnen ermächtigten
 Stellen und die für das Besoldungsrecht zuständigen Minister der
-Länder teilen dem Bundesminister des Innern bis zum 1. Oktober jeden
-Jahres die Zahl der Besoldungsberechtigten (§ 3 Abs. 1) am 1. Juli des
-Feststellungsjahres und den für diesen Personenkreis im Monat Juli des
-Feststellungsjahres entstandenen Besoldungsaufwand (§ 3 Abs. 1) mit.
-Die sachliche und rechnerische Richtigkeit der Angaben ist
-festzustellen.
+Länder teilen dem Bundesminister des Innern, für Bau und Heimat bis
+zum 1. Oktober jeden Jahres die Zahl der Besoldungsberechtigten (§ 3
+Abs. 1) am 1. Juli des Feststellungsjahres und den für diesen
+Personenkreis im Monat Juli des Feststellungsjahres entstandenen
+Besoldungsaufwand (§ 3 Abs. 1) mit. Die sachliche und rechnerische
+Richtigkeit der Angaben ist festzustellen.
 
-(2) Der Bundesminister des Innern stellt den Anpassungszuschlag fest
-und gibt diesen bis zum 1. November jeden Jahres im Bundesanzeiger
-bekannt.
+(2) Der Bundesminister des Innern, für Bau und Heimat stellt den
+Anpassungszuschlag fest und gibt diesen bis zum 1. November jeden
+Jahres im Bundesanzeiger bekannt.
 
 
 ## § 6 Zahlung des Anpassungszuschlages
@@ -267,38 +270,23 @@ Angestellten
 
 
 
-(2) Bei der besoldungsrechtlichen Einstufung der Dienstposten der
-Geschäftsführer und stellvertretenden Geschäftsführer der in Absatz 1
-genannten bundesunmittelbaren Körperschaften im Bereich der
-gesetzlichen Unfallversicherung sowie der landwirtschaftlichen
-Sozialversicherung sind Einstufungshöchstgrenzen einzuhalten. Das
-Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium des Innern und dem
-Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
-des Bundesrates unter Angabe von Bewertungskriterien und deren
-Gewichtung Höchstgrenzen nach Satz 1 festzulegen. Dabei sind
-insbesondere Aufgabenbereich, Größe und Bedeutung der Körperschaft,
-die gesetzlich übertragenen weiteren Aufgaben sowie die
-bundesgesetzlichen Einstufungen von Geschäftsführern anderer
-Sozialversicherungsträger zu berücksichtigen. Die Besoldungsgruppe B 6
-darf nicht überschritten werden. Der stellvertretende Geschäftsführer
-ist jeweils mindestens eine Besoldungsgruppe niedriger einzustufen als
-der Geschäftsführer.
+(2) (weggefallen)
 
 (3) u. (4) weggefallen)
 
 (5) (weggefallen)
 
 (6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium des Innern und dem
-Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
-des Bundesrates für die in Absatz 1 genannten bundesunmittelbaren
-Körperschaften im Bereich der gesetzlichen Unfallversicherung sowie
-der landwirtschaftlichen Sozialversicherung unter Berücksichtigung der
-für Bundesbeamte geltenden Grundsätze zur sachgerechten Bewertung der
-Funktionen für die Zahl der Beförderungsämter Obergrenzen festzulegen.
-Die Dienstposten der Aufsichtspersonen dürfen entsprechend Absatz 2
-Satz 5 bewertet und eingestuft werden.
+Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+und dem Bundesministerium der Finanzen durch Rechtsverordnung mit
+Zustimmung des Bundesrates für die in Absatz 1 genannten
+bundesunmittelbaren Körperschaften im Bereich der gesetzlichen
+Unfallversicherung sowie der landwirtschaftlichen Sozialversicherung
+unter Berücksichtigung der für Bundesbeamte geltenden Grundsätze zur
+sachgerechten Bewertung der Funktionen für die Zahl der
+Beförderungsämter Obergrenzen festzulegen. Die Dienstposten der
+Aufsichtspersonen dürfen entsprechend § 147a Absatz 3 des Siebten
+Buches Sozialgesetzbuch bewertet und eingestuft werden.
 
 
 ## § 2
@@ -1023,22 +1011,22 @@ anzuwenden:
     dieses Gesetzes ist der Monat Dezember 1973. Die obersten
     Bundesbehörden oder die von diesen ermächtigten Stellen und die für
     das Besoldungsrecht zuständigen Minister der Länder teilen dem
-    Bundesminister des Innern bis zum Ersten des auf das Inkrafttreten
-    dieses Gesetzes folgenden Monats die Zahl der Besoldungsberechtigten
-    (Artikel VII § 3 Abs. 1 dieses Gesetzes) am 1. Dezember 1973 und am 1.
-    Juli 1974 und den für diesen Personenkreis im Monat Dezember 1973 und
-    im Monat Juli 1974 entstandenen Besoldungsaufwand (Artikel VII § 3
-    Abs. 1 dieses Gesetzes) mit; die sachliche und rechnerische
-    Richtigkeit der Angaben ist festzustellen.
+    Bundesminister des Innern, für Bau und Heimat bis zum Ersten des auf
+    das Inkrafttreten dieses Gesetzes folgenden Monats die Zahl der
+    Besoldungsberechtigten (Artikel VII § 3 Abs. 1 dieses Gesetzes) am 1.
+    Dezember 1973 und am 1. Juli 1974 und den für diesen Personenkreis im
+    Monat Dezember 1973 und im Monat Juli 1974 entstandenen
+    Besoldungsaufwand (Artikel VII § 3 Abs. 1 dieses Gesetzes) mit; die
+    sachliche und rechnerische Richtigkeit der Angaben ist festzustellen.
 
 
 4.  Den für den Feststellungszeitraum nach Nummer 2 festgestellten
-    Anpassungszuschlag gibt der Bundesminister des Innern bis zum Ersten
-    des auf das Inkrafttreten dieses Gesetzes folgenden zweiten Monats im
-    Bundesanzeiger bekannt. Der Anpassungszuschlag wird den am 30.
-    November 1973 vorhandenen Versorgungsempfängern mit Wirkung vom
-    Inkrafttreten dieses Gesetzes an gewährt; Entsprechendes gilt für ihre
-    Hinterbliebenen.
+    Anpassungszuschlag gibt der Bundesminister des Innern, für Bau und
+    Heimat bis zum Ersten des auf das Inkrafttreten dieses Gesetzes
+    folgenden zweiten Monats im Bundesanzeiger bekannt. Der
+    Anpassungszuschlag wird den am 30. November 1973 vorhandenen
+    Versorgungsempfängern mit Wirkung vom Inkrafttreten dieses Gesetzes an
+    gewährt; Entsprechendes gilt für ihre Hinterbliebenen.
 
 
 

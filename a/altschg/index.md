@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 944, 986
 
 Zuletzt geändert durch
-:   Art. 2 V v. 31.10.2006 I 2407
+:   Art. 6 V v. 19.6.2020 I 1328
 
 
 ## Erster Teil - Allgemeine Grundsätze
@@ -477,7 +477,7 @@ Bund und den Ländern im Einvernehmen bestellt.
 
 ### § 12 Ermächtigung
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
 über Einzelheiten der Ermittlung der Höhe des Teilentlastungsbetrages

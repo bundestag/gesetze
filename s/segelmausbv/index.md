@@ -1,8 +1,5 @@
-[^F1_774135_BJNR056400010]
-Verordnung über die Berufsausbildung zum Segelmacher und zur
-Segelmacherin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin
 jurabk: SegelmAusbV
 layout: default
 origslug: segelmausbv
@@ -10,7 +7,7 @@ slug: segelmausbv
 
 ---
 
-#  (SegelmAusbV)
+# Verordnung über die Berufsausbildung zum Segelmacher und zur Segelmacherin (SegelmAusbV)
 
 Ausfertigungsdatum
 :   2010-05-05

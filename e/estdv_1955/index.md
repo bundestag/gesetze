@@ -19,10 +19,16 @@ Neugefasst durch
 :   Bek. v. 10.5.2000 I 717;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 1.11.2011 I 2131
+:   Art. 10 G v. 2.6.2021 I 1259
 
 
-## (XXXX) §§ 1 bis 3 (weggefallen)
+## § 1 Anwendung auf Ehegatten und Lebenspartner
+
+Die Regelungen dieser Verordnung zu Ehegatten und Ehen sind auch auf
+Lebenspartner und Lebenspartnerschaften anzuwenden.
+
+
+## (XXXX) §§ 2 und 3 (weggefallen)
 
 
 
@@ -126,8 +132,8 @@ Zeitraum als Wirtschaftsjahr bestimmt werden; dies gilt nicht für den
 Weinbau.
 
 (2)
-1             Gartenbaubetriebe und reine Forstbetriebe können auch
-das Kalenderjahr als Wirtschaftsjahr bestimmen.
+1             Land- und forstwirtschaftliche Betriebe können auch das
+Kalenderjahr als Wirtschaftsjahr bestimmen.
 2             Stellt ein Land- und Forstwirt von einem vom
 Kalenderjahr abweichenden Wirtschaftsjahr auf ein mit dem Kalenderjahr
 übereinstimmendes Wirtschaftsjahr um, verlängert sich das letzte vom
@@ -332,9 +338,10 @@ Beleihung unverzüglich anzuzeigen.
 
 ### § 30 Nachversteuerung bei Versicherungsverträgen
 
-1             Eine Nachversteuerung ist durchzuführen, wenn der
-Sonderausgabenabzug von Beiträgen nach § 10 Abs. 1 Nr. 3 Buchstabe b
-des Gesetzes zu versagen ist.
+1             Eine Nachversteuerung ist durchzuführen, wenn die
+Voraussetzungen für den Sonderausgabenabzug von Vorsorgeaufwendungen
+nach § 10 Absatz 2 Satz 2 des Gesetzes in der am 31. Dezember 2004
+geltenden Fassung nicht erfüllt sind.
 2             Zu diesem Zweck ist die Steuer zu berechnen, die
 festzusetzen gewesen wäre, wenn der Steuerpflichtige die Beiträge
 nicht geleistet hätte.
@@ -368,34 +375,51 @@ Steuer ist als Nachsteuer zu erheben.
 -
 
 
-### § 50 Zuwendungsnachweis
+### § 50 Zuwendungsbestätigung
 
-(1) Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen nur
-abgezogen werden, wenn sie durch eine Zuwendungsbestätigung
-nachgewiesen werden, die der Empfänger nach amtlich vorgeschriebenem
-Vordruck ausgestellt hat.
+(1)
+1             Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes
+dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der
+Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger
+unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach
+amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den
+Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat.
+2             Dies gilt nicht für Zuwendungen an nicht im Inland
+ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und
+3 des Gesetzes.
 
-(1a)
+(2)
 1             Der Zuwendende kann den Zuwendungsempfänger
-bevollmächtigen, die Zuwendungsbestätigung der Finanzbehörde nach
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach
-Maßgabe der Steuerdaten-Übermittlungsverordnung zu übermitteln.
+bevollmächtigen, die Zuwendungsbestätigung der für seine Besteuerung
+nach dem Einkommen zuständigen Finanzbehörde nach amtlich
+vorgeschriebenem Datensatz durch Datenfernübertragung nach Maßgabe des
+§ 93c der Abgabenordnung zu übermitteln.
 2             Der Zuwendende hat dem Zuwendungsempfänger zu diesem
 Zweck seine Identifikationsnummer (§ 139b der Abgabenordnung)
 mitzuteilen.
 3             Die Vollmacht kann nur mit Wirkung für die Zukunft
 widerrufen werden.
-4             Der Datensatz ist bis zum 28. Februar des Jahres, das
-auf das Jahr folgt, in dem die Zuwendung geleistet worden ist, an die
-Finanzbehörde zu übermitteln.
-5             Der Zuwendungsempfänger hat dem Zuwendenden die nach
+4             Der Zuwendungsempfänger hat dem Zuwendenden die nach
 Satz 1 übermittelten Daten elektronisch oder auf dessen Wunsch als
 Ausdruck zur Verfügung zu stellen; in beiden Fällen ist darauf
 hinzuweisen, dass die Daten der Finanzbehörde übermittelt worden sind.
+5             § 72a Absatz 4 der Abgabenordnung findet keine
+Anwendung.
 
-(2)
-1             Als Nachweis genügt der Bareinzahlungsbeleg oder die
-Buchungsbestätigung eines Kreditinstituts, wenn
+(3)
+1             In den Fällen des Absatzes 2 ist für die Anwendung des §
+93c Absatz 4 Satz 1 der Abgabenordnung das Finanzamt zuständig, in
+dessen Bezirk sich die Geschäftsleitung (§ 10 der Abgabenordnung) des
+Zuwendungsempfängers im Inland befindet.
+2             Die nach Absatz 2 übermittelten Daten können durch
+dieses Finanzamt zum Zweck der Anwendung des § 93c Absatz 4 Satz 1 der
+Abgabenordnung bei den für die Besteuerung der Zuwendenden nach dem
+Einkommen zuständigen Finanzbehörden abgerufen und verwendet werden.
+
+(4)
+1             Statt einer Zuwendungsbestätigung genügt der
+Bareinzahlungsbeleg oder die Buchungsbestätigung eines
+Kreditinstituts, wenn
 
 1.  die Zuwendung zur Hilfe in Katastrophenfällen:
 
@@ -409,77 +433,91 @@ Buchungsbestätigung eines Kreditinstituts, wenn
 
 
     b)  bis zur Einrichtung des Sonderkontos auf ein anderes Konto der
-        genannten Zuwendungsempfänger geleistet wird.
-        2                         Wird die Zuwendung über ein als
-        Treuhandkonto geführtes Konto eines Dritten auf eines der genannten
-        Sonderkonten geleistet, genügt als Nachweis der Bareinzahlungsbeleg
-        oder die Buchungsbestätigung des Kreditinstituts des Zuwendenden
-        zusammen mit einer Kopie des Barzahlungsbelegs oder der
-        Buchungsbestätigung des Kreditinstituts des Dritten;
+        genannten Zuwendungsempfänger eingezahlt wird; wird die Zuwendung über
+        ein als Treuhandkonto geführtes Konto eines Dritten auf eines der
+        genannten Sonderkonten eingezahlt, genügt der Bareinzahlungsbeleg oder
+        die Buchungsbestätigung des Kreditinstituts des Zuwendenden zusammen
+        mit einer Kopie des Barzahlungsbelegs oder der Buchungsbestätigung des
+        Kreditinstituts des Dritten, oder
 
 
 
 
 
-2.  die Zuwendung 200 Euro nicht übersteigt und
+2.  die Zuwendung 300 Euro nicht übersteigt und
 
     a)  der Empfänger eine inländische juristische Person des öffentlichen
         Rechts oder eine inländische öffentliche Dienststelle ist oder
 
 
     b)  der Empfänger eine Körperschaft, Personenvereinigung oder
-        Vermögensmasse im Sinne des § 5 Abs. 1 Nr. 9 des
+        Vermögensmasse im Sinne des § 5 Absatz 1 Nummer 9 des
         Körperschaftsteuergesetzes ist, wenn der steuerbegünstigte Zweck, für
         den die Zuwendung verwendet wird, und die Angaben über die
         Freistellung des Empfängers von der Körperschaftsteuer auf einem von
         ihm hergestellten Beleg aufgedruckt sind und darauf angegeben ist, ob
         es sich bei der Zuwendung um eine Spende oder einen Mitgliedsbeitrag
-        handelt oder
+        handelt, oder
 
 
     c)  der Empfänger eine politische Partei im Sinne des § 2 des
-        Parteiengesetzes ist und bei Spenden der Verwendungszweck auf dem vom
-        Empfänger hergestellten Beleg aufgedruckt ist.
+        Parteiengesetzes ist, die nicht gemäß § 18 Absatz 7 des
+        Parteiengesetzes von der staatlichen Teilfinanzierung ausgeschlossen
+        ist, und bei Spenden der Verwendungszweck auf dem vom Empfänger
+        hergestellten Beleg aufgedruckt ist.
 
 
 
 
 
 
-2             Aus der Buchungsbestätigung müssen Name und Kontonummer
-des Auftraggebers und Empfängers, der Betrag sowie der Buchungstag
-ersichtlich sein.
+2             Aus der Buchungsbestätigung müssen der Name und die
+Kontonummer oder ein sonstiges Identifizierungsmerkmal des
+Auftraggebers und des Empfängers, der Betrag, der Buchungstag sowie
+die tatsächliche Durchführung der Zahlung ersichtlich sein.
 3             In den Fällen des Satzes 1 Nummer 2 Buchstabe b hat der
 Zuwendende zusätzlich den vom Zuwendungsempfänger hergestellten Beleg
-vorzulegen.
+aufzubewahren.
 
-(2a) Bei Zuwendungen zur Hilfe in Katastrophenfällen innerhalb eines
+(5) Bei Zuwendungen zur Hilfe in Katastrophenfällen innerhalb eines
 Zeitraums, den die obersten Finanzbehörden der Länder im Benehmen mit
 dem Bundesministerium der Finanzen bestimmen, die über ein Konto eines
 Dritten an eine inländische juristische Person des öffentlichen
-Rechts, eine inländische öffentliche Dienststelle oder eine nach § 5
-Absatz 1 Nummer 9 des Körperschaftsteuergesetzes steuerbefreite
+Rechts, an eine inländische öffentliche Dienststelle oder an eine nach
+§ 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes steuerbefreite
 Körperschaft, Personenvereinigung oder Vermögensmasse geleistet
-werden, genügt als Nachweis die auf den jeweiligen Spender
-ausgestellte Zuwendungsbestätigung des Zuwendungsempfängers, wenn das
-Konto des Dritten als Treuhandkonto geführt wurde, die Spenden von
-dort an den Zuwendungsempfänger weitergeleitet wurden und diesem eine
-Liste mit den einzelnen Spendern und ihrem jeweiligen Anteil an der
-Spendensumme übergeben wurde.
+werden, genügt das Erhalten einer auf den jeweiligen Zuwendenden
+ausgestellten Zuwendungsbestätigung des Zuwendungsempfängers, wenn das
+Konto des Dritten als Treuhandkonto geführt wurde, die Zuwendung von
+dort an den Zuwendungsempfänger weitergeleitet wurde und diesem eine
+Liste mit den einzelnen Zuwendenden und ihrem jeweiligen Anteil an der
+Zuwendungssumme übergeben wurde.
 
-(3) Als Nachweis für die Zahlung von Mitgliedsbeiträgen an politische
-Parteien im Sinne des § 2 des Parteiengesetzes genügt die Vorlage von
-Bareinzahlungsbelegen, Buchungsbestätigungen oder Beitragsquittungen.
+(6) Bei Zahlungen von Mitgliedsbeiträgen an politische Parteien im
+Sinne des § 2 des Parteiengesetzes genügen statt
+Zuwendungsbestätigungen Bareinzahlungsbelege, Buchungsbestätigungen
+oder Beitragsquittungen.
 
-(4)
-1             Eine in § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
-bezeichnete Körperschaft, Personenvereinigung oder Vermögensmasse hat
-die Vereinnahmung der Zuwendung und ihre zweckentsprechende Verwendung
-ordnungsgemäß aufzuzeichnen und ein Doppel der Zuwendungsbestätigung
-aufzubewahren.
-2             Bei Sachzuwendungen und beim Verzicht auf die Erstattung
+(7)
+1             Eine in § 5 Absatz 1 Nummer 9 des
+Körperschaftsteuergesetzes bezeichnete Körperschaft,
+Personenvereinigung oder Vermögensmasse hat die Vereinnahmung der
+Zuwendung und ihre zweckentsprechende Verwendung ordnungsgemäß
+aufzuzeichnen und ein Doppel der Zuwendungsbestätigung aufzubewahren.
+2             Diese Aufbewahrungspflicht entfällt in den Fällen des
+Absatzes 2.
+3             Bei Sachzuwendungen und beim Verzicht auf die Erstattung
 von Aufwand müssen sich aus den Aufzeichnungen auch die Grundlagen für
 den vom Empfänger bestätigten Wert der Zuwendung ergeben.
+
+(8)
+1             Die in den Absätzen 1, 4, 5 und 6 bezeichneten
+Unterlagen sind vom Zuwendenden auf Verlangen der Finanzbehörde
+vorzulegen.
+2             Soweit der Zuwendende sie nicht bereits auf Verlangen
+der Finanzbehörde vorgelegt hat, sind sie vom Zuwendenden bis zum
+Ablauf eines Jahres nach Bekanntgabe der Steuerfestsetzung
+aufzubewahren.
 
 
 ## - - Zu § 13 des Gesetzes
@@ -512,12 +550,61 @@ Waldverkäufen sowie für die übrigen Einnahmen und die damit in
 unmittelbarem Zusammenhang stehenden Betriebsausgaben.
 
 
-## - - Zu § 13a des Gesetzes
+### § 52 Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln
+
+(1)
+1             Behörden und andere öffentliche Stellen im Sinne von § 6
+Absatz 1 bis 1e der Abgabenordnung sind als mitteilungspflichtige
+Stellen verpflichtet, der für die Besteuerung des Zahlungsempfängers
+nach dem Einkommen zuständigen Finanzbehörde eine Mitteilung zu
+übermitteln, wenn von dieser einer als Land- und Forstwirt tätigen
+natürlichen Person, Personenvereinigung oder juristischen Person
+Beihilfen aus öffentlichen Mitteln der Europäischen Union, des Bundes
+oder eines Landes gewährt werden.
+2             Von der Mitteilungspflicht ausgenommen sind
+Förderkredite, Gewährleistungen, Bürgschaften, Garantien und
+Beteiligungen.
+
+(2)
+1             Zur Sicherstellung der gesetzmäßigen und gleichmäßigen
+Besteuerung der Beihilfen sind neben den nach § 93c Absatz 1 der
+Abgabenordnung erforderlichen Angaben folgende Angaben mitzuteilen:
+
+1.  der Tag der Antragstellung,
+
+
+2.  die Art und die Höhe der jeweils gewährten Beihilfe,
+
+
+3.  der Zeitraum oder der Zeitpunkt, für den die Beihilfe gewährt wird,
+
+
+4.  der Tag der Zahlung oder der Zahlungsanordnung.
 
 
 
-### § 52 (weggefallen)
+2             Die in § 93c Absatz 1 Nummer 2 Buchstabe c und d der
+Abgabenordnung genannten Daten sind mit der Maßgabe zu übermitteln,
+dass der Zahlungsempfänger als Steuerpflichtiger gilt.
+3             Als Zahlungsempfänger ist stets der ursprüngliche
+Gläubiger der Forderung mitzuteilen, auch wenn die Forderung
+abgetreten, verpfändet oder gepfändet ist.
 
+(3)
+1             Die Mitteilungen sind bis zum letzten Tag des Monats
+Februar des auf die Gewährung der Beihilfe folgenden Kalenderjahres
+nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte
+Schnittstelle (§ 87b Absatz 1 und 2 der Abgabenordnung) zu
+übermitteln.
+2             Für den Tag der Gewährung der Beihilfe ist der Tag der
+Zahlung oder der Zahlungsanordnung gemäß Absatz 2 Satz 1 Nummer 4
+maßgeblich.
+3             Der Zahlungsempfänger im Sinne des Absatzes 2 hat der
+mitteilungspflichtigen Stelle zu diesem Zweck sein
+Identifikationsmerkmal (§§ 139a bis 139c der Abgabenordnung)
+mitzuteilen.
+4             Die Mitteilung kann im Rahmen der Antragsverfahren der
+gewährten Beihilfen erfolgen.
 
 
 ## - - Zu § 17 des Gesetzes
@@ -1138,7 +1225,7 @@ Datensatz durch Datenfernübertragung zu übermitteln.
 unbilliger Härten auf eine elektronische Übermittlung verzichten; in
 diesem Fall ist der Steuererklärung eine Gewinnermittlung nach amtlich
 vorgeschriebenem Vordruck beizufügen.
-3             § 150 Abs. 7 und 8 der Abgabenordnung gilt entsprechend.
+3             § 150 Absatz 8 der Abgabenordnung gilt entsprechend.
 
 
 ## - - Zu den §§ 26a und 26b des Gesetzes
@@ -1193,7 +1280,7 @@ Veranlagungszeitraum der Verlustentstehung zueinander stehen.
 
 
 
-### § 64 Nachweis von Krankheitskosten
+### § 64 Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale
 
 (1) Den Nachweis der Zwangsläufigkeit von Aufwendungen im
 Krankheitsfall hat der Steuerpflichtige zu erbringen:
@@ -1257,31 +1344,31 @@ Krankheitsfall hat der Steuerpflichtige zu erbringen:
 Steuerpflichtigen die für steuerliche Zwecke erforderlichen
 Gesundheitszeugnisse, Gutachten oder Bescheinigungen auszustellen.
 
+(3) Für den Nachweis der Anspruchsvoraussetzungen zur
+behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des §
+65 anzuwenden.
+
 
 ## - - Zu § 33b des Gesetzes
 
 
 
-### § 65 Nachweis der Behinderung
+### § 65 Nachweis der Behinderung und des Pflegegrads
 
 (1) Den Nachweis einer Behinderung hat der Steuerpflichtige zu
 erbringen:
 
 1.  bei einer Behinderung, deren Grad auf mindestens 50 festgestellt ist,
     durch Vorlage eines Ausweises nach dem Neunten Buch Sozialgesetzbuch
-    oder eines Bescheides der nach § 69 Absatz 1 des Neunten Buches
+    oder eines Bescheides der nach § 152 Absatz 1 des Neunten Buches
     Sozialgesetzbuch zuständigen Behörde,
 
 
 2.  bei einer Behinderung, deren Grad auf weniger als 50, aber mindestens
-    25 festgestellt ist,
+    20 festgestellt ist,
 
-    a)  durch eine Bescheinigung der nach § 69 Absatz 1 des Neunten Buches
-        Sozialgesetzbuch zuständigen Behörde auf Grund eines
-        Feststellungsbescheids nach § 69 Absatz 1 des Neunten Buches
-        Sozialgesetzbuch, die eine Äußerung darüber enthält, ob die
-        Behinderung zu einer dauernden Einbuße der körperlichen Beweglichkeit
-        geführt hat oder auf einer typischen Berufskrankheit beruht, oder,
+    a)  durch eine Bescheinigung oder einen Bescheid der nach § 152 Absatz 1
+        des Neunten Buches Sozialgesetzbuch zuständigen Behörde oder,
 
 
     b)  wenn ihm wegen seiner Behinderung nach den gesetzlichen Vorschriften
@@ -1298,24 +1385,101 @@ erbringen:
 1             Die gesundheitlichen Merkmale „blind“ und „hilflos“ hat
 der Steuerpflichtige durch einen Ausweis nach dem Neunten Buch
 Sozialgesetzbuch, der mit den Merkzeichen „BI“ oder „H“ gekennzeichnet
-ist, oder durch einen Bescheid der nach § 69 Absatz 1 des Neunten
+ist, oder durch einen Bescheid der nach § 152 Absatz 1 des Neunten
 Buches Sozialgesetzbuch zuständigen Behörde, der die entsprechenden
 Feststellungen enthält, nachzuweisen.
-2             Dem Merkzeichen "H" steht die Einstufung als
-Schwerstpflegebedürftiger in Pflegestufe III nach dem Elften Buch
-Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch oder diesen
-entsprechenden gesetzlichen Bestimmungen gleich; dies ist durch
-Vorlage des entsprechenden Bescheides nachzuweisen.
+2             Dem Merkzeichen „H“ steht die Einstufung als
+pflegebedürftige Person mit schwersten Beeinträchtigungen der
+Selbständigkeit oder der Fähigkeiten in die Pflegegrade 4 oder 5 nach
+dem Elften Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch
+oder diesen entsprechenden gesetzlichen Bestimmungen gleich.
 
-(3) Der Steuerpflichtige hat die Unterlagen nach den Absätzen 1 und 2
-zusammen mit seiner Steuererklärung oder seinem Antrag auf
-Lohnsteuerermäßigung der Finanzbehörde vorzulegen.
+(2a) Den Nachweis der Einstufung in einen Pflegegrad nach dem Elften
+Buch Sozialgesetzbuch, dem Zwölften Buch Sozialgesetzbuch oder diesen
+entsprechenden gesetzlichen Bestimmungen hat der Steuerpflichtige
+durch Vorlage des entsprechenden Bescheides nachzuweisen.
+
+(3)
+1             Die Gewährung des Behinderten-Pauschbetrags setzt
+voraus, dass der Antragsteller Inhaber gültiger Unterlagen nach den
+Absätzen 1 und 2 ist.
+2             Bei erstmaliger Geltendmachung des Pauschbetrags oder
+bei Änderung der Verhältnisse hat der Steuerpflichtige die Unterlagen
+nach den Absätzen 1 und 2 zusammen mit seiner Steuererklärung oder
+seinem Antrag auf Lohnsteuerermäßigung, ansonsten auf Anforderung des
+Finanzamts vorzulegen.
+
+(3a)
+1             Die Gewährung des Behinderten-Pauschbetrags setzt
+voraus, dass die für die Feststellung einer Behinderung zuständige
+Stelle als mitteilungspflichtige Stelle ihre Feststellungen zur
+Behinderung nach den Absätzen 1 und 2 nach Maßgabe des § 93c der
+Abgabenordnung an die für die Besteuerung des Antragstellers
+zuständige Finanzbehörde übermittelt hat.
+2             Die nach Satz 1 mitteilungspflichtige Stelle hat ihre
+Feststellungen auf schriftlichen oder elektronischen Antrag derjenigen
+Person, die diese Feststellungen begehrt, an die nach Satz 1
+zuständige Finanzbehörde zu übermitteln.
+3             Die Person hat der mitteilungspflichtigen Stelle zu
+diesem Zweck ihre Identifikationsnummer (§ 139b der Abgabenordnung)
+mitzuteilen.
+4             Neben den nach § 93c Absatz 1 der Abgabenordnung zu
+übermittelnden Daten sind zusätzlich folgende Daten zu übermitteln:
+
+1.  der Grad der Behinderung,
+
+
+2.  die Feststellung weiterer gesundheitlicher Merkmale (Merkzeichen):
+
+    a)  G (erheblich gehbehindert),
+
+
+    b)  aG (außergewöhnlich gehbehindert),
+
+
+    c)  B (ständige Begleitung notwendig),
+
+
+    d)  H (hilflos),
+
+
+    e)  Bl (blind),
+
+
+    f)  Gl (gehörlos),
+
+
+
+
+
+3.  die Feststellung, dass die Behinderung zu einer dauernden Einbuße der
+    körperlichen Beweglichkeit geführt hat,
+
+
+4.  die Feststellung, dass die Behinderung auf einer typischen
+    Berufskrankheit beruht,
+
+
+5.  die Einstufung als pflegebedürftige Person mit schwersten
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten in den
+    Pflegegraden 4 oder 5,
+
+
+6.  die Dauer der Gültigkeit der Feststellung.
+
+
+
+5             Die mitteilungspflichtige Stelle hat jede Änderung der
+Feststellungen nach Satz 4 abweichend von § 93c Absatz 1 Nummer 1 der
+Abgabenordnung unverzüglich zu übermitteln.
+6             § 72a Absatz 4, § 93c Absatz 1 Nummer 3 und Absatz 4
+sowie § 203a der Abgabenordnung finden keine Anwendung.
 
 (4)
-1             Ist der behinderte Mensch verstorben und kann sein
-Rechtsnachfolger die Unterlagen nach den Absätzen 1 und 2 nicht
+1             Ist der Mensch mit Behinderungen verstorben und kann
+sein Rechtsnachfolger die Unterlagen nach den Absätzen 1 und 2 nicht
 vorlegen, so genügt zum Nachweis eine gutachtliche Stellungnahme der
-nach § 69 Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen
+nach § 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen
 Behörde.
 2             Diese Stellungnahme hat die Finanzbehörde einzuholen.
 
@@ -1333,9 +1497,10 @@ Behörde.
 (1)
 1             Der Nutzungssatz muss periodisch für zehn Jahre durch
 die Finanzbehörde festgesetzt werden.
-2             Er muss den Nutzungen entsprechen, die unter
+2             Er muss den Holznutzungen entsprechen, die unter
 Berücksichtigung der vollen Ertragsfähigkeit des Waldes in Kubikmetern
-(Festmetern) nachhaltig erzielbar sind.
+im Festmaß (Erntefestmeter Derbholz ohne Rinde) nachhaltig erzielbar
+sind.
 
 (2)
 1             Der Festsetzung des Nutzungssatzes ist ein amtlich
@@ -1345,7 +1510,7 @@ die Periode von zehn Jahren beginnt.
 2             Es soll innerhalb eines Jahres nach diesem Stichtag der
 Finanzbehörde übermittelt werden.
 3             Sofern der Zeitraum, für den es aufgestellt wurde, nicht
-unmittelbar an den vorherigen Zeitraum der Nutzungssatzfeststellung
+unmittelbar an den vorherigen Zeitraum der Nutzungssatzfestsetzung
 anschließt, muss es spätestens auf den Anfang des Wirtschaftsjahrs des
 Schadensereignisses aufgestellt sein.
 
@@ -1397,13 +1562,15 @@ werden.
 
 ### § 70 Ausgleich von Härten in bestimmten Fällen
 
-1             Betragen in den Fällen des § 46 Abs. 2 Nr. 1 bis 7 des
-Gesetzes die einkommensteuerpflichtigen Einkünfte, von denen der
-Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist, insgesamt
-mehr als 410 Euro, so ist vom Einkommen der Betrag abzuziehen, um den
-die bezeichneten Einkünfte, vermindert um den auf sie entfallenden
-Altersentlastungsbetrag (§ 24a des Gesetzes) und den nach § 13 Abs. 3
-des Gesetzes zu berücksichtigenden Betrag, niedriger als 820 Euro sind
+1             Betragen in den Fällen des § 46 Absatz 2 Nummer 1 bis 7
+des Gesetzes die einkommensteuerpflichtigen Einkünfte, von denen der
+Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist und die nicht
+nach § 32d Absatz 6 des Gesetzes der tariflichen Einkommensteuer
+unterworfen wurden, insgesamt mehr als 410 Euro, so ist vom Einkommen
+der Betrag abzuziehen, um den die bezeichneten Einkünfte, vermindert
+um den auf sie entfallenden Altersentlastungsbetrag (§ 24a des
+Gesetzes) und den nach § 13 Absatz 3 des Gesetzes zu
+berücksichtigenden Betrag, niedriger als 820 Euro sind
 (Härteausgleichsbetrag).
 2             Der Härteausgleichsbetrag darf nicht höher sein als die
 nach Satz 1 verminderten Einkünfte.
@@ -1432,23 +1599,25 @@ solche Personenvereinigungen, die ihre Geschäftsleitung oder ihren
 Sitz im Geltungsbereich des Gesetzes haben.
 
 (2) Urheberrechte im Sinne des § 50a Abs. 1 Nr. 3 des Gesetzes sind
-Rechte, die nach Maßgabe des Urheberrechtsgesetzes vom 9. September
-1965 (BGBl. I S. 1273), zuletzt geändert durch das Gesetz vom 7.
-Dezember 2008 (BGBl. I S. 2349), in der jeweils geltenden Fassung
-geschützt sind.
+Rechte, die nach Maßgabe des Urheberrechtsgesetzes geschützt sind.
 
-(3) Gewerbliche Schutzrechte im Sinne des § 50a Abs. 1 Nr. 3 des
-Gesetzes sind Rechte, die nach Maßgabe des Geschmacksmustergesetzes
-vom 12. März 2004 (BGBl. I S. 390), zuletzt geändert durch Artikel 7
-des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191), des Patentgesetzes in
-der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S.
-1), zuletzt geändert durch Artikel 2 des Gesetzes vom 7. Juli 2008
-(BGBl. I S. 1191), des Gebrauchsmustergesetzes in der Fassung der
-Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), zuletzt geändert
-durch Artikel 3 des Gesetzes vom 7. Juli 2008 (BGBl. I S. 1191) und
-des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S.
-156), zuletzt geändert durch Artikel 4 des Gesetzes vom 7. Juli 2008
-(BGBl. I S. 1191), in der jeweils geltenden Fassung geschützt sind.
+(3) Gewerbliche Schutzrechte im Sinne des § 50a Absatz 1 Nummer 3 des
+Gesetzes sind Rechte, die nach Maßgabe
+
+1.  des Designgesetzes,
+
+
+2.  des Patentgesetzes,
+
+
+3.  des Gebrauchsmustergesetzes oder
+
+
+4.  des Markengesetzes
+
+
+
+geschützt sind.
 
 
 ### § 73b (weggefallen)
@@ -1531,14 +1700,11 @@ Höhe und Art der von der Bemessungsgrundlage des Steuerabzugs
 abgezogenen Betriebsausgaben oder Werbungskosten und die Höhe des
 Steuerabzugs zu übersenden.
 3             Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund
-der Vorschrift des § 50a Abs. 2 Satz 3 oder Abs. 4 Satz 1 des Gesetzes
-nicht vorzunehmen ist oder auf Grund eines Abkommens zur Vermeidung
-der Doppelbesteuerung nicht oder nicht in voller Höhe vorzunehmen ist.
+des § 50a Absatz 2 Satz 3 oder Absatz 4 Satz 1 des Gesetzes nicht
+vorzunehmen ist oder auf Grund des § 50c Absatz 2 des Gesetzes nicht
+oder nicht in voller Höhe vorzunehmen ist.
 4             Die Steueranmeldung ist nach amtlich vorgeschriebenem
-Vordruck auf elektronischem Weg zu übermitteln nach Maßgabe der
-Steuerdaten-Übermittlungsverordnung vom 28. Januar 2003 (BGBl. I S.
-139), geändert durch die Verordnung vom 20. Dezember 2006 (BGBl. I S.
-3380), in der jeweils geltenden Fassung.
+Datensatz durch Datenfernübertragung zu übermitteln.
 5             Auf Antrag kann das Bundeszentralamt für Steuern zur
 Vermeidung unbilliger Härten auf eine elektronische Übermittlung
 verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder
@@ -1550,9 +1716,18 @@ eine Bescheinigung des nach den abgabenrechtlichen Vorschriften für
 die Besteuerung seines Einkommens zuständigen Finanzamts nachweist,
 dass er unbeschränkt steuerpflichtig ist.
 7             Die Sätze 1, 2, 4 und 5 gelten entsprechend für die
-Steuer nach § 50a Abs. 7 des Gesetzes mit der Maßgabe, dass die Steuer
-an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das
-den Steuerabzug angeordnet hat.
+Steuer nach § 50a Absatz 7 des Gesetzes mit der Maßgabe, dass
+
+1.  die Steuer an das Finanzamt abzuführen und bei dem Finanzamt
+    anzumelden ist, das den Steuerabzug angeordnet hat, und
+
+
+2.  bei entsprechender Anordnung die innerhalb eines Monats einbehaltene
+    Steuer jeweils bis zum zehnten des Folgemonats anzumelden und
+    abzuführen ist.
+
+
+
 
 
 ### § 73f Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes
@@ -1677,8 +1852,8 @@ der Anschaffungs- oder Herstellungskosten.
 
 2.  dass die Förderungswürdigkeit dieser Vorhaben von der obersten
     Landesbehörde oder der von ihr bestimmten Stelle im Einvernehmen mit
-    dem Bundesministerium für Wirtschaft und Technologie bescheinigt
-    worden ist.
+    dem Bundesministerium für Wirtschaft und Energie bescheinigt worden
+    ist.
 
 
 
@@ -1979,28 +2154,25 @@ zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den
 folgenden Absätzen nichts anderes bestimmt ist, erstmals für den
-Veranlagungszeitraum 2012 anzuwenden.
+Veranlagungszeitraum 2020 anzuwenden.
 
-(1a) § 7 der Einkommensteuer-Durchführungsverordnung 1997 in der
+(1a) § 1 in der Fassung des Artikels 2 des Gesetzes vom 18. Juli 2014
+(BGBl. I S. 1042) ist in allen Fällen anzuwenden, in denen die
+Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
+
+(1b) § 7 der Einkommensteuer-Durchführungsverordnung 1997 in der
 Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist
 letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar
 1999 endet.
 
-(1b) Die §§ 8 und 8a der Einkommensteuer-Durchführungsverordnung 1986
+(1c) Die §§ 8 und 8a der Einkommensteuer-Durchführungsverordnung 1986
 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239)
 sind letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1.
 Januar 1990 endet.
 
-(2)
-1             § 8c Abs. 1 und 2 Satz 3 in der Fassung dieser
-Verordnung ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem
-31\. August 1993 beginnen.
-2             § 8c Abs. 2 Satz 1 und 2 ist erstmals für
-Wirtschaftsjahre anzuwenden, die nach dem 30. Juni 1990 beginnen.
-3             Für Wirtschaftsjahre, die vor dem 1. Mai 1984 begonnen
-haben, ist § 8c Abs. 1 und 2 der Einkommensteuer-
-Durchführungsverordnung 1981 in der Fassung der Bekanntmachung vom 23.
-Juni 1982 (BGBl. I S. 700) weiter anzuwenden.
+(2) § 8c Absatz 2 Satz 1 in der Fassung des Artikels 1 der Verordnung
+vom 25. Juni 2020 (BGBl. I S. 1495) kann erstmals für Wirtschaftsjahre
+angewendet werden, die nach dem 31. Dezember 2018 beginnen.
 
 (2a) § 11c Abs. 2 Satz 3 ist erstmals für das nach dem 31. Dezember
 1998 endende Wirtschaftsjahr anzuwenden.
@@ -2011,6 +2183,10 @@ Versicherungsverträgen nach dem 13. Februar 1992 zur Tilgung oder
 Sicherung von Darlehen eingesetzt wurden, noch nicht angezeigt worden
 sind.
 
+(2c) § 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf
+Zuwendungen anzuwenden, die dem Zuwendungsempfänger nach dem 31.
+Dezember 2019 zufließen.
+
 (3) § 29 Abs. 3 bis 6, §§ 31 und 32 sind in der vor dem 1. Januar 1996
 geltenden Fassung für vor diesem Zeitpunkt an Bausparkassen geleistete
 Beiträge letztmals für den Veranlagungszeitraum 2005 anzuwenden.
@@ -2020,6 +2196,21 @@ Beiträge letztmals für den Veranlagungszeitraum 2005 anzuwenden.
 anzuwenden, das nach dem 31. Dezember 2011 beginnt.
 
 (3b)
+1             § 52 ist erstmals für den übernächsten
+Veranlagungszeitraum anzuwenden, der auf den Veranlagungszeitraum
+folgt, in dem die für die Anwendung erforderlichen technischen und
+organisatorischen Voraussetzungen in der Finanzverwaltung für eine
+Umsetzung der Regelung vorliegen.
+2             Das Bundesministerium der Finanzen gibt im Einvernehmen
+mit dem Bundesministerium für Ernährung und Landwirtschaft sowie den
+obersten Finanzbehörden der Länder im Bundessteuerblatt den
+Veranlagungszeitraum bekannt, ab dem die Regelung des § 52 erstmals
+anzuwenden ist.
+3             Bisher schon bestehende Mitteilungspflichten sind für
+die Veranlagungszeiträume vor erstmaliger Anwendung des § 52 weiter zu
+erfüllen.
+
+(3c)
 1             § 54 Abs. 1 Satz 2 in der Fassung des Artikels 1a des
 Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150) ist erstmals für
 Vorgänge nach dem 31. Dezember 2007 anzuwenden.
@@ -2028,28 +2219,47 @@ vom 7. Dezember 2006 (BGBl. I S. 2782) ist erstmals auf Verfügungen
 über Anteile an Kapitalgesellschaften anzuwenden, die nach dem 31.
 Dezember 2006 beurkundet werden.
 
-(3c) § 56 in der Fassung des Artikels 10 des Gesetzes vom 29. Dezember
+(3d) § 56 in der Fassung des Artikels 10 des Gesetzes vom 29. Dezember
 2003 (BGBl. I S. 3076) ist erstmals für den Veranlagungszeitraum 2004
 anzuwenden.
 
-(3d) § 60 Abs. 1 und 4 in der Fassung des Artikels 2 des Gesetzes vom
+(3e) § 60 Abs. 1 und 4 in der Fassung des Artikels 2 des Gesetzes vom
 20\. Dezember 2008 (BGBl. I S. 2850) ist erstmals für Wirtschaftsjahre
 (Gewinnermittlungszeiträume) anzuwenden, die nach dem 31. Dezember
 2010 beginnen.
 
-(3e) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes
+(3f) § 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes
 vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals auf Verluste
 anzuwenden, die aus dem Veranlagungszeitraum 2004 in den
 Veranlagungszeitraum 2003 zurückgetragen werden.
 
-(3f) § 64 Absatz 1 in der Fassung des Artikels 2 des Gesetzes vom 1.
-November 2011 (BGBl. I S. 2131) ist in allen Fällen anzuwenden, in
-denen die Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
+(3g)
+1             § 65 Absatz 1 in der Fassung des Artikels 10 des
+Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) ist erstmals für den
+Veranlagungszeitraum 2021 anzuwenden.
+2             § 65 Absatz 3a ist erstmals für den Veranlagungszeitraum
+anzuwenden, der auf den Veranlagungszeitraum folgt, in dem die für die
+Anwendung erforderlichen Programmierarbeiten für das elektronische
+Datenübermittlungsverfahren abgeschlossen sind.
+3             Das Bundesministerium der Finanzen gibt im Einvernehmen
+mit den obersten Finanzbehörden der Länder im Bundessteuerblatt Teil I
+den Veranlagungszeitraum bekannt, ab dem die Regelung des § 65 Absatz
+3a erstmals anzuwenden ist.
+4             Mit der Anwendung von § 65 Absatz 3a ist § 65 Absatz 1
+Nummer 1 und 2 Buchstabe a, Absatz 2 Satz 1 und 2 zweiter Halbsatz
+nicht weiter anzuwenden.
+5             Der Anwendungsbereich des § 65 Absatz 3 wird auf die
+Fälle des § 65 Absatz 1 Nummer 2 Buchstabe b beschränkt.
+6             Zu diesem Zeitpunkt noch gültige und dem Finanzamt
+vorliegende Feststellungen über eine Behinderung werden bis zum Ende
+ihrer Gültigkeit weiter berücksichtigt, es sei denn, die
+Feststellungen ändern sich vor Ablauf der Gültigkeit.
 
-(3g) § 70 in der Fassung des Gesetzes vom 19. Dezember 2000 (BGBl. I
-S. 1790) ist erstmals ab dem Veranlagungszeitraum 2002 anzuwenden.
+(3h) § 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli
+2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014
+anzuwenden.
 
-(3h)
+(3i)
 1             Die §§ 73a, 73c, 73d Abs. 1 sowie die §§ 73e und 73f
 Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember
 2008 (BGBl. I S. 2794) sind erstmals auf Vergütungen anzuwenden, die
@@ -2061,14 +2271,17 @@ Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S.
 3             § 73e Satz 4 in der Fassung der Bekanntmachung vom 10.
 Mai 2000 (BGBl. I S. 717) ist letztmals auf Vergütungen anzuwenden,
 die vor dem 1. Januar 2010 zufließen.
-4             Der Zeitpunkt der erstmaligen Anwendung des § 73d Absatz
-1 Satz 3, des § 73e Satz 1, 2 und 5 sowie des § 73g Absatz 1 und 2 in
-der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I
-S. 2702) wird durch eine Rechtsverordnung der Bundesregierung
-bestimmt, die der Zustimmung des Bundesrates bedarf; dieser Zeitpunkt
-darf nicht vor dem 31. Dezember 2011 liegen.
+4             § 73d Absatz 1 Satz 3, § 73e Satz 1, 2 und 5 sowie § 73g
+Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10.
+August 2009 (BGBl. I S. 2702) sind erstmals auf Vergütungen
+anzuwenden, die nach dem 31. Dezember 2013 zufließen.
+5             § 73a Absatz 3 in der am 30. Dezember 2014 geltenden
+Fassung ist erstmals ab dem 1. Januar 2014 anzuwenden.
+6             § 73e Satz 7 in der am 31. Juli 2014 geltenden Fassung
+ist erstmals auf Vergütungen anzuwenden, für die der Steuerabzug nach
+dem 31. Dezember 2014 angeordnet worden ist.
 
-(3i) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der
+(3j) § 80 der Einkommensteuer-Durchführungsverordnung 1997 in der
 Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist
 letztmals für das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar
 1999 endet.

@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1249
 
+Zuletzt geändert durch
+:   Art. 54 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -796,14 +799,13 @@ Schwerpunkten nach den folgenden Nummern 1 bis 5 umfassen:
 anwendungsbezogenen schriftlichen Ausarbeitung, die eine oder mehrere
 Aufgaben umfassen soll, zu prüfen. Dabei soll die Fähigkeit
 nachgewiesen werden, diese analysieren, strukturieren und einer
-begründeten Lösung zuführen zu können. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin bestimmt einen der nachfolgend genannten
-Wahlqualifikationsschwerpunkte, in dem geprüft werden soll. In der
-Ausarbeitung sind alle Qualifikationsinhalte des ausgewählten
-Schwerpunktes zu berücksichtigen. Im Einzelnen kann die Ausarbeitung
-folgende Qualifikationsinhalte des Handlungsbereiches
-„Spezialisierungsgebiete“ mit den Schwerpunkten nach den folgenden
-Nummern 1 bis 4 umfassen:
+begründeten Lösung zuführen zu können. Die zu prüfende Person bestimmt
+einen der nachfolgend genannten Wahlqualifikationsschwerpunkte, in dem
+geprüft werden soll. In der Ausarbeitung sind alle
+Qualifikationsinhalte des ausgewählten Schwerpunktes zu
+berücksichtigen. Im Einzelnen kann die Ausarbeitung folgende
+Qualifikationsinhalte des Handlungsbereiches „Spezialisierungsgebiete“
+mit den Schwerpunkten nach den folgenden Nummern 1 bis 4 umfassen:
 
 1.  Im Wahlqualifikationsschwerpunkt „Automatisierungs- und
     Prozessleittechnik“ soll die Fähigkeit nachgewiesen werden,
@@ -916,67 +918,169 @@ zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
-
-(1) Die Prüfungsteile „Fachrichtungsübergreifende
-Basisqualifikationen“ und „Handlungsspezifische Qualifikationen“ sind
-gesondert nach Punkten zu bewerten.
-
-(2) Für den Prüfungsteil „Fachrichtungsübergreifende
-Basisqualifikationen“ ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
-
-(3) Bei der Bewertung der Prüfungsleistungen in der Situationsaufgabe
-I und in der schriftlichen Aufgabenstellung in der Situationsaufgabe
-II sind die Gewichtungen der Handlungsbereiche nach § 5 Absatz 6 und 7
-zugrunde zu legen. In der Situationsaufgabe II ist das Fachgespräch
-gesondert zu bewerten. Die Prüfungsleistungen in der schriftlichen
-Aufgabenstellung und im Fachgespräch sind gleichgewichtig zu bewerten
-und zu einer Punktebewertung zusammenzufassen. Die Prüfungsleistung in
-der schriftlichen Ausarbeitung im Handlungsbereich
-„Spezialisierungsgebiete“ ist gesondert zu bewerten.
-
-(4) Für den Prüfungsteil „Handlungsspezifische Qualifikationen“ ist
-eine Note aus den Punktebewertungen der Prüfungsleistungen in den
-Situationsaufgaben I und II sowie in der schriftlichen Ausarbeitung zu
-bilden; dabei sind die Punktebewertungen im Verhältnis 45 zu 45 zu 10
-zu gewichten.
-
-(5) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin im Prüfungsteil „Fachrichtungsübergreifende
-Basisqualifikationen“ in allen Prüfungsbereichen mindestens
-ausreichende Leistungen und im Prüfungsteil „Handlungsspezifische
-Qualifikationen“ in den Situationsaufgaben I und II sowie in der
-schriftlichen Ausarbeitung jeweils mindestens ausreichende Leistungen
-erbracht hat.
-
-(6) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. In das Zeugnis nach der Anlage 2 sind die
-in den Prüfungsteilen „Fachrichtungsübergreifende
-Basisqualifikationen“ und „Handlungsspezifische Qualifikationen“
-erzielten Noten und die Punktebewertungen in den einzelnen
-Prüfungsbereichen nach § 4 sowie die Punktebewertungen in den
-Situationsaufgaben I und II sowie in der schriftlichen Ausarbeitung
-einzutragen.
-Im Fall der Freistellung nach § 6 sind Ort und Datum sowie Bezeichnung
-des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
-Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Qualifikationen nach § 2 Absatz 2 ist im Zeugnis einzutragen.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder
+Satz 3 oder § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+sind die Prüfungsleistungen für jeden Prüfungsbereich einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist als Bewertung für den
+Prüfungsteil das arithmetische Mittel zu berechnen.
+
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die Situationsaufgabe I,
+
+
+2.  in der Situationsaufgabe II
+
+    a)  die schriftliche Aufgabenstellung nach § 5 Absatz 7,
+
+
+    b)  das Fachgespräch und
+
+
+
+
+
+3.  die schriftliche Ausarbeitung im Handlungsbereich
+    „Spezialisierungsgebiete“.
+
+
+
+Aus den Bewertungen für die schriftliche Aufgabenstellung und für das
+Fachgespräch ist als zusammengefasste Bewertung der Situationsaufgabe
+II das arithmetische Mittel zu berechnen. Aus der Bewertung der
+Situationsaufgabe I, der zusammengefassten Bewertung der
+Situationsaufgabe II und der Bewertung für die schriftliche
+Ausarbeitung im Handlungsbereich „Spezialisierungsgebiete“ ist als
+Bewertung des Prüfungsteils „Handlungsspezifische Qualifikationen“ das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Situationsaufgabe I mit 45 Prozent,
+
+
+2.  die zusammengefasste Bewertung der Situationsaufgabe II mit 45 Prozent
+    und
+
+
+3.  die schriftliche Ausarbeitung im Handlungsbereich
+    „Spezialisierungsgebiete“ mit 10 Prozent.
+
+
+
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in jedem Prüfungsbereich des Prüfungsteils „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in der Situationsaufgabe I,
+
+
+    b)  in der zusammengefassten Bewertung der Situationsaufgabe II und
+
+
+    c)  in der schriftlichen Ausarbeitung im Handlungsbereich
+        „Spezialisierungsgebiete“.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“,
+
+
+3.  die Bewertung der schriftlichen Situationsaufgabe I nach § 5 Absatz 6
+    oder der schriftlichen Ausarbeitung nach § 5 Absatz 8, wenn eine
+    mündliche Ergänzungsprüfung durchgeführt wurde.
+
+
+
+
+(3) Der Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“, den Bewertungen für die Situationsaufgaben I
+und II und der Bewertung der schriftlichen Ausarbeitung im
+Handlungsbereich „Spezialisierungsgebiete“ ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“ mit 25 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
@@ -990,7 +1094,7 @@ Ausarbeitung zu befreien, wenn die darin in einer vorangegangenen
 Prüfung erbrachten Leistungen ausgereicht haben.
 
 
-## § 9 Zusatzqualifikationen
+## § 11 Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen,
 die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Absatz 4
@@ -998,7 +1102,7 @@ abzulegen. Über die bestandene Prüfung ist eine Bescheinigung
 auszustellen. § 8 Absatz 1 gilt entsprechend.
 
 
-## § 10 Übergangsvorschrift
+## § 12 Übergangsvorschrift
 
 Die bis zum Ablauf des 30. September 2010 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden. Auf
@@ -1007,7 +1111,7 @@ dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall
 keine Anwendung.
 
 
-## § 11 Inkrafttreten, Außerkrafttreten
+## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2010 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -1016,293 +1120,389 @@ vom 19. Mai 1989 (BGBl. I S. 982), die zuletzt durch Artikel 22 der
 Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
 außer Kraft.
 
-(zu § 7 Absatz 6)
+(zu den §§ 7 und 8)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2010, 1256)
-
-
-*    *
-    *   ....................................................
-
-    *
-
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
-
-    *
+(Fundstelle: BGBl. I 2019, 2343 – 2344)
 
 
-   ## Zeugnis
+*    *   Punkte
 
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-## Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-
-
-*    *   Herr/Frau ....................................................
-
-
-*    *   geboren am ....................................................
-
-    *   in ....................................................
-
-
-*    *   hat am ....................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-## Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung
-Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom
-26\. August 2010 (BGBl. I S. 1249) bestanden.
-
-
-*    *   Datum ........................................
-
-    *
-    *
-
-*    *   Unterschrift(en) ........................................
-
-    *
-    *
-
-*    *
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
-
-
-   (zu § 7 Absatz 6)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. I 2010, 1257 - 1258)
-
-
-*    *
-    *   ........................................
-
-    *
-
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
-
-    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-## Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-
-
-*    *   Herr/Frau  ........................................
-
-
-*    *   geboren am  ........................................
-
-    *   in  ........................................
-
-
-*    *   hat am  ........................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Industriemeister – Fachrichtung Pharmazie
-## Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung
-Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom
-26\. August 2010 (BGBl. I S. 1249) mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *
-    *[^f1_774521_11_BJNR124900010BJNE001400000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Fachrichtungsübergreifende Basisqualifikationen
+    *   1,0
 
-    *
-    *
-    *   ..............
+    *   sehr gut
 
-
-*    *
-    *   Prüfungsbereiche:
-
-    *
-    *
-    *
-
-*    *
-    *   1. Rechtsbewusstes Handeln
-
-    *   ..............
-
-    *
-    *
-
-*    *
-    *   2. Betriebswirtschaftliches Handeln
-
-    *   ..............
-
-    *
-    *
-
-*    *
-    *   3. Anwenden von Methoden der Information, Kommunikation und Planung
-
-    *   ..............
-
-    *
-    *
-
-*    *
-    *   4. Zusammenarbeit im Betrieb
-
-    *   ..............
-
-    *
-    *
-
-*    *
-    *   (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die
-        Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
-        ..............
-        in .............. vor ..............
-        abgelegte Prüfung vom Prüfungsbestandteil ..............
-        freigestellt.“)
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   II.
+*    *   98 und 99
 
-    *   Handlungsspezifische Qualifikationen
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Punkte
-
-    *
-    *[^f1_774521_12_BJNR124900010BJNE001400000]
-   Note
+    *   1,1
 
 
-*    *
-    *   1. Situationsaufgabe I im Handlungsbereich
-        „Pharmazeutische Fertigung und Verpackung“
+*    *   96 und 97
 
-    *   ..............
-
-    *
-    *   ..............
+    *   1,2
 
 
-*    *
-    *   2. Situationsaufgabe II im Handlungsbereich
-        „Organisation, Führung und Kommunikation“
+*    *   94 und 95
 
-    *   ..............
-
-    *
-    *   ..............
+    *   1,3
 
 
-*    *
-    *   3. Schriftliche Ausarbeitung im Handlungsbereich
-        „Spezialisierungsgebiete“ mit dem
-        Wahlqualifikationsschwerpunkt
+*    *   92 und 93
 
-    *
-    *
-    *
-
-*    *
-    *   ......................................................................
-        ......... ..................
-
-    *   ..............
-
-    *
-    *   ..............
+    *   1,4
 
 
-*    *
-    *   (Im Fall des § 6: „ „Der Prüfungsteilnehmer“ oder „Die
-        Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
-        ..............
-        in .............. vor ..............
-        abgelegte Prüfung vom Prüfungsbestandteil ..............
-        freigestellt.“)
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
-*    *   III.
+*    *   90
 
-    *   Berufs- und arbeitspädagogische Qualifikationen
-
-    *
-    *
-    *
-
-*    *
-    *   Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 3 Absatz 3
-        den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-        Eignung durch die Prüfung am .............. in ..............
-        vor .............. erbracht.
+    *   1,6
 
 
+*    *   89
+
+    *   1,7
 
 
-*    *   Datum ..............
+*    *   88
 
-    *
-    *
-
-*    *   Unterschrift(en) ..............
-
-    *
-    *
-
-*    *
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
+    *   1,8
 
 
-   Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ...............
-[^f1_774521_11_BJNR124900010BJNE001400000]:     Bei der Ermittlung der Note sind die Punktebewertungen für die
-    Situationsaufgaben I und II sowie die schriftliche Ausarbeitung im
-    Verhältnis 45 zu 45 zu 10 gewichtet worden.
-[^f1_774521_12_BJNR124900010BJNE001400000]: 
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2344 – 2345)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der Prüfungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils,
+
+
+    b)  Benennung der Situationsaufgabe I im Handlungsbereich „Pharmazeutische
+        Fertigung und Verpackung“ und Bewertung mit Punkten und Note,
+
+
+    c)  Benennung der Situationsaufgabe II im Handlungsbereich „Organisation,
+        Führung und Kommunikation“ und Bewertung mit Punkten und Note sowie
+
+
+    d)  Benennung der schriftlichen Ausarbeitung im Handlungsbereich
+        „Spezialisierungsgebiete“ mit Benennung des
+        Wahlqualifikationsschwerpunkts und Bewertung mit Punkten und Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
+
+
+
+

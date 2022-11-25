@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 6. 5.1976 I 1169,
 
 Zuletzt geändert durch
-:   Art. 20 Abs. 3 G v. 13.12.2007 I 2904
+:   Art. 156 G v. 29.3.2017 I 626
+
+G aufgeh. durch
+:   Art. 58 Nr. 12 G v. 12.12.2019 I 2652 mWv 1.1.2024
 
 
 ## I. - Anwendungsbereich und Zuständigkeit
@@ -111,9 +114,8 @@ gewöhnlichen Aufenthalts die bisherige Zuständigkeit bestehen.
 
 ### § 6
 
-Die Anträge in Versorgungsangelegenheiten sind schriftlich oder
-mündlich unter Aufnahme einer Niederschrift bei dem Versorgungsamt zu
-stellen, auch wenn für die Entscheidung das Landesversorgungsamt
+Die Anträge in Versorgungsangelegenheiten sind bei dem Versorgungsamt
+zu stellen, auch wenn für die Entscheidung das Landesversorgungsamt
 zuständig ist.
 
 

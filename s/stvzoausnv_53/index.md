@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1665
 
+Geändert durch
+:   Art. 4 V v. 26.7.2013 I 2803
+
 
 
 ## Eingangsformel
@@ -60,21 +63,22 @@ bei Fahrten im Kombinierten Verkehr
 
 
 
-(2) Kombinierter Verkehr im Sinne des Absatzes 1 ist der Transport von
-Gütern in einem Kraftfahrzeug, einem Anhänger oder in Ladegefäßen, die
-mit Geräten umgeschlagen werden, wenn der Transport auf einem Teil der
-Strecke mit der Eisenbahn, dem Binnen-, Küsten- oder Seeschiff und auf
-dem anderen Teil mit dem Kraftfahrzeug durchgeführt wird (KV-
-Transportkette).
+(2) Kombinierter Verkehr im Sinne des Absatzes 1 sind
+Güterbeförderungen, bei denen der Lastkraftwagen, der Anhänger, der
+Sattelanhänger mit oder ohne Zugmaschine, der Wechselbehälter oder der
+Container von mindestens 20 Fuß Länge die Zu- und Ablaufstrecke auf
+der Straße und den übrigen Teil der Strecke auf der Schiene oder auf
+einer Binnenwasserstraße oder auf See zurücklegt.
 
 (3) Bei der Verwendung eines Fahrzeuges nach Absatz 1 ist bei der
-Anfuhr eine Reservierungsbestätigung nach § 6 Abs. 2 der Verordnung
-über den grenzüberschreitenden Kombinierten Verkehr und bei der Abfuhr
-ein von der Eisenbahnverwaltung abgestempelter Frachtbrief oder ein
-Beförderungspapier für den Bahntransport oder eine Bescheinigung des
-Schiffahrttreibenden über die Benutzung eines Binnen- oder Seeschiffs
-mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
-auszuhändigen.
+Anfuhr eine Reservierungsbestätigung nach § 17 Absatz 1 der Verordnung
+über den grenzüberschreitenden Güterkraftverkehr und den
+Kabotageverkehr vom 28. Dezember 2011 (BGBl. 2012 I S. 42) und bei der
+Abfuhr ein von der Eisenbahnverwaltung abgestempelter Frachtbrief oder
+ein Beförderungspapier für den Bahntransport oder eine Bescheinigung
+des Schiffahrttreibenden über die Benutzung eines Binnen- oder
+Seeschiffs mitzuführen und zuständigen Personen auf Verlangen zur
+Prüfung auszuhändigen.
 
 
 ## § 2

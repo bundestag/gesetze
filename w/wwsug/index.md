@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 518
 
-Geändert durch
-:   Art. 36 G v. 25.7.1991 I 1606
+Zuletzt geändert durch
+:   Art. 1 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -95,62 +95,12 @@ Ausbildung der Jugendlichen.
 
 
 
-## Art 21 - Erleichterung der Tätigkeit von Rechtsanwälten und Patentanwälten aus der Deutschen Demokratischen Republik in der Bundesrepublik Deutschland
+## Art 21 - (weggefallen)
 
 
 
-## § 1
+## (XXXX) §§ 1 bis 3 (weggefallen)
 
-(1) In der Deutschen Demokratischen Republik einschließlich Berlin
-(Ost) zugelassene Rechtsanwälte dürfen im grenzüberschreitenden
-Verkehr im Geltungsbereich dieses Gesetzes die Tätigkeit eines
-Rechtsanwalts ausüben, der im Geltungsbereich dieses Gesetzes
-zugelassen ist. Beschränkungen der Vertretungsbefugnis, die sich aus
-dem Erfordernis der Zulassung bei einem Gericht ergeben, bleiben
-unberührt. § 52 Abs. 2 der Bundesrechtsanwaltsordnung ist auf die in
-Satz 1 bezeichneten Personen entsprechend anzuwenden.
-
-(2) Die in Absatz 1 Satz 1 bezeichneten Personen haben bei der
-Ausübung ihrer Tätigkeit im grenzüberschreitenden Verkehr die Stellung
-eines im Geltungsbereich dieses Gesetzes zugelassenen Rechtsanwalts,
-insbesondere dessen Rechte und Pflichten, soweit diese nicht die
-Zugehörigkeit zu einer Rechtsanwaltskammer, den Wohnsitz und die
-Kanzlei betreffen. Sie beachten insoweit die beruflichen Regeln für
-einen im Geltungsbereich dieses Gesetzes zugelassenen Rechtsanwalt.
-Die berufsrechtliche Ahndung einer schuldhaften Verletzung beruflicher
-Pflichten ist der zuständigen Stelle in der Deutschen Demokratischen
-Republik vorbehalten. Diese wird von den Gerichten,
-Staatsanwaltschaften oder Rechtsanwaltskammern von dem Verdacht einer
-solchen Pflichtverletzung unterrichtet.
-
-
-## § 2
-
-In der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
-zugelassene Patentanwälte dürfen im grenzüberschreitenden Verkehr im
-Geltungsbereich dieses Gesetzes die Tätigkeit eines Patentanwalts
-ausüben, der im Geltungsbereich dieses Gesetzes zugelassen ist. § 1
-Abs. 2 ist entsprechend anzuwenden.
-
-
-## § 3
-
-Für die Anwendung der Vorschriften des Strafgesetzbuches über
-
--   Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Abs. 3
-    Satz 2),
-
-
--   Verletzung von Privatgeheimnissen (§ 203 Abs. 1 Nr. 3, Abs. 3 bis 5,
-    §§ 204, 205),
-
-
--   Gebührenüberhebung (§ 352) und Parteiverrat (§ 356)
-
-
-
-stehen die in § 1 Abs. 1 Satz 1 und § 2 Abs. 1 bezeichneten Personen
-den Rechtsanwälten, Anwälten und Patentanwälten gleich.
 
 
 ## Art 22 - Sonderregelungen zu den Gemeinsamen Vorschriften für die Sozialversicherung
@@ -173,7 +123,7 @@ an, wenn sie innerhalb von drei Monaten nach Eintritt der
 Versicherungs- und Beitragspflicht beantragt wird, sonst ab Eingang
 des Antrags.
 
-(4)
+(4) (weggefallen)
 
 
 ## § 2 Versicherungspflicht auf Antrag in besonderen Fällen
@@ -586,11 +536,12 @@ Bundesminister der Finanzen. Dieser kann diese Befugnis durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf
 das Bundesaufsichtsamt für das Kreditwesen mit der Maßgabe übertragen,
 daß Rechtsverordnungen des Bundesaufsichtsamtes nur nach Anhörung der
-Deutschen Bundesbank ergehen. Der Bundesminister der Justiz ist die
-zuständige Stelle für den Erlaß von Vorschriften über die Aufstellung
-der Umstellungsrechnung und über deren Prüfung; diese Vorschriften
-sind im Einvernehmen mit dem Bundesminister der Finanzen und nach
-Anhörung der Deutschen Bundesbank zu erlassen.
+Deutschen Bundesbank ergehen. Das Bundesministerium der Justiz und für
+Verbraucherschutz ist die zuständige Stelle für den Erlaß von
+Vorschriften über die Aufstellung der Umstellungsrechnung und über
+deren Prüfung; diese Vorschriften sind im Einvernehmen mit dem
+Bundesminister der Finanzen und nach Anhörung der Deutschen Bundesbank
+zu erlassen.
 
 
 ## Art 29 und 30 - 

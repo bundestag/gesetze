@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2009, 2512
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 52 G v. 22.12.2011 I 3044
+:   Art. 18 G v. 22.12.2020 I 3256
+
+Änderung durch
+:   Art. 5 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -32,12 +35,16 @@ inhaltsgleiche Schuldverschreibungen aus Gesamtemissionen
 im Sinne des Pfandbriefgesetzes sowie nicht für Schuldverschreibungen,
 deren Schuldner der Bund, ein Sondervermögen des Bundes, ein Land oder
 eine Gemeinde ist oder für die der Bund, ein Sondervermögen des
-Bundes, ein Land oder eine Gemeinde haftet.
+Bundes, ein Land oder eine Gemeinde haftet. Für nach deutschem Recht
+begebene Schuldverschreibungen, deren Schuldner ein anderer
+Mitgliedstaat des Euro-Währungsgebiets ist, gelten die besonderen
+Vorschriften der §§ 4a bis 4i und 4k des Bundesschuldenwesengesetzes
+entsprechend.
 
 
 ### § 2 Anleihebedingungen
 
-Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und
+(1) Die Bedingungen zur Beschreibung der Leistung sowie der Rechte und
 Pflichten des Schuldners und der Gläubiger (Anleihebedingungen) müssen
 sich vorbehaltlich von Satz 2 aus der Urkunde ergeben. Ist die Urkunde
 nicht zum Umlauf bestimmt, kann in ihr auch auf außerhalb der Urkunde
@@ -45,6 +52,14 @@ niedergelegte Anleihebedingungen Bezug genommen werden. Änderungen des
 Inhalts der Urkunde oder der Anleihebedingungen nach Abschnitt 2
 dieses Gesetzes werden erst wirksam, wenn sie in der Urkunde oder in
 den Anleihebedingungen vollzogen worden sind.
+
+(2) Bei einer elektronisch begebenen Schuldverschreibung müssen die
+Anleihebedingungen bei der registerführenden Stelle des
+Wertpapierregisters, in dem die Schuldverschreibung eingetragen ist,
+zugänglich sein. Änderungen des Inhalts der Anleihebedingungen nach
+Abschnitt 2 dieses Gesetzes werden erst wirksam, wenn sie in den bei
+der registerführenden Stelle zugänglichen Anleihebedingungen vollzogen
+worden sind.
 
 
 ### § 3 Transparenz des Leistungsversprechens
@@ -316,9 +331,11 @@ dritten Tag vor der Gläubigerversammlung zugehen.
 (3) Die Anleihebedingungen können vorsehen, wie die Berechtigung zur
 Teilnahme an der Gläubigerversammlung nachzuweisen ist. Sofern die
 Anleihebedingungen nichts anderes bestimmen, reicht bei
-Schuldverschreibungen, die in einer Sammelurkunde verbrieft sind, ein
-in Textform erstellter besonderer Nachweis des depotführenden
-Instituts aus.
+Schuldverschreibungen, die in einer Sammelurkunde verbrieft sind, oder
+bei elektronisch begebenen Schuldverschreibungen in Form einer
+Sammeleintragung gemäß § 8 Absatz 1 des Gesetzes über elektronische
+Wertpapiere ein in Textform erstellter besonderer Nachweis des
+depotführenden Instituts aus.
 
 
 ### § 11 Ort der Gläubigerversammlung
@@ -330,7 +347,7 @@ Kreditwesengesetzes zum Handel zugelassen, deren Sitz innerhalb der
 Mitgliedstaaten der Europäischen Union oder der anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 ist, so kann die Gläubigerversammlung auch am Sitz dieser
-Wertpapierbörse stattfinden. § 30a Absatz 2 des
+Wertpapierbörse stattfinden. § 48 Absatz 2 des
 Wertpapierhandelsgesetzes bleibt unberührt.
 
 
@@ -450,7 +467,7 @@ der Niederschrift und der Anlagen verlangen.
 (1) Der Schuldner hat die Beschlüsse der Gläubiger auf seine Kosten in
 geeigneter Form öffentlich bekannt zu machen. Hat der Schuldner seinen
 Sitz im Inland, so sind die Beschlüsse unverzüglich im Bundesanzeiger
-zu veröffentlichen; die nach § 30e Absatz 1 des
+zu veröffentlichen; die nach § 50 Absatz 1 des
 Wertpapierhandelsgesetzes vorgeschriebene Veröffentlichung ist jedoch
 ausreichend. Die Anleihebedingungen können zusätzliche Formen der
 öffentlichen Bekanntmachung vorsehen.
@@ -510,7 +527,7 @@ tragen und, wenn das Gericht einem Antrag nach § 9 Absatz 2
 stattgegeben hat, auch die Kosten des Verfahrens.
 
 
-### § 19 Insolvenzverfahren
+### § 19 Insolvenzverfahren und Restrukturierungssachen
 
 (1) Ist über das Vermögen des Schuldners im Inland das
 Insolvenzverfahren eröffnet worden, so unterliegen die Beschlüsse der
@@ -537,6 +554,11 @@ anzubieten.
 nach den Bestimmungen dieses Gesetzes zusätzlich im Internet unter der
 durch § 9 der Insolvenzordnung vorgeschriebenen Adresse veröffentlicht
 werden.
+
+(6) Bezieht ein Schuldner Forderungen aus Schuldverschreibungen in ein
+Instrument des Stabilisierungs- und Restrukturierungsrahmens nach dem
+Unternehmensstabilisierungs- und -restrukturierungsgesetz ein, gelten
+die vorstehenden Absätze entsprechend.
 
 
 ### § 20 Anfechtung von Beschlüssen
@@ -577,13 +599,13 @@ ausschließlich das Landgericht, in dessen Bezirk der Schuldner seinen
 Sitz hat, oder mangels eines Sitzes im Inland das Landgericht
 Frankfurt am Main; § 246 Absatz 3 Satz 2 bis 6 des Aktiengesetzes gilt
 entsprechend. Vor einer rechtskräftigen Entscheidung des Gerichts darf
-der angefochtene Beschluss nicht vollzogen werden, es sei denn, das
-nach Satz 3 zuständige Gericht stellt auf Antrag des Schuldners nach
-Maßgabe des § 246a des Aktiengesetzes fest, dass die Erhebung der
+der angefochtene Beschluss nicht vollzogen werden, es sei denn, ein
+Senat des dem nach Satz 3 zuständigen Gericht im zuständigen Rechtszug
+übergeordneten Oberlandesgerichts stellt auf Antrag des Schuldners
+nach Maßgabe des § 246a des Aktiengesetzes fest, dass die Erhebung der
 Klage dem Vollzug des angefochtenen Beschlusses nicht entgegensteht; §
-246a Absatz 1 Satz 1, Absatz 2, 3 Satz 2, 3 und 6, Absatz 4 des
-Aktiengesetzes gilt entsprechend. Gegen den Beschluss findet die
-sofortige Beschwerde statt. Die Rechtsbeschwerde ist ausgeschlossen.
+246a Absatz 1 Satz 1 und 2, Absatz 2 und 3 Satz 1 bis 4 und 6, Absatz
+4 des Aktiengesetzes gilt entsprechend.
 
 
 ### § 21 Vollziehung von Beschlüssen
@@ -599,7 +621,20 @@ eingereichten Dokumente den vorhandenen Dokumenten in geeigneter Form
 beizufügen. Er hat gegenüber der Wertpapiersammelbank zu versichern,
 dass der Beschluss vollzogen werden darf.
 
-(2) Der gemeinsame Vertreter darf von der ihm durch Beschluss
+(2) Bei einer elektronisch begebenen Schuldverschreibung sind
+Beschlüsse der Gläubigerversammlung, durch die der Inhalt der
+Anleihebedingungen abgeändert oder ergänzt wird, in der Weise zu
+vollziehen, dass die bei der registerführenden Stelle zugänglichen
+Anleihebedingungen, auf die die Eintragung im Wertpapierregister Bezug
+nimmt, ergänzt oder geändert werden. Tag und Uhrzeit der Änderung oder
+Ergänzung sind anzugeben. Der Versammlungs- oder Abstimmungsleiter hat
+dazu den in der Niederschrift dokumentierten Beschlussinhalt an die
+registerführende Stelle zu übermitteln mit dem Ersuchen, die
+eingereichten Dokumente den vorhandenen Dokumenten in geeigneter Form
+beizufügen. Er hat gegenüber der registerführenden Stelle zu
+versichern, dass der Beschluss vollzogen werden darf.
+
+(3) Der gemeinsame Vertreter darf von der ihm durch Beschluss
 erteilten Vollmacht oder Ermächtigung keinen Gebrauch machen, solange
 der zugrunde liegende Beschluss noch nicht vollzogen werden darf.
 

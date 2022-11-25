@@ -28,8 +28,8 @@ Die Auflage der Münze beträgt 2 093 000 Stück, davon ca. 200 000 Stück
 in der Spiegelglanzqualität. Die Prägung erfolgt durch die Staatliche
 Münze Berlin.
 
-Die Münze wird ab dem 11. August 2011 in den Verkehr gebracht. Die 10
--Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
+Die Münze wird ab dem 11. August 2011 in den Verkehr gebracht. Die
+10-Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
 Kupfer-Nickel-Legierung (CuNi25), hat einen Durchmesser von 32,5
 Millimetern und ein Gewicht von 14 Gramm. Die Münze in der
 Spiegelglanzqualität besteht aus einer Legierung von 625 Tausendteilen

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1979, 413
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.10.2008 I 2020
+:   Art. 2 G v. 11.7.2014 I 906
 
 
 ## Eingangsformel
@@ -142,7 +142,7 @@ anzuwenden.
 Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25
 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
 Anwendung dieses Gesetzes entscheidet, erhält eine monatliche
-Entschädigung gemäß § 11 Abs. 1 und 3 des Abgeordnetengesetzes.
+Entschädigung gemäß § 11 Abs. 1, 3 und 4 des Abgeordnetengesetzes.
 
 
 ### § 10 Freifahrtberechtigung und Erstattung von Fahrkosten
@@ -171,11 +171,11 @@ Ausführungsbestimmungen des Ältestenrates.
 ### § 10b Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
 
 Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35,
-35a, 35b, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf vor dem
-Inkrafttreten des Abgeordnetenstatuts des Europäischen Parlaments
-ausgeschiedene Mitglieder des Europäischen Parlaments sowie auf
-Mitglieder des Europäischen Parlaments, die sich nach Artikel 25 Abs.
-1 des Abgeordnetenstatuts des Europäischen Parlaments für die
+35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf
+vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen
+Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie
+auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25
+Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
 Anwendung dieses Gesetzes entscheiden, und ihre Hinterbliebenen mit
 den Maßgaben Anwendung, daß
 
@@ -207,12 +207,8 @@ findet entsprechende Anwendung.
 Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes
 finden auf vor Inkrafttreten des Abgeordnetenstatuts des Europäischen
 Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments und
-ihre Hinterbliebenen Anwendung. Die Vorschriften des § 28 des
-Abgeordnetengesetzes finden für Mitglieder des Europäischen
-Parlaments, die sich nicht nach Artikel 25 Abs. 1 des
-Abgeordnetenstatuts des Europäischen Parlaments für die Fortgeltung
-des Leistungssystems nach diesem Gesetz entscheiden, entsprechend
-Anwendung.
+ihre Hinterbliebenen Anwendung. § 28 des Abgeordnetengesetzes findet
+auf Mitglieder des Europäischen Parlaments entsprechende Anwendung.
 
 
 ### § 12 Beginn und Ende der Ansprüche, Zahlungsvorschriften
@@ -229,8 +225,8 @@ gezahlt.
 zum Ende des Monats, in dem sie ausgeschieden sind. Die Rechte nach §
 10 erlöschen 14 Tage nach Ausscheiden aus dem Europäischen Parlament.
 
-(4) Die Bestimmungen der §§ 31 und 33 des Abgeordnetengesetzes finden
-sinngemäß Anwendung auf Leistungen nach diesem Gesetz.
+(4) Die Bestimmung des § 31 des Abgeordnetengesetzes findet sinngemäß
+Anwendung auf Leistungen nach diesem Gesetz.
 
 
 ## Vierter Abschnitt - Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
@@ -274,9 +270,10 @@ Ruhensbestimmungen des Abgeordnetengesetzes (§ 29) sinngemäß. Dabei
 tritt an die Stelle des Ruhens oder der Kürzung der Bezüge nach dem
 Abgeordnetenstatut des Europäischen Parlaments ein Ruhen oder eine
 Kürzung der Bezüge aus anderen öffentlichen Kassen in jeweils
-entsprechender Höhe. Dies gilt nicht bei einem Zusammentreffen von
-Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments mit
-Bezügen nach diesem Gesetz.
+entsprechender Höhe. Ferner ruhen Bezüge nach diesem Gesetz neben
+Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments in
+Höhe des Betrages, um den diese Bezüge die Höchstversorgungsbezüge
+nach dem Abgeordnetengesetz übersteigen.
 
 
 ## Fünfter Abschnitt - (weggefallen)

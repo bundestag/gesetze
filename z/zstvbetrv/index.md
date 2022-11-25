@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2885
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 3 G v. 17.7.2009 I 2062
+:   Art. 9 G v. 25.6.2021 I 2099
 
 
 ## Eingangsformel
@@ -41,7 +41,9 @@ durch andere Stellen ist unzulässig.
 
 In dem Register werden die in § 4 bezeichneten Daten zu in der
 Bundesrepublik Deutschland geführten Strafverfahren einschließlich
-steuerstrafrechtlicher Verfahren zu dem Zweck gespeichert, die
+steuerstrafrechtlicher Verfahren sowie Verfahren der Behörden der
+Zollverwaltung nach § 14a Absatz 1 und § 14b Absatz 1 des
+Schwarzarbeitsbekämpfungsgesetzes zu dem Zweck gespeichert, die
 Durchführung von Strafverfahren effektiver zu gestalten, insbesondere
 die Ermittlung überörtlich handelnder Täter und Mehrfachtäter zu
 erleichtern, das frühzeitige Erkennen von Tat- und Täterverbindungen
@@ -50,9 +52,11 @@ zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
 
 ## § 3 Übermittlung von Daten an das Register
 
-(1) Die Staatsanwaltschaften und die diesen in steuerstrafrechtlichen
+(1) Die Staatsanwaltschaften, die diesen in steuerstrafrechtlichen
 Angelegenheiten nach § 386 Abs. 2 und § 399 der Abgabenordnung
-gleichgestellten Finanzbehörden (mitteilende Stellen) übermitteln,
+gleichgestellten Finanzbehörden und die Behörden der Zollverwaltung
+nach § 14a Absatz 1 und § 14b Absatz 1 des
+Schwarzarbeitsbekämpfungsgesetzes (mitteilende Stellen) übermitteln,
 sobald ein Strafverfahren bei ihnen anhängig wird, die in § 4
 bezeichneten Daten in einer den Regelungen nach § 10 Abs. 1
 entsprechenden standardisierten Form im Wege der Datenfernübertragung
@@ -193,23 +197,42 @@ Straftatenschlüssels erfolgen.
 dem Register nicht gespeichert.
 
 
-## § 5 Berichtigung, Löschung und Sperrung
+## § 5 Berichtigung, Löschung und Einschränkung der Verarbeitung
 
-Die Berichtigung, Löschung und Sperrung der gespeicherten Daten
-bestimmt sich nach § 494 Abs. 1 bis 3 der Strafprozessordnung.
+Die Berichtigung, Löschung und Einschränkung der Verarbeitung der
+gespeicherten Daten bestimmen sich nach § 494 Absatz 1 bis 3 der
+Strafprozessordnung.
 
 
 ## § 6 Auskunft an Behörden
 
 (1) Auf Ersuchen erhalten Auskunft über die in § 4 genannten Daten
 
-1.  die mitteilenden Stellen; bei Mitteilung eines neuen Verfahrens
-    erhalten sie auch ohne Ersuchen Auskunft über die zu der beschuldigten
-    Person bereits gespeicherten Daten,
+1.  die mitteilenden Stellen im Sinne des § 3 Absatz 1 Satz 1; bei
+    Mitteilung eines neuen Verfahrens erhalten sie auch ohne Ersuchen
+    Auskunft über die zu der beschuldigten Person bereits gespeicherten
+    Daten,
 
 
 2.  die Polizei- und Sonderpolizeibehörden, soweit sie im Einzelfall
     strafverfolgend tätig sind,
+
+
+2a. das Bundeskriminalamt,
+
+    a)  nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des
+        § 39 des Bundeskriminalamtgesetzes, soweit dies im Einzelfall zur
+        Erfüllung seiner Aufgaben nach § 5 Absatz 1 des
+        Bundeskriminalamtgesetzes erforderlich ist, oder
+
+
+    b)  nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des
+        § 9 Absatz 2 und 5 des Bundeskriminalamtgesetzes, soweit dies im
+        Einzelfall zur Erfüllung seiner Aufgaben nach § 6 Absatz 1 oder § 7
+        Absatz 1 oder Absatz 2 des Bundeskriminalamtgesetzes erforderlich ist,
+
+
+
 
 
 3.  die Finanzbehörden in steuerstrafrechtlichen Ermittlungsverfahren der
@@ -220,25 +243,40 @@ bestimmt sich nach § 494 Abs. 1 bis 3 der Strafprozessordnung.
     strafverfolgend tätig sind,
 
 
-5.  die Waffenbehörden nach Maßgabe des § 492 Abs. 3 Satz 3 der
-    Strafprozessordnung und des § 5 Abs. 5 Satz 1 Nr. 2 und Satz 2 des
-    Waffengesetzes,
+5.  die Waffenbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der
+    Strafprozessordnung und des § 5 Absatz 5 Satz 1 Nummer 2 und Satz 2
+    des Waffengesetzes,
 
 
-5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der
+5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der
     Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3
     des Sprengstoffgesetzes,
 
 
-6.  das nationale Mitglied von Eurojust nach Maßgabe des § 4 Abs. 4 des
+5b. die an Sicherheitsüberprüfungen mitwirkenden Behörden nach Maßgabe des
+    § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 12 Absatz 1
+    Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+
+
+5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe
+    des § 492 Absatz 3 Satz 4 der Strafprozessordnung und des § 31 Absatz
+    4a des Geldwäschegesetzes,
+
+
+5d. die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 4 der
+    Strafprozessordnung und des § 7 Absatz 3 Satz 1 Nummer 3 des
+    Luftsicherheitsgesetzes,
+
+
+6.  das nationale Mitglied von Eurojust nach § 5 Absatz 1 Nummer 2 des
     Eurojust-Gesetzes.
 
 
 
 
-(2) Nach Maßgabe der in § 492 Abs. 4 der Strafprozessordnung genannten
-Bestimmungen erhalten auf Ersuchen Auskunft über die in § 4 Abs. 1 und
-3 genannten Daten auch
+(2) Nach Maßgabe des § 492 Absatz 4 der Strafprozessordnung erhalten
+auf Ersuchen Auskunft über die in § 4 Absatz 1 bis 3 genannten Daten
+auch
 
 1.  die Verfassungsschutzbehörden des Bundes und der Länder,
 
@@ -310,23 +348,21 @@ unter ähnlichen Identifizierungsdaten gespeicherten Personen
 übermittelt werden.
 
 
-## § 9 Auskunft an Betroffene
+## § 9 Auskunft an betroffene Personen
 
-(1) Für den Auskunftsanspruch Betroffener gilt § 19 des
+(1) Für den Auskunftsanspruch betroffener Personen gilt § 57 des
 Bundesdatenschutzgesetzes.
 
 (2) Über die Erteilung der Auskunft entscheidet die Registerbehörde im
 Einvernehmen mit der Stelle, welche die in die Auskunft aufzunehmenden
 personenbezogenen Daten mitgeteilt hat.
 
-(3) Daten, die einer Auskunftssperre nach § 495 Satz 1 Halbsatz 2 in
-Verbindung mit § 491 Abs. 1 Satz 2 bis 6 der Strafprozessordnung
-unterliegen, werden nicht in die Auskunft aufgenommen.
-
-(4) Die Registerbehörde weist Antragsteller bei der Auskunftserteilung
-auf die in Absatz 3 genannten Vorschriften hin. Eine Auskunft darf
-nicht erkennen lassen, ob zu der betreffenden Person Daten gespeichert
-sind, die einer Auskunftssperre unterliegen.
+(3) Wird gemäß § 57 Absatz 4 des Bundesdatenschutzgesetzes von der
+Auskunft abgesehen, so wird dem Antragsteller mitgeteilt, dass keine
+Daten verarbeitet werden, über die Auskunft erteilt werden kann. Der
+Antragsteller ist unabhängig davon, ob Verfahren gegen ihn geführt
+werden, auf diese Regelung und auf die Rechtsschutzmöglichkeit des §
+57 Absatz 7 Satz 2 des Bundesdatenschutzgesetzes hinzuweisen.
 
 
 ## § 10 Organisatorische und technische Leitlinien und Maßnahmen

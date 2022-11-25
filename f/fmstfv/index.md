@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes
+Title: Verordnung zur Durchführung des Stabilisierungsfondsgesetzes
 jurabk: FMStFV
 layout: default
 origslug: fmstfv
@@ -7,7 +7,7 @@ slug: fmstfv
 
 ---
 
-# Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes (FMStFV)
+# Verordnung zur Durchführung des Stabilisierungsfondsgesetzes (FMStFV)
 
 Ausfertigungsdatum
 :   2008-10-20
@@ -16,7 +16,7 @@ Fundstelle
 :   eBAnz: 2008, AT123 V1
 
 Zuletzt geändert durch
-:   Art. 4 G v. 24.2.2012 I 206
+:   Art. 4 Abs. 1 G v. 10.7.2020 I 1633
 
 
 ## Eingangsformel
@@ -29,25 +29,23 @@ und des § 10 Abs. 2 des Finanzmarktstabilisierungsfondsgesetzes vom
 
 ## § 1 Verwaltung des Finanzmarktstabilisierungsfonds
 
-(1) Der Finanzmarktstabilisierungsanstalt (Anstalt) wird mit
-Inkrafttreten dieser Verordnung die Entscheidung über Maßnahmen nach
-dem Finanzmarktstabilisierungsfondsgesetz vom 17. Oktober 2008 (BGBl.
-I S. 1982) und die Verwaltung des Finanzmarktstabilisierungsfonds
-(Fonds) übertragen; § 4 Abs. 1 Satz 2 des
-Finanzmarktstabilisierungsfondsgesetzes bleibt unberührt. Die Anstalt
-untersteht der Rechts- und Fachaufsicht des Bundesministeriums der
-Finanzen.
+(1) Der Bundesrepublik Deutschland – Finanzagentur GmbH
+(Finanzagentur) wird mit Inkrafttreten dieser Verordnung die
+Entscheidung über Maßnahmen nach dem Stabilisierungsfondsgesetz vom
+17\. Oktober 2008 (BGBl. I S. 1982) und die Verwaltung des
+Finanzmarktstabilisierungsfonds (Fonds) übertragen; § 4 Abs. 1 Satz 2
+des Stabilisierungsfondsgesetzes bleibt unberührt.
 
-(2) Die Anstalt ist bei der Wahrnehmung der ihr nach Absatz 1
+(2) Die Finanzagentur ist bei der Wahrnehmung der ihr nach Absatz 1
 übertragenen Aufgaben an die Bestimmungen des
-Finanzmarktstabilisierungsfondsgesetzes und dieser Verordnung sowie
-die auf der Grundlage des Gesetzes oder dieser Verordnung ergehenden
-Weisungen oder Entscheidungen des Bundesministeriums der Finanzen
-sowie des Lenkungsausschusses gebunden. Sie legt gemäß § 4 Abs. 1 Satz
-2 des Finanzmarktstabilisierungsfondsgesetzes dem Bundesministerium
-der Finanzen und dem Lenkungsausschuss insbesondere Anträge
-einschließlich Voranfragen nach den §§ 2 bis 4 mit einem begründeten
-Vorschlag zur weiteren Behandlung und Vorschläge
+Stabilisierungsfondsgesetzes und dieser Verordnung sowie die auf der
+Grundlage des Gesetzes oder dieser Verordnung ergehenden Weisungen
+oder Entscheidungen des Bundesministeriums der Finanzen sowie des
+Lenkungsausschusses gebunden. Sie legt gemäß § 4 Abs. 1 Satz 2 des
+Stabilisierungsfondsgesetzes dem Bundesministerium der Finanzen und
+dem Lenkungsausschuss insbesondere Anträge einschließlich Voranfragen
+nach den §§ 2 bis 4 mit einem begründeten Vorschlag zur weiteren
+Behandlung und Vorschläge
 
 –   für allgemeine Maßstäbe für Auflagen zur Geschäftspolitik,
 
@@ -71,31 +69,30 @@ Vorschlag zur weiteren Behandlung und Vorschläge
 
 
 vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2
-des Finanzmarktstabilisierungsfondsgesetzes Entscheidungen
-vorbehalten.
+des Stabilisierungsfondsgesetzes Entscheidungen vorbehalten.
 
 (3) Das Bundesministerium der Finanzen kann generell oder im
 Einzelfall
 
-1.  bestimmen, dass die Anstalt das Bundesministerium der Finanzen über
-    Anträge auf Gewährung von Stabilisierungsmaßnahmen, beabsichtigte oder
-    getroffene Entscheidungen oder über sonstige Sachverhalte oder
-    Tätigkeiten der Anstalt im Rahmen des
-    Finanzmarktstabilisierungsfondsgesetzes informiert,
+1.  bestimmen, dass die Finanzagentur das Bundesministerium der Finanzen
+    über Anträge auf Gewährung von Stabilisierungsmaßnahmen, beabsichtigte
+    oder getroffene Entscheidungen oder über sonstige Sachverhalte oder
+    Tätigkeiten der Finanzagentur im Rahmen des
+    Stabilisierungsfondsgesetzes informiert,
 
 
-2.  der Anstalt für die Wahrnehmung der ihr nach Absatz 1 übertragenen
-    Aufgaben Weisungen erteilen,
+2.  der Finanzagentur für die Wahrnehmung der ihr nach Absatz 1
+    übertragenen Aufgaben Weisungen erteilen,
 
 
-3.  Entscheidungen nach dem Finanzmarktstabilisierungsfondsgesetz und
-    dieser Verordnung sowie Maßnahmen im Rahmen der Verwaltung des Fonds
-    selbst treffen,
+3.  Entscheidungen nach dem Stabilisierungsfondsgesetz und dieser
+    Verordnung sowie Maßnahmen im Rahmen der Verwaltung des Fonds selbst
+    treffen,
 
 
 4.  Zustimmungserfordernisse des Bundesministeriums der Finanzen für
-    bestimmte Entscheidungen nach dem
-    Finanzmarktstabilisierungsfondsgesetz und dieser Verordnung vorsehen,
+    bestimmte Entscheidungen nach dem Stabilisierungsfondsgesetz und
+    dieser Verordnung vorsehen,
 
 
 5.  sonstige Vorgaben für die Wahrnehmung der nach Absatz 1 übertragenen
@@ -104,20 +101,19 @@ Einzelfall
 
 
 
-(4) Die Anstalt ist berechtigt, nach vorheriger Zustimmung des
+(4) Die Finanzagentur ist berechtigt, nach vorheriger Zustimmung des
 Bundesministeriums der Finanzen sich Dritter bei der Erfüllung der ihr
 nach Absatz 1 übertragenen Aufgaben zu bedienen. Die
-Entscheidungsverantwortung der Anstalt sowie die Bindungen gemäß
+Entscheidungsverantwortung der Finanzagentur sowie die Bindungen gemäß
 Absatz 2 bleiben unberührt. Die Beauftragung eines Dritten ist nur
 zulässig, wenn sichergestellt ist, dass dieser an die Bestimmungen des
-Finanzmarktstabilisierungsfondsgesetzes, dieser Verordnung und die
-nach dieser Verordnung ergangenen Weisungen oder sonstigen
-Entscheidungen auf vertraglicher oder sonstiger Grundlage gebunden
-ist.
+Stabilisierungsfondsgesetzes, dieser Verordnung und die nach dieser
+Verordnung ergangenen Weisungen oder sonstigen Entscheidungen auf
+vertraglicher oder sonstiger Grundlage gebunden ist.
 
 (5) Formvorgaben, Fristen und weitere Einzelheiten des Verfahrens der
-Gewährung von Stabilisierungsmaßnahmen werden von der Anstalt nach
-Zustimmung des Bundesministeriums der Finanzen festgelegt.
+Gewährung von Stabilisierungsmaßnahmen werden von der Finanzagentur
+nach Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 
 ## § 2 Garantieübernahme
@@ -126,12 +122,12 @@ Zustimmung des Bundesministeriums der Finanzen festgelegt.
 oder einer Zweckgesellschaft, die Risikopositionen eines solchen
 Unternehmens übernommen hat, Garantien oder sonstige Gewährleistungen
 in jeder geeigneten Form für ab Inkrafttreten des
-Finanzmarktstabilisierungsfondsgesetzes begebene Schuldtitel oder
-begründete sonstige Verbindlichkeiten übernehmen, um
-Liquiditätsengpässe des begünstigten Unternehmens zu beheben und
-dessen Refinanzierung am Kapitalmarkt zu unterstützen. In Abstimmung
-mit dem Unternehmen kann die Garantiegewährung auch in anderer als der
-ursprünglich beantragten Form erfolgen.
+Stabilisierungsfondsgesetzes begebene Schuldtitel oder begründete
+sonstige Verbindlichkeiten übernehmen, um Liquiditätsengpässe des
+begünstigten Unternehmens zu beheben und dessen Refinanzierung am
+Kapitalmarkt zu unterstützen. In Abstimmung mit dem Unternehmen kann
+die Garantiegewährung auch in anderer als der ursprünglich beantragten
+Form erfolgen.
 
 (2) Bei der Auswahl der Stabilisierungsmaßnahmen ist vorrangig zu
 prüfen, ob Garantieübernahmen ausreichend sind. Die näheren
@@ -199,15 +195,7 @@ beteiligen. In Abstimmung mit dem Unternehmen kann die
 Rekapitalisierung auch in anderer als der ursprünglich beantragten
 Form erfolgen. Der Fonds kann Leistungen vorab erbringen und diese
 anschließend einer übernommenen Einlagepflicht zuordnen. Die
-Rekapitalisierung erfolgt bei Instituten im Sinne des § 1 Abs. 1b des
-Kreditwesengesetzes vorrangig durch Stärkung des Kernkapitals, bei
-Versicherungsunternehmen vorrangig durch Stärkung der Eigenmittel nach
-§ 53c Abs. 3 Satz 1 Nr. 1 und 2 des Versicherungsaufsichtsgesetzes,
-auch in Verbindung mit § 121a Abs. 1 Satz 2 des
-Versicherungsaufsichtsgesetzes und bei Pensionsfonds vorrangig durch
-Stärkung der Eigenmittel nach § 114 Abs. 2 des
-Versicherungsaufsichtsgesetzes in Verbindung mit § 3 Abs. 1 Nr. 1 und
-2 der Pensionsfonds-Kapitalausstattungsverordnung.
+Rekapitalisierung erfolgt vorrangig durch Stärkung des Kernkapitals.
 
 (2) Die näheren Bedingungen der Rekapitalisierung legt der Fonds im
 Einzelfall fest. Hierbei gelten folgende Maßgaben:
@@ -220,9 +208,10 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
 
 2.  Eine Rekapitalisierung unter Beteiligung des Fonds soll eine auf
-    absehbare Zeit angemessene Eigenmittelausstattung zum Ziel haben. Die
-    Rekapitalisierung kann von Eigenleistungen der Anteilseigner des
-    begünstigten Unternehmens abhängig gemacht werden.
+    absehbare Zeit angemessene Eigenmittelausstattung zum Ziel haben. Der
+    Fonds soll darauf hinwirken, dass eine Rekapitalisierung unter
+    Beteiligung des Fonds grundsätzlich nur nach möglichen Eigenleistungen
+    der Anteilseigner des begünstigten Unternehmens erfolgt.
 
 
 3.  Die Obergrenze für die Rekapitalisierung, bezogen auf ein einzelnes
@@ -240,10 +229,10 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors
 oder einer Zweckgesellschaft, die Risikopositionen eines solchen
-Unternehmens übernommen hat, in jeder geeigneten Form vor dem 1.
-Dezember 2011 erworbene Risikopositionen nebst zugehöriger
-Sicherheiten erwerben. In Abstimmung mit dem Unternehmen kann die
-Risikoübernahme auch in anderer als der beantragten Form erfolgen.
+Unternehmens übernommen hat, in jeder geeigneten Form vor dem 1. Juni
+2014 erworbene Risikopositionen nebst zugehöriger Sicherheiten
+erwerben. In Abstimmung mit dem Unternehmen kann die Risikoübernahme
+auch in anderer als der beantragten Form erfolgen.
 
 (2) Die näheren Bedingungen der Risikoübernahme legt der Fonds im
 Einzelfall fest. Hierbei gelten folgende Maßgaben:
@@ -318,8 +307,8 @@ Stabilisierungsmaßnahme sowie an der wirtschaftlichen Situation des
 Unternehmens auszurichten.
 
 (2) Bei Stabilisierungsmaßnahmen nach § 7 des
-Finanzmarktstabilisierungsfondsgesetzes soll den Unternehmen
-insbesondere aufgegeben werden,
+Stabilisierungsfondsgesetzes soll den Unternehmen insbesondere
+aufgegeben werden,
 
 1.  ihre Geschäftspolitik und deren Nachhaltigkeit zu überprüfen. Dabei
     kann der Fonds darauf hinwirken, dass mit besonderen Risiken,
@@ -348,7 +337,7 @@ insbesondere aufgegeben werden,
 4.  die Vergütung ihrer Organmitglieder und Geschäftsleiter auf ein
     angemessenes Maß zu begrenzen. Im Hinblick auf die Angemessenheit soll
     der Fonds unbeschadet § 10 Absatz 2a bis 2c des
-    Finanzmarktstabilisierungsfondsgesetzes darauf hinwirken, dass
+    Stabilisierungsfondsgesetzes darauf hinwirken, dass
 
     a)  Organmitglieder und Geschäftsleiter unter Einbeziehung von etwaigen
         Konzernbezügen keine unangemessene Gesamtvergütung erhalten. Die
@@ -386,7 +375,7 @@ insbesondere aufgegeben werden,
         schließt Bonifikationen, die ein niedriges Festgehalt kompensieren,
         nicht aus, solange die Gesamtvergütung angemessen ist; diese Regelung
         gilt nicht für Unternehmen gemäß § 10 Absatz 2a des
-        Finanzmarktstabilisierungsfondsgesetzes;
+        Stabilisierungsfondsgesetzes;
 
 
     d)  Erfolgsziele, Ausübungspreise für Aktienoptionsprogramme und andere
@@ -410,11 +399,11 @@ insbesondere aufgegeben werden,
 
 
 (3) Bei Stabilisierungsmaßnahmen nach § 6 des
-Finanzmarktstabilisierungsfondsgesetzes gilt Absatz 2 Nummer 1 und 3
+Stabilisierungsfondsgesetzes gilt Absatz 2 Nummer 1 und 3
 entsprechend.
 
 (4) Bei Stabilisierungsmaßnahmen nach § 8 des
-Finanzmarktstabilisierungsfondsgesetzes gilt Absatz 2 entsprechend.
+Stabilisierungsfondsgesetzes gilt Absatz 2 entsprechend.
 
 (5) Sofern durch die Stabilisierungsmaßnahmen Wettbewerbsverzerrungen
 zu besorgen sind, soll der Fonds dem begünstigten Unternehmen
@@ -431,8 +420,8 @@ durch den Abschlussprüfer überprüfen und in den Prüfbericht aufnehmen
 zu lassen.
 
 (7) Insbesondere im Rahmen von Stabilisierungsmaßnahmen nach den §§ 7
-und 8 des Finanzmarktstabilisierungsfondsgesetzes soll der Fonds von
-dem begünstigten Unternehmen die Abgabe einer Verpflichtungserklärung
+und 8 des Stabilisierungsfondsgesetzes soll der Fonds von dem
+begünstigten Unternehmen die Abgabe einer Verpflichtungserklärung
 verlangen, in welche die nach den Absätzen 1 bis 6 festgelegten
 Bedingungen aufzunehmen sind. Werden die Bedingungen vertraglich
 vereinbart, kann sich die Verpflichtungserklärung auf den wesentlichen

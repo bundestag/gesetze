@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1997, 1406
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 G v. 19.2.2007 I 122
+:   Art. 32 V v. 19.6.2020 I 1328
 
 
 ## § 1
@@ -59,8 +59,9 @@ des Personenstandsrechts zu führen hat.
 bleiben für den nach Absatz 1 angenommenen Namen maßgebend.
 
 (4) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder
-beurkundet werden; sie können auch von den Standesbeamten beglaubigt
-oder beurkundet werden.
+beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber
+einem deutschen Standesamt abgegeben werden. Sie können auch von den
+Standesbeamten beglaubigt oder beurkundet werden.
 
 
 ## § 2
@@ -82,7 +83,8 @@ Beurkundung werden Gebühren nicht erhoben.
 
 ## § 4
 
-Das Bundesministerium des Innern wird ermächtigt, im Benehmen mit dem
-Bundesministerium der Justiz und mit Zustimmung des Bundesrates zur
-Durchführung dieses Gesetzes Verwaltungsvorschriften zu erlassen.
+Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
+im Benehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung
+dieses Gesetzes Verwaltungsvorschriften zu erlassen.
 

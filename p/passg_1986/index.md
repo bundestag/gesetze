@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1986, 537
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 2 G v. 30.7.2009 I 2437
+:   Art. 12 G v. 3.12.2020 I 2744
+
+Änderung durch
+:   Art. 7 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
+
+Änderung durch
+:   Art. 1 G v. 5.7.2021 I 2281 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
 
 
 ## Erster Abschnitt - Paßvorschriften
@@ -85,14 +91,19 @@ Deutschland. Der amtliche Pass kann auch
 wenn diese nicht Deutsche im Sinne des Artikels 116 Abs. 1 des
 Grundgesetzes sind.
 
-(5) Das Bundesministerium des Innern bestimmt den Passhersteller und
-macht seinen Namen im Bundesanzeiger bekannt.
+(5) Das Bundesministerium des Innern, für Bau und Heimat bestimmt den
+Passhersteller sowie den Lieferanten von Geräten zur Aufnahme und
+elektronischen Erfassung von Lichtbildern, sofern diese durch die
+Passbehörde gefertigt werden, und von Fingerabdrücken und macht deren
+Namen im Bundesanzeiger bekannt. Dies gilt nicht für Geräte zur
+Aufnahme und elektronischen Erfassung von Lichtbildern, die im Rahmen
+einer Antragstellung beim Auswärtigen Amt gefertigt werden.
 
 
 ### § 2 Befreiung von der Paßpflicht
 
-(1) Das Bundesministerium des Innern kann durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+(1) Das Bundesministerium des Innern, für Bau und Heimat kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Deutsche zur Erleichterung des Grenzübertritts in besonderen Fällen
     sowie im Verkehr mit einzelnen ausländischen Staaten von der
@@ -160,11 +171,17 @@ Gültigkeitsdauer ausschließlich folgende Angaben über seine Person:
 
 
 Die Angabe des Geschlechts richtet sich nach der Eintragung im
-Melderegister. Abweichend von Satz 3 ist einem Passbewerber, dessen
+Melderegister. Ist dort das Geschlecht nicht mit weiblich oder
+männlich angegeben, wird im Pass das Geschlecht mit „X“ bezeichnet.
+Abweichend von den Sätzen 3 und 4 ist einem Passbewerber, dessen
 Vornamen auf Grund gerichtlicher Entscheidung gemäß § 1 des
 Transsexuellengesetzes geändert wurden, auf Antrag ein Pass mit der
 Angabe des anderen, von dem Geburtseintrag abweichenden Geschlechts
-auszustellen.
+auszustellen. Passbewerbern, deren Angabe zum Geschlecht nach § 45b
+des Personenstandsgesetzes geändert wurde, kann auf Antrag abweichend
+von den Sätzen 3 und 4 auch ein Pass mit der Angabe des vorherigen
+Geschlechts ausgestellt werden, wenn die vorherige Angabe männlich
+oder weiblich war.
 
 (2) Der Pass enthält eine Zone für das automatische Lesen. Diese darf
 lediglich enthalten:
@@ -214,11 +231,15 @@ lediglich enthalten:
 7.  den Tag der Geburt,
 
 
-8.  die Abkürzung "F" für Paßinhaber weiblichen Geschlechts und "M" für
-    Paßinhaber männlichen Geschlechts,
+8.  die Abkürzung „F“ für Passinhaber weiblichen Geschlechts, die
+    Abkürzung „M“ für Passinhaber männlichen Geschlechts und das Zeichen
+    „<“ für Passinhaber anderen Geschlechts,
 
 
 9.  die Gültigkeitsdauer des Passes,
+
+
+9a. Versionsnummer des Passmusters,
 
 
 10. die Prüfziffern und
@@ -261,21 +282,21 @@ des Passes das zehnte Lebensjahr vollendet hat.
 
 (5) Die Muster des Reisepasses, des vorläufigen Reisepasses und des
 Kinderreisepasses sowie die Anforderungen an das Lichtbild bestimmt
-das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt
-durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
-Dies gilt auch für einen Passersatz, sofern sein Muster nicht in
-anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen
-festgelegt ist.
+das Bundesministerium des Innern, für Bau und Heimat im Benehmen mit
+dem Auswärtigen Amt durch Rechtsverordnung, die der Zustimmung des
+Bundesrates bedarf. Dies gilt auch für einen Passersatz, sofern sein
+Muster nicht in anderen Rechtsvorschriften oder in zwischenstaatlichen
+Vereinbarungen festgelegt ist.
 
 (6) Die Muster der amtlichen Pässe, die Anforderungen an das Lichtbild
 sowie die nähere Bestimmung der in § 1 Abs. 4 Satz 2 genannten
-Personen bestimmt das Bundesministerium des Innern im Benehmen mit dem
-Auswärtigen Amt durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf. In die amtlichen Pässe können Angaben über das
-Dienstverhältnis des Passinhabers aufgenommen werden. Die
-Rechtsverordnung kann auch von diesem Gesetz abweichende Bestimmungen
-über Gültigkeitsdauer, Ausstellung, Einziehung, Sicherstellung und
-Pflichten des Inhabers enthalten.
+Personen bestimmt das Bundesministerium des Innern, für Bau und Heimat
+im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können
+Angaben über das Dienstverhältnis des Passinhabers aufgenommen werden.
+Die Rechtsverordnung kann auch von diesem Gesetz abweichende
+Bestimmungen über Gültigkeitsdauer, Ausstellung, Einziehung,
+Sicherstellung und Pflichten des Inhabers enthalten.
 
 
 ### § 5 Gültigkeitsdauer
@@ -285,16 +306,16 @@ Jahre gültig. Bei Personen, die das 24. Lebensjahr noch nicht
 vollendet haben, sowie im Fall des § 1 Abs. 3 sind sie sechs Jahre
 gültig.
 
-(2) Der Kinderreisepass ist sechs Jahre gültig, längstens jedoch bis
-zur Vollendung des zwölften Lebensjahres.
+(2) Der Kinderreisepass ist ein Jahr gültig, längstens jedoch bis zur
+Vollendung des zwölften Lebensjahres.
 
 (3) Der vorläufige Reisepass, der vorläufige Dienstpass und der
 vorläufige Diplomatenpass sind höchstens ein Jahr gültig.
 
 (4) Eine Verlängerung der Gültigkeitsdauer des Passes ist nicht
 zulässig. Abweichend von Satz 1 kann der Kinderreisepass bis zur
-Vollendung des zwölften Lebensjahres verlängert werden. Er ist mit
-einem aktuellen Lichtbild zu versehen.
+Vollendung des zwölften Lebensjahres um jeweils ein Jahr verlängert
+werden. Er ist mit einem aktuellen Lichtbild zu versehen.
 
 (5) Die Gültigkeitsdauer eines Passes darf in den Fällen des § 29 des
 Staatsangehörigkeitsgesetzes den Zeitpunkt der Vollendung des 23.
@@ -336,9 +357,13 @@ der Passbewerber hat bei der Abnahme der Fingerabdrücke mitzuwirken.
 (2a) Beantragt ein Passbewerber nach § 4 Abs. 1 Satz 4 die Eintragung
 des von seinem Geburtseintrag abweichenden Geschlechts, hat er den
 Beschluss des Gerichts über die Vornamensänderung nach § 1 des
-Transsexuellengesetzes vorzulegen. Der Eintragung des von dem
-Geburtseintrag abweichenden Geschlechts im Pass kommt keine
-Rechtswirkung zu.
+Transsexuellengesetzes vorzulegen. Beantragt ein Passbewerber nach § 4
+Absatz 1 Satz 6 die Eintragung eines von seinem Personenstandseintrag
+abweichenden Geschlechts, hat er die von dem Standesbeamten
+beurkundete Erklärung nach § 45b des Personenstandsgesetzes
+vorzulegen. Eintragungen des Geschlechts im Pass, die nach den Sätzen
+1 und 2 von Eintragungen im Personenstandsregister abweichen, kommt
+keine weitere Rechtswirkung zu.
 
 (2b) In den Fällen des § 1 Abs. 4 Satz 2 darf die zuständige
 Passbehörde vor Ausstellung eines amtlichen Passes zur Feststellung
@@ -377,7 +402,7 @@ ausschließlich als Paßersatz bestimmten amtlichen Ausweisen, sofern in
 den für sie geltenden Rechtsvorschriften nichts anderes bestimmt ist.
 
 
-### § 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung
+### § 6a Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung
 
 (1) Die Datenübermittlung von den Passbehörden an den Passhersteller
 zum Zweck der Passherstellung, insbesondere die Übermittlung
@@ -399,16 +424,47 @@ werden, die den Anforderungen der Rechtsverordnung nach Absatz 3
 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt für
 Sicherheit in der Informationstechnik festzustellen.
 
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
-der Zustimmung des Bundesrates bedarf, Regelungen zu treffen über das
-Verfahren und die technischen Anforderungen für die Erfassung und
-Qualitätssicherung des Lichtbildes und der Fingerabdrücke, die
-Reihenfolge der zu speichernden Fingerabdrücke bei Fehlen eines
-Zeigefingers, ungenügender Qualität des Fingerabdrucks oder
-Verletzungen der Fingerkuppe sowie die Form und die Einzelheiten über
-das Verfahren der Übermittlung sämtlicher Passantragsdaten von den
-Passbehörden an den Passhersteller. Die Rechtsverordnung regelt auch
-die Einzelheiten über das Prüfverfahren nach Absatz 2 Satz 2.
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, Regelungen zu treffen
+
+1.  über das Verfahren und die technischen Anforderungen für die Aufnahme,
+    die elektronische Erfassung, die Echtheitsbewertung und die
+    Qualitätssicherung des Lichtbilds,
+
+
+2.  zur sicheren Übermittlung des Lichtbilds an die Passbehörde sowie zu
+    einer Registrierung und Zertifizierung von Dienstleistern, welche
+    Lichtbilder für die Passproduktion an die Passbehörde übermitteln,
+
+
+3.  über das Verfahren und die technischen Anforderungen für die Aufnahme,
+    die elektronische Erfassung, die Echtheitsbewertung und die
+    Qualitätssicherung der Fingerabdrücke, die Reihenfolge der zu
+    speichernden Fingerabdrücke bei Fehlen eines Zeigefingers,
+    ungenügender Qualität des Fingerabdrucks oder Verletzungen der
+    Fingerkuppe,
+
+
+4.  über die Änderung von Daten des Passes,
+
+
+5.  über die Form und die Einzelheiten für das Verfahren der Übermittlung
+    sämtlicher Passantragsdaten von den Passbehörden an den
+    Passhersteller,
+
+
+6.  zur Durchführung von automatisierten Abrufen nach § 22a sowie zur Form
+    und zum Inhalt der zu übermittelnden Daten und
+
+
+7.  über die Einzelheiten des Prüfverfahrens nach Absatz 2 Satz 2.
+
+
+
+Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen
+Amt, Rechtsverordnungen nach Satz 1 Nummer 2 zusätzlich im Benehmen
+mit dem Bundesministerium für Wirtschaft und Energie.
 
 
 ### § 7 Paßversagung
@@ -463,7 +519,11 @@ begründen, daß der Paßbewerber
 
 
 10. eine in § 89a des Strafgesetzbuchs beschriebene Handlung vornehmen
-    wird.
+    wird;
+
+
+11. eine in § 226a des Strafgesetzbuchs beschriebene Handlung vornehmen
+    oder die Vornahme dieser Handlung durch Dritte veranlassen wird.
 
 
 
@@ -534,7 +594,35 @@ Deutschen nicht versagt werden.
     über den Wohnort oder die Größe - unzutreffend sind;
 
 
-3.  die Gültigkeitsdauer abgelaufen ist.
+3.  die Gültigkeitsdauer abgelaufen ist;
+
+
+4.  gegen den Passinhaber eine Anordnung nach § 8 in Verbindung mit § 7
+    Absatz 1 Nummer 1 oder Nummer 10 ergangen ist und er den
+    Geltungsbereich dieses Gesetzes verlassen hat; im Falle des § 7 Absatz
+    1 Nummer 1 gilt dies nur, wenn die Gefährdung darin besteht, dass
+    bestimmte Tatsachen die Annahme begründen, dass der Passinhaber
+
+    a)  einer terroristischen Vereinigung nach § 129a des Strafgesetzbuchs
+        oder einer terroristischen Vereinigung nach § 129a in Verbindung mit §
+        129b Absatz 1 Satz 1 des Strafgesetzbuchs mit Bezug zur Bundesrepublik
+        Deutschland angehört oder diese unterstützt oder
+
+
+    b)  rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung
+        international ausgerichteter politischer oder religiöser Belange
+        anwendet oder eine solche Gewaltanwendung unterstützt oder vorsätzlich
+        hervorruft;
+
+
+
+
+
+5.  gegen den Passinhaber eine Anordnung nach § 7 Absatz 2 Satz 1 in
+    Verbindung mit § 7 Absatz 1 Nummer 1 oder Nummer 10 ergangen ist, er
+    den Geltungsbereich dieses Gesetzes verlassen hat und sich in einem
+    Land aufhält, für das eine räumliche Beschränkung angeordnet wurde;
+    Nummer 4 zweiter Halbsatz gilt entsprechend.
 
 
 
@@ -584,7 +672,9 @@ Ausweis kann sichergestellt werden, wenn
 
 ### § 14 Sofortige Vollziehung
 
-Widerspruch und Anfechtungsklage gegen die Untersagung der Ausreise (§
+Widerspruch und Anfechtungsklage gegen die Beschränkung des
+Geltungsbereiches oder der Gültigkeitsdauer des Passes (§ 7 Absatz 2),
+gegen die Passentziehung (§ 8), gegen die Untersagung der Ausreise (§
 10) und gegen die Sicherstellung des Passes (§ 13) haben keine
 aufschiebende Wirkung.
 
@@ -631,25 +721,40 @@ Passes an den Passbewerber zu löschen.
 
 (3) Eine zentrale, alle Seriennummern umfassende Speicherung darf nur
 bei dem Passhersteller und ausschließlich zum Nachweis des Verbleibs
-der Pässe erfolgen. Die Speicherung der übrigen in § 4 Abs. 1
-genannten Angaben und der in § 4 Abs. 3 genannten biometrischen Daten
-bei dem Passhersteller ist unzulässig, soweit sie nicht ausschließlich
-und vorübergehend der Herstellung des Passes dient; die Angaben sind
-anschließend zu löschen.
+der Pässe erfolgen. Die Übermittlung an öffentliche Stellen nach
+Absatz 7 bleibt davon unberührt. Die Speicherung der übrigen in § 4
+Abs. 1 genannten Angaben und der in § 4 Abs. 3 genannten biometrischen
+Daten bei dem Passhersteller ist unzulässig, soweit sie nicht
+ausschließlich und vorübergehend der Herstellung des Passes dient; die
+Angaben sind anschließend zu löschen.
 
-(4) Die Seriennummern dürfen nicht so verwendet werden, daß mit ihrer
-Hilfe ein Abruf personenbezogener Daten aus Dateien oder eine
-Verknüpfung von Dateien möglich ist. Abweichend von Satz 1 dürfen die
-Seriennummern verwenden
+(4) Die Seriennummern dürfen nicht mit Hilfe automatisierter Verfahren
+zum Abruf oder zur Verknüpfung personenbezogener Daten verwendet
+werden. Abweichend von Satz 1 dürfen die Seriennummern mit Hilfe
+automatisierter Verfahren zum Abruf verwenden
 
-1.  die Paßbehörden für den Abruf personenbezogener Daten aus ihren
-    Dateien,
+1.  die Passbehörden zur Erfüllung ihrer Aufgaben,
 
 
-2.  die Polizeibehörden und -dienststellen des Bundes und der Länder für
-    den Abruf der in Dateien gespeicherten Seriennummern solcher Pässe,
-    die für ungültig erklärt worden sind, abhanden gekommen sind oder bei
-    denen der Verdacht einer Benutzung durch Nichtberechtigte besteht.
+2.  die Polizeibehörden des Bundes und der Länder, der Militärische
+    Abschirmdienst, der Bundesnachrichtendienst, die
+    Verfassungsschutzbehörden des Bundes und der Länder, die
+    Steuerfahndungsdienststellen der Länder, der Zollfahndungsdienst und
+    die Hauptzollämter zur Klärung,
+
+    a)  wer Inhaber des Passes ist für den Fall, dass eine ausländische
+        öffentliche Stelle die Seriennummer des Passdokumentes übermittelt hat
+        und anhand der übrigen von der ausländischen Stelle übermittelten
+        Daten eine Feststellung des Inhabers des Passes nicht möglich ist,
+
+
+    b)  ob der Pass durch einen Nichtberechtigten genutzt wird oder
+
+
+    c)  ob der Pass für ungültig erklärt oder abhandengekommen ist.
+
+
+
 
 
 
@@ -659,6 +764,9 @@ Paßersatz bestimmten amtlichen Ausweis.
 
 (6) Auf Verlangen hat die Passbehörde dem Passinhaber Einsicht in die
 im Chip gespeicherten Daten zu gewähren.
+
+(7) Der Passhersteller hat öffentlichen Stellen auf deren Verlangen
+die ausstellende Behörde mitzuteilen.
 
 
 ### § 16a Identitätsüberprüfung anhand biometrischer Daten
@@ -719,9 +827,17 @@ Bereich als Ausweis- und Legitimationspapier benutzt werden.
 Hilfe ein Abruf personenbezogener Daten aus Dateien oder eine
 Verknüpfung von Dateien möglich ist.
 
-(3) Der Paß darf weder zum automatischen Abruf personenbezogener Daten
-noch zur automatischen Speicherung personenbezogener Daten verwendet
-werden.
+(3) Der Pass darf nur vom Passinhaber oder von anderen Personen mit
+Zustimmung des Passinhabers in der Weise abgelichtet werden, dass die
+Ablichtung eindeutig und dauerhaft als Kopie erkennbar ist. Andere
+Personen als der Passinhaber dürfen die Kopie nicht an Dritte
+weitergeben, es sei denn, die Weitergabe erfolgt zur Beantragung eines
+Visums für den Passinhaber und der Passinhaber hat der Weitergabe
+zugestimmt. Werden durch Ablichtung personenbezogene Daten aus dem
+Pass erhoben oder verarbeitet, so darf die datenerhebende oder
+-verarbeitende Stelle dies nur mit Einwilligung des Passinhabers tun.
+Die Vorschriften des allgemeinen Datenschutzrechts über die Erhebung
+und Verwendung personenbezogener Daten bleiben unberührt.
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der
 maschinenlesbaren Zone des Passes elektronisch nur auslesen und
@@ -770,27 +886,42 @@ Feststellung von Personalien ermächtigten Behörden und Beamten
 zuständig.
 
 
-### § 20 Kosten
+### § 20 Gebühren und Auslagen, Verordnungsermächtigung
 
-(1) Für Amtshandlungen nach diesem Gesetz und nach den auf diesem
-Gesetz beruhenden Rechtsvorschriften können von demjenigen, der die
-Amtshandlung veranlaßt oder, wenn ein solcher nicht vorhanden ist, von
-demjenigen, zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren
-und Auslagen) erhoben werden.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben
+die Passbehörden Gebühren und Auslagen nach den Absätzen 2 und 3.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, durch
+(2) Die Gebühr soll die mit der individuell zurechenbaren öffentlichen
+Leistung verbundenen Kosten aller an der Leistung Beteiligten decken.
+In die Gebühr sind die mit der Leistung regelmäßig verbundenen
+Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind die Kosten, die
+nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten
+zurechenbar und ansatzfähig sind, insbesondere Personal- und
+Sachkosten sowie kalkulatorische Kosten, zu Grunde zu legen. Zu den
+Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht.
+Grundlage der Gebührenermittlung nach den Sätzen 1 bis 4 sind die in
+der Gesamtheit der Länder mit der jeweiligen Leistung verbundenen
+Kosten. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6 und die
+§§ 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
+
+(3) Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, für den Bereich der Landesverwaltung durch
 Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Höhe der Gebühren und den Umfang
-der zu erstattenden Auslagen näher zu bestimmen sowie Ausnahmen von
-der Kostenpflicht zuzulassen. Die Gebühr für eine Amtshandlung nach
-Absatz 1 kann bis zur doppelten Höhe festgesetzt werden, wenn die
-Amtshandlungen auf Wunsch des Antragstellers außerhalb der Dienstzeit
-einer Paßbehörde vorgenommen werden.
+gebührenpflichtigen Tatbestände, die Gebührenhöhe und die
+Auslagenerstattung näher zu bestimmen. Wird die individuell
+zurechenbare öffentliche Leistung nach Absatz 1 auf Wunsch des
+Antragstellers außerhalb der Dienstzeit einer Passbehörde vorgenommen,
+kann eine Gebühr bis zur doppelten Höhe der nach der Rechtsverordnung
+nach Satz 1 bestimmten Gebühr erhoben werden.
 
-(3) Das Auswärtige Amt kann, um Kaufkraftunterschiede auszugleichen,
-Gebühren, die von den Auslandsvertretungen der Bundesrepublik
-Deutschland für Amtshandlungen nach Absatz 1 erhoben werden, mindern
-oder auf sie einen Zuschlag bis zu 300 Prozent festsetzen.
+(4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
+Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
+Auslandsvertretungen der Bundesrepublik Deutschland für individuell
+zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf
+diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von
+Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann
+bis zu 300 Prozent der Gebühren betragen.
 
 
 ### § 21 Paßregister
@@ -903,7 +1034,7 @@ aus dem Paßregister übermitteln. Voraussetzung ist, daß
 
 
 Hinsichtlich der Daten, die auch im Melderegister enthalten sind,
-finden außerdem die in den Meldegesetzen enthaltenen Beschränkungen
+finden außerdem die im Bundesmeldegesetz enthaltenen Beschränkungen
 Anwendung.
 
 (3) Die ersuchende Behörde trägt die Verantwortung dafür, daß die
@@ -949,21 +1080,42 @@ Seriennummer des Passes zu übermitteln.
 (1) In den Fällen des § 22 Abs. 2 kann die Übermittlung auch durch
 Datenübertragung erfolgen. § 6a Abs. 1 Satz 3 gilt entsprechend.
 
-(2) Im Fall der Übermittlung von Lichtbildern durch Passbehörden gemäß
-§ 19 Abs. 1 Satz 1 an die Polizei- und Ordnungsbehörden im Rahmen der
-Verfolgung von Straftaten und Verkehrsordnungswidrigkeiten sowie an
-die Steuerfahndungsstellen der Länder und an die Behörden der
-Zollverwaltung im Rahmen der Verfolgung von Straftaten und
-Ordnungswidrigkeiten kann der Abruf des Lichtbildes im automatisierten
-Verfahren erfolgen. Der Abruf ist nur zulässig, wenn die Passbehörde
-nicht erreichbar ist und ein weiteres Abwarten den Ermittlungszweck
-gefährden würde. Zuständig für den Abruf sind die
+(2) Im Fall der Übermittlung von Lichtbildern durch Passbehörden nach
+§ 19 Absatz 1 Satz 1 an die Ordnungsbehörden im Rahmen der Verfolgung
+von Verkehrsordnungswidrigkeiten kann der Abruf des Lichtbildes im
+automatisierten Verfahren erfolgen. Der Abruf ist nur zulässig, wenn
+die Passbehörde nicht erreichbar ist und ein weiteres Abwarten den
+Ermittlungszweck gefährden würde. Zuständig für den Abruf sind die
 Polizeivollzugsbehörden auf Ebene der Landkreise und kreisfreien
 Städte, die durch Landesrecht bestimmt werden. Die abrufende Behörde
 trägt die Verantwortung dafür, dass die Voraussetzungen der Absätze 1
-und 2 Satz 2 vorliegen. Über alle Abrufe sind von den beteiligten
-Behörden Aufzeichnungen zu fertigen, die eine Kontrolle der
-Zulässigkeit der Abrufe ermöglichen. Die Aufzeichnungen enthalten:
+und 2 Satz 2 vorliegen. Die Polizeibehörden des Bundes und der Länder,
+der Militärische Abschirmdienst, der Bundesnachrichtendienst, die
+Verfassungsschutzbehörden des Bundes und der Länder,
+Steuerfahndungsdienststellen der Länder, der Zollfahndungsdienst und
+die Hauptzollämter dürfen das Lichtbild zur Erfüllung ihrer Aufgaben
+im automatisierten Verfahren abrufen. Ferner dürfen die zur
+Ausstellung
+
+1.  des Führerscheins,
+
+
+2.  des Fahrerqualifizierungsnachweises oder
+
+
+3.  der Fahrerkarte
+
+
+
+zuständigen Behörden das Lichtbild sowie die Unterschrift der
+antragstellenden Person im automatisierten Verfahren abrufen, wenn die
+antragstellende Person zuvor im Rahmen der Online-Beantragung in die
+elektronische Übermittlung eingewilligt hat. Die abrufende Behörde
+trägt die Verantwortung dafür, dass die Voraussetzungen des Absatzes 1
+vorliegen. Über alle Abrufe sind von den beteiligten Behörden
+Aufzeichnungen zu fertigen, die eine Kontrolle der Zulässigkeit der
+Abrufe ermöglichen. Abrufe nach den Sätzen 5 und 6 werden nur von der
+abrufenden Behörde protokolliert. Die Aufzeichnungen enthalten:
 
 1.  Vor- und Familiennamen sowie Tag und Ort der Geburt der Person, deren
     Lichtbild abgerufen wurde,
@@ -1042,24 +1194,10 @@ Grundgesetzes
 
 
 4.  entgegen § 15 Nr. 3, 4 oder 5 eine Anzeige nicht oder nicht
-    rechtzeitig erstattet,
+    rechtzeitig erstattet oder
 
 
-5.  gegen ein Verbot der Verwendung
-
-    a)  der Seriennummer gemäß § 18 Abs. 2 oder
-
-
-    b)  des Passes zum automatischen Abruf oder zur automatischen Speicherung
-        personenbezogener Daten gemäß § 18 Abs. 3
-
-
-
-    verstößt oder
-
-
-6.  entgegen § 18 Abs. 4 personenbezogene Daten ausliest, verarbeitet oder
-    nicht oder nicht rechtzeitig löscht oder biometrische Daten ausliest.
+5.  entgegen § 18 Absatz 3 Satz 2 eine Kopie weitergibt.
 
 
 
@@ -1078,16 +1216,15 @@ Grundgesetzes
 
 
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nr. 4 und
-5 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des
-Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro und in den
-übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
-werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 und des
+Absatzes 2 Nummer 5 mit einer Geldbuße bis zu dreißigtausend Euro und
+in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro
+geahndet werden.
 
 (5) In den Fällen der Absätze 2 und 3 kann der Versuch der
 Ordnungswidrigkeit geahndet werden.
 
-(6) In den Fällen des Absatzes 2 Nr. 1 und 3 kann die Tat auch dann
+(6) In den Fällen des Absatzes 2 Nummer 2 und 4 kann die Tat auch dann
 geahndet werden, wenn sie im Ausland begangen wird.
 
 
@@ -1098,9 +1235,9 @@ Ordnungswidrigkeiten sind
 
 1.  für die Auslandsvertretungen der Bundesrepublik Deutschland das
     Auswärtige Amt oder die vom Auswärtigen Amt im Benehmen mit dem
-    Bundesministerium des Innern durch Rechtsverordnung bestimmte Behörde
-    des Bundes; die Rechtsverordnung bedarf nicht der Zustimmung des
-    Bundesrates;
+    Bundesministerium des Innern, für Bau und Heimat durch
+    Rechtsverordnung bestimmte Behörde des Bundes; die Rechtsverordnung
+    bedarf nicht der Zustimmung des Bundesrates;
 
 
 2.  die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes
@@ -1119,8 +1256,24 @@ Ordnungswidrigkeiten sind
 ### § 27 Allgemeine Verwaltungsvorschriften
 
 Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des
-Innern allgemeine Verwaltungsvorschriften über das Ausstellen
-amtlicher Pässe.
+Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften über das
+Ausstellen amtlicher Pässe.
+
+
+### § 27a Regelungsbefugnisse der Länder
+
+Durch Landesrecht können zentrale Passregisterdatenbestände zur
+Speicherung des Lichtbilds und der Unterschrift für die Durchführung
+eines automatisierten Abrufs des Lichtbilds nach § 22a Absatz 2 Satz 1
+und 5 sowie eines automatisierten Abrufs des Lichtbilds und der
+Unterschrift nach § 22a Absatz 2 Satz 6 eingerichtet werden. In diesem
+Fall gelten § 4 Absatz 3 Satz 3, § 21 Absatz 4 und § 22a Absatz 2 Satz
+6 bis 9 entsprechend. Macht ein Land von der Regelungsbefugnis
+Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und
+Unterschriften vor unbefugtem Zugriff geschützt sind. Die Lichtbilder
+und Unterschriften dürfen nur so gespeichert werden, dass keine
+Verknüpfung mit anderen als für den automatisierten Abruf benötigten
+Daten ermöglicht wird.
 
 
 ### § 28 Übergangsregelungen
@@ -1139,4 +1292,9 @@ von § 6a Abs. 1 Satz 1 und 2 die Datenübermittlung zwischen
 Passbehörden und Vermittlungsstellen statt durch Datenübertragung auch
 auf automatisiert verarbeitbaren Datenträgern zulässig. § 6a Abs. 1
 Satz 3 erster Halbsatz gilt entsprechend.
+
+(3) Für Kinderpässe, die vor dem 1. Januar 2021 beantragt worden sind,
+ist § 5 Absatz 2 in der bis einschließlich 31. Dezember 2020 geltenden
+Fassung weiterhin anzuwenden. Für deren Verlängerung gilt § 5 Absatz 4
+Satz 2 und 3 in der ab dem 1. Januar 2021 geltenden Fassung.
 

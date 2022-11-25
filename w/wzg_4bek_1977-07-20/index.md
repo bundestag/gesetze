@@ -59,9 +59,8 @@ Der Bundesminister der Justiz
 
 ## Anlage 2 Bezeichnungen und Kennzeichen der Europäischen Weltraumbehörde
 
-(Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
 Fundstelle: BGBl. I 1977, 1346)
-
+![bgbl1_1977_j1346_0010.jpg](bgbl1_1977_j1346_0010.jpg)
 
 ## Anlage 3
 

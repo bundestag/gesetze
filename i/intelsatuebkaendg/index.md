@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1998, 1742
 
 Zuletzt geändert durch
-:   Art. 276 V v. 31.10.2006 I 2407
+:   Art. 457 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -32,13 +32,13 @@ deutschen Übersetzung veröffentlicht.
 
 ## Art 2
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit
-und Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit und
+Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern
 (Signatare) durch Rechtsverordnung zu regeln.
 
 (2) Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für
-Wirtschaft und Technologie wird ermächtigt, im Einvernehmen mit dem
+Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen, die gebührenpflichtigen Tatbestände,
 die Höhe der Gebühr und die Erstattung von Auslagen durch
 Rechtsverordnung zu regeln.
@@ -46,8 +46,8 @@ Rechtsverordnung zu regeln.
 
 ## Art 3
 
-Das Bundesministerium für Wirtschaft und Technologie kann das
-INTELSAT-Übereinkommen in der durch die vereinbarten Änderungen vom 1.
+Das Bundesministerium für Wirtschaft und Energie kann das INTELSAT-
+Übereinkommen in der durch die vereinbarten Änderungen vom 1.
 September 1995 geänderten Fassung mit einer amtlichen deutschen
 Übersetzung in der Neufassung bekanntmachen.
 

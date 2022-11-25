@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1964, 593
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.12.2007 I 3198
+:   Art. 5 G v. 30.11.2020 I 2600
 
 
 ## Eingangsformel
@@ -52,9 +52,6 @@ unterworfen hat.
 
 
 2.  Fraktionen des Deutschen Bundestages und der Parlamente der Länder.
-
-
-3.  (weggefallen)
 
 
 
@@ -98,19 +95,20 @@ zu verbinden.
     Tätigkeit sich auf das Gebiet eines Landes beschränken;
 
 
-2.  der Bundesminister des Innern für Vereine und Teilvereine, deren
-    Organisation oder Tätigkeit sich über das Gebiet eines Landes hinaus
-    erstreckt.
+2.  das Bundesministerium des Innern, für Bau und Heimat für Vereine und
+    Teilvereine, deren Organisation oder Tätigkeit sich über das Gebiet
+    eines Landes hinaus erstreckt.
 
 
 
 Die oberste Landesbehörde oder die nach Landesrecht zuständige Behörde
-entscheidet im Benehmen mit dem Bundesminister des Innern, wenn sich
-das Verbot gegen den Teilverein eines Vereins richtet, für dessen
-Verbot nach Satz 1 Nr. 2 der Bundesminister des Innern zuständig ist.
-Der Bundesminister des Innern entscheidet im Benehmen mit Behörden,
-die nach Satz 1 Nr. 1 für das Verbot von Teilvereinen zuständig
-gewesen wären.
+entscheidet im Benehmen mit dem Bundesministerium des Innern, für Bau
+und Heimat, wenn sich das Verbot gegen den Teilverein eines Vereins
+richtet, für dessen Verbot nach Satz 1 Nr. 2 das Bundesministerium des
+Innern, für Bau und Heimat zuständig ist. Das Bundesministerium des
+Innern, für Bau und Heimat entscheidet im Benehmen mit Behörden, die
+nach Satz 1 Nr. 1 für das Verbot von Teilvereinen zuständig gewesen
+wären.
 
 (3) Das Verbot erstreckt sich, wenn es nicht ausdrücklich beschränkt
 wird, auf alle Organisationen, die dem Verein derart eingegliedert
@@ -154,8 +152,8 @@ Mitgliedern des Vereins stützen, wenn
 (1) Die Verbotsbehörde kann für ihre Ermittlungen die Hilfe der für
 die Wahrung der öffentlichen Sicherheit oder Ordnung zuständigen
 Behörden und Dienststellen in Anspruch nehmen. Ermittlungsersuchen des
-Bundesministers des Innern sind an die zuständige oberste
-Landesbehörde zu richten.
+Bundesministeriums des Innern, für Bau und Heimat sind an die
+zuständige oberste Landesbehörde zu richten.
 
 (2) Hält die Verbotsbehörde oder eine gemäß Absatz 1 Satz 1 ersuchte
 Stelle eine richterliche Vernehmung von Zeugen, eine Beschlagnahme von
@@ -258,8 +256,8 @@ Vollziehbarkeit des Verbots nicht mehr
 1.  öffentlich, in einer Versammlung oder
 
 
-2.  in Schriften, Ton- oder Bildträgern, Abbildungen oder Darstellungen,
-    die verbreitet werden oder zur Verbreitung bestimmt sind,
+2.  in einem Inhalt (§ 11 Absatz 3 des Strafgesetzbuches), der verbreitet
+    wird oder zur Verbreitung bestimmt ist,
 
 
 
@@ -274,8 +272,12 @@ genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln
 
 (3) Absatz 1 gilt entsprechend für Kennzeichen eines verbotenen
 Vereins, die in im Wesentlichen gleicher Form von anderen nicht
-verbotenen Teilorganisationen oder von selbständigen, die Zielrichtung
-des verbotenen Vereins teilenden Vereinen verwendet werden.
+verbotenen Teilorganisationen oder von selbständigen Vereinen
+verwendet werden. Ein Kennzeichen eines verbotenen Vereins wird
+insbesondere dann in im Wesentlichen gleicher Form verwendet, wenn bei
+ähnlichem äußerem Gesamterscheinungsbild das Kennzeichen des
+verbotenen Vereins oder Teile desselben mit einer anderen Orts- oder
+Regionalbezeichnung versehen wird.
 
 (4) Diese Vorschriften gelten auch für die Verwendung von Kennzeichen
 einer Ersatzorganisation für die Dauer der Vollziehbarkeit einer
@@ -348,12 +350,12 @@ Stiftung gehört haben, bilden eine eigene Vermögensmasse. Der Verein
 und die von der Einziehung betroffenen Teilorganisationen erlöschen.
 Ihre Rechtsverhältnisse sind im Einziehungsverfahren abzuwickeln.
 
-(3) Der Bundesminister des Innern als Verbotsbehörde kann mit der
-Durchführung der Einziehung und mit der Abwicklung (§ 13) das
-Bundesverwaltungsamt oder eine andere Bundesbehörde beauftragen
-(Einziehungsbehörde). § 10 Abs. 3 gilt entsprechend. Die Beauftragung
-ist im Bundesanzeiger und in dem in § 3 Abs. 4 Satz 2 genannten
-Mitteilungsblatt zu veröffentlichen.
+(3) Das Bundesministerium des Innern, für Bau und Heimat als
+Verbotsbehörde kann mit der Durchführung der Einziehung und mit der
+Abwicklung (§ 13) das Bundesverwaltungsamt oder eine andere
+Bundesbehörde beauftragen (Einziehungsbehörde). § 10 Abs. 3 gilt
+entsprechend. Die Beauftragung ist im Bundesanzeiger und in dem in § 3
+Abs. 4 Satz 2 genannten Mitteilungsblatt zu veröffentlichen.
 
 (4) Die Verbotsbehörde kann von der Einziehung absehen, wenn keine
 Gefahr besteht, daß Vermögenswerte des Vereins von neuem zur Förderung
@@ -507,7 +509,7 @@ unberührt.
 (1) Für Vereine mit Sitz im Ausland (ausländische Vereine), deren
 Organisation oder Tätigkeit sich auf den räumlichen Geltungsbereich
 dieses Gesetzes erstreckt, gilt § 14 entsprechend. Zuständig für das
-Verbot ist der Bundesminister des Innern.
+Verbot ist das Bundesministerium des Innern, für Bau und Heimat.
 
 (2) Ausländische Vereine und die einem ausländischen Verein
 eingegliederten Teilvereine, deren Mitglieder und Leiter sämtlich oder
@@ -643,7 +645,8 @@ darin ausgeübte Tätigkeit
 
 
 3.  den organisatorischen Zusammenhalt eines Vereines oder einer Partei
-    der in den Nummern 1 und 2 bezeichneten Art unterstützt,
+    der in den Nummern 1 und 2 bezeichneten Art oder deren weitere
+    Betätigung unterstützt,
 
 
 4.  einem vollziehbaren Verbot nach § 14 Abs. 3 Satz 1 oder § 18 Satz 2
@@ -658,10 +661,10 @@ darin ausgeübte Tätigkeit
 
 
 
-wird mit Gefängnis bis zu einem Jahr oder mit Geldstrafe bestraft,
-wenn die Tat nicht in den §§ 84, 85, 86a oder den §§ 129 bis 129b des
-Strafgesetzbuches mit Strafe bedroht ist. In den Fällen der Nummer 5
-gilt § 9 Abs. 1 Satz 2, Abs. 2 entsprechend.
+wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
+bestraft, wenn die Tat nicht in den §§ 84, 85, 86a oder den §§ 129 bis
+129b des Strafgesetzbuches mit Strafe bedroht ist. In den Fällen der
+Nummer 5 gilt § 9 Absatz 1 Satz 2, Absatz 2 oder 3 entsprechend.
 
 (2) Das Gericht kann von einer Bestrafung nach Absatz 1 absehen, wenn
 
@@ -698,7 +701,7 @@ Deutsche Mark geahndet werden.
 
 ### § 30 Aufhebung und Fortgeltung von Rechtsvorschriften
 
-(1)
+(1) (Aufhebungsvorschriften)
 
 (2) Unberührt bleiben
 
@@ -710,7 +713,7 @@ Deutsche Mark geahndet werden.
 
 3.  § 62 des Gesetzes betreffend die Gesellschaften mit beschränkter
     Haftung, §§ 288 bis 293 des Aktiengesetzes, § 81 des Gesetzes
-    betreffend die Erwerbs- und Wirtschaftsgenossenschaften, § 87 des
+    betreffend die Erwerbs- und Wirtschaftsgenossenschaften, § 304 des
     Versicherungsaufsichtsgesetzes und § 38 Abs. 1 des Gesetzes über das
     Kreditwesen,
 
@@ -724,6 +727,17 @@ Deutsche Mark geahndet werden.
 
 
 
+
+
+### § 30a Zuständige Stelle zur Ausführung der Verordnung (EU, Euratom) Nr. 1141/2014
+
+Zuständige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz
+1 und Absatz 5 sowie des Artikels 28 Absatz 1 der Verordnung (EU,
+Euratom) Nr. 1141/2014 des Europäischen Parlaments und des Rates vom
+22\. Oktober 2014 über das Statut und die Finanzierung europäischer
+politischer Parteien und europäischer politischer Stiftungen (ABl. L
+317 vom 4.11.2014, S. 1, L 131 vom 20.5.2016, S. 91) ist das
+Bundesministerium des Innern, für Bau und Heimat.
 
 
 ### § 31 Übergangsregelungen

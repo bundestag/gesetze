@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2186, 2189
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 94 G v. 22.12.2011 I 3044
+:   Art. 107 G v. 10.8.2021 I 3436
 
 
 ## § 1 Antrag auf Zulassung als Klassifizierungsunternehmen
@@ -37,7 +37,7 @@ verlängert werden, wenn dies wegen der Schwierigkeit der Angelegenheit
 gerechtfertigt ist. Die Fristverlängerung ist zu begründen und
 rechtzeitig mitzuteilen.
 
-(2) Der Zulassungsbescheid ergeht schriftlich.
+(2) Der Zulassungsbescheid ergeht schriftlich oder elektronisch.
 
 
 ## § 2 Antragsinhalt
@@ -162,8 +162,8 @@ die der Klassifizierer über die erforderliche Sachkunde verfügt.
 (2) Hält ein Klassifizierer Tiere, die zur Schlachtung geeignet sind,
 so steht dies seiner nach § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes
 erforderlichen Unabhängigkeit nicht entgegen, wenn sichergestellt ist,
-dass seine Tiere nicht in einem Schlachtbetrieb, in dem der
-Klassifizierer tätig ist, geschlachtet werden.
+dass der Klassifizierer nicht an dem Tag, an dem seine Tiere in einem
+Schlachtbetrieb geschlachtet werden, in selbigem tätig ist.
 
 (3) Die Zulassung als Klassifizierer für die Klassifizierung von
 Schweineschlachtkörpern erfolgt für das ZP-Verfahren sowie jeweils
@@ -191,12 +191,13 @@ gesonderte Sachkundeprüfung erforderlich.
 ## § 6 Zulassungsantrag
 
 (1) Der Antrag auf Zulassung als Klassifizierer ist bei der
-zuständigen Behörde schriftlich einzureichen. Zuständig ist die
-Behörde, in deren Bezirk der Antragsteller seine melderechtliche
-Hauptwohnung hat. Auf Verlangen der zuständigen Behörde hat der
-Antragsteller Unterlagen auch oder ausschließlich elektronisch zu
-übermitteln. Die zuständige Behörde kann für den Antrag Muster im
-Bundesanzeiger bekannt geben und die Verwendung der Muster verlangen.
+zuständigen Behörde schriftlich oder elektronisch einzureichen.
+Zuständig ist die Behörde, in deren Bezirk der Antragsteller seine
+melderechtliche Hauptwohnung hat. Auf Verlangen der zuständigen
+Behörde hat der Antragsteller Unterlagen auch oder ausschließlich
+elektronisch zu übermitteln. Die zuständige Behörde kann für den
+Antrag Muster im Bundesanzeiger bekannt geben und die Verwendung der
+Muster verlangen.
 
 (2) Der Antrag nach Absatz 1 muss enthalten:
 
@@ -385,11 +386,6 @@ Zeitraum von mehr als zwei Jahren nicht an einem Fortbildungskurs
 teilgenommen, darf er seine Tätigkeit erst wieder ausüben, nachdem er
 eine erneute Sachkundeprüfung bestanden hat.
 
-
-## § 16 Übergangsregelung
-
-§ 3 Abs. 3 ist erst ab dem 1. November 2009 anzuwenden.
-
 (zu § 7 Abs. 1 und § 12 Abs. 1)
 
 ## Anlage 1 Sachkundeprüfung
@@ -500,8 +496,8 @@ I.  Klassifizierung mit Choirometern
     1.1 Am einzelnen Schlachtkörper:
 
 
-    1.1.1 Der Einstich muss in der Höhe (caudal/cranial) zwischen der 2./3.
-        letzten Rippe liegen.
+    1.1.1 Der Einstich muss in der Höhe (caudal/cranial) zwischen der zweit- und
+        drittletzten Rippe liegen.
 
 
     1.1.2 Der Einstich 7 cm seitlich der Trennlinie (medial/lateral) darf
@@ -605,10 +601,10 @@ II. Klassifizierung mit einer AutoFOM-Anlage
 III. Klassifizierung mit dem ZP-Verfahren
 
     1.  Die für die Prüfung im ZP-Verfahren zugrunde zu legenden Messwerte
-        (Referenzwerte) werden vom Prüfer an mindestens zwanzig
-        Schweineschlachtkörpern festgelegt. Die Referenzwerte werden durch
-        Messungen am Schweineschlachtkörper nach Anlage 3 der
-        Schweineschlachtkörper-Handelsklassenverordnung ermittelt.
+        (Referenzwerte) werden vom Prüfer an zwanzig Schweineschlachtkörpern
+        festgelegt. Die Referenzwerte werden durch Messungen am
+        Schweineschlachtkörper nach Anlage 3 der Schweineschlachtkörper-
+        Handelsklassenverordnung ermittelt.
 
 
     2.  Prüfer und Prüfungsteilnehmer haben das gleiche Messwerkzeug zu
@@ -634,7 +630,7 @@ III. Klassifizierung mit dem ZP-Verfahren
     4.2 Abweichungen, die über die unter 4.1 genannten Maße hinausgehen,
         werden maximal bei jeweils 10 Prozent der Schlachtkörper toleriert;
         dabei ist Kumulieren zulässig, jedoch sind je Toleranzmerkmal nicht
-        mehr als fünf Überschreitungen zulässig.
+        mehr als drei Überschreitungen zulässig.
 
 
     4.3 (weggefallen)

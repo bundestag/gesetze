@@ -1,8 +1,6 @@
-[^f772437_01_BJNR211800009]
-Verordnung über die Erhebung von Daten zur Einbeziehung des
-Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel
 ---
-Title: ''
+Title: Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie
+  weiterer Tätigkeiten in den Emissionshandel
 jurabk: DEV 2020
 layout: default
 origslug: dev_2020
@@ -10,7 +8,7 @@ slug: dev_2020
 
 ---
 
-#  (DEV 2020)
+# Verordnung über die Erhebung von Daten zur Einbeziehung des Luftverkehrs sowie weiterer Tätigkeiten in den Emissionshandel (DEV 2020)
 
 Ausfertigungsdatum
 :   2009-07-22
@@ -19,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2118
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 21 G v. 22.12.2011 I 3044
+:   Art. 129 V v. 19.6.2020 I 1328
 
 [^f772437_01_BJNR211800009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
@@ -249,7 +247,7 @@ der in Absatz 1 Satz 1 und Absatz 5 Satz 1 genannten Emissionen
 beziehen, hat der Luftfahrzeugbetreiber nach Maßgabe der geänderten
 Monitoring-Leitlinien den Überwachungsplan zu erstellen sowie die
 Emissionen zu ermitteln und über sie zu berichten. Das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt
 die für den Luftfahrzeugbetreiber maßgeblichen Änderungen nach Satz 1
 und 2 im Bundesanzeiger bekannt.
 

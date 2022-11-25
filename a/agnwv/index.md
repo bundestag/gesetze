@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne
-  des § 19 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
+  des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes
 jurabk: AgNwV
 layout: default
 origslug: agnwv
@@ -8,13 +8,19 @@ slug: agnwv
 
 ---
 
-# Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 19 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (AgNwV)
+# Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (AgNwV)
 
 Ausfertigungsdatum
 :   2009-10-15
 
 Fundstelle
 :   BGBl I: 2009, 3641
+
+Geändert durch
+:   Art. 1 V v. 10.12.2018 I 2329
+
+Änderung durch
+:   Art. 7 Abs. 37 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -28,8 +34,8 @@ Deutschen Bundesbank nach Anhörung der Verbände der Zahlungsinstitute:
 ## § 1 Nachweise
 
 (1) Als Nachweis über die Zuverlässigkeit und die fachliche Eignung
-eines Agenten hat ein Zahlungsinstitut für die Zwecke des § 19 Absatz
-2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes mindestens einzuholen:
+eines Agenten hat ein Institut für die Zwecke des § § 25 Absatz 2 Satz
+1 des Zahlungsdiensteaufsichtsgesetzes mindestens einzuholen:
 
 1.  ein aktuelles Führungszeugnis der Geschäftsleiter des Agenten und der
     für die Geschäftsleitung verantwortlichen Personen (§ 30 Absatz 1 des
@@ -41,9 +47,8 @@ eines Agenten hat ein Zahlungsinstitut für die Zwecke des § 19 Absatz
     die für die Geschäftsleitung verantwortlichen Personen;
 
 
-3.  eine aktuelle Auskunft aus dem Schuldnerverzeichnis nach § 915 der
-    Zivilprozessordnung und dem Schuldnerverzeichnis nach § 26 Absatz 2
-    der Insolvenzordnung für den Agenten, die Geschäftsleiter des Agenten
+3.  eine aktuelle Auskunft aus dem Schuldnerverzeichnis nach § 882b der
+    Zivilprozessordnung für den Agenten, die Geschäftsleiter des Agenten
     und die für die Geschäftsleitung verantwortlichen Personen;
 
 
@@ -93,18 +98,20 @@ eines Agenten hat ein Zahlungsinstitut für die Zwecke des § 19 Absatz
 Unvollständigkeiten, Mängeln und Widersprüchen in Bezug auf die vom
 Agenten, für die Geschäftsleiter des Agenten oder für die
 verantwortlichen Personen vorgelegten oder eingeholten Unterlagen und
-Angaben hat das Zahlungsinstitut aktiv nachzugehen und diese
-aufzuklären. Erforderlichenfalls sind weitere Nachweise einzuholen.
-Für Agenten im Sinne des § 19 Absatz 4 des
-Zahlungsdiensteaufsichtsgesetzes sind vergleichbare Behördenauskünfte
-einzuholen, soweit diese in dem Staat, in dem der Agent ansässig ist,
-erteilt werden. Sieht das Recht des Staates, in dem der Agent ansässig
-ist, weitere Nachweise vor gemäß Artikel 17 Absatz 1 Buchstabe c der
-Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom
-13\. November 2007 über Zahlungsdienste im Binnenmarkt, zur Änderung
-der Richtlinien 97/7/EG, 2002/65/EG, 2005/60/EG und 2006/48/EG sowie
-zur Aufhebung der Richtlinie 97/5/EG (ABl. L 319 vom 5.12.2007, S. 1,
-L 187 vom 18.7.2009, S. 5), sind diese ebenfalls einzuholen.
+Angaben hat das Institut aktiv nachzugehen und diese aufzuklären.
+Erforderlichenfalls sind weitere Nachweise einzuholen. Für Agenten im
+Sinne des § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes sind
+vergleichbare Behördenauskünfte einzuholen, soweit diese in dem Staat,
+in dem der Agent ansässig ist, erteilt werden. Sieht das Recht des
+Staates, in dem der Agent ansässig ist, weitere Nachweise gemäß
+Artikel 19 Absatz 1 Buchstabe c der Richtlinie (EU) 2015/2366 des
+Europäischen Parlaments und des Rates vom 25. November 2015 über
+Zahlungsdienste im Binnenmarkt, zur Änderung der Richtlinien
+2002/65/EG, 2009/110/EG und 2013/36/EU und der Verordnung (EU) Nr.
+1093/2010 sowie zur Aufhebung der Richtlinie 2007/64/EG (ABl. L 337
+vom 23.12.2015, S. 35; L 169 vom 28.6.2016, S. 18; L 102 vom
+23\.4.2018, S. 97; L 126 vom 23.5.2018, S. 10) vor, sind diese
+ebenfalls einzuholen.
 
 (2) Die fachliche Eignung erfordert den Nachweis ausreichender
 theoretischer und praktischer Kenntnisse des Agenten über die zu
@@ -116,16 +123,15 @@ erbringenden Zahlungsdienste.
 (1) Um dauerhaft sicherzustellen, dass der Agent zuverlässig und
 fachlich geeignet ist, bei der Erbringung der Zahlungsdienste die
 gesetzlichen Vorgaben erfüllt und seinen Informationspflichten genügt,
-hat das Zahlungsinstitut mit dem Agenten eine schriftliche
-Vereinbarung zu treffen, welche die Pflichten des Agenten und die
-Rechte des Zahlungsinstituts einschließlich Weisungs- und
-Kündigungsrechte sowie Kontrollrechte des Zahlungsinstituts und dessen
-Prüfern festschreibt.
+hat das Institut mit dem Agenten eine schriftliche Vereinbarung zu
+treffen, welche die Pflichten des Agenten und die Rechte des Instituts
+einschließlich Weisungs- und Kündigungsrechte sowie Kontrollrechte des
+Instituts und dessen Prüfern festschreibt.
 
-(2) Das Zahlungsinstitut hat die Überprüfungen des Agenten zu
-dokumentieren. Die nach § 1 Absatz 1 erforderlichen Nachweise, dass
-der Agent zuverlässig und fachlich geeignet ist, sind in angemessenen
-Abständen regelmäßig zu erneuern.
+(2) Das Institut hat die Überprüfungen des Agenten zu dokumentieren.
+Die nach § 1 Absatz 1 erforderlichen Nachweise, dass der Agent
+zuverlässig und fachlich geeignet ist, sind in angemessenen Abständen
+regelmäßig zu erneuern.
 
 
 ## § 3 Ausnahme für beaufsichtigte Agenten
@@ -133,9 +139,10 @@ Abständen regelmäßig zu erneuern.
 Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im
 Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder
 einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum beaufsichtigtes Kredit-,
-E-Geld-,              Finanzdienstleistungs- oder Zahlungsinstitut
-ist.
+Wirtschaftsraum beaufsichtigtes Institut im Sinne des § 1 Absatz 3 des
+Zahlungsdiensteaufsichtsgesetzes oder im Sinne des § 1 Absatz 1b des
+Kreditwesengesetzes oder Wertpapierinstitut im Sinne des § 2 Absatz 1
+des Wertpapierinstitutsgesetzes ist.
 
 
 ## § 4 Inkrafttreten

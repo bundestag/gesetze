@@ -16,8 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1906
 
-Geändert durch
-:   Art. 4 G v. 4.5.2005 I 1234
+Stand: Zukünftige amtl. Langüberschrift: Stellenvorbehaltsverordnung (ab 1.1.2025; 2021 I 3932)
+Zuletzt geändert durch
+:   Art. 16 G v. 20.8.2021 I 3932
+
+[^BJNR106610014_01_BJNR190600999]:     Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 16 Nr. 1 G v.
+    20\.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:
+    **Stellenvorbehaltsverordnung (StVorV)**
 
 
 ## Eingangsformel
@@ -50,8 +55,8 @@ vorzubehaltenden Stellen sind zuständig
         Anstalten und Stiftungen des öffentlichen Rechts für ihren Bereich,
 
 
-    c)  das Bundesversicherungsamt für die seiner Aufsicht unterstehenden
-        Körperschaften und Anstalten des öffentlichen Rechts,
+    c)  das Bundesamt für Soziale Sicherung für die seiner Aufsicht
+        unterstehenden Körperschaften und Anstalten des öffentlichen Rechts,
 
 
     d)  der Präsident des Bundeseisenbahnvermögens für seinen Bereich,

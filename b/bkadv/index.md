@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 716
 
-Geändert durch
-:   Art. 2 V v. 4.6.2010 I 716
+Zuletzt geändert durch
+:   Art. 6 Abs. 12 G v. 13.4.2017 I 872
 
 
 ## § 1 Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale
@@ -212,8 +212,7 @@ Absatz 2 des Bundeskriminalamtgesetzes sind
 
 
     f)  Ausgang des Verfahrens einschließlich etwaiger Nebenfolgen, Maßregeln
-        der Besserung und Sicherung oder Entscheidungen über Verfall und
-        Einziehung,
+        der Besserung und Sicherung oder Entscheidungen über die Einziehung,
 
 
 
@@ -907,12 +906,19 @@ Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung
 festlegen, dass Daten gemäß § 6 Absatz 1 Nummer 1 bis 6 in einer
 Datei, die der Fahndung nach Personen oder der polizeilichen
 Beobachtung dient, gespeichert werden dürfen. Abweichend von Satz 1
-richtet sich für Ausschreibungen nach Artikel 95 bis 100 des
-Schengener Durchführungsübereinkommens (BGBl. 1993 II S. 1010, 1013;
-1994 II S. 631) die Art der Daten, die das Bundeskriminalamt im
-nationalen Teil des Schengener Informationssystems speichern darf,
-nach Artikel 94 Absatz 2 und 3 des Schengener
-Durchführungsübereinkommens.
+richtet sich für Ausschreibungen nach Artikel 24 der Verordnung (EG)
+Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20.
+Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des
+Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L
+381 vom 28.12.2006, S. 4) sowie für Ausschreibungen nach Artikel 26,
+32, 34, 36 und 38 des Beschlusses 2007/533/JI des Rates vom 12. Juni
+2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener
+Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom
+7\.8.2007, S. 63) die Art der Daten, die das Bundeskriminalamt im
+nationalen Teil des Schengener Informationssystems verarbeiten darf,
+nach Artikel 20 Absatz 2 und 3 und Artikel 27 des Ratsbeschlusses
+2007/533/JI und nach Artikel 20 Absatz 2 der Verordnung (EG) Nr.
+1987/2006.
 
 (2) Das Bundeskriminalamt kann in der nach § 34 des
 Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung

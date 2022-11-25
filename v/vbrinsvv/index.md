@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Einführung von Vordrucken für das Verbraucherinsolvenzverfahren
+Title: Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren
   und das Restschuldbefreiungsverfahren
 jurabk: VbrInsVV
 layout: default
@@ -8,13 +8,16 @@ slug: vbrinsvv
 
 ---
 
-# Verordnung zur Einführung von Vordrucken für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren (VbrInsVV)
+# Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren (VbrInsVV)
 
 Ausfertigungsdatum
 :   2002-02-17
 
 Fundstelle
 :   BGBl I: 2002, 703
+
+Zuletzt geändert durch
+:   Art. 8 G v. 22.12.2020 I 3328
 
 
 
@@ -26,12 +29,12 @@ Auf Grund des § 305 Abs. 5 Satz 1 der Insolvenzordnung vom 5. Oktober
 das Bundesministerium der Justiz:
 
 
-## § 1 Vordrucke
+## § 1 Formulare
 
 (1) Für die im Verbraucherinsolvenzverfahren nach § 305 Abs. 1 der
 Insolvenzordnung zu stellenden Anträge und für die von den Beteiligten
 vorzulegenden Bescheinigungen, Verzeichnisse und Pläne werden die
-folgenden, in der Anlage bestimmten Vordrucke eingeführt:
+folgenden, in der Anlage bestimmten Formulare eingeführt:
 
 1.  Antrag auf Eröffnung des Insolvenzverfahrens nach § 305 der
     Insolvenzordnung mit Antrag auf Erteilung der Restschuldbefreiung nach
@@ -47,30 +50,24 @@ folgenden, in der Anlage bestimmten Vordrucke eingeführt:
         Einigungsversuchs nach § 305 Abs. 1 Nr. 1 der Insolvenzordnung,
 
 
-    c)  Abtretungserklärung nach § 287 Abs. 2 Satz 1 der Insolvenzordnung mit
-        Erklärung über bereits bestehende Abtretungen und Verpfändungen nach §
-        287 Abs. 2 Satz 2 der Insolvenzordnung,
+    c)  Abtretungserklärung nach § 287 Abs. 2 der Insolvenzordnung,
 
 
-    d)  Erklärung zur Abkürzung der Wohlverhaltensperiode nach Artikel 107 des
-        Einführungsgesetzes zur Insolvenzordnung,
-
-
-    e)  Zusammenfassung des wesentlichen Inhalts des Vermögensverzeichnisses
+    d)  Zusammenfassung des wesentlichen Inhalts des Vermögensverzeichnisses
         nach § 305 Abs. 1 Nr. 3 der Insolvenzordnung (Vermögensübersicht),
 
 
-    f)  Verzeichnis des vorhandenen Vermögens und des Einkommens nach § 305
+    e)  Verzeichnis des vorhandenen Vermögens und des Einkommens nach § 305
         Abs. 1 Nr. 3 der Insolvenzordnung mit Ergänzungsblättern
         (Vermögensverzeichnis),
 
 
-    g)  Verzeichnis der Gläubiger und Verzeichnis der gegen den Schuldner
+    f)  Verzeichnis der Gläubiger und Verzeichnis der gegen den Schuldner
         gerichteten Forderungen nach § 305 Abs. 1 Nr. 3 der Insolvenzordnung
         (Gläubiger- und Forderungsverzeichnis),
 
 
-    h)  Schuldenbereinigungsplan nach § 305 Abs. 1 Nr. 4 der Insolvenzordnung.
+    g)  Schuldenbereinigungsplan nach § 305 Abs. 1 Nr. 4 der Insolvenzordnung.
 
 
 
@@ -78,24 +75,42 @@ folgenden, in der Anlage bestimmten Vordrucke eingeführt:
 
 
 
-(2) Den Vordrucken ist ein Hinweisblatt beizufügen, das deren
+(2) Den Formularen ist ein Hinweisblatt beizufügen, das deren
 wesentlichen Inhalt kurz erläutert.
 
 
 ## § 2 Zulässige Abweichungen
 
-Folgende Abweichungen von den in der Anlage bestimmten Vordrucken und
+Folgende Abweichungen von den in der Anlage bestimmten Formularen und
 dem Hinweisblatt sind zulässig:
 
 1.  Berichtigungen, die auf einer Änderung von Rechtsvorschriften beruhen;
 
 
-2.  Ergänzungen oder Anpassungen des Hinweisblattes zu den Vordrucken,
-    soweit solche mit Rücksicht auf die Erfahrungen mit den Vordrucken
+2.  Ergänzungen oder Anpassungen des Hinweisblattes zu den Formularen,
+    soweit solche mit Rücksicht auf die Erfahrungen mit den Formularen
     geboten sind.
 
 
 
+
+
+## § 2a Übergangsregelung
+
+Wird ein Antrag auf Eröffnung eines Verbraucherinsolvenzverfahrens
+zwischen dem 1. Oktober 2020 und dem 31. März 2021 gestellt, können
+die in der Anlage zur Verbraucherinsolvenzformularverordnung in der
+Fassung der Verordnung zur Änderung der
+Verbraucherinsolvenzvordruckverordnung vom 23. Juni 2014 (BGBl. I S.
+825) vorgesehenen Formulare weiterhin verwendet werden. Wird von der
+in Satz 1 genannten Möglichkeit Gebrauch gemacht, ist eine in der
+Abtretungserklärung erklärte, von § 287 Absatz 2 der Insolvenzordnung
+in der Fassung des Gesetzes zur weiteren Verkürzung des
+Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter
+Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und
+Stiftungsrecht sowie im Miet- und Pachtrecht vom 22. Dezember 2020
+(BGBl. I S. 3328) abweichende anderslautende Abtretungsfrist nach
+Maßgabe von § 2 Nummer 1 zu berichtigen.
 
 
 ## § 3 Inkrafttreten
@@ -110,6 +125,41 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage
 
-... (nicht darstellbare Anlage)
-Fundstelle: BGBl. I 2002, 704 - 745
+(Fundstelle: BGBl. I 2014, 826 - 870;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+Formulare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -13,10 +13,10 @@ Ausfertigungsdatum
 :   2001-02-20
 
 Fundstelle
-:   BGBl I: 2001, 317
+:   BGBl I: 2001, 305, 317
 
-Geändert durch
-:   Art. 3 V v. 27.4.2009 I 900
+Zuletzt geändert durch
+:   Art. 2 V v. 13.12.2019 I 2739
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -50,12 +50,13 @@ genehmigungsbedürftige Anlagen genehmigungsbedürftig sind.
 
 1.  für die Erzeugung von verwertbarem Kompost oder Biogas ausschließlich
     aus Bioabfällen gemäß § 2 Nr. 1 der Bioabfallverordnung vom 21.
-    September 1998 (BGBl. I S. 2955) oder Erzeugnissen oder
-    Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder
-    Klärschlämmen gemäß § 2 Abs. 2 der Klärschlammverordnung vom 15. April
-    1992 (BGBl. I S. 912), die durch die Verordnung vom 6. März 1997
-    (BGBl. I S. 446) geändert worden ist, sowie des Einsatzes eines
-    Gemisches der vorgenannten Stoffe in Kofermentationsanlagen oder
+    September 1998 (BGBl. I S. 2955) oder aus Erzeugnissen oder
+    Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder aus
+    Klärschlamm nach § 2 Absatz 2, Klärschlammgemisch nach § 2 Absatz 7
+    oder Klärschlammkompost nach § 2 Absatz 8 der Klärschlammverordnung
+    vom 27. September 2017 (BGBl. I S. 3465), in der jeweils geltenden
+    Fassung, sowie aus einem Gemisch der vorgenannten Stoffe in
+    Kofermentationsanlagen oder
 
 
 2.  für die Ausfaulung von Klärschlamm
@@ -264,7 +265,9 @@ Bebauungsplan festgesetzten Wohnbebauung nicht unterschritten werden.
 
 (1) Entladestellen, Aufgabe- oder Aufnahmebunker oder andere
 Einrichtungen für Anlieferung, Transport und Lagerung der
-Einsatzstoffe sind in geschlossenen Räumen mit Schleusen zu errichten,
+Einsatzstoffe sind in geschlossenen Räumen mit Schleusen oder
+funktionell gleichwertigen Einrichtungen, zum Beispiel mit
+Luftschleieranlagen in Kombination mit Schnelllauftoren, zu errichten,
 in denen der Luftdruck durch Absaugung im Schleusenbereich oder im
 Bereich der Be- und Entladung und der Lagerung kleiner als der
 Atmosphärendruck zu halten ist. Das abgesaugte Abgas ist einer
@@ -319,10 +322,11 @@ soweit sie nicht unmittelbar in einer Verbrennungsanlage energetisch
 genutzt werden können.
 
 (4) Möglichkeiten, die Emissionen durch den Einsatz emissionsarmer
-Verfahren und Technologien, zum Beispiel durch eine Mehrfachnutzung
-von Abgas als Prozessluft beim Rottevorgang oder eine
+Verfahren und Technologien zu mindern, zum Beispiel durch eine
+Getrennthaltung unterschiedlich belasteter Abgasströme, eine
+Mehrfachnutzung von Abgas als Prozessluft beim Rottevorgang oder eine
 prozessintegrierte Rückführung anfallender Prozesswässer oder
-schlammförmiger Rückstände zu mindern, sind auszuschöpfen.
+schlammförmiger Rückstände, sind auszuschöpfen.
 
 (5) Die Förder- und Lagersysteme sowie die anlageninternen
 Behandlungseinrichtungen für Prozesswässer und Brüdenkondensate sind
@@ -346,7 +350,7 @@ Satz 2 und § 5 Abs. 1 Satz 2 und Abs. 2
 
     *   Gesamtstaub
 
-    *   10 mg/cbm
+    *   5 mg/cbm
 
 
 *    *   b)
@@ -548,7 +552,13 @@ Tag und anschließend wiederkehrend spätestens alle zwölf Monate
 mindestens an drei Tagen durchführen zu lassen. Diese sollen
 vorgenommen werden, wenn die Anlagen mit der höchsten Leistung
 betrieben werden, für die sie bei den während der Messung verwendeten
-Einsatzstoffen für den Dauerbetrieb zugelassen sind.
+Einsatzstoffen für den Dauerbetrieb zugelassen sind. Auf
+Einzelmessungen nach § 6 Nummer 5 kann verzichtet werden, wenn der
+Betreiber mit ausreichender Sicherheit nachweist, dass die dort
+genannten Emissionsbegrenzungen nicht überschritten werden, zum
+Beispiel durch das Ergebnis einer Prüfung der Wirksamkeit von
+Einrichtungen zur Emissionsminderung, der Zusammensetzung der
+Einsatzstoffe oder der Art der Prozessbedingungen.
 
 (2) Für jede Einzelmessung sollen je Emissionsquelle mindestens drei
 Proben genommen werden. Die olfaktometrische Analyse hat unmittelbar
@@ -568,6 +578,11 @@ Monate nach Inbetriebnahme durchführen zu lassen. Diese sollen
 vorgenommen werden, wenn die Anlagen mit der höchsten Leistung
 betrieben werden, für die sie bei den während der Messung verwendeten
 Einsatzstoffen für den Dauerbetrieb zugelassen sind.
+
+(4) Werden in Abgaseinrichtungen Verbrennungstemperaturen von mehr als
+800 Grad Celsius eingesetzt, soll für den betreffenden Abgasstrom auf
+die Festlegung einer Geruchsstoffkonzentration als Emissionsbegrenzung
+verzichtet werden.
 
 
 ### § 12 Berichte und Beurteilung von Einzelmessungen

@@ -16,7 +16,25 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 40 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 12.8.2020 I 1874
+
+Änderung durch
+:   Art. 7 Abs. 27 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 11 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 12 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 6 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 52 G v. 10.8.2021 I 3436 (Nr. 53)textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -31,7 +49,7 @@ Gesetzbuch in Kraft.
 (2) Der sechste Abschnitt des ersten Buches des Handelsgesetzbuchs
 tritt mit Ausnahme des § 65 am 1. Januar 1898 in Kraft.
 
-(3)
+(3) (gegenstandslos)
 
 
 ### Art 2
@@ -74,86 +92,77 @@ findet § 1 des Handelsgesetzbuchs keine Anwendung.
 
 ### Art 6
 
-(1) § 662 des Handelsgesetzbuchs und die darin genannten Vorschriften
-gelten für jedes Konnossement, das sich auf die Beförderung von Gütern
-zwischen Häfen in zwei verschiedenen Staaten oder zwischen Häfen im
-Geltungsbereich dieses Gesetzes bezieht, sofern das Konnossement
+(1) Ist ein Konnossement in einem Vertragsstaat des Internationalen
+Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über
+Konnossemente (RGBl. 1939 II S. 1049) (Haager Regeln) ausgestellt, so
+sind die §§ 480, 483, 485 und 488, die §§ 513 bis 525 in Verbindung
+mit den §§ 498, 499, 501, 504, 505, 507, 510 und 512 sowie § 605
+Nummer 1 in Verbindung mit § 607 Absatz 1 und 2 und § 609 Absatz 1 des
+Handelsgesetzbuchs ohne Rücksicht auf das nach Internationalem
+Privatrecht anzuwendende Recht und mit der Maßgabe anzuwenden, dass,
 
-1.  in einem Vertragsstaat des Internationalen Abkommens vom 25. August
-    1924 nur Vereinheitlichung von Regeln über Konnossemente (Abkommen von
-    1924) in der Fassung des Änderungsprotokolls vom 23. Februar 1968
-    (Protokoll von 1968) ausgestellt ist oder
+1.  abweichend von § 501 des Handelsgesetzbuchs, der Verfrachter ein
+    Verschulden seiner Leute und der Schiffsbesatzung nicht zu vertreten
+    hat, wenn der Schaden durch ein Verhalten bei der Führung oder der
+    sonstigen Bedienung des Schiffes oder durch Feuer oder Explosion an
+    Bord des Schiffes entstanden ist und die Maßnahmen nicht überwiegend
+    im Interesse der Ladung getroffen wurden;
 
 
-2.  vorsieht, daß der Vertrag den Bestimmungen des Abkommens von 1924 in
-    der Fassung des Protokolls von 1968 oder dem Recht eines Staates, auf
-    Grund dessen die genannten Bestimmungen anzuwenden sind, unterliegt.
+2.  abweichend von § 504 des Handelsgesetzbuchs, die nach den §§ 502 und
+    503 des Handelsgesetzbuchs zu leistende Entschädigung wegen Verlust
+    oder Beschädigung auf einen Betrag von 666,67 Rechnungseinheiten für
+    das Stück oder die Einheit begrenzt ist;
+
+
+3.  abweichend von § 525 des Handelsgesetzbuchs, die Verpflichtungen des
+    Verfrachters aus den nach diesem Artikel anzuwendenden Vorschriften
+    durch Rechtsgeschäft nicht im Voraus ausgeschlossen oder beschränkt
+    werden können;
+
+
+4.  abweichend von § 609 des Handelsgesetzbuchs, die Verjährung von
+    Schadensersatzansprüchen wegen Verlust oder Beschädigung von Gut nicht
+    erleichtert werden kann.
 
 
 
-§ 662 des Handelsgesetzbuchs und die darin genannten Vorschriften
-gelten auch für ein Konnossement, das in einem anderen als einem in
-Satz 1 Nr. 1 bezeichneten Staat ausgestellt ist, sofern das
-Konnossement sich auf die Beförderung von Gütern von oder nach einem
-Hafen in einem in Satz 1 Nr. 1 bezeichneten Staat oder einem Hafen im
-Geltungsbereich dieses Gesetzes bezieht; dies gilt nicht, soweit sich
-aus Absatz 2 etwas anderes ergibt.
+Das Recht der Parteien, eine Rechtswahl zu treffen, bleibt unberührt.
 
-(2) Ist das Konnossement in einem Staat ausgestellt, der Vertragsstaat
-des Abkommens von 1924, jedoch nicht Vertragsstaat des Protokolls von
-1968 ist, und bezieht sich das Konnossement auf die Beförderung von
-Gütern nach einem Hafen in einem solchen Staat, so gelten § 662 des
-Handelsgesetzbuchs und die darin genannten Vorschriften mit der
-Maßgabe, daß § 612 Abs. 2 sowie § 660 Abs. 1 des Handelsgesetzbuchs,
-soweit darin bestimmt ist, daß der Verfrachter bis zu einem Betrag von
-2 Rechnungseinheiten für das Kilogramm der verlorenen oder
-beschädigten Güter haftet, außer Betracht bleiben; Absatz 1 Satz 1 Nr.
-2 bleibt unberührt. Satz 1 gilt nicht, wenn das Konnossement eine
-Beförderung zwischen Häfen im Geltungsbereich dieses Gesetzes durch
-ein Schiff, das die Flagge der Bundesrepublik Deutschland führt,
-betrifft.
+(2) Ist ein Konnossement in Deutschland ausgestellt, so ist Absatz 1
+Satz 1 nur anzuwenden, wenn sich das Konnossement auf die Beförderung
+von Gütern von oder nach einem Hafen in einem anderen Vertragsstaat
+der Haager Regeln bezieht.
 
-(3) Die Liste der Vertragsstaaten des Internationalen Abkommens vom
-25\. August 1924 zur Vereinheitlichung von Regeln über Konnossemente in
-der Fassung des Änderungsprotokolls vom 23. Februar 1968 sowie jede
-Änderung dieser Liste werden durch den Bundesminister der Justiz im
-Bundesgesetzblatt bekanntgegeben.
-
-(4) Absatz 1 Satz 2 letzter Halbsatz sowie Absatz 2 treten an dem Tage
-außer Kraft, an dem das Abkommen von 1924 für die Bundesrepublik
-Deutschland außer Kraft tritt. Der Tag, an dem die in Satz 1 genannten
-Vorschriften außer Kraft treten, ist im Bundesgesetzblatt
-bekanntzugeben.
+(3) Als Vertragsstaat der Haager Regeln ist nicht ein Staat anzusehen,
+der zugleich Vertragsstaat eines Änderungsprotokolls zu den Haager
+Regeln ist.
 
 
 ### Art 7
 
-(1) Folgende Vorschriften des Handelsgesetzbuchs finden auch
-Anwendung, wenn die Verwendung eines Schiffes zur Seefahrt nicht des
-Erwerbes wegen erfolgt:
+(1) Folgende Vorschriften des Handelsgesetzbuchs sind auch anzuwenden,
+wenn das Schiff nicht zum Erwerb durch Seefahrt betrieben wird:
 
-1.  § 485 über die Haftung des Reeders für das Verschulden einer Person
-    der Schiffsbesatzung und eines an Bord des Schiffes tätigen Lotsen,
-
-
-2.  die §§ 486 bis 487d über die Beschränkung der Haftung,
+1.  § 480 über die Verantwortlichkeit des Reeders für ein Mitglied der
+    Schiffsbesatzung und einen an Bord tätigen Lotsen,
 
 
-3.  die §§ 734 bis 739 über die Haftung und die gerichtliche Zuständigkeit
-    im Falle des Zusammenstoßes von Schiffen,
+2.  die §§ 570 bis 573 und 606 Nummer 2, dieser in Verbindung mit § 607
+    Absatz 6 und § 608, über die Haftung im Falle des Zusammenstoßes von
+    Schiffen,
 
 
-4.  die §§ 740 bis 753a, § 902 Nr. 3 in Verbindung mit § 903 Abs. 3 über
-    die Bergung von Schiffen.
+3.  die §§ 574 bis 587 und 606 Nummer 3, dieser in Verbindung mit § 607
+    Absatz 7 sowie den §§ 608 und 610, über Bergung,
+
+
+4.  die §§ 611 bis 617 über die Beschränkung der Haftung.
 
 
 
-Die Vorschriften der §§ 738 und 738a des Handelsgesetzbuchs finden
-jedoch keine Anwendung auf Kriegsschiffe und auf sonstige Schiffe, die
-einem Staat gehören oder in seinen Diensten stehen und die anderen als
-Handelszwecken dienen.
 
-(2) Die Vorschriften der §§ 486 bis 487e des Handelsgesetzbuchs sind
+(2) Die Vorschriften der §§ 611 bis 617 des Handelsgesetzbuchs sind
 auch auf Ansprüche, die nicht auf den Vorschriften des
 Handelsgesetzbuchs beruhen, sowie auf andere als privatrechtliche
 Ansprüche anzuwenden.
@@ -169,19 +178,19 @@ beschränkt werden.
 
 ### Art 8
 
-(1) Die §§ 740 bis 746, 748 bis 750, 753, 753a, 902 Nr. 3 in
-Verbindung mit § 903 Abs. 3 des Handelsgesetzbuchs sind, soweit sich
-aus Satz 3 und Absatz 3 nichts anderes ergibt, ohne Rücksicht auf das
-nach Internationalem Privatrecht anzuwendende Recht anzuwenden. Die
-Aufteilung des Bergelohns oder der Sondervergütung zwischen dem Berger
-und seinen Bediensteten bestimmt sich jedoch, wenn die Bergung von
-einem Schiff aus durchgeführt worden ist, nach dem Recht des Staates,
-dessen Flagge das Schiff führt, sonst nach dem Recht, dem der zwischen
-dem Berger und seinen Bediensteten geschlossene Vertrag unterliegt.
-Das Recht der Parteien, eine Rechtswahl zu treffen, bleibt unberührt;
-unterliegt jedoch das Rechtsverhältnis ausländischem Recht, so sind §
-741 Abs. 1 und § 750 Abs. 2 des Handelsgesetzbuchs gleichwohl
-anzuwenden.
+(1) Die §§ 574 bis 580, 582 bis 584, 587 und 606 Nummer 3, dieser in
+Verbindung mit § 607 Absatz 7 sowie den §§ 608 und 610 des
+Handelsgesetzbuchs, sind, soweit sich aus Satz 3 und Absatz 3 nichts
+anderes ergibt, ohne Rücksicht auf das nach Internationalem
+Privatrecht anzuwendende Recht anzuwenden. Die Aufteilung des
+Bergelohns und der Sondervergütung zwischen dem Berger und seinen
+Bediensteten bestimmt sich jedoch, wenn die Bergung von einem Schiff
+aus durchgeführt wird, nach dem Recht des Staates, dessen Flagge das
+Schiff führt, sonst nach dem Recht, dem der zwischen dem Berger und
+seinen Bediensteten geschlossene Vertrag unterliegt. Das Recht der
+Parteien, eine Rechtswahl zu treffen, bleibt unberührt; unterliegt
+jedoch das Rechtsverhältnis ausländischem Recht, so sind § 575 Absatz
+1 und § 584 Absatz 2 des Handelsgesetzbuchs gleichwohl anzuwenden.
 
 (2) Sind die in Absatz 1 Satz 1 genannten Vorschriften anzuwenden, so
 unterliegt auch der Anspruch des Bergers auf Zinsen deutschem Recht.
@@ -219,7 +228,7 @@ landesgesetzliche Vorschriften erlassen werden.
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den Vertrag
 zwischen dem Brauer und dem Wirt über die Lieferung von Bier, soweit
-sie das aus dem Vertrag sich ergebende Schuldverhältnis für den Fall
+sie das aus dem Vertrage sich ergebende Schuldverhältnis für den Fall
 regeln, daß nicht besondere Vereinbarungen getroffen werden.
 
 
@@ -232,7 +241,7 @@ regeln, daß nicht besondere Vereinbarungen getroffen werden.
 Handelsregister eingetragenen Firmen können weitergeführt werden,
 soweit sie nach den bisherigen Vorschriften geführt werden durften.
 
-(2)
+(2) (gegenstandslos)
 
 
 ## Zweiter Abschnitt - Übergangsvorschriften zum Bilanzrichtlinien-Gesetz
@@ -325,43 +334,7 @@ niedrigere Wertansatz insoweit beibehalten werden, als
 
 
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1986
-beginnende Geschäftsjahr oder bei Anwendung auf ein früheres
-Geschäftsjahr nach Artikel 23 in dem früheren Jahresabschluß der
-Unterschiedsbetrag zwischen dem im letzten vorausgehenden
-Jahresabschluß angesetzten Wert und dem nach den Vorschriften des
-Dritten Buchs des Handelsgesetzbuchs anzusetzenden Wert in
-Gewinnrücklagen eingestellt oder für die Nachholung von Rückstellungen
-verwendet werden; dieser Betrag ist nicht Bestandteil des Ergebnisses.
-Satz 1 ist entsprechend auf Beträge anzuwenden, die sich ergeben, wenn
-Rückstellungen oder Sonderposten mit Rücklageanteil wegen
-Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253 Abs. 1 Satz 2, § 273 des
-Handelsgesetzbuchs aufgelöst werden.
-
-(4) Waren Schulden im Jahresabschluß für das am 31. Dezember 1986
-endende oder laufende Geschäftsjahr mit einem niedrigeren Wert
-angesetzt, als er nach §§ 249, 253 Abs. 1 Satz 2 des
-Handelsgesetzbuchs vorgeschrieben oder zulässig ist, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1986
-beginnende Geschäftsjahr oder bei Anwendung auf ein früheres
-Geschäftsjahr nach Artikel 23 in dem früheren Geschäftsjahr der für
-die Nachholung erforderliche Betrag den Rücklagen entnommen werden,
-soweit diese nicht durch Gesetz, Gesellschaftsvertrag oder Satzung für
-andere Zwecke gebunden sind; dieser Betrag ist nicht Bestandteil des
-Ergebnisses oder des Bilanzgewinns.
-
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 10 des Bilanzrichtlinien-Gesetzes geänderten Vorschriften die
-bisherige Form der Darstellung oder die bisher angewandten
-Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs. 1, § 284
-Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen Aufstellung
-eines Jahresabschlusses nach den geänderten Vorschriften nicht
-anzuwenden. Außerdem brauchen die Vorjahreszahlen bei der erstmaligen
-Anwendung nicht angegeben zu werden.
-
-(6) Sind bei der erstmaligen Anwendung des § 268 Abs. 2 des
+(3) Sind bei der erstmaligen Anwendung des § 268 Abs. 2 des
 Handelsgesetzbuchs über die Darstellung der Entwicklung des
 Anlagevermögens die Anschaffungs- oder Herstellungskosten eines
 Vermögensgegenstandes des Anlagevermögens nicht ohne
@@ -400,9 +373,12 @@ sofern mehr als die Hälfte der geschäftsführenden Mitglieder des
 Vorstands dieses Prüfungsverbands Wirtschaftsprüfer sind und dem
 Prüfungsverband vor dem 29. Mai 2009 das Prüfungsrecht verliehen
 worden ist. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so
-muß einer von ihnen Wirtschaftsprüfer sein. § 319 Abs. 2 und 3 sowie §
-319a Abs. 1 des Handelsgesetzbuchs sind auf die gesetzlichen Vertreter
-des Prüfungsverbandes und auf alle vom Prüfungsverband beschäftigten
+muß einer von ihnen Wirtschaftsprüfer sein. § 319 Absatz 1 Satz 3 des
+Handelsgesetzbuchs gilt mit der Maßgabe, dass der Prüfungsverband über
+einen Auszug hinsichtlich seiner Eintragung nach § 40a der
+Wirtschaftsprüferordnung verfügen muss. § 319 Absatz 2 und 3 des
+Handelsgesetzbuchs ist auf die gesetzlichen Vertreter des
+Prüfungsverbandes und auf alle vom Prüfungsverband beschäftigten
 Personen, die das Ergebnis der Prüfung beeinflussen können,
 entsprechend anzuwenden; § 319 Abs. 3 Satz 1 Nr. 2 ist auf Mitglieder
 des Aufsichtsorgans des Prüfungsverbandes nicht anzuwenden, wenn
@@ -602,43 +578,7 @@ insoweit beibehalten werden, als
 Nach § 26a Abs. 1 des Gesetzes über das Kreditwesen gebildete
 Vorsorgen können fortgeführt werden.
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1992
-beginnende Geschäftsjahr der Unterschiedsbetrag zwischen dem im
-letzten vorausgehenden Jahresabschluß angesetzten Wert und dem nach
-den Vorschriften des Dritten Buchs des Handelsgesetzbuchs
-anzusetzenden Wert in Gewinnrücklagen eingestellt oder für die
-Nachholung von Rückstellungen oder die Bildung des Sonderpostens für
-Bankrisiken verwendet werden; dieser Betrag ist nicht Bestandteil des
-Ergebnisses. Satz 1 ist entsprechend auf Beträge anzuwenden, die sich
-ergeben, wenn Rückstellungen oder Sonderposten mit Rücklageanteil
-wegen Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253 Abs. 1 Satz 2, §
-273 des Handelsgesetzbuchs aufgelöst werden.
-
-(4) Waren Schulden oder der Sonderposten für allgemeine Bankrisiken im
-Jahresabschluß für das am 31. Dezember 1992 endende oder laufende
-Geschäftsjahr mit einem niedrigeren Wert angesetzt, als er nach §§
-249, 253 Abs. 1 Satz 2 oder § 340g des Handelsgesetzbuchs
-vorgeschrieben oder zulässig ist, so kann bei der Aufstellung des
-Jahresabschlusses für das nach dem 31. Dezember 1992 beginnende
-Geschäftsjahr der für die Nachholung erforderliche Betrag den
-Rücklagen entnommen werden, soweit diese nicht durch Gesetz,
-Gesellschaftsvertrag oder Satzung für andere Zwecke gebunden sind;
-dieser Betrag ist nicht Bestandteil des Ergebnisses oder des
-Bilanzgewinns.
-
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 10 des Bankbilanzrichtlinie-Gesetzes geänderten Vorschriften die
-bisherige Form der Darstellung oder die bisher angewandten
-Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs. 1, § 284
-Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen Aufstellung
-eines Jahresabschlusses oder Konzernabschlusses nach den geänderten
-Vorschriften auf diese Änderungen nicht anzuwenden. Außerdem brauchen
-die Vorjahreszahlen bei der erstmaligen Anwendung nicht angegeben zu
-werden.
-
-(6) Sind bei der erstmaligen Anwendung des § 340a in Verbindung mit §
+(3) Sind bei der erstmaligen Anwendung des § 340a in Verbindung mit §
 268 Abs. 2 des Handelsgesetzbuchs über die Darstellung der Entwicklung
 der wie Anlagevermögen behandelten Vermögensgegenstände die
 Anschaffungs- oder Herstellungskosten eines Vermögensgegenstands nicht
@@ -728,42 +668,11 @@ insoweit beibehalten werden, als er aus den Gründen des § 253 Abs. 3,
 §§ 254, 279 Abs. 2, § 280 Abs. 2 des Handelsgesetzbuchs angesetzt
 worden ist.
 
-(3) Soweit ein niedrigerer Wertansatz nach den Absätzen 1 und 2 nicht
-beibehalten werden darf oder nicht beibehalten wird, kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1994
-beginnende Geschäftsjahr der Unterschiedsbetrag zwischen dem im
-letzten vorausgehenden Jahresabschluß angesetzten Wert und dem nach
-den Vorschriften des Dritten Buches des Handelsgesetzbuchs
-anzusetzenden Wert in Gewinnrücklagen eingestellt oder für die
-Nachholung von Rückstellungen verwendet werden; dieser Betrag ist
-nicht Bestandteil des Ergebnisses. Satz 1 ist entsprechend auf Beträge
-anzuwenden, die sich ergeben, wenn Rückstellungen oder Sonderposten
-mit Rücklageanteil wegen Unvereinbarkeit mit § 247 Abs. 3, §§ 249, 253
-Abs. 1 Satz 2, § 273 des Handelsgesetzbuchs aufgelöst werden.
-Vereinbarungen über die Beteiligung der Versicherungsnehmer am
-Überschuß bleiben unberührt.
+(3) (weggefallen)
 
-(4) Waren Schulden, insbesondere versicherungstechnische
-Rückstellungen, im Jahresabschluß für das am 31. Dezember 1994 endende
-oder laufende Geschäftsjahr mit einem niedrigeren Wert angesetzt, als
-er nach §§ 249, 253 Abs. 1 Satz 2 oder §§ 341e bis 341h des
-Handelsgesetzbuchs vorgeschrieben oder zulässig ist, so kann bei der
-Aufstellung des Jahresabschlusses für das nach dem 31. Dezember 1994
-beginnende Geschäftsjahr der für die Nachholung erforderliche Betrag
-den Rücklagen entnommen werden, soweit diese nicht durch Gesetz,
-Gesellschaftsvertrag oder Satzung für andere Zwecke gebunden sind;
-dieser Betrag ist nicht Bestandteil des Ergebnisses oder des
-Bilanzgewinns.
+(4) (weggefallen)
 
-(5) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
-bis 5 des Versicherungsbilanzrichtlinie-Gesetzes geänderten
-Vorschriften die bisherige Form der Darstellung oder die bisher
-angewandten Bewertungsmethoden, so sind § 252 Abs. 1 Nr. 6, § 265 Abs.
-1, § 284 Abs. 2 Nr. 3 des Handelsgesetzbuchs bei der erstmaligen
-Aufstellung eines Jahresabschlusses oder Konzernabschlusses nach den
-geänderten Vorschriften auf diese Änderungen nicht anzuwenden.
-Außerdem brauchen die Vorjahreszahlen bei der erstmaligen Anwendung
-nicht angegeben zu werden.
+(5) (weggefallen)
 
 
 ## Sechster Abschnitt - Übergangsvorschriften zum Gesetz zur Durchführung der Elften gesellschaftsrechtlichen Richtlinie vom 22. Juli 1993
@@ -993,9 +902,9 @@ Gesellschaftsmitteln oder der Herabsetzung des Kapitals auf den
 nächsthöheren oder nächstniedrigeren Betrag, mit dem die Nennbeträge
 der Aktien auf volle Euro oder die Nennbeträge der Geschäftsanteile
 auf einen durch zehn teilbaren Betrag in Euro gestellt werden können,
-zum Handelsregister ist die Hälfte des sich aus § 41a Abs. 1 Nr. 3
-oder 4 der Kostenordnung ergebenden Wertes als Geschäftswert zugrunde
-zu legen.
+zum Handelsregister ist die Hälfte des sich aus § 105 Absatz 1 Nummer
+3 oder 4 des Gerichts- und Notarkostengesetzes ergebenden Wertes als
+Geschäftswert zugrunde zu legen.
 
 
 ## Zehnter Abschnitt - Übergangsvorschriften zum Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
@@ -1473,53 +1382,13 @@ Geschäftsjahr anzuwenden.
 
 ### Art 61
 
-(1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
-dass Anmeldungen und alle oder einzelne Dokumente bis zum 31. Dezember
-2009 auch in Papierform zum Handelsregister eingereicht werden können.
-Soweit eine Rechtsverordnung nach Satz 1 erlassen wird, gelten die
-Vorschriften über die Anmeldung zum Handelsregister und die
-Einreichung von Dokumenten in ihrer bis zum Inkrafttreten des Gesetzes
-über elektronische Handelsregister und Genossenschaftsregister sowie
-das Unternehmensregister vom 10. November 2006 (BGBl. I S. 2553) am 1.
-Januar 2007 geltenden Fassung. Die Landesregierungen können durch
-Rechtsverordnung die Ermächtigung nach Satz 1 auf die
-Landesjustizverwaltungen übertragen.
+(1) (weggefallen)
 
-(2) Das Bundesministerium der Justiz kann durch Rechtsverordnung ohne
-Zustimmung des Bundesrates bestimmen, dass alle oder einzelne beim
-Betreiber des Bundesanzeigers elektronisch einzureichenden Dokumente
-bis zum 31. Dezember 2009 auch in Papierform eingereicht werden
-können.
+(2) (weggefallen)
 
-(3) Nach Eingang eines Antrags auf Offenlegung als elektronisches
-Dokument werden Schriftstücke, die innerhalb des dem Antrag
-vorausgehenden Zeitraums von zehn Jahren bei dem Registergericht in
-Papierform eingereicht worden sind, in ein elektronisches Dokument
-übertragen; § 8b Abs. 4 Satz 2 des Handelsgesetzbuchs gilt
-entsprechend. Soweit eine Rechtsverordnung nach Absatz 1 Satz 1
-erlassen wird, sind die nach dem 31. Dezember 2006 in Papierform
-eingereichten Dokumente unverzüglich in ein elektronisches Dokument zu
-übertragen.
+(3) (weggefallen)
 
-(4) Das Gericht hat die Eintragungen in das Handelsregister bis zum
-31\. Dezember 2008 zusätzlich zu der elektronischen Bekanntmachung nach
-§ 10 des Handelsgesetzbuchs in der Fassung des Gesetzes über
-elektronische Handelsregister und Genossenschaftsregister sowie das
-Unternehmensregister auch in einer Tageszeitung oder einem sonstigen
-Blatt bekannt zu machen. Das Gericht hat jährlich im Dezember das
-Blatt zu bezeichnen, in dem während des nächsten Jahres die in Satz 1
-vorgesehenen Bekanntmachungen erfolgen sollen; § 11 der
-Handelsregisterverordnung in der bis zum Inkrafttreten des Gesetzes
-über elektronische Handelsregister und Genossenschaftsregister sowie
-das Unternehmensregister am 1. Januar 2007 geltenden Fassung findet
-auf die Auswahl und Bezeichnung des Blattes weiter Anwendung. Wird das
-Handelsregister bei einem Gericht von mehreren Richtern geführt und
-einigen sich diese nicht über die Bezeichnung des Blattes, so wird die
-Bestimmung von dem im Rechtszug vorgeordneten Landgericht getroffen;
-ist bei diesem Landgericht eine Kammer für Handelssachen gebildet, so
-tritt diese an die Stelle der Zivilkammer. Für den Eintritt der
-Wirkungen der Bekanntmachung ist ausschließlich die elektronische
-Bekanntmachung nach § 10 Satz 1 des Handelsgesetzbuchs maßgebend.
+(4) (weggefallen)
 
 (5) § 264 Abs. 3, § 264b Nr. 3, § 287 Satz 3, § 290 Abs. 1, § 313 Abs.
 4 Satz 3, die §§ 325, 325a, 327a und 328 Abs. 2, die §§ 329, 334, 335,
@@ -1550,38 +1419,9 @@ Handelsregister und Genossenschaftsregister sowie das
 Unternehmensregister am 1. Januar 2007 geltenden Fassung, im
 Bundesanzeiger bekannt gemacht.
 
-(6) Die auf Grundlage der §§ 13 bis 13c des Handelsgesetzbuchs in der
-bis zum Inkrafttreten des Gesetzes über elektronische Handelsregister
-und Genossenschaftsregister sowie das Unternehmensregister am 1.
-Januar 2007 geltenden Fassung beim Gericht der Zweigniederlassung für
-die Zweigniederlassung eines Unternehmens mit Sitz oder
-Hauptniederlassung im Inland geführten Registerblätter werden zum 1.
-Januar 2007 geschlossen; zugleich ist von Amts wegen folgender Vermerk
-auf dem Registerblatt einzutragen: "Die Eintragungen zu dieser
-Zweigniederlassung werden ab dem 1. Januar 2007 nur noch bei dem
-Gericht der Hauptniederlassung/des Sitzes geführt." Auf dem
-Registerblatt beim Gericht der Hauptniederlassung oder des Sitzes wird
-zum 1. Januar 2007 von Amts wegen der Verweis auf die Eintragung beim
-Gericht am Ort der Zweigniederlassung gelöscht.
+(6) (weggefallen)
 
-(7) Soweit gesetzliche oder vertragliche Verwendungsbeschränkungen
-nicht entgegenstehen, übermittelt die Bundesanstalt für
-Finanzdienstleistungsaufsicht (Bundesanstalt) auf automatisiert
-verarbeitbaren Datenträgern oder durch Datenfernübertragung dem
-Betreiber des Bundesanzeigers zum Stand 30. April 2007 die Namen und
-Anschriften der Kapitalgesellschaften, die einen organisierten Markt
-im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihnen
-ausgegebene Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des
-Wertpapierhandelsgesetzes im Inland in Anspruch nehmen. Der Betreiber
-des Bundesanzeigers darf die ihm übermittelten Daten im Wege des
-automatisierten Abgleichs zur Pflege der bei ihm zu den in Satz 1
-genannten Kapitalgesellschaften gespeicherten Daten verwenden. Eine
-Verwendung der Daten für andere Zwecke ist unzulässig. Die von der
-Bundesanstalt übermittelten Daten sind nach Durchführung des Abgleichs
-unverzüglich zu löschen; überlassene Datenträger sind unverzüglich
-zurückzugeben oder zu vernichten. Für die Übermittlung unrichtiger
-Daten haftet die Bundesanstalt dem Betreiber des Bundesanzeigers
-nicht.
+(7) (weggefallen)
 
 (8) (weggefallen)
 
@@ -1770,12 +1610,7 @@ Handelsgesetzbuchs in der bis zum 28. Mai 2009 geltenden Fassung sind
 letztmals auf Jahres- und Konzernabschlüsse für das vor dem 1. Januar
 2010 beginnende Geschäftsjahr anzuwenden.
 
-(6) § 335 Abs. 5 Satz 11 und 12 des Handelsgesetzbuchs in der Fassung
-des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S.
-1102) ist nur vom 29. Mai 2009 bis zum 31. August 2009 anzuwenden und
-tritt am 1. September 2009 außer Kraft.
-
-(7) § 248 Abs. 2 und § 255 Abs. 2a des Handelsgesetzbuchs in der
+(6) § 248 Abs. 2 und § 255 Abs. 2a des Handelsgesetzbuchs in der
 Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009
 (BGBl. I S. 1102) finden nur auf die selbst geschaffenen immateriellen
 Vermögensgegenstände des Anlagevermögens Anwendung, mit deren
@@ -1800,10 +1635,11 @@ Wahlrecht nach Satz 2 Gebrauch gemacht, ist der Betrag der Überdeckung
 jeweils im Anhang und im Konzernanhang anzugeben.
 
 (2) Bei Anwendung des Absatzes 1 müssen Kapitalgesellschaften,
-Kreditinstitute und Finanzdienstleistungsinstitute im Sinn des § 340
-des Handelsgesetzbuchs, Versicherungsunternehmen und Pensionsfonds im
-Sinn des § 341 des Handelsgesetzbuchs, eingetragene Genossenschaften
-und Personenhandelsgesellschaften im Sinn des § 264a des
+Kreditinstitute, Finanzdienstleistungsinstitute und
+Wertpapierinstitute im Sinn des § 340 des Handelsgesetzbuchs,
+Versicherungsunternehmen und Pensionsfonds im Sinn des § 341 des
+Handelsgesetzbuchs, eingetragene Genossenschaften und
+Personenhandelsgesellschaften im Sinn des § 264a des
 Handelsgesetzbuchs die in der Bilanz nicht ausgewiesenen
 Rückstellungen für laufende Pensionen, Anwartschaften auf Pensionen
 und ähnliche Verpflichtungen jeweils im Anhang und im Konzernanhang
@@ -1861,10 +1697,7 @@ unmittelbar mit den Gewinnrücklagen verrechnet, sind daraus nach den
 Bilanzrechtsmodernisierungsgesetzes entstehende Aufwendungen und
 Erträge ebenfalls unmittelbar mit den Gewinnrücklagen zu verrechnen.
 
-(7) Aufwendungen aus der Anwendung des Artikels 66 sowie der Absätze 1
-bis 5 sind in der Gewinn- und Verlustrechnung gesondert unter dem
-Posten „außerordentliche Aufwendungen“ und Erträge hieraus gesondert
-unter dem Posten „außerordentliche Erträge“ anzugeben.
+(7) (weggefallen)
 
 (8) Ändern sich bei der erstmaligen Anwendung der durch die Artikel 1
 bis 11 des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl.
@@ -1911,4 +1744,458 @@ Geschäftsjahre anzuwenden.
 (2) § 341c des Handelsgesetzbuchs in der bis zum 24. November 2010
 geltenden Fassung ist letztmals auf Jahres- und Konzernabschlüsse für
 vor dem 1. Januar 2011 beginnende Geschäftsjahre anzuwenden.
+
+
+## Zweiunddreißigster Abschnitt - Übergangsvorschrift zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+
+
+
+### Art 70
+
+(1) Die Erleichterungen für Kleinstkapitalgesellschaften bei der
+Rechnungslegung nach § 264 Absatz 1, § 266 Absatz 1, den §§ 267a, 275
+Absatz 5, § 325a Absatz 2, § 326 Absatz 2 und die Änderungen der §§
+8b, 9, 253, 264 Absatz 2, der §§ 264c, 276, 328, 334 und 335 des
+Handelsgesetzbuchs in der Fassung des Kleinstkapitalgesellschaften-
+Bilanzrechtsänderungsgesetzes vom 20. Dezember 2012 (BGBl. I S. 2751)
+gelten erstmals für Jahres- und Konzernabschlüsse, die sich auf einen
+nach dem 30. Dezember 2012 liegenden Abschlussstichtag beziehen. Für
+Jahres- und Konzernabschlüsse, die sich auf einen vor dem 31. Dezember
+2012 liegenden Abschlussstichtag beziehen, bleiben die in Satz 1
+genannten Vorschriften des Handelsgesetzbuchs in der bis zum 27.
+Dezember 2012 geltenden Fassung weiterhin anwendbar.
+
+(2) § 264 Absatz 3 und § 290 des Handelsgesetzbuchs in der Fassung des
+Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes sind
+erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre
+anzuwenden, die nach dem 31. Dezember 2012 beginnen. Für Jahres- und
+Konzernabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2013
+beginnen, bleiben die Vorschriften des Handelsgesetzbuchs in der bis
+zum 27. Dezember 2012 geltenden Fassung weiterhin anwendbar.
+
+(3) Für die §§ 264, 335, 335a Absatz 1, 2 und 4, die §§ 340o und 341o
+des Handelsgesetzbuchs in der Fassung des Gesetzes zur Änderung des
+Handelsgesetzbuchs vom 4. Oktober 2013 (BGBl. I S. 3746) gilt Absatz 1
+entsprechend. § 335a Absatz 3 des Handelsgesetzbuchs in der Fassung
+des Gesetzes zur Änderung des Handelsgesetzbuchs vom 4. Oktober 2013
+(BGBl. I S. 3746) ist erstmals auf Ordnungsgeldverfahren anzuwenden,
+die nach dem 31. Dezember 2013 eingeleitet werden.
+
+
+## Dreiunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz zur Reform des Seehandelsrechts
+
+
+
+### Art 71
+
+(1) Für Partenreedereien und Baureedereien, die vor dem 25. April 2013
+entstanden sind, bleiben die §§ 489 bis 509 des Handelsgesetzbuchs in
+der bis zu diesem Tag geltenden Fassung maßgebend.
+
+(2) Auf ein im Fünften Buch des Handelsgesetzbuchs geregeltes
+Schuldverhältnis, das vor dem 25. April 2013 entstanden ist, sind die
+bis zu diesem Tag geltenden Gesetze weiter anzuwenden. Dies gilt auch
+für die Verjährung der aus einem solchen Schuldverhältnis vor dem 25.
+April 2013 entstandenen Ansprüche.
+
+
+## Vierunddreißigster Abschnitt - Übergangsvorschriften zum AIFM-Umsetzungsgesetz
+
+
+
+### Art 72
+
+(1) Die in § 8b Absatz 2 Nummer 8, § 285 Nummer 26, § 290 Absatz 2
+Nummer 4 Satz 2 und § 314 Absatz 1 Nummer 18 des Handelsgesetzbuchs
+jeweils in Bezug genommenen Bestimmungen des Investmentgesetzes sind
+die bis zum 21. Juli 2013 geltenden Fassungen dieser Bestimmungen.
+
+(2) § 285 Nummer 26, § 290 Absatz 2 Nummer 4 Satz 2, § 314 Absatz 1
+Nummer 18 und § 341b Absatz 2 des Handelsgesetzbuchs in der Fassung
+des AIFM-Umsetzungsgesetzes sind erstmals auf Jahres- und
+Konzernabschlüsse für nach dem 21. Juli 2013 beginnende Geschäftsjahre
+anzuwenden. Für Jahres- und Konzernabschlüsse für Geschäftsjahre, die
+vor dem 22. Juli 2013 beginnen, bleiben die Vorschriften des
+Handelsgesetzbuchs in der bis zum 21. Juli 2013 geltenden Fassung
+weiterhin anwendbar.
+
+
+## Fünfunddreißigster Abschnitt - Übergangsvorschrift zum Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+
+
+### Art 73
+
+§ 289a Absatz 2 Nummer 4, auch in Verbindung mit Absatz 3, und § 289a
+Absatz 4, auch in Verbindung mit § 336 Absatz 2 Satz 1, des
+Handelsgesetzbuchs in der Fassung des Gesetzes für die
+gleichberechtigte Teilhabe von Frauen und Männern an
+Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+vom 24. April 2015 (BGBl. I S. 642) sind erstmals anzuwenden auf
+Lageberichte, die sich auf Geschäftsjahre mit einem nach dem 30.
+September 2015 liegenden Abschlussstichtag beziehen. § 289a Absatz 2
+Nummer 5, auch in Verbindung mit Absatz 3, des Handelsgesetzbuchs in
+der Fassung des Gesetzes für die gleichberechtigte Teilhabe von Frauen
+und Männern an Führungspositionen in der Privatwirtschaft und im
+öffentlichen Dienst vom 24. April 2015 (BGBl. I S. 642) ist erstmals
+anzuwenden auf Lageberichte, die sich auf Geschäftsjahre mit einem
+nach dem 31. Dezember 2015 liegenden Abschlussstichtag beziehen.
+
+
+## Sechsunddreißigster Abschnitt - Übergangsvorschriften zum Kleinanlegerschutzgesetz
+
+
+
+### Art 74
+
+§ 335 Absatz 1 Satz 4 des Handelsgesetzbuchs in der Fassung des
+Kleinanlegerschutzgesetzes vom 3. Juli 2015 (BGBl. I S. 1114) ist
+erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre
+anzuwenden, die nach dem 31. Dezember 2014 beginnen.
+
+
+## Siebenunddreißigster Abschnitt - Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+
+
+
+### Art 75
+
+(1) Die §§ 255, 264, 264b, 265, 267a Absatz 3, die §§ 268, 271, 272,
+274a, 275, 276, 277 Absatz 3, die §§ 284, 285, 286, 288, 289, 291,
+292, 294, 296 bis 298, 301, 307, 309, 310, 312 bis 315a, 317, 322,
+325, 326, 328, 331, 334, 336 bis 340a, 340e, 340i, 340n, 341a, 341b,
+341j sowie 341n des Handelsgesetzbuchs in der Fassung des
+Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S.
+1245) sind erstmals auf Jahres- und Konzernabschlüsse sowie Lage- und
+Konzernlageberichte für das nach dem 31. Dezember 2015 beginnende
+Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften
+sowie § 277 Absatz 4 und § 278 des Handelsgesetzbuchs in der bis zum
+22\. Juli 2015 geltenden Fassung sind letztmals anzuwenden auf Jahres-
+und Konzernabschlüsse sowie Lage- und Konzernlageberichte für ein vor
+dem 1. Januar 2016 beginnendes Geschäftsjahr.
+
+(2) Die §§ 267, 267a Absatz 1, § 277 Absatz 1 sowie § 293 des
+Handelsgesetzbuchs in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) dürfen erstmals
+auf Jahres- und Konzernabschlüsse, Lageberichte und
+Konzernlageberichte für das nach dem 31. Dezember 2013 beginnende
+Geschäftsjahr angewendet werden, jedoch nur insgesamt. Wird von der
+vorgezogenen Anwendung der §§ 267, 267a Absatz 1, von § 277 Absatz 1
+oder § 293 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes kein
+Gebrauch gemacht, sind die in Satz 1 genannten Vorschriften erstmals
+auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für
+das nach dem 31. Dezember 2015 beginnende Geschäftsjahr anzuwenden; in
+diesem Fall sind die §§ 267, 267a Absatz 1, § 277 Absatz 1 und § 293
+des Handelsgesetzbuchs in der bis zum 22. Juli 2015 geltenden Fassung
+letztmals auf das vor dem 1. Januar 2016 beginnende Geschäftsjahr
+anzuwenden. Bei der erstmaligen Anwendung der in Satz 1 bezeichneten
+Vorschriften ist im Anhang oder Konzernanhang auf die fehlende
+Vergleichbarkeit der Umsatzerlöse hinzuweisen und unter
+nachrichtlicher Darstellung des Betrags der Umsatzerlöse des
+Vorjahres, der sich aus der Anwendung von § 277 Absatz 1 in der
+Fassung des Bilanzrichtlinie-Umsetzungsgesetzes ergeben haben würde,
+zu erläutern.
+
+(3) § 8b und die Vorschriften des Dritten Unterabschnitts des Vierten
+Abschnitts des Dritten Buchs des Handelsgesetzbuchs in der Fassung des
+Bilanzrichtlinie-Umsetzungsgesetzes sind erstmals auf Zahlungsberichte
+und Konzernzahlungsberichte für ein nach dem 23. Juli 2015 beginnendes
+Geschäftsjahr anzuwenden.
+
+(4) § 253 Absatz 3 Satz 3 des Handelsgesetzbuchs in der Fassung des
+Bilanzrichtlinie-Umsetzungsgesetzes findet erstmals auf immaterielle
+Vermögensgegenstände des Anlagevermögens Anwendung, die nach dem 31.
+Dezember 2015 aktiviert werden. § 253 Absatz 3 Satz 4 des
+Handelsgesetzbuchs in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes findet erstmals auf Geschäfts- oder Firmenwerte
+Anwendung, die aus Erwerbsvorgängen herrühren, die in Geschäftsjahren
+erfolgt sind, die nach dem 31. Dezember 2015 begonnen haben.
+
+(5) Aufwendungen aus der Anwendung des Artikels 67 Absatz 1 und 2 sind
+in der Gewinn- und Verlustrechnung innerhalb der sonstigen
+betrieblichen Aufwendungen als „Aufwendungen nach Artikel 67 Absatz 1
+und 2 EGHGB“ und Erträge hieraus innerhalb der sonstigen betrieblichen
+Erträge als „Erträge nach Artikel 67 Absatz 1 und 2 EGHGB“ gesondert
+anzugeben.
+
+(6) § 253 Absatz 2 und 6 des Handelsgesetzbuchs in der Fassung des
+Gesetzes zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur
+Änderung handelsrechtlicher Vorschriften vom 11. März 2016 (BGBl. I S.
+396) ist erstmals auf Jahresabschlüsse für das nach dem 31. Dezember
+2015 endende Geschäftsjahr anzuwenden. Für Geschäftsjahre, die vor dem
+1\. Januar 2016 enden, ist § 253 Absatz 2 des Handelsgesetzbuchs in der
+bis zum 16. März 2016 geltenden Fassung weiter anzuwenden. Auf den
+Konzernabschluss sind die Sätze 1 und 2 hinsichtlich des § 253 Absatz
+2 des Handelsgesetzbuchs entsprechend anzuwenden.
+
+(7) Unternehmen dürfen für einen Jahresabschluss, der sich auf ein
+Geschäftsjahr bezieht, das nach dem 31. Dezember 2014 beginnt und vor
+dem 1. Januar 2016 endet, auch die ab dem 17. März 2016 geltende
+Fassung des § 253 Absatz 2 des Handelsgesetzbuchs anwenden. In diesem
+Fall gilt § 253 Absatz 6 entsprechend. Auf den Konzernabschluss ist
+Satz 1 entsprechend anzuwenden. Mittelgroße und große
+Kapitalgesellschaften haben zur Erläuterung der Ausübung der Anwendung
+des Wahlrechts Angaben im Anhang zu machen.
+
+
+## Achtunddreißigster Abschnitt - Übergangsvorschrift zum Bürokratieentlastungsgesetz
+
+
+
+### Art 76
+
+§ 241a Satz 1 des Handelsgesetzbuchs in der Fassung des
+Bürokratieentlastungsgesetzes vom 28. Juli 2015 (BGBl. I S. 1400) ist
+erstmals auf das nach dem 31. Dezember 2015 beginnende Geschäftsjahr
+anzuwenden. § 241a Satz 1 des Handelsgesetzbuchs in der bis zum 31.
+Dezember 2015 geltenden Fassung ist letztmals auf das vor dem 1.
+Januar 2016 beginnende Geschäftsjahr anzuwenden.
+
+
+## Neununddreißigster Abschnitt - Übergangsvorschriften zum Transparenzrichtlinie-Umsetzungsgesetz
+
+
+
+### Art 77
+
+§ 342b des Handelsgesetzbuchs in der vom 26. November 2015 geltenden
+Fassung findet ab dem 1. Januar 2016 Anwendung.
+
+
+## Vierzigster Abschnitt - Übergangsvorschrift zum Abschlussprüferaufsichtsreformgesetz
+
+
+
+### Art 78
+
+Für die Anwendung des § 319 Absatz 1 Satz 3 des Handelsgesetzbuchs in
+der ab dem 17. Juni 2016 geltenden Fassung gilt eine für den
+Abschlussprüfer geltende Teilnahmebescheinigung oder
+Ausnahmegenehmigung nach dem bis zum 16. Juni 2016 geltenden § 57a
+Absatz 1 der Wirtschaftsprüferordnung als Nachweis der Eintragung
+gemäß § 319 Absatz 1 Satz 3 des Handelsgesetzbuchs in der ab dem 17.
+Juni 2016 geltenden Fassung, solange der Registerauszug über die
+Eintragung nach § 40 Absatz 3 oder § 40a Absatz 1 Satz 3 der
+Wirtschaftsprüferordnung noch nicht erteilt worden ist.
+
+
+## Einundvierzigster Abschnitt - Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+
+
+### Art 79
+
+(1) § 319a Absatz 1, 2 und 3 sowie die §§ 321 und 322 des
+Handelsgesetzbuchs jeweils in der Fassung des
+Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+sind erstmals auf Jahres-und Konzernabschlüsse für das nach dem 16.
+Juni 2016 beginnende Geschäftsjahr anzuwenden. § 319a Absatz 1 und 2
+sowie die §§ 321 und 322 des Handelsgesetzbuchs in der bis zum 16.
+Juni 2016 geltenden Fassung sind letztmals auf Jahres- und
+Konzernabschlüsse für vor dem 17. Juni 2016 beginnende Geschäftsjahre
+anzuwenden.
+
+(2) § 324 Absatz 2 Satz 2 des Handelsgesetzbuchs in der Fassung des
+Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+muss so lange nicht angewandt werden, wie alle Mitglieder des
+Prüfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.
+
+(3) Prüfungsmandate können entsprechend § 318 Absatz 1a Satz 1 des
+Handelsgesetzbuchs auch verlängert werden, wenn die Wahl des
+Abschlussprüfers für das zwölfte oder dreizehnte Geschäftsjahr
+erfolgt, auf das sich die Prüfungstätigkeit des Abschlussprüfers
+erstreckt, und die Wahl des Abschlussprüfers für das nächste nach dem
+16\. Juni 2016 beginnende Geschäftsjahr erfolgt. Prüfungsmandate
+entsprechend § 318 Absatz 1a Satz 2 des Handelsgesetzbuchs können auch
+verlängert werden, wenn mehrere Wirtschaftsprüfer oder
+Wirtschaftsprüfungsgesellschaften gemeinsam im zwölften oder
+dreizehnten Geschäftsjahr, auf das sich die Prüfungstätigkeit des
+Abschlussprüfers erstreckt, zum Abschlussprüfer bestellt werden und
+die gemeinsame Bestellung für das nächste nach dem 16. Juni 2016
+beginnende Geschäftsjahr erfolgt.
+
+
+## Zweiundvierzigster Abschnitt - Übergangsvorschriften zum CSR-Richtlinie-Umsetzungsgesetz
+
+
+
+### Art 80
+
+Die §§ 264, 285, 289 bis 289f, 291, 292, 294, 314 bis 315e, 317, 320,
+325, 331, 334, 335, 336, 340a, 340i, 340n, 341a, 341j, 341n und 342
+des Handelsgesetzbuchs in der Fassung des CSR-Richtlinie-
+Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals
+auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für
+das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden.
+Die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017
+geltenden Fassung sind letztmals anzuwenden auf Lage- und
+Konzernlageberichte für das vor dem 1. Januar 2017 beginnende
+Geschäftsjahr.
+
+
+### Art 81
+
+§ 289b Absatz 4 und § 315b Absatz 4 des Handelsgesetzbuchs in der ab
+dem 1. Januar 2019 geltenden Fassung sind erstmals auf Jahres- und
+Konzernabschlüsse, Lage- und Konzernlageberichte für das nach dem 31.
+Dezember 2018 beginnende Geschäftsjahr anzuwenden.
+
+
+## Dreiundvierzigster Abschnitt - Übergangsvorschriften zum Gesetz zum Bürokratieabbau und zur Förderung der Transparenz bei Genossenschaften
+
+
+
+### Art 82
+
+§ 339 Absatz 3 des Handelsgesetzbuchs in der Fassung des Gesetzes zum
+Bürokratieabbau und zur Förderung der Transparenz bei Genossenschaften
+vom 17. Juli 2017 (BGBl. I S. 2434) ist erstmals anzuwenden auf
+Jahresabschlüsse für nach dem 31. Dezember 2016 beginnende
+Geschäftsjahre. Ein Prüfungsverband kann einen Antrag im Sinne des §
+339 Absatz 3 Satz 1 auch im Hinblick auf vor dem 31. Dezember 2016
+begonnene Geschäftsjahre stellen.
+
+
+## Vierundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
+
+
+
+### Art 83
+
+(1) Die §§ 285, 286, 289a, 289f, 314, 315a, 324 und 325 Absatz 2a des
+Handelsgesetzbuchs in der ab dem 1. Januar 2020 geltenden Fassung sind
+erstmals auf Jahres- und Konzernabschlüsse sowie Lage- und
+Konzernlageberichte für das nach dem 31. Dezember 2020 beginnende
+Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in
+der bis einschließlich 31. Dezember 2019 geltenden Fassung sind
+letztmals anzuwenden auf Jahres- und Konzernabschlüsse sowie Lage- und
+Konzernlageberichte für das vor dem 1. Januar 2021 beginnende
+Geschäftsjahr. Wurde für das in Satz 2 bezeichnete Geschäftsjahr oder
+für ein diesem vorausgehendes Geschäftsjahr bereits ein
+Vergütungsbericht nach § 162 des Aktiengesetzes erstellt, so sind für
+dieses Geschäftsjahr nicht die in Satz 2 bezeichneten Vorschriften,
+sondern die in Satz 1 bezeichneten Vorschriften anzuwenden.
+
+(2) § 340i Absatz 6 und § 341j Absatz 5 des Handelsgesetzbuchs in der
+ab dem 1. Januar 2020 geltenden Fassung sind erstmals auf
+Konzernerklärungen zur Unternehmensführung für das nach dem 31.
+Dezember 2018 beginnende Geschäftsjahr anzuwenden. Die in Satz 1
+bezeichneten Vorschriften können bereits auf Konzernerklärungen zur
+Unternehmensführung für die nach dem 31. Dezember 2016 beginnenden
+Geschäftsjahre angewendet werden.
+
+
+## Fünfundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur weiteren Umsetzung der Transparenzrichtlinie-Änderungsrichtlinie im Hinblick auf ein einheitliches elektronisches Format für Jahresfinanzberichte
+
+
+
+### Art 84
+
+Die §§ 264, 289, 297, 315, 316, 317, 320, 322, 325, 328, 334, 336,
+339, 340n, 341n, 341w und 342b des Handelsgesetzbuchs in der ab dem
+19\. August 2020 geltenden Fassung sind erstmals auf Jahres-, Einzel-
+und Konzernabschlüsse, Lage- und Konzernlageberichte sowie Erklärungen
+nach § 264 Absatz 2 Satz 3, § 289 Absatz 1 Satz 5, § 297 Absatz 2 Satz
+4 und § 315 Absatz 1 Satz 5 des Handelsgesetzbuchs für das nach dem
+31\. Dezember 2019 beginnende Geschäftsjahr anzuwenden. Die in Satz 1
+bezeichneten Vorschriften in der bis einschließlich 18. August 2020
+geltenden Fassung sind letztmals anzuwenden auf Jahres-, Einzel- und
+Konzernabschlüsse, Lage- und Konzernlageberichte sowie Erklärungen
+nach § 264 Absatz 2 Satz 3, § 289 Absatz 1 Satz 5, § 297 Absatz 2 Satz
+4 und § 315 Absatz 1 Satz 5 des Handelsgesetzbuchs für das vor dem 1.
+Januar 2020 beginnende Geschäftsjahr.
+
+
+## Sechsundvierzigster Abschnitt - Übergangsvorschrift zum Fondsstandortgesetz
+
+
+
+### Art 85
+
+§ 285 Nummer 26, § 290 Absatz 2 Nummer 4 Satz 2 und § 314 Absatz 1
+Nummer 18 des Handelsgesetzbuchs in der ab dem 2. August 2021
+geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse für
+das nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden.
+Die in Satz 1 genannten Vorschriften in der bis einschließlich 1.
+August 2021 geltenden Fassung sind letztmals anzuwenden auf Jahres-
+und Konzernabschlüsse für das vor dem 1. Januar 2021 beginnende
+Geschäftsjahr.
+
+
+## Siebenundvierzigster Abschnitt - Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+
+
+### Art 86
+
+(1) Artikel 25 dieses Gesetzes und § 318 Absatz 3, die §§ 319b, 323
+Absatz 2, § 334 Absatz 2 bis 3a, § 340k Absatz 1 Satz 1, Absatz 2 Satz
+3, Absatz 3 Satz 2, § 340m Absatz 2, die §§ 340n, 341k Absatz 1 Satz 2
+sowie § 341m Absatz 2 und § 341n Absatz 2 bis 3a des
+Handelsgesetzbuchs in der ab dem 1. Juli 2021 geltenden Fassung sind
+erstmals auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für
+das nach dem 31. Dezember 2021 beginnende Geschäftsjahr anzuwenden.
+Artikel 25 dieses Gesetzes und § 318 Absatz 3, die §§ 319a, 319b, 323
+Absatz 2, § 334 Absatz 2 bis 3a, § 340k Absatz 1 Satz 1, Absatz 2 Satz
+3, Absatz 3 Satz 2, § 340m Absatz 2, die §§ 340n, 341k Absatz 1 Satz
+2, Absatz 2 sowie § 341m Absatz 2 und § 341n Absatz 2 bis 3a des
+Handelsgesetzbuchs in der bis einschließlich 30. Juni 2021 geltenden
+Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen
+Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende
+Geschäftsjahr.
+
+(2) Wenn die Voraussetzungen des § 318 Absatz 1a des
+Handelsgesetzbuchs, auch in Verbindung mit Artikel 79 Absatz 3 dieses
+Gesetzes, bis zum Ablauf des 30. Juni 2021 vorliegen, kann ein
+Prüfungsmandat noch für das nach dem 30. Juni 2021 beginnende
+Geschäftsjahr und das unmittelbar auf dieses folgende Geschäftsjahr
+verlängert werden.
+
+(3) § 324 Absatz 1 und 3, § 340k Absatz 5 sowie § 341k Absatz 3 des
+Handelsgesetzbuchs in der ab dem 1. Juli 2021 geltenden Fassung sind
+erstmals ab dem 1. Januar 2022 anzuwenden. Soweit § 324 Absatz 2 Satz
+2 des Handelsgesetzbuchs in der ab dem 1. Juli 2021 geltenden Fassung
+auf § 100 Absatz 5 des Aktiengesetzes verweist, ist die hierauf
+bezogene Übergangsregelung des § 12 Absatz 6 des Einführungsgesetzes
+zum Aktiengesetz entsprechend anzuwenden.
+
+(4) Die §§ 333 und 342c des Handelsgesetzbuchs in der bis
+einschließlich 31. Dezember 2021 geltenden Fassung sind auf die bei
+der Prüfstelle im Sinne von § 342b Absatz 1 des Handelsgesetzbuchs
+Beschäftigten weiter anzuwenden. Auf die Finanzierung der Prüfstelle
+ist § 342d Satz 4 und 5 des Handelsgesetzbuchs in der bis
+einschließlich 31. Dezember 2021 geltenden Fassung für das
+Haushaltsjahr 2021 weiter anzuwenden. Die nach § 342b Absatz 1 des
+Handelsgesetzbuchs in der bis zum 31. Dezember 2021 geltenden Fassung
+als Prüfstelle anerkannte Einrichtung hat
+
+1.  Unterlagen zu nach § 141 Absatz 1 des Wertpapierhandelsgesetzes
+    fortgeführten Prüfungen spätestens am 31. Dezember 2051 zu vernichten;
+
+
+2.  Unterlagen zu bis zum 31. Dezember 2021 abgeschlossenen Prüfungen
+    spätestens 30 Jahre nach dem jeweiligen Abschluss der Prüfung zu
+    vernichten.
+
+
+
+
+(5) § 264 Absatz 3, §§ 264b, 340a Absatz 2, § 341a Absatz 2 und § 341n
+Absatz 1 des Handelsgesetzbuchs in der ab dem 1. Juli 2021 geltenden
+Fassung sind erstmals auf Jahresabschlüsse und Lageberichte für das
+nach dem 31. Dezember 2020 beginnende Geschäftsjahr anzuwenden.
+
+
+## Achtundvierzigster Abschnitt - Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+
+
+### Art 87
+
+Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des
+Handelsgesetzbuchs in der ab dem 12. August 2021 geltenden Fassung
+sind erstmals auf Lage- und Konzernlageberichte sowie Erklärungen zur
+Unternehmensführung nach § 289f Absatz 4 Satz 3 des Handelsgesetzbuchs
+für das nach dem 31. Dezember 2020 beginnende Geschäftsjahr
+anzuwenden.
 

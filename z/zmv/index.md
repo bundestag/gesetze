@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 215
 
+Geändert durch
+:   Art. 20 G v. 10.10.2013 I 3786
+
 
 
 ## Eingangsformel
@@ -53,7 +56,7 @@ Vollstreckungsbehörde.
 
 ## § 2 Gegenstand der Zugänglichmachung
 
-(1) Der Anspruch auf Zugänglichmachung nach § 191a Abs. 1 Satz 1 und
+(1) Der Anspruch auf Zugänglichmachung nach § 191a Absatz 1 Satz 2 und
 Abs. 2 des Gerichtsverfassungsgesetzes, auch in Verbindung mit § 46
 Abs. 1 des Gesetzes über Ordnungswidrigkeiten, umfasst Dokumente, die
 einer berechtigten Person zuzustellen oder formlos bekannt zu geben
@@ -84,8 +87,9 @@ berücksichtigen.
 
 (3) Die elektronische Zugänglichmachung erfolgt durch Übermittlung
 eines elektronischen Dokuments. Dabei sind die Standards von § 3 der
-Barrierefreie Informationstechnikverordnung maßgebend. Das Dokument
-ist gegen unbefugte Kenntnisnahme zu schützen.
+Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011
+(BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend. Das
+Dokument ist gegen unbefugte Kenntnisnahme zu schützen.
 
 
 ## § 4 Umfang des Anspruchs

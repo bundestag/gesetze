@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1963, 458
 
+Geändert durch
+:   Art. 10 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -96,157 +99,8 @@ Rechtsverordnung
 Landesjustizverwaltung übertragen.
 
 
-## Art 5
+## (XXXX) Art 5 bis 10 (weggefallen)
 
-(1) Waren, die sich bei Inkrafttreten des Vertrags in den in Artikel 4
-und Artikel 5 des Grenzvertrags bezeichneten Gebietsteilen nach
-niederländischem Zollrecht nicht im freien Verkehr befinden, werden
-zollhängig (§ 6 des Zollgesetzes vom 20. März 1939, Reichsgesetzbl. I
-S. 529); alle anderen Waren bleiben zollrechtlich Freigut.
-
-(2) Die Steuerschuld für verbrauchsteuerbare Waren, die nach Absatz 1
-zollhängig werden, richtet sich nach den bei der Einfuhr in das
-Erhebungsgebiet geltenden Vorschriften.
-
-(3) Der Bundesminister der Finanzen wird ermächtigt, durch
-Rechtsverordnung zur Verhinderung von Wettbewerbsverfälschungen
-
-1.  die Nacherhebung von Verbrauchsteuern und Zöllen für
-
-    Kaffee
-
-    *   (§ 1 des Kaffeesteuergesetzes vom 30. Juli 1953 - Bundesgesetzbl. I S.
-        708 -, zuletzt geändert durch die Verordnung zur Anpassung von
-        Verbrauchsteuergesetzen und von Durchführungsverordnungen zu
-        Verbrauchsteuergesetzen an den Deutschen Zolltarif 1959 vom 2. Januar
-        1959 - Bundesgesetzbl. I S. 5),
-
-
-
-
-    Tee
-
-    *   (§ 1 des Teesteuergesetzes vom 30. Juli 1953 - Bundesgesetzbl. I S.
-        710 -, zuletzt geändert durch die Verordnung zur Anpassung von
-        Verbrauchsteuergesetzen und von Durchführungsverordnungen zu
-        Verbrauchsteuergesetzen an den Deutschen Zolltarif 1959 vom 2. Januar
-        1959 - Bundesgesetzbl. I S. 5),
-
-
-
-
-    Tabakwaren
-
-    *   (§ 2 des Tabaksteuergesetzes vom 6. Mai 1953 - Bundesgesetzbl. I S.
-        169 -, zuletzt geändert durch das Gesetz zur Änderung von
-        Verbrauchsteuergesetzen vom 10. Oktober 1957 - Bundesgesetzblatt I S.
-        1704),
-
-
-
-
-    Schaumwein
-
-    *   (§ 1 des Schaumweinsteuergesetzes in der Fassung der Bekanntmachung
-        vom 26. Oktober 1958 - Bundesgesetzbl. I S. 764),
-
-
-
-
-    Branntwein und weingeisthaltige Erzeugnisse
-
-    *   (§§ 1 und 151 des Gesetzes über das Branntweinmonopol vom 8. April
-        1922 - Reichsgesetzbl. I S. 405 -, zuletzt geändert durch das Gesetz
-        zur Änderung von Verbrauchsteuergesetzen vom 10. Oktober 1957 -
-        Bundesgesetzbl. I S. 1704),
-
-
-
-
-    Bier
-
-    *   (§ 1 des Biersteuergesetzes in der Fassung der Bekanntmachung vom 14.
-        März 1952 - Bundesgesetzbl. I S. 149 - und des Gesetzes zur Änderung
-        des Biersteuergesetzes vom 10. Oktober 1957 - Bundesgesetzbl. I S.
-        1712),
-
-
-
-
-    Zucker
-
-    *   (§ 1 des Zuckersteuergesetzes in der Fassung der Bekanntmachung vom
-        19\. August 1959 - Bundesgesetzbl. I S. 645),
-
-
-
-
-    Schokolade und schokoladehaltige Lebensmittelzubereitungen
-
-    *   (Nummer 18.06 des Deutschen Zolltarifs 1961 - Bundesgesetzbl. 1960 II
-        S. 2425)
-
-
-
-
-    ganz oder teilweise anzuordnen, soweit sich diese Waren bei
-    Inkrafttreten des Vertrags in den in Artikel 4 und Artikel 5 des
-    Grenzvertrags bezeichneten Gebieten befinden und nach Absatz 1
-    zollrechtlich Freigut bleiben,
-
-
-2.  das Nähere über die Entstehung der Abgabenschuld und die Person des
-    Abgabenschuldners in diesen Fällen zu bestimmen und das anzuwendende
-    Verfahren zu regeln. Die auf Grund dieses Absatzes zu erlassenden
-    Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates,
-    soweit nicht die Nacherhebung von Biersteuer angeordnet wird.
-
-
-
-
-(4) Für Waren, die sich im Zeitpunkt der jeweiligen Grenzänderungen in
-den nach Artikel 2 des Grenzvertrags und nach § 33 der Anlage A des
-Grenzvertrags einzugliedernden Gebietsteilen befinden, gelten die
-Absätze 1 bis 3 entsprechend.
-
-
-## Art 6
-
-Für die Ausfuhr der Gegenstände, die auf Grund des Artikels 10 Abs. 3
-des Grenzvertrags aus abgabenfrei eingeführten Rohstoffen und
-Halberzeugnissen hergestellt worden sind, beträgt der Vergütungssatz
-für die Ausfuhrvergütung 0,5 v.H.
-
-
-## Art 7
-
-Werden Gegenstände in das Ausland verbracht, welche durch die das
-Ausbeutungsrecht erwerbende niederländische Bergbaugesellschaft aus
-den in Artikel 55 Abs. 2 des Grenzvertrags bezeichneten
-Steinkohlenfeldern gewonnen worden sind, so werden
-Umsatzsteuervergütungen wegen Ausfuhr nicht gewährt.
-
-
-## Art 8
-
-Die in Artikel 50 Abs. 2 Satz 3 des Grenzvertrags genannten Bauten und
-Anlagen jeder Art in einer Entfernung von 40 Metern von den
-Kronenkanten der Straße bedürfen auch der Genehmigung des zuständigen
-Hauptzollamts.
-
-
-## Art 9
-
--
-
-
-## Art 10
-
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
-Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
-des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
-S. 1).
 
 
 ## Art 11

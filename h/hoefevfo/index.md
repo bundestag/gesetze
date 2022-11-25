@@ -13,10 +13,10 @@ Ausfertigungsdatum
 :   1976-03-29
 
 Fundstelle
-:   BGBl I: 1976, 881, 885
+:   BGBl I: 1976, 881, 885 (1977 I 288)
 
 Zuletzt geändert durch
-:   Art. 99 G v. 17.12.2008 I 2586
+:   Art. 25 G v. 20.11.2015 I 2010
 
 
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht
@@ -327,162 +327,8 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
 anzuwenden.
 
 
-## § 18 Kostenfreie Geschäfte
+## (XXXX) §§ 18 bis 24 (weggefallen)
 
-Für die Vereinigung der zu einem Hof gehörenden Grundstücke zu einem
-Grundstück sowie für die Eintragung und Löschung eines Hofvermerks
-werden Gebühren und Auslagen nicht erhoben.
-
-
-## § 19 Geschäftswert nach freiem Ermessen
-
-Der Geschäftswert bestimmt sich nach § 30 der Kostenordnung bei
-
-a)  Feststellungsverfahren nach § 11 Abs. 1 Buchstaben a bis f und h,
-
-
-b)  Zustimmungsverfahren (§ 13),
-
-
-c)  Verfahren über die Stundung, Verzinsung und Sicherung eines
-    Abfindungsanspruchs (§ 17),
-
-
-d)  Streitigkeiten über die Abfindungsansprüche der Miterben und des
-    überlebenden Ehegatten mit Einschluß der Versorgungsstreitigkeiten (§
-    14 der Höfeordnung),
-
-
-e)  Streitigkeiten über die Verteilung von Abfindungs- oder
-    Nachlaßverbindlichkeiten (§ 15 Abs. 5 der Höfeordnung),
-
-
-f)  Aufhebung, Beschränkung oder Verlängerung der Verwaltung und
-    Nutznießung des überlebenden Ehegatten (§ 14 Abs. 1 Buchstabe b der
-    Höfeordnung),
-
-
-g)  Regelung und Entscheidung der mit dem Hofübergang zusammenhängenden
-    Fragen im Fall des § 14 Abs. 3 der Höfeordnung,
-
-
-h)  sonstige Anträge und Streitigkeiten nach § 18 Abs. 1 der Höfeordnung
-    und nach § 25.
-
-
-
-
-
-## § 20 Geschäftswert in anderen Verfahren
-
-Der Geschäftswert bestimmt sich bei
-
-a)  Verfahren über die Genehmigung eines Übergabevertrages nach dem Wert
-    des zu übergebenden Hofes,
-
-
-b)  Feststellungsverfahren nach § 11 Abs. 1 Buchstabe g nach dem Wert des
-    Hofes nach Abzug der Schulden,
-
-
-c)  Wahlverfahren (§ 9 Abs. 2 Satz 1 der Höfeordnung) nach dem Wert des
-    gewählten Hofes nach Abzug der Schulden,
-
-
-d)  Fristsetzungsverfahren (§ 9 Abs. 2 Satz 2 der Höfeordnung) nach der
-    Hälfte des Wertes des wertvollsten der noch zur Wahl stehenden Höfe
-    nach Abzug der Schulden,
-
-
-e)  Ausschlagung des Anfalls des Hofes (§ 11 der Höfeordnung) nach dem
-    Wert des Hofes nach Abzug der Schulden.
-
-
-
-Der Wert des Hofes bestimmt sich nach § 19 Abs. 2 bis 5 der
-Kostenordnung.
-
-
-## § 21 Volle Gebühr
-
-Die volle Gebühr wird erhoben für Verfahren, welche betreffen
-
-a)  Feststellungen in einem Verfahren nach § 11 Abs. 1 Buchstaben a bis f
-    und h,
-
-
-b)  die Zustimmung in einem Verfahren nach § 13,
-
-
-c)  die Stundung, Verzinsung und Sicherung eines Abfindungsanspruchs in
-    einem Verfahren nach § 17,
-
-
-d)  Streitigkeiten über die Abfindungsansprüche der Miterben und des
-    überlebenden Ehegatten mit Einschluß der Versorgungsstreitigkeiten (§
-    14 der Höfeordnung),
-
-
-e)  Streitigkeiten über die Verteilung von Abfindungs- oder
-    Nachlaßverbindlichkeiten (§ 15 Abs. 5 der Höfeordnung),
-
-
-f)  die Aufhebung, Beschränkung oder Verlängerung der Verwaltung und
-    Nutznießung des überlebenden Ehegatten (§ 14 Abs. 1 Buchstabe b der
-    Höfeordnung),
-
-
-g)  die Ausstellung eines Erbscheins.
-
-
-
-
-
-## § 22 Doppelte Gebühr
-
-Das Doppelte der vollen Gebühr wird erhoben für
-
-a)  Feststellungsverfahren nach § 11 Abs. 1 Buchstabe g,
-
-
-b)  Verfahren zur Regelung und Entscheidung der mit dem Hofübergang
-    zusammenhängenden Fragen im Fall des § 14 Abs. 3 der Höfeordnung,
-
-
-c)  Verfahren über sonstige Anträge und Streitigkeiten nach § 18 Abs. 1
-    der Höfeordnung und nach § 25.
-
-
-
-
-
-## § 23 Viertel Gebühr
-
-Ein Viertel der vollen Gebühr wird erhoben für
-
-a)  das Verfahren über die Genehmigung der Übergabe eines Hofes,
-
-
-b)  die Aufnahme der Erklärung zur Niederschrift der Geschäftsstelle im
-    Fall des § 9 Abs. 2 Satz 1 der Höfeordnung,
-
-
-c)  die Entgegennahme der Erklärung im Fall des § 9 Abs. 2 Satz 1 und des
-    § 11 der Höfeordnung, und zwar gegebenenfalls neben der unter b)
-    bestimmten Gebühr,
-
-
-d)  das Fristsetzungsverfahren nach § 9 Abs. 2 Satz 2 der Höfeordnung.
-
-
-
-
-
-## § 24 Beschwerdeverfahren
-
-Im Beschwerdeverfahren erhöhen sich die in den §§ 21 bis 23 bestimmten
-Gebührensätze auf das Eineinhalbfache, im Rechtsbeschwerdeverfahren
-auf das Doppelte.
 
 
 ## § 25 Anpassungsverfahren
@@ -502,7 +348,8 @@ oder durch sonstige Vereinbarungen begründet worden sind, in das
 Grundbuch eingetragen werden.
 
 
-## § 26
+## § 26 Geltung für Lebenspartner
 
--
+Die für Ehegatten und Ehegattenhöfe geltenden Vorschriften dieses
+Gesetzes gelten entsprechend für Lebenspartner und Lebenspartnerhöfe.
 

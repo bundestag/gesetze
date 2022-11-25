@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3790
 
+Zuletzt geändert durch
+:   Art. 9 G v. 11.3.2016 I 396
+
 
 ## Eingangsformel
 
@@ -222,15 +225,37 @@ Aufschlag:
 
 
 
+## § 6a Berechnung des Aufschlags bei Rückstellungen für Altersversorgungsverpflichtungen
+
+   Für die Berechnung des Aufschlags bei Rückstellungen für
+Altersversorgungsverpflichtungen nach § 253 Absatz 2 Satz 1 und 2 des
+Handelsgesetzbuchs treten bei der Anwendung des § 6 an die Stelle von
+84 Monatsendständen 120 Monatsendstände.
+
+
 ## § 7 Bekanntgabe
 
-   Auf Basis der Daten des letzten Handelstages des Monats veröffentlicht
-die Deutsche Bundesbank monatlich die Abzinsungszinssätze für die
-ganzjährigen Laufzeiten von einem Jahr bis 50 Jahre auf ihrer
-Internetseite www.bundesbank.de.
+Auf Basis der Daten des letzten Handelstages des Monats veröffentlicht
+die Deutsche Bundesbank monatlich die Null-Kupon-Euro-Zinsswapsätze
+und die Abzinsungszinssätze für die ganzjährigen Laufzeiten von einem
+Jahr bis 50 Jahre auf ihrer Internetseite www.bundesbank.de.
 
 
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+
+## § 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+
+§ 6a in der Fassung des Gesetzes zur Umsetzung der
+Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher
+Vorschriften vom 11. März 2016 (BGBl. I S. 396) ist erstmals auf die
+Berechnung des Aufschlags zum 17. März 2016 anzuwenden. Die Deutsche
+Bundesbank berechnet die Abzinsungszinssätze für Rückstellungen für
+Altersversorgungsverpflichtungen nach Maßgabe des § 6a in der ab dem
+17\. März 2016 geltenden Fassung auch rückwirkend auf Basis der Daten
+des jeweils letzten Handelstages des Monats ab einschließlich Januar
+2015 und veröffentlicht die so berechneten Abzinsungszinssätze
+zusätzlich auf ihrer Internetseite.
 

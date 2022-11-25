@@ -1,7 +1,5 @@
-[^F1_772974_BJNR026700010]
-Verordnung über Informationspflichten für Dienstleistungserbringer
 ---
-Title: ''
+Title: Verordnung über Informationspflichten für Dienstleistungserbringer
 jurabk: DLInfoV
 layout: default
 origslug: dlinfov
@@ -9,13 +7,16 @@ slug: dlinfov
 
 ---
 
-#  (DLInfoV)
+# Verordnung über Informationspflichten für Dienstleistungserbringer (DLInfoV)
 
 Ausfertigungsdatum
 :   2010-03-12
 
 Fundstelle
 :   BGBl I: 2010, 267
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 2 V v. 12.11.2021 I 4921
 
 [^F1_772974_BJNR026700010]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/123/EG des
     Europäischen Parlaments und des Rates vom 12. Dezember 2006 über
@@ -72,8 +73,8 @@ verständlicher Form zur Verfügung stellen:
 2.  die Anschrift seiner Niederlassung oder, sofern keine Niederlassung
     besteht, eine ladungsfähige Anschrift sowie weitere Angaben, die es
     dem Dienstleistungsempfänger ermöglichen, schnell und unmittelbar mit
-    ihm in Kontakt zu treten, insbesondere eine Telefonnummer und eine E
-    -Mail-Adresse oder Faxnummer,
+    ihm in Kontakt zu treten, insbesondere eine Telefonnummer und eine
+    E-Mail-Adresse oder Faxnummer,
 
 
 3.  falls er in ein solches eingetragen ist, das Handelsregister,

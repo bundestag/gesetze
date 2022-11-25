@@ -17,30 +17,25 @@ Fundstelle
 :   BGBl I: 2002, 3457
 
 Zuletzt geändert durch
-:   Art. 34 G v. 8.11.2011 I 2178
+:   Art. 3 V v. 3.3.2020 I 412
 
-Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
-Parlaments und des Rates vom 22. Juni 1998 über ein
-Informationsverfahren
-auf dem Gebiet der Normen und technischen Vorschriften und der
-Vorschriften
-für die Dienste der Informationsgesellschaft (ABl. EG Nr. L 204 S.
-37),
-zuletzt geändert durch die Richtlinie 98/48/EG des Europäischen
-Parlaments
-und des Rates vom 20. Juli 1998 (ABl. EG Nr. L 217 S. 18) sind
-beachtet
-worden.
-§ 3 dieser Verordnung dient der Umsetzung der Richtlinie 94/25/EG des
-Europäischen Parlaments und des Rates vom 16. Juni 1994 zur
-Angleichung
-der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über
-Sportboote (ABl. EG Nr. L 164 S. 15), soweit sie die Inbetriebnahme
-von Sportbooten auf den Seeschifffahrtsstraßen und den seewärts
-angrenzenden Gewässern betrifft. Hinsichtlich des Inverkehrbringens
-von Sportbooten wird die Richtlinie 94/25/EG durch die Verordnung über
-das Inverkehrbringen von Sportbooten vom 18. Dezember 1995 (BGBl. I
-S. 1936) umgesetzt.
+[^BJNR345710002_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
+    Parlaments und des Rates vom 22. Juni 1998 über ein
+    Informationsverfahren auf dem Gebiet der Normen und technischen
+    Vorschriften und der Vorschriften für die Dienste der
+    Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), zuletzt geändert
+    durch die Richtlinie 98/48/EG des Europäischen Parlaments und des
+    Rates vom 20. Juli 1998 (ABl. EG Nr. L 217 S. 18) sind beachtet
+    worden.
+[^BJNR345710002_02]:     § 3 dieser Verordnung dient der Umsetzung der Richtlinie 94/25/EG des
+    Europäischen Parlaments und des Rates vom 16. Juni 1994 zur
+    Angleichung der Rechts- und Verwaltungsvorschriften der
+    Mitgliedstaaten über Sportboote (ABl. EG Nr. L 164 S. 15), soweit sie
+    die Inbetriebnahme von Sportbooten auf den Seeschifffahrtsstraßen und
+    den seewärts angrenzenden Gewässern betrifft. Hinsichtlich des
+    Inverkehrbringens von Sportbooten wird die Richtlinie 94/25/EG durch
+    die Verordnung über das Inverkehrbringen von Sportbooten vom 18.
+    Dezember 1995 (BGBl. I S. 1936) umgesetzt.
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -79,9 +74,9 @@ Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 3023), zuletzt geändert durch Artikel 2 der Verordnung vom 24. August
 2001 (BGBl. I S. 2276), in der jeweils geltenden Fassung unterliegen.
 
-(5) Die für Sportboote geltenden Vorschriften der §§ 2, 5 Abs. 3, §§
-6, 8 Abs. 1 und § 13 Abs. 1 Nr. 2a und 3 in Verbindung mit Anlage 1
-Abschnitt B Nr. II.8 der Schiffssicherheitsverordnung über die
+(5) Die für Sportboote geltenden Vorschriften der §§ 2, 5 Absatz 3, §§
+6 und 13 Absatz 1 Nummer 2a und 3 in Verbindung mit Anlage 1 Abschnitt
+B Nummer II.8 der Schiffssicherheitsverordnung über die
 Selbstkontrolle, die besonderen Regelungen bei internationalem
 schiffsbezogenen Sicherheitsstandard, den Sicherheitsstandard in
 besonderen Fällen und die Überwachung von Funkstellen sowie
@@ -95,8 +90,10 @@ Verhaltenspflichten bleiben unberührt.
 1.  Sportboote
 
     Wasserfahrzeuge mit oder ohne Maschinenantrieb, die für Sport- und
-    Freizeitzwecke gebaut worden sind und dafür verwendet werden und die
-    für nicht mehr als zwölf Personen zugelassen sind,
+    Erholungszwecke gebaut worden sind und ausschließlich für Sport- oder
+    Erholungszwecke oder für die Ausbildung zum Führen von Sportbooten
+    verwendet werden und die für nicht mehr als zwölf Personen zuzüglich
+    Fahrzeugführer und Besatzung zugelassen sind,
 
 
 2.  große Sportboote
@@ -131,20 +128,21 @@ Verhaltenspflichten bleiben unberührt.
 
 
 6.  gewerbsmäßige Nutzung
-
-    der Einsatz von Sportbooten für die Ausbildung zum Führen von
-    Sportfahrzeugen oder für ähnliche Sport- und Freizeitzwecke, der auf
-    Gewinnerzielung gerichtet ist,
+    der Einsatz von Sportbooten gegen ein Entgelt,
 
 
-7.  anerkannte Klassifikationsgesellschaft
+7.  anerkannte Organisation
 
-    eine nach Artikel 2 Buchstabe e und f und Artikel 4 der Richtlinie
-    94/57/EG des Rates vom 22. November 1994 über gemeinsame Vorschriften
-    und Normen für Schiffsüberprüfungs- und
-    Schiffsbesichtigungsorganisationen und die einschlägigen Maßnahmen der
-    Seebehörden (ABl. EG Nr. L 319 S. 20) in der jeweils geltenden Fassung
-    anerkannte Klassifikationsgesellschaft.
+    eine nach der Richtlinie 2009/15/EG anerkannte
+    Klassifikationsgesellschaft, mit der ein Auftragsverhältnis im Sinne
+    des Artikels 5 Absatz 2 der Richtlinie 2009/15/EG begründet worden
+    ist,
+
+
+8.  Berufsgenossenschaft
+
+    die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft
+    Verkehrswirtschaft Post-Logistik Telekommunikation.
 
 
 
@@ -164,15 +162,14 @@ der jeweils geltenden Fassung anzuwenden.
 ### § 3 CE-Kennzeichnung
 
 Soweit Sportboote, die nach dem 15. Juni 1998 erstmals auf den Markt
-der Europäischen Gemeinschaft oder eines anderen Vertragsstaates des
-Abkommens über den Europäischen Wirtschaftsraum gelangen, zugleich
-gemäß § 3 Abs. 1 in Verbindung mit § 1 Abs. 1 und 4 der Verordnung
-über die Bereitstellung von Sportbooten und den Verkehr mit
-Sportbooten vom 9. Juli 2004 (BGBl. I S. 1605), die zuletzt durch
-Artikel 20 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178)
-geändert worden ist, kennzeichnungspflichtig sind, dürfen sie nur in
-Betrieb genommen werden, wenn sie mit der CE-Kennzeichnung im Sinne
-des § 4 Abs. 1 und 2 der vorgenannten Verordnung versehen sind.
+der Europäischen Gemeinschaft oder der Europäischen Union oder eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum gelangen, zugleich nach Maßgabe
+produktsicherheitsrechtlicher Vorschriften über Sportboote und
+Wassermotorräder kennzeichnungspflichtig sind, dürfen sie nur in
+Betrieb genommen werden, wenn sie mit der nach
+produktsicherheitsrechtlichen Vorschriften über Sportboote oder
+Wassermotorräder vorgeschriebenen CE-Kennzeichnung versehen sind.
 
 
 ### § 4 Kennzeichnung von Wassermotorrädern im Inland
@@ -186,16 +183,20 @@ Binnenschifffahrtsstraßen verkehrenden Kleinfahrzeugen vom 21. Februar
 geltenden Fassung versehen sind.
 
 (2) Für die Zuteilung des amtlichen Kennzeichens durch das nach § 5
-Abs. 5 zuständige Wasser- und Schifffahrtsamt gelten die Vorschriften
-der §§ 7 und 8 Abs. 1, 2 und 4 der Verordnung über die Kennzeichnung
-von auf Binnenschifffahrtsstraßen verkehrenden Kleinfahrzeugen
-entsprechend. Die Kennzeichnung mit einem amtlich anerkannten
-Kennzeichen im Sinne des § 5 der vorgenannten Verordnung ist nicht
-zulässig.
+Abs. 5 zuständige Wasserstraßen- und Schifffahrtsamt gelten die
+Vorschriften der §§ 7 und 8 Abs. 1, 2 und 4 der Verordnung über die
+Kennzeichnung von auf Binnenschifffahrtsstraßen verkehrenden
+Kleinfahrzeugen entsprechend. Die Kennzeichnung mit einem amtlich
+anerkannten Kennzeichen im Sinne des § 5 der vorgenannten Verordnung
+ist nicht zulässig.
 
 (3) Für die Verpflichtung zur Mitteilung von Änderungen gilt § 9 der
 Verordnung über die Kennzeichnung von auf Binnenschifffahrtsstraßen
 verkehrenden Kleinfahrzeugen entsprechend.
+
+(4) Absatz 1 gilt nicht für Wassermotorräder, die durch Führen einer
+Flagge oder durch Aufschriften als Wasserrettungsfahrzeuge einer als
+gemeinnützig anerkannten Körperschaft gekennzeichnet sind.
 
 
 ## Abschnitt 3 - Vermietung von Sportbooten oder Wassermotorrädern im Inland
@@ -212,10 +213,8 @@ um jeweils zwei Jahre ist nach vorheriger Untersuchung möglich.
 (2) Das Bootszeugnis kann unter Bedingungen erteilt und mit Auflagen
 verbunden werden.
 
-(3) Die Erteilung eines Bootszeugnisses ist ausgeschlossen, wenn das
-Sportboot bereits mit einem gültigen Sicherheitszeugnis der See-
-Berufsgenossenschaft ausgestattet ist. Das Sicherheitszeugnis ersetzt
-in diesem Fall das Bootszeugnis im Sinne des Absatzes 1.
+(3) Das Bootszeugnis kann durch ein gültiges Sicherheitszeugnis nach §
+14 ersetzt werden.
 
 (4) Die Erteilung des Bootszeugnisses ist zu widerrufen, wenn
 
@@ -225,7 +224,8 @@ in diesem Fall das Bootszeugnis im Sinne des Absatzes 1.
 
 
 2.  das Sportboot mit Gestellung eines Bootsführers oder einer Besatzung
-    oder zum Zweck der gewerbsmäßigen Nutzung vermietet wird.
+    oder zum Zweck der gewerbsmäßigen Nutzung vermietet wird und nicht
+    über ein gültiges Sicherheitszeugnis nach § 14 verfügt.
 
 
 
@@ -233,9 +233,10 @@ Die §§ 48, 49 des Verwaltungsverfahrensgesetzes bleiben unberührt. Ein
 wegen Rücknahme oder Widerruf ungültig gewordenes Bootszeugnis ist von
 der Zulassungsbehörde einzuziehen.
 
-(5) Zulassungsbehörde ist das Wasser- und Schifffahrtsamt, in dessen
-Bezirk das Sportboot oder Wassermotorrad seinen ständigen Liegeplatz
-hat oder in dem sich die Betriebsstätte des Unternehmers befindet.
+(5) Zulassungsbehörde ist das Wasserstraßen- und Schifffahrtsamt, in
+dessen Bezirk das Sportboot oder Wassermotorrad seinen ständigen
+Liegeplatz hat oder in dem sich die Betriebsstätte des Unternehmers
+befindet.
 
 (6) Für Sportboote oder Wassermotorräder, die nicht vermietet werden,
 kann auf Antrag ein Bootszeugnis erteilt werden.
@@ -254,31 +255,28 @@ das Sportboot oder Wassermotorrad zur Untersuchung auf dem Trockenen
 vorzuführen.
 
 (2) Der Eigentümer des Sportbootes oder Wassermotorrades kann auch
-einen Besichtiger der See-Berufsgenossenschaft oder eine anerkannte
-Klassifikationsgesellschaft gemäß Anlage 2 Abschnitt B Nr. 3 der
+einen Besichtiger der Berufsgenossenschaft oder eine anerkannte
+Organisation gemäß Anlage 2 Abschnitt B Nr. 3 der
 Schiffssicherheitsverordnung mit der Untersuchung nach Absatz 1
-beauftragen. Auf das Auftragsverhältnis, das zu begründen ist, sind
-die Vorschriften über Auftragsverhältnisse bei Schiffsbesichtigungen
-in Anlage 2 Abschnitt B Nr. 1, 3.2 bis 3.7 und 5 der
-Schiffssicherheitsverordnung entsprechend anzuwenden. Der
-Untersuchungsumfang muss den Anforderungen der Zulassungsbehörde nach
-Maßgabe des Abnahmeprotokolls in Anlage 3 entsprechen.
+beauftragen. Der Untersuchungsumfang muss den Anforderungen der
+Zulassungsbehörde nach Maßgabe des Abnahmeprotokolls in Anlage 3
+entsprechen.
 
 (3) Dem Antrag auf Erteilung oder Verlängerung des Bootszeugnisses ist
 im Falle des Absatzes 2 die Untersuchungsbescheinigung des
-Besichtigers der See-Berufsgenossenschaft oder der anerkannten
-Klassifikationsgesellschaft beizufügen. Für die Erteilung des
-Bootszeugnisses durch die Zulassungsbehörde gilt der Nachweis, dass
-die hierfür festgelegten Untersuchungsanforderungen erfüllt sind, als
-erbracht, wenn die See-Berufsgenossenschaft oder die anerkannte
-Klassifikationsgesellschaft die Untersuchung nach Maßgabe dieser
-Verordnung durchgeführt hat und der Zulassungsbehörde bestätigt, dass
-die Anforderungen erfüllt werden. Hat die Zulassungsbehörde triftige
-Gründe für die Annahme, dass die Untersuchungen nicht entsprechend
-dieser Verordnung oder dem Auftragsverhältnis im Sinne des Absatzes 2
-durchgeführt werden, so kann sie für die Erteilung des Bootszeugnisses
-weitere Nachweise der entsprechenden Untersuchungsanforderungen
-verlangen oder eigene Untersuchungen durchführen.
+Besichtigers der Berufsgenossenschaft oder der anerkannten
+Organisation beizufügen. Für die Erteilung des Bootszeugnisses durch
+die Zulassungsbehörde gilt der Nachweis, dass die hierfür festgelegten
+Untersuchungsanforderungen erfüllt sind, als erbracht, wenn die
+Berufsgenossenschaft oder die anerkannte Organisation die Untersuchung
+nach Maßgabe dieser Verordnung durchgeführt hat und der
+Zulassungsbehörde bestätigt, dass die Anforderungen erfüllt werden.
+Hat die Zulassungsbehörde triftige Gründe für die Annahme, dass die
+Untersuchungen nicht entsprechend dieser Verordnung oder dem
+Auftragsverhältnis im Sinne des Absatzes 2 durchgeführt werden, so
+kann sie für die Erteilung des Bootszeugnisses weitere Nachweise der
+entsprechenden Untersuchungsanforderungen verlangen oder eigene
+Untersuchungen durchführen.
 
 (4) Der Antrag auf Erteilung des Bootszeugnisses muss enthalten:
 
@@ -288,8 +286,8 @@ verlangen oder eigene Untersuchungen durchführen.
 
 
 2.  Angaben darüber, ob der Antragsteller bereits ein Bootszeugnis oder
-    ein Sicherheitszeugnis der See-Berufsgenossenschaft für das Sportboot
-    oder Wassermotorrad besitzt, besessen oder beantragt hat,
+    ein Sicherheitszeugnis der Berufsgenossenschaft für das Sportboot oder
+    Wassermotorrad besitzt, besessen oder beantragt hat,
 
 
 3.  Angaben über die Art des Sportbootes oder Wassermotorrades und die
@@ -355,21 +353,23 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 Inbetriebnahme auf der Innenseite deutlich sicht- und lesbar Name und
 Wohnsitz oder Sitz des Unternehmers und die von der Zulassungsbehörde
 festgesetzte höchstzulässige Anzahl der zu befördernden Personen
-anbringen. Er muss bis zu diesem Zeitpunkt an den Außenseiten des Bugs
-der Sportboote die deutlich sicht- und lesbaren, mindestens zehn
-Zentimeter hohen Buchstaben des amtlichen Kraftfahrzeugkennzeichens
-des Ortes der Zulassungsbehörde und eine von der Zulassungsbehörde
-bestimmte Nummer anbringen. Die Sätze 1 und 2 gelten nicht für
-vermietete Sportboote, die aufgrund anderer schifffahrtspolizeilicher
-Vorschriften des Bundes oder der Länder gekennzeichnet sind. Für die
-Bezeichnung der vermieteten Sportboote mit ihrem Namen und dem Namen
-des Heimathafens gelten die Vorschriften des Flaggenrechtsgesetzes in
-der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140),
-zuletzt geändert durch Artikel 25 des Gesetzes vom 15. Dezember 2001
-(BGBl. I S. 3762), und der Flaggenrechtsverordnung vom 4. Juli 1990
-(BGBl. I S. 1389), zuletzt geändert durch Artikel 442 der Verordnung
-vom 29. Oktober 2001 (BGBl. I S. 2785), in der jeweils geltenden
-Fassung.
+anbringen. Er muss bis zu diesem Zeitpunkt in mindestens zehn
+Zentimeter hohen lateinischen Buchstaben und arabischen Ziffern
+dauerhaft in heller Farbe auf dunklem Grund oder dunkler Farbe auf
+hellem Grund an den beiden Bug- oder Heckseiten oder am Spiegelheck
+der Sportboote die Buchstaben des Unterscheidungszeichens für den
+Verwaltungsbezirk des Ortes der Zulassungsbehörde und eine von der
+Zulassungsbehörde bestimmte Nummer anbringen. Die Sätze 1 und 2 gelten
+nicht für vermietete Sportboote, die aufgrund anderer
+schifffahrtspolizeilicher Vorschriften des Bundes oder der Länder
+gekennzeichnet sind. Für die Bezeichnung der vermieteten Sportboote
+mit ihrem Namen und dem Namen des Heimathafens gelten die Vorschriften
+des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26.
+Oktober 1994 (BGBl. I S. 3140), zuletzt geändert durch Artikel 25 des
+Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762), und der
+Flaggenrechtsverordnung vom 4. Juli 1990 (BGBl. I S. 1389), zuletzt
+geändert durch Artikel 442 der Verordnung vom 29. Oktober 2001 (BGBl.
+I S. 2785), in der jeweils geltenden Fassung.
 
 (2) An vermieteten Wassermotorrädern muss der Unternehmer vor
 Inbetriebnahme deutlich sicht- und lesbar Name und Wohnsitz oder Sitz
@@ -396,12 +396,11 @@ Verkehrssicherheit des Sportbootes oder Wassermotorrades bescheinigt
 hat.
 
 (3) Die Untersuchung nach Absatz 2 Satz 1 kann durch einen Besichtiger
-der See-Berufsgenossenschaft oder einer anerkannten
-Klassifikationsgesellschaft im Sinne des § 6 Abs. 2 durchgeführt
-werden. Dem Antrag auf Bescheinigung der Verkehrssicherheit ist in
-diesem Fall die Untersuchungsbescheinigung der See-
-Berufsgenossenschaft oder der anerkannten Klassifikationsgesellschaft
-beizufügen. § 6 Abs. 3 Satz 2 und 3 ist entsprechend anzuwenden.
+der Berufsgenossenschaft oder einer anerkannten Organisation im Sinne
+des § 6 Abs. 2 durchgeführt werden. Dem Antrag auf Bescheinigung der
+Verkehrssicherheit ist in diesem Fall die Untersuchungsbescheinigung
+der Berufsgenossenschaft oder der anerkannten Organisation beizufügen.
+§ 6 Abs. 3 Satz 2 und 3 ist entsprechend anzuwenden.
 
 
 ### § 10 Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder
@@ -454,13 +453,11 @@ Sportbootes zu Ausbildungszwecken erforderlich ist und der Gebrauch
 des Sportbootes unter der Aufsicht einer Person erfolgt, die
 mindestens 18 Jahre alt und Schwimmer ist.
 
-(3) Ein Sportboot, dessen größte nicht überschreitbare Nutzleistung an
-der Schraubenwelle mehr als 3,68 Kilowatt beträgt, darf der
-Unternehmer im Inland nur an Personen übergeben, die über die nach § 1
-der Sportbootführerscheinverordnung-See vom 20. Dezember 1973 (BGBl. I
-S. 1988), die zuletzt durch Artikel 434 der Verordnung vom 29. Oktober
-2001 (BGBl. I S. 2785) geändert worden ist, in der jeweils geltenden
-Fassung erforderliche Fahrerlaubnis verfügen.
+(3) Ein Sportboot, das mit einem Motorantrieb ausgerüstet ist, oder
+ein Wassermotorrad darf der Unternehmer nur an Personen übergeben, die
+nach der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S.
+1016) in der jeweils geltenden Fassung zum Führen eines Sportbootes
+oder Wassermotorrads berechtigt sind.
 
 (4) Kleine Sportboote dürfen nicht bei Nacht, unsichtigem Wetter,
 Sturm oder aufziehendem Gewitter zur umgehenden Benutzung übergeben
@@ -543,10 +540,10 @@ nicht möglich ist, an einer geschützten Stelle des Ufers anlegt.
 
 Wenn die örtlichen Verhältnisse der Gewässer oder die Sicherheit und
 Leichtigkeit der Schifffahrt es erfordern oder gestatten, kann die
-Zulassungsbehörde im Einzelfall, die übergeordnete Wasser- und
-Schifffahrtsdirektion auch durch allgemeine Anordnungen, für
-Unternehmer, Mieter und Bootsführer Verbote und Gebote erlassen oder
-Ausnahmen zulassen.
+Zulassungsbehörde im Einzelfall, die Generaldirektion Wasserstraßen
+und Schifffahrt auch durch allgemeine Anordnungen, für Unternehmer,
+Mieter und Bootsführer Verbote und Gebote erlassen oder Ausnahmen
+zulassen.
 
 
 ## Abschnitt 4 - Gewerbsmäßige Nutzung von Sportbooten im Inland
@@ -556,21 +553,20 @@ Ausnahmen zulassen.
 ### § 14 Sicherheitszeugnis
 
 Ein Sportboot darf nur gewerbsmäßig genutzt werden, wenn es ein
-Sicherheitszeugnis oder eine Prüfbescheinigung der See-
-Berufsgenossenschaft im Sinne des § 9 Abs. 3 in Verbindung mit § 15
-Abs. 1 Nr. 2 der Schiffssicherheitsverordnung vom 18. September 1998
-(BGBl. I S. 3013), die zuletzt durch Artikel 2 der Verordnung vom 24.
-August 2001 (BGBl. I S. 2276) geändert worden ist, sowie § 52a der
-Schiffssicherheitsverordnung in der Fassung der Bekanntmachung vom 3.
-September 1997 (BGBl. I S. 2217), die durch Artikel 1 der Verordnung
-vom 19. Juni 1998 (BGBl. I S. 1431) geändert worden ist, besitzt und
-den übrigen Anforderungen der Schiffssicherheitsverordnung entspricht.
-Die Richtlinie über Sicherheitsvorschriften für gewerbsmäßig zu
-Ausbildungszwecken genutzte Sportfahrzeuge nach § 52a der
-Schiffssicherheitsverordnung 1997 (Richtlinie für
-Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl. 1997 S. 572) ist für
-Sportboote, die für ähnliche Sport- und Freizeitzwecke im Sinne des §
-2 Nr. 6 gewerbsmäßig genutzt werden, entsprechend anzuwenden.
+Sicherheitszeugnis der Berufsgenossenschaft nach § 9 Absatz 3 der
+Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
+3023), die zuletzt durch Artikel 1 der Verordnung vom 7. März 2018
+(BGBl. I S. 237) geändert worden ist, besitzt und den übrigen
+Anforderungen der Schiffssicherheitsverordnung entspricht. Soweit die
+internationalen Regelungen und die Schiffssicherheitsverordnung nicht
+entgegenstehen, richten sich die Sicherheitsanforderungen für
+gewerbsmäßig genutzte Sportboote bis zum Inkrafttreten des Teils 4 der
+Anlage 1a zur Schiffssicherheitsverordnung vom 18. September 1998 in
+ihrer jeweils geltenden Fassung nach der Richtlinie über
+Sicherheitsvorschriften für gewerbsmäßig zu Ausbildungszwecken
+genutzte Sportfahrzeuge nach § 52a der Schiffssicherheitsverordnung
+1997 (Richtlinie für Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl.
+S. 572).
 
 
 ### § 15 Fahrerlaubnis
@@ -590,21 +586,19 @@ der Sportseeschifferscheinverordnung. Der Nachweis des für die
 Funkstelle ausreichenden gültigen Funkzeugnisses richtet sich nach § 1
 Absatz 7 der Sportseeschifferscheinverordnung.
 
-(1a) Im Einzelfall können die Wasser- und Schifffahrtsdirektionen Nord
-und Nordwest jeweils für ihren Bezirk abweichend von Absatz 1 Satz 2
-auf Antrag des Sportbootführers oder der Sportbootführerin einen
-Sportbootführerschein-See im Sinne des § 1 Absatz 2 Satz 1 der
-Sportbootführerscheinverordnung-See in der Fassung der Bekanntmachung
-vom 19. März 2003 (BGBl. I S. 367), die zuletzt durch Artikel 1 der
-Verordnung vom 27. August 2007 (BGBl. I S. 2193) geändert worden ist,
-in der jeweils geltenden Fassung als ausreichenden Nachweis der
-Fahrerlaubnis bei Einsatz des Sportbootes bis zu 300 Meter Abstand vom
-Ufer anerkennen, wenn die örtlichen Verhältnisse der Gewässer, das zu
-führende Sportboot und die Sicherheit und Leichtigkeit der Schifffahrt
-dies gestatten. Hierüber ist eine entsprechende Bescheinigung
-auszustellen. Die Bescheinigung ist beim Führen des Sportbootes
-mitzuführen und den zur Kontrolle befugten Personen auf Verlangen zur
-Prüfung auszuhändigen.
+(1a) Im Einzelfall kann die Generaldirektion Wasserstraßen und
+Schifffahrt abweichend von Absatz 1 Satz 2 auf Antrag des
+Sportbootführers oder der Sportbootführerin einen
+Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen
+im Sinne der Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I
+S. 1016), in der jeweils geltenden Fassung als ausreichenden Nachweis
+der Fahrerlaubnis bei Einsatz des Sportbootes bis zu 300 Meter Abstand
+vom Ufer anerkennen, wenn die örtlichen Verhältnisse der Gewässer, das
+zu führende Sportboot und die Sicherheit und Leichtigkeit der
+Schifffahrt dies gestatten. Hierüber ist eine entsprechende
+Bescheinigung auszustellen. Die Bescheinigung ist beim Führen des
+Sportbootes mitzuführen und den zur Kontrolle befugten Personen auf
+Verlangen zur Prüfung auszuhändigen.
 
 (2) Der Bootsführer muss dafür sorgen, dass gewerbsmäßig genutzte
 Sportboote entsprechend ihrer Antriebsart mindestens die sich aus der
@@ -742,9 +736,8 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
-Schifffahrtsdirektionen Nord und Nordwest jeweils für ihren Bezirk
-übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
 ### § 17 Überwachung
@@ -769,23 +762,24 @@ werden, sind § 5 Abs. 1 bis 3 sowie Abs. 4 Satz 1 Nr. 1 und Satz 2, §§
 7, 10 Abs. 1 Satz 1 und Abs. 2, §§ 11 und 12 anzuwenden. Liegen
 Anhaltspunkte dafür vor, dass die Voraussetzungen des § 5 Abs. 4 Satz
 1 Nr. 1 gegeben sind, kann die Zulassungsbehörde einen Besichtiger der
-See-Berufsgenossenschaft oder einen ortsansässigen Besichtiger einer
-anerkannten Klassifikationsgesellschaft beauftragen, eine
-Nachbesichtigung durchzuführen.
+Berufsgenossenschaft oder einen ortsansässigen Besichtiger einer
+anerkannten Organisation beauftragen, eine Nachbesichtigung
+durchzuführen.
 
-(2) Zulassungsbehörde ist das Wasser- und Schifffahrtsamt
-Wilhelmshaven.
+(2) Zulassungsbehörde ist das vom Bundesministerium für Verkehr und
+digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger
+bekanntgemachte Wasserstraßen- und Schifffahrtsamt.
 
 (3) Für die Erteilung oder Verlängerung eines Bootszeugnisses sind die
 §§ 6 und 8 entsprechend anzuwenden. Bei Sportbooten mit ausländischem
-Liegeplatz kann die Untersuchung durch einen Besichtiger der See-
+Liegeplatz kann die Untersuchung durch einen Besichtiger der
 Berufsgenossenschaft oder einen ortsansässigen Besichtiger einer
-anerkannten Klassifikationsgesellschaft durchgeführt werden.
+anerkannten Organisation durchgeführt werden.
 
 (4) Für die Unterhaltung des Sportbootes ist § 9 entsprechend
-anzuwenden. Die Untersuchung kann durch einen Besichtiger der See-
+anzuwenden. Die Untersuchung kann durch einen Besichtiger der
 Berufsgenossenschaft oder einen ortsansässigen Besichtiger einer
-anerkannten Klassifikationsgesellschaft durchgeführt werden.
+anerkannten Organisation durchgeführt werden.
 
 (5) Die Pflicht zum Besitz eines Bootszeugnisses besteht nicht, wenn
 der jeweilige Staat für Sportboote unter deutscher Flagge ein eigenes
@@ -813,8 +807,7 @@ Schiffssicherheitsverordnung.
 Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
 *    *   Bundesrepublik Deutschland
-        Wasser- und Schifffahrtsverwaltung
-        des Bundes
+        Wasserstraßen- und Schifffahrtsverwaltung des Bundes
         ... (nicht darstellbarer Bundesadler)
         Bootszeugnis (See)
         Nr. /
@@ -915,7 +908,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
 *    *
 
-*    *   Das Bootszeugnis ist gültig bis zum ............. Wasser- und
+*    *   Das Bootszeugnis ist gültig bis zum ............. Wasserstraßen- und
         Schifffahrtsamt
 
 
@@ -1326,7 +1319,7 @@ Die Untersuchung eines Sportbootes/Wassermotorrades gemäß § 6 Abs. 1
 Satz 3 der See-Sportbootverordnung erstreckt sich auf folgende
 Merkmale:
 
-\*  Schiffskörper einschließlich Mast und Rigg
+*   Schiffskörper einschließlich Mast und Rigg
 
     -   Außenhaut
 
@@ -1514,9 +1507,9 @@ I
 - Eigenbau:
 ()
 -----
-1) Amtliche Kennzeichen sind: Die von den Wasser- und
-Schifffahrtsämtern (WSÄ)
-erteilten, die Binnenschiffsregisternummer (gefolgt von dem
+1) Amtliche Kennzeichen sind: Die von den Wasserstraßen- und
+Schifffahrtsämtern
+(WSÄ) erteilten, die Binnenschiffsregisternummer (gefolgt von dem
 Kennbuchstaben
 B) mit Namen und Heimat- oder Registerort, Funkrufzeichen (einschl.
 Unterscheidungssignal), Seeschiffsregisternummer (mit Schiffsnamen und
@@ -1993,14 +1986,15 @@ I
 
 ### Anlage 4 Besetzung von gewerbsmäßig genutzten Sportbooten
 
-Fundstelle des Originaltextes: BGBl. I 2010, 574
+(Fundstelle: BGBl. I 2010, 574)
+
 
 ## **Besetzung von gewerbsmäßig genutzten Sportbooten**
 
 *    *   Rumpflänge des Sportbootes/
         Fahrtgebiet
 
-    *[^F774137_01_BJNR345710002BJNE002401305]
+    *[^F774137_01_BJNR345710002BJNE002402118]
    Besetzung
 
 
@@ -2015,7 +2009,8 @@ Fundstelle des Originaltextes: BGBl. I 2010, 574
 
 
 
-    *   1 x Sportbootführerschein-See
+    *   1 x Sportbootführerschein für den Geltungsbereich
+        Seeschifffahrtsstraßen
 
 
 *    *
@@ -2024,7 +2019,7 @@ Fundstelle des Originaltextes: BGBl. I 2010, 574
 
 
 
-    *[^F774137_02_BJNR345710002BJNE002401305]
+    *[^F774137_02_BJNR345710002BJNE002402118]
    1 x Sportküstenschifferschein
 
 
@@ -2034,7 +2029,7 @@ Fundstelle des Originaltextes: BGBl. I 2010, 574
 
 
 
-    *[^F774137_03_BJNR345710002BJNE002401305]
+    *[^F774137_03_BJNR345710002BJNE002402118]
    1 x Sportseeschifferschein
 
 
@@ -2112,13 +2107,13 @@ Fundstelle des Originaltextes: BGBl. I 2010, 574
 
 
     Befähigungsnachweis entsprechend der Antriebsart des Sportbootes.
-[^F774137_01_BJNR345710002BJNE002401305]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
+[^F774137_01_BJNR345710002BJNE002402118]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
     fahren, müssen zusätzlich mit einem Inhaber oder einer Inhaberin des
     Sportbootführerscheins-See besetzt werden, der oder die den Nachweis
     nach § 6 Absatz 1 Nummer 2 der Sportseeschifferscheinverordnung führt,
     dass er oder sie mindestens 300 Seemeilen auf Sportbooten mit der
     jeweiligen Antriebsart im Küstenbereich zurückgelegt hat.
-[^F774137_02_BJNR345710002BJNE002401305]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
+[^F774137_02_BJNR345710002BJNE002402118]:     Sportboote, die innerhalb von 24 Stunden länger als zehn Stunden
     fahren, müssen zusätzlich mit einem Inhaber des
     Sportküstenschifferscheins besetzt werden.
-[^F774137_03_BJNR345710002BJNE002401305]: 
+[^F774137_03_BJNR345710002BJNE002402118]: 

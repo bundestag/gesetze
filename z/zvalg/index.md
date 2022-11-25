@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 1660
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 11 G v. 12.4.2012 I 579
+:   Art. 57 Abs. 19 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -37,8 +37,8 @@ Forstwirtschaft (ZLA) ist eine bundesunmittelbare Anstalt des
 öffentlichen Rechts.
 
 (2) Die Aufsicht über die Zusatzversorgungskasse für Arbeitnehmer in
-der Land- und Forstwirtschaft führt das Bundesversicherungsamt. Ihm
-obliegt auch die Genehmigung der Satzung.
+der Land- und Forstwirtschaft führt das Bundesamt für Soziale
+Sicherung. Ihm obliegt auch die Genehmigung der Satzung.
 
 
 ### § 2
@@ -102,8 +102,11 @@ Arbeitnehmer und der Arbeitgeber.
 
 ### § 6
 
-Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung.
+Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. Hat die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau eine
+Geschäftsführung, benennt der Vorstand ein Mitglied der
+Geschäftsführung zum Geschäftsführer der Zusatzversorgungskasse.
 
 
 ### § 7
@@ -114,25 +117,24 @@ Spitzenverbandes der landwirtschaftlichen Sozialversicherung.
 ### § 8
 
 Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz, die nur im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Arbeit und Soziales erteilt werden kann.
+Ernährung und Landwirtschaft, die nur im Einvernehmen mit dem
+Bundesministerium der Finanzen und dem Bundesministerium für Arbeit
+und Soziales erteilt werden kann.
 
 
 ### § 9
 
-Durch Verwaltungsvereinbarung kann geregelt werden, dass der
-Spitzenverband der landwirtschaftlichen Sozialversicherung
+Durch Verwaltungsvereinbarung kann geregelt werden, dass die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 Verwaltungsaufgaben der Zusatzversorgungskasse wahrnimmt. Die
 Verwaltungsvereinbarung hat die wahrzunehmenden Aufgaben zu bezeichnen
 und eine Regelung über die Erstattung der bei der Durchführung der
 wahrzunehmenden Aufgaben entstehenden Verwaltungskosten zu enthalten;
-sie bedarf der Genehmigung des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz, die nur im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium für Arbeit
-und Soziales erteilt werden kann. Die Verwaltungsvereinbarung ist in
-derselben Weise wie die Satzung der Zusatzversorgungskasse zu
-veröffentlichen.
+sie bedarf der Genehmigung des Bundesministeriums für Ernährung und
+Landwirtschaft, die nur im Einvernehmen mit dem Bundesministerium der
+Finanzen und dem Bundesministerium für Arbeit und Soziales erteilt
+werden kann. Die Verwaltungsvereinbarung ist in derselben Weise wie
+die Satzung der Zusatzversorgungskasse zu veröffentlichen.
 
 
 ### § 10
@@ -145,8 +147,8 @@ Unfallversicherung erlassenen Rechtsverordnungen entsprechend
 anzuwenden. Die §§ 144 bis 147, 172c und 219a Abs. 2 bis 4 des Siebten
 Buches Sozialgesetzbuch gelten nicht. § 73 Absatz 2 Satz 1 und 5 des
 Vierten Buches Sozialgesetzbuch gilt mit der Maßgabe, dass an die
-Stelle der Aufsichtsbehörde das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz tritt.
+Stelle der Aufsichtsbehörde das Bundesministerium für Ernährung und
+Landwirtschaft tritt.
 
 (2) Die Gerichte der Sozialgerichtsbarkeit entscheiden über
 öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
@@ -347,7 +349,9 @@ Alters oder verminderter Erwerbsfähigkeit ergäbe. Besteht Anspruch auf
 eine Ausgleichsleistung, ohne daß eine tarifvertragliche oder
 privatrechtliche Beihilfe gewährt wird, so ist die Ausgleichsleistung
 um den Betrag zu kürzen, der sich nach Satz 2 als Kürzung ergäbe, wenn
-Tarifgebundenheit bestanden hätte. Besteht Anspruch auf eine
+Tarifgebundenheit bestanden hätte. Ist die tarifvertragliche Beihilfe
+abgefunden worden, so ist die Ausgleichsleistung um den Betrag zu
+kürzen, der sich ohne die Abfindung ergäbe. Besteht Anspruch auf eine
 entsprechende privatrechtliche Beihilfe, beträgt die Kürzung der
 monatlichen Ausgleichsleistung bei Berechtigten, die Anspruch auf die
 Ausgleichsleistung für den verheirateten Berechtigten haben,
@@ -418,12 +422,12 @@ Ausgleichsleistung auch für die Zeit vom 1. Januar 1995 bis 30. Juni
 ### § 16
 
 (1) Die Zusatzversorgungskasse kann mit Genehmigung des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-und des Bundesministeriums für Arbeit und Soziales die Aufgaben
-gemeinsamer Einrichtungen der Tarifvertragsparteien der Land- und
-Forstwirtschaft im Sinne des § 4 Abs. 2 des Tarifvertragsgesetzes, die
-eine Zusatzaltersversorgung für Arbeitnehmer der Land- und
-Forstwirtschaft zum Gegenstand haben, durchführen.
+Bundesministeriums für Ernährung und Landwirtschaft und des
+Bundesministeriums für Arbeit und Soziales die Aufgaben gemeinsamer
+Einrichtungen der Tarifvertragsparteien der Land- und Forstwirtschaft
+im Sinne des § 4 Abs. 2 des Tarifvertragsgesetzes, die eine
+Zusatzaltersversorgung für Arbeitnehmer der Land- und Forstwirtschaft
+zum Gegenstand haben, durchführen.
 
 (2) Soweit gemeinsame Einrichtungen zur Durchführung ihrer Aufgaben
 die Zusatzversorgungskasse in Anspruch nehmen, haben sie der

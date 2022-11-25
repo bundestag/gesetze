@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2003, 1702
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.5.2011 I 996
+:   Art. 1 V v. 12.12.2018 I 2446
+
+Änderung durch
+:   Art. 71 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -66,7 +69,7 @@ worden ist, verordnet das Deutsche Patent- und Markenamt:
 
 *    *   § 4
 
-    *   Erteilungsantrag
+    *   Anmeldung zur Erteilung eines Patents
 
 
 *    *   § 5
@@ -116,7 +119,7 @@ worden ist, verordnet das Deutsche Patent- und Markenamt:
 
 *    *   § 14
 
-    *   Deutsche Übersetzungen
+    *   Fremdsprachige Dokumente
 
 
 *    *   Abschnitt 3
@@ -219,10 +222,10 @@ Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 (2) Einheiten im Messwesen sind in Übereinstimmung mit dem Gesetz über
-Einheiten im Messwesen und der hierzu erlassenen Ausführungsverordnung
-in den jeweils geltenden Fassungen anzugeben. Bei chemischen Formeln
-sind die auf dem Fachgebiet national oder international anerkannten
-Zeichen und Symbole zu verwenden.
+die Einheiten im Messwesen und die Zeitbestimmung und der hierzu
+erlassenen Ausführungsverordnung in den jeweils geltenden Fassungen
+anzugeben. Bei chemischen Formeln sind die auf dem Fachgebiet national
+oder international anerkannten Zeichen und Symbole zu verwenden.
 
 
 ## Abschnitt 2 - Patentanmeldungen; Patentverfahren
@@ -231,52 +234,47 @@ Zeichen und Symbole zu verwenden.
 
 ### § 3 Form der Einreichung
 
-(1) Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§
-36 des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
-schriftlich einzureichen. Für die elektronische Einreichung ist § 12
-der DPMA-Verordnung maßgebend.
-
-(2) In den Fällen der §§ 8, 14 bis 21 ist die elektronische Form
-ausgeschlossen.
-
-(3) (weggefallen)
+Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36
+des Patentgesetzes) sind beim Deutschen Patent- und Markenamt
+schriftlich oder elektronisch einzureichen. Für die elektronische
+Einreichung ist die Verordnung über den elektronischen Rechtsverkehr
+beim Deutschen Patent- und Markenamt maßgebend.
 
 
-### § 4 Erteilungsantrag
+### § 4 Anmeldung zur Erteilung eines Patents
 
-(1) Der Antrag auf Erteilung des Patents (§ 34 Abs. 3 Nr. 2 des
-Patentgesetzes) oder eines Zusatzpatents (§ 16 des Patentgesetzes) ist
-auf dem vom Deutschen Patent- und Markenamt herausgegebenen Formblatt
-oder als Datei entsprechend den vom Deutschen Patent- und Markenamt
-bekannt gemachten Formatvorgaben einzureichen.
+(1) Für die schriftliche Anmeldung zur Erteilung eines Patents ist für
+die nachfolgend genannten Angaben das vom Deutschen Patent- und
+Markenamt herausgegebene Formblatt zu verwenden, sofern diese
+Verordnung nichts anderes bestimmt.
 
-(2) Der Antrag muss enthalten:
+(2) Die Anmeldung muss enthalten:
 
 1.  folgende Angaben zum Anmelder:
 
-    a)  ist der Anmelder eine natürliche Person, den Vornamen und
-        Familiennamen oder, falls die Eintragung unter der Firma des Anmelders
-        erfolgen soll, die Firma, wie sie im Handelsregister eingetragen ist;
+    a)  wenn der Anmelder eine natürliche Person ist: Vornamen und Namen oder,
+        falls die Eintragung unter der Firma des Anmelders erfolgen soll, die
+        Firma, wie sie im Handelsregister eingetragen ist, sowie die Anschrift
+        des Wohn- oder Firmensitzes mit Angabe von Straße, Hausnummer,
+        Postleitzahl und Ort,
 
 
-    b)  ist der Anmelder eine juristische Person oder eine
-        Personengesellschaft, den Namen dieser Person oder Gesellschaft; die
-        Bezeichnung der Rechtsform kann auf übliche Weise abgekürzt werden.
-        Sofern die juristische Person oder Personengesellschaft in einem
-        Register eingetragen ist, muss der Name entsprechend dem
-        Registereintrag angegeben werden. Bei einer Gesellschaft bürgerlichen
-        Rechts sind auch der Name und die Anschrift mindestens eines
-        vertretungsberechtigten Gesellschafters anzugeben;
+    b)  wenn der Anmelder eine juristische Person oder eine
+        Personengesellschaft ist:
+
+        aa) Name oder Firma, Rechtsform sowie Anschrift mit Angabe von Straße,
+            Hausnummer, Postleitzahl und Ort des Sitzes; die Bezeichnung der
+            Rechtsform kann auf übliche Weise abgekürzt werden; wenn die
+            juristische Person oder Personengesellschaft in einem Register
+            eingetragen ist, müssen die Angaben dem Registereintrag entsprechen;
+
+
+        bb) bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und
+            Anschrift mit Angabe von Straße, Hausnummer, Postleitzahl und Ort
+            mindestens eines vertretungsberechtigten Gesellschafters;
 
 
 
-
-    dabei muss klar ersichtlich sein, ob das Patent für eine oder mehrere
-    Personen oder Gesellschaften, für den Anmelder unter der Firma oder
-    unter dem bürgerlichen Namen angemeldet wird;
-
-    c)  Wohnsitz oder Sitz und die Anschrift (Straße und Hausnummer,
-        Postleitzahl, Ort);
 
 
 
@@ -285,47 +283,50 @@ bekannt gemachten Formatvorgaben einzureichen.
 2.  eine kurze und genaue Bezeichnung der Erfindung;
 
 
-3.  die Erklärung, dass für die Erfindung die Erteilung eines Patents oder
-    eines Zusatzpatents beantragt wird;
+3.  die Erklärung, dass für die Erfindung die Erteilung eines Patents
+    beantragt wird;
 
 
-4.  falls ein Vertreter bestellt worden ist, seinen Namen und seine
-    Anschrift;
+4.  gegebenenfalls die Angabe eines Vertreters;
 
 
-5.  die Unterschrift aller Anmelder oder deren Vertreter;
-
-
-6.  falls ein Zusatzpatent beantragt wird, so ist auch das Aktenzeichen
-    der Hauptanmeldung oder die Nummer des Hauptpatents anzugeben.
+5.  die Unterschrift aller Anmelder oder deren Vertreter.
 
 
 
 
-(3) Hat der Anmelder seinen Wohnsitz oder Sitz im Ausland, so ist bei
-der Angabe der Anschrift nach Absatz 2 Nr. 1 Buchstabe c außer dem Ort
-auch der Staat anzugeben. Außerdem können gegebenenfalls Angaben zum
-Bezirk, zur Provinz oder zum Bundesstaat gemacht werden, in dem der
-Anmelder seinen Wohnsitz oder Sitz hat oder dessen Rechtsordnung er
-unterliegt.
+(3) Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist
+bei der Angabe der Anschrift nach Absatz 2 Nummer 1 außer dem Ort auch
+der Staat anzugeben. Weitere Angaben zum Bezirk, zur Provinz oder zum
+Bundesstaat, in dem der Anmelder seinen Wohnsitz oder Sitz hat oder
+dessen Rechtsordnung er unterliegt, sind freiwillig.
 
 (4) Hat das Deutsche Patent- und Markenamt dem Anmelder eine
-Anmeldernummer zugeteilt, so soll diese in der Anmeldung genannt
-werden.
+Kennnummer zugeteilt, so soll diese in der Anmeldung genannt werden.
+In der Anmeldung können zusätzlich eine von der Anschrift des
+Anmelders abweichende Postanschrift, eine Postfachanschrift sowie
+Telefonnummern, Telefaxnummern und E-Mail-Adressen angegeben werden.
 
-(5) Hat das Deutsche Patent- und Markenamt dem Vertreter eine
-Vertreternummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
-so soll diese angegeben werden.
+(5) Wird die Anmeldung von mehreren Personen oder
+Personengesellschaften eingereicht, so gelten Absatz 2 Nummer 1 und
+die Absätze 3 und 4 für alle anmeldenden Personen oder
+Personengesellschaften.
 
-(6) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
-ist die Zeichnungsbefugnis glaubhaft zu machen; auf beim Deutschen
-Patent- und Markenamt für die Unterzeichner hinterlegte
-Angestelltenvollmachten ist unter Angabe der hierfür mitgeteilten
-Kennnummer hinzuweisen.
+(6) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum
+Vertreter Absatz 2 Nummer 1 und die Absätze 3 und 4 Satz 2
+entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter
+eine Kennnummer oder die Nummer einer allgemeinen Vollmacht zugeteilt,
+so soll diese zusätzlich angegeben werden.
 
-(7) Die Angaben zum geographischen Herkunftsort biologischen Materials
-nach § 34a Satz 1 des Patentgesetzes sind dem Antrag auf einem
-gesonderten Blatt beizufügen.
+(7) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so
+ist auf Anforderung der Nachweis der Zeichnungsbefugnis vorzulegen.
+Auf beim Deutschen Patent- und Markenamt für die Unterzeichner
+hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür
+mitgeteilten Kennnummer hinzuweisen.
+
+(8) Die Angaben zum geographischen Herkunftsort biologischen Materials
+nach § 34a Absatz 1 Satz 1 des Patentgesetzes sind auf einem
+gesonderten Blatt anzugeben.
 
 
 ### § 5 Anmeldungsunterlagen
@@ -341,50 +342,41 @@ Marke kenntlich zu machen.
 
 (2) Technische Begriffe und Bezeichnungen sowie Bezugszeichen sind in
 der gesamten Anmeldung einheitlich zu verwenden, sofern nicht die
-Verwendung verschiedener Ausdrücke sachdienlich ist. Hinsichtlich der
-technischen Begriffe und Bezeichnungen gilt dies auch für
-Zusatzanmeldungen im Verhältnis zur Hauptanmeldung.
+Verwendung verschiedener Ausdrücke sachdienlich ist.
 
 
 ### § 6 Formerfordernisse der Anmeldung
 
 (1) Die Anmeldungsunterlagen sind in einer Form einzureichen, die eine
-elektronische Erfassung gestattet. Bei schriftlichen
-Anmeldungsunterlagen mit mehr als 300 Seiten ist zusätzlich ein
-Datenträger einzureichen, der die Anmeldungsunterlagen in
-maschinenlesbarer Form enthält. Für den Datenträger gelten die in
-Anlage 1 (zu § 11 Abs. 1 Satz 2) Nr. 41 festgelegten Standards
-entsprechend. Dem Datenträger ist eine Erklärung beizufügen, dass die
-auf dem Datenträger gespeicherten Informationen mit den
-Anmeldungsunterlagen übereinstimmen.
+elektronische Erfassung gestattet.
 
 (2) Die Patentansprüche, die Beschreibung, die Zeichnungen sowie der
 Text und die Zeichnung der Zusammenfassung sind auf gesonderten
-Blättern einzureichen. Die Blätter müssen das Format A4 nach DIN 476
-haben und im Hochformat verwendet werden. Für die Zeichnungen können
-die Blätter auch im Querformat verwendet werden, wenn dies
-sachdienlich ist; in diesem Fall ist der Kopf der Abbildungen auf der
-linken Seite des Blattes im Hochformat anzuordnen. Entsprechendes gilt
-für die Darstellung chemischer und mathematischer Formeln sowie für
-Tabellen. Alle Blätter müssen frei von Knicken und Rissen und dürfen
-nicht gefaltet oder gefalzt sein. Sie müssen aus nicht
-durchscheinendem, biegsamem, festem, glattem, mattem und
+Blättern einzureichen. Die Blätter müssen das Format 21 x 29,7
+Zentimeter (DIN A4) haben und im Hochformat verwendet werden. Für die
+Zeichnungen können die Blätter auch im Querformat verwendet werden,
+wenn dies sachdienlich ist; in diesem Fall ist der Kopf der
+Abbildungen auf der linken Seite des Blattes im Hochformat anzuordnen.
+Entsprechendes gilt für die Darstellung chemischer und mathematischer
+Formeln sowie für Tabellen. Alle Blätter müssen frei von Knicken und
+Rissen und dürfen nicht gefaltet oder gefalzt sein. Sie müssen aus
+nicht durchscheinendem, biegsamem, festem, glattem, mattem und
 widerstandsfähigem Papier sein.
 
 (3) Die Blätter dürfen nur einseitig beschriftet oder mit Zeichnungen
 versehen sein. Sie müssen so miteinander verbunden sein, dass sie
 leicht voneinander getrennt und wieder zusammengefügt werden können.
-Jeder Bestandteil (Antrag, Patentansprüche, Beschreibung, Zeichnungen)
-der Anmeldung und der Zusammenfassung (Text, Zeichnung) muss auf einem
-neuen Blatt beginnen. Die Blätter der Beschreibung sind in arabischen
-Ziffern mit einer fortlaufenden Nummerierung zu versehen. Die
-Blattnummern sind unterhalb des oberen Rands in der Mitte anzubringen.
-Zeilen- und Absatzzähler oder ähnliche Nummerierungen sollen nicht
-verwendet werden.
+Die Patentansprüche, die Beschreibung, die Zeichnungen sowie der Text
+und die Zeichnung der Zusammenfassung sind jeweils auf einem
+gesonderten Blatt anzugeben. Die Blätter der Beschreibung sind in
+arabischen Ziffern mit einer fortlaufenden Nummerierung zu versehen.
+Die Blattnummern sind unterhalb des oberen Rands in der Mitte
+anzubringen. Zeilen- und Absatzzähler oder ähnliche Nummerierungen
+sollen nicht verwendet werden.
 
-(4) Als Mindestränder sind auf den Blättern des Antrags, der
-Patentansprüche, der Beschreibung und der Zusammenfassung folgende
-Flächen unbeschriftet zu lassen:
+(4) Als Mindestränder sind auf den Blättern der Patentansprüche, der
+Beschreibung und der Zusammenfassung folgende Flächen unbeschriftet zu
+lassen:
 
 *    *   Oberer Rand:
 
@@ -411,22 +403,22 @@ Die Mindestränder können den Namen, die Firma oder die sonstige
 Bezeichnung des Anmelders und das Aktenzeichen der Anmeldung
 enthalten.
 
-(5) Der Antrag, die Patentansprüche, die Beschreibung und die
-Zusammenfassung müssen einspaltig mit Maschine geschrieben oder
-gedruckt sein. Blocksatz soll nicht verwendet werden. Die Buchstaben
-der verwendeten Schrift müssen deutlich voneinander getrennt sein und
-dürfen sich nicht berühren. Graphische Symbole und Schriftzeichen,
-chemische oder mathematische Formeln können handgeschrieben oder
-gezeichnet sein, wenn dies notwendig ist. Der Zeilenabstand muss 1
-1/2-zeilig sein. Die Texte müssen mit Schriftzeichen, deren
-Großbuchstaben eine Mindesthöhe von 0,21 Zentimeter (Schriftgrad
-mindestens 10 Punkt) besitzen, und mit dunkler, unauslöschlicher Farbe
-geschrieben sein. Das Schriftbild muss scharfe Konturen aufweisen und
-kontrastreich sein. Jedes Blatt muss weitgehend frei von
-Radierstellen, Änderungen, Überschreibungen und Zwischenbeschriftungen
-sein. Von diesem Erfordernis kann abgesehen werden, wenn es
-sachdienlich ist. Der Text soll keine Unterstreichungen,
-Kursivschreibungen, Fettdruck oder Sperrungen beinhalten.
+(5) Die Patentansprüche, die Beschreibung und die Zusammenfassung
+müssen einspaltig mit Maschine geschrieben oder gedruckt sein.
+Blocksatz soll nicht verwendet werden. Die Buchstaben der verwendeten
+Schrift müssen deutlich voneinander getrennt sein und dürfen sich
+nicht berühren. Graphische Symbole und Schriftzeichen, chemische oder
+mathematische Formeln können handgeschrieben oder gezeichnet sein,
+wenn dies notwendig ist. Der Zeilenabstand muss 1 1/2-zeilig sein. Die
+Texte müssen mit Schriftzeichen, deren Großbuchstaben eine Mindesthöhe
+von 0,21 Zentimeter (Schriftgrad mindestens 10 Punkt) besitzen, und
+mit dunkler, unauslöschlicher Farbe geschrieben sein. Das Schriftbild
+muss scharfe Konturen aufweisen und kontrastreich sein. Jedes Blatt
+muss weitgehend frei von Radierstellen, Änderungen, Überschreibungen
+und Zwischenbeschriftungen sein. Von diesem Erfordernis kann abgesehen
+werden, wenn es sachdienlich ist. Der Text soll keine
+Unterstreichungen, Kursivschreibungen, Fettdruck oder Sperrungen
+beinhalten.
 
 (6) Die Anmeldungsunterlagen sollen deutlich erkennen lassen, zu
 welcher Anmeldung sie gehören.
@@ -434,15 +426,15 @@ welcher Anmeldung sie gehören.
 
 ### § 7 Benennung des Erfinders
 
-(1) Der Anmelder hat den Erfinder schriftlich auf dem vom Deutschen
-Patent- und Markenamt herausgegebenen Formblatt oder als Datei
-entsprechend den vom Deutschen Patent- und Markenamt bekannt gemachten
-Formatvorgaben zu benennen.
+(1) Der Anmelder muss bei schriftlicher Benennung des Erfinders das
+vom Deutschen Patent- und Markenamt herausgegebene Formblatt
+verwenden.
 
 (2) Die Benennung muss enthalten:
 
-1.  den Vor- und Zunamen und die Anschrift (Straße und Hausnummer,
-    Postleitzahl, Ort, gegebenenfalls Postzustellbezirk) des Erfinders;
+1.  die Vornamen, den Namen und die Anschrift mit Angabe von Straße,
+    Hausnummer, Postleitzahl und Ort des Erfinders; § 4 Absatz 3 gilt
+    entsprechend;
 
 
 2.  die Versicherung des Anmelders, dass weitere Personen seines Wissens
@@ -486,62 +478,60 @@ Abs. 2 des Patentgesetzes) hat schriftlich zu erfolgen.
 (1) In den Patentansprüchen kann das, was als patentfähig unter Schutz
 gestellt werden soll (§ 34 Abs. 3 Nr. 3 des Patentgesetzes), einteilig
 oder nach Oberbegriff und kennzeichnendem Teil geteilt (zweiteilig)
-gefasst sein. In beiden Fällen kann die Fassung nach Merkmalen
-gegliedert sein.
+gefasst sein.♦ In beiden Fällen kann die Fassung nach Merkmalen
+gegliedert sein.♦
 
 (2) Wird die zweiteilige Anspruchsfassung gewählt, sind in den
 Oberbegriff die durch den Stand der Technik bekannten Merkmale der
 Erfindung aufzunehmen; in den kennzeichnenden Teil sind die Merkmale
 der Erfindung aufzunehmen, für die in Verbindung mit den Merkmalen des
-Oberbegriffs Schutz begehrt wird. Der kennzeichnende Teil ist mit den
+Oberbegriffs Schutz begehrt wird.♦ Der kennzeichnende Teil ist mit den
 Worten "dadurch gekennzeichnet, dass" oder "gekennzeichnet durch" oder
-einer sinngemäßen Wendung einzuleiten.
+einer sinngemäßen Wendung einzuleiten.♦
 
 (3) Werden Patentansprüche nach Merkmalen oder Merkmalsgruppen
 gegliedert, so ist die Gliederung dadurch äußerlich hervorzuheben,
 dass jedes Merkmal oder jede Merkmalsgruppe mit einer neuen Zeile
-beginnt. Den Merkmalen oder Merkmalsgruppen sind deutlich vom Text
-abzusetzende Gliederungszeichen voranzustellen.
+beginnt.♦ Den Merkmalen oder Merkmalsgruppen sind deutlich vom Text
+abzusetzende Gliederungszeichen voranzustellen.♦
 
 (4) Im ersten Patentanspruch (Hauptanspruch) sind die wesentlichen
-Merkmale der Erfindung anzugeben.
+Merkmale der Erfindung anzugeben.♦
 
 (5) Eine Anmeldung kann mehrere unabhängige Patentansprüche
 (Nebenansprüche) enthalten, soweit der Grundsatz der Einheitlichkeit
-gewahrt ist (§ 34 Abs. 5 des Patentgesetzes). Absatz 4 ist
-entsprechend anzuwenden. Nebenansprüche können eine Bezugnahme auf
-mindestens einen der vorangehenden Patentansprüche enthalten.
+gewahrt ist (§ 34 Abs. 5 des Patentgesetzes).♦ Absatz 4 ist
+entsprechend anzuwenden.♦ Nebenansprüche können eine Bezugnahme auf
+mindestens einen der vorangehenden Patentansprüche enthalten.♦
 
 (6) Zu jedem Haupt- bzw. Nebenanspruch können ein oder mehrere
 Patentansprüche (Unteransprüche) aufgestellt werden, die sich auf
-besondere Ausführungsarten der Erfindung beziehen. Unteransprüche
+besondere Ausführungsarten der Erfindung beziehen.♦ Unteransprüche
 müssen eine Bezugnahme auf mindestens einen der vorangehenden
-Patentansprüche enthalten. Sie sind so weit wie möglich und auf die
-zweckmäßigste Weise zusammenzufassen.
+Patentansprüche enthalten.♦ Sie sind so weit wie möglich und auf die
+zweckmäßigste Weise zusammenzufassen.♦
 
 (7) Werden mehrere Patentansprüche aufgestellt, so sind sie
-fortlaufend mit arabischen Ziffern zu nummerieren.
+fortlaufend mit arabischen Ziffern zu nummerieren.♦
 
 (8) Die Patentansprüche dürfen, wenn dies nicht unbedingt erforderlich
 ist, im Hinblick auf die technischen Merkmale der Erfindung keine
 Bezugnahmen auf die Beschreibung oder die Zeichnungen enthalten, z. B.
 "wie beschrieben in Teil ... der Beschreibung" oder "wie in Abbildung
-... der Zeichnung dargestellt".
+... der Zeichnung dargestellt".♦
 
 (9) Enthält die Anmeldung Zeichnungen, so sollen die in den
 Patentansprüchen angegebenen Merkmale mit ihren Bezugszeichen versehen
-sein.
+sein.♦
 
-(10) Bei Einreichung in elektronischer Form ist eine Datei
-entsprechend den vom Deutschen Patent- und Markenamt bekannt gemachten
-Formatvorgaben zu verwenden.
+(10) (weggefallen)
 
 
 ### § 10 Beschreibung
 
 (1) Am Anfang der Beschreibung nach § 34 Abs. 3 Nr. 4 des
-Patentgesetzes ist als Titel die im Antrag angegebene Bezeichnung der
-Erfindung anzugeben.
+Patentgesetzes ist als Titel die in der Anmeldung nach § 4 Absatz 2
+Nummer 2 angegebene Bezeichnung der Erfindung anzugeben.
 
 (2) Ferner sind anzugeben:
 
@@ -585,9 +575,7 @@ Erläutern der Erfindung offensichtlich nicht notwendig sind.
 Wiederholungen von Ansprüchen oder Anspruchsteilen können durch
 Bezugnahme auf diese ersetzt werden.
 
-(4) Bei Einreichung in elektronischer Form ist eine Datei entsprechend
-den vom Deutschen Patent- und Markenamt bekannt gemachten
-Formatvorgaben zu verwenden.
+(4) (weggefallen)
 
 
 ### § 11 Beschreibung von Nukleotid- und Aminosäuresequenzen
@@ -623,9 +611,7 @@ II S. 649), so finden die Bestimmungen der Ausführungsordnung zum
 Patentzusammenarbeitsvertrag unmittelbar Anwendung, soweit diese den
 Standard für die Einreichung von Sequenzprotokollen regelt.
 
-(5) Eine Einreichung der Anmeldung in elektronischer Form per E-Mail
-ist nur möglich, wenn die Anmeldung mit Sequenzprotokoll die für das
-Übertragungsverfahren zulässige Dateigröße nicht überschreiten würde.
+(5) (weggefallen)
 
 
 ### § 12 Zeichnungen
@@ -644,36 +630,22 @@ werden, die die Erfindung am deutlichsten kennzeichnet.
 
 (3) § 9 Abs. 8 ist sinngemäß anzuwenden.
 
-(4) Bei Einreichung in elektronischer Form ist eine Datei entsprechend
-den vom Deutschen Patent- und Markenamt bekannt gemachten
-Formatvorgaben zu verwenden.
+(4) (weggefallen)
 
 
-### § 14 Deutsche Übersetzungen
+### § 14 Fremdsprachige Dokumente
 
-(1) Deutsche Übersetzungen von Schriftstücken, die zu den Unterlagen
-der Anmeldung zählen, müssen von einem Rechtsanwalt oder Patentanwalt
-beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt
-sein. Die Unterschrift des Übersetzers ist öffentlich beglaubigen zu
-lassen (§ 129 des Bürgerlichen Gesetzbuchs), ebenso die Tatsache, dass
-der Übersetzer für derartige Zwecke öffentlich bestellt ist.
+(1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von
+einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem
+öffentlich bestellten Übersetzer angefertigt sein.
 
-(2) Deutsche Übersetzungen von
+(2) Deutsche Übersetzungen von fremdsprachigen Prioritätsbelegen und
+Abschriften früherer Anmeldungen (§ 41 Absatz 1 des Patentgesetzes)
+sind nur auf Anforderung des Deutschen Patent- und Markenamtes
+nachzureichen. Das Deutsche Patent- und Markenamt setzt für die
+Nachreichung eine angemessene Frist.
 
-1.  Prioritätsbelegen, die gemäß der revidierten Pariser
-    Verbandsübereinkunft zum Schutze des gewerblichen Eigentums (BGBl.
-    1970 II S. 391) vorgelegt werden, oder
-
-
-2.  Abschriften früherer Anmeldungen (§ 41 Abs. 1 Satz 1 des
-    Patentgesetzes)
-
-
-
-sind nur auf Anforderung des Deutschen Patent- und Markenamts
-einzureichen.
-
-(3) Deutsche Übersetzungen von Schriftstücken, die
+(3) Deutsche Übersetzungen von sonstigen Dokumenten, die
 
 1.  nicht zu den Unterlagen der Anmeldung zählen und
 
@@ -684,18 +656,19 @@ einzureichen.
 
 
 sind nur auf Anforderung des Deutschen Patent- und Markenamts
-nachzureichen.
+nachzureichen. Das Deutsche Patent- und Markenamt setzt für die
+Nachreichung eine angemessene Frist.
 
-(4) Werden fremdsprachige Schriftstücke, die nicht zu den Unterlagen
-der Anmeldung zählen, in anderen Sprachen als in Absatz 3 Nr. 2
-aufgeführt eingereicht, so sind Übersetzungen in die deutsche Sprache
-innerhalb eines Monats nach Eingang der Schriftstücke nachzureichen.
+(4) Werden sonstige Dokumente, die nicht zu den Unterlagen der
+Anmeldung zählen, in anderen Sprachen eingereicht als in Absatz 3 Satz
+1 Nummer 2 aufgeführt, so sind Übersetzungen in die deutsche Sprache
+innerhalb eines Monats nach Eingang der Dokumente nachzureichen.
 
-(5) Die Übersetzung nach Absatz 3 oder Absatz 4 muss von einem
-Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich
-bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
-fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
-zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
+(5) Wird die Übersetzung im Sinne der Absätze 2 bis 4 nach Ablauf der
+Frist eingereicht, so gilt das fremdsprachige Dokument als zum
+Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine
+Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht
+eingegangen.
 
 
 ## Abschnitt 3 - Sonstige Formerfordernisse
@@ -752,9 +725,9 @@ Eigenschaften aufweisen, sind sie mit einem entsprechenden Hinweis zu
 versehen.
 
 (4) Ausfärbungen, Gerbproben und andere flächige Proben müssen auf
-steifem Papier (Format A4 nach DIN 476) dauerhaft befestigt sein. Sie
-sind durch eine genaue Beschreibung des angewandten Herstellungs- oder
-Verwendungsverfahrens zu erläutern.
+steifem Papier im Format 21 x 29,7 Zentimeter (DIN A4) dauerhaft
+befestigt sein. Sie sind durch eine genaue Beschreibung des
+angewandten Herstellungs- oder Verwendungsverfahrens zu erläutern.
 
 
 ### § 17 Öffentliche Beglaubigung von Unterschriften
@@ -779,8 +752,8 @@ beglaubigen zu lassen (§ 129 des Bürgerlichen Gesetzbuchs).
 der Antrag auf Verlängerung der Laufzeit eines ergänzenden
 Schutzzertifikats (§ 49a des Patentgesetzes) sind auf den vom
 Deutschen Patent- und Markenamt herausgegebenen Formblättern
-einzureichen. § 4 Abs. 2 Nr. 1, 4 und 5 sowie § 14 Abs. 1, 3 bis 5
-sind entsprechend anzuwenden.
+einzureichen. § 4 Absatz 2 Nummer 1, 4 und 5, Absatz 3, 5 und 6 sowie
+§ 14 Absatz 1, 3 bis 5 sind entsprechend anzuwenden.
 
 (2) Dem Antrag auf Erteilung eines ergänzenden Schutzzertifikats sind
 Angaben zur Erläuterung des durch das Grundpatent vermittelten
@@ -1692,8 +1665,8 @@ Zu verwendende Symbole
 
     *   Art des in SEQ ID NO:x sequenzierten Moleküls, und zwar entweder DNA,
         RNA oder PRT; enthält eine Nucleotidsequenz sowohl DNA- als auch RNA-
-        Fragmente, so ist "DNA" anzugeben; zusätzlich ist das kombinierte DNA
-        -/RNA-Molekül im Merkmalsteil unter <220> bis <223> näher zu
+        Fragmente, so ist "DNA" anzugeben; zusätzlich ist das kombinierte
+        DNA-/RNA-Molekül im Merkmalsteil unter <220> bis <223> näher zu
         beschreiben
 
 
@@ -3743,32 +3716,32 @@ Zu verwendende Symbole
 (Fundstelle: BGBl. I 2003, 1726 - 1727;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-A. Schriftliche Einreichung
 
 1.  Die Zeichnungen sind auf Blättern mit folgenden Mindesträndern
     auszuführen:
 
 
+    *        *   Oberer Rand:
+
+        *   2,5 cm
 
 
-*    *   Oberer Rand:
+    *        *   linker Seitenrand:
 
-    *   2,5 cm
-
-
-*    *   linker Seitenrand:
-
-    *   2,5 cm
+        *   2,5 cm
 
 
-*    *   rechter Seitenrand:
+    *        *   rechter Seitenrand:
 
-    *   1,5 cm
+        *   1,5 cm
 
 
-*    *   unterer Rand:
+    *        *   unterer Rand:
 
-    *   1 cm.
+        *   1 cm.
+
+
+
 
 
 
@@ -3836,7 +3809,6 @@ A. Schriftliche Einreichung
 
 
 
-B. Einreichung in elektronischer Form
 
 9.  Folgende Formate für Bilddateien sind bei einer elektronischen
     Patentanmeldung beim Deutschen Patent- und Markenamt zulässig:
@@ -3859,8 +3831,8 @@ B. Einreichung in elektronischer Form
 
     *   1 bit/p oder (Schwarzweiß)
 
-    *   Maximale Größe DIN A4 und eine Auflösung von 300\*300 dpi entsprechend
-        einer Pixelzahl (B\*L) von 2480\*3508 Pixel
+    *   Maximale Größe 21 x 29,7 Zentimeter (DIN A4) und eine Auflösung von
+        300\*300 dpi entsprechend einer Pixelzahl (B\*L) von 2480\*3508 Pixel
 
 
 *    *   TIFF
@@ -3869,8 +3841,8 @@ B. Einreichung in elektronischer Form
 
     *   8 bit/p (256 Graustufen)
 
-    *   Maximale Größe DIN A4 und eine Auflösung von 150\*150 dpi entsprechend
-        einer Pixelzahl (B\*L) von 1240\*1754
+    *   Maximale Größe 21 x 29,7 Zentimeter (DIN A4) und eine Auflösung von
+        150\*150 dpi entsprechend einer Pixelzahl (B\*L) von 1240\*1754
 
 
 *    *   JPEG
@@ -3879,8 +3851,8 @@ B. Einreichung in elektronischer Form
 
     *   24 bit/p
 
-    *   Maximale Größe DIN A4 und eine Auflösung von 150\*150 dpi Nur
-        Grauschattierungen werden akzeptiert.
+    *   Maximale Größe 21 x 29,7 Zentimeter (DIN A4) und eine Auflösung von
+        150\*150 dpi Nur Grauschattierungen werden akzeptiert.
 
 
 *    *   PDF

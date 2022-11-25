@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 1416
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.3.2004 I 454
+:   Art. 24 G v. 9.6.2021 I 1614
+
+Änderung durch
+:   Art. 8 Abs. 1 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## - - Errichtung von Bundesinstituten, Aufgabenstellung, Kostenerhebung, Dienstverhältnisse von Beamten und Arbeitnehmern
@@ -38,16 +41,15 @@ Bundesinstitutes Berlin.
 (3) Dieses Bundesinstitut wird insbesondere tätig auf folgenden
 Gebieten:
 
-1.  Zulassung von Fertigarzneimitteln auf der Grundlage der analytischen,
+1.  Zulassung von Fertigarzneimitteln im Sinne des § 4 Absatz 1 des
+    Arzneimittelgesetzes auf der Grundlage der analytischen,
     pharmakologisch-toxikologischen und klinischen Prüfungen, soweit nicht
-    das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit oder
     das Paul-Ehrlich-Institut nach § 77 des Arzneimittelgesetzes zuständig
     ist,
 
 
-2.  Registrierung homöopathischer Arzneimittel, soweit nicht das Bundesamt
-    für Verbraucherschutz und Lebensmittelsicherheit nach § 77 des
-    Arzneimittelgesetzes zuständig ist,
+2.  Registrierung homöopathischer Arzneimittel im Sinne des § 4 Absatz 26
+    des Arzneimittelgesetzes,
 
 
 3.  Risikoerfassung und -bewertung sowie Durchführung von Maßnahmen nach
@@ -147,26 +149,8 @@ gehören, wahrnehmen, unterstehen sie den fachlichen Weisungen der
 sachlich zuständigen obersten Bundesbehörde.
 
 
-### § 6 Kostenerhebung
+### § 6 (weggefallen)
 
-(1) Für Amtshandlungen, insbesondere für Genehmigungen, Eintragungen,
-Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen,
-Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesinstitutes für
-Arzneimittel und Medizinprodukte und des Robert Koch-Institutes werden
-Kosten (Gebühren und Auslagen) erhoben. Spezielle gesetzliche
-Kostenregelungen bleiben unberührt.
-
-(2) Das Bundesministerium, zu dessen Geschäftsbereich das jeweilige
-Bundesinstitut gehört, wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates für die Amtshandlungen der in den §§ 1 und
-2 genannten Bundesinstitute die gebührenpflichtigen Tatbestände näher
-zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Höhe der Gebühren bestimmt sich jeweils nach dem durchschnittlichen
-Personal- und Sachaufwand; daneben kann die Bedeutung, der
-wirtschaftliche Wert oder der sonstige Nutzen der Amtshandlung für den
-Gebührenschuldner angemessen berücksichtigt werden.
-
-(3) Das Verwaltungskostengesetz findet Anwendung.
 
 
 ### § 7 Übernahme der Beamten und Arbeitnehmer
@@ -176,21 +160,4 @@ der Errichtung der in den §§ 1 und 2 genannten Bundesinstitute
 Aufgaben wahrnehmen, die nach diesen Vorschriften den Bundesinstituten
 obliegen, sind vom selben Zeitpunkt an Beamte und Arbeitnehmer des
 zuständigen Bundesinstitutes.
-
-
-### § 8 Übergangspersonalrat
-
-(1) Spätestens vier Monate nach Inkrafttreten dieses Gesetzes finden
-Wahlen zu den Personalräten bei den gemäß den §§ 1 und 2 zu
-errichtenden Bundesinstituten statt. Bis zur Konstituierung dieser
-Personalräte werden die Aufgaben der Personalvertretung in den
-Bundesinstituten von dem bisherigen Personalrat beim
-Bundesgesundheitsamt als gemeinsamen Übergangspersonalrat der
-Bundesinstitute wahrgenommen.
-
-(2) Der Übergangspersonalrat bestellt unverzüglich die Wahlvorstände
-für die Durchführung der Personalratswahlen in den Bundesinstituten.
-
-(3) Die Absätze 1 und 2 gelten entsprechend für die Jugend- und
-Auszubildendenvertretung sowie die Schwerbehindertenvertretung.
 

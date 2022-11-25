@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. V v. 26.11.2010 I 1720;
 
-Geändert durch
-:   Art. 2 Abs. 102 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 406 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -162,8 +162,8 @@ Tabakbeträge nach § 5 Absatz 4c auf die Regionen aufgeteilt.
 (3b) Im Jahr 2008 wird den Regionen jeweils ein zusätzlicher Betrag in
 Höhe der für die jeweilige Region ermittelten Summe der gesonderten
 Beträge nach § 5 Absatz 4b zugewiesen. Sofern die Summe der
-zusätzlichen Beträge nach Satz 1 höher ist als die Differenz aus 5 693
-330 000 Euro und der Summe der am 31. Dezember 2007 zugewiesenen
+zusätzlichen Beträge nach Satz 1 höher ist als die Differenz aus
+5 693 330 000 Euro und der Summe der am 31. Dezember 2007 zugewiesenen
 Zahlungsansprüche, wird der zusätzliche Betrag für jede Region
 anteilsmäßig verringert.
 
@@ -179,11 +179,11 @@ Artikel 64 in Verbindung mit Anhang XII der Verordnung (EG) Nr.
 stehen (sechster Erhöhungsbetrag), nach der Anlage 1a zur Erhöhung der
 Zahlungsansprüche auf die Regionen aufgeteilt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der
-zuständigen obersten Landesbehörden jeweils die Aufteilung nach den
-Absätzen 2, 3, 3a, 3b und 3c durchzuführen.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates nach Anhörung der zuständigen obersten
+Landesbehörden jeweils die Aufteilung nach den Absätzen 2, 3, 3a, 3b
+und 3c durchzuführen.
 
 
 ## § 5 Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie

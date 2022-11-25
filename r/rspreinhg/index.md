@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 661
 
-Geändert durch
-:   Art. 11 G v. 9.7.2001 I 1510
+Zuletzt geändert durch
+:   Art. 144 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Gemeinsamer Senat der obersten Gerichtshöfe
@@ -120,7 +120,8 @@ Gerichtshof vor.
 ### § 8 Geschäftsstelle
 
 Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet. Das
-Nähere bestimmt der Bundesminister der Justiz.
+Nähere bestimmt der Bundesminister der Justiz und für
+Verbraucherschutz.
 
 
 ### § 9 Rechts- und Amtshilfe
@@ -152,6 +153,12 @@ Beteiligen zuzustellen.
 der obersten Gerichtshöfe holen die Entscheidung des Gemeinsamen
 Senats unmittelbar ein. Gleichzeitig ist das Verfahren vor dem
 vorlegenden Senat auszusetzen.
+
+(3) Eine Vorlage an den Gemeinsamen Senat im Sinne der Absätze 1 und 2
+ist nur zulässig, wenn der Senat, von dessen Entscheidung abgewichen
+werden soll, auf die zu begründende Anfrage des erkennenden Senats
+erklärt hat, dass er an seiner Rechtsauffassung festhält. § 4 gilt
+entsprechend.
 
 
 ### § 12 Stellungnahmen der obersten Gerichtshöfe
@@ -214,9 +221,8 @@ Gemeinsamen Senats verlängert werden.
 
 ### § 15 Gegenstand der Entscheidung
 
-(1) Der Gemeinsame Senat entscheidet auf Grund mündlicher Verhandlung
-nur über die Rechtsfrage. Mit Einverständnis der Beteiligten kann der
-Gemeinsame Senat ohne mündliche Verhandlung entscheiden. Findet keine
+(1) Der Gemeinsame Senat entscheidet nur über die Rechtsfrage. Die
+Entscheidung kann ohne mündliche Verhandlung ergehen. Findet keine
 mündliche Verhandlung statt, so ist vor der Entscheidung den am
 Verfahren Beteiligten Gelegenheit zur Äußerung zu geben.
 

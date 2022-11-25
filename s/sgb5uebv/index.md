@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach
-  dem Fünften Buch Sozialgesetzbuch auf das Bundesversicherungsamt
+  dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
 jurabk: SGB5ÜbV
 layout: default
 origslug: sgb5_bv
@@ -8,13 +8,16 @@ slug: sgb5uebv
 
 ---
 
-# Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesversicherungsamt (SGB5ÜbV)
+# Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung (SGB5ÜbV)
 
 Ausfertigungsdatum
 :   2010-02-12
 
 Fundstelle
 :   BGBl I: 2010, 88
+
+Zuletzt geändert durch
+:   Art. 8 G v. 22.3.2020 I 604
 
 
 ## Eingangsformel
@@ -28,9 +31,10 @@ das Bundesministerium für Gesundheit:
 
 ## § 1
 
-Die in § 171e Absatz 3 Satz 1 und Absatz 5 Satz 2 in Verbindung mit §
-171f des Fünften Buches Sozialgesetzbuch enthaltenen Ermächtigungen
-werden auf das Bundesversicherungsamt übertragen.
+Die in § 170 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch in
+Verbindung mit § 162 des Fünften Buches Sozialgesetzbuch enthaltenen
+Ermächtigungen werden auf das Bundesamt für Soziale Sicherung
+übertragen.
 
 
 ## § 2

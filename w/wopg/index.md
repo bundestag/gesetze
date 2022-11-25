@@ -19,16 +19,16 @@ Neugefasst durch
 :   Bek. v. 30.10.1997 I 2678;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.4.2011 I 554
+:   Art. 27 G v. 12.12.2019 I 2451
 
 
 ## § 1 Prämienberechtigte
 
-Unbeschränkt einkommensteuerpflichtige Personen im Sinne des § 1 Abs.
-1 oder 2 oder Abs. 3 in Verbindung mit Abs. 2 Satz 1 Nr. 1 und 2 des
-Einkommensteuergesetzes, die das 16. Lebensjahr vollendet haben oder
-Vollwaisen sind, können für Aufwendungen zur Förderung des
-Wohnungsbaus eine Prämie erhalten. Voraussetzung ist, daß
+Unbeschränkt einkommensteuerpflichtige Personen im Sinne des § 1
+Absatz 1, 2 oder 3 des Einkommensteuergesetzes, die das 16. Lebensjahr
+vollendet haben oder Vollwaisen sind, können für Aufwendungen zur
+Förderung des Wohnungsbaus eine Prämie erhalten. Voraussetzung ist,
+daß
 
 1.  die Aufwendungen nicht vermögenswirksame Leistungen darstellen, für
     die Anspruch auf Arbeitnehmer-Sparzulage nach § 13 des Fünften
@@ -62,8 +62,8 @@ gelten
     Bauspardarlehens in einem Sparjahr (§ 4 Abs. 1) vom Anbieter den
     Altersvorsorgebeiträgen nach § 82 des Einkommensteuergesetzes
     zugeordnet, handelt es sich bei allen Beiträgen zu diesem Vertrag
-    innerhalb dieses Sparjahres bis zu den in § 10a Abs. 1 des
-    Einkommensteuergesetzes genannten Höchstbeträgen um
+    innerhalb dieses Sparjahres bis zu dem in § 10a Absatz 1 des
+    Einkommensteuergesetzes genannten Höchstbetrag um
     Altersvorsorgebeiträge und nicht um prämienbegünstigte Aufwendungen im
     Sinne der Absätze 2 und 3;
 
@@ -131,12 +131,14 @@ Die Vereinbarung über die Erhöhung der Bausparsumme ist als
 selbständiger Vertrag zu behandeln. Als Wohnungsbau im Sinne der
 Nummern 1 und 2 gelten auch bauliche Maßnahmen des Mieters zur
 Modernisierung seiner Wohnung. Dies gilt ebenfalls für den ersten
-Erwerb von Anteilen an Wohnungsgenossenschaften im Sinne des Absatzes
-1 Nr. 2 und den Erwerb von Rechten zur dauernden Selbstnutzung von
-Wohnraum in Alten-, Altenpflege- und Behinderteneinrichtungen oder
--anlagen. Die Unschädlichkeit setzt weiter voraus, daß die empfangenen
-Beträge nicht zum Wohnungsbau im Ausland eingesetzt werden, sofern
-nichts anderes bestimmt ist.
+Erwerb von Anteilen an Bau- und Wohnungsgenossenschaften im Sinne des
+Absatzes 1 Nr. 2 und den Erwerb von Rechten zur dauernden
+Selbstnutzung von Wohnraum in Alten-, Altenpflege- und
+Behinderteneinrichtungen oder -anlagen. Sofern nichts anderes bestimmt
+ist, setzt die Unschädlichkeit weiter voraus, dass die empfangenen
+Beträge nur zum Wohnungsbau in einem Mitgliedstaat der Europäischen
+Union oder in einem Staat eingesetzt werden, auf den das Abkommen über
+den Europäischen Wirtschaftsraum anwendbar ist.
 
 (3) Für vor dem 1. Januar 2009 abgeschlossene Verträge, für die bis
 zum 31. Dezember 2008 mindestens ein Beitrag in Höhe der Regelsparrate
@@ -174,13 +176,13 @@ Absatz 2 Satz 7 bis 10 gilt sinngemäß.
 
 ## § 2a Einkommensgrenze
 
-Die Einkommensgrenze beträgt 25.600 Euro, bei Ehegatten (§ 3 Abs. 3)
-51\.200 Euro. Maßgebend ist das zu versteuernde Einkommen (§ 2 Absatz 5
+Die Einkommensgrenze beträgt 35 000 Euro, bei Ehegatten (§ 3 Abs. 3)
+70 000 Euro. Maßgebend ist das zu versteuernde Einkommen (§ 2 Absatz 5
 des Einkommensteuergesetzes) des Sparjahrs (§ 4 Abs. 1). Bei Ehegatten
 ist das zu versteuernde Einkommen maßgebend, das sich bei einer
 Zusammenveranlagung nach § 26b des Einkommensteuergesetzes ergeben hat
 oder, falls eine Veranlagung nicht durchgeführt worden ist, ergeben
-würde\*
+würde.
 
 
 ## § 2b
@@ -191,19 +193,22 @@ würde\*
 ## § 3 Höhe der Prämie
 
 (1) Die Prämie bemißt sich nach den im Sparjahr (§ 4 Abs. 1)
-geleisteten prämienbegünstigten Aufwendungen. Sie beträgt 8,8 Prozent
+geleisteten prämienbegünstigten Aufwendungen. Sie beträgt 10 Prozent
 der Aufwendungen.
 
 (2) Die Aufwendungen des Prämienberechtigten sind je Kalenderjahr bis
-zu einem Höchstbetrag vom 512 Euro, bei Ehegatten (Absatz 3) zusammen
-bis zu 1.024 Euro prämienbegünstigt. Die Höchstbeträge stehen den
+zu einem Höchstbetrag von 700 Euro, bei Ehegatten (Absatz 3) zusammen
+bis zu 1 400 Euro prämienbegünstigt. Die Höchstbeträge stehen den
 Prämienberechtigten gemeinsam zu (Höchstbetragsgemeinschaft).
 
 (3) Ehegatten im Sinne dieses Gesetzes sind Personen, welche nach §
-26b des Einkommensteuergesetzes zusammen veranlagt werden oder, falls
-eine Veranlagung zur Einkommensteuer nicht durchgeführt wird, die
-Voraussetzungen des § 26 Abs. 1 Satz 1 des Einkommensteuergesetzes
-erfüllen.
+26b des Einkommensteuergesetzes zusammen veranlagt werden oder die,
+falls eine Veranlagung zur Einkommensteuer nicht durchgeführt wird,
+die Voraussetzungen des § 26 Absatz 1 Satz 1 des
+Einkommensteuergesetzes erfüllen. Die Regelungen dieses Gesetzes zu
+Ehegatten sind auch auf Lebenspartner anzuwenden, wenn in Verbindung
+mit § 2 Absatz 8 des Einkommensteuergesetzes die Voraussetzungen des
+Satzes 1 erfüllt sind.
 
 
 ## § 4 Prämienverfahren allgemein
@@ -490,18 +495,20 @@ zu bestimmen.
 
 (1) Dieses Gesetz in der Fassung des Artikels 11 des Gesetzes vom 8.
 Dezember 2010 (BGBl. I S. 1768) ist vorbehaltlich Satz 2 erstmals für
-das Sparjahr 2009 anzuwenden. § 2 Abs. 1 Nr. 1 Satz 4 in der Fassung
-des Artikels 5 des Gesetzes vom 29. Juli 2008 (BGBl. I S. 1509) ist
-erstmals für das Sparjahr 2008 anzuwenden. Bei Aufwendungen im Sinne
-des § 2 Abs. 1 Nr. 1 ist die Prämie für Sparjahre vor 1996 nach § 4 in
-der Fassung des Artikels 7 des Gesetzes vom 15. Dezember 1995 (BGBl. I
-S. 1783) festzusetzen. § 4 Abs. 4 in der Fassung des Artikels 29 des
-Gesetzes vom 20. Dezember 2001 (BGBl. I S. 3794) ist erstmals bei
-nicht vertragsgemäßer Verwendung nach dem 31. Dezember 1998
-anzuwenden. § 4a Abs. 3 Satz 1 und § 9 Abs. 3 Buchstabe b in der
-Fassung des Artikels 13 des Gesetzes vom 20. Dezember 2008 (BGBl. I S.
-2850) sind erstmals für Datenlieferungen nach dem 31. Dezember 2008
-anzuwenden.
+das Sparjahr 2009 anzuwenden. § 1 Satz 1 und § 2 Absatz 2 Satz 10 in
+der Fassung des Artikels 26 des Gesetzes vom 12. Dezember 2019 (BGBl.
+I S. 2451) sind in allen offenen Fällen anzuwenden. § 2 Abs. 1 Nr. 1
+Satz 4 in der Fassung des Artikels 5 des Gesetzes vom 29. Juli 2008
+(BGBl. I S. 1509) ist erstmals für das Sparjahr 2008 anzuwenden. Bei
+Aufwendungen im Sinne des § 2 Abs. 1 Nr. 1 ist die Prämie für
+Sparjahre vor 1996 nach § 4 in der Fassung des Artikels 7 des Gesetzes
+vom 15. Dezember 1995 (BGBl. I S. 1783) festzusetzen. § 4 Abs. 4 in
+der Fassung des Artikels 29 des Gesetzes vom 20. Dezember 2001 (BGBl.
+I S. 3794) ist erstmals bei nicht vertragsgemäßer Verwendung nach dem
+31\. Dezember 1998 anzuwenden. § 4a Abs. 3 Satz 1 und § 9 Abs. 3
+Buchstabe b in der Fassung des Artikels 13 des Gesetzes vom 20.
+Dezember 2008 (BGBl. I S. 2850) sind erstmals für Datenlieferungen
+nach dem 31. Dezember 2008 anzuwenden.
 
 (2) Beiträge an Bausparkassen (§ 2 Abs. 1 Nr. 1), für die in den
 Kalenderjahren 1991 bis 1993 die Zusatzförderung nach § 10 Abs. 6
@@ -515,4 +522,8 @@ schädlich. Schädlich ist auch die Verwendung für Ferien- und
 Wochenendwohnungen, die in einem entsprechend ausgewiesenen
 Sondergebiet liegen oder die sich auf Grund ihrer Bauweise nicht zum
 dauernden Bewohnen eignen.
+
+(3) § 2a Satz 1, § 3 Absatz 1 Satz 2 und § 3 Absatz 2 Satz 1 in der
+Fassung des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) sind
+erstmals für das Sparjahr 2021 anzuwenden.
 

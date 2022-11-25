@@ -15,7 +15,7 @@ Ausfertigungsdatum
 :   1974-07-30
 
 Fundstelle
-:   BGBl II: 1974, 1074
+:   BGBl II: 1974, 1074 (1100)
 
 
 

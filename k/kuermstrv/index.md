@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3463
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 18 V v. 18.1.2022 I 39
+
 
 
 ## Eingangsformel
@@ -150,9 +153,9 @@ Arbeitsprobe.
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten
 anzufertigen:
 
-1.  ein Pelzbekleidungsstück als Großstück nach eigenem Entwurf oder
-    vorgegebenem Modell unter Veränderung der natürlichen Fellproportionen
-    und des natürlichen Haarkleides,
+1.  ein Pelzbekleidungsstück nach eigenem Entwurf oder vorgegebenem Modell
+    unter Veränderung der natürlichen Fellproportionen und des natürlichen
+    Haarkleides,
 
 
 2.  ein Oberbekleidungsstück aus Leder nach eigenem Entwurf oder
@@ -283,10 +286,11 @@ werden nach den bisherigen Vorschriften zu Ende geführt.
 
 ### § 7 Weitere Anforderungen
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach
-der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
-Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
-geltenden Fassung.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
+
+(2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
+sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 Inkrafttreten

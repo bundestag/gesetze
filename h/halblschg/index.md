@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1987, 2294
 
 Zuletzt geändert durch
-:   Art. 17 G v. 24.11.2011 I 2302
+:   Art. 12 G v. 17.7.2017 I 2541
+
+Änderung durch
+:   Art. 9 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Der Schutz der Topographien
@@ -88,19 +91,19 @@ nur zu, wenn
 
 2.  der Staat, dem sie angehören oder in dem sich ihr Sitz oder ihre
     Niederlassung befindet, nach einer Bekanntmachung des Bundesministers
-    der Justiz im Bundesgesetzblatt Deutschen im Sinne des Grundgesetzes
-    und Personen mit Sitz oder Niederlassung im Geltungsbereich dieses
-    Gesetzes einen entsprechenden Schutz gewährt.
+    der Justiz und für Verbraucherschutz im Bundesgesetzblatt Deutschen im
+    Sinne des Grundgesetzes und Personen mit Sitz oder Niederlassung im
+    Geltungsbereich dieses Gesetzes einen entsprechenden Schutz gewährt.
 
 
 
 
 
-### § 3 Anmeldung
+### § 3 Anmeldung; Verordnungsermächtigung
 
 (1) Eine Topographie, für die Schutz geltend gemacht wird, ist beim
-Patentamt anzumelden. Für jede Topographie ist eine besondere
-Anmeldung erforderlich.
+Deutschen Patent- und Markenamt anzumelden. Für jede Topographie ist
+eine besondere Anmeldung erforderlich.
 
 (2) Die Anmeldung muß enthalten:
 
@@ -124,15 +127,22 @@ Anmeldung erforderlich.
 
 
 
-(3) Das Bundesministerium der Justiz regelt durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf,
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf,
 
 1.  die Einrichtung und den Geschäftsgang des Deutschen Patent- und
-    Markenamts sowie die Form des Verfahrens in Topografieangelegenheiten,
-    soweit nicht durch Gesetz Bestimmungen darüber getroffen sind,
+    Markenamts sowie die Form des Verfahrens in Topografieangelegenheiten
+    zu regeln, soweit nicht durch Gesetz Bestimmungen darüber getroffen
+    sind,
 
 
-2.  die Form und die sonstigen Erfordernisse der Anmeldung.
+2.  die Form und die sonstigen Erfordernisse der Anmeldung zu bestimmen,
+
+
+3.  für Fristen in Topografieangelegenheiten eine für alle Dienststellen
+    des Deutschen Patent- und Markenamts geltende Regelung über die zu
+    berücksichtigenden gesetzlichen Feiertage zu treffen.
 
 
 
@@ -141,13 +151,14 @@ Zustimmung des Bundesrates bedarf, ganz oder teilweise auf das
 Deutsche Patent- und Markenamt übertragen.
 
 (4) Sind die Erfordernisse für eine ordnungsgemäße Anmeldung nach
-Absatz 2 Nr. 1 bis 3 nicht erfüllt, so teilt das Patentamt dem
-Anmelder die Mängel mit und fordert ihn auf, diese innerhalb einer
-Frist von zwei Monaten nach Zustellung der Nachricht zu beheben. Wird
-der Mangel innerhalb der Frist behoben, so gilt der Zeitpunkt des
-Eingangs des Schriftsatzes beim Patentamt als Zeitpunkt der Anmeldung
-der Topographie. Das Patentamt stellt diesen Zeitpunkt fest und teilt
-ihn dem Anmelder mit.
+Absatz 2 Nr. 1 bis 3 nicht erfüllt, so teilt das Deutsche Patent- und
+Markenamt dem Anmelder die Mängel mit und fordert ihn auf, diese
+innerhalb einer Frist von zwei Monaten nach Zustellung der Nachricht
+zu beheben. Wird der Mangel innerhalb der Frist behoben, so gilt der
+Zeitpunkt des Eingangs des Schriftsatzes beim Deutschen Patent- und
+Markenamt als Zeitpunkt der Anmeldung der Topographie. Das Deutsche
+Patent- und Markenamt stellt diesen Zeitpunkt fest und teilt ihn dem
+Anmelder mit.
 
 (5) Werden die in Absatz 4 genannten Mängel innerhalb der Frist nach
 Absatz 4 nicht behoben, so gilt die Anmeldung als zurückgenommen.
@@ -156,41 +167,71 @@ Absatz 4 nicht behoben, so gilt die Anmeldung als zurückgenommen.
 ### § 4 Eintragung, Bekanntmachung, Änderungen
 
 (1) Entspricht die Anmeldung den Anforderungen des § 3, so verfügt das
-Patentamt die Eintragung in das Register für Topographien, ohne die
-Berechtigung des Anmelders zur Anmeldung, die Richtigkeit der in der
-Anmeldung angegebenen Tatsachen und die Eigenart der Topographie zu
-prüfen.
+Deutsche Patent- und Markenamt die Eintragung in das Register für
+Topographien, ohne die Berechtigung des Anmelders zur Anmeldung, die
+Richtigkeit der in der Anmeldung angegebenen Tatsachen und die
+Eigenart der Topographie zu prüfen.
 
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Eintragung
 in das Register, die Bekanntmachung im Patentblatt und Änderungen im
-Register (§ 8 Abs. 2 bis 4) sind entsprechend anzuwenden.
+Register sowie über die Datenübermittlung (§ 8 Absatz 2 bis 4) sind
+entsprechend anzuwenden.
 
 (3) Die Vorschriften des Gebrauchsmustergesetzes über die Einsicht in
 das Register sowie in die Akten eingetragener Gebrauchsmuster
-einschließlich der Akten von Löschungsverfahren (§ 8 Abs. 5) sind mit
-der Maßgabe anzuwenden, daß Einsicht in Unterlagen, die Betriebs- oder
-Geschäftsgeheimnisse enthalten und vom Anmelder als solche
-gekennzeichnet worden sind, nur in einem Löschungsverfahren vor dem
-Patentamt auf Anordnung der Topographieabteilung oder in einem
-Rechtsstreit über die Rechtsgültigkeit oder die Verletzung des
-Schutzes der Topographie auf Anordnung des Gerichts gegenüber den
-Personen gewährt wird, die an dem Löschungsverfahren oder an dem
-Rechtsstreit beteiligt sind. Unterlagen, die zur Identifizierung oder
-Veranschaulichung der Topographie eingereicht worden sind, können
-nicht in ihre Gesamtheit als Betriebs- oder Geschäftsgeheimnisse
-gekennzeichnet werden. Außer in einem Löschungsverfahren vor dem
-Patentamt oder in einem Rechtsstreit über die Rechtsgültigkeit oder
-die Verletzung des Schutzes der Topographie wird Einsicht in
-Unterlagen nur durch unmittelbare Einsichtnahme gewährt.
+einschließlich der Akten von Löschungsverfahren (§ 8 Absatz 5 und 7)
+sind mit der Maßgabe anzuwenden, daß Einsicht in Unterlagen, die
+Betriebs- oder Geschäftsgeheimnisse enthalten und vom Anmelder als
+solche gekennzeichnet worden sind, nur in einem Löschungsverfahren vor
+dem Deutschen Patent- und Markenamt auf Anordnung der
+Topographieabteilung oder in einem Rechtsstreit über die
+Rechtsgültigkeit oder die Verletzung des Schutzes der Topographie auf
+Anordnung des Gerichts gegenüber den Personen gewährt wird, die an dem
+Löschungsverfahren oder an dem Rechtsstreit beteiligt sind.
+Unterlagen, die zur Identifizierung oder Veranschaulichung der
+Topographie eingereicht worden sind, können nicht in ihre Gesamtheit
+als Betriebs- oder Geschäftsgeheimnisse gekennzeichnet werden. Außer
+in einem Löschungsverfahren vor dem Deutschen Patent- und Markenamt
+oder in einem Rechtsstreit über die Rechtsgültigkeit oder die
+Verletzung des Schutzes der Topographie wird Einsicht in Unterlagen
+nur durch unmittelbare Einsichtnahme gewährt.
+
+(3a) Soweit personenbezogene Daten im Register oder in öffentlich
+zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
+und Markenamtes enthalten sind, bestehen nicht
+
+1.  das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der
+    Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+    27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+    personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+    Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+    4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72),
+
+
+2.  die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU)
+    2016/679 und
+
+
+3.  das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
+    (EU) 2016/679.
+
+
+
+Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der
+Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene
+Person Einsicht in das Register oder in öffentlich zugängliche
+elektronische Informationsdienste des Deutschen Patent- und
+Markenamtes nehmen kann.
 
 (4) Für Anträge in Angelegenheiten des Schutzes der Topographien
 (Topographieschutzsachen) mit Ausnahme der Löschungsanträge (§ 8) wird
-im Patentamt eine Topographiestelle gebildet, die von einem vom
-Präsidenten des Patentamts bestimmten rechtskundigen Mitglied geleitet
-wird. Über Löschungsanträge (§ 8) beschließt eine im Patentamt zu
-bildende Topographieabteilung, die mit zwei technischen Mitgliedern
-und einem rechtskundigen Mitglied zu besetzen ist. Im übrigen sind die
-Vorschriften des Gebrauchsmustergesetzes über die
+im Deutschen Patent- und Markenamt eine Topographiestelle gebildet,
+die von einem vom Präsidenten des Deutschen Patent- und Markenamts
+bestimmten rechtskundigen Mitglied geleitet wird. Über
+Löschungsanträge (§ 8) beschließt eine im Deutschen Patent- und
+Markenamt zu bildende Topographieabteilung, die mit zwei technischen
+Mitgliedern und einem rechtskundigen Mitglied zu besetzen ist. Im
+übrigen sind die Vorschriften des Gebrauchsmustergesetzes über die
 Gebrauchsmusterstelle und die Gebrauchsmusterabteilungen (§ 10), über
 die Rechtsmittel und Rechtsmittelverfahren (§ 18) und über die
 Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
@@ -202,12 +243,13 @@ Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
 
 1.  an dem Tag der ersten nicht nur vertraulichen geschäftlichen
     Verwertung der Topographie, wenn sie innerhalb von zwei Jahren nach
-    dieser Verwertung beim Patentamt angemeldet wird, oder
+    dieser Verwertung beim Deutschen Patent- und Markenamt angemeldet
+    wird, oder
 
 
-2.  an dem Tag, an dem die Topographie beim Patentamt angemeldet wird,
-    wenn sie zuvor noch nicht oder nur vertraulich geschäftlich verwertet
-    worden ist.
+2.  an dem Tag, an dem die Topographie beim Deutschen Patent- und
+    Markenamt angemeldet wird, wenn sie zuvor noch nicht oder nur
+    vertraulich geschäftlich verwertet worden ist.
 
 
 
@@ -216,12 +258,13 @@ Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
 Kalenderjahres nach dem Jahr des Schutzbeginns.
 
 (3) Der Schutz der Topographie kann nur geltend gemacht werden, wenn
-die Topographie beim Patentamt angemeldet worden ist.
+die Topographie beim Deutschen Patent- und Markenamt angemeldet worden
+ist.
 
 (4) Der Schutz der Topographie kann nicht mehr in Anspruch genommen
 werden, wenn die Topographie nicht innerhalb von fünfzehn Jahren nach
 dem Tag der ersten Aufzeichnung nicht nur vertraulich geschäftlich
-verwertet oder beim Patentamt angemeldet wird.
+verwertet oder beim Deutschen Patent- und Markenamt angemeldet wird.
 
 
 ### § 6 Wirkung des Schutzes
@@ -304,9 +347,10 @@ Löschung zu.
 wird die Eintragung nur in diesem Umfang gelöscht.
 
 (4) Die Löschung der Eintragung der Topographie nach den Absätzen 1
-bis 3 ist beim Patentamt schriftlich zu beantragen. Der Antrag muß die
-Tatsachen angeben, auf die er gestützt wird. Die Vorschriften des § 81
-Abs. 6 und des § 125 des Patentgesetzes sind entsprechend anzuwenden.
+bis 3 ist beim Deutschen Patent- und Markenamt schriftlich zu
+beantragen. Der Antrag muß die Tatsachen angeben, auf die er gestützt
+wird. Die Vorschriften des § 81 Abs. 6 und des § 125 des
+Patentgesetzes sind entsprechend anzuwenden.
 
 (5) Die Vorschriften des Gebrauchsmustergesetzes über das
 Löschungsverfahren (§ 17) und über die Wirkung des Löschungsverfahrens
@@ -322,7 +366,7 @@ vornimmt, ist dem Verletzten zum Ersatz des daraus entstandenen
 Schadens verpflichtet. § 24 Abs. 2 Satz 2 und 3 des
 Gebrauchsmustergesetzes gilt entsprechend.
 
-(2) Die §§ 24a bis 24e und 25a des Gebrauchsmustergesetzes gelten
+(2) Die §§ 24a bis 24e, 25a und 25b des Gebrauchsmustergesetzes gelten
 entsprechend.
 
 (3) Auf die Verjährung der Ansprüche wegen Verletzung des Schutzrechts
@@ -368,7 +412,7 @@ Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der
 Bekanntmachung ist im Urteil zu bestimmen.
 
 
-### § 11 Anwendung von Vorschriften des Patentgesetzes und des Gebrauchsmustergesetzes
+### § 11 Anwendung von Vorschriften des Patentgesetzes, des Gebrauchsmustergesetzes und des Gesetzes zum Schutz von Geschäftsgeheimnissen
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von
 Gutachten (§ 29 Abs. 1 und 2), über die Wiedereinsetzung in den
@@ -382,9 +426,13 @@ elektronische Verfahrensführung (§ 125a), über die Amtssprache (§
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Bewilligung
 von Verfahrenskostenhilfe (§ 21 Abs. 2), über die Übertragung und die
 Lizenz (§ 22), über die Streitwertherabsetzung (§ 26), über die
-Gebrauchsmusterstreitsachen (§ 27), über die Inlandsvertretung (§ 28),
-über die Ermächtigungen zum Erlaß von Rechtsverordnungen (§ 29) und
-über die Schutzberühmung (§ 30) sind entsprechend anzuwenden.
+Gebrauchsmusterstreitsachen (§ 27), über die Inlandsvertretung (§ 28)
+und über die Schutzberühmung (§ 30) sind entsprechend anzuwenden.
+
+(3) In Halbleiterschutzstreitsachen mit Ausnahme von selbstständigen
+Beweisverfahren sind die §§ 16 bis 20 des Gesetzes zum Schutz von
+Geschäftsgeheimnissen vom 18. April 2019 (BGBl. I S. 466) entsprechend
+anzuwenden.
 
 
 ## Zweiter Abschnitt

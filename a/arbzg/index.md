@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1170, 1171
 
 Zuletzt geändert durch
-:   Art. 15 G v. 21.7.2012 I 1583
+:   Art. 6 G v. 22.12.2020 I 3334
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -27,9 +27,10 @@ Zuletzt geändert durch
 
 Zweck des Gesetzes ist es,
 
-1.  die Sicherheit und den Gesundheitsschutz der Arbeitnehmer bei der
-    Arbeitszeitgestaltung zu gewährleisten und die Rahmenbedingungen für
-    flexible Arbeitszeiten zu verbessern sowie
+1.  die Sicherheit und den Gesundheitsschutz der Arbeitnehmer in der
+    Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone
+    bei der Arbeitszeitgestaltung zu gewährleisten und die
+    Rahmenbedingungen für flexible Arbeitszeiten zu verbessern sowie
 
 
 2.  den Sonntag und die staatlich anerkannten Feiertage als Tage der
@@ -646,6 +647,8 @@ können.
 darf die Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs
 Kalendermonaten oder 24 Wochen nicht überschreiten.
 
+(4) (weggefallen)
+
 
 ### § 15 Bewilligung, Ermächtigung
 
@@ -687,6 +690,22 @@ Kalendermonaten oder 24 Wochen nicht überschreiten.
 (2) Die Aufsichtsbehörde kann über die in diesem Gesetz vorgesehenen
 Ausnahmen hinaus weitergehende Ausnahmen zulassen, soweit sie im
 öffentlichen Interesse dringend nötig werden.
+
+(2a) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung
+des Bundesrates
+
+1.  Ausnahmen von den §§ 3, 4, 5 und 6 Absatz 2 sowie von den §§ 9 und 11
+    für Arbeitnehmer, die besondere Tätigkeiten zur Errichtung, zur
+    Änderung oder zum Betrieb von Bauwerken, künstlichen Inseln oder
+    sonstigen Anlagen auf See (Offshore-Tätigkeiten) durchführen, zulassen
+    und
+
+
+2.  die zum Schutz der in Nummer 1 genannten Arbeitnehmer sowie der Sonn-
+    und Feiertagsruhe notwendigen Bedingungen bestimmen.
+
+
+
 
 (3) Das Bundesministerium der Verteidigung kann in seinem
 Geschäftsbereich durch Rechtsverordnung mit Zustimmung des
@@ -754,9 +773,12 @@ dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen erforderlichen Auskünfte verlangen. Sie kann ferner
 vom Arbeitgeber verlangen, die Arbeitszeitnachweise und Tarifverträge
 oder Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Abs. 1 bis
-3, §§ 12 und 21a Abs. 6 vorzulegen oder zur Einsicht einzusenden.
+3, §§ 12 und 21a Abs. 6 sowie andere Arbeitszeitnachweise oder
+Geschäftsunterlagen, die mittelbar oder unmittelbar Auskunft über die
+Einhaltung des Arbeitszeitgesetzes geben, vorzulegen oder zur Einsicht
+einzusenden.
 
-(5) Die Beauftragen der Aufsichtsbehörde sind berechtigt, die
+(5) Die Beauftragten der Aufsichtsbehörde sind berechtigt, die
 Arbeitsstätten während der Betriebs- und Arbeitszeit zu betreten und
 zu besichtigen; außerhalb dieser Zeit oder wenn sich die
 Arbeitsstätten in einer Wohnung befinden, dürfen sie ohne
@@ -803,11 +825,11 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
 (2) Für die Beschäftigung von Personen unter 18 Jahren gilt anstelle
 dieses Gesetzes das Jugendarbeitsschutzgesetz.
 
-(3) Für die Beschäftigung von Arbeitnehmern auf Kauffahrteischiffen
-als Besatzungsmitglieder im Sinne des § 3 des Seemannsgesetzes gilt
-anstelle dieses Gesetzes das Seemannsgesetz.
+(3) Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder
+auf Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt
+anstelle dieses Gesetzes das Seearbeitsgesetz.
 
-(4)
+(4) (weggefallen)
 
 
 ### § 19 Beschäftigung im öffentlichen Dienst
@@ -828,13 +850,33 @@ Ruhezeiten der Zweiten Durchführungsverordnung zur Betriebsordnung für
 Luftfahrtgerät in der jeweils geltenden Fassung.
 
 
-### § 21 Beschäftigung in der Binnenschiffahrt
+### § 21 Beschäftigung in der Binnenschifffahrt
 
-Die Vorschriften dieses Gesetzes gelten für die Beschäftigung von
-Fahrpersonal in der Binnenschiffahrt, soweit die Vorschriften über
-Ruhezeiten der Binnenschiffsuntersuchungsordnung in der jeweils
-geltenden Fassung dem nicht entgegenstehen. Sie können durch
-Tarifvertrag der Eigenart der Binnenschiffahrt angepaßt werden.
+(1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates, auch zur Umsetzung zwischenstaatlicher Vereinbarungen
+oder Rechtsakten der Europäischen Union, abweichend von den
+Vorschriften dieses Gesetzes die Bedingungen für die
+Arbeitszeitgestaltung von Arbeitnehmern, die als Mitglied der
+Besatzung oder des Bordpersonals an Bord eines Fahrzeugs in der
+Binnenschifffahrt beschäftigt sind, regeln, soweit dies erforderlich
+ist, um den besonderen Bedingungen an Bord von Binnenschiffen Rechnung
+zu tragen. Insbesondere können in diesen Rechtsverordnungen die
+notwendigen Bedingungen für die Sicherheit und den Gesundheitsschutz
+im Sinne des § 1, einschließlich gesundheitlicher Untersuchungen
+hinsichtlich der Auswirkungen der Arbeitszeitbedingungen auf einem
+Schiff in der Binnenschifffahrt, sowie die notwendigen Bedingungen für
+den Schutz der Sonn- und Feiertagsruhe bestimmt werden. In
+Rechtsverordnungen nach Satz 1 kann ferner bestimmt werden, dass von
+den Vorschriften der Rechtsverordnung durch Tarifvertrag abgewichen
+werden kann.
+
+(2) Soweit die Bundesregierung von der Ermächtigung des Absatzes 1
+keinen Gebrauch macht, gelten die Vorschriften dieses Gesetzes für das
+Fahrpersonal auf Binnenschiffen, es sei denn,
+binnenschifffahrtsrechtliche Vorschriften über Ruhezeiten stehen dem
+entgegen. Bei Anwendung des Satzes 1 kann durch Tarifvertrag von den
+Vorschriften dieses Gesetzes abgewichen werden, um der Eigenart der
+Binnenschifffahrt Rechnung zu tragen.
 
 
 ### § 21a Beschäftigung im Straßentransport
@@ -938,9 +980,9 @@ fahrlässig
     Ruhezeit nicht oder nicht rechtzeitig ausgleicht,
 
 
-4.  einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2 oder § 24
-    zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese
-    Bußgeldvorschrift verweist,
+4.  einer Rechtsverordnung nach § 8 Satz 1, § 13 Abs. 1 oder 2, § 15
+    Absatz 2a Nummer 2, § 21 Absatz 1 oder § 24 zuwiderhandelt, soweit sie
+    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
 5.  entgegen § 9 Abs. 1 einen Arbeitnehmer an Sonn- oder Feiertagen
@@ -973,9 +1015,9 @@ fahrlässig
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 bis
-7, 9 und 10 mit einer Geldbuße bis zu fünfzehntausend Euro, in den
-Fällen des Absatzes 1 Nr. 8 mit einer Geldbuße bis zu
-zweitausendfünfhundert Euro geahndet werden.
+7, 9 und 10 mit einer Geldbuße bis zu dreißigtausend Euro, in den
+Fällen des Absatzes 1 Nr. 8 mit einer Geldbuße bis zu fünftausend Euro
+geahndet werden.
 
 
 ### § 23 Strafvorschriften

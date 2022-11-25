@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1114;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 15.12.2011 I 2714
+:   Art. 28 G v. 5.10.2021 I 4607
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -31,9 +31,8 @@ Zuletzt geändert durch
 (1) Die Grundbücher, die auch als Loseblattgrundbuch geführt werden
 können, werden von den Amtsgerichten geführt (Grundbuchämter). Diese
 sind für die in ihrem Bezirk liegenden Grundstücke zuständig. Die
-abweichenden Vorschriften der §§ 149 und 150 für Baden-Württemberg und
-das in Artikel 3 des Einigungsvertrages genannte Gebiet bleiben
-unberührt.
+abweichenden Vorschriften des § 150 für das in Artikel 3 des
+Einigungsvertrages genannte Gebiet bleiben unberührt.
 
 (2) Liegt ein Grundstück in dem Bezirk mehrerer Grundbuchämter, so ist
 das zuständige Grundbuchamt nach § 5 des Gesetzes über das Verfahren
@@ -46,11 +45,11 @@ Amtsgerichte zuzuweisen, wenn dies einer schnelleren und rationelleren
 Grundbuchführung dient. Sie können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die
-näheren Vorschriften über die Einrichtung und die Führung der
-Grundbücher, die Hypotheken-, Grundschuld- und Rentenschuldbriefe und
-die Abschriften aus dem Grundbuch und den Grundakten sowie die
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, die näheren Vorschriften über die Einrichtung und die Führung
+der Grundbücher, die Hypotheken-, Grundschuld- und Rentenschuldbriefe
+und die Abschriften aus dem Grundbuch und den Grundakten sowie die
 Einsicht hierin zu erlassen sowie das Verfahren zur Beseitigung einer
 Doppelbuchung zu bestimmen. Es kann hierbei auch regeln, inwieweit
 Änderungen bei einem Grundbuch, die sich auf Grund von Vorschriften
@@ -67,38 +66,16 @@ sind.
 eingerichteten amtlichen Verzeichnissen benannt
 (Liegenschaftskataster).
 
-(3) Ein Teil eines Grundstücks soll von diesem nur abgeschrieben
-werden, wenn ein von der zuständigen Behörde erteilter beglaubigter
-Auszug aus dem beschreibenden Teil des amtlichen Verzeichnisses
-vorgelegt wird, aus dem sich die Bezeichnung des Teils und die
-sonstigen aus dem amtlichen Verzeichnis in das Grundbuch zu
-übernehmenden Angaben sowie die Änderungen ergeben, die insoweit bei
-dem Rest des Grundstücks eintreten. Der Teil muß im amtlichen
-Verzeichnis unter einer besonderen Nummer verzeichnet sein, es sei
-denn, daß die zur Führung des amtlichen Verzeichnisses zuständige
-Behörde hiervon absieht, weil er mit einem benachbarten Grundstück
-oder einem Teil davon zusammengefaßt wird, und dies dem Grundbuchamt
-bescheinigt. Durch Rechtsverordnung der Landesregierungen, die zu
-deren Erlaß auch die Landesjustizverwaltungen ermächtigen können, kann
-neben dem Auszug aus dem beschreibenden Teil auch die Vorlage eines
-Auszugs aus der amtlichen Karte vorgeschrieben werden, aus dem sich
-die Größe und Lage des Grundstücks ergeben, es sei denn, daß der
-Grundstücksteil bisher im Liegenschaftskataster unter einer besonderen
-Nummer geführt wird.
+(3) Ein Teil eines Grundstücks darf von diesem nur abgeschrieben
+werden, wenn er im amtlichen Verzeichnis unter einer besonderen Nummer
+verzeichnet ist oder wenn die zur Führung des amtlichen Verzeichnisses
+zuständige Behörde bescheinigt, dass sie von der Buchung unter einer
+besonderen Nummer absieht, weil der Grundstücksteil mit einem
+benachbarten Grundstück oder einem Teil davon zusammengefasst wird.
 
-(4) Ein Auszug aus dem amtlichen Verzeichnis braucht nicht vorgelegt
-zu werden, wenn der abzuschreibende Grundstücksteil bereits nach dem
-amtlichen Verzeichnis im Grundbuch benannt ist oder war.
+(4) weggefallen
 
-(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, daß der nach den vorstehenden Absätzen vorzulegende Auszug
-aus dem amtlichen Verzeichnis der Beglaubigung nicht bedarf, wenn der
-Auszug maschinell hergestellt wird und ein ausreichender Schutz gegen
-die Vorlage von nicht von der zuständigen Behörde hergestellten oder
-von verfälschten Auszügen besteht. Satz 1 gilt entsprechend für andere
-Fälle, in denen dem Grundbuchamt Angaben aus dem amtlichen Verzeichnis
-zu übermitteln sind. Die Landesregierungen können die Ermächtigung
-durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(5) weggefallen
 
 
 ### § 3
@@ -178,7 +155,18 @@ Gerichtsbarkeit zu bestimmen.
 ### § 5
 
 (1) Ein Grundstück soll nur dann mit einem anderen Grundstück
-vereinigt werden, wenn hiervon Verwirrung nicht zu besorgen ist.
+vereinigt werden, wenn hiervon Verwirrung nicht zu besorgen ist. Eine
+Vereinigung soll insbesondere dann unterbleiben, wenn die Grundstücke
+im Zeitpunkt der Vereinigung wie folgt belastet sind:
+
+1.  mit unterschiedlichen Grundpfandrechten oder Reallasten oder
+
+
+2.  mit denselben Grundpfandrechten oder Reallasten in unterschiedlicher
+    Rangfolge.
+
+
+
 Werden die Grundbücher von verschiedenen Grundbuchämtern geführt, so
 ist das zuständige Grundbuchamt nach § 5 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
@@ -190,10 +178,10 @@ Verzeichnisses nach § 2 Abs. 2 zuständigen Stelle liegen und
 unmittelbar aneinandergrenzen. Von diesen Erfordernissen soll nur
 abgewichen werden, wenn hierfür, insbesondere wegen der
 Zusammengehörigkeit baulicher Anlagen und Nebenanlagen, ein
-erhebliches Bedürfnis entsteht. Die Lage der Grundstücke zueinander
-ist durch Vorlage einer von der zuständigen Behörde beglaubigten Karte
-nachzuweisen. Das erhebliche Bedürfnis ist glaubhaft zu machen; § 29
-gilt hierfür nicht.
+erhebliches Bedürfnis
+entsteht             . Die Lage der Grundstücke zueinander kann durch
+Bezugnahme auf das amtliche Verzeichnis nachgewiesen werden. Das
+erhebliche Bedürfnis ist glaubhaft zu machen; § 29 gilt hierfür nicht.
 
 
 ### § 6
@@ -206,7 +194,7 @@ und, wenn dem Antrag stattgegeben wird, für die Führung des Grundbuchs
 über das ganze Grundstück das Grundbuchamt zuständig, das das
 Grundbuch über das Hauptgrundstück führt.
 
-(2) § 5 Abs. 2 findet entsprechende Anwendung.
+(2) § 5 Absatz 1 Satz 2 und Absatz 2 ist entsprechend anzuwenden.
 
 
 ### § 6a
@@ -235,10 +223,24 @@ als auch an einem anderen Erbbaurecht bestellt werden soll.
 er von dem Grundstück abzuschreiben und als selbständiges Grundstück
 einzutragen.
 
-(2) Ist das Recht eine Dienstbarkeit oder eine Reallast, so kann die
-Abschreibung unterbleiben, wenn hiervon Verwirrung nicht zu besorgen
-ist. Jedoch sind auch in diesem Fall die Vorschriften des § 2 Abs. 3
-über die Vorlegung einer Karte entsprechend anzuwenden.
+(2) Ist das Recht eine Dienstbarkeit, so kann die Abschreibung
+unterbleiben, wenn hiervon Verwirrung nicht zu besorgen ist. In diesem
+Fall soll ein von der für die Führung des Liegenschaftskatasters
+zuständigen Behörde erteilter beglaubigter Auszug aus der amtlichen
+Karte vorgelegt werden, in dem der belastete Grundstücksteil
+gekennzeichnet ist. Die Vorlage eines solchen Auszugs ist nicht
+erforderlich, wenn der Grundstücksteil im Liegenschaftskataster unter
+einer besonderen Nummer verzeichnet ist.
+
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass der nach Absatz 2 vorzulegende Auszug aus der
+amtlichen Karte der Beglaubigung nicht bedarf, wenn der Auszug
+maschinell hergestellt wird und ein ausreichender Schutz gegen die
+Vorlage von nicht von der zuständigen Behörde hergestellten oder von
+verfälschten Auszügen besteht. Satz 1 gilt entsprechend für andere
+Fälle, in denen dem Grundbuchamt Angaben aus dem amtlichen Verzeichnis
+zu übermitteln sind. Die Landesregierungen können die Ermächtigung
+durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 8
@@ -268,12 +270,12 @@ oder Bezug nimmt, hat das Grundbuchamt dauernd aufzubewahren. Eine
 Urkunde nach Satz 1 darf nur herausgegeben werden, wenn statt der
 Urkunde eine beglaubigte Abschrift bei dem Grundbuchamt bleibt.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu
-bestimmen, daß statt einer beglaubigten Abschrift der Urkunde eine
-Verweisung auf die anderen Akten genügt, wenn eine der in Absatz 1
-bezeichneten Urkunden in anderen Akten des das Grundbuch führenden
-Amtsgerichts enthalten ist.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
+bedarf, zu bestimmen, daß statt einer beglaubigten Abschrift der
+Urkunde eine Verweisung auf die anderen Akten genügt, wenn eine der in
+Absatz 1 bezeichneten Urkunden in anderen Akten des das Grundbuch
+führenden Amtsgerichts enthalten ist.
 
 (3) (weggefallen)
 
@@ -297,12 +299,13 @@ Eintragungen auf, die in der Wiedergabe nicht als solche erkennbar
 sind, ist dies in dem schriftlichen Nachweis anzugeben. Die Originale
 der geschlossenen Grundbücher können ausgesondert werden.
 
-(3) Durch Rechtsverordnung des Bundesministeriums der Justiz mit
-Zustimmung des Bundesrates kann vorgesehen werden, daß für die Führung
-des Grundbuchs nicht mehr benötigte, bei den Grundakten befindliche
-Schriftstücke ausgesondert werden können. Welche Schriftstücke dies
-sind und unter welchen Voraussetzungen sie ausgesondert werden können,
-ist in der Rechtsverordnung nach Satz 1 zu bestimmen.
+(3) Durch Rechtsverordnung des Bundesministeriums der Justiz und für
+Verbraucherschutz mit Zustimmung des Bundesrates kann vorgesehen
+werden, daß für die Führung des Grundbuchs nicht mehr benötigte, bei
+den Grundakten befindliche Schriftstücke ausgesondert werden können.
+Welche Schriftstücke dies sind und unter welchen Voraussetzungen sie
+ausgesondert werden können, ist in der Rechtsverordnung nach Satz 1 zu
+bestimmen.
 
 
 ### § 11
@@ -324,8 +327,8 @@ Urkunden und der noch nicht erledigten Eintragungsanträge gestattet
 ist, kann eine Abschrift gefordert werden; die Abschrift ist auf
 Verlangen zu beglaubigen.
 
-(3) Das Bundesministerium der Justiz kann durch Rechtsverordnung mit
-Zustimmung des Bundesrates bestimmen, dass
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass
 
 1.  über die Absätze 1 und 2 hinaus die Einsicht in sonstige sich auf das
     Grundbuch beziehende Dokumente gestattet ist und Abschriften hiervon
@@ -338,6 +341,19 @@ Zustimmung des Bundesrates bestimmen, dass
 
 
 
+
+(4) Über Einsichten in Grundbücher und Grundakten sowie über die
+Erteilung von Abschriften aus Grundbüchern und Grundakten ist ein
+Protokoll zu führen. Dem Eigentümer des betroffenen Grundstücks oder
+dem Inhaber eines grundstücksgleichen Rechts ist auf Verlangen
+Auskunft aus diesem Protokoll zu geben, es sei denn, die Bekanntgabe
+würde den Erfolg strafrechtlicher Ermittlungen oder die
+Aufgabenwahrnehmung einer Verfassungsschutzbehörde, des
+Bundesnachrichtendienstes, des Militärischen Abschirmdienstes oder die
+Zentralstelle für Finanztransaktionsuntersuchungen gefährden. Das
+Protokoll kann nach Ablauf von zwei Jahren vernichtet werden. Einer
+Protokollierung bedarf es nicht, wenn die Einsicht oder Abschrift dem
+Auskunftsberechtigten nach Satz 2 gewährt wird.
 
 
 ### § 12a
@@ -364,6 +380,11 @@ gelten § 126 Abs. 2 und § 133 entsprechend.
 (2) Als Verzeichnis im Sinne des Absatzes 1 kann mit Genehmigung der
 Landesjustizverwaltung auch das Liegenschaftskataster verwendet
 werden.
+
+(3) Über Einsichten in Verzeichnisse nach Absatz 1 oder die Erteilung
+von Auskünften aus solchen Verzeichnissen, durch die personenbezogene
+Daten bekanntgegeben werden, ist ein Protokoll zu führen. § 12 Absatz
+4 Satz 2 bis 4 gilt entsprechend.
 
 
 ### § 12b
@@ -424,8 +445,12 @@ grundbuchführenden Stellen aufbewahrt werden, gilt § 12 entsprechend.
 3.  die Entscheidungen über Ersuchen des Gerichts um Eintragung oder
     Löschung des Vermerks über die Eröffnung des Insolvenzverfahrens und
     über die Verfügungsbeschränkungen nach der Insolvenzordnung oder des
-    Vermerks über die Einleitung eines Zwangsversteigerungs- und und
+    Vermerks über die Einleitung eines Zwangsversteigerungs- und
     Zwangsverwaltungsverfahrens;
+
+
+3a. die Entscheidungen über Ersuchen um Eintragung und Löschung von
+    Anmeldevermerken gemäß § 30b Absatz 1 des Vermögensgesetzes;
 
 
 4.  die Berichtigung der Eintragung des Namens, des Berufs oder des
@@ -447,8 +472,8 @@ Gesetzes ausgeschlossenen Urkundsbeamten vorgenommen worden sind.
 
 (4) Wird die Änderung einer Entscheidung des Urkundsbeamten der
 Geschäftsstelle verlangt, so entscheidet, wenn dieser dem Verlangen
-nicht entspricht, der Grundbuchrichter. Die Beschwerde findet erst
-gegen seine Entscheidung statt.
+nicht entspricht, die für die Führung des Grundbuchs zuständige
+Person. Die Beschwerde findet erst gegen ihre Entscheidung statt.
 
 (5) In den Fällen des § 12b Absatz 2 entscheidet über die Gewährung
 von Einsicht oder die Erteilung von Abschriften die Leitung der Stelle
@@ -456,6 +481,49 @@ oder ein von ihm hierzu ermächtigter Bediensteter. Gegen die
 Entscheidung ist die Beschwerde nach dem Vierten Abschnitt gegeben.
 Örtlich zuständig ist das Gericht, in dessen Bezirk die Stelle ihren
 Sitz hat.
+
+
+### § 12d Anwendung der Verordnung (EU) 2016/679
+
+(1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf
+Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
+2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
+zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) werden dadurch
+gewährt, dass die betroffene Person
+
+1.  nach Maßgabe des § 12 Absatz 1 und 2 und den dazu erlassenen
+    Vorschriften der Grundbuchverfügung in der jeweils geltenden Fassung
+    Einsicht in das Grundbuch, die Urkunden, auf die im Grundbuch zur
+    Ergänzung einer Eintragung Bezug genommen ist, sowie in die noch nicht
+    erledigten Eintragungsanträge nehmen und eine Abschrift verlangen
+    kann,
+
+
+2.  in die nach § 12a Absatz 1 Satz 1 geführten weiteren Verzeichnisse
+    Einsicht nehmen kann.
+
+
+
+Eine Information über Empfänger, gegenüber denen die im Grundbuch oder
+in den Grundakten enthaltenen personenbezogenen Daten offengelegt
+werden, erfolgt nur zu Gunsten der Eigentümer des betroffenen
+Grundstücks oder dem Inhaber eines grundstücksgleichen Rechts
+innerhalb der von § 12 Absatz 4 Satz 2 bis 4 und der
+Grundbuchverfügung gesetzten Grenzen.
+
+(2) Hinsichtlich der im Grundbuch enthaltenen personenbezogenen Daten
+kann das Recht auf Berichtigung nach Artikel 16 der Verordnung (EU)
+2016/679 nur unter den Voraussetzungen ausgeübt werden, die in den §§
+894 bis 896 des Bürgerlichen Gesetzbuchs sowie in den §§ 22 bis 25 und
+27 dieses Gesetzes für eine Berichtigung oder Löschung vorgesehen
+sind.
+
+(3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU)
+2016/679 findet in Bezug auf die im Grundbuch und in den Grundakten
+enthaltenen personenbezogenen Daten keine Anwendung.
 
 
 ## Zweiter Abschnitt - Eintragungen in das Grundbuch
@@ -510,6 +578,11 @@ und Verfügungen des Grundbuchamtes nach § 18.
 (2) Ist die zu einer Eintragung erforderliche Erklärung von einem
 Notar beurkundet oder beglaubigt, so gilt dieser als ermächtigt, im
 Namen eines Antragsberechtigten die Eintragung zu beantragen.
+
+(3) Die zu einer Eintragung erforderlichen Erklärungen sind vor ihrer
+Einreichung für das Grundbuchamt von einem Notar auf
+Eintragungsfähigkeit zu prüfen. Dies gilt nicht, wenn die Erklärung
+von einer öffentlichen Behörde abgegeben wird.
 
 
 ### § 16
@@ -648,14 +721,14 @@ erforderlich ist, in dem Eintragungsantrag ist das Grundstück
 übereinstimmend mit dem Grundbuch oder durch Hinweis auf das
 Grundbuchblatt zu bezeichnen. Einzutragende Geldbeträge sind in
 inländischer Währung anzugeben; durch Rechtsverordnung des
-Bundesministeriums der Justiz im Einvernehmen mit dem
-Bundesministerium der Finanzen kann die Angabe in einer einheitlichen
-europäischen Währung, in der Währung eines Mitgliedstaats der
-Europäischen Union oder des Europäischen Wirtschaftsraums oder einer
-anderen Währung, gegen die währungspolitische Bedenken nicht zu
-erheben sind, zugelassen und, wenn gegen die Fortdauer dieser
-Zulassung währungspolitische Bedenken bestehen, wieder eingeschränkt
-werden.
+Bundesministeriums der Justiz und für Verbraucherschutz im
+Einvernehmen mit dem Bundesministerium der Finanzen kann die Angabe in
+einer einheitlichen europäischen Währung, in der Währung eines
+Mitgliedstaats der Europäischen Union oder des Europäischen
+Wirtschaftsraums oder einer anderen Währung, gegen die
+währungspolitische Bedenken nicht zu erheben sind, zugelassen und,
+wenn gegen die Fortdauer dieser Zulassung währungspolitische Bedenken
+bestehen, wieder eingeschränkt werden.
 
 
 ### § 29
@@ -671,7 +744,9 @@ sind, des Nachweises durch öffentliche Urkunden.
 
 (3) Erklärungen oder Ersuchen einer Behörde, auf Grund deren eine
 Eintragung vorgenommen werden soll, sind zu unterschreiben und mit
-Siegel oder Stempel zu versehen.
+Siegel oder Stempel zu versehen. Anstelle der Siegelung kann
+maschinell ein Abdruck des Dienstsiegels eingedruckt oder aufgedruckt
+werden.
 
 
 ### § 29a
@@ -718,11 +793,11 @@ Registerblatt anzugeben.
 
 ### § 33
 
-(1) Der Nachweis, daß zwischen Ehegatten Gütertrennung oder ein
-vertragsmäßiges Güterrecht besteht oder daß ein Gegenstand zum
-Vorbehaltsgut eines Ehegatten gehört, wird durch ein Zeugnis des
-Gerichts über die Eintragung des güterrechtlichen Verhältnisses im
-Güterrechtsregister geführt.
+(1) Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern
+Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass
+ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners
+gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des
+güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
 
 (2) Ist das Grundbuchamt zugleich das Registergericht, so genügt statt
 des Zeugnisses nach Absatz 1 die Bezugnahme auf das Register.
@@ -730,65 +805,87 @@ des Zeugnisses nach Absatz 1 die Bezugnahme auf das Register.
 
 ### § 34
 
-(weggefallen)
+Eine durch Rechtsgeschäft erteilte Vertretungsmacht kann auch durch
+eine Bescheinigung nach § 21 Absatz 3 der Bundesnotarordnung
+nachgewiesen werden.
 
 
 ### § 35
 
-(1) Der Nachweis der Erbfolge kann nur durch einen Erbschein geführt
-werden. Beruht jedoch die Erbfolge auf einer Verfügung von Todes
-wegen, die in einer öffentlichen Urkunde enthalten ist, so genügt es,
-wenn an Stelle des Erbscheins die Verfügung und die Niederschrift über
-die Eröffnung der Verfügung vorgelegt werden; erachtet das
-Grundbuchamt die Erbfolge durch diese Urkunden nicht für nachgewiesen,
-so kann es die Vorlegung eines Erbscheins verlangen.
+(1) Der Nachweis der Erbfolge kann nur durch einen Erbschein oder ein
+Europäisches Nachlasszeugnis geführt werden. Beruht jedoch die
+Erbfolge auf einer Verfügung von Todes wegen, die in einer
+öffentlichen Urkunde enthalten ist, so genügt es, wenn an Stelle des
+Erbscheins oder des Europäischen Nachlasszeugnisses die Verfügung und
+die Niederschrift über die Eröffnung der Verfügung vorgelegt werden;
+erachtet das Grundbuchamt die Erbfolge durch diese Urkunden nicht für
+nachgewiesen, so kann es die Vorlegung eines Erbscheins oder eines
+Europäischen Nachlasszeugnisses verlangen.
 
 (2) Das Bestehen der fortgesetzten Gütergemeinschaft sowie die
 Befugnis eines Testamentsvollstreckers zur Verfügung über einen
 Nachlaßgegenstand ist nur auf Grund der in den §§ 1507, 2368 des
-Bürgerlichen Gesetzbuchs vorgesehenen Zeugnisse als nachgewiesen
-anzunehmen; auf den Nachweis der Befugnis des Testamentsvollstreckers
-sind jedoch die Vorschriften des Absatzes 1 Satz 2 entsprechend
-anzuwenden.
+Bürgerlichen Gesetzbuchs vorgesehenen Zeugnisse oder eines
+Europäischen Nachlasszeugnisses als nachgewiesen anzunehmen; auf den
+Nachweis der Befugnis des Testamentsvollstreckers sind jedoch die
+Vorschriften des Absatzes 1 Satz 2 entsprechend anzuwenden.
 
 (3) Zur Eintragung des Eigentümers oder Miteigentümers eines
 Grundstücks kann das Grundbuchamt von den in den Absätzen 1 und 2
 genannten Beweismitteln absehen und sich mit anderen Beweismitteln,
 für welche die Form des § 29 nicht erforderlich ist, begnügen, wenn
-das Grundstück oder der Anteil am Grundstück weniger als 3.000 Euro
-wert ist und die Beschaffung des Erbscheins oder des Zeugnisses nach §
-1507 des Bürgerlichen Gesetzbuchs nur mit unverhältnismäßigem Aufwand
-an Kosten oder Mühe möglich ist. Der Antragsteller kann auch zur
-Versicherung an Eides Statt zugelassen werden.
+das Grundstück oder der Anteil am Grundstück weniger als 3 000 Euro
+wert ist und die Beschaffung des Erbscheins, des Europäischen
+Nachlasszeugnisses oder des Zeugnisses nach § 1507 des Bürgerlichen
+Gesetzbuchs nur mit unverhältnismäßigem Aufwand an Kosten oder Mühe
+möglich ist. Der Antragsteller kann auch zur Versicherung an Eides
+Statt zugelassen werden.
 
 
 ### § 36
 
-(1) Soll bei einem zum Nachlaß oder zu dem Gesamtgut einer ehelichen
-oder fortgesetzten Gütergemeinschaft gehörenden Grundstück oder
-Erbbaurecht einer der Beteiligten als Eigentümer oder
-Erbbauberechtigter eingetragen werden, so genügt zum Nachweis der
-Rechtsnachfolge und der zur Eintragung des Eigentumsübergangs
-erforderlichen Erklärungen der Beteiligten ein Zeugnis des
-Nachlaßgerichts oder des nach § 344 Abs. 5 des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit zuständigen Amtsgerichts.
+(1) Soll bei einem zum Nachlass oder zu dem Gesamtgut einer
+Gütergemeinschaft gehörenden Grundstück oder Erbbaurecht einer der
+Beteiligten als Eigentümer oder Erbbauberechtigter eingetragen werden,
+so genügt zum Nachweis der Rechtsnachfolge und der zur Eintragung des
+Eigentumsübergangs erforderlichen Erklärungen der Beteiligten ein
+gerichtliches Zeugnis. Das Zeugnis erteilt
+
+1.  das Nachlassgericht, wenn das Grundstück oder das Erbbaurecht zu einem
+    Nachlass gehört,
+
+
+2.  das nach § 343 des Gesetzes über das Verfahren in Familiensachen und
+    in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständige
+    Amtsgericht, wenn ein Anteil an dem Gesamtgut zu einem Nachlass
+    gehört, und
+
+
+3.  im Übrigen das nach § 122 des Gesetzes über das Verfahren in
+    Familiensachen und in den Angelegenheiten der freiwilligen
+    Gerichtsbarkeit zuständige Amtsgericht.
+
+
+
 
 (2) Das Zeugnis darf nur ausgestellt werden, wenn:
 
 a)  die Voraussetzungen für die Erteilung eines Erbscheins vorliegen oder
-    der Nachweis der ehelichen Gütergemeinschaft durch öffentliche
-    Urkunden erbracht ist und
+    der Nachweis der Gütergemeinschaft durch öffentliche Urkunden erbracht
+    ist und
 
 
 b)  die Abgabe der Erklärungen der Beteiligten in einer den Vorschriften
-    der Grundbuchordnung entsprechenden Weise dem Nachlaßgericht oder dem
-    nach § 344 Abs. 5 des Gesetzes über das Verfahren in Familiensachen
-    und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
-    zuständigen Amtsgericht nachgewiesen ist.
+    der Grundbuchordnung entsprechenden Weise dem nach Absatz 1 Satz 2
+    zuständigen Gericht nachgewiesen ist.
 
 
 
+
+(2a) Ist ein Erbschein über das Erbrecht sämtlicher Erben oder ein
+Zeugnis über die Fortsetzung der Gütergemeinschaft erteilt, so ist
+auch der Notar, der die Auseinandersetzung vermittelt hat, für die
+Erteilung des Zeugnisses nach Absatz 1 Satz 1 zuständig.
 
 (3) Die Vorschriften über die Zuständigkeit zur Entgegennahme der
 Auflassung bleiben unberührt.
@@ -798,9 +895,8 @@ Auflassung bleiben unberührt.
 
 Die Vorschriften des § 36 sind entsprechend anzuwenden, wenn bei einer
 Hypothek, Grundschuld oder Rentenschuld, die zu einem Nachlaß oder zu
-dem Gesamtgut einer ehelichen oder fortgesetzten Gütergemeinschaft
-gehört, einer der Beteiligten als neuer Gläubiger eingetragen werden
-soll.
+dem Gesamtgut einer Gütergemeinschaft gehört, einer der Beteiligten
+als neuer Gläubiger eingetragen werden soll.
 
 
 ### § 38
@@ -904,7 +1000,10 @@ Eintragungsbewilligung Bezug genommen werden. Hierbei sollen in der
 Bezugnahme der Name des Notars, der Notarin oder die Bezeichnung des
 Notariats und jeweils die Nummer der Urkundenrolle, bei Eintragungen
 auf Grund eines Ersuchens (§ 38) die Bezeichnung der ersuchenden
-Stelle und deren Aktenzeichen angegeben werden.
+Stelle und deren Aktenzeichen angegeben werden. Bei der Eintragung von
+Dienstbarkeiten und Reallasten soll der Inhalt des Rechts im
+Eintragungstext lediglich schlagwortartig bezeichnet werden; das
+Gleiche gilt bei der Eintragung von Vormerkungen für solche Rechte.
 
 (3) Bei der Umschreibung eines Grundbuchblatts, der Neufassung eines
 Teils eines Grundbuchblatts und in sonstigen Fällen der Übernahme von
@@ -912,9 +1011,11 @@ Eintragungen auf ein anderes, bereits angelegtes oder neu anzulegendes
 Grundbuchblatt soll, sofern hierdurch der Inhalt der Eintragung nicht
 verändert wird, die Bezugnahme auf die Eintragungsbewilligung oder
 andere Unterlagen bis zu dem Umfange nachgeholt oder erweitert werden,
-wie sie nach Absatz 2 zulässig wäre. Sofern hierdurch der Inhalt der
-Eintragung nicht verändert wird, kann auch von dem ursprünglichen Text
-der Eintragung abgewichen werden.
+wie sie nach Absatz 2 zulässig wäre. Im gleichen Umfang kann auf die
+bisherige Eintragung Bezug genommen werden, wenn ein Recht bisher mit
+seinem vollständigen Wortlaut im Grundbuch eingetragen ist. Sofern
+hierdurch der Inhalt der Eintragung nicht verändert wird, kann auch
+von dem ursprünglichen Text der Eintragung abgewichen werden.
 
 
 ### § 45
@@ -1413,16 +1514,14 @@ Anspruchs auf rechtliches Gehör ist entsprechend anzuwenden.
 
 (4) Die Bundesregierung und die Landesregierungen bestimmen für ihren
 Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Akten geführt und elektronische Dokumente bei Gericht eingereicht
-werden können. Die Bundesregierung und die Landesregierungen bestimmen
-für ihren Bereich durch Rechtsverordnung die organisatorisch-
-technischen Rahmenbedingungen für die Bildung, Führung und
-Aufbewahrung der elektronischen Akten und die für die Bearbeitung der
-Dokumente geeignete Form. Die Rechtsverordnungen der Bundesregierung
-bedürfen nicht der Zustimmung des Bundesrates. Die Landesregierungen
-können die Ermächtigungen durch Rechtsverordnung auf die
-Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen
-Akte und der elektronischen Form kann auf einzelne Gerichte oder
+Akten geführt werden können. Die Bundesregierung und die
+Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
+die organisatorisch-technischen Rahmenbedingungen für die Bildung,
+Führung und Aufbewahrung der elektronischen Akten. Die
+Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung
+des Bundesrates. Die Landesregierungen können die Ermächtigungen durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die
+Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
 Verfahren beschränkt werden.
 
 
@@ -1460,17 +1559,17 @@ Nachlaßgericht um Ermittlung des Erben des Eigentümers ersuchen.
 
 #### § 83
 
-Das Nachlaßgericht, das einen Erbschein erteilt oder sonst die Erben
-ermittelt hat, soll, wenn ihm bekannt ist, daß zu dem Nachlaß ein
-Grundstück gehört, dem zuständigen Grundbuchamt von dem Erbfall und
-den Erben Mitteilung machen. Wird ein Testament oder ein Erbvertrag
-eröffnet, so soll das Gericht, wenn ihm bekannt ist, daß zu dem
-Nachlaß ein Grundstück gehört, dem zuständigen Grundbuchamt von dem
-Erbfall Mitteilung machen und die als Erben eingesetzten Personen,
-soweit ihm ihr Aufenthalt bekannt ist, darauf hinweisen, daß durch den
-Erbfall das Grundbuch unrichtig geworden ist und welche
-gebührenrechtlichen Vergünstigungen für eine Grundbuchberichtigung
-bestehen.
+Das Nachlaßgericht, das einen Erbschein oder ein Europäisches
+Nachlasszeugnis erteilt oder sonst die Erben ermittelt hat, soll, wenn
+ihm bekannt ist, daß zu dem Nachlaß ein Grundstück gehört, dem
+zuständigen Grundbuchamt von dem Erbfall und den Erben Mitteilung
+machen. Wird ein Testament oder ein Erbvertrag eröffnet, so soll das
+Gericht, wenn ihm bekannt ist, daß zu dem Nachlaß ein Grundstück
+gehört, dem zuständigen Grundbuchamt von dem Erbfall Mitteilung machen
+und die als Erben eingesetzten Personen, soweit ihm ihr Aufenthalt
+bekannt ist, darauf hinweisen, daß durch den Erbfall das Grundbuch
+unrichtig geworden ist und welche gebührenrechtlichen Vergünstigungen
+für eine Grundbuchberichtigung bestehen.
 
 
 ### II. - Löschung gegenstandsloser Eintragungen
@@ -1888,14 +1987,12 @@ Grundbuchs nicht erhalten hat, wird das Blatt unbeschadet des § 3 Abs.
 2 bis 9 von Amts wegen angelegt.
 
 (2) Das Verfahren bei der Anlegung des Grundbuchblatts richtet sich
-nach den Vorschriften der §§ 117 bis 125.
+nach den Vorschriften der §§ 118 bis 125.
 
 
-### § 117
+### § 117 (weggefallen)
 
-Das Grundbuchamt hat die zuständige Behörde um Übersendung eines
-beglaubigten Auszugs aus dem für die Bezeichnung der Grundstücke im
-Grundbuch maßgebenden amtlichen Verzeichnis zu ersuchen.
+-
 
 
 ### § 118
@@ -2022,7 +2119,10 @@ oder eine Löschung vorzunehmen.
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen, daß
 und in welchem Umfang das Grundbuch in maschineller Form als
-automatisierte Datei geführt wird. Hierbei muß gewährleistet sein, daß
+automatisiertes Dateisystem geführt wird; sie können dabei auch
+bestimmen, dass das Grundbuch in strukturierter Form mit logischer
+Verknüpfung der Inhalte (Datenbankgrundbuch) geführt wird. Hierbei muß
+gewährleistet sein, daß
 
 1.  die Grundsätze einer ordnungsgemäßen Datenverarbeitung eingehalten,
     insbesondere Vorkehrungen gegen einen Datenverlust getroffen sowie die
@@ -2036,8 +2136,8 @@ automatisierte Datei geführt wird. Hierbei muß gewährleistet sein, daß
     wiedergegeben werden können;
 
 
-3.  die nach der Anlage zu diesem Gesetz erforderlichen Maßnahmen
-    getroffen werden.
+3.  die nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679
+    erforderlichen Anforderungen erfüllt sind.
 
 
 
@@ -2063,30 +2163,57 @@ Grundbuchsachen sichergestellt ist.
 
 ### § 127
 
-(1) Die Landesregierungen können durch Rechtsverordnung, zu deren
-Erlaß auch die Landesjustizverwaltungen ermächtigt werden können,
-bestimmen, daß das Grundbuchamt
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass
 
-1.  Änderungen der Nummer, unter der das Grundstück im
+1.  Grundbuchämter Änderungen der Nummer, unter der ein Grundstück im
     Liegenschaftskataster geführt wird, die nicht auf einer Änderung der
     Umfangsgrenzen des Grundstücks beruhen, sowie im Liegenschaftskataster
     enthaltene Angaben über die tatsächliche Beschreibung des Grundstücks
-    aus dem Liegenschaftskataster maschinell in das Grundbuch und in
-    Verzeichnisse nach § 126 Abs. 2 einspeichern darf;
+    aus dem Liegenschaftskataster automatisiert in das Grundbuch und in
+    Verzeichnisse nach § 126 Absatz 2 einspeichern sollen;
 
 
-2.  der für die Führung des Liegenschaftskatasters zuständigen Stelle die
-    Grundbuchstelle sowie Daten des Bestandsverzeichnisses und der ersten
-    Abteilung maschinell übermittelt.
+2.  Grundbuchämter den für die Führung des Liegenschaftskatasters
+    zuständigen Stellen die Grundbuchstellen sowie Daten des
+    Bestandsverzeichnisses und der ersten Abteilung automatisiert in
+    elektronischer Form übermitteln;
+
+
+3.  Grundbuchämter, die die Richtigstellung der Bezeichnung eines
+    Berechtigten in von ihnen geführten Grundbüchern vollziehen, diese
+    Richtigstellung auch in Grundbüchern vollziehen dürfen, die von
+    anderen Grundbuchämtern des jeweiligen Landes geführt werden;
+
+
+4.  in Bezug auf Gesamtrechte ein nach den allgemeinen Vorschriften
+    zuständiges Grundbuchamt auch zuständig ist, soweit Grundbücher
+    betroffen sind, die von anderen Grundbuchämtern des jeweiligen Landes
+    geführt werden.
 
 
 
+Die Anordnungen können auf einzelne Grundbuchämter beschränkt werden.
+In den Fällen des Satzes 1 Nummer 3 und 4 können auch Regelungen zur
+Bestimmung des zuständigen Grundbuchamts getroffen und die
+Einzelheiten des jeweiligen Verfahrens geregelt werden. Die
+Landesregierungen können die Ermächtigungen durch Rechtsverordnung auf
+die Landesjustizverwaltungen übertragen.
 
 (2) Soweit das Grundbuchamt nach bundesrechtlicher Vorschrift
 verpflichtet ist, einem Gericht oder einer Behörde über eine
-Eintragung Mitteilung zu machen, besteht diese Verpflichtung bezüglich
-der nach Maßgabe des Absatzes 1 aus dem Liegenschaftskataster in das
-Grundbuch übernommenen Angaben nicht.
+Eintragung Mitteilung zu machen, besteht diese Verpflichtung nicht
+bezüglich der Angaben, die nach Maßgabe des Absatzes 1 Satz 1 Nummer 1
+aus dem Liegenschaftskataster in das Grundbuch übernommen wurden.
+
+(3) Ein nach Absatz 1 Satz 1 Nummer 4 zuständiges Grundbuchamt gilt in
+Bezug auf die Angelegenheit als für die Führung der betroffenen
+Grundbuchblätter zuständig. Die Bekanntgabe der Eintragung nach § 55a
+Absatz 2 ist nicht erforderlich. Werden die Grundakten nicht
+elektronisch geführt, sind in den Fällen des Absatzes 1 Satz 1 Nummer
+3 und 4 den anderen beteiligten Grundbuchämtern beglaubigte Kopien der
+Urkunden zu übermitteln, auf die sich die Eintragung gründet oder auf
+die sie Bezug nimmt.
 
 
 ### § 128
@@ -2118,9 +2245,9 @@ kann. Durch eine Bestätigungsanzeige oder in anderer geeigneter Weise
 ist zu überprüfen, ob diese Voraussetzungen eingetreten sind.
 
 (2) Jede Eintragung soll den Tag angeben, an dem sie wirksam geworden
-ist. Bei Eintragungen, die gemäß § 127 Abs. 1 Inhalt des Grundbuchs
-werden, bedarf es abweichend von Satz 1 der Angabe des Tages der
-Eintragung im Grundbuch nicht.
+ist. Bei Eintragungen, die gemäß § 127 Absatz 1 Satz 1 Nummer 1 Inhalt
+des Grundbuchs werden, bedarf es abweichend von Satz 1 der Angabe des
+Tages der Eintragung im Grundbuch nicht.
 
 
 ### § 130
@@ -2136,12 +2263,26 @@ machen.
 
 ### § 131
 
-Wird das Grundbuch in maschineller Form als automatisierte Datei
-geführt, so tritt an die Stelle der Abschrift der Ausdruck und an die
-Stelle der beglaubigten Abschrift der amtliche Ausdruck. Die Ausdrucke
-werden nicht unterschrieben. Der amtliche Ausdruck ist als solcher zu
-bezeichnen und mit einem Dienstsiegel oder -stempel zu versehen; er
-steht einer beglaubigten Abschrift gleich.
+(1) Wird das Grundbuch in maschineller Form als automatisiertes
+Dateisystem geführt, so tritt an die Stelle der Abschrift der Ausdruck
+und an die Stelle der beglaubigten Abschrift der amtliche Ausdruck.
+Die Ausdrucke werden nicht unterschrieben. Der amtliche Ausdruck ist
+als solcher zu bezeichnen und mit einem Dienstsiegel oder -stempel zu
+versehen; er steht einer beglaubigten Abschrift gleich.
+
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+
+1.  zu bestimmen, dass Auskünfte über grundbuchblattübergreifende
+    Auswertungen von Grundbuchinhalten verlangt werden können, soweit ein
+    berechtigtes Interesse dargelegt ist, und
+
+
+2.  Einzelheiten des Verfahrens zur Auskunftserteilung zu regeln.
+
+
+
+Sie können diese Ermächtigungen durch Rechtsverordnung auf die
+Landesjustizverwaltungen übertragen.
 
 
 ### § 132
@@ -2194,6 +2335,8 @@ voraus, daß
 
 
 
+Satz 3 Nummer 1 gilt nicht für die Erteilung der Genehmigung für
+Notare.
 
 (3) Die Genehmigung ist zu widerrufen, wenn eine der in Absatz 2
 genannten Voraussetzungen weggefallen ist. Sie kann widerrufen werden,
@@ -2214,46 +2357,75 @@ Gebäudeeigentum betrieben werden soll und die abrufende Person oder
 Stelle das Vorliegen dieser Umstände durch Verwendung entsprechender
 elektronischer Zeichen versichert.
 
-(5) Ist der Empfänger eine nicht öffentliche Stelle, gilt § 38 des
-Bundesdatenschutzgesetzes mit der Maßgabe, daß die Aufsichtsbehörde
-die Ausführung der Vorschriften über den Datenschutz auch dann
-überwacht, wenn keine hinreichenden Anhaltspunkte für eine Verletzung
-dieser Vorschriften vorliegen. Unabhängig hiervon ist dem Eigentümer
-des Grundstücks oder dem Inhaber eines grundstücksgleichen Rechts
-jederzeit Auskunft aus einem über die Abrufe zu führenden Protokoll zu
-geben, soweit nicht die Bekanntgabe den Erfolg strafrechtlicher
-Ermittlungen gefährden würde; dieses Protokoll kann nach Ablauf eines
-Jahres vernichtet werden.
+(5) Dem Eigentümer des Grundstücks oder dem Inhaber eines
+grundstücksgleichen Rechts ist jederzeit Auskunft aus einem über die
+Abrufe zu führenden Protokoll zu geben, soweit nicht die Bekanntgabe
+den Erfolg strafrechtlicher Ermittlungen oder die Aufgabenwahrnehmung
+einer Verfassungsschutzbehörde, des Bundesnachrichtendienstes oder des
+Militärischen Abschirmdienstes gefährden würde; dieses Protokoll kann
+nach Ablauf von zwei Jahren vernichtet werden.
 
-(6) Soweit in dem automatisierten Abrufverfahren personenbezogene
-Daten übermittelt werden, darf der Empfänger diese nur für den Zweck
-verwenden, zu dessen Erfüllung sie ihm übermittelt worden sind.
-
-(7) Genehmigungen nach Absatz 2 gelten in Ansehung der Voraussetzungen
+(6) Genehmigungen nach Absatz 2 gelten in Ansehung der Voraussetzungen
 nach den Absätzen 1 und 2 Satz 3 Nr. 1 und 2 im gesamten Land, dessen
 Behörden sie erteilt haben. Sobald die technischen Voraussetzungen
 dafür gegeben sind, gelten sie auch im übrigen Bundesgebiet. Das
-Bundesministerium der Justiz stellt durch Rechtsverordnung mit
-Zustimmung des Bundesrates fest, wann und in welchen Teilen des
-Bundesgebiets diese Voraussetzungen gegeben sind. Anstelle der
-Genehmigungen können auch öffentlich-rechtliche Verträge oder
-Verwaltungsvereinbarungen geschlossen werden. Die Sätze 1 und 2 gelten
-entsprechend.
+Bundesministerium der Justiz und für Verbraucherschutz stellt durch
+Rechtsverordnung mit Zustimmung des Bundesrates fest, wann und in
+welchen Teilen des Bundesgebiets diese Voraussetzungen gegeben sind.
+Anstelle der Genehmigungen können auch öffentlich-rechtliche Verträge
+oder Verwaltungsvereinbarungen geschlossen werden. Die Sätze 1 und 2
+gelten entsprechend.
 
-(8) (weggefallen)
+
+### § 133a Erteilung von Grundbuchabdrucken durch Notare; Verordnungsermächtigung
+
+(1) Notare dürfen demjenigen, der ihnen ein berechtigtes Interesse im
+Sinne des § 12 darlegt, den Inhalt des Grundbuchs mitteilen. Die
+Mitteilung kann auch durch die Erteilung eines Grundbuchabdrucks
+erfolgen.
+
+(2) Die Mitteilung des Grundbuchinhalts im öffentlichen Interesse oder
+zu wissenschaftlichen und Forschungszwecken ist nicht zulässig.
+
+(3) Über die Mitteilung des Grundbuchinhalts führt der Notar ein
+Protokoll. Dem Eigentümer des Grundstücks oder dem Inhaber eines
+grundstücksgleichen Rechts ist auf Verlangen Auskunft aus diesem
+Protokoll zu geben.
+
+(4) Einer Protokollierung der Mitteilung bedarf es nicht, wenn
+
+1.  die Mitteilung der Vorbereitung oder Ausführung eines sonstigen
+    Amtsgeschäfts nach § 20 oder § 24 Absatz 1 der Bundesnotarordnung
+    dient oder
+
+
+2.  der Grundbuchinhalt dem Auskunftsberechtigten nach Absatz 3 Satz 2
+    mitgeteilt wird.
+
+
+
+
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass abweichend von Absatz 1 der Inhalt von
+Grundbuchblättern, die von Grundbuchämtern des jeweiligen Landes
+geführt werden, nicht mitgeteilt werden darf. Dies gilt nicht, wenn
+die Mitteilung der Vorbereitung oder Ausführung eines sonstigen
+Amtsgeschäfts nach § 20 oder § 24 Absatz 1 der Bundesnotarordnung
+dient. Die Landesregierungen können die Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 134
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu
-erlassen über
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Vorschriften zu erlassen über
 
 1.  die Einzelheiten der Anforderungen an die Einrichtung und das Nähere
-    zur Gestaltung und Wiederherstellung des maschinell geführten
-    Grundbuchs sowie die Abweichungen von den Vorschriften des Ersten bis
-    Sechsten Abschnitts der Grundbuchordnung, die für die maschinelle
-    Führung des Grundbuchs erforderlich sind;
+    zur Gestaltung des maschinell geführten Grundbuchs sowie die
+    Abweichungen von den Vorschriften des Ersten bis Sechsten Abschnitts
+    der Grundbuchordnung, die für die maschinelle Führung des Grundbuchs
+    erforderlich sind;
 
 
 2.  die Einzelheiten der Gewährung von Einsicht in maschinell geführte
@@ -2266,11 +2438,11 @@ erlassen über
 
 
 
-Das Bundesministerium der Justiz kann im Rahmen seiner Ermächtigung
-nach Satz 1 die Regelung weiterer Einzelheiten durch Rechtsverordnung
-den Landesregierungen übertragen und hierbei auch vorsehen, daß diese
-ihre Ermächtigung durch Rechtsverordnung auf die
-Landesjustizverwaltungen übertragen können.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Rahmen seiner Ermächtigung nach Satz 1 die Regelung weiterer
+Einzelheiten durch Rechtsverordnung den Landesregierungen übertragen
+und hierbei auch vorsehen, daß diese ihre Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen können.
 
 
 ### § 134a Datenübermittlung bei der Entwicklung von Verfahren zur Anlegung des Datenbankgrundbuchs
@@ -2278,12 +2450,9 @@ Landesjustizverwaltungen übertragen können.
 (1) Die Landesjustizverwaltungen können dem Entwickler eines
 automatisierten optischen Zeichen- und Inhaltserkennungsverfahrens
 (Migrationsprogramm) nach Maßgabe der Absätze 2 bis 5 Grundbuchdaten
-zur Verfügung stellen; im Übrigen gelten das Bundesdatenschutzgesetz
-und die Datenschutzgesetze der Länder. Das Migrationsprogramm soll bei
-der Einführung eines Grundbuchs, das in strukturierter Form mit
-logischer Verknüpfung der Inhalte geführt wird (Datenbankgrundbuch),
-die Umwandlung der Grundbuchdaten in voll strukturierte Eintragungen
-sowie deren Speicherung unterstützen.
+zur Verfügung stellen. Das Migrationsprogramm soll bei der Einführung
+eines Datenbankgrundbuchs die Umwandlung der Grundbuchdaten in voll
+strukturierte Eintragungen sowie deren Speicherung unterstützen.
 
 (2) Der Entwickler des Migrationsprogramms darf die ihm übermittelten
 Grundbuchdaten ausschließlich für die Entwicklung und den Test des
@@ -2440,11 +2609,11 @@ beglaubigte Urkunde nachzuweisen, so kann diese als ein mit einem
 einfachen elektronischen Zeugnis nach § 39a des Beurkundungsgesetzes
 versehenes elektronisches Dokument übermittelt werden. Der Nachweis
 kann auch durch die Übermittlung eines öffentlichen elektronischen
-Dokuments (§ 371a Absatz 2 Satz 1 der Zivilprozessordnung) geführt
+Dokuments (§ 371a Absatz 3 Satz 1 der Zivilprozessordnung) geführt
 werden, wenn
 
-1.  das Dokument mit einer qualifizierten elektronischen Signatur nach dem
-    Signaturgesetz versehen ist und
+1.  das Dokument mit einer qualifizierten elektronischen Signatur versehen
+    ist und
 
 
 2.  das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein
@@ -2466,7 +2635,7 @@ eine Eintragung vorgenommen werden soll, als elektronisches Dokument
 
 
 2.  das Dokument von der ausstellenden Person mit einer qualifizierten
-    elektronischen Signatur nach dem Signaturgesetz versehen sein und
+    elektronischen Signatur versehen sein und
 
 
 3.  das der Signatur zugrunde liegende qualifizierte Zertifikat oder ein
@@ -2479,8 +2648,7 @@ eine Eintragung vorgenommen werden soll, als elektronisches Dokument
 (3) Erklärungen, für die durch Rechtsvorschrift die Schriftform
 vorgeschrieben ist, können als elektronisches Dokument übermittelt
 werden, wenn dieses den Namen der ausstellenden Person enthält und mit
-einer qualifizierten elektronischen Signatur nach dem Signaturgesetz
-versehen ist.
+einer qualifizierten elektronischen Signatur versehen ist.
 
 (4) Eintragungsanträge sowie sonstige Erklärungen, die nicht den
 Formvorschriften der Absätze 1 bis 3 unterliegen, können als
@@ -2532,18 +2700,18 @@ Satz 2 genannten Urkunden beschränkt ist.
 
 ### § 140 Entscheidungen, Verfügungen und Mitteilungen
 
-(1) Wird die Grundakte elektronisch geführt, können Entscheidungen und
-Verfügungen in elektronischer Form erlassen werden. Sie sind von der
-ausstellenden Person mit ihrem Namen zu versehen, Beschlüsse und
-Zwischenverfügungen zusätzlich mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz. Die Landesregierungen werden
+(1) Wird die Grundakte vollständig oder teilweise elektronisch
+geführt, können Entscheidungen und Verfügungen in elektronischer Form
+erlassen werden. Sie sind von der ausstellenden Person mit ihrem Namen
+zu versehen, Beschlüsse und Zwischenverfügungen zusätzlich mit einer
+qualifizierten elektronischen Signatur. Die Landesregierungen werden
 ermächtigt, durch Rechtsverordnung den Zeitpunkt zu bestimmen, von dem
 an Entscheidungen und Verfügungen in elektronischer Form zu erlassen
 sind; die Anordnung kann auf einzelne Grundbuchämter beschränkt
 werden. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-(2) Den in § 174 Absatz 1 der Zivilprozessordnung genannten Empfängern
+(2) Den in § 173 Absatz 2 der Zivilprozessordnung genannten Empfängern
 können Entscheidungen, Verfügungen und Mitteilungen durch die
 Übermittlung elektronischer Dokumente bekannt gegeben werden. Im
 Übrigen ist die Übermittlung elektronischer Dokumente zulässig, wenn
@@ -2564,11 +2732,11 @@ elektronische Dokumente in Beschwerdeverfahren bleiben unberührt.
 Absatz 1 gilt nicht für den Vollzug von Grundbucheintragungen.
 
 
-### § 141 Ermächtigung des Bundesministeriums der Justiz
+### § 141 Ermächtigung des Bundesministeriums der Justiz und für Verbraucherschutz
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu
-erlassen über
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Vorschriften zu erlassen über
 
 1.  die Einzelheiten der technischen und organisatorischen Anforderungen
     an die Einrichtung des elektronischen Rechtsverkehrs und der
@@ -2577,7 +2745,7 @@ erlassen über
 
 
 2.  die Einzelheiten der Anlegung und Gestaltung der elektronischen
-    Grundakte sowie der Wiederherstellung des Grundakteninhalts,
+    Grundakte,
 
 
 3.  die Einzelheiten der Übertragung von in Papierform vorliegenden
@@ -2596,11 +2764,11 @@ erlassen über
 
 
 
-Das Bundesministerium der Justiz kann im Rahmen seiner Ermächtigung
-nach Satz 1 die Regelung weiterer Einzelheiten durch Rechtsverordnung
-den Landesregierungen übertragen und hierbei auch vorsehen, dass diese
-ihre Ermächtigung durch Rechtsverordnung auf die
-Landesjustizverwaltungen übertragen können.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Rahmen seiner Ermächtigung nach Satz 1 die Regelung weiterer
+Einzelheiten durch Rechtsverordnung den Landesregierungen übertragen
+und hierbei auch vorsehen, dass diese ihre Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen können.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
@@ -2630,6 +2798,11 @@ Behandlung von Bergbauberechtigungen.
 (3) Vereinigungen und Zuschreibungen zwischen Grundstücken und
 Rechten, für die nach Landesrecht die Vorschriften über Grundstücke
 gelten, sollen nicht vorgenommen werden.
+
+(4) § 15 Absatz 3 gilt nicht, soweit die zu einer Eintragung
+erforderlichen Erklärungen von einer gemäß § 68 des
+Beurkundungsgesetzes nach Landesrecht zuständigen Person oder Stelle
+öffentlich beglaubigt worden sind.
 
 
 ### § 144
@@ -2675,15 +2848,15 @@ von Amts wegen zu bewirken.
 
 ### § 148
 
-(1) Die Landesregierungen oder die von ihnen bestimmten obersten
-Landesbehörden können durch Rechtsverordnung allgemein oder für
-bestimmte Grundbücher das Verfahren zum Zwecke der Wiederherstellung
-eines ganz oder teilweise zerstörten oder abhanden gekommenen
-Grundbuchs sowie zum Zwecke der Wiederbeschaffung zerstörter oder
-abhanden gekommener Urkunden der in § 10 Abs. 1 bezeichneten Art
-bestimmen. Sie können dabei auch darüber bestimmen, in welcher Weise
-bis zur Wiederherstellung des Grundbuchs die zu einer Rechtsänderung
-erforderliche Eintragung ersetzt werden soll.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren zum Zwecke der Wiederherstellung eines ganz oder teilweise
+zerstörten oder abhandengekommenen Grundbuchs sowie das Verfahren zum
+Zwecke der Wiederbeschaffung zerstörter oder abhandengekommener
+Urkunden der in § 10 Absatz 1 bezeichneten Art zu bestimmen. Es kann
+dabei auch darüber bestimmen, in welcher Weise die zu einer
+Rechtsänderung erforderliche Eintragung bis zur Wiederherstellung des
+Grundbuchs ersetzt werden soll.
 
 (2) Ist die Vornahme von Eintragungen in das maschinell geführte
 Grundbuch (§ 126) vorübergehend nicht möglich, so können auf Anordnung
@@ -2735,21 +2908,15 @@ Achten Abschnitt bleiben unberührt.
 
 ### § 149
 
-(1) Die in Baden-Württemberg bestehenden landesrechtlichen
-Vorschriften über die Grundbuchämter und die Zuständigkeit der dort
-tätigen Personen sowie über die sich hieraus ergebenden Besonderheiten
-bleiben unberührt; dies gilt auch für die Vorschriften über die Zahl
-der erforderlichen Unterschriften unter den Grundbucheintragungen und
-auf den Hypotheken-, Grundschuld- und Rentenschuldbriefen sowie für
-Regelungen, die von den §§ 12c, 13 Abs. 3 und § 44 Abs. 1 Satz 2 und 3
-abweichen. Unberührt bleiben auch Artikel 1 Abs. 1 des Gesetzes über
-die Ermächtigung des Landes Baden-Württemberg zur Rechtsbereinigung
-vom 17. Dezember 1974 (BGBl. I S. 3602) sowie die §§ 35 und 36 des
-Rechtspflegergesetzes.
-
-(2) § 29 Abs. 1 und 3 der Grundbuchordnung gilt auch im Lande Baden-
-Württemberg in der Fassung, die für das übrige Bundesgebiet maßgebend
-ist.
+In Baden-Württemberg können die Gewährung von Einsicht in das
+maschinell geführte Grundbuch und in die elektronische Grundakte sowie
+die Erteilung von Ausdrucken hieraus im Wege der Organleihe auch bei
+den Gemeinden erfolgen. Zuständig ist der Ratschreiber, der mindestens
+die Befähigung zum mittleren Verwaltungs- oder Justizdienst haben
+muss. Er wird insoweit als Urkundsbeamter der Geschäftsstelle des
+Grundbuchamts tätig, in dessen Bezirk er bestellt ist. § 153 Absatz 5
+Satz 1 des Gerichtsverfassungsgesetzes gilt entsprechend. Das Nähere
+wird durch Landesgesetz geregelt.
 
 
 ### § 150
@@ -2858,12 +3025,12 @@ genannten Gebiet können bis zum Ablauf des 31. Dezember 1999 auch
 Personen mit der Vornahme von Amtshandlungen betraut werden, die
 diesen Ämtern auf Grund von Dienstleistungsverträgen auf Dauer oder
 vorübergehend zugeteilt werden. Der Zeitpunkt kann durch
-Rechtsverordnung des Bundesministeriums der Justiz mit Zustimmung des
-Bundesrates verlängert werden.
+Rechtsverordnung des Bundesministeriums der Justiz und für
+Verbraucherschutz mit Zustimmung des Bundesrates verlängert werden.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften zu
-erlassen über den Nachweis der Befugnis, über
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Vorschriften zu erlassen über den Nachweis der Befugnis, über
 
 1.  beschränkte dingliche Rechte an einem Grundstück, Gebäude oder
     sonstigen grundstücksgleichen Rechten,
@@ -2882,64 +3049,11 @@ kann bestimmt werden, dass § 39 nicht anzuwenden ist und dass es der
 Vorlage eines Hypotheken-, Grundschuld- oder Rentenschuldbriefes nicht
 bedarf.
 
-(6) § 134a tritt am 31. Dezember 2020 außer Kraft.
+(6) § 134a tritt am 31. Dezember 2024 außer Kraft.
 
 
-### Anlage (zu § 126 Abs. 1 Satz 2 Nr. 3)
+### § 151
 
-Werden personenbezogene Daten automatisiert verarbeitet, sind
-Maßnahmen zu treffen, die je nach Art der zu schützenden
-personenbezogenen Daten geeignet sind,
-
-1.  Unbefugten den Zugang zu Datenverarbeitungsanlagen, mit denen
-    personenbezogene Daten verarbeitet werden, zu verwehren
-    (Zugangskontrolle),
-
-
-2.  zu verhindern, daß Datenträger unbefugt gelesen, kopiert, verändert
-    oder entfernt werden können (Datenträgerkontrolle),
-
-
-3.  die unbefugte Eingabe in den Speicher sowie die unbefugte
-    Kenntnisnahme, Veränderung oder Löschung gespeicherter
-    personenbezogener Daten zu verhindern (Speicherkontrolle),
-
-
-4.  zu verhindern, daß Datenverarbeitungssysteme mit Hilfe von
-    Einrichtungen zur Datenübertragung von Unbefugten genutzt werden
-    können (Benutzerkontrolle),
-
-
-5.  zu gewährleisten, daß die zur Benutzung eines
-    Datenverarbeitungssystems Berechtigten ausschließlich auf die ihrer
-    Zugriffsberechtigung unterliegenden Daten zugreifen können
-    (Zugriffskontrolle),
-
-
-6.  zu gewährleisten, daß überprüft und festgestellt werden kann, an
-    welche Stellen personenbezogene Daten durch Einrichtungen zur
-    Datenübertragung übermittelt werden können (Übermittlungskontrolle),
-
-
-7.  zu gewährleisten, daß nachträglich überprüft und festgestellt werden
-    kann, welche personenbezogenen Daten zu welcher Zeit von wem in
-    Datenverarbeitungssysteme eingegeben worden sind (Eingabekontrolle),
-
-
-8.  zu gewährleisten, daß personenbezogene Daten, die im Auftrag
-    verarbeitet werden, nur entsprechend den Weisungen des Auftraggebers
-    verarbeitet werden können (Auftragskontrolle),
-
-
-9.  zu verhindern, daß bei der Übertragung personenbezogener Daten sowie
-    beim Transport von Datenträgern die Daten unbefugt gelesen, kopiert,
-    verändert oder gelöscht werden können (Transportkontrolle),
-
-
-10. die innerbehördliche oder innerbetriebliche Organisation so zu
-    gestalten, daß sie den besonderen Anforderungen des Datenschutzes
-    gerecht wird (Organisationskontrolle).
-
-
-
+Für Erklärungen, die bis einschließlich 8. Juni 2017 beurkundet oder
+beglaubigt wurden, findet § 15 Absatz 3 keine Anwendung.
 

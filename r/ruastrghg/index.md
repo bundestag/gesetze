@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 843
 
-Geändert durch
-:   Art. 8 G v. 21.6.2002 I 2144
+Zuletzt geändert durch
+:   Art. 5 G v. 17.7.2015 I 1349
 
 
 ## Eingangsformel
@@ -34,17 +34,37 @@ Nationen nach Kapitel VII der Charta der Vereinten Nationen
 beschlossenen Resolution 955 (1994) ergeben, nach Maßgabe dieses
 Gesetzes.
 
-(2) Im Sinne dieses Gesetzes bezeichnet das Wort "Gerichtshof" den
-durch Resolution 955 (1994) eingesetzten Internationalen
-Strafgerichtshof zur Verfolgung von Personen, die für schwere Verstöße
-gegen das humanitäre Völkerrecht verantwortlich sind, welche zwischen
-dem 1. Januar 1994 und dem 31. Dezember 1994 im Hoheitsgebiet von
-Ruanda begangen wurden, und zur Verfolgung von ruandischen
-Staatsangehörigen, die für Völkermord und andere derartige Verstöße
-verantwortlich sind, welche in demselben Zeitraum im Hoheitsgebiet von
-Nachbarstaaten begangen wurden, einschließlich seiner Kammern, seiner
-Anklagebehörde und der Angehörigen des Gerichts und der
-Anklagebehörde.
+(2) Gerichtshof im Sinne dieses Gesetzes ist
+
+1.  der durch Resolution 955 (1994) des Sicherheitsrats der Vereinten
+    Nationen vom 8. November 1994 eingesetzte Internationale
+    Strafgerichtshof
+
+    a)  zur Verfolgung von Personen, die für schwere Verstöße gegen das
+        humanitäre Völkerrecht verantwortlich sind, welche zwischen dem 1.
+        Januar 1994 und dem 31. Dezember 1994 im Hoheitsgebiet Ruandas
+        begangen wurden, und
+
+
+    b)  zur Verfolgung von ruandischen Staatsangehörigen, die für Völkermord
+        und andere derartige Verstöße verantwortlich sind, welche zwischen dem
+        1\. Januar 1994 und dem 31. Dezember 1994 im Hoheitsgebiet von
+        Nachbarstaaten Ruandas begangen wurden,
+
+
+
+    einschließlich seiner Kammern, seiner Anklagebehörde und der
+    Angehörigen des Gerichts und der Anklagebehörde, sowie
+
+
+2.  der durch Resolution 1966 (2010) des Sicherheitsrats der Vereinten
+    Nationen vom 22. Dezember 2010 eingesetzte Internationale
+    Residualmechanismus für die Ad-hoc-Strafgerichtshöfe, der die
+    verbliebenen Aufgaben des in Nummer 1 bezeichneten Internationalen
+    Strafgerichtshofs fortführt.
+
+
+
 
 
 ## § 2 Verhältnis zu nationalen Strafverfahren

@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über Gebühren für Personalausweise und den elektronischen Identitätsnachweis
+Title: Verordnung über Gebühren für Personalausweise und eID-Karten für Unionsbürger
+  und Angehörige des Europäischen Wirtschaftsraums
 jurabk: PAuswGebV
 layout: default
 origslug: pauswgebv
@@ -7,13 +8,16 @@ slug: pauswgebv
 
 ---
 
-# Verordnung über Gebühren für Personalausweise und den elektronischen Identitätsnachweis (PAuswGebV)
+# Verordnung über Gebühren für Personalausweise und eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums (PAuswGebV)
 
 Ausfertigungsdatum
 :   2010-11-01
 
 Fundstelle
 :   BGBl I: 2010, 1477
+
+Zuletzt geändert durch
+:   Art. 3 V v. 15.10.2020 I 2199
 
 
 ## Eingangsformel
@@ -33,15 +37,15 @@ zu erheben:
     Antragstellung noch nicht 24 Jahre alt ist,
 
 
-2.  28,80 Euro in allen anderen Fällen.
+2.  37 Euro in allen anderen Fällen.
 
 
 
 
-(2) Für die Ausstellung eines vorläufigen Personalausweises ist eine
-Gebühr von 10 Euro zu erheben. Wird neben dem Personalausweis auch ein
-vorläufiger Personalausweis beantragt, ist zusätzlich eine Gebühr nach
-Satz 1 zu erheben.
+(2) Für die Ausstellung eines vorläufigen Personalausweises oder eines
+Ersatz-Personalausweises ist eine Gebühr von 10 Euro zu erheben. Wird
+neben dem Personalausweis auch ein vorläufiger Personalausweis
+beantragt, ist zusätzlich eine Gebühr nach Satz 1 zu erheben.
 
 (3) Die Gebühren nach Absatz 1 und Absatz 2 Satz 1 sind um 13 Euro
 anzuheben, wenn die Amtshandlung vorgenommen wird auf Veranlassung der
@@ -54,6 +58,10 @@ antragstellenden Person
 
 
 
+Die Gebühr nach Absatz 1 ist um 30 Euro anzuheben, wenn die
+Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung
+einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat,
+vorgenommen wird.
 
 (4) Die Gebühr nach Absatz 1 ist ferner um 30 Euro anzuheben, wenn die
 Amtshandlung von einer konsularischen oder diplomatischen Vertretung
@@ -66,50 +74,25 @@ Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 wenn die Person, die die Gebühr schuldet, bedürftig ist.
 
 
-## § 2 Gebühren für den elektronischen Identitätsnachweis
+## § 1a Auslagen für Ausweise
 
-(1) Für die Einschaltung des elektronischen Identitätsnachweises ist
-eine Gebühr von 6 Euro zu erheben. Satz 1 gilt nicht, wenn der
-elektronische Identitätsnachweis bei Aushändigung des
-Personalausweises nach § 10 Absatz 1 Satz 1 des
-Personalausweisgesetzes eingeschaltet wird.
+Die Personalausweisbehörden lassen sich die Auslagen für den Versand
+des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 der
+Personalausweisverordnung erstatten.
 
-(2) Für die Einleitung der Neusetzung der Geheimnummer nach § 20
-Absatz 1 Satz 1 der Personalausweisverordnung ist eine Gebühr von 6
-Euro zu erheben. Sie ist nicht zu erheben, wenn sie mit einer
-gebührenpflichtigen Amtshandlung nach Absatz 1 zusammenfällt.
 
-(3) Für die Entsperrung eines elektronischen Identitätsnachweises nach
-§ 26 der Personalausweisverordnung ist eine Gebühr von 6 Euro zu
+## § 2 Gebühr für die eID-Karte
+
+Für die Ausstellung einer eID-Karte für Unionsbürger und Angehörige
+des Europäischen Wirtschaftsraums ist eine Gebühr von 37 Euro zu
 erheben.
 
-(4) Für die Gebühren nach Absatz 1 Satz 1 und Absatz 2 Satz 1 gilt § 1
-Absatz 3 entsprechend.
 
-(5) Die Gebühren nach Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3
-sind ferner um 6 Euro anzuheben, wenn die Amtshandlung von einer
-konsularischen oder diplomatischen Vertretung der Bundesrepublik
-Deutschland im Ausland vorgenommen wird.
+## § 2a Auslagen für eID-Karten
 
-(6) Gebührenfrei sind
-
-1.  die erstmalige Einschaltung des elektronischen Identitätsnachweises
-    nach Vollendung des 16. Lebensjahres,
-
-
-2.  die Ausschaltung des elektronischen Identitätsnachweises nach § 10
-    Absatz 1 Satz 3 des Personalausweisgesetzes,
-
-
-3.  die Sperrung eines elektronischen Identitätsnachweises nach § 25 der
-    Personalausweisverordnung und
-
-
-4.  die Änderung der Anschrift im elektronischen Speicher- und
-    Verarbeitungsmedium nach § 19 Absatz 2 der Personalausweisverordnung.
-
-
-
+Die eID-Karte-Behörden lassen sich die Auslagen für den Versand des
+Briefes in das Ausland nach § 17 Absatz 4 Satz 2 in Verbindung mit §
+36b der Personalausweisverordnung erstatten.
 
 
 ## § 3 Gebühren für Berechtigungen

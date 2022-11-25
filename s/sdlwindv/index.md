@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1734
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.7.2011 I 1634
+:   Art. 10 G v. 13.10.2016 I 2258
 
 
 ## Eingangsformel
@@ -33,13 +33,13 @@ Bundesregierung:
 
 Diese Verordnung regelt
 
-1.  die technischen und betrieblichen Vorgaben nach § 6 Absatz 5 des
+1.  die technischen und betrieblichen Vorgaben nach § 9 Absatz 6 des
     Erneuerbare-Energien-Gesetzes und
 
 
 2.  die Anforderungen an den Systemdienstleistungs-Bonus nach § 66 Absatz
-    1 Nummer 8 des Erneuerbare-Energien-Gesetzes und wie der Nachweis zu
-    führen ist.
+    1 Nummer 8 des Erneuerbare-Energien-Gesetzes in der am 31. Juli 2014
+    geltenden Fassung und wie der Nachweis zu führen ist.
 
 
 
@@ -50,23 +50,23 @@ Diese Verordnung regelt
 
 ### § 2 Anschluss an das Mittelspannungsnetz
 
-(1) Betreiberinnen und Betreiber von Windenergieanlagen nach § 29 und
-§ 30 des Erneuerbare-Energien-Gesetzes, die an das Mittelspannungsnetz
-angeschlossen werden, müssen am Netzverknüpfungspunkt einzeln oder
-gemeinsam mit anderen Anlagen oder durch zusätzliche technische oder
-betriebliche Einrichtungen die Anforderungen der technischen
-Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft
-„Erzeugungsanlagen am Mittelspannungsnetz“, Ausgabe Juni 2008
-(Mittelspannungsrichtlinie 2008) (BAnz. Nr. 67a vom 6. Mai 2009) in
-Verbindung mit „Regelungen und Übergangsfristen für bestimmte
-Anforderungen in Ergänzung zur technischen Richtlinie:
-Erzeugungsanlagen am Mittelspannungsnetz” , Stand 15. Februar 2011
-(Ergänzung vom 15. Februar 2011) (BAnz. Nr. 51 vom 31. März 2011, S.
-1189) erfüllen, soweit in dieser Verordnung nichts Abweichendes
-geregelt ist.
+(1) Betreiberinnen und Betreiber von Windenergieanlagen an Land nach §
+3 Nummer 48 des Erneuerbare-Energien-Gesetzes, die an das
+Mittelspannungsnetz angeschlossen werden, müssen am
+Netzverknüpfungspunkt einzeln oder gemeinsam mit anderen Anlagen oder
+durch zusätzliche technische oder betriebliche Einrichtungen die
+Anforderungen der technischen Richtlinie des Bundesverbandes der
+Energie- und Wasserwirtschaft „Erzeugungsanlagen am
+Mittelspannungsnetz“, Ausgabe Juni 2008 (Mittelspannungsrichtlinie
+2008) (BAnz. Nr. 67a vom 6. Mai 2009) in Verbindung mit „Regelungen
+und Übergangsfristen für bestimmte Anforderungen in Ergänzung zur
+technischen Richtlinie: Erzeugungsanlagen am Mittelspannungsnetz”,
+Stand 1. Januar 2013 (Ergänzung vom 1. Januar 2013) (BAnz AT
+12\.11.2014 B3) erfüllen, soweit in dieser Verordnung nichts
+Abweichendes geregelt ist.
 
 (2) Abschnitt 2.5.1.2 der Mittelspannungsrichtlinie 2008 in Verbindung
-mit der Ergänzung vom 15. Februar 2011 gilt mit der Maßgabe, dass
+mit der Ergänzung vom 1. Januar 2013 gilt mit der Maßgabe, dass
 während eines Netzfehlers die Netzspannung durch Einspeisung eines
 Blindstroms in das Netz gemäß Nummer II.12.d und Nummer II.12.e der
 Anlage 1 sichergestellt werden muss.
@@ -74,8 +74,8 @@ Anlage 1 sichergestellt werden muss.
 
 ### § 3 Anschluss an das Hoch- und Höchstspannungsnetz
 
-Betreiberinnen und Betreiber von Windenergieanlagen nach § 29 und § 30
-des Erneuerbare-Energien-Gesetzes, die an das Hoch- und
+Betreiberinnen und Betreiber von Windenergieanlagen an Land nach § 3
+Nummer 48 des Erneuerbare-Energien-Gesetzes, die an das Hoch- und
 Höchstspannungsnetz angeschlossen werden, müssen am
 Netzverknüpfungspunkt einzeln oder gemeinsam mit anderen Anlagen oder
 durch zusätzliche technische oder betriebliche Einrichtungen die
@@ -87,7 +87,7 @@ der Anlage 1 erfüllen.
 
 ### § 4 Anschluss verschiedener Anlagen an einem Netzverknüpfungspunkt
 
-Die technischen und betrieblichen Vorgaben nach § 6 Absatz 5 des
+Die technischen und betrieblichen Vorgaben nach § 9 Absatz 6 des
 Erneuerbare-Energien-Gesetzes gelten als erfüllt, wenn mehrere
 Windenergieanlagen an einen Netzverknüpfungspunkt angeschlossen
 werden, von denen mindestens eine bis zum 31. März 2011 in Betrieb
@@ -115,11 +115,11 @@ der folgenden Anforderungen erfüllt werden:
 Betreiberinnen und Betreiber derjenigen Windenergieanlagen, die nach
 dem 31. Dezember 2001 und vor dem 1. Januar 2009 in Betrieb genommen
 worden sind, haben Anspruch auf den Systemdienstleistungs-Bonus nach §
-66 Absatz 1 Nummer 8 des Erneuerbare-Energien-Gesetzes, wenn sie nach
-dem 31. Dezember 2011 und vor dem 1. Januar 2016 erstmals die in
-Anlage 3 festgelegten Anforderungen am Netzverknüpfungspunkt oder an
-einem anderen zwischen Netzverknüpfungspunkt und Windenergieanlage
-gelegenen Punkt erfüllen.
+66 Absatz 1 Nummer 8 des Erneuerbare-Energien-Gesetzes in der am 31.
+Juli 2014 geltenden Fassung, wenn sie nach dem 31. Dezember 2011 und
+vor dem 1. Januar 2016 erstmals die in Anlage 3 festgelegten
+Anforderungen am Netzverknüpfungspunkt oder an einem anderen zwischen
+Netzverknüpfungspunkt und Windenergieanlage gelegenen Punkt erfüllen.
 
 
 ## Teil 4 - Nachweis und Schlussbestimmungen
@@ -127,20 +127,20 @@ gelegenen Punkt erfüllen.
 
 ### § 6 Zertifikate, Sachverständigengutachten und Prototypen
 
-[^f772216_01_BJNR173400009BJNE000701360]
+[^f772216_01_BJNR173400009BJNE000704123]
 (1) Der Nachweis, dass die Voraussetzungen der §§ 2 bis 4 in
 Verbindung mit den Anlagen 1 und 2 am Netzverknüpfungspunkt
 eingehalten werden, ist durch die Vorlage von Einheitenzertifikaten
 nach dem Verfahren des Kapitels 6.1 der Mittelspannungsrichtlinie 2008
-in Verbindung mit der Ergänzung vom 15. Februar 2011 und durch das
+in Verbindung mit der Ergänzung vom 1. Januar 2013 und durch das
 Gutachten einer oder eines Sachverständigen zu erbringen. Treten bei
-der Berechnung nach Nummer 2.3 der Ergänzung vom 15. Februar 2011 mehr
+der Berechnung nach Nummer 2.6 der Ergänzung vom 1. Januar 2013 mehr
 als sechs Überschreitungen auf, gelten die Anforderungen dieser
 Verordnung solange als erfüllt, wie die für diesen Fall dort
 vorgesehenen Anforderungen eingehalten und dies nach dem dort
 beschriebenem Verfahren nachgewiesen wird. Für Anlagen im Sinne der
-Übergangsbestimmung des § 8 Absatz 1 gilt Nummer 2.3 der Ergänzung vom
-15\. Februar 2011 mit der Maßgabe, dass die Fristen nicht mit der
+Übergangsbestimmung des § 8 Absatz 1 gilt Nummer 2.6 der Ergänzung vom
+1\. Januar 2013 mit der Maßgabe, dass die Fristen nicht mit der
 Inbetriebsetzung der Anlage, sondern dem 1. April 2012 zu Laufen
 beginnen. Die Erstellung der Zertifikate und die Begutachtung müssen
 nach dem Stand der Technik durchgeführt werden. Zertifizierer müssen
@@ -156,30 +156,31 @@ entsprechend.
 (3) Ist eine Windenergieanlage ein Prototyp, so gelten die
 Anforderungen der §§ 2 bis 4 in Verbindung mit den Anlagen 1 und 2 in
 einem Zeitraum von zwei Jahren ab der Inbetriebnahme der Anlage für
-den Vergütungsanspruch nach § 16 Absatz 6 in Verbindung mit § 6 Nummer
-2 des Erneuerbare-Energien-Gesetzes als erfüllt. Abweichend von Absatz
-1 muss für den Prototyp der Nachweis, dass die Voraussetzungen der §§
-2 bis 4 in Verbindung mit den Anlagen 1 und 2 am Netzverknüpfungspunkt
-eingehalten werden, binnen zwei Jahren nach der Inbetriebnahme
-erbracht werden. Wird der Nachweis nach Satz 2 erbracht, gelten die
-Anforderungen dieser Verordnung als seit der Inbetriebnahme der Anlage
-erfüllt. Prototypen sind die erste Windenergieanlage eines Typs, der
-wesentliche technische Weiterentwicklungen oder Neuerungen aufweist,
-und alle weiteren Windenergieanlagen dieses Typs, die innerhalb von
-zwei Jahren nach der Inbetriebnahme der ersten Windenergieanlage
-dieses Typs in Betrieb genommen werden. Dass eine wesentliche
-technische Weiterentwicklung oder Neuerung vorliegt, muss durch einen
-Zertifizierer bestätigt werden.
+den Vergütungsanspruch nach § 52 Absatz 2 Nummer 1 in Verbindung mit §
+9 Absatz 6 des Erneuerbare-Energien-Gesetzes als erfüllt. Abweichend
+von Absatz 1 muss für den Prototyp der Nachweis, dass die
+Voraussetzungen der §§ 2 bis 4 in Verbindung mit den Anlagen 1 und 2
+am Netzverknüpfungspunkt eingehalten werden, binnen zwei Jahren nach
+der Inbetriebnahme erbracht werden. Wird der Nachweis nach Satz 2
+erbracht, gelten die Anforderungen dieser Verordnung als seit der
+Inbetriebnahme der Anlage erfüllt. Prototypen sind die erste
+Windenergieanlage eines Typs, der wesentliche technische
+Weiterentwicklungen oder Neuerungen aufweist, und alle weiteren
+Windenergieanlagen dieses Typs, die innerhalb von zwei Jahren nach der
+Inbetriebnahme der ersten Windenergieanlage dieses Typs in Betrieb
+genommen werden. Dass eine wesentliche technische Weiterentwicklung
+oder Neuerung vorliegt, muss durch einen Zertifizierer bestätigt
+werden.
 
     Zu beziehen bei der Beuth Verlag GmbH, Berlin, und beim Deutschen
     Patent- und Markenamt in München archiviert.
-[^f772216_01_BJNR173400009BJNE000701360]: 
+[^f772216_01_BJNR173400009BJNE000704123]: 
 
 ### § 7 Mehrere Windenergieanlagen
 
 Bei einem Anschluss mehrerer Windenergieanlagen an einen
 Netzverknüpfungspunkt gilt für die Zuordnung des
-Systemdienstleistungs-Bonus § 19 Absatz 3 des Erneuerbare-Energien-
+Systemdienstleistungs-Bonus § 24 Absatz 3 des Erneuerbare-Energien-
 Gesetzes entsprechend.
 
 
@@ -191,7 +192,13 @@ Juli 2009 (BGBl. I S. 1734) in der am 31. Dezember 2011 geltenden
 Fassung anzuwenden.
 
 (2) Absatz 1 ist nicht auf Anlagen im Sinne des § 66 Absatz 1 Nummer 8
-des Erneuerbare-Energien-Gesetzes anzuwenden.
+des Erneuerbare-Energien-Gesetzes in der am 31. Juli 2014 geltenden
+Fassung anzuwenden.
+
+(3) Für Strom aus Anlagen, die nach dem 31. Dezember 2011 und vor dem
+12\. Februar 2015 in Betrieb genommen worden sind, ist die
+Systemdienstleistungsverordnung vom 3. Juli 2009 (BGBl. I S. 1734) in
+der am 11. Februar 2015 geltenden Fassung anzuwenden.
 
 
 ### § 9 Inkrafttreten
@@ -1132,8 +1139,8 @@ Windenergie-Erzeugungseinheiten              besteht:
 
 3.  Ein Blindleistungs-Unterspannungsschutz (*                   ) muss
     vorhanden sein. Seine Einstellwerte werden gemäß
-    Mittelspannungsrichtlinie 2008 in Verbindung mit der Ergänzung vom 15.
-    Februar 2011 festgelegt.
+    Mittelspannungsrichtlinie 2008 in Verbindung mit der Ergänzung vom 1.
+    Januar 2013 festgelegt.
 
 
 4.  Eine Trennung vom Netz bei Frequenzen zwischen 47,5 Hz und 51,0 Hz ist

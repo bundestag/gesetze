@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2002, 2688
 
 Zuletzt geändert durch
-:   Art. 30 G v. 9.12.2010 I 1934
+:   Art. 405 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -82,10 +82,10 @@ Anwendung.
 
 ## § 4 Ermächtigung zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates, soweit dies zur Durchführung von in § 1
-genannten Rechtsakten erforderlich ist, Vorschriften zu erlassen
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
+soweit dies zur Durchführung von in § 1 genannten Rechtsakten
+erforderlich ist, Vorschriften zu erlassen
 
 1.  über das Verfahren zur Gewährung der Förderungen, insbesondere
     hinsichtlich einzuhaltender Fristen und der Benutzung von Mustern und

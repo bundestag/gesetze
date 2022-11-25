@@ -16,10 +16,19 @@ Fundstelle
 :   BGBl I: 1971, 1409
 
 Neugefasst durch
-:   Bek. v. 7.12.2010 I 1952, 2012 I 197
+:   Bek. v. 7.12.2010 I 1952; 2012 I 197;
 
 Zuletzt geändert durch
-:   Art. 31 G v. 20.12.2011 I 2854
+:   Art. 83 G v. 20.8.2021 I 3932
+
+Mittelbare änderung durch
+:   Art. 89 Nr. 9 G v. 20.8.2021 I 3932 ist berücksichtigt
+
+Änderung durch
+:   Art. 15 G v. 22.11.2021 I 4906 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung der inhaltsübersicht durch
+:   Art. 51 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat
 
 
 ## § 1 Grundsatz
@@ -60,10 +69,12 @@ nicht zur Verfügung stehen.
     Abendgymnasien und Kollegs,
 
 
-5.  Höheren Fachschulen und Akademien,
+5.  Höheren Fachschulen sowie von Akademien, die Abschlüsse verleihen, die
+    nicht nach Landesrecht Hochschulabschlüssen gleichgestellt sind,
 
 
-6.  Hochschulen.
+6.  Hochschulen sowie von Akademien, die Abschlüsse verleihen, die nach
+    Landesrecht Hochschulabschlüssen gleichgestellt sind.
 
 
 
@@ -89,7 +100,7 @@ Auszubildende nicht bei seinen Eltern wohnt und
 
 
 
-Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmen, dass über Satz 1 hinaus Ausbildungsförderung
 für den Besuch der in Absatz 1 Nummer 1 bezeichneten
 Ausbildungsstätten auch in Fällen geleistet wird, in denen die
@@ -97,7 +108,8 @@ Verweisung des Auszubildenden auf die Wohnung der Eltern aus
 schwerwiegenden sozialen Gründen unzumutbar ist.
 
 (2) Für den Besuch von Ergänzungsschulen und nichtstaatlichen
-Hochschulen wird Ausbildungsförderung nur geleistet, wenn die
+Hochschulen sowie von nichtstaatlichen Akademien im Sinne des Absatzes
+1 Satz 1 Nummer 6 wird Ausbildungsförderung nur geleistet, wenn die
 zuständige Landesbehörde anerkennt, dass der Besuch der
 Ausbildungsstätte dem Besuch einer in Absatz 1 bezeichneten
 Ausbildungsstätte gleichwertig ist. Die Prüfung der Gleichwertigkeit
@@ -105,7 +117,7 @@ nach Satz 1 erfolgt von Amts wegen im Rahmen des
 Bewilligungsverfahrens oder auf Antrag der Ausbildungsstätte.
 
 (3) Das Bundesministerium für Bildung und Forschung kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass
+Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass
 Ausbildungsförderung geleistet wird für den Besuch von
 
 1.  Ausbildungsstätten, die nicht in den Absätzen 1 und 2 bezeichnet sind,
@@ -255,22 +267,24 @@ gelegenen Ausbildungsstätte, wenn
 
 
 
-Bei Berufsfachschulen und Fachschulen gilt Satz 1 Nummer 1 nur, wenn
-der Besuch im Unterrichtsplan vorgeschrieben ist. Die Ausbildung muss
-mindestens sechs Monate oder ein Semester dauern; findet sie im Rahmen
-einer mit der besuchten Ausbildungsstätte vereinbarten Kooperation
-statt, muss sie mindestens zwölf Wochen dauern. Satz 1 Nummer 3 gilt
-für die in § 8 Absatz 1 Nummer 6 und 7, Absatz 2 und 3 bezeichneten
-Auszubildenden nur, wenn sie die Zugangsvoraussetzungen für die
-geförderte Ausbildung im Inland erworben haben oder eine
-Aufenthaltserlaubnis nach § 25 Absatz 1 und 2 des Aufenthaltsgesetzes
-besitzen.
+Die Ausbildung muss mindestens sechs Monate oder ein Semester dauern;
+findet sie im Rahmen einer mit der besuchten Ausbildungsstätte
+vereinbarten Kooperation statt, muss sie mindestens zwölf Wochen
+dauern. Satz 1 ist auf die in § 8 Absatz 1 Nummer 1 bis 5 bezeichneten
+Auszubildenden auch dann anzuwenden, wenn sie ihren ständigen Wohnsitz
+nicht im Inland haben, aber nach den besonderen Umständen des
+Einzelfalls ihre hinreichende Verbundenheit zum Inland anderweitig
+nachweisen. Satz 1 Nummer 3 gilt für die in § 8 Absatz 1 Nummer 6 und
+7, Absatz 2 und 3 bezeichneten Auszubildenden nur, wenn sie die
+Zugangsvoraussetzungen für die geförderte Ausbildung im Inland
+erworben haben oder eine Aufenthaltserlaubnis nach § 25 Absatz 1 und 2
+des Aufenthaltsgesetzes besitzen.
 
 (3) (weggefallen)
 
 (4) Absatz 2 Nummer 1 und 2 gilt nur für den Besuch von
 Ausbildungsstätten, der dem Besuch von folgenden im Inland gelegenen
-Ausbildungsstätten gleichwertig ist:
+Ausbildungsstätten nach § 2 gleichwertig ist:
 
 1.  Schulen mit gymnasialer Oberstufe ab Klasse 11,
 
@@ -279,10 +293,10 @@ Ausbildungsstätten gleichwertig ist:
     Hochschulzugangsberechtigung nach 12 Schuljahren erworben werden kann,
 
 
-3.  Berufsfachschulklassen nach § 2 Absatz 1 Nummer 2,
+3.  Berufsfachschulen,
 
 
-4.  mindestens zweijährigen Fach- und Fachoberschulklassen,
+4.  Fach- und Fachoberschulklassen,
 
 
 5.  Höheren Fachschulen, Akademien oder Hochschulen;
@@ -296,20 +310,17 @@ Gleichwertigkeit erfolgt von Amts wegen im Rahmen des
 Bewilligungsverfahrens.
 
 (5) Wird im Zusammenhang mit dem Besuch einer im Inland gelegenen
-Berufsfachschule nach § 2 Absatz 1 Nummer 2, einer mindestens
-zweijährigen Fachschulklasse, einer Höheren Fachschule, Akademie oder
-Hochschule oder mit dem nach Absatz 2 Satz 1 Nummer 3 geförderten
-Besuch einer in einem Mitgliedstaat der Europäischen Union gelegenen
-vergleichbaren Ausbildungsstätte ein Praktikum gefordert, so wird für
-die Teilnahme an einem Praktikum im Ausland Ausbildungsförderung nur
-geleistet, wenn die Ausbildungsstätte oder die zuständige
-Prüfungsstelle anerkennt, dass diese fachpraktische Ausbildung den
-Anforderungen der Prüfungsordnung an die Praktikantenstelle genügt;
-bei dem Besuch einer Berufsfachschule oder einer mindestens
-zweijährigen Fachschulklasse muss zudem nach deren Unterrichtsplan die
-Durchführung des Praktikums zwingend im Ausland vorgeschrieben sein.
-Das Praktikum im Ausland muss der Ausbildung nach dem Ausbildungsstand
-förderlich sein und mindestens zwölf Wochen dauern.
+Berufsfachschule, einer Fachschulklasse, einer Höheren Fachschule,
+Akademie oder Hochschule oder mit dem nach Absatz 2 Satz 1 Nummer 3
+geförderten Besuch einer in einem Mitgliedstaat der Europäischen Union
+gelegenen vergleichbaren Ausbildungsstätte ein Praktikum gefordert, so
+wird für die Teilnahme an einem Praktikum im Ausland
+Ausbildungsförderung nur geleistet, wenn die Ausbildungsstätte oder
+die zuständige Prüfungsstelle anerkennt, das diese fachpraktische
+Ausbildung den Anforderungen der Prüfungsordnung an die
+Praktikantenstelle genügt. Das Praktikum im Ausland muss der
+Ausbildung nach dem Ausbildungsstand förderlich sein und mindestens
+zwölf Wochen dauern.
 
 
 ### § 5a Unberücksichtigte Ausbildungszeiten
@@ -320,25 +331,25 @@ Ausland durchgeführt hat, längstens jedoch bis zu einem Jahr,
 unberücksichtigt. Wenn während einer Ausbildung, die im Inland
 begonnen wurde und nach § 5 Absatz 2 Nummer 1 im Ausland fortgesetzt
 wird, die Förderungshöchstdauer erreicht würde, verlängert sich diese
-um die bis zu diesem Zeitpunkt bereits im Ausland verbrachte
-Ausbildungszeit, höchstens jedoch um ein Jahr. Insgesamt bleibt nach
-den Sätzen 1 und 2 höchstens ein Jahr unberücksichtigt; dies gilt auch
-bei mehrfachem Wechsel zwischen In- und Ausland. Die Sätze 1 und 2
-gelten nicht, wenn der Auslandsaufenthalt in Ausbildungsbestimmungen
-als ein notwendig im Ausland durchzuführender Teil der Ausbildung
-vorgeschrieben ist.
+um die im Ausland verbrachte Ausbildungszeit, höchstens jedoch um ein
+Jahr. Insgesamt bleibt nach den Sätzen 1 und 2 höchstens ein Jahr
+unberücksichtigt; dies gilt auch bei mehrfachem Wechsel zwischen In-
+und Ausland. Die Sätze 1 und 2 gelten nicht, wenn der
+Auslandsaufenthalt in Ausbildungsbestimmungen als ein notwendig im
+Ausland durchzuführender Teil der Ausbildung vorgeschrieben ist.
 
 
 ### § 6 Förderung der Deutschen im Ausland
 
 Deutschen im Sinne des Grundgesetzes, die ihren ständigen Wohnsitz in
 einem ausländischen Staat haben und dort oder von dort aus in einem
-Nachbarstaat eine Ausbildungsstätte besuchen, kann
-Ausbildungsförderung geleistet werden, wenn die besonderen Umstände
-des Einzelfalles dies rechtfertigen. Art und Dauer der Leistungen
-sowie die Anrechnung des Einkommens und Vermögens richten sich nach
-den besonderen Verhältnissen im Aufenthaltsland. § 9 Absatz 1 und 2
-sowie § 48 sind entsprechend, die §§ 36 bis 38 sind nicht anzuwenden.
+Nachbarstaat eine Ausbildungsstätte besuchen, ohne dass ein Anspruch
+nach § 5 besteht, kann Ausbildungsförderung geleistet werden, wenn die
+besonderen Umstände des Einzelfalles dies rechtfertigen. Art und Dauer
+der Leistungen sowie die Anrechnung des Einkommens und Vermögens
+richten sich nach den besonderen Verhältnissen im Aufenthaltsland. § 9
+Absatz 1 und 2 sowie § 48 sind entsprechend, die §§ 36 bis 38 sind
+nicht anzuwenden.
 
 
 ### § 7 Erstausbildung, weitere Ausbildung
@@ -346,25 +357,26 @@ sowie § 48 sind entsprechend, die §§ 36 bis 38 sind nicht anzuwenden.
 (1) Ausbildungsförderung wird für die weiterführende allgemeinbildende
 und zumindest für drei Schul- oder Studienjahre berufsbildender
 Ausbildung im Sinne der §§ 2 und 3 bis zu einem daran anschließenden
-berufsqualifizierenden Abschluss geleistet. Berufsqualifizierend ist
-ein Ausbildungsabschluss auch dann, wenn er im Ausland erworben wurde
-und dort zur Berufsausübung befähigt. Satz 2 ist nicht anzuwenden,
-wenn der Auszubildende eine im Inland begonnene Ausbildung fortsetzt,
-nachdem er im Zusammenhang mit einer nach § 5 Absatz 2 Nummer 1 und 2
-dem Grunde nach förderungsfähigen Ausbildung einen
-berufsqualifizierenden Abschluss erworben hat.
+berufsqualifizierenden Abschluss geleistet, längstens bis zum Erwerb
+eines Hochschulabschlusses oder eines damit gleichgestellten
+Abschlusses. Berufsqualifizierend ist ein Ausbildungsabschluss auch
+dann, wenn er im Ausland erworben wurde und dort zur Berufsausübung
+befähigt. Satz 2 ist nicht anzuwenden, wenn der Auszubildende eine im
+Inland begonnene Ausbildung fortsetzt, nachdem er im Zusammenhang mit
+einer nach § 5 Absatz 2 Nummer 1 und 2 dem Grunde nach
+förderungsfähigen Ausbildung einen berufsqualifizierenden Abschluss
+erworben hat.
 
-(1a) Für einen Master- oder Magisterstudiengang im Sinne des § 19 des
-Hochschulrahmengesetzes oder für einen postgradualen Diplomstudiengang
-im Sinne des § 18 Absatz 1 Satz 1 bis 3 des Hochschulrahmengesetzes
-sowie für vergleichbare Studiengänge in Mitgliedstaaten der
-Europäischen Union und der Schweiz wird Ausbildungsförderung
-geleistet, wenn
+(1a) Für einen Master- oder Magisterstudiengang oder für einen
+postgradualen Diplomstudiengang sowie jeweils für vergleichbare
+Studiengänge in Mitgliedstaaten der Europäischen Union und der Schweiz
+wird Ausbildungsförderung geleistet, wenn
 
-1.  er auf einem Bachelor- oder Bakkalaureusstudiengang aufbaut oder im
+1.  er auf einem Bachelor- oder Bakkalaureusabschluss aufbaut oder im
     Rahmen einer Ausbildung nach § 5 Absatz 2 Nummer 1 oder 3 erfolgt und
     auf einem noch nicht abgeschlossenen einstufigen Inlandsstudium
-    aufbaut, das von der aufnehmenden Hochschule als einem
+    aufbaut, das von der aufnehmenden Hochschule oder der aufnehmenden
+    Akademie im Sinne des § 2 Absatz 1 Satz 1 Nummer 6 als einem
     Bachelorabschluss entsprechend anerkannt wird, und
 
 
@@ -376,8 +388,24 @@ geleistet, wenn
 
 
 Für nach Satz 1 förderungsfähige Ausbildungen findet Absatz 3 Satz 1
-Nummer 1 bei Ausbildungsabbrüchen und Fachrichtungswechseln nach dem
-31\. März 2001 keine Anwendung.
+Nummer 1 keine Anwendung. Auszubildenden, die von der
+Ausbildungsstätte auf Grund vorläufiger Zulassung für einen nach Satz
+1 förderungsfähigen Studiengang eingeschrieben worden sind, wird
+Ausbildungsförderung unter dem Vorbehalt der Rückforderung bis zu
+einer endgültigen Entscheidung über die Zulassung geleistet, längstens
+jedoch für zwölf Monate.
+
+(1b) Für einen Studiengang, der ganz oder teilweise mit einer
+staatlichen Prüfung abschließt (Staatsexamensstudiengang), wird
+Ausbildungsförderung auch geleistet, nachdem Auszubildende einen
+Bachelor- oder Bakkalaureusstudiengang abgeschlossen haben.
+Voraussetzung der Leistung ist, dass der Studiengang durch Studien-
+oder Prüfungsordnung in der Weise vollständig in den
+Staatsexamensstudiengang integriert ist, dass innerhalb der
+Regelstudienzeit des Bachelor- oder Bakkalaureusstudiengangs auch
+sämtliche Ausbildungs- und Prüfungsleistungen zu erbringen sind, die
+für den Staatsexamensstudiengang in der Studien- oder Prüfungsordnung
+für denselben Zeitraum vorgesehen sind.
 
 (2) Für eine einzige weitere Ausbildung wird Ausbildungsförderung
 längstens bis zu einem berufsqualifizierenden Abschluss geleistet,
@@ -404,9 +432,10 @@ längstens bis zu einem berufsqualifizierenden Abschluss geleistet,
 
 
     b)  die Zugangsvoraussetzungen für die zu fördernde weitere Ausbildung an
-        einer der in Buchstabe a genannten Ausbildungsstätten erworben hat,
-        auch durch eine Nichtschülerprüfung oder eine Zugangsprüfung zu einer
-        Hochschule, oder
+        einer in Buchstabe a genannten Ausbildungsstätte, durch eine
+        Nichtschülerprüfung oder durch eine Zugangsprüfung zu einer Hochschule
+        oder zu einer Akademie im Sinne des § 2 Absatz 1 Satz 1 Nummer 6
+        erworben hat oder
 
 
 
@@ -454,10 +483,7 @@ Semester abgezogen, die nach Entscheidung der Ausbildungsstätte aus
 der ursprünglich betriebenen Fachrichtung auf den neuen Studiengang
 angerechnet werden.
 
-(4) Für Auszubildende, die die abgebrochene Ausbildung oder die
-Ausbildung in der dem Fachrichtungswechsel vorausgegangenen
-Fachrichtung vor dem 1. August 1996 begonnen haben, findet Absatz 3
-Satz 1 in der am 31. Juli 1996 geltenden Fassung Anwendung.
+(4) (weggefallen)
 
 
 ## Abschnitt II - Persönliche Voraussetzungen
@@ -473,17 +499,18 @@ Satz 1 in der am 31. Juli 1996 geltenden Fassung Anwendung.
 
 2.  Unionsbürgern, die ein Recht auf Daueraufenthalt im Sinne des
     Freizügigkeitsgesetzes/EU besitzen sowie anderen Ausländern, die eine
-    Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-EG
+    Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt – EU
     nach dem Aufenthaltsgesetz besitzen,
 
 
-3.  Ehegatten oder Lebenspartnern und Kindern von Unionsbürgern, die unter
-    den Voraussetzungen des § 3 Absatz 1 und 4 des
-    Freizügigkeitsgesetzes/EU gemeinschaftsrechtlich
-    freizügigkeitsberechtigt sind oder denen diese Rechte als Kinder nur
-    deshalb nicht zustehen, weil sie 21 Jahre oder älter sind und von
-    ihren Eltern oder deren Ehegatten oder Lebenspartnern keinen Unterhalt
-    erhalten,
+3.  Unionsbürgern, die nach § 2 Absatz 2 des Freizügigkeitsgesetzes/EU als
+    Arbeitnehmer oder Selbständige unionsrechtlich
+    freizügigkeitsberechtigt sind, sowie deren Ehegatten, Lebenspartnern
+    und Kindern, die unter den Voraussetzungen des § 3 Absatz 1 und 3 des
+    Freizügigkeitsgesetzes/EU unionsrechtlich freizügigkeitsberechtigt
+    sind oder denen diese Rechte als Kinder nur deshalb nicht zustehen,
+    weil sie 21 Jahre oder älter sind und von ihren Eltern oder deren
+    Ehegatten oder Lebenspartnern keinen Unterhalt erhalten,
 
 
 4.  Unionsbürgern, die vor dem Beginn der Ausbildung im Inland in einem
@@ -515,18 +542,18 @@ Satz 1 in der am 31. Juli 1996 geltenden Fassung Anwendung.
 (2) Anderen Ausländern wird Ausbildungsförderung geleistet, wenn sie
 ihren ständigen Wohnsitz im Inland haben und
 
-1.  eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1 oder 2, den §§
-    23a, 25 Absatz 1 oder 2, den §§ 25a, 28, 37, 38 Absatz 1 Nummer 2, §
-    104a oder als Ehegatte oder Lebenspartner oder Kind eines Ausländers
-    mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach § 30 oder
-    den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
+1.  eine Aufenthaltserlaubnis nach den §§ 22, 23 Absatz 1, 2 oder 4, den
+    §§ 23a, 25 Absatz 1 oder 2, den §§ 25a, 25b, 28, 37, 38 Absatz 1
+    Nummer 2, § 104a oder als Ehegatte oder Lebenspartner oder Kind eines
+    Ausländers mit Niederlassungserlaubnis eine Aufenthaltserlaubnis nach
+    § 30 oder den §§ 32 bis 34 des Aufenthaltsgesetzes besitzen,
 
 
 2.  eine Aufenthaltserlaubnis nach § 25 Absatz 3, Absatz 4 Satz 2 oder
     Absatz 5, § 31 des Aufenthaltsgesetzes oder als Ehegatte oder
     Lebenspartner oder Kind eines Ausländers mit Aufenthaltserlaubnis eine
-    Aufenthaltserlaubnis nach § 30 oder den §§ 32 bis 34 des
-    Aufenthaltsgesetzes besitzen und sich seit mindestens vier Jahren in
+    Aufenthaltserlaubnis nach § 30, den §§ 32 bis 34 oder nach § 36a des
+    Aufenthaltsgesetzes besitzen und sich seit mindestens 15 Monaten in
     Deutschland ununterbrochen rechtmäßig, gestattet oder geduldet
     aufhalten.
 
@@ -535,7 +562,7 @@ ihren ständigen Wohnsitz im Inland haben und
 
 (2a) Geduldeten Ausländern (§ 60a des Aufenthaltsgesetzes), die ihren
 ständigen Wohnsitz im Inland haben, wird Ausbildungsförderung
-geleistet, wenn sie sich seit mindestens vier Jahren ununterbrochen
+geleistet, wenn sie sich seit mindestens 15 Monaten ununterbrochen
 rechtmäßig, gestattet oder geduldet im Bundesgebiet aufhalten.
 
 (3) Im Übrigen wird Ausländern Ausbildungsförderung geleistet, wenn
@@ -602,16 +629,15 @@ beantragt, das 30. Lebensjahr, bei Studiengängen nach § 7 Absatz 1a
 das 35. Lebensjahr vollendet hat. Satz 1 gilt nicht, wenn
 
 1.  der Auszubildende die Zugangsvoraussetzungen für die zu fördernde
-    Ausbildung in einer Fachoberschulklasse, deren Besuch eine
-    abgeschlossene Berufsausbildung voraussetzt, an einer
-    Abendhauptschule, einer Berufsaufbauschule, einer Abendrealschule,
-    einem Abendgymnasium, einem Kolleg oder durch eine Nichtschülerprüfung
-    oder eine Zugangsprüfung zu einer Hochschule erworben hat,
+    Ausbildung an einer in § 7 Absatz 2 Satz 1 Nummer 4 Buchstabe a
+    genannten Ausbildungsstätte, durch eine Nichtschülerprüfung oder durch
+    eine Zugangsprüfung zu einer Hochschule oder zu einer Akademie im
+    Sinne des § 2 Absatz 1 Satz 1 Nummer 6 erworben hat,
 
 
 1a. der Auszubildende ohne Hochschulzugangsberechtigung auf Grund seiner
-    beruflichen Qualifikation an einer Hochschule eingeschrieben worden
-    ist,
+    beruflichen Qualifikation an einer Hochschule oder an einer Akademie
+    im Sinne des § 2 Absatz 1 Satz 1 Nummer 6 eingeschrieben worden ist,
 
 
 1b. der Auszubildende eine weitere Ausbildung nach § 7 Absatz 2 Nummer 2
@@ -624,7 +650,7 @@ das 35. Lebensjahr vollendet hat. Satz 1 gilt nicht, wenn
 3.  Auszubildende aus persönlichen oder familiären Gründen gehindert
     waren, den Ausbildungsabschnitt rechtzeitig zu beginnen; dies ist
     insbesondere der Fall, wenn sie bei Erreichen der Altersgrenzen bis
-    zur Aufnahme der Ausbildung ein eigenes Kind unter zehn Jahren ohne
+    zur Aufnahme der Ausbildung ein eigenes Kind unter 14 Jahren ohne
     Unterbrechung erziehen und während dieser Zeit bis zu höchstens 30
     Wochenstunden im Monatsdurchschnitt erwerbstätig sind;
     Alleinerziehende dürfen auch mehr als 30 Wochenstunden erwerbstätig
@@ -660,10 +686,10 @@ Einkommen und Vermögen des Auszubildenden sowie Einkommen seines
 Ehegatten oder Lebenspartners und seiner Eltern in dieser Reihenfolge
 anzurechnen; die Anrechnung erfolgt zunächst auf den nach § 17 Absatz
 2 Satz 1 als Zuschuss und Darlehen, dann auf den nach § 17 Absatz 3
-als Bankdarlehen und anschließend auf den nach § 17 Absatz 1 als
-Zuschuss zu leistenden Teil des Bedarfs. Als Ehegatte oder
-Lebenspartner im Sinne dieses Gesetzes gilt der nicht dauernd
-Getrenntlebende, sofern dieses Gesetz nichts anderes bestimmt.
+als Darlehen und anschließend auf den nach § 17 Absatz 1 als Zuschuss
+zu leistenden Teil des Bedarfs. Als Ehegatte oder Lebenspartner im
+Sinne dieses Gesetzes gilt der nicht dauernd Getrenntlebende, sofern
+dieses Gesetz nichts anderes bestimmt.
 
 (2a) Einkommen der Eltern bleibt außer Betracht, wenn ihr
 Aufenthaltsort nicht bekannt ist oder sie rechtlich oder tatsächlich
@@ -713,12 +739,12 @@ oder ähnliche Leistungen aus öffentlichen Mitteln erhalten.
 (1) Als monatlicher Bedarf gelten für Schüler
 
 1.  von Berufsfachschulen und Fachschulklassen, deren Besuch eine
-    abgeschlossene Berufsausbildung nicht voraussetzt, 216 Euro,
+    abgeschlossene Berufsausbildung nicht voraussetzt, 247 Euro,
 
 
 2.  von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von
     Fachoberschulklassen, deren Besuch eine abgeschlossene
-    Berufsausbildung voraussetzt, 391 Euro.
+    Berufsausbildung voraussetzt, 448 Euro.
 
 
 
@@ -728,12 +754,12 @@ seinen Eltern wohnt, für Schüler
 
 1.  von weiterführenden allgemeinbildenden Schulen und Berufsfachschulen
     sowie von Fach- und Fachoberschulklassen, deren Besuch eine
-    abgeschlossene Berufsausbildung nicht voraussetzt, 465 Euro,
+    abgeschlossene Berufsausbildung nicht voraussetzt, 585 Euro,
 
 
 2.  von Abendhauptschulen, Berufsaufbauschulen, Abendrealschulen und von
     Fachoberschulklassen, deren Besuch eine abgeschlossene
-    Berufsausbildung voraussetzt, 543 Euro.
+    Berufsausbildung voraussetzt, 681 Euro.
 
 
 
@@ -756,10 +782,10 @@ und Rückreise geleistet werden.
 (1) Als monatlicher Bedarf gelten für Auszubildende in
 
 1.  Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung
-    voraussetzt, Abendgymnasien und Kollegs 348 Euro,
+    voraussetzt, Abendgymnasien und Kollegs 398 Euro,
 
 
-2.  Höheren Fachschulen, Akademien und Hochschulen 373 Euro.
+2.  Höheren Fachschulen, Akademien und Hochschulen 427 Euro.
 
 
 
@@ -767,10 +793,10 @@ und Rückreise geleistet werden.
 (2) Die Bedarfe nach Absatz 1 erhöhen sich für die Unterkunft, wenn
 der Auszubildende
 
-1.  bei seinen Eltern wohnt, um monatlich 49 Euro,
+1.  bei seinen Eltern wohnt, um monatlich 56 Euro,
 
 
-2.  nicht bei seinen Eltern wohnt, um monatlich 224 Euro.
+2.  nicht bei seinen Eltern wohnt, um monatlich 325 Euro.
 
 
 
@@ -783,51 +809,63 @@ von ihm bewohnte Raum im Eigentum der Eltern steht.
 (4) Bei einer Ausbildung im Ausland nach § 5 Absatz 2 wird, soweit die
 Lebens- und Ausbildungsverhältnisse im Ausbildungsland dies erfordern,
 bei dem Bedarf ein Zu- oder Abschlag vorgenommen, dessen Höhe die
-Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates
+Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates
 bestimmt.
 
 
 ### § 13a Kranken- und Pflegeversicherungszuschlag
 
-(1) Für Auszubildende, die ausschließlich beitragspflichtig versichert
-sind
+(1) Für Auszubildende, die in der gesetzlichen Krankenversicherung
+nach § 5 Absatz 1 Nummer 9 oder 10 des Fünften Buches Sozialgesetzbuch
+versichert sind, erhöht sich der Bedarf um 84 Euro monatlich für ihren
+Krankenversicherungsbeitrag. Für ihren Versicherungsbeitrag als
+Pflichtmitglied in der sozialen Pflegeversicherung nach § 20 Absatz 1
+Nummer 9 oder 10 des Elften Buches Sozialgesetzbuch erhöht sich der
+Bedarf um weitere 25 Euro monatlich. Für Auszubildende, die als
+freiwilliges Mitglied in der gesetzlichen Krankenversicherung
+beitragspflichtig versichert sind und deren Kranken- und
+Pflegeversicherungsbeiträge nach § 240 Absatz 4 Satz 2 des Fünften
+Buches Sozialgesetzbuch und § 57 Absatz 4 des Elften Buches
+Sozialgesetzbuch berechnet werden, gelten die Sätze 1 und 2
+entsprechend.
 
-1.  in der gesetzlichen Krankenversicherung nach § 5 Absatz 1 Nummer 9, 10
-    oder 13 des Fünften Buches Sozialgesetzbuch oder als freiwilliges
-    Mitglied oder
+(2) Für Auszubildende, die – außer in den Fällen des Absatzes 1 Satz 3
+– als freiwilliges Mitglied oder nach § 5 Absatz 1 Nummer 13 des
+Fünften Buches Sozialgesetzbuch in der gesetzlichen
+Krankenversicherung beitragspflichtig versichert sind, erhöht sich der
+Bedarf um die nachgewiesenen Krankenversicherungsbeiträge, höchstens
+aber um 155 Euro. Für ihren Versicherungsbeitrag als Pflichtmitglied
+in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 12 oder
+Absatz 3 des Elften Buches Sozialgesetzbuch – außer in den Fällen des
+Absatzes 1 Satz 3 – erhöht sich der Bedarf um die nachgewiesenen
+Pflegeversicherungsbeiträge, höchstens aber um weitere 34 Euro
+monatlich.
+
+(3) Für Auszubildende, die ausschließlich
+
+1.  beitragspflichtig bei einem privaten Krankenversicherungsunternehmen
+    versichert sind, das die in § 257 Absatz 2a Satz 1 des Fünften Buches
+    Sozialgesetzbuch genannten Voraussetzungen erfüllt, und
 
 
-2.  bei einem Krankenversicherungsunternehmen, das die in § 257 Absatz 2a
-    des Fünften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt,
-    und aus dieser Versicherung Leistungen beanspruchen können, die der
-    Art nach den Leistungen des Fünften Buches Sozialgesetzbuch mit
-    Ausnahme des Kranken- und Mutterschaftsgeldes entsprechen,
+2.  aus dieser Versicherung Leistungen beanspruchen können, die der Art
+    nach den Leistungen des Fünften Buches Sozialgesetzbuch mit Ausnahme
+    des Kranken- und Mutterschaftsgeldes entsprechen,
 
 
 
-erhöht sich der Bedarf um monatlich 62 Euro. Sind die in Satz 1 Nummer
-2 genannten Vertragsleistungen auf einen bestimmten Anteil der
+erhöht sich der Bedarf um 84 Euro monatlich. Sind die in Satz 1 Nummer
+2 genannten Leistungen auf einen bestimmten Anteil der
 erstattungsfähigen Kosten begrenzt, erhöht sich der Bedarf stattdessen
-um die nachgewiesenen Krankenversicherungskosten, höchstens aber um
-den in Satz 1 genannten Betrag. Von den nachgewiesenen Kosten werden
-nur neun Zehntel berücksichtigt, wenn die Vertragsleistungen auch
-gesondert berechenbare Unterkunft und wahlärztliche Leistungen bei
-stationärer Krankenhausbehandlung umfassen. Maßgebend sind die Kosten
-im Zeitpunkt der Antragstellung.
-
-(2) Für Auszubildende, die ausschließlich beitragspflichtig
-
-1.  in der sozialen Pflegeversicherung nach § 20 Absatz 1 Nummer 9, 10, 12
-    oder Absatz 3 des Elften Buches Sozialgesetzbuch oder
-
-
-2.  bei einem privaten Versicherungsunternehmen, das die in § 61 Absatz 6
-    des Elften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt,
-    nach § 23 des Elften Buches Sozialgesetzbuch
-
-
-
-versichert sind, erhöht sich der Bedarf um monatlich 11 Euro.
+um die nachgewiesenen Krankenversicherungsbeiträge, höchstens aber um
+den in Satz 1 genannten Betrag. Für Auszubildende, die nach § 23 des
+Elften Buches Sozialgesetzbuch beitragspflichtig bei einem privaten
+Versicherungsunternehmen versichert sind, das die in § 61 Absatz 5 des
+Elften Buches Sozialgesetzbuch genannten Voraussetzungen erfüllt,
+erhöht sich der Bedarf um weitere 25 Euro monatlich. Abweichend von
+den Sätzen 1 bis 3 gilt für Auszubildende, die die Altersgrenze des §
+5 Absatz 1 Nummer 9 oder Nummer 10 des Fünften Buches Sozialgesetzbuch
+überschreiten, Absatz 2 entsprechend.
 
 
 ### § 14 Bedarf für Praktikanten
@@ -840,7 +878,7 @@ entsprechend anzuwenden.
 
 ### § 14a Zusatzleistungen in Härtefällen
 
-Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmen, dass bei einer Ausbildung im Inland
 Ausbildungsförderung über die Beträge nach § 12 Absatz 1 und 2, § 13
 Absatz 1 und 2 sowie § 13a hinaus geleistet wird zur Deckung
@@ -883,12 +921,12 @@ werden über
 ### § 14b Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)
 
 (1) Für Auszubildende, die mit mindestens einem eigenen Kind, das das
-zehnte Lebensjahr noch nicht vollendet hat, in einem Haushalt leben,
-erhöht sich der Bedarf um monatlich 113 Euro für das erste und 85 Euro
-für jedes weitere dieser Kinder. Der Zuschlag wird für denselben
-Zeitraum nur einem Elternteil gewährt. Sind beide Elternteile nach
-diesem Gesetz dem Grunde nach förderungsfähig und leben in einem
-gemeinsamen Haushalt, bestimmen sie untereinander den Berechtigten.
+14\. Lebensjahr noch nicht vollendet hat, in einem Haushalt leben,
+erhöht sich der Bedarf um monatlich 150 Euro für jedes dieser Kinder.
+Der Zuschlag wird für denselben Zeitraum nur einem Elternteil gewährt.
+Sind beide Elternteile nach diesem Gesetz dem Grunde nach
+förderungsberechtigt und leben in einem gemeinsamen Haushalt,
+bestimmen sie untereinander den Berechtigten.
 
 (2) Der Zuschlag nach Absatz 1 bleibt als Einkommen bei
 Sozialleistungen unberücksichtigt. Für die Ermittlung eines
@@ -905,7 +943,8 @@ Antragsmonats an.
 
 (2) Ausbildungsförderung wird für die Dauer der Ausbildung –
 einschließlich der unterrichts- und vorlesungsfreien Zeit – geleistet,
-bei Studiengängen jedoch grundsätzlich nur bis zum Ende der
+bei Studiengängen an Hochschulen und an Akademien im Sinne des § 2
+Absatz 1 Satz 1 Nummer 6 jedoch grundsätzlich nur bis zum Ende der
 Förderungshöchstdauer nach § 15a. Für die Teilnahme an Einrichtungen
 des Fernunterrichts wird Ausbildungsförderung höchstens für 12
 Kalendermonate geleistet.
@@ -921,37 +960,57 @@ Zeit Ausbildungsförderung geleistet, wenn sie
 1.  aus schwerwiegenden Gründen,
 
 
-2.  (weggefallen)
+2.  infolge der in häuslicher Umgebung erfolgenden Pflege eines oder einer
+    pflegebedürftigen nahen Angehörigen im Sinne des § 7 Absatz 3 des
+    Pflegezeitgesetzes, der oder die nach den §§ 14 und 15 des Elften
+    Buches Sozialgesetzbuch – Soziale Pflegeversicherung – mindestens in
+    Pflegegrad 3 eingeordnet ist,
 
 
-3.  infolge einer Mitwirkung in gesetzlich vorgesehenen Gremien und
-    satzungsmäßigen Organen der Hochschulen und der Länder sowie in
-    satzungsmäßigen Organen der Selbstverwaltung der Studierenden an
-    diesen Ausbildungsstätten sowie der Studentenwerke,
+3.  infolge einer Mitwirkung in gesetzlich oder satzungsmäßig vorgesehenen
+    Gremien und Organen
+
+    a)  der Hochschulen und der Akademien im Sinne des § 2 Absatz 1 Satz 1
+        Nummer 6,
+
+
+    b)  der Selbstverwaltung der Studierenden an Ausbildungsstätten im Sinne
+        des Buchstabens a,
+
+
+    c)  der Studentenwerke und
+
+
+    d)  der Länder,
+
+
+
 
 
 4.  infolge des erstmaligen Nichtbestehens der Abschlussprüfung,
 
 
 5.  infolge einer Behinderung, einer Schwangerschaft oder der Pflege und
-    Erziehung eines Kindes bis zu zehn Jahren
+    Erziehung eines Kindes bis zu 14 Jahren
 
 
 
 überschritten worden ist.
 
-(3a) Auszubildenden an Hochschulen, die sich in einem in sich
-selbständigen Studiengang befinden, wird als Hilfe zum
-Studienabschluss für höchstens zwölf Monate Ausbildungsförderung auch
-nach dem Ende der Förderungshöchstdauer oder der Förderungsdauer nach
-Absatz 3 Nummer 1, 3 oder 5 geleistet, wenn der Auszubildende
-spätestens innerhalb von vier Semestern nach diesem Zeitpunkt zur
-Abschlussprüfung zugelassen worden ist und die Prüfungsstelle
-bescheinigt, dass er die Ausbildung innerhalb der Abschlusshilfedauer
-abschließen kann. Ist eine Abschlussprüfung nicht vorgesehen, gilt
-Satz 1 unter der Voraussetzung, dass der Auszubildende eine
-Bestätigung der Ausbildungsstätte darüber vorlegt, dass er die
-Ausbildung innerhalb der Abschlusshilfedauer abschließen kann.
+(3a) Auszubildenden an Hochschulen und an Akademien im Sinne des § 2
+Absatz 1 Satz 1 Nummer 6, die sich in einem in sich selbständigen
+Studiengang befinden, wird als Hilfe zum Studienabschluss für
+höchstens zwölf Monate Ausbildungsförderung auch nach dem Ende der
+Förderungshöchstdauer oder der Förderungsdauer nach Absatz 3 Nummer 1,
+3 oder 5 geleistet, wenn die Auszubildenden spätestens innerhalb von
+vier Semestern nach diesem Zeitpunkt zur Abschlussprüfung zugelassen
+worden sind und die Prüfungsstelle bescheinigt, dass sie die
+Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss
+abschließen können. Ist eine Abschlussprüfung nicht vorgesehen, gilt
+Satz 1 unter der Voraussetzung, dass die Auszubildenden eine
+Bestätigung der Ausbildungsstätte darüber vorlegen, dass sie die
+Ausbildung innerhalb der Dauer der Hilfe zum Studienabschluss
+abschließen können.
 
 
 ### § 15a Förderungshöchstdauer
@@ -1023,13 +1082,17 @@ anschließenden Ausbildung Ausbildungsförderung geleistet. Die beiden
 Kalendermonate sind in den folgenden Bewilligungszeitraum
 einzubeziehen.
 
-(3) Die Ausbildung endet mit dem Bestehen der Abschlussprüfung des
-Ausbildungsabschnitts oder, wenn eine solche nicht vorgesehen ist, mit
-der tatsächlichen planmäßigen Beendigung des Ausbildungsabschnitts.
-Abweichend von Satz 1 ist, sofern ein Prüfungs- oder Abgangszeugnis
-erteilt wird, das Datum dieses Zeugnisses maßgebend; für den Abschluss
-einer Hochschulausbildung ist stets der Zeitpunkt des letzten
-Prüfungsteils maßgebend.
+(3) Die Ausbildung endet mit dem Ablauf des Monats, in dem die
+Abschlussprüfung des Ausbildungsabschnitts bestanden wurde, oder, wenn
+eine solche nicht vorgesehen ist, mit dem Ablauf des Monats, in dem
+der Ausbildungsabschnitt tatsächlich planmäßig geendet hat. Abweichend
+von Satz 1 ist, sofern ein Prüfungs- oder Abgangszeugnis erteilt wird,
+das Datum dieses Zeugnisses maßgebend. Eine Hochschulausbildung ist
+abweichend von den Sätzen 1 und 2 mit Ablauf des Monats beendet, in
+dem das Gesamtergebnis des erfolgreich abgeschlossenen
+Ausbildungsabschnitts bekannt gegeben wird, spätestens jedoch mit
+Ablauf des zweiten Monats nach dem Monat, in dem der letzte
+Prüfungsteil abgelegt wurde.
 
 (4) Die Ausbildung ist ferner beendet, wenn der Auszubildende die
 Ausbildung abbricht (§ 7 Absatz 3 Satz 2) und sie nicht an einer
@@ -1053,10 +1116,7 @@ ist.
 
 (3) In den Fällen des § 5 Absatz 2 Nummer 2 und 3 wird
 Ausbildungsförderung ohne die zeitliche Begrenzung der Absätze 1 und 2
-geleistet, in den Fällen des § 5 Absatz 2 Nummer 3 jedoch nur dann
-über ein Jahr hinaus, wenn der Auszubildende bei Beginn eines nach dem
-31\. Dezember 2007 aufgenommenen Auslandsaufenthalts bereits seit
-mindestens drei Jahren seinen ständigen Wohnsitz im Inland hatte.
+geleistet.
 
 
 ### § 17 Förderungsarten
@@ -1068,9 +1128,7 @@ Zuschuss geleistet.
 sowie bei der Teilnahme an einem Praktikum, das im Zusammenhang mit
 dem Besuch dieser Ausbildungsstätten steht, wird der monatliche
 Förderungsbetrag vorbehaltlich des Absatzes 3 zur Hälfte als Darlehen
-geleistet, das für Ausbildungsabschnitte, die nach dem 28. Februar
-2001 beginnen, höchstens bis zu einem Gesamtbetrag von 10 000 Euro
-zurückzuzahlen ist. Satz 1 gilt nicht
+geleistet. Satz 1 gilt nicht
 
 1.  für den Zuschlag zum Bedarf nach § 13 Absatz 4 für nachweisbar
     notwendige Studiengebühren,
@@ -1088,10 +1146,9 @@ zurückzuzahlen ist. Satz 1 gilt nicht
 (3) Bei dem Besuch von Höheren Fachschulen, Akademien und Hochschulen
 sowie bei der Teilnahme an einem Praktikum, das im Zusammenhang mit
 dem Besuch dieser Ausbildungsstätten steht, erhält der Auszubildende
-Ausbildungsförderung als Bankdarlehen nach § 18c
+Ausbildungsförderung ausschließlich als Darlehen
 
-1.  für eine weitere Ausbildung nach § 7 Absatz 2 Nummer 2 und 3 sowie
-    Satz 2,
+1.  (weggefallen)
 
 
 2.  für eine andere Ausbildung nach § 7 Absatz 3, soweit die Semesterzahl
@@ -1115,69 +1172,134 @@ geleistet wird.
 
 ### § 18 Darlehensbedingungen
 
-(1) Für Darlehen, die nach § 17 Absatz 2 Satz 1 geleistet werden,
-gelten die Absätze 2 bis 6 sowie die §§ 18a und 18b.
+(1) Für
 
-(2) Das Darlehen ist nicht zu verzinsen. Abweichend von Satz 1 ist das
-Darlehen – vorbehaltlich des Gleichbleibens der Rechtslage – mit 6 vom
-Hundert für das Jahr zu verzinsen, wenn der Darlehensnehmer den
-Zahlungstermin um mehr als 45 Tage überschritten hat. Aufwendungen für
-die Geltendmachung der Darlehensforderung sind hierdurch nicht
-abgegolten.
+1.  nach § 17 Absatz 2 Satz 1 geleistete Darlehen gelten die Absätze 2 bis
+    14 und die §§ 18a und 18b,
 
-(3) Das Darlehen und die Zinsen nach der bis zum 31. März 1976
-geltenden Fassung des Absatzes 2 Nummer 1 sind – vorbehaltlich des
-Gleichbleibens der Rechtslage – in gleichbleibenden monatlichen Raten,
-mindestens solchen von 105 Euro innerhalb von 20 Jahren
-zurückzuzahlen. Für die Rückzahlung gelten alle nach Absatz 1 an einen
-Auszubildenden geleisteten Darlehensbeträge als ein Darlehen. Die
-erste Rate ist fünf Jahre nach dem Ende der Förderungshöchstdauer oder
-bei Ausbildungen an Akademien fünf Jahre nach dem Ende der in der
-Ausbildungs- und Prüfungsordnung vorgesehenen Ausbildungszeit des
-zuerst mit Darlehen geförderten Ausbildungs- oder Studienganges zu
-leisten. Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer
-auf Antrag freizustellen, solange er Leistungen nach diesem Gesetz
-erhält.
 
-(4) Nach Aufforderung durch das Bundesverwaltungsamt sind die Raten
+2.  nach § 17 Absatz 3 Satz 1 geleistete Darlehen gelten die Absätze 2 bis
+    12, 14 und § 18a.
+
+
+
+
+(2) Die Darlehen sind nicht zu verzinsen. Wenn Darlehensnehmende einen
+Zahlungstermin um mehr als 45 Tage überschritten haben, ist abweichend
+von Satz 1 jeweils der gesamte bis zu diesem Zeitpunkt noch nicht
+getilgte Betrag, höchstens jedoch der nach Maßgabe des Absatzes 13
+Satz 1 zu tilgende Rückzahlungsbetrag – vorbehaltlich des
+Gleichbleibens der Rechtslage – mit 6 vom Hundert für das Jahr zu
+verzinsen. Für nach § 17 Absatz 3 Satz 1 geleistete Darlehen gilt die
+Pflicht zur Verzinsung für den gesamten noch zu tilgenden
+Rückzahlungsbetrag. Kosten für die Geltendmachung der
+Darlehensforderung sind durch die Verzinsung nicht abgegolten.
+
+(3) Die Darlehen sind – vorbehaltlich des Gleichbleibens der
+Rechtslage – in gleichbleibenden monatlichen Raten von mindestens 130
+Euro innerhalb von 20 Jahren zurückzuzahlen. Für die Rückzahlung
+gelten als ein Darlehen jeweils alle nach § 17 Absatz 2 Satz 1 und
+alle nach § 17 Absatz 3 Satz 1 geleisteten Darlehen. Von der
+Verpflichtung zur Rückzahlung sind Darlehensnehmende auf Antrag
+freizustellen, solange sie Leistungen nach diesem Gesetz erhalten.
+
+(4) Für die Tilgung des nach § 17 Absatz 2 Satz 1 geleisteten
+Darlehens ist die erste Rate
+
+1.  bei einer Ausbildung an einer Hochschule oder an einer Akademie im
+    Sinne des § 2 Absatz 1 Satz 1 Nummer 6 fünf Jahre nach dem Ende der
+    Förderungshöchstdauer,
+
+
+2.  bei einer Ausbildung an einer Höheren Fachschule oder an einer
+    Akademie im Sinne des § 2 Absatz 1 Satz 1 Nummer 5 fünf Jahre nach dem
+    Ende der in der Ausbildungs- und Prüfungsordnung vorgesehenen
+    Ausbildungszeit
+
+
+
+zu zahlen. Maßgeblich ist jeweils der zuletzt mit Darlehen geförderte
+Ausbildungs- oder Studiengang. Wurden Darlehensbeträge nach § 17
+Absatz 2 Satz 1 in mehreren Ausbildungsabschnitten geleistet, ist
+jeweils das Ende derjenigen Förderungshöchstdauer oder vorgesehenen
+Ausbildungszeit maßgeblich, die für den ersten Ausbildungsabschnitt
+zuletzt gegolten hat.
+
+(5) Wurden ausschließlich nach § 17 Absatz 3 Satz 1 Darlehen
+geleistet, so ist die erste Rate drei Jahre nach dem Ende der
+Förderungshöchstdauer oder der vorgesehenen Ausbildungszeit zu zahlen.
+
+(6) Wurden sowohl nach § 17 Absatz 2 Satz 1 als auch nach § 17 Absatz
+3 Satz 1 Darlehen geleistet, ist zunächst das nach § 17 Absatz 2 Satz
+1 geleistete Darlehen zurückzuzahlen. Die erste Rate des nach § 17
+Absatz 3 Satz 1 geleisteten Darlehens ist in diesem Fall in dem Monat
+zu leisten, der auf die Fälligkeit der letzten Rate des nach § 17
+Absatz 2 Satz 1 geleisteten Darlehens folgt.
+
+(7) Nach Aufforderung durch das Bundesverwaltungsamt sind die Raten
 für jeweils drei aufeinanderfolgende Monate in einer Summe zu
 entrichten.
 
-(5) Die Zinsen nach Absatz 2 sind sofort fällig.
+(8) Die Zinsen nach Absatz 2 sind sofort fällig.
 
-(5a) Nach dem Ende der Förderungshöchstdauer erteilt das
-Bundesverwaltungsamt dem Darlehensnehmer – unbeschadet der Fälligkeit
-nach Absatz 3 Satz 3 – einen Bescheid, in dem die Höhe der
-Darlehensschuld und die Förderungshöchstdauer festgestellt werden.
-Eine Überprüfung dieser Feststellungen findet nach Eintritt der
-Unanfechtbarkeit des Bescheides nicht mehr statt; insbesondere gelten
-die Vorschriften des § 44 des Zehnten Buches Sozialgesetzbuch nicht.
-Ist ein Darlehensbetrag für ein Kalenderjahr geleistet worden, auf das
+(9) Nach dem Ende der Förderungshöchstdauer erteilt das
+Bundesverwaltungsamt den Darlehensnehmenden – unbeschadet der
+Fälligkeit nach den Absätzen 4 bis 6 – jeweils einen Bescheid, in dem
+die Höhe der Darlehensschuld und die Förderungshöchstdauer
+festgestellt werden. Nach Eintritt der Unanfechtbarkeit des Bescheides
+sind diese Feststellungen nicht mehr zu überprüfen; insbesondere
+gelten die Vorschriften des § 44 des Zehnten Buches Sozialgesetzbuch
+nicht. Ist für ein Kalenderjahr ein Betrag geleistet worden, auf das
 sich die Feststellung der Höhe der Darlehensschuld nach Satz 1 nicht
 erstreckt, so wird diese insoweit durch einen ergänzenden Bescheid
 festgestellt; Satz 2 gilt entsprechend.
 
-(5b) Das Darlehen kann ganz oder teilweise vorzeitig zurückgezahlt
-werden. Wird ein Darlehen vorzeitig getilgt, so ist auf Antrag ein
-Nachlass von der Darlehens-(rest)schuld zu gewähren.
+(10) Die nach § 17 Absatz 2 Satz 1 oder Absatz 3 Satz 1 geleisteten
+Darlehen können jeweils ganz oder teilweise vorzeitig zurückgezahlt
+werden. Auf Antrag ist ein Nachlass auf die verbleibende
+Darlehensschuld zu gewähren.
 
-(5c) Mit dem Tod des Darlehensnehmers erlischt die
-Darlehens(rest)schuld, soweit sie noch nicht fällig ist.
+(11) Mit dem Tod der Darlehensnehmenden erlischt die verbliebene
+Darlehensschuld einschließlich etwaiger Kosten und Zinsen.
 
-(6) Das Bundesministerium für Bildung und Forschung bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
+(12) Darlehensnehmenden, die während des Rückzahlungszeitraums nach
+Absatz 3 Satz 1 ihren Zahlungs- und Mitwirkungspflichten jeweils
+rechtzeitig und vollständig nachgekommen sind, ist die verbleibende
+Darlehensschuld zu erlassen. Sind die Voraussetzungen des Satzes 1
+nicht erfüllt, ist dies durch Bescheid festzustellen. Auf Antrag kann
+zur Vermeidung einer unbilligen Härte die verbleibende Darlehensschuld
+auch dann erlassen werden, wenn im Rückzahlungsverfahren in nur
+geringfügigem Umfang gegen die Zahlungs- und Mitwirkungspflichten
+verstoßen wurde. Der Antrag nach Satz 3 ist binnen eines Monats nach
+Bekanntgabe eines ablehnenden Bescheids nach Satz 2 zu stellen.
 
-1.  Beginn und Ende der Verzinsung sowie den Verzicht auf Zinsen aus
-    besonderen Gründen,
+(13) Bereits vor Ablauf der nach Absatz 3 je nach Höhe der
+Darlehensschuld planmäßigen Rückzahlungsdauer ist Darlehensnehmenden,
+die Tilgungsleistungen in 77 monatlichen Raten in jeweils der nach
+Absatz 3 geschuldeten Höhe erbracht haben, die noch verbleibende
+Darlehensschuld zu erlassen. Für Zeiträume, in denen eine Freistellung
+nach § 18a Absatz 1 mit verminderter Ratenzahlung gewährt wurde,
+genügen für einen Erlass nach Satz 1 Tilgungsleistungen jeweils in
+Höhe der vom Bundesverwaltungsamt zugleich festgesetzten verminderten
+Rückzahlungsraten; Absatz 10 bleibt unberührt.
+
+(14) Das Bundesministerium für Bildung und Forschung kann durch
+Rechtsverordnung ohne Zustimmung des Bundesrates für die Aufgaben
+gemäß § 39 Absatz 2 das Nähere bestimmen über
+
+1.  den Beginn und das Ende der Verzinsung sowie den Verzicht auf Zinsen
+    aus besonderen Gründen,
 
 
-2.  die Verwaltung und Einziehung der Darlehen – einschließlich der
-    Maßnahmen zur Sicherung der Rückzahlungsansprüche – sowie ihre
-    Rückleitung an Bund und Länder und über
+2.  das Verfahren zur Verwaltung und Einziehung der Darlehen –
+    einschließlich der erforderlichen Nachweise oder der Zulässigkeit des
+    Glaubhaftmachens mittels der Versicherung an Eides statt sowie der
+    Maßnahmen zur Sicherung der Rückzahlungsansprüche – sowie zur
+    Rückleitung der eingezogenen Beträge an Bund und Länder und
 
 
-3.  die pauschale Erhebung der Kosten für die Ermittlung der Anschrift des
-    Darlehensnehmers und für das Mahnverfahren.
+3.  die Erhebung von Kostenpauschalen für die Ermittlung der jeweiligen
+    Anschrift der Darlehensnehmenden und für das Mahnverfahren.
 
 
 
@@ -1185,28 +1307,33 @@ Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
 
 ### § 18a Einkommensabhängige Rückzahlung
 
-(1) Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer auf
-Antrag freizustellen, soweit sein Einkommen monatlich den Betrag von 1
-070 Euro nicht übersteigt. Der in Satz 1 bezeichnete Betrag erhöht
-sich für
+(1) Auf Antrag sind Darlehensnehmende während der Rückzahlungsfrist
+des § 18 Absatz 3 Satz 1 bis spätestens zu deren Ablauf von der
+Verpflichtung zur Rückzahlung freizustellen, soweit ihr Einkommen
+monatlich jeweils den Betrag von 1 330 Euro nicht um mindestens 42
+Euro übersteigt. Der in Satz 1 bezeichnete Betrag erhöht sich für
 
-1.  den Ehegatten oder Lebenspartner um 535 Euro
+1.  Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner um 665
+    Euro,
 
 
-2.  jedes Kind des Darlehensnehmers um 485 Euro
+2.  jedes Kind der Darlehensnehmenden um 605 Euro,
 
 
 
 wenn sie nicht in einer Ausbildung stehen, die nach diesem Gesetz oder
 nach § 56 des Dritten Buches Sozialgesetzbuch gefördert werden kann.
-Die Beträge nach Satz 2 mindern sich um das Einkommen des Ehegatten
-oder Lebenspartners und des Kindes. Als Kinder des Darlehensnehmers
-gelten außer seinen eigenen Kindern die in § 25 Absatz 5 Nummer 1 bis
-3 bezeichneten Personen. § 47 Absatz 4 und 5 gilt entsprechend. Auf
-besonderen Antrag erhöht sich der in Satz 1 bezeichnete Betrag
+Die Beträge nach Satz 2 mindern sich um das Einkommen der
+Ehegattinnen, Ehegatten, Lebenspartnerinnen oder Lebenspartner und
+Kinder. Als Kinder gelten insoweit außer eigenen Kindern der
+Darlehensnehmenden die in § 25 Absatz 5 Nummer 1 bis 3 bezeichneten
+Personen. § 47 Absatz 4 und 5 gilt entsprechend.
 
-1.  bei Behinderten um den Betrag der behinderungsbedingten Aufwendungen
-    entsprechend § 33b des Einkommensteuergesetzes,
+(2) Auf besonderen Antrag erhöht sich der in Absatz 1 Satz 1
+bezeichnete Betrag
+
+1.  bei behinderten Menschen um den Betrag der behinderungsbedingten
+    Aufwendungen entsprechend § 33b des Einkommensteuergesetzes,
 
 
 2.  bei Alleinstehenden um den Betrag der notwendigen Aufwendungen für die
@@ -1218,27 +1345,23 @@ besonderen Antrag erhöht sich der in Satz 1 bezeichnete Betrag
 
 
 
-(2) Auf den Antrag nach Absatz 1 Satz 1 erfolgt die Freistellung vom
+(3) Auf den Antrag nach Absatz 1 Satz 1 erfolgt die Freistellung vom
 Beginn des Antragsmonats an in der Regel für ein Jahr, rückwirkend
 erfolgt sie für längstens vier Monate vor dem Antragsmonat
 (Freistellungszeitraum). Das im Antragsmonat erzielte Einkommen gilt
-vorbehaltlich des Absatzes 3 als monatliches Einkommen für alle Monate
-des Freistellungszeitraums. Der Darlehensnehmer hat das Vorliegen der
-Freistellungsvoraussetzungen glaubhaft zu machen.
+vorbehaltlich des Absatzes 4 als monatliches Einkommen für alle Monate
+des Freistellungszeitraums. Die Darlehensnehmenden haben das Vorliegen
+der Freistellungsvoraussetzungen nachzuweisen, soweit nicht durch
+Rechtsverordnung auf Grund des § 18 Absatz 14 Nummer 2 etwas
+Abweichendes geregelt ist. Soweit eine Glaubhaftmachung mittels der
+Versicherung an Eides statt zugelassen ist, ist das
+Bundesverwaltungsamt für die Abnahme derselben zuständig.
 
-(3) Ändert sich ein für die Freistellung maßgeblicher Umstand nach der
+(4) Ändert sich ein für die Freistellung maßgeblicher Umstand nach der
 Antragstellung, so wird der Bescheid vom Beginn des Monats an
 geändert, in dem die Änderung eingetreten ist. Nicht als Änderung im
 Sinne des Satzes 1 gelten Regelanpassungen gesetzlicher Renten und
 Versorgungsbezüge.
-
-(4) (weggefallen)
-
-(5) Der Ablauf der Frist von 20 Jahren nach § 18 Absatz 3 wird,
-höchstens jedoch bis zu 10 Jahren, durch Zeiten gehemmt, in denen der
-Darlehensnehmer von der Rückzahlungspflicht freigestellt worden ist.
-Dies gilt nicht, soweit das Darlehen nach § 18b Absatz 5 in der bis
-zum 31. Dezember 2009 geltenden Fassung erlassen worden ist.
 
 
 ### § 18b Teilerlass des Darlehens
@@ -1266,7 +1389,7 @@ Ausbildungsabschnitt geleisteten Darlehensbetrag
 
 
 die Abschlussprüfung bestanden wurde. Der Antrag ist innerhalb eines
-Monats nach Bekanntgabe des Bescheids nach § 18 Absatz 5a zu stellen.
+Monats nach Bekanntgabe des Bescheids nach § 18 Absatz 9 zu stellen.
 Abweichend von Satz 1 erhalten Auszubildende, die zu den ersten 30 vom
 Hundert der Geförderten gehören, unter den dort genannten
 Voraussetzungen den Erlass
@@ -1304,11 +1427,11 @@ Abschlussprüfung 20 vom Hundert beträgt.
 (3) Beendet der Auszubildende bis zum 31. Dezember 2012 die Ausbildung
 vier Monate vor dem Ende der Förderungshöchstdauer mit dem Bestehen
 der Abschlussprüfung oder, wenn eine solche nicht vorgesehen ist, nach
-den Ausbildungsvorschriften planmäßig, so werden auf seinen Antrag 2
-560 Euro des Darlehens erlassen. Beträgt der in Satz 1 genannte
+den Ausbildungsvorschriften planmäßig, so werden auf seinen Antrag
+2 560 Euro des Darlehens erlassen. Beträgt der in Satz 1 genannte
 Zeitraum nur zwei Monate, werden 1 025 Euro erlassen. Der Antrag ist
 innerhalb eines Monats nach Bekanntgabe des Bescheides nach § 18
-Absatz 5a zu stellen.
+Absatz 9 zu stellen.
 
 (4) Ist für eine Ausbildung eine Mindestausbildungszeit im Sinne von
 Absatz 5 festgelegt und liegen zwischen deren Ende und dem Ende der
@@ -1318,7 +1441,7 @@ Ablauf der Mindestausbildungszeit beendet wurde. Der Erlass nach
 Absatz 3 Satz 2 wird auf Antrag auch gewährt, wenn die
 Mindestausbildungszeit um höchstens zwei Monate überschritten wurde.
 Der Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheides
-nach § 18 Absatz 5a zu stellen. Ist der Bescheid vor dem 21. Juni 2011
+nach § 18 Absatz 9 zu stellen. Ist der Bescheid vor dem 21. Juni 2011
 nicht bestandskräftig oder rechtskräftig geworden, aber vor dem 13.
 Dezember 2011 bekannt gegeben worden, ist der Antrag bis zum 13.
 Januar 2012 zu stellen.
@@ -1344,7 +1467,7 @@ Teilerlasses nach Absatz 3 vor dem 21. Juni 2011 bestandskräftig oder
 rechtskräftig entschieden worden ist.
 
 (6) Das Bundesministerium für Bildung und Forschung bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über das
+Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über das
 Verfahren, insbesondere über die Mitwirkung der Prüfungsstellen. Diese
 sind zur Auskunft und Mitwirkung verpflichtet, soweit dies für die
 Durchführung dieses Gesetzes erforderlich ist.
@@ -1352,12 +1475,13 @@ Durchführung dieses Gesetzes erforderlich ist.
 
 ### § 18c Bankdarlehen
 
-(1) Die Kreditanstalt für Wiederaufbau schließt in den Fällen des § 17
-Absatz 3 mit dem Auszubildenden auf dessen Antrag einen
-privatrechtlichen Darlehensvertrag über die im Bewilligungsbescheid
-genannte Darlehenssumme nach Maßgabe der Absätze 2 bis 11. Der
-Auszubildende und die Kreditanstalt für Wiederaufbau können von den
-Absätzen 2 bis 11 abweichende Darlehensbedingungen vereinbaren.
+(1) Bankdarlehen der Kreditanstalt für Wiederaufbau für
+Förderungsleistungen im Sinne des § 17 Absatz 3 Satz 1 in der am 31.
+Juli 2019 geltenden Fassung sind nach Maßgabe der Absätze 1a bis 11
+zurückzuzahlen.
+
+(1a) Auszubildende und die Kreditanstalt für Wiederaufbau können von
+den Absätzen 2 bis 11 abweichende Darlehensbedingungen vereinbaren.
 
 (2) Das Bankdarlehen nach Absatz 1 ist von der Auszahlung an zu
 verzinsen. Bis zum Beginn der Rückzahlung werden die Zinsen gestundet.
@@ -1383,28 +1507,31 @@ Gleichbleibens der Rechtslage – der Zinssatz für
 Bankschuldverschreibungen mit entsprechender Laufzeit, zuzüglich eines
 Aufschlags von eins vom Hundert.
 
-(5) § 18 Absatz 3 Satz 2 und 4 und Absatz 5c ist entsprechend
-anzuwenden.
+(5) § 18 Absatz 3 Satz 3 und Absatz 11 ist entsprechend anzuwenden.
+Für die Rückzahlung gelten alle nach § 17 Absatz 3 Satz 1 in der am
+31\. Juli 2019 geltenden Fassung geleisteten Darlehen als ein Darlehen.
 
 (6) Das Bankdarlehen ist einschließlich der Zinsen – vorbehaltlich des
 Gleichbleibens der Rechtslage – in möglichst gleichbleibenden
-monatlichen Raten von mindestens 105 Euro innerhalb von 20 Jahren
+monatlichen Raten von mindestens 130 Euro innerhalb von 20 Jahren
 zurückzuzahlen. Die erste Rate ist 18 Monate nach dem Ende des Monats,
 für den der Auszubildende zuletzt mit Bankdarlehen gefördert worden
 ist, zu zahlen.
 
-(7) Hat der Darlehensnehmer Darlehen nach § 18 Absatz 1 und Absatz 1
-erhalten, ist deren Rückzahlung so aufeinander abzustimmen, dass
-Darlehen nach Absatz 1 vor denen nach § 18 Absatz 1 und beide Darlehen
-einschließlich der Zinsen in möglichst gleichbleibenden monatlichen
-Raten von – vorbehaltlich des Gleichbleibens der Rechtslage –
-mindestens 105 Euro innerhalb von 22 Jahren zurückzuzahlen sind. Die
-erste Rate des Darlehens nach § 18 Absatz 1 ist in dem Monat zu
-leisten, der auf die Fälligkeit der letzten Rate des Darlehens nach
-Absatz 1 folgt. Wird das Darlehen nach Absatz 1 vor diesem Zeitpunkt
-getilgt, ist die erste Rate des Darlehens nach § 18 Absatz 1 am Ende
-des Monats zu leisten, der auf den Monat der Tilgung folgt. § 18
-Absatz 3 Satz 3 bleibt unberührt.
+(7) Hat jemand ein in Absatz 1 bezeichnetes Darlehen und ein in § 18
+Absatz 1 Nummer 1 bezeichnetes Darlehen erhalten, ist deren
+Rückzahlung so aufeinander abzustimmen, dass ein in Absatz 1
+bezeichnetes Darlehen vor einem in § 18 Absatz 1 Nummer 1 bezeichneten
+Darlehen und beide Darlehen einschließlich der Zinsen in möglichst
+gleichbleibenden monatlichen Raten von – vorbehaltlich des
+Gleichbleibens der Rechtslage – mindestens 130 Euro innerhalb von 22
+Jahren zurückzuzahlen sind. Die erste Rate des in § 18 Absatz 1 Nummer
+1 bezeichneten Darlehens ist in dem Monat zu leisten, der auf die
+Fälligkeit der letzten Rate des in Absatz 1 bezeichneten Darlehens
+folgt. Wird das in Absatz 1 bezeichnete Darlehen vor diesem Zeitpunkt
+getilgt, ist die erste Rate des in § 18 Absatz 1 Nummer 1 bezeichneten
+Darlehens am Ende des Monats zu leisten, der auf den Monat der Tilgung
+folgt. § 18 Absatz 4 bleibt unberührt.
 
 (8) Vor Beginn der Rückzahlung teilt die Kreditanstalt für
 Wiederaufbau dem Darlehensnehmer – unbeschadet der Fälligkeit nach
@@ -1453,7 +1580,7 @@ Mit der Zahlung nach Satz 1 geht der Anspruch aus dem Darlehensvertrag
 auf den Bund über.
 
 (11) Das Bundesministerium für Bildung und Forschung bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
+Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über die
 Anpassung der Höhe der Aufschläge nach den Absätzen 3 und 4 an die
 tatsächlichen Kosten.
 
@@ -1467,7 +1594,7 @@ verwaltet und eingezogen.
 (2) Der Kreditanstalt für Wiederaufbau werden erstattet:
 
 1.  die Darlehensbeträge, die in entsprechender Anwendung von § 18 Absatz
-    5c erlöschen, und
+    11 erlöschen, und
 
 
 2.  die Darlehens- und Zinsbeträge nach § 18c Absatz 10 Satz 1.
@@ -1481,12 +1608,13 @@ für die Verwaltung der nach § 18c Absatz 10 auf den Bund
 den Darlehensnehmern getragen werden.
 
 (4) Die Kreditanstalt für Wiederaufbau übermittelt den Ländern nach
-Ablauf eines Kalenderjahres eine Aufstellung über die Höhe der nach
-Absatz 1 für den Bund eingezogenen Beträge und Zinsen sowie über deren
-Aufteilung nach Maßgabe des § 56 Absatz 2a. Sie zahlt zum Ende des
-jeweiligen Kalenderjahres jedem Land einen Abschlag in Höhe des ihm
-voraussichtlich zustehenden Betrages, bis zum 30. Juni des folgenden
-Jahres den Restbetrag.
+Ablauf eines Kalenderjahres eine Aufstellung sowohl über die Höhe der
+nach Absatz 1 für den Bund eingezogenen Beträge und Zinsen aus den
+Darlehen, deren Erstattung nach Absatz 2 sie bis zum 31. Dezember 2014
+verlangt hat, als auch über deren Aufteilung nach Maßgabe des § 56
+Absatz 2a. Sie zahlt zum Ende des jeweiligen Kalenderjahres jedem Land
+einen Abschlag in Höhe des ihm voraussichtlich zustehenden Betrages,
+bis zum 30. Juni des folgenden Jahres den Restbetrag.
 
 
 ### § 19 Aufrechnung
@@ -1544,21 +1672,17 @@ aus einem von ihm zu vertretenden Grund unterbrochen hat. Die Regelung
 
 ### § 21 Einkommensbegriff
 
-(1) Als Einkommen gilt – vorbehaltlich der Sätze 3 und 4, der Absätze
-2a, 3 und 4 – die Summe der positiven Einkünfte im Sinne des § 2
-Absatz 1 und 2 des Einkommensteuergesetzes. Ein Ausgleich mit
-Verlusten aus anderen Einkunftsarten und mit Verlusten des
-zusammenveranlagten Ehegatten ist nicht zulässig. Abgezogen werden
+(1) Als Einkommen gilt – vorbehaltlich des Satzes 3, der Absätze 2a, 3
+und 4 – die Summe der positiven Einkünfte im Sinne des § 2 Absatz 1
+und 2 des Einkommensteuergesetzes. Ein Ausgleich mit Verlusten aus
+anderen Einkunftsarten und mit Verlusten des zusammenveranlagten
+Ehegatten oder Lebenspartners ist nicht zulässig. Abgezogen werden
 können:
 
 1.  der Altersentlastungsbetrag (§ 24a des Einkommensteuergesetzes),
 
 
-2.  die Beträge, die für ein selbstgenutztes Einfamilienhaus oder eine
-    selbstgenutzte Eigentumswohnung als Sonderausgaben nach § 10e oder §
-    10i des Einkommensteuergesetzes berücksichtigt werden; diese Beträge
-    können auch von der Summe der positiven Einkünfte des nicht dauernd
-    getrennt lebenden Ehegatten oder Lebenspartners abgezogen werden,
+2.  (weggefallen)
 
 
 3.  die für den Berechnungszeitraum zu leistende Einkommensteuer,
@@ -1578,40 +1702,35 @@ können:
 
 
 
-Der Abzug nach Satz 3 Nummer 2 ist bei miteinander verheirateten oder
-in einer Lebenspartnerschaft verbundenen Eltern, wenn sie nicht
-dauernd getrennt leben, nur für ein Objekt zulässig; bei der
-Ermittlung des Einkommens des Auszubildenden, des Darlehensnehmers
-sowie deren Ehegatten oder Lebenspartner ist er nicht zulässig.
 Leibrenten, einschließlich Unfallrenten, und Versorgungsrenten gelten
 in vollem Umfang als Einnahmen aus nichtselbständiger Arbeit.
 
 (2) Zur Abgeltung der Abzüge nach Absatz 1 Nummer 4 wird von der – um
-die Beträge nach Absatz 1 Nummer 1 und 2 und Absatz 4 Nummer 4
-geminderten – Summe der positiven Einkünfte ein Betrag in Höhe
-folgender Vomhundertsätze dieses Gesamtbetrages abgesetzt:
+die Beträge nach Absatz 1 Nummer 1 und Absatz 4 Nummer 4 geminderten –
+Summe der positiven Einkünfte ein Betrag in Höhe folgender
+Vomhundertsätze dieses Gesamtbetrages abgesetzt:
 
 1.  für rentenversicherungspflichtige Arbeitnehmer und für Auszubildende
-    21,3 vom Hundert, höchstens jedoch ein Betrag von jährlich 12 100
+    21,3 vom Hundert, höchstens jedoch ein Betrag von jährlich 14 600
     Euro,
 
 
 2.  für nichtrentenversicherungspflichtige Arbeitnehmer und für Personen
     im Ruhestandsalter, die einen Anspruch auf Alterssicherung aus einer
     renten- oder nichtrentenversicherungspflichtigen Beschäftigung oder
-    Tätigkeit haben, 14,4 vom Hundert, höchstens jedoch ein Betrag von
-    jährlich 6 300 Euro,
+    Tätigkeit haben, 15,5 vom Hundert, höchstens jedoch ein Betrag von
+    jährlich 8 500 Euro,
 
 
 3.  für Nichtarbeitnehmer und auf Antrag von der Versicherungspflicht
     befreite oder wegen geringfügiger Beschäftigung versicherungsfreie
-    Arbeitnehmer 37,3 vom Hundert, höchstens jedoch ein Betrag von
-    jährlich 20 900 Euro,
+    Arbeitnehmer 37,7 vom Hundert, höchstens jedoch ein Betrag von
+    jährlich 25 500 Euro,
 
 
 4.  für Personen im Ruhestandsalter, soweit sie nicht erwerbstätig sind,
-    und für sonstige Nichterwerbstätige 14,4 vom Hundert, höchstens jedoch
-    ein Betrag von jährlich 6 300 Euro.
+    und für sonstige Nichterwerbstätige 15,5 vom Hundert, höchstens jedoch
+    ein Betrag von jährlich 8 500 Euro.
 
 
 
@@ -1655,7 +1774,7 @@ Beträge
     mit Ausnahme der Unterhaltsleistungen der Eltern des Auszubildenden
     und seines Ehegatten oder Lebenspartners, soweit sie das
     Bundesministerium für Bildung und Forschung in einer Rechtsverordnung
-    mit Zustimmung des Bundesrates bezeichnet hat.
+    ohne Zustimmung des Bundesrates bezeichnet hat.
 
 
 
@@ -1684,7 +1803,15 @@ des Bundesversorgungsgesetzes), gilt als Einkommen des Kindes.
 4.  Einnahmen, deren Zweckbestimmung einer Anrechnung auf den Bedarf
     entgegensteht; dies gilt insbesondere für Einnahmen, die für einen
     anderen Zweck als für die Deckung des Bedarfs im Sinne dieses Gesetzes
-    bestimmt sind.
+    bestimmt sind,
+
+
+5.  zusätzliche Einnahmen aus einer Tätigkeit der Antragstellenden in
+    systemrelevanten Branchen und Berufen, soweit die Tätigkeit zur
+    Bekämpfung der COVID-19-Pandemie und deren sozialen Folgen seit dem 1.
+    März 2020 aufgenommen oder in ihrem arbeitszeitlichen Umfang
+    aufgestockt wurde, für die Dauer dieser Tätigkeit oder
+    Arbeitszeitaufstockung.
 
 
 
@@ -1722,13 +1849,13 @@ des Einkommens
 
 (1) Vom Einkommen des Auszubildenden bleiben monatlich anrechnungsfrei
 
-1.  für den Auszubildenden selbst 255 Euro,
+1.  für den Auszubildenden selbst 290 Euro,
 
 
-2.  für den Ehegatten oder Lebenspartner des Auszubildenden 535 Euro,
+2.  für den Ehegatten oder Lebenspartner des Auszubildenden 665 Euro,
 
 
-3.  für jedes Kind des Auszubildenden 485 Euro.
+3.  für jedes Kind des Auszubildenden 605 Euro.
 
 
 
@@ -1750,8 +1877,8 @@ den Absätzen 1 und 2 voll angerechnet.
 (4) Abweichend von Absatz 1 werden
 
 1.  von der Waisenrente und dem Waisengeld der Auszubildenden, deren
-    Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 170 Euro,
-    anderer Auszubildender 125 Euro monatlich nicht angerechnet,
+    Bedarf sich nach § 12 Absatz 1 Nummer 1 bemisst, monatlich 210 Euro,
+    anderer Auszubildender 150 Euro monatlich nicht angerechnet,
 
 
 2.  Ausbildungsbeihilfen und gleichartige Leistungen aus öffentlichen
@@ -1782,7 +1909,7 @@ vor dem Ende des Bewilligungszeitraums zu stellen ist, abweichend von
 den Absätzen 1 und 4 ein weiterer Teil des Einkommens des
 Auszubildenden anrechnungsfrei gestellt werden, soweit er zur Deckung
 besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den
-Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 205
+Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 305
 Euro monatlich.
 
 
@@ -1829,12 +1956,12 @@ Kalenderjahreseinkommens.
 
 1.  vom Einkommen der miteinander verheirateten oder in einer
     Lebenspartnerschaft verbundenen Eltern, wenn sie nicht dauernd
-    getrennt leben, 1 605 Euro,
+    getrennt leben, 2 000 Euro,
 
 
 2.  vom Einkommen jedes Elternteils in sonstigen Fällen sowie vom
-    Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je 1
-    070 Euro.
+    Einkommen des Ehegatten oder Lebenspartners des Auszubildenden je
+    1 330 Euro.
 
 
 
@@ -1844,12 +1971,12 @@ Kalenderjahreseinkommens.
 (3) Die Freibeträge des Absatzes 1 erhöhen sich
 
 1.  für den nicht in Eltern-Kind-Beziehung zum Auszubildenden stehenden
-    Ehegatten oder Lebenspartner des Einkommensbeziehers um 535 Euro,
+    Ehegatten oder Lebenspartner des Einkommensbeziehers um 665 Euro,
 
 
 2.  für Kinder des Einkommensbeziehers sowie für weitere dem
     Einkommensbezieher gegenüber nach dem bürgerlichen Recht
-    Unterhaltsberechtigte um je 485 Euro,
+    Unterhaltsberechtigte um je 605 Euro,
 
 
 
@@ -1932,14 +2059,8 @@ rechtlichen Gründen nicht verwerten kann.
 
 2.  Übergangsbeihilfen nach den §§ 12 und 13 des
     Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 21.
-    April 1983 (BGBl. I S. 457) sowie nach § 13 Absatz 1 Satz 1 des
-    Bundespolizeibeamtengesetzes in der Fassung des Artikels 1 des
-    Gesetzes über die Personalstruktur des Bundesgrenzschutzes vom 3. Juni
-    1976 (BGBl. I S. 1357), geändert durch § 94 des Gesetzes vom 24.
-    August 1976 (BGBl. I S. 2485), in Verbindung mit § 18 dieses Gesetzes
-    in der bis zum 30. Juni 1976 geltenden Fassung, und die
-    Wiedereingliederungsbeihilfe nach § 4 Absatz 1 Nummer 2 des
-    Entwicklungshelfer-Gesetzes,
+    April 1983 (BGBl. I S. 457) sowie die Wiedereingliederungsbeihilfe
+    nach § 4 Absatz 1 Nummer 2 des Entwicklungshelfer-Gesetzes,
 
 
 3.  Nießbrauchsrechte,
@@ -1978,13 +2099,13 @@ Bewilligungszeitraums bleiben unberücksichtigt.
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
 
-1.  für den Auszubildenden selbst 5 200 Euro,
+1.  für den Auszubildenden selbst 8 200 Euro,
 
 
-2.  für den Ehegatten oder Lebenspartner des Auszubildenden 1 800 Euro,
+2.  für den Ehegatten oder Lebenspartner des Auszubildenden 2 300 Euro,
 
 
-3.  für jedes Kind des Auszubildenden 1 800 Euro.
+3.  für jedes Kind des Auszubildenden 2 300 Euro.
 
 
 
@@ -2022,7 +2143,8 @@ Entwicklung der Einkommensverhältnisse und der Vermögensbildung, den
 Veränderungen der Lebenshaltungskosten sowie der
 finanzwirtschaftlichen Entwicklung Rechnung zu tragen. Die
 Bundesregierung hat hierüber dem Deutschen Bundestag und dem Bundesrat
-zu berichten.
+zu berichten. Die im Jahr 2019 anstehende Berichterstattung erfolgt im
+Jahr 2021.
 
 
 ## Abschnitt VII - Vorausleistung und Anspruchsübergang
@@ -2043,7 +2165,7 @@ berücksichtigt.
 (2) Absatz 1 ist entsprechend anzuwenden, wenn
 
 1.  der Auszubildende glaubhaft macht, dass seine Eltern den Bedarf nach
-    den §§ 12 bis 14a nicht leisten, und die Eltern entgegen § 47 Absatz 4
+    den §§ 12 bis 14b nicht leisten, und die Eltern entgegen § 47 Absatz 4
     die für die Anrechnung ihres Einkommens erforderlichen Auskünfte nicht
     erteilen oder Urkunden nicht vorlegen und darum ihr Einkommen nicht
     angerechnet werden kann, und wenn
@@ -2148,10 +2270,10 @@ Regelungen (Programmablaufplan) regeln.
 
 (1) Die Länder errichten für jeden Kreis und jede kreisfreie Stadt ein
 Amt für Ausbildungsförderung. Die Länder können für mehrere Kreise
-und/oder kreisfreie Städte ein gemeinsames Amt für
-Ausbildungsförderung errichten. Im Land Berlin können mehrere Ämter
-für Ausbildungsförderung errichtet werden. In den Ländern Berlin,
-Bremen und Hamburg kann davon abgesehen werden, Ämter für
+oder kreisfreie Städte ein gemeinsames Amt für Ausbildungsförderung
+errichten. Im Land Berlin können mehrere Ämter für
+Ausbildungsförderung errichtet werden. In den Ländern Berlin, Bremen
+und Hamburg kann davon abgesehen werden, Ämter für
 Ausbildungsförderung zu errichten.
 
 (2) Für Auszubildende, die eine im Inland gelegene Hochschule
@@ -2165,7 +2287,7 @@ Ausbildungsförderung ein Studentenwerk zur Durchführung seiner
 Aufgaben heranzieht. Ein Studentenwerk kann Amt für
 Ausbildungsförderung nur sein, wenn
 
-1.  es eine Anstalt des öffentlichen Rechts ist und
+1.  es eine Anstalt oder Stiftung des öffentlichen Rechts ist und
 
 
 2.  ein Bediensteter die Befähigung zu einem Richteramt nach dem Deutschen
@@ -2198,10 +2320,7 @@ zentrale Verwaltungsstellen herangezogen werden.
 
 (2) Es trifft die zur Entscheidung über den Antrag erforderlichen
 Feststellungen, entscheidet über den Antrag und erlässt den Bescheid
-hierüber. Es wirkt bei Abschluss der Darlehensverträge der
-Auszubildenden mit der Kreditanstalt für Wiederaufbau durch
-Entgegennahme und Übermittlung der für die Durchführung dieses
-Gesetzes erforderlichen Daten und Willenserklärungen mit.
+hierüber.
 
 (3) Das Amt für Ausbildungsförderung hat die Auszubildenden und ihre
 Eltern über die individuelle Förderung der Ausbildung nach bundes- und
@@ -2239,7 +2358,7 @@ sind unverzüglich zu löschen.
 ### § 44 Beirat für Ausbildungsförderung
 
 (1) Das Bundesministerium für Bildung und Forschung kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates einen Beirat für
+Rechtsverordnung ohne Zustimmung des Bundesrates einen Beirat für
 Ausbildungsförderung bilden, der es bei
 
 1.  der Durchführung des Gesetzes,
@@ -2294,7 +2413,8 @@ wenn
 5.  kein Elternteil einen Wohnsitz im Inland hat,
 
 
-6.  (weggefallen)
+6.  der Auszubildende eine Fachschulklasse besucht, deren Besuch eine
+    abgeschlossene Berufsausbildung voraussetzt,
 
 
 7.  der Auszubildende Ausbildungsförderung für die Teilnahme an
@@ -2334,7 +2454,7 @@ wird dessen örtliche Zuständigkeit durch das Land bestimmt.
 im Ausland nach § 5 Absatz 2 und 5 sowie § 6 ist ausschließlich das
 durch das zuständige Land bestimmte Amt für Ausbildungsförderung
 örtlich zuständig. Das Bundesministerium für Bildung und Forschung
-bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates,
+bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates,
 welches Land das für alle Auszubildenden, die die in einem anderen
 Staat gelegenen Ausbildungsstätten besuchen, örtlich zuständige Amt
 bestimmt.
@@ -2360,8 +2480,12 @@ Sozialgesetzbuch und § 20 auf dieses Land über.
 
 (1) Über die Leistung von Ausbildungsförderung sowie über die Höhe der
 Darlehenssumme nach § 18c wird auf schriftlichen Antrag entschieden.
-Der Auszubildende kann die Höhe des Darlehens nach § 18c begrenzen;
-die Erklärung ist für den Bewilligungszeitraum unwiderruflich.
+Die Länder sind verpflichtet, bis zum 1. August 2016 eine
+elektronische Antragstellung zu ermöglichen, die den Vorgaben des §
+36a Absatz 2 Satz 4 Nummer 1 oder 2 des Ersten Buches Sozialgesetzbuch
+entspricht. Der Auszubildende kann die Höhe des Darlehens nach § 18c
+begrenzen; die Erklärung ist für den Bewilligungszeitraum
+unwiderruflich.
 
 (2) Der Antrag ist an das örtlich zuständige Amt für
 Ausbildungsförderung zu richten.
@@ -2380,17 +2504,20 @@ Fachrichtung und Ausbildungsstätte bestimmt bezeichnete
 1.  Ausbildung im Ausland nach § 5 Absatz 2 und 5,
 
 
-2.  weitere Ausbildung nach § 7 Absatz 2,
+2.  Ausbildung nach § 7 Absatz 1a,
 
 
-3.  andere Ausbildung nach § 7 Absatz 3,
+3.  weitere Ausbildung nach § 7 Absatz 2,
 
 
-4.  Ausbildung nach Überschreiten der Altersgrenze nach § 10 Absatz 3
+4.  andere Ausbildung nach § 7 Absatz 3,
+
+
+5.  Ausbildung nach Überschreiten der Altersgrenze nach § 10 Absatz 3
 
 
 
-vorliegen. Die Entscheidung nach den Nummern 2 bis 4 ist für den
+vorliegen. Die Entscheidung nach den Nummern 2 bis 5 ist für den
 ganzen Ausbildungsabschnitt zu treffen. Das Amt ist an die
 Entscheidung nicht mehr gebunden, wenn der Auszubildende die
 Ausbildung nicht binnen eines Jahres nach Antragstellung beginnt.
@@ -2455,11 +2582,10 @@ Auszubildenden die Leistung von Ausbildungsförderung an den
 Auszubildenden dadurch herbeigeführt, dass sie vorsätzlich oder
 fahrlässig falsche oder unvollständige Angaben gemacht oder eine
 Anzeige nach § 60 Absatz 1 Nummer 2 des Ersten Buches Sozialgesetzbuch
-unterlassen haben, so haben sie den Betrag, der nach § 17 Absatz 1 und
-2 für den Auszubildenden als Förderungsbetrag zu Unrecht geleistet
-worden ist, dem Land zu ersetzen. Der Betrag ist vom Zeitpunkt der zu
-Unrecht erfolgten Leistung an mit 6 vom Hundert für das Jahr zu
-verzinsen.
+unterlassen haben, so haben sie den Betrag, der nach § 17 für den
+Auszubildenden als Förderungsbetrag zu Unrecht geleistet worden ist,
+dem Land zu ersetzen. Der Betrag ist vom Zeitpunkt der zu Unrecht
+erfolgten Leistung an mit 6 vom Hundert für das Jahr zu verzinsen.
 
 
 ### § 48 Mitwirkung von Ausbildungsstätten
@@ -2489,16 +2615,11 @@ von dem Zeitpunkt an geleistet, in dem der Auszubildende vorgelegt hat
 
 
 
-Wenn die Ausbildungs- und Prüfungsordnungen eine Zwischenprüfung oder
-einen entsprechenden Leistungsnachweis bereits vor Beginn des dritten
-Fachsemesters verbindlich vorschreiben, wird abweichend von Satz 1 für
-das dritte und vierte Fachsemester Ausbildungsförderung nur geleistet,
-wenn die entsprechenden Nachweise vorgelegt werden. Die Nachweise
-gelten als zum Ende des vorhergehenden Semesters vorgelegt, wenn sie
-innerhalb der ersten vier Monate des folgenden Semesters vorgelegt
-werden und sich aus ihnen ergibt, dass die darin ausgewiesenen
-Leistungen bereits in dem vorhergehenden Semester erbracht worden
-sind.
+Die Nachweise gelten als zum Ende des vorhergehenden Semesters
+vorgelegt, wenn sie innerhalb der ersten vier Monate des folgenden
+Semesters vorgelegt werden und sich aus ihnen ergibt, dass die darin
+ausgewiesenen Leistungen bereits in dem vorhergehenden Semester
+erbracht worden sind.
 
 (2) Liegen Tatsachen vor, die voraussichtlich eine spätere
 Überschreitung der Förderungshöchstdauer nach § 15 Absatz 3 oder eine
@@ -2521,7 +2642,7 @@ Ausbildungsstätte einholen.
 
 (6) Das Amt für Ausbildungsförderung kann von der gutachtlichen
 Stellungnahme nur aus wichtigem Grund abweichen, der dem
-Auszubildenden schriftlich mitzuteilen ist.
+Auszubildenden schriftlich oder elektronisch mitzuteilen ist.
 
 
 ### § 49 Feststellung der Voraussetzungen der Förderung im Ausland
@@ -2555,22 +2676,21 @@ Auslandspraktikum den Erfordernissen des § 5 Absatz 5 entspricht.
 
 ### § 50 Bescheid
 
-(1) Die Entscheidung, einschließlich der Bestimmung der Höhe der
-Darlehenssumme nach § 18c, ist dem Antragsteller schriftlich
-mitzuteilen (Bescheid). In den Fällen des § 18c wird der Bescheid
-unwirksam, wenn der Darlehensvertrag innerhalb eines Monats nach
-Bekanntgabe des Bescheids nicht wirksam zustande kommt. Unter dem
-Vorbehalt der Rückforderung kann ein Bescheid nur ergehen, soweit dies
-in diesem Gesetz vorgesehen ist. Ist in einem Bescheid dem Grunde nach
-über
+(1) Die Entscheidung ist dem Antragsteller schriftlich oder
+elektronisch mitzuteilen (Bescheid). Unter dem Vorbehalt der
+Rückforderung kann ein Bescheid nur ergehen, soweit dies in diesem
+Gesetz vorgesehen ist. Ist in einem Bescheid dem Grunde nach über
 
-1.  eine weitere Ausbildung nach § 7 Absatz 2,
+1.  eine Ausbildung nach § 7 Absatz 1a,
 
 
-2.  eine andere Ausbildung nach § 7 Absatz 3 oder
+2.  eine weitere Ausbildung nach § 7 Absatz 2,
 
 
-3.  eine Ausbildung nach Überschreiten der Altersgrenze nach § 10 Absatz 3
+3.  eine andere Ausbildung nach § 7 Absatz 3 oder
+
+
+4.  eine Ausbildung nach Überschreiten der Altersgrenze nach § 10 Absatz 3
 
 
 
@@ -2611,8 +2731,9 @@ des Betrages des angerechneten Einkommens; dies gilt nicht, soweit der
 Auszubildende im Zusammenhang mit der Geltendmachung seines Anspruchs
 auf Leistungen nach diesem Gesetz ein besonderes berechtigtes
 Interesse an der Kenntnis hat. Besucht der Auszubildende eine
-Hochschule, so ist in jedem Bescheid das Ende der
-Förderungshöchstdauer anzugeben.
+Hochschule oder eine Akademie im Sinne des § 2 Absatz 1 Satz 1 Nummer
+6, so ist in jedem Bescheid das Ende der Förderungshöchstdauer
+anzugeben.
 
 (3) Über die Ausbildungsförderung wird in der Regel für ein Jahr
 (Bewilligungszeitraum) entschieden.
@@ -2628,17 +2749,17 @@ erforderlichen Nachweise beigefügt wurden.
 
 ### § 51 Zahlweise
 
-(1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen. Die
-Auszahlung der Bankdarlehen nach § 18c erfolgt durch die Kreditanstalt
-für Wiederaufbau.
+(1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen.
 
 (2) Können bei der erstmaligen Antragstellung in einem
 Ausbildungsabschnitt oder nach einer Unterbrechung der Ausbildung die
 zur Entscheidung über den Antrag erforderlichen Feststellungen nicht
 binnen sechs Kalenderwochen getroffen oder Zahlungen nicht binnen zehn
 Kalenderwochen geleistet werden, so wird für vier Monate
-Ausbildungsförderung bis zur Höhe von 360 Euro monatlich unter dem
-Vorbehalt der Rückforderung geleistet.
+Ausbildungsförderung bis zur Höhe von monatlich vier Fünfteln des für
+die zu fördernde Ausbildung nach § 12 Absatz 1 und 2, § 13 Absatz 1
+und 2 sowie nach den §§ 13a und 14b voraussichtlich zustehenden
+Bedarfs unter dem Vorbehalt der Rückforderung geleistet.
 
 (3) Monatliche Förderungsbeträge, die nicht volle Euro ergeben, sind
 bei Restbeträgen bis zu 0,49 Euro abzurunden und von 0,50 Euro an
@@ -2725,13 +2846,14 @@ Erhebungsmerkmale:
 
 
 4.  Höhe und Zusammensetzung des monatlichen Gesamtbedarfs des
-    Auszubildenden, auf den Bedarf anzurechnende Beträge vom Einkommen und
-    Vermögen des Auszubildenden sowie vom Einkommen seines Ehegatten oder
-    Lebenspartners und seiner Eltern, von den Eltern tatsächlich
-    geleistete Unterhaltsbeträge, Monat und Jahr des Beginns und Endes des
-    Bewilligungszeitraums, Monat des Zuständigkeitswechsels im
-    Berichtszeitraum sowie Art und Höhe des Förderungsbetrags, gegliedert
-    nach Monaten.
+    Auszubildenden, Kennzeichnung, ob das Einkommen der Eltern bei der
+    Berechnung des Bedarfs außer Betracht zu bleiben hatte, auf den Bedarf
+    anzurechnende Beträge vom Einkommen und Vermögen des Auszubildenden
+    sowie vom Einkommen seines Ehegatten oder Lebenspartners und seiner
+    Eltern, von den Eltern tatsächlich geleistete Unterhaltsbeträge, Monat
+    und Jahr des Beginns und Endes des Bewilligungszeitraums, Monat des
+    Zuständigkeitswechsels im Berichtszeitraum sowie Art und Höhe des
+    Förderungsbetrags, gegliedert nach Monaten.
 
 
 
@@ -2751,36 +2873,46 @@ Auskunftspflichtig sind die Ämter für Ausbildungsförderung.
 
 (1) Die für die Ausführung dieses Gesetzes erforderlichen Mittel,
 einschließlich der Erstattungsbeträge an die Kreditanstalt für
-Wiederaufbau nach § 18d Absatz 2, tragen der Bund zu 65 vom Hundert,
-die Länder zu 35 vom Hundert. Die vom Bund anteilig zu tragenden
-Mittel für die Darlehen nach § 17 Absatz 2 können von der
-Kreditanstalt für Wiederaufbau bereitgestellt werden. In diesen Fällen
-trägt der Bund die der Kreditanstalt für Wiederaufbau entstehenden
-Aufwendungen für die Bereitstellung der Mittel und das Ausfallrisiko.
+Wiederaufbau nach § 18d Absatz 2, trägt der Bund. Die Mittel für die
+Darlehen nach § 17 Absatz 2 und 3 Satz 1 können von der Kreditanstalt
+für Wiederaufbau bereitgestellt werden. In diesen Fällen trägt der
+Bund die der Kreditanstalt für Wiederaufbau entstehenden Aufwendungen
+für die Bereitstellung der Mittel und das Ausfallrisiko.
 
-(2) Das Bundesverwaltungsamt führt 35 vom Hundert des in einem
-Kalenderjahr eingezogenen Darlehensbetrages in dem Verhältnis an die
-Länder ab, in dem die in den drei vorangegangenen Jahren an das
-Bundesverwaltungsamt gemeldeten Darlehensleistungen der einzelnen
-Länder zueinander stehen.
+(2) Das Bundesverwaltungsamt hat von den ab dem Jahr 2015 eingezogenen
+Beträgen und Zinsen aus Darlehen nach § 17 Absatz 2 Satz 1 insgesamt
+2,058 Milliarden Euro an die Länder abzuführen. Dies hat in jährlichen
+Raten in Höhe des Betrages zu erfolgen, der für die Kalenderjahre 2012
+bis 2014 nach der vor dem 1. Januar 2015 gültigen Fassung dieses
+Absatzes im Jahresdurchschnitt an die Länder weitergeleitet worden
+ist, höchstens jedoch in Höhe von jeweils 35 vom Hundert der in einem
+Kalenderjahr vom Bundesverwaltungsamt insgesamt eingezogenen Beträge
+und Zinsen. Bleibt in einem Kalenderjahr wegen der vorgesehenen
+Begrenzung nach Satz 2 ein Differenzbetrag bis zum maßgeblichen
+Durchschnittsbetrag der Kalenderjahre 2012 bis 2014 offen, ist die
+Differenz im jeweils nächsten Kalenderjahr zusätzlich an die Länder
+abzuführen; für den Betrag, der daneben für dieses jeweils nächste
+Kalenderjahr abzuführen ist, bleibt Satz 2 unberührt. Das
+Bundesverwaltungsamt hat den so ermittelten jährlich abzuführenden
+Gesamtbetrag jeweils in dem Verhältnis an die Länder abzuführen, in
+dem die in den Jahren 2012 bis 2014 an das Bundesverwaltungsamt
+gemeldeten Darlehensleistungen der einzelnen Länder zueinander stehen.
 
-(2a) Die Kreditanstalt für Wiederaufbau führt 35 vom Hundert der von
-ihr nach § 18d Absatz 1 für den Bund eingezogenen Darlehens- und
-Zinsbeträge in dem Verhältnis an die Länder ab, in dem die in den drei
-vorangegangenen Jahren auf Bewilligungsbescheide von Ämtern für
-Ausbildungsförderung der einzelnen Länder gezahlten Darlehensbeträge
-zueinander stehen.
+(2a) Die Kreditanstalt für Wiederaufbau hat 35 vom Hundert der von ihr
+nach § 18d Absatz 1 für den Bund eingezogenen Beträge und Zinsen aus
+Darlehen, die ihr bis zum 31. Dezember 2014 erstattet wurden, in dem
+Verhältnis an die Länder abzuführen, in dem die auf
+Bewilligungsbescheide der Ämter aus den Jahren 2012 bis 2014 gezahlten
+Darlehensbeträge zueinander stehen.
 
-(3) Das Land führt 65 vom Hundert der auf Grund des § 50 des Zehnten
-Buches Sozialgesetzbuch sowie der §§ 20, 37, 38 und 47a eingezogenen
-Beträge an den Bund ab.
+(3) Das Land führt die auf Grund des § 50 des Zehnten Buches
+Sozialgesetzbuch sowie der §§ 20, 37, 38 und 47a eingezogenen Beträge
+an den Bund ab.
 
-(4) Die Länder untereinander führen bei der Ausführung dieses Gesetzes
-keine Einnahmen ab; sie erstatten vorbehaltlich des Satzes 2 keine
-Ausgaben. Im Falle der Förderung nach § 5 Absatz 2 bis 5 erstattet das
-Land, in dem der Auszubildende seinen ständigen Wohnsitz hat, dem nach
-der Rechtsverordnung auf Grund des § 45 Absatz 4 Satz 2 zuständigen
-Land 35 vom Hundert der Ausgaben.
+(4) Im Falle einer vor dem Jahr 2015 geleisteten Förderung nach § 5
+Absatz 2 bis 5 erstattet das Land, in dem der Auszubildende seinen
+ständigen Wohnsitz hat, dem nach der Rechtsverordnung auf Grund des §
+45 Absatz 4 Satz 2 zuständigen Land 35 vom Hundert der Ausgaben.
 
 
 ## Abschnitt XI - Bußgeldvorschriften, Übergangs- und Schlussvorschriften
@@ -2813,7 +2945,7 @@ Land 35 vom Hundert der Ausgaben.
     nicht rechtzeitig unterrichtet oder
 
 
-3.  einer Rechtsverordnung nach § 18 Absatz 6 Nummer 2 zuwiderhandelt,
+3.  einer Rechtsverordnung nach § 18 Absatz 14 Nummer 2 zuwiderhandelt,
     soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
     verweist.
 
@@ -2838,8 +2970,7 @@ Absatzes 1 Nummer 3 das Bundesverwaltungsamt.
 
 Verfolgten nach § 1 des Beruflichen Rehabilitierungsgesetzes oder
 verfolgten Schülern nach § 3 des Beruflichen Rehabilitierungsgesetzes
-vom 23. Juni 1994 (BGBl. I S. 1311, 1314) wird für
-Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen,
+wird für Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen,
 
 1.  Ausbildungsförderung ohne Anwendung der Altersgrenze des § 10 Absatz 3
     Satz 1 geleistet, sofern sie eine Bescheinigung nach § 17 oder § 18
@@ -2853,13 +2984,14 @@ Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen,
     oder verfolgungsbedingte Unterbrechung der Ausbildung vor dem 3.
     Oktober 1990 von insgesamt mehr als drei Jahren festgestellt wird; der
     Antrag ist innerhalb eines Monats nach Bekanntgabe des Bescheides nach
-    § 18 Absatz 5a zu stellen,
+    § 18 Absatz 9 zu stellen,
 
 
-3.  auf Antrag der nach dem 31. Juli 1996 nach § 17 Absatz 3 geleistete
-    Darlehensbetrag unter den Voraussetzungen der Nummer 2 erlassen; der
-    Antrag ist innerhalb eines Monats nach Erhalt der Mitteilung nach §
-    18c Absatz 8 an die Kreditanstalt für Wiederaufbau zu richten.
+3.  auf Antrag der nach dem 31. Juli 1996 nach § 17 Absatz 3 in der am 31.
+    Juli 2019 geltenden Fassung geleistete Darlehensbetrag unter den
+    Voraussetzungen der Nummer 2 erlassen; der Antrag ist innerhalb eines
+    Monats nach Erhalt der Mitteilung nach § 18c Absatz 8 an die
+    Kreditanstalt für Wiederaufbau zu richten.
 
 
 
@@ -2914,38 +3046,113 @@ Gesetz.
 -
 
 
-### § 66a Übergangs- und Anwendungsvorschrift aus Anlass des Zweiundzwanzigsten und des Dreiundzwanzigsten Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes
+### § 66a Übergangs- und Anwendungsvorschrift; Verordnungsermächtigung
 
-(1) Für Auszubildende, denen am 31. Dezember 2007 für den Besuch einer
-im Ausland gelegenen Ausbildungsstätte Ausbildungsförderung nach § 5
-Absatz 2 Nummer 3 geleistet wurde, sind § 5 Absatz 2 Satz 4 und Absatz
-4 Satz 2 sowie § 16 Absatz 3 in der bis zu diesem Tag geltenden
-Fassung bis zum Ende des bereits begonnenen Auslandsaufenthalts
-anzuwenden. Für Auszubildende, denen am 31. Dezember 2007
-Ausbildungsförderung nach § 5 Absatz 1 oder 3 geleistet wurde, sind §
-5 Absatz 1, 3 und 4 Satz 1 und 3, § 13 Absatz 4, die §§ 14a, 16, 18b
-Absatz 2 sowie die §§ 45 und 48 Absatz 4 in der bis zu diesem Tag
-geltenden Fassung in dieser Ausbildung auch für später beginnende
-Bewilligungszeiträume anzuwenden, wenn eine Förderung nicht nach § 5
-Absatz 2 geleistet werden kann. Abweichend von § 45 Absatz 4 bleibt
-für die in Satz 2 genannten Auszubildenden bis zum Ende des bereits
-begonnenen Auslandsaufenthalts auch dann das Amt für
-Ausbildungsförderung zuständig, in dessen Bezirk der Auszubildende
-seinen ständigen Wohnsitz hat, wenn eine Förderung nach § 5 Absatz 2
-geleistet werden kann.
+(1) Für Auszubildende, denen bis zum 31. Juli 2016 nach zuvor bereits
+erworbenem Hochschulabschluss die Leistung von Ausbildungsförderung
+nach § 7 Absatz 1 bewilligt wurde, ist diese Vorschrift bis zum Ende
+des Ausbildungsabschnitts in der bis zum 31. Juli 2016 geltenden
+Fassung weiter anzuwenden. Für Auszubildende, deren
+Bewilligungszeitraum vor dem 1. August 2016 begonnen hat, ist § 45
+Absatz 1 Satz 2 Nummer 6 bis zum Ende des Ausbildungsabschnitts in der
+bis zum 31. Juli 2016 geltenden Fassung weiter anzuwenden.
 
-(2) Für Bewilligungszeiträume, die vor dem 28. Oktober 2010 begonnen
-haben, sind die §§ 11, 12, 13, 13a, 17, 21 Absatz 2 und 3, die §§ 23,
-25, 29, 36 und 45 sowie die Verordnung zur Bezeichnung der als
-Einkommen geltenden sonstigen Einnahmen nach § 21 Absatz 3 Nummer 4
-des Bundesausbildungsförderungsgesetzes in der bis zum 28. Oktober
-2010 geltenden Fassung weiter anzuwenden; § 21 Absatz 1 Satz 3 Nummer
-5 ist dabei nicht anzuwenden. Ab dem 1. Oktober 2010 sind die §§ 11,
-12 Absatz 1, 2 und 3, die §§ 13 und 13a, 17, 21 Absatz 1 Satz 3 Nummer
-5, Absatz 2 und 3, die §§ 23, 25, 29, 36 und 45 sowie die Verordnung
-zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach §
-21 Absatz 3 Nummer 4 des Bundesausbildungsförderungsgesetzes in der ab
-dem 28. Oktober 2010 geltenden Fassung anzuwenden.
+(2) Die §§ 2, 7, 10, 11, 12, 13, 13a, 14b, 15, 17 Absatz 3, die §§
+18c, 21, 23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der durch Artikel
+1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048) geänderten Fassung
+sind erst ab dem 1. August 2019 anzuwenden, soweit nachstehend nichts
+anderes bestimmt ist.
+
+(3) § 17 Absatz 2, die §§ 18, 18a, 18b, 18d, 58 und 60 Nummer 2 in der
+durch Artikel 1 des Gesetzes vom 8. Juli 2019 (BGBl. I S. 1048)
+geänderten Fassung sind erst ab dem 1. September 2019 anzuwenden,
+soweit nachstehend nichts anderes bestimmt ist.
+
+(4) Für Bewilligungszeiträume, die vor dem 1. August 2019 begonnen
+haben, sind die §§ 11, 12, 13, 13a, 14b, 17 Absatz 3, die §§ 18c, 21,
+23, 25, 41, 47a, 50, 56 und 60 Nummer 3 in der bis zum 31. Juli 2019
+anzuwendenden Fassung vorbehaltlich des Satzes 2 weiter anzuwenden. Ab
+dem 1. Oktober 2019 sind die §§ 12, 13, 13a, 14b, 21, 23 und 25 in der
+ab dem 1. August 2019 anzuwendenden Fassung auch für
+Bewilligungszeiträume anzuwenden, die vor dem 1. August 2019 begonnen
+haben. Bei der Rückzahlung der Darlehen ist für die
+Einkommensfreistellung nach § 18a die Regelung des § 21 in der ab dem
+1\. August 2019 geltenden Fassung abweichend von Satz 1 bereits ab dem
+1\. September 2019 anzuwenden.
+
+(5) Für Auszubildende, denen für einen vor dem 1. August 2019
+begonnenen Ausbildungsabschnitt Förderung geleistet wurde für den
+Besuch einer staatlichen Akademie, welche Abschlüsse verleiht, die
+nach Landesrecht Hochschulabschlüssen gleichgestellt sind, sind bis
+zum Ende dieses Ausbildungsabschnitts § 15 Absatz 2 Satz 1 und § 50
+Absatz 2 Satz 4 in der am 31. Juli 2019 geltenden Fassung weiter
+anzuwenden. § 18 Absatz 4 Satz 1 in der ab dem 1. September 2019
+geltenden Fassung gilt für sie mit der Maßgabe, dass ausschließlich
+die Nummer 2 anzuwenden ist.
+
+(6) Für Darlehensnehmende, denen vor dem 1. September 2019 Förderung
+nach § 17 Absatz 2 Satz 1 in der am 31. August 2019 anzuwendenden
+Fassung geleistet wurde, sind diese Regelung, § 18 mit Ausnahme des
+Absatzes 3 Satz 1 und des Absatzes 5c sowie § 18a Absatz 5, die §§
+18b, 58 Absatz 1 Nummer 3 und § 60 Nummer 2 in der am 31. August 2019
+geltenden Fassung weiter anzuwenden; dies gilt auch, soweit die
+Förderungsleistungen jeweils auch noch über den 31. August 2019 hinaus
+erbracht werden.
+
+(7) Darlehensnehmende, denen Förderung mit Darlehen nach § 17 in einer
+vor dem 1. September 2019 geltenden Fassung geleistet wurde, mit
+Ausnahme von Bankdarlehen nach § 18c, können binnen einer Frist von
+sechs Monaten nach diesem Datum jeweils durch schriftliche oder
+elektronische Erklärung gegenüber dem Bundesverwaltungsamt verlangen,
+dass für die Rückzahlung des gesamten Darlehens § 18 Absatz 12 und §
+18a in der am 1. September 2019 anzuwendenden Fassung anzuwenden sind.
+Für Darlehensnehmende, die den dort genannten Rückzahlungszeitraum von
+20 Jahren überschritten haben, gilt Satz 1 mit der Maßgabe, dass für
+den Erlass nach § 18 Absatz 12 Satz 1 in der ab dem 1. September 2019
+anzuwendenden Fassung die Voraussetzungen für den gesamten Zeitraum
+vor Äußerung des Verlangens vorgelegen haben müssen.
+
+(8) Abweichend von § 18 Absatz 3 Satz 1 und § 18c Absatz 6 und 7
+beträgt die Rate bis zum 31. März 2020 105 Euro.
+
+(8a) § 21 Absatz 4 Nummer 5 ist ab dem 1. April 2022 nicht mehr
+anzuwenden.
+
+(8b) Die Bundesregierung wird ermächtigt, die Anwendung des § 21
+Absatz 4 Nummer 5 durch Rechtsverordnung ohne Zustimmung des
+Bundesrates längstens bis zum Ablauf des 31. Dezember 2022 zu
+verlängern, soweit dies auf Grund fortbestehender Auswirkungen der
+COVID-19-Pandemie in der Bundesrepublik Deutschland erforderlich ist.
+
+(9) Für Bewilligungszeiträume, die vor dem 1. August 2020 begonnen
+haben, sind die §§ 12, 13, 14b Absatz 1 Satz 1, die §§ 23, 25 und 29
+in der bis zum 31. Juli 2020 anzuwendenden Fassung vorbehaltlich des
+Satzes 2 weiter anzuwenden. Ab dem 1. Oktober 2020 sind die in Satz 1
+genannten Regelungen in der ab dem 1. August 2020 anzuwendenden
+Fassung auch für Bewilligungszeiträume anzuwenden, die vor dem 1.
+August 2020 begonnen haben.
+
+(10) Für Bewilligungszeiträume, die vor dem 1. August 2021 begonnen
+haben, sind die §§ 23 und 25 in der bis zum 31. Juli 2021
+anzuwendenden Fassung weiter anzuwenden. Ab dem 1. Oktober 2021 sind
+die in Satz 1 genannten Regelungen in der ab dem 1. August 2021
+anzuwendenden Fassung auch für Bewilligungszeiträume anzuwenden, die
+vor dem 1. August 2021 begonnen haben.
+
+
+### § 66b Übergangsvorschrift aus Anlass des Endes des Übergangszeitraums nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft
+
+Auszubildenden, die bis zum Ende des Übergangszeitraums nach Teil Vier
+des Abkommens über den Austritt des Vereinigten Königreichs
+Großbritannien und Nordirland aus der Europäischen Union und der
+Europäischen Atomgemeinschaft vom 24. Januar 2020 (ABl. L 29 vom
+31\.1.2020, S. 7) einen Ausbildungsabschnitt an einer Ausbildungsstätte
+im Vereinigten Königreich Großbritannien und Nordirland beginnen oder
+fortsetzen, wird Ausbildungsförderung nach § 5 Absatz 2 Satz 1 Nummer
+3 noch bis zum Abschluss oder Abbruch dieses Ausbildungsabschnitts an
+einer dortigen Ausbildungsstätte nach Maßgabe der im Übrigen
+unverändert geltenden sonstigen Förderungsvoraussetzungen dieses
+Gesetzes gewährt.
 
 
 ### § 67 (weggefallen)

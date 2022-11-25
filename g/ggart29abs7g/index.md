@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1325
 
+Geändert durch
+:   Art. 3 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -63,7 +66,8 @@ betroffenen Gemeinden und Gemeindeverbände; sie teilen das Ergebnis
 der Anhörung in ihrer Äußerung nach Satz 1 mit.
 
 (2) Die beteiligten Länder sind verpflichtet, dem Bundesminister des
-Innern auf Anforderung die erforderlichen Unterlagen vorzulegen.
+Innern, für Bau und Heimat auf Anforderung die erforderlichen
+Unterlagen vorzulegen.
 
 
 ## § 4

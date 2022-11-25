@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 14.4.1986 I 412;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.12.2010 I 2132
+:   Art. 2 V v. 20.10.2021 I 4723
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -132,8 +132,7 @@ werden.
 ### § 3 Anforderungen an die Herstellung von Käse
 
 (1) Bei der Herstellung von Käse, ausgenommen Molkenkäse, dürfen außer
-Käsereimilch (§ 1 Abs. 2) und vorbehaltlich des § 23 nur verwendet
-werden
+Käsereimilch (§ 1 Abs. 2) nur verwendet werden
 
 1.
     a)  Wiederkäuermagenlab oder Zubereitungen aus Wiederkäuermagenlab,
@@ -158,7 +157,7 @@ werden
         Eiweißstandardisierung in technologisch notwendigem Umfang, höchstens
         jedoch in einer Gesamtmenge, durch die der Eiweißgehalt in einem
         Kilogramm Käsereimilch bis zu 3 Gramm erhöht wird, nicht jedoch in
-        Käsereimilch zur Herstellung der Standardsorten der Gruppe Frischkäse;
+        Käsereimilch zur Herstellung der Standardsorten der Gruppe Frischkäse,
 
 
     f)  Zentrifugat aus Entkeimungseinrichtungen, die einer Einrichtung zur
@@ -176,10 +175,13 @@ werden
 
 
         -   nach einem von der zuständigen Behörde genehmigten
-            Wärmebehandlungsverfahren ausreichend erhitzt worden sind.
+            Wärmebehandlungsverfahren ausreichend erhitzt worden sind,
 
 
 
+
+
+    g)  Laktase;
 
 
 
@@ -202,7 +204,11 @@ werden
 
     e)  die zur Lösung oder Emulgierung von Beta-Carotin (E 160a)
         erforderliche Menge Speiseöl unter Mitverwendung von Speisegelatine
-        und Stärke;
+        und Stärke,
+
+
+    f)  frisch entwickelter Rauch im Sinne des § 4 Absatz 2 der
+        Aromendurchführungsverordnung;
 
 
 
@@ -228,21 +234,22 @@ werden
 
 
 (2) Bei der Herstellung von Molkenkäse dürfen außer den in § 1 Abs. 3
-genannten Erzeugnissen und vorbehaltlich des § 23 nur die in Absatz 1
-Nr. 2 genannten Stoffe verwendet werden.
+genannten Erzeugnissen nur die in Absatz 1 Nr. 2 genannten Stoffe
+verwendet werden.
 
 (2a) Bei der Herstellung von Sauermilchkäse dürfen außer
-Sauermilchquark und vorbehaltlich des § 23 nur die in Absatz 1 Nr. 2
-genannten Stoffe verwendet werden. Dem Sauermilchquark dürfen
-Frischkäse und bis zu 9% seines Gewichtes Milcheiweißerzeugnisse
-zugesetzt sein.
+Sauermilchquark nur die in Absatz 1 Nr. 2 genannten Stoffe verwendet
+werden. Dem Sauermilchquark dürfen Frischkäse und bis zu 9% seines
+Gewichtes Milcheiweißerzeugnisse zugesetzt sein.
 
 (2b) Der Sauermilchquark muß aus entrahmter Milch unter Verwendung von
 Milchsäurebakterien, auch unter Mitverwendung von Lab oder
 Labaustauschstoffen und unter Wärmeeinwirkung, hergestellt sein; er
 muß eine fettfreie Milchtrockenmasse von mindestens 32% aufweisen.
 
-(3) u. (3a) (weggefallen)
+(3) (weggefallen)
+
+(3a)(weggefallen)
 
 (4) (weggefallen)
 
@@ -251,21 +258,39 @@ muß eine fettfreie Milchtrockenmasse von mindestens 32% aufweisen.
 
 (1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in
 den Begriffsbestimmungen für diese Erzeugnisse in § 1 Abs. 4 jeweils
-genannten Erzeugnissen und vorbehaltlich des § 23 nur verwendet werden
+genannten Erzeugnissen nur verwendet werden
 
 1.  die in § 3 Abs. 1 Nr. 2 genannten Stoffe;
 
 
-2. u. 3. (weggefallen)
+2.  (weggefallen)
 
 
-4.  bei Käsezubereitungen mit einem Trockenmassegehalt von mindestens 35
-    vom Hundert auch Kaseinat bis zu 5 vom Hundert des Gesamtgewichts des
-    Fertigerzeugnisses;
+3.  (weggefallen)
 
 
-5.  bei Käsezubereitungen und Schmelzkäsezubereitungen auch Stärke und
-    Speisegelatine.
+4.  bei Käsezubereitungen
+
+    a)  im Falle eines Trockenmassegehaltes von mindestens 35 vom Hundert
+        Kaseinat bis zu 5 vom Hundert des Gesamtgewichts des
+        Fertigerzeugnisses und
+
+
+    b)  in technologisch notwendigem Umfang Zitrusfaser;
+
+
+
+
+
+5.  bei Käsezubereitungen und Schmelzkäsezubereitungen
+
+    a)  Stärke, Speisegelatine und Laktase und
+
+
+    b)  in technologisch notwendigem Umfang Inulin.
+
+
+
 
 
 
@@ -617,12 +642,11 @@ verwendet worden sind.
 
 (1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht
 werden, wenn sie nach den Vorschriften dieser Verordnung
-gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichungsverordnung
-sowie § 9 der Zusatzstoff-Zulassungsverordnung ist anzuwenden.
+gekennzeichnet sind.
 
 (2) Bei Käse und Erzeugnissen aus Käse in Fertigpackungen im Sinne des
-§ 6 Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher
-bestimmt sind, muß die Kennzeichnung enthalten
+§ 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den
+Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
 
 1.  als Verkehrsbezeichnung
 
@@ -818,6 +842,16 @@ Trockenmasse des Gesamterzeugnisses anzugeben.
 Lebensmittelbedarfsgegenständen aus Kunststoff beschichtet worden ist,
 darf nur in den Verkehr gebracht werden, wenn er durch die Angabe
 "Kunststoffüberzug nicht zum Verzehr geeignet" kenntlich gemacht ist.
+
+(6) Wird bei einem Käse oder Erzeugnis aus Käse der Laktosegehalt
+verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose
+nur erfolgen, soweit der Laktosegehalt nach Maßgabe der nach § 64
+Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in seiner
+jeweils geltenden Fassung für die Feststellung von Laktose
+veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des
+Fertigerzeugnisses liegt und die Kennzeichnung die Angabe
+„Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe
+enthält.
 
 
 ### § 16 Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
@@ -1084,32 +1118,19 @@ anzugeben
 
 
 
-## Sechster Abschnitt - Zusatzstoffe
+## Sechster Abschnitt - (weggefallen)
 
 
 
-### § 23 Zulassung von Zusatzstoffen
-
-Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus
-Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus
-naturbelassenen Hölzern und Zweigen, Heidekraut und
-Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen.
-Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der
-unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse
-an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1
-myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und
-Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu
-werden, und von Erzeugnissen aus Käse mit dem gleichen
-Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2
-festgesetzte Höchstmenge hinaus nicht verwendet werden. Die
-Zusatzstoff-Zulassungsverordnung bleibt unberührt.
-
-
-### (XXXX) §§ 24 bis 26 (weggefallen)
+### (XXXX) §§ 23 bis 25 (weggefallen)
 
 
 
 ## Siebenter Abschnitt - Ergänzende Vorschriften
+
+
+
+### § 26 (weggefallen)
 
 
 
@@ -1187,18 +1208,14 @@ Die Vorschriften dieser Verordnung finden keine Anwendung auf
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 20 Abs. 1 Satz
 1 Labaustauschstoffe ohne Genehmigung herstellt.
 
-(3) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 23 Satz 3 bei
-dem gewerbsmäßigen Herstellen oder Behandeln von Käse oder
-Erzeugnissen aus Käse einen Zusatzstoff über die festgesetzte
-Höchstmenge hinaus verwendet.
+(3) (weggefallen)
 
 (4) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 15 Abs. 5 oder
 § 28 Abs. 3 Satz 1 dort genannten Käse oder ein Erzeugnis aus Käse in
 den Verkehr bringt.
 
-(5) Wer eine in den Absätzen 2 bis 4 bezeichnete Handlung fahrlässig
+(5) Wer eine in den Absätzen 2 und 4 bezeichnete Handlung fahrlässig
 begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
@@ -1357,8 +1374,41 @@ Gütezeichen nach § 11 Abs. 11 in den Verkehr bringt, ohne hierzu
 berechtigt zu sein.
 
 
-### § 31a (weggefallen)
+### § 31a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
 
+(1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
+
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) in der jeweils geltenden Fassung oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+
+(2) Wird Käse oder ein Erzeugnis aus Käse in einer in § 4 der
+Lebensmittelinformations-Durchführungsverordnung geregelten Form der
+Abgabe in den Verkehr gebracht, so ist diese Verordnung nur
+vorbehaltlich des § 4 der Lebensmittelinformations-
+Durchführungsverordnung anzuwenden.
+
+(3) Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ### § 32
@@ -1574,14 +1624,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 [^BJNR511800965BJNE004700308_01]:     Die Milchlieferungsordnung kann bei folgenden Stellen bezogen werden:
-    -
-    Milchwirtschaftlicher Verein Allgäu-Schwaben e. V., Haus der
-    Milchwirtschaft, Hirnbeinstraße 8, 87435 Kempten/Allgäu,
+    -                                Milchwirtschaftlicher Verein Allgäu-
+    Schwaben e. V., Haus der Milchwirtschaft, Hirnbeinstraße 8, 87435
+    Kempten/Allgäu,
 
 
-    -
-    Milchwirtschaftlicher Verein Baden-Württemberg e.V., Lindenspürstraße
-    31, 70176 Stuttgart.
+    -                                Milchwirtschaftlicher Verein Baden-
+    Württemberg e.V., Lindenspürstraße 31, 70176 Stuttgart.
 
 
 

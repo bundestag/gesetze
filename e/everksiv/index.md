@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 2730
 
 Zuletzt geändert durch
-:   Art. 488 V v. 31.10.2006 I 2407
+:   Art. 501 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -107,6 +107,6 @@ Verwaltungsbehörde des Landes.
 
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
-angewendet werden, wenn dies das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung durch Rechtsverordnung bestimmt hat.
+angewendet werden, wenn dies das Bundesministerium für Verkehr und
+digitale Infrastruktur durch Rechtsverordnung bestimmt hat.
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 705 (1010)
 
+Zuletzt geändert durch
+:   Art. 3 V v. 26.11.2019 I 1958
+
 
 ## Erster Abschnitt - Allgemeines
 
@@ -34,8 +37,8 @@ sonstigem, mit sicherheitsrelevanten betrieblichen Aufgaben betrautem
 Eisenbahnpersonal.
 
 (2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung
-innerhalb des Bereichs von Serviceeinrichtungen nach § 2 Absatz 3c
-Nummer 7 des Allgemeinen Eisenbahngesetzes.
+innerhalb des Bereichs von Serviceeinrichtungen nach Anlage 2 Nummer 2
+Satz 1 Buchstabe e und f des Eisenbahnregulierungsgesetzes.
 
 
 ### § 2 Begriffsbestimmungen
@@ -61,15 +64,14 @@ Im Sinne dieser Verordnung bedeutet:
     Sicherheitsbehörde eines anderen Mitgliedstaates nach Artikel 16 der
     Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom
     29\. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur
-    Änderung der Richtlinie
-    95/18/EG                    des Rates über die Erteilung von
+    Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von
     Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG
     über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung
     von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
     Sicherheitsbescheinigung („Richtlinie über die Eisenbahnsicherheit“)
-    (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16), die
-    zuletzt durch die Richtlinie 2009/149/EG (ABl. L 313 vom 28.11.2009,
-    S. 65) geändert worden ist;
+    (ABl. L 164 vom 30.4.2004, S. 44, L 220 vom 21.6.2004, S. 16; L 103
+    vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/88/EU
+    (ABl. L 201 vom 10.7.2014, S. 9) geändert worden ist;
 
 
 6.  „Triebfahrzeugführerschein“ die von einer zuständigen Behörde erteilte
@@ -77,17 +79,18 @@ Im Sinne dieser Verordnung bedeutet:
     2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober
     2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven
     und Züge im Eisenbahnsystem in der Gemeinschaft führen (ABl. L 315 vom
-    3\.12.2007, S. 51);
+    3\.12.2007, S. 51), die zuletzt durch die Richtlinie (EU) 2016/882
+    (ABl. L 146 vom 3.6.2016, S. 22) geändert worden ist;
 
 
 7.  „Technische Spezifikationen für die Interoperabilität (TSI)“
     Spezifikationen im Sinne des Kapitels II der Richtlinie 2008/57/EG des
     Europäischen Parlaments und des Rates vom 17. Juni 2008 über die
     Interoperabilität des Eisenbahnsystems in der Gemeinschaft (ABl. L 191
-    vom 18.7.2008, S. 1), die zuletzt durch die Richtlinie 2009/131/EG
-    (ABl. L 273 vom 17.10.2009, S. 12) geändert worden ist, oder der
-    Richtlinien 96/48/EG des Rates vom 23. Juli 1996 über die
-    Interoperabilität des transeuropäischen
+    vom 18.7.2008, S. 1; L 103 vom 22.4.2015, S. 11), die zuletzt durch
+    die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) geändert
+    worden ist, oder der Richtlinien 96/48/EG des Rates vom 23. Juli 1996
+    über die Interoperabilität des transeuropäischen
     Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) und
     2001/16/EG des Europäischen Parlaments und des Rates vom 19. März 2001
     über die Interoperabilität des konventionellen transeuropäischen
@@ -101,8 +104,8 @@ Im Sinne dieser Verordnung bedeutet:
 8.  „Rangierfahrt“ Bewegen von Fahrzeugen im Bahnbetrieb, soweit es sich
     nicht um eine Zugfahrt entsprechend § 34 Absatz 1 der Eisenbahn-Bau-
     und Betriebsordnung vom 8. Mai 1967 (BGBl. 1967 II S. 1563) handelt,
-    die zuletzt durch Artikel 1 der Verordnung vom 19. März 2008 (BGBl. I
-    S. 467) geändert worden ist; Fahrten im Baugleis sind stets
+    die zuletzt durch Artikel 2 der Verordnung vom 26. Juli 2017 (BGBl. I
+    S. 3054) geändert worden ist; Fahrten im Baugleis sind stets
     Rangierfahrten.
 
 
@@ -260,8 +263,14 @@ ausstellen, wenn der Triebfahrzeugführer
 Die Prüfung nach Satz 1 Nummer 3 muss mindestens die in Anlage 7
 aufgeführten Themen und erforderlichenfalls auch die Sprachkenntnisse
 nach Anlage 7 Nummer 6 umfassen, wobei der Nachweis der Sprachkenntnis
-für deutsche Infrastrukturen mit Vorlage eines Abschlusses nach Absatz
-1 Satz 1 Nummer 2 einer deutschen Schule als erbracht gilt.
+für Infrastrukturen mit Betriebssprache Deutsch mit Vorlage eines in
+deutscher Sprache abgelegten Schulabschlusses nach Absatz 1 Satz 1
+Nummer 2 als erbracht gilt. Für den Einsatz auf Infrastrukturen mit
+einer anderen Betriebssprache als Deutsch ist für Triebfahrzeugführer,
+die die andere Betriebssprache nach den Vorschriften des
+Mitgliedstaates, in denen diese Sprache Amtssprache ist, als
+Muttersprache beherrschen, der Nachweis der Sprachkenntnisse durch
+eine Prüfung nicht erforderlich.
 
 
 ### § 6 Ausbildung
@@ -270,13 +279,7 @@ für deutsche Infrastrukturen mit Vorlage eines Abschlusses nach Absatz
 und Kenntnisse nach den Anlagen 5, 6 und 7.
 
 (2) Die einzelnen Ausbildungsinhalte werden durch die einschlägigen
-Technischen Spezifikationen für die Interoperabilität oder die von der
-Europäischen Eisenbahnagentur nach Artikel 17 der Verordnung (EG) Nr.
-881/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
-zur Errichtung einer Europäischen Eisenbahnagentur
-(„Agenturverordnung“) (ABl. L 164 vom 30.4.2004, S. 1), die zuletzt
-durch die Verordnung (EG) Nr. 1335/2008 (ABl. L 354 vom 31.12.2008, S.
-51) geändert worden ist, vorgeschlagenen Kriterien ergänzt.
+Technischen Spezifikationen für die Interoperabilität ergänzt.
 
 (3) Die Ausbildungsmethode muss die Anforderungen der Anlage 8
 erfüllen.
@@ -291,13 +294,15 @@ die zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist.
 (5) Bei Triebfahrzeugführern, die Staatsangehörige eines
 Mitgliedstaates der Europäischen Union sind und ihren
 Ausbildungsnachweis in einem Drittland erworben haben, gilt die durch
-die Richtlinie
-2005/36/EG              des Europäischen Parlaments und des Rates vom
-7\. September 2005 über die Anerkennung von Berufsqualifikationen (ABl.
-L 255 vom 30.9.2005, S. 22), die zuletzt durch die Verordnung (EG)
-Nr. 279/2009              (ABl. L 93 vom 7.4.2009, S. 11) geändert
-worden ist, festgelegte allgemeine Regelung zur Anerkennung
-beruflicher Befähigungsnachweise.
+die Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
+vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
+(ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93
+vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49, L 305 vom 24.10.2014,
+S. 115; L 177 vom 8.7.2015, S. 60; L 268 vom 15.10.2015, S. 35; L 95
+vom 9.4.2016, S. 20), die zuletzt durch den Delegierten Beschluss (EU)
+2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist,
+festgelegte allgemeine Regelung zur Anerkennung beruflicher
+Befähigungsnachweise.
 
 (6) Der Unternehmer richtet ein Verfahren der ständigen Weiterbildung
 entsprechend Anhang III Abschnitt 2 Buchstabe e der Richtlinie
@@ -426,6 +431,29 @@ zuständigen Behörde auszuhändigen.
 des Triebfahrzeugführerscheins einschließlich der Neuerteilung eines
 befristet ausgesetzten oder eines entzogenen
 Triebfahrzeugführerscheins auf ihrer Internetseite.
+
+
+### § 8a Erhebung, Speicherung und Nutzung personenbezogener Daten zur Identitätsfeststellung
+
+(1) Die zuständige Behörde ist berechtigt, zum Zweck der Erteilung des
+Triebfahrzeugführerscheins den Antragsteller zur Vorlage einer Kopie
+des Reisepasses oder des nationalen Personalausweises aufzufordern und
+aus der Kopie Name, Vorname, Geburtsname, Geburtsdatum, Geburtsort,
+Datum des Ablaufs der Gültigkeit des in Kopie vorgelegten Dokuments,
+Lichtbild und Unterschrift des Antragstellers zu erheben. Der
+Antragsteller ist darauf hinzuweisen, dass er die übrigen Daten auf
+der Kopie schwärzen darf.
+
+(2) Die nach Absatz 1 erhobenen personenbezogenen Daten dürfen nur in
+dem zur Identitätsfeststellung erforderlichen Umfang bei der Erteilung
+eines Triebfahrzeugführerscheins gespeichert und genutzt werden.
+
+(3) Die bei der zuständigen Behörde gespeicherten Daten nach Absatz 2
+sind, sobald sie nicht mehr benötigt werden, jedoch spätestens nach
+Aushändigung des Triebfahrzeugführerscheins an die antragstellende
+Person, unverzüglich zu löschen; dabei sind insbesondere die Kopien
+des Reisepasses oder des Personalausweises unwiederbringlich zu
+vernichten.
 
 
 ### § 9 Ausstellung der Zusatzbescheinigung
@@ -614,8 +642,8 @@ Aufmerksamkeit oder sein Verhalten beeinträchtigen können.
 ### § 13 Beendigung oder Wechsel des Beschäftigungsverhältnisses
 
 (1) Wenn das Beschäftigungsverhältnis eines Triebfahrzeugführers bei
-einem Unternehmer endet, hat der Unternehmer die zuständige Behörde
-unverzüglich davon in Kenntnis zu setzen.
+einem Unternehmer beginnt oder endet, hat der Unternehmer die
+zuständige Behörde unverzüglich davon in Kenntnis zu setzen.
 
 (2) Die Zusatzbescheinigung wird mit Ende des
 Beschäftigungsverhältnisses ungültig und vom bisherigen Unternehmer
@@ -682,9 +710,11 @@ befinden.
         dreijähriger Berufserfahrung ist und
 
 
-    c)  für die Sprachausbildung mindestens über die besonderen
-        eisenbahnbezogenen Sprachkenntnisse auf der Stufe 4 nach Anlage 7
-        Nummer 6 verfügt;
+    c)[^F791866_02_BJNR070510011BJNE001401305]
+  für die Sprachausbildung mindestens über die besonderen
+        eisenbahnbezogenen Sprachkenntnisse auf dem Niveau B 2 des Gemeinsamen
+        europäischen Referenzrahmens für Sprachen
+        verfügt;
 
 
 
@@ -727,6 +757,10 @@ Stelle für die Ausbildung von sonstigem, mit sicherheitsrelevanten
 betrieblichen Aufgaben betrautem Eisenbahnpersonal an. Die Absätze 1
 bis 5 gelten entsprechend.
 
+    Amtlicher Hinweis: Dieser Referenzrahmen ist erschienen unter dem
+    Titel „Gemeinsamer europäischer Referenzrahmen für Sprachen: lernen,
+    lehren, beurteilen“, 2013, Klett-Langenscheidt Verlag, München.
+[^F791866_02_BJNR070510011BJNE001401305]: 
 
 ### § 15 Anerkennung von Personen und Stellen für die Prüfung – Prüfungsorganisation
 
@@ -790,8 +824,9 @@ die Prüfung von Triebfahrzeugführern an, wenn der Antragsteller
 
 
 
-    e)  als Sprachprüfer über eisenbahnspezifische Sprachkenntnisse auf der
-        Stufe 4 nach Anlage 7 Nummer 6 verfügt,
+    e)  als Sprachprüfer über eisenbahnspezifische Sprachkenntnisse auf dem
+        Niveau B 2 des Gemeinsamen europäischen Referenzrahmens für Sprachen
+        verfügt,
 
 
 
@@ -832,9 +867,10 @@ Berufserfahrung im Bereich Schienenverkehr verfügt.
 kann anerkannt werden, wer Ärzte und Psychologen mit den
 Qualifikationen nach den Absätzen 2 und 3 beschäftigt.
 
-(5) Anerkannte Ärzte und Psychologen sind verpflichtet, einmal pro
-Jahr an einer von der zuständigen Behörde organisierten Fortbildung
-teilzunehmen.
+(5) Anerkannte Ärzte und Psychologen sind auf Verlangen der
+zuständigen Behörde verpflichtet, an einer von dieser organisierten
+Fortbildung teilzunehmen, wenn sich die Inhalte der sie betreffenden
+Rechtsvorschriften geändert haben.
 
 
 ### § 17 Gemeinsame Bestimmungen für die Ausbildungs-, Prüfungs- und Überwachungsorganisation
@@ -1017,64 +1053,55 @@ Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ### § 21 Übergangsvorschriften
 
-(1) Die zuständige Behörde und die Unternehmer richten die Register
-nach § 10 bis zum Ablauf des 29. Oktober 2011 ein.
+(1) Auf Grenzbetriebsstrecken und Durchgangsstrecken können bis zum 4.
+August 2020 abweichend von § 5 Absatz 2 Satz 3 die bis zum Ablauf des
+31\. Dezember 2015 bestehenden örtlichen, zwischen den Eisenbahnen, den
+zuständigen Behörden oder den Staaten abgeschlossenen Vereinbarungen
+zur Nutzung der Sprache eines Nachbarstaates weiter angewendet werden.
 
-(2) Triebfahrzeugführer, denen Erlaubnisse nach der Eisenbahnfahrzeug-
+(2) Für Triebfahrzeugführer, die ihre Fahrberechtigung oder ihre
+Erlaubnis nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des
+Verbandes Deutscher Verkehrsunternehmen vor dem 1. Januar 2016 erlangt
+haben, ist die Anlage 4 in der bis zum 31. Dezember 2015 geltenden
+Fassung weiter anzuwenden.
+
+(3) Für
+
+1.  Triebfahrzeugführer, die Triebfahrzeuge auf öffentlichen
+    Eisenbahninfrastrukturen für Eisenbahnen bewegen, die auf Grund des §
+    7a oder des § 7c des Allgemeinen Eisenbahngesetzes in der Fassung vom
+    29\. März 2019 (BGBl. I S. 347) erstmalig einer
+    Sicherheitsbescheinigung oder einer Sicherheitsgenehmigung bedürfen,
+    und
+
+
+2.  Unternehmer, die auf Grund des § 7a oder des § 7c des Allgemeinen
+    Eisenbahngesetzes in der Fassung vom 29. März 2019 (BGBl. I S. 347)
+    erstmalig einer Sicherheitsbescheinigung oder einer
+    Sicherheitsgenehmigung bedürfen,
+
+
+
+gelten die Verpflichtungen dieser Verordnung ab dem 6. Dezember 2022.
+Triebfahrzeugführer, denen Erlaubnisse nach der Eisenbahnfahrzeug-
 Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen
 erteilt worden sind, dürfen ihre berufliche Tätigkeit auf Grund ihrer
-Erlaubnisse und ohne Anwendung dieser Verordnung bis zum Ablauf des
-29\. Oktober 2018 weiter ausüben.
-
-(3) Ab dem 29. Oktober 2011 sind Triebfahrzeugführern, die im
-grenzüberschreitenden Verkehr, im Kabotageverkehr oder im Güterverkehr
-in einem anderen Mitgliedstaat eingesetzt werden oder in mindestens
-zwei Mitgliedstaaten tätig sind, nach Maßgabe dieser Verordnung
-Triebfahrzeugführerscheine zu erteilen und Zusatzbescheinigungen
-auszustellen. Ab diesem Zeitpunkt müssen sich alle von Satz 1
-erfassten Triebfahrzeugführer, sowie jene, denen noch kein
-Triebfahrzeugführerschein oder keine Zusatzbescheinigung nach dieser
-Verordnung erteilt worden ist, den regelmäßigen Überprüfungen nach §
-11 unterziehen.
-
-(4) Im Übrigen sind ab dem 29. Oktober 2013 Triebfahrzeugführerscheine
-zu erteilen und Zusatzbescheinigungen auszustellen.
-
-(5) Triebfahrzeugführern, die mit ihrer Ausbildung
-
-1.  vor dem 29. Oktober 2011 begonnen haben und die für
-    Eisenbahnverkehrsleistungen im Sinne von Absatz 3 Satz 1 eingesetzt
-    werden sollen oder
-
-
-2.  vor dem 29. Oktober 2013 begonnen haben und die nur für
-    Eisenbahnverkehrsleistungen auf dem Gebiet der Bundesrepublik
-    Deutschland eingesetzt werden sollen,
-
-
-
-kann eine Erlaubnis nach den Vorschriften der Eisenbahnfahrzeug-
-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen
-erteilt werden.
-
-(6) Bei Umstellung der Erlaubnisse nach der Eisenbahnfahrzeug-
-Führerschein-Richtlinie des Verbandes Deutscher Verkehrsunternehmen
-auf Triebfahrzeugführerscheine sind die Anträge bis zum 29. Oktober
-2016 zu stellen, wobei in diesen Fällen die Frist nach § 8 Absatz 3
-nicht gilt. Die zuständige Behörde berücksichtigt bei ihrer
-Entscheidung die gesamten beruflichen Befähigungen, die der
-Triebfahrzeugführer erworben hat.
-
-(7) Damit bei der Europäischen Kommission eine Kosten-Nutzen-Analyse
-nach Artikel 37 Nummer 5 der Richtlinie 2007/59/EG beantragt werden
-kann, haben alle Unternehmer der zuständigen Behörde auf Verlangen die
-dafür erforderlichen Daten zur Verfügung zu stellen.
+Erlaubnisse bis zum Ablauf des 6. Dezember 2022 weiter ausüben. Die
+zuständige Behörde stellt für Triebfahrzeugführer nach Satz 1 Nummer 1
+die Erlaubnisse nach der Eisenbahnfahrzeug-Führerschein-Richtlinie des
+Verbandes Deutscher Verkehrsunternehmen auf einen
+Triebfahrzeugführerschein nach dieser Verordnung um, soweit bis zum
+Ablauf des 6. Dezember 2021 ein Antrag auf Umstellung gestellt wird.
+In den Fällen des Satzes 3 gilt die Frist nach § 8 Absatz 3 nicht. Die
+zuständige Behörde berücksichtigt bei ihrer Entscheidung die gesamten
+beruflichen Befähigungen, die der Triebfahrzeugführer erworben hat.
 
 (zu § 3 Absatz 1 Satz 2 Nummer 1, § 5 Absatz 1 und § 8 Absatz 2 und 3)
 
 ### Anlage 1 Gemeinschaftsmodell für den Triebfahrzeugführerschein
 
-(Fundstelle: BGBl. I 2011, 714 - 715)
+(Fundstelle: BGBl. I 2011, 714 - 715; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 **A.** **Anfertigung des Triebfahrzeugführerscheins**
@@ -1154,7 +1181,9 @@ dafür erforderlichen Daten zur Verfügung zu stellen.
         Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates und
         zur Gültigkeit von gemäß der Richtlinie 2001/14/EG des Europäischen
         Parlaments und des Rates ausgestellten Sicherheitsbescheinigungen
-        (ABl. L 153 vom 14.6.2007, S. 9) gebildet.
+        (ABl. L 153 vom 14.6.2007, S. 9), die durch die Verordnung (EU) Nr.
+        445/2011 (ABl. L 122 vom 11.5.2011, S. 22) geändert worden ist,
+        gebildet.
 
         Die zwei Ziffern der Europäischen Identifikationsnummer für die Art
         des Dokuments lauten wie folgt:
@@ -1525,7 +1554,8 @@ Muster zu erstellen:
 
 ### Anlage 4 Medizinische und psychologische Anforderungen
 
-(Fundstelle: BGBl. I 2011, 721 - 722)
+(Fundstelle: BGBl. I 2011, 721 - 722; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 **1.** **Allgemeine Anforderungen**
@@ -1582,10 +1612,7 @@ Muster zu erstellen:
         f)  Sichtfeld: vollständig;
 
 
-        g)  Sehvermögen beider Augen: effektiv; nicht erforderlich, wenn der
-            Betreffende über eine angemessene Anpassung und ausreichende
-            Kompensationserfahrung verfügt; nur erforderlich, wenn der Betreffende
-            das binokulare Sehvermögen nach Aufnahme der Tätigkeit verloren hat;
+        g)  Sehvermögen beider Augen: effektiv;
 
 
         h)  binokulares Sehvermögen: effektiv;
@@ -1730,7 +1757,8 @@ Muster zu erstellen:
 
 ### Anlage 5 Allgemeine Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins
 
-(Fundstelle: BGBl. I 2011, 723)
+(Fundstelle: BGBl. I 2011, 723; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 
 
 **1.** **Ziele der allgemeinen Ausbildung**
@@ -1756,53 +1784,67 @@ Muster zu erstellen:
 
 
 
-**2.** **Ausbildungsinhalte**
+2.  Ausbildungsinhalte
 
-    a)  Struktur der Rechts- und Beförderungsgrundlagen und allgemeine
-        Übersicht über das Regelwerk;
+    a)  Struktur der Rechts- und Beförderungsgrundlagen in Bezug auf den
+        Eisenbahnbetrieb und die Sicherheit, allgemeine Übersicht über das
+        Regelwerk und Grundsätze des Umweltschutzes;
 
 
-    b)  Besonderheiten des Eisenbahnwesens, wie lange Bremswege, Einflüsse der
+    b)  Grundlagen der Eisenbahntechnik, einschließlich der
+        Sicherheitsgrundsätze des Eisenbahnbetriebs;
+
+
+    c)  Besonderheiten des Eisenbahnwesens, wie lange Bremswege, Einflüsse der
         Witterung, Fahren im Raumabstand, Betriebsstellen, Erfordernis und
         Zweckdienlichkeit der Signalisierung;
 
 
-    c)  Anforderungen an Bahnanlagen, wie Spurweite, Gleisabstand,
-        Belastbarkeit des Oberbaus, Oberleitung, Zugbeeinflussung,
-        Fernmeldeanlagen;
+    d)  Anforderungen an Bahnanlagen, wie Lichtraumprofil, Spurweite,
+        Gleisabstand, Belastbarkeit des Oberbaus, Oberleitung,
+        Zugbeeinflussung, Fernmeldeanlagen;
 
 
-    d)  Elemente der Bahnhöfe, wie Gleise, Weichen, Signale, und Abgrenzung
+    e)  Elemente der Bahnhöfe, wie Gleise, Weichen, Signale, und Abgrenzung
         zur freien Strecke;
 
 
-    e)  Grundsätze der Leit- und Sicherungstechnik mit Gleisfreimeldeanlagen,
+    f)  Grundsätze der Betriebsverfahren;
+
+
+    g)  Grundsätze der Leit- und Sicherungstechnik mit Gleisfreimeldeanlagen,
         Signalisierung, Fahrstraßen, Flankenschutz und Durchrutschwegen,
         Heißläufer- und Festbremsortungsanlagen;
 
 
-    f)  Anforderungen an Fahrzeuge und Züge mit Sicherheitsfahrschaltung;
+    h)  Grundlagen der Bahnstromversorgung;
 
 
-    g)  Aufgabe und Einrichtungen der Zugbeeinflussung;
+    i)  Anforderungen an Fahrzeuge und Züge;
 
 
-    h)  Anforderungen im Bahnbetrieb;
+    j)  Aufgabe und Einrichtungen der Zugbeeinflussung;
 
 
-    i)  Bestimmungen des Arbeitsschutzes und der Unfallverhütung;
+    k)  Anforderungen im Bahnbetrieb;
 
 
-    j)  Aufgaben der Mitarbeiter im Bahnbetrieb und deren betriebliche
+    l)  Bestimmungen des Arbeitsschutzes und der Unfallverhütung;
+
+
+    m)  Verhaltensregeln bei Unregelmäßigkeiten, Störungen und Unfällen;
+
+
+    n)  Aufgaben der Mitarbeiter im Bahnbetrieb und deren betriebliche
         Kommunikation;
 
 
-    k)  Spezifische Tätigkeiten des Triebfahrzeugführers:
+    o)  Spezifische Tätigkeiten des Triebfahrzeugführers:
 
         aa) Vorbereitungstätigkeiten bei Schichtbeginn,
 
 
-        bb) Zusammenstellen und auf den neuesten Stand Halten der notwendigen
+        bb) Zusammenstellen und auf dem neuesten Stand Halten der notwendigen
             Unterlagen,
 
 
@@ -2025,7 +2067,8 @@ Nummer 2 Buchstabe c und § 15 Absatz 1 Satz 2 Nummer 2 Buchstabe e)
 
 ### Anlage 7 Infrastrukturbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
 
-(Fundstelle: BGBl. I 2011, 726 - 727)
+(Fundstelle: BGBl. I 2011, 726 - 727; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 **1.** **Bremsberechnung**
@@ -2164,97 +2207,56 @@ Nummer 2 Buchstabe c und § 15 Absatz 1 Satz 2 Nummer 2 Buchstabe e)
 
 
 
-**6.** **Sprachprüfungen**
+6.  Sprachprüfungen
 
-    Triebfahrzeugführer müssen sich in deutscher Sprache verständigen
-    können. Ihre Sprachkenntnisse müssen ihnen eine aktive und
-    zielgerichtete Verständigung im Regelbetrieb, bei Unregelmäßigkeiten
-    und in Notfällen erlauben.
+    Der Triebfahrzeugführer muss über ausreichende Kenntnisse der
+    deutschen Sprache verfügen. Seine Sprachkenntnisse müssen ihm eine
+    aktive und zielgerichtete Verständigung im Regelbetrieb, bei
+    Unregelmäßigkeiten und in Notfällen erlauben.
 
-    Die mündliche Ausdrucksfähigkeit der Triebfahrzeugführer muss der
-    Stufe 3 der folgenden Tabelle entsprechen:
+    Ausreichende deutsche Sprachkenntnisse entsprechen dem Niveau B 1 des
+    Gemeinsamen europäischen Referenzrahmens für Sprachen.
 
-    *        *   Stufe
+    Abweichend von Satz 1 muss der Triebfahrzeugführer auf
+    Grenzbetriebsstrecken und Durchgangsstrecken, auf denen der
+    Eisenbahninfrastrukturunternehmer neben Deutsch eine zweite
+    Betriebssprache zugelassen hat, über Sprachkenntnisse einer der beiden
+    zugelassenen Sprachen auf dem Niveau B 1 des Gemeinsamen europäischen
+    Referenzrahmens für Sprachen verfügen. Von den Anforderungen des
+    Sprachniveaus B 1 nach Satz 3 können Triebfahrzeugführer auf
+    Grenzbetriebsstrecken und Durchgangsstrecken freigestellt werden, wenn
 
-        *   Beschreibung
-
-
-    *        *   5
-
-        *
-            –   kann die Art der Äußerung an jeden Gesprächspartner anpassen
-
-
-            –   kann einen Standpunkt vertreten
-
-
-            –   kann verhandeln
+    a)  der Unternehmer beim Eisenbahninfrastrukturunternehmer nach dem in
+        dessen Schienennetz-Nutzungsbedingungen veröffentlichten Verfahren
+        eine Freistellung für dort eingesetzte Triebfahrzeugführer beantragt,
 
 
-            –   kann überzeugen
+    b)  der Unternehmer nachweist, dass er in seinem
+        Sicherheitsmanagementsystem ausreichende Vorkehrungen getroffen hat,
+        um sicherzustellen, dass die betreffenden Triebfahrzeugführer und die
+        Mitarbeiter des Eisenbahninfrastrukturunternehmers sich bei
+        Normalbetrieb, gestörtem Betrieb und in Notsituationen untereinander
+        verständigen können,
 
 
-            –   kann beraten
+    c)  der Eisenbahninfrastrukturunternehmer eine Freistellung gewährt und
 
 
-
-
-
-    *        *   4
-
-        *
-            –   kann völlig unerwartete Situationen meistern
-
-
-            –   kann Vermutungen äußern
-
-
-            –   kann einen begründeten Standpunkt äußern
+    d)  eine entsprechende Unterrichtung der betroffenen Triebfahrzeugführer
+        und Mitarbeiter des Eisenbahninfrastrukturunternehmers in den
+        jeweiligen Sicherheitsmanagementsystemen sichergestellt ist.
 
 
 
-
-
-    *        *   3
-
-        *
-            –   kann praktische Situationen mit einem unerwarteten Element meistern
-
-
-            –   kann beschreiben
-
-
-            –   kann ein einfaches Gespräch führen
-
-
-
-
-
-    *        *   2
-
-        *
-            –   kann einfache praktische Situationen meistern
-
-
-            –   kann Fragen stellen
-
-
-            –   kann Fragen beantworten
-
-
-
-
-
-    *        *   1
-
-        *
-            –   kann mit Hilfe auswendig gelernter Sätze sprechen
-
-
-
-
-
-
+    Auf Grenzbetriebs- und Durchgangsstrecken, für die Vereinbarungen nach
+    § 3a Absatz 4 der Eisenbahn-Bau- und Betriebsordnung bestehen, gilt
+    der Nachweis nach Satz 5 Buchstabe b durch einen Verweis auf die
+    bestehende, in den Schienennetz-Nutzungsbestimmungen des
+    Eisenbahninfrastrukturunternehmers veröffentlichte Regelung als
+    erbracht. Die Freistellung nach Satz 5 Buchstabe c erfolgt in diesen
+    Fällen durch Abschluss einer Vereinbarung über die Bestimmungen über
+    die Betriebssicherheit nach § 21 Absatz 1 des
+    Eisenbahnregulierungsgesetzes.
 
 
 

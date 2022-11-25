@@ -1,8 +1,5 @@
-[^F774045_01_BJNR067700010]
-Verordnung über die Berufsausbildung zum Büchsenmacher und zur
-Büchsenmacherin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 jurabk: BüchsenmAusbV 2010
 layout: default
 origslug: b_chsenmausbv_2010
@@ -10,7 +7,7 @@ slug: buechsenmausbv_2010
 
 ---
 
-#  (BüchsenmAusbV 2010)
+# Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin (BüchsenmAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-05-26
@@ -30,7 +27,7 @@ Fundstelle
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
 2 Satz 1 Nummer 2, 3 und 7 der Handwerksordnung, von denen § 25 Absatz
-1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBI.
+1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl.
 I S. 2407) geändert und § 26 zuletzt durch Artikel 2 Nummer 4 des
 Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist,
 verordnet das Bundesministerium für Wirtschaft und Technologie im

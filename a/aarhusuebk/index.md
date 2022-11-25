@@ -14,5 +14,5 @@ Ausfertigungsdatum
 :   1998-06-25
 
 Fundstelle
-:   BGBl II: 2007, 1252
+:   BGBl II: 2006, 1252
 

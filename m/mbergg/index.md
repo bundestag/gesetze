@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 778, 782
 
 Zuletzt geändert durch
-:   Art. 74 G v. 8.12.2010 I 1864
+:   Art. 238 V v. 19.6.2020 I 1328
 
 
 ## § 1 Zweck des Gesetzes
@@ -241,8 +241,8 @@ erforderlich ist, sind nachträglich Auflagen zulässig.
 Befürwortung, die englische Fassung des Antrags auf Abschluß eines
 Vertrages, des Entwurfs des Arbeitsplanes und aller sonstigen
 erforderlichen Unterlagen dem Bundesministerium für Wirtschaft und
-Technologie zu, das die Befürwortung mit diesen Unterlagen an die
-Behörde weiterleitet.
+Energie zu, das die Befürwortung mit diesen Unterlagen an die Behörde
+weiterleitet.
 
 (11) Die Befürwortung ist nicht übertragbar.
 
@@ -317,13 +317,13 @@ Ziffer ii und Artikel 162 Abs. 2 Buchstabe o Ziffer ii des
 Abschnitts 1 der Anlage zum Durchführungsübereinkommen von der Behörde
 angenommen worden sind, in Kraft zu setzen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung Vorschriften zur Durchführung der
-in Absatz 1 genannten Bestimmungen zu erlassen. Die Rechtsverordnungen
-sind, soweit sie Fragen des Arbeitsschutzes betreffen, im Einvernehmen
-mit dem Bundesministerium für Arbeit und Soziales und, soweit sie
-Fragen des Umweltschutzes betreffen, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit zu
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung Vorschriften zur Durchführung der in Absatz 1
+genannten Bestimmungen zu erlassen. Die Rechtsverordnungen sind,
+soweit sie Fragen des Arbeitsschutzes betreffen, im Einvernehmen mit
+dem Bundesministerium für Arbeit und Soziales und, soweit sie Fragen
+des Umweltschutzes betreffen, im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu
 erlassen. Die Ermächtigungen nach dem Seeaufgabengesetz bleiben
 unberührt.
 
@@ -368,7 +368,7 @@ strafgerichtlicher Verfolgung oder einem Verfahren nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde. Er ist über das Recht zur
 Verweigerung der Auskunft zu belehren.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie kann durch
+(5) Das Bundesministerium für Wirtschaft und Energie kann durch
 Rechtsverordnung die für die Aufsicht erforderlichen Vorschriften
 erlassen, um sicherzustellen, daß Prospektion oder Tätigkeiten im
 Gebiet in Übereinstimmung mit dem Übereinkommen, dem
@@ -385,18 +385,11 @@ Im Gebiet gefundene Gegenstände archäologischer oder historischer Art
 sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln.
 Diese Anweisungen haben Artikel 149 des Übereinkommens zu
 berücksichtigen und werden im Einvernehmen mit dem Bundesministerium
-des Innern erlassen.
+des Innern, für Bau und Heimat erlassen.
 
 
-## § 10 Kosten
+## § 10 (weggefallen)
 
-(1) Für Amtshandlungen nach diesem Gesetz und nach den zu diesem
-Gesetz erlassenen Rechtsverordnungen werden Kosten (Gebühren und
-Auslagen) erhoben.
-
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände
-näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
 
 ## § 11 Bußgeldvorschriften

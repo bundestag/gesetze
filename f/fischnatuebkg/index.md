@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1976, 1
 
 Zuletzt geändert durch
-:   Art. 216 V v. 31.10.2006 I 2407
+:   Art. 13 G v. 24.5.2016 I 1217
 
 
 ## Eingangsformel
@@ -33,14 +33,14 @@ beschlossen:
 
 ## Art 2
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz und das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung werden ermächtigt, für den Bereich nach Artikel 8
-Abs. 2 des Übereinkommens für solche Fahrzeuge oder Geräte, die wegen
-ihrer Größe oder Art nur in Küstengewässern verwendet werden, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates besondere
-Bestimmungen zu erlassen oder Befreiungen vorzusehen (Artikel 8 Abs. 3
-des Übereinkommens) in bezug auf
+(1) Das Bundesministerium für Ernährung und Landwirtschaft und das
+Bundesministerium für Verkehr und digitale Infrastruktur werden
+ermächtigt, für den Bereich nach Artikel 8 Abs. 2 des Übereinkommens
+für solche Fahrzeuge oder Geräte, die wegen ihrer Größe oder Art nur
+in Küstengewässern verwendet werden, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates besondere Bestimmungen zu erlassen oder
+Befreiungen vorzusehen (Artikel 8 Abs. 3 des Übereinkommens) in bezug
+auf
 
 1.  die zu verwendenden Sichtzeichen und Schallsignale (Anlage III des
     Übereinkommens),
@@ -55,14 +55,14 @@ des Übereinkommens) in bezug auf
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz und das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung werden ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates Änderungen der Anlagen des Übereinkommens
-nach Maßgabe seines Artikels 11, die der Sicherstellung der Ordnung
-und eines geregelten Verhaltens auf den Fangplätzen dienen, in Kraft
-zu setzen und sie in die Bußgeldvorschriften des Artikels 6 Abs. 1 Nr.
-1 bis 3 und Abs. 2 einzubeziehen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft und das
+Bundesministerium für Verkehr und digitale Infrastruktur werden
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Änderungen der Anlagen des Übereinkommens nach Maßgabe seines Artikels
+11, die der Sicherstellung der Ordnung und eines geregelten Verhaltens
+auf den Fangplätzen dienen, in Kraft zu setzen und sie in die
+Bußgeldvorschriften des Artikels 6 Abs. 1 Nr. 1 bis 3 und Abs. 2
+einzubeziehen.
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 
@@ -84,9 +84,9 @@ Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung
 ganz oder zum Teil auf oberste Landesbehörden übertragen.
 
 (4) Die Landesregierungen oder die von ihnen bestimmten obersten
-Landesbehörden unterrichten das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz über die Zuteilung der
-Kennzeichen an die Fischereifahrzeuge.
+Landesbehörden unterrichten das Bundesministerium für Ernährung und
+Landwirtschaft über die Zuteilung der Kennzeichen an die
+Fischereifahrzeuge.
 
 
 ## Art 3
@@ -109,21 +109,20 @@ Vorschriften des Übereinkommens, dieses Gesetzes und der auf Grund
 dieses Gesetzes erlassenen Vorschriften von den Kapitänen oder den
 Schiffsoffizieren des nautischen Dienstes der im Fischereihilfsdienst
 eingesetzten Fahrzeuge der Bundesrepublik Deutschland, von sonstigen
-vom Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz und vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung hierzu beauftragten Bediensteten und, soweit die
-Gegenseitigkeit verbürgt ist, von besonders bevollmächtigten
-Kontrollbeamten (Artikel 9 des Übereinkommens) der
-Fischereiaufsichtsdienste der Vertragsstaaten des Übereinkommens
-durchgeführt.
+vom Bundesministerium für Ernährung und Landwirtschaft und vom
+Bundesministerium für Verkehr und digitale Infrastruktur hierzu
+beauftragten Bediensteten und, soweit die Gegenseitigkeit verbürgt
+ist, von besonders bevollmächtigten Kontrollbeamten (Artikel 9 des
+Übereinkommens) der Fischereiaufsichtsdienste der Vertragsstaaten des
+Übereinkommens durchgeführt.
 
 (2) Binnenwärts der seewärtigen Begrenzung des Küstenmeeres obliegt
 die Überwachung der Einhaltung der Vorschriften des Übereinkommens,
 dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Vorschriften hinsichtlich der Regeln der Anlagen II und V des
 Übereinkommens den nach Landesrecht zuständigen Behörden; sie obliegt
-im übrigen den Behörden der Wasser- und Schiffahrtsverwaltung des
-Bundes.
+im übrigen den Behörden der Wasserstraßen- und Schifffahrtsverwaltung
+des Bundes.
 
 (3) Die Vollzugsbeamten sind ermächtigt, die zur Einhaltung der
 Vorschriften erforderlichen Maßnahmen zu treffen. Die der Überwachung
@@ -205,7 +204,7 @@ Euro geahndet werden.
     Küstenmeeres begangen worden sind,
 
 
-2.  das Bundesministerium für Verkehr, Bau und Stadtentwicklung in den
+2.  das Bundesministerium für Verkehr und digitale Infrastruktur in den
     übrigen Fällen; es kann seine Zuständigkeit durch Rechtsverordnung
     ohne Zustimmung des Bundesrates auf nachgeordnete Behörden seines
     Bereiches übertragen.

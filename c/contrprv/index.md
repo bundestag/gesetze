@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1579
 
+Zuletzt geändert durch
+:   Art. 35 V v. 9.12.2019 I 2153
+
 
 
 ## Eingangsformel
@@ -162,15 +165,14 @@ wurde.
 
 (5) In der Projektarbeit soll eine komplexe Problemstellung der
 betrieblichen Controllingpraxis dargestellt, beurteilt und gelöst
-werden. Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin schlägt
-aus den in § 4 Abs. 1 bis 5 genannten Bereichen dem Prüfungsausschuss
-zwei Themen vor. Auf dieser Grundlage formuliert der Prüfungsausschuss
-die Aufgabenstellung für die Projektarbeit. Die Projektarbeit ist als
-schriftliche Hausarbeit anzufertigen. Das in der Projektarbeit
-erarbeitete Ergebnis ist auch als eine betriebswirtschaftliche
-Beratungsleistung im Sinne des § 4 Abs. 5 aufzubereiten. Der
-Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die
-Bearbeitungszeit beträgt 30 Kalendertage.
+werden. Die zu prüfende Person schlägt aus den in § 4 Abs. 1 bis 5
+genannten Bereichen dem Prüfungsausschuss zwei Themen vor. Auf dieser
+Grundlage formuliert der Prüfungsausschuss die Aufgabenstellung für
+die Projektarbeit. Die Projektarbeit ist als schriftliche Hausarbeit
+anzufertigen. Das in der Projektarbeit erarbeitete Ergebnis ist auch
+als eine betriebswirtschaftliche Beratungsleistung im Sinne des § 4
+Abs. 5 aufzubereiten. Der Prüfungsausschuss soll den Umfang der Arbeit
+begrenzen. Die Bearbeitungszeit beträgt 30 Kalendertage.
 
 (6) In der Präsentation sollen die Ergebnisse der Projektarbeit
 dargestellt und begründet werden. Im Fachgespräch sollen anknüpfend an
@@ -323,43 +325,120 @@ nachgewiesen werden, fachliche Führungs- und Organisationsaufgaben
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
-von der Ablegung einzelner schriftlicher Prüfungsleistungen befreit
-werden, wenn in den letzten fünf Jahren vor einer zuständigen Stelle,
-einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
-vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
-abgelegt wurde, die den Anforderungen der entsprechenden
-Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
-von den Prüfungsleistungen gemäß § 3 Abs. 4 bis 7 ist nicht zulässig.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 6 Absatz 2 Satz 2 oder § 7 Absatz 4
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen. Eine Befreiung von den Prüfungsleistungen nach § 3
+Absatz 4 bis 7 ist nicht zulässig.
 
 
-## § 6 Bestehen der Prüfung
+## § 6 Bewerten von Prüfungsleistungen
 
-(1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen gemäß
-§ 3 Abs. 2 mindestens ausreichende Leistungen erbracht wurden.
-
-(2) Die Prüfungsleistungen gemäß § 3 Abs. 2 sind jeweils gesondert zu
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+(2) Die schriftlichen Prüfungsleistungen in den Handlungsbereichen
+nach § 3 Absatz 1 Nummer 1 bis 4 sind einzeln zu bewerten. Aus den
+einzelnen Bewertungen ist das arithmetische Mittel zu berechnen.
+
+(3) Die Projektarbeit und die mündliche Prüfung in Form einer
+Präsentation und Fachgespräch nach § 3 Absatz 4 Satz 1 sind einzeln zu
+bewerten.
 
 
-## § 7 Wiederholen der Prüfung
+## § 7 Bestehen der Prüfung, Gesamtnote
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in den vier schriftlichen Prüfungsleistungen in den Handlungsbereichen
+    nach § 3 Absatz 1 Nummer 1 bis 4 und Absatz 2,
+
+
+2.  in der Projektarbeit nach § 3 Absatz 4 Satz 1,
+
+
+3.  in der mündlichen Prüfung in Form einer Präsentation und Fachgespräch
+    nach § 3 Absatz 4.
+
+
+
+
+(2) Ist die Prüfung bestanden, wird das arithmetische Mittel der
+Bewertung für die vier schriftlichen Prüfungsleistungen in den
+Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4 kaufmännisch auf
+eine ganze Zahl gerundet.
+
+(3) Den Bewertungen für die vier schriftlichen Prüfungsleistungen in
+den Handlungsbereichen nach § 3 Absatz 1 Nummer 1 bis 4, der
+Projektarbeit und der mündlichen Prüfung in Form einer Präsentation
+und Fachgespräch ist nach Anlage 1 die jeweilige Note als Dezimalzahl
+zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  das arithmetische Mittel der Bewertungen für die vier schriftlichen
+    Prüfungsleistungen in den Handlungsbereichen nach § 3 Absatz 1 Nummer
+    1 bis 4 mit 25 Prozent,
+
+
+2.  die Bewertung der Projektarbeit mit 45 Prozent,
+
+
+3.  die Bewertung für die mündliche Prüfung mit 30 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholen der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
 Wiederholungsprüfung angemeldet hat. Dabei können auch bestandene
 Prüfungsleistungen auf Antrag einmal wiederholt werden. In diesem Fall
 gilt das Ergebnis der letzten Prüfung.
@@ -368,7 +447,7 @@ gilt das Ergebnis der letzten Prüfung.
 Projektarbeit wiederholt werden.
 
 
-## § 8 Übergangsvorschriften
+## § 10 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2009 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -379,86 +458,369 @@ Juni 2008 die Anwendung der bisherigen Vorschriften bis zum 31.
 Dezember 2009 beantragt werden.
 
 
-## § 9 Inkrafttreten
+## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu den §§ 6 und 7)
 
-## Anlage 1 (zu § 6 Abs. 3)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2006, 1582)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-Herr/Frau
-....................................................................
-geboren am ............................ in
-...................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579)
-bestanden.
-Datum ............................................
-Unterschrift(en) .................................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2280 – 2281)
 
 
-## Anlage 2 (zu § 6 Abs. 3)
+*    *   Punkte
 
-Fundstelle des Originaltextes: BGBl. I 2006, 1583
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-Herr/Frau
-....................................................................
-geboren am ............................. in
-..................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Controller/Geprüfte Controllerin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579)
-mit
-folgenden Ergebnissen bestanden:
-Punkte \*)    Note
-1\.  Kostenrechnung und Kostenmanagement                .........
-.........
-2\.  Unternehmensplanung und Budgetierung               .........
-.........
-3\.  Jahresabschlussanalyse                             .........
-.........
-4\.  Berichtswesen und Informationsmanagement           .........
-.........
-5\.  Projektarbeit                                      .........
-.........
-Thema der Projektarbeit: ..................
-6\.  Präsentation und Fachgespräch                      .........
-.........
-(Im Fall des § 5: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde gemäß
-§ 5 im Hinblick auf die am ......... in ............... vor
-..................
-abgelegte Prüfung in dem Handlungsbereich
-....................................
-freigestellt.")
-Datum .....................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
+    *   Note
+        als Dezimalzahl
 
-\*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    ................
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2282)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung und Bewertung der Handlungsbereiche nach § 3 Absatz 1 Nummer
+    1 bis 4 mit Punkten und Note,
+
+
+2.  Benennung der Projektarbeit mit Punkten und Note,
+
+
+3.  Benennung des Themas der Projektarbeit,
+
+
+4.  Benennung von Präsentation und Fachgespräch mit Punkten und Note,
+
+
+5.  die errechnete Gesamtpunktzahl,
+
+
+6.  die Gesamtnote als Dezimalzahl,
+
+
+7.  die Gesamtnote in Worten,
+
+
+8.  Befreiungen nach § 5.
 
 
 

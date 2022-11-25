@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2934
 
+Zuletzt geändert durch
+:   Art. 49 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -160,14 +163,7 @@ in folgenden Handlungsbereichen geprüft:
 
 Die Prüfung wird schriftlich durchgeführt.
 
-(4) Wurden in den schriftlichen Prüfungsleistungen (Teilergebnisse)
-nach § 4 Absatz 1 und nach § 5 nicht mehr als eine mangelhafte
-Prüfungsleistung erbracht, ist darin eine mündliche Ergänzungsprüfung
-anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als
-20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung
-und die der mündlichen Ergänzungsprüfung werden zu einer Note
-zusammengefasst. Dabei wird die schriftliche Prüfungsleistung doppelt
-gewichtet.
+(4) (weggefallen)
 
 
 ## § 4 Durchführung der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“
@@ -180,10 +176,9 @@ Aufgabenstellungen durchzuführen. Die gesamte Bearbeitungsdauer soll
 
 (2) Die mündliche Prüfungsleistung wird durch ein situationsbezogenes
 Fachgespräch in einem vom Prüfungsausschuss nach § 7 gewählten Thema
-erbracht. Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin wählt
-dafür einen aus zwei zur Wahl gestellten Fällen aus. Die Prüfungsdauer
-beträgt für jeden Prüfungsteilnehmer und für jede Prüfungsteilnehmerin
-mindestens 30 Minuten und höchstens 45 Minuten. Es ist eine
+erbracht. Die zu prüfende Person wählt dafür einen aus zwei zur Wahl
+gestellten Fällen aus. Die Prüfungsdauer beträgt für die zu prüfende
+Person mindestens 30 Minuten und höchstens 45 Minuten. Es ist eine
 Vorbereitungszeit von 30 Minuten zu gewähren. Durch das Fachgespräch
 soll nachgewiesen werden, dass pädagogisch angemessen moderiert,
 geführt und kommuniziert werden kann.
@@ -213,13 +208,12 @@ Projektarbeit mindestens als ausreichende Leistung bewertet wurde.
 
 (3) In der Projektarbeit soll eine komplexe berufspädagogische
 Problemstellung im beruflichen Handlungsfeld dargestellt, beurteilt
-und gelöst werden. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin schlägt aus den in § 9 genannten Funktionen dem
-Prüfungsausschuss dafür ein Projektthema vor. Auf dieser Grundlage
-entscheidet der Prüfungsausschuss über die Annahme der Projektarbeit.
-Die Projektarbeit ist als schriftliche Hausarbeit anzufertigen. Der
-Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die
-Bearbeitungszeit beträgt 30 Kalendertage.
+und gelöst werden. Die zu prüfende Person schlägt aus den in § 9
+genannten Funktionen dem Prüfungsausschuss dafür ein Projektthema vor.
+Auf dieser Grundlage entscheidet der Prüfungsausschuss über die
+Annahme der Projektarbeit. Die Projektarbeit ist als schriftliche
+Hausarbeit anzufertigen. Der Prüfungsausschuss soll den Umfang der
+Arbeit begrenzen. Die Bearbeitungszeit beträgt 30 Kalendertage.
 
 (4) In der Präsentation sollen die Ergebnisse der Projektarbeit
 dargestellt und pädagogisch begründet werden. Im Fachgespräch sollen
@@ -469,57 +463,115 @@ der Koordination arbeitsprozessintegrierter Ausbildung und andere
 anleitende und beratende Ausbilderfunktionen.
 
 
-## § 10 Anrechnung anderer Prüfungsleistungen
+## § 10 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 11 Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen
-mindestens ausreichende Leistungen erbracht wurden.
-
-(2) Jede Prüfungsleistung ist gesondert nach Punkten zu bewerten.
-
-(3) Im Prüfungsteil „Lernprozesse und Lernbegleitung“ ist eine
-Punktebewertung für das Ergebnis der schriftlichen Prüfungsleistung
-nach § 4 Absatz 1 aus den beiden gleich zu gewichtenden schriftlichen
-Teilergebnissen vorzunehmen. Diese Punktebewertung der schriftlichen
-Prüfungsleistung und die des Fachgesprächs nach § 4 Absatz 2 sind
-gleichgewichtet zu einer Note zusammenzufassen.
-
-(4) Im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“ sind
-Punkte und Note aus den Punktebewertungen der beiden gleich zu
-gewichtenden Punktebewertungen der schriftlichen Aufgabenstellungen
-nach § 5 zu bilden.
-
-(5) Im Prüfungsteil „Berufspädagogisches Handeln“ ist aus den gleich
-zu gewichtenden Ergebnissen der Präsentation und des Fachgesprächs
-eine Punktebewertung vorzunehmen. Diese Punktebewertung und die der
-Projektarbeit sind gleichgewichtet zu einer Note zusammenzufassen.
-
-(6) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 10
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung
+von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 11 und 12 außer
+Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die
+Anteile nach § 11 Absatz 2 Satz 3 oder Absatz 3 Satz 2 oder Absatz 4
+Satz 3 oder § 12 Absatz 3 Satz 2 entsprechend ihrem Verhältnis
+zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen
+des Prüfungsausschusses zugrunde zu legen.
 
 
-## § 12 Wiederholen der Prüfung
+## § 11 Bewerten der Prüfungsleistungen
 
-(1) Nicht bestandene Prüfungsteile können zweimal wiederholt werden.
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
+(2) Die Prüfungsleistungen im Prüfungsteil „Lernprozess und
+Lernbegleitung“ sind einzeln zu bewerten. Aus den einzelnen
+Bewertungen der schriftlichen Prüfungsleistungen nach § 4 Absatz 1 ist
+das arithmetische Mittel zu berechnen. Aus diesem und der Bewertung
+des Fachgesprächs nach § 4 Absatz 2 ist als Bewertung für diesen
+Prüfungsteil das arithmetische Mittel zu berechnen.
+
+(3) Die Prüfungsleistungen im Prüfungsteil „Planungsprozesse in der
+beruflichen Bildung“ sind einzeln zu bewerten. Aus den einzelnen
+Bewertungen ist als Bewertung für diesen Prüfungsteil das
+arithmetische Mittel zu berechnen.
+
+(4) Im Prüfungsteil „Berufspädagogisches Handeln“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die Projektarbeit,
+
+
+2.  nach Maßgabe der Sätze 2 und 3
+
+    a)  die Präsentation sowie
+
+
+    b)  das Fachgespräch.
+
+
+
+
+
+
+Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs
+ist das arithmetische Mittel zu berechnen. Aus diesem und der
+Bewertung der Projektarbeit ist als Bewertung für diesen Prüfungsteil
+das arithmetische Mittel zu berechnen.
+
+
+## § 12 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, sind die Bewertungen für alle
+Prüfungsteile jeweils kaufmännisch auf eine ganze Zahl zu runden.
+
+(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer
+Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus den
+Bewertungen aller Prüfungsteile zu berechnen.
+
+(4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 13 Zeugnisse
+
+(1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 10 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 14 Wiederholen der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
+werden.
+
+(2) Mit dem Antrag auf Wiederholung die zu prüfende Person von
+einzelnen Prüfungsleistungen befreit, wenn die darin in einer
+vorangegangenen Prüfung erbrachten Leistungen mindestens ausreichend
+sind und die zu prüfende Person sich innerhalb von zwei Jahren,
+gerechnet vom Tage der nicht bestanden Prüfung an, zur
 Wiederholungsprüfung angemeldet hat. Bestandene Prüfungsleistungen
 können auf Antrag einmal wiederholt werden. In diesem Fall gilt das
 Ergebnis der letzten Prüfung.
@@ -529,203 +581,392 @@ für die Wiederholungsprüfung die Projektarbeit nach § 6 Absatz 3
 wiederholt werden.
 
 
-## § 13 Übergangsregelung
+## § 15 Übergangsregelung
 
 Die Prüfungen zu dem Abschluss „Berufspädagoge/Berufspädagogin für
 Aus- und Weiterbildung IHK“ können bis zum 31. Dezember 2013 nach den
 bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 14 Inkrafttreten
+## § 16 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
-(zu § 11 Absatz 6)
+(zu den §§ 11 und 12)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. 2009, 2938)
-
-*    *   ....................
-        (Bezeichnung der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2326 – 2327)
 
 
+*    *   Punkte
 
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und
-Weiterbildungspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Aus- und Weiterbildungspädagoge/
-## Geprüfte Aus- und Weiterbildungspädagogin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Aus- und
-Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
-21\. August 2009 (BGBl. I S. 2934)
-
-
-*    *   bestanden.
-
-
-
-
-*    *   Datum ....................
-
-
-*    *   Unterschrift(en) ....................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-(zu § 11 Absatz 6)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. 2009, 2939)
-
-*    *   ....................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und
-Weiterbildungspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Aus- und Weiterbildungspädagoge/
-## Geprüfte Aus- und Weiterbildungspädagogin
-
-[^f772493_01_BJNR293400009BJNE001700000]
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Aus- und
-Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
-21\. August 2009 (BGBl. I S. 2934) mit folgenden Ergebnissen
-bestanden:
-
-
-*    *
-    *
-    *   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Lernprozesse und Lernbegleitung
+    *   1,0
 
-    *
-    *
-    *   ....................
+    *   sehr gut
 
-
-*    *
-    *   Schriftliche Prüfungsleistungen
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Fachgespräch
-
-    *   ....................
-
-    *
-    *
-
-*    *   II.
-
-    *   Planungsprozesse in der beruflichen Bildung
-
-    *   ....................
-
-    *
-    *   ....................
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   III.
+*    *   98 und 99
 
-    *   Berufspädagogisches Handeln
-
-    *
-    *
-    *   ....................
+    *   1,1
 
 
-*    *
-    *   Projektarbeit
+*    *   96 und 97
 
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Präsentation und Fachgespräch
-
-    *   ....................
-
-    *
-    *
+    *   1,2
 
 
-   (Im Fall des § 10: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 10 im Hinblick auf die am ....................
-in .................... vor .................... abgelegte Prüfung in
-.................... freigestellt. “)
+*    *   94 und 95
+
+    *   1,3
 
 
-*    *   Datum ....................
+*    *   92 und 93
+
+    *   1,4
 
 
-*    *   Unterschrift(en) ....................
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ....................
-[^f772493_01_BJNR293400009BJNE001700000]: 
+(zu § 13)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2328)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Lernprozesse und Lernbegleitung“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der schriftlichen Prüfungsleistungen und des
+        Fachgesprächs mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Planungsprozesse in der beruflichen Bildung“ die
+    Benennung und Bewertung dieses Prüfungsteils mit Punkten und Note,
+
+
+3.  zum Prüfungsteil „Berufspädagogisches Handeln“
+
+    a)  Benennung und Bewertung dieses Prüfungsteils mit Note sowie
+
+
+    b)  Benennung und Bewertung der Projektarbeit, der Präsentation und des
+        Fachgesprächs mit Punkten,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 10.
+
+
+
+

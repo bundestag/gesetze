@@ -16,16 +16,15 @@ Fundstelle
 :   RGBl: 1877, 77
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.12.2011 I 2582 (2800)
+:   Art. 3 G v. 25.6.2021 I 2099
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
 
 
-### § 1
+### § 1 (weggefallen)
 
-(weggefallen)
 
 
 ### § 2
@@ -52,9 +51,8 @@ Landesgesetzgebung nach anderen als den durch das
 Gerichtsverfassungsgesetz vorgeschriebenen Normen bestimmt werden.
 
 
-### § 4
+### § 4 (weggefallen)
 
-(weggefallen)
 
 
 ### § 4a
@@ -71,9 +69,8 @@ nach den Grenzen der Verwaltungsbezirke bestimmt.
 (2) (weggefallen)
 
 
-### § 5
+### § 5 (weggefallen)
 
--
 
 
 ### § 6
@@ -92,9 +89,8 @@ in der ordentlichen Gerichtsbarkeit sind erstmals auf die erste nach
 ihrem Inkrafttreten beginnende Amtsperiode anzuwenden.
 
 
-### § 7
+### § 7 (weggefallen)
 
--
 
 
 ### § 8
@@ -121,7 +117,7 @@ Gesetz über die internationale Rechtshilfe in Strafsachen ganz oder
 teilweise ausschließlich einem der mehreren Oberlandesgerichte oder an
 Stelle eines solchen Oberlandesgerichts dem Obersten Landesgericht
 zugewiesen werden. Dem Obersten Landesgericht können auch die zur
-Zuständigkeit eines Oberlandesgerichts nach § 120 des
+Zuständigkeit eines Oberlandesgerichts nach den §§ 120 und 120b des
 Gerichtsverfassungsgesetzes gehörenden Entscheidungen zugewiesen
 werden.
 
@@ -146,9 +142,8 @@ Gerichtsbarkeit nach den Vorschriften über die Oberlandesgerichte, im
 übrigen nach den Vorschriften über den Bundesgerichtshof.
 
 
-### § 11
+### § 11 (weggefallen)
 
-(weggefallen)
 
 
 ## Zweiter Abschnitt - Verfahrensübergreifende Mitteilungen von Amts wegen
@@ -178,11 +173,11 @@ entgegensteht.
 (4) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
 übermittelnde Stelle.
 
-(5) Das Bundesministerium der Justiz kann mit Zustimmung des
-Bundesrates allgemeine Verwaltungsvorschriften zu den nach diesem
-Abschnitt zulässigen Mitteilungen erlassen. Ermächtigungen zum Erlaß
-von Verwaltungsvorschriften über Mitteilungen in besonderen
-Rechtsvorschriften bleiben unberührt.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zu
+den nach diesem Abschnitt zulässigen Mitteilungen erlassen.
+Ermächtigungen zum Erlaß von Verwaltungsvorschriften über Mitteilungen
+in besonderen Rechtsvorschriften bleiben unberührt.
 
 
 ### § 13
@@ -195,12 +190,12 @@ Aufgaben übermitteln, wenn
     voraussetzt,
 
 
-2.  der Betroffene eingewilligt hat,
+2.  die betroffene Person eingewilligt hat,
 
 
-3.  offensichtlich ist, daß die Übermittlung im Interesse des Betroffenen
-    liegt, und kein Grund zu der Annahme besteht, daß er in Kenntnis
-    dieses Zwecks seine Einwilligung verweigern würde,
+3.  offensichtlich ist, daß die Übermittlung im Interesse der betroffenen
+    Person liegt, und kein Grund zu der Annahme besteht, daß sie in
+    Kenntnis dieses Zwecks ihre Einwilligung verweigern würde,
 
 
 4.  die Daten auf Grund einer Rechtsvorschrift von Amts wegen öffentlich
@@ -229,8 +224,8 @@ Aufgaben übermitteln, wenn
 
 dies gilt auch, wenn auf Grund der Entscheidung der Erlaß eines
 Verwaltungsaktes vorgeschrieben ist, ein Verwaltungsakt nicht erlassen
-werden darf oder wenn der Betroffene ihm durch Verwaltungsakt gewährte
-Rechte auch nur vorläufig nicht wahrnehmen darf.
+werden darf oder wenn die betroffene Person ihr durch Verwaltungsakt
+gewährte Rechte auch nur vorläufig nicht wahrnehmen darf.
 
 (2) In anderen als in den in Absatz 1 genannten Fällen dürfen Gerichte
 und Staatsanwaltschaften personenbezogene Daten zur Erfüllung der in
@@ -238,10 +233,10 @@ der Zuständigkeit des Empfängers liegenden Aufgaben einschließlich der
 Wahrnehmung personalrechtlicher Befugnisse übermitteln, wenn eine
 Übermittlung nach den §§ 14 bis 17 zulässig ist und soweit nicht für
 die übermittelnde Stelle offensichtlich ist, daß schutzwürdige
-Interessen des Betroffenen an dem Ausschluß der Übermittlung
+Interessen der betroffenen Person an dem Ausschluß der Übermittlung
 überwiegen. Übermittelte Daten dürfen auch für die Wahrnehmung der
 Aufgaben nach dem Sicherheitsüberprüfungsgesetz oder einem
-entsprechenden Landesgesetz verwendet werden.
+entsprechenden Landesgesetz verarbeitet werden.
 
 
 ### § 14
@@ -256,7 +251,7 @@ erforderlich ist für
 
 4.  dienstrechtliche Maßnahmen oder Maßnahmen der Aufsicht, falls
 
-    a)  der Betroffene wegen seines Berufs- oder Amtsverhältnisses einer
+    a)  die betroffene Person wegen ihres Berufs- oder Amtsverhältnisses einer
         Dienst-; Staats- oder Standesaufsicht unterliegt, Geistlicher einer
         Kirche ist oder ein entsprechendes Amt bei einer anderen öffentlich-
         rechtlichen Religionsgesellschaft bekleidet oder Beamter einer Kirche
@@ -284,9 +279,9 @@ erforderlich ist für
     Jugendlichen, für die Untersagung der Durchführung der
     Berufsausbildung oder für die Anordnung einer Auflage, falls
 
-    a)  der Betroffene ein nicht unter Nummer 4 fallender Angehöriger des
-        öffentlichen Dienstes oder des Dienstes einer öffentlich-rechtlichen
-        Religionsgesellschaft, ein Gewerbetreibender oder ein
+    a)  die betroffene Person ein nicht unter Nummer 4 fallender Angehöriger
+        des öffentlichen Dienstes oder des Dienstes einer öffentlich-
+        rechtlichen Religionsgesellschaft, ein Gewerbetreibender oder ein
         Vertretungsberechtigter eines Gewerbetreibenden oder eine mit der
         Leitung eines Gewerbebetriebes oder einer sonstigen wirtschaftlichen
         Unternehmung beauftragte Person, ein sonstiger Berufstätiger oder
@@ -304,16 +299,16 @@ erforderlich ist für
 
 
 6.  Dienstordnungsmaßnahmen mit versorgungsrechtlichen Folgen oder für den
-    Entzug von Hinterbliebenenversorgung, falls der Betroffene aus einem
-    öffentlich-rechtlichen Amts- oder Dienstverhältnis oder aus einem
-    Amts- oder Dienstverhältnis mit einer Kirche oder anderen öffentlich-
-    rechtlichen Religionsgesellschaft Versorgungsbezüge erhält oder zu
-    beanspruchen hat,
+    Entzug von Hinterbliebenenversorgung, falls die betroffene Person aus
+    einem öffentlich-rechtlichen Amts- oder Dienstverhältnis oder aus
+    einem Amts- oder Dienstverhältnis mit einer Kirche oder anderen
+    öffentlich-rechtlichen Religionsgesellschaft Versorgungsbezüge erhält
+    oder zu beanspruchen hat,
 
 
 7.  den Widerruf, die Rücknahme, die Versagung oder Einschränkung der
     Berechtigung, der Erlaubnis oder der Genehmigung oder für die
-    Anordnung einer Auflage, falls der Betroffene
+    Anordnung einer Auflage, falls die betroffene Person
 
     a)  in einem besonderen gesetzlichen Sicherheitsanforderungen
         unterliegenden genehmigungs- oder erlaubnispflichtigen Betrieb
@@ -352,7 +347,7 @@ erforderlich ist für
 
 
 9.  die Abwehr erheblicher Nachteile für Tiere und Pflanzen, Boden,
-    Wasser, Luft, Klima und Landschaft.
+    Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe.
 
 
 
@@ -365,14 +360,14 @@ worden ist, unterbleibt die Übermittlung in den Fällen des Absatzes 1
 Nr. 4 bis 9, wenn nicht besondere Umstände des Einzelfalles die
 Übermittlung erfordern. Die Übermittlung ist insbesondere
 erforderlich, wenn die Tat bereits ihrer Art nach geeignet ist,
-Zweifel an der Zuverlässigkeit oder Eignung des Betroffenen für die
-gerade von ihm ausgeübte berufliche, gewerbliche oder ehrenamtliche
-Tätigkeit oder für die Wahrnehmung von Rechten aus einer ihm erteilten
-Berechtigung, Genehmigung oder Erlaubnis hervorzurufen. Die Sätze 1
-und 2 gelten nicht bei Straftaten, durch die der Tod eines Menschen
-verursacht worden ist, und bei gefährlicher Körperverletzung. Im Falle
-der Einstellung des Verfahrens ist zu berücksichtigen, wie gesichert
-die zu übermittelnden Erkenntnisse sind.
+Zweifel an der Zuverlässigkeit oder Eignung der betroffenen Person für
+die gerade von ihr ausgeübte berufliche, gewerbliche oder
+ehrenamtliche Tätigkeit oder für die Wahrnehmung von Rechten aus einer
+ihr erteilten Berechtigung, Genehmigung oder Erlaubnis hervorzurufen.
+Die Sätze 1 und 2 gelten nicht bei Straftaten, durch die der Tod eines
+Menschen verursacht worden ist, und bei gefährlicher Körperverletzung.
+Im Falle der Einstellung des Verfahrens ist zu berücksichtigen, wie
+gesichert die zu übermittelnden Erkenntnisse sind.
 
 
 ### § 15
@@ -404,7 +399,8 @@ an über- oder zwischenstaatliche Stellen nach den hierfür geltenden
 Rechtsvorschriften übermittelt, so ist eine Übermittlung dieser Daten
 auch zulässig
 
-1.  an das Bundesministerium der Justiz und das Auswärtige Amt,
+1.  an das Bundesministerium der Justiz und für Verbraucherschutz und das
+    Auswärtige Amt,
 
 
 2.  in Strafsachen gegen Mitglieder einer ausländischen konsularischen
@@ -422,7 +418,9 @@ den Landesregierungen durch Rechtsverordnung bestimmten weiteren
 Stellen nehmen die Aufgaben der Kontaktstellen im Sinne des Artikels 2
 der Entscheidung 2001/470/EG des Rates vom 28. Mai 2001 über die
 Einrichtung eines Europäischen Justiziellen Netzes für Zivil- und
-Handelssachen (ABl. EG Nr. L 174 S. 25) wahr.
+Handelssachen (ABl. EG Nr. L 174 S. 25) die durch die Entscheidung
+568/2009/EG (ABl. L 168 vom 30.6.2009, S. 35) geändert worden ist,
+wahr.
 
 (2) Das Bundesamt für Justiz stellt die Koordinierung zwischen den
 Kontaktstellen sicher.
@@ -452,7 +450,8 @@ Kenntnis der Daten aus der Sicht der übermittelnden Stelle
     anderen Person oder
 
 
-5.  zur Abwehr einer erheblichen Gefährdung Minderjähriger
+5.  zur Prüfung gewichtiger Anhaltspunkte für die Gefährdung des Wohls
+    eines Kindes oder Jugendlichen
 
 
 
@@ -462,14 +461,14 @@ erforderlich ist.
 ### § 18
 
 (1) Sind mit personenbezogenen Daten, die nach diesem Abschnitt
-übermittelt werden dürfen, weitere personenbezogene Daten des
-Betroffenen oder eines Dritten so verbunden, daß eine Trennung nicht
-oder nur mit unvertretbarem Aufwand möglich ist, so ist die
+übermittelt werden dürfen, weitere personenbezogene Daten der
+betroffenen Person oder eines Dritten so verbunden, daß eine Trennung
+nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die
 Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte
-Interessen des Betroffenen oder eines Dritten an deren Geheimhaltung
-offensichtlich überwiegen. Eine Verwendung der Daten durch den
-Empfänger ist unzulässig; für Daten des Betroffenen gilt § 19 Abs. 1
-Satz 2 entsprechend.
+Interessen der betroffenen Person oder eines Dritten an deren
+Geheimhaltung offensichtlich überwiegen. Eine Verwendung der Daten
+durch den Empfänger ist unzulässig; für Daten der betroffenen Person
+gilt § 19 Abs. 1 Satz 2 entsprechend.
 
 (2) Die übermittelnde Stelle bestimmt die Form der Übermittlung nach
 pflichtgemäßem Ermessen. Soweit dies nach der Art der zu
@@ -481,16 +480,16 @@ erreichen.
 
 ### § 19
 
-(1) Die übermittelten Daten dürfen nur zu dem Zweck verwendet werden,
-zu dessen Erfüllung sie übermittelt worden sind. Eine Verwendung für
-andere Zwecke ist zulässig, soweit die Daten auch dafür hätten
-übermittelt werden dürfen.
+(1) Die übermittelten Daten dürfen nur zu dem Zweck verarbeitet
+werden, zu dessen Erfüllung sie übermittelt worden sind. Eine
+Verarbeitung für andere Zwecke ist zulässig, soweit die Daten auch
+dafür hätten übermittelt werden dürfen.
 
 (2) Der Empfänger prüft, ob die übermittelten Daten für die in Absatz
 1 genannten Zwecke erforderlich sind. Sind die Daten hierfür nicht
 erforderlich, so schickt er die Unterlagen an die übermittelnde Stelle
 zurück. Ist der Empfänger nicht zuständig und ist ihm die für die
-Verwendung der Daten zuständige Stelle bekannt, so leitet er die
+Verarbeitung der Daten zuständige Stelle bekannt, so leitet er die
 übermittelten Unterlagen dorthin weiter und benachrichtigt hiervon die
 übermittelnde Stelle.
 
@@ -506,33 +505,32 @@ nur vorläufig eingestellt worden ist oder nach den Umständen
 angenommen werden kann, daß das Verfahren auch nur vorläufig nicht
 weiter betrieben wird. Der Empfänger ist über neue Erkenntnisse
 unverzüglich zu unterrichten, wenn dies erforderlich erscheint, um bis
-zu einer Unterrichtung nach Satz 1 drohende Nachteile für den
-Betroffenen zu vermeiden.
+zu einer Unterrichtung nach Satz 1 drohende Nachteile für die
+betroffene Person zu vermeiden.
 
 (2) Erweist sich, daß unrichtige Daten übermittelt worden sind, so ist
 der Empfänger unverzüglich zu unterrichten. Der Empfänger berichtigt
 die Daten oder vermerkt ihre Unrichtigkeit in den Akten.
 
 (3) Die Unterrichtung nach Absatz 1 oder 2 Satz 1 kann unterbleiben,
-wenn sie erkennbar weder zur Wahrung der schutzwürdigen Interessen des
-Betroffenen noch zur Erfüllung der Aufgaben des Empfängers
+wenn sie erkennbar weder zur Wahrung der schutzwürdigen Interessen der
+betroffenen Person noch zur Erfüllung der Aufgaben des Empfängers
 erforderlich ist.
 
 
 ### § 21
 
-(1) Dem Betroffenen ist auf Antrag Auskunft über die übermittelten
-Daten und deren Empfänger zu erteilen. Der Antrag ist schriftlich zu
-stellen. Die Auskunft wird nur erteilt, soweit der Betroffene Angaben
-macht, die das Auffinden der Daten ermöglichen, und der für die
-Erteilung der Auskunft erforderliche Aufwand nicht außer Verhältnis zu
-dem geltend gemachten Informationsinteresse steht. Die übermittelnde
-Stelle bestimmt das Verfahren, insbesondere die Form der
-Auskunftserteilung, nach pflichtgemäßem Ermessen.
+(1) Der betroffenen Person ist auf Antrag Auskunft über die
+übermittelten Daten und deren Empfänger zu erteilen. Der Antrag ist
+schriftlich zu stellen. Die Auskunft wird nur erteilt, soweit die
+betroffene Person Angaben macht, die das Auffinden der Daten
+ermöglichen, und der für die Erteilung der Auskunft erforderliche
+Aufwand nicht außer Verhältnis zu dem geltend gemachten
+Informationsinteresse steht. Die übermittelnde Stelle bestimmt das
+Verfahren, insbesondere die Form der Auskunftserteilung, nach
+pflichtgemäßem Ermessen.
 
-(2) Ist der Betroffene bei Mitteilungen in Strafsachen nicht zugleich
-der Beschuldigte oder in Zivilsachen nicht zugleich Partei oder
-Beteiligter, ist er gleichzeitig mit der Übermittlung
+(2) Die betroffene Person ist gleichzeitig mit der Übermittlung
 personenbezogener Daten über den Inhalt und den Empfänger zu
 unterrichten. Die Unterrichtung des gesetzlichen Vertreters eines
 Minderjährigen, des Bevollmächtigten oder Verteidigers reicht aus. Die
@@ -565,15 +563,37 @@ Stellen zulässig.
 
 
 
-und deswegen das Interesse des Betroffenen an der Auskunftserteilung
-oder Unterrichtung zurücktreten muß. Die Unterrichtung des Betroffenen
-unterbleibt ferner, wenn erhebliche Nachteile für seine Gesundheit zu
-befürchten sind.
+und deswegen das Interesse der betroffenen Person an der
+Auskunftserteilung oder Unterrichtung zurücktreten muß. Die
+Unterrichtung der betroffenen Person unterbleibt ferner, wenn
+erhebliche Nachteile für seine Gesundheit zu befürchten sind.
 
 (5) Die Ablehnung der Auskunftserteilung bedarf keiner Begründung,
 soweit durch die Mitteilung der tatsächlichen und rechtlichen Gründe,
 auf die die Entscheidung gestützt wird, der mit der
 Auskunftsverweigerung verfolgte Zweck gefährdet würde.
+
+(6) Die Absätze 1 bis 5 gelten nicht im Anwendungsbereich der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2).
+
+
+### § 21a
+
+Bei verfahrensübergreifenden Mitteilungen von Amts wegen im Sinne
+dieses Abschnitts gelten für Rechte und Pflichten nach den Artikeln 12
+bis 15 und 19 Satz 2 der Verordnung (EU) 2016/679 die Bestimmungen des
+§ 21 Absatz 3 bis 5 entsprechend. Rechte nach den Artikeln 18 und 21
+der Verordnung (EU) 2016/679 bestehen bei verfahrensübergreifenden
+Mitteilungen von Amts wegen im Sinne dieses Abschnitts nicht. Die
+Sätze 1 und 2 gelten entsprechend für Bestimmungen des Artikels 5 der
+Verordnung (EU) 2016/679, soweit sie den Rechten und Pflichten nach
+den in den Sätzen 1 und 2 genannten Artikeln der Verordnung (EU)
+2016/679 entsprechen.
 
 
 ### § 22
@@ -584,7 +604,7 @@ Daten nicht in den Vorschriften enthalten, die das Verfahren der
 Rechtmäßigkeit der Übermittlung die §§ 23 bis 30 nach Maßgabe der
 Absätze 2 und 3 anzuwenden. Hat der Empfänger auf Grund der
 übermittelten Daten eine Entscheidung oder andere Maßnahme getroffen
-und dies dem Betroffenen bekanntgegeben, bevor ein Antrag auf
+und dies der betroffenen Person bekanntgegeben, bevor ein Antrag auf
 gerichtliche Entscheidung gestellt worden ist, so wird die
 Rechtmäßigkeit der Übermittlung ausschließlich von dem Gericht, das
 gegen die Entscheidung oder Maßnahme des Empfängers angerufen werden
@@ -596,7 +616,7 @@ Gericht mit, ob die Voraussetzungen des Absatzes 1 Satz 2 vorliegen.
 
 (3) War die Übermittlung rechtswidrig, so spricht das Gericht dies
 aus. Die Entscheidung ist auch für den Empfänger bindend und ist ihm
-bekanntzumachen. Die Verwendung der übermittelten Daten ist
+bekanntzumachen. Die Verarbeitung der übermittelten Daten ist
 unzulässig, wenn die Rechtswidrigkeit der Übermittlung festgestellt
 worden ist.
 
@@ -664,7 +684,12 @@ Amtsgerichts gestellt werden.
 
 (2) War der Antragsteller ohne Verschulden verhindert, die Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
-Stand zu gewähren.
+Stand zu gewähren. Ein Fehlen des Verschuldens wird vermutet, wenn in
+dem Bescheid oder, soweit ein Beschwerdeverfahren (§ 24 Absatz 2)
+vorausgegangen ist, in dem Beschwerdebescheid eine Belehrung über die
+Zulässigkeit des Antrags auf gerichtliche Entscheidung sowie über das
+Gericht, bei dem er zu stellen ist, dessen Sitz und die einzuhaltende
+Form und Frist unterblieben oder unrichtig erteilt ist.
 
 (3) Der Antrag auf Wiedereinsetzung ist binnen zwei Wochen nach
 Wegfall des Hindernisses zu stellen. Die Tatsachen zur Begründung des
@@ -730,6 +755,11 @@ Grenzen des Ermessens überschritten sind oder von dem Ermessen in
 einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch
 gemacht ist.
 
+(4) Hat das Gericht die Rechtsbeschwerde gegen seine Entscheidung
+zugelassen (§ 29), ist dem Beschluss eine Belehrung über das
+Rechtsmittel sowie über das Gericht, bei dem es einzulegen ist, dessen
+Sitz und über die einzuhaltende Form und Frist beizufügen.
+
 
 ### § 29
 
@@ -750,9 +780,10 @@ Rechtszug in dem Beschluss zugelassen hat.
 
 Das Rechtsbeschwerdegericht ist an die Zulassung gebunden.
 
-(3) Auf das weitere Verfahren sind die §§ 71 bis 74a des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
+(3) Auf das weitere Verfahren sind § 17 sowie die §§ 71 bis 74a des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
+anzuwenden.
 
 (4) Auf die Bewilligung der Prozesskostenhilfe sind die Vorschriften
 der Zivilprozessordnung entsprechend anzuwenden.
@@ -760,29 +791,20 @@ der Zivilprozessordnung entsprechend anzuwenden.
 
 ### § 30
 
-(1) Für die Kosten des Verfahrens vor dem Oberlandesgericht gelten die
-Vorschriften der Kostenordnung entsprechend. Abweichend von § 130 der
-Kostenordnung wird jedoch ohne Begrenzung durch einen Höchstbetrag bei
-Zurückweisung das Doppelte der vollen Gebühr, bei Zurücknahme des
-Antrags eine volle Gebühr erhoben.
-
-(2) Das Oberlandesgericht kann nach billigem Ermessen bestimmen, daß
-die außergerichtlichen Kosten des Antragstellers, die zur
+Das Oberlandesgericht kann nach billigem Ermessen bestimmen, daß die
+außergerichtlichen Kosten des Antragstellers, die zur
 zweckentsprechenden Rechtsverfolgung notwendig waren, ganz oder
 teilweise aus der Staatskasse zu erstatten sind. Die Vorschriften des
-§ 91 Abs. 1 Satz 2 und der §§
-102              bis 107 der Zivilprozeßordnung gelten entsprechend.
-Die Entscheidung des Oberlandesgerichts kann nicht angefochten werden.
-
-(3) Der Geschäftswert bestimmt sich nach § 30 der Kostenordnung. Er
-wird von dem Oberlandesgericht durch unanfechtbaren Beschluß
-festgesetzt.
+§ 91 Abs. 1 Satz 2 und der §§ 103 bis 107 der Zivilprozeßordnung
+gelten entsprechend. Die Entscheidung des Oberlandesgerichts kann
+nicht angefochten werden.
 
 
 ### § 30a
 
 (1) Verwaltungsakte, die im Bereich der Justizverwaltung beim Vollzug
-des Gerichtskostengesetzes, der Kostenordnung, des
+des Gerichtskostengesetzes, des Gesetzes über Kosten in
+Familiensachen, des Gerichts- und Notarkostengesetzes, des
 Gerichtsvollzieherkostengesetzes, des Justizvergütungs- und
 -entschädigungsgesetzes oder sonstiger für gerichtliche Verfahren oder
 Verfahren der Justizverwaltung geltender Kostenvorschriften,
@@ -799,20 +821,23 @@ Weise Gebrauch gemacht worden sei.
 
 (2) Über den Antrag entscheidet das Amtsgericht, in dessen Bezirk die
 für die Einziehung oder Befriedigung des Anspruchs zuständige Kasse
-ihren Sitz hat. In dem Verfahren ist die Staatskasse zu hören. § 14
-Abs. 3 bis 9 und § 157a der Kostenordnung gelten entsprechend.
+ihren Sitz hat. In dem Verfahren ist die Staatskasse zu hören. Die §§
+7a, 81 Absatz 2 bis 8 und § 84 des Gerichts- und Notarkostengesetzes
+gelten entsprechend.
 
 (3) Durch die Gesetzgebung eines Landes, in dem mehrere
 Oberlandesgerichte errichtet sind, kann die Entscheidung über das
 Rechtsmittel der weiteren Beschwerde nach Absatz 1 und 2 sowie nach §
-14 der Kostenordnung, der Beschwerde nach § 156 der Kostenordnung,
-nach § 66 des Gerichtskostengesetzes, nach § 57 des Gesetzes über
-Kosten in Familiensachen, nach § 14 der Kostenordnung und nach § 4 des
-Justizvergütungs- und -entschädigungsgesetzes einem der mehreren
-Oberlandesgerichte oder anstelle eines solchen Oberlandesgerichts
-einem obersten Landesgericht zugewiesen werden. Dies gilt auch für die
-Entscheidung über das Rechtsmittel der weiteren Beschwerde nach § 33
-des Rechtsanwaltsvergütungsgesetzes, soweit nach dieser Vorschrift das
+81 des Gerichts- und Notarkostengesetzes, über den Antrag nach § 127
+des Gerichts- und Notarkostengesetzes, über das Rechtsmittel der
+Beschwerde nach § 66 des Gerichtskostengesetzes, nach § 57 des
+Gesetzes über Kosten in Familiensachen, nach § 81 des Gerichts- und
+Notarkostengesetzes und nach § 4 des Justizvergütungs- und
+-entschädigungsgesetzes einem der mehreren Oberlandesgerichte oder
+anstelle eines solchen Oberlandesgerichts einem obersten Landesgericht
+zugewiesen werden. Dies gilt auch für die Entscheidung über das
+Rechtsmittel der weiteren Beschwerde nach § 33 des
+Rechtsanwaltsvergütungsgesetzes, soweit nach dieser Vorschrift das
 Oberlandesgericht zuständig ist.
 
 (4) Für die Beschwerde finden die vor dem Inkrafttreten des
@@ -828,12 +853,11 @@ anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle
 
 ### § 31
 
-Besteht eine gegenwärtige Gefahr für Leben, Leib oder Freiheit einer
-Person, begründen bestimmte Tatsachen den Verdacht, daß die Gefahr von
-einer terroristischen Vereinigung ausgeht, und ist es zur Abwehr
-dieser Gefahr geboten, jedwede Verbindung von Gefangenen untereinander
-und mit der Außenwelt einschließlich des schriftlichen und mündlichen
-Verkehrs mit dem Verteidiger zu unterbrechen, so kann eine
+(1) Besteht eine gegenwärtige Gefahr für Leben, Leib oder Freiheit
+einer Person, begründen bestimmte Tatsachen den Verdacht, daß die
+Gefahr von einer terroristischen Vereinigung ausgeht, und ist es zur
+Abwehr dieser Gefahr geboten, jedwede Verbindung von Gefangenen
+untereinander und mit der Außenwelt zu unterbrechen, so kann eine
 entsprechende Feststellung getroffen werden. Die Feststellung darf
 sich nur auf Gefangene beziehen, die wegen einer Straftat nach § 129a,
 auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches oder wegen
@@ -847,7 +871,12 @@ einer Tat nach § 129a, auch in Verbindung mit § 129b Abs. 1, des
 Strafgesetzbuches begangen haben. Die Feststellung ist auf bestimmte
 Gefangene oder Gruppen von Gefangenen zu beschränken, wenn dies zur
 Abwehr der Gefahr ausreicht. Die Feststellung ist nach pflichtgemäßem
-Ermessen zu treffen.
+Ermessen zu treffen. § 148 der Strafprozessordnung bleibt unberührt.
+
+(2) Für Gefangene, gegen die die öffentliche Klage noch nicht erhoben
+wurde oder die rechtskräftig verurteilt sind, kann die Feststellung
+nach Absatz 1 auf die Unterbrechung des mündlichen und schriftlichen
+Verkehrs mit dem Verteidiger erstreckt werden.
 
 
 ### § 32
@@ -855,14 +884,17 @@ Ermessen zu treffen.
 Die Feststellung nach § 31 trifft die Landesregierung oder die von ihr
 bestimmte oberste Landesbehörde. Ist es zur Abwendung der Gefahr
 geboten, die Verbindung in mehreren Ländern zu unterbrechen, so kann
-die Feststellung der Bundesminister der Justiz treffen.
+die Feststellung der Bundesminister der Justiz und für
+Verbraucherschutz treffen.
 
 
 ### § 33
 
 Ist eine Feststellung nach § 31 erfolgt, so treffen die zuständigen
 Behörden der Länder die Maßnahmen, die zur Unterbrechung der
-Verbindung erforderlich sind.
+Verbindung erforderlich sind. Die Maßnahmen sind zu begründen und dem
+Gefangenen schriftlich bekannt zu machen. § 37 Absatz 3 gilt
+entsprechend.
 
 
 ### § 34
@@ -887,34 +919,46 @@ ergänzend folgendes:
     auch dann nicht anwesend sein, wenn sie nach allgemeinen Vorschriften
     ein Recht auf Anwesenheit haben; gleiches gilt für ihre Verteidiger,
     soweit ein von der Feststellung nach § 31 erfaßter Mitgefangener
-    anwesend ist. Solche Maßnahmen dürfen nur stattfinden, wenn der
-    Gefangene oder der Verteidiger ihre Durchführung verlangt und
-    derjenige, der nach Satz 1 nicht anwesend sein darf, auf seine
-    Anwesenheit verzichtet. § 147 Abs. 3 der Strafprozeßordnung ist nicht
-    anzuwenden, soweit der Zweck der Unterbrechung gefährdet würde.
+    anwesend ist und soweit die gemäß § 31 Absatz 1 getroffene
+    Feststellung nach § 31 Absatz 2 auf den schriftlichen und mündlichen
+    Verkehr mit dem Verteidiger erstreckt wurde. Solche Maßnahmen dürfen
+    nur stattfinden, wenn der Gefangene oder der Verteidiger ihre
+    Durchführung verlangt und derjenige, der nach Satz 1 nicht anwesend
+    sein darf, auf seine Anwesenheit verzichtet. Wurde die gemäß § 31
+    Absatz 1 getroffene Feststellung nach § 31 Absatz 2 auf den
+    schriftlichen und mündlichen Verkehr mit dem Verteidiger erstreckt,
+    ist § 147 Absatz 3 der Strafprozessordnung nicht anzuwenden, soweit
+    der Zweck der Untersuchung gefährdet würde.
 
 
-3.  Eine Vernehmung des Gefangenen als Beschuldigter, bei der der
-    Verteidiger nach allgemeinen Vorschriften ein Anwesenheitsrecht hat,
-    findet nur statt, wenn der Gefangene und der Verteidiger auf die
-    Anwesenheit des Verteidigers verzichten.
+3.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, findet eine Vernehmung des Gefangenen als Beschuldigter,
+    bei der der Verteidiger nach allgemeinen Vorschriften ein
+    Anwesenheitsrecht hat, nur statt, wenn der Gefangene und der
+    Verteidiger auf die Anwesenheit des Verteidigers verzichten.
 
 
-4.  Bei der Verkündung eines Haftbefehls hat der Verteidiger kein Recht
-    auf Anwesenheit; er ist von der Verkündung des Haftbefehls zu
-    unterrichten. Der Richter hat dem Verteidiger das wesentliche Ergebnis
-    der Vernehmung des Gefangenen bei der Verkündung, soweit der Zweck der
-    Unterbrechung nicht gefährdet wird, und die Entscheidung mitzuteilen.
+4.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, hat der Verteidiger bei der Verkündung eines Haftbefehls
+    kein Recht auf Anwesenheit; er ist von der Verkündung des Haftbefehls
+    zu unterrichten. Der Richter hat dem Verteidiger das wesentliche
+    Ergebnis der Vernehmung des Gefangenen bei der Verkündung, soweit der
+    Zweck der Unterbrechung nicht gefährdet wird, und die Entscheidung
+    mitzuteilen.
 
 
-5.  Mündliche Haftprüfungen sowie andere mündliche Verhandlungen, deren
-    Durchführung innerhalb bestimmter Fristen vorgeschrieben ist, finden,
-    soweit der Gefangene anwesend ist, ohne den Verteidiger statt; Nummer
-    4 Satz 2 gilt entsprechend. Eine mündliche Verhandlung bei der
-    Haftprüfung ist auf Antrag des Gefangenen oder seines Verteidigers
-    nach Ende der Maßnahmen nach § 33 zu wiederholen, auch wenn die
-    Voraussetzungen des § 118 Abs. 3 der Strafprozeßordnung nicht
-    vorliegen.
+5.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, finden mündliche Haftprüfungen sowie andere mündliche
+    Verhandlungen, deren Durchführung innerhalb bestimmter Fristen
+    vorgesehen ist, soweit der Gefangene anwesend ist, ohne den
+    Verteidiger statt; Nummer 4 Satz 2 gilt entsprechend. Eine mündliche
+    Verhandlung bei der Haftprüfung ist auf Antrag des Gefangenen oder
+    seines Verteidigers nach Ende der Maßnahmen nach § 33 zu wiederholen,
+    auch wenn die Voraussetzungen des § 118 Abs. 3 der Strafprozeßordnung
+    nicht vorliegen.
 
 
 6.  Eine Hauptverhandlung findet nicht statt und wird, wenn sie bereits
@@ -928,9 +972,11 @@ ergänzend folgendes:
 
 
 8.  Der Gefangene darf sich in einem gegen ihn gerichteten Strafverfahren
-    schriftlich an das Gericht oder die Staatsanwaltschaft wenden. Dem
-    Verteidiger darf für die Dauer der Feststellung keine Einsicht in
-    diese Schriftstücke gewährt werden.
+    schriftlich an das Gericht oder die Staatsanwaltschaft wenden. Wurde
+    die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz 2 auf
+    den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, darf dem Verteidiger für die Dauer der Feststellung keine
+    Einsicht in diese Schriftstücke gewährt werden.
 
 
 
@@ -942,11 +988,13 @@ das Gericht kann einstweilige Maßnahmen treffen.
 
 ### § 34a
 
-(1) Dem Gefangenen ist auf seinen Antrag ein Rechtsanwalt als
-Kontaktperson beizuordnen. Der Kontaktperson obliegt, unter Wahrung
-der Ziele der nach § 31 getroffenen Feststellung, die rechtliche
-Betreuung des Gefangenen, soweit dafür infolge der nach § 33
-getroffenen Maßnahmen ein Bedürfnis besteht; die Kontaktperson kann
+(1) Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31
+Absatz 2 auf den schriftlichen und mündlichen Verkehr mit dem
+Verteidiger erstreckt, ist dem Gefangenen auf seinen Antrag ein
+Rechtsanwalt als Kontaktperson beizuordnen. Der Kontaktperson obliegt,
+unter Wahrung der Ziele der nach § 31 getroffenen Feststellung, die
+rechtliche Betreuung des Gefangenen, soweit dafür infolge der nach §
+33 getroffenen Maßnahmen ein Bedürfnis besteht; die Kontaktperson kann
 insbesondere durch Anträge und Anregungen auf die Ermittlung
 entlastender Tatsachen und Umstände hinwirken, die im Interesse des
 Gefangenen unverzüglicher Aufklärung bedürfen.
@@ -983,9 +1031,11 @@ als Kontaktperson vorzuschlagen.
 gestattet. Für das Gespräch sind Vorrichtungen vorzusehen, die die
 Übergabe von Schriftstücken und anderen Gegenständen ausschließen.
 
-(6) Der Gefangene ist bei Bekanntgabe der Feststellung nach § 31 über
-sein Recht, die Beiordnung einer Kontaktperson zu beantragen, und über
-die übrigen Regelungen der Absätze 1 bis 5 zu belehren.
+(6) Der Gefangene ist bei Bekanntgabe der Feststellung nach § 31, die
+nach dessen Absatz 2 auf den schriftlichen und mündlichen Verkehr mit
+dem Verteidiger erstreckt wird, über sein Recht, die Beiordnung einer
+Kontaktperson zu beantragen, und über die übrigen Regelungen der
+Absätze 1 bis 5 zu belehren.
 
 
 ### § 35
@@ -995,8 +1045,8 @@ innerhalb von zwei Wochen nach ihrem Erlaß bestätigt worden ist. Für
 die Bestätigung einer Feststellung, die eine Landesbehörde getroffen
 hat, ist ein Strafsenat des Oberlandesgerichts zuständig, in dessen
 Bezirk die Landesregierung ihren Sitz hat, für die Bestätigung einer
-Feststellung des Bundesministers der Justiz ein Strafsenat des
-Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
+Feststellung des Bundesministers der Justiz und für Verbraucherschutz
+ein Strafsenat des Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
 
 
 ### § 36
@@ -1073,155 +1123,8 @@ rechtskräftig verurteilt worden ist.
 
 
 
-### § 39
+### § 39 (weggefallen)
 
-(1) Über Insolvenzverfahren werden monatliche Erhebungen als
-Bundesstatistik durchgeführt.
-
-(2) Erhebungsmerkmale sind:
-
-1.  bei Eröffnung des Insolvenzverfahren oder dessen Abweisung mangels
-    Masse
-
-    a)  Art des Verfahrens,
-
-
-    b)  Antragsteller,
-
-
-    c)  Art des Rechtsträgers oder der Vermögensmasse (Schuldner); bei
-        Unternehmen zusätzlich Rechtsform, Geschäftszweig, Jahr der Gründung,
-        Zahl der betroffenen Arbeitnehmer und die Eintragung in das Handels-,
-        Genossenschafts-, Vereins- oder Partnerschaftsregister,
-
-
-    d)  Eröffnungsgrund,
-
-
-    e)  Anordnung der Eigenverwaltung,
-
-
-    f)  voraussichtliche Summe der Forderungen;
-
-
-
-
-
-2.  bei Annahme eines Schuldenbereinigungsplans, bei Eröffnung eines
-    vereinfachten Insolvenzverfahrens oder bei der Abweisung des Antrags
-    auf Eröffnung eines solchen Verfahrens mangels Masse
-
-    a)  Summe der Forderungen,
-
-
-    b)  geschätzte Summe der zu erbringenden Leistungen,
-
-
-    c)  bei Personen, die eine geringfügige selbständige wirtschaftliche
-        Tätigkeit ausüben, zusätzlich Geschäftszweig;
-
-
-
-
-
-3.  bei Einstellung des Insolvenzverfahrens
-
-    a)  Einstellungsgrund,
-
-
-    b)  bei Einstellung mangels Masse oder nach Anzeige der
-        Masseunzulänglichkeit zusätzlich Summe der Forderungen;
-
-
-
-
-
-4.  bei Aufhebung des Insolvenzverfahrens nach Schlussverteilung nach dem
-    Schlusstermin, spätestens jedoch nach Ablauf des zweiten dem
-    Eröffnungsjahr folgenden Jahres
-
-    a)  Summe der Forderungen,
-
-
-    b)  für die Verteilung verfügbarer Betrag,
-
-
-    c)  nachträgliche Anordnung oder Aufhebung der Eigenverwaltung;
-
-
-
-
-
-5.  bei Aufhebung des Insolvenzverfahrens nach Bestätigung eines
-    Insolvenzplans
-
-    a)  Summe der Forderungen,
-
-
-    b)  Anteil des erlassenen Betrags an der Summe der Forderungen,
-
-
-    c)  nachträgliche Anordnung oder Aufhebung der Eigenverwaltung;
-
-
-
-
-
-6.  bei Restschuldbefreiung
-
-    a)  Ankündigung der Restschuldbefreiung,
-
-
-    b)  Entscheidung über die Restschuldbefreiung.
-
-
-
-
-
-
-
-(3) Hilfsmerkmale der Erhebungen sind:
-
-1.  Datum der Verfahrenshandlungen nach Absatz 2,
-
-
-2.  Name oder Firma und Anschrift oder Mittelpunkt der selbständigen
-    wirtschaftlichen Tätigkeit des Schuldners,
-
-
-3.  Name und Aktenzeichen des Amtsgerichts,
-
-
-4.  Namen und Telekommunikationsanschlussnummern der für eventuelle
-    Rückfragen zur Verfügung stehenden Personen sowie Bearbeitungsdatum,
-
-
-5.  bei Schuldnern, die im Handels-, Genossenschafts-, Vereins- oder
-    Partnerschaftsregister eingetragen sind, für die Erhebungen nach
-    Absatz 2 Nr. 1 im Fall der Abweisung mangels Masse und nach den
-    Nummern 3 und 4: Art und Ort des Registers sowie Nummer der
-    Eintragung.
-
-
-
-
-(4) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu Absatz 3
-Nr. 4 sind freiwillig. Auskunftspflichtig sind die zuständigen
-Amtsgerichte. Die Angaben werden aus den vorhandenen Unterlagen
-jeweils für den abgelaufenen Kalendermonat erteilt. Die Angaben zu
-Absatz 2 Nr. 1, 2, 3, 5 und 6 sind innerhalb von zwei Wochen nach
-Ablauf des Kalendermonats, in dem die jeweilige gerichtliche
-Entscheidung erlassen wurde, die Angaben zu Absatz 2 Nr. 4 nach dem
-Schlusstermin, spätestens jedoch nach Ablauf des zweiten dem
-Eröffnungsjahr folgenden Jahres zu übermitteln.
-
-(5) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und
-für Zwecke der Planung, jedoch nicht für die Regelung von
-Einzelfällen, dürfen Tabellen mit statistischen Ergebnissen, auch
-soweit Tabellenfelder nur einen einzigen Fall ausweisen, vom
-Statistischen Bundesamt und den statistischen Ämtern der Länder an die
-fachlich zuständigen obersten Bundes- und Landesbehörden übermittelt
-werden.
 
 
 ## Sechster Abschnitt - Übergangsvorschriften
@@ -1241,6 +1144,18 @@ Berufungs- und Beschwerdeverfahren Anwendung, wenn die anzufechtende
 Entscheidung vor dem 1. September 2009 erlassen wurde.
 
 
+### § 40a
+
+(1) Die §§ 72a und 119a des Gerichtsverfassungsgesetzes in der bis
+einschließlich 31. Dezember 2020 geltenden Fassung sind auf Verfahren,
+die vor dem 1. Januar 2018 anhängig geworden sind, nicht anzuwenden.
+
+(2) Auf Verfahren, die ab dem 1. Januar 2018 bis einschließlich 31.
+Dezember 2020 anhängig geworden sind, sind die §§ 72a und 119a des
+Gerichtsverfassungsgesetzes in der bis einschließlich 31. Dezember
+2020 geltenden Fassung anzuwenden.
+
+
 ### § 41
 
 (1) Für Verfahren, die vor dem 1. Januar 2012 beim Landgericht
@@ -1254,4 +1169,17 @@ Sicherungsverwahrung zu entscheiden ist, die Akten dem Vorsitzenden
 des zuständigen Gerichts vor dem 1. Januar 2012 übergeben, ist § 74f
 des Gerichtsverfassungsgesetzes in der bis zum 31. Dezember 2011
 geltenden Fassung entsprechend anzuwenden.
+
+
+### § 42
+
+§ 30a ist auf Verwaltungsakte im Bereich der Kostenordnung auch nach
+dem Inkrafttreten des 2. Kostenrechtsmodernisierungsgesetzes vom 23.
+Juli 2013 (BGBl. I S. 2586) weiter anzuwenden.
+
+
+### § 43
+
+§ 169 Absatz 2 des Gerichtsverfassungsgesetzes findet keine Anwendung
+auf Verfahren, die am 18. April 2018 bereits anhängig sind.
 

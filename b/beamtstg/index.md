@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1010
 
-Geändert durch
-:   Art. 15 Abs. 16 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 2 G v. 28.6.2021 I 2250
 
 
 ## Eingangsformel
@@ -140,8 +140,8 @@ bestimmt ist.
 
 (1) In das Beamtenverhältnis darf nur berufen werden, wer
 
-1.  Deutsche oder Deutscher im Sinne des Artikels 116 des Grundgesetzes
-    ist oder die Staatsangehörigkeit
+1.  Deutsche oder Deutscher im Sinne des Artikels 116 Absatz 1 des
+    Grundgesetzes ist oder die Staatsangehörigkeit
 
     a)  eines anderen Mitgliedstaates der Europäischen Union oder
 
@@ -150,9 +150,9 @@ bestimmt ist.
         Wirtschaftsraum oder
 
 
-    c)  eines Drittstaates, dem Deutschland und die Europäische Union
-        vertraglich einen entsprechenden Anspruch auf Anerkennung von
-        Berufsqualifikationen eingeräumt haben,
+    c)  eines Drittstaates, dem die Bundesrepublik Deutschland und die
+        Europäische Union vertraglich einen entsprechenden Anspruch auf
+        Anerkennung von Berufsqualifikationen eingeräumt haben,
 
 
 
@@ -167,9 +167,12 @@ bestimmt ist.
 
 
 
+In das Beamtenverhältnis darf nicht berufen werden, wer
+unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der
+Erfüllung der Pflichten nach § 34 Absatz 2 nicht vereinbar sind.
 
 (2) Wenn die Aufgaben es erfordern, darf nur eine Deutsche oder ein
-Deutscher im Sinne des Artikels 116 des Grundgesetzes in ein
+Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein
 Beamtenverhältnis berufen werden.
 
 (3) Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 können nur zugelassen
@@ -262,8 +265,8 @@ Ausnahmen bestimmt werden.
 
 3.  zum Zeitpunkt der Ernennung
 
-    a)  nach § 7 Abs. 1 Nr. 1 keine Ernennung erfolgen durfte und keine
-        Ausnahme nach § 7 Abs. 3 zugelassen war,
+    a)  nach § 7 Absatz 1 Satz 1 Nummer 1 keine Ernennung erfolgen durfte und
+        keine Ausnahme nach § 7 Abs. 3 zugelassen war,
 
 
     b)  nicht die Fähigkeit zur Bekleidung öffentlicher Ämter vorlag oder
@@ -309,10 +312,11 @@ zurückzunehmen, wenn
     wurde,
 
 
-2.  nicht bekannt war, dass die ernannte Person wegen eines Verbrechens
-    oder Vergehens rechtskräftig zu einer Strafe verurteilt war oder wird,
-    das sie für die Berufung in das Beamtenverhältnis nach § 8 Abs. 1 Nr.
-    1 als unwürdig erscheinen lässt,
+2.  dem Dienstherrn zum Zeitpunkt der Ernennung nicht bekannt war, dass
+    die ernannte Person vor ihrer Ernennung ein Verbrechen oder Vergehen
+    begangen hat, aufgrund dessen sie vor oder nach ihrer Ernennung
+    rechtskräftig zu einer Strafe verurteilt worden ist und das sie für
+    die Berufung in das Beamtenverhältnis als unwürdig erscheinen lässt,
 
 
 3.  die Ernennung nach § 7 Abs. 2 nicht erfolgen durfte und eine Ausnahme
@@ -331,8 +335,8 @@ zurückzunehmen, wenn
 dass gegen die ernannte Person in einem Disziplinarverfahren auf
 Entfernung aus dem Beamtenverhältnis oder auf Aberkennung des
 Ruhegehalts erkannt worden war. Dies gilt auch, wenn die Entscheidung
-gegen eine Beamtin oder einen Beamten der Europäischen Gemeinschaften
-oder eines Staates nach § 7 Abs. 1 Nr. 1 ergangen ist.
+gegen eine Beamtin oder einen Beamten der Europäischen Union oder
+eines Staates nach § 7 Absatz 1 Satz 1 Nummer 1 ergangen ist.
 
 
 ## Abschnitt 3 - Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung
@@ -340,10 +344,9 @@ oder eines Staates nach § 7 Abs. 1 Nr. 1 ergangen ist.
 
 ### § 13 Grundsatz
 
-Die Vorschriften des nachfolgenden Abschnitts gelten nur bei
-landesübergreifender Abordnung, Versetzung und Umbildung von
-Körperschaften sowie bei einer Abordnung oder Versetzung aus einem
-Land in die Bundesverwaltung.
+Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender
+Abordnung, Versetzung und Umbildung von Körperschaften sowie bei einer
+Abordnung oder Versetzung aus einem Land in die Bundesverwaltung.
 
 
 ### § 14 Abordnung
@@ -552,7 +555,9 @@ Das Beamtenverhältnis endet durch
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
-1.  die Voraussetzungen des § 7 Abs. 1 Nr. 1 nicht mehr vorliegen oder
+1.  die Voraussetzungen des § 7 Absatz 1 Satz 1 Nummer 1 nicht mehr
+    vorliegen und eine Ausnahme nach § 7 Absatz 3 auch nachträglich nicht
+    zugelassen wird oder
 
 
 2.  sie die Altersgrenze erreichen und das Beamtenverhältnis nicht durch
@@ -613,7 +618,7 @@ Im Fall des Satzes 1 Nr. 3 ist § 26 Abs. 2 entsprechend anzuwenden.
 
 (2) Beamtinnen und Beamte können entlassen werden, wenn sie in Fällen
 des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im Sinne
-des Artikels 116 des Grundgesetzes verlieren.
+des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
 
 (3) Beamtinnen auf Probe und Beamte auf Probe können entlassen werden,
 
@@ -686,10 +691,10 @@ angesehen werden, wer infolge Erkrankung innerhalb eines Zeitraums von
 sechs Monaten mehr als drei Monate keinen Dienst getan hat und keine
 Aussicht besteht, dass innerhalb einer Frist, deren Bestimmung dem
 Landesrecht vorbehalten bleibt, die Dienstfähigkeit wieder voll
-hergestellt ist. Von der Versetzung in den Ruhestand soll abgesehen
-werden, wenn eine anderweitige Verwendung möglich ist. Für Gruppen von
-Beamtinnen und Beamten können besondere Voraussetzungen für die
-Dienstunfähigkeit durch Landesrecht geregelt werden.
+hergestellt ist. In den Ruhestand wird nicht versetzt, wer anderweitig
+verwendbar ist. Für Gruppen von Beamtinnen und Beamten können
+besondere Voraussetzungen für die Dienstunfähigkeit durch Landesrecht
+geregelt werden.
 
 (2) Eine anderweitige Verwendung ist möglich, wenn der Beamtin oder
 dem Beamten ein anderes Amt derselben oder einer anderen Laufbahn
@@ -712,9 +717,9 @@ Berücksichtigung der bisherigen Tätigkeit zumutbar ist.
 
 ### § 27 Begrenzte Dienstfähigkeit
 
-(1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit soll
-abgesehen werden, wenn die Beamtin oder der Beamte unter Beibehaltung
-des übertragenen Amtes die Dienstpflichten noch während mindestens der
+(1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit ist
+abzusehen, wenn die Beamtin oder der Beamte unter Beibehaltung des
+übertragenen Amtes die Dienstpflichten noch während mindestens der
 Hälfte der regelmäßigen Arbeitszeit erfüllen kann (begrenzte
 Dienstfähigkeit).
 
@@ -857,22 +862,48 @@ gegenüber der Allgemeinheit und aus der Rücksicht auf die Pflichten
 ihres Amtes ergibt.
 
 
-### § 34 Wahrnehmung der Aufgaben, Verhalten
+### § 34 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
 
-Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem
-Beruf zu widmen. Sie haben die übertragenen Aufgaben uneigennützig
-nach bestem Gewissen wahrzunehmen. Ihr Verhalten muss der Achtung und
-dem Vertrauen gerecht werden, die ihr Beruf erfordert.
+(1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz
+ihrem Beruf zu widmen. Sie haben die übertragenen Aufgaben
+uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten
+innerhalb und außerhalb des Dienstes muss der Achtung und dem
+Vertrauen gerecht werden, die ihr Beruf erfordern.
+
+(2) Beamtinnen und Beamte haben bei der Ausübung des Dienstes oder bei
+einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich ihres
+Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte
+Vertrauen zu nehmen. Insbesondere das Tragen von bestimmten
+Kleidungsstücken, Schmuck, Symbolen und Tätowierungen im sichtbaren
+Bereich sowie die Art der Haar- und Barttracht können eingeschränkt
+oder untersagt werden, soweit die Funktionsfähigkeit der Verwaltung
+oder die Pflicht zum achtungs- und vertrauenswürdigen Verhalten dies
+erfordert. Das ist insbesondere dann der Fall, wenn Merkmale des
+Erscheinungsbilds nach Satz 2 durch ihre über das übliche Maß
+hinausgehende besonders individualisierende Art geeignet sind, die
+amtliche Funktion der Beamtin oder des Beamten in den Hintergrund zu
+drängen. Religiös oder weltanschaulich konnotierte Merkmale des
+Erscheinungsbilds nach Satz 2 können nur dann eingeschränkt oder
+untersagt werden, wenn sie objektiv geeignet sind, das Vertrauen in
+die neutrale Amtsführung der Beamtin oder des Beamten zu
+beeinträchtigen. Die Einzelheiten nach den Sätzen 2 bis 4 können durch
+Landesrecht bestimmt werden. Die Verhüllung des Gesichts bei der
+Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem
+Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder
+gesundheitliche Gründe erfordern dies.
 
 
-### § 35 Weisungsgebundenheit
+### § 35 Folgepflicht
 
-Beamtinnen und Beamte haben ihre Vorgesetzten zu beraten und zu
+(1) Beamtinnen und Beamte haben ihre Vorgesetzten zu beraten und zu
 unterstützen. Sie sind verpflichtet, deren dienstliche Anordnungen
 auszuführen und deren allgemeine Richtlinien zu befolgen. Dies gilt
 nicht, soweit die Beamtinnen und Beamten nach besonderen gesetzlichen
 Vorschriften an Weisungen nicht gebunden und nur dem Gesetz
 unterworfen sind.
+
+(2) Beamtinnen und Beamte haben bei organisatorischen Veränderungen
+dem Dienstherrn Folge zu leisten.
 
 
 ### § 36 Verantwortung für die Rechtmäßigkeit
@@ -895,7 +926,10 @@ Verlangen schriftlich zu erfolgen.
 (3) Wird von den Beamtinnen oder Beamten die sofortige Ausführung der
 Anordnung verlangt, weil Gefahr im Verzug besteht und die Entscheidung
 der oder des höheren Vorgesetzten nicht rechtzeitig herbeigeführt
-werden kann, gilt Absatz 2 Satz 3 und 4 entsprechend.
+werden kann, gilt Absatz 2 Satz 3 und 4 entsprechend. Die Anordnung
+ist durch die anordnende oder den anordnenden Vorgesetzten schriftlich
+zu bestätigen, wenn die Beamtin oder der Beamte dies unverzüglich nach
+Ausführung der Anordnung verlangt.
 
 
 ### § 37 Verschwiegenheitspflicht
@@ -973,9 +1007,9 @@ Diensteid hat eine Verpflichtung auf das Grundgesetz zu enthalten.
 aus Glaubens- oder Gewissensgründen den Eid nicht leisten wollen, kann
 für diese an Stelle des Eides ein Gelöbnis zugelassen werden.
 
-(3) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Abs.
-1 Nr. 1 zugelassen worden ist, kann an Stelle des Eides ein Gelöbnis
-vorgeschrieben werden.
+(3) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7
+Absatz 1 Satz 1 Nummer 1 zugelassen worden ist, kann an Stelle des
+Eides ein Gelöbnis vorgeschrieben werden.
 
 
 ### § 39 Verbot der Führung der Dienstgeschäfte
@@ -1020,8 +1054,9 @@ Zustimmung ihres gegenwärtigen oder letzten Dienstherrn.
 
 (2) Wer gegen das in Absatz 1 genannte Verbot verstößt, hat das
 aufgrund des pflichtwidrigen Verhaltens Erlangte auf Verlangen dem
-Dienstherrn herauszugeben, soweit nicht der Verfall angeordnet worden
-oder es auf andere Weise auf den Staat übergegangen ist.
+Dienstherrn herauszugeben, soweit nicht die Einziehung von Taterträgen
+angeordnet worden oder es auf andere Weise auf den Staat übergegangen
+ist.
 
 
 ### § 43 Teilzeitbeschäftigung
@@ -1046,7 +1081,7 @@ Stellung.
 
 ### § 46 Mutterschutz und Elternzeit
 
-Mutterschutz und Elternzeit sind zu gewährleisten.
+Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 
 
 ### § 47 Nichterfüllung von Pflichten
@@ -1062,13 +1097,14 @@ Beamtinnen mit Versorgungsbezügen und früheren Beamten mit
 Versorgungsbezügen gilt es als Dienstvergehen, wenn sie sich gegen die
 freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes
 betätigen oder an Bestrebungen teilnehmen, die darauf abzielen, den
-Bestand oder die Sicherheit der Bundesrepublik zu beeinträchtigen,
-oder wenn sie schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten
-Pflichten verstoßen. Bei sonstigen früheren Beamtinnen und früheren
-Beamten gilt es als Dienstvergehen, wenn sie schuldhaft gegen die in
-den §§ 37, 41 und 42 bestimmten Pflichten verstoßen. Für Beamtinnen
-und Beamte nach den Sätzen 1 und 2 können durch Landesrecht weitere
-Handlungen festgelegt werden, die als Dienstvergehen gelten.
+Bestand oder die Sicherheit der Bundesrepublik Deutschland zu
+beeinträchtigen, oder wenn sie schuldhaft gegen die in den §§ 37, 41
+und 42 bestimmten Pflichten verstoßen. Bei sonstigen früheren
+Beamtinnen und früheren Beamten gilt es als Dienstvergehen, wenn sie
+schuldhaft gegen die in den §§ 37, 41 und 42 bestimmten Pflichten
+verstoßen. Für Beamtinnen und Beamte nach den Sätzen 1 und 2 können
+durch Landesrecht weitere Handlungen festgelegt werden, die als
+Dienstvergehen gelten.
 
 (3) Das Nähere über die Verfolgung von Dienstvergehen regeln die
 Disziplinargesetze.
@@ -1152,11 +1188,10 @@ Zur Personalakte gehören alle Unterlagen, die die Beamtin oder den
 Beamten betreffen, soweit sie mit dem Dienstverhältnis in einem
 unmittelbaren inneren Zusammenhang stehen (Personalaktendaten). Die
 Personalakte ist vertraulich zu behandeln. Personalaktendaten dürfen
-nur für Zwecke der Personalverwaltung oder Personalwirtschaft
-verwendet werden, es sei denn, die Beamtin oder der Beamte willigt in
-die anderweitige Verwendung ein. Für Ausnahmefälle kann
-landesrechtlich eine von Satz 4 abweichende Verwendung vorgesehen
-werden.
+ohne Einwilligung der Beamtin oder des Beamten nur für Zwecke der
+Personalverwaltung oder Personalwirtschaft verarbeitet werden. Für
+Ausnahmefälle kann landesrechtlich eine von Satz 4 abweichende
+Verarbeitung vorgesehen werden.
 
 
 ### § 51 Personalvertretung

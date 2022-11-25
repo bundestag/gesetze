@@ -37,7 +37,6 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-**Zeichen der Umwelt-Konferenz der Vereinten Nationen**
-(Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1973, 912)
-
+**Zeichen der Umwelt-Konferenz der Vereinten Nationen**
+![bgbl1_1973_j0912_0010.jpg](bgbl1_1973_j0912_0010.jpg)

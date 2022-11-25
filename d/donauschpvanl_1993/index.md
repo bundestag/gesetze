@@ -13,10 +13,10 @@ Ausfertigungsdatum
 :   1993-05-27
 
 Fundstelle
-:   BGBl I: 1993, 741 (1994 I 523) (1995 I 95) [Anlageband]
+:   BGBl I: 1993, 741 (1994 I 523) (1995 II 95) [Anlageband]
 
-Geändert durch
-:   Art. 5 V v. 8.10.1998 I 3148
+Zuletzt geändert durch
+:   Art. 2 Nr. 3 V v. 31.10.2019 I 1518
 
 
 ## Inhaltsverzeichnis \*)
@@ -1133,6 +1133,12 @@ Geändert durch
     *   Ortsveränderungen von Fahrzeugen mit Ruderanlage
 
 
+*    *   § 10.09
+
+    *   Inland AIS und Inland ECDIS
+
+    *
+
 *    *
     *
     *   **Kapitel 11**
@@ -1469,6 +1475,13 @@ Geändert durch
     *   Explosionsgefährliche Güter, bei deren Beförderung die Fahrzeuge bei
         Nacht die Bezeichnung nach den §§ 3.15 und 3.22, bei Tag die
         Bezeichnung nach den §§ 3.33 und 3.38 führen müssen
+
+
+*    *   Anlage 11
+
+    *   Daten, die in das Inland AIS Gerät einzugeben sind:
+        Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der
+        Positionsinformation auf dem Fahrzeug"
 
 
 *    *   \*) An mehreren Stellen findet sich der Vermerk "entfällt", da die
@@ -3780,7 +3793,7 @@ b)  bei Tag und Nacht, wenn es die Ausübung des Dienstes erfordert, ein
 
 
     b)  Fahrzeuge, Schwimmkörper und schwimmende Anlagen mit schriftlicher
-        Erlaubnis der zuständigen Behörde.
+        oder elektronischer Erlaubnis der zuständigen Behörde.
 
 
 
@@ -6847,6 +6860,227 @@ Verbänden nur so mitgeführt werden, daß ihr Bug zur Spitze des
 Verbandes zeigt. Dies gilt nicht für kleine Ortsveränderungen (zum
 Beispiel in Häfen oder an Umschlagstellen).
 
+
+#### § 10.09 Inland AIS und Inland ECDIS
+
+
+1.  Fahrzeuge müssen mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3
+    ES-TRIN ausgestattet sein. Das Inland AIS Gerät muss in einem guten
+    Betriebszustand sein. Die Sätze 1 und 2 gelten nicht für
+
+    a)  Fahrzeuge von Schubverbänden und gekuppelten Fahrzeugen, ausgenommen
+        das Fahrzeug, das die Hauptantriebskraft stellt,
+
+
+    b)  Kleinfahrzeuge,
+
+
+    c)  Schubleichter ohne eigenen Antrieb,
+
+
+    d)  schwimmende Geräte ohne eigenen Antrieb.
+
+
+
+
+
+2.  Folgende Anforderungen müssen bei der Nutzung des Inland AIS Gerätes
+    erfüllt sein:
+
+    a)  das Inland AIS Gerät muss ständig eingeschaltet sein,
+
+
+    b)  das Inland AIS Gerät muss mit maximaler Leistung senden; dies gilt
+        nicht für Tankschiffe mit dem Navigationsstatus „festgemacht“,
+
+
+    c)  es darf immer nur ein Inland AIS Gerät an Bord eines Fahrzeugs oder
+        Verbandes im Sendebetrieb sein,
+
+
+    d)  die eingegebenen Daten des im Sendebetrieb befindlichen Inland AIS
+        Gerätes müssen zu jedem Zeitpunkt den tatsächlichen Daten des
+        Fahrzeugs oder Verbandes entsprechen.
+
+
+
+    Satz 1 Buchstabe a gilt nicht
+
+    a)  für den Fall, dass die zuständige Behörde eine Ausnahme für
+        Wasserflächen gewährt hat, die von der Fahrrinne baulich getrennt
+        sind,
+
+
+    b)  für Fahrzeuge der Polizei, wenn die Übermittlung von AIS-Daten die
+        Erfüllung polizeilicher Aufgaben gefährden würde.
+
+
+
+
+
+3.  Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen,
+    müssen zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus
+    nach Maßgabe der Sätze 2 und 3, das mit dem Inland AIS Gerät verbunden
+    sein muss, ausgestattet sein und dieses muss zusammen mit einer
+    aktuellen elektronischen Binnenschifffahrtskarte genutzt werden. Das
+    Inland ECDIS Gerät im Informationsmodus und die elektronische
+    Binnenschifffahrtskarte müssen den Anforderungen der
+    Durchführungsverordnung (EU) Nr. 909/2013 der Kommission vom 10.
+    September 2013 zu den technischen Spezifikationen für das System zur
+    elektronischen Darstellung von Binnenschifffahrtskarten und von damit
+    verbundenen Informationen (Inland ECDIS) gemäß der Richtlinie
+    2005/44/EG des Europäischen Parlaments und des Rates (ABl. L 258 vom
+    28\.9.2013 S. 1) entsprechen. Das Inland ECDIS Gerät im
+    Informationsmodus muss in einem guten Betriebszustand sein. Die Sätze
+    1 bis 3 gelten nicht für Fähren.
+
+
+4.  Es müssen folgende Daten nach Kapitel 2 des Standards
+    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt
+    unverzüglich nach Fahrtantritt übermittelt werden:
+
+    a)  User Identifier (Maritime Mobile Service Identity, MMSI);
+
+
+    b)  Schiffsname;
+
+
+    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
+        Aufspürung in der Binnenschifffahrt;
+
+
+    d)  einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe
+        sofern keine ENI erteilt wurde, die IMO Nummer;
+
+
+    e)  Länge über alles des Fahrzeugs oder Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    f)  Breite über alles des Fahrzeugs oder Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    g)  Position im Kartenstandard WGS 84;
+
+
+    h)  Geschwindigkeit über Grund;
+
+
+    i)  Kurs über Grund;
+
+
+    j)  Zeitangabe der elektronischen Positionsermittlung;
+
+
+    k)  Navigationsstatus nach Anlage 11;
+
+
+    l)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m nach Anlage 11;
+
+
+    m)  Rufzeichen.
+
+
+
+
+
+5.  Der Schiffsführer muss folgende Daten nach Auftreten einer Änderung
+    umgehend aktualisieren:
+
+    a)  Länge über alles mit einer Genauigkeit von 0,1 m nach Anlage 11;
+
+
+    b)  Breite über alles mit einer Genauigkeit von 0,1 m nach Anlage 11;
+
+
+    c)  Fahrzeug- oder Verbandstyp gemäß dem Standard Schiffsverfolgung und
+        Aufspürung in der Binnenschifffahrt;
+
+
+    d)  Navigationsstatus nach Anlage 11;
+
+
+    e)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m nach Anlage 11.
+
+
+
+
+
+6.  Kleinfahrzeuge, die AIS nutzen, dürfen nur folgende AIS Geräte
+    verwenden:
+
+    a)  Inland AIS Geräte nach Artikel 7.06 Nummer 3 ES-TRIN,
+
+
+    b)  nach den Vorschriften der IMO typzugelassene AIS Geräte der Klasse A,
+
+
+    c)[^F808822_01_BJNR074110993BJNE024902126]
+  AIS Geräte der Klasse B, die den einschlägigen Anforderungen der
+        Empfehlung ITU-R M.1371, der Richtlinie 2014/53/EU des Europäischen
+        Parlaments und des Rates vom 16. April 2014 über die Harmonisierung
+        der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von
+        Funkanlagen auf dem Markt und zur Aufhebung der Richtlinie 1999/5/EG
+        und der internationalen Norm IEC 62287-1 oder 2
+        (einschließlich DSC Kanalmanagement) entsprechen; AIS Geräte der
+        Klasse B, die den Anforderungen der am 8. November 2019 geltenden
+        Fassung der Anlage A zur Donauschifffahrtspolizeiverordnung
+        entsprechen, dürfen weiterhin verwendet werden.
+
+
+
+    Das AIS Gerät muss in einem guten Betriebszustand sein. Die in das AIS
+    Gerät eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen
+    Daten des Fahrzeugs oder Verbandes entsprechen.
+
+
+7.  Kleinfahrzeuge, denen keine einheitliche europäische Schiffsnummer
+    (ENI) erteilt wurde, brauchen die Daten nach Nummer 4 Buchstabe d
+    nicht zu übermitteln.
+
+
+8.  Kleinfahrzeuge, die AIS nutzen, müssen zusätzlich mit einer in einem
+    guten Betriebszustand befindlichen und auf Empfang geschalteten
+    Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
+
+
+9.  Der Schiffsführer und die nach § 8.02 für Kurs und Geschwindigkeit
+    verantwortliche Person haben jeweils sicherzustellen, dass
+
+    a)  das Inland AIS Gerät ständig eingeschaltet ist,
+
+
+    b)  das Inland AIS Gerät auf einem Fahrzeug mit der maximalen Leistung
+        sendet; dies gilt nicht für ein Tankschiff mit dem Navigationsstatus
+        „festgemacht“,
+
+
+    c)  immer nur ein Inland AIS Gerät an Bord eines Fahrzeugs oder Verbandes
+        im Sendebetrieb ist,
+
+
+    d)  die in das im Sendebetrieb befindliche Inland AIS Gerät eingegebenen
+        Daten zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder
+        Verbandes entsprechen,
+
+
+    e)  in dem in Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im
+        Informationsmodus, das mit dem Inland AIS Gerät verbunden ist,
+        zusammen mit einer elektronischen Binnenschifffahrtskarte genutzt
+        wird.
+
+
+
+
+
+
+
+    Amtlicher Hinweis: Die Normen entsprechen den Normen DIN EN 62287-1
+    und DIN EN 62287-2.
+[^F808822_01_BJNR074110993BJNE024902126]: 
 
 ### Kapitel 11 - Schutzhäfen (§ 1.25)
 
@@ -13354,6 +13588,120 @@ bis 3 angegebene Höchstgewicht
 
 5.  **Ammoniak, verflüssigt oder unter Druck gelöst, wenn es in
     Tankschiffen befördert wird.**
+
+
+
+
+Daten, die in das Inland AIS Gerät einzugeben sind:
+
+#### Anlage 11 Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
+
+(Fundstelle: BGBl. I 2016, 2963)
+
+
+**1.** **Navigationsstatus**
+
+    *        *   0
+
+        *   under way using engine
+
+        *   in Fahrt mit Motorkraft
+
+
+    *        *   1
+
+        *   at anchor
+
+        *   vor Anker
+
+
+    *        *   2
+
+        *   not under command
+
+        *   manövrierunfähig
+
+
+    *        *   3
+
+        *   restricted manoeuvrability
+
+        *   manövrierbehindert
+
+
+    *        *   4
+
+        *   constrained by her draught
+
+        *   durch Tiefgang beschränkt
+
+
+    *        *   5
+
+        *   moored
+
+        *   festgemacht
+
+
+    *        *   6
+
+        *   aground
+
+        *   auf Grund
+
+
+    *        *   7
+
+        *   engaged in fishing
+
+        *   beim Fischfang
+
+
+    *        *   8
+
+        *   under way sailing
+
+        *   in Fahrt unter Segel
+
+
+    *        *   9 bis 13
+
+        *   reserved for future uses
+
+        *   reserviert für künftige Nutzung
+
+
+    *        *   14
+
+        *   AIS-SART (active)
+
+        *   AIS-SART (aktiv)
+
+
+    *        *   15
+
+        *   not defined
+
+        *   nicht definiert
+
+
+
+
+
+
+
+**2.** **Bezugspunkt der Positionsinformation auf dem Fahrzeug**
+
+    Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit
+    von 1 m eingeben.
+
+    Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+    ![bgbl1_2016_j2948-1_0030.jpg](bgbl1_2016_j2948-1_0030.jpg)
+    Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+
+    ![bgbl1_2016_j2948-1_0040.jpg](bgbl1_2016_j2948-1_0040.jpg)
+    Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband
 
 
 

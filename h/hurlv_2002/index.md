@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1784
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 1 bis 4 V v. 15.6.2010 I 792
+:   Art. 176 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -125,8 +125,8 @@ notwendigen Kosten bis zur Höhe der Kosten erstattet, die der
 Dienststelle bei Gewährung der Sachzuwendung entstanden wären. Für
 Nebenkosten der Reise wird eine Pauschale gewährt, die vom Auswärtigen
 Amt durch Verwaltungsvorschrift im Einvernehmen mit dem
-Bundesministerium des Innern und dem Bundesministerium der Finanzen
-festgesetzt wird.
+Bundesministerium des Innern, für Bau und Heimat und dem
+Bundesministerium der Finanzen festgesetzt wird.
 
 (3) Der Fahrkostenzuschuss entfällt in den Fällen des § 4 Abs. 3 Satz
 2 der Auslandsumzugskostenverordnung.
@@ -189,12 +189,13 @@ dienstlichen Gründen nicht zurückzukehren brauchen.
 
 ## § 6 Abschlagszahlung und Abrechnung der Fahrkosten
 
-Der Fahrkostenzuschuss ist rechtzeitig schriftlich vor Antritt der
-Reise bei der zuständigen inländischen Dienststelle zu beantragen. Auf
-Antrag ist vor Antritt eines Urlaubs eine Abschlagszahlung bis zur
-Höhe des nach § 4 Abs. 2 voraussichtlich zustehenden Betrages zu
-gewähren. Der Fahrkostenzuschuss ist innerhalb einer Ausschlussfrist
-von sechs Monaten nach Beendigung der Urlaubsreise abzurechnen.
+Der Fahrkostenzuschuss ist rechtzeitig schriftlich oder elektronisch
+vor Antritt der Reise bei der zuständigen inländischen Dienststelle zu
+beantragen. Auf Antrag ist vor Antritt eines Urlaubs eine
+Abschlagszahlung bis zur Höhe des nach § 4 Abs. 2 voraussichtlich
+zustehenden Betrages zu gewähren. Der Fahrkostenzuschuss ist innerhalb
+einer Ausschlussfrist von sechs Monaten nach Beendigung der
+Urlaubsreise abzurechnen.
 
 
 ## § 7

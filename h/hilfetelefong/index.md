@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 448
 
+Geändert durch
+:   Art. 36 G v. 20.11.2019 I 1626
+
 
 ## § 1 Einrichtung
 
@@ -71,9 +74,9 @@ nicht in Einzelverbindungsnachweisen ausgewiesen.
 
 (3) Personenbezogene Daten werden nur für die in § 2 Absatz 1 und 2
 Satz 1 genannten Zwecke und nur mit Einwilligung der betroffenen
-Person erhoben und verarbeitet. Die gespeicherten Daten werden
-gelöscht, sobald sie für die Erfüllung des Zwecks der Speicherung
-nicht mehr erforderlich sind.
+Person verarbeitet. Die gespeicherten Daten werden gelöscht, sobald
+sie für die Erfüllung des Zwecks der Speicherung nicht mehr
+erforderlich sind.
 
 (4) Die Angebote des Hilfetelefons sind barrierefrei und mehrsprachig.
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend legt

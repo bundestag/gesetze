@@ -10,16 +10,18 @@ slug: begdv_2
 # Zweite Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 2)
 
 Ausfertigungsdatum
-:   1954-12-24
+:   1966-03-31
 
 Fundstelle
-:   BGBl I: 1954, 510
+:   BGBl I: 1966, 285
 
-Neugefasst durch
-:   Art. I V v. 31.3.1966 I 285;
-
+Stand: Konstitutive Neufassung gem. Art. I V v. 31.3.1966, in Kraft getreten am 4.5.1966
+Stand: Ersetzt V v. 24.12.1954 I 510
 Zuletzt geändert durch
-:   Art. 2 V v. 28.3.2011 I 521
+:   Art. 2 V v. 18.4.2019 I 487
+
+Änderung durch
+:   Art. 2 V v. 2.12.2021 I 5049 (Nr. 81) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## I. - Besondere Anspruchsvoraussetzungen
@@ -344,122 +346,127 @@ Erwerbsfähigkeit um mindestens 50 vom Hundert gemindert ist.
 berücksichtigt, als sie den Betrag
 
 *    *
-    *
     *   von 150 Deutsche Mark,
 
 
 *    *   ab 1. September 1965
 
-    *
     *   von 200 Deutsche Mark,
 
 
 *    *   ab 1. September 1969
 
-    *
     *   von 250 Deutsche Mark,
 
 
 *    *   ab 1. Januar 1972
 
-    *
     *   von 300 Deutsche Mark,
 
 
 *    *   ab 1. Januar 1974
 
-    *
     *   von 350 Deutsche Mark,
 
 
 *    *   ab 1. Februar 1976
 
-    *
     *   von 400 Deutsche Mark,
 
 
 *    *   ab 1. März 1978
 
-    *
     *   von 450 Deutsche Mark,
 
 
 *    *   ab 1. März 1980
 
-    *
     *   von 500 Deutsche Mark,
 
 
 *    *   ab 1. Juli 1982
 
-    *
     *   von 550 Deutsche Mark,
 
 
 *    *   ab 1. Januar 1985
 
-    *
     *   von 600 Deutsche Mark,
 
 
 *    *   ab 1. Januar 1987
 
-    *
     *   von 650 Deutsche Mark,
 
 
 *    *   ab 1. Januar 1989
 
-    *
     *   von 700 Deutsche Mark,
 
 
 *    *   ab 1. März 1991
 
-    *
     *   von 750 Deutsche Mark,
 
 
 *    *   ab 1. Mai 1993
 
-    *
     *   von 800 Deutsche Mark,
 
 
 *    *   ab 1. April 1995
 
-    *
     *   von 850 Deutsche Mark,
 
 
 *    *   ab 1. März 1997
 
-    *
     *   von 875 Deutsche Mark,
 
 
 *    *   ab 1. März 1999
 
-    *
     *   von 900 Deutsche Mark,
 
 
 *    *   ab 1. Januar 2002
 
-    *
     *   von 480 Euro,
 
 
 *    *   ab 1. Juni 2008
 
-    *
-    *   von 520 Euro und
+    *   von 520 Euro,
 
 
 *    *   ab 1. Juli 2010
 
-    *
-    *   von 530 Euro
+    *   von 530 Euro,
+
+
+*    *   ab 1. Oktober 2012
+
+    *   von 560 Euro,
+
+
+*    *   ab 1. August 2014
+
+    *   von 590 Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   von 620 Euro,
+
+
+*    *   ab 1. Januar 2019
+
+    *   von 670 Euro und
+
+
+*    *   ab 1. September 2021
+
+    *   von 700 Euro
 
 
 
@@ -599,12 +606,37 @@ sonstige unterhaltsberechtigte Person ein
 
 *    *   ab 1. Juni 2008 von mindestens
 
-    *   540 Euro und
+    *   540 Euro,
 
 
 *    *   ab 1. Juli 2010 von mindestens
 
-    *   550 Euro
+    *   550 Euro,
+
+
+*    *   ab 1. Oktober 2012 von mindestens
+
+    *   580 Euro,
+
+
+*    *   ab 1. August 2014 von mindestens
+
+    *   610 Euro,
+
+
+*    *   ab 1. September 2016 von mindestens
+
+    *   640 Euro,
+
+
+*    *   ab 1. Januar 2019 von mindestens
+
+    *   690 Euro und
+
+
+*    *   ab 1. September 2021 von mindestens
+
+    *   720 Euro
 
 
 
@@ -738,14 +770,19 @@ Der monatliche Mindestbetrag der Rente beträgt bei einer
 Beeinträchtigung der Erwerbsfähigkeit
 
 *    *
-    *   vom 1.1.1966 bis 30.9.1966 DM
+    *   vom 1.1.1966
+        bis 30.9.1966 DM
 
-    *   vom 1.10.1966 bis 30.6.1968 DM
+    *   vom 1.10.1966
+        bis 30.6.1968 DM
 
-    *   vom 1.7.1968 bis 31.3.1969 DM
+    *   vom 1.7.1968
+        bis 31.3.1969 DM
 
-    *   vom 1.4.1969 bis 31.8.1969 DM
+    *   vom 1.4.1969
+        bis 31.8.1969 DM
 
+    *
     *
 
 *    *   von 25 bis 39 v.H.
@@ -759,6 +796,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   173
 
     *
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -770,6 +808,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   217
 
+    *
     *
 
 *    *   von 50 bis 59 v.H.
@@ -783,6 +822,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   260
 
     *
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -794,6 +834,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   302
 
+    *
     *
 
 *    *   von 70 bis 79 v.H.
@@ -807,6 +848,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   345
 
     *
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -819,25 +861,33 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   431
 
     *
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.9.1969 bis 31.12.1970 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.1.1971 bis 31.12.1971 DM
+*    *
+    *   vom 1.9.1969
+        bis 31.12.1970 DM
 
-    *   vom 1.1.1972 bis 31.12.1972 DM
+    *   vom 1.1.1971
+        bis 31.12.1971 DM
 
-    *   vom 1.1.1973 bis 31.12.1973 DM
+    *   vom 1.1.1972
+        bis 31.12.1972 DM
 
-    *   vom 1.1.1974 bis 31.12.1974 DM
+    *   vom 1.1.1973
+        bis 31.12.1973 DM
 
+    *   vom 1.1.1974
+        bis 31.12.1974 DM
+
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -851,6 +901,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   277
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -864,6 +915,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   347
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -877,6 +929,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   417
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -890,6 +943,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   483
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -903,6 +957,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   553
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -916,23 +971,30 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   690
 
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.1.1975 bis 31.1.1976 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.2.1976 bis 31.1.1977 DM
+*    *
+    *   vom 1.1.1975
+        bis 31.1.1976 DM
 
-    *   vom 1.2.1977 bis 28.2.1978 DM
+    *   vom 1.2.1976
+        bis 31.1.1977 DM
 
-    *   vom 1.3.1978 bis 28.2.1979 DM
+    *   vom 1.2.1977
+        bis 28.2.1978 DM
 
+    *   vom 1.3.1978
+        bis 28.2.1979 DM
+
+    *
     *
 
 *    *   von 25 bis 39 v.H.
@@ -946,6 +1008,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   379
 
     *
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -957,6 +1020,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   474
 
+    *
     *
 
 *    *   von 50 bis 59 v.H.
@@ -970,6 +1034,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   569
 
     *
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -981,6 +1046,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   660
 
+    *
     *
 
 *    *   von 70 bis 79 v.H.
@@ -994,6 +1060,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   755
 
     *
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1006,23 +1073,30 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   941
 
     *
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.3.1979 bis 29.2.1980 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.3.1980 bis 28.2.1981 DM
+*    *
+    *   vom 1.3.1979
+        bis 29.2.1980 DM
 
-    *   vom 1.3.1981 bis 30.6.1982 DM
+    *   vom 1.3.1980
+        bis 28.2.1981 DM
 
-    *   vom 1.7.1982 bis 30.6.1983 DM
+    *   vom 1.3.1981
+        bis 30.6.1982 DM
 
+    *   vom 1.7.1982
+        bis 30.6.1983 DM
+
+    *
     *
 
 *    *   von 25 bis 39 v.H.
@@ -1036,6 +1110,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   472
 
     *
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1047,6 +1122,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   590
 
+    *
     *
 
 *    *   von 50 bis 59 v.H.
@@ -1060,6 +1136,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   707
 
     *
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1071,6 +1148,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   823
 
+    *
     *
 
 *    *   von 70 bis 79 v.H.
@@ -1084,6 +1162,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   939
 
     *
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1096,23 +1175,30 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   1 171
 
     *
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.7.1983 bis 31.12.1984 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.1.1985 bis 31.12.1985 DM
+*    *
+    *   vom 1.7.1983
+        bis 31.12.1984 DM
 
-    *   vom 1.1.1986 bis 31.12.1986 DM
+    *   vom 1.1.1985
+        bis 31.12.1985 DM
 
-    *   vom 1.1.1987 bis 29.2.1988 DM
+    *   vom 1.1.1986
+        bis 31.12.1986 DM
 
+    *   vom 1.1.1987
+        bis 29.2.1988 DM
+
+    *
     *
 
 *    *   von 25 bis 39 v.H.
@@ -1126,6 +1212,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   535
 
     *
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1137,6 +1224,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   667
 
+    *
     *
 
 *    *   von 50 bis 59 v.H.
@@ -1150,6 +1238,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   799
 
     *
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1161,6 +1250,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   932
 
+    *
     *
 
 *    *   von 70 bis 79 v.H.
@@ -1174,6 +1264,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   1 061
 
     *
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1186,25 +1277,33 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   1 324
 
     *
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.3.1988 bis 31.12.1988 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.1.1989 bis 31.12.1989 DM
+*    *
+    *   vom 1.3.1988
+        bis 31.12.1988 DM
 
-    *   vom 1.1.1990 bis 28.2.1991 DM
+    *   vom 1.1.1989
+        bis 31.12.1989 DM
 
-    *   vom 1.3.1991 bis 30.4.1992 DM
+    *   vom 1.1.1990
+        bis 28.2.1991 DM
 
-    *   vom 1.5.1992 bis 30.4.1993 DM
+    *   vom 1.3.1991
+        bis 30.4.1992 DM
 
+    *   vom 1.5.1992
+        bis 30.4.1993 DM
+
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1218,6 +1317,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   672
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1231,6 +1331,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   838
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1244,6 +1345,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 002
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1257,6 +1359,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 167
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1270,6 +1373,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 332
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1283,25 +1387,33 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 660
 
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.5.1993 bis 30.9.1994 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.10.1994 bis 31.3.1995 DM
+*    *
+    *   vom 1.5.1993
+        bis 30.9.1994 DM
 
-    *   vom 1.4.1995 bis 28.2.1997 DM
+    *   vom 1.10.1994
+        bis 31.3.1995 DM
 
-    *   vom 1.3.1997 bis 31.12.1997 DM
+    *   vom 1.4.1995
+        bis 28.2.1997 DM
 
-    *   vom 1.1.1998 bis 28.2.1999 DM
+    *   vom 1.3.1997
+        bis 31.12.1997 DM
 
+    *   vom 1.1.1998
+        bis 28.2.1999 DM
+
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1315,6 +1427,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   739
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1328,6 +1441,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   921
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1341,6 +1455,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 100
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1354,6 +1469,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 283
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1367,6 +1483,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 463
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1380,25 +1497,33 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 824
 
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.3.1999 bis 21.12.2000 DM
+    *
+    *
+    *
+    *
+    *
+    *
 
-    *   vom 1.1.2001 bis 31.12.2001 DM
+*    *
+    *   vom 1.3.1999
+        bis 31.12.2000 DM
 
-    *   vom 1.1.2002 bis 31.1.2003 Euro
+    *   vom 1.1.2001
+        bis 31.12.2001 DM
 
-    *   vom 1.2.2003 bis 31.3.2004 Euro
+    *   vom 1.1.2002
+        bis 31.1.2003 Euro
 
-    *   vom 1.4.2004 bis 31.7.2004 Euro
+    *   vom 1.2.2003
+        bis 31.3.2004 Euro
 
+    *   vom 1.4.2004
+        bis 31.7.2004 Euro
+
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1412,6 +1537,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   418
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1425,6 +1551,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   521
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1438,6 +1565,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   622
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1451,6 +1579,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   726
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1464,6 +1593,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   828
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1477,8 +1607,10 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 033
 
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1493,12 +1625,22 @@ Beeinträchtigung der Erwerbsfähigkeit
         bis 30.6.2010
         €
 
-    *   ab
-        1\.7.2010
+    *   vom 1.7.2010
+        bis 30.9.2012
         €
 
-    *
-    *
+    *   vom 1.10.2012
+        bis 31.7.2014
+        €
+
+    *   vom 1.8.2014
+        bis 31.8.2016
+        €
+
+    *   vom 1.9.2016
+        bis 31.12.2018
+        Euro
+
 
 *    *   von 25 bis 39 v.H.
 
@@ -1508,8 +1650,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   465
 
-    *
-    *
+    *   492
+
+    *   517
+
+    *   541
+
 
 *    *   von 40 bis 49 v.H.
 
@@ -1519,8 +1665,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   579
 
-    *
-    *
+    *   612
+
+    *   643
+
+    *   673
+
 
 *    *   von 50 bis 59 v.H.
 
@@ -1530,8 +1680,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   691
 
-    *
-    *
+    *   730
+
+    *   767
+
+    *   802
+
 
 *    *   von 60 bis 69 v.H.
 
@@ -1541,8 +1695,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   807
 
-    *
-    *
+    *   853
+
+    *   896
+
+    *   937
+
 
 *    *   von 70 bis 79 v.H.
 
@@ -1552,8 +1710,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   920
 
-    *
-    *
+    *   972
+
+    *   1 021
+
+    *   1 068
+
 
 *    *   von 80 und mehr v.H.
 
@@ -1563,6 +1725,105 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 148
 
+    *   1 213
+
+    *   1 274
+
+    *   1 333
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.1.2019
+        bis 31.8.2021
+        Euro
+
+    *   ab 1.9.2021
+        Euro
+
+    *
+    *
+    *
+    *
+
+*    *   von 25 bis 39 v.H.
+
+    *   580
+
+    *   600
+
+    *
+    *
+    *
+    *
+
+*    *   von 40 bis 49 v.H.
+
+    *   722
+
+    *   744
+
+    *
+    *
+    *
+    *
+
+*    *   von 50 bis 59 v.H.
+
+    *   861
+
+    *   888
+
+    *
+    *
+    *
+    *
+
+*    *   von 60 bis 69 v.H.
+
+    *   1 005
+
+    *   1 036
+
+    *
+    *
+    *
+    *
+
+*    *   von 70 bis 79 v.H.
+
+    *   1 146
+
+    *   1 182
+
+    *
+    *
+    *
+    *
+
+*    *   von 80 und mehr v.H.
+
+    *   1 430
+
+    *   1 474
+
+    *
+    *
     *
     *
 
@@ -1856,12 +2117,30 @@ Der monatliche Mindestbetrag der Rente beträgt
         30\.6.2010
         €
 
-    *   ab 1.7.2010
+    *   vom
+        1\.7.2010
+        bis
+        30\.9.2012
         €
 
-    *
-    *
-    *
+    *   vom
+        1\.10.2012
+        bis
+        31\.7.2014
+        €
+
+    *   vom
+        1\.8.2014
+        bis
+        31\.8.2016
+        €
+
+    *   vom
+        1\.9.2016
+        bis
+        31\.12.2018
+        Euro
+
 
 *    *   974
 
@@ -1869,6 +2148,40 @@ Der monatliche Mindestbetrag der Rente beträgt
 
     *   1 072
 
+    *   1 133
+
+    *   1 190
+
+    *   1 245
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   vom
+        1\.1.2019
+        bis
+        31\.8.2021
+        Euro
+
+    *   ab
+        1\.9.2021
+        Euro
+
+    *
+    *
+    *
+    *
+
+*    *   1 336
+
+    *   1 377
+
+    *
     *
     *
     *
@@ -1921,7 +2234,9 @@ Ansprüche nach § 41 BEG voll angerechnet werden.
 
 #### § 23b Beihilfe nach § 41a BEG
 
-(1) In den Fällen des § 41a BEG finden die §§ 23 und 23a entsprechende
+(1) In den Fällen des § 41a des Bundesentschädigungsgesetzes wird die
+festgesetzte Minderung der Erwerbsfähigkeit nur auf Antrag des
+Hinterbliebenen überprüft; die §§ 23 und 23a finden entsprechende
 Anwendung.
 
 (2) Anspruch auf Beihilfe nach § 41a BEG besteht auch dann, wenn vor
@@ -2011,9 +2326,8 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 (2) § 2 tritt mit Wirkung vom 18. September 1965 außer Kraft.
 
-(zu den §§ 13 und 14 der 2. DV-BEG)
 
-### Anlage Besoldungsübersicht
+### Anlage (zu den §§ 13 und 14 der 2. DV-BEG) Besoldungsübersicht
 
 (Fundstelle: BGBl. I 1983, 1318 - 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2624,7 +2938,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   21 384
 
@@ -2633,6 +2947,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   23 064
 
     *   23 928
+
+
+*    *
+    *   bis 31. 7.2014
+
+    *   22 596
+
+    *   23 508
+
+    *   24 384
+
+    *   25 296
+
+
+*    *
+    *   bis 31. 8.2016
+
+    *   23 724
+
+    *   24 684
+
+    *   25 596
+
+    *   26 556
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   24 816
+
+    *   25 824
+
+    *   26 772
+
+    *   27 780
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   26 628
+
+    *   27 708
+
+    *   28 728
+
+    *   29 808
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   27 456
+
+    *   28 572
+
+    *   29 616
+
+    *   30 732
 
 
 *    *
@@ -3163,11 +3537,61 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   24 756
 
     *   25 608
+
+    *
+    *
+
+*    *
+    *   bis 31. 7.2014
+
+    *   26 172
+
+    *   27 072
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   27 480
+
+    *   28 416
+
+    *
+    *
+
+*    *
+    *   bis 31.12.2018
+
+    *   28 740
+
+    *   29 724
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2021
+
+    *   30 840
+
+    *   31 896
+
+    *
+    *
+
+*    *
+    *   ab 1.9.2021
+
+    *   31 800
+
+    *   32 880
 
     *
     *
@@ -3783,7 +4207,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   22 332
 
@@ -3792,6 +4216,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   26 040
 
     *   27 900
+
+
+*    *
+    *   bis 31. 7.2014
+
+    *   23 604
+
+    *   25 560
+
+    *   27 528
+
+    *   29 496
+
+
+*    *
+    *   bis 31.08.2016
+
+    *   24 780
+
+    *   26 832
+
+    *   28 896
+
+    *   30 960
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   25 920
+
+    *   28 068
+
+    *   30 228
+
+    *   32 388
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   27 816
+
+    *   30 120
+
+    *   32 436
+
+    *   34 752
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   28 680
+
+    *   31 056
+
+    *   33 444
+
+    *   35 832
 
 
 *    *
@@ -4324,11 +4808,61 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   29 736
 
     *   31 584
+
+    *
+    *
+
+*    *
+    *   bis 31. 7.2014
+
+    *   31 428
+
+    *   33 384
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   33 000
+
+    *   35 052
+
+    *
+    *
+
+*    *
+    *   bis 31.12.2018
+
+    *   34 524
+
+    *   36 660
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2021
+
+    *   37 044
+
+    *   39 336
+
+    *
+    *
+
+*    *
+    *   ab 1.9.2021
+
+    *   38 196
+
+    *   40 560
 
     *
     *
@@ -4945,7 +5479,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   26 940
 
@@ -4954,6 +5488,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   31 668
 
     *   34 020
+
+
+*    *
+    *   bis 31. 7.2014
+
+    *   28 476
+
+    *   30 972
+
+    *   33 468
+
+    *   35 964
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   29 904
+
+    *   32 520
+
+    *   35 148
+
+    *   37 752
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   31 284
+
+    *   34 020
+
+    *   36 768
+
+    *   39 492
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   33 564
+
+    *   36 504
+
+    *   39 456
+
+    *   42 372
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   34 608
+
+    *   37 632
+
+    *   40 680
+
+    *   43 680
 
 
 *    *
@@ -5488,11 +6082,61 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   36 372
 
     *   38 736
+
+    *
+    *
+
+*    *
+    *   bis 31. 7.2014
+
+    *   38 448
+
+    *   40 944
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   40 368
+
+    *   42 996
+
+    *
+    *
+
+*    *
+    *   bis 31.12.2018
+
+    *   42 228
+
+    *   44 976
+
+    *
+    *
+
+*    *
+    *   bis 31.8.2021
+
+    *   45 312
+
+    *   48 264
+
+    *
+    *
+
+*    *
+    *   ab 1.9.2021
+
+    *   46 716
+
+    *   49 764
 
     *
     *
@@ -6098,7 +6742,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   34 992
 
@@ -6107,6 +6751,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   40 452
 
     *   43 200
+
+
+*    *
+    *   bis 31. 7.2014
+
+    *   36 984
+
+    *   39 888
+
+    *   42 756
+
+    *   45 660
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   38 832
+
+    *   41 892
+
+    *   44 892
+
+    *   47 940
+
+
+*    *
+    *   bis 31.12.2018
+
+    *   40 620
+
+    *   43 824
+
+    *   46 956
+
+    *   50 148
+
+
+*    *
+    *   bis 31.8.2021
+
+    *   43 584
+
+    *   47 028
+
+    *   50 388
+
+    *   53 808
+
+
+*    *
+    *   ab 1.9.2021
+
+    *   44 940
+
+    *   48 480
+
+    *   51 948
+
+    *   55 476
 
 
 *    *
@@ -6670,13 +7374,68 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   45 936
 
     *   48 684
 
     *   51 408
+
+    *
+
+*    *
+    *   bis 31. 7.2014
+
+    *   48 552
+
+    *   51 456
+
+    *   54 336
+
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   50 988
+
+    *   54 036
+
+    *   57 060
+
+    *
+
+*    *
+    *   bis 31.12.2018
+
+    *   53 328
+
+    *   56 520
+
+    *   59 688
+
+    *
+
+*    *
+    *   bis 31.8.2021
+
+    *   57 216
+
+    *   60 648
+
+    *   64 044
+
+    *
+
+*    *
+    *   ab 1.9.2021
+
+    *   58 992
+
+    *   62 532
+
+    *   66 024
 
     *
 

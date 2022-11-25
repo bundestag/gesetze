@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1022
 
 Zuletzt geändert durch
-:   Art. 6 V v. 13.12.2011 I 2720
+:   Art. 4 G v. 25.7.2013 I 2722
 
 
 ## Eingangsformel
@@ -112,10 +112,10 @@ Die Angabe nach § 1 Abs. 1 muß gut sichtbar, deutlich lesbar und
 unverwischbar angebracht sein
 
 
-1.  bei Lebensmitteln in Fertigpackungen im Sinne des § 6 Abs. 1 des
-    Eichgesetzes, die dazu bestimmt sind, an den Verbraucher im Sinne des
-    § 2 Nr. 2 abgegeben zu werden, auf der Fertigpackung oder einem mit
-    ihr verbundenen Etikett,
+1.  bei Lebensmitteln in Fertigpackungen im Sinne des § 42 Absatz 1 des
+    Mess- und Eichgesetzes, die dazu bestimmt sind, an den Verbraucher im
+    Sinne des § 2 Nr. 2 abgegeben zu werden, auf der Fertigpackung oder
+    einem mit ihr verbundenen Etikett,
 
 
 2.  bei anderen Lebensmitteln auf dem Behältnis oder der Verpackung oder

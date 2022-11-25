@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.11.1993 I 2007;
 
 Zuletzt geändert durch
-:   Bek. v. 8.6.2007 I 1057
+:   Bek. v. 26.3.2021 I 797
 
 
 ## I. - Allgemeine Bestimmungen
@@ -73,7 +73,7 @@ Jahres und endet am 31. Oktober des folgenden Jahres.
 
 (1) Jedes Mitglied erhält vom Bundesrat einen Ausweis über seine
 Eigenschaft als Bundesratsmitglied. Die Mitglieder des Bundesrates
-erhalten außerdem Fahrkarten für die Bundesbahn und die Bundespost.
+erhalten außerdem Fahrkarten für die Deutsche Bahn AG.
 
 (2) Ausweise und Fahrkarten sind eine Woche nach Erlöschen der
 Mitgliedschaft zurückzugeben.
@@ -212,9 +212,8 @@ Beauftragte der Regierungen der Länder angehören.
 (1) Der Bundesrat bildet ständige Ausschüsse. Er kann für besondere
 Angelegenheiten weitere Ausschüsse einsetzen.
 
-(2) Die Länder sind in jedem Ausschuß durch ein Mitglied des
-Bundesrates, ein anderes Mitglied oder einen Beauftragten ihrer
-Regierung vertreten.
+(2) Die Länder sind in jedem Ausschuss durch ein oder mehrere
+Mitglieder des Bundesrates oder Beauftragte ihrer Regierung vertreten.
 
 (3) Die Regierungen der Länder teilen dem Präsidenten den Zeitpunkt
 der Bestellung und Abberufung der Ausschußmitglieder schriftlich mit.
@@ -288,15 +287,9 @@ Tagesordnungen zusammengestellt.
 Niederschriften und Empfehlungen der Ausschüsse sollen den
 Vertretungen der Länder so früh wie möglich zugestellt werden.
 
-(4) Kann die Zustellung nicht spätestens am sechsten Tag vor der
-Sitzung erfolgen, so sind die vorläufige Tagesordnung, die Vorlagen
-und die Berichte der beteiligten Ausschüsse den Vertretungen der
-Länder und gleichzeitig den Mitgliedern des Bundesrates unmittelbar
-zuzustellen.
-
-(5) Ort, Zeit und die vorläufige Tagesordnung jeder Sitzung werden der
+(4) Ort, Zeit und die vorläufige Tagesordnung jeder Sitzung werden der
 Bundesregierung mitgeteilt. Die Sitzungen des Bundesrates werden durch
-Anschlag im Sitzungsgebäude bekanntgegeben.
+Veröffentlichung auf der Internetseite des Bundesrates bekanntgegeben.
 
 
 ##### § 16 Anwesenheitsliste
@@ -398,15 +391,123 @@ Beabsichtigt der Präsident, sich als Redner an den Verhandlungen zu
 beteiligen, so gibt er für diese Zeit die Leitung der Sitzung ab.
 
 
-##### § 22 Ordnungsgewalt des Präsidenten
+##### § 22 Ordnungsbefugnis der Präsidentin oder des Präsidenten
 
 (1) Sitzungsteilnehmer, die nicht Mitglieder des Bundesrates sind, und
-Zuhörer unterstehen der Ordnungsgewalt des Präsidenten.
+Zuhörer unterstehen der Ordnungsbefugnis der Präsidentin oder des
+Präsidenten.
 
-(2) Wer auf den Tribünen Beifall oder Mißbilligung äußert oder Ordnung
-und Anstand verletzt, kann auf Anordnung des Präsidenten sofort
-entfernt werden. Der Präsident kann die Tribüne wegen störender Unruhe
+(2) Wer auf den Tribünen Beifall oder Mißbilligung äußert oder die
+Ordnung oder die Würde des Bundesrates verletzt, kann auf Anordnung
+der Präsidentin oder des Präsidenten sofort entfernt werden. Die
+Präsidentin oder der Präsident kann die Tribüne wegen störender Unruhe
 räumen lassen.
+
+
+##### § 22a Dauer der Rede
+
+(1) Sofern der Bundesrat nichts anderes beschließt, beträgt die
+Regelredezeit für Rednerinnen und Redner je Beratungsgegenstand fünf
+Minuten; die maximale Redezeit von 15 Minuten soll nicht überschritten
+werden.
+
+(2) Die Präsidentin oder der Präsident kann die Redezeiten verlängern,
+wenn der Beratungsgegenstand oder der Verlauf der Verhandlungen dies
+nahelegt.
+
+
+##### § 22b Sachruf
+
+Die Präsidentin oder der Präsident kann eine Rednerin oder einen
+Redner, die oder der vom Beratungsgegenstand abschweift, zur Sache
+verweisen.
+
+
+##### § 22c Ordnungsruf
+
+(1) Die Präsidentin oder der Präsident kann ein Mitglied des
+Bundesrates, das die Ordnung oder die Würde des Bundesrates verletzt,
+unter Nennung des Namens zur Ordnung rufen. Dies kann auch in der
+nächstfolgenden Sitzung geschehen.
+
+(2) Der Ordnungsruf oder der Anlass hierzu dürfen in den folgenden
+Redebeiträgen nicht zum Gegenstand von Erörterungen gemacht werden.
+
+
+##### § 22d Entziehung des Wortes
+
+(1) Überschreitet ein Mitglied des Bundesrates die maximal
+festgesetzte Redezeit, so kann ihm die Präsidentin oder der Präsident
+nach zweimaliger Mahnung das Wort entziehen.
+
+(2) Ist ein Mitglied des Bundesrates während einer Rede dreimal zur
+Sache oder zur Ordnung gerufen und beim zweiten Mal auf die Folgen
+eines dritten Rufes zur Sache oder zur Ordnung hingewiesen worden, so
+hat die Präsidentin oder der Präsident ihm das Wort zu entziehen.
+
+(3) Bei einer schwerwiegenden Verletzung der Ordnung oder der Würde
+des Bundesrates kann die Präsidentin oder der Präsident einem Mitglied
+das Wort sofort entziehen.
+
+(4) Das Wort darf dem Mitglied zu demselben Beratungsgegenstand in
+derselben Sitzung nicht wieder erteilt werden. Ausführungen nach
+Entziehung des Wortes werden in den Stenografischen Sitzungsbericht
+nicht aufgenommen.
+
+
+##### § 22e Ausschluss von Mitgliedern des Bundesrates
+
+(1) Wegen einer schwerwiegenden Verletzung der Ordnung oder der Würde
+des Bundesrates kann die Präsidentin oder der Präsident, auch ohne
+dass ein Sach- oder Ordnungsruf ergangen ist, ein Mitglied des
+Bundesrates von der Sitzung ausschließen. Das Gleiche gilt, wenn ein
+Mitglied in derselben Sitzung dreimal zur Sache oder zur Ordnung
+gerufen und beim zweiten Mal auf die Folgen eines dritten Rufes
+hingewiesen worden ist. Bis zum Schluss der Sitzung muss die
+Präsidentin oder der Präsident bekanntgeben, für wie viele Sitzungen
+das betroffene Mitglied ausgeschlossen wird. Ein Mitglied des
+Bundesrates kann von bis zu fünf Plenarsitzungen ausgeschlossen
+werden.
+
+(2) Ein Sitzungsausschluss kann auch nachträglich, spätestens in der
+auf die schwerwiegende Verletzung der Ordnung oder der Würde des
+Bundesrates folgenden Sitzung ausgesprochen werden, wenn die
+Präsidentin oder der Präsident während der Sitzung ausdrücklich eine
+Verletzung der Ordnung oder der Würde des Hauses festgestellt und sich
+einen nachträglichen Sitzungsausschluss vorbehalten hat. Ein bereits
+erteilter Ordnungsruf schließt einen nachträglichen Sitzungsausschluss
+nicht aus. Absatz 1 Satz 3 und 4 gilt entsprechend.
+
+(3) Das ausgeschlossene Mitglied hat den Sitzungssaal sofort zu
+verlassen. Kommt das Mitglied dieser Aufforderung nicht nach, so
+unterbricht die Präsidentin oder der Präsident die Sitzung. Das
+Mitglied ist damit ohne Weiteres von den nächsten drei Sitzungen
+ausgeschlossen. Die Präsidentin oder der Präsident stellt dies nach
+Wiedereintritt in die Sitzung fest.
+
+(4) Das betroffene Mitglied darf während der Dauer des Ausschlusses
+auch nicht an Sitzungen der Europakammer oder der Ausschüsse
+teilnehmen.
+
+
+##### § 22f Einspruch gegen Ordnungsmaßnahmen
+
+Gegen den Sachruf nach § 22b, den Ordnungsruf nach § 22c sowie den
+Sitzungsausschluss nach § 22e kann das betroffene Mitglied des
+Bundesrates binnen drei Werktagen schriftlich begründeten Einspruch
+bei der Präsidentin oder dem Präsidenten einlegen. Der Einspruch hat
+keine aufschiebende Wirkung. Er ist auf die Tagesordnung der nächsten
+Sitzung zu setzen. Über den Einspruch entscheidet der Bundesrat mit
+der Mehrheit seiner Stimmen in dieser Sitzung ohne Beratung.
+
+
+##### § 22g Unterbrechung der Sitzung
+
+Wenn im Bundesrat störende Unruhe entsteht, kann die Präsidentin oder
+der Präsident die Sitzung unterbrechen. Kann sich die Präsidentin oder
+der Präsident kein Gehör verschaffen, verlässt sie oder er den
+Präsidentenstuhl. Hierdurch wird die Sitzung für eine halbe Stunde
+unterbrochen.
 
 
 ### 3. - Der Geschäftsgang im Bundesrat
@@ -440,26 +541,13 @@ um einen Eilfall EG-Vorlage gemäß § 45d Abs. 1 handelt.
 nicht verhandelt und beschlossen werden, wenn ein Land widerspricht.
 
 
-#### § 24 Verhandlungen
+#### § 24 Redebeiträge
 
-Der Präsident soll darauf hinwirken, daß unabhängig von der
-Berichterstattung der Ausschüsse bei Beratungsgegenständen von
-allgemeinem Interesse oder von besonderer Bedeutung die Gründe
-dargelegt werden, die für die Entscheidung über die
-Ausschußempfehlungen oder Anträge von Bedeutung sind.
+Die Redebeiträge sind grundsätzlich in freiem Vortrag vom Rednerpult
+aus zu halten. Es können Aufzeichnungen benutzt werden.
 
 
-#### § 25 Berichterstattung
-
-(1) Die Ausschüsse sollen in der Sitzung des Bundesrates über
-Beratungsgegenstände von wesentlicher Bedeutung mündlich berichten.
-
-(2) Die Berichte müssen die Beratungen in den Ausschüssen objektiv
-wiedergeben, sollen sich aber auf die politisch bedeutsamen Ergebnisse
-beschränken. Über fachliche oder rechtstechnische Beratungen und deren
-Ergebnis kann mit Zustimmung des Präsidenten ein schriftlicher Bericht
-unter Verzicht auf seinen Vortrag zu dem Bericht über die Sitzung
-gegeben werden.
+#### § 25 (weggefallen)
 
 
 #### § 26 Anträge und Empfehlungen
@@ -653,7 +741,7 @@ unmittelbar auf die vorläufige Tagesordnung des Bundesrates zu setzen.
 
 (1) Die Ausschüsse tagen am Sitz des Bundesrates. Ausnahmen bedürfen
 der vorherigen Zustimmung des Präsidenten. Für die Bekanntgabe der
-Sitzungen gilt § 15 Abs. 5 entsprechend.
+Sitzungen gilt § 15 Absatz 4 entsprechend.
 
 (2) Die Sitzungen der Ausschüsse sind nicht öffentlich. Die
 Verhandlungen sind vertraulich, soweit der Ausschuß nichts anderes
@@ -706,10 +794,9 @@ Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden.
 
 #### § 40 Teilnahme und Fragerecht
 
-(1) Mitglieder des Bundesrates und Beauftragte der Landesregierungen,
-die nicht Mitglieder der Ausschüsse sind, sowie Beauftragte der
-Bundesregierung können an den Verhandlungen der Ausschüsse und
-Unterausschüsse ohne Stimmrecht teilnehmen.
+(1) Mitglieder des Bundesrates und Beauftragte der Landesregierungen
+sowie Mitglieder und Beauftragte der Bundesregierung können an den
+Verhandlungen der Ausschüsse und Unterausschüsse teilnehmen.
 
 (2) In den Sitzungen können die Mitglieder der Ausschüsse sowie die
 Beauftragten der Landesregierungen an die Mitglieder der
@@ -727,7 +814,7 @@ Berichte werden mündlich erstattet, soweit der Ausschuß nichts anderes
 beschließt.
 
 
-#### § 42 Beschlüsse
+#### § 42 Beschlüsse, Stimmberechtigung
 
 (1) Die Ausschüsse sind beschlußfähig, wenn mehr als die Hälfte der
 Länder vertreten ist.
@@ -735,6 +822,11 @@ Länder vertreten ist.
 (2) Jedes Land hat in den Ausschüssen eine Stimme.
 
 (3) Die Ausschüsse fassen ihre Beschlüsse mit einfacher Mehrheit.
+
+(4) Stimmberechtigt sind die an der Sitzung teilnehmenden Mitglieder
+des Bundesrates und Beauftragten der Landesregierungen. Sind mehrere
+stimmberechtigte Personen eines Landes anwesend, regelt das Land die
+Stimmabgabe intern.
 
 
 #### § 43 Umfrageverfahren
@@ -1006,33 +1098,10 @@ damit beauftragen, im Einvernehmen mit dem Vorsitzenden des
 Ausschusses für Fragen der Europäischen Union Beratungsgegenstände der
 Europakammer zuzuweisen.
 
-*
-    *
-        *
-            *
-                *
-                    *   (5) Die Zuweisung eines Beratungsgegenstandes an die Europakammer
-                        steht bis zu deren Beschlußfassung der Beratung in den Ausschüssen und
-                        der Verhandlung und Beschlußfassung durch den Bundesrat nicht
-                        entgegen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(5) Die Zuweisung eines Beratungsgegenstandes an die Europakammer
+steht bis zu deren Beschlußfassung der Beratung in den Ausschüssen und
+der Verhandlung und Beschlußfassung durch den Bundesrat nicht
+entgegen.
 
 
 #### § 45e Vorbereitung der Sitzungen der Europakammer
@@ -1105,7 +1174,7 @@ Satz 2 bis 4).
 
 #### § 45k Anwendung von Verfahrensvorschriften
 
-§ 15 Abs. 3 und 5, §§ 16, 18 Abs. 2, § 19 Abs. 1, §§ 22, 23 Abs. 2
+§ 15 Absatz 3 und 4, §§ 16, 18 Abs. 2, § 19 Abs. 1, §§ 22, 23 Abs. 2
 Satz 1 und Abs. 5, § 26 Abs. 3, §§ 29, 30 und 32 sind entsprechend
 anzuwenden.
 

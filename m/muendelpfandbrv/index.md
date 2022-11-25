@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1940, 756
 
 Zuletzt geändert durch
-:   Art. 35 G v. 8.12.2010 I 1864
+:   Art. 187 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -71,10 +71,10 @@ ausländische Zahlungsmittel lauten.
 
 ## § 2
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem
-Bundesministerium der Finanzen Ausnahmen bestimmen. Die Bestimmung ist
-im Bundesgesetzblatt bekanntzumachen. Sie wird mit der Bekanntmachung
-wirksam.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Einvernehmen mit dem Bundesministerium der Finanzen Ausnahmen
+bestimmen. Die Bestimmung ist im Bundesgesetzblatt bekanntzumachen.
+Sie wird mit der Bekanntmachung wirksam.
 
 
 ## Schlußformel

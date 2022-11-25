@@ -1,8 +1,5 @@
-[^F775272_01_BJNR098800011]
-Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur
-Packmitteltechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
 jurabk: PackmAusbV
 layout: default
 origslug: packmausbv
@@ -10,13 +7,16 @@ slug: packmausbv
 
 ---
 
-#  (PackmAusbV)
+# Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin (PackmAusbV)
 
 Ausfertigungsdatum
 :   2011-05-20
 
 Fundstelle
 :   BGBl I: 2011, 988
+
+Geändert durch
+:   Art. 1 V v. 3.4.2018 I 429
 
 [^F775272_01_BJNR098800011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -181,11 +181,7 @@ und 7 nachzuweisen.
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
 erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) (weggefallen)
 
 
 ## § 6 Zwischenprüfung
@@ -286,15 +282,18 @@ Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
 Berufsausbildung wesentlich ist. Die Ausbildungsordnung ist zugrunde
 zu legen.
 
-(3) Die Abschlussprüfung besteht aus den Prüfungsbereichen
+(3) Die Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 1.  Packmittelproduktion,
 
 
-2.  Auftragsvorbereitung und Managementsysteme,
+2.  Auftragsplanung,
 
 
-3.  Wirtschafts- und Sozialkunde.
+3.  Prozesstechnologie,
+
+
+4.  Wirtschafts- und Sozialkunde.
 
 
 
@@ -356,32 +355,33 @@ Vorgaben:
 
 
 
-(5) Für den Prüfungsbereich Auftragsvorbereitung und Managementsysteme
-bestehen folgende Vorgaben:
+(5) Für den Prüfungsbereich Auftragsplanung bestehen folgende
+Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
 
     a)  Arbeitsprozesse unter Beachtung wirtschaftlicher, ökologischer,
-        technischer und organisatorischer Vorgaben kundenorientiert zu planen,
+        technischer und organisatorischer Vorgaben kundenorientiert zu planen
+        und zu dokumentieren,
 
 
-    b)  vor- und nachgelagerte Produktionsbereiche zu berücksichtigen,
+    b)  Arbeitsschritte unter Einbeziehung von Informationen vor- und
+        nachgelagerter Produktionsbereiche zu planen,
 
 
-    c)  Maschinendaten zu strukturieren, auszuwerten, für die
+    c)  Maschinendaten zu strukturieren, auszuwerten und für die
         Auftragsdokumentation zusammenzustellen und zu sichern,
 
 
-    d)  Informationen zu Maschinen und Anlagen, zum Produktionsprozess, zu
-        Materialien und Werkzeugen zu nutzen sowie Problemlösungen zu
-        entwickeln,
+    d)  den Einsatz von Werkzeugen zu planen und vorzubereiten,
 
 
-    e)  Instrumente und Vorschriften des Qualitäts- und Hygienemanagements zu
-        erläutern,
+    e)  Eigenschaften von Vorprodukten und Materialien sowie deren
+        Wechselwirkungen untereinander und mit den eingesetzten Maschinen und
+        Anlagen zu berücksichtigen,
 
 
-    f)  prozessbezogene Berechnungen durchzuführen;
+    f)  planungsrelevante Berechnungen durchzuführen;
 
 
 
@@ -390,12 +390,58 @@ bestehen folgende Vorgaben:
 2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die Prüfungszeit beträgt 150 Minuten.
+3.  die Prüfungszeit beträgt 120 Minuten.
 
 
 
 
-(6) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
+(6) Für den Prüfungsbereich Prozesstechnologie bestehen folgende
+Vorgaben:
+
+1.  Der Prüfling soll nachweisen, dass er in der Lage ist,
+
+    a)  Informationen zu Maschinen und Anlagen, zum Produktionsprozess sowie
+        zu Materialien und Werkzeugen zu nutzen sowie Problemlösungen zu
+        entwickeln,
+
+
+    b)  Instrumente und Vorschriften des Qualitäts- und Hygienemanagements
+        sowie qualitätssichernde Maßnahmen für die Optimierung des
+        Produktionsprozesses anzuwenden,
+
+
+    c)  steuerungstechnische und mechanische Baugruppen an Maschinen und
+        Anlagen zu überwachen, den Materialfluss zu gewährleisten und
+        Funktionsabläufe zu überprüfen,
+
+
+    d)  Maßnahmen zur Instandhaltung zu veranlassen sowie Problemlösungen bei
+        Störungen zu entwickeln,
+
+
+    e)  Fertigungsanlagen zu überwachen und dabei produktspezifische
+        Prozessdaten zu interpretieren und zu dokumentieren,
+
+
+    f)  Instrumente und Vorschriften zur Arbeitssicherheit und zum
+        Gesundheitsschutz anzuwenden,
+
+
+    g)  prozessbezogene Berechnungen durchzuführen;
+
+
+
+
+
+2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
+
+
+3.  die Prüfungszeit beträgt 120 Minuten.
+
+
+
+
+(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
 folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine
@@ -416,25 +462,44 @@ folgende Vorgaben:
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
-*    *   1.
+1.
+    *        *   Prüfungsbereich
+            Packmittelproduktion
 
-    *   Prüfungsbereich Packmittelproduktion
-
-    *   60 Prozent,
-
-
-*    *   2.
-
-    *   Prüfungsbereich Auftragsvorbereitung und Managementsysteme
-
-    *   30 Prozent,
+        *   mit 50 Prozent,
 
 
-*    *   3.
 
-    *   Prüfungsbereich Wirtschafts- und Sozialkunde
 
-    *   10 Prozent.
+
+2.
+    *        *   Prüfungsbereich
+            Auftragsplanung
+
+        *   mit 20 Prozent,
+
+
+
+
+
+3.
+    *        *   Prüfungsbereich
+            Prozesstechnologie
+
+        *   mit 20 Prozent,
+
+
+
+
+
+4.
+    *        *   Prüfungsbereich
+            Wirtschafts- und Sozialkunde
+
+        *   mit 10 Prozent.
+
+
+
 
 
 
@@ -448,7 +513,7 @@ folgende Vorgaben:
     „ausreichend“,
 
 
-3.  in mindestens einem der übrigen Prüfungsbereiche mit mindestens
+3.  in mindestens zwei weiteren Prüfungsbereichen mit mindestens
     „ausreichend“ und
 
 
@@ -459,8 +524,8 @@ folgende Vorgaben:
 bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter
-als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsvorbereitung
-und Managementsysteme“ oder „Wirtschafts- und Sozialkunde“ durch eine
+als mit „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung“,
+„Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine
 mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das
 Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
 Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und

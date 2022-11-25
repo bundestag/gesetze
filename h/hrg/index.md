@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.1.1999 I 18;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.4.2007 I 506
+:   Art. 1 G v. 15.11.2019 I 1622
 
 
 ## § 1 Anwendungsbereich
@@ -305,14 +305,13 @@ die der Genehmigung der nach Landesrecht zuständigen Stelle bedürfen.
 Prüfungsanforderung und -verfahren sind so zu gestalten, daß die
 Abschlußprüfung innerhalb der Regelstudienzeit vollständig abgelegt
 werden kann. Prüfungsordnungen müssen die Inanspruchnahme der
-Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des
-Mutterschutzgesetzes sowie der Fristen der landesrechtlichen
-Regelungen über die Elternzeit ermöglichen. Prüfungsordnungen müssen
-die besonderen Belange behinderter Studierender zur Wahrung ihrer
-Chancengleichheit berücksichtigen. Die Genehmigung einer
-Prüfungsordnung ist zu versagen, wenn sie eine mit § 11 oder § 19
-unvereinbare Regelstudienzeit vorsieht. Die Genehmigung kann
-insbesondere versagt werden, wenn die Prüfungsordnung anderen
+Schutzfristen des § 3 des Mutterschutzgesetzes sowie der Fristen der
+landesrechtlichen Regelungen über die Elternzeit ermöglichen.
+Prüfungsordnungen müssen die besonderen Belange behinderter
+Studierender zur Wahrung ihrer Chancengleichheit berücksichtigen. Die
+Genehmigung einer Prüfungsordnung ist zu versagen, wenn sie eine mit §
+11 oder § 19 unvereinbare Regelstudienzeit vorsieht. Die Genehmigung
+kann insbesondere versagt werden, wenn die Prüfungsordnung anderen
 Vorschriften über die Regelstudienzeit nicht entspricht. Die nach
 Landesrecht zuständige Stelle kann die Änderung einer geltenden
 Prüfungsordnung insbesondere verlangen, wenn diese den Anforderungen
@@ -572,29 +571,9 @@ ein Studiengang einbezogen werden, wenn für ihn nach der Feststellung
 der Zentralstelle Zulassungszahlen für die Mehrzahl der staatlichen
 Hochschulen festgesetzt sind.
 
-(2) Reicht in einem nach Absatz 1 einbezogenen Studiengang die
-Gesamtzahl der an allen Hochschulen zur Verfügung stehenden
-Studienplätze zur Zulassung aller Bewerber aus, so werden die an den
-einzelnen Hochschulen vorhandenen Studienplätze von der Zentralstelle
-möglichst nach den Ortswünschen der Bewerber und, soweit notwendig,
-bis zu einem Viertel der Studienplätze nach dem Grad der gemäß § 27
-nachgewiesenen Qualifikation für das gewählte Studium, im übrigen vor
-allem nach den für die Ortswahl maßgebenden sozialen, insbesondere
-familiären und wirtschaftlichen Gründen vergeben
-(Verteilungsverfahren).
+(2) (weggefallen)
 
-(3) Reicht in einem nach Absatz 1 einbezogenen Studiengang die
-Gesamtzahl der Studienplätze nicht zur Zulassung aller Bewerberinnen
-und Bewerber aus, so findet unter den Bewerberinnen und Bewerbern eine
-Auswahl nach Maßgabe der §§ 32 bis 35 statt (Auswahlverfahren); die
-danach ausgewählten Bewerberinnen und Bewerber werden in den Fällen
-des § 32 Abs. 3 Nr. 3 von der Hochschule zugelassen. Im Übrigen werden
-sie den einzelnen Hochschulen möglichst nach ihren Ortswünschen und,
-soweit notwendig, in den Fällen des § 32 Abs. 3 Nr. 1 vor allem nach
-dem Grad der gemäß § 27 nachgewiesenen Qualifikation für das gewählte
-Studium, in allen anderen Fällen vor allem nach den für die Ortswahl
-maßgebenden sozialen, insbesondere familiären und wirtschaftlichen
-Gründen zugewiesen.
+(3) (weggefallen)
 
 (4) Besteht an einer Hochschule für den ersten Teil eines Studiengangs
 eine höhere Ausbildungskapazität als für spätere Teile dieses
@@ -604,127 +583,8 @@ ist, daß der Student sein Studium an anderen Hochschulen im
 Geltungsbereich dieses Gesetzes fortsetzen kann.
 
 
-### § 32 Auswahlverfahren
+### § 32 (weggefallen)
 
-(1) Im Falle des § 31 Abs. 3 werden die für Studienanfänger
-verfügbaren Studienplätze unter Beachtung der von den Bewerbern
-angegebenen Rangfolge ihrer Studienwünsche nach den Maßstäben der
-Absätze 2 und 3 vergeben. Bei den Bewerbungen für diese Studienplätze
-dürfen nach näherer Maßgabe des Landesrechts mindestens sechs
-Ortswünsche in einer Rangliste angegeben werden.
-
-(2) Bis zu drei Zehntel der Studienplätze sind vorzubehalten für
-
-1.  Bewerber, für die die Versagung der Zulassung eine außergewöhnliche,
-    insbesondere soziale Härte bedeuten würde;
-
-
-2.  Bewerber, die sich auf Grund entsprechender Vorschriften verpflichtet
-    haben, ihren Beruf in Bereichen besonderen öffentlichen Bedarfs
-    auszuüben;
-
-
-3.  ausländische und staatenlose Bewerber; Verpflichtungen auf Grund
-    zwischenstaatlicher Vereinbarungen sind zu berücksichtigen;
-
-
-4.  Bewerber, die in einem anderen noch nicht abgeschlossenen Studiengang
-    oder sonstigen gleichwertigen Ausbildungsgängen nach Landesrecht die
-    Qualifikation für das gewählte Studium (§ 27) erworben haben; ihre
-    Auswahl erfolgt nach dem Grad der Qualifikation (§ 27). Diese Bewerber
-    können im Verfahren nach Absatz 3 nicht zugelassen werden;
-
-
-5.  Bewerber, die bereits ein Studium in einem anderen Studiengang
-    abgeschlossen haben (Zweitstudienbewerber). Die Auswahl erfolgt nach
-    den Prüfungsergebnissen des Erststudiums und nach den für die
-    Bewerbung für ein weiteres Studium maßgeblichen Gründen. Diese
-    Bewerber können im Verfahren nach Absatz 3 nicht zugelassen werden.
-
-
-
-Das Landesrecht kann vorsehen, daß innerhalb der Quote nach Satz 1
-Studienplätze für in der beruflichen Bildung qualifizierte Bewerber (§
-27 Abs. 2 Satz 2) vorbehalten werden; diese Bewerber werden im
-Verfahren nach Absatz 3 nicht zugelassen. Nicht in Anspruch genommene
-Studienplätze werden den Studienplätzen nach Absatz 3 zugeschlagen.
-
-(3) Die verbleibenden Studienplätze werden vergeben
-
-1.  zu einem Fünftel der Studienplätze an jeder Hochschule durch die
-    Zentralstelle nach dem Grad der gemäß § 27 nachgewiesenen
-    Qualifikation für das gewählte Studium. Qualifikationsgrade, die nur
-    geringfügig voneinander abweichen, können als ranggleich behandelt
-    werden. Die Länder tragen dafür Sorge, dass die Nachweise innerhalb
-    eines Landes und im Verhältnis der Länder untereinander hinsichtlich
-    der jeweiligen Anforderungen und Bewertungen vergleichbar sind.
-    Solange die Vergleichbarkeit im Verhältnis der Länder untereinander
-    nicht gewährleistet ist, werden für die Auswahl der
-    Studienbewerberinnen und -bewerber Landesquoten gebildet. Die Quote
-    eines Landes bemisst sich zu einem Drittel nach seinem Anteil an der
-    Gesamtzahl der Bewerberinnen und Bewerber für den betreffenden
-    Studiengang (Bewerberanteil) und zu zwei Dritteln nach seinem Anteil
-    an der Gesamtzahl der Achtzehn- bis unter Einundzwanzigjährigen
-    (Bevölkerungsanteil); für die Länder Berlin, Bremen und Hamburg werden
-    die sich danach ergebenden Quoten um drei Zehntel erhöht. Bei der
-    Berechnung des Bewerberanteils werden nur Personen berücksichtigt, die
-    eine Hochschulzugangsberechtigung besitzen, die von allen Ländern
-    gegenseitig anerkannt ist;
-
-
-2.  zu einem Fünftel der Studienplätze nach der Dauer der Zeit seit dem
-    Erwerb der Qualifikation für den gewählten Studiengang nach § 27
-    (Wartezeit). Zeiten eines Studiums an einer Hochschule werden auf die
-    Wartezeit nicht angerechnet; dies gilt erstmals für Studienzeiten nach
-    Inkrafttreten dieses Gesetzes;
-
-
-3.  im Übrigen von den Hochschulen nach dem Ergebnis eines
-    Auswahlverfahrens. Die jeweilige Hochschule vergibt die Studienplätze
-    in diesem Verfahren nach Maßgabe des jeweiligen Landesrechts
-    insbesondere
-
-    a)  nach dem Grad der Qualifikation nach § 27,
-
-
-    b)  nach gewichteten Einzelnoten der Qualifikation nach § 27, die über die
-        fachspezifische Eignung Auskunft geben,
-
-
-    c)  nach dem Ergebnis eines fachspezifischen Studierfähigkeitstests,
-
-
-    d)  nach der Art einer Berufsausbildung oder Berufstätigkeit,
-
-
-    e)  nach dem Ergebnis eines von der Hochschule durchzuführenden Gesprächs
-        mit den Bewerberinnen und Bewerbern, das Aufschluss über die
-        Motivation der Bewerberin oder des Bewerbers und über die
-        Identifikation mit dem gewählten Studium und dem angestrebten Beruf
-        geben sowie zur Vermeidung von Fehlvorstellungen über die
-        Anforderungen des Studiums dienen soll,
-
-
-    f)  auf Grund einer Verbindung von Maßstäben nach den Buchstaben a bis e.
-
-
-
-
-
-
-Bei der Auswahlentscheidung muss dem Grad der Qualifikation nach § 27
-ein maßgeblicher Einfluss gegeben werden. Die Zahl der Teilnehmerinnen
-und Teilnehmer am Auswahlverfahren kann begrenzt werden. In diesem
-Fall entscheidet die Hochschule über die Teilnahme nach einem der in
-Satz 2 Buchstabe a bis d genannten Maßstäbe, nach dem Grad der
-Ortspräferenz oder nach einer Verbindung dieser Maßstäbe.
-Bewerberinnen und Bewerber, die nach Nummer 1 oder 2 ausgewählt
-wurden, nehmen am Auswahlverfahren nicht teil.
-
-(4) Für die Entscheidung in Fällen von Ranggleichheit der Bewerber
-kann eine Verbindung der Maßstäbe nach Absatz 3 Nr. 1 und 2 oder,
-unbeschadet des § 34 Satz 2, die Auswahl durch das Los vorgesehen
-werden.
 
 
 ### § 33
@@ -768,8 +628,6 @@ Den Bewerbern dürfen keine Nachteile entstehen
 
 
 
-Bei gleichem Rang nach § 32 Abs. 2 und 3 haben die Bewerber nach Satz
-1 den Vorrang.
 
 
 ### § 35 Unabhängigkeit der Zulassung von der Landeszugehörigkeit
@@ -780,7 +638,7 @@ werden, in welchem Land der Bundesrepublik Deutschland der Geburtsort
 oder der Wohnsitz des Studienbewerbers oder seiner Angehörigen liegt
 oder in welchem Land der Bundesrepublik Deutschland der
 Studienbewerber die Qualifikation für das Hochschulstudium erworben
-hat; § 32 Abs. 3 Nr. 1 Satz 4 bis 6 bleibt unberührt.
+hat.
 
 
 ## 3. Kapitel - Mitglieder der Hochschule
@@ -1222,12 +1080,12 @@ an einer staatlichen Hochschule gleichgestellt werden.
 
 ### § 72 Anpassungsfristen
 
-(1) Innerhalb von drei Jahren nach Inkrafttreten dieses Gesetzes in
-der Fassung vom 26. Januar 1976 (BGBl. I S. 185) sind den Vorschriften
-der Kapitel 1 bis 5 entsprechende Landesgesetze zu erlassen. Innerhalb
-von zwei Jahren nach Inkrafttreten des Dritten Gesetzes zur Änderung
-des Hochschulrahmengesetzes vom 14. November 1985 (BGBl. I S. 2090)
-sind den Vorschriften des Artikels 1 Nr. 1 bis 42 dieses Gesetzes
+Innerhalb von drei Jahren nach Inkrafttreten dieses Gesetzes in der
+Fassung vom 26. Januar 1976 (BGBl. I S. 185) sind den Vorschriften der
+Kapitel 1 bis 5 entsprechende Landesgesetze zu erlassen. Innerhalb von
+zwei Jahren nach Inkrafttreten des Dritten Gesetzes zur Änderung des
+Hochschulrahmengesetzes vom 14. November 1985 (BGBl. I S. 2090) sind
+den Vorschriften des Artikels 1 Nr. 1 bis 42 dieses Gesetzes
 entsprechende Landesgesetze zu erlassen. Innerhalb von drei Jahren
 nach dem Tag des Wirksamwerdens des Beitritts sind in dem in Artikel 1
 Abs. 1 des Einigungsvertrages genannten Ländern und in dem Teil des
@@ -1264,19 +1122,6 @@ Vorschriften im Hochschulbereich vom 27. Dezember 2004 (BGBl. I S.
 3835) sind den Vorschriften des Artikels 1 dieses Gesetzes
 entsprechende Landesgesetze zu erlassen. § 9 gilt unmittelbar.
 
-(2) Die Länder sind verpflichtet, ihr Hochschulzulassungsrecht zu
-einem übereinstimmenden Zeitpunkt entsprechend den Rahmenbestimmungen
-der §§ 29 bis 35 zu regeln. Erstmals für Zulassungen zum
-Wintersemester 2005/2006, längstens jedoch bis zum Inkrafttreten des
-Landesrechts nach Satz 1, sind die Vorschriften der Artikel 7 bis 16
-des Staatsvertrags über die Vergabe von Studienplätzen vom 24. Juni
-1999 nach Maßgabe des § 30 Abs. 3, des § 31 Abs. 3, des § 32 Abs. 3
-und 4, des § 34 und des § 35 in der ab 4. September 2004 geltenden
-Fassung anzuwenden. Die Länder treffen die erforderlichen
-Übergangsregelungen. Die nach den Sätzen 1 bis 3 erforderlichen
-ergänzenden Vorschriften der Länder müssen übereinstimmen, soweit dies
-für die zentrale Vergabe der Studienplätze notwendig ist.
-
 
 ### § 73 Abweichende Regelungen
 
@@ -1292,11 +1137,6 @@ Landesrecht von den Vorschriften dieses Gesetzes abweichende
 Regelungen getroffen werden, soweit die besondere Struktur und
 Aufgabenstellung dieser Hochschulen es erfordern. Die Anforderungen
 des § 70 Abs. 1 Nr. 1 bis 3 und 5 müssen erfüllt sein.
-
-
-### § 74
-
-(weggefallen)
 
 
 ### § 74 Bisherige Dienstverhältnisse und Berufungsvereinbarungen

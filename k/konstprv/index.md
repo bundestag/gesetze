@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1151
 
+Zuletzt geändert durch
+:   Art. 7 G v. 8.8.2020 I 1728
+
 
 
 ## Eingangsformel
@@ -41,7 +44,7 @@ und Sanitärtechnik, Stahl- und Metallbautechnik, Elektrotechnik oder
 Holztechnik erworben worden sind, kann die zuständige Stelle Prüfungen
 nach den §§ 2 bis 9 durchführen.
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer die
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person die
 notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, die
 folgenden Aufgaben eines Konstrukteurs in der jeweiligen Fachrichtung
 wahrzunehmen:
@@ -133,15 +136,15 @@ prüfen:
 
 
 
-(2) Im Prüfungsfach "Konstruktion" soll der Prüfungsteilnehmer
-nachweisen, daß er die Abläufe beim Konstruieren versteht und die
-Kenntnisse besitzt, sie auf neue Aufgabenstellungen anzuwenden. Er
-soll nachweisen, daß er in der Lage ist, die einzelnen Phasen des
+(2) Im Prüfungsfach "Konstruktion" soll die zu prüfende Person
+nachweisen, daß sie die Abläufe beim Konstruieren versteht und die
+Kenntnisse besitzt, sie auf neue Aufgabenstellungen anzuwenden. Sie
+soll nachweisen, daß sie in der Lage ist, die einzelnen Phasen des
 Konstruktionsprozesses durch die Anwendung geeigneter Hilfsmittel
-systematisch, nachvollziehbar und dokumentierbar durchzuführen. Er
-soll ferner nachweisen, daß er fertigungsgerecht konstruieren kann und
-im Rahmen einer Konstruktion die richtige Dimensionierung sowie die
-Auswahl der Werkstoffe und Bauelemente unter Beachtung der
+systematisch, nachvollziehbar und dokumentierbar durchzuführen. Sie
+soll ferner nachweisen, daß sie fertigungsgerecht konstruieren kann
+und im Rahmen einer Konstruktion die richtige Dimensionierung sowie
+die Auswahl der Werkstoffe und Bauelemente unter Beachtung der
 einschlägigen Normen beherrscht. In diesem Rahmen können geprüft
 werden:
 
@@ -227,13 +230,13 @@ werden:
 
 
 
-(3) Im Prüfungsfach "Rechnergestützte Konstruktion" soll der
-Prüfungsteilnehmer nachweisen, daß er die wesentlichen Einsatzbereiche
-unterschiedlicher Hard- und Software beurteilen kann. Der
-Prüfungsteilnehmer soll vor dem Hintergrund der Rechnerintegration und
-in Kenntnis der einzelnen Komponenten und Einsatzgebiete nachweisen,
-daß er den Einsatz von Informations- und Computer-Techniken in der
-Praxis beurteilen kann. Er soll den Stand der CAD-Technik kennen, die
+(3) Im Prüfungsfach "Rechnergestützte Konstruktion" soll die zu
+prüfende Person nachweisen, daß sie die wesentlichen Einsatzbereiche
+unterschiedlicher Hard- und Software beurteilen kann. Die zu prüfende
+Person soll vor dem Hintergrund der Rechnerintegration und in Kenntnis
+der einzelnen Komponenten und Einsatzgebiete nachweisen, daß sie den
+Einsatz von Informations- und Computer-Techniken in der Praxis
+beurteilen kann. Sie soll den Stand der CAD-Technik kennen, die
 Anwendungsmöglichkeiten von CAD-Systemen beurteilen können und die
 Kenntnisse besitzen, mit der entsprechenden CAD-Hard- und -Software
 zwei- und dreidimensionale Datenmodelle von Konstruktionen erstellen
@@ -312,12 +315,12 @@ zu können. In diesem Rahmen können geprüft werden:
 
 
 
-(4) Im Prüfungsfach "Arbeitsorganisation" soll der Prüfungsteilnehmer
-nachweisen, daß er die wesentlichen rechnergestützten Anwendungen in
+(4) Im Prüfungsfach "Arbeitsorganisation" soll die zu prüfende Person
+nachweisen, daß sie die wesentlichen rechnergestützten Anwendungen in
 der Produktion kennt und die Kenntnisse besitzt, die Auswirkungen
 konstruktiver Vorgaben auf die angrenzenden Bereiche, insbesondere die
-Produktion, zu beurteilen. Er soll nachweisen, daß er bei der
-Arbeitsgestaltung in seinem Bereich mitwirken kann und die
+Produktion, zu beurteilen. Sie soll nachweisen, daß sie bei der
+Arbeitsgestaltung in ihrem Bereich mitwirken kann und die
 entsprechenden Anforderungen der Ergonomie und des Arbeitsschutzes
 kennt. In diesem Rahmen können geprüft werden:
 
@@ -423,12 +426,12 @@ anzufertigenden Arbeit. Die Mindestzeiten betragen je Prüfungsfach:
 
 
 (7) Die schriftliche Prüfung ist in den in Absatz 1 genannten
-Prüfungsfächern auf Antrag des Prüfungsteilnehmers oder nach Ermessen
+Prüfungsfächern auf Antrag der zu prüfenden Person oder nach Ermessen
 des Prüfungsausschusses durch eine mündliche Prüfung zu ergänzen, wenn
 die mündliche Prüfung für das Bestehen der Prüfung oder die eindeutige
 Beurteilung der Prüfungsleistung von wesentlicher Bedeutung ist. Die
-Ergänzungsprüfung soll je Prüfungsfach und Prüfungsteilnehmer nicht
-länger als 15 Minuten dauern und insgesamt nicht länger als 30
+Ergänzungsprüfung soll je Prüfungsfach und für die zu prüfende Person
+nicht länger als 15 Minuten dauern und insgesamt nicht länger als 30
 Minuten.
 
 
@@ -446,12 +449,12 @@ Minuten.
 
 
 (2) Mit der Bearbeitung der Konstruktionsaufgabe (§ 3 Abs. 2 Satz 2)
-soll der Prüfungsteilnehmer nachweisen, daß er ein praxisnahes Problem
-unter Verwendung der entsprechenden Arbeits- und Hilfsmittel sowie mit
-Rechnerunterstützung in einem vorgegebenen Zeitrahmen lösen kann. Er
-soll zeigen, daß er die konstruktiven Fertigkeiten, insbesondere
-hinsichtlich der Auswahl von Bauelementen und Werkstoffen und der
-Dimensionierung von Baugruppen, unter Berücksichtigung der
+soll die zu prüfende Person nachweisen, daß sie ein praxisnahes
+Problem unter Verwendung der entsprechenden Arbeits- und Hilfsmittel
+sowie mit Rechnerunterstützung in einem vorgegebenen Zeitrahmen lösen
+kann. Sie soll zeigen, daß sie die konstruktiven Fertigkeiten,
+insbesondere hinsichtlich der Auswahl von Bauelementen und Werkstoffen
+und der Dimensionierung von Baugruppen, unter Berücksichtigung der
 einschlägigen Normen beherrscht. Die Aufgabe umfaßt
 
 1.  Finden, Aufzeigen und Bewerten von geeigneten Lösungswegen nach den
@@ -1082,7 +1085,7 @@ können geprüft werden:
     a)  bauaufsichtlich eingeführte Normen,
 
 
-    b)  Energieeinsparungsgesetz,
+    b)  Gebäudeenergiegesetz,
 
 
     c)  Brandschutzverordnung,
@@ -1950,81 +1953,538 @@ Rahmen können geprüft werden:
 
 
 
-(10) Die Konstruktionsaufgabe (§ 3 Abs. 2 Satz 2) soll der
-Prüfungsteilnehmer in einem Arbeitsgebiet der Fachrichtungen
-entsprechend § 1 Abs. 1 lösen. Der Prüfungsausschuß stellt die
-Konstruktionsaufgabe auf der Grundlage eines Vorschlages des
-Prüfungsteilnehmers. Als Bearbeitungszeit stehen dem
-Prüfungsteilnehmer sechs Wochen zur Verfügung. Der Prüfungsausschuß
-soll die Anfertigung der Konstruktionsaufgabe durch eines seiner
-Mitglieder oder einen Beauftragten begleiten.
+(10) Die Konstruktionsaufgabe (§ 3 Abs. 2 Satz 2) soll die zu prüfende
+Person in einem Arbeitsgebiet der Fachrichtungen entsprechend § 1 Abs.
+1 lösen. Der Prüfungsausschuß stellt die Konstruktionsaufgabe auf der
+Grundlage eines Vorschlages der zu prüfenden Person. Als
+Bearbeitungszeit stehen der zu prüfenden Person sechs Wochen zur
+Verfügung. Der Prüfungsausschuß soll die Anfertigung der
+Konstruktionsaufgabe durch eines seiner Mitglieder oder einen
+Beauftragten begleiten.
 
 (11) Die Konstruktionsaufgabe und die Inhalte der jeweiligen
-Fachrichtung sind Grundlage eines Fachgespräches des
-Prüfungsteilnehmers mit dem Prüfungsausschuß (§ 3 Abs. 2 Satz 2). Das
-Fachgespräch soll nicht länger als 60 Minuten dauern.
+Fachrichtung sind Grundlage eines Fachgespräches der zu prüfenden
+Person mit dem Prüfungsausschuß (§ 3 Abs. 2 Satz 2). Das Fachgespräch
+soll nicht länger als 60 Minuten dauern.
 
 
-## § 6 Anrechnung anderer Prüfungsfächer
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Von der Ablegung der Prüfung in einem Prüfungsfach oder in mehreren
-Prüfungsfächern gemäß § 4 kann der Prüfungsteilnehmer auf Antrag von
-der zuständigen Stelle freigestellt werden, wenn er vor einer
-zuständigen Stelle, einer öffentlichen oder staatlich anerkannten
-Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuß in den
-letzten fünf Jahren vor Antragstellung eine Prüfung bestanden hat,
-deren Inhalt den Anforderungen des jeweiligen Prüfungsfaches
-entspricht. Eine vollständige Freistellung ist nicht zulässig.
-
-
-## § 7 Bestehen der Prüfung
-
-(1) Die beiden Prüfungsteile werden gesondert bewertet. Die Note für
-den fachrichtungsübergreifenden Teil gemäß § 4 Abs. 1 ergibt sich als
-arithmetisches Mittel aus den Noten der einzelnen Prüfungsfächer. Die
-Note für den fachrichtungsspezifischen Teil gemäß § 5 Abs. 1 ergibt
-sich als arithmetisches Mittel aus der Note der Konstruktionsaufgabe
-und der Note des Fachgesprächs.
-
-(2) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer im
-fachrichtungsübergreifenden Teil sowie in der Konstruktionsaufgabe und
-im Fachgespräch mindestens ausreichende Leistungen erbracht hat; dabei
-dürfen nur in einem Prüfungsfach im fachrichtungsübergreifenden Teil
-nicht ausreichende Leistungen vorliegen. Bei einer ungenügenden
-Prüfungsleistung in einem Prüfungsfach ist die Prüfung nicht
-bestanden.
-
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage,
-Seite 1, auszustellen. Auf Antrag des Prüfungsteilnehmers ist ein
-Zeugnis gemäß der Anlage, Seite 1 und 2, auszustellen. Im Zeugnis ist
-die Bewertung der Konstruktionsaufgabe, die Aufgabenstellung und eine
-Beschreibung der angefertigten Arbeit gemäß § 5 Abs. 2 Nr. 1 bis 3
-beizufügen. Im Fall der Freistellung gemäß § 6 sind Ort und Datum
-sowie Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
-Prüfung anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes oder nach § 42c Absatz 2 Handwerksordnung von
+der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese
+Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht.
+Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7
+Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 2
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 8 Wiederholung der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im fachrichtungsübergreifenden Prüfungsteil sind die
+Prüfungsleistungen in jedem Prüfungsfach einzeln zu bewerten. Aus den
+einzelnen Bewertungen ist als Bewertung für den Prüfungsteil das
+arithmetische Mittel zu berechnen.
+
+(3) Im fachrichtungsspezifischen Prüfungsteil sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die Konstruktionsaufgabe nach § 3 Absatz 2 Satz 2 und
+
+
+2.  das Fachgespräch nach § 3 Absatz 2 Satz 2.
+
+
+
+Aus der Bewertung der Konstruktionsaufgabe und der Bewertung für das
+Fachgespräch ist als Bewertung des fachrichtungsspezifischen
+Prüfungsteils das arithmetische Mittel zu berechnen.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  in zwei der drei Prüfungsfächer des fachrichtungsübergreifenden Teils,
+
+
+2.  im fachrichtungsspezifischen Prüfungsteil
+
+    a)  in der Konstruktionsaufgabe und
+
+
+    b)  im Fachgespräch.
+
+
+
+
+
+
+Im Falle des Satzes 1 Nummer 1 ist die Prüfung jedoch nur bestanden,
+wenn keines der drei Prüfungsfächer mit weniger als 30 Punkten
+bewertet worden ist.
+
+(2) Ist die Prüfung bestanden, so werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für den fachrichtungsübergreifenden Prüfungsteil und
+
+
+2.  die Bewertung für den fachrichtungsspezifischen Prüfungsteil.
+
+
+
+
+(3) Der Bewertung für den fachrichtungsübergreifenden Prüfungsteil,
+den Bewertungen für die einzelnen Prüfungsfächer im
+fachrichtungsübergreifenden Prüfungsteil, der Bewertung für den
+fachrichtungsspezifischen Prüfungsteil und den Bewertungen für die
+Konstruktionsaufgabe und das Fachgespräch ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den fachrichtungsübergreifenden Prüfungsteil mit 25
+    Prozent,
+
+
+2.  die Bewertung für den fachrichtungsspezifischen Prüfungsteil mit 75
+    Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
-(2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag
+(2) In der Wiederholungsprüfung ist die zu prüfende Person auf Antrag
 von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern zu
-befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung
-ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
-Tage der Beendigung der nicht bestandenen Prüfung an, zur
+befreien, wenn ihre Leistungen darin in einer vorangegangenen Prüfung
+ausgereicht haben und sie sich innerhalb von zwei Jahren, gerechnet
+vom Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
 
-## § 9 Inkrafttreten
+## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(zu § 7 Abs. 3)
+(zu den §§ 7 und 8)
 
-## Anlage Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Inhalt: nicht erfaßtes Muster eines Zeugnisses
-Fundstelle: BGBl. I 1994, 1160 - 1161)
+(Fundstelle: BGBl. I 2019, 2191 - 2192)
+
+
+*    *   Punkte
+
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2192 - 2193)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum fachrichtungsübergreifenden Prüfungsteil
+
+    a)  Benennung dieses Prüfungsteils und Bewertung mit Note sowie
+
+
+    b)  Benennung der Prüfungsfächer und Bewertung mit Note,
+
+
+
+
+
+2.  zum fachrichtungsspezifischen Prüfungsteil
+
+    a)  Benennung dieses Prüfungsteils mit Note,
+
+
+    b)  Benennung der Konstruktionsaufgabe mit Note sowie
+
+
+    c)  Benennung des Fachgesprächs mit Note,
+
+
+
+
+
+3.  Benennung von Arbeitsgebiet, Thema und Beschreibung der
+    Konstruktionsaufgabe,
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 6.
+
+
+
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 265
 
+Geändert durch
+:   Art. 31 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -34,10 +37,11 @@ veröffentlicht.
 
 ## Art 2
 
-Die Bundesministerien des Innern und der Finanzen werden jeweils für
-ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die
-Rechtsverordnungen zu erlassen, die zur Durchführung der
-Vereinbarungen nach Artikel 2 Abs. 3 des Abkommens über
+Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen
+werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung
+des Bundesrates die Rechtsverordnungen zu erlassen, die zur
+Durchführung der Vereinbarungen nach Artikel 2 Abs. 3 des Abkommens
+über
 
 a)  die Errichtung zusammenliegender und vorgeschobener Grenzdienststellen
     einschließlich ihres Amtsbereichs,

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3262, 3334
 
-Geändert durch
-:   Art. 5 V v. 1.7.2011 I 1308
+Zuletzt geändert durch
+:   Art. 3 V v. 11.8.2021 I 3602
 
 
 ## Abschnitt 1 - Allgemeines
@@ -26,41 +26,55 @@ Geändert durch
 
 Im Sinn dieser Verordnung ist
 
-1.  Systemrichtlinie: Richtlinie 2008/118/EG des Rates vom 16. Dezember
-    2008 über das allgemeine Verbrauchsteuersystem und zur Aufhebung der
-    Richtlinie 92/12/EWG (ABl. L 9 vom 14.1.2009, S. 12) in der jeweils
-    geltenden Fassung;
-
-
-2.  Begleitdokument: begleitendes Verwaltungsdokument nach amtlich
+1.  Begleitdokument: begleitendes Verwaltungsdokument nach amtlich
     vorgeschriebenem Vordruck;
 
 
-3.  Ausgangszollstelle:
-
-    a)  für im Eisenbahnverkehr, mit der Post, im Luft- oder im Seeverkehr
-        beförderten Kaffee die Zollstelle, die für den Ort zuständig ist, an
-        dem der Kaffee von Eisenbahngesellschaften, Postdiensten,
-        Luftverkehrs- oder Schifffahrtsgesellschaften im Rahmen eines
-        durchgehenden Beförderungsvertrags zur Beförderung mit Bestimmung in
-        ein Drittland oder Drittgebiet übernommen wird,
-
-
-    b)  für in sonstiger Weise oder unter anderen als in Buchstabe a genannten
-        Umständen beförderten Kaffee die letzte Zollstelle vor dem Ausgang des
-        Kaffees aus dem Verbrauchsteuergebiet der Europäischen Gemeinschaft;
+2.  Durchführungsverordnung zum Unionszollkodex: die
+    Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November
+    2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung
+    (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur
+    Festlegung des Zollkodex der Union (ABl. L 343 vom 29.12.2015, S. 558;
+    L 101 vom 13.4.2017, S. 166; L 157 vom 20.6.2018, S. 27; L 387 vom
+    19\.11.2020, S. 31), die zuletzt durch die Durchführungsverordnung (EU)
+    2021/235 (ABl. L 63 vom 23.2.2021, S. 386) geändert worden ist, in der
+    jeweils geltenden Fassung;
 
 
+3.  Ausgangszollstelle: die nach Artikel 329 der Durchführungsverordnung
+    zum Unionszollkodex definierte Zollstelle;
+
+
+4.  Delegierte Verordnung zum Unionszollkodex: die Delegierte Verordnung
+    (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der
+    Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates
+    mit Einzelheiten zur Präzisierung von Bestimmungen des Zollkodex der
+    Union (ABl. L 343 vom 29.12.2015, S. 1; L 87 vom 2.4.2016, S. 35;
+    L 264 vom 30.9.2016, S. 44; L 101 vom 13.4.2017, S. 164), die zuletzt
+    durch die Delegierte Verordnung (EU) 2021/234 (ABl. L 63 vom
+    23\.2.2021, S. 1) geändert worden ist, in der jeweils geltenden
+    Fassung.
 
 
 
-4.  Zollkodex-Durchführungsverordnung: Verordnung (EWG) Nr. 2454/93 der
-    Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der
-    Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex
-    der Gemeinschaften (ABl. L 253 vom 11.10.1992, S. 1, L 268 vom
-    19\.10.1994, S. 32, L 180 vom 19.7.1996, S. 34, L 156 vom 13.6.1997, S.
-    59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG)
-    Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist.
+
+
+### § 1a Hauptzollamt; örtliche Zuständigkeit
+
+Soweit in dieser Verordnung oder in der
+Hauptzollamtszuständigkeitsverordnung nichts anderes bestimmt ist, ist
+für den Anwendungsbereich dieser Verordnung
+
+1.  das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den
+    einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen
+    betreibt oder, falls sie kein Unternehmen betreibt, in dessen Bezirk
+    die Person ihren Hauptwohnsitz hat, und
+
+
+2.  für Unternehmen, die von einem Ort außerhalb des Steuergebiets
+    betrieben werden, oder für Personen ohne Hauptwohnsitz im Steuergebiet
+    das Hauptzollamt örtlich zuständig, in dessen Bezirk die Unternehmen
+    oder Personen erstmals steuerlich in Erscheinung treten.
 
 
 
@@ -90,7 +104,7 @@ sie zu einer Mengenvermehrung führen.
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
 
-(1) Das Steuerlager (§ 5 des Gesetzes) umfasst die Gesamtheit der
+(1) Das Steuerlager nach § 5 des Gesetzes umfasst die Gesamtheit der
 baulich zueinander gehörenden Räume, in denen sich die Einrichtungen
 zur Herstellung, zur Be- oder Verarbeitung, zur Lagerung von Kaffee
 sowie für die in Absatz 2 Satz 2 genannten Handlungen befinden, ebenso
@@ -124,29 +138,24 @@ Steueraufsicht der Ablauf der Herstellung, der Be- und Verarbeitung,
 der Handlungen nach Absatz 2 Satz 2 sowie der Verbleib des Kaffees
 verfolgt werden kann.
 
-(4) Das zuständige Hauptzollamt (§ 4 Absatz 2) kann unter
-Berücksichtigung von Belangen der Steueraufsicht bestimmen, dass
-bestimmte Räume und Flächen nicht in das Steuerlager einbezogen
-werden.
+(4) Das Hauptzollamt kann unter Berücksichtigung von Belangen der
+Steueraufsicht bestimmen, dass bestimmte Räume und Flächen nicht in
+das Steuerlager einbezogen werden.
 
 
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 6 des
 Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim
-zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu
-stellen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
+Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu stellen. Dem
+Antrag sind in doppelter Ausfertigung beizufügen:
 
-1.  ein aktueller Registerauszug bei Unternehmen, die in das Handels- oder
-    Genossenschaftsregister eingetragen oder einzutragen sind,
-
-
-2.  Lagepläne der Räumlichkeiten des beantragten Steuerlagers mit Angabe
+1.  Lagepläne der Räumlichkeiten des beantragten Steuerlagers mit Angabe
     der Anschriften sowie den Funktionen der Räume, Flächen und
     Einrichtungen,
 
 
-3.  eine Betriebserklärung mit der Beschreibung der Betriebsvorgänge
+2.  eine Betriebserklärung mit der Beschreibung der Betriebsvorgänge
     bezogen auf die Herstellung, die Be- oder Verarbeitung und die
     Lagerung des Kaffees sowie auf die sonstigen beabsichtigten Handlungen
     nach § 3 Absatz 2 Satz 2 im beantragten Steuerlager.
@@ -154,267 +163,327 @@ stellen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
 
 
-(2) Zuständig ist das Hauptzollamt, von dessen Bezirk aus der
-Antragsteller sein Unternehmen betreibt oder, wenn dieser kein
-Unternehmen betreibt, in dessen Bezirk er seinen Wohnsitz hat. Für
-einen Antragsteller, der sein Unternehmen an einem Ort außerhalb des
-Steuergebiets betreibt, oder für einen Antragsteller, der außerhalb
-des Steuergebiets wohnt, ist das Hauptzollamt zuständig, in dessen
-Bezirk der Antragsteller erstmalig steuerlich in Erscheinung tritt.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere
+Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese
+Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder
+für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann
+auf Anforderungen nach Absatz 1 verzichten, wenn Steuerbelange dadurch
+nicht beeinträchtigt werden.
 
-(3) Auf Verlangen des zuständigen Hauptzollamts hat der Antragsteller
-weitere Angaben zu machen, wenn diese zur Sicherung des
-Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
-Das Hauptzollamt kann auf Anforderungen nach Absatz 1 verzichten, wenn
-Steuerbelange dadurch nicht beeinträchtigt werden.
-
-(4) Beabsichtigt der Steuerlagerinhaber weitere Steuerlager zu
+(3) Beabsichtigt der Steuerlagerinhaber weitere Steuerlager zu
 betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
-3 eine Erweiterung der Erlaubnis.
+2 eine Erweiterung der Erlaubnis.
 
 
 ### § 5 Erteilung der Erlaubnis
 
-(1) Das zuständige Hauptzollamt erteilt schriftlich unter
+(1) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten
 zulässigen Umfang. Dabei sind die Räume, Flächen und Einrichtungen des
 Steuerlagers oder der Steuerlager sowie die nach § 3 Absatz 2
-zulässigen Handlungen zu bestimmen. Mit der Erlaubnis werden nach
-einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für
-den Steuerlagerinhaber und für jedes Steuerlager
-Verbrauchsteuernummern vergeben. Vor der Erteilung der Erlaubnis ist
-Sicherheit zu leisten (§ 6), soweit Anzeichen für eine Gefährdung der
-Steuer erkennbar sind. Die Erlaubnis kann befristet werden.
+zulässigen Handlungen zu bestimmen. Mit der Erlaubnis werden für den
+Steuerlagerinhaber und für jedes Steuerlager Verbrauchsteuernummern
+vergeben. Vor der Erteilung der Erlaubnis ist Sicherheit nach § 6 zu
+leisten, soweit Anzeichen für eine Gefährdung der Steuer erkennbar
+sind. Die Erlaubnis kann mit Nebenbestimmungen nach § 120 der
+Abgabenordnung versehen werden.
 
 (2) Für die Belieferung des Groß- und Einzelhandels wird eine
 Erlaubnis nur erteilt, wenn ein besonderes wirtschaftliches Bedürfnis
 besteht und Belange der Steueraufsicht dem nicht entgegenstehen.
 
-(3) In den Fällen des § 4 Absatz 4 wird die Erlaubnis erweitert. Die
+(3) In den Fällen des § 4 Absatz 3 wird die Erlaubnis erweitert. Die
 Absätze 1 und 2 bleiben unberührt.
 
 
 ### § 6 Sicherheitsleistung
 
-(1) Die Höhe der Sicherheitsleistung wird durch das zuständige
-Hauptzollamt unter Berücksichtigung des § 6 Absatz 1 Satz 5 des
-Gesetzes festgelegt. Die Höhe der Sicherheitsleistung ist regelmäßig
-zu überprüfen und gegebenenfalls anzupassen.
+(1) Die Höhe der Sicherheitsleistung wird durch das Hauptzollamt unter
+Berücksichtigung des § 6 Absatz 1 Satz 5 des Gesetzes festgelegt. Die
+Höhe der Sicherheitsleistung ist regelmäßig zu überprüfen und
+gegebenenfalls anzupassen.
 
-(2) Sind Steuerbelange gefährdet, kann das zuständige Hauptzollamt
+(2) Sind Steuerbelange gefährdet, kann das Hauptzollamt
 Sicherheitsleistung bis zur Höhe des Steuerwerts des tatsächlichen
-Bestands im Steuerlager sowie der entstandenen, aber noch nicht
-entrichteten Steuer verlangen; § 221 der Abgabenordnung bleibt
+Bestands im Steuerlager sowie bis zur Höhe der entstandenen, aber noch
+nicht entrichteten Steuer verlangen; § 221 der Abgabenordnung bleibt
 unberührt.
+
+
+### § 6a Überprüfung der Erlaubnis
+
+Das Hauptzollamt überprüft unbeschadet anlassbezogener
+Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus der
+Erlaubnis nach § 5 eingehalten werden. Zudem überprüft es regelmäßig,
+ob der Erlaubnisinhaber die Bedingungen und Voraussetzungen für die
+Erlaubnis weiterhin erfüllt. Die regelmäßigen Überprüfungsmaßnahmen
+werden innerhalb von drei Jahren nach der letzten Überprüfungsmaßnahme
+oder der Neuerteilung durchgeführt.
 
 
 ### § 7 Änderung von Verhältnissen
 
-(1) Der Steuerlagerinhaber hat dem zuständigen Hauptzollamt die
-Änderung der in § 4 Absatz 1 und 3 dargestellten Verhältnisse vorher
-schriftlich anzuzeigen. Änderungen der räumlichen Ausdehnung des oder
-der Steuerlager oder der angeordneten Sicherungsmaßnahmen bedürfen der
-Zustimmung des zuständigen Hauptzollamts. Sonstige Veränderungen,
-insbesondere Überschuldung, drohende oder eingetretene
-Zahlungsunfähigkeit oder Zahlungseinstellung oder die Stellung des
-Antrags auf Eröffnung eines Insolvenzverfahrens hat der
-Steuerlagerinhaber dem zuständigen Hauptzollamt unverzüglich
-anzuzeigen.
+(1) Der Steuerlagerinhaber hat dem Hauptzollamt jede Änderung der nach
+§ 4 Absatz 1 und 2 Satz 1 angegebenen Verhältnisse vor der Änderung
+schriftlich anzuzeigen. Zu den anzuzeigenden Änderungen gehören auch
 
-(2) Soll der Betrieb eines Steuerlagers eingestellt werden oder mehr
-als sechs Wochen ruhen, so hat der Steuerlagerinhaber dies dem
-zuständigen Hauptzollamt im Voraus schriftlich anzuzeigen. Soll der
-Betrieb eines Steuerlagers wieder aufgenommen werden, hat der
-Steuerlagerinhaber dies dem zuständigen Hauptzollamt spätestens eine
-Woche im Voraus schriftlich anzuzeigen. Das zuständige Hauptzollamt
-kann im Einzelfall hierzu Anordnungen treffen oder Ausnahmen zulassen.
-Wird der Betrieb eines Steuerlagers eingestellt, widerruft das
-zuständige Hauptzollamt die Erlaubnis nach § 5. Sofern die Erlaubnis
-mehrere Steuerlager umfasst, wird diese geändert.
+1.  eine Unternehmensumwandlung nach den Vorschriften des
+    Umwandlungsgesetzes,
+
+
+2.  bei Personengesellschaften Änderungen der Personen der Gesellschafter
+    oder der geschäftsführenden Personen,
+
+
+3.  die Verlegung des Hauptwohnsitzes sowie bei Unternehmen die Verlegung
+    des Unternehmenssitzes oder des Ortes, von dem aus der Beteiligte sein
+    Unternehmen betreibt, oder
+
+
+4.  die Auflösung des Unternehmens.
+
+
+
+Änderungen der räumlichen Ausdehnung des oder der Steuerlager oder der
+angeordneten Sicherungsmaßnahmen bedürfen der Zustimmung des
+Hauptzollamts.
+
+(2) Der Steuerlagerinhaber hat dem Hauptzollamt andere Veränderungen
+als die nach Absatz 1 unverzüglich nach ihrem Eintritt anzuzeigen.
+Hierzu gehören insbesondere
+
+1.  seine Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit
+    oder Zahlungseinstellung,
+
+
+2.  die Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens,
+
+
+3.  die Anordnung vorläufiger Maßnahmen nach § 21 der Insolvenzordnung
+    unter Beifügung des gerichtlichen Beschlusses und
+
+
+4.  jede Änderung, die zur Eintragung ins Handels-, Genossenschafts-,
+    Vereins- oder Partnerschaftsregister anzumelden ist.
+
+
+
+
+(3) Bevor der Betrieb eines Steuerlagers eingestellt wird oder mehr
+als sechs Wochen ruht, hat der Steuerlagerinhaber dies dem
+Hauptzollamt schriftlich anzuzeigen. Die Wiederaufnahme des Betriebs
+hat der Steuerlagerinhaber spätestens eine Woche vorher schriftlich
+anzuzeigen. Das Hauptzollamt kann im Einzelfall zu den
+Anzeigepflichten Anordnungen treffen oder Ausnahmen zulassen. Wird der
+Betrieb eines Steuerlagers eingestellt, widerruft das Hauptzollamt die
+Erlaubnis nach § 5. Sofern die Erlaubnis mehrere Steuerlager umfasst,
+wird sie geändert.
+
+(4) In den Fällen des § 8 Absatz 1 Nummer 2, 4, 6 und 7 ist dem
+Hauptzollamt durch folgende Personen unverzüglich Folgendes
+schriftlich anzuzeigen:
+
+1.  der Tod des Erlaubnisinhabers von den Erben des Erlaubnisinhabers, dem
+    Testamentsvollstrecker oder dem Nachlasspfleger,
+
+
+2.  die Übernahme des Unternehmens vom neuen Inhaber oder
+
+
+3.  die Eröffnung des Insolvenzverfahrens oder die Abweisung der Eröffnung
+    des Insolvenzverfahrens vom Insolvenzverwalter oder, im Falle der
+    angeordneten Eigenverwaltung, dem Erlaubnisinhaber; der gerichtliche
+    Beschluss ist beizufügen.
+
+
+
 
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
 
-(1) Die Erlaubnis nach § 5 erlischt durch
+(1) Die Erlaubnis nach § 5 erlischt unbeschadet des § 124 Absatz 2 der
+Abgabenordnung durch
 
-1.  Widerruf,
-
-
-2.  Fristablauf,
+1.  den Verzicht des Steuerlagerinhabers,
 
 
-3.  Verzicht des Steuerlagerinhabers,
+2.  den Tod des Steuerlagerinhabers,
 
 
-4.  Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse,
-
-
-5.  Übergabe des Unternehmens an Dritte nach Ablauf von drei Monaten nach
-    der Übergabe,
-
-
-6.  den Tod des Steuerlagerinhabers nach Ablauf von drei Monaten nach dem
-    Ableben,
-
-
-7.  Auflösung der juristischen Person oder Personenvereinigung ohne
+3.  die Auflösung der juristischen Person oder Personenvereinigung ohne
     Rechtspersönlichkeit, der die Erlaubnis erteilt worden ist,
 
 
-8.  Eröffnung des Insolvenzverfahrens über das Vermögen des
-    Steuerlagerinhabers oder durch Abweisung der Eröffnung mangels Masse
-    nach Ablauf von drei Monaten nach dem maßgebenden Ereignis,
+4.  die Übergabe des Unternehmens an Dritte,
 
 
-9.  Unternehmensumwandlung nach § 1 Absatz 1 des Umwandlungsgesetzes nach
-    Ablauf von drei Monaten nach dem maßgebenden Ereignis,
+5.  eine Unternehmensumwandlung nach § 1 Absatz 1 des Umwandlungsgesetzes,
 
 
-10. Änderung der Firma oder des Inhabers bei einer Personengesellschaft
-    oder Personenvereinigung ohne Rechtspersönlichkeit, die Verlegung der
-    Niederlassung an einen anderen Ort nach Ablauf von drei Monaten nach
-    dem maßgebenden Ereignis,
+6.  die Abweisung der Eröffnung des Insolvenzverfahrens mangels Masse oder
 
 
-
-soweit die folgenden Absätze zum Zeitpunkt des Erlöschens nichts
-anderes bestimmen.
-
-(2) Teilen in den Fällen des Absatzes 1 Nummer 6 bis 8 die Erben, die
-Liquidatoren oder der Insolvenzverwalter dem zuständigen Hauptzollamt
-vor dem Erlöschen der Erlaubnis schriftlich mit, dass das Steuerlager
-bis zu seinem endgültigen Übergang auf einen anderen Inhaber oder bis
-zur Abwicklung des Unternehmens fortgeführt wird, gilt die Erlaubnis
-für die Rechtsnachfolger, die Liquidatoren oder den Insolvenzverwalter
-entgegen Absatz 1 bis spätestens zum Ablauf einer vom zuständigen
-Hauptzollamt festzusetzenden angemessenen Frist fort. Absatz 1 Nummer
-1 bleibt hiervon unberührt.
-
-(3) Beantragen in den in Absatz 1 Nummer 5, 6, 9 und 10 beschriebenen
-Fällen vor dem Erlöschen der Erlaubnis
-
-1.  der neue Inhaber,
-
-
-2.  die Erben,
-
-
-3.  die Inhaber des neuen Unternehmens,
-
-
-4.  die Inhaber des Unternehmens, das den bisherigen Rechtsträger
-    übernommen hat, auf den sich die Erlaubnis vor der Umwandlung bezieht,
-    oder
-
-
-5.  die Inhaber des Unternehmens, bei dem die Änderungen eingetreten sind,
+7.  die Eröffnung des Insolvenzverfahrens über das Vermögen des
+    Steuerlagerinhabers.
 
 
 
-eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die
-Antragsteller entgegen Absatz 1 bis zur Bestandskraft der Entscheidung
-über den Antrag fort. Absatz 1 Nummer 1 bleibt hiervon unberührt. Wird
-die neue Erlaubnis beantragt, kann, soweit sich keine Änderungen
-ergeben haben, auf die Angaben und Unterlagen der bisherigen Erlaubnis
-Bezug genommen werden, die dem zuständigen Hauptzollamt bereits
-vorliegen. Mit Zustimmung des zuständigen Hauptzollamts kann bei
-Antragstellung auf die Verwendung des amtlich vorgeschriebenen
+
+(2) Die Erlaubnis erlischt, sofern die folgenden Absätze zum Zeitpunkt
+des Erlöschens nichts anderes bestimmen:
+
+1.  in den Fällen des Absatzes 1 Nummer 2, 3, 4, 5 und 7 mit Ablauf von
+    drei Monaten nach dem maßgeblichen Ereignis,
+
+
+2.  in den Fällen des Absatzes 1 Nummer 1 und 6 mit dem maßgeblichen
+    Ereignis.
+
+
+
+
+(3) Teilen in den Fällen des Absatzes 1 Nummer 2, 3 oder 7 die Erben,
+der Testamentsvollstrecker, der Nachlasspfleger, die Liquidatoren, der
+Insolvenzverwalter oder im Fall der angeordneten Eigenverwaltung der
+Erlaubnisinhaber dem Hauptzollamt vor dem Erlöschen der Erlaubnis
+schriftlich mit, dass das Steuerlager bis zu seinem endgültigen
+Übergang auf einen anderen Inhaber oder bis zur Abwicklung des
+Unternehmens fortgeführt wird, so gilt die Erlaubnis für die
+Rechtsnachfolger, den Testamentsvollstrecker, den Nachlasspfleger, die
+Liquidatoren oder den Insolvenzverwalter bis spätestens zum Ablauf
+einer vom Hauptzollamt festzusetzenden angemessenen Frist fort.
+
+(4) Wird in den Fällen des Absatzes 1 Nummer 2, 4 und 5 vor dem
+Erlöschen eine neue Erlaubnis beantragt von
+
+1.  den Erben,
+
+
+2.  dem neuen Erlaubnisinhaber,
+
+
+3.  dem Inhaber des neuen Unternehmens oder
+
+
+4.  dem Inhaber des Unternehmens, das den bisherigen Rechtsträger
+    übernommen hat, für den die Erlaubnis vor der Umwandlung erteilt
+    wurde,
+
+
+
+so gilt die Erlaubnis des Rechtsvorgängers für die Antragsteller bis
+zur Bestandskraft der Entscheidung über den Antrag fort. Wird eine
+neue Erlaubnis beantragt, kann, soweit sich keine Änderungen ergeben
+haben, auf die Angaben und Unterlagen Bezug genommen werden, die dem
+Hauptzollamt bereits vorliegen. Mit Zustimmung des Hauptzollamts kann
+bei Antragstellung auf die Verwendung des amtlich vorgeschriebenen
 Vordrucks verzichtet werden.
 
-(4) Die fortgeltende Erlaubnis erlischt
+(5) Die fortgeltende Erlaubnis erlischt
 
-1.  in den Fällen des Absatzes 2, wenn auf eine Fortführung des
+1.  in den Fällen des Absatzes 3, wenn auf die Fortführung des
     Steuerlagers oder der Steuerlager verzichtet wird,
 
 
-2.  in den Fällen des Absatzes 3, wenn keine neue Erlaubnis erteilt wird.
+2.  in den Fällen des Absatzes 4, wenn keine neue Erlaubnis erteilt wird.
 
 
 
 
-(5) Kaffee, der sich zum Zeitpunkt des Erlöschens der Erlaubnis im
-Steuerlager befindet, gilt als zum Zeitpunkt des Erlöschens in den
-steuerrechtlich freien Verkehr überführt. Der Steuerlagerinhaber, die
-Erben, die Liquidatoren oder der Insolvenzverwalter haben über die
-Bestände unverzüglich eine Steueranmeldung nach amtlich
-vorgeschriebenem Vordruck abzugeben. Hat das zuständige Hauptzollamt
-für die Räumung des Steuerlagers eine Frist gewährt, gilt die
-Erlaubnis für die Zwecke der Räumung bis zum Fristablauf weiter.
+(6) Kaffee, der sich zum Zeitpunkt des Erlöschens der Erlaubnis in
+einem Steuerlager befindet, gilt als zum Zeitpunkt des Erlöschens in
+den steuerrechtlich freien Verkehr überführt. Über die Bestände haben
+unverzüglich nach der Überführung in den steuerrechtlich freien
+Verkehr eine Steueranmeldung nach amtlich vorgeschriebenem Vordruck
+abzugeben:
 
-(6) In den Fällen des Absatzes 1 Nummer 4 bis 8 haben dem zuständigen
-Hauptzollamt unverzüglich schriftlich anzuzeigen
-
-1.  der neue Inhaber die Übergabe des Unternehmens,
+1.  in den Fällen des Absatzes 1 Nummer 1, 4, 5 und 6 der
+    Steuerlagerinhaber,
 
 
-2.  die Erben den Tod des Erlaubnisinhabers,
+2.  in den Fällen des Absatzes 1 Nummer 2
+
+    a)  bei einer Nachlasspflegschaft der Nachlasspfleger,
 
 
-3.  die Liquidatoren und der Insolvenzverwalter jeweils die Eröffnung des
-    Insolvenzverfahrens oder deren Abweisung.
+    b)  bei angeordneter Testamentsvollstreckung der Testamentsvollstrecker
+        und
+
+
+    c)  im Übrigen die Erben,
 
 
 
-Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für
-den Steuerlagerinhaber.
+
+
+3.  in den Fällen des Absatzes 1 Nummer 3 die Liquidatoren und
+
+
+4.  in den Fällen des Absatzes 1 Nummer 7 der Insolvenzverwalter.
+
+
+
+Die Steuer ist sofort fällig. Das Hauptzollamt kann für die Räumung
+des Steuerlagers eine Frist gewähren. Die Erlaubnis gilt für die
+Zwecke der Räumung bis zum Fristablauf weiter.
 
 
 ### § 9 Belegheft, Buchführung
 
-(1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige
+(1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das
 Hauptzollamt kann dazu Anordnungen treffen.
 
 (2) Der Steuerlagerinhaber hat über die Zu- und Abgänge für das
 Steuerlager oder bei mehreren Steuerlagern für jedes einzelne
 Steuerlager ein Lagerbuch nach amtlich vorgeschriebenem Vordruck zu
-führen. Das zuständige Hauptzollamt kann Anordnungen zur
-Lagerbuchführung treffen und weitere Aufzeichnungen verlangen. Es
-lässt auf Antrag anstelle des Lagerbuchs betriebliche Aufzeichnungen
-zu, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
+führen. Das Hauptzollamt kann Anordnungen zur Lagerbuchführung treffen
+und weitere Aufzeichnungen verlangen. Es lässt auf Antrag anstelle des
+Lagerbuchs betriebliche Aufzeichnungen zu, wenn Steuerbelange dadurch
+nicht beeinträchtigt werden.
 
 (3) Der Steuerlagerinhaber hat die Zu- und Abgänge unverzüglich
-aufzuzeichnen. Das zuständige Hauptzollamt kann zulassen, dass
-insbesondere die Entnahmen in den steuerrechtlich freien Verkehr in
-der Lagerbuchführung für längstens einen Kalendermonat zusammengefasst
+aufzuzeichnen. Das Hauptzollamt kann zulassen, dass insbesondere die
+Entnahmen in den steuerrechtlich freien Verkehr in der
+Lagerbuchführung für längstens einen Kalendermonat zusammengefasst
 aufgezeichnet werden.
 
 
-### § 10 Vollständige Zerstörung und unwiederbringlicher Verlust
+### § 10 Vollständige Zerstörung und unwiederbringlicher Gesamt- oder Teilverlust
 
 Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden
-oder unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber
-dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und anhand
-betrieblicher Unterlagen nachzuweisen. Das zuständige Hauptzollamt
-kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung
-treffen.
+oder vollständig oder teilweise unwiederbringlich verloren gegangen,
+hat der Steuerlagerinhaber dies dem Hauptzollamt unverzüglich
+anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das
+Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur
+Nachweisführung treffen.
 
 
 ### § 11 Bestandsaufnahme im Steuerlager
 
-(1) Der Steuerlagerinhaber hat je Kalenderjahr eine Bestandsaufnahme
-durchzuführen und beim zuständigen Hauptzollamt innerhalb eines Monats
-nach ihrem Abschluss den Soll- und Istbestand sowie das Ergebnis nach
-amtlich vorgeschriebenem Vordruck (Bestandsanmeldung) anzumelden und
-dabei zu Mengenabweichungen Stellung zu nehmen. Das zuständige
+(1) Der Steuerlagerinhaber hat einmal jährlich im Steuerlager eine
+Bestandsaufnahme durchzuführen und beim Hauptzollamt innerhalb eines
+Monats nach ihrem Abschluss den Soll- und Istbestand sowie das
+Ergebnis nach amtlich vorgeschriebenem Vordruck (Bestandsanmeldung)
+anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Das
 Hauptzollamt kann zulassen, dass der Steuerlagerinhaber die
 Bestandsanmeldung in anderer Form abgibt, wenn Steuerbelange nicht
 beeinträchtigt werden. Der Steuerlagerinhaber hat den Beginn der
-Bestandsaufnahme dem zuständigen Hauptzollamt spätestens drei Wochen
-im Voraus anzuzeigen.
+Bestandsaufnahme dem Hauptzollamt spätestens drei Wochen im Voraus
+anzuzeigen.
 
-(2) Das zuständige Hauptzollamt kann unter Widerrufsvorbehalt
-zulassen, dass alle oder einzelne Bestände auf Grund einer permanenten
-Inventur festgestellt und angemeldet werden, wenn durch ein den
-Grundsätzen ordnungsmäßiger Buchführung entsprechendes Verfahren
-gesichert ist, dass die Bestände nach Art und Menge zum Stichtag der
+(2) Das Hauptzollamt kann unter Widerrufsvorbehalt zulassen, dass alle
+oder einzelne Bestände auf Grund einer permanenten Inventur
+festgestellt und angemeldet werden, wenn durch ein den Grundsätzen
+ordnungsmäßiger Buchführung entsprechendes Verfahren gesichert ist,
+dass die Bestände nach Art und Menge zum Stichtag der
 Bestandsanmeldung festgestellt werden können.
 
-(3) Auf Anordnung des zuständigen Hauptzollamts sind die Bestände im
-Steuerlager amtlich festzustellen. Der Steuerlagerinhaber hat dazu auf
-Verlangen des zuständigen Hauptzollamts die Bestände nach amtlich
-vorgeschriebenem Vordruck anzumelden und an der Bestandsaufnahme
-teilzunehmen. Er hat dafür zu sorgen, dass die Bestände mit möglichst
-geringem Aufwand festgestellt werden können.
+(3) Auf Anordnung des Hauptzollamts sind die Bestände im Steuerlager
+amtlich festzustellen. Der Steuerlagerinhaber hat dazu auf Verlangen
+des Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck
+anzumelden und an der Bestandsaufnahme teilzunehmen. Er hat dafür zu
+sorgen, dass die Bestände mit möglichst geringem Aufwand festgestellt
+werden können.
 
 
 ## Abschnitt 4 - Zu § 7 des Gesetzes
@@ -422,54 +491,50 @@ geringem Aufwand festgestellt werden können.
 
 ### § 12 Registrierter Versender
 
-(1) Wer als registrierter Versender (§ 7 Absatz 1 des Gesetzes) Kaffee
-vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung versenden
-will, hat die Erlaubnis im Voraus beim zuständigen Hauptzollamt (§ 4
-Absatz 2) nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem
-Antrag sind in doppelter Ausfertigung beizufügen:
+(1) Wer als registrierter Versender nach § 7 Absatz 1 des Gesetzes
+Kaffee vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung
+versenden will, hat die Erlaubnis im Voraus beim Hauptzollamt nach
+amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in
+doppelter Ausfertigung beizufügen:
 
-1.  ein aktueller Registerauszug bei Unternehmen, die in das Handels- oder
-    Genossenschaftsregister eingetragen oder einzutragen sind,
-
-
-2.  eine Aufstellung mit den Orten der Einfuhr beim Eingang von Kaffee aus
-    Drittländern oder Drittgebieten (§ 4 Nummer 9 des Gesetzes),
+1.  eine Aufstellung mit den Orten der Einfuhr beim Eingang von Kaffee aus
+    Drittländern oder Drittgebieten (§ 4 Nummer 11 des Gesetzes),
 
 
-3.  eine Darstellung der Buchführung über den Versand und den Verbleib des
+2.  eine Darstellung der Buchführung über den Versand und den Verbleib des
     Kaffees.
 
 
 
 
-(2) Auf Verlangen des zuständigen Hauptzollamts hat der Antragsteller
-weitere Angaben zu machen, wenn diese zur Sicherung des
-Steueraufkommens oder für die Steueraufsicht erforderlich erscheinen.
-Das zuständige Hauptzollamt kann auf Anforderungen nach Absatz 1
-verzichten, wenn Steuerbelange dadurch nicht beeinträchtigt werden.
+(2) Auf Verlangen des Hauptzollamts hat der Antragsteller weitere
+Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese
+Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder
+für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann
+auf Anforderungen nach Absatz 1 verzichten, wenn Steuerbelange dadurch
+nicht beeinträchtigt werden.
 
-(3) Das zuständige Hauptzollamt erteilt schriftlich unter
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis als registrierter Versender. Mit der
-Erlaubnis wird nach einer Verwaltungsvorschrift des Bundesministeriums
-der Finanzen für den registrierten Versender eine
+Erlaubnis wird für den registrierten Versender eine
 Verbrauchsteuernummer vergeben.
 
 (4) Die Erlaubnis als registrierter Versender gilt nicht für die Orte
-der Einfuhr, an denen Kaffee nach den Artikeln 263 bis 267 der
-Zollkodex-Durchführungsverordnung oder aus einem Zolllager des Typs D
-im Sinn des Artikels 525 Absatz 2 Buchstabe a der Zollkodex-
-Durchführungsverordnung in den zollrechtlich freien Verkehr überführt
-wird. Hiervon ausgenommen sind die Fälle, in denen das Hauptzollamt
-die Überlassung von Kaffee zum zollrechtlich freien Verkehr prüft und
-gegenüber dem Beteiligten erklärt.
+der Einfuhr, an denen Kaffee nach Artikel 182 des Unionszollkodex zum
+zollrechtlich freien Verkehr überlassen wird. Hiervon ausgenommen sind
+die Fälle, in denen die Zollstelle nach Artikel 1 Nummer 15 der
+Delegierten Verordnung zum Unionszollkodex die Überlassung von Kaffee
+zum zollrechtlich freien Verkehr prüft und gegenüber dem Beteiligten
+erklärt.
 
 (5) Der registrierte Versender hat ein Belegheft zu führen sowie
-Aufzeichnungen über den beförderten Kaffee zu führen. Das zuständige
-Hauptzollamt kann dazu Anordnungen treffen. Der beförderte Kaffee ist
-vom registrierten Versender unverzüglich aufzuzeichnen.
+Aufzeichnungen über den beförderten Kaffee zu führen. Das Hauptzollamt
+kann dazu Anordnungen treffen. Der beförderte Kaffee ist vom
+registrierten Versender unverzüglich aufzuzeichnen.
 
-(6) Bei der Änderung der dargestellten Verhältnisse gilt § 7 und für
-das Erlöschen und den Fortbestand der Erlaubnis § 8 entsprechend.
+(6) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen
+und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8
+entsprechend.
 
 
 ## Abschnitt 5 - Zu den §§ 8 und 23 Absatz 1 Nummer 1 des Gesetzes
@@ -487,8 +552,7 @@ Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S.
 Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen
 Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat
 die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene
-erste und zweite Ausfertigung dem Steuerlagerinhaber als Versender
-oder dem registrierten Versender auszuhändigen. Die dritte
+erste und zweite Ausfertigung dem Versender auszuhändigen. Die dritte
 Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach der
 Übernahme des Kaffees verbleibt die zweite Ausfertigung der
 Freistellungsbescheinigung beim Begünstigten. Der Kaffee ist
@@ -530,6 +594,16 @@ Diplomaten und konsularische Missionen empfangen wird, gilt § 17 der
 Zollverordnung in Verbindung mit den dazu ergangenen
 Verwaltungsvorschriften sinngemäß.
 
+(6) Wird Kaffee, der nach den Absätzen 1 bis 5 von Begünstigten nach §
+8 Absatz 1 Nummer 4 bis 6 des Gesetzes unter Steueraussetzung
+empfangen wurde, an Dritte abgegeben, entsteht die Steuer nach § 15
+Absatz 1 des Gesetzes. Steuerschuldner ist neben der Person, die den
+Kaffee an Dritte abgegeben hat, die Person, die diesen in Empfang
+genommen hat. Der Steuerschuldner hat unverzüglich eine
+Steueranmeldung beim Hauptzollamt abzugeben. Für die Steueranmeldung
+gilt § 20 entsprechend. Die Steuer ist sofort fällig. Mehrere
+Steuerschuldner sind Gesamtschuldner.
+
 
 ## Abschnitt 6 - Zu § 9 des Gesetzes
 
@@ -539,8 +613,7 @@ Verwaltungsvorschriften sinngemäß.
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung in ein Steuerlager im
 Steuergebiet oder zu einem Begünstigten im Steuergebiet befördert
-werden, hat der Steuerlagerinhaber als Versender oder der registrierte
-Versender das Begleitdokument zu verwenden.
+werden, hat der Versender das Begleitdokument zu verwenden.
 
 (2) Der Versender hat das Begleitdokument in vier Exemplaren
 auszufertigen. Er hat die erste Ausfertigung zu seinen Aufzeichnungen
@@ -553,13 +626,13 @@ der Einfuhr zuständig ist.
 (3) Der Empfänger hat die zweite Ausfertigung als Beleg zu seinen
 Aufzeichnungen zu nehmen und unverzüglich die mit seinem
 Empfangsvermerk versehene dritte und vierte Ausfertigung dem
-zuständigen Hauptzollamt (§ 4 Absatz 2) vorzulegen. Dieses bestätigt
-die Übereinstimmung der beiden Ausfertigungen und die
-Empfangsberechtigung auf der dritten Ausfertigung (Rückschein). Der
-bestätigte Rückschein ist vom Empfänger binnen zwei Wochen nach Erhalt
-des Kaffees an den Versender, bei Beförderungen vom Ort der Einfuhr an
-das Hauptzollamt nach Absatz 2 Satz 5 zurückzuschicken. Die vierte
-Ausfertigung verbleibt beim zuständigen Hauptzollamt.
+Hauptzollamt vorzulegen. Dieses bestätigt die Übereinstimmung der
+beiden Ausfertigungen und die Empfangsberechtigung auf der dritten
+Ausfertigung (Rückschein). Der bestätigte Rückschein ist vom Empfänger
+binnen zwei Wochen nach Erhalt des Kaffees an den Versender, bei
+Beförderungen vom Ort der Einfuhr an das Hauptzollamt nach Absatz 2
+Satz 5 zurückzuschicken. Die vierte Ausfertigung verbleibt beim
+zuständigen Hauptzollamt.
 
 (4) Das für den Versender zuständige Hauptzollamt kann auf Antrag
 zulassen, dass anstelle des Begleitdokuments Lieferscheine oder
@@ -581,9 +654,9 @@ Lagerbuch einzutragen. Ist der Empfänger ein Steuerlagerinhaber, hat
 er den Zugang des Kaffees nach dessen Aufnahme in sein Steuerlager
 unverzüglich in sein Lagerbuch einzutragen.
 
-(7) Versender und Empfänger haben auf Verlangen des zuständigen
-Hauptzollamts den Kaffee unverändert vorzuführen. Dabei kann das
-Hauptzollamt bei zu versendendem Kaffee Verschlussmaßnahmen anordnen.
+(7) Versender und Empfänger haben auf Verlangen des Hauptzollamts den
+Kaffee unverändert vorzuführen. Dabei kann das Hauptzollamt bei zu
+versendendem Kaffee Verschlussmaßnahmen anordnen.
 
 (8) Das Hauptzollamt kann, soweit Steuerbelange dadurch nicht
 beeinträchtigt werden, auf Antrag des Steuerlagerinhabers unter
@@ -607,8 +680,7 @@ Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung an einen Empfänger in
-einem anderen Mitgliedstaat befördert werden, hat der
-Steuerlagerinhaber als Versender oder der registrierte Versender die
+einem anderen Mitgliedstaat befördert werden, hat der Versender die
 ordnungsgemäße Durchführung eindeutig und leicht nachprüfbar buchmäßig
 nachzuweisen.
 
@@ -638,8 +710,8 @@ nachzuweisen.
 
 
 In Fällen, in denen der Kaffee durch den Empfänger abgeholt und
-befördert wird, hat der Steuerlagerinhaber als Versender oder der
-registrierte Versender zusätzlich hierüber den Beleg zu führen durch:
+befördert wird, hat der Versender zusätzlich hierüber den Beleg zu
+führen durch:
 
 1.  eine Empfangsbestätigung des Empfängers oder seines Beauftragten,
 
@@ -653,14 +725,16 @@ registrierte Versender zusätzlich hierüber den Beleg zu führen durch:
 (3) § 14 Absatz 7 gilt entsprechend.
 
 
-### § 17 Ausfuhr
+### § 17 Ausfuhr oder Überführung in das externe Versandverfahren
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der
 Einfuhr im Steuergebiet unter Steueraussetzung unmittelbar oder über
 andere Mitgliedstaaten aus dem Steuergebiet zu einem Ort befördert
 werden, an dem der Kaffee das Verbrauchsteuergebiet der Europäischen
-Gemeinschaft verlässt, hat der Steuerlagerinhaber als Versender oder
-der registrierte Versender die Ausfuhr durch einen Beleg mit folgendem
+Union verlässt oder in das externe Versandverfahren nach Artikel 226
+Absatz 2 des Unionszollkodex überführt wird, sofern dies nach Artikel
+189 Absatz 4 der Delegierten Verordnung zum Unionszollkodex vorgesehen
+ist hat der Versender die Ausfuhr durch einen Beleg mit folgendem
 Inhalt nachzuweisen:
 
 1.  den Namen und die Anschrift des Unternehmens,
@@ -677,8 +751,10 @@ Inhalt nachzuweisen:
 
 5.  eine Ausgangsbestätigung der Ausgangszollstelle oder einen
     Ausgangsvermerk des die Ausfuhr überwachenden Hauptzollamts, dass die
-    Ware das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen
-    hat.
+    Ware das Verbrauchsteuergebiet der Europäischen Union verlassen hat
+    oder in das externe Versandverfahren nach Artikel 226 Absatz 2 des
+    Unionszollkodex überführt wurde, sofern dies nach Artikel 189 Absatz 4
+    der Delegierten Verordnung zum Unionszollkodex vorgesehen war.
 
 
 
@@ -693,17 +769,15 @@ Inhalt nachzuweisen:
     gemeinsames Versandverfahren (ABl. L 226 vom 13.8.1987, S. 1),
 
 
-2.  im gemeinschaftlichen Versandverfahren nach den Artikeln 91, 163 oder
-    Artikel 165 der Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober
-    1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 97 vom
-    18\.4.1996, S. 38, L 321 vom 12.12.1996, S. 23) in der jeweils
-    geltenden Fassung oder
+2.  im externen Versandverfahren nach Artikel 226 des Unionszollkodex oder
+    im internen Versandverfahren nach Artikel 227 des Unionszollkodex
+    oder,
 
 
 3.  im TIR-Verfahren nach dem TIR-Übereinkommen 1975 vom 14. November 1975
-    (BGBl. 1979 II S. 445, 446), das zuletzt durch die Verordnung vom 26.
-    April 2007 (BGBl. 2007 II S. 658) geändert worden ist, in der jeweils
-    geltenden Fassung
+    (BGBl. 1979 II S. 445, 446), das zuletzt am 22. November 2018 (ABl. L
+    296 vom 22.11.2018, S. 1) geändert worden ist geändert worden ist, in
+    der jeweils geltenden Fassung
 
 
 
@@ -754,16 +828,15 @@ Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 
 ### § 19 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
-(1) Geht der Rückschein in den Fällen des § 14 nicht binnen zwei
-Monaten beim Versender ein, ist dies vom Steuerlagerinhaber als
-Versender oder vom registrierten Versender unverzüglich dem
-zuständigen Hauptzollamt (§ 4 Absatz 2) anzuzeigen.
+(1) Geht der Rückschein in den Fällen des § 14 Absatz 3 Satz 3 nicht
+binnen zwei Monaten beim Versender ein, ist dies vom Versender
+unverzüglich dem Hauptzollamt anzuzeigen.
 
 (2) Ist Kaffee während der Beförderung infolge unvorhersehbarer
-Ereignisse oder höherer Gewalt vollständig zerstört oder
-unwiederbringlich verloren gegangen, hat der Beförderer dies dem
-Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen
-nachzuweisen.
+Ereignisse oder höherer Gewalt vollständig zerstört oder vollständig
+oder teilweise unwiederbringlich verloren gegangen, hat der Beförderer
+dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete
+Unterlagen nachzuweisen.
 
 
 ## Abschnitt 8 - Zu den § 11 und 12 des Gesetzes
@@ -771,8 +844,66 @@ nachzuweisen.
 
 ### § 20 Steueranmeldung
 
-Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach
+(1) Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben.
+
+(2) Das Hauptzollamt überprüft die Steueranmeldung nach Absatz 1. Art
+und Umfang der Überprüfung richten sich nach den Umständen des
+Einzelfalls sowie nach einheitlichen Prüfungskriterien, die von der
+Generalzolldirektion zur Sicherstellung der Gleichmäßigkeit,
+Gesetzesmäßigkeit und Verhältnismäßigkeit der Besteuerung vorgegeben
+werden. Das Hauptzollamt kann von dem Anmeldepflichtigen weitere
+Angaben oder zusätzliche Unterlagen verlangen. Für die einheitlichen
+Prüfungskriterien gilt § 88 Absatz 3 Satz 3 der Abgabenordnung
+entsprechend.
+
+
+### § 20a Herstellung von Kaffee außerhalb eines Steuerlagers
+
+(1) Wer Kaffee ohne Erlaubnis als Steuerlagerinhaber zu gewerblichen
+Zwecken herstellt oder herstellen will, hat dies vor dem geplanten
+Betriebsbeginn beim Hauptzollamt schriftlich in doppelter Ausfertigung
+anzumelden. Dabei ist anzugeben:
+
+1.  der Name, der Geschäftssitz und die Rechtsform des Unternehmens,
+
+
+2.  die Steuernummer beim zuständigen Finanzamt,
+
+
+3.  der Umfang der voraussichtlichen jährlichen Herstellung in Kilogramm.
+
+
+
+Auf Verlangen des Hauptzollamts hat der Anmeldepflichtige weitere
+Angaben zu machen oder zusätzliche Unterlagen vorzulegen, wenn diese
+Angaben oder diese Unterlagen zur Sicherung des Steueraufkommens oder
+für die Steueraufsicht erforderlich erscheinen. Das Hauptzollamt kann
+auf Angaben nach Satz 2 verzichten, wenn Steuerbelange dadurch nicht
+beeinträchtigt werden.
+
+(2) Der Hersteller ist verpflichtet, über den hergestellten Kaffee
+Aufzeichnungen zu führen. Das Hauptzollamt kann dazu Anordnungen
+treffen. Es kann weitere Aufzeichnungen verlangen, wenn diese zur
+Sicherung des Steueraufkommens oder für die Steueraufsicht
+erforderlich erscheinen.
+
+(3) Der Anmeldepflichtige hat dem Hauptzollamt unverzüglich
+schriftlich anzuzeigen:
+
+1.  Änderungen der nach Absatz 1 Satz 1 bis 3 angegebenen Verhältnisse und
+
+
+2.  die Einstellung des Betriebs.
+
+
+
+
+(4) Das Hauptzollamt überprüft unbeschadet anlassbezogener
+Überprüfungsmaßnahmen regelmäßig, ob die Verpflichtungen aus den
+Absätzen 1 bis 3 erfüllt werden. Die regelmäßigen
+Überprüfungsmaßnahmen werden innerhalb von drei Jahren nach der
+letzten Überprüfungsmaßnahme oder der Anmeldung durchgeführt.
 
 
 ## Abschnitt 9 - Zu § 156 Absatz 1 der Abgabenordnung
@@ -780,22 +911,22 @@ amtlich vorgeschriebenem Vordruck abzugeben.
 
 ### § 21 Kleinbetragsregelung
 
-Eine angemeldete oder festgesetzte Steuer wird vom Hauptzollamt nur
-abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung
-mindestens 10 Euro beträgt.
+Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird
+vom Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
+wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
+oder Steuerentlastung mindestens 25 Euro beträgt.
 
 
-## Abschnitt 10 - Zu § 3 und den §§ 13 bis 15 des Gesetzes
+## Abschnitt 10 - Zu den §§ 3 und 15 des Gesetzes
 
 
 ### § 22 Anmeldung des Kaffees und der kaffeehatligen Waren
 
 Kaffee und kaffeehaltige Waren aus Drittländern oder Drittgebieten
-sind in den Fällen des § 15 Absatz 3 des Gesetzes, auch in Verbindung
-mit § 3 des Gesetzes, nach den Zollvorschriften mit den für die
-Besteuerung wesentlichen Merkmalen und nach dem Steuertarif
-anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach
-amtlich vorgeschriebenem Vordruck abzugeben.
+sind in den Fällen der Einfuhr, auch in Verbindung mit § 3 des
+Gesetzes, nach den Zollvorschriften mit den für die Besteuerung
+wesentlichen Merkmalen und nach dem Steuertarif anzumelden. Die
+Steuererklärung ist in der Zollanmeldung abzugeben.
 
 
 ## Abschnitt 11 - Zu den §§ 3 und 16 des Gesetzes
@@ -803,11 +934,16 @@ amtlich vorgeschriebenem Vordruck abzugeben.
 
 ### § 23 Beförderungen zu privaten Zwecken
 
-Werden mehr als 10 Kilogramm Kaffee oder kaffeehaltige Waren nach § 16
-des Gesetzes, auch in Verbindung mit § 3 des Gesetzes, zu privaten
-Zwecken in das Steuergebiet befördert, wird widerleglich vermutet,
-dass der Kaffee oder die kaffeehaltigen Waren zu gewerblichen Zwecken
-in das Steuergebiet befördert werden (§ 17 des Gesetzes).
+(1) Werden mehr als 10 Kilogramm Kaffee oder kaffeehaltige Waren nach
+§ 16 des Gesetzes, auch in Verbindung mit § 3 des Gesetzes, zu
+privaten Zwecken in das Steuergebiet befördert, wird widerleglich
+vermutet, dass der Kaffee oder die kaffeehaltigen Waren zu
+gewerblichen Zwecken in das Steuergebiet befördert werden (§ 17 des
+Gesetzes).
+
+(2) Die Weitergabe von Kaffee oder kaffeehaltiger Waren, auch wenn sie
+unentgeltlich erfolgt, gilt unabhängig von der verbrachten Menge nicht
+als Eigenbedarf nach § 16 des Gesetzes.
 
 
 ## Abschnitt 12 - Zu den §§ 3 und 17 des Gesetzes
@@ -816,37 +952,38 @@ in das Steuergebiet befördert werden (§ 17 des Gesetzes).
 ### § 24 Beförderungen zu gewerblichen Zwecken
 
 Die Anzeige nach § 17 Absatz 4 Satz 1 des Gesetzes ist im Voraus beim
-zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem
-Vordruck abzugeben. Auf Verlangen des zuständigen Hauptzollamts hat
-der zur Anzeige Verpflichtete weitere Angaben zu machen,
-Aufzeichnungen über den Bezug des Kaffees oder der kaffeehaltigen
-Waren zu führen und diesen oder diese unverändert vorzuführen, wenn
-dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht
-erforderlich erscheint. Die Steueranmeldung nach § 17 Absatz 5 Satz 1
-des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+Hauptzollamt nach amtlich vorgeschriebenem Vordruck abzugeben. Auf
+Verlangen des Hauptzollamts hat der zur Anzeige Verpflichtete weitere
+Angaben zu machen, Aufzeichnungen über den Bezug des Kaffees oder der
+kaffeehaltigen Waren zu führen und diesen oder diese unverändert
+vorzuführen, wenn dies zur Sicherung des Steueraufkommens oder für die
+Steueraufsicht erforderlich erscheint. Die Steueranmeldung nach § 17
+Absatz 5 Satz 1 des Gesetzes ist nach amtlich vorgeschriebenem
+Vordruck abzugeben. Für die Überprüfung der Steueranmeldung gilt § 20
+Absatz 2 entsprechend.
 
 
 ### § 25 Nicht nur gelegentlicher Bezug zu gewerblichen Zwecken
 
 (1) Die Verfahrensvereinfachung nach § 17 Absatz 6 Satz 1 des Gesetzes
-ist im Voraus beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach
-amtlich vorgeschriebenem Vordruck zu beantragen.
+ist im Voraus beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck
+zu beantragen.
 
-(2) Das zuständige Hauptzollamt erteilt schriftlich unter
+(2) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis. Vor der Erteilung der Erlaubnis ist
 die Sicherheit nach § 17 Absatz 6 Satz 3 des Gesetzes zu leisten. § 6
 Absatz 1 Satz 2 gilt entsprechend. Die Erlaubnis kann befristet
 werden.
 
 (3) Der Bezieher hat ein Belegheft sowie Aufzeichnungen über den Bezug
-des Kaffees oder der kaffeehaltigen Waren zu führen. Das zuständige
-Hauptzollamt kann dazu Anordnungen treffen. Der bezogene Kaffee oder
-die bezogenen kaffeehaltigen Waren sind vom Bezieher unverzüglich
-aufzuzeichnen.
+des Kaffees oder der kaffeehaltigen Waren zu führen. Das Hauptzollamt
+kann dazu Anordnungen treffen. Der bezogene Kaffee oder die bezogenen
+kaffeehaltigen Waren sind vom Bezieher unverzüglich aufzuzeichnen.
 
-(4) Bei einer Änderung der dargestellten Verhältnisse gilt § 7, für
-den Fortbestand und das Erlöschen der Erlaubnis § 8 und für die
-Steueranmeldung und die Vorführpflicht § 24 entsprechend.
+(4) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen
+und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8
+entsprechend. Für die Steueranmeldung und die Vorführpflicht gilt § 24
+entsprechend.
 
 
 ### § 26 Durchfuhr
@@ -858,38 +995,72 @@ vor der Durchfuhr beim Hauptzollamt Stuttgart abzugeben.
 ## Abschnitt 13 - Zu den §§ 3 und 18 des Gesetzes
 
 
-### § 27 Versandhandel, Beauftragter
+### § 27 Versandhandel
 
-(1) Der Versandhändler hat die Anzeige nach § 18 Absatz 4 Satz 1 des
-Gesetzes nach amtlich vorgeschriebenem Vordruck abzugeben.
+(1) Wer als Versandhändler nach § 18 Absatz 1 des Gesetzes Kaffee an
+Privatpersonen im Steuergebiet liefern will, hat die Erlaubnis im
+Voraus beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem
+Vordruck zu beantragen.
 
-(2) Der Beauftragte des Versandhändlers hat den Antrag auf Erlaubnis
-vor Aufnahme seiner Tätigkeit nach § 18 Absatz 4 Satz 3 des Gesetzes
-beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich
-vorgeschriebenem Vordruck zu stellen. Dem Antrag ist bei Unternehmen,
-die in das Handels- oder Genossenschaftsregister einzutragen sind, in
-doppelter Ausfertigung ein aktueller Registerauszug beizufügen. Auf
-Verlangen des zuständigen Hauptzollamts hat der Antragsteller weitere
-Angaben zu machen, wenn diese zur Sicherung des Steueraufkommens oder
-für die Steueraufsicht erforderlich erscheinen.
+(2) Die Erlaubnis nach Absatz 1 gilt als unter Widerrufsvorbehalt
+erteilt, sobald
 
-(3) Das zuständige Hauptzollamt erteilt dem Beauftragten des
-Versandhändlers schriftlich unter Widerrufsvorbehalt die Erlaubnis.
-Wird die Verfahrensvereinfachung nach § 18 Absatz 5 Satz 4 des
-Gesetzes beantragt, ist vor der Erteilung der Erlaubnis die in diesen
-Fällen erforderliche Sicherheit zu leisten. Bei einer Änderung der
-dargestellten Verhältnisse gilt § 7, für den Fortbestand und das
-Erlöschen der Erlaubnis § 8 und für die Sicherheitsleistung § 6 Absatz
-1 Satz 2 entsprechend. Die Erlaubnis kann befristet werden.
+1.  das Hauptzollamt schriftlich oder elektronisch die Unternehmensnummer
+    mitgeteilt hat und
 
-(4) Der Beauftragte hat die Anzeige nach § 18 Absatz 4 Satz 5 des
-Gesetzes nach amtlich vorgeschriebenem Vordruck abzugeben und ein
-Belegheft zu führen. Das zuständige Hauptzollamt kann dazu sowie zu
-den Aufzeichnungen nach § 18 Absatz 4 Satz 5 des Gesetzes Anordnungen
-treffen.
 
-(5) Die Steueranmeldung nach § 18 Absatz 5 Satz 2 und 6 des Gesetzes
-ist nach amtlich vorgeschriebenem Vordruck abzugeben.
+2.  der Versandhändler die erforderliche Sicherheit nach § 18 Absatz 4
+    Satz 3 des Gesetzes geleistet hat.
+
+
+
+Für die Sicherheitsleistung gelten § 6 Absatz 1 Satz 2 und § 18
+entsprechend. Das Hauptzollamt kann auf die Sicherheitsleistung
+verzichten, wenn Steuerbelange dadurch nicht gefährdet werden.
+
+(3) Beauftragt der Versandhändler nach § 18 Absatz 2 des Gesetzes
+einen Steuervertreter, hat er diesen vor der ersten Lieferung mittels
+einer Anzeige nach amtlich vorgeschriebenem Vordruck bei dem für den
+Steuervertreter zuständigen Hauptzollamt zu benennen. Ein Antrag nach
+Absatz 1 ist in diesem Fall nicht erforderlich. Ist der Versandhändler
+bei Benennung des Steuervertreters bereits steuerlich in Erscheinung
+getreten, geht die Zuständigkeit auf das für den Steuervertreter
+zuständige Hauptzollamt über.
+
+(4) Der Steuervertreter bedarf für seine Tätigkeit für den
+Versandhändler einer Erlaubnis. Die Erlaubnis ist beim zuständigen
+Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu beantragen. Auf
+Verlangen des Hauptzollamts hat der Steuervertreter weitere Angaben zu
+machen oder zusätzliche Unterlagen vorzulegen, wenn diese Angaben oder
+diese Unterlagen zur Sicherung des Steueraufkommens oder für die
+Steueraufsicht erforderlich erscheinen.
+
+(5) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
+Widerrufsvorbehalt die Erlaubnis als Steuervertreter. Vor der
+Erteilung der Erlaubnis ist eine Sicherheit nach § 18 Absatz 4 Satz 8
+des Gesetzes zu leisten. Für die Sicherheitsleistung gelten § 6 Absatz
+1 Satz 2 und § 18 entsprechend. Das Hauptzollamt kann auf die
+Sicherheitsleistung verzichten, wenn Steuerbelange dadurch nicht
+gefährdet werden. Die Erlaubnis kann mit Nebenbestimmungen nach § 120
+der Abgabenordnung versehen werden. Die Erlaubnis des Steuervertreters
+wird bei Erteilung auch dem Versandhändler schriftlich oder
+elektronisch bekannt gegeben. Die Erlaubnis gilt damit auch für den
+Versandhändler als unter Widerrufsvorbehalt erteilt.
+
+(6) Das Hauptzollamt kann zu den Aufzeichnungen nach § 18 Absatz 2
+Satz 4 des Gesetzes Anordnungen treffen. Die Anzeige der Lieferung
+gilt mit dem Antrag auf Erlaubnis nach Absatz 1 als abgegeben. Bei
+nicht nur gelegentlichen Lieferungen nach § 18 Absatz 5 Satz 4 des
+Gesetzes steht die fristgerechte Abgabe der Steueranmeldung der
+Anzeige gleich. Die Sätze 1 bis 3 gelten für den Steuervertreter
+entsprechend.
+
+(7) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen
+und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8
+entsprechend. Die Erlaubnis des Steuervertreters erlischt, wenn die
+Erlaubnis für den Versandhändler erlischt. Die nach Absatz 5 Satz 7
+als erteilt geltende Erlaubnis des Versandhändlers erlischt, wenn die
+für den Steuervertreter erteilte Erlaubnis erlischt.
 
 
 ## Abschnitt 14 - Zu den §§ 3 und 19 des Gesetzes
@@ -899,12 +1070,13 @@ ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
 (1) Sind Kaffee oder kaffeehaltige Waren während der Beförderung
 infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig
-zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer
-dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete
-Unterlagen nachzuweisen.
+zerstört oder vollständig oder teilweise unwiederbringlich verloren
+gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich
+anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
-(2) Die Steueranmeldung nach § 19 Absatz 3 Satz 2 des Gesetzes ist
-nach amtlich vorgeschriebenem Vordruck abzugeben.
+(2) Die Steueranmeldung nach § 19 Absatz 4 des Gesetzes ist nach
+amtlich vorgeschriebenem Vordruck abzugeben. Für die Überprüfung der
+Steueranmeldung gilt § 20 Absatz 2 entsprechend.
 
 
 ## Abschnitt 15 - Zu § 20 des Gesetzes
@@ -936,18 +1108,18 @@ widerrufen, wenn eine der Voraussetzungen nach Satz 2 nicht mehr
 erfüllt ist.
 
 (3) Der Antrag auf Erlaubnis ist vor dem beabsichtigten steuerfreien
-Bezug beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich
-vorgeschriebenem Vordruck zu stellen. Das Hauptzollamt kann weitere
-Angaben verlangen.
+Bezug beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu
+stellen. Das Hauptzollamt kann weitere Angaben verlangen.
 
-(4) Das zuständige Hauptzollamt erteilt schriftlich unter
+(4) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Erlaubnis. Eine Erlaubnis wird nicht erteilt
 für Personen, denen Steuerentlastung nach § 32 Absatz 1 zugesagt ist.
-Das zuständige Hauptzollamt kann, wenn Steuerbelange dadurch nicht
-gefährdet werden, Ausnahmen zulassen.
+Das Hauptzollamt kann, wenn Steuerbelange dadurch nicht gefährdet
+werden, Ausnahmen zulassen.
 
-(5) Bei der Änderung der dargestellten Verhältnisse gilt § 7 und für
-den Fortbestand und das Erlöschen der Erlaubnis § 8 entsprechend.
+(5) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen
+und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8
+entsprechend.
 
 (6) Werden als Ausgleich für die in einem Kalendermonat steuerfrei
 bezogene Kaffeemenge (Bezugsmenge) nicht spätestens bis zum Ende des
@@ -961,11 +1133,12 @@ Vordruck abzugeben und die Steuer sofort zu entrichten. Das
 Hauptzollamt kann den Ausgleichszeitraum nach den Erfordernissen des
 Betriebs verkürzen oder verlängern. Es kann auch zulassen, dass eine
 während des Ausgleichszeitraums ausgeführte oder gelieferte Mehrmenge
-auf den folgenden Ausgleichszeitraum angerechnet wird.
+auf den folgenden Ausgleichszeitraum angerechnet wird. Für die
+Überprüfung der Steueranmeldung gilt § 20 Absatz 2 entsprechend.
 
 (7) Der Erlaubnisinhaber hat Aufzeichnungen über die steuerfreie
-Bezugsmenge und die Ausgleichsmenge nach Anordnung des zuständigen
-Hauptzollamts zu führen.
+Bezugsmenge und die Ausgleichsmenge nach Anordnung des Hauptzollamts
+zu führen.
 
 (8) Dem steuerfreien Bezug steht die steuerfreie Entnahme des Kaffees
 aus der eigenen Herstellung gleich.
@@ -978,18 +1151,19 @@ aus der eigenen Herstellung gleich.
 
 (1) Der Steuerlagerinhaber hat über die Aufnahme von versteuertem
 Kaffee nach § 21 Absatz 1 des Gesetzes Aufzeichnungen nach amtlich
-vorgeschriebenem Vordruck zu führen. Das zuständige Hauptzollamt (§ 4
-Absatz 2) kann auch betriebliche Aufzeichnungen zulassen, wenn dadurch
-Steuerbelange nicht beeinträchtigt werden.
+vorgeschriebenem Vordruck zu führen. Das Hauptzollamt kann auch
+betriebliche Aufzeichnungen zulassen, wenn dadurch Steuerbelange nicht
+beeinträchtigt werden.
 
 (2) Wer im Fall des § 21 Absatz 1 des Gesetzes eine
 Kaffeesteuervergütung beantragt, hat als Nachweis der Versteuerung im
-Steuergebiet dem Hauptzollamt nach Absatz 1 eine
-Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder
-anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen.
+Steuergebiet dem Hauptzollamt eine Versteuerungsbestätigung des
+Herstellers oder Steuerschuldners oder anderen Verkäufers nach amtlich
+vorgeschriebenem Vordruck vorzulegen.
 
 (3) Die Anträge auf Steuerentlastung nach § 21 Absatz 1 des Gesetzes
-werden in der Steueranmeldung (§ 20) des Steuerlagerinhabers gestellt.
+werden in der Steueranmeldung (§ 20 Absatz 1) des Steuerlagerinhabers
+gestellt.
 
 
 ### § 32 Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
@@ -998,60 +1172,56 @@ werden in der Steueranmeldung (§ 20) des Steuerlagerinhabers gestellt.
 belastete Waren gegen Steuerentlastung nach § 21 Absatz 2 und 3 des
 Gesetzes an einen Empfänger in einem anderen Mitgliedstaat liefern
 oder wer die vorgenannten kaffeehaltigen Waren ausführen will, bedarf
-der vorherigen Zusage durch das zuständige Hauptzollamt (§ 4 Absatz
-2). Die Zusage wird auf Antrag unter Widerrufsvorbehalt Personen
-erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken
-bestehen und die, soweit sie nach dem Handelsgesetzbuch oder der
-Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische
-Bücher führen und rechtzeitig Jahresabschlüsse aufstellen.
+der vorherigen Zusage durch das Hauptzollamt. Die Zusage wird auf
+Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren
+steuerliche Zuverlässigkeit keine Bedenken bestehen und die, soweit
+sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu
+verpflichtet sind, ordnungsmäßig kaufmännische Bücher führen und
+rechtzeitig Jahresabschlüsse aufstellen.
 
 (2) Der Antrag auf Erteilung der Zusage ist vor der Lieferung oder der
-Ausfuhr beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem
-Vordruck zu stellen. Das zuständige Hauptzollamt kann weitere Angaben
-verlangen.
+Ausfuhr beim Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu
+stellen. Das Hauptzollamt kann weitere Angaben verlangen.
 
-(3) Das zuständige Hauptzollamt erteilt schriftlich unter
+(3) Das Hauptzollamt erteilt schriftlich oder elektronisch unter
 Widerrufsvorbehalt die Zusage in Form eines Zusagescheins.
 
-(4) Bei der Änderung der dargestellten Verhältnisse gilt § 7, für den
-Fortbestand und das Erlöschen des Zusagescheins § 8 und für die
-Vorführpflicht § 14 Absatz 7 Satz 1 entsprechend.
+(4) Für die Überprüfung der Erlaubnis, die Änderung von Verhältnissen
+und das Erlöschen der Erlaubnis gelten die §§ 6a, 7 und 8
+entsprechend. Für die Vorführpflicht gilt § 14 Absatz 7 Satz 1
+entsprechend.
 
 (5) Die Steuerentlastung ist mit einer Entlastungsanmeldung nach
-amtlich vorgeschriebenem Vordruck für alle innerhalb eines
-Entlastungsabschnitts ausgeführten oder an einen Empfänger in einem
-anderen Mitgliedstaat gelieferten Waren zu beantragen. Der
-Antragsteller hat die Anmeldung beim zuständigen Hauptzollamt bis zum
-zehnten Tag des zweiten auf den Entlastungsabschnitt folgenden Monats
-abzugeben, in dieser alle für die Bemessung erforderlichen Angaben zu
-machen und den Entlastungsbetrag selbst zu berechnen. Der Anmeldung
+amtlich vorgeschriebenem Vordruck zu beantragen. Der
+Entlastungsberechtigte kann für Kaffee oder kaffeehaltige Waren, für
+die die Voraussetzungen für eine Entlastung vorliegen, beim
+Hauptzollamt einmal im Monat zusammengefasst eine Entlastungsanmeldung
+abgeben; in dieser sind die für die Berechnung erforderlichen Angaben
+zu machen und der Entlastungsbetrag selbst zu berechnen. Der Anmeldung
 ist der nach § 33 erforderliche Nachweis und bei Lieferungen an einen
 Empfänger in einem anderen Mitgliedstaat nach § 34 ein Lieferschein
 beizufügen. Der Antragsteller hat außerdem, sofern er den Kaffee oder
 die kaffeehaltigen Waren nicht selbst versteuert hat, als Nachweis der
-Versteuerung im Steuergebiet dem zuständigen Hauptzollamt eine
+Versteuerung im Steuergebiet dem Hauptzollamt eine
 Versteuerungsbestätigung des Herstellers oder Steuerschuldners oder
 anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen.
-Die Frist nach Satz 2 kann vom zuständigen Hauptzollamt im Einzelfall
-verlängert werden. Das zuständige Hauptzollamt kann auf Antrag
-zulassen, dass der Anmeldung anstelle des Lieferscheins nach Satz 3
-elektronisch erstellte zusammenfassende Übersichten mit den
-Lieferscheinnummern beigefügt werden, sofern steuerliche Belange
-dadurch nicht beeinträchtigt werden.
+Das Hauptzollamt kann auf Antrag zulassen, dass der Anmeldung anstelle
+des Lieferscheins nach Satz 3 elektronisch erstellte zusammenfassende
+Übersichten mit den Lieferscheinnummern beigefügt werden, sofern
+steuerliche Belange dadurch nicht beeinträchtigt werden.
 
-(6) Der Entlastungsabschnitt nach Absatz 5 umfasst ein
-Kalendervierteljahr. Das zuständige Hauptzollamt kann auf Antrag einen
-längeren Zeitraum, höchstens jedoch ein Kalenderjahr, oder einen
-kürzeren Zeitraum, mindestens jedoch einen Kalendermonat, als
-Erstattungs- oder Vergütungsabschnitt zulassen.
+(6) Für die Überprüfung der Steueranmeldung gilt § 20 Absatz 2
+entsprechend.
 
 
-### § 33 Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete
+### § 33 Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete oder der Überführung in das externe Versandverfahren
 
 (1) In Fällen, in denen der Inhaber der Erlaubnis (§ 30) oder des
-Zusagescheins (§ 32) kaffeehaltige Waren ausführt, ist der
-Ausfuhrnachweis durch einen Beleg zu führen, der Folgendes enthalten
-muss:
+Zusagescheins (§ 32) kaffeehaltige Waren ausführt oder in das externe
+Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex
+überführt, sofern dies nach Artikel 189 Absatz 4 der Delegierten
+Verordnung zum Unionszollkodex vorgesehen ist, ist der Nachweis durch
+einen Beleg zu führen, der Folgendes enthalten muss:
 
 1.  den Namen und die Anschrift des Unternehmers,
 
@@ -1077,13 +1247,16 @@ muss:
 
 7.  eine Ausgangsbestätigung der Ausgangszollstelle oder einen
     Ausgangsvermerk des die Ausfuhr überwachenden Hauptzollamts, dass die
-    Waren das Verbrauchsteuergebiet der Europäischen Gemeinschaft
-    verlassen haben.
+    Waren das Verbrauchsteuergebiet der Europäischen Union verlassen
+    haben, oder einen Nachweis von der Zollstelle, die die Waren in das
+    externe Versandverfahren nach Artikel 226 Absatz 2 des Unionszollkodex
+    überführt hat, sofern dies nach Artikel 189 Absatz 4 der Delegierten
+    Verordnung zum Unionszollkodex vorgesehen war.
 
 
 
 
-(2) § 17 Absatz 2 bis 4 gilt entsprechend.
+(2) § 17 Absatz 2 und 3 gilt entsprechend.
 
 
 ### § 34 Nachweis bei Lieferung an einen Empfänger in einem anderen Mitgliedstaat
@@ -1169,9 +1342,10 @@ Personen verbraucht wird.
     Mitglieder, Konsularbeamte, Mitglieder ihres Verwaltungs- und
     technischen Personals und ihr dienstliches Hauspersonal sowie die
     Familienmitglieder dieser Personen. Familienmitglieder im Sinn dieser
-    Bestimmung sind der Ehegatte, die unverheirateten Kinder und die
-    Eltern, wenn sie von diesen Personen wirtschaftlich abhängig sind und
-    in ihrem Haushalt leben.
+    Bestimmung sind der Ehegatte oder der Lebenspartner, die
+    unverheirateten oder die nicht in einer Lebenspartnerschaft lebenden
+    Kinder und die Eltern, wenn sie von diesen Personen wirtschaftlich
+    abhängig sind und in ihrem Haushalt leben.
 
 
 
@@ -1228,18 +1402,17 @@ Bundesrepublik Deutschland nicht unterhalten.
 ### § 36 Vernichtung von Kaffee und kaffeehaltigen Waren, Steueraufsicht
 
 (1) Soll Kaffee vernichtet werden, hat der Steuerlagerinhaber dies
-beim zuständigen Hauptzollamt mindestens eine Woche im Voraus unter
-Angabe des Zeitpunkts und des Orts der Vernichtung und der Art und
-Menge des Kaffees anzumelden. Das Hauptzollamt kann zulassen, dass der
-Kaffee unter Aufsicht einer Steuerhilfsperson vernichtet wird, wenn
-Belange der Steueraufsicht nicht entgegenstehen.
+beim Hauptzollamt mindestens eine Woche im Voraus unter Angabe des
+Zeitpunkts und des Orts der Vernichtung und der Art und Menge des
+Kaffees anzumelden. Das Hauptzollamt kann zulassen, dass der Kaffee
+unter Aufsicht einer Steuerhilfsperson vernichtet wird, wenn Belange
+der Steueraufsicht nicht entgegenstehen.
 
 (2) Werden kaffeehaltige Waren im Betrieb ihres Herstellers unter
 Steueraufsicht vernichtet, wird ihm die Kaffeesteuer auf Antrag
-erlassen oder vergütet. Das für den Betrieb zuständige Hauptzollamt (§
-4 Absatz 2) kann einen anderen Ort der Vernichtung zulassen. Für das
-Verfahren bei der Vernichtung unter Steueraufsicht gilt Absatz 1
-entsprechend.
+entlastet. Das für den Betrieb Hauptzollamt kann einen anderen Ort der
+Vernichtung zulassen. Für das Verfahren bei der Vernichtung unter
+Steueraufsicht gilt Absatz 1 entsprechend.
 
 
 ## Abschnitt 19 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
@@ -1253,123 +1426,16 @@ Ausgangsstoffen sowie von Halb- und Fertigerzeugnissen, die zur oder
 bei der Herstellung solcher Waren verwendet werden, und von den
 Umschließungen dieser Waren zu Untersuchungszwecken unentgeltlich
 Proben entnehmen. Auf Verlangen ist eine Entnahmebestätigung
-auszustellen. Auf Anforderung des zuständigen Hauptzollamts haben
-Inhaber von Erlaubnissen oder Zusagescheinen zu Untersuchungszwecken
-unentgeltlich Proben zur Verfügung zu stellen.
+auszustellen. Auf Anforderung des Hauptzollamts haben Inhaber von
+Erlaubnissen oder Zusagescheinen zu Untersuchungszwecken unentgeltlich
+Proben zur Verfügung zu stellen.
 
 
 ## Abschnitt 20 - Zu § 23 Absatz 1 Nummer 4 des Gesetzes
 
 
-### § 38 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
+### (XXXX) §§ 38 bis 43 (weggefallen)
 
-(1) Für das Besteuerungsverfahren erforderliche Daten können durch
-Datenfernübertragung übermittelt werden (elektronische
-Datenübermittlung), sobald die organisatorischen und technischen
-Voraussetzungen bei der Zollverwaltung dafür vorliegen. Mit der
-elektronischen Datenübermittlung können Dritte beauftragt werden.
-
-(2) Das Bundesministerium der Finanzen bestimmt Einzelheiten der
-elektronischen Datenübermittlung nach Absatz 1 Satz 1 durch eine
-Verfahrensanweisung, die vom Bundesministerium der Finanzen im
-Internet auf den Seiten der Zollverwaltung (www.zoll.de)
-veröffentlicht wird.
-
-(3) Bei der elektronischen Datenübermittlung sind dem jeweiligen Stand
-der Technik entsprechende Verfahren einzusetzen, die die
-Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten.
-Im Falle der Nutzung allgemein zugänglicher Netze sind
-Verschlüsselungsverfahren anzuwenden.
-
-(4) Die Pflichten der Programmhersteller nach den §§ 40 und 41 sind
-ausschließlich öffentlich-rechtlicher Art.
-
-
-### § 39 Schnittstellen
-
-Bei der elektronischen Datenübermittlung sind die hierfür vom
-Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß
-zu bedienen. Die für die Übermittlung benötigten Schnittstellen werden
-über das Internet zur Verfügung gestellt.
-
-
-### § 40 Anforderungen an die Programme
-
-(1) Programme, die für die Verarbeitung von für das
-Besteuerungsverfahren erforderlichen Daten bestimmt sind, müssen im
-Rahmen des in der Programmbeschreibung angegebenen Programmumfangs die
-richtige und vollständige Verarbeitung der für das
-Besteuerungsverfahren erforderlichen Daten gewährleisten.
-
-(2) Auf den Programmumfang sowie auf Fallgestaltungen, in denen eine
-richtige und vollständige Erhebung, Verarbeitung und Übermittlung
-ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der
-Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
-
-### § 41 Prüfung der Programme
-
-(1) Programme, die für die Verarbeitung von für das
-Besteuerungsverfahren erforderlichen Daten bestimmt sind, sind vom
-Hersteller vor der ersten Nutzung und nach jeder Änderung daraufhin zu
-prüfen, ob sie die Anforderungen nach § 40 Absatz 1 erfüllen. Hierbei
-sind ein Protokoll über den letzten durchgeführten Testlauf und eine
-Programmauflistung zu erstellen, die fünf Jahre aufzubewahren sind.
-Die Aufbewahrungsfrist nach Satz 2 beginnt mit Ablauf des
-Kalenderjahres der erstmaligen Nutzung zur Datenübermittlung.
-Elektronische, magnetische und optische Speicherverfahren, die eine
-jederzeitige Wiederherstellung der eingesetzten Programmversion in
-Papierform ermöglichen, sind der Programmauflistung gleichgestellt.
-
-(2) Die vom Bundesministerium der Finanzen bestimmte Dienststelle
-(Prüfungsstelle) ist befugt, die für die Erfassung, Verarbeitung oder
-elektronische Übermittlung der Daten bestimmten Programme und
-Dokumentationen zu überprüfen. § 200 der Abgabenordnung gilt
-entsprechend.
-
-(3) Der Hersteller oder Vertreiber eines fehlerhaften Programms ist
-unverzüglich zur Nachbesserung oder Ablösung aufzufordern. Soweit eine
-unverzügliche Nachbesserung oder Ablösung nicht erfolgt, ist die
-Prüfungsstelle berechtigt, die Programme des Herstellers von der
-elektronischen Übermittlung nach § 39 technisch auszuschließen. Die
-Prüfungsstelle ist nicht verpflichtet, die Programme zu prüfen.
-
-(4) Sind Programme nach Absatz 1 zum allgemeinen Vertrieb vorgesehen,
-hat der Hersteller der Prüfungsstelle auf Verlangen Muster zum Zweck
-der Prüfung kostenfrei zur Verfügung zu stellen.
-
-
-### § 42 Haftung
-
-(1) Der Hersteller von Programmen, die für die Verarbeitung von für
-das Besteuerungsverfahren erforderlichen Daten bestimmt sind, haftet,
-soweit die Daten infolge einer vorsätzlichen oder grob fahrlässigen
-Verletzung einer Pflicht nach den §§ 40 und 41 unrichtig oder
-unvollständig verarbeitet werden und dadurch Steuern verkürzt oder zu
-Unrecht steuerliche Vorteile erlangt werden, für die verkürzten
-Steuern oder zu Unrecht erhaltenen Steuervorteile.
-
-(2) Wer Programme nach Absatz 1 zur elektronischen Datenübermittlung
-im Auftrag (§ 38 Absatz 1 Satz 2) einsetzt, haftet, soweit auf Grund
-unrichtiger oder unvollständiger Übermittlung Steuern vorsätzlich oder
-grob fahrlässig verkürzt oder zu Unrecht steuerliche Vorteile erlangt
-werden.
-
-
-### § 43 Authentifizierung, Datenübermittlung im Auftrag
-
-(1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine
-qualifizierte elektronische Signatur erforderlich. Eine qualifizierte
-elektronische Signatur ist dann nicht erforderlich, wenn ein anderes
-sicheres Verfahren eingesetzt wird, welches den Datenübermittler
-(Absender der Daten) authentifiziert und die in § 38 Absatz 3
-bestimmten Anforderungen an die Gewährleistung der Authentizität und
-Integrität der Daten in gleicher Weise erfüllt.
-
-(2) Im Falle der Übermittlung im Auftrag (§ 38 Absatz 1 Satz 2) hat
-der Dritte die Daten dem Auftraggeber unverzüglich in leicht
-nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
-Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
 
 ## Abschnitt 21 - Zu § 381 Absatz 1 der Abgabenordnung
@@ -1380,27 +1446,26 @@ Auftraggeber hat die Daten unverzüglich zu überprüfen.
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung
 handelt, wer vorsätzlich oder leichtfertig
 
-1.  entgegen § 7 Absatz 1 Satz 1 oder 3 oder Absatz 2 Satz 1 oder 2,
-    jeweils auch in Verbindung mit § 12 Absatz 6, § 25 Absatz 4, § 27
-    Absatz 3 Satz 2, § 30 Absatz 5 oder § 32 Absatz 4, § 8 Absatz 6, auch
-    in Verbindung mit § 12 Absatz 6, § 25 Absatz 4, § 27 Absatz 3 Satz 2,
-    § 30 Absatz 5 oder § 32 Absatz 4, § 10 Satz 1, § 11 Absatz 1 Satz 3, §
-    19 Absatz 1 oder 2, den §§ 26, 27 Absatz 4 Satz 1 oder 3 eine Anzeige
-    nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig erstattet,
+1.  entgegen § 7 Absatz 1 Satz 1, Absatz 3 Satz 1 oder 2 oder Absatz 4,
+    jeweils auch in Verbindung mit § 12 Absatz 6, § 25 Absatz 4, § 30
+    Absatz 5 oder § 32 Absatz 4, entgegen § 10 Satz 1, § 11 Absatz 1 Satz
+    3, § 19 Absatz 2 oder § 20a Absatz 3 eine Anzeige nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig erstattet,
 
 
-2.  entgegen § 11 Absatz 1 Satz 1 oder 2 oder Absatz 3 Satz 2, § 36 Absatz
-    1 Satz 1 eine Anmeldung nicht, nicht richtig, nicht vollständig, nicht
-    in der vorgeschriebenen Weise oder nicht rechtzeitig abgibt,
+2.  entgegen § 11 Absatz 1 Satz 1 oder 2 oder Absatz 3 Satz 2, § 20a
+    Absatz 1 Satz 1 oder § 36 Absatz 1 Satz 1 eine Anmeldung nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig abgibt,
 
 
 3.  entgegen § 9 Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder 2 oder Absatz 3
-    Satz 1, § 12 Absatz 5 Satz 1, § 16 Absatz 2 Satz 1 oder 2, § 24 Satz
-    2, § 25 Absatz 3 Satz 1 oder Satz 3, § 27 Absatz 4 Satz 1, § 30 Absatz
-    7, § 31 Absatz 1 Satz 1, § 34 Absatz 2 Satz 1 oder 2 ein Belegheft,
-    ein Buch, eine Aufzeichnung oder einen dort genannten Beleg nicht,
-    nicht richtig, nicht in der vorgeschriebenen Weise oder nicht
+    Satz 1, § 12 Absatz 5 Satz 1, § 16 Absatz 2 Satz 1 oder 2, § 20a
+    Absatz 2 Satz 1, § 24 Satz 2, § 25 Absatz 3 Satz 1 oder Satz 3, § 30
+    Absatz 7, § 31 Absatz 1 Satz 1, § 34 Absatz 2 Satz 1 oder 2 ein
+    Belegheft, ein Buch, eine Aufzeichnung oder einen dort genannten Beleg
+    nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig führt,
 
 
@@ -1428,9 +1493,8 @@ handelt, wer vorsätzlich oder leichtfertig
     rechtzeitig zurückschickt,
 
 
-9.  entgegen § 14 Absatz 6 Satz 1 oder 2 oder Absatz 8 Satz 2 oder § 36
-    Absatz 1 Satz 3 eine Eintragung nicht, nicht richtig oder nicht
-    rechtzeitig vornimmt oder
+9.  entgegen § 14 Absatz 6 Satz 1 oder 2 oder Absatz 8 Satz 2 eine
+    Eintragung nicht, nicht richtig oder nicht rechtzeitig vornimmt oder
 
 
 10. entgegen § 14 Absatz 1 ein Begleitdokument nicht verwendet.

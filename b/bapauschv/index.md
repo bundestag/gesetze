@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2002, 3961
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2010 I 2127
+:   Art. 57 Abs. 32 G v. 12.12.2019 I 2652
 
 
 ## Eingangsformel
@@ -63,8 +63,8 @@ Abs. 1 des Sechsten Buches Sozialgesetzbuch sind zugrunde zu legen:
 
 
 (3) Die Deutsche Rentenversicherung Bund übermittelt die Angaben nach
-Absatz 1 Nr. 1 und 2 dem Bundesversicherungsamt bis zum 30. Juni des
-auf das Jahr der Abschlagszahlung folgenden Jahres.
+Absatz 1 Nr. 1 und 2 dem Bundesamt für Soziale Sicherung bis zum 30.
+Juni des auf das Jahr der Abschlagszahlung folgenden Jahres.
 
 
 ## § 2 Fälligkeit der Abschlagszahlungen auf den Ausgleichsbetrag
@@ -73,8 +73,8 @@ Die Bundesagentur für Arbeit zahlt die Abschlagszahlungen auf den
 Ausgleichsbetrag an die Träger der Rentenversicherung am
 Fälligkeitstag der Vorschüsse zur Auszahlung der Rentenleistungen in
 das Inland für den letzten Monat eines Kalendervierteljahres. Das
-Bundesversicherungsamt teilt der Bundesagentur für Arbeit jährlich im
-Voraus die vier Auszahlungstermine nach Satz 1 mit.
+Bundesamt für Soziale Sicherung teilt der Bundesagentur für Arbeit
+jährlich im Voraus die vier Auszahlungstermine nach Satz 1 mit.
 
 
 ## § 3 Fälligkeit des Ausgleichsbetrags
@@ -90,10 +90,10 @@ das letzte Kalendervierteljahr verrechnet.
 ## § 4 Verteilung des Ausgleichsbetrags und der Abschlagszahlungen auf den Ausgleichsbetrag
 
 (1) Der auf die knappschaftliche Rentenversicherung entfallende Anteil
-des Ausgleichsbetrags wird vom Bundesversicherungsamt vorab nach § 224
-Abs. 4 Satz 2 des Sechsten Buches Sozialgesetzbuch ermittelt. Die
-Aufteilung des verbleibenden Ausgleichsbetrags auf die Träger der
-allgemeinen Rentenversicherung erfolgt im Verhältnis ihrer
+des Ausgleichsbetrags wird vom Bundesamt für Soziale Sicherung vorab
+nach § 224 Abs. 4 Satz 2 des Sechsten Buches Sozialgesetzbuch
+ermittelt. Die Aufteilung des verbleibenden Ausgleichsbetrags auf die
+Träger der allgemeinen Rentenversicherung erfolgt im Verhältnis ihrer
 Beitragseinnahmen entsprechend § 219 Abs. 1 des Sechsten Buches
 Sozialgesetzbuch. Die buchhalterische Aufteilung nach Satz 2 führt die
 Deutsche Rentenversicherung Bund durch.

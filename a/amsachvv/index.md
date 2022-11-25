@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1978, 30
 
 Zuletzt geändert durch
-:   Art. 352 V v. 31.10.2006 I 2407
+:   Art. 4 G v. 9.8.2019 I 1202
 
 
 ## Eingangsformel
@@ -31,8 +31,7 @@ I S. 2445, 2448) wird verordnet:
 Das Bundesministerium für Gesundheit (Bundesministerium) hört vor
 Erlaß einer Rechtsverordnung
 
-1.  nach § 36 Abs. 1 des Arzneimittelgesetzes einen Sachverständigen-
-    Ausschuß für Standardzulassungen,
+1.  (weggefallen)
 
 
 2.  nach § 45 Abs. 1 und § 46 Abs. 1 des Arzneimittelgesetzes einen
@@ -46,157 +45,130 @@ Erlaß einer Rechtsverordnung
 
 an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei
 Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an
-die Stelle des Bundesministeriums das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz.
+die Stelle des Bundesministeriums das Bundesministerium für Ernährung
+und Landwirtschaft.
 
 
 ## § 2
 
-(1) Dem Ausschuß für Standardzulassungen gehören an -
+(1) (weggefallen)
 
-*   drei Hochschullehrer der Pharmakologie, davon einer aus dem Fach
-    Veterinärmedizin
+(2) Dem Ausschuss für Apothekenpflicht gehören an
 
+1.  drei Hochschullehrer der Medizin, davon je ein Hochschullehrer der
+    Pharmakologie, der Inneren Medizin und des Faches Veterinärmedizin,
 
--   zwei Hochschullehrer der Pharmazie
 
+2.  ein Hochschullehrer der Pharmazie,
 
--   ein Vertreter der Deutsche Krankenhausgesellschaft
 
+3.  ein Vertreter der Deutschen Krankenhausgesellschaft,
 
--   ein Vertreter der Krankenhausapotheker
 
+4.  ein Arzt für Allgemeinmedizin,
 
--   ein Vertreter der Arzneimittelkommission der Deutschen Ärzteschaft
 
+5.  ein Zahnarzt,
 
--   ein Arzt für Allgemeinmedizin
 
+6.  ein Tierarzt,
 
--   ein Zahnarzt
 
+7.  ein Heilpraktiker,
 
--   ein Tierarzt
 
+8.  zwei Vertreter der humanpharmazeutischen Industrie,
 
--   ein Heilpraktiker
 
+9.  zwei Vertreter der veterinärpharmazeutischen Industrie,
 
--   drei Vertreter der Pharmazeutischen Industrie,
 
+10. ein Vertreter der Reformwaren-Hersteller,
 
 
-davon einer für die veterinärpharmazeutische Industrie
+11. zwei Vertreter der Apothekerschaft,
 
--   ein Vertreter der Apothekerschaft
 
+12. zwei Vertreter des Einzelhandels außerhalb der Apotheken,
 
--   ein Vertreter der Reformwaren-Hersteller
 
+13. ein Vertreter der Arbeitsgemeinschaft der Verbraucher und
 
--   ein Vertreter des Einzelhandels außerhalb der Apotheken
 
+14. zwei Vertreter der Sozialversicherungsträger.
 
--   ein Vertreter der Arbeitsgemeinschaft der Verbraucher
 
 
--   ein Vertreter der Gewerkschaften
 
+(3) Dem Ausschuss für Verschreibungspflicht gehören an
 
--   zwei Vertreter der Sozialversicherungsträger.
+1.  als stimmberechtigte Mitglieder
 
+    a)  zwei Hochschullehrer der Pharmakologie, davon ein Hochschullehrer des
+        Faches Veterinärmedizin, und ein Hochschullehrer der Klinischen
+        Pharmakologie,
 
 
+    b)  zwei Hochschullehrer der Pharmazie, davon ein Hochschullehrer des
+        Faches Klinische Pharmazie,
 
-(2) Dem Ausschuß für Apothekenpflicht gehören an
 
--   drei Hochschullehrer der Medizin,
+    c)  zwei Hochschullehrer des Faches Innere Medizin, davon ein
+        Hochschullehrer des Faches Veterinärmedizin,
 
 
+    d)  ein Hochschullehrer des Faches Allgemeinmedizin,
 
-davon je ein Hochschullehrer der Pharmakologie, der Inneren Medizin
-und des Faches Veterinärmedizin
 
--   ein Hochschullehrer der Pharmazie
+    e)  ein Hochschullehrer des Faches Kinder- und Jugendmedizin,
 
 
--   ein Vertreter der Deutschen Krankenhausgesellschaft
+    f)  ein Hochschullehrer der medizinischen Statistik oder der
+        Epidemiologie,
 
 
--   ein Arzt für Allgemeinmedizin
+    g)  ein Mitglied der Arzneimittelkommission der deutschen Ärzteschaft,
 
 
--   ein Zahnarzt
+    h)  ein Mitglied der Arzneimittelkommission der Tierärzte und
 
 
--   ein Tierarzt
+    i)  ein Mitglied der Arzneimittelkommission der deutschen Apotheker sowie
 
 
--   ein Heilpraktiker
 
 
--   zwei Vertreter der humanpharmazeutischen Industrie
 
+2.  als nicht stimmberechtigte Mitglieder
 
--   zwei Vertreter der veterinärpharmazeutischen Industrie
+    a)  ein Facharzt für Allgemeinmedizin,
 
 
--   ein Vertreter der Reformwaren-Hersteller
+    b)  ein Facharzt für Innere Medizin,
 
 
--   zwei Vertreter der Apothekerschaft
+    c)  ein Facharzt für Kinder- und Jugendmedizin,
 
 
--   zwei Vertreter des Einzelhandels außerhalb der Apotheken
+    d)  ein Zahnarzt,
 
 
--   ein Vertreter der Arbeitsgemeinschaft der Verbraucher
+    e)  ein Tierarzt,
 
 
--   zwei Vertreter der Sozialversicherungsträger.
+    f)  ein Heilpraktiker,
 
 
+    g)  ein Vertreter der Apothekerschaft,
 
 
-(3) Dem Ausschuß für Verschreibungspflicht gehören an
+    h)  zwei Vertreter der humanpharmazeutischen Industrie und
 
--   drei Hochschullehrer der Pharmakologie,
 
+    i)  ein Vertreter der veterinärpharmazeutischen Industrie.
 
 
-davon einer aus dem Fach Veterinärmedizin
 
--   ein Hochschullehrer der Medizinischen Statistik oder Epidemiologie
-
-
--   ein Hochschullehrer der Pharmazie
-
-
--   ein Arzt für Allgemeinmedizin
-
-
--   ein Facharzt für innere Medizin
-
-
--   ein Facharzt für Kinderkrankheiten
-
-
--   ein Zahnarzt
-
-
--   ein Tierarzt
-
-
--   ein Heilpraktiker
-
-
--   ein Vertreter der Apothekerschaft
-
-
--   zwei Vertreter der humanpharmazeutischen Industrie
-
-
--   ein Vertreter der veterinärpharmazeutischen Industrie.
 
 
 
@@ -208,16 +180,16 @@ davon einer aus dem Fach Veterinärmedizin
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden
 durch das Bundesministerium im Einvernehmen mit dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz einheitlich für
-den Zeitraum von jeweils fünf Jahren berufen. Nachfolger für vorzeitig
-ausscheidende Mitglieder oder Stellvertreter werden nur für den Rest
-des jeweiligen Berufungszeitraums berufen.
+für Ernährung und Landwirtschaft einheitlich für den Zeitraum von
+jeweils fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende
+Mitglieder oder Stellvertreter werden nur für den Rest des jeweiligen
+Berufungszeitraums berufen.
 
 (2) Wiederholte Berufungen sind zulässig.
 
-(3) Mitglieder und Stellvertreter können durch Erklärung gegenüber dem
-Bundesministerium ihre Mitgliedschaft in einem Ausschuß jederzeit
-beenden.
+(3) Mitglieder und Stellvertreter können durch eine Erklärung
+gegenüber dem Bundesministerium ihre Mitgliedschaft in einem Ausschuß
+jederzeit beenden.
 
 (4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.
 
@@ -233,25 +205,30 @@ ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
 ## § 5
 
-(1) Die Ausschüsse beraten unter dem Vorsitz des Direktor und
-Professor des Bundesinstitutes für Arzneimittel und Medizinprodukte.
+(1) Die Ausschüsse beraten unter dem Vorsitz des Präsidenten des
+Bundesinstitutes für Arzneimittel und Medizinprodukte. Die Sitzungen
+sind nicht öffentlich.
 
 (2) Die Geschäfte der Ausschüsse führt das Bundesinstitut für
 Arzneimittel und Medizinprodukte.
 
+(3) Die Ausschüsse geben sich jeweils eine Geschäftsordnung, die der
+Zustimmung des Bundesministeriums und des Bundesministeriums für
+Ernährung und Landwirtschaft bedarf. Die Geschäftsordnungen werden vom
+Bundesinstitut für Arzneimittel und Medizinprodukte auf dessen
+Homepage im Internet veröffentlicht.
+
 
 ## § 6
 
-Die Ausschüsse verfahren nach der Geschäftsordnung, die der Verordnung
-als Anlage beigefügt ist.
+Die Anlage zu der Verordnung in der Fassung vom 19. April 2013 ist für
+den jeweiligen Ausschuss so lange weiter anzuwenden, bis für diesen
+eine neue Geschäftsordnung gemäß § 5 Absatz 3 Satz 2 öffentlich
+zugänglich gemacht wurde.
 
 
-## § 7
+## § 7 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 8 des Gesetzes zur Neuordnung des
-Arzneimittelrechts vom 24. August 1976 (BGBl. I S. 2445) auch im Land
-Berlin.
 
 
 ## § 8

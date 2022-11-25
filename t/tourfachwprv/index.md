@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 302
 
+Zuletzt geändert durch
+:   Art. 60 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -184,10 +187,9 @@ Handlungsbereich „Personalführung und -entwicklung“ beziehen. In der
 Präsentation soll die Präsentationszeit dabei zehn Minuten nicht
 überschreiten.
 
-(6) Das Thema der Präsentation wird von dem Prüfungsteilnehmer oder
-der Prüfungsteilnehmerin gewählt und mit einer Kurzbeschreibung dem
-Prüfungsausschuss bei der ersten schriftlichen Prüfungsleistung
-eingereicht.
+(6) Das Thema der Präsentation wird von der zu prüfenden Person
+gewählt und mit einer Kurzbeschreibung dem Prüfungsausschuss bei der
+ersten schriftlichen Prüfungsleistung eingereicht.
 
 (7) Im Fachgespräch soll ausgehend von der Präsentation nachgewiesen
 werden, dass auch in den weiteren in Absatz 2 aufgeführten
@@ -396,37 +398,107 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 
 
-## § 5 Anrechnung anderer Prüfungsleistungen
+## § 5 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
-
-## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
-
-(1) Die Prüfung ist bestanden, wenn sowohl in der mündlichen als auch
-in der schriftlichen Prüfungsleistung mindestens ausreichende
-Leistungen erbracht wurden.
-
-(2) Die schriftliche und die mündliche Prüfung sind jeweils nach
-Punkten gesondert zu bewerten. Die Gesamtnote ergibt sich aus dem
-arithmetischen Mittel der beiden Punktebewertungen und ist gesondert
-auszuweisen.
-
-(3) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 5 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6
+und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
+7 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
 
 
-## § 7 Wiederholung der Prüfung
+## § 6 Bewerten der Prüfungsleistungen
 
-(1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) In der schriftlichen Prüfung sind die Prüfungsleistungen in jeder
+der beiden Aufgabenstellungen nach § 3 Absatz 3 einzeln zu bewerten.
+Aus den beiden Bewertungen wird als Bewertung der schriftlichen
+Prüfung das arithmetische Mittel berechnet.
+
+(3) In der mündlichen Prüfung sind als Prüfungsleistungen zu bewerten:
+
+1.  die Präsentation nach § 3 Absatz 5 und
+
+
+2.  das Fachgespräch nach § 3 Absatz 6.
+
+
+
+Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung
+das gewichtete arithmetische Mittel berechnet. Dabei werden wie folgt
+gewichtet:
+
+1.  die Bewertung der Präsentation mit einem Drittel und
+
+
+2.  das Fachgespräch mit zwei Dritteln.
+
+
+
+
+
+## § 7 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen
+Prüfung und in der mündlichen Prüfung jeweils mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
+
+1.  die Bewertung für die schriftliche Prüfung sowie
+
+
+2.  die Bewertung für die mündliche Prüfung.
+
+
+
+
+(3) Den Bewertungen für die schriftliche und für die mündliche Prüfung
+ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl aus den
+Bewertungen für die schriftliche und die mündliche Prüfung das
+arithmetische Mittel zu berechnen. Die Gesamtpunktzahl ist
+kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten
+Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die
+Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
+
+
+## § 8 Zeugnisse
+
+(1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 5 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 9 Wiederholung der Prüfung
+
+(1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt
 werden.
 
 (2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich
@@ -438,7 +510,7 @@ richten, die bestandene Prüfungsleistung einmal zu wiederholen. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 8 Ausbildereignung
+## § 10 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Tourismusfachwirt oder zur Geprüften
 Tourismusfachwirtin nach dieser Verordnung bestanden hat, ist vom
@@ -446,7 +518,7 @@ schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
 erlassenen Ausbilder-Eignungsverordnung befreit.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Tourismusfachwirt (IHK)/zur
 Tourismusfachwirtin (IHK) können bis zum 31. Dezember 2015 nach den
@@ -460,232 +532,393 @@ Verordnung durchführen; § 7 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
-(zu § 6 Absatz 3)
+(zu den §§ 6 und 7)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 306)
+(Fundstelle: BGBl. I 2019, 2363 - 2364)
 
 
-*    *   .........................................
+*    *   Punkte
 
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Tourismusfachwirt
-## Geprüfte Tourismusfachwirtin
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Tourismusfachwirt
-## Geprüfte Tourismusfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte
-Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
-
-
-*    *   Datum ................................................................
-        ...........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-(zu § 6 Absatz 3)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. I 2012, 307)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Tourismusfachwirt
-## Geprüfte Tourismusfachwirtin
-
-
-*    *   Herr/Frau
-        ......................................................................
-        ........ ...
-
-
-*    *   geboren am
-        ..........................................
-
-    *   in
-        ...................................
-
-
-*    *   hat am
-        ...................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Tourismusfachwirt
-## Geprüfte Tourismusfachwirtin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte
-Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) mit folgenden
-Ergebnissen bestanden:
-
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *   Die Prüfung beinhaltet die Handlungsbereiche
-
-    *
-    *
-    *
-
-*    *   1. Unternehmensführung und -entwicklung
-
-    *
-    *
-    *
-
-*    *   2. Betriebswirtschaftliche Bewertung und Steuerung von
-        Geschäftsprozessen
-
-    *
-    *
-    *
-
-*    *   3. Personalführung und -entwicklung
-
-    *
-    *
-    *
-
-*    *   4. Gestaltung des Marketingprozesses
-
-    *
-    *
-    *
-
-*    *   5. Qualitäts- und Projektmanagement
-
-    *
-    *
-    *
-
-*    *   6. Leistungserstellung im Tourismus
-
-    *
-    *
-    *
-    *
-
-
-
-*    *   Prüfungsergebnis:
-
-    *[^f776164_01_BJNR030200012BJNE001300000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Schriftliche Prüfung
+    *   1,0
 
-    *   ..........
+    *   sehr gut
 
-    *
-    *   ...........
-
-
-*    *   II.
-
-    *   Mündliche Prüfung
-
-    *   ............
-
-    *
-    *   ...........
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *
-    *   Präsentation und Fachgespräch
-        Gesamtnote
+*    *   98 und 99
 
-    *
-    *
-    *   ...........
+    *   1,1
 
 
-*    *   (Im Fall des § 5: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 5 im Hinblick auf die am
-        .......
-        in
-        .................................. vor
-        .....................................abgelegte Prüfung von der
-        Prüfung
-        ..........................................................
-        freigestellt.“)
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 8)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2364 - 2365)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
 
 
 
 
-*    *   Datum
-        ......................................................................
-        .
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung der Handlungsbereiche
+
+    a)  Unternehmensführung und -entwicklung,
 
 
-*    *   Unterschrift(en)
-        ......................................................................
-        ........ .
+    b)  Betriebswirtschaftliche Bewertung und Steuerung von
+        Geschäftsprozessen,
 
 
-*    *   (Siegel der zuständigen Stelle)
+    c)  Personalführung und -entwicklung,
+
+
+    d)  Gestaltung des Marketingprozesses,
+
+
+    e)  Qualitäts- und Projektmanagement,
+
+
+    f)  Leistungserstellung im Tourismus,
 
 
 
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ……………………………………….
-[^f776164_01_BJNR030200012BJNE001300000]: 
+
+
+2.  Benennung der schriftlichen Prüfung und Angabe des Prüfungsergebnisses
+    in Punkten und Note,
+
+
+3.  Benennung der mündlichen Prüfung, Präsentation und Fachgespräch und
+    Angabe des Prüfungsergebnisses in Punkten und Note,
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 5,
+
+
+8.  Bescheinigung der Befreiung vom schriftlichen Teil der Prüfung nach
+    der Ausbilder-Eignungsverordnung nach § 10.
+
+
+
+

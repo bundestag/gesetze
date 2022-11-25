@@ -1,7 +1,5 @@
-[^F774148_01_BJNR060100010]
-Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin
 jurabk: BöttchAusbV 2010
 layout: default
 origslug: b_ttchausbv_2010
@@ -9,7 +7,7 @@ slug: boettchausbv_2010
 
 ---
 
-#  (BöttchAusbV 2010)
+# Verordnung über die Berufsausbildung zum Böttcher und zur Böttcherin (BöttchAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-05-05

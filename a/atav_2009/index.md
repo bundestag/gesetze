@@ -1,8 +1,5 @@
-[^F772072_01_BJNR100000009]
-Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter
-Brennelemente
 ---
-Title: ''
+Title: Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente
 jurabk: AtAV 2009
 layout: default
 origslug: atav_2009
@@ -10,13 +7,16 @@ slug: atav_2009
 
 ---
 
-#  (AtAV 2009)
+# Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente (AtAV 2009)
 
 Ausfertigungsdatum
 :   2009-04-30
 
 Fundstelle
 :   BGBl I: 2009, 1000
+
+Zuletzt geändert durch
+:   Art. 241 V v. 19.6.2020 I 1328
 
 [^F772072_01_BJNR100000009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2006/117/Euratom
     des Rates vom 20. November 2006 über die Überwachung und Kontrolle der
@@ -52,12 +52,8 @@ abgebrannter Brennelemente.
     im Inland nach § 9a Absatz 3 Satz 1 des Atomgesetzes abgegeben werden;
 
 
-2.  für Verbringungen von Abfällen, die nur natürlich vorkommende
-    radioaktive Stoffe enthalten und die nicht von Tätigkeiten im Sinne
-    von § 3 Absatz 1 Satz 2 Nummer 1 der Strahlenschutzverordnung vom 20.
-    Juli 2001 (BGBl. I S. 1714; 2002 I S. 1459), die zuletzt durch Artikel
-    2 des Gesetzes vom 29. August 2008 (BGBl. I S. 1793) geändert worden
-    ist, herrühren;
+2.  für Verbringungen von Abfällen, die von Tätigkeiten im Sinne von § 4
+    Absatz 1 Satz 1 Nummer 10 des Strahlenschutzgesetzes herrühren;
 
 
 3.  für Verbringungen radioaktiver Stoffe, die durch Aufarbeitung für eine
@@ -69,17 +65,18 @@ abgebrannter Brennelemente.
 
 ## § 2 Verhältnis zu anderen Vorschriften
 
-Genehmigungs- und Anzeigeerfordernisse sowie sonstige Anforderungen
-nach dem Atomgesetz und der Strahlenschutzverordnung in der jeweils
+Genehmigungs-, Anzeige- und Anmeldeerfordernisse sowie sonstige
+Anforderungen nach dem Atomgesetz und des Strahlenschutzgesetzes und
+der auf seiner Grundlage erlassenen Rechtsverordnungen in der jeweils
 geltenden Fassung sowie sonstige Verpflichtungen der Versender bei der
 grenzüberschreitenden Verbringung von radioaktiven Abfällen oder
 abgebrannten Brennelementen, die sich aus Bestimmungen der
 Europäischen Gemeinschaften, aus innerstaatlichen Rechtsvorschriften,
 internationalen Übereinkünften oder aus Bestimmungen anderer
 Mitgliedstaaten sowie Drittländern ergeben, bleiben unberührt. Eine
-Genehmigung nach § 3 des Atomgesetzes und § 19 der
+Genehmigung nach § 3 des Atomgesetzes und § 12 der
 Strahlenschutzverordnung in der jeweils geltenden Fassung sowie eine
-Anzeige nach § 20 der Strahlenschutzverordnung in der jeweils
+Anmeldung nach § 13 der Strahlenschutzverordnung in der jeweils
 geltenden Fassung sind nicht erforderlich, soweit für die Einfuhr,
 Ausfuhr oder Durchfuhr radioaktiver Abfälle oder abgebrannter
 Brennelemente diese Verordnung anzuwenden ist.
@@ -96,9 +93,9 @@ Im Sinne dieser Verordnung bedeuten die Begriffe:
     vorgesehen ist und die als radioaktive Abfälle nach den Rechts- und
     Verwaltungsvorschriften des Ursprungslands und des Bestimmungslands
     der Kontrolle durch eine Aufsichtsbehörde unterliegen, wenn die Werte
-    der spezifischen Aktivität der Anlage III Tabelle 1 Spalte 3 und der
-    Aktivität der Anlage III Tabelle 1 Spalte 2 der
-    Strahlenschutzverordnung überschritten werden;
+    der spezifischen Aktivität der Anlage 4 Tabelle 1 Spalte 3 und der
+    Aktivität der Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung
+    überschritten werden;
 
 
 2.  „abgebrannte Brennelemente“: Kernbrennstoffe, die in einem Reaktorkern
@@ -106,8 +103,8 @@ Im Sinne dieser Verordnung bedeuten die Begriffe:
 
 
 3.  „umschlossene Strahlenquelle“: ein umschlossener radioaktiver Stoff im
-    Sinne von § 3 Absatz 2 Nummer 29 Buchstabe b der
-    Strahlenschutzverordnung in der jeweils geltenden Fassung;
+    Sinne von § 5 Absatz 35 und 36 des Strahlenschutzgesetzes in der
+    jeweils geltenden Fassung;
 
 
 4.  „Verbringung“: alle zur grenzüberschreitenden Beförderung radioaktiver
@@ -254,9 +251,9 @@ liegt.
 
 (3) Eine Genehmigung darf unbeschadet der Anforderungen der §§ 8 bis
 11 nicht erteilt werden, wenn die ergänzenden
-Genehmigungsvoraussetzungen des § 3 Absatz 2 und 3 des Atomgesetzes
-oder des § 22 der Strahlenschutzverordnung in der jeweils geltenden
-Fassung nicht erfüllt sind.
+Genehmigungsvoraussetzungen des § 3 Absatz 2 und 3 sowie Absatz 6 des
+Atomgesetzes oder des § 15 der Strahlenschutzverordnung in der jeweils
+geltenden Fassung nicht erfüllt sind.
 
 (4) Auf Antrag kann eine Sammelgenehmigung erteilt werden, wenn
 
@@ -740,8 +737,8 @@ aufzubewahren.
 ## § 22 Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das für die kerntechnische Sicherheit und den Strahlenschutz
-zuständige Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, mit Zustimmung des Bundesrates
+zuständige Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, mit Zustimmung des Bundesrates
 Rechtsverordnungen nach Maßgabe des § 11 Absatz 1 Nummer 6 und Absatz
 2 des Atomgesetzes zur Änderung des einheitlichen Begleitscheins
 dieser Verordnung zu erlassen.
@@ -769,13 +766,8 @@ handelt, wer vorsätzlich oder fahrlässig
 
 
 
-## § 24 Übergangsbestimmung
+## § 24 (weggefallen)
 
-Auf Verbringungen, die vor dem 25. Dezember 2008 ordnungsgemäß
-genehmigt oder beantragt worden sind, ist die Atomrechtliche
-Abfallverbringungsverordnung vom 27. Juli 1998 (BGBl. I S. 1918) in
-der bis zum Ablauf des 6. Mai 2009 geltenden Fassung weiter
-anzuwenden.
 
 
 ## § 25 Inkrafttreten, Außerkrafttreten
@@ -906,7 +898,7 @@ Abfälle**
 
     *   Antrag auf Genehmigung für (Zutreffendes ankreuzen):
         *                      eine einzige Verbringung: **
-        geplante Ausführungsfrist: **
+         geplante Ausführungsfrist: **
         *                      mehrere Verbringungen (vorgesehen): **
         geplante Ausführungsfrist: **
 
@@ -978,13 +970,13 @@ Abfälle**
     *   Art der radioaktiven Abfälle: **
         Physikalisch-chemische Merkmale (Zutreffendes ankreuzen):
         *                       fest,*                       flüssig,*
-        gasförmig,*                       sonstige (z. B. spaltbar, schwach
+         gasförmig,*                       sonstige (z. B. spaltbar, schwach
         dispergierbar, …), bitte angeben: **
         Hauptradionuklide: **
         Maximale Alpha-Aktivität je Verbringung (GBq): **
-        je Gebinde (GBq): **
+         je Gebinde (GBq): **
         Maximale Beta/Gamma-Aktivität je Verbringung (GBq): **
-        je Gebinde (GBq): **
+         je Gebinde (GBq): **
         Alpha-Gesamtaktivität (GBq): **
         Beta/Gamma-Gesamtaktivität (GBq): **
         (Soweit sich der Antrag auf mehrere Verbringungen bezieht, sind dies
@@ -1002,9 +994,9 @@ Abfälle**
         Schätzwerte.)
         Beschreibung der Lieferung:
         *                       Kunststoffsäcke,*
-        Metallfässer (m
+         Metallfässer (m
         3                     ): **                     ,*
-        ISO-Transportbehälter (m
+         ISO-Transportbehälter (m
         3                     ): **                     ,
         *                       sonstige, bitte angeben: **
         Gebindetyp
@@ -1026,7 +1018,7 @@ Abfälle**
     *   Art der Tätigkeit, bei der die radioaktiven Abfälle entstanden sind
         (Zutreffendes ankreuzen):
         *                       Medizin,*                       Forschung,*
-        (nichtnukleare) Industrie,*                       Nuklearindustrie,
+         (nichtnukleare) Industrie,*                       Nuklearindustrie,
         *                       sonstige Tätigkeit (bitte angeben): **
 
 
@@ -1213,7 +1205,7 @@ Abfälle –**
         **
         Mitgliedstaat: **
         *                      Ursprungsmitgliedstaat
-        1                     ),*
+        1                     ),*                      
         Bestimmungsmitgliedstaat
         2                     ),*                       Mitgliedstaat, über
         den die Verbringung in die Gemeinschaft gelangt
@@ -1227,7 +1219,7 @@ Abfälle –**
 
 *    *
     *   Datum des Eingangs/der Registrierung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         1                     ) Bei Verbringungen des Typs MM oder ME.
         2                     ) Bei Verbringungen des Typs IM.
         3                     ) Bei Verbringungen des Typs TT.
@@ -1237,8 +1229,8 @@ Abfälle –**
 
     *   Name der betroffenen zuständigen Behörde (Zutreffendes ankreuzen): **
         *                       Bestimmungsmitgliedstaat oder -drittstaat,*
-        Durchfuhrmitgliedstaat oder -drittstaat,*
-        Mitgliedstaat
+         Durchfuhrmitgliedstaat oder -drittstaat,*
+         Mitgliedstaat
         oder Drittstaat, über den die Verbringung in die Gemeinschaft gelangt,
         oder*                       Ursprungsmitgliedstaat oder
         -drittstaat
@@ -1257,7 +1249,7 @@ Abfälle –**
     *   Gemäß den Bestimmungen der Richtlinie 2006/117/Euratom erkläre ich
         hiermit, dass der Antrag vom
         **                      (TT/MM/JJJJ), eingegangen am **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
 
 
 *    *
@@ -1308,7 +1300,7 @@ zuständigen Behörden**
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
         *                       Ursprungsmitgliedstaat oder -drittstaat
         1                     ),*
-        Bestimmungsmitgliedstaat oder -drittstaat
+         Bestimmungsmitgliedstaat oder -drittstaat
         2                     ),
         *                       Durchfuhrmitgliedstaat oder -drittstaat
         3                     )
@@ -1328,7 +1320,7 @@ zuständigen Behörden**
 *    *   19.
 
     *   \*) Allgemeine Frist für automatische Genehmigung **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
 
 
 *    *
@@ -1397,7 +1389,7 @@ zuständigen Behörden**
         die Verbringung befugt ist:
         **
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
-        *                       Ursprungsmitgliedstaat,*
+        *                       Ursprungsmitgliedstaat,*                     
         Bestimmungsmitgliedstaat oder*                       Mitgliedstaat,
         über den die Abfälle in die Gemeinschaft gelangen
         Anschrift: **
@@ -1513,7 +1505,7 @@ zuständigen Behörden**
 
 *    *
     *   Datum des Ablaufs der Genehmigung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         **
         (Ort und Datum)
         (Stempel)
@@ -1548,8 +1540,8 @@ zuständigen Behörden**
         die Verbringung befugt ist:
         **
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
-        *                       Ursprungsmitgliedstaat,*
-        Bestimmungsmitgliedstaat,*
+        *                       Ursprungsmitgliedstaat,*                     
+        Bestimmungsmitgliedstaat,*                      
         Durchfuhrmitgliedstaat oder*                       Mitgliedstaat,
         über den die radioaktiven Abfälle in die Gemeinschaft gelangen
         Anschrift: **
@@ -1687,7 +1679,7 @@ Gebinde**
 
     *   Antragsteller (Firmenname): **
         *                       Besitzer,*                       Empfänger,*
-        sonstige (bitte angeben): **
+         sonstige (bitte angeben): **
         Anschrift: **
         PLZ: **                       Ort: **                      Land: **
         Tel.: **                       Fax: **                       E-Mail:
@@ -1859,11 +1851,11 @@ Gebinde**
         *                       mehrere Verbringungen des Typs MM oder IM,
         laufende Nummer der Verbringung: **
         Letzte unter die Genehmigung fallende Verbringung:*
-        Ja*                      Nein
+         Ja*                      Nein
         *                       mehrere Verbringungen des Typs ME oder TT,
         laufende Nummer der Verbringung: **
         Letzte unter die Genehmigung fallende Verbringung:*
-        Ja*                      Nein
+         Ja*                      Nein
 
 
 *    *   34.
@@ -1888,9 +1880,9 @@ Gebinde**
         Gemeinschaft gelangen, für die Abwicklung der Verbringung
         verantwortlich ist) wie in Rubrik 4 (Abschnitt A-1) angegeben.
         Datum des Eingangs der radioaktiven Abfälle: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         Datum der Absendung der Empfangsbestätigung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         Ich bescheinige hiermit als Empfänger, dass die Angaben in diesem
         Abschnitt (und der beigefügten Liste) nach meinem besten Wissen und
         Gewissen korrekt sind.
@@ -1972,7 +1964,7 @@ abgebrannten Brennelementen**
 
     *   Antrag auf Genehmigung für (Zutreffendes ankreuzen):
         *                      eine Einzelverbringung: **
-        geplante Ausführungsfrist: **
+         geplante Ausführungsfrist: **
         *                      mehrere Verbringungen: Zahl (vorgesehen): **
         geplante Ausführungsfrist: **
 
@@ -2055,13 +2047,13 @@ abgebrannten Brennelementen**
         *                       MOX **                       [nominale
         Urananreicherung **                      %]
         **                      [maximaler Plutoniumgehalt **
-        %]
+         %]
         *                       sonstige (bitte angeben): **
 
 
 *    *
     *   Brennstoffabbrand (Durchschnitt oder typischer Bereich): **
-        MWd/tSM
+         MWd/tSM
 
 
 *    *   9.
@@ -2274,7 +2266,7 @@ Brennelemente –**
         **
         Mitgliedstaat: **
         *                       Ursprungsmitgliedstaat
-        1                     ),*
+        1                     ),*                      
         Bestimmungsmitgliedstaat
         2                     ),*                       Durchfuhrmitgliedstaat
         oder
@@ -2290,7 +2282,7 @@ Brennelemente –**
 
 *    *
     *   Datum des Eingangs/der Registrierung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         1                     ) Bei Verbringungen des Typs MM oder ME.
         2                     ) Bei Verbringungen des Typs IM.
         3                     ) Bei Verbringungen des Typs IM oder TT.
@@ -2301,7 +2293,7 @@ Brennelemente –**
     *   Name der betroffenen zuständigen Behörde (Zutreffendes ankreuzen): **
         *                       Ursprungsmitgliedstaat
         1                     ) oder -drittstaat,*
-        Bestimmungsmitgliedstaat oder -drittstaat,
+         Bestimmungsmitgliedstaat oder -drittstaat,
         *                       Durchfuhrmitgliedstaat oder -drittstaat,
         Anschrift: **
         PLZ: **                       Ort: **                      Land: **
@@ -2319,7 +2311,7 @@ Brennelemente –**
     *   Gemäß den Bestimmungen der Richtlinie 2006/117/Euratom erkläre ich
         hiermit, dass der Antrag vom
         **                      (TT/MM/JJJJ), eingegangen am **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
 
 
 *    *
@@ -2373,7 +2365,7 @@ betroffenen zuständigen Behörden**
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
         *                       Ursprungsmitgliedstaat oder -drittstaat
         1                     ),*
-        Bestimmungsmitgliedstaat oder -drittstaat
+         Bestimmungsmitgliedstaat oder -drittstaat
         2                     ),
         *                       Durchfuhrmitgliedstaat oder -drittstaat
         3                     )
@@ -2394,7 +2386,7 @@ betroffenen zuständigen Behörden**
 *    *   19.
 
     *   \*) Allgemeine Frist für automatische Genehmigung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
 
 
 *    *
@@ -2463,8 +2455,8 @@ betroffenen zuständigen Behörden**
         die Verbringung befugt ist: **
         **
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
-        *                       Ursprungsmitgliedstaat,*
-        Bestimmungsmitgliedstaat,*
+        *                       Ursprungsmitgliedstaat,*                     
+        Bestimmungsmitgliedstaat,*                      
         Durchfuhrmitgliedstaat oder*                       Mitgliedstaat, über
         den die abgebrannten Brennelemente in die Gemeinschaft gelangen
         Anschrift: **
@@ -2580,7 +2572,7 @@ betroffenen zuständigen Behörden**
 
 *    *
     *   Datum des Ablaufs der Genehmigung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         **
         (Ort und Datum)
         (Stempel)
@@ -2616,8 +2608,8 @@ Brennelemente**
         die Verbringung befugt ist: **
         **
         Mitgliedstaat (Zutreffendes ausfüllen und ankreuzen): **
-        *                       Ursprungsmitgliedstaat,*
-        Bestimmungsmitgliedstaat,*
+        *                       Ursprungsmitgliedstaat,*                     
+        Bestimmungsmitgliedstaat,*                      
         Durchfuhrmitgliedstaat oder*                       Mitgliedstaat,
         über den die abgebrannten Brennelemente in die Gemeinschaft gelangen
         Anschrift: **
@@ -2755,7 +2747,7 @@ Gebinde**
 
     *   Antragsteller (Firmenname): **
         *                       Besitzer,*                       Empfänger,*
-        sonstige (bitte angeben): **
+         sonstige (bitte angeben): **
         Anschrift: **
         PLZ: **                       Ort: **                      Land: **
         Tel.: **                       Fax: **                       E-Mail:
@@ -2788,13 +2780,13 @@ Gebinde**
         *                       MOX **                       [nominale
         Urananreicherung **                      %]
         **                      [maximaler Plutoniumgehalt **
-        %]
+         %]
         *                       sonstige (bitte angeben): **
 
 
 *    *
     *   Brennstoffabbrand (Durchschnitt oder typischer Bereich): **
-        MWd/tSM
+         MWd/tSM
         Gesamtzahl der Kassetten/Bündel/Elemente/Stäbe (bitte angeben): **
         Maximaler Anteil an abgebrannten Brennelementen je Gebinde (kg): **
 
@@ -2931,11 +2923,11 @@ Gebinde**
         *                       mehrere Verbringungen des Typs MM oder IM,
         laufende Nummer der Verbringung: **
         Letzte unter die Genehmigung fallende Verbringung:*
-        Ja*                      Nein
+         Ja*                      Nein
         *                       mehrere Verbringungen des Typs ME oder TT,
         laufende Nummer der Verbringung: **
         Letzte unter die Genehmigung fallende Verbringung:*
-        Ja*                      Nein
+         Ja*                      Nein
 
 
 *    *   34.
@@ -2961,9 +2953,9 @@ Gebinde**
         Verbringung verantwortlich ist) wie in Rubrik 4 (Abschnitt B-1)
         angegeben.
         Datum des Eingangs der abgebrannten Brennelemente: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         Datum der Absendung der Empfangsbestätigung: **
-        (TT/MM/JJJJ)
+         (TT/MM/JJJJ)
         Ich bescheinige hiermit als Empfänger, dass die Angaben in diesem
         Abschnitt (und der beigefügten Liste) nach meinem besten Wissen und
         Gewissen korrekt sind.

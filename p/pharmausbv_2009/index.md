@@ -1,7 +1,5 @@
-[^f772201_01_BJNR137400009]
-Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 jurabk: PharmAusbV 2009
 layout: default
 origslug: pharmausbv_2009
@@ -9,7 +7,7 @@ slug: pharmausbv_2009
 
 ---
 
-#  (PharmAusbV 2009)
+# Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin (PharmAusbV 2009)
 
 Ausfertigungsdatum
 :   2009-06-10
@@ -28,7 +26,7 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit

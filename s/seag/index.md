@@ -17,7 +17,16 @@ Fundstelle
 :   BGBl I: 2004, 3675
 
 Zuletzt geändert durch
-:   Art. 6 G v. 30.7.2009 I 2479
+:   Art. 9 G v. 12.12.2019 I 2637
+
+Änderung durch
+:   Art. 17 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 9 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 62 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -318,45 +327,75 @@ insgesamt ein Jahr nicht übersteigt.
 
 #### § 16 Zahl der Mitglieder des Leitungsorgans
 
-Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen
+(1) Bei Gesellschaften mit einem Grundkapital von mehr als 3 Millionen
 Euro hat das Leitungsorgan aus mindestens zwei Personen zu bestehen,
 es sei denn, die Satzung bestimmt, dass es aus einer Person bestehen
-soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt.
+soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt. Die
+Vorgabe des Satzes 1, dass das Leitungsorgan aus mindestens zwei
+Personen zu bestehen hat, gilt während des Zeitraums nach § 84 Absatz
+3 Satz 2 oder 3 des Aktiengesetzes auch dann als erfüllt, wenn diese
+Vorgabe ohne den Widerruf eingehalten wäre.
+
+(2) Besteht das Leitungsorgan einer börsennotierten Gesellschaft,
+deren Aufsichtsorgan aus derselben Zahl von Anteilseigner- und
+Arbeitnehmervertretern besteht, aus mehr als drei Personen, so muss
+mindestens eine Frau und mindestens ein Mann Mitglied des
+Leitungsorgans sein. Eine Bestellung eines Mitglieds unter Verstoß
+gegen dieses Beteiligungsgebot ist nichtig. Die Sätze 1 und 2 sind bei
+der Bestellung einzelner oder mehrerer Mitglieder ab dem 1. August
+2022 zu beachten. Bestehende Mandate können bis zu ihrem vorgesehenen
+Ende wahrgenommen werden. Die Sätze 1 und 2 sowie § 52a Absatz 2
+Nummer 1 finden auf Bestellungen während des Zeitraums nach § 84
+Absatz 3 Satz 2 oder 3 des Aktiengesetzes keine Anwendung, wenn das
+Beteiligungsgebot ohne den Widerruf eingehalten wäre.
 
 
 #### § 17 Zahl der Mitglieder und Zusammensetzung des Aufsichtsorgans
 
 (1) Das Aufsichtsorgan besteht aus drei Mitgliedern. Die Satzung kann
 eine bestimmte höhere Zahl festsetzen. Die Zahl muss durch drei
-teilbar sein. Die Höchstzahl beträgt bei Gesellschaften mit einem
-Grundkapital
+teilbar sein, wenn dies für die Beteiligung der Arbeitnehmer auf Grund
+des SE-Beteiligungsgesetzes erforderlich ist. Die Höchstzahl beträgt
+bei Gesellschaften mit einem Grundkapital
 
-*    *   bis zu 1.500.000 Euro
+*    *   bis zu 1 500 000 Euro
 
     *   neun,
 
 
-*    *   von mehr als 1.500.000 Euro
+*    *   von mehr als 1 500 000 Euro
 
     *   fünfzehn,
 
 
-*    *   von mehr als 10.000.000 Euro
+*    *   von mehr als 10 000 000 Euro
 
     *   einundzwanzig.
 
 
 
 
-(2) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz
+(2) Besteht bei einer börsennotierten SE das Aufsichtsorgan aus
+derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen
+in dem Aufsichtsorgan Frauen und Männer jeweils mit einem Anteil von
+mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30
+Prozent an Frauen und Männern im Aufsichtsorgan ist bei erforderlich
+werdenden Neubesetzungen einzelner oder mehrerer Sitze im
+Aufsichtsorgan zu beachten. Reicht die Zahl der neu zu besetzenden
+Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
+
+(3) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz
 bleibt unberührt.
 
-(3) Für Verfahren entsprechend den §§ 98, 99 oder 104 des
+(4) Für Verfahren entsprechend den §§ 98, 99 oder 104 des
 Aktiengesetzes ist auch der SE-Betriebsrat antragsberechtigt. Für
 Klagen entsprechend § 250 des Aktiengesetzes ist auch der SE-
 Betriebsrat parteifähig; § 252 des Aktiengesetzes gilt entsprechend.
 
-(4) § 251 des Aktiengesetzes findet mit der Maßgabe Anwendung, dass
+(5) § 251 des Aktiengesetzes findet mit der Maßgabe Anwendung, dass
 das gesetzeswidrige Zustandekommen von Wahlvorschlägen für die
 Arbeitnehmervertreter im Aufsichtsorgan nur nach den Vorschriften der
 Mitgliedstaaten über die Besetzung der ihnen zugewiesenen Sitze
@@ -431,7 +470,11 @@ Aufgaben auf die geschäftsführenden Direktoren übertragen.
 Handelsbücher geführt werden. Der Verwaltungsrat hat geeignete
 Maßnahmen zu treffen, insbesondere ein Überwachungssystem
 einzurichten, damit den Fortbestand der Gesellschaft gefährdende
-Entwicklungen früh erkannt werden.
+Entwicklungen früh erkannt werden. Der Verwaltungsrat einer
+börsennotierten Gesellschaft hat darüber hinaus ein im Hinblick auf
+den Umfang der Geschäftstätigkeit und die Risikolage des Unternehmens
+angemessenes und wirksames internes Kontrollsystem und
+Risikomanagementsystem einzurichten.
 
 (4) Der Verwaltungsrat kann die Bücher und Schriften der Gesellschaft
 sowie die Vermögensgegenstände, namentlich die Gesellschaftskasse und
@@ -447,7 +490,7 @@ ein Verlust in der Hälfte des Grundkapitals besteht, so hat der
 Verwaltungsrat unverzüglich die Hauptversammlung einzuberufen und ihr
 dies anzuzeigen. Bei Zahlungsunfähigkeit oder Überschuldung der
 Gesellschaft hat der Verwaltungsrat den Insolvenzantrag nach § 15a
-Abs. 1 der Insolvenzordnung zu stellen; § 92 Abs. 2 des Aktiengesetzes
+Abs. 1 der Insolvenzordnung zu stellen; § 15b der Insolvenzordnung
 gilt entsprechend.
 
 (6) Rechtsvorschriften, die außerhalb dieses Gesetzes dem Vorstand
@@ -499,6 +542,18 @@ werden, wenn nach § 25 oder nach § 26 die in der Bekanntmachung des
 Vorsitzenden des Verwaltungsrats oder in der gerichtlichen
 Entscheidung angegebenen vertraglichen oder gesetzlichen Vorschriften
 anzuwenden sind.
+
+(3) Besteht bei einer börsennotierten SE der Verwaltungsrat aus
+derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen
+in dem Verwaltungsrat Frauen und Männer jeweils mit einem Anteil von
+mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30
+Prozent an Frauen und Männern im Verwaltungsrat ist bei erforderlich
+werdenden Neubesetzungen einzelner oder mehrerer Sitze im
+Verwaltungsrat zu beachten. Reicht die Zahl der neu zu besetzenden
+Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
 
 
 #### § 25 Bekanntmachung über die Zusammensetzung des Verwaltungsrats
@@ -601,9 +656,9 @@ Handelsgesellschaften, die gesetzlich einen Aufsichtsrat oder einen
 Verwaltungsrat zu bilden haben, inne hat. Auf die Höchstzahl nach Satz
 1 Nr. 1 sind Aufsichtsrats- oder Verwaltungsratsämter im Sinne der
 Nummer 1 doppelt anzurechnen, für die das Mitglied zum Vorsitzenden
-gewählt worden ist. Bei einer SE im Sinn des § 264d des
-Handelsgesetzbuchs muss mindestens ein Mitglied des Verwaltungsrats
-die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen.
+gewählt worden ist. Bei einer SE, die ein Unternehmen von öffentlichem
+Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, müssen die
+Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllt sein.
 
 (2) § 36 Abs. 3 Satz 2 in Verbindung mit § 6 Abs. 2 bis 4 des SE-
 Beteiligungsgesetzes oder eine Vereinbarung nach § 21 des SE-
@@ -779,19 +834,32 @@ Ausschüsse bestellen, namentlich, um seine Verhandlungen und
 Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu
 überwachen. Die Aufgaben nach Absatz 1 Satz 1 und nach § 22 Abs. 1 und
 3, § 40 Abs. 1 Satz 1 und § 47 Abs. 3 dieses Gesetzes sowie nach § 68
-Abs. 2 Satz 2, § 203 Abs. 2, § 204 Abs. 1 Satz 1, § 205 Abs. 2 Satz 1
-und § 314 Abs. 2 und 3 des Aktiengesetzes können einem Ausschuss nicht
-an Stelle des Verwaltungsrats zur Beschlussfassung überwiesen werden.
-Dem Verwaltungsrat ist regelmäßig über die Arbeit der Ausschüsse zu
+Abs. 2 Satz 2, § 87 Absatz 1 und 2 Satz 1 und 2, § 203 Abs. 2, § 204
+Abs. 1 Satz 1, § 205 Abs. 2 Satz 1 und § 314 Abs. 2 und 3 des
+Aktiengesetzes können einem Ausschuss nicht an Stelle des
+Verwaltungsrats zur Beschlussfassung überwiesen werden. Dem
+Verwaltungsrat ist regelmäßig über die Arbeit der Ausschüsse zu
 berichten. Der Verwaltungsrat kann einen Prüfungsausschuss einrichten,
 dem insbesondere die Aufgaben nach § 107 Abs. 3 Satz 2 des
-Aktiengesetzes übertragen werden können. Er muss mehrheitlich mit
-nicht geschäftsführenden Mitgliedern besetzt werden. Richtet der
-Verwaltungsrat einer SE im Sinn des § 264d des Handelsgesetzbuchs
-einen Prüfungsausschuss ein, muss mindestens ein Mitglied des
-Prüfungsausschusses die Voraussetzungen des § 100 Abs. 5 des
-Aktiengesetzes erfüllen und darf der Vorsitzende des
-Prüfungsausschusses nicht geschäftsführender Direktor sein.
+Aktiengesetzes übertragen werden können. Der Verwaltungsrat kann
+ferner einen Ausschuss einrichten, dem die Aufgaben nach § 107 Absatz
+3 Satz 4 des Aktiengesetzes übertragen werden. Der Ausschuss muss
+mehrheitlich mit nicht geschäftsführenden Mitgliedern besetzt sein. Im
+Übrigen gilt § 107 Absatz 3 Satz 4 bis 6 des Aktiengesetzes
+hinsichtlich der Besetzung des Ausschusses entsprechend.
+
+(5) Der Verwaltungsrat einer SE, die Unternehmen von öffentlichem
+Interesse nach § 316a Satz 2 des Handelsgesetzbuchs ist, hat einen
+Prüfungsausschuss im Sinne des Absatzes 4 Satz 4 einzurichten. Dieser
+Prüfungsausschuss muss die Voraussetzungen des § 100 Absatz 5 des
+Aktiengesetzes erfüllen. Jedes Mitglied des Prüfungsausschusses kann
+über den Ausschussvorsitzenden unmittelbar bei den Leitern derjenigen
+Zentralbereiche der Gesellschaft, die in der Gesellschaft für die
+Aufgaben zuständig sind, die den Prüfungsausschuss nach Absatz 4 Satz
+4 betreffen, Auskünfte einholen. Der Ausschussvorsitzende hat die
+eingeholte Auskunft allen Mitgliedern des Prüfungsausschusses
+mitzuteilen. Werden Auskünfte nach Satz 3 eingeholt, sind die
+geschäftsführenden Direktoren hierüber unverzüglich zu unterrichten.
 
 
 #### § 35 Beschlussfassung
@@ -876,6 +944,17 @@ kann Regelungen über die Bestellung eines oder mehrerer
 geschäftsführender Direktoren treffen. § 38 Abs. 2 des SE-
 Beteiligungsgesetzes bleibt unberührt.
 
+(1a) Sind in einer börsennotierten Gesellschaft, deren Verwaltungsrat
+aus derselben Zahl von Anteilseigner- und Arbeitnehmervertretern
+besteht, mehr als drei geschäftsführende Direktoren bestellt, so muss
+mindestens eine Frau und mindestens ein Mann geschäftsführender
+Direktor sein. Eine Bestellung eines geschäftsführenden Direktors
+unter Verstoß gegen dieses Beteiligungsgebot ist nichtig. Die Sätze 1
+und 2 sind bei der Bestellung einzelner oder mehrerer
+geschäftsführender Direktoren ab dem 1. August 2022 zu beachten.
+Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen
+werden.
+
 (2) Die geschäftsführenden Direktoren führen die Geschäfte der
 Gesellschaft. Sind mehrere geschäftsführende Direktoren bestellt, so
 sind sie nur gemeinschaftlich zur Geschäftsführung befugt; die Satzung
@@ -908,16 +987,53 @@ Verwaltungsrats abberufen werden, sofern die Satzung nichts anderes
 regelt. Für die Ansprüche aus dem Anstellungsvertrag gelten die
 allgemeinen Vorschriften.
 
-(6) Geschäftsführende Direktoren berichten dem Verwaltungsrat
+(6) Ein geschäftsführender Direktor hat das Recht, den Verwaltungsrat
+um seine Abberufung zu ersuchen, wenn er wegen Mutterschutz,
+Elternzeit, der Pflege eines Familienangehörigen oder Krankheit seinen
+mit der Bestellung verbundenen Pflichten vorübergehend nicht
+nachkommen kann und neben ihm mindestens ein weiterer
+geschäftsführender Direktor bestellt ist. Macht ein geschäftsführender
+Direktor von diesem Recht Gebrauch, muss der Verwaltungsrat diesen
+geschäftsführenden Direktor
+
+1.  im Fall des Mutterschutzes abberufen und dabei die Wiederbestellung
+    nach Ablauf des Zeitraums der in § 3 Absatz 1 und 2 des
+    Mutterschutzgesetzes genannten Schutzfristen zusichern,
+
+
+2.  in den Fällen der Elternzeit, der Pflege eines Familienangehörigen
+    oder der Krankheit abberufen und dabei die Wiederbestellung nach einem
+    Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des
+    geschäftsführenden Direktors zusichern; der Verwaltungsrat kann von
+    der Abberufung absehen, wenn ein wichtiger Grund vorliegt.
+
+
+
+In den in Satz 2 Nummer 2 genannten Fällen kann der Verwaltungsrat den
+geschäftsführenden Direktor auf dessen Verlangen für einen Zeitraum
+von bis zu zwölf Monaten abberufen. Das vorgesehene Ende der
+vorherigen Amtszeit bleibt auch als Ende der Amtszeit nach der
+Wiederbestellung bestehen. Im Übrigen bleiben die Regelungen des
+Absatzes 1 unberührt. Ein Unterschreiten der in der Satzung
+festgelegten Mindestzahl an geschäftsführenden Direktoren ist während
+des Zeitraums nach den Sätzen 2 oder 3 unbeachtlich. Absatz 1a und §
+52a Absatz 2 Nummer 4 finden auf Bestellungen während des Zeitraums
+nach den Sätzen 2 oder 3 keine Anwendung, wenn das Beteiligungsgebot
+ohne die Abberufung eingehalten wäre. Von den Bestimmungen dieses
+Absatzes kann nicht gemäß Absatz 5 Satz 1 abgewichen werden. Absatz 8
+in Verbindung mit § 88 des Aktiengesetzes ist während des Zeitraums
+nach den Sätzen 2 oder 3 entsprechend anzuwenden.
+
+(7) Geschäftsführende Direktoren berichten dem Verwaltungsrat
 entsprechend § 90 des Aktiengesetzes, sofern die Satzung oder die
 Geschäftsordnung nichts anderes vorsieht.
 
-(7) Die §§ 87 bis 89 des Aktiengesetzes gelten entsprechend.
+(8) Die §§ 87 bis 89 des Aktiengesetzes gelten entsprechend.
 
-(8) Für Sorgfaltspflicht und Verantwortlichkeit der geschäftsführenden
+(9) Für Sorgfaltspflicht und Verantwortlichkeit der geschäftsführenden
 Direktoren gilt § 93 des Aktiengesetzes entsprechend.
 
-(9) Die Vorschriften über die geschäftsführenden Direktoren gelten
+(10) Die Vorschriften über die geschäftsführenden Direktoren gelten
 auch für ihre Stellvertreter.
 
 
@@ -1147,14 +1263,98 @@ nicht genügt, so hat das Gericht den Mangel der Satzung festzustellen.
 getroffen wird, findet die Beschwerde statt.
 
 
+## Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes
+
+
+
+### § 52a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+
+(1) Eine SE mit Mehrheitsbeteiligung des Bundes ist eine SE mit Sitz
+im Inland,
+
+1.  deren Anteile zur Mehrheit vom Bund gehalten werden oder
+
+
+2.  die eine große Kapitalgesellschaft (§ 267 Absatz 3 des
+    Handelsgesetzbuchs) ist und deren Anteile zur Mehrheit von
+    Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
+    vom Bund gehalten werden, oder
+
+
+3.  die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer hat
+    und deren Anteile zur Mehrheit von Gesellschaften gehalten werden,
+    deren Anteile ihrerseits zur Mehrheit
+
+    a)  vom Bund gehalten werden oder
+
+
+    b)  von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften
+        an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen,
+        deren Anteile zur Mehrheit vom Bund gehalten werden.
+
+
+
+
+
+
+Anteile, die über ein Sondervermögen des Bundes gehalten werden,
+bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche
+Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
+
+(2) Für eine SE mit Mehrheitsbeteiligung des Bundes gelten
+
+1.  § 16 Absatz 2 unabhängig von einer Börsennotierung und der Zahl der
+    Anteilseigner- und Arbeitnehmervertreter im Aufsichtsorgan, wenn das
+    Leitungsorgan aus mehr als zwei Personen besteht,
+
+
+2.  § 17 Absatz 2 unabhängig von einer Börsennotierung und der Zahl der
+    Anteilseigner- und Arbeitnehmervertreter im Aufsichtsorgan,
+
+
+3.  § 24 Absatz 3 unabhängig von einer Börsennotierung und der Zahl der
+    Anteilseigner- und Arbeitnehmervertreter im Verwaltungsrat sowie
+
+
+4.  § 40 Absatz 1a unabhängig von einer Börsennotierung und der Zahl der
+    Anteilseigner- und Arbeitnehmervertreter im Verwaltungsrat, wenn mehr
+    als zwei geschäftsführende Direktoren bestellt sind.
+
+
+
+
+(3) Das Beteiligungsgebot nach Absatz 2 Nummer 1 ist bei der
+Bestellung einzelner oder mehrerer Mitglieder des Leitungsorgans, das
+Beteiligungsgebot nach Absatz 2 Nummer 4 ist bei der Bestellung
+einzelner oder mehrerer geschäftsführender Direktoren ab dem 1. August
+2022 zu beachten. Bestehende Mandate können bis zu ihrem vorgesehenen
+Ende wahrgenommen werden.
+
+(4) Der jeweilige Mindestanteil nach Absatz 2 Nummer 2 und 3 ist bei
+erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab
+dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden
+Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze
+mit Personen des unterrepräsentierten Geschlechts zu besetzen, um
+dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu
+ihrem vorgesehenen Ende wahrgenommen werden.
+
+(5) Die Länder können die Regelungen des Absatzes 2 durch Landesgesetz
+auf Gesellschaften erstrecken, an denen eine Mehrheitsbeteiligung
+eines Landes entsprechend Absatz 1 besteht.
+
+
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
+
+
+
+## Abschnitt 7 - Straf- und Bußgeldvorschriften
 
 
 
 ### § 53 Straf- und Bußgeldvorschriften
 
 (1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des
-§ 400 und der §§ 402 bis 404 des Aktiengesetzes, der §§ 331 bis 333
+§ 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333
 des Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes
 sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des §
 334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des
@@ -1177,7 +1377,10 @@ Fällen der Nummern 1 und 3 für die Mitglieder des Leitungsorgans und
 in den Fällen der Nummer 2 für die Mitglieder des Aufsichtsorgans. Bei
 der SE mit monistischem System gelten sie in den Fällen der Nummern 1
 und 3 für die geschäftsführenden Direktoren und in den Fällen der
-Nummer 2 für die Mitglieder des Verwaltungsrats.
+Nummer 2 für die Mitglieder des Verwaltungsrats. § 407a des
+Aktiengesetzes gilt bei Anwendung der Strafvorschriften des § 404a des
+Aktiengesetzes sowie der Bußgeldvorschriften des § 405 Absatz 3b und
+3c des Aktiengesetzes entsprechend.
 
 (2) Die Strafvorschriften des § 399 Abs. 1 Nr. 6 und des § 401 des
 Aktiengesetzes gelten im Sinne des Artikels 9 Abs. 1 Buchstabe c
@@ -1232,6 +1435,10 @@ die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 
+## Abschnitt 8 - Schlussbestimmungen
+
+
+
 ### § 54 Übergangsvorschrift zum Bilanzrechtsmodernisierungsgesetz
 
 § 27 Abs. 1 Satz 4 und § 34 Abs. 4 Satz 2 und 3 in der Fassung des
@@ -1245,4 +1452,30 @@ und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 In den Fällen des § 6 Abs. 3 Satz 1 und des § 7 Abs. 2 Satz 2 bleibt
 es für die Zeit vor dem 1. September 2009 bei dem bis dahin geltenden
 Zinssatz.
+
+
+### § 56 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 27 Absatz 1 Satz 4 und § 34 Absatz 4 Satz 5 jeweils in der Fassung
+des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+müssen so lange nicht angewandt werden, wie alle Mitglieder des
+Verwaltungsrates und des Prüfungsausschusses vor dem 17. Juni 2016
+bestellt worden sind.
+
+
+### § 57 Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+(1) § 53 in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf
+alle gesetzlichen vorgeschriebenen Abschlussprüfungen für das nach dem
+31\. Dezember 2021 beginnende Geschäftsjahr anzuwenden. § 53 in der bis
+einschließlich 30. Juni 2021 geltenden Fassung ist letztmals
+anzuwenden auf alle gesetzlich vorgeschriebenen Abschlussprüfungen für
+das vor dem 1. Januar 2022 beginnende Geschäftsjahr.
+
+(2) § 34 Absatz 4 Satz 5 und Absatz 5 Satz 1, 3, 4 und 5 in der ab dem
+1\. Juli 2021 geltenden Fassung ist erstmals ab dem 1. Januar 2022
+anzuwenden. § 34 Absatz 5 Satz 2 in der ab dem 1. Juli 2021 geltenden
+Fassung muss so lange nicht angewandt werden, wie alle Mitglieder des
+Verwaltungsrats und des Prüfungsausschusses vor dem 1. Juli 2021
+bestellt worden sind.
 

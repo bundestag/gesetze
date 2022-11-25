@@ -16,7 +16,19 @@ Fundstelle
 :   RGBl: 1892, 477
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 51 G v. 22.12.2011 I 3044
+:   Art. 15 Abs. 23 G v. 4.5.2021 I 882
+
+Änderung durch
+:   Art. 18 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 10 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 20 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 64 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
@@ -81,7 +93,9 @@ Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
 fortgeführt wird, die Bezeichnung "Gesellschaft mit beschränkter
 Haftung" oder eine allgemein verständliche Abkürzung dieser
-Bezeichnung enthalten.
+Bezeichnung enthalten. Verfolgt die Gesellschaft ausschließlich und
+unmittelbar steuerbegünstigte Zwecke nach den §§ 51 bis 68 der
+Abgabenordnung kann die Abkürzung „gGmbH“ lauten.
 
 
 ### § 4a Sitz der Gesellschaft
@@ -254,10 +268,8 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
     Gesellschaftsvertrag bestellt sind,
 
 
-3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter, aus
-    welcher Name, Vorname, Geburtsdatum und Wohnort der letzteren sowie
-    die Nennbeträge und die laufenden Nummern der von einem jeden
-    derselben übernommenen Geschäftsanteile ersichtlich sind,
+3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter nach
+    den Vorgaben des § 40,
 
 
 4.  im Fall des § 5 Abs. 4 die Verträge, die den Festsetzungen zugrunde
@@ -746,11 +758,9 @@ festgesetzt werden.
 Gewinnverteilungsabreden nach Absatz 3 Satz 2 können die
 Geschäftsführer mit Zustimmung des Aufsichtsrats oder der
 Gesellschafter den Eigenkapitalanteil von Wertaufholungen bei
-Vermögensgegenständen des Anlage- und Umlaufvermögens und von bei der
-steuerrechtlichen Gewinnermittlung gebildeten Passivposten, die nicht
-im Sonderposten mit Rücklageanteil ausgewiesen werden dürfen, in
-andere Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist
-entweder in der Bilanz gesondert auszuweisen oder im Anhang anzugeben.
+Vermögensgegenständen des Anlage- und Umlaufvermögens in andere
+Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist in der
+Bilanz gesondert auszuweisen; er kann auch im Anhang angegeben werden.
 
 
 ### § 30 Kapitalerhaltung
@@ -937,8 +947,22 @@ sich die ausländische Gesellschaft in Liquidation, so sind auch diese
 Tatsache sowie alle Liquidatoren anzugeben.
 
 
-### § 36 (weggefallen)
+### § 36 Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern
 
+Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung
+unterliegt, legen für den Frauenanteil in den beiden Führungsebenen
+unterhalb der Geschäftsführer Zielgrößen fest. Die Zielgrößen müssen
+den angestrebten Frauenanteil an der jeweiligen Führungsebene
+beschreiben und bei Angaben in Prozent vollen Personenzahlen
+entsprechen. Legen die Geschäftsführer für den Frauenanteil auf einer
+der Führungsebenen die Zielgröße Null fest, so haben sie diesen
+Beschluss klar und verständlich zu begründen. Die Begründung muss
+ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde
+liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30
+Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht
+mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der
+Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als
+fünf Jahre sein.
 
 
 ### § 37 Beschränkungen der Vertretungsbefugnis
@@ -969,6 +993,34 @@ den Fall beschränkt werden, daß wichtige Gründe denselben notwendig
 machen. Als solche Gründe sind insbesondere grobe Pflichtverletzung
 oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung anzusehen.
 
+(3) Der Geschäftsführer hat das Recht, um den Widerruf seiner
+Bestellung zu ersuchen, wenn er wegen Mutterschutz, Elternzeit, der
+Pflege eines Familienangehörigen oder Krankheit seinen mit der
+Bestellung verbundenen Pflichten vorübergehend nicht nachkommen kann
+und mindestens ein weiterer Geschäftsführer bestellt ist. Macht ein
+Geschäftsführer von diesem Recht Gebrauch, muss die Bestellung dieses
+Geschäftsführers
+
+1.  widerrufen und dabei die Wiederbestellung nach Ablauf des Zeitraums
+    der in § 3 Absatz 1 und 2 des Mutterschutzgesetzes genannten
+    Schutzfristen zugesichert werden,
+
+
+2.  in den Fällen der Elternzeit, der Pflege eines Familienangehörigen
+    oder der Krankheit widerrufen und dabei die Wiederbestellung nach
+    einem Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des
+    Geschäftsführers zugesichert werden; von dem Widerruf der Bestellung
+    kann abgesehen werden, wenn ein wichtiger Grund vorliegt.
+
+
+
+In den in Satz 2 Nummer 2 genannten Fällen kann die Bestellung des
+Geschäftsführers auf dessen Verlangen für einen Zeitraum von bis zu
+zwölf Monaten widerrufen werden. § 77a Absatz 2 findet auf
+Bestellungen während des Zeitraums nach den Sätzen 2 oder 3 keine
+Anwendung, wenn das Beteiligungsgebot ohne den Widerruf eingehalten
+wäre.
+
 
 ### § 39 Anmeldung der Geschäftsführer
 
@@ -989,16 +1041,26 @@ sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 (4) (weggefallen)
 
 
-### § 40 Liste der Gesellschafter
+### § 40 Liste der Gesellschafter, Verordnungsermächtigung
 
 (1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder
 Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer
 Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter
 zum Handelsregister einzureichen, aus welcher Name, Vorname,
-Geburtsdatum und Wohnort der letzteren sowie die Nennbeträge und die
+Geburtsdatum und Wohnort derselben sowie die Nennbeträge und die
 laufenden Nummern der von einem jeden derselben übernommenen
-Geschäftsanteile zu entnehmen sind. Die Änderung der Liste durch die
-Geschäftsführer erfolgt auf Mitteilung und Nachweis.
+Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines
+Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am
+Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine
+Gesellschaft, so sind bei eingetragenen Gesellschaften in die Liste
+deren Firma, Satzungssitz, zuständiges Register und Registernummer
+aufzunehmen, bei nicht eingetragenen Gesellschaften deren jeweilige
+Gesellschafter unter einer zusammenfassenden Bezeichnung mit Name,
+Vorname, Geburtsdatum und Wohnort. Hält ein Gesellschafter mehr als
+einen Geschäftsanteil, ist in der Liste der Gesellschafter zudem der
+Gesamtumfang der Beteiligung am Stammkapital als Prozentsatz gesondert
+anzugeben. Die Änderung der Liste durch die Geschäftsführer erfolgt
+auf Mitteilung und Nachweis.
 
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt,
 hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf
@@ -1015,6 +1077,22 @@ Inhalt der zuletzt im Handelsregister aufgenommenen Liste
 verletzen, haften denjenigen, deren Beteiligung sich geändert hat, und
 den Gläubigern der Gesellschaft für den daraus entstandenen Schaden
 als Gesamtschuldner.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Bestimmungen über die Ausgestaltung der Gesellschafterliste zu
+treffen.
+
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass bestimmte in der Liste der Gesellschafter enthaltene
+Angaben in strukturierter maschinenlesbarer Form an das
+Handelsregister zu übermitteln sind, soweit nicht durch das
+Bundesministerium der Justiz und für Verbraucherschutz nach § 387
+Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende
+Vorschriften erlassen werden. Die Landesregierungen können die
+Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
+übertragen.
 
 
 ### § 41 Buchführung
@@ -1279,7 +1357,7 @@ abgewichen werden.
 ### § 51b Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht
 
 Für die gerichtliche Entscheidung über das Auskunfts- und
-Einsichtsrecht findet § 132 Abs. 1, 3 bis 5 des Aktiengesetzes
+Einsichtsrecht findet § 132 Abs. 1, 3 und 4 des Aktiengesetzes
 entsprechende Anwendung. Antragsberechtigt ist jeder Gesellschafter,
 dem die verlangte Auskunft nicht gegeben oder die verlangte Einsicht
 nicht gestattet worden ist.
@@ -1290,12 +1368,32 @@ nicht gestattet worden ist.
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen,
 so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und
 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§
-105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung
-mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3
-Satz 2, §§ 170, 171 des Aktiengesetzes entsprechend anzuwenden, soweit
-nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
+105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis 114, 116 des
+Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des
+Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des
+Aktiengesetzes entsprechend anzuwenden, soweit nicht im
+Gesellschaftsvertrag ein anderes bestimmt ist.
 
-(2) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der
+(2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu
+bestellen, so legt die Gesellschafterversammlung für den Frauenanteil
+im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei
+denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem
+Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem
+Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt
+der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den
+Geschäftsführern Zielgrößen fest. Die Zielgrößen müssen den
+angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben und
+bei Angaben in Prozent vollen Personenzahlen entsprechen. Wird für den
+Aufsichtsrat oder unter den Geschäftsführern die Zielgröße Null
+festgelegt, so ist dieser Beschluss klar und verständlich zu
+begründen. Die Begründung muss ausführlich die Erwägungen darlegen,
+die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei
+Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen
+den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig
+sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen
+dürfen jeweils nicht länger als fünf Jahre sein.
+
+(3) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der
 Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3
 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei
 jeder Änderung in den Personen der Aufsichtsratsmitglieder
@@ -1305,7 +1403,7 @@ ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des
 Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die
 Liste zum Handelsregister eingereicht worden ist.
 
-(3) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats
+(4) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats
 wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 
 
@@ -1520,13 +1618,20 @@ ohne diese Bestätigung der Prüfer beschlossen werden.
 (3) Die Prüfer werden von den Gesellschaftern gewählt; falls nicht
 andere Prüfer gewählt werden, gelten die Prüfer als gewählt, die für
 die Prüfung des letzten Jahresabschlusses von den Gesellschaftern
-gewählt oder vom Gericht bestellt worden sind. Im übrigen sind, soweit
+gewählt oder vom Gericht bestellt worden sind. Im Übrigen sind, soweit
 sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt,
-§ 318 Abs. 1 Satz 2, § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1,
-§ 320 Abs. 1 Satz 2, Abs. 2 und die §§ 321 und 323 des
-Handelsgesetzbuchs anzuwenden. Bei Gesellschaften, die nicht große im
-Sinne des § 267 Abs. 3 des Handelsgesetzbuchs sind, können auch
-vereidigte Buchprüfer zu Prüfern bestellt werden.
+§ 318 Absatz 1 Satz 2, § 319 Absatz 1 bis 4, § 319b Absatz 1, § 320
+Absatz 1 Satz 2 und Absatz 2, die §§ 321 und 323 des
+Handelsgesetzbuchs sowie bei Gesellschaften, die Unternehmen von
+öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind,
+auch Artikel 5 der Verordnung (EU) Nr. 537/2014 des Europäischen
+Parlaments und des Rates vom 16. April 2014 über spezifische
+Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem
+Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
+(ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66)
+anzuwenden. Bei Gesellschaften, die nicht große im Sinne des § 267
+Abs. 3 des Handelsgesetzbuchs sind, können auch vereidigte Buchprüfer
+zu Prüfern bestellt werden.
 
 
 ### § 57g Vorherige Bekanntgabe des Jahresabschlusses
@@ -1947,18 +2052,8 @@ den für streitige Verwaltungssachen ... geltenden Vorschriften.
 
 
 
-### § 64 Haftung für Zahlungen nach Zahlungsunfähigkeit oder Überschuldung
+### § 64 (weggefallen)
 
-Die Geschäftsführer sind der Gesellschaft zum Ersatz von Zahlungen
-verpflichtet, die nach Eintritt der Zahlungsunfähigkeit der
-Gesellschaft oder nach Feststellung ihrer Überschuldung geleistet
-werden. Dies gilt nicht von Zahlungen, die auch nach diesem Zeitpunkt
-mit der Sorgfalt eines ordentlichen Geschäftsmanns vereinbar sind. Die
-gleiche Verpflichtung trifft die Geschäftsführer für Zahlungen an
-Gesellschafter, soweit diese zur Zahlungsunfähigkeit der Gesellschaft
-führen mussten, es sei denn, dies war auch bei Beachtung der in Satz 2
-bezeichneten Sorgfalt nicht erkennbar. Auf den Ersatzanspruch finden
-die Bestimmungen in § 43 Abs. 3 und 4 entsprechende Anwendung.
 
 
 ### § 65 Anmeldung und Eintragung der Auflösung
@@ -2089,8 +2184,8 @@ im Interesse der Gläubiger und der Gesellschafter nicht geboten
 erscheint. Gegen die Entscheidung ist die Beschwerde zulässig.
 
 (4) Im übrigen haben sie die aus §§ 37, 41, 43 Abs. 1, 2 und 4, § 49
-Abs. 1 und 2, § 64 sich ergebenden Rechte und Pflichten der
-Geschäftsführer.
+Abs. 1 und 2 und aus § 15b der Insolvenzordnung sich ergebenden Rechte
+und Pflichten der Geschäftsführer.
 
 (5) Auf den Geschäftsbriefen ist anzugeben, dass sich die Gesellschaft
 in Liquidation befindet; im Übrigen gilt § 35a entsprechend.
@@ -2178,7 +2273,74 @@ leisten, soweit es zur Erfüllung der eingegangenen Verbindlichkeiten
 erforderlich ist.
 
 
+## Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes
+
+
+
+### § 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
+
+(1) Gesellschaften mit beschränkter Haftung mit Mehrheitsbeteiligung
+des Bundes sind Gesellschaften mit beschränkter Haftung mit Sitz im
+Inland,
+
+1.  deren Anteile zur Mehrheit vom Bund gehalten werden oder
+
+
+2.  die große Kapitalgesellschaften (§ 267 Absatz 3 des
+    Handelsgesetzbuchs) sind und deren Anteile zur Mehrheit von
+    Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
+    vom Bund gehalten werden, oder
+
+
+3.  die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer haben
+    und deren Anteile zur Mehrheit von Gesellschaften gehalten werden,
+    deren Anteile ihrerseits zur Mehrheit
+
+    a)  vom Bund gehalten werden oder
+
+
+    b)  von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften
+        an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen,
+        deren Anteile zur Mehrheit vom Bund gehalten werden.
+
+
+
+
+
+
+Anteile, die über ein Sondervermögen des Bundes gehalten werden,
+bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche
+Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
+
+(2) Hat eine Gesellschaft mit beschränkter Haftung mit
+Mehrheitsbeteiligung des Bundes mehr als zwei Geschäftsführer, muss
+mindestens ein Geschäftsführer eine Frau und mindestens ein
+Geschäftsführer ein Mann sein. Eine Bestellung eines Geschäftsführers
+unter Verstoß gegen das Beteiligungsgebot ist nichtig. Gilt das
+Beteiligungsgebot nach Satz 1, entfällt eine Pflicht zur
+Zielgrößensetzung für die Geschäftsführung.
+
+(3) Für die Zusammensetzung des Aufsichtsrats einer Gesellschaft mit
+beschränkter Haftung mit Mehrheitsbeteiligung des Bundes gilt
+unabhängig von einer Geltung des Mitbestimmungsgesetzes, des Montan-
+Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes § 96
+Absatz 2 des Aktiengesetzes entsprechend. Eine Pflicht zur
+Zielgrößensetzung besteht insoweit nicht.
+
+(4) Die Länder können die Vorgaben der Absätze 2 und 3 durch
+Landesgesetz auf Gesellschaften mit beschränkter Haftung erstrecken,
+an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1
+besteht. In diesem Fall gelten für Gesellschaften mit
+Mehrheitsbeteiligung eines Landes, die der Mitbestimmung unterliegen,
+die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in
+Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
+
+
 ## Abschnitt 6 - Ordnungs-, Straf- und Bußgeldvorschriften
+
+
+
+## Abschnitt 7 - Ordnungs-, Straf- und Bußgeldvorschriften
 
 
 
@@ -2299,6 +2461,93 @@ Aufsichtsrat und, wenn kein Aufsichtsrat vorhanden ist, von den
 Gesellschaftern bestellte besondere Vertreter antragsberechtigt. Hat
 ein Mitglied des Aufsichtsrats die Tat begangen, so sind die
 Geschäftsführer oder die Liquidatoren antragsberechtigt.
+
+
+### § 86 Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines
+Prüfungsausschusses einer Gesellschaft, die ein Unternehmen von
+öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des
+Handelsgesetzbuchs ist,
+
+1.  eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung begeht und dafür
+    einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung beharrlich
+    wiederholt.
+
+
+
+
+
+### § 87 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder
+als Mitglied eines Prüfungsausschusses einer Gesellschaft, die ein
+Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1
+oder 2 des Handelsgesetzbuchs ist,
+
+1.  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
+    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
+    5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der
+    Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über spezifische Anforderungen an die
+    Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
+    Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
+    27\.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+
+2.  eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer
+    Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16
+    Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht
+    entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3
+    Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen
+    ist.
+
+
+
+
+(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die
+ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1
+oder 2 des Handelsgesetzbuchs ist, den Gesellschaftern einen Vorschlag
+für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
+Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
+entspricht.
+
+(3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss bestellt hat, einer in Absatz 2 genannten
+Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung
+eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der
+den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder
+Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014
+nicht entspricht.
+
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+fünfhunderttausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist bei einer Gesellschaft, die ein
+Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 2 des
+Handelsgesetzbuchs ist, die Bundesanstalt für
+Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+
+
+### § 88 Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 87 Absatz 5 zuständige Verwaltungsbehörde übermittelt
+der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
+Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 87 Absatz 1 bis 3.
+
+(2) In Strafverfahren, die eine Straftat nach § 86 zum Gegenstand
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
+öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
+Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
+das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### Anlage (zu § 2 Abs. 1a)

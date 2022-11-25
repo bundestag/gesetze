@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1986, 935
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.10.2010 I 1422
+:   Art. 4 G v. 8.7.2019 I 1048
 
 
 ## Eingangsformel
@@ -112,8 +112,8 @@ eine weitere Hin- und Rückreise geleistet werden.
 ## § 5 Aufwendungen für die Krankenversicherung
 
 Zu den Aufwendungen der Krankenversicherung des Auszubildenden wird
-monatlich ein Zuschlag in Höhe des Betrages nach § 13a Abs. 1 des
-Gesetzes geleistet, wenn der Auszubildende das Bestehen eines
+monatlich ein Zuschlag in Höhe des Betrages nach § 13a Absatz 1 Satz 1
+des Gesetzes geleistet, wenn der Auszubildende das Bestehen eines
 Krankenversicherungsschutzes nachweist.
 
 

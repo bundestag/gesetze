@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.7.1971 I 1166;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.10.2008 I 2018
+:   Art. 7 V v. 19.6.2020 I 1328
 
 
 ## § 1
@@ -94,6 +94,95 @@ Erklärungen abgeben.
 (3) Unberührt bleibt die gesetzlich begründete Pflicht, Straftaten
 anzuzeigen und bei Gefährdung der freiheitlichen demokratischen
 Grundordnung für deren Erhaltung einzutreten.
+
+
+## § 6a
+
+(1) Mitglieder der Bundesregierung, die beabsichtigen, innerhalb der
+ersten 18 Monate nach ihrem Ausscheiden aus dem Amt eine
+Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des
+öffentlichen Dienstes aufzunehmen, haben dies der Bundesregierung
+schriftlich anzuzeigen. Satz 1 gilt für ehemalige Mitglieder der
+Bundesregierung entsprechend.
+
+(2) Die Anzeigepflicht entsteht, sobald ein Mitglied oder ehemaliges
+Mitglied der Bundesregierung mit Vorbereitungen für die Aufnahme einer
+Beschäftigung beginnt oder ihm eine Beschäftigung in Aussicht gestellt
+wird. Die Anzeige soll mindestens einen Monat vor Aufnahme der
+Tätigkeit erfolgen. Wird die Frist nicht eingehalten, kann die
+Bundesregierung die Aufnahme der Tätigkeit bis zur Dauer von höchstens
+einem Monat vorläufig untersagen.
+
+
+## § 6b
+
+(1) Die Bundesregierung kann die Erwerbstätigkeit oder sonstige
+Beschäftigung für die Zeit der ersten 18 Monate nach dem Ausscheiden
+aus dem Amt ganz oder teilweise untersagen, soweit zu besorgen ist,
+dass durch die Beschäftigung öffentliche Interessen beeinträchtigt
+werden. Von einer Beeinträchtigung ist insbesondere dann auszugehen,
+wenn die angestrebte Beschäftigung
+
+1.  in Angelegenheiten oder Bereichen ausgeübt werden soll, in denen das
+    ehemalige Mitglied der Bundesregierung während seiner Amtszeit tätig
+    war, oder
+
+
+2.  das Vertrauen der Allgemeinheit in die Integrität der Bundesregierung
+    beeinträchtigen kann.
+
+
+
+Die Untersagung ist zu begründen.
+
+(2) Eine Untersagung soll in der Regel die Dauer von einem Jahr nicht
+überschreiten. In Fällen, in denen öffentliche Interessen schwer
+beeinträchtigt wären, kann eine Untersagung für die Dauer von bis zu
+18 Monaten ausgesprochen werden.
+
+(3) Die Bundesregierung trifft ihre Entscheidung über eine Untersagung
+auf Empfehlung eines aus drei Mitgliedern bestehenden beratenden
+Gremiums. Das beratende Gremium hat seine Empfehlung zu begründen. Es
+gibt seine Empfehlung nicht öffentlich ab.
+
+(4) Die Entscheidung ist unter Mitteilung der Empfehlung des
+beratenden Gremiums zu veröffentlichen.
+
+
+## § 6c
+
+(1) Die Mitglieder des beratenden Gremiums sollen Funktionen an der
+Spitze staatlicher oder gesellschaftlicher Institutionen wahrgenommen
+haben oder über Erfahrungen in einem wichtigen politischen Amt
+verfügen. Sie werden auf Vorschlag der Bundesregierung jeweils zu
+Beginn einer Wahlperiode des Deutschen Bundestages vom
+Bundespräsidenten berufen und sind ehrenamtlich tätig.
+
+(2) Die Mitglieder des beratenden Gremiums sind auch nach ihrem
+Ausscheiden zur Verschwiegenheit über die ihnen bei oder bei
+Gelegenheit ihrer Tätigkeit bekannt gewordenen Angelegenheiten
+verpflichtet.
+
+(3) Die Mitglieder des beratenden Gremiums erhalten eine pauschale
+Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom Chef
+des Bundeskanzleramtes im Einvernehmen mit dem Bundesministerium des
+Innern, für Bau und Heimat festgesetzt.
+
+(4) Die Mitglieder des beratenden Gremiums üben ihre Tätigkeit so
+lange aus, bis neue Mitglieder nach Absatz 1 Satz 2 berufen worden
+sind. Wiederberufungen sind zulässig.
+
+(5) Für die Erfüllung seiner Aufgabe ist dem beratenden Gremium das
+notwendige Personal und die notwendige Sachausstattung zur Verfügung
+zu stellen.
+
+
+## § 6d
+
+Wird die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung
+nach § 6b Absatz 1 Satz 1 untersagt, so wird das Übergangsgeld für die
+Dauer der Untersagung gewährt, sofern sich nicht aus § 14 Absatz 2
+Satz 1 ein weitergehender Anspruch ergibt.
 
 
 ## § 7
@@ -240,8 +329,9 @@ erhalten sie Tagegelder und Entschädigungen für Reisekosten.
 
 (5) Die weiteren Bestimmungen über Amtswohnungen,
 Umzugskostenentschädigung, Tagegelder und Entschädigung für
-Reisekosten erläßt der Bundesminister des Innern nach gutachtlicher
-Äußerung des Präsidenten des Bundesrechnungshofes.
+Reisekosten erläßt das Bundesministerium des Innern, für Bau und
+Heimat nach gutachtlicher Äußerung des Präsidenten des
+Bundesrechnungshofes.
 
 (6) Mitglieder der Bundesregierung und Versorgungsempfänger nach
 diesem Gesetz erhalten, soweit kein Anspruch nach § 27 des
@@ -649,8 +739,9 @@ Anspruch auf Ruhegehalt nach diesem Gesetz nicht gegeben war.
 
 ## § 22
 
-Der Bundesminister des Innern wird ermächtigt, die zur Durchführung
-dieses Gesetzes erforderlichen Verwaltungsvorschriften zu erlassen.
+Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
+die zur Durchführung dieses Gesetzes erforderlichen
+Verwaltungsvorschriften zu erlassen.
 
 
 ## § 23

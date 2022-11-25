@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 1448
 
+Geändert durch
+:   Art. 2 G v. 31.7.2016 I 1914
+
 
 
 ## § 1 Errichtung und Rechtsform
@@ -48,8 +51,8 @@ fördern:
     Weiterbildungsmaßnahmen;
 
 
--   Bewahrung und Sicherung national wertvoller Kulturgüter im Hinblick
-    auf schädliche Umwelteinflüsse (Modellvorhaben).
+-   Bewahrung und Sicherung nationalen Kulturgutes im Hinblick auf
+    schädliche Umwelteinflüsse (Modellvorhaben).
 
 
 

@@ -18,7 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 17.12.2009 I 3886;
 
-Stand: zuletzt geändert Art. 13 Abs. 5 G v. 12.4.2012 I 579
+Stand: zuletzt geändert Art. 109 G v. 20.11.2019 I 1626 mWv 26.11.2019
 
 ## Teil 1 - Allgemeine Vorschrift
 
@@ -152,8 +152,8 @@ Erhebungseinheiten der Bodennutzungshaupterhebung sind:
 (1) Die Bodennutzungshaupterhebung wird in der Zeit von Januar bis Mai
 durchgeführt:
 
-1.  allgemein in den Jahren 2010 und 2016; hierbei werden Merkmale über
-    die Nutzung der Flächen erhoben;
+1.  allgemein im Jahr 2020; hierbei werden Merkmale über die Nutzung der
+    Flächen erhoben;
 
 
 2.  bei höchstens 80 000 Erhebungseinheiten in jedem Jahr mit Ausnahme der
@@ -167,8 +167,8 @@ durchgeführt:
 (2) Die Erhebung nach Absatz 1 Nummer 2 wird in den Ländern Berlin,
 Bremen und Hamburg nicht durchgeführt.
 
-(3) Die Erhebung nach Absatz 1 ist in den Jahren 2010, 2013 und 2016
-Bestandteil der Agrarstrukturerhebung.
+(3) Die Erhebung nach Absatz 1 ist im Jahr 2020 Bestandteil der
+Agrarstrukturerhebung.
 
 
 ##### § 8 Erhebungsmerkmale und Berichtszeit
@@ -200,8 +200,8 @@ Schutzabdeckungen betragen.
 
 ##### § 10 Erhebungsart, Periodizität, Erhebungszeitraum
 
-Die Zierpflanzenerhebung wird allgemein alle vier Jahre, beginnend
-2012, in der Zeit von Juli bis Oktober durchgeführt.
+Die Zierpflanzenerhebung wird allgemein im Jahr 2012, im Jahr 2017 und
+dann alle vier Jahre in der Zeit von Juli bis Oktober durchgeführt.
 
 
 ##### § 11 Erhebungsmerkmale und Berichtszeit
@@ -359,9 +359,10 @@ Hektar; nicht mit einzubeziehen sind Pflanzgärten in Forstbetrieben.
 
 ##### § 13 Erhebungsart, Periodizität, Erhebungszeitraum, Merkmale
 
-Die Baumschulerhebung wird allgemein alle vier Jahre, beginnend 2004,
-in der Zeit von Juli bis August durchgeführt. Es werden Merkmale über
-die Nutzung der Baumschulflächen erhoben.
+Die Baumschulerhebung wird allgemein in den Jahren 2004, 2008, 2012,
+2017 und dann alle vier Jahre in der Zeit von Juli bis August
+durchgeführt. Es werden Merkmale über die Nutzung der Baumschulflächen
+erhoben.
 
 
 ##### § 14 Erhebungsmerkmale und Berichtszeitpunkt
@@ -393,11 +394,20 @@ Die Baumobstanbauerhebung wird allgemein alle fünf Jahre, beginnend
 
 ##### § 17 Erhebungsmerkmale und Berichtszeitpunkt
 
-(1) Erhebungsmerkmale der Baumobstanbauerhebung sind die Gesamtfläche
-des Baumobstanbaus sowie die Obstarten, die Obstsorten, die
-Anbausysteme, die Pflanz- und Umveredelungszeitpunkte und die
-Verwendungszwecke des Obstes jeweils nach der Fläche und der Zahl der
-Bäume.
+(1) Erhebungsmerkmale der Baumobstanbauerhebung sind:
+
+1.  die Gesamtfläche des Baumobstanbaus,
+
+
+2.  die Obstarten nach der Fläche und dem Verwendungszweck des Obstes
+    sowie für Tafeläpfel und Tafelbirnen zusätzlich die Sorten, die
+    Pflanzzeitpunkte und die Zahl der Bäume jeweils nach der Fläche,
+
+
+3.  die Angabe zur ökologischen Wirtschaftsweise.
+
+
+
 
 (2) Der Berichtszeitpunkt ist der Tag der ersten Aufforderung zur
 Auskunftserteilung.
@@ -493,8 +503,8 @@ durchgeführt:
 
 
 2.  werden die Merkmale über die Bestände an Rindern nach § 20a erhoben,
-    wird die Erhebung zum jeweiligen Berichtszeitpunkt bei höchstens 20
-    000 Erhebungseinheiten mit Schweinen und bei höchstens 5 000
+    wird die Erhebung zum jeweiligen Berichtszeitpunkt bei höchstens
+    20 000 Erhebungseinheiten mit Schweinen und bei höchstens 5 000
     Erhebungseinheiten mit Schafen durchgeführt.
 
 
@@ -567,37 +577,21 @@ Anwendung:
 
 
 
-##### § 24 Einzelerhebungen und Periodizität
+##### § 24 Einzelerhebungen
 
 (1) Die Strukturerhebungen umfassen folgende Einzelerhebungen:
 
-1.  Agrarstrukturerhebung (§ 26),
+1.  Agrarstrukturerhebung (§§ 25 bis 28),
 
 
-2.  Landwirtschaftszählung:
-
-    a)  Haupterhebung (§ 29),
-
-
-    b)  Erhebung über landwirtschaftliche Produktionsmethoden (§ 32).
+2.  Strukturerhebung der Forstbetriebe (§§ 29 bis 33).
 
 
 
 
-
-
-
-(2) Die Agrarstrukturerhebung wird in den Jahren 2010, 2013 und 2016
-durchgeführt.
-
-(3) Die Haupterhebung der Landwirtschaftszählung wird gemeinsam mit
-der Agrarstrukturerhebung im ersten Halbjahr 2010 durchgeführt.
-
-(4) Zur räumlichen Darstellung statistischer Ergebnisse dürfen die
-Angaben aus den Erhebungen nach Absatz 1 Gebietseinheiten zugeordnet
-werden, die bezogen auf eine vorgegebene Kartenprojektion
-rechtwinklig, in der Regel quadratisch, und mindestens 100 Hektar groß
-sind.
+(2) Zur räumlichen Darstellung statistischer Ergebnisse dürfen die
+Angaben aus den Erhebungen nach Absatz 1 geografischen Gitterzellen
+zugeordnet werden, die mindestens 100 Hektar groß sind.
 
 
 #### Unterabschnitt 2 - Agrarstrukturerhebung
@@ -607,87 +601,67 @@ sind.
 ##### § 25 Erhebungseinheiten
 
 Erhebungseinheiten der Agrarstrukturerhebung sind die Betriebe nach §
-91 Absatz 1a.
+91 Absatz 1a Nummer 1.
 
 
-##### § 26 Erhebungsart und Erhebungsprogramm
+##### § 26 Erhebungszeitraum
 
-(1) Die Agrarstrukturerhebung wird im Jahr 2010 allgemein
-durchgeführt, in den Jahren 2013 und 2016 als Stichprobe bei höchstens
-80 000 Erhebungseinheiten.
-
-(2) Abweichend von Absatz 1 werden
-
-1.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 1 bis 3, 5, 6 und 12
-    im Jahr 2016 allgemein erhoben,
+Die Agrarstrukturerhebung wird im ersten Halbjahr 2020 in Form einer
+Landwirtschaftszählung durchgeführt.
 
 
-2.  das Erhebungsmerkmal nach § 27 Absatz 1 Nummer 16 Buchstabe d im Jahr
-    2010 in der in Absatz 1 genannten Stichprobe erhoben,
+##### § 27 Erhebungsart und Erhebungsmerkmale
 
-
-3.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 7 im Jahr 2010 nicht
-    erhoben,
-
-
-4.  das Erhebungsmerkmal nach § 27 Absatz 1 Nummer 12 im Jahr 2013 nicht
-    erhoben,
-
-
-5.  die Erhebungsmerkmale nach § 27 Absatz 1 in den Ländern Berlin, Bremen
-    und Hamburg auch in den Jahren 2013 und 2016 allgemein erhoben.
-
-
-
-
-(3) Erhebungseinheiten, die keine der in § 91 Absatz 1a Nummer 1
-genannten Bedingungen erfüllen, werden nur für die Jahre 2010 und 2016
-in die Erhebung einbezogen. Bei ihnen werden nur die Angaben nach § 27
-Absatz 1 Nummer 1 und 2 sowie nach § 27 Absatz 1 Nummer 3 zu den
-Hauptnutzungsarten einschließlich der Flächen mit schnellwachsenden
-Baumarten erhoben.
-
-
-##### § 27 Erhebungsmerkmale und Berichtszeit
-
-(1) Erhebungsmerkmale der Agrarstrukturerhebung sind
+(1) Folgende Erhebungsmerkmale sind allgemein zu erheben:
 
 1.  der Betriebssitz unter Angabe der Lagekoordinaten,
 
 
-2.  die Rechtsstellung des Betriebsinhabers,
+2.  die landwirtschaftlich genutzten Flächen des Betriebes entsprechend
+    ihrer Zugehörigkeit zu den Kategorien in Artikel 32 Absatz 1 der
+    Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des
+    Rates vom 17. Dezember 2013 über die Förderung der ländlichen
+    Entwicklung durch den Europäischen Landwirtschaftsfonds für die
+    Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der
+    Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487) in
+    der jeweils geltenden Fassung,
 
 
-3.  die Erhebungsmerkmale der Bodennutzungshaupterhebung (§ 8 Absatz 1),
+3.  die Rechtsform des Betriebes,
 
 
-4.  zu den Flächen im Freiland:
-
-    a)  die bewässerbare Fläche,
-
-
-    b)  die bewässerte Fläche,
+4.  bei Betrieben in der Rechtsform einer juristischen Person oder einer
+    Personenhandelsgesellschaft: die Zugehörigkeit zu einer
+    Unternehmensgruppe,
 
 
+5.  die Tatsache, ob der Betrieb als Gemeinschaftslandeinheit geführt
+    wird,
 
 
+6.  die Erhebungsmerkmale der Bodennutzungshaupterhebung nach § 8 Absatz
+    1,
 
-5.  zu den Beständen
+
+7.  die bewässerbare und die bewässerte Fläche,
+
+
+8.  zu den Beständen
 
     a)  an Rindern, Schafen und Ziegen: die Zahl, das Alter, das Geschlecht
         und der Nutzungszweck der Tiere,
 
 
-    b)  an Schweinen: die Zahl der Tiere nach den Kategorien in Anhang III
-        Abschnitt III der Verordnung (EG) Nr. 1166/2008 des Europäischen
-        Parlaments und des Rates vom 19. November 2008 über die
-        Betriebsstrukturerhebungen und die Erhebung über landwirtschaftliche
-        Produktionsmethoden sowie zur Aufhebung der Verordnung (EWG) Nr.
-        571/88 des Rates (ABl. EU Nr. L 321 S. 14) in der jeweils geltenden
-        Fassung,
+    b)  an Schweinen: die Zahl der Tiere nach den Kategorien in Anhang III der
+        Verordnung (EU) 2018/1091 des Europäischen Parlaments und des Rates
+        vom 18. Juli 2018 über integrierte Statistiken zu landwirtschaftlichen
+        Betrieben und zur Aufhebung der Verordnungen (EG) Nr. 1166/2008 und
+        (EU) Nr. 1337/2011 (ABl. L 200 vom 7.8.2018, S. 1) in der jeweils
+        geltenden Fassung,
 
 
-    c)  an Geflügel: die Zahl, die Art und der Nutzungszweck der Tiere,
+    c)  an Geflügel: die Zahl der Tiere und der Haltungsplätze jeweils nach
+        Art und Nutzungszweck,
 
 
     d)  an Einhufern: die Zahl der Tiere,
@@ -696,41 +670,137 @@ Baumarten erhoben.
 
 
 
-6.  zum ökologischen Landbau: die umgestellten und in Umstellung
-    befindlichen landwirtschaftlich genutzten Flächen, die Anbauflächen
-    nach Kulturarten, Pflanzengruppen, Pflanzenarten und Nutzungszweck
-    sowie die Zahl der in die ökologische Wirtschaftsweise einbezogenen
-    Tiere nach Tierarten,
+9.  zum ökologischen Landbau:
+
+    a)  die umgestellten und in Umstellung befindlichen landwirtschaftlich
+        genutzten Flächen,
 
 
-7.
-    a)  die Ausstattung mit und
+    b)  die Anbauflächen nach Kulturarten, Kulturformen, Pflanzengruppen,
+        Pflanzenarten und Nutzungszweck,
 
 
-    b)  der überbetriebliche Einsatz von landwirtschaftlichen Maschinen,
+    c)  die Zahl der in die ökologische Wirtschaftsweise einbezogenen Tiere
+        nach den in Nummer 8 genannten Erhebungsmerkmalen,
 
 
 
 
 
-8.  die zur Erzeugung erneuerbarer Energien verwendeten Anlagen nach Art
-    und Leistung der Anlage,
+10. zum Betriebsleiter:
+
+    a)  das Geschlecht und Geburtsjahr,
 
 
-9.  zur Beschäftigung des Betriebsinhabers, seiner Familienangehörigen
-    einschließlich der Personen, die mit dem Betriebsinhaber in
-    eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft leben und
-    der im Betrieb Beschäftigten, die keine Familienangehörigen sind:
+    b)  die Betriebsinhabereigenschaft oder die Zugehörigkeit zur Familie des
+        Betriebsinhabers,
 
-    a)  beim Betriebsinhaber und seinen Familienangehörigen: das Geschlecht,
-        das Geburtsjahr, die Betriebsleitereigenschaft sowie die jeweilige
-        Arbeitszeit für landwirtschaftliche und für nicht landwirtschaftliche
+
+    c)  das Jahr, in dem die Leitung des Betriebes übernommen wurde,
+
+
+    d)  die Arbeitszeit für landwirtschaftliche Arbeiten für den Betrieb,
+
+
+    e)  die landwirtschaftliche Berufsbildung nach dem höchsten
+        Bildungsabschluss,
+
+
+    f)  die Teilnahme an einer Maßnahme der beruflichen Bildung,
+
+
+
+
+
+11. der Erhalt oder der Nichterhalt von Zahlungen nach der Verordnung (EU)
+    Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17.
+    Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber
+    landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der
+    Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr.
+    637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl.
+    L 347 vom 20.12.2013, S. 608) in der jeweils geltenden Fassung,
+
+
+12. der Erhalt oder der Nichterhalt von Zahlungen an Junglandwirte nach
+    den Artikeln 50 und 51 der Verordnung (EU) Nr. 1307/2013 oder von
+    Existenzgründungsbeihilfen an Junglandwirte nach Artikel 19 Absatz 1
+    Buchstabe a Ziffer i der Verordnung (EU) Nr. 1305/2013,
+
+
+13. zu den Eigentums- und Pachtverhältnissen an der landwirtschaftlich
+    genutzten Fläche:
+
+    a)  die Größe der selbst bewirtschafteten landwirtschaftlich genutzten
+        Fläche nach Besitzformen,
+
+
+    b)  die auf die Flächen entfallenden Pachtentgelte für gepachtete Höfe
+        nach der Größe der Fläche,
+
+
+    c)  die Pachtentgelte für gepachtete Einzelgrundstücke nach der Größe und
+        Art der Nutzung der Flächen,
+
+
+    d)  die in den letzten zwei Jahren vereinbarten Pachtentgelte für
+        gepachtete Einzelgrundstücke nach der Größe und Art der Nutzung der
+        Flächen,
+
+
+
+
+
+14. zu den sozialökonomischen Verhältnissen des Betriebsinhabers: die
+    Angabe, ob das außerbetriebliche Einkommen oder das Einkommen aus dem
+    Betrieb höher ausfallen; bei verheirateten oder in eingetragener
+    Lebenspartnerschaft oder in eheähnlicher oder
+    lebenspartnerschaftsähnlicher Gemeinschaft lebenden Betriebsinhabern
+    sind die Einkommen beider Personen zu berücksichtigen,
+
+
+15. zur Hofnachfolge:
+
+    a)  das Vorhandensein einer Vereinbarung, Absprache oder sonstigen
+        Verständigung über die Hofnachfolge,
+
+
+    b)  das Alter sowie das Geschlecht eines Hofnachfolgers,
+
+
+
+
+
+16. der unmittelbare Bezug von Beihilfen zur Förderung der ländlichen
+    Entwicklung nach Anhang II der Durchführungsverordnung (EU) 2018/1874
+    der Kommission vom 29. November 2018 zu den für 2020 gemäß der
+    Verordnung (EU) 2018/1091 des Europäischen Parlaments und des Rates
+    über integrierte Statistiken zu landwirtschaftlichen Betrieben und zur
+    Aufhebung der Verordnungen (EG) Nr. 1166/2008 und (EU) Nr. 1337/2011
+    hinsichtlich der Liste der Variablen und ihrer Beschreibung zu
+    liefernden Daten (ABl. L 306 vom 30.11.2018, S. 14) in der jeweils
+    geltenden Fassung.
+
+
+
+
+(2) Folgende Erhebungsmerkmale sind als Stichprobe bei höchstens
+80 000 Erhebungseinheiten, in den Ländern Berlin, Bremen und Hamburg
+jedoch allgemein zu erheben:
+
+1.  zu den Beschäftigungsverhältnissen, es sei denn, diese Merkmale werden
+    unter Absatz 1 Nummer 10 erhoben:
+
+    a)  beim Betriebsinhaber und seinen Familienangehörigen einschließlich der
+        Personen, die mit dem Betriebsinhaber in eheähnlicher oder
+        lebenspartnerschaftlicher Gemeinschaft leben: das Geschlecht, das
+        Geburtsjahr, die Betriebsleitereigenschaft sowie die jeweilige
+        Arbeitszeit für landwirtschaftliche und nicht landwirtschaftliche
         Arbeiten für den Betrieb sowie in anderer Erwerbstätigkeit,
 
 
     b)  bei den ständig im Betrieb Beschäftigten, die keine
         Familienangehörigen sind: das Geschlecht, das Geburtsjahr, die
-        Betriebsleitereigenschaft und die jeweilige Arbeitszeit für
+        Betriebsleitereigenschaft sowie die jeweilige Arbeitszeit für
         landwirtschaftliche und nicht landwirtschaftliche Arbeiten für den
         Betrieb,
 
@@ -743,234 +813,233 @@ Baumarten erhoben.
 
 
 
-10. zu den nicht unter Nummer 9 erfassten landwirtschaftlichen Arbeiten
-    für den Betrieb: die Arbeitszeit oder der Flächenumfang der erbrachten
-    Arbeitsleistungen,
+2.  zu den nicht unter Nummer 1 oder Absatz 1 Nummer 10 Buchstabe d
+    erfassten landwirtschaftlichen Arbeiten für den Betrieb: die
+    Arbeitszeit,
 
 
-11. zur Berufsbildung des Betriebsleiters:
-
-    a)  die landwirtschaftliche Berufsbildung nach dem höchsten
-        Bildungsabschluss,
+3.  das Vorhandensein eines Sicherheitsplans,
 
 
-    b)  die Teilnahme an einer Maßnahme der beruflichen Bildung,
+4.  zu anderen Erwerbstätigkeiten als Landwirtschaft:
+
+    a)  die Art der Tätigkeiten, die unmittelbar mit dem Betrieb in Verbindung
+        stehen,
 
 
-
-
-
-12. die Art der Gewinnermittlung,
-
-
-13. zu den sozialökonomischen Verhältnissen des Betriebsinhabers: das
-    geschätzte Verhältnis (größer/kleiner) zwischen dem außerbetrieblichen
-    Einkommen und dem Einkommen aus dem Betrieb; bei verheirateten oder in
-    eingetragener Lebenspartnerschaft oder in eheähnlicher oder
-    lebenspartnerschaftsähnlicher Gemeinschaft lebenden Betriebsinhabern
-    bezieht sich die Angabe jeweils gemeinsam auf beide Partner,
-
-
-14. zum Umsatz aus anderen Erwerbstätigkeiten als Landwirtschaft, die
-    unmittelbar mit dem Betrieb in Verbindung stehen: die Art der
-    Tätigkeit und der prozentuale Anteil des Umsatzes dieser Tätigkeiten
-    am Gesamtumsatz des Betriebs,
-
-
-15. der unmittelbare Bezug von Beihilfen zur Förderung der ländlichen
-    Entwicklung nach Anhang III Abschnitt VII der Verordnung (EG) Nr.
-    1166/2008,
-
-
-16. zu den Eigentums- und Pachtverhältnissen an der landwirtschaftlich
-    genutzten Fläche:
-
-    a)  die Größe der eigenen selbst bewirtschafteten Fläche,
-
-
-    b)  die Größe der gepachteten Flächen nach Verpächtergruppen und der
-        unentgeltlich zur Bewirtschaftung erhaltenen Flächen,
-
-
-    c)  die Pachtentgelte für nicht von Familienangehörigen, Verwandten oder
-        Verschwägerten gepachtete Höfe und Einzelgrundstücke, bei Höfen nach
-        der Größe der betroffenen Fläche, bei Einzelgrundstücken zusätzlich
-        nach der Art der Nutzung,
-
-
-    d)  die in den letzten zwei Jahren vereinbarten Pachtentgelte für nicht
-        von Familienangehörigen, Verwandten oder Verschwägerten gepachtete
-        Einzelgrundstücke nach der Art der Nutzung und der Größe der
-        betroffenen Flächen.
+    b)  die Art der Tätigkeiten in weiteren, rechtlich selbständigen,
+        landwirtschaftsnahen Gewerbebetrieben des Betriebsinhabers; bei
+        verheirateten oder in eingetragener Lebenspartnerschaft oder in
+        eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden
+        Betriebsinhabern beziehen sich die Angaben auf beide Personen,
 
 
 
 
 
+5.  der prozentuale Anteil des Umsatzes aus anderen Erwerbstätigkeiten als
+    Landwirtschaft, die unmittelbar mit dem Betrieb in Verbindung stehen,
+    am Gesamtumsatz des Betriebes,
 
 
-(2) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1
-Nummer 3 ist der in § 8 Absatz 2 geregelte Zeitraum. Der
-Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 Nummer 4, 13
-und 14 ist das dem Erhebungsjahr vorausgehende Kalenderjahr. Der
-Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1 Nummer 5 ist
-der 1. März des Erhebungsjahres. Der Berichtszeitraum für die
-Erhebungsmerkmale nach Absatz 1 Nummer 7 Buchstabe b und Nummer 11
-Buchstabe b sind die letzten zwölf Monate vor dem Tag der ersten
-Aufforderung zur Auskunftserteilung. Der Berichtszeitraum für die
-Erhebungsmerkmale nach Absatz 1 Nummer 9 und 10 sind die Monate März
-des Vorjahres bis Februar des Erhebungsjahres. Der Berichtszeitraum
-für das Erhebungsmerkmal nach Absatz 1 Nummer 15 ist ein Zeitraum von
-drei Kalenderjahren, der am 31. Dezember des Erhebungsjahres endet.
-Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 1 Nummer 16
-Buchstabe c und d ist das laufende Pachtjahr. Der Berichtszeitpunkt
-für die übrigen Erhebungsmerkmale ist der Tag der ersten Aufforderung
-zur Auskunftserteilung.
+6.  zur Weidehaltung: die Zahl der Rinder nach Nutzungszweck und
+    Weidedauer,
 
-(3) Für die Erhebung der Rinderbestände nach Absatz 1 Nummer 5
+
+7.  die Zahl der Haltungsplätze:
+
+    a)  bei Rindern nach Haltungsverfahren und Nutzungszweck der Tiere,
+
+
+    b)  bei Schweinen nach Haltungsverfahren, Art der Stallbe- und -entlüftung
+        und Nutzungszweck der Tiere,
+
+
+    c)  bei Legehennen nach Haltungsverfahren,
+
+
+
+
+
+8.  zu Wirtschaftsdüngern:
+
+    a)  die Lagerung nach Düngerform, Art des Lagers, Lagerkapazität,
+        Lagerdauer und Art der Abdeckung,
+
+
+    b)  bei festem Wirtschaftsdünger: die ausgebrachte Menge nach Düngerart
+        und nach Kulturarten, bei Ackerland zusätzlich nach bestellter und
+        unbestellter Fläche,
+
+
+    c)  bei flüssigem Wirtschaftsdünger: die ausgebrachte Menge nach
+        Düngerart, nach Ausbringungstechnik und nach Kulturarten, bei
+        Ackerland zusätzlich nach bestellter und unbestellter Fläche,
+
+
+    d)  die vom Betrieb von Dritten aufgenommene und an Dritte abgegebene
+        Menge nach Düngerform,
+
+
+    e)  die Größe der mit Wirtschaftsdünger gedüngten landwirtschaftlich
+        genutzten Fläche des Betriebes nach Düngerform,
+
+
+    f)  bei unbestellten Ackerflächen: die Zeitspanne zwischen Ausbringung und
+        Einarbeitung nach Düngerform, bei flüssigen Wirtschaftsdüngern
+        zusätzlich nach Ausbringungstechnik,
+
+
+
+
+
+9.  zu unter Nummer 8 nicht erfassten Düngemitteln:
+
+    a)  die Größe der mit mineralischen Düngemitteln gedüngten
+        landwirtschaftlich genutzten Fläche des Betriebes,
+
+
+    b)  die Ausbringungsmenge organischer und abfallbasierter Düngemittel,
+
+
+
+
+
+10. die Art der Gewinnermittlung,
+
+
+11. die Form der Umsatzbesteuerung.
+
+
+
+
+(3) Für die Erhebung der Rinderbestände nach Absatz 1 Nummer 8
 Buchstabe a gilt § 20a Absatz 1 und 2 Nummer 3 entsprechend.
 
 
-#### Unterabschnitt 3 - Haupterhebung der Landwirtschaftszählung
+##### § 28 Berichtszeit
+
+Der Berichtszeitraum ist für
+
+1.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 6 und 9 Buchstabe a
+    und b: der in § 8 Absatz 2 geregelte Zeitraum,
+
+
+2.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 7 und 14 sowie nach
+    Absatz 2 Nummer 4 bis 6 und 11: das Kalenderjahr 2019,
+
+
+3.  das Erhebungsmerkmal nach § 27 Absatz 1 Nummer 10 Buchstabe d sowie
+    die Arbeitszeiten nach Absatz 2 Nummer 1 und Nummer 2: die Monate März
+    2019 bis Februar 2020,
+
+
+4.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 10 Buchstabe f sowie
+    nach Absatz 2 Nummer 8 und 9: die letzten zwölf Monate vor dem Tag der
+    ersten Aufforderung zur Auskunftserteilung,
+
+
+5.  das Erhebungsmerkmal nach § 27 Absatz 1 Nummer 11: das Kalenderjahr
+    2020,
+
+
+6.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 12 und 16: die
+    Kalenderjahre 2018 bis 2020,
+
+
+7.  die Erhebungsmerkmale nach § 27 Absatz 1 Nummer 13 Buchstabe b bis d:
+    das laufende Pachtjahr,
+
+
+8.  das Erhebungsmerkmal nach § 27 Absatz 2 Nummer 10: das laufende
+    Wirtschaftsjahr.
 
 
 
-##### § 28 Erhebungseinheiten
-
-Erhebungseinheiten der Haupterhebung der Landwirtschaftszählung sind
-die Betriebe nach § 91 Absatz 1a Nummer 1.
-
-
-##### § 29 Erhebungsart
-
-Es werden die Angaben aus der Agrarstrukturerhebung übernommen und die
-Erhebungsmerkmale nach § 30 Absatz 1 allgemein erhoben.
+Der Berichtszeitpunkt für die Erhebungsmerkmale nach § 27 Absatz 1
+Nummer 8 und Nummer 9 Buchstabe c sowie nach Absatz 2 Nummer 7 ist der
+1\. März 2020. Der Berichtszeitpunkt für die übrigen Erhebungsmerkmale
+nach § 27 Absatz 1 und 2 ist der Tag der ersten Aufforderung zur
+Auskunftserteilung.
 
 
-##### § 30 Erhebungsmerkmale und Berichtszeit
-
-(1) Erhebungsmerkmale der Haupterhebung sind neben den
-Erhebungsmerkmalen der Agrarstrukturerhebung:
-
-1.  zur Hofnachfolge: Vereinbarung, Absprache oder sonstige Verständigung
-    über die Hofnachfolge, das Alter, das Geschlecht, landwirtschaftliche
-    und außerlandwirtschaftliche Berufsbildung eines Hofnachfolgers sowie
-    seine Mitarbeit im Betrieb,
-
-
-2.  die Umsatzbesteuerung nach der Form.
+#### Unterabschnitt 3 - Strukturerhebung der Forstbetriebe
 
 
 
+##### § 29 Erhebungseinheiten
 
-(2) Der Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1 ist
+Erhebungseinheiten der Strukturerhebung der Forstbetriebe sind die
+Betriebe nach § 91 Absatz 1a Nummer 2, sofern sie keine der in § 91
+Absatz 1a Nummer 1 genannten Bedingungen erfüllen.
+
+
+##### § 30 Periodizität
+
+Die Strukturerhebung der Forstbetriebe wird im ersten Halbjahr 2022
+und dann alle fünf Jahre durchgeführt.
+
+
+##### § 31 Erhebungsart und Erhebungsmerkmale
+
+(1) Die Strukturerhebung der Forstbetriebe wird allgemein
+durchgeführt.
+
+(2) Erhebungsmerkmale der Strukturerhebung der Forstbetriebe sind:
+
+1.  der Betriebssitz unter Angabe der Lagekoordinaten,
+
+
+2.  die Rechtsform des Betriebes,
+
+
+3.  die Waldfläche.
+
+
+
+
+
+##### § 32 Berichtszeitpunkt
+
+Der Berichtszeitpunkt für die Erhebungsmerkmale nach § 31 Absatz 2 ist
 der Tag der ersten Aufforderung zur Auskunftserteilung.
 
 
-#### Unterabschnitt 4 - Erhebung über landwirtschaftliche Produktionsmethoden
+##### § 33 Besondere Vorschrift zur Verwendung von Verwaltungsdaten
+
+(1) Liegen Verwaltungsdaten zu den Erhebungsmerkmalen nach § 31 Absatz
+2 mit Ausnahme der Angabe zu den Lagekoordinaten bundesweit in
+ausreichender Qualität vor, so wird die Strukturerhebung der
+Forstbetriebe ausschließlich unter Verwendung dieser Daten
+durchgeführt. In diesem Fall sind die zuständigen Verwaltungsbehörden
+oder die von diesen beauftragten Stellen zu den Erhebungsmerkmalen
+auskunftspflichtig.
+
+(2) Die §§ 29 und 31 finden in diesem Fall mit folgender Maßgabe
+Anwendung:
+
+1.  Erhebungseinheiten sind alle in der Verwaltungsdatenquelle enthaltenen
+    Einheiten mit Waldflächen.
 
 
+2.  Erhebungsmerkmale sind:
 
-##### § 31 Erhebungseinheiten
-
-Erhebungseinheiten der Erhebung über landwirtschaftliche
-Produktionsmethoden sind die Betriebe nach § 91 Absatz 1a Nummer 1.
+    a)  der Sitz der Erhebungseinheiten nach Nummer 1,
 
 
-##### § 32 Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeit
-
-(1) Die Erhebung über landwirtschaftliche Produktionsmethoden wird
-durchgeführt:
-
-1.  als allgemeine Nacherhebung zur Haupterhebung der
-    Landwirtschaftszählung im Zeitraum Mai bis Dezember 2010 bei allen
-    Erhebungseinheiten, die über bewässerbare Fläche im Freiland (§ 27
-    Absatz 1 Nummer 4) verfügen, für die Erhebungsmerkmale nach Absatz 2
-    Nummer 4,
+    b)  die Rechtsform der Erhebungseinheiten nach Nummer 1,
 
 
-2.  als Erhebung bei höchstens 80 000 Betrieben gemeinsam mit der
-    Haupterhebung der Landwirtschaftszählung für die anderen
-    Erhebungsmerkmale nach Absatz 2.
-
-
-
-
-(2) Erhebungsmerkmale sind:
-
-1.  die Bodenbearbeitungsverfahren auf dem Ackerland nach der Fläche,
-
-
-2.  zur Bodenerhaltung:
-
-    a)  die Bodenbedeckung im Winter nach der Art und der Fläche,
-
-
-    b)  die Größe des Ackerlands ohne Fruchtwechsel,
+    c)  die Waldfläche.
 
 
 
 
 
-3.  das Erhalten und das Anlegen von Landschaftselementen,
-
-
-4.  zur Bewässerung im Freiland:
-
-    a)  die durchschnittlich bewässerte Fläche insgesamt,
-
-
-    b)  die bewässerte Fläche nach Kulturarten, Pflanzengruppen, Pflanzenarten
-        und Nutzungszweck,
-
-
-    c)  die Bewässerungsverfahren und die Herkunft des verwendeten Wassers,
-
-
-    d)  die verbrauchte Wassermenge,
 
 
 
-
-
-5.  die Zahl der Stallhaltungsplätze nach Haltungsverfahren und
-    Nutzungszweck der Tiere für Rinder, Schweine und Hühner,
-
-
-6.  zur Weidehaltung: die Zahl der Rinder, auch nach Nutzungszweck, und
-    der Schafe nach Weidedauer sowie Größe und Besitzverhältnissen der
-    Weidefläche,
-
-
-7.  Anfall und Ausbringung von Wirtschaftsdüngern nach Düngerart,
-    Herkunft, Ausbringungsfläche, Einarbeitung sowie der Anteil des
-    abgegebenen oder verkauften Wirtschaftsdüngers,
-
-
-8.  die Lagerung von Wirtschaftsdüngern nach Düngerart, Art des Lagers,
-    Lagerkapazität und Art der Abdeckung.
-
-
-
-
-(3) Der Berichtszeitraum für die Erhebungsmerkmale nach Absatz 2
-Nummer 1 und 7 sind die letzten zwölf Monate vor dem Tag der ersten
-Aufforderung zur Auskunftserteilung. Der Berichtszeitraum für das
-Erhebungsmerkmal nach Absatz 2 Nummer 2 Buchstabe a sind die Monate
-Oktober 2009 bis Februar 2010. Der Berichtszeitraum für die
-Erhebungsmerkmale nach Absatz 2 Nummer 2 Buchstabe b und Nummer 3 ist
-ein Zeitraum von 36 Monaten, der am Tag der ersten Aufforderung zur
-Auskunftserteilung endet. Der Berichtszeitraum für das
-Erhebungsmerkmal nach Absatz 2 Nummer 4 Buchstabe a sind die
-Kalenderjahre 2007 bis 2009. Der Berichtszeitraum für die
-Erhebungsmerkmale nach Absatz 2 Nummer 4 Buchstabe b bis d und Nummer
-6 ist das Kalenderjahr 2009. Der Berichtszeitpunkt für die
-Erhebungsmerkmale nach Absatz 2 Nummer 5 ist der 1. März 2010. Der
-Berichtszeitpunkt für das Erhebungsmerkmal nach Absatz 2 Nummer 8 ist
-der Tag der ersten Aufforderung zur Auskunftserteilung.
-
-
-##### (XXXX) §§ 33 bis 43 (weggefallen)
+##### (XXXX) §§ 34 bis 43 (weggefallen)
 
 
 
@@ -1004,27 +1073,45 @@ Die Ernteerhebung umfasst:
 
 (1) Die Ernte- und Betriebsberichterstattung wird in jedem Jahr, außer
 in den Ländern Berlin und Bremen, in den Monaten April bis Dezember
-durchgeführt. Sie umfasst Schätzungen der voraussichtlichen und
-endgültigen Naturalerträge des laufenden Jahres bei Feldfrüchten,
-Grünland, Baumobst und Reben. Ergänzend werden, außer im Land Hamburg,
-die Merkmale Gesamterntemengen und Vorratsbestände bei einzelnen
-Getreidearten und Kartoffeln sowie bei Feldfrüchten die Flächen der
-vorangegangenen Ernte, die Aussaatflächen und die ausgewinterten
-Flächen geschätzt. Bei Reben werden zusätzlich die Merkmale
-Mostgewicht und Güte des Mostes erhoben. Bei Baumobst wird das Merkmal
-Ernteverwendung geschätzt. Die Schätzungen werden von Ernte- und
-Betriebsberichterstattern vorgenommen, sie werden bei diesen erhoben.
-Die Vorratsbestände bei einzelnen Getreidearten am 30. Juni können
-auch durch die statistischen Ämter der Länder geschätzt werden.
+durchgeführt. Sie umfasst
+
+1.  bei Feldfrüchten, Grünland, Baumobst und Reben: Schätzungen der
+    voraussichtlichen und endgültigen Naturalerträge des laufenden Jahres,
+
+
+2.  bei einzelnen Getreidearten und Kartoffeln, außer im Land Hamburg:
+    Schätzungen der Gesamterntemengen und Vorratsbestände,
+
+
+3.  bei Feldfrüchten, außer im Land Hamburg: Schätzungen der Flächen der
+    vorangegangenen Ernte, der Aussaatflächen und der ausgewinterten
+    Flächen,
+
+
+4.  bei Reben: die Erhebung des Mostgewichts und der Güte des Mostes,
+
+
+5.  bei Baumobst: Schätzungen der Ernteverwendung,
+
+
+6.  die Angabe zur ökologischen Wirtschaftsweise der Betriebe.
+
+
+
+Die Schätzungen werden von Ernte- und Betriebsberichterstattern
+vorgenommen; sie werden bei diesen erhoben. Die Vorratsbestände bei
+einzelnen Getreidearten am 30. Juni können auch durch die
+statistischen Ämter der Länder geschätzt werden.
 
 (2) Zur Ergänzung der Schätzungen von Ernteerträgen nach Absatz 1 Satz
-1 und 2 können in jedem Jahr bei höchstens 14 000 landwirtschaftlichen
-Betrieben nach § 91 Absatz 1a Nummer 1 oder bei Baumobst für höchstens
-0,5 vom Hundert der Anbauflächen die Erträge festgestellt werden.
-Dabei dürfen jährlich nicht mehr als fünf Arten von Gemüse, Baumobst
-oder landwirtschaftlichen Feldfrüchten, mit Ausnahme der gemäß § 47
-Absatz 2 erfassten landwirtschaftlichen Feldfrüchte, insgesamt jedoch
-nicht mehr als sechs dieser Arten, sowie Weinmost einbezogen werden.
+1 und 2 Nummer 1 können in jedem Jahr bei höchstens 14 000
+landwirtschaftlichen Betrieben nach § 91 Absatz 1a Nummer 1 oder bei
+Baumobst für höchstens 0,5 vom Hundert der Anbauflächen die Erträge
+festgestellt werden. Dabei dürfen jährlich nicht mehr als fünf Arten
+von Gemüse, Baumobst oder landwirtschaftlichen Feldfrüchten, mit
+Ausnahme der gemäß § 47 Absatz 2 erfassten landwirtschaftlichen
+Feldfrüchte, insgesamt jedoch nicht mehr als sechs dieser Arten, sowie
+Weinmost einbezogen werden.
 
 
 #### § 47 Besondere Ernte- und Qualitätsermittlung
@@ -1047,11 +1134,10 @@ Futtermittelgesetzbuchs).
 (3) Die Beschaffenheitsmerkmale werden vom Max Rubner-Institut,
 Bundesforschungsinstitut für Ernährung und Lebensmittel (Max Rubner-
 Institut), einer selbstständigen Bundesoberbehörde im Geschäftsbereich
-des Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz, ermittelt. Die für die Durchführung der Erhebung
-zuständigen Stellen der Länder übermitteln dem Max Rubner-Institut zur
-Erfüllung der Aufgabe nach Satz 1 pseudonymisierte Proben der
-einbezogenen Pflanzenarten.
+des Bundesministeriums für Ernährung und Landwirtschaft, ermittelt.
+Die für die Durchführung der Erhebung zuständigen Stellen der Länder
+übermitteln dem Max Rubner-Institut zur Erfüllung der Aufgabe nach
+Satz 1 pseudonymisierte Proben der einbezogenen Pflanzenarten.
 
 
 ### Abschnitt 7 - Geflügelstatistik
@@ -1141,23 +1227,14 @@ Eiererzeugung erhoben.
 ##### § 54 Erhebungsmerkmale und Berichtszeit
 
 (1) Erhebungsmerkmale der Erhebung in Unternehmen mit Hennenhaltung
-sind:
+sind die Zahl der vorhandenen Hennenhaltungsplätze, die Zahl der
+legenden Hennen sowie die Zahl der erzeugten Eier jeweils nach der
+Haltungsform.
 
-1.  die Zahl der vorhandenen Hennenhaltungsplätze und der legenden Hennen
-    sowie die Zahl der erzeugten Eier,
-
-
-2.  zusätzlich die Haltungsform und der Bestandsaufbau nach Altersklassen
-    und Legeperioden.
-
-
-
-
-(2) Der Berichtszeitpunkt für die Erhebungsmerkmale nach Absatz 1
-Nummer 1 ist mit Ausnahme der Zahl der erzeugten Eier der 1. Tag des
-Monats, für die Erhebungsmerkmale nach Absatz 1 Nummer 2 der 1.
-Dezember. Der Berichtszeitraum für die Zahl der erzeugten Eier ist der
-jeweilige Vormonat.
+(2) Der Berichtszeitpunkt für die Zahl der vorhandenen
+Hennenhaltungsplätze und die Zahl der legenden Hennen ist der letzte
+Tag des jeweiligen Vormonats. Der Berichtszeitraum für die Zahl der
+erzeugten Eier ist der jeweilige Vormonat.
 
 
 #### Unterabschnitt 4 - Erhebung in Geflügelschlachtereien
@@ -1169,18 +1246,23 @@ jeweilige Vormonat.
 Erhebungseinheiten der Erhebung in Geflügelschlachtereien sind die
 Schlachtereien, die
 
-1.  zugelassen sind nach Artikel 31 Absatz 2 der Verordnung (EG) Nr.
-    882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
-    über amtliche Kontrollen zur Überprüfung der Einhaltung des
-    Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über
-    Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191
-    vom 28.5.2004, S. 1) in der jeweils geltenden Fassung in Verbindung
-    mit Artikel 3 Absatz 1 der Verordnung (EG) Nr. 854/2004 des
-    Europäischen Parlaments und des Rates vom 29. April 2004 mit
-    besonderen Verfahrensvorschriften für die amtliche Überwachung von zum
-    menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs
-    (ABl. L 139 vom 30.4.2004, S. 206, L 226 vom 25.6.2004, S. 83) in der
-    jeweils geltenden Fassung und
+1.  zugelassen sind nach Artikel 148 der Verordnung (EU) 2017/625 des
+    Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche
+    Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der
+    Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über
+    Tiergesundheit und Tierschutz, Pflanzengesundheit und
+    Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001,
+    (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr.
+    1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des
+    Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr.
+    1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien
+    98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des
+    Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG)
+    Nr. 882/2004 des Europäischen Parlaments und des Rates, der
+    Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/EG,
+    96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des
+    Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017,
+    S. 1) in der jeweils geltenden Fassung und
 
 
 2.  Geflügel im Sinne von Artikel 2 Nummer 7 der Verordnung (EG) Nr.
@@ -1401,15 +1483,17 @@ der jeweilige Monat.
 ##### § 68a Erhebungseinheiten
 
 Erhebungseinheiten der Aquakulturstatistik sind die Betriebe, die
-Aquakultur im Sinne von Artikel 2 Absatz 1 Buchstabe b der Verordnung
-(EG) Nr. 762/2008 des Europäischen Parlaments und des Rates vom 9.
-Juli 2008 über die Vorlage von Aquakulturstatistiken durch die
-Mitgliedstaaten und zur Aufhebung der Verordnung (EG) Nr. 788/96 des
-Rates (ABl. L 218 vom 13.8.2008, S. 1) in der jeweils geltenden
-Fassung betreiben. Soweit sie einer Genehmigungs- oder
-Registrierungspflicht nach den Bestimmungen der Fischseuchenverordnung
-vom 24. November 2008 (BGBl. I S. 2315) unterliegen, werden diejenigen
-Einheiten in die Erhebung einbezogen, die
+Aquakultur im Sinne von Artikel 4 Absatz 1 Nummer 25 der Verordnung
+(EU) Nr. 1380/2013 des Europäischen Parlaments und des Rates vom 11.
+Dezember 2013 über die Gemeinsame Fischereipolitik und zur Änderung
+der Verordnungen (EG) Nr. 1954/2003 und (EG) Nr. 1224/2009 des Rates
+sowie zur Aufhebung der Verordnungen (EG) Nr. 2371/2002 und (EG) Nr.
+639/2004 des Rates und des Beschlusses 2004/585/EG des Rates (ABl. L
+354 vom 28.12.2013, S. 22) in der jeweils geltenden Fassung betreiben.
+Soweit sie einer Genehmigungs- oder Registrierungspflicht nach den
+Bestimmungen der Fischseuchenverordnung vom 24. November 2008 (BGBl. I
+S. 2315) unterliegen, werden diejenigen Einheiten in die Erhebung
+einbezogen, die
 
 1.  in dem nach § 4 Absatz 2 Satz 2 oder § 6 Absatz 3 Satz 1 der
     Fischseuchenverordnung zu führenden Register erfasst sind,
@@ -1525,28 +1609,26 @@ Die Rebflächenerhebung wird allgemein in jedem Jahr durchgeführt.
 
 (1) Erhebungsmerkmale der Rebflächenerhebung sind
 
-1.  die Größe der mit Keltertrauben bestockten Rebfläche und deren
-    Veränderung nach Rebsorten, Anbaugebieten, normaler Verwendung der
-    Erzeugung und Ertragsklassen,
+1.  die Größe der mit Keltertrauben bestockten Rebfläche nach Rebsorten,
+    Anbaugebieten und normaler Verwendung der Erzeugung,
 
 
-2.  in Jahren, in denen nach von den Europäischen Gemeinschaften oder der
-    Europäischen Union erlassenen Rechtsvorschriften eine Grunderhebung
-    der Rebflächen durchzuführen ist, zusätzlich für Betriebe mit
-    bestockter Rebfläche nach Artikel 2 Absatz 1 der Verordnung (EWG) Nr.
-    357/79 des Rates vom 5. Februar 1979 über statistische Erhebungen der
-    Rebflächen (ABl. EG Nr. L 54 S. 124) in der jeweils geltenden Fassung
-    die Merkmale nach Artikel 2 Absatz 2 und 3 dieser Verordnung nach
-    Anbaugebieten.
+2.  in Jahren, in denen eine Erhebung der Rebflächen nach der Verordnung
+    (EU) Nr. 1337/2011 des Europäischen Parlaments und des Rates vom 13.
+    Dezember 2011 zu europäischen Statistiken über Dauerkulturen und zur
+    Aufhebung der Verordnung (EWG) Nr. 357/79 des Rates und der Richtlinie
+    2001/109/EG des Europäischen Parlaments und des Rates (ABl. L 347 vom
+    30\.12.2011, S. 7) in der jeweils geltenden Fassung durchzuführen ist,
+    für Statistiken über Betriebe mit bestockter Rebfläche nach Artikel 3
+    Absatz 4 dieser Verordnung zusätzlich die Merkmale nach Anhang II
+    dieser Verordnung.
 
 
 
 
 (2) Der Berichtszeitpunkt für die Größe der mit Keltertrauben
 bestockten Rebflächen sowie für die Erhebungsmerkmale nach Absatz 1
-Nummer 2 ist jeweils der 31. Juli. Der Berichtszeitraum für die
-Veränderung der Größe der mit Keltertrauben bestockten Rebfläche ist
-das abgelaufene Weinwirtschaftsjahr.
+Nummer 2 ist jeweils der 31. Juli.
 
 
 #### Unterabschnitt 3 - Ernteerhebung
@@ -1775,7 +1857,7 @@ das jeweilige Kalendervierteljahr.
 
 (1) Soweit auf diese Vorschrift verwiesen wird, sind Betriebe
 landwirtschaftliche Betriebe im Sinne von Artikel 2 Buchstabe a der
-Verordnung (EG) Nr. 1166/2008.
+Verordnung (EU) 2018/1091.
 
 (1a) Erhebungseinheiten sind, soweit nichts anderes bestimmt ist:
 
@@ -1796,7 +1878,7 @@ Verordnung (EG) Nr. 1166/2008.
     e)  20 Ziegen,
 
 
-    f)  1 000 Stück Geflügel,
+    f)  1 000 Haltungsplätzen für Geflügel,
 
 
     g)  0,5 Hektar Hopfenfläche,
@@ -1826,8 +1908,7 @@ Verordnung (EG) Nr. 1166/2008.
 
 
 
-2.  Betriebe mit mindestens zehn Hektar Waldfläche oder Fläche mit
-    schnellwachsenden Baumarten.
+2.  Betriebe mit mindestens zehn Hektar Waldfläche.
 
 
 
@@ -1882,6 +1963,10 @@ Hilfsmerkmale sind:
     1 fallen,
 
 
+2a. Namen, Rufnummern und Adressen für elektronische Post der Personen,
+    die für Rückfragen zur Verfügung stehen,
+
+
 3.  die Anschrift des Betriebssitzes,
 
 
@@ -1906,7 +1991,11 @@ Hilfsmerkmale sind:
 
 
 9.  der Name und die Registriernummer des Fischereifahrzeugs bei der
-    Erhebung nach § 67.
+    Erhebung nach § 67,
+
+
+10. Name und Anschrift des Unternehmens, das den Betrieb direkt
+    kontrolliert, nach § 27 Absatz 1 Nummer 4.
 
 
 
@@ -1923,7 +2012,10 @@ Nummer 2), der Strukturerhebungen in land- und forstwirtschaftlichen
 Betrieben (§ 1 Nummer 3), der Besonderen Ernte- und
 Qualitätsermittlung (§ 44 Nummer 2), der Aquakulturstatistik (§ 65a
 Nummer 2) und der Erhebung in forstlichen Erzeugerbetrieben (§ 78
-Nummer 1) keine Anwendung.
+Nummer 1) keine Anwendung. Die Landesregierungen können durch
+Rechtsverordnung vorsehen, dass § 11a Absatz 2 des
+Bundesstatistikgesetzes für die Agrarstrukturerhebung im Jahr 2016 und
+für die Aquakulturstatistik keine Anwendung findet.
 
 (2) Auskunftspflichtig sind:
 
@@ -1933,14 +2025,13 @@ Nummer 1) keine Anwendung.
     die Baumschulerhebung, nach § 15 für die Baumobstanbauerhebung, nach §
     17a für die Strauchbeerenerhebung, nach § 18 Absatz 1 für die Erhebung
     über die Viehbestände, nach § 25 für die Agrarstrukturerhebung, nach §
-    28 für die Haupterhebung der Landwirtschaftszählung, nach § 31 für die
-    Erhebung über landwirtschaftliche Produktionsmethoden, nach § 47
-    Absatz 1 für die Besondere Ernte- und Qualitätsermittlung, nach § 49
-    für die Erhebung in Brütereien, nach § 52 für die Erhebung in
-    Unternehmen mit Hennenhaltung, nach § 55 für die Erhebung in
-    Geflügelschlachtereien, nach § 66 für die Hochsee- und
-    Küstenfischereistatistik, bei Anlandungen auf Seefischmärkten die
-    Leiter der Seefischmarktverwaltungen, bei unmittelbar an
+    29 für die Strukturerhebung der Forstbetriebe, nach § 47 Absatz 1 für
+    die Besondere Ernte- und Qualitätsermittlung, nach § 49 für die
+    Erhebung in Brütereien, nach § 52 für die Erhebung in Unternehmen mit
+    Hennenhaltung, nach § 55 für die Erhebung in Geflügelschlachtereien,
+    nach § 66 für die Hochsee- und Küstenfischereistatistik, bei
+    Anlandungen auf Seefischmärkten die Leiter der
+    Seefischmarktverwaltungen, bei unmittelbar an
     Fischverwertungsgenossenschaften abgegebenen Fangergebnissen die
     Leiter dieser Genossenschaften, die Inhaber oder Leiter der Betriebe
     und Unternehmen nach § 68a für die Aquakulturstatistik, nach § 75a
@@ -1991,7 +2082,12 @@ Nummer 1) keine Anwendung.
 
 
 2.  zu dem Hilfsmerkmal Rufnummern und Adressen für elektronische Post der
-    zu Befragenden (§ 92 Nummer 1)
+    zu Befragenden (§ 92 Nummer 1),
+
+
+3.  zu den Hilfsmerkmalen Namen, Rufnummern und Adressen für elektronische
+    Post der Personen, die für Rückfragen zur Verfügung stehen (§ 92
+    Nummer 2a),
 
 
 
@@ -2014,7 +2110,7 @@ Verwaltungsbehörden oder die von diesen beauftragten Stellen
 auskunftspflichtig.
 
 (6) Für die Erhebung über die Viehbestände (§§ 18 bis 20a) und die
-Agrarstrukturerhebung (§§ 25 bis 27) dürfen auch Angaben, die auf
+Agrarstrukturerhebung (§§ 25 bis 28) dürfen auch Angaben, die auf
 Grund von Rechtsvorschriften zur Kennzeichnung und Registrierung von
 landwirtschaftlichen Nutztieren oder auf Grund tierseuchenrechtlicher
 Vorschriften über die Anzeige und Registrierung von Betrieben erteilt
@@ -2024,12 +2120,14 @@ die Kennzeichen zur Identifikation der Betriebe und Unternehmen
 verwendet werden. Insoweit sind die nach Landesrecht zuständigen
 Stellen oder die von diesen beauftragten Stellen auskunftspflichtig.
 
-(7) Für die Agrarstrukturerhebung (§§ 25 bis 27) sollen die
-Lagekoordinaten des Betriebssitzes (§ 27 Absatz 1 Nummer 1) unter
-Verwendung von Verwaltungsdaten erhoben werden. Insoweit sind die nach
-Landesrecht für das Vermessungswesen zuständigen Stellen
-auskunftspflichtig. Die Auskunftspflicht umfasst die Adressen aller
-Gebäude im jeweiligen Land unter Angabe der amtlichen Hauskoordinaten.
+(7) Für die Agrarstrukturerhebung (§§ 25 bis 28) und die
+Strukturerhebung der Forstbetriebe (§§ 29 bis 32) sollen die
+Lagekoordinaten des Betriebssitzes (§ 27 Absatz 1 Nummer 1, § 31
+Absatz 2 Nummer 1) unter Verwendung von Verwaltungsdaten erhoben
+werden. Insoweit sind die nach Landesrecht für das Vermessungswesen
+zuständigen Stellen auskunftspflichtig. Die Auskunftspflicht umfasst
+die Adressen aller Gebäude im jeweiligen Land unter Angabe der
+amtlichen Hauskoordinaten.
 
 
 ### § 94 Durchführung von Bundesstatistiken
@@ -2040,9 +2138,9 @@ Nummer 1) aus den ihr vorliegenden Meldungen sowie die
 Veröffentlichung und Darstellung der Ergebnisse.
 
 (2) Die Düngemittelstatistik (§ 1 Nummer 11), die Erhebung in
-Brütereien (§ 48 Nummer 1) und die Erhebung in Geflügelschlachtereien
-(§ 48 Nummer 3) werden vom Statistischen Bundesamt erhoben und
-aufbereitet.
+Brütereien (§ 48 Nummer 1), die Erhebung in Geflügelschlachtereien (§
+48 Nummer 3) und die Erhebung in Betrieben der Holzbearbeitung (§ 78
+Nummer 2) werden vom Statistischen Bundesamt erhoben und aufbereitet.
 
 (3) Der Bundesanstalt für Landwirtschaft und Ernährung obliegen die
 Aufbereitung der Milchstatistik (§ 1 Nummer 7) aus den ihr nach der
@@ -2055,9 +2153,8 @@ Bundesamt auf Anforderung die von ihnen erhobenen Einzelangaben.
 
 ### § 94a Verordnungsermächtigung
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  für nach diesem Gesetz durchzuführende Bundesstatistiken
 
@@ -2076,8 +2173,13 @@ Zustimmung des Bundesrates
         Merkmale eine Erweiterung des Erhebungsumfangs vermieden wird; nicht
         eingeführt werden können Merkmale, die die Höhe von Umsätzen,
         Einnahmen oder Gewinnen, Bildungs- oder Sozialdaten oder besondere
-        Arten personenbezogener Daten nach § 3 Absatz 9 des
-        Bundesdatenschutzgesetzes betreffen;
+        Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1
+        der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates
+        vom 27. April 2016 zum Schutz natürlicher Personen bei der
+        Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+        Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+        L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+        23\.5.2018, S. 2) in der jeweils geltenden Fassung betreffen;
 
 
     c)  die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung oder
@@ -2111,7 +2213,7 @@ Zustimmung des Bundesrates
 
 
 5.  für die Bodennutzungshaupterhebung (§§ 6 bis 8), die Erhebung über die
-    Viehbestände (§§ 18 bis 20a), die Agrarstrukturerhebung (§§ 25 bis 27)
+    Viehbestände (§§ 18 bis 20a), die Agrarstrukturerhebung (§§ 25 bis 28)
     und die Erhebung in Unternehmen mit Hennenhaltung (§§ 52 bis 54), auch
     als Unterstichprobe oder in einer Nacherhebung, die Erhebung von
     Merkmalen über Anfall, Lagerung, Aufbringung und Einarbeitung von
@@ -2160,42 +2262,96 @@ der Länder gespeicherten Angaben zur Fortschreibung vorgelegt.
 (1) Zur Vorbereitung, Durchführung und Aufbereitung der
 Agrarstatistiken nach § 1 Nummer 1, mit Ausnahme der Flächenerhebung,
 und nach § 1 Nummer 2 bis 4, 5 (§ 48 Nummer 2), 8 (§ 65a Nummer 2), 9
-(§ 69 Nummer 4) und 10 führen die statistischen Ämter der Länder
-einheitliche Betriebsregister. Für die Agrarstatistiken nach § 1
-Nummer 5 (§ 48 Nummer 1 und 3) und 11 führt das Statistische Bundesamt
-das Betriebsregister. Das Betriebsregister kann zur Feststellung und
-zum Nachweis der Erhebungseinheiten, zur Ziehung von Stichproben, zur
-Aufstellung von Rotationsplänen, zur Begrenzung der Belastung zu
-Befragender, zum Versand der Erhebungsunterlagen, zur
-Eingangskontrolle und zu Rückfragen bei den Befragten, zur
-Durchführung von Erhebungen im Fortschreibeverfahren, zur Überprüfung
-der Ergebnisse auf ihre Richtigkeit, zu Hochrechnungen bei Stichproben
-verwendet werden. Für agrarstatistische Zuordnungen und
-Zusammenführungen sowie zu sonstigen agrarstatistischen Auswertungen
-dürfen die Erhebungsmerkmale der Bodennutzungserhebung (§ 8 Absatz 1,
-§ 11 Absatz 1, § 11c Absatz 1, § 14 Absatz 1, § 17 Absatz 1, § 17c
-Absatz 1), der Erhebung über die Viehbestände (§§ 20, 20a), der
-Agrarstrukturerhebung (§ 27 Absatz 1), der Landwirtschaftszählung (§
-30 Absatz 1), der Erhebung über landwirtschaftliche
-Produktionsmethoden (§ 32 Absatz 2), der Geflügelstatistik (§ 51
-Absatz 1, § 54 Absatz 1, § 57 Absatz 1), der Aquakulturstatistik (§
-68b Absatz 2), der Rebflächenerhebung (§ 71 Absatz 1), der
-Bestandserhebung (§ 77 Absatz 1) und der Holzstatistik (§ 81 Absatz 1,
-§ 84 Absatz 1) sowie die in der Feststellung der Grundgesamtheit
-erhobenen Angaben (§ 97a Absatz 1) verwendet werden; dabei ist eine
-Verwendung personenbezogener Angaben anderer Personen als des
-Betriebsinhabers unzulässig.
+(§ 69 Nummer 4) und 10 (§ 78 Nummer 1) führen die statistischen Ämter
+der Länder einheitliche Betriebsregister. Für die Agrarstatistiken
+nach § 1 Nummer 5 (§ 48 Nummer 1 und 3) führt das Statistische
+Bundesamt das Betriebsregister. Das Betriebsregister kann zu folgenden
+Zwecken verwendet werden:
 
-(2) In das Betriebsregister sollen Angaben
-zufolgenden              Hilfs- und Erhebungsmerkmalen aufgenommen und
-jährlich aktualisiert werden, soweit sie nach Satz 3 verfügbar sind:
+1.  zur Feststellung und zum Nachweis der Erhebungseinheiten,
+
+
+2.  zur Ziehung von Stichproben,
+
+
+3.  zur Aufstellung von Rotationsplänen,
+
+
+4.  zur Begrenzung der Belastung zu Befragender,
+
+
+5.  zum Versand der Erhebungsunterlagen,
+
+
+6.  zur Eingangskontrolle und zu Rückfragen bei den Befragten,
+
+
+7.  zur Durchführung von Erhebungen im Fortschreibeverfahren,
+
+
+8.  zur Überprüfung der Ergebnisse auf ihre Richtigkeit,
+
+
+9.  zu Hochrechnungen bei Stichproben und
+
+
+10. zur agrarstatistischen Auswertung.
+
+
+
+Für agrarstatistische Zuordnungen und Zusammenführungen sowie zu
+sonstigen agrarstatistischen Auswertungen dürfen folgende
+Erhebungsmerkmale und Angaben verwendet werden, wobei die Verwendung
+personenbezogener Angaben anderer Personen als des Betriebsinhabers
+unzulässig ist:
+
+1.  Erhebungsmerkmale der Bodennutzungserhebung (§ 8 Absatz 1, § 11 Absatz
+    1, § 11c Absatz 1, § 14 Absatz 1, § 17 Absatz 1, § 17c Absatz 1),
+
+
+2.  Erhebungsmerkmale der Erhebung über die Viehbestände (§§ 20, 20a),
+
+
+3.  Erhebungsmerkmale der Agrarstrukturerhebung (§ 27),
+
+
+4.  Erhebungsmerkmale der Strukturerhebung der Forstbetriebe (§ 31 Absatz
+    2 und § 33 Absatz 2 Nummer 2),
+
+
+5.  Erhebungsmerkmale der Geflügelstatistik (§ 51 Absatz 1, § 54 Absatz 1,
+    § 57 Absatz 1),
+
+
+6.  Erhebungsmerkmale der Aquakulturstatistik (§ 68b Absatz 2),
+
+
+7.  Erhebungsmerkmale der Rebflächenerhebung (§ 71 Absatz 1),
+
+
+8.  Erhebungsmerkmale der Bestandserhebung (§ 77 Absatz 1),
+
+
+9.  Erhebungsmerkmale der Erhebung in forstlichen Erzeugerbetrieben (§ 81
+    Absatz 1).
+
+
+
+
+(2) In das Betriebsregister sollen Angaben zu folgenden Hilfs- und
+Erhebungsmerkmalen aufgenommen und jährlich aktualisiert werden,
+soweit sie nach Satz 3 verfügbar sind:
 
 1.  die Vor- und Familiennamen, die Firmen, die Institutsnamen oder die
     Behördenbezeichnungen, die Anschriften, die Rufnummern und Adressen
     für elektronische Post der Inhaber oder Leiter der Betriebe und
-    Unternehmen nach den §§ 49, 52, 55, 68a, 75a Nummer 2 und 3, §§ 79,
-    82, 88 und 91 Absatz 1a sowie der Auskunftspflichtigen nach § 93
-    Absatz 2 Nummer 4,
+    Unternehmen nach den §§ 49, 52, 55, 68a, 75a Nummer 2 und 3, §§ 79 und
+    91 Absatz 1a sowie der Auskunftspflichtigen nach § 93 Absatz 2 Nummer
+    4,
+
+
+1a. Namen, Rufnummern und Adressen für elektronische Post der Personen,
+    die für Rückfragen zur Verfügung stehen,
 
 
 2.  die Anschrift des Betriebssitzes und die Bezeichnungen für regionale
@@ -2225,16 +2381,7 @@ jährlich aktualisiert werden, soweit sie nach Satz 3 verfügbar sind:
     der im Betrieb tätigen Personen,
 
 
-7.  die Beteiligung an
-
-    a)  Bundesstatistiken nach § 1 und
-
-
-    b)  der Feststellung der Grundgesamtheit nach § 97a
-
-
-
-    (agrarstatistische Erhebungen),
+7.  die Beteiligung an Bundesstatistiken nach § 1,
 
 
 8.  die in § 93 Absatz 5 und 6 genannten Kennzeichen zur Identifikation,
@@ -2246,10 +2393,10 @@ jährlich aktualisiert werden, soweit sie nach Satz 3 verfügbar sind:
 10. der Tag der Aufnahme in das Betriebsregister,
 
 
-11. die Größe der Flächen und die Tierzahlen, die zur Bestimmung des
-    Kreises der zu Befragenden und der Schichtzugehörigkeit der
-    Erhebungseinheiten nach § 91 Absatz 1a in Stichprobenerhebungen
-    erforderlich sind,
+11. die Größe der Flächen, die Tierzahlen und die Zahl der Haltungsplätze
+    für Geflügel, die zur Bestimmung des Kreises der zu Befragenden und
+    der Schichtzugehörigkeit der Erhebungseinheiten nach § 91 Absatz 1a in
+    Stichprobenerhebungen erforderlich sind,
 
 
 12. die Art der Bewirtschaftung des Betriebs.
@@ -2257,13 +2404,17 @@ jährlich aktualisiert werden, soweit sie nach Satz 3 verfügbar sind:
 
 
 Die Aufnahme von Angaben zu anderen Merkmalen ist mit Ausnahme der
-Kennnummer nach Absatz 3 und unbeschadet des Absatzes 7 unzulässig.
+Kennnummer nach Absatz 3 und unbeschadet des Absatzes 9 unzulässig.
 Die Angaben dürfen
 
-1.  Einzelangaben zu agrarstatistischen Erhebungen,
+1.  Einzelangaben zu Bundesstatistiken nach § 1,
 
 
-2.  den nach den Absätzen 5 und 6 übermittelten Merkmalen,
+1a. Vorerhebungen nach § 6 Absatz 1 Satz 1 Nummer 1 des
+    Bundesstatistikgesetzes,
+
+
+2.  den nach den Absätzen 5 bis 8 übermittelten Merkmalen,
 
 
 3.  sonstigen Verwaltungsdaten, soweit deren Verwendung für statistische
@@ -2281,7 +2432,7 @@ entnommen oder von den statistischen Ämtern daraus gewonnen werden.
 
 (3) Für die in Absatz 1 genannten Zwecke wird für jede
 Erhebungseinheit eine Kennnummer gebildet, die keine über die Merkmale
-nach Absatz 2 Satz 1 Nummer 2 bis 11 hinausgehenden Angaben enthalten
+nach Absatz 2 Satz 1 Nummer 2 bis 12 hinausgehenden Angaben enthalten
 darf.
 
 (4) Die Merkmale nach Absatz 2 Satz 1 sowie die Kennnummer nach Absatz
@@ -2291,8 +2442,8 @@ sieben Jahren nicht mehr zu Erhebungen herangezogen wurden, sind sie
 spätestens nach Ablauf dieses Zeitraums zu löschen. Eine Löschung der
 Kennnummer im Datensatz erfolgt nicht.
 
-(5) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-übermittelt den statistischen Ämtern der Länder zur Aktualisierung des
+(5) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+übermittelt dem Statistischen Bundesamt zur Aktualisierung des
 Betriebsregisters jährlich auf Ersuchen, soweit vorhanden,
 
 1.  die Angaben zu den Hilfs- und Erhebungsmerkmalen nach Absatz 2 Satz 1
@@ -2304,9 +2455,25 @@ Betriebsregisters jährlich auf Ersuchen, soweit vorhanden,
 
 
 
+Das Statistische Bundesamt übermittelt den statistischen Ämtern der
+Länder die die jeweiligen Länder betreffenden Daten.
 
-(6) Die Prämienbehörden nach § 2 Absatz 1 des InVeKoS-Daten-Gesetzes
-sowie die nach Landesrecht für die Kennzeichnung und Registrierung von
+(6) Die Zahlstellen nach § 2 Nummer 3 des InVeKoS-Daten-Gesetzes oder
+die von diesen beauftragten Stellen übermitteln den statistischen
+Ämtern der Länder zur Aktualisierung des Betriebsregisters jährlich
+auf Ersuchen, soweit vorhanden,
+
+1.  die Angaben zu den Hilfs- und Erhebungsmerkmalen nach Absatz 2 Satz 1
+    Nummer 1, 2, 4, 5 und 11 für alle in der zuständigen Behörde geführten
+    Einheiten,
+
+
+2.  die Kennzeichen zur Identifikation der Betriebe und Unternehmen, im
+    Falle einer Änderung auch das zuletzt übermittelte Kennzeichen.
+
+
+
+Die nach Landesrecht für die Kennzeichnung und Registrierung von
 landwirtschaftlichen Nutztieren und die tierseuchenrechtliche Anzeige
 und Registrierung von Betrieben zuständigen Stellen oder die von
 diesen beauftragten Stellen übermitteln den statistischen Ämtern der
@@ -2338,44 +2505,43 @@ Betriebsregisters jährlich auf Ersuchen, soweit vorhanden,
 
 
 
-(7) Das nach Absatz 5 oder 6 übermittelte Kennzeichen zur
-Identifikation darf für Zuordnungszwecke im Betriebsregister
-gespeichert werden. Es ist spätestens zu löschen, wenn es fünf Jahre
-lang nicht mehr zu Zuordnungszwecken verwendet worden ist.
+(7) Die nach Landesrecht für die Durchführung einschließlich der
+Überwachung der Vorschriften des Öko-Landbaugesetzes zuständigen
+Landesbehörden übermitteln den statistischen Ämtern der Länder zur
+Aktualisierung des Betriebsregisters jährlich auf Ersuchen die
+folgenden Angaben, soweit diese vorhanden sind:
+
+1.  die Angaben zu den Hilfs- und Erhebungsmerkmalen nach Absatz 2 Satz 1
+    Nummer 1 und 2,
 
 
-### § 97a Feststellung der Grundgesamtheit
-
-(1) Zur Vorbereitung der Landwirtschaftszählung (§ 24 Absatz 1 Nummer
-2) werden im Zeitraum März bis September 2009 bei den Betrieben nach §
-91 Absatz 1 in der bis zum 31. Dezember 2009 geltenden Fassung und bei
-Betrieben mit einer Produktionsfläche für Speisepilze von mindestens
-0,1 Hektar oder mit mindestens 20 Ziegen folgende Angaben erhoben:
-
-1.  die Hilfsmerkmale nach § 92 Nummer 1 bis 7; § 92 Nummer 6 mit der
-    Maßgabe, dass an die Stelle der Bodennutzungshaupterhebung die
-    Feststellung der Grundgesamtheit tritt,
-
-
-2.  die Art der Bewirtschaftung des Betriebs,
-
-
-3.  die Nutzung der Flächen nach Nutzungszweck, Kulturarten,
-    Pflanzengruppen, Pflanzenarten und Kulturformen jeweils nach der
-    Fläche,
-
-
-4.  die Bestände an Rindern, Schafen, Ziegen, Schweinen und Geflügel nach
-    Art und Zahl, bei Rindern, Schweinen und Hühnern zusätzlich nach
-    Alter, Geschlecht und Nutzungszweck.
+2.  die Identifikationsnummer nach § 5 Absatz 2 Satz 3 Nummer 2 des Öko-
+    Landbaugesetzes.
 
 
 
 
-(2) § 91 Absatz 4 sowie § 93 Absatz 1 Satz 1, Absatz 2 Nummer 1,
-Absatz 5 und 6 gilt entsprechend. Für die Erhebung der Rinderbestände
-nach Absatz 1 Nummer 4 gilt § 20a Absatz 1 und 2 Nummer 3
-entsprechend.
+(8) Die nach Landesrecht für die Entschädigung bei Tierverlusten nach
+§ 20 Absatz 1 Satz 1 des Tiergesundheitsgesetzes zuständigen Stellen
+übermitteln den statistischen Ämtern der Länder für Erhebungseinheiten
+nach § 91 Absatz 1a Nummer 1 Buchstabe b bis f zur Aktualisierung des
+Betriebsregisters jährlich auf Ersuchen, soweit vorhanden,
+
+1.  die Angaben zu den Hilfs- und Erhebungsmerkmalen nach Absatz 2 Satz 1
+    Nummer 1 und 2 sowie die Tierzahlen nach Nummer 11,
+
+
+2.  die in § 93 Absatz 6 genannten Kennzeichen zur Identifikation der
+    Betriebe und Unternehmen.
+
+
+
+
+(9) Das nach Absatz 5, 6 oder 8 übermittelte Kennzeichen zur
+Identifikation sowie die nach Absatz 7 Nummer 2 übermittelte
+Identifikationsnummer dürfen für Zuordnungszwecke im Betriebsregister
+gespeichert werden. Sie sind spätestens zu löschen, wenn sie fünf
+Jahre lang nicht mehr zu Zuordnungszwecken verwendet worden sind.
 
 
 ### § 98 Übermittlung, Verwendung und Veröffentlichung von Einzelangaben
@@ -2401,7 +2567,7 @@ deren Einfuhren und Ausfuhren aus der Außenhandelsstatistik sowie bei
 der Bestandserhebung (§§ 75a bis 77) die Anschriften der Unternehmen
 und Angaben zum Wirtschaftszweig aus der Statistik im Produzierenden
 Gewerbe und der Statistik im Handel verwenden. Die Angaben zur
-Bewässerung im Freiland nach § 32 Absatz 2 Nummer 4 dürfen zusammen
+Bewässerung im Freiland nach § 27 Absatz 1 Nummer 7 dürfen zusammen
 mit den Hilfsmerkmalen nach § 92 Nummer 1 bis 4 für die Auswahl von zu
 Befragenden für die Erhebung der nichtöffentlichen Wasserversorgung
 und der nichtöffentlichen Abwasserentsorgung nach § 8 des
@@ -2421,13 +2587,13 @@ und 91/664/EWG (ABl. EG Nr. L 125 S. 10) in der jeweils geltenden
 Fassung darf das Statistische Bundesamt dem Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit Tabellen in der
 Gliederung nach Ländern mit statistischen Ergebnissen aus der Erhebung
-der Geflügelbestände (§ 27 Absatz 1 Nummer 5 Buchstabe c), den
+der Geflügelbestände (§ 27 Absatz 1 Nummer 8 Buchstabe c), den
 Erhebungen in Unternehmen mit Hennenhaltung und in
-Geflügelschlachtereien (§ 48 Nummer 2 und 3) und der Erhebung der
-Schlachtungen (§ 58 Nummer 1) übermitteln, auch soweit Tabellenfelder
-nur einen einzigen Fall ausweisen. Satz 1 gilt entsprechend für die
-Bundesanstalt für Landwirtschaft und Ernährung hinsichtlich der
-Milchstatistik (§ 63).
+Geflügelschlachtereien (§ 48 Nummer 2 und 3), der Erhebung der
+Schlachtungen (§ 58 Nummer 1) und der Aquakulturstatistik (§ 65a
+Nummer 2) übermitteln, auch soweit Tabellenfelder nur einen einzigen
+Fall ausweisen. Satz 1 gilt entsprechend für die Bundesanstalt für
+Landwirtschaft und Ernährung hinsichtlich der Milchstatistik (§ 63).
 
 (5) Für Aufgaben der Politikfolgenabschätzung für oberste Bundes- oder
 Landesbehörden darf das Statistische Bundesamt dem Johann Heinrich von
@@ -2452,12 +2618,4 @@ Bundesanstalt gespeichert und genutzt werden. Diese
 Organisationseinheiten müssen von den mit Vollzugsaufgaben befassten
 Organisationseinheiten der Bundesanstalt räumlich, organisatorisch und
 personell getrennt sein.
-
-
-### § 99 Übergangsvorschriften
-
-Im Jahr 2011 werden die Gemüseanbau- und Zierpflanzenerhebung und die
-Ernte- und Betriebsberichterstattung nach den Bestimmungen dieses
-Gesetzes in der bis zum Ablauf des 8. Dezember 2011 geltenden Fassung
-durchgeführt.
 

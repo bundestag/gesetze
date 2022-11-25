@@ -16,7 +16,7 @@ Fundstelle
 :   GBl DDR I: 1990, 66
 
 Zuletzt geändert durch
-:   Art. 1 u. 2 G v. 19.12.2006 I 3230
+:   Art. 342 V v. 19.6.2020 I 1328
 
 
 ## (XXXX) §§ 1 bis 20 (weggefallen)
@@ -77,14 +77,14 @@ nachweislich nach materiell-rechtsstaatlichen Grundsätzen im Sinne des
 Grundgesetzes erworben worden ist, wird es den Parteien und den in §
 20a Abs. 1 genannten Institutionen wieder zur Verfügung gestellt.
 
-(4) Im Einvernehmen mit dem Bundesministerium des Innern kann das
-Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
-des Bundesrates die treuhänderische Verwaltung nach den Absätzen 2 und
-3 auf eine Stelle des Bundes oder eine juristische Person des
-Privatrechts übertragen. Die Rechts- und Fachaufsicht obliegt dem
-Bundesministerium der Finanzen, das die Fachaufsicht im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie und dem
-jeweils zuständigen Bundesministerium wahrnimmt.
+(4) Im Einvernehmen mit dem Bundesministerium des Innern, für Bau und
+Heimat kann das Bundesministerium der Finanzen durch Rechtsverordnung
+mit Zustimmung des Bundesrates die treuhänderische Verwaltung nach den
+Absätzen 2 und 3 auf eine Stelle des Bundes oder eine juristische
+Person des Privatrechts übertragen. Die Rechts- und Fachaufsicht
+obliegt dem Bundesministerium der Finanzen, das die Fachaufsicht im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
+dem jeweils zuständigen Bundesministerium wahrnimmt.
 
 
 ## (XXXX) §§ 21 bis 24 (weggefallen)

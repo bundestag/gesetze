@@ -1,9 +1,6 @@
-[^F774777_01_BJNR012600011]
-Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre
-Anhänger sowie für Systeme, Bauteile und selbstständige technische
-Einheiten für diese Fahrzeuge
 ---
-Title: ''
+Title: Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie
+  für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge
 jurabk: EG-FGV 2011
 layout: default
 origslug: eg-fgv_2011
@@ -11,7 +8,7 @@ slug: eg-fgv_2011
 
 ---
 
-#  (EG-FGV 2011)
+# Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge (EG-FGV 2011)
 
 Ausfertigungsdatum
 :   2011-02-03
@@ -19,35 +16,34 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 126
 
-Geändert durch
-:   Art. 27 G v. 8.11.2011 I 2178
+Zuletzt geändert durch
+:   Art. 33 G v. 27.7.2021 I 3146
 
 [^F774777_01_BJNR012600011]:     Diese Verordnung dient der Umsetzung folgender Rechtsakte:
-    1\.                                                         Richtlinie
-    2007/46/EG des Europäischen Parlaments und des Rates vom 5. September
-    2007 zur Schaffung eines Rahmens für die Genehmigung von
-    Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen,
-    Bauteilen und selbständigen technischen Einheiten für diese Fahrzeuge
-    (ABl. L 263 vom 9.10.2007, S. 1);
+    1\.                                    Richtlinie 2007/46/EG des
+    Europäischen Parlaments und des Rates vom 5. September 2007 zur
+    Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und
+    Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbständigen
+    technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007,
+    S. 1);
 
 
-    2\.                                                         Richtlinie
-    2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002
-    über die Typgenehmigung für zweirädrige oder dreirädrige
-    Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates
-    (ABl. L 124 vom 9.5.2002, S. 1), die zuletzt durch die Richtlinie
-    2005/30/EG (ABl. L 106 vom 27.4.2005, S. 17) geändert worden ist;
+    2\.                                    Richtlinie 2002/24/EG des
+    Europäischen Parlaments und des Rates vom 18. März 2002 über die
+    Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur
+    Aufhebung der Richtlinie 92/61/EWG des Rates (ABl. L 124 vom 9.5.2002,
+    S. 1), die zuletzt durch die Richtlinie 2005/30/EG (ABl. L 106 vom
+    27\.4.2005, S. 17) geändert worden ist;
 
 
-    3\.                                                         Richtlinie
-    2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003
-    über die Typgenehmigung für land- oder forstwirtschaftliche
-    Zugmaschinen, ihre Anhänger und die von ihnen gezogenen
-    auswechselbaren Maschinen sowie für Systeme, Bauteile und selbständige
-    technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie
-    74/150/EG (ABl. L 171 vom 9.7.2003, S. 1), die zuletzt durch die
-    Richtlinie 2005/67/EG (ABl. L 273 vom 19.10.2005, S. 17) geändert
-    worden ist.
+    3\.                                    Richtlinie 2003/37/EG des
+    Europäischen Parlaments und des Rates vom 26. Mai 2003 über die
+    Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre
+    Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie
+    für Systeme, Bauteile und selbständige technische Einheiten dieser
+    Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EG (ABl. L 171 vom
+    9\.7.2003, S. 1), die zuletzt durch die Richtlinie 2005/67/EG (ABl. L
+    273 vom 19.10.2005, S. 17) geändert worden ist.
 
 
 
@@ -321,14 +317,13 @@ davon, ob sie nach dieser Verordnung ordnungsgemäß genehmigt sind, ein
 erhebliches Risiko für die Verkehrssicherheit, die Gesundheit oder die
 Umwelt ausgeht, hat er dies unverzüglich dem Kraftfahrt-Bundesamt zu
 melden. Die Meldung ist entbehrlich, wenn er bereits eine Meldung nach
-§ 6 Absatz 4 des Produktsicherheitsgesetzes vom 8. November 2011
-(BGBl. I S. 2178, 2179) an das Kraftfahrt-Bundesamt abgegeben hat.
-Führt der Hersteller keine wirksamen Abhilfemaßnahmen im Sinne des
-Artikels 32 Absatz 2 und 3 der Richtlinie 2007/46/EG durch, kann das
-Kraftfahrt-Bundesamt Abhilfemaßnahmen anordnen oder die EG-
-Typgenehmigung ganz oder teilweise widerrufen oder zurücknehmen.
-Maßnahmen nach dem Geräte- und Produktsicherheitsgesetz bleiben
-unberührt.
+§ 6 Absatz 4 des Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I
+S. 3146) an das Kraftfahrt-Bundesamt abgegeben hat. Führt der
+Hersteller keine wirksamen Abhilfemaßnahmen im Sinne des Artikels 32
+Absatz 2 und 3 der Richtlinie 2007/46/EG durch, kann das Kraftfahrt-
+Bundesamt Abhilfemaßnahmen anordnen oder die EG-Typgenehmigung ganz
+oder teilweise widerrufen oder zurücknehmen. Maßnahmen nach dem
+Geräte- und Produktsicherheitsgesetz bleiben unberührt.
 
 
 #### § 8 Besondere Verfahren
@@ -388,11 +383,12 @@ der Richtlinie 2007/46/EG genannten Vorschriften darzulegen.
 
 (3) Abweichungen von den technischen Angaben, die das Kraftfahrt-
 Bundesamt bei Erteilung der nationalen Kleinserien-Typgenehmigung
-durch schriftlichen Bescheid für den genehmigten Typ festgelegt hat,
-sind dem Inhaber der Typgenehmigung nur gestattet, wenn diese durch
-einen entsprechenden Nachtrag ergänzt worden ist oder wenn das
-Kraftfahrt-Bundesamt auf Antrag festgestellt hat, dass für die
-vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
+durch Bescheid in Schriftform oder elektronischer Form für den
+genehmigten Typ festgelegt hat, sind dem Inhaber der Typgenehmigung
+nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt
+worden ist oder wenn das Kraftfahrt-Bundesamt auf Antrag festgestellt
+hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht
+erforderlich ist.
 
 (4) Auf Antrag desjenigen, der ein Fahrzeug in einem anderen
 Mitgliedstaat verkaufen, zulassen oder in Betrieb nehmen will, fertigt
@@ -669,7 +665,7 @@ oder beim Hersteller vorzuführen ist.
 Vorhandensein eines wirksamen Systems zur Überwachung der
 Übereinstimmung der Produktion nach Anhang VI der Richtlinie
 2002/24/EG nachzuweisen. Die hierfür notwendige Überprüfung kann durch
-das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine nach § 35
+das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine
 akkreditierte Zertifizierungsstelle oder die Behörde eines anderen
 Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
 Bundesamt hierzu beauftragt wurden. Den nach Satz 1 erforderlichen
@@ -681,7 +677,7 @@ oder eines gleichwertigen Standards erbringen, das
 1.  vom Kraftfahrt-Bundesamt als Zertifizierungsstelle,
 
 
-2.  von einer durch das Kraftfahrt-Bundesamt nach § 35 akkreditierten
+2.  von einer durch die Akkreditierungsstelle akkreditierten
     Zertifizierungsstelle oder
 
 
@@ -882,8 +878,8 @@ dessen näherer Bestimmung das Vorhandensein eines wirksamen Systems
 zur Überwachung der Übereinstimmung der Produktion nach Anhang IV der
 Richtlinie 2003/37/EG nachzuweisen. Die hierfür notwendige Überprüfung
 kann durch das Kraftfahrt-Bundesamt erfolgen; sie kann auch durch eine
-nach § 35 akkreditierte Zertifizierungsstelle oder die Behörde eines
-anderen Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
+akkreditierte Zertifizierungsstelle oder die Behörde eines anderen
+Mitgliedstaates vorgenommen werden, wenn diese vom Kraftfahrt-
 Bundesamt hierzu beauftragt wurden. Den nach Satz 1 erforderlichen
 Nachweis kann der Antragsteller auch durch Vorlage eines
 ordnungsgemäßen Zertifikats über das Vorhandensein eines
@@ -893,7 +889,7 @@ gleichwertigen Standards erbringen, das
 1.  vom Kraftfahrt-Bundesamt als Zertifizierungsstelle,
 
 
-2.  von einer durch das Kraftfahrt-Bundesamt nach § 35 akkreditierten
+2.  von einer durch die Akkreditierungsstelle akkreditierten
     Zertifizierungsstelle oder
 
 
@@ -919,7 +915,7 @@ Richtlinie 2003/37/EG verfügt, um zu gewährleisten, dass die
 herzustellenden Fahrzeuge, Systeme, selbstständigen technischen
 Einheiten und Bauteile jeweils mit dem genehmigten Typ übereinstimmen.
 
-(7) Für das weitere Verfahren der Erteilung findet § 4 Absatz 2 und 6
+(7) Für das weitere Verfahren der Erteilung findet § 4 Absatz 2 und 5
 entsprechend Anwendung.
 
 (8) Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt
@@ -1198,7 +1194,7 @@ können dem Kraftfahrt-Bundesamt zur Weiterleitung an die zuständige
 ausländische Genehmigungsbehörde übersandt werden.
 
 
-## Kapitel 6 - Anerkennung und Akkreditierung von Technischen Diensten
+## Kapitel 6 - Anerkennung von Technischen Diensten
 
 
 ### § 30 Anerkennung und Anerkennungsstelle
@@ -1285,35 +1281,8 @@ Herstellers oder des Dritten sicherzustellen, in denen die zu
 beaufsichtigenden Prüfungen stattfinden.
 
 
-### § 35 Akkreditierung von Technischen Diensten und Zertifizierungsstellen für Qualitätsmanagementsysteme
+### § 35 (aufgehoben)
 
-(1) Stellen im Sinne des § 30 Absatz 1 können auf der Grundlage der
-Prüfnormen nach § 31 Absatz 2 durch das Kraftfahrt-Bundesamt
-akkreditiert werden und sind damit anerkannt.
-
-(2) Stellen, die die Vorhaltung und die Anwendung von Systemen zur
-Überwachung der Übereinstimmung der Produktion nach Artikel 4 Absatz 2
-und 3 in Verbindung mit Anhang VI Gliederungsnummer 1.1 der Richtlinie
-2002/24/EG oder nach Artikel 13 in Verbindung mit Anhang IV
-Gliederungsnummer 2.3 der Richtlinie 2003/37/EG kontrollieren
-(Zertifizierungsstelle für Qualitätsmanagementsysteme), müssen nach
-der Norm ISO/IEC 17021:2006 und DIN EN ISO/IEC 17011:2004 akkreditiert
-sein. Akkreditierungsstelle ist das Kraftfahrt-Bundesamt. Die
-Akkreditierung von Zertifizierungsstellen, die durch die zuständige
-Stelle eines anderen Mitgliedstaates nach § 16 Absatz 4 Satz 2 oder §
-19 Absatz 4 Satz 2 erteilt wurde, bleibt unberührt.
-
-(3) Die Akkreditierung ist zu erteilen, wenn der Antragsteller die
-Gewähr bietet, dass für die beantragte Prüf- und
-Begutachtungszuständigkeit die ordnungsgemäße Wahrnehmung dieser
-Aufgaben nach den allgemeinen Kriterien nach der jeweiligen Prüfnorm
-und nach den erforderlichen kraftfahrzeugspezifischen Kriterien an
-Personal- und Sachausstattung erfolgen wird und wenn durch die
-Begutachtung nach der jeweiligen Norm die Erfüllung dieser Kriterien
-nachgewiesen wird.
-
-(4) Für die Akkreditierung und das Akkreditierungsverfahren sind die
-Vorschriften der §§ 31 bis 34 entsprechend anzuwenden.
 
 
 ### § 36 Freistellungsklausel

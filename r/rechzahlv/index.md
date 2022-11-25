@@ -1,8 +1,5 @@
-[^F772692_BJNR368000009]
-Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-
-Institute
 ---
-Title: ''
+Title: Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute
 jurabk: RechZahlV
 layout: default
 origslug: rechzahlv
@@ -10,7 +7,7 @@ slug: rechzahlv
 
 ---
 
-#  (RechZahlV)
+# Verordnung über die Rechnungslegung der Zahlungsinstitute und E-Geld-Institute (RechZahlV)
 
 Ausfertigungsdatum
 :   2009-11-02
@@ -18,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3680
 
-Geändert durch
-:   Art. 2 V v. 9.6.2011 I 1041
+Zuletzt geändert durch
+:   Art. 1 V v. 17.12.2018 I 2619
+
+Änderung durch
+:   Art. 25 Abs. 3 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^F772692_BJNR368000009]:     Diese Verordnung dient der Umsetzung des Artikels 15 Absatz 1 und 3
     der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates
@@ -43,10 +43,8 @@ mit der Deutschen Bundesbank:
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung ist gemäß § 340 Absatz 5 Satz 1 des
-Handelsgesetzbuchs auf Zahlungsinstitute und E-Geld-Institute
-(Institute im Sinn des § 1 Absatz 2a des
-Zahlungsdiensteaufsichtsgesetzes) anzuwenden.
+Diese Verordnung ist auf Institute im Sinne des § 1 Absatz 3 des
+Zahlungsdiensteaufsichtsgesetzes anzuwenden.
 
 
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
@@ -54,7 +52,7 @@ Zahlungsdiensteaufsichtsgesetzes) anzuwenden.
 
 ### § 2 Formblätter
 
-Institute im Sinn des § 1 Absatz 2a des
+Institute im Sinn des § 1 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes haben abweichend von § 266 des
 Handelsgesetzbuchs über die Gliederung der Bilanz das Formblatt 1
 (Anlage 1) und abweichend von § 275 des Handelsgesetzbuchs über die
@@ -62,15 +60,57 @@ Gliederung der Gewinn- und Verlustrechnung das Formblatt 2
 (Staffelform – Anlage 2) zu verwenden.
 
 
-### § 3 Getrennte Rechnungslegung
+### § 3 Getrennte Rechnungslegung und Unterposten
 
-Für Zahlungsdienste nach § 1 und für die Ausgabe von E-Geld nach § 1a
-des Zahlungsdiensteaufsichtsgesetzes sowie für sonstige Geschäfte sind
-die Angaben in der Rechnungslegung jeweils getrennt auszuweisen. Die
-Positionen der Bilanz und der Gewinn- und Verlustrechnung sind nach
-Maßgabe der Formblätter entsprechend ihrer Herkunft aus
-Zahlungsdiensten und aus der Ausgabe von E-Geld oder aus sonstigen
-Tätigkeiten zu unterteilen.
+(1) Für Zahlungsdienste nach § 1 Absatz 1 Satz 2 des
+Zahlungsdiensteaufsichtsgesetzes und für die Ausgabe von E-Geld nach §
+1 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes sowie für
+sonstige Geschäfte sind die Angaben in der Rechnungslegung jeweils
+getrennt auszuweisen. Die Positionen der Bilanz und der Gewinn- und
+Verlustrechnung sind nach Maßgabe der Formblätter entsprechend ihrer
+Herkunft aus Zahlungsdiensten und aus der Ausgabe von E-Geld oder aus
+sonstigen Tätigkeiten zu unterteilen.
+
+(2) Als Unterposten sind im Formblatt 1 jeweils gesondert auszuweisen:
+
+1.  die verbrieften und unverbrieften Forderungen an verbundene
+    Unternehmen zu den Posten „Forderungen an Kreditinstitute“
+    (Aktivposten 2), „Forderungen an Kunden“ (Aktivposten 3), „Forderungen
+    an Institute im Sinne des § 1 Absatz 3 des
+    Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und
+    „Schuldverschreibungen und andere festverzinsliche Wertpapiere“
+    (Aktivposten 5);
+
+
+2.  die verbrieften und unverbrieften Forderungen an Unternehmen, mit
+    denen ein Beteiligungsverhältnis besteht, zu den Posten „Forderungen
+    an Kreditinstitute“ (Aktivposten 2), „Forderungen an Kunden“
+    (Aktivposten 3), „Forderungen an Institute im Sinne des § 1 Absatz 3
+    des Zahlungsdiensteaufsichtsgesetzes“ (Aktivposten 4) und
+    „Schuldverschreibungen und andere festverzinsliche Wertpapiere“
+    (Aktivposten 5);
+
+
+3.  die verbrieften und unverbrieften Verbindlichkeiten gegenüber
+    verbundenen Unternehmen zu den Posten „Verbindlichkeiten gegenüber
+    Kreditinstituten“ (Passivposten 1), „Verbindlichkeiten gegenüber
+    Kunden“ (Passivposten 2), „Verbindlichkeiten gegenüber Instituten im
+    Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes“
+    (Passivposten 3) und „Nachrangige Verbindlichkeiten“ (Passivposten 8);
+
+
+4.  die verbrieften und unverbrieften Verbindlichkeiten gegenüber
+    Unternehmen, mit denen ein Beteiligungsverhältnis besteht, zu den
+    Posten „Verbindlichkeiten gegenüber Kreditinstituten“ (Passivposten
+    1), „Verbindlichkeiten gegenüber Kunden“ (Passivposten 2),
+    „Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des
+    Zahlungsdiensteaufsichtsgesetzes“ (Passivposten 3) und „Nachrangige
+    Verbindlichkeiten“ (Passivposten 8).
+
+
+
+Die Angaben nach Satz 1 können statt in der Bilanz im Anhang in der
+Reihenfolge der betroffenen Posten gemacht werden.
 
 
 ### § 4 Nachrangige Vermögensgegenstände und Schulden
@@ -90,11 +130,11 @@ betroffenen Posten gemacht werden.
 
 (1) Als Wertpapiere sind auszuweisen:
 
-1.  Aktien, Zwischenscheine, Investmentanteile, Optionsscheine, Zins- und
-    Gewinnanteilscheine, börsenfähige Inhaber- und Ordergenussscheine,
-    börsenfähige Inhaberschuldverschreibungen, auch wenn sie vinkuliert
-    sind, unabhängig davon, ob sie in Wertpapierurkunden verbrieft oder
-    als Wertrechte ausgestaltet sind,
+1.  Aktien, Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+    Optionsscheine, Zins- und Gewinnanteilscheine, börsenfähige Inhaber-
+    und Ordergenussscheine, börsenfähige Inhaberschuldverschreibungen,
+    auch wenn sie vinkuliert sind, unabhängig davon, ob sie in
+    Wertpapierurkunden verbrieft oder als Wertrechte ausgestaltet sind,
 
 
 2.  börsenfähige Orderschuldverschreibungen, soweit sie Teile einer
@@ -132,7 +172,8 @@ Kündigungsmöglichkeiten nicht zu berücksichtigen.
 
 ### § 7 Fristengliederung
 
-Im Anhang sind die Beträge des Aktivpostens 3 „Forderungen an Kunden“
+Im Anhang sind die Beträge der „Forderungen an Kunden“ (Aktivposten 3)
+und der „Verbindlichkeiten gegenüber Kunden“ (Passivposten 2)
 gesondert nach folgenden Restlaufzeiten aufzugliedern:
 
 1.  bis drei Monate,
@@ -154,7 +195,7 @@ gesondert nach folgenden Restlaufzeiten aufzugliedern:
 
 Anteilige Zinsen und ähnliche das Geschäftsjahr betreffende Beträge,
 die erst nach dem Bilanzstichtag fällig werden, aber bereits am
-Bilanzstichtag für Institute im Sinn des § 1 Absatz 2a des
+Bilanzstichtag für Institute im Sinn des § 1 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes typische Forderungen oder
 Verbindlichkeiten sind, sind demjenigen Posten der Aktiv- oder
 Passivseite der Bilanz zuzuordnen, dem sie zugehören. § 268 Absatz 4
@@ -176,8 +217,11 @@ ausländischen Noten und Münzen sowie Postwertzeichen und
 Gerichtsgebührenmarken auszuweisen. Zu einem höheren Betrag als dem
 Nennwert erworbene Gedenkmünzen sowie Goldmünzen, auch wenn es sich um
 gesetzliche Zahlungsmittel handelt, und Barrengold sind abweichend von
-Satz 1 im Posten „Sonstige Vermögensgegenstände“ (Posten 13) zu
-erfassen.
+Satz 1 im Posten „Sonstige Vermögensgegenstände“ (Posten 12) zu
+erfassen. Als Guthaben bei Zentralnotenbanken dürfen nur täglich
+fällige Guthaben einschließlich der täglich fälligen
+Fremdwährungsguthaben bei Zentralnotenbanken der Niederlassungsländer
+des Instituts ausgewiesen werden.
 
 
 #### § 10 Forderungen an Kreditinstitute – Posten 2
@@ -205,7 +249,7 @@ an Kreditinstitute gehören auch:
 
 § 5 bleibt unberührt. Forderungen an Kreditinstitute aus
 Zahlungsdiensten und aus der Ausgabe von E-Geld, die der Anforderung
-des § 13 Absatz 1 Satz 2 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes
+des § 17 Absatz 1 Satz 2 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes
 genügen und auf Treuhandkonten unterhalten werden, sind gesondert
 auszuweisen.
 
@@ -218,7 +262,7 @@ darstellen, soweit es sich nicht um börsenfähige Schuldverschreibungen
 im Sinn des Postens 5 „Schuldverschreibungen und andere
 festverzinsliche Wertpapiere“ handelt. § 5 bleibt unberührt. Als
 Forderungen an Kunden aus Zahlungsdiensten und aus der Ausgabe von
-E-Geld aus Krediten sind die gemäß § 2 Absatz 3 des
+E-Geld aus Krediten sind die gemäß § 3 Absatz 4 des
 Zahlungsdiensteaufsichtsgesetzes gewährten Kredite auszuweisen.
 
 
@@ -278,10 +322,10 @@ auszuweisen:
     „Anteile an verbundenen Unternehmen“ auszuweisen sind,
 
 
-2.  Zwischenscheine, Investmentanteile, Optionsscheine,
-    Gewinnanteilscheine, als Inhaber- oder Orderpapiere ausgestaltete
-    börsenfähige Genussscheine sowie andere nicht festverzinsliche
-    Wertpapiere, soweit sie börsennotiert sind, und
+2.  Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+    Optionsscheine, Gewinnanteilscheine, als Inhaber- oder Orderpapiere
+    ausgestaltete börsenfähige Genussscheine sowie andere nicht
+    festverzinsliche Wertpapiere, soweit sie börsennotiert sind, und
 
 
 3.  vor Fälligkeit hereingenommene Gewinnanteilscheine.
@@ -292,7 +336,7 @@ auszuweisen:
 
 #### § 14 Beteiligungen – Posten 7
 
-Institute im Sinn des § 1 Absatz 2a des
+Institute im Sinn des § 1 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes in der Rechtsform der eingetragenen
 Genossenschaft haben Geschäftsguthaben bei Genossenschaften unter dem
 Posten 7 „Beteiligungen“ auszuweisen. In diesem Fall ist die
@@ -340,7 +384,7 @@ Posten unter dem Strich um den zurückgestellten Betrag zu kürzen.
 
 Als gezeichnetes Kapital sind, ungeachtet ihrer genauen Bezeichnung im
 Einzelfall, alle Beträge auszuweisen, die entsprechend der Rechtsform
-des Instituts im Sinn des § 1 Absatz 2a des
+des Instituts im Sinn des § 1 Absatz 3 des
 Zahlungsdiensteaufsichtsgesetzes als von den Gesellschaftern oder
 anderen Eigentümern gezeichnete Eigenkapitalbeträge gelten; auch
 Einlagen stiller Gesellschafter sowie Geschäftsguthaben sind in diesen
@@ -448,7 +492,7 @@ Unterstützung“, sind auszuweisen:
 
 
 2.  Beihilfen und Unterstützungen, die das Institut im Sinn des § 1 Absatz
-    2a des Zahlungsdiensteaufsichtsgesetzes zu erbringen hat, sowie
+    3 des Zahlungsdiensteaufsichtsgesetzes zu erbringen hat, sowie
 
 
 3.  Aufwendungen für die Altersversorgung, darunter auch die Zuführungen
@@ -529,9 +573,8 @@ werden. Eine teilweise Verrechnung ist nicht zulässig.
 ### § 28 Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 340a in Verbindung mit § 284
-Absatz 1, 2 Nummer 1, 2, 3
-und 5,              § 285 Nummer 3, 3a, 6, 7, 9 Buchstabe a
-und b,              Nummer 10, 11, 13, 14, 16 bis 26 und 29, § 340b
+Absatz 1, 2 Nummer 1, 2 und 4, § 285 Nummer 3, 3a, 7, 9 Buchstabe a
+und b, Nummer 10 bis 11b, 13 bis 26, 28 bis 30 und 32 bis 34, § 340b
 Absatz 4 Satz 4, § 340e Absatz 2 des Handelsgesetzbuchs und den in
 dieser Verordnung zu den einzelnen Posten der Bilanz oder der Gewinn-
 und Verlustrechnung vorgeschriebenen Angaben die in diesem Abschnitt
@@ -545,8 +588,8 @@ zu machen:
 
 1.  Gesamtbetrag der folgenden Posten der Gewinn- und Verlustrechnung,
     aufgegliedert nach geographischen Märkten, soweit diese Märkte sich
-    vom Standpunkt der Organisation des Instituts im Sinn des § 1 Absatz
-    2a des Zahlungsdiensteaufsichtsgesetzes wesentlich voneinander
+    vom Standpunkt der Organisation des Instituts im Sinn des § 1 Absatz 3
+    des Zahlungsdiensteaufsichtsgesetzes wesentlich voneinander
     unterscheiden:
 
     a)  Zinserträge nach Formblatt 2 Posten 1,
@@ -576,18 +619,19 @@ zu machen:
 
 Die Aufgliederung nach Satz 1 Nummer 1 kann unterbleiben, soweit sie
 nach vernünftiger kaufmännischer Beurteilung geeignet ist, dem
-Institut im Sinn des § 1 Absatz 2a des
-Zahlungsdiensteaufsichtsgesetzes oder einem Unternehmen, von dem das
-Institut im Sinn des § 1 Absatz 2a des
-Zahlungsdiensteaufsichtsgesetzes mindestens den fünften Teil der
+Institut im Sinn des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes
+oder einem Unternehmen, von dem das Institut im Sinn des § 1 Absatz 3
+des Zahlungsdiensteaufsichtsgesetzes mindestens den fünften Teil der
 Anteile besitzt, einen erheblichen Nachteil zuzufügen.
 
-(3) Die in § 268 Absatz 2 des Handelsgesetzbuchs verlangten Angaben
+(3) Die in § 284 Absatz 3 des Handelsgesetzbuchs verlangten Angaben
 sind für Vermögensgegenstände im Sinn des § 340e Absatz 1 des
 Handelsgesetzbuchs zu machen. Die Zuschreibungen, Abschreibungen und
 Wertberichtigungen auf Beteiligungen, Anteile an verbundenen
 Unternehmen sowie auf andere Wertpapiere, die wie Anlagevermögen
 behandelt werden, können mit anderen Posten zusammengefasst werden.
+
+(4) § 3 Absatz 2 Satz 2 bleibt unberührt.
 
 
 ### § 29 Zusätzliche Pflichtangaben
@@ -635,7 +679,7 @@ im Anhang anzugeben:
     sofern sie für die Beurteilung des Jahresabschlusses nicht
     unwesentlich sind, wobei die Beträge und ihre Art zu erläutern sind:
 
-    a)  „Sonstige Vermögensgegenstände“ Aktivposten 13,
+    a)  „Sonstige Vermögensgegenstände“ Aktivposten 12,
 
 
     b)  „Sonstige Verbindlichkeiten“ Passivposten 4,
@@ -658,7 +702,7 @@ im Anhang anzugeben:
 
 4.  die Dritten erbrachten Dienstleistungen für Verwaltung und
     Vermittlung, sofern ihr Umfang in Bezug auf die Gesamttätigkeit des
-    Instituts im Sinn des § 1 Absatz 2a des
+    Instituts im Sinn des § 1 Absatz 3 des
     Zahlungsdiensteaufsichtsgesetzes von wesentlicher Bedeutung ist;
 
 
@@ -671,7 +715,7 @@ im Anhang anzugeben:
 (2) Zu dem Posten der Bilanz „Sachanlagen“ Aktivposten 10 sind im
 Anhang mit ihrem Gesamtbetrag anzugeben:
 
-1.  die vom Institut im Sinn des § 1 Absatz 2a des
+1.  die vom Institut im Sinn des § 1 Absatz 3 des
     Zahlungsdiensteaufsichtsgesetzes im Rahmen seiner eigenen Tätigkeit
     genutzten Grundstücke und Bauten,
 
@@ -766,7 +810,7 @@ bedingt, die §§ 1 bis 30 entsprechend anzuwenden.
 
 ### § 32 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinn des § 340n Absatz 1 Nummer 6 des
+(1) Ordnungswidrig im Sinn des § 340n Absatz 1 Satz 1 Nummer 6 des
 Handelsgesetzbuchs handelt, wer als Geschäftsleiter im Sinn des § 1
 Absatz 8 des Zahlungsdiensteaufsichtsgesetzes oder als Mitglied des
 Aufsichtsrats bei der Aufstellung oder Feststellung des
@@ -892,6 +936,22 @@ die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz
 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember
 2008 beginnen. Absatz 2 bleibt unberührt.
 
+(7) Die §§ 5 und 13 in der Fassung des AIFM-Umsetzungsgesetzes vom 4.
+Juli 2013 (BGBl. I S. 1981) sind erstmals auf Jahres- und
+Konzernabschlüsse für nach dem 21. Juli 2013 beginnende Geschäftsjahre
+anzuwenden.
+
+(8) § 28 Absatz 1 und 3 in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ist erstmals
+auf Jahres- und Konzernabschlüsse für nach dem 31. Dezember 2015
+beginnende Geschäftsjahre anzuwenden.
+
+(9) Diese Verordnung in der Fassung des Artikels 1 der Verordnung zur
+Änderung der Zahlungsinstituts-Rechnungslegungsverordnung vom 17.
+Dezember 2018 (BGBl. I S. 2619) ist erstmals auf den Jahresabschluss
+und Konzernabschluss für das nach dem 31. Dezember 2017 beginnende
+Geschäftsjahr anzuwenden.
+
 
 ### § 34 Inkrafttreten
 
@@ -901,16 +961,27 @@ Diese Verordnung tritt mit Wirkung vom 31. Oktober 2009 in Kraft.
 
 ### Anlage 1 Formblatt 1
 
-(Fundstelle: BGBl. I 2009, 3687 - 3688;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2018, 2621 - 2623)
 
-**Jahresbilanz**              zum .........................
 
-der .....................
+*    *   **Jahresbilanz**                        zum ..........
+
+
+*    *   der ...........
+
+
+
 
 
 *    *   Aktivseite
 
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
 *    *
     *   Euro
@@ -932,11 +1003,28 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
 
+    *
+
+*    *
+    *
+    *   darunter:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Guthaben bei Zentralnotenbanken
+
+    *   .....
+
+    *
     *
 
 *    *
@@ -947,6 +1035,23 @@ der .....................
     *
     *   .....
 
+    *
+
+*    *
+    *
+    *   darunter:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Guthaben bei Zentralnotenbanken
+
+    *   .....
+
+    *
     *
 
 *    *   2.
@@ -961,14 +1066,29 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld davon auf
-        Treuhandkonten
-
-    *   .....Euro
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
 
+    *
+
+*    *
+    *
+    *   davon:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   auf Treuhandkonten
+
+    *   ..... Euro
+
+    *
+    *
     *
 
 *    *
@@ -1015,7 +1135,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1066,7 +1186,7 @@ der .....................
 
 *    *   4.
 
-    *   Forderungen an Institute im Sinn des § 1 Absatz 2a des
+    *   Forderungen an Institute im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *
@@ -1077,7 +1197,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1117,7 +1237,7 @@ der .....................
     *
     *   aa)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *   .....
 
@@ -1149,7 +1269,7 @@ der .....................
     *
     *   aa)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *   .....
 
@@ -1179,7 +1299,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1208,7 +1328,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1249,7 +1369,7 @@ der .....................
     *
     *   cc)
 
-    *   an Instituten im Sinn des § 1 Absatz 2a des
+    *   an Instituten im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *   .....
@@ -1301,7 +1421,7 @@ der .....................
     *
     *   cc)
 
-    *   an Instituten im Sinn des § 1 Absatz 2a des
+    *   an Instituten im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *   .....
@@ -1321,7 +1441,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1362,7 +1482,7 @@ der .....................
     *
     *   cc)
 
-    *   an Instituten im Sinn des § 1 Absatz 2a des
+    *   an Instituten im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *   .....
@@ -1414,7 +1534,7 @@ der .....................
     *
     *   cc)
 
-    *   an Instituten im Sinn des § 1 Absatz 2a des
+    *   an Instituten im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *   .....
@@ -1434,7 +1554,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1555,7 +1675,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1593,7 +1713,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1622,7 +1742,7 @@ der .....................
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
     *   .....
@@ -1670,7 +1790,8 @@ der .....................
 
     *
     *
-    *   *.....*
+    *   .....
+        ‗‗‗‗‗
 
 
 
@@ -1679,10 +1800,6 @@ der .....................
 
 
 *    *
-    *
-    *
-    *
-    *
     *   Euro
 
     *   Euro
@@ -1696,16 +1813,16 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1715,7 +1832,7 @@ der .....................
 
     *   täglich fällig
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1726,7 +1843,7 @@ der .....................
 
     *   mit vereinbarter Laufzeit oder Kündigungsfrist
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1737,7 +1854,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1747,7 +1864,7 @@ der .....................
 
     *   täglich fällig
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1758,7 +1875,7 @@ der .....................
 
     *   mit vereinbarter Laufzeit oder Kündigungsfrist
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1769,7 +1886,7 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
@@ -1778,28 +1895,13 @@ der .....................
     *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
 *    *
     *
-    *   aa)
-
-    *   Verbindlichkeiten zur Ausführung von Zahlungsvorgängen
-
-    *   ……
-
-    *
-    *
-
-*    *
-    *
-    *   bb)
-
-    *   davon auf Zahlungskonten
-
-    *   …… Euro
+    *   davon:
 
     *
     *
@@ -1807,13 +1909,45 @@ der .....................
 
 *    *
     *
-    *   cc)
+    *   zur Ausführung von Zahlungsvorgängen
 
-    *   davon aus der Ausgabe von E-Geld
-
-    *   …… Euro
+    *   .....
 
     *
+    *
+
+*    *
+    *
+    *   darunter:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   auf Zahlungskonten
+
+    *   ..... Euro
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   davon:
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   aus der Ausgabe von E-Geld
+
+    *   .....
+
     *
     *
 
@@ -1823,27 +1957,27 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
 *    *   3.
 
-    *   Verbindlichkeiten gegenüber Instituten im Sinn des § 1 Absatz 2a des
+    *   Verbindlichkeiten gegenüber Instituten im Sinne des § 1 Absatz 3 des
         Zahlungsdiensteaufsichtsgesetzes
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1853,7 +1987,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1862,16 +1996,16 @@ der .....................
     *   Sonstige Verbindlichkeiten
 
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1881,7 +2015,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1891,16 +2025,16 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1910,7 +2044,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1920,7 +2054,7 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
@@ -1929,7 +2063,7 @@ der .....................
     *   Rückstellungen für Pensionen und ähnliche Verpflichtungen
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -1937,9 +2071,9 @@ der .....................
     *
     *   aa)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1950,7 +2084,7 @@ der .....................
 
     *   aus sonstigen Tätigkeiten
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1961,25 +2095,17 @@ der .....................
     *   Steuerrückstellungen
 
     *
-    *   ……
+    *   .....
 
-    *
-
-*    *
-    *
-    *   ähnliche Verpflichtungen
-
-    *
-    *
     *
 
 *    *
     *
     *   aa)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
-    *   ……
+    *   .....
 
     *
     *
@@ -1990,7 +2116,7 @@ der .....................
 
     *   aus sonstigen Tätigkeiten
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2001,7 +2127,7 @@ der .....................
     *   andere Rückstellungen
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2009,9 +2135,9 @@ der .....................
     *
     *   aa)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2022,7 +2148,7 @@ der .....................
 
     *   aus sonstigen Tätigkeiten
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2033,7 +2159,7 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *   8.
@@ -2042,16 +2168,16 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2061,7 +2187,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2071,7 +2197,7 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
@@ -2084,7 +2210,7 @@ der .....................
 *    *
     *   vor Ablauf von zwei Jahren fällig
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2095,7 +2221,7 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *   11.
@@ -2120,20 +2246,20 @@ der .....................
     *
     *   Gezeichnetes Kapital
 
-    *
-    *   ……
+    *   .....
 
+    *
     *
 
 *    *
     *
     *   abzüglich nicht eingeforderter ausstehender Einlagen
 
-    *
     *   *.....*
 
-    *   ……
+    *   .....
 
+    *
 
 *    *
     *   b)
@@ -2141,9 +2267,9 @@ der .....................
     *   Kapitalrücklage
 
     *
-    *
-    *   ……
+    *   .....
 
+    *
 
 *    *
     *   c)
@@ -2151,9 +2277,9 @@ der .....................
     *   Gewinnrücklagen
 
     *
-    *
-    *   ……
+    *   .....
 
+    *
 
 *    *
     *
@@ -2161,7 +2287,7 @@ der .....................
 
     *   gesetzliche Rücklage
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2173,7 +2299,7 @@ der .....................
     *   Rücklage für Anteile an einem herrschenden oder mehrheitlich
         beteiligten Unternehmen
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2184,7 +2310,7 @@ der .....................
 
     *   satzungsmäßige Rücklagen
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2195,7 +2321,7 @@ der .....................
 
     *   andere Gewinnrücklagen
 
-    *   ……
+    *   .....
 
     *
     *
@@ -2206,7 +2332,7 @@ der .....................
     *   Bilanzgewinn/Bilanzverlust
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2214,7 +2340,8 @@ der .....................
 
     *
     *
-    *   ……
+    *   .....
+        ‗‗‗‗‗
 
 
 *    *   1.
@@ -2223,16 +2350,16 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2242,7 +2369,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2252,16 +2379,16 @@ der .....................
 
     *
     *
-    *   ……
+    *   *.....*
 
 
 *    *
     *   a)
 
-    *   aus Zahlungsdiensten und aus der Ausgabe von E-Geld
+    *   aus Zahlungsdiensten und der Ausgabe von E-Geld
 
     *
-    *   ……
+    *   .....
 
     *
 
@@ -2271,7 +2398,7 @@ der .....................
     *   aus sonstigen Tätigkeiten
 
     *
-    *   ……
+    *   .....
 
     *
 

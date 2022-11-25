@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1444
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 29 V v. 12.2.2009 I 320
+:   Art. 62 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel
@@ -735,7 +735,8 @@ Fachgebieten die gleichen Anforderungen gestellt werden. Die Arbeiten
 werden von der oder dem jeweiligen Lehrenden nach § 32 bewertet und
 der Leitung der Bundeswehrverwaltungsschule vorgelegt. Diese kann die
 Noten und Rangpunkte ändern, um einen einheitlichen Bewertungsmaßstab
-sicherzustellen; eine Änderung ist schriftlich zu begründen.
+sicherzustellen; eine Änderung ist schriftlich oder elektronisch zu
+begründen.
 
 (3) Auf dem Gebiet der Informationstechnik (§ 18 Abs. 3) ist
 zusätzlich ein Leistungsnachweis zu erbringen, der aus einem
@@ -789,7 +790,7 @@ einer Durchschnittspunktzahl nach § 32 Abs. 1 Satz 2 abschließen.
 auf der Grundlage eines Entwurfs mit den Anwärterinnen und Anwärtern
 besprochen. Sie sind ihnen zu eröffnen. Die Anwärterinnen und Anwärter
 erhalten eine Ausfertigung der Bewertung und der Beiträge und können
-dazu schriftlich Stellung nehmen.
+dazu schriftlich oder elektronisch Stellung nehmen.
 
 
 ### (XXXX) §§ 21 und 22 (weggefallen)
@@ -987,10 +988,11 @@ nicht vor der endgültigen Bewertung der schriftlichen Prüfungsarbeiten
 bekannt gegeben werden.
 
 (6) Die Prüfungsarbeiten werden unter Aufsicht gefertigt. Die
-Aufsichtführenden fertigen eine Niederschrift und vermerken darin die
-Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit,
-in Anspruch genommene Prüfungserleichterungen im Sinne des § 12 sowie
-etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
+Aufsichtführenden fertigen ein schriftliches oder elektronisches
+Protokoll und vermerken darin die Zeitpunkte des Beginns, der
+Unterbrechung und der Abgabe der Arbeit, in Anspruch genommene
+Prüfungserleichterungen im Sinne des § 12 sowie etwaige besondere
+Vorkommnisse.
 
 (7) Jede Prüfungsarbeit wird von zwei Prüfenden nach einem zuvor von
 der Prüfungskommission festgelegten Bewertungsmaßstab unabhängig
@@ -1061,8 +1063,9 @@ mündlichen Prüfung ist in einer Durchschnittspunktzahl auszudrücken,
 die sich aus der Summe der Rangpunkte, geteilt durch die Anzahl der
 Einzelbewertungen, ergibt.
 
-(5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+(5) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 30 Verhinderung, Rücktritt, Säumnis
@@ -1151,7 +1154,7 @@ bewertet:
 
 *    *   ausreichend (4) 7 bis 5 Punkte
 
-    *   eine Leistung, die zwar Mängel aufweist,  aber im Ganzen den
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
         Anforderungen noch entspricht,
 
 
@@ -1159,7 +1162,7 @@ bewertet:
 
     *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
         lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in in absehbarer Zeit behoben werden könnten,
+        Mängel in absehbarer Zeit behoben werden könnten,
 
 
 *    *   ungenügend (6) 1 bis 0 Punkte

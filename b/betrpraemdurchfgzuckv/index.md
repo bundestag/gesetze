@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 3467
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.11.2011 I 2171
+:   Art. 1 V v. 5.12.2012 I 2545
 
 
 ## Eingangsformel
@@ -60,6 +60,10 @@ wird in Höhe von 540 Euro der Region Rheinland-Pfalz zugeteilt.
 (7) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes
 bezeichnete im Jahr 2011 erfolgte Erhöhung der nationalen Obergrenze
 wird in Höhe von 993 Euro der Region Rheinland-Pfalz zugeteilt.
+
+(8) Die in § 4 Absatz 3c des Betriebsprämiendurchführungsgesetzes
+bezeichnete im Jahr 2012 erfolgte Erhöhung der nationalen Obergrenze
+wird in Höhe von 274 Euro der Region Rheinland-Pfalz zugeteilt.
 
 
 ## § 2 Ausgleichsbetrag je Tonne Zucker

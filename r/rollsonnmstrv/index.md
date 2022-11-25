@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
-  in den Teilen I und II der Meisterprüfung im Rollladen-  und Jalousiebauer-Handwerk
+  in den Teilen I und II der Meisterprüfung im Rollladen- und Sonnenschutztechniker-Handwerk
 jurabk: RollSonnMstrV
 layout: default
 origslug: rollsonnmstrv
@@ -8,7 +8,7 @@ slug: rollsonnmstrv
 
 ---
 
-# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Rollladen-  und Jalousiebauer-Handwerk (RollSonnMstrV)
+# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Rollladen- und Sonnenschutztechniker-Handwerk (RollSonnMstrV)
 
 Ausfertigungsdatum
 :   2007-01-22
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 51
 
-Geändert durch
-:   Art. 33 V v. 17.11.2011 I 2234
+Zuletzt geändert durch
+:   Art. 2 Abs. 60 V v. 18.1.2022 I 39
 
 
 
@@ -33,17 +33,19 @@ Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
 
-Die Meisterprüfung im zulassungsfreien Rollladen- und Jalousiebauer-
-Handwerk umfasst folgende selbständige Prüfungsteile:
+Die Meisterprüfung im zulassungspflichtigen Rollladen- und
+Sonnenschutztechniker-Handwerk umfasst folgende selbständige
+Prüfungsteile:
 
-1.  die Prüfung der meisterhaften Verrichtung der Tätigkeiten (Teil I),
+1.  die Prüfung der meisterhaften Verrichtung wesentlicher Tätigkeiten
+    (Teil I),
 
 
-2.  die Prüfung der besonderen fachtheoretischen Kenntnisse (Teil II),
+2.  die Prüfung der erforderlichen fachtheoretischen Kenntnisse (Teil II),
 
 
-3.  die Prüfung der besonderen betriebswirtschaftlichen, kaufmännischen
-    und rechtlichen Kenntnisse (Teil III) und
+3.  die Prüfung der erforderlichen betriebswirtschaftlichen,
+    kaufmännischen und rechtlichen Kenntnisse (Teil III) und
 
 
 4.  die Prüfung der erforderlichen berufs- und arbeitspädagogischen
@@ -56,15 +58,15 @@ Handwerk umfasst folgende selbständige Prüfungsteile:
 ## § 2 Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling
-befähigt ist, einen Betrieb zu führen, technische, kaufmännische und
-personalwirtschaftliche Leitungsaufgaben wahrzunehmen, die Ausbildung
-durchzuführen und seine berufliche Handlungskompetenz
-eigenverantwortlich umzusetzen und an neue Bedarfslagen in diesen
-Bereichen anzupassen.
+befähigt ist, einen Betrieb selbständig zu führen, technische,
+kaufmännische und personalwirtschaftliche Leitungsaufgaben
+wahrzunehmen, die Ausbildung durchzuführen und seine berufliche
+Handlungskompetenz eigenverantwortlich umzusetzen und an neue
+Bedarfslagen in diesen Bereichen anzupassen.
 
-(2) Im Rollladen- und Jalousiebauer-Handwerk sind zum Zwecke der
-Meisterprüfung folgende Fertigkeiten und Kenntnisse als ganzheitliche
-Qualifikationen zu berücksichtigen:
+(2) Im Rollladen- und Sonnenschutztechniker-Handwerk sind zum Zwecke
+der Meisterprüfung folgende Fertigkeiten und Kenntnisse als
+ganzheitliche Qualifikationen zu berücksichtigen:
 
 1.  Kundenwünsche ermitteln, Kunden beraten, Serviceleistungen anbieten,
     Auftragsverhandlungen führen und Auftragsziele festlegen, Leistungen
@@ -235,7 +237,7 @@ kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt
 den Qualifikationsnachweis für die Meisterprüfung im Rollladen- und
-Jalousiebauer-Handwerk. Die Aufgabenstellung erfolgt durch den
+Sonnenschutztechniker-Handwerk. Die Aufgabenstellung erfolgt durch den
 Meisterprüfungsausschuss.
 
 (2) Als Situationsaufgabe sind
@@ -483,9 +485,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
-(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
-Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung
-bleiben unberührt.
+(1) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
@@ -494,9 +495,10 @@ sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 
 ## § 10 Übergangsvorschrift
 
-Die Regelungen des § 8 Absatz 6 und 7 gelten nicht für die bis zum 31.
-Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
-bisherigen Vorschriften zu Ende geführt.
+Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
+worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
+Vorschriften durch den nach § 47 der Handwerksordnung errichteten
+Meisterprüfungsausschuss fortzuführen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten

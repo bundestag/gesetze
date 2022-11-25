@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1969, 2117
 
+Geändert durch
+:   Art. 22 V v. 2.6.2016 I 1257
+
 
 
 ## Eingangsformel
@@ -29,7 +32,7 @@ Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 ## § 1
 
-Die Wasser- und Schiffahrtsdirektionen werden ermächtigt,
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 Rechtsverordnungen nach § 46 Nr. 2 WaStrG über die Zulassung des
 Befahrens von Talsperren und Speicherbecken mit Wasserfahrzeugen zu
 erlassen.

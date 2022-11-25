@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 90
 
+Zuletzt geändert durch
+:   Art. 4 V v. 16.8.2021 I 3582
+
 
 ## Eingangsformel
 
@@ -36,12 +39,12 @@ Bundeslaufbahnverordnung, soweit in dieser Verordnung nichts anderes
 bestimmt ist.
 
 (2) Die Bundeslaufbahnverordnung gilt mit der Maßgabe, dass an die
-Stelle des Einvernehmens mit dem Bundesministerium des Innern das
-Einvernehmen mit dem Bundesministerium der Finanzen tritt.
+Stelle des Einvernehmens mit dem Bundesministerium des Innern, für Bau
+und Heimat das Einvernehmen mit dem Bundesministerium der Finanzen
+tritt.
 
-(3) § 3 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass
-Eignung, Befähigung und fachliche Leistung an den Anforderungen des
-jeweiligen Postnachfolgeunternehmens gemessen werden.
+(3) Eignung, Befähigung und fachliche Leistung sind an den
+Anforderungen des jeweiligen Postnachfolgeunternehmens zu messen.
 
 (4) Als dienstliche Gründe im Sinne der Bundeslaufbahnverordnung
 gelten auch betriebliche oder personalwirtschaftliche Gründe, die sich
@@ -53,15 +56,11 @@ Dienstposten im Sinne der Bundeslaufbahnverordnung gelten auch
 Tätigkeiten bei den Postnachfolgeunternehmen oder anderen Unternehmen,
 die wahrgenommen werden
 
-1.  während einer Beurlaubung nach § 4 Absatz 3 des
-    Postpersonalrechtsgesetzes,
+1.  während einer Beurlaubung nach § 4 Absatz 2 des
+    Postpersonalrechtsgesetzes oder
 
 
-2.  während einer ruhegehaltfähigen Beurlaubung nach § 13 Absatz 1 der
-    Sonderurlaubsverordnung oder
-
-
-3.  während einer Zuweisung nach § 4 Absatz 4 des
+2.  während einer Zuweisung nach § 4 Absatz 4 des
     Postpersonalrechtsgesetzes.
 
 
@@ -127,25 +126,22 @@ Auswahlverfahren zu fordern.
 
 ## § 6 Beurteilung und Beförderung
 
-(1) Eine ruhegehaltfähige Beurlaubung nach § 13 Absatz 1 der
-Sonderurlaubsverordnung steht einer Beförderung im Rahmen einer
-regelmäßigen Laufbahnentwicklung nicht entgegen. In den Fällen des § 4
-Absatz 3 und 4 des Postpersonalrechtsgesetzes sowie des Satzes 1 ist
-Maßstab für die regelmäßige Laufbahnentwicklung das Fortkommen der
-Beamtinnen und Beamten derselben Laufbahn und Laufbahngruppe mit der
-gleichen Eignung, Befähigung und fachlichen Leistung, die bei dem
-jeweiligen Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
+(1) In den Fällen des § 1 Absatz 5 ist Maßstab für die regelmäßige
+Laufbahnentwicklung das Fortkommen der Beamtinnen und Beamten
+derselben Laufbahn und Laufbahngruppe mit der gleichen Eignung,
+Befähigung und fachlichen Leistung, die bei dem jeweiligen
+Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
 
 (2) Kann in den Fällen des Absatzes 1 eine zur Vorbereitung der
 Beurteilung geeignete Stellungnahme des Unternehmens, bei dem die
 Beamtin oder der Beamte tätig ist, nicht innerhalb eines angemessenen
 Zeitraums erlangt werden, so ist die letzte regelmäßige dienstliche
 Beurteilung unter Berücksichtigung der Entwicklung vergleichbarer
-Beamtinnen und Beamten im Sinne des Absatzes 1 Satz 2 fiktiv
-fortzuschreiben. Sind vergleichbare Beamtinnen und Beamte nicht in der
-erforderlichen Anzahl vorhanden, tritt an ihre Stelle die Entwicklung
-vergleichbarer Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in
-den Fällen des § 33 Absatz 3 der Bundeslaufbahnverordnung.
+Beamtinnen und Beamten im Sinne des Absatzes 1 fiktiv fortzuschreiben.
+Sind vergleichbare Beamtinnen und Beamte nicht in der erforderlichen
+Anzahl vorhanden, tritt an ihre Stelle die Entwicklung vergleichbarer
+Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in den Fällen des §
+33 Absatz 3 der Bundeslaufbahnverordnung.
 
 (3) Hauptberufliche Zeiten einer Verwendung nach Absatz 1 gelten als
 Erprobungszeit auf einem anderen Dienstposten gleicher Bewertung im
@@ -161,11 +157,25 @@ Dienstbehörde abgesehen werden.
 
 ## § 7 Fachspezifische Qualifizierungen für den Aufstieg
 
-Die oberste Dienstbehörde kann im Einvernehmen mit dem
-Bundesministerium der Finanzen die Dauer und die Inhalte der
-fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 der
-Bundeslaufbahnverordnung festlegen, wenn die Anforderungen der
-Laufbahnen dies rechtfertigen.
+Wenn die Anforderungen der Laufbahnen es rechtfertigen, kann die
+oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
+Finanzen
+
+1.  die Dauer der fachtheoretischen Ausbildung abweichend von § 38 Absatz
+    2 Satz 1 der Bundeslaufbahnverordnung festlegen,
+
+
+2.  abweichend von § 38 Absatz 2 Satz 2 der Bundeslaufbahnverordnung
+    festlegen, dass die fachtheoretische Ausbildung auch für den Aufstieg
+    in den mittleren Dienst zum Teil berufsbegleitend durchgeführt werden
+    kann, und
+
+
+3.  die Inhalte der fachtheoretischen Ausbildung abweichend von § 38
+    Absatz 2 Satz 3 der Bundeslaufbahnverordnung festlegen.
+
+
+
 
 
 ## § 8 Überleitungs- und Übergangsvorschriften
@@ -238,6 +248,10 @@ sind folgende Vorschriften weiterhin anzuwenden:
 
 
 
+
+(7) Eine Beurlaubung nach § 13 Absatz 1 der Sonderurlaubsverordnung,
+die vor dem 6. Juni 2015 erfolgt ist und deren Zeit ruhegehaltfähig
+ist, steht einer Beurlaubung nach § 1 Absatz 5 Nummer 1 gleich.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten

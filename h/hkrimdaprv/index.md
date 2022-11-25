@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 43
 
+Geändert durch
+:   Art. 2 V v. 9.12.2020 I 2883
+
 
 ## Eingangsformel
 
@@ -72,29 +75,19 @@ und 8 des Bundesgleichstellungsgesetzes sind zu berücksichtigen.
 
 (3) Wer zum Auswahlverfahren oder zu Teilen des Auswahlverfahrens
 nicht zugelassen wird oder am Auswahlverfahren erfolglos teilgenommen
-hat, erhält einen schriftlichen Bescheid über die Nichtzulassung oder
-die erfolglose Teilnahme. Die eingereichten Bewerbungsunterlagen sind
-zurückzusenden oder zu vernichten.
+hat, erhält eine elektronische Mitteilung. Die Bewerbungsunterlagen
+sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die
+Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch
+eingesandte Bewerbungsunterlagen sind endgültig zu löschen.
 
 (4) Das Auswahlverfahren wird von einer beim Bundeskriminalamt
 eingerichteten Auswahlkommission durchgeführt. Die Auswahlkommission
-besteht aus
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzenden
-    oder Vorsitzendem und
-
-
-2.  vier weiteren Beamtinnen oder Beamten des höheren Dienstes.
-
-
-
-Mindestens zwei Mitglieder sollen die Laufbahnbefähigung für den
-höheren Kriminaldienst besitzen. Die Mitglieder sind unabhängig und
-nicht weisungsgebunden. Die Auswahlkommission entscheidet mit
-Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Die Mitglieder
-und Ersatzmitglieder der Auswahlkommission werden vom
-Bundeskriminalamt für die Dauer von drei Jahren bestellt.
-Wiederbestellung ist zulässig.
+soll geschlechterparitätisch besetzt sein und besteht aus mindestens
+einer Beamtin und einem Beamten des höheren Dienstes. Mindestens ein
+Mitglied soll die Laufbahnbefähigung für den höheren Kriminaldienst
+besitzen. Die Mitglieder sind unabhängig und nicht weisungsgebunden.
+Die Mitglieder werden vom Bundeskriminalamt bestellt. Die Bestellung
+kann widerrufen werden.
 
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In
 diesem Fall sind gleiche Auswahlmaßstäbe sicherzustellen.
@@ -159,24 +152,7 @@ Die Masterprüfung an der Deutschen Hochschule der Polizei ist die
 Laufbahnprüfung.
 
 
-## § 10 Übergangsvorschriften
-
-Die Verordnung über die Laufbahn, Ausbildung und Prüfung für den
-höheren Kriminaldienst des Bundes vom 3. September 2001 (BGBl. I S.
-2342), die zuletzt durch § 13 der Verordnung vom 18. September 2009
-(BGBl. I S. 3042) geändert worden ist, ist weiter anzuwenden:
-
-1.  in den Fällen des § 12 der Kriminallaufbahnverordnung vom 18.
-    September 2009 (BGBl. I S. 3042) sowie
-
-
-2.  für Beamtinnen und Beamte, die in der Zeit vom 1. Oktober 2008 bis zum
-    31\. Mai 2009 den Ausbildungsaufstieg nach § 25 der Kriminal-
-    Laufbahnverordnung vom 20. April 2004 (BGBl. I S. 682), die zuletzt
-    durch § 56 Absatz 4 der Verordnung vom 12. Februar 2009 (BGBl. I S.
-    284) geändert worden ist, begonnen haben.
-
-
+## § 10 (weggefallen)
 
 
 

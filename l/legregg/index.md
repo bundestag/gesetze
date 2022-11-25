@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 1894
 
 Zuletzt geändert durch
-:   Art. 15 G v. 9.12.2010 I 1934
+:   Art. 2 G v. 28.7.2014 I 1308
 
 Dieses Gesetz dient auch der Umsetzung der Richtlinie 1999/74/EG des
 Rates zur Festlegung von Mindestanforderungen zum Schutz von
@@ -53,9 +53,12 @@ Gemeinschaft oder Europäischen Union im Anwendungsbereich des Satzes
 
 
 2.  Betriebe mit weniger als 350 Legehennen, sofern die Betriebe Eier in
-    den Verkehr bringen, die nach Artikel 4 Abs. 1 der Verordnung (EG) Nr.
-    1028/2006 des Rates vom 19. Juni 2006 mit Vermarktungsnormen für Eier
-    (ABl. EU Nr. L 186 S. 1) zu kennzeichnen sind.
+    den Verkehr bringen, die nach Anhang VII Teil VI Abschnitt III Nr. 1
+    der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+    Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für
+    landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+    (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+    1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) zu kennzeichnen sind.
 
 
 
@@ -151,12 +154,12 @@ zuständigen Behörde nach Maßgabe des Absatzes 2 angezeigt hat.
 
 
 10. im Falle der Haltung der Legehennen im ökologischen Landbau die im
-    Rahmen der Durchführung der Verordnung (EWG) Nr. 2092/91 des Rates vom
-    24\. Juni 1991 über den ökologischen Landbau und die entsprechende
-    Kennzeichnung der landwirtschaftlichen Erzeugnisse und Lebensmittel
-    (ABl. EG Nr. L 198 S. 1), zuletzt geändert durch die Verordnung (EG)
-    Nr. 394/2007 der Kommission vom 12. April 2007 (ABl. EU Nr. L 98 S. 3)
-    vergebene Nummer.
+    Rahmen der Durchführung der Verordnung (EG) Nr. 834/2007 des Rates vom
+    28\. Juni 2007 über die ökologische/biologische Produktion und die
+    Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur
+    Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007,
+    S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158
+    vom 10.6.2013, S. 1) geändert worden ist, vergebene Nummer
 
 
 
@@ -181,9 +184,17 @@ fortlaufenden Identifizierungsnummer für den Stall (Stallnummer)
 zusammen.
 
 (2) Erfüllt ein Stall die Anforderungen an mehrere Haltungssysteme,
-sind dem Inhaber des Betriebes für diesen Stall mehrere Kennnummern
-mitzuteilen, die sich lediglich in der Angabe zum Haltungssystem
-unterscheiden.
+können dem Inhaber des Betriebes auf dessen Antrag für diesen Stall
+mehrere Kennnummern, die sich lediglich in der Angabe zum
+Haltungssystem unterscheiden, mitgeteilt werden. Zur gleichen Zeit
+darf pro Stall nur eine Kennnummer zur Kennzeichnung der Eier
+verwendet werden. Der Inhaber des Betriebes darf eine andere als die
+bisher verwendete Kennnummer zur Kennzeichnung der Eier nur verwenden,
+wenn er der zuständigen Behörde den Wechsel des Haltungssystems
+mindestens zwei Tage vor der Umstellung schriftlich oder elektronisch
+angezeigt hat. Die Länder dürfen zur Berücksichtigung besonderer
+regionaler Bedürfnisse einen anderen als den in Satz 3 genannten
+Zeitraum festsetzen.
 
 (3) Erfordert eine Änderungsanzeige nach § 3 Abs. 3 die Zuteilung
 einer neuen Kennnummer, teilt die zuständige Behörde diese dem Inhaber
@@ -205,12 +216,11 @@ Kennnummern.
 
 2.  registrierte Daten den zuständigen Behörden anderer Länder und anderer
     Mitgliedstaaten der Europäischen Union (Mitgliedstaaten), dem
-    Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-    (Bundesministerium) und den Organen und Einrichtungen der Europäischen
-    Union, soweit dies zur Erfüllung von durch Rechtsakte der Europäischen
-    Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1
-    Absatz 1 Satz 1 vorgeschriebene Berichts- und Mitteilungspflichten
-    erforderlich ist.
+    Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium)
+    und den Organen und Einrichtungen der Europäischen Union, soweit dies
+    zur Erfüllung von durch Rechtsakte der Europäischen Gemeinschaft oder
+    der Europäischen Union im Anwendungsbereich des § 1 Absatz 1 Satz 1
+    vorgeschriebene Berichts- und Mitteilungspflichten erforderlich ist.
 
 
 
@@ -222,9 +232,8 @@ zum Zweck
     zuständigen Behörden der Länder,
 
 
-2.  der Evaluierung des Registersystems an das Bundesministerium für
-    Ernährung, Landwirtschaft und Verbraucherschutz und an die jeweils
-    zuständigen Behörden der Länder,
+2.  der Evaluierung des Registersystems an das Bundesministerium und an
+    die jeweils zuständigen Behörden der Länder,
 
 
 3.  der lebensmittelrechtlichen und handelsklassenrechtlichen Überwachung
@@ -370,9 +379,9 @@ Zustimmung des Bundesrates
 
 (2) Das Bundesministerium wird ferner ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen auf
-Vorschriften der Verordnung (EG) Nr. 1028/2006 und der Verordnung
-(EWG) Nr. 2092/91 in diesem Gesetz zu ändern, soweit es zur Anpassung
-an Änderungen dieser Vorschriften erforderlich ist.
+Vorschriften der Verordnung (EU) Nr. 1308/2013 und der Verordnung (EG)
+Nr. 834/2007 in diesem Gesetz zu ändern, soweit es zur Anpassung an
+Änderungen dieser Vorschriften erforderlich ist.
 
 (3) Rechtsverordnungen nach Absatz 1 können ohne Zustimmung des
 Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur
@@ -405,17 +414,23 @@ die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
     vollständig oder nicht rechtzeitig erstattet,
 
 
-3.  entgegen § 6 Eier in Verkehr bringt,
+3.  entgegen § 4 Absatz 2 Satz 2 mehr als eine Kennnummer verwendet,
 
 
-4.  einer vollziehbaren Anordnung nach § 7 Abs. 2 Satz 2 zuwiderhandelt,
+4.  entgegen § 4 Absatz 2 Satz 3 eine dort genannte Kennnummer verwendet,
 
 
-5.  entgegen § 7 Abs. 4 eine dort genannte Maßnahme nicht duldet oder bei
+5.  entgegen § 6 Eier in Verkehr bringt,
+
+
+6.  einer vollziehbaren Anordnung nach § 7 Abs. 2 Satz 2 zuwiderhandelt,
+
+
+7.  entgegen § 7 Abs. 4 eine dort genannte Maßnahme nicht duldet oder bei
     der Besichtigung nicht mitwirkt oder
 
 
-6.  einer Rechtsverordnung nach § 8 Abs. 1 Nr. 2 oder einer vollziehbaren
+8.  einer Rechtsverordnung nach § 8 Abs. 1 Nr. 2 oder einer vollziehbaren
     Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
     soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
     Bußgeldvorschrift verweist.
@@ -423,9 +438,9 @@ die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
 
 
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 und
-5 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen
-mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2,
+3, 4 und 7 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen
+Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ## § 11 Einziehung

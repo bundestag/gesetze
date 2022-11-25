@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 1237, 1256
 
-Geändert durch
-:   Bek. v. 30.5.2001 I 1203
+Zuletzt geändert durch
+:   Beschluss d. Bundestages v. 28.2.2013 gem. Bek. v. 12.3.2013 I 548
 
 
 ## § 1 Anwendungsbereich
@@ -130,6 +130,20 @@ c)  weitere vom Präsidenten ermächtigte Stellen.
 
 
 
+
+
+## § 3a Einsichtnahme in Verschlusssachen
+
+Verschlusssachen der Geheimhaltungsgrade Streng geheim oder Geheim
+dürfen nur in den Räumen der Geheimregistratur eingesehen werden.
+Abweichend hiervon können Verschlusssachen Mitgliedern von
+Untersuchungsausschüssen sowie von Gremien, die auf Grund rechtlicher
+Grundlage regelmäßig geheim tagen, zur Einsichtnahme in ihren
+Büroräumen ausgegeben werden, sofern diese mit VS-Verwahrgelassen
+ausgestattet und die Verschlusssachen dem Bundestag zum Zwecke der
+Auftragserledigung dieses Gremiums zugeleitet worden sind. Satz 2 gilt
+für Personen entsprechend, die vom Präsidenten hierzu ermächtigt
+werden.
 
 
 ## § 4 Kenntnis und Weitergabe einer VS

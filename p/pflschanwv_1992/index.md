@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1887
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.12.2011 I 2927
+:   Art. 2 V v. 2.9.2021 I 4111
 
 
 ## § 1 Vollständiges Anwendungsverbot
@@ -81,19 +81,172 @@ bestehen oder einen solchen Stoff enthalten und deren Anwendung auf
 einer Freilandfläche vorgesehen ist, die nicht landwirtschaftlich,
 forstwirtschaftlich oder gärtnerisch genutzt wird, dürfen nur dann an
 einen anderen abgegeben werden, wenn dem Abgebenden zuvor eine dem
-anderen erteilte Genehmigung nach § 6 Abs. 3 des
+anderen erteilte Genehmigung nach § 12 Absatz 2 des
 Pflanzenschutzgesetzes vorgelegt worden ist.
 
 
-## § 4 Verbot der Anwendung in Naturschutzgebieten und Nationalparken
+## § 3b Besondere Anwendungsbedingungen
 
-Pflanzenschutzmittel, die aus einem in Anlage 2 oder 3 aufgeführten
-Stoff bestehen oder einen solchen Stoff enthalten, dürfen in
-Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten,
-Naturdenkmälern und gesetzlich geschützten Biotopen im Sinne des § 30
-des Bundesnaturschutzgesetzes nicht angewandt werden, es sei denn, daß
-eine Anwendung in der Schutzregelung ausdrücklich gestattet ist oder
-die Naturschutzbehörde die Anwendung ausdrücklich gestattet.
+(1) Bei der Anwendung von Pflanzenschutzmitteln, die aus einem in
+Anlage 3 Abschnitt A Nummer 4 oder 5 aufgeführten Stoff bestehen oder
+einen solchen Stoff enthalten, sind neben den mit der Zulassung des
+jeweiligen Pflanzenschutzmittels festgelegten Anwendungsbestimmungen
+und Nebenbestimmungen die in den Absätzen 2 bis 5 genannten
+Bedingungen einzuhalten.
+
+(2) Die Anwendung ist nur zulässig, wenn nach den Umständen des
+Einzelfalles vorbeugende Maßnahmen, wie die Wahl einer geeigneten
+Fruchtfolge, eines geeigneten Aussaatzeitpunktes oder mechanischer
+Maßnahmen im Bestand oder das Anlegen einer Pflugfurche, nicht
+durchgeführt werden können und andere technische Maßnahmen nicht
+geeignet oder zumutbar sind. Die Aufwandmenge, die Häufigkeit der
+Anwendung und die zu behandelnden Flächen sind auf das notwendige Maß
+zu beschränken.
+
+(3) Eine Anwendung zur Vorsaatbehandlung, ausgenommen im Rahmen eines
+Direktsaat- oder Mulchsaatverfahrens, oder nach der Ernte zur
+Stoppelbehandlung ist nur zulässig
+
+1.  zur Bekämpfung perennierender Unkrautarten wie Ackerkratzdistel,
+    Ackerwinde, Ampfer, Landwasserknöterich und Quecke auf den betroffenen
+    Teilflächen, oder
+
+
+2.  zur Unkrautbekämpfung, einschließlich der Beseitigung von Mulch- und
+    Ausfallkulturen, auf Ackerflächen, die in eine
+    Erosionsgefährdungsklasse nach § 6 Absatz 2 bis 4 der Agrarzahlungen-
+    Verpflichtungenverordnung                    vom 17. Dezember 2014
+    (BAnz AT 23.12.2014 V1), die zuletzt durch Artikel 2 der Verordnung
+    vom 22. September 2020 (BAnz AT 24.09.2020 V1) geändert worden ist, in
+    der jeweils geltenden Fassung zugeordnet sind.
+
+
+
+
+(4) Eine flächige Anwendung auf Grünland ist nur zulässig
+
+1.  zur Erneuerung des Grünlandes bei einer Verunkrautung, bei der auf
+    Grund ihres Ausmaßes ohne die Anwendung die wirtschaftliche Nutzung
+    des Grünlandes oder die Futtergewinnung wegen eines Risikos für die
+    Tiergesundheit nicht möglich ist, oder
+
+
+2.  zur Vorbereitung einer Neueinsaat auf Flächen, die in eine
+    Erosionsgefährdungsklasse nach § 6 Absatz 2 bis 4 der Agrarzahlungen-
+    Verpflichtungenverordnung zugeordnet sind oder auf denen eine wendende
+    Bodenbearbeitung auf Grund anderer Vorschriften nicht erlaubt ist.
+
+
+
+Im Falle der Nummer 1 ist die Anwendung auf die betroffenen
+Teilflächen des Grünlandes zu beschränken.
+
+(5) Eine Spätanwendung vor der Ernte sowie die Anwendung in
+Wasserschutzgebieten, Heilquellenschutzgebieten und Kern- und
+Pflegezonen von Biosphärenreservaten ist nicht zulässig.
+
+
+## § 4 Verbot der Anwendung in Gebieten mit Bedeutung für den Naturschutz
+
+(1) In Naturschutzgebieten, Nationalparken, Nationalen
+Naturmonumenten, Naturdenkmälern und gesetzlich geschützten Biotopen
+im Sinne des § 30 des Bundesnaturschutzgesetzes, ausgenommen
+Trockenmauern im Weinbau, dürfen Pflanzenschutzmittel nicht angewendet
+werden, die
+
+1.  aus einem in Anlage 2 oder 3 aufgeführten Stoff bestehen oder einen
+    solchen Stoff enthalten,
+
+
+2.  dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu
+    vernichten, oder
+
+
+3.  dazu bestimmt sind, Pflanzen oder Pflanzenteile vor Insekten zu
+    schützen oder Insekten zu bekämpfen, und die durch das Bundesamt für
+    Verbraucherschutz und Lebensmittelsicherheit mit der Auflage einer
+    Kennzeichnung als bienengefährlich B1 bis B3 oder als
+    bestäubergefährlich NN 410 zugelassen worden sind.
+
+
+
+Die Verbote des Satzes 1 gelten auch in Gebieten von
+gemeinschaftlicher Bedeutung im Sinne des § 7 Absatz 1 Nummer 6 des
+Bundesnaturschutzgesetzes, ausgenommen Flächen zum Gartenbau, Obst-
+und Weinbau, Anbau von Hopfen und sonstigen Sonderkulturen, zur
+Vermehrung von Saatgut und Pflanzgut sowie nach Maßgabe des Absatzes 3
+Ackerflächen, die nicht als Naturschutzgebiet, Nationalpark,
+Nationales Naturmonument oder Naturdenkmal ausgewiesen sind. Die Sätze
+1 und 2 gelten nicht, soweit ein Land Vorschriften erlassen hat oder
+erlässt, mit denen für Schutzgebiete nach wasserrechtlichen oder
+naturschutzrechtlichen Bestimmungen über das Bundesrecht hinausgehende
+Vorgaben zum Pflanzenschutzmitteleinsatz einschließlich Ausnahmen und
+Befreiungen festgelegt werden.
+
+(2) Die zuständige Behörde kann Ausnahmen von den in Absatz 1
+genannten Verboten zulassen:
+
+1.  zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher
+    oder sonstiger wirtschaftlicher Schäden,
+
+
+2.  zum Schutz der heimischen Tier- und Pflanzenwelt, insbesondere vor
+    invasiven Arten, und
+
+
+3.  zur Gewährleistung der Verkehrssicherheit von Schienenwegen.
+
+
+
+Dies gilt nicht für die Anwendung von Pflanzenschutzmitteln, die aus
+einem in Anlage 3 Abschnitt A Nummer 4 oder 5 aufgeführten Stoff
+bestehen oder einen solchen Stoff enthalten.
+
+(3) In Gebieten von gemeinschaftlicher Bedeutung im Sinne des § 7
+Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes soll auf Ackerflächen,
+die nicht als Naturschutzgebiet, Nationalpark, Nationales
+Naturmonument oder Naturdenkmal ausgewiesen sind, bis zum 30. Juni
+2024 mittels freiwilliger Vereinbarungen und Maßnahmen eine
+Bewirtschaftung ohne Anwendung der in Absatz 1 Satz 1 aufgeführten
+Pflanzenschutzmittel erreicht werden.
+
+(4) Das Bundesministerium für Ernährung und Landwirtschaft untersucht
+die Anwendung der in Absatz 1 Satz 1 aufgeführten Pflanzenschutzmittel
+auf den in Absatz 1 Satz 2 bezeichneten Ackerflächen sowie die
+Maßnahmen, die zur Reduzierung der Anwendung dieser
+Pflanzenschutzmittel auf diesen Flächen ergriffen werden. Das
+Bundesministerium für Ernährung und Landwirtschaft erstattet dem
+Bundeskabinett bis spätestens 30. Juni 2024 Bericht über die
+Auswirkung der zur Reduzierung der Anwendung von Pflanzenschutzmitteln
+ergriffenen Maßnahmen. Dieser Bericht soll, sofern erforderlich,
+Vorschläge für Anpassungen der Regelungen des Absatzes 1 enthalten.
+
+
+## § 4a Verbot der Anwendung an Gewässern
+
+(1) Pflanzenschutzmittel dürfen an Gewässern, ausgenommen kleine
+Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, innerhalb
+eines Abstandes von zehn Metern zum Gewässer, gemessen ab der
+Böschungsoberkante oder soweit keine Böschungsoberkante vorhanden ist
+ab der Linie des Mittelwasserstandes, nicht angewendet werden.
+Abweichend von Satz 1 beträgt der einzuhaltende Mindestabstand fünf
+Meter, wenn eine geschlossene, ganzjährig begrünte Pflanzendecke
+vorhanden ist. Eine Bodenbearbeitung zur Erneuerung des
+Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen
+durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit dem 8.
+September 2021. Sind mit der Zulassung des jeweiligen
+Pflanzenschutzmittels Anwendungsbestimmungen über größere Abstände
+oder über die zu verwendenden Pflanzenschutzgeräte festgelegt worden,
+bleibt die Pflicht zur Einhaltung dieser Anwendungsbestimmungen
+unberührt. Die Sätze 1 bis 4 gelten nicht, soweit ein Land Regelungen
+nach § 22 Absatz 1 Nummer 1 Buchstabe b des Pflanzenschutzgesetzes
+getroffen hat oder trifft, mit denen abweichende Gewässerabstände
+festgelegt werden.
+
+(2) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 und 2
+zur Abwendung erheblicher landwirtschaftlicher, forstwirtschaftlicher
+oder sonstiger wirtschaftlicher Schäden oder zum Schutz der heimischen
+Tier- und Pflanzenwelt, insbesondere vor invasiven Arten, genehmigen.
 
 
 ## § 5 Einfuhrverbote
@@ -176,36 +329,28 @@ oder Versuchszwecke genehmigen.
 
 
 
-## § 8 Ordnungswidrigkeiten
+## § 8 Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 1 Buchstabe b des
+(1) Nach § 69 Absatz 1 Nummer 2, Absatz 6 des Pflanzenschutzgesetzes
+wird bestraft, wer entgegen § 1 ein Pflanzenschutzmittel anwendet.
+
+(2) Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 1, § 2, § 3 Abs. 1 oder 2 oder § 4 ein Pflanzenschutzmittel
-    anwendet,
+entgegen § 3a ein Pflanzenschutzmittel abgibt.
 
 
-2.  (weggefallen)
+## § 9 Generelles Anwendungsverbot
 
-
-3.  entgegen § 3a ein Pflanzenschutzmittel abgibt oder
-
-
-4.  entgegen § 5 Abs. 1 oder 2 Satz 1 Pflanzgut, Saatgut oder
-    Kultursubstrat einführt.
-
-
-
-
-(2) Ordnungswidrig im Sinne des § 40 Abs. 1 Nr. 2 Buchstabe c des
-Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 3 Abs. 3 zuwiderhandelt.
+Glyphosat und Glyphosat-Trimesium (Anlage 1 Nummer 27a und 27b)
+unterliegen dem Anwendungsverbot nach den §§ 1 und 5 Absatz 1 erst ab
+dem 1. Januar 2024.
 
 (zu den §§ 1 und 5 Abs. 1)
 
 ## Anlage 1 Vollständiges Anwendungsverbot
 
-Fundstelle des Originaltextes: BGBl. I 2003, 1534
+Fundstelle des Originaltextes: BGBl. I 2003, 1534;
+bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   Nummer
 
@@ -351,6 +496,16 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 *    *   27
 
     *   Fluoressigsäure und ihre Derivate
+
+
+*    *   27a
+
+    *   Glyphosat
+
+
+*    *   27b
+
+    *   Glyphosat-Trimesium
 
 
 *    *   28
@@ -618,7 +773,7 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
 ## Anlage 3 Anwendungsbeschränkungen
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 1536 - 1537;
+(Fundstelle: BGBl. I 2003, 1536 - 1537;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer
@@ -661,6 +816,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+
+*    *   1a
+
+    *   (weggefallen)
+
+    *
 
 *    *   2
 
@@ -735,11 +896,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Drainagen, Straßenabläufe sowie Regen- und Schmutzwasserkanäle
             besteht, es sei denn, die zuständige Behörde schreibt mit der
             Genehmigung ein Anwendungsverfahren vor, mit dem sichergestellt ist,
-            dass die Gefahr der Abschwemmung nicht besteht.
+            dass die Gefahr der Abschwemmung nicht besteht,
+
+
+        3.  im Haus- und Kleingartenbereich; dies gilt nicht, solange für das
+            jeweilige Pflanzenschutzmittel auf Grund einer vor dem 8. September
+            2021 getroffenen unanfechtbaren Entscheidung
+
+            a)  die Anwendung durch nichtberufliche Anwender zugelassen ist oder
+
+
+            b)  die Anwendung durch berufliche Anwender zugelassen und die Eignung zur
+                Anwendung im Haus- und Kleingartenbereich nach § 36 Absatz 1 Satz 2
+                Nummer 3 oder Absatz 2 des Pflanzenschutzgesetzes festgelegt ist,
 
 
 
 
+
+        4.  auf Flächen, die für die Allgemeinheit bestimmt sind; dies gilt nicht,
+            solange für das jeweilige Pflanzenschutzmittel auf Grund einer vor dem
+            8\. September 2021 getroffenen unanfechtbaren Entscheidung die Eignung
+            für die Anwendung auf Flächen, die für die Allgemeinheit bestimmt
+            sind, im Rahmen eines Zulassungsverfahrens festgelegt oder die
+            Anwendung auf Flächen genehmigt ist, die für die Allgemeinheit
+            bestimmt sind.
+
+
+
+
+
+*    *   5a
+
+    *   (weggefallen)
+
+    *
 
 *    *   6
 
@@ -749,6 +940,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Die Anwendung in Vorräten von Getreide und Räumen, die der Lagerung
         von Getreide dienen, ist verboten.
 
+
+*    *   7
+
+    *   (weggefallen)
+
+    *
 
 *    *
     *   Abschnitt B

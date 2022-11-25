@@ -15,11 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 1670
 
-Zuletzt geändert durch
-:   Art. 2 V v. 16.12.2011 I 1318
+Stand: Zuletzt geändert Art. 4 V v. 15.9.2020 II 699
+Änderung durch
+:   Art. 5 V v. 20.5.2021 II 442 (Nr. 10) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 7 V v. 21.6.2012 II 618 (Nr. 20) noch nicht berücksichtigt
+:   Art. 4 V v. 16.2.2022 II 82 (Nr. 4) mWv 25.2.2022 noch nicht berücksichtigt
 
 
 ## Eingangsformel
@@ -70,11 +71,11 @@ Mosel in Kraft gesetzt. Die Moselschiffahrtspolizeiverordnung wird als
 Anlage zu dieser Verordnung veröffentlicht.
 
 (2) Das "Handbuch Binnenschiffahrtsfunk" im Sinne des § 1.10 Nr. 1
-Satz 1 Buchstabe m und des § 4.05 Nr. 1 Satz 2 der Anlage ist das von
-der Zentralkommission für die Rheinschiffahrt in Straßburg am 25.
+Satz 1 Buchstabe m und des § 4.05 Nummer 1 Satz 1 der Anlage ist das
+von der Zentralkommission für die Rheinschiffahrt in Straßburg am 25.
 April 1996 beschlossene und dort niedergelegte Handbuch
 Binnenschiffahrtsfunk in der jeweils geltenden Fassung. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt den
+Bundesministerium für Verkehr und digitale Infrastruktur gibt den
 aktuellen Stand des Handbuches im Verkehrsblatt bekannt.
 
 (3) Kilometerangaben für einzelne Moselstrecken (Kapitel 8 bis 10 der
@@ -83,62 +84,69 @@ jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
 
+## Art 1a (weggefallen)
+
+
+
 ## Art 1a Vorschriften über die Schiffsuntersuchung
 
-§ 1.08 Nr. 3, § 1.10 Nr. 1 Buchstabe c und Nr. 3, § 1.21 Nr. 4, § 2.04
-Nr. 1 Satz 3 und § 11.05 Nr. 1 Satz 1 der Anlage und die nach Artikel
-2 Abs. 2 erlassenen Rechtsverordnungen sind mit der Maßgabe
-anzuwenden, dass sich die Angabe „Rheinschiffsuntersuchungsordnung“
-auf die in § 1 Abs. 8 der Binnenschiffsuntersuchungsordnung vom 6.
-Dezember 2008 (BGBl. I S. 2450) bezeichneten Vorschriften in der
-jeweils anzuwendenden Fassung bezieht.
+§ 1.08 Nummer 3 Satzteil vor Buchstabe a und Buchstabe a, § 1.10
+Nummer 1 Buchstabe x und Nummer 2 Satz 7, § 1.21 Nummer 4 und § 4.07
+Nummer 1 Satz 2 Buchstabe b zweiter Spiegelstrich der
+Moselschifffahrtspolizeiverordnung – Anlage zu dieser Verordnung –
+sowie die nach Artikel 2 Absatz 2 erlassenen Rechtsverordnungen sind
+mit der Maßgabe anzuwenden, dass sich die Angabe
+„Rheinschiffsuntersuchungsordnung“ auf die in § 1 Absatz 8 der
+Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+1398, 2032), die durch Artikel 7 der Verordnung vom 31. Oktober 2019
+(BGBl. I S. 1518) geändert worden ist, bezeichneten Vorschriften in
+der jeweils geltenden und anzuwendenden Fassung bezieht.
 
 
 ## Art 2 Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen
-3 bis 8 nichts anderes bestimmt ist, die Wasser- und
-Schiffahrtsdirektion Südwest als Strom- und Schiffahrtspolizeibehörde.
-Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten
-Stellen übertragen.
+3 bis 8 nichts anderes bestimmt ist, die Generaldirektion
+Wasserstraßen und Schifffahrt als Strom- und
+Schiffahrtspolizeibehörde. Diese kann die Regelung örtlicher
+Verhältnisse ihren nachgeordneten Stellen übertragen.
 
-(2) Die Wasser- und Schiffahrtsdirektion Südwest wird ermächtigt,
-durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung
-der Anlage eine von der Anlage abweichende Regelung bis zur Dauer von
-drei Jahren zu treffen.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der
+Moselkommission nach § 1.22a der Anlage durch Rechtsverordnung in
+dringenden Fällen oder zu Versuchszwecken eine von der Anlage
+abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu
+treffen.
 
 (3) Zuständige Behörde für die Zulassung von Baumustern der
-Radargeräte und Geräte zur Anzeige der Wendegeschwindigkeit nach §
-4\.06 Nr. 1 Buchstabe a der Anlage ist die Fachstelle der Wasser- und
-Schifffahrtsverwaltung für Verkehrstechniken beim Wasser- und
-Schifffahrtsamt Koblenz.
+Radargeräte, der Geräte zur Anzeige der Wendegeschwindigkeit und der
+Inland ECDIS Geräte nach § 4.06 Nr. 1 Buchstabe a der Anlage ist die
+die vom Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 
-(4) Zuständige Behörde im Sinne des § 1.10 Nr. 3 der Anlage, deren §
-1\.12 Nr. 3 und 4, § 1.13 Nr. 2 und 3, §§ 1.14, 1.15 Nr. 2, § 1.17 Nr.
-1 Satz 1, Nr. 2, § 1.18 Nr. 4, §§ 1.19, 1.20 und 11.03 Nr. 2 sind
-neben den Wasser- und Schiffahrtsdirektionen auch deren nachgeordnete
-Stellen und nach Maßgabe der nach § 1 Abs. 1 Nr. 2 Halbsatz 2 des
-Binnenschiffahrtsaufgabengesetzes geschlossenen Vereinbarungen mit den
-Ländern die Polizeikräfte der Länder.
+(4) Zuständige Behörde im Sinne des § 1.10 Nummer 4 der Anlage, deren
+§ 1.12 Nr. 3 und 4, § 1.13 Nr. 2 und 3, §§ 1.14, 1.15 Nr. 2, § 1.17
+Nr. 1 Satz 1, Nr. 2, § 1.18 Nr. 4, § 1.19 Satz 1, §§ 1.20 und 11.03
+Nummer 3 sind neben der Generaldirektion Wasserstraßen und Schifffahrt
+auch deren nachgeordnete Stellen und nach Maßgabe der nach § 1 Abs. 1
+Nr. 2 Halbsatz 2 des Binnenschiffahrtsaufgabengesetzes geschlossenen
+Vereinbarungen mit den Ländern die Polizeikräfte der Länder.
 
 (5) Zuständige Behörde im Sinne des § 1.07 Nr. 5 der Anlage, deren §
 11\.05 Nr. 1, für die Anbringung der Einsenkungsmarken nach deren §
 2\.04 Nr. 1 und der Tiefgangsanzeiger nach deren § 2.04 Nr. 2 ist die
-Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt.
+Generaldirektion Wasserstraßen und Schifffahrt.
 
 (6) Zuständige Behörde für die Zulassung von Baumustern von
 Signalleuchten nach § 3.02 Nr. 2 der Anlage ist das Bundesamt für
 Seeschiffahrt und Hydrographie.
 
-(7) Zuständige Behörden für die Entgegennahme der Meldungen nach §
-9\.05 Nr. 2 Satz 2 der Anlage sind die Revierzentralen der Wasser- und
-Schiffahrtsdirektionen West und Südwest in Duisburg und Oberwesel.
+(7) Zuständige Behörde für die Entgegennahme der Meldungen nach § 9.05
+Nummer 3 Satz 1 der Anlage ist die Revierzentrale der Generaldirektion
+Wasserstraßen und Schifffahrt in Oberwesel.
 
 (8) Zuständige Behörde für die Zulassung einer Annahmestelle nach §
-11\.01 Nr. 1 Buchstabe d der Anlage ist die nach § 63 des
-Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl.
-I S. 2705), das durch Artikel 3 des Gesetzes vom 12. September 1996
-(BGBl. I S. 1354) geändert worden ist, nach Landesrecht bestimmte
+11\.05 Nummer 2 Satz 1 der Anlage ist die nach Landesrecht bestimmte
 Behörde.
 
 (9) Liegen die Voraussetzungen des § 48 oder des § 49 des
@@ -149,9 +157,9 @@ versehen.
 
 ## Art 3 Fahrzeuge des öffentlichen Dienstes
 
-Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
-Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, der
-Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und
+Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
+der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei,
+der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und
 Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von
 den Vorschriften der Anlage befreit, soweit dies zur Erfüllung
 hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen
@@ -164,7 +172,7 @@ Sicherheit und Ordnung dringend geboten ist.
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 1.25 oder §
+1.  einer vollziehbaren Auflage nach § 1.21 Nr. 1 Satz 3, § 1.27 oder §
     7\.01 Nr. 3 der Moselschiffahrtspolizeiverordnung, auch in Verbindung
     mit Artikel 2 Abs. 9, oder
 
@@ -197,6 +205,15 @@ oder fahrlässig
     Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine
     Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration
     führt, im Körper befindet,
+
+
+3a. entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine
+    Rettungsweste trägt,
+
+
+3b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl
+    das Schiff nicht stillliegt oder zu erwarten ist, dass die Arbeiten
+    durch den übrigen Schiffsverkehr gefährdet werden,
 
 
 4.  entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen
@@ -237,16 +254,20 @@ oder fahrlässig
 12a. entgegen § 6.22 Nr. 4 eine gesperrte Wasserfläche benutzt,
 
 
-13. entgegen § 11.03 Nr. 1 Altöl, Bilgenwasser, Altfett, anderen öl- oder
-    fetthaltigen Abfall, Slops, Hausmüll oder übrigen Sonderabfall in die
-    Wasserstraße einbringt oder einleitet oder entgegen § 11.04 Nr. 2
-    Buchstabe a, b oder c Satz 1 Behälter als Altölsammelbehälter
-    verwendet, Abfälle an Bord verbrennt oder Reinigungsmittel in die
-    Maschinenraumbilgen einbringt oder
+13. entgegen § 11.03 Nummer 1 öl- oder fetthaltigen Schiffsbetriebsabfall,
+    Slops, Hausmüll, Klärschlamm oder übrigen Sonderabfall, Teile der
+    Ladung oder Abfälle aus dem Ladungsbereich in die Wasserstraße
+    einbringt oder einleitet,
 
 
-14. entgegen § 11.09 die Außenhaut des Fahrzeugs mit Öl anstreicht oder
-    mit einem der dort genannten Mittel reinigt.
+14. entgegen § 11.04 Nummer 2 Buchstabe a, b oder c Satz 1 an Deck
+    gestaute lose Behälter als Altölsammelbehälter verwendet, Abfälle an
+    Bord verbrennt oder öl- oder fettlösende oder emulgierende
+    Reinigungsmittel in die Maschinenraumbilgen einbringt oder
+
+
+15. entgegen § 11.09 die Außenhaut des Fahrzeugs mit Öl anstreicht oder
+    mit einem dort genannten Mittel reinigt.
 
 
 
@@ -326,18 +347,50 @@ Geschwindigkeit verantwortliche Person
 13. entgegen § 4.03 Nr. 1 Schallzeichen gebraucht,
 
 
-14. die Sprechfunkanlage nicht gemäß den in § 4.05 Nr. 1 Satz 1 Buchstabe
-    c oder d genannten Vorschriften betreibt oder entgegen § 4.05 Nr. 1
-    Satz 2 nicht die vorgeschriebene Sprache verwendet,
+14. entgegen § 4.05 Nummer 1 Satz 2 bis 4 nicht die vorgeschriebene
+    Sprache benutzt,
 
 
-15. entgegen § 4.05 Nr. 2 Satz 2 oder Nr. 3 Satz 2, jeweils in Verbindung
-    mit Satz 3, Sprechfunk nicht sende- oder empfangsbereit geschaltet hat
-    oder entgegen Nr. 4 Satz 1 sich über Sprechfunk nicht meldet oder
-    entgegen Nr. 4 Satz 2 Nachrichten nicht gibt,
+15. entgegen § 4.05 Nummer 2 Satz 2 in Verbindung mit Satz 3 oder Nummer 3
+    Satz 2 in Verbindung mit Satz 3 und auch in Verbindung mit Satz 4 die
+    Sprechfunkanlage nicht ständig sende- oder empfangsbereit geschaltet
+    hat,
 
 
-16. entgegen § 4.06 Nr. 1 Radar benutzt,
+15a. entgegen § 4.05 Nummer 4 Satz 1 sich nicht über Sprechfunk meldet,
+
+
+15b. entgegen § 4.05 Nummer 4 Satz 2 nicht oder nicht rechtzeitig auf dem
+    zugewiesenen Kanal die für die Sicherheit der Schifffahrt notwendigen
+    Nachrichten gibt,
+
+
+15c. entgegen § 4.05 Nummer 5 Sprechfunk nicht benutzt,
+
+
+16. entgegen § 4.06 Nummer 1, auch in Verbindung mit Nummer 3, Radar
+    benutzt,
+
+
+16a. entgegen § 4.07 Nummer 2 Buchstabe a ein Inland AIS Gerät nicht
+    einschaltet oder nicht eingeschaltet lässt,
+
+
+16b. entgegen § 4.07 Nummer 2 Buchstabe b erster Halbsatz ein Inland AIS
+    Gerät nutzt, das nicht mit maximaler Leistung sendet,
+
+
+16c. entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im
+    Sendebetrieb nutzt,
+
+
+16d. entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland
+    AIS Gerät nutzt, in dem die eingegebenen Daten nicht den tatsächlichen
+    Daten des Fahrzeugs oder Verbands entsprechen,
+
+
+16e. entgegen § 4.07 Nummer 3 Satz 1 ein dort genanntes Inland ECDIS Gerät
+    nicht nutzt,
 
 
 17. entgegen § 5.01 Nr. 2 in Verbindung mit Nr. 1 eine Anordnung nicht
@@ -350,7 +403,8 @@ Geschwindigkeit verantwortliche Person
 19. einer Vorschrift über
 
     a)  die Fahrregeln für Kleinfahrzeuge nach § 6.02 Nr. 1 erster Halbsatz, §
-        6\.02a Nr. 1 bis 3, 4 Satz 1 oder 2, Nr. 5 oder 6,
+        6\.02a Nr. 1 bis 3, 4 Satz 1 oder 2, Nummer 5, 6 oder Nummer 7 Satz 1
+        oder 2,
 
 
     b)  das Verhalten oder die Zeichengebung beim Begegnen nach § 6.03, §
@@ -390,20 +444,20 @@ Geschwindigkeit verantwortliche Person
 
 
     j)  das Verhalten beim Durchfahren der Schleusenvorhäfen oder Schleusen
-        oder des Schleusenbereiches nach § 6.28 Nr. 2 bis 4 Satz 1, Nr. 5 bis
-        7, Nr. 8 Satz 3, Nr. 9 Satz 1, Nummer 10 Satz 4 oder Nr. 12 Satz 2, §
-        6\.28a Nr. 1 Satz 2 Buchstabe a bis c, Nr. 2 Buchstabe a oder Nr. 4, §
-        6\.29 Nr. 1 Buchstabe b Satz 2 oder 3 oder § 9.03 Nr. 2 Satz 1, Nr. 3
-        oder 4,
+        oder des Schleusenbereiches nach § 6.28 Nummer 2 bis 4 Satz 1, Nummer
+        5 bis 7, Nummer 8 Satz 3 bis 6, Nummer 9 Satz 1, Nummer 10 Satz 4,
+        Nummer 11 oder Nummer 13 Satz 2, § 6.28a Nummer 1 Satz 2 Buchstabe a
+        bis c, Nummer 2 Buchstabe a oder Nummer 4, § 6.29 Nummer 1 Buchstabe b
+        Satz 2 oder Satz 3 oder § 9.03 Nummer 2 bis 4,
 
 
     k)  die Fahrt bei unsichtigem Wetter nach § 6.30 Nr. 1 bis 5, § 6.31 Nr. 1
         oder 2 oder § 6.33,
 
 
-    l)  die Benutzung von Sprechfunk auf Verbänden oder Fahrzeugen mit einer
-        Länge von mehr als 110,00 m nach § 8.07 Nummer 2 oder auf Verbänden
-        nach § 9.04 Nummer 2,
+    l)  die Benutzung von Sprechfunk auf Schubverbänden oder Fahrzeugen mit
+        einer Länge von mehr als 110,00 m nach § 8.07 Nummer 2 oder auf
+        Schubverbänden nach § 9.04 Nummer 2,
 
 
     m)  Sprechverbindungen auf Verbänden nach § 8.07 Nummer 3, 5 oder Nummer
@@ -491,15 +545,36 @@ oder fahrlässig als Schiffsführer
     Wasserstraße oder der Anlagen angepaßt ist,
 
 
-7.  ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nr. 3 die Stabilität
-    des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet oder
-    für das entgegen § 1.07 Nr. 4 eine Stabilitätsüberprüfung nicht oder
-    nicht rechtzeitig vorgenommen wurde,
+7.  ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nummer 3 die
+    Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers
+    gefährdet,
 
 
-7a. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1
+7a. entgegen § 1.07 Nummer 4 Satz 1 die Stabilität eines Fahrzeugs, das
+    Container befördert, nicht jederzeit gewährleistet,
+
+
+7b. entgegen § 1.07 Nummer 4 Satz 2 nicht nachweist, dass vor Beginn des
+    Ladens oder Löschens oder vor Fahrtantritt eines Fahrzeugs, das
+    Container befördert, eine Stabilitätsprüfung durchgeführt wurde,
+
+
+7c. entgegen § 1.07 Nummer 4 Satz 4 das Ergebnis der Stabilitätsprüfung
+    oder den aktuellen Stauplan nicht an Bord eines Fahrzeugs, das
+    Container befördert, mitführt oder auf Verlangen lesbar macht,
+
+
+7d. entgegen § 1.07 Nummer 4 Satz 5 die dort genannten
+    Stabilitätsunterlagen nicht mitführt,
+
+
+7e. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4
     vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl
     oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+
+
+7f. der Vorschrift des § 1.08 Nummer 5 über das Öffnen, Entfernen oder
+    Setzen von Geländern zuwiderhandelt,
 
 
 8.  nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1
@@ -526,10 +601,10 @@ oder fahrlässig als Schiffsführer
 
 
 13. entgegen § 1.12 Nr. 3 Satz 1 oder Nr. 4, § 1.13 Nr. 2 oder 3, § 1.14,
-    § 1.15 Nr. 2, § 1.17 Nr. 1 Satz 2, Nr. 2 Satz 1 oder § 9.02 Nr. 3 Satz
-    2 nicht oder nicht rechtzeitig für eine Benachrichtigung sorgt oder
-    entgegen § 1.17 Nr. 1 Satz 1 eine Anzeige nicht oder nicht rechtzeitig
-    vornimmt,
+    § 1.15 Nr. 2, § 1.17 Nr. 1 Satz 2, Nr. 2 Satz 1, § 9.02 Nr. 3 Satz 2
+    oder § 11.03 Nummer 3 nicht oder nicht rechtzeitig für eine
+    Benachrichtigung sorgt oder entgegen § 1.17 Nr. 1 Satz 1 eine Anzeige
+    nicht oder nicht rechtzeitig vornimmt,
 
 
 14. entgegen § 1.16 Nr. 1 bei Unfällen nicht alle verfügbaren Mittel
@@ -566,15 +641,15 @@ oder fahrlässig als Schiffsführer
 22. entgegen § 1.25 lädt, löscht oder leichtert,
 
 
-23. ein Fahrzeug führt, das entgegen § 2.01 oder § 2.02 nicht oder nicht
-    in der vorgeschriebenen Weise gekennzeichnet ist oder an dem entgegen
-    § 2.04 Nr. 1 Satz 1 oder Nr. 2 Satz 1 Einsenkungsmarken oder
+23. ein Fahrzeug führt, das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder
+    nicht in der vorgeschriebenen Weise gekennzeichnet ist oder an dem
+    entgegen § 2.04 Nr. 1 Satz 1 oder Nr. 2 Satz 1 Einsenkungsmarken oder
     Tiefgangsanzeiger nicht angebracht sind,
 
 
 24. ein Binnenschiff führt, das entgegen § 2.03 nicht geeicht ist, oder
-    ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2
-    nicht gekennzeichnet ist,
+    ein Fahrzeug führt, dessen Anker entgegen § 2.05 Nummer 1 nicht
+    gekennzeichnet ist,
 
 
 25. einer Vorschrift des § 3.02 Nummer 1, 2 Satz 1 oder Nummer 3 zweiter
@@ -614,10 +689,43 @@ oder fahrlässig als Schiffsführer
     nicht in der vorgeschriebenen Weise hingewiesen wird,
 
 
-29. ein Fahrzeug führt, auf dem eine Sprechfunkanlage entgegen § 4.05 Nr.
-    1 den dort genannten Vorschriften nicht entspricht oder das nicht mit
-    den vorgeschriebenen Sprechfunkanlagen nach § 4.05 Nr. 2 Satz 1 oder
-    Nr. 3 Satz 1 ausgerüstet ist,
+28a. entgegen § 3.34 ein Fahrzeug, das für den Einsatz von Tauchern
+    verwendet wird nicht in der dort vorgeschriebenen Weise bezeichnet,
+
+
+29. ein Fahrzeug oder eine schwimmende Anlage führt, auf dem eine
+    Schiffsfunkstelle entgegen § 4.05 Nummer 1 Satz 1 nicht entsprechend
+    den dort genannten Vorschriften ausgerüstet ist oder nicht
+    entsprechend den dort genannten Vorschriften betrieben wird,
+
+
+29a. ein Fahrzeug führt, das nicht mit den vorgeschriebenen
+    Sprechfunkanlagen nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1,
+    auch in Verbindung mit Satz 4, ausgerüstet ist,
+
+
+29b. ein Fahrzeug führt,
+
+    a)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
+        ausgestattet ist
+
+
+    b)  das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht
+        mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist
+        oder
+
+
+    c)  das entgegen § 4.07 Nummer 8 nicht mit einer dort genannten
+        Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+
+
+
+
+
+29c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht oder nicht
+    vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort
+    genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht
+    vollständig aktualisiert,
 
 
 30. einer Vorschrift über
@@ -629,22 +737,30 @@ oder fahrlässig als Schiffsführer
     b)  die Radarfahrt nach § 6.32 Nr. 1 Satz 1 oder Nr. 2,
 
 
-    c)  das Stilliegen nach § 7.01, das Liegeverbot nach § 7.02 Nr. 1
-        Buchstabe a bis l Satz 1 oder Buchstabe m Satz 1, das Ankern nach §
-        7\.03 Nr. 1, das Festmachen nach § 7.04 Nr. 1 oder 3, die Benutzung der
-        Liegestellen nach § 7.05 oder § 7.06 oder die Mindestabstände nach §
-        7\.07 Nr. 1,
+    c)  das Stilliegen oder das Betreten der Fahrzeuge nach § 7.01, das
+        Liegeverbot nach § 7.02 Nr. 1 Buchstabe a bis l Satz 1 oder Buchstabe
+        m Satz 1, das Ankern nach § 7.03 Nr. 1, die Benutzung einer Stelze
+        oder eines Ankerpfahls nach § 7.03 Nummer 3 Satz 1, das Festmachen
+        nach § 7.04 Nummer 1, auch in Verbindung mit Nummer 2, oder Nummer 3,
+        die Benutzung der Liegestellen nach § 7.05 oder § 7.06 Nummer 1, 2
+        oder Nummer 3 Satz 1 oder die Mindestabstände nach § 7.07 Nr. 1,
 
 
-    d)  die Wache oder Aufsicht nach § 7.08 Nr. 1 Satz 1, Nr. 2 oder 3,
+    d)  die Wache oder Aufsicht nach § 7.08 Nummer 1, Nummer 1 Buchstabe a in
+        Verbindung mit Nummer 2 Buchstabe a und Nummer 1 Buchstabe b in
+        Verbindung mit Nummer 2 Buchstabe b, oder Nummer 5,
 
 
-    e)  die Höchstabmessungen der Fahrzeuge oder Schubverbände nach § 8.01
-        Nummer 1 oder
+    e)  die Höchstabmessungen der Fahrzeuge, Schubverbände oder
+        Schleppverbände nach § 8.01 Nummer 1,
 
 
-    f)  die Meldepflicht nach § 9.05 Nr. 1, 2, 3 Satz 2 oder 3 Nummer 4 bis 6
-        oder Nummer 8
+    f)  die Meldepflicht nach § 9.05 Nummer 1 in Verbindung mit Nummer 2,
+        Nummer 3 Satz 2, Nummer 4 bis 9, Nummer 11 oder Nummer 12 oder
+
+
+    g)  die Aufbewahrung des Ölkontrollbuches nach § 11.05 Nummer 1 Satz 2
+        oder 3 oder der Entladebescheinigung nach § 11.08 Nummer 2 Satz 2
 
 
 
@@ -705,27 +821,50 @@ oder fahrlässig als Schiffsführer
     werden,
 
 
-40. entgegen § 8.12 Nr. 1 an einer nicht zugelassenen Anlegestelle anlegt,
+39a. nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord
+    von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, nach §
+    8\.12 Nummer 1, 2 Satz 1 oder Satz 3, Nummer 3 Satz 1, auch in
+    Verbindung mit Satz 2, oder Nummer 4 eingehalten werden,
 
 
-41. entgegen § 8.12 Nr. 2 Satz 1 länger als notwendig liegenbleibt,
+40. entgegen § 8.13 Nummer 1 an einer nicht zugelassenen Anlegestelle
+    anlegt,
 
 
-42. entgegen § 11.04 Nr. 1 nicht sicherstellt, daß Abfälle in der
-    vorgeschriebenen Weise gesammelt werden, oder Behälter nicht lagert,
+41. entgegen § 8.13 Nummer 2 Satz 1 länger als notwendig liegenbleibt,
 
 
-43. ein Fahrzeug ohne das nach § 11.05 Nr. 1 Satz 1 vorgeschriebene
-    Ölkontrollbuch führt,
+42. entgegen § 11.04 Nummer 1 in Verbindung mit § 11.03 Nummer 1 nicht
+    sicherstellt, dass öl- oder fetthaltiger Schiffsbetriebsabfall, Slops,
+    Hausmüll, Klärschlamm, übriger Sonderabfall oder Bilgenwasser in der
+    vorgeschriebenen Weise gesammelt werden, oder Behälter nicht oder
+    nicht in der vorgeschriebenen Weise lagert,
 
 
-44. entgegen § 11.05 Nr. 1 Satz 2 oder 3 ein Ölkontrollbuch nicht an Bord
-    aufbewahrt oder entgegen § 11.05 Nr. 2 Satz 1 oder Nr. 4 Abfälle nicht
-    abgibt oder entgegen § 11.05 Nr. 3 einen Nachweis nicht erbringt oder
+43. entgegen § 11.05 Nummer 1 Satz 1 ein gültiges Ölkontrollbuch nicht an
+    Bord hat oder entgegen § 11.05 Nummer 2 Satz 1 öl- oder fetthaltige
+    Schiffsbetriebsabfälle, Slops oder übriger Sonderabfälle nicht an den
+    zugelassenen Abnahmestellen abgibt oder entgegen § 11.05 Nummer 3 Satz
+    1, auch in Verbindung mit Satz 2, den Nachweis der Abgabe von Abfällen
+    nicht erbringt oder entgegen § 11.05 Nummer 4 Hausmüll oder
+    Klärschlamm nicht an den dafür vorgesehenen Abnahmestellen abgibt,
 
 
-45. einer Vorschrift über das Verhalten beim Bunkern nach § 11.06 Nr. 1
-    bis 3 zuwiderhandelt.
+44. einer Vorschrift über die Sorgfaltspflicht beim Bunkern nach § 11.06
+    zuwiderhandelt,
+
+
+44a. einer Vorschrift über die Sorgfaltspflicht beim Bunkern von
+    Flüssigerdgas (LNG) nach § 11.07 Nummer 2 bis 9 zuwiderhandelt,
+
+
+45. entgegen § 11.08 Nummer 1 bei der Restentladung oder bei der Abgabe
+    oder Annahme von Abfällen aus dem Ladungsbereich die dort genannten
+    Vorschriften nicht einhält oder
+
+
+46. entgegen § 11.08 Nummer 2 Satz 1 eine gültige Entladebescheinigung
+    nicht an Bord hat.
 
 
 
@@ -768,9 +907,9 @@ oder fahrlässig als Eigentümer oder Ausrüster
 
 
 1a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt,
-    obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen
-    Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der
-    vorgeschriebenen Art an Bord vorhanden sind,
+    obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel
+    nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art
+    an Bord vorhanden sind,
 
 
 2.  nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder
@@ -792,18 +931,28 @@ oder fahrlässig als Eigentümer oder Ausrüster
     nach § 3.23 vorgeschriebenen Weise bezeichnet werden,
 
 
+5a. anordnet oder zulässt, dass entgegen § 4.05 Nummer 1 Satz 1 auf einem
+    Fahrzeug oder einer schwimmenden Anlage eine Schiffsfunkstelle nicht
+    entsprechend den dort genannten Vorschriften ausgerüstet ist oder
+    nicht entsprechend den dort genannten Vorschriften betrieben wird,
+
+
 6.  die Radarfahrt eines Fahrzeugs anordnet oder zuläßt, das entgegen §
     4\.06 Nr. 1 oder § 6.32 Nr. 1 Satz 1 nicht vorschriftsmäßig ausgerüstet
     oder besetzt ist,
 
 
-7.  nicht dafür sorgt, daß sich an Bord der in § 7.08 Nr. 1 Satz 1 oder
-    Nr. 2 genannten Fahrzeuge eine einsatzfähige Wache aufhält,
+7.  nicht dafür sorgt, dass sich an Bord der in § 7.08 Nummer 1 genannten
+    Fahrzeuge ständig eine einsatzfähige Wache aufhält, die im Falle der
+    Fahrzeuge nach § 7.08 Nummer 1 Buchstabe a durch ein Mitglied der
+    Besatzung nach § 7.08 Nummer 2 Buchstabe a und im Falle der Fahrzeuge
+    nach § 7.08 Nummer 1 Buchstabe b durch ein Mitglied der Besatzung nach
+    § 7.08 Nummer 2 Buchstabe b sichergestellt wird,
 
 
 8.  nicht dafür sorgt, daß Fahrzeuge, Schwimmkörper oder schwimmende
-    Anlagen beim Stilliegen unter der Aufsicht einer nach § 7.08 Nr. 3
-    erster Halbsatz vorgeschriebenen Person stehen,
+    Anlagen beim Stilliegen unter der Aufsicht einer nach § 7.08 Nummer 5
+    vorgeschriebenen Person stehen,
 
 
 9.  anordnet oder zuläßt, daß ein Schubverband entgegen § 8.02 Nr. 1 Satz
@@ -836,14 +985,15 @@ oder fahrlässig als Eigentümer oder Ausrüster
         die Festigkeit des Schiffskörpers gefährdet,
 
 
-    e)  für das entgegen § 1.07 Nr. 4 eine Überprüfung der Stabilität nicht
-        oder nicht rechtzeitig vorgenommen wurde,
+    e)  für das entgegen § 1.07 Nummer 4 Satz 2 nicht nachgewiesen ist, dass
+        vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eine
+        Stabilitätsprüfung durchgeführt wurde,
 
 
     f)  das entgegen § 1.07 Nr. 5 mehr Fahrgäste als zugelassen an Bord hat,
 
 
-    g)  das entgegen § 2.01 oder § 2.02 nicht oder nicht in der
+    g)  das entgegen §§ 2.01, 2.02 oder § 2.06 nicht oder nicht in der
         vorgeschriebenen Weise gekennzeichnet ist,
 
 
@@ -854,8 +1004,7 @@ oder fahrlässig als Eigentümer oder Ausrüster
         2\.04 Nr. 2 Satz 1 Tiefgangsanzeiger nicht angebracht sind,
 
 
-    j)  dessen Anker entgegen § 2.05 Nr. 1 Satz 1 oder 2 nicht gekennzeichnet
-        ist,
+    j)  dessen Anker entgegen § 2.05 Nummer 1 nicht gekennzeichnet ist,
 
 
     k)  dessen Lichter entgegen § 3.02 Nr. 1 nicht von allen Seiten sichtbar
@@ -869,26 +1018,41 @@ oder fahrlässig als Eigentümer oder Ausrüster
         Schallgerät ausgerüstet ist,
 
 
-    m)  auf dem eine Sprechfunkanlage entgegen § 4.05 Nr. 1 bis 3 nicht in der
-        vorgeschriebenen Weise betrieben wird,
+    m)  das entgegen § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in
+        Verbindung mit Satz 4, nicht mit einer Sprechfunkanlage ausgerüstet
+        ist,
 
-        n) das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
+
+    n)  das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
+        ausgestattet ist,
+
+
+    o)  das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht
+        mit einem Inland ECDIS Gerät im Informationsmodus ausgestattet ist,
+
+
+    p)  das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit
+        einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
+        ist,
+
+
+    q)  das entgegen § 6.21 Nr. 1 Satz 1 über eine ausreichende
         Maschinenleistung nicht verfügt,
 
 
-    o)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
+    r)  das entgegen § 6.21 Nr. 3 Satz 1 zum Schleppen, Schieben oder zur
         Fortbewegung gekuppelter Fahrzeuge verwendet wird,
 
 
-    p)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
+    s)  das sich entgegen § 6.21 Nr. 3 Satz 2 nicht an der Steuerbordseite
         befindet,
 
 
-    q)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
+    t)  das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder
         geschleppt wird oder
 
 
-    r)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
+    u)  das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen
         überschreitet,
 
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 21.7.2009 I 2107
 
+Änderung durch
+:   Art. 4 V v. 28.9.2021 I 4595 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -139,8 +142,9 @@ systematische Aufzeichnungen zu machen, denen zu entnehmen sind:
 10. im Falle der Herstellung von Kleinpackungen
 
     a)  jeweils die Anerkennungs-, Bezugs-, Zulassungs-, Partie-, Referenz-,
-        Mischungs- oder Kennummer der für die Herstellung der Kleinpackungen
-        verwendeten Partien,
+        Mischungs- oder
+        Kennnummer                          der für die Herstellung der
+        Kleinpackungen verwendeten Partien,
 
 
     b)  das Gewicht oder die Stückzahl des verwendeten Saatgutes,
@@ -174,6 +178,12 @@ entbehrlich.
 (4) Werden bei den Aufzeichnungen Schlüsselzahlen oder
 Schlüsselzeichen verwendet, so müssen sie für die zuständige Behörde
 klar verständlich sein.
+
+(5) Werden die Aufzeichnungen in elektronischer Form geführt, sind
+diese zur Gewährleistung der Rückverfolgbarkeit zusammen mit den
+zugrundeliegenden Belegen für sechs Jahre aufzubewahren. Belege sind
+insbesondere Lieferscheine, Rechnungen, Wiegescheine und
+Beizprotokolle.
 
 
 ## § 2

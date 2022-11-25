@@ -15,8 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 842
 
-Geändert durch
-:   Art. 30 G v. 20.12.2011 I 2854
+Zuletzt geändert durch
+:   Art. 47 G v. 12.12.2019 I 2652
+
+Änderung durch
+:   Art. 79 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 80 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Mittelbare änderung durch
+:   Art. 89 Nr. 8 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Fördervoraussetzungen
@@ -39,26 +48,46 @@ freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr
 
 (1) Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
-1.  einen freiwilligen Dienst ohne Erwerbsabsicht, außerhalb einer
-    Berufsausbildung und vergleichbar einer Vollzeitbeschäftigung leisten,
+1.  die Vollzeitschulpflicht erfüllt haben, aber das 27. Lebensjahr noch
+    nicht vollendet haben,
 
 
-2.  sich auf Grund einer Vereinbarung nach § 11 zur Leistung dieses
-    Dienstes für eine Zeit von mindestens sechs Monaten und höchstens 24
-    Monaten verpflichtet haben,
+2.  einen freiwilligen Dienst
+
+    a)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
+        einer Vollzeitbeschäftigung leisten oder
 
 
-3.  für den Dienst nur unentgeltliche Unterkunft, Verpflegung und
-    Arbeitskleidung sowie ein angemessenes Taschengeld oder anstelle von
-    Unterkunft, Verpflegung und Arbeitskleidung entsprechende
-    Geldersatzleistungen erhalten dürfen, wobei ein Taschengeld dann
-    angemessen ist, wenn es 6 Prozent der in der allgemeinen
-    Rentenversicherung geltenden Beitragsbemessungsgrenze (§ 159 des
-    Sechsten Buches Sozialgesetzbuch) nicht übersteigt, und
+    b)  ohne Erwerbsabsicht, außerhalb einer Berufsausbildung und vergleichbar
+        einer Teilzeitbeschäftigung von mehr als 20 Stunden pro Woche leisten,
+        sofern ein berechtigtes Interesse der Freiwilligen an einer
+        Teilzeitbeschäftigung vorliegt,
 
 
-4.  die Vollzeitschulpflicht erfüllt, aber das 27. Lebensjahr noch nicht
-    vollendet haben.
+
+
+
+3.  sich auf Grund einer Vereinbarung nach § 11 zur Leistung des
+    freiwilligen Dienstes für eine Zeit von mindestens sechs Monaten und
+    höchstens 24 Monaten verpflichtet haben und
+
+
+4.  für den freiwilligen Dienst
+
+    a)  nur unentgeltliche Unterkunft, Verpflegung und Arbeitskleidung sowie
+        ein angemessenes Taschengeld erhalten dürfen oder
+
+
+    b)  anstelle von unentgeltlicher Unterkunft, Verpflegung und
+        Arbeitskleidung entsprechende Geldersatzleistungen sowie ein
+        angemessenes Taschengeld erhalten dürfen.
+
+
+
+    Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der
+    allgemeinen Rentenversicherung geltenden Beitragsbemessungsgrenze
+    nicht übersteigt. Bei einem freiwilligen Dienst vergleichbar einer
+    Teilzeitbeschäftigung ist dieser Prozentsatz zu kürzen.
 
 
 
@@ -69,13 +98,13 @@ werden, einen Jugendfreiwilligendienst im Ausland zu leisten
 (Vorbereitungsdienst), für den Vorbereitungsdienst nur Leistungen
 erhalten, die dieses Gesetz vorsieht, und neben dem
 Vorbereitungsdienst keine Tätigkeit gegen Entgelt ausüben sowie die
-Voraussetzungen des Absatzes 1 Nr. 2 und 4 erfüllen.
+Voraussetzungen des Absatzes 1 Nummer 1 und 3 erfüllen.
 
 
 ## § 3 Freiwilliges soziales Jahr
 
-(1) Das freiwillige soziale Jahr wird ganztägig als überwiegend
-praktische Hilfstätigkeit, die an Lernzielen orientiert ist, in
+(1) Das freiwillige soziale Jahr wird als überwiegend praktische
+Hilfstätigkeit, die an Lernzielen orientiert ist, in
 gemeinwohlorientierten Einrichtungen geleistet, insbesondere in
 Einrichtungen der Wohlfahrtspflege, in Einrichtungen der Kinder- und
 Jugendhilfe, einschließlich der Einrichtungen für außerschulische
@@ -93,11 +122,11 @@ stärken.
 
 ## § 4 Freiwilliges ökologisches Jahr
 
-(1) Das freiwillige ökologische Jahr wird ganztägig als überwiegend
-praktische Hilfstätigkeit, die an Lernzielen orientiert ist, in
-geeigneten Stellen und Einrichtungen geleistet, die im Bereich des
-Natur- und Umweltschutzes einschließlich der Bildung zur
-Nachhaltigkeit tätig sind.
+(1) Das freiwillige ökologische Jahr wird als überwiegend praktische
+Hilfstätigkeit, die an Lernzielen orientiert ist, in geeigneten
+Stellen und Einrichtungen geleistet, die im Bereich des Natur- und
+Umweltschutzes einschließlich der Bildung zur Nachhaltigkeit tätig
+sind.
 
 (2) Das freiwillige ökologische Jahr wird pädagogisch begleitet. Die
 pädagogische Begleitung wird von einer zentralen Stelle eines nach §
@@ -139,7 +168,9 @@ der Durchführung der Seminare mit.
 freiwilliges soziales Jahr und ein freiwilliges ökologisches Jahr mit
 einer Mindestdienstdauer von sechs Monaten nacheinander geleistet
 werden. In diesem Fall richtet sich die Zahl der Seminartage für jeden
-einzelnen Dienst nach Absatz 2.
+einzelnen Dienst nach Absatz 2. Auf die Gesamtdauer ist ein
+Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz
+anzurechnen.
 
 (4) Zur Durchführung des Jugendfreiwilligendienstes nach diesem Gesetz
 schließen zugelassene Träger und Einsatzstellen eine vertragliche
@@ -154,9 +185,9 @@ Beschäftigungsfähigkeit der Freiwilligen gemeinsam verfolgen.
 (1) Ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches
 Jahr im Sinne dieses Gesetzes kann auch im Ausland geleistet werden.
 
-(2) Der Jugendfreiwilligendienst im Ausland wird ganztägig als Dienst
-gemäß § 2 Abs. 1 Nr. 1 und ausschließlich ununterbrochen geleistet. §
-5 gilt entsprechend, soweit keine abweichenden Regelungen für den
+(2) Der Jugendfreiwilligendienst im Ausland wird als Dienst gemäß § 2
+Abs. 1 Nr. 1 und ausschließlich ununterbrochen geleistet. § 5 gilt
+entsprechend, soweit keine abweichenden Regelungen für den
 Jugendfreiwilligendienst im Ausland vorgesehen sind. Zum freiwilligen
 sozialen Jahr im Ausland gehört insbesondere auch der Dienst für
 Frieden und Versöhnung. Der Jugendfreiwilligendienst im Ausland wird
@@ -192,30 +223,29 @@ gilt als Dienstzeit. Die Teilnahme ist Pflicht.
 
 (3) Der Dienst muss nach Maßgabe des § 11 Abs. 1 mit dem Träger
 vereinbart und gestaltet werden. § 11 Abs. 2 findet keine Anwendung.
-Die Höchstdauer der Entsendung ist auf insgesamt zwölf Monate
-beschränkt.
+Die Höchstdauer der Entsendung beträgt 18 Monate. Für die Zahl
+zusätzlicher Seminartage gilt § 5 Absatz 2 Satz 3 und 4 entsprechend.
 
 
 ## § 7 Kombinierter Jugendfreiwilligendienst
 
 Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom
-Träger für eine Höchstdauer von bis zu 18 zusammenhängenden Monaten
-mit Einsatzabschnitten im Inland von mindestens dreimonatiger Dauer
-und Einsatzabschnitten im Ausland von mindestens drei- und höchstens
-zwölfmonatiger Dauer angeboten werden. Der Dienst ist für den
-Gesamtzeitraum nach § 11 Abs. 1 mit dem Träger zu vereinbaren und zu
-gestalten. § 11 Abs. 2 findet keine Anwendung. Die pädagogische
-Begleitung soll nach Maßgabe des § 6 erfolgen; Zwischenseminare können
-auch im Inland stattfinden. § 5 Abs. 2 gilt für kürzer oder länger als
-zwölf Monate dauernde Dienste entsprechend.
+Träger angeboten werden, wenn insgesamt eine Dauer von 18
+zusammenhängenden Monaten nicht überschritten wird und die
+Einsatzabschnitte im In- und Ausland jeweils mindestens drei Monate
+dauern. Der Dienst ist für den Gesamtzeitraum nach § 11 Abs. 1 mit dem
+Träger zu vereinbaren und zu gestalten. § 11 Abs. 2 findet keine
+Anwendung. Die pädagogische Begleitung soll nach Maßgabe des § 6
+erfolgen; Zwischenseminare können auch im Inland stattfinden. § 5 Abs.
+2 gilt für kürzer oder länger als zwölf Monate dauernde Dienste
+entsprechend.
 
 
 ## § 8 Zeitliche Ausnahmen
 
-Der Jugendfreiwilligendienst nach den §§ 5 und 7 kann ausnahmsweise
+Der Jugendfreiwilligendienst nach den §§ 5, 6 und 7 kann ausnahmsweise
 bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im
-Rahmen eines besonderen pädagogischen Konzepts begründet ist. Für den
-Auslandsdienst nach § 6 gilt dies nach Maßgabe des § 14.
+Rahmen eines besonderen pädagogischen Konzepts begründet ist.
 
 
 ## § 9 Förderung
@@ -267,7 +297,7 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen
     Sozialgesetzbuch (Krankenversicherung),
 
 
-12. § 5 Abs. 2 Satz 3, § 48 Abs. 4 Satz 1 Nr. 2 Buchstabe b und c des
+12. § 6 Absatz 1b Satz 5, § 48 Abs. 4 Satz 1 Nr. 2 Buchstabe b und c des
     Sechsten Buches Sozialgesetzbuch (Rentenversicherung),
 
 
@@ -423,8 +453,8 @@ Jugendfreiwilligendienstes aufzunehmen.
 ## § 12 Datenschutz
 
 Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten
-nach § 11 Abs. 1 Satz 2 erheben und verarbeiten, soweit dies für die
-Förderung nach § 9 in Verbindung mit den dort genannten Vorschriften
+nach § 11 Abs. 1 Satz 2 verarbeiten, soweit dies für die Förderung
+nach § 9 in Verbindung mit den dort genannten Vorschriften
 erforderlich ist. Die Daten sind nach Abwicklung des
 Jugendfreiwilligendienstes zu löschen.
 
@@ -438,35 +468,10 @@ Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen
 und Arbeitnehmer.
 
 
-## § 14 Entfallen der Höchstdauer für Auslandsentsendungen
-
-Die in § 6 Abs. 3 Satz 3 und § 7 Satz 1 vorgesehene Höchstdauer von
-zwölf Monaten für Auslandsentsendungen entfällt für Entsendungen, die
-ab dem 1. Januar 2009 durchgeführt werden, es sei denn, die Verordnung
-(EG) Nr. 883/2004 gilt erst ab einem späteren Datum. Dann ist der
-erste Tag der Geltung der Verordnung (EG) Nr. 883/2004 maßgeblich. Für
-die Höchstdauer des Dienstes, für die Anzahl zusätzlicher Seminartage
-und die Verlängerungsmöglichkeit auf 24 Monate gelten ab dann die
-Regelungen für den Inlandsdienst entsprechend.
+## § 14 (weggefallen)
 
 
-## § 15 Übergangsregelung
 
-(1) Auf freiwillige Dienste nach dem Gesetz zur Förderung eines
-freiwilligen sozialen Jahres und nach dem Gesetz zur Förderung eines
-freiwilligen ökologischen Jahres, die vor Inkrafttreten dieses
-Gesetzes vereinbart oder begonnen worden sind, sind die Vorschriften
-jener Gesetze weiter anzuwenden. Dies gilt nicht, wenn die Beteiligten
-die Anwendung der Vorschriften dieses Gesetzes vereinbaren. Ein
-bereits nach dem Gesetz zur Förderung eines freiwilligen sozialen
-Jahres oder nach dem Gesetz zur Förderung eines freiwilligen
-ökologischen Jahres geleisteter Freiwilligendienst ist auf die
-Höchstdauer von 24 Monaten anzurechnen.
+## § 15 (weggefallen)
 
-(2) Soweit Gesetze oder Verordnungen des Bundes auf den
-Jugendfreiwilligendienst im Sinne dieses Gesetzes verweisen, gilt dies
-auch als Verweisung auf einen Dienst, für den nach Absatz 1 Satz 1 die
-Vorschriften des Gesetzes zur Förderung eines freiwilligen sozialen
-Jahres oder des Gesetzes zur Förderung eines freiwilligen ökologischen
-Jahres weiter anzuwenden sind.
 

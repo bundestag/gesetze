@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 520
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.4.2007 I 594
+:   Art. 37 G v. 23.6.2021 I 1858
 
 
 ## Eingangsformel
@@ -337,11 +337,11 @@ Energiesicherungsgesetzes 1975 bestimmten Stellen.
 
 (2) Bundesbehörden, die obersten Bundesbehörden nachgeordnet sind,
 erhalten Bezugscheine von den obersten Bundesbehörden, die obersten
-Bundesbehörden vom Bundesministerium für Wirtschaft und Technologie
-oder einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen
-dieser Bedarfsträger können jedoch von den nach Absatz 1 zuständigen
-Stellen auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender,
-anders nicht rechtzeitig zu deckender Bedarf besteht.
+Bundesbehörden vom Bundesministerium für Wirtschaft und Energie oder
+einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen dieser
+Bedarfsträger können jedoch von den nach Absatz 1 zuständigen Stellen
+auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender, anders
+nicht rechtzeitig zu deckender Bedarf besteht.
 
 (3) Der Berechtigte kann sich die Bezugscheine über eine auf Grund
 eines Antrags nach den §§ 7 bis 9 bewilligte Kraftstoffmenge oder über
@@ -349,13 +349,12 @@ die Grundmenge bei jeder nach Absatz 1 zuständigen Ausgabestelle gegen
 Empfangsbestätigung aushändigen lassen.
 
 (4) Die Eisenbahnen des Bundes erhalten Bezugscheine vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bundesministerium für Verkehr und digitale Infrastruktur.
 
-(5) Die Unternehmen gemäß § 2 des Post- und
-Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer
-Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet
-sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
-Technologie. Absatz 2 Satz 2 gilt entsprechend.
+(5) Die Unternehmen, die nach § 1 des Postsicherstellungsgesetzes oder
+Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichtet sind,
+erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
+Energie. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen
@@ -530,18 +529,4738 @@ fahrlässig
 
 ### Anlage 1
 
-(Inhalt: nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 1982, 525 - 528)
+(Fundstelle: BGBl. I 1982, 525 - 528)
+
+
+*    *   Seite 1
+
+
+
+
+(1) An
+
+    *        *
+            *                *
+                *
+                *   ◄ Antragsbearbeitende Behörde
+
+
+            *                *
+                *   Familienname und Vorname des Fahrzeughalters
+
+                *   ◄ Antragsberechtigt ist der Fahrzeughalter.
+
+
+            *                *
+                *   Straße und Haus-Nr.
+
+                *   ◄
+
+
+            *                *
+                *   PLZ, Ort, Zustellpostamt
+
+                *   ◄ Für jedes Fahrzeug ist ein gesonderter Antrag zu stellen.
+
+
+            *                *
+                *
+                *
+
+
+
+        *
+            *                *   **Nicht vom Antragsteller auszufüllen!**
+
+
+            *                *   Eingangsdatum
+
+
+            *                *   Bearbeitungsdatum
+
+
+
+
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+
+
+
+(2)
+    *        *
+            *                *   Antrag nicht selbständig Tätiger, nicht Berufstätiger sowie
+                    selbständig Tätiger, soweit der geltendgemachte Kraftstoffbedarf mit
+                    der selbständigen Tätigkeit nicht im Zusammenhang steht, auf Zuteilung
+                    von Kraftstoff-Bezugscheinen
+
+
+
+
+        *
+            *                *   **Zutreffendes bitte**
+
+
+            *                *   **ausfüllen bzw. [x] ankreuzen!**
+
+
+
+
+
+    *        *
+
+    *        *
+
+    *        *
+
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   **für Fahrten zur Arbeitsstelle/Ausbildungsstelle**
+
+        *   **für Fahrten in Ausübung einer nichtselbständigen Tätigkeit**
+
+        *   **für Fahrten zur Erfüllung öffentlicher Aufgaben**
+
+        *   **für Fahrten Behinderter**
+
+        *   **für Härtefälle**
+
+
+    *        *
+        *   *                              Abschn. 1
+
+        *   *                              Abschn. 2
+
+        *   *                              Abschn. 3
+
+        *   *                              Abschn. 4
+
+        *   *                              Abschn. 5
+
+        *   ◄
+
+        *   Der angekreuzte Grund ist mit einer Ziffer versehen. Der mit gleicher
+            Ziffer versehen Abschnitt ist im folgenden einsprechend auszufüllen.
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(3)
+    *        *
+        *
+        *   **Bitte beachten!**
+
+
+    *        *
+        *   Der Antrag wird gestellt für die Versorgungsperiode beginnend am
+
+        *   Nur zulässig, wenn Antragsteller den Kraftstoffbedarf für die weiteren
+            Versorgungsperioden bei der Antragstellung bereits absehen kann und
+            nicht mit Veränderungen rechnet. Dennoch nach Antragstellung
+            eintretende Veränderungen, die den geltendgemachten Bedarf vermindern,
+            sind unverzüglich anzuzeigen.
+
+
+    *        *
+        *
+        *   Der Antrag soll auch für weitere Versorgungsperioden gelten, und zwar
+            bis einschließlich Monat
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   ◄
+
+        *   max. 12 Monate nach Beginn der ersten Versorgungsperiode
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(4)
+    *        *
+        *   **Art des Fahrzeugs**
+
+        *
+        *
+        *
+        *   **Benötigte Kraftstoffart:**
+
+        *
+
+    *        *
+        *   * **PKW**
+
+        *   * **Motorrad**
+
+        *   *
+
+        *   **Mofa/Moped Klein-Kraftrad bis 50 ccm**
+
+        *   * **LKW**
+
+        *   * **Sonstige**
+
+        *   *                              Benzin
+
+        *   *                              Diesel
+
+        *
+
+    *        *
+        *   Hubraum ccm
+
+        *   Hubraum ccm
+
+        *   Vers.-Kennzeichen
+
+        *   Hubraum ccm
+
+        *   Hubraum ccm
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Amtl. Kennzeichen
+
+        *   Amtl. Kennzeichen
+
+        *
+        *   Amtl. Kennzeichen
+
+        *   Amtl. Kennzeichen
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(5)
+    *        *
+        *   [1] Fahrten zur Arbeitsstelle/Ausbildungsstelle
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Fahrzeugbenutzer:
+
+        *
+
+    *        *
+        *
+        *   Fahrzeughalter
+
+        *
+        *   Sonstige Fahrzeugbenutzer (Namen, Straße, Haus-Nr., PLZ, Ort,
+            Zustellpostamt)
+
+        *
+
+    *        *
+        *   *
+
+        *   (Anschrift siehe oben)
+
+        *   *
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Anschrift der Arbeits- bzw. Ausbildungsstelle (Namen, Straße, Haus-
+            Nr., PLZ, Ort, Zustellpostamt)
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(6)
+    *        *
+        *   **Kürzeste Wegstrecke**                              zwischen
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *   **Fahrzeit**                              zwischen Wohnung und
+            Arbeits- bzw. Ausbildungsstelle bei kürzester Wegstrecke
+
+        *
+        *
+        *
+
+    *        *
+        *   Wohnung und Arbeits- bzw. Ausbildungsstelle
+
+        *   Wohnung und öffentlichem Verkehrsmittel
+
+        *   Bestimmungsstation (öffentliches Verkehrsmittel) und Arbeits- bzw.
+            Ausbildungsstelle
+
+        *   mit Fahrzeug, für das Bezugscheine beantragt werden
+
+        *   mit öffentlichen Verkehrsmitteln
+
+        *   Fahrten im Monat insgesamt
+
+        *
+        *
+
+    *        *
+        *   km
+
+        *   km
+
+        *   km
+
+        *   Std.
+
+        *   Std.
+
+        *   Anzahl
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(7)
+    *        *
+        *   Bei Pkw und Krafträdern: Warum ist ein Fußweg oder die Benutzung
+            anderer Beförderungsmittel nicht möglich? (Bitte kurz begründen!)
+
+        *   Bestätigung des Beschäftigungs- bzw. Ausbildungsverhältnisses und der
+            Anzahl der monatlichen Fahrten durch Arbeitgeber bzw.
+            Ausbildungsstelle:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   (Stempel, Datum und Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+
+*    *   Seite 2
+
+
+
+
+(8)
+    *        *
+        *   [2] Fahrten in Ausübung einer nichtselbständigen Tätigkeit
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Genaue Bezeichnung der Beruflichen Tätigkeit:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Arbeitgeber
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(9)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Arbeitsbereich
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(10)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Einsatzzwecke des Fahrzeugs
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(11)
+    *        *
+        *   In Ausübung dieser Tätigkeit gefahrene Kilometer in den letzten 12
+            Monaten vor Beginn der ersten Versorgungsperiode. (Bei
+            zwischenzeitlichem Fahrzeugwechsel ggf. auch mit dem früher benutzten
+            Fahrzeug):
+
+        *
+        *
+        *   **Bitte beachten!**
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
+            kann grundsätzlich **nicht**                              anerkannt
+            werden.
+            ▲
+            Angabe der **zukünftig**                              zu fahrenden
+            Kilometer, wenn **geringerer Bedarf**
+            beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
+            Vergangenheit keine Angaben möglich sind:
+
+        *
+
+    *        *
+        *
+        *   Wenn die Tätigkeiten erst **innerhalb**
+            des genannten Zeitraumes (12 Monate) begonnen wurden, bitte den
+            Zeitpunkt (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
+            abgestimmt eintragen:
+
+
+    *        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   km insgesamt
+
+        *   km pro Monat
+
+        *   ab Monat
+
+        *
+        *   km pro Monat
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(12)
+    *        *
+        *   Bei Pkw und Krafträdern: Warum ist ein Fußweg oder die Benutzung
+            anderer Beförderungsmittel nicht möglich? (Bitte kurz begründen!)
+
+        *   Bestätigung der Angaben in diesem Abschnitt durch den Arbeitgeber:
+
+        *
+
+    *        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   (Stempel, Datum und Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(13)
+    *        *
+        *   [3] Fahrten zur Erfüllung öffentlicher Aufgaben
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Genaue Bezeichnung dieser Aufgabe
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   ◄
+
+        *   Erfolgen die Fahrten gleichzeitig in Ausübung einer nichtselbständigen
+            Tätigkeit, so ist **nur**                              Abschnitt 2
+            auszufüllen.
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(14)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Einsatzzwecke des Fahrzeugs
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(15)
+    *        *
+        *   In Ausübung dieser Tätigkeit gefahrene Kilometer in den letzten 12
+            Monaten vor Beginn der ersten Versorgungsperiode. (Bei
+            zwischenzeitlichem Fahrzeugwechsel ggf. auch mit dem früher benutzten
+            Fahrzeug):
+
+        *
+        *
+        *   **Bitte beachten!**
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
+            kann grundsätzlich **nicht**                              anerkannt
+            werden.
+            ▲
+            Angabe der **zukünftig**                              zu fahrenden
+            Kilometer, wenn **geringerer Bedarf**
+            beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
+            Vergangenheit keine Angaben möglich sind:
+
+        *
+
+    *        *
+        *
+        *   Wenn die Tätigkeiten erst **innerhalb**
+            des genannten Zeitraumes (12 Monate) begonnen wurden, bitte den
+            Zeitpunkt (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
+            abgestimmt eintragen:
+
+
+    *        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   km insgesamt
+
+        *   km pro Monat
+
+        *   ab Monat
+
+        *
+        *   km pro Monat
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(16)
+    *        *
+        *   Bei Pkw und Krafträdern: Warum ist ein Fußweg oder die Benutzung
+            anderer Beförderungsmittel nicht möglich? (Bitte kurz begründen!)
+
+        *   Bestätigung der Angaben in diesem Abschnitt durch die für die
+            Erfüllung der öffentlichen Aufgabe zuständige Stelle:
+
+        *
+
+    *        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   (Stempel, Datum und Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+
+*    *   Seite 3
+
+
+
+
+(17)
+    *        *
+        *   [4] Fahrten Behinderter, die wegen Art oder Schwere ihrer Behinderung
+            auf die Benutzung eines Fahrzeugs angewiesen sind
+
+        *
+        *
+
+    *        *
+        *
+        *   Ehegatte (Vorname)
+            ▼
+
+        *   Kind (Vorname)
+            ▼
+
+        *   Sonst. Angehörige(r) im Hausstand des Antragstellers (Name)
+            ▼
+
+
+    *        *
+        *   *                              Antragsteller
+
+        *   *
+
+        *   *
+
+        *   *
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(18)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Begründung, warum die genannte Person wegen Art oder Schwere der
+            Behinderung auf die Benutzung eine Fahrzeugs angewiesen ist:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *   Benutzt der Behinderte das Fahrzeug für die in den Abschnitten 1 bis 3
+            genannten Zwecke, so sind diese Abschnitte auszufüllen und die
+            vorgegebenen Bestätigungen einzuholen.
+
+        *
+
+    *        *
+        *   ▼
+
+        *   **Nur soweit für sonstige Fahrtzwecke Kraftstoff benötigt wird, ist
+            folgendes anzugeben!**
+
+        *
+
+    *        *
+        *
+        *
+
+
+
+
+(19)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Fahrtzwecke, für die der Kraftstoff benötigt wird:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(20)
+    *        *
+        *   Für diese Zwecke gefahrene Kilometer in den letzten 12 Monaten vor
+            Beginn der ersten Versorgungsperiode. (Bei zwischenzeitlichem
+            Fahrzeugwechsel ggf. auch mit dem früher benutzten Fahrzeug):
+
+        *
+        *
+        *   **Bitte beachten!**
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
+            kann grundsätzlich **nicht**                              anerkannt
+            werden.
+            ▲
+            Angabe der **zukünftig**                              zu fahrenden
+            Kilometer, wenn **geringerer Bedarf**
+            beseht, oder soweit wegen Neuaufnahme der Fahrten für die
+            Vergangenheit keine Angaben möglich sind:
+
+        *
+
+    *        *
+        *
+        *   Wenn die Fahrten erst **innerhalb**                              des
+            genannten Zeitraumes (12 Monate) begonnen wurden, bitte den Zeitpunkt
+            (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
+            abgestimmt eintragen:
+
+
+    *        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   km insgesamt
+
+        *   km pro Monat
+
+        *   ab Monat
+
+        *
+        *   km pro Monat
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(21)
+    *        *
+        *   [5] Kraftstoffbedarf in Härtefällen
+
+        *
+        *
+        *
+
+    *        *
+        *   Bei Antragstellung für **eine**
+            Versorgungsperiode
+
+        *
+        *   Bei Antragstellung für **mehrere**
+            Versorgungsperioden:
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *   Angabe der zu fahrenden Kilometer, für die Kraftstoff benötigt wird
+            (ggf. zusätzlich zu den in den Abschnitten 1 bis 4 angegebenen
+            Kilometern)
+
+        *
+        *
+        *
+        *
+        *   Durchschnittlich monatlich zu fahrende Kilometer, für die Kraftstoff
+            benötigt wird (ggf. zusätzlich zu den in den Abschnitten 1 bis 4
+            angegebenen Kilometern
+
+        *
+
+    *        *
+        *   km ◄
+
+        *
+        *
+        *   km monatlich
+
+        *   ◄
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(22)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Genaue Angabe der Zwecke, für die der Kraftstoff benötigt wird und
+            Begründung, warum Zuteilung aus zwingenden persönlichen oder
+            wirtschaftlichen Gründen erforderlich ist, um eine unbillige Härte zu
+            vermeiden:
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+
+*    *   Seite 4
+
+
+
+
+(23)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Wenn dieser Antrag - z. B. in Härtefällen - einen früheren für die
+            gleichen Zwecke und Zeiträume gesellten Antrag ergänzt, bitte Datum
+            des früheren Antrages angeben.
+
+        *
+        *   ►
+
+        *   Datum
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(24)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Bemerkungen:
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(25)
+    *        *
+        *   Anlagen:
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+
+
+
+*   Ich versichere, die Angaben in diesem Antrag nach bestem Wissen und
+    Gewissen gemacht und für das genannte Fahrzeug keinen weiteren Antrag
+    über den ausdrücklich bezeichneten Antrag hinaus für die im Antrag
+    genannten Zwecke und Zeiträume gestellt zu haben. Mir ist bewußt, daß
+    falsche Angaben als Ordnungswidrigkeit geahndet werden können.
+
+
+*
+    *        *
+        *   Ort, Datum
+
+        *
+        *   Telefon (Ortsnetzkennzahl, Teilnehmer-Nr.
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   (Unterschrift)
+
+        *
+
+
+
+
+
 
 
 ### Anlage 2
 
-(Inhalt: Nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 1982, 529 - 533)
+   (Fundstelle: BGBl. I 1982, 529 - 533)
+
+
+*    *   Seite 1
+
+
+
+
+(1) An
+
+    *        *
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *   ◄ Antragsbearbeitende Behörde
+
+
+            *                *
+                *
+                *
+
+
+
+        *
+            *                *   **Zutreffendes bitte**
+
+
+            *                *   **ausfüllen bzw. [x] ankreuzen!**
+
+
+
+
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+
+
+
+(2)
+    *        *
+        *
+        *
+        *
+        *
+        *
+            *                *   **Nicht vom Antragsteller auszufüllen!**
+
+
+            *                *   Eingangsdatum
+
+
+            *                *   Bearbeitungsdatum
+
+
+
+
+        *
+
+    *        *
+        *   * **Gewerbetreibende**
+
+        *   * **Landwirte**
+
+        *   *
+
+        *   **freiberuflich oder sonst selbständig Tätige**
+
+        *   *
+
+        *   **juristische Personen oder sonstige Vereinigungen des privaten
+            Rechts**
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+*    *   Name
+
+    *
+    *
+    *   (3)
+
+    *
+    *
+
+*    *   Vorname
+
+    *
+    *
+    *
+    *   ◄
+
+    *   Antragsteller
+
+    *
+    *
+
+*    *   Firma
+
+    *
+    *
+    *
+    *
+    *   (4)
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *   **Bitte beachten!**
+        Antragsberechtigt ist bei Fahrzeugen der Halter, bei sonstiger Nutzung
+        von Kraftstoff der Betreiber der Maschinen und Motoren.
+        Ist der Halter der Fahrzeuge oder der Betreiber der Maschinen oder
+        Motoren ein gewerbliches oder landwirtschaftliches Unternehmen mit
+        mehreren Niederlassungen, so ist die Hauptniederlassung
+        antragsberechtigt. Abweichend davon ist der Antrag von der
+        Zweigniederlassung zu stellen, wenn diese im Handelsregister, in der
+        Handwerksrolle oder im Verzeichnis der handwerksähnlichen Gewerbe
+        eingetragen ist und die Fahrzeuge auf sie zugelassen sind oder die
+        Maschinen oder die Motoren von ihr betrieben werden. Entsprechendes
+        gilt für im Handelsregister eingetragene Zweigniederlassungen der
+        Gesellschaften der freien Berufe.
+
+    *
+
+*    *   Straße
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   PLZ, Ort
+
+    *
+    *
+    *
+    *
+    *
+
+
+
+(5)
+
+(6)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Nähere Bezeichnung des Unternehmens / der Branche
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(7)
+    *        *
+        *
+        *   **Bitte beachten!**                              Nur zulässig, wenn
+            Antragsteller den Kraftstoffbedarf für die weiteren
+            Versorgungsperioden bei der Antragstellung bereits absehen kann und
+            nicht mit Veränderungen rechnet. Dennoch nach Antragstellung
+            eintretende Veränderungen, die den geltendgemachten Bedarf vermindern,
+            sind unverzüglich anzuzeigen.
+
+
+    *        *
+        *   Der Antrag wird gestellt für die Versorgungsperiode beginnend am
+
+
+    *        *
+        *   Der Antrag soll auch für weitere Versorgungsperioden gelten, und zwar
+            bis einschließlich Monat
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   ◄
+
+        *   max. 12 Monate nach Beginn der ersten Versorgungsperiode
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(8)
+    *        *
+        *   Beantragt werden Kraftstoff-Bezugscheine für
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   *                              gewerbliche, landwirtschaftliche oder
+            berufliche Zwecke
+
+        *   *                              Fahrten zwischen Wohnung und
+            Betriebsstätte (dazu **nur**                              Anlage **C**
+            ausfüllen)!
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(9)(10)(11)
+    *        *
+        *   — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+            — — — — — — — — — — — — — — — — — — — — — —
+
+        *
+
+    *        *   |
+
+        *   **Nur bei Anträgen ausfüllen, die für die erste Versorgungsperiode
+            nach Beginn der Kraftstoff-Lieferbeschränkung gestellt werden!**
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Vom Gesamtbedarf für gewerbliche, landwirtschaftliche oder berufliche
+            Zwecke (außer Fahrten zwischen Wohnung und Betriebsstätte) in dieser
+            Versorgungsperiode werden nach Abzug anzurechnender Grundmengen von:
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *   ◄
+
+        *   Inwieweit **Grundmengen**                              anzurechnen
+            sind, wird vor Beginn der Versorgungsperiode durch Verordnung
+            bestimmt.
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Bezugscheine beantragt über:
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Abholberechtigter für Bezugscheine (Name, Vorname)
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *   ◄
+
+        *   Nur ausfüllen, wenn Bezugscheine **vorab**
+            ausgegeben werden und Abholung nicht durch Antragsteller selbst
+            erfolgt.
+
+        *   |
+
+
+    *        *
+        *   — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+            — — — — — — — — — — — — — — — — — — — — — —
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(12) Ich versichere, die Angaben in diesem Antrag nach bestem Wissen und
+    Gewissen gemacht und keinen weiteren Antrag über den ausdrücklich
+    bezeichneten Antrag hinaus für die im Antrag genannten Zwecke,
+    Fahrzeuge, Maschinen oder Motoren und Zeiträume gestellt zu haben. Mir
+    ist bewußt, daß falsche Angaben als Ordnungswidrigkeit geahndet werden
+    können.
+
+
+(13)
+    *        *
+        *   Ort, Datum:
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Herr/Frau (Name, Telefon-Ortsnetzkennzahl und (Teilnehmer-Nr.)
+
+        *
+        *
+        *   Unterschrift
+
+        *
+
+    *        *
+        *
+        *
+        *   ◄
+
+        *   Für Rückfragen zuständig!
+
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *   ▼ **Nicht vom Antragsteller auszufüllen!**
+
+        *
+
+    *        *
+        *   Bezugscheine wurden vorab ausgegeben über:
+
+        *
+        *
+        *   Ausgabestelle
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Bestätigung des Empfängers:
+            (Unterschrift)
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   (Stempel und Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+
+*    *   Rückseite
+
+
+
+
+(14)
+    *        *
+        *   Kraftstoffbedarf für gewerbliche, landwirtschaftliche oder berufliche
+            Zwecke
+            (außer Fahrten zwischen Wohnung und Betriebsstätte)
+
+        *
+
+    *        *
+
+    *        *
+        *   Kraftstoffbedarf pro Monat des Antragszeitraumes
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Liter Benzin
+
+        *   Liter Diesel
+
+        *   ◄
+
+        *   Bei monatliche Bedarfsänderungen ist der Durchschnittsbedarf anzugeben
+            und der Bedarf für die einzelnen Monate nachfolgend aufzuschlüsseln:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Januar
+
+        *   Februar
+
+        *   März
+
+        *   April
+
+        *   Mai
+
+        *   Juni
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *   Juli
+
+        *   August
+
+        *   September
+
+        *   Oktober
+
+        *   November
+
+        *   Dezember
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(15)
+    *        *
+        *   Bisheriger Kraftstoffverbrauch pro Monat im dem Antragszeitraum
+            entsprechenden Vergleichszeitrum des Vorjahres:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Liter Benzin
+
+        *   Liter Diesel
+
+        *   ◄
+
+        *   Bei monatlichen Verbrauchsänderungen ist der Durchschnittsverbrauch
+            anzugeben und der Verbrauch für die einzelnen Monate nachfolgend
+            aufzuschlüsseln:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Januar
+
+        *   Februar
+
+        *   März
+
+        *   April
+
+        *   Mai
+
+        *   Juni
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *   Juli
+
+        *   August
+
+        *   September
+
+        *   Oktober
+
+        *   November
+
+        *   Dezember
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(16)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   **Bitte beachten!**                              Ein Bedarf pro Monat
+            (bei monatlichen Änderungen Durchschnittsbedarf), der höher ist als
+            der bisherige Verbrauch pro Monat (bei monatlichen Änderungen
+            Durchschnittsverbrauch), wird grundsätzlich **nicht anerkannt.**
+            Ein anderer Bedarf kann jedoch anerkannt werden, soweit diesem wegen
+            Neuaufnahme der gewerblichen, landwirtschaftlichen oder beruflichen
+            Tätigkeit ein Verbrauch im Vergleichszeitraum des Vorjahres nicht
+            gegenübersteht.
+
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(17)
+    *        *
+        *   Bemerkungen zum geltendgemachten Bedarf:
+
+        *
+
+    *        *
+        *   (z. B. Begründung, wenn in Fällen unbilliger Härte ein höherer Bedarf
+            geltendgemacht wird)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(18)
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Anzahl der vom Antrag erfaßten Fahrzeuge, Maschinen und Motoren
+
+        *   (19)
+
+        *   Der geltendgemachte Bedarf ist in Anlage A nach Fahrzeugen, in Anlage
+            B nach Maschinen oder Motoren aufzuschlüsseln.
+            Der Antragsteller kann stattdessen auch eigene Aufstellungen
+            verwenden, die inhaltlich jedoch die in den Anlagen A und B
+            vorgeschriebenen Angaben enthalten müssen. Zusätzliche Angaben können
+            angefordert werden.
+
+        *
+
+    *        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Pkw
+
+        *   Nutzfahrzeuge
+
+        *   Maschinen usw.
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(20)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Wenn dieser Antrag - z. B. in Härtefällen - einen früheren für die
+            gleichen Zwecke und Zeiträume gestellten Antrag ergänzt, bitte Datum
+            des früheren Antrages angeben.
+
+        *
+        *   ►
+
+        *   Datum
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(21)
+    *        *
+        *   ▼ **Nicht vom Antragsteller auszufüllen!**
+
+        *
+
+    *        *
+        *   Bei Zugehörigkeit des Antragstellers zu einer Industrie- und
+            Handelskammer, Handwerkskammer oder Landwirtschaftskammer:
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Der Antragsteller hat den angegebenen Bedarf in Höhe von
+
+        *   für insgesamt
+            (Anzahl)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   Pkw
+
+        *   Nutzfahrzeuge
+
+        *   Maschinen
+
+        *
+
+    *        *
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   Ort, Datum
+
+        *
+
+    *        *
+        *   *
+
+        *   glaubhaft gemacht
+
+        *
+        *   Siegel der Kammer
+
+        *
+        *
+        *
+
+    *        *
+        *   *
+
+        *   nicht glaubhaft gemacht
+
+        *
+        *
+        *   (Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *   **Anlage A**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Fahrzeugliste
+
+    *
+    *
+    *
+    *
+    *
+    *   Anlage **A**                        zum Antrag auf Zuteilung von
+        Kraftstoff-Bezugscheinen
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die Ziffern 3 bis 10 sind nur bei Krafträdern, Pkw, Lkw und Bussen,
+        nicht bei sonstigen Fahrzeugen auszufüllen. Bei sonstigen Fahrzeugen
+        sind lediglich die Anzahl sowie Art und Typ des Fahrzeugs anzugeben.
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Werden Bezugscheine für mehr als 6 Fahrzeuge beantragt, für die
+        Einzelangaben nach Ziffern 3 bis 10 zu machen sind, kann der
+        Antragsteller die Angaben für gleiche Fahrzeugtypen mit gleichem
+        Hubraum oder zul. Gesamtgewicht, gleicher Kraftstoffart und gleichem
+        Einsatzzweck zusammenfassen und die durchschnittliche monatliche
+        Fahrleistung pro Fahrzeug dieses Typs einsetzen. In diesem Fall sind
+        eine gesonderte Auflistung aller Kennzeichen beizufügen und die
+        Fahrzeuge gesondert aufzuführen (nach Kennzeichen, Typ und Hubraum),
+        die vom Halter auch privat genutzt werden.
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   (1)
+        Der für gewerbliche, landwirtschaftliche oder berufliche Zwecke
+        geltendgemacht Bedarf (außer Fahrten zwischen Wohnung und
+        Betriebsstätte) betrifft folgende Fahrzeuge:
+
+    *   (10)
+        Im Antragszeitraum erwarte durchschnittliche monatliche Fahrleistung
+
+    *
+    *
+    *
+
+*    *
+    *   (9)
+        Durchschnittliche monatliche Fahrleistung für Gewerbliche Zwecke usw.
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   (2)
+
+    *   (3)
+
+    *   (4)
+
+    *   (5)
+
+    *   (7)
+
+    *
+    *   (8)
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *   Bei Krafträdern und Pkw:
+
+    *   Bitte ankreuzen, wenn Fahrzeug vom Halter auf privat genutzt wird
+
+    *
+    *   **Einsatzzweck:**
+        z. B. Gütertransport, gewerblicher Personentransport, Vermietung an
+        Selbstfahrer, Geschäftsreisen, bei Ärzten Hausbesuche von Patienten
+        usw.
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *   Hubraum in ccm, bei Lkw und Bussen zulässiges Gesamtgewicht
+
+    *   (6)
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *   Ankreuzen!
+
+    *
+    *
+    *   ▼
+
+    *   ▼
+
+    *
+
+*    *
+    *   Anzahl
+
+    *   Art und Typ des Fahrzeugs
+
+    *   Amtlichen Kennzeichen bzw. Versicherungs-Kennzeichen
+
+    *   Benz.
+
+    *   Dies.
+
+    *   ▼
+
+    *   km
+
+    *
+    *   km
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *   Bei Personenkraftwagen und Krafträdern, bei denen sich nicht bereits
+        aus dem Einsatzzweck ergibt (wie z.B. bei gewerblichem
+        Personentransport), daß andere Beförderungsmöglichkeiten nicht in
+        Betracht kommen:
+
+    *
+
+*    *
+    *   Warum ist ein Fußweg oder die Benutzung anderer Beförderungsmittel
+        nicht möglich
+        Bitte kurz begründen!)
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+
+*    *
+    *   **Anlage B**
+
+
+
+
+*    *
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *   Anlage **B**                                  zum Antrag auf Zuteilung
+                von Kraftsoff-Bezugscheinen
+
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *   (1)
+
+            *
+            *   (4)
+
+            *
+            *   (5)
+
+            *   (6)
+
+            *
+            *
+
+        *            *
+            *   Liste der Maschinen und Motoren, für die Kraftstoff beantragt wird:
+
+            *   Angaben in DIN kw, soweit bekannt, sonst in PS
+
+            *   Durchschnittliche Betriebsstunden pro Monat im dem Antragszeitraum
+                entsprechenden Vergleichszeitraum des Vorjahres
+
+            *   Durchschnittlicher Monatsverbrauch in Litern im dem Antragszeitraum
+                entsprechenden Vergleichszeitraum des Vorjahres
+
+            *
+
+        *            *
+            *   (2)
+
+            *   (3)
+
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *   Anzahl
+
+            *   Bezeichnung
+                der Maschine oder des Motors (Marke, Typ)
+
+            *   DIN
+                kw
+
+            *   PS
+
+            *   Benzin
+
+            *   Diesel
+
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *   Insgesamt
+
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+        *            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+            *
+
+
+
+
+
+
+
+*    *
+    *   **Anlage C**
+
+
+
+
+*    *
+        *            *
+            *   Fahrten zwischen
+                Wohnung und Betriebsstätte
+
+            *
+
+        *            *
+            *
+            *
+
+        *            *
+            *
+            *
+
+
+
+    *
+        *            *   **Zutreffendes bitte**
+
+
+        *            *   **ausfüllen bzw. [x] ankreuzen!**
+
+
+
+
+
+*    *
+
+*    *
+
+*    *
+
+*    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Art des Fahrzeugs
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   *                       PKW
+
+    *   *                       Motorrad
+
+    *   *
+
+    *   Mofa/Moped
+        Klein-Kraftrad bis 50 ccm
+
+    *   *
+
+    *   LKW und sonstige Fahrzeuge
+
+    *
+    *
+
+*    *
+    *   Hubraum ccm
+
+    *   Hubraum ccm
+
+    *   Vers.-Kennzeichen
+
+    *
+    *   Hubraum ccm
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Amtl. Kennzeichen
+
+    *   Amtl. Kennzeichen
+
+    *
+    *   Amtl. Kennzeichen
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Benötigte Kraftstoffart:
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   *                      Benzin
+
+    *   *
+
+    *   Diesel
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Fahrzeugbenutzer, falls vom Halter verschieden
+        (Familienname, Vorname)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift der Wohnung
+        (Straße, Haus-Nr., PLZ, Ort, Zustellpostamt)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift der Betriebsstätte
+        (Straße, Haus-Nr., PLZ, Ort, Zustellpostamt)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Kürzeste Entfernung
+
+    *
+    *
+    *   Fahrtzeit zwischen Wohnung und Betriebsstätte bei kürzester Entfernung
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   zwischen Bestimmungsstation (öffentliches Verkehrsmittel)
+        und Betriebsstätte
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   zwischen Wohnung
+        und Betriebsstätte
+
+    *   zwischen Wohnung
+        und öffentlichen Verkehrsmitteln
+
+    *   für Fahrzeug, für das Bezugscheine beantragt werden
+
+    *
+    *   mit öffentlichen Verkehrsmitteln
+
+    *
+    *   Fahrten
+        **insgesamt**
+        im Monat
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   km
+
+    *   km
+
+    *   km
+
+    *   Std.
+
+    *
+    *   Std.
+
+    *
+    *   Anzahl
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Bei Personenkraftwagen und Krafträdern:
+
+    *
+
+*    *
+    *   Warum ist ein Fußweg oder die Benutzung anderer Beförderungsmittel
+        nicht mögliche?
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
 
 
 ### Anlage 3
 
-(Inhalt: nicht darstellbarer Vordruck,
-Fundstelle: BGBl. I 1982, 534 - 535)
+   (Fundstelle: BGBl. I 1982, 534 - 535)
+
+
+*    *   Vorderseite
+
+
+
+
+(1)(2) An
+
+    *        *
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *   ◄ Antragsbearbeitende Behörde
+
+
+            *                *
+                *   Antragsteller (Name und Anschrift)
+
+                *
+
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *
+
+            *                *
+                *
+                *
+
+            *                *
+                *   Antrag von Stellen des Bundes, der Länder, der Gemeinden
+                    (Gemeindeverbände) und sonstiger juristischer Personen des
+                    öffentlichen Rechts auf Zuteilung von Kraftstoff-Bezugscheinen
+
+
+            *                *
+
+            *                *
+
+            *                *
+
+
+
+        *
+            *                *   **Nicht vom Antragsteller auszufüllen!**
+
+
+            *                *   Eingangsdatum
+
+
+            *                *   Bearbeitungsdatum
+
+
+
+
+            *                *   **Zutreffendes bitte**
+
+
+            *                *   **ausfüllen bzw. [x] ankreuzen!**
+
+
+
+
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+    *        *
+
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Dieser Vordruck ist auch verwendbar für Anträge diplomatischer
+            Vertretungen, der Ständigen Vertretung der Deutschen Demokratischen
+            Republik, berufskonsularischer Vertretungen, bevorrechtigter
+            internationaler Organisationen sowie der verbündeten Streitkräfte und
+            für die Bedarfsanmeldung der Deutschen Bundesbahn.
+            Antragsberechtigt ist bei Fahrzeugen der Halter, bei sonstiger Nutzung
+            von Kraftstoff der Betreiber der Maschinen oder Motoren, für die
+            Bezugscheine beantragt werden.
+
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(3)
+    *        *
+        *
+        *   **Bitte beachten!**
+            Nur zulässig, wenn Antragsteller den Kraftstoffbedarf für die weiteren
+            Versorgungsperioden bei der Antragstellung bereits absehen kann und
+            nicht mit Veränderungen rechnet. **Dennoch**
+            nach Antragstellung eintretende Veränderungen, die den
+            geltendgemachten Bedarf vermindern, sind unverzüglich anzuzeigen.
+
+        *   Wenn dieser Antrag einen früheren für die gleichen Zwecke und
+            Zeiträume gestellten Antrag ergänzt, bitte Datum des früheren Antrages
+            angeben:
+
+
+    *        *
+        *   Der Antrag wird gestellt für die Versorgungsperiode beginnend am
+
+        *
+
+    *        *
+        *   Der Antrag soll auch für weitere Versorgungsperioden gelten, und zwar
+            bis einschließlich Monat
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *   ◄
+
+        *   max. 12 Monate nach Beginn der ersten Versorgungsperiode
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(4)(5)
+    *        *
+        *   — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+            — — — — — — — — — — — — — — — — — — — — — —
+
+        *
+
+    *        *   |
+
+        *   **Nur bei Anträgen ausfüllen, die für die erste Versorgungsperiode
+            nach Beginn der Kraftstoff-Lieferbeschränkung gestellt werden!**
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Vom Gesamtbedarf in dieser Versorgungsperiode werden nach Abzug
+            anzurechnender Grundmengen von:
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *   ◄
+
+        *   Inwieweit **Grundmengen**                              anzurechnen
+            sind, wird vor Beginn der Versorgungsperiode durch Verordnung
+            bestimmt.
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Bezugscheine beantragt über:
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *   Abholberechtigter für Bezugscheine (Name, Vorname)
+
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   |
+
+
+    *        *   |
+
+        *
+        *
+        *
+        *
+        *
+        *   ◄
+
+        *   Nur ausfüllen, wenn Bezugscheine **vorab**
+            ausgegeben werden.
+
+        *   |
+
+
+    *        *
+        *   — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+            — — — — — — — — — — — — — — — — — — — — — —
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+*
+    *        *
+        *
+        *
+
+    *        *
+        *   ▼ **Nicht vom Antragsteller auszufüllen!**
+
+        *
+
+    *        *
+        *   Bezugscheine wurden vorab ausgegeben über:
+
+        *
+        *
+        *   Ausgabestelle
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Liter Benzin
+
+        *
+        *   Liter Diesel
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Bestätigung des Empfängers:
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   (Unterschrift)
+
+        *
+        *
+        *
+        *
+        *   (Stempel und Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+    *        *   Rückseite
+
+
+
+
+
+(6)
+    *        *
+        *   Angabe des Kraftstoffbedarfs, für den Bezugscheine benötigt werden
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   **Bitte beachten!**
+            Der pro Monat des Antragszeitraums geltendgemachte Bedarf (bei
+            monatlichen Änderungen Durchschnittsbedarf) darf grundsätzlich den
+            Verbrauch pro Monat des Vergleichszeitraums des Vorjahres (bei
+            monatlichen Änderungen Durchschnittsverbrauch) nicht überschreiten.
+            Ein anderer Bedarf kann jedoch anerkannt werden, soweit wegen
+            Neuaufnahme der Tätigkeit ein Verbrauch im Vergleichszeitraum des
+            Vorjahres nicht vorliegt.
+            Zur Verminderung des Kraftstoffbedarfs bei Fahrzeugen sind – soweit
+            möglich – öffentliche Verkehrsmittel zu benutzen.
+
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(7)
+    *        *
+        *
+        *
+
+    *        *
+
+    *        *
+        *   Angabe des Kraftstoffbedarfs für die Monate, für die der Antrag gelten
+            soll
+            (max. 12 Monate nach Beginn der ersten Versorgungsperiode)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Januar
+
+        *   Februar
+
+        *   März
+
+        *   April
+
+        *   Mai
+
+        *   Juni
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *   Juli
+
+        *   August
+
+        *   September
+
+        *   Oktober
+
+        *   November
+
+        *   Dezember
+
+        *   Liter Benzin
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *   Liter Diesel
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Benzin
+
+        *   Diesel
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *   ◄ Durchschnitt pro Monat
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(8)
+    *        *
+        *   Bei Fahrzeugen:
+
+        *
+        *   **Bitte beachten!**
+
+        *
+        *
+        *
+
+    *        *
+        *   Angaben von Zahl und Art der Fahrzeuge
+
+        *   Sind für die erste Versorgungsperiode, für die dieser Antrag gestellt
+            ist, auf den geltendgemachten Bedarf Grundmengen anzurechnen, so sind
+            die Fahrzeuge, für die Bezugscheine über eine Grundmenge zugeteilt
+            werden, nach den durch Verordnung bestimmten Kriterien aufzulisten,
+            die für die Höhe der Zuteilung maßgebend sind:
+            (z. B. 10 Pkw mit Hubraum von ... bis ...)
+
+
+    *        *
+        *   Pkw
+
+        *   Nutfahrzeuge
+
+
+    *        *
+        *   (Anzahl)
+
+        *   (Anzahl)
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(9)
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   **Bei sonstiger Kraftstoffnutzung:**
+            Angabe des Nutzungszwecks und Begründung der Nutzungsnotwendigkeit
+
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+(10)
+    *        *
+        *   Soweit durch Verordnung eine vorrangige Zuteilung oder die Höhe der
+            Zuteilung von einem bestimmten Verwendungszweck abhängig gemacht ist,
+            ist der auf diese Verwendungszwecke entfallende Anteil am erwarteten
+            monatliche Bedarf aufzuschlüsseln:
+
+        *
+
+    *        *
+        *   ▼
+
+        *   Angabe entweder in Prozent des erwarteten Bedarfs, falls der Anteil am
+            monatlichen Bedarf gleichbleibend ist, oder in effektiven Zahlen für
+            die einzelnen Monate
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Ort, Datum
+
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   (Siegel)
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   (Unterschrift)
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   Herr/Frau (Name, Telefon-Ortnetzkennzahl und Teilnehmer-Nr.)
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   ◄ Für Rückfragen zuständig!
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+
+
 

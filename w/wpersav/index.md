@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Führung des Personalakten der ungedienten Wehrpflichtigen
+Title: Verordnung über die Führung der Personalakten der ungedienten Wehrpflichtigen
 jurabk: WPersAV
 layout: default
 origslug: wpersav
@@ -7,13 +7,16 @@ slug: wpersav
 
 ---
 
-# Verordnung über die Führung des Personalakten der ungedienten Wehrpflichtigen (WPersAV)
+# Verordnung über die Führung der Personalakten der ungedienten Wehrpflichtigen (WPersAV)
 
 Ausfertigungsdatum
 :   1998-10-15
 
 Fundstelle
 :   BGBl I: 1998, 3169
+
+Geändert durch
+:   Art. 5 G v. 4.8.2019 I 1147
 
 
 
@@ -34,10 +37,10 @@ der Wehrpflicht Erfaßten.
 
 ## § 2
 
-(1) Die Personalakte ist beim Kreiswehrersatzamt zu führen; sie ist
-vertraulich zu behandeln und vor unbefugter Einsichtnahme zu schützen.
-Sie kann nach sachlichen Gesichtspunkten in Grundakte und Teilakten
-gegliedert werden.
+(1) Die Personalakte ist beim Karrierecenter der Bundeswehr zu führen;
+sie ist vertraulich zu behandeln und vor unbefugter Einsichtnahme zu
+schützen. Sie kann nach sachlichen Gesichtspunkten in Grundakte und
+Teilakten gegliedert werden.
 
 (2) Nebenakten dürfen nur geführt werden, soweit dies zur rechtmäßigen
 Aufgabenerledigung der Wehrersatzbehörden erforderlich ist. Die
@@ -50,33 +53,33 @@ Nebenakten aufzunehmen.
 
 ## § 3
 
-(1) Die Gesundheitsunterlagen dienen der personenbezogenen
+(1) Die Gesundheitsakte dient dienen der personenbezogenen
 Dokumentation ärztlicher Aufzeichnungen aus Untersuchungen,
-Behandlungen und Begutachtungen. Sie sind Bestandteil der Personalakte
+Behandlungen und Begutachtungen. Sie ist Bestandteil der Personalakte
 und in einem als Arztsache gekennzeichneten verschlossenen Umschlag
 aufzubewahren.
 
-(2) Zugang zu den Gesundheitsunterlagen haben der Musterungsarzt und
-sein Hilfspersonal sowie deren Fachvorgesetzte, wenn dies für die
+(2) Zugang zu der Gesundheitsakte haben der Musterungsarzt und sein
+Hilfspersonal sowie deren Fachvorgesetzte, wenn dies für die
 Durchführung ihrer Aufgaben erforderlich ist. Ärzten und medizinischen
 Einrichtungen, die wegen einer zu treffenden Tauglichkeitsentscheidung
 mit der Durchführung von Zusatzuntersuchungen betraut werden, kann im
-erforderlichen Umfang ebenfalls Zugang zu den Gesundheitsunterlagen
-gewährt werden.
+erforderlichen Umfang ebenfalls Zugang zu der Gesundheitsakte gewährt
+werden.
 
 (3) Über das Ergebnis der musterungsärztlichen Untersuchung zur
 Feststellung der Wehrdienstfähigkeit einschließlich der aus diesem
 Anlaß durchgeführten fachärztlichen Untersuchungen hat der
-Musterungsarzt dem Leiter des Kreiswehrersatzamtes oder den von diesem
-Beauftragten in dem Maße Auskunft zu erteilen, wie es für die
-Verfügbarkeitsentscheidung für den Wehrdienst erforderlich ist. Dies
-gilt für das Widerspruchsverfahren entsprechend.
+Musterungsarzt dem Leiter des Karrierecenters der Bundeswehr oder den
+von diesem Beauftragten in dem Maße Auskunft zu erteilen, wie es für
+die Verfügbarkeitsentscheidung für den Wehrdienst erforderlich ist.
+Dies gilt für das Widerspruchsverfahren entsprechend.
 
-(4) Für den Leiter des Psychologischen Dienstes des
-Kreiswehrersatzamtes und die Fachkräfte im Psychologischen Dienst
-sowie für deren Fachvorgesetzte gelten die Absätze 1 bis 3
-hinsichtlich des Umgangs mit psychologischen Unterlagen der
-Eignungsuntersuchung und Eignungsfeststellung entsprechend.
+(4) Für den Leiter des Psychologischen Dienstes des Karrierecenters
+der Bundeswehr und die Fachkräfte im Psychologischen Dienst sowie für
+deren Fachvorgesetzte gelten die Absätze 1 bis 3 hinsichtlich des
+Umgangs mit psychologischen Unterlagen der Eignungsuntersuchung und
+Eignungsfeststellung entsprechend.
 
 
 ## § 4
@@ -96,14 +99,14 @@ Personalakten, die nicht archiviert werden, sind zu vernichten, sofern
 nicht nach anderen Vorschriften eine längere Aufbewahrungsfrist
 vorgesehen ist.
 
-(3) Die Gesundheitsunterlagen sind längstens bis zum Ablauf des Jahres
+(3) Die Gesundheitsakte ist längstens bis zum Ablauf des Jahres
 aufzubewahren, in dem der Wehrpflichtige das 45. Lebensjahr vollendet,
 sofern nicht nach anderen Vorschriften eine längere Aufbewahrungsfrist
-vorgesehen ist. Die Gesundheitsunterlagen können nach Ende der
-Wehrüberwachung zentral dem Institut für Wehrmedizinalstatistik und
-Berichtswesen zur Erfüllung der ärztlichen Dokumentationspflicht und
-zum Zwecke der Beweissicherung übermittelt und dort aufbewahrt werden.
-Nach Ablauf der Aufbewahrungsfrist sind sie zu vernichten.
+vorgesehen ist. Die Gesundheitsakte kann nach Ende der Wehrüberwachung
+zentral dem Institut für Präventivmedizin der Bundeswehr zur Erfüllung
+der ärztlichen Dokumentationspflicht und zum Zwecke der
+Beweissicherung übermittelt und dort aufbewahrt werden. Nach Ablauf
+der Aufbewahrungsfrist sind sie zu vernichten.
 
 (4) Personenbezogene Daten über psychologische Untersuchungen und
 Tests, die zur Überprüfung der getroffenen psychologischen
@@ -143,20 +146,20 @@ Weise Kenntnis von der Speicherung erlangt hat.
 ## § 6
 
 (1) Einsicht in die Personalakte wird grundsätzlich beim
-Kreiswehrersatzamt gewährt. Auszüge, Abschriften, Ablichtungen oder
-Ausdrucke dürfen gefertigt werden, soweit dienstliche Gründe nicht
-entgegenstehen. Hinderungsgrund kann insbesondere ein besonderes
-Vertraulichkeitsbedürfnis hinsichtlich einzelner dienstlicher Vorgänge
-oder darin enthaltener Daten Dritter sein. Dem Wehrpflichtigen ist auf
-Verlangen ein Ausdruck der zu seiner Person automatisiert
-gespeicherten Personalaktendaten zu überlassen.
+Karrierecenter der Bundeswehr gewährt. Auszüge, Abschriften,
+Ablichtungen oder Ausdrucke dürfen gefertigt werden, soweit
+dienstliche Gründe nicht entgegenstehen. Hinderungsgrund kann
+insbesondere ein besonderes Vertraulichkeitsbedürfnis hinsichtlich
+einzelner dienstlicher Vorgänge oder darin enthaltener Daten Dritter
+sein. Dem Wehrpflichtigen ist auf Verlangen ein Ausdruck der zu seiner
+Person automatisiert gespeicherten Personalaktendaten zu überlassen.
 
 (2) Auskünfte aus der Personalakte dürfen an Dritte, soweit nicht
 besondere Rechtsvorschriften einen entsprechenden Anspruch gewähren,
 nur unter den Voraussetzungen des § 25 Abs. 3 des Wehrpflichtgesetzes
-erteilt werden. Einsichtnahme in oder Auskunft aus
-Gesundheitsunterlagen darf Bevollmächtigten nur auf Grund
-ausdrücklicher Vollmacht des Wehrpflichtigen gewährt werden.
+erteilt werden. Einsichtnahme in die Gesundheitsakte oder Auskunft aus
+der Gesundheitsakte darf Bevollmächtigten nur auf Grund ausdrücklicher
+Vollmacht des Wehrpflichtigen gewährt werden.
 
 
 ## § 7

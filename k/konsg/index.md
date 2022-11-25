@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 2317
 
 Zuletzt geändert durch
-:   Art. 20 G v. 17.12.2008 I 2586
+:   Art. 20b G v. 28.3.2021 I 591
 
 
 ## Eingangsformel
@@ -196,6 +196,10 @@ werden.
 können, sollen die Konsularbeamten eine Liste der in ihrem
 Konsularbezirk ansässigen Deutschen und anderer Schutzbefohlener sowie
 ihrer Familienangehörigen erstellen und auf dem laufenden halten.
+Dabei ist auch die Verarbeitung der Identifikationsnummer nach dem
+Identifikationsnummerngesetz durch öffentlichen Stellen nach diesem
+Gesetz zum Zwecke der Erbringung von Verwaltungsleistungen nach dem
+Onlinezugangsgesetz zulässig.
 
 
 ### § 7 Hilfe für Gefangene
@@ -235,9 +239,29 @@ entstanden sind.
 
 (3) Können Erben oder sonstige Berechtigte nicht ermittelt werden, so
 können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
-Gericht des letzten Wohnsitzes des Erblassers im Inland oder - wenn
-sich ein solcher Wohnsitz nicht feststellen läßt - an das Amtsgericht
-Schöneberg in Berlin als Nachlaßgericht übergeben werden.
+Gericht des letzten gewöhnlichen Aufenthalts des Erblassers im Inland
+oder - wenn sich ein solcher gewöhnlicher Aufenthalt nicht feststellen
+läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
+übergeben werden.
+
+
+### § 9a ...
+
+(1) Die §§ 5 bis 7 und 9, mit Ausnahme des § 6 Absatz 3 und des § 9
+Absatz 2 und 3, sind entsprechend auf Unionsbürgerinnen und
+Unionsbürger anzuwenden, die im Drittland nicht vertreten sind.
+
+(2) Abweichend von § 5 Absatz 5 und § 6 Absatz 2 kann die
+Bundesrepublik Deutschland als hilfeleistender Mitgliedstaat der
+Europäischen Union (Mitgliedstaat) den Mitgliedstaat, dessen
+Staatsangehörigkeit die nicht vertretenen Unionsbürgerinnen und
+Unionsbürger besitzen, für die Auslagen in Anspruch nehmen.
+
+(3) Die Bundesrepublik Deutschland erstattet einem Mitgliedstaat, der
+einem Deutschen Hilfe leistet, die Auslagen, sofern dieser
+Mitgliedstaat die Bundesrepublik Deutschland für die Auslagen in
+Anspruch nimmt. Der deutsche Hilfeempfänger ist der Bundesrepublik
+Deutschland zum Ersatz dieser Auslagen verpflichtet.
 
 
 ### § 10 Beurkundungen im allgemeinen
@@ -323,9 +347,9 @@ Die Konsularbeamten sind befugt,
 
 
 2.  Versicherungen an Eides statt abzunehmen, die zur Erlangung eines
-    Erbscheins, eines Testamentsvollstreckerzeugnisses oder eines
-    Zeugnisses über die Fortsetzung der Gütergemeinschaft abgegeben
-    werden,
+    Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+    Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
+    Fortsetzung der Gütergemeinschaft abgegeben werden,
 
 
 3.  einem Deutschen auf dessen Antrag den Eid abzunehmen, wenn der Eid
@@ -538,42 +562,118 @@ Beamten in den Ruhestand gegeben sind.
 
 ### § 24 Erfordernis einer besonderen Ermächtigung
 
-(1) § 19 gilt für Honorarkonsularbeamte entsprechend; Eheschließungen
-können sie jedoch nicht vornehmen. Honorarkonsularbeamte sollen auch
-die Echtheit inländischer öffentlicher Urkunden nur dann bestätigen,
-wenn sie hierzu vom Auswärtigen Amt besonders ermächtigt worden sind.
-Diese Ermächtigung kann nur unter den in § 19 Abs. 3 Satz 2 genannten
-Voraussetzungen erteilt werden.
+(1) § 19 gilt für Honorarkonsularbeamte entsprechend.
+Honorarkonsularbeamte sollen auch die Echtheit inländischer
+öffentlicher Urkunden nur dann bestätigen, wenn sie hierzu vom
+Auswärtigen Amt besonders ermächtigt worden sind. Diese Ermächtigung
+kann nur unter den in § 19 Abs. 3 Satz 2 genannten Voraussetzungen
+erteilt werden.
 
 (2) Das Auswärtige Amt kann die Befugnis eines Honorarkonsularbeamten
 zur Wahrnehmung konsularischer Aufgaben weiteren Einschränkungen
 unterwerfen.
 
 
-## 5. Abschnitt - Gebühren und Auslagen
+## 5. Abschnitt - Gebühren, Auslagen und Kostenerstattung
 
 
 
-### § 25 Besondere gesetzliche Regelung
+### § 25 Gebühren und Auslagen
 
-Für konsularische Amtshandlungen werden Kosten (Gebühren und Auslagen)
-nach besonderer gesetzlicher Regelung erhoben.
+(1) Das Auswärtige Amt, die Vertretungen des Bundes im Ausland sowie
+die Honorarkonsularbeamten erheben Gebühren und Auslagen nach dem
+Bundesgebührengesetz, soweit in diesem Abschnitt nichts anderes
+bestimmt ist.
+
+(2) Die Gebührenschuld entsteht, sofern für die individuell
+zurechenbare Leistung ein Antrag notwendig ist, mit dessen Eingang bei
+der Auslandsvertretung oder mit dessen Eingang beim
+Honorarkonsularbeamten. Im Übrigen entsteht die Gebühr mit der
+Beendigung der individuell zurechenbaren öffentlichen Leistung. Die
+Verpflichtung zur Erstattung von Auslagen entsteht mit der Aufwendung
+des zu erstattenden Betrags.
 
 
-### § 26 Gebühren und Auslagen der Honorarkonsularbeamten
+### § 25a Gebühren- und Auslagenerhebung der Honorarkonsularbeamten
 
-(1) Die Honorarkonsularbeamten beziehen die für ihre Amtshandlungen zu
-erhebenden Gebühren für sich. Sie dürfen sie nur nach Maßgabe
-derjenigen Bestimmungen herabsetzen oder erlassen, die allgemein für
-die Gebühren von amtlichen Auslandsvertretungen gelten.
+(1) Wird die individuell zurechenbare öffentliche Leistung von einem
+Honorarkonsularbeamten vorgenommen, so ist dieser Gebührengläubiger.
+Bei der auf Antrag erfolgenden Erfassung der Daten einschließlich der
+biometrischen Identifikatoren, Entgegennahme, Durchsicht und
+Weiterleitung von Anträgen im Pass- und Personalausweisverfahren
+handelt es sich um eine individuell zurechenbare öffentliche Leistung
+der Honorarkonsularbeamten.
 
-(2) Reichen die Gebühren zur Bestreitung der Verwaltungskosten nicht
-aus, so kann den Honorarkonsularbeamten ein pauschaler Zuschuß gewährt
-werden.
+(2) Reichen die Gebühren zur Bestreitung der mit der individuell
+zurechenbaren öffentlichen Leistung verbundenen Kosten der
+Honorarkonsularbeamten nicht aus, so kann dem Honorarkonsularbeamten
+ein pauschaler Zuschuss gewährt werden.
 
 (3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines
 dienstlichen Auftrags besondere, den Umständen nach erforderliche
-Auslagen, so kann er deren Erstattung beanspruchen.
+Aufwendungen, so kann er deren Erstattung beanspruchen.
+
+
+### § 25b Gebührenbemessung
+
+(1) Für die Gebührenerhebung nach § 25, insbesondere für die
+notariellen Tätigkeiten der Vertretungen des Bundes im Ausland sowie
+der Honorarkonsularbeamten, können auch der Wert und die Bedeutung der
+individuell zurechenbaren öffentlichen Leistung für den
+Gebührenschuldner bei der Gebührenbemessung berücksichtigt werden. Für
+die Bemessung der Gebühr gelten die Vorschriften der Kapitel 1 und 3,
+Anlage 1 Teil 2 und 3, Anlage 2 des Gerichts- und Notarkostengesetzes
+entsprechend, soweit nach Absatz 2 nichts anderes bestimmt ist.
+
+(2) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
+Absatz 4 des Bundesgebührengesetzes können auch andere Bezugsgrößen
+oder Maßstäbe zur Bestimmung des Wertes oder der Bedeutung der
+individuell zurechenbaren öffentlichen Leistung nach Absatz 1 Satz 1
+bestimmt werden. Danach kann insbesondere angeordnet werden, dass die
+Gebühr nach der Seiten- und Zeilenzahl sowie nach Sprachgruppen
+bestimmt wird.
+
+
+### § 25c Wertgebühren
+
+(1) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
+Absatz 4 des Bundesgebührengesetzes kann eine Gebühr auch nach dem
+Wert des Gegenstandes (Wertgebühr) bestimmt werden.
+
+(2) Der Antragsteller ist verpflichtet, die zur Feststellung des
+Wertes erforderlichen Angaben zu machen.
+
+
+### § 25d Zuschläge
+
+Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
+Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
+Auslandsvertretungen und den Honorarkonsularbeamten zum Ausgleich von
+Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze für
+vergleichbare individuell zurechenbare öffentliche Leistungen im
+Gastland ein Zuschlag erhoben werden kann. Der Zuschlag kann bis zu
+200 Prozent der Gebühren betragen.
+
+
+### § 25e Auslagen
+
+Die Erstattung von Auslagen kann auch verlangt werden, wenn für die
+individuell zurechenbare öffentliche Leistung keine Gebühr vorgesehen
+ist.
+
+
+### § 26 Erstattungsansprüche bei Amtshilfe
+
+(1) Im Falle der Amtshilfe hat die ersuchende Behörde keine
+Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu
+erstatten, wenn sie im Einzelfall 25 Euro übersteigen. Wird die
+Amtshilfe für eine Bundesbehörde geleistet, so werden die Auslagen
+nicht erstattet.
+
+(2) Nehmen die Auslandsvertretungen oder die Honorarkonsularbeamten
+zur Durchführung der Amtshilfe eine gebührenpflichtige individuell
+zurechenbare öffentliche Leistung vor, so stehen ihnen die von einem
+Dritten hierfür geschuldeten Gebühren und Auslagen zu.
 
 
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
@@ -594,21 +694,4 @@ Grundgesetzes.
 ### § 29
 
 -
-
-
-### § 30 Berlin-Klausel
-
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
-
-
-### § 31 Inkrafttreten
-
-Dieses Gesetz tritt drei Monate nach dem Tag seiner Verkündung in
-Kraft mit Ausnahme des § 8
-und des § 28 Abs. 1 Nr. 3,              die am 1. Januar 1975 in Kraft
-treten.
 

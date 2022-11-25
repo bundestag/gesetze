@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1735
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.4.2012 I 611
+:   Art. 3 G v. 4.12.2018 I 2254
 
 
 ## Eingangsformel
@@ -1061,10 +1061,10 @@ Betriebsnummer und einer zweistelligen Nummer für die Betriebsart nach
 Maßgabe der Anlage 5 gebildet.
 
 (2) Die zuständige Landesbehörde teilt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium)
-die Zulassung und Registrierung unter Angabe der erteilten Zulassungs-
-oder Registriernummer sowie die Rücknahme oder den Widerruf einer
-Zulassung oder Registrierung mit.
+Ernährung und Landwirtschaft (Bundesministerium) die Zulassung und
+Registrierung unter Angabe der erteilten Zulassungs- oder
+Registriernummer sowie die Rücknahme oder den Widerruf einer Zulassung
+oder Registrierung mit.
 
 (3) Das Bundesministerium gibt die zugelassenen und registrierten
 Betriebe unter Angabe der erteilten Zulassungs- und Registriernummer
@@ -1099,7 +1099,7 @@ Wasserschutzgebieten und nicht in unmittelbarer Nähe öffentlicher Wege
 und Plätze, vergraben werden. Die Tierkörper dürfen nur so vergraben
 werden, dass sie mit einer ausreichenden, mindestens 50 Zentimeter
 starken Erdschicht, gemessen vom Rand der Grube, bedeckt sind. § 32
-Absatz 2 Satz 1, § 45 Absatz 2 Satz 1 und § 48 Absatz 2 Satz 1 des
+Absatz 2 Satz 1, § 45 Absatz 3 Satz 1 und § 48 Absatz 2 Satz 1 des
 Wasserhaushaltsgesetzes bleiben unberührt.
 
 (4) Für die Sammlung, Beförderung, Verarbeitung, Verwendung und

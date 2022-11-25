@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1202
 
+Zuletzt geändert durch
+:   Art. 5 G v. 15.2.2021 I 239
+
 
 ## § 1 Anwendungsbereich
 
@@ -113,11 +116,11 @@ ihren Aufgaben gehören insbesondere
 
 ## § 5 Koordinierungsstelle für die Systeme der Beamtenversorgung
 
-Die Bundesfinanzdirektion West nimmt im Zusammenwirken mit der
-Deutschen Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches
+Die Generalzolldirektion nimmt im Zusammenwirken mit der Deutschen
+Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches
 Sozialgesetzbuch) die Funktion einer Koordinierungsstelle für die
 deutschen Systeme der Beamtenversorgung wahr. Zu den Aufgaben der
-Bundesfinanzdirektion in diesem Bereich gehören insbesondere die
+Generalzolldirektion in diesem Bereich gehören insbesondere die
 Koordinierung der Verwaltungshilfe und der Datenaustausch mit anderen
 Mitgliedstaaten bei grenzüberschreitenden Sachverhalten. Sie darf
 personenbezogene Daten erheben, verarbeiten und nutzen, soweit dies
@@ -143,22 +146,17 @@ Sozialgesetzbuch Anwendung finden.
 
     b)  für den Bereich des anwendbaren Rechts in den Fällen
 
-        aa) des Artikels 15 der Verordnung (EG) Nr.
-            987/2009                               , wenn die deutschen
-            Rechtsvorschriften gelten,
+        aa) des Artikels 15 der Verordnung (EG) Nr. 987/2009,
 
 
-        bb) des Artikels 16 der Verordnung (EG) Nr.
-            987/2009                               , wenn der Wohnort der
+        bb) des Artikels 16 der Verordnung (EG) Nr. 987/2009, wenn der Wohnort der
             betreffenden Person in Deutschland liegt,
 
 
-        cc) des Artikels 17 der Verordnung (EG) Nr.
-            987/2009                               ,
+        cc) des Artikels 17 der Verordnung (EG) Nr. 987/2009,
 
 
-        dd) des Artikels 18 der Verordnung (EG) Nr.
-            987/2009                               ;
+        dd) des Artikels 18 der Verordnung (EG) Nr. 987/2009;
 
 
 
@@ -174,7 +172,7 @@ Sozialgesetzbuch Anwendung finden.
     Nr. 883/2004);
 
 
-3.  die Datenstelle der Träger der Rentenversicherung
+3.  die Datenstelle der Rentenversicherung
 
     a)  für den Bereich der Leistungen bei Invalidität, bei Alter und an
         Hinterbliebene sowie der Vorruhestandsleistungen (Artikel 3 Absatz 1
@@ -183,13 +181,10 @@ Sozialgesetzbuch Anwendung finden.
 
     b)  für den Bereich des anwendbaren Rechts in den Fällen
 
-        aa) des Artikels 15 der Verordnung (EG) Nr.
-            987/2009                               , wenn die Rechtsvorschriften
-            eines anderen Mitgliedstaates gelten,
+        aa) des Artikels 15 der Verordnung (EG) Nr. 987/2009,
 
 
-        bb) des Artikels 16 der Verordnung (EG) Nr.
-            987/2009                               , wenn der Wohnort der
+        bb) des Artikels 16 der Verordnung (EG) Nr. 987/2009, wenn der Wohnort der
             betreffenden Person außerhalb Deutschlands liegt;
 
 

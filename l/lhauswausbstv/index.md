@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 758
 
+Geändert durch
+:   Art. 6 Abs. 21 G v. 23.5.2017 I 1228
+
 
 
 ## Eingangsformel
@@ -52,9 +55,9 @@ buchführungsmäßig erfaßt werden und Planungsunterlagen für
 Teilbereiche des Haushalts vorliegen.
 
 (5) Die Ausbildungsstätte muß Gewähr dafür bieten, daß die
-Vorschriften des Jugendarbeitsschutzgesetzes, die
-Unfallverhütungsvorschriften und sonstige Vorschriften zum Schutz des
-Auszubildenden eingehalten werden können.
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, die Unfallverhütungsvorschriften und sonstige
+Vorschriften zum Schutz des Auszubildenden eingehalten werden können.
 
 
 ## § 2 Mindestanforderungen an die Größe

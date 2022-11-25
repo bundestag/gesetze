@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.11.1978 I 1789;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.12.2008 I 2366
+:   Art. 6 G v. 30.11.2020 I 2600
 
 
 ## Abschnitt I - Allgemeines
@@ -86,16 +86,15 @@ gemeinsamen politischen Gesinnung zu tragen.
 auf Antrag für ihre Mitglieder eine Ausnahmegenehmigung von dem Verbot
 des Absatzes 1 zu erteilen. Zuständig ist bei Jugendverbänden, deren
 erkennbare Organisation oder Tätigkeit sich über das Gebiet eines
-Landes hinaus erstreckt, der Bundesminister des Innern, sonst die
-oberste Landesbehörde. Die Entscheidung des Bundesministers des Innern
-ist im Bundesanzeiger und im Gemeinsamen Ministerialblatt, die der
-obersten Landesbehörden in ihren amtlichen Mitteilungsblättern
-bekanntzumachen.
+Landes hinaus erstreckt, das Bundesministerium des Innern, für Bau und
+Heimat, sonst die oberste Landesbehörde. Die Entscheidung des
+Bundesministeriums des Innern, für Bau und Heimat ist im
+Bundesanzeiger und im Gemeinsamen Ministerialblatt, die der obersten
+Landesbehörden in ihren amtlichen Mitteilungsblättern bekanntzumachen.
 
 
-### § 4
+### § 4 (weggefallen)
 
-(weggefallen)
 
 
 ## Abschnitt II - Öffentliche Versammlungen in geschlossenen Räumen
@@ -226,7 +225,7 @@ werden
 
 Unterlagen, die aus den in Satz 1 Nr. 2 aufgeführten Gründen nicht
 vernichtet wurden, sind in jedem Fall spätestens nach Ablauf von drei
-Jahren seit iher Entstehung zu vernichten, es sei denn, sie würden
+Jahren seit ihrer Entstehung zu vernichten, es sei denn, sie würden
 inzwischen zu dem in Satz 1 Nr. 1 aufgeführten Zweck benötigt.
 
 (3) Die Befugnisse zur Erhebung personenbezogener Informationen nach
@@ -443,13 +442,12 @@ einem Jahr oder mit Geldstrafe bestraft.
 
 ### § 23
 
-Wer öffentlich, in einer Versammlung oder durch Verbreiten von
-Schriften, Ton- oder Bildträgern, Abbildungen oder anderen
-Darstellungen zur Teilnahme an einer öffentlichen Versammlung oder
-einem Aufzug auffordert, nachdem die Durchführung durch ein
-vollziehbares Verbot untersagt oder die Auflösung angeordnet worden
-ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
-bestraft.
+Wer öffentlich, in einer Versammlung oder durch Verbreiten eines
+Inhalts (§ 11 Abs. 3 des Strafgesetzbuches) zur Teilnahme an einer
+öffentlichen Versammlung oder einem Aufzug auffordert, nachdem die
+Durchführung durch ein vollziehbares Verbot untersagt oder die
+Auflösung angeordnet worden ist, wird mit Freiheitsstrafe bis zu einem
+Jahr oder mit Geldstrafe bestraft.
 
 
 ### § 24
@@ -635,9 +633,8 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 
-### § 31
+### § 31 (Aufhebungsvorschriften)
 
-(Aufhebungsvorschriften)
 
 
 ### § 32

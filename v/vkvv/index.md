@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 475
 
 Zuletzt geändert durch
-:   Art. 76 G v. 9.12.2004 I 3242
+:   Art. 22 G v. 12.6.2020 I 1248
 
 
 ## Eingangsformel
@@ -34,14 +34,14 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 ### § 1 Vergabe und Zuordnung der Versicherungsnummer
 
-Die Datenstelle der Träger der Rentenversicherung vergibt für
-Versicherte, an die noch keine inländische Versicherungsnummer
-vergeben wurde, gemäß § 147 des Sechsten Buches Sozialgesetzbuch eine
-Versicherungsnummer. Für andere Personen kann eine Versicherungsnummer
-vergeben werden, soweit dies zur Aufgabenerfüllung der
-Rentenversicherung erforderlich ist. Gleichzeitig ordnet die
-Datenstelle gemäß § 127 des Sechsten Buches Sozialgesetzbuch jeden
-Versicherten einem Rentenversicherungsträger zu.
+Die Datenstelle der Rentenversicherung vergibt für Versicherte, an die
+noch keine inländische Versicherungsnummer vergeben wurde, gemäß § 147
+des Sechsten Buches Sozialgesetzbuch eine Versicherungsnummer. Für
+andere Personen kann eine Versicherungsnummer vergeben werden, soweit
+dies zur Aufgabenerfüllung der Rentenversicherung erforderlich ist.
+Gleichzeitig ordnet die Datenstelle gemäß § 127 des Sechsten Buches
+Sozialgesetzbuch jeden Versicherten einem Rentenversicherungsträger
+zu.
 
 
 ### § 2 Aufbau der Versicherungsnummer
@@ -89,12 +89,13 @@ Großbuchstaben umgesetzt.
 bezeichnet in aufsteigender Reihenfolge die Versicherten, die an
 demselben Tag geboren sind und deren Geburtsname mit dem gleichen
 Buchstaben beginnt. Für männliche Versicherte werden die Ziffern 00
-bis 49, für weibliche Versicherte die Ziffern 50 bis 99 verwandt. Die
-Gestaltung der Stellen zehn und elf oder der Versicherungsnummer
-insgesamt beim Verbrauch sämtlicher Seriennummern eines Geburtsdatums
-regeln die Spitzenverbände der Kranken- und Pflegekassen, die Deutsche
-Rentenversicherung Bund und die Bundesagentur für Arbeit
-einvernehmlich.
+bis 49, für weibliche Versicherte und Versicherte ohne Angabe zum
+Geschlecht oder mit der Angabe „divers“ die Ziffern 50 bis 99
+verwandt. Die Gestaltung der Stellen zehn und elf oder der
+Versicherungsnummer insgesamt beim Verbrauch sämtlicher Seriennummern
+eines Geburtsdatums regeln die Spitzenverbände der Kranken- und
+Pflegekassen, die Deutsche Rentenversicherung Bund und die
+Bundesagentur für Arbeit einvernehmlich.
 
 (6) Die zwölfte Stelle, die Prüfziffer, wird errechnet, indem der
 Buchstabe in der neunten Stelle durch eine zweistellige Zahl ersetzt
@@ -141,9 +142,9 @@ Erfüllung der Aufgaben der Rentenversicherung zuständig ist.
 
 ### § 5 Aufgaben der Datenstelle im Rahmen der Kontoführung
 
-Die Datenstelle der Rentenversicherungsträger ist zur
-Aufgabenerfüllung nach § 150 des Sechsten Buches Sozialgesetzbuch von
-den Rentenversicherungsträgern über Änderungen in den in der
+Die Datenstelle der Rentenversicherung ist zur Aufgabenerfüllung nach
+§ 150 des Sechsten Buches Sozialgesetzbuch von den
+Rentenversicherungsträgern über Änderungen in den in der
 Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 
 
@@ -153,9 +154,9 @@ Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 Inhalts des Versicherungskontos über die Datenstelle. Auf Anforderung
 sind die Versicherungsunterlagen zu übersenden.
 
-(2) Stellt die Datenstelle der Träger der Rentenversicherung bei der
-Annahme von Meldungen fest, dass die Voraussetzungen für einen Wechsel
-der Kontoführung vorliegen, ist der neu zuständige
+(2) Stellt die Datenstelle der Rentenversicherung bei der Annahme von
+Meldungen fest, dass die Voraussetzungen für einen Wechsel der
+Kontoführung vorliegen, ist der neu zuständige
 Rentenversicherungsträger zur Übernahme des Versicherungskontos
 aufzufordern.
 

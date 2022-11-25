@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1262 (1878)
 
-Geändert durch
-:   Art. 2 V v. 4.7.2007 I 1252
+Zuletzt geändert durch
+:   Art. 6 G v. 24.5.2016 I 1190
 
 
 ## Eingangsformel
@@ -1871,7 +1871,8 @@ fortzuführen.
 
 ### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
 
-(Fundstelle: BGBl. I 2001, 1287 - 1296)
+(Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 *    *   - Sachliche Gliederung -
 
@@ -2801,8 +2802,8 @@ fortzuführen.
             Regelungen beachten
 
 
-        b)  veranstaltungsspezifische Vorschriften des Urheberrechts- und
-            Wahrnehmungsgesetzes anwenden
+        b)  veranstaltungsspezifische Vorschriften des Urheberrechtsgesetzes und
+            des Verwertungsgesellschaftengesetzes anwenden
 
 
         c)  abgaberechtliche Bestimmungen des Künstlersozialversicherungsgesetzes

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 2267
 
 Zuletzt geändert durch
-:   Art. 49 G v. 21.12.2000 I 1956
+:   Art. 124 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -118,10 +118,10 @@ anstelle des Absatzes die entsprechend gekürzten Nettoeinfuhren
 (6) Die bei der Ermittlung der Unter- oder Überversorgung zugrunde zu
 legenden Verbrauchseinschränkungssätze werden vom Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) festgelegt und den am
-Versorgungsausgleich beteiligten Unternehmen schriftlich
-bekanntgegeben. Die Festlegung hat unter Beachtung der von den
-zuständigen Stellen durch Verbrauchseinschränkungsmaßnahmen oder auf
-andere Weise angestrebten Einsparziele zu erfolgen.
+Versorgungsausgleich beteiligten Unternehmen schriftlich oder
+elektronisch bekanntgegeben. Die Festlegung hat unter Beachtung der
+von den zuständigen Stellen durch Verbrauchseinschränkungsmaßnahmen
+oder auf andere Weise angestrebten Einsparziele zu erfolgen.
 
 
 ### § 3 Inhalt der Verpflichtung zum Versorgungsausgleich
@@ -132,7 +132,7 @@ vorrangig erfolgen. Die Verpflichtung zum Angebot von Ausgleichsmengen
 beginnt jeweils, wenn das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) den am Versorgungsausgleich beteiligten
 Unternehmen ihre eigene auszugleichende Menge und die der anderen
-Unternehmen schriftlich bekanntgegeben hat.
+Unternehmen schriftlich oder elektronisch bekanntgegeben hat.
 
 (2) Jedes nach § 1 Abs. 2 oder 3 in Verbindung mit § 2 Abs. 2 bis 5
 überversorgte Unternehmen ist in Höhe seiner Überversorgung zum
@@ -167,7 +167,7 @@ Abs. 4 genannten Schlüssel anzurechnen.
 
 (5) Ausgeglichen werden müssen nur Mengen, die bei Flüssiggas
 mindestens 500 t und bei den anderen in den Versorgungsausgleich
-einbezogenen Mineralölprodukten mindestens 1.000 t erreichen.
+einbezogenen Mineralölprodukten mindestens 1 000 t erreichen.
 Geringere Mengen sind auszugleichen, falls dies dem abgebenden
 Unternehmen auf technisch und wirtschaftlich vertretbare Weise möglich
 ist.
@@ -203,8 +203,8 @@ genannten Mineralölprodukten bis zur Höhe der um den jeweiligen
 Verbrauchseinschränkungssatz gekürzten Referenzmenge (§ 2 Abs. 5)
 anteilig entsprechend der Abnahmestruktur im Vergleichszeitraum
 anzubieten. Die Konditionen dieser Angebote haben den Anforderungen
-des § 20 Abs. 1 und 2 des Gesetzes gegen Wettbewerbsbeschränkungen zu
-entsprechen.
+des § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 und § 20 Absatz
+1 des Gesetzes gegen Wettbewerbsbeschränkungen zu entsprechen.
 
 
 ## 3. Abschnitt - Administrative Maßnahmen

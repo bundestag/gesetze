@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 718
 
+Geändert durch
+:   Art. 27 Abs. 3 G v. 4.7.2013 I 1981
+
 
 
 ## Eingangsformel
@@ -403,9 +406,9 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   f)
 
-    *   rechtliche Grundlagen für Kapitalanlagegesellschaften anwenden und
-        deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen des
-        Ausbildungsbetriebes beachten
+    *   rechtliche Grundlagen für Kapitalverwaltungsgesellschaften anwenden
+        und deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen
+        des Ausbildungsbetriebes beachten
 
 
 *    *   1.2
@@ -863,8 +866,9 @@ Investmentfondskaufmann/zur Investmentfondskauffrau
 
 *    *   o)
 
-    *   Aufgabenverteilung zwischen Depotbank und Kapitalanlagegesellschaft
-        begründen und bei der Fondsbuchhaltung berücksichtigen
+    *   Aufgabenverteilung zwischen Verwahrstelle und
+        Kapitalverwaltungsgesellschaft begründen und bei der Fondsbuchhaltung
+        berücksichtigen
 
 
 *    *   4.3

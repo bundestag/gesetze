@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 972; 1995, 979
 
 Zuletzt geändert durch
-:   Art. 79 V v. 31.10.2006 I 2407
+:   Art. 6a G v. 18.7.2017 I 2757
 
 
 ## Eingangsformel
@@ -35,44 +35,13 @@ Zweck des Gesetzes ist es, aus humanitären und sozialen Gründen und
 unabhängig von bisher erbrachten Entschädigungs- und sozialen
 Leistungen an Personen, die durch Blutprodukte unmittelbar oder
 mittelbar mit dem Human Immundeficiency Virus (HIV) oder infolge davon
-an AIDS erkrankt sind, und an deren unterhaltsberechtigte Angehörige
-finanzielle Hilfe zu leisten.
+an AIDS erkrankt sind, lebenslang und an deren unterhaltsberechtigte
+Angehörige zeitlich begrenzt finanzielle Hilfe zu leisten.
 
 
 ### § 2 Mittel für finanzielle Hilfe
 
-Die Mittel für die finanziellen Leistungen werden wie folgt
-aufgebracht:
-
-1.  100 Millionen Deutsche Mark, die der Bund nach Maßgabe der im
-    Bundeshaushalt ausgebrachten Mittel mit Inkrafttreten des Gesetzes zur
-    Verfügung stellt;
-
-
-2.  90,8 Millionen Deutsche Mark, zu deren Zahlung sich folgende
-    pharmazeutische Unternehmen verpflichtet haben:
-
-    Bayer AG, Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG,
-    Armour Pharma GmbH, Alpha Therapeutic GmbH. Die Mittel werden
-    innerhalb von vier Jahren, beginnend mit dem Jahr 1995, in gleichen
-    Teilbeträgen zur Verfügung gestellt;
-
-
-3.  9,2 Millionen Deutsche Mark, zu deren Zahlung sich die
-    Blutspendedienste des Deutschen Roten Kreuzes verpflichtet haben. Die
-    Mittel werden innerhalb von vier Jahren, beginnend mit dem Jahr 1995,
-    in gleichen Teilbeträgen zur Verfügung gestellt;
-
-
-4.  50 Millionen Deutsche Mark, die die Länder zur Verfügung stellen. Das
-    Anteilsverhältnis unter allen Ländern wird zu zwei Dritteln nach dem
-    Verhältnis ihrer Steuereinnahmen und zu einem Drittel nach dem
-    Verhältnis ihrer Bevölkerungszahl errechnet. Die Mittel werden
-    innerhalb von vier Jahren, beginnend mit dem Jahr 1995, in jeweils
-    gleichen Teilbeträgen zur Verfügung gestellt.
-
-
-
+Die Mittel für die finanzielle Hilfe werden vom Bund aufgebracht.
 
 
 ## Teil 2 - Stiftung des Bundes
@@ -101,8 +70,10 @@ der Leistungen an die anspruchsberechtigten Personen zu erfüllen.
 
 #### § 5 Stifter, Stiftungsvermögen
 
-(1) Stifter sind der Bund, die pharmazeutischen Unternehmen und die
-Blutspendedienste des Deutschen Roten Kreuzes nach § 2 Nr. 1 bis 3.
+(1) Stifter sind der Bund, die pharmazeutischen Unternehmen Bayer AG,
+Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG, Armour Pharma
+GmbH, Alpha Therapeutic GmbH und die Blutspendedienste des Deutschen
+Roten Kreuzes.
 
 (2) Das Stiftungsvermögen beträgt 3 Millionen Deutsche Mark.
 
@@ -115,9 +86,10 @@ anzunehmen.
 Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den
 Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der
 Genehmigung des Bundesministeriums für Gesundheit im Einvernehmen mit
-dem Bundesministerium der Justiz bedarf. Der Stiftungsrat kann die
-Satzung mit Genehmigung des Bundesministeriums für Gesundheit im
-Einvernehmen mit dem Bundesministerium der Justiz ändern.
+dem Bundesministerium der Justiz und für Verbraucherschutz bedarf. Der
+Stiftungsrat kann die Satzung mit Genehmigung des Bundesministeriums
+für Gesundheit im Einvernehmen mit dem Bundesministerium der Justiz
+und für Verbraucherschutz ändern.
 
 
 #### § 7 Organe
@@ -127,12 +99,12 @@ Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 #### § 8 Stiftungsrat
 
-(1) Der Stiftungsrat besteht aus neun Mitgliedern. Ein Mitglied wird
-vom Bundesministerium für Gesundheit benannt. Je zwei Mitglieder
-werden vom Deutschen Bundestag und vom Bundesrat benannt. Zwei
-Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag
-der pharmazeutischen Unternehmen (§ 2 Nr. 2) und der Blutspendedienste
-des Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das
+(1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird
+vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden
+vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das
+Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz 1
+genannten pharmazeutischen Unternehmen und der Blutspendedienste des
+Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das
 Bundesministerium für Gesundheit auf Vorschlag der überörtlichen
 Hämophilieverbände.
 
@@ -188,7 +160,7 @@ einen Haushaltsplan aufzustellen. Der Haushaltsplan bedarf der
 Genehmigung des Bundesministeriums für Gesundheit. Das Nähere regelt
 die Satzung.
 
-(3) Die Stiftung ist den Stiftern nach § 2 Nr. 1 bis 3
+(3) Die Stiftung ist den Stiftern nach § 5 Absatz 1
 rechnungslegungspflichtig. Die Einnahmen- und Ausgabenrechnung sowie
 die Mitteilung über die Gesamtkosten der Stiftung werden jeweils nach
 Abschluß des Kalenderjahres, spätestens bis zum 31. März des folgenden
@@ -221,8 +193,7 @@ des § 14 Abs. 2 - die Bestimmungen des Bundesdatenschutzgesetzes.
 
 #### § 14 Aufhebung der Stiftung
 
-Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist oder
-die Mittel für die finanzielle Hilfe erschöpft sind.
+Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist.
 
 
 ### Abschnitt 2 - Leistungen
@@ -302,7 +273,7 @@ Absätze 5 bis 7 entsprechend.
 #### § 16 Leistungen
 
 (1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe
-von 766,94 Euro, AIDS-erkrankte Personen von 1.533,88 Euro ohne
+von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne
 Prüfung der Einkommens- oder sonstigen wirtschaftlichen Verhältnisse.
 
 (2) Kinder im Sinne des § 15 Abs. 4 erhalten nach dem Tod der
@@ -328,9 +299,11 @@ Person nach Antragseingang, so wird die auf Grund des Antrages
 bewilligte Leistung ihrem Ehepartner, Verlobten, Lebenspartner, ihren
 Kindern oder Eltern ausgezahlt, soweit sie erben.
 
-(6) Leistungen nach dieser Vorschrift setzen sich anteilig
-entsprechend der Aufbringung der Mittel für die finanzielle Hilfe nach
-§ 2 zusammen.
+(6) Die Leistungen werden zum gleichen Zeitpunkt, zu dem die Renten
+der gesetzlichen Rentenversicherung angepasst werden, entsprechend dem
+Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der
+gesetzlichen Rentenversicherung verändert. Die Anpassung erfolgt ab
+dem 1. Juli 2019.
 
 
 #### § 17 Steuerfreiheit, Anrechnung auf andere Leistungen
@@ -383,11 +356,12 @@ entscheidet.
 
 (1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten,
 gegen die Bundesrepublik Deutschland, die Blutspendedienste des
-Deutschen Roten Kreuzes und die Stifter nach § 2 Nr. 2 sowie die mit
-ihnen verbundenen Unternehmen wegen einer von diesem Gesetz erfaßten
-HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit
-Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft
-auf andere übertragen worden sind.
+Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten
+pharmazeutischen Unternehmen sowie die mit ihnen verbundenen
+Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion oder
+AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft
+Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf andere
+übertragen worden sind.
 
 (2) Absatz 1 gilt nicht für Ansprüche nach dem Sechzehnten Abschnitt
 des Arzneimittelgesetzes, sofern hierauf nicht bereits abschließende
@@ -406,38 +380,19 @@ erhoben.
 
 
 
-### § 22 Stiftung als Organ der Länder
-
-(1) Die Länder entleihen die Stiftung "Humanitäre Hilfe für durch
-Blutprodukte HIV-infizierte Personen" als Organ, die Auszahlung der in
-§ 2 Nr. 4 genannten Mittel der Länder für die finanzielle Hilfe an die
-nach diesem Gesetz anspruchsberechtigten Personen durchzuführen. Die
-Kosten für die Durchführung der Aufgabe sind aus diesen Mitteln zu
-tragen.
-
-(2) Die Stiftung führt diese Aufgabe entsprechend den Vorschriften von
-Teil 2 dieses Gesetzes durch.
-
-(3) Die Stiftung hat den Haushaltsplan den Ländern vorzulegen. Sie ist
-den Ländern rechnungslegungspflichtig. Die Einnahmen- und
-Ausgabenrechnung sowie die Mitteilung über die Gesamtkosten der
-Stiftung werden den Ländern jeweils nach Abschluß des Kalenderjahres,
-spätestens bis zum 31. März des folgenden Jahres, vorgelegt.
+### § 22 (weggefallen)
 
 
 ### § 23 Ausschluß von Ansprüchen
 
-Ansprüche von Personen, die nach § 22 Leistungen erhalten, gegen die
-Länder wegen einer von diesem Gesetz erfaßten HIV-Infektion oder AIDS-
-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes,
-kraft Überleitung oder durch Rechtsgeschäft auf einen anderen
-übertragen worden sind.
+Ansprüche von Personen, die nach Teil 2 Abschnitt 2 Leistungen
+erhalten, gegen die Länder wegen einer von diesem Gesetz erfaßten HIV-
+Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit
+Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft
+auf einen anderen übertragen worden sind.
 
 
-### § 24 Verbleibende Mittel
-
-Bei Aufhebung der Stiftung nicht verwendete Mittel der Länder werden
-anteilsmäßig an diese zurückgezahlt.
+### § 24 (weggefallen)
 
 
 ## Teil 4 - Schlußvorschriften

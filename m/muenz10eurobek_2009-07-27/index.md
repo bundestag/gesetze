@@ -24,8 +24,8 @@ I S. 2402) hat die Bundesregierung beschlossen, zum 100-jährigen
 Jubiläum der Jugendherbergen im Jahr 2009 eine deutsche Euro-
 Gedenkmünze im Nennwert von 10 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt 1 810 000 Stück, darunter maximal 200
-000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch die
+Die Auflage der Münze beträgt 1 810 000 Stück, darunter maximal
+200 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch die
 Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Die Münze wird ab dem 13. August 2009 in den Verkehr gebracht. Sie

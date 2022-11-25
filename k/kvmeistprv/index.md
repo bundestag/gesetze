@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 286
 
+Zuletzt geändert durch
+:   Art. 59 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
@@ -770,87 +773,118 @@ mündlichen Ergänzungsprüfung werden zu einer Bewertung der
 Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-(16) Im Fachgespräch soll der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin Lösungsansätze für die Situationsaufgabe
-präsentieren und begründen und deren Grundlagen mit dem
-Prüfungsausschuss erörtern. Dabei soll auch die Fähigkeit nachgewiesen
-werden, berufliche Aufgabenstellungen und Sachverhalte zu analysieren
-und zu strukturieren. Die Präsentation soll möglichst unter Nutzung
-von Präsentationstechniken erfolgen. Den Prüfungsteilnehmern oder
-Prüfungsteilnehmerinnen sind 30 Minuten zur Bearbeitung der
-Situationsaufgabe und zur Vorbereitung der Präsentation einzuräumen.
-Das Fachgespräch soll für jeden Prüfungsteilnehmer und für jede
-Prüfungsteilnehmerin höchstens 45 Minuten dauern, von denen höchstens
-15 Minuten auf die Präsentation entfallen.
+(16) Im Fachgespräch soll die zu prüfende Person Lösungsansätze für
+die Situationsaufgabe präsentieren und begründen und deren Grundlagen
+mit dem Prüfungsausschuss erörtern. Dabei soll auch die Fähigkeit
+nachgewiesen werden, berufliche Aufgabenstellungen und Sachverhalte zu
+analysieren und zu strukturieren. Die Präsentation soll möglichst
+unter Nutzung von Präsentationstechniken erfolgen. Der zu prüfenden
+Person sind 30 Minuten zur Bearbeitung der Situationsaufgabe und zur
+Vorbereitung der Präsentation einzuräumen. Das Fachgespräch soll für
+die zu prüfende Person höchstens 45 Minuten dauern, von denen
+höchstens 15 Minuten auf die Präsentation entfallen.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 3 oder § 8 Absatz 4 entsprechend
+ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind
+den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfungsleistungen der Prüfungsteile „Grundlegende
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die Prüfungsleistungen der Prüfungsteile „Grundlegende
 Qualifikationen“ und „Handlungsspezifische Qualifikationen“ sind
 gesondert nach Punkten zu bewerten.
 
-(2) Für den Prüfungsteil „Grundlegende Qualifikationen“ ist eine Note
-aus dem arithmetischen Mittel der Punktebewertungen der Leistungen in
-den einzelnen Prüfungsbereichen zu bilden.
+(3) Für den Prüfungsteil „Grundlegende Qualifikationen“ ist das
+arithmetische Mittel aus den Bewertungen der Leistungen in den
+einzelnen Prüfungsbereichen zu bilden.
 
-(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ ist für
-jede schriftliche Situationsaufgabe und für das Fachgespräch jeweils
-eine Note aus der Punktebewertung der Prüfungsleistung zu bilden.
+(4) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ ist jede
+schriftliche Situationsaufgabe und das Fachgespräch jeweils einzeln zu
+bewerten.
 
-(4) Aus dem arithmetischen Mittel der Punktebewertungen der
-Prüfungsleistungen des Prüfungsteils „Grundlegende Qualifikationen“
-und aus den einzelnen Punktebewertungen der Prüfungsleistungen des
-Prüfungsteils „Handlungsspezifischen Qualifikationen“ ist eine
-Gesamtnote zu bilden.
 
-(5) Die Prüfung ist insgesamt bestanden, wenn im Prüfungsteil
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung im Prüfungsteil
 „Grundlegende Qualifikationen“ in allen Prüfungsbereichen sowie im
 Prüfungsteil „Handlungsspezifische Qualifikationen“ in den
 schriftlichen Situationsaufgaben und im Fachgespräch jeweils
-mindestens ausreichende Leistungen erbracht wurden.
+mindestens 50 Punkte erreicht worden sind.
 
-(6) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. In das Zeugnis nach der Anlage 2 sind die
-Gesamtnote, die in den Prüfungsteilen „Grundlegende Qualifikationen“
-und „Handlungsspezifische Qualifikationen“ erzielten Noten sowie die
-Punktebewertungen in den einzelnen Prüfungsbereichen nach § 4 sowie
-die Punktebewertungen in den schriftlichen Situationsaufgaben und im
-Fachgespräch einzutragen. Im Fall der Freistellung nach § 6 sind Ort
-und Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
-abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb der berufs-
-und arbeitspädagogischen Qualifikationen nach § 2 Absatz 2 ist im
-Zeugnis einzutragen.
+(2) Ist die Prüfung bestanden, werden die Bewertung für den
+Prüfungsteil „Grundlegende Qualifikationen“ sowie die Bewertung der
+Situationsaufgabe, in der eine mündliche Ergänzungsprüfung
+durchgeführt wurde, kaufmännisch auf eine ganze Zahl gerundet.
+
+(3) Den Bewertungen im Prüfungsteil „Grundlegende Qualifikationen“
+sowie im Prüfungsteil „Handlungsspezifische Qualifikationen“ in den
+schriftlichen Situationsaufgaben und im Fachgespräch ist nach Anlage 1
+die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel aus den Bewertungen der Prüfungsleistungen des
+Prüfungsteils „Grundlegende Qualifikationen“ und aus den einzelnen
+Bewertungen der Prüfungsleistungen des Prüfungsteils
+„Handlungsspezifischen Qualifikationen“ zu berechnen. Die
+Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der
+gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl
+und die Note in Worten zuzuordnen. Die zugeordnete Note ist die
+Gesamtnote.
 
 
-## § 8 Wiederholung der Prüfung
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 9 Übergangsvorschriften
+## § 11 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 30. Juni 2015 nach den
 bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die
@@ -861,7 +895,7 @@ Dezember 2012 die Anwendung der bisherigen Vorschriften beantragt
 werden.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten
+## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. März 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
@@ -871,294 +905,364 @@ Industriemeisterin – Fachrichtung Kraftverkehr vom 25. August 1982
 (BGBl. I S. 1245), die zuletzt durch Artikel 14 der Verordnung vom 25.
 August 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
-(zu § 7 Absatz 6)
+(zu den §§ 7 und 8)
 
-## Anlage 1 Muster
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2012, 292)
-
-
-*    *   .........................................
+(Fundstelle: BGBl. I 2019, 2360 – 2361)
 
 
-*    *   (Bezeichnung der zuständigen Stelle)
+*    *   Punkte
 
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Meister für Kraftverkehr
-## Geprüfte Meisterin für Kraftverkehr
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Meister für Kraftverkehr
-## Geprüfte Meisterin für Kraftverkehr
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Meister für Kraftverkehr und Geprüfte
-Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S. 286)
-bestanden.
-
-
-*    *   Datum ................................................................
-        ...........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-(zu § 7 Absatz 6)
-
-## Anlage 2 Muster
-
-(Fundstelle: BGBl. I 2012, 293 - 294)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Meister für Kraftverkehr
-## Geprüfte Meisterin für Kraftverkehr
-
-
-*    *   Herr/Frau
-        ......................................................................
-        ........ ...
-
-
-*    *   geboren am
-        ...........................................
-
-    *   in
-        ...................................
-
-
-*    *   hat am
-        ...................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Meister für Kraftverkehr
-## Geprüfte Meisterin für Kraftverkehr
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Geprüfter Meister für Kraftverkehr und
-Geprüfte Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S.
-286) mit folgenden Ergebnissen bestanden:
-
-
-*    *   Gesamtnote: ............................
-
-
-*    *
-    *
-    *[^f1775540_01_BJNR028600012BJNE001300001]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
 
-
-*    *   I.
-
-    *   Grundlegende Qualifikation
-
-    *   ..........
-
-    *
-    *   ...........
-
-
-*    *
-    *   Prüfungsbereiche:
-
-    *
-    *
-    *
-
-*    *
-    *   Rechtsbewusstes Handeln
-
-    *   ...........
-
-    *
-    *
-
-*    *
-    *   Betriebswirtschaftliches Handeln
-
-    *   ...........
-
-    *
-    *
-
-*    *
-    *   Anwenden von Methoden der Information,
-        Kommunikation und Planung
-
-    *   ...........
-
-    *
-    *
-
-*    *
-    *   Zusammenarbeit im Betrieb
-
-    *   ...........
-
-    *
-    *
-
-*    *   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 6 im Hinblick auf die am
-        ....................
-        in
-        .................................. vor
-        .....................................abgelegte Prüfung in dem
-        Prüfungsteil/Prüfungsbereich
-        ..........................................................
-        freigestellt.“)
-
-
-*    *
-    *
-    *   Punkte
-
-    *
     *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   II.
+*    *   100
 
-    *   Handlungsspezifische Qualifikationen
+    *   1,0
 
-    *
-    *
-    *
+    *   sehr gut
 
-*    *
-    *   Integrative schriftliche Situationsaufgaben
-        (in zwei der folgenden Handlungsbereiche)
-
-    *
-    *
-    *
-
-*    *
-    *   Handlungsbereich Fuhrparktechnik und Fuhrparkmanagement
-
-    *   ...........
-
-    *
-    *   ...........
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *
-    *   Handlungsbereich Organisation und Kommunikation
+*    *   98 und 99
 
-    *   ...........
-
-    *
-    *   ...........
+    *   1,1
 
 
-*    *
-    *   Handlungsbereich Führung und Personal
+*    *   96 und 97
 
-    *   ...........
-
-    *
-    *   ...........
+    *   1,2
 
 
-*    *
-    *   Fachgespräch im Handlungsbereich
+*    *   94 und 95
 
-    *
-    *
-    *
-
-*    *
-    *   .................................................................
-
-    *   ...........
-
-    *
-    *   ...........
+    *   1,3
 
 
-*    *
-    *   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 6 im Hinblick auf die am
-        ..........................
-        in
-        ...............................vor
-        ...............................abgelegte Prüfung in
-        .....................von der Situationsaufgabe/dem Fachgespräch
-        im Handlungsbereich
-        ............................. freigestellt.“)
+*    *   92 und 93
+
+    *   1,4
 
 
-*    *   III.
+*    *   91
 
-    *   Berufs- und arbeitspädagogische Qualifikationen
+    *   1,5
 
+    *   gut
 
-*    *
-    *   Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 2 Absatz 2
-        den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-        Eignung durch die Prüfung am
-        ................................... in
-        ....................................
-        vor ....................................
-        erbracht.
+    *   eine Leistung, die den Anforderungen voll entspricht
 
 
+*    *   90
+
+    *   1,6
 
 
-*    *   Datum
-        ......................................................................
-        .
+*    *   89
+
+    *   1,7
 
 
-*    *   Unterschrift(en)
-        ................................................................... .
+*    *   88
+
+    *   1,8
 
 
-*    *   (Siegel der zuständigen Stelle)
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
 
 
 
-[^f1775540_01_BJNR028600012BJNE001300001]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2362)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  die Benennung, die in den Prüfungsteilen „Grundlegende
+    Qualifikationen“ und „Handlungsspezifische Qualifikationen“ erzielten
+    Noten sowie die Bewertungen in den einzelnen Prüfungsbereichen nach §
+    4 sowie die Bewertungen in den schriftlichen Situationsaufgaben und im
+    Fachgespräch nach § 5,
+
+
+2.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+3.  die Gesamtnote als Dezimalzahl,
+
+
+4.  die Gesamtnote in Worten,
+
+
+5.  Befreiungen nach § 6,
+
+
+6.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
+
+
+
 

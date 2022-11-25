@@ -209,11 +209,8 @@ Ratifikationsurkunden in Kraft.
 
 ## Anlage 1
 
-(Inhalt: nicht darstellbare topographische Karte betr. Änderung der
-gemeinsamen Landesgrenze zwischen dem Freistaat Sachsen und dem Land
-Thüringen,
-Fundstelle BGBl. I 1993, 218 - 219)
-
+(Fundstelle: BGBl. I 1993, 218 - 219)
+![bgbl1_1993_j0218_0010.jpg](bgbl1_1993_j0218_0010.jpg)
 
 ## Anlage 2 Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums
 

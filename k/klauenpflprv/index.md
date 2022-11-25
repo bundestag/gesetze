@@ -677,14 +677,14 @@ Geprüfte Klauenpflegerin
         .................. . ................................
 
 
-*    *   geboren am
-        ....................................................................
+*    *   geboren am ...........................................................
+        .........
 
     *   in ...................................................................
 
 
-*    *   hat am
-        ..................................................................
+*    *   hat
+        am ..................................................................
 
     *   die Prüfung zum anerkannten Fortbildungsabschluss
 
@@ -702,9 +702,8 @@ S. 232) bestanden.
         ......... ...
 
 
-*    *   Unterschrift(en)
-        ..............................................................
-        ..............
+*    *   Unterschrift(en) .....................................................
+        ......... ..............
 
 
 *    *
@@ -812,7 +811,7 @@ S. 232) mit folgenden Ergebnissen „bestanden“/„nicht bestanden“
 (Im Fall des § 7 ist einzufügen: „ „Der Prüfungsteilnehmer“ oder „Die
 Prüfungsteilnehmerin“
 wurde nach § 7 der oben genannten Verordnung im Hinblick auf die am
-...........  in ...........   vor ...........   abgelegte Prüfung
+...........  in ...........   vor ...........   abgelegte Prüfung 
 ...........   in dem
 Prüfungsteil ...........   freigestellt. “)
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2027
 
+Geändert durch
+:   Art. 5 G v. 9.6.2021 I 1614
+
 
 
 ## § 1 Geltungsbereich
@@ -35,22 +38,22 @@ zum Personalrat ihrer Dienststelle wahlberechtigt.
 
 ## § 3 Passives Wahlrecht zum Personalrat
 
-Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 14 des
-Bundespersonalvertretungsgesetzes. Als Beschäftigung im Sinne des § 14
-Abs. 1 Satz 1 Nr. 2 des Bundespersonalvertretungsgesetzes gilt auch
-die Beschäftigung in einem Kooperationsbetrieb.
+Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 15 des
+Bundespersonalvertretungsgesetzes.
 
 
 ## § 4 Sondervorschriften für Soldatinnen und Soldaten
 
-(1) Gehören Soldatinnen und Soldaten einer Dienststelle an, in der sie
-nach den §§ 48ff. des Soldatenbeteiligungsgesetzes einen Personalrat
-wählen, gelten für ihr aktives und passives Wahlrecht die §§ 2 und 3.
+(1) Die Wahlberechtigung und die Wählbarkeit von Soldatinnen und
+Soldaten, die einer Dienststelle oder Einrichtung angehören, für die
+die §§ 60 bis 63 des Soldatinnen- und Soldatenbeteiligungsgesetzes
+gelten, richten sich nach den §§ 4 und 5 des Soldatinnen- und
+Soldatenbeteiligungsgesetzes.
 
 (2) Gehören Soldatinnen und Soldaten einem Wahlbereich für die Wahl
-einer Vertrauensperson im Sinne des § 2 Abs. 1 des
-Soldatenbeteiligungsgesetzes an, bleiben sie während ihrer
-Zugehörigkeit zu einem Kooperationsbetrieb bei der Wahl einer
+einer Vertrauensperson im Sinne des § 4 Absatz 1 Satz 2 des
+Soldatinnen- und Soldatenbeteiligungsgesetzes an, bleiben sie während
+ihrer Zugehörigkeit zu einem Kooperationsbetrieb bei der Wahl einer
 Vertrauensperson für ihren Wahlbereich wahlberechtigt, sind jedoch als
 Vertrauensperson nicht wählbar.
 

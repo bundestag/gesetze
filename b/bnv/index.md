@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1964, 299
 
 Neugefasst durch
-:   Bek. v. 12.11.1987 I 2377;
+:   Bek. v. 12.11.1987 I 2376;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 21 G v. 5.2.2009 I 160
+:   Art. 7 G v. 29.3.2017 I 626
 
 
 ## Erster Abschnitt - Ausübung von Nebentätigkeiten
@@ -374,7 +374,8 @@ von Amts wegen oder auf Antrag des Beamten nach dem Wert
 
 festzusetzen. Der Beamte muß den Nachweis innerhalb einer
 Ausschlußfrist von drei Monaten nach Festsetzung des Entgelts
-erbringen. Die Entscheidung trifft die oberste Dienstbehörde.
+erbringen. Die Entscheidung trifft die oberste Dienstbehörde. Sie kann
+diese Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
 
 
 ### § 12 Entgelt für ärztliche und zahnärztliche Nebentätigkeiten
@@ -406,22 +407,23 @@ zu entrichten.
 
 ### § 13 Festsetzung des Entgelts
 
-(1) Das zu zahlende Entgelt wird von der für die Genehmigung nach nach
-§ 9 Abs. 1 zuständigen oder der von ihr mit seiner Berechnung
-beauftragten Stelle nach dem Ende der Inanspruchnahme, mindestens
-jedoch halbjährlich festgesetzt. Ist die Höhe des Entgelts bereits im
+(1) Das zu zahlende Entgelt wird von der für die Genehmigung nach § 9
+Abs. 1 zuständigen oder der von ihr mit seiner Berechnung beauftragten
+Stelle nach dem Ende der Inanspruchnahme, mindestens jedoch
+halbjährlich festgesetzt. Ist die Höhe des Entgelts bereits im
 Zeitpunkt der Genehmigung zu übersehen, so soll das Entgelt zugleich
 mit der Genehmigung festgesetzt werden. Das Entgelt wird einen Monat
 nach der Festsetzung fällig, im Falle des Satzes 2 einen Monat nach
 dem Ende der Inanspruchnahme, mindestens jedoch halbjährlich.
 
 (2) Der Beamte ist verpflichtet, das Ende der Inanspruchnahme der nach
-§ 9 Abs. 1 zuständigen Stelle unverzüglich schriftlich anzuzeigen. Er
-hat die für die Berechnung des Entgelts notwendigen Aufzeichnungen zu
-führen und mit den zur Glaubhaftmachung notwendigen Belegen
-unverzüglich nach Beendigung, bei fortlaufender Inanspruchnahme
-mindestens halbjährlich vorzulegen. Diese Unterlagen sind fünf Jahre,
-vom Tage der Festsetzung des Entgelts an gerechnet, aufzubewahren.
+§ 9 Abs. 1 zuständigen Stelle unverzüglich schriftlich oder
+elektronisch anzuzeigen. Er hat die für die Berechnung des Entgelts
+notwendigen Aufzeichnungen zu führen und mit den zur Glaubhaftmachung
+notwendigen Belegen unverzüglich nach Beendigung, bei fortlaufender
+Inanspruchnahme mindestens halbjährlich vorzulegen. Diese Unterlagen
+sind fünf Jahre, vom Tage der Festsetzung des Entgelts an gerechnet,
+aufzubewahren.
 
 
 ## Dritter Abschnitt - Geltungsbereich, Berlinklausel, Inkrafttreten

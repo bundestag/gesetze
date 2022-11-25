@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst
-  des Bundes über das Studium „Master of Public Administration“ an der Fachhochschule
+  des Bundes über das Studium „Master of Public Administration“ an der Hochschule
   des Bundes für öffentliche Verwaltung
 jurabk: MPAFHBundV
 layout: default
@@ -9,13 +9,16 @@ slug: mpafhbundv
 
 ---
 
-# Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master of Public Administration“ an der Fachhochschule des Bundes für öffentliche Verwaltung (MPAFHBundV)
+# Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung (MPAFHBundV)
 
 Ausfertigungsdatum
 :   2011-03-24
 
 Fundstelle
 :   BGBl I: 2011, 497
+
+Geändert durch
+:   Art. 1 V v. 6.1.2016 I 27
 
 
 ## Eingangsformel
@@ -31,7 +34,7 @@ Februar 2009 (BGBl. I S. 160) verordnet die Bundesregierung:
 
 Diese Verordnung regelt den Aufstieg in den höheren nichttechnischen
 Verwaltungsdienst des Bundes über das Studium „Master of Public
-Administration“ an der Fachhochschule des Bundes für öffentliche
+Administration“ an der Hochschule des Bundes für öffentliche
 Verwaltung (Fachhochschule) und eine anschließende oder das Studium
 begleitende berufspraktische Einführung in die Laufbahn des höheren
 nichttechnischen Verwaltungsdienstes.
@@ -39,15 +42,12 @@ nichttechnischen Verwaltungsdienstes.
 
 ### § 2 Studienziele
 
-(1) Das Masterstudium vermittelt die wissenschaftlichen Methoden und
+Das Masterstudium vermittelt die wissenschaftlichen Methoden und
 Kenntnisse, die für die Erfüllung der Aufgaben im höheren
 nichttechnischen Verwaltungsdienst des Bundes erforderlich sind. Die
 Studierenden sollen ihre im Erststudium und in der beruflichen Praxis
 erworbenen Kompetenzen weiterentwickeln, um den ständig wachsenden
 Herausforderungen der Bundesverwaltung gerecht zu werden.
-
-(2) Das Studium ist ein berufsbegleitendes Fernstudium mit
-Präsenzzeiten.
 
 
 ### § 3 Akademischer Grad
@@ -60,9 +60,11 @@ Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 
 Zum Studium können Beamtinnen und Beamte zugelassen werden, die die
 Laufbahnbefähigung für den gehobenen nichttechnischen
-Verwaltungsdienst des Bundes und einen Bachelor- oder gleichwertigen
-Abschluss besitzen. § 36 der Bundeslaufbahnverordnung bleibt
-unberührt.
+Verwaltungsdienst des Bundes und einen Bachelor- oder einen
+Diplomabschluss, einen Abschluss eines akkreditierten
+Bachelorausbildungsgangs an einer Berufsakademie oder einen
+gleichwertigen Abschluss besitzen. § 36 der Bundeslaufbahnverordnung
+bleibt unberührt.
 
 
 ## Abschnitt 2 - Studienordnung
@@ -77,21 +79,32 @@ abgeschlossene Studium werden 120 Leistungspunkte vergeben.
 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Insgesamt
 soll das Studium um nicht mehr als drei Jahre verlängert werden.
 Entscheidungen nach den Sätzen 1 und 2 treffen die zuständigen
-Dienstbehörden im Einvernehmen mit der Fachhochschule.
+Dienstbehörden im Einvernehmen mit der Hochschule.
 
-(3) Die Studierenden sind für den Besuch der Präsenzveranstaltungen
-und für die Teilnahme an Prüfungen von ihren sonstigen Dienstpflichten
-freizustellen. Für die Anfertigung der Masterarbeit ist
-Dienstbefreiung im Umfang von 30 Arbeitstagen zu gewähren. Für das
-Selbststudium ist je Modul mit Ausnahme des Moduls „Masterarbeit“
-Dienstbefreiung im Umfang von acht Arbeitstagen zu gewähren.
+(3) Das Studium ist ein berufsbegleitender Fernstudiengang mit
+Präsenzzeiten. Die Studierenden sind für den Besuch der
+Präsenzveranstaltungen und für die Teilnahme an den Prüfungen von
+ihren sonstigen Dienstpflichten freizustellen. Im Modul Masterarbeit
+sind die Studierenden für die Anfertigung der Masterarbeit im Umfang
+von 30 Arbeitstagen von ihren sonstigen Dienstpflichten freizustellen.
+In den übrigen Modulen sind die Studierenden für das Selbststudium im
+Umfang von acht Arbeitstagen je Modul von ihren sonstigen
+Dienstpflichten freizustellen.
 
 
 ### § 6 Anerkennung von Studien- und Prüfungsleistungen
 
-Studien- und Prüfungsleistungen anderer Studiengänge werden auf Antrag
-anerkannt, wenn sie den im Masterstudium „Master of Public
-Administration“ zu erbringenden Leistungen gleichwertig sind.
+Studien- und Prüfungsleistungen, die an anderen staatlichen oder
+staatlich anerkannten Hochschulen in oder außerhalb der Bundesrepublik
+Deutschland erworben wurden, werden auf Antrag anerkannt, wenn zu den
+im Masterstudium „Master of Public Administration“ zu erbringenden
+Studien- und Prüfungsleistungen kein wesentlicher Unterschied besteht.
+Qualifikationen, die nicht an einer Hochschule oder staatlichen oder
+staatlich anerkannten Berufsakademie erworben wurden, können auf
+Antrag anerkannt werden, wenn zu den im Masterstudium „Master of
+Public Administration“ zu erbringenden Studien- und Prüfungsleistungen
+kein wesentlicher Unterschied besteht. Näheres regelt eine Richtlinie,
+die auf der Internetseite der Hochschule veröffentlicht wird.
 
 
 ### § 7 Studieninhalte, Module
@@ -104,7 +117,7 @@ Modul „Masterarbeit“. Zu belegen sind je ein Basis- und Aufbaumodul
 1.  „Staat und Politik – Public Governance“,
 
 
-2.  „Allgemeines Verwaltungshandeln – Public Management“,
+2.  „Allgemeines Verwaltungshandeln – Economic and Legal Framework“,
 
 
 3.  „Personalwesen – Human Resources Management“,
@@ -121,28 +134,28 @@ mündlichen Verteidigung.
 angeboten. Aus diesem Angebot haben die Studierenden in Abstimmung mit
 ihrer Dienstbehörde vier Module zu belegen.
 
-(4) Studienverlauf, Inhalte der Module und die Zahl der zu erwerbenden
-Leistungspunkte richten sich nach dem auf der Internetseite der
-Fachhochschule veröffentlichten Modulhandbuch für das Masterstudium
-„Master of Public Administration“.
+(4) Der Studienverlauf, die Inhalte der Module und die Zahl der zu
+erwerbenden Leistungspunkte richten sich nach dem für den jeweiligen
+Jahrgang geltenden Modulhandbuch für das Masterstudium „Master of
+Public Administration“. Das Modulhandbuch wird auf der Internetseite
+der Hochschule veröffentlicht.
 
 
 ### § 8 Leitung des Studiums
 
 Die wissenschaftliche und organisatorische Leitung des Studiums
-obliegt der Fachhochschule. Sie ist zuständig für alle Aufgaben, die
-in dieser Verordnung nicht anderen Stellen zugewiesen sind. Sie stellt
+obliegt der Hochschule. Sie ist zuständig für alle Aufgaben, die in
+dieser Verordnung nicht anderen Stellen zugewiesen sind. Sie stellt
 einen ordnungsgemäßen Ablauf des Studiums sicher und ist insbesondere
 zuständig für
 
-1.  die Qualitätssicherung des Studiums,
+1.  die Sicherung der Qualität des Studiums,
 
 
 2.  die Prüfung der Zulassungsvoraussetzungen (§ 4),
 
 
-3.  die Entscheidung über die Anerkennung von Studien- und
-    Prüfungsleistungen (§ 6),
+3.  die Anerkennung von Studien- und Prüfungsleistungen (§ 6),
 
 
 4.  die Bedarfsabfragen bei den Dienstbehörden,
@@ -159,21 +172,22 @@ zuständig für
 
 ### § 9 Modulkoordination
 
-(1) Die Fachhochschule bestellt für jedes Modul mindestens eine
+(1) Die Hochschule bestellt für jedes Modul mindestens eine
 Modulkoordinatorin oder einen Modulkoordinator.
 
 (2) Die Modulkoordinatorinnen und -koordinatoren betreuen und beraten
 die Lehrkräfte und die Studierenden in allen inhaltlichen Fragen des
 Moduls. Sie sind auch verantwortlich für
 
-1.  die Qualitätssicherung und Weiterentwicklung der Module,
+1.  die Sicherung der Qualität der Module und die Weiterentwicklung der
+    Module,
 
 
 2.  die Festlegung von Form, Umfang und Gewichtung der in den Modulen zu
     erbringenden Studien- und Prüfungsleistungen,
 
 
-3.  eine regelmäßige Aktualisierung der Studienbriefe im Modul,
+3.  die regelmäßige Aktualisierung der Studienbriefe in den Modulen,
 
 
 4.  die Bereitstellung von Klausuraufgaben sowie
@@ -185,6 +199,14 @@ Moduls. Sie sind auch verantwortlich für
 
 
 
+(3) Der Modulkoordinatorenrat nimmt Stellung und unterbreitet
+Vorschläge insbesondere zu Grundsatzfragen, zur Sicherung der Qualität
+und zur Weiterentwicklung des Studiums. Er besteht aus den
+Modulkoordinatorinnen und Modulkoordinatoren als stimmberechtigten
+Mitgliedern sowie aus der wissenschaftlichen Leiterin oder dem
+wissenschaftlichen Leiter des Masterstudiengangs als Vorsitzender oder
+Vorsitzendem.
+
 
 ## Abschnitt 3 - Masterprüfung
 
@@ -192,7 +214,7 @@ Moduls. Sie sind auch verantwortlich für
 ### § 10 Prüfungsamt
 
 Für die Organisation und Durchführung der Masterprüfung richtet die
-Fachhochschule ein Prüfungsamt ein.
+Hochschule ein Prüfungsamt ein.
 
 
 ### § 11 Prüfende, Prüfungskommissionen
@@ -202,13 +224,15 @@ Modulprüfungen. Es richtet für die mündliche Verteidigung der
 Masterarbeit (§ 14) Prüfungskommissionen ein und bestellt deren
 Mitglieder und Ersatzmitglieder.
 
-(2) Die Prüfenden und die Mitglieder der Prüfungskommissionen sind bei
-ihren Entscheidungen unabhängig und nicht weisungsgebunden.
+(2) Die Prüfenden und die Mitglieder der Prüfungskommissionen müssen
+mindestens die durch die Prüfung festzustellende oder eine
+gleichwertige Qualifikation besitzen. Sie sind bei ihren
+Entscheidungen unabhängig und nicht weisungsgebunden.
 
 (3) Für Modulprüfungen werden grundsätzlich zwei Prüfende bestellt,
 von denen eine oder einer eine hauptamtliche Hochschullehrerin oder
-ein hauptamtlicher Hochschullehrer an der Fachhochschule sein soll.
-Das Prüfungsamt legt fest, wer Erstprüferin oder Erstprüfer und wer
+ein hauptamtlicher Hochschullehrer an der Hochschule sein soll. Das
+Prüfungsamt legt fest, wer Erstprüferin oder Erstprüfer und wer
 Zweitprüferin oder Zweitprüfer ist. Die Prüfenden bewerten die Prüfung
 oder den Prüfungsteil unabhängig voneinander. Die Zweitprüferin oder
 der Zweitprüfer darf Kenntnis von der Bewertung der Erstprüferin oder
@@ -217,9 +241,9 @@ Sätze 1 bis 4 entsprechend.
 
 (4) Für jede Masterarbeit werden zwei Prüfende bestellt, von denen die
 Erstprüferin oder der Erstprüfer eine hauptamtliche Hochschullehrerin
-oder ein hauptamtlicher Hochschullehrer an der Fachhochschule sein
-soll. Die Bestellung erfolgt, sobald das Thema der Masterarbeit
-ausgegeben worden ist. Absatz 3 Satz 2 bis 4 gilt entsprechend.
+oder ein hauptamtlicher Hochschullehrer an der Hochschule sein soll.
+Die Bestellung erfolgt, sobald das Thema der Masterarbeit ausgegeben
+worden ist. Absatz 3 Satz 2 bis 4 gilt entsprechend.
 
 (5) Der Prüfungskommission für die mündliche Verteidigung der
 Masterarbeit gehören zwei Mitglieder an. Ein Mitglied der
@@ -276,14 +300,14 @@ Studienziele relevante Problemstellung mit wissenschaftlichen Methoden
 selbständig zu bearbeiten. Die Bearbeitungszeit beträgt vier Monate. §
 5 Absatz 2 gilt entsprechend.
 
-(2) Das Thema der Masterarbeit wird auf Vorschlag der Erstprüferin
-oder des Erstprüfers ausgegeben. Die Prüfenden sollen sich mit der
-oder dem Studierenden und der Dienstbehörde auf ein Thema einigen.
-Thema und Ausgabezeitpunkt sind so zu dokumentieren, dass nicht
-erkennbare Veränderungen nach dem Stand der Technik ausgeschlossen
-sind. Das Thema der Masterarbeit kann nicht zurückgegeben werden.
-Geringfügige Änderungen am Wortlaut des Themas sind mit Zustimmung der
-Erstprüferin oder des Erstprüfers möglich.
+(2) Das Thema der Masterarbeit wird vom Prüfungsamt auf Vorschlag
+einer hauptamtlichen Lehrkraft ausgegeben. Die Prüfenden sollen sich
+mit der oder dem Studierenden und der Dienstbehörde auf ein Thema
+einigen. Thema und Ausgabezeitpunkt sind so zu dokumentieren, dass
+nicht erkennbare Veränderungen nach dem Stand der Technik
+ausgeschlossen sind. Das Thema der Masterarbeit kann nicht
+zurückgegeben werden. Geringfügige Änderungen am Wortlaut des Themas
+sind mit Zustimmung der Erstprüferin oder des Erstprüfers möglich.
 
 (3) Bei der Anfertigung der Masterarbeit werden die Studierenden von
 den in § 11 Absatz 4 genannten Prüfenden betreut.
@@ -321,8 +345,7 @@ oder ihre Dienstbehörde nicht widersprechen. Es sollen nicht mehr als
 fünf Zuhörerinnen und Zuhörer zugelassen werden.
 
 (5) Der wesentliche Verlauf und das Ergebnis der Verteidigung werden
-protokolliert. Das Protokoll ist von der oder dem Vorsitzenden der
-Prüfungskommission zu unterschreiben.
+protokolliert.
 
 
 ### § 15 Bewertung der Prüfungen
@@ -509,10 +532,11 @@ die §§ 13 und 14 entsprechend. Wurde die mündliche Verteidigung der
 Masterarbeit mit weniger als fünf Rangpunkten bewertet, ist nur die
 Verteidigung zu wiederholen.
 
-(2) Mit Ausnahme des Moduls „Masterarbeit“ kann einmalig eine nicht
-bestandene Modulprüfung ein zweites Mal wiederholt werden. In diesem
-Fall gilt Absatz 1 Satz 1 und 2 nicht. Wird auch die zweite
-Wiederholungsprüfung nicht bestanden, ist das Studium beendet.
+(2) Mit Ausnahme des Moduls Masterarbeit kann abweichend von Absatz 1
+Satz 1 jeweils in einem Pflichtmodul und in einem Wahlmodul eine nicht
+bestandene Modulprüfung ein zweites Mal wiederholt werden. Wird auch
+die zweite Wiederholungsprüfung nicht bestanden, ist das Studium
+beendet.
 
 (3) Eine bestandene Prüfung kann nicht wiederholt werden.
 
@@ -539,10 +563,11 @@ Nachkommawerten ab 50 aufgerundet; bei kleineren Nachkommawerten wird
 abgerundet.
 
 
-### § 20 Abschlusszeugnis, Diploma Supplement
+### § 20 Urkunden
 
-(1) Wer die Masterprüfung bestanden hat, erhält ein Abschlusszeugnis
-und ein Diploma Supplement.
+(1) Wer die Masterprüfung bestanden hat, erhält ein Abschlusszeugnis,
+ein Diploma Supplement, ein Transcript of Records und eine
+Masterurkunde.
 
 (2) Das Abschlusszeugnis enthält
 
@@ -557,23 +582,42 @@ und ein Diploma Supplement.
 
 
 
-(3) Das Diploma Supplement wird in deutscher und englischer Sprache
-ausgestellt. Es enthält mindestens
+(3) Das Diploma Supplement und das Transcript of Records werden
+entsprechend dem ECTS-Leitfaden in der jeweils geltenden auf der
+Internetseite der Kommission der Europäischen Gemeinschaften
+veröffentlichten Fassung ausgestellt. Das Diploma Supplement wird
+sowohl in deutscher als auch in englischer Sprache ausgestellt.
 
-1.  die Abschlussbezeichnung „Master of Public Administration (MPA)“,
+(4) Die Hochschule stellt auf Grund des Abschlusszeugnisses eine
+Masterurkunde aus. Mit der Aushändigung der Masterurkunde wird der
+akademische Grad „Master of Public Administration“ verliehen. Die
+Masterurkunde enthält
 
-
-2.  die Bezeichnungen und Bewertungen der absolvierten Module sowie die in
-    den Modulen erworbenen Leistungspunkte und
-
-
-3.  einen Notenspiegel, aus dem sich die statistische Verteilung der Noten
-    ergibt.
-
-
+1.  die Bezeichnung der Hochschule,
 
 
-(4) Wer die Masterprüfung nicht bestanden hat, erhält vom Prüfungsamt
+2.  Vornamen, Familiennamen, Geburtsdatum und Geburtsort der Absolventin
+    oder des Absolventen,
+
+
+3.  den Hinweis auf die bestandene Masterprüfung mit dem Prüfungsdatum,
+
+
+4.  die Bezeichnung des verliehenen akademischen Grades einschließlich der
+    Kurzform,
+
+
+5.  Ort und Datum der Ausstellung,
+
+
+6.  die Unterschrift der Präsidentin oder des Präsidenten der Hochschule
+    und der wissenschaftlichen Leiterin oder des wissenschaftlichen
+    Leiters des Masterstudiengangs sowie das Siegel der Hochschule.
+
+
+
+
+(5) Wer die Masterprüfung nicht bestanden hat, erhält vom Prüfungsamt
 einen Bescheid über die nicht bestandene Prüfung sowie eine
 Bescheinigung über die erbrachten Studienleistungen, aus der die
 absolvierten Module, deren Bewertung und die erworbenen
@@ -585,8 +629,8 @@ Leistungspunkte hervorgehen.
 (1) Die schriftlichen Prüfungsleistungen nach § 12, die Masterarbeit,
 das Protokoll der mündlichen Verteidigung sowie eine Ausfertigung des
 Abschlusszeugnisses oder des Bescheids über das Nichtbestehen der
-Masterprüfung sind zu den Prüfungsakten zu nehmen. Die Fachhochschule
-hat die Prüfungsakten mindestens fünf und höchstens zehn Jahre
+Masterprüfung sind zu den Prüfungsakten zu nehmen. Die Hochschule hat
+die Prüfungsakten mindestens fünf und höchstens zehn Jahre
 aufzubewahren.
 
 (2) Die Studierenden und die Absolventinnen und Absolventen können
@@ -622,14 +666,19 @@ hat.
 
 (1) Beschäftigte des Bundes können in Abstimmung mit ihrer
 Dienstbehörde als Gasthörerinnen und Gasthörer zu den Modulen
-zugelassen werden. Über die Zulassung entscheidet die Fachhochschule.
+zugelassen werden. Über die Zulassung entscheidet die Hochschule.
 
-(2) Über das Bestehen einzelner Modulprüfungen stellt die
-Fachhochschule den Gasthörerinnen und Gasthörern auf Antrag ein
-Zertifikat als Ausbildungsnachweis aus.
+(2) Über das Bestehen einzelner Modulprüfungen stellt die Hochschule
+den Gasthörerinnen und Gasthörern auf Antrag ein Zertifikat als
+Ausbildungsnachweis aus.
 
 
-### § 24 Inkrafttreten
+### § 24 Übergangsregelung
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Für Studierende, die vor dem 1. Mai 2016 mit dem Studium begonnen
+haben, ist die Verordnung über den Aufstieg in den höheren
+nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master
+of Public Administration“ an der Fachhochschule des Bundes für
+öffentliche Verwaltung vom 24. März 2011 (BGBl. I S. 497) weiter
+anzuwenden.
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.10.1996 I 1581;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.5.2012 I 1126
+:   Art. 1 V v. 26.2.2019 I 171
 
 
 ## Teil 1 - Ausbildung
@@ -70,8 +70,8 @@ Steuerbeamtinnen und Steuerbeamten obliegt.
 berufspraktischen Studienzeiten (§ 24) weist die zuständige
 Landesfinanzbehörde die Beamtinnen und Beamten bestimmten Finanzämtern
 (Ausbildungsfinanzämter) zur praktischen Ausbildung zu. Die praktische
-Ausbildung in der Veranlagung (§ 16 Abs. 2, § 24 Abs. 2) soll auch in
-dafür bestimmten Arbeitsgebieten "Ausbildung" stattfinden. Die
+Ausbildung in der Veranlagung (§ 16 Absatz 3, § 24 Absatz 2) soll auch
+in dafür bestimmten Arbeitsgebieten "Ausbildung" stattfinden. Die
 praktische Ausbildung wird von Ausbildungsarbeitsgemeinschaften
 begleitet, die an Finanzämtern, an den Bildungsstätten für
 Steuerbeamtinnen und Steuerbeamte oder an besonderen Einrichtungen
@@ -197,9 +197,9 @@ Mängel in absehbarer Zeit nicht behoben werden könnten.
 oder der Beamte die gestellten Anforderungen mindestens zur Hälfte
 erfüllt; bei Leistungstests kann hiervon abgewichen werden.
 
-(3) Durchschnittspunktzahlen sind jeweils auf zwei Dezimalstellen nach
-dem Komma ohne Auf- oder Abrundung zu berechnen. Der Notenwert ist wie
-folgt abzugrenzen:
+(3) Durchschnittspunktzahlen sind jeweils auf zwei Dezimalstellen ohne
+Auf- oder Abrundung zu berechnen. Der Notenwert ist wie folgt
+abzugrenzen:
 
 *    *   von 13,50
 
@@ -479,12 +479,12 @@ fächerübergreifend zu gestalten sind.
 (2) Während der fachtheoretischen Ausbildung sind Aufsichtsarbeiten zu
 fertigen; die Bearbeitungszeit beträgt bis zu drei Stunden. Im zweiten
 Teilabschnitt der fachtheoretischen Ausbildung ist aus jedem Gebiet
-der schriftlichen Prüfung (§ 38 Abs. 1 Nr. 1) mindestens eine
-dreistündige Aufsichtsarbeit zu fertigen. § 35 Abs. 3, § 36 Abs. 1 und
-4, § 38 Abs. 2 Satz 2 und Abs. 3, § 39 Abs. 1 bis 4 und § 40 Abs. 1
-und 3 Satz 2 gelten entsprechend mit der Maßgabe, dass an Stelle des
-Prüfungsausschusses die oberste Landesbehörde oder die von ihr
-bestimmte Stelle entscheidet.
+der schriftlichen Prüfung (§ 38 Absatz 1 Satz 1 Nummer 1) mindestens
+eine dreistündige Aufsichtsarbeit zu fertigen. § 35 Abs. 3, § 36 Abs.
+1 und 4, § 38 Abs. 2 Satz 2 und Abs. 3, § 39 Abs. 1 bis 4 und § 40
+Abs. 1 und 3 Satz 2 gelten entsprechend mit der Maßgabe, dass an
+Stelle des Prüfungsausschusses die oberste Landesbehörde oder die von
+ihr bestimmte Stelle entscheidet.
 
 (3) Nach Beendigung des ersten Teilabschnitts der fachtheoretischen
 Ausbildung beurteilen die Lehrenden die Leistungen der Beamtin oder
@@ -580,10 +580,8 @@ Bereiche (Nummern 9.1 und 9.2 der Anlage 10). Die Beamtinnen und
 Beamten müssen an Wahlpflichtveranstaltungen zu beiden Bereichen mit
 jeweils 60 Stunden teilnehmen.
 
-(5) Für die Schwerpunktthemen sind mindestens 60 Stunden im
-Hauptstudium anzusetzen (Nummern 10.1 und 10.2 der Anlage 10). Die
-Beamtinnen und Beamten müssen zwei Schwerpunktthemen mit jeweils 30
-Stunden wählen.
+(5) Für das Schwerpunktthema sind 30 Stunden im Hauptstudium
+anzusetzen (Nummer 10 der Anlage 10).
 
 (6) Für die Fallstudien sind mindestens 35 Stunden anzusetzen (Nummer
 11 der Anlage 10).
@@ -629,10 +627,10 @@ entscheidet.
 (8) Am Ende des Grundstudiums sind fünf Abschlussklausuren in den
 folgenden Fächern zu fertigen:
 
-1.  Abgabenrecht in Verbindung mit Umsatzsteuer,
+1.  Abgabenrecht,
 
 
-2.  Bewertungsrecht und Vermögensbesteuerung,
+2.  Umsatzsteuer,
 
 
 3.  Steuern vom Einkommen und Ertrag,
@@ -653,22 +651,24 @@ Anwendung wissenschaftlicher Erkenntnisse und Methoden zu fertigen.
 
 (10) Vor der Zwischenprüfung sowie nach Beendigung des Grundstudiums
 und des Hauptstudiums beurteilen die Lehrenden die Leistungen der
-Beamtin oder des Beamten. Aus diesen Beurteilungen, den Leistungen in
-den Abschlussklausuren im Grundstudium und der schriftlichen Arbeit
-werden die Studiennoten nach Absatz 11 gebildet. Beurteilungen und
-Studiennoten sind der Beamtin oder dem Beamten bekannt zu geben.
+Beamtin oder des Beamten (Anlagen 7 bis 9). Aus diesen Beurteilungen,
+den Leistungen in den Abschlussklausuren im Grundstudium und der
+schriftlichen Arbeit werden die Studiennoten nach Absatz 11 gebildet.
+Beurteilungen und Studiennoten sind der Beamtin oder dem Beamten
+bekannt zu geben.
 
 (11) Für die Ermittlung der Studiennote ist
 
-1.  für das Grundstudium die Summe der vierfachen Durchschnittspunktzahl
-    der Studienleistungen und der dreifachen Durchschnittspunktzahl der
-    Abschlussklausuren zu bilden (Anlagen 7 und 8) und
+1.  für das Grundstudium die Summe zu bilden aus der vierfachen
+    Durchschnittspunktzahl der Studienleistungen und der dreifachen
+    Durchschnittspunktzahl der Abschlussklausuren und diese Summe durch
+    sieben zu teilen (Anlagen 7 und 8) und
 
 
-2.  für das Hauptstudium die Summe der fünffachen Durchschnittspunktzahl
-    der Studienleistungen, der zweifachen Punktzahl der schriftlichen
-    Arbeit und der einfachen Punktzahl der Schwerpunktthemen zu bilden
-    (Anlage 9).
+2.  für das Hauptstudium die Summe zu bilden aus der fünffachen
+    Durchschnittspunktzahl der Studienleistungen, der zweifachen Punktzahl
+    der schriftlichen Arbeit sowie der Punkte des Schwerpunktthemas und
+    diese Summe durch acht zu teilen (Anlage 9).
 
 
 
@@ -871,7 +871,7 @@ Ziel innerhalb der regelmäßigen Einführungszeit nicht erreicht werden
 kann oder die Einführung nicht erfolgreich abgeschlossen worden ist.
 
 
-## Teil 3 - Aufstieg in höhere Laufbahnen
+## Teil 3 - Aufstieg
 
 
 
@@ -895,17 +895,17 @@ die neue Laufbahn erforderlichen Kenntnisse und Fähigkeiten besitzt.
 
 ### § 33 Allgemeines
 
-(1) Die Vorschriften des Vierten Teils gelten für alle nach dem
+(1) Die Vorschriften dieses Teils gelten für alle nach dem
 Steuerbeamten-Ausbildungsgesetz abzulegenden Prüfungen (Absätze 2 und
 3). Für die Bewertung der Prüfungsleistungen gilt § 6.
 
-(2) In der Zwischenprüfung (§ 38 Abs. 1 Nr. 2) soll die zu prüfende
-Beamtin oder der zu prüfende Beamte zeigen, ob sie oder er nach ihren
-oder seinen Kenntnissen und Fähigkeiten geeignet erscheint, den
-Studiengang für die Laufbahn des gehobenen Dienstes erfolgreich
+(2) In der Zwischenprüfung (§ 38 Absatz 1 Satz 1 Nummer 2) soll die zu
+prüfende Beamtin oder der zu prüfende Beamte zeigen, ob sie oder er
+nach ihren oder seinen Kenntnissen und Fähigkeiten geeignet erscheint,
+den Studiengang für die Laufbahn des gehobenen Dienstes erfolgreich
 fortzusetzen. Eine mündliche Prüfung findet nicht statt.
 
-(3) In der Laufbahnprüfung (§ 38 Abs. 1 Nr. 1 und 3) ist
+(3) In der Laufbahnprüfung (§ 38 Absatz 1 Satz 1 Nummer 1 und 3) ist
 festzustellen, ob die zu prüfende Beamtin oder der zu prüfende Beamte
 die Ziele des Vorbereitungsdienstes (§ 1) oder der Einführung (§ 31)
 erreicht hat und nach dem Gesamtbild ihrer oder seiner Persönlichkeit
@@ -1025,22 +1025,27 @@ nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit
 ungenügend bewertet oder die gesamte Prüfung für nicht bestanden
 erklärt wird.
 
-(2) Beruht die Säumnis auf von der zu prüfenden Beamtin oder dem zu
-prüfenden Beamten nicht zu vertretenden Gründen, so soll die Prüfung
-nach Beendigung des Hinderungsgrundes unverzüglich nachgeholt werden.
-Die Hinderungsgründe sind unverzüglich anzuzeigen und nachzuweisen.
-Eine Erkrankung ist durch Vorlage eines amtsärztlichen oder
-personalärztlichen Zeugnisses nachzuweisen; ein privatärztliches
-Zeugnis kann anerkannt werden. Die Entscheidung trifft der
-Prüfungsausschuß; er bestimmt zugleich, ob und in welchem Umfang
-bereits abgelieferte Prüfungsarbeiten anzurechnen sind. Statt des
-Prüfungsausschusses kann auch die oberste Landesbehörde oder die von
-ihr bestimmte Stelle die Entscheidung treffen.
+(2) Beruht die Säumnis auf einem Grund, den die zu prüfende Beamtin
+oder der zu prüfende Beamte nicht zu vertreten hat, soll die Prüfung
+nach Wegfall des Hinderungsgrundes unverzüglich nachgeholt werden. Der
+Hinderungsgrund ist unverzüglich anzuzeigen und nachzuweisen. Eine
+Erkrankung ist durch Vorlage eines amtsärztlichen oder
+personalärztlichen Attestes nachzuweisen. Über die Anerkennung eines
+privatärztlichen Attestes entscheidet der Prüfungsausschuss. Der
+Prüfungsausschuss bestimmt zugleich, ob und in welchem Umfang bereits
+abgelieferte Prüfungsarbeiten anzurechnen sind. Für die Anrechnung
+sind insbesondere die Zahl der bereits abgelieferten Prüfungsarbeiten
+sowie Dauer, Grund und Häufigkeit der Säumnis zu berücksichtigen.
+Anstelle des Prüfungsausschusses kann auch die oberste Landesbehörde
+oder eine von ihr bestimmte Stelle die Entscheidungen treffen.
 
 (3) Bei Vorliegen eines wichtigen Grundes kann die zu prüfende Beamtin
-oder der zu prüfende Beamte mit Genehmigung des Prüfungsausschusses,
-der obersten Landesbehörde oder der von ihr bestimmten Stelle von der
-Prüfung zurücktreten.
+oder der zu prüfende Beamte mit Genehmigung des Prüfungsausschusses
+von der Prüfung zurücktreten. In diesem Fall gilt die schriftliche
+oder die mündliche Prüfung als nicht begonnen. Durch Landesrecht kann
+bestimmt werden, dass anstelle des Prüfungsausschusses die oberste
+Landesbehörde oder eine von ihr bestimmte Stelle über die Genehmigung
+entscheidet.
 
 
 ### § 38 Schriftliche Prüfung
@@ -1185,7 +1190,7 @@ Gliederung und Klarheit der Darstellung sowie die Ausdrucksweise zu
 berücksichtigen.
 
 (2) Jede Prüfungsarbeit ist von zwei Prüferinnen oder Prüfern, von
-denen eine oder einer Mitglied des Prüfungsausschusses sein muß, zu
+denen eine oder einer Mitglied des Prüfungsausschusses sein soll, zu
 bewerten. Bei abweichender Bewertung sollen die beiden Prüferinnen
 oder Prüfer eine Einigung über die Bewertung versuchen. Kommt eine
 Einigung nicht zustande, so entscheidet der Prüfungsausschuß.
@@ -1197,24 +1202,39 @@ Arbeit ist mit der Punktzahl 0 zu bewerten.
 
 ### § 41 Ergebnis der Zwischenprüfung
 
-(1) Im Anschluß an die Bewertung der Prüfungsarbeiten setzt der
-Prüfungsausschuß die Endpunktzahl und die Prüfungsgesamtnote fest.
-Dazu muß der oder dem Vorsitzenden und jedem Mitglied des
-Prüfungsausschusses die Beurteilung nach der Anlage 7 vorliegen. Über
-die Sitzung des Prüfungsausschusses ist eine Niederschrift zu
-fertigen.
+(1) Im Anschluss an die Bewertung der Prüfungsarbeiten setzt der
+Prüfungsausschuss die Endpunktzahl der Zwischenprüfung fest. Über die
+Sitzung des Prüfungsausschusses ist eine Niederschrift zu fertigen.
 
-(2) Für die Ermittlung der Endpunktzahl ist die Summe der 30fachen
-Durchschnittspunktzahl der Prüfungsarbeiten und der zehnfachen
-Durchschnittspunktzahl der Leistungen bis zur Zwischenprüfung (§ 18
-Absatz 10) zu bilden.
+(2) Die Endpunktzahl ist die Summe aus
 
-(3) Aus der Endpunktzahl ergibt sich die Prüfungsgesamtnote (§ 6 Abs.
-4).
+1.  der zehnfachen Durchschnittspunktzahl der Leistungen bis zur
+    Zwischenprüfung (§ 18 Absatz 10 Satz 1 und Anlage 7) und
 
-(4) Die Zwischenprüfung ist bestanden, wenn mindestens drei
-Prüfungsarbeiten mit fünf oder mehr Punkten bewertet worden sind und
-die Endpunktzahl mindestens 200 beträgt.
+
+2.  der 30-fachen Durchschnittspunktzahl der Prüfungsarbeiten (§ 38 Absatz
+    1 Satz 1 Nummer 2).
+
+
+
+
+(3) Die Zwischenprüfung ist bestanden, wenn
+
+1.  mindestens drei Prüfungsarbeiten mit jeweils mindestens fünf Punkten
+    bewertet worden sind,
+
+
+2.  in der schriftlichen Prüfung eine Durchschnittspunktzahl von
+    mindestens fünf erreicht worden ist und
+
+
+3.  die Endpunktzahl mindestens 200 beträgt.
+
+
+
+
+(4) Bei bestandener Zwischenprüfung setzt der Prüfungsausschuss anhand
+der Endpunktzahl die Prüfungsgesamtnote (§ 6 Absatz 4) fest.
 
 
 ### § 42 Bekanntgabe des Ergebnisses der Zwischenprüfung
@@ -1227,20 +1247,30 @@ Prüfungsgesamtnote nach der Anlage 11 schriftlich mit.
 (2) Wer die Prüfung bestanden hat, erhält ein Zeugnis nach der Anlage
 12\.
 
-(3) Auf schriftlichen Antrag, der innerhalb eines Monats nach
-Bekanntgabe des Prüfungsergebnisses an die oberste Landesbehörde oder
-an die von ihr bestimmte Stelle zu richten ist, wird der zu prüfenden
-Beamtin oder dem zu prüfenden Beamten Einsicht in ihre oder seine
-Prüfungsarbeiten einschließlich der Bewertung und der ihr
-zugrundeliegenden Unterlagen gewährt.
+(3) Auf schriftlichen oder elektronischen Antrag, der innerhalb eines
+Monats nach Bekanntgabe des Prüfungsergebnisses an die oberste
+Landesbehörde oder an die von ihr bestimmte Stelle zu richten ist,
+wird der zu prüfenden Beamtin oder dem zu prüfenden Beamten Einsicht
+in ihre oder seine Prüfungsarbeiten einschließlich der Bewertung und
+der ihr zugrundeliegenden Unterlagen gewährt.
 
 
 ### § 43 Zulassung zur mündlichen Prüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt die
-Zulassungspunktzahl fest. Ihr oder ihm müssen Beurteilungen und
-Beurteilungsblätter nach den Anlagen 2 oder 3, 6 oder 8 und 9 sowie 13
-oder 14 vorliegen.
+Zulassungspunktzahl fest. Ihr oder ihm müssen vorliegen:
+
+1.  die Beurteilung nach Anlage 2 oder Anlage 3,
+
+
+2.  die Beurteilung nach Anlage 6 oder die Beurteilungen nach den Anlagen
+    8 und 9 sowie
+
+
+3.  das Beurteilungsblatt nach Anlage 13 oder Anlage 14.
+
+
+
 
 (2) Für die Ermittlung der Zulassungspunktzahl ist
 
@@ -1274,7 +1304,7 @@ zugelassen, wenn
 
 
 3.  die Zulassungspunktzahl im mittleren Dienst mindestens 160 Punkte und
-    im gehobenen Dienst mindestens 155 Punkte beträgt.
+    im gehobenen Dienst mindestens 170 Punkte beträgt.
 
 
 
@@ -1313,54 +1343,80 @@ berechtigt, jederzeit in die Prüfung einzugreifen.
 
 (5) In der mündlichen Prüfung werden Gruppen von nicht mehr als fünf,
 in Ausnahmefällen sechs zu prüfenden Beamtinnen und Beamten geprüft.
-Die Prüfungszeit für jede zu prüfende Beamtin und jeden zu prüfenden
-Beamten beträgt in der Laufbahnprüfung für den mittleren Dienst
-durchschnittlich 30, in der Laufbahnprüfung für den gehobenen Dienst
-durchschnittlich 60 Minuten. Die mündliche Prüfung wird durch eine
-angemessene Pause unterbrochen.
+Die Prüfung dauert für jede zu prüfende Beamtin und jeden zu prüfenden
+Beamten in der Regel
+
+1.  für den mittleren Dienst 30 Minuten und
+
+
+2.  für den gehobenen Dienst 45 bis 60 Minuten.
+
+
+
+Die mündliche Prüfung wird durch eine angemessene Pause unterbrochen.
 
 (6) Die Leistungen der zu prüfenden Beamtin oder des zu prüfenden
 Beamten werden durch den Prüfungsausschuß nach der Anlage 13 oder 14
 bewertet. Das Ergebnis der mündlichen Prüfung ist in einer
 Durchschnittspunktzahl auszudrücken.
 
+(7) Die mündliche Prüfung ist bestanden, wenn eine
+Durchschnittspunktzahl von mindestens fünf erreicht worden ist.
+
 
 ### § 45 Ergebnis der Laufbahnprüfung
 
-(1) Im Anschluß an die mündliche Prüfung setzt der Prüfungsausschuß
-das Ergebnis der Laufbahnprüfung nach der Anlage 13 oder 14 fest.
+(1) Im Anschluss an die mündliche Prüfung berechnet der
+Prüfungsausschuss die Endpunktzahl und ermittelt das Ergebnis der
+Laufbahnprüfung für den mittleren Dienst nach Anlage 13 und für den
+gehobenen Dienst nach Anlage 14.
 
-(2) Die Prüfung ist bestanden, wenn die zu prüfende Beamtin oder der
-zu prüfende Beamte mindestens die Endpunktzahl 200 und in der
-mündlichen Prüfung mindestens die Durchschnittspunktzahl 5 erreicht
-hat.
+(2) Die Endpunktzahl der Laufbahnprüfung für den mittleren Dienst ist
+die Summe aus
 
-(3) Für die Ermittlung der Endpunktzahl ist
-
-1.  bei der Laufbahnprüfung für den mittleren Dienst die Summe der
-    sechsfachen Durchschnittspunktzahl für die Leistungen in der
-    fachtheoretischen Ausbildung (§ 15 Abs. 3), der sechsfachen Punktzahl
-    für die Leistungen in der praktischen Ausbildung (§ 5 Abs. 2), der
-    20fachen Durchschnittspunktzahl der schriftlichen Prüfungsarbeiten
-    sowie der achtfachen Durchschnittspunktzahl der mündlichen
-    Prüfungsleistungen zu bilden und
+1.  der sechsfachen Durchschnittspunktzahl der Leistungen in der
+    fachtheoretischen Ausbildung,
 
 
-2.  bei der Laufbahnprüfung für den gehobenen Dienst die Summe der
-    siebenfachen Studiennote für das Grundstudium, der achtfachen
-    Studiennote für das Hauptstudium (§ 18 Absatz 10 und 11), der
-    fünffachen Punktzahl für die Leistungen in der praktischen Ausbildung
-    (§ 5 Abs. 2), der vierzehnfachen Durchschnittspunktzahl der
-    schriftlichen Prüfungsarbeiten sowie der sechsfachen
-    Durchschnittspunktzahl der mündlichen Prüfungsleistungen zu bilden.
+2.  der sechsfachen Punktzahl der Leistungen in der praktischen
+    Ausbildung,
+
+
+3.  der 20-fachen Durchschnittspunktzahl der schriftlichen Prüfung und
+
+
+4.  der achtfachen Durchschnittspunktzahl der mündlichen Prüfung.
 
 
 
+Die Endpunktzahl der Laufbahnprüfung für den gehobenen Dienst ist die
+Summe aus
 
-(4) Aus der Endpunktzahl ergibt sich die Prüfungsgesamtnote (§ 6 Abs.
-4).
+1.  der siebenfachen Studiennote für das Grundstudium,
 
-(5) (weggefallen)
+
+2.  der achtfachen Studiennote für das Hauptstudium,
+
+
+3.  der fünffachen Punktzahl nach § 5 Absatz 2,
+
+
+4.  der 14-fachen Durchschnittspunktzahl der schriftlichen
+    Prüfungsarbeiten sowie
+
+
+5.  der sechsfachen Durchschnittspunktzahl der mündlichen
+    Prüfungsleistungen.
+
+
+
+
+(3) Die Laufbahnprüfung ist bestanden, wenn die Beamtin oder der
+Beamte die mündliche Prüfung bestanden hat und eine Endpunktzahl von
+mindestens 200 erreicht hat.
+
+(4) Bei bestandener Laufbahnprüfung setzt der Prüfungsausschuss anhand
+der Endpunktzahl die Prüfungsgesamtnote (§ 6 Absatz 4) fest.
 
 
 ### § 46 Bekanntgabe des Ergebnisses der Laufbahnprüfung
@@ -1384,18 +1440,19 @@ Anlage 17 oder 18.
 
 (1) Hat die zu prüfende Beamtin oder der zu prüfende Beamte die
 Zwischenprüfung nicht bestanden oder gilt diese als nicht bestanden
-und ist eine Wiederholung zulässig (§ 4 Abs. 3 des Steuerbeamten-
-Ausbildungsgesetzes), so ist die Zwischenprüfung innerhalb von drei
-Monaten zu wiederholen. Der Vorbereitungsdienst wird nicht verlängert.
+und ist eine Wiederholung zulässig (§ 4 Absatz 2 Satz 6 des
+Steuerbeamten-Ausbildungsgesetzes), kann die Zwischenprüfung nur
+innerhalb von drei Monaten wiederholt werden. Der Vorbereitungsdienst
+wird nicht verlängert.
 
 (2) Hat eine zu prüfende Beamtin oder ein zu prüfender Beamter die
 Laufbahnprüfung nicht bestanden oder gilt diese als nicht bestanden
-und ist eine Wiederholung zulässig (§ 3 Abs. 2 und § 4 Abs. 2 des
-Steuerbeamten-Ausbildungsgesetzes), so kann sie oder er zu dem der
-Wiederholungsprüfung vorangehenden Abschnitt der fachtheoretischen
-Ausbildung oder dem vorangehenden Teil der Fachstudien zugelassen
-werden. Der Vorbereitungsdienst kann bis zum Abschluß dieser Prüfung
-verlängert werden.
+und ist eine Wiederholung zulässig (§ 3 Absatz 2 Satz 4 und § 4 Absatz
+2 Satz 6 des Steuerbeamten-Ausbildungsgesetzes), so kann sie oder er
+zu dem der Wiederholungsprüfung vorangehenden Abschnitt der
+fachtheoretischen Ausbildung oder dem vorangehenden Teil der
+Fachstudien zugelassen werden. Der Vorbereitungsdienst kann bis zum
+Abschluß dieser Prüfung verlängert werden.
 
 (3) Die Prüfungen sind vollständig zu wiederholen. Bei der Ermittlung
 der Prüfungsergebnisse gilt § 11 Abs. 2 Satz 2 entsprechend.
@@ -1533,19 +1590,14 @@ Landesrecht sicherzustellen.
 
 ### § 53 Übergangsregelung
 
-Die Ausbildung und Einführung von Beamtinnen und Beamten in den
-Laufbahnen des mittleren und gehobenen Dienstes, die vor dem 1. Juli
-2012 begonnen haben, richten sich nach den bisherigen Vorschriften.
-
-
-### § 54
-
-(weggefallen)
-
-
-### § 55
-
-(weggefallen)
+Für Beamtinnen und Beamte, die vor dem Inkrafttreten dieser Verordnung
+mit dem Vorbereitungsdienst begonnen haben, ist die
+Steuerbeamtenausbildungs- und -prüfungsordnung in der Fassung der
+Bekanntmachung vom 29. Oktober 1996 (BGBl. I S. 1581), die zuletzt
+durch Artikel 5 der Verordnung vom 22. Dezember 2014 (BGBl. I S. 2392)
+geändert worden ist, weiter anzuwenden mit der Maßgabe, dass an die
+Stelle des § 44 Absatz 5 Satz 2 der Steuerbeamtenausbildungs- und
+-prüfungsordnung § 44 Absatz 5 Satz 2 dieser Verordnung tritt.
 
 (zu § 5 Absatz 1)
 
@@ -1770,35 +1822,943 @@ Laufbahnen des mittleren und gehobenen Dienstes, die vor dem 1. Juli
 (Fundstelle: BGBl. I 2012, 1140)
 
 
-(zu § 18 Absatz 10 und 11)
+(zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 1)
 
 ### Anlage 8 – gehobener Dienst – Beurteilung der Leistungen im Grundstudium
 
-(Fundstelle: BGBl. I 2012, 1141 - 1142)
+(Fundstelle: BGBl. I 2019, 174 - 175)
 
 
-(zu § 18 Absatz 10 und 11)
+*    *   ......................................................................
+        ....................
+        Bildungsstätte
+
+    *
+    *
+
+
+   ## Beurteilung der Leistungen
+
+
+*    *   von ..................................................................
+        ......................................................................
+        .....................................................
+
+
+*    *   Dienst- oder Amtsbezeichnung
+
+    *   Vor- und Familienname
+
+
+
+
+*    *   ......................................................................
+        ...................
+        Finanzamt
+
+    *
+    *
+
+
+   ## im Grundstudium
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *[^f806324_01_BJNR013530977BJNE007405311]
+   Fach
+
+    *   Punktzahl der Leistungen
+
+    *
+
+*    *
+    *   **I.**
+
+    *   Durchschnittspunktzahl der Leistungen
+        **bis zur Zwischenprüfung (Anlage 7)**
+
+    *
+    *
+    *   (1)
+
+    *
+    *
+    *
+
+*    *
+    *   **II.**
+
+    *   Studienleistungen im Grundstudium
+        nach der Zwischenprüfung bis zu den
+        **Abschlussklausuren**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Abgabenrecht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Bewertungsrecht und Vermögensbesteuerung
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Steuern vom Einkommen und Ertrag
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Umsatzsteuer
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Besteuerung der Gesellschaften
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Privatrecht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Öffentliches Recht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Wirtschaftswissenschaften
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Informations- und Wissensmanagement
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *[^f806324_02_BJNR013530977BJNE007405311]
+   Arbeits- und Selbstorganisation sowie Verwaltungsmanagement
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Sozialwissenschaftliche Grundlagen des Verwaltungshandelns
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Summe der Punktzahlen**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl**                      (§ 6 Absatz 3 StBAPO)
+
+    *
+    *
+    *   (2)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   *Summe der Durchschnittspunktzahlen* **** **x 4**
+        **2**
+
+    *
+    *
+    *
+    *
+    *   (A)
+
+    *
+
+*    *   *(1 + 2)*                      x 4
+        2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Fach
+
+    *   Punktzahl der Leistungen
+
+    *
+
+*    *
+    *   **III.**
+
+    *   **Abschlussklausuren**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Abgabenrecht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Umsatzsteuer
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Steuern von Einkommen und Ertrag
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Privatrecht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Summe der Punktzahlen**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl**                      (§ 6 Absatz 3 StBAPO)
+
+    *
+    *
+    *   (3)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl x 3**
+
+    *
+    *
+    *
+    *
+    *   (B)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (3) x 3
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Summe**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ****
+
+    *
+    *
+    *
+    *   A + B
+
+    *
+
+*    *
+    *   **Summe : 7**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ****
+
+    *
+    *
+    *
+    *   (A + B) : 7
+
+    *
+
+*    *
+    *   **Studiennote Grundstudium**
+        (§ 6 Absatz 3 Satz 2 StBAPO)
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *   Kenntnis genommen:
+
+
+*    *   ......................................................................
+        ....................
+        Ort, Datum
+
+    *
+    *   ......................................................................
+        ....................
+        Ort, Datum
+
+
+*    *   ......................................................................
+        ...................
+        Leiterin/Leiter der Bildungsstätte/des Fachbereichs
+
+    *
+    *   ......................................................................
+        ....................
+        Vor- und Familienname der beurteilten Person
+
+
+
+[^f806324_01_BJNR013530977BJNE007405311]:     Sofern Teilgebiete der nachstehenden Fächer zu einem Fach
+    zusammengefasst werden, kann dieses Fach beurteilt werden.
+    Es werden nur Fächer berücksichtigt, für die der Studienplan
+    mindestens 20 Stunden vorsieht.
+    Die Leistungen in den Fächern „Arbeits- und Selbstorganisation sowie
+    Verwaltungsmanagement“ und „Sozialwissenschaftliche Grundlagen des
+    Verwaltungshandelns“ werden zusammen bewertet (Summe der
+    Einzelleistungen : 2).
+[^f806324_02_BJNR013530977BJNE007405311]: 
+(zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 2)
 
 ### Anlage 9 – gehobener Dienst – Beurteilung der Leistungen im Hauptstudium
 
-(Fundstelle: BGBl. I 2012, 1143 - 1144)
+(Fundstelle: BGBl. I 2019, 176 - 177)
 
 
+*    *   ......................................................................
+        ............................
+        Bildungsstätte
+
+    *
+    *
+
+
+   ## Beurteilung der Leistungen
+
+
+*    *   von ..................................................................
+        ......................................................................
+        ....................................................
+
+
+*    *   Dienst- oder Amtsbezeichnung
+
+    *   Vor- und Familienname
+
+
+
+
+*    *   ......................................................................
+        ...........................
+        Finanzamt
+
+    *
+    *
+
+
+   ## im Hauptstudium
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *[^f806324_04_BJNR013530977BJNE007505311]
+   Fach
+
+    *   Punktzahl der Leistungen
+
+    *
+
+*    *
+    *   **I.**
+
+    *   **Studienleistungen im Hauptstudium**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Abgabenrecht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Steuern vom Einkommen und Ertrag
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Umsatzsteuer
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Besteuerung der Gesellschaften
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *[^f806324_05_BJNR013530977BJNE007505311]
+   Arbeits- und Selbstorganisation sowie Verwaltungsmanagement
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Sozialwissenschaftliche Grundlagen des Verwaltungshandelns
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Summe der Punktzahlen**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl**                      (§ 6 Absatz 3 StBAPO)
+
+    *
+    *
+    *   (1)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl x 5**
+
+    *
+    *
+    *
+    *
+    *   (A)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (1) x 5
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **II.**
+
+    *   **Schriftliche Arbeit**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Leistung der schriftlichen Arbeit
+
+    *
+    *
+    *   (2)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Punktzahl x 2
+
+    *
+    *
+    *
+    *
+    *   (B)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (2) x 2
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **III.**
+
+    *   **Schwerpunktthema**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (3)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Punktzahl
+
+    *
+    *
+    *
+    *
+    *   (C)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (3)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Summe**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ****
+
+    *
+    *
+    *
+    *   A + B + C
+
+    *
+
+*    *
+    *   **Summe : 8**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ****
+
+    *
+    *
+    *
+    *   (A + B + C) : 8
+
+    *
+
+*    *
+    *   **Studiennote Hauptstudium**
+        (§ 6 Absatz 3 Satz 2 StBAPO)
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+    *
+    *   Kenntnis genommen:
+
+
+*    *   ......................................................................
+        .....................
+        Ort, Datum
+
+    *
+    *   ......................................................................
+        .....................
+        Ort, Datum
+
+
+*    *   ......................................................................
+        .....................
+        Leiterin/Leiter der Bildungsstätte/des Fachbereichs
+
+    *
+    *   ......................................................................
+        .....................
+        Vor- und Familienname der beurteilten Person
+
+
+
+[^f806324_04_BJNR013530977BJNE007505311]:     Sofern Teilgebiete der nachstehenden Fächer zu einem Fach
+    zusammengefasst werden, kann dieses Fach beurteilt werden.
+    Es werden nur Fächer berücksichtigt, für die der Studienplan
+    mindestens 20 Stunden vorsieht.
+    Die Leistungen in den Fächern „Arbeits- und Selbstorganisation sowie
+    Verwaltungsmanagement“ und „Sozialwissenschaftliche Grundlagen des
+    Verwaltungshandelns“ werden zusammen bewertet (Summe der
+    Einzelleistungen : 2).
+[^f806324_05_BJNR013530977BJNE007505311]: 
 (zu § 19)
 
-### Anlage 10 – gehobener Dienst – Studienfächer, Unterrichtsstunden, Mindeststunden
+### Anlage 10 – gehobener Dienst – Studienfächer, Unterrichtsstunden und Mindeststunden
 
-(Fundstelle: BGBl. I 2012, 1145 - 1146)
+(Fundstelle: BGBl. I 2019, 178 - 179)
 
-## Studienfächer und Unterrichtsstunden sowie Mindeststunden in den
-Fachstudien
+## Studienfächer und Mindestunterrichtsstunden
 
 
 *    *
     *   Studienfächer:
         Pflichtfächer (1. bis 8.)
         Wahlpflichtveranstaltungen (9.)
-        Schwerpunktthemen (10.)
+        Schwerpunktthema (10.)
         Fallstudien (11.)
 
     *   Mindeststunden
@@ -1851,9 +2811,9 @@ Fachstudien
 
     *   118
 
-    *   50
+    *   41
 
-    *   168
+    *   159
 
     *
 
@@ -1861,13 +2821,13 @@ Fachstudien
 
     *   Bewertungsrecht und Vermögensbesteuerung
 
-    *   25
+    *   20
 
-    *   70
+    *   62
 
     *   –
 
-    *   70
+    *   62
 
     *
 
@@ -1883,15 +2843,14 @@ Fachstudien
 *    *   1.2.1
 
     *   Steuern vom Einkommen und Ertrag
-        (Einkommensteuer, Körperschaftsteuer, Gewerbesteuer)
 
-    *   75
+    *   70
 
-    *   188
+    *   147
 
     *   45
 
-    *   233
+    *   192
 
     *
 
@@ -1901,11 +2860,11 @@ Fachstudien
 
     *   35
 
-    *   98
+    *   96
 
-    *   40
+    *   36
 
-    *   138
+    *   132
 
     *
 
@@ -1913,13 +2872,13 @@ Fachstudien
 
     *   Bilanzsteuerrecht, Betriebliches Rechnungswesen, Außenprüfung
 
-    *   40
+    *   39
 
-    *   108
+    *   104
 
-    *   40
+    *   38
 
-    *   148
+    *   142
 
     *
 
@@ -1940,14 +2899,17 @@ Fachstudien
 *    *   1.3
 
     *   Besteuerung der Gesellschaften
+        \*Enthält 36 Stunden Körperschaftssteuerrecht, die alternativ unter
+        1\.2.1 Steuern vom Einkommen und Ertrag unterrichtet und geprüft werden
+        können.
 
     *   –
 
-    *   52
+    *   81\*
 
-    *   50
+    *   49
 
-    *   102
+    *   130
 
     *
 
@@ -1958,11 +2920,11 @@ Fachstudien
 
     *   35
 
-    *   96
+    *   92
 
     *   –
 
-    *   96
+    *   92
 
     *
 
@@ -1971,13 +2933,13 @@ Fachstudien
     *   Öffentliches Recht
         (Staatsrecht, Europarecht, Öffentliches Dienstrecht)
 
-    *   30
+    *   26
 
-    *   68
+    *   60
 
     *   –
 
-    *   68
+    *   60
 
     *
 
@@ -1989,11 +2951,11 @@ Fachstudien
 
     *   –
 
-    *   54
+    *   48
 
     *   –
 
-    *   54
+    *   48
 
     *
 
@@ -2017,7 +2979,7 @@ Fachstudien
     *   Arbeits- und Selbstorganisation sowie Verwaltungsmanagement
 
     *
-    *   65
+    *   55
 
     *
 
@@ -2027,7 +2989,7 @@ Fachstudien
         des Verwaltungshandelns
 
     *
-    *   115
+    *   95
 
     *
 
@@ -2050,7 +3012,7 @@ Fachstudien
 
     *
     *
-    *   1 325
+    *   1 235
 
 
 *    *   9.
@@ -2092,48 +3054,15 @@ Fachstudien
 
 *    *   10.
 
-    *   Schwerpunktthemen
+    *   Schwerpunktthema
 
     *
     *
-    *
-    *
-    *
-
-*    *   10.1
-
-    *   zu einem ausgewählten Thema
-
-    *   –
-
-    *   –
-
     *   30
 
     *   30
 
-    *
-
-*    *   10.2
-
-    *   zu einem zweiten ausgewählten Thema
-
-    *   –
-
-    *   –
-
     *   30
-
-    *   30
-
-    *
-
-*    *
-    *   Zwischensumme Schwerpunktthemen
-
-    *
-    *
-    *   60
 
 
 *    *   11.
@@ -2149,7 +3078,7 @@ Fachstudien
         1\. bis 5. im Grund- und Hauptstudium
 
     *
-    *   320
+    *   440
 
 
 *    *
@@ -2176,7 +3105,364 @@ Fachstudien
 
 ### Anlage 11 – gehobener Dienst – Mitteilung über das Ergebnis der Zwischenprüfung
 
-(Fundstelle: BGBl. I 2012, 1147 - 1148)
+(Fundstelle: BGBl. I 2019, 180 - 181)
+
+Mitteilung über das
+## Ergebnis der Zwischenprüfung
+
+
+*    *   Der Prüfungsausschuss ...........................................
+
+    *
+    *
+
+*    *   bei ..................................................................
+        .........
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Frau/Herrn
+        ......................................................................
+        ..........
+
+    *
+    *
+
+*    *   Dienst- oder Amtsbezeichnung, Vor- und Familienname
+
+    *
+    *
+
+*    *
+
+*    *   über
+        Frau Vorsteherin des Finanzamtes/
+        Herrn Vorsteher des Finanzamtes ......................................
+        ......................................................................
+        ......................................
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **I.**
+
+    *   **Leistungen bis zur Zwischenprüfung**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Durchschnittspunktzahl aus Anlage 7
+
+    *
+    *
+    *   (1)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Durchschnittspunktzahl x 10
+
+    *
+    *
+    *
+    *
+    *   (A)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (1) x 10
+
+    *
+
+*    *
+    *   **II.**
+
+    *   **Geprüfte Gebiete**
+
+    *   **Punktzahl der Leistungen**
+
+    *
+
+*    *
+    *
+    *   **Prüfungsarbeiten**
+        Der Prüfungsausschuss hat Ihre schriftlichen Prüfungsarbeiten wie
+        folgt bewertet:
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Abgabenordnung
+        (ohne Vollstreckungs- und Steuerstrafrecht)
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Steuern vom Einkommen und Ertrag
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Umsatzsteuer
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Bilanzsteuerrecht, Betriebliches Rechnungswesen
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Öffentliches Recht
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Summe der Punktzahlen**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahlen**
+        (§ 6 Absatz 3 StBAPO)
+
+    *
+    *
+    *   (2)
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   **Durchschnittspunktzahl x 30**
+
+    *
+    *
+    *
+    *
+    *   (B)
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *   (2) x 30
+
+    *
+
+*    *
+    *   **Endpunktzahl**
+
+    *
+    *
+    *
+    *   A + B
+
+    *
+
+*    *
+    *   Nur bei bestandener Zwischenprüfung (§ 41 Absatz 4):
+        **Prüfungsgesamtnote**                      (§ 6 Absatz 4 StBAPO)
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Textvorschlag A (Zwischenprüfung bestanden):**
+
+
+*    *   Sie haben die Zwischenprüfung bestanden (§ 41 Absatz 3 StBAPO).
+
+
+*    *   Ihre Studienleistungen bis zur Zwischenprüfung sind mit der
+        Durchschnittspunktzahl
+        ..............................................................
+        , Ihre
+        Prüfungsarbeiten sind mit einer Durchschnittspunktzahl
+        ......................................................................
+        beurteilt worden. Daraus folgt eine
+        Endpunktzahl nach § 41 Absatz 2 StBAPO von
+        ............................................
+        und die Prüfungsgesamtnote
+        ..............................................
+        .
+
+
+
+
+*    *   **Textvorschlag B (Zwischenprüfung nicht bestanden, Grund: nicht genug
+        Prüfungsarbeiten mit mindestens 5 Punkten):**
+
+
+*    *   Sie haben die Zwischenprüfung nicht bestanden (§ 41 Absatz 3 StBAPO).
+
+
+*    *   Begründung:
+        Sie haben nur in .....................................................
+        Prüfungsarbeiten fünf oder mehr Punkte erreicht und nicht wie
+        gefordert in
+        mindestens drei Prüfungsarbeiten (§ 41 Absatz 3 Nummer 1 StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die Zwischenprüfung einmal
+        wiederholen/können Sie die Zwischenprüfung nicht mehr wiederholen.
+
+
+
+
+*    *   **Textvorschlag C (Zwischenprüfung nicht bestanden, Grund: zu geringe
+        Durchschnittspunktzahl in der schriftlichen Prüfung):**
+
+
+*    *   Sie haben die Zwischenprüfung nicht bestanden (§ 41 Absatz 3 StBAPO).
+
+
+*    *   Begründung:
+        Sie haben in der schriftlichen Prüfung nicht die geforderte
+        Durchschnittspunktzahl von mindestens fünf erreicht (§ 41 Absatz 3
+        Nummer 2 StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die Zwischenprüfung einmal
+        wiederholen/können Sie die Zwischenprüfung nicht mehr wiederholen.
+
+
+
+
+*    *   **Textvorschlag D (Zwischenprüfung nicht bestanden, Grund: zu geringe
+        Endpunktzahl):**
+
+
+*    *   Sie haben die Zwischenprüfung nicht bestanden (§ 41 Absatz 3 StBAPO).
+
+
+*    *   Begründung:
+        Ihre Studienleistungen bis zur Zwischenprüfung sind mit der
+        Durchschnittspunktzahl ...............................................
+        ........................
+        , Ihre
+        Prüfungsarbeiten sind mit einer Durchschnittspunktzahl
+        ...............................
+        beurteilt worden. Daraus folgt eine
+        Endpunktzahl nach § 41 Absatz 2 StBAPO von
+        ..................................
+        .
+
+
+*    *   Die von Ihnen erreichte Endpunktzahl liegt unter der geforderten
+        Endpunktzahl von mindestens 200 (§ 41 Absatz 3 Nummer 3 StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die Zwischenprüfung einmal
+        wiederholen/können Sie die Zwischenprüfung nicht mehr wiederholen.
+
+
+
+
+*    *
+
+*    *   ..............................................
+        Ort, Datum
+
+
+*    *   Die/Der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   ..............................................
+        Unterschrift
+
 
 
 (zu § 42 Absatz 2 und § 46 Absatz 2)
@@ -2211,21 +3497,380 @@ Fachstudien
 
 ### Anlage 16 – gehobener Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
 
-(Fundstelle: BGBl. I 2012, 1156 - 1157)
+(Fundstelle: BGBl. I 2019, 182 - 183)
+
+
+*    *   Der Prüfungsausschuss ..............................................
+
+    *
+    *
+
+*    *   ......................................................................
+        ..........
+        bei ..................................................................
+        .........
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Frau/Herrn
+        ......................................................................
+        ..........
+
+    *
+    *
+
+*    *   Dienst- oder Amtsbezeichnung, Vor- und Familienname
+
+    *
+    *
+
+*    *
+
+*    *   über
+        Frau Vorsteherin des Finanzamtes/
+        Herrn Vorsteher des Finanzamtes
+        ......................................................................
+        ............
+
+
+
+## Laufbahnprüfung für den gehobenen Dienst
+
+Ihre schriftlichen Prüfungsarbeiten sind wie folgt bewertet worden:
+
+*    *   Geprüfte Gebiete
+
+    *   Punktzahl der Leistungen
+
+
+*    *   Abgabenrecht
+
+    *
+
+*    *   Steuern vom Einkommen und Ertrag
+
+    *
+
+*    *   Umsatzsteuer
+
+    *
+
+*    *   Bilanzsteuerrecht, Betriebliches Rechnungswesen und Außenprüfung
+
+    *
+
+*    *   Besteuerung der Gesellschaften
+
+    *
+
+*    *   Datenverarbeitung in der Steuerverwaltung ist i. V. m.
+        ................................
+        geprüft worden.
+
+    *
+
+*    *   **Summe der Punktzahlen**
+
+    *
+
+*    *   **Durchschnittspunktzahl**
+        (mit zwei Dezimalstellen ohne Rundung, § 6 Absatz 3 Satz 1 StBAPO)
+
+    *
+
+*    *   **Note**                        (§ 6 Absatz 3 StBAPO)
+
+    *
+
+
+
+
+*    *   **Textvorschlag A (zu geringe Zulassungspunktzahl):**
+
+
+*    *   Sie sind nicht zur mündlichen Prüfung zugelassen und haben die
+        Laufbahnprüfung nicht bestanden (§ 43 Absatz 4 StBAPO).
+
+
+*    *   Begründung:
+        Ihre Leistungen im Grundstudium und im Hauptstudium sind mit den
+        Durchschnittspunktzahlen .........................
+        und
+        ...........................
+        sowie den Studiennoten .............................
+        und ..............................
+        bewertet worden. Die Vorsteherin/
+        Der Vorsteher Ihres Ausbildungsfinanzamtes hat Ihre Leistungen mit der
+        Punktzahl .........................
+        und der Note .....................................
+        bewertet. Nach § 43 Absatz 2 Nummer 2 StBAPO ergibt sich daraus eine
+        Zulassungspunktzahl von .............................
+        .
+
+
+*    *   Die von Ihnen erreichte Zulassungspunktzahl liegt unter der
+        geforderten Zulassungspunktzahl von mindestens 170 (§ 43 Absatz 3
+        Nummer 3 StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die schriftliche Prüfung
+        einmal wiederholen/können Sie die schriftliche Prüfung nicht mehr
+        wiederholen.
+
+
+
+
+*    *   **Textvorschlag B (nicht genug Prüfungsarbeiten mit mindestens 5
+        Punkten):**
+
+
+*    *   Sie sind nicht zur mündlichen Prüfung zugelassen und haben die
+        Laufbahnprüfung nicht bestanden (§ 43 Absatz 4 StBAPO).
+
+
+*    *   Begründung:
+        Sie haben in nur .....................
+        schriftlichen Prüfungsarbeiten fünf oder mehr Punkte erreicht und
+        nicht wie gefordert in
+        mindestens drei schriftlichen Prüfungsarbeiten (§ 43 Absatz 3 Nummer 1
+        StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die schriftliche Prüfung
+        einmal wiederholen/können Sie die schriftliche Prüfung nicht mehr
+        wiederholen.
+
+
+
+
+*    *   **Textvorschlag C (zu geringe Durchschnittspunktzahl in der
+        schriftlichen Prüfung):**
+
+
+*    *   Sie sind nicht zur mündlichen Prüfung zugelassen und haben die
+        Laufbahnprüfung nicht bestanden (§ 43 Absatz 4 StBAPO).
+
+
+*    *   Begründung:
+        Sie haben in der schriftlichen Prüfung nicht die geforderte
+        Durchschnittspunktzahl von mindestens fünf erreicht (§ 43 Absatz 3
+        Nummer 2 StBAPO).
+
+
+*    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die schriftliche Prüfung
+        einmal wiederholen/können Sie die schriftliche Prüfung nicht mehr
+        wiederholen.
+
+
+
+
+*    *
+
+*    *   ...........................................
+        Ort, Datum
+
+
+*    *   Die/Der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   ...........................................
+        Unterschrift
+
 
 
 (zu § 46 Absatz 3)
 
 ### Anlage 17 – mittlerer Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
-(Fundstelle: BGBl. I 2012, 1158)
+(Fundstelle: BGBl. I 2019, 184)
+
+
+*    *   Der Prüfungsausschuss ..............................................
+
+    *
+    *
+
+*    *   ......................................................................
+        ........
+        bei ..................................................................
+        .....
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Frau/Herrn
+        ......................................................................
+
+    *
+    *
+
+*    *   Dienst- oder Amtsbezeichnung, Vor- und Familienname
+
+    *
+    *
+
+*    *
+
+*    *   über
+        Frau Vorsteherin des Finanzamtes/
+        Herrn Vorsteher des Finanzamtes
+        ......................................................................
+        ........................................
+
+
+
+## Laufbahnprüfung für den mittleren Dienst
+
+
+*    *
+    *   Sie haben in der mündlichen Laufbahnprüfung eine
+        Durchschnittspunktzahl von ..........
+        erreicht. Ihre Prüfungsleistungen in der mündlichen Laufbahnprüfung
+        sind damit im Durchschnitt nicht mit mindestens fünf Punkten bewertet
+        worden. Sie haben deshalb die Laufbahnprüfung nicht bestanden (§ 45
+        Absatz 3 StBAPO), wie Ihnen im Anschluss an die Beratung bekannt
+        gegeben worden ist.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Nach § 3 Absatz 2 Satz 4 StBAG können Sie die Prüfung einmal
+        wiederholen/können Sie die Prüfung nicht mehr wiederholen.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+
+*    *   ....................................................
+        Ort, Datum
+
+
+*    *   Die/Der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   ....................................................
+        Unterschrift
+
 
 
 (zu § 46 Absatz 3)
 
 ### Anlage 18 – gehobener Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
-(Fundstelle: BGBl. I 2012, 1159)
+(Fundstelle: BGBl. I 2019, 185)
+
+
+*    *   Der Prüfungsausschuss ............................................
+
+    *
+    *
+
+*    *   ......................................................................
+        .........
+        bei ..................................................................
+        ......
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Frau/Herrn
+        ......................................................................
+        ..........
+
+    *
+    *
+
+*    *   Dienst- oder Amtsbezeichnung, Vor- und Familienname
+
+    *
+    *
+
+*    *
+
+*    *   über
+        Frau Vorsteherin des Finanzamtes/
+        Herrn Vorsteher des Finanzamtes
+        ......................................................................
+        ..........
+
+
+
+## Laufbahnprüfung für den gehobenen Dienst
+
+
+*    *
+    *   Sie haben in der mündlichen Laufbahnprüfung eine
+        Durchschnittspunktzahl von ..........
+        erreicht. Ihre Prüfungsleistungen in der mündlichen Laufbahnprüfung
+        sind damit im Durchschnitt nicht mit mindestens fünf Punkten bewertet
+        worden. Sie haben deshalb die Laufbahnprüfung nicht bestanden (§ 45
+        Absatz 3 StBAPO), wie Ihnen im Anschluss an die Beratung bekannt
+        gegeben worden ist.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Nach § 4 Absatz 2 Satz 6 StBAG können Sie die Prüfung einmal
+        wiederholen/können Sie die Prüfung nicht mehr wiederholen.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *
+
+*    *   ..................................................
+        Ort, Datum
+
+
+*    *   Die/Der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   ..................................................
+        Unterschrift
+
 
 
 (zu § 48)
@@ -2237,7 +3882,7 @@ Fachstudien
 
 (zu § 48)
 
-### Anlage 20 – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
+### Anlage 20 – gehobener Dienst – Niederschrift über die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1162 - 1163)
 

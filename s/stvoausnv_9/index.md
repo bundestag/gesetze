@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3171
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.11.2010 I 1624
+:   Art. 481 V v. 31.8.2015 I 1474
 
 Die geltung der v ist durch
 :   § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden
@@ -67,9 +67,11 @@ zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs.
         Faktors nach Nummer 1 Buchstabe b auf X = 1,0 und nach Nummer 1
         Buchstabe c auf X = 1,2, wenn
 
-        aa) der Anhänger mit einer Zugkugelkupplung mit Stabilisierungseinrichtung
+        aa)[^BJNR317100998BJNE000208305_01]
+ der Anhänger mit einer Zugkugelkupplung mit Stabilisierungseinrichtung
             für Zentralachsanhänger (gemäß ISO 11555-1 in der Fassung vom 1. Juli
-            2003 \*)) oder
+            2003
+            ) oder
 
 
         bb) mit einem anderen Bauteil oder einer selbstständigen technischen
@@ -91,8 +93,8 @@ zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs.
 2.  im Falle einer nachträglichen Berichtigung der Fahrzeugpapiere des
     Anhängers ein amtlich anerkannter Sachverständiger oder Prüfer oder
     ein Prüfingenieur einer amtlich anerkannten Überwachungsorganisation
-    mit einem Formblatt, das vom Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung im Verkehrsblatt bekannt gegeben wird, einen
+    mit einem Formblatt, das vom Bundesministerium für Verkehr und
+    digitale Infrastruktur im Verkehrsblatt bekannt gegeben wird, einen
     Vorschlag für die Berichtigung nach § 13 Abs. 1 der Fahrzeug-
     Zulassungsverordnung in den Fällen der Nummer 1, ausgenommen Nummer 1
     Buchstabe d Doppelbuchstabe bb, erstellt, oder, wenn eine Änderung
@@ -124,21 +126,25 @@ fahrdynamischen Stabilitätssystem für den Anhängerbetrieb ausgestattet
 ist und eine Bestätigung des Herstellers für die in Satz 1 Nr. 1
 Buchstabe d Doppelbuchstabe bb genannten Bedingungen vorliegt und dies
 in den Fahrzeugpapieren eingetragen ist.
------
+----------
 
-\*) Als Fundstelle und Bezugsquelle der ISO-Norm 11555-1 gilt § 73 der
+[^BJNR317100998BJNE000208305_01]:     Als Fundstelle und Bezugsquelle der ISO-Norm 11555-1 gilt § 73 der
     Straßenverkehrs-Zulassungs-Ordnung mit folgendem Wortlaut:
 
 
 
 "§ 73
+
+
 Technische Festlegungen
 
-*   Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen
-    wird, sind diese im Beuth-Verlag GmbH, Burggrafenstr. 6, D-10787
-    Berlin, VDE-Bestimmungen auch im VDE-Verlag, Bismarckstr. 33, D-10625
-    Berlin, erschienen. Sie sind beim Deutschen Patentamt archivmäßig
-    gesichert niedergelegt.“
+
+
+Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen
+wird, sind diese im Beuth-Verlag GmbH, Burggrafenstr. 6, D-10787
+Berlin, VDE-Bestimmungen auch im VDE-Verlag, Bismarckstr. 33, D-10625
+Berlin, erschienen. Sie sind beim Deutschen Patentamt archivmäßig
+gesichert niedergelegt."
 
 
 

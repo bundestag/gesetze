@@ -19,7 +19,13 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.4.2006 I 984
+:   Art. 6 G v. 12.5.2021 I 1087
+
+Mittelbare änderung durch
+:   Art. 19 G v. 12.5.2021 I 1087 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
@@ -29,27 +35,50 @@ Zuletzt geändert durch
 1.  Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
 
 
-1a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
+1a. Medizinprodukte im Sinne von Artikel 2 Nummer 1 der Verordnung (EU)
+    2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017
+    über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der
+    Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und
+    zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl.
+    L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom
+    27\.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L
+    130 vom 24.4.2020, S. 18) geändert worden ist, in der jeweils
+    geltenden Fassung und im Sinne des § 3 Nummer 4 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung,
 
 
 2.  andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich
     die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von
-    Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden bei
-    Mensch oder Tier bezieht, sowie operative plastisch-chirurgische
-    Eingriffe, soweit sich die Werbeaussage auf die Veränderung des
-    menschlichen Körpers ohne medizinische Notwendigkeit bezieht.
+    Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden beim
+    Menschen bezieht, sowie operative plastisch-chirurgische Eingriffe,
+    soweit sich die Werbeaussage auf die Veränderung des menschlichen
+    Körpers ohne medizinische Notwendigkeit bezieht,
+
+
+3.  Verfahren und Behandlungen, soweit sich die Werbeaussage auf die
+    Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden,
+    Körperschäden oder krankhaften Beschwerden beim Tier bezieht.
 
 
 
 
 (2) Andere Mittel im Sinne des Absatzes 1 Nr. 2 sind kosmetische
-Mittel im Sinne des § 4 des Lebensmittel- und
-Bedarfsgegenständegesetzes. Gegenstände im Sinne des Absatzes 1 Nr. 2
-sind auch Gegenstände zur Körperpflege im Sinne des § 5 Abs. 1 Nr. 4
-des Lebensmittel- und Bedarfsgegenständegesetzes.
+Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung
+(EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30.
+November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S.
+59), die zuletzt durch die Verordnung (EU) 2015/1298 (ABl. L 199 vom
+29\.7.2015, S. 22) geändert worden ist. Gegenstände im Sinne des
+Absatzes 1 Nr. 2 sind auch Gegenstände zur Körperpflege im Sinne des §
+2 Absatz 6 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
 
 (3) Eine Werbung im Sinne dieses Gesetzes ist auch das Ankündigen oder
 Anbieten von Werbeaussagen, auf die dieses Gesetz Anwendung findet.
+
+(3a) Teleshopping im Sinne dieses Gesetzes ist die Sendung direkter
+Angebote an die Öffentlichkeit für den Absatz von Arzneimitteln gegen
+Entgelt oder die Erbringung von ärztlichen, zahnärztlichen und
+tierärztlichen Behandlungen und Verfahren gegen Entgelt.
 
 (4) Dieses Gesetz findet keine Anwendung auf die Werbung für
 Gegenstände zur Verhütung von Unfallschäden.
@@ -63,6 +92,20 @@ sind.
 Handel mit Arzneimitteln auf das Bestellformular und die dort
 aufgeführten Angaben, soweit diese für eine ordnungsgemäße Bestellung
 notwendig sind.
+
+(7) Das Gesetz findet ferner keine Anwendung auf Verkaufskataloge und
+Preislisten für Arzneimittel, wenn die Verkaufskataloge und
+Preislisten keine Angaben enthalten, die über die zur Bestimmung des
+jeweiligen Arzneimittels notwendigen Angaben hinausgehen.
+
+(8) Das Gesetz findet ferner keine Anwendung auf die auf Anforderung
+einer Person erfolgende Übermittlung der nach den §§ 10 bis 11a des
+Arzneimittelgesetzes für Arzneimittel vorgeschriebenen vollständigen
+Informationen, des genehmigten und veröffentlichten Schulungsmaterials
+für Arzneimittel nach § 34 Absatz 1f des Arzneimittelgesetzes und des
+öffentlichen Beurteilungsberichts für Arzneimittel nach § 34 Absatz 1a
+Satz 1 Nummer 2 des Arzneimittelgesetzes und auf die Bereitstellung
+dieser Informationen im Internet.
 
 
 ## § 2
@@ -80,9 +123,11 @@ Ausübung ihres Berufes anwenden.
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt
 insbesondere dann vor,
 
-1.  wenn Arzneimitteln, Medizinprodukten, Verfahren, Behandlungen,
-    Gegenständen oder anderen Mitteln eine therapeutische Wirksamkeit oder
-    Wirkungen beigelegt werden, die sie nicht haben,
+1.  wenn Arzneimitteln, Medizinprodukten im Sinne des § 3 Nummer 4 des
+    Medizinproduktegesetzes in der bis einschließlich 25. Mai 2021
+    geltenden Fassung, Verfahren, Behandlungen, Gegenständen oder anderen
+    Mitteln eine therapeutische Wirksamkeit oder Wirkungen beigelegt
+    werden, die sie nicht haben,
 
 
 2.  wenn fälschlich der Eindruck erweckt wird, daß
@@ -103,8 +148,10 @@ insbesondere dann vor,
 3.  wenn unwahre oder zur Täuschung geeignete Angaben
 
     a)  über die Zusammensetzung oder Beschaffenheit von Arzneimitteln,
-        Medizinprodukten, Gegenständen oder anderen Mitteln oder über die Art
-        und Weise der Verfahren oder Behandlungen oder
+        Medizinprodukten im Sinne des § 3 Nummer 4 des Medizinproduktegesetzes
+        in der bis einschließlich 25. Mai 2021 geltenden Fassung, Gegenständen
+        oder anderen Mitteln oder über die Art und Weise der Verfahren oder
+        Behandlungen oder
 
 
     b)  über die Person, Vorbildung, Befähigung oder Erfolge des Herstellers,
@@ -130,8 +177,7 @@ Darreichungsformen bezieht, die nicht von der Zulassung erfasst sind.
 
 ## § 4
 
-(1) Jede Werbung für Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2
-Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
+(1) Jede Werbung für Arzneimittel muß folgende Angaben enthalten:
 
 1.  den Namen oder die Firma und den Sitz des pharmazeutischen
     Unternehmers,
@@ -157,13 +203,9 @@ Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
     äußeren Umhüllungen vorgeschrieben sind,
 
 
-7a. bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder
-    tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis
-    "Verschreibungspflichtig",
-
-
-8.  die Wartezeit bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt
-    sind, die der Gewinnung von Lebensmitteln dienen.
+7a. bei Arzneimitteln, die der Verschreibungspflicht nach § 48 des
+    Arzneimittelgesetzes unterliegen, den Hinweis
+    "Verschreibungspflichtig".
 
 
 
@@ -173,16 +215,15 @@ Arzneimittelgesetz registriert sind, muss folgenden Hinweis enthalten:
 (spezifiziertes Anwendungsgebiet/spezifizierte Anwendungsgebiete)
 ausschließlich auf Grund langjähriger Anwendung".
 
-(1a) Bei Arzneimitteln, die nur einen arzneilich wirksamen Bestandteil
-enthalten, muß der Angabe nach Absatz 1 Nr. 2 die Bezeichnung dieses
-Bestandteils mit dem Hinweis: "Wirkstoff:" folgen; dies gilt nicht,
-wenn in der Angabe nach Absatz 1 Nr. 2 die Bezeichnung des Wirkstoffs
-enthalten ist.
+(1a) Bei Arzneimitteln, die nur einen Wirkstoff enthalten, muß der
+Angabe nach Absatz 1 Nr. 2 die Bezeichnung dieses Bestandteils mit dem
+Hinweis: "Wirkstoff:" folgen; dies gilt nicht, wenn in der Angabe nach
+Absatz 1 Nr. 2 die Bezeichnung des Wirkstoffs enthalten ist.
 
 (2) Die Angaben nach den Absätzen 1 und 1a müssen mit denjenigen
 übereinstimmen, die nach § 11 oder § 12 des Arzneimittelgesetzes für
 die Packungsbeilage vorgeschrieben sind. Können die in § 11 Abs. 1
-Satz 1 Nr. 3 Buchstabe a und c und Nr. 5 des Arzneimittelgesetzes
+Satz 1 Nr. 3 Buchstabe a und Nr. 5 des Arzneimittelgesetzes
 vorgeschriebenen Angaben nicht gemacht werden, so können sie
 entfallen.
 
@@ -191,13 +232,11 @@ Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen
 Sie Ihren Arzt oder Apotheker" gut lesbar und von den übrigen
 Werbeaussagen deutlich abgesetzt und abgegrenzt anzugeben. Bei einer
 Werbung für Heilwässer tritt an die Stelle der Angabe "die
-Packungsbeilage" die Angabe "das Etikett" und bei einer Werbung für
-Tierarzneimittel an die Stelle "Ihren Arzt" die Angabe "den Tierarzt".
-Die Angaben nach Absatz 1 Nr. 1, 3, 5 und 6 können entfallen. Satz 1
-findet keine Anwendung auf Arzneimittel, die für den Verkehr außerhalb
-der Apotheken freigegeben sind, es sei denn, daß in der
-Packungsbeilage oder auf dem Behältnis Nebenwirkungen oder sonstige
-Risiken angegeben sind.
+Packungsbeilage" die Angabe "das Etikett". Die Angaben nach Absatz 1
+Nr. 1, 3, 5 und 6 können entfallen. Satz 1 findet keine Anwendung auf
+Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben
+sind, es sei denn, daß in der Packungsbeilage oder auf dem Behältnis
+Nebenwirkungen oder sonstige Risiken angegeben sind.
 
 (4) Die nach Absatz 1 vorgeschriebenen Angaben müssen von den übrigen
 Werbeaussagen deutlich abgesetzt, abgegrenzt und gut lesbar sein.
@@ -269,6 +308,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
     geringem Wert, die durch eine dauerhafte und deutlich sichtbare
     Bezeichnung des Werbenden oder des beworbenen Produktes oder beider
     gekennzeichnet sind, oder um geringwertige Kleinigkeiten handelt;
+    Zuwendungen oder Werbegaben sind für Arzneimittel unzulässig, soweit
+    sie entgegen den Preisvorschriften gewährt werden, die auf Grund des
+    Arzneimittelgesetzes oder des Fünften Buches Sozialgesetzbuch gelten;
 
 
 2.  die Zuwendungen oder Werbegaben in
@@ -285,8 +327,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
     Zuwendungen oder Werbegaben nach Buchstabe a sind für Arzneimittel
     unzulässig, soweit sie entgegen den Preisvorschriften gewährt werden,
-    die aufgrund des Arzneimittelgesetzes gelten; Buchstabe b gilt nicht
-    für Arzneimittel, deren Abgabe den Apotheken vorbehalten ist;
+    die aufgrund des Arzneimittelgesetzes oder des Fünften Buches
+    Sozialgesetzbuch gelten; Buchstabe b gilt nicht für Arzneimittel,
+    deren Abgabe den Apotheken vorbehalten ist;
 
 
 3.  die Zuwendungen oder Werbegaben nur in handelsüblichem Zubehör zur
@@ -313,9 +356,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
 
 Werbegaben für Angehörige der Heilberufe sind unbeschadet des Satzes 1
-nur dann zulässig, wenn sie zur Verwendung in der ärztlichen,
-tierärztlichen oder pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3
-des Arzneimittelgesetzes bleibt unberührt.
+nur dann zulässig, wenn sie zur Verwendung in der ärztlichen oder
+pharmazeutischen Praxis bestimmt sind. § 47 Abs. 3 des
+Arzneimittelgesetzes bleibt unberührt.
 
 (2) Absatz 1 gilt nicht für Zuwendungen im Rahmen ausschließlich
 berufsbezogener wissenschaftlicher Veranstaltungen, sofern diese einen
@@ -333,9 +376,17 @@ werben.
 
 ## § 8
 
-Unzulässig ist die Werbung, Arzneimittel im Wege des Teleshopping oder
-bestimmte Arzneimittel im Wege der Einzeleinfuhr nach § 73 Abs. 2 Nr.
-6a oder § 73 Abs. 3 des Arzneimittelgesetzes zu beziehen.
+Das Teleshopping im Sinne des § 1 Absatz 3a sowie die Werbung für das
+Teleshopping sind unzulässig. Die Werbung für das Beziehen bestimmter
+Arzneimittel im Wege der Einzeleinfuhr nach § 73 Absatz 2 Nummer 6a
+oder Absatz 3 des Arzneimittelgesetzes ist unzulässig. Die Übersendung
+von Listen nicht zugelassener oder nicht registrierter Arzneimittel,
+deren Einfuhr aus einem anderen Mitgliedstaat oder aus einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nur
+ausnahmsweise zulässig ist, an Apotheker oder Betreiber einer
+tierärztlichen Hausapotheke ist zulässig, soweit die Listen nur
+Informationen über die Bezeichnung, die Packungsgrößen, die Wirkstärke
+und den Preis dieses Arzneimittels enthalten.
 
 
 ## § 9
@@ -343,7 +394,11 @@ bestimmte Arzneimittel im Wege der Einzeleinfuhr nach § 73 Abs. 2 Nr.
 Unzulässig ist eine Werbung für die Erkennung oder Behandlung von
 Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden, die
 nicht auf eigener Wahrnehmung an dem zu behandelnden Menschen oder
-Tier beruht (Fernbehandlung).
+Tier beruht (Fernbehandlung).  Satz 1 ist nicht anzuwenden auf die
+Werbung für Fernbehandlungen, die unter Verwendung von
+Kommunikationsmedien erfolgen, wenn nach allgemein anerkannten
+fachlichen Standards ein persönlicher ärztlicher Kontakt mit dem zu
+behandelnden Menschen nicht erforderlich ist.
 
 
 ## § 10
@@ -352,10 +407,12 @@ Tier beruht (Fernbehandlung).
 Zahnärzten, Tierärzten, Apothekern und Personen, die mit diesen
 Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 
-(2) Für Arzneimittel, die dazu bestimmt sind, bei Menschen die
+(2) Für Arzneimittel, die psychotrope Wirkstoffe mit der Gefahr der
+Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die
 Schlaflosigkeit oder psychische Störungen zu beseitigen oder die
 Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht
-geworben werden.
+geworben werden. Dies gilt auch für Arzneimittel, die zur
+Notfallkontrazeption zugelassen sind.
 
 
 ## § 11
@@ -363,50 +420,37 @@ geworben werden.
 (1) Außerhalb der Fachkreise darf für Arzneimittel, Verfahren,
 Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
-1.  mit Gutachten, Zeugnissen, wissenschaftlichen oder fachlichen
-    Veröffentlichungen sowie mit Hinweisen darauf,
+1.  (weggefallen)
 
 
-2.  mit Angaben, daß das Arzneimittel, das Verfahren, die Behandlung, der
-    Gegenstand oder das andere Mittel ärztlich, zahnärztlich, tierärztlich
-    oder anderweitig fachlich empfohlen oder geprüft ist oder angewendet
-    wird,
+2.  mit Angaben oder Darstellungen, die sich auf eine Empfehlung von
+    Wissenschaftlern, von im Gesundheitswesen tätigen Personen, von im
+    Bereich der Tiergesundheit tätigen Personen oder anderen Personen, die
+    auf Grund ihrer Bekanntheit zum Arzneimittelverbrauch anregen können,
+    beziehen,
 
 
 3.  mit der Wiedergabe von Krankengeschichten sowie mit Hinweisen darauf,
+    wenn diese in missbräuchlicher, abstoßender oder irreführender Weise
+    erfolgt oder durch eine ausführliche Beschreibung oder Darstellung zu
+    einer falschen Selbstdiagnose verleiten kann,
 
 
-4.  mit der bildlichen Darstellung von Personen in der Berufskleidung oder
-    bei der Ausübung der Tätigkeit von Angehörigen der Heilberufe, des
-    Heilgewerbes oder des Arzneimittelhandels,
+4.  (weggefallen)
 
 
-5.  mit der bildlichen Darstellung
-
-    a)  von Veränderungen des menschlichen Körpers oder seiner Teile durch
-        Krankheiten, Leiden oder Körperschäden,
-
-
-    b)  der Wirkung eines Arzneimittels, eines Verfahrens, einer Behandlung,
-        eines Gegenstandes oder eines anderen Mittels durch vergleichende
-        Darstellung des Körperzustandes oder des Aussehens vor und nach der
-        Anwendung,
+5.  mit einer bildlichen Darstellung, die in missbräuchlicher, abstoßender
+    oder irreführender Weise Veränderungen des menschlichen Körpers auf
+    Grund von Krankheiten oder Schädigungen oder die Wirkung eines
+    Arzneimittels im menschlichen Körper oder in Körperteilen verwendet,
 
 
-    c)  des Wirkungsvorganges eines Arzneimittels, eines Verfahrens, einer
-        Behandlung, eines Gegenstandes oder eines anderen Mittels am
-        menschlichen Körper oder an seinen Teilen,
+6.  (weggefallen)
 
 
-
-
-
-6.  mit fremd- oder fachsprachlichen Bezeichnungen, soweit sie nicht in
-    den allgemeinen deutschen Sprachgebrauch eingegangen sind,
-
-
-7.  mit einer Werbeaussage, die geeignet ist, Angstgefühle hervorzurufen
-    oder auszunutzen,
+7.  mit Werbeaussagen, die nahelegen, dass die Gesundheit durch die
+    Nichtverwendung des Arzneimittels beeinträchtigt oder durch die
+    Verwendung verbessert werden könnte,
 
 
 8.  durch Werbevorträge, mit denen ein Feilbieten oder eine Entgegennahme
@@ -417,16 +461,13 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
     deutlich erkennbar ist,
 
 
-10. mit Veröffentlichungen, die dazu anleiten, bestimmte Krankheiten,
-    Leiden, Körperschäden oder krankhafte Beschwerden beim Menschen selbst
-    zu erkennen und mit den in der Werbung bezeichneten Arzneimitteln,
-    Gegenständen, Verfahren, Behandlungen oder anderen Mitteln zu
-    behandeln, sowie mit entsprechenden Anleitungen in audiovisuellen
-    Medien,
+10. (weggefallen)
 
 
 11. mit Äußerungen Dritter, insbesondere mit Dank-, Anerkennungs- oder
-    Empfehlungsschreiben, oder mit Hinweisen auf solche Äußerungen,
+    Empfehlungsschreiben, oder mit Hinweisen auf solche Äußerungen, wenn
+    diese in missbräuchlicher, abstoßender oder irreführender Weise
+    erfolgen,
 
 
 12. mit Werbemaßnahmen, die sich ausschließlich oder überwiegend an Kinder
@@ -434,11 +475,13 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 13. mit Preisausschreiben, Verlosungen oder anderen Verfahren, deren
-    Ergebnis vom Zufall abhängig ist,
+    Ergebnis vom Zufall abhängig ist, sofern diese Maßnahmen oder
+    Verfahren einer unzweckmäßigen oder übermäßigen Verwendung von
+    Arzneimitteln Vorschub leisten,
 
 
-14. durch die Abgabe von Mustern oder Proben von Arzneimitteln oder durch
-    Gutscheine dafür,
+14. durch die Abgabe von Arzneimitteln, deren Muster oder Proben oder
+    durch Gutscheine dafür,
 
 
 15. durch die nicht verlangte Abgabe von Mustern oder Proben von anderen
@@ -446,30 +489,52 @@ Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
 
 
-Für Medizinprodukte gilt Satz 1 Nr. 6 bis 9, 11 und 12 entsprechend.
+Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend.
+Ferner darf für die in § 1 Absatz 1 Nummer 2 genannten operativen
+plastisch-chirurgischen Eingriffe nicht wie folgt geworben werden:
 
-(2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei
-Menschen nicht mit Angaben geworben werden, die nahe legen, dass die
-Wirkung des Arzneimittels einem anderen Arzneimittel oder einer
-anderen Behandlung entspricht oder überlegen ist.
+1.  mit der Wirkung einer solchen Behandlung durch vergleichende
+    Darstellung des Körperzustandes oder des Aussehens vor und nach dem
+    Eingriff oder
+
+
+2.  mit Werbemaßnahmen, die sich ausschließlich oder überwiegend an Kinder
+    und Jugendliche richten.
+
+
+
+
+(2) Außerhalb der Fachkreise darf für Arzneimittel nicht mit Angaben
+geworben werden, die nahe legen, dass die Wirkung des Arzneimittels
+einem anderen Arzneimittel oder einer anderen Behandlung entspricht
+oder überlegen ist.
 
 
 ## § 12
 
-(1) Außerhalb der Fachkreise darf sich die Werbung für Arzneimittel
-und Medizinprodukte nicht auf die Erkennung, Verhütung, Beseitigung
-oder Linderung der in Abschnitt A der Anlage zu diesem Gesetz
-aufgeführten Krankheiten oder Leiden bei Menschen beziehen, die
-Werbung für Arzneimittel außerdem nicht auf die Erkennung, Verhütung,
-Beseitigung oder Linderung der in Abschnitt B dieser Anlage
-aufgeführten Krankheiten oder Leiden beim Tier. Abschnitt A Nr. 2 der
-Anlage findet keine Anwendung auf die Werbung für Medizinprodukte.
+(1) Außerhalb der Fachkreise darf sich
+
+1.  die Werbung für Arzneimittel nicht auf die Erkennung, Verhütung,
+    Beseitigung oder Linderung der in Abschnitt A der Anlage aufgeführten
+    Krankheiten oder Leiden beim Menschen beziehen,
+
+
+2.  die Werbung für Medizinprodukte nicht auf die Erkennung, Verhütung,
+    Beseitigung oder Linderung der in Abschnitt A Nummer 1, 3 und 4 der
+    Anlage aufgeführten Krankheiten oder Leiden beim Menschen beziehen.
+
+
+
+Satz 1 Nummer 2 gilt nicht für die Werbung für In-vitro-Diagnostika
+gemäß Anlage 3 zu § 3 Absatz 4 der Medizinprodukte-Abgabeverordnung,
+die sich auf die Erkennung der in Abschnitt A Nummer 1 der Anlage
+aufgeführten Krankheiten oder Leiden bei Menschen beziehen.
 
 (2) Die Werbung für andere Mittel, Verfahren, Behandlungen oder
 Gegenstände außerhalb der Fachkreise darf sich nicht auf die
-Erkennung, Beseitigung oder Linderung dieser Krankheiten oder Leiden
-beziehen. Dies gilt nicht für die Werbung für Verfahren oder
-Behandlungen in Heilbädern, Kurorten und Kuranstalten.
+Erkennung, Beseitigung oder Linderung der in der Anlage aufgeführten
+Krankheiten oder Leiden beziehen. Dies gilt nicht für die Werbung für
+Verfahren oder Behandlungen in Heilbädern, Kurorten und Kuranstalten.
 
 
 ## § 13
@@ -478,8 +543,8 @@ Die Werbung eines Unternehmens mit Sitz außerhalb des Geltungsbereichs
 dieses Gesetzes ist unzulässig, wenn nicht ein Unternehmen mit Sitz
 oder eine natürliche Person mit gewöhnlichem Aufenthalt im
 Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat
-der Europäischen Gemeinschaften oder in einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum, die nach diesem
+der Europäischen Union oder in einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum, die nach diesem
 Gesetz unbeschränkt strafrechtlich verfolgt werden kann, ausdrücklich
 damit betraut ist, die sich aus diesem Gesetz ergebenden Pflichten zu
 übernehmen.
@@ -517,7 +582,8 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
     sonstige Werbegabe annimmt,
 
 
-5.  entgegen § 8 eine dort genannte Werbung betreibt,
+5.  entgegen § 8 Satz 1 oder Satz 2 Teleshopping oder eine dort genannte
+    Werbung betreibt,
 
 
 6.  entgegen § 9 für eine Fernbehandlung wirbt,
@@ -561,9 +627,7 @@ Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
 ## § 18
 
-Werbematerial, das den Vorschriften des § 4 nicht entspricht, jedoch
-den Vorschriften des Gesetzes in der bis zum 10. September 1998
-geltenden Fassung, darf noch bis zum 31. März 1999 verwendet werden.
+(weggefallen)
 
 (zu § 12)
 

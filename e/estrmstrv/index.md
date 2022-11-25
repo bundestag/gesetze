@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 214
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 19 V v. 18.1.2022 I 39
+
 
 
 ## Eingangsformel
@@ -387,16 +390,20 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 ### § 6 Übergangsvorschrift
 
-Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
-werden nach den bisherigen Vorschriften zu Ende geführt.
+Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen
+worden ist, ist nach den bis zum Ablauf dieses Tages geltenden
+Vorschriften durch den nach § 47 der Handwerksordnung errichteten
+Meisterprüfungsausschuss fortzuführen.
 
 
-### § 7 Weitere Anforderungen
+### § 7 Weitere Regelungen zur Meisterprüfung
 
-Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach
-der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
-Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
-geltenden Fassung.
+(1) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
+sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
+2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
+
+(2) Die Vorschriften der Meisterprüfungsverfahrensverordnung bleiben
+unberührt.
 
 
 ### § 8 Inkrafttreten

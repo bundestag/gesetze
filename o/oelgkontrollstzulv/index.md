@@ -1,8 +1,5 @@
-[^f776729_01_BJNR104400012]
-Verordnung über die Zulassung von Kontrollstellen nach dem Öko-
-Landbaugesetz
 ---
-Title: ''
+Title: Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz
 jurabk: ÖLGKontrollStZulV
 layout: default
 origslug: _lgkontrollstzulv
@@ -10,13 +7,16 @@ slug: oelgkontrollstzulv
 
 ---
 
-#  (ÖLGKontrollStZulV)
+# Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz (ÖLGKontrollStZulV)
 
 Ausfertigungsdatum
 :   2012-05-07
 
 Fundstelle
 :   BGBl I: 2012, 1044
+
+Geändert durch
+:   Art. 144 G v. 29.3.2017 I 626
 
 [^f776729_01_BJNR104400012]:     Diese Verordnung dient auch der Umsetzung der Richtlinie 2006/123/EG
     des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über
@@ -43,12 +43,12 @@ Kontrollstellen nach § 4 Absatz 1 bis 4 des Öko-Landbaugesetzes.
 ## § 2 Antrag auf Zulassung
 
 Der Antrag auf Zulassung ist von der Kontrollstelle schriftlich oder
-in elektronischer Form bei der Bundesanstalt für Landwirtschaft und
-Ernährung (Bundesanstalt) zu stellen. Im Antrag ist anzugeben, für
-welche der in Anlage 1 aufgeführten Kontrollbereiche nach Titel IV
-Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008 der Kommission vom 5.
-September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr.
-834/2007 des Rates über die ökologische/biologische Produktion und die
+elektronisch bei der Bundesanstalt für Landwirtschaft und Ernährung
+(Bundesanstalt) zu stellen. Im Antrag ist anzugeben, für welche der in
+Anlage 1 aufgeführten Kontrollbereiche nach Titel IV Kapitel 2 bis 7
+der Verordnung (EG) Nr. 889/2008 der Kommission vom 5. September 2008
+mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des
+Rates über die ökologische/biologische Produktion und die
 Kennzeichnung von ökologischen/biologischen Erzeugnissen hinsichtlich
 der ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle
 (ABl. L 250 vom 18.9.2008, S. 1), die zuletzt durch die
@@ -408,7 +408,7 @@ können verlangt werden.
 ## § 12 Zulassung
 
 (1) Die Entscheidung über den Antrag der Kontrollstelle ergeht durch
-schriftlichen Bescheid.
+schriftlichen oder elektronischen Bescheid.
 
 (2) Die Zulassung wird der Kontrollstelle entsprechend ihrem Antrag
 und ihrer im Antrag dargestellten personellen und technischen
@@ -447,9 +447,9 @@ Kontrollbefähigung auf andere Weise aufrechterhalten wird.
 (6) Nach Zulassung einer Kontrollstelle erfolgt die Zulassung weiterer
 für die Kontrolle vorgesehener Personen oder der Änderung des
 Tätigkeitsumfangs der für die Kontrolle vorgesehenen Personen von der
-Bundesanstalt durch schriftlichen Bescheid. Das Ausscheiden von für
-die Kontrolle vorgesehenen Personen wird ebenfalls durch schriftlichen
-Bescheid festgestellt.
+Bundesanstalt durch schriftlichen oder elektronischen Bescheid. Das
+Ausscheiden von für die Kontrolle vorgesehenen Personen wird ebenfalls
+durch schriftlichen oder elektronischen Bescheid festgestellt.
 
 
 ## § 13 Verfahrensvorschriften

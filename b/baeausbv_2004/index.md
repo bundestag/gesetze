@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 632
 
+Geändert durch
+:   Art. 1 V v. 8.2.2016 I 179
+
 
 
 ## Eingangsformel
@@ -427,7 +430,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Arbeitsvertrages, insbesondere Abschluss, Dauer und
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
         Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln

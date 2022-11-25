@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 774
 
+Geändert durch
+:   Art. 193 V v. 19.6.2020 I 1328
+
 
 
 ## Art I - Finanzverwaltung
@@ -92,8 +95,8 @@ Zonenbehörden werden Wartestandsbeamte des Bundes.
 
 (2) Oberste Dienstbehörden der Wartestandsbeamten sind die zuständigen
 Obersten Bundesbehörden. Erforderlichenfalls bestimmen der
-Bundesminister des Innern und der Bundesminister der Finanzen die
-oberste Dienstbehörde.
+Bundesminister des Innern, für Bau und Heimat und der Bundesminister
+der Finanzen die oberste Dienstbehörde.
 
 (3) Die obersten Dienstbehörden haben für die Unterbringung der
 Wartestandsbeamten zu sorgen
@@ -113,8 +116,9 @@ Dienstbehörde des letzten Dienstherrn des Beamten aus. Zuständig ist
 die Oberste Bundesbehörde, deren Aufgaben denen der zuletzt für den
 Beamten zuständigen obersten Dienstbehörde oder Verwaltungsstelle
 entsprechen. Ist eine solche Stelle nicht vorhanden, so regeln der
-Bundesminister des Innern und der Bundesminister der Finanzen die
-Zuständigkeit, ebenso, wenn keine Stelle sich für zuständig erachtet.
+Bundesminister des Innern, für Bau und Heimat und der Bundesminister
+der Finanzen die Zuständigkeit, ebenso, wenn keine Stelle sich für
+zuständig erachtet.
 
 
 ### § 7

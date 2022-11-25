@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3150, 3176
 
+Zuletzt geändert durch
+:   Art. 15 G v. 26.11.2019 I 1794
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -343,8 +346,8 @@ Bundesministerium der Finanzen ein Schätzungsbeirat gebildet.
     Vorsitzende/r,
 
 
-2.  ein Vertreter/eine Vertreterin des Bundesministeriums für Ernährung,
-    Landwirtschaft und Verbraucherschutz,
+2.  ein Vertreter/eine Vertreterin des Bundesministeriums für Ernährung
+    und Landwirtschaft,
 
 
 3.  zehn weitere Mitglieder mit besonderer Sachkenntnis auf dem Gebiet der
@@ -353,15 +356,33 @@ Bundesministerium der Finanzen ein Schätzungsbeirat gebildet.
 
 
 Das Bundesministerium der Finanzen beruft im Benehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-die Mitglieder nach Satz 1 Nr. 3 auf Vorschlag der obersten
-Finanzbehörden der Länder. Die Berufung kann mit Zustimmung der
-obersten Finanzbehörden der Länder zurückgenommen werden.
+Bundesministerium für Ernährung und Landwirtschaft die Mitglieder nach
+Satz 1 Nr. 3 auf Vorschlag der obersten Finanzbehörden der Länder. Die
+Berufung kann mit Zustimmung der obersten Finanzbehörden der Länder
+zurückgenommen werden. Scheidet ein nach Satz 1 Nummer 3 berufenes
+Mitglied aus, so ist ein neues sachkundiges Mitglied zu berufen.
 
-(3) Der Schätzungsbeirat gibt sich eine Geschäftsordnung, in der
+(3) Die nach Absatz 2 Satz 1 Nummer 3 berufenen Mitglieder des
+Schätzungsbeirats werden als Amtsträger im Sinne des § 7 Nummer 3 der
+Abgabenordnung tätig. Sie dürfen den Inhalt der Verhandlungen des
+Schätzungsbeirats sowie die Verhältnisse der Steuerpflichtigen, die
+ihnen im Zusammenhang mit ihrer Tätigkeit auf Grund dieses Gesetzes
+bekanntgeworden sind, nicht unbefugt offenbaren und Geheimnisse,
+insbesondere Betriebs- oder Geschäftsgeheimnisse, nicht unbefugt
+verwerten. Auf Zuwiderhandlungen sind die Vorschriften über das
+Steuergeheimnis und die Strafbarkeit seiner Verletzung entsprechend
+anzuwenden. Die für die Bodenschätzung maßgebenden natürlichen
+Ertragsbedingungen unterliegen nicht der Geheimhaltungspflicht.
+
+(4) Der Schätzungsbeirat gibt sich eine Geschäftsordnung, in der
 Einzelheiten der Mitwirkung, der Geschäftsführung, der
 Beschlussfassung sowie Rechte und Pflichten der Mitglieder geregelt
 werden.
+
+(5) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die Geschäftsordnung
+für den Schätzungsbeirat und die Entschädigung der Mitglieder sowie
+die Sachausgaben des Schätzungsbeirats allgemeinverbindlich zu regeln.
 
 
 ### § 18 Schätzungsausschüsse

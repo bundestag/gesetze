@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 1742
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2012 I 183
+:   Art. 1 V v. 11.3.2019 I 330
 
 
 ## Eingangsformel
@@ -66,7 +66,13 @@ gleichwertigen Bescheinigung.
     Betriebsflächen eines Flughafens bewegen;
 
 
-7.  nach Maßgabe des § 2 Abs. 3 dieser Verordnung.
+7.  nach Maßgabe des § 2 Absatz 3 und 4 dieser Verordnung;
+
+
+8.  durch Einsatzkräfte der Feuerwehren von Flughafenunternehmen auf
+    Flugplätzen mit Flugverkehrskontrollstelle unter Verwendung der
+    Feuerwehrfrequenz gemäß § 45 Absatz 5 der Luftverkehrs-Zulassungs-
+    Ordnung in der jeweils geltenden Fassung.
 
 
 
@@ -99,8 +105,14 @@ gleichwertigen Bescheinigung.
 
 (2) Welches der in Absatz 1 aufgeführten Zeugnisse jeweils
 erforderlich ist, richtet sich nach der Art der zu bedienenden Boden-
-oder Luftfunkstelle. Vorbehaltlich der Bestimmungen des § 26a Absatz 1
-Satz 3 der Luftverkehrs-Ordnung berechtigt
+oder Luftfunkstelle. Vorbehaltlich der Bestimmungen von Anhang I
+FCL.055 der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3.
+November 2011 zur Festlegung technischer Vorschriften und von
+Verwaltungsverfahren in Bezug auf das fliegende Personal in der
+Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen
+Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S. 1), die
+zuletzt durch die Verordnung (EU) Nr. 70/2014 (ABl. L 23 vom
+28\.1.2014, S. 25) geändert worden ist berechtigt
 
 1.  das BZF II, bei Flügen nach Sichtflugregeln den Sprechfunk innerhalb
     der Bundesrepublik Deutschland in deutscher Sprache auszuüben;
@@ -115,7 +127,7 @@ Satz 3 der Luftverkehrs-Ordnung berechtigt
 
 
 4.  das AZF, bei Flügen nach Sicht- und Instrumentenflugregeln den
-    Sprechfunk auszuüben;
+    Sprechfunk in deutscher und englischer Sprache auszuüben;
 
 
 5.  das AZF E, bei Flügen nach Sicht- und Instrumentenflugregeln den
@@ -125,9 +137,8 @@ Satz 3 der Luftverkehrs-Ordnung berechtigt
 
 
 (3) Für gültige Militärluftfahrzeugführerscheine,
-Militärluftfahrzeugbesatzungsscheine oder militärische
-Erlaubnisscheine für den Flugsicherungs-Kontrolldienst der Bundeswehr
-gilt Folgendes:
+Militärluftfahrzeugbesatzungsscheine oder Militärische Lizenzen für
+den Flugverkehrskontrolldienst der Bundeswehr gilt Folgendes:
 
 1.  Sofern ein solches Zeugnis zur Ausübung des Sprechfunks bei Flügen
     nach Instrumentenflugregeln berechtigt, darf der Inhaber den
@@ -142,6 +153,15 @@ gilt Folgendes:
 
 
 
+
+(4) Für Lizenzscheine nach Artikel 4 Nummer 14 der Verordnung (EU)
+2015/340 der Kommission vom 20. Februar 2015 zur Festlegung
+technischer Vorschriften und von Verwaltungsverfahren in Bezug auf
+Lizenzen und Bescheinigungen von Fluglotsen gemäß der Verordnung (EG)
+Nr. 216/2008 des Europäischen Parlaments und des Rates, zur Änderung
+der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission und zur
+Aufhebung der Verordnung (EU) Nr. 805/2011 der Kommission (ABl. L 63
+vom 6.3.2015, S.1) gilt Absatz 3 entsprechend.
 
 
 ## § 3 Voraussetzungen für den Erwerb von Flugfunkzeugnissen
@@ -309,14 +329,11 @@ Anlage 1 im Einzelfall von der Bundesnetzagentur festgelegt.
 
 (1) Prüfungen nach der Verordnung über Luftfahrtpersonal in der
 Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S. 265), die
-zuletzt durch Artikel 1 der Verordnung vom 2. Oktober 2009 (BGBl. I S.
-3536) geändert worden ist, sowie nach den in § 20 Absatz 2 der
-Luftverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom
-10\. Juli 2008 (BGBl. I S. 1229) genannten Bestimmungen der Joint
-Aviation Requirements – Flight Crew Licensing (JAR-FCL) können als
-Prüfungen nach § 8 anerkannt werden, wenn die in der Anlage 1
-aufgeführten Prüfungsinhalte des praktischen Teils gemäß § 8 Absatz 3
-geprüft worden sind. Hierbei entspricht:
+zuletzt durch Artikel 2 der Verordnung vom 12. Dezember 2016 (BGBl. I
+S. 2864) geändert worden ist, können als Prüfungen nach § 8 anerkannt
+werden, wenn die in der Anlage 1 aufgeführten Prüfungsinhalte des
+praktischen Teils gemäß § 8 Absatz 3 geprüft worden sind. Hierbei
+entspricht:
 
 1.  die Prüfung zum Erwerb der Erlaubnis für Privatflugzeugführer,
     Privathubschrauberführer, Berufsflugzeugführer,
@@ -337,20 +354,18 @@ geprüft worden sind. Hierbei entspricht:
 
 
 (2) Das Flugfunkzeugnis wird durch die Bundesnetzagentur ausgestellt
-und dem Bewerber ausgehändigt. Das Bundesministerium für Wirtschaft
-und Technologie kann im Einvernehmen mit dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung festlegen, dass die Berechtigung zur
+und dem Bewerber ausgehändigt. Das Bundesministerium für Verkehr und
+digitale Infrastruktur kann festlegen, dass die Berechtigung zur
 Ausübung des Flugfunkdienstes von den zuständigen Luftfahrtbehörden
-erteilt und im Luftfahrerschein eingetragen wird.
+der Länder erteilt und im Luftfahrerschein eingetragen wird.
 
 
 ## § 13 Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
 
 (1) Inhabern einer Bescheinigung der Bundeswehr über den Besitz eines
 Militärluftfahrzeugführerscheines,
-Militärluftfahrzeugbesatzungsscheines oder militärischen
-Erlaubnisscheines für den Flugsicherungs-Kontrolldienst wird auf
-Antrag ausgestellt:
+Militärluftfahrzeugbesatzungsscheines oder einer Militärischen Lizenz
+für den Flugverkehrskontrolldienst wird auf Antrag ausgestellt:
 
 1.  das BZF I, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
     Absatz 3 Nummer 2 berechtigt sind, oder
@@ -367,6 +382,40 @@ Antrag ausgestellt:
 (3) Dem Antrag auf Ausstellen eines Flugfunkzeugnisses ist unter
 Angabe der beantragten Zeugnisart die Bescheinigung der Bundeswehr
 nach Absatz 1 beizufügen.
+
+
+## § 13a Erwerb von Flugfunkzeugnissen durch Inhaber von Lizenzscheinen für den Flugverkehrskontrolldienst
+
+(1) Inhabern von Lizenzscheinen nach Artikel 4 Nummer 14 der
+Verordnung (EU) Nr. 2015/340 wird auf Antrag ausgestellt:
+
+1.  das BZF I, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
+    Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 2 berechtigt sind,
+
+
+2.  das BZF E, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
+    Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 2 berechtigt sind,
+
+
+3.  das AZF, wenn sie zur Ausübung des Sprechfunks entsprechend § 2 Absatz
+    4 in Verbindung mit § 2 Absatz 3 Nummer 1 berechtigt sind oder
+
+
+4.  das AZF E, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
+    Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 1 berechtigt sind
+
+
+
+und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber über
+die in Anlage 1 für das jeweilige Sprechfunkzeugnis vorgesehenen
+Kenntnisse und Fertigkeiten verfügt.
+
+(2) Über den Antrag entscheidet die Bundesnetzagentur.
+
+(3) Dem Antrag auf Ausstellen eines Flugfunkzeugnisses ist unter
+Angabe der beantragten Zeugnisart der vom Bundesaufsichtsamt für
+Flugsicherung ausgestellte Lizenzschein und die Bestätigung der
+Ausbildungsorganisation beizufügen.
 
 
 ## § 14 Anerkennung von Flugfunkzeugnissen
@@ -422,14 +471,11 @@ anerkannt.
 
 (1) Bei der Prüfungsbehörde können auch die Sprachprüfung und die
 Verlängerungsprüfung nach § 125 der Verordnung über Luftfahrtpersonal
-in der Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S.
-265), die zuletzt durch Artikel 1 der Verordnung vom 2. Oktober 2009
-(BGBl. I S. 3536) geändert worden ist, durchgeführt werden. Die
-Sprachprüfung kann organisatorisch mit der Prüfung zum Erwerb von
-Flugfunkzeugnissen nach dieser Verordnung verbunden werden. Die §§ 5,
-6 Nummer 2 und 3, § 8 Absatz 1, 2, 4, 5 und 7, die §§ 19 und 20 sind
-entsprechend anzuwenden. Die Sprachprüfung kann wiederholt abgelegt
-werden.
+durchgeführt werden. Die Sprachprüfung kann organisatorisch mit der
+Prüfung zum Erwerb von Flugfunkzeugnissen nach dieser Verordnung
+verbunden werden. Die §§ 5, 6 Nummer 2 und 3, § 8 Absatz 1, 2, 4, 5
+und 7, die §§ 19 und 20 sind entsprechend anzuwenden. Die
+Sprachprüfung kann wiederholt abgelegt werden.
 
 (2) Für die Durchführung der Prüfung nach Absatz 1 ist der
 Prüfungsausschuss mit mindestens einem Mitglied zu besetzen, das
@@ -481,14 +527,14 @@ Zweitschrift zurückzugeben.
 (1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn der
 Inhaber
 
-1.  in grober Weise gegen wichtige Funkvorschriften, insbesondere gegen
-    die Bestimmungen des § 26a der Luftverkehrs-Ordnung in der Fassung der
-    Bekanntmachung vom 27. März 1999 (BGBl. I S. 580), die zuletzt durch
-    Artikel 1 der Verordnung vom 18. Januar 2010 (BGBl. I S. 11) geändert
-    worden ist, verstoßen hat oder
+1.  in grober Weise gegen wichtige Funkvorschriften, insbesondere solche
+    über die zur Ausübung des Sprechfunks erforderlichen Sprachkenntnisse,
+    die einzuhaltende Hörbereitschaft auf festgelegten Funkfrequenzen, die
+    Sprechfunkverfahren sowie die Verfahren bei Ausfall der
+    Funkverbindung, verstoßen hat oder
 
 
-2.  entgegen den Bestimmungen des § 2 Absatz 2 und 3 dieser Verordnung den
+2.  entgegen den Bestimmungen des § 2 Absatz 2 bis 4 dieser Verordnung den
     Sprechfunkverkehr ausübt.
 
 
@@ -510,7 +556,8 @@ bis 3 entsprechend anzuwenden.
 (1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden
 Gebühren bestimmen sich nach dem Gebührenverzeichnis in Anlage 2.
 Neben den ausgewiesenen Gebührensätzen werden Auslagen nach Maßgabe
-des Verwaltungskostengesetzes gesondert erhoben.
+des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung gesondert erhoben.
 
 (2) Die Gebührenschuld entsteht mit Eingang des Antrags bei der
 Bundesnetzagentur.
@@ -603,9 +650,15 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
     Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 
-1.1.4.2 Luftverkehrs-Ordnung einschließlich der dazu erlassenen
-    Durchführungsverordnungen, soweit sie für Flüge nach Sichtflugregeln
-    zur Anwendung kommen;
+1.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26.
+    September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und
+    Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und
+    zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der
+    Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr.
+    730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom
+    13\.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden
+    Fassung, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge
+    nach Sichtflugregeln zur Anwendung kommt;
 
 
 1.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für
@@ -699,9 +752,9 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
     Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 
-3.1.4.2 Luftverkehrs-Ordnung einschließlich der dazu erlassenen
-    Durchführungsverordnungen, soweit sie für Flüge nach Sichtflugregeln
-    zur Anwendung kommen;
+3.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der
+    Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur
+    Anwendung kommt;
 
 
 3.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für
@@ -735,9 +788,9 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
     nachzuweisen:
 
 
-4.1.1 Luftverkehrs-Ordnung einschließlich der dazu ergangenen
-    Durchführungsverordnungen, soweit sie für Flüge nach
-    Instrumentenflugregeln zur Anwendung kommen;
+4.1.1 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der
+    Luftverkehrs-Ordnung, soweit sie für Flüge nach Instrumentenflugregeln
+    zur Anwendung kommt;
 
 
 4.1.2 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge bei
@@ -971,7 +1024,7 @@ Verordnung folgende Gebühren:
 
 *    *   5
 
-    *   Bearbeiten eines Antrags nach § 12, § 13 oder § 14
+    *   Bearbeiten eines Antrags nach den §§ 12, 13, 13a oder 14
 
     *
 
@@ -986,7 +1039,8 @@ Verordnung folgende Gebühren:
 
 *    *
         b)  Ausstellen eines Flugfunkzeugnisses an Inhaber einer Bescheinigung der
-            Bundeswehr (§ 13)
+            Bundeswehr (§ 13) oder an Inhaber von Lizenzscheinen für den
+            Flugverkehrskontrolldienst (§ 13a)
 
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1911, 509
 
 Zuletzt geändert durch
-:   Art. 15a G v. 17.3.2009 I 550
+:   Art. 7 G v. 23.10.2012 I 2246
 
 
 ## Erstes Buch - Gemeinsame Vorschriften
@@ -333,24 +333,15 @@ Zuletzt geändert durch
 
 ### Zweiter Abschnitt - Gegenstand der Versicherung
 
+(weggefallen)
 
 
 #### I. - Leistungen im allgemeinen
 
 
 
-##### § 179
+##### § 179 (weggefallen)
 
-Gegenstand der Versicherung sind die in diesem Buch vorgeschriebenen
-Leistungen der Krankenkassen an
-1\. u. 2.
-
-3.  Leistungen bei Schwangerschaft und Mutterschaft,
-
-
-
-4\.
-5\. u. 6.
 
 
 ##### (XXXX) §§ 180 und 180a (weggefallen)
@@ -375,139 +366,8 @@ Leistungen der Krankenkassen an
 
 
 
-##### § 195
+##### (XXXX) §§ 195 bis 200b (weggefallen)
 
-(1) Die Leistungen bei Schwangerschaft und Mutterschaft umfassen
-
-1.  ärztliche Betreuung und Hebammenhilfe,
-
-
-2.  Versorgung mit Arznei-, Verband- und Heilmitteln,
-
-
-3.  stationäre Entbindung,
-
-
-4.  häusliche Pflege,
-
-
-5.  Haushaltshilfe,
-
-
-6.  Mutterschaftsgeld.
-
-
-
-
-(2) Für die Leistungen nach Absatz 1 gelten die für die Leistungen
-nach dem Fünften Buch Sozialgesetzbuch geltenden Vorschriften
-entsprechend, soweit nichts Abweichendes bestimmt ist. § 16 Abs. 1 des
-Fünften Buches Sozialgesetzbuch gilt nicht für den Anspruch auf
-Mutterschaftsgeld. Bei Anwendung des § 65 Abs. 2 des Fünften Buches
-Sozialgesetzbuch bleiben die Leistungen nach Absatz 1
-unberücksichtigt.
-
-
-##### § 196
-
-(1) Die Versicherte hat während der Schwangerschaft, bei und nach der
-Entbindung Anspruch auf ärztliche Betreuung einschließlich der
-Untersuchungen zur Feststellung der Schwangerschaft und zur
-Schwangerenvorsorge sowie auf Hebammenhilfe. Die ärztliche Betreuung
-umfaßt auch die Beratung der Schwangeren zur Bedeutung der
-Mundgesundheit für Mutter und Kind einschließlich des Zusammenhangs
-zwischen Ernährung und Krankheitsrisiko sowie die Einschätzung oder
-Bestimmung des Übertragungsrisikos von Karies.
-
-(2) Bei Schwangerschaftsbeschwerden und im Zusammenhang mit der
-Entbindung gelten die § 31 Abs. 3, § 32 Abs. 2, § 33 Abs. 8 und § 127
-Abs. 4 des Fünften Buches Sozialgesetzbuch nicht.
-
-
-##### § 197
-
-Wird die Versicherte zur Entbindung in ein Krankenhaus oder eine
-andere Einrichtung aufgenommen, hat sie für sich und das Neugeborene
-auch Anspruch auf Unterkunft, Pflege und Verpflegung. Für diese Zeit
-besteht kein Anspruch auf Krankenhausbehandlung. § 39 Abs. 2 des
-Fünften Buches Sozialgesetzbuch gilt entsprechend.
-
-
-##### § 198
-
-Die Versicherte hat Anspruch auf häusliche Pflege, soweit diese wegen
-Schwangerschaft oder Entbindung erforderlich ist. § 37 Abs. 3 und 4
-des Fünften Buches Sozialgesetzbuch gilt entsprechend.
-
-
-##### § 199
-
-Die Versicherte erhält Haushaltshilfe, soweit ihr wegen
-Schwangerschaft oder Entbindung die Weiterführung des Haushalts nicht
-möglich ist und eine andere im Haushalt lebende Person den Haushalt
-nicht weiterführen kann. § 38 Abs. 4 des Fünften Buches
-Sozialgesetzbuch gilt entsprechend.
-
-
-##### § 200
-
-(1) Weibliche Mitglieder, die bei Arbeitsunfähigkeit Anspruch auf
-Krankengeld haben oder denen wegen der Schutzfristen nach § 3 Abs. 2
-und § 6 Abs. 1 des Mutterschutzgesetzes kein Arbeitsentgelt gezahlt
-wird, erhalten Mutterschaftsgeld.
-
-(2) Für Mitglieder, die bei Beginn der Schutzfrist nach § 3 Abs. 2 des
-Mutterschutzgesetzes in einem Arbeitsverhältnis stehen oder in
-Heimarbeit beschäftigt sind oder deren Arbeitsverhältnis während ihrer
-Schwangerschaft oder der Schutzfrist nach § 6 Abs. 1 des
-Mutterschutzgesetzes nach Maßgabe von § 9 Abs. 3 des
-Mutterschutzgesetzes aufgelöst worden ist, wird als Mutterschaftsgeld
-das um die gesetzlichen Abzüge verminderte durchschnittliche
-kalendertägliche Arbeitsentgelt der letzten drei abgerechneten
-Kalendermonate vor Beginn der Schutzfrist nach § 3 Abs. 2 des
-Mutterschutzgesetzes gezahlt. Es beträgt höchstens 13 Euro für den
-Kalendertag. Einmalig gezahltes Arbeitsentgelt (§ 23a des Vierten
-Buches Sozialgesetzbuch) sowie Tage, an denen infolge von Kurzarbeit,
-Arbeitsausfällen oder unverschuldeter Arbeitsversäumnis kein oder ein
-vermindertes Arbeitsentgelt erzielt wurde, bleiben außer Betracht. Ist
-danach eine Berechnung nicht möglich, ist das durchschnittliche
-kalendertägliche Arbeitsentgelt einer gleichartig Beschäftigten
-zugrunde zu legen. Für Mitglieder, deren Arbeitsverhältnis während der
-Mutterschutzfristen vor oder nach der Geburt beginnt, wird das
-Mutterschaftsgeld von Beginn des Arbeitsverhältnisses an gezahlt.
-Übersteigt das Arbeitsentgelt 13 Euro kalendertäglich, wird der
-übersteigende Betrag vom Arbeitgeber oder von der für die Zahlung des
-Mutterschaftsgeldes zuständigen Stelle nach den Vorschriften des
-Mutterschutzgesetzes gezahlt. Für andere Mitglieder wird das
-Mutterschaftsgeld in Höhe des Krankengeldes gezahlt.
-
-(3) Das Mutterschaftsgeld wird für die letzten sechs Wochen vor der
-Entbindung, den Entbindungstag und für die ersten acht Wochen, bei
-Mehrlings- und Frühgeburten für die ersten zwölf Wochen nach der
-Entbindung gezahlt. Bei Frühgeburten und sonstigen vorzeitigen
-Entbindungen verlängert sich die Bezugsdauer um den Zeitraum, der nach
-§ 3 Abs. 2 des Mutterschutzgesetzes nicht in Anspruch genommen werden
-konnte. Für die Zahlung des Mutterschaftsgeldes vor der Entbindung ist
-das Zeugnis eines Arztes oder einer Hebamme maßgebend, in dem der
-mutmaßliche Tag der Entbindung angegeben ist. Das Zeugnis darf nicht
-früher als eine Woche vor Beginn der Schutzfrist nach § 3 Abs. 2 des
-Mutterschutzgesetzes ausgestellt sein. Bei Geburten nach dem
-mutmaßlichen Tag der Entbindung verlängert sich die Bezugsdauer vor
-der Geburt entsprechend.
-
-(4) Der Anspruch auf Mutterschaftsgeld ruht, soweit und solange das
-Mitglied beitragspflichtiges Arbeitsentgelt oder Arbeitseinkommen
-erhält. Dies gilt nicht für einmalig gezahltes Arbeitsentgelt.
-
-
-##### § 200a
-
--
-
-
-##### § 200b
-
-(weggefallen)
 
 
 #### IIIa. - Sonstige Hilfen
@@ -782,114 +642,8 @@ und deren Angestellte ausdehnen.
 -
 
 
-#### § 407
+#### (XXXX) §§ 407 bis 413 (weggefallen)
 
-Der Kassenverband kann für die ihm angeschlossenen Kassen gemeinsam
-
-1.  Angestellte und Beamte anstellen,
-
-
-2.  Verträge mit Leistungserbringern vorbereiten oder abschließen, soweit
-    im Fünften Buch Sozialgesetzbuch nichts Abweichendes bestimmt ist,
-
-
-3.  die Ausgaben für die Leistungen bis zur Hälfte oder innerhalb dieser
-    Grenze die Ausgaben für bestimmte Krankheitsarten oder
-    Erkrankungsfälle bis zur vollen Höhe tragen,
-
-
-4.  die Beitragsentrichtung nach einheitlichen Grundsätzen überwachen,
-
-
-5.  die Beitragseinziehung und Zwangsbeitreibung durchführen.
-
-
-
-
-(2)
-
-
-#### § 408
-
--
-
-
-#### § 409
-
-Die Satzung muß bestimmen über
-
-1.  Namen und Sitz des Verbands und der ihm angeschlossenen Kassen,
-
-
-2.  Zwecke des Verbands,
-
-
-3.  Zusammensetzung, Wahl, Rechte und Pflichten des Vorstands und der etwa
-    gewählten Vertreterversammlung,
-
-
-4.  Feststellung des Voranschlags und Abnahme der Jahresrechnung,
-
-
-5.  Umlegung der Beiträge zur Deckung der Verbandsausgaben sowie
-    Ausschreibung und Verrechnung etwa erforderlicher Zuschüsse,
-
-
-6.  Änderung der Satzung.
-
-
-
-
-
-#### § 410
-
--
-
-
-#### § 411
-
-(1) Jede Kasse kann mit dem Schluß des Geschäftsjahrs aus dem Verband
-ausscheiden, wenn sie es spätestens sechs Monate zuvor bei dem
-Vorstand beantragt hat.
-
-(2) Die beteiligten Vertreterversammlungen können den Verband durch
-übereinstimmenden Beschluß auflösen.
-
-(3) Für die zur Zeit des Ausscheidens bestehenden Verbindlichkeiten
-des Kassenverbands haftet die ausgeschiedene Kasse wie ein
-Gesamtschuldner. Die Ansprüche gegen die Kasse aus diesen
-Verbindlichkeiten verjähren in zwei Jahren nach dem Ausscheiden,
-sofern nicht der Anspruch gegen den Kassenverband einer kürzeren
-Verjährung unterliegt; wird der Anspruch gegen den Kassenverband erst
-nach dem Ausscheiden fällig, so beginnt die Verjährung mit dem
-Zeitpunkt der Fälligkeit.
-
-
-#### § 412
-
-(1) Bei Ausscheiden einer Kasse oder Auflösung des Verbands erhält von
-seinem Reinvermögen jede ausscheidende Kasse den Anteil, der für das
-letzte Geschäftsjahr dem Verhältnis ihrer Beiträge zu den
-Gesamtbeiträgen an den Verband entspricht. Ergibt sich ein Fehlbetrag,
-so hat jede ausscheidende Kasse nach demselben Verhältnis
-zuzuschießen.
-
-(2) Durch die Satzung oder durch Übereinkommen kann anderes bestimmt
-werden.
-
-
-#### § 413
-
-(1) Die Aufsicht über den Verband führt die für die Sozialversicherung
-zuständige oberste Verwaltungsbehörde des Landes oder die nach
-Landesrecht bestimmte sonstige Behörde.
-
-(2) Für die Angestellten des Verbandes gelten die §§ 349 bis 358 und
-360 entsprechend. Für die Prüfung der Geschäfts-, Rechnungs- und
-Betriebsführung gilt § 274 des Fünften Buches Sozialgesetzbuch
-entsprechend.
-
-(3)
 
 
 #### (XXXX) §§ 414 und 414a (weggefallen)

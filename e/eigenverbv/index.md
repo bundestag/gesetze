@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1974, 3701
 
 Zuletzt geändert durch
-:   Art. 397 V v. 31.10.2006 I 2407
+:   Art. 323 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -51,7 +51,7 @@ vermindert um die in den §§ 3 bis 7 genannten Abschläge. Maßgebend ist
 jeweils der Durchschnittserlös des vorletzten Kalenderjahres.
 
 (2) Der Durchschnittserlös je Kilowattstunde nach Absatz 1 wird durch
-das Bundesministerium für Wirtschaft und Technologie jeweils für ein
+das Bundesministerium für Wirtschaft und Energie jeweils für ein
 Kalenderjahr ermittelt und im Bundesanzeiger veröffentlicht. Bei der
 Berechnung des Durchschnittserlöses bleibt die Lieferung von
 Einphasen-Fahrstrom an Eisenbahnen des Bundes außer Betracht.

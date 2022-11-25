@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 508
 
+Geändert durch
+:   Art. 1 V v. 30.7.2014 I 1314
+
 
 ## Eingangsformel
 
@@ -149,31 +152,63 @@ von –60° geographischer Breite)
 Nordpolarer Teil der Arktis (alle Gebiete nördlich von 84°
 geographischer Breite)
 
-(zu § 2 Abs. 2 Nr. 2 Buchstabe a)
+(zu § 2 Absatz 2 Nummer 2 Buchstabe a)
 
 ## Anlage 3 Gebietsnegativliste
 
-( Fundstelle: BGBl. I 2008, 509 )
+(Fundstelle: BGBl. I 2013, 1314)
+
 Staatsgebiet Afghanistan
+
 Staatsgebiet Armenien
+
 Staatsgebiet Aserbaidschan
+
 Staatsgebiet Äthiopien
-Staatsgebiet Bahrain
+
 Staatsgebiet Bosnien-Herzegowina
+
 Staatsgebiet Dschibuti
+
 Staatsgebiet Eritrea
+
 Staatsgebiet Georgien
+
 Staatsgebiet Irak
+
 Staatsgebiet Israel und palästinensische Autonomiegebiete
-Staatsgebiet Kongo
+
+Demokratische Republik Kongo
+
 Kosovo/UNMIK (VN-Resolution 1244 (1999))
+
 Staatsgebiet Libanon
+
+Staatsgebiet Mali
+
 Staatsgebiet Republik Moldau
+
+Staatsgebiet Senegal
+
 Staatsgebiet Somalia
+
 Staatsgebiet Sudan
+
+Staatsgebiet Südsudan
+
+Staatsgebiet Syrien
+
 Staatsgebiet Tschad
+
+Staatsgebiet Ukraine
+
 Staatsgebiet Usbekistan
+
 Westsahara
+
+Staatsgebiet Zentralafrikanische Republik
+
+Staatsgebiet Zypern
 
 (zu § 2 Abs. 2 Nr. 2 Buchstabe b)
 

@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1963, 1013
 
-Neugefaßt durch
+Neugefasst durch
 :   Bek. v. 21.5.1979 I 564,
 
 Zuletzt geändert durch

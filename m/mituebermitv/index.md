@@ -767,15 +767,15 @@ Chlorodibenzofuran                           CB = Chlorobiphenyl
 
 
 
-b)
-Konzentrationsobergrenzen: Konzentrationsobergrenzen werden unter der
-Annahme berechnet, dass sämtliche Werte der einzelnen Kongenere, die
-unter der Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
+b)                                Konzentrationsobergrenzen:
+Konzentrationsobergrenzen werden unter der Annahme berechnet, dass
+sämtliche Werte der einzelnen Kongenere, die unter der
+Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
 
 
-c)                                                   Im Fall des § 1
-Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten
-(BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
+c)                                Im Fall des § 1 Satz 2 sind die
+Konzentrationen in Biologischen Toxizitätsäquivalenten (BEQ)
+anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
 ermittelt worden sind.
 
 
@@ -1357,15 +1357,15 @@ Chlorodibenzofuran                           CB = Chlorobiphenyl
 
 
 
-b)
-Konzentrationsobergrenzen: Konzentrationsobergrenzen werden unter der
-Annahme berechnet, dass sämtliche Werte der einzelnen Kongenere, die
-unter der Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
+b)                                Konzentrationsobergrenzen:
+Konzentrationsobergrenzen werden unter der Annahme berechnet, dass
+sämtliche Werte der einzelnen Kongenere, die unter der
+Bestimmungsgrenze liegen, gleich der Bestimmungsgrenze sind.
 
 
-c)                                                   Im Fall des § 1
-Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten
-(BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
+c)                                Im Fall des § 1 Satz 2 sind die
+Konzentrationen in Biologischen Toxizitätsäquivalenten (BEQ)
+anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
 ermittelt worden sind.
 
 

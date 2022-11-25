@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 135
 
 Zuletzt geändert durch
-:   Art. 31 G v. 17.12.2008 I 2586
+:   Art. 4 G v. 11.10.2016 I 2222
 
 
 ## § 1
@@ -179,15 +179,17 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit bestimmen.
 
 ## § 13
 
--
+Soweit die Vorschriften der Zivilprozessordnung auf Sachverständige,
+die zum Zweck der Festsetzung des Verkehrswertes nach § 74a Absatz 5
+des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung
+angehört werden, entsprechend anzuwenden sind, ist deren bis zum 15.
+Oktober 2016 geltende Fassung weiterhin maßgeblich.
 
 
-## § 14
-
--
+## § 14 (weggefallen)
 
 
-## § 15
 
--
+## § 15 (weggefallen)
+
 

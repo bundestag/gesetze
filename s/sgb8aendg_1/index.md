@@ -23,7 +23,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## (XXXX) Art 1 bis 4
+## (XXXX) Art 1 bis 4 (Änderungsvorschriften)
 
 
 
@@ -55,5 +55,5 @@ Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 1991 in Kraft. Im übrigen tritt dieses Gesetz am 1. April 1993 in
 Kraft.
 
-(2)
+(2) (Änderungsvorschrift)
 

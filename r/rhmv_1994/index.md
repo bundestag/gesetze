@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln,
-  Düngemitteln und sonstigen Mitteln in oder auf Lebensmitteln
+Title: Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln
+  in oder auf Lebensmitteln
 jurabk: RHmV 1994
 layout: default
 origslug: rhmv_1994
@@ -8,7 +8,7 @@ slug: rhmv_1994
 
 ---
 
-# Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln, Düngemitteln und sonstigen Mitteln in oder auf Lebensmitteln (RHmV 1994)
+# Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln (RHmV 1994)
 
 Ausfertigungsdatum
 :   1994-09-01
@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 21.10.1999 I 2082; 2002, 1004;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 19.3.2010 I 286
+:   Art. 1 V v. 16.7.2020 I 1699
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien des Rates
 der Europäischen Gemeinschaften:
@@ -118,11 +118,12 @@ Kilogramm Lebensmittel der Anlage 4 wird festgesetzt für
 
 
 
-Satz 1 Nr. 2 ist nur anzuwenden, soweit andere Rechtsvorschriften für
-den betreffenden Stoff keine abweichende Regelung enthalten. Die
-Bezugsgrößen der Lebensmittel werden nach Maßgabe der Anlage 4 Liste A
-Spalte 3 und Liste B Spalte 3 bestimmt. Absatz 3 Satz 1 gilt
-entsprechend.
+Von Satz 1 Nummer 2 Buchstabe b ausgenommen sind die Stoffe
+Diethyltoluamid (DEET) und Icaridin. Satz 1 Nr. 2 ist nur anzuwenden,
+soweit andere Rechtsvorschriften für den betreffenden Stoff keine
+abweichende Regelung enthalten. Die Bezugsgrößen der Lebensmittel
+werden nach Maßgabe der Anlage 4 Liste A Spalte 3 und Liste B Spalte 3
+bestimmt. Absatz 3 Satz 1 gilt entsprechend.
 
 (5) Endet die Zulassung eines Pflanzenschutzmittels im Sinne des
 Pflanzenschutzgesetzes, bei dessen Zulassung die Anwendung bei

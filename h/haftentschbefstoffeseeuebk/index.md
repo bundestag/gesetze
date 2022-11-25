@@ -13,3 +13,6 @@ slug: haftentschbefstoffeseeuebk
 Ausfertigungsdatum
 :   1996-05-03
 
+Fundstelle
+:   BGBl II: 2021, 685
+

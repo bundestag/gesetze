@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 366
 
+Zuletzt geändert durch
+:   Art. 24 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -261,8 +264,9 @@ sorgen, dass die Einstellungsbehörde folgende Unterlagen erhält:
     dem auch zur Beamtendiensttauglichkeit Stellung genommen wird,
 
 
-2.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+2.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 3.  ein Führungszeugnis nach § 30 Absatz 5 des
@@ -590,8 +594,8 @@ sicher. Die Ausbildungsbeauftragten beraten die Referendarinnen und
 Referendare sowie die Ausbilderinnen und Ausbilder in Fragen der
 Ausbildung und führen Besprechungen mit ihnen durch. Die Besprechungen
 finden zu Beginn, in der Mitte und am Ende der Zuweisung zu einer
-Ausbildungsstelle sowie bei Bedarf statt; sie sind schriftlich zu
-dokumentieren.
+Ausbildungsstelle sowie bei Bedarf statt; sie sind schriftlich oder
+elektronisch zu dokumentieren.
 
 (4) Die Ausbildungsbeauftragten stellen vor Beginn der praktischen
 Ausbildung für jede Referendarin und jeden Referendar einen
@@ -821,7 +825,7 @@ Einstellungsbehörde zu. Diese übergibt die Aufgaben der
 aufsichtführenden Person. Die aufsichtführende Person hat die
 Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit
 sowie in Anspruch genommene Prüfungserleichterungen und etwaige
-besondere Vorkommnisse schriftlich zu dokumentieren.
+besondere Vorkommnisse schriftlich oder elektronisch zu dokumentieren.
 
 (6) Die Aufsichtsarbeiten werden anstelle des Namens mit einer
 Kennziffer versehen. Es wird eine Übersicht mit der Zuordnung der
@@ -867,10 +871,10 @@ Ausbildungsleitung Themenwünsche äußern.
 (3) Die Praxisarbeit ist innerhalb von sechs Wochen nach Aushändigung
 des Themas anzufertigen und beim Oberprüfungsamt im Original
 einzureichen. Liegen triftige Gründe vor, kann die Direktorin oder der
-Direktor des Oberprüfungsamts die Frist auf schriftlichen Antrag um
-höchstens drei Wochen verlängern. Der Antrag ist unverzüglich auf dem
-Dienstweg beim Oberprüfungsamt zu stellen. Die Einstellungsbehörde
-nimmt zu dem Antrag Stellung.
+Direktor des Oberprüfungsamts die Frist auf schriftlichen oder
+elektronischen Antrag um höchstens drei Wochen verlängern. Der Antrag
+ist unverzüglich auf dem Dienstweg beim Oberprüfungsamt zu stellen.
+Die Einstellungsbehörde nimmt zu dem Antrag Stellung.
 
 (4) Die Praxisarbeit ist ohne fremde Hilfe anzufertigen; alle
 benutzten Quellen und Hilfsmittel sind anzugeben. In einer Erklärung,
@@ -947,7 +951,7 @@ auszudrücken. Dafür wird die Summe der Rangpunkte durch die Anzahl der
 Einzelbewertungen geteilt.
 
 (7) Die Mitglieder der Prüfungskommission haben den Ablauf der Prüfung
-schriftlich zu dokumentieren.
+schriftlich oder elektronisch zu dokumentieren.
 
 
 ### § 27 Verhinderung, Rücktritt, Säumnis
@@ -1226,8 +1230,8 @@ aufgerundet; im Übrigen bleiben Nachkommawerte unberücksichtigt.
 Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten
 Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-(4) Das Gesamtergebnis der Großen Staatsprüfung ist schriftlich zu
-dokumentieren.
+(4) Das Gesamtergebnis der Großen Staatsprüfung ist schriftlich oder
+elektronisch zu dokumentieren.
 
 
 ### § 31 Zeugnisse, Ende des Beamtenverhältnisses

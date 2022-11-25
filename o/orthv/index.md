@@ -19,6 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 13.12.2007 I 2904
 
+V aufgeh. durch
+:   Art. 58 Nr. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 ## Eingangsformel
 

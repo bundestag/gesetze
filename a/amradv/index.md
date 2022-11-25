@@ -16,8 +16,18 @@ Fundstelle
 :   BGBl I: 1987, 502
 
 Neugefasst durch
-:   Bek. v. 19.1.2007 I 48
+:   Bek. v. 19.1.2007 I 48;
 
+Zuletzt geändert durch
+:   Art. 5 V v. 29.11.2018 I 2034; 2021 I 5261
+
+Mittelbare änderung durch
+:   Art. 3 Nr. 1a G v. 9.8.2019 I 1202 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 4 Nr. 3 G v. 27.9.2021 I 4530 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand: Berichtigung vom 21.12.2021 I 5261 (Nr. 86) ist berücksichtigt
 
 ## § 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
 
@@ -103,9 +113,11 @@ Modifizierung von Bestandteilen verwendet worden sind, wenn
     auf die Behandlung mit ionisierenden Strahlen zur Verminderung der
     Keimzahl oder zur Inaktivierung von Blutbestandteilen oder
     Tumormaterial oder zur Modifizierung von Bestandteilen nach § 25 Abs.
-    1 des Arzneimittelgesetzes zugelassen worden sind oder nach § 21 Abs.
-    2 Nr. 1a, 1b, 1c, 2, 5 oder 6 des Arzneimittelgesetzes ohne Zulassung
-    in den Verkehr gebracht werden dürfen.
+    1 des Arzneimittelgesetzes zugelassen oder nach § 4b Absatz 3 des
+    Arzneimittelgesetzes oder § 21a Absatz 1 des Arzneimittelgesetzes
+    genehmigt worden sind oder nach § 21 Abs. 2 Nr. 1a, 1b, 1c, 2, 5 oder
+    6 des Arzneimittelgesetzes ohne Zulassung in den Verkehr gebracht
+    werden dürfen.
 
 
 
@@ -219,26 +231,24 @@ findet keine Anwendung auf Arzneimittel nach Absatz 1 Satz 2 und 3.
 
 ## § 3 Kennzeichnung, Packungsbeilage, Fachinformation
 
-Radioaktive Arzneimittel im Sinne des § 4 Abs. 8 des
+(1) Radioaktive Arzneimittel im Sinne des § 4 Absatz 8 des
 Arzneimittelgesetzes dürfen im Geltungsbereich dieser Verordnung nur
 in den Verkehr gebracht werden, wenn
 
-1.  die Behältnisse und äußeren Umhüllungen gemäß § 68 der
-    Strahlenschutzverordnung vom 20. Juli 2001 (BGBl. I S. 1714, 2002 I S.
-    1459), die zuletzt durch § 3 Abs. 31 des Gesetzes vom 1. September
-    2005 (BGBl. I S. 2618, 2653) geändert worden ist, gekennzeichnet sind;
-    auf den Behältnissen sind Name und Anschrift des Herstellers
-    anzugeben. Anforderungen an radioaktive Arzneimittel und ihre
-    Verpackungen, deren Kennzeichnung und Beförderung mit Straßen-,
-    Schienen-, Magnetbahn-, See- und Luftfahrzeugen nach den
-    internationalen, europäischen und nationalen verkehrsrechtlichen
-    Vorschriften für die Beförderung gefährlicher Güter bleiben unberührt,
+1.  die Behältnisse und äußeren Umhüllungen gemäß den §§ 91 und 92 der
+    Strahlenschutzverordnung gekennzeichnet sind; auf den Behältnissen
+    sind Name und Anschrift des Herstellers anzugeben; Anforderungen an
+    radioaktive Arzneimittel und ihre Verpackungen, deren Kennzeichnung
+    und Beförderung mit Straßen-, Schienen-, Magnetbahn-, See- und
+    Luftfahrzeugen nach den internationalen, europäischen und nationalen
+    verkehrsrechtlichen Vorschriften für die Beförderung gefährlicher
+    Güter bleiben unberührt,
 
 
 2.  auf den Behältnissen und äußeren Umhüllungen die Gesamtaktivität pro
     Behältnis benannt und ein definierter Kalibrierzeitpunkt, auf den sich
     die angegebenen Aktivitäten beziehen, und überdies der
-    Verfallszeitpunkt mit Datum und Uhrzeit angegeben wurde. Die
+    Verfallszeitpunkt mit Datum und Uhrzeit angegeben wurde; die
     Kennzeichnung der Behältnisse hat auch einen Hinweis auf in die
     Packungsbeilage aufgenommene Angaben zum Umgang mit radioaktiven
     Arzneimitteln, deren Entsorgung und, falls notwendig, spezielle
@@ -246,33 +256,50 @@ in den Verkehr gebracht werden, wenn
 
 
 3.  die §§ 10, 11 und 11a des Arzneimittelgesetzes auf radioaktive
-    Arzneimittel, die Arzneimittel im Sinne von § 2 Abs. 1 oder Abs. 2 Nr.
-    1 des Arzneimittelgesetzes sind, entsprechend angewendet wurden. In
-    Packungsbeilagen und Fachinformationen ist den jeweiligen Texten das
-    Strahlenwarnzeichen mit dem Hinweis "Radioaktives Arzneimittel"
-    voranzustellen und
+    Arzneimittel, die Arzneimittel im Sinne von § 2 Absatz 1 oder Absatz 2
+    Nummer 1 des Arzneimittelgesetzes sind, entsprechend angewendet
+    wurden; in Packungsbeilagen und Fachinformationen ist den jeweiligen
+    Texten das Strahlenwarnzeichen mit dem Hinweis „Radioaktives
+    Arzneimittel“ voranzustellen und
 
 
-4.  im Fall von für klinische Prüfungen vorgesehenen radioaktiven
-    Arzneimitteln die Vorschriften der §§ 5 und 6 der GCP-Verordnung vom
-    9\. August 2004 (BGBl. I S. 2081) entsprechend angewandt wurden.
+4.  im Fall von für klinische Prüfungen vorgesehenen Arzneimitteln, die
+    nicht in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 des
+    Europäischen Parlaments und des Rates vom 16. April 2014 über
+    klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
+    Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) fallen, § 5
+    Absatz 1, 2 Satz 1 und 2, Absatz 3 Satz 1, Absatz 4 Satz 1, Absatz 5
+    Satz 1, Absatz 6 Satz 1 und Absatz 7 und § 6 der GCP-Verordnung vom 9.
+    August 2004 (BGBl. I S. 2081), die durch Artikel 13 Absatz 4 des
+    Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer
+    Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) aufgehoben worden
+    ist, in der am Tag vor ihrem Außerkrafttreten geltenden Fassung
+    angewandt werden.
 
 
 
 
+(2) Für klinische Prüfungen bei Menschen vorgesehene radioaktive
+Arzneimittel im Sinne des § 4 Absatz 8 des Arzneimittelgesetzes, die
+in den Anwendungsbereich der Verordnung (EU) Nr. 536/2014 fallen,
+dürfen im Geltungsbereich dieser Verordnung nur in den Verkehr
+gebracht werden, wenn die Vorgaben der Artikel 66 bis 68 in Verbindung
+mit Anhang VI der Verordnung (EU) Nr. 536/2014 in der jeweils
+geltenden Fassung beachtet werden.
 
-## § 4 Verhältnis zur Strahlenschutz- und Röntgenverordnung
 
-Die Vorschriften der Strahlenschutzverordnung und der
-Röntgenverordnung bleiben unberührt.
+## § 4 Verhältnis zum Strahlenschutzgesetz
+
+Die Vorschriften des Strahlenschutzgesetzes und der darauf gestützten
+Rechtsverordnungen bleiben unberührt.
 
 
 ## § 5 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-§ 3 Nr. 1 Satz 1, Nr. 2 oder 4 ein radioaktives Arzneimittel in den
-Verkehr bringt.
+§ 3 Absatz 1 Nummer 1, 2 oder Nummer 4 ein radioaktives Arzneimittel
+in den Verkehr bringt.
 
 
 ## § 6 Übergangsregelung
@@ -295,9 +322,36 @@ Vorschriften entspricht.
 -
 
 
-## § 7 (weggefallen)
+## § 7 Übergangsregelung aus Anlass des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
--
+(1) Für klinische Prüfungen bei Menschen mit Arzneimitteln, die dem
+Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, ist
+diese Verordnung in der bis zum Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre
+weiter anzuwenden, wenn der Antrag auf Genehmigung vor dem Tag des
+Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und 3 des
+Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer
+Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048) gemäß dem
+Sechsten Abschnitt des Arzneimittelgesetzes eingereicht wurde.
+
+(2) Eine klinische Prüfung bei Menschen mit Arzneimitteln, die dem
+Anwendungsbereich der Verordnung (EU) Nr. 536/2014 unterliegen, darf
+nach dieser Verordnung in der bis zum Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung begonnen werden,
+wenn der Antrag auf Genehmigung innerhalb von zwölf Monaten nach dem
+Tag des Inkrafttretens dieser Vorschrift nach Artikel 13 Absatz 2 und
+3 des Vierten Gesetzes zur Änderung arzneimittelrechtlicher und
+anderer Vorschriften vom 20. Dezember 2016 (BGBl. I S. 3048)
+eingereicht wurde. Für die betreffende klinische Prüfung ist diese
+Verordnung in der bis zu dem Tag vor dem Inkrafttreten dieser
+Vorschrift nach Artikel 13 Absatz 2 und 3 des Vierten Gesetzes zur
+Änderung arzneimittelrechtlicher und anderer Vorschriften vom 20.
+Dezember 2016 (BGBl. I S. 3048) geltenden Fassung für drei Jahre
+weiter anzuwenden.
 
 
 ## § 8 (Inkrafttreten)

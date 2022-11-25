@@ -19,6 +19,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2001, 946
 
+Zuletzt geändert durch
+:   Art. 179 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -76,14 +79,15 @@ Bundesrates Vereinbarungen nach folgenden Artikeln des Vertrages vom
 Schweizerischen Eidgenossenschaft über die grenzüberschreitende
 polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
 
-1.  das Bundesministerium des Innern zu Artikel 23 Abs. 6 und 7 sowie, im
-    Einvernehmen mit dem Bundesministerium der Justiz, zu Artikel 49 Abs.
-    2,
+1.  das Bundesministerium des Innern, für Bau und Heimat zu Artikel 23
+    Abs. 6 und 7 sowie, im Einvernehmen mit dem Bundesministerium der
+    Justiz und für Verbraucherschutz, zu Artikel 49 Abs. 2,
 
 
 2.  das Bundesministerium der Finanzen im Einvernehmen mit dem
-    Bundesministerium des Innern und dem Bundesministerium der Justiz zu
-    Artikel 44 Abs. 3.
+    Bundesministerium des Innern, für Bau und Heimat und dem
+    Bundesministerium der Justiz und für Verbraucherschutz zu Artikel 44
+    Abs. 3.
 
 
 

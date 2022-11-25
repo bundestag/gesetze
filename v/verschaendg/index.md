@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 59
 
 Zuletzt geändert durch
-:   Art. 131 G v. 19.4.2006 I 866
+:   Art. 3 Abs. 3 G v. 4.12.2018 I 2257; 2019 I 496
 
 
 ## Art 1 - 
@@ -54,7 +54,8 @@ gelebt hat, Angehöriger eines fremden Staates oder staatenlos war,
 *
     a)  wenn er in diesem Zeitpunkt seinen Wohnsitz oder seinen Aufenthalt im
         Geltungsbereich dieses Gesetzes hatte oder als Angehöriger der
-        ehemaligen deutschen Wehrmacht am letzten Krieg teilgenommen hat, oder
+        ehemaligen deutschen Wehrmacht am letzten Kriege teilgenommen hat,
+        oder
 
 
     b)  wenn der Ehegatte, ein Abkömmling oder ein anderer nach § 16 des
@@ -125,15 +126,13 @@ entsprechend anzuwenden.
 ## § 5
 
 (1) Die öffentlichen Bekanntmachungen sind in den Fällen der §§ 1 bis
-4 statt durch eine Tageszeitung durch ein von dem Bundesminister der
-Justiz zu diesem besonderen Zweck herausgegebenes
-Veröffentlichungsblatt (Verschollenheitsliste) zu veröffentlichen. Das
-Gericht kann anordnen, daß die Bekanntmachung auch in einer
-Tageszeitung oder in anderer Weise veröffentlicht werde. Das Gericht
-übermittelt der Deutschen Dienststelle für die Benachrichtigung der
-nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
-die Entscheidung, durch die das Verfahren rechtskräftig abgeschlossen
-ist.
+4 statt durch eine Tageszeitung durch ein von dem Bundesministerium
+der Justiz und für Verbraucherschutz zu diesem besonderen Zweck
+herausgegebenes Veröffentlichungsblatt (Verschollenheitsliste) zu
+veröffentlichen. Das Gericht kann anordnen, daß die Bekanntmachung
+auch in einer Tageszeitung oder in anderer Weise veröffentlicht werde.
+Das Gericht übermittelt dem Bundesarchiv die Entscheidung, durch die
+das Verfahren rechtskräftig abgeschlossen ist.
 
 (2) Die Aufgebotsfrist des § 21 und die Frist des § 43 des
 Verschollenheitsgesetzes beginnt mit dem Ablauf des Tages der Ausgabe
@@ -189,11 +188,11 @@ im Falle der Todeserklärung entsprechend.
 (weggefallen)
 
 
-## Art 4 - Übergangs- und Schlußvorschriften
-
-
-
 ## (XXXX) §§ 1 und 2
+
+
+
+## Art 4 - Übergangs- und Schlußvorschriften
 
 
 
@@ -219,8 +218,9 @@ eingeführt wird, als Geltungsbereich dieses Gesetzes.
 
 (1)
 
-(2) Der Bundesminister der Justiz wird ermächtigt,
-Verwaltungsvorschriften über die Verschollenheitsliste zu erlassen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, Verwaltungsvorschriften über die Verschollenheitsliste zu
+erlassen.
 
 
 ## § 6

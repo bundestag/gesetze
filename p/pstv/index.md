@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 8 G v. 22.12.2011 I 3044
+:   Art. 3 G v. 3.12.2020 I 2668
+
+Änderung durch
+:   Art. 19 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
 
 
 ## Eingangsformel
@@ -111,8 +114,8 @@ erforderlichen Angaben enthalten.
 (2) Für die elektronische Anzeige einer Geburt oder eines Sterbefalls
 sollen das Datenaustauschformat XPersonenstand und das
 Übertragungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt
-gemachten jeweils gültigen Fassung verwendet werden; § 63 Abs. 3 gilt
-entsprechend.
+gemachten jeweils gültigen Fassung verwendet werden; § 63 Absatz 4
+gilt entsprechend.
 
 
 ### § 7 Zurückstellen der Beurkundung
@@ -129,10 +132,19 @@ nicht beurkundet werden konnte.
 
 ### § 8 Prüfung der Staatsangehörigkeit
 
-(1) Zur Prüfung der deutschen Staatsangehörigkeit ist der
-Personalausweis, der Reisepass, eine Bescheinigung der Meldebehörde
-oder, falls Zweifel bestehen, eine Staatsangehörigkeitsurkunde
-vorzulegen.
+(1) Zur Prüfung der deutschen Staatsangehörigkeit ist Folgendes
+vorzulegen:
+
+1.  der Personalausweis oder der Reisepass oder
+
+
+2.  eine erweiterte Bescheinigung der Meldebehörde, aus der sich die
+    Staatsangehörigkeit ergibt.
+
+
+
+Bestehen danach Zweifel an der deutschen Staatsangehörigkeit, ist eine
+Staatsangehörigkeitsurkunde vorzulegen.
 
 (2) Wer nicht Deutscher ist, muss seine Staatsangehörigkeit durch
 Vorlage eines der folgenden Dokumente nachweisen:
@@ -192,10 +204,8 @@ die den anerkannten technischen Anforderungen an die maschinell
 geführte Verarbeitung von Daten mit hohem Schutzbedarf entsprechen;
 sämtliche technischen und organisatorischen Maßnahmen müssen dem mit
 der dauerhaften Speicherung der Registerdaten verfolgten Zweck
-angemessen Rechnung tragen. Die Anlage zu § 9 des
-Bundesdatenschutzgesetzes gilt entsprechend. Die zu treffenden
-Maßnahmen sind im Betriebs- und Sicherheitskonzept (§ 13) zu
-dokumentieren.
+angemessen Rechnung tragen. Die zu treffenden Maßnahmen sind im
+Betriebs- und Sicherheitskonzept (§ 13) zu dokumentieren.
 
 (2) Insbesondere ist sicherzustellen, dass
 
@@ -341,14 +351,19 @@ Schnittstelle muss gewährleisten, dass
 
 
 
+(4) Das Bundesministerium des Innern, für Bau und Heimat kann eine den
+Voraussetzungen des Absatzes 3 genügende Schnittstellenbeschreibung
+durch Veröffentlichung im Bundesanzeiger für verbindlich anwendbar
+erklären.
+
 
 #### § 12 Herstellererklärung
 
-Für die Erfassung und Verarbeitung der nach dem Gesetz und dieser
-Verordnung zu registrierenden Daten dürfen nur Programme eingesetzt
-werden, für die die Hersteller gegenüber dem Verwender bestätigen,
-dass die für die Registerführung maßgebenden Vorgaben des Gesetzes und
-dieser Verordnung erfüllt werden.
+Für die Verarbeitung der nach dem Gesetz und dieser Verordnung zu
+registrierenden Daten dürfen nur Programme eingesetzt werden, für die
+die Hersteller gegenüber dem Verwender bestätigen, dass die für die
+Registerführung maßgebenden Vorgaben des Gesetzes und dieser
+Verordnung erfüllt werden.
 
 
 #### § 13 Betriebs- und Sicherheitskonzept, Datenverarbeitungssysteme
@@ -395,7 +410,9 @@ Eine höhere Berechtigung schließt eine niedrigere ein.
 (2) Der Leiter des Standesamts legt die Berechtigung und die jeweilige
 Berechtigungsstufe fest. Die Zugriffsberechtigung für ein nach § 67
 des Gesetzes eingerichtetes zentrales Personenstandsregister wird
-durch Rechtsverordnung der Landesregierung geregelt.
+durch Rechtsverordnung der Landesregierung geregelt. Die Ermächtigung
+kann durch Rechtsverordnung auf oberste Landesbehörden übertragen
+werden.
 
 
 ### Abschnitt 2 - Führung der Personenstandsregister
@@ -436,18 +453,25 @@ Standesamts, der Kennzeichnung des jeweiligen Personenstandsregisters
 nach § 15 Abs. 2, der laufenden Eintragsnummer und dem Jahr der
 Erstbeurkundung (Registrierungsdaten) zu versehen. Die Kennzeichnung
 des Personenstandsregisters, die Eintragsnummer und das Jahr der
-Erstbeurkundung bilden die Registernummer. Der erste Haupteintrag
-eines Jahres erhält die Eintragsnummer 1.
+Erstbeurkundung bilden die Registernummer. Der Registernummer wird für
+die Darstellung des Haupteintrags im elektronischen
+Personenstandsregister die Folgenummer „0“ angefügt.
 
-(3) Die Nummer des Standesamts ergibt sich aus dem Verzeichnis der
+(3) Im Fall der Verwendung der Eintragsnummer eines nach § 47 Absatz 4
+des Gesetzes stillgelegten Eintrags sind der Eintragsnummer ein
+Bindestrich und eine fortlaufende Nummer, beginnend mit der Nummer 1,
+anzufügen.
+
+(4) Die Nummer des Standesamts ergibt sich aus dem Verzeichnis der
 statistischen Ämter des Bundes und der Länder.
 
 
 #### § 17 Folgebeurkundungen
 
-Folgebeurkundungen sind, beginnend mit der Nummer 1, fortlaufend zu
-nummerieren. Für die Eintragung, Kennzeichnung, Signierung und
-Speicherung gilt § 16 entsprechend.
+Der Registernummer wird für die Darstellung von Folgebeurkundungen im
+elektronischen Personenstandsregister eine Folgenummer, beginnend mit
+der laufenden Nummer 1 angefügt. Für die Eintragung, Kennzeichnung,
+Signierung und Speicherung gilt § 16 entsprechend.
 
 
 #### § 18 Hinweise
@@ -479,10 +503,10 @@ entsprechende Sicherungsregister zu übernehmen.
 
 (2) Die Übertragung vom Personenstandsregister in das
 Sicherungsregister ist gegen jede unbefugte Benutzung sowie gegen
-Datenverlust zu sichern; § 63 Abs. 2 und 4 gilt entsprechend. Das
-Sicherungsregister ist so einzurichten, dass es bei Beschädigung der
-Anlagen oder der Daten des Personenstandsregisters nicht in
-Mitleidenschaft gezogen wird; die §§ 11 und 12 gelten entsprechend.
+Datenverlust zu sichern. Das Sicherungsregister ist so einzurichten,
+dass es bei Beschädigung der Anlagen oder der Daten des
+Personenstandsregisters nicht in Mitleidenschaft gezogen wird; die §§
+11 und 12 gelten entsprechend.
 
 
 #### § 21 Abschluss der Personenstandsregister
@@ -491,7 +515,9 @@ Die Personenstands- und Sicherungsregister sind vom Standesbeamten
 nach dem letzten Eintrag eines jeden Kalenderjahres mit einem Vermerk
 über die Anzahl der Haupteinträge abzuschließen, der mit seiner
 dauerhaft überprüfbaren qualifizierten elektronischen Signatur zu
-versehen ist.
+versehen ist. In dem Abschlussvermerk sind die im Kalenderjahr nach §
+47 Absatz 4 des Gesetzes stillgelegten Einträge mit der jeweiligen
+Eintragsnummer aufzulisten.
 
 
 #### § 22 Sammelakten
@@ -530,10 +556,7 @@ aus dem hervorgeht, dass das Personenstandsregister anhand des
 Datenbestandes des Sicherungsregisters ordnungsgemäß wiederhergestellt
 wurde.
 
-(2) Gerät das Sicherungsregister ganz oder teilweise in Verlust, ist
-es auf Grund des Personenstandsregisters wiederherzustellen.
-
-(3) Die Wiederherstellung eines ganz oder teilweise in Verlust
+(2) Die Wiederherstellung eines ganz oder teilweise in Verlust
 geratenen Papierregisters kann dadurch erfolgen, dass das
 Sicherungsregister zum Personenstandsregister bestimmt wird. Handelt
 es sich bei dem Papierregister um ein als Heiratseintrag fortgeführtes
@@ -549,31 +572,44 @@ Sicherungsregisters und von Sammelakten an ein Archiv ist durch eine
 übergeben worden ist.
 
 
-#### § 26 Suchverzeichnisse
+#### § 26 Suchfunktion
 
-(1) Für jedes nach § 3 Abs. 1 des Gesetzes zu führende
-Personenstandsregister ist ein Suchverzeichnis anzulegen, das das
-Auffinden eines Personenstandseintrags ermöglicht. Suchkriterien sind
-Standesamt, Registernummer, Familiennamen, Geburtsname, Vornamen, Tag
-der Geburt, Tag der Eheschließung, Tag der Begründung einer
-Lebenspartnerschaft, Todestag und Ereignisort des Personenstandsfalls.
+(1) Die nach § 3 Absatz 1 des Gesetzes zu führenden
+Personenstandsregister sind mit einer Suchfunktion zu versehen, die
+anderen Standesämtern die Feststellung ermöglicht, ob ein
+Personenstandseintrag geführt wird. Suchkriterien sind Daten aus den
+Datenfeldern, die in Anlage 1 zur Verwendung als Suchfeld ausgewiesen
+sind. Als Suchergebnis dürfen nur das Standesamt und die
+Registernummer (§ 16 Absatz 2 Satz 2) des gesuchten Eintrags
+mitgeteilt werden.
 
-(2) Bei elektronischer Führung der Personenstandsregister reicht es
-aus, wenn der Personenstandseintrag über eine Suchfunktion aufgefunden
-werden kann. Ist für einen Personenstandseintrag ein Sperrvermerk nach
-§ 64 des Gesetzes eingetragen, so ist sicherzustellen, dass dies beim
-Suchergebnis angezeigt wird.
-
-(3) Die Suchverzeichnisse sind so einzurichten, dass sie von anderen
-Standesämtern elektronisch eingesehen werden können.
+(2) Für Altregister und Übergangsbeurkundungen, die nicht elektronisch
+nacherfasst worden sind, ist ein Suchverzeichnis zu führen, aus dem
+die Suchanfragen beantwortet werden können; für die Benutzung gilt
+Absatz 1 entsprechend.
 
 
 #### § 27 Verzeichnisse beim Standesamt I in Berlin
 
-Für die beim Standesamt I in Berlin geführten elektronischen
-Verzeichnisse nach § 41 Abs. 2 Satz 3, § 42 Abs. 2 Satz 4, § 43 Abs. 2
-Satz 5 und § 45 Abs. 2 Satz 4 des Gesetzes sowie für die Verzeichnisse
-über Personenstandsfälle im Ausland gilt § 26 entsprechend.
+(1) Für die beim Standesamt I in Berlin geführten elektronischen
+Verzeichnisse nach § 41 Absatz 2 Satz 4, § 42 Absatz 2 Satz 4, § 43
+Absatz 2 Satz 5 und § 45 Absatz 2 Satz 4 des Gesetzes sowie für die
+Verzeichnisse über Personenstandsfälle im Ausland ist ein
+elektronisches Auskunftssystem einzurichten, das das Auffinden eines
+Personenstandseintrags oder einer namensrechtlichen Erklärung
+ermöglicht.
+
+(2) Die Standesämter und die deutschen Auslandsvertretungen dürfen die
+nach Absatz 1 eingerichteten Verzeichnisse einsehen, soweit dies für
+ihre Aufgabenerfüllung erforderlich ist. Zulässige Suchkriterien und
+Ergebnisdaten sind Standesamt, Registernummer, Familiennamen,
+Geburtsname, Vornamen, Tag der Geburt, Tag der Eheschließung, Tag der
+Begründung einer Lebenspartnerschaft, Todestag und Ereignisort des
+Personenstandsfalls.
+
+(3) Für die Suche in dem elektronischen Auskunftssystem wird die vom
+Land Berlin hierfür entwickelte Online-Datenbank des Standesamts I in
+Berlin verwendet.
 
 
 ## Kapitel 3 - Eheschließung
@@ -595,7 +631,9 @@ sie angemeldet worden ist, so prüft das Standesamt, das die Anmeldung
 entgegengenommen hat, ob ein Ehehindernis vorliegt. Liegt ein
 Ehehindernis nicht vor, sind die vollständigen Anmeldeunterlagen mit
 einem Vermerk über das Ergebnis der Prüfung an das Standesamt zu
-senden, bei dem die Ehe geschlossen werden soll.
+senden, bei dem die Ehe geschlossen werden soll. Zusätzlich sollen
+diesem Standesamt die Anmeldedaten der Eheschließenden elektronisch
+übermittelt werden; für die Übermittlung gilt § 63.
 
 
 ### § 29 Eheschließung
@@ -622,14 +660,12 @@ eingerichtet werden, soweit dies im Einzelfall notwendig ist.
 ## Kapitel 4 - Lebenspartnerschaft
 
 
-### § 30 Begründung und Beurkundung der Lebenspartnerschaft
+### § 30 Umwandlung einer Lebenspartnerschaft in eine Ehe
 
-Soweit abweichende landesrechtliche Regelungen bestehen, gehen diese
-vor. Im Übrigen gelten in verfahrensmäßiger Hinsicht (Anmeldung,
-Prüfung der Voraussetzungen und Beurkundung der Begründung einer
-Lebenspartnerschaft) die §§ 28 und 29 entsprechend. Die Niederschrift
-über die Begründung der Lebenspartnerschaft ist mit einem Formular
-nach dem Muster der Anlage 11 zu fertigen; das Formular ist dem
+Für die Umwandlung einer Lebenspartnerschaft in eine Ehe gelten die §§
+28 und 29 entsprechend. Die Niederschrift über die Umwandlung einer
+Lebenspartnerschaft in eine Ehe ist mit einem Formular nach dem Muster
+der Anlage 10 zu fertigen; das Formular ist dem
 Beurkundungssachverhalt anzupassen und kann programmgerecht
 eingerichtet werden, soweit dies im Einzelfall notwendig ist.
 
@@ -644,19 +680,29 @@ Scheidung vom Mutterleib entweder das Herz geschlagen oder die
 Nabelschnur pulsiert oder die natürliche Lungenatmung eingesetzt hat.
 
 (2) Hat sich keines der in Absatz 1 genannten Merkmale des Lebens
-gezeigt, beträgt das Gewicht der Leibesfrucht jedoch mindestens 500
-Gramm, gilt sie im Sinne des § 21 Abs. 2 des Gesetzes als ein tot
-geborenes Kind.
+gezeigt, gilt die Leibesfrucht als ein tot geborenes Kind im Sinne des
+§ 21 Absatz 2 des Gesetzes, wenn
 
-(3) Hat sich keines der in Absatz 1 genannten Merkmale des Lebens
-gezeigt und beträgt das Gewicht der Leibesfrucht weniger als 500
-Gramm, handelt es sich um eine Fehlgeburt. Sie wird in den
-Personenstandsregistern nicht beurkundet.
+1.  das Gewicht des Kindes mindestens 500 Gramm beträgt oder
 
-(4) Eine Fehlgeburt ist abweichend von Absatz 3 als ein tot geborenes
-Kind zu beurkunden, wenn sie Teil einer Mehrlingsgeburt ist, bei der
-mindestens ein Kind nach Absatz 1 oder 2 zu beurkunden ist; § 21 Abs.
-2 des Gesetzes gilt entsprechend.
+
+2.  das Gewicht des Kindes unter 500 Gramm beträgt, aber die 24.
+    Schwangerschaftswoche erreicht wurde,
+
+
+
+im Übrigen als Fehlgeburt. Eine Fehlgeburt wird nicht im
+Personenstandsregister beurkundet. Sie kann von einer Person, der bei
+Lebendgeburt die Personensorge zugestanden hätte, dem Standesamt, in
+dessen Zuständigkeitsbereich die Fehlgeburt erfolgte, angezeigt
+werden. In diesem Fall erteilt das Standesamt dem Anzeigenden auf
+Wunsch eine Bescheinigung mit einem Formular nach dem Muster der
+Anlage 11.
+
+(3) Eine Fehlgeburt ist abweichend von Absatz 2 Satz 2 als ein tot
+geborenes Kind zu beurkunden, wenn sie Teil einer Mehrlingsgeburt ist,
+bei der mindestens ein Kind nach Absatz 1 oder 2 zu beurkunden ist; §
+21 Absatz 2 des Gesetzes gilt entsprechend.
 
 
 ### § 32 Geburten in Fahrzeugen
@@ -686,8 +732,10 @@ Regierungsblatt S. 171, Bayerisches Gesetz- und Verordnungsblatt S.
 Wird die Geburt eines Kindes angezeigt, soll das Standesamt verlangen,
 dass ihm folgende Unterlagen vorgelegt werden:
 
-1.  bei miteinander verheirateten Eltern ihre Geburtsurkunden und die
-    Eheurkunde oder ein beglaubigter Ausdruck aus dem Eheregister,
+1.  bei miteinander verheirateten Eltern ihre Eheurkunde oder ein
+    beglaubigter Ausdruck aus dem Eheregister sowie ihre Geburtsurkunden,
+    wenn sich die Registrierungsdaten der Geburt der Eltern nicht aus der
+    Eheurkunde ergeben,
 
 
 2.  bei nicht miteinander verheirateten Eltern die Geburtsurkunde der
@@ -738,16 +786,16 @@ sind die Angaben für beide Elternteile abzufragen.
 
 (3) Das Standesamt prüft, ob das Kind durch die Geburt die deutsche
 Staatsangehörigkeit erworben hat, und vermerkt das Ergebnis der
-Prüfung auf dem Formular nach dem Muster der Anlage 12. Das Formular
-ist nach Eintragung des nach § 21 Abs. 3 des Gesetzes vorgesehenen
-Hinweises im Geburtenregister zu den Sammelakten des Geburtseintrags
-zu nehmen.
+Prüfung auf dem Formular nach dem Muster der Anlage 12 oder in einem
+gesonderten Vermerk. Das Formular oder der gesonderte Vermerk über das
+Ergebnis der Prüfung sind zu den Sammelakten des Geburtseintrags zu
+nehmen.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für den Fall, dass zum
 Geburtseintrag des Kindes eine Folgebeurkundung über die Anerkennung
 oder Feststellung der Vaterschaft oder über die Feststellung des
-Nichtbestehens eines Eltern-Kindverhältnisses nach § 27 Abs. 1, 2 und
-3 Nr. 1 des Gesetzes beurkundet wird.
+Nichtbestehens eines Eltern-Kindverhältnisses nach § 27 Absatz 1 und
+Absatz 3 Nummer 1 des Gesetzes beurkundet wird.
 
 (5) Das Formular nach dem Muster der Anlage 12 ist dem Sachverhalt
 entsprechend anzupassen und kann programmgerecht eingerichtet werden,
@@ -757,12 +805,16 @@ Voraussetzungen vorliegen, gilt für die Übermittlung § 63.
 
 ### § 35 Besonderheiten bei der Beurkundung
 
-Liegen dem Standesamt bei der Beurkundung der Geburt keine geeigneten
-Nachweise zu Angaben über die Eltern des Kindes vor, ist hierüber im
-Geburtseintrag ein erläuternder Zusatz aufzunehmen; § 7 bleibt
-unberührt. Als Personenstandsurkunde darf bis zur Eintragung einer
-ergänzenden Folgebeurkundung zu den Angaben über die Eltern nur ein
-beglaubigter Registerausdruck ausgestellt werden.
+(1) Liegen dem Standesamt bei der Beurkundung der Geburt keine
+geeigneten Nachweise zu Angaben über die Eltern des Kindes vor, ist
+hierüber im Geburtseintrag ein erläuternder Zusatz aufzunehmen; § 7
+bleibt unberührt. Als Personenstandsurkunde darf bis zur Eintragung
+einer ergänzenden Folgebeurkundung zu den Angaben über die Eltern nur
+ein beglaubigter Registerausdruck ausgestellt werden.
+
+(2) Bei Geburt im Inland sind personenstandsrechtliche Änderungen, die
+nach der Geburt, aber vor der Beurkundung wirksam geworden sind, in
+den Haupteintrag aufzunehmen.
 
 
 ### § 36 Fortführung des Geburtenregisters
@@ -789,7 +841,7 @@ Religionsgemeinschaft, so ist auch dies zu vermerken.
 ## Kapitel 6 - Sterbefall
 
 
-### § 37 Sterbefälle in Fahrzeugen, Bergwerken und Gewässern
+### § 37 Sterbefälle in Fahrzeugen, Bergwerken und Gewässern; unbekannter Sterbeort
 
 (1) Einen Sterbefall in einem Landfahrzeug, auf einem Binnenschiff
 oder in einem Luftfahrzeug beurkundet das Standesamt, in dessen Bezirk
@@ -804,10 +856,10 @@ dessen Bezirk der Verstorbene an Land gebracht wird.
 (4) Ist ein Sterbeort nicht feststellbar, so beurkundet das Standesamt
 den Sterbefall, in dessen Bezirk der Verstorbene gefunden wurde.
 
-(5) Ist in den Fällen der Absätze 1 bis 4 der Sterbeort bekannt, so
-ist dieser Ort in die Personenstandsregister einzutragen; ist der
-Sterbeort nicht bekannt, so ist der für die Zuständigkeit maßgebende
-Ort als Sterbeort einzutragen. § 32 Abs. 2 Satz 2 gilt entsprechend.
+(5) Ist der Sterbeort bekannt, so ist dieser Ort in die
+Personenstandsregister einzutragen; ist der Sterbeort nicht bekannt,
+so ist der für die Zuständigkeit maßgebende Ort als Sterbeort
+einzutragen. § 32 Abs. 2 Satz 2 gilt entsprechend.
 
 (6) Das Übereinkommen der Bodenseeuferstaaten über die Beurkundung der
 auf dem Bodensee eintretenden Geburten und Sterbefälle vom 16. März
@@ -826,7 +878,7 @@ ihm
     Auflösung,
 
 
-2.  die Geburtsurkunde, wenn keine Ehe oder Lebenspartnerschaft bestand,
+2.  die Geburtsurkunde,
 
 
 3.  ein Nachweis über den letzten Wohnsitz,
@@ -836,33 +888,23 @@ ihm
 
 
 
-des Verstorbenen vorgelegt wird. Das Standesamt kann die Vorlage
+des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2
+erforderlichen Geburtsurkunde kann verzichtet werden, wenn sich die
+Registrierungsdaten der Geburt des Verstorbenen aus einer Ehe- oder
+Lebenspartnerschaftsurkunde ergeben. Das Standesamt kann die Vorlage
 weiterer Urkunden verlangen, wenn dies zum Nachweis von Angaben
 erforderlich ist.
 
 
-### § 39 Weitere Angaben zum Familienstand des Verstorbenen
-
-(1) War der Verstorbene zum Zeitpunkt des Todes verheiratet, so sind
-die Vornamen und der Familienname des Ehegatten einzutragen; bei einem
-verwitweten Verstorbenen sind die Angaben des letzten Ehegatten
-aufzunehmen.
-
-(2) War die letzte Ehe des Verstorbenen geschieden oder auf andere
-Weise aufgelöst, sind keine Angaben über den früheren Ehegatten
-einzutragen.
-
-(3) Führte der Verstorbene eine Lebenspartnerschaft, gelten die
-Absätze 1 und 2 entsprechend.
+### § 39 (weggefallen)
 
 
 ### § 40 Besonderheiten bei der Beurkundung
 
 (1) Kann der Personenstand eines Verstorbenen nicht ermittelt werden,
-ist der Verstorbene in dem Eintrag als unbekannte männliche Person
-oder als unbekannte weibliche Person zu bezeichnen. Wird der
-Personenstand des Verstorbenen nach der Beurkundung ermittelt, ist der
-Eintrag zu berichtigen.
+ist der Verstorbene in dem Eintrag als unbekannte Person zu
+bezeichnen. Wird der Personenstand des Verstorbenen nach der
+Beurkundung ermittelt, ist der Eintrag zu berichtigen.
 
 (2) Liegen dem Standesamt bei der Beurkundung des Sterbefalls keine
 geeigneten Nachweise zu Angaben über den Verstorbenen vor, gilt § 35
@@ -875,37 +917,86 @@ anzugeben, in dem der Tod eingetreten ist.
 
 ### § 41 Sammlung der Beschlüsse über Todeserklärungen
 
-In die Sammlung der Beschlüsse über Todeserklärungen und gerichtliche
-Feststellung der Todeszeit sind nur Ausfertigungen von rechtskräftigen
-gerichtlichen Entscheidungen aufzunehmen. Aus der Sammlung erteilt das
-Standesamt I in Berlin den nach den §§ 62 bis 66 des Gesetzes
-Berechtigten auf Antrag nur beglaubigte Abschriften der Ausfertigung
-der gerichtlichen Entscheidung; die Glaubhaftmachung eines
-berechtigten Interesses ist ausreichend. Wurde eine in der Sammlung
-enthaltene gerichtliche Entscheidung geändert oder aufgehoben, ist
-auch eine Ausfertigung des Änderungs- oder Aufhebungsbeschlusses als
-beglaubigte Abschrift beizufügen.
+(1) In die Sammlung der Beschlüsse über Todeserklärungen und
+gerichtliche Feststellung der Todeszeit sind nur Ausfertigungen von
+rechtskräftigen gerichtlichen Entscheidungen aufzunehmen. Wurde eine
+in der Sammlung enthaltene gerichtliche Entscheidung geändert oder
+aufgehoben, ist auch eine Ausfertigung des Änderungs- oder
+Aufhebungsbeschlusses aufzunehmen.
+
+(2) Die Sammlung nach Absatz 1 kann elektronisch geführt werden. Die
+elektronische Führung erfolgt durch eine ersetzende Digitalisierung
+der Beschlüsse als Bilddatei. Aus den Beschlüssen können Daten, die
+zur eindeutigen Identifizierung, zum Auffinden eines Beschlusses und
+zur Erstellung einer Bescheinigung nach Absatz 3 erforderlich sind, in
+das elektronische Suchverzeichnis des Standesamts I in Berlin
+übernommen werden.
+
+(3) Aus der Sammlung der Beschlüsse über Todeserklärungen und
+gerichtliche Feststellung der Todeszeit erteilt das Standesamt I in
+Berlin den nach den §§ 62 bis 66 des Gesetzes Berechtigten auf Antrag
+Bescheinigungen oder beglaubigte Abschriften der Ausfertigung der
+gerichtlichen Entscheidung oder beglaubigte Ausdrucke der elektronisch
+gespeicherten gerichtlichen Entscheidung; die Glaubhaftmachung eines
+berechtigten Interesses ist ausreichend.
+
+(4) Die Absätze 2 und 3 sind entsprechend für das bis zum 31. Dezember
+2008 geführte Buch für Todeserklärungen anzuwenden.
 
 
 ## Kapitel 7 - Besondere Beurkundungs- und Registervorschriften
 
 
-### § 42 Testamentsverzeichnis
+### § 42 Familienrechtliche Zuordnung im Personenstandseintrag
 
-(1) Das Testamentsverzeichnis ist nicht Bestandteil des
-Geburtenregisters.
+(1) In den Personenstandseinträgen wird den Ehegatten und
+Lebenspartnern, den Eltern des Kindes und dem letzten Ehegatten oder
+Lebenspartner der verstorbenen Person ein Datenfeld für die
+familienrechtliche Bezeichnung zugeordnet. Die Felder erhalten
+fortlaufende Nummern, beginnend mit der Nummer 1. und stellen die
+Verbindung zu den Hinweisen des Registereintrags her.
 
-(2) Stellt das Standesamt bei der Eintragung eines Hinweises im
-Geburtenregister über den Tod, die Todeserklärung oder die
-gerichtliche Feststellung der Todeszeit fest, dass eine
-Verwahrungsnachricht vorliegt, hat es dem Absender der
-Verwahrungsnachricht unverzüglich schriftlich mitzuteilen, dass der
-Erblasser verstorben ist; § 63 gilt entsprechend.
+(2) Im Geburtenregister wird bei der Erstbeurkundung der Geburt der
+Person, die das Kind geboren hat, die Nummer „1.“ zugeordnet und sie
+wird in dem Datenfeld für die familienrechtliche Bezeichnung als
+„Mutter“ eingetragen. Der Person, deren Vaterschaft zu dem Kind nach §
+1592 des Bürgerlichen Gesetzbuches besteht, wird die Nummer „2.“
+zugeordnet und sie wird in dem Datenfeld für die familienrechtliche
+Bezeichnung als „Vater“ eingetragen. Satz 1 gilt auch für Personen,
+die weder dem männlichen noch dem weiblichen Geschlecht zugeordnet
+sind. Satz 2 gilt für Personen, die weder dem männlichen noch dem
+weiblichen Geschlecht zugeordnet sind, nur dann, wenn sich die
+Vaterschaft aus § 1592 Nummer 3 BGB ergibt.
 
-(3) Die Verpflichtung nach Absatz 2 endet für das jeweilige
-Standesamt, soweit die das Zentrale Testamentsregister führende
-Registerbehörde die Mitteilungen über Sterbefälle nach § 4 Absatz 1
-des Testamentsverzeichnis-Überführungsgesetzes bearbeitet.
+(3) Die Annahme eines Kindes wird im Geburtenregister ausschließlich
+in einer Folgebeurkundung dokumentiert, wobei weibliche Annehmende als
+„Mutter“ und männliche Annehmende als „Vater“ in dem Datenfeld für die
+familienrechtliche Bezeichnung eingetragen werden. Soweit annehmende
+Personen weder dem männlichen noch dem weiblichen Geschlecht
+angehören, sind sie als „Elternteil“ zu bezeichnen.
+
+(4) Im Eheregister werden den Ehegatten die Nummern „1.“ und „2.“
+zugeordnet und männliche Personen als „Ehemann“, weibliche Personen
+als „Ehefrau“ in dem Datenfeld für die familienrechtliche Bezeichnung
+eingetragen. Soweit Personen weder dem männlichen noch dem weiblichen
+Geschlecht angehören, sind sie als „Ehepartner“ zu bezeichnen.
+
+(5) Im Lebenspartnerschaftsregister werden den Partnern die Nummern
+„1.“ und „2.“ zugeordnet und männliche Personen als „Lebenspartner“,
+weibliche Personen als „Lebenspartnerin“ in dem Datenfeld für die
+familienrechtliche Bezeichnung eingetragen. Soweit Personen weder dem
+männlichen noch dem weiblichen Geschlecht angehören, sind sie als
+„Lebenspartner“ zu bezeichnen.
+
+(6) Im Sterberegister wird der letzte männliche Ehegatte der
+verstorbenen Person als „Ehemann“ und der letzte weibliche Ehegatte
+als „Ehefrau“ in dem Datenfeld für die familienrechtliche Bezeichnung
+eingetragen. Der letzte männliche Lebenspartner der verstorbenen
+Person wird als „Lebenspartner“ und der letzte weibliche Lebenspartner
+als „Lebenspartnerin“ in dem Datenfeld für die familienrechtliche
+Bezeichnung eingetragen. Soweit Personen weder dem männlichen noch dem
+weiblichen Geschlecht angehören, sind sie als „Ehepartner“ oder
+„Lebenspartner“ zu bezeichnen.
 
 
 ### § 43 Sterbefälle in ehemaligen deutschen Konzentrationslagern
@@ -949,16 +1040,13 @@ Aufenthalt des Verstorbenen nicht im Inland, so beurkundet das
 Standesamt I in Berlin den Sterbefall; Gleiches gilt, wenn der letzte
 Wohnsitz oder gewöhnliche Aufenthalt nicht bekannt ist.
 
-(2) Die Anzeige der Sterbefälle obliegt der Deutschen Dienststelle für
-die Benachrichtigung der nächsten Angehörigen von Gefallenen der
-ehemaligen deutschen Wehrmacht — Deutsche Dienststelle (WASt) —,
-Berlin. Geht der Deutschen Dienststelle (WASt) gleichzeitig eine
-Vielzahl von Daten Verstorbener zu, reicht die Weitergabe dieser Daten
-als Anzeige aus. In diesem Fall erfolgt eine Beurkundung nur dann,
-wenn der Ehegatte des Verstorbenen, ein Vorfahre oder ein Abkömmling
-des Verstorbenen dies beantragt; antragsberechtigt ist auch jede
-andere Person, die ein berechtigtes Interesse an der Beurkundung
-geltend macht.
+(2) Die Anzeige der Sterbefälle obliegt dem Bundesarchiv. Geht dem
+Bundesarchiv gleichzeitig eine Vielzahl von Daten Verstorbener zu,
+reicht die Weitergabe dieser Daten als Anzeige aus. In diesem Fall
+erfolgt eine Beurkundung nur dann, wenn der Ehegatte des Verstorbenen,
+ein Vorfahre oder ein Abkömmling des Verstorbenen dies beantragt;
+antragsberechtigt ist auch jede andere Person, die ein berechtigtes
+Interesse an der Beurkundung geltend macht.
 
 (3) Ist der Sterbefall im Inland eingetreten, kann die Anzeige auch
 von jeder Person erstattet werden, die bei dem Tod zugegen war oder
@@ -995,13 +1083,16 @@ Das Standesamt, das
 
 
 2.  eine Erklärung nach § 94 des Bundesvertriebenengesetzes, § 1 des
-    Minderheiten-Namensänderungsgesetzes oder Artikel 47 des
-    Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat
-    oder
+    Minderheiten-Namensänderungsgesetzes oder Artikel 47, 48 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche entgegengenommen hat,
 
 
-3.  ein Personenstandsregister führt, aus dem sich eine Namensänderung
-    nach Nummer 1 oder Nummer 2 ergibt,
+3.  eine Erklärung zur Reihenfolge der Vornamen nach § 45a des Gesetzes
+    entgegengenommen hat oder
+
+
+4.  ein Personenstandsregister führt, aus dem sich eine Namensänderung
+    nach den Nummern 1 bis 3 ergibt,
 
 
 
@@ -1018,7 +1109,11 @@ Wunsch eine Bescheinigung.
 abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in
 anderen Personenstandsregistern eine Berichtigung vorgenommen werden
 muss. Es teilt dem in Betracht kommenden Standesamt die Berichtigung
-mit.
+mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates
+(§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn
+zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den
+Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung
+des betreffenden Ausländers bestätigt hat.
 
 (2) Hat das Standesamt von Amts wegen auf Grund eines Registereintrags
 eine Mitteilung an eine Behörde, ein Gericht oder eine sonstige
@@ -1027,6 +1122,13 @@ Empfänger die Berichtigung mitzuteilen.
 
 (3) Die Mitteilung erfolgt durch Übersendung eines beglaubigten
 Registerausdrucks oder durch Datenübermittlung nach § 63.
+
+(4) Bei unrichtigen und fehlenden Elementbezeichnungen oder
+familienrechtlichen Bezeichnungen kann die Eintragung nach § 47 Absatz
+1 des Gesetzes durch eine Folgebeurkundung richtig gestellt werden.
+Gleiches gilt auch bei der Fortführung von Hinweisen. Derartige
+Richtigstellungen bedürfen keiner Mitteilung nach den Absätzen 1 und
+2\.
 
 
 ## Kapitel 9 - Personenstandsurkunden, Benutzung der Personenstandsregister, Mitteilungen
@@ -1066,13 +1168,7 @@ sind Drucker zu verwenden, die die Eignung für den Notariatsbereich
 besitzen.
 
 
-#### § 49 Beglaubigte Abschrift aus dem Familienbuch
-
-Zum Nachweis der Geburt eines Kindes, dessen Geburt nicht in einem
-deutschen Personenstandsregister beurkundet ist, kann auf Antrag der
-Eltern oder des Kindes aus dem als Heiratseintrag fortgeführten
-Familienbuch der Eltern eine beglaubigte Abschrift erteilt werden,
-wenn die §§ 63 und 64 des Gesetzes dies nicht ausschließen.
+#### § 49 (weggefallen)
 
 
 #### § 50 Mehrsprachiger Auszug aus dem Personenstandsregister
@@ -1111,7 +1207,10 @@ Abs. 2 des Übereinkommens festgelegt sind.
 Personen, die einen Ehenamen oder einen Lebenspartnerschaftsnamen
 führen, mit diesem Namen einzutragen, gegebenenfalls unter Beifügung
 eines vorangestellten oder angefügten Begleitnamens und unter Hinweis
-auf den Geburtsnamen.
+auf den Geburtsnamen. Bei Personen, die keinen Vor- und Familiennamen
+oder die neben Vor- und Familiennamen weitere Namensbestandteile
+führen, ist der sich aus dem Registereintrag ergebende Name mit allen
+Namensbestandteilen in die Urkunden einzutragen.
 
 (5) In dem mehrsprachigen Auszug aus dem Geburtseintrag (Formblatt A)
 ist Feld 10 durch einen Strich zu sperren.
@@ -1124,8 +1223,8 @@ Feld 11 einzutragen.
 
 (7) In dem mehrsprachigen Auszug aus dem Sterbeeintrag (Formblatt C)
 sind die Felder 7, 12 und 13 durch einen Strich zu sperren. Vor- und
-Familiennamen des früheren Ehegatten oder Lebenspartners sind nur dann
-einzutragen, wenn sich die Angaben aus dem Sterberegister ergeben.
+Familiennamen des früheren Ehegatten sind nur dann einzutragen, wenn
+sich die Angaben aus dem Sterberegister ergeben.
 
 
 #### § 51 Mehrsprachiges Ehefähigkeitszeugnis
@@ -1197,26 +1296,38 @@ Geschwister.
 #### § 54 Benutzung durch ausländische diplomatische und konsularische Vertretungen
 
 Die Benutzung durch ausländische diplomatische oder konsularische
-Vertretungen im Inland nach § 65 Abs. 3 des Gesetzes ist zu versagen,
-wenn dem Standesamt bekannt ist, dass es sich bei der betreffenden
-Person um einen Ausländer handelt,
+Vertretungen im Inland nach § 65 Absatz 3 des Gesetzes ist zu
+versagen, wenn dem Standesamt bekannt ist, dass es sich bei der
+betreffenden Person um einen Ausländer handelt,
 
-1.  der als Asylberechtigter nach Artikel 16a Abs. 1 des Grundgesetzes
-    anerkannt ist, dem die Flüchtlingseigenschaft nach § 3 Abs. 4 des
-    Asylverfahrensgesetzes zuerkannt wurde, bei dem ein Abschiebungsverbot
-    nach § 60 Abs. 2, 3, 5 oder Abs. 7 des Aufenthaltsgesetzes
-    festgestellt wurde oder der um Asyl, Flüchtlingsanerkennung oder die
-    Feststellung eines Abschiebungsverbots nachgesucht hat und über dessen
-    Asylantrag noch nicht rechtskräftig entschieden worden ist, oder
-
-
-2.  der im Besitz einer Aufenthaltserlaubnis nach den §§ 22, 23 oder § 24
-    des Aufenthaltsgesetzes oder einer Niederlassungserlaubnis nach § 26
-    Abs. 4 des Aufenthaltsgesetzes ist.
+1.  der als Asylberechtigter nach Artikel 16a des Grundgesetzes anerkannt
+    ist, dem die Flüchtlingseigenschaft im Sinne des § 3 Absatz 1 des
+    Asylgesetzes oder subsidiärer Schutz im Sinne des § 4 Absatz 1 des
+    Asylgesetzes zuerkannt wurde, bei dem ein Abschiebungsverbot nach § 60
+    Absatz 5 oder Absatz 7 des Aufenthaltsgesetzes festgestellt wurde oder
+    der einen Asylantrag gestellt hat, über den noch nicht bestandskräftig
+    entschieden worden ist, oder bei dem die zuständige Behörde das
+    Bestehen von Abschiebungsverboten im Sinne des § 60 Absatz 5 oder
+    Absatz 7 des Aufenthaltsgesetzes prüft, oder
 
 
+2.  der im Besitz einer Aufenthaltserlaubnis nach den §§ 22, 23, 24, 25
+    Absatz 1, 2 oder 3 des Aufenthaltsgesetzes ist oder der eine
+    Niederlassungserlaubnis nach § 26 Absatz 3 oder Absatz 4 des
+    Aufenthaltsgesetzes besitzt oder der im Besitz einer
+    Aufenthaltserlaubnis nach § 27 Absatz 2 in Verbindung mit § 28 Absatz
+    1 Satz 1 Nummer 1, § 30 oder § 31 des Aufenthaltsgesetzes ist oder der
+    eine Niederlassungserlaubnis für Lebenspartner nach § 9 Absatz 2 in
+    Verbindung mit Absatz 3 Satz 1 des Aufenthaltsgesetzes besitzt oder
+    der eine Aufenthaltserlaubnis für gleichgeschlechtliche Ehegatten nach
+    § 28 Absatz 1 Satz 1 Nummer 1, § 30 oder § 31 des Aufenthaltsgesetzes
+    oder eine Niederlassungserlaubnis für gleichgeschlechtliche Ehegatten
+    nach § 9 Absatz 2 in Verbindung mit Absatz 3 Satz 1 des
+    Aufenthaltsgesetzes besitzt.
 
-Die Versagungsgründe nach § 65 Abs. 3 Satz 2 des Gesetzes bleiben
+
+
+Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben
 unberührt.
 
 
@@ -1243,9 +1354,9 @@ es dies für erforderlich hält.
 1.  dem Standesamt, das den Geburtseintrag für ein Kind führt:
 
     a)  Beurkundungen von Erklärungen über die Anerkennung der Vaterschaft
-        oder der Mutterschaft und über die vormundschaftsgerichtliche
-        Genehmigung einer Anerkennung, Zustimmung oder des Widerrufs solcher
-        Erklärungen,
+        oder der Mutterschaft und über die familien- oder
+        betreuungsgerichtliche Genehmigung einer Anerkennung, Zustimmung oder
+        des Widerrufs solcher Erklärungen,
 
 
     b)  Entscheidungen, durch die das Bestehen oder Nichtbestehen eines
@@ -1254,8 +1365,8 @@ es dies für erforderlich hält.
 
 
     c)  Entscheidungen über die Annahme als Kind oder die Aufhebung eines
-        Annahmeverhältnisses sowie eine dem Vormundschaftsgericht bekannt
-        gewordene Annahme als Kind im Ausland,
+        Annahmeverhältnisses sowie eine dem Familiengericht bekannt gewordene
+        Annahme als Kind im Ausland,
 
 
     d)  Entscheidungen, durch die auf Grund des Transsexuellengesetzes
@@ -1363,44 +1474,7 @@ es dies für erforderlich hält.
 
 
 
-(3) Die Lebenspartnerschaftsbehörde teilt folgende Beurkundungen mit:
-
-1.  dem Standesamt, das die Geburtseinträge für die Lebenspartner führt:
-
-    a)  die Begründung der Lebenspartnerschaft,
-
-
-    b)  die Aufhebung der Lebenspartnerschaft durch gerichtliche Entscheidung,
-
-
-    c)  die Auflösung der Lebenspartnerschaft durch Tod, Todeserklärung oder
-        gerichtliche Feststellung der Todeszeit, wenn der Sterbefall nicht im
-        Inland beurkundet wurde,
-
-
-
-
-
-2.  dem Standesamt, das den Geburtseintrag eines hinterbliebenen
-    Lebenspartners führt, die Auflösung der Lebenspartnerschaft durch Tod,
-    Todeserklärung oder gerichtliche Feststellung der Todeszeit,
-
-
-3.  dem Standesamt, das den Geburtseintrag für ein Kind der Lebenspartner
-    führt:
-
-    a)  die Namensänderung der Lebenspartner, wenn diese sich auf den
-        Kindesnamen erstreckt,
-
-
-    b)  die Erteilung des Lebenspartnerschaftsnamens für ein unverheiratetes
-        Kind eines Lebenspartners.
-
-
-
-
-
-
+(3) (weggefallen)
 
 (4) Das Jugendamt teilt folgende Beurkundungen mit:
 
@@ -1442,8 +1516,9 @@ es dies für erforderlich hält.
         etwa erforderlichen Einwilligungserklärungen,
 
 
-    d)  Erklärungen nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen
-        Gesetzbuche und nach § 94 des Bundesvertriebenengesetzes,
+    d)  Erklärungen nach Artikel 47 oder Artikel 48 des Einführungsgesetzes
+        zum Bürgerlichen Gesetzbuche, § 1 des Minderheiten-
+        Namensänderungsgesetzes und nach § 94 des Bundesvertriebenengesetzes,
 
 
 
@@ -1464,13 +1539,13 @@ es dies für erforderlich hält.
     ist,
 
 
-5.  dem Standesamt am Wohnsitz oder gewöhnlichen Aufenthalt des
-    Erklärenden, wenn der Personenstandsfall, auf den sich die Mitteilung
-    nach Nummer 1 Buchstabe c, Nummer 1 Buchstabe d, Nummer 2 oder Nummer
-    3 bezieht, nicht in einem Personenstandsregister im Inland beurkundet
-    ist; hat der Erklärende keinen Wohnsitz oder gewöhnlichen Aufenthalt
-    im Inland, ist die Mitteilung an das Standesamt I in Berlin zu
-    richten.
+5.  dem Standesamt am Wohnsitz, letzten Wohnsitz oder gewöhnlichen
+    Aufenthalt des Erklärenden, wenn der Personenstandsfall, auf den sich
+    die Mitteilung nach Nummer 1 Buchstabe c, Nummer 1 Buchstabe d, Nummer
+    2 oder Nummer 3 bezieht, nicht in einem Personenstandsregister im
+    Inland beurkundet ist; hat der Erklärende keinen Wohnsitz, keinen
+    letzten Wohnsitz oder keinen gewöhnlichen Aufenthalt im Inland, ist
+    die Mitteilung an das Standesamt I in Berlin zu richten.
 
 
 
@@ -1478,12 +1553,7 @@ es dies für erforderlich hält.
 (6) Für die Mitteilungen der Konsularbeamten der deutschen
 Auslandsvertretungen gilt Absatz 5.
 
-(7) Die nach Landesrecht zuständige Kirchenaustrittsbehörde teilt den
-Austritt einer Person aus einer Religionsgemeinschaft, die
-Körperschaft des öffentlichen Rechts ist, dem Standesamt mit, das das
-Geburtenregister für diese Person führt.
-
-(8) Die Mitteilung soll enthalten:
+(7) Die Mitteilung soll enthalten:
 
 1.  die Registrierungsdaten des Personenstandseintrags, auf den sich die
     Mitteilung bezieht,
@@ -1502,7 +1572,7 @@ Geburtenregister für diese Person führt.
 
 
 
-(9) Mitteilungspflichten an die Standesämter auf Grund anderer
+(8) Mitteilungspflichten an die Standesämter auf Grund anderer
 Rechtsvorschriften und internationaler Vereinbarungen bleiben
 unberührt.
 
@@ -1522,9 +1592,20 @@ unberührt.
 3.  der Meldebehörde,
 
 
-4.  dem Vormundschaftsgericht, wenn das Kind nach dem Tod seines Vaters
-    geboren ist oder es sich um ein Findelkind oder um einen
-    Minderjährigen handelt, dessen Personenstand nicht zu ermitteln ist,
+4.  dem Familiengericht, wenn
+
+    a)  das Kind nach dem Tod seines Vaters geboren ist,
+
+
+    b)  es sich um ein Findelkind oder um einen Minderjährigen handelt, dessen
+        Personenstand nicht zu ermitteln ist, oder
+
+
+    c)  es sich um ein Kind aus einer vertraulichen Geburt nach § 25 Absatz 1
+        des Schwangerschaftskonfliktgesetzes handelt,
+
+
+
 
 
 5.  dem Jugendamt, wenn die Eltern des Kindes nicht miteinander
@@ -1533,7 +1614,17 @@ unberührt.
 
 6.  dem Familiengericht, wenn gemeinsam sorgeberechtigte Eltern, die
     keinen Ehenamen führen, den Geburtsnamen des Kindes nicht binnen eines
-    Monats nach dessen Geburt bestimmt haben.
+    Monats nach dessen Geburt bestimmt haben,
+
+
+7.  dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben, wenn
+    das Kind nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes
+    vertraulich geboren wurde,
+
+
+8.  der Elterngeldstelle, wenn dem Standesamt bekannt wird, dass ein
+    Antrag auf Elterngeld gestellt worden ist, und wenn die
+    antragstellende Person in die Datenübermittlung eingewilligt hat.
 
 
 
@@ -1567,18 +1658,14 @@ mitzuteilen:
     eingetragenen Mann führt,
 
 
-2.  der Meldebehörde,
-
-
-3.  dem Jugendamt, wenn das Kind während bestehender Ehe der Mutter
-    geboren wurde.
+2.  der Meldebehörde.
 
 
 
 
 (4) Das Standesamt, das eine Folgebeurkundung über die Änderung oder
-Angleichung des Namens des Kindes oder die Änderung der Angabe des
-Geschlechts einträgt, hat dies mitzuteilen:
+Angleichung des Namens des Kindes, die Angabe des Geschlechts oder
+eine Vornamensortierung einträgt, hat dies mitzuteilen:
 
 1.  dem Standesamt, das den Ehe- oder Lebenspartnerschaftseintrag für das
     Kind führt,
@@ -1594,7 +1681,12 @@ Geschlechts einträgt, hat dies mitzuteilen:
 
 
 4.  der Meldebehörde, wenn dies nicht bereits von anderer Stelle erfolgt
-    ist.
+    ist,
+
+
+5.  dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben, wenn
+    das Kind nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes
+    vertraulich geboren wurde.
 
 
 
@@ -1603,7 +1695,8 @@ Geschlechts einträgt, hat dies mitzuteilen:
 Kind oder deren Aufhebung einträgt, hat dies mitzuteilen:
 
 1.  dem Standesamt, das die Geburtseinträge für die leiblichen Eltern des
-    Kindes führt,
+    Kindes führt, soweit die Annahme Auswirkungen auf deren Elternschaft
+    hat,
 
 
 2.  dem Standesamt, das die Geburtseinträge für die Annehmenden führt,
@@ -1642,7 +1735,7 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 4.  Registrierungsdaten der empfangenden Stelle,
 
 
-5.  Familienname und Vornamen des Kindes,
+5.  Geburtsname und Vornamen des Kindes,
 
 
 6.  Tag, Ort und Registrierungsdaten der Geburt des Kindes,
@@ -1700,7 +1793,11 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 18. Angaben zur elterlichen Sorge für das Kind,
 
 
-19. Anschriften des Kindes und der Eltern.
+19. Anschriften des Kindes und der Eltern,
+
+
+20. Pseudonym der Mutter im Falle einer vertraulichen Geburt nach § 25
+    Absatz 1 des Schwangerschaftskonfliktgesetzes.
 
 
 
@@ -1708,9 +1805,9 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 
 #### § 58 Mitteilungen bei Beurkundung im Eheregister
 
-(1) Das Standesamt, das die Eheschließung beurkundet, im Falle der
-Nummer 6 die Anmeldung der Eheschließung entgegennimmt, hat dies
-mitzuteilen:
+(1) Das Standesamt, das die Eheschließung oder die Umwandlung einer
+Lebenspartnerschaft in eine Ehe beurkundet, im Falle der Nummer 6 die
+Anmeldung der Eheschließung entgegennimmt, hat dies mitzuteilen:
 
 1.  dem Standesamt, das die Geburtseinträge für die Ehegatten führt,
 
@@ -1730,16 +1827,16 @@ mitzuteilen:
 5.  der Meldebehörde,
 
 
-6.  dem Vormundschaftsgericht, wenn einer der Eheschließenden mit einem
+6.  dem Familiengericht, wenn einer der Eheschließenden mit einem
     anteilsberechtigten minderjährigen oder betreuten Abkömmling in
     fortgesetzter Gütergemeinschaft lebt.
 
 
 
 
-(2) Das Standesamt, das eine Folgebeurkundung über eine Namensänderung
-oder Namensangleichung eines oder beider Ehegatten einträgt, hat dies
-mitzuteilen:
+(2) Das Standesamt, das eine Folgebeurkundung über eine
+Namensänderung, Namensangleichung oder Vornamensortierung eines oder
+beider Ehegatten einträgt, hat dies mitzuteilen:
 
 1.  dem Standesamt, das den Geburtseintrag für den oder die Ehegatten
     führt, wenn sich die Namensänderung auf den Geburtsnamen des oder der
@@ -1764,53 +1861,39 @@ mitzuteilen:
 Scheidung oder das Nichtbestehen der Ehe oder die Aufhebung einer
 solchen Entscheidung einträgt, hat dies mitzuteilen:
 
-1.  dem Standesamt, das den Geburtseintrag für die Ehegatten führt,
-
-
-2.  dem Standesamt, das den Geburtseintrag für ein gemeinsames Kind der
+1.  dem Standesamt, das den Geburtseintrag für ein gemeinsames Kind der
     Ehegatten führt, wenn die Entscheidung Auswirkungen auf den
     Personenstand des Kindes hat,
 
 
-3.  dem Standesamt, das den Ehe- oder Lebenspartnerschaftseintrag der
+2.  dem Standesamt, das den Ehe- oder Lebenspartnerschaftseintrag der
     letzten Ehe oder Lebenspartnerschaft für die Ehegatten führt, wenn das
     Nichtbestehen der Ehe oder die Aufhebung dieser Entscheidung
     festgestellt wurde,
 
 
-4.  der Meldebehörde.
+3.  der Meldebehörde.
 
 
 
 
-(4) Das Standesamt, das eine Folgebeurkundung über den Tod, die
-Todeserklärung, die gerichtliche Feststellung der Todeszeit eines
-Ehegatten oder die Aufhebung eines solchen Beschlusses einträgt, hat
-dies mitzuteilen, wenn der Sterbefall nicht im Inland beurkundet
-worden ist:
+(4) Das Standesamt, das eine Folgebeurkundung über die Auflösung der
+Ehe durch Tod oder über die Todeserklärung, die gerichtliche
+Feststellung der Todeszeit eines Ehegatten oder die Aufhebung eines
+solchen Beschlusses einträgt, hat dies mitzuteilen, wenn der
+Sterbefall nicht im Inland beurkundet worden ist:
 
 1.  dem Standesamt, das den Geburtseintrag für den verstorbenen oder für
     tot erklärten Ehegatten führt,
 
 
-2.  dem Standesamt, das den Geburtseintrag für den hinterbliebenen
-    Ehegatten führt, wenn die Ehe durch die Todeserklärung oder
-    gerichtliche Feststellung der Todeszeit aufgelöst worden ist,
+2.  der Meldebehörde,
 
 
-3.  der Meldebehörde,
+3.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
 
 
-4.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
-
-
-5.  dem Amtsgericht Schöneberg (Hauptverzeichnis für Testamente), wenn der
-    Verstorbene, der das 16. Lebensjahr vollendet hat, nicht im Inland
-    oder vor dem 1. Januar 1977 in dem in Artikel 3 des Einigungsvertrages
-    genannten Gebiet geboren worden ist,
-
-
-6.  der das Zentrale Testamentsregister führenden Registerbehörde.
+4.  der das Zentrale Testamentsregister führenden Registerbehörde.
 
 
 
@@ -1830,7 +1913,8 @@ den Absätzen 1 bis 4 folgende Daten übermitteln:
 4.  Registrierungsdaten der empfangenden Stelle,
 
 
-5.  Familiennamen, Geburtsnamen und Vornamen der Ehegatten,
+5.  Familiennamen, Geburtsnamen und Vornamen sowie das Geschlecht der
+    Ehegatten,
 
 
 6.  Tag, Ort und Registrierungsdaten der Geburt der Ehegatten,
@@ -1883,9 +1967,8 @@ den Absätzen 1 bis 4 folgende Daten übermitteln:
 
 #### § 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister
 
-(1) Das Standesamt, das die Begründung der Lebenspartnerschaft
-beurkundet, im Falle der Nummer 5 die Anmeldung der Begründung einer
-Lebenspartnerschaft entgegennimmt, hat dies mitzuteilen:
+(1) Das Standesamt, das die Begründung einer Lebenspartnerschaft nach
+§ 35 des Gesetzes beurkundet, hat dies mitzuteilen:
 
 1.  dem Standesamt, das die Geburtseinträge für die Lebenspartner führt,
 
@@ -1894,22 +1977,17 @@ Lebenspartnerschaft entgegennimmt, hat dies mitzuteilen:
     letzten Ehe oder Lebenspartnerschaft für die Lebenspartner führt,
 
 
-3.  dem Standesamt I in Berlin, wenn die Lebenspartnerschaft im Ausland
-    begründet worden ist,
+3.  dem Standesamt I in Berlin,
 
 
-4.  der Meldebehörde,
-
-
-5.  dem Vormundschaftsgericht, wenn einer der Lebenspartner mit einem
-    Abkömmling in fortgesetzter Gütergemeinschaft lebt.
+4.  der Meldebehörde.
 
 
 
 
-(2) Das Standesamt, das eine Folgebeurkundung über eine Namensänderung
-oder Namensangleichung eines Lebenspartners einträgt, hat dies
-mitzuteilen:
+(2) Das Standesamt, das eine Folgebeurkundung über eine
+Namensänderung, Namensangleichung oder Vornamensortierung eines oder
+beider Lebenspartner einträgt, hat dies mitzuteilen:
 
 1.  dem Standesamt, das den Geburtseintrag für den Lebenspartner führt,
     wenn sich die Namensänderung auf den Geburtsnamen des Lebenspartners
@@ -1932,42 +2010,25 @@ mitzuteilen:
 
 
 (3) Das Standesamt, das eine Folgebeurkundung über die Aufhebung der
-Lebenspartnerschaft einträgt, hat dies mitzuteilen:
-
-1.  dem Standesamt, das den Geburtseintrag für die Lebenspartner führt,
-
-
-2.  der Meldebehörde.
-
-
-
+Lebenspartnerschaft einträgt, hat dies der Meldebehörde mitzuteilen.
 
 (4) Das Standesamt, das eine Folgebeurkundung über die Auflösung der
-Lebenspartnerschaft durch Tod, Todeserklärung oder gerichtliche
-Feststellung der Todeszeit einträgt, hat dies mitzuteilen, wenn der
-Sterbefall nicht im Inland beurkundet worden ist:
+Lebenspartnerschaft durch Tod oder über die Todeserklärung, die
+gerichtliche Feststellung der Todeszeit eines Lebenspartners oder die
+Aufhebung eines solchen Beschlusses einträgt, hat dies mitzuteilen,
+wenn der Sterbefall nicht im Inland beurkundet worden ist:
 
 1.  dem Standesamt, das den Geburtseintrag für den verstorbenen oder für
     tot erklärten Lebenspartner führt,
 
 
-2.  dem Standesamt, das den Geburtseintrag für den hinterbliebenen
-    Lebenspartner führt,
+2.  der Meldebehörde,
 
 
-3.  der Meldebehörde,
+3.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
 
 
-4.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
-
-
-5.  dem Amtsgericht Schöneberg (Hauptverzeichnis für Testamente), wenn der
-    Verstorbene, der das 16. Lebensjahr vollendet hat, nicht im Inland
-    oder vor dem 1. Januar 1977 in dem in Artikel 3 des Einigungsvertrages
-    genannten Gebiet geboren worden ist,
-
-
-6.  der das Zentrale Testamentsregister führenden Registerbehörde.
+4.  der das Zentrale Testamentsregister führenden Registerbehörde.
 
 
 
@@ -1987,7 +2048,8 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 4.  Registrierungsdaten der empfangenden Stelle,
 
 
-5.  Familiennamen, Geburtsnamen und Vornamen der Lebenspartner,
+5.  Familiennamen, Geburtsnamen und Vornamen sowie das Geschlecht der
+    Lebenspartner,
 
 
 6.  Tag, Ort und Registrierungsdaten der Geburt der Lebenspartner,
@@ -2043,42 +2105,33 @@ mitzuteilen:
 
 
 2.  dem Standesamt, das den Ehe- oder Lebenspartnerschaftseintrag für eine
-    zur Zeit des Todes bestehende Ehe oder Lebenspartnerschaft oder für
-    die letzte aufgelöste Ehe oder Lebenspartnerschaft führt,
+    zur Zeit des Todes bestehende Ehe oder Lebenspartnerschaft führt,
 
 
-3.  dem Standesamt, das den Geburtseintrag für den hinterbliebenen
-    Ehegatten oder Lebenspartner führt,
+3.  der Gesundheitsbehörde, soweit dies nach Landesrecht vorgesehen ist,
 
 
-4.  dem Amtsgericht Schöneberg (Hauptverzeichnis für Testamente), wenn der
-    Verstorbene, der das 16. Lebensjahr vollendet hat, nicht im Inland
-    oder vor dem 1. Januar 1977 in dem in Artikel 3 des Einigungsvertrages
-    genannten Gebiet geboren worden ist,
-
-
-5.  dem Standesamt I in Berlin, wenn der Verstorbene zuvor für tot
+4.  dem Standesamt I in Berlin, wenn der Verstorbene zuvor für tot
     erklärt, seine Todeszeit gerichtlich festgestellt worden ist oder er
     nicht im Inland verstorben ist,
 
 
-6.  der Meldebehörde,
+5.  der Meldebehörde,
 
 
-7.  dem Vormundschaftsgericht, wenn der Verstorbene minderjährig und
-    Vollwaise war oder ein minderjähriges Kind hinterlassen hat,
+6.  dem Familiengericht, wenn der Verstorbene minderjährig und Vollwaise
+    war oder ein minderjähriges Kind hinterlassen hat,
 
 
-8.  dem Jugendamt, wenn der Verstorbene minderjährig und Vollwaise war
+7.  dem Jugendamt, wenn der Verstorbene minderjährig und Vollwaise war
     oder ein minderjähriges Kind hinterlassen hat, das durch den
     Sterbefall Vollwaise geworden ist,
 
 
-9.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
+8.  dem für die Veranlagung zur Erbschaftsteuer zuständigen Finanzamt,
 
 
-10. der das Zentrale Testamentsregister führenden Registerbehörde, wenn
-    der Verstorbene das 16. Lebensjahr vollendet hat.
+9.  der das Zentrale Testamentsregister führenden Registerbehörde.
 
 
 
@@ -2092,20 +2145,13 @@ Todeszeit in die dortige Sammlung auf, hat es dies mitzuteilen:
 
 2.  dem Standesamt, das den Ehe- oder Lebenspartnerschaftseintrag für eine
     zur Zeit der Todeserklärung bestehende Ehe oder Lebenspartnerschaft
-    oder für die letzte aufgelöste Ehe oder Lebenspartnerschaft führt,
+    führt,
 
 
-3.  dem Amtsgericht Schöneberg (Hauptverzeichnis für Testamente), wenn der
-    Verstorbene, der das 16. Lebensjahr vollendet hat, nicht im Inland
-    oder vor dem 1. Januar 1977 in dem in Artikel 3 des Einigungsvertrages
-    genannten Gebiet geboren worden ist,
+3.  dem Standesamt, das das Sterberegister des für tot Erklärten führt,
 
 
-4.  dem Standesamt, das das Sterberegister des für tot Erklärten führt,
-
-
-5.  der das Zentrale Testamentsregister führenden Registerbehörde, wenn
-    der Verstorbene das 16. Lebensjahr vollendet hat.
+4.  der das Zentrale Testamentsregister führenden Registerbehörde.
 
 
 
@@ -2125,7 +2171,8 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 4.  Registrierungsdaten der empfangenden Stelle,
 
 
-5.  Familiennamen, Geburtsnamen und Vornamen des Verstorbenen,
+5.  Familiennamen, Geburtsnamen und Vornamen sowie das Geschlecht des
+    Verstorbenen,
 
 
 6.  Tag, Ort und Registrierungsdaten der Geburt des Verstorbenen,
@@ -2188,7 +2235,7 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 Den Statistischen Landesämtern werden aus Anlass der Beurkundung einer
 Geburt, Eheschließung, Begründung der Lebenspartnerschaft und eines
 Sterbefalls die Daten mitgeteilt, die nach § 2 des
-Bevölkerungsstatistikgesetzes zu erheben sind.
+Bevölkerungsstatistikgesetzes zu übermitteln sind.
 
 
 #### § 62 Besonderheiten bei Mitteilungen
@@ -2196,8 +2243,9 @@ Bevölkerungsstatistikgesetzes zu erheben sind.
 (1) Die Mitteilungspflichten des Standesamts nach den §§ 57 bis 61
 gelten entsprechend für ein Standesamt, das
 
-1.  für die Entgegennahme einer familienrechtlichen Erklärung zuständig
-    ist, ohne das entsprechende Personenstandsregister zu führen,
+1.  für die Entgegennahme einer Namenserklärung zuständig ist oder eine
+    familienrechtliche Erklärung beurkundet oder aufbewahrt, wenn der
+    Personenstandsfall nicht im Inland beurkundet worden ist;
 
 
 2.  einen Hinweis über einen im Ausland beurkundeten Personenstandsfall in
@@ -2206,16 +2254,23 @@ gelten entsprechend für ein Standesamt, das
 
 
 
-(2) Ist zu einem Personenstandseintrag ein Sperrvermerk eingetragen,
+(2) Erhält das Standesamt I in Berlin eine Mitteilung über die
+Aufhebung, Scheidung oder das Nichtbestehen einer im Ausland
+geschlossenen Ehe oder die Aufhebung einer solchen Entscheidung,
+bestehen die Mitteilungspflichten nach § 58 Absatz 3 auch dann, wenn
+auf Grund des Fehlens eines Eheeintrags im Standesamt I in Berlin
+keine Folgebeurkundung erfolgt. Entsprechendes gilt für die
+Mitteilungspflicht nach § 59 Absatz 3 bei Aufhebung einer im Ausland
+begründeten Lebenspartnerschaft. Erhält das Standesamt I in Berlin
+eine Mitteilung über einen im Ausland beurkundeten Sterbefall, gelten
+die Mitteilungspflichten nach § 60 Absatz 1 entsprechend.
+
+(3) Ist zu einem Personenstandseintrag ein Sperrvermerk eingetragen,
 hat das Standesamt Mitteilungen gegenüber anderen Stellen, die ihm aus
 Anlass einer standesamtlichen Beurkundung obliegen, für die Zeit der
 Sperre auszusetzen, wenn der mit dem Sperrvermerk verfolgte Zweck dies
 erfordert. Die Mitteilung ist nach Wegfall des Sperrvermerks
 nachzuholen.
-
-(3) Wird das Lebenspartnerschaftsregister bei einer anderen Behörde
-als dem Standesamt geführt, ist die Mitteilung an diese Behörde zu
-senden.
 
 (4) Übermittelt werden dürfen nur die im Einzelfall zur Erfüllung der
 gesetzlichen Aufgaben der empfangenden Stelle erforderlichen Daten.
@@ -2233,23 +2288,26 @@ landesrechtlichen Vorschriften bleiben unberührt.
 Standesämtern und zwischen Standesämtern und anderen Behörden,
 Gerichten und sonstigen öffentlichen Stellen erfolgt unmittelbar oder
 über Vermittlungsstellen in gesicherten Verfahren, die
-Verschlüsselungen nach dem Stand der Technik beinhalten.
+Verschlüsselungen nach dem Stand der Technik beinhalten. Bei der
+Übermittlung von Daten über Vermittlungsstellen bedarf es keiner
+weitergehenden Signatur des absendenden Standesamts.
 
 (2) Die elektronische Übermittlung von Daten zwischen den
 Standesämtern erfolgt durch strukturierte Datensätze. Hierfür sind das
 Datenaustauschformat XPersonenstand und das Übertragungsprotokoll
-OSCI-Transport in der vom Bundesministerium des Innern im
-Bundesanzeiger bekannt gemachten jeweils gültigen Fassung zugrunde zu
-legen. Die Datenübermittlung ist bis zum 31. Dezember 2013 auch in
-papiergebundener Form oder auf automatisiert verarbeitbaren
-Datenträgern zulässig, wenn bei einem Standesamt die Voraussetzungen
-für eine elektronische Datenübermittlung noch nicht vorliegen.
+OSCI-Transport in der vom Bundesministerium des Innern, für Bau und
+Heimat im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung
+zugrunde zu legen.
 
-(3) Zur Erfüllung gesetzlicher Mitteilungspflichten soll die
+(3) Zur Erfüllung gesetzlicher Mitteilungspflichten erfolgt die
 elektronische Datenübermittlung zwischen Standesämtern und anderen
 Behörden, Gerichten und sonstigen öffentlichen Stellen durch
-strukturierte Datensätze in standardisierten Datenaustauschformaten
-erfolgen.
+strukturierte Datensätze in standardisierten Datenaustauschformaten.
+Soweit die technischen Voraussetzungen vorliegen, sind hierfür das
+Datenaustauschformat XPersonenstand und das Übertragungsprotokoll
+OSCI-Transport in der vom Bundesministerium des Innern, für Bau und
+Heimat im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung zu
+verwenden.
 
 (4) Innerhalb von Rechenzentren und in besonders gesicherten
 verwaltungseigenen Netzen kann auf die Verwendung von OSCI-Transport
@@ -2337,14 +2395,14 @@ Folgebeurkundungen einzutragen
 1.  in Spalte 8 über den Tod der Ehegatten, die Todeserklärung oder die
     gerichtliche Feststellung der Todeszeit und die Aufhebung solcher
     Beschlüsse, die Aufhebung oder Scheidung der Ehe sowie die
-    Feststellung des Nichtbestehens der Ehe (§ 16 Abs. 1 Nr. 1 bis 3 des
-    Gesetzes),
+    Feststellung des Nichtbestehens der Ehe (§ 16 Absatz 1 Nummer 1 bis 4
+    des Gesetzes),
 
 
 2.  in Spalte 10 jede Änderung des Namens der Ehegatten und jede sonstige
     Änderung des Personenstands oder der Religionszugehörigkeit, die in
-    das Eheregister einzutragen wäre, sowie Berichtigungen (§ 16 Abs. 1
-    Nr. 4 bis 6 des Gesetzes).
+    das Eheregister einzutragen wäre, sowie Berichtigungen (§ 16 Absatz 1
+    Nummer 5 bis 8 des Gesetzes).
 
 
 
@@ -2367,27 +2425,56 @@ werden kann.
 
 ### § 69 Übernahme in elektronische Personenstandsregister
 
-(1) Werden Übergangsbeurkundungen und Einträge in Altregistern
-elektronisch nacherfasst, gelten die §§ 9, 15 bis 21 und 23 bis 26
-entsprechend. Die einzutragenden Angaben sind wie Neubeurkundungen in
-Haupteintrag, Folgebeurkundungen und Hinweise zu gliedern; der
-jeweilige personenstandsrechtliche Verlauf muss nachvollziehbar sein.
-Daten, die im elektronischen Register nicht vorgesehen sind, bleiben
-unberücksichtigt; eine Nacherhebung fehlender Daten ist nicht
+(1) Bei der elektronischen Erfassung von Altregistern werden
+Registereinträge nach den Mustern der Anlagen 2 bis 5 erstellt. Der
+Sachverhalt ist in die elektronischen Register so zu übernehmen, dass
+der personenstandsrechtliche Verlauf nachvollziehbar ist und die durch
+die ursprüngliche Beurkundung verlautbarten Rechtsverhältnisse auch
+aus dem elektronisch nacherfassten Personenstandseintrag hervorgehen.
+Daten, die in den elektronischen Registern nicht vorgesehen sind,
+werden nicht übernommen. Daten, die im Papierregister nicht vorhanden
+sind, sind sorgfältig unter Beachtung des im Zeitpunkt der Beurkundung
+geltenden Rechts nachzuerheben, wenn sie zur Führung des
+elektronischen Registers erforderlich sind. Die Nacherhebung fehlender
+Daten, die zur Eintragung eines Hinweises führen würden, ist nicht
 erforderlich.
 
-(2) In nacherfasste Einträge sind das Beurkundungsdatum und der Name
-des Standesbeamten aus dem ursprünglichen Eintrag zu übernehmen. Bei
-der Nacherfassung ist ein Protokoll zu erstellen, das das
-Erfassungsdatum und den Namen des Standesbeamten, der die
-Nacherfassung durchführt, enthält.
+(2) Für die elektronisch zu erfassenden Einträge sind
+Registrierungsdaten nach § 16 Absatz 2 zu bilden. Der vorhandenen
+Eintragsnummer sind die Kurzbezeichnung des jeweiligen
+Personenstandsregisters nach § 15 Absatz 2 und das Jahr der
+Erstbeurkundung hinzuzufügen. Weicht die Bezeichnung des Standesamts,
+das die zu erfassende Beurkundung vorgenommen hat, von der Bezeichnung
+des Standesamts ab, das jetzt die elektronische Erfassung vornimmt,
+werden die ursprüngliche Bezeichnung und die Standesamtsnummer
+übernommen; bei nicht vorhandener oder nicht verwendbarer
+Standesamtsnummer wird die Nummer des erfassenden Standesamts um eine
+fortlaufende dreistellige Ziffernfolge (Suffix) ergänzt, die das
+Standesamt einmalig vergibt. Der Name des Standesbeamten aus dem
+ursprünglichen Eintrag wird ohne Funktionsbezeichnung übernommen. Als
+Heiratseinträge fortgeführte Familienbücher im Sinne des § 77 Absatz 2
+Satz 2 des Personenstandsgesetzes werden mit einer nicht belegten
+Eintragsnummer im Eheregister des Jahres nacherfasst, in dem sie
+angelegt wurden.
 
-(3) Beurkundungen nach Absatz 1, die in elektronische Register
-übernommen wurden, sind mit einem Vermerk über die Übernahme zu
-versehen; sie sind danach wie Sammelakten zu behandeln. Beurkundungen
-im Sinne des § 54 des Gesetzes sind nunmehr ausschließlich die im
-elektronischen Personenstandsregister gespeicherten Haupteinträge und
-Folgebeurkundungen.
+(3) Der Standesbeamte, der die elektronische Erfassung durchführt,
+schließt den Eintrag mit seiner dauerhaft überprüfbaren qualifizierten
+elektronischen Signatur ab und speichert ihn in dem entsprechenden
+Personenstandsregister. Beurkundung im Sinne des § 54 des Gesetzes ist
+ab diesem Zeitpunkt ausschließlich der im elektronischen
+Personenstandsregister gespeicherte Eintrag.
+
+(4) Im Übrigen gelten die §§ 9 und 15 bis 20 entsprechend.
+
+(5) Einträge in Altregistern, die in elektronische Register übernommen
+wurden, sind mit einem entsprechenden Vermerk zu versehen; sie sind
+danach wie Sammelakten zu behandeln. Ist der gesamte Band nacherfasst,
+so ist das hierzu geführte Zweitbuch zu vernichten.
+
+(6) Für die Übernahme von Übergangsbeurkundungen nach § 75 des
+Gesetzes in elektronische Register und für die Neubeurkundung von in
+Verlust geratenen Einträgen nach § 8 Absatz 1 des Gesetzes gelten die
+Absätze 1 bis 5 entsprechend.
 
 
 ### § 70 Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
@@ -2396,8 +2483,6 @@ Folgebeurkundungen.
 und Übergangsbeurkundungen gilt § 48 entsprechend. An Stelle
 beglaubigter Registerausdrucke nach § 55 Abs. 1 Nr. 1 des Gesetzes
 werden beglaubigte Abschriften der Personenstandseinträge erteilt.
-Dies gilt auch für die als Heiratseinträge fortzuführenden
-Familienbücher.
 
 (2) Personenstandsurkunden aus Altregistern und Übergangsbeurkundungen
 werden nicht mehr ausgestellt, wenn die Einträge nach § 69 in
@@ -2460,9 +2545,9 @@ in Berlin zuständig. Dabei gelten folgende Besonderheiten:
 
 
 
-(3) Urkunden, Entscheidungen und Mitteilungen zu den in Absatz 1 Nr. 1
-und 2 genannten Einträgen und Registern sind dem Standesamt I in
-Berlin zu übersenden; die Übersendung unterbleibt, wenn die
+(3) Urkunden, Entscheidungen und Mitteilungen zu den in Absatz 1
+Nummer 1 und 3 genannten Einträgen und Registern sind dem Standesamt I
+in Berlin zu übersenden; die Übersendung unterbleibt, wenn die
 Mitteilungen nur zur Eintragung von Hinweisen dienen würden.
 
 
@@ -2525,13 +2610,14 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 Datenfelder in den Personenstandsregistern
 
-(Fundstelle: BGBl. I 2008, 2282 - 2297)
+Fundstelle: BGBl. I 2018, 1770 - 1789)
+
 
 *    *   Nr.
 
     *   Datenfelder
 
-    *   Anmerkungen/Beispiel
+    *   Anmerkungen
 
     *   Verwendung
 
@@ -2547,10 +2633,15 @@ Der Bundesrat hat zugestimmt.
 
     *   **Suchfeld**
 
+    *   **Beschränkung**
+        1
+
 
 *    *
-    *   **Allgemeine Registerangaben für alle Register**
+    *   Allgemeine Registerangaben
+        für alle Register ****
 
+    *
     *
     *
     *
@@ -2568,12 +2659,14 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   0010
 
     *   Standesamtsnummer
 
-    *   z. B. 06412001 für das Standesamt Frankfurt/Main
+    *   z. B. 06412001 für das Standesamt Frankfurt/Main, ggf. ergänzt um ein
+        Suffix für ein verwaltetes Standesamt
 
     *   X
 
@@ -2581,6 +2674,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   0011
 
@@ -2597,12 +2691,15 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   0012
 
     *   Eintragsnummer
 
-    *   z. B. „334“ für die 334. Beurkundung einer Geburt eines Jahres
+    *   z. B. „334“ für die 334. Beurkundung einer Geburt eines Jahres; bei
+        Stilllegung des Eintrags z. B. 334-1 für die erneute Beurkundung zu
+        dieser Eintragsnummer
 
     *   X
 
@@ -2610,28 +2707,32 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   0013
 
     *   Jahr des Eintrags
 
-    *
+    *   Bei Nacherfassung Jahr der ursprünglichen Beurkundung
+
     *   X
 
     *
     *
     *   X
 
+    *
 
 *    *   0014
 
     *   Nummer der Folgebeurkundung
 
-    *   z. B „3“ für die 3. Folgebeurkundung zu einem Haupteintrag
+    *   Beispiel: „3“ für die 3. Folgebeurkundung zu einem Haupteintrag
 
     *
     *   X
 
+    *
     *
     *
 
@@ -2639,12 +2740,14 @@ Der Bundesrat hat zugestimmt.
 
     *   Anlass der Beurkundung
 
-    *   z. B. Adoption, Namensänderung, Vaterschaftsanerkennung, Wiederannahme
+    *   z. B. Geburt, Namensänderung, Vaterschaftsanerkennung, Wiederannahme
         des Geburtsnamens, Berichtigung
 
-    *
     *   X
 
+    *   X
+
+    *
     *
     *
 
@@ -2660,6 +2763,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   0040
 
@@ -2672,17 +2776,32 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   0045
+
+    *   Datum der Stilllegung
+
+    *   Wirksamkeit einer Stilllegung des Personenstandseintrags
+
+    *
+    *
+    *
+    *
+    *   1)
+
 
 *    *   0048
 
-    *[^F771575_01_BJNR226300008BJNE007900000]
-   Sperrvermerk
+    *   Sperrvermerk
 
     *
     *
     *
     *
     *
+    *   1)
+
 
 *    *   0049
 
@@ -2694,6 +2813,8 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *   1)
+
 
 *    *   0050
 
@@ -2704,6 +2825,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -2718,6 +2840,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   0052
 
@@ -2728,6 +2851,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -2743,14 +2867,16 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 
+[^F804512_01_BJNR226300008BJNE007903116]
 
 *    *   Nr.
 
     *   Datenfelder
 
-    *   Anmerkungen/Beispiel
+    *   Anmerkungen
 
     *   Verwendung
 
@@ -2766,10 +2892,14 @@ Der Bundesrat hat zugestimmt.
 
     *   **Suchfeld**
 
+    *   **Beschränkung**
+        1
+
 
 *    *
-    *   **Geburtenregister**
+    *   Geburtenregister ****
 
+    *
     *
     *
     *
@@ -2777,6 +2907,7 @@ Der Bundesrat hat zugestimmt.
     *
 
 *    *
+    *
     *
     *
     *
@@ -2787,6 +2918,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Angaben zur Geburt**
 
+    *
     *
     *
     *
@@ -2805,6 +2937,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1041
 
@@ -2815,6 +2948,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -2830,22 +2964,25 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1051
 
-    *   Ortsteil
+    *   Geburtsort, Ortsteil
+
+    *   Bei landesrechtlicher Vorgabe
+
+    *   X
+
+    *   X
 
     *
-    *   X
-
-    *   X
-
     *
     *
 
 *    *   1052
 
-    *   Straße, Nr.
+    *   Geburtsort, Straße
 
     *
     *   X
@@ -2854,6 +2991,36 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   1053
+
+    *   Geburtsort, Hausnummer
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   1055
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   1057
 
@@ -2866,6 +3033,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   X
+
     *
 
 *    *   1090
@@ -2880,8 +3049,10 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -2897,10 +3068,11 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *   1101
 
-    *   Familienname
+    *   Familienname/Geburtsname
 
     *   Angabe des aktuellen Geburtsnamens des Kindes
 
@@ -2911,6 +3083,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1102
 
@@ -2922,6 +3095,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -2937,6 +3111,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1106
 
@@ -2950,41 +3125,44 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   1119
 
     *   Recht der Namensführung
 
-    *   Verweis auf maßgebliches ausländisches Recht oder auf deutsches Recht
-        bei Rechtswahl
+    *   Verweis auf maßgebliches Recht des Kindes
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1120
 
-    *   Geschlechtszugehörigkeit
+    *   Geschlecht
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
 *    *   1130
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -2999,10 +3177,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1199
 
-    *   Identität nicht nachgewiesen
+    *   Familiennamensführung nicht nachgewiesen
 
     *   Nur bei nicht nachgewiesener Identität der Eltern
 
@@ -3011,23 +3190,60 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Mutter/Annehmende des Kindes**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Angaben zu den Eltern**
 
     *
     *
     *
     *
     *
+    *
+
+*    *
+    *   **1.**
+
+    *   Die Nummer dient der Zuordnung von Hinweisen und Folgebeurkundungen im
+        Registerausdruck und in der Geburtsurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   1200
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Mutter“ oder „Vater“ angegeben werden;
+        bei Folgebeurkundungen sind Personen, die weder dem männlichen noch
+        dem weiblichen Geschlecht angehören, als „Elternteil“ anzugeben,
+        Beispiel: „1. Mutter“
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   4)
+
 
 *    *   1201
 
@@ -3041,6 +3257,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1202
 
@@ -3052,6 +3269,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -3067,6 +3285,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1204
 
@@ -3078,6 +3297,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -3093,6 +3313,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1206
 
@@ -3106,16 +3327,31 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
-*    *   1230
+*    *   1220
 
-    *   Religionszugehörigkeit
+    *   Geschlecht
 
     *
     *   X
 
     *   X
 
+    *
+    *
+    *
+
+*    *   1230
+
+    *   Religion/Weltanschauung
+
+    *
+    *   X
+
+    *   X
+
+    *
     *
     *
 
@@ -3129,6 +3365,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1250
 
@@ -3140,6 +3377,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1255
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1257
 
@@ -3151,6 +3403,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1270
@@ -3164,6 +3417,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1271
 
@@ -3176,17 +3430,19 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1275
 
     *   Registernummer
 
-    *   z. B. G 399/2010
+    *   Beispiel: G 399/2010
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1280
@@ -3198,6 +3454,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1299
@@ -3212,23 +3469,50 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Vater/Annehmender des Kindes**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **2.**
+
+    *   Die Nummer dient der Zuordnung von Hinweisen und Folgebeurkundungen im
+        Registerausdruck und in der Geburtsurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   1300
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Mutter“ oder „Vater“ angegeben werden;
+        bei Folgebeurkundungen sind Personen, die weder dem männlichen noch
+        dem weiblichen Geschlecht angehören, als „Elternteil“ anzugeben,
+        Beispiel: 2. Vater“
+
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   4)
+
 
 *    *   1301
 
@@ -3242,6 +3526,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1302
 
@@ -3253,6 +3538,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -3268,6 +3554,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1304
 
@@ -3279,6 +3566,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -3294,6 +3582,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   1306
 
@@ -3307,16 +3596,31 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
-*    *   1330
+*    *   1320
 
-    *   Religionszugehörigkeit
+    *   Geschlecht
 
     *
     *   X
 
     *   X
 
+    *
+    *
+    *
+
+*    *   1330
+
+    *   Religion/Weltanschauung
+
+    *
+    *   X
+
+    *   X
+
+    *
     *
     *
 
@@ -3330,6 +3634,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1350
 
@@ -3341,6 +3646,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1355
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1357
 
@@ -3352,6 +3672,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1370
@@ -3365,6 +3686,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1371
 
@@ -3377,17 +3699,19 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1375
 
     *   Registernummer
 
-    *   z. B. G 1499/2009
+    *   Beispiel: G 1499/2009
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1380
@@ -3399,6 +3723,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1399
@@ -3413,8 +3738,10 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -3425,6 +3752,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Eheschließung der Eltern**
 
+    *
     *
     *
     *
@@ -3441,6 +3769,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1450
 
@@ -3451,6 +3780,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1457
@@ -3464,6 +3794,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1470
 
@@ -3475,6 +3806,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1471
@@ -3488,20 +3820,23 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1475
 
     *   Registernummer
 
-    *   z. B. E 67/2009
+    *   Beispiel: E 67/2009
 
     *
     *
     *   X
 
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -3512,6 +3847,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Ehe des Kindes**
 
+    *
     *
     *
     *
@@ -3528,6 +3864,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1550
 
@@ -3539,6 +3876,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1555
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1557
 
@@ -3550,6 +3902,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1570
@@ -3563,6 +3916,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1571
 
@@ -3575,30 +3929,34 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1575
 
     *   Registernummer
 
-    *   z. B. E 288/2030
+    *   Beispiel: E 288/2030
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1590
 
     *   Art der Eheauflösung
 
-    *   z. B. Scheidung oder Tod
+    *   Beispiel: Scheidung oder Tod
 
     *
     *
     *   X
 
     *
+    *   3)
+
 
 *    *   1591
 
@@ -3611,6 +3969,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1592
 
@@ -3623,6 +3983,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1593
 
@@ -3635,10 +3997,12 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1595
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
@@ -3646,8 +4010,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *
+    *
     *
     *
     *
@@ -3658,6 +4025,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Lebenspartnerschaft des Kindes**
 
+    *
     *
     *
     *
@@ -3674,6 +4042,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1650
 
@@ -3685,6 +4054,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1655
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1657
 
@@ -3696,6 +4080,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1670
@@ -3709,6 +4094,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1671
 
@@ -3721,30 +4107,34 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1675
 
     *   Registernummer
 
-    *   z. B. L 12/2009
+    *   Beispiel: L 12/2009
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1690
 
     *   Art der Auflösung der Lebenspartnerschaft
 
-    *   z. B. Aufhebung oder Tod
+    *   Beispiel: Aufhebung oder Tod
 
     *
     *
     *   X
 
     *
+    *   3)
+
 
 *    *   1691
 
@@ -3757,6 +4147,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1692
 
@@ -3769,6 +4161,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1693
 
@@ -3781,10 +4175,12 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *   1695
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
@@ -3792,8 +4188,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   3)
+
 
 *    *
+    *
     *
     *
     *
@@ -3804,6 +4203,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Kind des Kindes**
 
+    *
     *
     *
     *
@@ -3821,6 +4221,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1705
 
@@ -3831,6 +4232,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1740
@@ -3843,6 +4245,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1750
 
@@ -3854,6 +4257,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1755
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1757
 
@@ -3865,6 +4283,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1770
@@ -3878,6 +4297,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1771
 
@@ -3890,19 +4310,37 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1775
 
     *   Registernummer
 
-    *
+    *   Beispiel: G 475/2031
+
     *
     *
     *   X
 
     *
+    *
+
+*    *   1790
+
+    *   Art der Geburt
+
+    *   Nur bei Totgeburt
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *
+    *
     *
     *
     *
@@ -3913,6 +4351,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Testamentsverzeichnis**
 
+    *
     *
     *
     *
@@ -3929,6 +4368,8 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   5)
+
 
 *    *
     *
@@ -3937,10 +4378,12 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *
-    *   **Tod des Kindes**
+    *   **Tod, Todeserklärung, Feststellung der Todeszeit des Kindes**
 
+    *
     *
     *
     *
@@ -3951,13 +4394,13 @@ Der Bundesrat hat zugestimmt.
 
     *   Todestag
 
-    *   Datum, das sich aus der Sterbeurkunde oder dem Beschluss über die
-        Todeserklärung ergibt.
+    *   Datum aus Sterbeeintrag
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1942
@@ -3965,12 +4408,14 @@ Der Bundesrat hat zugestimmt.
     *   Sterbezeitraum
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person
+        mit Sicherheit tot war
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   1950
@@ -3983,6 +4428,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1955
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1957
 
@@ -3995,10 +4455,80 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   1960
+
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
+
+    *   Beschlussdatum
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
+
+*    *   1962
+
+    *   Festgestellter Todestag
+
+    *   Datum
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
+
+*    *   1963
+
+    *   Festgestellte Todeszeit
+
+    *   Uhrzeit
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
+
+*    *   1964
+
+    *   Staat
+
+    *   Nur bei Todeserklärung im Ausland
+
+    *
+    *
+    *   X
+
+    *
+    *
+
+*    *   1965
+
+    *   Aufhebung der Todeserklärung
+
+    *   Beschlussdatum
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   1970
 
-    *   Registerbehörde
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -4006,6 +4536,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   1971
@@ -4019,16 +4550,18 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   1975
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
     *
     *   X
 
+    *
     *
 
 
@@ -4037,7 +4570,7 @@ Der Bundesrat hat zugestimmt.
 
     *   Datenfelder
 
-    *   Anmerkungen/Beispiel
+    *   Anmerkungen
 
     *   Verwendung
 
@@ -4053,10 +4586,14 @@ Der Bundesrat hat zugestimmt.
 
     *   **Suchfeld**
 
+    *   **Beschränkung**
+        1
+
 
 *    *
-    *   **Eheregister**
+    *   Eheregister ****
 
+    *
     *
     *
     *
@@ -4064,6 +4601,7 @@ Der Bundesrat hat zugestimmt.
     *
 
 *    *
+    *
     *
     *
     *
@@ -4079,29 +4617,63 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *   2040
 
     *   Tag der Eheschließung
 
-    *
+    *   Ggf. Tag der Umwandlung einer Lebenspartnerschaft in eine Ehe
+
     *   X
 
     *
     *
     *   X
 
+    *
 
 *    *   2050
 
     *   Ort der Eheschließung
 
-    *
+    *   Ggf. Ort der Umwandlung einer Lebenspartnerschaft in eine Ehe
+
     *   X
 
     *
     *
     *   X
+
+    *
+
+*    *   2051
+
+    *   Ort der Eheschließung, Ortsteil
+
+    *   Bei landesrechtlicher Vorgabe
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2055
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *
+    *
+    *
+    *   2)
 
 
 *    *   2057
@@ -4114,16 +4686,6 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
-    *
-
-*    *   2078
-
-    *   Angaben zur Ehenamenswahl
-
-    *   Ehename ist Familienname des Mannes oder der Frau
-
-    *
-    *
     *   X
 
     *
@@ -4135,15 +4697,143 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *
-    *   **Angaben zur Ehefrau**
+    *   **Angaben zur Lebenspartnerschaft bei Umwandlung in eine Ehe**
 
     *
     *
     *
     *
     *
+    *
+
+*    *   2060
+
+    *   Tag der Begründung der Lebenspartnerschaft
+
+    *   Tag der Begründung einer zu dieser Ehe umgewandelten
+        Lebenspartnerschaft
+
+    *   X
+
+    *   X
+
+    *
+    *   X
+
+    *   4)
+
+
+*    *   2070
+
+    *   Registerbehörde
+
+    *   Funktionsbezeichnung
+
+    *
+    *
+    *   X
+
+    *
+    *   4)
+
+
+*    *   2071
+
+    *   Behördenname
+
+    *   Ortsbezeichnung
+
+    *
+    *
+    *   X
+
+    *
+    *   4)
+
+
+*    *   2075
+
+    *   Registernummer
+
+    *
+    *
+    *
+    *   X
+
+    *
+    *   4)
+
+
+*    *   2078
+
+    *   Namensbestimmung
+
+    *   Gemeinsamer Familienname ist Name des Ehegatten zu 1., zu 2. oder
+        Doppelname
+
+    *
+    *
+    *   X
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Angaben zu den Ehegatten**
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **1.**
+
+    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
+        Datenfelder sowie der Hinweise und Folgebeurkundungen im
+        Registerausdruck und in der Eheurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   2100
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden;
+        Personen, die weder dem männlichen noch dem weiblichen Geschlecht
+        angehören, sind als „Ehepartner“ anzugeben,
+        Beispiel: „1. Ehemann“
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   4)
+
 
 *    *   2101
 
@@ -4157,6 +4847,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2102
 
@@ -4168,6 +4859,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -4183,6 +4875,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2104
 
@@ -4196,10 +4889,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2105
 
-    *   Vornamen
+    *   Vornamen (vor Eheschließung)
 
     *
     *   X
@@ -4209,6 +4903,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2106
 
@@ -4222,10 +4917,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2111
 
-    *   Familienname (nach Eheschließung)
+    *   Familienname in der Ehe
 
     *
     *   X
@@ -4235,6 +4931,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2112
 
@@ -4248,13 +4945,13 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2113
 
-    *   Geburtsname (nach Eheschließung)
+    *   Geburtsname in der Ehe
 
-    *   Nur bei Namensangleichung
-
+    *
     *   X
 
     *   X
@@ -4262,6 +4959,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2114
 
@@ -4275,28 +4973,75 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2115
+
+    *   Vornamen in der Ehe
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   2116
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2119
 
     *   Recht der Namensführung
 
-    *   Verweis auf Recht der Ehefrau
+    *   Verweis auf maßgebliches Recht
 
     *
     *
     *   X
 
     *
+    *
+
+*    *   2120
+
+    *   Geschlecht
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2130
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -4312,6 +5057,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2150
 
@@ -4324,6 +5070,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2155
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2157
 
@@ -4335,6 +5097,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -4349,6 +5112,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2171
 
@@ -4361,6 +5125,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2175
 
@@ -4371,6 +5136,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2180
@@ -4383,23 +5149,52 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Angaben zum Ehemann**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **2.**
+
+    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
+        Datenfelder sowie der Hinweise und Folgebeurkundungen im
+        Registerausdruck und in der Eheurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   2200
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden;
+        Personen, die
+        weder dem männlichen noch dem weiblichen Geschlecht angehören, sind
+        als „Ehepartner“ anzugeben,
+        Beispiel: „2. Ehefrau“
+
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   4)
+
 
 *    *   2201
 
@@ -4413,6 +5208,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2202
 
@@ -4424,6 +5220,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -4439,6 +5236,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2204
 
@@ -4452,10 +5250,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2205
 
-    *   Vornamen
+    *   Vornamen (vor Eheschließung)
 
     *
     *   X
@@ -4465,6 +5264,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2206
 
@@ -4478,10 +5278,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2211
 
-    *   Familienname (nach Eheschließung)
+    *   Familienname in der Ehe
 
     *
     *   X
@@ -4491,6 +5292,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2212
 
@@ -4504,13 +5306,13 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2213
 
-    *   Geburtsname (nach Eheschließung)
+    *   Geburtsname in der Ehe
 
-    *   Nur bei Namensangleichung
-
+    *
     *   X
 
     *   X
@@ -4518,6 +5320,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2214
 
@@ -4531,28 +5334,75 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2215
+
+    *   Vornamen in der Ehe
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   2216
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2219
 
     *   Recht der Namensführung
 
-    *   Verweis auf Recht des Ehemannes
+    *   Verweis auf maßgebliches Recht
 
     *
     *
     *   X
 
     *
+    *
+
+*    *   2220
+
+    *   Geschlecht
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2230
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -4568,6 +5418,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   2250
 
@@ -4580,6 +5431,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2255
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2257
 
@@ -4591,6 +5458,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -4605,6 +5473,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2271
 
@@ -4617,6 +5486,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2275
 
@@ -4627,6 +5497,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2280
@@ -4639,18 +5510,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Auflösung der Ehe durch Entscheidung**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Auflösung der Ehe**
+
+    *
     *
     *
     *
@@ -4661,11 +5535,13 @@ Der Bundesrat hat zugestimmt.
 
     *   Art der Eheauflösung
 
-    *   z. B. Scheidung oder Aufhebung
+    *   Beispiel: Scheidung, Aufhebung, Tod, Wiederverheiratung nach
+        Todeserklärung
 
     *
     *   X
 
+    *
     *
     *
 
@@ -4680,6 +5556,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2392
 
@@ -4691,6 +5568,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2393
@@ -4704,6 +5582,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2395
 
@@ -4715,19 +5594,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Tod, Todeserklärung, Feststellung der
-        **Todeszeit der Ehefrau**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 1.**
+
+    *
     *
     *
     *
@@ -4738,10 +5619,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Todestag
 
-    *
+    *   Datum aus Sterbeeintrag
+
     *
     *   X
 
+    *
     *
     *
 
@@ -4750,11 +5633,12 @@ Der Bundesrat hat zugestimmt.
     *   Sterbezeitraum
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person mit Sicherheit tot war
 
     *
     *   X
 
+    *
     *
     *
 
@@ -4768,6 +5652,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2455
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2457
 
@@ -4780,13 +5679,56 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2460
 
-    *   Todeserklärung, Gerichtliche Feststellung der Todeszeit
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2462
+
+    *   Festgestellter Todestag
+
+    *   Datum
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2463
+
+    *   Festgestellte Todeszeit
+
+    *   Uhrzeit
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2464
+
+    *   Staat
+
+    *   Nur bei Todeserklärung im Ausland
+
+    *
     *
     *   X
 
@@ -4797,11 +5739,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Aufhebung der Todeserklärung
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
     *
     *   X
 
+    *
     *
     *
 
@@ -4816,6 +5759,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2471
 
@@ -4828,6 +5772,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2475
 
@@ -4839,19 +5784,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Tod, Todeserklärung, Feststellung der
-        **Todeszeit des Ehemannes**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 2.**
+
+    *
     *
     *
     *
@@ -4862,10 +5809,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Todestag
 
-    *
+    *   Datum aus Sterbeeintrag
+
     *
     *   X
 
+    *
     *
     *
 
@@ -4874,11 +5823,12 @@ Der Bundesrat hat zugestimmt.
     *   Sterbezeitraum
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person mit Sicherheit tot war
 
     *
     *   X
 
+    *
     *
     *
 
@@ -4892,6 +5842,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   2555
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   2557
 
@@ -4904,13 +5869,56 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   2560
 
-    *   Todeserklärung, Gerichtliche Feststellung der Todeszeit
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   2562
+
+    *   Festgestellter Todestag
+
+    *   Datum
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2563
+
+    *   Festgestellte Todeszeit
+
+    *   Uhrzeit
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   2564
+
+    *   Staat
+
+    *   Nur bei Todeserklärung im Ausland
+
+    *
     *
     *   X
 
@@ -4921,11 +5929,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Aufhebung der Todeserklärung
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
     *
     *   X
 
+    *
     *
     *
 
@@ -4940,6 +5949,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2571
 
@@ -4952,6 +5962,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2575
 
@@ -4963,18 +5974,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Wiederverheiratung der Ehefrau**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Ehe zu 1.**
+
+    *
     *
     *
     *
@@ -4991,6 +6005,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2650
 
@@ -5001,6 +6016,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2657
@@ -5014,6 +6030,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2670
 
@@ -5025,6 +6042,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2671
@@ -5038,6 +6056,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2675
 
@@ -5049,18 +6068,12 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Wiederverheiratung des Ehemannes**
+    *   **Neue Ehe zu 2.**
 
+    *
     *
     *
     *
@@ -5077,6 +6090,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2750
 
@@ -5087,6 +6101,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2757
@@ -5100,6 +6115,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2770
 
@@ -5111,6 +6127,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2771
@@ -5124,6 +6141,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2775
 
@@ -5135,18 +6153,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Lebenspartnerschaft der Ehefrau**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Lebenspartnerschaft zu 1.**
+
+    *
     *
     *
     *
@@ -5163,6 +6184,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2850
 
@@ -5173,6 +6195,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2857
@@ -5186,6 +6209,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2870
 
@@ -5197,6 +6221,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2871
@@ -5210,6 +6235,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2875
 
@@ -5221,18 +6247,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Lebenspartnerschaft des Ehemannes**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Lebenspartnerschaft zu 2.**
+
+    *
     *
     *
     *
@@ -5249,6 +6278,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2950
 
@@ -5259,6 +6289,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2957
@@ -5272,6 +6303,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2970
 
@@ -5283,6 +6315,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   2971
@@ -5296,6 +6329,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   2975
 
@@ -5307,6 +6341,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 
 
@@ -5314,7 +6349,7 @@ Der Bundesrat hat zugestimmt.
 
     *   Datenfelder
 
-    *   Anmerkungen/Beispiel
+    *   Anmerkungen
 
     *   Verwendung
 
@@ -5330,10 +6365,15 @@ Der Bundesrat hat zugestimmt.
 
     *   **Suchfeld**
 
+    *   **Beschränkung**
+        1
+
 
 *    *
-    *   **Lebenspartnerschaftsregister**
+    *   Lebenspartnerschafts-
+        register ****
 
+    *
     *
     *
     *
@@ -5341,6 +6381,7 @@ Der Bundesrat hat zugestimmt.
     *
 
 *    *
+    *
     *
     *
     *
@@ -5351,6 +6392,7 @@ Der Bundesrat hat zugestimmt.
 *    *
     *   **Angaben zur Lebenspartnerschaft**
 
+    *
     *
     *
     *
@@ -5368,6 +6410,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3050
 
@@ -5380,6 +6423,36 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
+
+*    *   3051
+
+    *   Ort der Begründung, Ortsteil
+
+    *   Bei landesrechtlicher Vorgabe
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3055
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *
+    *
+    *
+    *   2)
+
 
 *    *   3057
 
@@ -5391,37 +6464,91 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *   X
+
+    *
+
+*    *   3070
+
+    *   Behörde der Begründung
+
+    *   Angabe einer vom Standesamt abweichenden Begründungsbehörde
+
+    *   X
+
+    *
+    *
+    *
     *
 
 *    *   3078
 
-    *   Angaben zur Wahl des Lebenspartnerschaftsnamens
+    *   Namensbestimmung
 
-    *   Lebenspartnerschaftsname ist Familienname des 1. oder 2.
-        Lebenspartners
+    *   Gemeinsamer Familienname ist Name des Lebenspartners zu 1., zu 2. oder
+        Doppelname
 
     *
     *
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Angaben zum 1. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Angaben zu den Lebenspartnern**
 
     *
     *
     *
     *
     *
+    *
+
+*    *
+    *   **1.**
+
+    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
+        Datenfelder sowie der Hinweise und Folgebeurkundungen im
+        Registerausdruck und in der
+        Lebenspartnerschaftsurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   3100
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Lebenspartner“ oder „Lebenspartnerin“
+        angegeben werden; Personen, die weder dem männlichen noch dem
+        weiblichen Geschlecht angehören, sind als „Lebenspartner“ anzugeben,
+        Beispiel: „1. Lebenspartner“
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   4)
+
 
 *    *   3101
 
@@ -5435,6 +6562,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3102
 
@@ -5446,6 +6574,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -5461,6 +6590,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3104
 
@@ -5474,10 +6604,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3105
 
-    *   Vornamen
+    *   Vornamen (vor Begründung)
 
     *
     *   X
@@ -5487,6 +6618,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3106
 
@@ -5500,10 +6632,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3111
 
-    *   Familienname (nach Begründung)
+    *   Familienname in der Lebenspartnerschaft
 
     *
     *   X
@@ -5513,6 +6646,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3112
 
@@ -5526,13 +6660,13 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3113
 
-    *   Geburtsname (nach Begründung)
+    *   Geburtsname in der Lebenspartnerschaft
 
-    *   Nur bei Namensangleichung
-
+    *
     *   X
 
     *   X
@@ -5540,6 +6674,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3114
 
@@ -5553,38 +6688,75 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3115
+
+    *   Vornamen in der Lebenspartnerschaft
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   3116
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3119
 
     *   Recht der Namensführung
 
-    *   Verweis auf Recht des 1. Lebenspartners
+    *   Verweis auf maßgebliches Recht
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   3120
 
-    *   Geschlechtszugehörigkeit
+    *   Geschlecht
+
+    *
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   2)
+
 
 *    *   3130
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -5600,6 +6772,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3150
 
@@ -5612,6 +6785,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3155
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3157
 
@@ -5623,6 +6812,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -5637,6 +6827,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3171
 
@@ -5649,6 +6840,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3175
 
@@ -5659,6 +6851,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3180
@@ -5671,23 +6864,52 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Angaben zum 2. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **2.**
+
+    *   Diese Elementbezeichnung dient der Zuordnung der weiteren
+        Datenfelder sowie der Hinweise und Folgebeurkundungen im
+        Registerausdruck und in der
+        Lebenspartnerschaftsurkunde
+
+    *   X
+
+    *   X
+
+    *   X
+
+    *
+    *   4)
+
+
+*    *   3200
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Lebenspartner“ oder „Lebenspartnerin“
+        angegeben werden; Personen, die weder dem männlichen noch dem
+        weiblichen Geschlecht angehören, sind als „Lebenspartner“ anzugeben,
+        Beispiel: „2. Lebenspartner“
+
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   4)
+
 
 *    *   3201
 
@@ -5701,6 +6923,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3202
 
@@ -5712,6 +6935,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -5727,6 +6951,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3204
 
@@ -5740,10 +6965,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3205
 
-    *   Vornamen
+    *   Vornamen (vor Begründung)
 
     *
     *   X
@@ -5753,6 +6979,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3206
 
@@ -5766,10 +6993,11 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3211
 
-    *   Familienname (nach Begründung)
+    *   Familienname in der Lebenspartnerschaft
 
     *
     *   X
@@ -5779,6 +7007,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3212
 
@@ -5792,13 +7021,13 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3213
 
-    *   Geburtsname (nach Begründung)
+    *   Geburtsname in der Lebenspartnerschaft
 
-    *   Nur bei Namensangleichung
-
+    *
     *   X
 
     *   X
@@ -5806,6 +7035,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3214
 
@@ -5819,38 +7049,75 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3215
+
+    *   Vornamen in der Lebenspartnerschaft
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *   X
+
+    *   2)
+
+
+*    *   3216
+
+    *   Ausländische Namensart
+
+    *   Bezeichnung einer ausländischen Namensform des Vornamens
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3219
 
     *   Recht der Namensführung
 
-    *   Verweis auf Recht des 2. Lebenspartners
+    *   Verweis auf maßgebliches Recht
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   3220
 
-    *   Geschlechtszugehörigkeit
+    *   Geschlecht
+
+    *
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   2)
+
 
 *    *   3230
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -5866,6 +7133,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   3250
 
@@ -5878,6 +7146,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3255
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3257
 
@@ -5889,6 +7173,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -5903,6 +7188,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3271
 
@@ -5915,6 +7201,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3275
 
@@ -5925,6 +7212,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3280
@@ -5937,18 +7225,22 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Auflösung der Lebenspartnerschaft**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   Auflösung oder Umwandlung der
+        **Lebenspartnerschaft in eine Ehe**
+
+    *
     *
     *
     *
@@ -5959,11 +7251,13 @@ Der Bundesrat hat zugestimmt.
 
     *   Art der Auflösung
 
-    *   z. B. Aufhebung
+    *   Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der
+        Todeszeit, Umwandlung in Ehe
 
     *
     *   X
 
+    *
     *
     *
 
@@ -5978,6 +7272,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3392
 
@@ -5989,6 +7284,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3393
@@ -6002,6 +7298,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3395
 
@@ -6013,19 +7310,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Tod, Todeserklärung, Feststellung der
-        **Todeszeit 1. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 1.**
+
+    *
     *
     *
     *
@@ -6036,10 +7335,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Todestag
 
-    *
+    *   Datum aus Sterbeeintrag
+
     *
     *   X
 
+    *
     *
     *
 
@@ -6048,11 +7349,12 @@ Der Bundesrat hat zugestimmt.
     *   Sterbezeitraum
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person mit Sicherheit tot war
 
     *
     *   X
 
+    *
     *
     *
 
@@ -6066,6 +7368,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3455
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3457
 
@@ -6078,13 +7395,56 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3460
 
-    *   Todeserklärung, Gerichtliche Feststellung der Todeszeit
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3462
+
+    *   Festgestellter Todestag
+
+    *   Datum
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3463
+
+    *   Festgestellte Todeszeit
+
+    *   Uhrzeit
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3464
+
+    *   Staat
+
+    *   Nur bei Todeserklärung im Ausland
+
+    *
     *
     *   X
 
@@ -6095,17 +7455,18 @@ Der Bundesrat hat zugestimmt.
 
     *   Aufhebung der Todeserklärung
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
     *
     *   X
 
     *
     *
+    *
 
 *    *   3470
 
-    *   Registerbehörde
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -6113,6 +7474,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3471
@@ -6126,10 +7488,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3475
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
@@ -6137,19 +7500,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Tod, Todeserklärung, Feststellung der
-        **Todeszeit 2. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Tod, Todeserklärung, Feststellung der Todeszeit zu 2.**
+
+    *
     *
     *
     *
@@ -6160,10 +7525,12 @@ Der Bundesrat hat zugestimmt.
 
     *   Todestag
 
-    *
+    *   Datum aus Sterbeeintrag
+
     *
     *   X
 
+    *
     *
     *
 
@@ -6172,11 +7539,12 @@ Der Bundesrat hat zugestimmt.
     *   Sterbezeitraum
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person mit Sicherheit tot war
 
     *
     *   X
 
+    *
     *
     *
 
@@ -6190,6 +7558,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   3555
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   3557
 
@@ -6202,13 +7585,56 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   3560
 
-    *   Todeserklärung, Gerichtliche Feststellung der Todeszeit
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
+    *
+    *   X
+
+    *
+    *
+    *
+
+*    *   3562
+
+    *   Festgestellter Todestag
+
+    *   Datum
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3563
+
+    *   Festgestellte Todeszeit
+
+    *   Uhrzeit
+
+    *
+    *   X
+
+    *
+    *
+    *   2)
+
+
+*    *   3564
+
+    *   Staat
+
+    *   Nur bei Todeserklärung im Ausland
+
+    *
     *
     *   X
 
@@ -6219,17 +7645,18 @@ Der Bundesrat hat zugestimmt.
 
     *   Aufhebung der Todeserklärung
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
     *
     *   X
 
     *
     *
+    *
 
 *    *   3570
 
-    *   Registerbehörde
+    *   Registerbehörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -6237,6 +7664,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3571
@@ -6250,10 +7678,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3575
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
@@ -6261,18 +7690,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Neue Ehe 1. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Ehe zu 1.**
+
+    *
     *
     *
     *
@@ -6289,6 +7721,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3650
 
@@ -6299,6 +7732,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3657
@@ -6312,6 +7746,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3670
 
@@ -6323,6 +7758,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3671
@@ -6336,6 +7772,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3675
 
@@ -6347,18 +7784,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Neue Ehe 2. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Ehe zu 2.**
+
+    *
     *
     *
     *
@@ -6375,6 +7815,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3750
 
@@ -6385,6 +7826,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3757
@@ -6398,6 +7840,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3770
 
@@ -6409,6 +7852,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   3771
@@ -6422,6 +7866,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3775
 
@@ -6433,19 +7878,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Neue Lebenspartnerschaft
-        **1. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Lebenspartnerschaft zu 1.**
+
+    *
     *
     *
     *
@@ -6462,6 +7909,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3850
 
@@ -6473,17 +7921,19 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3857
 
     *   Staat der Begründung
 
-    *   Nur bei Eheschließung im Ausland
+    *   Nur bei Begründung der Lebenspartnerschaft im Ausland
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   3870
@@ -6497,6 +7947,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3871
 
@@ -6509,6 +7960,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3875
 
@@ -6520,19 +7972,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Neue Lebenspartnerschaft
-        **2. Lebenspartner**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Neue Lebenspartnerschaft zu 2.**
+
+    *
     *
     *
     *
@@ -6549,6 +8003,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3950
 
@@ -6560,17 +8015,19 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3957
 
     *   Staat der Begründung
 
-    *   Nur bei Eheschließung im Ausland
+    *   Nur bei Begründung der Lebenspartnerschaft im Ausland
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   3970
@@ -6584,6 +8041,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3971
 
@@ -6596,6 +8054,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   3975
 
@@ -6607,6 +8066,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 
 
@@ -6614,7 +8074,7 @@ Der Bundesrat hat zugestimmt.
 
     *   Datenfelder
 
-    *   Anmerkungen/Beispiel
+    *   Anmerkungen
 
     *   Verwendung
 
@@ -6630,10 +8090,14 @@ Der Bundesrat hat zugestimmt.
 
     *   **Suchfeld**
 
+    *   **Beschränkung**
+        1
+
 
 *    *
-    *   **Sterberegister**
+    *   Sterberegister ****
 
+    *
     *
     *
     *
@@ -6641,6 +8105,7 @@ Der Bundesrat hat zugestimmt.
     *
 
 *    *
+    *
     *
     *
     *
@@ -6656,12 +8121,13 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *   4140
 
     *   Todestag
 
-    *   Datum, bei unbekanntem Todestag auch Auffindungstag
+    *   Datum
 
     *   X
 
@@ -6670,6 +8136,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4141
 
@@ -6683,13 +8150,14 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4142
 
     *   Sterbezeitraum (Datumsangaben)
 
     *   Zeitraum umfasst Datum des letzten Tages lebend und Datum des Tages,
-        an dem die Person mit Sicherheit tot war.
+        an dem die Person mit Sicherheit tot war
 
     *   X
 
@@ -6698,13 +8166,14 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4143
 
     *   Sterbezeitraum (Uhrzeitangaben)
 
-    *   Zeitraum umfasst die Uhrzeit am letzten Tag lebend und Uhrzeit am Tag,
-        an dem die Person mit Sicherheit tot war.
+    *   Zeitraum umfasst die Uhrzeit am letzten Tag lebend und Uhrzeit
+        am Tag, an dem die Person mit Sicherheit tot war
 
     *   X
 
@@ -6712,6 +8181,23 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   4144
+
+    *   Todeszeit (nicht exakt)
+
+    *   Nur in Ergänzung zu Feld 4141, wenn Uhrzeit des Todes nur
+        ungefähr (gegen … Uhr) feststeht
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   4150
 
@@ -6726,16 +8212,19 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4151
 
     *   Sterbeort, Ortsteil
 
+    *   Bei landesrechtlicher Vorgabe
+
+    *   X
+
+    *   X
+
     *
-    *   X
-
-    *   X
-
     *
     *
 
@@ -6750,6 +8239,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4153
 
@@ -6762,6 +8252,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   4155
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   4157
 
@@ -6774,13 +8280,18 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *   X
+
     *
 
 *    *   4199
 
     *   Tot aufgefunden
 
-    *
+    *   Nur bei Nacherfassung
+
+    *   X
+
     *   X
 
     *
@@ -6794,10 +8305,12 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
+    *
 
 *    *
-    *   **Angaben zum Verstorbenen**
+    *   **Angaben zur verstorbenen Person**
 
+    *
     *
     *
     *
@@ -6816,6 +8329,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4202
 
@@ -6827,6 +8341,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -6842,6 +8357,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4204
 
@@ -6853,6 +8369,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -6868,8 +8385,9 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
-*    *   4219
+*    *   4206
 
     *   Ausländische Namensart
 
@@ -6881,26 +8399,32 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4220
 
-    *   Geschlechtszugehörigkeit
+    *   Geschlecht
+
+    *
+    *   X
+
+    *   X
 
     *
     *
-    *
-    *
-    *
+    *   2)
+
 
 *    *   4230
 
-    *   Religionszugehörigkeit
+    *   Religion/Weltanschauung
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -6916,6 +8440,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
 
 *    *   4250
 
@@ -6928,6 +8453,22 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   4255
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   2)
+
 
 *    *   4257
 
@@ -6939,6 +8480,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -6953,6 +8495,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4271
 
@@ -6965,6 +8508,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4275
 
@@ -6976,6 +8520,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4290
 
@@ -6986,6 +8531,7 @@ Der Bundesrat hat zugestimmt.
 
     *   X
 
+    *
     *
     *
 
@@ -7000,6 +8546,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4293
 
@@ -7012,16 +8559,19 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4294
 
     *   Anschrift, Ortsteil
 
+    *   Bei landesrechtlicher Vorgabe
+
+    *   X
+
+    *   X
+
     *
-    *   X
-
-    *   X
-
     *
     *
 
@@ -7037,6 +8587,7 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4299
 
@@ -7050,18 +8601,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Familienstand des Verstorbenen**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Familienstand der verstorbenen Person**
+
+    *
     *
     *
     *
@@ -7079,16 +8633,37 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   4300A
+
+    *   Familienrechtliche Bezeichnung
+
+    *   Es können die Bezeichnungen „Ehefrau“, „Ehemann“, „Lebenspartner“ oder
+        „Lebenspartnerin“ angegeben werden; Personen,
+        die weder dem männlichen noch dem weiblichen Geschlecht angehören,
+        sind als „Ehepartner“ oder „Lebenspartner“ anzugeben,
+        Beispiel: „Lebenspartnerin“
+
+    *   X
+
+    *   X
+
+    *
+    *
+    *   4)
+
 
 *    *   4301
 
-    *   Familienname des Ehegatten oder Lebenspartners
+    *   Familienname des Ehegatten, Ehe- oder Lebenspartners
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -7104,16 +8679,18 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4303
 
-    *   Geburtsname des Ehegatten oder Lebenspartners
+    *   Geburtsname des Ehegatten, Ehe- oder Lebenspartners
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -7129,16 +8706,18 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
 
 *    *   4305
 
-    *   Vornamen des Ehegatten oder Lebenspartners
+    *   Vornamen des Ehegatten, Ehe- oder Lebenspartners
 
     *
     *   X
 
     *   X
 
+    *
     *
     *
 
@@ -7154,6 +8733,20 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
+    *
+
+*    *   4320
+
+    *   Geschlecht des Ehegatten, Ehe- oder Lebenspartners
+
+    *
+    *   X
+
+    *   X
+
+    *
+    *
+    *
 
 *    *   4399
 
@@ -7167,18 +8760,21 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Ehe des Verstorbenen**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Ehe der verstorbenen Person**
+
+    *
     *
     *
     *
@@ -7195,6 +8791,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4450
 
@@ -7206,6 +8803,21 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
+
+*    *   4455
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
 
 *    *   4457
 
@@ -7217,6 +8829,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   4470
@@ -7230,6 +8843,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4471
 
@@ -7242,6 +8856,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4475
 
@@ -7253,30 +8868,35 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4477
 
     *   Führungsort Heiratseintrag
 
-    *   Bei Eheschließung bis zum 31.12.2008 (§ 15a PStG a. F.).
+    *   Bei Eheschließung bis zum
+        31\.12.2008 (§ 15a PStG a. F.)
 
     *
     *
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   **Lebenspartnerschaft des Verstorbenen**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Lebenspartnerschaft der verstorbenen Person**
+
+    *
     *
     *
     *
@@ -7293,6 +8913,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4550
 
@@ -7304,8 +8925,23 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
-*    *   4559
+*    *   4555
+
+    *   Nähere Kennzeichnung des Ortes
+
+    *   Kreis, Verwaltungsbezirk o. ä.
+
+    *
+    *
+    *   X
+
+    *
+    *   2)
+
+
+*    *   4557
 
     *   Staat der Begründung
 
@@ -7315,6 +8951,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   4570
@@ -7328,6 +8965,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4571
 
@@ -7340,6 +8978,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4575
 
@@ -7351,19 +8990,22 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
-
-*    *
-    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   Todeserklärung, Gerichtliche Feststellung
-        **der Todeszeit**
+    *
+    *
+    *
+    *
+    *
+    *
+    *
 
+*    *
+    *   **Todeserklärung, gerichtliche Feststellung der Todeszeit der
+        verstorbenen Person**
+
+    *
     *
     *
     *
@@ -7372,14 +9014,15 @@ Der Bundesrat hat zugestimmt.
 
 *    *   4660
 
-    *   Todeserklärung/Gerichtliche Feststellung der Todeszeit
+    *   Todeserklärung, gerichtliche Feststellung der Todeszeit
 
-    *   Wirksamkeitsdatum
+    *   Beschlussdatum
 
     *
     *
     *   X
 
+    *
     *
 
 *    *   4662
@@ -7393,6 +9036,7 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4663
 
@@ -7405,22 +9049,37 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
-*    *   4665
+*    *   4664
 
-    *   Aufhebung der Todeserklärung
+    *   Staat
 
-    *   Wirksamkeitsdatum
+    *   Nur bei Todeserklärung im Ausland
 
     *
     *
     *   X
 
     *
+    *
+
+*    *   4665
+
+    *   Aufhebung der Todeserklärung
+
+    *   Beschlussdatum
+
+    *
+    *
+    *   X
+
+    *
+    *
 
 *    *   4670
 
-    *   Behörde
+    *   Behörde/Gericht
 
     *   Funktionsbezeichnung
 
@@ -7428,6 +9087,7 @@ Der Bundesrat hat zugestimmt.
     *
     *   X
 
+    *
     *
 
 *    *   4671
@@ -7441,10 +9101,11 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 *    *   4675
 
-    *   Registernummer
+    *   Registernummer/Aktenzeichen
 
     *
     *
@@ -7452,60 +9113,1116 @@ Der Bundesrat hat zugestimmt.
     *   X
 
     *
+    *
 
 
-   Bei diesen Datenfeldern handelt es sich um Funktionen, die nur bei
-    Bedarf systemseitig verwaltet werden.
-[^F771575_01_BJNR226300008BJNE007900000]: 
+[^F804512_01_BJNR226300008BJNE007903116]:    Die Datenfelder unterliegen folgenden Beschränkungen:               1)
+    = Datenfeld ist nicht Bestandteil des Personenstandseintrags und steht
+    nur systemseitig als Funktion zur Verfügung.               2) =
+    Datenfeld steht ab 1. November 2013 zur Verfügung.               3) =
+    Datenfeld steht ausschließlich für die Nacherfassung von Alt- und
+    Übergangsbeurkundungen zur Verfügung.               4) = Datenfeld
+    steht ab 1. November 2018 zur Verfügung.               5) = Datenfeld
+    steht nicht mehr für Eingaben zur Verfügung.
+
 
 ### Anlage 2 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2008, 2298 - 2299)
+(Fundstelle: BGBl. I 2018, 1790 - 1791)
 
+
+*    *
+    *   **Eheregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *   Ort, Tag der Eheschließung
+
+    *
+
+*    *   Tag der Begründung der
+[^F804512_02_BJNR226300008BJNE008102116]
+        Lebenspartnerschaft
+
+    *
+
+*    *   **1.**
+
+    *   (Ehemann, Ehefrau, Ehepartner)
+
+
+*    *   Familienname vor der Ehe
+
+    *
+
+*    *   Geburtsname vor der Ehe
+
+    *
+
+*    *   Vorname(n) vor der Ehe
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Familienname in der Ehe
+
+    *
+
+*    *   Geburtsname in der Ehe
+
+    *
+
+*    *   Vorname(n) in der Ehe
+
+    *
+
+*    *   **2.**
+
+    *   (Ehefrau, Ehemann, Ehepartner)
+
+
+*    *   Familienname vor der Ehe
+
+    *
+
+*    *   Geburtsname vor der Ehe
+
+    *
+
+*    *   Vorname(n) vor der Ehe
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Familienname in der Ehe
+
+    *
+
+*    *   Geburtsname in der Ehe
+
+    *
+
+*    *   Vorname(n) in der Ehe
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *
+    *   Zu 1.
+
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Recht Namensführung
+
+    *
+
+*    *
+    *   Zu 2.
+
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Recht Namensführung
+
+    *
+
+*    *
+    *   Zu 1. und 2.
+
+
+*    *   Namensbestimmung
+
+    *
+
+*    *   Lebenspartnerschaftseintrag
+
+    *
+
+*    *   **Folgebeurkundung**
+
+    *
+
+*    *
+    *   **Eheregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *[^F804512_03_BJNR226300008BJNE008102116]
+   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *[^F804512_04_BJNR226300008BJNE008102116]
+   Beurkundete Daten
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *   Hinweisdaten
+
+    *
+
+
+   Leittext erscheint nur, wenn es der Beurkundungssachverhalt erfordert.
+[^F804512_02_BJNR226300008BJNE008102116]:     Registernummer unter Hinzufügung der fortlaufenden Nummer der
+    Folgebeurkundung nach § 17 PStV.
+[^F804512_03_BJNR226300008BJNE008102116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
+    Folgebeurkundung aktualisierten Daten angegeben.
+[^F804512_04_BJNR226300008BJNE008102116]: 
 
 ### Anlage 3 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2008, 2300 - 2301)
+(Fundstelle: BGBl. I 2018, 1792 - 1793)
 
+
+*    *
+    *   **Lebenspartnerschaftsregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *   Ort, Tag der Begründung der
+        Lebenspartnerschaft
+
+    *
+
+*    *   **1.**
+
+    *   (Lebenspartner, Lebenspartnerin)
+
+
+*    *   Familienname
+        vor der Begründung
+
+    *
+
+*    *   Geburtsname
+        vor der Begründung
+
+    *
+
+*    *   Vorname(n)
+        vor der Begründung
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Familienname
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   Geburtsname
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   Vorname(n)
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   **2.**
+
+    *   (Lebenspartner, Lebenspartnerin)
+
+
+*    *   Familienname
+        vor der Begründung
+
+    *
+
+*    *   Geburtsname
+        vor der Begründung
+
+    *
+
+*    *   Vorname(n)
+        vor der Begründung
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Familienname
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   Geburtsname
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   Vorname(n)
+        in der Lebenspartnerschaft
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *
+    *   Zu 1.
+
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Recht Namensführung
+
+    *
+
+*    *
+    *   Zu 2.
+
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Recht Namensführung
+
+    *
+
+*    *
+    *   Zu 1. und 2.
+
+
+*    *   Namensbestimmung
+
+    *
+
+*    *   **Folgebeurkundung**
+
+    *
+
+*    *
+    *   **Lebenspartnerschaftsregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *[^F804512_05_BJNR226300008BJNE008202116]
+   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *[^F804512_06_BJNR226300008BJNE008202116]
+   Beurkundete Daten
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *   Hinweisdaten
+
+    *
+
+
+   Registernummer unter Hinzufügung der fortlaufenden Nummer der
+    Folgebeurkundung nach § 17 PStV.
+[^F804512_05_BJNR226300008BJNE008202116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
+    Folgebeurkundung aktualisierten Daten angegeben.
+[^F804512_06_BJNR226300008BJNE008202116]: 
 
 ### Anlage 4 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2008, 2302 - 2303)
+(Fundstelle: BGBl. I. 2018, 2642 - 2643)
 
+
+*    *
+    *   **Geburtenregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *   Tag, Uhrzeit der Geburt
+
+    *
+
+*    *   Ort der Geburt
+
+    *
+
+*    *
+    *   Kind
+
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   **1.**
+
+    *   (Mutter)
+
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   **2.**
+
+    *   (Vater)
+
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *
+    *   Zu 1. und 2.
+
+
+*    *   Ort, Tag der Eheschließung
+
+    *
+
+*    *   Eheeintrag
+
+    *
+
+*    *
+    *   Zu 1.
+
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *
+    *   Zu 2.
+
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Geburtseintrag
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *
+    *   Kind
+
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Recht Namensführung
+
+    *
+
+*    *   **Folgebeurkundung**
+
+    *
+
+*    *
+    *   **Geburtenregister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *[^F805433_01_BJNR226300008BJNE008303116]
+   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *[^F805433_02_BJNR226300008BJNE008303116]
+   Beurkundete Daten
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *   Hinweisdaten
+
+    *
+
+
+   _\_\__\_\__\_\__
+
+    Registernummer unter Hinzufügung der fortlaufenden Nummer der
+    Folgebeurkundung nach § 17 PStV.
+[^F805433_01_BJNR226300008BJNE008303116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
+    Folgebeurkundung aktualisierten Daten angegeben.
+[^F805433_02_BJNR226300008BJNE008303116]: 
 
 ### Anlage 5 (zu den §§ 11, 19, 48, 65)
 
-(Fundstelle: BGBl. I 2008, 2304 - 2305)
+(Fundstelle: BGBl. I 2018, 2644)
 
+
+*    *
+    *   **Sterberegister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *   Tag, Uhrzeit des Todes
+
+    *
+
+*    *   Ort des Todes
+
+    *
+
+*    *
+    *   Verstorbene Person
+
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Geburt
+
+    *
+
+*    *   Letzter Wohnsitz
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   Familienstand
+
+    *
+
+*    *
+    *   (Ehemann, Ehefrau, Ehepartner, Lebenspartner, Lebenspartnerin)
+
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *
+    *   Verstorbene Person
+
+
+*    *   Geburtseintrag
+
+    *
+
+*    *[^F805433_03_BJNR226300008BJNE008403116]
+   Ort, Tag der Eheschließung
+
+    *
+
+*    *   Eheeintrag
+        1
+
+    *
+
+*    *   Führungsort Heiratseintrag
+
+    *
+
+*    *   **Folgebeurkundung**
+
+    *
+
+*    *
+    *   **Sterberegister**
+
+
+*    *   Standesamt, Nummer
+
+    *
+
+*    *[^F805433_04_BJNR226300008BJNE008403116]
+   Registernummer
+
+    *
+
+*    *   Anlass der Beurkundung
+
+    *
+
+*    *[^F805433_05_BJNR226300008BJNE008403116]
+   Beurkundete Daten
+
+    *
+
+*    *   Ort, Tag der Beurkundung
+
+    *
+
+*    *   Urkundsperson
+
+    *
+
+*    *
+    *   **Hinweise**
+
+
+*    *   Registernummer
+
+    *
+
+*    *   Hinweisdaten
+
+    *
+
+
+   _\_\__\_\__\_\__
+
+    Bei Begründung einer Lebenspartnerschaft ist der Leittext an den
+    Beurkundungssachverhalt anzupassen.
+[^F805433_03_BJNR226300008BJNE008403116]:     Registernummer unter Hinzufügung der fortlaufenden Nummer der
+    Folgebeurkundung nach § 17 PStV.
+[^F805433_04_BJNR226300008BJNE008403116]:     Es werden alle Beurkundungsdaten des Eintrags mit den nach der
+    Folgebeurkundung aktualisierten Daten angegeben.
+[^F805433_05_BJNR226300008BJNE008403116]: 
 
 ### Anlage 6 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2008, 2306)
+(Fundstelle: BGBl. I 2018, 1797)
+
 
 
 ### Anlage 7 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2008, 2307)
+(Fundstelle: BGBl. I 2018, 1798)
+
 
 
 ### Anlage 8 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2008, 2308)
+(Fundstelle: BGBl. I 2018, 1799)
+
 
 
 ### Anlage 9 (zu den §§ 48, 70)
 
-(Fundstelle: BGBl. I 2008, 2309)
+(Fundstelle: BGBl. I 2018, 1800)
+
 
 
 ### Anlage 10 (zu § 29)
 
-(Fundstelle: BGBl. I 2008, 2310 - 2311)
+(Fundstelle: BGBl. I 2018, 1801 - 1802)
+
+## **Niederschrift über die Eheschließung**
 
 
-### Anlage 11 (zu § 30)
+*    *   Standesamt
 
-(Fundstelle: BGBl. I 2008, 2312 - 2313)
+    *
+
+*    *   Ort, Tag
+
+    *
+
+*    *[^F804512_21_BJNR226300008BJNE008902116]
+   Vor dem unterzeichnenden Standesbeamten erschienen heute zur
+        Eheschließung (bei bestehender Lebenspartnerschaft, begründet am …,
+        Standesamt …, Reg. Nr. L …/…)
+
+
+*    *   **1.**
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   wohnhaft in
+
+    *
+
+*    *   Geburtstag, Geburtsort
+
+    *
+
+*    *   Standesamt, Registernummer
+
+    *
+
+*    *   ausgewiesen durch
+
+    *
+
+*    *   und **2.**
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Familienname
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Geschlecht
+
+    *
+
+*    *   Staatsangehörigkeit
+
+    *
+
+*    *   Religion
+
+    *
+
+*    *   wohnhaft in
+
+    *
+
+*    *   Geburtstag, Geburtsort
+
+    *
+
+*    *   Standesamt, Registernummer
+
+    *
+
+*    *   ausgewiesen durch
+
+    *
+
+*    *   Als Zeugen waren anwesend:
+
+    *
+
+*    *   Weiterhin erschien als Dolmetscher für die …………… Sprache:
+        Er wurde über die Strafbarkeit einer falschen Versicherung an Eides
+        statt belehrt. Er erklärte – unter Berufung auf seinen allgemein
+        geleisteten Eid –, dass er treu und gewissenhaft übertragen werde.
+
+
+*    *   Der Standesbeamte fragte die Eheschließenden, ob sich seit der
+        Anmeldung ihrer Eheschließung Änderungen ergeben haben, die ihre
+        tatsächlichen Verhältnisse der Ehevoraussetzungen betreffen. Auf die
+        Frage des Standesbeamten erklärten die Eheschließenden, dass keine
+        entsprechenden Änderungen eingetreten sind.
+        Sodann fragte der Standesbeamte die Eheschließenden einzeln und
+        nacheinander, ob sie die Ehe miteinander eingehen wollen. Die
+        Eheschließenden bejahten diese Frage.
+        Der Standesbeamte sprach aus, dass sie nunmehr kraft Gesetzes
+        rechtmäßig verbundene Eheleute seien.
+
+
+*    *   Zur Namensführung in der Ehe gaben die Ehegatten keine/folgende
+        Erklärung ab:
+
+
+*    *   Dadurch ergibt sich folgende Namensführung in der Ehe:
+
+
+*    *
+    *   **1. (Ehemann/Ehefrau/Ehepartner)**
+
+
+*    *   Familienname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *
+    *   **2. (Ehefrau/Ehemann/Ehepartner)**
+
+
+*    *   Familienname
+
+    *
+
+*    *   Vorname(n)
+
+    *
+
+*    *   Geburtsname
+
+    *
+
+*    *   Vorgelesen [in deutscher und …………… Sprache]
+        genehmigt und unterschrieben
+
+
+
+
+*    *
+    *   Siegel
+
+
+*    *
+
+*    *
+
+*    *
+
+*    *   Urkundsperson.
+
+
+
+    Abschnitt/Klammerinhalt erscheint nur, wenn der
+    Beurkundungssachverhalt es verlangt. Die Angaben sind entsprechend zu
+    streichen oder zu ergänzen.
+[^F804512_21_BJNR226300008BJNE008902116]: 
+
+### Anlage 11 (zu § 31 Absatz 2)
+
+(Fundstelle: BGBl. I 2018, 1803)
+
 
 
 ### Anlage 12 (zu § 34)

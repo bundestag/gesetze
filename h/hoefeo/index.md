@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.7.1976 I 1933;
 
 Zuletzt geändert durch
-:   Art. 98 G v. 17.12.2008 I 2586
+:   Art. 24 G v. 20.11.2015 I 2010
 
 
 ## § 1 Begriff des Hofes
@@ -595,8 +595,24 @@ ausschließlich zuständig.
 
 (2) Diese Gerichte sind auch zuständig für die Entscheidung der Frage,
 wer kraft Gesetzes oder kraft Verfügung von Todes wegen Hoferbe eines
-Hofes geworden ist, und für die Ausstellung eines Erbscheins. In dem
-Erbschein ist der Hoferbe als solcher aufzuführen. Auf Antrag eines
-Beteiligten ist in dem Erbschein lediglich die Hoferbfolge zu
-bescheinigen.
+Hofes geworden ist, und für die Ausstellung eines Erbscheins oder
+eines Europäischen Nachlasszeugnisses. In dem Erbschein oder dem
+Europäischen Nachlasszeugnis ist der Hoferbe als solcher aufzuführen.
+Auf Antrag eines Beteiligten ist in dem Erbschein lediglich die
+Hoferbfolge zu bescheinigen.
+
+
+## § 19 Geltung für Lebenspartner; Übergangsbestimmungen
+
+(1) Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten
+entsprechend für Lebenspartner. Eine land- oder forstwirtschaftliche
+Besitzung, die im gemeinschaftlichen Eigentum von Lebenspartnern steht
+und gemäß § 1 Absatz 1 die Eigenschaft als Hof besitzt oder diese
+entsprechend § 1 Absatz 2 durch Erklärung der Lebenspartner erhält,
+ist ein Lebenspartnerhof.
+
+(2) Für die erbrechtlichen Verhältnisse bei Beteiligung eines
+Lebenspartners bleibt das bis zum 26. November 2015 geltende Recht
+maßgebend, wenn der Erblasser vor dem 26. November 2015 verstorben
+ist.
 

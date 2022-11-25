@@ -1,7 +1,7 @@
 ---
 Title: Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern
-  des Bundestages (Anlage der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980,
-  1237)
+  des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I
+  1980, 1237)
 jurabk: BTGO1980Bes
 layout: default
 origslug: btgo1980bes
@@ -9,7 +9,7 @@ slug: btgo1980bes
 
 ---
 
-# Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237) (BTGO1980Bes)
+# Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237) (BTGO1980Bes)
 
 Ausfertigungsdatum
 :   1980-06-25
@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1264
 
 Zuletzt geändert durch
-:   Nr. 1 Bek. v. 15.7.2002 I 3012
+:   Nr. 1 Beschluss d. Bundestages gem. Bek. v. 15.7.2002 I 3012
 
 
 ## 1.

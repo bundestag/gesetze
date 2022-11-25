@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1621
 
+Geändert durch
+:   Art. 19 G v. 20.8.2021 I 3932
+
 
 
 ## § 1

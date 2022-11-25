@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 2128
 
 Zuletzt geändert durch
-:   Art. 487 V v. 31.10.2006 I 2407
+:   Art. 500 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -39,7 +39,7 @@ Streitkräfte über Absatz 1 hinaus bis zur Grenze ihrer
 Leistungsfähigkeit, wenn und soweit die Streitkräfte dies
 
 1.  zur Erhöhung ihrer Einsatzbereitschaft mit Zustimmung des
-    Bundesministeriums für Verkehr, Bau und Stadtentwicklung oder
+    Bundesministeriums für Verkehr und digitale Infrastruktur oder
 
 
 2.  im Spannungs- oder im Verteidigungsfall (Artikel 80a und Artikel 115a
@@ -51,14 +51,15 @@ fordern.
 
 (3) Fordern die Streitkräfte Verkehrsleistungen nach Absatz 2, die nur
 unter Einschränkung oder Beschränkung des öffentlichen Verkehrs
-erbracht werden können, hat das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung oder die von ihm bestimmte Behörde unter Beteiligung
-der Streitkräfte einen Ausgleich der zivilen und militärischen
-Interessen im Sinne des § 16 des Verkehrssicherstellungsgesetzes zu
-veranlassen. Soweit danach Einschränkungen oder Beschränkungen des
-öffentlichen Verkehrs unumgänglich sind, ruhen für die Dauer der
-geforderten Verkehrsleistungen die ihnen entgegenstehenden
-Beförderungspflichten der Eisenbahnen für den öffentlichen Verkehr.
+erbracht werden können, hat das Bundesministerium für Verkehr und
+digitale Infrastruktur oder die von ihm bestimmte Behörde unter
+Beteiligung der Streitkräfte einen Ausgleich der zivilen und
+militärischen Interessen im Sinne des § 16 des
+Verkehrssicherstellungsgesetzes zu veranlassen. Soweit danach
+Einschränkungen oder Beschränkungen des öffentlichen Verkehrs
+unumgänglich sind, ruhen für die Dauer der geforderten
+Verkehrsleistungen die ihnen entgegenstehenden Beförderungspflichten
+der Eisenbahnen für den öffentlichen Verkehr.
 
 
 ## § 2 Anzuwendende Vorschriften
@@ -86,8 +87,8 @@ Streitkräften.
 
 Verkehrsleistungen im Sinne des § 1 haben die öffentlichen Eisenbahnen
 mit betrieblichem Vorrang abzuwickeln, wenn und soweit die
-Streitkräfte dies fordern. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung und das Bundesministerium der Verteidigung
+Streitkräfte dies fordern. Das Bundesministerium für Verkehr und
+digitale Infrastruktur und das Bundesministerium der Verteidigung
 vereinbaren, unter welchen Voraussetzungen die Streitkräfte die
 Einräumung des Vorrangs fordern und auf welche betrieblichen Maßnahmen
 sich die Forderungen erstrecken können.

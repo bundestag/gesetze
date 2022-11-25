@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1992 I 1782;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 2959
+:   Art. 14 Abs. 3 G v. 28.6.2021 I 2250
 
 
 ## Erster Abschnitt - Rechtsform und Aufgabe
@@ -262,11 +262,11 @@ Aufruf bestimmten Umtauschfrist ungültig.
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe
 Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen
-Kreditinstituten, Kapitalanlagegesellschaften und
-Investmentaktiengesellschaften anzuordnen und durchzuführen. §§ 9, 15
-und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die
-Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine
-Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
+Kreditinstituten, Kapitalverwaltungsgesellschaften und extern
+verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§
+9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden.
+Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für
+allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
 Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten
 dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der
 Anordnung über die Statistik vorgesehen ist.
@@ -390,7 +390,7 @@ nur zur Durchführung und Abwicklung zugelassener Geschäfte oder für
 den eigenen Betrieb oder für ihre Betriebsangehörigen vornehmen.
 
 
-## Abschnitt 5a
+## Abschnitt 5a - 
 
 -
 
@@ -525,9 +525,9 @@ werden,
 1.  dass für die Beamten der Deutschen Bundesbank von folgenden
     Vorschriften des Bundesbeamtenrechts abgewichen wird:
 
-    a)  von den §§ 19, 22 Abs. 6, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs. 1
-        Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und von
-        § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes;
+    a)  von den §§ 19, 22 Absatz 5, § 28 Abs. 1 und 2, § 33 Abs. 2, § 99 Abs.
+        1 Satz 2 Nr. 3 und § 100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes und
+        von § 11 Nr. 3 Buchstabe a des Beamtenversorgungsgesetzes;
 
 
     b)  von den §§ 42 bis 49 des Bundesbesoldungsgesetzes in ihrer jeweils
@@ -588,7 +588,8 @@ Die Bundesregierung kann die Befugnis nach Satz 1 durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf den Vorstand der
 Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstandes der
 Deutschen Bundesbank bedürfen des Einvernehmens des Bundesministeriums
-des Innern und des Bundesministeriums der Finanzen.
+des Innern, für Bau und Heimat und des Bundesministeriums der
+Finanzen.
 
 (5) Die in Absatz 4 Satz 2 Nr. 1 Buchstabe b bezeichneten Zuwendungen
 für besondere Leistungen dürfen insgesamt ein Zwanzigstel der Ausgaben
@@ -611,10 +612,11 @@ Dienst abgewichen werden. Die Bundesregierung kann die Befugnis nach
 Satz 1 durch Rechtsverordnung auf den Vorstand der Deutschen
 Bundesbank übertragen. Rechtsverordnungen des Vorstands der Deutschen
 Bundesbank über die Vorbildung und die Laufbahnen bedürfen des
-Einvernehmens des Bundesministeriums des Innern und des
-Bundesministeriums der Finanzen; Rechtsverordnungen über die einzelnen
-Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) bedürfen
-des Einvernehmens des Bundesministeriums des Innern.
+Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat
+und des Bundesministeriums der Finanzen; Rechtsverordnungen über die
+einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen)
+bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau
+und Heimat.
 
 
 ### § 32 Schweigepflicht

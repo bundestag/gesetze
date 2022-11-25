@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 65
 
+Geändert durch
+:   Art. 155 V v. 19.6.2020 I 1328
+
 
 
 ## § 1 Archivierung von Unterlagen aus dem Lastenausgleich
@@ -30,8 +33,9 @@ Durchführung des Lastenausgleichs auszusondern und jeweils zusammen
 mit einem Übergabeverzeichnis dem Lastenausgleichsarchiv zu übergeben.
 
 (3) Das Nähere über das abzugebende Schriftgut sowie den Inhalt des
-Übergabeverzeichnisses bestimmt der Bundesminister des Innern durch
-Rechtsverordnung mit Zustimmung des Bundesrates.
+Übergabeverzeichnisses bestimmt das für Kultur und Medien zuständige
+Mitglied der Bundesregierung durch Rechtsverordnung mit Zustimmung des
+Bundesrates.
 
 
 ## § 2 Übernahme von Unterlagen der Heimatortskarteien

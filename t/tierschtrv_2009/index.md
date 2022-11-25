@@ -1,9 +1,6 @@
-[^f771804_01_BJNR037500009]
-Verordnung zum Schutz von Tieren beim Transport und zur Durchführung
-der Verordnung (EG) Nr. 1/2005 des Rates
-[^f771804_02_BJNR037500009]
 ---
-Title: ''
+Title: Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung
+  (EG) Nr. 1/2005 des Rates
 jurabk: TierSchTrV 2009
 layout: default
 origslug: tierschtrv_2009
@@ -11,13 +8,19 @@ slug: tierschtrv_2009
 
 ---
 
-#  (TierSchTrV 2009)
+# Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates (TierSchTrV 2009)
 
 Ausfertigungsdatum
 :   2009-02-11
 
 Fundstelle
 :   BGBl I: 2009, 375
+
+Zuletzt geändert durch
+:   Art. 9 Abs. 14 G v. 3.12.2015 I 2178
+
+Änderung durch
+:   Art. 2 V v. 25.11.2021 I 4970 (Nr. 80) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^f771804_01_BJNR037500009]:     Diese Verordnung dient der Umsetzung der Richtlinie 91/496/EWG des
     Rates vom 15. Juli 1991 zur Festlegung von Grundregeln für die
@@ -155,11 +158,12 @@ rechtfertigen, dass dies auch weiterhin geschieht.
 
 ### § 5 Schienentransport
 
-Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften zum
-Schienentransport haben der Transportunternehmer im Sinne des Artikels
-2 Buchstabe x der Verordnung (EG) Nr. 1/2005 (Transportunternehmer)
-und der Organisator im Sinne des Artikels 2 Buchstabe q der Verordnung
-(EG) Nr. 1/2005 (Organisator) bei innerstaatlichen Schienentransporten
+Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften zum Schienentransport haben der
+Transportunternehmer im Sinne des Artikels 2 Buchstabe x der
+Verordnung (EG) Nr. 1/2005 (Transportunternehmer) und der Organisator
+im Sinne des Artikels 2 Buchstabe q der Verordnung (EG) Nr. 1/2005
+(Organisator) bei innerstaatlichen Schienentransporten
 sicherzustellen, dass
 
 1.  Wirbeltiere oder die Behältnisse, in denen sich Wirbeltiere befinden,
@@ -183,9 +187,9 @@ müssen nicht angebunden werden.
 
 ### § 6 Besondere Anforderungen an Behältnisse
 
-Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften zum Transport
-in Behältnissen hat der Absender bei innerstaatlichen Transporten
-sicherzustellen, dass
+Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften zum Transport in Behältnissen hat der
+Absender bei innerstaatlichen Transporten sicherzustellen, dass
 
 1.  Tiere der in Anlage 1 genannten Arten nur in Behältnissen befördert
     werden, die die Anforderungen der Anlage 1 erfüllen, und,
@@ -205,15 +209,16 @@ Landtransporte.
 
 ### § 7 Pflichten des Absenders
 
-(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften zum
-Transport von Tieren in Behältnissen sowie den Anforderungen nach § 6
-dürfen Tiere, ausgenommen landwirtschaftliche Nutztiere,
-innerstaatlich nur versandt werden, wenn sich der Absender von der
-Richtigkeit der Empfängeranschrift überzeugt hat. Auf dem Behältnis
-müssen die zustellfähigen Anschriften des Absenders und Empfängers
-angegeben sein. Der Absender muss den Empfänger vor der Absendung über
-die Absendezeit und die voraussichtliche Ankunftszeit, den
-Bestimmungsort sowie über die Versandart unterrichten.
+(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften zum Transport von Tieren in
+Behältnissen sowie den Anforderungen nach § 6 dürfen Tiere,
+ausgenommen landwirtschaftliche Nutztiere, innerstaatlich nur versandt
+werden, wenn sich der Absender von der Richtigkeit der
+Empfängeranschrift überzeugt hat. Auf dem Behältnis müssen die
+zustellfähigen Anschriften des Absenders und Empfängers angegeben
+sein. Der Absender muss den Empfänger vor der Absendung über die
+Absendezeit und die voraussichtliche Ankunftszeit, den Bestimmungsort
+sowie über die Versandart unterrichten.
 
 (2) Der Absender hat sicherzustellen, dass
 
@@ -256,7 +261,8 @@ jeweils höchstens zwölf Monaten im Voraus erteilen. Die Bestellung
 bedarf dann nicht der Schriftform.
 
 (2) Tiere dürfen mit Nachnahme nicht in einen Staat versandt werden,
-der der Europäischen Gemeinschaft nicht angehört (Drittland).
+der der
+Europäischen Union              nicht angehört (Drittland).
 
 (3) Wird die Abnahme der Sendung verweigert oder wird die Sendung
 nicht abgeholt, so sind Wirbeltiere vom Transportunternehmer oder vom
@@ -274,16 +280,16 @@ nächsten Möglichkeit zurückzubefördern.
 
 ### § 9 Raumbedarf und Pflege
 
-(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften hat
-derjenige, der Einhufer oder Tiere der Gattung Rind, Schaf, Ziege oder
-Schwein, soweit sie Haustiere sind, (Nutztiere) befördert, bei
-innerstaatlichen Transporten die Vorgaben der Anlage 2 an die
-Abtrennung der Tiere einzuhalten. Abweichend von Satz 1 kann die
-Gruppengröße bei Rindern und Schweinen mit einem Lebendgewicht von
-jeweils über 70 Kilogramm um bis zu 20 vom Hundert überschritten
-werden, soweit Tiere zusammen befördert werden, die mindestens sieben
-Tage vor Beginn des Transports am Ort der Versendung als Gruppe
-gehalten worden sind.
+(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften hat derjenige, der Einhufer oder Tiere
+der Gattung Rind, Schaf, Ziege oder Schwein, soweit sie Haustiere
+sind, (Nutztiere) befördert, bei innerstaatlichen Transporten die
+Vorgaben der Anlage 2 an die Abtrennung der Tiere einzuhalten.
+Abweichend von Satz 1 kann die Gruppengröße bei Rindern und Schweinen
+mit einem Lebendgewicht von jeweils über 70 Kilogramm um bis zu 20 vom
+Hundert überschritten werden, soweit Tiere zusammen befördert werden,
+die mindestens sieben Tage vor Beginn des Transports am Ort der
+Versendung als Gruppe gehalten worden sind.
 
 (2) Abweichend von Anhang I Kapitel VII Buchstabe D der Verordnung
 (EG) Nr. 1/2005 hat derjenige, der Schweine, soweit sie Haustiere
@@ -299,18 +305,22 @@ werden, wenn die lichte Raumhöhe bei Straßentransporten auf höchstens
 
 ### § 10 Begrenzung von Transporten
 
-(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften dürfen
-Nutztiere im Rahmen innerstaatlicher Transporte zu einem
-Schlachtbetrieb nicht länger als acht Stunden befördert werden. Dies
-gilt nicht, soweit die Transportdauer aus unvorhersehbaren Umständen
-überschritten wird.
+(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften dürfen Nutztiere im Rahmen
+innerstaatlicher Transporte zu einem Schlachtbetrieb nicht länger als
+acht Stunden befördert werden. Abweichend von Satz 1 darf die
+Beförderung nicht länger als viereinhalb Stunden dauern, wenn nicht
+sichergestellt ist, dass die Außentemperatur während der Beförderung
+zu keinem Zeitpunkt mehr als 30 Grad Celsius beträgt. Die Sätze 1 und
+2 gelten nicht, soweit die Transportdauer aus unvorhersehbaren
+Umständen überschritten wird.
 
-(2) Absatz 1 gilt nicht, soweit
+(2) Absatz 1 Satz 1 gilt nicht, soweit
 
 1.  die Nutztiere in Transportmitteln befördert werden, die nach Artikel
     18 Abs. 2 der Verordnung (EG) Nr. 1/2005 zugelassen sind und die die
-    Anforderungen nach Anhang I Kapitel VI Nr. 1.1, 1.2, 1.6 bis 1.8, 2, 3
-    und 4.1 der Verordnung (EG) Nr. 1/2005 erfüllen,
+    Anforderungen nach Anhang I Kapitel VI Nr. 1.1, 1.2, 1.6 bis 1.8, 2,
+    3\.1 bis 3.4 und 4.1 der Verordnung (EG) Nr. 1/2005 erfüllen,
 
 
 2.  beim Transport die Vorgaben nach Artikel 5 Abs. 4 sowie nach Anhang I
@@ -328,16 +338,16 @@ gilt nicht, soweit die Transportdauer aus unvorhersehbaren Umständen
 (3) In den Fällen des Absatzes 1 sind die Tiere nach Ankunft in dem
 Schlachtbetrieb unverzüglich abzuladen.
 
-(4) Kälber im Alter von weniger als 14 Tagen dürfen vorbehaltlich des
+(4) Kälber im Alter von weniger als 28 Tagen dürfen vorbehaltlich des
 Artikels 1 Abs. 2 der Verordnung (EG) Nr. 1/2005 innerstaatlich nicht
 befördert werden.
 
 
 ### § 11 Eintagsküken
 
-Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften hat der
-Absender bei innerstaatlichen Transporten von Eintagsküken
-sicherzustellen, dass
+Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften hat der Absender bei innerstaatlichen
+Transporten von Eintagsküken sicherzustellen, dass
 
 1.  die Eintagsküken innerhalb von 60 Stunden nach dem Schlupf den
     Empfänger erreichen und
@@ -355,21 +365,24 @@ sicherzustellen, dass
 
 ### § 12 Meeressäugetiere und Vögel
 
-(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften müssen
-Meeressäugetiere bei innerstaatlichen Transporten von einer
-sachkundigen Person betreut werden. Behältnisse, in denen
-Meeressäugetiere befördert werden, dürfen nicht gestapelt werden.
+(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften müssen Meeressäugetiere bei
+innerstaatlichen Transporten von einer sachkundigen Person betreut
+werden. Behältnisse, in denen Meeressäugetiere befördert werden,
+dürfen nicht gestapelt werden.
 
-(2) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften dürfen
-andere Vögel als Hausgeflügel und Stubenvögel bei innerstaatlichen
-Transporten nur in abgedunkelten Behältnissen befördert werden. Den
-Tieren muss jedoch so viel Licht zur Verfügung stehen, dass sie sich
-orientieren und Futter sowie Wasser aufnehmen können.
+(2) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften dürfen andere Vögel als Hausgeflügel
+und Stubenvögel bei innerstaatlichen Transporten nur in abgedunkelten
+Behältnissen befördert werden. Den Tieren muss jedoch so viel Licht
+zur Verfügung stehen, dass sie sich orientieren und Futter sowie
+Wasser aufnehmen können.
 
 
 ### § 13 Wechselwarme Wirbeltiere und wirbellose Tiere
 
-(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften
+(1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder
+unionsrechtlichen Vorschriften
 
 1.  hat der Absender bei innerstaatlichen Transporten sicherzustellen,
     dass wechselwarme Wirbeltiere mit Ausnahme von Fischarten gemäßigter
@@ -405,8 +418,7 @@ Grenzkontrollstellen oder sonstigen Ausgangsstellen zulässig, die das
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im
 Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
 bekannt gemacht hat. Das Bundesministerium der Finanzen kann die
-Erteilung des Einvernehmens auf Mittelbehörden seines
-Geschäftsbereichs übertragen.
+Erteilung des Einvernehmens auf die Generalzolldirektion übertragen.
 
 (2) Der Ausführer von Tieren hat der Grenzkontrollstelle oder
 sonstigen Ausgangsstelle die voraussichtliche Ankunft des Transports
@@ -439,8 +451,7 @@ nur über Zollstellen mit zugeordneten Grenzkontrollstellen zulässig,
 die das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im
 Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
 bekannt gemacht hat. Das Bundesministerium der Finanzen kann die
-Erteilung des Einvernehmens auf Mittelbehörden seines
-Geschäftsbereichs übertragen.
+Erteilung des Einvernehmens auf die Generalzolldirektion übertragen.
 
 
 ### § 17 Einfuhrdokument
@@ -449,7 +460,7 @@ Bei der Einfuhr von Kälbern oder Schweinen muss der Transport von
 einer Bescheinigung der zuständigen Behörde des Herkunftslandes
 begleitet sein, in der bestätigt wird, dass die Tiere jeweils
 mindestens entsprechend den tierschutzrechtlichen Bestimmungen der
-Europäischen Gemeinschaft gehalten worden sind.
+Europäischen Union              gehalten worden sind.
 
 
 ### § 18 Anforderungen an die Einfuhr
@@ -558,8 +569,8 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     zur Verfügung stellt,
 
 
-10. entgegen § 10 Abs. 1 Satz 1 oder § 12 Abs. 2 Satz 1 ein dort genanntes
-    Tier befördert,
+10. entgegen § 10 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder
+    § 12 Absatz 2 Satz 1 ein dort genanntes Tier befördert,
 
 
 11. entgegen § 11 Nr. 2 nicht sicherstellt, dass die dort genannte
@@ -651,14 +662,15 @@ indem er vorsätzlich oder fahrlässig
 
 
 12. einer Vorschrift des Artikels 6 Abs. 3 in Verbindung mit Anhang I
-    Kapitel II Nr. 1.1 Buchstabe b, Nr. 1.3, 2.1 oder 5.1, Kapitel III Nr.
-    1\.3 Buchstabe a Halbsatz 2, Nr. 1.4, 1.11 Satz 3, Nr. 1.12 Buchstabe
-    a, c, d, e oder g, Nr. 2.2 Satz 1, Nr. 2.3, 2.4 oder 2.5 in Verbindung
-    mit Nr. 1.10 , Kapitel IV Abschnitt 1 Nr. 2 oder 3 in Verbindung mit
-    Kapitel VI Nr. 2.1, 2.2 oder 2.3, Kapitel IV Abschnitt 1 Nr. 4, 5, 7,
-    8 oder 9, Abschnitt 2, Kapitel V Nr. 1.2, Kapitel VI Nr. 1.6, 1.7,
-    1\.9, 2.1, 2.2, 2.3 oder 4.1 oder Kapitel VII über die Beförderung von
-    Tieren zuwiderhandelt,
+    Kapitel I Nummer 2 Buchstabe a, c, e, f oder g Kapitel II Nr. 1.1
+    Buchstabe b, Nr. 1.3, 2.1 oder 5.1, Kapitel III Nr. 1.3 Buchstabe a
+    Halbsatz 2, Nr. 1.4, 1.11 Satz 3, Nr. 1.12 Buchstabe a, c, d, e oder
+    g, Nr. 2.2 Satz 1, Nr. 2.3, 2.4 oder 2.5 in Verbindung mit Nr. 1.10,
+    Kapitel IV Abschnitt 1 Nr. 2 oder 3 in Verbindung mit Kapitel VI Nr.
+    2\.1, 2.2 oder 2.3, Kapitel IV Abschnitt 1 Nr. 4, 5, 7, 8 oder 9,
+    Abschnitt 2, Kapitel V Nr. 1.2, Kapitel VI Nr. 1.6, 1.7, 1.9, 2.1,
+    2\.2, 2.3, 3.1, 3.2, 3.3, 3.4 oder 4.1 oder Kapitel VII über die
+    Beförderung von Tieren zuwiderhandelt,
 
 
 13. entgegen Artikel 6 Abs. 4 in Verbindung mit Anhang I oder II den
@@ -676,6 +688,11 @@ indem er vorsätzlich oder fahrlässig
 
 16. entgegen Artikel 7 Abs. 1 oder 2, jeweils auch in Verbindung mit Abs.
     3, ein Tier befördert,
+
+
+16a. entgegen Artikel 8 Absatz 1 nicht dafür Sorge trägt, dass die
+    Vorschrift des Anhangs I Kapitel I Nummer 2 Buchstabe a eingehalten
+    wird,
 
 
 17. entgegen Artikel 8 Abs. 1 oder Artikel 9 Abs. 1 jeweils in Verbindung
@@ -774,17 +791,18 @@ indem er vorsätzlich oder fahrlässig
 ### § 22 Unterrichtung
 
 Die Länder übermitteln dem Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit zum Zweck der Weiterleitung an die Kommission
-der Europäischen Gemeinschaften bis zum 1. Juni des folgenden Jahres
-einen Bericht über die nach Artikel 27 Abs. 1 der Verordnung (EG) Nr.
-1/2005 in der jeweils geltenden Fassung durchgeführten Kontrollen,
-zusammen mit einer Analyse der wichtigsten festgestellten Mängel und
-einem Plan für ihre Behebung.
+Lebensmittelsicherheit zum Zweck der Weiterleitung an die
+Europäische Kommission              bis zum 1. Juni des folgenden
+Jahres einen Bericht über die nach Artikel 27 Abs. 1 der Verordnung
+(EG) Nr. 1/2005 in der jeweils geltenden Fassung durchgeführten
+Kontrollen, zusammen mit einer Analyse der wichtigsten festgestellten
+Mängel und einem Plan für ihre Behebung.
 
 
-### § 23
+### § 23 Anwendungsbestimmungen
 
--
+Bis zum 1. Januar 2023 ist § 10 Absatz 4 in der am 30. November 2021
+geltenden Fassung weiter anzuwenden.
 
 
 ### § 24 Inkrafttreten

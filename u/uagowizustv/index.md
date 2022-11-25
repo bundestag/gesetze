@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 557
 
-Geändert durch
-:   Art. 3 V v. 13.12.2011 I 2727
+Zuletzt geändert durch
+:   Art. 186 V v. 19.6.2020 I 1328
 
 
 
@@ -49,7 +49,7 @@ geändert worden ist, in der jeweils geltenden Fassung, durch die
 Deutsche Akkreditierungs- und Zulassungsgesellschaft für
 Umweltgutachter mbH ausgeführt wird, auf das Bundesverwaltungsamt
 übertragen, das insoweit den fachlichen Weisungen des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
 unterliegt.
 
 

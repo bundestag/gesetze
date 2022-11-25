@@ -14,7 +14,7 @@ Ausfertigungsdatum
 :   2010-09-05
 
 Fundstelle
-:   BGBl I: 2010, 1288
+:   BGBl I: 2010, 1288 (1404)
 
 
 ## Art 1 Zustimmung zum Versorgungslastenteilungs-Staatsvertrag

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2907
 
+Zuletzt geändert durch
+:   Art. 27 V v. 9.12.2019 I 2153
+
 
 
 ## Eingangsformel
@@ -223,9 +226,9 @@ Qualifikationsinhalte geprüft werden:
 Fähigkeit nachgewiesen werden, Investitionsrechnungen auf Basis der
 dem Einzelfall angemessenen Methode vorzubereiten und deren Ergebnisse
 auf ihre Vorteilhaftigkeit für das Unternehmen hin zu beurteilen. Die
-Prüfungsteilnehmer sollen kritische Einflussfaktoren erkennen, ihre
+zu prüfende Person soll kritische Einflussfaktoren erkennen, ihre
 Auswirkungen auf die Investition bestimmen und Nutzwertrechnungen
-durchführen. Die Prüfungsteilnehmer sollen in der Lage sein, den
+durchführen. Die zu prüfende Person soll in der Lage sein, den
 situativen Einsatz geeigneter Finanzierungsinstrumente zu beurteilen
 und Finanzpläne zu erstellen. In diesem Rahmen können folgende
 Qualifikationsinhalte geprüft werden:
@@ -252,13 +255,13 @@ Qualifikationsinhalte geprüft werden:
 
 
 (5) Im Prüfungsbereich "Material-, Produktions- und Absatzwirtschaft"
-sollen die Prüfungsteilnehmer die Fähigkeit nachweisen, die
-"logistische Kette" vom Lieferanten über die Produktion bis zum Kunden
-in ihren Zusammenhängen und Abhängigkeiten bewerten zu können. Sie
-müssen in der Lage sein, auftretende Zielkonflikte, ihre Ursachen und
-Auswirkungen zu analysieren und aus gesamtunternehmerischer Sicht
-Entscheidungen vorzubereiten oder zu treffen. In diesem Zusammenhang
-können folgende Qualifikationsinhalte geprüft werden:
+soll die zu prüfende Person die Fähigkeit nachweisen, die "logistische
+Kette" vom Lieferanten über die Produktion bis zum Kunden in ihren
+Zusammenhängen und Abhängigkeiten bewerten zu können. Sie muss in der
+Lage sein, auftretende Zielkonflikte, ihre Ursachen und Auswirkungen
+zu analysieren und aus gesamtunternehmerischer Sicht Entscheidungen
+vorzubereiten oder zu treffen. In diesem Zusammenhang können folgende
+Qualifikationsinhalte geprüft werden:
 
 1.  Beurteilen von Marktgegebenheiten sowie der Positionierung des
     Unternehmens im Markt und Beherrschen der Marketinginstrumente,
@@ -776,10 +779,9 @@ Handlungsbereich in den Mittelpunkt zu stellen, der nicht Kern einer
 der schriftlichen Situationsaufgaben war. Das situationsbezogene
 Fachgespräch integriert insbesondere die Qualifikationsschwerpunkte,
 die nicht schriftlich geprüft wurden. Das situationsbezogene
-Fachgespräch soll für jeden Prüfungsteilnehmer/jede
-Prüfungsteilnehmerin mindestens 30 Minuten, höchstens 45 Minuten
-dauern. Ihnen ist eine Vorbereitungszeit von mindestens 30 Minuten,
-höchstens 45 Minuten zu gewähren.
+Fachgespräch soll für jede zu prüfende Person mindestens 30 Minuten,
+höchstens 45 Minuten dauern. Ihr ist eine Vorbereitungszeit von
+mindestens 30 Minuten, höchstens 45 Minuten zu gewähren.
 
 
 ## § 6 Fachübergreifender technikbezogener Prüfungsteil
@@ -791,15 +793,14 @@ kaufmännischen Funktionsbereiche im Betrieb erfassen, darstellen,
 beurteilen und lösen zu können. Die Themenstellung kann alle in den §§
 4 und 5 genannten Prüfungsanforderungen umfassen und soll die
 Fachrichtung sowie die betriebliche Praxis, insbesondere die
-betriebs-, fertigungs-, produktions- und/oder verfahrenstechnischen
-Kenntnisse und Fertigkeiten des Prüfungsteilnehmers/der
-Prüfungsteilnehmerin einbeziehen.
+betriebs-, fertigungs-, produktions- oder verfahrenstechnischen
+Kenntnisse und Fertigkeiten der zu prüfenden Person einbeziehen.
 
 (2) Das Thema der Projektarbeit wird vom Prüfungsausschuss gestellt
-und soll Vorschläge des Prüfungsteilnehmers/der Prüfungsteilnehmerin
-berücksichtigen. Die Projektarbeit ist als schriftliche Hausarbeit
-anzufertigen. Der Prüfungsausschuss soll den Umfang der Arbeit
-begrenzen. Die Bearbeitungszeit beträgt 30 Kalendertage.
+und soll Vorschläge der zu prüfenden Person berücksichtigen. Die
+Projektarbeit ist als schriftliche Hausarbeit anzufertigen. Der
+Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die
+Bearbeitungszeit beträgt 30 Kalendertage.
 
 (3) Ausgehend von der Projektarbeit gemäß Absatz 2 soll in einem
 projektarbeitsbezogenen Fachgespräch einschließlich einer Präsentation
@@ -814,55 +815,145 @@ dauern.
 mindestens ausreichende Leistungen erbracht wurden.
 
 
-## § 7 Anrechnung anderer Prüfungsleistungen
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-Auf Antrag kann die zuständige Stelle von der Ablegung einzelner
-Prüfungsleistungen befreien, wenn in den letzten fünf Jahren vor
-Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder
-staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
-Anforderungen der entsprechenden Prüfungsinhalte nach dieser
-Verordnung entspricht. Eine Freistellung von der Prüfung im
-situationsbezogenen Fachgespräch gemäß § 5 Abs. 6, von der
-Projektarbeit sowie dem projektarbeitsbezogenen Fachgespräch gemäß § 6
-Abs. 3 ist nicht zulässig.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8
+und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 8 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder §
+9 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen. Eine Befreiung von der Prüfung im
+situationsbezogenen Fachgespräch nach § 5 Absatz 6, von der
+Projektarbeit sowie dem projektarbeitsbezogenen Fachgespräch nach § 6
+Absatz 3 ist nicht zulässig.
 
 
-## § 8 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 8 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Im Prüfungsteil „Wirtschaftliches Handeln und betrieblicher
+Leistungsprozess“ sind die Prüfungsleistungen in jedem Prüfungsbereich
+nach § 4 Absatz 7 einzeln zu bewerten. Aus den einzelnen Bewertungen
+wird als Bewertung des Prüfungsteils das arithmetische Mittel
+berechnet.
+
+(3) Im Prüfungsteil „Management und Führung“ sind als
+Prüfungsleistungen zu bewerten:
+
+1.  die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 1 Satz 4
+    und
+
+
+2.  das situationsbezogene Fachgespräch nach § 5 Absatz 6.
+
+
+
+Aus den einzelnen Bewertungen wird als Bewertung des Prüfungsteils das
+arithmetische Mittel berechnet.
+
+(4) Im Prüfungsteil „Fachübergreifender technikbezogener Prüfungsteil“
+sind als Prüfungsleistungen zu bewerten:
+
+1.  die schriftliche Projektarbeit nach § 6 Absatz 2 und
+
+
+2.  das Fachgespräch mit Präsentation nach § 6 Absatz 3.
+
+
+
+Aus den beiden Bewertungen der Prüfungsleistungen wird als Bewertung
+des Prüfungsteils das gewichtete arithmetische Mittel berechnet. Dabei
+werden gewichtet:
+
+1.  die Bewertung der schriftlichen Projektarbeit mit zwei Dritteln und
+
+
+2.  die Bewertung des Fachgesprächs mit Präsentation mit einem Drittel.
+
+
+
+
+
+## § 9 Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen
-mindestens ausreichende Leistungen erbracht wurden.
+jeweils mindestens 50 Punkte erreicht worden sind.
 
-(2) Die Prüfungsteile "Wirtschaftliches Handeln und betrieblicher
-Leistungsprozess", "Management und Führung" und "Fachübergreifender
-technikbezogener Prüfungsteil" sind jeweils gesondert zu bewerten.
+(2) Ist die Prüfung bestanden, werden die folgenden Bewertungen
+jeweils kaufmännisch auf eine ganze Zahl gerundet:
 
-(3) Für den Prüfungsteil "Wirtschaftliches Handeln und betrieblicher
-Leistungsprozess" ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
-
-(4) Für den Prüfungsteil "Management und Führung" ist eine Note aus
-dem arithmetischen Mittel der Punktebewertungen der Leistungen in den
-einzelnen Situationsaufgaben zu bilden.
-
-(5) Für den Prüfungsteil "Fachübergreifender technikbezogener
-Prüfungsteil" ist eine Note aus den Punktewertungen der
-Prüfungsleistungen in der schriftlichen Projektarbeit und in dem
-Fachgespräch mit Präsentation zu bilden, dabei wird die Bewertung der
-Projektarbeit doppelt gewichtet.
-
-(6) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen, aus dem die in den
-Prüfungsteilen erzielten Noten und die in den Prüfungsleistungen
-erzielten Punkte hervorgehen müssen. Im Fall der Freistellung gemäß §
-7 sind Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben.
+1.  die Bewertung für den Prüfungsteil „Wirtschaftliches Handeln und
+    betrieblicher Leistungsprozess“,
 
 
-## § 9 Wiederholung der Prüfung
+2.  die Bewertung für den Prüfungsteil „Management und Führung“ sowie
 
-(1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
+
+3.  die Bewertung für den Prüfungsteil „Fachübergreifender
+    technikbezogener Prüfungsteil“.
+
+
+
+
+(3) Den Bewertungen für die einzelnen Prüfungsteile ist nach Anlage 1
+die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei werden die
+Bewertungen wie folgt gewichtet:
+
+1.  die Bewertung für den Prüfungsteil „Wirtschaftliches Handeln und
+    betrieblicher Leistungsprozess“ mit 30 Prozent,
+
+
+2.  die Bewertung für den Prüfungsteil „Management und Führung“ mit 30
+    Prozent,
+
+
+3.  die Bewertung für den Prüfungsteil „Fachübergreifender
+    technikbezogener Prüfungsteil“ mit 40 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 10 Zeugnisse
+
+(1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 11 Wiederholung der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil, kann zweimal wiederholt
 werden.
 
 (2) Wer an der Wiederholungsprüfung teilnimmt und sich innerhalb von
@@ -879,7 +970,7 @@ für die Wiederholungsprüfung die technikbezogene Projektarbeit
 ebenfalls als neue Aufgabe gestellt werden.
 
 
-## § 10 Übergangsvorschriften
+## § 12 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Technischen Betriebswirt (IHK)/zur
 Technischen Betriebswirtin (IHK) können bis zum 31. Mai 2007 nach den
@@ -891,107 +982,368 @@ Anmeldung zur Prüfung bis zum Ablauf des 30. April 2005 die Anwendung
 der bisherigen Vorschriften beantragt werden.
 
 
-## § 11 Inkrafttreten
+## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
+(zu den §§ 8 und 9)
 
-## Anlage 1 (zu § 8 Abs. 6)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2004, 2913)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-Herr/Frau.............................................................
-........
-geboren am.................
-in................................................
-hat am......................die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-vom 22. November 2004 (BGBl. I S. 2907)
-bestanden.
-Datum.................................................................
-........
-Unterschrift(en)......................................................
-........
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2255 – 2256)
 
 
-## Anlage 2 (zu § 8 Abs. 6)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2004, 2914 - 2915)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss Geprüfter Technischer
-Betriebswirt/Geprüfte Technische Betriebswirtin
-Herr/Frau
-....................................................................
-geboren am .............................. in
-.................................
-hat am  ................................. die Prüfung zum anerkannten
-Abschuss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-vom 22. November 2004 (BGBl. I S. 2907) bestanden:
-Note
-I.  Wirtschaftliches Handeln und betrieblicher Leistungsprozess
-.......
-Prüfungsbereiche:                                             Punkte
-1)
-Aspekte der allgemeinen Volks- und Betriebswirtschaftslehre .........
-Rechnungswesen
-.........
-Finanzierung und Investition
-.........
-Material-, Produktions- und Absatzwirtschaft                .........
-(Im Fall des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß § 7 im Hinblick auf die am ....... in .... vor
-.........................
-abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
-........................
-freigestellt.")
-Note
-.......
-II. Management und Führung
-1\.  Integrative, schriftliche Situationsaufgaben              Punkte
-1)
-Handlungsbereich Organisation und Unternehmensführung     .........
-Handlungsbereich Personalmanagement                       .........
-Handlungsbereich Informations- und
-Kommunikationstechniken                                   .........
-2\.  Situationsbezogenes Fachgespräch im Handlungsbereich
-.........
-(Im Fall des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß § 7 im Hinblick auf die am .... in .... vor .... abgelegte
-Prüfung in der
-Situationsaufgabe aus dem Handlungsbereich ....... freigestellt.")
-Note
-III. Fachübergreifender technikbezogener Prüfungsteil
-.......
-Prüfungsbereich:                                              Punkte
-1)
-Projektarbeit/Thema
-.........
-......................................................
-......................................................
-......................................................
-......................................................
-......................................................
-Projektarbeitsbezogenes Fachgespräch
-.........
-Datum ................................................
-Unterschrift(en) .....................................
-(Siegel der zuständigen Stelle)
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 10)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2256 – 2257)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  Benennung aller Prüfungsteile, der Prüfungs- und Handlungsbereiche
+    sowie des situationsbezogenen Fachgesprächs nach § 3 Absatz 1, § 4
+    Absatz 1 und § 5 Absatz 1 und 6,
+
+
+2.  Bewertung mit Note für den Prüfungsteil „Wirtschaftliches Handeln und
+    betrieblicher Leistungsprozess“, den Prüfungsteil „Management und
+    Führung“ und den Prüfungsteil „Fachübergreifender technikbezogener
+    Prüfungsteil“,
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 7.
+
+
+
 

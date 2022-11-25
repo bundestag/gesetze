@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1350
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.7.2009 I 1781
+:   Art. 1 G v. 2.12.2014 I 1926
 
 
 ## Eingangsformel
@@ -29,7 +29,7 @@ beschlossen:
 ## § 1 Art und Zweck der Erhebung
 
 (1) Über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation
-der Haushalte werden in den Jahren 2005 bis 2012 Erhebungen auf
+der Haushalte werden in den Jahren 2005 bis 2016 Erhebungen auf
 repräsentativer Grundlage (Mikrozensus) als Bundesstatistik
 durchgeführt.
 
@@ -481,6 +481,32 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 
+
+
+## § 13a Experimentierklausel
+
+(1) Zur Erprobung neuer Erhebungsverfahren ist es zulässig, bei bis zu
+2,5 Prozent der Erhebungseinheiten
+
+1.  auf die Erhebung einzelner Merkmale zu verzichten und
+
+
+2.  mit Einwilligung der Betroffenen für die Durchführung der
+    Folgebefragungen nach § 3 Angaben zu den Erhebungsmerkmalen aus den
+    vorangegangenen Befragungen zu verwenden; zu diesem Zweck dürfen
+    Angaben zu den Erhebungsmerkmalen aus den vorangegangenen Befragungen
+    mit den Angaben zu den Hilfsmerkmalen vorübergehend zusammengeführt
+    werden.
+
+
+
+Bei den Erhebungen nach Satz 1 werden die Erhebungseinheiten, auch in
+der Form von telefonischen Befragungen, in zwei aufeinanderfolgenden
+Quartalen befragt.
+
+(2) Die Länder teilen dem Statistischen Bundesamt mit, ob ihre
+jeweiligen statistischen Ämter an der Erprobung nach Absatz 1
+teilnehmen.
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten

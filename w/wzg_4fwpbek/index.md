@@ -37,6 +37,5 @@ Der Bundesminister der Justiz
 
 ## Anlage Flagge des Weltpostvereins
 
-(Inhalt: Nicht darstellbare Flagge,
 Fundstelle: BGBl. I 1973, 323)
-
+![bgbl1_1973_j0323_0010.jpg](bgbl1_1973_j0323_0010.jpg)

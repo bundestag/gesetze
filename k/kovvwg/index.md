@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 G v. 3. 5.2000 I 632
 
+G aufgeh. durch
+:   Art. 58 Nr. 13 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 ## § 1
 

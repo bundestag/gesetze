@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1547
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.7.2010 I 1010
+:   Art. 22 V v. 9.12.2019 I 2153
 
 
 ## Eingangsformel
@@ -225,10 +225,20 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
 *    *   § 20
 
-    *   Bewerten der Prüfungsteile und Bestehen der Prüfung
+    *   Bewerten der Prüfungsleistungen
 
 
 *    *   § 21
+
+    *   Bestehen der Prüfung, Gesamtnote
+
+
+*    *   § 22
+
+    *   Zeugnisse
+
+
+*    *   § 23
 
     *   Ausbildereignung
 
@@ -237,7 +247,7 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
 
 *    *
-    *   Vorschriften für die Prüfung der strategischen Professionals
+    *   Vorschriften für die Prüfung der Strategischen Professionals
 
 
 *    *
@@ -248,35 +258,35 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 *    *
     *
     *
-    *   Gemeinsame Vorschriften für die Prüfung der strategischen
+    *   Gemeinsame Vorschriften für die Prüfung der Strategischen
         Professionals
-
-
-*    *   § 22
-
-    *   Zulassungsvoraussetzungen (Strategische Professionals)
-
-
-*    *   § 23
-
-    *   Gliederung der Prüfung (Strategische Professionals)
 
 
 *    *   § 24
 
-    *   Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
+    *   Zulassungsvoraussetzungen (Strategische Professionals)
 
 
 *    *   § 25
 
-    *   Durchführung der Prüfung im Prüfungsteil "Projekt- und
-        Geschäftsbeziehungen"
+    *   Gliederung der Prüfung (Strategische Professionals)
 
 
 *    *   § 26
 
-    *   Durchführung der Prüfung im Prüfungsteil "Strategisches
-        Personalmanagement"
+    *   Durchführung der Prüfung im Prüfungsteil „Strategische Prozesse“
+
+
+*    *   § 27
+
+    *   Durchführung der Prüfung im Prüfungsteil „Projekt- und
+        Geschäftsbeziehungen“
+
+
+*    *   § 28
+
+    *   Durchführung der Prüfung im Prüfungsteil „Strategisches
+        Personalmanagement“
 
 
 *    *
@@ -291,14 +301,14 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
         Engineer)
 
 
-*    *   § 27
+*    *   § 29
 
     *   Ziel der Prüfung und Bezeichnung des Abschlusses
 
 
-*    *   § 28
+*    *   § 30
 
-    *   Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
+    *   Prüfungsinhalte im Prüfungsteil „Strategische Prozesse“ (Informatiker)
 
 
 *    *
@@ -313,14 +323,14 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
         (Certified IT Business Engineer)
 
 
-*    *   § 29
+*    *   § 31
 
     *   Ziel der Prüfung und Bezeichnung des Abschlusses
 
 
-*    *   § 30
+*    *   § 32
 
-    *   Prüfungsinhalte im Prüfungsteil "Strategische Prozesse"
+    *   Prüfungsinhalte im Prüfungsteil „Strategische Prozesse“
         (Wirtschaftsinformatiker)
 
 
@@ -335,9 +345,19 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
     *   Bewertung der Prüfungsteile und Bestehen der Prüfung
 
 
-*    *   § 31
+*    *   § 33
 
-    *   Bestehen der Prüfung
+    *   Bewerten der Prüfungsleistungen
+
+
+*    *   § 34
+
+    *   Bestehen der Prüfung, Gesamtnote
+
+
+*    *   § 35
+
+    *   Zeugnisse
 
 
 *    *   Teil 4
@@ -347,24 +367,42 @@ Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
     *   Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften
 
 
-*    *   § 32
+*    *   § 36
 
-    *   Anrechnung anderer Prüfungsleistungen
+    *   Befreiung von einzelnen Prüfungsbestandteilen
 
 
-*    *   § 33
+*    *   § 37
 
     *   Wiederholung der Prüfung
 
 
-*    *   § 34
+*    *   § 38
 
     *   Übergangsvorschriften
 
 
-*    *   § 35
+*    *   § 39
 
     *   Inkrafttreten, Außerkrafttreten
+
+
+*    *   Anlage 1
+        (zu den §§ 20, 21, 33 und 34)
+
+    *   Bewertungsmaßstab und -schlüssel
+
+
+*    *   Anlage 2
+        (zu den §§ 22 und 35)
+
+    *   Zeugnisinhalte
+
+
+*    *   Anlage 3
+        (zu § 2 Absatz 2)
+
+    *   Spezialistenprofile in der IT-Fortbildung
 
 
 
@@ -506,15 +544,13 @@ des ersten Prüfungsteils zu beginnen.
 
 #### § 4 Durchführung der Prüfung im Prüfungsteil "Betriebliche IT-Prozesse"
 
-(1) Im Prüfungsteil "Betriebliche IT-Prozesse" erstellt der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin eine Dokumentation nach
-Maßgabe der §§ 9, 12, 15 oder 18 über ein praxisrelevantes Projekt
-oder über Aufgaben aus betrieblichen IT-Prozessen. Der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin reicht hierzu einen
-Vorschlag ein. Der Prüfungsausschuss führt mit dem
-Prüfungsteilnehmer/der Prüfungsteilnehmerin darüber ein
-Beratungsgespräch und trifft mit ihm/ihr eine Zielvereinbarung über
-durchzuführende Arbeiten, Art und Umfang der zu erstellenden
+(1) Im Prüfungsteil "Betriebliche IT-Prozesse" erstellt die zu
+prüfende Person eine Dokumentation nach Maßgabe der §§ 9, 12, 15 oder
+18 über ein praxisrelevantes Projekt oder über Aufgaben aus
+betrieblichen IT-Prozessen. Die zu prüfende Person reicht hierzu einen
+Vorschlag ein. Der Prüfungsausschuss führt mit der zu prüfenden Person
+darüber ein Beratungsgespräch und trifft mit ihr eine Zielvereinbarung
+über durchzuführende Arbeiten, Art und Umfang der zu erstellenden
 Dokumentation sowie den Abgabetermin. Dabei darf zwischen dem Tag des
 Beratungsgesprächs und dem Abgabetermin der Dokumentation längstens
 ein Zeitraum von einem Jahr liegen.
@@ -525,59 +561,56 @@ Fachgespräch an. Die Präsentation soll mindestens 20 Minuten und
 höchstens 30 Minuten, das Fachgespräch und die Präsentation zusammen
 mindestens 60 Minuten und höchstens 90 Minuten dauern.
 
-(3) Durch die Präsentation und das Fachgespräch soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-der Lage ist, die in der Dokumentation dargestellten IT-Prozesse zu
-analysieren, Lösungen zu konzipieren, Projekte zu planen, getroffene
-Entscheidungen transparent zu machen und übergreifende Zusammenhänge
-darzustellen sowie seine/ihre Konzeptionen und Lösungsvorschläge zu
-vertreten.
+(3) Durch die Präsentation und das Fachgespräch soll die zu prüfende
+Person nachweisen, dass sie in der Lage ist, die in der Dokumentation
+dargestellten IT-Prozesse zu analysieren, Lösungen zu konzipieren,
+Projekte zu planen, getroffene Entscheidungen transparent zu machen
+und übergreifende Zusammenhänge darzustellen sowie ihre Konzeptionen
+und Lösungsvorschläge zu vertreten.
 
 
 #### § 5 Durchführung der Prüfung im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
-Prüfungsteil "Profilspezifische IT-Fachaufgaben" drei
-Situationsaufgaben nach Maßgabe der §§ 10, 13, 16 oder 19 schriftlich
-bearbeiten. Eine der Situationsaufgaben wird in englischer Sprache
-gestellt. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt
-jeweils mindestens 150 Minuten, insgesamt jedoch nicht mehr als 540
-Minuten.
+(1) Die zu prüfende Person soll im Prüfungsteil "Profilspezifische IT-
+Fachaufgaben" drei Situationsaufgaben nach Maßgabe der §§ 10, 13, 16
+oder 19 schriftlich bearbeiten. Eine der Situationsaufgaben wird in
+englischer Sprache gestellt. Die Prüfungsdauer der einzelnen
+Situationsaufgaben beträgt jeweils mindestens 150 Minuten, insgesamt
+jedoch nicht mehr als 540 Minuten.
 
-(2) Hat der Prüfungsteilnehmer/die Prüfungsteilnehmerin in nicht mehr
-als einer Situationsaufgabe eine mangelhafte Prüfungsleistung
-erbracht, ist ihm/ihr darin eine mündliche Ergänzungsprüfung
-anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung
-besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der
-Regel nicht länger als 20 Minuten dauern. Die Bewertung der
-schriftlichen Prüfungsleistung und die der mündlichen
-Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
-Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
-
-
-#### § 6 Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
-
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
-Prüfungsteil "Mitarbeiterführung und Personalmanagement" zwei
-Situationsaufgaben schriftlich bearbeiten und eine praktische
-Demonstration vorbereiten und durchführen.
-
-(2) Die Prüfungsdauer der Situationsaufgaben beträgt jeweils
-mindestens 90 Minuten, insgesamt jedoch nicht mehr als 240 Minuten.
-Die praktische Demonstration soll nicht länger als 30 Minuten dauern.
-Der Prüfungsteilnehmer/die Prüfungsteilnehmerin erhält Gelegenheit,
-sich mindestens 20 Minuten, höchstens 30 Minuten vorzubereiten.
-
-(3) Hat der Prüfungsteilnehmer/die Prüfungsteilnehmerin in nicht mehr
-als einer Situationsaufgabe gemäß Absatz 1 mangelhafte
-Prüfungsleistungen erbracht, ist ihm/ihr in dieser Situationsaufgabe
-eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden
-schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die
-einzelne Ergänzungsprüfung soll in der Regel nicht länger als 20
+(2) Hat die zu prüfende Person in nicht mehr als einer
+Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist ihr
+darin eine mündliche Ergänzungsprüfung anzubieten. Bei einer
+ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit
+nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20
 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und
 die der mündlichen Ergänzungsprüfung werden zu einer Note
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
+
+
+#### § 6 Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
+
+(1) Die zu prüfende Person soll im Prüfungsteil "Mitarbeiterführung
+und Personalmanagement" zwei Situationsaufgaben schriftlich bearbeiten
+und eine praktische Demonstration vorbereiten und durchführen.
+
+(2) Die Prüfungsdauer der Situationsaufgaben beträgt jeweils
+mindestens 90 Minuten, insgesamt jedoch nicht mehr als 240 Minuten.
+Die praktische Demonstration soll nicht länger als 30 Minuten dauern.
+Die zu prüfende Person erhält Gelegenheit, sich mindestens 20 Minuten,
+höchstens 30 Minuten vorzubereiten.
+
+(3) Hat die zu prüfende Person in nicht mehr als einer
+Situationsaufgabe gemäß Absatz 1 mangelhafte Prüfungsleistungen
+erbracht, ist ihr in dieser Situationsaufgabe eine mündliche
+Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen
+Prüfungsleistung besteht diese Möglichkeit nicht. Die einzelne
+Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten
+dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
+mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
+Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
+gewichtet.
 
 
 #### § 7 Prüfungsinhalte im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
@@ -585,11 +618,10 @@ Prüfungsleistung doppelt gewichtet.
 (1) Die Situationsaufgaben sind so gestaltet, dass jeder der folgenden
 Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
-1.  Im Qualifikationsschwerpunkt "Personalplanung und -auswahl" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    den Personalbedarf ermitteln und den Personaleinsatz entsprechend den
-    betrieblichen Anforderungen sicherstellen kann. In diesem Rahmen
-    können geprüft werden:
+1.  Im Qualifikationsschwerpunkt "Personalplanung und -auswahl" soll die
+    zu prüfende Person nachweisen, dass sie den Personalbedarf ermitteln
+    und den Personaleinsatz entsprechend den betrieblichen Anforderungen
+    sicherstellen kann. In diesem Rahmen können geprüft werden:
 
     a)  Ermitteln und Bestimmen des qualitativen und quantitativen
         Personalbedarfs unter Berücksichtigung technischer und
@@ -613,11 +645,10 @@ Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
 
 
-2.  im Qualifikationsschwerpunkt "Mitarbeiter- und Teamführung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    Personalmaßnahmen durchführen, Mitarbeiter sowie Teams führen,
-    entwickeln, motivieren und einsetzen kann. In diesem Rahmen können
-    geprüft werden:
+2.  im Qualifikationsschwerpunkt "Mitarbeiter- und Teamführung" soll die
+    zu prüfende Person nachweisen, dass sie Personalmaßnahmen durchführen,
+    Mitarbeiter sowie Teams führen, entwickeln, motivieren und einsetzen
+    kann. In diesem Rahmen können geprüft werden:
 
     a)  Beurteilen von Mitarbeitern, einschließlich Auszubildenden,
 
@@ -657,11 +688,11 @@ Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
 
 
-3.  im Qualifikationsschwerpunkt "Qualifizierung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    Personalentwicklungspotentiale einschätzen, Personalentwicklungs- und
-    Qualifizierungsziele festlegen sowie Qualifizierungsaktivitäten
-    durchführen kann. In diesem Rahmen können geprüft werden:
+3.  im Qualifikationsschwerpunkt "Qualifizierung" soll die zu prüfende
+    Person nachweisen, dass sie Personalentwicklungspotentiale
+    einschätzen, Personalentwicklungs- und Qualifizierungsziele festlegen
+    sowie Qualifizierungsaktivitäten durchführen kann. In diesem Rahmen
+    können geprüft werden:
 
     a)  Ermitteln von kurz- und langfristigen Qualifizierungsbedarfen,
 
@@ -689,13 +720,13 @@ Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
 
 
-4.  im Qualifikationsschwerpunkt "Arbeitsrecht" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    bei personellen Einzelmaßnahmen, Veränderungen der Arbeitsorganisation
-    und des Einsatzes von Personal, insbesondere arbeitsrechtliche und
-    sozialrechtliche Bestimmungen, Beteiligungsrechte der
-    Mitarbeitervertretungen und betriebliche Erfordernisse berücksichtigen
-    kann. In diesem Rahmen können geprüft werden:
+4.  im Qualifikationsschwerpunkt "Arbeitsrecht" soll die zu prüfende
+    Person nachweisen, dass sie bei personellen Einzelmaßnahmen,
+    Veränderungen der Arbeitsorganisation und des Einsatzes von Personal,
+    insbesondere arbeitsrechtliche und sozialrechtliche Bestimmungen,
+    Beteiligungsrechte der Mitarbeitervertretungen und betriebliche
+    Erfordernisse berücksichtigen kann. In diesem Rahmen können geprüft
+    werden:
 
     a)  Anwenden des Betriebsverfassungsgesetzes, Berufsbildungsgesetzes und
         des Tarifrechts,
@@ -722,8 +753,8 @@ Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
 
 
-(2) Für die praktische Demonstration wählt der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin einen der folgenden Anwendungsfälle aus:
+(2) Für die praktische Demonstration wählt die zu prüfende Person
+einen der folgenden Anwendungsfälle aus:
 
 1.  Vorbereiten und Durchführen eines Einstellungsgespräches,
 
@@ -742,35 +773,33 @@ Prüfungsteilnehmerin einen der folgenden Anwendungsfälle aus:
 (3) In den Anwendungsfällen sind folgende Anforderungen nachzuweisen:
 
 1.  im Anwendungsfall "Vorbereiten und Durchführen eines
-    Einstellungsgespräches" soll der Prüfungsteilnehmer/die
-    Prüfungsteilnehmerin nachweisen, dass er/sie die Rahmenbedingungen für
-    ein Gespräch gestalten, Bewerber beurteilen, Einsatz- und
-    Entwicklungsperspektiven für den Bewerber aufzeigen und das
-    Einstellungsgespräch zielgerichtet führen kann,
+    Einstellungsgespräches" soll die zu prüfende Person nachweisen, dass
+    sie die Rahmenbedingungen für ein Gespräch gestalten, Bewerber
+    beurteilen, Einsatz- und Entwicklungsperspektiven für den Bewerber
+    aufzeigen und das Einstellungsgespräch zielgerichtet führen kann,
 
 
 2.  im Anwendungsfall "Vorbereiten und Durchführen eines
-    Mitarbeitergespräches" soll der Prüfungsteilnehmer/die
-    Prüfungsteilnehmerin nachweisen, dass er/sie die Rahmenbedingungen für
-    ein Gespräch gestalten, Mitarbeiter beurteilen, Zielvereinbarungen
-    treffen, Entwicklungsperspektiven für den Mitarbeiter aufzeigen,
-    Kritik annehmen sowie das Gespräch zielgerichtet führen kann,
+    Mitarbeitergespräches" soll die zu prüfende Person nachweisen, dass
+    sie die Rahmenbedingungen für ein Gespräch gestalten, Mitarbeiter
+    beurteilen, Zielvereinbarungen treffen, Entwicklungsperspektiven für
+    den Mitarbeiter aufzeigen, Kritik annehmen sowie das Gespräch
+    zielgerichtet führen kann,
 
 
 3.  im Anwendungsfall "Vorbereiten und Durchführen einer
-    Ausbildungseinheit" soll der Prüfungsteilnehmer/die
-    Prüfungsteilnehmerin nachweisen, dass er/sie Ausbildungseinheiten
-    auswählen und gestalten, Methoden der Anleitung und Medien auswählen
-    und einsetzen, Lernprozesse gestalten, auf Lernschwierigkeiten
-    reagieren sowie Lernerfolge sicherstellen kann,
+    Ausbildungseinheit" soll die zu prüfende Person nachweisen, dass sie
+    Ausbildungseinheiten auswählen und gestalten, Methoden der Anleitung
+    und Medien auswählen und einsetzen, Lernprozesse gestalten, auf
+    Lernschwierigkeiten reagieren sowie Lernerfolge sicherstellen kann,
 
 
 4.  im Anwendungsfall "Vorbereiten und Durchführen einer
-    Mitarbeiterqualifizierung" soll der Prüfungsteilnehmer/die
-    Prüfungsteilnehmerin nachweisen, dass er/sie Qualifizierungsthemen
-    auswählen und gestalten, Methoden der Anleitung und Medien auswählen
-    und einsetzen, Lernprozesse gestalten, auf Lernschwierigkeiten
-    reagieren sowie Lernerfolge sicherstellen kann.
+    Mitarbeiterqualifizierung" soll die zu prüfende Person nachweisen,
+    dass sie Qualifizierungsthemen auswählen und gestalten, Methoden der
+    Anleitung und Medien auswählen und einsetzen, Lernprozesse gestalten,
+    auf Lernschwierigkeiten reagieren sowie Lernerfolge sicherstellen
+    kann.
 
 
 
@@ -804,11 +833,11 @@ Manager) und damit die Befähigung,
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin unter Berücksichtigung von Rechtsvorschriften,
-Ergonomie und Umweltaspekten sowie technischer und
-betriebswirtschaftlicher Zusammenhänge und des Qualitätsmanagements
-folgende Prozesse durchführen kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+unter Berücksichtigung von Rechtsvorschriften, Ergonomie und
+Umweltaspekten sowie technischer und betriebswirtschaftlicher
+Zusammenhänge und des Qualitätsmanagements folgende Prozesse
+durchführen kann:
 
 a)  Analysieren der vorgegebenen Projektkenngrößen (fachliches Modell),
 
@@ -853,11 +882,10 @@ Manager).
 
 #### § 9 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Entwickler)
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
-Erstellung der Dokumentation nachweisen, dass er/sie ein
-praxisrelevantes Projekt oder Aufgaben aus mindestens einem der
-folgenden betrieblichen IT-Prozesse planen, durchführen und
-dokumentieren kann:
+(1) Die zu prüfende Person soll durch die Erstellung der Dokumentation
+nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus
+mindestens einem der folgenden betrieblichen IT-Prozesse planen,
+durchführen und dokumentieren kann:
 
 1.  Analysieren von Projektkenngrößen und Designen von IT-Lösungen,
 
@@ -873,8 +901,8 @@ dokumentieren kann:
 
 (2) Die Dokumentation soll eine Darstellung und analytische Bewertung
 über Entstehung und Ablauf der Projektarbeit oder Lösungskonzeption
-enthalten. Durch die Dokumentation soll der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin nachweisen, dass er/sie in der Lage ist,
+enthalten. Durch die Dokumentation soll die zu prüfende Person
+nachweisen, dass sie in der Lage ist,
 
 a)  sich auf neue Technologien und sich wandelnde lokale und globale
     Marktverhältnisse einzustellen,
@@ -936,13 +964,12 @@ schriftlich zu bearbeiten:
 nachfolgenden Qualifikationsschwerpunkte mindestens einmal
 thematisiert wird:
 
-1.  im Qualifikationsschwerpunkt "Technical Engineering" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, vorgegebene Projektkenngrößen zu analysieren, Produkte
-    unter Einbeziehung innovativer Lösungen zu designen,
-    Lösungskomponenten zu entwickeln und zu erstellen, Komponenten zu
-    integrieren sowie Tests und die Abnahme des Produkts durchzuführen. In
-    diesem Rahmen können geprüft werden:
+1.  im Qualifikationsschwerpunkt "Technical Engineering" soll die zu
+    prüfende Person nachweisen, dass sie in der Lage ist, vorgegebene
+    Projektkenngrößen zu analysieren, Produkte unter Einbeziehung
+    innovativer Lösungen zu designen, Lösungskomponenten zu entwickeln und
+    zu erstellen, Komponenten zu integrieren sowie Tests und die Abnahme
+    des Produkts durchzuführen. In diesem Rahmen können geprüft werden:
 
     a)  Analysieren und Bewerten von Benutzeranforderungen sowie Umsetzen
         dieser, unter Einbeziehung innovativer Lösungen in eine Produktsicht,
@@ -989,10 +1016,9 @@ thematisiert wird:
 
 
 
-2.  im Qualifikationsschwerpunkt "Projektmanagement" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, IT-Projekte zu strukturieren und zu leiten. In diesem
-    Rahmen können geprüft werden:
+2.  im Qualifikationsschwerpunkt "Projektmanagement" soll die zu prüfende
+    Person nachweisen, dass sie in der Lage ist, IT-Projekte zu
+    strukturieren und zu leiten. In diesem Rahmen können geprüft werden:
 
     a)  Durchführen von Projekten unter Beachtung der gesetzten Projektziele
         und des dafür vorgegebenen Ressourcenrahmens,
@@ -1017,11 +1043,11 @@ thematisiert wird:
 
 
 3.  im Qualifikationsschwerpunkt "Betriebswirtschaftliches Handeln" soll
-    der Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass
-    er/sie in der Lage ist, betriebswirtschaftliche Zusammenhänge und
-    kostenrelevante Einflussfaktoren bei der Entwicklung einer technisch
-    optimalen und marktgerechten IT-Lösung zu beurteilen und zu
-    berücksichtigen. In diesem Rahmen können geprüft werden:
+    die zu prüfende Person nachweisen, dass sie in der Lage ist,
+    betriebswirtschaftliche Zusammenhänge und kostenrelevante
+    Einflussfaktoren bei der Entwicklung einer technisch optimalen und
+    marktgerechten IT-Lösung zu beurteilen und zu berücksichtigen. In
+    diesem Rahmen können geprüft werden:
 
     a)  Planen, Beurteilen und Beeinflussen von betrieblichen Abläufen in
         seinem Umfeld nach wirtschaftlichen Gesichtspunkten,
@@ -1049,7 +1075,7 @@ thematisiert wird:
 
 
 
-#### § 11 Ziel der Prüfung und  Bezeichnung des Abschlusses
+#### § 11 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften
 IT-Projektleiter/zur Geprüften IT-Projektleiterin (Certified IT
@@ -1074,10 +1100,10 @@ Business Manager) und damit die Befähigung,
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin unter Berücksichtigung von Rechtsvorschriften
-sowie technischer und betriebswirtschaftlicher Zusammenhänge und des
-Qualitätsmanagements folgende Prozesse durchführen kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+unter Berücksichtigung von Rechtsvorschriften sowie technischer und
+betriebswirtschaftlicher Zusammenhänge und des Qualitätsmanagements
+folgende Prozesse durchführen kann:
 
 a)  Beraten von Kunden, Mitarbeiten an der Erstellung von Angeboten,
 
@@ -1138,11 +1164,10 @@ Business Manager).
 
 #### § 12 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Projektleiter)
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
-Erstellung der Dokumentation nachweisen, dass er/sie ein
-praxisrelevantes Projekt oder Aufgaben aus mindestens einem der
-folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren
-kann:
+(1) Die zu prüfende Person soll durch die Erstellung der Dokumentation
+nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus
+mindestens einem der folgenden IT-Geschäftsprozesse planen,
+durchführen und dokumentieren kann:
 
 1.  Beraten von Kunden und Erstellen von Angeboten,
 
@@ -1161,8 +1186,8 @@ kann:
 
 (2) Die Dokumentation soll eine Darstellung und analytische Bewertung
 über Entstehung und Ablauf der Projektarbeit oder Lösungskonzeption
-enthalten. Durch die Dokumentation soll der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin nachweisen, dass er/sie in der Lage ist,
+enthalten. Durch die Dokumentation soll die zu prüfende Person
+nachweisen, dass sie in der Lage ist,
 
 a)  sich auf neue Technologien und sich wandelnde lokale und globale
     Marktverhältnisse einzustellen,
@@ -1231,12 +1256,11 @@ nachfolgenden Qualifikationsschwerpunkte mindestens einmal
 thematisiert wird. In den Qualifikationsschwerpunkten gibt es folgende
 Anforderungen:
 
-1.  im Qualifikationsschwerpunkt "Projektanbahnung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    unter Berücksichtigung der unterschiedlichen Sichtweisen des Kunden
-    und des eigenen Unternehmens sowie von Rechtsvorschriften in der Lage
-    ist, Kunden zu beraten und Angebote zu erstellen. In diesem Rahmen
-    können geprüft werden:
+1.  im Qualifikationsschwerpunkt "Projektanbahnung" soll die zu prüfende
+    Person nachweisen, dass sie unter Berücksichtigung der
+    unterschiedlichen Sichtweisen des Kunden und des eigenen Unternehmens
+    sowie von Rechtsvorschriften in der Lage ist, Kunden zu beraten und
+    Angebote zu erstellen. In diesem Rahmen können geprüft werden:
 
     a)  zielgerichtetes Strukturieren und Führen von Beratungsgesprächen,
 
@@ -1278,11 +1302,10 @@ Anforderungen:
 
 
 2.  im Qualifikationsschwerpunkt "Projektorganisation und -durchführung"
-    soll der Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass
-    er/sie in der Lage ist, eine aufgabenspezifische Projektorganisation
-    einzurichten, den Projektablauf zu strukturieren, zu überwachen, zu
-    steuern und das Projekt abzuschließen. In diesem Rahmen können geprüft
-    werden:
+    soll die zu prüfende Person nachweisen, dass sie in der Lage ist, eine
+    aufgabenspezifische Projektorganisation einzurichten, den
+    Projektablauf zu strukturieren, zu überwachen, zu steuern und das
+    Projekt abzuschließen. In diesem Rahmen können geprüft werden:
 
     a)  Festlegen der Aufbau- und Ablauforganisation,
 
@@ -1330,11 +1353,11 @@ Anforderungen:
 
 
 
-3.  im Qualifikationsschwerpunkt "Projektmarketing" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, Projekte im Projektumfeld des Kunden und im eigenen
-    Unternehmen darzustellen und Projektinteressen zu vertreten. In diesem
-    Rahmen können geprüft werden:
+3.  im Qualifikationsschwerpunkt "Projektmarketing" soll die zu prüfende
+    Person nachweisen, dass sie in der Lage ist, Projekte im Projektumfeld
+    des Kunden und im eigenen Unternehmen darzustellen und
+    Projektinteressen zu vertreten. In diesem Rahmen können geprüft
+    werden:
 
     a)  Aufbereiten und Strukturieren von Sachverhalten im Hinblick auf
         Zielsetzung und Zielgruppen,
@@ -1389,10 +1412,10 @@ Consultant) und damit die Befähigung,
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin unter Berücksichtigung von Rechtsvorschriften
-sowie technischer und betriebswirtschaftlicher Zusammenhänge und des
-Qualitätsmanagements folgende Prozesse durchführen kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+unter Berücksichtigung von Rechtsvorschriften sowie technischer und
+betriebswirtschaftlicher Zusammenhänge und des Qualitätsmanagements
+folgende Prozesse durchführen kann:
 
 a)  Bewerten von Kunden-, Mitbewerber- und eigenen IT-Systemen unter
     technischen und wirtschaftlichen Gesichtspunkten,
@@ -1434,11 +1457,10 @@ Consultant).
 
 #### § 15 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Berater)
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
-Erstellung der Dokumentation nachweisen, dass er/sie ein
-praxisrelevantes Projekt oder Aufgaben aus mindestens einem der
-folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren
-kann:
+(1) Die zu prüfende Person soll durch die Erstellung der Dokumentation
+nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus
+mindestens einem der folgenden IT-Geschäftsprozesse planen,
+durchführen und dokumentieren kann:
 
 1.  Analysieren von Geschäftsprozessen und Bewertung von Kunden-,
     Mitbewerber- und eigenen Systemen unter technischen Gesichtspunkten,
@@ -1460,9 +1482,8 @@ kann:
 
 (2) Die Dokumentation soll eine Darstellung und analytische Bewertung
 über Entstehung und Ablauf der Projektarbeit oder einer
-Lösungskonzeption enthalten. Durch die Dokumentation soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-der Lage ist,
+Lösungskonzeption enthalten. Durch die Dokumentation soll die zu
+prüfende Person nachweisen, dass sie in der Lage ist,
 
 a)  sich auf neue Technologien und sich wandelnde lokale und globale
     Marktverhältnisse einzustellen,
@@ -1526,10 +1547,9 @@ nachfolgenden Qualifikationsschwerpunkte mindestens einmal
 thematisiert wird. In den Qualifikationsschwerpunkten gibt es folgende
 Anforderungen:
 
-1.  im Qualifikationsschwerpunkt "Geschäftsprozessanalyse" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, in Unternehmen Analysen durchzuführen. In diesem Rahmen
-    können geprüft werden:
+1.  im Qualifikationsschwerpunkt "Geschäftsprozessanalyse" soll die zu
+    prüfende Person nachweisen, dass sie in der Lage ist, in Unternehmen
+    Analysen durchzuführen. In diesem Rahmen können geprüft werden:
 
     a)  Beurteilen von IT-Systemen und Lösungen unter Kosten/Nutzen-Aspekten,
 
@@ -1547,11 +1567,11 @@ Anforderungen:
 
 
 
-2.  im Qualifikationsschwerpunkt "Angebotserstellung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, unter Beachtung rechtlicher Vorschriften, formaler
-    Vorgaben und wirtschaftlichen Rahmenbedingungen ein kundenspezifisches
-    Angebot zu erstellen. In diesem Rahmen können geprüft werden:
+2.  im Qualifikationsschwerpunkt "Angebotserstellung" soll die zu prüfende
+    Person nachweisen, dass sie in der Lage ist, unter Beachtung
+    rechtlicher Vorschriften, formaler Vorgaben und wirtschaftlichen
+    Rahmenbedingungen ein kundenspezifisches Angebot zu erstellen. In
+    diesem Rahmen können geprüft werden:
 
     a)  Zusammenführen von Daten aus verschiedenen Quellen,
 
@@ -1574,10 +1594,10 @@ Anforderungen:
 
 
 
-3.  im Qualifikationsschwerpunkt "IT-Projektcontrolling" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, IT-Lösungen zu planen, zu organisieren und zu
-    überwachen. In diesem Rahmen können geprüft werden:
+3.  im Qualifikationsschwerpunkt "IT-Projektcontrolling" soll die zu
+    prüfende Person nachweisen, dass sie in der Lage ist, IT-Lösungen zu
+    planen, zu organisieren und zu überwachen. In diesem Rahmen können
+    geprüft werden:
 
     a)  Erstellen von Projektplänen,
 
@@ -1595,11 +1615,10 @@ Anforderungen:
 
 
 
-4.  im Qualifikationsschwerpunkt "Produktmarketing" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, Produkte im Umfeld des Kunden und im eigenen Unternehmen
-    darzustellen und Projektinteressen zu vertreten. In diesem Rahmen
-    können geprüft werden:
+4.  im Qualifikationsschwerpunkt "Produktmarketing" soll die zu prüfende
+    Person nachweisen, dass sie in der Lage ist, Produkte im Umfeld des
+    Kunden und im eigenen Unternehmen darzustellen und Projektinteressen
+    zu vertreten. In diesem Rahmen können geprüft werden:
 
     a)  Aufbereiten und Strukturieren von Sachverhalten im Hinblick auf
         Zielsetzung und Zielgruppe,
@@ -1651,10 +1670,10 @@ und damit die Befähigung,
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin unter Berücksichtigung von Rechtsvorschriften
-sowie technischer und betriebswirtschaftlicher Zusammenhänge und des
-Qualitätsmanagements folgende Prozesse durchführen kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+unter Berücksichtigung von Rechtsvorschriften sowie technischer und
+betriebswirtschaftlicher Zusammenhänge und des Qualitätsmanagements
+folgende Prozesse durchführen kann:
 
 a)  Entwickeln von Marketingstrategien, Analysieren von Kunden- und
     Marktdaten, Planen und Durchführen von Werbung für IT-Produkte, IT-
@@ -1687,11 +1706,10 @@ Manager).
 
 #### § 18 Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Ökonom)
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll durch die
-Erstellung der Dokumentation nachweisen, dass er/sie ein
-praxisrelevantes Projekt oder Aufgaben aus mindestens einem der
-folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren
-kann:
+(1) Die zu prüfende Person soll durch die Erstellung der Dokumentation
+nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus
+mindestens einem der folgenden IT-Geschäftsprozesse planen,
+durchführen und dokumentieren kann:
 
 1.  Planen und Durchführen von IT-Beschaffungsprozessen, einschließlich
     Durchführen von Bestandsanalysen und Entwicklung von
@@ -1721,9 +1739,8 @@ kann:
 über Entstehung und Ablauf der Projektarbeit oder Lösungskonzeption
 enthalten. Der Dokumentation ist eine englischsprachige Kurzfassung
 (Abstract) mit den wesentlichen Inhalten der Projektdokumentation
-voranzustellen. Durch die Dokumentation soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-der Lage ist,
+voranzustellen. Durch die Dokumentation soll die zu prüfende Person
+nachweisen, dass sie in der Lage ist,
 
 a)  Projektalternativen in der Projektinitialisierungsphase zu
     untersuchen,
@@ -1756,7 +1773,7 @@ h)  qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken
 
 
 
-#### § 19 Prüfungsinhalte im Prüfungsteil  "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
+#### § 19 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen
 schriftlich zu bearbeiten:
@@ -1777,11 +1794,10 @@ nachfolgenden Qualifikationsschwerpunkte mindestens einmal
 thematisiert wird. In den Qualifikationsschwerpunkten gibt es folgende
 Anforderungen:
 
-1.  im Qualifikationsschwerpunkt "Rechtsbewusstes Handeln" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, im Rahmen seiner/ihrer Handlungen einschlägige
-    Rechtsvorschriften zu berücksichtigen. In diesem Rahmen können geprüft
-    werden:
+1.  im Qualifikationsschwerpunkt "Rechtsbewusstes Handeln" soll die zu
+    prüfende Person nachweisen, dass sie in der Lage ist, im Rahmen
+    seiner/ihrer Handlungen einschlägige Rechtsvorschriften zu
+    berücksichtigen. In diesem Rahmen können geprüft werden:
 
     a)  Berücksichtigen von Vertragsrecht und IT-spezifischem Urheberrecht,
         auch in internationalem Rechtszusammenhang,
@@ -1799,11 +1815,11 @@ Anforderungen:
 
 
 
-2.  im Qualifikationsschwerpunkt "Wirtschaften und Finanzieren" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, betriebswirtschaftliche Gesichtspunkte in seinen/ihren
-    Handlungen zu berücksichtigen und volkswirtschaftliche Zusammenhänge
-    aufzuzeigen. In diesem Rahmen können geprüft werden:
+2.  im Qualifikationsschwerpunkt "Wirtschaften und Finanzieren" soll die
+    zu prüfende Person nachweisen, dass sie in der Lage ist,
+    betriebswirtschaftliche Gesichtspunkte in seinen/ihren Handlungen zu
+    berücksichtigen und volkswirtschaftliche Zusammenhänge aufzuzeigen. In
+    diesem Rahmen können geprüft werden:
 
     a)  Analysieren und Beurteilen von Unternehmensformen sowie deren
         Auswirkungen auf die Wahrnehmung der Aufgaben,
@@ -1831,11 +1847,11 @@ Anforderungen:
 
 
 
-3.  im Qualifikationsschwerpunkt "Betriebliches Kostenwesen" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-    der Lage ist, betriebswirtschaftliche Zusammenhänge und
-    kostenrelevante Einflussfaktoren projekt- oder bereichsübergreifend zu
-    erfassen und zu beurteilen. In diesem Rahmen können geprüft werden:
+3.  im Qualifikationsschwerpunkt "Betriebliches Kostenwesen" soll die zu
+    prüfende Person nachweisen, dass sie in der Lage ist,
+    betriebswirtschaftliche Zusammenhänge und kostenrelevante
+    Einflussfaktoren projekt- oder bereichsübergreifend zu erfassen und zu
+    beurteilen. In diesem Rahmen können geprüft werden:
 
     a)  Planen, Organisieren, Einleiten und Überwachen von Möglichkeiten der
         Kostenbeeinflussung und Aktivitäten zum kostenbewussten Handeln,
@@ -1858,34 +1874,90 @@ Anforderungen:
 
 
 
-#### § 20 Bewerten der Prüfungsteile und Bestehen der Prüfung
+#### § 20 Bewerten der Prüfungsleistungen
 
-(1) Der Prüfungsteil "Betriebliche IT-Prozesse", die drei
-Situationsaufgaben im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Der Prüfungsteil „Betriebliche IT-Prozesse“, die drei
+Situationsaufgaben im Prüfungsteil „Profilspezifische IT-Fachaufgaben“
 sowie die zwei Situationsaufgaben und die praktische Demonstration im
-Prüfungsteil "Mitarbeiterführung und Personalmanagement" sind
-gesondert zu bewerten.
+Prüfungsteil „Mitarbeiterführung und Personalmanagement“ sind einzeln
+zu bewerten.
 
-(2) In den Prüfungsteilen "Profilspezifische IT-Fachaufgaben" sowie
-"Mitarbeiterführung und Personalmanagement" ist eine Gesamtnote aus
-dem arithmetischen Mittel der Punktebewertungen der jeweiligen
-einzelnen Prüfungsleistungen zu bilden.
-
-(3) Aus dem arithmetischen Mittel der Punktebewertungen der drei
-Prüfungsteile wird eine Gesamtnote gebildet. Dabei hat der
-Prüfungsteil "Betriebliche IT-Prozesse" das doppelte Gewicht gegenüber
-den beiden anderen Prüfungsteilen.
-
-(4) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen nach
-Absatz 1 mindestens ausreichende Leistungen erbracht wurden.
-
-(5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
-Freistellung gemäß § 32 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(3) In den Prüfungsteilen „Profilspezifische IT-Fachaufgaben“ sowie
+„Mitarbeiterführung und Personalmanagement“ ist eine Note aus dem
+arithmetischen Mittel der Punktebewertungen der jeweiligen einzelnen
+Prüfungsleistungen zu bilden.
 
 
-#### § 21 Ausbildereignung
+#### § 21 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+Prüfungsleistungen nach § 20 Absatz 2 jeweils mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, sind die Bewertungen für die
+Prüfungsteile „Profilspezifische IT-Fachaufgaben“ und
+„Mitarbeiterführung und Personalmanagement“ jeweils kaufmännisch auf
+eine ganze Zahl zu runden.
+
+(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer
+Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel
+der Bewertungen der drei Prüfungsteile zu berechnen. Dabei sind die
+Prüfungsteile wie folgt zu gewichten:
+
+1.  der Prüfungsteil „Betriebliche IT-Prozesse“ mit 50 Prozent,
+
+
+2.  die Prüfungsteile „Profilspezifische IT-Fachaufgaben“ und
+    „Mitarbeiterführung und Personalmanagement“ mit jeweils 25 Prozent.
+
+
+
+
+(4) Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu
+runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## Teil 3 - Vorschriften für die Prüfung der strategischen Professionals
+
+
+
+### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der strategischen Professionals
+
+
+
+#### § 22 Zeugnisse
+
+(1) Wer die Prüfung nach § 21 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 36 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+#### § 23 Ausbildereignung
 
 (1) Wer die Prüfung nach dieser Verordnung zu einem Abschluss der
 operativen Professionals bestanden hat, ist vom schriftlichen Teil der
@@ -1897,19 +1969,12 @@ Personalmanagement" für die praktische Demonstration den
 Anwendungsfall "Vorbereiten und Durchführen einer Ausbildungseinheit"
 oder "Vorbereiten und Durchführen einer Mitarbeiterqualifizierung"
 ausgewählt hat, hat die berufs- und arbeitspädagogische Qualifikation
-nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist dem
-Prüfungsteilnehmer/der Prüfungsteilnehmerin ein Zeugnis auszustellen.
+nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist der zu
+prüfenden Person ein Zeugnis nach § 5 der Ausbilder-Eignungsverordnung
+auszustellen.
 
 
-## Teil 3 - Vorschriften für die Prüfung der strategischen Professionals
-
-
-
-### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der strategischen Professionals
-
-
-
-#### § 22 Zulassungsvoraussetzungen (Strategische Professionals)
+#### § 24 Zulassungsvoraussetzungen (Strategische Professionals)
 
 (1) Zur Prüfung der strategischen Professionals ist zuzulassen, wer
 
@@ -1930,7 +1995,7 @@ Sprachkenntnisse nachweist.
 (2) Die Berufspraxis gemäß Absatz 1 muss inhaltlich wesentliche Bezüge
 zu den in § 27 oder § 29 genannten Aufgaben haben.
 
-(3) Der Antragsteller/die Antragstellerin muss belegen, dass er/sie
+(3) Die antragstellende Person muss belegen, dass sie
 
 1.  berufsrelevante Gesprächssituationen sicher in der Fremdsprache
     Englisch bewältigen und dabei auch die Gesprächsinitiative ergreifen
@@ -1950,11 +2015,11 @@ oder den Beleg eines berufsrelevanten Auslandsaufenthalts.
 
 (4) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden,
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
-macht, dass er/sie Qualifikationen erworben hat, die die Zulassung zur
+macht, dass sie Qualifikationen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
 
-#### § 23 Gliederung der Prüfung (Strategische Professionals)
+#### § 25 Gliederung der Prüfung (Strategische Professionals)
 
 Die Prüfung für die strategischen Professionals gliedert sich in die
 Prüfungsteile:
@@ -1975,43 +2040,42 @@ letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
 
 
-#### § 24 Durchführung der Prüfung im  Prüfungsteil "Strategische Prozesse"
+#### § 26 Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
 
-(1) Im Prüfungsteil "Strategische Prozesse" soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin eine Fallstudie (Business-
-Case) gemäß den Anforderungen in § 28 oder § 30 schriftlich
-bearbeiten. Prüfungsausschuss und
-Prüfungsteilnehmer/Prüfungsteilnehmerin entwickeln in einem
-Beratungsgespräch unter Berücksichtigung von Vorschlägen des
-Prüfungsteilnehmers/der Prüfungsteilnehmerin und seines/ihres
-beruflichen Hintergrundes die Themenstellung der Fallstudie. Der
-Prüfungsausschuss legt auf der Grundlage des Beratungsgesprächs die
-Themenstellung der Fallstudie fest und teilt sie dem
-Prüfungsteilnehmer/der Prüfungsteilnehmerin schriftlich mit. Der
-Prüfungsausschuss kann den zeitlichen Umfang der Ausarbeitung
+(1) Im Prüfungsteil "Strategische Prozesse" soll die zu prüfende
+Person eine Fallstudie (Business-Case) gemäß den Anforderungen in § 28
+oder § 30 schriftlich bearbeiten. Prüfungsausschuss und zu prüfende
+Person entwickeln in einem Beratungsgespräch unter Berücksichtigung
+von Vorschlägen der zu prüfenden Person und ihres beruflichen
+Hintergrundes die Themenstellung der Fallstudie. Der Prüfungsausschuss
+legt auf der Grundlage des Beratungsgesprächs die Themenstellung der
+Fallstudie fest und teilt sie der zu prüfenden Person schriftlich mit.
+Der Prüfungsausschuss kann den zeitlichen Umfang der Ausarbeitung
 begrenzen. Der Bearbeitungsaufwand soll zehn Arbeitstagen entsprechen.
 Der Zeitraum zwischen der Mitteilung der Themenstellung und dem
 Abgabetermin der Ausarbeitung soll 90 Tage nicht überschreiten. Der
 Ausarbeitung ist eine Zusammenfassung (Abstract) voranzustellen.
 
 (2) Entspricht die Ausarbeitung den Anforderungen, wird ein
-Fachgespräch durchgeführt, in dessen Rahmen der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin die Ergebnisse der Ausarbeitung präsentiert und
-darüber eine Aussprache geführt wird. Die Präsentation soll mindestens
-20 Minuten und höchstens 30 Minuten, das Fachgespräch und die
-Präsentation zusammen mindestens 90 Minuten und höchstens 120 Minuten
-dauern.
+Fachgespräch durchgeführt, in dessen Rahmen die zu prüfende Person die
+Ergebnisse der Ausarbeitung präsentiert und darüber eine Aussprache
+geführt wird. Die Präsentation soll mindestens 20 Minuten und
+höchstens 30 Minuten, das Fachgespräch und die Präsentation zusammen
+mindestens 90 Minuten und höchstens 120 Minuten dauern.
 
 
-#### § 25 Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen"
+### Abschnitt 2 - Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical Engineer)
 
-(1) Im Prüfungsteil "Projekt- und Geschäftsbeziehungen" soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin eine Situationsaufgabe in
-höchstens 180 Minuten schriftlich bearbeiten. Durch die Bearbeitung
-soll der Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass
-er/sie Geschäftsprozesse in internationalen Zusammenhängen strategisch
-planen und umsetzen kann. Dabei hat er/sie insbesondere nachzuweisen,
-dass er/sie Folgendes berücksichtigt:
+
+
+#### § 27 Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen"
+
+(1) Im Prüfungsteil "Projekt- und Geschäftsbeziehungen" soll die zu
+prüfende Person eine Situationsaufgabe in höchstens 180 Minuten
+schriftlich bearbeiten. Durch die Bearbeitung soll die zu prüfende
+Person nachweisen, dass sie Geschäftsprozesse in internationalen
+Zusammenhängen strategisch planen und umsetzen kann. Dabei hat sie
+insbesondere nachzuweisen, dass sie Folgendes berücksichtigt:
 
 1.  rechtliche Rahmenbedingungen sowie Traditionen und Gepflogenheiten im
     Geschäftsverkehr,
@@ -2030,10 +2094,9 @@ dass er/sie Folgendes berücksichtigt:
 
 
 
-Dem Prüfungsteilnehmer/der Prüfungsteilnehmerin werden 14 Tage vor dem
-Prüfungstermin die in der Aufgabenstellung berücksichtigte Region oder
-Nation, die nicht seinem/ihrem Heimatland entsprechen darf,
-mitgeteilt.
+Der zu prüfenden Person werden 14 Tage vor dem Prüfungstermin die in
+der Aufgabenstellung berücksichtigte Region oder Nation, die nicht
+ihrem Heimatland entsprechen darf, mitgeteilt.
 
 (2) Nachfolgende internationale IT-Geschäftsprozesse kommen als
 Grundlage für die Situationsaufgabe in Betracht:
@@ -2056,18 +2119,16 @@ d)  Durchführen von strategischen Allianzen und Fusionen, Bilden von
 
 
 
-#### § 26 Durchführung  der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
+#### § 28 Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
 
-(1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
-Prüfungsteil "Strategisches Personalmanagement" ein
-situationsbezogenes Gespräch vorbereiten und führen. Das
-situationsbezogene Gespräch soll nicht länger als 60 Minuten dauern.
-Der Prüfungsteilnehmer/die Prüfungsteilnehmerin erhält Gelegenheit,
-sich mindestens 30 Minuten, längstens 60 Minuten vorzubereiten.
+(1) Die zu prüfende Person soll im Prüfungsteil "Strategisches
+Personalmanagement" ein situationsbezogenes Gespräch vorbereiten und
+führen. Das situationsbezogene Gespräch soll nicht länger als 60
+Minuten dauern. Die zu prüfende Person erhält Gelegenheit, sich
+mindestens 30 Minuten, längstens 60 Minuten vorzubereiten.
 
-(2) Für das situationsbezogene Gespräch wählt der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin einen der folgenden
-Anwendungsfälle aus:
+(2) Für das situationsbezogene Gespräch wählt die zu prüfende Person
+einen der folgenden Anwendungsfälle aus:
 
 a)  Einführen oder Neupositionieren eines Geschäftsfeldes oder einer
     Produktlinie am Markt,
@@ -2092,11 +2153,11 @@ e)  Durchführen von strategischen Allianzen und Fusionen, Bilden von
 (3) Das situationsbezogene Gespräch soll die nachfolgenden
 Qualifikationsschwerpunkte berücksichtigen:
 
-1.  im Qualifikationsschwerpunkt "Strategische Personalplanung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    entsprechend der prognostizierten Geschäftsentwicklung eine
-    Personalplanung für einen Geschäftsbereich vornehmen kann. In diesem
-    Rahmen können geprüft werden:
+1.  im Qualifikationsschwerpunkt "Strategische Personalplanung" soll die
+    zu prüfende Person nachweisen, dass sie entsprechend der
+    prognostizierten Geschäftsentwicklung eine Personalplanung für einen
+    Geschäftsbereich vornehmen kann. In diesem Rahmen können geprüft
+    werden:
 
     a)  Planen der strategischen Arbeitsorganisation, einschließlich
         Outsourcen von Aufgaben, Einsetzen von eigenem Personal, freien
@@ -2119,12 +2180,12 @@ Qualifikationsschwerpunkte berücksichtigen:
 
 
 
-2.  im Qualifikationsschwerpunkt "Personalführung" soll der
-    Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie
-    Fach- und Führungskräfte führen, Organisationseinheiten und große
-    Teams aufbauen, koordinieren, motivieren, führen und weiter entwickeln
-    sowie die Arbeitsbedingungen der Mitarbeiter gestalten kann. In diesem
-    Rahmen können geprüft werden:
+2.  im Qualifikationsschwerpunkt "Personalführung" soll die zu prüfende
+    Person nachweisen, dass sie Fach- und Führungskräfte führen,
+    Organisationseinheiten und große Teams aufbauen, koordinieren,
+    motivieren, führen und weiter entwickeln sowie die Arbeitsbedingungen
+    der Mitarbeiter gestalten kann. In diesem Rahmen können geprüft
+    werden:
 
     a)  Durchführen von personellen Auf- und Abbau von Organisationseinheiten
         sowie Koordinieren, Motivieren und Führen der Mitarbeiter,
@@ -2152,9 +2213,9 @@ Qualifikationsschwerpunkte berücksichtigen:
 
 
 3.  im Qualifikationsschwerpunkt "Personalentwicklung und Qualifizierung"
-    soll der Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass
-    er/sie Personalentwicklungsstrategien gestalten kann. In diesem Rahmen
-    können geprüft werden:
+    soll die zu prüfende Person nachweisen, dass sie
+    Personalentwicklungsstrategien gestalten kann. In diesem Rahmen können
+    geprüft werden:
 
     a)  Einsetzen von Instrumenten zur Analyse und Bewertung von
         Kompetenzpotentialen,
@@ -2180,11 +2241,11 @@ Qualifikationsschwerpunkte berücksichtigen:
 
 
 
-### Abschnitt 2 - Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical Engineer)
+### Abschnitt 3 - Geprüfter/ Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin (Certified IT Business Engineer)
 
 
 
-#### § 27 Ziel der Prüfung und Bezeichnung des Abschlusses
+#### § 29 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften
 Informatiker/zur Geprüften Informatikerin (Certified IT Technical
@@ -2205,9 +2266,8 @@ Engineer) und damit die Befähigung,
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin folgende Prozesse verantwortlich festlegen und
-koordinieren kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+folgende Prozesse verantwortlich festlegen und koordinieren kann:
 
 a)  Entwickeln von Unternehmensstrategien für die Produktentwicklung auf
     Basis aktueller technologischer Entwicklungen, Marktbedingungen,
@@ -2266,12 +2326,12 @@ Geprüfter Informatiker/Geprüfte Informatikerin (Certified IT Technical
 Engineer).
 
 
-#### § 28 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
+#### § 30 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
 
-Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-der Lage ist, strategische Unternehmensentscheidungen unter Einhaltung
-von Ziel- und Zeitvorgaben vorzubereiten und zu treffen:
+Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu
+prüfende Person nachweisen, dass sie in der Lage ist, strategische
+Unternehmensentscheidungen unter Einhaltung von Ziel- und Zeitvorgaben
+vorzubereiten und zu treffen:
 
 a)  Ausarbeiten von Ideen für neue Technologien zur Integration in das
     Portfolio (Gesamtbestand) des eigenen Unternehmens,
@@ -2294,11 +2354,11 @@ e)  analytisches Bewerten der dargestellten Lösungsvorschläge.
 
 
 
-### Abschnitt 3 - Geprüfter/ Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin (Certified IT Business Engineer)
+### Abschnitt 4 - Bewertung der Prüfungsteile und Bestehen der Prüfung
 
 
 
-#### § 29 Ziel der Prüfung und Bezeichnung des Abschlusses
+#### § 31 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften
 Wirtschaftsinformatiker/zur Geprüften Wirtschaftsinformatikerin
@@ -2319,9 +2379,8 @@ Wirtschaftsinformatiker/zur Geprüften Wirtschaftsinformatikerin
 
 
 
-(2) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer/die
-Prüfungsteilnehmerin folgende Prozesse verantwortlich festlegen und
-koordinieren kann:
+(2) Durch die Prüfung ist festzustellen, ob die zu prüfende Person
+folgende Prozesse verantwortlich festlegen und koordinieren kann:
 
 a)  Entwickeln von Ideen und Strategien für geschäftliche
     Unternehmensentwicklung im jeweiligen Marktsegment auf der Basis
@@ -2382,12 +2441,16 @@ Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin
 (Certified IT Business Engineer).
 
 
-#### § 30 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker)
+## Teil 4 - Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften
 
-Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll der
-Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie in
-der Lage ist, strategische Unternehmensentscheidungen unter Einhaltung
-von Ziel- und Zeitvorgaben vorzubereiten und zu treffen:
+
+
+### § 32 Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker)
+
+Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu
+prüfende Person nachweisen, dass sie in der Lage ist, strategische
+Unternehmensentscheidungen unter Einhaltung von Ziel- und Zeitvorgaben
+vorzubereiten und zu treffen:
 
 a)  Ausarbeiten von Ideen und Strategien für die geschäftliche Entwicklung
     des eigenen Unternehmens,
@@ -2410,61 +2473,97 @@ e)  analytisches Reflektieren der dargestellten Lösungsvorschläge.
 
 
 
-### Abschnitt 4 - Bewertung der Prüfungsteile und Bestehen der Prüfung
+### § 33 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
+bewerten.
+
+(2) Die Prüfungsteile „Strategische Prozesse“, „Projekt- und
+Geschäftsbeziehungen“ und „Strategisches Personalmanagement“ sind
+einzeln zu bewerten.
+
+
+### § 34 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+Prüfungsteilen nach § 33 Absatz 2 jeweils mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die
+jeweilige Note als Dezimalzahl zuzuordnen.
+Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel der Bewertungen der drei Prüfungsteile
+zu berechnen. Dabei sind die Prüfungsteile wie folgt zu gewichten:
+
+1.  der Prüfungsteil „Strategische Prozesse“ mit 50 Prozent,
+
+
+2.  die Prüfungsteile „Projekt- und Geschäftsbeziehungen“ und
+    „Strategisches Personalmanagement“ mit jeweils 25 Prozent.
 
 
 
-#### § 31 Bestehen der Prüfung
 
-(1) Die Prüfungsteile gemäß § 23 sind einzeln zu bewerten.
-
-(2) Aus dem arithmetischen Mittel der Punktebewertungen der drei
-Prüfungsteile wird eine Gesamtnote gebildet. Dabei hat der
-Prüfungsteil "Strategische Prozesse" das doppelte Gewicht gegenüber
-den beiden anderen Prüfungsteilen.
-
-(3) Die Prüfung ist bestanden, wenn in allen Prüfungsteilen mindestens
-ausreichende Leistungen erreicht wurden.
-
-(4) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 3
-und ein Zeugnis gemäß der Anlage 4 auszustellen. Im Fall der
-Freistellung gemäß § 32 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(3) Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten
+Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die
+Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
 
-## Teil 4 - Gemeinsame Vorschriften, Übergangs- und Schlussvorschriften
+### § 35 Zeugnisse
+
+(1) Wer die Prüfung nach § 34 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 36 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
 
 
 
-### § 32 Anrechnung anderer Prüfungsleistungen
-
-Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann auf Antrag von
-der Prüfung in einzelnen Prüfungsleistungen von der zuständigen Stelle
-befreit werden, wenn er/sie in den letzten fünf Jahren vor
-Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder
-staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung bestanden hat, die den Anforderungen
-dieser Prüfungsleistung entspricht. Eine vollständige Freistellung ist
-nicht zulässig.
 
 
-### § 33 Wiederholung der Prüfung
+### § 36 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Prüfungsteile, die nicht bestanden sind, können zweimal wiederholt
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§
+20, 21, 33 und 34 außer Betracht. Für die übrigen Prüfungsbestandteile
+erhöhen sich die Anteile nach § 20 Absatz 3 oder § 21 Absatz 3 Satz 2
+oder § 34 Absatz 2 Satz 2 entsprechend ihrem Verhältnis zueinander.
+Allein diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
+
+
+### § 37 Wiederholung der Prüfung
+
+(1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden. Der Antrag auf Wiederholung der Prüfung ist innerhalb von zwei
 Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zu stellen.
 
 (2) Mit dem Antrag auf Wiederholung der Prüfung in einzelnen
-Prüfungsteilen wird der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-von einzelnen Prüfungsleistungen befreit, wenn er/sie darin in einer
-vorangegangenen Prüfung mindestens ausreichende Leistungen erbracht
-hat. Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann beantragen,
-auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall wird
-das letzte Ergebnis für das Bestehen berücksichtigt.
+Prüfungsteilen wird die zu prüfende Person von einzelnen
+Prüfungsleistungen befreit, wenn sie darin in einer vorangegangenen
+Prüfung mindestens ausreichende Leistungen erbracht hat. Die zu
+prüfende Person kann beantragen, auch bestandene Prüfungsleistungen zu
+wiederholen. In diesem Fall wird das letzte Ergebnis für das Bestehen
+berücksichtigt.
 
 
-### § 34 Übergangsvorschriften
+### § 38 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. März 2005 nach den
 bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle
@@ -2475,7 +2574,7 @@ Anmeldung zur Prüfung bis zum Ablauf des 30. April 2003 die Anwendung
 der bisherigen Vorschriften beantragt werden.
 
 
-### § 35 Inkrafttreten, Außerkrafttreten
+### § 39 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig treten die Verordnung über die Prüfung zum anerkannten
@@ -2489,193 +2588,397 @@ Mathematisch-technischer Informatiker, Netzwerk-Manager IHK für
 heterogene Netzwerktechnik und Kommunikation, Programmierer,
 Softwareentwickler, IT-Fachwirt und Informatikassistent außer Kraft.
 
+(zu den §§ 20, 21, 33 und 34)
 
-### Anlage 1 (zu § 20 Abs. 5)
+### Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2002, 1562;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-Herr/Frau
-.....................................................................
-geboren am ................. in
-...............................................
-hat am ..................... die Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-gemäß der Verordnung über die berufliche Fortbildung im Bereich der
-Informations- und Telekommunikationstechnik (IT-
-Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
-Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum ........................................
-Unterschrift(en) .............................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2239 - 2240)
 
 
-### Anlage 2 (zu § 20 Abs. 5)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2002, 1563
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-Herr/Frau
-.....................................................................
-geboren am ................. in
-...............................................
-hat am ..................... die Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-gemäß der Verordnung über die berufliche Fortbildung im Bereich der
-Informations- und Telekommunikationstechnik (IT-
-Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
-Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
-Ergebnissen bestanden:
-Punkte 1)     Note
-I.   Betriebliche IT-Prozesse
-Themenstellung: ................................   .........
-.......
-II.  Profilspezifische IT-Fachaufgaben                   .........
-.......
-1\. Situationsaufgabe 1
-Themenstellung ...............................   .........
-2\. Situationsaufgabe 2
-Themenstellung ...............................   .........
-3\. Situationsaufgabe 3
-Themenstellung ...............................   .........
-III. Mitarbeiterführung und Personalmanagement           .........
-.......
-1\. Situationsaufgabe 1
-Themenstellung ...............................   .........
-2\. Situationsaufgabe 2
-Themenstellung ...............................   .........
-3\. Praktische Demonstration
-Anwendungsfall ...............................   .........
-IV. Gesamtnote 2)
-.......
-(Im Fall des § 32: "Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-wurde gemäß § 32 im Hinblick auf die am
-.....................................
-in ..................... vor .............................. abgelegte
-Prüfung
-in dem Prüfungsteil/Prüfungsbereich .................. freigestellt.")
-Datum ............................................
-Unterschrift(en) .................................
-(Siegel der zuständigen Stelle)
------
-1) Den Bewertungen lag folgender Punkteschlüssel zugrunde:
-.................
-......................................................................
-....
-2) Die Gesamtnote wird aus dem arithmetischen Mittel der
-Punktebewertungen der drei Prüfungsteile gebildet. Dabei hat der
-Prüfungsteil "Betriebliche IT-Prozesse" das doppelte Gewicht gegenüber
-den beiden anderen Prüfungsteilen.
+    *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-### Anlage 3 (zu § 31 Abs. 4)
+*    *   100
 
-(Fundstelle: BGBl. I 2002, 1564;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-Herr/Frau
-.....................................................................
-geboren am ................. in
-...............................................
-hat am ..................... die Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-gemäß der Verordnung über die berufliche Fortbildung im Bereich der
-Informations- und Telekommunikationstechnik (IT-
-Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
-Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum .........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-### Anlage 4 (zu § 31 Abs. 4)
+*    *   98 und 99
 
-(Fundstelle: BGBl. I 2002, 1565;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-Herr/Frau
-.....................................................................
-geboren am ................. in
-...............................................
-hat am ..................... die Prüfung zum anerkannten Abschluss
-Geprüfter ................./Geprüfte .......................
-gemäß der Verordnung über die berufliche Fortbildung im Bereich der
-Informations- und Telekommunikationstechnik (IT-
-Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
-Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
-Ergebnissen bestanden:
-Punkte 1)    Note
-I.   Strategische Prozesse
-Themenstellung: ...............................  ..........  .........
-II.  Projekt- und Geschäftsbeziehungen
-Themenstellung: ...............................  ..........  .........
-III. Strategisches Personalmanagement
-Themenstellung situationsbezogenes
-Fachgespräch: ..................................  ..........
-.........
-IV.  Gesamtnote 2)
-.........
-(Im Fall des § 32: "Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-wurde gemäß § 32 im Hinblick auf die am
-....................................
-in ........................... vor ....................... abgelegte
-Prüfung
-in dem Prüfungsteil/Prüfungsbereich ................. freigestellt.")
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
-1) Den Bewertungen lag folgender Punkteschlüssel zugrunde:
-................
-......................................................................
-...
-2) Die Gesamtnote wird aus dem arithmetischen Mittel der
-Punktebewertungen der drei Prüfungsteile gebildet. Dabei hat der
-Prüfungsteil "Strategische Prozesse" das doppelte Gewicht gegenüber
-den
-beiden anderen Prüfungsteilen.
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu den §§ 22 und 35)
+
+### Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2240)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4
+    und 5,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Betriebliche IT-Prozesse“ die Benennung, die
+    Themenstellung, die Bewertung und die Note,
+
+
+2.  zum Prüfungsteil „Profilspezifische IT-Fachaufgaben“
+
+    a)  Benennung, Themenstellungen und Bewertungen für die drei
+        Situationsaufgaben dieses Prüfungsteils sowie
+
+
+    b)  das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note
+        dieses Prüfungsteils,
+
+
+
+
+
+3.  zum Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+
+    a)  Benennung, Themenstellungen und Bewertungen für die zwei
+        Situationsaufgaben,
+
+
+    b)  Benennung, den für die praktische Demonstration gewählten
+        Anwendungsfall und dessen Bewertung sowie
+
+
+    c)  das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note
+        dieses Prüfungsteils,
+
+
+
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Vorliegen des Nachweises nach § 24,
+
+
+8.  Befreiungen nach § 36.
+
+
+
 
 (zu § 2 Absatz 2)
 
-### Anlage 5 Spezialistenprofile in der IT-Fortbildung
+### Anlage 3 Spezialistenprofile in der IT-Fortbildung
 
 (Fundstelle: BGBl I 2010, 1010 - 1029)
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1965, 1225 (1817)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 20 G v. 12. 8.2005 I 2354
+:   Art. 251 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -377,18 +377,19 @@ erlassen über
 
 im Verteidigungsfall. Die Bundesregierung kann diese Befugnis durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf den
-Bundesminister des Innern übertragen.
+Bundesminister des Innern, für Bau und Heimat übertragen.
 
-(2) Die Bundesregierung und der Bundesminister des Innern können die
-ihnen nach Absatz 1 zustehende Befugnis zum Erlaß von
-Rechtsverordnungen durch Rechtsverordnung ohne Zustimmung des
+(2) Die Bundesregierung und der Bundesminister des Innern, für Bau und
+Heimat können die ihnen nach Absatz 1 zustehende Befugnis zum Erlaß
+von Rechtsverordnungen durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die Landesregierungen, auch mit der Ermächtigung zur
 Weiterübertragung der Befugnis, übertragen.
 
 (3) Die Rechtsverordnungen sind aufzuheben, soweit ihre Geltung für
 die Zwecke des § 1 nicht mehr erforderlich ist. Rechtsverordnungen der
-Bundesregierung oder des Bundesministers des Innern sind ferner
-aufzuheben, wenn der Bundestag und der Bundesrat dies verlangen.
+Bundesregierung oder des Bundesministers des Innern, für Bau und
+Heimat sind ferner aufzuheben, wenn der Bundestag und der Bundesrat
+dies verlangen.
 
 (4) Rechtsverordnungen der Landesregierungen und der von diesen
 ermächtigten Stellen, die auf Grund einer Rechtsverordnung nach Absatz
@@ -425,9 +426,9 @@ der Verteidigung der Vorrang gebührt.
 Rechtsverordnungen werden von den Ländern einschließlich der Gemeinden
 und Gemeindeverbände im Auftrag des Bundes ausgeführt.
 
-(2) Der Bundesminister des Innern übt die Befugnisse der
-Bundesregierung nach Artikel 85 des Grundgesetzes aus. Allgemeine
-Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des
+(2) Der Bundesminister des Innern, für Bau und Heimat übt die
+Befugnisse der Bundesregierung nach Artikel 85 des Grundgesetzes aus.
+Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des
 Grundgesetzes bedürfen nicht der Zustimmung des Bundesrates, wenn die
 Verwaltungsvorschriften die Ausführung von Rechtsverordnungen
 betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
@@ -568,8 +569,8 @@ Der Bund trägt die Kosten, die den Ländern, Gemeinden und
 Gemeindeverbänden durch den Vollzug dieses Gesetzes, der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen
 Verwaltungsvorschriften und der Weisungen des Bundesministers des
-Innern entstehen; persönliche und sächliche Verwaltungskosten werden
-nicht übernommen.
+Innern, für Bau und Heimat entstehen; persönliche und sächliche
+Verwaltungskosten werden nicht übernommen.
 
 
 ### § 25 Haushaltsrechtliche Vorschriften
@@ -684,9 +685,9 @@ Die Vorschriften dieses Gesetzes gelten nicht
 Anlagen, die unter die Nummern 1 bis 3 fallen, sind in die Planung
 nach § 4 einzubeziehen. Bei diesen Anlagen treffen die jeweils
 zuständigen obersten Bundesbehörden oder die von ihnen bestimmten
-Behörden im Einvernehmen mit dem Bundesminister des Innern an Stelle
-der nach diesem Gesetz zuständigen Behörden die erforderlichen
-Maßnahmen.
+Behörden im Einvernehmen mit dem Bundesminister des Innern, für Bau
+und Heimat an Stelle der nach diesem Gesetz zuständigen Behörden die
+erforderlichen Maßnahmen.
 
 
 ### § 34

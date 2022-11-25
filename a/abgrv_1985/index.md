@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1985, 2255
 
 Zuletzt geändert durch
-:   Art. 4a G v. 17.3.2009 I 534
+:   Art. 6 G v. 21.7.2012 I 1613
 
 
 ## Eingangsformel
@@ -89,7 +89,8 @@ Im Sinne dieser Verordnung sind
 
 2.  sonstige Investitionskosten und ihnen gleichstehende Kosten nach
     Maßgabe der §§ 17 des Krankenhausfinanzierungsgesetzes und des § 8 der
-    Bundespflegesatzverordnung,
+    Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
+    Fassung,
 
 
 3.  die Kosten der Anschaffung oder Herstellung von Verbrauchsgütern,
@@ -160,8 +161,8 @@ vollständig oder überwiegend ersetzt werden (Verzeichnis III der
 Anlage). Für die Beurteilung des überwiegenden Ersetzens sind
 Maßnahmen, die im Rahmen eines einheitlichen Vorhabens in einem
 Zeitraum bis zu drei Jahren durchgeführt werden, zusammenzurechnen.
-Die nach Satz 1 abgegrenzten Kosten werden nach § 7 Abs. 1 Satz 2 Nr.
-4 zweiter Satzteil der Bundespflegesatzverordnung pauschal finanziert.
+Die nach Satz 1 abgegrenzten Kosten werden nach § 17 Absatz 4b Satz 3
+des Krankenhausfinanzierungsgesetzes pauschal finanziert.
 
 
 ## § 5 (weggefallen)

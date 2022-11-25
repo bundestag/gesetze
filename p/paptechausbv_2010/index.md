@@ -1,8 +1,5 @@
-[^F1_774090_BJNR043600010]
-Verordnung über die Berufsausbildung zum Papiertechnologen/zur
-Papiertechnologin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
 jurabk: PapTechAusbV 2010
 layout: default
 origslug: paptechausbv_2010
@@ -10,7 +7,7 @@ slug: paptechausbv_2010
 
 ---
 
-#  (PapTechAusbV 2010)
+# Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin (PapTechAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-04-20
@@ -18,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 436
 
-Geändert durch
-:   Art. 1 V v. 19.10.2010 I 1433
+Zuletzt geändert durch
+:   Art. 1 V v. 5.7.2019 I 930
 
 [^F1_774090_BJNR043600010]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
@@ -242,322 +239,395 @@ in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
 erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) (weggefallen)
 
 
-## § 6 Abschlussprüfung
+## § 6 Ziel, Aufteilung in zwei Teile und Zeitpunkt der Abschlussprüfung
 
-(1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
-Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der
-Prüfling die berufliche Handlungsfähigkeit erworben hat. In der
-Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür
-erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen
-beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen. Dabei sollen Qualifikationen, die bereits
-Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der
-Abschlussprüfung nur insoweit einbezogen werden, als es für die
-Feststellung der Berufsbefähigung erforderlich ist.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
+berufliche Handlungsfähigkeit erworben hat.
 
-(2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
-Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
-Prozent gewichtet.
+(2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
+(3) Teil 1 der Abschlussprüfung findet im vierten Ausbildungshalbjahr
+statt. Teil 2 der Abschlussprüfung findet am Ende der Berufsausbildung
+statt. Den jeweiligen Zeitpunkt legen die zuständigen
+Prüfungsausschüsse fest.
 
-## § 7 Teil 1 der Abschlussprüfung
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
-Ausbildungsjahres stattfinden.
+## § 7 Inhalt von Teil 1 der Abschlussprüfung
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage
-für das erste bis dritte Ausbildungshalbjahr aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+Teil 1 der Abschlussprüfung erstreckt sich auf
 
-(3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+1.  die im Ausbildungsrahmenplan für die ersten 18 Monate genannten
+    Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-1.  Instandhaltung, Messen, Steuern und Regeln,
 
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
+    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
+    Fähigkeiten entspricht.
 
-2.  Rohstoffe und Stoffaufbereitung.
 
 
 
 
-(4) Für den Prüfungsbereich Instandhaltung, Messen, Steuern und Regeln
-bestehen folgende Vorgaben:
+## § 8 Prüfungsbereiche von Teil 1 der Abschlussprüfung
 
-1.  Der Prüfling soll nachweisen, dass er
+Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
+statt:
 
-    a)  instandhaltende Arbeiten unter Verwendung von Schalt- und
-        Funktionsplänen durchführen,
+1.  „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und
+    Hilfsstoffen sowie Qualitätssicherung“ sowie
 
 
-    b)  Störungen an Steuer- und Regeleinrichtungen feststellen und Maßnahmen
-        zu ihrer Behebung ergreifen
+2.  „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“.
 
 
 
-    kann;
 
 
-2.  der Prüfling soll eine Arbeitsaufgabe durchführen sowie praxisbezogene
-    Aufgaben schriftlich bearbeiten;
+## § 9 Prüfungsbereich „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie Qualitätssicherung“
 
+(1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur
+Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie
+Qualitätssicherung“ hat der Prüfling nachzuweisen, dass er in der Lage
+ist,
 
-3.  die Prüfungszeit beträgt 165 Minuten; innerhalb dieser Zeit soll die
-    Bearbeitung der schriftlichen Aufgaben in 45 Minuten durchgeführt
-    werden.
+1.  die Arbeitsschritte, die zur Aufbereitung von Zellstoff, Holzstoff,
+    Altpapier und Rückstoff notwendig sind, festzulegen sowie
+    entsprechende Aggregate und Anlagen zu bedienen,
 
 
+2.  Faser- und Hilfsstoffe entsprechend den Auftragsanforderungen
+    einzusetzen,
 
 
-(5) Für den Prüfungsbereich Rohstoffe und Stoffaufbereitung bestehen
-folgende Vorgaben:
+3.  qualitätssichernde Maßnahmen bei der Aufbereitung von Roh-, Faser- und
+    Hilfsstoffen zu planen und durchzuführen,
 
-1.  Der Prüfling soll nachweisen, dass er
 
-    a)  die zur Aufbereitung von Zellstoff, Holzstoff, Altpapier und Rückstoff
-        notwendigen Schritte festlegen sowie entsprechende Aggregate und
-        Anlagen bedienen,
+4.  Arbeits- und Prüfmittel festzulegen,
 
 
-    b)  den Einsatz von Roh- und Faserstoffen planen, Faser- und Hilfsstoffe
-        einsetzen,
+5.  technische Unterlagen zu nutzen sowie
 
 
-    c)  Frisch- und Abwasseraufbereitung überwachen, Störungen beseitigen,
-        Untersuchungen durchführen und auswerten,
+6.  Ergebnisse der Qualitätssicherung zu dokumentieren.
 
 
-    d)  Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen
-        nutzen, Kundenanforderungen sowie Anforderungen des Arbeits-,
-        Gesundheits- und Umweltschutzes und der Wirtschaftlichkeit
-        berücksichtigen
 
 
+(2) Der Prüfling hat zwei Arbeitsaufgaben durchzuführen. Eine
+Arbeitsaufgabe ist die Durchführung einer Papierprüfung. Die andere
+Arbeitsaufgabe ist die Durchführung einer Stoffaufbereitung. Die
+Durchführung einer Stoffaufbereitung kann in Form einer Simulation
+durchgeführt werden.
 
-    kann;
+(3) Die Prüfungszeit beträgt für jede Arbeitsaufgabe 60 Minuten.
 
 
-2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
+## § 10 Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“
 
+(1) Im Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen
+sowie Instandhaltung“ hat der Prüfling nachzuweisen, dass er in der
+Lage ist,
 
-3.  die Prüfungszeit beträgt 60 Minuten.
+1.  die Arbeitsabläufe, die zum Aufbereiten von Roh-, Faser- und
+    Hilfsstoffen notwendig sind, unter Beachtung wirtschaftlicher,
+    technischer und organisatorischer Vorgaben selbständig und
+    kundenorientiert zu planen, durchzuführen und zu dokumentieren,
 
 
+2.  den Einsatz von Roh- und Faserstoffen zu planen,
 
 
+3.  die Frischwasser- und Abwasseraufbereitung zu überwachen, Störungen zu
+    beseitigen sowie Untersuchungen zur Wasserqualität durchzuführen und
+    auszuwerten,
 
-## § 8 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+4.  Kundenanforderungen und Anforderungen des Arbeits-, Gesundheits- und
+    Umweltschutzes beim Aufbereiten von Roh-, Faser- und Hilfsstoffen
+    einzuhalten sowie Anforderungen der Wirtschaftlichkeit zu
+    berücksichtigen,
 
-(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.  Verfahren zur Herstellung von Papier, Karton, Pappe und Zellstoff,
+5.  instand haltende Arbeiten unter Verwendung von Schalt- und
+    Funktionsplänen zu planen und durchzuführen und
 
 
-2.  Veredelung, Ausrüstung und Verpackung sowie
+6.  Störungen an Steuer- und Regeleinrichtungen festzustellen und
+    Maßnahmen zu ihrer Behebung zu ergreifen.
 
 
-3.  Wirtschafts- und Sozialkunde.
 
 
+(2) Der Prüfling hat Aufgaben schriftlich zu bearbeiten.
 
+(3) Die Prüfungszeit beträgt 90 Minuten.
 
-(3) Für den Prüfungsbereich Verfahren zur Herstellung von Papier,
-Karton, Pappe und Zellstoff bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+## § 11 Inhalt von Teil 2 der Abschlussprüfung
 
-    a)  Maschinen und Anlagen zur Herstellung von Papier, Karton, Pappe oder
-        Zellstoff einrichten, bedienen und überwachen sowie Maßnahmen zur
-        Behebung von Störungen ergreifen,
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
+    Fähigkeiten sowie
 
-    b)  Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und
-        organisatorischer Vorgaben selbstständig und kundenorientiert im Team
-        planen, durchführen und dokumentieren,
 
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
+    im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und
+    Fähigkeiten entspricht.
 
-    c)  Steuerungen von Mess- und Regeleinrichtungen sowie Qualitäts- und
-        Prozessleitsysteme nutzen,
 
 
-    d)  Faser- und Hilfsstoffe sowie Endprodukte prüfen,
 
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
+Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
+waren, nur insoweit einbezogen werden, als es für die Feststellung der
+beruflichen Handlungsfähigkeit erforderlich ist.
 
-    e)  mit vor- und nachgelagerten Funktions- und Servicebereichen
-        kommunizieren, Informations- und Kommunikationsmittel nutzen,
 
+## § 12 Prüfungsbereiche von Teil 2 der Abschlussprüfung
 
-    f)  Maßnahmen zur rationellen Energieverwendung und zur Qualitätssicherung
-        anwenden
+Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
+statt:
 
+1.  „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und
+    Zellstoff“,
 
 
-    kann;
+2.  „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton,
+    Pappe und Zellstoff“,
 
 
-2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten, ein
-    Prüfungsprodukt sowie eine Arbeitsaufgabe 1 und eine Arbeitsaufgabe 2
-    durchführen; Gegenstand der Arbeitsaufgabe 2 ist eine der im
-    Ausbildungsvertrag festgelegten Wahlqualifikationen nach § 4 Absatz 2
-    Abschnitt B; die Durchführung der Arbeitsaufgabe 2 ist mit
-    praxisbezogenen Unterlagen zu dokumentieren, hierüber ist ein
-    auftragsbezogenes Fachgespräch zu führen;
+3.  „Durchführen einer betrieblichen Aufgabe“ sowie
 
 
-3.  die Prüfungszeit beträgt insgesamt 450 Minuten; innerhalb dieser Zeit
-    soll die Bearbeitung der schriftlichen Aufgaben in 90 Minuten, die
-    Herstellung des Prüfungsproduktes in 90 Minuten, die Arbeitsaufgabe 1
-    in 120 Minuten und die Arbeitsaufgabe 2 in 150 Minuten durchgeführt
-    werden; innerhalb der Arbeitsaufgabe 2 ist das auftragsbezogene
-    Fachgespräch in höchstens 20 Minuten durchzuführen.
+4.  „Wirtschafts- und Sozialkunde“.
 
 
 
 
-(4) Für den Prüfungsbereich Veredelung, Ausrüstung und Verpackung
-bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+## § 13 Prüfungsbereich „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
 
-    a)  Veredelungs-, Ausrüstungs- und Verpackungsmaschinen einsetzen sowie
-        Verfahren zur Veredelung und Verarbeitung von Streichmassen nutzen,
-        Produktionsdaten auswerten und beurteilen,
+(1) Im Prüfungsbereich „Bedienen von Anlagen zur Herstellung von
+Papier, Karton, Pappe und Zellstoff“ hat der Prüfling nachzuweisen,
+dass er in der Lage ist,
 
+1.  Maschinen und Anlagen zur Herstellung von Papier, Karton, Pappe und
+    Zellstoff einzurichten, zu bedienen und zu überwachen sowie Maßnahmen
+    zur Behebung von Störungen zu ergreifen,
 
-    b)  Werkstoffe und Fertigwaren transportieren und lagern
 
+2.  Maschinen und Anlagen zum Veredeln, Ausrüsten und Verpacken
+    einzurichten, zu bedienen und zu überwachen sowie Maßnahmen zur
+    Behebung von Störungen zu ergreifen und
 
 
-    kann;
+3.  Steuerungen von Regel- und Messeinrichtungen zu bedienen sowie
+    Prozess- und Qualitätsleitsysteme zu nutzen.
 
 
-2.  der Prüfling soll praxisbezogene Aufgaben schriftlich bearbeiten;
 
 
-3.  die Prüfungszeit beträgt 45 Minuten.
+(2) Der Prüfling hat eine Arbeitsaufgabe zu bearbeiten.
 
+(3) Die Prüfungszeit beträgt 90 Minuten.
 
 
+## § 14 Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung
+von Papier, Karton, Pappe und Zellstoff“ hat der Prüfling
+nachzuweisen, dass er in der Lage ist,
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+1.  Arbeitsabläufe zur Herstellung, Veredelung und Ausrüstung von Papier,
+    Karton, Pappe und Zellstoff unter Beachtung wirtschaftlicher,
+    technischer und organisatorischer Vorgaben selbständig und
+    kundenorientiert zu planen, durchzuführen und zu dokumentieren,
 
 
-2.  der Prüfling soll fallorientierte Aufgaben schriftlich lösen;
+2.  Anlagen und Anlagenteile zu inspizieren sowie Maßnahmen zur
+    Fehlerbehebung zu ergreifen,
 
 
-3.  die Prüfungszeit beträgt 60 Minuten.
+3.  qualitätssichernde Maßnahmen an Anlagen zur Herstellung von Papier,
+    Karton, Pappe und Zellstoff zu planen und durchzuführen, Faser- und
+    Hilfsstoffe zu prüfen und einzusetzen sowie Endprodukte zu prüfen,
 
 
+4.  im Team sowie mit vor- und nachgelagerten Funktions- und
+    Servicebereichen zu kommunizieren,
 
 
+5.  beim Steuern und Regeln von Anlagen zur Herstellung von Papier,
+    Karton, Pappe und Zellstoff Maßnahmen zur Arbeitsorganisation, zur
+    Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz,
+    zu rationeller Energieverwendung und zur Qualitätssicherung zu
+    berücksichtigen sowie
 
-## § 9 Gewichtungs- und Bestehensregelung
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+6.  Informations- und Kommunikationstechnologien anzuwenden.
 
-*    *   1. Prüfungsbereich Instandhaltung,
-        Messen, Steuern und Regeln
 
-    *   20 Prozent,
 
 
-*    *   2. Prüfungsbereich Rohstoffe
-        und Stoffaufbereitung
+(2) Der Prüfling hat Aufgaben schriftlich zu bearbeiten.
 
-    *   10 Prozent,
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
 
-*    *   3. Prüfungsbereich Verfahren zur
-        Herstellung von Papier, Karton,
-        Pappe und Zellstoff
+## § 15 Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“
 
-    *   50 Prozent,
+(1) Im Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“ hat
+der Prüfling nachzuweisen, dass er in der Lage ist,
 
+1.  Problemstellungen zu erkennen und Arbeitsaufgaben abzuleiten,
+    Arbeitsabläufe, die für die Durchführung der betrieblichen Aufgabe
+    notwendig sind, zu planen, Material und Informationen zu beschaffen
+    sowie Zeitpläne zu erstellen,
 
-*    *   4. Prüfungsbereich Veredelung,
-        Ausrüstung und Verpackung
 
-    *   10 Prozent,
+2.  Aufträge insbesondere unter Berücksichtigung technischer Dokumente und
+    unter Einhaltung der Arbeitssicherheit und des Umweltschutzes
+    durchzuführen,
 
 
-*    *   5. Prüfungsbereich Wirtschafts-
-        und Sozialkunde
+3.  Arbeitsabläufe zu kontrollieren und bei Abweichungen Änderungen
+    vorzunehmen sowie Arbeitsergebnisse zu prüfen,
 
-    *   10 Prozent.
 
+4.  die bei der betrieblichen Aufgabe durchgeführten Arbeitsabläufe und
+    die Arbeitsergebnisse zu dokumentieren und
 
 
+5.  fachliche Zusammenhänge aufzuzeigen und die Vorgehensweise zu
+    begründen.
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
 
+Die Aufgabe ist so zu erstellen, dass auch die Fertigkeiten,
+Kenntnisse und Fähigkeiten geprüft werden, die dem oder der
+Auszubildenden in einer der beiden im Ausbildungsvertrag festgelegten
+Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B vermittelt werden.
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+(2) Der Prüfling hat einen betrieblichen Auftrag durchzuführen und mit
+praxisbezogenen Unterlagen zu dokumentieren. Nach der Durchführung des
+betrieblichen Auftrags wird mit ihm ein auftragsbezogenes Fachgespräch
+geführt.
 
+(3) Die Prüfungszeit beträgt insgesamt 16 Stunden. Das
+auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
-3.  im Prüfungsbereich Verfahren zur Herstellung von Papier, Karton, Pappe
-    und Zellstoff mit mindestens „ausreichend“,
 
+## § 16 Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
-4.  in mindestens einem der weiteren Prüfungsbereiche von Teil 2 der
-    Abschlussprüfung mit mindestens „ausreichend“ und
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling
+nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und
+gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt
+darzustellen und zu beurteilen.
 
+(2) Die Prüfungsaufgaben müssen praxisbezogen sein. Der Prüfling hat
+die Aufgaben schriftlich zu bearbeiten.
 
-5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
 
+## § 17 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-bewertet worden sind.
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
+gewichten:
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2
-der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
-gewichten.
+1.  „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und
+    Hilfsstoffen sowie Qualitätssicherung“ mit 20 Prozent,
 
 
-## § 10 Fortsetzung der Berufsausbildung
+2.  „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“
+    mit 10 Prozent,
 
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-bestehen, können unter Anrechnung der bisher zurückgelegten
-Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
-werden, wenn die Vertragsparteien dies vereinbaren und noch keine
-Zwischenprüfung abgelegt wurde.
 
+3.  „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und
+    Zellstoff“ mit 15 Prozent,
 
-## § 11 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Papiertechnologen/zur
-Papiertechnologin vom 26. Mai 2005 (BGBl. I S. 1454, 2261; 2006 I S.
-1293) außer Kraft.
+4.  „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton,
+    Pappe und Zellstoff“ mit 20 Prozent,
+
+
+5.  „Durchführen einer betrieblichen Aufgabe“ mit 25 Prozent sowie
+
+
+6.  „Wirtschafts- und Sozialkunde“ mit 10 Prozent.
+
+
+
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
+wie folgt bewertet worden sind:
+
+1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+
+2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
+
+
+3.  in mindestens drei Prüfungsbereichen von Teil 2 mit mindestens
+    „ausreichend“ und
+
+
+4.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
+
+
+
+
+
+## § 18 Mündliche Ergänzungsprüfung in der Abschlussprüfung
+
+(1) Der Prüfling kann in einem Prüfungsbereich der Abschlussprüfung
+eine mündliche Ergänzungsprüfung beantragen.
+
+(2) Dem Antrag ist stattzugeben,
+
+1.  wenn er für einen der folgenden Prüfungsbereiche gestellt worden ist:
+
+    a)  „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton,
+        Pappe und Zellstoff“ oder
+
+
+    b)  „Wirtschafts- und Sozialkunde“,
+
+
+
+
+
+2.  wenn der benannte Prüfungsbereich schlechter als mit „ausreichend“
+    bewertet worden ist und
+
+
+3.  wenn die mündliche Ergänzungsprüfung für das Bestehen der
+    Abschlussprüfung den Ausschlag geben kann.
+
+
+
+Die mündliche Ergänzungsprüfung darf nur in einem einzigen
+Prüfungsbereich durchgeführt werden.
+
+(3) Die mündliche Ergänzungsprüfung soll 15 Minuten dauern.
+
+(4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind
+das bisherige Ergebnis und das Ergebnis der mündlichen
+Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
+
+
+## § 19 Übergangsregelung
+
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2019 bereits
+bestehen, ist die Verordnung über die Berufsausbildung zum
+Papiertechnologen/zur Papiertechnologin vom 20. April 2010 (BGBl. I S.
+436), die durch Artikel 1 der Verordnung vom 19. Oktober 2010 (BGBl. I
+S. 1433) geändert worden ist, weiter anzuwenden.
 
 (zu § 4 Absatz 1 Satz 1)
 

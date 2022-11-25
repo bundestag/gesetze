@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 134
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.8.2009 I 2723
+:   Art. 190 V v. 19.6.2020 I 1328
 
 
 ## Erster Teil - Allgemeine Vorschriften und Grundsätze über den freihändigen Erwerb
@@ -1564,11 +1564,11 @@ werden, und zwar auch dann, wenn der Eigentümer das Grundstück an eine
 Körperschaft des öffentlichen Rechts verkauft hat; diese ist vor der
 Ausübung des Vorkaufsrechts zu hören.
 
-(2) Das Bundesministerium des Innern kann im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-die Siedlungsunternehmen und Landlieferungsverbände im Sinne des
-Reichssiedlungsgesetzes durch Rechtsverordnung, die der Zustimmung des
-Bundesrates bedarf, verpflichten,
+(2) Das Bundesministerium des Innern, für Bau und Heimat kann im
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft die Siedlungsunternehmen und Landlieferungsverbände im
+Sinne des Reichssiedlungsgesetzes durch Rechtsverordnung, die der
+Zustimmung des Bundesrates bedarf, verpflichten,
 
 1.  auf Verlangen der Enteignungsbehörde Fälle mitzuteilen, in denen nach
     dem Reichssiedlungsgesetz ein Vorkaufsrecht ausgeübt werden kann, und
@@ -1609,14 +1609,14 @@ nach § 11 dieses Gesetzes das Verlangen des Eigentümers oder des in §
 
 (1) Das Verfahren vor der Enteignungsbehörde ist gebührenfrei.
 
-(2) Geschäfte und Verhandlungen, die der Durchführung dieses Gesetzes
-dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind
-frei von Gebühren, Steuern, Kosten und Abgaben, mit Ausnahme der in
-der Kostenordnung bestimmten Beurkundungs- und Beglaubigungskosten;
-hiervon unberührt bleiben Regelungen hinsichtlich der Steuern mit
-örtlich bedingtem Wirkungskreis, insbesondere der Grunderwerbsteuer,
-sowie hinsichtlich der Gebühren, Kosten und Abgaben, die auf
-landesrechtlichen Vorschriften beruhen.
+(2) Verfahren, die der Durchführung dieses Gesetzes dienen,
+einschließlich der Berichtigung der öffentlichen Bücher, sind frei von
+Gebühren, Steuern, Kosten und Abgaben, mit Ausnahme der im Gerichts-
+und Notarkostengesetz bestimmten Beurkundungs- und
+Beglaubigungskosten; hiervon unberührt bleiben Regelungen hinsichtlich
+der Steuern mit örtlich bedingtem Wirkungskreis, insbesondere der
+Grunderwerbsteuer, sowie hinsichtlich der Gebühren, Kosten und
+Abgaben, die auf landesrechtlichen Vorschriften beruhen.
 
 (3) Die Gebühren-, Steuern-, Kosten- und Abgabenfreiheit ist von der
 zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die

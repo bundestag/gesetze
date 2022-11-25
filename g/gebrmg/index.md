@@ -19,7 +19,16 @@ Neugefasst durch
 :   Bek. v. 28.8.1986 I 1455;
 
 Zuletzt geändert durch
-:   Art. 14 G v. 24.11.2011 I 2302
+:   Art. 10 G v. 17.7.2017 I 2541
+
+Änderung durch
+:   Art. 23 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 24 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 3 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
@@ -95,14 +104,15 @@ der Landwirtschaft hergestellt oder benutzt werden kann.
 ## § 4
 
 (1) Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird,
-sind beim Patentamt anzumelden. Für jede Erfindung ist eine besondere
-Anmeldung erforderlich.
+sind beim Deutschen Patent- und Markenamt anzumelden. Für jede
+Erfindung ist eine besondere Anmeldung erforderlich.
 
 (2) Die Anmeldung kann auch über ein Patentinformationszentrum
 eingereicht werden, wenn diese Stelle durch Bekanntmachung des
-Bundesministeriums der Justiz im Bundesgesetzblatt dazu bestimmt ist,
-Gebrauchsmusteranmeldungen entgegenzunehmen. Eine Anmeldung, die ein
-Staatsgeheimnis (§ 93 Strafgesetzbuch) enthalten kann, darf bei einem
+Bundesministeriums der Justiz und für Verbraucherschutz im
+Bundesgesetzblatt dazu bestimmt ist, Gebrauchsmusteranmeldungen
+entgegenzunehmen. Eine Anmeldung, die ein Staatsgeheimnis (§ 93
+Strafgesetzbuch) enthalten kann, darf bei einem
 Patentinformationszentrum nicht eingereicht werden.
 
 (3) Die Anmeldung muß enthalten:
@@ -127,11 +137,11 @@ Patentinformationszentrum nicht eingereicht werden.
 
 
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung Bestimmungen über die Form und die sonstigen
-Erfordernisse der Anmeldung zu erlassen. Es kann diese Ermächtigung
-durch Rechtsverordnung auf das Deutsche Patent- und Markenamt
-übertragen.
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung Bestimmungen über die Form und die
+sonstigen Erfordernisse der Anmeldung zu erlassen. Es kann diese
+Ermächtigung durch Rechtsverordnung auf das Deutsche Patent- und
+Markenamt übertragen.
 
 (5) Bis zur Verfügung über die Eintragung des Gebrauchsmusters sind
 Änderungen der Anmeldung zulässig, soweit sie den Gegenstand der
@@ -145,52 +155,58 @@ Priorität erhalten. Für die abgetrennte Anmeldung sind für die Zeit
 bis zur Teilung die gleichen Gebühren zu entrichten, die für die
 ursprüngliche Anmeldung zu entrichten waren.
 
-(7) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung Bestimmungen über die Hinterlegung, den Zugang
-einschließlich des zum Zugang berechtigten Personenkreises und die
-erneute Hinterlegung von biologischem Material zu erlassen, sofern die
-Erfindung die Verwendung biologischen Materials beinhaltet oder sie
-solches Material betrifft, das der Öffentlichkeit nicht zugänglich ist
-und das in der Anmeldung nicht so beschrieben werden kann, daß ein
-Fachmann die Erfindung danach ausführen kann (Absatz 3). Es kann diese
-Ermächtigung durch Rechtsverordnung auf das Deutsche Patent- und
-Markenamt übertragen.
+(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung Bestimmungen über die Hinterlegung,
+den Zugang einschließlich des zum Zugang berechtigten Personenkreises
+und die erneute Hinterlegung von biologischem Material zu erlassen,
+sofern die Erfindung die Verwendung biologischen Materials beinhaltet
+oder sie solches Material betrifft, das der Öffentlichkeit nicht
+zugänglich ist und das in der Anmeldung nicht so beschrieben werden
+kann, daß ein Fachmann die Erfindung danach ausführen kann (Absatz 3).
+Es kann diese Ermächtigung durch Rechtsverordnung auf das Deutsche
+Patent- und Markenamt übertragen.
 
 
 ## § 4a
 
-(1) Ist die Anmeldung ganz oder teilweise nicht in deutscher Sprache
-abgefaßt, so hat der Anmelder eine deutsche Übersetzung innerhalb
-einer Frist von drei Monaten nach Einreichung der Anmeldung
-nachzureichen. Enthält die Anmeldung eine Bezugnahme auf Zeichnungen
-und sind der Anmeldung keine Zeichnungen beigefügt, so fordert das
-Patentamt den Anmelder auf, innerhalb einer Frist von einem Monat nach
-Zustellung der Aufforderung entweder die Zeichnungen nachzureichen
-oder zu erklären, daß jede Bezugnahme auf die Zeichnungen als nicht
-erfolgt gelten soll.
-
-(2) Der Anmeldetag der Gebrauchsmusteranmeldung ist der Tag, an dem
+(1) Der Anmeldetag der Gebrauchsmusteranmeldung ist der Tag, an dem
 die Unterlagen nach § 4 Abs. 3 Nr. 1 und 2 und, soweit sie jedenfalls
 Angaben enthalten, die dem Anschein nach als Beschreibung anzusehen
 sind, nach § 4 Abs. 3 Nr. 4
 
-1.  beim Patentamt
+1.  beim Deutschen Patent- und Markenamt
 
 
 2.  oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums
-    der Justiz im Bundesgesetzblatt dazu bestimmt ist, bei einem
-    Patentinformationszentrum
+    der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu
+    bestimmt ist, bei einem Patentinformationszentrum
 
 
 
-eingegangen sind. Sind die Unterlagen nicht in deutscher Sprache
-abgefaßt, so gilt dies nur, wenn die deutsche Übersetzung innerhalb
-der Frist nach Absatz 1 Satz 1 beim Patentamt eingegangen ist;
-anderenfalls gilt die Anmeldung als nicht erfolgt. Reicht der Anmelder
-auf eine Aufforderung nach Absatz 1 Satz 2 die fehlenden Zeichnungen
-nach, so wird der Tag des Eingangs der Zeichnungen beim Patentamt
-Anmeldetag; anderenfalls gilt eine Bezugnahme auf die Zeichnungen als
-nicht erfolgt.
+eingegangen sind.
+
+(2) Wenn die Anmeldung eine Bezugnahme auf Zeichnungen enthält und der
+Anmeldung keine Zeichnungen beigefügt sind oder wenn mindestens ein
+Teil einer Zeichnung fehlt, so fordert das Deutsche Patent- und
+Markenamt den Anmelder auf, innerhalb einer Frist von einem Monat nach
+Zustellung der Aufforderung entweder die Zeichnungen nachzureichen
+oder zu erklären, dass die Bezugnahme als nicht erfolgt gelten soll.
+Reicht der Anmelder auf diese Aufforderung die fehlenden Zeichnungen
+oder die fehlenden Teile nach, so wird der Tag des Eingangs der
+Zeichnungen oder der fehlenden Teile beim Deutschen Patent- und
+Markenamt Anmeldetag; anderenfalls gilt die Bezugnahme auf die
+Zeichnungen als nicht erfolgt.
+
+(3) Absatz 2 gilt entsprechend für fehlende Teile der Beschreibung.
+
+
+## § 4b
+
+Ist die Anmeldung nicht oder teilweise nicht in deutscher Sprache
+abgefasst, so hat der Anmelder eine deutsche Übersetzung innerhalb
+einer Frist von drei Monaten nach Einreichung der Anmeldung
+nachzureichen. Wird die deutsche Übersetzung nicht innerhalb der Frist
+eingereicht, so gilt die Anmeldung als zurückgenommen.
 
 
 ## § 5
@@ -207,24 +223,24 @@ abgeschlossen ist, jedoch längstens bis zum Ablauf des zehnten Jahres
 nach dem Anmeldetag der Patentanmeldung, ausgeübt werden.
 
 (2) Hat der Anmelder eine Erklärung nach Absatz 1 Satz 1 abgegeben, so
-fordert ihn das Patentamt auf, innerhalb von zwei Monaten nach
-Zustellung der Aufforderung das Aktenzeichen und den Anmeldetag
-anzugeben und eine Abschrift der Patentanmeldung einzureichen. Werden
-diese Angaben nicht rechtzeitig gemacht, so wird das Recht nach Absatz
-1 Satz 1 verwirkt.
+fordert ihn das Deutsche Patent- und Markenamt auf, innerhalb von zwei
+Monaten nach Zustellung der Aufforderung das Aktenzeichen und den
+Anmeldetag anzugeben und eine Abschrift der Patentanmeldung
+einzureichen. Werden diese Angaben nicht rechtzeitig gemacht, so wird
+das Recht nach Absatz 1 Satz 1 verwirkt.
 
 
 ## § 6
 
 (1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach
-dem Anmeldetag einer beim Patentamt eingereichten früheren Patent-
-oder Gebrauchsmusteranmeldung für die Anmeldung derselben Erfindung
-zum Gebrauchsmuster ein Prioritätsrecht zu, es sei denn, daß für die
-frühere Anmeldung schon eine inländische oder ausländische Priorität
-in Anspruch genommen worden ist. § 40 Abs. 2 bis 4, Abs. 5 Satz 1,
-Abs. 6 des Patentgesetzes ist entsprechend anzuwenden, § 40 Abs. 5
-Satz 1 mit der Maßgabe, daß eine frühere Patentanmeldung nicht als
-zurückgenommen gilt.
+dem Anmeldetag einer beim Deutschen Patent- und Markenamt
+eingereichten früheren Patent- oder Gebrauchsmusteranmeldung für die
+Anmeldung derselben Erfindung zum Gebrauchsmuster ein Prioritätsrecht
+zu, es sei denn, daß für die frühere Anmeldung schon eine inländische
+oder ausländische Priorität in Anspruch genommen worden ist. § 40 Abs.
+2 bis 4, Abs. 5 Satz 1, Abs. 6 des Patentgesetzes ist entsprechend
+anzuwenden, § 40 Abs. 5 Satz 1 mit der Maßgabe, daß eine frühere
+Patentanmeldung nicht als zurückgenommen gilt.
 
 (2) Die Vorschriften des Patentgesetzes über die ausländische
 Priorität (§ 41) sind entsprechend anzuwenden.
@@ -232,45 +248,84 @@ Priorität (§ 41) sind entsprechend anzuwenden.
 
 ## § 6a
 
-(1) Hat der Anmelder eine Erfindung auf einer inländischen oder
-ausländischen Ausstellung zur Schau gestellt, kann er, wenn er die
-Erfindung zum Gebrauchsmuster innerhalb einer Frist von sechs Monaten
-seit der erstmaligen Zurschaustellung der Erfindung anmeldet, von
-diesem Tag an ein Prioritätsrecht in Anspruch nehmen.
+(1) Hat der Anmelder eine Erfindung
 
-(2) Die Ausstellungen im Sinne des Absatzes 1 werden im Einzelfall in
-einer Bekanntmachung des Bundesministeriums der Justiz im
-Bundesgesetzblatt über den Ausstellungsschutz bestimmt.
+1.  auf einer amtlichen oder amtlich anerkannten internationalen
+    Ausstellung im Sinne des am 22. November 1928 in Paris unterzeichneten
+    Abkommens über internationale Ausstellungen oder
 
-(3) Wer eine Priorität nach Absatz 1 in Anspruch nimmt, hat vor Ablauf
+
+2.  auf einer sonstigen inländischen oder ausländischen Ausstellung
+
+
+
+zur Schau gestellt, kann er, wenn er die Erfindung innerhalb einer
+Frist von sechs Monaten seit der erstmaligen Zurschaustellung zum
+Gebrauchsmuster anmeldet, von diesem Tag an ein Prioritätsrecht in
+Anspruch nehmen.
+
+(2) Die in Absatz 1 Nummer 1 bezeichneten Ausstellungen werden vom
+Bundesministerium der Justiz und für Verbraucherschutz im
+Bundesanzeiger bekanntgemacht.
+
+(3) Die Ausstellungen nach Absatz 1 Nummer 2 werden im Einzelfall vom
+Bundesministerium der Justiz und für Verbraucherschutz bestimmt und im
+Bundesanzeiger bekanntgemacht.
+
+(4) Wer eine Priorität nach Absatz 1 in Anspruch nimmt, hat vor Ablauf
 des 16. Monats nach dem Tag der erstmaligen Zurschaustellung der
 Erfindung diesen Tag und die Ausstellung anzugeben sowie einen
 Nachweis für die Zurschaustellung einzureichen.
 
-(4) Die Ausstellungspriorität nach Absatz 1 verlängert die
+(5) Die Ausstellungspriorität nach Absatz 1 verlängert die
 Prioritätsfristen nach § 6 Abs. 1 nicht.
 
 
 ## § 7
 
-(1) Das Patentamt ermittelt auf Antrag die öffentlichen
-Druckschriften, die für die Beurteilung der Schutzfähigkeit des
-Gegenstands der Gebrauchsmusteranmeldung oder des Gebrauchsmusters in
-Betracht zu ziehen sind (Recherche).
+(1) Das Deutsche Patent- und Markenamt ermittelt auf Antrag den Stand
+der Technik, der für die Beurteilung der Schutzfähigkeit des
+Gegenstandes der Gebrauchsmusteranmeldung oder des Gebrauchsmusters in
+Betracht zu ziehen ist (Recherche).
 
 (2) Der Antrag kann von dem Anmelder oder dem als Inhaber
 Eingetragenen und jedem Dritten gestellt werden. Er ist schriftlich
-einzureichen. § 28 ist entsprechend anzuwenden. § 43 Abs. 3, 5, 6 und
-7 Satz 1 des Patentgesetzes ist entsprechend anzuwenden.
+einzureichen. § 28 ist entsprechend anzuwenden.
+
+(3) Der Eingang des Antrags wird im Patentblatt veröffentlicht, jedoch
+nicht vor der Eintragung des Gebrauchsmusters. Hat ein Dritter den
+Antrag gestellt, so wird der Eingang des Antrags außerdem dem Anmelder
+oder dem als Inhaber Eingetragenen mitgeteilt. Jedermann ist
+berechtigt, dem Deutschen Patent- und Markenamt Hinweise zum Stand der
+Technik zu geben, der für die Beurteilung der Schutzfähigkeit des
+Gegenstandes der Gebrauchsmusteranmeldung oder des Gebrauchsmusters in
+Betracht zu ziehen ist.
+
+(4) Ist ein Antrag nach Absatz 1 eingegangen, so gelten spätere
+Anträge als nicht gestellt. § 43 Absatz 4 Satz 2 und 3 des
+Patentgesetzes ist entsprechend anzuwenden.
+
+(5) Erweist sich ein von einem Dritten gestellter Antrag nach der
+Mitteilung an den Anmelder oder den als Inhaber Eingetragenen als
+unwirksam, so teilt das Deutsche Patent- und Markenamt dies außer dem
+Dritten auch dem Anmelder oder dem als Inhaber Eingetragenen mit.
+
+(6) Das Deutsche Patent- und Markenamt teilt den nach Absatz 1
+ermittelten Stand der Technik dem Anmelder oder dem als Inhaber
+Eingetragenen und, wenn der Antrag von einem Dritten gestellt worden
+ist, diesem und dem Anmelder oder dem als Inhaber Eingetragenen ohne
+Gewähr für die Vollständigkeit mit und veröffentlicht im Patentblatt,
+dass diese Mitteilung ergangen ist.
 
 
 ## § 8
 
-(1) Entspricht die Anmeldung den Anforderungen der §§ 4, 4a so verfügt
-das Patentamt die Eintragung in das Register für Gebrauchsmuster. Eine
-Prüfung des Gegenstands der Anmeldung auf Neuheit, erfinderischen
-Schritt und gewerbliche Anwendbarkeit findet nicht statt. § 49 Abs. 2
-des Patentgesetzes ist entsprechend anzuwenden.
+(1) Entspricht die Anmeldung den Anforderungen der §§ 4, 4a, 4b so
+verfügt das Deutsche Patent- und Markenamt die Eintragung in das
+Register für Gebrauchsmuster. Eine Prüfung des Gegenstands der
+Anmeldung auf Neuheit, erfinderischen Schritt und gewerbliche
+Anwendbarkeit findet nicht statt. § 49 Abs. 2 des Patentgesetzes ist
+entsprechend anzuwenden.
 
 (2) Die Eintragung muss Namen und Wohnsitz des Anmelders sowie seines
 etwa nach § 28 bestellten Vertreters und Zustellungsbevollmächtigten
@@ -278,20 +333,75 @@ sowie die Zeit der Anmeldung angeben.
 
 (3) Die Eintragungen sind im Patentblatt in regelmäßig erscheinenden
 Übersichten bekanntzumachen. Die Veröffentlichung kann in
-elektronischer Form erfolgen.
+elektronischer Form erfolgen. Zur weiteren Verarbeitung oder Nutzung
+zu Zwecken der Gebrauchsmusterinformation kann das Deutsche Patent-
+und Markenamt Angaben aus dem Patentblatt an Dritte in elektronischer
+Form übermitteln. Die Übermittlung erfolgt nicht, soweit eine Einsicht
+nach Absatz 7 ausgeschlossen ist.
 
-(4) Das Patentamt vermerkt im Register eine Änderung in der Person des
-Inhabers des Gebrauchsmusters, seines Vertreters oder seines
-Zustellungsbevollmächtigten, wenn sie ihm nachgewiesen wird. Solange
-die Änderung nicht eingetragen ist, bleiben der frühere Rechtsinhaber
-und sein früherer Vertreter oder Zustellungsbevollmächtigter nach
-Maßgabe dieses Gesetzes berechtigt und verpflichtet.
+(4) Das Deutsche Patent- und Markenamt vermerkt im Register eine
+Änderung in der Person des Inhabers des Gebrauchsmusters, seines
+Vertreters oder seines Zustellungsbevollmächtigten, wenn sie ihm
+nachgewiesen wird. Solange die Änderung nicht eingetragen ist, bleiben
+der frühere Rechtsinhaber und sein früherer Vertreter oder
+Zustellungsbevollmächtigter nach Maßgabe dieses Gesetzes berechtigt
+und verpflichtet.
 
 (5) Die Einsicht in das Register sowie in die Akten eingetragener
 Gebrauchsmuster einschließlich der Akten von Löschungsverfahren steht
-jedermann frei. Im übrigen gewährt das Patentamt jedermann auf Antrag
-Einsicht in die Akten, wenn und soweit ein berechtigtes Interesse
-glaubhaft gemacht wird.
+jedermann frei. Im übrigen gewährt das Deutsche Patent- und Markenamt
+jedermann auf Antrag Einsicht in die Akten, wenn und soweit ein
+berechtigtes Interesse glaubhaft gemacht wird.
+
+(6) Soweit die Einsicht in das Register und die Akten nach Absatz 5
+Satz 1 jedermann freisteht, kann die Einsichtnahme bei elektronischer
+Führung des Registers und der Akten auch über das Internet gewährt
+werden.
+
+(7) Die Einsicht nach den Absätzen 5 und 6 ist ausgeschlossen, soweit
+
+1.  ihr eine Rechtsvorschrift entgegensteht,
+
+
+2.  das schutzwürdige Interesse der betroffenen Person im Sinne des
+    Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen
+    Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+    Personen bei der Verarbeitung personenbezogener Daten, zum freien
+    Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+    offensichtlich überwiegt oder
+
+
+3.  in den Akten Angaben oder Zeichnungen enthalten sind, die
+    offensichtlich gegen die öffentliche Ordnung oder die guten Sitten
+    verstoßen.
+
+
+
+
+(8) Soweit personenbezogene Daten im Register oder in öffentlich
+zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
+und Markenamtes enthalten sind, bestehen nicht
+
+1.  das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der
+    Verordnung (EU) 2016/679,
+
+
+2.  die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU)
+    2016/679 und
+
+
+3.  das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
+    (EU) 2016/679.
+
+
+
+Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der
+Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene
+Person Einsicht in das Register oder in öffentlich zugängliche
+elektronische Informationsdienste des Deutschen Patent- und
+Markenamtes nehmen kann.
 
 
 ## § 9
@@ -317,27 +427,29 @@ Handlungen zuständig.
 ## § 10
 
 (1) Für Anträge in Gebrauchsmustersachen mit Ausnahme der
-Löschungsanträge (§§ 15 bis 17) wird im Patentamt eine
-Gebrauchsmusterstelle errichtet, die von einem vom Präsidenten des
-Patentamts bestimmten rechtskundigen Mitglied geleitet wird.
+Löschungsanträge (§§ 15 bis 17) wird im Deutschen Patent- und
+Markenamt eine Gebrauchsmusterstelle errichtet, die von einem vom
+Präsidenten des Deutschen Patent- und Markenamts bestimmten
+rechtskundigen Mitglied geleitet wird.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung Beamte des gehobenen und des mittleren Dienstes oder
-vergleichbare Angestellte mit der Wahrnehmung von Geschäften zu
-betrauen, die den Gebrauchsmusterstellen oder
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung Beamte des gehobenen und des
+mittleren Dienstes oder vergleichbare Angestellte mit der Wahrnehmung
+von Geschäften zu betrauen, die den Gebrauchsmusterstellen oder
 Gebrauchsmusterabteilungen obliegen und die ihrer Art nach keine
 besonderen technischen oder rechtlichen Schwierigkeiten bieten;
 ausgeschlossen davon sind jedoch Zurückweisungen von Anmeldungen aus
 Gründen, denen der Anmelder widersprochen hat. Das Bundesministerium
-der Justiz kann diese Ermächtigung durch Rechtsverordnung auf das
-Deutsche Patent- und Markenamt übertragen.
+der Justiz und für Verbraucherschutz kann diese Ermächtigung durch
+Rechtsverordnung auf das Deutsche Patent- und Markenamt übertragen.
 
 (3) Über Löschungsanträge (§§ 15 bis 17) beschließt eine der im
-Patentamt zu bildenden Gebrauchsmusterabteilungen, die mit zwei
-technischen Mitgliedern und einem rechtskundigen Mitglied zu besetzen
-ist. Die Bestimmungen des § 27 Abs. 7 des Patentgesetzes gelten
-entsprechend. Innerhalb ihres Geschäftskreises obliegt jeder
-Gebrauchsmusterabteilung auch die Abgabe von Gutachten.
+Deutschen Patent- und Markenamt zu bildenden
+Gebrauchsmusterabteilungen, die mit zwei technischen Mitgliedern und
+einem rechtskundigen Mitglied zu besetzen ist. Die Bestimmungen des §
+27 Abs. 7 des Patentgesetzes gelten entsprechend. Innerhalb ihres
+Geschäftskreises obliegt jeder Gebrauchsmusterabteilung auch die
+Abgabe von Gutachten.
 
 (4) Für die Ausschließung und Ablehnung der Mitglieder der
 Gebrauchsmusterstelle und der Gebrauchsmusterabteilungen gelten die §§
@@ -458,30 +570,34 @@ Form einer Änderung der Schutzansprüche vorgenommen werden.
 
 ## § 16
 
-Die Löschung des Gebrauchsmusters nach § 15 ist beim Patentamt
-schriftlich zu beantragen. Der Antrag muß die Tatsachen angeben, auf
-die er gestützt wird. Die Vorschriften des § 81 Abs. 6 und des § 125
-des Patentgesetzes gelten entsprechend.
+Die Löschung des Gebrauchsmusters nach § 15 ist beim Deutschen Patent-
+und Markenamt schriftlich zu beantragen. Der Antrag muß die Tatsachen
+angeben, auf die er gestützt wird. Die Vorschriften des § 81 Abs. 6
+und des § 125 des Patentgesetzes gelten entsprechend.
 
 
 ## § 17
 
-(1) Das Patentamt teilt dem Inhaber des Gebrauchsmusters den Antrag
-mit und fordert ihn auf, sich dazu innerhalb eines Monats zu erklären.
-Widerspricht er nicht rechtzeitig, so erfolgt die Löschung.
+(1) Das Deutsche Patent- und Markenamt teilt dem Inhaber des
+Gebrauchsmusters den Antrag mit und fordert ihn auf, sich dazu
+innerhalb eines Monats zu erklären. Widerspricht er nicht rechtzeitig,
+so erfolgt die Löschung.
 
-(2) Andernfalls teilt das Patentamt den Widerspruch dem Antragsteller
-mit und trifft die zur Aufklärung der Sache erforderlichen
-Verfügungen. Es kann die Vernehmung von Zeugen und Sachverständigen
-anordnen. Für sie gelten die Vorschriften der Zivilprozeßordnung (§§
-373 bis 401 sowie 402 bis 414) entsprechend. Die Beweisverhandlungen
-sind unter Zuziehung eines beeidigten Protokollführers aufzunehmen.
+(2) Andernfalls teilt das Deutsche Patent- und Markenamt den
+Widerspruch dem Antragsteller mit und trifft die zur Aufklärung der
+Sache erforderlichen Verfügungen. Es kann die Vernehmung von Zeugen
+und Sachverständigen anordnen. Für sie gelten die Vorschriften der
+Zivilprozeßordnung (§§ 373 bis 401 sowie 402 bis 414) entsprechend.
+Die Beweisverhandlungen sind unter Zuziehung eines beeidigten
+Protokollführers aufzunehmen.
 
 (3) Über den Antrag wird auf Grund mündlicher Verhandlung beschlossen.
 Der Beschluß ist in dem Termin, in dem die mündliche Verhandlung
 geschlossen wird, oder in einem sofort anzuberaumenden Termin zu
-verkünden. Der Beschluß ist zu begründen, schriftlich auszufertigen
-und den Beteiligten von Amts wegen zuzustellen. § 47 Abs. 2 des
+verkünden. Der Beschluss ist zu begründen und den Beteiligten von Amts
+wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist
+nicht erforderlich. Ausfertigungen werden nur auf Antrag eines
+Beteiligten und nur in Papierform erteilt. § 47 Abs. 2 des
 Patentgesetzes ist entsprechend anzuwenden. Statt der Verkündung ist
 die Zustellung des Beschlusses zulässig.
 
@@ -600,7 +716,7 @@ bewirkt. Die Aufrechterhaltung wird im Register vermerkt.
 (3) Das Gebrauchsmuster erlischt, wenn
 
 1.  der als Inhaber Eingetragene durch schriftliche Erklärung an das
-    Patentamt auf das Gebrauchsmuster verzichtet oder
+    Deutsche Patent- und Markenamt auf das Gebrauchsmuster verzichtet oder
 
 
 2.  die Aufrechterhaltungsgebühr nicht rechtzeitig (§ 7 Abs. 1, § 13 Abs.
@@ -615,7 +731,14 @@ bewirkt. Die Aufrechterhaltung wird im Register vermerkt.
 (1) Wer entgegen den §§ 11 bis 14 ein Gebrauchsmuster benutzt, kann
 von dem Verletzten bei Wiederholungsgefahr auf Unterlassung in
 Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine
-Zuwiderhandlung erstmalig droht.
+Zuwiderhandlung erstmalig droht. Der Anspruch ist ausgeschlossen,
+soweit die Inanspruchnahme aufgrund der besonderen Umstände des
+Einzelfalls und der Gebote von Treu und Glauben für den Verletzer oder
+Dritte zu einer unverhältnismäßigen, durch das
+Ausschließlichkeitsrecht nicht gerechtfertigten Härte führen würde. In
+diesem Fall ist dem Verletzten ein angemessener Ausgleich in Geld zu
+gewähren. Der Schadensersatzanspruch nach Absatz 2 bleibt hiervon
+unberührt.
 
 (2) Wer die Handlung vorsätzlich oder fahrlässig vornimmt, ist dem
 Verletzten zum Ersatz des daraus entstehenden Schadens verpflichtet.
@@ -721,8 +844,8 @@ der Erteilung der Auskunft begangenen Tat gegen den Verpflichteten
 oder gegen einen in § 52 Abs. 1 der Strafprozessordnung bezeichneten
 Angehörigen nur mit Zustimmung des Verpflichteten verwertet werden.
 
-(9) Kann die Auskunft nur unter Verwendung von Verkehrsdaten (§ 3 Nr.
-30 des Telekommunikationsgesetzes) erteilt werden, ist für ihre
+(9) Kann die Auskunft nur unter Verwendung von Verkehrsdaten (§ 3
+Nummer 70 des Telekommunikationsgesetzes) erteilt werden, ist für ihre
 Erteilung eine vorherige richterliche Anordnung über die Zulässigkeit
 der Verwendung der Verkehrsdaten erforderlich, die von dem Verletzten
 zu beantragen ist. Für den Erlass dieser Anordnung ist das
@@ -861,13 +984,21 @@ Amts wegen für geboten hält.
 werden. § 74a des Strafgesetzbuches ist anzuwenden. Soweit den in §
 24a bezeichneten Ansprüchen im Verfahren nach den Vorschriften der
 Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis
-406c) stattgegeben wird, sind die Vorschriften über die Einziehung
-nicht anzuwenden.
+406c) stattgegeben wird, sind die Vorschriften über die Einziehung (§§
+74 bis 74f des Strafgesetzbuches) nicht anzuwenden.
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt
 und ein berechtigtes Interesse daran dartut, anzuordnen, daß die
 Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der
 Bekanntmachung ist im Urteil zu bestimmen.
+
+(7) Soweit nach § 24 Absatz 1 Satz 3 ein Unterlassungsanspruch
+ausgeschlossen ist, wird der Verletzer nicht nach den Absätzen 1, 2
+oder 3 bestraft.
+
+(8) Das Strafverfahren ist nach § 262 Absatz 2 der Strafprozessordnung
+auszusetzen, wenn ein Löschungsverfahren gegen das
+streitgegenständliche Gebrauchsmuster anhängig ist.
 
 
 ## § 25a
@@ -876,10 +1007,15 @@ Bekanntmachung ist im Urteil zu bestimmen.
 Gebrauchsmuster verletzt, unterliegt auf Antrag und gegen
 Sicherheitsleistung des Rechtsinhabers bei seiner Einfuhr oder Ausfuhr
 der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung
-offensichtlich ist. Dies gilt für den Verkehr mit anderen
-Mitgliedstaaten der Europäischen Union sowie mit den anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-nur, soweit Kontrollen durch die Zollbehörden stattfinden.
+offensichtlich ist und soweit nicht die Verordnung (EU) Nr. 608/2013
+des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur
+Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und
+zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181
+vom 29.6.2013, S. 15) in ihrer jeweils geltenden Fassung anzuwenden
+ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der
+Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens
+über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die
+Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie
 unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem
@@ -926,7 +1062,7 @@ erklärt (Absatz 4 Satz 2), so ist er verpflichtet, den dem
 Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu
 ersetzen.
 
-(6) Der Antrag nach Absatz 1 ist bei der Bundesfinanzdirektion zu
+(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
 Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit
 dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten
@@ -938,6 +1074,13 @@ Ordnungswidrigkeiten gegen die Beschlagnahme und Einziehung zulässig
 sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen
 die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig; über sie entscheidet das Oberlandesgericht.
+
+
+## § 25b
+
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 25a
+Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
+enthält, die dem entgegenstehen.
 
 
 ## § 26
@@ -968,6 +1111,18 @@ heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
 Gegner zu hören.
 
 
+## § 26a
+
+In Gebrauchsmusterstreitsachen mit Ausnahme von selbstständigen
+Beweisverfahren sowie in Zwangslizenzverfahren gemäß § 20 in
+Verbindung mit § 81 Absatz 1 Satz 1 des Patentgesetzes sind die §§ 16
+bis 20 des Gesetzes zum Schutz von Geschäftsgeheimnissen vom 18. April
+2019 (BGBl. I S. 466) entsprechend anzuwenden. Als
+streitgegenständliche Informationen im Sinne des § 16 Absatz 1 des
+Gesetzes zum Schutz von Geschäftsgeheimnissen gelten sämtliche von
+Kläger und Beklagtem in das Verfahren eingeführten Informationen.
+
+
 ## § 27
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
@@ -993,46 +1148,51 @@ Auslagen des Patentanwalts zu erstatten.
 ## § 28
 
 (1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an
-einem in diesem Gesetz geregelten Verfahren vor dem Patentamt oder dem
-Patentgericht nur teilnehmen und die Rechte aus einem Gebrauchsmuster
-nur geltend machen, wenn er im Inland einen Rechtsanwalt oder
-Patentanwalt als Vertreter bestellt hat, der zur Vertretung im
-Verfahren vor dem Patentamt, dem Patentgericht und in bürgerlichen
-Rechtsstreitigkeiten, die das Gebrauchsmuster betreffen, sowie zur
-Stellung von Strafanträgen bevollmächtigt ist.
+einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent-
+und Markenamt oder dem Patentgericht nur teilnehmen und die Rechte aus
+einem Gebrauchsmuster nur geltend machen, wenn er einen Rechtsanwalt
+oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im
+Verfahren vor dem Deutschen Patent- und Markenamt, dem Patentgericht
+und in bürgerlichen Rechtsstreitigkeiten, die das Gebrauchsmuster
+betreffen, sowie zur Stellung von Strafanträgen befugt und
+bevollmächtigt ist.
 
-(2) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
-eines anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum können zur Erbringung einer Dienstleistung im Sinne
-des Vertrages zur Gründung der Europäischen Gemeinschaft als Vertreter
-im Sinne des Absatzes 1 bestellt werden, wenn sie berechtigt sind,
-ihre berufliche Tätigkeit unter einer der in der Anlage zu § 1 des
-Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland
-vom 9. März 2000 (BGBl. I S. 182) oder zu § 1 des Gesetzes über die
-Eignungsprüfung für die Zulassung zur Patentanwaltschaft vom 6. Juli
-1990 (BGBl. I S. 1349, 1351) in der jeweils geltenden Fassung
-genannten Berufsbezeichnungen auszuüben.
-
-(3) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen
+(2) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen
 Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung als
 der Ort, an dem sich der Vermögensgegenstand befindet; fehlt ein
 solcher Geschäftsraum, so ist der Ort maßgebend, an dem der Vertreter
 im Inland seinen Wohnsitz, und in Ermangelung eines solchen der Ort,
-an dem das Patentamt seinen Sitz hat.
+an dem das Deutsche Patent- und Markenamt seinen Sitz hat.
 
-(4) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters
+(3) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters
 nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
-die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder
-dem Patentgericht angezeigt wird.
+die Bestellung eines anderen Vertreters gegenüber dem Deutschen
+Patent- und Markenamt oder dem Patentgericht angezeigt wird.
 
 
 ## § 29
 
-Das Bundesministerium der Justiz regelt durch Rechtsverordnung, die
-nicht der Zustimmung des Bundesrates bedarf, die Einrichtung und den
-Geschäftsgang des Patentamts sowie die Form des Verfahrens in
-Gebrauchsmusterangelegenheiten, soweit nicht durch Gesetz Bestimmungen
-darüber getroffen sind.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf,
+
+1.  die Einrichtung und den Geschäftsgang des Deutschen Patent- und
+    Markenamts sowie die Form des Verfahrens in
+    Gebrauchsmusterangelegenheiten zu regeln, soweit nicht durch Gesetz
+    Bestimmungen darüber getroffen sind,
+
+
+2.  für Fristen in Gebrauchsmusterangelegenheiten eine für alle
+    Dienststellen des Deutschen Patent- und Markenamts geltende Regelung
+    über die zu berücksichtigenden gesetzlichen Feiertage zu treffen.
+
+
+
+
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+die Ermächtigung nach Absatz 1 durch Rechtsverordnung ohne Zustimmung
+des Bundesrates ganz oder teilweise auf das Deutsche Patent- und
+Markenamt übertragen.
 
 
 ## § 30

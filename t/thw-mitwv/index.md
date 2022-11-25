@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 75
 
-Geändert durch
-:   Art. 2 Nr. 4 G v. 29.7.2009 I 2350
+Zuletzt geändert durch
+:   Art. 1 V v. 19.11.2014 I 1750
 
 
 
@@ -27,119 +27,66 @@ Helferrechtsgesetzes vom 22. Januar 1990 (BGBl. I S. 118) verordnet
 das Bundesministerium des Innern:
 
 
-## § 1 Helfer und Helferinnen
+## § 1 Helferinnen und Helfer
 
-Dem Technischen Hilfswerk gehören Helfer und Helferinnen an, die bei
-der Erfüllung seiner Aufgaben als
-
-1.  aktive Helfer und aktive Helferinnen,
-
-
-2.  Reservehelfer und Reservehelferinnen,
+Helferin oder Helfer kann werden, wer das sechste Lebensjahr vollendet
+hat. Personen, die das 18. Lebensjahr noch nicht vollendet haben,
+wirken als Junghelferinnen und Junghelfer mit.
 
 
-3.  Althelfer und Althelferinnen oder
-
-
-4.  Junghelfer und Junghelferinnen
-
-
-
-mitwirken.
-
-
-## § 2 Aktive Helfer und aktive Helferinnen
-
-Aktiver Helfer oder aktive Helferin kann werden, wer das 17.
-Lebensjahr vollendet hat und zum uneingeschränkten Dienst im
-Technischen Hilfswerk bereit ist.
-
-
-## § 3 Reservehelfer und Reservehelferinnen
-
-Reservehelfer oder Reservehelferin kann werden, wer als aktiver Helfer
-oder als aktive Helferin mitgewirkt hat und sich weiterhin für
-Einsätze zur Verfügung stellt.
-
-
-## § 4 Althelfer und Althelferinnen
-
-Althelfer kann werden, wer als aktiver Helfer oder Reservehelfer
-mitgewirkt hat und dem Technischen Hilfswerk kameradschaftlich
-verbunden bleiben möchte. Althelferin kann werden, wer als aktive
-Helferin oder Reservehelferin mitgewirkt hat und dem Technischen
-Hilfswerk kameradschaftlich verbunden bleiben möchte.
-
-
-## § 5 Junghelfer und Junghelferinnen
-
-Junghelfer oder Junghelferin kann werden, wer das zehnte, aber noch
-nicht das 18. Lebensjahr vollendet hat und an einer späteren Übernahme
-als aktiver Helfer oder aktive Helferin interessiert ist.
-
-
-## § 6 Begründung des Dienstverhältnisses
+## § 2 Begründung des Dienstverhältnisses
 
 (1) Die Aufnahme in das Dienstverhältnis zum Technischen Hilfswerk
 erfolgt auf schriftlichen Antrag.
 
 (2) Die schriftliche Annahme des Antrages begründet das
 Dienstverhältnis. Die Nichtannahme bedarf keiner Begründung. Die
-Annahme erfolgt nicht, wenn Tatsachen vorliegen, die nach § 10 Abs. 1
-oder 4 zur Beendigung des Dienstverhältnisses führen würden.
+Annahme erfolgt nicht, wenn Tatsachen vorliegen, die nach § 6 Absatz 1
+zur Beendigung des Dienstverhältnisses führen würden.
 
 
-## § 7 Probezeit
+## § 3 Probezeit
 
-Bei aktiven Helfern und aktiven Helferinnen gelten die ersten sechs
-Monate als Probezeit. Das Technische Hilfswerk kann die Probezeit aus
-wichtigem Grund verlängern oder verkürzen; dies ist den Betroffenen
-schriftlich mitzuteilen.
+Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen
+Probezeit. Das Technische Hilfswerk kann die Probezeit aus wichtigem
+Grund verlängern oder verkürzen; dies ist den Betroffenen schriftlich
+mitzuteilen.
 
 
-## § 8 Inhalt des Dienstverhältnisses
+## § 4 Inhalt des Dienstverhältnisses
 
-(1) Aktive Helfer und aktive Helferinnen wirken bei der Erfüllung der
-Aufgaben des Technischen Hilfswerks mit. Sie können in besondere
-Funktionen berufen werden und nehmen an den angeordneten Einsätzen,
-Übungen, Lehrgängen und sonstigen dienstlichen Veranstaltungen teil.
+(1) Helferinnen und Helfer wirken bei der Erfüllung der Aufgaben des
+Technischen Hilfswerks mit. Sie können in besondere Funktionen berufen
+werden und nehmen an den angeordneten Einsätzen,
+Ausbildungsveranstaltungen und sonstigen dienstlichen Veranstaltungen
+teil.
 
-(2) Reservehelfer und Reservehelferinnen können für Einsätze nach § 1
-Abs. 2 Nr. 1 und 2 des THW-Helferrechtsgesetzes herangezogen werden.
-Ihre Heranziehung zu einem Einsatz nach § 1 Abs. 2 Nr. 3 des THW-
-Gesetzes ist zulässig, wenn die hierfür erforderliche Anzahl von
-geeigneten aktiven Helfern und aktiven Helferinnen im Ortsverband
-nicht zur Verfügung steht. Reservehelfer und Reservehelferinnen nehmen
-an den zur Aufrechterhaltung des notwendigen Kenntnis- und
-Wissensstandes erforderlichen Fortbildungsveranstaltungen teil.
+(2) Die Teilnahme an Einsätzen und Ausbildungsveranstaltungen ist nur
+entsprechend der individuellen Einsatzbefähigung möglich.
 
-(3) Althelfer und Althelferinnen nehmen weiterhin am
-kameradschaftlichen Leben teil. Sie können mit ihrem Einverständnis
-zur Unterstützung der Aufgabenerfüllung im Technischen Hilfswerk
-herangezogen werden.
-
-(4) Junghelfer und Junghelferinnen erhalten eine kind- oder
+(3) Junghelfer und Junghelferinnen erhalten eine kind- oder
 jugendgemäße Ausbildung und Betreuung, die sie auf ihre spätere
-Verwendung als aktive Helfer oder aktive Helferinnen vorbereiten
-sollen. Sie werden nicht zur unmittelbaren Hilfeleistung bei Einsätzen
-herangezogen.
+Verwendung als Helferinnen und Helfer vorbereiten sollen. Sie werden
+nicht zur unmittelbaren Hilfeleistung bei Einsätzen herangezogen.
 
 
-## § 9 Verstoß gegen Dienstpflichten
+## § 5 Verstoß gegen Dienstpflichten
 
-Wer als Helfer oder Helferin schuldhaft gegen Dienstpflichten
-verstößt, kann ermahnt, von besonderen Funktionen abberufen und in
-schwerwiegenden Fällen auch entlassen werden. Eine Abberufung von
-besonderen Funktionen ist auch ohne Verschulden möglich, wenn das mit
-der besonderen Funktion verbundene Vertrauensverhältnis gestört ist
-oder wenn dem Helfer oder der Helferin in sonstiger Weise die
-notwendige Eignung fehlt.
+Wer als Helferin oder Helfer schuldhaft gegen Dienstpflichten
+verstößt, kann ermahnt, von der Teilnahme an dienstlichen
+Veranstaltungen vorübergehend oder dauerhaft ausgeschlossen oder von
+besonderen Funktionen abberufen werden; erteilte Berechtigungen können
+entzogen werden. Bei schwerwiegenden Verstößen kann eine Entlassung
+erfolgen. Eine Abberufung von besonderen Funktionen ist auch ohne
+Verschulden möglich, wenn das mit der besonderen Funktion verbundene
+Vertrauensverhältnis gestört ist oder wenn der Helferin oder dem
+Helfer in sonstiger Weise die notwendige Eignung fehlt.
 
 
-## § 10 Beendigung des Dienstverhältnisses
+## § 6 Beendigung des Dienstverhältnisses
 
-(1) Das Technische Hilfswerk beendet das Dienstverhältnis durch
-Entlassung, wenn der Helfer oder die Helferin
+(1) Das Technische Hilfswerk kann das Dienstverhältnis durch
+Entlassung beenden, wenn die Helferin oder der Helfer
 
 1.  schuldhaft eine Dienstpflichtverletzung begangen hat, die als solche
     oder im Zusammenhang mit anderen Dienstpflichtverstößen so
@@ -151,7 +98,8 @@ Entlassung, wenn der Helfer oder die Helferin
     ist,
 
 
-3.  sich nicht zum demokratischen Rechtsstaat bekennt,
+3.  sich nicht zu der freiheitlichen demokratischen Grundordnung im Sinne
+    des Grundgesetzes bekennt,
 
 
 4.  nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen ist,
@@ -171,32 +119,22 @@ Entlassung, wenn der Helfer oder die Helferin
 Dienstverhältnis jederzeit durch schriftliche Erklärung, die keiner
 Begründung bedarf, beenden.
 
-(3) Helfer und Helferinnen können das Dienstverhältnis durch
+(3) Helferinnen und Helfer können das Dienstverhältnis durch
 schriftliche Erklärung, die keiner Begründung bedarf, beenden. Während
-der Probezeit kann dies jederzeit fristlos geschehen. Aktive Helfer
-und aktive Helferinnen haben, nach Ablauf der Probezeit, eine Frist
-von vier Wochen zum Ende eines Kalendervierteljahres einzuhalten.
+der Probezeit kann dies jederzeit fristlos geschehen. Helferinnen und
+Helfer haben, nach Ablauf der Probezeit, eine Frist von vier Wochen
+zum Ende eines Kalendervierteljahres einzuhalten.
 
-(4) Das Dienstverhältnis eines Helfers oder einer Helferin endet,
-außer bei Althelfern und Althelferinnen, mit der Vollendung des 60.
-Lebensjahres; bei besonderen Funktionen kann die Altersgrenze durch
-die Leitung des Technischen Hilfswerks bis zur Vollendung des 65.
-Lebensjahres aufgeschoben werden. Das Dienstverhältnis von Junghelfern
-und Junghelferinnen endet mit Vollendung des 18. Lebensjahres.
-
-(5) Bei einem Wechsel des Dienstverhältnisses endet das bisherige
-Dienstverhältnis mit der Übernahme in das neue Dienstverhältnis.
-
-(6) Wird in den Fällen der Absätze 1 und 2 ein Rechtsbehelf gegen die
+(4) Wird in den Fällen der Absätze 1 und 2 ein Rechtsbehelf gegen die
 Beendigung des Dienstverhältnisses eingelegt, ruht es bis zum
 Abschluss des Rechtsbehelfsverfahrens, im Falle eines
 Verwaltungsrechtsstreits bis zu dessen rechtskräftigem Abschluss.
 
 
-## § 11 Ausschüsse
+## § 7 Ausschüsse
 
-(1) Die Helfer und Helferinnen wirken in Ausschüssen an der
-Mitgestaltung und Weiterentwicklung des Technischen Hilfswerks mit.
+(1) Helferinnen und Helfer wirken in Ausschüssen an der Mitgestaltung
+und Weiterentwicklung des Technischen Hilfswerks mit.
 
 (2) Die Ortsbeauftragten werden vom jeweiligen Ortsausschuss beraten.
 Der Ortsausschuss besteht aus
@@ -280,12 +218,6 @@ Bundesausschuss besteht aus
 
 
 
-
-
-## § 12 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
-Kalendermonats in Kraft.
 
 
 ## Schlussformel

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1142
 
-Geändert durch
-:   Art. 4 Abs. 1 G v. 5.5.2004 I 718
+Zuletzt geändert durch
+:   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
 
 
 ## § 1 Einsetzung
@@ -700,9 +700,9 @@ auf den veröffentlichten Bericht beziehen.
 Entschädigung oder Vergütung nach dem Justizvergütungs- und
 -entschädigungsgesetz. Der Untersuchungsausschuss kann auf Antrag
 beschließen, dass Gebühren des rechtlichen Beistandes den Zeugen
-erstattet werden. Ermittlungsbeauftragte erhalten eine Vergütung nach
-der höchsten Honorargruppe gemäß § 9 Abs. 1 Satz 1 des
-Justizvergütungs- und -entschädigungsgesetzes.
+erstattet werden. Ermittlungsbeauftragte erhalten eine Vergütung auf
+der Grundlage des höchsten Stundensatzes nach der Anlage 1 zum
+Justizvergütungs- und -entschädigungsgesetz.
 
 (3) Die Entschädigung, die Vergütung und die Erstattung der Auslagen
 setzt der Präsident oder die Präsidentin des Bundestages fest.

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 22. 6.2004 I 1314
 
+Änderung durch
+:   Art. 3 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -124,7 +127,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 *    *   9.
 
-    *   Landmaschinenmechaniker
+    *   Land- und Baumaschinenmechatroniker
 
     *   Metallbauer
 
@@ -133,7 +136,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Metallbauer
 
-    *   Feinwerkmechaniker; Landmaschinenmechaniker
+    *   Feinwerkmechaniker; Land- und Baumaschinenmechatroniker
 
 
 *    *   11.
@@ -176,6 +179,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Orthopädieschuhmacher
 
     *   Orthopädietechniker (diabetes-adaptierte Fußbettungen)
+
+
+*    *   17.
+
+    *   Glaser
+
+    *   Glasveredler
+
+
+*    *   18.
+
+    *   Glasveredler
+
+    *   Glaser
+
+
+*    *   19.
+
+    *   Maurer und Betonbauer
+
+    *   Estrichleger
+
+
+*    *   20.
+
+    *   Tischler
+
+    *   Parkettleger
+
+
+*    *
+    *
+    *   Drechsler (Elfenbeinschnitzer) und Holzspielzeugmacher
+        (Holzspielzeuge)
 
 
 

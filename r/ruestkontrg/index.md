@@ -17,13 +17,33 @@ Fundstelle
 :   BGBl II: 1961, 384
 
 Zuletzt geändert durch
-:   Art. 133 V v. 31.10.2006 I 2407
+:   Art. 62 G v. 8.7.2016 I 1594
 
-Stand: Art. 2, 3, 4 u. 5 treten gem. Art. 6 Abs. 2 dieses G zu dem Zeitpunkt in Kraft, den der Rat der Westeuropäischen Union nach Artikel 2 Abs. 1 des Übereinkommens vom 14. Dezember 1957 festsetzt\*. Der Tag des Inkrafttretens dieser Artikel ist im Bundesgesetzblatt bekanntzugeben\*.
+Stand: Art. 2, 3, 4 u. 5 treten gem. Art. 6 Abs. 2 dieses G zu dem Zeitpunkt in Kraft, den der Rat der Westeuropäischen Union nach Artikel 2 Abs. 1 des Übereinkommens vom 14. Dezember 1957 festsetzt. Der Tag des Inkrafttretens dieser Artikel ist im Bundesgesetzblatt bekanntzugeben.
 
 ## Art 1
 
 -
+
+
+## Art 2
+
+(weggefallen)
+
+
+## Art 3
+
+(weggefallen)
+
+
+## Art 4
+
+(weggefallen)
+
+
+## Art 5
+
+(weggefallen)
 
 
 ## Art 6
@@ -31,10 +51,7 @@ Stand: Art. 2, 3, 4 u. 5 treten gem. Art. 6 Abs. 2 dieses G zu dem Zeitpunkt in 
 (1) Der Artikel 1 dieses Gesetzes tritt am Tage nach seiner Verkündung
 in Kraft.
 
-(2) Die Artikel 2, 3, 4 und 5 dieses Gesetzes treten zu dem Zeitpunkt
-in Kraft, den der Rat der Westeuropäischen Union nach Artikel 2 Abs. 1
-des Übereinkommens vom 14. Dezember 1957 festsetzt. Der Tag des
-Inkrafttretens dieser Artikel ist im Bundesgesetzblatt bekanntzugeben.
+(2) (weggefallen)
 
 (3) Der Tag, an dem das Übereinkommen vom 14. Dezember 1957 nach
 seinem Artikel 23 Abs. 2 für die Bundesrepublik Deutschland in Kraft

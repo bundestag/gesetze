@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2006, Nr 60, 2061 [Beilage]
 
+Geändert durch
+:   Art. 570 V v. 31.8.2015 I 1474
+
 
 
 ## Eingangsformel
@@ -933,7 +936,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 9
 
 **Nationale und internationale Organisationen der Luftfahrt**
 
--   Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS)
+-   Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
 
 
 -   Luftfahrt-Bundesamt (LBA)
@@ -1167,7 +1170,7 @@ Luftfahrzeughalters**
 
 
 
-**Konforme Schnittkegelprojektion (ICAO-Karte 1:500.000)**
+**Konforme Schnittkegelprojektion (ICAO-Karte 1:500 000)**
 
 -   Haupteigenschaften
 
@@ -6495,7 +6498,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 65
 
 **Nationale und internationale Organisation der Luftfahrt**
 
--   Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS)
+-   Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
 
 
 -   Luftfahrt-Bundesamt (LBA)
@@ -6732,7 +6735,7 @@ Luftfahrzeughalters**
 
 
 
-**Konforme Schnittkegelprojektion (ICAO-Karte 1:500.000)**
+**Konforme Schnittkegelprojektion (ICAO-Karte 1:500 000)**
 
 -   Haupteigenschaften
 
@@ -10524,7 +10527,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 
 *    *
-        \*  Nur Bestandteil der theoretischen Prüfung, wenn dieses Fach in keiner
+        *   Nur Bestandteil der theoretischen Prüfung, wenn dieses Fach in keiner
             vorangegangenen theoretischen Prüfung zur Erlangung einer Lizenz oder
             Berechtigung gemäß LuftPersV oder JAR-FCL 1 bzw. 2 geprüft und
             bestanden wurde.
@@ -10584,7 +10587,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 **Nationale und internationale Organisation der Luftfahrt**
 
--   Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS)
+-   Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
 
 
 -   Luftfahrt-Bundesamt (LBA)
@@ -10816,7 +10819,7 @@ Luftfahrzeughalters**
 
 
 
-**Konforme Schnittkegelprojektion (ICAO-Karte 1:500.000)**
+**Konforme Schnittkegelprojektion (ICAO-Karte 1:500 000)**
 
 -   Haupteigenschaften
 
@@ -18094,7 +18097,7 @@ Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a,
 
 *    *   Pflanzenschutz (Sachkunde)
 
-    *   \*
+    *   *
 
 
 *    *   Technik, Flugleistung und -planung

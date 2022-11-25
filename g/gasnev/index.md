@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2197
 
 Zuletzt geändert durch
-:   Art. 5 V v. 3.9.2010 I 1261
+:   Art. 3 V v. 27.7.2021 I 3229
 
 
 ## Eingangsformel
@@ -34,8 +34,7 @@ verordnet die Bundesregierung:
 ### § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der
-Entgelte für den Zugang zu den Gasfernleitungs- und Gasverteilernetzen
-(Netzentgelte).
+Entgelte für den Zugang zu den Gasversorgungsnetzen (Netzentgelte).
 
 
 ### § 2 Begriffsbestimmungen
@@ -92,8 +91,8 @@ Soweit hinsichtlich der Kostenermittlung keine besonderen Regelungen
 getroffen werden, sind die Leitsätze für die Preisermittlung auf Grund
 von Selbstkosten nach der Anlage zur Verordnung PR Nr. 30/53 über die
 Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz Nr.
-244), zuletzt geändert durch Artikel 289 der Verordnung vom 25.
-November 2003 (BGBl. I S. 2304), heranzuziehen.
+244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010
+(BGBl. I S. 1864) geändert worden ist, heranzuziehen.
 
 (2) Betreiber von überregionalen Gasfernleitungsnetzen können die
 Entgelte für die Nutzung der Fernleitungsnetze abweichend von den §§ 4
@@ -119,10 +118,10 @@ dass
 
 (3) Betreiber von Fernleitungsnetzen, die die Entgelte nach Absatz 2
 bilden, haben dies unverzüglich der Regulierungsbehörde schriftlich
-anzuzeigen sowie das Vorliegen der in Absatz 2 genannten
-Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1 sind
-jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3 der
-Anreizregulierungsverordnung, erstmals vor Beginn der zweiten
+oder elektronisch anzuzeigen sowie das Vorliegen der in Absatz 2
+genannten Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1
+sind jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3
+der Anreizregulierungsverordnung, erstmals vor Beginn der zweiten
 Regulierungsperiode bei der Regulierungsbehörde einzureichen. Die
 Regulierungsbehörde hat zu prüfen, ob die Voraussetzungen nach Absatz
 2 Satz 1 und 2 vorliegen. Stellt sie fest, dass dies nicht der Fall
@@ -147,8 +146,8 @@ insoweit anzusetzen, als sie den Kosten eines effizienten und
 strukturell vergleichbaren Netzbetreibers entsprechen.
 
 (2) Ausgehend von den Gewinn- und Verlustrechnungen für die
-Gasversorgung des letzten abgeschlossenen Geschäftsjahres nach § 10
-Abs. 3 des Energiewirtschaftsgesetzes ist zur Bestimmung der
+Gasversorgung des letzten abgeschlossenen Geschäftsjahres nach § 6b
+Absatz 3 des Energiewirtschaftsgesetzes ist zur Bestimmung der
 Netzkosten eine kalkulatorische Rechnung zu erstellen. Die Netzkosten
 setzen sich unter Beachtung von Absatz 1 aus den aufwandsgleichen
 Kosten nach § 5, den kalkulatorischen Abschreibungen nach § 6, der
@@ -157,13 +156,13 @@ kalkulatorischen Steuern nach § 8 unter Abzug der kostenmindernden
 Erlöse und Erträge nach § 9 zusammen.
 
 (3) Bis zur erstmaligen Erstellung der jeweiligen Gewinn- und
-Verlustrechnung nach § 10 Abs. 3 des Energiewirtschaftsgesetzes ist
+Verlustrechnung nach § 6b Absatz 3 des Energiewirtschaftsgesetzes ist
 abweichend von Absatz 2 der Bestimmung der Netzkosten jeweils eine auf
 den Tätigkeitsbereich Gasfernleitung und Gasverteilung beschränkte und
 nach handelsrechtlichen Grundsätzen ermittelte Gewinn- und
 Verlustrechnung des letzten abgeschlossenen Geschäftsjahres zu Grunde
 zu legen. Soweit Betreiber von Gasfernleitungs- oder
-Gasverteilernetzen nicht unter die Verpflichtungen nach § 10 Abs. 3
+Gasverteilernetzen nicht unter die Verpflichtungen nach § 6b Absatz 3
 des Energiewirtschaftsgesetzes fallen, haben diese jeweils eine auf
 die Tätigkeitsbereiche Gasfernleitung und Gasverteilung beschränkte
 und nach handelsrechtlichen Grundsätzen ermittelte Gewinn- und
@@ -190,11 +189,39 @@ ansetzen, wie sie anfielen, wenn der Betreiber Eigentümer der Anlagen
 wäre. Der Betreiber des Gasversorgungsnetzes hat die erforderlichen
 Nachweise zu führen.
 
-(5a) Betreiber von Gasversorgungsnetzen können Kosten oder
-Kostenbestandteile, die auf Grund von Dienstleistungen durch Dritte
-anfallen, maximal in der Höhe ansetzen, wie sie anfielen, wenn sie die
-Leistungen selbst erbringen würden. Der Betreiber des
-Gasversorgungsnetzes hat die erforderlichen Nachweise zu führen.
+(5a) Erbringen Unternehmen gegenüber einem Betreiber eines
+Gasversorgungsnetzes Dienstleistungen, so sind die diesbezüglichen
+Kosten oder Kostenbestandteile nach Maßgabe dieses Absatzes bei der
+Netzkostenermittlung zu berücksichtigen. Gehören das die
+Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder ein Gesellschafter des Betreibers des
+Gasversorgungsnetzes zu einer Gruppe miteinander verbundener
+Gasunternehmen, so darf der Betreiber des Gasversorgungsnetzes die aus
+der Erbringung der Dienstleistung entstehenden Kosten oder
+Kostenbestandteile maximal in der Höhe ansetzen, wie sie bei dem die
+Dienstleistung erbringenden Unternehmen unter Anwendung der Grundsätze
+der Entgeltbestimmung im Sinne dieser Verordnung und gegebenenfalls
+unter Anwendung des § 6 Absatz 2 der Anreizregulierungsverordnung
+tatsächlich angefallen sind. Beinhalten die nach Satz 2 für die
+Erbringung von Dienstleistungen angefallenen Kosten oder
+Kostenbestandteile Vorleistungen von Unternehmen, die ebenfalls zu der
+Gruppe miteinander verbundener Gasunternehmen gehören, der das die
+Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder dessen Gesellschafter angehören, können
+diese nur maximal in der Höhe einbezogen werden, wie sie jeweils bei
+dem die Vorleistung erbringenden Unternehmen unter Anwendung der
+Grundsätze der Entgeltbestimmung im Sinne dieser Verordnung und
+gegebenenfalls unter Anwendung des § 6 Absatz 2 der
+Anreizregulierungsverordnung tatsächlich angefallen sind. Gehören das
+die Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder dessen Gesellschafter nicht zu einer Gruppe
+miteinander verbundener Gasunternehmen, so darf der Betreiber des
+Gasversorgungsnetzes die aus der Erbringung der Dienstleistung
+entstehenden Kosten oder Kostenbestandteile maximal in der Höhe
+ansetzen, wie sie anfallen würden, wenn der Betreiber des
+Gasversorgungsnetzes die jeweiligen Leistungen selbst erbringen würde.
+Der Betreiber des Gasversorgungsnetzes hat die erforderlichen
+Nachweise zu führen.
 
 (6) Sofern Leistungen nach § 9 Absatz 3 Satz 2 Nummer 1 der
 Gasnetzzugangsverordnung beschafft werden, können Betreiber von
@@ -208,7 +235,7 @@ Regulierungsbehörde unverzüglich anzuzeigen.
 
 #### § 5 Aufwandsgleiche Kostenpositionen
 
-(1) Aufwandsgleiche Kostenpositionen sind den nach § 10 Abs. 3 des
+(1) Aufwandsgleiche Kostenpositionen sind den nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes erstellten Gewinn- und Verlustrechnungen
 für die Gasfernleitung und Gasverteilung zu entnehmen und nach Maßgabe
 des § 4 Abs. 1 bei der Bestimmung der Netzkosten zu berücksichtigen.
@@ -265,17 +292,15 @@ ist die Differenz zwischen 100 Prozent und der Eigenkapitalquote.
 Entwicklung maßgebliche Anschaffungswert zum jeweiligen
 Bewertungszeitpunkt. Die Umrechnung der historischen Anschaffungs- und
 Herstellungskosten der betriebsnotwendigen Anlagegüter auf
-Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung
-anlagenspezifischer oder anlagengruppenspezifischer Preisindizes, die
-auf den Indexreihen des Statistischen Bundesamtes beruhen
-(Veröffentlichungen des Statistischen Bundesamtes "Preise und
-Preisindizes", Fachserie 16 und 17 \*) ). Im Falle der
-Gasversorgungsnetze in Berlin, Brandenburg, Mecklenburg-Vorpommern,
-Sachsen, Sachsen-Anhalt und Thüringen können für jene Anlagegüter,
-deren Errichtung zeitlich vor ihrer erstmaligen Bewertung in Deutscher
-Mark liegt, die Anschaffungs- und Herstellungskosten unter Verwendung
-zeitnaher üblicher Anschaffungs- und Herstellungskosten und einer
-Rückrechnung mittels der anwendbaren Preisindizes ermittelt werden.
+Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung von
+Indexreihen des Statistischen Bundesamtes nach Maßgabe des § 6a. Im
+Falle der Gasversorgungsnetze in Berlin, Brandenburg, Mecklenburg-
+Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen können für jene
+Anlagegüter, deren Errichtung zeitlich vor ihrer erstmaligen Bewertung
+in Deutscher Mark liegt, die Anschaffungs- und Herstellungskosten
+unter Verwendung zeitnaher üblicher Anschaffungs- und
+Herstellungskosten und einer Rückrechnung mittels der anwendbaren
+Preisindizes ermittelt werden.
 
 (4) Die kalkulatorischen Abschreibungen der Neuanlagen sind ausgehend
 von den jeweiligen historischen Anschaffungs- und Herstellungskosten
@@ -304,14 +329,143 @@ Restabschreibungsdauer. Es erfolgt keine Abschreibung unter Null.
 (7) Das Verbot von Abschreibungen unter Null gilt ungeachtet der
 Änderung von Eigentumsverhältnissen oder der Begründung von
 Schuldverhältnissen.
------
-
-\*) Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt,
-    Wiesbaden.
 
 
+#### § 6a Preisindizes zur Ermittlung der Tagesneuwerte
+
+[^F782159_02_BJNR219700005BJNE004100301]
+(1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind
+folgende Indexreihen des Statistischen Bundesamtes
+heranzuziehen:
+
+1.  für die Anlagengruppen I.2 Grundstücksanlagen, I.3 Betriebsgebäude,
+    I.4 Verwaltungsgebäude, III.8 Gebäude, Verkehrswege und V.9 Gebäude
+    (Mess-, Regel- und Zähleranlagen) der Anlage 1 die Indexreihe
+    Gewerbliche Betriebsgebäude, Bauleistungen am Bauwerk ohne
+    Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+    die Bauwirtschaft);
 
 
+2.  für die Anlagengruppen Rohrleitungen und Hausanschlussleitungen IV.1.1
+    Stahlleitungen PE ummantelt, IV.1.2 Stahlleitungen kathodisch
+    geschützt, IV.1.3 Stahlleitungen bitumiert, IV.2 Grauguss (> DN 150),
+    IV.3 Duktiler Guss, IV.4 Polyethylen (PE-HD) und IV.5 Polyvenylchlorid
+    (PVC) der Anlage 1 die Indexreihe Ortskanäle, Bauleistungen am Bauwerk
+    (Tiefbau), ohne Umsatzsteuer (Statistisches Bundesamt, Fachserie 17,
+    Preisindizes für die Bauwirtschaft);
+
+
+3.  für die Anlagengruppen IV.1.1 Stahlleitungen PE ummantelt, IV.1.2
+    Stahlleitungen kathodisch geschützt und IV.1.3 Stahlleitungen
+    bitumiert, der Anlage 1, die für den Gastransport mit einem Druck
+    größer als 16 bar ausgelegt sind,
+
+    a)  die Indexreihe Stahlrohre, Rohrform-, Rohrverschluss- und
+        Rohrverbindungsstücke aus Eisen und Stahl (Statistisches Bundesamt,
+        Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte) mit
+        einem Anteil von 40 Prozent und
+
+
+    b)  die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau), ohne
+        Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+        die Bauwirtschaft) mit einem Anteil von 60 Prozent;
+
+
+
+
+
+4.  für alle übrigen Anlagengruppen, mit Ausnahme der Anlagengruppe I.1
+    Grundstücke der Anlage 1, der Index der Erzeugerpreise gewerblicher
+    Produkte gesamt (ohne Mineralölerzeugnisse) (Statistisches Bundesamt,
+    Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte).
+
+
+
+
+(2) Sofern die in Absatz 1 genannten Indexreihen des Statistischen
+Bundesamtes nicht für den notwendigen Zeitraum der Vergangenheit
+verfügbar sind, sind der Ermittlung der Tagesneuwerte
+Ersatzindexreihen zu Grunde zu legen, die mit den in Absatz 1
+genannten Indexreihen zu verketten sind. Die Verkettungsfaktoren
+ergeben sich jeweils aus der Division des am weitesten in der
+Vergangenheit liegenden Indexwertes der Indexreihe gemäß Absatz 1
+durch den Indexwert der Ersatzindexreihe für dasselbe
+Beobachtungsjahr. Es sind folgende Ersatzindexreihen heranzuziehen:
+
+1.  für die Indexreihe Gewerbliche Betriebsgebäude, Bauleistungen am
+    Bauwerk, ohne Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Gewerbliche
+        Betriebsgebäude, Bauleistungen am Bauwerk, mit Umsatzsteuer
+        (Statistisches Bundesamt, Fachserie 17, Preisindizes für die
+        Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+2.  für die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau),
+    ohne Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Ortskanäle,
+        Bauleistungen am Bauwerk (Tiefbau), mit Umsatzsteuer (Statistisches
+        Bundesamt, Fachserie 17, Preisindizes für die Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+3.  für die Indexreihe Stahlrohre, Rohrform-, Rohrverschluss- und
+    Rohrverbindungsstücke aus Eisen und Stahl
+
+    a)  für den Zeitraum von 2000 bis 2004 die Indexreihe Rohre aus Eisen oder
+        Stahl (Statistisches Bundesamt, Fachserie 17, Index Erzeugerpreise
+        gewerblicher Produkte),
+
+
+    b)  für den Zeitraum von 1968 bis 1999 die Indexreihe
+        Präzisionsstahlrohre, nahtlos und geschweißt (Statistisches Bundesamt,
+        Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte) und
+
+
+    c)  für den Zeitraum vor 1968 die Indexreihe Eisen und Stahl
+        (Statistisches Bundesamt, Fachserie 17, Index der Erzeugerpreise
+        gewerblicher Produkte);
+
+
+
+
+
+4.  für die Indexreihe der Erzeugerpreise gewerblicher Produkte gesamt
+    (ohne Mineralölerzeugnisse) für den Zeitraum vor 1976 die Indexreihe
+    der Erzeugerpreise gewerblicher Produkte gesamt (Statistisches
+    Bundesamt, Fachserie 17, Index der Erzeugerpreise gewerblicher
+    Produkte).
+
+
+
+
+(3) Der Tagesneuwert im Basisjahr eines im Jahr t angeschafften
+Anlagegutes ergibt sich durch die Multiplikation des Indexfaktors des
+Jahres t mit den historischen Anschaffungs- oder Herstellungskosten.
+Der Indexfaktor des Jahres t ergibt sich aus dem Quotienten des
+Indexwertes des Basisjahres und dem Indexwert des Jahres t und ist auf
+vier Nachkommastellen zu runden.
+
+    Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-
+    Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über
+    www.destatis.de.
+[^F782159_02_BJNR219700005BJNE004100301]: 
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
 
@@ -349,8 +503,8 @@ ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand
 anzusetzen. Soweit das nach Satz 2 ermittelte betriebsnotwendige
 Eigenkapital einen Anteil von 40 Prozent des sich aus der Summe der
 Werte nach Satz 2 Nr. 1 bis 4 ergebenden betriebsnotwendigen Vermögens
-übersteigt, ist der übersteigende Anteil dieses Eigenkapitals nominal
-wie Fremdkapital zu verzinsen.
+übersteigt, ist der übersteigende Anteil dieses Eigenkapitals gemäß
+Absatz 7 zu verzinsen.
 
 (2) Als Abzugskapital ist das zinslos zur Verfügung stehende Kapital
 zu behandeln. Es ist jeweils der Mittelwert aus Jahresanfangs- und
@@ -427,14 +581,32 @@ Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die
 Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen
 9,21 Prozent vor Steuern und bei Altanlagen 7,8 Prozent vor Steuern.
 
+(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil
+des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als gewichteter
+Durchschnitt des auf die letzten zehn abgeschlossenen Kalenderjahre
+bezogenen Durchschnitts der folgenden von der Deutschen Bundesbank
+veröffentlichten Umlaufsrenditen:
+
+1.  Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen
+    der öffentlichen Hand und
+
+
+2.  Umlaufsrenditen inländischer Inhaberschuldverschreibungen – Anleihen
+    von Unternehmen (Nicht-MFIs).
+
+
+
+Bei der Bestimmung des gewichteten Durchschnitts wird der Durchschnitt
+der Umlaufsrenditen nach Satz 1 Nummer 1 einfach gewichtet und der
+Durchschnitt der Umlaufsrenditen nach Satz 1 Nummer 2 zweifach
+gewichtet. Weitere Zuschläge sind unzulässig.
+
 
 #### § 8 Kalkulatorische Steuern
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
 sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
-Kostenposition in Ansatz gebracht werden. Bei der Ermittlung der
-Gewerbesteuer ist die Abzugsfähigkeit der Gewerbesteuer bei sich
-selbst zu berücksichtigen.
+Kostenposition in Ansatz gebracht werden.
 
 
 #### § 9 Kostenmindernde Erlöse und Erträge
@@ -459,10 +631,11 @@ Netzbetrieb zuzurechnen und insbesondere den Positionen
 
 
 der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von
-den Netzkosten in Abzug zu bringen. Die von gasverbrauchenden
-Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer
-von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd
-anzusetzen.
+den Netzkosten in Abzug zu bringen. Einnahmen nach § 140 des
+Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb
+zuzurechnen. Die von gasverbrauchenden Anschlussnehmern entrichteten
+Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear
+aufzulösen und jährlich netzkostenmindernd anzusetzen.
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines
 Anschlusses für die Einspeisung von Gas entrichtet wurden, sind
@@ -471,8 +644,10 @@ anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.
 
 #### § 10 Periodenübergreifende Saldierung
 
-Betreiber von Gasversorgungsnetzen sind verpflichtet, nach Abschluss
-einer Kalkulationsperiode die Differenz zwischen
+Soweit die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a
+des Energiewirtschaftsgesetzes bestimmt werden, sind die Betreiber von
+Gasversorgungsnetzen verpflichtet, nach Abschluss einer
+Kalkulationsperiode die Differenz zwischen
 
 1.  den in dieser Kalkulationsperiode aus Netzentgelten erzielten Erlösen
     und
@@ -686,12 +861,8 @@ sachkundige Dritte nachvollziehbaren Weise schriftlich zu
 dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
 
-#### § 17 Änderungen der Netzentgelte
+#### § 17 (weggefallen)
 
-Ist ein Antrag nach § 23a Abs. 3 des Energiewirtschaftsgesetzes
-gestellt worden, hat der betreffende Betreiber von
-Gasversorgungsnetzen dies unverzüglich auf seiner Internetseite
-bekannt zu geben.
 
 
 #### § 18 Besondere Regeln für örtliche Verteilernetze
@@ -788,6 +959,10 @@ in für sachkundige Dritte nachvollziehbarer Weise zu dokumentieren;
 die Dokumentation ist der Regulierungsbehörde auf Verlangen
 vorzulegen.
 
+(4) Werden individuelle Netzentgelte nach den Absätzen 1 und 2
+gebildet, sind diese in die Veröffentlichung der Netzentgelte
+aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
+
 
 #### § 20a
 
@@ -797,8 +972,8 @@ sie unmittelbar Biogas einspeisen, ein pauschales Entgelt in Höhe von
 Netzkosten für zehn Jahre ab Inbetriebnahme des jeweiligen
 Netzanschlusses für die Einspeisung von Biogas. Dies gilt unabhängig
 von der Netzebene, in die eingespeist wird. Die Höhe des
-pauschalierten Entgelts wird im Zuge des Monitorings nach § 37 der
-Gasnetzzugangsverordnung überprüft.
+pauschalierten Entgelts wird im Zuge des Monitorings nach § 35 Absatz
+1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
 
 
 #### § 20b
@@ -824,215 +999,45 @@ Die Kosten
 
 
 
-werden auf alle Netze innerhalb des Marktgebiets umgelegt, in dem das
-Netz liegt.
+werden bundesweit umgelegt.
 
 
-## Teil 3 - Vergleichsverfahren
+#### § 21 Netzentgeltbildung bei Anreizregulierung
 
+(1) Soweit die Kosten einer Regulierung nach der
+Anreizregulierungsverordnung unterliegen, werden die Entgelte für den
+Zugang zu den Energieversorgungsnetzen aus den nach § 32 Absatz 1
+Nummer 1 der Anreizregulierungsverordnung festgelegten
+Erlösobergrenzen ermittelt. Dies erfolgt entsprechend den Vorschriften
+der §§ 11 bis 16 und 18 bis 20b.
 
+(2) Der Netzbetreiber ist verpflichtet, bei einer Anpassung der
+Erlösobergrenze nach § 4 Absatz 3 und 5 der
+Anreizregulierungsverordnung die Netzentgelte anzupassen, soweit sich
+daraus nach Absatz 1 eine Absenkung der Netzentgelte ergibt. Im
+Übrigen ist er bei einer Anpassung der Erlösobergrenze nach § 4 Absatz
+3 bis 5 der Anreizregulierungsverordnung zur Anpassung der
+Netzentgelte berechtigt.
 
-### Abschnitt 1 - Vergleichsverfahren bei kostenorientierter Ermittlung der Netzentgelte
+(3) Die Anpassung der Netzentgelte nach Absatz 2 erfolgt zum 1. Januar
+eines Kalenderjahres. Vorgelagerte Netzbetreiber haben die Höhe der
+geplanten Anpassung der Netzentgelte den nachgelagerten Netzbetreibern
+rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
 
+## Teil 3 - (weggefallen)
 
-#### § 21 Verfahren
 
-(1) Die Regulierungsbehörde kann Vergleichsverfahren nach § 21 Abs. 3
-des Energiewirtschaftsgesetzes in regelmäßigen zeitlichen Abständen
-für Gasversorgungsnetze durchführen. Die Regulierungsbehörde macht die
-Ergebnisse der Vergleichsverfahren in ihrem Amtsblatt und auf ihrer
-Internetseite öffentlich bekannt.
 
-(2) Die Vergleichsverfahren können sich nach Maßgabe des § 22 auf die
-von Betreibern von Gasversorgungsnetzen erhobenen Netzentgelte, deren
-Erlöse oder Kosten beziehen. Einzubeziehen in die Vergleichsverfahren
-sind alle Betreiber von Gasversorgungsnetzen, soweit die in § 23 Abs.
-4 aufgeführten Daten in der angegebenen Form der Regulierungsbehörde
-vorliegen. Zur Sicherstellung eines sachgerechten Vergleichs sind die
-Betreiber von Gasversorgungsnetzen zunächst Strukturklassen nach § 23
-Abs. 1 zuzuordnen.
+### (XXXX) §§ 22 bis 26 (weggefallen)
 
-(3) Die Regulierungsbehörde kann zur Vorbereitung einer Entscheidung
-nach § 30 Abs. 3 auch Feststellungen treffen über die Erlöse oder
-Kosten von Betreibern von Gasversorgungsnetzen in anderen
-Mitgliedstaaten der Europäischen Union.
-
-
-#### § 22 Vergleich
-
-Der Vergleich ist nach folgenden Grundsätzen durchzuführen:
-
-1.  Im Falle eines Vergleichs von Entgelten ist in Abhängigkeit der
-    verglichenen Gasversorgungsnetze sicherzustellen, dass dem Vergleich
-    stets das durchschnittliche, vollständig mengengewichtete Entgelt zu
-    Grunde liegt, wobei dieses bei separaten Ein- und Ausspeiseentgelten
-    über alle Ein- und Ausspeisepunkte zu bilden ist; einer
-    unterschiedlichen Auslastung der verglichenen Netze ist jeweils
-    Rechnung zu tragen.
-
-
-2.  Bei einem Vergleich der Erlöse aus Netzentgelten eines
-    Gasversorgungsnetzes ist insbesondere das Verhältnis dieser Erlöse zu
-    der Länge des Gasnetzes in den verschiedenen Druckstufen zu
-    berücksichtigen.
-
-
-3.  Bei einem Vergleich der Kosten einer Druckstufe eines
-    Versorgungsnetzes ist insbesondere das Verhältnis der Kosten zu der
-    Länge des Gasnetzes der jeweiligen Druckstufe zu berücksichtigen.
-
-
-
-
-
-#### § 23 Strukturklassen
-
-(1) Für den Vergleich sind sechs Strukturklassen zu bilden. Diese
-Strukturklassen richten sich nach
-
-1.  hoher, mittlerer und niedriger Absatzdichte,
-
-
-2.  der Belegenheit des Netzes in Berlin, Brandenburg, Mecklenburg-
-    Vorpommern, Sachsen, Sachsen-Anhalt oder Thüringen (Strukturklasse
-    Ost) oder den übrigen Ländern (Strukturklasse West).
-
-
-
-Über die Abgrenzung zwischen hoher, mittlerer und niedriger
-Absatzdichte nach Satz 2 Nr. 1 entscheidet die Regulierungsbehörde.
-Soweit dies sachlich geboten ist, soll die Regulierungsbehörde ferner
-über die zeitliche Befristung der Anwendung der Strukturklassen Ost
-und West nach Satz 2 Nr. 2 entscheiden. Eine solche Entscheidung darf
-frühestens nach Ablauf von drei Regulierungsperioden nach § 21a Abs. 3
-Satz 1 des Energiewirtschaftsgesetzes ergehen.
-
-(2) Die Absatzdichte eines Gasversorgungsnetzes ist der Quotient aus
-der Gesamtentnahme eines Jahres in Kilowattstunden aus diesem Netz und
-der Länge des Netzes in Kilometern.
-
-(3) Ist die Belegenheit des Netzes im Hinblick auf dessen Zuordnung zu
-der Strukturklasse Ost nicht eindeutig, ist das Netzgebiet dieser
-Strukturklasse zuzuordnen, wenn mehr als 50 Prozent der Länge des
-Gasnetzes geographisch auf dem Gebiet dieser Strukturklasse liegen.
-Andernfalls ist das Netzgebiet der Strukturklasse West zuzuteilen.
-
-(4) Betreiber von Gasversorgungsnetzen haben der Regulierungsbehörde,
-jeweils jährlich zum 1. April für jedes Gasversorgungsnetz getrennt,
-folgende Angaben zu übermitteln:
-
-1.  die Kosten nach § 12 des letzten abgeschlossenen Geschäftsjahres,
-
-
-2.  die Erlöse aus Netzentgelten des Vorjahres,
-
-
-3.  die im Vorjahr durch Weiterverteiler und Letztverbraucher entnommene
-    Jahresarbeit in Kilowattstunden und
-
-
-4.  die Daten nach § 27 Abs. 2 Nr. 1 bis 5.
-
-
-
-Die Frist nach Satz 1 kann im Einzelfall auf Antrag des Betreibers von
-Gasversorgungsnetzen von der Regulierungsbehörde um bis zu drei Monate
-verlängert werden.
-
-
-#### § 24 Kostenstruktur
-
-Die Regulierungsbehörde kann im Rahmen von Vergleichen ermitteln, ob
-der Anteil der auf den Netzbetrieb entfallenden Gemeinkosten des
-Gesamtunternehmens an den Kosten nach § 4 Abs. 1 angemessen ist. Die
-Regulierungsbehörde kann insbesondere die Angemessenheit der in
-Anwendung gebrachten Schlüssel überprüfen.
-
-
-#### § 25 Mitteilungspflichten gegenüber der Regulierungsbehörde
-
-(1) Zur Durchführung der Vergleichsverfahren sind Betreiber von
-Gasversorgungsnetzen verpflichtet, der Regulierungsbehörde auf
-Verlangen
-
-1.  die nach § 4 Abs. 4 und § 12 dokumentierten Schlüssel mitzuteilen,
-
-
-2.  die für die Beurteilung eines angemessenen Verhältnisses von
-    Gemeinkosten zu Einzelkosten des Netzes nach § 24 erforderlichen
-    Auskünfte zur Verfügung zu stellen,
-
-
-3.  den Bericht nach § 28 vorzulegen und
-
-
-4.  in dem Bericht nach § 28 dokumentierte Informationen mitzuteilen.
-
-
-
-Die Regulierungsbehörde kann weitere Auskünfte verlangen, soweit dies
-zur Durchführung des Vergleichsverfahrens erforderlich ist.
-
-(2) Betreiber von Gasversorgungsnetzen sind verpflichtet, die für ihr
-Netz geltenden Netzentgelte und deren Änderungen der
-Regulierungsbehörde unverzüglich mitzuteilen.
-
-
-### Abschnitt 2 - Vergleichsverfahren bei der Ermittlung der Netzentgelte gemäß § 20
-
-
-
-#### § 26 Vergleich der Fernleitungsnetzbetreiber
-
-(1) Für den Vergleich der Fernleitungsnetzbetreiber, die die Entgelte
-nach § 19 bilden, sind abweichend von den §§ 21 bis 25 nur § 21 Abs. 1
-und 3, § 22 Nr. 1 und 2, § 23 Abs. 4 Nr. 2 bis 4 sowie § 25 Abs. 1 Nr.
-3 und 4 und Abs. 2 anzuwenden.
-
-(2) Der Vergleich der Fernleitungsnetzbetreiber, die ihre Entgelte
-nach § 19 bilden, soll von der Regulierungsbehörde jährlich
-durchgeführt werden. Die Regulierungsbehörde kann in ihrem Vergleich
-Netzbetreiber in anderen Mitgliedstaaten der Europäischen Union
-heranziehen.
 
 
 ## Teil 4 - Pflichten der Netzbetreiber
 
 
 
-### § 27 Veröffentlichungspflichten
-
-(1) Betreiber von Gasversorgungsnetzen sind verpflichtet, die für ihr
-Netz geltenden Netzentgelte auf ihren Internetseiten zu
-veröffentlichen und auf Anfrage jedermann unverzüglich in Textform
-mitzuteilen. Werden individuelle Netzentgelte nach § 20 gebildet, sind
-diese in die Veröffentlichung der Netzentgelte aufzunehmen und der
-Regulierungsbehörde unverzüglich anzuzeigen.
-
-(2) Betreiber von Gasversorgungsnetzen haben ferner jeweils zum 1.
-April eines Jahres folgende Strukturmerkmale ihres Netzes auf ihrer
-Internetseite zu veröffentlichen:
-
-1.  die Länge des Gasleitungsnetzes jeweils getrennt für die Niederdruck-,
-    Mitteldruck- und Hochdruckebene zum 31. Dezember des Vorjahres,
-
-
-2.  die Länge des Gasleitungsnetzes in der Hochdruckebene nach
-    Leitungsdurchmesserklassen,
-
-
-3.  die im Vorjahr durch Weiterverteiler und Letztverbraucher entnommene
-    Jahresarbeit in Kilowattstunden oder in Kubikmetern,
-
-
-4.  die Anzahl der Ausspeisepunkte jeweils für alle Druckstufen und
-
-
-5.  die zeitgleiche Jahreshöchstlast aller Entnahmen in Megawatt oder
-    Kubikmetern pro Stunde und den Zeitpunkt des jeweiligen Auftretens.
-
-
+### § 27 (weggefallen)
 
 
 
@@ -1122,14 +1127,10 @@ Energiewirtschaftsgesetzes treffen über
 
 
 2.  die Aufschlüsselung der Positionen der Gewinn- und Verlustrechnungen
-    nach § 5,
+    nach § 5 und
 
 
-3.  eine möglichst einheitliche Handhabung von Gemeinkostenzuordnungen
-    nach § 25 und
-
-
-4.  zusätzliche Anforderungen an die Struktur und Inhalt des Berichts nach
+3.  zusätzliche Anforderungen an die Struktur und Inhalt des Berichts nach
     § 28 und dessen Anhang.
 
 
@@ -1145,10 +1146,10 @@ Gewährleistung
     Kalkulationsperiode spürbar beeinflussen würden,
 
 
-2.  einer sachgerechten Ermittlung der Tagesneuwerte nach § 6 Abs. 3 in
-    Bezug auf die in Anwendung zu bringenden Preisindizes oder die den
-    Preisindizes zu Grunde liegenden Indexreihen und deren Gewichtung, die
-    Bildung von Anlagengruppen sowie des zu Grunde zu legenden Zinssatzes,
+2.  einer sachgerechten Gewichtung der bei der Ermittlung der
+    Tagesneuwerte anzuwendenden Indexreihen, soweit § 6a Mischindizes
+    vorsieht, insbesondere, um Produktivitätsfortschritte in den
+    relevanten Wirtschaftsbereichen zu berücksichtigen,
 
 
 3.  einer sachgerechten Ermittlung der kalkulatorischen Steuern nach § 8,
@@ -1181,8 +1182,7 @@ Gewährleistung
 
 
 
-(3) Die Absätze 1 und 2 gelten für die Durchführung eines
-Vergleichsverfahrens entsprechend.
+(3) (weggefallen)
 
 
 ### § 31 Ordnungswidrigkeiten
@@ -1192,27 +1192,13 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 4 Abs. 4 Satz 4 oder 6, § 11 Satz 4 oder 7 oder § 16 Abs. 2
     eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht
-    in der vorgeschriebenen Weise vornimmt,
+    in der vorgeschriebenen Weise vornimmt oder
 
 
-2.  entgegen § 23 Abs. 4 eine dort genannte Angabe nicht, nicht richtig,
-    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig übermittelt,
+2.  (weggefallen)
 
 
-3.  einer vollziehbaren Anordnung nach § 25 Abs. 1 zuwiderhandelt,
-
-
-4.  entgegen § 25 Abs. 2 eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht,
-
-
-5.  entgegen § 27 Abs. 1 Satz 1 oder Abs. 2 dort genannte Daten nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig veröffentlicht
-    oder
-
-
-6.  entgegen § 28 Abs. 1 Satz 1 einen Bericht nicht, nicht richtig, nicht
+3.  entgegen § 28 Abs. 1 Satz 1 einen Bericht nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstellt.
 
 
@@ -1221,18 +1207,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ### § 32 Übergangsregelungen
 
-(1) Betreiber von Gasversorgungsnetzen haben der Regulierungsbehörde
-spätestens bis zum 1. November 2005 getrennt nach Netzebenen die
-Angaben nach § 23 Abs. 4 Nr. 1 bis 4 zu übermitteln.
-
-(2) Betreiber von Gasversorgungsnetzen haben ihre Netzentgelte
-spätestens ab dem für sie maßgeblichen Zeitpunkt nach § 118 Abs. 1b
-Satz 1 des Energiewirtschaftsgesetzes auf der Grundlage dieser
-Verordnung zu bestimmen. § 21 findet bei der erstmaligen Bildung nach
-Satz 1 keine Anwendung. § 118 Abs. 1b Satz 2 des
-Energiewirtschaftsgesetzes bleibt unberührt.
-
-(3) Zur erstmaligen Ermittlung der Netzentgelte nach Absatz 2 sind die
+(1) Zur erstmaligen Ermittlung der Netzentgelte nach Absatz 2 sind die
 kalkulatorischen Restwerte des Sachanlagevermögens für den
 eigenfinanzierten Anteil auf Tagesneuwertbasis nach § 6 Abs. 3, für
 den fremdfinanzierten Anteil anschaffungsorientiert zu bestimmen und
@@ -1245,13 +1220,9 @@ Sachanlagevermögens die unteren Werte der in Anlage 1 genannten
 Spannen von Nutzungsdauern zu Grunde gelegt worden sind, es sei denn,
 der Betreiber des Gasversorgungsnetzes weist etwas anderes nach.
 
-(4) § 10 ist nicht mehr anzuwenden, sobald die Netzentgelte im Wege
-der Anreizregulierung nach § 21a des Energiewirtschaftsgesetzes
-bestimmt werden.
+(2) § 3 Abs. 3 ist erst ab dem 1. Januar 2006 anzuwenden.
 
-(5) § 3 Abs. 3 ist erst ab dem 1. Januar 2006 anzuwenden.
-
-(6) Die Regulierungsbehörde kann beim Genehmigungsantrag für das
+(3) Die Regulierungsbehörde kann beim Genehmigungsantrag für das
 letzte der Anreizregulierung vorangehende Kalenderjahr auf zusätzliche
 oder neue Unterlagen gegenüber dem letzten geprüften Antrag
 verzichten, wenn Netzbetreiber, die am vereinfachten Verfahren nach §
@@ -1259,6 +1230,19 @@ verzichten, wenn Netzbetreiber, die am vereinfachten Verfahren nach §
 erforderlichen Antrag rechtzeitig gestellt haben und für das letzte
 der Anreizregulierung vorangehende Kalenderjahr keine Erhöhung der
 Netzentgelte begehren.
+
+(4) Die Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 erfolgt
+ab dem 1. Januar 2013 unter Anwendung der Indexreihen des
+Statistischen Bundesamtes gemäß § 6a.
+
+(5) Die Verzinsung des die Eigenkapitalquote im Sinne des § 7 Absatz 1
+Satz 5 übersteigenden Anteils des Eigenkapitals erfolgt ab dem 1.
+Januar 2013 nach § 7 Absatz 7.
+
+(6) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil
+des Eigenkapitals nach § 7 Absatz 1 Satz 5 bestimmt sich bis zum Ende
+der dritten Regulierungsperiode nach § 7 Absatz 7 in der bis zum 31.
+Juli 2021 geltenden Fassung.
 
 
 ### § 33 Inkrafttreten

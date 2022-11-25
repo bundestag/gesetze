@@ -16,7 +16,16 @@ Fundstelle
 :   BGBl I: 1965, 1185
 
 Zuletzt geändert durch
-:   Art. 7 G v. 9.12.2010 I 1900
+:   Art. 2 G v. 12.12.2019 I 2637
+
+Änderung durch
+:   Art. 16 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 19 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Übersicht
@@ -28,7 +37,14 @@ Zuletzt geändert durch
 
     *   Übergangsvorschriften
 
-    *   §§ 1-26d
+    *   §§ 1-26j
+
+
+*    *
+    *
+    *   Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+    *   §§ 26k-26l
 
 
 *    *   2.
@@ -38,7 +54,7 @@ Zuletzt geändert durch
     *   Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer
         Rechtsform
 
-    *   §§ 27-28
+    *   §§ 27-28a
 
 
 *    *   3.
@@ -87,7 +103,7 @@ sie geltenden besonderen Vorschriften.
 (2) Aktiengesellschaften, die vor dem 1. Januar 1999 in das
 Handelsregister eingetragen worden sind, dürfen die Nennbeträge ihres
 Grundkapitals und ihrer Aktien weiter in Deutscher Mark bezeichnen.
-Bis zm 31. Dezember 2001 dürfen Aktiengesellschaften neu eingetragen
+Bis zum 31. Dezember 2001 dürfen Aktiengesellschaften neu eingetragen
 werden, deren Grundkapital und Aktien auf Deutsche Mark lauten. Danach
 dürfen Aktiengesellschaften nur eingetragen werden, wenn die
 Nennbeträge von Grundkapital und Aktien in Euro bezeichnet sind; das
@@ -383,6 +399,17 @@ des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S.
 Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009
 bestellt worden sind.
 
+(5) § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes jeweils in
+der Fassung des Abschlussprüfungsreformgesetzes vom 10. Mai 2016
+(BGBl. I S. 1142) müssen so lange nicht angewandt werden, wie alle
+Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17.
+Juni 2016 bestellt worden sind.
+
+(6) § 100 Absatz 5 und § 107 Absatz 4 Satz 3 des Aktiengesetzes in der
+jeweils ab dem 1. Juli 2021 geltenden Fassung müssen so lange nicht
+angewandt werden, wie alle Mitglieder des Aufsichtsrats und des
+Prüfungsausschusses vor dem 1. Juli 2021 bestellt worden sind.
+
 
 ### § 13 Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
 
@@ -616,8 +643,28 @@ geltenden Fassung ist auch auf die vor dem 15. Dezember 2010
 entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
 
-### § 25 (weggefallen)
+### § 25 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
+(1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111
+Absatz 5 Satz 1 und 3 des Aktiengesetzes in der am 1. Mai 2015
+geltenden Fassung haben erstmals bis spätestens 30. September 2015 zu
+erfolgen. Die nach § 76 Absatz 4 Satz 3 und die nach § 111 Absatz 5
+Satz 3 des Aktiengesetzes in der am 1. Mai 2015 geltenden Fassung
+erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni
+2017 dauern.
+
+(2) Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im
+Aufsichtsrat nach § 96 Absatz 2 des Aktiengesetzes ist bei
+erforderlich werdenden Neuwahlen und Entsendungen ab dem 1. Januar
+2016 zur Besetzung einzelner oder mehrerer Aufsichtsratssitze zu
+beachten. Reicht die Anzahl der neu zu besetzenden Aufsichtsratssitze
+nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
+
+(3) Für die Fälle des § 96 Absatz 3 des Aktiengesetzes gilt Absatz 2
+entsprechend.
 
 
 ### § 26 Kommanditgesellschaften auf Aktien
@@ -689,13 +736,201 @@ das bisher geltende Recht mit der Maßgabe anwendbar, dass die
 Verjährungsfrist ein Jahr beträgt.
 
 
+### § 26f Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+
+Die §§ 152, 158 und 160 des Aktiengesetzes in der Fassung des
+Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes vom 20.
+Dezember 2012 (BGBl. I S. 2751) sind erstmals auf Jahres- und
+Konzernabschlüsse anzuwenden, die sich auf einen nach dem 30. Dezember
+2012 liegenden Abschlussstichtag beziehen. Auf Jahres- und
+Konzernabschlüsse, die sich auf einen vor dem 31. Dezember 2012
+liegenden Abschlussstichtag beziehen, bleiben die §§ 152, 158 und 160
+des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis
+zum 27. Dezember 2012 geltenden Fassung anwendbar.
+
+
+### § 26g Übergangsregelungen zum Bilanzrichtlinie-Umsetzungsgesetz
+
+Die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der
+Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015
+(BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschlüsse
+anzuwenden, die sich auf ein nach dem 31. Dezember 2015 beginnendes
+Geschäftsjahr beziehen. Auf Jahres- und Konzernabschlüsse, die sich
+auf ein vor dem 1. Januar 2016 beginnendes Geschäftsjahr beziehen,
+bleiben die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes
+in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
+
+
+### § 26h Übergangsvorschrift zur Aktienrechtsnovelle 2016
+
+(1) § 10 Absatz 1 des Aktiengesetzes in der seit dem 31. Dezember 2015
+geltenden Fassung ist nicht auf Gesellschaften anzuwenden, deren
+Satzung vor dem 31. Dezember 2015 durch notarielle Beurkundung
+festgestellt wurde und deren Aktien auf Inhaber lauten. Für diese
+Gesellschaften ist § 10 Absatz 1 des Aktiengesetzes in der am 30.
+Dezember 2015 geltenden Fassung weiter anzuwenden.
+
+(2) Sieht die Satzung einer Gesellschaft einen Umwandlungsanspruch
+gemäß § 24 des Aktiengesetzes in der bis zum 30. Dezember 2015
+geltenden Fassung vor, so bleibt diese Satzungsbestimmung wirksam.
+
+(3) Bezeichnet die Satzung gemäß § 25 Satz 2 des Aktiengesetzes in der
+bis zum 30. Dezember 2015 geltenden Fassung neben dem Bundesanzeiger
+andere Informationsmedien als Gesellschaftsblätter, so bleibt diese
+Satzungsbestimmung auch ab dem 31. Dezember 2015 wirksam. Für einen
+Fristbeginn oder das sonstige Eintreten von Rechtsfolgen ist ab dem 1.
+Februar 2016 ausschließlich die Bekanntmachung im Bundesanzeiger
+maßgeblich.
+
+(4) § 122 des Aktiengesetzes in der Fassung der Aktienrechtsnovelle
+2016 vom 22. Dezember 2015 (BGBl. I S. 2565) ist erstmals auf
+Einberufungs- und Ergänzungsverlangen anzuwenden, die der Gesellschaft
+am 1. Juni 2016 zugehen. Auf Ergänzungsverlangen, die der Gesellschaft
+vor dem 1. Juni 2016 zugehen, ist § 122 in der bis zum 30. Dezember
+2015 geltenden Fassung weiter anzuwenden.
+
+
+### § 26i Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+
+Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der
+Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017
+(BGBl. I S. 802) sind erstmals auf Lage- und Konzernlageberichte
+anzuwenden, die sich auf ein nach dem 31. Dezember 2016 beginnendes
+Geschäftsjahr beziehen. Auf Lage- und Konzernlageberichte, die sich
+auf vor dem 1. Januar 2017 beginnende Geschäftsjahre beziehen, bleiben
+die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017
+geltenden Fassung anwendbar.
+
+
+### § 26j Übergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktionärsrechterichtlinie
+
+(1) Die erstmalige Beschlussfassung nach § 87a Absatz 1, § 113 Absatz
+3 und § 120a Absatz 1 des Aktiengesetzes in der ab dem 1. Januar 2020
+geltenden Fassung hat bis zum Ablauf der ersten ordentlichen
+Hauptversammlung, die auf den 31. Dezember 2020 folgt, zu erfolgen.
+Die erstmalige Beschlussfassung nach § 87a Absatz 2 Satz 1 des
+Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung hat bis
+zum Ablauf von zwei Monaten nach erstmaliger Billigung des
+Vergütungssystems durch die Hauptversammlung zu erfolgen. Den
+gegenwärtigen und hinzutretenden Vorstands- oder
+Aufsichtsratsmitgliedern kann bis zu dem in Satz 2 zuletzt geregelten
+Zeitpunkt eine Vergütung nach der bestehenden Vergütungspraxis gewährt
+werden; die vor diesem Zeitpunkt mit ihnen geschlossenen Verträge
+bleiben unberührt.
+
+(2) § 162 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden
+Fassung ist erstmals für das nach dem 31. Dezember 2020 beginnende
+Geschäftsjahr anzuwenden. § 162 Absatz 1 Satz 2 Nummer 2 ist bis zum
+Ablauf des fünften Geschäftsjahres, gerechnet ab dem Geschäftsjahr
+nach Satz 1, mit der Maßgabe anzuwenden, dass nicht die
+durchschnittliche Vergütung der letzten fünf Geschäftsjahre in die
+vergleichende Betrachtung einbezogen wird, sondern lediglich die
+durchschnittliche Vergütung über den Zeitraum seit dem Geschäftsjahr
+nach Satz 1. Die erstmalige Beschlussfassung nach § 120a Absatz 4 des
+Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung hat bis
+zum Ablauf der ersten ordentlichen Hauptversammlung, gerechnet ab
+Beginn des zweiten Geschäftsjahres, das auf den 31. Dezember 2020
+folgt, zu erfolgen.
+
+(3) § 124 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden
+Fassung ist erst ab dem 1. März 2020 und erstmals auf
+Hauptversammlungen anzuwenden, die nach dem 1. März 2020 einberufen
+werden.
+
+(4) Die §§ 67, 67a bis 67f, 118, 121, 123, 125, 128, 129, 186 Absatz 2
+Satz 1, § 214 Absatz 1 Satz 2, § 243 Absatz 3, § 246a Absatz 2 Nummer
+2 und § 405 Absatz 2a Nummer 1 bis 5 und 7 des Aktiengesetzes in der
+ab dem 1. Januar 2020 geltenden Fassung sind erst ab dem 3. September
+2020 anzuwenden und sind erstmals auf Hauptversammlungen anzuwenden,
+die nach dem 3. September 2020 einberufen werden.
+
+(5) Die Verordnung über den Ersatz von Aufwendungen der
+Kreditinstitute vom 17. Juni 2003 (BGBl. I S. 885), die durch Artikel
+15 des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2479) geändert worden
+ist, ist in der bis einschließlich 2. September 2020 geltenden Fassung
+bis zum Inkrafttreten einer Verordnung auf Grundlage der Ermächtigung
+in § 67f Absatz 3 des Aktiengesetzes, jedoch längstens bis
+einschließlich 3. September 2025 weiterhin sinngemäß anzuwenden. Die
+Verordnung über den Ersatz von Aufwendungen der Kreditinstitute ist
+wie folgt sinngemäß anzuwenden:
+
+1.  auf Mitteilungen nach § 67 Absatz 4 Satz 1 bis 5 des Aktiengesetzes
+    und bei börsennotierten Gesellschaften nach § 67d des Aktiengesetzes
+    ist § 3 der Verordnung über den Ersatz von Aufwendungen der
+    Kreditinstitute sinngemäß anzuwenden, und
+
+
+2.  auf Mitteilungen nach den §§ 67a bis 67c, auch in Verbindung mit § 125
+    Absatz 1, 2 und 5 des Aktiengesetzes ist § 1 der Verordnung über den
+    Ersatz von Aufwendungen der Kreditinstitute sinngemäß anzuwenden.
+
+
+
+
+
+### § 26k Übergangsvorschrift zum Finanzmarktintegritätsstärkungsgesetz
+
+(1) Die §§ 404a, 405 und 407a des Aktiengesetzes in der ab dem 1. Juli
+2021 geltenden Fassung sind erstmals auf alle gesetzlich
+vorgeschriebenen Abschlussprüfungen für das nach dem 31. Dezember 2021
+beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten
+Vorschriften in der bis einschließlich 30. Juni 2021 geltenden Fassung
+sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen
+Abschlussprüfungen für das vor dem 1. Januar 2022 beginnende
+Geschäftsjahr.
+
+(2) § 107 Absatz 4 Satz 1, 2, 4 bis 6, § 209 Absatz 5 und § 407 Absatz
+1 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind
+erstmals ab dem 1. Januar 2022 anzuwenden.
+
+(3) § 256 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden
+Fassung ist erstmals auf Jahresabschlüsse für das nach dem 31.
+Dezember 2021 beginnende Geschäftsjahr anzuwenden.
+
+(4) § 143 Absatz 2, § 209 Absatz 4 und § 258 Absatz 4 des
+Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind
+erstmals auf Sonderprüfer, die für das nach dem 31. Dezember 2021
+beginnende Geschäftsjahr bestellt, oder Prüfer, die für das nach dem
+31\. Dezember 2021 beginnende Geschäftsjahr gewählt werden, anzuwenden.
+
+(5) § 293d in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals
+auf die Prüfung von Unternehmensverträgen anzuwenden, die nach dem 31.
+Dezember 2021 geschlossen wurden. § 293d in der bis einschließlich 30.
+Juni 2021 geltenden Fassung ist letztmals auf die Prüfung von
+Unternehmensverträgen anzuwenden, die vor dem 1. Januar 2022
+geschlossen wurden.
+
+
+### § 26l Übergangsvorschrift zum Gesetz zur Ergänzung und Änderung der Regelungen für die gleichberechtigte Teilhabe von Frauen an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+(1) Das Beteiligungsgebot für den Vorstand nach § 76 Absatz 3a Satz 1
+des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung ist
+ab dem 1. August 2022 bei der Bestellung einzelner oder mehrerer
+Vorstandsmitglieder einzuhalten. Bestehende Mandate können bis zu
+ihrem vorgesehenen Ende wahrgenommen werden. Gleiches gilt im Fall des
+§ 393a Absatz 2 Nummer 1 des Aktiengesetzes.
+
+(2) § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes in der vom 12.
+August 2021 an geltenden Fassung finden erstmals auf die Festlegung
+von Zielgrößen ab dem 12. August 2021 Anwendung.
+
+(3) Der jeweilige Mindestanteil von Frauen und Männern im Aufsichtsrat
+nach § 393a Absatz 2 Nummer 2 des Aktiengesetzes ist bei erforderlich
+werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April
+2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht
+aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen
+des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil
+sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+vorgesehenen Ende wahrgenommen werden.
+
+
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform
 
 
 
 ### § 27 Entscheidung über die Zusammensetzung des Aufsichtsrats
 
-§ 96 Abs. 2, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für
+§ 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für
 Gesellschaften mit beschränkter Haftung und bergrechtliche
 Gewerkschaften.
 
@@ -727,7 +962,7 @@ Aufsichtsrat eines von der Treuhandanstalt verwalteten Unternehmens.
 
 ### § 33 Gesetz über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn- und Verlustrechnung
 
-(1)
+(1) (gegenstandslos)
 
 (2) Haben Kreditinstitute auf Grund einer Aufforderung nach § 11 Abs.
 1 des Gesetzes über die Kapitalerhöhung aus Gesellschaftsmitteln und
@@ -750,7 +985,7 @@ seit der letzten Bekanntmachung der Androhung beim Inkrafttreten des
 Aktiengesetzes bereits abgelaufen, so tritt an ihre Stelle eine Frist
 von drei Monaten seit dem Inkrafttreten des Aktiengesetzes.
 
-(3)
+(3) (Änderungsvorschrift)
 
 (4) Sind Aktien einer Gesellschaft an einer deutschen Börse zum
 amtlichen Handel zugelassen, so gilt die Zulassung auch für die neuen

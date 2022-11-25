@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2004, 300
 
 Zuletzt geändert durch
-:   Art. 7 V v. 8.3.2012 I 483
+:   Art. 3 V v. 28.6.2016 I 1504
+
+Änderung durch
+:   Art. 3 V v. 19.10.2021 I 4717 (Nr. 75) textlich nachgewiesen, dokumentarisch nicht abschließend bearbeitet
 
 
 ## § 1 Geltungsbereich
@@ -48,22 +51,17 @@ bekannt zu machen.
     Handelszwecken eingesetzt werden,
 
 
-3.  für Traditionsschiffe, deren Rumpflänge 45 Meter nicht übersteigt, mit
-    Ausnahme der Nummer 4 der Anlage,
+3.  für Traditionsschiffe, deren Rumpflänge 45 Meter nicht übersteigt,
 
 
 4.  für Sportfahrzeuge, die für nicht mehr als zwölf Personen zugelassen
-    sind und deren Rumpflänge 45 Meter nicht übersteigt,
-
-
-5.  hinsichtlich Nummer 4 der Anlage für Fischereifahrzeuge, deren
-    Rumpflänge 45 Meter nicht übersteigt.
+    sind und deren Rumpflänge 45 Meter nicht übersteigt.
 
 
 
 
-(4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1
-000 BRZ, Bordvorräte und Schiffsausrüstung.
+(4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter
+1 000 BRZ, Bordvorräte und Schiffsausrüstung.
 
 
 ## § 2 Folgen von Verstößen
@@ -94,32 +92,11 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 2\.2.2 der Anlage eine Meldung nicht, nicht richtig, nicht vollständig
 oder nicht rechtzeitig macht.
 
-(1a) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
-Seeaufgabengesetzes handelt, wer als Schiffsführer vorsätzlich oder
-fahrlässig
-
-1.  entgegen § 1 Abs. 1 in Verbindung mit Nummer 9.1 Satz 1 der Anlage
-    einen Hafen anläuft,
-
-
-2.  entgegen § 1 Abs. 1 in Verbindung mit Nummer 9.1 Satz 2 der Anlage die
-    dort vorgeschriebene Umstellung nicht oder nicht rechtzeitig vornimmt,
-
-
-3.  entgegen § 1 Abs. 1 in Verbindung mit Nummer 9.2 Satz 1 der Anlage die
-    dort vorgeschriebenen Angaben nicht, nicht richtig, nicht vollständig
-    oder nicht rechtzeitig übermittelt oder
-
-
-4.  entgegen § 1 Abs. 1 in Verbindung mit Nummer 9.2 Satz 2 der Anlage
-    eine Eintragung nicht oder nicht rechtzeitig nachmeldet.
-
-
-
+(1a) (weggefallen)
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 und Absatz 1a wird auf die Wasser-
-und Schifffahrtsdirektionen Nord und Nordwest übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
 ## Anlage (zu § 1 Abs. 1)
@@ -295,9 +272,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Parlaments und des Rates vom 27. Juni 2002 über die Einrichtung eines
     gemeinschaftlichen Überwachungs- und Informationssystems für den
     Schiffsverkehr (ABl. L 208 vom 5.8.2002, S. 10), die zuletzt durch die
-    Richtlinie
-    2009/17/EG                    (ABl. L 131 vom 28.5.2009, S. 101)
-    geändert worden ist, in der jeweils geltenden Fassung
+    Richtlinie 2014/100/EU (ABl. L 308 vom 29.10.2014, S. 82) geändert
+    worden ist, in der jeweils geltenden Fassung.
 
     Der Betreiber, Agent oder Schiffsführer eines Schiffes, das im
     Geltungsbereich dieser Verordnung verkehrt, ist verpflichtet,
@@ -397,8 +373,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     h)  die nach IMDG-Code bestimmte Gefahrgutklasse und Kategorie des
-        Schiffes im Sinne des
-        INF-Codes;
+        Schiffes im Sinne des INF-Codes;
 
 
     i)  die Mengen der in Buchstabe g genannten Güter und ihr Aufbewahrungsort
@@ -509,10 +484,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Ist dem Betreiber, Agent oder Schiffsführer eine Meldung nach Nummer
     2\.2.2 an die Zentrale Meldestelle nicht möglich, müssen die Angaben
-    als elektronisches Dokument an die Berufsgenossenschaft für Verkehr
-    und Transportwirtschaft, Ottenser Hauptstraße 54, 22765 Hamburg
-    (E-Mail:
-    psc-germany@bg-verkehr.de)                    gemeldet werden.
+    als elektronisches Dokument an die Berufsgenossenschaft für Transport
+    und Verkehrswirtschaft, Ottenser Hauptstraße 54, 22765 Hamburg
+    (E-Mail: psc-germany@bg-verkehr.de) gemeldet werden.
 
 
 2.3.3 Meldeverfahren
@@ -535,7 +509,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Zentralen Meldestelle auf deren Anfrage 24 Stunden am Tag unverzüglich
     im Wege der Datenfernübertragung zu übermitteln. Die Hafenbehörden,
     die diese Voraussetzung erfüllen, werden vom Bundesministerium für
-    Verkehr, Bau und Stadtentwicklung im Verkehrsblatt und nachrichtlich
+    Verkehr und digitale Infrastruktur im Verkehrsblatt und nachrichtlich
     auf der Internetseite der Zentralen Meldestelle unter *www.zmgs.de*
     bekannt gemacht.
 
@@ -559,10 +533,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 2.5.2 Internationale Liniendienste
 
     Einem internationalen Liniendienst kann auf schriftlichen Antrag bei
-    der für den Auslaufhafen örtlich zuständigen Wasser- und
-    Schifffahrtsdirektion eine Ausnahme genehmigt werden, soweit die
-    übrigen Mitgliedstaaten der Europäischen Union zugestimmt haben. Nach
-    Erteilung der Genehmigung gilt Nummer 2.5.1 entsprechend.
+    der Generaldirektion Wasserstraßen und Schifffahrt eine Ausnahme
+    genehmigt werden, soweit die übrigen Mitgliedstaaten der Europäischen
+    Union zugestimmt haben. Nach Erteilung der Genehmigung gilt Nummer
+    2\.5.1 entsprechend.
 
 
 2.6 Meldeformalitäten für Schiffe beim Einlaufen in und/oder Auslaufen aus
@@ -661,11 +635,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-4   Meldungen nach der Richtlinie 2000/59/EG des Europäischen Parlaments
-    und des Rates vom 27. November 2000 über Hafenauffangeinrichtungen für
-    Schiffsabfälle und Ladungsrückstände (ABl. L 332 vom 28.12.2000, S.
-    81), die durch die Richtlinie 2007/71/EG (ABl. L 329 vom 14.12.2007,
-    S. 33) geändert worden ist, in der jeweils geltenden Fassung
+4   (weggefallen)
 
 
 4.1 Meldeverpflichtung
@@ -674,8 +644,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Mitgliedstaats der Europäischen Union führt und einen deutschen Hafen
     anlaufen möchte, hat die im Anhang II der Richtlinie 2000/59/EG
     vorgesehenen Angaben auf dem vorgeschriebenen und vom
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung bekannt
-    gemachten Formular (VkBl. 2008 S. 39) wahrheitsgetreu zu melden und
+    Bundesministerium für Verkehr und digitale Infrastruktur bekannt
+    gemachten Formular (VkBl. 2016 S. 392) wahrheitsgetreu zu melden und
     die Meldung
 
     a)  mindestens 24 Stunden vor der Ankunft, sofern der Anlaufhafen bekannt
@@ -700,7 +670,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 4.2 Meldestellen
 
-    Das Bundesministerium für Verkehr, Bau und Stadtentwicklung hat die
+    Das Bundesministerium für Verkehr und digitale Infrastruktur hat die
     hinsichtlich der Verpflichtung zur Übermittlung von Angaben an die
     Bundesrepublik Deutschland nach Nummer 4.1 und nach § 5 Absatz 1 Satz
     1 des Schiffssicherheitsgesetzes in Verbindung mit Abschnitt D Nummer
@@ -785,7 +755,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 7.2 Die Revierfahrt darf nur dann angetreten werden, wenn in Absprache mit
     der zuständigen Verkehrszentrale der Tidefahrplan des zuständigen
-    Wasser- und Schifffahrtsamtes eingehalten werden kann.
+    Wasserstraßen- und Schifffahrtsamtes eingehalten werden kann.
 
 
 8   Verpflichtung zur Annahme eines Lotsen
@@ -812,10 +782,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lotsenschiffes vor der Wesermündung:
 
         aa) Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-
-            Ordnung in der jeweils geltenden Fassung mit einer Länge über alles
-            von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge
-            ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen
-            anzunehmen,
+            Ordnung mit einer Länge über alles von 150 m oder einer größten Breite
+            von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von
+            16,50 m und mehr sind zwei Seelotsen anzunehmen,
 
 
         bb) andere Massengutschiffe mit einer Länge über alles von 250 m oder
@@ -837,44 +806,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     unberührt.
 
 
-9   Verminderung von Schwefelemissionen
-
-
-9.1 Schiffe, die unterschiedliche Schiffskraftstoffe verwenden, dürfen
-    einen deutschen Hafen nur anlaufen, wenn im Schiffstagebuch folgende
-    Angaben zur Schiffskraftstoffumstellung wahrheitsgetreu eingetragen
-    sind:
-
-    a)  Menge an Schiffskraftstoff mit geringem Schwefelgehalt
-        (<= 1,5% m/m) in jedem Tank,
-
-
-    b)  Datum, Zeitpunkt und Position für jeden Vorgang der
-        Kraftstoffumstellung.
-
-
-
-
-    Der Schiffsführer hat die Umstellung so rechtzeitig vorzunehmen, dass
-    bei dem Einfahren in das SOx-Überwachungsgebiet "Nordsee" oder
-    "Ostsee" alle Reste von Schiffskraftstoffen mit nicht geringem
-    Schwefelgehalt aus dem Brennstoffbetriebssystem vollständig
-    herausgespült sind.
-
-
-9.2 Der Schiffsführer muss dem Meldepunkt des jeweiligen deutschen
-    Anlaufhafens die Angabe über die nach Nummer 9.1 durchgeführte
-    Eintragung im Zusammenhang mit Erfüllung der Meldeverpflichtung nach
-    Nummer 2.7.1 übermitteln. Findet eine Schiffskraftstoffumstellung zu
-    einem späteren Zeitpunkt statt, hat er die Eintragung in das
-    Schiffstagebuch unmittelbar danach vorzunehmen und die durchgeführte
-    Eintragung unverzüglich nachzumelden.
+9   (weggefallen)
 
 
 
 
 
-## Anhang (zu Nummer 1.17 der Anlage)
+## Anhang (zu § 1 Abs. 1 Nr. 1.17)
 
 (Inhalt: Nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 2005, 2297)

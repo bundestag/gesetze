@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1842
 
 Zuletzt geändert durch
-:   Art. 5 G v. 14.11.2011 I 2219
+:   Art. 14 Abs. 4 G v. 28.6.2021 I 2250
 
 
 ## Eingangsformel
@@ -25,7 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Erster Abschnitt - Aufgaben, Stellung und Organisation des Auswärtigen Dienstes
+## Abschnitt 1 - Aufgaben, Stellung und Organisation des Auswärtigen Dienstes
 
 
 
@@ -136,7 +136,7 @@ Konsulargesetzes ermächtigt werden, Amtshandlungen mit Wirkung für und
 gegen die Bundesrepublik Deutschland vorzunehmen.
 
 
-## Zweiter Abschnitt - Einsatz, Arbeitsweise und Ausstattung des Auswärtigen Dienstes
+## Abschnitt 2 - Einsatz, Arbeitsweise und Ausstattung des Auswärtigen Dienstes
 
 
 
@@ -184,9 +184,10 @@ unter den besonderen Bedingungen des Auswärtigen Dienstes.
 Aufgaben und Erfordernissen regelmäßig anzupassen.
 
 (2) Das Auswärtige Amt kann im Benehmen mit dem Bundesminister des
-Innern Abweichungen von der regelmäßigen Arbeitszeit festsetzen, wenn
-es besondere Bedürfnisse am jeweiligen Dienstort erfordern. Im übrigen
-gelten die Vorschriften über die Arbeitszeit der Bundesbeamten.
+Innern, für Bau und Heimat Abweichungen von der regelmäßigen
+Arbeitszeit festsetzen, wenn es besondere Bedürfnisse am jeweiligen
+Dienstort erfordern. Im übrigen gelten die Vorschriften über die
+Arbeitszeit der Bundesbeamten.
 
 (3) Die entsandten Angehörigen des Auswärtigen Dienstes erhalten im
 Ausland für die Pflege dienstlicher Kontakte eine
@@ -206,11 +207,17 @@ beraten die Auslandsvertretungen in Fragen der Führung und
 Zusammenarbeit.
 
 
-### § 9 Kurier- und Fernmeldeverbindungen
+### § 9 Kurierdienst und Auslands-IT
 
-Zur Sicherung der Verbindungen zwischen Auswärtigem Amt und
-Auslandsvertretungen verfügt der Auswärtige Dienst über ein eigenes
-Fernmeldenetz und einen eigenen Kurierdienst.
+(1) Das Auswärtige Amt stellt durch einen eigenen Kurierdienst und die
+Auslandsinformations- und -kommunikationstechnik mit einem eigenen
+Kommunikationsnetz eine störungsgeschützte und geheimschutzgerechte
+Kommunikation im Auswärtigen Dienst sicher.
+
+(2) Die Auslandsinformations- und -kommunikationstechnik umfasst die
+Informations- und Kommunikationstechnik des Geschäftsbereichs des
+Auswärtigen Amts im In- und Ausland sowie die Informationstechnik der
+unmittelbaren Bundesverwaltung im Ausland.
 
 
 ### § 10 Politisches Archiv
@@ -219,10 +226,11 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder
 beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des
 Deutschen Reiches und der Bundesrepublik Deutschland sowie alle
 Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner
-Aufgaben benötigt.
+Aufgaben benötigt. Die Vorschriften des Bundesarchivgesetzes über die
+Nutzung von Archivgut des Bundes sind entsprechend anzuwenden.
 
 
-## Dritter Abschnitt - Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
+## Abschnitt 3 - Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
 
 
 
@@ -287,7 +295,7 @@ verwendet werden.
 Auswärtigen Dienst der Bundesrepublik Deutschland verwendet werden.
 
 
-## Vierter Abschnitt - Pflichten und Rechte der Beamten
+## Abschnitt 4 - Rechte und Pflichten der Beamten
 
 
 
@@ -309,7 +317,7 @@ Deutschen zu helfen.
 
 ### § 15 Fürsorge und Schutz
 
-(1) Die Fürsorge des Dienstherren für den Beamten des Auswärtigen
+(1) Die Fürsorge des Dienstherrn für den Beamten des Auswärtigen
 Dienstes und seine Familienangehörigen trägt den Belastungen und
 Gefährdungen des Dienstes und den besonderen Gegebenheiten im Ausland
 Rechnung.
@@ -330,9 +338,9 @@ Ausland wahr.
 seine Familienangehörigen im Ausland betroffen sind, werden dem
 Beamten Beihilfen gewährt, die den besonderen Verhältnissen des
 Auswärtigen Dienstes Rechnung tragen. Das Auswärtige Amt erläßt im
-Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
-der Finanzen besondere Verwaltungsvorschriften, soweit es die
-Besonderheiten des Auswärtigen Dienstes erfordern.
+Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und
+dem Bundesminister der Finanzen besondere Verwaltungsvorschriften,
+soweit es die Besonderheiten des Auswärtigen Dienstes erfordern.
 
 (2) Dem Beamten kann Unfallfürsorge wie bei einem Dienstunfall auch
 dann gewährt werden, wenn eine Erkrankung oder deren Folgen auf
@@ -345,11 +353,11 @@ grobfahrlässig der Gefährdung ausgesetzt hat, es sei denn, daß der
 Ausschluß für ihn eine unbillige Härte wäre. Ansprüche auf Grund des
 Beamtenversorgungsgesetzes bleiben unberührt. Näheres regeln
 Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit
-dem Bundesminister des Innern und dem Bundesminister der Finanzen
-erläßt.
+dem Bundesminister des Innern, für Bau und Heimat und dem
+Bundesminister der Finanzen erläßt.
 
 
-### § 17 Gesundheitsdienst und Soziale Betreuung
+### § 17 Gesundheitsdienst und soziale Betreuung
 
 (1) Der Auswärtige Dienst unterhält zur Vorsorge gegen besondere
 gesundheitliche Gefährdungen seiner Beamten und ihrer
@@ -376,15 +384,15 @@ Deutschland erhalten, um die notwendigen Verbindungen zum Inland
 aufrechtzuerhalten.
 
 (2) Der Bundesminister des Auswärtigen wird ermächtigt, das Nähere im
-Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
-der Finanzen durch Rechtsverordnung zu regeln. Die Dienstorte mit
-Zusatzurlaubstagen und die Zahl der an einem Dienstort nach der
-Rechtsverordnung zu gewährenden zusätzlichen Urlaubstage bestimmt das
-Auswärtige Amt im Benehmen mit dem Bundesministerium des Innern durch
-Verwaltungsvorschrift.
+Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und
+dem Bundesminister der Finanzen durch Rechtsverordnung zu regeln. Die
+Dienstorte mit Zusatzurlaubstagen und die Zahl der an einem Dienstort
+nach der Rechtsverordnung zu gewährenden zusätzlichen Urlaubstage
+bestimmt das Auswärtige Amt im Benehmen mit dem Bundesministerium des
+Innern, für Bau und Heimat durch Verwaltungsvorschrift.
 
 
-## Fünfter Abschnitt - Fürsorge für Familienangehörige
+## Abschnitt 5 - Fürsorge für Familienangehörige
 
 
 
@@ -453,8 +461,8 @@ anfallenden Kosten werden erstattet.
 Auslandsdienstort, so werden Beihilfen zu Besuchsreisen gewährt.
 
 (3) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im
-Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
-der Finanzen erläßt.
+Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und
+dem Bundesminister der Finanzen erläßt.
 
 
 ### § 22 Unfälle und Erkrankungen von Familienangehörigen
@@ -473,17 +481,17 @@ erleidet er dabei einen Unfall, der bei dem Beamten selbst ein
 Dienstunfall im Sinne des § 31 Abs. 1 des Beamtenversorgungsgesetzes
 wäre, so wird dem Beamten dafür ein Ausgleich gewährt.
 
-(3) Der Ausgleich erfolgt in sinngemäßer Anwendung der §§ 32 bis 34
-Abs. 1, des § 35 und der §§ 43 bis 46 des Beamtenversorgungsgesetzes,
-soweit nicht der Beamte, der Familienangehörige oder die andere zur
-häuslichen Gemeinschaft gehörende Person einen Ausgleich von anderer
-Seite erhält. Im übrigen wird dem Beamten wegen der gesundheitlichen
-und wirtschaftlichen Folgen auf Antrag eine Versorgung in
-entsprechender Anwendung des Bundesversorgungsgesetzes gewährt.
+(3) Der Ausgleich erfolgt in sinngemäßer Anwendung der §§ 32 bis 34,
+35, 43 bis 46 des Beamtenversorgungsgesetzes, soweit nicht der Beamte,
+der Familienangehörige oder die andere zur häuslichen Gemeinschaft
+gehörende Person einen Ausgleich von anderer Seite erhält. Im übrigen
+wird dem Beamten wegen der gesundheitlichen und wirtschaftlichen
+Folgen auf Antrag eine Versorgung in entsprechender Anwendung des
+Bundesversorgungsgesetzes gewährt.
 
 (4) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im
-Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister
-der Finanzen erläßt.
+Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und
+dem Bundesminister der Finanzen erläßt.
 
 
 ### § 23 Reisebeihilfen in besonderen Fällen
@@ -494,13 +502,13 @@ lebensgefährlichen Erkrankung eines Familienangehörigen oder
 Verwandten ersten oder zweiten Grades können dem Beamten
 Reisebeihilfen gewährt werden. Ebenso können Beihilfen für Reisen von
 Familienangehörigen und Verwandten ersten oder zweiten Grades zum
-ausländischen Dienst gewährt werden, wenn der Beamte oder ein
+ausländischen Dienstort gewährt werden, wenn der Beamte oder ein
 Familienangehöriger lebensgefährlich erkrankt oder gestorben ist.
 
 (2) Das Auswärtige Amt erläßt im Einvernehmen mit dem Bundesminister
-des Innern und dem Bundesminister der Finanzen besondere
-Verwaltungsvorschriften, soweit es die Besonderheiten des Auswärtigen
-Dienstes erfordern.
+des Innern, für Bau und Heimat und dem Bundesminister der Finanzen
+besondere Verwaltungsvorschriften, soweit es die Besonderheiten des
+Auswärtigen Dienstes erfordern.
 
 
 ### § 24 Berufsausübung der Ehegatten
@@ -516,7 +524,7 @@ Gemeinschaft lebt und am Gesamtauftrag des Auswärtigen Dienstes
 mitwirkt.
 
 
-## Sechster Abschnitt - Fürsorge in Krisenfällen und bei außergewöhnlichen Belastungen
+## Abschnitt 6 - Fürsorge in Krisenfällen und bei außergewöhnlichen Belastungen
 
 
 
@@ -551,11 +559,11 @@ ausländischen Regierung, die sich gegen die Bundesrepublik Deutschland
 richten, gewährt werden.
 
 (3) Das Nähere regeln Verwaltungsvorschriften, die das Auswärtige Amt
-im Einvernehmen mit dem Bundesminister des Innern und dem
-Bundesminister der Finanzen erläßt.
+im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat
+und dem Bundesminister der Finanzen erläßt.
 
 
-## Siebter Abschnitt - Wohnungsfürsorge und Umzüge
+## Abschnitt 7 - Wohnungsfürsorge und Umzüge
 
 
 
@@ -588,11 +596,12 @@ dienstlichen und örtlichen Verhältnisse erfordern.
 Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen
 Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes
 und des Bundesreisekostengesetzes durch Rechtsverordnungen des
-Bundesminister des Auswärtigen im Einvernehmen mit dem Bundesminister
-der Finanzen und dem Bundesminister des Innern getroffen.
+Bundesministers des Auswärtigen im Einvernehmen mit dem Bundesminister
+der Finanzen und dem Bundesminister des Innern, für Bau und Heimat
+getroffen.
 
 
-## Achter Abschnitt - Auslandsbezogene Leistungen
+## Abschnitt 8 - Auslandsbezogene Leistungen
 
 
 
@@ -622,7 +631,7 @@ die Voraussetzung für die Einstellung in den Auswärtigen Dienst sind.
 Das Nähere regelt das Auswärtige Amt in Verwaltungsvorschriften.
 
 
-## Neunter Abschnitt - Rechtsverhältnisse der nichtentsandten Beschäftigten
+## Abschnitt 9 - Rechtsverhältnisse der nichtentsandten Beschäftigten
 
 
 
@@ -649,16 +658,12 @@ Ortsüblichkeit gestaltet. Unter Berücksichtigung der örtlichen
 Verhältnisse werden angemessene soziale Bedingungen gewährleistet.
 
 
-## Zehnter Abschnitt - Schlußvorschriften
+## Abschnitt 10 - Schlussvorschriften
 
 
 
-### § 34 Datenschutz
+### § 34 (weggefallen)
 
-Bei Anwendung datenschutzrechtlicher Vorschriften gelten das
-Auswärtige Amt (Zentrale) und die einzelnen Auslandsvertretungen als
-selbständige öffentliche Stellen im Sinne des
-Bundesdatenschutzgesetzes.
 
 
 ### § 35 Allgemeine Verwaltungsvorschriften

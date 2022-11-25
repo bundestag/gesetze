@@ -1,9 +1,7 @@
-[^f771926_01_BJNR106000009]
-Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und
-Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen
-zu Sicherheitszwecken betrieben werden
 ---
-Title: ''
+Title: Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende-
+  und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken
+  betrieben werden
 jurabk: SchuTSEV
 layout: default
 origslug: schutsev
@@ -11,13 +9,16 @@ slug: schutsev
 
 ---
 
-#  (SchuTSEV)
+# Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden (SchuTSEV)
 
 Ausfertigungsdatum
 :   2009-05-13
 
 Fundstelle
 :   BGBl I: 2009, 1060
+
+Änderung durch
+:   Art. 50 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 [^f771926_01_BJNR106000009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -62,9 +63,10 @@ Im Sinne dieser Verordnung
 
 
 2.  ist „öffentliches Telekommunikationsnetz“ ein Telekommunikationsnetz
-    im Sinne von § 3 Nr. 27 des Telekommunikationsgesetzes, das zur
+    im Sinne von § 3 Nummer 65 des Telekommunikationsgesetzes, das zur
     Bereitstellung von öffentlich zugänglichen Telekommunikationsdiensten
-    im Sinne von § 3 Nr. 24 des Telekommunikationsgesetzes genutzt wird;
+    im Sinne von § 3 Nummer 61 des Telekommunikationsgesetzes genutzt
+    wird;
 
 
 3.  sind „Störaussendungen“ von einem leitungsgeführten elektrischen
@@ -860,8 +862,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   **7**
 
-    *   **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis 3
-        000 MHz**
+    *   **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis
+        3 000 MHz**
 
 
 *    *
@@ -1878,8 +1880,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Kalibrierangaben) zu verwenden!
 
 
-**7** **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis 3
-    000 MHz**
+**7** **Messung der Störstrahlungsleistung im Frequenzbereich von 30 bis
+    3 000 MHz**
 
 
 **7.1** **Messgeräte**

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1638, 1639
 
 Zuletzt geändert durch
-:   Art. 168 V v. 31.10.2006 I 2407
+:   Art. 329 V v. 31.8.2015 I 1474
 
 
 ## § 1 Zweck, Finanzplafonds
@@ -69,7 +69,7 @@ gestellt werden.
 
 ## § 2 Zuschüsse an Bergbauunternehmen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie legt nach
+(1) Das Bundesministerium für Wirtschaft und Energie legt nach
 Anhörung der Bergbauunternehmen die Aufteilung der jährlichen
 Finanzplafonds auf die einzelnen Bergbauunternehmen fest.
 
@@ -103,8 +103,8 @@ des jeweils für das Vorjahr bewilligten Finanzplafonds. Im übrigen
 sind die im Kalenderjahr nicht zweckentsprechend verwendeten Mittel
 von den Bergbauunternehmen zum Abrechnungszeitpunkt zurückzuzahlen.
 
-(5) Näheres bestimmt das Bundesministerium für Wirtschaft und
-Technologie durch Richtlinien.
+(5) Näheres bestimmt das Bundesministerium für Wirtschaft und Energie
+durch Richtlinien.
 
 (6) Rechtsansprüche auf Zuschußzahlungen werden durch dieses Gesetz
 nicht begründet.
@@ -131,8 +131,8 @@ je Tonne SKE, für Bezüge zur Stahlerzeugung Mengen in Tonnen und
 Preisen in Euro je Tonne, bei Einfuhren frei deutsche Grenze und
 Ursprungsland aufzuteilen. Die Meldepflicht für die Betreiber von
 Anlagen zur Stahlerzeugung beginnt mit der ersten Anforderung durch
-das Bundesministerium für Wirtschaft und Technologie durch Bekanntgabe
-im Bundesanzeiger.
+das Bundesministerium für Wirtschaft und Energie durch Bekanntgabe im
+Bundesanzeiger.
 
 (3) Änderungen von Angaben nach den Absätzen 1 und 2 sind unverzüglich
 zu melden.

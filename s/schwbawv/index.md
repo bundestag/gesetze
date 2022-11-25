@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. vom 25.7.1991 I 1739;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.6.2012 I 1275
+:   Art. 52 G v. 20.8.2021 I 3932
 
 
 ## Erster Abschnitt - Ausweis für schwerbehinderte Menschen
@@ -28,7 +28,7 @@ Zuletzt geändert durch
 
 ### § 1 Gestaltung des Ausweises
 
-(1) Der Ausweis im Sinne des § 69 Abs. 5 des Neunten Buches
+(1) Der Ausweis im Sinne des § 152 Absatz 5 des Neunten Buches
 Sozialgesetzbuch über die Eigenschaft als schwerbehinderter Mensch,
 den Grad der Behinderung und weitere gesundheitliche Merkmale, die
 Voraussetzung für die Inanspruchnahme von Rechten und
@@ -43,25 +43,25 @@ nehmen können, ist durch einen halbseitigen orangefarbenen
 Flächenaufdruck gekennzeichnet.
 
 (3) Der Ausweis für schwerbehinderte Menschen, die zu einer der in §
-151 Abs. 1 Satz 1 Nr. 2 Buchstabe a des Neunten Buches
-Sozialgesetzbuch genannten Gruppen gehören, ist nach § 2 zu
-kennzeichnen.
+234 Satz 1 Nummer 2 des Neunten Buches Sozialgesetzbuch genannten
+Gruppen gehören, ist nach § 2 zu kennzeichnen.
 
 (4) Der Ausweis für schwerbehinderte Menschen mit weiteren
 gesundheitlichen Merkmalen im Sinne des Absatzes 1 ist durch
 Merkzeichen nach § 3 zu kennzeichnen.
 
+(5) Der Ausweis ist als Identifikationskarte nach dem in der Anlage zu
+dieser Verordnung abgedruckten Muster 5 auszustellen.
+
 
 ### § 2 Zugehörigkeit zu Sondergruppen
 
-(1) Im Ausweis ist auf der Vorderseite unter dem Wort
-"Schwerbehindertenausweis" die Bezeichnung "Kriegsbeschädigt"
-einzutragen, wenn der schwerbehinderte Mensch wegen eines Grades der
+(1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen,
+wenn der schwerbehinderte Mensch wegen eines Grades der
 Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem
 Bundesversorgungsgesetz hat.
 
-(2) Im Ausweis sind auf der Vorderseite folgende Merkzeichen
-einzutragen:
+(2) Im Ausweis sind folgende Merkzeichen einzutragen:
 1\.
 VB
 
@@ -107,105 +107,162 @@ schwerbehinderte Mensch beantragt die Eintragung des Merkzeichens
 
 (1) Im Ausweis sind auf der Rückseite folgende Merkzeichen
 einzutragen:
-1\.
-aG
 
-*
+*    *
+    *
+    *
+
+*    *   1.
+
+    *   **aG**
+
     *   wenn der schwerbehinderte Mensch außergewöhnlich gehbehindert im Sinne
-        des § 6 Abs. 1 Nr. 14 des Straßenverkehrsgesetzes oder entsprechender
-        straßenverkehrsrechtlicher Vorschriften ist,
+        des § 229 Absatz 3 des Neunten Buches Sozialgesetzbuch ist,
+
+
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
+*    *   2.
 
+    *   **H**
 
-2\.
-H
-
-*
     *   wenn der schwerbehinderte Mensch hilflos im Sinne des § 33b des
         Einkommensteuergesetzes oder entsprechender Vorschriften ist,
 
 
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
-3\.
-BI
+*    *   3.
 
-*
+    *   **BI**
+
     *   wenn der schwerbehinderte Mensch blind im Sinne des § 72 Abs. 5 des
         Zwölften Buches Sozialgesetzbuch oder entsprechender Vorschriften ist,
 
 
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
-4\.
-GI
+*    *   4.
 
-*
-    *   wenn der schwerbehinderte Mensch gehörlos im Sinne des § 145 des
+    *   **GI**
+
+    *   wenn der schwerbehinderte Mensch gehörlos im Sinne des § 228 des
         Neunten Buches Sozialgesetzbuch ist,
 
 
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
-5\.
-RF
+*    *   5.
 
-*
+    *   **RF**
+
     *   wenn der schwerbehinderte Mensch die landesrechtlich festgelegten
         gesundheitlichen Voraussetzungen für die Befreiung von der
         Rundfunkgebührenpflicht erfüllt,
 
 
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
-6\.
-1\. Kl.
+*    *   6.
 
-*
+    *   **1. Kl.**
+
     *   wenn der schwerbehinderte Mensch die im Verkehr mit Eisenbahnen
         tariflich festgelegten gesundheitlichen Voraussetzungen für die
         Benutzung der 1. Wagenklasse mit Fahrausweis der 2. Wagenklasse
-        erfüllt.
+        erfüllt,
+
+
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
+
+*    *   7.
+
+    *   **G**
+
+    *   wenn der schwerbehinderte Mensch in seiner Bewegungsfähigkeit im
+        Straßenverkehr erheblich beeinträchtigt im Sinne des § 229 Absatz 1
+        Satz 1 des Neunten Buches Sozialgesetzbuch oder entsprechender
+        Vorschriften ist,
+
+
+*    *
+    *
+    *
 
 
 
+*    *
+    *
+    *
 
-(2) Im Ausweis mit orangefarbenem Flächenaufdruck sind folgende
-Eintragungen vorgedruckt:
+*    *   8.
 
-1.  auf der Vorderseite das Merkzeichen B und der Satz: "Die Berechtigung
-    zur Mitnahme einer Begleitperson ist nachgewiesen".
+    *   **TBI**
 
-
-2.  auf der Rückseite
-
-    im ersten Feld das Merkzeichen
-    G
-
+    *   wenn der schwerbehinderte Mensch wegen einer Störung der Hörfunktion
+        mindestens einen Grad der Behinderung von 70 und wegen einer Störung
+        des Sehvermögens einen Grad der Behinderung von 100 hat.
 
 
-Ist die Berechtigung zur Mitnahme einer Begleitperson im Sinne des §
-146 Abs. 2 des Neunten Buches nicht nachgewiesen, ist die vorgedruckte
-Eintragung nach Nummer 1 zu löschen. Das gleiche gilt für die
-vorgedruckte Eintragung nach Nummer 2, wenn bei einem
-schwerbehinderten Menschen, nicht festgestellt ist, daß er in seiner
-Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt im Sinne
-des § 146 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch oder
-entsprechender Vorschriften ist.
+*    *
+    *
+    *
+
+
+
+   (2) Ist der schwerbehinderte Mensch zur Mitnahme einer Begleitperson
+im Sinne des § 229 Absatz 2 des Neunten Buches Sozialgesetzbuch
+berechtigt, sind auf der Vorderseite des Ausweises das Merkzeichen „B“
+und der Satz „Die Berechtigung zur Mitnahme einer Begleitperson ist
+nachgewiesen“ einzutragen.
 
 
 ### § 3a Beiblatt
@@ -220,10 +277,11 @@ zusammen mit dem Ausweis gültig.
 (2) Schwerbehinderte Menschen, die das Recht auf unentgeltliche
 Beförderung in Anspruch nehmen wollen, erhalten auf Antrag ein
 Beiblatt, das mit einer Wertmarke nach dem in der Anlage zu dieser
-Verordnung abgedruckten Muster 3 versehen ist. Auf die Wertmarke
-werden eingetragen das Jahr und der Monat, von dem an die Wertmarke
-gültig ist, sowie das Jahr und der Monat, in dem ihre Gültigkeit
-abläuft. Sofern in Fällen des § 145 Abs. 1 Satz 3 des Neunten Buches
+Verordnung abgedruckten Muster 3 versehen ist. Die Wertmarke enthält
+ein bundeseinheitliches Hologramm. Auf die Wertmarke werden
+eingetragen das Jahr und der Monat, von dem an die Wertmarke gültig
+ist, sowie das Jahr und der Monat, in dem ihre Gültigkeit abläuft.
+Sofern in Fällen des § 228 Absatz 2 Satz 1 des Neunten Buches
 Sozialgesetzbuch der Antragsteller zum Gültigkeitsbeginn keine Angaben
 macht, wird der auf den Eingang des Antrages und die Entrichtung der
 Eigenbeteiligung folgende Monat auf der Wertmarke eingetragen.
@@ -232,25 +290,21 @@ Beiblatt ungültig.
 
 (3) Schwerbehinderte Menschen, die an Stelle der unentgeltlichen
 Beförderung die Kraftfahrzeugsteuerermäßigung in Anspruch nehmen
-wollen, erhalten auf Antrag ein Beiblatt ohne Wertmarke. Bei
-Einräumung der Kraftfahrzeugsteuerermäßigung wird das Beiblatt mit
-einem Vermerk des zuständigen Finanzamtes versehen. Die
+wollen, erhalten auf Antrag ein Beiblatt ohne Wertmarke. Die
 Gültigkeitsdauer des Beiblattes entspricht der des Ausweises.
 
 (4) Schwerbehinderte Menschen, die zunächst die
 Kraftfahrzeugsteuerermäßigung in Anspruch genommen haben und statt
 dessen die unentgeltliche Beförderung in Anspruch nehmen wollen, haben
-das Beiblatt (Absatz 3) nach Löschung des Vermerks durch das Finanzamt
-bei Stellung des Antrags auf ein Beiblatt mit Wertmarke (Absatz 2)
-zurückzugeben. Entsprechendes gilt, wenn schwerbehinderte Menschen vor
-Ablauf der Gültigkeitsdauer der Wertmarke an Stelle der
-unentgeltlichen Beförderung die Kraftfahrzeugsteuerermäßigung in
-Anspruch nehmen wollen. In diesem Fall ist das Datum der Rückgabe
-(Eingang beim Versorgungsamt) auf das Beiblatt nach Absatz 3
-einzutragen.
+das Beiblatt (Absatz 3) bei Stellung des Antrags auf ein Beiblatt mit
+Wertmarke (Absatz 2) zurückzugeben. Entsprechendes gilt, wenn
+schwerbehinderte Menschen vor Ablauf der Gültigkeitsdauer der
+Wertmarke an Stelle der unentgeltlichen Beförderung die
+Kraftfahrzeugsteuerermäßigung in Anspruch nehmen wollen. In diesem
+Fall ist das Datum der Rückgabe (Eingang beim Versorgungsamt) auf das
+Beiblatt nach Absatz 3 einzutragen.
 
-(5) Bis zum 30. Juni 1991 ausgegebene Beiblätter und Wertmarken
-behalten ihre Gültigkeit.
+(5) (weggefallen)
 
 
 ### § 4 Sonstige Eintragungen
@@ -258,8 +312,7 @@ behalten ihre Gültigkeit.
 (1) Die Eintragung von Sondervermerken zum Nachweis von weiteren
 Voraussetzungen für die Inanspruchnahme von Rechten und
 Nachteilsausgleichen, die schwerbehinderten Menschen nach
-landesrechtlichen Vorschriften zustehen, ist auf der Vorderseite des
-Ausweises zulässig.
+landesrechtlichen Vorschriften zustehen, ist zulässig.
 
 (2) Die Eintragung von Merkzeichen oder sonstigen Vermerken, die in
 dieser Verordnung (§§ 2, 3, 4 Abs. 1 und § 5 Abs. 3) nicht vorgesehen
@@ -268,10 +321,10 @@ sind, ist unzulässig.
 
 ### § 5 Lichtbild
 
-(1) Der Ausweis für schwerbehinderte Menschen, die das 10. Lebensjahr
-vollendet haben, ist mit dem Lichtbild des Ausweisinhabers in der
-Größe eines Paßbildes zu versehen. Das Lichtbild hat der Antragsteller
-beizubringen.
+(1) Der Ausweis ist mit einem Bild des schwerbehinderten Menschen zu
+versehen, wenn dieser das
+10\. Lebensjahr              vollendet hat. Hierzu hat der
+schwerbehinderte Mensch ein Passbild beizubringen.
 
 (2) Bei schwerbehinderten Menschen, die das Haus nicht oder nur mit
 Hilfe eines Krankenwagens verlassen können, ist der Ausweis auf Antrag
@@ -286,30 +339,17 @@ vorgesehenen Raum der Vermerk "Ohne Lichtbild gültig" einzutragen.
 (1) Auf der Rückseite des Ausweises ist als Beginn der Gültigkeit des
 Ausweises einzutragen:
 
-1.  in den Fällen des § 69 Abs. 1 und 4 des Neunten Buches
+1.  in den Fällen des § 152 Absatz 1 und 4 des Neunten Buches
     Sozialgesetzbuch der Tag des Eingangs des Antrags auf Feststellung
     nach diesen Vorschriften,
 
 
-2.  in den Fällen des § 69 Abs. 2 des Neunten Buches Sozialgesetzbuch der
-    Tag des Eingangs des Antrags auf Ausstellung des Ausweises nach § 69
-    Abs. 5 des Neunten Buches Sozialgesetzbuch.
+2.  in den Fällen des § 152 Absatz 2 des Neunten Buches Sozialgesetzbuch
+    der Tag des Eingangs des Antrags auf Ausstellung des Ausweises nach §
+    152 Absatz 5 des Neunten Buches Sozialgesetzbuch.
 
 
 
-Ist auf Antrag des schwerbehinderten Menschen nach Glaubhaftmachung
-eines besonderen Interesses festgestellt worden, daß die Eigenschaft
-als schwerbehinderter Mensch, ein anderer Grad der Behinderung oder
-ein oder mehrere gesundheitliche Merkmale bereits zu einem früheren
-Zeitpunkt vorgelegen haben, ist zusätzlich das Datum einzutragen, von
-dem ab die jeweiligen Voraussetzungen mit dem Ausweis nachgewiesen
-werden können. Ist zu einem späteren Zeitpunkt in den Verhältnissen,
-die für die Feststellung und den Inhalt des Ausweises maßgebend
-gewesen sind, eine wesentliche Änderung eingetreten, ist die
-Eintragung auf Grund der entsprechenden Neufeststellung zu berichtigen
-und zusätzlich das Datum einzutragen, von dem ab die jeweiligen
-Voraussetzungen mit dem Ausweis nachgewiesen werden können, sofern der
-Ausweis nicht einzuziehen ist.
 
 (2) Die Gültigkeit des Ausweises ist für die Dauer von längstens 5
 Jahren vom Monat der Ausstellung an zu befristen. In den Fällen, in
@@ -331,11 +371,7 @@ Aufenthaltstitel, Aufenthaltsgestattung oder Arbeitserlaubnis
 befristet ist, ist die Gültigkeitsdauer des Ausweises längstens bis
 zum Ablauf des Monats der Frist zu befristen.
 
-(6) Die Gültigkeitsdauer des Ausweises kann auf Antrag höchstens
-zweimal verlängert werden. Bei der Verlängerung eines nach Absatz 3
-ausgestellten Ausweises über das 10. Lebensjahr des Ausweisinhabers
-hinaus, längstens bis zur Vollendung des 20. Lebensjahres, gilt § 5
-Abs. 1.
+(6) (weggefallen)
 
 (7) Der Kalendermonat und das Kalenderjahr, bis zu deren Ende der
 Ausweis gültig sein soll, sind auf der Vorderseite des Ausweises
@@ -344,11 +380,10 @@ einzutragen.
 
 ### § 7 Verwaltungsverfahren
 
-Für die Ausstellung, Verlängerung, Berichtigung und Einziehung des
-Ausweises sind die für die Kriegsopferversorgung maßgebenden
-Verwaltungsverfahrensvorschriften entsprechend anzuwenden, soweit sich
-aus § 69 Abs. 5 des Neunten Buches Sozialgesetzbuch nichts
-Abweichendes ergibt.
+Für die Ausstellung und Einziehung des Ausweises sind die für die
+Kriegsopferversorgung maßgebenden Verwaltungsverfahrensvorschriften
+entsprechend anzuwenden, soweit sich aus § 152 Absatz 5 des Neunten
+Buches Sozialgesetzbuch nichts Abweichendes ergibt.
 
 
 ## Zweiter Abschnitt - Ausweis für sonstige Personen zur unentgeltlichen Beförderung im öffentlichen Personenverkehr
@@ -370,11 +405,11 @@ auszustellen, das mit einer Wertmarke nach dem in der Anlage zu dieser
 Verordnung abgedruckten Muster 3 versehen ist.
 
 (2) Für die Ausstellung des Ausweises nach Absatz 1 gelten die
-Vorschriften des § 1 Abs. 3, § 2, § 3 Abs. 1 Nr. 6 und Abs. 2 Satz 1
-Nr. 1 und Satz 2, § 4 Abs. 2, § 5 und § 6 Abs. 2, 3, 4, 6 und 7 sowie
-des § 7 entsprechend, soweit sich aus Artikel 2 Abs. 2 und 3 des
-Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im
-öffentlichen Personenverkehr nichts Besonderes ergibt.
+Vorschriften des § 1 Absatz 3 und 5, § 2, § 3 Absatz 1 Nummer 6 und
+Absatz 2, § 4 Absatz 2, § 5 und § 6 Absatz 2, 3, 4 und 7 sowie des § 7
+entsprechend, soweit sich aus Artikel 2 Abs. 2 und 3 des Gesetzes über
+die unentgeltliche Beförderung Schwerbehinderter im öffentlichen
+Personenverkehr nichts Besonderes ergibt.
 
 
 ## Dritter Abschnitt - Übergangsregelung
@@ -383,17 +418,12 @@ Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im
 
 ### § 9 Übergangsregelung
 
-(1) Ein Ausweis, der nach dem bis zum 30. Juni 2001 geltenden Recht
-ausgestellt worden ist, bleibt bis zum Ablauf seiner Gültigkeitsdauer
-gültig, es sei denn, er ist einzuziehen. Ein Ausweis, der nach dem bis
-zum 30. Juni 2001 geltenden Recht ausgestellt worden ist, kann auf
-Antrag unter den Voraussetzungen des § 6 Abs. 6 verlängert werden.
-
-(2) Ein Ausweis mit dem Merkzeichen B, der vor dem 12. Dezember 2006
-ausgestellt worden ist, bleibt bis zum Ablauf seiner Gültigkeitsdauer
-gültig, es sei denn, er ist einzuziehen. Der Ausweistext wird auf
-Antrag an § 3 Abs. 2 Satz 1 Nr. 1 in der seit dem 12. Dezember 2006
-geltenden Fassung angepasst.
+Bis zum 31. Dezember 2014 ausgestellte Ausweise, die keine
+Identifikationskarten nach § 1 Absatz 5 sind, bleiben bis zum Ablauf
+ihrer Gültigkeitsdauer gültig, es sei denn, sie sind einzuziehen. Sie
+können gegen eine Identifikationskarte umgetauscht werden.
+Ausgestellte Beiblätter bleiben bis zum Ablauf ihrer Gültigkeit
+gültig.
 
 
 ### Muster 1
@@ -418,16 +448,11 @@ Verwendung ist strafbar.
 
 ### Muster 2
 
-(Fundstelle: BGBl. I 1991, 1744;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Beiblatt zum Ausweis des Versorgungsamtes
-Az.:
-Der Inhaber oder die Inhaberin dieses Beiblattes ist im öffentlichen
-Personenverkehr (§ 145 Abs. 1 Satz 1 und 2 des Neunten Buches
-Sozialgesetzbuch) unentgeltlich zu befördern, sofern das nebenstehende
-Feld mit einer Wertmarke versehen ist, und zwar für den Zeitraum, der
-auf der Wertmarke eingetragen ist.
+(Fundstelle: BGBl. I 2012, 1276)
 
+## **Beiblatt zum Ausweis des Versorgungsamtes**
+
+![bgbl1_2012_j1275-1_0020.jpg](bgbl1_2012_j1275-1_0020.jpg)
 
 ### Muster 3
 
@@ -472,4 +497,53 @@ der ausstellenden Behörde unverzüglich mitzuteilen. Nach Aufforderung
 ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum
 Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche
 Verwendung ist strafbar.
+
+
+### Muster 5
+
+(Fundstelle: BGBl. I 2012, 1277)
+
+**Schwerbehindertenausweis nach § 1 Absatz 5**
+## **(Vorder- und Rückseite)**
+
+![bgbl1_2012_j1275-1_0030.jpg](bgbl1_2012_j1275-1_0030.jpg)
+![bgbl1_2012_j1275-1_0040.jpg](bgbl1_2012_j1275-1_0040.jpg)
+Spezifikationen:
+
+*    *   Größe
+
+    *   85,60 mm x 53,98 mm (ID-1) entsprechend ISO/IEC 7810
+
+
+*    *   Beschaffenheit
+
+    *   entsprechend ISO/IEC 7810
+
+
+*    *   Farben
+
+    *   grün: RAL 120 80 30 P
+        orange: RAL 040 80 20 P
+
+
+*    *   Schrift
+
+    *   schwarz
+        Schriftart: arial narrow bold
+        Schriftgröße: 21 Punkt/12 Punkt/8 Punkt
+
+
+*    *   taktile Erkennbarkeit
+
+    *   Buchstabenfolge sch-b-a entsprechend ISO/IEC 7811-9. Wird auf Ausweise
+        mit dem Merkzeichen „Bl“ aufgebracht.
+
+
+
+
+Die Farbtöne sind dem Farbregister RAL Design System, herausgegeben
+von RAL Farben gGmbH, Siegburger Str. 39, 53757 St. Augustin, zu
+entnehmen.
+
+Die ISO-Normen sind zu beziehen beim Beuth-Verlag, 10772 Berlin.
 

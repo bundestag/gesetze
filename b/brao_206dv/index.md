@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2886
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2012 I 189
+:   Art. 1 V v. 7.2.2022 I 170
 
 
 ## Eingangsformel
@@ -115,6 +115,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Lawyer, Legal Practitioner, Solicitor, Barrister
 
 
+*    *   – in Hong Kong, China:
+
+    *   Barrister, Solicitor
+
+
 *    *   – in Indien:
 
     *   Advocate
@@ -145,6 +150,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Barrister, Solicitor
 
 
+*    *   – in Kasachstan:
+
+    *   Aдвокат, Advokat, Qorğauşy
+
+
 *    *   – in Kolumbien:
 
     *   Abogado
@@ -153,11 +163,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – in der Republik Korea:
 
     *   Byeonhosa, Lawyer
-
-
-*    *   – in Kroatien:
-
-    *   Odvjetnik
 
 
 *    *   – in Malaysia:
@@ -222,6 +227,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Attorney
 
 
+*    *   – in der Russischen Föderation:
+
+    *   Advokat
+
+
 *    *   – in Singapur:
 
     *   Advocate and Solicitor
@@ -268,6 +278,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Abogado
 
 
+*    *   – im Vereinigten Königreich:
+
+    *   Advocate, Barrister, Solicitor
+
+
 *    *   – in den Vereinigten Staaten von Amerika:
 
     *   Attorney at law
@@ -279,12 +294,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 2 Anwaltsberufe in anderen Staaten
 
-Fundstelle: BGBl. I 2005, 1453
-
-*    *   – in der Russischen Föderation:
-
-    *   Advokat
-
+(Fundstelle: BGBl. I 2005, 1453
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – in Serbien:
 

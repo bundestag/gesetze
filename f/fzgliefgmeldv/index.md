@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 630
 
+Geändert durch
+:   Art. 21 Abs. 3 G v. 18.7.2016 I 1679
+
 
 ## Eingangsformel
 
@@ -44,15 +47,14 @@ Anzeigepflichten im Rahmen dieser Verordnung.
 
 1.  Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes haben die
     Meldungen nach Absatz 1 nach amtlich vorgeschriebenem Datensatz durch
-    Datenfernübertragung nach Maßgabe der Steuerdaten-
-    Übermittlungsverordnung zu übermitteln; auf Antrag kann das Finanzamt
-    zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung
+    Datenfernübertragung zu übermitteln; auf Antrag kann das Finanzamt zur
+    Vermeidung unbilliger Härten auf eine elektronische Übermittlung
     verzichten;
 
 
 2.  Fahrzeuglieferer nach § 2a des Umsatzsteuergesetzes können die Meldung
-    nach Absatz 1 auf elektronischem Weg nach Maßgabe der Steuerdaten-
-    Übermittlungsverordnung übermitteln oder in Papierform abgeben.
+    nach Absatz 1 auf elektronischem Weg übermitteln oder in Papierform
+    abgeben.
 
 
 

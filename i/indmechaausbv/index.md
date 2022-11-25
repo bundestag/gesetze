@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3037
 
 Zuletzt geändert durch
-:   Art. 14 V v. 23.7.2010 I 1010
+:   Art. 52 V v. 9.12.2019 I 2153
 
 
 
@@ -987,9 +987,8 @@ situationsbezogene Fachgespräch hat die gleiche Struktur wie eine
 schriftliche Situationsaufgabe. Es stellt den Handlungsbereich in den
 Mittelpunkt, der nicht Kern einer schriftlichen Situationsaufgabe ist
 und integriert insbesondere die Qualifikationsschwerpunkte, die nicht
-schriftlich geprüft werden. Das Fachgespräch soll je
-Prüfungsteilnehmer oder Prüfungsteilnehmerin mindestens 45 Minuten und
-höchstens 60 Minuten dauern.
+schriftlich geprüft werden. Das Fachgespräch soll für jede zu prüfende
+Person mindestens 45 Minuten und höchstens 60 Minuten dauern.
 
 (7) Wurde in nicht mehr als einer schriftlichen Situationsaufgabe eine
 mangelhafte Prüfungsleistung erbracht, ist in dieser Situationsaufgabe
@@ -1002,190 +1001,535 @@ einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
 
-## § 6 Anrechnung anderer Prüfungsleistungen
+## § 6 Befreiung von einzelnen Prüfungsbestandteilen
 
-Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
-von der Ablegung einzelner Prüfungsbestandteile durch die zuständige
-Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
-öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor
-einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
-Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
-Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7
+und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 4 oder §
+8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein
+diese Prüfungsbestandteile sind den Entscheidungen des
+Prüfungsausschusses zugrunde zu legen.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Bewerten der Prüfungsleistungen
 
-(1) Die Prüfungsteile "Fachrichtungsübergreifende
-Basisqualifikationen" und "Handlungsspezifische Qualifikationen" sind
-gesondert nach Punkten zu bewerten.
-
-(2) Für den Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" ist eine Note aus dem arithmetischen Mittel der
-Punktebewertungen der Leistungen in den einzelnen Prüfungsbereichen zu
-bilden.
-
-(3) Im Prüfungsteil "Handlungsspezifische Qualifikationen" ist für
-jede schriftliche Situationsaufgabe und das situationsbezogene
-Fachgespräch jeweils eine Note aus der Punktebewertung der
-Prüfungsleistung zu bilden. Bei der Bewertung der Leistungen in den
-Situationsaufgaben und im Fachgespräch sind der Kern und die
-integrierten Qualifikationsinhalte je zur Hälfte in die
-Leistungsbewertung einzubeziehen. Dabei sind die integrierten
-Qualifikationsinhalte je Handlungsbereich etwa gleichgewichtig zu
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu
 bewerten.
 
-(4) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin im Prüfungsteil "Fachrichtungsübergreifende
-Basisqualifikationen" in allen Prüfungsbereichen mindestens
-ausreichende Leistungen und im Prüfungsteil "Handlungsspezifische
-Qualifikationen" in den schriftlichen Situationsaufgaben und dem
-situationsbezogenen Fachgespräch jeweils mindestens ausreichende
-Leistungen erbracht hat.
+(2) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+sind die Prüfungsleistungen für die Prüfungsbereiche einzeln zu
+bewerten. Aus den einzelnen Bewertungen ist als Bewertung für diesen
+Prüfungsteil das arithmetische Mittel zu berechnen.
 
-(5) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen. In das Zeugnis
-gemäß der Anlage 2 sind die im Prüfungsteil
-"Fachrichtungsübergreifende Basisqualifikationen" erzielte Note und
-die in den Prüfungsbereichen erzielten Punkte sowie die in den
-schriftlichen Situationsaufgaben und dem situationsbezogenen
-Fachgespräch erzielten Noten einzutragen. Im Fall der Freistellung
-gemäß § 6 sind Ort und Datum sowie Bezeichnung des Prüfungsgremiums
-der anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den
-Erwerb der berufs- und arbeitspädagogischen Kenntnisse gemäß § 2 Abs.
-2 ist im Zeugnis einzutragen.
+(3) Im Prüfungsteil „Handlungsspezifische Qualifikationen“ sind nach
+Maßgabe der Sätze 2 und 3 als Prüfungsleistungen zu bewerten:
+
+1.  die beiden schriftlichen Situationsaufgaben nach § 5 Absatz 1 Satz 3
+    und
 
 
-## § 8 Wiederholung der Prüfung
+2.  das Fachgespräch nach § 5 Absatz 6.
+
+
+
+Bei der Bewertung in den Situationsaufgaben sind der Kern und die
+integrierten Qualifikationsinhalte je zur Hälfte in die
+Leistungsbewertung einzubeziehen. Dabei sind die integrierten
+Qualifikationsinhalte je Handlungsbereich gleichgewichtig zu bewerten.
+Aus den einzelnen Bewertungen nach Satz 1 Nummer 1 und 2 ist als
+Bewertung für diesen Prüfungsteil das arithmetische Mittel zu
+berechnen.
+
+
+## § 8 Bestehen der Prüfung, Gesamtnote
+
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden
+Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
+
+1.  In jedem Prüfungsbereich des Prüfungsteils „Fachrichtungsübergreifende
+    Basisqualifikationen“ und
+
+
+2.  im Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  in den beiden schriftlichen Situationsaufgaben und
+
+
+    b)  im Fachgespräch.
+
+
+
+
+
+
+
+(2) Ist die Prüfung bestanden, ist die Bewertung für die Prüfungsteile
+„Fachrichtungsübergreifende Basisqualifikationen“ und
+„Handlungsspezifische Qualifikationen“ sowie die Bewertung der
+Situationsaufgabe, in der eine mündliche Ergänzungsprüfung
+durchgeführt wurde, kaufmännisch auf eine ganze Zahl zu runden.
+
+(3) Der Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+Basisqualifikationen“, den Bewertungen für die beiden schriftlichen
+Situationsaufgaben und der Bewertung für das Fachgespräch ist nach der
+Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.
+
+(4) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+gewichtete arithmetische Mittel zu berechnen. Dabei sind die
+Bewertungen wie folgt zu gewichten:
+
+1.  die Bewertung für den Prüfungsteil „Fachrichtungsübergreifende
+    Basisqualifikationen“ mit 25 Prozent und
+
+
+2.  die Bewertung für den Prüfungsteil „Handlungsspezifische
+    Qualifikationen“ mit 75 Prozent.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl ist nach der Anlage 1 die Note als
+Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 9 Zeugnisse
+
+(1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach der Anlage 2 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 6 ist mit Ort, Datum und Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 10 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
 
-## § 9 Übergangsvorschrift
+## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2005 in Kraft.
 
+(zu den §§ 7 und 8)
 
-## Anlage 1 (zu § 7 Abs. 5)
+## Anlage 1 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2005, 3045;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-M u s t e r
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Z e u g n i s
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Mechatronik
-Herr/Frau
-.....................................................................
-geboren am ........................... in
-.....................................
-hat am ............................... die Prüfung zum anerkannten
-Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Mechatronik
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Mechatronik
-vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 14
-der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2337 – 2338)
 
 
-## Anlage 2 (zu § 7 Abs. 5)
+*    *   Punkte
 
-(Fundstelle: BGBl. I 2005, 3046 - 3047;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-M u s t e r
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Z e u g n i s
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Mechatronik
-Herr/Frau
-.....................................................................
-geboren am ........................... in
-.....................................
-hat am ............................... die Prüfung zum anerkannten
-Abschluss
-Geprüfter Industriemeister/Geprüfte Industriemeisterin
-- Fachrichtung Mechatronik
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
-Mechatronik
-vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 14
-der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
-mit folgenden Ergebnissen bestanden:
-Note
-**I.   Fachrichtungsübergreifende Basisqualifikationen**
-..........
-Prüfungsbereiche:                             Punkte \*)
-Rechtsbewusstes Handeln                     ..........
-Betriebswirtschaftliches Handeln            ..........
-Anwenden von Methoden der Information,
-Kommunikation und Planung                   ..........
-Zusammenarbeit im Betrieb                   ..........
-Berücksichtigung naturwissenschaftlicher
-und technischer Gesetzmäßigkeiten           ..........
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am ..........
-in .......... vor .......... abgelegte Prüfung
-vom Prüfungsbestandteil .......... freigestellt.“)
-**II.  Handlungsspezifische Qualifikationen
-Note**
-Integrative schriftliche Situationsaufgaben im
-Handlungsbereich Technik                                  ..........
-Handlungsbereich Organisation                             ..........
-Handlungsbereich Führung und Personal                     ..........
-Situationsbezogenes Fachgespräch im
-Handlungsbereich ..............................           ..........
-(Im Fall des § 6: „Der Prüfungsteilnehmer/
-Die Prüfungsteilnehmerin
-wurde nach § 6 im Hinblick auf die am ..........
-in .......... vor .......... abgelegte Prüfung
-vom Prüfungsbestandteil .......... freigestellt.“)
-**III. Berufs- und arbeitspädagogische Qualifikationen**
-Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
-den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
-Kenntnisse durch die Prüfung am .......... in ..........
-vor .......... erbracht.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
------
+    *   Note
+        als Dezimalzahl
 
-\*) Den Bewertungen liegt folgender Punkteschlüssel zu
-    Grunde:.................
+    *   Note
+        in Worten
+
+    *   Definition
+
+
+*    *   100
+
+    *   1,0
+
+    *   sehr gut
+
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
+
+
+*    *   98 und 99
+
+    *   1,1
+
+
+*    *   96 und 97
+
+    *   1,2
+
+
+*    *   94 und 95
+
+    *   1,3
+
+
+*    *   92 und 93
+
+    *   1,4
+
+
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 9)
+
+## Anlage 2 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2338 – 2339)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der zu prüfenden Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 4,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+
+    a)  Benennung dieses Prüfungsteils und Bewertung als Note sowie
+
+
+    b)  Benennung der fünf Prüfungsbereiche und Bewertung mit Punkten,
+
+
+
+
+
+2.  zum Prüfungsteil „Handlungsspezifische Qualifikationen“
+
+    a)  Benennung dieses Prüfungsteils,
+
+
+    b)  Benennung der Situationsaufgabe nach § 5 Absatz 3 und Bewertung mit
+        Note,
+
+
+    c)  Benennung der Situationsaufgabe nach § 5 Absatz 4 und Bewertung mit
+        Note,
+
+
+    d)  Benennung der Situationsaufgabe nach § 5 Absatz 5 und Bewertung mit
+        Note sowie
+
+
+    e)  Benennung des Fachgesprächs und Handlungsbereichs und Bewertung mit
+        Note,
+
+
+
+
+
+3.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+4.  die Gesamtnote als Dezimalzahl,
+
+
+5.  die Gesamtnote in Worten,
+
+
+6.  Befreiungen nach § 6,
+
+
+7.  Vorliegen des Nachweises über den Erwerb der berufs- und
+    arbeitspädagogischen Qualifikationen nach § 2 Absatz 2.
 
 
 

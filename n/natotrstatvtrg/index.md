@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1961, 1183
 
 Zuletzt geändert durch
-:   Art. 111 V v. 31.10.2006 I 2407
+:   Art. 227 V v. 31.8.2015 I 1474
 
 
 ## Teil I - Beitritt und Zustimmung
@@ -101,7 +101,7 @@ Absatz 2 aufgeführten Zusatzvereinbarungen werden nachstehend
 veröffentlicht.
 
 
-### Art 2
+### Art 2 - 
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 20 des Zusatzabkommens
@@ -692,6 +692,22 @@ ein Ausbau oder ein erhöhter Aufwand für die Unterhaltung der Straße
 erforderlich, so erstattet der Bund dem Träger der Straßenbaulast die
 hierdurch entstehenden notwendigen Mehrkosten, sofern das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die von
+ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
+die Ersparnis von Aufwendungen zu berücksichtigen.
+
+
+#### Art 23 - 
+
+Ist eine Straße, deren Baulastträger nicht der Bund ist, in das gemäß
+Artikel 57 Abs. 4 Buchstabe b des Zusatzabkommens zu vereinbarende
+Straßennetz einbezogen worden und ist wegen des Verkehrs mit
+Kraftfahrzeugen und Kraftfahrzeuganhängern, deren Abmessungen,
+Achslast, Gesamtgewicht oder Anzahl (Kolonnenverkehr) die nach dem
+deutschen Straßenverkehrsrecht geltenden Begrenzungen überschreiten,
+ein Ausbau oder ein erhöhter Aufwand für die Unterhaltung der Straße
+erforderlich, so erstattet der Bund dem Träger der Straßenbaulast die
+hierdurch entstehenden notwendigen Mehrkosten, sofern das
+Bundesministerium für Verkehr und digitale Infrastruktur oder die von
 ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
 die Ersparnis von Aufwendungen zu berücksichtigen.
 

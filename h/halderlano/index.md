@@ -1637,24 +1637,70 @@ zu § 14 Abs. 3 vorstehender Anordnung
 
 ### Anlage 4 Verbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
 
--------------------------------------------
-I                                         I
-I
-BETRETEN VERBOTEN!             I
-I                                         I
-I             LEBENSGEFAHR                               I
-I                                         I
-I    ZUWIDERHANDLUNGEN WERDEN BESTRAFT    I
-I                                         I
--------------------------------------------
-Das Schild muß das Format A 2 haben. Die Grundfarbe des Schildes ist
-weiß. Die Worte 'BETRETEN VERBOTEN!' und 'ZUWIDERHANDLUNGEN WERDEN
-BESTRAFT' sind in schwarzer, das Wort 'LEBENSGEFAHR' ist in roter
-Farbe zu gestalten. \*)
--------
-\*) Das Verbotsschild wird von DEWAG Signograph Leipzig gefertigt und
-ist in den DEWAG-Industrieläden erhältlich.
+(Fundstelle: GBl. DDR I 1982, 363)
 
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   BETRETEN VERBOTEN!
+        LEBENSGEFAHR
+        ZUWIDERHANDLUNGEN WERDEN BESTRAFT
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^DDNR003010980BJNE004500307_01]
+   Das Schild muß das Format A 2 haben. Die Grundfarbe des Schildes ist
+        weiß. Die Worte 'BETRETEN VERBOTEN!' und 'ZUWIDERHANDLUNGEN WERDEN
+        BESTRAFT' sind in schwarzer, das Wort 'LEBENSGEFAHR' ist in roter
+        Farbe zu gestalten.
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   \_\_\__\_\__\_\__\_\_\_\_
+
+    *
+
+
+   Das Verbotsschild wird von DEWAG Signograph Leipzig gefertigt und ist
+    in den DEWAG-Industrieläden erhältlich.
+[^DDNR003010980BJNE004500307_01]: 
 Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III
 
 ### Anhang EV (BGBl. II 1990, 885, 1202)

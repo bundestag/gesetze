@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 3910
 
 Zuletzt geändert durch
-:   Art. 540 V v. 31.10.2006 I 2407
+:   Art. 592 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -36,8 +36,8 @@ Aufgaben werden zu den in § 2 genannten Zeitpunkten auf das
 Bundesministerium der Finanzen übertragen, soweit die in § 2
 bezeichneten Unternehmen einschließlich ihrer Beteiligungen betroffen
 sind. Das Bundesministerium der Finanzen nimmt diese Aufgaben im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-und dem jeweils zuständigen Bundesministerium wahr.
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
+dem jeweils zuständigen Bundesministerium wahr.
 
 (2) Von der Aufgabenübertragung nach Absatz 1 ausgenommen sind
 

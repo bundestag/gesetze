@@ -16,6 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 940
 
+Stand: Die Verordnung tritt gem. § 2 Abs. 2 dieser V an dem Tag außer Kraft, an dem das Gesetz zu dem Protokoll vom 27. November 2003 zur Änderung des Europol-Übereinkommens und zur Änderung des Europol-Gesetzes außer Kraft tritt
 
 
 ## Eingangsformel

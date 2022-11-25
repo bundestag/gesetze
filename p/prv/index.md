@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 808
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 3 G v. 10.11.2006 I 2553
+:   Art. 39 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel
@@ -472,9 +472,8 @@ dem Bildschirm stets sichtbar sein.
 
 ## Anlage 3 (zu § 2 Abs. 2)
 
-(Inhalt: Nicht darstellbares Muster des Namensverzeichnisses,
-Fundstelle: BGBl. I 1995, 812)
-
+(Fundstelle: BGBl. I 1995, 812)
+![bgbl1_1995_j0812_0010.jpg](bgbl1_1995_j0812_0010.jpg)
 (zu § 7)
 
 ## Anlage 4 Muster für Bekanntmachungen

@@ -16,13 +16,13 @@ Fundstelle
 :   BGBl I: 1957, 293
 
 Neugefasst durch
-:   Bek. v. 16.7.2009 I 2055
+:   Bek. v. 16.7.2009 I 2055;
 
-Geändert durch
-:   Art. 6 G v. 28.4.2011 I 678
+Zuletzt geändert durch
+:   Art. 2 Abs. 9 G v. 30.3.2021 I 402
 
 
-## Erster Abschnitt - Grundwehrdienst und Wehrübungen
+## Abschnitt 1 - Grundwehrdienst und Wehrübungen
 
 
 
@@ -34,7 +34,14 @@ einberufen, so ruht das Arbeitsverhältnis während des Wehrdienstes.
 (2) Einem Arbeitnehmer im öffentlichen Dienst hat der Arbeitgeber
 während einer Wehrübung Arbeitsentgelt wie bei einem Erholungsurlaub
 zu zahlen. Zum Arbeitsentgelt gehören nicht besondere Zuwendungen, die
-mit Rücksicht auf den Erholungsurlaub gewährt werden.
+mit Rücksicht auf den Erholungsurlaub gewährt werden. Auf Antrag
+erstattet der Bund im Rahmen verfügbarer Haushaltsmittel dem
+Arbeitgeber für eine Wehrübung im Kalenderjahr das ausgezahlte, um die
+gesetzlichen Abzüge geminderte Arbeitsentgelt (§ 14 des Vierten Buches
+Sozialgesetzbuch) für den 15. bis 30. Wehrübungstag; der Antrag ist
+nur zulässig, wenn er spätestens einen Monat vor Beginn der Wehrübung
+gestellt wird. Satz 3 gilt nicht, wenn der Bund selbst Arbeitgeber
+ist.
 
 (3) Der Arbeitnehmer hat den Einberufungsbescheid unverzüglich seinem
 Arbeitgeber vorzulegen.
@@ -53,6 +60,19 @@ entstandenen Mehraufwendungen vom Bund auf Antrag erstattet. Der
 Antrag ist innerhalb von sechs Monaten, nachdem die Mehraufwendungen
 entstanden sind, bei der vom Bundesministerium der Verteidigung
 bestimmten Stelle zu stellen.
+
+(6) Auf Antrag erstattet der Bund einem Arbeitgeber, der kein
+Arbeitgeber des öffentlichen Dienstes ist, die zusätzlichen Kosten für
+die Einstellung einer Ersatzkraft auf Grund einer Wehrübung im
+Kalenderjahr. Die Erstattung erfolgt im Rahmen verfügbarer
+Haushaltsmittel in Höhe eines Drittels der dem Arbeitnehmer
+zustehenden Mindestleistung nach § 8 Absatz 1 in Verbindung mit Anlage
+1 des Unterhaltssicherungsgesetzes. Sie erfolgt nur, wenn der
+Arbeitgeber nachweist, dass er eine fachlich gleichwertige Ersatzkraft
+eingestellt hat. Der Anspruch besteht für jeden Tag der Wehrübung ab
+dem 21. Tag, höchstens jedoch für 30 Tage. Der Antrag ist nur
+zulässig, wenn er spätestens einen Monat vor Beginn der Wehrübung
+gestellt wird.
 
 
 ### § 2 Kündigungsschutz für Arbeitnehmer, Weiterbeschäftigung nach der Berufsausbildung
@@ -155,20 +175,16 @@ die zu viel gewährten Urlaubstage kürzen.
 Urlaubsvorschriften für Soldaten.
 
 
-### § 5
+### § 5 Benachteiligungsverbot
 
-(weggefallen)
+Einem Arbeitnehmer, der Grundwehrdienst leistet oder an einer
+Wehrübung teilnimmt, darf in beruflicher und betrieblicher Hinsicht
+kein Nachteil entstehen.
 
 
 ### § 6 Fortsetzung des Arbeitsverhältnisses
 
-(1) Nimmt der Arbeitnehmer im Anschluss an den Grundwehrdienst oder im
-Anschluss an eine Wehrübung in seinem bisherigen Betrieb die Arbeit
-wieder auf, so darf ihm aus der Abwesenheit, die durch den Wehrdienst
-veranlasst war, in beruflicher und betrieblicher Hinsicht kein
-Nachteil entstehen.
-
-(2) Die Zeit des Grundwehrdienstes oder einer Wehrübung wird auf die
+(1) Die Zeit des Grundwehrdienstes oder einer Wehrübung wird auf die
 Berufs- und Betriebszugehörigkeit angerechnet; bei Auszubildenden und
 sonstigen in Berufsausbildung Beschäftigten wird die Wehrdienstzeit
 auf die Berufszugehörigkeit jedoch erst nach Abschluss der Ausbildung
@@ -176,10 +192,10 @@ angerechnet. Die Zeit des Grundwehrdienstes oder einer Wehrübung gilt
 als Dienst- und Beschäftigungszeit im Sinne der Tarifordnungen und
 Tarifverträge des öffentlichen Dienstes.
 
-(3) Auf Probe- und Ausbildungszeiten wird die Zeit des
+(2) Auf Probe- und Ausbildungszeiten wird die Zeit des
 Grundwehrdienstes oder einer Wehrübung nicht angerechnet.
 
-(4) Auf Bewährungszeiten, die für die Einstufung in eine höhere Lohn-
+(3) Auf Bewährungszeiten, die für die Einstufung in eine höhere Lohn-
 oder Vergütungsgruppe vereinbart sind, wird die Zeit des
 Grundwehrdienstes nicht angerechnet. Während der Zeit, um die sich die
 Einstufung in eine höhere Lohn- oder Vergütungsgruppe hierdurch
@@ -193,7 +209,7 @@ Einstufung in die höhere Lohn- oder Vergütungsgruppe zustehen würde.
 
 (1) Für in Heimarbeit Beschäftigte, die ihren Lebensunterhalt
 überwiegend aus der Heimarbeit beziehen, gelten die §§ 1 bis 4 sowie §
-6 Abs. 2 sinngemäß.
+6 Absatz 1 sinngemäß.
 
 (2) Vor und nach dem Wehrdienst dürfen in Heimarbeit Beschäftigte aus
 Anlass des Wehrdienstes bei der Ausgabe von Heimarbeit im Vergleich zu
@@ -254,15 +270,21 @@ Dauer des Grundwehrdienstes ohne Bezüge beurlaubt.
 Dauer der Wehrübung mit Bezügen beurlaubt. Der Dienstherr hat ihm
 während dieser Zeit die Bezüge wie bei einem Erholungsurlaub zu
 zahlen. Zu den Bezügen gehören nicht besondere Zuwendungen, die mit
-Rücksicht auf den Erholungsurlaub gewährt werden.
+Rücksicht auf den Erholungsurlaub gewährt werden. Auf Antrag erstattet
+der Bund im Rahmen verfügbarer Haushaltsmittel dem Dienstherrn für
+eine Wehrübung im Kalenderjahr die um die gesetzlichen Abzüge
+geminderten Bezüge für den 15. bis 30. Wehrübungstag; der Antrag ist
+nur zulässig, wenn er spätestens einen Monat vor Beginn der Wehrübung
+gestellt wird. Satz 3 gilt nicht für Dienstherren nach § 2 des
+Bundesbeamtengesetzes.
 
-(3) Absatz 2 Satz 2 gilt für die bei der Deutschen Post AG, der
-Deutschen Postbank AG und der Deutschen Telekom AG beschäftigten
-Beamten mit der Maßgabe, dass der Bund den Aktiengesellschaften die
-Bezüge der Beamten für die Dauer der Wehrübung zu erstatten hat. Der
-Antrag ist innerhalb von sechs Monaten nach Beendigung des
-Wehrdienstes bei der vom Bundesministerium der Verteidigung bestimmten
-Stelle zu stellen.
+(3) Absatz 2 Satz 2 gilt für die bei der Deutschen Post AG, der DB
+Privat- und Firmenkundenbank AG und der Deutschen Telekom AG
+beschäftigten Beamten mit der Maßgabe, dass der Bund den
+Aktiengesellschaften die Bezüge der Beamten für die Dauer der
+Wehrübung zu erstatten hat. Der Antrag ist innerhalb von sechs Monaten
+nach Beendigung des Wehrdienstes bei der vom Bundesministerium der
+Verteidigung bestimmten Stelle zu stellen.
 
 (4) Der Beamte hat den Einberufungsbescheid unverzüglich seinem
 Dienstvorgesetzten vorzulegen.
@@ -342,9 +364,9 @@ Wehrpflichtigen aufzurunden.
 ### § 12 Anrechnung der Wehrdienstzeit und der Zeit einer Berufsförderung bei Einstellung entlassener Soldaten
 
 (1) Wird ein entlassener Soldat im Anschluss an den Grundwehrdienst
-oder an eine Wehrübung als Arbeitnehmer eingestellt, gilt § 6 Abs. 2
-bis 4, nachdem er sechs Monate lang dem Betrieb oder der Verwaltung
-angehört. Das Gleiche gilt für Wehrpflichtige, die im Anschluss an den
+oder an eine Wehrübung als Arbeitnehmer eingestellt, gilt § 6, nachdem
+er sechs Monate lang dem Betrieb oder der Verwaltung angehört. Das
+Gleiche gilt für Wehrpflichtige, die im Anschluss an den
 Grundwehrdienst oder eine Wehrübung eine für den künftigen Beruf als
 Arbeitnehmer förderliche, über die allgemein bildende Schulbildung
 hinausgehende Ausbildung ohne unzulässige Überschreitung der Regelzeit
@@ -404,16 +426,16 @@ Vorbereitungsdienstes durchgeführt wird, gelten § 9 Abs. 8 Satz 4 und
 § 12 Abs. 2 entsprechend.
 
 
-## Zweiter Abschnitt - Meldung bei den Erfassungsbehörden und Wehrersatzbehörden
+## Abschnitt 2 - Meldung
 
 
 
 ### § 14 Weiterzahlung des Arbeitsentgelts
 
-(1) Wird ein Arbeitnehmer nach Maßgabe des Wehrpflichtgesetzes von der
-Erfassungsbehörde oder einer Wehrersatzbehörde aufgefordert, sich
-persönlich zu melden oder vorzustellen, so hat der Arbeitgeber für die
-ausfallende Arbeitszeit das Arbeitsentgelt weiterzuzahlen.
+(1) Wird ein Arbeitnehmer nach Maßgabe des Wehrpflichtgesetzes von den
+Karrierecentern der Bundeswehr aufgefordert, sich persönlich zu melden
+oder vorzustellen, so hat der Arbeitgeber für die ausfallende
+Arbeitszeit das Arbeitsentgelt weiterzuzahlen.
 
 (2) Der Arbeitnehmer hat die Ladung unverzüglich seinem Arbeitgeber
 vorzulegen.
@@ -423,7 +445,7 @@ zu Dienstleistungen nach dem Vierten Abschnitt des Soldatengesetzes
 herangezogen werden soll.
 
 
-## Dritter Abschnitt - Alters- und Hinterbliebenenversorgung
+## Abschnitt 3 - Alters- und Hinterbliebenenversorgung
 
 
 
@@ -449,7 +471,12 @@ unberücksichtigt.
 Leistungsempfänger einer anderen Einrichtung oder Form der
 betrieblichen oder überbetrieblichen Alters- und
 Hinterbliebenenversorgung in Betracht kommen, gelten die Absätze 1 und
-2 Satz 1, 2 und 4 sinngemäß.
+2 Satz 1, 2 und 4 sinngemäß. Betriebliche oder überbetriebliche
+Alters- und Hinterbliebenenversorgungen sind Versicherungen in
+Einrichtungen nach dem Betriebsrentengesetz, freiwillige
+Versicherungen in einem Zweig der gesetzlichen Rentenversicherung und
+Versicherungen in öffentlich-rechtlichen Versicherungs- oder
+Versorgungseinrichtungen einer Berufsgruppe.
 
 (4) Einem Arbeitnehmer, der aus seinem Arbeitseinkommen freiwillig
 Beiträge zur gesetzlichen Rentenversicherung oder zu einer sonstigen
@@ -468,21 +495,12 @@ Höchstbeitrages, der für die freiwillige Versicherung in der
 allgemeinen Rentenversicherung entrichtet werden kann, ansonsten den
 Höchstbeitrag nicht übersteigen. Die Sätze 1 und 2 gelten nicht bei
 Zahlung des Arbeitsentgelts nach § 1 Abs. 2, bei Anspruch auf
-Leistungen nach den §§ 13 bis 13d des Unterhaltssicherungsgesetzes
-oder für Elternzeit.
+Leistungen nach den §§ 5 bis 8 des Unterhaltssicherungsgesetzes oder
+für Elternzeit.
 
-(5) Anträge auf Erstattung sind innerhalb eines Jahres nach Beendigung
-des Wehrdienstes zu stellen.
+(5) (weggefallen)
 
-(6) Die Bundesregierung regelt durch Rechtsverordnung das
-Erstattungsverfahren sowie das Nähere hinsichtlich der betrieblichen
-oder überbetrieblichen Alters- und Hinterbliebenenversorgung; in ihr
-kann bestimmt werden, welche Einrichtungen als betriebliche oder
-überbetriebliche Alters- und Hinterbliebenenversorgung im Sinne des
-Gesetzes anzusehen sind. Das Bundesministerium der Verteidigung kann
-im Einvernehmen mit dem Bundesministerium der Finanzen mit den
-Arbeitgebern eine pauschale Beitragserstattung und die Zahlungsweise
-vereinbaren.
+(6) (weggefallen)
 
 
 ### § 14b Alters- und Hinterbliebenenversorgung in besonderen Fällen
@@ -503,8 +521,8 @@ gesetzlichen Rentenversicherung zu entrichten hätte, wenn der
 Wehrpflichtige nicht von der Versicherungspflicht befreit worden wäre.
 Die Sätze 1 und 2 gelten nicht bei Zahlung des Arbeitsentgelts nach §
 1 Abs. 2, der Bezüge nach § 9 Abs. 2, bei Anspruch auf Leistungen nach
-§ 13 Abs. 2 und nach den §§ 13a und 13b des
-Unterhaltssicherungsgesetzes oder für Elternzeit.
+§ 6 Absatz 1 und nach § 7 des Unterhaltssicherungsgesetzes oder für
+Elternzeit.
 
 (2) Einem Wehrpflichtigen, der nach § 14a nicht anspruchsberechtigt
 ist und Beiträge zur gesetzlichen Rentenversicherung oder zu einer
@@ -528,8 +546,7 @@ Landwirte gewährt worden, ist mit den für den gleichen Zeitraum
 gezahlten Zuschüssen gegen den Erstattungsanspruch aufzurechnen. Die
 Sätze 1 bis 4 gelten nicht bei Zahlung des Arbeitsentgelts nach § 1
 Abs. 2, der Bezüge nach § 9 Abs. 2, bei Anspruch auf Leistungen nach
-den §§ 13 bis 13d des Unterhaltssicherungsgesetzes oder für
-Elternzeit.
+den §§ 6 bis 9 des Unterhaltssicherungsgesetzes oder für Elternzeit.
 
 (3) Die Leistungen nach Absatz 2 dürfen, wenn Beiträge des Bundes zur
 gesetzlichen Rentenversicherung für die Zeit des Wehrdienstes
@@ -538,13 +555,27 @@ Hundert des Höchstbeitrages, der für die freiwillige Versicherung in
 der allgemeinen Rentenversicherung entrichtet werden kann, ansonsten
 den Höchstbeitrag nicht übersteigen.
 
-(4) Anträge auf Erstattung sind innerhalb eines Jahres nach Beendigung
-des Wehrdienstes zu stellen.
+(4) (weggefallen)
 
-(5) Für das Erstattungsverfahren gilt § 14a Abs. 6 sinngemäß.
+(5) (weggefallen)
 
 
-## Vierter Abschnitt - Schlußvorschriften
+### § 14c Verfahren
+
+(1) Ist seit der Beendigung des Wehrdienstes ein Jahr verstrichen,
+können Beiträge nicht mehr nach § 14a Absatz 2 Satz 2 angemeldet und
+können Anträge nach § 14b Absatz 1 und 2 nicht mehr gestellt werden.
+Über die Erstattungsanträge entscheidet das Bundesamt für das
+Personalmanagement der Bundeswehr. Leistungen nach den §§14a und 14b
+werden an die Einrichtung der Alters- und Hinterbliebenenversorgung
+ausgezahlt.
+
+(2) Der Wehrpflichtige hat die Unterlagen zur Begründung des
+Erstattungsantrags drei Jahre aufzubewahren. Die Aufbewahrungsfrist
+beginnt mit dem Datum der Entscheidung über den Erstattungsantrag.
+
+
+## Abschnitt 4 - Schlussvorschriften
 
 
 
@@ -581,8 +612,9 @@ anzuwenden sind. § 10 findet keine Anwendung.
 Dienstverhältnisse von Personen, die zu Dienstleistungen nach dem
 Vierten Abschnitt des Soldatengesetzes herangezogen werden, mit der
 Maßgabe, dass die Vorschriften über Wehrübungen entsprechend
-anzuwenden sind. Absatz 3 Satz 2 gilt mit Ausnahme von Übungen (§ 61
-des Soldatengesetzes) entsprechend.
+anzuwenden sind. § 10 ist nur bei Übungen (§ 61 des Soldatengesetzes)
+und Wehrdienst zur temporären Verbesserung der personellen
+Einsatzbereitschaft (§ 63b des Soldatengesetzes) anzuwenden.
 
 (5) Dieses Gesetz gilt auch im Falle der Hilfeleistung im Innern (§ 6c
 des Wehrpflichtgesetzes) und der Hilfeleistung im Ausland (§ 6d des
@@ -599,8 +631,8 @@ vom 18. Oktober 1961 (BGBl. 1964 II S. 1262) sind und die ihren
 rechtmäßigen Aufenthalt in Deutschland haben.
 
 (7) Dieses Gesetz gilt auch im Falle des freiwilligen Wehrdienstes
-nach Abschnitt 7 des Wehrpflichtgesetzes mit der Maßgabe, dass die
-Vorschriften über den Grundwehrdienst anzuwenden sind.
+nach § 58b des Soldatengesetzes mit der Maßgabe, dass die Vorschriften
+über den Grundwehrdienst anzuwenden sind.
 
 
 ### § 16a Wehrdienst als Soldat auf Zeit
@@ -621,7 +653,7 @@ geltenden Vorschriften anzuwenden sind, ausgenommen § 9 Abs. 8 Satz 3,
 §§ 14a und § 14b.
 
 (2) In den Fällen des Absatzes 1 Nr. 1 und 2 sind § 125 Abs. 1 Satz 1
-des Beamtenrechtsrahmengesetzes oder § 31 Abs. 1 Nr. 2 des
+des Beamtenrechtsrahmengesetzes oder § 31 Absatz 1 Satz 1 Nummer 2 des
 Bundesbeamtengesetzes und § 22 Abs. 2 Satz 1 des Beamtenstatusgesetzes
 nicht anzuwenden.
 

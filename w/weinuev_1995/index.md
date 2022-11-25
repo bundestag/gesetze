@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 14.5.2002 I 1624;
 
 Zuletzt geändert durch
-:   Art. 2 V v 19.7.2011 I 1514 berücksichtigt
+:   Art. 2 V v. 4.1.2016 I 2
 
 
 ## Abschnitt 1 - Überwachung
@@ -176,10 +176,7 @@ gemäßen Bedingungen, insbesondere beschränkt auf die für die Versuche
 erforderliche Zeit und Menge, zu erteilen und amtlich zu überwachen;
 im Übrigen gilt § 2 Abs. 2 entsprechend.
 
-(2) Wein aus Rebsortenversuchen, die einen in § 7 Abs. 4 Satz 2 der
-Weinverordnung genannten Zweck verfolgen, kann als Qualitätswein oder
-Prädikatswein eingestuft werden, wenn ein Zeugnis der zuständigen
-Stelle über die Einhaltung der Versuchsbedingungen vorgelegt wird.
+(2) (weggefallen)
 
 Vergällung von Weintrub
 
@@ -388,15 +385,16 @@ abgefüllten Erzeugnissen zu unterscheiden. Darüber hinaus sind
 abgefüllte Erzeugnisse hinsichtlich der Nennfüllmenge der verwendeten
 Behältnisse zu unterscheiden.
 
-(7) Die Herabstufung eines Qualitätsweines zu Landwein, zu Wein, der
-zur Herstellung von Landwein geeignet ist, oder zu Wein, der weder
-Landwein ist noch zur Herstellung von Landwein geeignet ist, ist unter
-Vergabe einer neuen Weinnummer im Kellerbuch, im Weinbuch und im
-Registerbuch einzutragen. Wird die Bezeichnung eines Erzeugnisses
-geändert, so ist das Erzeugnis unter Vergabe einer neuen Weinnummer im
-Kellerbuch, im Weinbuch und im Registerbuch einzutragen. Im Falle des
-Satzes 2 ist die Vergabe einer neuen Weinnummer nicht erforderlich,
-wenn die Bezeichnungsänderung deutlich erkennbar eingetragen wird.
+(7) Die Herabstufung eines Qualitätsweines oder Prädikatsweines zu
+Landwein, zu Wein, der zur Herstellung von Landwein geeignet ist, oder
+zu Wein, der weder Landwein ist noch zur Herstellung von Landwein
+geeignet ist, ist unter Vergabe einer neuen Weinnummer im Kellerbuch,
+im Weinbuch und im Registerbuch einzutragen. Wird die Bezeichnung
+eines Erzeugnisses geändert, so ist das Erzeugnis unter Vergabe einer
+neuen Weinnummer im Kellerbuch, im Weinbuch und im Registerbuch
+einzutragen. Im Falle des Satzes 2 ist die Vergabe einer neuen
+Weinnummer nicht erforderlich, wenn die Bezeichnungsänderung deutlich
+erkennbar eingetragen wird.
 
 (8) Der Eigenverbrauch des Erzeugers und seiner Familie ist jährlich
 im Kellerbuch und im Weinbuch einzutragen; unvorhersehbare Änderungen
@@ -700,10 +698,11 @@ Beförderung von Weintrauben, Maische und Most aus eigener Erzeugung
 der Mitglieder von Erzeugerzusammenschlüssen zur Annahmestation oder
 Weinbereitungsanlage des Erzeugerzusammenschlusses. Satz 1 gilt bei
 
-1.  Erzeugnissen, die zur Bereitung von Qualitätswein b. A. bestimmt sind,
-    nur für die Beförderung innerhalb des bestimmten Anbaugebietes, aus
-    dem die beförderten Erzeugnisse stammen, und der diesem unmittelbar
-    benachbarten Gebiete,
+1.  Erzeugnissen, die zur Bereitung von Qualitätswein, Prädikatswein,
+    Qualitätslikörwein b.A., Qualitätsperlwein b.A. oder Sekt b.A.
+    bestimmt sind, nur für die Beförderung innerhalb des bestimmten
+    Anbaugebietes, aus dem die beförderten Erzeugnisse stammen, und der
+    diesem unmittelbar benachbarten Gebiete,
 
 
 2.  anderen Erzeugnissen nur für die Beförderung innerhalb der
@@ -712,15 +711,14 @@ Weinbereitungsanlage des Erzeugerzusammenschlusses. Satz 1 gilt bei
 
 
 
+Vorgeschriebenes Begleitpapier für nicht abgefüllte Erzeugnisse
 
-### § 19 Vorgeschriebenes Begleitpapier für nicht abgefüllte Erzeugnisse (zu § 30 Satz 1 Nummer 2 des Weingesetzes)
+### § 19 (zu § 30 Satz 1 Nummer 2 des Weingesetzes)
 
-Für die Beförderung der in Artikel 24 Absatz 1 Buchstabe b der
-Verordnung (EG) Nr. 436/2009 genannten Erzeugnisse in Behältnissen mit
-einem Nennvolumen von mehr als 60 Litern, die im Inland beginnt, ist
-ein Begleitpapier nach dem in Anhang VII der genannten Verordnung
-aufgeführten Muster zu verwenden und unter Berücksichtigung des
-Anhangs VI der genannten Verordnung auszustellen.
+Für die ausschließlich im Inland stattfindende Beförderung von
+Weinbauerzeugnissen in Behältnissen mit einem Nennvolumen von mehr als
+60 Litern ist ein Begleitpapier nach dem in Anlage 3 dieser Verordnung
+aufgeführten Muster zu verwenden.
 
 Begleitpapier, Hektarertrag
 
@@ -786,8 +784,12 @@ in den Verkehr gebracht, verwendet oder verwertet wird.
 (2) Für die in Artikel 29 der Verordnung (EG) Nr. 436/2009 genannten
 Erzeugnisse, deren Beförderung im Inland beginnt, hat der zur
 Ausstellung des Begleitpapiers Verpflichtete neben der nach Artikel 29
-der genannten Verordnung zu versendenden Kopie unverzüglich eine Kopie
-der für den Verladeort zuständigen Stelle zuzuleiten.
+der genannten Verordnung zu versendenden Kopie spätestens am Tag nach
+Beginn der Beförderung eine Kopie der für den Verladeort zuständigen
+Stelle zuzuleiten. Für Erzeugnisse nach Satz 1, deren Beförderung im
+Hoheitsgebiet der Bundesrepublik Deutschland beginnt und endet,
+erfolgt durch die in Satz 1 genannten Verpflichteten die Übermittlung
+des Begleitpapiers spätestens am Tag nach Beginn der Beförderung.
 
 (3) Zusammen mit der in Anwendung des Artikels 29 der Verordnung (EG)
 Nr. 436/2009 zu versendenden Kopie hat der Versender, sofern die
@@ -809,25 +811,19 @@ ist entsprechend anzuwenden.
 
 Begleitpapier, Ermächtigungen
 
-### § 23 (zu § 30 Satz 1 Nr. 2 i.V.m. § 53 Abs. 1 und § 54 Abs. 1 des Weingesetzes)
+### § 23 (zu § 30 Satz 1 Nummer 2 i. V. m. § 53 Absatz 1 und § 54 Absatz 1 des Weingesetzes)
 
-Die Landesregierungen können, soweit bei der Beförderung von nicht
-abgefülltem Traubenmost, nicht abgefülltem Wein, nicht abgefüllten
-Erzeugnissen, die für die Herstellung von Schaumwein,
-Qualitätsschaumwein oder Sekt b.A. bestimmt sind, oder nicht
-abgefülltem Qualitätswein b. A., der aus in ihrem Gebiet geernteten
-Weintrauben gewonnen worden ist, sowie bei der Beförderung von aus in
-ihrem Gebiet geernteten Weintrauben ein Begleitpapier auszustellen
-ist, durch Rechtsverordnung bestimmen, dass der zur Ausstellung des
-Begleitpapiers Verpflichtete
+Die Landesregierungen können durch Rechtsverordnung bestimmen, dass
+der zur Ausstellung des Begleitpapiers Verpflichtete
 
 1.  in dem Begleitpapier neben den nach der Verordnung (EG) Nr. 436/2009
     und dieser Verordnung erforderlichen Angaben weitere Angaben zu machen
     hat,
 
 
-2.  unverzüglich eine oder mehrere Kopien des Begleitpapiers der für den
-    Verladeort zuständigen Stelle zuzuleiten hat.
+2.  spätestens am Tag nach Beginn der Beförderung eine oder mehrere Kopien
+    des Begleitpapiers der für den Verladeort zuständigen Stelle
+    zuzuleiten hat.
 
 
 
@@ -972,7 +968,10 @@ Verordnung (EG) Nr. 436/2009 entsprechen
 
 
 3.  100 Liter konzentrierter Traubenmost oder rektifiziertes
-    Traubenmostkonzentrat = 500 Liter Wein.
+    Traubenmostkonzentrat = 500 Liter Wein,
+
+
+4.  100 Liter Jungwein = 100 Liter Wein.
 
 
 
@@ -988,18 +987,19 @@ Meldungen über önologische Verfahren
 (1) Zuständige Behörde für die Meldung über
 
 1.  den Besitz an Saccharose, konzentriertem Traubenmost oder
-    rektifiziertem Traubenmostkonzentrat nach der Anhang XVa Abschnitt D
-    Nummer 4 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober
-    2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-    Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-    (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-    1) in der jeweils geltenden Fassung,
+    rektifiziertem Traubenmostkonzentrat nach der Anhang VIII Teil I
+    Abschnitt D Nummer 4 der Verordnung (EU) Nr. 1308/2013 des
+    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine
+    gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
+    zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+    (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+    S. 671) in der jeweils geltenden Fassung,
 
 
 2.  die Erhöhung des Alkoholgehaltes, die Entsäuerung oder die Säuerung
-    nach der Anhang XVa Abschnitt D der Verordnung (EG) Nr. 1234/2007 in
-    Verbindung mit der Verordnung (EG) Nr. 606/2009 der Kommission vom 10.
-    Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
+    nach Anhang VIII Teil I Abschnitt D der Verordnung (EU) Nr. 1308/2013
+    in Verbindung mit der Verordnung (EG) Nr. 606/2009 der Kommission vom
+    10\. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
     479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der
     önologischen Verfahren und der diesbezüglichen Einschränkungen (ABl. L
     193 vom 24.7.2009, S. 1) in der jeweils geltenden Fassung,
@@ -1300,9 +1300,9 @@ sind.
 
 (2) In einem Drittland hergestellte weinhaltige Getränke dürfen nicht
 eingeführt werden, wenn bei den zu ihrer Herstellung verwendeten
-Erzeugnissen andere als die nach Artikel 120c der Verordnung (EG) Nr.
-1234/2007 zugelassenen önologischen Verfahren und Behandlungen
-angewendet worden sind.
+Erzeugnissen andere als die nach Artikel 80 Absatz 1 der Verordnung
+(EU) Nr. 1308/2013 zugelassenen önologischen Verfahren und
+Behandlungen angewendet worden sind.
 
 
 ## Abschnitt 7 - Straftaten und Ordnungswidrigkeiten
@@ -1517,5 +1517,12 @@ Fundstelle des Originaltextes: BGBl. I 2005, 3382
 6.  (weggefallen)
 
 
+
+
+(zu § 19)
+
+### Anlage 3 Muster für ein Begleitpapier
+
+(Fundstelle: BGBl. I 2016, 4)
 
 

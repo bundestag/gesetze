@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 1597
 
 Zuletzt geändert durch
-:   Art. 1 Vertrag v. 30.11.2011 I 2012, 1223 iVm Art. 1 G v. 1.6.2012 I 1222
+:   Art. 1 Vertrag v. 6.7.2018 I 2236 iVm Art. 1 G v. 29.11.2018 I 2235
 
 
 ## Art 1

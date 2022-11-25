@@ -1,8 +1,5 @@
-[^f771114_01_BJNR093200008]
-Verordnung über die Berufsausbildung zur Fachkraft für Schutz und
-Sicherheit
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zur Fachkraft für Schutz und Sicherheit
 jurabk: SchSiAusbV 2008
 layout: default
 origslug: schsiausbv_2008
@@ -10,7 +7,7 @@ slug: schsiausbv_2008
 
 ---
 
-#  (SchSiAusbV 2008)
+# Verordnung über die Berufsausbildung zur Fachkraft für Schutz und Sicherheit (SchSiAusbV 2008)
 
 Ausfertigungsdatum
 :   2008-05-21

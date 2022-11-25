@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 306
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 6 G v. 30.3.2021 I 402
+
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -113,16 +116,17 @@ verhindern.
 (2) Meldungen nach Artikel 8 Abs. 1 der Verordnung (EG) Nr. 273/2004
 und Artikel 9 Abs. 1 der Verordnung (EG) Nr. 111/2005 sind an die
 Gemeinsame Grundstoffüberwachungsstelle nach § 6 zu richten. Mündliche
-Meldungen sind innerhalb von drei Tagen schriftlich zu wiederholen.
-Die übermittelten personenbezogenen Daten dürfen nur verwendet werden,
-um Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20, die
-Abzweigung von Grundstoffen, die für die unerlaubte Herstellung von
-Betäubungsmitteln verwendet werden können, die unerlaubte Herstellung
-von Betäubungsmitteln und die mit den zuvor genannten Handlungen in
-unmittelbarem Zusammenhang stehenden Straftaten, Straftaten nach § 95
-des Arzneimittelgesetzes und den §§ 324, 324a, 326, 330 und 330a des
-Strafgesetzbuchs sowie die in § 100a Abs. 2 der Strafprozessordnung
-genannten Straftaten zu verhindern und zu verfolgen.
+Meldungen sind innerhalb von drei Tagen schriftlich oder elektronisch
+zu wiederholen. Die übermittelten personenbezogenen Daten dürfen nur
+verwendet werden, um Straftaten und Ordnungswidrigkeiten nach den §§
+19 und 20, die Abzweigung von Grundstoffen, die für die unerlaubte
+Herstellung von Betäubungsmitteln verwendet werden können, die
+unerlaubte Herstellung von Betäubungsmitteln und die mit den zuvor
+genannten Handlungen in unmittelbarem Zusammenhang stehenden
+Straftaten, Straftaten nach § 95 des Arzneimittelgesetzes und den §§
+324, 324a, 326, 330 und 330a des Strafgesetzbuchs sowie die in § 100a
+Abs. 2 der Strafprozessordnung genannten Straftaten zu verhindern und
+zu verfolgen.
 
 (3) Wer nach Absatz 2 Satz 1 Tatsachen mitteilt, die auf eine Straftat
 nach § 19 schließen lassen, kann wegen dieser Mitteilung nicht
@@ -191,8 +195,8 @@ Sie nimmt Aufgaben des Zollkriminalamtes und des Bundeskriminalamtes
 im Bereich der Grundstoffüberwachung wahr. Die Aufgaben der
 Gemeinsamen Grundstoffüberwachungsstelle sowie die Verteilung der
 Aufgaben und Zuständigkeiten innerhalb dieser Stelle werden im
-Einzelnen von dem Bundesministerium des Innern und dem
-Bundesministerium der Finanzen einvernehmlich festgelegt.
+Einzelnen von dem Bundesministerium des Innern, für Bau und Heimat und
+dem Bundesministerium der Finanzen einvernehmlich festgelegt.
 
 (2) Soweit es zur Verhinderung und Verfolgung der in § 4 Abs. 2 Satz 3
 genannten Straftaten und Ordnungswidrigkeiten erforderlich ist, leitet
@@ -213,7 +217,7 @@ an
 
 
 4.  das zuständige Zollfahndungsamt zur Verhinderung und Verfolgung von
-    Straftaten und Ordnungswidrigkeiten nach § 24 Abs. 2 des
+    Straftaten und Ordnungswidrigkeiten nach § 5 Absatz 2 des
     Zollfahndungsdienstgesetzes.
 
 
@@ -234,11 +238,11 @@ zu den in § 4 Abs. 2 Satz 3 genannten Zwecken verwenden.
 ### § 7 Mitwirkung der Bundespolizei
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium des Innern die Beamten der Bundespolizei, die mit
-Aufgaben des Grenzschutzes nach § 2 des Bundespolizeigesetzes betraut
-sind, mit der Wahrnehmung von Aufgaben betrauen, die nach § 5 Abs. 2
-den Zollbehörden obliegen. In diesem Fall gilt § 67 Abs. 2 des
-Bundespolizeigesetzes entsprechend.
+Bundesministerium des Innern, für Bau und Heimat die Beamten der
+Bundespolizei, die mit Aufgaben des Grenzschutzes nach § 2 des
+Bundespolizeigesetzes betraut sind, mit der Wahrnehmung von Aufgaben
+betrauen, die nach § 5 Abs. 2 den Zollbehörden obliegen. In diesem
+Fall gilt § 67 Abs. 2 des Bundespolizeigesetzes entsprechend.
 
 
 ### § 8 Befugnisse der Zollbehörden
@@ -247,8 +251,8 @@ Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die
 zuständige Verfolgungsbehörde Ermittlungen (§ 161 Abs. 1 Satz 1 der
 Strafprozessordnung, § 46 Abs. 1 des Gesetzes über
 Ordnungswidrigkeiten) auch durch die Hauptzollämter oder die Behörden
-des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 37 Abs.
-2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
+des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 21
+Absatz 2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
 
 
 ### § 9 Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
@@ -287,28 +291,64 @@ Meldungen nach den Artikeln 17 und 18 der Verordnung (EG) Nr.
 und Medizinprodukte gespeicherten Daten aus den Meldungen nach Artikel
 18 der Verordnung (EG) Nr. 1277/2005, einschließlich personenbezogener
 Daten, im automatisierten Verfahren abrufen. Das Bundesinstitut für
-Arzneimittel und Medizinprodukte trifft nach § 9 des
-Bundesdatenschutzgesetzes dem jeweiligen Stand der Technik
-entsprechende angemessene Maßnahmen zur Sicherstellung von Datenschutz
-und Datensicherheit, die insbesondere die Vertraulichkeit,
-Authentizität und Integrität der Daten gewährleisten. Im Falle der
-Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der
-Technik entsprechende Verschlüsselungsverfahren anzuwenden.
+Arzneimittel und Medizinprodukte trifft geeignete technische und
+organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
+2) in der jeweils geltenden Fassung.
 
-(2) Für die Festlegungen zur Einrichtung eines automatisierten
-Abrufverfahrens gilt § 10 Abs. 2 bis 5 des Bundesdatenschutzgesetzes.
-Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet
-den Bundesbeauftragten für den Datenschutz und die
-Informationsfreiheit über die Einrichtung des Abrufverfahrens und die
-getroffenen Festlegungen.
+(2) Die Einrichtung von automatisierten Verfahren, die die
+Übermittlung der Daten nach Absatz 1 durch Abruf ermöglichen, ist
+zulässig, soweit diese Verfahren unter Berücksichtigung der
+schutzwürdigen Interessen der betroffenen Personen und der Aufgaben
+der beteiligten Stellen im Sinne des Absatzes 1 Satz 1 angemessen
+sind. Die beteiligten Stellen im Sinne des Absatzes 1 Satz 1 haben zu
+gewährleisten, dass das Abrufverfahren kontrolliert werden kann.
+Hierzu haben sie Folgendes schriftlich festzulegen:
+
+1.  Anlass und Zweck des Abrufverfahrens,
+
+
+2.  Dritte, an die Daten übermittelt werden,
+
+
+3.  Art der zu übermittelnden Daten und
+
+
+4.  die erforderlichen technischen und organisatorischen Maßnahmen nach
+    Maßgabe der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679.
+
+
+
+Die erforderlichen Festlegungen können auch von den
+Fachaufsichtsbehörden getroffen werden. Das Bundesinstitut für
+Arzneimittel und Medizinprodukte unterrichtet den Bundesbeauftragten
+für den Datenschutz und die Informationsfreiheit über die Einrichtung
+des automatisierten Abrufverfahrens und über die getroffenen
+Festlegungen. Die Verantwortung für die Zulässigkeit des einzelnen
+Abrufs trägt der Dritte, an den die Daten übermittelt werden. Das
+Bundesinstitut für Arzneimittel und Medizinprodukte prüft die
+Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Es hat zu
+gewährleisten, dass die Übermittlung personenbezogener und sonstiger
+Daten zumindest durch geeignete Stichprobenverfahren festgestellt und
+überprüft werden kann. Wird ein Gesamtbestand dieser Daten abgerufen
+oder übermittelt, so bezieht sich die Gewährleistung der Feststellung
+und Überprüfung nur auf die Zulässigkeit des Abrufes oder der
+Übermittlung des Gesamtbestandes. Die Sätze 1 bis 6 gelten nicht für
+den Abruf allgemein zugänglicher Daten. Allgemein zugänglich sind
+Daten, die jedermann, sei es ohne oder nach vorheriger Anmeldung,
+Zulassung oder Entrichtung eines Entgelts, nutzen kann.
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte und das
 Zollkriminalamt protokollieren die Zeitpunkte der Abrufe, die
 abgerufenen Daten sowie Angaben, die eine eindeutige Identifizierung
 der für den Abruf verantwortlichen Person ermöglichen. Die
-Protokolldaten dürfen ohne Einwilligung des Betroffenen nur für die
-Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind nach
-sechs Monaten zu löschen.
+Protokolldaten dürfen ohne Einwilligung der betroffenen Person nur für
+die Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind
+nach sechs Monaten zu löschen.
 
 
 ### § 11 Gegenseitige Unterrichtung
@@ -411,22 +451,8 @@ Abs. 6 der Verordnung (EG) Nr. 273/2004 oder Artikel 7 Abs. 1 der
 Verordnung (EG) Nr. 111/2005.
 
 
-### § 15 Gebühren und Auslagen
+### § 15 (weggefallen)
 
-(1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für
-die in Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel
-26 Abs. 5 der Verordnung (EG) Nr. 111/2005 bezeichneten Amtshandlungen
-Gebühren zur Deckung des Verwaltungsaufwands sowie Auslagen erheben.
-
-(2) Das Bundesministerium für Gesundheit wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium des Innern, dem
-Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die gebührenpflichtigen Tatbestände und Gebühren nach
-Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen. Das Verwaltungskostengesetz ist nach Maßgabe von Artikel 3
-Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der
-Verordnung (EG) Nr. 111/2005 anzuwenden.
 
 
 ## Abschnitt 4 - Überwachung
@@ -593,7 +619,7 @@ bestraft, wer
 
 
 4.  entgegen Artikel 12 Abs. 1 der Verordnung (EG) Nr. 111/2005 einen in
-    Kategorie 1, 2 oder 3 des Anhangs dieser Verordnung bezeichneten
+    Kategorie 1, 2, 3 oder 4 des Anhangs dieser Verordnung bezeichneten
     Grundstoff ohne Ausfuhrgenehmigung ausführt oder
 
 
@@ -618,15 +644,13 @@ liegt in der Regel vor, wenn der Täter
 
 
 
-In besonders schweren Fällen ist § 73d des Strafgesetzbuchs
-anzuwenden.
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung
-(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 18. August
-2005 geltende Fassung maßgeblich.
+(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 7. Juli 2018
+geltende Fassung maßgeblich.
 
 
 ### § 20 Bußgeldvorschriften

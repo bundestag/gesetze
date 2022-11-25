@@ -1,8 +1,6 @@
-[^f775270_01_BJNR097600011]
-Verordnung über die Berufsausbildung zum Medientechnologen
-Druckverarbeitung und zur Medientechnologin Druckverarbeitung
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung
+  und zur Medientechnologin Druckverarbeitung
 jurabk: DruckverarbAusbV
 layout: default
 origslug: druckverarbausbv
@@ -10,7 +8,7 @@ slug: druckverarbausbv
 
 ---
 
-#  (DruckverarbAusbV)
+# Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung (DruckverarbAusbV)
 
 Ausfertigungsdatum
 :   2011-05-20

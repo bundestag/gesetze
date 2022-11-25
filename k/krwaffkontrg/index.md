@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.11.1990 I 2506;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.7.2011 I 1595
+:   Art. 2 G v. 2.6.2021 I 1275
 
 
 ## Erster Abschnitt - Genehmigungsvorschriften
@@ -84,21 +84,22 @@ erteilt werden
 
 
 3.  für die Beförderung von Kriegswaffen zum Zweck der Einfuhr an im
-    Bundesgebiet ansässige Unternehmen, die gemäß § 2a des
-    Außenwirtschaftsgesetzes in Verbindung mit § 21a der
-    Außenwirtschaftsverordnung zertifiziert sind,
+    Bundesgebiet ansässige Unternehmen, die gemäß § 9 des
+    Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser
+    Vorschrift erlassenen Rechtsverordnung zertifiziert sind,
 
 
 4.  für die Beförderung von Kriegswaffen zwischen im Bundesgebiet
-    ansässigen Unternehmen, die gemäß § 2a des Außenwirtschaftsgesetzes in
-    Verbindung mit § 21a der Außenwirtschaftsverordnung zertifiziert sind,
+    ansässigen Unternehmen, die gemäß § 9 des Außenwirtschaftsgesetzes in
+    Verbindung mit einer auf Grund dieser Vorschrift erlassenen
+    Rechtsverordnung zertifiziert sind,
 
 
 5.  für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes von
-    Unternehmen, die gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung
-    mit § 21a der Außenwirtschaftsverordnung zertifiziert sind, an die
-    Bundeswehr sowie von der Bundeswehr durch diese Unternehmen an sich
-    sowie
+    Unternehmen, die gemäß § 9 des Außenwirtschaftsgesetzes in Verbindung
+    mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung
+    zertifiziert sind, an die Bundeswehr sowie von der Bundeswehr durch
+    diese Unternehmen an sich sowie
 
 
 6.  für die Beförderung von Kriegswaffen zum Zweck der Verbringung an
@@ -363,11 +364,12 @@ Abs. 1 und 2 und des § 4a
 
 3.  für den Bereich der für die Aufrechterhaltung der öffentlichen
     Sicherheit zuständigen Behörden oder Dienststellen sowie der Behörden
-    des Strafvollzugs auf das Bundesministerium des Innern,
+    des Strafvollzugs auf das Bundesministerium des Innern, für Bau und
+    Heimat,
 
 
 4.  für alle übrigen Bereiche auf das Bundesministerium für Wirtschaft und
-    Technologie
+    Energie
 
 
 
@@ -375,8 +377,8 @@ zu übertragen.
 
 (3) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den
 Fällen des § 4 Abs. 1 kann durch Rechtsverordnung, die der Zustimmung
-des Bundesrates nicht bedarf, auf das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung übertragen werden, der diese Befugnis im
+des Bundesrates nicht bedarf, auf das Bundesministerium für Verkehr
+und digitale Infrastruktur übertragen werden, der diese Befugnis im
 Einvernehmen mit dem Auswärtigen Amt ausübt.
 
 (4) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung
@@ -547,17 +549,17 @@ wäre, sie zu versagen.
 ### § 13a Umgang mit unbrauchbar gemachten Kriegswaffen
 
 Der Umgang mit unbrauchbar gemachten Kriegswaffen kann durch
-Rechtsverordnung des Bundesministeriums für Wirtschaft und
-Technologie, die der Zustimmung des Bundesrates nicht bedarf,
-beschränkt werden; insbesondere kann der Umgang verboten oder unter
-Genehmigungsvorbehalt gestellt werden. Unbrauchbar gemachte
-Kriegswaffen sind Kriegswaffen, die durch technische Veränderungen
-endgültig die Fähigkeit zum bestimmungsgemäßen Einsatz verloren haben
-und nicht mit allgemein gebräuchlichen Werkzeugen wieder
-funktionsfähig gemacht werden können. Durch Rechtsverordnung, die der
-Zustimmung des Bundesrates nicht bedarf, kann bestimmt werden, auf
-welche Weise Kriegswaffen unbrauchbar zu machen sind und in welcher
-Form ihre Unbrauchbarmachung nachzuweisen ist.
+Rechtsverordnung des Bundesministeriums für Wirtschaft und Energie,
+die der Zustimmung des Bundesrates nicht bedarf, beschränkt werden;
+insbesondere kann der Umgang verboten oder unter Genehmigungsvorbehalt
+gestellt werden. Unbrauchbar gemachte Kriegswaffen sind Kriegswaffen,
+die durch technische Veränderungen endgültig die Fähigkeit zum
+bestimmungsgemäßen Einsatz verloren haben und nicht mit allgemein
+gebräuchlichen Werkzeugen wieder funktionsfähig gemacht werden können.
+Durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht
+bedarf, kann bestimmt werden, auf welche Weise Kriegswaffen
+unbrauchbar zu machen sind und in welcher Form ihre Unbrauchbarmachung
+nachzuweisen ist.
 
 
 ### § 14 Überwachungsbehörden
@@ -566,11 +568,11 @@ Form ihre Unbrauchbarmachung nachzuweisen ist.
 Handlungen und der Einhaltung der in § 12 genannten Pflichten ist
 
 1.  in den Fällen der §§ 2 und 3 Abs. 1 und 2 sowie des § 4a das
-    Bundesministerium für Wirtschaft und Technologie und
+    Bundesministerium für Wirtschaft und Energie und
 
 
-2.  in den Fällen des § 4 das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung
+2.  in den Fällen des § 4 das Bundesministerium für Verkehr und digitale
+    Infrastruktur
 
 
 
@@ -619,10 +621,10 @@ Zustimmung des Bundesrates die erforderlichen Vorschriften zur
 Durchführung der nach Absatz 3 zulässigen Überwachungsmaßnahmen zu
 erlassen und das Verfahren der Überwachungsbehörden zu regeln.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
-nicht bedarf, die ihm nach Absatz 1 zustehenden Überwachungsbefugnisse
-auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht
+bedarf, die ihm nach Absatz 1 zustehenden Überwachungsbefugnisse auf
+das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu
 übertragen.
 
 
@@ -1034,9 +1036,9 @@ Mitwirkung eines anderen Bandenmitglieds handelt.
 (3) In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu
 drei Jahren oder Geldstrafe.
 
-(4) Wer fahrlässig eine in Absatz 1 Nr. 1 bis 3, 6 oder 7 bezeichnete
-Handlung begeht, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
-Geldstrafe bestraft.
+(4) Wer fahrlässig eine in Absatz 1 Nummer 1 bis 4, 6 oder Nummer 7
+bezeichnete Handlung begeht, wird mit Freiheitsstrafe bis zu zwei
+Jahren oder mit Geldstrafe bestraft.
 
 (5) Nach Absatz 1 Nr. 3 oder 4 wird nicht bestraft, wer Kriegswaffen,
 die er in das Bundesgebiet eingeführt oder sonst verbracht hat,
@@ -1092,49 +1094,40 @@ freiwilliges und ernsthaftes Bemühen, die Kriegswaffen abzuliefern.
 
 
 
-(2) Ordnungswidrig handelt ferner, wer fahrlässig Kriegswaffen
-einführt, ausführt, durch das Bundesgebiet durchführt, aus dem
-Bundesgebiet oder innerhalb des Bundesgebietes verbringt, ohne dass
-die hierzu erforderlich Beförderung genehmigt ist.
-
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-(4) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
+(3) Ordnungswidrig handelt ferner, wer vorsätzlich oder fahrlässig
 entgegen § 12 Abs. 3 bei der Übergabe zur Beförderung von Kriegswaffen
 eine Ausfertigung der Genehmigungsurkunde nicht übergibt oder entgegen
 § 12 Abs. 4 bei der Beförderung eine Ausfertigung der
 Genehmigungsurkunde nicht mitführt. Die Ordnungswidrigkeit kann mit
-einer Geldbuße bis zu fünfhundert Euro geahndet werden.
+einer Geldbuße geahndet werden.
 
 
 ### § 23 Verwaltungsbehörden
 
-Das Bundesministerium für Wirtschaft und Technologie, das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und das
+Das Bundesministerium für Wirtschaft und Energie, das
+Bundesministerium für Verkehr und digitale Infrastruktur und das
 Bundesministerium der Finanzen sind, soweit sie nach § 14 Abs. 1 und 2
 für die Überwachung zuständig sind, zugleich Verwaltungsbehörde im
 Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten. §
 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
 
 
-### § 24 Einziehung und Erweiterter Verfall
+### § 24 Einziehung
 
 (1) Kriegswaffen, auf die sich eine Straftat nach §§ 19, 20, 21 oder
 22a bezieht, können zugunsten des Bundes eingezogen werden; § 74a des
 Strafgesetzbuches ist anzuwenden. Sie werden auch ohne die
-Voraussetzungen des § 74 Abs. 2 des Strafgesetzbuches eingezogen, wenn
-das Wohl der Bundesrepublik Deutschland es erfordert; dies gilt auch
-dann, wenn der Täter ohne Schuld gehandelt hat.
+Voraussetzungen des § 74 Absatz 3 Satz 1 des Strafgesetzbuches
+eingezogen, wenn das Wohl der Bundesrepublik Deutschland es erfordert;
+dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
 
-(2) Die Entschädigungspflicht nach § 74f des Strafgesetzbuches trifft
-den Bund.
+(2) Die Entschädigungspflicht nach § 74b Absatz 2 und 3 des
+Strafgesetzbuches trifft den Bund.
 
-(3) In den Fällen des § 19 Abs. 1 und 2, Abs. 2 Nr. 2 auch in
-Verbindung mit § 21, des § 20 Abs. 1, auch in Verbindung mit § 21, und
-des § 22a Abs. 1 ist § 73d des Strafgesetzbuches anzuwenden, wenn der
-Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
-fortgesetzten Begehung solcher Straftaten verbunden hat.
+(3) (weggefallen)
 
 
 ### § 25
@@ -1201,7 +1194,7 @@ Kriegswaffen zum Gegenstand haben, gilt abweichend von § 27 folgendes:
 
 (3) Für den Fall, daß die Deutsche Demokratische Republik ein Gesetz
 zur Inkraftsetzung dieses Gesetzes erläßt, wird das Bundesministerium
-für Wirtschaft und Technologie ermächtigt, durch Rechtsverordnung ohne
+für Wirtschaft und Energie ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Maßgaben der Absätze 1 und 2 und des §
 26a so zu ändern, daß deren Ziele unter Berücksichtigung der neuen
 Rechtslage erreicht werden.
@@ -1215,9 +1208,15 @@ des Grundgesetzes und die nach diesem Gesetz erforderlichen
 Genehmigungen als erteilt.
 
 
-### § 28 Berlin-Klausel
+### § 28 Gebühren
 
-(gegenstandslos)
+In einer Besonderen Gebührenverordnung des Bundesministeriums für
+Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes
+sind für individuell zurechenbare öffentliche Leistungen des
+Bundesministeriums für Wirtschaft und Energie und des Bundesamts für
+Wirtschaft und Ausfuhrkontrolle nach diesem Gesetz oder den auf Grund
+dieses Gesetzes erlassenen Rechtsverordnungen Gebühren ab dem 1.
+Januar 2023 zu regeln.
 
 
 ### § 29 Inkrafttreten

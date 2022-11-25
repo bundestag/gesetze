@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1990, 2915
 
 Zuletzt geändert durch
-:   Art. 250 V v. 25.11.2003 I 2304
+:   Art. 5 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -580,8 +580,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-    Geschäftsbereich des Bundesministeriums für Verbraucherschutz,
-    Ernährung und Landwirtschaft
+    Geschäftsbereich des Bundesministeriums für Ernährung und
+    Landwirtschaft
 
 
 1.  Saatgutverkehrsgesetz vom 20. August 1985 (BGBl. I S. 1633), geändert
@@ -1117,7 +1117,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt
     ein zulassungspflichtiges Fertigarzneimittel, das ein Arzneimittel im
-    Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1  oder Nr. 4 Buchstabe a des
+    Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 oder Nr. 4 Buchstabe a des
     Arzneimittelgesetzes ist und sich bei Wirksamwerden des Beitritts in
     dem in Artikel 3 des Einigungsvertrages genannten Gebiet in Verkehr
     befindet oder nach Abschnitt II der Ersten Durchführungsbestimmung vom
@@ -1358,7 +1358,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
     Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und
-    Reaktorsicherheit
+    nukleare Sicherheit
 
 
 
@@ -1567,109 +1567,18 @@ Auf der Grundlage des § 5 des Tierzuchtgesetzes vom 17. Dezember 1980
 Milcherzeugnisse - Milchverordnung - (GBl. I S. 55) wird im
 Einvernehmen mit dem Minister der Finanzen folgendes bestimmt:
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *   I. Abschnitt
+I. Abschnitt
+### Errichtung und Aufgaben der Landeskontrollverbände für die
+Milchproduktion
 
+### §§ 1 bis 5
 
+II. Abschnitt
+### Erhebung der Mitverantwortungsabgabe für Milch und
+Milcherzeugnisse und ihre Verwendung
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Errichtung und Aufgaben der Landeskontrollverbände für die
-    Milchproduktion
-
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *   §§ 1 bis 5
-
-                                II. Abschnitt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Erhebung der Mitverantwortungsabgabe für Milch und Milcherzeugnisse
-    und ihre Verwendung
-
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *
-                                *   § 6
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    Erhebung der Mitverantwortungsabgabe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§ 6
+### Erhebung der Mitverantwortungsabgabe
 
 (1) Jeder Milcherzeuger wird einer Mitverantwortungsabgabe
 unterworfen, soweit die Milch an einen Milch be- oder verarbeitenden
@@ -1693,91 +1602,21 @@ sind zuviel einbehaltene Abgaben von dem in der neuen Abgabeanmeldung
 angemeldeten Betrag abzuziehen und zuwenig einbehaltene Abgaben
 hinzuzurechnen.
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *
-                                *   § 7
-
-
-
-
-                                Abgabehöhe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§ 7
+### Abgabehöhe
 
 (1) Die Höhe der Abgabe beträgt 1% des jeweiligen Richtpreises für
 Milch.
 
 (2) Bei Erzeugern, deren tatsächlich verfügbare individuelle
-Referenzmenge 60.000 kg nicht überschreitet, beträgt die Abgabe 0,5%
+Referenzmenge 60 000 kg nicht überschreitet, beträgt die Abgabe 0,5%
 des jeweiligen Richtpreises für Milch. Die Kleinerzeugereigenschaft
 wird am ersten Tag des Erhebungszeitraumes der Mitverantwortungsabgabe
 durch das zuständige Landratsamt beurteilt und am ersten Tag des
 darauf folgenden Erhebungszeitraumes überprüft.
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *
-                                *   § 8
-
-
-
-
-
-
-
-
-
-
-                        Duldungs- und Mitwirkungspflichten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§ 8
+### Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung haben die Ankaufstellen den
 Zolldienststellen das Betreten der Geschäfts- und Betriebsräume
@@ -1789,43 +1628,8 @@ zu gewähren. Bei automatischer Buchführung haben die Ankaufstellen auf
 ihre Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit
 es die Zolldienststellen verlangen.
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *
-                                *   § 9
-
-
-
-
-                                Verjährung
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§ 9
+### Verjährung
 
 Die Ansprüche auf Grund dieser Durchführungsbestimmung verjähren in
 fünf Jahren; bei hinterzogenen Beträgen beträgt die Verjährungsfrist
@@ -1834,48 +1638,15 @@ in dem die Abgaben anzumelden waren. Im übrigen gelten für die
 Verjährung die Vorschriften der §§ 228 bis 231 der Abgabenordnung der
 DDR vom 22. Juni 1990 (GBl. I Sdr. 1428) sinngemäß.
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *
-                            *
-                                *   § 10
-
-
-
-
-                                Inkrafttreten
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§ 10
+### Inkrafttreten
 
 Diese Durchführungsbestimmung tritt am 1. Oktober 1990 in Kraft.
+
 Berlin, den 21. September 1990
+
 Ministerium
 für Ernährung, Land- und Forstwirtschaft
 Haschke
-Parlamentarischer Staatssekretär
+### Parlamentarischer Staatssekretär
 

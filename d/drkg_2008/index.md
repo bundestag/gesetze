@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2346
 
+Zuletzt geändert durch
+:   Art. 11a G v. 15.11.2019 I 1604
+
+Änderung durch
+:   Art. 15e G v. 11.7.2021 I 2754 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Deutsches Rotes Kreuz
 
@@ -67,6 +73,39 @@ und Nebenbestimmungen.
 
 (3) Das Deutsche Rote Kreuz e. V. nimmt ferner die ihm durch
 Bundesgesetz oder Landesgesetz zugewiesenen Aufgaben wahr.
+
+(4) Für die Gestellung von Mitgliedern einer Schwesternschaft vom
+Deutschen Roten Kreuz gilt das Arbeitnehmerüberlassungsgesetz mit der
+Maßgabe, dass § 1 Absatz 1 Satz 4 und Absatz 1b des
+Arbeitnehmerüberlassungsgesetzes nicht anwendbar ist. Die Gestellung
+gilt nicht als Arbeitnehmerüberlassung im Sinne des § 40 Absatz 1
+Nummer 2 des Aufenthaltsgesetzes.
+
+(5) § 8 Absatz 2 des Pflegeberufegesetzes gilt mit der Maßgabe, dass
+neben Einrichtungen nach § 7 Absatz 1 des Pflegeberufegesetzes auch
+vereinsrechtlich organisierte Schwesternschaften vom Deutschen Roten
+Kreuz e. V. Träger der praktischen Ausbildung sein können. In diesem
+Fall sind die vorgeschriebenen Einsätze der oder des Auszubildenden
+beim Träger der praktischen Ausbildung bei derjenigen Einrichtung nach
+§ 7 Absatz 1 des Pflegeberufegesetzes durchzuführen, bei der der
+überwiegende Teil der praktischen Ausbildung der oder des
+Auszubildenden stattfindet (durchführende Einrichtung der praktischen
+Ausbildung). Abweichend von § 8 Absatz 5 des Pflegeberufegesetzes
+gelten die Auszubildenden der Schwesternschaften vom Deutschen Roten
+Kreuz e. V. für die gesamte Dauer der Ausbildung als Arbeitnehmer im
+Sinne von § 5 des Betriebsverfassungsgesetzes oder von § 4 des
+Bundespersonalvertretungsgesetzes der durchführenden Einrichtung der
+praktischen Ausbildung. Diesen Auszubildenden sind mindestens die
+Ausbildungsbedingungen zu gewähren, die in der durchführenden
+Einrichtung der praktischen Ausbildung für vergleichbare Auszubildende
+gelten. Der für Auszubildende der Schwesternschaften vom Deutschen
+Roten Kreuz e. V. geltende Tarifvertrag findet für den Auszubildenden
+nur Anwendung, wenn in der durchführenden Einrichtung der praktischen
+Ausbildung kein Tarifvertrag gilt. Abweichend von § 16 Absatz 2 Nummer
+11 des Pflegeberufegesetzes ist den Auszubildenden ein Hinweis auf die
+geltenden Betriebs- und Dienstvereinbarungen durch die durchführende
+Einrichtung der praktischen Ausbildung zu erteilen; im Übrigen gilt §
+16 Absatz 2 Nummer 11 des Pflegeberufegesetzes entsprechend.
 
 
 ### § 3 Schutz des Zeichens und der Bezeichnungen

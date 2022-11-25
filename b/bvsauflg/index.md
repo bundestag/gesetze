@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz (Artikel
-  2 des Gesetzes zur Neuordnung des Zivilschutzes)
+Title: Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz
 jurabk: BVSAuflG
 layout: default
 origslug: bvsauflg
@@ -8,7 +7,7 @@ slug: bvsauflg
 
 ---
 
-# Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz (Artikel 2 des Gesetzes zur Neuordnung des Zivilschutzes) (BVSAuflG)
+# Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz (BVSAuflG)
 
 Ausfertigungsdatum
 :   1997-03-25

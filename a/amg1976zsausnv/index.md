@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 851
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.3.2006 I 594
+:   Art. 2d G v. 18.11.2020 I 2397
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -61,17 +61,20 @@ und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
 (1) Zweck dieser Verordnung ist es, für die Herstellung, die
 Beschaffung, die Bevorratung, die Verteilung und die Abgabe von
 Arzneimitteln zur Durchführung der besonderen Aufgaben in den
-Bereichen des Zivil- und Katastrophenschutzes, der Bundeswehr, der
-Bundespolizei sowie der Bereitschaftspolizeien der Länder Ausnahmen
-von den Vorschriften des Arzneimittelgesetzes zuzulassen.
+Bereichen der Bundeswehr, der Bundespolizei, der
+Bereitschaftspolizeien der Länder, des Zivilschutzes, des
+Katastrophenschutzes sowie des § 79 Absatz 4a des
+Arzneimittelgesetzes, einschließlich der Teilnahme an internationalen
+Hilfsaktionen, Ausnahmen von den Vorschriften des Arzneimittelgesetzes
+zuzulassen.
 
 (2) Diese Verordnung gilt für Arzneimittel im Sinne des § 2 Abs. 1 und
 2 des Arzneimittelgesetzes, die auf besondere Veranlassung der
-zuständigen obersten Bundes- oder Landesbehörden für die Bereiche des
-Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei
-oder der Bereitschaftspolizeien der Länder beschafft und von ihnen
-oder durch die von ihnen beauftragten Stellen zur Aufgabenerfüllung in
-diesen Bereichen in den Verkehr gebracht werden.
+zuständigen obersten Bundes- oder Landesbehörden für die in Absatz 1
+genannten Aufgaben beschafft und von ihnen oder durch die von ihnen
+beauftragten Stellen zur Aufgabenerfüllung in diesen Bereichen,
+einschließlich der Teilnahme an internationalen Hilfsaktionen, in den
+Verkehr gebracht werden.
 
 (3) Die Abgabe der von dieser Verordnung erfassten Arzneimittel zum
 Endverbrauch erfolgt unter der Verantwortung einer Person, die Arzt
@@ -93,9 +96,7 @@ Europäischen Agentur für die Beurteilung von Arzneimitteln (ABl. EG
 Nr. L 214 S. 1) durch die Kommission der Europäischen Gemeinschaften
 oder den Rat der Europäischen Union erteilt ist, sofern das
 Inverkehrbringen nicht zugelassener Arzneimittel für die Erfüllung der
-Aufgaben des Zivil- und Katastrophenschutzes, der Bundeswehr, der
-Bundespolizei oder der Bereitschaftspolizeien der Länder unverzichtbar
-ist.
+in § 1 Absatz 1 genannten Aufgaben unverzichtbar ist.
 
 (2) Der pharmazeutische Unternehmer und die zuständige oberste Bundes-
 oder Landesbehörde übergeben alle ihnen verfügbaren Unterlagen, die
@@ -145,7 +146,7 @@ einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben oder
 Gesundheit von Menschen ist.
 
 
-## § 3 Ausnahmen vom Siebenten Abschnitt des Arzneimittelgesetzes
+## § 3 Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes dürfen die in
 § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und
@@ -172,8 +173,15 @@ Nr. 2 des Arzneimittelgesetzes vor, so gilt die Erteilung eines
 Auftrages zur Beschaffung von Arzneimitteln durch die veranlassende
 Stelle im Sinne des § 1 Abs. 2 als Bescheinigung nach § 72a Abs. 1
 Satz 1 Nr. 3 des Arzneimittelgesetzes, dass die Einfuhr im
-öffentlichen Interesse liegt. § 72a Abs. 1 Satz 4 des
-Arzneimittelgesetzes bleibt unberührt.
+öffentlichen Interesse liegt. Arzneimittel menschlicher, tierischer
+oder mikrobieller Herkunft, die zur Anwendung bei Menschen bestimmt
+sind, werden im Benehmen mit der zuständigen Bundesoberbehörde
+beschafft; § 72a Absatz 1c des Arzneimittelgesetzes ist insoweit nicht
+anzuwenden.
+
+(3) § 72 Absatz 1 des Arzneimittelgesetzes findet keine Anwendung auf
+die zuständigen obersten Bundes- oder Landesbehörden oder die von
+ihnen beauftragten Stellen.
 
 
 ## § 5 Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
@@ -187,6 +195,12 @@ Landesbehörden legen die Verwendbarkeitsdauer des jeweiligen
 Arzneimittels fest und stellen sicher, dass diese Informationen bis
 zur vollständigen Ausgabe oder Vernichtung der Arzneimittel aufbewahrt
 werden.
+
+(1a) Abweichend von § 10 Absatz 1 Satz 1 des Arzneimittelgesetzes und
+§ 11 Absatz 1 des Arzneimittelgesetzes dürfen die von § 1 Absatz 2
+erfassten Fertigarzneimittel auch mit einer Kennzeichnung und einer
+Packungsbeilage in einer anderen als der deutschen Sprache in den
+Verkehr gebracht werden.
 
 (2) Abweichend von § 11 des Arzneimittelgesetzes dürfen die von § 1
 Abs. 2 erfassten Fertigarzneimittel auch ohne Packungsbeilage in den
@@ -203,6 +217,18 @@ Arzneimittel zur Verfügung.
 
 (4) § 9 Abs. 2 des Arzneimittelgesetzes findet auf die in § 1 Abs. 2
 genannten Arzneimittel keine Anwendung.
+
+
+## § 5a Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes
+
+Bei Arzneimitteln nach § 1 Absatz 2, die im Geltungsbereich des
+Arzneimittelgesetzes hergestellt werden und zur Anwendung bei Menschen
+bestimmt sind, kann die zuständige Behörde im Benehmen mit der
+zuständigen Bundesoberbehörde Ausnahmen von den Anforderungen nach den
+§§ 13 bis 15 des Arzneimittelgesetzes zulassen, wenn dies zur
+Versorgung der Bevölkerung erforderlich ist und die Qualität,
+Wirksamkeit und Sicherheit der herzustellenden Arzneimittel
+gewährleistet ist.
 
 
 ## § 6 Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes

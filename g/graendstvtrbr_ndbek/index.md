@@ -1,7 +1,7 @@
 ---
-Title: 'Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages
+Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages
   zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung
-  der gemeinsamen Landesgrenze (siehe: GrÄndStVtr BR/ND)'
+  der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtrBR/NDBek
 layout: default
 origslug: gr_ndstvtrbr_ndbek
@@ -9,7 +9,7 @@ slug: graendstvtrbr_ndbek
 
 ---
 
-# Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (siehe: GrÄndStVtr BR/ND) (GrÄndStVtrBR/NDBek)
+# Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (GrÄndStVtrBR/NDBek)
 
 Ausfertigungsdatum
 :   2010-05-18

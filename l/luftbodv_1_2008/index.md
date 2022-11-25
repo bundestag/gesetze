@@ -509,5 +509,13 @@ mindestens folgende Inhalte umfassen:
 
 (1) Diese Verordnung tritt am 16. Juli 2008 in Kraft.
 
-(2)
+(2) Gleichzeitig treten die Erste Durchführungsverordnung zur
+Betriebsordnung für Luftfahrtgerät (Ausrüstung der Luftfahrzeuge . und
+Flugbetrieb in Luftfahrtunternehmen - (1. DV LuftBO) vom 15. Juli 1970
+(BAnz. Nr. 131.vom 22. Juli 1970 [Beilage 20/70], zuletzt geändert
+durch Artikel 532 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
+2407), und die Fünfte Durchführungsverordnung zur Betriebsordnung für
+Luftfahrtgerät (Anwendungsbestimmungen zu den JAR-OPS1 deutsch -
+Gewerbsmäßige Beförderung von Personen und Sachen in Flugzeugen - 5.
+DV LuftBO) vom 12. Juli 2007 (BAnz. S. 7047) außer Kraft.
 

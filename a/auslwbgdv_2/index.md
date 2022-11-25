@@ -54,7 +54,7 @@ zulässig (Allgemeine Hinterlegungsstelle). Als Allgemeine
 Hinterlegungsstelle bestimmt der Bundesminister der Finanzen eine
 Bank, die auf Grund der Gesetze der Vereinigten Staaten von Amerika
 oder eines ihrer Staaten gegründet ist, ihre Hauptniederlassung in der
-Stadt New York im Staat New York hat und deren Kapital einschließlich
+Stadt New York im Staate New York hat und deren Kapital einschließlich
 Reserven mindestens 100 Millionen Dollar beträgt. Der Bundesminister
 der Finanzen kann nach seinem Ermessen die Bestimmung der Allgemeinen
 Hinterlegungsstelle aufheben und eine andere Bank, die den Bedingungen
@@ -177,15 +177,15 @@ Satz 3 des Gesetzes genannten Befugnissen Gebrauch, so hat sie den
 Anmelder aufzufordern, die Beweismittel oder Angaben innerhalb dreier
 Monate nach Eingang der Aufforderung einzureichen. Sie hat diese Frist
 zu verlängern oder eine erneute Frist zu gewähren, wenn der Anmelder
-aus hinreichendem Grund darum nachsucht.
+aus hinreichendem Grunde darum nachsucht.
 
 (3) Sobald die Bereinigungsstelle die Unterlagen für hinreichend
 vollständig erachtet, soll sie über die Anerkennung entscheiden; in
-jedem Fall soll sie die Entscheidung innerhalb von sechs Monaten nach
+jedem Falle soll sie die Entscheidung innerhalb von sechs Monaten nach
 der Anmeldung erlassen, es sei denn, daß besondere Umstände des
-Einzelfalls einer Entscheidung innerhalb dieser Frist entgegenstehen.
+Einzelfalles einer Entscheidung innerhalb dieser Frist entgegenstehen.
 
-(4) In keinem Fall darf die Anerkennung abgelehnt werden, ohne daß
+(4) In keinem Falle darf die Anerkennung abgelehnt werden, ohne daß
 zuvor die Bereinigungsstelle den Anmelder über die einer Anerkennung
 entgegenstehenden Tatsachen und Beweismittel unterrichtet und ihm
 Gelegenheit gegeben hat, dazu Stellung zu nehmen. Absatz 2 findet

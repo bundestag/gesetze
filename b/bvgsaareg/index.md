@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 1292
 
+G aufgeh. durch
+:   Art. 58 Nr. 9 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
+Geändert durch
+:   Art. 307 V v. 19.6.2020 I 1328
+
 
 
 ## Eingangsformel
@@ -233,8 +239,8 @@ freiwillige Weiterversicherung hatten.
 
 Sofern sich in einzelnen Fällen aus § 1 Härten ergeben, kann mit
 Zustimmung des Bundesministers für Arbeit und Sozialordnung, in Fällen
-der Kriegsopferfürsorge des Bundesministers des Innern, ein Ausgleich
-gewährt werden.
+der Kriegsopferfürsorge des Bundesministers des Innern, für Bau und
+Heimat, ein Ausgleich gewährt werden.
 
 
 ## § 13

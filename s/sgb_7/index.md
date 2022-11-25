@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1996, 1254
 
 Zuletzt geändert durch
-:   Art. 2b G v. 21.7.2012 I 1601
+:   Art. 14a G v. 10.12.2021 I 5162
 
 
 ## Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall
@@ -70,7 +70,8 @@ dieses Buches
 
 
 4.  behinderte Menschen, die in anerkannten Werkstätten für behinderte
-    Menschen oder in Blindenwerkstätten im Sinne des § 143 des Neunten
+    Menschen, bei einem anderen Leistungsanbieter nach § 60 des Neunten
+    Buches oder in Blindenwerkstätten im Sinne des § 226 des Neunten
     Buches oder für diese Einrichtungen in Heimarbeit tätig sind,
 
 
@@ -97,7 +98,7 @@ dieses Buches
 
 
 
-    wenn für das Unternehmen eine landwirtschaftliche Berufsgenossenschaft
+    wenn für das Unternehmen die landwirtschaftliche Berufsgenossenschaft
     zuständig ist.
 
 
@@ -115,8 +116,10 @@ dieses Buches
     a)  Kinder während des Besuchs von Tageseinrichtungen, deren Träger für
         den Betrieb der Einrichtungen der Erlaubnis nach § 45 des Achten
         Buches oder einer Erlaubnis aufgrund einer entsprechenden
-        landesrechtlichen Regelung bedürfen, sowie während der Betreuung durch
-        geeignete Tagespflegepersonen im Sinne von § 23 des Achten Buches,
+        landesrechtlichen Regelung bedürfen, während der Betreuung durch
+        geeignete Tagespflegepersonen im Sinne von § 23 des Achten Buches
+        sowie während der Teilnahme an vorschulischen Sprachförderungskursen,
+        wenn die Teilnahme auf Grund landesrechtlicher Regelungen erfolgt,
 
 
     b)  Schüler während des Besuchs von allgemein- oder berufsbildenden
@@ -173,7 +176,9 @@ dieses Buches
 
 12. Personen, die in Unternehmen zur Hilfe bei Unglücksfällen oder im
     Zivilschutz unentgeltlich, insbesondere ehrenamtlich tätig sind oder
-    an Ausbildungsveranstaltungen dieser Unternehmen teilnehmen,
+    an Ausbildungsveranstaltungen dieser Unternehmen einschließlich der
+    satzungsmäßigen Veranstaltungen, die der Nachwuchsförderung dienen,
+    teilnehmen,
 
 
 13. Personen, die
@@ -191,6 +196,21 @@ dieses Buches
     c)  sich bei der Verfolgung oder Festnahme einer Person, die einer
         Straftat verdächtig ist oder zum Schutz eines widerrechtlich
         Angegriffenen persönlich einsetzen,
+
+
+    d)  Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst ausüben, wenn
+        diese Tätigkeiten neben
+
+        aa) einer Beschäftigung mit einem Umfang von regelmäßig mindestens 15
+            Stunden wöchentlich außerhalb des Rettungsdienstes oder
+
+
+        bb) einer Tätigkeit als zugelassener Vertragsarzt oder als Arzt in
+            privater Niederlassung
+
+
+
+        ausgeübt werden,
 
 
 
@@ -219,7 +239,7 @@ dieses Buches
 15. Personen, die
 
     a)  auf Kosten einer Krankenkasse oder eines Trägers der gesetzlichen
-        Rentenversicherung oder einer landwirtschaftlichen Alterskasse
+        Rentenversicherung oder der landwirtschaftlichen Alterskasse
         stationäre oder teilstationäre Behandlung oder stationäre,
         teilstationäre oder ambulante Leistungen zur medizinischen
         Rehabilitation erhalten,
@@ -235,6 +255,11 @@ dieses Buches
         nach § 3 der Berufskrankheiten-Verordnung teilnehmen,
 
 
+    d)  auf Kosten eines Trägers der gesetzlichen Rentenversicherung, der
+        landwirtschaftlichen Alterskasse oder eines Trägers der gesetzlichen
+        Unfallversicherung an Präventionsmaßnahmen teilnehmen,
+
+
 
 
 
@@ -245,13 +270,13 @@ dieses Buches
     landesrechtlicher Regelungen im Rahmen der Selbsthilfe tätig sind,
 
 
-17. Pflegepersonen im Sinne des § 19 des Elften Buches bei der Pflege
-    eines Pflegebedürftigen im Sinne des § 14 des Elften Buches; die
-    versicherte Tätigkeit umfaßt Pflegetätigkeiten im Bereich der
-    Körperpflege und - soweit diese Tätigkeiten überwiegend
-    Pflegebedürftigen zugute kommen - Pflegetätigkeiten in den Bereichen
-    der Ernährung, der Mobilität sowie der hauswirtschaftlichen Versorgung
-    (§ 14 Abs. 4 des Elften Buches).
+17. Pflegepersonen im Sinne des § 19 Satz 1 und 2 des Elften Buches bei
+    der Pflege eines Pflegebedürftigen mit mindestens Pflegegrad 2 im
+    Sinne der §§ 14 und 15 Absatz 3 des Elften Buches; die versicherte
+    Tätigkeit umfasst pflegerische Maßnahmen in den in § 14 Absatz 2 des
+    Elften Buches genannten Bereichen sowie Hilfen bei der
+    Haushaltsführung nach § 18 Absatz 5a Satz 3 Nummer 2 des Elften
+    Buches.
 
 
 
@@ -321,8 +346,8 @@ jugendbehördlichen Anordnung wie Beschäftigte tätig werden.
 
 
     c)  für ihre Tätigkeit bei internationalen Einsätzen zur zivilen
-        Krisenprävention durch einen Sekundierungsvertrag nach dem
-        Sekundierungsgesetz abgesichert werden.
+        Krisenprävention als Sekundierte nach dem Sekundierungsgesetz
+        abgesichert werden.
 
 
 
@@ -390,7 +415,12 @@ sich die Versicherung erstreckt auf
     des Beschäftigungsstaates nicht unfallversichert sind,
 
 
-4.  ehrenamtlich Tätige und bürgerschaftlich Engagierte.
+4.  ehrenamtlich Tätige und bürgerschaftlich Engagierte,
+
+
+5.  Kinder und Jugendliche während der Teilnahme an
+    Sprachförderungskursen, wenn die Teilnahme auf Grund landesrechtlicher
+    Regelungen erfolgt.
 
 
 
@@ -472,9 +502,9 @@ sich die Versicherung erstreckt auf
 
 
 (3) Von der Versicherung nach § 2 Abs. 1 Nr. 9 sind frei selbständig
-tätige Ärzte, Zahnärzte, Tierärzte, Psychologische Psychotherapeuten,
-Kinder- und Jugendlichenpsychotherapeuten, Heilpraktiker und
-Apotheker.
+tätige Ärzte, Zahnärzte, Tierärzte, Psychotherapeuten, Psychologische
+Psychotherapeuten, Kinder- und Jugendlichenpsychotherapeuten,
+Heilpraktiker und Apotheker.
 
 (4) Von der Versicherung nach § 2 Abs. 2 ist frei, wer in einem
 Haushalt als Verwandter oder Verschwägerter bis zum zweiten Grad oder
@@ -502,7 +532,8 @@ Spezialkulturen. Das Nähere bestimmt die Satzung.
 
 #### § 6 Freiwillige Versicherung
 
-(1) Auf schriftlichen Antrag können sich versichern
+(1) Auf schriftlichen oder elektronischen Antrag können sich
+versichern
 
 1.  Unternehmer und ihre im Unternehmen mitarbeitenden Ehegatten oder
     Lebenspartner; ausgenommen sind Haushaltsführende, Unternehmer von
@@ -533,6 +564,11 @@ Spezialkulturen. Das Nähere bestimmt die Satzung.
 
 
 
+In den Fällen des Satzes 1 Nummer 3 kann auch die Organisation, für
+die die Ehrenamtsträger tätig sind, oder ein Verband, in dem die
+Organisation Mitglied ist, den Antrag stellen; eine namentliche
+Bezeichnung der Versicherten ist in diesen Fällen nicht erforderlich.
+In den Fällen des Satzes 1 Nummer 4 und 5 gilt Satz 2 entsprechend.
 
 (2) Die Versicherung beginnt mit dem Tag, der dem Eingang des Antrags
 folgt. Die Versicherung erlischt, wenn der Beitrag oder
@@ -559,7 +595,10 @@ aus.
 Versicherungsschutz nach § 2, 3 oder 6 begründenden Tätigkeit
 (versicherte Tätigkeit). Unfälle sind zeitlich begrenzte, von außen
 auf den Körper einwirkende Ereignisse, die zu einem Gesundheitsschaden
-oder zum Tod führen.
+oder zum Tod führen. Wird die versicherte Tätigkeit im Haushalt der
+Versicherten oder an einem anderen Ort ausgeübt, besteht
+Versicherungsschutz in gleichem Umfang wie bei Ausübung der Tätigkeit
+auf der Unternehmensstätte.
 
 (2) Versicherte Tätigkeiten sind auch
 
@@ -581,6 +620,12 @@ oder zum Tod führen.
 
 
 
+
+
+2a. das Zurücklegen des unmittelbaren Weges nach und von dem Ort, an dem
+    Kinder von Versicherten nach Nummer 2 Buchstabe a fremder Obhut
+    anvertraut werden, wenn die versicherte Tätigkeit an dem Ort des
+    gemeinsamen Haushalts ausgeübt wird,
 
 
 3.  das Zurücklegen des von einem unmittelbaren Weg nach und von dem Ort
@@ -622,13 +667,24 @@ Einwirkungen verursacht sind, denen bestimmte Personengruppen durch
 ihre versicherte Tätigkeit in erheblich höherem Grade als die übrige
 Bevölkerung ausgesetzt sind; sie kann dabei bestimmen, daß die
 Krankheiten nur dann Berufskrankheiten sind, wenn sie durch
-Tätigkeiten in bestimmten Gefährdungsbereichen verursacht worden sind
-oder wenn sie zur Unterlassung aller Tätigkeiten geführt haben, die
-für die Entstehung, die Verschlimmerung oder das Wiederaufleben der
-Krankheit ursächlich waren oder sein können. In der Rechtsverordnung
-kann ferner bestimmt werden, inwieweit Versicherte in Unternehmen der
-Seefahrt auch in der Zeit gegen Berufskrankheiten versichert sind, in
-der sie an Land beurlaubt sind.
+Tätigkeiten in bestimmten Gefährdungsbereichen verursacht worden sind.
+In der Rechtsverordnung kann ferner bestimmt werden, inwieweit
+Versicherte in Unternehmen der Seefahrt auch in der Zeit gegen
+Berufskrankheiten versichert sind, in der sie an Land beurlaubt sind.
+
+(1a) Beim Bundesministerium für Arbeit und Soziales wird ein
+Ärztlicher Sachverständigenbeirat Berufskrankheiten gebildet. Der
+Sachverständigenbeirat ist ein wissenschaftliches Gremium, das das
+Bundesministerium bei der Prüfung der medizinischen Erkenntnisse zur
+Bezeichnung neuer und zur Erarbeitung wissenschaftlicher
+Stellungnahmen zu bestehenden Berufskrankheiten unterstützt. Bei der
+Bundesanstalt für Arbeitsschutz und Arbeitsmedizin wird eine
+Geschäftsstelle eingerichtet, die den Sachverständigenbeirat bei der
+Erfüllung seiner Arbeit organisatorisch und wissenschaftlich,
+insbesondere durch die Erstellung systematischer Reviews, unterstützt.
+Das Nähere über die Stellung und die Organisation des
+Sachverständigenbeirats und der Geschäftsstelle regelt die
+Bundesregierung in der Rechtsverordnung nach Absatz 1.
 
 (2) Die Unfallversicherungsträger haben eine Krankheit, die nicht in
 der Rechtsverordnung bezeichnet ist oder bei der die dort bestimmten
@@ -638,6 +694,24 @@ nach neuen Erkenntnissen der medizinischen Wissenschaft die
 Voraussetzungen für eine Bezeichnung nach Absatz 1 Satz 2 erfüllt
 sind.
 
+(2a) Krankheiten, die bei Versicherten vor der Bezeichnung als
+Berufskrankheiten bereits entstanden waren, sind rückwirkend
+frühestens anzuerkennen
+
+1.  in den Fällen des Absatzes 1 als Berufskrankheit zu dem Zeitpunkt, in
+    dem die Bezeichnung in Kraft getreten ist,
+
+
+2.  in den Fällen des Absatzes 2 wie eine Berufskrankheit zu dem
+    Zeitpunkt, in dem die neuen Erkenntnisse der medizinischen
+    Wissenschaft vorgelegen haben; hat der Ärztliche
+    Sachverständigenbeirat Berufskrankheiten eine Empfehlung für die
+    Bezeichnung einer neuen Berufskrankheit beschlossen, ist für die
+    Anerkennung maßgebend der Tag der Beschlussfassung.
+
+
+
+
 (3) Erkranken Versicherte, die infolge der besonderen Bedingungen
 ihrer versicherten Tätigkeit in erhöhtem Maße der Gefahr der
 Erkrankung an einer in der Rechtsverordnung nach Absatz 1 genannten
@@ -646,13 +720,48 @@ können Anhaltspunkte für eine Verursachung außerhalb der versicherten
 Tätigkeit nicht festgestellt werden, wird vermutet, daß diese infolge
 der versicherten Tätigkeit verursacht worden ist.
 
-(4) Setzt die Anerkennung einer Krankheit als Berufskrankheit die
-Unterlassung aller Tätigkeiten voraus, die für die Entstehung, die
-Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren
-oder sein können, haben die Unfallversicherungsträger vor Unterlassung
-einer noch verrichteten gefährdenden Tätigkeit darüber zu entscheiden,
-ob die übrigen Voraussetzungen für die Anerkennung einer
-Berufskrankheit erfüllt sind.
+(3a) Der Unfallversicherungsträger erhebt alle Beweise, die zur
+Ermittlung des Sachverhalts erforderlich sind. Dabei hat er neben den
+in § 21 Absatz 1 Satz 1 des Zehnten Buches genannten Beweismitteln
+auch Erkenntnisse zu berücksichtigen, die er oder ein anderer
+Unfallversicherungsträger an vergleichbaren Arbeitsplätzen oder zu
+vergleichbaren Tätigkeiten gewonnen hat. Dies gilt insbesondere in den
+Fällen, in denen die Ermittlungen zu den Einwirkungen während der
+versicherten Tätigkeit dadurch erschwert sind, dass der Arbeitsplatz
+des Versicherten nicht mehr oder nur in veränderter Gestaltung
+vorhanden ist. Die Unfallversicherungsträger sollen zur Erfüllung der
+Aufgaben nach den Sätzen 2 und 3 einzeln oder gemeinsam
+tätigkeitsbezogene Expositionskataster erstellen. Grundlage für diese
+Kataster können die Ergebnisse aus systematischen Erhebungen, aus
+Ermittlungen in Einzelfällen sowie aus Forschungsvorhaben sein. Die
+Unfallversicherungsträger können außerdem Erhebungen an vergleichbaren
+Arbeitsplätzen durchführen.
+
+(4) Besteht für Versicherte, bei denen eine Berufskrankheit anerkannt
+wurde, die Gefahr, dass bei der Fortsetzung der versicherten Tätigkeit
+die Krankheit wiederauflebt oder sich verschlimmert und lässt sich
+diese Gefahr nicht durch andere geeignete Mittel beseitigen, haben die
+Unfallversicherungsträger darauf hinzuwirken, dass die Versicherten
+die gefährdende Tätigkeit unterlassen. Die Versicherten sind von den
+Unfallversicherungsträgern über die mit der Tätigkeit verbundenen
+Gefahren und mögliche Schutzmaßnahmen umfassend aufzuklären. Zur
+Verhütung einer Gefahr nach Satz 1 sind die Versicherten verpflichtet,
+an individualpräventiven Maßnahmen der Unfallversicherungsträger
+teilzunehmen und an Maßnahmen zur Verhaltensprävention mitzuwirken;
+die §§ 60 bis 65a des Ersten Buches gelten entsprechend. Pflichten der
+Unternehmer und Versicherten nach dem Zweiten Kapitel und nach
+arbeitsschutzrechtlichen Vorschriften bleiben hiervon unberührt.
+Kommen Versicherte ihrer Teilnahme- oder Mitwirkungspflicht nach Satz
+3 nicht nach, können die Unfallversicherungsträger Leistungen zur
+Teilhabe am Arbeitsleben oder die Leistung einer danach erstmals
+festzusetzenden Rente wegen Minderung der Erwerbsfähigkeit oder den
+Anteil einer Rente, der auf eine danach eingetretene wesentliche
+Änderung im Sinne des § 73 Absatz 3 zurückgeht, bis zur Nachholung der
+Teilnahme oder Mitwirkung ganz oder teilweise versagen. Dies setzt
+voraus, dass infolge der fehlenden Teilnahme oder Mitwirkung der
+Versicherten die Teilhabeleistungen erforderlich geworden sind oder
+die Erwerbsminderung oder die wesentliche Änderung eingetreten ist; §
+66 Absatz 3 und § 67 des Ersten Buches gelten entsprechend.
 
 (5) Soweit Vorschriften über Leistungen auf den Zeitpunkt des
 Versicherungsfalls abstellen, ist bei Berufskrankheiten auf den Beginn
@@ -699,22 +808,28 @@ eigene Forschung oder durch Beteiligung an fremden Forschungsvorhaben
 dazu beitragen, den Ursachenzusammenhang zwischen
 Erkrankungshäufigkeiten in einer bestimmten Personengruppe und
 gesundheitsschädlichen Einwirkungen im Zusammenhang mit der
-versicherten Tätigkeit aufzuklären.
+versicherten Tätigkeit aufzuklären. Die Verbände der
+Unfallversicherungsträger veröffentlichen jährlich einen gemeinsamen
+Bericht über ihre Forschungsaktivitäten und die Forschungsaktivitäten
+der Träger der gesetzlichen Unfallversicherung. Der Bericht erstreckt
+sich auf die Themen der Forschungsvorhaben, die Höhe der aufgewendeten
+Mittel sowie die Zuwendungsempfänger und Forschungsnehmer externer
+Projekte.
 
 (9) Die für den medizinischen Arbeitsschutz zuständigen Stellen dürfen
 zur Feststellung von Berufskrankheiten sowie von Krankheiten, die nach
-Absatz 2 wie Berufskrankheiten zu entschädigen sind, Daten erheben,
-verarbeiten oder nutzen sowie zur Vorbereitung von Gutachten
-Versicherte untersuchen, soweit dies im Rahmen ihrer Mitwirkung nach
-Absatz 6 Nr. 2 erforderlich ist; sie dürfen diese Daten insbesondere
-an den zuständigen Unfallversicherungsträger übermitteln. Die
-erhobenen Daten dürfen auch zur Verhütung von Arbeitsunfällen,
-Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren verarbeitet
-oder genutzt werden. Soweit die in Satz 1 genannten Stellen andere
-Ärzte mit der Vornahme von Untersuchungen beauftragen, ist die
-Übermittlung von Daten zwischen diesen Stellen und den beauftragten
-Ärzten zulässig, soweit dies im Rahmen des Untersuchungsauftrages
-erforderlich ist.
+Absatz 2 wie Berufskrankheiten zu entschädigen sind, Daten verarbeiten
+sowie zur Vorbereitung von Gutachten Versicherte untersuchen, soweit
+dies im Rahmen ihrer Mitwirkung nach Absatz 6 Nr. 2 erforderlich ist;
+sie dürfen diese Daten insbesondere an den zuständigen
+Unfallversicherungsträger übermitteln. Die erhobenen Daten dürfen auch
+zur Verhütung von Arbeitsunfällen, Berufskrankheiten und
+arbeitsbedingten Gesundheitsgefahren gespeichert, verändert, genutzt,
+übermittelt oder in der Verarbeitung eingeschränkt werden. Soweit die
+in Satz 1 genannten Stellen andere Ärzte mit der Vornahme von
+Untersuchungen beauftragen, ist die Übermittlung von Daten zwischen
+diesen Stellen und den beauftragten Ärzten zulässig, soweit dies im
+Rahmen des Untersuchungsauftrages erforderlich ist.
 
 
 #### § 10 Erweiterung in der See- und Binnenschiffahrt
@@ -735,13 +850,8 @@ Unfälle infolge
 
 
 (2) In Unternehmen der Seefahrt gilt als versicherte Tätigkeit auch
-die freie Rückbeförderung nach dem Seemannsgesetz oder tariflichen
-Vorschriften oder die Mitnahme auf deutschen Seeschiffen nach dem
-Gesetz betreffend die Verpflichtung der Kauffahrteischiffe zur
-Mitnahme heimzuschaffender Seeleute in der im Bundesgesetzblatt Teil
-III, Gliederungsnummer 9510-3, veröffentlichten bereinigten Fassung,
-zuletzt geändert durch Artikel 278 des Einführungsgesetzes zum
-Strafgesetzbuch vom 2. März 1974 (BGBl. I S. 469).
+die freie Rückbeförderung nach dem Seearbeitsgesetz oder tariflichen
+Vorschriften.
 
 
 #### § 11 Mittelbare Folgen eines Versicherungsfalls
@@ -785,6 +895,28 @@ verursacht worden ist, die generell geeignet sind, eine
 Berufskrankheit der Mutter zu verursachen.
 
 
+#### § 12a Gesundheitsschaden im Zusammenhang mit der Spende von Blut oder körpereigenen Organen, Organteilen oder Gewebe
+
+(1) Als Versicherungsfall im Sinne des § 7 Absatz 1 gilt bei
+Versicherten nach § 2 Absatz 1 Nummer 13 Buchstabe b auch der
+Gesundheitsschaden, der über die durch die Blut-, Organ-, Organteil-
+oder Gewebeentnahme regelmäßig entstehenden Beeinträchtigungen
+hinausgeht und in ursächlichem Zusammenhang mit der Spende steht.
+Werden dadurch Nachbehandlungen erforderlich oder treten Spätschäden
+auf, die als Aus- oder Nachwirkungen der Spende oder des aus der
+Spende resultierenden erhöhten Gesundheitsrisikos anzusehen sind, wird
+vermutet, dass diese hierdurch verursacht worden sind. Dies gilt
+nicht, wenn offenkundig ist, dass der Gesundheitsschaden nicht im
+ursächlichen Zusammenhang mit der Spende steht; eine Obduktion zum
+Zwecke einer solchen Feststellung darf nicht gefordert werden.
+
+(2) Absatz 1 gilt auch bei Gesundheitsschäden im Zusammenhang mit den
+für die Spende von Blut oder körpereigenen Organen, Organteilen oder
+Gewebe erforderlichen Voruntersuchungen sowie Nachsorgemaßnahmen. Satz
+1 findet auch Anwendung, wenn es nach der Voruntersuchung nicht zur
+Spende kommt.
+
+
 #### § 13 Sachschäden bei Hilfeleistungen
 
 Den nach § 2 Abs. 1 Nr. 11 Buchstabe a, Nr. 12 und Nr. 13 Buchstabe a
@@ -797,9 +929,10 @@ Versicherten nach § 2 Abs. 1 Nr. 12 steht ein Ersatz von Sachschäden
 nur dann zu, wenn der Einsatz der infolge der versicherten Tätigkeit
 beschädigten Sache im Interesse des Hilfsunternehmens erfolgte, für
 das die Tätigkeit erbracht wurde. Die Sätze 1 und 2 finden keine
-Anwendung bei Teilnahme an Ausbildungsveranstaltungen nach § 2 Abs. 1
-Nr. 12 sowie bei Versicherungsfällen nach § 8 Abs. 2. § 116 des
-Zehnten Buches gilt entsprechend.
+Anwendung bei Teilnahme an Ausbildungsveranstaltungen einschließlich
+der satzungsmäßigen Veranstaltungen, die der Nachwuchsförderung
+dienen, nach § 2 Abs. 1 Nr. 12 sowie bei Versicherungsfällen nach § 8
+Abs. 2. § 116 des Zehnten Buches gilt entsprechend.
 
 
 ## Zweites Kapitel - Prävention
@@ -820,7 +953,8 @@ die Unfallversicherungsträger mit den Krankenkassen zusammen.
 (3) Die Unfallversicherungsträger nehmen an der Entwicklung, Umsetzung
 und Fortschreibung der gemeinsamen deutschen Arbeitsschutzstrategie
 gemäß den Bestimmungen des Fünften Abschnitts des
-Arbeitsschutzgesetzes teil.
+Arbeitsschutzgesetzes und der nationalen Präventionsstrategie nach §§
+20d bis 20f des Fünften Buches teil.
 
 (4) Die Deutsche Gesetzliche Unfallversicherung e. V. unterstützt die
 Unfallversicherungsträger bei der Erfüllung ihrer Präventionsaufgaben
@@ -841,14 +975,14 @@ nach Absatz 1. Sie nimmt insbesondere folgende Aufgaben wahr:
 ### § 15 Unfallverhütungsvorschriften
 
 (1) Die Unfallversicherungsträger können unter Mitwirkung der
-Deutschen Gesetzlichen Unfallversicherung
-e. V.              als autonomes Recht Unfallverhütungsvorschriften
-über Maßnahmen zur Verhütung von Arbeitsunfällen, Berufskrankheiten
-und arbeitsbedingten Gesundheitsgefahren oder für eine wirksame Erste
-Hilfe erlassen, soweit dies zur Prävention geeignet und erforderlich
-ist und staatliche Arbeitsschutzvorschriften hierüber keine Regelung
-treffen; in diesem Rahmen können Unfallverhütungsvorschriften erlassen
-werden über
+Deutschen Gesetzlichen Unfallversicherung e. V. als autonomes Recht
+Unfallverhütungsvorschriften über Maßnahmen zur Verhütung von
+Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten
+Gesundheitsgefahren oder für eine wirksame Erste Hilfe erlassen,
+soweit dies zur Prävention geeignet und erforderlich ist und
+staatliche Arbeitsschutzvorschriften hierüber keine Regelung treffen;
+in diesem Rahmen können Unfallverhütungsvorschriften erlassen werden
+über
 
 1.  Einrichtungen, Anordnungen und Maßnahmen, welche die Unternehmer zur
     Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten
@@ -893,14 +1027,14 @@ Unfallversicherungsträger veranlaßt werden können. Die Deutsche
 Gesetzliche Unfallversicherung e. V. wirkt beim Erlass von
 Unfallverhütungsvorschriften auf Rechtseinheitlichkeit hin.
 
-(1a) Für die landwirtschaftlichen Berufsgenossenschaften ist Absatz 1
-mit der Maßgabe anzuwenden, dass sich der Erlass der
-Unfallverhütungsvorschriften nach § 143e Abs. 4 Nr. 4 richtet.
+(1a) In der landwirtschaftlichen Unfallversicherung ist Absatz 1 mit
+der Maßgabe anzuwenden, dass Unfallverhütungsvorschriften von der
+landwirtschaftlichen Berufsgenossenschaft erlassen werden.
 
 (2) Soweit die Unfallversicherungsträger Vorschriften nach Absatz 1
 Satz 1 Nr. 3 erlassen, können sie zu den dort genannten Zwecken auch
-die Erhebung, Verarbeitung und Nutzung von folgenden Daten über die
-untersuchten Personen durch den Unternehmer vorsehen:
+die Verarbeitung von folgenden Daten über die untersuchten Personen
+durch den Unternehmer vorsehen:
 
 1.  Vor- und Familienname, Geburtsdatum sowie Geschlecht,
 
@@ -1161,9 +1295,8 @@ für den Arbeitsschutz zuständigen Behörden Vereinbarungen über
 abzuschließen und deren Zielerreichung mit den von der Nationalen
 Arbeitsschutzkonferenz nach § 20a Abs. 2 Nr. 3 des
 Arbeitsschutzgesetzes bestimmten Kennziffern zu evaluieren. Die
-landwirtschaftlichen Berufsgenossenschaften wirken an der Tätigkeit
-der gemeinsamen landesbezogenen Stelle mit. § 143e Abs. 3 Satz 2 Nr. 3
-bleibt unberührt.
+landwirtschaftliche Berufsgenossenschaft wirkt an der Tätigkeit der
+gemeinsamen landesbezogenen Stelle mit.
 
 (3) Durch allgemeine Verwaltungsvorschriften, die der Zustimmung des
 Bundesrates bedürfen, wird geregelt das Zusammenwirken
@@ -1184,13 +1317,13 @@ Bundesrates bedürfen, wird geregelt das Zusammenwirken
 
 Die Verwaltungsvorschriften nach Satz 1 Nr. 1 werden vom
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
-Bundesministerium des Innern, die Verwaltungsvorschriften nach Satz 1
-Nr. 2 und 3 werden von der Bundesregierung erlassen. Die
-Verwaltungsvorschriften nach Satz 1 Nr. 2 werden erst erlassen, wenn
-innerhalb einer vom Bundesministerium für Arbeit und Soziales
-gesetzten angemessenen Frist nicht für jedes Land eine Vereinbarung
-nach Absatz 2 Satz 3 abgeschlossen oder eine unzureichend gewordene
-Vereinbarung nicht geändert worden ist.
+Bundesministerium des Innern, für Bau und Heimat, die
+Verwaltungsvorschriften nach Satz 1 Nr. 2 und 3 werden von der
+Bundesregierung erlassen. Die Verwaltungsvorschriften nach Satz 1 Nr.
+2 werden erst erlassen, wenn innerhalb einer vom Bundesministerium für
+Arbeit und Soziales gesetzten angemessenen Frist nicht für jedes Land
+eine Vereinbarung nach Absatz 2 Satz 3 abgeschlossen oder eine
+unzureichend gewordene Vereinbarung nicht geändert worden ist.
 
 
 ### § 21 Verantwortung des Unternehmers, Mitwirkung der Versicherten
@@ -1323,7 +1456,7 @@ obersten Verwaltungsbehörden der Länder ein.
 
 
 
-### Erster Abschnitt - Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen, Pflege, Geldleistungen
+### Erster Abschnitt - Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben, Leistungen zur Sozialen Teilhabe und ergänzende Leistungen, Pflege, Geldleistungen
 
 
 
@@ -1336,13 +1469,11 @@ obersten Verwaltungsbehörden der Länder ein.
 (1) Versicherte haben nach Maßgabe der folgenden Vorschriften und
 unter Beachtung des Neunten Buches Anspruch auf Heilbehandlung
 einschließlich Leistungen zur medizinischen Rehabilitation, auf
-Leistungen zur Teilhabe am Arbeitsleben und am Leben in der
-Gemeinschaft, auf ergänzende Leistungen, auf Leistungen bei
-Pflegebedürftigkeit sowie auf Geldleistungen. Sie können einen
-Anspruch auf Ausführung der Leistungen durch ein Persönliches Budget
-nach § 17 Abs. 2 bis 4 des Neunten Buches in Verbindung mit der
-Budgetverordnung und § 159 des Neunten Buches haben; dies gilt im
-Rahmen des Anspruches auf Heilbehandlung nur für die Leistungen zur
+Leistungen zur Teilhabe am Arbeitsleben und zur Sozialen Teilhabe, auf
+ergänzende Leistungen, auf Leistungen bei Pflegebedürftigkeit sowie
+auf Geldleistungen. Die Leistungen werden auf Antrag durch ein
+Persönliches Budget nach § 29 des Neunten Buches erbracht; dies gilt
+im Rahmen des Anspruchs auf Heilbehandlung nur für die Leistungen zur
 medizinischen Rehabilitation.
 
 (2) Der Unfallversicherungsträger hat mit allen geeigneten Mitteln
@@ -1364,8 +1495,7 @@ möglichst frühzeitig
 
 
 4.  ergänzende Leistungen zur Heilbehandlung und zu Leistungen zur
-    Teilhabe am Arbeitsleben und am Leben in der Gemeinschaft zu
-    erbringen,
+    Teilhabe am Arbeitsleben und zur Sozialen Teilhabe zu erbringen,
 
 
 5.  Leistungen bei Pflegebedürftigkeit zu erbringen.
@@ -1417,7 +1547,7 @@ geeignet und zumutbar sind, Pflegebedürftigkeit zu vermeiden, zu
 6.  Behandlung in Krankenhäusern und Rehabilitationseinrichtungen,
 
 
-7.  Leistungen zur medizinischen Rehabilitation nach § 26 Abs. 2 Nr 1 und
+7.  Leistungen zur medizinischen Rehabilitation nach § 42 Abs. 2 Nr 1 und
     3 bis 7 und Abs. 3 des Neunten Buches.
 
 
@@ -1463,7 +1593,9 @@ Fällen ein Arznei- oder Verbandmittel, dessen Preis den Festbetrag
 Verordnung ergebende Übernahme der Mehrkosten hinzuweisen.
 
 (2) Die Rabattregelungen der §§ 130 und 130a des Fünften Buches gelten
-entsprechend.
+entsprechend. Die Erstattungsbeträge nach § 130b des Fünften Buches
+gelten auch für die Abrechnung mit den Trägern der gesetzlichen
+Unfallversicherung.
 
 
 ##### § 30 Heilmittel
@@ -1563,9 +1695,9 @@ unter Berücksichtigung der von den Unfallversicherungsträgern gemäß
 Absatz 1 Satz 2 und 3 getroffenen Festlegungen mit Wirkung für ihre
 Mitglieder Verträge über die Durchführung der Heilbehandlung, die
 Vergütung der Ärzte und Zahnärzte sowie die Art und Weise der
-Abrechnung. Dem Bundesbeauftragten für den Datenschutz ist rechtzeitig
-vor Abschluß Gelegenheit zur Stellungnahme zu geben, sofern in den
-Verträgen die Erhebung, Verarbeitung oder Nutzung von
+Abrechnung. Dem oder der Bundesbeauftragten für den Datenschutz und
+die Informationsfreiheit ist rechtzeitig vor Abschluß Gelegenheit zur
+Stellungnahme zu geben, sofern in den Verträgen die Verarbeitung von
 personenbezogenen Daten geregelt werden sollen.
 
 (4) Die Kassenärztlichen Bundesvereinigungen haben gegenüber den
@@ -1576,12 +1708,12 @@ und vertraglichen Erfordernissen entspricht.
 (5) Kommt ein Vertrag nach Absatz 3 ganz oder teilweise nicht
 zustande, setzt ein Schiedsamt mit der Mehrheit seiner Mitglieder
 innerhalb von drei Monaten den Vertragsinhalt fest. Wird ein Vertrag
-gekündigt, ist dies dem zuständigen Schiedsamt schriftlich
-mitzuteilen. Kommt bis zum Ablauf eines Vertrags ein neuer Vertrag
-nicht zustande, setzt ein Schiedsamt mit der Mehrheit seiner
-Mitglieder innerhalb von drei Monaten nach Vertragsablauf den neuen
-Inhalt fest. In diesem Fall gelten die Bestimmungen des bisherigen
-Vertrags bis zur Entscheidung des Schiedsamts vorläufig weiter.
+gekündigt, ist dies dem zuständigen Schiedsamt mitzuteilen. Kommt bis
+zum Ablauf eines Vertrags ein neuer Vertrag nicht zustande, setzt ein
+Schiedsamt mit der Mehrheit seiner Mitglieder innerhalb von drei
+Monaten nach Vertragsablauf den neuen Inhalt fest. In diesem Fall
+gelten die Bestimmungen des bisherigen Vertrags bis zur Entscheidung
+des Schiedsamts vorläufig weiter.
 
 (6) Die Verbände der Unfallversicherungsträger und die
 Kassenärztlichen Bundesvereinigungen bilden je ein Schiedsamt für die
@@ -1589,8 +1721,8 @@ medizinische und zahnmedizinische Versorgung. Das Schiedsamt besteht
 aus drei Vertretern der Kassenärztlichen Bundesvereinigungen und drei
 Vertretern der Verbände der Unfallversicherungsträger sowie einem
 unparteiischen Vorsitzenden und zwei weiteren unparteiischen
-Mitgliedern. § 89 Abs. 3 des Fünften Buches sowie die aufgrund des §
-89 Abs. 6 des Fünften Buches erlassenen Rechtsverordnungen gelten
+Mitgliedern. § 89 Absatz 6 des Fünften Buches sowie die aufgrund des §
+89 Absatz 11 des Fünften Buches erlassenen Rechtsverordnungen gelten
 entsprechend.
 
 (7) Die Aufsicht über die Geschäftsführung der Schiedsämter nach
@@ -1601,7 +1733,7 @@ anderen als den in Absatz 3 genannten Stellen, die Heilbehandlung
 durchführen oder an ihrer Durchführung beteiligt sind, werden durch
 Verträge geregelt. Soweit die Stellen Leistungen zur medizinischen
 Rehabilitation ausführen oder an ihrer Ausführung beteiligt sind,
-werden die Beziehungen durch Verträge nach § 21 des Neunten Buches
+werden die Beziehungen durch Verträge nach § 38 des Neunten Buches
 geregelt.
 
 
@@ -1612,10 +1744,14 @@ geregelt.
 ##### § 35 Leistungen zur Teilhabe am Arbeitsleben
 
 (1) Die Unfallversicherungsträger erbringen die Leistungen zur
-Teilhabe am Arbeitsleben nach den §§ 33 bis 38a des Neunten Buches
-sowie in Werkstätten für behinderte Menschen nach den §§ 40 und 41 des
-Neunten Buches, soweit in den folgenden Absätzen nichts Abweichendes
-bestimmt ist.
+Teilhabe am Arbeitsleben nach den §§ 49 bis 55 des Neunten Buches, in
+Werkstätten für behinderte Menschen nach den §§ 57 und 58 des Neunten
+Buches, bei anderen Leistungsanbietern nach § 60 des Neunten Buches,
+als Budget für Arbeit nach § 61 des Neunten Buches sowie als Budget
+für Ausbildung nach § 61a des Neunten Buches. Das Budget für
+Ausbildung wird nur für die Erstausbildung erbracht. Ein Anspruch auf
+Übergangsgeld nach § 49 besteht während der Erbringung des Budgets für
+Ausbildung nicht.
 
 (2) Die Leistungen zur Teilhabe am Arbeitsleben umfassen auch Hilfen
 zu einer angemessenen Schulbildung einschließlich der Vorbereitung
@@ -1637,16 +1773,15 @@ erbracht, soweit Belange des Vollzugs nicht entgegenstehen.
 
 
 
-#### Vierter Unterabschnitt - Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen
+#### Vierter Unterabschnitt - Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
 
 
 
-##### § 39 Leistungen zur Teilhabe am Leben in der Gemeinschaft und ergänzende Leistungen
+##### § 39 Leistungen zur Sozialen Teilhabe und ergänzende Leistungen
 
-(1) Neben den in § 44 Abs. 1 Nr. 2 bis 6 und Abs. 2 sowie in den §§ 53
-und 54 des Neunten Buches genannten Leistungen umfassen die Leistungen
-zur Teilhabe am Leben in der Gemeinschaft und die ergänzenden
-Leistungen
+(1) Neben den in § 64 Abs. 1 Nr. 2 bis 6 und Abs. 2 sowie in den §§ 73
+und 74 des Neunten Buches genannten Leistungen umfassen die Leistungen
+zur Sozialen Teilhabe und die ergänzenden Leistungen
 
 1.  Kraftfahrzeughilfe,
 
@@ -1707,16 +1842,16 @@ gemeinsame Richtlinien.
 
 ##### § 42 Haushaltshilfe und Kinderbetreuungskosten
 
-Haushaltshilfe und Leistungen zur Kinderbetreuung nach § 54 Abs. 1 bis
-3 des Neunten Buches werden auch bei Leistungen zur Teilhabe am Leben
-in der Gemeinschaft erbracht.
+Haushaltshilfe und Leistungen zur Kinderbetreuung nach § 74 Abs. 1 bis
+3 des Neunten Buches werden auch bei Leistungen zur Sozialen Teilhabe
+erbracht.
 
 
 ##### § 43 Reisekosten
 
 (1) Die im Zusammenhang mit der Ausführung von Leistungen zur
 medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben
-erforderlichen Reisekosten werden nach § 53 des Neunten Buches
+erforderlichen Reisekosten werden nach § 73 des Neunten Buches
 übernommen. Im Übrigen werden Reisekosten zur Ausführung der
 Heilbehandlung nach den Absätzen 2 bis 5 übernommen.
 
@@ -1812,11 +1947,11 @@ aktuellen Rentenwertes fest.
 
 2.  unmittelbar vor Beginn der Arbeitsunfähigkeit oder der Heilbehandlung
     Anspruch auf Arbeitsentgelt, Arbeitseinkommen, Krankengeld,
-    Verletztengeld, Versorgungskrankengeld, Übergangsgeld, Unterhaltsgeld,
-    Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes
-    Arbeitslosengeld II oder nicht nur Leistungen für Erstausstattungen
-    für Bekleidung bei Schwangerschaft und Geburt nach dem Zweiten Buch
-    oder Mutterschaftsgeld hatten.
+    Pflegeunterstützungsgeld, Verletztengeld, Versorgungskrankengeld,
+    Übergangsgeld, Unterhaltsgeld, Kurzarbeitergeld, Arbeitslosengeld,
+    nicht nur darlehensweise gewährtes Arbeitslosengeld II oder nicht nur
+    Leistungen für Erstausstattungen für Bekleidung bei Schwangerschaft
+    und Geburt nach dem Zweiten Buch oder Mutterschaftsgeld hatten.
 
 
 
@@ -1854,7 +1989,21 @@ sind.
 
 (4) Im Fall der Beaufsichtigung, Betreuung oder Pflege eines durch
 einen Versicherungsfall verletzten Kindes gilt § 45 des Fünften Buches
-entsprechend.
+entsprechend mit der Maßgabe, dass
+
+1.  das Verletztengeld 100 Prozent des ausgefallenen Nettoarbeitsentgelts
+    beträgt und
+
+
+2.  das Arbeitsentgelt bis zu einem Betrag in Höhe des 450. Teils des
+    Höchstjahresarbeitsverdienstes zu berücksichtigen ist.
+
+
+
+Erfolgt die Berechnung des Verletztengeldes aus Arbeitseinkommen,
+beträgt dies 80 Prozent des erzielten regelmäßigen Arbeitseinkommens
+bis zu einem Betrag in Höhe des 450. Teils des
+Höchstjahresarbeitsverdienstes.
 
 
 ##### § 46 Beginn und Ende des Verletztengeldes
@@ -1957,9 +2106,10 @@ Verletztengeld in Höhe des Betrages des Arbeitslosengeldes II.
 erhalten Verletztengeld in Höhe dieses Betrages.
 
 (4) Bei Versicherten, die unmittelbar vor dem Versicherungsfall
-Krankengeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld
-bezogen haben, wird bei der Berechnung des Verletztengeldes von dem
-bisher zugrunde gelegten Regelentgelt ausgegangen.
+Krankengeld, Pflegeunterstützungsgeld, Verletztengeld,
+Versorgungskrankengeld oder Übergangsgeld bezogen haben, wird bei der
+Berechnung des Verletztengeldes von dem bisher zugrunde gelegten
+Regelentgelt ausgegangen.
 
 (5) Abweichend von Absatz 1 erhalten Versicherte, die den
 Versicherungsfall infolge einer Tätigkeit als Unternehmer,
@@ -1978,10 +2128,39 @@ Versicherten günstiger ist.
 
 (7) (weggefallen)
 
-(8) Die Regelung des § 90 Abs. 1 und 3 über die Neufestsetzung des
-Jahresarbeitsverdienstes nach voraussichtlicher Beendigung einer
-Schul- oder Berufsausbildung oder nach tariflichen Berufs- oder
-Altersstufen gilt für das Verletztengeld entsprechend.
+(8) Die Regelungen der §§ 90 und 91 über die Neufestsetzung des
+Jahresarbeitsverdienstes nach Altersstufen oder nach der Schul- oder
+Berufsausbildung gelten für das Verletztengeld entsprechend.
+
+
+##### § 47a Beitragszahlung der Unfallversicherungsträger an berufsständische Versorgungseinrichtungen und private Krankenversicherungen
+
+(1) Für Bezieher von Verletztengeld, die wegen einer
+Pflichtmitgliedschaft in einer berufsständischen
+Versorgungseinrichtung von der Versicherungspflicht in der
+gesetzlichen Rentenversicherung befreit sind, gilt § 47a Absatz 1 des
+Fünftes Buches entsprechend.
+
+(2) Die Unfallversicherungsträger haben der zuständigen
+berufsständischen Versorgungseinrichtung den Beginn und das Ende der
+Beitragszahlung sowie die Höhe der der Beitragsberechnung zugrunde
+liegenden beitragspflichtigen Einnahmen und den zu zahlenden Beitrag
+für den Versicherten zu übermitteln. Das Nähere zum Verfahren regeln
+die Deutsche Gesetzliche Unfallversicherung e. V., die
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau und die
+Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen bis zum
+31\. Dezember 2017 in gemeinsamen Grundsätzen.
+
+(3) Bezieher von Verletztengeld, die nach § 257 Absatz 2 des Fünften
+Buches und § 61 Absatz 2 des Elften Buches als Beschäftigte Anspruch
+auf einen Zuschuss zu dem Krankenversicherungsbeitrag und
+Pflegeversicherungsbeitrag hatten, die an ein privates
+Krankenversicherungsunternehmen zu zahlen sind, erhalten einen
+Zuschuss zu ihrem Krankenversicherungsbeitrag und
+Pflegeversicherungsbeitrag. Als Zuschuss ist der Betrag zu zahlen, der
+als Beitrag bei Krankenversicherungspflicht oder
+Pflegeversicherungspflicht zu zahlen wäre, höchstens jedoch der
+Betrag, der an das private Versicherungsunternehmen zu zahlen ist.
 
 
 ##### § 48 Verletztengeld bei Wiedererkrankung
@@ -2000,15 +2179,14 @@ Versicherungsfalls Leistungen zur Teilhabe am Arbeitsleben erhalten.
 
 ##### § 50 Höhe und Berechnung des Übergangsgeldes
 
-Höhe und Berechnung des Übergangsgeldes bestimmen sich nach den §§ 46
-bis 51 des Neunten Buches, soweit dieses Buch nichts Abweichendes
+Höhe und Berechnung des Übergangsgeldes bestimmen sich nach den §§ 66
+bis 71 des Neunten Buches, soweit dieses Buch nichts Abweichendes
 bestimmt; im Übrigen gelten die Vorschriften für das Verletztengeld
 entsprechend.
 
 
-##### § 51
+##### § 51 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 52 Anrechnung von Einkommen auf Verletzten- und Übergangsgeld
@@ -2024,9 +2202,9 @@ erzielten Einkommen angerechnet
 
 2.  Mutterschaftsgeld, Versorgungskrankengeld, Unterhaltsgeld,
     Kurzarbeitergeld, Arbeitslosengeld, nicht nur darlehensweise gewährtes
-    Arbeitslosengeld II; dies gilt auch wenn Ansprüche auf Leistungen nach
-    dem Dritten Buch wegen einer Sperrzeit ruhen oder das Arbeitslosengeld
-    II nach § 31 des Zweiten Buches abgesenkt worden ist.
+    Arbeitslosengeld II; dies gilt auch, wenn Ansprüche auf Leistungen
+    nach dem Dritten Buch wegen einer Sperrzeit ruhen oder der
+    Auszahlungsanspruch auf Arbeitslosengeld II gemindert ist.
 
 
 
@@ -2036,22 +2214,22 @@ erzielten Einkommen angerechnet
 
 
 
-##### § 53 Vorrang der Krankenfürsorge der Reeder
+##### § 53 Vorrang der medizinischen Betreuung durch die Reeder
 
 (1) Der Anspruch von Versicherten in der Seefahrt auf Leistungen nach
 diesem Abschnitt ruht, soweit und solange die Reeder ihre
-Verpflichtung zur Krankenfürsorge nach dem Seemannsgesetz erfüllen.
-Kommen die Reeder der Verpflichtung nicht nach, kann der
+Verpflichtung zur medizinischen Betreuung nach dem Seearbeitsgesetz
+erfüllen. Kommen die Reeder der Verpflichtung nicht nach, kann der
 Unfallversicherungsträger von den Reedern die Erstattung in Höhe der
 von ihm erbrachten Leistungen verlangen.
 
-(2) Endet die Verpflichtung der Reeder zur Krankenfürsorge, haben sie
-hinsichtlich der Folgen des Versicherungsfalls die Krankenfürsorge auf
-Kosten des Unfallversicherungsträgers fortzusetzen, soweit dieser sie
-dazu beauftragt.
+(2) Endet die Verpflichtung der Reeder zur medizinischen Betreuung,
+haben sie hinsichtlich der Folgen des Versicherungsfalls die
+medizinische Betreuung auf Kosten des Unfallversicherungsträgers
+fortzusetzen, soweit dieser sie dazu beauftragt.
 
 
-#### Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften
+#### Achter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
 
 
 
@@ -2111,8 +2289,8 @@ gilt entsprechend.
 (4) Leistungen nach den Absätzen 1 bis 3 müssen wirksam und
 wirtschaftlich sein; sie dürfen das Maß des Notwendigen nicht
 übersteigen. Leistungen, die diese Voraussetzungen nicht erfüllen,
-können nicht beansprucht und dürfen von den landwirtschaftlichen
-Berufsgenossenschaften nicht bewilligt werden.
+können nicht beansprucht und dürfen von der landwirtschaftlichen
+Berufsgenossenschaft nicht bewilligt werden.
 
 (5) (weggefallen)
 
@@ -2225,7 +2403,7 @@ Rente um 10 vom Hundert.
 Solange Versicherte infolge des Versicherungsfalls ohne Anspruch auf
 Arbeitsentgelt oder Arbeitseinkommen sind und die Rente zusammen mit
 dem Arbeitslosengeld oder dem Arbeitslosengeld II nicht den sich aus §
-46 Abs. 1 des Neunten Buches ergebenden Betrag des Übergangsgeldes
+66 Abs. 1 des Neunten Buches ergebenden Betrag des Übergangsgeldes
 erreicht, wird die Rente längstens für zwei Jahre nach ihrem Beginn um
 den Unterschiedsbetrag erhöht. Der Unterschiedsbetrag wird bei dem
 Arbeitslosengeld II nicht als Einkommen berücksichtigt. Satz 1 gilt
@@ -2429,7 +2607,7 @@ angerechnet.
 (4) Für die Einkommensanrechnung ist bei Anspruch auf mehrere Renten
 folgende Rangfolge maßgebend:
 
-1.  Waisenrente,
+1.  (weggefallen)
 
 
 2.  Witwenrente oder Witwerrente,
@@ -2461,9 +2639,7 @@ besonderen Umständen des Einzelfalls die Annahme nicht gerechtfertigt
 ist, daß es der alleinige oder überwiegende Zweck der Heirat war,
 einen Anspruch auf Hinterbliebenenversorgung zu begründen.
 
-(7) Lebenspartner haben keinen Anspruch, wenn Witwen oder Witwer, die
-im Zeitpunkt des Todes mit dem Versicherten verheiratet waren,
-Anspruch auf eine Witwen- oder Witwerrente haben.
+(7) (weggefallen)
 
 
 ##### § 66 Witwen- und Witwerrente an frühere Ehegatten; mehrere Berechtigte
@@ -2531,9 +2707,8 @@ zahlen ist.
         des Buchstabens c liegt, oder
 
 
-    c)  ein freiwilliges soziales oder ein freiwilliges ökologisches Jahr im
-        Sinne des Jugendfreiwilligendienstegesetzes oder einen Dienst nach dem
-        Bundesfreiwilligendienstgesetz leistet oder
+    c)  einen freiwilligen Dienst im Sinne des § 32 Absatz 4 Satz 1 Nummer 2
+        Buchstabe d des Einkommensteuergesetzes leistet oder
 
 
     d)  wegen körperlicher, geistiger oder seelischer Behinderung außerstande
@@ -2577,15 +2752,7 @@ als Kind angenommen wird.
 
 
 
-(2) Einkommen (§§ 18a bis 18e des Vierten Buches) einer über 18 Jahre
-alten Waise, das mit der Waisenrente zusammentrifft, wird auf die
-Waisenrente angerechnet. Anrechenbar ist das Einkommen, das das
-17,6fache des aktuellen Rentenwerts in der gesetzlichen
-Rentenversicherung übersteigt. Das nicht anrechenbare Einkommen erhöht
-sich um das 5,6fache des aktuellen Rentenwerts für jedes
-waisenrentenberechtigte Kind der Berechtigten. Von dem danach
-verbleibenden anrechenbaren Einkommen werden 40 vom Hundert
-angerechnet.
+(2) (weggefallen)
 
 (3) Liegen bei einem Kind die Voraussetzungen für mehrere Waisenrenten
 aus der Unfallversicherung vor, wird nur die höchste Rente gezahlt und
@@ -2635,11 +2802,11 @@ Jahresarbeitsverdienstes nicht übersteigen, sonst werden sie gekürzt,
 und zwar bei Witwen und Witwern, früheren Ehegatten und Waisen nach
 dem Verhältnis ihrer Höhe. Bei Anwendung von Satz 1 wird von der nach
 § 65 Abs. 2 Nr. 2 und 3 oder § 68 Abs. 1 berechneten Rente
-ausgegangen; anschließend wird § 65 Abs. 3 oder § 68 Abs. 2
-angewendet. § 65 Abs. 2 Nr. 1 bleibt unberührt. Verwandte der
-aufsteigenden Linie, Stief- oder Pflegeeltern sowie Pflegekinder haben
-nur Anspruch, soweit Witwen und Witwer, frühere Ehegatten oder Waisen
-den Höchstbetrag nicht ausschöpfen.
+ausgegangen; anschließend wird § 65 Abs. 3 angewendet. § 65 Abs. 2 Nr.
+1 bleibt unberührt. Verwandte der aufsteigenden Linie, Stief- oder
+Pflegeeltern sowie Pflegekinder haben nur Anspruch, soweit Witwen und
+Witwer, frühere Ehegatten oder Waisen den Höchstbetrag nicht
+ausschöpfen.
 
 (2) Sind für die Hinterbliebenen 80 vom Hundert des
 Jahresarbeitsverdienstes festgestellt und tritt später ein neuer
@@ -2900,7 +3067,7 @@ Witwen- und Witwerrente an frühere Ehegatten.
 Witwen- oder Witwerrente an Lebenspartner.
 
 
-#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften
+#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung
 
 
 
@@ -3004,51 +3171,56 @@ schädigende versicherte Tätigkeit aufgegeben worden ist.
 
 ##### § 85 Mindest- und Höchstjahresarbeitsverdienst
 
-(1) Der Jahresarbeitsverdienst beträgt mindestens
+(1) Der Jahresarbeitsverdienst beträgt für Versicherte, die im
+Zeitpunkt des Versicherungsfalls das 18. Lebensjahr vollendet haben,
+mindestens 60 Prozent der im Zeitpunkt des Versicherungsfalls
+maßgebenden Bezugsgröße.
 
-1.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das 15., aber
-    noch nicht das 18. Lebensjahr vollendet haben, 40 vom Hundert,
+(1a) Der Jahresarbeitsverdienst beträgt mindestens:
+
+1.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das sechste
+    Lebensjahr nicht vollendet haben, 25 Prozent,
 
 
-2.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das 18.
-    Lebensjahr vollendet haben, 60 vom Hundert
+2.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das sechste,
+    aber nicht das 15. Lebensjahr vollendet haben, 33
+    1                   /
+    3                    Prozent,
+
+
+3.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das 15., aber
+    noch nicht das 18. Lebensjahr vollendet haben, 40 Prozent,
+
+
+4.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das 25., aber
+    noch nicht das 30. Lebensjahr vollendet haben, 75 Prozent
 
 
 
-der im Zeitpunkt des Versicherungsfalls maßgebenden Bezugsgröße. Satz
-1 findet keine Anwendung auf Versicherte nach § 3 Abs. 1 Nr. 3.
+der im Zeitpunkt des Versicherungsfalls maßgebenden Bezugsgröße.
+
+(1b) Die Absätze 1 und 1a finden keine Anwendung auf Versicherte nach
+§ 3 Absatz 1 Nummer 3.
 
 (2) Der Jahresarbeitsverdienst beträgt höchstens das Zweifache der im
 Zeitpunkt des Versicherungsfalls maßgebenden Bezugsgröße. Die Satzung
 kann eine höhere Obergrenze bestimmen.
 
 
-##### § 86 Jahresarbeitsverdienst für Kinder
+##### § 86 (weggefallen)
 
-Der Jahresarbeitsverdienst beträgt
-
-1.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das sechste
-    Lebensjahr nicht vollendet haben, 25 vom Hundert,
-
-
-2.  für Versicherte, die im Zeitpunkt des Versicherungsfalls das sechste,
-    aber nicht das 15. Lebensjahr vollendet haben, 33 1/3 vom Hundert
-
-
-
-der im Zeitpunkt des Versicherungsfalls maßgebenden Bezugsgröße.
 
 
 ##### § 87 Jahresarbeitsverdienst nach billigem Ermessen
 
 Ist ein nach der Regelberechnung, nach den Vorschriften bei
-Berufskrankheiten, den Vorschriften für Kinder oder nach der Regelung
-über den Mindestjahresarbeitsverdienst festgesetzter
-Jahresarbeitsverdienst in erheblichem Maße unbillig, wird er nach
-billigem Ermessen im Rahmen von Mindest- und
-Höchstjahresarbeitsverdienst festgesetzt. Hierbei werden insbesondere
-die Fähigkeiten, die Ausbildung, die Lebensstellung und die Tätigkeit
-der Versicherten im Zeitpunkt des Versicherungsfalls berücksichtigt.
+Berufskrankheiten oder nach der Regelung über den
+Mindestjahresarbeitsverdienst festgesetzter Jahresarbeitsverdienst in
+erheblichem Maße unbillig, wird er nach billigem Ermessen im Rahmen
+von Mindest- und Höchstjahresarbeitsverdienst festgesetzt. Hierbei
+werden insbesondere die Fähigkeiten, die Ausbildung, die
+Lebensstellung und die Tätigkeit der Versicherten im Zeitpunkt des
+Versicherungsfalls berücksichtigt.
 
 
 ##### § 88 Erhöhung des Jahresarbeitsverdienstes für Hinterbliebene
@@ -3077,71 +3249,84 @@ angepaßt.
 
 
 
-##### § 90 Neufestsetzung nach voraussichtlicher Schul- oder Berufsausbildung oder Altersstufen
+##### § 90 Neufestsetzung nach Altersstufen
 
-(1) Tritt der Versicherungsfall vor Beginn der Schulausbildung oder
-während einer Schul- oder Berufsausbildung der Versicherten ein, wird,
-wenn es für die Versicherten günstiger ist, der Jahresarbeitsverdienst
-von dem Zeitpunkt an neu festgesetzt, in dem die Ausbildung ohne den
-Versicherungsfall voraussichtlich beendet worden wäre. Der
-Neufestsetzung wird das Arbeitsentgelt zugrunde gelegt, das in diesem
-Zeitpunkt für Personen gleicher Ausbildung und gleichen Alters durch
-Tarifvertrag vorgesehen ist; besteht keine tarifliche Regelung, ist
-das Arbeitsentgelt maßgebend, das für derartige Tätigkeiten am
-Beschäftigungsort der Versicherten gilt.
+(1) Ist der Versicherungsfall vor Vollendung des 30. Lebensjahres
+eingetreten, wird, wenn es für die Versicherten günstiger ist, der
+Jahresarbeitsverdienst mit Vollendung des 30. Lebensjahres auf 100
+Prozent der zu diesem Zeitpunkt maßgebenden Bezugsgröße neu
+festgesetzt. Wurde die Hochschul- oder Fachhochschulreife erworben,
+tritt an die Stelle des Wertes 100 Prozent der Wert 120 Prozent der
+Bezugsgröße.
 
-(2) Haben die Versicherten zur Zeit des Versicherungsfalls das 30.
-Lebensjahr noch nicht vollendet, wird, wenn es für sie günstiger ist,
-der Jahresarbeitsverdienst jeweils nach dem Arbeitsentgelt neu
-festgesetzt, das zur Zeit des Versicherungsfalls für Personen mit
-gleichartiger Tätigkeit bei Erreichung eines bestimmten Berufsjahres
-oder bei Vollendung eines bestimmten Lebensjahres durch Tarifvertrag
-vorgesehen ist; besteht keine tarifliche Regelung, ist das
-Arbeitsentgelt maßgebend, das für derartige Tätigkeiten am
-Beschäftigungsort der Versicherten gilt. Es werden nur Erhöhungen
-berücksichtigt, die bis zur Vollendung des 30. Lebensjahres vorgesehen
-sind.
+(2) Der Jahresarbeitsverdienst wird mit Vollendung der in § 85
+genannten weiteren Lebensjahre entsprechend dem Prozentsatz der zu
+diesen Zeitpunkten maßgebenden Bezugsgröße neu festgesetzt.
 
-(3) Können die Versicherten in den Fällen des Absatzes 1 oder 2
-infolge des Versicherungsfalls einer Erwerbstätigkeit nicht nachgehen,
-wird, wenn es für sie günstiger ist, der Jahresarbeitsverdienst nach
-den Erhöhungen des Arbeitsentgelts neu festgesetzt, die zur Zeit des
-Versicherungsfalls von der Vollendung eines bestimmten Lebensjahres,
-der Erreichung eines bestimmten Berufsjahres oder von dem Ablauf
-bestimmter Bewährungszeiten durch Tarif festgesetzt sind; besteht
-keine tarifliche Regelung, ist das Arbeitsentgelt maßgebend, das für
-derartige Tätigkeiten am Beschäftigungsort der Versicherten gilt.
-
-(4) Ist der Versicherungsfall vor Beginn der Berufsausbildung
-eingetreten und läßt sich auch unter Berücksichtigung der weiteren
-Schul- oder Berufsausbildung nicht feststellen, welches
-Ausbildungsziel die Versicherten ohne den Versicherungsfall
-voraussichtlich erreicht hätten, wird der Jahresarbeitsverdienst mit
-Vollendung des 21. Lebensjahres auf 75 vom Hundert und mit Vollendung
-des 25. Lebensjahres auf 100 vom Hundert der zu diesen Zeitpunkten
-maßgebenden Bezugsgröße neu festgesetzt.
-
-(5) Wurde der Jahresarbeitsverdienst nach den Vorschriften über den
-Mindestjahresarbeitsverdienst oder über den Jahresarbeitsverdienst für
-Kinder festgesetzt, wird er, vorbehaltlich der Regelungen in den
-Absätzen 1 bis 4, mit Vollendung der in diesen Vorschriften genannten
-weiteren Lebensjahre entsprechend dem Vomhundertsatz der zu diesen
-Zeitpunkten maßgebenden Bezugsgröße neu festgesetzt.
-
-(6) In den Fällen des § 82 Abs. 2 Satz 2 sind die Absätze 1 bis 3
+(3) In den Fällen des § 82 Absatz 2 Satz 2 sind die Absätze 1 und 2
 entsprechend anzuwenden.
 
 
-##### § 91 Mindest- und Höchstjahresarbeitsverdienst, Jahresarbeitsverdienst nach billigem Ermessen bei Neufestsetzung
+##### § 91 Neufestsetzung nach Schul- oder Berufsausbildung
 
-Bei Neufestsetzungen des Jahresarbeitsverdienstes nach
-voraussichtlicher Schul- oder Berufsausbildung oder Altersstufen sind
-die Vorschriften über den Mindest- und Höchstjahresarbeitsverdienst
-und über den Jahresarbeitsverdienst nach billigem Ermessen
-entsprechend anzuwenden.
+(1) Ist der Versicherungsfall während einer Berufsausbildung
+eingetreten, wird, wenn es für die Versicherten günstiger ist, der
+Jahresarbeitsverdienst schon vor Vollendung des 25. Lebensjahres auf
+75 Prozent der Bezugsgröße neu festgesetzt
+
+1.  von dem Zeitpunkt an, in dem die Berufsausbildung beendet worden ist
+    oder
 
 
-#### Vierter Unterabschnitt - Besondere Vorschriften für die bei der Berufsgenossenschaft für Transport und Verkehrswirtschaft versicherten Seeleute und ihre Hinterbliebenen
+2.  drei Jahre, im Fall einer Hochschul- oder Fachhochschulausbildung fünf
+    Jahre, nach Beginn der Berufsausbildung, wenn diese verzögert oder
+    abgebrochen wurde, es sei denn, dass die Berufsausbildung ohne den
+    Versicherungsfall ebenfalls keinen regelmäßigen Verlauf genommen
+    hätte.
+
+
+
+
+(2) Ist der Versicherungsfall während einer Schul- oder
+Berufsausbildung nach Vollendung des 30. Lebensjahres eingetreten,
+wird, wenn es für die Versicherten günstiger ist, der
+Jahresarbeitsverdienst auf 100 Prozent der Bezugsgröße neu festgesetzt
+
+1.  von dem Zeitpunkt an, in dem die Schul- oder Berufsausbildung beendet
+    worden ist oder
+
+
+2.  drei Jahre nach Beginn der Schul- oder Berufsausbildung, wenn diese
+    verzögert oder abgebrochen wurde, es sei denn, dass die Schul- oder
+    Berufsausbildung ohne den Versicherungsfall ebenfalls keinen
+    regelmäßigen Verlauf genommen hätte.
+
+
+
+
+(3) Ist der Versicherungsfall während einer Hochschul- oder
+Fachhochschulausbildung nach Vollendung des 30. Lebensjahres
+eingetreten, wird, wenn es für die Versicherten günstiger ist, der
+Jahresarbeitsverdienst auf 120 Prozent der Bezugsgröße neu festgesetzt
+
+1.  von dem Zeitpunkt an, in dem die Hochschul- oder
+    Fachhochschulausbildung beendet worden ist, oder
+
+
+2.  fünf Jahre nach Beginn der Hochschul- oder Fachhochschulausbildung,
+    wenn diese verzögert oder abgebrochen wurde, es sei denn, dass die
+    Hochschul- oder Fachhochschulausbildung ohne den Versicherungsfall
+    ebenfalls keinen regelmäßigen Verlauf genommen hätte.
+
+
+
+
+(4) Für die Neufestsetzung gilt die zum jeweiligen Zeitpunkt
+maßgebende Bezugsgröße. § 67 Absatz 3 Nummer 2 Buchstabe b ist für
+Übergangszeiten entsprechend anzuwenden.
+
+
+#### Vierter Unterabschnitt - Besondere Vorschriften für die bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation versicherten Seeleute und ihre Hinterbliebenen
 
 
 
@@ -3190,21 +3375,21 @@ oder Verpflegungsvergütung regelmäßige Nebeneinnahmen haben, wird auch
 deren durchschnittlicher Geldwert bei der Festsetzung des
 Durchschnitts eingerechnet.
 
-(6) Die Festsetzung bedarf der Genehmigung des
-Bundesversicherungsamts. Das Bundesversicherungsamt kann für die
+(6) Die Festsetzung bedarf der Genehmigung des Bundesamtes für Soziale
+Sicherung. Das Bundesamt für Soziale Sicherung kann für die
 Festsetzung eine Frist bestimmen; nach Ablauf der Frist kann es die
 Durchschnittssätze selbst festsetzen.
 
 (7) Die Festsetzung wird in jedem Jahr einmal nachgeprüft. Das
-Bundesversicherungsamt kann auch in der Zwischenzeit Nachprüfungen
-anordnen.
+Bundesamt für Soziale Sicherung kann auch in der Zwischenzeit
+Nachprüfungen anordnen.
 
 (8) Die Satzung hat zu bestimmen, daß und unter welchen
 Voraussetzungen die in Absatz 3 genannten Versicherten auf ihren
 Antrag mit einem höheren Jahresarbeitsverdienst versichert werden.
 
 
-#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Berufsgenossenschaften und ihre Hinterbliebenen
+#### Fünfter Unterabschnitt - Besondere Vorschriften für die Versicherten der landwirtschaftlichen Unfallversicherung und ihre Hinterbliebenen
 
 
 
@@ -3224,12 +3409,12 @@ Antrag mit einem höheren Jahresarbeitsverdienst versichert werden.
 
 
 beträgt für Versicherungsfälle, die im Jahre 1996 oder früher
-eingetreten sind, 19.115 Deutsche Mark. Für Versicherungsfälle, die im
+eingetreten sind, 19 115 Deutsche Mark. Für Versicherungsfälle, die im
 Jahre 1997 oder später eintreten, wird der in Satz 1 genannte Betrag,
 erstmalig zum 1. Juli 1997, entsprechend § 95 angepaßt; § 215 Abs. 5
-findet keine Anwendung. Die landwirtschaftlichen
-Berufsgenossenschaften unterrichten die landwirtschaftlichen
-Unternehmer über den jeweils geltenden Jahresarbeitsverdienst.
+findet keine Anwendung. Die landwirtschaftliche Berufsgenossenschaft
+unterrichtet die landwirtschaftlichen Unternehmer über den jeweils
+geltenden Jahresarbeitsverdienst.
 
 (2) Solange die in Absatz 1 genannten Personen Anspruch auf eine Rente
 auf unbestimmte Zeit nach einer Minderung der Erwerbsfähigkeit von 50
@@ -3340,7 +3525,9 @@ entsprechend.
 3.  Personen, die nach § 2 Abs. 1 Nr. 1 oder § 2 Absatz 3 Satz 1 Nummer 3
     Buchstabe a versichert sind, wenn diese an einer besonderen
     Auslandsverwendung im Sinne des § 31a des Beamtenversorgungsgesetzes
-    oder des § 63c des Soldatenversorgungsgesetzes teilnehmen.
+    oder des § 63c des Soldatenversorgungsgesetzes teilnehmen, sowie
+    Personen, die nach § 2 Absatz 3 Satz 1 Nummer 3 Buchstabe c versichert
+    sind.
 
 
 
@@ -3419,14 +3606,23 @@ Bankarbeitstages erfolgen kann.
 (2) Laufende Geldleistungen können mit Zustimmung der Berechtigten für
 einen angemessenen Zeitraum im voraus ausgezahlt werden.
 
-(3) Geldleistungen, die für die Zeit nach dem Tode der Berechtigten
-auf ein Konto bei einem Geldinstitut im Inland überwiesen wurden,
-gelten als unter Vorbehalt erbracht. Das Geldinstitut hat sie der
-überweisenden Stelle oder dem Unfallversicherungsträger
-zurückzuüberweisen, wenn diese sie als zu Unrecht erbracht
-zurückfordern. Eine Verpflichtung zur Rücküberweisung besteht nicht,
-soweit über den entsprechenden Betrag bei Eingang der Rückforderung
-bereits anderweitig verfügt wurde, es sei denn, daß die
+(2a) In Fällen des § 47 Absatz 1 Satz 3 des Ersten Buches erfolgt eine
+kostenfreie Übermittlung von Geldleistungen an den Wohnsitz oder
+gewöhnlichen Aufenthalt spätestens ab dem zweiten Monat, der auf den
+Monat folgt, in dem der Nachweis erbracht worden ist.
+
+(3) Geldleistungen, die für die Zeit nach dem Tod des Berechtigten auf
+ein Konto bei einem Geldinstitut, für das die Verordnung (EU) Nr.
+260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
+zur Festlegung der technischen Vorschriften und der
+Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
+zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+30\.3.2012, S. 22) gilt, überwiesen wurden, gelten als unter Vorbehalt
+erbracht. Das Geldinstitut hat sie der überweisenden Stelle oder dem
+Unfallversicherungsträger zurückzuüberweisen, wenn diese sie als zu
+Unrecht erbracht zurückfordern. Eine Verpflichtung zur Rücküberweisung
+besteht nicht, soweit über den entsprechenden Betrag bei Eingang der
+Rückforderung bereits anderweitig verfügt wurde, es sei denn, daß die
 Rücküberweisung aus einem Guthaben erfolgen kann. Das Geldinstitut
 darf den überwiesenen Betrag nicht zur Befriedigung eigener
 Forderungen verwenden.
@@ -3550,8 +3746,7 @@ Vergütung monatlich rechtzeitig angemessene Vorschüsse.
 
 #### § 100 Verordnungsermächtigung
 
-Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium der Finanzen durch
+Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  den Inhalt der von der Deutschen Post AG wahrzunehmenden Aufgaben der
@@ -3567,9 +3762,9 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     den Unfallversicherungsträgern erhält, näher zu bestimmen,
 
 
-3.  die Höhe und Fälligkeit der Vergütung und der Vorschüsse, die die
-    Deutsche Post AG von den Unfallversicherungsträgern erhält, näher zu
-    bestimmen.
+3.  das Verfahren zur Bestimmung der Höhe sowie die Fälligkeit der
+    Vergütung und der Vorschüsse, die die Deutsche Post AG von den
+    Unfallversicherungsträgern erhält, näher zu bestimmen.
 
 
 
@@ -3603,7 +3798,7 @@ erlassen.
 Satz 1 des Vierten Buches innerhalb von sechs Monaten ein Verfahren
 nicht abschließen, hat er den Versicherten nach Ablauf dieser Zeit und
 danach in Abständen von sechs Monaten über den Stand des Verfahrens
-schriftlich zu unterrichten.
+schriftlich oder elektronisch zu unterrichten.
 
 (2) Der Versicherte ist berechtigt, an der Untersuchung eines
 Versicherungsfalls, die am Arbeitsplatz oder am Unfallort durchgeführt
@@ -3715,11 +3910,12 @@ anderer das Arbeitsentgelt schuldender Personen entsprechend. § 105
 gilt für den Lotsen entsprechend.
 
 (2) Beim Zusammenstoß mehrerer Seeschiffe von Unternehmen, für die die
-Berufsgenossenschaft für Transport und Verkehrswirtschaft zuständig
-ist, gelten die §§ 104 und 105 entsprechend für die Ersatzpflicht,
-auch untereinander, der Reeder der dabei beteiligten Fahrzeuge,
-sonstiger das Arbeitsentgelt schuldender Personen, der Lotsen und der
-auf den beteiligten Fahrzeugen tätigen Versicherten.
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation zuständig ist, gelten die §§ 104 und 105
+entsprechend für die Ersatzpflicht, auch untereinander, der Reeder der
+dabei beteiligten Fahrzeuge, sonstiger das Arbeitsentgelt schuldender
+Personen, der Lotsen und der auf den beteiligten Fahrzeugen tätigen
+Versicherten.
 
 
 #### § 108 Bindung der Gerichte
@@ -3772,7 +3968,7 @@ Versicherungsfällen bei Ausführung der Schwarzarbeit entstanden sind.
 Eine nicht ordnungsgemäße Beitragsentrichtung wird vermutet, wenn die
 Unternehmer die Personen, bei denen die Versicherungsfälle eingetreten
 sind, nicht nach § 28a des Vierten Buches bei der Einzugsstelle oder
-der Datenstelle der Träger der Rentenversicherung angemeldet hatten.
+der Datenstelle der Rentenversicherung angemeldet hatten.
 
 (2) Die Sozialversicherungsträger können nach billigem Ermessen,
 insbesondere unter Berücksichtigung der wirtschaftlichen Verhältnisse
@@ -3828,35 +4024,32 @@ Bürgerlichen Gesetzbuche gilt entsprechend.
 1.  die in der Anlage 1 aufgeführten gewerblichen Berufsgenossenschaften,
 
 
-2.  die in der Anlage 2 aufgeführten Berufsgenossenschaften einschließlich
-    der Gartenbau-Berufsgenossenschaft (landwirtschaftliche
-    Berufsgenossenschaften),
+2.  die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau; bei
+    Durchführung der Aufgaben nach diesem Gesetz und in sonstigen
+    Angelegenheiten der landwirtschaftlichen Unfallversicherung führt sie
+    die Bezeichnung landwirtschaftliche Berufsgenossenschaft,
 
 
-3.  die Unfallkasse des Bundes,
+3.  die Unfallversicherung Bund und Bahn,
 
 
-4.  die Eisenbahn-Unfallkasse,
+4.  die Unfallkassen der Länder,
 
 
-5.  die Unfallkasse Post und Telekom,
-
-
-6.  die Unfallkassen der Länder,
-
-
-7.  die Gemeindeunfallversicherungsverbände und Unfallkassen der
+5.  die Gemeindeunfallversicherungsverbände und Unfallkassen der
     Gemeinden,
 
 
-8.  die Feuerwehr-Unfallkassen,
+6.  die Feuerwehr-Unfallkassen,
 
 
-9.  die gemeinsamen Unfallkassen für den Landes- und den kommunalen
+7.  die gemeinsamen Unfallkassen für den Landes- und den kommunalen
     Bereich.
 
 
 
+Die landwirtschaftliche Berufsgenossenschaft nimmt in der
+landwirtschaftlichen Unfallversicherung Verbandsaufgaben wahr.
 
 (2) Soweit dieses Gesetz die Unfallversicherungsträger ermächtigt,
 Satzungen zu erlassen, bedürfen diese der Genehmigung der
@@ -3868,10 +4061,10 @@ der Anordnung nicht innerhalb dieser Frist nach, kann die
 Aufsichtsbehörde die erforderliche Änderung anstelle des
 Unfallversicherungsträgers selbst vornehmen.
 
-(3) Für die Unfallkasse des Bundes gilt Absatz 2 mit der Maßgabe, dass
-bei der Genehmigung folgender Satzungen das Einvernehmen mit dem
-Bundesministerium für Arbeit und Soziales und dem Bundesministerium
-der Finanzen erforderlich ist:
+(3) Für die Unfallversicherung Bund und Bahn gilt Absatz 2 mit der
+Maßgabe, dass bei der Genehmigung folgender Satzungen das Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales und dem
+Bundesministerium der Finanzen erforderlich ist:
 
 1.  Satzungen über die Erstreckung des Versicherungsschutzes auf Personen
     nach § 3 Abs. 1 Nr. 2 und 3,
@@ -3884,66 +4077,48 @@ der Finanzen erforderlich ist:
 3.  Satzungen über Mehrleistungen (§ 94) und
 
 
-4.  Satzungen über die Aufwendungen der Unfallkasse (§ 186).
+4.  Satzungen über die Aufwendungen der Unfallversicherung Bund und Bahn
+    (§ 186).
 
 
 
 
 
-#### § 115 Prävention bei der Unfallkasse des Bundes
+#### § 115 Prävention bei der Unfallversicherung Bund und Bahn
 
-(1) § 15 Abs. 1 bis 4 über den Erlass von Unfallverhütungsvorschriften
-gilt nicht für die Unfallkasse des Bundes. Das Bundesministerium des
-Innern erlässt für Unternehmen, für die die Unfallkasse des Bundes
-zuständig ist, mit Ausnahme der in Absatz 2 genannten Unternehmen, im
-Einvernehmen mit dem Bundesministerium für Arbeit und Soziales nach
-Anhörung der Vertreterversammlung der Unfallkasse des Bundes durch
+(1) Für die Unternehmen, für die die Unfallversicherung Bund und Bahn
+nach § 125 Absatz 1 Nummer 1 zuständig ist, erlässt das
+Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit
+dem Bundesministerium für Arbeit und Soziales nach Anhörung der
+Vertreterversammlung der Unfallversicherung Bund und Bahn durch
 allgemeine Verwaltungsvorschriften Regelungen über Maßnahmen im Sinne
-des § 15 Abs. 1; die Vertreterversammlung kann Vorschläge für diese
+des § 15 Absatz 1; die Vertreterversammlung kann Vorschläge für diese
 Vorschriften machen. Die Unfallverhütungsvorschriften der
-Unfallversicherungsträger sollen dabei berücksichtigt werden. Betrifft
-eine allgemeine Verwaltungsvorschrift nach Satz 2 nur die
-Zuständigkeitsbereiche des Bundesministeriums der Verteidigung, des
-Bundesministeriums der Finanzen oder des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung, kann jedes dieser Ministerien für
-seinen Geschäftsbereich eine allgemeine Verwaltungsvorschrift
-erlassen; die Verwaltungsvorschrift bedarf in diesen Fällen des
-Einvernehmens mit den Bundesministerien des Innern sowie für Arbeit
+Unfallversicherungsträger sollen dabei berücksichtigt werden. Die
+Sorge der Beachtung der nach Satz 1 erlassenen Vorschriften gehört
+auch zu den Aufgaben des Vorstands. Betrifft eine allgemeine
+Verwaltungsvorschrift nach Satz 1 nur die Zuständigkeitsbereiche des
+Bundesministeriums der Verteidigung oder des Bundesministeriums der
+Finanzen, kann jedes dieser Bundesministerien für seinen
+Geschäftsbereich eine allgemeine Verwaltungsvorschrift erlassen; die
+Verwaltungsvorschrift bedarf in diesen Fällen des Einvernehmens mit
+den Bundesministerien des Innern, für Bau und Heimat sowie für Arbeit
 und Soziales.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, für die
-Unternehmen, für die die Unfallkasse des Bundes nach § 125 Abs. 1 Nr.
-2 bis 7 und § 125 Abs. 3 zuständig ist, im Einvernehmen mit dem
-Bundesministerium für Arbeit und Soziales nach Anhörung der
-Vertreterversammlung der Unfallkasse des Bundes Rechtsverordnungen
-ohne Zustimmung des Bundesrates über Maßnahmen im Sinne des § 15 Abs.
-1 zu erlassen; die Vertreterversammlung kann Vorschläge für diese
-Vorschriften machen. Die Unfallverhütungsvorschriften der
-Unfallversicherungsträger sollen dabei berücksichtigt werden. Betrifft
-eine Rechtsverordnung nach Satz 1 nur die Zuständigkeitsbereiche des
-Bundesministeriums der Verteidigung, des Bundesministeriums der
-Finanzen oder des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung, ist jedes dieser Ministerien für seinen
-Geschäftsbereich zum Erlass einer Rechtsverordnung ermächtigt; die
-Rechtsverordnung bedarf in diesen Fällen des Einvernehmens mit den
-Bundesministerien des Innern sowie für Arbeit und Soziales.
+(2) Abweichend von § 15 Absatz 4 Satz 1 bedürfen die
+Unfallverhütungsvorschriften der Unfallversicherung Bund und Bahn der
+Genehmigung des Bundesministeriums des Innern, für Bau und Heimat. Die
+Entscheidung hierüber wird im Benehmen mit dem Bundesministerium für
+Arbeit und Soziales getroffen.
 
-(3) Die Aufgaben der Prävention mit Ausnahme des Erlasses von
-Unfallverhütungsvorschriften in den Unternehmen, für die die
-Unfallkasse des Bundes zuständig ist, nimmt die Zentralstelle für
-Arbeitsschutz beim Bundesministerium des Innern wahr. Im Auftrag der
-Zentralstelle handelt, soweit nichts anderes bestimmt ist, die
-Unfallkasse des Bundes, die insoweit der Aufsicht des
-Bundesministeriums des Innern unterliegt. Die Sorge für die Beachtung
-der Vorschriften nach den Absätzen 1 und 2 gehört auch zu den Aufgaben
-des Vorstands. Abweichend von den Sätzen 1 und 2 werden die Aufgaben
-in den Geschäftsbereichen des Bundesministeriums der Verteidigung und
-des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen von dem
-jeweiligen Bundesministerium oder der von ihm bestimmten Stelle
-wahrgenommen. Die genannten Bundesministerien stellen sicher, dass die
-für die Überwachung und Beratung der Unternehmen eingesetzten
+(3) Die Aufgabe der Prävention wird in den Geschäftsbereichen des
+Bundesministeriums der Verteidigung und des Auswärtigen Amts
+hinsichtlich seiner Auslandsvertretungen von dem jeweiligen
+Bundesministerium oder der von ihm bestimmten Stelle wahrgenommen. Die
+genannten Bundesministerien stellen sicher, dass die für die
+Überwachung und Beratung der Unternehmen eingesetzten
 Aufsichtspersonen eine für diese Tätigkeit ausreichende Befähigung
-besitzen."
+besitzen.
 
 
 #### § 116 Unfallversicherungsträger im Landesbereich
@@ -3953,7 +4128,7 @@ Landesregierungen durch Rechtsverordnung eine oder mehrere
 Unfallkassen. Die Landesregierungen können auch gemeinsame
 Unfallkassen für die Unfallversicherung im Landesbereich und für die
 Unfallversicherung einer oder mehrerer Gemeinden von zusammen
-wenigstens 500.000 Einwohnern errichten.
+wenigstens 500 000 Einwohnern errichten.
 
 (2) Die Landesregierungen von höchstens drei Ländern können durch
 gleichlautende Rechtsverordnungen auch eine gemeinsame Unfallkasse
@@ -3963,17 +4138,30 @@ Staatsvertrag der Länder bestimmt ist.
 
 (3) Die Landesregierungen regeln in den Rechtsverordnungen auch das
 Nähere über die Eingliederung bestehender Unfallversicherungsträger in
-die gemeinsame Unfallkasse. § 118 Abs. 1 Satz 5 und § 119 Abs. 4 Satz
-1 bis 3 gelten entsprechend. Die an einer Vereinigung beteiligten
-Unfallversicherungsträger der öffentlichen Hand haben rechtzeitig vor
-dem Wirksamwerden der Vereinigung eine neue Dienstordnung zur Regelung
-der Rechtsverhältnisse der dienstordnungsmäßig Angestellten
-aufzustellen, die in Ergänzung der bestehenden Dienstordnungen einen
-sozialverträglichen Personalübergang gewährleistet; dabei sind die
-entsprechenden Regelungen für Tarifangestellte zu berücksichtigen. Die
-neue Dienstordnung ist der nach der Vereinigung zuständigen
-Aufsichtsbehörde vorzulegen. Die Vereinigungen sind sozialverträglich
-umzusetzen.
+die gemeinsame Unfallkasse. § 118 Absatz 1 Satz 5 gilt entsprechend.
+Bis zu den nächsten allgemeinen Wahlen in der Sozialversicherung
+richtet sich die Zahl der Mitglieder der Selbstverwaltungsorgane der
+vereinigten oder neu gebildeten Unfallversicherungsträger nach der
+Summe der Zahl der Mitglieder, die in den Satzungen der aufgelösten
+Unfallversicherungsträger bestimmt worden ist; § 43 Absatz 1 Satz 2
+des Vierten Buches ist nicht anzuwenden. Die Mitglieder der
+Selbstverwaltungsorgane der aufgelösten Unfallversicherungsträger und
+ihre Stellvertreter werden Mitglieder und Stellvertreter der
+Selbstverwaltungsorgane der aus ihnen gebildeten
+Unfallversicherungsträger. Beschlüsse in den Selbstverwaltungsorganen
+der neu gebildeten Unfallversicherungsträger werden mit der Mehrheit
+der nach der Größe der aufgelösten Unfallversicherungsträger
+gewichteten Stimmen getroffen; für die Gewichtung wird ein
+angemessener Maßstab in der Satzung bestimmt. Die an einer Vereinigung
+beteiligten Unfallversicherungsträger der öffentlichen Hand haben
+rechtzeitig vor dem Wirksamwerden der Vereinigung eine neue
+Dienstordnung zur Regelung der Rechtsverhältnisse der
+dienstordnungsmäßig Angestellten aufzustellen, die in Ergänzung der
+bestehenden Dienstordnungen einen sozialverträglichen Personalübergang
+gewährleistet; dabei sind die entsprechenden Regelungen für
+Tarifangestellte zu berücksichtigen. Die neue Dienstordnung ist der
+nach der Vereinigung zuständigen Aufsichtsbehörde vorzulegen. Die
+Vereinigungen sind sozialverträglich umzusetzen.
 
 
 #### § 117 Unfallversicherungsträger im kommunalen Bereich
@@ -3981,7 +4169,7 @@ umzusetzen.
 (1) Soweit die Unfallversicherung im kommunalen Bereich nicht von
 einer gemeinsamen Unfallkasse für den Landes- und den kommunalen
 Bereich durchgeführt wird, errichten die Landesregierungen durch
-Rechtsverordnung für mehrere Gemeinden von zusammen wenigstens 500.000
+Rechtsverordnung für mehrere Gemeinden von zusammen wenigstens 500 000
 Einwohnern einen Gemeindeunfallversicherungsverband.
 
 (2) Die Landesregierungen von höchstens drei Ländern können durch
@@ -4008,8 +4196,8 @@ Rechtsverordnungen oder durch Staatsvertrag der Länder bestimmt ist. §
 Unfallkassen der Gemeinden mit den Unfallversicherungsträgern im
 kommunalen Bereich vereinigen.
 
-(5) Bei Vereinigungen nach den Absätzen 3 und 4 gilt § 116 Abs. 3 Satz
-3 bis 5 entsprechend.
+(5) Bei Vereinigungen nach den Absätzen 3 und 4 gilt § 116 Absatz 3
+Satz 6 bis 8 entsprechend.
 
 
 #### § 118 Vereinigung von Berufsgenossenschaften
@@ -4050,7 +4238,16 @@ Berufsgenossenschaften erfolgen.
 Übernahme der Bediensteten werden durch die beteiligten
 Berufsgenossenschaften entsprechend der für das Kalenderjahr vor der
 Vereinigung auf die Unternehmensarten entfallenden Entschädigungslast
-in der Vereinbarung geregelt. § 119 Abs. 5 gilt entsprechend.
+in der Vereinbarung geregelt. Die an einer Vereinigung beteiligten
+Berufsgenossenschaften haben rechtzeitig vor dem Wirksamwerden der
+Vereinigung eine neue Dienstordnung zur Regelung der
+Rechtsverhältnisse der dienstordnungsmäßig Angestellten aufzustellen,
+die in Ergänzung der bestehenden Dienstordnungen einen
+sozialverträglichen Personalübergang gewährleistet; dabei sind die
+entsprechenden Regelungen für Tarifangestellte zu berücksichtigen. Die
+neue Dienstordnung ist zusammen mit den in Absatz 1 Satz 3 genannten
+Unterlagen der nach der Vereinigung zuständigen Aufsichtsbehörde
+vorzulegen. Vereinigungen sind sozialverträglich umzusetzen.
 
 (4) In der Vereinbarung nach Absatz 1 über die Gefahrtarif- und
 Beitragsgestaltung oder in der Satzung der neuen Berufsgenossenschaft
@@ -4061,8 +4258,8 @@ Berufsgenossenschaft zu tragen sind, auf die bisherigen
 Zuständigkeitsbereiche der vereinigten Berufsgenossenschaften in dem
 Verhältnis der Lasten verteilt werden, als ob eine Vereinigung nicht
 stattgefunden hätte. Die Vertreterversammlung der neuen
-Berufsgenossenschaft kann mit Genehmigung des Bundesversicherungsamtes
-im letzten Jahr der Geltungsdauer der Regelung nach Satz 1
+Berufsgenossenschaft kann mit Genehmigung des Bundesamtes für Soziale
+Sicherung im letzten Jahr der Geltungsdauer der Regelung nach Satz 1
 beschließen, die Geltung abweichend von Absatz 1 Satz 4 über den
 Zeitraum von zwölf Jahren hinaus für jeweils höchstens sechs weitere
 Jahre zu verlängern, wenn
@@ -4086,80 +4283,12 @@ Rechte und Pflichten im Rahmen der Lastenverteilung nach den §§ 176
 bis 181 als selbständige Körperschaften behandelt.
 
 
-#### § 119 Vereinigung landwirtschaftlicher Berufsgenossenschaften durch Verordnung
-
-(1) Die Landesregierungen derjenigen Länder, in deren Gebiet mehrere
-landesunmittelbare landwirtschaftliche Berufsgenossenschaften ihren
-Sitz haben, können durch Rechtsverordnung zwei oder mehrere
-landwirtschaftliche Berufsgenossenschaften zu einer
-landwirtschaftlichen Berufsgenossenschaft vereinigen. Das Nähere
-regelt die Landesregierung in der Rechtsverordnung nach Anhörung der
-beteiligten Berufsgenossenschaften.
-
-(2) Die Landesregierungen mehrerer Länder, in deren Gebiet mehrere
-landesunmittelbare landwirtschaftliche Berufsgenossenschaften ihren
-Sitz haben, können durch gleichlautende Rechtsverordnungen
-landwirtschaftliche Berufsgenossenschaften zu einer
-landwirtschaftlichen Berufsgenossenschaft vereinigen. Das Nähere
-regeln diese Länder in den Rechtsverordnungen nach Anhörung der
-beteiligten Berufsgenossenschaften. Satz 1 und 2 gilt entsprechend für
-die Vereinigung von bundes- und landesunmittelbaren
-landwirtschaftlichen Berufsgenossenschaften; an die Stelle der
-Landesregierung tritt für die bundesunmittelbaren
-Berufsgenossenschaften das Bundesministerium für Arbeit und Soziales.
-
-(3) Die in Anlage I Kapitel VIII Sachgebiet I Abschnitt III Nr. 1
-Buchstabe c Abs. 3 Satz 2 des Einigungsvertrages vom 31. August 1990
-(BGBl. 1990 II S. 885, 1063) aufgeführte Maßgabe ist nicht mehr
-anzuwenden.
-
-(4) Bis zu den nächsten allgemeinen Wahlen in der Sozialversicherung
-richtet sich die Zahl der Mitglieder der Selbstverwaltungsorgane der
-auf Grund des Ersten Abschnitts des Fünften Kapitels dieses Gesetzes
-vereinigten oder neu gebildeten Berufsgenossenschaften nach der Summe
-der Zahl der Mitglieder, die in den Satzungen der aufgelösten
-Berufsgenossenschaften bestimmt worden ist; § 43 Abs. 1 Satz 2 des
-Vierten Buches ist nicht anzuwenden. Die Mitglieder der
-Selbstverwaltungsorgane der aufgelösten Berufsgenossenschaften und
-ihre Stellvertreter werden Mitglieder und Stellvertreter der
-Selbstverwaltungsorgane der aus ihnen gebildeten Berufsgenossenschaft.
-Beschlüsse in den Selbstverwaltungsorganen der neu gebildeten
-Berufsgenossenschaften werden mit der Mehrheit der nach der Größe der
-aufgelösten Berufsgenossenschaften gewichteten Stimmen getroffen; für
-die Gewichtung wird ein angemessener Maßstab in der Satzung bestimmt.
-Satz 3 gilt für Beschlüsse in den Selbstverwaltungsorganen der
-landwirtschaftlichen Alterskassen und der landwirtschaftlichen
-Krankenkassen entsprechend.
-
-(5) Die an einer Vereinigung auf Grund des Ersten Abschnitts des
-Fünften Kapitels dieses Gesetzes beteiligten Berufsgenossenschaften
-haben rechtzeitig vor dem Wirksamwerden der Vereinigung eine neue
-Dienstordnung zur Regelung der Rechtsverhältnisse der
-dienstordnungsmäßig Angestellten aufzustellen, die in Ergänzung der
-bestehenden Dienstordnungen einen sozialverträglichen Personalübergang
-gewährleistet; dabei sind die entsprechenden Regelungen für
-Tarifangestellte zu berücksichtigen. Im Falle der Vereinigung nach §
-118 ist die neue Dienstordnung zusammen mit den in § 118 Abs. 1 Satz 3
-genannten Unterlagen der nach der Vereinigung zuständigen
-Aufsichtsbehörde vorzulegen. Vereinigungen nach Satz 1 sind
-sozialverträglich umzusetzen.
-
-(6) Nach einer Vereinigung von landwirtschaftlichen
-Berufsgenossenschaften kann die Satzung für eine Übergangszeit von
-höchstens fünf Jahren unterschiedliche Berechnungsgrundlagen für die
-Beiträge oder unterschiedliche Beiträge und getrennte Umlagen für die
-bisherigen Zuständigkeitsbereiche der vereinigten Versicherungsträger
-vorsehen. Auf Antrag der Berufsgenossenschaft kann die nach der
-Vereinigung zuständige Aufsichtsbehörde eine um höchstens ein Jahr
-längere Übergangszeit genehmigen.
+#### § 119 (weggefallen)
 
 
-#### § 119a Verwaltungsgemeinschaften bei den landwirtschaftlichen Berufsgenossenschaften
 
-Jede landwirtschaftliche Berufsgenossenschaft bildet mit der bei ihr
-errichteten landwirtschaftlichen Alterskasse, landwirtschaftlichen
-Krankenkasse und landwirtschaftlichen Pflegekasse eine
-Verwaltungsgemeinschaft.
+#### § 119a (weggefallen)
+
 
 
 #### § 120 Bundes- und Landesgarantie
@@ -4185,14 +4314,64 @@ aufsichtführende Land über.
 (1) Die gewerblichen Berufsgenossenschaften sind für alle Unternehmen
 (Betriebe, Verwaltungen, Einrichtungen, Tätigkeiten) zuständig, soweit
 sich nicht aus dem Zweiten und Dritten Unterabschnitt eine
-Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften oder der
+Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft oder der
 Unfallversicherungsträger der öffentlichen Hand ergibt.
 
-(2) Die Berufsgenossenschaft für Transport und Verkehrswirtschaft als
-gewerbliche Berufsgenossenschaft ist zuständig für Unternehmen der
-Seefahrt, soweit sich nicht aus dem Dritten Unterabschnitt eine
-Zuständigkeit der Unfallversicherungsträger der öffentlichen Hand
-ergibt.
+(2) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation ist über § 122 hinaus zuständig
+
+1.  für die Unternehmensarten, für die die Berufsgenossenschaft für
+    Transport und Verkehrswirtschaft bis zum 31. Dezember 2015 zuständig
+    war,
+
+
+2.  für Unternehmen der Seefahrt, soweit sich nicht aus dem Dritten
+    Unterabschnitt eine Zuständigkeit der Unfallversicherungsträger der
+    öffentlichen Hand ergibt,
+
+
+3.  für die Bundesanstalt für Post und Telekommunikation Deutsche
+    Bundespost,
+
+
+4.  für die aus dem Sondervermögen der Deutschen Bundespost
+    hervorgegangenen Aktiengesellschaften,
+
+
+5.  für die Unternehmen, die
+
+    a)  aus den Unternehmen im Sinne der Nummer 4 ausgegliedert worden sind
+        und von diesen überwiegend beherrscht werden oder
+
+
+    b)  aus den Unternehmen im Sinne des Buchstabens a ausgegliedert worden
+        sind und von diesen überwiegend beherrscht werden
+
+
+
+    und unmittelbar und überwiegend Post-, Postbank- oder
+    Telekommunikationsaufgaben erfüllen oder diesen Zwecken wie
+    Hilfsunternehmen dienen,
+
+
+6.  für die betrieblichen Sozialeinrichtungen und in den durch Satzung
+    anerkannten Selbsthilfeeinrichtungen der Bundesanstalt für Post und
+    Telekommunikation Deutsche Bundespost,
+
+
+7.  für die Bundesdruckerei GmbH und für die aus ihr ausgegliederten
+    Unternehmen, sofern diese von der Bundesdruckerei GmbH überwiegend
+    beherrscht werden und ihren Zwecken als Neben- oder Hilfsunternehmen
+    überwiegend dienen,
+
+
+8.  für die Museumsstiftung Post und Telekommunikation.
+
+
+
+§ 125 Absatz 4 gilt entsprechend. Über die Übernahme von Unternehmen
+nach Satz 1 Nummer 3 bis 8 und den Widerruf entscheidet das
+Bundesministerium der Finanzen.
 
 (3) Seefahrt im Sinne dieses Buches ist
 
@@ -4259,13 +4438,13 @@ die sie bisher zuständig war, solange eine nach Absatz 1 erlassene
 Rechtsverordnung die Zuständigkeit nicht anders regelt.
 
 
-#### Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
+#### Zweiter Unterabschnitt - Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
 
 
 
-##### § 123 Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
+##### § 123 Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft
 
-(1) Die landwirtschaftlichen Berufsgenossenschaften sind für folgende
+(1) Die landwirtschaftliche Berufsgenossenschaft ist für folgende
 Unternehmen (landwirtschaftliche Unternehmen) zuständig, soweit sich
 nicht aus dem Dritten Unterabschnitt eine Zuständigkeit der
 Unfallversicherungsträger der öffentlichen Hand ergibt:
@@ -4297,9 +4476,9 @@ Unfallversicherungsträger der öffentlichen Hand ergibt:
     der Landwirtschaft überwiegend dienen,
 
 
-8.  die Träger der landwirtschaftlichen Sozialversicherung, deren Verbände
-    und deren weitere Einrichtungen sowie die Zusatzversorgungskasse und
-    das Zusatzversorgungswerk für Arbeitnehmer in der Land- und
+8.  die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau und
+    deren weitere Einrichtungen sowie die Zusatzversorgungskasse und das
+    Zusatzversorgungswerk für Arbeitnehmer in der Land- und
     Forstwirtschaft.
 
 
@@ -4321,33 +4500,24 @@ besonderen Arbeitskräften bewirtschaftet oder ihre Erzeugnisse dienen
 nicht hauptsächlich dem eigenen Haushalt.
 
 (3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates bestimmen, daß auch andere als die in Absatz 1 genannten
-Unternehmen als landwirtschaftliche Unternehmen gelten, wenn diese
-überwiegend der Land- und Forstwirtschaft dienen.
+mit dem Bundesministerium für Ernährung und Landwirtschaft durch
+Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß auch
+andere als die in Absatz 1 genannten Unternehmen als
+landwirtschaftliche Unternehmen gelten, wenn diese überwiegend der
+Land- und Forstwirtschaft dienen.
 
-(4) Das Bundesministerium für Arbeit und Soziales kann durch
-Rechtsverordnung mit Zustimmung des Bundesrates die örtliche
-Zuständigkeit der landwirtschaftlichen Berufsgenossenschaften
-bestimmen. Werden dabei bestehende Zuständigkeiten verändert, ist in
-der Rechtsverordnung zu regeln, in welchem Umfang die bisher
-zuständige Berufsgenossenschaft Betriebsmittel und Mittel aus der
-Rücklage an die nunmehr zuständige Berufsgenossenschaft zu übertragen
-hat.
-
-(5) Unternehmen, die aufgrund von Allgemeinen Entscheidungen des
+(4) Unternehmen, die aufgrund von Allgemeinen Entscheidungen des
 Reichsversicherungsamtes beim Inkrafttreten dieses Buches einer
 landwirtschaftlichen Berufsgenossenschaft angehören, gelten als
 landwirtschaftliche Unternehmen. Das Bundesministerium für Arbeit und
-Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz diese Unternehmen in einer
-Rechtsverordnung mit Zustimmung des Bundesrates zusammenfassen. Dabei
-können die Zuständigkeiten auch abweichend von den Entscheidungen des
+Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung
+und Landwirtschaft diese Unternehmen in einer Rechtsverordnung mit
+Zustimmung des Bundesrates zusammenfassen. Dabei können die
+Zuständigkeiten auch abweichend von den Entscheidungen des
 Reichsversicherungsamtes bestimmt werden, soweit dies erforderlich
-ist, um zusammengehörige Unternehmensarten einheitlich den
-landwirtschaftlichen oder den gewerblichen Berufsgenossenschaften
-zuzuweisen.
+ist, um zusammengehörige Unternehmensarten einheitlich der
+landwirtschaftlichen Berufsgenossenschaft oder den gewerblichen
+Berufsgenossenschaften zuzuweisen.
 
 
 ##### § 124 Bestandteile des landwirtschaftlichen Unternehmens
@@ -4372,9 +4542,9 @@ Zum landwirtschaftlichen Unternehmen gehören
 
 
 
-##### § 125 Zuständigkeit der Unfallkasse des Bundes
+##### § 125 Zuständigkeit der Unfallversicherung Bund und Bahn
 
-(1) Die Unfallkasse des Bundes ist zuständig
+(1) Die Unfallversicherung Bund und Bahn ist zuständig
 
 1.  für die Unternehmen des Bundes,
 
@@ -4387,9 +4557,11 @@ Zum landwirtschaftlichen Unternehmen gehören
 
 
 4.  für Personen, die im Zivilschutz tätig sind oder an
-    Ausbildungsveranstaltungen im Zivilschutz teilnehmen, es sei denn, es
-    ergibt sich eine Zuständigkeit nach den Vorschriften für die
-    Unfallversicherungsträger im Landes- und im kommunalen Bereich,
+    Ausbildungsveranstaltungen einschließlich der satzungsmäßigen
+    Veranstaltungen, die der Nachwuchsförderung dienen, im Zivilschutz
+    teilnehmen, es sei denn, es ergibt sich eine Zuständigkeit nach den
+    Vorschriften für die Unfallversicherungsträger im Landes- und im
+    kommunalen Bereich,
 
 
 5.  für die in den Gemeinschaften des Deutschen Roten Kreuzes ehrenamtlich
@@ -4420,44 +4592,19 @@ Zum landwirtschaftlichen Unternehmen gehören
 
 
 
-(2) Der Bund kann für einzelne Unternehmen der sonst zuständigen
-Berufsgenossenschaft beitreten. Er kann zum Ende eines Kalenderjahres
-aus der Berufsgenossenschaft austreten. Über den Eintritt und den
-Austritt entscheidet das zuständige Bundesministerium im Einvernehmen
-mit dem Bundesministerium für Arbeit und Soziales und dem
-Bundesministerium der Finanzen.
-
-(3) Der Bund kann ein Unternehmen, das in selbständiger Rechtsform
-betrieben wird, aus der Zuständigkeit der Berufsgenossenschaft in die
-Zuständigkeit der Unfallkasse des Bundes übernehmen, wenn er an dem
-Unternehmen überwiegend beteiligt ist oder auf seine Organe einen
-ausschlaggebenden Einfluß hat. Unternehmen, die erwerbswirtschaftlich
-betrieben werden, sollen nicht übernommen werden. Die Übernahme kann
-widerrufen werden; die Übernahme ist zu widerrufen, wenn die
-Voraussetzungen des Satzes 1 nicht mehr vorliegen. Für die Übernahme
-und den Widerruf gilt Absatz 2 Satz 3 entsprechend. Die Übernahme wird
-mit Beginn des folgenden, der Widerruf zum Ende des laufenden
-Kalenderjahres wirksam. Abweichend von Satz 5 wird die Übernahme, die
-im Kalenderjahr der Gründung eines Unternehmens erklärt wird, mit
-Beginn des Unternehmens wirksam.
-
-
-##### § 126 Zuständigkeit der Eisenbahn-Unfallkasse
-
-Die Eisenbahn-Unfallkasse ist zuständig
+(2) Die Unfallversicherung Bund und Bahn ist auch zuständig
 
 1.  für das Bundeseisenbahnvermögen,
 
 
-2.  für die Deutsche Bahn Aktiengesellschaft und für die aus der
-    Gesellschaft gemäß § 2 Abs. 1 des Deutsche Bahn Gründungsgesetzes vom
-    27\. Dezember 1993 (BGBl. I S. 2378, 2386) ausgegliederten
-    Aktiengesellschaften,
+2.  für die Deutsche Bahn AG und für die aus der Gesellschaft gemäß § 2
+    Absatz 1 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993
+    (BGBl. I S. 2378, 2386) ausgegliederten Aktiengesellschaften,
 
 
 3.  für die Unternehmen,
 
-    a)  die gemäß § 3 Abs. 3 des Deutsche Bahn Gründungsgesetzes aus den
+    a)  die gemäß § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes aus den
         Unternehmen im Sinne der Nummer 2 ausgegliedert worden sind,
 
 
@@ -4473,13 +4620,12 @@ Die Eisenbahn-Unfallkasse ist zuständig
 
 
 
-4.  für die Bahnversicherungsträger und die in der Anlage zu § 15 Abs. 2
-    des Gesetzes zur Zusammenführung und Neugliederung der
-    Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378) aufgeführten
-    betrieblichen Sozialeinrichtungen und der Selbsthilfeeinrichtungen mit
-    Ausnahme der in der Anlage unter B Nr. 6 genannten Einrichtungen sowie
-    für die der Krankenversorgung der Bundesbahnbeamten dienenden
-    Einrichtungen,
+4.  für die Bahnversicherungsträger und die in der Anlage zu § 15 Absatz 2
+    des Bundeseisenbahnneugliederungsgesetzes vom 27. Dezember 1993 (BGBl.
+    I S. 2378; 1994 I S. 2439) aufgeführten betrieblichen
+    Sozialeinrichtungen und der Selbsthilfeeinrichtungen mit Ausnahme der
+    in der Anlage unter B Nummer 6 genannten Einrichtungen sowie für die
+    der Krankenversorgung der Bundesbahnbeamten dienenden Einrichtungen,
 
 
 5.  für Magnetschwebebahnunternehmen des öffentlichen Verkehrs.
@@ -4487,57 +4633,33 @@ Die Eisenbahn-Unfallkasse ist zuständig
 
 
 
+(3) Der Bund kann für einzelne Unternehmen der sonst zuständigen
+Berufsgenossenschaft beitreten. Er kann zum Ende eines Kalenderjahres
+aus der Berufsgenossenschaft austreten. Über den Eintritt und den
+Austritt entscheidet das zuständige Bundesministerium im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales und dem
+Bundesministerium der Finanzen.
 
-##### § 127 Zuständigkeit der Unfallkasse Post und Telekom
-
-Die Unfallkasse Post und Telekom ist zuständig
-
-1.  für die Bundesanstalt für Post und Telekommunikation Deutsche
-    Bundespost,
-
-
-2.  für die aus dem Sondervermögen der Deutschen Bundespost
-    hervorgegangenen Aktiengesellschaften,
-
-
-3.  für die Unternehmen, die
-
-    a)  aus den Unternehmen im Sinne der Nummer 2 ausgegliedert worden sind
-        und von diesen überwiegend beherrscht werden oder
-
-
-    b)  aus den Unternehmen im Sinne des Buchstabens a ausgegliedert worden
-        sind und von diesen überwiegend beherrscht werden
-
+(4) Der Bund kann ein Unternehmen, das in selbständiger Rechtsform
+betrieben wird, aus der Zuständigkeit der Berufsgenossenschaft in die
+Zuständigkeit der Unfallversicherung Bund und Bahn übernehmen, wenn er
+an dem Unternehmen überwiegend beteiligt ist oder auf seine Organe
+einen ausschlaggebenden Einfluß hat. Unternehmen, die
+erwerbswirtschaftlich betrieben werden, sollen nicht übernommen
+werden. Die Übernahme kann widerrufen werden; die Übernahme ist zu
+widerrufen, wenn die Voraussetzungen des Satzes 1 nicht mehr
+vorliegen. Für die Übernahme und den Widerruf gilt Absatz 3 Satz 3
+entsprechend. Die Übernahme wird mit Beginn des folgenden, der
+Widerruf zum Ende des laufenden Kalenderjahres wirksam. Abweichend von
+Satz 5 wird die Übernahme, die im Kalenderjahr der Gründung eines
+Unternehmens erklärt wird, mit Beginn des Unternehmens wirksam.
 
 
-
-    und unmittelbar und überwiegend Post-, Postbank- oder
-    Telekommunikationsaufgaben erfüllen oder diesen Zwecken wie
-    Hilfsunternehmen dienen,
+##### § 126 (weggefallen)
 
 
-4.  für die betrieblichen Sozialeinrichtungen und in den durch Satzung
-    anerkannten Selbsthilfeeinrichtungen der Bundesanstalt für Post und
-    Telekommunikation Deutsche Bundespost,
 
-
-5.  für die Bundesdruckerei GmbH und für die aus ihr ausgegliederten
-    Unternehmen, sofern diese von der Bundesdruckerei GmbH überwiegend
-    beherrscht werden und ihren Zwecken als Neben- oder Hilfsunternehmen
-    überwiegend dienen,
-
-
-6.  (aufgehoben)
-
-
-7.  für die Museumsstiftung Post und Telekommunikation,
-
-
-8.  die Bundespost-Betriebskrankenkasse nach § 7 des
-    Postsozialversicherungsorganisationsgesetzes (DIE BKK POST).
-
-
+##### § 127 (weggefallen)
 
 
 
@@ -4551,10 +4673,12 @@ Die Unfallkasse Post und Telekom ist zuständig
 1a. für Unternehmen, die in selbständiger Rechtsform betrieben werden und
     an denen das Land
 
-    a)  unmittelbar oder mittelbar überwiegend beteiligt ist oder
+    a)  bei Kapitalgesellschaften unmittelbar oder mittelbar die Mehrheit der
+        Kapitalanteile auf sich vereint oder
 
 
-    b)  auf deren Organe es einen ausschlaggebenden Einfluss hat,
+    b)  bei sonstigen Unternehmen die Stimmenmehrheit in dem Organ, dem die
+        Verwaltung und Führung des Unternehmens obliegt, auf sich vereint,
 
 
 
@@ -4565,6 +4689,11 @@ Die Unfallkasse Post und Telekom ist zuständig
     anerkannten Tageseinrichtungen, sowie für Kinder, die durch geeignete
     Tagespflegepersonen im Sinne von § 23 des Achten Buches betreut
     werden,
+
+
+2a. für Kinder während der Teilnahme an vorschulischen
+    Sprachförderungskursen nach § 2 Absatz 1 Nummer 8 Buchstabe a, die
+    nicht in Tageseinrichtungen durchgeführt werden,
 
 
 3.  für Schüler an privaten allgemeinbildenden und berufsbildenden
@@ -4580,7 +4709,8 @@ Die Unfallkasse Post und Telekom ist zuständig
 
 6.  für Personen, die in Einrichtungen zur Hilfe bei Unglücksfällen tätig
     sind oder an Ausbildungsveranstaltungen dieser Einrichtungen
-    teilnehmen,
+    einschließlich der satzungsmäßigen Veranstaltungen, die der
+    Nachwuchsförderung dienen, teilnehmen,
 
 
 7.  für Personen, die nach § 2 Abs. 1 Nr. 13 Buchstabe a und c versichert
@@ -4598,7 +4728,7 @@ Die Unfallkasse Post und Telekom ist zuständig
     wenn es sich um eine Vertretung eines Landes handelt,
 
 
-11. für Versicherte nach § 3 Abs. 1 Nr. 4.
+11. für Versicherte nach § 3 Absatz 1 Nummer 4 und 5.
 
 
 
@@ -4626,10 +4756,12 @@ entsprechend.
 1a. für Unternehmen, die in selbständiger Rechtsform betrieben werden und
     an denen Gemeinden oder Gemeindeverbände
 
-    a)  unmittelbar oder mittelbar überwiegend beteiligt sind oder
+    a)  bei Kapitalgesellschaften unmittelbar oder mittelbar die Mehrheit der
+        Kapitalanteile auf sich vereinen oder
 
 
-    b)  auf deren Organe sie einen ausschlaggebenden Einfluss haben,
+    b)  bei sonstigen Unternehmen die Stimmenmehrheit in dem Organ, dem die
+        Verwaltung und Führung des Unternehmens obliegt, auf sich vereinen,
 
 
 
@@ -4668,57 +4800,57 @@ entsprechend.
 
 (3) (weggefallen)
 
-(4) Absatz 1 Nr. 1 und Nr. 1a gelten nicht für
+(4) Absatz 1 Nummer 1a gilt nicht für
 
 1.  Verkehrsunternehmen einschließlich Hafen- und Umschlagbetriebe,
 
 
-2.  Elektrizitäts-, Gas- und Wasserwerke,
+2.  Elektrizitäts-, Gas- und Wasserwerke sowie
 
 
-3.  Unternehmen, die Seefahrt betreiben,
-
-
-4.  landwirtschaftliche Unternehmen der in § 123 Abs. 1 Nr. 1, 4 und 5
-    genannten Art.
+3.  Unternehmen, die Seefahrt betreiben.
 
 
 
+Absatz 1 Nummer 1 und 1a gilt nicht für landwirtschaftliche
+Unternehmen der in § 123 Absatz 1 Nummer 1, 4 und 5 genannten Art.
 
 
 ##### § 129a Zuständigkeit bei gemeinsamer Beteiligung von Bund, Ländern, Gemeinden oder Gemeindeverbänden an Unternehmen
 
 (1) Zur Feststellung der Voraussetzungen für die Zuständigkeit von
 Unfallversicherungsträgern im Landesbereich oder im kommunalen Bereich
-sind Beteiligungen von Bund, Ländern, Gemeinden und Gemeindeverbänden
-an Unternehmen, die in selbständiger Rechtsform betrieben werden,
-zusammenzurechnen.
+sind bei Kapitalgesellschaften Kapitalbeteiligungen von Bund, Ländern,
+Gemeinden und Gemeindeverbänden an Unternehmen, die in selbständiger
+Rechtsform betrieben werden, zusammenzurechnen.
 
-(2) Bei einer gemeinsamen Beteiligung von Bund, Ländern, Gemeinden
-oder Gemeindeverbänden an Unternehmen richtet sich die Zuständigkeit
-nach der mehrheitlichen Beteiligung.
+(2) Bei einer gemeinsamen Kapitalbeteiligung von Bund, Ländern,
+Gemeinden oder Gemeindeverbänden an Kapitalgesellschaften richtet sich
+die Zuständigkeit nach der mehrheitlichen Kapitalbeteiligung.
 
-(3) Bei gleicher Beteiligung von Bund und Ländern sowie bei gleicher
-Beteiligung von Bund und Gemeinden oder Gemeindeverbänden erfolgt die
-Festlegung der Zuständigkeit im gegenseitigen Einvernehmen. Das
-Einvernehmen ist herzustellen zwischen der jeweils nach Landesrecht
-zuständigen Stelle und dem Bund; § 125 Abs. 2 Satz 3 gilt
-entsprechend. Kann ein Einvernehmen nicht hergestellt werden, ist der
+(3) Bei gleicher Kapitalbeteiligung von Bund und Ländern sowie bei
+gleicher Kapitalbeteiligung von Bund und Gemeinden oder
+Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der
+Zuständigkeit im gegenseitigen Einvernehmen. Das Einvernehmen ist
+herzustellen zwischen der jeweils nach Landesrecht zuständigen Stelle
+und dem Bund; § 125 Absatz 3 Satz 3 gilt entsprechend. Kann ein
+Einvernehmen nicht hergestellt werden, ist der
 Unfallversicherungsträger im Landesbereich oder im kommunalen Bereich
 zuständig.
 
-(4) Bei gleicher Beteiligung von Ländern erfolgt die Festlegung der
-Zuständigkeit im gegenseitigen Einvernehmen der nach Landesrecht
-zuständigen Stellen.
+(4) Bei gleicher Kapitalbeteiligung von Ländern an
+Kapitalgesellschaften erfolgt die Festlegung der Zuständigkeit im
+gegenseitigen Einvernehmen der nach Landesrecht zuständigen Stellen.
 
-(5) Bei gleicher Beteiligung von Ländern und Gemeinden oder
-Gemeindeverbänden erfolgt die Festlegung der Zuständigkeit im
-gegenseitigen Einvernehmen durch die jeweils nach Landesrecht
-zuständige Stelle.
+(5) Bei gleicher Kapitalbeteiligung von Ländern und Gemeinden oder
+Gemeindeverbänden an Kapitalgesellschaften erfolgt die Festlegung der
+Zuständigkeit im gegenseitigen Einvernehmen durch die jeweils nach
+Landesrecht zuständige Stelle.
 
-(6)  Die Absätze 1 bis 5 gelten hinsichtlich des gemeinsamen
-ausschlaggebenden Einflusses von Bund, Ländern, Gemeinden oder
-Gemeindeverbänden auf die Organe des Unternehmens entsprechend.
+(6) Die Absätze 1 bis 5 gelten bei sonstigen Unternehmen in
+selbständiger Rechtsform hinsichtlich der gemeinsamen Stimmenmehrheit
+von Bund, Ländern, Gemeinden oder Gemeindeverbänden in dem Organ, dem
+die Verwaltung und Führung des Unternehmens obliegt, entsprechend.
 
 
 #### Vierter Unterabschnitt - Gemeinsame Vorschriften über die Zuständigkeit
@@ -4743,10 +4875,10 @@ Ist kein Bevollmächtigter bestellt, gilt als Sitz des Unternehmens
 Berlin.
 
 (2a) Sind auf eine Beschäftigung im Ausland für ein Unternehmen ohne
-Sitz im Inland nach über- oder zwischenstaatlichem Recht die
-Vorschriften dieses Buches anzuwenden, richtet sich die örtliche
-Zuständigkeit nach dem Wohnsitz oder gewöhnlichen Aufenthalt des
-Versicherten im Inland.
+Sitz im Inland oder für sonstige Tätigkeiten im Ausland nach über-
+oder zwischenstaatlichem Recht die Vorschriften dieses Buches
+anzuwenden, richtet sich die örtliche Zuständigkeit nach dem Wohnsitz
+oder gewöhnlichen Aufenthalt des Versicherten im Inland.
 
 (3) Betreiben mehrere Personen ein Seeschiff, haben sie einen
 gemeinsamen Bevollmächtigten mit Sitz in einem inländischen Seehafen
@@ -4774,7 +4906,7 @@ unterstehen.
 (1) Umfaßt ein Unternehmen verschiedenartige Bestandteile
 (Hauptunternehmen, Nebenunternehmen, Hilfsunternehmen), die demselben
 Rechtsträger angehören, ist der Unfallversicherungsträger zuständig,
-dem das Hauptunternehmen angehört.
+dem das Hauptunternehmen angehört. § 129 Absatz 4 bleibt unberührt.
 
 (2) Das Hauptunternehmen bildet den Schwerpunkt des Unternehmens.
 Hilfsunternehmen dienen überwiegend den Zwecken anderer
@@ -4820,13 +4952,21 @@ Zahlung des Arbeitsentgelts verpflichtet ist.
 
 ##### § 134 Zuständigkeit bei Berufskrankheiten
 
-Wurde im Fall einer Berufskrankheit die gefährdende Tätigkeit für
+(1) Wurde im Fall einer Berufskrankheit die gefährdende Tätigkeit für
 mehrere Unternehmen ausgeübt, für die verschiedene
 Unfallversicherungsträger zuständig sind, richtet sich die
 Zuständigkeit nach dem Unternehmen, in dem die gefährdende Tätigkeit
 zuletzt ausgeübt wurde; die Unfallversicherungsträger können Näheres,
 auch Abweichendes, durch Vereinbarung regeln. Satz 1 gilt in den
 Fällen des § 3 der Berufskrankheiten-Verordnung entsprechend.
+
+(2) Für die Feststellung einer Berufskrankheit sind auch Tätigkeiten
+zu berücksichtigen, die Versicherte im Rahmen einer Beschäftigung
+ausgeübt haben, für die nach § 4 Absatz 1 Versicherungsfreiheit
+bestand, wenn die Tätigkeiten ihrer Art nach geeignet waren, die
+Krankheit zu verursachen und die schädigende Einwirkung überwiegend
+durch die nach diesem Buch versicherten gefährdenden Tätigkeiten
+verursacht wurde.
 
 
 ##### § 135 Versicherung nach mehreren Vorschriften
@@ -4848,8 +4988,9 @@ Fällen des § 3 der Berufskrankheiten-Verordnung entsprechend.
 
 
 4.  nach § 2 Abs. 1 Nr. 12, wenn die Versicherten an der
-    Ausbildungsveranstaltung auf Veranlassung des Unternehmers, bei dem
-    sie beschäftigt sind, teilnehmen,
+    Ausbildungsveranstaltung einschließlich der satzungsmäßigen
+    Veranstaltung, die der Nachwuchsförderung dient, auf Veranlassung des
+    Unternehmers, bei dem sie beschäftigt sind, teilnehmen,
 
 
 5.  nach § 2 Abs. 1 Nr. 13 Buchstabe a oder c, wenn die Hilfeleistung im
@@ -4881,6 +5022,9 @@ Abs. 1 Nr. 9 geht der Versicherung nach § 2 Abs. 1 Nr. 10 vor.
 (4) Die Versicherung des im landwirtschaftlichen Unternehmen
 mitarbeitenden Ehegatten oder Lebenspartners nach § 2 Abs. 1 Nr. 5
 Buchstabe a geht der Versicherung nach § 2 Abs. 1 Nr. 1 vor.
+
+(4a) Die Versicherung nach § 2 Absatz 1 Nummer 13 Buchstabe d geht der
+Versicherung nach § 2 Absatz 1 Nummer 1 und 9 vor.
 
 (5) Die Versicherung nach § 2 Abs. 1 Nr. 16 geht der Versicherung nach
 § 2 Abs. 1 Nr. 1 vor.
@@ -4942,12 +5086,15 @@ vorliegt.
 
 (3) Unternehmer ist
 
-1.  derjenige, dem das Ergebnis des Unternehmens unmittelbar zum Vor- oder
-    Nachteil gereicht,
+1.  die natürliche oder juristische Person oder rechtsfähige
+    Personenvereinigung oder -gemeinschaft, der das Ergebnis des
+    Unternehmens unmittelbar zum Vor- oder Nachteil gereicht,
 
 
-2.  bei nach § 2 Abs. 1 Nr. 2 oder 15 versicherten Rehabilitanden der
-    Rehabilitationsträger,
+2.  bei nach § 2 Absatz 1 Nummer 2 oder Nummer 15 Buchstabe a bis c
+    versicherten Rehabilitanden der Rehabilitationsträger, bei nach § 2
+    Absatz 1 Nummer 15 Buchstabe d versicherten Teilnehmern an
+    Präventionsmaßnahmen der Maßnahmeträger,
 
 
 3.  bei Versicherten nach § 2 Absatz 1 Nummer 2, 8 und 14 Buchstabe b der
@@ -4997,8 +5144,9 @@ Unternehmensbestandteil von einem Unfallversicherungsträger auf einen
 anderen über, ist dieser auch hinsichtlich der Versicherungsfälle
 zuständig, die vor dem Zuständigkeitswechsel eingetreten sind; die
 Unfallversicherungsträger können Abweichendes vereinbaren. Satz 1 gilt
-nicht, wenn die Zuständigkeit für ein Unternehmen von der Unfallkasse
-des Bundes auf einen anderen Unfallversicherungsträger übergeht.
+nicht, wenn die Zuständigkeit für ein Unternehmen von der
+Zuständigkeit der Unfallversicherung Bund und Bahn nach § 125 Absatz 1
+auf einen anderen Unfallversicherungsträger übergeht.
 
 
 ##### § 138 Unterrichtung der Versicherten
@@ -5089,36 +5237,13 @@ Unfallversicherung um. Auf die Umlage kann sie Vorschüsse einfordern.
 
 #### § 140 Haftpflicht- und Auslandsversicherung
 
-(1) Die Braunschweigische landwirtschaftliche Berufsgenossenschaft,
-die Land- und forstwirtschaftliche Berufsgenossenschaft Hessen und die
-Gartenbau-Berufsgenossenschaft können eine Versicherung gegen
-Haftpflicht für die Unternehmer und die ihnen in der Haftpflicht
-Gleichstehenden betreiben. Vereinigen sich auf Grund des Ersten
-Abschnitts des Fünften Kapitels dieses Gesetzes die Braunschweigische
-landwirtschaftliche Berufsgenossenschaft und die Land- und
-forstwirtschaftliche Berufsgenossenschaft Hessen mit anderen
-Berufsgenossenschaften oder werden sie mit anderen
-Berufsgenossenschaften auf Grund dieses Gesetzes vereinigt, können
-eine Versicherung gegen Haftpflicht für die Unternehmer und die ihnen
-in der Haftpflicht Gleichstehenden betreiben
-
-1.  die unter Einbeziehung der Braunschweigischen landwirtschaftlichen
-    Berufsgenossenschaft neu gebildete landwirtschaftliche
-    Berufsgenossenschaft mit den bis zur Errichtung dieser
-    Berufsgenossenschaft bestehenden Zuständigkeiten der
-    Haftpflichtversicherungsanstalt der Braunschweigischen
-    landwirtschaftlichen Berufsgenossenschaft,
-
-
-2.  die unter Einbeziehung der Land- und forstwirtschaftlichen
-    Berufsgenossenschaft Hessen neu gebildete landwirtschaftliche
-    Berufsgenossenschaft mit den bis zur Errichtung dieser
-    Berufsgenossenschaft bestehenden Zuständigkeiten der Gemeinnützigen
-    Haftpflichtversicherungsanstalt der Land- und forstwirtschaftlichen
-    Berufsgenossenschaft Hessen.
-
-
-
+(1) Die landwirtschaftliche Berufsgenossenschaft kann für diejenigen
+Unternehmer und die ihnen in der Haftpflicht Gleichstehenden, deren
+Betriebssitz sich im örtlichen und sachlichen Zuständigkeitsbereich
+einer am 31. Dezember 2012 bestehenden landwirtschaftlichen
+Berufsgenossenschaft befindet, die bis zu diesem Zeitpunkt eine
+Versicherung gegen Haftpflicht nach den an diesem Tag geltenden
+Vorschriften betrieben hat, diese Versicherung weiter betreiben.
 
 (2) Die Unfallversicherungsträger können durch Beschluß der
 Vertreterversammlung eine Versicherung gegen Unfälle einrichten, die
@@ -5160,525 +5285,6 @@ der Genehmigung der Aufsichtsbehörde.
 #### § 143 (weggefallen)
 
 -
-
-
-### Abschnitt 3a - Spitzenverband der landwirtschaftlichen Sozialversicherung
-
-
-
-#### § 143a Rechtsstellung und Aufgaben
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-der Spitzenverband der landwirtschaftlichen Berufsgenossenschaften,
-landwirtschaftlichen Alterskassen und landwirtschaftlichen
-Krankenkassen (Träger der landwirtschaftlichen Sozialversicherung).
-Der Spitzenverband hat die ihm zugewiesenen Aufgaben sowie Grundsatz-
-und Querschnittsaufgaben zu erfüllen und seine Mitglieder bei der
-Erfüllung ihrer Aufgaben zu unterstützen.
-
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-eine Körperschaft des öffentlichen Rechts. Mitglieder sind die Träger
-der landwirtschaftlichen Sozialversicherung.
-
-
-#### § 143b Organe
-
-(1) Bei dem Spitzenverband der landwirtschaftlichen Sozialversicherung
-werden als Selbstverwaltungsorgane eine Vertreterversammlung und ein
-Vorstand gebildet.
-
-(2) Die Vertreterversammlung besteht aus höchstens 27 Mitgliedern, die
-dem Vorstand eines Trägers der landwirtschaftlichen Sozialversicherung
-angehören müssen. Jede Verwaltungsgemeinschaft von Trägern der
-landwirtschaftlichen Sozialversicherung wählt aus ihren Vorständen
-insgesamt drei Mitglieder und insgesamt drei Stellvertreter in die
-Vertreterversammlung, von denen je ein Mitglied und je ein
-Stellvertreter der Gruppe der versicherten Arbeitnehmer, der Gruppe
-der Arbeitgeber und der Gruppe der Selbständigen ohne fremde
-Arbeitskräfte angehören muss.
-
-(3) Der Vorstand setzt sich aus neun von der Vertreterversammlung aus
-ihrer Mitte gewählten Mitgliedern zusammen; für jedes Mitglied wird
-ein Stellvertreter gewählt. Diese gehören zu je einem Drittel der
-Gruppe der versicherten Arbeitnehmer, der Gruppe der Arbeitgeber und
-der Gruppe der Selbständigen ohne fremde Arbeitskräfte an. Im Vorstand
-soll jede Verwaltungsgemeinschaft der Träger der landwirtschaftlichen
-Sozialversicherung vertreten sein.
-
-(4) Für die Organe gelten § 31 Abs. 1 bis 3, § 33 Abs. 1 Satz 1 und
-Abs. 2, die §§ 35 bis 37 Abs. 1, die §§ 38, 40 bis 42 Abs. 1 bis 3,
-die §§ 58 bis 60, die §§ 62, 63 Abs. 1, 3 und 4, § 64 Abs. 1 bis 3
-sowie die §§ 65, 66 Abs. 1 des Vierten Buches entsprechend. Das Nähere
-wird in der Satzung bestimmt. Die Vertreterversammlung beschließt auch
-über den Erwerb, die Veräußerung oder die Belastung von Grundstücken,
-über die Errichtung von Gebäuden sowie über die Aufbringung der Mittel
-zur Finanzierung der Verbandsaufgaben.
-
-(5) In den Selbstverwaltungsorganen wirken in Angelegenheiten der
-landwirtschaftlichen Krankenversicherung und der Alterssicherung der
-Landwirte die Vertreter der versicherten Arbeitnehmer nicht mit. Die
-Belange der Verwaltungsgemeinschaften, die aus diesem Grunde im
-Vorstand nicht vertreten sind, müssen in angemessener Weise
-berücksichtigt werden. Das Nähere wird in der Satzung bestimmt.
-
-(6) Der Geschäftsführer und der Stellvertreter des Geschäftsführers
-werden auf Vorschlag des Vorstandes von der Vertreterversammlung für
-eine Amtsdauer von jeweils sechs Jahren gewählt. Eine Wiederwahl ist
-zulässig.
-
-(7) Das Bundesministerium für Arbeit und Soziales und das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-gehören den Selbstverwaltungsorganen mit beratender Stimme an; für das
-Bundesministerium für Arbeit und Soziales gilt dies nicht, soweit
-Fragen der landwirtschaftlichen Krankenversicherung berührt werden.
-
-
-#### § 143c Satzung
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-durch seine Vertreterversammlung eine Satzung aufzustellen. Die
-Satzung bedarf der Genehmigung der Aufsichtsbehörde.
-
-(2) Die Satzung muss Bestimmungen enthalten über
-
-1.  den Sitz des Verbandes,
-
-
-2.  die Entschädigungen für Organmitglieder,
-
-
-3.  die Öffentlichkeit der Vertreterversammlung,
-
-
-4.  die Rechte und Pflichten der Mitglieder,
-
-
-5.  die Verpflichtung der Mitglieder zur Unterstützung, Unterrichtung und
-    Information des Spitzenverbandes der landwirtschaftlichen
-    Sozialversicherung bei der Erfüllung seiner Aufgaben und Wahrnehmung
-    der Interessen der Mitglieder,
-
-
-6.  die Aufbringung und Verwaltung der Mittel,
-
-
-7.  die jährliche Prüfung der Betriebs- und Rechnungsführung und
-
-
-8.  die Art der Bekanntmachungen.
-
-
-
-Für die Bekanntmachung der Satzung gilt § 34 Abs. 2 des Vierten Buches
-entsprechend.
-
-
-#### § 143d Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken, Finanzierung, Bundesgarantie
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-untersteht der Aufsicht des Bundesversicherungsamtes. Für die Aufsicht
-gelten die §§ 87 bis 89 des Vierten Buches entsprechend. Soweit der
-Spitzenverband der landwirtschaftlichen Sozialversicherung Aufgaben
-der Prävention in der gesetzlichen Unfallversicherung wahrnimmt,
-untersteht er der Fach- und Rechtsaufsicht des Bundesministeriums für
-Arbeit und Soziales.
-
-(2) Für das Haushalts- und Rechnungswesen einschließlich der
-Statistiken gelten die §§ 67 bis 69, § 70 Abs. 1, § 71d, die §§ 72 bis
-76 Abs. 1 und 2, § 77 Abs. 1, die §§ 78 und 79 Abs. 1 und 2 sowie für
-das Vermögen die §§ 80 und 85 des Vierten Buches entsprechend.
-
-(3) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-sicherzustellen, dass seine Ausgaben und Einnahmen sowie das Vermögen
-den Aufgabenbereichen der landwirtschaftlichen Unfallversicherung, der
-landwirtschaftlichen Krankenversicherung und der Alterssicherung der
-Landwirte zugeordnet werden (Kostenverteilungsschlüssel). Der
-Kostenverteilungsschlüssel bedarf der Genehmigung der
-Aufsichtsbehörde, die im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz erteilt wird.
-
-(4) Auf den Spitzenverband der landwirtschaftlichen Sozialversicherung
-ist § 120 entsprechend anzuwenden.
-
-
-#### § 143e Aufgaben
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-nimmt für die landwirtschaftliche Sozialversicherung die Grundsatz-
-und Querschnittsaufgaben wahr. Dazu gehören:
-
-1.  Vertretung seiner Mitglieder sowie der landwirtschaftlichen
-    Sozialversicherung in ihrer Gesamtheit gegenüber Politik, Bundes-,
-    europäischen und sonstigen nationalen und internationalen
-    Institutionen sowie Sozialpartnern, anderen Trägern der
-    Sozialversicherung und deren Verbänden, nationalen und internationalen
-    Behörden, obersten Bundesgerichten sowie dem Europäischen Gerichtshof;
-
-
-2.  Unterstützung der zuständigen Behörden in Fragen der Gesetzgebung und
-    Verwaltung; § 30 Abs. 3 des Vierten Buches ist entsprechend
-    anzuwenden;
-
-
-3.  Sicherung der einheitlichen Rechtsanwendung durch Klärung von
-    grundsätzlichen Fach- und Rechtsfragen;
-
-
-4.  Öffentlichkeitsarbeit einschließlich der Herausgabe von regelmäßigen
-    Informationen zur landwirtschaftlichen Sozialversicherung für
-    Unternehmer und Versicherte und der Grundsätze für regionale und
-    trägerspezifische Broschüren;
-
-
-5.  Erstellung und Auswertung von Statistiken für Verbandszwecke sowie für
-    die Gesetzgebung, Forschung und allgemeine Öffentlichkeit;
-
-
-6.  Organisation und Durchführung des Qualitäts- und
-    Wirtschaftlichkeitswettbewerbs zwischen den Trägern (Benchmarking von
-    Leistungs- und Qualitätsdaten);
-
-
-7.  Grundsätze für
-
-    a)  die Personalbedarfsermittlung in der landwirtschaftlichen
-        Sozialversicherung,
-
-
-    b)  eine wirtschaftliche Gestaltung der Aufbau- und Ablauforganisation und
-
-
-    c)  die Planung und Durchführung größerer Investitionsvorhaben
-
-
-
-    unter Wahrung der Selbständigkeit der Träger;
-
-
-8.  Sicherstellung einer einheitlichen Gliederung und Durchführung der
-    Geschäftsprozesse zur wirtschaftlichen Aufgabenerfüllung der
-    Mitglieder;
-
-
-9.  Grundsätze der Finanzausstattung und -verwaltung im Rahmen der
-    Finanzverfassung für das gesamte System der landwirtschaftlichen
-    Sozialversicherung unter Wahrung der Selbständigkeit der Träger;
-
-
-10. Funktion als Signaturstelle;
-
-
-11. Organisation der beruflichen Aus-, Fort- und Weiterbildung der bei den
-    Trägern der landwirtschaftlichen Sozialversicherung Beschäftigten,
-    auch durch Errichtung und Betrieb von Bildungseinrichtungen oder
-    Beteiligung an diesen;
-
-
-12. Evaluierung von medizinischen Gutachten seiner Mitglieder;
-
-
-13. Durchführung oder Vergabe von Forschungsvorhaben auf dem Gebiet der
-    landwirtschaftlichen Sozialversicherung;
-
-
-14. Abschluss von Tarifverträgen für die Träger der landwirtschaftlichen
-    Sozialversicherung;
-
-
-15. Abschluss von Teilungsabkommen;
-
-
-16. Sicherstellung einer einheitlichen Erbringung der Betriebs- und
-    Haushaltshilfe durch Grundsätze zur Beurteilung der Erforderlichkeit
-    und
-
-
-17. Durchführung von Arbeitstagungen.
-
-
-
-
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-zuständig für die Erfüllung folgender Aufgaben:
-
-1.  Bereitstellung der Informationstechnik in der landwirtschaftlichen
-    Sozialversicherung durch
-
-    a)  Betreiben des gemeinsamen Rechenzentrums der landwirtschaftlichen
-        Sozialversicherung und
-
-
-    b)  Planung, Entwicklung, Beschaffung sowie Einsatz von Verfahren und
-        Programmen für die automatisierte Datenverarbeitung, den Datenschutz
-        und die Datensicherung zur Erfüllung der gesetzlichen Aufgaben der
-        landwirtschaftlichen Sozialversicherung,
-
-
-
-
-
-2.  Abschluss von Verträgen für die Mitglieder und für die
-    landwirtschaftliche Sozialversicherung in ihrer Gesamtheit mit anderen
-    Trägern oder Verbänden der Sozialversicherung,
-
-
-3.  Bearbeitung von Sachverhalten und Erbringung von Leistungen der
-    landwirtschaftlichen Sozialversicherung mit Auslandsberührung im Namen
-    seiner Mitglieder,
-
-
-4.  Geltendmachung und Durchsetzung von Erstattungs- und Ersatzansprüchen
-    im Namen seiner Mitglieder (§§ 115 bis 119 des Zehnten Buches),
-
-
-5.  Prüfung der Geschäfts-, Rechnungs- und Betriebsführung der Mitglieder,
-
-
-6.  Betreiben einer gemeinsamen Einrichtung, um die Informationen für die
-    Verteilung der Versicherten, deren Anspruch auf Leistungen zur
-    Rehabilitation von den Mitgliedern festgestellt ist, auf die
-    Rehabilitationseinrichtungen zur Verfügung zu stellen,
-
-
-7.  Aufstellung von einheitlichen Abgrenzungskriterien für die
-    Zuständigkeit der landwirtschaftlichen Sozialversicherungsträger und
-    Abgabe von Empfehlungen zur Entscheidung von Zuständigkeitskonflikten
-    und
-
-
-8.  Erlass von verbindlichen Vorgaben für den Beitragseinzug, insbesondere
-    zum Verfahren der Beitragserhebung und zur Beitragsüberwachung, sowie
-    zum Einzug sonstiger Forderungen.
-
-
-
-
-(3) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-nimmt auf dem Gebiet der gesetzlichen Unfallversicherung für die
-landwirtschaftlichen Berufsgenossenschaften weitere Grundsatz- und
-Querschnittsaufgaben wahr. Dazu gehören:
-
-1.  Erlass von Richtlinien für
-
-    a)  die Berechnungsgrundlagen nach § 182 Abs. 2 bis 6, insbesondere die
-        Bildung von Risikogruppen sowie die Berücksichtigung des solidarischen
-        Ausgleichs, und
-
-
-    b)  ein einheitliches Verfahren zur Ermittlung der für die
-        beitragsbelastbaren Flächenwerte maßgebenden Daten sowie die Führung
-        der Flächen- und Arbeitswertkataster,
-
-
-
-
-
-2.  Durchführung des Lastenausgleichs nach § 184d,
-
-
-3.  Koordination der Mitwirkung der landwirtschaftlichen
-    Berufsgenossenschaften an der Tätigkeit der gemeinsamen
-    landesbezogenen Stellen nach § 20 Abs. 2,
-
-
-4.  Koordinierung, Durchführung und Förderung gemeinsamer Maßnahmen sowie
-    der Forschung auf dem Gebiet der Prävention von Arbeitsunfällen,
-    Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren,
-
-
-5.  Klärung von grundsätzlichen Fach- und Rechtsfragen zur Sicherung der
-    einheitlichen Rechtsanwendung in der Prävention.
-
-
-
-
-(4) Der Spitzenverband der landwirtschaftlichen Sozialversicherung ist
-auf dem Gebiet der landwirtschaftlichen Unfallversicherung zuständig
-für die Erfüllung folgender Aufgaben:
-
-1.  Auszahlung und Anpassung von Renten im Namen der landwirtschaftlichen
-    Berufsgenossenschaften; das Auszahlungsverfahren wird durch die
-    Satzung des Spitzenverbandes der landwirtschaftlichen
-    Sozialversicherung geregelt;
-
-
-2.  Abschluss von Verträgen mit Leistungserbringern für die
-    landwirtschaftlichen Berufsgenossenschaften;
-
-
-3.  Verwaltung der liquiden Mittel der Rücklage für die
-    landwirtschaftlichen Berufsgenossenschaften;
-
-
-4.  Koordinierung der Schwerpunkte der Unfallverhütung, Erlass von
-    Unfallverhütungsvorschriften für die landwirtschaftlichen
-    Berufsgenossenschaften mit Ausnahme von Unfallverhütungsvorschriften,
-    die ausschließlich auf Unternehmen des Gartenbaus anzuwenden sind, und
-    Festlegung eines einheitlichen Bußgeldrahmens bei Verstößen gegen die
-    Unfallverhütungsvorschriften;
-
-
-5.  Überprüfung von Krankenhaus- und Apothekenabrechnungen für die
-    landwirtschaftlichen Berufsgenossenschaften und
-
-
-6.  Geltendmachung und Durchsetzung von Ansprüchen nach den §§ 110 bis 113
-    im Namen seiner Mitglieder.
-
-
-
-
-(5) Bei der Erfüllung der Aufgaben nach den Absätzen 1 und 3 arbeitet
-der Spitzenverband der landwirtschaftlichen Sozialversicherung eng mit
-der Deutschen Gesetzlichen Unfallversicherung e. V. zusammen. Das
-Nähere wird in Verwaltungsvereinbarungen geregelt.
-
-(6) Die Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung in Grundsatz- und Querschnittsaufgaben werden durch
-die Vertreterversammlung des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung getroffen. Die Vertreterversammlung kann die
-Entscheidungsbefugnis ganz oder teilweise auf den Vorstand übertragen.
-Der Vorstand kann die Entscheidungsbefugnis ganz oder teilweise auf
-einen Ausschuss des Vorstandes übertragen. Die Entscheidungen dieses
-Ausschusses müssen einstimmig ergehen. Der Ausschuss legt dem Vorstand
-die Entscheidungen vor; der Vorstand kann abweichende Entscheidungen
-treffen. Dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung können durch die Vertreterversammlung mit einer
-Mehrheit von mindestens zwei Dritteln der Stimmen der ihr angehörenden
-stimmberechtigten Mitglieder weitere Grundsatz- und
-Querschnittsaufgaben übertragen werden. Die Entscheidungen des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung zu
-Grundsatz- und Querschnittsaufgaben sind für seine Mitglieder
-verbindlich.
-
-(7) Die verbindlichen Entscheidungen sowie die Übertragung weiterer
-Grundsatz- und Querschnittsaufgaben werden im Bundesanzeiger
-veröffentlicht.
-
-
-#### § 143f Zusammenarbeit
-
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung und
-die Träger der landwirtschaftlichen Sozialversicherung arbeiten bei
-der Erfüllung ihrer Verwaltungsaufgaben und der Betreuung der
-Versicherten eng zusammen, um eine wirtschaftliche und sparsame
-Aufgabenerfüllung zu gewährleisten.
-
-(2) Werden vom Spitzenverband der landwirtschaftlichen
-Sozialversicherung oder von einem Träger der landwirtschaftlichen
-Sozialversicherung gemeinsame Einrichtungen geschaffen oder
-unterhalten oder werden in sonstiger Weise Mittel und Kräfte für die
-Erfüllung von Aufgaben anderer oder aller Träger eingesetzt, ist durch
-geeignete Verfahren eine sachgerechte Kostenaufteilung
-sicherzustellen. Die Verfahren bedürfen der Genehmigung durch die
-jeweilige Aufsichtsbehörde, die im Benehmen mit dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz erteilt wird.
-
-
-#### § 143g Geschäftsführung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-
-(1) Mit dem Geschäftsführer und dem stellvertretenden Geschäftsführer
-des Spitzenverbandes der landwirtschaftlichen Sozialversicherung wird
-für ihre Amtsdauer ein Dienstordnungsverhältnis auf Zeit oder ein
-privatrechtliches Arbeitsverhältnis auf Zeit begründet. Das befristete
-Dienstordnungsverhältnis oder der Arbeitsvertrag bedarf der Zustimmung
-der nach § 143d zuständigen Aufsichtsbehörde.
-
-(2) Die Dienstbezüge im Dienstordnungsverhältnis oder die vertraglich
-zu vereinbarende Vergütung des Geschäftsführers des Spitzenverbandes
-der landwirtschaftlichen Sozialversicherung dürfen die Bezüge nach
-Besoldungsgruppe B 6 der Bundesbesoldungsordnung nicht übersteigen;
-für den stellvertretenden Geschäftsführer darf die Besoldungsgruppe B
-5 nicht überschritten werden.
-
-(3) Ist der Geschäftsführer oder der stellvertretende Geschäftsführer
-des Spitzenverbandes der landwirtschaftlichen Sozialversicherung aus
-einem Dienstordnungsverhältnis oder Beamtenverhältnis auf Lebenszeit
-gewählt worden, ruhen für die Dauer der Amtszeit die Rechte und
-Pflichten aus dem Dienstverhältnis auf Lebenszeit mit Ausnahme der
-Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von
-Belohnungen und Geschenken.
-
-
-#### § 143h Beschäftigte des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
-
-Auf den Spitzenverband der landwirtschaftlichen Sozialversicherung
-sind die Vorschriften der §§ 144 bis 147, § 172c und § 219a Abs. 2 bis
-4 anzuwenden.
-
-
-#### § 143i Gemeinsame Personalvertretung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung, Beteiligung der Gleichstellungsbeauftragten
-
-(1) Vor verbindlichen Entscheidungen des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung nach § 143e über
-
-1.  die Personalbedarfsermittlung,
-
-
-2.  die wirtschaftliche Gestaltung der Aufbau- und Ablauforganisation und
-
-
-3.  die Organisation der beruflichen Aus-, Fort- und Weiterbildung
-
-
-
-ist die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung anzuhören. Vor der Anhörung
-nach Satz 1 ist die Gemeinsame Personalvertretung frühzeitig zu
-unterrichten. Gleiches gilt für Entscheidungen, deren Umsetzung in
-gleicher Weise wie Entscheidungen nach Satz 1 Einfluss auf die
-Arbeitsbedingungen der Beschäftigten haben können. Das Verfahren zur
-Beteiligung ist in einer Vereinbarung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung und der Gemeinsamen
-Personalvertretung zu regeln.
-
-(2) Mitglieder der Gemeinsamen Personalvertretung des Spitzenverbandes
-der landwirtschaftlichen Sozialversicherung sind Vertreterinnen und
-Vertreter der Personalräte der Träger der landwirtschaftlichen
-Sozialversicherung oder, soweit sie gebildet sind, der
-Gesamtpersonalräte der Träger der landwirtschaftlichen
-Sozialversicherung und des Personalrates des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung.
-
-(3) Die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung setzt sich aus Mitgliedern der
-Personalvertretungen nach Absatz 2 Satz 1 zusammen. Insgesamt dürfen
-je Verwaltungsgemeinschaft entsandt werden:
-
-1.  drei Mitglieder bei Verwaltungsgemeinschaften mit bis zu 699
-    wahlberechtigten Beschäftigten,
-
-
-2.  sechs Mitglieder bei Verwaltungsgemeinschaften mit mehr als 699
-    wahlberechtigten Beschäftigten.
-
-
-
-Aus der Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung werden drei Mitglieder
-entsandt. Die Gemeinsame Personalvertretung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung beschließt mit der Mehrheit
-der Stimmen ihrer Mitglieder eine Geschäftsordnung, die Regelungen
-über den Vorsitz, das Verfahren zur internen Willensbildung und zur
-Beschlussfassung enthalten muss. Ergänzend finden die Regelungen des
-Bundespersonalvertretungsgesetzes entsprechend Anwendung.
-Kostentragende Stelle im Sinne des § 44 des
-Bundespersonalvertretungsgesetzes ist der Spitzenverband der
-landwirtschaftlichen Sozialversicherung.
-
-(4) Vor Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung in Grundsatz- und Querschnittsaufgaben, die sich
-auf die Gleichstellung von Frauen und Männern sowie die Vereinbarkeit
-von Familie und Erwerbstätigkeit bei den Beschäftigten ihrer
-Mitglieder auswirken, wirkt die Gleichstellungsbeauftragte des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung im Sinne
-der Regelungen der §§ 19 und 20 des Gesetzes zur Gleichstellung von
-Frauen und Männern in der Bundesverwaltung und in den Gerichten des
-Bundes mit. Die Gleichstellungsbeauftragte des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung beteiligt die
-Gleichstellungsbeauftragten der Mitglieder des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung.
 
 
 ### Vierter Abschnitt - Dienstrecht
@@ -5729,93 +5335,125 @@ genehmigt, erläßt die Aufsichtsbehörde die Dienstordnung.
 entsprechend.
 
 
-#### § 148 Dienstrechtliche Vorschriften für die Eisenbahn-Unfallkasse
+#### § 147a Dienstbezüge der Geschäftsführer der gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
-(1) Die Eisenbahn-Unfallkasse besitzt Dienstherrnfähigkeit im Sinne
-des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Bei
-der Unfallkasse können die nach § 26 Abs.1 des
-Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter
-überschritten werden, soweit dies wegen der mit den Funktionen
-verbundenen Anforderungen erforderlich ist. Für die Angestellten und
-Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes.
+(1) Die Dienstbezüge im Dienstordnungsverhältnis oder die vertraglich
+zu vereinbarende Vergütung der Geschäftsführerinnen oder der
+Geschäftsführer oder der Vorsitzenden der Geschäftsführung der
+gewerblichen Berufsgenossenschaften dürfen die Dienstbezüge der
+folgenden Besoldungsgruppen nicht übersteigen:
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-ernennt und entläßt auf Vorschlag des Vorstandes der Unfallkasse die
+*    *   Gewerbliche
+        Berufsgenossenschaft
+
+    *   Höchstgrenze
+
+
+*    *   1.
+
+    *   Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+        Telekommunikation
+
+    *   Besoldungsgruppe B 6
+
+
+*    *   2.
+
+    *   Berufsgenossenschaft Energie Textil Elektro Medienerzeugnisse
+
+    *   Besoldungsgruppe B 7
+
+
+*    *   3.
+
+    *   Berufsgenossenschaft Handel und Warendistribution
+
+    *   Besoldungsgruppe B 7
+
+
+*    *   4.
+
+    *   Berufsgenossenschaft Nahrungsmittel und Gastgewerbe
+
+    *   Besoldungsgruppe B 7
+
+
+*    *   5.
+
+    *   Berufsgenossenschaft Rohstoffe und chemische Industrie
+
+    *   Besoldungsgruppe B 7
+
+
+*    *   6.
+
+    *   Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege
+
+    *   Besoldungsgruppe B 8
+
+
+*    *   7.
+
+    *   Berufsgenossenschaft der Bauwirtschaft
+
+    *   Besoldungsgruppe B 8
+
+
+*    *   8.
+
+    *   Berufsgenossenschaft Holz und Metall
+
+    *   Besoldungsgruppe B 8
+
+
+*    *   9.
+
+    *   Verwaltungs-Berufsgenossenschaft
+
+    *   Besoldungsgruppe B 8
+
+
+
+
+(2) Für die Geschäftsführerin oder den Geschäftsführer oder die
+Vorsitzende oder den Vorsitzenden der Geschäftsführung der
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist die
+Besoldungsgruppe B 7 die Besoldungshöchstgrenze.
+
+(3) Die stellvertretende Geschäftsführerin oder der stellvertretende
+Geschäftsführer, die Mitglieder einer Geschäftsführung sowie die
+leitende technische Aufsichtsperson sind jeweils mindestens eine
+Besoldungsgruppe niedriger einzustufen als die Geschäftsführerin oder
+der Geschäftsführer oder die Vorsitzende oder der Vorsitzende einer
+Geschäftsführung.
+
+(4) Für vertraglich zu vereinbarende Vergütungen im Sinne des Absatzes
+1 ist die Obergrenze das jeweilige Grundgehalt zuzüglich des
+Familienzuschlags der Stufe 2.
+
+
+#### § 148 Dienstrechtliche Vorschriften für die Unfallversicherung Bund und Bahn
+
+(1) Die Unfallversicherung Bund und Bahn besitzt Dienstherrnfähigkeit
+im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten sind
+Bundesbeamte. Für die Arbeitnehmer und Auszubildenden gelten die
+Bestimmungen für Arbeitnehmer und Auszubildende des Bundes.
+
+(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
+auf Vorschlag des Vorstandes der Unfallversicherung Bund und Bahn die
 Beamten. Es kann seine Befugnis auf den Vorstand übertragen mit dem
 Recht, diese Befugnis ganz oder teilweise auf den Geschäftsführer
 weiter zu übertragen.
 
-(3) Oberste Dienstbehörde ist für den Geschäftsführer und seinen
-Stellvertreter das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung, für die übrigen Beamten der Vorstand der
-Unfallkasse, der seine Befugnisse ganz oder teilweise auf den
-Geschäftsführer übertragen kann.
-
-(4) Unbeschadet der Absätze 1 und 2 können das Bundeseisenbahnvermögen
-und die Unternehmen, für deren Versicherte die Eisenbahn-Unfallkasse
-Träger der Unfallversicherung ist, für die Verwaltung der Eisenbahn-
-Unfallkasse erforderliches Personal gegen Kostenerstattung zur
-Verfügung stellen. Das gilt insbesondere für Beamte und Arbeitnehmer,
-die bei Errichtung der Eisenbahn-Unfallkasse Aufgaben der
-Unfallverhütung beim Bundeseisenbahnvermögen oder der
-Unfallversicherung bei der Bundesbahn-Ausführungsbehörde für
-Unfallversicherung wahrgenommen haben. Das
-Arbeitnehmerüberlassungsgesetz findet keine Anwendung.
-
-
-#### § 149 Dienstrechtliche Vorschriften für die Unfallkasse Post und Telekom
-
-(1) Die Unfallkasse Post und Telekom besitzt Dienstherrnfähigkeit im
-Sinne § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte.
-Bei der Unfallkasse können die nach § 26 Abs. 1 des
-Bundesbesoldungsgesetzes zulässigen Obergrenzen für Beförderungsämter
-überschritten werden, soweit dies wegen der mit den Funktionen
-verbundenen Anforderungen erforderlich ist. Für die Angestellten und
-Arbeiter gelten die Bestimmungen für Arbeitnehmer des Bundes mit
-besonderen Ergänzungen, soweit dies wegen der mit den Funktionen
-verbundenen Anforderungen erforderlich ist.
-
-(2) Das Bundesministerium der Finanzen ernennt und entläßt auf
-Vorschlag des Vorstandes der Unfallkasse die Beamten. Es kann seine
-Befugnis auf den Vorstand übertragen mit dem Recht, diese Befugnis
-ganz oder teilweise auf den Geschäftsführer weiter zu übertragen.
-
-(3) Oberste Dienstbehörde für den Geschäftsführer und seinen
-Stellvertreter ist das Bundesministerium der Finanzen, für die übrigen
-Beamten der Vorstand der Unfallkasse Post und Telekom, der seine
-Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen
-kann.
-
-(4) Unbeschadet der Absätze 1 und 2 können das Bundesministerium der
-Finanzen und die Unternehmen, für deren Versicherte die Unfallkasse
-Post und Telekom Träger der Unfallversicherung ist, für die
-Aufgabenerfüllung der Unfallkasse Post und Telekom erforderliches
-Personal gegen Kostenerstattung zur Verfügung stellen. Dies gilt
-insbesondere für Beamte und Arbeitnehmer, die bei der Errichtung der
-Unfallkasse Post und Telekom Aufgaben der Unfallversicherung
-einschließlich Überwachung und Prävention bei der Bundespost-
-Ausführungsbehörde für Unfallversicherung oder der Zentralstelle
-Arbeitsschutz im Bundesamt für Post und Telekommunikation wahrgenommen
-haben. Das Arbeitnehmerüberlassungsgesetz findet keine Anwendung.
-
-
-#### § 149a Dienstrechtliche Vorschriften für die Unfallkasse des Bundes
-
-(1) Die Unfallkasse des Bundes besitzt Dienstherrnfähigkeit im Sinne
-des § 2 des Bundesbeamtengesetzes. Die Beamten sind Bundesbeamte. Für
-die Angestellten und Arbeiter gelten die Bestimmungen für Arbeitnehmer
-des Bundes.
-
-(2) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
-auf Vorschlag des Vorstandes der Unfallkasse die Beamten. Es kann
-seine Befugnis auf den Vorstand übertragen mit dem Recht, diese
-Befugnis ganz oder teilweise auf den Geschäftsführer weiter zu
-übertragen.
-
 (3) Oberste Dienstbehörde für den Geschäftsführer und seinen
 Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für
-die übrigen Beamten der Vorstand der Unfallkasse, der seine Befugnisse
-ganz oder teilweise auf den Geschäftsführer übertragen kann.
+die übrigen Beamten der Vorstand der Unfallversicherung Bund und Bahn,
+der seine Befugnisse ganz oder teilweise auf den Geschäftsführer
+übertragen kann.
+
+
+#### § 149 (weggefallen)
+
 
 
 ## Sechstes Kapitel - Aufbringung der Mittel
@@ -5836,7 +5474,10 @@ ganz oder teilweise auf den Geschäftsführer übertragen kann.
 Versicherte tätig sind oder zu denen Versicherte in einer besonderen,
 die Versicherung begründenden Beziehung stehen. Die nach § 2
 versicherten Unternehmer sowie die nach § 3 Abs. 1 Nr. 1 und § 6 Abs.
-1 Versicherten sind selbst beitragspflichtig.
+1 Versicherten sind selbst beitragspflichtig. Für Versicherte nach § 6
+Absatz 1 Satz 2 ist die jeweilige Organisation oder der jeweilige
+Verband beitragspflichtig. Entsprechendes gilt in den Fällen des § 6
+Absatz 1 Satz 3.
 
 (2) Neben den Unternehmern sind beitragspflichtig
 
@@ -5854,12 +5495,17 @@ und Abs. 3 genannten Bevollmächtigten haften mit den Unternehmern als
 Gesamtschuldner.
 
 (3) Für die Beitragshaftung bei der Arbeitnehmerüberlassung gilt § 28e
-Abs. 2 und 4 des Vierten Buches und für die Beitragshaftung bei der
+Abs. 2 und 4 des Vierten Buches, für die Beitragshaftung bei der
 Ausführung eines Dienst- oder Werkvertrages im Baugewerbe gelten § 28e
-Absatz 3a bis 3f sowie § 116a des Vierten Buches entsprechend. Der
-Nachunternehmer oder der von diesem beauftragte Verleiher hat für den
-Nachweis nach § 28e Absatz 3f des Vierten Buches eine qualifizierte
-Unbedenklichkeitsbescheinigung des zuständigen
+Absatz 3a bis 3f sowie § 116a des Vierten Buches und für die
+Beitragshaftung bei der Ausführung eines Dienst- oder Werkvertrages
+durch Unternehmer im Speditions-, Transport- und damit verbundenen
+Logistikgewerbe, die im Bereich der Kurier-, Express- und Paketdienste
+tätig sind und im Auftrag eines anderen Unternehmers adressierte
+Pakete befördern, gilt § 28e Absatz 3g des Vierten Buches
+entsprechend. Der Nachunternehmer oder der von diesem beauftragte
+Verleiher hat für den Nachweis nach § 28e Absatz 3f des Vierten Buches
+eine qualifizierte Unbedenklichkeitsbescheinigung des zuständigen
 Unfallversicherungsträgers vorzulegen; diese enthält insbesondere
 Angaben über die bei dem Unfallversicherungsträger eingetragenen
 Unternehmensteile und diesen zugehörigen Lohnsummen des
@@ -5944,14 +5590,13 @@ die Berechnung der Beiträge der freiwillig Versicherten nach § 6 Abs.
 1 Nr. 3 und 4 gilt § 155 entsprechend. Die Beiträge werden für volle
 Monate erhoben.
 
-(2) Soweit bei der Berufsgenossenschaft für Transport und
-Verkehrswirtschaft für das Arbeitsentgelt oder das Arbeitseinkommen
-Durchschnittssätze gelten, sind diese maßgebend. Die Satzung der
-Berufsgenossenschaft für Transport und Verkehrswirtschaft kann
-bestimmen, daß der Beitragsberechnung der Jahresarbeitsverdienst von
-Versicherten, die nicht als Kapitän, Besatzungsmitglied oder sonst im
-Rahmen des Schiffsbetriebes tätig sind, nur zum Teil zugrunde gelegt
-wird.
+(2) Soweit bei der Berufsgenossenschaft Verkehrswirtschaft Post-
+Logistik Telekommunikation für das Arbeitsentgelt oder das
+Arbeitseinkommen Durchschnittssätze gelten, sind diese maßgebend. Die
+Satzung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation kann bestimmen, daß der Beitragsberechnung der
+Jahresarbeitsverdienst von Versicherten, die nicht als
+Besatzungsmitglied tätig sind, nur zum Teil zugrunde gelegt wird.
 
 (3) Berechnungsgrundlagen für die Beiträge sind in den Fällen des §
 152 Absatz 3 der für diesen Personenkreis erforderliche Finanzbedarf
@@ -5984,8 +5629,9 @@ Bezugsgröße bestimmt werden.
 (1) Der Unfallversicherungsträger setzt als autonomes Recht einen
 Gefahrtarif fest. In dem Gefahrtarif sind zur Abstufung der Beiträge
 Gefahrklassen festzustellen. Für die in § 121 Abs. 2 genannten
-Unternehmen der Seefahrt kann die Berufsgenossenschaft für Transport
-und Verkehrswirtschaft Gefahrklassen feststellen.
+Unternehmen der Seefahrt kann die Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation Gefahrklassen
+feststellen.
 
 (2) Der Gefahrtarif wird nach Tarifstellen gegliedert, in denen
 Gefahrengemeinschaften nach Gefährdungsrisiken unter Berücksichtigung
@@ -6084,19 +5730,19 @@ richtet sich nach der Zahl, der Schwere oder den Aufwendungen für die
 Versicherungsfälle oder nach mehreren dieser Merkmale. Die Satzung
 kann bestimmen, dass auch die nicht anzeigepflichtigen
 Versicherungsfälle für die Berechnung von Zuschlägen oder Nachlässen
-berücksichtigt werden. Die Sätze 1 bis 5 gelten auch für die
-Eisenbahn-Unfallkasse und für die Unfallkasse Post und Telekom. Die
-landwirtschaftlichen Berufsgenossenschaften können durch Satzung
-bestimmen, daß entsprechend den Sätzen 1 bis 5 Zuschläge auferlegt
-oder Nachlässe bewilligt werden.
+berücksichtigt werden. Die Sätze 1 bis 5 gelten auch für den
+Zuständigkeitsbereich der Unfallversicherung Bund und Bahn nach § 125
+Absatz 2. Die landwirtschaftliche Berufsgenossenschaft kann durch
+Satzung bestimmen, daß entsprechend den Sätzen 1 bis 5 Zuschläge
+auferlegt oder Nachlässe bewilligt werden.
 
 (2) Die Unfallversicherungsträger können unter Berücksichtigung der
 Wirksamkeit der von den Unternehmern getroffenen Maßnahmen zur
 Verhütung von Arbeitsunfällen und Berufskrankheiten und für die
 Verhütung von arbeitsbedingten Gesundheitsgefahren Prämien gewähren.
-Dabei sollen sie auch die in Integrationsvereinbarungen (§ 83 des
+Dabei sollen sie auch die in Inklusionsvereinbarungen (§ 166 des
 Neunten Buches) getroffenen Maßnahmen der betrieblichen Prävention (§
-84 des Neunten Buches) berücksichtigen.
+167 des Neunten Buches) berücksichtigen.
 
 (3) Die Absätze 1 und 2 gelten nicht für nicht gewerbsmäßige
 Bauarbeiten.
@@ -6107,13 +5753,13 @@ Bauarbeiten.
 (1) Für die Unternehmen der Küstenfischerei, deren Unternehmer nach §
 2 Abs. 1 Nr. 7 versichert sind, haben die Länder mit Küstenbezirken im
 voraus bemessene Zuschüsse zu den Beiträgen zu leisten; die Höhe der
-Zuschüsse stellt das Bundesversicherungsamt im Benehmen mit den
-obersten Verwaltungsbehörden der Länder mit Küstenbezirken jährlich
-fest. Die Zuschüsse sind für jedes Land entsprechend der Höhe des
-Jahresarbeitsverdienstes der in diesen Unternehmen tätigen
+Zuschüsse stellt das Bundesamt für Soziale Sicherung im Benehmen mit
+den obersten Verwaltungsbehörden der Länder mit Küstenbezirken
+jährlich fest. Die Zuschüsse sind für jedes Land entsprechend der Höhe
+des Jahresarbeitsverdienstes der in diesen Unternehmen tätigen
 Versicherten unter Heranziehung des Haushaltsvoranschlages der
-Berufsgenossenschaft für Transport und Verkehrswirtschaft
-festzustellen.
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation festzustellen.
 
 (2) Die Länder können die Beitragszuschüsse auf die Gemeinden oder
 Gemeindeverbände entsprechend der Höhe des Jahresarbeitsverdienstes
@@ -6155,20 +5801,23 @@ Das Nähere bestimmt die Satzung.
 
 ##### § 165 Nachweise
 
-(1) Die Unternehmer haben zur Berechnung der Umlage innerhalb von
-sechs Wochen nach Ablauf eines Kalenderjahres die Arbeitsentgelte der
-Versicherten und die geleisteten Arbeitsstunden in der vom
-Unfallversicherungsträger geforderten Aufteilung zu melden
-(Lohnnachweis). Die Satzung kann die Frist nach Satz 1 verlängern. Sie
-kann auch bestimmen, daß die Unternehmer weitere zur Berechnung der
-Umlage notwendige Angaben zu machen haben.
+(1) Die Unternehmer haben nach Ablauf eines Kalenderjahres die
+Arbeitsentgelte der Versicherten und die geleisteten Arbeitsstunden
+mit dem Lohnnachweis nach § 99 des Vierten Buches zu melden. Soweit
+Beträge für Beschäftigte erhoben werden, bei denen sich die Höhe des
+Beitrages nach den §§ 155, 156 und 185 Absatz 2 und 4 nicht nach den
+Arbeitsentgelten richtet, hat der Unternehmer die zur Berechnung der
+Umlage durch Satzung festgelegten Angaben nach § 99 des Vierten Buches
+zu melden. Soweit Beiträge für sonstige, nicht nach § 2 Absatz 1
+Nummer 1 Versicherte nicht nach den Arbeitsentgelten erhoben werden,
+werden die vom Unternehmer zur Berechnung der Umlage zu meldenden
+Angaben sowie das Verfahren durch Satzung bestimmt.
 
 (2) Die Unternehmer nicht gewerbsmäßiger Bauarbeiten haben zur
 Berechnung der Beiträge einen Nachweis über die sich aus der Satzung
 ergebenden Berechnungsgrundlagen in der vom Unfallversicherungsträger
 geforderten Frist einzureichen. Der Unfallversicherungsträger kann für
-den Nachweis nach Satz 1 eine bestimmte Form vorschreiben. Absatz 1
-Satz 3 gilt entsprechend.
+den Nachweis nach Satz 1 eine bestimmte Form vorschreiben.
 
 (3) Soweit die Unternehmer die Angaben nicht, nicht rechtzeitig,
 falsch oder unvollständig machen, kann der Unfallversicherungsträger
@@ -6187,7 +5836,7 @@ Jahre lang aufzubewahren.
 ##### § 166 Auskunftspflicht der Unternehmer und Beitragsüberwachung
 
 (1) Für die Auskunftspflicht der Unternehmer und die
-Beitragüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten
+Beitragsüberwachung gelten § 98 des Zehnten Buches, § 28p des Vierten
 Buches und die Beitragsverfahrensverordnung, entsprechend mit der
 Maßgabe, daß sich die Auskunfts- und Vorlagepflicht der Unternehmer
 und die Prüfungs- und Überwachungsbefugnis der
@@ -6198,20 +5847,46 @@ Gefahrklassen erforderlich sind.
 
 (2) Die Prüfung nach Absatz 1 bei den Arbeitgebern wird von den
 Trägern der Rentenversicherung im Auftrag der Unfallversicherung im
-Rahmen ihrer Prüfung nach § 28p des Vierten Buches durchgeführt. Satz
-1 gilt nicht, soweit sich die Höhe des Beitrages nach den §§ 155, 156,
-185 Abs. 2 oder § 185 Abs. 4 nicht nach den Arbeitsentgelten richtet.
+Rahmen ihrer Prüfung nach § 28p des Vierten Buches durchgeführt.
+Unternehmen, bei denen der für das vorvergangene Jahr vor der Prüfung
+nach § 168 Absatz 1 festgestellte Beitrag einen Betrag in Höhe von 1,5
+Prozent der Bezugsgröße nicht überstiegen hat, sind dabei bis auf eine
+durch den Unfallversicherungsträger festzulegende Stichprobe von der
+Prüfung ausgenommen. Satz 1 gilt nicht,
+
+
+1.  soweit sich die Höhe des Beitrages nach den §§ 155, 156, 185 Absatz 2
+    oder Absatz 4 nicht nach den Arbeitsentgelten richtet,
+
+
+2.  wenn der Unfallversicherungsträger das Ende seiner Zuständigkeit für
+    das Unternehmen durch einen Bescheid nach § 136 Absatz 1 festgestellt
+    hat.
+
+
+
 Unternehmer, bei denen keine Prüfung nach § 28p des Vierten Buches
 durchzuführen ist, prüfen die Unfallversicherungsträger; hierfür
-bestimmen sie die Prüfungsabstände.
+bestimmen sie die Prüfungsabstände. Die Unfallversicherungsträger
+können die Prüfung nach Absatz 1 selbst durchführen, wenn
+Anhaltspunkte vorliegen, dass der Unternehmer Arbeitsentgelte nicht
+oder nicht zur richtigen Gefahrklasse gemeldet hat. Der für die
+Prüfung zuständige Rentenversicherungsträger ist über den Beginn und
+über das Ergebnis der Prüfung zu informieren.
 
-(3) Die Träger der Rentenversicherung erhalten für die
-Beitragsüberwachung von den Trägern der Unfallversicherung eine
-pauschale Vergütung, mit der alle dadurch entstehenden Kosten
-abgegolten werden. Die Höhe wird regelmäßig durch Vereinbarung
-zwischen der Deutschen Gesetzlichen Unfallversicherung
-e. V.              und der Deutschen Rentenversicherung Bund
-festgesetzt.
+(3) Das Nähere über die Größe der Stichprobe nach Absatz 2 Satz 2
+sowie über Art, Umfang und Zeitpunkt der Übermittlung der Angaben über
+die von der Prüfung ausgenommenen Unternehmen regeln die Deutsche
+Gesetzliche Unfallversicherung e. V. und die Deutsche
+Rentenversicherung Bund in einer Vereinbarung. Die Träger der
+Rentenversicherung erhalten für die Beitragsüberwachung von den
+Trägern der Unfallversicherung eine pauschale Vergütung, mit der alle
+dadurch entstehenden Kosten abgegolten werden. Die Höhe wird
+regelmäßig durch Vereinbarung zwischen der Deutschen Gesetzlichen
+Unfallversicherung e. V. und der Deutschen Rentenversicherung Bund
+festgesetzt. Die Deutsche Gesetzliche Unfallversicherung e. V. prüft
+bei den Trägern der Rentenversicherung deren Aufgabenerfüllung nach
+Absatz 2 Satz 1.
 
 
 ##### § 167 Beitragsberechnung
@@ -6231,7 +5906,9 @@ nach dem Beitragsfuß des letzten Umlagejahres berechnet.
 ##### § 168 Beitragsbescheid
 
 (1) Der Unfallversicherungsträger teilt den Beitragspflichtigen den
-von ihnen zu zahlenden Beitrag schriftlich mit.
+von ihnen zu zahlenden Beitrag schriftlich mit. Einer Anhörung nach §
+24 des Zehnten Buches bedarf es nur in den Fällen des Absatzes 2 Satz
+1\.
 
 (2) Der Beitragsbescheid ist mit Wirkung für die Vergangenheit
 zuungunsten der Beitragspflichtigen nur dann aufzuheben, wenn
@@ -6240,12 +5917,11 @@ zuungunsten der Beitragspflichtigen nur dann aufzuheben, wenn
     geändert wird,
 
 
-2.  der Lohnnachweis unrichtige Angaben enthält oder sich die Schätzung
-    als unrichtig erweist,
+2.  die Meldung nach § 165 Absatz 1 unrichtige Angaben enthält oder sich
+    die Schätzung als unrichtig erweist.
 
 
-3.  die Anmeldung nach § 157 Abs. 6 unrichtige oder unvollständige Angaben
-    enthält oder unterblieben ist.
+3.  (weggefallen)
 
 
 
@@ -6255,6 +5931,12 @@ Unfallversicherungsträger nach § 24 des Zehnten Buches, soweit die für
 die Aufhebung erheblichen Tatsachen in der Prüfung festgestellt worden
 sind und der Arbeitgeber Gelegenheit hatte, gegenüber dem
 Rentenversicherungsträger hierzu Stellung zu nehmen.
+
+(2a) Enthält eine Meldung nach § 99 des Vierten Buches unrichtige
+Angaben, unterbleibt eine Aufhebung des Beitragsbescheides nach § 44
+des Zehnten Buches zugunsten des Unternehmers, solange die
+fehlerhaften Meldungen nicht durch den Unternehmer korrigiert worden
+sind.
 
 (3) Die Satzung kann bestimmen, daß die Unternehmer ihren Beitrag
 selbst zu errechnen haben; sie regelt das Verfahren sowie die
@@ -6391,39 +6073,49 @@ die Unfallversicherungsträger gegenüber ihren Tarifbeschäftigten
 Leistungen der betrieblichen Altersvorsorge unmittelbar zugesagt
 haben.
 
+(1a) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
+für Altersrückstellungen gelten die Vorschriften des Vierten Titels
+des Vierten Abschnitts des Vierten Buches mit der Maßgabe, dass eine
+Anlage auch in Euro-denominierten Aktien im Rahmen eines passiven,
+indexorientierten Managements zulässig ist. Die Anlageentscheidungen
+sind jeweils so zu treffen, dass der Anteil an Aktien maximal 20
+Prozent des Deckungskapitals beträgt. Änderungen des Aktienkurses
+können vorübergehend zu einem höheren Anteil an Aktien am
+Deckungskapital führen. Die Sätze 1 bis 3 gelten auch für das
+Deckungskapital für Altersrückstellungen nach § 12 der
+Sozialversicherungs-Rechnungsverordnung.
+
 (2) Die Rückstellungen dürfen nur zweckentsprechend verwendet werden.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz das Nähere zur Höhe der für die
-Altersrückstellungen erforderlichen Zuweisungssätze, zum Zahlverfahren
-der Zuweisungen, zur Überprüfung der Höhe der Zuweisungssätze sowie
-zur Anlage des Deckungskapitals durch Rechtsverordnung mit Zustimmung
-des Bundesrates zu regeln. Das Bundesministerium für Arbeit und
-Soziales kann die Befugnis nach Satz 1 mit Zustimmung des Bundesrates
-durch Rechtsverordnung auf das Bundesversicherungsamt übertragen.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft das Nähere zur Höhe der für die Altersrückstellungen
+erforderlichen Zuweisungssätze, zum Zahlverfahren der Zuweisungen, zur
+Überprüfung der Höhe der Zuweisungssätze sowie zur Anlage des
+Deckungskapitals durch Rechtsverordnung mit Zustimmung des Bundesrates
+zu regeln. Das Bundesministerium für Arbeit und Soziales kann die
+Befugnis nach Satz 1 mit Zustimmung des Bundesrates durch
+Rechtsverordnung auf das Bundesamt für Soziale Sicherung übertragen.
 Rechtsverordnungen, die nach Satz 2 erlassen werden, bedürfen einer
-Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. sowie des
-Spitzenverbandes der landwirtschaftlichen Sozialversicherung und
-ergehen im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales sowie dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz.
+Anhörung der Deutschen Gesetzlichen Unfallversicherung e. V. sowie der
+landwirtschaftlichen Berufsgenossenschaft und ergehen im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales sowie dem
+Bundesministerium für Ernährung und Landwirtschaft.
 
 
-#### Sechster Unterabschnitt - Zusammenlegung und Teilung der Last, Teilung der Entschädigungslast bei Berufskrankheiten, Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaften
+#### Sechster Unterabschnitt - Zusammenlegung und Teilung der Last, Teilung der Entschädigungslast bei Berufskrankheiten, Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
 
 
 
 ##### § 173 Zusammenlegung und Teilung der Last
 
-(1) Die gewerblichen und landwirtschaftlichen Berufsgenossenschaften
-können jeweils vereinbaren, ihre Entschädigungslast ganz oder zum Teil
-gemeinsam zu tragen. Dabei wird vereinbart, wie die gemeinsame Last
-auf die beteiligten Berufsgenossenschaften zu verteilen ist. Die
-Vereinbarung bedarf der Zustimmung der Vertreterversammlungen und der
-Genehmigung der Aufsichtsbehörden der beteiligten
-Berufsgenossenschaften. Sie darf nur mit dem Beginn eines
-Kalenderjahres wirksam werden.
+(1) Die gewerblichen Berufsgenossenschaften können vereinbaren, ihre
+Entschädigungslast ganz oder zum Teil gemeinsam zu tragen. Dabei wird
+vereinbart, wie die gemeinsame Last auf die beteiligten
+Berufsgenossenschaften zu verteilen ist. Die Vereinbarung bedarf der
+Zustimmung der Vertreterversammlungen und der Genehmigung der
+Aufsichtsbehörden der beteiligten Berufsgenossenschaften. Sie darf nur
+mit dem Beginn eines Kalenderjahres wirksam werden.
 
 (2) Kommt eine Vereinbarung nach Absatz 1 nicht zustande und erscheint
 es zur Abwendung der Gefährdung der Leistungsfähigkeit einer
@@ -6433,10 +6125,7 @@ Bundesrates bestimmen, daß Berufsgenossenschaften ihre
 Entschädigungslast für ein Kalenderjahr ganz oder zum Teil gemeinsam
 tragen oder eine vorübergehend nicht leistungsfähige
 Berufsgenossenschaft unterstützen, und das Nähere über die Verteilung
-der Last und die Höhe der Unterstützung regeln. Sollen nur
-landesunmittelbare Berufsgenossenschaften beteiligt werden, gilt die
-Ermächtigung des Satzes 1 für die Landesregierungen der Länder, in
-denen die Berufsgenossenschaften ihren Sitz haben.
+der Last und die Höhe der Unterstützung regeln.
 
 (3) Der Anteil der Berufsgenossenschaft an der gemeinsamen Last wird
 wie die Entschädigungsbeträge, die die Berufsgenossenschaft nach
@@ -6465,11 +6154,11 @@ Verteilungsmaßstab wählen, einen pauschalierten Ausgleich vorsehen
 oder von einem Ausgleich absehen.
 
 
-##### § 175 Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaften
+##### § 175 Erstattungsansprüche der landwirtschaftlichen Berufsgenossenschaft
 
 Erleiden vorübergehend für ein landwirtschaftliches Unternehmen Tätige
 einen Versicherungsfall und ist für ihre hauptberufliche Tätigkeit ein
-anderer Unfallversicherungsträger als eine landwirtschaftliche
+anderer Unfallversicherungsträger als die landwirtschaftliche
 Berufsgenossenschaft zuständig, erstattet dieser der
 landwirtschaftlichen Berufsgenossenschaft die Leistungen, die über das
 hinausgehen, was mit gleichen Arbeiten dauernd in der Landwirtschaft
@@ -6645,31 +6334,32 @@ und kirchlichen Einrichtungen.
 
 ##### § 181 Durchführung des Ausgleichs
 
-(1) Das Bundesversicherungsamt führt nach Ablauf des Ausgleichsjahres
-die Lastenverteilung nach § 178 durch. Zu diesem Zweck ermittelt es
-die auszugleichenden Beträge und berechnet den Ausgleichsanteil, der
-auf die einzelne Berufsgenossenschaft entfällt. Der Zahlungsausgleich
-aufgrund der auszugleichenden Beträge erfolgt durch unmittelbare
-Zahlungen der ausgleichspflichtigen an die ausgleichsberechtigten
-Berufsgenossenschaften nach Zugang des Bescheides.
+(1) Das Bundesamt für Soziale Sicherung führt nach Ablauf des
+Ausgleichsjahres die Lastenverteilung nach § 178 durch. Zu diesem
+Zweck ermittelt es die auszugleichenden Beträge und berechnet den
+Ausgleichsanteil, der auf die einzelne Berufsgenossenschaft entfällt.
+Der Zahlungsausgleich aufgrund der auszugleichenden Beträge erfolgt
+durch unmittelbare Zahlungen der ausgleichspflichtigen an die
+ausgleichsberechtigten Berufsgenossenschaften nach Zugang des
+Bescheides.
 
-(2) Die Berufsgenossenschaften haben dem Bundesversicherungsamt bis
-zum 20. März des auf das Ausgleichsjahr folgenden Kalenderjahres die
-Angaben zu machen, die für die Berechnung des Ausgleichs erforderlich
-sind. Das Bundesversicherungsamt stellt gegenüber den
-Berufsgenossenschaften bis zum 31. März diesen Jahres den jeweiligen
-Ausgleichsanteil fest. Die ausgleichspflichtigen
+(2) Die Berufsgenossenschaften haben dem Bundesamt für Soziale
+Sicherung bis zum 20. März des auf das Ausgleichsjahr folgenden
+Kalenderjahres die Angaben zu machen, die für die Berechnung des
+Ausgleichs erforderlich sind. Das Bundesamt für Soziale Sicherung
+stellt gegenüber den Berufsgenossenschaften bis zum 31. März diesen
+Jahres den jeweiligen Ausgleichsanteil fest. Die ausgleichspflichtigen
 Berufsgenossenschaften zahlen den auf sie entfallenden
 Ausgleichsbetrag nach Absatz 1 bis zum 25. Juni diesen Jahres an die
 ausgleichsberechtigten Berufsgenossenschaften.
 
-(3) Die Werte nach § 178 Abs. 1 Satz 1 sind vom Bundesversicherungsamt
-unter Berücksichtigung der Rentenwerte zu überprüfen. Das
+(3) Die Werte nach § 178 Abs. 1 Satz 1 sind vom Bundesamt für Soziale
+Sicherung unter Berücksichtigung der Rentenwerte zu überprüfen. Das
 Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Werte nach § 178
 Abs. 1 Satz 1 neu festzusetzen. Es kann die Befugnis nach Satz 2 durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf das
-Bundesversicherungsamt übertragen. Rechtsverordnungen, die nach Satz 3
+Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für
+Soziale Sicherung übertragen. Rechtsverordnungen, die nach Satz 3
 erlassen werden, bedürfen einer Anhörung der Deutschen Gesetzlichen
 Unfallversicherung e. V. und ergehen im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales.
@@ -6680,15 +6370,15 @@ folgenden Jahres, erstmals bis zum 31. Dezember 2012, über die
 Wirkungen der gemeinsamen Tragung der Rentenlasten nach § 178 zu
 berichten.
 
-(5) Die Berufsgenossenschaften erstatten dem Bundesversicherungsamt
-die Verwaltungskosten, die bei der Durchführung des Ausgleichs
-entstehen. Das Bundesversicherungsamt weist die für die Durchführung
-der Abrechnung erforderlichen Verwaltungskosten pauschal nach
-Stellenanteilen nach. Der Ermittlung der Verwaltungskosten sind die
-Personalkostenansätze des Bundes einschließlich der
-Sachkostenpauschale zugrunde zu legen. Zusätzliche Verwaltungsausgaben
-können in ihrer tatsächlichen Höhe hinzugerechnet werden. Die
-Aufteilung des Erstattungsbetrages auf die gewerblichen
+(5) Die Berufsgenossenschaften erstatten dem Bundesamt für Soziale
+Sicherung die Verwaltungskosten, die bei der Durchführung des
+Ausgleichs entstehen. Das Bundesamt für Soziale Sicherung weist die
+für die Durchführung der Abrechnung erforderlichen Verwaltungskosten
+pauschal nach Stellenanteilen nach. Der Ermittlung der
+Verwaltungskosten sind die Personalkostenansätze des Bundes
+einschließlich der Sachkostenpauschale zugrunde zu legen. Zusätzliche
+Verwaltungsausgaben können in ihrer tatsächlichen Höhe hinzugerechnet
+werden. Die Aufteilung des Erstattungsbetrages auf die gewerblichen
 Berufsgenossenschaften erfolgt entsprechend ihrem Anteil an dem
 Zahlungsvolumen für Rentenlasten im Ausgleichsjahr vor Durchführung
 des Ausgleichs.
@@ -6698,36 +6388,33 @@ der hierauf entfallenden Verwaltungskosten nach Absatz 5 haben keine
 aufschiebende Wirkung.
 
 
-### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftlichen Berufsgenossenschaften
+### Zweiter Abschnitt - Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
 
 
 
 #### § 182 Berechnungsgrundlagen
 
-(1) Auf die landwirtschaftlichen Berufsgenossenschaften finden
-anstelle der Vorschriften über die Berechnungsgrundlagen aus dem
-Zweiten Unterabschnitt des Ersten Abschnitts die folgenden Absätze
-Anwendung.
+(1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
+der Vorschriften über die Berechnungsgrundlagen aus dem Zweiten
+Unterabschnitt des Ersten Abschnitts die folgenden Absätze Anwendung.
 
-(2) Berechnungsgrundlagen für die landwirtschaftlichen
-Berufsgenossenschaften sind das Umlagesoll, die Fläche, der
-Wirtschaftswert, der Flächenwert, der Arbeitsbedarf, der Arbeitswert
-oder ein anderer vergleichbarer Maßstab. Die Satzung hat bei der
-Festlegung der Berechnungsgrundlagen die Unfallrisiken in den
-Unternehmen ausreichend zu berücksichtigen; sie kann hierzu einen
-Gefahrtarif aufstellen. Die Satzung kann zusätzlich zu den
-Berechnungsgrundlagen nach den Sätzen 1 und 2 einen Mindestbeitrag
-oder einen Grundbeitrag bestimmen.
+(2) Berechnungsgrundlagen für die Beiträge der landwirtschaftlichen
+Berufsgenossenschaft sind das Umlagesoll, der Flächenwert, der
+Arbeitsbedarf, der Arbeitswert oder ein anderer vergleichbarer
+Maßstab. Die Satzung hat bei der Festlegung der Berechnungsgrundlagen
+die Unfallrisiken in den Unternehmen insbesondere durch die Bildung
+von Risikogruppen zu berücksichtigen; sie kann hierzu einen
+Gefahrtarif aufstellen. Ein angemessener solidarischer Ausgleich ist
+sicherzustellen. Die Satzung kann zusätzlich zu den
+Berechnungsgrundlagen nach den Sätzen 1 und 2 Mindestbeiträge und
+Berechnungsgrundlagen für Grundbeiträge festlegen.
 
 (3) Für Unternehmen ohne Bodenbewirtschaftung und für Nebenunternehmen
 eines landwirtschaftlichen Unternehmens kann die Satzung angemessene
-Berechnungsgrundlagen bestimmen; Absatz 2 Satz 2 und 3 gilt
+Berechnungsgrundlagen bestimmen; Absatz 2 Satz 2 bis 4 gilt
 entsprechend.
 
-(4) Wirtschaftswert ist der Wirtschaftswert im Sinne des § 1 Abs. 6
-des Gesetzes über die Alterssicherung der Landwirte.
-
-(5) Der Flächenwert der landwirtschaftlichen Nutzung wird durch
+(4) Der Flächenwert der landwirtschaftlichen Nutzung wird durch
 Vervielfältigung des durchschnittlichen Hektarwertes dieser Nutzung in
 der Gemeinde oder in dem Gemeindeteil, in dem die Flächen gelegen sind
 oder der Betrieb seinen Sitz hat, mit der Größe der im Unternehmen
@@ -6757,7 +6444,7 @@ Flächenwertes für
 
 
 
-(6) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für die
+(5) Der Arbeitsbedarf wird nach dem Durchschnittsmaß der für die
 Unternehmen erforderlichen menschlichen Arbeit unter Berücksichtigung
 der Kulturarten geschätzt und das einzelne Unternehmen hiernach
 veranlagt. Das Nähere über die Abschätzung und die Veranlagung
@@ -6765,7 +6452,7 @@ bestimmt die Satzung. Der Abschätzungstarif hat eine Geltungsdauer von
 höchstens sechs Kalenderjahren; die §§ 158 und 159 gelten
 entsprechend.
 
-(7) Arbeitswert ist der Wert der Arbeit, die von den im Unternehmen
+(6) Arbeitswert ist der Wert der Arbeit, die von den im Unternehmen
 tätigen Versicherten im Kalenderjahr geleistet wird. Die Satzung
 bestimmt unter Berücksichtigung von Art und Umfang der Tätigkeit, für
 welche Versicherten sich der Arbeitswert nach dem Arbeitsentgelt, nach
@@ -6777,19 +6464,15 @@ gelten § 157 Abs. 5 und die §§ 158 bis 160 entsprechend.
 
 #### § 183 Umlageverfahren
 
-(1) Auf die landwirtschaftlichen Berufsgenossenschaften finden
-anstelle der Vorschriften über das Umlageverfahren aus dem Vierten
+(1) Auf die landwirtschaftliche Berufsgenossenschaft finden anstelle
+der Vorschriften über das Umlageverfahren aus dem Vierten
 Unterabschnitt des Ersten Abschnitts die folgenden Absätze Anwendung.
 
 (2) Die Einzelheiten der Beitragsberechnung bestimmt die Satzung.
-Dabei ist sicherzustellen, dass die Ausgleichsumlage nach § 184d
-unmittelbar beitragswirksam wird; eine Beschränkung auf bestimmte
-Gruppen von Unternehmen ist unter Berücksichtigung des
-Beitragsmaßstabes zulässig.
 
 (3) Landwirtschaftlichen Unternehmern, für die versicherungsfreie
 Personen oder Personen tätig sind, die infolge dieser Tätigkeit bei
-einem anderen Unfallversicherungsträger als einer landwirtschaftlichen
+einem anderen Unfallversicherungsträger als der landwirtschaftlichen
 Berufsgenossenschaft versichert sind, wird auf Antrag eine
 Beitragsermäßigung bewilligt. Das Nähere bestimmt die Satzung.
 
@@ -6815,16 +6498,16 @@ Unternehmer nur dann aufzuheben, wenn
 
 
 
+Einer Anhörung nach § 24 des Zehnten Buches bedarf es nur in den
+Fällen des Satzes 2.
 
-(5a) Zur Sicherung des Beitragsaufkommens sollen die
-landwirtschaftlichen Berufsgenossenschaften Vorschüsse bis zur Höhe
-des voraussichtlichen Jahresbedarfs erheben. Für die Zahlung der
-Vorschüsse sollen mindestens drei Fälligkeitstermine festgelegt
-werden. Die Satzung regelt das Nähere zur Fälligkeit der Beiträge und
-Vorschüsse sowie zum Verfahren der Zahlung.
+(5a) Zur Sicherung des Beitragsaufkommens soll die landwirtschaftliche
+Berufsgenossenschaft Vorschüsse bis zur Höhe des voraussichtlichen
+Jahresbedarfs erheben. Die Satzung regelt das Nähere zur Fälligkeit
+der Beiträge und Vorschüsse sowie zum Verfahren der Zahlung.
 
-(5b) Der Beitrag und die Vorschüsse sollen im Wege des
-Lastschriftverfahrens eingezogen werden.
+(5b) Der Beitrag und die Vorschüsse sollen auf der Grundlage eines
+Lastschriftmandats eingezogen werden.
 
 (6) Die Unternehmer haben der landwirtschaftlichen
 Berufsgenossenschaft über die Unternehmens-, Arbeits- und
@@ -6841,8 +6524,8 @@ Einzug des Beitrags und der Vorschüsse erteilen.
 
 #### § 183a Rechenschaft über die Verwendung der Mittel
 
-Die landwirtschaftlichen Berufsgenossenschaften haben in ihren
-Mitgliederzeitschriften und vergleichbaren elektronischen Medien in
+Die landwirtschaftliche Berufsgenossenschaft hat in ihrer
+Mitgliederzeitschrift und vergleichbaren elektronischen Medien in
 hervorgehobener Weise und gebotener Ausführlichkeit jährlich über die
 Verwendung ihrer Mittel im Vorjahr Rechenschaft abzulegen und dort
 zugleich ihre Verwaltungsausgaben gesondert auch als Anteil des
@@ -6860,91 +6543,20 @@ jährlich ein Betrag von 0,5 Prozent der Ausgaben des abgelaufenen
 Kalenderjahres zugeführt. Es gilt § 172a Abs. 4.
 
 
-#### § 184a Lastenverteilung zwischen den landwirtschaftlichen Berufsgenossenschaften
-
-Die landwirtschaftlichen Berufsgenossenschaften tragen ihre
-Rentenlasten nach Maßgabe der folgenden Vorschriften gemeinsam.
-
-
-#### § 184b Begriffsbestimmungen
-
-(1) Rentenlasten sind die Aufwendungen der Berufsgenossenschaften für
-Renten, Sterbegeld und Abfindungen aus Unternehmen nach § 123 Abs. 1
-Nr. 1 sowie aus Versicherungsfällen, die nach Anlage I Kapitel VIII
-Sachgebiet I Abschnitt III Nr. 1 Buchstabe c Abs. 8 Nr. 2
-Doppelbuchstabe cc des Einigungsvertrages vom 31. August 1990 (BGBl.
-1990 II S. 885, 1064) auf die Berufsgenossenschaften übertragen worden
-sind.
-
-(2) Ausgleichsjahr ist das Kalenderjahr, für das die Rentenlasten
-gemeinsam getragen werden.
-
-(3) Neurenten eines Jahres sind die Rentenlasten des Ausgleichsjahres
-aus Versicherungsfällen, für die im Ausgleichsjahr oder in einem der
-vier vorangegangenen Jahre erstmals Rente, Sterbegeld oder Abfindung
-festgestellt wurde. Abfindungen sind dabei auf den Gesamtbetrag zu
-reduzieren, der bei laufender Rentenzahlung bis zum Ende des vierten
-Jahres nach der erstmaligen Feststellung der Rente geleistet worden
-wäre. Satz 2 gilt für Abfindungen nach § 75 entsprechend. Besondere
-Abfindungen nach § 221a bleiben außer Betracht.
-
-(4) Beitragsbelastbare Flächenwerte sind die Flächenwerte für die bei
-den landwirtschaftlichen Berufsgenossenschaften erfassten Flächen von
-Unternehmen nach § 123 Abs. 1 Nr. 1. Der Flächenwert der
-landwirtschaftlichen Nutzung wird durch Vervielfältigung des
-durchschnittlichen Hektarwertes dieser Nutzung in der Gemeinde, in der
-das Unternehmen seinen Sitz hat, mit der Größe der im Unternehmen
-genutzten Flächen (Eigentums- und Pachtflächen) gebildet. Der
-durchschnittliche Hektarwert der landwirtschaftlichen Nutzung
-errechnet sich aus der Summe der von den Finanzbehörden für die
-Gemeinde nach den Vorschriften des Bewertungsgesetzes ermittelten
-Vergleichswerte, geteilt durch die Gesamtfläche der in der Gemeinde
-gelegenen landwirtschaftlichen Nutzung. Als Hektarwert sind anzusetzen
-
-1.  für die weinbauliche Nutzung 5 500 Deutsche Mark,
-
-
-2.  für die forstwirtschaftliche Nutzung 150 Deutsche Mark,
-
-
-3.  für Geringstland 50 Deutsche Mark,
-
-
-4.  für landwirtschaftliche Sonderkulturen, insbesondere Gemüse, Obst,
-    Hopfen, Tabak, Spargel, Teichwirtschaft, Fischzucht und Saatzucht, 5
-    500 Deutsche Mark und
-
-
-5.  für die gärtnerische Nutzung 17 588 Deutsche Mark.
+#### § 184a (weggefallen)
 
 
 
-Maßgebend sind jeweils die betrieblichen Verhältnisse am 1. Juli des
-Ausgleichsjahres.
+#### § 184b (weggefallen)
 
 
-#### § 184c Gemeinsame Tragung der Rentenlasten
 
-Jede Berufsgenossenschaft trägt jährlich Rentenlasten in Höhe des
-Zweifachen ihrer Neurenten. Soweit die Rentenlasten die nach Satz 1 zu
-tragenden Lasten übersteigen, tragen die Berufsgenossenschaften den
-übersteigenden Betrag nach dem Verhältnis ihrer beitragsbelastbaren
-Flächenwerte gemeinsam.
+#### § 184c (weggefallen)
 
 
-#### § 184d Durchführung des Ausgleichs
 
-Der Spitzenverband der landwirtschaftlichen Sozialversicherung führt
-nach Ablauf des Ausgleichsjahres die Lastenverteilung nach § 184c
-durch. Zu diesem Zweck ermittelt er die auszugleichenden Beträge,
-berechnet den auf die einzelne Berufsgenossenschaft entfallenden
-Ausgleichsanteil und führt eine entsprechende Ausgleichsumlage durch.
-Das Nähere zur Durchführung des Ausgleichs, insbesondere das Melde-
-und Zahlungsverfahren, wird in der Satzung des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung geregelt. Klagen gegen
-Entscheidungen des Spitzenverbandes der landwirtschaftlichen
-Sozialversicherung zur Durchführung der Lastenverteilung haben keine
-aufschiebende Wirkung.
+#### § 184d (weggefallen)
+
 
 
 ### Dritter Abschnitt - Besondere Vorschriften für die Unfallversicherungsträger der öffentlichen Hand
@@ -6988,19 +6600,20 @@ Für die Gemeinden als Unternehmer können auch nach der Einwohnerzahl
 gestaffelte Gruppen gebildet werden.
 
 (4) Die Höhe der Beiträge richtet sich nach der Einwohnerzahl, der
-Zahl der Versicherten oder den Arbeitsentgelten. Die Satzung bestimmt
-den Beitragsmaßstab und regelt das Nähere über seine Anwendung; sie
-kann einen einheitlichen Mindestbeitrag bestimmen. Der Beitragssatz
-für geringfügig Beschäftigte in Privathaushalten, die nach § 28a Abs.
-7 des Vierten Buches der Einzugsstelle gemeldet worden sind, beträgt
-für das Jahr 2006 1,6 vom Hundert des jeweiligen Arbeitsentgelts. Das
-Bundesministerium für Arbeit und Soziales wird ermächtigt, den
-Beitragssatz durch Rechtsverordnung mit Zustimmung des Bundesrates
-gemäß den nachfolgenden Bestimmungen zu regeln. Der Beitragssatz des
-Jahres 2006 gilt so lange, bis er nach Maßgabe der Regelung über die
-Festsetzung der Beitragssätze nach § 21 des Vierten Buches neu
-festzusetzen ist. Die Deutsche Gesetzliche Unfallversicherung e. V.
-stellt einen gemeinsamen Beitragseinzug sicher.
+Zahl der Versicherten, den Arbeitsstunden oder den Arbeitsentgelten.
+Die Satzung bestimmt den Beitragsmaßstab und regelt das Nähere über
+seine Anwendung; sie kann einen einheitlichen Mindestbeitrag
+bestimmen. Der Beitragssatz für geringfügig Beschäftigte in
+Privathaushalten, die nach § 28a Abs. 7 des Vierten Buches der
+Einzugsstelle gemeldet worden sind, beträgt für das Jahr 2006 1,6 vom
+Hundert des jeweiligen Arbeitsentgelts. Das Bundesministerium für
+Arbeit und Soziales wird ermächtigt, den Beitragssatz durch
+Rechtsverordnung mit Zustimmung des Bundesrates gemäß den
+nachfolgenden Bestimmungen zu regeln. Der Beitragssatz des Jahres 2006
+gilt so lange, bis er nach Maßgabe der Regelung über die Festsetzung
+der Beitragssätze nach § 21 des Vierten Buches neu festzusetzen ist.
+Die Deutsche Gesetzliche Unfallversicherung e. V. stellt einen
+gemeinsamen Beitragseinzug sicher.
 
 (5) Die Satzung kann bestimmen, daß die Beiträge nach dem Grad des
 Gefährdungsrisikos unter Berücksichtigung der Leistungsaufwendungen
@@ -7012,22 +6625,22 @@ und 8 Versicherten erlitten haben, entsprechend den Grundsätzen des §
 werden.
 
 
-#### § 186 Aufwendungen der Unfallkasse des Bundes
+#### § 186 Aufwendungen der Unfallversicherung Bund und Bahn
 
-(1) Von den Vorschriften des Ersten Abschnitts finden auf die
-Unfallkasse des Bundes die §§ 150, 152, 155, 164 bis 166, 168, 172,
-172b und 172c Anwendung, soweit nicht in den folgenden Absätzen
-Abweichendes geregelt ist. Das Nähere bestimmt die Satzung.
+(1) Im Zuständigkeitsbereich des § 125 Absatz 1 finden von den
+Vorschriften des Ersten Abschnitts die §§ 150, 152, 155, 164 bis 166,
+168, 172, 172b und 172c Anwendung, soweit nicht in den folgenden
+Absätzen Abweichendes geregelt ist. Das Nähere bestimmt die Satzung.
 
-(2) Die Aufwendungen für Unternehmen nach § 125 Abs. 1 Nr. 3 und Abs.
-3 werden auf die beteiligten Unternehmer umgelegt. § 185 Abs. 5 gilt
-entsprechend.
+(2) Die Aufwendungen für Unternehmen nach § 125 Absatz 1 Nummer 3 und
+Absatz 4 werden auf die beteiligten Unternehmer umgelegt. § 185 Abs. 5
+gilt entsprechend.
 
-(3) Die Aufwendungen der Unfallkasse des Bundes für die Versicherung
-nach § 125 Abs. 1 Nr. 1, 4, 6 Buchstabe a, 7 und 8 werden auf die
-Dienststellen des Bundes umgelegt. Die Satzung bestimmt, in welchem
-Umfang diese Aufwendungen nach der Zahl der Versicherten oder den
-Arbeitsentgelten und in welchem Umfang nach dem Grad des
+(3) Die Aufwendungen der Unfallversicherung Bund und Bahn für die
+Versicherung nach § 125 Abs. 1 Nr. 1, 4, 6 Buchstabe a, 7 und 8 werden
+auf die Dienststellen des Bundes umgelegt. Die Satzung bestimmt, in
+welchem Umfang diese Aufwendungen nach der Zahl der Versicherten oder
+den Arbeitsentgelten und in welchem Umfang nach dem Grad des
 Gefährdungsrisikos unter Berücksichtigung der Leistungsaufwendungen
 umgelegt werden. Die Aufwendungen für die Versicherung nach § 125 Abs.
 1 Nr. 2 erstattet die Bundesagentur für Arbeit, die Aufwendungen für
@@ -7039,12 +6652,13 @@ für die Versicherung nach § 125 Abs. 1 Nr. 9 die jeweils zuständige
 Dienststelle des Bundes. Die Aufwendungen für Versicherte der
 alliierten Streitkräfte erstatten diese nach dem NATO-Truppenstatut
 und den Zusatzabkommen jeweils für ihren Bereich. Im Übrigen werden
-die Aufwendungen der Unfallkasse des Bundes vom Bundesministerium für
+die Aufwendungen der Unfallversicherung Bund und Bahn im
+Zuständigkeitsbereich des § 125 Absatz 1 vom Bundesministerium für
 Arbeit und Soziales getragen.
 
 (4) Die Dienststellen des Bundes und die Bundesagentur für Arbeit
 entrichten vierteljährlich im Voraus die Abschläge auf die zu
-erwartenden Aufwendungen. Die Unfallkasse des Bundes hat der
+erwartenden Aufwendungen. Die Unfallversicherung Bund und Bahn hat der
 Bundesagentur für Arbeit und den Dienststellen des Bundes die für die
 Erstattung erforderlichen Angaben zu machen und auf Verlangen Auskunft
 zu erteilen. Das Nähere über die Durchführung der Erstattung regelt
@@ -7094,51 +6708,22 @@ durchgeführt.
 
 ##### § 187a Reduzierung der Kosten für Verwaltung und Verfahren in der landwirtschaftlichen Unfallversicherung
 
-(1) Der Spitzenverband der landwirtschaftlichen Sozialversicherung
-wirkt darauf hin, dass die jährlichen Verwaltungs- und
-Verfahrenskosten der landwirtschaftlichen Berufsgenossenschaften bis
-zum Jahr 2014 um 20 vom Hundert der tatsächlichen Ausgaben für
-Verwaltungs- und Verfahrenskosten für das Kalenderjahr 2004 vermindert
-werden. Vom Jahr 2011 an hat der Spitzenverband der
-landwirtschaftlichen Sozialversicherung jedes Jahr dem
-Bundesministerium für Arbeit und Soziales, dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz und den
-Aufsichtsbehörden der Träger der landwirtschaftlichen
-Sozialversicherung über die Entwicklung der Verwaltungs- und
-Verfahrenskosten bei den einzelnen landwirtschaftlichen
-Berufsgenossenschaften und bei dem Spitzenverband der
-landwirtschaftlichen Sozialversicherung sowie über die umgesetzten und
-geplanten Maßnahmen zur Optimierung dieser Kosten zu berichten. Dabei
-ist gesondert auf die Schlussfolgerungen einzugehen, welche sich aus
-dem Benchmarking der Träger der landwirtschaftlichen
-Sozialversicherung ergeben.
+(1) Die landwirtschaftliche Berufsgenossenschaft ergreift Maßnahmen,
+damit die jährlichen Verwaltungs- und Verfahrenskosten für die
+landwirtschaftliche Unfallversicherung spätestens im Jahr 2016 nicht
+mehr als 95 Millionen Euro betragen. Die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau legt dem Bundesministerium für
+Arbeit und Soziales und dem Bundesministerium für Ernährung und
+Landwirtschaft bis zum 31. Dezember 2017 einen Bericht über die
+Entwicklung der Verwaltungs- und Verfahrenskosten in der
+landwirtschaftlichen Unfallversicherung vor. Das Bundesministerium für
+Arbeit und Soziales und das Bundesministerium für Ernährung und
+Landwirtschaft leiten den Bericht an den Deutschen Bundestag und an
+den Bundesrat weiter und fügen eine Stellungnahme bei.
 
 (2) Bei der Ermittlung der Verwaltungs- und Verfahrenskosten nach
-Absatz 1 Satz 1 bleiben unberücksichtigt:
-
-1.  Ausgaben für die Ausbildung; das Nähere zum Nachweis dieser Ausgaben
-    wird durch die Aufsichtsbehörden bestimmt,
-
-
-2.  Ausgaben für die Weiterbildung, soweit sie der Umsetzung der Maßnahmen
-    zur Modernisierung des Rechts der landwirtschaftlichen
-    Sozialversicherung dienen, und
-
-
-3.  Versorgungsaufwendungen.
-
-
-
-
-(3) Auf der Grundlage der Berichte nach Absatz 1 Satz 2 entscheiden
-die Aufsichtsbehörden im Rahmen der Genehmigung der Haushalte nach §
-71d des Vierten Buches über von den landwirtschaftlichen
-Berufsgenossenschaften zu veranlassende Maßnahmen zur Reduzierung der
-Verwaltungs- und Verfahrenskosten. Die §§ 87 bis 90a des Vierten
-Buches bleiben unberührt. Die Aufsichtsbehörden unterrichten das
-Bundesministerium für Arbeit und Soziales und das Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz über die
-Entscheidungen nach Satz 1.
+Absatz 1 Satz 1 bleiben Versorgungsaufwendungen und Zuführungen zum
+Altersrückstellungsvermögen unberücksichtigt.
 
 
 ## Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten
@@ -7157,12 +6742,17 @@ Erkrankungen des Versicherten verlangen, soweit dies für die
 Feststellung des Versicherungsfalls erforderlich ist. Sie sollen dabei
 ihr Auskunftsverlangen auf solche Erkrankungen oder auf solche
 Bereiche von Erkrankungen beschränken, die mit dem Versicherungsfall
-in einem ursächlichen Zusammenhang stehen können. Der Versicherte kann
-vom Unfallversicherungsträger verlangen, über die von den
-Krankenkassen übermittelten Daten unterrichtet zu werden; § 25 Abs. 2
-des Zehnten Buches gilt entsprechend. Der Unfallversicherungsträger
-hat den Versicherten auf das Recht, auf Verlangen über die von den
-Krankenkassen übermittelten Daten unterrichtet zu werden, hinzuweisen.
+in einem ursächlichen Zusammenhang stehen können. Für die
+Unterrichtung des Versicherten aufgrund seines Auskunftsrechts nach
+Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+23\.5.2018, S. 2) in der jeweils geltenden Fassung über die von den
+Krankenkassen an den Unfallversicherungsträger übermittelten Angaben
+über gesundheitliche Verhältnisse des Versicherten gilt § 25 Absatz 2
+des Zehnten Buches entsprechend.
 
 
 #### § 189 Beauftragung einer Krankenkasse
@@ -7214,7 +6804,10 @@ Unternehmens dem zuständigen Unfallversicherungsträger
 
 
 
-mitzuteilen.
+mitzuteilen. Die Mitteilungspflicht gilt als erfüllt, wenn eine
+Anzeige nach den §§ 14, 55c der Gewerbeordnung binnen einer Woche nach
+Beginn des Unternehmens gegenüber der zuständigen Stelle erstattet
+wurde.
 
 (2) Die Unternehmer haben Änderungen von
 
@@ -7287,13 +6880,15 @@ Berufskrankheit Kenntnis erlangt haben. Der Versicherte kann vom
 Unternehmer verlangen, daß ihm eine Kopie der Anzeige überlassen wird.
 
 (5) Die Anzeige ist vom Betriebs- oder Personalrat mit zu
-unterzeichnen. Der Unternehmer hat die Sicherheitsfachkraft und den
-Betriebsarzt über jede Unfall- oder Berufskrankheitenanzeige in
-Kenntnis zu setzen. Verlangt der Unfallversicherungsträger zur
-Feststellung, ob eine Berufskrankheit vorliegt, Auskünfte über
-gefährdende Tätigkeiten von Versicherten, haben die Unternehmer den
-Betriebs- oder Personalrat über dieses Auskunftsersuchen unverzüglich
-zu unterrichten.
+unterzeichnen; bei Erstattung der Anzeige durch Datenübertragung ist
+anzugeben, welches Mitglied des Betriebs- oder Personalrats vor der
+Absendung von ihr Kenntnis genommen hat. Der Unternehmer hat die
+Sicherheitsfachkraft und den Betriebsarzt über jede Unfall- oder
+Berufskrankheitenanzeige in Kenntnis zu setzen. Verlangt der
+Unfallversicherungsträger zur Feststellung, ob eine Berufskrankheit
+vorliegt, Auskünfte über gefährdende Tätigkeiten von Versicherten,
+haben die Unternehmer den Betriebs- oder Personalrat über dieses
+Auskunftsersuchen unverzüglich zu unterrichten.
 
 (6) (weggefallen)
 
@@ -7328,8 +6923,8 @@ besonderen Niederschrift nachzuweisen.
 
 Die Seeschiffe, die unter der Bundesflagge in Dienst gestellt werden
 sollen, haben die Eigentümer bereits nach ihrem Erwerb oder bei Beginn
-ihres Baus der Berufsgenossenschaft für Transport und
-Verkehrswirtschaft zu melden.
+ihres Baus der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation zu melden.
 
 
 #### § 195 Unterstützungs- und Mitteilungspflichten von Kammern und der für die Erteilung einer Gewerbe- oder Bauerlaubnis zuständigen Behörden
@@ -7348,9 +6943,11 @@ Berufsgenossenschaften über die Deutsche Gesetzliche
 Unfallversicherung e. V. nach Eingang einer Anzeige nach der
 Gewerbeordnung, soweit ihnen bekannt, Namen, Geburtsdatum und
 Anschrift der Unternehmer, Namen, Gegenstand sowie Tag der Eröffnung
-und der Einstellung der Unternehmen mitzuteilen. Entsprechendes gilt
-bei Erteilung einer Reisegewerbekarte. Im übrigen gilt Absatz 1
-entsprechend.
+und der Einstellung der Unternehmen und bei Änderung oder Übernahme
+bestehender Unternehmen den bisher zuständigen
+Unfallversicherungsträger und die Mitgliedsnummer/Unternehmensnummer
+mitzuteilen. Entsprechendes gilt bei Erteilung einer
+Reisegewerbekarte. Im übrigen gilt Absatz 1 entsprechend.
 
 (3) Die für die Erteilung von Bauerlaubnissen zuständigen Behörden
 haben dem zuständigen Unfallversicherungsträger nach Erteilung einer
@@ -7369,27 +6966,26 @@ eines Seeschiffs, die für die Führung von Schiffsregistern und des
 Internationalen Seeschiffahrtsregisters zuständigen Gerichte und
 Behörden teilen den Eingang jedes Antrags auf Eintragung eines
 Seeschiffs sowie jede Eintragung eines Seeschiffs der
-Berufsgenossenschaft für Transport und Verkehrswirtschaft unverzüglich
-mit. Entsprechendes gilt für alle Veränderungen und Löschungen im
-Schiffsregister. Bei Fahrzeugen, die nicht in das Schiffsregister
-eingetragen werden, haben die Verwaltungsbehörden und die
-Fischereiämter, die den Seeschiffen Unterscheidungssignale erteilen,
-die gleichen Pflichten.
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation unverzüglich mit. Entsprechendes gilt für alle
+Veränderungen und Löschungen im Schiffsregister. Bei Fahrzeugen, die
+nicht in das Schiffsregister eingetragen werden, haben die
+Verwaltungsbehörden und die Fischereiämter, die den Seeschiffen
+Unterscheidungssignale erteilen, die gleichen Pflichten.
 
 
-#### § 197 Übermittlungspflicht weiterer Behörden an die Träger der landwirtschaftlichen Sozialversicherung
+#### § 197 Übermittlungspflicht weiterer Behörden
 
 (1) Die Gemeinden übermitteln abweichend von § 30 der Abgabenordnung
 zum Zweck der Beitragserhebung auf Anforderung Daten über Eigentums-
-und Besitzverhältnisse an Flächen an die landwirtschaftlichen
-Berufsgenossenschaften, soweit die Ermittlungen von den
-landwirtschaftlichen Berufsgenossenschaften nur mit wesentlich
-größerem Aufwand vorgenommen werden können als von den Gemeinden.
+und Besitzverhältnisse an Flächen an die landwirtschaftliche
+Berufsgenossenschaft, soweit die Ermittlungen von der
+landwirtschaftlichen Berufsgenossenschaft nur mit wesentlich größerem
+Aufwand vorgenommen werden können als von den Gemeinden.
 
 (2) Die Finanzbehörden übermitteln in einem automatisierten Verfahren
-jährlich dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung (Kopfstelle) die maschinell vorhandenen
-Feststellungen zu
+jährlich der landwirtschaftlichen Berufsgenossenschaft die maschinell
+vorhandenen Feststellungen zu
 
 1.  der nutzungsartbezogenen Vergleichszahl einschließlich Einzelflächen
     mit Flurstückkennzeichen,
@@ -7411,45 +7007,39 @@ Feststellungen zu
     anfallenden Berechnungsgrundlagen sowie
 
 
-7.  den Ertragswerten für Abbauland und Geringstland
+7.  den Ertragswerten für Abbauland und Geringstland.
 
 
 
-zur Weiterleitung an die zuständigen landwirtschaftlichen
-Berufsgenossenschaften, landwirtschaftlichen Krankenkassen und
-landwirtschaftlichen Alterskassen, soweit dies zur Feststellung der
-Versicherungspflicht und zum Zweck der Beitragserhebung erforderlich
-ist. Diese Stellen dürfen die ihnen übermittelten Daten nur zur
-Feststellung der Versicherungspflicht, der Beitragserhebung oder zur
-Überprüfung von Rentenansprüchen nach dem Gesetz über die
-Alterssicherung der Landwirte nutzen. Sind übermittelte Daten für die
-Überprüfung nach Satz 2 nicht mehr erforderlich, sind sie unverzüglich
-zu löschen.
+Die landwirtschaftliche Berufsgenossenschaft, die landwirtschaftliche
+Krankenkasse und die landwirtschaftliche Alterskasse dürfen diese
+Daten nur zur Feststellung der Versicherungspflicht, der
+Beitragserhebung oder zur Überprüfung von Rentenansprüchen nach dem
+Gesetz über die Alterssicherung der Landwirte nutzen. Sind
+übermittelte Daten für die Überprüfung nach Satz 2 nicht mehr
+erforderlich, sind sie unverzüglich zu löschen.
 
 (3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, das
 Nähere über das Verfahren der automatisierten Datenübermittlung durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
-Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz und mit Zustimmung des Bundesrates zu regeln. Die
-Einrichtung eines automatisierten Abrufverfahrens ist ausgeschlossen.
+Finanzen und dem Bundesministerium für Ernährung und Landwirtschaft
+und mit Zustimmung des Bundesrates zu regeln. Die Einrichtung eines
+automatisierten Abrufverfahrens ist ausgeschlossen.
 
 (4) Die Flurbereinigungsverwaltung und die Vermessungsverwaltung
-übermitteln dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung (Kopfstelle) und den Finanzbehörden durch ein
-automatisiertes Abrufverfahren die jeweils bei ihnen maschinell
-vorhandenen Betriebs-, Flächen-, Nutzungs-, Produktions- und Tierdaten
-sowie die sonstigen hierzu gespeicherten Angaben. Der Spitzenverband
-der landwirtschaftlichen Sozialversicherung (Kopfstelle) leitet die
-übermittelten Daten an die zuständigen landwirtschaftlichen
-Berufsgenossenschaften, landwirtschaftlichen Krankenkassen und
-landwirtschaftlichen Alterskassen weiter, soweit dies zur Feststellung
-der Versicherungspflicht und zum Zweck der Beitragserhebung
-erforderlich ist. Die übermittelten Daten dürfen nur zur Feststellung
-der Versicherungs- oder Steuerpflicht, der Beitrags- oder
-Steuererhebung oder zur Überprüfung von Rentenansprüchen nach dem
-Gesetz über die Alterssicherung der Landwirte genutzt werden. Sind
-übermittelte Daten für die Überprüfung nach den Sätzen 2 und 3 nicht
-mehr erforderlich, sind sie unverzüglich zu löschen. Die Sätze 1 bis 3
+übermitteln der landwirtschaftlichen Berufsgenossenschaft und den
+Finanzbehörden durch ein automatisiertes Abrufverfahren die jeweils
+bei ihnen maschinell vorhandenen Betriebs-, Flächen-, Nutzungs-,
+Produktions- und Tierdaten sowie die sonstigen hierzu gespeicherten
+Angaben. Die übermittelten Daten dürfen durch die landwirtschaftliche
+Berufsgenossenschaft, landwirtschaftliche Krankenkasse und
+landwirtschaftliche Alterskasse nur zur Feststellung der
+Versicherungspflicht, der Beitragserhebung oder zur Überprüfung von
+Rentenansprüchen nach dem Gesetz über die Alterssicherung der
+Landwirte und durch die Finanzbehörden zur Feststellung der
+Steuerpflicht oder zur Steuererhebung genutzt werden. Sind
+übermittelte Daten für die Überprüfung nach Satz 2 nicht mehr
+erforderlich, sind sie unverzüglich zu löschen. Die Sätze 1 und 2
 gelten auch für die Ämter für Landwirtschaft und Landentwicklung, für
 die Veterinärverwaltung sowie sonstige nach Landesrecht zuständige
 Stellen, soweit diese Aufgaben wahrnehmen, die denen der Ämter für
@@ -7475,7 +7065,7 @@ erforderlich ist.
 
 
 
-#### § 199 Erhebung, Verarbeitung und Nutzung von Daten durch die Unfallversicherungsträger
+#### § 199 Verarbeitung von Daten durch die Unfallversicherungsträger
 
 (1) Die Unfallversicherungsträger dürfen Sozialdaten nur erheben und
 speichern, soweit dies zur Erfüllung ihrer gesetzlich vorgeschriebenen
@@ -7508,9 +7098,10 @@ oder zugelassenen Aufgaben erforderlich ist. Ihre Aufgaben sind
 
 
 (2) Die Sozialdaten dürfen nur für Aufgaben nach Absatz 1 in dem
-jeweils erforderlichen Umfang verarbeitet oder genutzt werden. Eine
-Verwendung für andere Zwecke ist nur zulässig, soweit dies durch
-Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist.
+jeweils erforderlichen Umfang verändert, genutzt, übermittelt oder in
+der Verarbeitung eingeschränkt werden. Eine Verarbeitung für andere
+Zwecke ist nur zulässig, soweit dies durch Rechtsvorschriften des
+Sozialgesetzbuches angeordnet oder erlaubt ist.
 
 (3) Bei der Feststellung des Versicherungsfalls soll der
 Unfallversicherungsträger Auskünfte über Erkrankungen und frühere
@@ -7532,31 +7123,32 @@ Zehnten Buches verpflichtet ist.
 
 (2) Vor Erteilung eines Gutachtenauftrages soll der
 Unfallversicherungsträger dem Versicherten mehrere Gutachter zur
-Auswahl benennen; der Betroffene ist außerdem auf sein
+Auswahl benennen; die betroffene Person ist außerdem auf ihr
 Widerspruchsrecht nach § 76 Abs. 2 des Zehnten Buches hinzuweisen und
 über den Zweck des Gutachtens zu informieren.
 
 
-### Zweiter Abschnitt - Datenerhebung und -verarbeitung durch Ärzte
+### Zweiter Abschnitt - Datenverarbeitung durch Ärzte
 
 
 
-#### § 201 Datenerhebung und Datenverarbeitung durch Ärzte
+#### § 201 Erhebung, Speicherung und Übermittlung von Daten durch Ärzte und Psychotherapeuten
 
-(1) Ärzte und Zahnärzte, die nach einem Versicherungsfall an einer
-Heilbehandlung nach § 34 beteiligt sind, erheben, speichern und
-übermitteln an die Unfallversicherungsträger Daten über die Behandlung
-und den Zustand des Versicherten sowie andere personenbezogene Daten,
-soweit dies für Zwecke der Heilbehandlung und die Erbringung sonstiger
-Leistungen einschließlich Überprüfung der Leistungsvoraussetzungen und
-Abrechnung der Leistungen erforderlich ist. Ferner erheben, speichern
-und übermitteln sie die Daten, die für ihre Entscheidung, eine
-Heilbehandlung nach § 34 durchzuführen, maßgeblich waren. Der
-Versicherte kann vom Unfallversicherungsträger verlangen, über die von
-den Ärzten übermittelten Daten unterrichtet zu werden. § 25 Abs. 2 des
-Zehnten Buches gilt entsprechend. Der Versicherte ist von den Ärzten
-über den Erhebungszweck, ihre Auskunftspflicht nach den Sätzen 1 und 2
-sowie über sein Recht nach Satz 3 zu unterrichten.
+(1) Ärzte und Zahnärzte sowie Psychotherapeuten, Psychologische
+Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten, die
+nach einem Versicherungsfall an einer Heilbehandlung nach § 34
+beteiligt sind, erheben, speichern und übermitteln an die
+Unfallversicherungsträger Daten über die Behandlung und den Zustand
+des Versicherten sowie andere personenbezogene Daten, soweit dies für
+Zwecke der Heilbehandlung und die Erbringung sonstiger Leistungen
+einschließlich Überprüfung der Leistungsvoraussetzungen und Abrechnung
+der Leistungen erforderlich ist. Ferner erheben, speichern und
+übermitteln sie die Daten, die für ihre Entscheidung, eine
+Heilbehandlung nach § 34 durchzuführen, maßgeblich waren. Für die
+Unterrichtung des Versicherten aufgrund seines Auskunftsrechts nach
+Artikel 15 der Verordnung (EU) 2016/679 über die von den Ärzten und
+den Psychotherapeuten übermittelten Angaben zu seinen gesundheitlichen
+Verhältnissen gilt § 25 Absatz 2 des Zehnten Buches entsprechend.
 
 (2) Soweit die für den medizinischen Arbeitsschutz zuständigen Stellen
 und die Krankenkassen Daten nach Absatz 1 zur Erfüllung ihrer Aufgaben
@@ -7569,11 +7161,8 @@ Haben Ärzte oder Zahnärzte den begründeten Verdacht, daß bei
 Versicherten eine Berufskrankheit besteht, haben sie dies dem
 Unfallversicherungsträger oder der für den medizinischen Arbeitsschutz
 zuständigen Stelle in der für die Anzeige von Berufskrankheiten
-vorgeschriebenen Form (§ 193 Abs. 8) unverzüglich anzuzeigen. Die
-Ärzte oder Zahnärzte haben die Versicherten über den Inhalt der
-Anzeige zu unterrichten und ihnen den Unfallversicherungsträger und
-die Stelle zu nennen, denen sie die Anzeige übersenden. § 193 Abs. 7
-Satz 3 und 4 gilt entsprechend.
+vorgeschriebenen Form (§ 193 Abs. 8) unverzüglich anzuzeigen. § 193
+Abs. 7 Satz 3 und 4 gilt entsprechend.
 
 
 #### § 203 Auskunftspflicht von Ärzten
@@ -7590,25 +7179,25 @@ die mit dem Versicherungsfall in einem ursächlichen Zusammenhang
 stehen können. § 98 Abs. 2 Satz 2 des Zehnten Buches gilt
 entsprechend.
 
-(2) Die Unfallversicherungsträger haben den Versicherten auf ein
-Auskunftsverlangen nach Absatz 1 sowie auf das Recht, auf Verlangen
-über die von den Ärzten übermittelten Daten unterrichtet zu werden,
-rechtzeitig hinzuweisen. § 25 Abs. 2 des Zehnten Buches gilt
-entsprechend.
+(2) Für die Unterrichtung des Versicherten aufgrund seines
+Auskunftsrechts nach Artikel 15 der Verordnung (EU) 2016/679 über die
+von den Ärzten und den Zahnärzten an den Unfallversicherungsträger
+übermittelten Angaben über gesundheitliche Verhältnisse des
+Versicherten gilt § 25 Absatz 2 des Zehnten Buches entsprechend.
 
 
-### Dritter Abschnitt - Dateien
+### Dritter Abschnitt - Dateisysteme
 
 
 
-#### § 204 Errichtung einer Datei für mehrere Unfallversicherungsträger
+#### § 204 Errichtung eines Dateisystems für mehrere Unfallversicherungsträger
 
-(1) Die Errichtung einer Datei für mehrere Unfallversicherungsträger
-bei einem Unfallversicherungsträger oder bei einem Verband der
-Unfallversicherungsträger ist zulässig,
+(1) Die Errichtung eines Dateisystems für mehrere
+Unfallversicherungsträger bei einem Unfallversicherungsträger oder bei
+einem Verband der Unfallversicherungsträger ist zulässig,
 
 1.  um Daten über Verwaltungsverfahren und Entscheidungen nach § 9 Abs. 2
-    zu verarbeiten, zu nutzen und dadurch eine einheitliche Beurteilung
+    zu verarbeiten und dadurch eine einheitliche Beurteilung
     vergleichbarer Versicherungsfälle durch die Unfallversicherungsträger
     zu erreichen, gezielte Maßnahmen der Prävention zu ergreifen sowie
     neue medizinisch-wissenschaftliche Erkenntnisse zur Fortentwicklung
@@ -7616,24 +7205,23 @@ Unfallversicherungsträger ist zulässig,
     durch Mitwirkung an fremden Forschungsvorhaben, zu gewinnen,
 
 
-2.  um Daten in Vorsorgedateien zu erheben, zu verarbeiten oder zu nutzen,
-    damit Versicherten, die bestimmten arbeitsbedingten
-    Gesundheitsgefahren ausgesetzt sind oder waren, Maßnahmen der
-    Prävention oder zur Teilhabe angeboten sowie Erkenntnisse über
-    arbeitsbedingte Gesundheitsgefahren und geeignete Maßnahmen der
-    Prävention und zur Teilhabe gewonnen werden können,
+2.  um Daten in Vorsorgedateisystemen zu verarbeiten, damit Versicherten,
+    die bestimmten arbeitsbedingten Gesundheitsgefahren ausgesetzt sind
+    oder waren, Maßnahmen der Prävention oder zur Teilhabe angeboten sowie
+    Erkenntnisse über arbeitsbedingte Gesundheitsgefahren und geeignete
+    Maßnahmen der Prävention und zur Teilhabe gewonnen werden können,
 
 
 3.  um Daten über Arbeits- und Wegeunfälle in einer Unfall-Dokumentation
-    zu verarbeiten, zu nutzen und dadurch Größenordnungen, Schwerpunkte
-    und Entwicklungen der Unfallbelastung in einzelnen Bereichen
-    darzustellen, damit Erkenntnisse zur Verbesserung der Prävention und
-    der Maßnahmen zur Teilhabe gewonnen werden können,
+    zu verarbeiten und dadurch Größenordnungen, Schwerpunkte und
+    Entwicklungen der Unfallbelastung in einzelnen Bereichen darzustellen,
+    damit Erkenntnisse zur Verbesserung der Prävention und der Maßnahmen
+    zur Teilhabe gewonnen werden können,
 
 
 4.  um Anzeigen, Daten über Verwaltungsverfahren und Entscheidungen über
     Berufskrankheiten in einer Berufskrankheiten-Dokumentation zu
-    verarbeiten, zu nutzen und dadurch Häufigkeiten und Entwicklungen im
+    verarbeiten und dadurch Häufigkeiten und Entwicklungen im
     Berufskrankheitengeschehen sowie wesentliche Einwirkungen und
     Erkrankungsfolgen darzustellen, damit Erkenntnisse zur Verbesserung
     der Prävention und der Maßnahmen zur Teilhabe gewonnen werden können,
@@ -7641,15 +7229,15 @@ Unfallversicherungsträger ist zulässig,
 
 5.  um Daten über Entschädigungsfälle, in denen Leistungen zur Teilhabe
     erbracht werden, in einer Rehabilitations- und Teilhabe-Dokumentation
-    zu verarbeiten, zu nutzen und dadurch Schwerpunkte der Maßnahmen zur
-    Teilhabe darzustellen, damit Erkenntnisse zur Verbesserung der
-    Prävention und der Maßnahmen zur Teilhabe gewonnen werden können,
+    zu verarbeiten und dadurch Schwerpunkte der Maßnahmen zur Teilhabe
+    darzustellen, damit Erkenntnisse zur Verbesserung der Prävention und
+    der Maßnahmen zur Teilhabe gewonnen werden können,
 
 
 6.  um Daten über Entschädigungsfälle, in denen Rentenleistungen oder
     Leistungen bei Tod erbracht werden, in einer Renten-Dokumentation zu
-    verarbeiten, zu nutzen und dadurch Erkenntnisse über den Rentenverlauf
-    und zur Verbesserung der Prävention und der Maßnahmen zur Teilhabe zu
+    verarbeiten und dadurch Erkenntnisse über den Rentenverlauf und zur
+    Verbesserung der Prävention und der Maßnahmen zur Teilhabe zu
     gewinnen.
 
 
@@ -7657,9 +7245,8 @@ Unfallversicherungsträger ist zulässig,
 In den Fällen des Satzes 1 Nr. 1 und 3 bis 6 findet § 76 des Zehnten
 Buches keine Anwendung.
 
-(2) In den Dateien nach Absatz 1 dürfen nach Maßgabe der Sätze 2 und 3
-nur folgende Daten von Versicherten erhoben, verarbeitet oder genutzt
-werden:
+(2) Für die Dateisysteme nach Absatz 1 dürfen nach Maßgabe der Sätze 2
+und 3 nur folgende Daten von Versicherten erhoben werden:
 
 1.  der zuständige Unfallversicherungsträger und die zuständige staatliche
     Arbeitsschutzbehörde,
@@ -7717,88 +7304,68 @@ werden:
 
 
 
-In Dateien nach Absatz 1 Satz 1 Nr. 1 dürfen nur Daten nach Satz 1 Nr.
-1 bis 4, 6 bis 10 und 14 verarbeitet oder genutzt werden. In Dateien
-nach Absatz 1 Satz 1 Nr. 3 bis 6 dürfen nur Daten nach Satz 1 Nr. 1
-bis 12 verarbeitet oder genutzt werden.
+Für die Aufnahme in Dateisysteme nach Absatz 1 Satz 1 Nr. 1 dürfen nur
+Daten nach Satz 1 Nr. 1 bis 4, 6 bis 10 und 14 erhoben werden. Für die
+Aufnahme in Dateisysteme nach Absatz 1 Satz 1 Nr. 3 bis 6 dürfen nur
+Daten nach Satz 1 Nr. 1 bis 12 erhoben werden. Die Speicherung der
+Sozialdaten eines Versicherten in Dateisystemen nach Absatz 1 Satz 1
+Nummer 1 und 2 ist nur zulässig, wenn die betroffene Person vorher
+über die Art der gespeicherten Daten, die speichernde Stelle und den
+Zweck des Dateisystems durch den Unfallversicherungsträger schriftlich
+unterrichtet wird. Dabei ist auf § 83 des Zehnten Buches hinzuweisen.
 
-(3) Die Errichtung einer Datei für mehrere Unfallversicherungsträger
-bei einem Unfallversicherungsträger oder bei einem Verband der
-Unfallversicherungsträger ist auch zulässig, um die von den
-Pflegekassen und den privaten Versicherungsunternehmen nach § 44 Abs.
-2 des Elften Buches zu übermittelnden Daten zu verarbeiten.
+(3) Die Errichtung eines Dateisystems für mehrere
+Unfallversicherungsträger bei einem Unfallversicherungsträger oder bei
+einem Verband der Unfallversicherungsträger ist auch zulässig, um die
+von den Pflegekassen und den privaten Versicherungsunternehmen nach §
+44 Abs. 2 des Elften Buches zu übermittelnden Daten zu verarbeiten.
 
-(4) Die Errichtung einer Datei für mehrere Unfallversicherungsträger
-bei einem Unfallversicherungsträger oder bei einem Verband der
-Unfallversicherungsträger ist auch zulässig, soweit dies erforderlich
-ist, um neue Erkenntnisse zur Verhütung von Versicherungsfällen oder
-zur Abwendung von arbeitsbedingten Gesundheitsgefahren zu gewinnen,
-und dieser Zweck nur durch eine gemeinsame Datei für mehrere oder alle
-Unfallversicherungsträger erreicht werden kann. In der Datei nach Satz
-1 dürfen personenbezogene Daten nur verarbeitet werden, soweit der
-Zweck der Datei ohne sie nicht erreicht werden kann. Das
-Bundesministerium für Arbeit und Soziales bestimmt in einer
-Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die Art
-der zu verhütenden Versicherungsfälle und der abzuwendenden
-arbeitsbedingten Gesundheitsgefahren sowie die Art der Daten, die in
-der Datei nach Satz 1 verarbeitet oder genutzt werden dürfen. In der
-Datei nach Satz 1 dürfen Daten nach Absatz 2 Satz 1 Nr. 13 nicht
-gespeichert werden.
+(4) Die Errichtung eines Dateisystems für mehrere
+Unfallversicherungsträger bei einem Unfallversicherungsträger oder bei
+einem Verband der Unfallversicherungsträger ist auch zulässig, soweit
+dies erforderlich ist, um neue Erkenntnisse zur Verhütung von
+Versicherungsfällen oder zur Abwendung von arbeitsbedingten
+Gesundheitsgefahren zu gewinnen, und dieser Zweck nur durch ein
+gemeinsames Dateisystem für mehrere oder alle
+Unfallversicherungsträger erreicht werden kann. In dem Dateisystem
+nach Satz 1 dürfen personenbezogene Daten nur verarbeitet werden,
+soweit der Zweck des Dateisystems ohne die Verarbeitung dieser Daten
+nicht erreicht werden kann. Das Bundesministerium für Arbeit und
+Soziales bestimmt in einer Rechtsverordnung, die der Zustimmung des
+Bundesrates bedarf, die Art der zu verhütenden Versicherungsfälle und
+der abzuwendenden arbeitsbedingten Gesundheitsgefahren sowie die Art
+der Daten, die in dem Dateisystem nach Satz 1 verarbeitet werden
+dürfen. In dem Dateisystem nach Satz 1 dürfen Daten nach Absatz 2 Satz
+1 Nr. 13 nicht gespeichert werden.
 
 (5) Die Unfallversicherungsträger dürfen Daten nach Absatz 2 an den
-Unfallversicherungsträger oder den Verband, der die Datei führt,
-übermitteln. Die in der Datei nach Absatz 1 Satz 1 Nr. 1 oder 2
-gespeicherten Daten dürfen von der dateiführenden Stelle an andere
-Unfallversicherungsträger übermittelt werden, soweit es zur Erfüllung
-ihrer gesetzlichen Aufgaben erforderlich ist.
+Unfallversicherungsträger oder den Verband, der das Dateisystem führt,
+übermitteln. Die in dem Dateisystem nach Absatz 1 Satz 1 Nr. 1 oder 2
+gespeicherten Daten dürfen von der dateisystemführenden Stelle an
+andere Unfallversicherungsträger übermittelt werden, soweit es zur
+Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
 
-(6) Der Unfallversicherungsträger oder der Verband, der die Datei
-errichtet, hat dem Bundesbeauftragten für den Datenschutz oder der
-nach Landesrecht für die Kontrolle des Datenschutzes zuständigen
-Stelle rechtzeitig die Errichtung einer Datei nach Absatz 1 oder 4
-vorher schriftlich anzuzeigen.
+(6) Der Unfallversicherungsträger oder der Verband, der das
+Dateisystem errichtet, hat dem oder der Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit oder der nach Landesrecht für
+die Kontrolle des Datenschutzes zuständigen Stelle rechtzeitig die
+Errichtung eines Dateisystems nach Absatz 1 oder 4 vorher schriftlich
+oder elektronisch anzuzeigen.
 
-(7) Der Versicherte ist vor der erstmaligen Speicherung seiner
-Sozialdaten in Dateien nach Absatz 1 Satz 1 Nr. 1 und 2 über die Art
-der gespeicherten Daten, die speichernde Stelle und den Zweck der
-Datei durch den Unfallversicherungsträger schriftlich zu unterrichten.
-Dabei ist er auf sein Auskunftsrecht nach § 83 des Zehnten Buches
-hinzuweisen.
+(7) Verantwortlicher für die Erfüllung der Informationspflicht nach
+Artikel 13 der Verordnung (EU) 2016/679 ist der
+Unfallversicherungsträger, der für den Versicherten zuständig ist.
 
 
-#### § 205 Datenverarbeitung und -übermittlung bei den landwirtschaftlichen Berufsgenossenschaften
+#### § 205 (weggefallen)
 
-(1) Die landwirtschaftlichen Berufsgenossenschaften, die
-landwirtschaftlichen Alterskassen, die landwirtschaftlichen
-Krankenkassen, die landwirtschaftlichen Pflegekassen und der
-Spitzenverband der landwirtschaftlichen Sozialversicherung dürfen
-Sozialdaten in gemeinsamen Dateien und im gemeinsamen Rechenzentrum
-der landwirtschaftlichen Sozialversicherung (§ 143e Abs. 2 Nr. 1
-Buchstabe a) verarbeiten, soweit die Daten jeweils zur Erfüllung ihrer
-Aufgaben nach dem Sozialgesetzbuch erforderlich sind. Die Einrichtung
-eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten
-aus Dateien nach Satz 1 durch Abruf ermöglicht, ist sowohl zwischen
-den Trägern der landwirtschaftlichen Sozialversicherung als auch mit
-dem Spitzenverband der landwirtschaftlichen Sozialversicherung
-zulässig, ohne dass es einer Genehmigung nach § 79 Abs. 1 des Zehnten
-Buches bedarf.
-
-(2) Die Einrichtung eines automatisierten Verfahrens, das die
-Übermittlung personenbezogener Daten aus Dateien nach Absatz 1 Satz 1
-durch Abruf ermöglicht, ist nur mit den Trägern der gesetzlichen
-Rentenversicherung, den Krankenkassen, der Bundesagentur für Arbeit
-und der Deutschen Post AG, soweit sie mit der Berechnung oder
-Auszahlung von Sozialleistungen betraut ist, zulässig; dabei dürfen
-auch Vermittlungsstellen eingeschaltet werden.
-
-(3) (weggefallen)
 
 
 ### Vierter Abschnitt - Sonstige Vorschriften
 
 
 
-#### § 206 Übermittlung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten
+#### § 206 Verarbeitung von Daten für die Forschung zur Bekämpfung von Berufskrankheiten
 
 (1) Ein Arzt oder Angehöriger eines anderen Heilberufes ist befugt,
 für ein bestimmtes Forschungsvorhaben personenbezogene Daten den
@@ -7810,8 +7377,7 @@ oder den früheren Versicherten schriftlich über die übermittelten
 Daten und über den Zweck der Übermittlung zu unterrichten.
 
 (2) Die Unfallversicherungsträger und ihre Verbände dürfen Sozialdaten
-von Versicherten und früheren Versicherten erheben, verarbeiten und
-nutzen, soweit dies
+von Versicherten und früheren Versicherten verarbeiten, soweit dies
 
 1.  zur Durchführung eines bestimmten Forschungsvorhabens, das die
     Erkennung neuer Berufskrankheiten oder die Verbesserung der Prävention
@@ -7820,25 +7386,25 @@ nutzen, soweit dies
 
 
 2.  der Zweck dieses Forschungsvorhabens nicht auf andere Weise,
-    insbesondere nicht durch Erhebung, Verarbeitung und Nutzung
-    anonymisierter Daten, erreicht werden kann.
+    insbesondere nicht durch Verarbeitung anonymisierter Daten, erreicht
+    werden kann.
 
 
 
 Voraussetzung ist, daß die zuständige oberste Bundes- oder
-Landesbehörde die Erhebung, Verarbeitung und Nutzung der Daten für das
-Forschungsvorhaben genehmigt hat. Erteilt die zuständige oberste
-Bundesbehörde die Genehmigung, sind die Bundesärztekammer und der
-Bundesbeauftragte für den Datenschutz anzuhören, in den übrigen Fällen
-der Landesbeauftragte für den Datenschutz und die Ärztekammer des
+Landesbehörde die Verarbeitung der Daten für das Forschungsvorhaben
+genehmigt hat. Erteilt die zuständige oberste Bundesbehörde die
+Genehmigung, sind die Bundesärztekammer und der oder die
+Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+anzuhören, in den übrigen Fällen die nach Landesrecht für die
+Kontrolle des Datenschutzes zuständige Stelle und die Ärztekammer des
 Landes.
 
 (3) Das Forschungsvorhaben darf nur durchgeführt werden, wenn
 sichergestellt ist, daß keinem Beschäftigten, der an Entscheidungen
 über Sozialleistungen oder deren Vorbereitung beteiligt ist, die
-Daten, die für das Forschungsvorhaben erhoben, verarbeitet oder
-genutzt werden, zugänglich sind oder von Zugriffsberechtigten
-weitergegeben werden.
+Daten, die für das Forschungsvorhaben verarbeitet werden, zugänglich
+sind oder von Zugriffsberechtigten weitergegeben werden.
 
 (4) Die Durchführung der Forschung ist organisatorisch und räumlich
 von anderen Aufgaben zu trennen. Die übermittelten Einzelangaben
@@ -7856,7 +7422,7 @@ Forschungsvorhaben Verantwortlichen entsprechend. Die Absätze 3 und 4
 gelten entsprechend.
 
 
-#### § 207 Erhebung, Verarbeitung und Nutzung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren
+#### § 207 Verarbeitung von Daten zur Verhütung von Versicherungsfällen und arbeitsbedingten Gesundheitsgefahren
 
 (1) Die Unfallversicherungsträger und ihre Verbände dürfen
 
@@ -7912,19 +7478,34 @@ gilt § 151 des Sechsten Buches entsprechend.
 4.  entgegen § 138 die Versicherten nicht unterrichtet,
 
 
-5.  entgegen § 165 Abs. 1 Satz 1, entgegen § 165 Abs. 1 Satz 1 in
-    Verbindung mit einer Satzung nach Satz 2 oder 3 oder entgegen § 194
-    eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der
-    vorgeschriebenen Weise oder nicht rechtzeitig macht,
+5.  entgegen
+
+    a)  § 165 Absatz 1 Satz 1, auch in Verbindung mit einer Satzung nach § 165
+        Absatz 1 Satz 2 oder Satz 3 dieses Buches, jeweils in Verbindung mit §
+        34 Absatz 1 Satz 1 des Vierten Buches, oder
 
 
-6.  entgegen § 165 Abs. 2 Satz 1 einen Nachweis über die sich aus der
-    Satzung ergebenden Berechnungsgrundlagen nicht, nicht vollständig oder
-    nicht rechtzeitig einreicht,
+    b)  § 194
+
+
+
+    eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
+
+
+6.  entgegen § 165 Absatz 2 Satz 1 in Verbindung mit einer Satzung nach §
+    34 Absatz 1 Satz 1 des Vierten Buches einen dort genannten Nachweis
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    einreicht,
 
 
 7.  entgegen § 165 Abs. 4 eine Aufzeichnung nicht führt oder nicht oder
     nicht mindestens fünf Jahre aufbewahrt,
+
+
+7a. entgegen § 183 Absatz 6 Satz 1 in Verbindung mit einer Satzung nach §
+    34 Absatz 1 Satz 1 des Vierten Buches eine Auskunft nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig gibt,
 
 
 8.  entgegen § 192 Abs. 1 Nr. 1 bis 3 oder Abs. 4 Satz 1 eine Mitteilung
@@ -8046,9 +7627,9 @@ Fassung pflichtversichert waren und die nach § 2 nicht
 pflichtversichert sind, bleiben versichert, ohne daß es eines Antrags
 auf freiwillige Versicherung bedarf. Die Versicherung wird als
 freiwillige Versicherung weitergeführt. Sie erlischt mit Ablauf des
-Monats, in dem ein schriftlicher Antrag auf Beendigung dieser
-Versicherung beim Unfallversicherungsträger eingegangen ist; § 6 Abs.
-2 Satz 2 bleibt unberührt.
+Monats, in dem ein Antrag auf Beendigung dieser Versicherung beim
+Unfallversicherungsträger eingegangen ist; § 6 Abs. 2 Satz 2 bleibt
+unberührt.
 
 (2) Die §§ 555a und 636 Abs. 3 der Reichsversicherungsordnung in der
 Fassung des Artikels II § 4 Nr. 12 und 15 des Gesetzes vom 18. August
@@ -8065,24 +7646,21 @@ vom 1. Mai 2007 bis zum 4. November 2008 eingetreten sind.
 Dezember 1997 bis zum 31. Juli 2012 eingetreten sind. Ansprüche auf
 Leistungen bestehen in diesen Fällen ab dem 1. August 2012.
 
+(5) (weggefallen)
+
 
 ### § 214 Geltung auch für frühere Versicherungsfälle
 
 (1) Die Vorschriften des Ersten und Fünften Abschnitts des Dritten
 Kapitels gelten auch für Versicherungsfälle, die vor dem Tag des
 Inkrafttretens dieses Gesetzes eingetreten sind; dies gilt nicht für
-die Vorschrift über Leistungen an Berechtigte im Ausland. Für
-Leistungen der Heilbehandlung und zur Teilhabe am Arbeitsleben, die
-vor dem Tag des Inkrafttretens dieses Gesetzes bereits in Anspruch
-genommen worden sind, sind bis zum Ende dieser Leistungen die
-Vorschriften weiter anzuwenden, die im Zeitpunkt der Inanspruchnahme
-galten.
+die Vorschrift über Leistungen an Berechtigte im Ausland.
 
 (2) Die Vorschriften über den Jahresarbeitsverdienst gelten auch für
 Versicherungsfälle, die vor dem Tag des Inkrafttretens dieses Gesetzes
 eingetreten sind, wenn der Jahresarbeitsverdienst nach dem
-Inkrafttreten dieses Gesetzes erstmals oder aufgrund des § 90 neu
-festgesetzt wird. Die Vorschrift des § 93 über den
+Inkrafttreten dieses Gesetzes erstmals oder aufgrund der §§ 90 und 91
+neu festgesetzt wird. Die Vorschrift des § 93 über den
 Jahresarbeitsverdienst für die Versicherten der landwirtschaftlichen
 Berufsgenossenschaften und ihre Hinterbliebenen gilt auch für
 Versicherungsfälle, die vor dem Inkrafttreten dieses Gesetzes
@@ -8128,11 +7706,11 @@ angepasste Betrag aus § 1152 Abs. 2 der Reichsversicherungsordnung ab
 1\. Januar 2002 in Euro umgerechnet und auf volle Euro-Beträge
 aufgerundet wird.
 
-(3) Für Versicherungsfälle im Zuständigkeitsbereich der Unfallkasse
-des Bundes, die nach dem 31. Dezember 1991 eingetreten sind, gilt § 85
-Abs. 2 Satz 1 mit der Maßgabe, daß der Jahresarbeitsverdienst
-höchstens das Zweifache der im Zeitpunkt des Versicherungsfalls
-geltenden Bezugsgröße (West) beträgt.
+(3) Für Versicherungsfälle im Zuständigkeitsbereich der
+Unfallversicherung Bund und Bahn nach § 125 Absatz 1, die nach dem 31.
+Dezember 1991 eingetreten sind, gilt § 85 Abs. 2 Satz 1 mit der
+Maßgabe, daß der Jahresarbeitsverdienst höchstens das Zweifache der im
+Zeitpunkt des Versicherungsfalls geltenden Bezugsgröße (West) beträgt.
 
 (4) Für Versicherte an Bord von Seeschiffen und für nach § 2 Abs. 1
 Nr. 7 versicherte Küstenschiffer und Küstenfischer ist § 1152 Abs. 6
@@ -8184,15 +7762,7 @@ Rente, die sich aus den §§ 63 bis 71 und aus Satz 1 ergeben würde,
 Tag vor Inkrafttreten dieses Gesetzes geltenden Fassung ist weiter
 anzuwenden.
 
-(9) Zur Finanzierung der Rentenaltlasten aus dem Beitrittsgebiet, die
-sich aus der Verteilung nach Anlage 1 Kapitel VIII Sachgebiet I
-Abschnitt III Nr. 1 Buchstabe c, Abs. 8 Nr. 2 des Einigungsvertrages
-vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23.
-September 1990 (BGBl. 1990 II S. 885, 1064) ergeben, kann bei der
-Beitragsberechnung von der Berücksichtigung des Grades der
-Unfallgefahr in den Unternehmen gemäß § 153 Abs. 1 abgesehen werden;
-die Vertreterversammlung bestimmt das Nähere mit Genehmigung der
-Aufsichtsbehörde.
+(9) (weggefallen)
 
 
 ### § 216 Bezugsgröße (Ost) und aktueller Rentenwert (Ost)
@@ -8230,16 +7800,8 @@ eingetreten ist und die neue Ehe nach dem Inkrafttreten dieses
 Gesetzes geschlossen wird. Bei der Anwendung des § 65 Abs. 3 und des §
 80 Abs. 3 gilt § 617 Abs. 2 und 6 der Reichsversicherungsordnung in
 der am Tag vor dem Inkrafttreten dieses Gesetzes geltenden Fassung.
-Bestand am 31. Dezember 1991 Anspruch auf Waisenrente für Waisen, die
-das 18. Lebensjahr bereits vollendet haben, ist § 314 Abs. 5 des
-Sechsten Buches weiter entsprechend anzuwenden.
 
-(3) Berechtigten, die vor dem Inkrafttreten dieses Gesetzes für ein
-Kind Anspruch auf eine Kinderzulage hatten, wird die Kinderzulage nach
-Maßgabe des § 583 unter Berücksichtigung des § 584 Abs. 1 Satz 2, des
-§ 585, des § 579 Abs. 1 Satz 2 und des § 609 Abs. 3 der
-Reichsversicherungsordnung in der am Tag vor dem Inkrafttreten dieses
-Gesetzes geltenden Fassung weiter geleistet.
+(3) (weggefallen)
 
 (4) Artikel 1 § 9 Abs. 3 und § 10 Abs. 1 Satz 2 des Einundzwanzigsten
 Rentenanpassungsgesetzes vom 25. Juli 1978 (BGBl. I S. 1089) sind für
@@ -8247,41 +7809,8 @@ die Anpassung der dort genannten Geldleistungen nach § 95 weiter
 anzuwenden.
 
 
-### § 218 Länder und Gemeinden als Unfallversicherungsträger
+### § 218 (weggefallen)
 
-(1) Sind nach dem am Tag vor dem Inkrafttreten dieses Gesetzes
-geltenden Recht die Länder oder Gemeinden Unfallversicherungsträger,
-sind ihre Ausführungsbehörden für Unfallversicherung bis zum 31.
-Dezember 1997 in rechtlich selbständige Unfallversicherungsträger zu
-überführen. Bis zur Überführung sind die für die Ausführungsbehörden
-geltenden Vorschriften der Reichsversicherungsordnung und des Vierten
-Buches in der am Tag vor dem Inkrafttreten dieses Gesetzes geltenden
-Fassung weiter anzuwenden; die §§ 128 und 129 gelten ab Inkrafttreten
-dieses Gesetzes. Insoweit gelten die Länder und Gemeinden weiter als
-Unfallversicherungsträger.
-
-(2) Bei der Überführung einer Ausführungsbehörde eines Landes oder
-einer Gemeinde in eine Unfallkasse nehmen die Vertreterversammlung,
-der Vorstand und der Geschäftsführer der Ausführungsbehörden die
-Aufgaben der Vertreterversammlung, des Vorstandes und des
-Geschäftsführers der Unfallkasse bis zum Ablauf der laufenden
-Wahlperiode wahr. Bei der Überführung von Ausführungsbehörden eines
-Landes oder einer Gemeinde in gemeinsame Unfallkassen nach § 116 Abs.
-1 Satz 2 oder in Gemeindeunfallversicherungsverbände können die
-Landesregierungen durch Rechtsverordnung bestimmen, daß die
-Aufsichtsbehörde die Mitglieder der Vertreterversammlung der
-Unfallkasse oder des Gemeindeunfallversicherungsverbandes unbeschadet
-der Regelung des § 44 Abs. 2a Satz 2 Nr. 3 des Vierten Buches beruft.
-Satz 2 gilt entsprechend, wenn gleichzeitig mit der Überführung eine
-gemeinsame Unfallkasse oder ein gemeinsamer
-Gemeindeunfallversicherungsverband mehrerer Länder nach § 116 Abs. 2
-oder § 117 Abs. 2 gebildet wird.
-
-(3) Die Rechte und Pflichten der Länder oder Gemeinden, die bisher
-nach § 766 der Reichsversicherungsordnung von den Ausführungsbehörden
-für Unfallversicherung wahrgenommen worden sind, gehen auf die
-Unfallversicherungsträger im Sinne von Absatz 1 Satz 1 über. Die
-Landesregierungen regeln das Nähere durch Rechtsverordnungen.
 
 
 ### § 218a Leistungen an Hinterbliebene
@@ -8309,68 +7838,12 @@ Dezember 2011 verstorben, gilt für die Altersgrenze des § 65 Abs. 2
 Nr. 3 Buchstabe b der § 242a Abs. 5 des Sechsten Buches entsprechend.
 
 
-### § 218b Errichtung einer Unfallkasse des Bundes
+### § 218b Rückwirkende Anerkennung von Berufskrankheiten
 
-(1) Als Unfallversicherungsträger für die in § 125 genannten
-Unternehmen und Versicherten wird mit Wirkung vom 1. Januar 2003 die
-Unfallkasse des Bundes errichtet. Sie hat ihren Sitz in Wilhelmshaven
-und eine Verwaltungsstelle in Münster. Die Bundesausführungsbehörde
-für Unfallversicherung und die Ausführungsbehörde für
-Unfallversicherung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung werden in die Unfallkasse des Bundes überführt.
-
-(2) Die Rechte und Pflichten des Bundes als Unfallversicherungsträger
-gehen, soweit nichts Abweichendes bestimmt ist, auf die Unfallkasse
-des Bundes über. Bis zu den nächsten allgemeinen Wahlen in der
-Sozialversicherung richtet sich die Zahl der Mitglieder der
-Selbstverwaltungsorgane der Unfallkasse des Bundes nach der Summe der
-Zahl der Mitglieder, die für die beiden Ausführungsbehörden bestimmt
-worden ist. Die Mitglieder der Selbstverwaltungsorgane der
-Ausführungsbehörden und ihre Stellvertreter werden Mitglieder und
-Stellvertreter der Selbstverwaltungsorgane der Unfallkasse des Bundes.
-Der Geschäftsführer und der stellvertretende Geschäftsführer der
-Bundesausführungsbehörde für Unfallversicherung werden Geschäftsführer
-und stellvertretender Geschäftsführer der Unfallkasse des Bundes.
-
-(3) Abweichend von § 70 Abs. 1 des Vierten Buches wird der
-Haushaltsplan für das Haushaltsjahr 2003 vom Direktor der
-Bundesausführungsbehörde für Unfallversicherung nach Anhörung der
-Vertreterversammlungen der Bundesausführungsbehörde für
-Unfallversicherung und der Ausführungsbehörde für Unfallversicherung
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und
-festgestellt.
-
-(4) Die Beamten der Bundesausführungsbehörde für Unfallversicherung
-und der Ausführungsbehörde für Unfallversicherung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung treten mit
-Ablauf des 31. Dezember 2002 nach den §§ 134 bis 136 des
-Bundesbeamtengesetzes in den Dienst der Unfallkasse des Bundes über.
-
-(5) Die Unfallkasse des Bundes tritt mit Ablauf des 31. Dezember 2002
-als Arbeitgeber in die Arbeitsverhältnisse ein, die zu dem genannten
-Zeitpunkt zwischen der Bundesrepublik Deutschland und den bei der
-Bundesausführungsbehörde für Unfallversicherung und der
-Ausführungsbehörde für Unfallversicherung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung beschäftigten Arbeitnehmern
-bestehen.
-
-(6) Die Ansprüche der im Zeitpunkt der Umbildung vorhandenen
-Versorgungsempfänger der Bundesausführungsbehörde für
-Unfallversicherung und der Ausführungsbehörde für Unfallversicherung
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung werden
-nach § 137 Abs. 2 des Bundesbeamtengesetzes durch die Errichtung der
-Unfallkasse nicht berührt. Oberste Dienstbehörde für diese
-Versorgungsempfänger bleibt die bisherige oberste Dienstbehörde.
-
-(7) Bei der Unfallkasse des Bundes wird nach den Bestimmungen des
-Bundespersonalvertretungsgesetzes eine Personalvertretung gebildet.
-Bis zu diesem Zeitpunkt, längstens bis zum Ablauf von zwölf Monaten
-nach Errichtung der Unfallkasse des Bundes, nimmt der bisherige
-Personalrat der Bundesausführungsbehörde für Unfallversicherung,
-erweitert um ein Mitglied der bisherigen Personalvertretung der
-Ausführungsbehörde für Unfallversicherung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung, die Rechte und Pflichten nach den
-Bestimmungen des Bundespersonalvertretungsgesetzes wahr.
+Für die rückwirkende Anerkennung von Berufskrankheiten, die vor dem 1.
+Januar 2021 in der Verordnung nach § 9 Absatz 1 bezeichnet worden
+sind, gilt § 6 der Verordnung in der am 1. Januar 2021 geltenden
+Fassung.
 
 
 ### § 218c Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
@@ -8389,26 +7862,32 @@ Rentenbeginn dieser Rente vor dem  1. April 2004 liegt.
 
 ### § 218d Besondere Zuständigkeiten
 
-(1) Die Regelungen über die Zuständigkeit für selbständige Unternehmen
-der öffentlichen Hand in § 128 Abs. 1 Nr. 1a, § 129 Abs. 1 Nr. 1a und
-§ 129a treten am 31. Dezember 2012 außer Kraft, soweit nicht bis zu
-diesem Zeitpunkt durch Gesetz etwas anderes geregelt ist. Im Falle des
-Außerkrafttretens gelten ab 1. Januar 2013 die §§ 128, 129 in der am
-31\. Dezember 2004 geltenden Fassung.
+(1) Verändert sich aufgrund des § 128 Absatz 1 Nummer 1a, des § 129
+Absatz 1 Nummer 1a und Absatz 4 oder des § 129a die Zuständigkeit für
+ein am 1. Januar 2013 bestehendes Unternehmen, ist dieses nach § 136
+Absatz 1 Satz 4 zweite Alternative an den zuständigen
+Unfallversicherungsträger zu überweisen; die am 1. Januar 2013 in
+Kraft getretene Fassung des § 128 Absatz 1 Nummer 1a, des § 129 Absatz
+1 Nummer 1a und Absatz 4 sowie des § 129a gilt insoweit als
+wesentliche Änderung.
 
-(2) Für Unternehmen nach § 128 Abs. 1 Nr. 1a oder § 129 Abs. 1 Nr. 1a,
-die am 31. Dezember 2004 bestanden haben, bleiben abweichend von §§
-128, 129 und § 129a die Unfallversicherungsträger zuständig, die an
-diesem Tag zuständig waren, wenn bis zum 13. Oktober 2004 ein Antrag
-nach § 128 Abs. 4 oder § 129 Abs. 3 auf Übernahme in die Zuständigkeit
-eines Unfallversicherungsträgers der öffentlichen Hand nicht gestellt
-war.
+(2) Absatz 1 gilt nicht für Unternehmen im Sinne des § 128 Absatz 1
+Nummer 1a und des § 129 Absatz 1 Nummer 1a, die am 31. Dezember 1996
+bestanden haben und bei denen seitdem keine wesentliche Änderung im
+Sinne des § 136 Absatz 1 Satz 4 zweite Alternative eingetreten ist.
+Dabei sind auch solche Änderungen wesentlich, die nach dem 31.
+Dezember 1996 eingetreten sind und nach dem § 128 Absatz 1 Nummer 1a,
+dem § 129 Absatz 1 Nummer 1a oder dem § 129a eine andere Zuständigkeit
+begründen.
 
-(3) Die Deutsche Gesetzliche Unfallversicherung e. V. erstellt ein
-Konzept zur Neuregelung der Zuständigkeit der
-Unfallversicherungsträger für Unternehmen nach Absatz 1 und legt es
-dem Bundesministerium für Arbeit und Soziales bis zum 31. Mai 2012
-vor.
+(3) Absatz 1 gilt nicht für Unternehmen im Sinne des § 129 Absatz 1
+Nummer 1, wenn deren Schwerpunkt im Ausnahmebereich des § 129 Absatz 4
+Satz 1 liegt.
+
+(4) Ab dem 1. Januar 2013 eintretende wesentliche Änderungen sind zu
+berücksichtigen.
+
+(5) (weggefallen)
 
 
 ### § 218e Übergangsregelungen aus Anlass des Übergangs der Beitragsüberwachung auf die Träger der Deutschen Rentenversicherung
@@ -8455,45 +7934,72 @@ dem Dienstvertrag am Tag vor der Berufung in das Beamtenverhältnis
 entspricht, sofern sie die erforderlichen beamtenrechtlichen
 Voraussetzungen erfüllen.
 
-(4) Die Prüfung der Unternehmen nach § 166 für die Jahre 2005 bis 2008
-wird in den Jahren 2010 und 2011 weiter von den
-Unfallversicherungsträgern durchgeführt.
+(4) (weggefallen)
 
 
-### § 219 Beitragsberechnung
+### § 218f Evaluation
 
-§ 153 Abs. 4 in der am 31. Dezember 2007 geltenden Fassung findet bis
-zum Umlagejahr 2013 weiter Anwendung.
+Die Verbände der Unfallversicherungsträger haben bis zum 31. Dezember
+2026 dem Bundesministerium für Arbeit und Soziales einen gemeinsamen
+Bericht über die Umsetzung sowie die Wirkungen und die Ergebnisse der
+mit dem Siebten Gesetz zur Änderung des Vierten Buches
+Sozialgesetzbuch und anderer Gesetze vom 1. Juli 2020 eingeführten
+Maßnahmen zum Wegfall des Unterlassungszwangs, zur Stärkung der
+Individualprävention sowie zur gesetzlichen Verankerung von
+Beweiserleichterungen und zur erhöhten Transparenz in der
+Berufskrankheitenforschung vorzulegen.
 
 
-### § 219a Betriebsmittel, Rücklage, Altersrückstellungen
+### § 218g Übergangsregelungen bei epidemischer Lage von nationaler Tragweite
 
-(1) Soweit die Rücklage eines Unfallversicherungsträgers am 1. Januar
-2010 die für ihn maßgebende Höchstgrenze nach § 172a Abs. 2 oder nach
-§ 184 überschreitet, sollen diese Mittel in die Altersrückstellungen
-überführt werden. Für die Kalenderjahre 2010 bis 2012 kann die
-Aufsichtsbehörde auf Antrag des Unfallversicherungsträgers genehmigen,
-dass Betriebsmittel über die in § 172 genannte Höchstgrenze hinaus
-bereitgehalten bleiben und dass eine Rücklage über die in Satz 1
-genannten Höchstgrenzen hinaus angesammelt bleibt. Dabei ist
-insbesondere zu berücksichtigen, ob die die Höchstgrenzen
-übersteigenden Mittel für beitragsstabilisierende Maßnahmen im
-Zusammenhang mit Fusionen von Berufsgenossenschaften verwendet werden
-sollen.
+(1) § 62 Absatz 2 Satz 1 gilt bis zum Ablauf von sechs Monaten nach
+Beendigung der durch das Coronavirus SARS-CoV-2 verursachten
+epidemischen Lage von nationaler Tragweite mit der Maßgabe, dass in
+den Fällen, in denen der Dreijahreszeitraum innerhalb dieser Zeit
+endet, die vorläufige Entschädigung spätestens nach Ablauf dieser
+Frist als Rente auf unbestimmte Zeit geleistet wird. Voraussetzung für
+die Anwendung des Satzes 1 ist, dass der Umfang der Minderung der
+Erwerbsfähigkeit aufgrund dieser epidemischen Lage nicht abschließend
+festgestellt werden kann. Satz 1 gilt nicht für Renten, die bereits
+auf unbestimmte Zeit geleistet werden.
 
-(2) Die Deutsche Gesetzliche Unfallversicherung e. V. erstellt
-gemeinsam mit dem Spitzenverband der landwirtschaftlichen
-Sozialversicherung ein Konzept zur Einführung von Altersrückstellungen
-und legt es der Bundesregierung über das Bundesversicherungsamt bis
-zum 30. April 2009 vor. Das Konzept enthält eine umfassende Prüfung
-zur Höhe der Zuweisungssätze sowie zur Ausgestaltung des Verfahrens.
-Für Personen nach § 172c Abs. 1 Satz 1, deren Beschäftigungsverhältnis
-zu einem Unfallversicherungsträger erstmals nach dem 31. Dezember 2009
-begründet worden ist, gelten die Zuweisungssätze, die in der
-Rechtsverordnung nach § 16 Abs. 1 Satz 4 des
-Versorgungsrücklagegesetzes festgesetzt sind, entsprechend. Das
-Konzept trifft Empfehlungen insbesondere zur Höhe der Zuführungen und
-des zulässigen Anlagespektrums.
+(2) Anspruch auf eine Waisenrente besteht auch dann, wenn wegen der
+durch das Coronavirus SARS-CoV-2 verursachten epidemischen Lage von
+nationaler Tragweite
+
+1.  eine Schul- oder Berufsausbildung oder ein freiwilliger Dienst im
+    Sinne des § 67 Absatz 3 Satz 1 Nummer 2 Buchstabe a und c nicht
+    angetreten werden kann oder
+
+
+2.  die Übergangszeit nach § 67 Absatz 3 Satz 1 Nummer 2 Buchstabe b
+    überschritten wird.
+
+
+
+
+(3) Personen, die eine Tätigkeit als Ärztin oder Arzt, Zahnärztin oder
+Zahnarzt, Tierärztin oder Tierarzt oder Apothekerin oder Apotheker in
+einem Impfzentrum im Sinne der Coronavirus-Impfverordnung oder einem
+Testzentrum im Sinne der Coronavirus-Testverordnung oder in den
+jeweils dort angegliederten mobilen Teams ausüben, sind kraft Gesetzes
+versichert. Die Versicherung nach Satz 1 geht der Versicherung nach
+§ 2 Absatz 1 Nummer 1 und 9 vor.
+
+
+### § 219 (weggefallen)
+
+
+
+### § 219a Altersrückstellungen
+
+(1) (weggefallen)
+
+(2) Für Personen nach § 172c Abs. 1 Satz 1, deren
+Beschäftigungsverhältnis zu einem Unfallversicherungsträger erstmals
+nach dem 31. Dezember 2009 begründet worden ist, gelten die
+Zuweisungssätze, die in der Rechtsverordnung nach § 16 Abs. 1 Satz 4
+des Versorgungsrücklagegesetzes festgesetzt sind, entsprechend.
 
 (3) Versorgungsausgaben für die in § 172c genannten Personenkreise,
 die ab dem Jahr 2030 entstehen, sowie Ausgaben, die anstelle von
@@ -8507,331 +8013,110 @@ rechtlichen Versorgungseinrichtung geworden sind, werden die zu
 erwartenden Versorgungsleistungen im Rahmen der Verpflichtungen nach §
 172c entsprechend berücksichtigt. Wurde für die in § 172c genannten
 Personenkreise vor dem 31. Dezember 2009 Deckungskapital bei
-aufsichtspflichtigen Unternehmen im Sinne des § 1 Abs. 1 Nr. 1 und 2
-des Versicherungsaufsichtsgesetzes gebildet, wird dieses anteilig im
-Rahmen der Verpflichtungen nach § 172c berücksichtigt.
+aufsichtspflichtigen Unternehmen im Sinne des § 1 Absatz 1 Nummer 1
+und 5 des Versicherungsaufsichtsgesetzes gebildet, wird dieses
+anteilig im Rahmen der Verpflichtungen nach § 172c berücksichtigt.
 
 
 ### § 220 Ausgleich unter den gewerblichen Berufsgenossenschaften
 
-(1) Die §§ 176 bis 181 gelten für die Ausgleichsjahre 2008 bis 2013
-mit der Maßgabe, dass die Rentenlasten im Jahr 2008 in Höhe von 15
-Prozent, im Jahr 2009 in Höhe von 30 Prozent, im Jahr 2010 in Höhe von
-45 Prozent, im Jahr 2011 in Höhe von 60 Prozent, im Jahr 2012 in Höhe
-von 75 Prozent und im Jahr 2013 in Höhe von 90 Prozent nach § 178
-gemeinsam getragen werden.
+(1) (weggefallen)
 
-(2) Die §§ 176 bis 181 in der am 31. Dezember 2007 geltenden Fassung
-sind für die Ausgleichsjahre 2008 bis 2013 mit folgenden Maßgaben
-anzuwenden:
+(2) (weggefallen)
 
-1.  Bei der Ermittlung der Ausgleichsberechtigung und deren Höhe sind die
-    zugrunde zu legenden Rechengrößen für das Ausgleichsjahr 2008 in Höhe
-    von 85 Prozent, für das Ausgleichsjahr 2009 in Höhe von 70 Prozent,
-    für das Ausgleichsjahr 2010 in Höhe von 55 Prozent, für das
-    Ausgleichsjahr 2011 in Höhe von 40 Prozent, für das Ausgleichsjahr
-    2012 in Höhe von 25 Prozent und für das Ausgleichsjahr 2013 in Höhe
-    von 10 Prozent anzusetzen.
+(3) (weggefallen)
 
+(4) Die §§ 176 bis 181 gelten für die Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation mit der Maßgabe,
+dass für den Zuständigkeitsbereich nach § 121 Absatz 2 Nummer 3 bis 8
 
-2.  § 176 Abs. 2 Satz 1 gilt mit der Maßgabe, dass anstelle des Wertes
-    1,25 für das Ausgleichsjahr 2008 der Wert 1,35, für die
-    Ausgleichsjahre 2009 und 2010 der Wert 1,3 und für das Ausgleichsjahr
-    2011 der Wert 1,275 anzuwenden ist.
+1.  bei der Ermittlung der gemeinsamen Tragung der Rentenlasten die
+    zugrunde zu legenden Rechengrößen für das Ausgleichsjahr 2016 in Höhe
+    von 15 Prozent, für das Ausgleichsjahr 2017 in Höhe von 30 Prozent,
+    für das Ausgleichsjahr 2018 in Höhe von 45 Prozent, für das
+    Ausgleichsjahr 2019 in Höhe von 60 Prozent, für das Ausgleichsjahr
+    2020 in Höhe von 75 Prozent und für das Ausgleichsjahr 2021 in Höhe
+    von 90 Prozent anzusetzen sind,
 
 
-3.  § 178 Abs. 1 gilt mit den Maßgaben, dass
-
-    a)  für die Berechnung des Rentenlastsatzes anstelle des Wertes 2,5 für
-        das Ausgleichsjahr 2008 der Wert 3,3, für das Ausgleichsjahr 2009 der
-        Wert 3,0 und für das Ausgleichsjahr 2010 der Wert 2,7 und
-
-
-    b)  für die Berechnung des Entschädigungslastsatzes anstelle des Wertes 3
-        für das Ausgleichsjahr 2008 der Wert 3,8, für das Ausgleichsjahr 2009
-        der Wert 3,4 und für das Ausgleichsjahr 2010 der Wert 3,2 anzuwenden
-        ist.
+2.  bis zum Jahr 2021 als Latenzfaktor nach § 177 Absatz 7 der für das
+    jeweilige Ausgleichsjahr für den Bereich der in § 121 Absatz 2 Nummer
+    1 und 2 genannten Unternehmensarten zu berechnende Wert anzuwenden
+    ist.
 
 
 
-
-
-
-Die Nummern 2 und 3 gelten nicht für die Lastenausgleichspflicht und
--berechtigung von Berufsgenossenschaften vom Beginn des
-Ausgleichsjahres an, in dem sie sich mit einer oder mehreren anderen
-Berufsgenossenschaften nach § 118 in der am 31. Dezember 2007
-geltenden Fassung vereinigt haben.
-
-(3) § 118 Abs. 4 in der am 31. Dezember 2007 geltenden Fassung findet
-bis zum Umlagejahr 2013 auf gewerbliche Berufsgenossenschaften weiter
-Anwendung, die die Voraussetzungen des § 176 Abs. 5 in der am 31.
-Dezember 2007 geltenden Fassung erfüllen, wenn die sich vereinigenden
-Berufsgenossenschaften bis zum 31. Dezember 2013 eine Vereinbarung
-nach § 176 Abs. 5 in der am 31. Dezember 2007 geltenden Fassung
-abgeschlossen haben.
 
 
 ### § 221 Besondere Vorschriften für die landwirtschaftliche Unfallversicherung
 
-(1) Für Leistungen nach § 54 Abs. 1 und 2 sind die §§ 54 und 55 in der
-bis zum 31. Dezember 2007 geltenden Fassung anzuwenden, wenn die
-Antragstellung oder, wenn den Leistungen kein Antrag vorausging, die
-Inanspruchnahme vor dem 1. Januar 2008 erfolgt ist.
+(1) (weggefallen)
 
 (2) § 80a ist nur auf Versicherungsfälle anwendbar, die nach dem 31.
 Dezember 2007 eingetreten sind.
 
-(3) Die Verwaltungsausgaben der einzelnen landwirtschaftlichen
-Berufsgenossenschaften dürfen in den Jahren 2008 bis 2010 eine
-Obergrenze in Höhe von 90 vom Hundert der Verwaltungsausgaben des
-Jahres 2006 nicht überschreiten. Bei den Verwaltungsausgaben bleiben
-unberücksichtigt die Versorgungsaufwendungen sowie die in den Umlagen
-an die Spitzenverbände der landwirtschaftlichen Sozialversicherung
-enthaltenen Teilbeträge für Anschaffungen für die automatisierte
-Datenverarbeitung. Die Aufsichtsbehörde kann in begründeten Fällen für
-einzelne Jahre Ausnahmen zulassen, wenn die Obergrenze im gesamten
-Zeitraum des Satzes 1 damit nicht überschritten wird. Die Entscheidung
-nach Satz 3 wird im Rahmen der Genehmigung der Haushaltspläne 2009 und
-2010 nach § 71d des Vierten Buches getroffen; die landwirtschaftlichen
-Berufsgenossenschaften haben zusammen mit dem Haushaltsplan die
-erforderlichen Nachweise vorzulegen. Die Aufsichtsbehörden
-unterrichten das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz über die Entscheidungen nach Satz 4.
+(3) (weggefallen)
 
-(4) Die Aufwendungen für die besonderen Abfindungen nach § 221a
-bleiben bei der Ermittlung der Bewertungskriterien nach § 1 der
-Verordnung zur Festlegung von Höchstgrenzen für die
-besoldungsrechtliche Einstufung der Dienstposten in der
-Geschäftsführung bundesunmittelbarer Körperschaften im Bereich der
-gesetzlichen Unfallversicherung und der landwirtschaftlichen
-Sozialversicherung sowie von Obergrenzen für die Zahl der
-Beförderungsämter vom 12. Oktober 2004 (BGBl. I S. 2617) außer
-Betracht.
+(4) (weggefallen)
 
-(5) Betriebsmittel dürfen im Jahr 2012 nicht zur freiwilligen
-Auffüllung der Rücklage und nicht zur Senkung der Umlage auf einen
-Betrag verwendet werden, der geringer ist als die Umlage des
-Vorjahres.
+(5) (weggefallen)
 
-(6) Bei der Durchführung der Lastenverteilung sind im Jahr 2010 als
-beitragsbelastbare Flächenwerte nach § 184b Absatz 4 folgende Werte
-anzusetzen:
 
-*    *   Landwirtschaftliche
-        Berufsgenossenschaft
+### § 221a (weggefallen)
 
-    *   Wert
 
 
-*    *   Schleswig-Holstein und Hamburg
+### § 221b Übergangszeit und Beitragsangleichung in der landwirtschaftlichen Unfallversicherung
 
-    *   1 433 854 279
+(1) Der Beitrag, den die Unternehmer auf die Umlagen für die Jahre
+2013 bis 2017 (Übergangszeit) zu zahlen haben, ergibt sich, wenn der
+nach den §§ 182 und 183 berechnete Beitrag mit dem Angleichungssatz
+multipliziert wird.
 
+(2) Der Angleichungssatz wird nach folgenden Rechengrößen bestimmt:
 
-*    *   Niedersachsen-Bremen
+1.  Ausgangsbeitrag ist der auf die Umlage für das Jahr 2012 nach § 221
+    Absatz 3 zu zahlende Beitrag;
 
-    *   3 299 807 704
 
+2.  Zielbeitrag ist der Beitrag, der sich bei gleichen betrieblichen
+    Verhältnissen und gleicher Umlage für das Jahr 2012 bei Anwendung der
+    Berechnungsgrundlagen nach § 221 Absatz 4 ergeben würde;
 
-*    *   Nordrhein-Westfalen
 
-    *   2 843 898 631
+3.  Ausgangssatz ist der Prozentsatz des Ausgangsbeitrags im Verhältnis
+    zum Zielbeitrag;
 
 
-*    *   Hessen, Rheinland-Pfalz und Saarland
+4.  der jährliche Veränderungssatz ist ein Fünftel der Differenz zwischen
+    dem Prozentsatz des Zielbeitrags und dem Ausgangssatz.
 
-    *   2 433 181 990
 
 
-*    *   Franken und Oberbayern
+Der Angleichungssatz im ersten Jahr ergibt sich aus der Summe des
+Ausgangssatzes und des jährlichen Veränderungssatzes. Die
+Angleichungssätze in den Folgejahren ergeben sich aus der Summe des
+Angleichungssatzes des Vorjahres und des jährlichen
+Veränderungssatzes. Bei der Berechnung der Angleichungssätze ist § 187
+Absatz 1 anzuwenden. Die Angleichungssätze für die Übergangszeit sind
+dem Unternehmer zusammen mit dem Bescheid über die Umlage für das Jahr
+2013 mitzuteilen.
 
-    *   2 144 512 455
+(3) Ändern sich in der Übergangszeit die betrieblichen Verhältnisse
+gegenüber den für den Ausgangsbeitrag maßgebenden Verhältnissen,
+bleiben die Angleichungssätze nach Absatz 2 unverändert. Für während
+der Übergangszeit neu aufzunehmende Unternehmer sind die für vorherige
+Unternehmer nach Absatz 2 festgestellten Angleichungssätze anzuwenden.
 
+(4) Zur Vermeidung unzumutbarer Beitragserhöhungen in der
+Übergangszeit kann die Satzung Härtefallregelungen vorsehen.
 
-*    *   Niederbayern/Oberpfalz und Schwaben
+(5) Aus den Sondervermögen können Mittel entnommen werden, um die
+während der Übergangszeit erfolgende Angleichung der Beiträge nach
+Absatz 1 zu gestalten. Eine sich hierdurch ergebende Verringerung der
+Beiträge ist in den Beitragsbescheiden gesondert auszuweisen.
 
-    *   1 804 745 451
-
-
-*    *   Baden-Württemberg
-
-    *   2 007 622 149
-
-
-*    *   Gartenbau
-
-    *   1 058 498 116
-
-
-*    *   Mittel- und Ostdeutschland
-
-    *   7 967 435 509
-
-
-
-
-(7) In den Jahren 2010 bis 2013 ist § 184c mit der Maßgabe anzuwenden,
-dass jede Berufsgenossenschaft in den Jahren 2010 und 2011
-Rentenlasten in Höhe des Dreifachen und in den Jahren 2012 und 2013 in
-Höhe des Zweieinhalbfachen ihrer Neurenten trägt.
-
-
-### § 221a Besondere Abfindungen in der landwirtschaftlichen Unfallversicherung
-
-(1) Versicherte, die gegen eine landwirtschaftliche
-Berufsgenossenschaft Anspruch auf eine Rente wegen einer Minderung der
-Erwerbsfähigkeit von weniger als 50 vom Hundert haben, sollen in den
-Jahren 2008 und 2009 auf ihren Antrag im Wege besonderer Abfindungen
-im Rahmen der nach den Absätzen 2 und 3 zur Verfügung stehenden Mittel
-mit einem dem Kapitalwert der Rente nach Absatz 4 entsprechenden
-Betrag abgefunden werden. Für Versicherte, die Anspruch auf mehrere
-Renten haben, gilt Satz 1, wenn die Summe der festgestellten
-Vomhundertsätze der Minderung der Erwerbsfähigkeit die Zahl 50 nicht
-erreicht. Im Übrigen sind § 76 Abs. 2 und 3 und § 77 entsprechend
-anzuwenden. Liegen die Voraussetzungen für die Bewilligung einer
-besonderen Abfindung nach Satz 1 vor, ist eine Bewilligung von
-Abfindungen nach den §§ 76 und 78 ausgeschlossen.
-
-(2) Für die Bewilligung der besonderen Abfindungen leistet der Bund in
-den Jahren 2008 und 2009 nach Maßgabe der verfügbaren Haushaltsmittel
-einen zweckgebundenen Zuschuss bis zu einer Höhe von jährlich 200
-Millionen Euro; soweit die bewilligten Mittel im Jahr 2008 nicht in
-Anspruch genommen wurden, erhöht sich der Betrag für das Jahr 2009
-entsprechend. Diese Mittel des Bundes werden an den Spitzenverband der
-landwirtschaftlichen Sozialversicherung ausgezahlt, der sie nach
-besonderer Anforderung an die einzelnen landwirtschaftlichen
-Berufsgenossenschaften weiterleitet. Das Nähere zur Auszahlung und
-Verwendung der Bundesmittel wird durch das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Benehmen mit dem
-Bundesministerium der Finanzen geregelt.
-
-(3) Die landwirtschaftlichen Berufsgenossenschaften können
-Bundeszuschüsse nach Absatz 2 nur in Anspruch nehmen, wenn sie für die
-besonderen Abfindungen aus eigenen Mitteln einen weiteren Betrag in
-Höhe von 62,5 vom Hundert der auf sie entfallenden Bundeszuschüsse
-bereitstellen.
-
-(4) Der Kapitalwert für die Berechnung der besonderen Abfindungen
-richtet sich nach folgender Tabelle:
-
-*    *   Alter der Versicherten
-        zum Zeitpunkt der Abfindung
-
-    *   Kapitalwert
-
-
-*    *   unter 25
-
-    *   20,5
-
-
-*    *   25 bis unter 30
-
-    *   19,7
-
-
-*    *   30 bis unter 35
-
-    *   18,8
-
-
-*    *   35 bis unter 40
-
-    *   17,7
-
-
-*    *   40 bis unter 45
-
-    *   16,5
-
-
-*    *   45 bis unter 50
-
-    *   15,1
-
-
-*    *   50 bis unter 55
-
-    *   13,5
-
-
-*    *   55 bis unter 60
-
-    *   11,8
-
-
-*    *   60 bis unter 65
-
-    *   10,0
-
-
-*    *   65 bis unter 70
-
-    *   8,2
-
-
-*    *   70 bis unter 75
-
-    *   6,5
-
-
-*    *   75 bis unter 80
-
-    *   5,0
-
-
-*    *   80 bis unter 85
-
-    *   3,8
-
-
-*    *   85 bis unter 90
-
-    *   2,9
-
-
-*    *   90 bis unter 95
-
-    *   2,2
-
-
-*    *   95 und mehr
-
-    *   1,6
-
-
-
-
-
-### § 221b Weiterentwicklung der Berechnungsgrundlagen, Verordnungsermächtigung
-
-(1) Die landwirtschaftlichen Berufsgenossenschaften mit Ausnahme der
-Gartenbau-Berufsgenossenschaft haben bis zum 31. Dezember 2008 den
-strukturellen Änderungen bei den landwirtschaftlichen Betrieben und
-deren Auswirkungen auf das Unfallgeschehen durch eine
-Weiterentwicklung der Festlegungen der Satzung nach § 182 Abs. 2 Satz
-2 Rechnung zu tragen. Dabei soll das Unfallrisiko insbesondere durch
-die Bildung von Risikogruppen berücksichtigt werden; ein angemessener
-solidarischer Ausgleich ist sicherzustellen. Für die nach den Sätzen 1
-und 2 notwendigen statistischen Erhebungen sind die §§ 191 und 198
-entsprechend anzuwenden.
-
-(2) Der Spitzenverband der landwirtschaftlichen Sozialversicherung hat
-dem Bundesministerium für Arbeit und Soziales und dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-bis zum 31. März 2009 über die Maßnahmen und Beschlüsse der
-landwirtschaftlichen Berufsgenossenschaften zu berichten.
-
-(3) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz die anzuwendenden Berechnungsgrundlagen zum 1.
-Januar 2010 durch Rechtsverordnung festzulegen, wenn die
-erforderlichen Beschlüsse nicht bis zu der in Absatz 1 genannten Frist
-gefasst worden sind und den Organen der landwirtschaftlichen
-Berufsgenossenschaften nach dem Bericht nach Absatz 2 auch keine
-Vorschläge zu einer Beschlussfassung bis spätestens 30. September 2009
-vorliegen.
+(6) In der Übergangszeit ist § 184 Satz 2 nicht anzuwenden.
 
 
 ## Elftes Kapitel - Übergangsvorschriften zur Neuorganisation der gesetzlichen Unfallversicherung
@@ -8840,27 +8125,14 @@ vorliegen.
 
 ### § 222 Neuorganisation der gewerblichen Berufsgenossenschaften
 
-(1) Die Zahl der gewerblichen Berufsgenossenschaften ist bis zum 31.
-Dezember 2009 auf neun zu reduzieren. Die Deutsche Gesetzliche
-Unfallversicherung e. V. legt der Bundesregierung bis zum 31. Dezember
-2008 einen Bericht zum Sachstand über die Reduzierung der Trägerzahl
-vor. Die Bundesregierung leitet den Bericht an den Deutschen Bundestag
-und den Bundesrat weiter und fügt eine Stellungnahme bei.
+(1) (weggefallen)
 
-(2) Der Bericht enthält
+(2) (weggefallen)
 
-1.  die am 31. Dezember 2008 vollzogenen Fusionen,
-
-
-2.  die Beschlüsse über weitere Fusionen und die Zeitpunkte der Umsetzung.
-
-
-
-
-(3) Bei den Fusionen ist eine angemessene Vertretung der Interessen
-der in den bisherigen gewerblichen Berufsgenossenschaften vertretenen
-Branchen sowie eine ortsnahe Betreuung der Versicherten und
-Unternehmen sicherzustellen.
+(3) Bei Fusionen von gewerblichen Berufsgenossenschaften ist eine
+angemessene Vertretung der Interessen der in den bisherigen
+gewerblichen Berufsgenossenschaften vertretenen Branchen sowie eine
+ortsnahe Betreuung der Versicherten und Unternehmen sicherzustellen.
 
 (3a) Vereinigen sich gewerbliche Berufsgenossenschaften zu einer neuen
 gewerblichen Berufsgenossenschaft, so ist dort ein neuer Personalrat
@@ -8901,47 +8173,75 @@ Selbstverwaltungsgremien sowie eine ortsnahe Betreuung der
 Versicherten und Unternehmen sicherzustellen.
 
 
-### § 224 Neuorganisation der bundesunmittelbaren Unfallversicherungsträger der öffentlichen Hand
+### § 224 Umstellung der Mitgliedsnummer auf die Unternehmernummer
 
-Die Selbstverwaltungen der bundesunmittelbaren
-Unfallversicherungsträger der öffentlichen Hand erstellen ein Konzept
-zur Neuorganisation und legen dies den zuständigen Bundesministerien
-bis zum 31. Dezember 2008 vor. Das Konzept enthält eine umfassende
-Prüfung der Möglichkeiten, die Zahl der bundesunmittelbaren
-Unfallversicherungsträger der öffentlichen Hand auf einen zu
-reduzieren.
+(1) Die Mitgliedsnummern der gewerblichen Berufsgenossenschaften, der
+landwirtschaftlichen Berufsgenossenschaft und der
+Unfallversicherungsträger der öffentlichen Hand sind in Abstimmung mit
+der Deutschen Gesetzlichen Unfallversicherung e. V. bis zum 1. Januar
+2023 automatisiert auf die neue Unternehmernummer umzustellen. Die
+Unternehmer sind über die vergebenen Unternehmernummern und die
+numerische Bezeichnung der zugehörigen Unternehmen unverzüglich zu
+informieren.
+
+(2) Für die vorbereitenden Tätigkeiten der Berufsgenossenschaften, der
+Unfallversicherungsträger der öffentlichen Hand und der Deutschen
+Gesetzlichen Unfallversicherung e. V. gilt, dass
+
+1.  jeder Unternehmer bei erstmaliger Aufnahme einer unternehmerischen
+    Tätigkeit eine Unternehmernummer erhält,
 
 
-### § 225 Umsetzung der Neuorganisation der gewerblichen Berufsgenossenschaften
+2.  der Unternehmer für die Vergabe der Unternehmernummer die dazu
+    notwendigen Angaben, insbesondere den Namen, den Geburtsnamen, das
+    Geburtsdatum und die aktuelle Wohnanschrift elektronisch zu
+    übermitteln hat,
 
-(1) Die Berufgenossenschaft Nahrungsmittel und Gaststätten sowie die
-Fleischerei-Berufsgenossenschaft werden verpflichtet, sich spätestens
-bis zum 1. Januar 2011 zu einer Berufsgenossenschaft zu vereinigen.
-Die beteiligten Berufsgenossenschaften legen dem
-Bundesversicherungsamt spätestens bis zum 1. Oktober 2010 eine
-Satzung, einen Vorschlag zur Berufung der Mitglieder der Organe und
-eine Vereinbarung über die Rechtsbeziehungen zu Dritten sowie eine
-Vereinbarung über die Gefahrtarif- und Beitragsgestaltung vor. Im
-Übrigen gilt § 118 entsprechend.
 
-(2) Die Berufsgenossenschaft Metall Nord Süd, die Maschinenbau- und
-Metall-Berufsgenossenschaft, die Hütten- und Walzwerks-
-Berufsgenossenschaft sowie die Holz-Berufsgenossenschaft werden
-verpflichtet, sich spätestens bis zum 1. Januar 2011 zu einer
-Berufsgenossenschaft zu vereinigen. Die beteiligten
-Berufsgenossenschaften legen dem Bundesversicherungsamt spätestens bis
-zum 1. Oktober 2010 eine Satzung, einen Vorschlag zur Berufung der
-Mitglieder der Organe und eine Vereinbarung über die Rechtsbeziehungen
-zu Dritten sowie eine Vereinbarung über die Gefahrtarif- und
-Beitragsgestaltung vor. Im Übrigen gilt § 118 entsprechend.
+3.  die Unternehmernummer nach Mitteilung über den Unternehmensbeginn im
+    Sinne von § 192 Absatz 1 über die Deutsche Gesetzliche
+    Unfallversicherung e. V. unverzüglich vergeben wird,
 
-(3) Liegen dem Bundesversicherungsamt am 1. Oktober 2010 keine
-übereinstimmenden Vereinigungsbeschlüsse vor, vereinigt das
-Bundesversicherungsamt die Berufsgenossenschaften zum 1. Januar 2011.
 
-(4) Klagen gegen Aufsichtsmaßnahmen des Bundesversicherungsamtes im
-Zusammenhang mit den Absätzen 1 bis 3 haben keine aufschiebende
-Wirkung.
+4.  die Unternehmer, die bereits eine Unternehmernummer erhalten haben,
+    den Beginn und das Ende eines oder mehrerer weiterer Unternehmen nach
+    § 192 Absatz 1 unter Angabe der Unternehmernummer und der notwendigen
+    Angaben zur Identifizierung des Unternehmens dem zuständigen Träger
+    der Unfallversicherung mitzuteilen haben,
+
+
+5.  in einem Anhang zu der Unternehmernummer die dem Unternehmer
+    zugehörigen Unternehmen numerisch in aufsteigender Folge bezeichnet
+    werden,
+
+
+6.  die Unternehmernummer und die zur Identifizierung des Unternehmens
+    erforderlichen Daten in einem zentralen Dateisystem bei der Deutschen
+    Gesetzlichen Unfallversicherung e. V. gespeichert werden,
+
+
+7.  die Berufsgenossenschaften und die Unfallversicherungsträger der
+    öffentlichen Hand zur Erledigung ihrer gesetzlichen Aufgaben Zugriff
+    auf dieses Dateisystem haben,
+
+
+8.  die Berufsgenossenschaften und die Unfallversicherungsträger der
+    öffentlichen Hand die Unternehmer- und Unternehmensnummern ihrer
+    Mitglieder jeweils in einem gesonderten Mitgliederdateisystem führen.
+
+
+
+Bei Änderungen, die die zum Unternehmer oder zum Unternehmen
+gespeicherten Daten betreffen, gilt § 192 Absatz 2 entsprechend. Das
+Nähere zum Verfahren, zu den erforderlichen Angaben und zu den
+Datensätzen regelt die Deutsche Gesetzliche Unfallversicherung e. V.
+in Abstimmung mit der landwirtschaftlichen Berufsgenossenschaft in
+Grundsätzen, die durch das Bundesministerium für Arbeit und Soziales
+zu genehmigen sind.
+
+
+### § 225 (weggefallen)
+
 
 (zu § 114)
 
@@ -8963,13 +8263,14 @@ Wirkung.
 5.  Berufsgenossenschaft der Bauwirtschaft,
 
 
-6.  Berufsgenossenschaft Handel und Warendistribution,
+6.  Berufsgenossenschaft Handel und Warenlogistik,
 
 
 7.  Verwaltungs-Berufsgenossenschaft,
 
 
-8.  Berufsgenossenschaft für Transport und Verkehrswirtschaft,
+8.  Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+    Telekommunikation,
 
 
 9.  Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege.
@@ -8977,42 +8278,7 @@ Wirkung.
 
 
 
-(zu § 114)
 
-### Anlage 2 Landwirtschaftliche Berufsgenossenschaften
-
-1\.
-
-*   Landwirtschaftliche Berufsgenossenschaft Schleswig-Holstein und
-    Hamburg
-
-
-2.  Landwirtschaftliche Berufsgenossenschaft Niedersachsen-Bremen
-
-
-3.  Landwirtschaftliche Berufsgenossenschaft Nordrhein-Westfalen
-
-
-4.  Land- und forstwirtschaftliche Berufsgenossenschaft Hessen, Rheinland-
-    Pfalz und Saarland
-
-
-5.  Land- und forstwirtschaftliche Berufsgenossenschaft Franken und
-    Oberbayern
-
-
-6.  Land- und forstwirtschaftliche Berufsgenossenschaft
-    Niederbayern/Oberpfalz und Schwaben
-
-
-7.  Landwirtschaftliche Berufsgenossenschaft Baden-Württemberg
-
-
-8.  Landwirtschaftliche Berufsgenossenschaft Mittel- und Ostdeutschland
-
-
-9.  Gartenbau-Berufsgenossenschaft
-
-
+### Anlage 2 (weggefallen)
 
 

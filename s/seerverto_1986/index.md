@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.3.1999 I 530; 2000 I 149;
 
 Zuletzt geändert durch
-:   Art. 78 Abs. 5 G v. 23.11.2007 I 2614 mWv 30.11.2007
+:   Art. 3 G v. 16.7.2021 I 3079
 
 Stand: In Kraft gem. Bek. v. 30.7.1987 I 2083 mWv 1.9.1987
 
@@ -80,22 +80,22 @@ angehörenden Schuldners eröffnet worden ist.
 
 
 sofern diese Personen ihre Haftung für die aus einem bestimmten
-Ereignis entstandenen Ansprüche nach § 486 Abs. 1 oder 3, §§ 487 bis
-487d des Handelsgesetzbuchs beschränken können und wegen eines solchen
+Ereignis entstandenen Ansprüche nach § 611 Absatz 1 oder 3, §§ 612 bis
+616 des Handelsgesetzbuchs beschränken können und wegen eines solchen
 Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses
 Gesetzes eingeleitet wird;
 
 3a. ein nicht an Bord des gelotsten Schiffes tätiger Lotse, sofern er
     seine Haftung für die aus einem bestimmten Ereignis entstandenen
-    Ansprüche nach § 487c Abs. 4 des Handelsgesetzbuchs beschränken kann
-    und wegen eines solchen Anspruchs ein gerichtliches Verfahren im
-    Geltungsbereich dieses Gesetzes eingeleitet wird;
+    Ansprüche nach § 615 des Handelsgesetzbuchs beschränken kann und wegen
+    eines solchen Anspruchs ein gerichtliches Verfahren im Geltungsbereich
+    dieses Gesetzes eingeleitet wird;
 
 
 4.  der Eigentümer eines Schiffes im Sinne des Artikels I Nr. 3 des
     Haftungsübereinkommens von 1992, sofern er seine Haftung für die aus
-    einem bestimmten Ereignis entstandenen Ansprüche nach § 486 Abs. 2, §
-    487d des Handelsgesetzbuchs beschränken kann.
+    einem bestimmten Ereignis entstandenen Ansprüche nach § 611 Absatz 2,
+    § 616 des Handelsgesetzbuchs beschränken kann.
 
 
 
@@ -458,7 +458,7 @@ Personenkreis gehören, für alle Ansprüche, die
 1.  aus dem im Eröffnungsbeschluß bezeichneten Ereignis entstanden sind,
 
 
-2.  der Haftungsbeschränkung nach den §§ 486 bis 487d des
+2.  der Haftungsbeschränkung nach den §§ 611 bis 616 des
     Handelsgesetzbuchs unterliegen und
 
 
@@ -751,7 +751,7 @@ Tabelle kann auch in elektronischer Form hergestellt und bearbeitet
 werden. Sie ist zusammen mit den Anmeldungen auf der Geschäftsstelle
 des Gerichts zur Einsicht der Beteiligten niederzulegen. Von einer
 Tabelle in elektronischer Form ist ein Ausdruck zur Einsicht
-niederzulegen, der den Anforderungen des § 298 Abs. 2 der
+niederzulegen, der den Anforderungen des § 298 Absatz 3 der
 Zivilprozessordnung entspricht.
 
 (4) Die Anmeldung kann zurückgenommen werden, solange nicht der
@@ -762,12 +762,11 @@ oder zu Protokoll der Geschäftsstelle erklärt werden.
 
 #### § 14 Gegenstand der Anmeldung
 
-(1) Die Ansprüche sind mit dem Wert in Deutscher Mark geltend zu
-machen, der ihnen am Tag der Eröffnung des Verteilungsverfahrens
-zukommt. Ansprüche, die nicht auf einen Geldbetrag gerichtet sind oder
-deren Geldbetrag unbestimmt oder ungewiß ist oder nicht in Deutscher
-Mark feststeht, sind nach ihrem Schätzungswert in Deutscher Mark
-geltend zu machen.
+(1) Die Ansprüche sind mit dem Wert in Euro geltend zu machen, der
+ihnen am Tag der Eröffnung des Verteilungsverfahrens zukommt.
+Ansprüche, die nicht auf einen Geldbetrag gerichtet sind oder deren
+Geldbetrag unbestimmt oder ungewiß ist oder nicht in Euro feststeht,
+sind nach ihrem Schätzungswert in Euro geltend zu machen.
 
 (2) Zinsen können im Verteilungsverfahren nur insoweit geltend gemacht
 werden, als sie bis zur Eröffnung des Verfahrens aufgelaufen sind.
@@ -1122,9 +1121,9 @@ nieder und macht die Summe der Ansprüche öffentlich bekannt; § 11 Abs.
 2 bis 4 gilt entsprechend. Das Verzeichnis kann auch in elektronischer
 Form hergestellt und bearbeitet werden. Von einem Verzeichnis in
 elektronischer Form ist ein Ausdruck zur Einsicht niederzulegen, der
-den Anforderungen des § 298 Abs. 2 der Zivilprozessordnung entspricht.
-Für Einwendungen gegen das Verzeichnis gilt § 194 der Insolvenzordnung
-entsprechend.
+den Anforderungen des § 298 Absatz 3 der Zivilprozessordnung
+entspricht. Für Einwendungen gegen das Verzeichnis gilt § 194 der
+Insolvenzordnung entsprechend.
 
 (3) Gläubiger, deren Ansprüche nicht festgestellt sind und für deren
 Ansprüche ein mit der Vollstreckungsklausel versehener Schuldtitel,
@@ -1323,16 +1322,20 @@ Abs. 1 bis 3, § 7 Abs. 2 Nr. 2, 3 und 5 sowie § 23 Abs. 2 und 3 Satz
 Die Eröffnung eines Binnenschiffahrtsrechtlichen Verteilungsverfahrens
 können beantragen:
 
-1.  der Schiffseigner, Eigentümer, Charterer oder Ausrüster eines
-    Binnenschiffs sowie jede Person, für deren Handeln, Unterlassen oder
-    Verschulden sie haften,
+1.  der Schiffseigner, der Eigentümer oder der Ausrüster eines
+    Binnenschiffs, der Mieter oder Charterer, dem ein Binnenschiff zu
+    dessen Verwendung überlassen wird, sowie jede Person, für deren
+    Handeln, Unterlassen oder Verschulden sie haften,
 
 
-2.  der Schiffseigner, Eigentümer, Charterer oder Ausrüster eines
-    Binnenschiffs, der von diesem aus Bergungsmaßnahmen durchführt, oder
-    ein von dem Binnenschiff aus arbeitender Berger sowie jede Person, für
-    deren Handeln, Unterlassen oder Verschulden der Schiffseigner, der
-    Eigentümer, der Charterer, der Ausrüster oder der Berger haftet,
+2.  der Schiffseigner, der Eigentümer oder der Ausrüster eines
+    Binnenschiffs, der von diesem aus Bergungsmaßnahmen durchführt, der
+    Mieter oder Charterer, dem ein Binnenschiff zu dessen Verwendung
+    überlassen wird und der von diesem aus Bergungsmaßnahmen durchführt,
+    oder ein von dem Binnenschiff aus arbeitender Berger sowie jede
+    Person, für deren Handeln, Unterlassen oder Verschulden der
+    Schiffseigner, der Eigentümer, der Mieter oder Charterer, der
+    Ausrüster oder der Berger haftet,
 
 
 3.  ein Berger im Sinne von § 5c Abs. 1 Nr. 2 des
@@ -1342,7 +1345,7 @@ können beantragen:
 
 
 sofern diese Person ihre Haftung für die aus einem bestimmten Ereignis
-entstandenen Ansprüche nach den §§ 4 bis 5m des
+entstandenen Ansprüche nach den §§ 4 bis 5n des
 Binnenschiffahrtsgesetzes beschränken können und wegen eines solchen
 Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses
 Gesetzes eingeleitet wird oder eingeleitet werden kann. Der Antrag
@@ -1559,9 +1562,9 @@ Auf die Eröffnung des Binnenschiffahrtsrechtlichen
 Verteilungsverfahrens ist § 8 mit der Maßgabe anzuwenden, daß an die
 Stelle
 
-1.  der Ansprüche, die der Haftungsbeschränkung nach den §§ 486 bis 487d
+1.  der Ansprüche, die der Haftungsbeschränkung nach den §§ 611 bis 616
     des Handelsgesetzbuchs unterliegen, die Ansprüche treten, die der
-    Haftungsbeschränkung nach den §§ 4 bis 5m des
+    Haftungsbeschränkung nach den §§ 4 bis 5n des
     Binnenschiffahrtsgesetzes unterliegen, und
 
 
@@ -1629,8 +1632,8 @@ Verfahren teilnehmen, sowie gegen den Sachwalter.
 (1) In einem Binnenschiffahrtsrechtlichen Verteilungsverfahren für
 Ansprüche der Anspruchsklasse A oder D haben Ansprüche wegen
 Beschädigung von Hafenanlagen, Hafenbecken, Wasserstraßen, Schleusen,
-Brücken und Navigationshilfen Vorrang vor sonstigen Ansprüchen wegen
-Sachschäden.
+Wehren, Brücken und Navigationshilfen Vorrang vor sonstigen Ansprüchen
+wegen Sachschäden.
 
 (2) Hat ein Binnenschiffahrtsrechtliches Verteilungsverfahren für
 Ansprüche der Anspruchsklasse A oder D Wirkung sowohl für Ansprüche
@@ -1746,19 +1749,19 @@ zur Befriedigung seines Anspruchs verwendet werden kann.
 
 ### § 52 Errichtung eines Fonds nach dem Straßburger Übereinkommen
 
-(1) Hat ein Gläubiger einen Anspruch gegen einen Fonds geltend
-gemacht, der entsprechend den Vorschriften des Straßburger
-Übereinkommens über die Beschränkung der Haftung in der
-Binnenschiffahrt - CLNI (BGBl. 1998 II S. 1643) in einem anderen
-Vertragsstaat des Übereinkommens errichtet worden ist, so ist für
-Zwangsvollstreckungen wegen eines solchen Anspruchs in das Vermögen
-des Schuldners, von dem oder für den der Fonds errichtet worden ist, §
-41 in Verbindung mit § 8 Abs. 4 und 5 entsprechend anzuwenden. Für
-eine Klage wegen eines solchen Anspruchs gegen einen Schuldner, von
-dem oder für den der Fonds errichtet worden ist, gilt § 41 in
-Verbindung mit § 8 Abs. 2 und 3 entsprechend, sofern das für die
-Errichtung und Verteilung des Fonds maßgebende Recht der Errichtung
-des Fonds diese Rechtsfolgen beilegt.
+(1) Kann ein Gläubiger einen Anspruch gegen einen Fonds geltend
+machen, der entsprechend dem Straßburger Übereinkommen vom 27.
+September 2012 über die Beschränkung der Haftung in der
+Binnenschifffahrt (CLNI 2012) (BGBl. 2016 II S. 738, 739) in einem
+anderen Vertragsstaat des Übereinkommens errichtet worden ist, so ist
+für Zwangsvollstreckungen wegen eines solchen Anspruchs in das
+Vermögen des Schuldners, von dem oder für den der Fonds errichtet
+worden ist, § 41 in Verbindung mit § 8 Absatz 4 und 5 entsprechend
+anzuwenden. Für eine Klage wegen eines solchen Anspruchs gegen einen
+Schuldner, von dem oder für den der Fonds errichtet worden ist, gilt §
+41 in Verbindung mit § 8 Absatz 2 und 3 entsprechend, sofern das
+Recht, das für die Errichtung und Verteilung des Fonds maßgebend ist,
+diese Rechtsfolgen für die Errichtung des Fonds bestimmt.
 
 (2) Ist in einem Vertragsstaat des Straßburger Übereinkommens ein
 Fonds errichtet worden, so ist die Vollziehung eines Arrests in das

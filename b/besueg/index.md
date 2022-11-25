@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160, 221 (462)
 
 Zuletzt geändert durch
-:   Art. 5 G v. 15.3.2012 I 462
+:   Art. 69 V v. 19.6.2020 I 1328
 
 
 ## § 1 Geltungsbereich
@@ -107,15 +107,15 @@ Berücksichtigung der Leistungsstufe ergeben würde. Die Differenz der
 sich nach den Sätzen 1 und 2 ergebenden Beträge wird als
 ruhegehaltfähiger Mehrbetrag gezahlt. Dieser Mehrbetrag verringert
 sich bei Erhöhungen des Grundgehaltes aufgrund von § 3 oder § 27 Abs.
-3 und 4 des Bundesbesoldungsgesetzes in voller Höhe der
-Bezügeverbesserung. Ab dem Zeitpunkt, zu dem die nächste Stufe nach §
-27 Abs. 2 des Bundesbesoldungsgesetzes in der am 30. Juni 2009
-geltenden Fassung ohne Berücksichtigung der Leistungsstufe erreicht
-worden wäre, verringert sich der Mehrbetrag zusätzlich bei allgemeinen
-Erhöhungen der Dienstbezüge um ein Drittel des Erhöhungsbetrages und
-durch die Verleihung eines Amtes mit höherem Endgrundgehalt bis zur
-vollen Höhe der Bezügeverbesserung; dies gilt bei Verleihung eines
-Amtes oder Dienstgrades einer höheren Besoldungsgruppe der
+3 des Bundesbesoldungsgesetzes in voller Höhe der Bezügeverbesserung.
+Ab dem Zeitpunkt, zu dem die nächste Stufe nach § 27 Abs. 2 des
+Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung
+ohne Berücksichtigung der Leistungsstufe erreicht worden wäre,
+verringert sich der Mehrbetrag zusätzlich bei allgemeinen Erhöhungen
+der Dienstbezüge um ein Drittel des Erhöhungsbetrages und durch die
+Verleihung eines Amtes mit höherem Endgrundgehalt bis zur vollen Höhe
+der Bezügeverbesserung; dies gilt bei Verleihung eines Amtes oder
+Dienstgrades einer höheren Besoldungsgruppe der
 Bundesbesoldungsordnung A nur, wenn vor der Verleihung bereits eine
 endgültige Zuordnung nach Absatz 5 erfolgte. Bei einer endgültigen
 Zuordnung nach Absatz 5 Satz 2 werden die Ernannten mit dem
@@ -128,11 +128,11 @@ ohne Berücksichtigung der Leistungsstufe erreicht worden wäre, eine
 weitere Ernennung durch Verleihung eines Amtes oder Dienstgrades einer
 höheren Besoldungsgruppe der Bundesbesoldungsordnung A, ist der
 Mehrbetrag in entsprechender Anwendung der Sätze 1 bis 6 erneut zu
-ermitteln.Der nach den Sätzen 6 oder 7 ermittelte Mehrbetrag
+ermitteln. Der nach den Sätzen 6 oder 7 ermittelte Mehrbetrag
 verringert sich nach den Sätzen 4 und 5. Wird eine Leistungsstufe
 während der Zuordnung zu einer Überleitungsstufe oder zu einer
 vorläufigen Stufe vergeben, ist für die Höhe der Leistungsstufe
-abweichend von § 27 Abs. 7 des Bundesbesoldungsgesetzes der Betrag
+abweichend von § 27 Absatz 6 des Bundesbesoldungsgesetzes der Betrag
 maßgebend, der am 30. Juni 2009 als Leistungsstufe gewährt worden
 wäre. Dieser ruhegehaltfähige Betrag verringert sich nach den Sätzen 4
 und 5. Die Sätze 6 bis 8 sind entsprechend anzuwenden. Bis zu dem
@@ -163,7 +163,7 @@ ersten Tag des Monats, in dem diese Feststellung erfolgt, so gestellt,
 als ob eine Hemmung des Aufstiegs in den Stufen nicht vorgelegen
 hätte.
 
-(11) In den Fällen des § 27 Abs. 10 Satz 2 des
+(11) In den Fällen des § 27 Absatz 9 Satz 2 des
 Bundesbesoldungsgesetzes werden die Betroffenen so gestellt, als ob
 ein Fall des § 27 Absatz 5 Satz 1 des Bundesbesoldungsgesetzes in der
 bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
@@ -173,7 +173,7 @@ bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
 
 (1) Mit der Zuordnung zu einer Stufe des Grundgehaltes der Anlage 1 in
 der ab 1. Juli 2009 gültigen Fassung beginnt die für den Aufstieg
-maßgebende Erfahrungszeit nach § 27 Abs. 3 und 4 Satz 1 des
+maßgebende Erfahrungszeit nach § 27 Abs. 3 des
 Bundesbesoldungsgesetzes. Bei einer Zuordnung zur Stufe 5 auf der
 Grundlage von Dienstbezügen der Besoldungsgruppen A 7 bis A 12 wird ab
 dem Zeitpunkt, ab dem das Grundgehalt nach § 27 Abs. 2 des
@@ -186,8 +186,8 @@ Besoldungsgruppe A 6 wird die nächsthöhere Stufe zu dem Zeitpunkt
 erreicht, zu dem das Grundgehalt nach § 27 Abs. 2 des
 Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung
 gestiegen wäre, wenn sich dadurch ein früherer Zeitpunkt als bei einem
-Aufstieg nach § 27 Abs. 3 und 4 Satz 1 des Bundesbesoldungsgesetzes
-ergibt. Mit Ausnahme der Angehörigen der Laufbahnen der Offiziere des
+Aufstieg nach § 27 Abs. 3 des Bundesbesoldungsgesetzes ergibt. Mit
+Ausnahme der Angehörigen der Laufbahnen der Offiziere des
 Truppendienstes, des Militärmusikdienstes, des Sanitätsdienstes und
 des Geoinformationsdienstes der Bundeswehr gilt dies auch für
 Soldatinnen auf Zeit und Soldaten auf Zeit, die auf der Grundlage von
@@ -215,33 +215,12 @@ abweichend von § 27 Abs. 3 des Bundesbesoldungsgesetzes zwei Jahre.
 
 (4) In den Fällen des Absatzes 1 Satz 2 bis 4 und des Absatzes 2
 verzögert sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge.
-Satz 1 gilt nicht für Zeiten nach § 28 Abs. 2 des
+Satz 1 gilt nicht für Zeiten nach § 28 Absatz 5 des
 Bundesbesoldungsgesetzes, soweit diese nicht bereits nach § 28 Abs. 3
 Nr. 1 oder 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009
 geltenden Fassung berücksichtigt wurden.
 
-(5) Bei einer Zuordnung zu einer der Stufen 1 bis 4 des Grundgehaltes
-der Anlage 1 in der ab 1. Juli 2009 gültigen Fassung nach Absatz 1
-wird bei Soldatinnen und Soldaten die Verlängerung der
-Erfahrungszeiten nach § 27 Abs. 4 Satz 2 und 3 des
-Bundesbesoldungsgesetzes für die durch Zuordnung erreichte Stufe und
-die nächsthöhere Stufe ausgesetzt, in den Laufbahnen der Feldwebel für
-die durch Zuordnung erreichte Stufe und die beiden nächsthöheren
-Stufen. Bei einer Zuordnung zu einer Überleitungsstufe zu den Stufen 2
-bis 4 nach Absatz 2 gilt Satz 1 für die dieser dazugehörigen Stufe und
-die nächsthöhere Stufe, in den Laufbahnen der Feldwebel für die dieser
-dazugehörigen Stufe und die beiden nächsthöheren Stufen. Bei
-Soldatinnen und Soldaten, die zu einer der Stufen 5 bis 7 nach Absatz
-1 oder zu einer Überleitungsstufe zu den Stufen 5 bis 7 nach Absatz 2
-zugeordnet werden, ist § 27 Abs. 4 Satz 2 und 3 des
-Bundesbesoldungsgesetzes nicht anzuwenden. Liegen die Voraussetzungen
-nach § 27 Abs. 4 Satz 2 und 3 des Bundesbesoldungsgesetzes nicht
-bereits zum Zeitpunkt der Zuordnung vor, sondern erst zu einem
-späteren Zeitpunkt, verzögert sich die Anwendung der Sätze 1 und 2
-entsprechend. Die Stufe 8 wird spätestens zu dem Zeitpunkt erreicht,
-zu dem das Endgrundgehalt nach § 27 Absatz 2 des
-Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung
-erreicht worden wäre.
+(5) (weggefallen)
 
 
 ## § 4 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
@@ -299,6 +278,16 @@ sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge. § 3 Abs. 4
 Satz 2 gilt entsprechend.
 
 
+## § 5a Teilnahme der Grundgehaltssätze an Besoldungsanpassungen
+
+(1) Die Monatsbeträge der Anlagen nehmen an allgemeinen Anpassungen
+der Besoldung nach § 14 des Bundesbesoldungsgesetzes teil.
+
+(2) Das Bundesministerium des Innern, für Bau und Heimat macht die
+Monatsbeträge nach Absatz 1 in der jeweils geltenden Fassung im
+Bundesgesetzblatt bekannt.
+
+
 ## § 6 Regelungen für Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte in den Besoldungsgruppen der
@@ -314,16 +303,17 @@ Nummer 27 Abs. 1 der Anlage I (Bundesbesoldungsordnungen A und B) des
 Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung
 gezahlt.
 
-(3) Das Bundesministerium des Innern macht die sich nach Absatz 2
-jeweils ergebenden Beträge im Bundesgesetzblatt bekannt.
+(3) Das Bundesministerium des Innern, für Bau und Heimat macht die
+sich nach Absatz 2 jeweils ergebenden Beträge im Bundesgesetzblatt
+bekannt.
 
 
 ## Anlage 1
 
-(Fundstelle: BGBl. I 2011, 2852)
+(Fundstelle: BGBl. I 2012, 1700)
 
-## Überleitungstabelle für die Besoldungsgruppen der
-Bundesbesoldungsordnung A
+## **Überleitungstabelle für die Besoldungsgruppen der
+Bundesbesoldungsordnung A**
 
 
 *    *   Besoldungs-
@@ -380,495 +370,495 @@ Bundesbesoldungsordnung A
 
 *    *   A 2
 
-    *   1 744,80
+    *   1 845,90
 
     *
-    *   1 785,58
+    *   1 889,03
 
     *
-    *   1 827,44
+    *   1 933,32
 
     *
-    *   1 858,81
+    *   1 966,51
 
-    *   1 866,14
+    *   1 974,26
 
-    *   1 891,25
+    *   2 000,83
 
-    *   1 906,94
+    *   2 017,43
 
-    *   1 923,68
+    *   2 035,14
 
-    *   1 946,68
+    *   2 059,47
 
-    *   1 956,09
+    *   2 069,43
 
     *
-    *   1 988,52
+    *   2 103,74
 
 
 *    *   A 3
 
-    *   1 814,88
+    *   1 920,04
 
     *
-    *   1 857,76
+    *   1 965,41
 
     *
-    *   1 900,65
+    *   2 010,77
 
     *
-    *   1 935,17
+    *   2 047,30
 
-    *   1 943,54
+    *   2 056,15
 
-    *   1 969,70
+    *   2 083,83
 
-    *   1 986,43
+    *   2 101,52
 
-    *   2 004,21
+    *   2 120,33
 
-    *   2 030,37
+    *   2 148,01
 
-    *   2 038,73
+    *   2 156,86
 
     *
-    *   2 073,24
+    *   2 193,37
 
 
 *    *   A 4
 
-    *   1 854,65
+    *   1 962,11
 
     *
-    *   1 905,88
+    *   2 016,31
 
     *
-    *   1 957,14
+    *   2 070,54
 
     *
-    *   1 997,94
+    *   2 113,70
 
-    *   2 006,32
+    *   2 122,57
 
-    *   2 038,73
+    *   2 156,86
 
-    *   2 057,56
+    *   2 176,78
 
-    *   2 079,53
+    *   2 200,02
 
-    *   2 107,77
+    *   2 229,90
 
-    *   2 120,32
+    *   2 243,17
 
     *
-    *   2 157,99
+    *   2 283,02
 
 
 *    *   A 5
 
-    *   1 869,27
+    *   1 977,58
 
     *
-    *   1 933,08
+    *   2 045,08
 
     *
-    *   1 984,33
+    *   2 099,30
 
     *
-    *   2 034,55
+    *   2 152,43
 
-    *   2 051,29
+    *   2 170,14
 
-    *   2 084,77
+    *   2 205,56
 
-    *   2 113,01
+    *   2 235,44
 
-    *   2 136,02
+    *   2 259,79
 
-    *   2 173,68
+    *   2 299,62
 
-    *   2 186,22
+    *   2 312,90
 
     *
-    *   2 235,39
+    *   2 364,91
 
 
 *    *   A 6
 
-    *   1 911,11
+    *   2 021,84
 
-    *   1 966,56
+    *   2 080,51
 
-    *   1 985,39
+    *   2 100,43
 
-    *   2 022,00
+    *   2 139,16
 
-    *   2 060,70
+    *   2 180,09
 
-    *   2 077,44
+    *   2 197,81
 
-    *   2 118,23
+    *   2 240,96
 
-    *   2 132,88
+    *   2 256,47
 
-    *   2 177,85
+    *   2 304,04
 
-    *   2 188,31
+    *   2 315,10
 
-    *   2 235,39
+    *   2 364,91
 
-    *   2 243,75
+    *   2 373,75
 
-    *   2 299,20
+    *   2 432,41
 
     *
-    *   2 354,64
+    *   2 491,07
 
 
 *    *   A 7
 
-    *   2 010,49
+    *   2 126,98
 
-    *   2 061,75
+    *   2 181,21
 
-    *   2 076,39
+    *   2 196,70
 
-    *   2 130,78
+    *   2 254,24
 
-    *   2 163,23
+    *   2 288,58
 
-    *   2 199,83
+    *   2 327,29
 
-    *   2 252,13
+    *   2 382,62
 
-    *   2 268,86
+    *   2 400,31
 
-    *   2 338,95
+    *   2 474,47
 
-    *   2 409,03
+    *   2 548,61
 
-    *   2 426,82
+    *   2 567,43
 
-    *   2 459,25
+    *   2 601,74
 
-    *   2 492,72
+    *   2 637,15
 
-    *   2 508,41
+    *   2 653,75
 
-    *   2 558,61
+    *   2 706,86
 
 
 *    *   A 8
 
-    *   2 131,83
+    *   2 255,35
 
-    *   2 190,41
+    *   2 317,32
 
-    *   2 211,34
+    *   2 339,46
 
-    *   2 280,38
+    *   2 412,51
 
-    *   2 323,26
+    *   2 457,87
 
-    *   2 369,28
+    *   2 506,56
 
-    *   2 436,23
+    *   2 577,39
 
-    *   2 459,25
+    *   2 601,74
 
-    *   2 549,20
+    *   2 696,90
 
-    *   2 607,78
+    *   2 758,88
 
-    *   2 627,65
+    *   2 779,89
 
-    *   2 667,40
+    *   2 821,95
 
-    *   2 707,15
+    *   2 864,01
 
-    *   2 727,02
+    *   2 885,02
 
-    *   2 785,61
+    *   2 947,01
 
 
 *    *   A 9
 
-    *   2 307,56
+    *   2 441,26
 
-    *   2 367,19
+    *   2 504,35
 
-    *   2 386,02
+    *   2 524,27
 
-    *   2 462,38
+    *   2 605,05
 
-    *   2 509,46
+    *   2 654,86
 
-    *   2 557,58
+    *   2 705,76
 
-    *   2 634,98
+    *   2 787,65
 
-    *   2 652,77
+    *   2 806,47
 
-    *   2 758,40
+    *   2 918,22
 
-    *   2 813,85
+    *   2 976,89
 
-    *   2 842,10
+    *   3 006,77
 
-    *   2 878,71
+    *   3 045,50
 
-    *   2 926,83
+    *   3 096,42
 
-    *   2 944,61
+    *   3 115,22
 
-    *   3 009,46
+    *   3 183,83
 
 
 *    *   A 10
 
-    *   2 475,97
+    *   2 619,43
 
-    *   2 558,61
+    *   2 706,86
 
-    *   2 583,72
+    *   2 733,42
 
-    *   2 681,01
+    *   2 836,34
 
-    *   2 739,58
+    *   2 898,32
 
-    *   2 802,35
+    *   2 964,72
 
-    *   2 894,39
+    *   3 062,09
 
-    *   2 924,73
+    *   3 094,20
 
-    *   3 049,21
+    *   3 225,88
 
-    *   3 127,67
+    *   3 308,89
 
-    *   3 156,97
+    *   3 339,88
 
-    *   3 210,30
+    *   3 396,30
 
-    *   3 264,69
+    *   3 453,84
 
-    *   3 291,89
+    *   3 482,63
 
-    *   3 372,45
+    *   3 567,85
 
 
 *    *   A 11
 
-    *   2 842,10
+    *   3 006,77
 
-    *   2 967,62
+    *   3 139,57
 
-    *   3 002,15
+    *   3 176,09
 
-    *   3 092,10
+    *   3 271,26
 
-    *   3 161,13
+    *   3 344,30
 
-    *   3 218,66
+    *   3 405,16
 
-    *   3 321,19
+    *   3 513,62
 
-    *   3 343,15
+    *   3 536,85
 
-    *   3 431,02
+    *   3 629,81
 
-    *   3 509,47
+    *   3 712,81
 
-    *   3 540,85
+    *   3 746,01
 
-    *   3 594,19
+    *   3 802,44
 
-    *   3 650,69
+    *   3 862,21
 
-    *   3 677,88
+    *   3 890,98
 
-    *   3 760,52
+    *   3 978,41
 
 
 *    *   A 12
 
-    *   3 047,13
+    *   3 223,69
 
-    *   3 195,66
+    *   3 380,82
 
-    *   3 236,46
+    *   3 423,98
 
-    *   3 345,25
+    *   3 539,08
 
-    *   3 426,83
+    *   3 625,39
 
-    *   3 494,82
+    *   3 697,31
 
-    *   3 616,16
+    *   3 825,68
 
-    *   3 644,41
+    *   3 855,58
 
-    *   3 747,97
+    *   3 965,13
 
-    *   3 842,11
+    *   4 064,73
 
-    *   3 877,67
+    *   4 102,34
 
-    *   3 942,54
+    *   4 170,97
 
-    *   4 008,43
+    *   4 240,68
 
-    *   4 041,90
+    *   4 276,08
 
-    *   4 141,28
+    *   4 381,23
 
 
 *    *   A 13
 
-    *   3 573,27
+    *   3 780,31
 
-    *   3 734,37
+    *   3 950,74
 
-    *   3 751,10
+    *   3 968,45
 
-    *   3 895,46
+    *   4 121,17
 
-    *   3 927,89
+    *   4 155,47
 
-    *   4 056,55
+    *   4 291,60
 
-    *   4 105,71
+    *   4 343,60
 
-    *   4 163,25
+    *   4 404,48
 
-    *   4 228,10
+    *   4 473,08
 
-    *   4 270,99
+    *   4 518,45
 
-    *   4 351,54
+    *   4 603,67
 
-    *   4 378,73
+    *   4 632,44
 
-    *   4 473,91
+    *   4 733,13
 
-    *   4 486,47
+    *   4 746,41
 
-    *   4 594,21
+    *   4 860,40
 
 
 *    *   A 14
 
-    *   3 674,75
+    *   3 887,67
 
-    *   3 882,91
+    *   4 107,89
 
-    *   3 903,82
+    *   4 130,01
 
-    *   4 091,07
+    *   4 328,11
 
-    *   4 133,96
+    *   4 373,48
 
-    *   4 300,28
+    *   4 549,45
 
-    *   4 363,04
+    *   4 615,83
 
-    *   4 440,46
+    *   4 697,74
 
-    *   4 520,98
+    *   4 782,92
 
-    *   4 578,53
+    *   4 843,82
 
-    *   4 679,99
+    *   4 951,15
 
-    *   4 718,69
+    *   4 992,09
 
-    *   4 837,94
+    *   5 118,25
 
-    *   4 857,82
+    *   5 139,29
 
-    *   4 996,94
+    *   5 286,47
 
 
 *    *   A 15
 
-    *   4 491,70
+    *   4 751,96
 
-    *   4 493,80
+    *   4 754,18
 
-    *   4 698,82
+    *   4 971,08
 
-    *   4 723,92
+    *   4 997,63
 
-    *   4 856,77
+    *   5 138,17
 
-    *   4 906,98
+    *   5 191,30
 
-    *   5 014,72
+    *   5 305,28
 
-    *   5 090,04
+    *   5 384,96
 
-    *   5 172,68
+    *   5 472,39
 
-    *   5 274,14
+    *   5 579,73
 
-    *   5 329,58
+    *   5 638,39
 
-    *   5 459,29
+    *   5 775,61
 
-    *   5 486,49
+    *   5 804,38
 
-    *   5 490,67
+    *   5 808,80
 
-    *   5 642,34
+    *   5 969,26
 
 
 *    *   A 16
 
-    *   4 955,09
+    *   5 242,19
 
-    *   4 957,19
+    *   5 244,42
 
-    *   5 195,69
+    *   5 496,74
 
-    *   5 222,89
+    *   5 525,51
 
-    *   5 377,70
+    *   5 689,28
 
-    *   5 435,23
+    *   5 750,15
 
-    *   5 559,71
+    *   5 881,85
 
-    *   5 647,58
+    *   5 974,81
 
-    *   5 740,68
+    *   6 073,30
 
-    *   5 860,97
+    *   6 200,55
 
-    *   5 923,75
+    *   6 266,97
 
-    *   6 073,31
+    *   6 425,20
 
-    *   6 105,74
+    *   6 459,52
 
-    *   6 110,97
+    *   6 465,04
 
-    *   6 285,67
+    *   6 649,87
 
 
 
 Erhöhungsbeträge für die Besoldungsgruppen A 5, A 6, A 9 und A 10
 Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
-Beamte des mittleren Dienstes sowie für Unteroffiziere um 18,60 Euro;
+Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,67 Euro;
 es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
-gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
+gehobenen Dienstes sowie für Offiziere um 8,58 Euro.
 
 
 ## Anlage 2
 
-(Fundstelle: BGBl. I 2011, 2853)
+(Fundstelle: BGBl. I 2012, 1701)
 
-## Überleitungstabelle für die Besoldungsgruppen R 1 und R 2
+## **Überleitungstabelle für die Besoldungsgruppen R 1 und R 2**
 
 
 *    *   Besoldungs-
@@ -925,66 +915,66 @@ gehobenen Dienstes sowie für Offiziere um 8,11 Euro.
 
 *    *   R 1
 
-    *   3 573,27
+    *   3 780,31
 
-    *   3 819,10
+    *   4 040,38
 
-    *   3 917,43
+    *   4 144,41
 
-    *   4 037,72
+    *   4 271,66
 
-    *   4 262,62
+    *   4 509,60
 
-    *   4 474,98
+    *   4 734,26
 
-    *   4 568,07
+    *   4 832,76
 
-    *   4 694,64
+    *   4 966,64
 
-    *   4 872,47
+    *   5 154,78
 
-    *   4 913,26
+    *   5 197,94
 
-    *   5 177,91
+    *   5 477,93
 
-    *   5 350,50
+    *   5 660,51
 
-    *   5 481,26
+    *   5 798,85
 
-    *   5 570,16
+    *   5 892,91
 
-    *   5 788,79
+    *   6 124,20
 
 
 *    *   R 2
 
-    *   4 342,11
+    *   4 593,69
 
     *
-    *   4 564,93
+    *   4 829,43
 
     *
-    *   4 786,69
+    *   5 064,04
 
-    *   4 999,04
+    *   5 288,69
 
-    *   5 090,04
+    *   5 384,96
 
-    *   5 218,70
+    *   5 521,08
 
-    *   5 395,48
+    *   5 708,09
 
-    *   5 437,33
+    *   5 752,37
 
-    *   5 699,88
+    *   6 030,14
 
-    *   5 874,57
+    *   6 214,95
 
-    *   6 005,32
+    *   6 353,28
 
-    *   6 093,19
+    *   6 446,24
 
-    *   6 310,78
+    *   6 676,44
 
 
 

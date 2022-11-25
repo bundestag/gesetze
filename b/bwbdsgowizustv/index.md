@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1711
 
+Geändert durch
+:   Art. 1 V v. 9.3.2015 I 299
+
 
 ## Eingangsformel
 
@@ -30,9 +33,10 @@ der Verteidigung:
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 43 des Bundesdatenschutzgesetzes wird für
-den Bereich der Bundeswehr auf das Bundesamt für Wehrverwaltung
-übertragen. Für das Bundesministerium der Verteidigung bleibt das
-Ministerium selbst zuständig.
+den Bereich der Bundeswehr auf das Bundesamt für Infrastruktur,
+Umweltschutz und Dienstleistungen der Bundeswehr übertragen. Für das
+Bundesministerium der Verteidigung bleibt das Ministerium selbst
+zuständig.
 
 
 ## § 2 Inkrafttreten

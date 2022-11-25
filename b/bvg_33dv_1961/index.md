@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 38 G v. 20.12.2011 I 2854
 
+V aufgeh. durch
+:   Art. 58 Nr. 3 G v. 12.12.2019 I 2652 mWv 1.1.2024
+
 
 ## Erster Abschnitt - Schwerbeschädigte
 

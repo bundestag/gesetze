@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2978, 2979
 
 Zuletzt geändert durch
-:   Art. 4 G v. 21.7.2012 I 1566
+:   Art. 8 G v. 23.6.2021 I 1982
 
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
@@ -27,7 +27,7 @@ Zuletzt geändert durch
 
 (1) Die Bundespolizei wird in bundeseigener Verwaltung geführt. Sie
 ist eine Polizei des Bundes im Geschäftsbereich des Bundesministeriums
-des Innern.
+des Innern, für Bau und Heimat.
 
 (2) Der Bundespolizei obliegen die Aufgaben, die ihr entweder durch
 dieses Gesetz übertragen werden oder ihr bis zum 1. November 1994
@@ -95,20 +95,20 @@ eigenen Kräften wahrnimmt.
 
 
 
-Das Bundesministerium des Innern wird ermächtigt, zur Sicherung des
-Grenzraumes das in Satz 1 Nr. 3 bezeichnete Gebiet von der seewärtigen
-Begrenzung an durch Rechtsverordnung mit Zustimmung des Bundesrates
-auszudehnen, soweit die Grenzüberwachung im deutschen Küstengebiet
-dies erfordert. In der Rechtsverordnung ist der Verlauf der
-rückwärtigen Begrenzungslinie des erweiterten Grenzgebietes genau zu
-bezeichnen. Von der seewärtigen Begrenzung an darf diese Linie eine
-Tiefe von 80 Kilometern nicht überschreiten.
+Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
+zur Sicherung des Grenzraumes das in Satz 1 Nr. 3 bezeichnete Gebiet
+von der seewärtigen Begrenzung an durch Rechtsverordnung mit
+Zustimmung des Bundesrates auszudehnen, soweit die Grenzüberwachung im
+deutschen Küstengebiet dies erfordert. In der Rechtsverordnung ist der
+Verlauf der rückwärtigen Begrenzungslinie des erweiterten
+Grenzgebietes genau zu bezeichnen. Von der seewärtigen Begrenzung an
+darf diese Linie eine Tiefe von 80 Kilometern nicht überschreiten.
 
 (3) Das Einvernehmen nach Absatz 1 ist in einer schriftlichen
-Vereinbarung zwischen dem Bundesministerium des Innern und dem
-beteiligten Land herzustellen, die im Bundesanzeiger bekanntzugeben
-ist. In der Vereinbarung ist die Zusammenarbeit zwischen der
-Bundespolizei und der Polizei des Landes zu regeln.
+Vereinbarung zwischen dem Bundesministerium des Innern, für Bau und
+Heimat und dem beteiligten Land herzustellen, die im Bundesanzeiger
+bekanntzugeben ist. In der Vereinbarung ist die Zusammenarbeit
+zwischen der Bundespolizei und der Polizei des Landes zu regeln.
 
 (4) Nimmt die Polizei eines Landes Aufgaben nach Absatz 1 im
 Einvernehmen mit dem Bund mit eigenen Kräften wahr, richtet sich die
@@ -133,27 +133,32 @@ oder Ordnung abzuwehren, die
 (2) Die durch die Erfüllung der Aufgaben nach Absatz 1 begünstigten
 Verkehrsunternehmen sind verpflichtet, der Bundespolizei für die
 erlangten Vorteile einen angemessenen Ausgleich zu leisten. Das
-Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung
-im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung für den zu leistenden Ausgleich einen Prozentsatz
-festzusetzen, der 50 Prozent des Gesamtaufwandes der Bundespolizei für
-die Erfüllung der Aufgaben nach Absatz 1 nicht überschreiten darf.
-Dabei sind insbesondere die erlangten Vorteile und die wirtschaftliche
-Leistungsfähigkeit des Verkehrsunternehmens zu berücksichtigen. Sind
-mehrere Verkehrsunternehmen begünstigt, ist für jedes Unternehmen nach
-Maßgabe des Satzes 3 gesondert ein Prozentsatz festzusetzen, die Summe
-dieser Prozentsätze darf 50 Prozent des Gesamtaufwandes nicht
-überschreiten. Die Ausgleichsbeträge werden durch die in der
-Rechtsverordnung nach § 58 Abs. 1 bestimmte Bundespolizeibehörde
-erhoben.
+Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
+durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für
+Verkehr und digitale Infrastruktur für den zu leistenden Ausgleich
+einen Prozentsatz festzusetzen, der 50 Prozent des Gesamtaufwandes der
+Bundespolizei für die Erfüllung der Aufgaben nach Absatz 1 nicht
+überschreiten darf. Dabei sind insbesondere die erlangten Vorteile und
+die wirtschaftliche Leistungsfähigkeit des Verkehrsunternehmens zu
+berücksichtigen. Sind mehrere Verkehrsunternehmen begünstigt, ist für
+jedes Unternehmen nach Maßgabe des Satzes 3 gesondert ein Prozentsatz
+festzusetzen, die Summe dieser Prozentsätze darf 50 Prozent des
+Gesamtaufwandes nicht überschreiten. Die Ausgleichsbeträge werden
+durch die in der Rechtsverordnung nach § 58 Abs. 1 bestimmte
+Bundespolizeibehörde erhoben.
 
 
 ### § 4 Luftsicherheit
 
 Der Bundespolizei obliegt der Schutz vor Angriffen auf die Sicherheit
-des Luftverkehrs gemäß § 5 des Luftsicherheitsgesetzes, soweit diese
-Aufgaben nach § 16 Abs. 3 Satz 2 und 3 des Luftsicherheitsgesetzes in
-bundeseigener Verwaltung ausgeführt werden.
+des Luftverkehrs nach den §§ 3, 5, 9 Absatz 1a und § 10a Absatz 2 des
+Luftsicherheitsgesetzes, soweit diese Aufgaben nach § 16 Absatz 3a und
+3b des Luftsicherheitsgesetzes in bundeseigener Verwaltung ausgeführt
+werden. In den Fällen des § 16 Absatz 3b des Luftsicherheitsgesetzes
+gilt dies nur, soweit ihr die Aufgaben durch das Bundesministerium für
+Verkehr und digitale Infrastruktur im Einvernehmen mit dem
+Bundesministerium des Innern, für Bau und Heimat übertragen worden
+sind.
 
 
 ### § 4a Sicherheitsmaßnahmen an Bord von Luftfahrzeugen
@@ -172,11 +177,11 @@ Luftfahrzeugführer zu treffen.
 (1) Die Bundespolizei kann Verfassungsorgane des Bundes und
 Bundesministerien gegen Gefahren, die die Durchführung ihrer Aufgaben
 beeinträchtigen, schützen, wenn diese darum ersuchen und Einvernehmen
-zwischen dem Bundesministerium des Innern und dem beteiligten Land
-besteht, daß deren angemessener Schutz anderweitig nicht gewährleistet
-werden kann. Über die Übernahme des Schutzes durch die Bundespolizei
-entscheidet das Bundesministerium des Innern. Die Übernahme ist im
-Bundesanzeiger bekanntzugeben.
+zwischen dem Bundesministerium des Innern, für Bau und Heimat und dem
+beteiligten Land besteht, daß deren angemessener Schutz anderweitig
+nicht gewährleistet werden kann. Über die Übernahme des Schutzes durch
+die Bundespolizei entscheidet das Bundesministerium des Innern, für
+Bau und Heimat. Die Übernahme ist im Bundesanzeiger bekanntzugeben.
 
 (2) Der Schutz durch die Bundespolizei beschränkt sich auf die
 Grundstücke, auf denen die Verfassungsorgane oder die
@@ -240,7 +245,8 @@ verwendet werden. Die Verwendung ist nur für humanitäre Zwecke oder
 zur Wahrnehmung dringender Interessen der Bundesrepublik Deutschland
 und im Einvernehmen mit dem Staat, auf dessen Hoheitsgebiet die
 Maßnahme stattfinden soll, zulässig. Die Entscheidung trifft der
-Bundesminister des Innern im Einvernehmen mit dem Auswärtigen Amt.
+Bundesminister des Innern, für Bau und Heimat im Einvernehmen mit dem
+Auswärtigen Amt.
 
 (3) Die Wahrnehmung der in den Absätzen 1 und 2 bezeichneten Aufgaben
 durch die Bundespolizei richtet sich nach den dafür geltenden
@@ -269,13 +275,13 @@ Die Unterstützung durch die Bundespolizei richtet sich nach dem für
 die unterstützte Stelle maßgebenden Recht.
 
 (2) Die Entscheidung über die Unterstützung nach Absatz 1 trifft das
-Bundesministerium des Innern. Die Polizeivollzugsbeamten der
-Bundespolizei unterliegen bei Wahrnehmung dieser
-Unterstützungsaufgaben den fachlichen Weisungen der unterstützten
-Stelle. Übernimmt die Bundespolizei im Rahmen des Absatzes 1 Nr. 3
-Aufgaben zur eigenständigen Wahrnehmung, richtet das Bundeskriminalamt
-seine fachlichen Weisungen an die von der Bundespolizei hierfür
-benannte Stelle.
+Bundesministerium des Innern, für Bau und Heimat. Die
+Polizeivollzugsbeamten der Bundespolizei unterliegen bei Wahrnehmung
+dieser Unterstützungsaufgaben den fachlichen Weisungen der
+unterstützten Stelle. Übernimmt die Bundespolizei im Rahmen des
+Absatzes 1 Nr. 3 Aufgaben zur eigenständigen Wahrnehmung, richtet das
+Bundeskriminalamt seine fachlichen Weisungen an die von der
+Bundespolizei hierfür benannte Stelle.
 
 (3) Die Verpflichtung zur Amtshilfe bleibt unberührt.
 
@@ -317,12 +323,13 @@ personenbezogenen Daten nur für den dort bezeichneten Zweck verwenden.
 Die Daten dürfen bei der Bundespolizei nur solange aufbewahrt werden,
 wie dies zur Aufgabenwahrnehmung nach Absatz 1 erforderlich ist.
 
-(3) Das Bundesministerium des Innern regelt die Einzelheiten der
-Aufgabenwahrnehmung nach Absatz 1, insbesondere Art und Umfang der
-Aufgaben sowie die erforderliche technische und organisatorische
-Abgrenzung zu den sonstigen Aufgabenbereichen der Bundespolizei, in
-einer Dienstanweisung und unterrichtet hierüber sowie über
-erforderliche Änderungen das Parlamentarische Kontrollgremium.
+(3) Das Bundesministerium des Innern, für Bau und Heimat regelt die
+Einzelheiten der Aufgabenwahrnehmung nach Absatz 1, insbesondere Art
+und Umfang der Aufgaben sowie die erforderliche technische und
+organisatorische Abgrenzung zu den sonstigen Aufgabenbereichen der
+Bundespolizei, in einer Dienstanweisung und unterrichtet hierüber
+sowie über erforderliche Änderungen das Parlamentarische
+Kontrollgremium.
 
 
 ### § 11 Verwendung zur Unterstützung eines Landes
@@ -356,10 +363,11 @@ dabei den fachlichen Weisungen des Landes.
 
 (3) Die Entscheidung über eine Verwendung der Bundespolizei nach
 Absatz 1 trifft im Fall des Artikels 35 Abs. 3 des Grundgesetzes die
-Bundesregierung, im übrigen das Bundesministerium des Innern auf
-Anforderung des Landes. Das Bundesministerium des Innern kann seine
-Entscheidungsbefugnis in bestimmten Fällen durch Verwaltungsvorschrift
-auf eine Bundespolizeibehörde übertragen.
+Bundesregierung, im übrigen das Bundesministerium des Innern, für Bau
+und Heimat auf Anforderung des Landes. Das Bundesministerium des
+Innern, für Bau und Heimat kann seine Entscheidungsbefugnis in
+bestimmten Fällen durch Verwaltungsvorschrift auf eine
+Bundespolizeibehörde übertragen.
 
 (4) Einer Anforderung der Bundespolizei ist zu entsprechen, soweit
 nicht eine Verwendung der Bundespolizei für Bundesaufgaben dringender
@@ -384,9 +392,8 @@ besteht, das
 
 
 2.  nach den Vorschriften des Paßgesetzes, des Aufenthaltsgesetzes oder
-    des Asylverfahrensgesetzes zu verfolgen ist, soweit es durch den
-    Grenzübertritt oder in unmittelbarem Zusammenhang mit diesem begangen
-    wurde,
+    des Asylgesetzes zu verfolgen ist, soweit es durch den Grenzübertritt
+    oder in unmittelbarem Zusammenhang mit diesem begangen wurde,
 
 
 3.  einen Grenzübertritt mittels Täuschung, Drohung, Gewalt oder auf sonst
@@ -414,12 +421,12 @@ besteht, das
 
 darüber hinaus, soweit der Verdacht eines Verbrechens nach Nummer 2
 oder nach § 315 Abs. 3 Nr. 1 des Strafgesetzbuches besteht sowie in
-Fällen der Nummer 6. Das Bundesministerium des Innern bestimmt das
-Nähere über die unter Satz 1 fallenden Straftaten durch
-Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz
-und mit Zustimmung des Bundesrates. Soweit Satz 1 Nr. 4 betroffen ist,
-ist auch das Einvernehmen mit dem Bundesministerium der Finanzen
-herzustellen.
+Fällen der Nummer 6. Das Bundesministerium des Innern, für Bau und
+Heimat bestimmt das Nähere über die unter Satz 1 fallenden Straftaten
+durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
+Justiz und für Verbraucherschutz und mit Zustimmung des Bundesrates.
+Soweit Satz 1 Nr. 4 betroffen ist, ist auch das Einvernehmen mit dem
+Bundesministerium der Finanzen herzustellen.
 
 (2) Die Bundespolizei ist vorbehaltlich besonderer gesetzlicher
 Zuständigkeitsregelungen für die polizeilichen Aufgaben auf dem Gebiet
@@ -578,17 +585,11 @@ Sache aufgegeben hat.
 
 #### § 19 Unmittelbare Ausführung einer Maßnahme
 
-(1) Die Bundespolizei kann eine Maßnahme selbst oder durch einen
+Die Bundespolizei kann eine Maßnahme selbst oder durch einen
 Beauftragten unmittelbar ausführen, wenn der Zweck der Maßnahme durch
 Inanspruchnahme der nach § 17 oder § 18 Verantwortlichen nicht oder
 nicht rechtzeitig erreicht werden kann. Der von der Maßnahme
 Betroffene ist unverzüglich zu unterrichten.
-
-(2) Entstehen der Bundespolizei durch die unmittelbare Ausführung
-einer Maßnahme Kosten, so sind die nach § 17 oder § 18
-Verantwortlichen zum Ersatz verpflichtet. Mehrere Verantwortliche
-haften als Gesamtschuldner. Die Kosten können im
-Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 
 #### § 20 Inanspruchnahme nicht verantwortlicher Personen
@@ -710,6 +711,149 @@ für den dort bezeichneten Zweck verwendet werden.
 
 (4) § 136a der Strafprozeßordnung gilt entsprechend. § 12 des
 Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
+
+
+##### § 22a Bestandsdatenauskunft
+
+(1) Die Bundespolizei darf Auskunft verlangen
+
+1.  über Bestandsdaten gemäß § 3 Nummer 6 des Telekommunikationsgesetzes
+    und über die nach § 172 des Telekommunikationsgesetzes erhobenen Daten
+    (§ 174 Absatz 1 Satz 1 des Telekommunikationsgesetzes) von demjenigen,
+    der geschäftsmäßig Telekommunikationsdienste erbringt oder daran
+    mitwirkt, und
+
+
+2.  über Bestandsdaten gemäß § 2 Absatz 2 Nummer 2 des Telekommunikation-
+    Telemedien-Datenschutz-Gesetzes (§ 22 Absatz 1 Satz 1 und § 23 Absatz
+    1 Satz 1 des Telekommunikation-Telemedien-Datenschutz-Gesetzes) von
+    demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur
+    Nutzung bereithält oder den Zugang zur Nutzung vermittelt.
+
+
+
+Die Auskunft nach Satz 1 darf nur verlangt werden, soweit die zu
+erhebenden Daten im Einzelfall erforderlich sind
+
+1.  zur Abwehr einer Gefahr für die öffentliche Sicherheit oder
+
+
+2.  zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung
+    der Person, dem Bestand und der Sicherheit des Bundes oder eines
+    Landes, der freiheitlich demokratischen Grundordnung, Gütern der
+    Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der
+    Menschen berührt sowie nicht unerheblichen Sachwerten, wenn Tatsachen
+    den Schluss auf ein wenigstens seiner Art nach konkretisiertes und
+    zeitlich absehbares Geschehen zulassen, an dem bestimmte Personen
+    beteiligt sein werden, oder
+
+
+3.  zum Schutz von Leib, Leben, Freiheit sowie sexueller Selbstbestimmung
+    der Person, dem Bestand und der Sicherheit des Bundes oder eines
+    Landes, der freiheitlich demokratischen Grundordnung sowie Gütern der
+    Allgemeinheit, deren Bedrohung die Grundlagen der Existenz der
+    Menschen berührt, wenn das individuelle Verhalten einer Person die
+    konkrete Wahrscheinlichkeit begründet, dass sie eine Straftat gegen
+    ein solches Rechtsgut in einem übersehbaren Zeitraum begehen wird.
+
+
+
+
+(2) Bezieht sich das Auskunftsverlangen nach Absatz 1 auf Daten nach §
+174 Absatz 1 Satz 2 des Telekommunikationsgesetzes, mittels derer der
+Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen
+Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt
+wird, darf die Auskunft nur verlangt werden, wenn im Einzelfall die
+gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
+Bezieht sich das Auskunftsverlangen nach Absatz 1 auf nach als
+Bestandsdaten erhobene Passwörter oder auf andere Daten, mittels derer
+der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in
+diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden,
+geschützt wird (§ 23 Absatz 1 Satz 1 des Telekommunikation-Telemedien-
+Datenschutz-Gesetzes), darf die Auskunft nur verlangt werden zur
+Abwehr einer konkreten Gefahr für Leib, Leben, Freiheit oder die
+sexuelle Selbstbestimmung einer Person oder für den Bestand des Bundes
+oder eines Landes sowie Güter der Allgemeinheit, deren Bedrohung die
+Grundlagen der Existenz der Menschen berührt, und wenn die
+gesetzlichen Voraussetzungen für die Nutzung der Daten vorliegen.
+Auskunftsverlangen nach den Sätzen 1 und 2 dürfen nur auf Antrag des
+Präsidenten des Bundespolizeipräsidiums, seines Vertreters oder des
+Leiters einer Abteilung des Bundespolizeipräsidiums durch das Gericht
+angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch die
+Präsidentin oder den Präsidenten des Bundespolizeipräsidiums oder ihre
+oder seine Vertretung getroffen werden. In diesem Fall ist die
+gerichtliche Entscheidung unverzüglich nachzuholen. In den Fällen des
+Satzes 1 ist Satz 3 nicht anzuwenden, wenn
+
+1.  die betroffene Person vom Auskunftsverlangen bereits Kenntnis hat oder
+    haben muss oder
+
+
+2.  die Verarbeitung der Daten bereits durch eine gerichtliche
+    Entscheidung gestattet wird.
+
+
+
+Das Vorliegen der Voraussetzungen nach Satz 4 ist aktenkundig zu
+machen. Zuständig ist das Amtsgericht, in dessen Bezirk das
+Bundespolizeipräsidium seinen Sitz hat. Für das Verfahren gelten die
+Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
+Werden der Bundespolizei aufgrund eines Auskunftsersuchens nach Satz 2
+Passwörter oder andere Daten unverschlüsselt beauskunftet, so
+informiert die Bundespolizei hierüber die jeweils zuständige
+Datenschutzaufsichtsbehörde.
+
+(3) Die Auskunft nach den Absätzen 1 und 2 darf auch anhand einer zu
+einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse
+verlangt werden (§ 174 Absatz 1 Satz 3, § 177 Absatz 1 Nummer 3 des
+Telekommunikationsgesetzes und § 22 Absatz 1 Satz 3 und 4 des
+Telekommunikation-Telemedien-Datenschutz-Gesetzes) in den Fällen von
+
+1.  Absatz 1 Satz 2 Nummer 1 zum Schutz von Leib, Leben, Freiheit oder
+    sexueller Selbstbestimmung der Person, dem Bestand und der Sicherheit
+    des Bundes oder eines Landes, der freiheitlich demokratischen
+    Grundordnung, Gütern der Allgemeinheit, deren Bedrohung die Grundlagen
+    der Existenz der Menschen berührt, sowie nicht unerheblicher Sachwerte
+    oder zur Verhütung einer Straftat oder
+
+
+2.  Absatz 1 Satz 2 Nummer 2 und 3 zum Schutz von Leib, Leben, Freiheit
+    oder sexueller Selbstbestimmung der Person, dem Bestand und der
+    Sicherheit des Bundes oder eines Landes, der freiheitlich
+    demokratischen Grundordnung sowie Gütern der Allgemeinheit, deren
+    Bedrohung die Grundlagen der Existenz der Menschen berührt.
+
+
+
+Absatz 2 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und
+2 anhand einer zu einem bestimmten Zeitpunkt zugewiesenen
+Internetprotokoll-Adresse nach § 22 Absatz 1 Satz 3 und 4 des
+Telekommunikation-Telemedien-Datenschutz-Gesetzes darf darüber hinaus
+nur verlangt werden, wenn tatsächliche Anhaltspunkte dafür vorliegen,
+dass die betroffene Person Nutzer des Telemediendienstes ist, bei dem
+die Daten erhoben werden sollen. Die rechtlichen und tatsächlichen
+Grundlagen des Auskunftsverlangens sind aktenkundig zu machen.
+
+(4) Die betroffene Person ist in den Fällen der Absätze 2 und 3 über
+die Auskunftserteilung zu benachrichtigen. Die Benachrichtigung
+erfolgt, soweit und sobald hierdurch der Zweck der Auskunft nicht
+vereitelt wird. Die Benachrichtigung unterbleibt, wenn ihr
+überwiegende schutzwürdige Belange Dritter oder der betroffenen Person
+selbst entgegenstehen. Wird die Benachrichtigung nach Satz 2
+zurückgestellt oder nach Satz 3 von ihr abgesehen, sind die Gründe
+aktenkundig zu machen.
+
+(5) Der auf Grund eines Auskunftsverlangens Verpflichtete hat die zur
+Auskunftserteilung erforderlichen Daten unverzüglich und vollständig
+zu übermitteln.
+
+(6) Die Bundespolizei hat den Verpflichteten für ihr erteilte
+Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung
+bemisst sich nach § 23 und Anlage 3 des Justizvergütungs-und
+-entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2
+Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes
+finden entsprechend Anwendung.
 
 
 ##### § 23 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
@@ -914,7 +1058,7 @@ Anfertigung von Bild- und Tonaufzeichnungen von Teilnehmern erheben,
 wenn Tatsachen die Annahme rechtfertigen, daß bei oder im Zusammenhang
 mit einer solchen Veranstaltung oder Ansammlung erhebliche Gefahren
 für die öffentliche Sicherheit an der Grenze oder die Sicherheit der
-in § 23 Abs. 1 Nr. 2 bezeichneten Objekten entstehen. Die Erhebung
+in § 23 Abs. 1 Nr. 4 bezeichneten Objekten entstehen. Die Erhebung
 kann auch durchgeführt werden, wenn Dritte unvermeidbar betroffen
 werden.
 
@@ -979,6 +1123,132 @@ nicht zur Abwehr einer gegenwärtigen Gefahr oder zur Verfolgung einer
 Straftat oder Ordnungswidrigkeit benötigt werden.
 
 
+##### § 27a Mobile Bild- und Tonaufzeichnungsgeräte
+
+(1) Die Bundespolizei kann an öffentlich zugänglichen Orten
+personenbezogene Daten durch die offene Anfertigung von Bild- und
+Tonaufzeichnungen mittels körpernah getragener Bild- und
+Tonaufzeichnungsgeräte erheben, wenn tatsächliche Anhaltspunkte
+bestehen, dass dies erforderlich ist
+
+1.  zum Schutz von Beamtinnen und Beamten der Bundespolizei oder Dritten
+    gegen eine Gefahr für Leib, Leben, Freiheit oder Eigentum oder
+
+
+2.  zur Verfolgung von
+
+    a)  Straftaten oder
+
+
+    b)  Ordnungswidrigkeiten von auch im Einzelfall erheblicher Bedeutung.
+
+
+
+
+
+
+
+(2) Die Erhebung personenbezogener Daten kann auch dann erfolgen, wenn
+Dritte unvermeidbar betroffen sind. Auf Maßnahmen nach Absatz 1 ist in
+geeigneter Form hinzuweisen; bei Gefahr im Verzug kann der Hinweis
+unterbleiben.
+
+(3) Die Bild- und Tonaufzeichnungsgeräte dürfen im
+Bereitschaftsbetrieb in ihrem Zwischenspeicher kurzzeitig Daten
+erfassen. Diese Daten sind automatisch nach höchstens 30 Sekunden
+spurenlos zu löschen, es sei denn, es erfolgt eine Aufnahme nach
+Absatz 1. In diesem Fall dürfen die nach Satz 1 erfassten Daten bis zu
+einer Dauer von 30 Sekunden vor dem Beginn der Aufzeichnung nach
+Absatz 1 gespeichert werden.
+
+(4) Werden nach Absatz 1 personenbezogene Daten aufgezeichnet, sind
+die Bild- und Tonaufzeichnungen 30 Tage aufzubewahren. Im Anschluss
+sind die Aufzeichnungen unverzüglich zu vernichten, soweit sie nicht
+benötigt werden
+
+1.  für die Verfolgung von
+
+    a)  Straftaten oder
+
+
+    b)  Ordnungswidrigkeiten von auch im Einzelfall erheblicher Bedeutung,
+
+
+
+
+
+2.  im Einzelfall zur Gefahrenabwehr oder
+
+
+3.  im Einzelfall, insbesondere auf Verlangen des Betroffenen, für die
+    Überprüfung der Rechtmäßigkeit von aufgezeichneten polizeilichen
+    Maßnahmen.
+
+
+
+Aufzeichnungen, die aus den in Satz 2 Nummer 2 aufgeführten Gründen
+nicht vernichtet wurden, sind in jedem Fall spätestens nach Ablauf von
+sechs Monaten nach ihrer Entstehung zu vernichten, es sei denn, sie
+werden inzwischen für Zwecke des Satzes 2 Nummer 1 Buchstabe a oder
+Nummer 3 benötigt.
+
+
+##### § 27b Anlassbezogene automatische Kennzeichenerfassung
+
+(1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach § 2
+Absatz 2 im öffentlichen Verkehrsraum vorübergehend und nicht
+flächendeckend die Kennzeichen von Fahrzeugen ohne Wissen der Person
+durch den Einsatz technischer Mittel automatisch erheben, wenn
+
+1.  dies zur Abwehr einer gegenwärtigen Gefahr für Leib, Leben oder
+    Freiheit einer Person erforderlich ist,
+
+
+2.  dies auf Grund von tatsächlichen Anhaltspunkten für Straftaten von
+    erheblicher Bedeutung, die gegen die Sicherheit der Grenze gerichtet
+    sind, erfolgt oder
+
+
+3.  eine Person oder ein Fahrzeug durch die Bundespolizei oder eine andere
+    Behörde ausgeschrieben wurde und die Begehung einer Straftat von
+    erheblicher Bedeutung durch diese Person oder mittels des
+    ausgeschriebenen Fahrzeugs unmittelbar bevorsteht oder andauert.
+
+
+
+
+(2) Die nach Absatz 1 erhobenen Daten können mit dem Fahndungsbestand
+nach § 34 Absatz 1 Satz 2 automatisch abgeglichen werden.
+
+(3) Im Trefferfall ist unverzüglich die Übereinstimmung zwischen den
+erfassten Daten und den Daten aus dem Fahndungsbestand zu überprüfen.
+Die übereinstimmenden Daten können verarbeitet und zusammen mit den
+gewonnenen Erkenntnissen an die ausschreibende Stelle übermittelt
+werden.
+
+(4) Liegt kein Treffer vor, sind die Daten sofort und spurenlos zu
+löschen.
+
+(5) Sofern der Abgleich der erhobenen Daten mit dem Fahndungsbestand
+nach § 34 Absatz 1 Satz 2 zwar einen Treffer ergibt, die Ausschreibung
+im Fahndungsbestand jedoch nicht im Zusammenhang mit der Verfolgung
+der Zwecke des Absatzes 1 Nummer 1 bis 3 steht, sind die Daten sofort
+und spurenlos zu löschen, es sei denn, sie werden benötigt, um die
+Begehung einer Straftat von erheblicher Bedeutung zu verfolgen.
+
+
+##### § 27c Gesprächsaufzeichnung
+
+(1) Die Bundespolizei kann bei Einsatzleitstellen eingehende
+Telefonanrufe aufzeichnen, soweit dies zur Erfüllung ihrer Aufgaben
+notwendig ist.
+
+(2) Die Aufzeichnungen sind sofort und spurenlos zu löschen, sobald
+sie nicht mehr zur Aufgabenerfüllung erforderlich sind, spätestens
+jedoch nach 30 Tagen, es sei denn, sie werden im Einzelfall zur
+Verfolgung von Straftaten oder zur Gefahrenabwehr weiter benötigt.
+
+
 ##### § 28 Besondere Mittel der Datenerhebung
 
 (1) Die Bundespolizei kann unter Beachtung des § 70 Satz 2
@@ -1019,15 +1289,19 @@ werden.
     a)  zur Anfertigung von Bildaufnahmen oder -aufzeichnungen,
 
 
-    b)  zum Abhören oder Aufzeichnen des nicht öffentlich gesprochenen Wortes
-        und
+    b)  zum Abhören oder Aufzeichnen des nicht öffentlich gesprochenen Wortes,
 
 
 
 
 
 3.  der Einsatz von Personen, die nicht der Bundespolizei angehören und
-    deren Zusammenarbeit mit der Bundespolizei Dritten nicht bekannt ist.
+    deren Zusammenarbeit mit der Bundespolizei Dritten nicht bekannt ist
+    und
+
+
+4.  der Einsatz von Polizeivollzugsbeamten unter einer ihnen auf Dauer
+    angelegten Legende (Verdeckter Ermittler).
 
 
 
@@ -1046,6 +1320,22 @@ gelten die Vorschriften des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechend.
 
+(3a) Maßnahmen nach Absatz 2 Nummer 4, die sich gegen eine bestimmte
+Person richten oder bei denen der Verdeckte Ermittler eine Wohnung
+betritt, die nicht allgemein zugänglich ist, dürfen nur durch das
+Gericht angeordnet werden. Bei Gefahr im Verzug dürfen Maßnahmen nach
+Satz 1 durch den Präsidenten des Bundespolizeipräsidiums, seinen
+Vertreter oder durch den Leiter einer Abteilung des
+Bundespolizeipräsidiums angeordnet werden. In diesem Fall ist die
+gerichtliche Entscheidung unverzüglich nachzuholen. Soweit die
+Anordnung nicht binnen drei Tagen durch das Gericht bestätigt wird,
+tritt sie außer Kraft. Die Anordnung ist unter Angabe der maßgeblichen
+Gründe aktenkundig zu machen und auf höchstens drei Monate zu
+befristen. Die Verlängerung einer Maßnahme um jeweils einen Monat ist
+bei erneuter Anordnung durch ein Gericht möglich. Zuständig ist das
+Amtsgericht, in dessen Bezirk das Bundespolizeipräsidium seinen Sitz
+hat. Absatz 3 Satz 6 gilt entsprechend.
+
 (4) Unterlagen, die durch Maßnahmen der in Absatz 2 genannten Art
 erlangt worden sind, sind unverzüglich zu vernichten, soweit sie für
 den der Anordnung zugrunde liegenden Zweck oder nach Maßgabe der
@@ -1061,6 +1351,125 @@ auslösenden Sachverhalts ein strafrechtliches Ermittlungsverfahren
 gegen den Betroffenen durchgeführt wird und durch die Unterrichtung
 der Untersuchungszweck gefährdet würde; die Entscheidung trifft die
 Staatsanwaltschaft.
+
+(6) Verdeckte Ermittler dürfen unter einer Legende
+
+1.  zur Erfüllung ihres Auftrages am Rechtsverkehr teilnehmen und
+
+
+2.  mit Einverständnis des Berechtigten dessen Wohnung betreten; das
+    Einverständnis darf nicht durch ein über die Nutzung der Legende
+    hinausgehendes Vortäuschen eines Zutrittsrechts herbeigeführt werden.
+
+
+
+Soweit es für den Aufbau und die Aufrechterhaltung der Legende von
+Verdeckten Ermittlern unerlässlich ist, dürfen entsprechende Urkunden
+hergestellt, verändert oder gebraucht werden.
+
+(7) Über eine Maßnahme nach Absatz 2 Nummer 4 sind zu benachrichtigen
+
+1.  die Zielperson,
+
+
+2.  die erheblich mitbetroffenen Personen sowie
+
+
+3.  die Personen, deren nicht allgemein zugängliche Wohnung der Verdeckte
+    Ermittler betreten hat.
+
+
+
+Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige
+Belange einer betroffenen Person entgegenstehen. Nachforschungen zur
+Feststellung der Identität einer in Satz 1 bezeichneten Person sind
+nur vorzunehmen, wenn dies unter Berücksichtigung der
+Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands
+für die Feststellung ihrer Identität sowie der daraus für diese oder
+andere Personen folgenden Beeinträchtigungen geboten ist.
+
+(8) Die Benachrichtigung über eine Maßnahme nach Absatz 2 Nummer 4
+erfolgt, sobald dies möglich ist ohne Gefährdung
+
+1.  des Zwecks der Maßnahme,
+
+
+2.  des Bestandes des Staates,
+
+
+3.  von Leib, Leben oder Freiheit einer Person,
+
+
+4.  von Sachen von bedeutendem Wert, deren Erhaltung im öffentlichen
+    Interesse geboten ist, oder
+
+
+5.  der Möglichkeit der weiteren Verwendung des Verdeckten Ermittlers.
+
+
+
+Wird wegen des zugrunde liegenden Sachverhaltes ein strafrechtliches
+Ermittlungsverfahren geführt, erfolgt die Benachrichtigung durch die
+Strafverfolgungsbehörde entsprechend den Vorschriften des
+Strafverfahrensrechts. Wird die Benachrichtigung aus einem der
+vorgenannten Gründe zurückgestellt, ist dies aktenkundig zu machen.
+
+(9) Erfolgt die nach Absatz 8 zurückgestellte Benachrichtigung nicht
+binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere
+Zurückstellung der gerichtlichen Zustimmung. Das Gericht bestimmt die
+Dauer der weiteren Zurückstellung, jedoch nicht länger als zwölf
+Monate. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf
+Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung
+endgültig von der Benachrichtigung abgesehen werden, wenn die
+Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender
+Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
+
+
+##### § 28a Einsatz technischer Mittel zur Eigensicherung
+
+(1) Werden Verdeckte Ermittler im Rahmen der Gefahrenabwehr nach § 28
+Absatz 2 Nummer 4 oder aus Gründen der Strafverfolgung tätig, dürfen,
+soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder
+Freiheit unerlässlich ist, ohne Wissen der Betroffenen im Beisein oder
+in unmittelbarem zeitlichen Zusammenhang mit dem Einsatz des
+Verdeckten Ermittlers das innerhalb oder außerhalb einer Wohnung nicht
+öffentlich gesprochene Wort mit technischen Mitteln abgehört,
+aufgezeichnet und Lichtbilder sowie Bildaufzeichnungen hergestellt
+werden.
+
+(2) Ist der Kernbereich privater Lebensgestaltung betroffen, ist die
+Maßnahme unverzüglich zu unterbrechen, sobald dies ohne Gefährdung des
+Verdeckten Ermittlers möglich ist. Bereits erfasste Daten, die den
+Kernbereich privater Lebensgestaltung betreffen, sind unverzüglich zu
+löschen. Erkenntnisse über solche Vorgänge dürfen nicht verwertet
+werden. Die Tatsache der Erfassung der Daten und ihrer Löschung ist
+aktenkundig zu machen. Diese Daten dürfen ausschließlich zu Zwecken
+der Datenschutzkontrolle verwendet werden. Sie sind zu löschen, wenn
+sie für diese Zwecke nicht mehr erforderlich sind, spätestens jedoch
+am Ende des zweiten Kalenderjahres, das dem Jahr der Dokumentierung
+folgt.
+
+(3) Maßnahmen nach Absatz 1 dürfen nur durch den Präsidenten des
+Bundespolizeipräsidiums, seinen Vertreter oder durch den Leiter einer
+Abteilung des Bundespolizeipräsidiums angeordnet werden. Bei Gefahr im
+Verzug dürfen Maßnahmen auch durch Beamte des höheren Dienstes des
+Bundespolizeipräsidiums angeordnet werden.
+
+(4) Die Zulässigkeit der Verwendung von personenbezogenen Daten, die
+durch den Einsatz technischer Mittel zur Eigensicherung erlangt
+werden, richtet sich für Zwecke der Strafverfolgung nach der
+Strafprozessordnung. Im Übrigen dürfen diese Daten außer für die in
+Absatz 1 genannten Zwecke nur zur Gefahrenabwehr verwendet werden.
+Wurden diese Daten in oder aus einer Wohnung erlangt, so ist die
+Verwendung zur Gefahrenabwehr nur zulässig nach Feststellung der
+Rechtmäßigkeit der Maßnahme durch das Amtsgericht, in dessen Bezirk
+das Bundespolizeipräsidium seinen Sitz hat; bei Gefahr im Verzug ist
+die gerichtliche Entscheidung unverzüglich nachzuholen.
+
+(5) Nach Abschluss der Maßnahme sind die nach Absatz 1 hergestellten
+Aufzeichnungen unverzüglich zu löschen, es sei denn, sie werden für
+die in Absatz 4 genannten Zwecke noch benötigt. § 28 Absatz 7 bis 9
+gilt entsprechend.
 
 
 #### Teil 2 - Datenverarbeitung und Datennutzung
@@ -1170,9 +1579,10 @@ benutzten oder eingesetzten Kraftfahrzeuges und, soweit gesetzlich
 nichts anderes bestimmt ist, die Seriennummer des von ihr verwendeten
 Ausweisdokuments oder Sichtvermerks ausschreiben und hierfür in einer
 für die Grenzfahndung geführten Datei speichern (Ausschreibung zur
-Grenzfahndung). Das Bundesministerium des Innern bestimmt das Nähere
-über die Art der Daten, die nach Satz 1 bei der Ausschreibung zur
-Grenzfahndung gespeichert werden dürfen, durch Rechtsverordnung.
+Grenzfahndung). Das Bundesministerium des Innern, für Bau und Heimat
+bestimmt das Nähere über die Art der Daten, die nach Satz 1 bei der
+Ausschreibung zur Grenzfahndung gespeichert werden dürfen, durch
+Rechtsverordnung.
 
 (2) Die Ausschreibung zur Grenzfahndung ist zulässig zum Zwecke
 
@@ -1225,11 +1635,11 @@ werden.
 (5) Die Bundespolizei kann ferner personenbezogene Daten der in Absatz
 1 bezeichneten Art im automatisierten Verfahren in den
 Fahndungsbestand des polizeilichen Informationssystems zum Zwecke der
-Ingewahrsamnahme, Aufenthaltsermittlung oder Überprüfung der Person
-eingeben, wenn sie nach den Vorschriften dieses Gesetzes befugt ist,
-die mit der Ausschreibung bezweckte Maßnahme selbst vorzunehmen oder
-durch eine zum Abruf der Daten im automatisierten Verfahren
-berechtigte Stelle vornehmen zu lassen.
+Einreiseverweigerung, Ingewahrsamnahme, Aufenthaltsermittlung oder
+Überprüfung der Person eingeben, wenn sie nach den Vorschriften dieses
+Gesetzes befugt ist, die mit der Ausschreibung bezweckte Maßnahme
+selbst vorzunehmen oder durch eine zum Abruf der Daten im
+automatisierten Verfahren berechtigte Stelle vornehmen zu lassen.
 
 
 ##### § 31 Ausschreibung zur grenzpolizeilichen Beobachtung
@@ -1243,10 +1653,10 @@ der Person, etwaiger Begleiter, des Kraftfahrzeugs und des Führers des
 Kraftfahrzeugs sowie über Reiseweg und Reiseziel, mitgeführte Sachen
 und Umstände des Antreffens melden, wenn diese bei Gelegenheit der
 grenzpolizeilichen Kontrolle festgestellt werden (Ausschreibung zur
-grenzpolizeilichen Beobachtung). Das Bundesministerium des Innern
-bestimmt das Nähere über die Art der Daten, die nach Satz 1 bei der
-Ausschreibung zur grenzpolizeilichen Beobachtung gespeichert werden
-dürfen, durch Rechtsverordnung.
+grenzpolizeilichen Beobachtung). Das Bundesministerium des Innern, für
+Bau und Heimat bestimmt das Nähere über die Art der Daten, die nach
+Satz 1 bei der Ausschreibung zur grenzpolizeilichen Beobachtung
+gespeichert werden dürfen, durch Rechtsverordnung.
 
 (2) Die Ausschreibung zur grenzpolizeilichen Beobachtung ist nur
 zulässig, wenn
@@ -1640,7 +2050,7 @@ der Datenverarbeitungsanlage verwendet werden, es sei denn, es liegen
 Anhaltspunkte dafür vor, daß ohne ihre Verwendung die Verhinderung
 oder Verfolgung einer schwerwiegenden Straftat gegen Leib, Leben oder
 Freiheit einer Person aussichtslos oder wesentlich erschwert wäre. Die
-Protokolldaten sind nach sechs Monaten zu löschen. Die Bundespolizei
+Protokolldaten sind nach zwölf Monaten zu löschen. Die Bundespolizei
 trifft die technischen und organisatorischen Maßnahmen nach § 9 des
 Bundesdatenschutzgesetzes.
 
@@ -1763,8 +2173,8 @@ Interessen des Betroffenen erforderlich ist.
 
 (9) Anstelle der Löschung und Vernichtung nach Absatz 2 Nr. 2 und
 Absatz 5 Satz 2 sind die Datenträger an das zuständige Archiv
-abzugeben, sofern diesen Unterlagen bleibender Wert im Sinne des § 3
-des Bundesarchivgesetzes zukommt.
+abzugeben, sofern diesen Unterlagen bleibender Wert im Sinne des § 1
+Nummer 10 des Bundesarchivgesetzes zukommt.
 
 
 ##### § 36 Errichtungsanordnung
@@ -1772,7 +2182,7 @@ des Bundesarchivgesetzes zukommt.
 (1) Die Bundespolizei hat für jede zur Erfüllung der Aufgaben nach den
 §§ 1 bis 7 geführte automatisierte Datei mit personenbezogenen Daten
 in einer Errichtungsanordnung, die der Zustimmung des
-Bundesministeriums des Innern bedarf, festzulegen:
+Bundesministeriums des Innern, für Bau und Heimat bedarf, festzulegen:
 
 1.  Bezeichnung der Datei,
 
@@ -2312,7 +2722,7 @@ werden, wenn
 Absatz 2 gilt entsprechend.
 
 
-##### § 50 Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
+##### § 50 Herausgabe sichergestellter Sachen oder des Erlöses, Gebühren und Auslagen
 
 (1) Sobald die Voraussetzungen für die Sicherstellung weggefallen
 sind, sind die Sachen an denjenigen herauszugeben, bei dem sie
@@ -2328,12 +2738,11 @@ Erlös nach den Vorschriften des Bürgerlichen Gesetzbuchs zu
 hinterlegen. Der Anspruch auf Herausgabe des Erlöses erlischt drei
 Jahre nach Ablauf des Jahres, in dem die Sache verwertet worden ist.
 
-(3) Die Kosten der Sicherstellung und Verwahrung fallen den nach § 17
-oder § 18 Verantwortlichen zur Last. Mehrere Verantwortliche haften
-als Gesamtschuldner. Die Herausgabe der Sache kann von der Zahlung der
-Kosten abhängig gemacht werden. Ist eine Sache verwertet worden,
-können die Kosten aus dem Erlös gedeckt werden. Die Kosten können im
-Verwaltungsvollstreckungsverfahren beigetrieben werden.
+(3) Die Herausgabe der Sache kann davon abhängig gemacht werden, ob
+die Gebühren und Auslagen gezahlt worden sind, die für die
+Sicherstellung und Verwahrung der Sache erhoben werden. Ist eine Sache
+verwertet worden, können die Gebühren und Auslagen aus dem Erlös
+gedeckt werden.
 
 (4) § 983 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
@@ -2488,7 +2897,7 @@ Bundespolizeidirektionen und die Bundespolizeiakademie.
 (2) Dem Bundespolizeipräsidium als Oberbehörde unterstehen die
 Bundespolizeidirektionen als Unterbehörden und die
 Bundespolizeiakademie. Das Bundespolizeipräsidium untersteht dem
-Bundesministerium des Innern unmittelbar.
+Bundesministerium des Innern, für Bau und Heimat unmittelbar.
 
 (3) (weggefallen)
 
@@ -2496,8 +2905,8 @@ Bundesministerium des Innern unmittelbar.
 Fortbildungsstätte der Bundespolizei.
 
 (5) Zahl und Sitz der Bundespolizeibehörden bestimmt das
-Bundesministerium des Innern, den Sitz nach Anhörung des beteiligten
-Landes.
+Bundesministerium des Innern, für Bau und Heimat, den Sitz nach
+Anhörung des beteiligten Landes.
 
 (6) Die zahlenmäßige Stärke der Bundespolizei ergibt sich aus dem
 Haushaltsplan.
@@ -2505,9 +2914,9 @@ Haushaltsplan.
 
 ### § 58 Sachliche und örtliche Zuständigkeit
 
-(1) Das Bundesministerium des Innern regelt durch Rechtsverordnung die
-sachliche und örtliche Zuständigkeit der einzelnen
-Bundespolizeibehörden.
+(1) Das Bundesministerium des Innern, für Bau und Heimat regelt durch
+Rechtsverordnung die sachliche und örtliche Zuständigkeit der
+einzelnen Bundespolizeibehörden.
 
 (2) Beamte der Bundespolizei können Amtshandlungen im gesamten
 Zuständigkeitsbereich der Bundespolizei vornehmen. Sie sollen in der
@@ -2537,19 +2946,19 @@ Die Bundespolizei verfügt nach Maßgabe des Haushaltsplans über
 Hubschrauber als polizeiliches Einsatz- und Transportmittel sowie zur
 Beförderung von Mitgliedern der Verfassungsorgane des Bundes,
 Angehörigen der Bundesregierung und deren Gästen. Das
-Bundesministerium des Innern bestimmt durch Verwaltungsvorschrift
-Voraussetzungen und Verfahren für die Beförderung von Personen durch
-Hubschrauber der Bundespolizei, soweit es sich nicht um die Verwendung
-von Hubschraubern als polizeiliches Einsatz- und Transportmittel
-handelt.
+Bundesministerium des Innern, für Bau und Heimat bestimmt durch
+Verwaltungsvorschrift Voraussetzungen und Verfahren für die
+Beförderung von Personen durch Hubschrauber der Bundespolizei, soweit
+es sich nicht um die Verwendung von Hubschraubern als polizeiliches
+Einsatz- und Transportmittel handelt.
 
 
 ### § 61 Grenzübergangsstellen, Grenzerlaubnis
 
-(1) Das Bundesministerium des Innern entscheidet im Benehmen mit dem
-Bundesministerium der Finanzen über die Zulassung und Schließung von
-Grenzübergangsstellen. Es gibt diese Entscheidungen im Bundesanzeiger
-bekannt.
+(1) Das Bundesministerium des Innern, für Bau und Heimat entscheidet
+im Benehmen mit dem Bundesministerium der Finanzen über die Zulassung
+und Schließung von Grenzübergangsstellen. Es gibt diese Entscheidungen
+im Bundesanzeiger bekannt.
 
 (2) Die Bundespolizei setzt im Benehmen mit dem Hauptzollamt die
 Verkehrsstunden für die einzelnen Grenzübergangsstellen entsprechend
@@ -2677,9 +3086,9 @@ nicht befugt, unmittelbaren Zwang nach den §§ 9 bis 14 des Gesetzes
 über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch
 Vollzugsbeamte des Bundes anzuwenden.
 
-(4) Das Bundesministerium des Innern bestimmt die für die Aufsicht
-über die Hilfspolizeibeamten und ihre Bestellung zuständigen
-Bundespolizeibehörden.
+(4) Das Bundesministerium des Innern, für Bau und Heimat bestimmt die
+für die Aufsicht über die Hilfspolizeibeamten und ihre Bestellung
+zuständigen Bundespolizeibehörden.
 
 
 ### § 64 Amtshandlungen von Polizeivollzugsbeamten der Länder sowie von Vollzugsbeamten anderer Bundesbehörden oder anderer Staaten im Zuständigkeitsbereich der Bundespolizei
@@ -2739,35 +3148,36 @@ Landesrecht es vorsieht.
 Bundesrepublik Deutschland tätig werden, soweit völkerrechtliche
 Vereinbarungen oder der Beschluss des Rates 2008/615/JI vom 23. Juni
 2008 (ABl. L 210 vom 6.8.2008, S. 1) dies vorsehen oder das
-Bundesministerium des Innern im Einvernehmen mit den zuständigen
-Stellen des anderen Staates einer Tätigkeit von Beamten der
-Bundespolizei im Ausland allgemein oder im Einzelfall zustimmt.
+Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit
+den zuständigen Stellen des anderen Staates einer Tätigkeit von
+Beamten der Bundespolizei im Ausland allgemein oder im Einzelfall
+zustimmt.
 
 
 ### § 66 Amtshandlungen von Beamten der Zollverwaltung im Zuständigkeitsbereich der Bundespolizei
 
-(1) Das Bundesministerium des Innern kann im Einvernehmen mit dem
-Bundesministerium der Finanzen Beamte der Zollverwaltung mit der
-Wahrnehmung von Aufgaben der polizeilichen Kontrolle des
-grenzüberschreitenden Verkehrs (§ 2 Abs. 2 Nr. 2) an einzelnen
-Grenzübergangsstellen betrauen, soweit dadurch die Abfertigung des
-grenzüberschreitenden Reiseverkehrs vereinfacht wird.
+(1) Das Bundesministerium des Innern, für Bau und Heimat kann im
+Einvernehmen mit dem Bundesministerium der Finanzen Beamte der
+Zollverwaltung mit der Wahrnehmung von Aufgaben der polizeilichen
+Kontrolle des grenzüberschreitenden Verkehrs (§ 2 Abs. 2 Nr. 2) an
+einzelnen Grenzübergangsstellen betrauen, soweit dadurch die
+Abfertigung des grenzüberschreitenden Reiseverkehrs vereinfacht wird.
 
 (2) Nehmen Beamte der Zollverwaltung Aufgaben nach Absatz 1 wahr, so
 haben sie dieselben Befugnisse wie Beamte der Bundespolizei. Ihre
 Maßnahmen gelten als Maßnahmen der Bundespolizei. Das
-Bundesministerium des Innern und die nachgeordneten
-Bundespolizeibehörden üben ihnen gegenüber insoweit die Fachaufsicht
-aus.
+Bundesministerium des Innern, für Bau und Heimat und die
+nachgeordneten Bundespolizeibehörden üben ihnen gegenüber insoweit die
+Fachaufsicht aus.
 
 
 ### § 67 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
 
 (1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium des Innern Beamte der Bundespolizei mit der
-Wahrnehmung von Aufgaben der Zollverwaltung an einzelnen
-Grenzzollstellen betrauen, soweit dadurch die Abfertigung des
-grenzüberschreitenden Reiseverkehrs vereinfacht wird.
+Bundesministerium des Innern, für Bau und Heimat Beamte der
+Bundespolizei mit der Wahrnehmung von Aufgaben der Zollverwaltung an
+einzelnen Grenzzollstellen betrauen, soweit dadurch die Abfertigung
+des grenzüberschreitenden Reiseverkehrs vereinfacht wird.
 
 (2) Nehmen Beamte der Bundespolizei Aufgaben nach Absatz 1 wahr, so
 haben sie dieselben Befugnisse wie Beamte der Zollverwaltung. Ihre
@@ -2778,9 +3188,9 @@ Zolldienststellen üben ihnen gegenüber insoweit die Fachaufsicht aus.
 
 ### § 68 Wahrnehmung von Aufgaben durch die Zollverwaltung
 
-Das Bundesministerium des Innern kann im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung auf die
-Zollverwaltung zur Ausübung übertragen
+Das Bundesministerium des Innern, für Bau und Heimat kann im
+Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung auf die Zollverwaltung zur Ausübung übertragen
 
 1.  die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs (§ 2
     Abs. 2 Nr. 2) an einzelnen Grenzübergangsstellen,
@@ -2800,9 +3210,9 @@ entsprechend.
 
 ### § 69 Verwaltungsvorschriften
 
-Das Bundesministerium des Innern erläßt die zur Durchführung dieses
-Gesetzes im Bereich der Bundesverwaltung erforderlichen allgemeinen
-Verwaltungsvorschriften.
+Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur
+Durchführung dieses Gesetzes im Bereich der Bundesverwaltung
+erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ### § 69a Bußgeldvorschriften
@@ -2823,8 +3233,9 @@ Bundesamt die Verhängung eines Bußgeldes nach Absatz 1 mit.
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
-des Grundgesetzes) und der Freizügigkeit (Artikel 11 Abs. 1 des
+des Grundgesetzes), des Fernmeldegeheimnisses (Artikel 10 des
+Grundgesetzes) und der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt. Das
 Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
-Grundgesetzes) wird durch die §§ 45 und 46 eingeschränkt.
+Grundgesetzes) wird durch die §§ 28a, 45 und 46 eingeschränkt.
 

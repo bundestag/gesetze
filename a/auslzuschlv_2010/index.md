@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1177 (1244)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.6.2012 I 1393
+:   Art. 1 V v. 25.1.2022 I 96
 
 
 ## Eingangsformel
@@ -31,9 +31,9 @@ Finanzen und dem Bundesministerium der Verteidigung:
 ## § 1 Bemessungsgrundlage für den Auslandszuschlag und Zuordnung der Dienstorte zu den Zonenstufen
 
 (1) Bei Anwärterinnen und Anwärtern bemisst sich der Auslandszuschlag
-anstelle des Grundgehalts nach dem Anwärtergrundbetrag und dem
-Anwärtersonderzuschlag. Im Übrigen ist § 42 Absatz 2 Satz 2 des
-Bundesbesoldungsgesetzes zu beachten.
+nicht nach dem zustehenden Grundgehalt, sondern nach dem zustehenden
+Anwärtergrundbetrag, dem zustehenden Anwärtererhöhungsbetrag und dem
+zustehenden Anwärtersonderzuschlag.
 
 (2) Die Dienstorte, an denen sich eine Vertretung der Bundesrepublik
 Deutschland befindet, werden nach Maßgabe der Anlage 1 den Zonenstufen
@@ -46,8 +46,10 @@ aufgeführt sind, den dort ausgewiesenen Zonenstufen zugeordnet.
 
 ## § 1a Lebenspartnerschaft
 
-Die Vorschriften dieser Verordnung, die sich auf Ehegatten oder
-Verheiratete beziehen, gelten entsprechend für Lebenspartner.
+Die Vorschriften dieser Verordnung, die sich auf die Ehegattin oder
+den Ehegatten beziehen, gelten entsprechend für die Lebenspartnerin
+oder den Lebenspartner. Die Vorschriften dieser Verordnung, die sich
+auf Verheiratete beziehen, gelten entsprechend für Verpartnerte.
 
 
 ## § 2 Zuschlag zum Auslandszuschlag nach § 53 Absatz 1 Satz 5 des Bundesbesoldungsgesetzes
@@ -127,11 +129,11 @@ Kaufkraftausgleich.
 (4) Die oberste Dienstbehörde setzt die Zuschläge nach den Absätzen 1
 und 2 und die Zeiträume, für die die Zuschläge gewährt werden, im
 Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern
-und dem Bundesministerium der Finanzen fest. Wird ein Zuschlag nach
-Absatz 1 im Ressorteinvernehmen durch das Auswärtige Amt festgesetzt,
-können andere oberste Dienstbehörden den festgesetzten Zuschlag ohne
-erneute Einholung des Ressorteinvernehmens für ihren Geschäftsbereich
-übernehmen.
+und für Heimat und dem Bundesministerium der Finanzen fest. Wird ein
+Zuschlag nach Absatz 1 im Ressorteinvernehmen durch das Auswärtige Amt
+festgesetzt, können andere oberste Dienstbehörden den festgesetzten
+Zuschlag ohne erneute Einholung des Ressorteinvernehmens für ihren
+Geschäftsbereich übernehmen.
 
 
 ## § 3 Auslandszuschlag bei Arbeitsplatzteilung
@@ -179,13 +181,89 @@ berücksichtigungsfähig.
 
 (1) Verheiratete Empfängerinnen und Empfänger von
 Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst
-gilt, erhalten einen um 6 Prozent ihrer Dienstbezüge erhöhten
-Auslandszuschlag, wenn sie mit ihrer Ehegattin oder ihrem Ehegatten am
-ausländischen Dienstort einen gemeinsamen Haushalt führen und Anspruch
-auf den erhöhten Auslandszuschlag nach § 53 Absatz 2 Satz 2 oder
-Absatz 3 Satz 3 des Bundesbesoldungsgesetzes haben.
+gilt, erhalten einen um 18,6 Prozent ihres Grundgehalts erhöhten
+Auslandszuschlag, höchstens jedoch 18,6 Prozent des Grundgehalts aus
+der Endstufe der Besoldungsgruppe A 14. Der Erhöhungsbetrag ist
+zugunsten der Ehegattin oder des Ehegatten zu verwenden
 
-(2) Zu den Dienstbezügen gehören:
+1.  als freiwillige Einzahlung
+
+    a)  in die gesetzliche Rentenversicherung,
+
+
+    b)  in die landwirtschaftliche Alterskasse oder
+
+
+    c)  in eine berufsständische Versorgungseinrichtung, die Leistungen
+        erbringt, die denjenigen der gesetzlichen Rentenversicherung
+        vergleichbar sind,
+
+
+
+
+
+2.  für die Zahlung des Versorgungszuschlags oder
+
+
+3.  als Beitrag für eine kapitalgedeckte Altersvorsorge, welche eine
+    lebenslange monatliche Leibrente für die Ehegattin oder den Ehegatten
+    vorsieht und nicht vor Vollendung des 62. Lebensjahres der Ehegattin
+    oder des Ehegatten ausgezahlt wird oder die Voraussetzungen des
+    Abschnitts XI des Einkommensteuergesetzes in Verbindung mit dem
+    Altersvorsorgeverträge-Zertifizierungsgesetz erfüllt.
+
+
+
+
+(2) Der erhöhte Auslandszuschlag nach Absatz 1 wird nur gewährt, wenn
+die Empfängerin oder der Empfänger von Auslandsdienstbezügen
+
+1.  mit ihrem Ehegatten oder seiner Ehegattin am ausländischen Dienstort
+    einen gemeinsamen Haushalt führt und Anspruch auf den erhöhten
+    Auslandszuschlag nach § 53 Absatz 2 Satz 2 oder Absatz 3 Satz 3 des
+    Bundesbesoldungsgesetzes hat und
+
+
+2.  nachweist, dass mindestens 90 Prozent des Erhöhungsbetrags nach Absatz
+    1 Satz 2 verwendet werden.
+
+
+
+
+(3) Die Festsetzung des erhöhten Auslandszuschlags ist mit der Auflage
+zu verbinden, die Bezügestelle unverzüglich zu unterrichten, wenn die
+Verwendung nach Absatz 1 Satz 2 betragsmäßig verringert, unterbrochen
+oder eingestellt wird. Sofern die Verwendung nach Absatz 1 Satz 2 90
+Prozent des Erhöhungsbetrags unterschreitet, ist die Gewährung des
+Erhöhungsbetrags mit Wirkung vom Zeitpunkt der Unterschreitung
+entsprechend dem Ausmaß der Unterschreitung zu widerrufen. Unabhängig
+von Satz 2 überprüft die Bezügestelle die Verwendung nach Absatz 1
+Satz 2 ab der ersten Festsetzung alle fünf Jahre. Sofern zum Zeitpunkt
+der Überprüfung die Verwendung nach Absatz 1 Satz 2 90 Prozent des
+Erhöhungsbetrags unterschreitet, ist die Gewährung des
+Erhöhungsbetrags mit Wirkung vom Zeitpunkt der Überprüfung
+entsprechend dem Ausmaß der Unterschreitung zu widerrufen. Stehen zum
+Zeitpunkt der Überprüfung keine Auslandsdienstbezüge zu, prüft die
+Bezügestelle die Verwendung bei der nächsten Entscheidung über eine
+erneute Gewährung des Erhöhungsbetrags und der Fünfjahreszeitraum
+beginnt erneut zu laufen.
+
+(4) Abweichend von Absatz 2 kann der erhöhte Auslandszuschlag auch
+dann gewährt werden, wenn die Verwendung nach Absatz 1 Satz 2 durch
+eine dienstliche Erklärung der Empfängerin oder des Empfängers der
+Auslandsdienstbezüge bestätigt wird, die von dem Ehegatten oder der
+Ehegattin mit unterschrieben ist, und der Ehegatte oder die Ehegattin
+am 1. Januar 2020 das 50. Lebensjahr vollendet hat.
+
+(5) Im Falle des § 53 Absatz 6 Satz 5 des Bundesbesoldungsgesetzes ist
+Voraussetzung für die Gewährung des erhöhten Auslandszuschlags von bis
+zu 6 Prozent der Dienstbezüge im Ausland die Vorlage einer von der
+Ehegattin oder dem Ehegatten mit unterschriebenen Erklärung, aus der
+hervorgeht, dass sie oder er über die Zahlung des erhöhten
+Auslandszuschlags an den Empfänger oder die Empfängerin der
+Auslandsdienstbezüge und den Zweck informiert ist.
+
+(6) Zu den Dienstbezügen gehören:
 
 1.  das Grundgehalt,
 
@@ -209,50 +287,116 @@ Absatz 3 Satz 3 des Bundesbesoldungsgesetzes haben.
 
 
 
-(3) Ist die Ehegattin oder der Ehegatte erwerbstätig, wird das im
-Kalenderjahr erzielte Nettoerwerbseinkommen auf die Hälfte des
-erhöhten Auslandszuschlags für dieses Kalenderjahr angerechnet, soweit
-es das Zwölffache der monatlichen Entgeltgrenze für geringfügige
-Beschäftigungen (§ 8 Absatz 1 Nummer 1 des Vierten Buches
-Sozialgesetzbuch) oder den entsprechenden Betrag in ausländischer
-Währung übersteigt. Nettoerwerbseinkommen ist die Summe der Einkünfte
-aus Land- und Forstwirtschaft, Gewerbebetrieb sowie selbständiger und
-nichtselbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 1 bis 4 des
-Einkommensteuergesetzes) nach Abzug der entrichteten Steuern vom
-Einkommen und der Arbeitnehmeranteile zur gesetzlichen Sozial- und
-Arbeitslosenversicherung.
+(7) (weggefallen)
+
+
+## § 5a Anrechnung des Nettoerwerbseinkommens der Ehegattin oder des Ehegatten
+
+(1) Ist die Ehegattin oder der Ehegatte in dem Zeitraum, für den der
+erhöhte Auslandszuschlag nach § 53 Absatz 6 Satz 3 und 5 des
+Bundesbesoldungsgesetzes gewährt wird, erwerbstätig, so wird das
+Nettoerwerbseinkommen, das die Ehegattin oder der Ehegatte aus einer
+in diesem Zeitraum ausgeübten Erwerbstätigkeit erzielt hat, auf die
+Hälfte des erhöhten Auslandszuschlags angerechnet. Dies gilt nur,
+soweit das Nettoerwerbseinkommen für diesen Zeitraum die
+Arbeitsentgeltgrenze bei geringfügiger Beschäftigung (§ 8 Absatz 1
+Nummer 1 des Vierten Buches Sozialgesetzbuch) oder den entsprechenden
+Betrag in ausländischer Währung übersteigt. Die Anrechnung erfolgt
+getrennt für jedes Kalenderjahr. Bei einem Dienstortwechsel innerhalb
+eines Kalenderjahres wird das erzielte Nettoerwerbseinkommen
+grundsätzlich getrennt nach Dienstorten betrachtet.
+
+(2) Das Nettoerwerbseinkommen ist die Summe der nach Abzug der
+entrichteten Steuern vom Einkommen und der Arbeitnehmeranteile zur
+gesetzlichen Sozialversicherung verbleibenden Einkünfte aus
+
+1.  Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1 in Verbindung
+    mit § 13 des Einkommensteuergesetzes),
+
+
+2.  Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 15
+    des Einkommensteuergesetzes),
+
+
+3.  selbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3 in Verbindung mit §
+    18 des Einkommensteuergesetzes) und
+
+
+4.  nichtselbständiger Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4 in Verbindung
+    mit § 19 Absatz 1 Satz 1 Nummer 1 und 3 des Einkommensteuergesetzes).
+
+
+
+
+(3) Bei Einkünften nach Absatz 2 Nummer 1 bis 3 wird der erhöhte
+Auslandszuschlag zunächst vorläufig auf der Grundlage der Einkünfte im
+vorangegangenen Besteuerungszeitraum festgesetzt. Die Empfängerin oder
+der Empfänger des erhöhten Auslandszuschlags hat die Einkünfte der
+Ehegattin oder des Ehegatten durch Vorlage des Steuerbescheids für den
+vorangegangenen Besteuerungszeitraum nachzuweisen. Für die endgültige
+Festsetzung des erhöhten Auslandszuschlags bei Einkünften nach Absatz
+2 Nummer 1 bis 3 ist der Steuerbescheid vorzulegen, der den
+Bezugszeitraum des erhöhten Auslandszuschlags umfasst. War das
+tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des
+erhöhten Auslandszuschlags geringer als zum Zeitpunkt der vorläufigen
+Festsetzung nach Satz 1, so besteht bei Nachweis der zweckgerechten
+Verwendung des erhöhten Auslandszuschlags ein Nachzahlungsanspruch auf
+den nicht anrechnungsfreien Teil des erhöhten Auslandszuschlags. War
+das tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des
+erhöhten Auslandszuschlags höher als zum Zeitpunkt der vorläufigen
+Festsetzung nach Satz 1, so ist der nicht anrechnungsfreie Teil des
+erhöhten Auslandszuschlags ganz oder teilweise zurückzufordern. Weist
+die Empfängerin oder der Empfänger des erhöhten Auslandszuschlags
+nach, dass die Steuerfestsetzung, die den Bezugszeitraum des erhöhten
+Auslandszuschlags umfasst, Einkünfte der Ehegattin oder des Ehegatten
+nach Absatz 2 Nummer 1 bis 3 einbezieht, die ausschließlich mit
+Tätigkeiten erzielt wurden, die vor dem Beginn oder nach dem Ende des
+Gewährungszeitraums des erhöhten Auslandszuschlags erbracht wurden, so
+kann von der Berücksichtigung der betreffenden Einkünfte abgesehen
+werden.
 
 
 ## § 6 Erhöhter Auslandszuschlag für weitere Berechtigte
 
 Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das
-Gesetz über den Auswärtigen Dienst gilt, können den erhöhten
-Auslandszuschlag nach § 5 auch für die in § 53 Absatz 4 Nummer 3 des
-Bundesbesoldungsgesetzes genannten Personen erhalten, soweit diese im
+Gesetz über den Auswärtigen Dienst gilt und denen kein erhöhter
+Auslandszuschlag für Verheiratete nach § 5 zusteht, können nach § 53
+Absatz 6 Satz 6 des Bundesbesoldungsgesetzes einen erhöhten
+Auslandszuschlag von bis zu 6 Prozent der Dienstbezüge im Ausland auch
+für die in § 53 Absatz 4 Nummer 3 des Bundesbesoldungsgesetzes
+genannten Personen erhalten. Dies gilt nur soweit diese im
 dienstlichen Interesse bei der Erfüllung von Aufgaben der
-Auslandsvertretung oder der Empfängerinnen oder Empfänger von
-Auslandsdienstbezügen mitwirken.
+Auslandsvertretung oder von Aufgaben der Empfängerin oder des
+Empfängers von Auslandsdienstbezügen mitwirken. § 5 Absatz 6 und § 5a
+gelten entsprechend.
 
 
-## § 7 Inkrafttreten
+## § 7 Übergangsregelung aus Anlass der Zwölften Verordnung zur Änderung der Auslandszuschlagsverordnung
 
-Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
+Bis zum 31. Januar 2022 sind die Anlagen in der bis zum 30. Juni 2021
+geltenden Fassung weiter anzuwenden, wenn dies für die Betroffenen
+günstiger ist.
 
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2010, 1179 - 1184;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2022, 97 - 102)
 
 
-*    *   lfd.
-        Nr.
-
+*    *
     *   Staat
 
     *   Dienstort
 
     *   Zonenstufe
+
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
 
 
 *    *   Abschnitt 1
@@ -267,8 +411,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11
 
-    *   (elf)
-
 
 *    *   2
 
@@ -277,8 +419,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Brüssel
 
     *   2
-
-    *   (zwei)
 
 
 *    *   3
@@ -289,17 +429,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
-
-
-*    *
-    *
-    *   Banja Luka
-
-    *   11
-
-    *   (elf)
-
 
 *    *   4
 
@@ -309,8 +438,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9
 
-    *   (neun)
-
 
 *    *   5
 
@@ -318,9 +445,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Kopenhagen
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
 *    *   6
@@ -331,8 +456,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7
 
-    *   (sieben)
-
 
 *    *   7
 
@@ -340,9 +463,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Helsinki
 
-    *   2
-
-    *   (zwei)
+    *   5
 
 
 *    *   8
@@ -351,48 +472,38 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Paris
 
-    *   1
-
-    *   (eins)
+    *   3
 
 
-*    *
-    *
+*    *   9
+
     *   Bordeaux
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
-    *
+*    *   10
+
     *   Lyon
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *
-    *
+*    *   11
+
     *   Marseille
 
     *   2
 
-    *   (zwei)
 
+*    *   12
 
-*    *
-    *
     *   Straßburg
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *   9
+*    *   13
 
     *   Griechenland
 
@@ -400,41 +511,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4
 
-    *   (vier)
 
+*    *   14
 
-*    *
-    *
     *   Thessaloniki
 
-    *   4
-
-    *   (vier)
+    *   5
 
 
-*    *   10
+*    *   15
 
     *   Irland
 
     *   Dublin
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *   11
+*    *   16
 
     *   Island
 
     *   Reykjavik
 
-    *   3
-
-    *   (drei)
+    *   5
 
 
-*    *   12
+*    *   17
 
     *   Italien
 
@@ -442,72 +545,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
+*    *   18
 
-*    *
-    *
     *   Mailand
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
-    *   Neapel
-
-    *   3
-
-    *   (drei)
-
-
-*    *   13
+*    *   19
 
     *   Kosovo
 
     *   Pristina
 
-    *   11
-
-    *   (elf)
+    *   15
 
 
-*    *   14
+*    *   20
 
     *   Kroatien
 
     *   Zagreb
 
-    *   9
-
-    *   (neun)
+    *   6
 
 
-*    *   15
+*    *   21
 
     *   Lettland
 
     *   Riga
 
-    *   7
-
-    *   (sieben)
+    *   6
 
 
-*    *   16
+*    *   22
 
     *   Litauen
 
     *   Wilna
 
-    *   7
-
-    *   (sieben)
+    *   5
 
 
-*    *   17
+*    *   23
 
     *   Luxemburg
 
@@ -515,32 +597,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
-
-*    *   18
+*    *   24
 
     *   Malta
 
     *   Valletta
 
-    *   4
-
-    *   (vier)
+    *   3
 
 
-*    *   19
-
-    *   Mazedonien
-
-    *   Skopje
-
-    *   10
-
-    *   (zehn)
-
-
-*    *   20
+*    *   25
 
     *   Moldau
 
@@ -548,21 +615,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   (zehn)
 
-
-*    *   21
+*    *   26
 
     *   Montenegro
 
     *   Podgorica
 
-    *   11
-
-    *   (elf)
+    *   10
 
 
-*    *   22
+*    *   27
 
     *   Niederlande
 
@@ -570,30 +633,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
+*    *   28
 
-*    *
-    *
     *   Amsterdam
 
     *   1
 
-    *   (eins)
+
+*    *   29
+
+    *   Nordmazedonien
+
+    *   Skopje
+
+    *   9
 
 
-*    *   23
+*    *   30
 
     *   Norwegen
 
     *   Oslo
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
-*    *   24
+*    *   31
 
     *   Österreich
 
@@ -601,217 +667,166 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1
 
-    *   (eins)
 
-
-*    *   25
+*    *   32
 
     *   Polen
 
     *   Warschau
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
-*    *
-    *
+*    *   33
+
     *   Breslau
 
-    *   4
-
-    *   (vier)
+    *   6
 
 
-*    *
-    *
+*    *   34
+
     *   Danzig
 
-    *   4
-
-    *   (vier)
+    *   6
 
 
-*    *
-    *
+*    *   35
+
     *   Krakau
-
-    *   4
-
-    *   (vier)
-
-
-*    *
-    *
-    *   Oppeln
 
     *   5
 
-    *   (fünf)
+
+*    *   36
+
+    *   Oppeln
+
+    *   7
 
 
-*    *   26
+*    *   37
 
     *   Portugal
 
     *   Lissabon
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
-    *   Porto
-
-    *   2
-
-    *   (zwei)
-
-
-*    *   27
+*    *   38
 
     *   Rumänien
 
     *   Bukarest
 
-    *   9
-
-    *   (neun)
+    *   7
 
 
-*    *
-    *
+*    *   39
+
     *   Hermannstadt
 
-    *   10
-
-    *   (zehn)
+    *   9
 
 
-*    *
-    *
+*    *   40
+
     *   Temeswar
 
     *   9
 
-    *   (neun)
 
-
-*    *   28
+*    *   41
 
     *   Russland
 
     *   Moskau
 
-    *   9
-
-    *   (neun)
+    *   11
 
 
-*    *
-    *
+*    *   42
+
     *   Jekaterinburg
 
-    *   10
-
-    *   (zehn)
+    *   13
 
 
-*    *
-    *
+*    *   43
+
     *   Kaliningrad
 
     *   11
 
-    *   (elf)
 
+*    *   44
 
-*    *
-    *
     *   Nowosibirsk
+
+    *   15
+
+
+*    *   45
+
+    *   St. Petersburg
 
     *   11
 
-    *   (elf)
 
-
-*    *
-    *
-    *   St. Petersburg
-
-    *   10
-
-    *   (zehn)
-
-
-*    *   29
+*    *   46
 
     *   Schweden
 
     *   Stockholm
 
-    *   2
-
-    *   (zwei)
+    *   3
 
 
-*    *   30
+*    *   47
 
     *   Schweiz
 
     *   Bern
 
-    *   1
-
-    *   (eins)
+    *   3
 
 
-*    *
-    *
+*    *   48
+
     *   Genf
 
-    *   1
-
-    *   (eins)
+    *   2
 
 
-*    *   31
+*    *   49
 
     *   Serbien
 
     *   Belgrad
 
-    *   10
-
-    *   (zehn)
+    *   9
 
 
-*    *   32
+*    *   50
 
     *   Slowakische Republik
 
-    *   Preßburg
+    *   Pressburg
 
-    *   3
-
-    *   (drei)
+    *   5
 
 
-*    *   33
+*    *   51
 
     *   Slowenien
 
     *   Laibach
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
-*    *   34
+*    *   52
 
     *   Spanien
 
@@ -819,234 +834,165 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2
 
-    *   (zwei)
 
+*    *   53
 
-*    *
-    *
     *   Barcelona
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
+*    *   54
+
     *   Las Palmas de Gran Canaria
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
+*    *   55
+
     *   Malaga
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
+*    *   56
+
     *   Palma de Mallorca
 
-    *   2
-
-    *   (zwei)
+    *   1
 
 
-*    *
-    *
-    *   Santa Cruz de Tenerife
-
-    *   2
-
-    *   (zwei)
-
-
-*    *
-    *
-    *   Sevilla
-
-    *   2
-
-    *   (zwei)
-
-
-*    *   35
+*    *   57
 
     *   Tschechische Republik
 
     *   Prag
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
-*    *   36
+*    *   58
 
     *   Türkei
 
     *   Ankara
 
-    *   6
-
-    *   (sechs)
+    *   7
 
 
-*    *
-    *
+*    *   59
+
     *   Antalya
 
     *   6
 
-    *   (sechs)
 
+*    *   60
 
-*    *
-    *
     *   Istanbul
 
-    *   6
-
-    *   (sechs)
+    *   5
 
 
-*    *
-    *
+*    *   61
+
     *   Izmir
 
-    *   6
-
-    *   (sechs)
+    *   5
 
 
-*    *   37
+*    *   62
 
     *   Ukraine
 
     *   Kiew
 
-    *   10
-
-    *   (zehn)
+    *   12
 
 
-*    *
-    *
+*    *   63
+
     *   Donezk
 
-    *   10
-
-    *   (zehn)
+    *   17
 
 
-*    *   38
+*    *   64
 
     *   Ungarn
 
     *   Budapest
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
-*    *   39
+*    *   65
 
     *   Vereinigtes Königreich
 
     *   London
 
-    *   1
-
-    *   (eins)
-
-
-*    *
-    *
-    *   Edinburgh
-
     *   2
 
-    *   (zwei)
+
+*    *   66
+
+    *   Edinburgh
+
+    *   3
 
 
-*    *   40
+*    *   67
 
     *   Weißrussland
 
     *   Minsk
 
-    *   10
-
-    *   (zehn)
+    *   12
 
 
-*    *   41
+*    *   68
 
     *   Zypern
 
     *   Nikosia
 
-    *   5
-
-    *   (fünf)
+    *   7
 
 
 *    *   Abschnitt 2
         **Afrika**
 
 
-*    *   1
+*    *   69
 
     *   Ägypten
 
     *   Kairo
 
-    *   14
-
-    *   (vierzehn)
+    *   17
 
 
-*    *   2
+*    *   70
 
     *   Algerien
 
     *   Algier
 
-    *   16
-
-    *   (sechzehn)
+    *   14
 
 
-*    *   3
+*    *   71
 
     *   Angola
 
     *   Luanda
 
-    *   19
-
-    *   (neunzehn)
-
-
-*    *   4
-
-    *   Äquatorialguinea
-
-    *   Malabo
-
     *   18
 
-    *   (achtzehn)
 
-
-*    *   5
+*    *   72
 
     *   Äthiopien
 
@@ -1054,54 +1000,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   6
+*    *   73
 
     *   Benin
 
     *   Cotonou
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   7
+*    *   74
 
     *   Botsuana
 
     *   Gaborone
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
-*    *   8
+*    *   75
 
     *   Burkina Faso
 
     *   Ouagadougou
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   9
+*    *   76
 
     *   Burundi
 
     *   Bujumbura
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   10
+*    *   77
 
     *   Côte d´Ivoire
 
@@ -1109,21 +1045,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   11
+*    *   78
 
     *   Dschibuti
 
     *   Dschibuti
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   12
+*    *   79
 
     *   Eritrea
 
@@ -1131,32 +1063,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   13
+*    *   80
 
     *   Gabun
 
     *   Libreville
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   14
+*    *   81
 
     *   Ghana
 
     *   Accra
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   15
+*    *   82
 
     *   Guinea
 
@@ -1164,32 +1090,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   16
+*    *   83
 
     *   Kamerun
 
     *   Jaunde
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   17
+*    *   84
 
     *   Kenia
 
     *   Nairobi
 
-    *   18
-
-    *   (achtzehn)
+    *   16
 
 
-*    *   18
+*    *   85
+
+    *   Kongo
+
+    *   Brazzaville
+
+    *   20
+
+
+*    *   86
 
     *   Kongo,
         Demokratische Republik
@@ -1198,10 +1127,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   19
+*    *   87
 
     *   Liberia
 
@@ -1209,162 +1136,132 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   20
+*    *   88
 
     *   Libyen
 
     *   Tripolis
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   21
+*    *   89
 
     *   Madagaskar
 
     *   Antananarivo
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   22
+*    *   90
 
     *   Malawi
 
     *   Lilongwe
 
-    *   16
-
-    *   (sechzehn)
+    *   17
 
 
-*    *   23
+*    *   91
 
     *   Mali
 
     *   Bamako
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   24
+*    *   92
 
     *   Marokko
 
     *   Rabat
 
-    *   14
-
-    *   (vierzehn)
+    *   11
 
 
-*    *   25
+*    *   93
 
     *   Mauretanien
 
     *   Nouakchott
 
-    *   19
-
-    *   (neunzehn)
+    *   20
 
 
-*    *   26
+*    *   94
 
     *   Mosambik
 
     *   Maputo
 
-    *   18
-
-    *   (achtzehn)
+    *   17
 
 
-*    *   27
+*    *   95
 
     *   Namibia
 
     *   Windhuk
 
-    *   15
-
-    *   (fünfzehn)
+    *   11
 
 
-*    *   28
+*    *   96
 
     *   Niger
 
     *   Niamey
 
-    *   19
-
-    *   (neunzehn)
+    *   20
 
 
-*    *   29
+*    *   97
 
     *   Nigeria
 
     *   Abuja
 
-    *   19
-
-    *   (neunzehn)
+    *   20
 
 
-*    *
-    *
+*    *   98
+
     *   Lagos
 
-    *   19
-
-    *   (neunzehn)
+    *   20
 
 
-*    *   30
+*    *   99
 
     *   Ruanda
 
     *   Kigali
 
-    *   17
-
-    *   (siebzehn)
+    *   19
 
 
-*    *   31
+*    *   100
 
     *   Sambia
 
     *   Lusaka
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
-*    *   32
+*    *   101
 
     *   Senegal
 
     *   Dakar
 
-    *   16
-
-    *   (sechzehn)
+    *   18
 
 
-*    *   33
+*    *   102
 
     *   Sierra Leone
 
@@ -1372,21 +1269,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   34
+*    *   103
 
     *   Simbabwe
 
     *   Harare
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   35
+*    *   104
 
     *   Sudan
 
@@ -1394,52 +1287,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   36
+*    *   105
 
     *   Südafrika
 
     *   Pretoria
 
-    *   13
-
-    *   (dreizehn)
+    *   7
 
 
-*    *
-    *
+*    *   106
+
     *   Kapstadt
 
-    *   14
-
-    *   (vierzehn)
+    *   10
 
 
-*    *   37
+*    *   107
+
+    *   Südsudan
+
+    *   Dschuba
+
+    *   20
+
+
+*    *   108
 
     *   Tansania
 
     *   Daressalam
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   38
+*    *   109
 
     *   Togo
 
     *   Lomé
 
-    *   19
-
-    *   (neunzehn)
+    *   20
 
 
-*    *   39
+*    *   110
 
     *   Tschad
 
@@ -1447,58 +1339,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *   40
+*    *   111
 
     *   Tunesien
 
     *   Tunis
 
-    *   14
-
-    *   (vierzehn)
+    *   9
 
 
-*    *   41
+*    *   112
 
     *   Uganda
 
     *   Kampala
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
 *    *   Abschnitt 3
         **Amerika**
 
 
-*    *   1
+*    *   113
 
     *   Argentinien
 
     *   Buenos Aires
 
-    *   11
-
-    *   (elf)
+    *   10
 
 
-*    *   2
+*    *   114
 
     *   Bolivien
 
     *   La Paz
 
-    *   13
-
-    *   (dreizehn)
+    *   15
 
 
-*    *   3
+*    *   115
 
     *   Brasilien
 
@@ -1506,380 +1388,306 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12
 
-    *   (zwölf)
 
+*    *   116
 
-*    *
-    *
     *   Porto Alegre
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *
-    *
+*    *   117
+
     *   Recife
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *
-    *
+*    *   118
+
     *   Rio de Janeiro
 
-    *   12
-
-    *   (zwölf)
+    *   13
 
 
-*    *
-    *
+*    *   119
+
     *   São Paulo
 
-    *   12
-
-    *   (zwölf)
+    *   13
 
 
-*    *   4
+*    *   120
 
     *   Chile
 
     *   Santiago de Chile
 
-    *   11
-
-    *   (elf)
+    *   12
 
 
-*    *   5
+*    *   121
 
     *   Costa Rica
 
     *   San José
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *   6
+*    *   122
 
     *   Dominikanische Republik
 
     *   Santo Domingo
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *   7
+*    *   123
 
     *   Ecuador
 
     *   Quito
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *   8
+*    *   124
 
     *   El Salvador
 
     *   San Salvador
 
-    *   14
-
-    *   (vierzehn)
+    *   18
 
 
-*    *   9
+*    *   125
 
     *   Guatemala
 
     *   Guatemala City
 
-    *   13
-
-    *   (dreizehn)
+    *   17
 
 
-*    *   10
+*    *   126
 
     *   Haiti
 
     *   Port-au-Prince
 
-    *   16
-
-    *   (sechzehn)
+    *   20
 
 
-*    *   11
+*    *   127
 
     *   Honduras
 
     *   Tegucigalpa
 
-    *   14
-
-    *   (vierzehn)
+    *   20
 
 
-*    *   12
+*    *   128
 
-    *   Jamaica
+    *   Jamaika
 
     *   Kingston
 
-    *   13
-
-    *   (dreizehn)
+    *   19
 
 
-*    *   13
+*    *   129
 
     *   Kanada
 
     *   Ottawa
 
-    *   7
-
-    *   (sieben)
+    *   4
 
 
-*    *
-    *
+*    *   130
+
     *   Montreal
 
-    *   7
-
-    *   (sieben)
+    *   5
 
 
-*    *
-    *
+*    *   131
+
     *   Toronto
 
-    *   7
-
-    *   (sieben)
+    *   4
 
 
-*    *
-    *
+*    *   132
+
     *   Vancouver
 
-    *   7
-
-    *   (sieben)
+    *   3
 
 
-*    *   14
+*    *   133
 
     *   Kolumbien
 
     *   Bogotá
 
-    *   13
-
-    *   (dreizehn)
+    *   10
 
 
-*    *   15
+*    *   134
 
     *   Kuba
 
     *   Havanna
 
-    *   14
-
-    *   (vierzehn)
+    *   20
 
 
-*    *   16
+*    *   135
 
     *   Mexiko
 
     *   Mexiko City
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *   17
+*    *   136
 
     *   Nicaragua
 
     *   Managua
 
-    *   14
-
-    *   (vierzehn)
+    *   18
 
 
-*    *   18
+*    *   137
 
     *   Panama
 
     *   Panama
 
-    *   11
-
-    *   (elf)
+    *   15
 
 
-*    *   19
+*    *   138
 
     *   Paraguay
 
     *   Asunción
 
-    *   12
-
-    *   (zwölf)
+    *   13
 
 
-*    *   20
+*    *   139
 
     *   Peru
 
     *   Lima
 
-    *   12
-
-    *   (zwölf)
+    *   14
 
 
-*    *   21
+*    *   140
 
     *   Trinidad und Tobago
 
     *   Port-of-Spain
 
-    *   13
-
-    *   (dreizehn)
+    *   18
 
 
-*    *   22
+*    *   141
 
     *   Uruguay
 
     *   Montevideo
 
-    *   11
-
-    *   (elf)
+    *   10
 
 
-*    *   23
+*    *   142
 
     *   Venezuela
 
     *   Caracas
 
-    *   13
-
-    *   (dreizehn)
+    *   19
 
 
-*    *   24
+*    *   143
 
     *   Vereinigte Staaten
-        von Amerika
 
     *   Washington
 
-    *   7
-
-    *   (sieben)
+    *   6
 
 
-*    *
+*    *   144
+
     *   Atlanta
 
-    *   8
-
-    *   (acht)
+    *   6
 
 
-*    *
-    *
+*    *   145
+
     *   Boston
 
-    *   7
-
-    *   (sieben)
+    *   5
 
 
-*    *
-    *
+*    *   146
+
     *   Chicago
 
-    *   7
-
-    *   (sieben)
+    *   6
 
 
-*    *
-    *
+*    *   147
+
     *   Houston
 
-    *   8
-
-    *   (acht)
+    *   6
 
 
-*    *
-    *
+*    *   148
+
     *   Los Angeles
 
-    *   8
-
-    *   (acht)
+    *   6
 
 
-*    *
-    *
+*    *   149
+
     *   Miami
 
-    *   7
-
-    *   (sieben)
+    *   6
 
 
-*    *
-    *
+*    *   150
+
     *   New York
 
     *   7
 
-    *   (sieben)
 
+*    *   151
 
-*    *
-    *
     *   San Francisco
 
-    *   7
-
-    *   (sieben)
+    *   6
 
 
 *    *   Abschnitt 4
         **Asien**
 
 
-*    *   1
+*    *   152
 
     *   Afghanistan
 
@@ -1887,92 +1695,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
 
-
-*    *
-    *
-    *   Faisabad
-
-    *   20
-
-    *   (zwanzig)
-
-
-*    *
-    *
-    *   Kundus
-
-    *   20
-
-    *   (zwanzig)
-
-
-*    *
-    *
-    *   Masar-e-Sharif
-
-    *   20
-
-    *   (zwanzig)
-
-
-*    *   2
+*    *   153
 
     *   Armenien
 
     *   Eriwan
 
-    *   16
-
-    *   (sechzehn)
+    *   12
 
 
-*    *   3
+*    *   154
 
     *   Aserbaidschan
 
     *   Baku
 
-    *   17
-
-    *   (siebzehn)
+    *   14
 
 
-*    *   4
+*    *   155
 
     *   Bahrain
 
     *   Manama
 
-    *   14
-
-    *   (vierzehn)
+    *   18
 
 
-*    *   5
+*    *   156
 
     *   Bangladesch
 
     *   Dhaka
 
-    *   18
-
-    *   (achtzehn)
+    *   20
 
 
-*    *   6
+*    *   157
 
     *   Brunei
 
     *   Bandar Seri Begawan
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *   7
+*    *   158
 
     *   China
 
@@ -1980,57 +1749,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
+*    *   159
 
-*    *
-    *
     *   Chengdu
 
-    *   14
-
-    *   (vierzehn)
+    *   15
 
 
-*    *
-    *
+*    *   160
+
     *   Hongkong
 
     *   11
 
-    *   (elf)
 
+*    *   161
 
-*    *
-    *
     *   Kanton
 
     *   14
 
-    *   (vierzehn)
 
+*    *   162
 
-*    *
-    *
     *   Shanghai
 
-    *   13
-
-    *   (dreizehn)
+    *   12
 
 
-*    *   8
+*    *   163
+
+    *   Shenyang
+
+    *   19
+
+
+*    *   164
 
     *   Georgien
 
     *   Tiflis
 
-    *   18
-
-    *   (achtzehn)
+    *   13
 
 
-*    *   9
+*    *   165
 
     *   Indien
 
@@ -2038,57 +1802,45 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   166
 
-*    *
-    *
     *   Bangalore
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
-*    *
-    *
-    *   Chennai (Madras)
+*    *   167
 
-    *   16
+    *   Chennai
 
-    *   (sechzehn)
+    *   15
 
 
-*    *
-    *
+*    *   168
+
     *   Kalkutta
 
-    *   16
-
-    *   (sechzehn)
+    *   15
 
 
-*    *
-    *
-    *   Mumbai (Bombay)
+*    *   169
 
-    *   16
+    *   Mumbai
 
-    *   (sechzehn)
+    *   13
 
 
-*    *   10
+*    *   170
 
     *   Indonesien
 
     *   Jakarta
 
-    *   16
-
-    *   (sechzehn)
+    *   14
 
 
-*    *   11
+*    *   171
 
     *   Irak
 
@@ -2096,125 +1848,101 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20
 
-    *   (zwanzig)
+
+*    *   172
+
+    *   Erbil
+
+    *   20
 
 
-*    *   12
+*    *   173
 
     *   Iran
 
     *   Teheran
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   13
+*    *   174
 
     *   Israel
 
     *   Tel Aviv
 
-    *   12
-
-    *   (zwölf)
+    *   11
 
 
-*    *   14
+*    *   175
 
     *   Japan
 
     *   Tokyo
 
-    *   11
-
-    *   (elf)
+    *   12
 
 
-*    *
-    *
+*    *   176
+
     *   Osaka-Kobe
 
-    *   11
-
-    *   (elf)
+    *   12
 
 
-*    *   15
+*    *   177
 
     *   Jemen
 
     *   Sanaa
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *
-    *
-    *   Aden
-
-    *   17
-
-    *   (siebzehn)
-
-
-*    *   16
+*    *   178
 
     *   Jordanien
 
     *   Amman
 
-    *   13
-
-    *   (dreizehn)
+    *   15
 
 
-*    *   17
+*    *   179
 
     *   Kambodscha
 
     *   Phnom Penh
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   18
+*    *   180
 
     *   Kasachstan
 
-    *   Astana
+    *   Nur-Sultan
 
-    *   17
-
-    *   (siebzehn)
+    *   14
 
 
-*    *
-    *
+*    *   181
+
     *   Almaty
 
-    *   17
-
-    *   (siebzehn)
+    *   14
 
 
-*    *   19
+*    *   182
 
     *   Katar
 
     *   Doha
 
-    *   13
-
-    *   (dreizehn)
+    *   14
 
 
-*    *   20
+*    *   183
 
     *   Kirgisistan
 
@@ -2222,34 +1950,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
+*    *   184
 
-*    *   21
-
-    *   Korea,
-        Demokratische Volksrepublik
+    *   Korea, Demokratische Volksrepublik
 
     *   Pjöngjang
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   22
+*    *   185
 
-    *   Korea,
-        Republik
+    *   Korea, Republik
 
     *   Seoul
 
-    *   12
-
-    *   (zwölf)
+    *   10
 
 
-*    *   23
+*    *   186
 
     *   Kuwait
 
@@ -2257,76 +1977,62 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   24
+*    *   187
 
     *   Laos
 
     *   Vientiane
 
-    *   16
-
-    *   (sechzehn)
+    *   17
 
 
-*    *   25
+*    *   188
 
     *   Libanon
 
     *   Beirut
 
-    *   14
-
-    *   (vierzehn)
+    *   16
 
 
-*    *   26
+*    *   189
 
     *   Malaysia
 
     *   Kuala Lumpur
 
-    *   13
-
-    *   (dreizehn)
+    *   9
 
 
-*    *   27
+*    *   190
 
     *   Mongolei
 
     *   Ulan Bator
 
-    *   16
-
-    *   (sechzehn)
+    *   20
 
 
-*    *   28
+*    *   191
 
     *   Myanmar
 
     *   Rangun
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   29
+*    *   192
 
     *   Nepal
 
     *   Kathmandu
 
-    *   17
-
-    *   (siebzehn)
+    *   20
 
 
-*    *   30
+*    *   193
 
     *   Oman
 
@@ -2334,10 +2040,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13
 
-    *   (dreizehn)
 
-
-*    *   31
+*    *   194
 
     *   Pakistan
 
@@ -2345,61 +2049,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17
 
-    *   (siebzehn)
 
+*    *   195
 
-*    *
-    *
     *   Karachi
 
-    *   17
-
-    *   (siebzehn)
+    *   18
 
 
-*    *   32
+*    *   196
 
     *   Philippinen
 
     *   Manila
 
-    *   15
-
-    *   (fünfzehn)
+    *   14
 
 
-*    *   33
+*    *   197
 
     *   Saudi-Arabien
 
     *   Riad
 
-    *   15
-
-    *   (fünfzehn)
+    *   18
 
 
-*    *
-    *
+*    *   198
+
     *   Djidda
 
-    *   15
-
-    *   (fünfzehn)
+    *   17
 
 
-*    *   34
+*    *   199
 
     *   Singapur
 
     *   Singapur
 
-    *   11
-
-    *   (elf)
+    *   10
 
 
-*    *   35
+*    *   200
 
     *   Sri Lanka
 
@@ -2407,32 +2099,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15
 
-    *   (fünfzehn)
 
-
-*    *   36
+*    *   201
 
     *   Syrien
 
     *   Damaskus
 
-    *   17
-
-    *   (siebzehn)
+    *   19
 
 
-*    *   37
+*    *   202
 
     *   Tadschikistan
 
     *   Duschanbe
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   38
+*    *   203
 
     *   Thailand
 
@@ -2440,10 +2126,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14
 
-    *   (vierzehn)
 
-
-*    *   39
+*    *   204
 
     *   Turkmenistan
 
@@ -2451,41 +2135,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18
 
-    *   (achtzehn)
 
-
-*    *   40
+*    *   205
 
     *   Usbekistan
 
     *   Taschkent
 
-    *   18
-
-    *   (achtzehn)
+    *   19
 
 
-*    *   41
+*    *   206
 
-    *   Vereinigte Arabische Emirate
+    *   Vereinigte Arabische
+        Emirate
 
     *   Abu Dhabi
 
-    *   12
-
-    *   (zwölf)
+    *   13
 
 
-*    *
-    *
+*    *   207
+
     *   Dubai
 
     *   12
 
-    *   (zwölf)
 
-
-*    *   42
+*    *   208
 
     *   Vietnam
 
@@ -2493,105 +2170,84 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   209
 
-*    *
-    *
     *   Ho-Chi-Minh-Stadt
 
-    *   16
-
-    *   (sechzehn)
+    *   18
 
 
 *    *   Abschnitt 5
         **Australien und Neuseeland**
 
 
-*    *   1
+*    *   210
 
     *   Australien
 
     *   Canberra
 
-    *   7
-
-    *   (sieben)
+    *   9
 
 
-*    *
-    *
-    *   Melbourne
+*    *   211
 
-    *   7
-
-    *   (sieben)
-
-
-*    *
-    *
     *   Sydney
 
-    *   6
-
-    *   (sechs)
+    *   8
 
 
-*    *   2
+*    *   212
 
     *   Neuseeland
 
     *   Wellington
 
-    *   6
-
-    *   (sechs)
+    *   7
 
 
-*    *
+*    *   Abschnitt 6
+        **Weitere Dienstorte**
+
+
+*    *   213
+
     *
-    *
-    *
-    *
-
-*    *
-    *   Palästinensisches
-        Autonomiegebiet
-
-    *   Ramallah
+    *   Ramallah (Palästinensisches Autonomiegebiet)
 
     *   16
 
-    *   (sechzehn)
 
+*    *   214
 
-*    *
-    *   Taiwan
+    *
+    *   Taipei (Taiwan)
 
-    *   Taipei
-
-    *   13
-
-    *   (dreizehn)
+    *   12
 
 
 
 
 ## Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2010, 1185;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2022, 103 - 104)
 
 
-*    *   lfd.
-        Nr.
-
+*    *
     *   Staat
 
     *   Dienstort
 
     *   Zonenstufe
+
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
 
 
 *    *   Abschnitt 1
@@ -2600,133 +2256,507 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1
 
-    *   Belgien
+    *   Frankreich
 
-    *   Casteau (Shape)
+    *   Le Luc/Le Cannet-des-Maures/ Draguignan
 
-    *   3
-
-    *   (drei)
+    *   4
 
 
 *    *   2
 
-    *   Italien
-
-    *   Decimomannu
+    *   Nancy/Toul
 
     *   3
-
-    *   (drei)
 
 
 *    *   3
 
-    *   Niederlande
+    *   Italien
 
-    *   Brunssum
+    *   Catania/Sigonella/Lentini/Motta Sant´Anastasia
+
+    *   4
+
+
+*    *   4
+
+    *   Ghedi
+
+    *   4
+
+
+*    *   5
+
+    *   Neapel/Giugliano
+
+    *   4
+
+
+*    *   6
+
+    *   Poggio Renatico/Ferrara
+
+    *   4
+
+
+*    *   7
+
+    *   Turin
 
     *   2
 
-    *   (zwei)
+
+*    *   8
+
+    *   Litauen
+
+    *   Rukla
+
+    *   9
 
 
-*    *
+*    *   9
+
+    *   Norwegen
+
+    *   Stavanger
+
+    *   3
+
+
+*    *   10
+
+    *   Polen
+
+    *   Stettin
+
+    *   5
+
+
+*    *   11
+
+    *   Spanien
+
+    *   Albacete
+
+    *   3
+
+
+*    *   12
+
+    *   Betera
+
+    *   2
+
+
+*    *   13
+
+    *   Rota
+
+    *   2
+
+
+*    *   14
+
+    *   Saragossa
+
+    *   3
+
+
+*    *   15
+
+    *   Sevilla
+
+    *   2
+
+
+*    *   16
+
+    *   Valencia
+
+    *   2
+
+
+*    *   17
+
+    *   Tschechische Republik
+
+    *   Vyškov
+
+    *   5
+
+
+*    *   18
+
+    *   Vereinigtes Königreich
+
+    *   Andover (Hants)
+
+    *   4
+
+
+*    *   19
+
+    *   Bicester
+
+    *   3
+
+
+*    *   20
+
+    *   Blackwater
+
+    *   3
+
+
+*    *   21
+
+    *   Blandford
+
+    *   4
+
+
+*    *   22
+
+    *   Brize Norton
+
+    *   3
+
+
+*    *   23
+
+    *   Bristol
+
+    *   3
+
+
+*    *   24
+
+    *   Camberley
+
+    *   3
+
+
+*    *   25
+
+    *   Coningsby
+
+    *   4
+
+
+*    *   26
+
+    *   Culdrose/Helston
+
+    *   3
+
+
+*    *   27
+
+    *   Fareham
+
+    *   3
+
+
+*    *   28
+
+    *   High Wycombe/Waters Ash
+
+    *   3
+
+
+*    *   29
+
+    *   Honington
+
+    *   3
+
+
+*    *   30
+
+    *   Huntingdon
+
+    *   3
+
+
+*    *   31
+
+    *   Innsworth
+
+    *   3
+
+
+*    *   32
+
+    *   Lossiemouth
+
+    *   4
+
+
+*    *   33
+
+    *   Plymouth
+
+    *   3
+
+
+*    *   34
+
+    *   Portsmouth
+
+    *   3
+
+
+*    *   35
+
     *
-    *   Eibergen
+    *   Preston/Warton
 
-    *   2
+    *   3
 
-    *   (zwei)
+
+*    *   36
+
+    *   Salisbury
+
+    *   4
+
+
+*    *   37
+
+    *   Shrivenham/Swindon
+
+    *   3
+
+
+*    *   38
+
+    *   Warminster
+
+    *   4
+
+
+*    *   39
+
+    *   Yeovil
+
+    *   4
 
 
 *    *   Abschnitt 2
         **Amerika**
 
 
-*    *   1
+*    *   40
 
     *   Kanada
 
-    *   Cold Lake, Alberta
+    *   Cold Lake
 
-    *   8
-
-    *   (acht)
+    *   9
 
 
-*    *
-    *
-    *   Winnipeg, Manitoba
+*    *   41
 
-    *   8
+    *   Southport/Portage la Prairie
 
-    *   (acht)
+    *   9
 
 
-*    *   2
+*    *   42
 
     *   Vereinigte Staaten
-        von Amerika
 
-    *   Albuquerque, New Mexico
+    *   Alamogordo (New Mexico)
+
+    *   8
+
+
+*    *   43
+
+    *   Charleston AFB (South Carolina)
 
     *   7
 
-    *   (sieben)
+
+*    *   44
+
+    *   Colorado Springs (Colorado)
+
+    *   8
 
 
-*    *
-    *   Fort Benning, Georgia
+*    *   45
+
+    *   Dallas (Texas)
+
+    *   8
+
+
+*    *   46
+
+    *   Dayton (Ohio)
+
+    *   8
+
+
+*    *   47
+
+    *   El Paso/Fort Bliss (Texas)
+
+    *   8
+
+
+*    *   48
+
+    *   Fort Benning (Georgia)
+
+    *   8
+
+
+*    *   49
+
+    *   Fort Bragg/Fayetteville (North Carolina)
+
+    *   8
+
+
+*    *   50
+
+    *   Fort Gordon (Georgia)
+
+    *   8
+
+
+*    *   51
+
+    *   Fort Leavenworth (Kansas)
 
     *   9
 
-    *   (neun)
+
+*    *   52
+
+    *   Fort Lee (Virginia)
+
+    *   7
 
 
-*    *
-    *
-    *   Fort Rucker, Alabama
+*    *   53
+
+    *   Fort Leonard Wood (Missouri)
+
+    *   10
+
+
+*    *   54
+
+    *   Fort Rucker/Enterprise
+        (Alabama)
 
     *   9
 
-    *   (neun)
 
+*    *   55
 
-*    *
-    *
-    *   Fort Sill, Oklahoma
-
-    *   7
-
-    *   (sieben)
-
-
-*    *
-    *
-    *   Kirtland AFB, New Mexico
-
-    *   7
-
-    *   (sieben)
-
-
-*    *
-    *
-    *   Maxwell AFB, Alabama
+    *   Fort Sill (Oklahoma)
 
     *   9
 
-    *   (neun)
+
+*    *   56
+
+    *   Goodyear/Phoenix (Arizona)
+
+    *   9
 
 
-*    *
-    *
-    *   Sheppard AFB, Texas
+*    *   57
+
+    *   Huntsville/Redstone AFB
+        (Alabama)
+
+    *   8
+
+
+*    *   58
+
+    *   Jacksonville/Mayport (Florida)
+
+    *   8
+
+
+*    *   59
+
+    *   Kirtland AFB/Albuquerque (New Mexico)
+
+    *   8
+
+
+*    *   60
+
+    *   Las Vegas/Nellis AFB (Nevada)
 
     *   7
 
-    *   (sieben)
+
+*    *   61
+
+    *   Maxwell/Montgomery (Alabama)
+
+    *   8
+
+
+*    *   62
+
+    *   Norfolk/Suffolk/Langley AFB/ Newport News/Virginia Beach (Virginia)
+
+    *   7
+
+
+*    *   63
+
+    *   Panama City/Tyndall AFB
+        (Florida)
+
+    *   9
+
+
+*    *   64
+
+    *   Pensacola/Eglin AFB (Florida)
+
+    *   9
+
+
+*    *   65
+
+    *   Reston/Dulles Int. Airport
+        (Virginia)
+
+    *   7
+
+
+*    *   66
+
+    *   San Diego (Kalifornien)
+
+    *   7
+
+
+*    *   67
+
+    *   Sheppard AFB/Wichita Falls (Texas)
+
+    *   9
+
+
+*    *   68
+
+    *   Tucson (Arizona)
+
+    *   9
 
 
 

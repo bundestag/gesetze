@@ -17,6 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 167
 
+Stand: Hinweis: Satzungsänderungen gem. § 2 PKDBV werden mangels Veröffentlichung als Bundesrecht nicht konsolidiert.
 
 
 ## I. - Allgemeines

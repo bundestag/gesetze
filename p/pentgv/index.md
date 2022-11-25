@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2386
 
+Zuletzt geändert durch
+:   Art. 2 G v. 9.3.2021 I 324
+
 
 
 ## Eingangsformel
@@ -123,20 +126,13 @@ vollständig vorlegt.
 (1) Die Regulierungsbehörde hat die vom beantragenden Unternehmen
 vorgelegten Nachweise dahin gehend zu prüfen, ob und inwieweit die
 beantragten Entgelte sich an den Kosten der effizienten
-Leistungsbereitstellung im Sinne des Absatzes 2 orientieren und den
-Anforderungen nach § 20 Abs. 2 des Gesetzes entsprechen. Bei der
-Prüfung der Effizienz der Leistungsbereitstellung werden die
-Entscheidungen des Unternehmens bezüglich seines
+Leistungsbereitstellung im Sinne des § 20 Absatz 2 des Gesetzes
+orientieren und den Anforderungen nach § 20 Absatz 3 des Gesetzes
+entsprechen. Bei der Prüfung der Effizienz der Leistungsbereitstellung
+werden die Entscheidungen des Unternehmens bezüglich seines
 Dienstleistungsangebots berücksichtigt.
 
-(2) Die Kosten der effizienten Leistungsbereitstellung ergeben sich
-aus den langfristigen zusätzlichen Kosten der Leistungsbereitstellung
-und einem angemessenen Zuschlag für leistungsmengenneutrale
-Gemeinkosten, jeweils einschließlich eines dem unternehmerischen
-Risiko angemessenen Gewinnzuschlags, soweit diese Kosten jeweils für
-die Leistungsbereitstellung notwendig sind.
-
-(3) Im Rahmen des Absatzes 1 prüft die Regulierungsbehörde
+(2) Im Rahmen des Absatzes 1 prüft die Regulierungsbehörde
 insbesondere, ob bei der Ermittlung, Berechnung und Zuordnung der
 Kosten des beantragenden Unternehmens allgemein anerkannte
 betriebswirtschaftliche Grundsätze zugrunde liegen. Im Übrigen kann
@@ -145,23 +141,9 @@ heranziehen, die entsprechende Leistungen auf vergleichbaren Märkten
 im Wettbewerb anbieten. Dabei sind die Besonderheiten der
 Vergleichsmärkte zu berücksichtigen.
 
-(4) Soweit die nach § 2 Abs. 2 nachgewiesenen Kosten die Kosten der
-effizienten Leistungsbereitstellung nach Absatz 2 übersteigen, gelten
-sie als Aufwendungen, die für die effiziente Leistungsbereitstellung
-nicht notwendig sind. Diese Aufwendungen sowie andere neutrale
-Aufwendungen werden im Rahmen der Entgeltgenehmigung berücksichtigt,
-wenn hierfür eine rechtliche Verpflichtung besteht oder eine sonstige
-sachliche Rechtfertigung nachgewiesen wird. Dabei sind insbesondere
-die Kosten für die Einhaltung der wesentlichen Arbeitsbedingungen, die
-im lizenzierten Bereich üblich sind, sowie die Kosten einer
-flächendeckenden Versorgung mit Postdienstleistungen und die Kosten
-aus der Übernahme von Versorgungslasten für die Beschäftigten, die aus
-der Rechtsnachfolge der Deutschen Bundespost entstanden sind,
-angemessen zu berücksichtigen.
-
-(5) Die Regulierungsbehörde kann Entgeltermäßigungen oder
+(3) Die Regulierungsbehörde kann Entgeltermäßigungen oder
 Entgeltbefreiungen auch aus sozialen Gründen als sachlich
-gerechtfertigten Grund im Sinne des § 20 Abs. 2 des Gesetzes
+gerechtfertigten Grund im Sinne des § 20 Absatz 3 des Gesetzes
 anerkennen.
 
 
@@ -184,7 +166,7 @@ in einem Korb zusammengefassten Dienstleistungen festzustellen.
 
 
 3.  Nebenbedingungen, die geeignet und erforderlich sind, die Einhaltung
-    der Anforderungen nach § 20 Abs. 2 des Gesetzes zu gewährleisten.
+    der Anforderungen nach § 20 Absatz 3 des Gesetzes zu gewährleisten.
 
 
 
@@ -192,7 +174,8 @@ in einem Korb zusammengefassten Dienstleistungen festzustellen.
 (3) Bei der Vorgabe von Maßgrößen, insbesondere bei der Festlegung der
 Produktivitätsfortschrittsrate, ist das Verhältnis des
 Ausgangsentgeltniveaus zu den Kosten der effizienten
-Leistungsbereitstellung (§ 3 Abs. 2) zu berücksichtigen.
+Leistungsbereitstellung (§ 20 Absatz 2 des Gesetzes) zu
+berücksichtigen.
 
 (4) Bei der Vorgabe von Maßgrößen sind die
 Produktivitätsfortschrittsraten von Unternehmen auf vergleichbaren
@@ -273,13 +256,13 @@ gilt entsprechend.
 (1) Die Regulierungsbehörde veröffentlicht beabsichtigte
 Entscheidungen zur Zusammenfassung von Dienstleistungen nach § 1 Abs.
 2 sowie zur Vorgabe der jeweiligen Maßgrößen nach § 4 in ihrem
-Amtsblatt. Vor der Veröffentlichung nach Satz 1 soll sie dem
-Unternehmen, an das sich die Entscheidung richtet, Gelegenheit zur
-Stellungnahme geben.
+Amtsblatt und auf ihrer Internetseite. Vor der Veröffentlichung nach
+Satz 1 soll sie dem Unternehmen, an das sich die Entscheidung richtet,
+Gelegenheit zur Stellungnahme geben.
 
 (2) Bei Entgeltanträgen nach § 21 Abs. 1 Nr. 1 des Gesetzes
 veröffentlicht die Regulierungsbehörde die beantragten Entgelte in
-ihrem Amtsblatt.
+ihrem Amtsblatt und auf ihrer Internetseite.
 
 
 ### § 9 Veröffentlichung

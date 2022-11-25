@@ -1,7 +1,5 @@
-[^f774172_01_BJNR072800010]
-Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 ---
-Title: ''
+Title: Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 jurabk: PfWirtAusbV 2010
 layout: default
 origslug: pfwirtausbv_2010
@@ -9,7 +7,7 @@ slug: pfwirtausbv_2010
 
 ---
 
-#  (PfWirtAusbV 2010)
+# Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin (PfWirtAusbV 2010)
 
 Ausfertigungsdatum
 :   2010-06-07

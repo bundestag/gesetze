@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
-Zuletzt geändert durch
-:   Art. 2 G v. 16.1.2012 I 74
-
+Stand: Zuletzt geändert Art. 84 G v. 10.8.2021 I 3436
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/54/EG des
 Europäischen Parlaments und des Rates vom 26. Juni 2003 über
 gemeinsame Vorschriften für den Elektrizitätsbinnenmarkt und zur
@@ -37,12 +35,12 @@ Rates (ABl. EU Nr. L 114 S. 64).
 
 
 
-### § 1 Zweck des Gesetzes
+### § 1 Zweck und Ziele des Gesetzes
 
 (1) Zweck des Gesetzes ist eine möglichst sichere, preisgünstige,
 verbraucherfreundliche, effiziente und umweltverträgliche
-leitungsgebundene Versorgung der Allgemeinheit mit Elektrizität und
-Gas, die zunehmend auf erneuerbaren Energien beruht.
+leitungsgebundene Versorgung der Allgemeinheit mit Elektrizität, Gas
+und Wasserstoff, die zunehmend auf erneuerbaren Energien beruht.
 
 (2) Die Regulierung der Elektrizitäts- und Gasversorgungsnetze dient
 den Zielen der Sicherstellung eines wirksamen und unverfälschten
@@ -53,6 +51,76 @@ zuverlässigen Betriebs von Energieversorgungsnetzen.
 (3) Zweck dieses Gesetzes ist ferner die Umsetzung und Durchführung
 des Europäischen Gemeinschaftsrechts auf dem Gebiet der
 leitungsgebundenen Energieversorgung.
+
+(4) Um den Zweck des Absatzes 1 auf dem Gebiet der leitungsgebundenen
+Versorgung der Allgemeinheit mit Elektrizität zu erreichen, verfolgt
+dieses Gesetz insbesondere die Ziele,
+
+1.  die freie Preisbildung für Elektrizität durch wettbewerbliche
+    Marktmechanismen zu stärken,
+
+
+2.  den Ausgleich von Angebot und Nachfrage nach Elektrizität an den
+    Strommärkten jederzeit zu ermöglichen,
+
+
+3.  dass Erzeugungsanlagen, Anlagen zur Speicherung elektrischer Energie
+    und Lasten insbesondere möglichst umweltverträglich, netzverträglich,
+    effizient und flexibel in dem Umfang eingesetzt werden, der
+    erforderlich ist, um die Sicherheit und Zuverlässigkeit des
+    Elektrizitätsversorgungssystems zu gewährleisten, und
+
+
+4.  den Elektrizitätsbinnenmarkt zu stärken sowie die Zusammenarbeit
+    insbesondere mit den an das Gebiet der Bundesrepublik Deutschland
+    angrenzenden Staaten sowie mit dem Königreich Norwegen und dem
+    Königreich Schweden zu intensivieren.
+
+
+
+
+
+### § 1a Grundsätze des Strommarktes
+
+(1) Der Preis für Elektrizität bildet sich nach wettbewerblichen
+Grundsätzen frei am Markt. Die Höhe der Preise für Elektrizität am
+Großhandelsmarkt wird regulatorisch nicht beschränkt.
+
+(2) Das Bilanzkreis- und Ausgleichsenergiesystem hat eine zentrale
+Bedeutung für die Gewährleistung der
+Elektrizitätsversorgungssicherheit. Daher sollen die Bilanzkreistreue
+der Bilanzkreisverantwortlichen und eine ordnungsgemäße
+Bewirtschaftung der Bilanzkreise sichergestellt werden.
+
+(3) Es soll insbesondere auf eine Flexibilisierung von Angebot und
+Nachfrage hingewirkt werden. Ein Wettbewerb zwischen effizienten und
+flexiblen Erzeugungsanlagen, Anlagen zur Speicherung elektrischer
+Energie und Lasten, eine effiziente Kopplung des Wärme- und des
+Verkehrssektors mit dem Elektrizitätssektor sowie die Integration der
+Ladeinfrastruktur für Elektromobile in das
+Elektrizitätsversorgungssystem sollen die Kosten der Energieversorgung
+verringern, die Transformation zu einem umweltverträglichen,
+zuverlässigen und bezahlbaren Energieversorgungssystem ermöglichen und
+die Versorgungssicherheit gewährleisten.
+
+(4) Elektrizitätsversorgungsnetze sollen bedarfsgerecht unter
+Berücksichtigung des Ausbaus der Stromerzeugung aus erneuerbaren
+Energien nach § 4 des Erneuerbare-Energien-Gesetzes, der
+Versorgungssicherheit sowie volkswirtschaftlicher Effizienz ausgebaut
+werden.
+
+(5) Die Transparenz am Strommarkt soll erhöht werden.
+
+(6) Als Beitrag zur Verwirklichung des Elektrizitätsbinnenmarktes
+sollen eine stärkere Einbindung des Strommarktes in die europäischen
+Strommärkte und eine stärkere Angleichung der Rahmenbedingungen in den
+europäischen Strommärkten, insbesondere mit den an das Gebiet der
+Bundesrepublik Deutschland angrenzenden Staaten sowie dem Königreich
+Norwegen und dem Königreich Schweden, angestrebt werden. Es sollen die
+notwendigen Verbindungsleitungen ausgebaut, die Marktkopplung und der
+grenzüberschreitende Stromhandel gestärkt sowie die Regelenergiemärkte
+und die vortägigen und untertägigen Spotmärkte stärker integriert
+werden.
 
 
 ### § 2 Aufgaben der Energieversorgungsunternehmen
@@ -69,7 +137,24 @@ in Verbindung mit § 14, unberührt.
 
 Im Sinne dieses Gesetzes bedeutet
 
-1.  Ausgleichsleistungen
+1.  Abrechnungsinformationen
+
+    Informationen, die üblicherweise in Rechnungen über die
+    Energiebelieferung von Letztverbrauchern zur Ermittlung des
+    Rechnungsbetrages enthalten sind, mit Ausnahme der
+    Zahlungsaufforderung selbst,
+
+
+1a. Aggregatoren
+
+    natürliche oder juristische Personen oder rechtlich unselbständige
+    Organisationseinheiten eines Energieversorgungsunternehmens, die eine
+    Tätigkeit ausüben, bei der Verbrauch oder Erzeugung von elektrischer
+    Energie in Energieanlagen oder in Anlagen zum Verbrauch elektrischer
+    Energie auf einem Elektrizitätsmarkt gebündelt angeboten werden,
+
+
+1b. Ausgleichsleistungen
 
     Dienstleistungen zur Bereitstellung von Energie, die zur Deckung von
     Verlusten und für den Ausgleich von Differenzen zwischen Ein- und
@@ -77,14 +162,14 @@ Im Sinne dieses Gesetzes bedeutet
     gehört,
 
 
-1a. Ausspeisekapazität
+1c. Ausspeisekapazität
 
     im Gasbereich das maximale Volumen pro Stunde in Normkubikmeter, das
     an einem Ausspeisepunkt aus einem Netz oder Teilnetz insgesamt
     ausgespeist und gebucht werden kann,
 
 
-1b. Ausspeisepunkt
+1d. Ausspeisepunkt
 
     ein Punkt, an dem Gas aus einem Netz oder Teilnetz eines
     Netzbetreibers entnommen werden kann,
@@ -137,14 +222,22 @@ Im Sinne dieses Gesetzes bedeutet
 
 
 
-6.  Betreiber von Gasversorgungsnetzen
+6.  Betreiber von Gasspeicheranlagen
+
+    natürliche oder juristische Personen oder rechtlich unselbständige
+    Organisationseinheiten eines Energieversorgungsunternehmens, die die
+    Aufgabe der Speicherung von Erdgas wahrnehmen und für den Betrieb
+    einer Gasspeicheranlage verantwortlich sind,
+
+
+7.  Betreiber von Gasversorgungsnetzen
 
     natürliche oder juristische Personen oder rechtlich unselbständige
     Organisationseinheiten eines Energieversorgungsunternehmens, die
     Gasversorgungsnetze betreiben,
 
 
-7.  Betreiber von Gasverteilernetzen
+8.  Betreiber von Gasverteilernetzen
 
     natürliche oder juristische Personen oder rechtlich unselbständige
     Organisationseinheiten eines Energieversorgungsunternehmens, die die
@@ -154,21 +247,13 @@ Im Sinne dieses Gesetzes bedeutet
     Verbindungsleitungen zu anderen Netzen,
 
 
-8.  Betreiber von LNG-Anlagen
+9.  Betreiber von LNG-Anlagen
 
     natürliche oder juristische Personen oder rechtlich unselbständige
     Organisationseinheiten eines Energieversorgungsunternehmens, die die
     Aufgabe der Verflüssigung von Erdgas oder der Einfuhr, Entladung und
     Wiederverdampfung von verflüssigtem Erdgas wahrnehmen und für den
     Betrieb einer LNG-Anlage verantwortlich sind,
-
-
-9.  Betreiber von Speicheranlagen
-
-    natürliche oder juristische Personen oder rechtlich unselbständige
-    Organisationseinheiten eines Energieversorgungsunternehmens, die die
-    Aufgabe der Speicherung von Erdgas wahrnehmen und für den Betrieb
-    einer Speicheranlage verantwortlich sind,
 
 
 10. Betreiber von Übertragungsnetzen
@@ -182,7 +267,29 @@ Im Sinne dieses Gesetzes bedeutet
     anderen Netzen,
 
 
-10a. Bilanzkreis
+10a. Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+
+    die Unternehmen 50Hertz Transmission GmbH, Amprion GmbH, TenneT TSO
+    GmbH und TransnetBW GmbH sowie ihre Rechtsnachfolger,
+
+
+10b. Betreiber von Wasserstoffnetzen
+
+    natürliche oder juristische Personen, die die Aufgabe des Transports
+    oder der Verteilung von Wasserstoff wahrnehmen und verantwortlich sind
+    für den Betrieb, die Wartung sowie erforderlichenfalls den Ausbau des
+    Wasserstoffnetzes,
+
+
+10c. Betreiber von Wasserstoffspeicheranlagen
+
+    natürliche oder juristische Personen oder rechtlich unselbständige
+    Organisationseinheiten eines Energieversorgungsunternehmens, die die
+    Aufgabe der Speicherung von Wasserstoff wahrnehmen und für den Betrieb
+    einer Wasserstoffspeicheranlage verantwortlich sind,
+
+
+10d. Bilanzkreis
 
     im Elektrizitätsbereich innerhalb einer Regelzone die Zusammenfassung
     von Einspeise- und Entnahmestellen, die dem Zweck dient, Abweichungen
@@ -190,13 +297,13 @@ Im Sinne dieses Gesetzes bedeutet
     minimieren und die Abwicklung von Handelstransaktionen zu ermöglichen,
 
 
-10b. Bilanzzone
+10e. Bilanzzone
 
     im Gasbereich der Teil eines oder mehrerer Netze, in dem Ein- und
     Ausspeisepunkte einem bestimmten Bilanzkreis zugeordnet werden können,
 
 
-10c. Biogas
+10f. Biogas
 
     Biomethan, Gas aus Biomasse, Deponiegas, Klärgas und Grubengas sowie
     Wasserstoff, der durch Wasserelektrolyse erzeugt worden ist, und
@@ -246,7 +353,7 @@ Im Sinne dieses Gesetzes bedeutet
 
 14. Energie
 
-    Elektrizität und Gas, soweit sie zur leitungsgebundenen
+    Elektrizität, Gas und Wasserstoff, soweit sie zur leitungsgebundenen
     Energieversorgung verwendet werden,
 
 
@@ -279,11 +386,25 @@ Im Sinne dieses Gesetzes bedeutet
     Energietransport und Energienutzung,
 
 
+15c. Energielieferant
+
+    Gaslieferant oder Stromlieferant,
+
+
+15d. Energiespeicheranlagen
+
+    Anlagen, die elektrische Energie zum Zwecke der elektrischen,
+    chemischen, mechanischen oder physikalischen Zwischenspeicherung
+    verbrauchen und als elektrische Energie erzeugen oder in einer anderen
+    Energieform wieder abgeben,
+
+
 16. Energieversorgungsnetze
 
     Elektrizitätsversorgungsnetze und Gasversorgungsnetze über eine oder
     mehrere Spannungsebenen oder Druckstufen mit Ausnahme von
-    Kundenanlagen im Sinne der Nummern 24a und 24b,
+    Kundenanlagen im Sinne der Nummern 24a und 24b sowie im Rahmen von
+    Teil 5 dieses Gesetzes Wasserstoffnetze,
 
 
 17. Energieversorgungsnetze der allgemeinen Versorgung
@@ -311,9 +432,26 @@ Im Sinne dieses Gesetzes bedeutet
     von Energiederivaten,
 
 
-18b. Erneuerbare Energien
+18b. Erlösobergrenze
 
-    Energie im Sinne des § 3 Nr. 3 des Erneuerbare-Energien-Gesetzes,
+    Obergrenzen der zulässigen Gesamterlöse eines Netzbetreibers aus den
+    Netzentgelten,
+
+
+18c. erneuerbare Energien
+
+    Energien im Sinne des § 3 Nummer 21 des Erneuerbare-Energien-Gesetzes,
+
+
+18d. Erzeugungsanlage
+
+    Anlage zur Erzeugung von elektrischer Energie,
+
+
+18e. europäische Strommärkte
+
+    die Strommärkte der Mitgliedstaaten der Europäischen Union sowie der
+    Schweizerischen Eidgenossenschaft und des Königreichs Norwegen,
 
 
 19. Fernleitung
@@ -339,10 +477,27 @@ Im Sinne dieses Gesetzes bedeutet
     Letztverbrauchern ausgerichtet ist,
 
 
+19c. Gasspeicheranlage
+
+    eine einem Gasversorgungsunternehmen gehörende oder von ihm betriebene
+    Anlage zur Speicherung von Gas, einschließlich des zu Speicherzwecken
+    genutzten Teils von LNG-Anlagen, jedoch mit Ausnahme des Teils, der
+    für eine Gewinnungstätigkeit genutzt wird, ausgenommen sind auch
+    Einrichtungen, die ausschließlich Betreibern von Leitungsnetzen bei
+    der Wahrnehmung ihrer Aufgaben vorbehalten sind,
+
+
+19d. Gasverbindungsleitungen mit Drittstaaten
+
+    Fernleitungen zwischen einem Mitgliedstaat der Europäischen Union und
+    einem Drittstaat bis zur Grenze des Hoheitsgebietes der
+    Mitgliedstaaten oder dem Küstenmeer dieses Mitgliedstaates,
+
+
 20. Gasversorgungsnetze
 
     alle Fernleitungsnetze, Gasverteilernetze, LNG-Anlagen oder
-    Speicheranlagen, die für den Zugang zur Fernleitung, zur Verteilung
+    Gasspeicheranlagen, die für den Zugang zur Fernleitung, zur Verteilung
     und zu LNG-Anlagen erforderlich sind und die einem oder mehreren
     Energieversorgungsunternehmen gehören oder von ihm oder von ihnen
     betrieben werden, einschließlich Netzpufferung und seiner Anlagen, die
@@ -352,12 +507,28 @@ Im Sinne dieses Gesetzes bedeutet
     werden,
 
 
+20a. grenzüberschreitende Elektrizitätsverbindungsleitungen
+
+    Übertragungsleitungen zur Verbundschaltung von Übertragungsnetzen
+    einschließlich aller Anlagengüter bis zum jeweiligen
+    Netzverknüpfungspunkt, die eine Grenze zwischen Mitgliedstaaten oder
+    zwischen einem Mitgliedstaat und einem Staat, der nicht der
+    Europäischen Union angehört, queren oder überspannen und einzig dem
+    Zweck dienen, die nationalen Übertragungsnetze dieser Staaten zu
+    verbinden,
+
+
 21. Großhändler
 
     natürliche oder juristische Personen mit Ausnahme von Betreibern von
-    Übertragungs-, Fernleitungs- sowie Elektrizitäts- und
+    Übertragungs-, Fernleitungs-, Wasserstoff- sowie Elektrizitäts- und
     Gasverteilernetzen, die Energie zum Zwecke des Weiterverkaufs
     innerhalb oder außerhalb des Netzes, in dem sie ansässig sind, kaufen,
+
+
+21a. H-Gasversorgungsnetz
+
+    ein Gasversorgungsnetz zur Versorgung von Kunden mit H-Gas,
 
 
 22. Haushaltskunden
@@ -373,11 +544,18 @@ Im Sinne dieses Gesetzes bedeutet
     sämtliche zum Betrieb eines Übertragungs- oder
     Elektrizitätsverteilernetzes erforderlichen Dienste oder sämtliche für
     den Zugang zu und den Betrieb von Fernleitungs- oder
-    Gasverteilernetzen oder LNG-Anlagen oder Speicheranlagen
+    Gasverteilernetzen oder LNG-Anlagen oder Gasspeicheranlagen
     erforderlichen Dienste, einschließlich Lastausgleichs- und
     Mischungsanlagen, jedoch mit Ausnahme von Anlagen, die ausschließlich
     Betreibern von Fernleitungsnetzen für die Wahrnehmung ihrer Aufgaben
     vorbehalten sind,
+
+
+23a. Kleinstunternehmen
+
+    ein Unternehmen, das weniger als zehn Personen beschäftigt und dessen
+    Jahresumsatz oder dessen Jahresbilanzsumme 2  Millionen Euro nicht
+    überschreitet,
 
 
 24. Kunden
@@ -436,10 +614,41 @@ Im Sinne dieses Gesetzes bedeutet
 
 
 
+24c. L-Gasversorgungsnetz
+
+    ein Gasversorgungsnetz zur Versorgung von Kunden mit L-Gas,
+
+
+24d. landseitige Stromversorgung
+
+    die mittels einer Standardschnittstelle von Land aus erbrachte
+    Stromversorgung von Seeschiffen oder Binnenschiffen am Liegeplatz,
+
+
+24e. Landstromanlagen
+
+    die Gesamtheit der technischen Infrastruktur aus den technischen
+    Anlagen zur Frequenz- und Spannungsumrichtung, der
+    Standardschnittstelle einschließlich der zugehörigen
+    Verbindungsleitungen, die
+
+    a)  sich in einem räumlich zusammengehörigen Gebiet in oder an einem Hafen
+        befinden und
+
+
+    b)  ausschließlich der landseitigen Stromversorgung von Schiffen dienen,
+
+
+
+
+
 25. Letztverbraucher
 
     Natürliche oder juristische Personen, die Energie für den eigenen
-    Verbrauch kaufen,
+    Verbrauch kaufen; auch der Strombezug der Ladepunkte für Elektromobile
+    und der Strombezug für Landstromanlagen steht dem Letztverbrauch im
+    Sinne dieses Gesetzes und den auf Grund dieses Gesetzes erlassenen
+    Verordnungen gleich,
 
 
 26. LNG-Anlage
@@ -471,7 +680,8 @@ Im Sinne dieses Gesetzes bedeutet
 
 27. Netzbetreiber
 
-    Netz- oder Anlagenbetreiber im Sinne der Nummern 2 bis 7 und 10,
+    Netz- oder Anlagenbetreiber im Sinne der Nummern 2 bis 5, 7 und 8, 10
+    und 10a,
 
 
 28. Netznutzer
@@ -521,36 +731,62 @@ Im Sinne dieses Gesetzes bedeutet
     Transports elektrischer Energie (UCTE) verantwortlich ist,
 
 
-31. Speicheranlage
+31. selbstständige Betreiber von grenzüberschreitenden
+    Elektrizitätsverbindungsleitungen
 
-    eine einem Gasversorgungsunternehmen gehörende oder von ihm betriebene
-    Anlage zur Speicherung von Gas, einschließlich des zu Speicherzwecken
-    genutzten Teils von LNG-Anlagen, jedoch mit Ausnahme des Teils, der
-    für eine Gewinnungstätigkeit genutzt wird, ausgenommen sind auch
-    Einrichtungen, die ausschließlich Betreibern von Leitungsnetzen bei
-    der Wahrnehmung ihrer Aufgaben vorbehalten sind,
+    Betreiber von Übertragungsnetzen, die eine oder mehrere
+    grenzüberschreitende Elektrizitätsverbindungsleitungen betreiben, ohne
+
+    a)  Betreiber von Übertragungsnetzen mit Regelzonenverantwortung zu sein,
+        oder
 
 
-31a. Teilnetz
+    b)  mit einem Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+        im Sinne des Artikels 3 Absatz 2 der Verordnung (EG) Nr. 139/2004 des
+        Rates vom 20. Januar 2004 über die Kontrolle von
+        Unternehmenszusammenschlüssen (ABl. L 24 vom 29.1.2004, S. 1)
+        verbunden zu sein,
+
+
+
+
+
+31a. Stromlieferanten
+
+    natürliche und juristische Personen, deren Geschäftstätigkeit ganz
+    oder teilweise auf den Vertrieb von Elektrizität zum Zwecke der
+    Belieferung von Letztverbrauchern ausgerichtet ist,
+
+
+31b. Stromliefervertrag mit dynamischen Tarifen
+
+    ein Stromliefervertrag mit einem Letztverbraucher, in dem die
+    Preisschwankungen auf den Spotmärkten, einschließlich der Day-Ahead-
+    und Intraday-Märkte, in Intervallen widergespiegelt werden, die
+    mindestens den Abrechnungsintervallen des jeweiligen Marktes
+    entsprechen,
+
+
+31c. Teilnetz
 
     im Gasbereich ein Teil des Transportgebiets eines oder mehrerer
     Netzbetreiber, in dem ein Transportkunde gebuchte Kapazitäten an Ein-
     und Ausspeisepunkten flexibel nutzen kann,
 
 
-31b. Transportkunde
+31d. Transportkunde
 
     im Gasbereich Großhändler, Gaslieferanten einschließlich der
     Handelsabteilung eines vertikal integrierten Unternehmens und
     Letztverbraucher,
 
 
-31c. Transportnetzbetreiber
+31e. Transportnetzbetreiber
 
     jeder Betreiber eines Übertragungs- oder Fernleitungsnetzes,
 
 
-31d. Transportnetz
+31f. Transportnetz
 
     jedes Übertragungs- oder Fernleitungsnetz,
 
@@ -634,6 +870,21 @@ Im Sinne dieses Gesetzes bedeutet
     wahrnimmt,
 
 
+38a. volatile Erzeugung
+
+    Erzeugung von Strom aus Windenergieanlagen und aus solarer
+    Strahlungsenergie,
+
+
+38b. vollständig integrierte Netzkomponenten
+
+    Netzkomponenten, die in das Übertragungs- oder Verteilernetz
+    integriert sind, einschließlich Energiespeicheranlagen, und die
+    ausschließlich der Aufrechterhaltung des sicheren und zuverlässigen
+    Netzbetriebs und nicht der Bereitstellung von Regelenergie oder dem
+    Engpassmanagement dienen,
+
+
 39. vorgelagertes Rohrleitungsnetz
 
     Rohrleitungen oder ein Netz von Rohrleitungen, deren Betrieb oder Bau
@@ -642,7 +893,35 @@ Im Sinne dieses Gesetzes bedeutet
     Aufbereitungsanlage, zu einem Terminal oder zu einem an der Küste
     gelegenen Endanlandeterminal zu leiten, mit Ausnahme solcher Netzteile
     oder Teile von Einrichtungen, die für örtliche Produktionstätigkeiten
-    verwendet werden.
+    verwendet werden,
+
+
+39a. Wasserstoffnetz
+
+    ein Netz zur Versorgung von Kunden ausschließlich mit Wasserstoff, das
+    von der Dimensionierung nicht von vornherein nur auf die Versorgung
+    bestimmter, schon bei der Netzerrichtung feststehender oder
+    bestimmbarer Kunden ausgelegt ist, sondern grundsätzlich für die
+    Versorgung jedes Kunden offensteht, dabei umfasst es unabhängig vom
+    Durchmesser Wasserstoffleitungen zum Transport von Wasserstoff nebst
+    allen dem Leitungsbetrieb dienenden Einrichtungen, insbesondere
+    Entspannungs-, Regel- und Messanlagen sowie Leitungen oder
+    Leitungssysteme zur Optimierung des Wasserstoffbezugs und der
+    Wasserstoffdarbietung,
+
+
+39b. Wasserstoffspeicheranlagen
+
+    eine einem Energieversorgungsunternehmen gehörende oder von ihm
+    betriebene Anlage zur Speicherung von Wasserstoff, mit Ausnahme von
+    Einrichtungen, die ausschließlich Betreibern von Wasserstoffnetzen bei
+    der Wahrnehmung ihrer Aufgaben vorbehalten sind,
+
+
+40. Winterhalbjahr
+
+    der Zeitraum vom 1. Oktober eines Jahres bis zum 31. März des
+    Folgejahres.
 
 
 
@@ -673,8 +952,8 @@ dessen Aufnahme keine Genehmigung erforderlich war.
 
 (3) Im Falle der Gesamtrechtsnachfolge oder der Rechtsnachfolge nach
 dem Umwandlungsgesetz oder in sonstigen Fällen der rechtlichen
-Entflechtung des Netzbetriebs nach § 7 geht die Genehmigung auf den
-Rechtsnachfolger über.
+Entflechtung des Netzbetriebs nach § 7 oder den §§ 8 bis 10 geht die
+Genehmigung auf den Rechtsnachfolger über.
 
 (4) Die nach Landesrecht zuständige Behörde kann bei einem Verstoß
 gegen Absatz 1 den Netzbetrieb untersagen oder den Netzbetreiber durch
@@ -719,24 +998,23 @@ Antragsunterlagen nach Absatz 2 zur Verfügung zu stellen.
 
 (6) Die Regulierungsbehörde hat binnen zwei Monaten nach Zugang der
 Stellungnahme der Europäischen Kommission oder nach Ablauf der Frist
-des Artikels 3 Absatz 1 der Verordnung (EG) Nr. 714/2009 des
-Europäischen Parlaments und des Rates vom 13. Juli 2009 über die
-Netzzugangsbedingungen für den grenzüberschreitenden Stromhandel und
-zur Aufhebung der Verordnung (EG) Nr. 1228/2003 (ABl. L 211 vom
-14\.8.2009, S. 15) oder des Artikels 3 Absatz 1 der Verordnung (EG) Nr.
-715/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009
-über die Bedingungen für den Zugang zu den Erdgasfernleitungsnetzen
-und zur Aufhebung der Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom
-14\.8.2009, S. 36, L 229 vom 1.9.2009, S. 29), ohne dass der
-Regulierungsbehörde eine Stellungnahme der Europäischen Kommission
-zugegangen ist, eine Entscheidung zu treffen. Hat die Europäische
-Kommission eine Stellungnahme übermittelt, berücksichtigt die
-Regulierungsbehörde diese so weit wie möglich in ihrer Entscheidung.
-Die Entscheidung wird zusammen mit der Stellungnahme der Europäischen
-Kommission im Amtsblatt der Bundesnetzagentur in nicht
-personenbezogener Form bekannt gegeben. Trifft die Regulierungsbehörde
-innerhalb der Frist nach Satz 1 keine Entscheidung, gilt der
-betreffende Transportnetzbetreiber bis zu einer Entscheidung der
+des Artikels 51 Absatz 1 der Verordnung (EU) Nr. 2019/943 des
+Europäischen Parlaments und des Rates vom 5. Juni 2019 über den
+Elektrizitätsbinnenmarkt (ABl. L 158 vom 14.6.2019, S. 54) oder des
+Artikels 3 Absatz 1 der Verordnung (EG) Nr. 715/2009 des Europäischen
+Parlaments und des Rates vom 13. Juli 2009 über die Bedingungen für
+den Zugang zu den Erdgasfernleitungsnetzen und zur Aufhebung der
+Verordnung (EG) Nr. 1775/2005 (ABl. L 211 vom 14.8.2009, S. 36, L 229
+vom 1.9.2009, S. 29), ohne dass der Regulierungsbehörde eine
+Stellungnahme der Europäischen Kommission zugegangen ist, eine
+Entscheidung zu treffen. Hat die Europäische Kommission eine
+Stellungnahme übermittelt, berücksichtigt die Regulierungsbehörde
+diese so weit wie möglich in ihrer Entscheidung. Die Entscheidung wird
+zusammen mit der Stellungnahme der Europäischen Kommission im
+Amtsblatt der Bundesnetzagentur in nicht personenbezogener Form
+bekannt gegeben. Trifft die Regulierungsbehörde innerhalb der Frist
+nach Satz 1 keine Entscheidung, gilt der betreffende
+Transportnetzbetreiber bis zu einer Entscheidung der
 Regulierungsbehörde als zertifiziert.
 
 (7) Mit der Bekanntgabe der Zertifizierung im Amtsblatt der
@@ -745,7 +1023,7 @@ benannt. Die Regulierungsbehörde teilt der Europäischen Kommission die
 Benennung mit. Die Benennung eines Unabhängigen Systembetreibers im
 Sinne des § 9 erfordert die Zustimmung der Europäischen Kommission.
 
-(8) Artikel 3 der Verordnung (EG) Nr. 714/2009 und Artikel 3 der
+(8) Artikel 51 der Verordnung (EU) Nr. 2019/943 und Artikel 3 der
 Verordnung (EG) Nr. 715/2009 bleiben unberührt.
 
 
@@ -766,23 +1044,22 @@ von einer oder mehreren Personen aus einem oder mehreren Drittstaaten
 allein oder gemeinsam kontrolliert, ist die Zertifizierung nur zu
 erteilen, wenn der Transportnetzbetreiber oder der
 Transportnetzeigentümer den Anforderungen der §§ 8 oder 9 oder der §§
-10 bis 10e genügt und das Bundesministerium für Wirtschaft und
-Technologie feststellt, dass die Erteilung der Zertifizierung die
-Sicherheit der Elektrizitäts- oder Gasversorgung der Bundesrepublik
-Deutschland und der Europäischen Union nicht gefährdet. Der
-Antragsteller hat mit der Antragstellung nach Absatz 1 zusätzlich beim
-Bundesministerium für Wirtschaft und Technologie die zur Beurteilung
-der Auswirkungen auf die Versorgungssicherheit erforderlichen
-Unterlagen einzureichen.
-
-(3) Das Bundesministerium für Wirtschaft und Technologie übermittelt
-der Regulierungsbehörde binnen drei Monaten nach Eingang der
-vollständigen erforderlichen Unterlagen nach Absatz 2 Satz 2 seine
-Bewertung, ob die Erteilung der Zertifizierung die Sicherheit der
+10 bis 10e genügt und das Bundesministerium für Wirtschaft und Energie
+feststellt, dass die Erteilung der Zertifizierung die Sicherheit der
 Elektrizitäts- oder Gasversorgung der Bundesrepublik Deutschland und
-der Europäischen Union gefährdet. Bei seiner Bewertung der
-Auswirkungen auf die Versorgungssicherheit berücksichtigt das
-Bundesministerium für Wirtschaft und Technologie
+der Europäischen Union nicht gefährdet. Der Antragsteller hat mit der
+Antragstellung nach Absatz 1 zusätzlich beim Bundesministerium für
+Wirtschaft und Energie die zur Beurteilung der Auswirkungen auf die
+Versorgungssicherheit erforderlichen Unterlagen einzureichen.
+
+(3) Das Bundesministerium für Wirtschaft und Energie übermittelt der
+Regulierungsbehörde binnen drei Monaten nach Eingang der vollständigen
+erforderlichen Unterlagen nach Absatz 2 Satz 2 seine Bewertung, ob die
+Erteilung der Zertifizierung die Sicherheit der Elektrizitäts- oder
+Gasversorgung der Bundesrepublik Deutschland und der Europäischen
+Union gefährdet. Bei seiner Bewertung der Auswirkungen auf die
+Versorgungssicherheit berücksichtigt das Bundesministerium für
+Wirtschaft und Energie
 
 1.  die Rechte und Pflichten der Europäischen Union gegenüber diesem
     Drittstaat, die aus dem Völkerrecht, auch aus einem Abkommen mit einem
@@ -805,8 +1082,8 @@ Bundesministerium für Wirtschaft und Technologie
 
 (4) Vor einer Entscheidung der Regulierungsbehörde über die
 Zertifizierung des Betriebs eines Transportnetzes bitten
-Regulierungsbehörde und Bundesministerium für Wirtschaft und
-Technologie die Europäische Kommission um Stellungnahme, ob der
+Regulierungsbehörde und Bundesministerium für Wirtschaft und Energie
+die Europäische Kommission um Stellungnahme, ob der
 Transportnetzbetreiber oder der Transportnetzeigentümer den
 Anforderungen der §§ 8 oder 9 oder der §§ 10 bis 10e genügt und eine
 Gefährdung der Energieversorgungssicherheit der Europäischen Union auf
@@ -814,20 +1091,20 @@ Grund der Zertifizierung ausgeschlossen ist.
 
 (5) Die Regulierungsbehörde hat innerhalb von zwei Monaten, nachdem
 die Europäische Kommission ihre Stellungnahme vorgelegt hat oder
-nachdem die Frist des Artikels 11 Absatz 6 der Richtlinie 2009/72/EG
-des Europäischen Parlaments und des Rates vom 13. Juli 2009 über
-gemeinsame Vorschriften für den Elektrizitätsbinnenmarkt und zur
-Aufhebung der Richtlinie 2009/54/EG (ABl. L 211 vom 14.8.2008, S. 94)
-oder des Artikels 11 Absatz 6 der Richtlinie 2009/73/EG des
-Europäischen Parlaments und des Rates vom 13. Juli 2009 über
-gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung
-der Richtlinie 2003/55/EG (ABl. L 211 vom 14.8.2009, S. 55) abgelaufen
-ist, ohne dass die Europäische Kommission eine Stellungnahme vorgelegt
-hat, über den Antrag auf Zertifizierung zu entscheiden. Die
-Regulierungsbehörde hat in ihrer Entscheidung der Stellungnahme der
-Europäischen Kommission so weit wie möglich Rechnung zu tragen. Die
-Bewertung des Bundesministeriums für Wirtschaft und Technologie ist
-Bestandteil der Entscheidung der Regulierungsbehörde.
+nachdem die Frist des Artikels 53 Absatz 6 der Richtlinie (EU)
+2019/944 des Europäischen Parlaments und des Rates vom 5. Juni 2019
+mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt und zur
+Änderung der Richtlinie 2012/27/EU (ABl. L 158 vom 14.6.2019, S. 125;
+L 15 vom 20.1.2020, S. 8) oder des Artikels 11 Absatz 6 der Richtlinie
+2009/73/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009
+über gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur
+Aufhebung der Richtlinie 2003/55/EG (ABl. L 211 vom 14.8.2009, S. 55)
+abgelaufen ist, ohne dass die Europäische Kommission eine
+Stellungnahme vorgelegt hat, über den Antrag auf Zertifizierung zu
+entscheiden. Die Regulierungsbehörde hat in ihrer Entscheidung der
+Stellungnahme der Europäischen Kommission so weit wie möglich Rechnung
+zu tragen. Die Bewertung des Bundesministeriums für Wirtschaft und
+Energie ist Bestandteil der Entscheidung der Regulierungsbehörde.
 
 (6) Die Regulierungsbehörde hat der Europäischen Kommission
 unverzüglich die Entscheidung zusammen mit allen die Entscheidung
@@ -852,10 +1129,10 @@ Umstände zu unterrichten, in deren Folge eine oder mehrere Personen
 aus einem oder mehreren Drittstaaten allein oder gemeinsam die
 Kontrolle über den Transportnetzbetreiber erhalten. Die
 Regulierungsbehörde hat das Bundesministerium für Wirtschaft und
-Technologie und die Europäische Kommission unverzüglich über Umstände
-nach Satz 2 zu informieren. Das Bundesministerium für Wirtschaft und
-Technologie kann bei Vorliegen von Umständen nach Satz 2 seine
-Bewertung nach § 4b Absatz 1 widerrufen.
+Energie und die Europäische Kommission unverzüglich über Umstände nach
+Satz 2 zu informieren. Das Bundesministerium für Wirtschaft und
+Energie kann bei Vorliegen von Umständen nach Satz 2 seine Bewertung
+nach § 4b Absatz 1 widerrufen.
 
 
 ### § 4d Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen
@@ -902,7 +1179,7 @@ zugelassen worden ist.
 (1) Energieversorgungsunternehmen, die Energie an Kunden verkaufen,
 haben die hierfür erforderlichen Daten über sämtliche mit
 Großhandelskunden und Transportnetzbetreibern sowie im Gasbereich mit
-Betreibern von Speicheranlagen und LNG-Anlagen im Rahmen von
+Betreibern von Gasspeicheranlagen und LNG-Anlagen im Rahmen von
 Energieversorgungsverträgen und Energiederivaten getätigte
 Transaktionen für die Dauer von fünf Jahren zu speichern und sie auf
 Verlangen der Regulierungsbehörde, dem Bundeskartellamt, den
@@ -928,13 +1205,14 @@ der Veröffentlichung das Einvernehmen mit dem Bundeskartellamt her.
 1.  Wertpapierhandelsgesetz,
 
 
-2.  dem Artikel 7 oder 8 der Verordnung (EG) Nr. 1287/2006 der Kommission
-    vom 10. August 2006 zur Durchführung der Richtlinie 2004/39/EG des
-    Europäischen Parlaments und des Rates betreffend die
-    Aufzeichnungspflichten für Wertpapierfirmen, die Meldung von
-    Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten
-    zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. L
-    241 vom 2.9.2006, S. 1) oder
+2.  den Artikeln 72 bis 76 der Delegierten Verordnung (EU) 2017/565 der
+    Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU
+    des Europäischen Parlaments und des Rates in Bezug auf die
+    organisatorischen Anforderungen an Wertpapierfirmen und die
+    Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die
+    Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie
+    (ABl. L 87 vom 31.3.2017, S. 1), in der jeweils geltenden Fassung,
+    oder
 
 
 3.  handels- oder steuerrechtlichen Bestimmungen Pflichten zur
@@ -944,6 +1222,32 @@ der Veröffentlichung das Einvernehmen mit dem Bundeskartellamt her.
 
 
 
+
+
+### § 5b Anzeige von Verdachtsfällen, Verschwiegenheitspflichten
+
+(1) Personen, die beruflich Transaktionen mit
+Energiegroßhandelsprodukten arrangieren, dürfen ausschließlich
+Personen, die auf Grund ihres Berufs einer gesetzlichen
+Verschwiegenheitspflicht unterliegen, und staatliche Stellen von einer
+Anzeige gemäß Artikel 15 Satz 1 der Verordnung (EU) Nr. 1227/2011 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die
+Integrität und Transparenz des Energiegroßhandelsmarkts (ABl. L 326
+vom 8.12.2011, S. 1) oder von einer daraufhin eingeleiteten
+Untersuchung oder einem daraufhin eingeleiteten Ermittlungsverfahren
+in Kenntnis setzen. Die Bundesnetzagentur kann Inhalt und
+Ausgestaltung der Vorkehrungsmaßnahmen und Verfahren nach Artikel 15
+Satz 2 der Verordnung (EU) Nr. 1227/2011 durch Festlegung nach § 29
+Absatz 1 näher bestimmen. Für die zur Auskunft nach Artikel 15 Satz 1
+verpflichtete Person gilt § 55 der Strafprozessordnung entsprechend.
+
+(2) Ergreift die Bundesnetzagentur Maßnahmen wegen eines möglichen
+Verstoßes gegen ein Verbot nach Artikel 3 oder Artikel 5 der
+Verordnung (EU) Nr. 1227/2011, so dürfen die Adressaten dieser
+Maßnahmen ausschließlich Personen, die auf Grund ihres Berufs einer
+gesetzlichen Verschwiegenheitspflicht unterliegen, und staatliche
+Stellen von diesen Maßnahmen oder von einem daraufhin eingeleiteten
+Ermittlungsverfahren in Kenntnis setzen.
 
 
 ## Teil 2 - Entflechtung
@@ -968,37 +1272,85 @@ sicherstellen. Die §§ 9 bis 10e sind nur auf solche Transportnetze
 anwendbar, die am 3. September 2009 im Eigentum eines vertikal
 integrierten Unternehmens standen.
 
+(2) Die in engem wirtschaftlichem Zusammenhang mit der rechtlichen und
+operationellen Entflechtung eines Verteilnetzes, eines Transportnetzes
+oder eines Betreibers von Gasspeicheranlagen nach § 7 Absatz 1 und §§
+7a bis 10e übertragenen Wirtschaftsgüter gelten als Teilbetrieb im
+Sinne der §§ 15, 16, 18, 20 und 24 des Umwandlungssteuergesetzes. Satz
+1 gilt nur für diejenigen Wirtschaftsgüter, die unmittelbar auf Grund
+des Organisationsakts der Entflechtung übertragen werden. Für die
+Anwendung des § 15 Absatz 1 Satz 1 des Umwandlungssteuergesetzes gilt
+auch das Vermögen als zu einem Teilbetrieb gehörend, das der
+übertragenden Körperschaft im Rahmen des Organisationsakts der
+Entflechtung verbleibt. § 15 Absatz 2 und § 22 des
+Umwandlungssteuergesetzes, § 34 Absatz 7a des
+Körperschaftsteuergesetzes sowie § 6 Absatz 3 Satz 2 und Absatz 5 Satz
+4 bis 6 sowie § 16 Absatz 3 Satz 3 und 4 des Einkommensteuergesetzes
+sind auf Maßnahmen nach Satz 1 nicht anzuwenden, sofern diese Maßnahme
+von Transportnetzbetreibern im Sinne des § 3 Nummer 31f oder
+Betreibern von Gasspeicheranlagen bis zum 3. März 2012 ergriffen
+worden sind. Satz 4 gilt bezüglich des § 22 des
+Umwandlungssteuergesetzes und der in § 34 Absatz 7a des
+Körperschaftsteuergesetzes genannten Fälle nur für solche mit der
+siebenjährigen Sperrfrist behafteten Anteile, die zu Beginn der
+rechtlichen oder operationellen Entflechtung bereits bestanden haben
+und deren Veräußerung unmittelbar auf Grund des Organisationsakts der
+Entflechtung erforderlich ist. Für den Erwerber der Anteile gilt Satz
+4 nicht und dieser tritt bezüglich der im Zeitpunkt der Veräußerung
+der Anteile noch laufenden Sperrfrist unter
+Besitzzeitanrechnung              in die Rechtsstellung des
+Veräußerers ein. Bei der Prüfung der Frage, ob die Voraussetzungen für
+die Anwendung der Sätze 1 und 2 vorliegen, leistet die
+Regulierungsbehörde den Finanzbehörden Amtshilfe (§ 111 der
+Abgabenordnung).
+
+(3) Erwerbsvorgänge im Sinne des § 1 des Grunderwerbsteuergesetzes,
+die sich für Verteilernetzbetreiber, Transportnetzbetreiber oder
+Betreiber von Gasspeicheranlagen aus der rechtlichen oder
+operationellen Entflechtung nach § 7 Absatz 1 und den §§ 7a bis 10e
+ergeben, sind von der Grunderwerbsteuer befreit. Absatz 2 Satz 4 und 7
+gelten entsprechend.
+
+(4) Die Absätze 2 und 3 gelten nicht für diejenigen Unternehmen, die
+eine rechtliche Entflechtung auf freiwilliger Grundlage vornehmen.
+
 
 #### § 6a Verwendung von Informationen
 
 (1) Unbeschadet gesetzlicher Verpflichtungen zur Offenbarung von
 Informationen haben vertikal integrierte
 Energieversorgungsunternehmen, Transportnetzeigentümer, Netzbetreiber,
-Speicheranlagenbetreiber sowie Betreiber von LNG-Anlagen
+Gasspeicheranlagenbetreiber sowie Betreiber von LNG-Anlagen
 sicherzustellen, dass die Vertraulichkeit wirtschaftlich sensibler
 Informationen, von denen sie in Ausübung ihrer Geschäftstätigkeit als
-Transportnetzeigentümer, Netzbetreiber, Speicheranlagenbetreiber sowie
-Betreiber von LNG-Anlagen Kenntnis erlangen, gewahrt wird.
+Transportnetzeigentümer, Netzbetreiber, Gasspeicheranlagenbetreiber
+sowie Betreiber von LNG-Anlagen Kenntnis erlangen, gewahrt wird.
 
 (2) Legen das vertikal integrierte Energieversorgungsunternehmen,
-Transportnetzeigentümer, Netzbetreiber, ein Speicheranlagenbetreiber
-oder ein Betreiber von LNG-Anlagen über die eigenen Tätigkeiten
-Informationen offen, die wirtschaftliche Vorteile bringen können, so
-stellen sie sicher, dass dies in nicht diskriminierender Weise
-erfolgt. Sie stellen insbesondere sicher, dass wirtschaftlich sensible
-Informationen gegenüber anderen Teilen des Unternehmens vertraulich
-behandelt werden.
+Transportnetzeigentümer, Netzbetreiber, ein
+Gasspeicheranlagenbetreiber oder ein Betreiber von LNG-Anlagen über
+die eigenen Tätigkeiten Informationen offen, die wirtschaftliche
+Vorteile bringen können, so stellen sie sicher, dass dies in nicht
+diskriminierender Weise erfolgt. Sie stellen insbesondere sicher, dass
+wirtschaftlich sensible Informationen gegenüber anderen Teilen des
+Unternehmens vertraulich behandelt werden.
 
 
 #### § 6b Rechnungslegung und Buchführung
 
-(1) Energieversorgungsunternehmen haben ungeachtet ihrer
-Eigentumsverhältnisse und ihrer Rechtsform einen Jahresabschluss nach
-den für Kapitalgesellschaften geltenden Vorschriften des Ersten,
-Dritten und Vierten Unterabschnitts des Zweiten Abschnitts des Dritten
-Buchs des Handelsgesetzbuchs aufzustellen, prüfen zu lassen und
-offenzulegen. Handelt es sich bei dem Energieversorgungsunternehmen um
-eine Personenhandelsgesellschaft oder das Unternehmen eines
+(1) Vertikal integrierte Energieversorgungsunternehmen im Sinne des §
+3 Nummer 38, einschließlich rechtlich selbständiger Unternehmen, die
+zu einer Gruppe verbundener Elektrizitäts- oder Gasunternehmen gehören
+und mittelbar oder unmittelbar energiespezifische Dienstleistungen
+erbringen, und rechtlich selbständige Netzbetreiber sowie Betreiber
+von Gasspeicheranlagen haben ungeachtet ihrer Eigentumsverhältnisse
+und ihrer Rechtsform einen Jahresabschluss und Lagebericht nach den
+für Kapitalgesellschaften geltenden Vorschriften des Ersten, Dritten
+und Vierten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs
+des Handelsgesetzbuchs aufzustellen, prüfen zu lassen und
+offenzulegen; § 264 Absatz 3 und § 264b des Handelsgesetzbuchs sind
+insoweit nicht anzuwenden. Handelt es sich bei dem Unternehmen nach
+Satz 1 um eine Personenhandelsgesellschaft oder das Unternehmen eines
 Einzelkaufmanns, dürfen das sonstige Vermögen der Gesellschafter oder
 des Einzelkaufmanns (Privatvermögen) nicht in die Bilanz und die auf
 das Privatvermögen entfallenden Aufwendungen und Erträge nicht in die
@@ -1007,13 +1359,13 @@ Gewinn- und Verlustrechnung aufgenommen werden.
 (2) Im Anhang zum Jahresabschluss sind die Geschäfte größeren Umfangs
 mit verbundenen oder assoziierten Unternehmen im Sinne von § 271
 Absatz 2 oder § 311 des Handelsgesetzbuchs gesondert auszuweisen.
+Hierbei sind insbesondere Leistung und Gegenleistung anzugeben.
 
-(3) Unternehmen, die im Sinne von § 3 Nummer 38 zu einem vertikal
-integrierten Energieversorgungsunternehmen verbunden sind, haben zur
-Vermeidung von Diskriminierung und Quersubventionierung in ihrer
-internen Rechnungslegung jeweils getrennte Konten für jede ihrer
-Tätigkeiten in den nachfolgend aufgeführten Bereichen so zu führen,
-wie dies erforderlich wäre, wenn diese Tätigkeiten von rechtlich
+(3) Unternehmen nach Absatz 1 Satz 1 haben zur Vermeidung von
+Diskriminierung und Quersubventionierung in ihrer internen
+Rechnungslegung jeweils getrennte Konten für jede ihrer Tätigkeiten in
+den nachfolgend aufgeführten Bereichen so zu führen, wie dies
+erforderlich wäre, wenn diese Tätigkeiten von rechtlich
 selbstständigen Unternehmen ausgeführt würden:
 
 1.  Elektrizitätsübertragung;
@@ -1031,29 +1383,35 @@ selbstständigen Unternehmen ausgeführt würden:
 5.  Gasspeicherung;
 
 
-6.  Betrieb von LNG-Anlagen.
+6.  Betrieb von LNG-Anlagen;
+
+
+7.  Entwicklung, Verwaltung oder Betrieb von Ladepunkten für Elektromobile
+    nach § 7c Absatz 2.
 
 
 
 Tätigkeit im Sinne dieser Bestimmung ist auch jede wirtschaftliche
 Nutzung eines Eigentumsrechts an Elektrizitäts- oder
-Gasversorgungsnetzen, Gasspeichern oder LNG-Anlagen. Für die anderen
-Tätigkeiten innerhalb des Elektrizitätssektors und innerhalb des
-Gassektors sind Konten zu führen, die innerhalb des jeweiligen Sektors
-zusammengefasst werden können. Für Tätigkeiten außerhalb des
-Elektrizitäts- und Gassektors sind ebenfalls eigene Konten zu führen,
-die zusammengefasst werden können. Soweit eine direkte Zuordnung zu
-den einzelnen Tätigkeiten nicht möglich ist oder mit unvertretbarem
-Aufwand verbunden wäre, hat die Zuordnung durch Schlüsselung der
-Konten, die sachgerecht und für Dritte nachvollziehbar sein muss, zu
-erfolgen. Mit der Erstellung des Jahresabschlusses ist für jeden der
-genannten Tätigkeitsbereiche jeweils eine den in Absatz 1 Satz 1
-genannten Vorschriften entsprechende Bilanz und Gewinn- und
-Verlustrechnung (Tätigkeitsabschluss) aufzustellen. Dabei sind in der
-Rechnungslegung die Regeln, einschließlich der Abschreibungsmethoden,
-anzugeben, nach denen die Gegenstände des Aktiv- und Passivvermögens
-sowie die Aufwendungen und Erträge den gemäß Satz 1 bis 4 geführten
-Konten zugeordnet worden sind.
+Gasversorgungsnetzen, Gasspeichern, LNG-Anlagen oder Ladepunkten für
+Elektromobile nach § 7c Absatz 2. Für die anderen Tätigkeiten
+innerhalb des Elektrizitätssektors und innerhalb des Gassektors sind
+Konten zu führen, die innerhalb des jeweiligen Sektors zusammengefasst
+werden können. Für Tätigkeiten außerhalb des Elektrizitäts- und
+Gassektors sind ebenfalls eigene Konten zu führen, die zusammengefasst
+werden können. Soweit eine direkte Zuordnung zu den einzelnen
+Tätigkeiten nicht möglich ist oder mit unvertretbarem Aufwand
+verbunden wäre, hat die Zuordnung durch Schlüsselung zu den Konten,
+die sachgerecht und für Dritte nachvollziehbar sein muss, zu erfolgen.
+Mit der Aufstellung des Jahresabschlusses ist für jeden der genannten
+Tätigkeitsbereiche jeweils eine den in Absatz 1 Satz 1 genannten
+Vorschriften entsprechende Bilanz und Gewinn- und Verlustrechnung
+(Tätigkeitsabschluss) aufzustellen und dem Abschlussprüfer zur Prüfung
+vorzulegen. Dabei sind in der Rechnungslegung die Regeln,
+einschließlich der Abschreibungsmethoden, anzugeben, nach denen die
+Gegenstände des Aktiv- und Passivvermögens sowie die Aufwendungen und
+Erträge den gemäß Satz 1 bis 4 geführten Konten zugeordnet worden
+sind.
 
 (4) Die gesetzlichen Vertreter haben den Tätigkeitsabschluss
 unverzüglich, jedoch spätestens vor Ablauf des zwölften Monats des dem
@@ -1072,51 +1430,81 @@ nachvollziehbar erfolgt sind und der Grundsatz der Stetigkeit beachtet
 worden ist. Im Bestätigungsvermerk zum Jahresabschuss ist anzugeben,
 ob die Vorgaben nach Absatz 3 eingehalten worden sind.
 
-(6) Unbeschadet der besonderen Pflichten des Prüfers nach Absatz 4
-kann die Regulierungsbehörde zusätzliche Bestimmungen treffen, die vom
-Prüfer im Rahmen der Jahresabschlussprüfung über die nach Absatz 1
-anwendbaren Prüfungsvoraussetzungen hinaus zu berücksichtigen sind.
-Sie kann insbesondere zusätzliche Schwerpunkte für die Prüfungen
-festlegen.
+(6) Unbeschadet der besonderen Pflichten des Prüfers nach Absatz 5
+kann die Regulierungsbehörde zusätzliche Bestimmungen gegenüber dem
+Unternehmen nach Absatz 1 Satz 1 durch Festlegung nach § 29 Absatz 1
+treffen, die vom Prüfer im Rahmen der Jahresabschlussprüfung über die
+nach Absatz 1 anwendbaren Prüfungsvoraussetzungen hinaus zu
+berücksichtigen sind. Sie kann insbesondere zusätzliche Schwerpunkte
+für die Prüfungen festlegen. Eine solche Festlegung muss spätestens
+sechs Monate vor dem Bilanzstichtag des jeweiligen Kalenderjahres
+ergehen.
 
 (7) Der Auftraggeber der Prüfung des Jahresabschlusses hat der
-Regulierungsbehörde unverzüglich eine Ausfertigung des geprüften
-Jahresabschlusses einschließlich des Anhangs sowie des Lageberichts zu
-übersenden. Der Jahresabschluss muss mit dem Bestätigungsvermerk oder
-einem Vermerk über die Versagung versehen sein. Die Bilanzen und
-Gewinn- und Verlustrechnungen für die einzelnen Tätigkeitsbereiche
-sind beizufügen und mit dem Jahresabschluss fest zu verbinden. Der
-Lagebericht muss auf die Tätigkeiten nach Absatz 3 eingehen. Der
-Abschlussprüfer hat den Bericht über die Prüfung des Jahresabschlusses
-(Prüfbericht) nebst Ergänzungsbänden unverzüglich nach Beendigung der
-Prüfung bei der Regulierungsbehörde einzureichen. Geschäftsberichte zu
-den in Absatz 3 Satz 1 aufgeführten Tätigkeitsbereichen sind von den
-Unternehmen auf ihren Internetseiten zu veröffentlichen. Die
-Verpflichtungen nach Satz 1 bis 5 gelten nicht für Unternehmen, die
-keine Tätigkeiten nach Absatz 3 ausüben; die Befugnisse der
-Regulierungsbehörde bleiben unberührt. Geschäftsberichte zu den
-Tätigkeitsbereichen, die nicht in Absatz 3 Satz 1 aufgeführt sind, hat
-die Regulierungsbehörde als Geschäftsgeheimnisse zu behandeln.
+Regulierungsbehörde unverzüglich nach Feststellung des
+Jahresabschlusses eine Ausfertigung des Berichts über die Prüfung des
+Jahresabschlusses nach § 321 des Handelsgesetzbuchs (Prüfungsbericht)
+einschließlich erstatteter Teilberichte zu übersenden. Der
+Prüfungsbericht ist fest mit dem geprüften Jahresabschluss, dem
+Lagebericht und den erforderlichen Tätigkeitsabschlüssen zu verbinden.
+Der Bestätigungsvermerk oder der Vermerk über die Versagung sind im
+Prüfungsbericht wiederzugeben. Der Lagebericht muss auf die
+Tätigkeiten nach Absatz 3 Satz 1 eingehen. Geschäftsberichte zu den in
+Absatz 3 Satz 1 und 2 aufgeführten Tätigkeitsbereichen sind von den
+Unternehmen auf ihrer Internetseite zu veröffentlichen.
+Tätigkeitsabschlüsse zu den Tätigkeitsbereichen, die nicht in Absatz 3
+Satz 1 aufgeführt sind, hat die Regulierungsbehörde als
+Geschäftsgeheimnisse zu behandeln. Prüfberichte von solchen
+Unternehmen nach Absatz 1 Satz 1, die mittelbar oder unmittelbar
+energiespezifische Dienstleistungen erbringen, sind der
+Regulierungsbehörde zu übersenden, die für das regulierte Unternehmen
+nach § 54 Absatz 1 zuständig ist.
+
+(8) Unternehmen, die nur deshalb als vertikal integriertes
+Energieversorgungsunternehmen im Sinne des § 3 Nummer 38 einzuordnen
+sind, weil sie auch Betreiber eines geschlossenen Verteilernetzes
+sind, und ihre Abschlussprüfer sind von den Verpflichtungen nach den
+Absätzen 4 und 7 ausgenommen. Die Befugnisse der Regulierungsbehörde
+insbesondere nach § 110 Absatz 4 bleiben unberührt.
 
 
 #### § 6c Ordnungsgeldvorschriften
 
-(1) Die Ordnungsgeldvorschriften des § 335 des Handelsgesetzbuchs sind
-auch auf die Verletzung von Pflichten nach § 6b Absatz 1 Satz 1,
-Absatz 4 des vertretungsberechtigten Organs des
-Energieversorgungsunternehmens sowie auf das
-Energieversorgungsunternehmen selbst entsprechend anzuwenden, und zwar
-auch dann, wenn es sich bei diesem nicht um eine Kapitalgesellschaft
-oder eine Gesellschaft im Sinne des § 264a des Handelsgesetzbuchs
-handelt. Offenlegung im Sinne des § 325 Absatz 1 Satz 1 des
+(1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
+Handelsgesetzbuchs sind auf die Verletzung der Pflichten zur
+Offenlegung des Jahresabschlusses und Lageberichts nach § 6b Absatz 1
+Satz 1 oder des Tätigkeitsabschlusses nach § 6b Absatz 4 entsprechend
+anzuwenden. Offenlegung im Sinne des § 325 Absatz 1 Satz 1 des
 Handelsgesetzbuchs ist die Einreichung und Bekanntmachung des
 Jahresabschlusses einschließlich des Tätigkeitsabschlusses gemäß § 6b
-Absatz 1 Satz 1, Absatz 4 dieses Gesetzes. § 329 des
-Handelsgesetzbuchs ist entsprechend anzuwenden.
+Absatz 1 Satz 1, Absatz 4 dieses Gesetzes. Das Ordnungsgeldverfahren
+kann durchgeführt werden
+
+1.  bei einer juristischen Person gegen die juristische Person oder die
+    Mitglieder des vertretungsberechtigten Organs;
+
+
+2.  bei einer Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 des
+    Handelsgesetzbuchs gegen die Personenhandelsgesellschaft oder gegen
+    die in § 335b Satz 2 des Handelsgesetzbuchs genannten Personen;
+
+
+3.  bei einer Personenhandelsgesellschaft, die nicht in Nummer 2 genannt
+    ist, gegen die Personenhandelsgesellschaft oder den oder die
+    vertretungsbefugten Gesellschafter;
+
+
+4.  bei einem Unternehmen, das in der Rechtsform des Einzelkaufmanns
+    betrieben wird, gegen den Inhaber oder dessen gesetzlichen Vertreter.
+
+
+
+§ 329 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
 (2) Die nach § 54 Absatz 1 zuständige Regulierungsbehörde übermittelt
 dem Betreiber des Bundesanzeigers einmal pro Kalenderjahr Name und
-Anschrift der ihr bekannt werdenden Energieversorgungsunternehmen.
+Anschrift der ihr bekannt werdenden Unternehmen nach § 6b Absatz 1
+Satz 1.
 
 
 #### § 6d Betrieb eines Kombinationsnetzbetreibers
@@ -1127,7 +1515,7 @@ Netzbetreiber die Bestimmungen der §§ 8 oder 9 oder §§ 10 bis 10e
 einhält.
 
 
-### Abschnitt 2 - Entflechtung von Verteilernetzbetreibern und Betreibern von Speicheranlagen
+### Abschnitt 2 - Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen
 
 
 
@@ -1137,6 +1525,9 @@ einhält.
 sicherzustellen, dass Verteilernetzbetreiber, die mit ihnen im Sinne
 von § 3 Nummer 38 verbunden sind, hinsichtlich ihrer Rechtsform
 unabhängig von anderen Tätigkeitsbereichen der Energieversorgung sind.
+Betreiber von Elektrizitätsverteilernetzen sind nicht berechtigt,
+Eigentümer einer Energiespeicheranlage zu sein oder eine solche zu
+errichten, zu verwalten oder zu betreiben.
 
 (2) Vertikal integrierte Energieversorgungsunternehmen, an deren
 Elektrizitätsverteilernetz weniger als 100 000 Kunden unmittelbar oder
@@ -1244,15 +1635,69 @@ verbunden sind, von den Verpflichtungen nach Absatz 1 bis 6
 ausgenommen. Satz 1 gilt entsprechend für Gasverteilernetze.
 
 
-#### § 7b Entflechtung von Speicheranlagenbetreibern und Transportnetzeigentümern
+#### § 7b Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern
 
 Auf Transportnetzeigentümer, soweit ein Unabhängiger Systembetreiber
-im Sinne des § 9 benannt wurde, und auf Betreiber von Speicheranlagen,
-die Teil eines vertikal integrierten Energieversorgungsunternehmens
-sind und zu denen der Zugang technisch und wirtschaftlich erforderlich
-ist für einen effizienten Netzzugang im Hinblick auf die Belieferung
-von Kunden, sind § 7 Absatz 1 und § 7a Absatz 1 bis 5 entsprechend
-anwendbar.
+im Sinne des § 9 benannt wurde, und auf Betreiber von
+Gasspeicheranlagen, die Teil eines vertikal integrierten
+Energieversorgungsunternehmens sind und zu denen der Zugang technisch
+und wirtschaftlich erforderlich ist für einen effizienten Netzzugang
+im Hinblick auf die Belieferung von Kunden, sind § 7 Absatz 1 und § 7a
+Absatz 1 bis 5 entsprechend anwendbar.
+
+
+#### § 7c Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung
+
+(1) Betreiber von Elektrizitätsverteilernetzen dürfen weder Eigentümer
+von Ladepunkten für Elektromobile sein noch diese Ladepunkte
+entwickeln, verwalten oder betreiben. Satz 1 ist nicht für private
+Ladepunkte für Elektromobile anzuwenden, die für den Eigengebrauch des
+Betreibers von Elektrizitätsverteilernetzen bestimmt sind.
+
+(2) Abweichend von Absatz 1 Satz 1 sind Betreiber von
+Elektrizitätsverteilernetzen befugt, in ihrem Netzgebiet das Eigentum
+an Ladepunkten für Elektromobile zu halten oder diese Ladepunkte zu
+entwickeln, zu verwalten oder zu betreiben, sofern in Fällen
+regionalen Marktversagens, das nach Durchführung eines offenen,
+transparenten und diskriminierungsfreien Ausschreibungsverfahrens
+durch eine kommunale Gebietskörperschaft festgestellt worden ist, die
+Bundesnetzagentur nach Maßgabe der Bedingungen einer aufgrund des
+Absatzes 3 erlassenen Rechtsverordnung ihre Genehmigung dazu erteilt
+hat. Im Falle einer Genehmigung hat die Bundesnetzagentur den
+Betreiber des Elektrizitätsverteilernetzes zu verpflichten, Dritten
+den Zugang zu den Ladepunkten zu angemessenen und
+diskriminierungsfreien Bedingungen zu gewähren. Die Voraussetzungen
+für den Fortbestand einer Genehmigung sind mindestens alle fünf Jahre
+durch die Regulierungsbehörde zu überprüfen.
+
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates
+die Voraussetzungen einer Genehmigung nach Absatz 2 festzulegen und
+das Ausschreibungsverfahren näher zu bestimmen. Insbesondere können
+durch Rechtsverordnung Regelungen getroffen werden,
+
+1.  zu der Bestimmung eines Bedarfs und eines regionalen Marktversagens im
+    Hinblick auf den Ladeinfrastrukturaufbau, insbesondere hinsichtlich
+    der Abgrenzung des betroffenen Gebiets und der bereits bestehenden
+    Ladepunkte, einschließlich der Festlegung von
+    Ausschreibungsbedingungen und -verfahren,
+
+
+2.  zu den Anforderungen an ein Ausschreibungsverfahren nach Absatz 2 Satz
+    1 sowie den Voraussetzungen und dem Verfahren für Genehmigungen der
+    Regulierungsbehörde sowie
+
+
+3.  zu der regelmäßigen Überprüfung und Bewertung nach Erteilung einer
+    Genehmigung, ob Dritte in der Lage sind, Eigentümer von Ladepunkten zu
+    sein oder diese zu entwickeln, zu betreiben oder zu verwalten, sowie
+    zu möglichen Folgemaßnahmen einschließlich einer mindestens
+    schrittweisen Einstellung der von Absatz 1 erfassten Tätigkeiten des
+    Betreibers von Elektrizitätsverteilernetzen.
+
+
+
 
 
 ### Abschnitt 3 - Besondere Entflechtungsvorgaben für Transportnetzbetreiber
@@ -1278,19 +1723,22 @@ mittelbar die Kontrolle über einen Transportnetzbetreiber oder ein
 Transportnetz ausüben, sind nicht berechtigt, unmittelbar oder
 mittelbar Kontrolle über ein Unternehmen, das eine der Funktionen
 Gewinnung, Erzeugung oder Vertrieb von Energie an Kunden wahrnimmt,
-oder Rechte an einem solchen Unternehmen auszuüben. Personen, die
-unmittelbar oder mittelbar die Kontrolle über ein Unternehmen ausüben,
-das eine der Funktionen Gewinnung, Erzeugung oder Vertrieb von Energie
-an Kunden wahrnimmt, oder Rechte an einem solchen Unternehmen ausüben,
-sind nicht berechtigt, Mitglieder des Aufsichtsrates oder der zur
-gesetzlichen Vertretung berufenen Organe eines Betreibers von
-Transportnetzen zu bestellen. Personen, die Mitglied des
-Aufsichtsrates oder der zur gesetzlichen Vertretung berufenen Organe
-eines Unternehmens sind, das eine Funktion der Gewinnung, Erzeugung
-oder Vertrieb von Energie an Kunden wahrnimmt, sind nicht berechtigt,
-Mitglied des Aufsichtsrates oder der zur gesetzlichen Vertretung
-berufenen Organe des Transportnetzbetreibers zu sein. Rechte im Sinne
-von Satz 2 bis 4 sind insbesondere:
+oder Rechte an einem solchen Unternehmen auszuüben. Insbesondere sind
+Übertragungsnetzbetreiber nicht berechtigt, Eigentümer einer
+Energiespeicheranlage zu sein oder eine solche zu errichten, zu
+verwalten oder zu betreiben. Personen, die unmittelbar oder mittelbar
+die Kontrolle über ein Unternehmen ausüben, das eine der Funktionen
+Gewinnung, Erzeugung oder Vertrieb von Energie an Kunden wahrnimmt,
+oder Rechte an einem solchen Unternehmen ausüben, sind nicht
+berechtigt, Mitglieder des Aufsichtsrates oder der zur gesetzlichen
+Vertretung berufenen Organe eines Betreibers von Transportnetzen zu
+bestellen. Personen, die Mitglied des Aufsichtsrates oder der zur
+gesetzlichen Vertretung berufenen Organe eines Unternehmens sind, das
+eine Funktion der Gewinnung, Erzeugung oder Vertrieb von Energie an
+Kunden wahrnimmt, sind nicht berechtigt, Mitglied des Aufsichtsrates
+oder der zur gesetzlichen Vertretung berufenen Organe des
+Transportnetzbetreibers zu sein. Rechte im Sinne von Satz Satz 2, 3
+und 5 sind insbesondere:
 
 1.  die Befugnis zur Ausübung von Stimmrechten, soweit dadurch wesentliche
     Minderheitsrechte vermittelt werden, insbesondere in den in § 179
@@ -1329,24 +1777,38 @@ Transportnetzbetreiber zu diesen Unternehmen stattfinden.
 
 #### § 9 Unabhängiger Systembetreiber
 
-(1) Stand ein Transportnetz am 3. September 2009 im Eigentum eines
-vertikal integrierten Unternehmens, kann ein Unabhängiger
-Systembetreiber nach Maßgabe dieser Vorschrift benannt werden.
+(1) Ein Unabhängiger Systembetreiber kann nach Maßgabe dieser
+Vorschrift benannt werden
+
+1.  für ein Transportnetz, wenn dieses am 3. September 2009 im Eigentum
+    eines vertikal integrierten Energieversorgungsunternehmens stand, oder
+
+
+2.  für ein Fernleitungsnetz, das Deutschland mit einem Drittstaat
+    verbindet, in Bezug auf den Abschnitt von der Grenze des deutschen
+    Hoheitsgebietes bis zum ersten Kopplungspunkt mit dem deutschen Netz,
+    wenn das Fernleitungsnetz am 23. Mai 2019 im Eigentum eines vertikal
+    integrierten Energieversorgungsunternehmens stand.
+
+
+
 Unternehmen, die einen Antrag auf Zertifizierung des Betriebs eines
 Unabhängigen Systembetreibers stellen, haben die Unabhängigkeit des
 Transportnetzbetreibers nach Maßgabe der Absätze 2 bis 6
 sicherzustellen.
 
-(2) Auf Unabhängige Systembetreiber findet § 8 Absatz 2 Satz 2 bis 5
-entsprechend Anwendung. Er hat über die materiellen, finanziellen,
-technischen und personellen Mittel zu verfügen, die erforderlich sind,
-um die Aufgaben des Transportnetzbetreibers nach Teil 3 Abschnitt 1
-bis 3 wahrzunehmen. Der Unabhängige Systembetreiber ist verpflichtet,
-den von der Regulierungsbehörde überwachten zehnjährigen
+(2) Auf Unabhängige Systembetreiber ist § 8 Absatz 2 Satz 2, 3, 5 und
+6 entsprechend anzuwenden, dabei ist auf Unabhängige Systembetreiber
+im Elektrizitätsbereich auch § 8 Absatz 2 Satz 4 entsprechend
+anwendbar. Er hat über die materiellen, finanziellen, technischen und
+personellen Mittel zu verfügen, die erforderlich sind, um die Aufgaben
+des Transportnetzbetreibers nach Teil 3 Abschnitt 1 bis 3
+wahrzunehmen. Der Unabhängige Systembetreiber ist verpflichtet, den
+von der Regulierungsbehörde überwachten zehnjährigen
 Netzentwicklungsplan nach den §§ 12a bis 12f oder § 15a umzusetzen.
 Der Unabhängige Systembetreiber hat in der Lage zu sein, den
-Verpflichtungen, die sich aus der Verordnung (EG) Nr. 714/2009 oder
-der Verordnung (EG) Nr. 715/2009 ergeben, auch hinsichtlich der
+Verpflichtungen, die sich aus der Verordnung (EU) 2019/943 oder der
+Verordnung (EG) Nr. 715/2009 ergeben, auch hinsichtlich der
 Zusammenarbeit der Übertragungs- oder Fernleitungsnetzbetreiber auf
 europäischer und regionaler Ebene, nachkommen zu können.
 
@@ -1360,7 +1822,7 @@ gewährleisten. Der Unabhängige Systembetreiber hat im
 Elektrizitätsbereich neben den Aufgaben nach Satz 1 und 2 auch die
 Rechte und Pflichten, insbesondere Zahlungen, im Rahmen des
 Ausgleichsmechanismus zwischen Übertragungsnetzbetreibern nach Artikel
-13 der Verordnung (EG) Nr. 714/2009 wahrzunehmen. Der Unabhängige
+49 der Verordnung (EU) 2019/943 wahrzunehmen. Der Unabhängige
 Systembetreiber trägt die Verantwortung für Planung, einschließlich
 der Durchführung der erforderlichen Genehmigungsverfahren, Bau und
 Betrieb der Infrastruktur. Der Transportnetzeigentümer ist nicht nach
@@ -1390,7 +1852,7 @@ bis 3 nachzukommen.
 
 (5) Der Eigentümer des Transportnetzes und das vertikal integrierte
 Energieversorgungsunternehmen haben den Unabhängigen Systembetreiber
-von jeglicher Haftung für Sach-, Personen- und Vermögensschäden
+von jeglicher Haftung für Sach-,Personen- und Vermögensschäden
 freizustellen, die durch das vom Unabhängigen Systembetreiber
 betriebenen Transportnetz verursacht werden, es sei denn, die
 Haftungsrisiken betreffen die Wahrnehmung der Aufgaben nach Absatz 3
@@ -1407,11 +1869,23 @@ dem jeweiligen vertikal integrierten Unternehmen jeweils zu erfüllen.
 
 (1) Vertikal integrierte Energieversorgungsunternehmen können einen
 Unabhängigen Transportnetzbetreiber nach Maßgabe dieser Bestimmung
-sowie der §§ 10a bis 10e einrichten, wenn das Transportnetz am 3.
-September 2009 im Eigentum eines vertikal integrierten
-Energieversorgungsunternehmens stand. Der Unabhängige
-Transportnetzbetreiber hat neben den Aufgaben nach Teil 3 Abschnitt 1
-bis 3 mindestens für folgende Bereiche verantwortlich zu sein:
+sowie der §§ 10a bis 10e benennen:
+
+1.  für ein Transportnetz, wenn es am 3. September 2009 im Eigentum des
+    vertikal integrierten Energieversorgungsunternehmens stand, oder
+
+
+2.  für ein Fernleitungsnetz, das Deutschland mit einem Drittstaat
+    verbindet, in Bezug auf den Abschnitt von der Grenze des deutschen
+    Hoheitsgebietes bis zum ersten Kopplungspunkt mit dem deutschen Netz,
+    wenn das Fernleitungsnetz am 23. Mai 2019 im Eigentum des vertikal
+    integrierten Energieversorgungsunternehmens stand.
+
+
+
+Der Unabhängige Transportnetzbetreiber hat neben den Aufgaben nach
+Teil 3 Abschnitt 1 bis 3 mindestens für folgende Bereiche
+verantwortlich zu sein:
 
 1.  die Vertretung des Unabhängigen Transportnetzbetreibers gegenüber
     Dritten und der Regulierungsbehörde,
@@ -1552,7 +2026,7 @@ Nutzung von Zugangskontrollsystemen, zu unterlassen.
 
 (7) Der Unabhängige Transportnetzbetreiber hat die Rechnungslegung von
 anderen
-Abschlussprüfen              als denen prüfen zu lassen, die die
+Abschlussprüfern              als denen prüfen zu lassen, die die
 Rechnungsprüfung beim vertikal integrierten
 Energieversorgungsunternehmen oder einem seiner Teile durchführen. Der
 Abschlussprüfer des vertikal integrierten
@@ -1601,7 +2075,9 @@ direkt oder indirekt Anteile an Tochterunternehmen des vertikal
 integrierten Unternehmens, die die Funktionen Erzeugung, Gewinnung
 oder Vertrieb von Energie an Kunden wahrnehmen, halten noch Dividenden
 oder andere finanzielle Zuwendungen von diesen Tochterunternehmen
-erhalten.
+erhalten. Insbesondere sind Übertragungsnetzbetreiber nicht
+berechtigt, Eigentümer einer Energiespeicheranlage zu sein oder eine
+solche zu errichten, zu verwalten oder zu betreiben.
 
 (4) Der Unabhängige Transportnetzbetreiber hat zu gewährleisten, dass
 er jederzeit über die notwendigen Mittel für die Errichtung, den
@@ -1665,24 +2141,25 @@ Ernennung nicht bei einem Unternehmen des vertikal integrierten
 Unternehmens, das im Elektrizitätsbereich eine der Funktionen
 Erzeugung, Verteilung, Lieferung oder Kauf von Elektrizität und im
 Erdgasbereich eine der Funktionen Gewinnung, Verteilung, Lieferung,
-Kauf oder Speicherung von Erdgas wahrnimmt oder kommerzielle,
-technische oder wartungsbezogene Aufgaben im Zusammenhang mit diesen
-Funktionen erfüllt, oder einem Mehrheitsanteilseigner dieser
-Unternehmen angestellt gewesen sein oder Interessen- oder
-Geschäftsbeziehungen zu einem dieser Unternehmen unterhalten haben.
-Die verbleibenden Angehörigen der Unternehmensleitung des Unabhängigen
-Transportnetzbetreibers dürfen in den letzten sechs Monaten vor einer
-Ernennung keine Aufgaben der Unternehmensleitung oder mit der Aufgabe
-beim Unabhängigen Transportnetzbetreiber vergleichbaren Aufgabe bei
-einem Unternehmen des vertikal integrierten Unternehmens, das im
-Elektrizitätsbereich eine der Funktionen Erzeugung, Verteilung,
-Lieferung oder Kauf von Elektrizität und im Erdgasbereich eine der
-Funktionen Gewinnung, Verteilung, Lieferung, Kauf oder Speicherung von
-Erdgas wahrnimmt oder kommerzielle, technische oder wartungsbezogene
-Aufgaben im Zusammenhang mit diesen Funktionen erfüllt, oder einem
-Mehrheitsanteilseigner dieser Unternehmen wahrgenommen haben. Die
-Sätze 1 und 2 finden auf Ernennungen, die vor dem 3. März 2012 wirksam
-geworden sind, keine Anwendung.
+Kauf, Betrieb einer LNG-Anlage oder Speicherung von Erdgas wahrnimmt
+oder kommerzielle, technische oder wartungsbezogene Aufgaben im
+Zusammenhang mit diesen Funktionen erfüllt, oder einem
+Mehrheitsanteilseigner dieser Unternehmen angestellt gewesen sein oder
+Interessen- oder Geschäftsbeziehungen zu einem dieser Unternehmen
+unterhalten haben. Die verbleibenden Angehörigen der
+Unternehmensleitung des Unabhängigen Transportnetzbetreibers dürfen in
+den letzten sechs Monaten vor einer Ernennung keine Aufgaben der
+Unternehmensleitung oder mit der Aufgabe beim Unabhängigen
+Transportnetzbetreiber vergleichbaren Aufgabe bei einem Unternehmen
+des vertikal integrierten Unternehmens, das im Elektrizitätsbereich
+eine der Funktionen Erzeugung, Verteilung, Lieferung oder Kauf von
+Elektrizität und im Erdgasbereich eine der Funktionen Gewinnung,
+Verteilung, Lieferung, Kauf, Betrieb einer LNG-Anlage oder Speicherung
+von Erdgas wahrnimmt oder kommerzielle, technische oder
+wartungsbezogene Aufgaben im Zusammenhang mit diesen Funktionen
+erfüllt, oder einem Mehrheitsanteilseigner dieser Unternehmen
+wahrgenommen haben. Die Sätze 1 und 2 finden auf Ernennungen, die vor
+dem 3. März 2012 wirksam geworden sind, keine Anwendung.
 
 (3) Der Unabhängige Transportnetzbetreiber hat sicherzustellen, dass
 seine Unternehmensleitung und seine Beschäftigten weder beim vertikal
@@ -1849,12 +2326,12 @@ Gleichbehandlungsbeauftragte des Unabhängigen Transportnetzbetreibers
 hat an allen Sitzungen des Aufsichtsrates teilzunehmen, die folgende
 Fragen behandeln:
 
-1.  Netzzugangsbedingungen nach Maßgabe der Verordnung (EG) Nr. 714/2009
-    (ABl. L 211 vom 14.8.2009, S. 15) und der Verordnung (EG) Nr. 715/2009
-    (ABl. L 211 vom 14.8.2009, S. 36), insbesondere soweit die Beratungen
-    Fragen zu Netzentgelten, Leistungen im Zusammenhang mit dem Zugang
-    Dritter, der Kapazitätsvergabe und dem Engpassmanagement, Transparenz,
-    Ausgleich von Energieverlusten und Sekundärmärkte betreffen,
+1.  Netzzugangsbedingungen nach Maßgabe der Verordnung (EU) 2019/943 und
+    der Verordnung (EG) Nr. 715/2009 (ABl. L 211 vom 14.8.2009, S. 36),
+    insbesondere soweit die Beratungen Fragen zu Netzentgelten, Leistungen
+    im Zusammenhang mit dem Zugang Dritter, der Kapazitätsvergabe und dem
+    Engpassmanagement, Transparenz, Systemdienstleistungen, Ausgleich von
+    Energieverlusten und Sekundärmärkte betreffen,
 
 
 2.  Vorhaben für den Betrieb, die Wartung und den Ausbau des
@@ -1892,26 +2369,180 @@ sicheres, zuverlässiges und leistungsfähiges Energieversorgungsnetz
 diskriminierungsfrei zu betreiben, zu warten und bedarfsgerecht zu
 optimieren, zu verstärken und auszubauen, soweit es wirtschaftlich
 zumutbar ist. Sie haben insbesondere die Aufgaben nach den §§ 12 bis
-16a zu erfüllen. Die Verpflichtung gilt auch im Rahmen der Wahrnehmung
-der wirtschaftlichen Befugnisse der Leitung des vertikal integrierten
-Energieversorgungsunternehmens und seiner Aufsichtsrechte nach § 8
-Abs. 4 Satz 2.
+16a zu erfüllen. Sie nehmen diese Aufgaben für ihr
+Energieversorgungsnetz in eigener Verantwortung wahr. Sie kooperieren
+und unterstützen sich bei der Wahrnehmung dieser Aufgaben; dies ist
+insbesondere für Maßnahmen anzuwenden, die sich auf das Netz eines
+anderen Betreibers von Energieversorgungsnetzen auswirken können. Die
+Verpflichtungen sind auch anzuwenden im Rahmen der Wahrnehmung der
+wirtschaftlichen Befugnisse der Leitung des vertikal integrierten
+Energieversorgungsunternehmens und seiner Aufsichtsrechte nach § 7a
+Absatz 4 Satz 3. Der Ausbau eines L-Gasversorgungsnetzes ist nicht
+bedarfsgerecht im Sinne von Satz 1, wenn er auf Grund von
+Netzanschlüssen erfolgen muss, zu deren Einräumung der Betreiber des
+L-Gasversorgungsnetzes nicht nach den §§ 17 und 18 verpflichtet war.
 
 (1a) Der Betrieb eines sicheren Energieversorgungsnetzes umfasst
 insbesondere auch einen angemessenen Schutz gegen Bedrohungen für
 Telekommunikations- und elektronische Datenverarbeitungssysteme, die
-der Netzsteuerung dienen. Die Regulierungsbehörde erstellt hierzu im
-Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik
-einen Katalog von Sicherheitsanforderungen und veröffentlicht diesen.
-Ein angemessener Schutz des Betriebs eines Energieversorgungsnetzes
-wird vermutet, wenn dieser Katalog der Sicherheitsanforderungen
-eingehalten und dies vom Betreiber dokumentiert worden ist. Die
-Einhaltung kann von der Regulierungsbehörde überprüft werden. Die
-Regulierungsbehörde kann durch Festlegung im Verfahren nach § 29
-Absatz 1 nähere Bestimmungen zu Format, Inhalt und Gestaltung der
-Dokumentation nach Satz 3 treffen.
+für einen sicheren Netzbetrieb notwendig sind. Die Regulierungsbehörde
+erstellt hierzu im Benehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik einen Katalog von Sicherheitsanforderungen und
+veröffentlicht diesen. Der Katalog der Sicherheitsanforderungen
+enthält auch Regelungen zur regelmäßigen Überprüfung der Erfüllung der
+Sicherheitsanforderungen. Ein angemessener Schutz des Betriebs eines
+Energieversorgungsnetzes liegt vor, wenn dieser Katalog der
+Sicherheitsanforderungen eingehalten und dies vom Betreiber
+dokumentiert worden ist. Die Einhaltung kann von der
+Regulierungsbehörde überprüft werden. Zu diesem Zwecke kann die
+Regulierungsbehörde nähere Bestimmungen zu Format, Inhalt und
+Gestaltung der Dokumentation nach Satz 4 treffen.
 
-(2) In Rechtsverordnungen über die Regelung von Vertrags- und
+(1b) Betreiber von Energieanlagen, die durch Inkrafttreten der
+Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes vom 14. August
+2009 (BGBl. I S. 2821), das zuletzt durch Artikel 8 des Gesetzes vom
+17\. Juli 2015 (BGBl. I S. 1324) geändert worden ist, in der jeweils
+geltenden Fassung als Kritische Infrastruktur bestimmt wurden und an
+ein Energieversorgungsnetz angeschlossen sind, haben innerhalb einer
+von der Regulierungsbehörde festzulegenden Frist einen angemessenen
+Schutz gegen Bedrohungen für Telekommunikations- und elektronische
+Datenverarbeitungssysteme zu gewährleisten, die für einen sicheren
+Anlagenbetrieb notwendig sind. Die Regulierungsbehörde erstellt hierzu
+im Benehmen mit dem Bundesamt für Sicherheit in der
+Informationstechnik einen Katalog von Sicherheitsanforderungen, in den
+auch die Bestimmung der Frist nach Satz 1 aufzunehmen ist, und
+veröffentlicht diesen. Für Telekommunikations- und elektronische
+Datenverarbeitungssysteme von Anlagen nach § 7 Absatz 1 des
+Atomgesetzes haben Vorgaben auf Grund des Atomgesetzes Vorrang. Die
+für die nukleare Sicherheit zuständigen Genehmigungs- und
+Aufsichtsbehörden des Bundes und der Länder sind bei der Erarbeitung
+des Katalogs von Sicherheitsanforderungen zu beteiligen. Der Katalog
+von Sicherheitsanforderungen enthält auch Regelungen zur regelmäßigen
+Überprüfung der Erfüllung der Sicherheitsanforderungen. Ein
+angemessener Schutz des Betriebs von Energieanlagen im Sinne von Satz
+1 liegt vor, wenn dieser Katalog eingehalten und dies vom Betreiber
+dokumentiert worden ist. Die Einhaltung kann von der Bundesnetzagentur
+überprüft werden. Zu diesem Zwecke kann die Regulierungsbehörde nähere
+Bestimmungen zu Format, Inhalt und Gestaltung der Dokumentation nach
+Satz 6 treffen.
+
+(1c) Betreiber von Energieversorgungsnetzen und von solchen
+Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß §
+10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
+wurden, haben
+
+1.  Störungen der Verfügbarkeit, Integrität, Authentizität und
+    Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten
+    oder Prozesse, die zu einem Ausfall oder einer erheblichen
+    Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes
+    oder der betreffenden Energieanlage geführt haben,
+
+
+2.  erhebliche Störungen der Verfügbarkeit, Integrität, Authentizität und
+    Vertraulichkeit ihrer informationstechnischen Systeme, Komponenten
+    oder Prozesse, die zu einem Ausfall oder einer erheblichen
+    Beeinträchtigung der Funktionsfähigkeit des Energieversorgungsnetzes
+    oder der betreffenden Energieanlage führen können,
+
+
+
+über die Kontaktstelle unverzüglich an das Bundesamt für Sicherheit in
+der Informationstechnik zu melden.
+
+Die Meldung muss Angaben zu der Störung, zu möglichen
+grenzübergreifenden Auswirkungen sowie zu den technischen
+Rahmenbedingungen, insbesondere der vermuteten oder tatsächlichen
+Ursache und der betroffenen Informationstechnik, enthalten. Die
+Nennung des Betreibers ist nur dann erforderlich, wenn die Störung
+tatsächlich zu einem Ausfall oder einer Beeinträchtigung der
+Funktionsfähigkeit der Kritischen Infrastruktur geführt hat. Das
+Bundesamt für Sicherheit in der Informationstechnik hat die Meldungen
+unverzüglich an die Bundesnetzagentur weiterzuleiten. Das Bundesamt
+für Sicherheit in der Informationstechnik und die Bundesnetzagentur
+haben sicherzustellen, dass die unbefugte Offenbarung der ihnen nach
+Satz 1 zur Kenntnis gelangten Angaben ausgeschlossen wird. Zugang zu
+den Akten des Bundesamtes für Sicherheit in der Informationstechnik
+sowie zu den Akten der Bundesnetzagentur in Angelegenheiten nach § 11
+Absatz 1a bis Absatz 1c wird nicht gewährt. § 29 des
+Verwaltungsverfahrensgesetzes bleibt unberührt. § 8e Absatz 1 des BSI-
+Gesetzes ist entsprechend anzuwenden.
+
+(1d) Betreiber von Energieversorgungsnetzen und von solchen
+Energieanlagen, die durch Inkrafttreten der Rechtsverordnung gemäß §
+10 Absatz 1 des BSI-Gesetzes als Kritische Infrastruktur bestimmt
+wurden, haben spätestens ab dem 1. Mai 2023 in ihren
+informationstechnischen Systemen, Komponenten oder Prozessen, die für
+die Funktionsfähigkeit der von ihnen betriebenen
+Energieversorgungsnetze oder Energieanlagen maßgeblich sind, in
+angemessener Weise Systeme zur Angriffserkennung einzusetzen. Die
+eingesetzten Systeme zur Angriffserkennung müssen geeignete Parameter
+und Merkmale aus dem laufenden Betrieb kontinuierlich und automatisch
+erfassen und auswerten. Sie sollten dazu in der Lage sein, fortwährend
+Bedrohungen zu identifizieren und zu vermeiden sowie für eingetretene
+Störungen geeignete Beseitigungsmaßnahmen vorsehen. Dabei soll der
+Stand der Technik eingehalten werden. Der Einsatz von Systemen zur
+Angriffserkennung ist angemessen, wenn der dafür erforderliche Aufwand
+nicht außer Verhältnis zu den möglichen Folgen eines Ausfalls oder
+einer Beeinträchtigung des betroffenen Energieversorgungsnetzes oder
+der betroffenen Energieanlage steht.
+
+(1e) Betreiber von Energieversorgungsnetzen und Energieanlagen, die
+nach der Rechtsverordnung gemäß § 10 Absatz 1 des BSI-Gesetzes als
+Kritische Infrastruktur gelten, haben dem Bundesamt für Sicherheit in
+der Informationstechnik erstmalig am 1. Mai 2023 und danach alle zwei
+Jahre die Erfüllung der Anforderungen nach Absatz 1d nachzuweisen. Das
+Bundesamt für Sicherheit in der Informationstechnik hat die hierfür
+eingereichten Nachweisdokumente unverzüglich an die Bundesnetzagentur
+weiterzuleiten. Das Bundesamt für Sicherheit in der
+Informationstechnik und die Bundesnetzagentur haben sicherzustellen,
+dass die unbefugte Offenbarung der ihnen nach Satz 1 zur Kenntnis
+gelangten Angaben ausgeschlossen wird. Das Bundesamt für Sicherheit in
+der Informationstechnik kann bei Mängeln in der Umsetzung der
+Anforderungen nach Absatz 1d oder in den Nachweisdokumenten nach Satz
+1 im Einvernehmen mit der Bundesnetzagentur die Beseitigung der Mängel
+verlangen.
+
+(2) Für einen bedarfsgerechten, wirtschaftlich zumutbaren Ausbau der
+Elektrizitätsversorgungsnetze nach Absatz 1 Satz 1 können Betreiber
+von Elektrizitätsversorgungsnetzen den Berechnungen für ihre
+Netzplanung die Annahme zugrunde legen, dass die prognostizierte
+jährliche Stromerzeugung je unmittelbar an ihr Netz angeschlossener
+Anlage zur Erzeugung von elektrischer Energie aus Windenergie an Land
+oder solarer Strahlungsenergie um bis zu 3 Prozent reduziert werden
+darf (Spitzenkappung). Betreiber von Elektrizitätsversorgungsnetzen,
+die für ihre Netzplanung eine Spitzenkappung zugrunde gelegt haben,
+müssen dies
+
+1.  auf ihrer Internetseite veröffentlichen,
+
+
+2.  dem Betreiber des vorgelagerten Elektrizitätsversorgungsnetzes, dem
+    Betreiber des Übertragungsnetzes, der Bundesnetzagentur sowie der
+    zuständigen Landesregulierungsbehörde unverzüglich mitteilen und
+
+
+3.  im Rahmen der Netzplanung für einen sachkundigen Dritten
+    nachvollziehbar dokumentieren.
+
+
+
+Die Dokumentation nach Satz 2 Nummer 3 muss der Bundesnetzagentur, der
+zuständigen Landesregulierungsbehörde, dem Betreiber des vorgelagerten
+Elektrizitätsversorgungsnetzes, dem Betreiber des Übertragungsnetzes,
+einem Einspeisewilligen sowie einem an das Netz angeschlossenen
+Anlagenbetreiber auf Verlangen unverzüglich vorgelegt werden. Die §§
+13 und 14 und § 11 des Erneuerbare-Energien-Gesetzes bleiben
+unberührt. Ein Betreiber des Elektrizitätsversorgungsnetzes, der
+Kosten für die Reduzierung der Einspeisung von mehr als 3 Prozent der
+jährlichen Stromerzeugung einer Anlage zur Erzeugung von Strom aus
+erneuerbaren Energien, Grubengas oder Kraft-Wärme-Kopplung bei der
+Ermittlung seiner Netzentgelte in Ansatz bringt, muss der
+Bundesnetzagentur sowie der zuständigen Landesregulierungsbehörde den
+Umfang der und die Ursachen für die Reduzierung der Einspeisung
+mitteilen und im Fall einer Spitzenkappung die Dokumentation nach Satz
+2 Nummer 3 vorlegen.
+
+(3) In Rechtsverordnungen über die Regelung von Vertrags- und
 sonstigen Rechtsverhältnissen können auch Regelungen zur Haftung der
 Betreiber von Energieversorgungsnetzen aus Vertrag und unerlaubter
 Handlung für Sach- und Vermögensschäden, die ein Kunde durch
@@ -1920,12 +2551,168 @@ der Energieversorgung erleidet, getroffen werden. Dabei kann die
 Haftung auf vorsätzliche oder grob fahrlässige Verursachung beschränkt
 und der Höhe nach begrenzt werden. Soweit es zur Vermeidung
 unzumutbarer wirtschaftlicher Risiken des Netzbetriebs im Zusammenhang
-mit Verpflichtungen nach § 13 Abs. 2, auch in Verbindung mit § 14, und
-§ 16 Abs. 2, auch in Verbindung mit § 16a, erforderlich ist, kann die
-Haftung darüber hinaus vollständig ausgeschlossen werden.
+mit Verpflichtungen nach § 13 Absatz 2, § 13b Absatz 5 und § 13f
+Absatz 1, auch in Verbindung mit § 14, und § 16 Absatz 2 und 2a, auch
+in Verbindung mit § 16a, erforderlich ist, kann die Haftung darüber
+hinaus vollständig ausgeschlossen werden.
 
 
-#### § 12 Aufgaben der Betreiber von Übertragungsnetzen
+#### § 11a Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz
+
+(1) Der Betreiber eines Elektrizitätsversorgungsnetzes kann die
+Errichtung, die Verwaltung und den Betrieb einer im Eigentum eines
+Dritten stehenden Energiespeicheranlage, die elektrische Energie
+erzeugt, in einem offenen, transparenten und diskriminierungsfreien
+Verfahren ausschreiben, wenn diese Energiespeicheranlage notwendig
+ist, damit der Betreiber eines Elektrizitätsversorgungsnetzes seinen
+Verpflichtungen nach § 11 Absatz 1 Satz 1 in effizienter Weise
+nachkommen kann. Der Betreiber eines Elektrizitätsversorgungsnetzes
+darf einen Zuschlag in einem nach Satz 1 durchgeführten
+Ausschreibungsverfahren nicht an einen Dritten erteilen, wenn dieser
+die mit der Energiespeicheranlage im Sinne von Satz 1 angebotene
+Dienstleistung unter Berücksichtigung der Anforderungen an die
+Gewährleistung der Sicherheit und Zuverlässigkeit des
+Elektrizitätsversorgungssystems nicht zu angemessenen Kosten oder
+nicht rechtzeitig erbringen kann. Angemessen sind die Kosten, wenn sie
+die Kosten für die Errichtung, die Verwaltung und den Betrieb einer
+vergleichbaren Energiespeicheranlage im Eigentum eines Netzbetreibers
+nicht übersteigen.
+
+(2) Der Dritte kann die Anlage nach Absatz 1 Satz 1 so planen und
+errichten, dass deren Leistungsfähigkeit die durch den Netzbetreiber
+gesetzten Anforderungen übertrifft. Wird die Anlage zeitweise oder
+dauerhaft nicht für die Erfüllung der Vereinbarung nach Absatz 1
+benötigt, dürfen Leistung und Arbeit in diesem Umfang durch den
+Dritten auf den Strommärkten veräußert werden.
+
+(3) Die Bundesnetzagentur wird ermächtigt, durch Festlegung nach § 29
+Absatz 1 dem Betreiber eines Elektrizitätsversorgungsnetzes Vorgaben
+zur näheren Ausgestaltung des Ausschreibungsverfahrens nach Absatz 1
+zu machen.
+
+
+#### § 11b Ausnahme für Energiespeicheranlagen, Festlegungskompetenz
+
+(1) Der Betreiber eines Elektrizitätsversorgungsnetzes darf abweichend
+von Teil 2 Abschnitt 2 und 3 Eigentümer sein von
+Energiespeicheranlagen, die elektrische Energie erzeugen, oder solche
+errichten, verwalten oder betreiben, sofern
+
+1.  die Regulierungsbehörde dies nach Absatz 2 auf Antrag des
+    Netzbetreibers genehmigt hat oder
+
+
+2.  die Regulierungsbehörde dies für Energiespeicheranlagen, die
+    vollständig integrierte Netzkomponenten darstellen, durch Festlegung
+    gegenüber allen oder einer Gruppe von Netzbetreibern nach § 29 Absatz
+    1 gestattet hat; sofern eine vollständig integrierte Netzkomponente
+    nicht bereits von einer solchen Festlegung erfasst wird, bleibt der
+    Regulierungsbehörde eine Genehmigung auf Antrag des Netzbetreibers im
+    Einzelfall unbenommen.
+
+
+
+
+(2) Die Regulierungsbehörde erteilt ihre Genehmigung nach Absatz 1
+Nummer 1, wenn
+
+1.  der Betreiber eines Elektrizitätsversorgungsnetzes nachgewiesen hat,
+    dass die Energiespeicheranlage im Sinne von Absatz 1
+
+    a)  notwendig ist, damit er seinen Verpflichtungen gemäß § 11 Absatz 1
+        Satz 1 in effizienter Weise nachkommen kann,
+
+
+    b)  neben der bestimmungsgemäßen Nutzung nach Buchstabe a nicht verwendet
+        wird, um Leistung oder Arbeit ganz oder teilweise auf den Strommärkten
+        zu kaufen oder zu verkaufen, und
+
+
+
+
+
+2.  der Betreiber eines Elektrizitätsversorgungsnetzes ein offenes,
+    transparentes und diskriminierungsfreies Ausschreibungsverfahren nach
+    § 11a durchgeführt hat, dessen Bedingungen die Regulierungsbehörde im
+    Hinblick auf das technische Einsatzkonzept der Energiespeicheranlage
+    im Sinne von Absatz 1 geprüft hat, und
+
+    a)  der Betreiber eines Elektrizitätsversorgungsnetzes den Zuschlag nach
+        § 11a Absatz 1 zur Errichtung, zur Verwaltung oder zum Betrieb der
+        Energiespeicheranlage im Sinne von Absatz 1 nicht an einen Dritten
+        erteilen konnte, oder
+
+
+    b)  sich nach Erteilung des Zuschlags an einen Dritten herausstellt, dass
+        dieser die mit der Energiespeicheranlage im Sinne von Absatz 1
+        angebotene Dienstleistung nicht oder nicht rechtzeitig erbringen kann.
+
+
+
+
+
+
+
+(3) Soweit eine Genehmigung unter den Voraussetzungen des Absatzes 2
+erteilt wurde, führt die Regulierungsbehörde fünf Jahre nach der
+Inbetriebnahme der Energiespeicheranlage im Sinne von Absatz 1 und
+danach in regelmäßigen Abständen von höchstens fünf Jahren eine
+öffentliche Konsultation durch. Dabei ermittelt die
+Regulierungsbehörde, ob Dritte zu angemessenen Kosten unter
+Berücksichtigung der Anforderungen an die Gewährleistung der
+Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems in
+der Lage sind, Eigentümer dieser Energiespeicheranlage im Sinne von
+Absatz 1 zu sein, diese zu verwalten und zu betreiben. Kann die
+Regulierungsbehörde dies mit hinreichender Wahrscheinlichkeit
+feststellen, verpflichtet sie den Betreiber eines
+Elektrizitätsversorgungsnetzes, den Betrieb und die Verwaltung der
+Energiespeicheranlage im Sinne von Absatz 1 gemäß § 11a in Verbindung
+mit Absatz 2 Nummer 2 auszuschreiben und nach Erteilung eines
+Zuschlags an einen Dritten innerhalb von 12 Monaten einzustellen,
+sofern Belange der Versorgungssicherheit nicht entgegenstehen. Mit dem
+Betrieb der Energiespeicheranlage im Sinne von Absatz 1 ist auch das
+Eigentum gegen Zahlung des Restbuchwertes zu übertragen. Mit
+Übertragung des Eigentums erlischt auch die Genehmigung nach Absatz 2.
+Die Verpflichtung nach den Sätzen 3 und 4 kann mit Nebenbestimmungen
+versehen werden. Nach erfolgter Eigentumsübertragung darf die Leistung
+oder Arbeit der Energiespeicheranlage im Sinne von Absatz 1 weder ganz
+noch teilweise auf den Strommärkten veräußert werden, solange über die
+Energiespeicheranlage im Sinne von Absatz 1 ein Dienstleistungsvertrag
+mit dem Betreiber eines Elektrizitätsversorgungsnetzes besteht,
+mindestens aber für die Dauer von fünf Jahren, nachdem erstmalig eine
+Ausschreibung nach Satz 3 für die Energiespeicheranlage im Sinne von
+Absatz 1 durchgeführt wurde.
+
+(4) Während des üblichen kalkulatorischen Abschreibungszeitraums für
+Batteriespeicheranlagen ist Absatz 3 nicht anzuwenden, sofern es sich
+um Batteriespeicheranlagen im Eigentum
+
+1.  eines Übertragungsnetzbetreibers handelt, für die eine
+    Investitionsentscheidung bis zum 31. Dezember 2024 erfolgt, oder eines
+    Verteilernetzbetreibers handelt, für die eine Investitionsentscheidung
+    bis zum 4. Juli 2019 erfolgte, und
+
+
+2.  die spätestens zwei Jahre nach der Investitionsentscheidung an das
+    Elektrizitätsversorgungsnetz angeschlossen wurden oder werden und die
+    ausschließlich der reaktiven unmittelbaren Wiederherstellung des
+    sicheren und zuverlässigen Netzbetriebs durch netzbezogene Maßnahmen
+    nach § 13 Absatz 1 Satz 1 Nummer 1 dienen.
+
+
+
+Die Wiederherstellungsmaßnahme gemäß Satz 1 Nummer 2 beginnt
+unmittelbar nach Eintritt der Störung und endet, sobald das Problem
+durch Maßnahmen gemäß § 13 Absatz 1 Satz 1 Nummer 2 und 3 behoben
+werden kann.
+
+(5) Die Bundesnetzagentur wird ermächtigt, durch Festlegung nach § 29
+Absatz 1 Vorgaben zur näheren Ausgestaltung der Genehmigungsverfahren
+nach Absatz 1 Nummer 1 in Verbindung mit den Absätzen 2 und 3 sowie
+nach Absatz 1 Nummer 2 zweiter Halbsatz zu treffen.
+
+
+#### § 12 Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung
 
 (1) Betreiber von Übertragungsnetzen haben die Energieübertragung
 durch das Netz unter Berücksichtigung des Austauschs mit anderen
@@ -1937,9 +2724,9 @@ beizutragen. Betreiber von Übertragungsnetzen können vereinbaren, die
 Regelverantwortung für ihre Netze auf einen Betreiber von
 Übertragungsnetzen zu übertragen. Mit der Übertragung der
 Regelverantwortung erhält der verantwortliche Netzbetreiber die
-Befugnisse des § 13. Die Übertragung der Regelverantwortung ist der
-Regulierungsbehörde spätestens sechs Monate vorher anzuzeigen. Die
-Regulierungsbehörde kann zur Verringerung des Aufwandes für
+Befugnisse der §§ 13 bis 13b. Die Übertragung der Regelverantwortung
+ist der Regulierungsbehörde spätestens sechs Monate vorher anzuzeigen.
+Die Regulierungsbehörde kann zur Verringerung des Aufwandes für
 Regelenergie und zur Förderung von einheitlichen Bedingungen bei der
 Gewährung des Netzzugangs durch Festlegung nach § 29 Absatz 1 die
 Betreiber von Übertragungsnetzen verpflichten, eine einheitliche
@@ -1955,86 +2742,207 @@ sicherzustellen.
 Netzes sicherzustellen, die Nachfrage nach Übertragung von
 Elektrizität zu befriedigen und insbesondere durch entsprechende
 Übertragungskapazität und Zuverlässigkeit des Netzes zur
-Versorgungssicherheit beizutragen. Dafür sollen sie im Rahmen des
+Versorgungssicherheit beizutragen. Dafür können sie im Rahmen des
 technisch Möglichen auch geeignete technische Anlagen etwa zur
-Bereitstellung von Blind- und Kurzschlussleistung nutzen, die keine
-Anlagen zur Erzeugung elektrischer Energie sind.
+Bereitstellung von nicht frequenzgebundenen Systemdienstleistungen
+nutzen, die keine Anlagen zur Erzeugung elektrischer Energie sind.
+Hierbei hat eine Abwägung mit einer marktgestützten Beschaffung nach
+§ 12h zu erfolgen.
 
 (3a) Um die technische Sicherheit und die Systemstabilität zu
-gewährleisten, wird das Bundesministerium für Wirtschaft und
-Technologie ermächtigt, durch Rechtsverordnung technische
-Anforderungen an Anlagen zur Erzeugung elektrischer Energie,
-insbesondere an Anlagen nach dem Erneuerbare-Energien-Gesetz und dem
-Kraft-Wärme-Kopplungsgesetz, vorzugeben sowie Netzbetreiber und
-Anlagenbetreiber zu verpflichten, Anlagen, die bereits vor dem 1.
-Januar 2012 in Betrieb genommen worden sind, entsprechend nachzurüsten
-und Regelungen zur Kostentragung zu treffen. Soweit Anlagen nach dem
-Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz
-betroffen sind, ergeht die Rechtsverordnung im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+gewährleisten, wird das Bundesministerium für Wirtschaft und Energie
+ermächtigt, durch Rechtsverordnung technische Anforderungen an Anlagen
+zur Erzeugung elektrischer Energie, insbesondere an Anlagen nach dem
+Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz,
+vorzugeben sowie Netzbetreiber und Anlagenbetreiber zu verpflichten,
+Anlagen, die bereits vor dem 1. Januar 2012 in Betrieb genommen worden
+sind, entsprechend nachzurüsten sowie anlagenbezogene Daten, die zur
+Durchführung und Kontrolle des Nachrüstungsprozesses erforderlich
+sind, bereitzustellen und auszuwerten und Regelungen zur Kostentragung
+zu treffen.
 
-(4) Betreiber von Erzeugungsanlagen, Betreiber von
-Elektrizitätsverteilernetzen, industrielle und gewerbliche
-Letztverbraucher und Lieferanten von Elektrizität sind verpflichtet,
-Betreibern von Übertragungsnetzen sowie vorgelagerten Betreibern von
-Elektrizitätsverteilernetzen auf Verlangen unverzüglich die
-Informationen bereitzustellen, die notwendig sind, damit die
-Übertragungsnetze sicher und zuverlässig betrieben, gewartet und
-ausgebaut werden können. Die übermittelten Informationen sollen die
-Betreiber von Übertragungsnetzen insbesondere in die Lage versetzen,
-einen Bericht zu erstellen, der die Leistungsbilanz für ihren
-Verantwortungsbereich als Prognose und Statistik enthält. Die
-Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1 Festlegungen
-zu treffen zur Konkretisierung des Kreises der nach Satz 1
-Verpflichteten, zum Inhalt und zur Methodik, zu Details der
-Datenweitergabe und zum Datenformat der Bereitstellung an den
-Betreiber von Übertragungsnetzen oder den vorgelagerten Betreiber von
-Verteilernetzen.
+(3b) Betreiber von Übertragungsnetzen berichten der
+Regulierungsbehörde auf deren Anforderung über die Sicherheit,
+Zuverlässigkeit und Leistungsfähigkeit ihres Energieversorgungsnetzes
+im Sinne von § 11 sowie über die Sicherheit und Zuverlässigkeit des
+Elektrizitätsversorgungssystems im Sinne von Absatz 1 Satz 1 und
+Absatz 3. Bei einer Anforderung nach Satz 1 bestimmt die
+Regulierungsbehörde,
 
-(5) Die Betreiber von Übertragungsnetzen haben den Bericht über die
-Leistungsbilanz nach Absatz 4 Satz 2 jeweils am 30. September eines
-Jahres an die Stelle zu übermitteln, die das Monitoring gemäß § 51
-durchführt.
+1.  zu welchem Zeitpunkt und für welchen Zeitraum berichtet werden soll,
+
+
+2.  ob die Betreiber von Übertragungsnetzen einzeln oder gemeinsam
+    berichten sollen,
+
+
+3.  ob und in welchem Umfang Betreiber von Verteilernetzen an der
+    Erstellung des Berichts zu beteiligen sind,
+
+
+4.  zu welchen Themen berichtet werden soll und
+
+
+5.  ob und zu welchen Themen die Betreiber von Übertragungsnetzen
+    Maßnahmen einschließlich Alternativen vorschlagen sollen, die sie zur
+    Erfüllung ihrer Aufgaben künftig für erforderlich halten; dies kann
+    auch Vorsorgemaßnahmen und Pilotprojekte umfassen.
+
+
+
+
+(3c) Betreiber von Verteilernetzen berichten der Regulierungsbehörde
+auf deren Anforderung über die Sicherheit, Zuverlässigkeit und
+Leistungsfähigkeit ihres Energieversorgungsnetzes im Sinne von § 11.
+Absatz 3b Satz 2 ist entsprechend anzuwenden.
+
+(4) Die folgenden natürlichen oder juristischen Personen müssen den
+Betreibern von Elektrizitätsversorgungsnetzen auf deren Verlangen
+unverzüglich die Informationen einschließlich etwaiger Betriebs- und
+Geschäftsgeheimnisse bereitstellen, die notwendig sind, damit die
+Elektrizitätsversorgungsnetze sicher und zuverlässig betrieben,
+gewartet und ausgebaut werden können:
+
+1.  die Betreiber von Erzeugungsanlagen,
+
+
+2.  die Betreiber von Anlagen zur Speicherung von elektrischer Energie,
+
+
+3.  die Betreiber von Elektrizitätsverteilernetzen,
+
+
+4.  die Betreiber von Gasversorgungsnetzen,
+
+
+5.  industrielle und gewerbliche Letztverbraucher,
+
+
+6.  Anbieter von Lastmanagement und
+
+
+7.  Großhändler oder Lieferanten von Elektrizität.
+
+
+
+Zu den bereitzustellenden Informationen zählen insbesondere
+Stammdaten, Planungsdaten und Echtzeitdaten.
+
+(5) Die Betreiber von Elektrizitätsversorgungsnetzen müssen
+
+1.  sicherstellen, dass die Betriebs- und Geschäftsgeheimnisse, die ihnen
+    nach Absatz 4 Satz 1 zur Kenntnis gelangen, ausschließlich so zu den
+    dort genannten Zwecken genutzt werden, dass deren unbefugte
+    Offenbarung ausgeschlossen ist,
+
+
+2.  die nach Absatz 4 erhaltenen Informationen in anonymisierter Form an
+    die Bundesnetzagentur jeweils auf deren Verlangen für die Zwecke des
+    Monitorings nach § 51 übermitteln,
+
+
+3.  neben den nach Nummer 2 zu übermittelnden Informationen an die
+    Bundesnetzagentur jeweils auf deren Verlangen weitere verfügbare und
+    für die Zwecke des Monitorings nach § 51 erforderliche Informationen
+    und Analysen übermitteln, insbesondere verfügbare Informationen und
+    eine gemeinsam von den Betreibern von Übertragungsnetzen in einer von
+    der Bundesnetzagentur zu bestimmenden Form zu erstellende Analyse zu
+    den grenzüberschreitenden Verbindungsleitungen sowie zu Angebot und
+    Nachfrage auf den europäischen Strommärkten, zu der Höhe und der
+    Entwicklung der Gesamtlast in den Elektrizitätsversorgungsnetzen in
+    den vergangenen zehn Jahren im Gebiet der Bundesrepublik Deutschland
+    und zur Sicherheit, Zuverlässigkeit und Leistungsfähigkeit der
+    Energieversorgungsnetze einschließlich des Netzbetriebs,
+
+
+4.  der Bundesnetzagentur jeweils auf deren Verlangen in einer von ihr zu
+    bestimmenden Frist und Form für die Zwecke des Berichts nach § 63
+    Absatz 3a Informationen und Analysen zu der Mindesterzeugung
+    insbesondere aus thermisch betriebenen Erzeugungsanlagen und aus
+    Anlagen zur Speicherung von elektrischer Energie sowie Informationen
+    und geeignete Analysen zur Entwicklung der Mindesterzeugung
+    übermitteln und
+
+
+5.  der Bundesnetzagentur jeweils jährlich auf deren Verlangen in einer
+    von ihr zu bestimmenden Frist und Form für die Zwecke des Monitorings
+    nach § 51a die Unternehmen und Vereinigungen von Unternehmen nennen,
+    die einen Stromverbrauch von mehr als 20 Gigawattstunden jährlich
+    haben.
+
+
+
+
+(5a) Die Bundesnetzagentur übermittelt die nach Absatz 5 zum Zwecke
+des Monitorings der Versorgungssicherheit nach § 51 und zur Erfüllung
+der Berichterstattungspflicht nach § 63 Absatz 2 Satz 1 Nummer 2
+erhobenen Daten an das Bundesministerium für Wirtschaft und Energie
+auf dessen Verlangen.
+
+(6) Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1
+Festlegungen zu treffen zur näheren Bestimmung des Kreises der nach
+Absatz 4 Satz 1 Verpflichteten, zum Inhalt und zur Methodik, zu den
+Details der Datenweitergabe und zum Datenformat der Bereitstellung an
+die Betreiber von Elektrizitätsversorgungsnetzen.
+
+(7) Die Regulierungsbehörde, das Bundesministerium für Wirtschaft und
+Energie sowie die Betreiber von Elektrizitätsversorgungsnetzen sollen
+anstelle der Abfrage nach den Absätzen 4 und 5 das
+Marktstammdatenregister nach § 111e nutzen, sobald und soweit ihnen
+das Marktstammdatenregister den Zugriff auf Daten im Sinne der Absätze
+4 und 5 eröffnet.
 
 
 #### § 12a Szenariorahmen für die Netzentwicklungsplanung
 
-(1) Die Betreiber von Übertragungsnetzen erarbeiten jährlich einen
-gemeinsamen Szenariorahmen, der Grundlage für die Erarbeitung des
-Netzentwicklungsplans nach § 12b ist. Der Szenariorahmen umfasst
-mindestens drei Entwicklungspfade (Szenarien), die für die nächsten
-zehn Jahre die Bandbreite wahrscheinlicher Entwicklungen im Rahmen der
-mittel- und langfristigen energiepolitischen Ziele der Bundesregierung
-abdecken. Eines der Szenarien muss die wahrscheinliche Entwicklung für
-die nächsten zwanzig Jahre darstellen. Für den Szenariorahmen legen
-die Betreiber von Übertragungsnetzen angemessene Annahmen für die
-jeweiligen Szenarien zu Erzeugung, Versorgung, Verbrauch von Strom
-sowie dessen Austausch mit anderen Ländern zu Grunde und
-berücksichtigen geplante Investitionsvorhaben der europäischen
-Netzinfrastruktur.
+(1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+erarbeiten alle zwei Jahre einen gemeinsamen Szenariorahmen, der
+Grundlage für die Erarbeitung des Netzentwicklungsplans nach § 12b und
+des Offshore-Netzentwicklungsplans nach § 17b ist. Der Szenariorahmen
+umfasst mindestens drei Entwicklungspfade (Szenarien), die für die
+mindestens nächsten zehn und höchstens 15 Jahre die Bandbreite
+wahrscheinlicher Entwicklungen im Rahmen der mittel- und langfristigen
+energiepolitischen Ziele der Bundesregierung abdecken. Eines der
+Szenarien muss die wahrscheinliche Entwicklung für die mindestens
+nächsten 15 und höchstens zwanzig Jahre darstellen. Für den
+Szenariorahmen legen die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung angemessene Annahmen für die jeweiligen
+Szenarien zu Erzeugung, Versorgung, Verbrauch von Strom sowie dessen
+Austausch mit anderen Ländern sowie zur Spitzenkappung nach § 11
+Absatz 2 zu Grunde und berücksichtigen geplante Investitionsvorhaben
+der europäischen Netzinfrastruktur.
 
-(2) Die Betreiber von Übertragungsnetzen legen der Regulierungsbehörde
-den Entwurf des Szenariorahmens vor. Die Regulierungsbehörde macht den
+(2) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+legen der Regulierungsbehörde den Entwurf des Szenariorahmens
+spätestens bis zum 10. Januar eines jeden geraden Kalenderjahres,
+beginnend mit dem Jahr 2016, vor. Die Regulierungsbehörde macht den
 Entwurf des Szenariorahmens auf ihrer Internsetseite öffentlich
 bekannt und gibt der Öffentlichkeit, einschließlich tatsächlicher und
 potenzieller Netznutzer, den nachgelagerten Netzbetreibern, sowie den
 Trägern öffentlicher Belange Gelegenheit zur Äußerung.
 
 (3) Die Regulierungsbehörde genehmigt den Szenariorahmen unter
-Berücksichtigung der Ergebnisse der Öffentlichkeitsbeteiligung.
+Berücksichtigung der Ergebnisse der Öffentlichkeitsbeteiligung. Die
+Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1 nähere
+Bestimmungen zu Inhalt und Verfahren der Erstellung des
+Szenariorahmens, insbesondere zum Betrachtungszeitraum nach Absatz 1
+Satz 2 und 3, treffen.
 
 
 #### § 12b Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen
 
-(1) Die Betreiber von Übertragungsnetzen legen der Regulierungsbehörde
-jährlich zum 3. März, erstmalig aber erst zum 3. Juni 2012, auf der
-Grundlage des Szenariorahmens einen gemeinsamen nationalen
-Netzentwicklungsplan zur Bestätigung vor. Der gemeinsame nationale
-Netzentwicklungsplan muss alle wirksamen Maßnahmen zur
-bedarfsgerechten Optimierung, Verstärkung und zum Ausbau des Netzes
-enthalten, die in den nächsten zehn Jahren für einen sicheren und
-zuverlässigen Netzbetrieb erforderlich sind. Der Netzentwicklungsplan
-enthält darüber hinaus folgende Angaben:
+(1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+legen der Regulierungsbehörde auf der Grundlage des Szenariorahmens
+einen gemeinsamen nationalen Netzentwicklungsplan zur Bestätigung vor.
+Der gemeinsame nationale Netzentwicklungsplan muss alle wirksamen
+Maßnahmen zur bedarfsgerechten Optimierung, Verstärkung und zum Ausbau
+des Netzes enthalten, die spätestens zum Ende des
+Betrachtungszeitraums im Sinne des § 12a Absatz 1 Satz 2 für einen
+sicheren und zuverlässigen Netzbetrieb erforderlich sind. Die
+Betreiber von Übertragungsnetzen mit Regelzonenverantwortung müssen im
+Rahmen der Erstellung des Netzentwicklungsplans die Regelungen zur
+Spitzenkappung nach § 11 Absatz 2 bei der Netzplanung anwenden. Der
+Netzentwicklungsplan enthält darüber hinaus folgende Angaben:
 
 1.  alle Netzausbaumaßnahmen, die in den nächsten drei Jahren ab
     Feststellung des Netzentwicklungsplans durch die Regulierungsbehörde
@@ -2046,11 +2954,17 @@ enthält darüber hinaus folgende Angaben:
 
 3.
     a)  Netzausbaumaßnahmen als Pilotprojekte für eine verlustarme Übertragung
-        hoher Leistungen über große Entfernungen sowie
+        hoher Leistungen über große Entfernungen,
 
 
     b)  den Einsatz von Hochtemperaturleiterseilen als Pilotprojekt mit einer
-        Bewertung ihrer technischen Durchführbarkeit und Wirtschaftlichkeit,
+        Bewertung ihrer technischen Durchführbarkeit und Wirtschaftlichkeit
+        sowie
+
+
+    c)  das Ergebnis der Prüfung des Einsatzes von neuen Technologien als
+        Pilotprojekte einschließlich einer Bewertung der technischen
+        Durchführbarkeit und Wirtschaftlichkeit,
 
 
 
@@ -2061,16 +2975,38 @@ enthält darüber hinaus folgende Angaben:
     Verzögerungen,
 
 
-5.  Angaben zur zu verwendenden Übertragungstechnologie.
+5.  Angaben zur zu verwendenden Übertragungstechnologie,
+
+
+6.  Darlegung der in Betracht kommenden anderweitigen
+    Planungsmöglichkeiten von Netzausbaumaßnahmen,
+
+
+7.  beginnend mit der Vorlage des ersten Entwurfs des
+    Netzentwicklungsplans im Jahr 2018 alle wirksamen Maßnahmen zur
+    bedarfsgerechten Optimierung, Verstärkung und zum Ausbau der Offshore-
+    Anbindungsleitungen in der ausschließlichen Wirtschaftszone und im
+    Küstenmeer einschließlich der Netzanknüpfungspunkte an Land, die bis
+    zum Ende des Betrachtungszeitraums nach § 12a Absatz 1 Satz 2 für
+    einen schrittweisen, bedarfsgerechten und wirtschaftlichen Ausbau
+    sowie einen sicheren und zuverlässigen Betrieb der Offshore-
+    Anbindungsleitungen sowie zum Weitertransport des auf See erzeugten
+    Stroms oder für eine Anbindung von Testfeldern im Sinne des § 3 Nummer
+    9 des Windenergie-auf-See-Gesetzes (Testfeld-Anbindungsleitungen)
+    erforderlich sind; für die Maßnahmen nach dieser Nummer werden Angaben
+    zum geplanten Zeitpunkt der Fertigstellung vorgesehen; hierbei müssen
+    die Festlegungen des zuletzt bekannt gemachten
+    Flächenentwicklungsplans nach den §§ 4 bis 8 des Windenergie-auf-See-
+    Gesetzes zu Grunde gelegt werden.
 
 
 
-Die Betreiber von Übertragungsnetzen nutzen bei der Erarbeitung des
-Netzentwicklungsplans eine geeignete und für einen sachkundigen
-Dritten nachvollziehbare Modellierung des deutschen
-Übertragungsnetzes. Der Netzentwicklungsplan berücksichtigt den
-gemeinschaftsweiten Netzentwicklungsplan nach Artikel 8 Absatz 3b der
-Verordnung (EG) Nr. 714/2009 und vorhandene Offshore-Netzpläne.
+Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+nutzen bei der Erarbeitung des Netzentwicklungsplans eine geeignete
+und für einen sachkundigen Dritten nachvollziehbare Modellierung des
+deutschen Übertragungsnetzes. Der Netzentwicklungsplan berücksichtigt
+den gemeinschaftsweiten Netzentwicklungsplan nach Artikel 8 Absatz 3b
+der Verordnung (EG) Nr. 714/2009 und vorhandene Offshore-Netzpläne.
 
 (2) Der Netzentwicklungsplan umfasst alle Maßnahmen, die nach den
 Szenarien des Szenariorahmens erforderlich sind, um die Anforderungen
@@ -2078,21 +3014,26 @@ nach Absatz 1 Satz 2 zu erfüllen. Dabei ist dem Erfordernis eines
 sicheren und zuverlässigen Netzbetriebs in besonderer Weise Rechnung
 zu tragen.
 
-(3) Die Betreiber von Übertragungsnetzen veröffentlichen den Entwurf
-des Netzentwicklungsplans vor Vorlage bei der Regulierungsbehörde auf
-ihren Internetseiten und geben der Öffentlichkeit, einschließlich
-tatsächlicher oder potenzieller Netznutzer, den nachgelagerten
-Netzbetreibern sowie den Trägern öffentlicher Belange und den
-Energieaufsichtsbehörden der Länder Gelegenheit zur Äußerung. Dafür
-stellen sie den Entwurf des Netzentwicklungsplans und alle weiteren
-erforderlichen Informationen im Internet zur Verfügung. Die Betreiber
-von Elektrizitätsverteilernetzen sind verpflichtet, mit den Betreibern
-von Übertragungsnetzen in dem Umfang zusammenzuarbeiten, der
-erforderlich ist, um eine sachgerechte Erstellung des
-Netzentwicklungsplans zu gewährleisten; sie sind insbesondere
-verpflichtet, den Betreibern von Übertragungsnetzen für die Erstellung
-des Netzentwicklungsplans notwendige Informationen auf Anforderung
-unverzüglich zur Verfügung zu stellen.
+(3) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+veröffentlichen den Entwurf des Netzentwicklungsplans vor Vorlage bei
+der Regulierungsbehörde auf ihren Internetseiten und geben der
+Öffentlichkeit, einschließlich tatsächlicher oder potenzieller
+Netznutzer, den nachgelagerten Netzbetreibern sowie den Trägern
+öffentlicher Belange und den Energieaufsichtsbehörden der Länder
+Gelegenheit zur Äußerung. Dafür stellen sie den Entwurf des
+Netzentwicklungsplans und alle weiteren erforderlichen Informationen
+im Internet zur Verfügung. Die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung sollen den Entwurf des Netzentwicklungsplans
+spätestens bis zum 10. Dezember eines jeden geraden Kalenderjahres,
+beginnend mit dem Jahr 2016, veröffentlichen. Die Betreiber von
+Elektrizitätsversorgungsnetzen sind verpflichtet, mit den Betreibern
+von Übertragungsnetzen mit Regelzonenverantwortung in dem Umfang
+zusammenzuarbeiten, der erforderlich ist, um eine sachgerechte
+Erstellung des Netzentwicklungsplans zu gewährleisten; sie sind
+insbesondere verpflichtet, den Betreibern von Übertragungsnetzen mit
+Regelzonenverantwortung für die Erstellung des Netzentwicklungsplans
+notwendige Informationen auf Anforderung unverzüglich zur Verfügung zu
+stellen.
 
 (4) Dem Netzentwicklungsplan ist eine zusammenfassende Erklärung
 beizufügen über die Art und Weise, wie die Ergebnisse der
@@ -2101,18 +3042,22 @@ dem Netzentwicklungsplan berücksichtigt wurden und aus welchen Gründen
 der Netzentwicklungsplan nach Abwägung mit den geprüften, in Betracht
 kommenden anderweitigen Planungsmöglichkeiten gewählt wurde.
 
-(5) Die Betreiber von Übertragungsnetzen legen den Entwurf des
-Netzentwicklungsplans der Regulierungsbehörde unverzüglich vor.
+(5) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+legen den konsultierten und überarbeiteten Entwurf des
+Netzentwicklungsplans der Regulierungsbehörde unverzüglich nach
+Fertigstellung, jedoch spätestens zehn Monate nach Genehmigung des
+Szenariorahmens gemäß § 12a Absatz 3 Satz 1, vor.
 
 
-#### § 12c Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde
+#### § 12c Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde
 
 (1) Die Regulierungsbehörde prüft die Übereinstimmung des
 Netzentwicklungsplans mit den Anforderungen gemäß § 12b Absatz 1, 2
 und 4. Sie kann Änderungen des Entwurfs des Netzentwicklungsplans
-durch die Übertragungsnetzbetreiber verlangen. Die Betreiber von
-Übertragungsnetzen stellen der Regulierungsbehörde auf Verlangen die
-für ihre Prüfungen erforderlichen Informationen zur Verfügung.
+durch die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+verlangen. Die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung stellen der Regulierungsbehörde auf Verlangen
+die für ihre Prüfungen erforderlichen Informationen zur Verfügung.
 Bestehen Zweifel, ob der Netzentwicklungsplan mit dem
 gemeinschaftsweit geltenden Netzentwicklungsplan in Einklang steht,
 konsultiert die Regulierungsbehörde die Agentur für die Zusammenarbeit
@@ -2120,11 +3065,18 @@ der Energieregulierungsbehörden.
 
 (2) Zur Vorbereitung eines Bedarfsplans nach § 12e erstellt die
 Regulierungsbehörde frühzeitig während des Verfahrens zur Erstellung
-des Netzentwicklungsplans einen Umweltbericht, der den Anforderungen
-des § 14g des Gesetzes über die Umweltverträglichkeitsprüfung
-entsprechen muss. Die Betreiber von Übertragungsnetzen stellen der
-Regulierungsbehörde die hierzu erforderlichen Informationen zur
-Verfügung.
+des Netzentwicklungsplans nach § 12b einen Umweltbericht, der den
+Anforderungen des § 40 des Gesetzes über die
+Umweltverträglichkeitsprüfung entsprechen muss. Der Umweltbericht nach
+Satz 1 bezieht den Umweltbericht zum Flächenentwicklungsplan nach § 6
+Absatz 4 des Windenergie-auf-See-Gesetzes ein und kann auf zusätzliche
+oder andere als im Umweltbericht zum Flächenentwicklungsplan nach § 6
+Absatz 4 des Windenergie-auf-See-Gesetzes enthaltene erhebliche
+Umweltauswirkungen beschränkt werden. Der Umweltbericht nach Satz 1
+kann sich auf den Bereich des Festlands und des Küstenmeeres
+beschränken. Die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung stellen der Regulierungsbehörde die hierzu
+erforderlichen Informationen zur Verfügung.
 
 (3) Nach Abschluss der Prüfung nach Absatz 1 beteiligt die
 Regulierungsbehörde unverzüglich die Behörden, deren Aufgabenbereich
@@ -2137,49 +3089,140 @@ Strategische Umweltprüfung sowie der Entwurf des Netzentwicklungsplans
 sind für eine Frist von sechs Wochen am Sitz der Regulierungsbehörde
 auszulegen und darüber hinaus auf ihrer Internetseite öffentlich
 bekannt zu machen. Die betroffene Öffentlichkeit kann sich zum Entwurf
-des Netzentwicklungsplans und zum Umweltbericht bis zwei Wochen nach
+des Netzentwicklungsplans und zum Umweltbericht bis einen Monat nach
 Ende der Auslegung äußern.
 
-(4) Die Regulierungsbehörde bestätigt den jährlichen
-Netzentwicklungsplan unter Berücksichtigung des Ergebnisses der
-Behörden- und Öffentlichkeitsbeteiligung mit Wirkung für die Betreiber
-von Übertragungsnetzen. Die Bestätigung ist nicht selbstständig durch
-Dritte anfechtbar. Die Regulierungsbehörde kann bestimmen, welcher
-Betreiber von Übertragungsnetzen für die Durchführung einer im
-Netzentwicklungsplan enthaltenen Maßnahme verantwortlich ist.
+(4) Die Regulierungsbehörde soll den Netzentwicklungsplan unter
+Berücksichtigung des Ergebnisses der Behörden- und
+Öffentlichkeitsbeteiligung mit Wirkung für die Betreiber von
+Übertragungsnetzen spätestens bis zum 31. Dezember eines jeden
+ungeraden Kalenderjahres, beginnend mit dem Jahr 2017, bestätigen. Die
+Bestätigung ist nicht selbstständig durch Dritte anfechtbar.
 
-(5) Die Betreiber von Übertragungsnetzen sind verpflichtet, den
-entsprechend Absatz 1 Satz 2 geänderten Netzentwicklungsplan der
-Regulierungsbehörde unverzüglich vorzulegen.
+(5) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+sind verpflichtet, den entsprechend Absatz 1 Satz 2 geänderten
+Netzentwicklungsplan der Regulierungsbehörde unverzüglich vorzulegen.
 
-(6) Die Regulierungsbehörde kann durch Festlegung nähere Bestimmungen
-zu Inhalt und Verfahren der Erstellung des Netzentwicklungsplans sowie
-zur Ausgestaltung des nach Absatz 3, § 12a Absatz 2 und § 12b Absatz 3
-durchzuführenden Verfahrens zur Beteiligung der Öffentlichkeit
-treffen.
-
-
-#### § 12d Öffentlichkeitsbeteiligung bei Fortschreibung des Netzentwicklungsplans
-
-Nach der erstmaligen Bestätigung des Netzentwicklungsplans kann sich
-die Beteiligung der Öffentlichkeit, einschließlich tatsächlicher und
+(6) Bei Fortschreibung des Netzentwicklungsplans kann sich die
+Beteiligung der Öffentlichkeit, einschließlich tatsächlicher und
 potenzieller Netznutzer, der nachgelagerten Netzbetreiber sowie der
 Träger öffentlicher Belange nach § 12a Absatz 2, § 12b Absatz 3 und §
-12c Absatz 3 auf Änderungen des Szenariorahmens oder des
-Netzentwicklungsplans gegenüber dem Vorjahr beschränken. Ein
-vollständiges Verfahren nach den §§ 12a bis 12c muss mindestens alle
-drei Jahre sowie in den Fällen des § 12e Absatz 1 Satz 3 durchgeführt
-werden.
+12c Absatz 3 auf Änderungen gegenüber dem zuletzt genehmigten
+Szenariorahmen oder dem zuletzt bestätigten Netzentwicklungsplan
+beschränken. Ein vollständiges Verfahren nach den §§ 12a bis 12c
+Absatz 1 bis 5 muss mindestens alle vier Jahre sowie in den Fällen des
+§ 12e Absatz 1 Satz 3 durchgeführt werden.
+
+(7) Die Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1
+nähere Bestimmungen zu Inhalt und Verfahren der Erstellung des
+Netzentwicklungsplans sowie zur Ausgestaltung des nach Absatz 3, § 12a
+Absatz 2 und § 12b Absatz 3 durchzuführenden Verfahrens zur
+Beteiligung der Öffentlichkeit treffen.
+
+(8) Die Regulierungsbehörde kann bei Bestätigung des
+Netzentwicklungsplans oder durch gesonderte Entscheidung bestimmen,
+wer für die Durchführung einer im Netzentwicklungsplan bestätigten
+Maßnahme als Vorhabenträger ganz oder teilweise verantwortlich ist.
+Hierbei berücksichtigt die Regulierungsbehörde ausschließlich Belange,
+die im öffentlichen Interesse eine möglichst zügige, effiziente und
+umweltschonende Durchführung der Maßnahmen erwarten lassen. Dazu
+gehören Vorschläge im Netzentwicklungsplan und etwaige Vereinbarungen
+von Übertragungsnetzbetreibern zur Bestimmung eines oder mehrerer
+Vorhabenträger; in diesem Fall ist durch die Übertragungsnetzbetreiber
+darzulegen, dass durch eine solche anteilige Zuweisung eine möglichst
+zügige und effiziente Durchführung der Maßnahme erreicht werden kann.
+Darüber hinaus kann sie insbesondere berücksichtigen
+
+1.  ob ein Vorhabenträger bereits für ein Vorhaben nach dem
+    Energieleitungsausbaugesetz oder dem Bundesbedarfsplangesetz
+    verantwortlich ist und die bestätigte Maßnahme mit diesem Vorhaben
+    gemeinsam realisiert werden soll,
+
+
+2.  ob durch die Durchführung einer Maßnahme durch einen Vorhabenträger
+    oder durch eine gemeinsame Durchführung der Maßnahme durch mehrere
+    Vorhabenträger die Ziele nach Satz 2 besser erreicht werden können,
+
+
+3.  die personelle, technische und wirtschaftliche Leistungsfähigkeit und
+    Zuverlässigkeit eines Vorhabenträgers,
+
+
+4.  die bisherigen Fortschritte eines Vorhabenträgers bei der Realisierung
+    von Vorhaben nach dem Energieleitungsausbaugesetz und dem
+    Bundesbedarfsplangesetz,
+
+
+5.  in welchem Umfang der Vorhabenträger neben der Durchführung der
+    Maßnahme im Übrigen für Netzausbauvorhaben verantwortlich ist oder
+    sein wird.
+
+
+
+Vorhabenträger für im Netzentwicklungsplan bestätigte Leitungen zur
+Höchstspannungs-Gleichstrom-Übertragung, für welche noch kein Antrag
+auf Bundesfachplanung nach § 6 Absatz 1
+Netzausbaubeschleunigungsgesetz oder in den Fällen des § 5a des
+Netzausbaubeschleunigungsgesetzes kein Antrag auf
+Planfeststellungsbeschluss für das Gesamtvorhaben oder Teile davon
+gestellt wurde, ist im Geltungsbereich des
+Netzausbaubeschleunigungsgesetzes der Übertragungsnetzbetreiber, in
+dessen Regelzone der südliche Netzverknüpfungspunkt der Leitung
+gelegen ist. Vorhabenträger für im Netzentwicklungsplan bestätigte
+Offshore-Anbindungsleitungen ist entsprechend § 17d Absatz 1 der
+Übertragungsnetzbetreiber, in dessen Regelzone der landseitige
+Netzverknüpfungspunkt gelegen ist. Die Bundesnetzagentur kann bei der
+Bestätigung des Netzentwicklungsplans oder durch gesonderte
+Entscheidung abweichend von den Sätzen 5 und 6 den Vorhabenträger nach
+den Sätzen 1 bis 4 bestimmen, um eine möglichst zügige, effiziente und
+umweltschonende Durchführung der Maßnahmen sicherzustellen.
+
+
+#### § 12d Umsetzungsbericht der Übertragungsnetzbetreiber und Monitoring durch die Regulierungsbehörde
+
+(1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+legen der Regulierungsbehörde jeweils spätestens bis zum 30. September
+eines jeden geraden Kalenderjahres, beginnend mit dem Jahr 2018, einen
+gemeinsamen Umsetzungsbericht vor, den diese prüft. Der
+Umsetzungsbericht muss folgende Angaben enthalten:
+
+1.  Angaben zum Stand der Umsetzung des zuletzt bestätigten
+    Netzentwicklungsplans,
+
+
+2.  im Fall von Verzögerungen der Umsetzung die dafür maßgeblichen Gründe,
+
+
+3.  Angaben zu den Risiken, die Verzögerungen hervorrufen können, und
+    Vorschläge für Maßnahmen, um diese Risiken zu verringern, und
+
+
+4.  Angaben zu Möglichkeiten, um die Umsetzung zu beschleunigen, und
+    Vorschläge für Maßnahmen, um diese Möglichkeiten zu nutzen.
+
+
+
+Die Regulierungsbehörde veröffentlicht den Umsetzungsbericht und gibt
+allen tatsächlichen und potenziellen Netznutzern Gelegenheit zur
+Äußerung.
+
+(2) Die Regulierungsbehörde führt fortlaufend ein Monitoring über die
+Planung und den Stand der Umsetzung der Maßnahmen zur Optimierung, zur
+Verstärkung und zum Ausbau des Übertragungsnetzes durch und informiert
+hierüber regelmäßig die Öffentlichkeit. Die Betreiber von
+Übertragungsnetzen und die Behörden stellen der Regulierungsbehörde
+die für das Monitoring notwendigen Informationen in geeigneter Form
+zur Verfügung.
 
 
 #### § 12e Bundesbedarfsplan
 
 (1) Die Regulierungsbehörde übermittelt den Netzentwicklungsplan
-mindestens alle drei Jahre der Bundesregierung als Entwurf für einen
+mindestens alle vier Jahre der Bundesregierung als Entwurf für einen
 Bundesbedarfsplan. Die Bundesregierung legt den Entwurf des
-Bundesbedarfsplans mindestens alle drei Jahre dem Bundesgesetzgeber
+Bundesbedarfsplans mindestens alle vier Jahre dem Bundesgesetzgeber
 vor. Die Regulierungsbehörde hat auch bei wesentlichen Änderungen des
-jährlichen Netzentwicklungsplans gemäß Satz 1 zu verfahren.
+Netzentwicklungsplans gemäß Satz 1 zu verfahren.
 
 (2) Die Regulierungsbehörde kennzeichnet in ihrem Entwurf für einen
 Bundesbedarfsplan die länderübergreifenden und grenzüberschreitenden
@@ -2189,16 +3232,7 @@ Land. Dem Entwurf ist eine Begründung beizufügen. Die Vorhaben des
 Bundesbedarfsplans entsprechen den Zielsetzungen des § 1 dieses
 Gesetzes.
 
-(3) Im Bundesbedarfsplan kann vorgesehen werden, dass ein einzelnes
-Pilotprojekt nach § 12b Absatz 1 Satz 3 Nummer 3a auf einem technisch
-und wirtschaftlich effizienten Teilabschnitt als Erdkabel errichtet
-und betrieben werden kann, wenn die Anforderungen nach § 2 Absatz 2
-Satz 1 Nummer 1 oder 2 des Energieleitungsausbaugesetzes erfüllt sind.
-Auf Verlangen der für die Zulassung des Vorhabens zuständigen Behörde
-ist die Leitung auf einem technisch und wirtschaftlich effizienten
-Teilabschnitt als Erdkabel zu errichten und zu betreiben oder zu
-ändern, wenn die Anforderungen nach § 2 Absatz 2 Satz 1 Nummer 1 oder
-2 des Energieleitungsausbaugesetzes erfüllt sind.
+(3) (weggefallen)
 
 (4) Mit Erlass des Bundesbedarfsplans durch den Bundesgesetzgeber wird
 für die darin enthaltenen Vorhaben die energiewirtschaftliche
@@ -2208,7 +3242,7 @@ die Planfeststellung und die Plangenehmigung nach den §§ 43 bis 43d
 und §§ 18 bis 24 des Netzausbaubeschleunigungsgesetzes
 Übertragungsnetz verbindlich.
 
-(5) Für die Änderung von Bundesbedarfsplänen gilt § 14d Satz 1 des
+(5) Für die Änderung von Bundesbedarfsplänen gilt § 37 Satz 1 des
 Gesetzes über die Umweltverträglichkeitsprüfung. Soweit danach keine
 Pflicht zur Durchführung einer Strategischen Umweltprüfung besteht,
 findet § 12c Absatz 2 keine Anwendung.
@@ -2217,13 +3251,12 @@ findet § 12c Absatz 2 keine Anwendung.
 #### § 12f Herausgabe von Daten
 
 (1) Die Regulierungsbehörde stellt dem Bundesministerium für
-Wirtschaft und Technologie, dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit sowie dem Umweltbundesamt Daten, die
-für digitale Netzberechnungen erforderlich sind, insbesondere
-Einspeise- und Lastdaten sowie Impedanzen und Kapazitäten von
-Leitungen und Transformatoren, einschließlich unternehmensbezogener
-Daten und Betriebs- und Geschäftsgeheimnisse zur Verfügung, soweit
-dies zur Erfüllung ihrer jeweiligen Aufgaben erforderlich ist.
+Wirtschaft und Energie sowie dem Umweltbundesamt Daten, die für
+digitale Netzberechnungen erforderlich sind, insbesondere Einspeise-
+und Lastdaten sowie Impedanzen und Kapazitäten von Leitungen und
+Transformatoren, einschließlich unternehmensbezogener Daten und
+Betriebs- und Geschäftsgeheimnisse zur Verfügung, soweit dies zur
+Erfüllung ihrer jeweiligen Aufgaben erforderlich ist.
 
 (2) Die Regulierungsbehörde gibt auf Antrag insbesondere
 netzknotenpunktscharfe Einspeise- und Lastdaten sowie Informationen zu
@@ -2273,223 +3306,2147 @@ geeigneten Geheimhaltungsgrad im Sinne von § 4 des
 Sicherheitsüberprüfungsgesetzes einzustufen.
 
 
+#### § 12h Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen
+
+(1) Betreiber von Übertragungsnetzen mit Regelzonenverantwortung und
+Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, für ihr
+jeweiliges Netz in einem transparenten, diskriminierungsfreien und
+marktgestützten Verfahren folgende Systemdienstleistungen zu
+beschaffen:
+
+1.  Dienstleistungen zur Spannungsregelung,
+
+
+2.  Trägheit der lokalen Netzstabilität,
+
+
+3.  Kurzschlussstrom,
+
+
+4.  dynamische Blindstromstützung,
+
+
+5.  Schwarzstartfähigkeit und
+
+
+6.  Inselbetriebsfähigkeit.
+
+
+
+Dabei darf die Beschaffung dieser Systemdienstleistungen nur erfolgen,
+soweit diese für einen sicheren, zuverlässigen und effizienten
+Netzbetrieb erforderlich sind.
+
+(2) Betreiber von Elektrizitätsverteilernetzen haben diese
+Systemdienstleistungen nur zu beschaffen, soweit sie diese in ihrem
+eigenen Netz benötigen oder die Systemdienstleistungen im Einvernehmen
+mit den Betreibern von Übertragungsnetzen mit Regelzonenverantwortung
+beschafft werden.
+
+(3) Die Verpflichtung nach Absatz 1 Satz 1 ist nicht für
+Systemdienstleistungen aus vollständig integrierten Netzkomponenten
+anzuwenden.
+
+(4) Die Bundesnetzagentur kann Ausnahmen von der Verpflichtung der
+marktgestützten Beschaffung von Systemdienstleistungen nach § 29
+Absatz 1 festlegen, wenn diese wirtschaftlich nicht effizient ist; sie
+kann auch einzelne Spannungsebenen ausnehmen. Erstmalig trifft die
+Bundesnetzagentur Entscheidungen über Ausnahmen bis zum 31. Dezember
+2020 ohne Anhörung. Gewährt sie eine Ausnahme, überprüft sie ihre
+Einschätzung spätestens alle drei Jahre und veröffentlicht das
+Ergebnis.
+
+(5) Soweit die Bundesnetzagentur keine Ausnahmen nach Absatz 4
+festlegt, hat sie die Spezifikationen und technischen Anforderungen
+der transparenten, diskriminierungsfreien und marktgestützten
+Beschaffung der jeweiligen Systemdienstleistung, vorbehaltlich des
+Absatzes 4, nach § 29 Absatz 1 festzulegen. Die Spezifikationen und
+technischen Anforderungen müssen sicherstellen, dass sich alle
+Marktteilnehmer wirksam und diskriminierungsfrei beteiligen können;
+dies schließt Anbieter erneuerbarer Energien, Anbieter dezentraler
+Erzeugung, Anbieter von Laststeuerung und Energiespeicherung sowie
+Anbieter ein, die in der Aggregierung tätig sind. Die Spezifikationen
+und technischen Anforderungen sollen sicherstellen, dass die
+marktgestützte Beschaffung der jeweiligen Systemdienstleistung nicht
+zu einer Reduzierung der Einspeisung vorrangberechtigter Elektrizität
+führt. Die Spezifikationen und technischen Anforderungen wirken auf
+eine größtmögliche Effizienz der Beschaffung und des Netzbetriebs hin.
+
+(6) Statt einer Festlegung nach Absatz 5 kann die Bundesnetzagentur
+die Betreiber von Übertragungs- und Verteilernetzen auffordern,
+jeweils gemeinsam Spezifikationen und technische Anforderungen in
+einem transparenten Verfahren, an dem alle relevanten Netznutzer und
+Betreiber von Elektrizitätsversorgungsnetzen teilnehmen können, zu
+erarbeiten oder zu überarbeiten. Diese Spezifikationen und technischen
+Anforderungen sind der Bundesnetzagentur zur Genehmigung vorzulegen;
+dabei sind die Anforderungen nach Absatz 5 Satz 2 bis 4 entsprechend
+anzuwenden. Die Bundesnetzagentur hat von ihr genehmigte
+Spezifikationen und technische Anforderungen zu veröffentlichen.
+
+(7) Die Verpflichtungen zur marktgestützten Beschaffung von
+Systemdienstleistungen nach Absatz 1 sind ausgesetzt, bis die
+Bundesnetzagentur die Spezifikationen und technischen Anforderungen
+erstmals nach Absatz 5 festgelegt oder nach Absatz 6 genehmigt hat.
+
+(8) Die Betreiber von Elektrizitätsversorgungsnetzen sind
+verpflichtet, alle erforderlichen Informationen untereinander
+auszutauschen und sich abzustimmen, damit die Ressourcen optimal
+genutzt sowie die Netze sicher und effizient betrieben werden und die
+Marktentwicklung erleichtert wird.
+
+(9) Hat die Bundesnetzagentur für Systemdienstleistungen nach Absatz 1
+Satz 1 Nummer 5 eine Ausnahme nach Absatz 4 festgelegt oder, sofern
+sie von einer Ausnahme abgesehen hat, noch keine Spezifikationen und
+technischen Anforderungen nach Absatz 5 festgelegt oder nach Absatz 6
+genehmigt, sind die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung und die Betreiber von
+Elektrizitätsverteilernetzen berechtigt, Betreiber von
+Erzeugungsanlagen oder Anlagen zur Speicherung elektrischer Energie
+zur Vorhaltung der Schwarzstartfähigkeit ihrer Anlagen zu
+verpflichten. Die Verpflichtung zur Vorhaltung der
+Schwarzstartfähigkeit umfasst auch die Durchführung von
+Schwarzstartversuchen und Betriebsversuchen im Sinne der genehmigten
+vertraglichen Modalitäten für Anbieter von Systemdienstleistungen zum
+Netzwiederaufbau nach Artikel 4 Absatz 2 Buchstabe b und Absatz 4 der
+Verordnung (EU) 2017/2196 der Kommission vom 24. November 2017 zur
+Festlegung eines Netzkodex über den Notzustand und den
+Netzwiederaufbau des Übertragungsnetzes (ABl. L 312 vom 28.11.2017, S.
+54). Die Verpflichtung der Betreiber der Erzeugungsanlagen oder
+Anlagen zur Speicherung elektrischer Energie ist erforderlich, sofern
+andernfalls die Sicherheit oder Zuverlässigkeit des
+Elektrizitätsversorgungssystems gefährdet wäre. Im Falle der
+Verpflichtung nach Satz 1 kann der Betreiber der Erzeugungsanlage oder
+der Anlage zur Speicherung elektrischer Energie eine angemessene
+Vergütung geltend machen, die entsprechend § 13c Absatz 1 bestimmt
+wird. § 13c Absatz 5 ist entsprechend anzuwenden.
+
+
 #### § 13 Systemverantwortung der Betreiber von Übertragungsnetzen
 
 (1) Sofern die Sicherheit oder Zuverlässigkeit des
 Elektrizitätsversorgungssystems in der jeweiligen Regelzone gefährdet
-oder gestört ist, sind Betreiber von Übertragungsnetzen berechtigt und
-verpflichtet, die Gefährdung oder Störung durch
+oder gestört ist, sind die Betreiber der Übertragungsnetze berechtigt
+und verpflichtet, die Gefährdung oder Störung zu beseitigen durch
 
-1.  netzbezogene Maßnahmen, insbesondere durch Netzschaltungen, und
-
-
-2.  marktbezogene Maßnahmen, wie insbesondere den Einsatz von
-    Regelenergie, vertraglich vereinbarte abschaltbare und zuschaltbare
-    Lasten, Information über Engpässe und Management von Engpässen sowie
-    Mobilisierung zusätzlicher Reserven
+1.  netzbezogene Maßnahmen, insbesondere durch Netzschaltungen,
 
 
+2.  marktbezogene Maßnahmen, insbesondere durch den Einsatz von
+    Regelenergie, Maßnahmen nach § 13a Absatz 1, vertraglich vereinbarte
+    abschaltbare und zuschaltbare Lasten, Information über Engpässe und
+    das Management von Engpässen sowie
 
-zu beseitigen.
 
-(1a) Für die Durchführung von Maßnahmen nach Absatz 1 Nummer 2 sind
-Betreiber von Anlagen zur Speicherung von elektrischer Energie und von
-Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit
-einer Nennleistung ab 50 Megawatt an Elektrizitätsversorgungsnetzen
-mit einer Spannung von mindestens 110 Kilovolt verpflichtet, auf
-Anforderung durch die Betreiber von Übertragungsnetzen und
-erforderlichenfalls in Abstimmung mit dem Betreiber desjenigen Netzes,
-in das die Erzeugungsanlage eingebunden ist, gegen angemessene
-Vergütung die Wirkleistungs- oder Blindleistungseinspeisung
-anzupassen. Eine Anpassung umfasst auch die Anforderung einer
-Einspeisung aus Erzeugungsanlagen, die derzeit nicht einspeisen und
-erforderlichenfalls erst betriebsbereit gemacht werden müssen oder die
-zur Erfüllung der Anforderung eine geplante Revision verschieben
-müssen. Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1
-Festlegungen zu treffen zur Konkretisierung des Adressatenkreises nach
-Satz 1, zu erforderlichen technischen Anforderungen, die gegenüber den
-Betreibern betroffener Erzeugungsanlagen aufzustellen sind, zu
-Methodik und Datenformat der Anforderung durch den Betreiber von
-Übertragungsnetzen sowie zu Kriterien für die Bestimmung der
-angemessenen Vergütung.
+3.  zusätzliche Reserven, insbesondere die Netzreserve nach § 13d und die
+    Kapazitätsreserve nach § 13e.
 
-(2) Lässt sich eine Gefährdung oder Störung durch Maßnahmen nach
-Absatz 1 nicht oder nicht rechtzeitig beseitigen, so sind Betreiber
-von Übertragungsnetzen im Rahmen der Zusammenarbeit nach § 12 Abs. 1
-berechtigt und verpflichtet, sämtliche Stromeinspeisungen,
-Stromtransite und Stromabnahmen in ihren Regelzonen den Erfordernissen
+
+
+Bei strom- und spannungsbedingten Anpassungen der
+Wirkleistungserzeugung oder des Wirkleistungsbezugs sind abweichend
+von Satz 1 von mehreren geeigneten Maßnahmen nach Satz 1 Nummer 2 und
+3 die Maßnahmen auszuwählen, die voraussichtlich insgesamt die
+geringsten Kosten verursachen. Maßnahmen gegenüber Anlagen zur
+Erzeugung oder Speicherung von elektrischer Energie mit einer
+Nennleistung unter 100 Kilowatt, die durch einen Netzbetreiber
+jederzeit fernsteuerbar sind, dürfen die Betreiber von
+Übertragungsnetzen unabhängig von den Kosten nachrangig ergreifen.
+
+(1a) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind die
+Verpflichtungen nach § 11 Absatz 1 und 3 des Erneuerbare-Energien-
+Gesetzes einzuhalten, indem für Maßnahmen zur Reduzierung der
+Wirkleistungserzeugung von Anlagen nach § 3 Nummer 1 des Erneuerbare-
+Energien-Gesetzes kalkulatorische Kosten anzusetzen sind, die anhand
+eines für alle Anlagen nach § 3 Nummer 1 des Erneuerbare-Energien-
+Gesetzes einheitlichen kalkulatorischen Preises zu bestimmen sind. Der
+einheitliche kalkulatorische Preis ist so zu bestimmen, dass die
+Reduzierung der Wirkleistungserzeugung der Anlagen nach § 3 Nummer 1
+des Erneuerbare-Energien-Gesetzes nur erfolgt, wenn dadurch in der
+Regel ein Vielfaches an Reduzierung von nicht vorrangberechtigter
+Erzeugung ersetzt werden kann (Mindestfaktor). Der Mindestfaktor nach
+Satz 2 beträgt mindestens fünf und höchstens fünfzehn; Näheres
+bestimmt die Bundesnetzagentur nach § 13j Absatz 5 Nummer 2.
+
+(1b) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind die
+Verpflichtungen nach § 3 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes
+einzuhalten, indem für Maßnahmen zur Reduzierung der
+Wirkleistungserzeugung von hocheffizienten KWK-Anlagen in Bezug auf
+die Erzeugung von KWK-Strom nach § 3 Absatz 2 des Kraft-Wärme-
+Kopplungsgesetzes
+
+1.  die tatsächlichen Kosten anzusetzen sind, soweit eine Zahlung nach
+    § 8a oder § 8b des Kraft-Wärme-Kopplungsgesetzes in Verbindung mit der
+    KWK-Ausschreibungsverordnung oder nach Absatz 6a in Anspruch genommen
+    wurde, und
+
+
+2.  kalkulatorische Kosten in entsprechender Anwendung von Absatz 1a
+    anzusetzen sind, wenn kein Fall nach Nummer 1 vorliegt und die
+    kalkulatorischen Kosten die tatsächlichen Kosten übersteigen, wobei
+    der Mindestfaktor mindestens das Fünffache und höchstens das
+    Fünfzehnfache beträgt.
+
+
+
+
+(1c) Im Rahmen der Auswahlentscheidung nach Absatz 1 Satz 2 sind bei
+Maßnahmen zur Erhöhung der Erzeugungsleistung von Anlagen der
+Netzreserve nach § 13d kalkulatorische Kosten anzusetzen, die anhand
+eines für alle Anlagen einheitlichen kalkulatorischen Preises zu
+bestimmen sind. Übersteigen die tatsächlichen Kosten die
+kalkulatorischen Kosten, sind die tatsächlichen Kosten anzusetzen. Der
+einheitliche kalkulatorische Preis ist so zu bestimmen, dass ein
+Einsatz der Anlagen der Netzreserve in der Regel nachrangig zu dem
+Einsatz von Anlagen mit nicht vorrangberechtigter Einspeisung erfolgt
+und in der Regel nicht zu einer höheren Reduzierung der
+Wirkleistungserzeugung der Anlagen nach § 3 Nummer 1 des Erneuerbare-
+Energien-Gesetzes führt als bei einer Auswahlentscheidung nach den
+tatsächlichen Kosten. Der einheitliche kalkulatorische Preis
+entspricht mindestens dem höchsten tatsächlichen Preis, der für die
+Erhöhung der Erzeugungsleistung von Anlagen mit nicht
+vorrangberechtigter Einspeisung, die nicht zur Netzreserve zählen,
+regelmäßig aufgewendet wird.
+
+(2) Lässt sich eine Gefährdung oder Störung der Sicherheit oder
+Zuverlässigkeit des Elektrizitätsversorgungssystems durch Maßnahmen
+nach Absatz 1 nicht oder nicht rechtzeitig beseitigen, so sind die
+Betreiber der Übertragungsnetze im Rahmen der Zusammenarbeit nach § 12
+Absatz 1 berechtigt und verpflichtet, sämtliche Stromerzeugung,
+Stromtransite und Strombezüge in ihren Regelzonen den Erfordernissen
 eines sicheren und zuverlässigen Betriebs des Übertragungsnetzes
 anzupassen oder diese Anpassung zu verlangen. Bei einer erforderlichen
-Anpassung von Stromeinspeisungen und Stromabnahmen sind insbesondere
-die betroffenen Betreiber von Elektrizitätsverteilernetzen und
-Stromhändler soweit möglich vorab zu informieren.
+Anpassung von Stromerzeugung und Strombezügen sind insbesondere die
+betroffenen Betreiber von Elektrizitätsverteilernetzen und
+Stromhändler – soweit möglich – vorab zu informieren.
 
-(2a) Bei Maßnahmen nach den Absätzen 1 und 2 sind die Verpflichtungen
-nach § 8 Absatz 1 des Erneuerbare-Energien-Gesetzes und nach § 4
-Absatz 1 und 3 Satz 2 des Kraft-Wärme-Kopplungsgesetzes einzuhalten.
-Bei Maßnahmen nach Absatz 1 Satz 1 Nummer 2 ist der Einsatz
-vertraglicher Vereinbarungen zur Einspeisung von nach Satz 1
-vorrangberechtigter Elektrizität nach Ausschöpfung der vertraglichen
-Vereinbarungen zur Reduzierung der Einspeisung von nicht
-vorrangberechtigter Elektrizität zulässig, soweit die Bestimmungen des
-Erneuerbare-Energien-Gesetzes oder des Kraft-Wärme-Kopplungsgesetzes
-ein Abweichen von genannten Verpflichtungen auf Grund vertraglicher
-Vereinbarungen ausnahmsweise eröffnen. Beruht die Gefährdung oder
-Störung auf einer Überlastung der Netzkapazität, so sind im Rahmen von
-Maßnahmen nach Absatz 2 die speziellen Anforderungen nach den §§ 11
-und 12 des Erneuerbare-Energien-Gesetzes einzuhalten. Soweit die
-Einhaltung der in diesem Absatz genannten Verpflichtungen die
-Beseitigung einer Gefährdung oder Störung verhindern würde, kann
-ausnahmsweise von ihnen abgewichen werden. Ein solcher Ausnahmefall
-liegt insbesondere vor, soweit die Betreiber von Übertragungsnetzen
-zur Gewährleistung der Sicherheit und Zuverlässigkeit des
-Elektrizitätsversorgungssystems auf die Mindesteinspeisung aus
-bestimmten Anlagen angewiesen sind (netztechnisch erforderliches
-Minimum). Ausnahmen nach den Sätzen 4 und 5 sind der
-Regulierungsbehörde unverzüglich anzuzeigen und die besonderen Gründe
-nachzuweisen. Die Regulierungsbehörde kann Kriterien für die nach Satz
-4 geltenden Ausnahmefälle durch Festlegung nach § 29 Absatz 1
-bestimmen.
+(3) Soweit die Einhaltung der in den Absätzen 1 und 2 genannten
+Verpflichtungen die Beseitigung einer Gefährdung oder Störung
+verhindern würde, kann ausnahmsweise von ihnen abgewichen werden. Ein
+solcher Ausnahmefall liegt insbesondere vor, soweit die Betreiber von
+Übertragungsnetzen zur Gewährleistung der Sicherheit und
+Zuverlässigkeit des Elektrizitätsversorgungssystems auf die
+Mindesteinspeisung aus bestimmten Anlagen angewiesen sind und keine
+technisch gleich wirksame andere Maßnahme verfügbar ist (netztechnisch
+erforderliches Minimum). Bei Maßnahmen nach den Absätzen 1 und 2 sind
+die Auswirkungen auf die Sicherheit und Zuverlässigkeit des
+Gasversorgungssystems auf Grundlage der von den Betreibern der
+Gasversorgungsnetze nach § 12 Absatz 4 Satz 1 bereitzustellenden
+Informationen angemessen zu berücksichtigen.
 
-(3) Eine Gefährdung der Sicherheit und Zuverlässigkeit des
+(4) Eine Gefährdung der Sicherheit oder Zuverlässigkeit des
 Elektrizitätsversorgungssystems in der jeweiligen Regelzone liegt vor,
 wenn örtliche Ausfälle des Übertragungsnetzes oder kurzfristige
 Netzengpässe zu besorgen sind oder zu besorgen ist, dass die Haltung
-von Frequenz, Spannung oder Stabilität durch die
-Übertragungsnetzbetreiber nicht im erforderlichen Maße gewährleistet
-werden kann.
+von Frequenz, Spannung oder Stabilität durch die Betreiber von
+Übertragungsnetzen nicht im erforderlichen Maße gewährleistet werden
+kann.
 
-(4) Im Falle einer Anpassung nach Absatz 2 ruhen bis zur Beseitigung
-der Gefährdung oder Störung alle hiervon jeweils betroffenen
-Leistungspflichten. Soweit bei Vorliegen der Voraussetzungen nach
-Absatz 2 Maßnahmen getroffen werden, ist insoweit die Haftung für
-Vermögensschäden ausgeschlossen. Im Übrigen bleibt § 11 Abs. 2
-unberührt.
+(5) Im Falle einer Anpassung nach Absatz 2 Satz 1 ruhen bis zur
+Beseitigung der Gefährdung oder Störung alle hiervon jeweils
+betroffenen Leistungspflichten. Satz 1 führt grundsätzlich nicht zu
+einer Aussetzung der Abrechnung der Bilanzkreise durch den Betreiber
+eines Übertragungsnetzes. Soweit bei Vorliegen der Voraussetzungen
+nach Absatz 2 Maßnahmen getroffen werden, ist insoweit die Haftung für
+Vermögensschäden ausgeschlossen. Im Übrigen bleibt § 11 Absatz 3
+unberührt. Die Sätze 3 und 4 sind für Entscheidungen des Betreibers
+von Übertragungsnetzen im Rahmen von § 13b Absatz 5, § 13f Absatz 1
+und § 16 Absatz 2a entsprechend anzuwenden.
 
-(4a) Die Rechtsfolgen nach Absatz 4 treten nicht ein, soweit Betreiber
-von Übertragungsnetzen ihnen angebotene technisch und wirtschaftlich
-sinnvolle Vereinbarungen für freiwillige Ab- und Zuschaltungen mit
-Lasten nach Absatz 1 Satz 1 Nummer 2 ohne hinreichenden Grund im
-Vorfeld einer Gefährdung oder Störung der Sicherheit oder
-Zuverlässigkeit des Elektrizitätsversorgungssystems in der jeweiligen
-Regelzone nicht abgeschlossen haben. Als wirtschaftlich sinnvoll
-gelten jeweils Vereinbarungen bis zur Dauer eines Jahres, bei denen
-die durch den Betreiber von Übertragungsnetzen zu zahlende Vergütung
-nicht die anteilig verhinderten potenziellen Kosten von
-Versorgungsunterbrechungen übersteigt. Als technisch sinnvoll gelten
-Vereinbarungen, bei denen Ab- und Zuschaltungen für eine
-Mindestlastgröße von 50 Megawatt unverzögert herbeigeführt werden
-können, sicher verfügbar und geeignet sind, zur Sicherheit und
-Zuverlässigkeit des Elektrizitätsversorgungssystems in der jeweiligen
-Regelzone beizutragen. Näheres insbesondere zu Ausgestaltung und Höhe
-der Vergütung kann durch Rechtsverordnung, die der Zustimmung des
-Deutschen Bundestages bedarf, geregelt werden. Die Zustimmung gilt mit
-Ablauf der sechsten Sitzungswoche nach Zuleitung des
-Verordnungsentwurfs der Bundesregierung an den Deutschen Bundestag als
-erteilt.
+(6) Die Beschaffung von Ab- oder Zuschaltleistung über vertraglich
+vereinbarte ab- oder zuschaltbare Lasten nach Absatz 1 Satz 1 Nummer 2
+erfolgt durch die Betreiber von Übertragungsnetzen in einem
+diskriminierungsfreien und transparenten Ausschreibungsverfahren, bei
+dem die Anforderungen, die die Anbieter von Ab- oder Zuschaltleistung
+für die Teilnahme erfüllen müssen, soweit dies technisch möglich ist,
+zu vereinheitlichen sind. Die Betreiber von Übertragungsnetzen haben
+für die Ausschreibung von Ab- oder Zuschaltleistung aus ab- oder
+zuschaltbaren Lasten eine gemeinsame Internetplattform einzurichten.
+Die Einrichtung der Plattform nach Satz 2 ist der Regulierungsbehörde
+anzuzeigen. Die Betreiber von Übertragungsnetzen sind unter Beachtung
+ihrer jeweiligen Systemverantwortung verpflichtet, zur Senkung des
+Aufwandes für Ab- und Zuschaltleistung unter Berücksichtigung der
+Netzbedingungen zusammenzuarbeiten.
 
-(5) Über die Gründe von durchgeführten Anpassungen und Maßnahmen sind
+(6a) Die Betreiber von Übertragungsnetzen können mit Betreibern von
+KWK-Anlagen vertragliche Vereinbarungen zur Reduzierung der
+Wirkleistungseinspeisung aus der KWK-Anlage und gleichzeitigen
+bilanziellen Lieferung von elektrischer Energie für die
+Aufrechterhaltung der Wärmeversorgung nach Absatz 1 Satz 1 Nummer 2
+schließen, wenn die KWK-Anlage
+
+1.  technisch unter Berücksichtigung ihrer Größe und Lage im Netz geeignet
+    ist, zur Beseitigung von Gefährdungen oder Störungen der Sicherheit
+    oder Zuverlässigkeit des Elektrizitätsversorgungssystems aufgrund von
+    Netzengpässen im Höchstspannungsnetz effizient beizutragen,
+
+
+2.  sich im Zeitpunkt des Vertragsabschlusses innerhalb der Bundesrepublik
+    Deutschland, aber außerhalb der Südregion nach der Anlage 1 des
+    Kohleverstromungsbeendigungsgesetzes vom 8. August 2020 (BGBl. I S.
+    1818), das zuletzt durch Artikel 26 Absatz 2 des Gesetzes vom 3. Juni
+    2021 (BGBl. I S. 1534) geändert worden ist, befindet,
+
+
+3.  vor dem 14. August 2020 in Betrieb genommen worden ist und
+
+
+4.  eine installierte elektrische Leistung von mehr als 500 Kilowatt hat.
+
+
+
+In der vertraglichen Vereinbarung nach Satz 1 ist zu regeln, dass
+
+1.  die Reduzierung der Wirkleistungseinspeisung und die bilanzielle
+    Lieferung von elektrischer Energie zum Zweck der Aufrechterhaltung der
+    Wärmeversorgung abweichend von § 3 Absatz 1 und 2 des Kraft-Wärme-
+    Kopplungsgesetzes und als Maßnahme nach Absatz 1 Satz 1 Nummer 2
+    durchzuführen ist,
+
+
+2.  für die Maßnahme nach Nummer 1 zwischen dem Betreiber des
+    Übertragungsnetzes und dem Betreiber der KWK-Anlage unter Anrechnung
+    der bilanziellen Lieferung elektrischer Energie ein angemessener
+    finanzieller Ausgleich zu leisten ist, der den Betreiber der KWK-
+    Anlage wirtschaftlich weder besser noch schlechter stellt, als er ohne
+    die Maßnahme stünde, dabei ist § 13a Absatz 2 bis 4 entsprechend
+    anzuwenden, und
+
+
+3.  die erforderlichen Kosten für die Investition für die elektrische
+    Wärmeerzeugung, sofern sie nach dem Vertragsschluss entstanden sind,
+    vom Betreiber des Übertragungsnetzes einmalig erstattet werden.
+
+
+
+Die Betreiber der Übertragungsnetze müssen sich bei der Auswahl der
+KWK-Anlagen, mit denen vertragliche Vereinbarungen nach den Sätzen 1
+und 2 geschlossen werden, auf die KWK-Anlagen beschränken, die
+kostengünstig und effizient zur Beseitigung von Netzengpässen
+beitragen können. Die vertragliche Vereinbarung muss mindestens für
+fünf Jahre abgeschlossen werden und kann höchstens eine Geltungsdauer
+bis zum 31. Dezember 2028 haben; sie ist mindestens vier Wochen vor
+dem Abschluss der Bundesnetzagentur und spätestens vier Wochen nach
+dem Abschluss den anderen Betreibern von Übertragungsnetzen zu
+übermitteln. Sie dürfen nur von Übertragungsnetzbetreibern aufgrund
+von Engpässen im Übertragungsnetz abgeschlossen werden, § 14 Absatz 1
+Satz 1 findet insoweit keine Anwendung. Die installierte elektrische
+Leistung von Wärmeerzeugern, die aufgrund einer vertraglichen
+Vereinbarung mit den KWK-Anlagen nach den Sätzen 1 und 2 installiert
+wird, darf 2 Gigawatt nicht überschreiten.
+
+(7) Über die Gründe von durchgeführten Anpassungen und Maßnahmen sind
 die hiervon unmittelbar Betroffenen und die Regulierungsbehörde
 unverzüglich zu informieren. Auf Verlangen sind die vorgetragenen
-Gründe zu belegen. Die Regulierungsbehörde kann durch Festlegung nach
-§ 29 Absatz 1 bestimmen, in welchem Umfang die Netzbetreiber Maßnahmen
-nach den Absätzen 1 und 2, Gründe und zugrunde liegende vertragliche
-Regelungen innerhalb bestimmter Frist und in einer bestimmten Form an
-sie mitteilen und auf einer gemeinsamen Internetplattform
-veröffentlichen.
+Gründe zu belegen.
 
-(6) Reichen die Maßnahmen gemäß Absatz 2 nach Feststellung eines
+(8) Reichen die Maßnahmen nach Absatz 2 nach Feststellung eines
 Betreibers von Übertragungsnetzen nicht aus, um eine
 Versorgungsstörung für lebenswichtigen Bedarf im Sinne des § 1 des
 Energiesicherungsgesetzes abzuwenden, muss der Betreiber von
 Übertragungsnetzen unverzüglich die Regulierungsbehörde unterrichten.
 
-(7) Zur Vermeidung schwerwiegender Versorgungsstörungen haben
+(9) Zur Vermeidung schwerwiegender Versorgungsstörungen müssen die
 Betreiber von Übertragungsnetzen alle zwei Jahre eine
-Schwachstellenanalyse zu erarbeiten und auf dieser Grundlage
-notwendige Maßnahmen zu treffen. Das Personal in den Steuerstellen ist
-entsprechend zu unterweisen. Über das Ergebnis der
-Schwachstellenanalyse und die notwendigen Maßnahmen hat der
-Übertragungsnetzbetreiber alle zwei Jahre jeweils zum 31. August der
-Regulierungsbehörde zu berichten.
+Schwachstellenanalyse erarbeiten und auf dieser Grundlage notwendige
+Maßnahmen treffen. Das Personal in den Steuerstellen ist entsprechend
+zu unterweisen. Über das Ergebnis der Schwachstellenanalyse und die
+notwendigen Maßnahmen hat der Betreiber eines Übertragungsnetzes alle
+zwei Jahre jeweils zum 31. August der Regulierungsbehörde zu
+berichten.
+
+(10) Die Betreiber von Übertragungsnetzen erstellen jährlich gemeinsam
+für die nächsten fünf Jahre eine Prognose des Umfangs von Maßnahmen
+nach den Absätzen 1 und 2, die aufgrund von Netzengpässen notwendig
+sind, und übermitteln diese jedes Jahr spätestens zum 1. Juli an die
+Bundesnetzagentur. Die zugrunde liegenden Annahmen, Parameter und
+Szenarien für die Prognose nach Satz 1 sind der im jeweiligen Jahr
+erstellten Systemanalyse und den in dem jeweiligen Jahr oder einem
+Vorjahr erstellten ergänzenden Analysen nach § 3 Absatz 2 der
+Netzreserveverordnung zu entnehmen. Die Prognose nach Satz 1 enthält
+eine Schätzung der Kosten. Die Bundesnetzagentur veröffentlicht die
+Prognose nach Satz 1.
+
+
+#### § 13a Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich
+
+(1) Betreiber von Anlagen zur Erzeugung oder Speicherung von
+elektrischer Energie mit einer Nennleistung ab 100 Kilowatt sowie von
+Anlagen zur Erzeugung oder Speicherung von elektrischer Energie, die
+durch einen Netzbetreiber jederzeit fernsteuerbar sind, sind
+verpflichtet, auf Aufforderung durch Betreiber von Übertragungsnetzen
+die Wirkleistungs- oder Blindleistungserzeugung oder den
+Wirkleistungsbezug anzupassen oder die Anpassung zu dulden. Eine
+Anpassung umfasst auch die Aufforderung einer Einspeisung oder eines
+Bezugs aus Anlagen, die
+
+1.  derzeit keine elektrische Energie erzeugen oder beziehen und
+    erforderlichenfalls erst betriebsbereit gemacht werden müssen oder
+
+
+2.  zur Erfüllung der Anforderungen einer Erzeugung oder eines Bezugs eine
+    geplante Revision verschieben müssen.
+
+
+
+
+(1a) Der Bilanzkreisverantwortliche der betroffenen Einspeise- oder
+Entnahmestelle hat einen Anspruch auf einen bilanziellen Ausgleich der
+Maßnahme gegen den Übertragungsnetzbetreiber, der den Betreiber der
+Anlage nach Absatz 1 zur Anpassung aufgefordert oder die Anpassung
+durchgeführt hat. Der Übertragungsnetzbetreiber hat einen Anspruch
+gegen den Bilanzkreisverantwortlichen auf Abnahme des bilanziellen
+Ausgleichs. Ist der Strom nach § 59 des Erneuerbare-Energien-Gesetzes
+zu vermarkten, erfolgt der bilanzielle Ausgleich abweichend von Satz 1
+mit dem Bilanzkreis, über den der Übertragungsnetzbetreiber die
+Vermarktung durchführt. Der Übertragungsnetzbetreiber muss den
+Bilanzkreisverantwortlichen unverzüglich über den geplanten Zeitpunkt,
+den Umfang und die Dauer der Anpassung unterrichten. Der
+Übertragungsnetzbetreiber muss den Bilanzkreisverantwortlichen und den
+Betreiber der Anlage nach Absatz 1 unverzüglich über die tatsächlichen
+Zeitpunkte, den jeweiligen Umfang, die Dauer und die Gründe der
+Anpassung unterrichten.
+
+(2) Eine nach Absatz 1 Satz 1 vorgenommene Anpassung ist zwischen dem
+Betreiber des Übertragungsnetzes und dem Betreiber der Anlage zur
+Erzeugung oder Speicherung von elektrischer Energie angemessen
+finanziell auszugleichen. Der finanzielle Ausgleich ist angemessen,
+wenn er den Betreiber der Anlage unter Anrechnung des bilanziellen
+Ausgleichs nach Absatz 1a wirtschaftlich weder besser noch schlechter
+stellt, als er ohne die Maßnahme stünde. Ein angemessener finanzieller
+Ausgleich nach Satz 1 umfasst folgende Bestandteile, wenn und soweit
+diese durch die jeweilige Anpassung der Wirkleistungs- oder
+Blindleistungserzeugung oder des Wirkleistungsbezugs auf Anforderung
+des Betreibers eines Übertragungsnetzes verursacht worden sind:
+
+1.  die notwendigen Auslagen für die tatsächlichen Anpassungen der
+    Erzeugung (Erzeugungsauslagen) oder des Bezugs,
+
+
+2.  den Werteverbrauch der Anlage für die tatsächlichen Anpassungen der
+    Erzeugung oder des Bezugs (anteiligen Werteverbrauch),
+
+
+3.  die nachgewiesenen entgangenen Erlösmöglichkeiten, wenn und soweit
+    diese die Summe der nach den Nummern 1 und 2 zu erstattenden Kosten
+    übersteigen,
+
+
+4.  die notwendigen Auslagen für die Herstellung der Betriebsbereitschaft
+    nach Absatz 1 Satz 2 Nummer 1 oder die Verschiebung einer geplanten
+    Revision nach Absatz 1 Satz 2 Nummer 2 und
+
+
+5.  im Fall der Reduzierung der Wirkleistungserzeugung aus Anlagen nach §
+    3 Nummer 1 des Erneuerbare-Energien-Gesetzes oder von KWK-Strom im
+    Sinne des § 3 Absatz 1 des Kraft-Wärme-Kopplungsgesetzes die
+    entgangenen Einnahmen zuzüglich der zusätzlichen Aufwendungen.
+
+
+
+Ersparte Aufwendungen erstattet der Anlagenbetreiber an den
+zuständigen Betreiber eines Übertragungsnetzes. Abweichend von Satz 2
+ist der bilanzielle Ausgleich nach Absatz 1a nicht anzurechnen, wenn
+der Strom nach § 59 des Erneuerbare-Energien-Gesetzes zu vermarkten
+ist.
+
+(3) Grundlage für die Bestimmung des anteiligen Werteverbrauchs nach
+Absatz 2 Satz 2 Nummer 2 sind die handelsrechtlichen Restwerte und
+handelsrechtlichen Restnutzungsdauern in Jahren; für die Bestimmung
+des anteiligen Werteverbrauchs für die Anlage oder Anlagenteile ist
+als Schlüssel das Verhältnis aus den anrechenbaren Betriebsstunden im
+Rahmen von Maßnahmen nach Absatz 1 Satz 1 und den für die Anlage bei
+der Investitionsentscheidung betriebswirtschaftlich geplanten
+Betriebsstunden zugrunde zu legen.
+
+(4) Weitergehende Kosten, die dem Anlagenbetreiber auch ohne die
+Anforderung nach Absatz 1 Satz 1 entstehen, insbesondere
+Betriebsbereitschaftsauslagen und eine Verzinsung des gebundenen
+Kapitals, werden nicht erstattet.
+
+(5) Maßnahmen nach Absatz 1 erfolgen in Abstimmung mit dem Betreiber
+desjenigen Netzes, in das die Anlage eingebunden ist, und allen
+zwischengelagerten Netzbetreibern, durch die das Anschlussnetz mit dem
+Netz des anfordernden Netzbetreibers verbunden ist, sowie allen
+vorgelagerten Netzbetreibern, die durch die Maßnahme betroffen sind.
+Trifft ein nachgelagerter Netzbetreiber in seinem Netz Maßnahmen nach
+Absatz 1 und konkurrieren diese Maßnahmen mit Maßnahmen des
+vorgelagerten Netzbetreibers nach Absatz 1, so sollen insoweit die
+Maßnahmen des nachgelagerten Netzbetreibers in der Regel Vorrang
+haben. Der Betreiber eines Übertragungsnetzes, in dessen Netz die
+Ursache für eine Maßnahme nach Absatz 1 liegt, muss dem Netzbetreiber,
+der die Maßnahme ausführt oder nach § 14 Absatz 1c Satz 1 zu ihr
+auffordert, die Kosten für den bilanziellen und finanziellen Ausgleich
+nach Abzug entstandener Erlöse ersetzen, soweit kein Anspruch nach §
+14 Absatz 1c Satz 2 besteht.
+
+
+#### § 13b Stilllegungen von Anlagen
+
+(1) Betreiber von Anlagen zur Erzeugung oder Speicherung elektrischer
+Energie mit einer Nennleistung ab 10 Megawatt sind verpflichtet,
+vorläufige oder endgültige Stilllegungen ihrer Anlage oder von
+Teilkapazitäten ihrer Anlage dem systemverantwortlichen Betreiber des
+Übertragungsnetzes und der Bundesnetzagentur möglichst frühzeitig,
+mindestens aber zwölf Monate vorher anzuzeigen; dabei ist anzugeben,
+ob und inwieweit die Stilllegung aus rechtlichen, technischen oder
+betriebswirtschaftlichen Gründen erfolgen soll. Vorläufige und
+endgültige Stilllegungen ohne vorherige Anzeige und vor Ablauf der
+Frist nach Satz 1 sind verboten, wenn ein Weiterbetrieb technisch und
+rechtlich möglich ist. Eine Stilllegung von Anlagen vor Ablauf der
+Frist nach den Sätzen 1 und 2 ist zulässig, wenn der Betreiber eines
+Übertragungsnetzes hierdurch keine Gefährdung oder Störung der
+Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems
+erwartet und er dem Anlagenbetreiber dies nach Absatz 2 Satz 1
+mitgeteilt hat.
+
+(2) Der systemverantwortliche Betreiber des Übertragungsnetzes prüft
+nach Eingang der Anzeige einer Stilllegung nach Absatz 1 Satz 1
+unverzüglich, ob die Anlage systemrelevant ist, und teilt dem
+Betreiber der Anlage und der Bundesnetzagentur das Ergebnis seiner
+Prüfung unverzüglich schriftlich oder elektronisch mit. Eine Anlage
+ist systemrelevant, wenn ihre Stilllegung mit hinreichender
+Wahrscheinlichkeit zu einer nicht unerheblichen Gefährdung oder
+Störung der Sicherheit oder Zuverlässigkeit des
+Elektrizitätsversorgungssystems führen würde und diese Gefährdung oder
+Störung nicht durch andere angemessene Maßnahmen beseitigt werden
+kann. Die Begründung der Notwendigkeit der Ausweisung einer
+systemrelevanten Anlage im Fall einer geplanten vorläufigen oder
+endgültigen Stilllegung soll sich aus der Systemanalyse der Betreiber
+von Übertragungsnetzen oder dem Bericht der Bundesnetzagentur nach § 3
+der Netzreserveverordnung ergeben. Die Begründung kann sich auf die
+Liste systemrelevanter Gaskraftwerke nach § 13f Absatz 1 stützen.
+
+(3) Mit Ausnahme von Revisionen und technisch bedingten Störungen sind
+vorläufige Stilllegungen Maßnahmen, die bewirken, dass die Anlage
+nicht mehr anfahrbereit gehalten wird, aber innerhalb eines Jahres
+nach Anforderung durch den Betreiber eines Übertragungsnetzes nach
+Absatz 4 Satz 3 wieder betriebsbereit gemacht werden kann, um eine
+geforderte Anpassung ihrer Einspeisung nach § 13a Absatz 1 umzusetzen.
+Endgültige Stilllegungen sind Maßnahmen, die den Betrieb der Anlage
+endgültig ausschließen oder bewirken, dass eine Anpassung der
+Einspeisung nicht mehr innerhalb eines Jahres nach einer Anforderung
+nach Absatz 4 erfolgen kann, da die Anlage nicht mehr innerhalb dieses
+Zeitraums betriebsbereit gemacht werden kann.
+
+(4) Vorläufige Stilllegungen von Anlagen, die nach Absatz 1 Satz 1 zur
+vorläufigen Stilllegung angezeigt wurden, sind auch nach Ablauf der in
+der Anzeige genannten Frist nach Absatz 1 Satz 1 verboten, solange und
+soweit der systemverantwortliche Betreiber des Übertragungsnetzes die
+Anlage nach Absatz 2 Satz 2 als systemrelevant ausweist. Die
+Ausweisung erfolgt für eine Dauer von 24 Monaten; zeigt der Betreiber
+einer Anlage für den Zeitraum nach Ablauf der 24 Monate die geplante
+vorläufige Stilllegung nach § 13b Absatz 1 Satz 1 erneut an und wird
+das Fortbestehen der Systemrelevanz der Anlage durch eine Prüfung des
+regelzonenverantwortlichen Betreibers eines Übertragungsnetzes
+festgestellt, erfolgt jede erneute Ausweisung der Anlage als
+systemrelevant jeweils für einen Zeitraum von bis zu 24 Monaten. Der
+Betreiber einer Anlage, deren vorläufige Stilllegung nach Satz 1
+verboten ist, muss die Betriebsbereitschaft der Anlage für Anpassungen
+der Einspeisung nach § 13a Absatz 1 weiter vorhalten oder
+wiederherstellen. Der Betreiber einer vorläufig stillgelegten Anlage,
+die nach Absatz 2 Satz 2 systemrelevant ist, muss für die Durchführung
+von Maßnahmen nach § 13 Absatz 1 Nummer 2 und 3 und § 13a Absatz 1 auf
+Anforderung durch den Betreiber des Übertragungsnetzes und
+erforderlichenfalls in Abstimmung mit dem Betreiber desjenigen Netzes,
+in das die Anlage eingebunden ist, die Anlage betriebsbereit machen.
+
+(5) Endgültige Stilllegungen von Anlagen zur Erzeugung oder
+Speicherung elektrischer Energie mit einer Nennleistung ab 50 Megawatt
+sind auch nach Ablauf der in der Anzeige genannten Frist nach Absatz 1
+Satz 1 verboten, solange und soweit
+
+1.  der systemverantwortliche Betreiber des Übertragungsnetzes die Anlage
+    als systemrelevant ausweist,
+
+
+2.  die Ausweisung durch die Bundesnetzagentur genehmigt worden ist und
+
+
+3.  ein Weiterbetrieb technisch und rechtlich möglich ist.
+
+
+
+Der Betreiber des Übertragungsnetzes hat den Antrag auf Genehmigung
+der Ausweisung nach Prüfung der Anzeige einer Stilllegung unverzüglich
+bei der Bundesnetzagentur zu stellen und zu begründen. Er hat dem
+Anlagenbetreiber unverzüglich eine Kopie von Antrag und Begründung zu
+übermitteln. Die Bundesnetzagentur hat den Antrag zu genehmigen, wenn
+die Anlage systemrelevant nach Absatz 2 Satz 2 ist. Die Genehmigung
+kann unter Bedingungen erteilt und mit Auflagen verbunden werden. Hat
+die Bundesnetzagentur über den Antrag nicht innerhalb einer Frist von
+drei Monaten nach Vorliegen der vollständigen Unterlagen entschieden,
+gilt die Genehmigung als erteilt, es sei denn,
+
+1.  der Antragsteller hat einer Verlängerung der Frist zugestimmt oder
+
+
+2.  die Bundesnetzagentur kann wegen unrichtiger Angaben oder wegen einer
+    nicht rechtzeitig erteilten Auskunft keine Entscheidung treffen und
+    sie hat dies den Betroffenen vor Ablauf der Frist unter Angabe der
+    Gründe mitgeteilt.
+
+
+
+Die Vorschriften des Verwaltungsverfahrensgesetzes über die
+Genehmigungsfiktion sind entsprechend anzuwenden. Die Ausweisung
+erfolgt in dem Umfang und für den Zeitraum, der erforderlich ist, um
+die Gefährdung oder Störung abzuwenden. Sie soll eine Dauer von 24
+Monaten nicht überschreiten, es sei denn, die Systemrelevanz der
+Anlage wird durch eine Systemanalyse des regelzonenverantwortlichen
+Betreibers eines Übertragungsnetzes für einen längeren Zeitraum oder
+für einen Zeitpunkt, der nach dem Zeitraum von 24 Monaten liegt,
+nachgewiesen und von der Bundesnetzagentur bestätigt. Der Betreiber
+des Übertragungsnetzes hat dem Betreiber der Anlage die Ausweisung mit
+der Begründung unverzüglich nach Genehmigung durch die
+Bundesnetzagentur mitzuteilen. Der Betreiber einer Anlage, deren
+endgültige Stilllegung nach Satz 1 verboten ist, muss die Anlage
+zumindest in einem Zustand erhalten, der eine Anforderung zur weiteren
+Vorhaltung oder Wiederherstellung der Betriebsbereitschaft nach Absatz
+4 ermöglicht, sowie auf Anforderung des Betreibers eines
+Übertragungsnetzes die Betriebsbereitschaft der Anlage für Anpassungen
+der Einspeisung weiter vorhalten oder wiederherstellen, soweit dies
+nicht technisch oder rechtlich ausgeschlossen ist.
+
+(6) Die Absätze 1 bis 5 gelten nicht für die stillzulegenden Anlagen
+nach § 13g. § 42 des Kohleverstromungsbeendigungsgesetzes bleibt
+unberührt.
+
+
+#### § 13c Vergütung bei geplanten Stilllegungen von Anlagen
+
+(1) Fordert der Betreiber eines Übertragungsnetzes den Betreiber einer
+Anlage, die andernfalls auf Grund einer vorläufigen Stilllegung im
+erforderlichen Zeitraum nicht anfahrbereit wäre, nach § 13b Absatz 4
+dazu auf, die Betriebsbereitschaft der Anlage für Anpassungen der
+Einspeisung weiter vorzuhalten oder wiederherzustellen, kann der
+Betreiber als angemessene Vergütung geltend machen:
+
+1.  die für die Vorhaltung und die Herstellung der Betriebsbereitschaft
+    notwendigen Auslagen (Betriebsbereitschaftsauslagen); im Rahmen der
+    Betriebsbereitschaftsauslagen
+
+    a)  werden die einmaligen Kosten für die Herstellung der
+        Betriebsbereitschaft der Anlage berücksichtigt; Kosten in diesem Sinn
+        sind auch die Kosten erforderlicher immissionsschutzrechtlicher
+        Prüfungen sowie die Kosten der Reparatur außergewöhnlicher Schäden,
+        und
+
+
+    b)  wird ein Leistungspreis für die Bereithaltung der betreffenden Anlage
+        gewährt; hierbei werden die Kosten berücksichtigt, die dem Betreiber
+        zusätzlich und fortlaufend auf Grund der Vorhaltung der Anlage für die
+        Netzreserve nach § 13d entstehen; der Leistungspreis kann als
+        pauschalierter Betrag (Euro je Megawatt) zu Vertragsbeginn auf
+        Grundlage von jeweils ermittelten Erfahrungswerten der Anlage
+        festgelegt werden; die Bundesnetzagentur kann die der Anlage
+        zurechenbaren Gemeinkosten eines Betreibers bis zu einer Höhe von 5
+        Prozent der übrigen Kosten dieser Nummer pauschal anerkennen; der
+        Nachweis höherer Gemeinkosten durch den Betreiber ist möglich;
+
+
+
+
+
+2.  die Erzeugungsauslagen und
+
+
+3.  den anteiligen Werteverbrauch.
+
+
+
+Betriebsbereitschaftsauslagen nach Satz 1 Nummer 1 sind zu erstatten,
+wenn und soweit diese ab dem Zeitpunkt der Ausweisung der
+Systemrelevanz der Anlage durch den Betreiber eines Übertragungsnetzes
+anfallen und der Vorhaltung und dem Einsatz als Netzreserve im Sinne
+von § 13d Absatz 1 Satz 1 zu dienen bestimmt sind. Grundlage für die
+Bestimmung des anteiligen Werteverbrauchs nach Satz 1 Nummer 3 sind
+die handelsrechtlichen Restwerte und handelsrechtlichen
+Restnutzungsdauern in Jahren; für die Bestimmung des anteiligen
+Werteverbrauchs für die Anlage oder Anlagenteile ist als Schlüssel das
+Verhältnis aus den anrechenbaren Betriebsstunden im Rahmen von
+Maßnahmen nach § 13a Absatz 1 Satz 2 und den für die Anlage bei der
+Investitionsentscheidung betriebswirtschaftlich geplanten
+Betriebsstunden zugrunde zu legen. Im Rahmen der Erzeugungsauslagen
+wird ein Arbeitspreis in Form der notwendigen Auslagen für eine
+Einspeisung der Anlage gewährt.
+
+(2) Nimmt der Betreiber der Anlage im Sinn von § 13b Absatz 4 Satz 1
+den Betreiber des Übertragungsnetzes auf Zahlung der
+Betriebsbereitschaftsauslagen nach Absatz 1 Satz 1 Nummer 1 in
+Anspruch, darf ab diesem Zeitpunkt die Anlage für die Dauer der
+Ausweisung der Anlage als systemrelevant durch den Betreiber eines
+Übertragungsnetzes ausschließlich nach Maßgabe der von den Betreibern
+von Übertragungsnetzen angeforderten Systemsicherheitsmaßnahmen
+betrieben werden. Wird die Anlage nach Ablauf der Dauer der Ausweisung
+als systemrelevant wieder eigenständig an den Strommärkten eingesetzt,
+ist der Restwert der investiven Vorteile, die der Betreiber der Anlage
+erhalten hat, zu erstatten. Maßgeblich ist der Restwert zu dem
+Zeitpunkt, ab dem die Anlage wieder eigenständig an den Strommärkten
+eingesetzt wird.
+
+(3) Der Betreiber einer Anlage, deren endgültige Stilllegung nach §
+13b Absatz 5 Satz 1 verboten ist, kann als angemessene Vergütung für
+die Verpflichtung nach § 13b Absatz 5 Satz 11 von dem jeweiligen
+Betreiber eines Übertragungsnetzes geltend machen:
+
+1.  die Kosten für erforderliche Erhaltungsmaßnahmen nach § 13b Absatz 5
+    Satz 11 (Erhaltungsauslagen),
+
+
+2.  die Betriebsbereitschaftsauslagen im Sinn von Absatz 1 Satz 1 Nummer 1
+    und Satz 2,
+
+
+3.  Erzeugungsauslagen im Sinne von Absatz 1 Satz 1 Nummer 2 und Satz 4
+    und
+
+
+4.  Opportunitätskosten in Form einer angemessenen Verzinsung für
+    bestehende Anlagen, wenn und soweit eine verlängerte Kapitalbindung in
+    Form von Grundstücken und weiterverwertbaren technischen Anlagen oder
+    Anlagenteilen auf Grund der Verpflichtung für die Netzreserve besteht.
+
+
+
+Erhaltungs- und Betriebsbereitschaftsauslagen nach Satz 1 Nummer 1 und
+2 sind zu erstatten, wenn und soweit diese ab dem Zeitpunkt der
+Ausweisung der Systemrelevanz durch den Betreiber eines
+Übertragungsnetzes nach § 13b Absatz 5 anfallen und der Vorhaltung und
+dem Einsatz als Netzreserve zu dienen bestimmt sind. Der
+Werteverbrauch der weiterverwertbaren technischen Anlagen oder der
+Anlagenteile ist nur erstattungsfähig, wenn und soweit die technischen
+Anlagen in der Netzreserve tatsächlich eingesetzt werden; für die
+Bestimmung des anteiligen Werteverbrauchs ist Absatz 1 Satz 3
+anzuwenden. Weitergehende Kosten, insbesondere Kosten, die auch im
+Fall einer endgültigen Stilllegung angefallen wären, sind nicht
+erstattungsfähig.
+
+(4) Nimmt der Betreiber der Anlage, deren endgültige Stilllegung nach
+§ 13b Absatz 5 Satz 1 verboten ist, den Betreiber des
+Übertragungsnetzes auf Zahlung der Erhaltungsauslagen oder der
+Betriebsbereitschaftsauslagen nach Absatz 3 Satz 1 Nummer 1 und 2
+sowie Satz 2 in Anspruch, darf die Anlage bis zu ihrer endgültigen
+Stilllegung ausschließlich nach Maßgabe der von den Betreibern von
+Übertragungsnetzen angeforderten Systemsicherheitsmaßnahmen betrieben
+werden. Wird die Anlage endgültig stillgelegt, so ist der Restwert der
+investiven Vorteile bei wiederverwertbaren Anlagenteilen, die der
+Betreiber der Anlage im Rahmen der Erhaltungsauslagen nach Absatz 3
+Satz 1 Nummer 1 und der Betriebsbereitschaftsauslagen im Sinne von
+Absatz 1 Satz 1 Nummer 1 erhalten hat, zu erstatten. Maßgeblich ist
+der Restwert zu dem Zeitpunkt, ab dem die Anlage nicht mehr als
+Netzreserve vorgehalten wird. Der Umfang der Vergütung nach Absatz 3
+wird in den jeweiligen Verträgen zwischen den Betreibern der Anlagen
+und den Betreibern der Übertragungsnetze auf Grundlage der
+Kostenstruktur der jeweiligen Anlage nach Abstimmung mit der
+Bundesnetzagentur festgelegt.
+
+(5) Die durch die Absätze 1 bis 4 entstehenden Kosten der Betreiber
+von Übertragungsnetzen werden durch Festlegung der Bundesnetzagentur
+zu einer freiwilligen Selbstverpflichtung der Betreiber von
+Übertragungsnetzen nach § 11 Absatz 2 Satz 4 und § 32 Absatz 1 Nummer
+4 der Anreizregulierungsverordnung in der jeweils geltenden Fassung
+als verfahrensregulierte Kosten nach Maßgabe der hierfür geltenden
+Vorgaben anerkannt.
+
+(6) Die Absätze 1 bis 5 gelten nicht für die stillzulegenden Anlagen
+nach § 13g.
+
+
+#### § 13d Netzreserve
+
+(1) Die Betreiber von Übertragungsnetzen halten nach § 13b Absatz 4
+und 5 sowie nach Maßgabe der Netzreserveverordnung Anlagen zum Zweck
+der Gewährleistung der Sicherheit und Zuverlässigkeit des
+Elektrizitätsversorgungssystems insbesondere für die Bewirtschaftung
+von Netzengpässen und für die Spannungshaltung und zur Sicherstellung
+eines möglichen Versorgungswiederaufbaus vor (Netzreserve). Die
+Netzreserve wird gebildet aus
+
+1.  Anlagen, die derzeit nicht betriebsbereit sind und auf Grund ihrer
+    Systemrelevanz auf Anforderung der Betreiber von Übertragungsnetzen
+    wieder betriebsbereit gemacht werden müssen,
+
+
+2.  systemrelevanten Anlagen, für die die Betreiber eine vorläufige oder
+    endgültige Stilllegung nach § 13b Absatz 1 Satz 1 angezeigt haben, und
+
+
+3.  geeigneten Anlagen im europäischen Ausland.
+
+
+
+
+(2) Betreiber von bestehenden Anlagen, die als Netzreserve zur
+Gewährleistung der Sicherheit und Zuverlässigkeit des
+Elektrizitätsversorgungssystems verpflichtet worden sind, können unter
+den Voraussetzungen des § 13e und den Regelungen der Rechtsverordnung
+nach § 13h auch an dem Verfahren der Beschaffung der Kapazitätsreserve
+teilnehmen. Sind bestehende Anlagen der Netzreserve im Rahmen des
+Beschaffungsverfahrens erfolgreich, erhalten sie ihre Vergütung
+ausschließlich nach den Bestimmungen zur Kapazitätsreserve. Sie müssen
+weiterhin auf Anweisung der Betreiber von Übertragungsnetzen ihre
+Einspeisung nach § 13a Absatz 1 sowie § 7 der Netzreserveverordnung
+anpassen.
+
+(3) Unbeschadet der gesetzlichen Verpflichtungen erfolgen die Bildung
+der Netzreserve und der Einsatz der Anlagen der Netzreserve auf
+Grundlage des Abschlusses von Verträgen zwischen Betreibern von
+Übertragungsnetzen und Anlagenbetreibern in Abstimmung mit der
+Bundesnetzagentur nach Maßgabe der Bestimmungen der
+Netzreserveverordnung. Erzeugungsanlagen im Ausland können nach den
+Vorgaben der Rechtsverordnung nach § 13i Absatz 3 vertraglich gebunden
+werden.
+
+
+#### § 13e Kapazitätsreserve
+
+(1) Die Betreiber von Übertragungsnetzen halten Reserveleistung vor,
+um im Fall einer Gefährdung oder Störung der Sicherheit oder
+Zuverlässigkeit des Elektrizitätsversorgungssystems
+Leistungsbilanzdefizite infolge des nicht vollständigen Ausgleichs von
+Angebot und Nachfrage an den Strommärkten im deutschen
+Netzregelverbund auszugleichen (Kapazitätsreserve). Die
+Kapazitätsreserve wird ab dem Winterhalbjahr 2020/2021 außerhalb der
+Strommärkte gebildet. Die Anlagen der Kapazitätsreserve speisen
+ausschließlich auf Anforderung der Betreiber von Übertragungsnetzen
+ein. Für die Kapazitätsreserve steht die Reduktion des
+Wirkleistungsbezugs der Einspeisung von Wirkleistung gleich.
+
+(2) Die Bildung der Kapazitätsreserve erfolgt im Rahmen eines
+wettbewerblichen Ausschreibungsverfahrens oder eines diesem
+hinsichtlich Transparenz und Nichtdiskriminierung gleichwertigen
+wettbewerblichen Verfahrens (Beschaffungsverfahren). Die Betreiber der
+Übertragungsnetze führen das Beschaffungsverfahren ab dem Jahr 2019 in
+regelmäßigen Abständen durch. In der Kapazitätsreserve werden Anlagen
+mit folgender Reserveleistung gebunden:
+
+1.  für die Leistungserbringung ab dem Winterhalbjahr 2020/2021 eine
+    Reserveleistung von 2 Gigawatt,
+
+
+2.  für die Leistungserbringung ab dem Winterhalbjahr 2022/2023 eine
+    Reserveleistung in Höhe von 2 Gigawatt vorbehaltlich einer Anpassung
+    nach Absatz 5.
+
+
+
+Anlagen können wiederholt an dem Beschaffungsverfahren teilnehmen und
+in der Kapazitätsreserve gebunden werden.
+
+(3) Die Betreiber der Anlagen der Kapazitätsreserve erhalten eine
+jährliche Vergütung, deren Höhe im Rahmen des Beschaffungsverfahrens
+nach Absatz 2 ermittelt wird. Die Vergütung umfasst alle Kosten,
+soweit sie nicht aufgrund einer Verordnung nach § 13h gesondert
+erstattet werden, einschließlich der Kosten für
+
+1.  die Vorhaltung der Anlage, die auch die Kosten für den Stromverbrauch
+    der Anlage selbst, für auf Grund anderer gesetzlicher Vorschriften
+    notwendige Anfahrvorgänge sowie für die Instandhaltung der Anlage und
+    Nachbesserungen umfassen, sowie
+
+
+2.  den Werteverbrauch durch den Einsatz der Anlage.
+
+
+
+Die Betreiber von Übertragungsnetzen dürfen die ihnen auf Grund der
+Durchführung der Rechtsverordnung nach § 13h entstehenden Kosten nach
+Abzug der entstehenden Erlöse über die Netzentgelte geltend machen.
+Die Kosten nach Satz 3 gelten als dauerhaft nicht beeinflussbare
+Kostenanteile nach § 11 Absatz 2 Satz 1 der
+Anreizregulierungsverordnung. Die Betreiber von Übertragungsnetzen
+müssen den unterschiedlichen Umfang der nach Satz 3 bei jedem
+Betreiber eines Übertragungsnetzes verbleibenden Kosten nach Maßgabe
+der von ihnen oder anderen Netzbetreibern im Bereich ihres
+Übertragungsnetzes an Letztverbraucher gelieferten Strommengen über
+eine finanzielle Verrechnung untereinander ausgleichen. Betreiber von
+Übertragungsnetzen, die bezogen auf die an Letztverbraucher
+gelieferten Strommengen im Bereich ihres Netzes höhere Zahlungen zu
+leisten hatten, als es dem Durchschnitt aller Letztverbraucher
+entspricht, haben einen finanziellen Anspruch auf Belastungsausgleich,
+bis alle Betreiber von Übertragungsnetzen eine Belastung tragen, die
+dem Durchschnitt aller Betreiber von Übertragungsnetzen entspricht.
+
+(4) Die Betreiber von Anlagen, die in der Kapazitätsreserve gebunden
+sind,
+
+1.  dürfen die Leistung oder Arbeit dieser Anlagen weder ganz noch
+    teilweise auf den Strommärkten veräußern (Vermarktungsverbot) und
+
+
+2.  müssen diese Anlagen endgültig stilllegen, sobald die Anlagen nicht
+    mehr in der Kapazitätsreserve gebunden sind (Rückkehrverbot), wobei
+    Absatz 2 Satz 4 sowie die Regelungen zur Stilllegung von
+    Erzeugungsanlagen nach den §§ 13b und 13c sowie zur Netzreserve nach §
+    13d unberührt bleiben; Betreiber von Lasten müssen diese nicht
+    endgültig stilllegen, dürfen aber mit den Lasten endgültig nicht mehr
+    an den Ausschreibungen auf Grund einer Verordnung nach § 13i Absatz 1
+    und 2 teilnehmen.
+
+
+
+Das Vermarktungsverbot und das Rückkehrverbot gelten auch für
+Rechtsnachfolger des Betreibers sowie im Fall einer Veräußerung der
+Anlage für deren Erwerber sowie für die Betreiber von
+Übertragungsnetzen.
+
+(5) Das Bundesministerium für Wirtschaft und Energie überprüft den
+Umfang der Kapazitätsreserve bis zum 31. Oktober 2018 und dann
+mindestens alle zwei Jahre auf Basis des Berichts zum Monitoring der
+Versorgungssicherheit nach § 63 Absatz 2 Satz 1 Nummer 2 und
+entscheidet, ob eine Anpassung des Umfangs erforderlich ist. Die
+Entscheidung ist zu begründen und zu veröffentlichen. Eine eventuell
+erforderliche Anpassung des Umfangs der Kapazitätsreserve erfolgt
+durch oder auf Grund der Rechtsverordnung nach § 13h oder durch
+Festlegung der Bundesnetzagentur nach § 13j Absatz 4. Eine
+Entscheidung, durch die die gebundene Reserveleistung 5 Prozent der
+durchschnittlichen Jahreshöchstlast im Gebiet der Bundesrepublik
+Deutschland übersteigen würde, darf nur durch Rechtsverordnung nach §
+13h ergehen; diese Rechtsverordnung bedarf der Zustimmung des
+Bundestages. Der zugrunde zu legende Wert der durchschnittlichen
+Jahreshöchstlast errechnet sich als Durchschnittswert aus der für das
+Gebiet der Bundesrepublik Deutschland für das Jahr, in dem die
+Erhöhung erstmals stattfinden soll, sowie das Folgejahr
+prognostizierten Jahreshöchstlast. Die Prognosen sind aus dem
+jährlichen Bericht der Bundesnetzagentur nach § 3 Absatz 1 der
+Netzreserveverordnung zu entnehmen. Der Jahreshöchstlastwert umfasst
+auch Netzverluste.
+
+
+#### § 13f Systemrelevante Gaskraftwerke
+
+(1) Betreiber von Übertragungsnetzen können eine Anlage zur Erzeugung
+von elektrischer Energie aus Gas mit einer Nennleistung ab 50 Megawatt
+ganz oder teilweise als systemrelevantes Gaskraftwerk ausweisen,
+soweit eine Einschränkung der Gasversorgung dieser Anlage mit
+hinreichender Wahrscheinlichkeit zu einer nicht unerheblichen
+Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des
+Elektrizitätsversorgungssystems führt. Die Ausweisung erfolgt in dem
+Umfang und für den Zeitraum, der erforderlich ist, um die Gefährdung
+oder Störung abzuwenden. Sie soll eine Dauer von 24 Monaten nicht
+überschreiten, es sei denn, die Systemrelevanz der Anlage wird durch
+eine Systemanalyse des regelzonenverantwortlichen Betreibers eines
+Übertragungsnetzes für einen längeren Zeitraum nachgewiesen und von
+der Bundesnetzagentur bestätigt. Die Ausweisung bedarf der Genehmigung
+der Bundesnetzagentur. Der Betreiber des Übertragungsnetzes hat den
+Antrag auf Genehmigung unverzüglich nach der Ausweisung bei der
+Bundesnetzagentur zu stellen und zu begründen. Er hat dem
+Anlagenbetreiber unverzüglich eine Kopie von Antrag und Begründung zu
+übermitteln. Die Bundesnetzagentur hat den Antrag zu genehmigen, wenn
+die Anlage systemrelevant im Sinne der Sätze 1 und 2 ist. § 13b Absatz
+5 Satz 5 bis 7 ist entsprechend anzuwenden. Der Betreiber des
+Übertragungsnetzes hat die Ausweisung eines systemrelevanten
+Gaskraftwerks nach Genehmigung durch die Bundesnetzagentur
+unverzüglich dem Betreiber der Anlage, den betroffenen Betreibern von
+Gasversorgungsnetzen sowie dem Betreiber des
+Elektrizitätsversorgungsnetzes, an das die Anlage angeschlossen ist,
+mitzuteilen und zu begründen. Die Betreiber von Übertragungsnetzen
+haben eine Liste mit den systemrelevanten Kraftwerken aufzustellen,
+diese Liste, falls erforderlich, zu aktualisieren und der
+Bundesnetzagentur unverzüglich vorzulegen.
+
+(2) Soweit die Ausweisung einer Anlage genehmigt worden ist, sind
+Betreiber der Erzeugungsanlagen verpflichtet, soweit technisch und
+rechtlich möglich sowie wirtschaftlich zumutbar, eine Absicherung der
+Leistung im erforderlichen Umfang durch Inanspruchnahme der
+vorhandenen Möglichkeiten für einen Brennstoffwechsel vorzunehmen.
+Fallen bei dem Betreiber der Erzeugungsanlage in diesem Zusammenhang
+Mehrkosten für einen Brennstoffwechsel an, sind diese durch den
+jeweiligen Betreiber eines Übertragungsnetzes zu erstatten. Soweit ein
+Brennstoffwechsel nicht möglich ist, ist dies gegenüber der
+Bundesnetzagentur zu begründen und kurzfristig dazulegen, mit welchen
+anderen Optimierungs- oder Ausbaumaßnahmen der Kapazitätsbedarf
+befriedigt werden kann. Die durch den Brennstoffwechsel oder andere
+Optimierungs- oder Ausbaumaßnahmen entstehenden Kosten des Betreibers
+von Übertragungsnetzen werden durch Festlegung der Bundesnetzagentur
+zu einer freiwilligen Selbstverpflichtung der Betreiber von
+Übertragungsnetzen nach § 11 Absatz 2 Satz 4 und § 32 Absatz 1 Nummer
+4 der Anreizregulierungsverordnung in ihrer jeweils geltenden Fassung
+als verfahrensregulierte Kosten nach Maßgabe der hierfür geltenden
+Vorgaben anerkannt.
+
+
+#### § 13g Stilllegung von Braunkohlekraftwerken
+
+(1) Als Beitrag zur Erreichung der nationalen und europäischen
+Klimaschutzziele müssen die folgenden Erzeugungsanlagen bis zu dem
+genannten Kalendertag vorläufig stillgelegt werden (stillzulegende
+Anlagen), um die Kohlendioxidemissionen im Bereich der
+Elektrizitätsversorgung zu verringern:
+
+1.  bis zum 1. Oktober 2016: Kraftwerk Buschhaus,
+
+
+2.  bis zum 1. Oktober 2017:
+
+    a)  Block P des Kraftwerks Frimmersdorf und
+
+
+    b)  Block Q des Kraftwerks Frimmersdorf,
+
+
+
+
+
+3.  bis zum 1. Oktober 2018:
+
+    a)  Block E des Kraftwerks Niederaußem,
+
+
+    b)  Block F des Kraftwerks Niederaußem und
+
+
+    c)  Block F des Kraftwerks Jänschwalde,
+
+
+
+
+
+4.  bis zum 1. Oktober 2019:
+
+    a)  Block C des Kraftwerks Neurath und
+
+
+    b)  Block E des Kraftwerks Jänschwalde.
+
+
+
+
+
+
+Die stillzulegenden Anlagen dürfen jeweils ab dem in Satz 1 genannten
+Kalendertag für vier Jahre nicht endgültig stillgelegt werden. Nach
+Ablauf der vier Jahre müssen sie endgültig stillgelegt werden.
+
+(2) Die stillzulegenden Anlagen stehen jeweils ab dem in Absatz 1 Satz
+1 genannten Kalendertag bis zu ihrer endgültigen Stilllegung
+ausschließlich für Anforderungen der Betreiber von Übertragungsnetzen
+nach Maßgabe des § 1 Absatz 6 der Elektrizitätssicherungsverordnung
+zur Verfügung (Sicherheitsbereitschaft). Dabei dürfen die Betreiber
+von Übertragungsnetzen die stillzulegenden Anlagen nur entsprechend
+den zeitlichen Vorgaben nach Absatz 3 Satz 1 anfordern.
+
+(3) Während der Sicherheitsbereitschaft müssen die Betreiber der
+stillzulegenden Anlagen jederzeit sicherstellen, dass die
+stillzulegenden Anlagen die folgenden Voraussetzungen erfüllen:
+
+1.  die stillzulegenden Anlagen müssen bei einer Vorwarnung durch den
+    zuständigen Betreiber eines Übertragungsnetzes innerhalb von 240
+    Stunden betriebsbereit sein und
+
+
+2.  die stillzulegenden Anlagen müssen nach Herstellung ihrer
+    Betriebsbereitschaft ab Anforderung durch den zuständigen Betreiber
+    eines Übertragungsnetzes innerhalb von 11 Stunden auf
+    Mindestteilleistung und innerhalb von weiteren 13 Stunden auf
+    Nettonennleistung angefahren werden können.
+
+
+
+Die Betreiber der stillzulegenden Anlagen müssen dem zuständigen
+Betreiber eines Übertragungsnetzes vor Beginn der
+Sicherheitsbereitschaft nachweisen, dass ihre stillzulegenden Anlagen
+die Voraussetzungen nach Satz 1 Nummer 2 erfüllen.
+
+(4) Während der Sicherheitsbereitschaft darf in den stillzulegenden
+Anlagen Strom nur im Fall eines Einsatzes nach Absatz 2 Satz 1 oder im
+Fall eines mit dem zuständigen Betreiber eines Übertragungsnetzes
+abgestimmten Probestarts erzeugt werden. Die Betreiber von
+Übertragungsnetzen müssen die aus den stillzulegenden Anlagen
+eingespeisten Strommengen in ihren Bilanzkreisen führen, dürfen die
+Strommengen aber nicht auf den Strommärkten veräußern. Die Betreiber
+von Übertragungsnetzen informieren die Marktteilnehmer unverzüglich
+und auf geeignete Art und Weise über die Vorwarnung und die
+Anforderung zur Einspeisung einer stillzulegenden Anlage.
+
+(5) Die Betreiber der stillzulegenden Anlagen erhalten für die
+Sicherheitsbereitschaft und die Stilllegung einer Anlage eine
+Vergütung nach Maßgabe des Absatzes 7 Satz 1 bis 4 in Höhe der Erlöse,
+die sie mit der stillzulegenden Anlage in den Strommärkten während der
+Sicherheitsbereitschaft erzielt hätten, abzüglich der kurzfristig
+variablen Erzeugungskosten. Die Höhe der Vergütung für jede
+stillzulegende Anlage ergibt sich aus der Formel in der Anlage zu
+diesem Gesetz. Wenn eine stillzulegende Anlage bei einer Vorwarnung
+durch den Betreiber eines Übertragungsnetzes nicht innerhalb von 288
+Stunden ab der Vorwarnung nach Absatz 3 Satz 1 Nummer 1 betriebsbereit
+ist oder nicht innerhalb der Anfahrzeiten nach Absatz 3 Satz 1 Nummer
+2 die angeforderte Leistung im Bereich der üblichen Schwankungen
+einspeist, verringert sich die Vergütung für die stillzulegende Anlage
+
+1.  auf null ab dem 13. Tag, wenn und solange die Voraussetzungen aus
+    arbeitsschutz- oder immissionsschutzrechtlichen Gründen nicht erfüllt
+    werden, oder
+
+
+2.  um jeweils 10 Prozent in einem Jahr der Sicherheitsbereitschaft, wenn
+    die Voraussetzungen aus anderen Gründen nicht erfüllt werden.
+
+
+
+Wenn eine stillzulegende Anlage die Voraussetzungen der
+Sicherheitsbereitschaft vorübergehend nicht erfüllen kann, verringert
+sich die Vergütung ebenfalls ab dem 13. Tag solange auf null, bis die
+Voraussetzungen wieder erfüllt werden können. Dies gilt nicht für mit
+dem Betreiber eines Übertragungsnetzes abgestimmte Wartungs- und
+Instandsetzungsarbeiten. Unbeschadet der Sätze 1 bis 5 werden den
+Betreibern der stillzulegenden Anlagen nach Maßgabe des Absatzes 7
+Satz 5 die im Fall einer Vorwarnung oder der Anforderung zur
+Einspeisung durch den Betreiber eines Übertragungsnetzes oder im Fall
+eines Probestarts entstehenden Erzeugungsauslagen erstattet.
+
+(6) Eine stillzulegende Anlage kann abweichend von Absatz 1 Satz 2 mit
+Ablauf des ersten Jahres der Sicherheitsbereitschaft endgültig
+stillgelegt werden, wenn der Betreiber das dem zuständigen Betreiber
+eines Übertragungsnetzes spätestens ein halbes Jahr vorher anzeigt.
+Der Betreiber der vorzeitig endgültig stillgelegten Anlage erhält nach
+der vorzeitigen endgültigen Stilllegung nur noch eine einmalige
+Abschlussvergütung nach Maßgabe des Absatzes 7 Satz 1, 2 und 6. Diese
+Abschlussvergütung wird pauschal festgesetzt und entspricht der
+Vergütung, die dem Betreiber für die stillzulegende Anlage im ersten
+Jahr der Sicherheitsbereitschaft erstattet wurde. Unbeschadet des
+Satzes 1 kann eine stillzulegende Anlage auf Antrag des Betreibers und
+nach Genehmigung durch die Bundesnetzagentur jederzeit endgültig
+stillgelegt werden, wenn sie die Voraussetzungen der
+Sicherheitsbereitschaft dauerhaft nicht oder nur unter
+unverhältnismäßigem Aufwand erfüllen kann; in diesem Fall entfällt mit
+Wirkung ab der endgültigen Stilllegung der Vergütungsanspruch nach
+Absatz 5 für diese stillzulegende Anlage; die Sätze 2 und 3 finden in
+diesem Fall keine Anwendung.
+
+(7) Die Höhe der Vergütung nach Absatz 5 oder 6 wird durch die
+Bundesnetzagentur festgesetzt. Der Betreiber einer stillzulegenden
+Anlage hat gegen den zuständigen Betreiber eines Übertragungsnetzes
+einen Vergütungsanspruch in der von der Bundesnetzagentur
+festgesetzten Höhe. Die Vergütung nach Absatz 5 Satz 1 und 2 wird
+jährlich im Voraus gezahlt, zahlbar monatlich in zwölf gleichen
+Abschlägen. Die endgültige Abrechnung eines Bereitschaftsjahres
+erfolgt – soweit erforderlich – spätestens zum 1. Januar des folgenden
+Kalenderjahres. Die Erzeugungsauslagen nach Absatz 5 Satz 6 werden von
+den Betreibern der Übertragungsnetze nach Ablauf eines
+Bereitschaftsjahres spätestens zum 1. Januar des folgenden
+Kalenderjahres gesondert erstattet. Die Vergütung nach Absatz 6 wird
+nach Ablauf des ersten Bereitschaftsjahres spätestens zum 1. Januar
+des folgenden Kalenderjahres abgerechnet. Die Betreiber von
+Übertragungsnetzen rechnen Bilanzkreisunterspeisungen und
+Bilanzkreisüberspeisungen für die Fahrplanviertelstunden, in denen
+eine Anforderung zur Einspeisung erfolgt ist, im Rahmen der
+Ausgleichsenergieabrechnung nach § 8 Absatz 2 der
+Stromnetzzugangsverordnung ab. Die Betreiber von Übertragungsnetzen
+dürfen die ihnen nach den Absätzen 5 und 6 entstehenden Kosten nach
+Abzug der entstehenden Erlöse über die Netzentgelte geltend machen.
+Die Kosten mit Ausnahme der Erzeugungsauslagen nach Absatz 5 Satz 6
+gelten als dauerhaft nicht beeinflussbare Kostenanteile nach § 11
+Absatz 2 Satz 1 der Anreizregulierungsverordnung. Im Übrigen ist § 13e
+Absatz 3 Satz 5 und 6 entsprechend anzuwenden.
+
+(8) Das Bundesministerium für Wirtschaft und Energie überprüft im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
+nukleare Sicherheit bis zum 30. Juni 2018, in welchem Umfang
+Kohlendioxidemissionen durch die Stilllegung der stillzulegenden
+Anlagen zusätzlich eingespart werden. Sofern bei der Überprüfung zum
+30\. Juni 2018 absehbar ist, dass durch die Stilllegung der
+stillzulegenden Anlagen nicht 12,5 Millionen Tonnen
+Kohlendioxidemissionen ab dem Jahr 2020 zusätzlich eingespart werden,
+legt jeder Betreiber von stillzulegenden Anlagen bis zum 31. Dezember
+2018 in Abstimmung mit dem Bundesministerium für Wirtschaft und
+Energie einen Vorschlag vor, mit welchen geeigneten zusätzlichen
+Maßnahmen er beginnend ab dem Jahr 2019 jährlich zusätzliche
+Kohlendioxidemissionen einsparen wird. Die zusätzlichen Maßnahmen
+aller Betreiber von stillzulegenden Anlagen müssen insgesamt dazu
+führen, dass dadurch zusammen mit der Stilllegung der stillzulegenden
+Anlagen 12,5 Millionen Tonnen Kohlendioxid im Jahr 2020 zusätzlich
+eingespart werden, wobei die Betreiber gemeinsam zusätzlich zu den
+Einsparungen durch die Stilllegung der stillzulegenden Anlagen nicht
+mehr als insgesamt 1,5 Millionen Tonnen Kohlendioxid einsparen müssen.
+Sofern keine Einigung zu den zusätzlichen Maßnahmen erreicht wird,
+kann die Bundesregierung nach Anhörung der Betreiber durch
+Rechtsverordnung nach § 13i Absatz 5 weitere Maßnahmen zur
+Kohlendioxideinsparung in der Braunkohlewirtschaft erlassen.
+
+(9) (weggefallen)
+
+
+#### § 13h Verordnungsermächtigung zur Kapazitätsreserve
+
+(1) Zur näheren Bestimmung der Kapazitätsreserve nach § 13e wird das
+Bundesministerium für Wirtschaft und Energie ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+insbesondere Regelungen vorzusehen
+
+1.  zur Konkretisierung der Anlagen, aus denen Reserveleistung für die
+    Kapazitätsreserve gebunden werden kann,
+
+
+2.  zu der Menge an Reserveleistung, die in der Kapazitätsreserve gebunden
+    wird, und zu den Zeitpunkten der Leistungserbringung, abweichend von §
+    13e Absatz 2 Satz 3 und bis zur Grenze nach § 13e Absatz 5 Satz 4,
+
+
+3.  zur Anpassung des Umfangs der Kapazitätsreserve in Ergänzung zu den
+    Anforderungen in § 13e Absatz 5,
+
+
+4.  zum Verhältnis der Kapazitätsreserve zu netz- und marktbezogenen
+    Maßnahmen nach § 13 sowie zu den Anlagen der Netzreserve im Sinne des
+    § 13d Absatz 1,
+
+
+5.  zu der Aktivierung und dem Abruf (Einsatz) der Anlagen, insbesondere
+    um zu gewährleisten, dass die Anlagen der Kapazitätsreserve
+    elektrische Energie ausschließlich auf Anforderung der Betreiber von
+    Übertragungsnetzen einspeisen und die Betreiber der Anlagen die
+    Reserveleistung nicht an den Strommärkten veräußern,
+
+
+6.  zu Art, Zeitpunkt, Zeitraum sowie Häufigkeit, Form und Inhalt des
+    Beschaffungsverfahrens, insbesondere
+
+    a)  zu der jeweils zu beschaffenden Reserveleistung,
+
+
+    b)  zur zeitlichen Staffelung der zu beschaffenden Reserveleistung in
+        Teilmengen,
+
+
+    c)  zu den Vorlaufzeiten und zu den Zeitpunkten der tatsächlichen
+        Bereitstellung der Reserveleistung, die nach bestehenden oder neu zu
+        errichtenden Kapazitätsreserveanlagen differenziert werden können,
+
+
+    d)  zur Preisbildung für die Bereitstellung und die Verfügbarkeit der
+        Reserveleistung, einschließlich der Festlegung von Mindest- und
+        Höchstpreisen,
+
+
+    e)  zum Ablauf des Beschaffungsverfahrens,
+
+
+    f)  zur Nachbeschaffung von Reserveleistung, insbesondere wenn die
+        insgesamt zu beschaffende Reserveleistung voraussichtlich nicht
+        erreicht wird, ein Vertrag während der Verpflichtung zur Vorhaltung
+        der Reserveleistung beendet wird oder die Funktionsprüfung trotz
+        Nachbesserungsmöglichkeit nicht erfolgreich ist,
+
+
+
+
+
+7.  zu den Anforderungen für die Teilnahme an dem Beschaffungsverfahren
+    und für die Anlagen, insbesondere
+
+    a)  Mindestanforderungen an die Eignung der Teilnehmer,
+
+
+    b)  Anforderungen an die Lage, Größe und die Eignung der Anlagen oder
+        Teilkapazitäten der Anlage, um die Sicherheit und Zuverlässigkeit des
+        Elektrizitätsversorgungssystems im Fall von Leistungsbilanzdefiziten
+        zu gewährleisten,
+
+
+    c)  Anforderungen zur Netz- oder Systemintegration der Anlagen der
+        Kapazitätsreserve,
+
+
+    d)  Anforderungen an das Vorliegen von Genehmigungen bei Anlagen,
+
+
+    e)  Anforderungen an die Anlagen zur Einhaltung des Rückkehrverbotes sowie
+        zu Art, Form, Inhalt und Höhe von Sicherheiten, die von allen
+        Teilnehmern des Beschaffungsverfahrens oder im Fall der
+        Zuschlagserteilung zu leisten sind, um eine Inbetriebnahme sowie die
+        Vorhaltung und den Einsatz der Anlage der Kapazitätsreserve
+        sicherzustellen und zu gewährleisten, dass die Anlagen der
+        Kapazitätsreserve bis zu ihrer endgültigen Stilllegung auch im Fall
+        einer Veräußerung der Anlage nur außerhalb der Strommärkte eingesetzt
+        werden, sowie Anforderungen an die entsprechenden Regelungen zur
+        teilweisen oder vollständigen Rückgewährung dieser Sicherheiten,
+
+
+    f)  festzulegen, wie Teilnehmer an dem Beschaffungsverfahren die
+        Einhaltung der Anforderungen nach den Buchstaben a bis e nachweisen
+        müssen,
+
+
+
+
+
+8.  zu Form, Inhalt und Zeitpunkt der Zuschlagserteilung bei einem
+    Beschaffungsverfahren und zu den Kriterien für die Zuschlagserteilung,
+
+
+9.  zur Berücksichtigung der durch die Kapazitätsreserve entstehenden
+    Kosten der Betreiber von Übertragungsnetzen und zu den Anforderungen
+    an einen Kostenausgleichsmechanismus zwischen den Betreibern der
+    Übertragungsnetze,
+
+
+10. zu der durch einen Zuschlag vergebenen Vergütung einschließlich der
+    Vergütungsbestandteile, insbesondere zu regeln, dass die Vergütung für
+    die Vorhaltung der Reserveleistung als Leistungspreis in Euro pro
+    Megawatt zu zahlen ist,
+
+
+11. zu den Kosten, die den Betreibern von Anlagen der Kapazitätsreserve
+    gesondert zu erstatten sind, zur Abgrenzung zwischen
+    erstattungsfähigen Kostenpositionen, nicht erstattungsfähigen
+    Kostenpositionen und Vergütungsbestandteilen sowie zur Abgeltung der
+    Kosten durch einen pauschalen Vergütungssatz,
+
+
+12. zum Verfahren der Abrechnung der Kosten für die Vorhaltung und den
+    Einsatz der Anlagen der Kapazitätsreserve durch die Betreiber der
+    Übertragungsnetze,
+
+
+13. zum Verfahren der Anpassung bestehender Verträge bei der Erteilung
+    eines Zuschlags für Anlagen, die nach § 13a Absatz 1, § 13b oder § 13d
+    sowie der Netzreserveverordnung als Netzreserve verpflichtet und an
+    das Netz angeschlossen sind,
+
+
+14. zur Dauer der vertraglichen Verpflichtung bei bestehenden und neu zu
+    errichtenden Anlagen der Kapazitätsreserve,
+
+
+15. zu der Art, den Kriterien, den Bedingungen, dem Umfang und der
+    Reihenfolge des Einsatzes der Anlagen der Kapazitätsreserve,
+    einschließlich des Einsatzes geeigneter Anlagen der Kapazitätsreserve
+    für die Netzreserve, durch die Betreiber der Übertragungsnetze,
+
+
+16. zur Sicherstellung, dass die Anlagen der Kapazitätsreserve den
+    Betreibern der Übertragungsnetze im Bedarfsfall für den Einsatz zur
+    Verfügung stehen, sowie zur Vermeidung von Wettbewerbsverzerrungen auf
+    den Strommärkten, einschließlich der Untersagung des Betriebs der
+    Anlage,
+
+
+17. zu den Anforderungen, die bei Anlagen der Kapazitätsreserve
+    sicherstellen sollen, dass die Anlagen von den Betreibern der
+    Übertragungsnetze im Bedarfsfall eingesetzt werden können,
+    insbesondere für den Fall, dass eine Anlage nicht oder verspätet
+    aktiviert worden ist oder nicht in einem ausreichenden Umfang
+    einspeist, und zu den Anforderungen, die bei neu zu errichtenden
+    Anlagen die Inbetriebnahme sicherstellen sollen, insbesondere für den
+    Fall, dass eine Anlage nicht oder verspätet in Betrieb genommen worden
+    ist,
+
+    a)  zu einem Verfahren für Probeabrufe, für einen Funktionstest der
+        Anlagen und für Nachbesserungen in angemessener Frist, um die
+        Betriebsbereitschaft und rechtzeitige Aktivierbarkeit der Anlagen zu
+        gewährleisten, insbesondere
+
+        aa) die Möglichkeit vorzusehen, einen Vertrag mit einem Betreiber einer
+            Anlage bei Vorliegen wichtiger Gründe zu beenden,
+
+
+        bb) Regelungen zur nachträglichen Beschaffung von Anlagen der
+            Kapazitätsreserve vorzusehen und
+
+
+        cc) eine Pflicht zu einer Geldzahlung oder zur Reduzierung der Vergütung
+            vorzusehen und deren Höhe und die Voraussetzungen für die
+            Zahlungspflicht zu regeln,
+
+
+
+
+
+    b)  zum Vorgehen bei erfolglosen Probeabrufen, Funktionstests oder
+        Einsätzen, insbesondere
+
+        aa) bei der unterlassenen oder verspäteten Aktivierung einer Anlage oder
+            bei der unterlassenen Inbetriebnahme einer neu errichteten Anlage eine
+            Pflicht zu einer Geldzahlung vorzusehen und deren Höhe und die
+            Voraussetzungen für die Zahlungspflicht zu regeln,
+
+
+        bb) Kriterien für einen Ausschluss von Bietern bei künftigen Beschaffungen
+            der Kapazitätsreserve zu regeln und
+
+
+        cc) die Möglichkeit vorzusehen, die im Rahmen des Beschaffungsverfahrens
+            zu zahlende Vergütung nach Ablauf einer angemessenen Frist nicht mehr
+            zu zahlen oder zu verringern und danach die Reserveleistung erneut zu
+            vergeben, oder die Dauer oder Höhe der Vergütung nach Ablauf einer
+            angemessenen Frist zu verringern,
+
+
+
+
+
+
+
+
+18. zu der Art, der Form und dem Inhalt der Veröffentlichungen der
+    Bekanntmachung von Beschaffungsverfahren, der abgegebenen Gebote und
+    den Ergebnissen der Beschaffungsverfahren,
+
+
+19. zu den Informationen, die zur Durchführung der Nummern 1 bis 14 zu
+    übermitteln sind, und zum Schutz der in diesem Zusammenhang
+    übermittelten Betriebs- und Geschäftsgeheimnisse,
+
+
+20. zur Bestimmung, wie der nach § 13e Absatz 5 Satz 5 bis 7 zugrunde zu
+    legende Wert der durchschnittlichen Jahreshöchstlast berechnet wird
+    und worauf er sich bezieht,
+
+
+21. welche Daten übermittelt werden müssen und wer als Verantwortlicher
+    zur Übermittlung verpflichtet ist,
+
+
+22. zur Gewährleistung von Datensicherheit und Datenschutz; dies umfasst
+    insbesondere Regelungen zum Schutz personenbezogener Daten im
+    Zusammenhang mit den nach Nummer 18 zu übermittelnden Daten
+    einschließlich Aufklärungs-, Auskunfts- und Löschungspflichten,
+
+
+23. zu Art und Form der Veröffentlichung und Zustellung von Entscheidungen
+    der Bundesnetzagentur im Anwendungsbereich der Rechtsverordnung nach
+    diesem Absatz, insbesondere eine öffentliche Bekanntmachung
+    vorzusehen.
+
+
+
+
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, die Bundesnetzagentur zu ermächtigen, im Anwendungsbereich der
+Kapazitätsreserve zur näheren Bestimmung der Regelungen nach Absatz 1
+Nummer 1 bis 20 Festlegungen nach § 29 Absatz 1 zu treffen.
+
+
+#### § 13i Weitere Verordnungsermächtigungen
+
+(1) Die Bundesregierung kann zur Verwirklichung einer effizienten
+Beschaffung und zur Verwirklichung einheitlicher Anforderungen im
+Sinne von § 13 Absatz 6 Satz 1 in einer Rechtsverordnung ohne
+Zustimmung des Bundesrates und mit Zustimmung des Bundestages Regeln
+für ein sich wiederholendes oder für einen bestimmten Zeitraum
+geltendes Ausschreibungsverfahren zur Beschaffung von Ab- und
+Zuschaltleistung vorsehen. Die Zustimmung des Bundestages gilt mit
+Ablauf der sechsten Sitzungswoche nach Zuleitung des
+Verordnungsentwurfs der Bundesregierung an den Bundestag als erteilt.
+In der Rechtsverordnung können insbesondere Regelungen getroffen
+werden
+
+1.  zu technischen Anforderungen an Ab- oder Zuschaltleistung aus ab- oder
+    zuschaltbaren Lasten,
+
+
+2.  zu Anforderungen an eine Rahmenvereinbarung, die zur Teilnahme an
+    einem Ausschreibungsverfahren berechtigt,
+
+
+3.  zum Verfahren der Angebotserstellung und der Zuschlagserteilung,
+
+
+4.  zum Abruf der Ab- oder Zuschaltleistung und
+
+
+5.  für einen rückwirkenden Wegfall der Vergütung für ab- oder
+    zuschaltbare Lasten bei vorsätzlicher oder grob fahrlässiger
+    Verletzung der Pflichten nach dieser Rechtsverordnung.
+
+
+
+Daneben können in der Rechtsverordnung den Anbietern von Ab- oder
+Zuschaltleistung aus ab- oder zuschaltbaren Lasten Meldepflichten
+bezüglich der Verfügbarkeit der Ab- oder Zuschaltleistung gegenüber
+den Betreibern von Übertragungsnetzen auferlegt werden. Zudem können
+zivilrechtliche Regelungen für den Fall einer vorsätzlichen oder grob
+fahrlässigen Verletzung der Pflichten nach dieser Rechtsverordnung
+vorgesehen werden.
+
+(2) Die Bundesregierung kann die Betreiber von Übertragungsnetzen
+durch Rechtsverordnung mit Zustimmung des Bundestages verpflichten,
+Ausschreibungen nach § 13 Absatz 6 Satz 1 für wirtschaftlich und
+technisch sinnvolle Angebote wiederholend oder für einen bestimmten
+Zeitraum durchzuführen und auf Grund der Ausschreibungen eingegangene
+Angebote zum Erwerb von Ab- oder Zuschaltleistung aus ab- oder
+zuschaltbaren Lasten bis zu einer Gesamtab- oder Zuschaltleistung von
+jeweils 3 000 Megawatt anzunehmen; die Rechtsverordnung bedarf nicht
+der Zustimmung des Bundesrates. Die Zustimmung des Bundestages gilt
+mit Ablauf der sechsten Sitzungswoche nach Zuleitung des
+Verordnungsentwurfs der Bundesregierung an den Bundestag als erteilt.
+Als wirtschaftlich sinnvoll gelten Angebote zum Erwerb der Lasten, für
+die eine Vergütung zu zahlen ist, die die Kosten für die
+Versorgungsunterbrechungen nicht übersteigt, zu denen es ohne die
+Nutzung der zu- oder abschaltbaren Lasten kommen könnte. Als technisch
+sinnvoll gelten Angebote über ab- und zuschaltbare Lasten, durch die
+Ab- und Zuschaltungen für eine Mindestleistung von 5 Megawatt
+innerhalb von maximal 15 Minuten herbeigeführt werden können und die
+geeignet sind, zur Sicherheit und Zuverlässigkeit des
+Elektrizitätsversorgungssystems in der jeweiligen Regelzone
+beizutragen. In der Rechtsverordnung können auch näher geregelt werden
+
+1.  die technischen Anforderungen an Ab- oder Zuschaltleistung aus ab-
+    oder zuschaltbaren Lasten,
+
+
+2.  die Anforderungen an die Verträge über den Erwerb von Ab- und
+    Zuschaltleistung aus ab- und zuschaltbaren Lasten,
+
+
+3.  Rechte und Pflichten der Vertragsparteien,
+
+
+4.  die Kriterien für wirtschaftliche und technisch sinnvolle Angebote im
+    Sinn der Sätze 3 und 4,
+
+
+5.  Regelungen zur näheren Ausgestaltung von Berichtspflichten der
+    Bundesnetzagentur gegenüber dem Bundesministerium für Wirtschaft und
+    Energie über die Anwendung der Verordnung und
+
+
+6.  die Ausgestaltung und Höhe der Vergütung.
+
+
+
+Zahlungen und Aufwendungen der Betreiber von Übertragungsnetzen, die
+im Zusammenhang mit der Ausschreibung und dem Erwerb von Ab- oder
+Zuschaltleistung aus ab- oder zuschaltbaren Lasten stehen, gleichen
+die Betreiber von Übertragungsnetzen über eine finanzielle Verrechnung
+monatlich untereinander aus, ein Belastungsausgleich erfolgt dabei
+entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes in
+der jeweils geltenden Fassung; Näheres zum Belastungsausgleich und zu
+seiner Abwicklung regelt die Rechtsverordnung nach Satz 1. In der
+Rechtsverordnung nach Satz 1 können dabei auch Bestimmungen vorgesehen
+werden, dass die Bundesnetzagentur durch Festlegung nach § 29 Absatz 1
+Entscheidungen trifft über
+
+1.  Einzelheiten der Ermittlung und Verrechnung der Zahlungen und zur
+    Erhebung der Umlage nach Satz 6,
+
+
+2.  die Änderung der vorgegebenen Gesamtabschaltleistung,
+
+
+3.  die geographische Beschränkung von Ausschreibungen und
+
+
+4.  die Veröffentlichung von Daten zur Schaffung von Markttransparenz.
+
+
+
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen, die
+nicht der Zustimmung des Bundesrates bedürfen,
+
+1.  Bestimmungen zu treffen
+
+    a)  zur näheren Bestimmung des Adressatenkreises nach § 13a Absatz 1 und §
+        13b Absatz 4 und 5,
+
+
+    b)  zur näheren Bestimmung der Kriterien einer systemrelevanten Anlage
+        nach § 13b Absatz 2 Satz 2,
+
+
+    c)  zu den Kriterien vorläufiger und endgültiger Stilllegungen und zu dem
+        Umgang mit geplanten Stilllegungen von Erzeugungsanlagen nach den §§
+        13b und 13c,
+
+
+    d)  zu den Verpflichtungen der Betreiber von Anlagen zur Erzeugung oder
+        Speicherung elektrischer Energie im Sinne von § 13a Absatz 1 und § 13b
+        Absatz 4 und 5,
+
+
+    e)  zu der Vergütung bei geplanten Stilllegungen von Anlagen, abweichend
+        von § 13c, und den Kriterien einer angemessenen Vergütung bei
+        geplanten Stilllegungen von Erzeugungsanlagen nach § 13c,
+
+
+    f)  zum Einsatz von Anlagen in dem Vierjahreszeitraum nach § 13c Absatz 2
+        sowie
+
+
+    g)  zur Berechnung des finanziellen Ausgleichs nach § 13a Absatz 2 Satz 3
+        Nummer 5,
+
+
+
+
+
+2.  Regelungen vorzusehen für ein transparentes Verfahren zur Bildung und
+    zur Beschaffung einer Netzreserve aus Anlagen nach § 13d Absatz 1 zum
+    Zwecke der Gewährleistung der Sicherheit und Zuverlässigkeit des
+    Elektrizitätsversorgungssystems, zu den Kriterien einer angemessenen
+    Vergütung, zu den Anforderungen an diese Anlagen sowie zu dem Einsatz
+    der Anlagen in der Netzreserve; hierbei können für die Einbeziehung
+    neu zu errichtender Anlagen auch regionale Kernanteile und
+    Ausschreibungsverfahren vorgesehen werden,
+
+
+3.  Regelungen zu vertraglichen Vereinbarungen nach § 13 Absatz 6a
+    vorzusehen, insbesondere Regelungen für die Auswahl der geeigneten
+    KWK-Anlagen festzulegen.
+
+
+
+
+(4) In Rechtsverordnungen nach Absatz 3 können der Bundesnetzagentur
+Kompetenzen übertragen werden im Zusammenhang mit der Festlegung des
+erforderlichen Bedarfs an Netzreserve sowie zum Verfahren und zu
+möglichen Präqualifikationsbedingungen für den in Absatz 3 Nummer 2
+genannten Beschaffungsprozess.
+
+(5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
+nicht der Zustimmung des Bundesrates bedarf, Regelungen zur weiteren
+Einsparung von bis zu 1,5 Millionen Tonnen Kohlendioxid zusätzlich im
+Jahr 2020 in der Braunkohlewirtschaft nach Maßgabe des § 13g Absatz 8
+vorzusehen, wenn und soweit das zur Erreichung der angestrebten
+Kohlendioxideinsparung in der Braunkohlewirtschaft von 12,5 Millionen
+Tonnen zusätzlich im Jahr 2020 erforderlich ist. Durch die Regelungen
+der Verordnung muss sichergestellt werden, dass die zusätzliche
+Einsparung von 12,5 Millionen Tonnen Kohlendioxid im Jahr 2020 so weit
+wie möglich erreicht wird, die Betreiber gemeinsam aber insgesamt
+nicht mehr als 1,5 Millionen Tonnen Kohlendioxid zusätzlich im Jahr
+2020 einsparen müssen.
+
+
+#### § 13j Festlegungskompetenzen
+
+(1) Die Regulierungsbehörde wird ermächtigt, nach § 29 Absatz 1
+Festlegungen zu treffen zur näheren Bestimmung des Adressatenkreises
+nach § 13a Absatz 1 Satz 1, zu erforderlichen technischen
+Anforderungen, die gegenüber den Betreibern betroffener Anlagen
+aufzustellen sind, zu Methodik und Datenformat der Anforderung durch
+den Betreiber von Übertragungsnetzen. Zur Bestimmung des finanziellen
+Ausgleichs nach § 13a Absatz 2 kann die Regulierungsbehörde weitere
+Vorgaben im Wege einer Festlegung nach § 29 Absatz 1 machen,
+insbesondere
+
+1.  dass sich die Art und Höhe des finanziellen Ausgleichs danach
+    unterscheiden, ob es sich um eine Wirk- oder Blindleistungseinspeisung
+    oder einen Wirkleistungsbezug oder um eine leistungserhöhende oder
+    leistungsreduzierende Maßnahme handelt,
+
+
+2.  zu einer vereinfachten Bestimmung der notwendigen Auslagen für die
+    tatsächlichen Anpassungen der Einspeisung (Erzeugungsauslagen) oder
+    des Bezugs nach § 13a Absatz 2 Satz 2 Nummer 1; der finanzielle
+    Ausgleich nach § 13a Absatz 2 Satz 3 Nummer 1 kann ganz oder teilweise
+    als Pauschale für vergleichbare Kraftwerkstypen ausgestaltet werden,
+    wobei der pauschale finanzielle Ausgleich die individuell
+    zuzurechnenden Kosten im Einzelfall nicht abdecken muss; für die
+    Typisierung sind geeignete technische Kriterien heranzuziehen; die
+    Regulierungsbehörde kann vorsehen, dass in Einzelfällen, in denen der
+    pauschale finanzielle Ausgleich eine unbillige Härte darstellen würde
+    und ein Anlagenbetreiber individuell höhere zurechenbare Auslagen
+    nachweist, die über der pauschale finanzielle Ausgleich hinausgehenden
+    Kosten erstattet werden können,
+
+
+3.  zu der Ermittlung der anrechenbaren Betriebsstunden nach § 13a Absatz
+    3,
+
+
+4.  zu der Ermittlung und zu dem Nachweis der entgangenen
+    Erlösmöglichkeiten nach § 13a Absatz 2 Satz 3 Nummer 3, wobei zwischen
+    Erzeugungsanlagen und Anlagen zur Speicherung elektrischer Energie
+    unterschieden werden kann,
+
+
+5.  zu der Bemessung der ersparten Erzeugungsaufwendungen nach § 13a
+    Absatz 2 Satz 4 und
+
+
+6.  zu einer vereinfachten Bestimmung der zum Zeitpunkt der
+    Investitionsentscheidung betriebswirtschaftlich geplanten
+    Betriebsstunden nach § 13a Absatz 3; die betriebswirtschaftlich
+    geplanten Betriebsstunden können als Pauschale für vergleichbare
+    Kraftwerkstypen ausgestaltet werden; dabei sind die üblichen
+    Betriebsstunden eines vergleichbaren Kraftwerkstyps zum Zeitpunkt der
+    Investitionsentscheidung zugrunde zu legen.
+
+
+
+Die Regulierungsbehörde erhebt bei den Betreibern von Anlagen zur
+Erzeugung oder Speicherung elektrischer Energie die für die
+Festlegungen nach Satz 2 und für die Prüfung der angemessenen
+Vergütung notwendigen Daten einschließlich etwaiger Betriebs- und
+Geschäftsgeheimnisse. Die Betreiber sind insoweit zur Auskunft
+verpflichtet. Die Regulierungsbehörde kann Festlegungen nach § 29
+Absatz 1 zu dem Umfang, Zeitpunkt und der Form der zu erhebenden und
+mitzuteilenden Daten, insbesondere zu den zulässigen Datenträgern und
+Übertragungswegen, treffen.
+
+(2) Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1
+nähere Bestimmungen treffen,
+
+1.  in welchem Umfang, in welcher Form und innerhalb welcher Frist die
+    Netzbetreiber Maßnahmen nach § 13 Absatz 1 und 2, deren Gründe und die
+    zugrunde liegenden vertraglichen Regelungen der Bundesnetzagentur
+    mitteilen und auf einer gemeinsamen Internetplattform veröffentlichen
+    müssen,
+
+
+1a. in welchen Verfahren, Fristen und welcher Form die Unterrichtung nach
+    § 13a Absatz 1a Satz 4 und 5 vorzunehmen ist,
+
+
+2.  zu den Kriterien für die nach § 13 Absatz 3 Satz 1 geltenden
+    Ausnahmefälle,
+
+
+3.  zur näheren Ausgestaltung und Abgrenzung der Gründe für Stilllegungen
+    nach § 13b Absatz 1 Satz 1 zweiter Halbsatz,
+
+
+4.  zur Ermittlung der anrechenbaren Betriebsstunden nach § 13c Absatz 1
+    Satz 3 und Absatz 3 Satz 3 zweiter Halbsatz,
+
+
+5.  zu den Kriterien eines systemrelevanten Gaskraftwerks nach § 13f
+    Absatz 1,
+
+
+6.  zur Form der Ausweisung von systemrelevanten Gaskraftwerken nach § 13f
+    Absatz 1 und zur nachträglichen Anpassung an neuere Erkenntnisse,
+
+
+7.  zur Begründung und Nachweisführung nach § 13f,
+
+
+8.  zur angemessenen Erstattung von Mehrkosten nach § 13f Absatz 2 Satz 2,
+    die auch nach pauschalierten Maßgaben erfolgen kann, und
+
+
+9.  zur näheren Bestimmung der Verpflichteten nach § 13f Absatz 2.
+
+
+
+
+(3) Solange und soweit der Verordnungsgeber nach § 13i Absatz 3 keine
+abweichenden Regelungen getroffen hat, wird die Regulierungsbehörde
+ermächtigt, nach § 29 Absatz 1 Festlegungen zu den in § 13i Absatz 3
+Nummer 1 genannten Punkten zu treffen. Die Regulierungsbehörde wird
+darüber hinaus ermächtigt, nach § 29 Absatz 1 Festlegungen zu treffen
+
+1.  zu erforderlichen technischen und zeitlichen Anforderungen, die
+    gegenüber den nach § 13a Absatz 1 und § 13b Absatz 1, 4 und 5
+    betroffenen Betreibern von Erzeugungsanlagen aufzustellen sind,
+
+
+2.  zur Methodik und zum Datenformat der Anforderung durch Betreiber von
+    Übertragungsnetzen,
+
+
+3.  zur Form der Ausweisung nach § 13b Absatz 2 und Absatz 5 Satz 1 sowie
+    zur nachträglichen Anpassung an neuere Erkenntnisse und
+
+
+4.  zur Begründung und Nachweisführung nach den §§ 13b und 13c.
+
+
+
+
+(4) Die Bundesnetzagentur kann den Umfang der Kapazitätsreserve nach
+Maßgabe der Rechtsverordnung nach § 13h durch Festlegung nach § 29
+Absatz 1 anpassen, wenn eine Entscheidung nach § 13e Absatz 5 dies
+vorsieht oder eine Entscheidung der Europäischen Kommission über die
+beihilferechtliche Genehmigung der Kapazitätsreserve einen geringeren
+Umfang vorsieht.
+
+(5) Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1
+insbesondere unter Berücksichtigung der Ziele des § 1 frühestens mit
+Wirkung zum 1. Oktober 2021 nähere Bestimmungen treffen zu
+
+1.  einem abweichenden kalkulatorischen Mindestpreis nach § 13 Absatz 1c
+    Satz 4 in der auf Grund des Artikels 1 Nummer 9 des Gesetzes vom 13.
+    Mai 2019 (BGBl. I S. 706) ab dem 1. Oktober 2021 geltenden Fassung,
+
+
+2.  der Bestimmung der kalkulatorischen Kosten und kalkulatorischen Preise
+    nach § 13 Absatz 1a bis 1c in der auf Grund des Artikels 1 Nummer 9
+    des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) ab dem 1. Oktober 2021
+    geltenden Fassung, einschließlich Vorgaben zur Veröffentlichung durch
+    die Netzbetreiber, und
+
+
+3.  dem bilanziellen Ausgleich nach § 13a Absatz 1a in der auf Grund des
+    Artikels 1 Nummer 10 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) ab
+    dem 1. Oktober 2021 geltenden Fassung.
+
+
+
+
+(6) Die Bundesnetzagentur erlässt durch Festlegungen nach § 29 Absatz
+1 insbesondere unter Berücksichtigung der Ziele des § 1 frühestens mit
+Wirkung zum 1. Oktober 2021 nähere Bestimmungen zu
+
+1.  dem Mindestfaktor nach § 13 Absatz 1a in der auf Grund des Artikels 1
+    Nummer 9 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) ab dem 1.
+    Oktober 2021 geltenden Fassung, wobei dieser nicht weniger als das
+    Fünffache und nicht mehr als das Fünfzehnfache betragen darf, und
+
+
+2.  dem Mindestfaktor nach § 13 Absatz 1b Nummer 2 in der auf Grund des
+    Artikels 1 Nummer 9 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) ab
+    dem 1. Oktober 2021 geltenden Fassung, wobei dieser nicht weniger als
+    das Fünffache und nicht mehr als das Fünfzehnfache betragen darf.
+
+
+
+Die Festlegung der Mindestfaktoren nach Satz 1 erfolgt im Einvernehmen
+mit dem Umweltbundesamt. Die erstmalige Festlegung der Mindestfaktoren
+soll bis zum 1. Dezember 2020 erfolgen.
+
+(7) Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1
+unter besonderer Berücksichtigung der Ziele des § 1 abweichend von
+§ 13 Absatz 6a Satz 5 bestimmen, dass Betreiber eines
+Elektrizitätsverteilernetzes, an das mindestens 100 000 Kunden
+unmittelbar oder mittelbar angeschlossen sind, vertragliche
+Vereinbarungen nach § 13 Absatz 6a unter entsprechender Anwendung der
+dortigen Vorgaben zur Beseitigung von Engpässen in ihrem
+Hochspannungsnetz schließen können. Hierzu kann sie nähere
+Bestimmungen zu Inhalt und Verfahren treffen, insbesondere
+
+1.  über Art und Umfang des Nachweises, ob die Anlage nach § 13 Absatz 6a
+    Satz 1 Nummer 1 geeignet ist, zur Beseitigung von Gefährdungen oder
+    Störungen der Sicherheit oder Zuverlässigkeit des
+    Elektrizitätsversorgungssystems aufgrund von Netzengpässen im
+    Hochspannungsnetz des Verteilernetzbetreibers effizient beizutragen,
+
+
+2.  über Ausnahmen von den Vorgaben des § 13 Absatz 6a Satz 1 Nummer 2,
+
+
+3.  über den Nachweis, dass weder das Netz während der Dauer der
+    Vertragslaufzeit im erforderlichen Umfang nach dem Stand der Technik
+    optimiert, verstärkt oder ausgebaut werden kann noch andere geeignete
+    Maßnahmen zur effizienten Beseitigung des Engpasses verfügbar sind,
+
+
+4.  dass der Betreiber des Übertragungsnetzes, in dessen Netz das
+    Elektrizitätsverteilernetz unmittelbar oder mittelbar technisch
+    eingebunden ist, der Vereinbarung zustimmt, wobei die Zustimmung nur
+    aus netztechnischen Gründen verweigert werden kann, und
+
+
+5.  dass der Betreiber der KWK-Anlage nicht im Sinne des Artikels 3 Absatz
+    2 der Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über
+    die Kontrolle von Unternehmenszusammenschlüssen (ABl. L 24 vom
+    29\.1.2004, S. 1) mit dem Betreiber eines Elektrizitätsverteilernetzes
+    verbunden sein darf.
+
+
+
+Die Ermächtigung nach Satz 1 ist darauf beschränkt, dass Netzengpässe
+im Sinne des § 13 Absatz 6a Satz 1 Nummer 1 und Satz 5 im
+Hochspannungsnetz auftreten.
+
+
+#### § 13k (weggefallen)
+
 
 
 #### § 14 Aufgaben der Betreiber von Elektrizitätsverteilernetzen
 
-(1) Die §§ 12 und 13 gelten für Betreiber von
+(1) Die §§ 12, 13 bis 13c und die auf Grundlage des § 13i Absatz 3
+erlassenen Rechtsverordnungen gelten für Betreiber von
 Elektrizitätsverteilernetzen im Rahmen ihrer Verteilungsaufgaben
 entsprechend, soweit sie für die Sicherheit und Zuverlässigkeit der
-Elektrizitätsversorgung in ihrem Netz verantwortlich sind. § 13 Abs. 7
-ist mit der Maßgabe anzuwenden, dass die Betreiber von
+Elektrizitätsversorgung in ihrem Netz verantwortlich sind. § 13 Absatz
+9 ist mit der Maßgabe anzuwenden, dass die Betreiber von
 Elektrizitätsverteilernetzen nur auf Anforderung der
 Regulierungsbehörde die Schwachstellenanalyse zu erstellen und über
 das Ergebnis zu berichten haben.
 
-(1a) Betreiber von Elektrizitätsverteilernetzen haben auf Verlangen
-der Regulierungsbehörde innerhalb von zwei Monaten einen Bericht über
-den Netzzustand und die Netzausbauplanung zu erstellen und ihr diesen
-vorzulegen. Der Bericht zur Netzausbauplanung hat auch konkrete
-Maßnahmen zur Optimierung, zur Verstärkung und zum Ausbau des Netzes
-und den geplanten Beginn und das geplante Ende der Maßnahmen zu
-enthalten. Auf Verlangen der Regulierungsbehörde ist ihr innerhalb von
-zwei Monaten ein Bericht entsprechend den Sätzen 1 und 2 auch über
-bestimmte Teile des Elektrizitätsverteilernetzes vorzulegen. Betreiber
-von Elektrizitätsverteilernetzen einschließlich vertikal integrierter
-Energieversorgungsunternehmen, an deren Elektrizitätsverteilernetz
-weniger als 10 000 Kunden unmittelbar oder mittelbar angeschlossen
-sind, sind von den Verpflichtungen der Sätze 1 bis 3 ausgenommen. Die
-Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1 zum
-Inhalt des Berichts nähere Bestimmungen treffen.
+(1a) (weggefallen)
 
-(1b) Betreiber von Hochspannungsnetzen mit einer Nennspannung von 110
-Kilovolt haben jährlich den Netzzustand ihres Netzes und die
-Auswirkungen des zu erwartenden Ausbaus von Einspeiseanlagen
-insbesondere zur Erzeugung von Strom aus erneuerbaren Energien auf ihr
-Netz in einem Bericht darzustellen und der zuständigen
-Regulierungsbehörde zur Prüfung vorzulegen. Der Bericht wird nach den
-Vorgaben erstellt, die die Regulierungsbehörde im Verfahren nach § 29
-Absatz 1 zu Inhalt und Format festlegen kann. Kommt die
-Regulierungsbehörde zu dem Ergebnis, dass in dem Netz wesentlicher
-Bedarf zum Ausbau des Netzes in den nächsten zehn Jahren zu erwarten
-ist, haben die Netzbetreiber Netzentwicklungspläne zu erstellen und
-der Regulierungsbehörde innerhalb einer von ihr zu bestimmenden Frist
-vorzulegen. Die Anforderungen von den §§ 12a bis 12d sowie § 12f
-gelten entsprechend.
+(1b) (weggefallen)
 
 (1c) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
-Maßnahmen des Betreibers von Übertragungsnetzen oder Maßnahmen eines
+auf Aufforderung eines Betreibers von Übertragungsnetzen oder eines
 nach Absatz 1 Satz 1 verantwortlichen Betreibers von
 Elektrizitätsverteilernetzen, in dessen Netz sie unmittelbar oder
 mittelbar technisch eingebunden sind, nach dessen Vorgaben und den
-dadurch begründeten Vorgaben eines vorgelagerten Betreibers von
-Elektrizitätsverteilernetzen durch eigene Maßnahmen zu unterstützen,
-soweit diese erforderlich sind, um Gefährdungen und Störungen in den
-Elektrizitätsversorgungsnetzen mit geringstmöglichen Eingriffen in die
-Versorgung zu vermeiden; dabei gelten die §§ 12 und 13 entsprechend.
+dadurch begründeten Vorgaben eines Betreibers von vorgelagerten
+Elektrizitätsverteilernetzen in ihrem Elektrizitätsverteilernetz
+eigene Maßnahmen nach § 13 Absatz 1 und 2 auszuführen; dabei sind die
+§§ 12 und 13 bis 13c entsprechend anzuwenden. Soweit auf Grund der
+Aufforderung nach Satz 1 strom- und spannungsbedingte Anpassungen der
+Wirkleistungserzeugung oder des Wirkleistungsbezugs nach § 13a Absatz
+1 durchgeführt werden, hat der Betreiber des
+Elektrizitätsverteilernetzes einen Anspruch gegen den ihn
+auffordernden Netzbetreiber auf bilanziellen und finanziellen Ersatz
+entsprechend den Vorgaben nach Satz 1. Der ihn auffordernde
+Netzbetreiber hat einen Anspruch auf Abnahme des bilanziellen
+Ersatzes.
 
-(2) Bei der Planung des Verteilernetzausbaus haben Betreiber von
-Elektrizitätsverteilernetzen die Möglichkeiten von Energieeffizienz-
-und Nachfragesteuerungsmaßnahmen und dezentralen Erzeugungsanlagen zu
-berücksichtigen. Die Bundesregierung wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates allgemeine Grundsätze
-für die Berücksichtigung der in Satz 1 genannten Belange bei Planungen
-festzulegen.
+(2) Betreiber von Elektrizitätsverteilernetzen haben in Ergänzung zur
+Berichtspflicht nach § 14d oder in begründeten Einzelfällen auf
+Verlangen der Regulierungsbehörde innerhalb von zwei Monaten einen
+Bericht über den Netzzustand und die Umsetzung der Netzausbauplanung
+zu erstellen und ihr diesen vorzulegen. Die Regulierungsbehörde kann
+Vorgaben zu Frist, Form, Inhalt und Art der Übermittlung des Berichts
+machen. Die Regulierungsbehörde kann den Bericht auf bestimmte Teile
+des Elektrizitätsverteilernetzes beschränken. Die Regulierungsbehörde
+kann durch Festlegung nach § 29 Absatz 1 zum Inhalt des Berichts
+nähere Bestimmungen treffen.
+
+(3) Die Betreiber von Elektrizitätsverteilernetzen haben für ihr
+Netzgebiet in Zusammenarbeit mit den Betreibern von Fernwärme- und
+Fernkältesystemen mindestens alle vier Jahre das Potenzial der
+Fernwärme- und Fernkältesysteme für die Erbringung marktbezogener
+Maßnahmen nach § 13 Absatz 1 Satz 1 Nummer 2 zu bewerten. Dabei haben
+sie auch zu prüfen, ob die Nutzung des ermittelten Potenzials
+gegenüber anderen Lösungen unter Berücksichtigung der Zwecke des § 1
+Absatz 1 vorzugswürdig wäre.
 
 
-#### § 14a Steuerung von unterbrechbaren Verbrauchseinrichtungen in Niederspannung
+#### § 14a Steuerbare Verbrauchseinrichtungen in Niederspannung; Verordnungsermächtigung
 
 Betreiber von Elektrizitätsverteilernetzen haben denjenigen
 Lieferanten und Letztverbrauchern im Bereich der Niederspannung, mit
 denen sie Netznutzungsverträge abgeschlossen haben, ein reduziertes
-Netzentgelt zu berechnen, wenn ihnen im Gegenzug die Steuerung von
-vollständig unterbrechbaren Verbrauchseinrichtungen, die über einen
-separaten Zählpunkt verfügen, zum Zweck der Netzentlastung gestattet
-wird. Als unterbrechbare Verbrauchseinrichtung im Sinne von Satz 1
-gelten auch Elektromobile. Die Steuerung muss für die in Satz 1
-genannten Letztverbraucher und Lieferanten zumutbar sein und kann
-direkt durch den Netzbetreiber oder indirekt durch Dritte auf Geheiß
-des Netzbetreibers erfolgen; Näheres regelt eine Rechtsverordnung nach
-§ 21i Absatz 1 Nummer 9.
+Netzentgelt zu berechnen, wenn mit ihnen im Gegenzug die netzdienliche
+Steuerung von steuerbaren Verbrauchseinrichtungen, die über einen
+separaten Zählpunkt verfügen, vereinbart wird. Als steuerbare
+Verbrauchseinrichtung im Sinne von Satz 1 gelten auch Elektromobile.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Verpflichtung nach den Sätzen 1 und 2
+näher zu konkretisieren, insbesondere einen Rahmen für die Reduzierung
+von Netzentgelten und die vertragliche Ausgestaltung vorzusehen sowie
+Steuerungshandlungen zu benennen, die dem Netzbetreiber vorbehalten
+sind, und Steuerungshandlungen zu benennen, die Dritten, insbesondere
+dem Lieferanten, vorbehalten sind. Sie hat hierbei die weiteren
+Anforderungen des Messstellenbetriebsgesetzes an die Ausgestaltung der
+kommunikativen Einbindung der steuerbaren Verbrauchseinrichtungen zu
+beachten.
+
+
+#### § 14b Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung
+
+Soweit und solange es der Vermeidung von Engpässen im vorgelagerten
+Netz dient, können Betreiber von Gasverteilernetzen an
+Ausspeisepunkten von Letztverbrauchern, mit denen eine vertragliche
+Abschaltvereinbarung zum Zweck der Netzentlastung vereinbart ist, ein
+reduziertes Netzentgelt berechnen. Das reduzierte Netzentgelt muss die
+Wahrscheinlichkeit der Abschaltung angemessen widerspiegeln. Die
+Betreiber von Gasverteilernetzen haben sicherzustellen, dass die
+Möglichkeit von Abschaltvereinbarungen zwischen Netzbetreiber und
+Letztverbraucher allen Letztverbrauchern diskriminierungsfrei
+angeboten wird. Die grundsätzliche Pflicht der Betreiber von
+Gasverteilernetzen, vorrangig nicht unterbrechbare Verträge anzubieten
+und hierfür feste Bestellleistungen nachzufragen, bleibt hiervon
+unberührt. Die Bundesregierung wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur
+näheren Konkretisierung der Verpflichtung für Betreiber von
+Gasverteilernetzen und zur Regelung näherer Vorgaben für die
+vertragliche Gestaltung der Abschaltvereinbarung Bestimmungen zu
+treffen
+
+1.  über Kriterien, für Kapazitätsengpässe in Netzen, die eine Anpassung
+    der Gasausspeisungen zur sicheren und zuverlässigen Gasversorgung
+    durch Anwendung der Abschaltvereinbarung erforderlich macht,
+
+
+2.  über Kriterien für eine Unterversorgung der Netze, die eine Anpassung
+    der Gasausspeisungen zur sicheren und zuverlässigen Gasversorgung
+    durch Anwendung der Abschaltvereinbarung erforderlich macht und
+
+
+3.  für die Bemessung des reduzierten Netzentgelts.
+
+
+
+
+
+#### § 14c Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz
+
+(1) Betreiber von Elektrizitätsverteilernetzen, die
+Flexibilitätsdienstleistungen für ihr Netz beschaffen, um die
+Effizienz bei Betrieb und Ausbau ihres Verteilernetzes zu verbessern,
+haben dies in einem transparenten, diskriminierungsfreien und
+marktgestützten Verfahren durchzuführen. Die §§ 13, 13a, 14 Absatz 1
+und 1a sowie § 14a bleiben unberührt. Dienstleistungen nach § 12h sind
+keine Flexibilitätsdienstleistungen im Sinne des Satzes 1.
+
+(2) Spezifikationen für die Beschaffung von
+Flexibilitätsdienstleistungen müssen gewährleisten, dass sich alle
+Marktteilnehmer wirksam und diskriminierungsfrei beteiligen können.
+Die Betreiber von Elektrizitätsverteilernetzen haben in einem
+transparenten Verfahren Spezifikationen für die Beschaffung von
+Flexibilitätsdienstleistungen und für geeignete standardisierte
+Marktprodukte zu erarbeiten, die von der Bundesnetzagentur zu
+genehmigen sind.
+
+(3) Abweichend von Absatz 2 kann die Bundesnetzagentur durch
+Festlegung nach § 29 Absatz 1 Spezifikationen für die Beschaffung von
+Flexibilitätsdienstleistungen und geeignete standardisierte
+Marktprodukte vorgeben.
+
+(4) Die Bundesnetzagentur kann für bestimmte
+Flexibilitätsdienstleistungen eine Ausnahme von der Verpflichtung zur
+marktgestützten Beschaffung festlegen, sofern eine solche Beschaffung
+nicht wirtschaftlich effizient ist oder zu schwerwiegenden
+Marktverzerrungen oder zu stärkeren Engpässen führen würde.
+
+
+#### § 14d Netzausbaupläne, Verordnungsermächtigung; Festlegungskompetenz
+
+(1) Betreiber von Elektrizitätsverteilernetzen haben der
+Regulierungsbehörde alle zwei Jahre einen Plan für ihr jeweiliges
+Elektrizitätsverteilernetz vorzulegen (Netzausbauplan). Informationen
+der Netznutzer zu geplanten Netzanschlussbegehren sollen in die
+Netzausbauplanung angemessen einbezogen werden. Die
+Regulierungsbehörde kann Anpassungen des Netzausbauplans verlangen.
+
+(2) Zur Erstellung eines Netzausbauplans teilen die Betreiber von
+Elektrizitätsverteilernetzen das Gebiet der Bundesrepublik Deutschland
+in geographisch abgrenzbare und räumlich zusammenhängende Gebiete
+(Planungsregion) auf. Die innerhalb einer Planungsregion angesiedelten
+Betreiber von Elektrizitätsverteilernetzen haben sich zu den
+Grundlagen ihrer Netzausbauplanung abzustimmen. Die
+Regulierungsbehörde kann auf Antrag oder von Amts wegen die Aufnahme
+eines Betreibers eines Elektrizitätsverteilernetzes in eine
+Planungsregion anordnen. Betreiber von Elektrizitätsverteilernetzen
+einer Planungsregion stimmen unter Einbeziehung der
+Übertragungsnetzbetreiber ein Regionalszenario ab, welches gemeinsame
+Grundlage der jeweiligen Netzausbaupläne der Betreiber von
+Elektrizitätsverteilernetzen in der Planungsregion ist.
+
+(3) Der Netzausbauplan enthält insbesondere folgende Angaben:
+
+1.  Netzkarten des Hochspannungsnetzes und der Umspannstationen auf
+    Mittelspannung mit den Engpassregionen des jeweiligen Netzes,
+
+
+2.  Planungsgrundlagen einschließlich gesonderter Angaben zum Anschluss
+    neuer dezentraler Erzeugungskapazitäten sowie von Lasten und
+    Ladepunkten für Elektrofahrzeuge für die in den nächsten fünf Jahren,
+    im Hochspannungsnetz in den nächsten zehn Jahren, zu erwartenden Ein-
+    und Ausspeisungen,
+
+
+3.  die geplanten Optimierungs-, Verstärkungs- und Ausbaumaßnahmen,
+    insbesondere diejenigen Maßnahmen, für die die notwendigen öffentlich-
+    rechtlichen Planungs- oder Genehmigungsverfahren bereits eingeleitet
+    wurden, dabei ist zusätzlich anzugeben, ob und zu welchem Zeitpunkt
+    durch den Betreiber eines Elektrizitätsverteilernetzes bereits
+    Investitionsentscheidungen bezüglich dieser Maßnahmen getroffen wurden
+    und bis zu welchem Zeitpunkt der Betreiber des
+    Elektrizitätsverteilernetzes von der tatsächlichen Durchführung einer
+    Maßnahme ausgeht,
+
+
+4.  eine detaillierte Darlegung der engpassbehafteten Leitungsabschnitte
+    und der jeweilig geplanten Optimierungs-, Verstärkungs- und
+    Ausbaumaßnahmen,
+
+
+5.  den Bedarf an nicht frequenzgebundenen Systemdienstleistungen und die
+    geplante Deckung des Bedarfes und
+
+
+6.  der Umfang, in dem von dem Instrument der Spitzenkappung nach § 11
+    Absatz 2 Gebrauch gemacht werden soll.
+
+
+
+Die Darstellung der Angaben nach Satz 1 muss so ausgestaltet sein,
+dass ein sachkundiger Dritter nachvollziehen kann,
+
+1.  welche Veränderungen der Kapazitäten für Leitungstrassen und
+    Umspannstationen sowie bei nicht frequenzgebundenen
+    Systemdienstleistungen mit den geplanten Maßnahmen einhergehen,
+
+
+2.  welche Alternativen der Betreiber von Elektrizitätsverteilernetzen
+    geprüft hat,
+
+
+3.  welcher Bedarf an Systemdienstleistungen und
+    Flexibilitätsdienstleistungen nach Realisierung der Maßnahmen
+    verbleibt und
+
+
+4.  welche Kosten voraussichtlich entstehen.
+
+
+
+Die Regulierungsbehörde kann Vorgaben zu Frist, Form, Inhalt und Art
+der Übermittlung des Netzausbauplans machen.
+
+(4) Die Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1
+nähere Bestimmungen zu den Absätzen 1 bis 3 treffen. Zumindest den
+Netznutzern der Hochspannungsebene und den Übertragungsnetzbetreibern
+ist Gelegenheit zur Stellungnahme zu dem sie betreffenden
+Netzausbauplan zu geben.
+
+(5) Bei der Planung des Elektrizitätsverteilernetzausbaus haben
+Betreiber von Elektrizitätsverteilernetzen die Möglichkeiten von
+Energieeffizienz- und Nachfragesteuerungsmaßnahmen zu berücksichtigen.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates allgemeine Grundsätze für die
+Berücksichtigung der in Satz 1 genannten Belange festzulegen.
+
+(6) Die Absätze 1 bis 4 sind nicht anzuwenden auf Betreiber von
+Elektrizitätsverteilernetzen, an deren Elektrizitätsverteilernetz
+weniger als 100 000 Kunden unmittelbar oder mittelbar angeschlossen
+sind. Satz 1 ist nicht anzuwenden, wenn in dem
+Elektrizitätsverteilernetz die technisch mögliche Stromerzeugung der
+beiden vorherigen Jahre aus Windenergie an Land oder aus solarer
+Strahlungsenergie aus den an das Elektrizitätsverteilernetz
+angeschlossenen Anlagen auf Veranlassung des jeweiligen Betreibers
+eines Elektrizitätsverteilernetzes um jeweils mehr als 5 Prozent
+gekürzt wurde.
+
+
+#### § 14e Gemeinsame Internetplattform; Festlegungskompetenz
+
+(1) Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, ab
+dem 1. Januar 2023 eine gemeinsame Internetplattform mit nicht
+personenbezogenen Daten einzurichten und zu betreiben. Bei der
+Errichtung und bei dem Betrieb der gemeinsamen Internetplattform sind
+die geltenden Rechtsvorschriften zur Datensicherheit und zum Schutz
+von Betriebs- und Geschäftsgeheimnissen zu beachten sowie die
+erforderlichen technischen und organisatorischen Maßnahmen zu deren
+Sicherstellung zu ergreifen.
+
+(2) Anschlussnehmer sind berechtigt, ihre Informationen zu geplanten,
+aber noch nicht beantragten, oder geplanten und bereits beantragten
+Netzanschlussbegehren an ein Netz der nach Absatz 1 verpflichteten
+Betreiber von Elektrizitätsverteilernetzen über die gemeinsame
+Internetplattform in nicht personenbezogener Form zu übermitteln. Die
+Beteiligung nach § 14d Absatz 4 Satz 2 hat über die gemeinsame
+Internetplattform zu erfolgen.
+
+(3) Betreiber von Elektrizitätsverteilernetzen veröffentlichen unter
+Beachtung des Absatzes 1 Satz 2 auf der gemeinsamen Internetplattform
+in nicht personenbezogener Form zumindest
+
+1.  das jeweilige Regionalszenario nach § 14d Absatz 2 Satz 4,
+
+
+2.  den jeweiligen Netzausbauplan nach § 14d Absatz 1,
+
+
+3.  die wesentlichen Inhalte der nach Absatz 2 Satz 1 übermittelten
+    Informationen sowie
+
+
+4.  die Stellungnahmen nach Absatz 2 Satz 2.
+
+
+
+
+(4) Die Regulierungsbehörde ist auf die Veröffentlichungen nach Absatz
+3 in geeigneter Weise hinzuweisen. Sie kann neben der Vorlage des
+Netzausbauplans auch die Übermittlung einer nicht personenbezogenen
+Zusammenfassung der Anschlussbegehren und der Stellungnahmen in
+Textform verlangen.
+
+(5) § 14d Absatz 6 Satz 1 ist entsprechend anzuwenden. Die
+Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1 nähere
+Bestimmungen zu den Absätzen 1 bis 4 treffen.
 
 
 #### § 15 Aufgaben der Betreiber von Fernleitungsnetzen
@@ -2507,7 +5464,16 @@ Verbundnetzes zu vereinbarenden Weise erfolgen kann, haben Betreiber
 von Fernleitungsnetzen, Speicher- oder LNG-Anlagen jedem anderen
 Betreiber eines Gasversorgungsnetzes, mit dem die eigenen
 Fernleitungsnetze oder Anlagen technisch verbunden sind, die
-notwendigen Informationen bereitzustellen.
+notwendigen Informationen bereitzustellen. Betreiber von
+Übertragungsnetzen sind verpflichtet, Betreibern von
+Fernleitungsnetzen unverzüglich die Informationen einschließlich
+etwaiger Betriebs- und Geschäftsgeheimnisse bereitzustellen, die
+notwendig sind, damit die Fernleitungsnetze sicher und zuverlässig
+betrieben, gewartet und ausgebaut werden können. Die Betreiber von
+Fernleitungsnetzen haben sicherzustellen, ihnen nach Satz 2 zur
+Kenntnis gelangte Betriebs- und Geschäftsgeheimnisse ausschließlich so
+zu den dort genannten Zwecken zu nutzen, dass deren unbefugte
+Offenbarung ausgeschlossen ist.
 
 (3) Betreiber von Fernleitungsnetzen haben dauerhaft die Fähigkeit
 ihrer Netze sicherzustellen, die Nachfrage nach
@@ -2518,31 +5484,32 @@ zur Versorgungssicherheit beizutragen.
 
 #### § 15a Netzentwicklungsplan der Fernleitungsnetzbetreiber
 
-(1) Die Betreiber von Fernleitungsnetzen haben jährlich einen
-gemeinsamen nationalen Netzentwicklungsplan zu erstellen und der
-Regulierungsbehörde unverzüglich vorzulegen, erstmals zum 1. April
-2012\. Dieser muss alle wirksamen Maßnahmen zur bedarfsgerechten
-Optimierung, Verstärkung und zum bedarfsgerechten Ausbau des Netzes
-und zur Gewährleistung der Versorgungssicherheit enthalten, die in den
-nächsten zehn Jahren netztechnisch für einen sicheren und
-zuverlässigen Netzbetrieb erforderlich sind. Insbesondere ist in den
-Netzentwicklungsplan aufzunehmen, welche Netzausbaumaßnahmen in den
-nächsten drei Jahren durchgeführt werden müssen, und ein Zeitplan für
-die Durchführung aller Netzausbaumaßnahmen. Bei der Erarbeitung des
-Netzentwicklungsplans legen die Betreiber von Fernleitungsnetzen
-angemessene Annahmen über die Entwicklung der Gewinnung, der
-Versorgung, des Verbrauchs von Gas und seinem Austausch mit anderen
-Ländern zugrunde und berücksichtigen geplante Investitionsvorhaben in
-die regionale und gemeinschaftsweite Netzinfrastruktur sowie in Bezug
-auf Speicheranlagen und LNG-Wiederverdampfungsanlagen sowie die
-Auswirkungen denkbarer Störungen der Versorgung (Szenariorahmen). Der
-Netzentwicklungsplan berücksichtigt den gemeinschaftsweiten
-Netzentwicklungsplan nach Artikel 8 Absatz 3b der Verordnung (EG) Nr.
-715/2009. Die Betreiber von Fernleitungsnetzen veröffentlichen den
-Szenariorahmen und geben der Öffentlichkeit und den nachgelagerten
-Netzbetreibern Gelegenheit zur Äußerung, sie legen den Entwurf des
-Szenariorahmens der Regulierungsbehörde vor. Die Regulierungsbehörde
-bestätigt den Szenariorahmen unter Berücksichtigung der Ergebnisse der
+(1) Die Betreiber von Fernleitungsnetzen haben in jedem geraden
+Kalenderjahr einen gemeinsamen nationalen Netzentwicklungsplan zu
+erstellen und der Regulierungsbehörde unverzüglich vorzulegen,
+erstmals zum 1. April 2016. Dieser muss alle wirksamen Maßnahmen zur
+bedarfsgerechten Optimierung, Verstärkung und zum bedarfsgerechten
+Ausbau des Netzes und zur Gewährleistung der Versorgungssicherheit
+enthalten, die in den nächsten zehn Jahren netztechnisch für einen
+sicheren und zuverlässigen Netzbetrieb erforderlich sind. Insbesondere
+ist in den Netzentwicklungsplan aufzunehmen, welche
+Netzausbaumaßnahmen in den nächsten drei Jahren durchgeführt werden
+müssen, und ein Zeitplan für die Durchführung aller
+Netzausbaumaßnahmen. Bei der Erarbeitung des Netzentwicklungsplans
+legen die Betreiber von Fernleitungsnetzen angemessene Annahmen über
+die Entwicklung der Gewinnung, der Versorgung, des Verbrauchs von Gas
+und seinem Austausch mit anderen Ländern zugrunde und berücksichtigen
+geplante Investitionsvorhaben in die regionale und gemeinschaftsweite
+Netzinfrastruktur sowie in Bezug auf Gasspeicheranlagen und LNG-
+Wiederverdampfungsanlagen sowie die Auswirkungen denkbarer Störungen
+der Versorgung (Szenariorahmen). Der Netzentwicklungsplan
+berücksichtigt den gemeinschaftsweiten Netzentwicklungsplan nach
+Artikel 8 Absatz 3b der Verordnung (EG) Nr. 715/2009. Die Betreiber
+von Fernleitungsnetzen veröffentlichen den Szenariorahmen und geben
+der Öffentlichkeit und den nachgelagerten Netzbetreibern Gelegenheit
+zur Äußerung, sie legen den Entwurf des Szenariorahmens der
+Regulierungsbehörde vor. Die Regulierungsbehörde bestätigt den
+Szenariorahmen unter Berücksichtigung der Ergebnisse der
 Öffentlichkeitsbeteiligung.
 
 (2) Betreiber von Fernleitungsnetzen haben der Öffentlichkeit und den
@@ -2568,19 +5535,19 @@ alle tatsächlichen und potenziellen Netznutzer an und veröffentlicht
 das Ergebnis. Personen und Unternehmen, die den Status potenzieller
 Netznutzer beanspruchen, müssen diesen Anspruch darlegen. Die
 Regulierungsbehörde ist befugt, von den Betreibern von
-Fernleitungsnetzen sämtliche Daten zu erheben, zu verarbeiten und zu
-nutzen, die zur Prüfung erforderlich sind, ob der Netzentwicklungsplan
-den Anforderungen nach Absatz 1 Satz 2 und 5 sowie nach Absatz 2
-entspricht. Bestehen Zweifel, ob der Netzentwicklungsplan mit dem
-gemeinschaftsweit geltenden Netzentwicklungsplan in Einklang steht,
-konsultiert die Regulierungsbehörde die Agentur für die Zusammenarbeit
-der Energieregulierungsbehörden. Die Regulierungsbehörde kann
-innerhalb von drei Monaten nach Veröffentlichung des
-Konsultationsergebnisses von den Betreibern von Fernleitungsnetzen
-Änderungen des Netzentwicklungsplans verlangen, diese sind von den
-Betreibern von Fernleitungsnetzen innerhalb von drei Monaten
-umzusetzen. Die Regulierungsbehörde kann bestimmen, welcher Betreiber
-von Fernleitungsnetzen für die Durchführung einer Maßnahme aus dem
+Fernleitungsnetzen sämtliche Daten zu verarbeiten, die zur Prüfung
+erforderlich sind, ob der Netzentwicklungsplan den Anforderungen nach
+Absatz 1 Satz 2 und 5 sowie nach Absatz 2 entspricht. Bestehen
+Zweifel, ob der Netzentwicklungsplan mit dem gemeinschaftsweit
+geltenden Netzentwicklungsplan in Einklang steht, konsultiert die
+Regulierungsbehörde die Agentur für die Zusammenarbeit der
+Energieregulierungsbehörden. Die Regulierungsbehörde kann innerhalb
+von drei Monaten nach Veröffentlichung des Konsultationsergebnisses
+von den Betreibern von Fernleitungsnetzen Änderungen des
+Netzentwicklungsplans verlangen, diese sind von den Betreibern von
+Fernleitungsnetzen innerhalb von drei Monaten umzusetzen. Die
+Regulierungsbehörde kann bestimmen, welcher Betreiber von
+Fernleitungsnetzen für die Durchführung einer Maßnahme aus dem
 Netzentwicklungsplan verantwortlich ist. Verlangt die
 Regulierungsbehörde keine Änderungen innerhalb der Frist nach Satz 3
 und 4, ist der Netzentwicklungsplan für die Betreiber von
@@ -2600,10 +5567,22 @@ Ausgestaltung der von den Fernleitungsnetzbetreibern durchzuführenden
 Konsultationsverfahren nähere Bestimmungen treffen.
 
 (6) Nach der erstmaligen Durchführung des Verfahrens nach Absatz 1 und
-2 kann sich die Öffentlichkeitsbeteiligung auf Änderungen des
-Szenariorahmens oder des Netzentwicklungsplans gegenüber dem Vorjahr
-beschränken. Ein vollständiges Verfahren muss mindestens alle drei
-Jahre durchgeführt werden.
+2 kann sich die Öffentlichkeitsbeteiligung auf Änderungen gegenüber
+dem zuletzt bestätigten Szenariorahmen oder dem zuletzt
+veröffentlichten Netzentwicklungsplan beschränken. Ein vollständiges
+Verfahren muss mindestens alle vier Jahre durchgeführt werden.
+
+
+#### § 15b Umsetzungsbericht der Fernleitungsnetzbetreiber
+
+Betreiber von Fernleitungsnetzen legen der Regulierungsbehörde in
+jedem ungeraden Kalenderjahr, erstmals zum 1. April 2017, einen
+gemeinsamen Umsetzungsbericht vor, den diese prüft. Dieser Bericht
+muss Angaben zum Stand der Umsetzung des zuletzt veröffentlichten
+Netzentwicklungsplans und im Falle von Verzögerungen der Umsetzung die
+dafür maßgeblichen Gründe enthalten. Die Regulierungsbehörde
+veröffentlicht den Umsetzungsbericht und gibt allen tatsächlichen und
+potenziellen Netznutzern Gelegenheit zur Äußerung.
 
 
 #### § 16 Systemverantwortung der Betreiber von Fernleitungsnetzen
@@ -2635,11 +5614,36 @@ und Gasausspeisungen sind die betroffenen Betreiber von anderen
 Fernleitungs- und Gasverteilernetzen und Gashändler soweit möglich
 vorab zu informieren.
 
+(2a) Bei Maßnahmen nach den Absätzen 1 und 2 sind Auswirkungen auf die
+Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems auf
+Grundlage der von den Betreibern von Übertragungsnetzen nach § 15
+Absatz 2 bereitzustellenden Informationen angemessen zu
+berücksichtigen. Der Gasbezug einer Anlage, die als systemrelevantes
+Gaskraftwerk nach § 13f ausgewiesen ist, darf durch eine Maßnahme nach
+Absatz 1 nicht eingeschränkt werden, soweit der Betreiber des
+betroffenen Übertragungsnetzes die weitere Gasversorgung der Anlage
+gegenüber dem Betreiber des Fernleitungsnetzes anweist. Der Gasbezug
+einer solchen Anlage darf durch eine Maßnahme nach Absatz 2 nur
+nachrangig eingeschränkt werden, soweit der Betreiber des betroffenen
+Übertragungsnetzes die weitere Gasversorgung der Anlage gegenüber dem
+Betreiber des Fernleitungsnetzes anweist. Eine Anweisung der
+nachrangigen Einschränkbarkeit systemrelevanter Gaskraftwerke nach
+Satz 3 ist nur zulässig, wenn der Betreiber des betroffenen
+Übertragungsnetzes zuvor alle verfügbaren netz- und marktbezogenen
+Maßnahmen nach § 13 Absatz 1 ausgeschöpft hat und eine Abwägung der
+Folgen weiterer Anpassungen von Stromeinspeisungen und Stromabnahmen
+im Rahmen von Maßnahmen nach § 13 Absatz 2 mit den Folgen weiterer
+Anpassungen von Gaseinspeisungen und Gasausspeisungen im Rahmen von
+Maßnahmen nach Absatz 2 eine entsprechende Anweisung angemessen
+erscheinen lassen.
+
 (3) Im Falle einer Anpassung nach Absatz 2 ruhen bis zur Beseitigung
 der Gefährdung oder Störung alle hiervon jeweils betroffenen
-Leistungspflichten. Soweit bei Vorliegen der Voraussetzungen nach
-Absatz 2 Maßnahmen getroffen werden, ist insoweit die Haftung für
-Vermögensschäden ausgeschlossen. Im Übrigen bleibt § 11 Abs. 2
+Leistungspflichten. Satz 1 führt nicht zu einer Aussetzung der
+Abrechnung der Bilanzkreise durch den Marktgebietsverantwortlichen.
+Soweit bei Vorliegen der Voraussetzungen nach den Absätzen 2 und 2a
+Maßnahmen getroffen werden, ist insoweit die Haftung für
+Vermögensschäden ausgeschlossen. Im Übrigen bleibt § 11 Absatz 3
 unberührt.
 
 (4) Über die Gründe von durchgeführten Anpassungen und Maßnahmen sind
@@ -2647,12 +5651,7 @@ die hiervon unmittelbar Betroffenen und die Regulierungsbehörde
 unverzüglich zu informieren. Auf Verlangen sind die vorgetragenen
 Gründe zu belegen.
 
-(5) Zur Vermeidung schwerwiegender Versorgungsstörungen haben
-Betreiber von Fernleitungsnetzen jährlich eine Schwachstellenanalyse
-zu erarbeiten und auf dieser Grundlage notwendige Maßnahmen zu
-treffen. Über das Ergebnis der Schwachstellenanalyse und die Maßnahmen
-hat der Betreiber von Fernleitungsnetzen der Regulierungsbehörde auf
-Anforderung zu berichten.
+(5) (weggefallen)
 
 
 #### § 16a Aufgaben der Betreiber von Gasverteilernetzen
@@ -2670,86 +5669,53 @@ erstellen und über das Ergebnis zu berichten haben.
 
 
 
-#### § 17 Netzanschluss
+#### § 17 Netzanschluss, Verordnungsermächtigung
 
 (1) Betreiber von Energieversorgungsnetzen haben Letztverbraucher,
 gleich- oder nachgelagerte Elektrizitäts- und Gasversorgungsnetze
-sowie -leitungen, Erzeugungs- und Speicheranlagen sowie Anlagen zur
-Speicherung elektrischer Energie zu technischen und wirtschaftlichen
-Bedingungen an ihr Netz anzuschließen, die angemessen,
-diskriminierungsfrei, transparent und nicht ungünstiger sind, als sie
-von den Betreibern der Energieversorgungsnetze in vergleichbaren
-Fällen für Leistungen innerhalb ihres Unternehmens oder gegenüber
-verbundenen oder assoziierten Unternehmen angewendet werden.
+sowie -leitungen, Ladepunkte für Elektromobile, Erzeugungs- und
+Gasspeicheranlagen sowie Anlagen zur Speicherung elektrischer Energie
+zu technischen und wirtschaftlichen Bedingungen an ihr Netz
+anzuschließen, die angemessen, diskriminierungsfrei, transparent und
+nicht ungünstiger sind, als sie von den Betreibern der
+Energieversorgungsnetze in vergleichbaren Fällen für Leistungen
+innerhalb ihres Unternehmens oder gegenüber verbundenen oder
+assoziierten Unternehmen angewendet werden. Diese Pflicht besteht
+nicht für Betreiber eines L-Gasversorgungsnetzes hinsichtlich eines
+Anschlusses an das L-Gasversorgungsnetz, es sei denn, die beantragende
+Partei weist nach, dass ihr der Anschluss an ein H-Gasversorgungsnetz
+aus wirtschaftlichen oder technischen Gründen unmöglich oder
+unzumutbar ist. Hat die beantragende Partei diesen Nachweis erbracht,
+bleibt der Betreiber des L-Gasversorgungsnetzes berechtigt, den
+Anschluss an das L-Gasversorgungsnetz unter den Voraussetzungen von
+Absatz 2 zu verweigern. Die Sätze 2 und 3 sind nicht anzuwenden, wenn
+der Anschluss bis zum 21. Dezember 2018 beantragt wurde.
 
 (2) Betreiber von Energieversorgungsnetzen können einen Netzanschluss
-nach Absatz 1 verweigern, soweit sie nachweisen, dass ihnen die
+nach Absatz 1 Satz 1 verweigern, soweit sie nachweisen, dass ihnen die
 Gewährung des Netzanschlusses aus betriebsbedingten oder sonstigen
-wirtschaftlichen oder technischen Gründen unter Berücksichtigung der
-Ziele des § 1 nicht möglich oder nicht zumutbar ist. Die Ablehnung ist
-in Textform zu begründen. Auf Verlangen der beantragenden Partei muss
-die Begründung im Falle eines Kapazitätsmangels auch aussagekräftige
-Informationen darüber enthalten, welche konkreten Maßnahmen und damit
-verbundene Kosten zum Ausbau des Netzes im Einzelnen erforderlich
-wären, um den Netzanschluss durchzuführen; die Begründung kann
-nachgefordert werden. Für die Begründung nach Satz 3 kann ein Entgelt,
-das die Hälfte der entstandenen Kosten nicht überschreiten darf,
-verlangt werden, sofern auf die Entstehung von Kosten zuvor
+wirtschaftlichen oder technischen Gründen unter Berücksichtigung des
+Zwecks des § 1 nicht möglich oder nicht zumutbar ist. Die Ablehnung
+ist in Textform zu begründen. Auf Verlangen der beantragenden Partei
+muss die Begründung im Falle eines Kapazitätsmangels auch
+aussagekräftige Informationen darüber enthalten, welche Maßnahmen und
+damit verbundene Kosten zum Ausbau des Netzes im Einzelnen
+erforderlich wären, um den Netzanschluss durchzuführen; die Begründung
+kann nachgefordert werden. Für die Begründung nach Satz 3 kann ein
+Entgelt, das die Hälfte der entstandenen Kosten nicht überschreiten
+darf, verlangt werden, sofern auf die Entstehung von Kosten zuvor
 hingewiesen worden ist.
 
-(2a) Betreiber von Übertragungsnetzen, in deren Regelzone die
-Netzanbindung von Offshore-Anlagen im Sinne des § 3 Nr. 9 des
-Erneuerbare-Energien-Gesetzes erfolgen soll, haben die Leitungen von
-dem Umspannwerk der Offshore-Anlagen bis zu dem technisch und
-wirtschaftlich günstigsten Verknüpfungspunkt des nächsten
-Übertragungs- oder Verteilernetzes zu errichten und zu betreiben; die
-Netzanbindungen müssen zu dem Zeitpunkt der Herstellung der
-technischen Betriebsbereitschaft der Offshore-Anlagen errichtet sein.
-Die Netzanbindungen sind in der Regel als Sammelanbindung auszuführen,
-die entsprechend der am Markt verfügbaren Kapazität die Anbindung von
-möglichst vielen Offshore-Anlagen ermöglicht, die über eine
-Genehmigung oder eine Zusicherung der zuständigen Genehmigungsbehörde
-verfügen und in einem räumlichen Zusammenhang stehen, der die
-gemeinsame Anbindung in technischer und wirtschaftlicher Hinsicht
-erlaubt. Das Bundesamt für Seeschifffahrt und Hydrografie erstellt im
-Einvernehmen mit der Bundesnetzagentur und in Abstimmung mit dem
-Bundesamt für Naturschutz und den Küstenländern jährlich einen
-Offshore-Netzplan für die ausschließliche Wirtschaftszone der
-Bundesrepublik Deutschland, in dem die Offshore-Anlagen identifiziert
-werden, die für eine Sammelanbindung nach Satz 2 geeignet sind. Der
-Offshore-Netzplan enthält auch die Festlegung der notwendigen Trassen
-für die Anbindungsleitungen, Standorte für die Konverterplattformen
-und grenzüberschreitende Stromleitungen sowie Darstellungen zu
-möglichen Verbindungen untereinander, die zur Gewährleistung der
-Systemsicherheit beitragen können und mit einem effizienten Netzausbau
-vereinbar sind. Eine Leitung nach Satz 1 gilt ab dem Zeitpunkt der
-Errichtung als Teil des Energieversorgungsnetzes. Betreiber von
-Übertragungsnetzen sind zum Ersatz der Aufwendungen verpflichtet, die
-die Betreiber von Offshore-Anlagen für die Planung und Genehmigung der
-Netzanschlussleitungen bis zum 17. Dezember 2006 getätigt haben,
-soweit diese Aufwendungen den Umständen nach für erforderlich
-anzusehen waren und den Anforderungen eines effizienten Netzbetriebs
-nach § 21 entsprechen. Die Betreiber von Übertragungsnetzen sind
-verpflichtet, den unterschiedlichen Umfang ihrer Kosten nach den
-Sätzen 1 und 3 über eine finanzielle Verrechnung untereinander
-auszugleichen; § 9 Abs. 3 des Kraft-Wärme-Kopplungsgesetzes findet
-entsprechende Anwendung.
+(2a) (weggefallen)
 
-(2b) Der Offshore-Netzplan entfaltet keine Außenwirkungen und ist
-nicht selbstständig durch Dritte anfechtbar. Die Bundesnetzagentur
-bestimmt durch Festlegung nach § 29 Absatz 1 Kriterien, die für die
-Errichtung von Netzanbindungen nach Absatz 2a Satz 1 und 2
-erforderlich sind, die eine Realisierungswahrscheinlichkeit der
-Errichtung von Offshore-Anlagen ermitteln und eine
-diskriminierungsfreie Vergabe von Anbindungskapazitäten an Offshore-
-Anlagen ermöglichen.
+(2b) (weggefallen)
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
 1.  Vorschriften über die technischen und wirtschaftlichen Bedingungen für
-    einen Netzanschluss nach Absatz 1 oder Methoden für die Bestimmung
-    dieser Bedingungen zu erlassen und
+    einen Netzanschluss nach Absatz 1 Satz 1 oder Methoden für die
+    Bestimmung dieser Bedingungen zu erlassen und
 
 
 2.  zu regeln, in welchen Fällen und unter welchen Voraussetzungen die
@@ -2779,6 +5745,844 @@ Energieversorgungsnetzen und der Anschlussnehmer
 
 
 
+#### § 17a Bundesfachplan Offshore des Bundesamtes für Seeschifffahrt und Hydrographie
+
+(1) Das Bundesamt für Seeschifffahrt und Hydrographie erstellt in
+jedem geraden Kalenderjahr, beginnend mit dem Jahr 2016, im
+Einvernehmen mit der Bundesnetzagentur und in Abstimmung mit dem
+Bundesamt für Naturschutz und den Küstenländern einen Offshore-
+Netzplan für die ausschließliche Wirtschaftszone der Bundesrepublik
+Deutschland (Bundesfachplan Offshore). Der Bundesfachplan Offshore
+enthält Festlegungen zu:
+
+1.  Windenergieanlagen auf See im Sinne des § 3 Nummer 49 des Erneuerbare-
+    Energien-Gesetzes, die in räumlichem Zusammenhang stehen und für
+    Sammelanbindungen geeignet sind,
+
+
+2.  Trassen oder Trassenkorridoren für Anbindungsleitungen für
+    Windenergieanlagen auf See,
+
+
+3.  den Orten, an denen die Anbindungsleitungen die Grenze zwischen der
+    ausschließlichen Wirtschaftszone und dem Küstenmeer überschreiten,
+
+
+4.  Standorten von Konverterplattformen oder Umspannanlagen,
+
+
+5.  Trassen oder Trassenkorridoren für grenzüberschreitende
+    Stromleitungen,
+
+
+6.  Trassen oder Trassenkorridoren zu oder für mögliche Verbindungen der
+    in den Nummern 1, 2, 4 und 5 genannten Anlagen und Trassen oder
+    Trassenkorridore untereinander,
+
+
+7.  standardisierten Technikvorgaben und Planungsgrundsätzen.
+
+
+
+Das Bundesamt für Seeschifffahrt und Hydrographie prüft bei der
+Erstellung des Bundesfachplans Offshore, ob einer Festlegung nach Satz
+2 überwiegende öffentliche oder private Belange entgegenstehen. Es
+prüft insbesondere
+
+1.  die Übereinstimmung mit den Erfordernissen der Raumordnung im Sinne
+    von § 3 Absatz 1 Nummer 1 des Raumordnungsgesetzes vom 22. Dezember
+    2008 (BGBl. I S. 2986), das zuletzt durch Artikel 9 des Gesetzes vom
+    31\. Juli 2009 (BGBl. I S. 2585) geändert worden ist,
+
+
+2.  die Abstimmung mit anderen raumbedeutsamen Planungen und Maßnahmen im
+    Sinne von § 3 Absatz 1 Nummer 6 des Raumordnungsgesetzes und
+
+
+3.  etwaige ernsthaft in Betracht kommende Alternativen von Trassen,
+    Trassenkorridoren oder Standorten.
+
+
+
+
+(2) Soweit nicht die Voraussetzungen für eine Ausnahme von der
+Verpflichtung zur Durchführung einer strategischen Umweltprüfung nach
+§ 37 des Gesetzes über die Umweltverträglichkeitsprüfung vorliegen,
+führt das Bundesamt für Seeschifffahrt und Hydrographie unverzüglich
+nach Einleitung des Verfahrens nach Absatz 1 einen Anhörungstermin
+durch. In dem Anhörungstermin sollen Gegenstand und Umfang der in
+Absatz 1 Satz 2 genannten Festlegungen erörtert werden. Insbesondere
+soll erörtert werden, in welchem Umfang und Detaillierungsgrad Angaben
+in den Umweltbericht nach § 40 des Gesetzes über die
+Umweltverträglichkeitsprüfung aufzunehmen sind. Der Anhörungstermin
+ist zugleich die Besprechung im Sinne des § 39 Absatz 4 Satz 2 des
+Gesetzes über die Umweltverträglichkeitsprüfung. § 7 Absatz 2 des
+Netzausbaubeschleunigungsgesetzes Übertragungsnetz gilt für den
+Anhörungstermin entsprechend mit der Maßgabe, dass der jeweiligen
+Ladung geeignete Vorbereitungsunterlagen beizufügen sind und Ladung
+sowie Übersendung dieser Vorbereitungsunterlagen auch elektronisch
+erfolgen können. Das Bundesamt für Seeschifffahrt und Hydrographie
+legt auf Grund der Ergebnisse des Anhörungstermins einen
+Untersuchungsrahmen für den Bundesfachplan Offshore nach
+pflichtgemäßem Ermessen fest.
+
+(3) Soweit nicht die Voraussetzungen für eine Ausnahme von der
+Verpflichtung zur Durchführung einer strategischen Umweltprüfung nach
+§ 37 des Gesetzes über die Umweltverträglichkeitsprüfung vorliegen,
+erstellt das Bundesamt für Seeschifffahrt und Hydrographie frühzeitig
+während des Verfahrens zur Erstellung des Bundesfachplans Offshore
+einen Umweltbericht, der den Anforderungen des § 40 des Gesetzes über
+die Umweltverträglichkeitsprüfung entsprechen muss. Die Betreiber von
+Übertragungsnetzen und von Windenergieanlagen auf See stellen dem
+Bundesamt für Seeschifffahrt und Hydrographie die hierzu
+erforderlichen Informationen zur Verfügung.
+
+(4) Das Bundesamt für Seeschifffahrt und Hydrographie beteiligt die
+Behörden, deren Aufgabenbereich berührt ist, und die Öffentlichkeit zu
+dem Entwurf des Bundesfachplans Offshore und des Umweltberichts nach
+den Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung.
+Bei Fortschreibung kann sich die Beteiligung der Öffentlichkeit sowie
+der Träger öffentlicher Belange auf Änderungen gegenüber dem zuletzt
+öffentlich bekannt gemachten Bundesfachplan Offshore beschränken; ein
+vollständiges Verfahren nach Satz 1 muss mindestens alle vier Jahre
+durchgeführt werden. Im Übrigen ist § 12c Absatz 3 entsprechend
+anzuwenden.
+
+(5) Der Bundesfachplan Offshore entfaltet keine Außenwirkungen und ist
+nicht selbständig durch Dritte anfechtbar. Er ist für die
+Planfeststellungs- und Genehmigungsverfahren nach den Bestimmungen der
+Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57) in der
+jeweils geltenden Fassung verbindlich.
+
+(6) Die Bundesnetzagentur kann nach Aufnahme einer Leitung in den
+Bundesnetzplan nach § 17 des Netzausbaubeschleunigungsgesetzes
+Übertragungsnetz den nach § 17d Absatz 1 anbindungsverpflichteten
+Übertragungsnetzbetreiber durch Bescheid auffordern, innerhalb einer
+zu bestimmenden angemessenen Frist den erforderlichen Antrag auf
+Planfeststellung oder Plangenehmigung der Leitung nach den
+Bestimmungen der Seeanlagenverordnung zu stellen.
+
+(7) Ab dem 31. Dezember 2017 erstellt das Bundesamt für Seeschifffahrt
+und Hydrographie keinen Bundesfachplan Offshore mehr.
+
+
+#### § 17b Offshore-Netzentwicklungsplan
+
+(1) Die Betreiber von Übertragungsnetzen legen der Regulierungsbehörde
+auf der Grundlage des Szenariorahmens nach § 12a einen gemeinsamen
+Offshore-Netzentwicklungsplan für die ausschließliche Wirtschaftszone
+der Bundesrepublik Deutschland und das Küstenmeer bis einschließlich
+der Netzanknüpfungspunkte an Land zusammen mit dem nationalen
+Netzentwicklungsplan nach § 12b zur Bestätigung vor. Der gemeinsame
+nationale Offshore-Netzentwicklungsplan muss unter Berücksichtigung
+der Festlegungen des jeweils aktuellen Bundesfachplans Offshore im
+Sinne des § 17a mit einer zeitlichen Staffelung alle wirksamen
+Maßnahmen zur bedarfsgerechten Optimierung, Verstärkung und zum Ausbau
+der Offshore-Anbindungsleitungen enthalten, die spätestens zum Ende
+des Betrachtungszeitraums im Sinne des § 12a Absatz 1 Satz 2 für einen
+schrittweisen, bedarfsgerechten und wirtschaftlichen Ausbau sowie
+einen sicheren und zuverlässigen Betrieb der Offshore-
+Anbindungsleitungen erforderlich sind. Dabei sind insbesondere die in
+§ 4 Nummer 2 des Erneuerbare-Energien-Gesetzes sowie die in § 1 des
+Windenergie-auf-See-Gesetzes geregelten Ziele für einen stetigen und
+kosteneffizienten Ausbau der Windenergie auf See zugrunde zu legen und
+die Verteilung des Zubaus nach § 27 Absatz 4 des Windenergie-auf-See-
+Gesetzes zu berücksichtigen.
+
+(2) Der Offshore-Netzentwickungsplan enthält für alle Maßnahmen nach
+Absatz 1 Satz 2 Angaben zum geplanten Zeitpunkt der Fertigstellung und
+sieht verbindliche Termine für den Beginn der Umsetzung vor. Dabei
+legen die Betreiber von Übertragungsnetzen die im Szenariorahmen nach
+§ 12a von der Regulierungsbehörde genehmigten Erzeugungskapazitäten
+zugrunde und berücksichtigen die zu erwartenden Planungs-, Zulassungs-
+und Errichtungszeiten sowie die am Markt verfügbaren
+Errichtungskapazitäten. Kriterien für die zeitliche Abfolge der
+Umsetzung können insbesondere der Realisierungsfortschritt der
+anzubindenden Windenergieanlagen auf See, die effiziente Nutzung der
+zu errichtenden Anbindungskapazität, die räumliche Nähe zur Küste
+sowie die geplante Inbetriebnahme der Netzanknüpfungspunkte sein. Bei
+der Aufstellung des Offshore-Netzentwicklungsplans berücksichtigen die
+Betreiber von Übertragungsnetzen weitgehend technische
+Standardisierungen unter Beibehaltung des technischen Fortschritts.
+Dem Offshore-Netzentwicklungsplan sind Angaben zum Stand der Umsetzung
+des vorhergehenden Offshore-Netzentwicklungsplans und im Falle von
+Verzögerungen die dafür maßgeblichen Gründe der Verzögerung
+beizufügen. Der Entwurf des Offshore-Netzentwicklungsplans muss im
+Einklang stehen mit dem Entwurf des Netzentwicklungsplans nach § 12b
+und hat den gemeinschaftsweiten Netzentwicklungsplan nach Artikel 8
+Absatz 3b der Verordnung (EG) Nr. 714/2009 zu berücksichtigen.
+
+(3) Der Offshore-Netzentwicklungsplan enthält Festlegungen, in welchem
+Umfang die Anbindung von bestehenden Projekten im Sinn des § 26 Absatz
+2 des Windenergie-auf-See-Gesetzes ausnahmsweise über einen anderen im
+Bundesfachplan Offshore nach § 17a festgelegten Cluster gemäß § 17d
+Absatz 3 erfolgen kann.
+
+(4) § 12b Absatz 3 bis 5 ist entsprechend anzuwenden.
+
+(5) Ab dem 1. Januar 2018 legen die Betreiber von Übertragungsnetzen
+keinen Offshore-Netzentwicklungsplan mehr vor.
+
+
+#### § 17c Prüfung und Bestätigung des Offshore-Netzentwicklungsplans durch die Regulierungsbehörde sowie Offshore-Umsetzungsbericht der Übertragungsnetzbetreiber
+
+(1) Die Regulierungsbehörde prüft in Abstimmung mit dem Bundesamt für
+Seeschifffahrt und Hydrographie die Übereinstimmung des Offshore-
+Netzentwicklungsplans mit den Anforderungen nach § 17b. Im Übrigen ist
+§ 12c entsprechend anzuwenden. Die Bestätigung des Offshore-
+Netzentwicklungsplans erfolgt für Maßnahmen nach § 17b Absatz 1 Satz
+2, deren geplanter Zeitpunkt der Fertigstellung nach dem Jahr 2025
+liegt, unter dem Vorbehalt der entsprechenden Festlegung der
+jeweiligen Offshore-Anbindungsleitung im Flächenentwicklungsplan nach
+§ 5 des Windenergie-auf-See-Gesetzes.
+
+(2) Die Regulierungsbehörde kann in Abstimmung mit dem Bundesamt für
+Seeschifffahrt und Hydrographie eine bereits erfolgte Bestätigung des
+Offshore-Netzentwicklungsplans nach Bekanntmachung der Zuschläge nach
+§ 34 des Windenergie-auf-See-Gesetzes aus dem Gebotstermin vom 1.
+April 2018 ändern, soweit der anbindungsverpflichtete
+Übertragungsnetzbetreiber die betreffende Offshore-Anbindungsleitung
+noch nicht beauftragt hat und die Änderung für eine geordnete und
+effiziente Nutzung und Auslastung der Offshore-Anbindungsleitung
+erforderlich ist.
+
+(3) Die Betreiber von Übertragungsnetzen legen der Regulierungsbehörde
+jeweils spätestens bis zum 30. September eines jeden geraden
+Kalenderjahres, beginnend mit dem Jahr 2018, einen gemeinsamen
+Offshore-Umsetzungsbericht vor, den diese in Abstimmung mit dem
+Bundesamt für Seeschifffahrt und Hydrographie prüft. Dieser Bericht
+muss Angaben zum Stand der Umsetzung des zuletzt bestätigten Offshore-
+Netzentwicklungsplans und im Falle von Verzögerungen der Umsetzung die
+dafür maßgeblichen Gründe enthalten. Die Regulierungsbehörde
+veröffentlicht den Umsetzungsbericht und gibt allen tatsächlichen und
+potenziellen Netznutzern Gelegenheit zur Äußerung. Ab dem Jahr 2020
+ist kein Offshore-Umsetzungsbericht mehr von den
+Übertragungsnetzbetreibern vorzulegen.
+
+
+#### § 17d Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans
+
+(1) Betreiber von Übertragungsnetzen, in deren Regelzone die
+Netzanbindung von Windenergieanlagen auf See erfolgen soll
+(anbindungsverpflichteter Übertragungsnetzbetreiber), haben die
+Offshore-Anbindungsleitungen entsprechend den Vorgaben des Offshore-
+Netzentwicklungsplans und ab dem 1. Januar 2019 entsprechend den
+Vorgaben des Netzentwicklungsplans und des Flächenentwicklungsplans
+gemäß § 5 des Windenergie-auf-See-Gesetzes zu errichten und zu
+betreiben. Sie haben mit der Umsetzung der Netzanbindungen von
+Windenergieanlagen auf See entsprechend den Vorgaben des Offshore-
+Netzentwicklungsplans und ab dem 1. Januar 2019 entsprechend den
+Vorgaben des Netzentwicklungsplans und des Flächenentwicklungsplans
+gemäß § 5 des Windenergie-auf-See-Gesetzes zu beginnen und die
+Errichtung der Netzanbindungen von Windenergieanlagen auf See zügig
+voranzutreiben. Eine Offshore-Anbindungsleitung nach Satz 1 ist ab dem
+Zeitpunkt der Fertigstellung ein Teil des Energieversorgungsnetzes.
+
+(2) Der anbindungsverpflichtete Übertragungsnetzbetreiber beauftragt
+die Offshore-Anbindungsleitung so rechtzeitig, dass die
+Fertigstellungstermine in den im Flächenentwicklungsplan und im
+Netzentwicklungsplan dafür festgelegten Kalenderjahren einschließlich
+des Quartals im jeweiligen Kalenderjahr liegen. Der
+anbindungsverpflichtete Übertragungsnetzbetreiber beauftragt die
+Offshore-Anbindungsleitung nicht, bevor die Eignung einer durch sie
+anzubindenden Fläche zur Nutzung von Windenergie auf See gemäß § 12
+des Windenergie-auf-See-Gesetzes festgestellt wurde. In diesem Fall
+beauftragt er die Offshore-Anbindungsleitung unverzüglich nach der
+Eignungsfeststellung. Er kann die Offshore-Anbindungsleitung
+abweichend von Satz 2 bereits nach der Bekanntmachung des Verfahrens
+zur Voruntersuchung einer Fläche nach § 12 Absatz 1 des Windenergie-
+auf-See-Gesetzes beauftragen, wenn die Fläche im
+Flächenentwicklungsplan festgelegt ist und anderenfalls die Einhaltung
+der Fertigstellungstermine nach Satz 1 nicht gewährleistet ist. Der
+anbindungsverpflichtete Übertragungsnetzbetreiber hat nach
+Auftragsvergabe die Daten der voraussichtlichen Fertigstellungstermine
+der Offshore-Anbindungsleitung der Regulierungsbehörde bekannt zu
+machen und auf seiner Internetseite zu veröffentlichen. Soweit eine
+landseitige Maßnahme im Sinn des § 12b Absatz 2 Satz 1 erforderlich
+ist,
+
+1.  um die Offshore-Anbindungsleitung unmittelbar ausgehend vom
+    Netzverknüpfungspunkt an das bestehende landseitige Übertragungsnetz
+    anzubinden und
+
+
+2.  um mindestens 70 Prozent der Kapazität der Offshore-Anbindungsleitung
+    im Kalenderjahr nach dem voraussichtlichen Fertigstellungstermin
+    übertragen zu können,
+
+
+
+hat der anbindungsverpflichtete Übertragungsnetzbetreiber gegenüber
+der Regulierungsbehörde bis zum Zeitpunkt der Bekanntmachung der
+Ausschreibung eine Stellungnahme abzugeben, wenn die Maßnahme im Sinn
+des § 12b Absatz 2 Satz 1 zum voraussichtlichen Fertigstellungstermin
+der Offshore-Anbindungsleitung nicht in Betrieb gehen wird und keine
+geeigneten Alternativen umsetzbar sind. Nach Bekanntmachung der
+voraussichtlichen Fertigstellungstermine nach Satz 5 hat der
+anbindungsverpflichtete Übertragungsnetzbetreiber mit den Betreibern
+der Windenergieanlage auf See, die gemäß der §§ 23 oder 34 des
+Windenergie-auf-See-Gesetzes einen Zuschlag erhalten haben oder denen
+nach Maßgabe einer Festlegung nach § 70 Absatz 2 Satz 4 Nummer 2 des
+Windenergie-auf-See-Gesetzes Kapazität auf einer Testfeld-
+Anbindungsleitung zugewiesen wurde, jeweils einen
+Realisierungsfahrplan abzustimmen, der die zeitliche Abfolge für die
+einzelnen Schritte zur Errichtung der Windenergieanlage auf See und
+zur Herstellung des Netzanschlusses enthält. Dabei sind die Fristen
+zur Realisierung der Windenergieanlage auf See gemäß § 59 des
+Windenergie-auf-See-Gesetzes und die Vorgaben gemäß § 5 Absatz 1
+Nummer 4 des Windenergie-auf-See-Gesetzes im Flächenentwicklungsplan
+zu berücksichtigen. Der anbindungsverpflichtete
+Übertragungsnetzbetreiber und der Betreiber der Windenergieanlage auf
+See haben sich regelmäßig über den Fortschritt bei der Errichtung der
+Windenergieanlage auf See und der Herstellung des Netzanschlusses zu
+unterrichten; mögliche Verzögerungen oder Abweichungen vom
+Realisierungsfahrplan nach Satz 6 sind unverzüglich mitzuteilen. Die
+bekannt gemachten voraussichtlichen Fertigstellungstermine können nur
+mit Zustimmung der Regulierungsbehörde im Benehmen mit dem Bundesamt
+für Seeschifffahrt und Hydrographie geändert werden; die
+Regulierungsbehörde trifft die Entscheidung nach pflichtgemäßem
+Ermessen und unter Berücksichtigung der Interessen der Beteiligten und
+der volkswirtschaftlichen Kosten. 30 Monate vor Eintritt der
+voraussichtlichen Fertigstellung werden die bekannt gemachten
+Fertigstellungstermine jeweils verbindlich. Die Sätze 2, 3 und 7 sind
+nicht auf Testfeld-Anbindungsleitungen anzuwenden.
+
+(3) Betreiber von Windenergieanlagen auf See mit einem Zuschlag nach
+den §§ 23 oder 34 des Windenergie-auf-See-Gesetzes erhalten
+ausschließlich eine Kapazität auf der Offshore-Anbindungsleitung, die
+zur Anbindung des entsprechenden Clusters im Bundesfachplan Offshore
+nach § 17a oder der entsprechenden Fläche im Flächenentwicklungsplan
+nach § 5 des Windenergie-auf-See-Gesetzes vorgesehen ist.
+Ausnahmsweise kann eine Anbindung über einen anderen im Bundesfachplan
+Offshore nach § 17a festgelegten Cluster erfolgen, sofern dies im
+Bundesfachplan Offshore und im Offshore-Netzentwicklungsplan
+ausdrücklich vorgesehen ist und dies für eine geordnete und effiziente
+Nutzung und Auslastung der Offshore-Anbindungsleitungen erforderlich
+ist.
+
+(4) Die Regulierungsbehörde kann im Benehmen mit dem Bundesamt für
+Seeschifffahrt und Hydrographie dem Betreiber einer Windenergieanlage
+auf See, der über zugewiesene Netzanbindungskapazität verfügt, die
+Netzanbindungskapazität entziehen und ihm Netzanbindungskapazität auf
+einer anderen Offshore-Anbindungsleitung zuweisen
+(Kapazitätsverlagerung), soweit dies einer geordneten und effizienten
+Nutzung und Auslastung von Offshore-Anbindungsleitungen dient und
+soweit dem die Bestimmungen des Bundesfachplans Offshore und ab dem 1.
+Januar 2019 des Netzentwicklungsplans und des Flächenentwicklungsplans
+gemäß § 5 des Windenergie-auf-See-Gesetzes nicht entgegenstehen. Vor
+der Entscheidung sind der betroffene Betreiber einer Windenergieanlage
+auf See und der betroffene anbindungsverpflichtete
+Übertragungsnetzbetreiber zu hören.
+
+(5) Die zugewiesene Netzanbindungskapazität besteht, soweit und
+solange ein Planfeststellungsbeschluss oder eine Plangenehmigung für
+die Windenergieanlagen auf See wirksam ist. Wird ein Zuschlag nach den
+§§ 23 oder 34 des Windenergie-auf-See-Gesetzes unwirksam, entfällt die
+zugewiesene Netzanbindungskapazität auf der entsprechenden Offshore-
+Anbindungsleitung, die zur Anbindung der Fläche vorgesehen ist. Die
+Regulierungsbehörde teilt dem anbindungsverpflichteten
+Übertragungsnetzbetreiber unverzüglich die Unwirksamkeit eines
+Zuschlags mit und ergreift im Benehmen mit dem Bundesamt für
+Seeschifffahrt und Hydrographie angemessene Maßnahmen für eine
+geordnete und effiziente Nutzung und Auslastung der betroffenen
+Offshore-Anbindungsleitung. Vor der Entscheidung ist der betroffene
+anbindungsverpflichtete Übertragungsnetzbetreiber zu hören.
+
+(6) Anbindungsverpflichtete Übertragungsnetzbetreiber sind gegenüber
+dem Inhaber einer Genehmigung zum Bau von Windenergieanlagen auf See
+im Küstenmeer nach dem Bundes-Immissionsschutzgesetz verpflichtet, die
+Netzanbindung von dem Umspannwerk der Windenergieanlagen auf See bis
+zu dem technisch und wirtschaftlich günstigsten Verknüpfungspunkt des
+nächsten Übertragungsnetzes auf die technisch und wirtschaftlich
+günstigste Art und Weise zu errichten und zu betreiben. Inhaber einer
+Genehmigung zum Bau von Windenergieanlagen auf See im Küstenmeer nach
+dem Bundes-Immissionsschutzgesetz haben einen Anspruch auf Anbindung
+nach Satz 1 nur dann, wenn der auf der Fläche im Küstenmeer erzeugte
+Strom ausschließlich im Wege der sonstigen Direktvermarktung nach
+§ 21a des Erneuerbare-Energien-Gesetzes veräußert wird und eine
+Sicherheit entsprechend § 21 des Windenergie-auf-See-Gesetzes bezogen
+auf die genehmigte Höhe der zu installierenden Leistung an die
+Bundesnetzagentur zur Sicherung von Ansprüchen des
+anbindungsverpflichteten Übertragungsnetzbetreibers nach Absatz 9
+geleistet wurde. § 31 Absatz 3 bis 5 des Erneuerbaren-Energien-
+Gesetzes ist entsprechend anzuwenden. Absatz 2 Satz 5 ist entsprechend
+für Netzanbindungen nach Satz 1 anzuwenden. Die
+Anbindungsverpflichtung entfällt, wenn Vorgaben des
+Flächenentwicklungsplans entgegenstehen oder der
+anbindungsverpflichtete Übertragungsnetzbetreiber gegenüber der
+Bundesnetzagentur eine Stellungnahme nach Satz 4 und Absatz 2 Satz 5
+abgibt. Eine Netzanbindung nach Satz 1 ist ab dem Zeitpunkt der
+Fertigstellung ein Teil des Energieversorgungsnetzes.
+
+(7) Nachdem die Bundesnetzagentur auf Antrag des Inhabers der
+Genehmigung bestätigt hat, dass der Nachweis über eine bestehende
+Finanzierung für die Errichtung von Windenergieanlagen auf See in dem
+Umfang der genehmigten Anlagen gemäß den Vorgaben des § 59 Absatz 2
+Satz 1 Nummer 2 des Windenergie-auf-See-Gesetzes gegenüber der
+Bundesnetzagentur erbracht worden ist, beauftragt der
+anbindungsverpflichtete Übertragungsnetzbetreiber unverzüglich die
+Netzanbindung nach Absatz 6. Der anbindungsverpflichtete
+Übertragungsnetzbetreiber hat nach Auftragsvergabe den
+voraussichtlichen Fertigstellungstermin der Netzanbindung der
+Bundesnetzagentur bekannt zu machen und auf seiner Internetseite zu
+veröffentlichen. Der bekannt gemachte voraussichtliche
+Fertigstellungstermin kann nur mit Zustimmung der Regulierungsbehörde
+verschoben werden, dabei trifft die Regulierungsbehörde die
+Entscheidung nach pflichtgemäßem Ermessen und unter Berücksichtigung
+der Interessen der Beteiligten und der volkswirtschaftlichen Kosten.
+30 Monate vor Eintritt der voraussichtlichen Fertigstellung wird der
+bekannt gemachte Fertigstellungstermin verbindlich.
+
+(8) Nach Bekanntmachung des voraussichtlichen Fertigstellungstermins
+nach Absatz 7 Satz 4 hat der anbindungsverpflichtete
+Übertragungsnetzbetreiber mit dem Inhaber der Genehmigung zum Bau von
+Windenergieanlagen auf See im Küstenmeer nach dem Bundes-
+Immissionsschutzgesetz einen Realisierungsfahrplan abzustimmen, der
+die zeitliche Abfolge für die einzelnen Schritte zur Errichtung der
+Windenergieanlage auf See und zur Herstellung des Netzanschlusses
+einschließlich eines Anschlusstermins enthält. Der Inhaber der
+Genehmigung für die Errichtung der Windenergieanlagen auf See muss
+
+1.  spätestens sechs Monate vor dem verbindlichen Fertigstellungstermin
+    gegenüber der Bundesnetzagentur den Nachweis erbringen, dass mit der
+    Errichtung der Windenergieanlagen begonnen worden ist,
+
+
+2.  spätestens zum verbindlichen Fertigstellungstermin gegenüber der
+    Bundesnetzagentur den Nachweis erbringen, dass die technische
+    Betriebsbereitschaft mindestens einer Windenergieanlage auf See
+    einschließlich der zugehörigen parkinternen Verkabelung hergestellt
+    worden ist, und
+
+
+3.  innerhalb von sechs Monaten nach dem verbindlichen
+    Fertigstellungstermin gegenüber der Bundesnetzagentur den Nachweis
+    erbringen, dass die technische Betriebsbereitschaft der
+    Windenergieanlagen auf See insgesamt hergestellt worden ist; diese
+    Anforderung ist erfüllt, wenn die installierte Leistung der
+    betriebsbereiten Anlagen mindestens zu 95 Prozent der genehmigten
+    installierten Leistung entspricht.
+
+
+
+Der anbindungsverpflichtete Übertragungsnetzbetreiber und der
+Betreiber der Windenergieanlage auf See haben sich regelmäßig über den
+Fortschritt bei der Errichtung der Windenergieanlage auf See und der
+Herstellung des Netzanschlusses zu unterrichten, dabei sind mögliche
+Verzögerungen oder Abweichungen vom Realisierungsfahrplan unverzüglich
+auch der Bundesnetzagentur mitzuteilen.
+
+(9) Der Inhaber der Genehmigung zum Bau von Windenergieanlagen auf See
+im Küstenmeer nach dem Bundes-Immissionsschutzgesetz muss an den
+anbindungsverpflichteten Übertragungsnetzbetreiber eine Pönale
+leisten, wenn er gegen die Fristen nach Absatz 8 Satz 2 verstößt. Die
+Höhe der Pönale entspricht
+
+1.  bei Verstößen gegen Absatz 8 Satz 2 Nummer 1 70 Prozent der nach
+    Absatz 6 Satz 2 zu leistenden Sicherheit,
+
+
+2.  bei Verstößen gegen Absatz 8 Satz 2 Nummer 2 70 Prozent der
+    verbleibenden Sicherheit und
+
+
+3.  bei Verstößen gegen Absatz 8 Satz 2 Nummer 3 dem Wert, der sich aus
+    dem Betrag der verbleibenden Sicherheit multipliziert mit dem
+    Quotienten aus der installierten Leistung der nicht betriebsbereiten
+    Windenergieanlagen und der genehmigten zu installierenden Leistung
+    ergibt.
+
+
+
+§ 65 des Windenergie-auf-See-Gesetzes ist entsprechend anzuwenden.
+Unbeschadet der Pönale nach Satz 1 entfällt der Anspruch nach Absatz 6
+Satz 1 bei einem Verstoß gegen Absatz 8 Satz 2 Nummer 1. § 59 Absatz
+2a des Windenergie-auf-See-Gesetzes ist entsprechend anzuwenden.
+
+(10) Die Regulierungsbehörde kann durch Festlegung nach § 29 Absatz 1
+nähere Bestimmungen treffen
+
+1.  zur Umsetzung des Netzentwicklungsplans und des
+    Flächenentwicklungsplans gemäß § 5 des Windenergie-auf-See-Gesetzes,
+    zu den erforderlichen Schritten, die die Betreiber von
+    Übertragungsnetzen zur Erfüllung ihrer Pflichten nach Absatz 1 zu
+    unternehmen haben, und zu deren zeitlicher Abfolge; dies schließt
+    Festlegungen zur Ausschreibung und Vergabe von Anbindungsleitungen,
+    zur Vereinbarung von Realisierungsfahrplänen nach Absatz 2 Satz 5, zur
+    Information der Betreiber der anzubindenden Windenergieanlagen auf See
+    und zu einem Umsetzungszeitplan ein, und
+
+
+2.  zum Verfahren zur Kapazitätsverlagerung nach Absatz 4 und im Fall der
+    Unwirksamkeit des Zuschlags nach Absatz 5; dies schließt Festlegungen
+    zur Art und Ausgestaltung der Verfahren sowie zu möglichen
+    Sicherheitsleistungen oder Garantien ein.
+
+
+
+Festlegungen nach Nummer 2 erfolgen im Einvernehmen mit dem Bundesamt
+für Seeschifffahrt und Hydrographie.
+
+(11) § 65 Absatz 2a ist entsprechend anzuwenden, wenn der
+anbindungsverpflichtete Übertragungsnetzbetreiber eine Leitung, die
+entsprechend den Vorgaben des Netzentwicklungsplans und des
+Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes
+nach Absatz 1 errichtet werden muss, nicht entsprechend diesen
+Vorgaben errichtet.
+
+
+#### § 17e Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen
+
+(1) Ist die Einspeisung aus einer betriebsbereiten Windenergieanlage
+auf See länger als zehn aufeinander folgende Tage wegen einer Störung
+der Netzanbindung nicht möglich, so kann der Betreiber der
+Windenergieanlage auf See von dem nach § 17d Absatz 1 und 6
+anbindungsverpflichteten Übertragungsnetzbetreiber ab dem elften Tag
+der Störung unabhängig davon, ob der anbindungsverpflichtete
+Übertragungsnetzbetreiber die Störung zu vertreten hat, für
+entstandene Vermögensschäden eine Entschädigung in Höhe von 90 Prozent
+des nach § 19 des Erneuerbare-Energien-Gesetzes im Fall der
+Direktvermarktung bestehenden Zahlungsanspruchs abzüglich 0,4 Cent pro
+Kilowattstunde verlangen. Bei der Ermittlung der Höhe der
+Entschädigung nach Satz 1 ist für jeden Tag der Störung, für den der
+Betreiber der Windenergieanlage auf See eine Entschädigung erhält, die
+durchschnittliche Einspeisung einer vergleichbaren Anlage in dem
+entsprechenden Zeitraum der Störung zugrunde zu legen. Soweit
+Störungen der Netzanbindung an mehr als 18 Tagen im Kalenderjahr
+auftreten, besteht der Anspruch abweichend von Satz 1 unmittelbar ab
+dem 19. Tag im Kalenderjahr, an dem die Einspeisung auf Grund der
+Störung der Netzanbindung nicht möglich ist. Soweit der
+anbindungsverpflichtete Übertragungsnetzbetreiber eine Störung der
+Netzanbindung vorsätzlich herbeigeführt hat, kann der Betreiber der
+Windenergieanlage auf See von dem anbindungsverpflichteten
+Übertragungsnetzbetreiber abweichend von Satz 1 ab dem ersten Tag der
+Störung die Erfüllung des vollständigen, nach § 19 des Erneuerbare-
+Energien-Gesetzes im Fall der Direktvermarktung bestehenden
+Zahlungsanspruchs abzüglich 0,4 Cent pro Kilowattstunde verlangen.
+Darüber hinaus ist eine Inanspruchnahme des anbindungsverpflichteten
+Übertragungsnetzbetreibers für Vermögensschäden auf Grund einer
+gestörten Netzanbindung ausgeschlossen. Der Anspruch nach Satz 1
+entfällt, soweit der Betreiber der Windenergieanlage auf See die
+Störung zu vertreten hat.
+
+(2) Ist die Einspeisung aus einer betriebsbereiten Windenergieanlage
+auf See nicht möglich, weil die Netzanbindung nicht zu dem
+verbindlichen Fertigstellungstermin nach § 17d Absatz 2 Satz 9 und
+Absatz 7 Satz 4 fertiggestellt ist, so kann der Betreiber der
+Windenergieanlage auf See ab dem Zeitpunkt der Herstellung der
+Betriebsbereitschaft der Windenergieanlage auf See, frühestens jedoch
+ab dem 91. Tag nach dem verbindlichen Fertigstellungstermin, eine
+Entschädigung entsprechend Absatz 1 Satz 1 und 2 verlangen. Soweit der
+anbindungsverpflichtete Übertragungsnetzbetreiber die nicht
+rechtzeitige Fertigstellung der Netzanbindung vorsätzlich
+herbeigeführt hat, kann der Betreiber der Windenergieanlage auf See
+von dem anbindungsverpflichteten Übertragungsnetzbetreiber abweichend
+von Satz 1 ab dem ersten Tag nach dem verbindlichen
+Fertigstellungstermin die Erfüllung des vollständigen, nach § 19 des
+Erneuerbare-Energien-Gesetzes im Fall der Direktvermarktung
+bestehenden Zahlungsanspruchs abzüglich 0,4 Cent pro Kilowattstunde
+verlangen. Darüber hinaus ist eine Inanspruchnahme des
+anbindungsverpflichteten Übertragungsnetzbetreibers für
+Vermögensschäden auf Grund einer nicht rechtzeitig fertiggestellten
+Netzanbindung ausgeschlossen. Für den Anspruch auf Entschädigung nach
+diesem Absatz ist von einer Betriebsbereitschaft der Windenergieanlage
+auf See im Sinne von Satz 1 auch auszugehen, wenn das Fundament der
+Windenergieanlage auf See und die für die Windenergieanlage auf See
+vorgesehene Umspannanlage zur Umwandlung der durch eine
+Windenergieanlage auf See erzeugten Elektrizität auf eine höhere
+Spannungsebene errichtet sind und von der Herstellung der
+tatsächlichen Betriebsbereitschaft zur Schadensminderung abgesehen
+wurde. Der Betreiber der Windenergieanlage auf See hat sämtliche
+Zahlungen nach Satz 1 zuzüglich Zinsen zurückzugewähren, soweit die
+Windenergieanlage auf See nicht innerhalb einer angemessenen, von der
+Regulierungsbehörde festzusetzenden Frist nach Fertigstellung der
+Netzanbindung die technische Betriebsbereitschaft tatsächlich
+hergestellt hat; die §§ 286, 288 und 289 Satz 1 des Bürgerlichen
+Gesetzbuchs sind entsprechend anwendbar. Dem verbindlichen
+Fertigstellungstermin nach § 17d Absatz 2 Satz 9 steht der
+Fertigstellungstermin aus der unbedingten Netzanbindungszusage gleich,
+wenn die unbedingte Netzanbindungszusage dem Betreiber der
+Windenergieanlage auf See bis zum 29. August 2012 erteilt wurde oder
+dem Betreiber der Windenergieanlage auf See zunächst eine bedingte
+Netzanbindungszusage erteilt wurde und er bis zum 1. September 2012
+die Kriterien für eine unbedingte Netzanbindungszusage nachgewiesen
+hat. Erhält der Betreiber einer Windenergieanlage auf See erst ab
+einem Zeitpunkt nach dem verbindlichen Fertigstellungstermin einen
+Zuschlag nach § 23 oder § 34 des Windenergie-auf-See-Gesetzes, so ist
+dieser Absatz mit der Maßgabe anzuwenden, dass der Zeitpunkt, ab dem
+nach § 24 Absatz 1 Nummer 2 oder § 37 Absatz 1 Nummer 1 des
+Windenergie-auf-See-Gesetzes der Anspruch auf die Marktprämie nach §
+19 des Erneuerbare-Energien-Gesetzes frühestens beginnt, dem
+verbindlichen Fertigstellungstermin gleichsteht. Auf Zuschläge nach §
+34 des Windenergie-auf-See-Gesetzes ist Satz 1 in der am 9. Dezember
+2020 geltenden Fassung anzuwenden.
+
+(3) Ist die Einspeisung aus einer betriebsbereiten Windenergieanlage
+auf See an mehr als zehn Tagen im Kalenderjahr wegen betriebsbedingten
+Wartungsarbeiten an der Netzanbindung nicht möglich, so kann der
+Betreiber der Windenergieanlage auf See ab dem elften Tag im
+Kalenderjahr, an dem die Netzanbindung auf Grund der betriebsbedingten
+Wartungsarbeiten nicht verfügbar ist, eine Entschädigung entsprechend
+Absatz 1 Satz 1 in Anspruch nehmen. Bei der Berechnung der Tage nach
+Satz 1 werden die vollen Stunden, in denen die Wartungsarbeiten
+vorgenommen werden, zusammengerechnet.
+
+(3a) Die Absätze 1 bis 3 sind für Windenergieanlagen auf See, die in
+einer Ausschreibung nach Teil 3 des Windenergie-auf-See-Gesetzes
+bezuschlagt wurden, mit der Maßgabe anzuwenden, dass die Entschädigung
+90 Prozent des nach dem Windenergie-auf-See-Gesetz jeweils
+einschlägigen anzulegenden Werts, mindestens aber 90 Prozent des
+Monatsmarktwerts im Sinne der Anlage 1 Nummer 2.2.3 des Erneuerbare-
+Energien-Gesetzes beträgt.
+
+(4) Die Entschädigungszahlungen nach den Absätzen 1 bis 3a
+einschließlich der Kosten für eine Zwischenfinanzierung sind bei der
+Ermittlung der Kosten des Netzbetriebs zur Netzentgeltbestimmung nicht
+zu berücksichtigen.
+
+(5) Auf Vermögensschäden auf Grund einer nicht rechtzeitig
+fertiggestellten oder gestörten Netzanbindung im Sinne des Absatzes 1
+oder des Absatzes 2 ist § 32 Absatz 3 und 4 nicht anzuwenden.
+
+(6) Der Betreiber der Windenergieanlage auf See hat dem
+anbindungsverpflichteten Übertragungsnetzbetreiber mit dem Tag, zu dem
+die Entschädigungspflicht des anbindungsverpflichteten
+Übertragungsnetzbetreibers nach Absatz 1 oder Absatz 2 dem Grunde nach
+beginnt, mitzuteilen, ob er die Entschädigung nach den Absätzen 1 bis
+2 begehrt oder ob die Berücksichtigung der im Sinne des Absatzes 1
+oder des Absatzes 2 verzögerten oder gestörten Einspeisung nach § 50
+Absatz 4 Satz 1 des Erneuerbare-Energien-Gesetzes erfolgen soll.
+
+
+#### § 17f Belastungsausgleich
+
+(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, den
+unterschiedlichen Umfang ihrer Kosten für Entschädigungszahlungen nach
+§ 17e, einschließlich der Kosten für eine Zwischenfinanzierung sowie
+für Maßnahmen aus einem der Bundesnetzagentur vorgelegten
+Schadensminderungskonzept nach Absatz 3 Satz 2 und 3 und abzüglich
+anlässlich des Schadensereignisses nach § 17e erhaltener
+Vertragsstrafen, Versicherungsleistungen oder sonstiger Leistungen
+Dritter, nach Maßgabe der von ihnen oder anderen Netzbetreibern im
+Bereich ihres Übertragungsnetzes an Letztverbraucher gelieferten
+Strommengen über eine finanzielle Verrechnung untereinander
+auszugleichen. Gleiches gilt für die Kosten nach § 17d Absatz 1 und 6
+und nach den §§ 17a und 17b sowie für die Kosten des § 12b Absatz 1
+Satz 3 Nummer 7 sowie des Flächenentwicklungsplans nach § 5 des
+Windenergie-auf-See-Gesetzes. Die Kosten nach den Sätzen 1 und 2
+können als Aufschlag auf die Netzentgelte anteilig auf
+Letztverbraucher umgelegt werden. Die §§ 26, 28 und 30 des Kraft-
+Wärme-Kopplungsgesetzes sind entsprechend anzuwenden, soweit sich aus
+den Absätzen 2 bis 6 oder einer Rechtsverordnung nach § 17j nichts
+anderes ergibt.
+
+(2) Soweit der anbindungsverpflichtete Übertragungsnetzbetreiber die
+Störung der Netzanbindung im Sinne von § 17e Absatz 1 oder die nicht
+rechtzeitige Fertigstellung der Anbindungsleitung im Sinne von § 17e
+Absatz 2 vorsätzlich verursacht hat, ist der anbindungsverpflichtete
+Übertragungsnetzbetreiber nicht berechtigt, einen Belastungsausgleich
+nach Absatz 1 Satz 1 zu verlangen. Soweit der anbindungsverpflichtete
+Übertragungsnetzbetreiber die Störung der Netzanbindung im Sinne von §
+17e Absatz 1 oder die nicht rechtzeitige Fertigstellung der
+Anbindungsleitung im Sinne von § 17e Absatz 2 fahrlässig verursacht
+hat, trägt dieser an den nach Absatz 1 Satz 1 auszugleichenden Kosten
+einen Eigenanteil, der nicht dem Belastungsausgleich nach Absatz 1
+Satz 1 unterliegt und der bei der Ermittlung der Netzentgelte nicht zu
+berücksichtigen ist,
+
+1.  in Höhe von 20 Prozent für den Teil der nach Absatz 1 Satz 1
+    auszugleichenden Kosten bis zu einer Höhe von 200 Millionen Euro im
+    Kalenderjahr,
+
+
+2.  darüber hinaus in Höhe von 15 Prozent für den Teil der nach Absatz 1
+    Satz 1 auszugleichenden Kosten, die 200 Millionen Euro übersteigen,
+    bis zu einer Höhe von 400 Millionen Euro im Kalenderjahr,
+
+
+3.  darüber hinaus in Höhe von 10 Prozent für den Teil der nach Absatz 1
+    Satz 1 auszugleichenden Kosten, die 400 Millionen Euro übersteigen,
+    bis zu einer Höhe von 600 Millionen Euro im Kalenderjahr,
+
+
+4.  darüber hinaus in Höhe von 5 Prozent für den Teil der nach Absatz 1
+    Satz 1 auszugleichenden Kosten, die 600 Millionen Euro übersteigen,
+    bis zu einer Höhe von 1 000 Millionen Euro im Kalenderjahr.
+
+
+
+Bei fahrlässig, jedoch nicht grob fahrlässig verursachten Schäden ist
+der Eigenanteil des anbindungsverpflichteten
+Übertragungsnetzbetreibers nach Satz 2 auf 17,5 Millionen Euro je
+Schadensereignis begrenzt. Soweit der Betreiber einer
+Windenergieanlage auf See einen Schaden auf Grund der nicht
+rechtzeitigen Herstellung oder der Störung der Netzanbindung erleidet,
+wird vermutet, dass zumindest grobe Fahrlässigkeit des
+anbindungsverpflichteten Übertragungsnetzbetreibers vorliegt.
+
+(3) Der anbindungsverpflichtete Übertragungsnetzbetreiber hat alle
+möglichen und zumutbaren Maßnahmen zu ergreifen, um einen
+Schadenseintritt zu verhindern, den eingetretenen Schaden unverzüglich
+zu beseitigen und weitere Schäden abzuwenden oder zu mindern. Der
+anbindungsverpflichtete Übertragungsnetzbetreiber hat bei
+Schadenseintritt unverzüglich der Bundesnetzagentur ein Konzept mit
+den geplanten Schadensminderungsmaßnahmen nach Satz 1 vorzulegen und
+dieses bis zur vollständigen Beseitigung des eingetretenen Schadens
+regelmäßig zu aktualisieren. Die Bundesnetzagentur kann bis zur
+vollständigen Beseitigung des eingetretenen Schadens Änderungen am
+Schadensminderungskonzept nach Satz 2 verlangen. Der
+anbindungsverpflichtete Übertragungsnetzbetreiber kann einen
+Belastungsausgleich nach Absatz 1 Satz 1 nur verlangen, soweit er
+nachweist, dass er alle möglichen und zumutbaren
+Schadensminderungsmaßnahmen nach Satz 1 ergriffen hat. Der
+anbindungsverpflichtete Übertragungsnetzbetreiber hat den
+Schadenseintritt, das der Bundesnetzagentur vorgelegte
+Schadensminderungskonzept nach Satz 2 und die ergriffenen
+Schadensminderungsmaßnahmen zu dokumentieren und darüber auf seiner
+Internetseite zu informieren.
+
+(4) Die finanzielle Verrechnung nach Absatz 1 Satz 1 und 2 erfolgt
+anhand der zu erwartenden Kosten für das folgende Kalenderjahr und des
+Saldos der Einnahmen und Ausgaben des vorangegangenen Kalenderjahres.
+
+(5) Netzbetreiber sind berechtigt, die Kosten für geleistete
+Entschädigungszahlungen, soweit diese dem Belastungsausgleich
+unterliegen und nicht erstattet worden sind, für Ausgleichszahlungen
+sowie für die Kosten nach § 17d Absatz 1 und 6, den §§ 17a und 17b
+sowie für die Kosten nach § 12b Absatz 1 Satz 3 Nummer 7 und des
+Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes als
+Aufschlag auf die Netzentgelte gegenüber Letztverbrauchern geltend zu
+machen. Für den Aufschlag nach Satz 1 sind die §§ 26a bis 28 und 30
+des Kraft-Wärme-Kopplungsgesetzes entsprechend anzuwenden. Der
+rechnerische Anteil des Aufschlags, der auf in den Aufschlag
+einfließende Kosten für geleistete Entschädigungszahlungen entfällt,
+darf höchstens 0,25 Cent pro Kilowattstunde betragen.
+
+(6) Für Entschädigungszahlungen nach § 17e, die wegen einer
+Überschreitung der zulässigen Höchstwerte nach Absatz 5 bei der
+Berechnung des Aufschlags auf die Netzentgelte in einem Kalenderjahr
+nicht in Ansatz gebracht werden können, findet keine finanzielle
+Verrechnung zwischen den Betreibern von Übertragungsnetzen nach Absatz
+1 Satz 1 statt; der betroffene anbindungsverpflichtete
+Übertragungsnetzbetreiber kann diese Kosten einschließlich der Kosten
+für eine Zwischenfinanzierung bei dem Belastungsausgleich in den
+folgenden Kalenderjahren geltend machen.
+
+(7) Die Übertragungsnetzbetreiber sind verpflichtet, die für den
+Belastungsausgleich erforderlichen Aufschläge auf die Netzentgelte
+sowie die für die Berechnung maßgeblichen Daten spätestens zum 15.
+Oktober eines Jahres für das Folgejahr im Internet zu veröffentlichen.
+
+
+#### § 17g Haftung für Sachschäden an Windenergieanlagen auf See
+
+Die Haftung des anbindungsverpflichteten Übertragungsnetzbetreibers
+gegenüber Betreibern von Windenergieanlagen auf See für nicht
+vorsätzlich verursachte Sachschäden ist je Schadensereignis insgesamt
+begrenzt auf 100 Millionen Euro. Übersteigt die Summe der
+Einzelschäden bei einem Schadensereignis die Höchstgrenze nach Satz 1,
+so wird der Schadensersatz in dem Verhältnis gekürzt, in dem die Summe
+aller Schadensersatzansprüche zur Höchstgrenze steht.
+
+
+#### § 17h Abschluss von Versicherungen
+
+Anbindungsverpflichtete Übertragungsnetzbetreiber sollen
+Versicherungen zur Deckung von Vermögens- und Sachschäden, die beim
+Betreiber von Offshore-Anlagen auf Grund einer nicht rechtzeitig
+fertiggestellten oder gestörten Anbindung der Offshore-Anlage an das
+Übertragungsnetz des anbindungsverpflichteten
+Übertragungsnetzbetreibers entstehen, abschließen. Der Abschluss einer
+Versicherung nach Satz 1 ist der Regulierungsbehörde nachzuweisen.
+
+
+#### § 17i Evaluierung
+
+Das Bundesministerium für Wirtschaft und Energie überprüft im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz bis zum 31. Dezember 2015 die praktische Anwendung
+und die Angemessenheit der §§ 17e bis 17h. Die Evaluierung umfasst
+insbesondere die erfolgten Entschädigungszahlungen an Betreiber von
+Windenergieanlagen auf See, den Eigenanteil der
+anbindungsverpflichteten Übertragungsnetzbetreiber an
+Entschädigungszahlungen, die Maßnahmen und Anreize zur Minderung
+eventueller Schäden und zur Kostenkontrolle, das Verfahren zum
+Belastungsausgleich, die Höhe des Aufschlags auf die Netzentgelte für
+Letztverbraucher für Strombezüge aus dem Netz der allgemeinen
+Versorgung und den Abschluss von Versicherungen.
+
+
+#### § 17j Verordnungsermächtigung
+
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die nähere Ausgestaltung der Methode des
+Belastungsausgleichs nach § 17f sowie der Wälzung der dem
+Belastungsausgleich unterliegenden Kosten auf Letztverbraucher und
+ihre Durchführung sowie die Haftung des anbindungsverpflichteten
+Übertragungsnetzbetreibers und Vorgaben an Versicherungen nach § 17h
+zu regeln. Durch Rechtsverordnung nach Satz 1 können insbesondere
+Regelungen getroffen werden
+
+1.  zur Ermittlung der Höhe der Ausgleichsbeträge; dies schließt
+    Regelungen ein
+
+    a)  zu Kriterien für eine Prognose der zu erwartenden Kosten für das
+        folgende Kalenderjahr,
+
+
+    b)  zu dem Ausgleich des Saldos aus tatsächlichen und prognostizierten
+        Kosten,
+
+
+    c)  zur Verwaltung der Ausgleichsbeträge durch die
+        Übertragungsnetzbetreiber sowie
+
+
+    d)  zur Übermittlung der erforderlichen Daten;
+
+
+
+
+
+2.  zur Schaffung und Verwaltung einer Liquiditätsreserve durch die
+    Übertragungsnetzbetreiber;
+
+
+3.  zur Wälzung der dem Belastungsausgleich nach § 17f unterliegenden
+    Kosten der Übertragungsnetzbetreiber auf Letztverbraucher; dies
+    schließt Regelungen zu Höchstgrenzen der für den Belastungsausgleich
+    erforderlichen Aufschläge auf die Netzentgelte der Letztverbraucher
+    ein;
+
+
+4.  zur Verteilung der Kostenbelastung zwischen Netzbetreibern; dies
+    schließt insbesondere Regelungen zur Zwischenfinanzierung und zur
+    Verteilung derjenigen Kosten ein, die im laufenden Kalenderjahr auf
+    Grund einer Überschreitung der Prognose oder einer zulässigen
+    Höchstgrenze nicht berücksichtigt werden können;
+
+
+5.  zu näheren Anforderungen an Schadensminderungsmaßnahmen einschließlich
+    Regelungen zur Zumutbarkeit dieser Maßnahmen und zur Tragung der aus
+    ihnen resultierenden Kosten;
+
+
+6.  zu Veröffentlichungspflichten der anbindungsverpflichteten
+    Übertragungsnetzbetreiber hinsichtlich eingetretener Schäden nach §
+    17e Absatz 1 und 2, der durchgeführten Schadensminderungsmaßnahmen und
+    der dem Belastungsausgleich unterliegenden Entschädigungszahlungen;
+
+
+7.  zu Anforderungen an die Versicherungen nach § 17h hinsichtlich
+    Mindestversicherungssumme und Umfang des notwendigen
+    Versicherungsschutzes.
+
+
+
+
+
 #### § 18 Allgemeine Anschlusspflicht
 
 (1) Abweichend von § 17 haben Betreiber von Energieversorgungsnetzen
@@ -2789,9 +6593,30 @@ Niederspannung oder Niederdruck und für die Anschlussnutzung durch
 Letztverbraucher zu veröffentlichen sowie zu diesen Bedingungen
 jedermann an ihr Energieversorgungsnetz anzuschließen und die Nutzung
 des Anschlusses zur Entnahme von Energie zu gestatten. Diese Pflichten
-bestehen nicht, wenn der Anschluss oder die Anschlussnutzung für den
-Betreiber des Energieversorgungsnetzes aus wirtschaftlichen Gründen
-nicht zumutbar ist.
+bestehen nicht, wenn
+
+1.  der Anschluss oder die Anschlussnutzung für den Betreiber des
+    Energieversorgungsnetzes aus wirtschaftlichen Gründen nicht zumutbar
+    ist oder
+
+
+2.  ab dem 21. Dezember 2018 der Anschluss an ein L-Gasversorgungsnetz
+    beantragt wird und der Betreiber des L-Gasversorgungsnetzes nachweist,
+    dass der beantragenden Partei auch der Anschluss an ein
+    H-Gasversorgungsnetz technisch möglich und wirtschaftlich zumutbar
+    ist.
+
+
+
+In der Regel sind die Kosten für die Herstellung eines Anschlusses an
+ein H-Gasversorgungsnetz wirtschaftlich zumutbar im Sinne von Satz 2
+Nummer 2, wenn sie die Kosten für die Herstellung eines Anschlusses an
+ein L-Gasversorgungsnetz nicht wesentlich übersteigen. Satz 2 Nummer 2
+und Satz 3 sind nicht anzuwenden, wenn der technische
+Umstellungstermin gemäß § 19a Absatz 1 Satz 5 im Gebiet des
+beantragten Anschlusses bereits zu veröffentlichen ist und der
+Gesamtbedarf an L-Gas in dem betreffenden L-Gasversorgungsnetz durch
+den Anschluss nur unwesentlich erhöht wird.
 
 (2) Wer zur Deckung des Eigenbedarfs eine Anlage zur Erzeugung von
 Elektrizität auch in Verbindung mit einer Anlage zur Speicherung
@@ -2836,7 +6661,8 @@ Verwaltungsverfahrens.
 #### § 19 Technische Vorschriften
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
-unter Berücksichtigung der nach § 17 festgelegten Bedingungen für den
+unter Berücksichtigung der nach § 17 festgelegten Bedingungen und der
+allgemeinen technischen Mindestanforderungen nach Absatz 4 für den
 Netzanschluss von Erzeugungsanlagen, Anlagen zur Speicherung
 elektrischer Energie Elektrizitätsverteilernetzen, Anlagen direkt
 angeschlossener Kunden, Verbindungsleitungen und Direktleitungen
@@ -2846,9 +6672,15 @@ festzulegen und im Internet zu veröffentlichen.
 (2) Betreiber von Gasversorgungsnetzen sind verpflichtet, unter
 Berücksichtigung der nach § 17 festgelegten Bedingungen für den
 Netzanschluss von LNG-Anlagen, dezentralen Erzeugungsanlagen und
-Speicheranlagen, von anderen Fernleitungs- oder Gasverteilernetzen und
-von Direktleitungen technische Mindestanforderungen an die Auslegung
-und den Betrieb festzulegen und im Internet zu veröffentlichen.
+Gasspeicheranlagen, von anderen Fernleitungs- oder Gasverteilernetzen
+und von Direktleitungen technische Mindestanforderungen an die
+Auslegung und den Betrieb festzulegen und im Internet zu
+veröffentlichen. Betreiber von Gasversorgungsnetzen, an deren
+Gasversorgungsnetz mehr als 100 000 Kunden unmittelbar oder mittelbar
+angeschlossen sind oder deren Netz über das Gebiet eines Landes
+hinausreicht, haben die technischen Mindestanforderungen rechtzeitig
+durch Veröffentlichung auf ihrer Internetseite öffentlich zu
+konsultieren.
 
 (3) Die technischen Mindestanforderungen nach den Absätzen 1 und 2
 müssen die Interoperabilität der Netze sicherstellen sowie sachlich
@@ -2858,42 +6690,129 @@ Bedingungen für netzverträgliche Gasbeschaffenheiten unter Einschluss
 von Gas aus Biomasse oder anderen Gasarten, soweit sie technisch und
 ohne Beeinträchtigung der Sicherheit in das Gasversorgungsnetz
 eingespeist oder durch dieses Netz transportiert werden können. Für
-die Gewährleistung der technischen Sicherheit gilt § 49 Abs. 2 bis 4.
-Die Mindestanforderungen sind der Regulierungsbehörde mitzuteilen. Das
-Bundesministerium für Wirtschaft und Technologie unterrichtet die
-Europäische Kommission nach Artikel 8 der Richtlinie 98/34/EG des
-Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein
-Informationsverfahren auf dem Gebiet der Normen und technischen
-Vorschriften und der Vorschriften für die Dienste der
-Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
-Richtlinie 98/48/EG (ABl. EG Nr. L 217 S. 18).
+die Gewährleistung der technischen Sicherheit gilt § 49 Absatz 2 bis
+4\.
 
-(4) Betreiber von Energieversorgungsnetzen, an deren
-Energieversorgungsnetz mehr als 100 000 Kunden unmittelbar oder
-mittelbar angeschlossen sind oder deren Netz über das Gebiet eines
-Landes hinausreicht, haben die technischen Mindestanforderungen
-rechtzeitig mit den Verbänden der Netznutzer zu konsultieren und diese
-nach Abschluss der Konsultation der Regulierungsbehörde vorzulegen.
-Die Regulierungsbehörde kann Änderungen des vorgelegten Entwurfs der
-technischen Mindestanforderungen verlangen, soweit dies zur Erfüllung
-des Zwecks nach Absatz 3 Satz 1 erforderlich ist. Die
-Regulierungsbehörde kann zu Grundsätzen und Verfahren der Erstellung
-technischer Mindestanforderungen, insbesondere zum zeitlichen Ablauf,
-im Verfahren nach § 29 Absatz 1 nähere Bestimmungen treffen.
+(4) Die Betreiber von Elektrizitätsversorgungsnetzen erstellen
+gemeinsam allgemeine technische Mindestanforderungen. Der Verband der
+Elektrotechnik Elektronik Informationstechnik e. V. wird als
+beauftragte Stelle bestimmt, um die allgemeinen technischen
+Mindestanforderungen zu verabschieden
+
+1.  nach Artikel 7 Absatz 1 der Verordnung (EU) 2016/631 der Kommission
+    vom 14. April 2016 zur Festlegung eines Netzkodex mit
+    Netzanschlussbestimmungen für Stromerzeuger (ABl. L 112 vom 27.4.2016,
+    S. 1),
 
 
-#### § 19a Umstellung der Gasqualität
+2.  nach Artikel 6 Absatz 1 der Verordnung (EU) 2016/1388 der Kommission
+    vom 17. August 2016 zur Festlegung eines Netzkodex für den
+    Lastanschluss (ABl. L 223 vom 18.8.2016, S. 10) und
 
-Stellt der Betreiber eines Gasversorgungsnetzes die in seinem Netz
-einzuhaltende Gasqualität auf Grund eines vom
-marktgebietsaufspannenden Netzbetreiber oder
-Marktgebietsverantwortlichen veranlassten und netztechnisch
+
+3.  nach Artikel 5 Absatz 1 der Verordnung (EU) 2016/1447 der Kommission
+    vom 26. August 2016 zur Festlegung eines Netzkodex mit
+    Netzanschlussbestimmungen für Hochspannungs-Gleichstrom-
+    Übertragungssysteme und nichtsynchrone Stromerzeugungsanlagen mit
+    Gleichstromanbindung (ABl. L 241 vom 8.9.2016, S. 1).
+
+
+
+
+(5) Die Mindestanforderungen nach Absatz 4 sind der
+Regulierungsbehörde und dem Bundesministerium für Wirtschaft und
+Energie vor deren Verabschiedung mitzuteilen. Das Bundesministerium
+für Wirtschaft und Energie unterrichtet die Europäische Kommission
+nach Artikel 4 und Artikel 5 der Richtlinie (EU) 2015/1535 des
+Europäischen Parlaments und des Rates vom 9. September 2015 über ein
+Informationsverfahren auf dem Gebiet der technischen Vorschriften und
+der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
+241 vom 17.9.2015, S. 1). Die Verabschiedung der Mindestanforderungen
+darf nicht vor Ablauf der jeweils maßgeblichen Fristen nach Artikel 6
+dieser Richtlinie erfolgen.
+
+
+#### § 19a Umstellung der Gasqualität; Verordnungsermächtigung
+
+(1) Stellt der Betreiber eines Gasversorgungsnetzes die in seinem Netz
+einzuhaltende Gasqualität auf Grund eines von einem oder mehreren
+Fernleitungsnetzbetreibern veranlassten und netztechnisch
 erforderlichen Umstellungsprozesses dauerhaft von L-Gas auf H-Gas um,
 hat er die notwendigen technischen Anpassungen der Netzanschlüsse,
-Kundenanlagen und Verbrauchsgeräte, die von Haushaltskunden genutzt
-werden, auf eigene Kosten vorzunehmen. Diese Kosten werden auf alle
+Kundenanlagen und Verbrauchsgeräte auf eigene Kosten vorzunehmen.
+Diese Kosten werden bis einschließlich 31. Dezember 2016 auf alle
 Gasversorgungsnetze innerhalb des Marktgebiets umgelegt, in dem das
-Gasversorgungsnetz liegt.
+Gasversorgungsnetz liegt. Ab dem 1. Januar 2017 sind diese Kosten
+bundesweit auf alle Gasversorgungsnetze unabhängig vom Marktgebiet
+umzulegen. Die näheren Modalitäten der Berechnung sind der
+Kooperationsvereinbarung nach § 20 Absatz 1b und § 8 Absatz 6 der
+Gasnetzzugangsverordnung vorbehalten. Betreiber von
+Gasversorgungsnetzen haben den jeweiligen technischen
+Umstellungstermin zwei Jahre vorher auf ihrer Internetseite zu
+veröffentlichen und die betroffenen Anschlussnehmer entsprechend
+schriftlich zu informieren; hierbei ist jeweils auch auf den
+Kostenerstattungsanspruch nach Absatz 3 hinzuweisen.
+
+(2) Der Netzbetreiber teilt der zuständigen Regulierungsbehörde
+jährlich bis zum 31. August mit, welche notwendigen Kosten ihm im
+vorherigen Kalenderjahr durch die Umstellung entstanden sind und
+welche notwendigen Kosten ihm im folgenden Kalenderjahr planmäßig
+entstehen werden. Die Regulierungsbehörde kann Entscheidungen durch
+Festlegung nach § 29 Absatz 1 darüber treffen, in welchem Umfang
+technische Anpassungen der Netzanschlüsse, Kundenanlagen und
+Verbrauchsgeräte notwendig im Sinne des Absatzes 1 Satz 1 sind.
+Daneben ist die Regulierungsbehörde befugt, gegenüber einem
+Netzbetreiber festzustellen, dass bestimmte Kosten nicht notwendig
+waren. Der Netzbetreiber hat den erforderlichen Nachweis über die
+Notwendigkeit zu führen. Kosten, deren fehlende Notwendigkeit die
+Regulierungsbehörde festgestellt hat, dürfen nicht umgelegt werden.
+
+(3) Installiert der Eigentümer einer Kundenanlage oder eines
+Verbrauchsgeräts mit ordnungsgemäßem Verwendungsnachweis auf Grund des
+Umstellungsprozesses nach Absatz 1 ein Neugerät, welches im Rahmen der
+Umstellung nicht mehr angepasst werden muss, so hat der Eigentümer
+gegenüber dem Netzbetreiber, an dessen Netz die Kundenanlage oder das
+Verbrauchsgerät angeschlossen ist, einen Kostenerstattungsanspruch.
+Dieser Erstattungsanspruch entsteht nur dann, wenn die Installation
+nach dem Zeitpunkt der Veröffentlichung gemäß Absatz 1 Satz 5 und vor
+der Anpassung des Verbrauchsgeräts auf die neue Gasqualität im
+jeweiligen Netzgebiet erfolgt. Der Erstattungsanspruch beträgt 100
+Euro für jedes Neugerät. Der Eigentümer hat gegenüber dem
+Netzbetreiber die ordnungsgemäße Verwendung des Altgeräts und die
+Anschaffung des Neugeräts nachzuweisen. Absatz 1 Satz 3 und Absatz 2
+sind entsprechend anzuwenden. Das Bundesministerium für Wirtschaft und
+Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der
+Justiz und für Verbraucherschutz durch Rechtsverordnung das Nähere zu
+darüber hinausgehenden Kostenerstattungsansprüchen für technisch nicht
+anpassbare Kundenanlagen oder Verbrauchsgeräte zu regeln. Das
+Bundesministerium für Wirtschaft und Energie kann die Ermächtigung
+nach Satz 6 durch Rechtsverordnung unter Sicherstellung der
+Einvernehmensregelung auf die Bundesnetzagentur übertragen. Die
+Pflichten nach den §§ 72 und 73 des Gebäudeenergiegesetzes vom 8.
+August 2020 (BGBl. I S. 1728) bleiben unberührt.
+
+(4) Anschlussnehmer oder -nutzer haben dem Beauftragten oder
+Mitarbeiter des Netzbetreibers den Zutritt zu ihrem Grundstück und zu
+ihren Räumen zu gestatten, soweit dies für die nach Absatz 1
+durchzuführenden Handlungen erforderlich ist. Die Anschlussnehmer und
+-nutzer sind vom Netzbetreiber vorab zu benachrichtigen. Die
+Benachrichtigung kann durch schriftliche Mitteilung an die jeweiligen
+Anschlussnehmer oder -nutzer oder durch Aushang am oder im jeweiligen
+Haus erfolgen. Sie muss mindestens drei Wochen vor dem
+Betretungstermin erfolgen; mindestens ein kostenfreier Ersatztermin
+ist anzubieten. Der Beauftragte oder Mitarbeiter des Netzbetreibers
+muss sich entsprechend ausweisen. Die Anschlussnehmer und -nutzer
+haben dafür Sorge zu tragen, dass die Netzanschlüsse, Kundenanlagen
+und Verbrauchsgeräte während der durchzuführenden Handlungen
+zugänglich sind. Soweit und solange Netzanschlüsse, Kundenanlagen oder
+Verbrauchsgeräte zum Zeitpunkt der Umstellung aus Gründen, die der
+Anschlussnehmer oder -nutzer zu vertreten hat, nicht angepasst werden
+können, ist der Betreiber des Gasversorgungsnetzes berechtigt, den
+Netzanschluss und die Anschlussnutzung zu verweigern. Hinsichtlich der
+Aufhebung der Unterbrechung des Anschlusses und der Anschlussnutzung
+ist § 24 Absatz 5 der Niederdruckanschlussverordnung entsprechend
+anzuwenden. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel
+13 des Grundgesetzes) wird durch Satz 1 eingeschränkt.
 
 
 ### Abschnitt 3 - Netzzugang
@@ -2988,20 +6907,34 @@ Maßgabe einer Rechtsverordnung nach § 24 über den Zugang zu
 Gasversorgungsnetzen durch Übernahme des Gases an Einspeisepunkten
 ihrer Netze für alle angeschlossenen Ausspeisepunkte zu gewähren.
 
-(1c) Verträge nach den Absätzen 1a und 1b dürfen das Recht aus § 21b
-Absatz 2 weder behindern noch erschweren.
+(1c) Verträge nach den Absätzen 1a und 1b dürfen das Recht zum Wechsel
+des Messstellenbetreibers nach den Vorschriften des
+Messstellenbetriebsgesetzes weder behindern noch erschweren. Verträge
+nach Absatz 1a müssen Verträge mit Aggregatoren nach § 41c
+ermöglichen, sofern dem die technischen Anforderungen des
+Netzbetreibers nicht entgegenstehen.
 
 (1d) Der Betreiber des Energieversorgungsnetzes, an das eine
-Kundenanlage oder Kundenanlage zur betrieblichen Eigenversorgung
-angeschlossen ist, hat die erforderlichen Zählpunkte zu stellen. Bei
-der Belieferung der Letztverbraucher durch Dritte findet
-erforderlichenfalls eine Verrechnung der Zählwerte über Unterzähler
-statt.
+Kundenanlage oder eine Kundenanlage zur betrieblichen Eigenversorgung
+angeschlossen ist, hat den Zählpunkt zur Erfassung der durch die
+Kundenanlage aus dem Netz der allgemeinen Versorgung entnommenen und
+in das Netz der allgemeinen Versorgung eingespeisten Strommenge
+(Summenzähler) sowie alle Zählpunkte bereitzustellen, die für die
+Gewährung des Netzzugangs für Unterzähler innerhalb der Kundenanlage
+im Wege der Durchleitung (bilanzierungsrelevante Unterzähler)
+erforderlich sind. Bei der Belieferung der Letztverbraucher durch
+Dritte findet im erforderlichen Umfang eine Verrechnung der Zählwerte
+über Unterzähler statt. Bei nicht an ein Smart-Meter-Gateway
+angebundenen Unterzählern ist eine Verrechnung von Leistungswerten,
+die durch standardisierte Lastprofile nach § 12 Absatz 1 der
+Stromnetzzugangsverordnung ermittelt werden, mit am Summenzähler
+erhobenen 15-minütigen Leistungswerten des Summenzählers aus einer
+registrierenden Lastgangmessung zulässig.
 
 (2) Betreiber von Energieversorgungsnetzen können den Zugang nach
 Absatz 1 verweigern, soweit sie nachweisen, dass ihnen die Gewährung
 des Netzzugangs aus betriebsbedingten oder sonstigen Gründen unter
-Berücksichtigung der Ziele des § 1 nicht möglich oder nicht zumutbar
+Berücksichtigung des Zwecks des § 1 nicht möglich oder nicht zumutbar
 ist. Die Ablehnung ist in Textform zu begründen und der
 Regulierungsbehörde unverzüglich mitzuteilen. Auf Verlangen der
 beantragenden Partei muss die Begründung im Falle eines
@@ -3021,17 +6954,19 @@ Letztverbraucher unverzüglich in Textform zu bestätigen, ob und zu
 welchem Termin er eine vom Letztverbraucher gewünschte Belieferung
 aufnehmen kann.
 
-(2) Das Verfahren für den Wechsel des Lieferanten darf drei Wochen,
-gerechnet ab dem Zeitpunkt des Zugangs der Anmeldung zur Netznutzung
-durch den neuen Lieferanten bei dem Netzbetreiber, an dessen Netz die
-Entnahmestelle angeschlossen ist, nicht überschreiten. Der
-Netzbetreiber ist verpflichtet, den Zeitpunkt des Zugangs zu
+(2) Das Verfahren für den Wechsel des Lieferanten oder des Aggregators
+darf drei Wochen, gerechnet ab dem Zeitpunkt des Zugangs der Anmeldung
+zur Netznutzung durch den neuen Lieferanten bei dem Netzbetreiber, an
+dessen Netz die Entnahmestelle angeschlossen ist, nicht überschreiten.
+Der Netzbetreiber ist verpflichtet, den Zeitpunkt des Zugangs zu
 dokumentieren. Eine von Satz 1 abweichende längere Verfahrensdauer ist
 nur zulässig, soweit die Anmeldung zur Netznutzung sich auf einen
-weiter in der Zukunft liegenden Liefertermin bezieht.
+weiter in der Zukunft liegenden Liefertermin bezieht. Ab dem 1. Januar
+2026 muss der technische Vorgang des Stromlieferantenwechsels binnen
+24 Stunden vollzogen und an jedem Werktag möglich sein.
 
-(3) Der Lieferantenwechsel darf für den Letztverbraucher mit keinen
-zusätzlichen Kosten verbunden sein.
+(3) Der Lieferantenwechsel oder der Wechsel des Aggregators dürfen für
+den Letztverbraucher mit keinen zusätzlichen Kosten verbunden sein.
 
 (4) Erfolgt der Lieferantenwechsel nicht innerhalb der in Absatz 2
 vorgesehenen Frist, so kann der Letztverbraucher von dem Lieferanten
@@ -3060,28 +6995,19 @@ Rechtsverordnung nach § 24 nicht eine Abweichung von der
 kostenorientierten Entgeltbildung bestimmt ist. Soweit die Entgelte
 kostenorientiert gebildet werden, dürfen Kosten und
 Kostenbestandteile, die sich ihrem Umfang nach im Wettbewerb nicht
-einstellen würden, nicht berücksichtigt werden.
+einstellen würden, nicht berücksichtigt werden. Die notwendigen
+Investitionen in die Netze müssen so vorgenommen werden können, dass
+die Lebensfähigkeit der Netze gewährleistet ist.
 
-(3) Um zu gewährleisten, dass sich die Entgelte für den Netzzugang an
-den Kosten einer Betriebsführung nach Absatz 2 orientieren, kann die
-Regulierungsbehörde in regelmäßigen zeitlichen Abständen einen
-Vergleich der Entgelte für den Netzzugang, der Erlöse oder der Kosten
-der Betreiber von Energieversorgungsnetzen durchführen
-(Vergleichsverfahren). Soweit eine kostenorientierte Entgeltbildung
-erfolgt und die Entgelte genehmigt sind, findet nur ein Vergleich der
-Kosten statt.
-
-(4) Die Ergebnisse des Vergleichsverfahrens sind bei der
-kostenorientierten Entgeltbildung nach Absatz 2 zu berücksichtigen.
-Ergibt ein Vergleich, dass die Entgelte, Erlöse oder Kosten einzelner
-Betreiber von Energieversorgungsnetzen für das Netz insgesamt oder für
-einzelne Netz- oder Umspannebenen die durchschnittlichen Entgelte,
-Erlöse oder Kosten vergleichbarer Betreiber von
-Energieversorgungsnetzen überschreiten, wird vermutet, dass sie einer
-Betriebsführung nach Absatz 2 nicht entsprechen.
+(3) Betreiber von Energieversorgungsnetzen sind verpflichtet, die für
+ihr Netz geltenden Netzentgelte auf ihren Internetseiten zu
+veröffentlichen und auf Anfrage jedermann unverzüglich in Textform
+mitzuteilen. Die Veröffentlichung der geltenden Netzentgelte hat in
+einem Format zu erfolgen, das eine automatisierte Auslesung der
+veröffentlichten Daten ermöglicht.
 
 
-#### § 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung
+#### § 21a Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Verordnungsermächtigung
 
 (1) Soweit eine kostenorientierte Entgeltbildung im Sinne des § 21
 Abs. 2 Satz 1 erfolgt, können nach Maßgabe einer Rechtsverordnung nach
@@ -3123,19 +7049,20 @@ ermittelt; hierzu zählen insbesondere Kostenanteile, die auf nicht
 zurechenbaren strukturellen Unterschieden der Versorgungsgebiete, auf
 gesetzlichen Abnahme- und Vergütungspflichten, Konzessionsabgaben und
 Betriebssteuern beruhen. Ferner gelten Mehrkosten für die Errichtung,
-den Betrieb oder die Änderung eines Erdkabels, das nach § 43 Satz 1
-Nr. 3 und Satz 3 planfestgestellt worden ist, gegenüber einer
-Freileitung bei der Ermittlung von Obergrenzen nach Satz 1 als nicht
-beeinflussbare Kostenanteile. Soweit sich Vorgaben auf Gruppen von
-Netzbetreibern beziehen, gelten die Netzbetreiber als strukturell
-vergleichbar, die unter Berücksichtigung struktureller Unterschiede
-einer Gruppe zugeordnet worden sind. Der beeinflussbare Kostenanteil
-wird nach § 21 Abs. 2 bis 4 zu Beginn einer Regulierungsperiode
-ermittelt. Effizienzvorgaben sind nur auf den beeinflussbaren
-Kostenanteil zu beziehen. Die Vorgaben für die Entwicklung oder
-Festlegung der Obergrenze innerhalb einer Regulierungsperiode müssen
-den Ausgleich der allgemeinen Geldentwertung unter Berücksichtigung
-eines generellen sektoralen Produktivitätsfaktors vorsehen.
+den Betrieb oder die Änderung eines Erdkabels, das nach § 43 Absatz 1
+Satz 1 Nummer 2 und Absatz 2 Satz 1 Nummer 2 planfestgestellt worden
+ist, gegenüber einer Freileitung bei der Ermittlung von Obergrenzen
+nach Satz 1 als nicht beeinflussbare Kostenanteile. Soweit sich
+Vorgaben auf Gruppen von Netzbetreibern beziehen, gelten die
+Netzbetreiber als strukturell vergleichbar, die unter Berücksichtigung
+struktureller Unterschiede einer Gruppe zugeordnet worden sind. Der
+beeinflussbare Kostenanteil wird nach § 21 Abs. 2 bis 4 zu Beginn
+einer Regulierungsperiode ermittelt. Effizienzvorgaben sind nur auf
+den beeinflussbaren Kostenanteil zu beziehen. Die Vorgaben für die
+Entwicklung oder Festlegung der Obergrenze innerhalb einer
+Regulierungsperiode müssen den Ausgleich der allgemeinen
+Geldentwertung unter Berücksichtigung eines generellen sektoralen
+Produktivitätsfaktors vorsehen.
 
 (5) Die Effizienzvorgaben für eine Regulierungsperiode werden durch
 Bestimmung unternehmensindividueller oder gruppenspezifischer
@@ -3160,6 +7087,19 @@ Effizienzvorgaben muss so gestaltet sein, dass eine geringfügige
 einer, insbesondere im Vergleich zur Bedeutung, überproportionalen
 Änderung der Vorgaben führt.
 
+(5a) Neben den Vorgaben nach Absatz 5 können auch Regelungen zur
+Verringerung von Kosten für das Engpassmanagement in den
+Übertragungsnetzen und hierauf bezogene Referenzwerte vorgesehen
+werden. Referenzwerte können auf der Grundlage von Kosten für das
+Engpassmanagement ermittelt werden. Bei Unter- oder Überschreitung der
+Referenzwerte können auch die Obergrenzen zur Bestimmung der
+Netzzugangsentgelte für ein Energieversorgungsunternehmen angepasst
+werden. Dabei können auch gemeinsame Anreize für alle Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung vorgesehen werden und
+Vorgaben für eine Aufteilung der Abweichungen von einem Referenzwert
+erfolgen. Eine Aufteilung nach Satz 4 kann nach den §§ 26, 28 und 30
+des Kraft-Wärme-Kopplungsgesetzes erfolgen.
+
 (6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
@@ -3168,7 +7108,7 @@ Zustimmung des Bundesrates
 
 
 2.  die nähere Ausgestaltung der Methode einer Anreizregulierung nach den
-    Absätzen 1 bis 5 und ihrer Durchführung zu regeln sowie
+    Absätzen 1 bis 5a und ihrer Durchführung zu regeln sowie
 
 
 3.  zu regeln, in welchen Fällen und unter welchen Voraussetzungen die
@@ -3217,7 +7157,7 @@ Insbesondere können durch Rechtsverordnung nach Satz 1
 
 
 8.  Regelungen getroffen werden, die eine Begünstigung von Investitionen
-    vorsehen, die unter Berücksichtigung der Ziele des § 1 zur
+    vorsehen, die unter Berücksichtigung des Zwecks des § 1 zur
     Verbesserung der Versorgungssicherheit dienen,
 
 
@@ -3225,12 +7165,27 @@ Insbesondere können durch Rechtsverordnung nach Satz 1
     Netzbetrieb unter Berücksichtigung der Informationen nach § 51 und
     deren Auswirkungen auf die Regulierungsvorgaben getroffen werden,
     wobei auch Senkungen der Obergrenzen zur Bestimmung der
-    Netzzugangsentgelte vorgesehen werden können, und
+    Netzzugangsentgelte vorgesehen werden können,
 
 
 10. Regelungen zur Erhebung der für die Durchführung einer
     Anreizregulierung erforderlichen Daten durch die Regulierungsbehörde
-    getroffen werden.
+    getroffen werden,
+
+
+11. Regelungen zur angemessenen Berücksichtigung eines Zeitversatzes
+    zwischen dem Anschluss von Anlagen nach dem Erneuerbare-Energien-
+    Gesetz und dem Ausbau der Verteilernetze im Effizienzvergleich
+    getroffen werden und
+
+
+12. Regelungen zur Referenzwertermittlung bezogen auf die Verringerung von
+    Kosten für Engpassmanagement sowie zur näheren Ausgestaltung der
+    Kostenbeteiligung der Betreiber von Übertragungsnetzen mit
+    Regelzonenverantwortung bei Über- und Unterschreitung dieser
+    Referenzwerte einschließlich des Entwicklungspfades, wobei auch
+    Anpassungen der Obergrenzen durch Erhöhungen oder Senkungen vorgesehen
+    werden können, getroffen werden.
 
 
 
@@ -3240,529 +7195,35 @@ Regelungen für die Berechnung der Mehrkosten von Erdkabeln nach Absatz
 4 Satz 3 zu treffen.
 
 
-#### § 21b Messstellenbetrieb
+#### § 21b (weggefallen)
 
-(1) Der Messstellenbetrieb ist Aufgabe des Betreibers von
-Energieversorgungsnetzen, soweit nicht eine anderweitige Vereinbarung
-nach Absatz 2 getroffen worden ist.
 
-(2) Auf Wunsch des betroffenen Anschlussnutzers kann anstelle des nach
-Absatz 1 verpflichteten Netzbetreibers von einem Dritten der
-Messstellenbetrieb durchgeführt werden, wenn der einwandfreie und den
-eichrechtlichen Vorschriften entsprechende Messstellenbetrieb, zu dem
-auch die Messung und Übermittlung der Daten an die berechtigten
-Marktteilnehmer gehört, durch den Dritten gewährleistet ist, so dass
-eine fristgerechte und vollständige Abrechnung möglich ist, und wenn
-die Voraussetzungen nach Absatz 4 Satz 2 Nummer 2 vorliegen. Der
-Netzbetreiber ist berechtigt, den Messstellenbetrieb durch einen
-Dritten abzulehnen, sofern die Voraussetzungen nach Satz 1 nicht
-vorliegen. Die Ablehnung ist in Textform zu begründen. Der Dritte und
-der Netzbetreiber sind verpflichtet, zur Ausgestaltung ihrer
-rechtlichen Beziehungen einen Vertrag zu schließen. Bei einem Wechsel
-des Messstellenbetreibers sind der bisherige und der neue
-Messstellenbetreiber verpflichtet, die für die Durchführung des
-Wechselprozesses erforderlichen Verträge abzuschließen und die dafür
-erforderlichen Daten unverzüglich gegenseitig zu übermitteln. Soweit
-nicht Aufbewahrungsvorschriften etwas anderes bestimmen, hat der
-bisherige Messstellenbetreiber personenbezogene Daten unverzüglich zu
-löschen. § 6a Absatz 1 gilt entsprechend.
 
-(3) In einer Rechtsverordnung nach § 21i Absatz 1 Nummer 13 kann
-vorgesehen werden, dass solange und soweit eine Messstelle nicht mit
-einem Messsystem im Sinne von § 21d Absatz 1 ausgestattet ist oder in
-ein solches eingebunden ist, auf Wunsch des betroffenen
-Anschlussnutzers in Abweichung von der Regel in Absatz 2 Satz 1 auch
-nur die Messdienstleistung auf einen Dritten übertragen werden kann;
-Absatz 2 gilt insoweit entsprechend.
+#### § 21c (weggefallen)
 
-(4) Der Messstellenbetreiber hat einen Anspruch auf den Einbau von in
-seinem Eigentum stehenden Messeinrichtungen oder Messsystemen. Beide
-müssen
 
-1.  den eichrechtlichen Vorschriften entsprechen und
 
+#### § 21d (weggefallen)
 
-2.  den von dem Netzbetreiber einheitlich für sein Netzgebiet vorgesehenen
-    technischen Mindestanforderungen und Mindestanforderungen in Bezug auf
-    Datenumfang und Datenqualität genügen.
 
 
+#### § 21e (weggefallen)
 
-Die Mindestanforderungen des Netzbetreibers müssen sachlich
-gerechtfertigt und nichtdiskriminierend sein.
 
-(5) Das in Absatz 2 genannte Auswahlrecht kann auch der
-Anschlussnehmer ausüben, solange und soweit dazu eine ausdrückliche
-Einwilligung des jeweils betroffenen Anschlussnutzers vorliegt. Die
-Freiheit des Anschlussnutzers zur Wahl eines Lieferanten sowie eines
-Tarifs und zur Wahl eines Messstellenbetreibers darf nicht
-eingeschränkt werden. Näheres kann in einer Rechtsverordnung nach §
-21i Absatz 1 Nummer 1 geregelt werden.
 
+#### § 21f (weggefallen)
 
-#### § 21c Einbau von Messsystemen
 
-(1) Messstellenbetreiber haben
 
-a)  in Gebäuden, die neu an das Energieversorgungsnetz angeschlossen
-    werden oder einer größeren Renovierung im Sinne der Richtlinie
-    2002/91/EG des Europäischen Parlaments und des Rates vom 16. Dezember
-    2002 über die Gesamtenergieeffizienz von Gebäuden (ABl. L 1 vom
-    4\.1.2003, S. 65) unterzogen werden,
+#### § 21g (weggefallen)
 
 
-b)  bei Letztverbrauchern mit einem Jahresverbrauch größer 6 000
-    Kilowattstunden,
 
+#### § 21h (weggefallen)
 
-c)  bei Anlagenbetreibern nach dem Erneuerbare-Energien-Gesetz oder dem
-    Kraft-Wärme-Koppelungsgesetz bei Neuanlagen mit einer installierten
-    Leistung von mehr als 7 Kilowatt
 
 
-
-jeweils Messsysteme einzubauen, die den Anforderungen nach § 21d und §
-21e genügen, soweit dies technisch möglich ist,
-
-d)  in allen übrigen Gebäuden Messsysteme einzubauen, die den
-    Anforderungen nach § 21d und § 21e genügen, soweit dies technisch
-    möglich und wirtschaftlich vertretbar ist.
-
-
-
-
-(2) Technisch möglich ist ein Einbau, wenn Messsysteme, die den
-gesetzlichen Anforderungen genügen, am Markt verfügbar sind.
-Wirtschaftlich vertretbar ist ein Einbau, wenn dem Anschlussnutzer für
-Einbau und Betrieb keine Mehrkosten entstehen oder wenn eine
-wirtschaftliche Bewertung des Bundesministeriums für Wirtschaft und
-Technologie, die alle langfristigen, gesamtwirtschaftlichen und
-individuellen Kosten und Vorteile prüft, und eine Rechtsverordnung im
-Sinne von § 21i Absatz 1 Nummer 8 ihn anordnet.
-
-(3) Werden Zählpunkte mit einem Messsystem ausgestattet, haben
-Messstellenbetreiber nach dem Erneuerbare-Energien-Gesetz oder dem
-Kraft-Wärme-Kopplungsgesetz für eine Anbindung ihrer Erzeugungsanlagen
-an das Messsystem zu sorgen. Die Verpflichtung gilt nur, soweit eine
-Anbindung technisch möglich und wirtschaftlich vertretbar im Sinne von
-Absatz 2 ist; Näheres regelt eine Rechtsverordnung nach § 21i Absatz 1
-Nummer 8.
-
-(4) Der Anschlussnutzer ist nicht berechtigt, den Einbau eines
-Messsystems nach Absatz 1 und Absatz 2 oder die Anbindung seiner
-Erzeugungsanlagen an das Messsystem nach Absatz 3 zu verhindern oder
-nachträglich wieder abzuändern.
-
-
-#### § 21d Messsysteme
-
-(1) Ein Messsystem im Sinne dieses Gesetzes ist eine in ein
-Kommunikationsnetz eingebundene Messeinrichtung zur Erfassung
-elektrischer Energie, das den tatsächlichen Energieverbrauch und die
-tatsächliche Nutzungszeit widerspiegelt.
-
-(2) Nähere Anforderungen an Funktionalität und Ausstattung von
-Messsystemen werden in einer Verordnung nach § 21i Absatz 1 Nummer 3
-festgeschrieben.
-
-
-#### § 21e Allgemeine Anforderungen an Messsysteme zur Erfassung elektrischer Energie
-
-(1) Es dürfen nur Messsysteme verwendet werden, die den
-eichrechtlichen Vorschriften entsprechen. Zur Gewährleistung von
-Datenschutz, Datensicherheit und Interoperabilität haben Messsysteme
-den Anforderungen der Absätze 2 bis 4 zu genügen.
-
-(2) Zur Datenerhebung, -verarbeitung, -speicherung, -prüfung,
--übermittlung dürfen ausschließlich solche technischen Systeme und
-Bestandteile eingesetzt werden, die
-
-1.  den Anforderungen von Schutzprofilen nach der nach § 21i zu
-    erstellenden Rechtsverordnung entsprechen sowie
-
-
-2.  besonderen Anforderungen an die Gewährleistung von Interoperabilität
-    nach der nach § 21i Absatz 1 Nummer 3 und 12 zu erstellenden
-    Rechtsverordnung genügen.
-
-
-
-
-(3) Die an der Datenübermittlung beteiligten Stellen haben dem
-jeweiligen Stand der Technik entsprechende Maßnahmen zur
-Sicherstellung von Datenschutz und Datensicherheit zu treffen, die
-insbesondere die Vertraulichkeit und Integrität der Daten sowie die
-Feststellbarkeit der Identität der übermittelnden Stelle
-gewährleisten. Im Falle der Nutzung allgemein zugänglicher
-Kommunikationsnetze sind Verschlüsselungsverfahren anzuwenden, die dem
-jeweiligen Stand der Technik entsprechen. Näheres wird in einer
-Rechtsverordnung nach § 21i Absatz 1 Nummer 4 geregelt.
-
-(4) Es dürfen nur Messsysteme eingebaut werden, bei denen die
-Einhaltung der Anforderungen des Schutzprofils in einem
-Zertifizierungsverfahren zuvor festgestellt wurde, welches die
-Verlässlichkeit von außerhalb der Messeinrichtung aufbereiteten Daten,
-die Sicherheits- und die Interoperabilitätsanforderungen umfasst.
-Zertifikate können befristet, beschränkt oder mit Auflagen versehen
-vergeben werden. Einzelheiten zur Ausgestaltung des Verfahrens regelt
-die Rechtsverordnung nach § 21i Absatz 1 Nummer 3 und 12.
-
-(5) Messsysteme, die den Anforderungen eines speziellen Schutzprofils
-nicht genügen, können noch bis zum 31. Dezember 2012 eingebaut werden
-und dürfen bis zum nächsten Ablauf der bestehenden Eichgültigkeit
-weiter genutzt werden, es sei denn, sie wären zuvor auf Grund eines
-Einbaus nach § 21c auszutauschen oder ihre Weiterbenutzung ist mit
-unverhältnismäßigen Gefahren verbunden. Näheres kann durch
-Rechtsverordnung nach § 21i Absatz 1 Nummer 11 bestimmt werden.
-
-
-#### § 21f Messeinrichtungen für Gas
-
-(1) Messeinrichtungen für Gas dürfen nur verbaut werden, wenn sie
-sicher mit einem Messsystem, das den Anforderungen von § 21d und § 21e
-genügt, verbunden werden können. Sie dürfen ferner nur dann eingebaut
-werden, wenn sie auch die Anforderungen einhalten, die zur
-Gewährleistung des Datenschutzes, der Datensicherheit und
-Interoperabilität in Schutzprofilen und Technischen Richtlinien auf
-Grund einer Rechtsverordnung nach § 21i Absatz 1 Nummer 3 und 12 sowie
-durch eine Rechtsverordnung im Sinne von § 21i Absatz 1 Nummer 3 und
-12 festgelegt werden können.
-
-(2) Bestandsgeräte, die den Anforderungen eines speziellen
-Schutzprofils nicht genügen, können noch bis zum 31. Dezember 2012
-eingebaut werden und dürfen bis zum nächsten Ablauf der bestehenden
-Eichgültigkeit weiter genutzt werden, es sei denn, sie wären zuvor auf
-Grund eines Einbaus nach § 21c auszutauschen oder ihre Weiterbenutzung
-ist mit unverhältnismäßigen Gefahren verbunden. Näheres kann durch
-Rechtsverordnung nach § 21i Absatz 1 Nummer 11 bestimmt werden.
-
-
-#### § 21g Erhebung, Verarbeitung und Nutzung personenbezogener Daten
-
-(1) Die Erhebung, Verarbeitung und Nutzung personenbezogener Daten aus
-dem Messsystem oder mit Hilfe des Messsystems darf ausschließlich
-durch zum Datenumgang berechtigte Stellen erfolgen und auf Grund
-dieses Gesetzes nur, soweit dies erforderlich ist für
-
-1.  das Begründen, inhaltliche Ausgestalten und Ändern eines
-    Vertragsverhältnisses auf Veranlassung des Anschlussnutzers;
-
-
-2.  das Messen des Energieverbrauchs und der Einspeisemenge;
-
-
-3.  die Belieferung mit Energie einschließlich der Abrechnung;
-
-
-4.  das Einspeisen von Energie einschließlich der Abrechnung;
-
-
-5.  die Steuerung von unterbrechbaren Verbrauchseinrichtungen in
-    Niederspannung im Sinne von § 14a;
-
-
-6.  die Umsetzung variabler Tarife im Sinne von § 40 Absatz 5
-    einschließlich der Verarbeitung von Preis- und Tarifsignalen für
-    Verbrauchseinrichtungen und Speicheranlagen sowie der
-    Veranschaulichung des Energieverbrauchs und der Einspeiseleistung
-    eigener Erzeugungsanlagen;
-
-
-7.  die Ermittlung des Netzzustandes in begründeten und dokumentierten
-    Fällen;
-
-
-8.  das Aufklären oder Unterbinden von Leistungserschleichungen nach
-    Maßgabe von Absatz 3.
-
-
-
-
-(2) Zum Datenumgang berechtigt sind der Messstellenbetreiber, der
-Netzbetreiber und der Lieferant sowie die Stelle, die eine
-schriftliche Einwilligung des Anschlussnutzers, die den Anforderungen
-des § 4a des Bundesdatenschutzgesetzes genügt, nachweisen kann. Für
-die Einhaltung datenschutzrechtlicher Vorschriften ist die jeweils zum
-Datenumgang berechtigte Stelle verantwortlich.
-
-(3) Wenn tatsächliche Anhaltspunkte für die rechtswidrige
-Inanspruchnahme eines Messsystems oder seiner Dienste vorliegen, muss
-der nach Absatz 2 zum Datenumgang Berechtigte diese dokumentieren. Zur
-Sicherung seines Entgeltanspruchs darf er die Bestandsdaten und
-Verkehrsdaten verwenden, die erforderlich sind, um die rechtswidrige
-Inanspruchnahme des Messsystems oder seiner Dienste aufzudecken und zu
-unterbinden. Der nach Absatz 2 zum Datenumgang Berechtigte darf die
-nach Absatz 1 erhobenen Verkehrsdaten in der Weise verwenden, dass aus
-dem Gesamtbestand aller Verkehrsdaten, die nicht älter als sechs
-Monate sind, die Daten derjenigen Verbindungen mit dem Messsystem
-ermittelt werden, für die tatsächliche Anhaltspunkte den Verdacht der
-rechtswidrigen Inanspruchnahme des Messsystems und seiner Dienste
-begründen. Der nach Absatz 2 zum Datenumgang Berechtigte darf aus den
-nach Satz 2 erhobenen Verkehrsdaten und Bestandsdaten einen
-pseudonymisierten Gesamtdatenbestand bilden, der Aufschluss über die
-von einzelnen Teilnehmern erzielten Umsätze gibt und unter
-Zugrundelegung geeigneter Missbrauchskriterien das Auffinden solcher
-Verbindungen des Messsystems ermöglicht, bei denen der Verdacht einer
-missbräuchlichen Inanspruchnahme besteht. Die Daten anderer
-Verbindungen sind unverzüglich zu löschen. Die Bundesnetzagentur und
-der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
-sind über Einführung und Änderung eines Verfahrens nach Satz 2
-unverzüglich in Kenntnis zu setzen.
-
-(4) Messstellenbetreiber, Netzbetreiber und Lieferanten können als
-verantwortliche Stellen die Erhebung, Verarbeitung und Nutzung auch
-von personenbezogenen Daten durch einen Dienstleister in ihrem Auftrag
-durchführen lassen; § 11 des Bundesdatenschutzgesetzes ist einzuhalten
-und § 43 des Bundesdatenschutzgesetzes ist zu beachten.
-
-(5) Personenbezogene Daten sind zu anonymisieren oder zu
-pseudonymisieren, soweit dies nach dem Verwendungszweck möglich ist
-und im Verhältnis zu dem angestrebten Schutzzweck keinen
-unverhältnismäßigen Aufwand erfordert.
-
-(6) Näheres ist in einer Rechtsverordnung nach § 21i Absatz 1 Nummer 4
-zu regeln. Diese hat insbesondere Vorschriften zum Schutz
-personenbezogener Daten der an der Energieversorgung Beteiligten zu
-enthalten, welche die Erhebung, Verarbeitung und Nutzung dieser Daten
-regeln. Die Vorschriften haben den Grundsätzen der
-Verhältnismäßigkeit, insbesondere der Beschränkung der Erhebung,
-Verarbeitung und Nutzung auf das Erforderliche, sowie dem Grundsatz
-der Zweckbindung Rechnung zu tragen. Insbesondere darf die Belieferung
-mit Energie nicht von der Angabe personenbezogener Daten abhängig
-gemacht werden, die hierfür nicht erforderlich sind. Fernwirken und
-Fernmessen dürfen nur vorgenommen werden, wenn der Letztverbraucher
-zuvor über den Verwendungszweck sowie über Art, Umfang und Zeitraum
-des Einsatzes unterrichtet worden ist und nach der Unterrichtung
-eingewilligt hat. Die Vorschriften müssen dem Letztverbraucher
-Kontroll- und Einwirkungsmöglichkeiten für das Fernwirken und
-Fernmessen einräumen. In der Rechtsverordnung sind Höchstfristen für
-die Speicherung festzulegen und insgesamt die berechtigten Interessen
-der Unternehmen und der Betroffenen angemessen zu berücksichtigen. Die
-Eigenschaften und Funktionalitäten von Messsystemen sowie von
-Speicher- und Verarbeitungsmedien sind datenschutzgerecht zu regeln.
-
-
-#### § 21h Informationspflichten
-
-(1) Auf Verlangen des Anschlussnutzers hat der Messstellenbetreiber
-
-1.  ihm Einsicht in die im elektronischen Speicher- und
-    Verarbeitungsmedium gespeicherten auslesbaren Daten zu gewähren und
-
-
-2.  in einem bestimmten Umfang Daten an diesen kostenfrei weiterzuleiten
-    und diesen zur Nutzung zur Verfügung zu stellen.
-
-
-
-
-(2) Wird bei einer zum Datenumgang berechtigten Stelle festgestellt,
-dass gespeicherte Vertrags- oder Nutzungsdaten unrechtmäßig
-gespeichert, verarbeitet oder übermittelt wurden oder auf sonstige
-Weise Dritten unrechtmäßig zur Kenntnis gelangt sind und drohen
-schwerwiegende Beeinträchtigungen für die Rechte oder schutzwürdigen
-Interessen des betroffenen Anschlussnutzers, gilt § 42a des
-Bundesdatenschutzgesetzes entsprechend.
-
-
-#### § 21i Rechtsverordnungen
-
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
-
-1.  die Bedingungen für den Messstellenbetrieb zu regeln und dabei auch zu
-    bestimmen, unter welchen Voraussetzungen der Messstellenbetrieb von
-    einem anderen als dem Netzbetreiber durchgeführt werden kann und
-    welche weiteren Anforderungen an eine Ausübung des Wahlrechts aus §
-    21b Absatz 2 durch den Anschlussnehmer gemäß § 21b Absatz 5 zu stellen
-    sind;
-
-
-2.  die Verpflichtung nach § 21c Absatz 1 und 3 näher auszugestalten;
-
-
-3.  die in § 21d, § 21e und § 21f genannten Anforderungen näher
-    auszugestalten und weitere bundesweit einheitliche technische
-    Mindestanforderungen sowie Eigenschaften, Ausstattungsumfang und
-    Funktionalitäten von Messsystemen und Messeinrichtungen für Strom und
-    Gas unter Beachtung der eichrechtlichen Vorgaben zu bestimmen;
-
-
-4.  den datenschutzrechtlichen Umgang mit den bei einer leitungsgebundenen
-    Versorgung der Allgemeinheit mit Elektrizität oder Gas anfallenden
-    personenbezogenen Daten nach Maßgabe von § 21g zu regeln;
-
-
-5.  zu regeln, in welchen Fällen und unter welchen Voraussetzungen die
-    Regulierungsbehörde Anforderungen und Bedingungen nach den Nummern 1
-    bis 3 festlegen kann;
-
-
-6.  Sonderregelungen für Pilotprojekte und Modellregionen vorzusehen;
-
-
-7.  das Verfahren der Zählerstandsgangmessung als besondere Form der
-    Lastgangmessung näher zu beschreiben;
-
-
-8.  im Anschluss an eine den Vorgaben der Richtlinien 2009/72/EG und
-    2009/73/EG genügende wirtschaftliche Betrachtung im Sinne von § 21c
-    Absatz 2 den Einbau von Messsystemen im Sinne von § 21d und § 21e und
-    Messeinrichtungen im Sinne von § 21f ausschließlich unter bestimmten
-    Voraussetzungen und für bestimmte Fälle vorzusehen und für andere
-    Fälle Verpflichtungen von Messstellenbetreibern zum Angebot von
-    solchen Messsystemen und Messeinrichtungen vorzusehen sowie einen
-    Zeitplan und Vorgaben für einen Rollout für Messsysteme im Sinne von §
-    21d und § 21e vorzusehen;
-
-
-9.  die Verpflichtung für Betreiber von Elektrizitätsverteilernetzen aus §
-    14a zu konkretisieren, insbesondere einen Rahmen für die Reduzierung
-    von Netzentgelten und die vertragliche Ausgestaltung vorzusehen sowie
-    Steuerungshandlungen zu benennen, die dem Netzbetreiber vorbehalten
-    sind, und Steuerungshandlungen zu benennen, die Dritten, insbesondere
-    dem Lieferanten, vorbehalten sind, wie auch Anforderungen an die
-    kommunikative Einbindung der unterbrechbaren Verbrauchseinrichtung
-    aufzustellen und vorzugeben, dass die Steuerung ausschließlich über
-    Messsysteme im Sinne von § 21d und § 21e zu erfolgen hat;
-
-
-10. Netzbetreibern oder Messstellenbetreibern in für Letztverbraucher
-    wirtschaftlich zumutbarer Weise die Möglichkeit zu geben, aus Gründen
-    des Systembetriebs und der Netzsicherheit in besonderen Fällen
-    Messsysteme, die den Anforderungen von § 21d und § 21e genügen, oder
-    andere technische Einrichtungen einzubauen und die Anforderungen dafür
-    festzulegen;
-
-
-11. den Bestandsschutz nach § 21e Absatz 5 und § 21f Absatz 2 inhaltlich
-    und zeitlich näher zu bestimmen und damit gegebenenfalls auch eine
-    Differenzierung nach Gruppen und eine Verlängerung der genannten Frist
-    vorzunehmen;
-
-
-12. im Sinne des § 21e Schutzprofile und Technische Richtlinien für
-    Messsysteme im Sinne von § 21d Absatz 1 sowie für einzelne Komponenten
-    und Verfahren zur Gewährleistung von Datenschutz, Datensicherheit und
-    Anforderungen zur Gewährleistung der Interoperabilität von
-    Messsystemen und ihrer Teile vorzugeben sowie die verfahrensmäßige
-    Durchführung in Zertifizierungsverfahren zu regeln;
-
-
-13. dem Anschlussnutzer das Recht zuzubilligen und näher auszugestalten,
-    im Falle der Ausstattung der Messstelle mit einer Messeinrichtung, die
-    nicht im Sinne von § 21d Absatz 1 in ein Kommunikationsnetz
-    eingebunden ist, in Abweichung von der Regel in § 21b Absatz 2 einem
-    Dritten mit der Durchführung der Messdienstleistung zu beauftragen.
-    Rechtsverordnungen nach den Nummern 3, 4 und 12 bedürfen der
-    Zustimmung des Deutschen Bundestages. Die Zustimmung gilt mit Ablauf
-    der sechsten Sitzungswoche nach Zuleitung des Verordnungsentwurfs der
-    Bundesregierung an den Deutschen Bundestag als erteilt.
-
-
-
-
-(2) In Rechtsverordnungen nach Absatz 1 können insbesondere
-
-1.  Regelungen zur einheitlichen Ausgestaltung der Rechte und Pflichten
-    der Beteiligten, der Bestimmungen der Verträge nach § 21b Absatz 2
-    Satz 4 und des Rechtsverhältnisses zwischen Netzbetreiber und
-    Anschlussnutzer sowie über den Vertragsschluss, den Gegenstand und die
-    Beendigung der Verfahren getroffen werden;
-
-
-2.  Bestimmungen zum Zeitpunkt der Übermittlung der Messdaten und zu den
-    für die Übermittlung zu verwendenden bundeseinheitlichen Datenformaten
-    getroffen werden;
-
-
-3.  die Vorgaben zur Dokumentation und Archivierung der relevanten Daten
-    bestimmt werden;
-
-
-4.  die Haftung für Fehler bei Messung und Datenübermittlung geregelt
-    werden;
-
-
-5.  die Vorgaben für den Wechsel des Dritten näher ausgestaltet werden;
-
-
-6.  das Vorgehen beim Ausfall des Dritten geregelt werden;
-
-
-7.  Bestimmungen aufgenommen werden, die
-
-    a)  für bestimmte Fall- und Haushaltsgruppen unterschiedliche
-        Mindestanforderungen an Messsysteme, ihren Ausstattungs- und
-        Funktionalitätsumfang vorgeben;
-
-
-    b)  vorsehen, dass ein Messsystem im Sinne von § 21d aus mindestens einer
-        elektronischen Messeinrichtung zur Erfassung elektrischer Energie und
-        einer Kommunikationseinrichtung zur Verarbeitung, Speicherung und
-        Weiterleitung dieser und weiterer Daten besteht;
-
-
-    c)  vorsehen, dass Messsysteme in Bezug auf die Kommunikation
-        bidirektional auszulegen sind, Tarif- und Steuersignale verarbeiten
-        können und offen für weitere Dienste sind;
-
-
-    d)  vorsehen, dass Messsysteme über einen geringen Eigenstromverbrauch
-        verfügen, für die Anbindung von Stromeinspeise-, Gas-, Wasser-,
-        Wärmezählern und Heizwärmemessgeräten geeignet sind, über die
-        Fähigkeit zur Zweirichtungszählung verfügen, Tarifinformationen
-        empfangen und variable Tarife im Sinne von § 40 Absatz 5 realisieren
-        können, eine externe Tarifierung unter Beachtung der eichrechtlichen
-        Vorgaben ermöglichen, über offen spezifizierte Standard-Schnittstellen
-        verfügen, eine angemessene Fernbereichskommunikation sicherstellen und
-        für mindestens eine weitere gleichwertige Art der
-        Fernbereichskommunikation offen sind sowie für die Anbindung von
-        häuslichen EEG- und KWKG-Anlagen in Niederspannung und Anlagen im
-        Sinne von § 14a Absatz 1 geeignet sind;
-
-
-    e)  vorsehen, dass es erforderlich ist, dass Messsysteme es
-        bewerkstelligen können, dem Netzbetreiber, soweit technisch möglich
-        und wirtschaftlich vertretbar, unabhängig von seiner Position als
-        Messstellenbetreiber neben abrechnungsrelevanten Verbrauchswerten
-        bezogen auf den Netzanschluss auch netzbetriebsrelevante Daten wie
-        insbesondere Frequenz-, Spannungs- und Stromwerte sowie Phasenwinkel,
-        soweit erforderlich, unverzüglich zur Verfügung zu stellen und ihm
-        Protokolle über Spannungsausfälle mit Datum und Zeit zu liefern;
-
-
-    f)  vorsehen, dass Messsysteme eine Zählerstandsgangmessung ermöglichen
-        können;
-
-
-
-
-
-8.  die Einzelheiten der technischen Anforderungen an die Speicherung von
-    Daten sowie den Zugriffsschutz auf die im elektronischen Speicher- und
-    Verarbeitungsmedium abgelegten Daten geregelt werden;
-
-
-9.  Bestimmungen dazu vorgesehen werden, dass die Einzelheiten zur
-    Gewährleistung der Anforderungen an die Interoperabilität in
-    Technischen Richtlinien des Bundesamtes für Sicherheit in der
-    Informationstechnik oder in Festlegungen der Bundesnetzagentur
-    geregelt werden;
-
-
-10. dem Bundesamt für Sicherheit in der Informationstechnik, der
-    Bundesnetzagentur und der Physikalisch-Technischen Bundesanstalt
-    Kompetenzen im Zusammenhang mit der Entwicklung und Anwendung von
-    Schutzprofilen und dem Erlass Technischer Richtlinien übertragen
-    werden, wobei eine jeweils angemessene Beteiligung der Behörden über
-    eine Einvernehmenslösung sicherzustellen ist;
-
-
-11. die Einzelheiten von Zertifizierungsverfahren für Messsysteme bestimmt
-    werden.
-
-
+#### § 21i (weggefallen)
 
 
 
@@ -3833,13 +7294,13 @@ oder Umspannstufe erfolgt; eine Überschreitung ist der
 Regulierungsbehörde unverzüglich anzuzeigen.
 
 (3) Die Genehmigung ist mindestens sechs Monate vor dem Zeitpunkt
-schriftlich zu beantragen, an dem die Entgelte wirksam werden sollen.
-Dem Antrag sind die für eine Prüfung erforderlichen Unterlagen
-beizufügen; auf Verlangen der Regulierungsbehörde haben die
-Antragsteller Unterlagen auch elektronisch zu übermitteln. Die
-Regulierungsbehörde kann ein Muster und ein einheitliches Format für
-die elektronische Übermittlung vorgeben. Die Unterlagen müssen
-folgende Angaben enthalten:
+schriftlich oder elektronisch zu beantragen, an dem die Entgelte
+wirksam werden sollen. Dem Antrag sind die für eine Prüfung
+erforderlichen Unterlagen beizufügen; auf Verlangen der
+Regulierungsbehörde haben die Antragsteller Unterlagen auch
+elektronisch zu übermitteln. Die Regulierungsbehörde kann ein Muster
+und ein einheitliches Format für die elektronische Übermittlung
+vorgeben. Die Unterlagen müssen folgende Angaben enthalten:
 
 1.  eine Gegenüberstellung der bisherigen Entgelte sowie der beantragten
     Entgelte und ihrer jeweiligen Kalkulation,
@@ -3858,13 +7319,13 @@ folgende Angaben enthalten:
 
 
 Die Regulierungsbehörde hat dem Antragsteller den Eingang des Antrags
-schriftlich zu bestätigen. Sie kann die Vorlage weiterer Angaben oder
-Unterlagen verlangen, soweit dies zur Prüfung der Voraussetzungen nach
-Absatz 2 erforderlich ist; Satz 5 gilt für nachgereichte Angaben und
-Unterlagen entsprechend. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates das Verfahren und die Anforderungen an die nach Satz 4
-vorzulegenden Unterlagen näher auszugestalten.
+zu bestätigen. Sie kann die Vorlage weiterer Angaben oder Unterlagen
+verlangen, soweit dies zur Prüfung der Voraussetzungen nach Absatz 2
+erforderlich ist; Satz 5 gilt für nachgereichte Angaben und Unterlagen
+entsprechend. Das Bundesministerium für Wirtschaft und Energie wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren und die Anforderungen an die nach Satz 4 vorzulegenden
+Unterlagen näher auszugestalten.
 
 (4) Die Genehmigung ist zu befristen und mit einem Vorbehalt des
 Widerrufs zu versehen; sie kann unter Bedingungen erteilt und mit
@@ -3896,7 +7357,383 @@ erlassenen Rechtsverordnungen ein Entgelt als Höchstpreis vorläufig
 festsetzen.
 
 
-#### § 24 Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen
+#### § 23b Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz
+
+(1) Die Regulierungsbehörde veröffentlicht auf ihrer Internetseite,
+einschließlich etwaiger darin enthaltener Betriebs- und
+Geschäftsgeheimnisse, unternehmensbezogen in nicht anonymisierter
+Form:
+
+1.  die gemäß § 21a Absatz 2 durch die Regulierungsbehörde für eine
+    Regulierungsperiode vorgegebenen kalenderjährlichen Erlösobergrenzen
+    und, sofern abweichend, die zur Entgeltbildung vom Netzbetreiber
+    herangezogene angepasste kalenderjährliche Erlösobergrenze jeweils als
+    Summenwert,
+
+
+2.  den jährlichen Aufschlag auf die Erlösobergrenze für Kapitalkosten,
+    die aufgrund von nach dem Basisjahr getätigten Investitionen in den
+    Bestand betriebsnotwendiger Anlagegüter entstehen, als Summenwert,
+
+
+3.  die nach § 21a Absatz 4 in der vorgegebenen kalenderjährlichen
+    Erlösobergrenze enthaltenen dauerhaft nicht beeinflussbaren sowie
+    volatilen Kostenanteile sowie jeweils deren jährliche Anpassung durch
+    den Netzbetreiber als Summenwert,
+
+
+4.  die nach § 21a Absatz 4 zu berücksichtigenden jährlichen
+    beeinflussbaren und vorübergehend nicht beeinflussbaren
+    Kostenbestandteile als Summenwert,
+
+
+5.  die in der vorgegebenen kalenderjährlichen Erlösobergrenze enthaltenen
+    Kosten aufgrund von Forschungs- und Entwicklungsvorhaben im Rahmen der
+    staatlichen Energieforschungsförderung, welche durch eine zuständige
+    Behörde eines Landes oder des Bundes, insbesondere des
+    Bundesministeriums für Wirtschaft und Energie oder des
+    Bundesministeriums für Bildung und Forschung bewilligt wurde und
+    fachlich betreut werden, sowie deren jährliche Anpassung durch den
+    Netzbetreiber als Summenwert,
+
+
+6.  die Werte der nach § 21a Absatz 3 Satz 4 zu berücksichtigenden
+    Mengeneffekte,
+
+
+7.  die gemäß § 21a Absatz 5 ermittelten unternehmensindividuellen
+    Effizienzwerte sowie die hierbei erhobenen, geprüften und verwendeten
+    Parameter zur Abbildung struktureller Unterschiede und die
+    Aufwandsparameter,
+
+
+8.  das in den Entscheidungen nach § 21a ermittelte Ausgangsniveau, die
+    bei der Ermittlung der kalkulatorischen Eigenkapitalverzinsung
+    eingeflossenen Bilanzpositionen sowie die bei der Ermittlung der
+    kalkulatorischen Gewerbesteuer verwendete Messzahl sowie den Hebesatz,
+    dabei ist gleiches anzuwenden für die in das Ausgangsniveau nach § 21a
+    eingeflossenen Kosten oder Kostenbestandteile, die aufgrund einer
+    Überlassung
+    betriebsnotwendiger                    Anlagegüter durch Dritte
+    anfallen,
+
+
+9.  jährliche tatsächliche Kosten der genehmigten Investitionsmaßnahmen
+    für die Erweiterung und Umstrukturierung in die Transportnetze jeweils
+    als Summenwert,
+
+
+10. die ermittelten Kennzahlen zur Versorgungsqualität sowie die
+    ermittelten Kennzahlenvorgaben zur Netzzuverlässigkeit und
+    Netzleistungsfähigkeit einschließlich der zur Bestimmung der
+    Strukturparameter verwendeten Größen und der daraus abgeleiteten
+    Strukturparameter selbst und die Abweichungen der Netzbetreiber von
+    diesen Kennzahlenvorgaben wie auch die daraus resultierenden Zu- oder
+    Abschläge auf die Erlösobergrenzen,
+
+
+11. Summe der Kosten für das Engpassmanagement nach § 21a Absatz 5a,
+    einschließlich der Summe der saldierten geleisteten und erhaltenen
+    Zahlungen für den finanziellen Ausgleich nach § 13a Absatz 2 und 5
+    Satz 3 sowie für den finanziellen Ersatz nach § 14 Absatz 1c Satz 2,
+
+
+12. die jährliche Entwicklung der Summe der Kosten für die folgenden
+    Systemdienstleistungen der Übertragungsnetzbetreiber,
+
+    a)  für Kraftwerksreserven der Transportnetzbetreiber Strom nach den
+        §§ 13b, 13d, 13e und 13g sowie
+
+
+    b)  für die gesicherte Versorgung von Kraftwerken mit Gas außerhalb der
+        Netzreserve nach § 13f,
+
+
+
+
+
+13. die Daten, die bei der Ermittlung des generellen sektoralen
+    Produktivitätsfaktors Verwendung finden,
+
+
+14. die in der Entscheidung nach § 23 der Anreizregulierungsverordnung
+    genannten Daten, ausgenommen Betriebs- und Geschäftsgeheimnisse
+    Dritter,
+
+
+15. Kosten für die erforderliche Inanspruchnahme vorgelagerter Netzebenen
+    als Summenwert und
+
+
+16. Kosten für die an Betreiber einer dezentralen Erzeugungsanlage und an
+    vorgelagerte Netzbetreiber aufgrund von dezentraler Einspeisung
+    gezahlten vermiedenen Netzentgelte als Summenwert.
+
+
+
+Von einer Veröffentlichung der Daten nach Satz 1 Nummer 7, 8 und 12
+ist abzusehen, wenn durch die Veröffentlichung Rückschlüsse auf Kosten
+oder Preise Dritter möglich sind.
+
+(2) Sonstige Befugnisse der Regulierungsbehörde, Informationen und
+Daten zu veröffentlichen sowie im Einzelfall oder durch Festlegung
+nach § 29 Absatz 1 die Veröffentlichung von Informationen und Daten
+anzuordnen, bleiben unberührt.
+
+(3) Die Regulierungsbehörde kann die Betreiber von
+Energieversorgungsnetzen durch Festlegungen nach § 29 Absatz 1
+verpflichten, die Daten nach Absatz 1 an sie zu übermitteln sowie
+Vorgaben zu Umfang, Zeitpunkt und Form der mitzuteilenden Daten,
+insbesondere zu den zulässigen Datenformaten, Datenträgern und
+Übertragungswegen treffen.
+
+
+#### § 23c Veröffentlichungspflichten der Netzbetreiber
+
+(1) Betreiber von Elektrizitätsversorgungsnetzen haben jeweils zum 1.
+April eines Jahres folgende Strukturmerkmale ihres Netzes und
+netzrelevanten Daten auf ihrer Internetseite zu veröffentlichen:
+
+1.  die Stromkreislänge jeweils der Kabel- und Freileitungen in der
+    Niederspannungs-, Mittelspannungs-, Hoch- und Höchstspannungsebene zum
+    31\. Dezember des Vorjahres,
+
+
+2.  die installierte Leistung der Umspannebenen zum 31. Dezember des
+    Vorjahres,
+
+
+3.  die im Vorjahr entnommene Jahresarbeit in Kilowattstunden pro Netz-
+    und Umspannebene,
+
+
+4.  die Anzahl der Entnahmestellen jeweils für alle Netz- und
+    Umspannebenen,
+
+
+5.  die Einwohnerzahl im Netzgebiet von Betreibern von
+    Elektrizitätsversorgungsnetzen der Niederspannungsebene zum 31.
+    Dezember des Vorjahres,
+
+
+6.  die versorgte Fläche zum 31. Dezember des Vorjahres,
+
+
+7.  die geographische Fläche des Netzgebietes zum 31. Dezember des
+    Vorjahres,
+
+
+8.  jeweils zum 31. Dezember des Vorjahres die Anzahl der Entnahmestellen
+    mit einer viertelstündlichen registrierenden Leistungsmessung oder
+    einer Zählerstandsgangmessung und die Anzahl der sonstigen
+    Entnahmestellen,
+
+
+9.  den Namen des grundzuständigen Messstellenbetreibers sowie
+
+
+10. Ansprechpartner im Unternehmen für Netzzugangsfragen.
+
+
+
+
+(2) Betreiber von Übertragungsnetzen sind ferner verpflichtet,
+folgende netzrelevanten Daten unverzüglich und in geeigneter Weise,
+zumindest auf ihrer Internetseite, zu veröffentlichen und zwei Jahre
+verfügbar zu halten:
+
+1.  die Summe der Stromabgaben aus dem Übertragungsnetz über direkt
+    angeschlossene Transformatoren und Leitungen an
+    Elektrizitätsverteilernetze und Letztverbraucher (vertikale Netzlast)
+    viertelstundenscharf in Megawatt pro Viertelstunde,
+
+
+2.  die Jahreshöchstlast pro Netz- und Umspannebene sowie den Lastverlauf
+    als viertelstündige Leistungsmessung,
+
+
+3.  die Netzverluste,
+
+
+4.  den viertelstündigen Regelzonensaldo in Megawattstunden pro
+    Viertelstunde sowie die tatsächlich abgerufene Minutenreserve,
+
+
+5.  die grenzüberschreitenden Lastflüsse zusammengefasst je Kuppelstelle
+    inklusive einer Vorschau auf die Kapazitätsvergabe,
+
+
+6.  die marktrelevanten Ausfälle und Planungen für Revisionen der
+    Übertragungsnetze,
+
+
+7.  die Mengen und die durchschnittlichen jährlichen Beschaffungspreise
+    der Verlustenergie und
+
+
+8.  Daten zur prognostizierten Einspeisung von Windenergie und
+    Solarenergie auf Grundlage der vortägigen Prognosen, die auch die
+    Betreiber von Übertragungsnetzen verwenden, und zur tatsächlichen
+    Einspeisung anhand der Daten, die die Betreiber von Übertragungsnetzen
+    untereinander verrechnen in Megawatt pro Viertelstunde.
+
+
+
+
+(3) Betreiber von Elektrizitätsverteilernetzen sind ferner
+verpflichtet, folgende netzrelevanten Daten unverzüglich in geeigneter
+Weise, zumindest auf ihrer Internetseite, zu veröffentlichen:
+
+1.  die Jahreshöchstlast pro Netz- und Umspannebene sowie den Lastverlauf
+    als viertelstündige Leistungsmessung,
+
+
+2.  die Netzverluste,
+
+
+3.  die Summenlast der nicht leistungsgemessenen Kunden und die Summenlast
+    der Netzverluste,
+
+
+4.  die Summenlast der Fahrplanprognosen für Lastprofilkunden und die
+    Restlastkurve der Lastprofilkunden bei Anwendung des analytischen
+    Verfahrens,
+
+
+5.  die Höchstentnahmelast und der Bezug aus der vorgelagerten Netzebene,
+
+
+6.  die Summe aller Einspeisungen pro Spannungsebene und im zeitlichen
+    Verlauf und
+
+
+7.  die Mengen und Preise der Verlustenergie.
+
+
+
+
+(4) Betreiber von Gasversorgungsnetzen haben jeweils zum 1. April
+eines Jahres folgende Strukturmerkmale ihres Netzes und netzrelevanten
+Daten auf ihrer Internetseite zu veröffentlichen:
+
+1.  die Länge des Gasleitungsnetzes jeweils getrennt für die Niederdruck-,
+    Mitteldruck- und Hochdruckebene zum 31. Dezember des Vorjahres,
+
+
+2.  die Länge des Gasleitungsnetzes in der Hochdruckebene nach
+    Leitungsdurchmesserklassen,
+
+
+3.  die im Vorjahr durch Weiterverteiler und Letztverbraucher entnommene
+    Jahresarbeit in Kilowattstunden oder in Kubikmetern,
+
+
+4.  die Anzahl der Ausspeisepunkte jeweils für alle Druckstufen,
+
+
+5.  die zeitgleiche Jahreshöchstlast aller Entnahmen in Megawatt oder
+    Kubikmetern pro Stunde und den Zeitpunkt des jeweiligen Auftretens,
+
+
+6.  die Zuordenbarkeit jeder Entnahmestelle zu einem oder mehreren
+    Marktgebieten,
+
+
+7.  die Mindestanforderungen an allgemeine Geschäftsbedingungen für Ein-
+    oder Ausspeiseverträge und an Bilanzkreisverträge sowie die
+    Kooperationsvereinbarungen zum Netzzugang sowie
+
+
+8.  für den Netzanschluss von Biogas- und LNG-Anlagen neben den in § 19
+    Absatz 2 aufgeführten Angaben ferner, unter Wahrung von Betriebs- und
+    Geschäftsgeheimnissen, die für die Prüfung des Netzanschlussbegehrens
+    erforderlichen Angaben, die standardisierten Bedingungen für den
+    Netzanschluss und eine laufend aktualisierte, übersichtliche
+    Darstellung der Netzauslastung in ihrem gesamten Netz einschließlich
+    der Kennzeichnung tatsächlicher oder zu erwartender Engpässe.
+
+
+
+
+(5) Betreiber von Fernleitungsnetzen sind ferner verpflichtet,
+folgende netzrelevanten Daten unverzüglich und in geeigneter Weise,
+zumindest auf ihrer Internetseite, zu veröffentlichen:
+
+1.  eine unter Betreibern angrenzender Netze abgestimmte einheitliche
+    Bezeichnung für Netzkopplungspunkte oder Ein- oder Ausspeisezonen,
+    unter denen dort Kapazität gebucht werden kann,
+
+
+2.  einmal jährlich Angaben über Termine von Kapazitätsversteigerungen auf
+    der Kapazitätsbuchungsplattform, mindestens für die nächsten fünf
+    Jahre im Voraus,
+
+
+3.  Angaben zu den Erlösen aus der Vermarktung von Kapazitäten mittels
+    einer Auktionierung auf der Kapazitätsbuchungsplattform sowie
+
+
+4.  Angaben über die Ermittlung und Berechnung der Lastflusssimulation
+    sowie mindestens einmal jährlich eine Dokumentation der durchgeführten
+    kapazitätserhöhenden Maßnahmen und ihrer jeweiligen Kosten.
+
+
+
+Die Veröffentlichungspflichten der Fernleitungsnetzbetreiber nach
+Anhang I zur Verordnung (EG) Nr. 715/2009 bleiben unberührt.
+
+(6) Betreiber von Gasverteilernetzen sind ferner verpflichtet,
+folgende netzrelevanten Daten unverzüglich und in geeigneter Weise,
+zumindest auf ihrer Internetseite, zu veröffentlichen:
+
+1.  die Gasbeschaffenheit bezüglich des Brennwerts „H
+    s,n                   “ sowie am zehnten Werktag des Monats den
+    Abrechnungsbrennwert des Vormonats an allen Ein- und Ausspeisepunkten,
+
+
+2.  Regeln für den Anschluss anderer Anlagen und Netze an das vom
+    Netzbetreiber betriebene Netz sowie Regeln für den Zugang solcher
+    Anlagen und Netze zu dem vom Netzbetreiber betriebenen Netz,
+
+
+3.  im örtlichen Verteilnetz die zur Anwendung kommenden
+    Standardlastprofile sowie
+
+
+4.  im örtlichen Verteilnetz eine Karte, auf der schematisch erkennbar
+    ist, welche Bereiche in einem Gemeindegebiet an das örtliche
+    Gasverteilernetz angeschlossen sind.
+
+
+
+
+(7) Die Veröffentlichung der Angaben nach den Absätzen 1 bis 6 hat in
+einem gängigen Format zu erfolgen, für Angaben nach Absatz 5 ist zudem
+eine automatisierte Auslesung der veröffentlichten Daten von der
+Internetseite zu ermöglichen. Die Angaben nach den Absätzen 2, 3,
+Absatz 4 Nummer 7 und 8 sowie den Absätzen 5 und 6 sind bei Änderungen
+unverzüglich anzupassen, mindestens monatlich oder, falls es die
+Verfügbarkeit kurzfristiger Dienstleistungen erfordert, täglich.
+Fernleitungsnetzbetreiber haben die Angaben auf ihrer Internetseite
+zusätzlich in englischer Sprache zu veröffentlichen.
+
+
+#### § 23d Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu Energieversorgungsnetzen
+
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+Regelungen zur Veröffentlichung weiterer Daten zu den Kosten und
+Entgelten für den Zugang zu Gas- und Elektrizitätsversorgungsnetzen,
+einschließlich etwaiger Betriebs- und Geschäftsgeheimnisse, durch die
+Regulierungsbehörde, Unternehmen oder Vereinigungen von Unternehmen zu
+treffen, soweit die Veröffentlichung die Interessen der Betroffenen am
+Schutz ihrer Betriebs- und Geschäftsgeheimnisse nicht unangemessen
+beeinträchtigt und erforderlich ist für die Nachvollziehbarkeit der
+Regulierung, insbesondere des Effizienzvergleichs sowie der Kosten der
+Energiewende.
+
+
+#### § 24 Regelungen zu den Netzzugangsbedingungen, Entgelten für den Netzzugang sowie zur Erbringung und Beschaffung von Ausgleichsleistungen; Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
@@ -3904,7 +7741,9 @@ Zustimmung des Bundesrates
 1.  die Bedingungen für den Netzzugang einschließlich der Beschaffung und
     Erbringung von Ausgleichsleistungen oder Methoden zur Bestimmung
     dieser Bedingungen sowie Methoden zur Bestimmung der Entgelte für den
-    Netzzugang gemäß den §§ 20 bis 23 festzulegen,
+    Netzzugang gemäß den §§ 20 bis 23 festzulegen, wobei die Entgelte für
+    den Zugang zu Übertragungsnetzen teilweise oder vollständig auch
+    bundesweit einheitlich festgelegt werden können,
 
 
 2.  zu regeln, in welchen Fällen und unter welchen Voraussetzungen die
@@ -3914,7 +7753,13 @@ Zustimmung des Bundesrates
 
 3.  zu regeln, in welchen Sonderfällen der Netznutzung und unter welchen
     Voraussetzungen die Regulierungsbehörde im Einzelfall individuelle
-    Entgelte für den Netzzugang genehmigen oder untersagen kann und
+    Entgelte für den Netzzugang genehmigen oder untersagen kann und wie
+    Erstattungspflichten der Transportnetzbetreiber für entgangene Erlöse
+    von Betreibern nachgelagerter Verteilernetze, die aus individuellen
+    Netzentgelten für die Netznutzung folgen, ausgestaltet werden können
+    und wie die daraus den Transportnetzbetreibern entstehenden Kosten als
+    Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher
+    umgelegt werden können, sowie
 
 
 4.  zu regeln, in welchen Fällen die Regulierungsbehörde von ihren
@@ -3941,14 +7786,18 @@ Insbesondere können durch Rechtsverordnungen nach Satz 1
     festgelegt werden,
 
 
-3.  die Art sowie Ausgestaltung des Netzzugangs und der Beschaffung und
-    Erbringung von Ausgleichsleistungen einschließlich der hierfür
+3.  die Art sowie die Ausgestaltung des Netzzugangs und der Beschaffung
+    und Erbringung von Ausgleichsleistungen einschließlich der hierfür
     erforderlichen Verträge und Rechtsverhältnisse und des
-    Ausschreibungsverfahrens auch unter Abweichung von § 22 Abs. 2 Satz 2
-    festgelegt werden, die Bestimmungen der Verträge und die Ausgestaltung
-    der Rechtsverhältnisse einheitlich festgelegt werden sowie Regelungen
-    über das Zustandekommen und die Beendigung der Verträge und
-    Rechtsverhältnisse getroffen werden,
+    Ausschreibungsverfahrens auch unter Abweichung von § 22 Absatz 2 Satz
+    2 festgelegt werden, die Bestimmungen der Verträge und die
+    Ausgestaltung der Rechtsverhältnisse einheitlich festgelegt werden
+    sowie Regelungen über das Zustandekommen, den Inhalt und die
+    Beendigung der Verträge und Rechtsverhältnisse getroffen werden, wobei
+    insbesondere auch Vorgaben für die Verträge und Rechtsverhältnisse
+    zwischen Letztverbrauchern, Lieferanten und beteiligten
+    Bilanzkreisverantwortlichen bei der Erbringung von Regelleistung
+    gemacht werden können,
 
 
 3a. im Rahmen der Ausgestaltung des Netzzugangs zu den
@@ -3963,30 +7812,66 @@ Insbesondere können durch Rechtsverordnungen nach Satz 1
 
 
 4.  Regelungen zur Ermittlung der Entgelte für den Netzzugang getroffen
-    werden, wobei vorgesehen werden kann, dass insbesondere Kosten des
-    Netzbetriebs, die zuordenbar durch die Integration von dezentralen
-    Anlagen zur Erzeugung aus erneuerbaren Energiequellen verursacht
-    werden, bundesweit umgelegt werden können, und die Methode zur
-    Bestimmung der Entgelte so zu gestalten ist, dass eine Betriebsführung
-    nach § 21 Abs. 2 gesichert ist und die für die Betriebs- und
-    Versorgungssicherheit sowie die Funktionsfähigkeit der Netze
-    notwendigen Investitionen in die Netze gewährleistet sind und Anreize
-    zu netzentlastender Energieeinspeisung und netzentlastendem
-    Energieverbrauch gesetzt werden,
+    werden, wobei
+
+    a)  vorgesehen werden kann, dass insbesondere Kosten des Netzbetriebs, die
+        zuordenbar durch die Integration von dezentralen Anlagen zur Erzeugung
+        aus erneuerbaren Energiequellen verursacht werden, bundesweit umgelegt
+        werden können,
 
 
-5.  (weggefallen)
+    b)  vorzusehen ist, dass die Grundlage für die Ermittlung der Entgelte für
+        den Zugang zu den Übertragungsnetzen zwar getrennt für jeden
+        Übertragungsnetzbetreiber kostenorientiert nach § 21a ermittelt wird,
+        aber die Höhe der Entgelte für den Zugang zu den Übertragungsnetzen ab
+        dem 1. Januar 2019 teilweise und ab dem 1. Januar 2023 vollständig
+        bundesweit einheitlich festgelegt wird und Mehr- oder Mindererlöse,
+        die den Übertragungsnetzbetreiber dadurch entstehen, durch eine
+        finanzielle Verrechnung zwischen ihnen ausgeglichen oder bundesweit
+        umgelegt werden sowie der bundeseinheitliche Mechanismus hierfür näher
+        ausgestaltet wird,
+
+
+    c)  die Methode zur Bestimmung der Entgelte so zu gestalten ist, dass eine
+        Betriebsführung nach § 21 Absatz 2 gesichert ist und die für die
+        Betriebs- und Versorgungssicherheit sowie die Funktionsfähigkeit der
+        Netze notwendigen Investitionen in die Netze gewährleistet sind und
+        Anreize zu netzentlastender Energieeinspeisung und netzentlastendem
+        Energieverbrauch gesetzt werden, und
+
+
+    d)  vorgesehen werden kann, inwieweit Kosten, die auf Grundlage einer
+        Vereinbarung eines Betreibers von Übertragungsnetzen mit Dritten
+        entstehen, bei der Bestimmung der Netzkosten zu berücksichtigen sind,
+
+
+
+
+
+4a. Regelungen zur Steigerung der Kosteneffizienz von Maßnahmen für Netz-
+    und Systemsicherheit nach § 13 vorgesehen werden,
+
+
+5.  bei einer Regelung nach Satz 1 Nummer 3 vorsehen, dass ein
+    Belastungsausgleich entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-
+    Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch
+    Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert
+    worden ist, erfolgen kann, wobei dieser Belastungsausgleich mit der
+    Maßgabe erfolgen kann, dass sich das Netzentgelt für selbstverbrauchte
+    Strombezüge, die über 1 Gigawattstunde hinausgehen, an dieser
+    Abnahmestelle höchstens um 0,05 Cent je Kilowattstunde und für
+    Unternehmen des produzierenden Gewerbes, deren Stromkosten für
+    selbstverbrauchten Strom im vorangegangenen Geschäftsjahr 4 Prozent
+    des Umsatzes im Sinne von § 277 Absatz 1 des Handelsgesetzbuchs
+    überstiegen, für die über 1 Gigawattstunde hinausgehenden
+    selbstverbrauchten Strombezüge um höchstens 0,025 Cent je
+    Kilowattstunde erhöhen,
 
 
 6.  Regelungen darüber getroffen werden, welche netzbezogenen und sonst
     für ihre Kalkulation erforderlichen Daten die Betreiber von
     Energieversorgungsnetzen erheben und über welchen Zeitraum sie diese
-    aufbewahren müssen,
-
-
-7.  Regelungen für die Durchführung eines Vergleichsverfahrens nach § 21
-    Abs. 3 einschließlich der Erhebung der hierfür erforderlichen Daten
-    getroffen werden.
+    aufbewahren müssen.
 
 
 
@@ -4002,12 +7887,62 @@ Verringerung des Aufwandes für Regelenergie sowie in Abweichung von §
 22 Absatz 2 Satz 1 Bedingungen und Methoden für andere effiziente,
 transparente, diskriminierungsfreie und marktorientierte Verfahren zur
 Beschaffung von Regelenergie vorsehen. Regelungen nach Satz 2 Nr. 4
-und 5 können vorsehen, dass Entgelte nicht nur auf der Grundlage von
-Ausspeisungen, sondern ergänzend auch auf der Grundlage von
-Einspeisungen von Energie berechnet und in Rechnung gestellt werden,
-wobei bei Einspeisungen von Elektrizität aus dezentralen
-Erzeugungsanlagen auch eine Erstattung eingesparter Entgelte für den
-Netzzugang in den vorgelagerten Netzebenen vorzusehen ist.
+können nach Maßgabe des § 120 vorsehen, dass Entgelte nicht nur auf
+der Grundlage von Ausspeisungen, sondern ergänzend auch auf der
+Grundlage von Einspeisungen von Energie berechnet und in Rechnung
+gestellt werden, wobei bei Einspeisungen von Elektrizität aus
+dezentralen Erzeugungsanlagen auch eine Erstattung eingesparter
+Entgelte für den Netzzugang in den vorgelagerten Netzebenen vorgesehen
+werden kann.
+
+
+#### § 24a Schrittweise Angleichung der Übertragungsnetzentgelte, Bundeszuschüsse
+
+(1) Eine Rechtsverordnung nach § 24 Satz 2 Nummer 4 Buchstabe b zur
+schrittweisen bundesweit einheitlichen Festlegung der Netzentgelte der
+Übertragungsnetzbetreiber kann insbesondere
+
+1.  vorsehen, dass für einen schrittweise steigenden Anteil der
+    Übertragungsnetzkosten ein bundeseinheitlicher Netzentgeltanteil
+    bestimmt wird oder ein schrittweise größer werdender prozentualer
+    Aufschlag oder Abschlag auf die Netzentgelte der
+    Übertragungsnetzbetreiber erfolgt, bis ein bundeseinheitliches
+    Übertragungsnetzentgelt erreicht ist,
+
+
+2.  Entlastungsregelungen für die stromkostenintensive Industrie vorsehen,
+    sofern die Voraussetzung des § 118 Absatz 24 nicht eingetreten ist.
+
+
+
+
+(2) Mit Wirkung ab dem Jahr 2023 soll ein angemessener Zuschuss, den
+der Bund für ein Kalenderjahr zu den Kosten der
+Übertragungsnetzbetreiber mit Regelverantwortung zahlt, für das
+jeweilige Kalenderjahr mindernd in die Ermittlung der
+bundeseinheitlichen Übertragungsnetzentgelte einbezogen werden, die
+auf Grundlage der Rechtsverordnung nach § 24 Satz 2 Nummer 4 Buchstabe
+b erfolgt; die Rechtsverordnung soll bis zum 31. Dezember 2022
+entsprechend ergänzt werden. In der Rechtsverordnung nach § 24 Satz 2
+Nummer 4 Buchstabe b sollen nähere Bestimmungen getroffen werden, wie
+der Zuschuss bei der Ermittlung des bundeseinheitlichen
+Übertragungsnetzentgelts, das auf Grundlage der Erlösobergrenzen der
+Übertragungsnetzbetreiber mit Regelzonenverantwortung ermittelt wird,
+mindernd zu berücksichtigen ist. Dabei soll insbesondere auch geregelt
+werden, ob der Zuschuss des Bundes
+
+1.  rechnerisch von dem Gesamtbetrag der in die Ermittlung der
+    bundeseinheitlichen Übertragungsnetzentgelte einfließenden
+    Erlösobergrenzen oder darin enthaltener Kostenpositionen abgezogen
+    wird oder
+
+
+2.  vorrangig zur Deckung in der Rechtsverordnung näher bestimmter,
+    tatsächlicher Kostenpositionen der Übertragungsnetzbetreiber
+    anzusetzen ist.
+
+
+
 
 
 #### § 25 Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen
@@ -4021,27 +7956,27 @@ würden. Auf Antrag des betroffenen Gasversorgungsunternehmens
 entscheidet die Regulierungsbehörde, ob die vom Antragsteller
 nachzuweisenden Voraussetzungen des Satzes 1 vorliegen. Die Prüfung
 richtet sich nach Artikel 48 der Richtlinie 2009/73/EG (ABl. L 211 vom
-14\.8.2009, S. 94). Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die bei der Prüfung nach Artikel 48
-der Richtlinie 2009/73/EG anzuwendenden Verfahrensregeln festzulegen.
-In der Rechtsverordnung nach Satz 4 kann vorgesehen werden, dass eine
+14\.8.2009, S. 94). Das Bundesministerium für Wirtschaft und Energie
+wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, die bei der Prüfung nach Artikel 48 der Richtlinie
+2009/73/EG anzuwendenden Verfahrensregeln festzulegen. In der
+Rechtsverordnung nach Satz 4 kann vorgesehen werden, dass eine
 Entscheidung der Regulierungsbehörde, auch abweichend von den
 Vorschriften dieses Gesetzes, ergehen kann, soweit dies in einer
 Entscheidung der Kommission der Europäischen Gemeinschaften vorgesehen
 ist.
 
 
-#### § 26 Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Speicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas
+#### § 26 Zugang zu den vorgelagerten Rohrleitungsnetzen und zu Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas
 
 Der Zugang zu den vorgelagerten Rohrleitungsnetzen und zu
-Speicheranlagen erfolgt abweichend von den §§ 20 bis 24 auf
+Gasspeicheranlagen erfolgt abweichend von den §§ 20 bis 24 auf
 vertraglicher Grundlage nach Maßgabe der §§ 27 und 28.
 
 
 #### § 27 Zugang zu den vorgelagerten Rohrleitungsnetzen
 
-Betreiber von vorgelagerten Rohrleitungsnetzen haben anderen
+(1) Betreiber von vorgelagerten Rohrleitungsnetzen haben anderen
 Unternehmen das vorgelagerte Rohrleitungsnetz für Durchleitungen zu
 Bedingungen zur Verfügung zu stellen, die angemessen und nicht
 ungünstiger sind, als sie von ihnen in vergleichbaren Fällen für
@@ -4049,63 +7984,75 @@ Leistungen innerhalb ihres Unternehmens oder gegenüber verbundenen
 oder assoziierten Unternehmen tatsächlich oder kalkulatorisch in
 Rechnung gestellt werden. Dies gilt nicht, soweit der Betreiber
 nachweist, dass ihm die Durchleitung aus betriebsbedingten oder
-sonstigen Gründen unter Berücksichtigung der Ziele des § 1 nicht
+sonstigen Gründen unter Berücksichtigung des Zwecks des § 1 nicht
 möglich oder nicht zumutbar ist. Die Ablehnung ist in Textform zu
 begründen. Die Verweigerung des Netzzugangs nach Satz 2 ist nur
 zulässig, wenn einer der in Artikel 20 Abs. 2 Satz 3 Buchstabe a bis d
 der Richtlinie 2003/55/EG genannten Gründe vorliegt. Das
-Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-durch Rechtsverordnung mit Zustimmung des Bundesrates die Bedingungen
-des Zugangs zu den vorgelagerten Rohrleitungsnetzen und die Methoden
-zur Berechnung der Entgelte für den Zugang zu den vorgelagerten
-Rohrleitungsnetzen unter Berücksichtigung der Ziele des § 1
+Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Bedingungen des
+Zugangs zu den vorgelagerten Rohrleitungsnetzen und die Methoden zur
+Berechnung der Entgelte für den Zugang zu den vorgelagerten
+Rohrleitungsnetzen unter Berücksichtigung des Zwecks des § 1
 festzulegen.
 
+(2) Bei grenzüberschreitenden Streitigkeiten über den Zugang zu
+vorgelagerten Rohrleitungsnetzen konsultiert die Regulierungsbehörde
+betroffene Mitgliedstaaten und Drittstaaten nach Maßgabe des
+Verfahrens nach Artikel 34 Absatz 4 der Richtlinie 2009/73/EG in der
+Fassung der Richtlinie (EU) 2019/692 des Europäischen Parlaments und
+des Rates vom 17. April 2019 zur Änderung der Richtlinie 2009/73/EG
+des Europäischen Parlaments und des Rates vom 13. Juli 2009 über
+gemeinsame Vorschriften für den Erdgasbinnenmarkt und zur Aufhebung
+der Richtlinie 2003/55/EG (ABl. L 211 vom 14.8.2009, S. 94), die
+zuletzt durch die Richtlinie (EU) 2019/692 (ABl. L 117 vom 3.5.2019,
+S. 1) geändert worden ist.
 
-#### § 28 Zugang zu Speicheranlagen
 
-(1) Betreiber von Speicheranlagen haben anderen Unternehmen den Zugang
-zu ihren Speicheranlagen und Hilfsdiensten zu angemessenen und
-diskriminierungsfreien technischen und wirtschaftlichen Bedingungen zu
-gewähren, sofern der Zugang für einen effizienten Netzzugang im
-Hinblick auf die Belieferung der Kunden technisch oder wirtschaftlich
-erforderlich ist. Der Zugang zu einer Speicheranlage gilt als
-technisch oder wirtschaftlich erforderlich für einen effizienten
-Netzzugang im Hinblick auf die Belieferung von Kunden, wenn es sich
-bei der Speicheranlage um einen Untergrundspeicher, mit Ausnahme von
-unterirdischen Röhrenspeichern, handelt. Der Zugang ist im Wege des
-verhandelten Zugangs zu gewähren.
+#### § 28 Zugang zu Gasspeicheranlagen; Verordnungsermächtigung
 
-(2) Betreiber von Speicheranlagen können den Zugang nach Absatz 1
+(1) Betreiber von Gasspeicheranlagen haben anderen Unternehmen den
+Zugang zu ihren Gasspeicheranlagen und Hilfsdiensten zu angemessenen
+und diskriminierungsfreien technischen und wirtschaftlichen
+Bedingungen zu gewähren, sofern der Zugang für einen effizienten
+Netzzugang im Hinblick auf die Belieferung der Kunden technisch oder
+wirtschaftlich erforderlich ist. Der Zugang zu einer Gasspeicheranlage
+gilt als technisch oder wirtschaftlich erforderlich für einen
+effizienten Netzzugang im Hinblick auf die Belieferung von Kunden,
+wenn es sich bei der Gasspeicheranlage um einen Untergrundspeicher,
+mit Ausnahme von unterirdischen Röhrenspeichern, handelt. Der Zugang
+ist im Wege des verhandelten Zugangs zu gewähren.
+
+(2) Betreiber von Gasspeicheranlagen können den Zugang nach Absatz 1
 verweigern, soweit sie nachweisen, dass ihnen der Zugang aus
-betriebsbedingten oder sonstigen Gründen unter Berücksichtigung der
-Ziele des § 1 nicht möglich oder nicht zumutbar ist. Die Ablehnung ist
-in Textform zu begründen.
+betriebsbedingten oder sonstigen Gründen unter Berücksichtigung des
+Zwecks des § 1 nicht möglich oder nicht zumutbar ist. Die Ablehnung
+ist in Textform zu begründen.
 
-(3) Betreiber von Speicheranlagen sind verpflichtet, den Standort der
-Speicheranlage, Informationen über verfügbare Kapazitäten, darüber, zu
-welchen Speicheranlagen verhandelter Zugang zu gewähren ist, sowie
-ihre wesentlichen Geschäftsbedingungen für den Speicherzugang im
-Internet zu veröffentlichen. Dies betrifft insbesondere die
-verfahrensmäßige Behandlung von Speicherzugangsanfragen, die
-Beschaffenheit des zu speichernden Gases, die nominale
-Arbeitsgaskapazität, die Ein- und Ausspeicherungsperiode, soweit für
-ein Angebot der Betreiber von Speicheranlagen erforderlich, sowie die
-technisch minimal erforderlichen Volumen für die Ein- und
-Ausspeicherung. Die Betreiber von Speicheranlagen konsultieren bei der
-Ausarbeitung der wesentlichen Geschäftsbedingungen die Speichernutzer.
+(3) Betreiber von Gasspeicheranlagen sind verpflichtet, den Standort
+der Gasspeicheranlage, Informationen über verfügbare Kapazitäten,
+darüber, zu welchen Gasspeicheranlagen verhandelter Zugang zu gewähren
+ist, sowie ihre wesentlichen Geschäftsbedingungen für den
+Speicherzugang im Internet zu veröffentlichen. Dies betrifft
+insbesondere die verfahrensmäßige Behandlung von
+Speicherzugangsanfragen, die Beschaffenheit des zu speichernden Gases,
+die nominale Arbeitsgaskapazität, die Ein- und Ausspeicherungsperiode,
+soweit für ein Angebot der Betreiber von Gasspeicheranlagen
+erforderlich, sowie die technisch minimal erforderlichen Volumen für
+die Ein- und Ausspeicherung. Die Betreiber von Gasspeicheranlagen
+konsultieren bei der Ausarbeitung der wesentlichen
+Geschäftsbedingungen die Speichernutzer.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-technischen und wirtschaftlichen Bedingungen sowie die inhaltliche
-Gestaltung der Verträge über den Zugang zu den Speicheranlagen zu
-regeln.
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die technischen
+und wirtschaftlichen Bedingungen sowie die inhaltliche Gestaltung der
+Verträge über den Zugang zu den Gasspeicheranlagen zu regeln.
 
 
 #### § 28a Neue Infrastrukturen
 
 (1) Verbindungsleitungen zwischen Deutschland und anderen Staaten oder
-LNG- und Speicheranlagen können von der Anwendung der §§ 8 bis 10e
+LNG- und Gasspeicheranlagen können von der Anwendung der §§ 8 bis 10e
 sowie §§ 20 bis 28 befristet ausgenommen werden, wenn
 
 1.  durch die Investition der Wettbewerb bei der Gasversorgung und die
@@ -4126,10 +8073,12 @@ sowie §§ 20 bis 28 befristet ausgenommen werden, wenn
 4.  von den Nutzern dieser Infrastruktur Entgelte erhoben werden und
 
 
-5.  die Ausnahme sich nicht nachteilig auf den Wettbewerb oder das
-    effektive Funktionieren des Erdgasbinnenmarktes oder das effiziente
-    Funktionieren des regulierten Netzes auswirkt, an das die
-    Infrastruktur angeschlossen ist.
+5.  die Ausnahme sich nicht nachteilig auf den Wettbewerb auf den
+    jeweiligen Märkten, die wahrscheinlich von der Investition betroffen
+    sein werden, auf das effiziente Funktionieren des Erdgasbinnenmarktes,
+    auf das effiziente Funktionieren der betroffenen regulierten Netze
+    oder auf die Erdgasversorgungssicherheit der Europäischen Union
+    auswirkt.
 
 
 
@@ -4144,18 +8093,561 @@ ermöglichen.
 (3) Auf Antrag des betroffenen Gasversorgungsunternehmens entscheidet
 die Regulierungsbehörde, ob die vom Antragsteller nachzuweisenden
 Voraussetzungen nach Absatz 1 oder 2 vorliegen. Die Prüfung und das
-Verfahren richten sich nach Artikel 36 Absatz 6 bis 9 der Richtlinie
-2009/73/EG. Soweit nach Artikel 36 Absatz 4 und 5 der Richtlinie
-2009/73/EG eine Beteiligung der Agentur für die Zusammenarbeit der
-Energieregulierungsbehörden vorgesehen ist, leitet die
-Regulierungsbehörde dieses Verfahren ein. Die Regulierungsbehörde hat
-eine Entscheidung über einen Antrag nach Satz 1 nach Maßgabe einer
-endgültigen Entscheidung der Kommission nach Artikel 36 Absatz 9 der
-Richtlinie 2009/73/EG zu ändern oder aufzuheben; die §§ 48 und 49 des
+Verfahren richten sich nach Artikel 36 Absatz 3 bis 9 der Richtlinie
+2009/73/EG. Die Regulierungsbehörde hat eine Entscheidung über einen
+Antrag nach Satz 1 nach Maßgabe einer endgültigen Entscheidung der
+Kommission nach Artikel 36 Absatz 9 der Richtlinie 2009/73/EG zu
+ändern oder aufzuheben; die §§ 48 und 49 des
 Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 (4) Die Entscheidungen werden von der Regulierungsbehörde auf ihrer
 Internetseite veröffentlicht.
+
+
+#### § 28b Bestandsleitungen zwischen Deutschland und einem Drittstaat
+
+(1) Gasverbindungsleitungen mit einem Drittstaat im Sinne des Artikels
+49a der Richtlinie 2009/73/EG, die vor dem 23. Mai 2019 fertiggestellt
+wurden, werden von der Regulierungsbehörde auf Antrag des Betreibers
+dieser Gasverbindungsleitung in Bezug auf die im Hoheitsgebiet
+Deutschlands befindlichen Leitungsabschnitte von der Anwendung der §§
+8 bis 10e sowie der §§ 20 bis 28 befristet freigestellt, wenn
+
+1.  der erste Kopplungspunkt der Leitung mit dem Netz eines
+    Mitgliedstaates in Deutschland liegt,
+
+
+2.  objektive Gründe für eine Freistellung vorliegen, insbesondere
+
+    a)  die Ermöglichung der Amortisierung der getätigten Investitionen oder
+
+
+    b)  Gründe der Versorgungssicherheit, und
+
+
+
+
+
+3.  die Freistellung sich nicht nachteilig auf den Wettbewerb auf dem
+    Erdgasbinnenmarkt in der Europäischen Union und dessen effektives
+    Funktionieren auswirkt und die Versorgungssicherheit in der
+    Europäischen Union nicht beeinträchtigt wird.
+
+
+
+Satz 1 ist nicht anzuwenden auf Fernleitungen mit Drittstaaten, die im
+Rahmen einer mit der Europäischen Union geschlossenen Vereinbarung zur
+Umsetzung der Richtlinie 2009/73/EG verpflichtet sind und diese
+Richtlinie wirksam umgesetzt haben.
+
+(2) Der Antragsteller hat dem Antrag alle zur Prüfung des Antrags
+erforderlichen Unterlagen beizufügen. Mit dem Antrag sind zum Nachweis
+der Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 und 3 Gutachten
+einzureichen, die durch fachkundige und unabhängige Sachverständige
+erstellt worden sein müssen. Die Gutachten sollen insbesondere zu der
+Frage Stellung nehmen, ob Nebenbestimmungen nach Absatz 7 zur
+Einhaltung der Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 und 3
+beitragen können. Die Fachkunde und Unabhängigkeit der
+Sachverständigen sind im Rahmen der Antragstellung gesondert
+nachzuweisen. Der Antrag und die für die Entscheidung erforderlichen
+Nachweise müssen spätestens 30 Tage nach dem 12. Dezember 2019 bei der
+Regulierungsbehörde eingehen. Verspätet eingereichte oder
+unvollständige Antragsunterlagen können zur Ablehnung des Antrags
+führen. Die Antragsunterlagen sind der Regulierungsbehörde auf
+Anforderung auch elektronisch zur Verfügung zu stellen.
+
+(3) Die Entscheidung über den Antrag auf Freistellung nach Absatz 1
+Satz 1 ist bis zum 24. Mai 2020 zu treffen.
+
+(4) Die Dauer der Freistellung nach Absatz 1 Satz 1 bemisst sich nach
+den objektiven Gründen nach Absatz 1 Satz 1 Nummer 3. Sie darf 20
+Jahre nicht überschreiten.
+
+(5) Die Freistellung nach Absatz 1 Satz 1 kann auf Antrag über die
+Dauer nach Absatz 4 hinaus verlängert werden, wenn dies nach Absatz 1
+Satz 1 Nummer 2 und 3 gerechtfertigt ist. Absatz 2 Satz 1 bis 4, 6 und
+7 ist entsprechend anzuwenden. Der Antrag auf Verlängerung und die für
+die Entscheidung erforderlichen Nachweise müssen spätestens ein Jahr
+vor Ablauf der Freistellungsregelung bei der Regulierungsbehörde
+eingegangen sein.
+
+(6) Das Verfahren richtet sich im Übrigen nach Artikel 49a Absatz 2
+der Richtlinie 2009/73/EG.
+
+(7) Entscheidungen über Anträge auf Freistellung nach Absatz 1 Satz 1
+oder auf Verlängerung der Freistellung nach Absatz 5 Satz 1 können mit
+Nebenbestimmungen versehen werden, die zur Einhaltung der
+Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 und 3 erforderlich sind.
+Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
+
+(8) Entscheidungen über Anträge auf Freistellung nach Absatz 1 Satz 1
+oder auf Verlängerung der Freistellung nach Absatz 5 Satz 1 sind von
+der Regulierungsbehörde an die Kommission zu übermitteln und auf der
+Internetseite der Regulierungsbehörde zu veröffentlichen.
+
+
+#### § 28c Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten
+
+Betreiber von Fernleitungsnetzen können technische Vereinbarungen über
+den Betrieb von Fernleitungen mit Fernleitungsnetzbetreibern in
+Drittstaaten abschließen, sofern diese deutschem oder europäischem
+Recht nicht widersprechen. Bestehende und neu abgeschlossene
+Vereinbarungen sind der Regulierungsbehörde anzuzeigen.
+
+
+### Abschnitt 3a - Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+
+
+
+#### § 28d Anwendungsbereich
+
+Die Vorschriften dieses Abschnitts sind für grenzüberschreitende
+Elektrizitätsverbindungsleitungen eines selbstständigen Betreibers
+anzuwenden, die Bestandteil eines durch die Bundesnetzagentur nach
+§ 12c Absatz 4 Satz 1, Absatz 1 Satz 1 in Verbindung mit § 12b Absatz
+1, 2 und 4 bestätigten Netzentwicklungsplans sind.
+
+
+#### § 28e Grundsätze der Netzkostenermittlung
+
+Für die Ermittlung der Netzkosten für die Errichtung und den Betrieb
+von grenzüberschreitenden Elektrizitätsverbindungsleitungen sind die
+Grundsätze des § 21 Absatz 2 anzuwenden.
+
+
+#### § 28f Feststellung der Netzkosten durch die Bundesnetzagentur
+
+(1) Die Bundesnetzagentur stellt auf Antrag die Höhe der Netzkosten
+des selbstständigen Betreibers von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen für ein abgelaufenes Kalenderjahr
+fest. Die Feststellung erfolgt nach Maßgabe des § 28e und der in § 28i
+Absatz 1 Nummer 1 genannten Rechtsverordnung. Bei der Feststellung
+kann die Bundesnetzagentur nachweislich vorliegende wirtschaftliche,
+technische oder betriebliche Besonderheiten bei der Errichtung oder
+dem Betrieb von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen berücksichtigen.
+
+(2) Der selbstständige Betreiber von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen hat die Feststellung für ein
+abgelaufenes Kalenderjahr spätestens sechs Monate nach dem Ablauf des
+entsprechenden Kalenderjahres schriftlich oder elektronisch zu
+beantragen. Der Antrag muss alle für eine Prüfung erforderlichen
+Unterlagen einschließlich einer nachvollziehbaren Darlegung über die
+Höhe der Netzkosten enthalten. Zur Darlegung der Höhe der Netzkosten
+ist insbesondere für jede grenzüberschreitende
+Elektrizitätsverbindungsleitung ein separater Tätigkeitsabschluss
+vorzulegen. § 6b Absatz 1 bis 3 und Absatz 5 bis 7 ist entsprechend
+anzuwenden. Auf Verlangen der Regulierungsbehörde hat der
+Antragsteller die Unterlagen elektronisch zu übermitteln. Die
+Regulierungsbehörde kann die Vorlage weiterer Angaben oder Unterlagen
+verlangen, soweit sie diese für ihre Prüfung benötigt.
+
+(3) Bei der Feststellung geht die Bundesnetzagentur von einer
+gleichmäßigen Tragung der Kosten für die Errichtung und den Betrieb
+grenzüberschreitender Elektrizitätsverbindungsleitungen zwischen den
+Ländern aus, die mittels einer grenzüberschreitenden
+Elektrizitätsverbindungsleitung verbunden sind, soweit nicht eine
+abweichende Vereinbarung zwischen diesen Ländern getroffen wurde. Eine
+von der Kostentragung zu gleichen Teilen abweichende Aufteilung der
+Kosten bedarf einer Vereinbarung zwischen der Bundesnetzagentur und
+den zuständigen Regulierungsbehörden der betroffenen Mitgliedstaaten
+oder Drittstaaten.
+
+
+#### § 28g Zahlungsanspruch zur Deckung der Netzkosten
+
+(1) Dem selbstständigen Betreiber von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen steht jährlich ein Zahlungsanspruch
+gegen den Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+zu, an dessen Netz die grenzüberschreitenden
+Elektrizitätsverbindungsleitungen angeschlossen sind. Die Höhe des
+Zahlungsanspruchs richtet sich nach den zu erwartenden
+anerkennungsfähigen Netzkosten der grenzüberschreitenden
+Elektrizitätsverbindungsleitung für das folgende Kalenderjahr und dem
+Saldo nach Absatz 3. Mindestens sechs Monate vor Beginn des jeweiligen
+Kalenderjahres übermittelt der selbstständige Betreiber von
+grenzüberschreitenden Elektrizitätsverbindungsleitungen dem
+betroffenen Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung eine nachvollziehbare Prognose über die Höhe
+der Kosten nach Satz 2 sowie einen Nachweis über die festgestellten
+Kosten nach Absatz 3. Die Regelung des § 28f Absatz 3 ist auf die zu
+erwartenden Kosten nach Satz 2 entsprechend anzuwenden.
+
+(2) Der Zahlungsanspruch entsteht mit Beginn des Kalenderjahres. Er
+ist in zwölf monatlichen Raten zu erfüllen, die jeweils am 15. des
+Folgemonats fällig werden.
+
+(3) Der in Höhe des durchschnittlich gebundenen Kapitals verzinste
+Saldo der nach § 28f Absatz 1 festgestellten Netzkosten eines
+Kalenderjahres und der für dieses Kalenderjahr an den selbstständigen
+Betreiber einer grenzüberschreitenden Elektrizitätsverbindungsleitung
+nach Absatz 1 ausgezahlten Summe ist im auf die Feststellung folgenden
+oder im nächstmöglichen Kalenderjahr unter Verzinsung durch
+gleichmäßige Auf- oder Abschläge auf die Raten nach Absatz 2 Satz 2 zu
+verrechnen. Der durchschnittlich gebundene Betrag ergibt sich aus dem
+Mittelwert von Jahresanfangs- und Jahresendbestand. Die Verzinsung
+nach Satz 1 richtet sich nach dem auf die letzten zehn abgeschlossenen
+Kalenderjahre bezogenen Durchschnitt der von der Deutschen Bundesbank
+veröffentlichten Umlaufrendite festverzinslicher Wertpapiere
+inländischer Emittenten.
+
+(4) Ist eine grenzüberschreitende Elektrizitätsverbindungsleitung
+eines selbstständigen Betreibers an die Netze mehrerer Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung angeschlossen, hat
+jeder einzelne von ihnen nur den Anteil der nach § 28f festgestellten
+Netzkosten auszuzahlen, der auf seine Regelzone entfällt.
+
+(5) Der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+bringt die Kosten, die ihm durch die Erfüllung des Zahlungsanspruchs
+nach Absatz 1 entstehen, nach Maßgabe der Rechtsverordnung nach § 28i
+Absatz 1 Nummer 2 Buchstabe a, als Teil seiner Erlösobergrenze in die
+Netzentgeltbildung ein.
+
+
+#### § 28h Anspruch auf Herausgabe von Engpasserlösen
+
+(1) Der selbstständige Betreiber von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen ist verpflichtet, die in einem
+Kalenderjahr eingenommenen Erlöse aus der Bewirtschaftung von
+Engpässen in Höhe der Quote nach § 28f Absatz 3 zur Verwendung im
+Sinne von Artikel 19 Absatz 2 und 3 der Verordnung (EU) 2019/943 an
+den nach § 28g Absatz 1 zahlungspflichtigen Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung herauszugeben. Durch
+den Erhalt oder die Verwendung der nach Satz 1 herausgegebenen
+Engpasserlöse darf den Betreibern von Übertragungsnetzen mit
+Regelzonenverantwortung weder ein wirtschaftlicher Vorteil noch ein
+wirtschaftlicher Nachteil erwachsen; insbesondere sind sie bei der
+Berechnung des zu verzinsenden eingesetzten Kapitals nach § 21 Absatz
+2 so zu stellen, als hätten sie die Engpasserlöse nicht erhalten.
+
+(2) Der sich aus der Pflicht nach Absatz 1 ergebende Anspruch des
+regelzonenverantwortlichen Übertragungsnetzbetreibers wird mit Beginn
+des Jahres fällig, welches auf das Jahr folgt, in dem der
+selbstständige Betreiber von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen die Engpasserlöse erzielt hat.
+
+(3) Der selbstständige Betreiber von grenzüberschreitenden
+Elektrizitätsverbindungsleitungen teilt der Bundesnetzagentur und dem
+Betreiber von Übertragungsnetzen mit Regelzonenverantwortung jährlich
+spätestens bis zum 30. September eines Jahres die voraussichtliche
+Höhe der im laufenden Kalenderjahr vereinnahmten Erlöse aus Engpässen
+mit.
+
+(4) Sind mehrere Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung gegenüber dem selbstständigen Betreiber von
+grenzüberschreitenden Elektrizitätsverbindungsleitungen nach § 28g
+Absatz 4 zahlungspflichtig, hat jeder einzelne von ihnen nur Anspruch
+auf die Herausgabe des auf seine Regelzone entfallenden Anteils der
+Engpasserlöse.
+
+
+#### § 28i Verordnungsermächtigung
+
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates
+
+1.  die Methode zur Berechnung der Netzkosten des selbstständigen
+    Betreibers von grenzüberschreitenden Elektrizitätsverbindungsleitungen
+    den Grundsätzen des § 28e entsprechend festzulegen,
+
+
+2.  zu bestimmen, dass als dauerhaft nicht beeinflussbare Kostenanteile im
+    Sinne von § 21a Absatz 4 anzusehen sind
+
+    a)  Kosten des Betreibers von Übertragungsnetzen mit
+        Regelzonenverantwortung aus der Erfüllung des Zahlungsanspruchs nach §
+        28g sowie
+
+
+    b)  Erlöse des Betreibers von Übertragungsnetzen mit
+        Regelzonenverantwortung aus der Erfüllung des Anspruchs auf Herausgabe
+        von Engpasserlösen nach § 28h,
+
+
+
+
+
+3.  zu regeln, dass Kosten nach Nummer 2 Buchstabe a abweichend von § 24
+    Satz 2 Nummer 4 bereits ab dem 27. Juli 2021 vollständig in den
+    bundeseinheitlich gebildeten Anteil der Übertragungsnetzentgelte
+    einzubeziehen sind,
+
+
+4.  einen Verteilungsschlüssel vorzusehen, aus dem sich ergibt, zu welchem
+    Anteil mehrere Betreiber von Übertragungsnetzen mit
+    Regelzonenverantwortung nach § 28g Absatz 4 zahlungspflichtig und nach
+    § 28h Absatz 4 herausgabeberechtigt sind.
+
+
+
+
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren
+und die Anforderungen an die nach § 28f Absatz 2 Satz 2 vorzulegenden
+Unterlagen näher auszugestalten.
+
+
+### Abschnitt 3b - Regulierung von Wasserstoffnetzen
+
+
+
+#### § 28j Anwendungsbereich der Regulierung von Wasserstoffnetzen
+
+(1) Auf Errichtung, Betrieb und Änderung von Wasserstoffnetzen sind
+die Teile 5, 7 und 8, die §§ 113a bis 113c sowie, sofern der Betreiber
+eine wirksame Erklärung nach Absatz 3 gegenüber der Bundesnetzagentur
+abgegeben hat, die §§ 28k bis 28q anzuwenden. Im Übrigen ist dieses
+Gesetz nur anzuwenden, sofern dies ausdrücklich bestimmt ist.
+
+(2) § 28n ist für die Betreiber von Wasserstoffspeicheranlagen
+entsprechend anzuwenden, sofern der Betreiber eine Erklärung
+entsprechend Absatz 3 Satz 1 gegenüber der Bundesnetzagentur abgegeben
+hat. § 28j Absatz 3 Satz 3 und 4 ist entsprechend anzuwenden.
+
+(3) Betreiber von Wasserstoffnetzen können gegenüber der
+Bundesnetzagentur schriftlich oder durch Übermittlung in
+elektronischer Form erklären, dass ihre Wasserstoffnetze der
+Regulierung nach diesem Teil unterfallen sollen. Die Erklärung wird
+wirksam, wenn erstmalig eine positive Prüfung der Bedarfsgerechtigkeit
+nach § 28p vorliegt. Die Erklärung ist unwiderruflich und gilt ab dem
+Zeitpunkt der Wirksamkeit unbefristet für alle Wasserstoffnetze des
+erklärenden Betreibers. Die Bundesnetzagentur veröffentlicht die Liste
+der regulierten Betreiber von Wasserstoffnetzen auf ihrer
+Internetseite.
+
+(4) Betreiber von Wasserstoffnetzen sind verpflichtet, untereinander
+in dem Ausmaß zusammenzuarbeiten, das erforderlich ist, um eine
+betreiberübergreifende Leitungs- und Speicherinfrastruktur für
+Wasserstoff sowie deren Nutzung durch Dritte zu realisieren.
+
+
+#### § 28k Rechnungslegung und Buchführung
+
+(1) Betreiber von Wasserstoffnetzen haben, auch wenn sie nicht in der
+Rechtsform einer Kapitalgesellschaft oder Personenhandelsgesellschaft
+im Sinne des § 264a Absatz 1 des Handelsgesetzbuchs betrieben werden,
+einen Jahresabschluss und Lagebericht nach den für
+Kapitalgesellschaften geltenden Vorschriften des Ersten, Dritten und
+Vierten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs des
+Handelsgesetzbuchs aufzustellen, prüfen zu lassen und offenzulegen.
+§ 264 Absatz 3 und § 264b des Handelsgesetzbuchs sind insoweit nicht
+anzuwenden. § 6b Absatz 1 Satz 2, Absatz 2, 6 und 7 ist entsprechend
+anzuwenden.
+
+(2) Betreiber von Wasserstoffnetzen, die neben dem Betrieb von
+Wasserstoffnetzen weitere Tätigkeiten ausüben, haben zur Vermeidung
+von Diskriminierung und Quersubventionierung in ihrer internen
+Rechnungslegung ein eigenes Konto für die Tätigkeit des Betriebs von
+Wasserstoffnetzen so zu führen, wie dies erforderlich wäre, wenn diese
+Tätigkeit von rechtlich selbständigen Unternehmen ausgeführt würde.
+Tätigkeit im Sinne dieser Bestimmung ist auch die wirtschaftliche
+Nutzung eines Eigentumsrechts. Mit der Aufstellung des
+Jahresabschlusses ist für den Betrieb von Wasserstoffnetzen ein den in
+Absatz 1 Satz 1 genannten Vorschriften entsprechender
+Tätigkeitsabschluss aufzustellen und dem Abschlussprüfer des
+Jahresabschlusses zur Prüfung vorzulegen. § 6b Absatz 3 bis 7 ist
+entsprechend anzuwenden.
+
+
+#### § 28l Ordnungsgeldvorschriften
+
+(1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des
+Handelsgesetzbuchs sind auf die Verletzung der Pflichten zur
+Offenlegung des Jahresabschlusses und Lageberichts nach § 28k Absatz 1
+Satz 1 oder des Tätigkeitsabschlusses nach § 28k Absatz 2 Satz 4 in
+Verbindung mit § 6b Absatz 4 entsprechend anzuwenden. § 6c Absatz 1
+Satz 2 bis 4 ist entsprechend anzuwenden.
+
+(2) Die Bundesnetzagentur übermittelt dem Betreiber des
+Bundesanzeigers einmal pro Kalenderjahr Name und Anschrift der ihr
+bekanntwerdenden Unternehmen, die
+
+1.  nach § 28k Absatz 1 Satz 1 zur Offenlegung eines Jahresabschlusses und
+    Lageberichts verpflichtet sind;
+
+
+2.  nach § 28k Absatz 2 Satz 4 in Verbindung mit § 6b Absatz 4 zur
+    Offenlegung eines Tätigkeitsabschlusses verpflichtet sind.
+
+
+
+
+
+#### § 28m Entflechtung
+
+(1) Betreiber von Wasserstoffnetzen sind zur Gewährleistung von
+Transparenz sowie diskriminierungsfreier Ausgestaltung und Abwicklung
+des Netzbetriebs verpflichtet. Um dieses Ziel zu erreichen, haben sie
+die Unabhängigkeit des Netzbetriebs von der Wasserstofferzeugung, der
+Wasserstoffspeicherung sowie vom Wasserstoffvertrieb sicherzustellen.
+Betreibern von Wasserstoffnetzen ist es nicht gestattet, Eigentum an
+Anlagen zur Wasserstofferzeugung, zur Wasserstoffspeicherung oder zum
+Wasserstoffvertrieb zu halten oder diese zu errichten oder zu
+betreiben.
+
+(2) Unbeschadet gesetzlicher Verpflichtungen zur Offenbarung von
+Informationen haben Betreiber von Wasserstoffnetzen sicherzustellen,
+dass die Vertraulichkeit wirtschaftlich sensibler Informationen
+gewahrt wird, von denen sie in Ausübung ihrer Geschäftstätigkeit
+Kenntnis erlangen. Legen Betreiber von Wasserstoffnetzen Informationen
+über die eigenen Tätigkeiten offen, haben sie zu gewährleisten, dass
+dies diskriminierungsfrei erfolgt. Sie haben insbesondere
+sicherzustellen, dass wirtschaftlich sensible Informationen gegenüber
+verbundenen Unternehmen vertraulich behandelt werden.
+
+
+#### § 28n Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung
+
+(1) Betreiber von Wasserstoffnetzen haben Dritten den Anschluss und
+den Zugang zu ihren Wasserstoffnetzen zu angemessenen und
+diskriminierungsfreien Bedingungen zu gewähren, sofern der Anschluss
+oder der Zugang für Dritte erforderlich sind. Der Netzzugang,
+einschließlich der damit zusammenhängenden Aspekte des
+Netzanschlusses, ist im Wege des verhandelten Zugangs zu gewähren.
+
+(2) Betreiber von Wasserstoffnetzen können den Anschluss oder den
+Zugang verweigern, soweit sie nachweisen, dass ihnen der Anschluss
+oder der Zugang aus betriebsbedingten oder sonstigen wirtschaftlichen
+oder technischen Gründen nicht möglich oder nicht zumutbar ist. Die
+Ablehnung ist in Textform zu begründen.
+
+(3) Die Betreiber von Wasserstoffnetzen sind verpflichtet, ihre
+geltenden Geschäftsbedingungen für den Netzzugang auf der
+Internetseite des jeweiligen Betreibers zu veröffentlichen. Dies
+umfasst insbesondere
+
+1.  die Entgelte für den Netzzugang,
+
+
+2.  die verfahrensmäßige Behandlung von Netzzugangsanfragen.
+
+
+
+Auf Anfrage haben die Betreiber von Wasserstoffnetzen Angaben über die
+für die Dauer des begehrten Netzzugangs nutzbaren Kapazitäten und
+absehbaren Engpässe zu machen sowie ausreichende Informationen an den
+Zugangsbegehrenden zu übermitteln, damit der Transport, die Entnahme
+oder die Einspeisung von Wasserstoff unter Gewährleistung eines
+sicheren und leistungsfähigen Betriebs des Wasserstoffnetzes
+durchgeführt werden kann.
+
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates
+
+1.  Vorschriften über die technischen und wirtschaftlichen Bedingungen für
+    den Anschluss und Zugang zu den Wasserstoffnetzen einschließlich der
+    Regelungen zum Ausgleich des Wasserstoffnetzes zu erlassen und
+
+
+2.  zu regeln, in welchen Fällen und unter welchen Voraussetzungen die
+    Regulierungsbehörde diese Bedingungen festlegen oder auf Antrag des
+    Netzbetreibers genehmigen kann.
+
+
+
+
+
+#### § 28o Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung
+
+(1) Für die Bedingungen und Entgelte für den Netzzugang zu
+Wasserstoffnetzen ist § 21 nach Maßgabe der Sätze 2 bis 5 entsprechend
+anzuwenden. Die Anreizregulierung nach § 21a sowie die Genehmigung von
+Entgelten nach § 23a ist auf Betreiber von Wasserstoffnetzen nicht
+anzuwenden. Ihre Kosten werden jährlich anhand der zu erwartenden
+Kosten für das folgende Kalenderjahr sowie der Differenz zwischen den
+erzielten Erlösen und den tatsächlichen Kosten aus Vorjahren ermittelt
+und über Entgelte erlöst. Kosten dürfen nur insoweit geltend gemacht
+werden, als eine positive Bedarfsprüfung nach § 28p vorliegt. Die
+Kosten nach Satz 3 werden durch die Bundesnetzagentur nach § 29 Absatz
+1 festgelegt oder genehmigt.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates
+
+1.  die Bedingungen und Methoden zur Ermittlung der Kosten und Entgelte
+    nach Absatz 1 näher auszugestalten sowie
+
+
+2.  Regelungen darüber zu treffen, welche netzbezogenen und sonst für die
+    Kalkulation der Kosten erforderlichen Daten die Betreiber von
+    Wasserstoffnetzen erheben und für welchen Zeitraum sie diese
+    aufbewahren müssen.
+
+
+
+
+
+#### § 28p Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen
+
+(1) Die Betreiber von Wasserstoffnetzen haben der Bundesnetzagentur
+schriftlich oder durch Übermittlung in elektronischer Form die
+Unterlagen vorzulegen, die für die Prüfung der Bedarfsgerechtigkeit
+von einzelnen Wasserstoffnetzinfrastrukturen erforderlich sind. Die
+Bundesnetzagentur kann die Vorlage ergänzender Unterlagen anfordern.
+
+(2) Grundlage der Prüfung der Bedarfsgerechtigkeit der
+Wasserstoffnetzinfrastrukturen durch die Bundesnetzagentur ist
+insbesondere ein zwischen Netznutzer und Netzbetreiber abgestimmter
+Realisierungsfahrplan bezüglich der Wasserstoffinfrastruktur im Rahmen
+eines verhandelten Netzzugangs. Die Prüfung der Bedarfsgerechtigkeit
+nach Satz 1 umfasst auch die Feststellung der energiewirtschaftlichen
+Notwendigkeit der Wasserstoffnetzinfrastruktur.
+
+(3) Bei Wasserstoffnetzinfrastruktur, für die ein positiver
+Förderbescheid nach den Förderkriterien der nationalen
+Wasserstoffstrategie der Bundesregierung ergangen ist, liegt in der
+Regel eine Bedarfsgerechtigkeit vor. Gleiches ist anzuwenden bezüglich
+einer möglichen Wasserstoffnetzinfrastruktur, die im Zusammenhang mit
+der Festlegung von sonstigen Energiegewinnungsbereichen im Sinne des
+§ 3 Nummer 8 des Windenergie-auf-See-Gesetzes entsteht.
+
+(4) Im Fall der Umstellung einer Erdgasinfrastruktur im
+Fernleitungsnetz muss bezüglich der umzustellenden
+Wasserstoffnetzinfrastruktur nachgewiesen worden sein, dass die
+Erdgasinfrastruktur aus dem Fernleitungsnetz herausgenommen werden
+kann.
+
+(5) Die Bundesnetzagentur hat über die Bedarfsgerechtigkeit der
+Wasserstoffnetzinfrastruktur innerhalb von vier Monaten nach Eingang
+der in Absatz 1 genannten Informationen zu entscheiden. Ist nach
+Ablauf der Frist nach Satz 1 keine Entscheidung der Bundesnetzagentur
+erfolgt, ist die Bedarfsgerechtigkeit als gegeben anzusehen.
+
+
+#### § 28q Bericht zur erstmaligen Erstellung des Netzentwicklungsplans Wasserstoff
+
+(1) Die Betreiber von Wasserstoffnetzen, die eine Erklärung nach § 28j
+Absatz 3 abgegeben haben, und die Betreiber von Fernleitungsnetzen
+haben der Bundesnetzagentur in jedem geraden Kalenderjahr erstmals
+drei Monate nach Vorlage des Netzentwicklungsplans Gas im Jahr 2022,
+spätestens aber zum 1. September 2022, gemeinsam einen Bericht zum
+aktuellen Ausbaustand des Wasserstoffnetzes und zur Entwicklung einer
+zukünftigen Netzplanung Wasserstoff mit dem Zieljahr 2035 vorzulegen.
+Betreiber von Wasserstoffnetzen, die keine Erklärung nach § 28j Absatz
+3 abgegeben haben, sind verpflichtet, mit den nach Satz 1
+verpflichteten Betreibern von Wasserstoffnetzen in dem Umfang
+zusammenzuarbeiten, der erforderlich ist, um eine sachgerechte
+Erstellung dieses Berichts zu gewährleisten; sie sind insbesondere
+verpflichtet, den nach Satz 1 verpflichteten Betreibern von
+Wasserstoffnetzen die für die Erstellung des Berichts erforderlichen
+Informationen unverzüglich zur Verfügung zu stellen.
+
+(2) Der Bericht umfasst mögliche Kriterien zur Berücksichtigung von
+Wasserstoff-Projekten sowie Anforderungen zur Ermittlung von
+Ausbaumaßnahmen. Diese Kriterien enthalten insbesondere die
+Anforderungen einer zukünftigen Bestimmung von Standorten für Power-
+to-Gas-Anlagen sowie Aufkommensquellen und Abnahmeregionen für
+Wasserstoff, wobei auch Wasserstoffspeicheranlagen zu berücksichtigen
+sind. In dem Bericht wird auch auf etwaige Wechselwirkungen und
+Schnittstellen mit dem Netzentwicklungsplan Gas der
+Fernleitungsnetzbetreiber einschließlich der notwendigen Umrüstung von
+Erdgasleitungen sowie auf etwaige Wechselwirkungen und Schnittstellen
+mit dem Netzentwicklungsplan Strom der Übertragungsnetzbetreiber
+eingegangen.
+
+(3) Die Bundesnetzagentur kann auf der Grundlage des Berichts
+Empfehlungen für die rechtliche Implementierung eines verbindlichen
+Netzentwicklungsplans Wassersstoff abgeben.
 
 
 ### Abschnitt 4 - Befugnisse der Regulierungsbehörde, Sanktionen
@@ -4167,10 +8659,10 @@ Internetseite veröffentlicht.
 (1) Die Regulierungsbehörde trifft Entscheidungen in den in diesem
 Gesetz benannten Fällen und über die Bedingungen und Methoden für den
 Netzanschluss oder den Netzzugang nach den in § 17 Abs. 3, § 21a Abs.
-6, § 21b Abs. 4 und § 24 genannten Rechtsverordnungen durch Festlegung
-gegenüber einem Netzbetreiber, einer Gruppe von oder allen
-Netzbetreibern oder den sonstigen in der jeweiligen Vorschrift
-Verpflichteten oder durch Genehmigung gegenüber dem Antragsteller.
+6 und § 24 genannten Rechtsverordnungen durch Festlegung gegenüber
+einem Netzbetreiber, einer Gruppe von oder allen Netzbetreibern oder
+den sonstigen in der jeweiligen Vorschrift Verpflichteten oder durch
+Genehmigung gegenüber dem Antragsteller.
 
 (2) Die Regulierungsbehörde ist befugt, die nach Absatz 1 von ihr
 festgelegten oder genehmigten Bedingungen und Methoden nachträglich zu
@@ -4262,6 +8754,10 @@ um die Zuwiderhandlung wirksam abzustellen. Sie kann insbesondere
 
 
 
+(3) Soweit ein berechtigtes Interesse besteht, kann die
+Regulierungsbehörde auch eine Zuwiderhandlung feststellen, nachdem
+diese beendet ist.
+
 
 #### § 31 Besondere Missbrauchsverfahren der Regulierungsbehörde
 
@@ -4311,9 +8807,9 @@ zwei Monate verlängert werden, wenn die Regulierungsbehörde
 zusätzliche Informationen anfordert. Mit Zustimmung des Antragstellers
 ist eine weitere Verlängerung dieser Frist möglich. Betrifft ein
 Antrag nach Satz 1 die Entgelte für den Anschluss größerer neuer
-Erzeugungsanlagen oder Anlagen zur Speicherung elektrischer Energie,
-so kann die Regulierungsbehörde die Fristen nach den Sätzen 1 und 2
-verlängern.
+Erzeugungsanlagen oder Anlagen zur Speicherung elektrischer Energie
+sowie Gasspeicheranlagen, so kann die Regulierungsbehörde die Fristen
+nach den Sätzen 1 und 2 verlängern.
 
 (4) Soweit ein Verfahren nicht mit einer den Beteiligten zugestellten
 Entscheidung nach § 73 Abs. 1 abgeschlossen wird, ist seine Beendigung
@@ -4380,10 +8876,10 @@ Geldbetrags auferlegen.
 
 (2) Absatz 1 gilt nicht, sofern der wirtschaftliche Vorteil durch
 Schadensersatzleistungen oder durch die Verhängung der Geldbuße oder
-die Anordnung des Verfalls abgeschöpft ist. Soweit das Unternehmen
-Leistungen nach Satz 1 erst nach der Vorteilsabschöpfung erbringt, ist
-der abgeführte Geldbetrag in Höhe der nachgewiesenen Zahlungen an das
-Unternehmen zurückzuerstatten.
+die Anordnung der Einziehung von Taterträgen abgeschöpft ist. Soweit
+das Unternehmen Leistungen nach Satz 1 erst nach der
+Vorteilsabschöpfung erbringt, ist der abgeführte Geldbetrag in Höhe
+der nachgewiesenen Zahlungen an das Unternehmen zurückzuerstatten.
 
 (3) Wäre die Durchführung der Vorteilsabschöpfung eine unbillige
 Härte, soll die Anordnung auf einen angemessenen Geldbetrag beschränkt
@@ -4397,17 +8893,24 @@ abzuführende Geldbetrag ist zahlenmäßig zu bestimmen.
 fünf Jahren seit Beendigung der Zuwiderhandlung und längstens für
 einen Zeitraum von fünf Jahren angeordnet werden.
 
+(6) Die Absätze 1 bis 5 gelten entsprechend für Verstöße gegen die
+Artikel 3 und 5 der Verordnung (EU) Nr. 1227/2011 oder gegen eine auf
+Grundlage dieser Vorschriften ergangene Entscheidung der
+Bundesnetzagentur.
+
 
 #### § 34 (aufgehoben)
 
 -
 
 
-#### § 35 Monitoring
+#### § 35 Monitoring und ergänzende Informationen
 
 (1) Die Regulierungsbehörde führt zur Wahrnehmung ihrer Aufgaben nach
-diesem Gesetz, insbesondere zur Herstellung von Markttransparenz, ein
-Monitoring durch über
+diesem Gesetz, insbesondere zur Herstellung von Markttransparenz sowie
+zur Wahrnehmung ihrer Aufgaben nach dem
+Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S.
+1818), ein Monitoring durch über
 
 1.  die Regeln für das Management und die Zuweisung von
     Verbindungskapazitäten; dies erfolgt in Abstimmung mit der
@@ -4445,12 +8948,15 @@ Monitoring durch über
     Wärme-Kopplung;
 
 
-7.  die Bedingungen für den Zugang zu Speicheranlagen nach den §§ 26 und
-    28 und insbesondere über Veränderungen der Situation auf dem
+7.  die Bedingungen für den Zugang zu Gasspeicheranlagen nach den §§ 26
+    und 28 und insbesondere über Veränderungen der Situation auf dem
     Speichermarkt, mit dem Ziel, dem Bundesministerium für Wirtschaft und
-    Technologie eine Überprüfung der Regelungen im Hinblick auf den Zugang
-    zu Speicheranlagen zu ermöglichen, sowie die Netzzugangsbedingungen
-    für Anlagen zur Erzeugung von Biogas;
+    Energie eine Überprüfung der Regelungen im Hinblick auf den Zugang zu
+    Gasspeicheranlagen zu ermöglichen, sowie die Netzzugangsbedingungen
+    für Anlagen zur Erzeugung von Biogas und die Zahl der Biogas in das
+    Erdgasnetz einspeisenden Anlagen, die eingespeiste Biogasmenge in
+    Kilowattstunden und die nach § 20b der Gasnetzentgeltverordnung
+    bundesweit umgelegten Kosten;
 
 
 8.  den Umfang, in dem die Betreiber von Übertragungs-, Fernleitungs- und
@@ -4461,41 +8967,58 @@ Monitoring durch über
 
 
 10. Preise für Haushaltskunden, einschließlich von Vorauszahlungssystemen,
-    Lieferanten- und Produktwechsel, Unterbrechung der Versorgung gemäß §
-    19 der Stromgrundversorgungsverordnung oder der
+    Marktangebot von und Preisvolatilität bei Verträgen mit dynamischen
+    Stromtarifen, Lieferanten- und Produktwechsel, Unterbrechung der
+    Versorgung gemäß § 19 der Stromgrundversorgungsverordnung oder der
     Gasgrundversorgungsverordnung, Beschwerden von Haushaltskunden, die
     Wirksamkeit und die Durchsetzung von Maßnahmen zum Verbraucherschutz
     im Bereich Elektrizität oder Gas, Wartungsdienste am Hausanschluss
     oder an Messeinrichtungen sowie die Dienstleistungsqualität der Netze;
 
 
-11. das Ausmaß von Wettbewerb und die technische Entwicklung bei
-    Messeinrichtungen einschließlich des Einsatzes moderner
-    Messeinrichtungen, die Messung, das Angebot lastvariabler Tarife und,
-    bundesweit einheitliche Mindestanforderungen an Messeinrichtungen
-    sowie Datenumfang und Datenqualität nach § 21b Absatz 4 Satz 2 Nummer
-    2;
+11. den Bestand und die geplanten Stilllegungen von Erzeugungskapazitäten,
+    die Möglichkeit und die vorhandenen Kapazitäten für einen
+    Brennstoffwechsel zur Absicherung der Leistung der
+    Erzeugungskapazitäten, die Investitionen in die Erzeugungskapazitäten
+    mit Blick auf die Versorgungssicherheit sowie den Bestand, die
+    bereitgestellte Leistung, die gelieferte Strommenge sowie den
+    voraussichtlichen Zeitpunkt der Außerbetriebnahme von Speichern mit
+    einer Nennleistung von mehr als 10 Megawatt;
 
 
-12. den Bestand und die geplanten Stilllegungen von Erzeugungskapazitäten,
-    die Investitionen in die Erzeugungskapazitäten mit Blick auf die
-    Versorgungssicherheit sowie den Bestand, die bereitgestellte Leistung,
-    die gelieferte Strommenge sowie den voraussichtlichen Zeitpunkt der
-    Außerbetriebnahme von Speichern mit einer Nennleistung von mehr als 10
-    Megawatt;
-
-
-13. den Grad der Transparenz, auch der Großhandelspreise, sowie den Grad
+12. den Grad der Transparenz, auch der Großhandelspreise, sowie den Grad
     und die Wirksamkeit der Marktöffnung und den Umfang des Wettbewerbs
     auf Großhandels- und Endkundenebene sowie an Elektrizitäts- und
     Erdgasbörsen, soweit diese Aufgabe nicht durch Gesetz einer anderen
-    Stelle übertragen wurde.
+    Stelle übertragen wurde,
+
+
+13. die Entwicklung der Ausschreibungen abschaltbarer Lasten durch die
+    Betreiber von Übertragungsnetzen nach § 13 Absatz 6 Satz 1,
+    insbesondere soweit die Bundesregierung mit Zustimmung des Bundestages
+    eine entsprechende Rechtsverordnung nach § 13i Absatz 1 und 2 erlassen
+    hat.
 
 
 
 
-(2) Zur Durchführung des Monitoring gelten die Befugnisse nach § 69
-entsprechend.
+(1a) Die Regulierungsbehörde kann für die Erstellung des Berichts nach
+§ 63 Absatz 3a sowie zur Überwachung von Verpflichtungen nach § 13,
+insbesondere ob eine Abweichung nach § 13 Absatz 3 vorliegt, von den
+Betreibern von Erzeugungsanlagen und von Anlagen zur Speicherung
+elektrischer Energie ergänzende Informationen erheben, insbesondere
+
+1.  Betriebskenndaten der Anlagen sowie
+
+
+2.  Daten zur Bereitstellung von elektrischer Leistung auf Grund sonstiger
+    Verdienstmöglichkeiten.
+
+
+
+
+(2) Zur Durchführung des Monitoring und zur Erhebung der ergänzenden
+Informationen gelten die Befugnisse nach § 69 entsprechend.
 
 
 ## Teil 4 - Energielieferung an Letztverbraucher
@@ -4509,7 +9032,10 @@ die Grundversorgung von Haushaltskunden durchführen, Allgemeine
 Bedingungen und Allgemeine Preise für die Versorgung in Niederspannung
 oder Niederdruck öffentlich bekannt zu geben und im Internet zu
 veröffentlichen und zu diesen Bedingungen und Preisen jeden
-Haushaltskunden zu versorgen. Die Pflicht zur Grundversorgung besteht
+Haushaltskunden zu versorgen. Die Veröffentlichungen im Internet
+müssen einfach auffindbar sein und unmissverständlich verdeutlichen,
+dass es sich um die Preise und Bedingungen der Belieferung in der
+Grundversorgung handelt. Die Pflicht zur Grundversorgung besteht
 nicht, wenn die Versorgung für das Energieversorgungsunternehmen aus
 wirtschaftlichen Gründen nicht zumutbar ist.
 
@@ -4544,36 +9070,34 @@ geltenden Bedingungen und Preisen fort.
 
 (1) Wer zur Deckung des Eigenbedarfs eine Anlage zur Erzeugung von
 Energie betreibt oder sich von einem Dritten versorgen lässt, hat
-keinen Anspruch auf eine Grundversorgung nach § 36 Abs. 1 Satz 1. Er
-kann aber Grundversorgung im Umfang und zu Bedingungen verlangen, die
-für das Energieversorgungsunternehmen wirtschaftlich zumutbar sind.
-Satz 1 gilt nicht für Eigenanlagen (Notstromaggregate), die
-ausschließlich der Sicherstellung des Energiebedarfs bei Aussetzen der
-öffentlichen Energieversorgung dienen, wenn sie außerhalb ihrer
-eigentlichen Bestimmung nicht mehr als 15 Stunden monatlich zur
-Erprobung betrieben werden, sowie für die Deckung des Eigenbedarfs von
-in Niederspannung belieferten Haushaltskunden aus Anlagen der Kraft-
-Wärme-Kopplung bis 50 Kilowatt elektrischer Leistung und aus
-erneuerbaren Energien.
+keinen Anspruch auf eine Grundversorgung zu dem Allgemeinen Preis nach
+§ 36 Absatz 1 Satz 1. Er kann aber eine Grundversorgung durch eine
+Zusatz- und Reserveversorgung in dem Umfang und zu den Bedingungen
+verlangen, die für den Grundversorger wirtschaftlich zumutbar sind.
+Satz 1 gilt nicht für Eigenanlagen, die ausschließlich der
+Sicherstellung des Energiebedarfs bei Aussetzen der öffentlichen
+Energieversorgung dienen, wenn sie außerhalb ihrer eigentlichen
+Bestimmung nicht mehr als 15 Stunden monatlich zur Erprobung betrieben
+werden.
 
-(2) Reserveversorgung ist für Energieversorgungsunternehmen im Sinne
-des Absatzes 1 Satz 2 nur zumutbar, wenn sie den laufend durch
-Eigenanlagen gedeckten Bedarf für den gesamten Haushalt umfasst und
-ein fester, von der jeweils gebrauchten Energiemenge unabhängiger
-angemessener Leistungspreis mindestens für die Dauer eines Jahres
-bezahlt wird. Hierbei ist von der Möglichkeit gleichzeitiger
-Inbetriebnahme sämtlicher an das Leitungsnetz des
-Energieversorgungsunternehmens angeschlossener Reserveanschlüsse
-auszugehen und der normale, im gesamten Niederspannungs- oder
-Niederdruckleitungsnetz des Energieversorgungsunternehmens vorhandene
-Ausgleich der Einzelbelastungen zugrunde zu legen.
+(2) Reserveversorgung ist für den Grundversorger im Sinne des Absatzes
+1 Satz 2 nur zumutbar, wenn sie den laufend durch Eigenanlagen
+gedeckten Bedarf für den gesamten Haushalt umfasst und ein fester, von
+der jeweils gebrauchten Energiemenge unabhängiger angemessener
+Leistungspreis mindestens für die Dauer eines Jahres bezahlt wird.
+Hierbei ist von der Möglichkeit gleichzeitiger Inbetriebnahme
+sämtlicher an das Leitungsnetz im Grundversorgungsgebiet nach § 36
+Absatz 1 Satz 1 angeschlossener Reserveanschlüsse auszugehen und der
+normale, im gesamten Niederspannungs- oder Niederdruckleitungsnetz des
+Grundversorgungsgebietes vorhandene Ausgleich der Einzelbelastungen
+zugrunde zu legen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie kann durch
+(3) Das Bundesministerium für Wirtschaft und Energie kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates regeln, in welchem
-Umfang und zu welchen Bedingungen Versorgung nach Absatz 1 Satz 2
-wirtschaftlich zumutbar ist. Dabei sind die Interessen der
+Umfang und zu welchen Bedingungen eine Grundversorgung nach Absatz 1
+Satz 2 wirtschaftlich zumutbar ist. Dabei sind die Interessen der
 Energieversorgungsunternehmen und der Haushaltskunden unter Beachtung
-der Ziele des § 1 angemessen zu berücksichtigen.
+des Zwecks des § 1 angemessen zu berücksichtigen.
 
 
 ### § 38 Ersatzversorgung mit Energie
@@ -4601,194 +9125,683 @@ ermittelten anteiligen Verbrauch in Rechnung stellen.
 
 ### § 39 Allgemeine Preise und Versorgungsbedingungen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates die Gestaltung der Allgemeinen Preise nach § 36 Abs. 1 und
-§ 38 Abs. 1 des Grundversorgers unter Berücksichtigung des § 1 Abs. 1
-regeln. Es kann dabei Bestimmungen über Inhalt und Aufbau der
-Allgemeinen Preise treffen sowie die tariflichen Rechte und Pflichten
-der Elektrizitätsversorgungsunternehmen und ihrer Kunden regeln.
+(1) Das Bundesministerium für Wirtschaft und Energie kann im
+Einvernehmen mit dem
+Bundesministerium der Justiz und für Verbraucherschutz
+durch Rechtsverordnung mit Zustimmung des Bundesrates die Gestaltung
+der Allgemeinen Preise nach § 36 Abs. 1 und § 38 Abs. 1 des
+Grundversorgers unter Berücksichtigung des § 1 Abs. 1 regeln. Es kann
+dabei Bestimmungen über Inhalt und Aufbau der Allgemeinen Preise
+treffen sowie die tariflichen Rechte und Pflichten der
+Elektrizitätsversorgungsunternehmen und ihrer Kunden regeln.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates die allgemeinen Bedingungen für die Belieferung von
-Haushaltskunden in Niederspannung oder Niederdruck mit Energie im
-Rahmen der Grund- oder Ersatzversorgung angemessen gestalten und dabei
-die Bestimmungen der Verträge einheitlich festsetzen und Regelungen
-über den Vertragsabschluss, den Gegenstand und die Beendigung der
-Verträge treffen sowie Rechte und Pflichten der Vertragspartner
-festlegen. Hierbei sind die beiderseitigen Interessen angemessen zu
+(2) Das Bundesministerium für Wirtschaft und Energie kann im
+Einvernehmen mit dem
+Bundesministerium der Justiz und für Verbraucherschutz
+durch Rechtsverordnung mit Zustimmung des Bundesrates die allgemeinen
+Bedingungen für die Belieferung von Haushaltskunden in Niederspannung
+oder Niederdruck mit Energie im Rahmen der Grund- oder
+Ersatzversorgung angemessen gestalten und dabei die Bestimmungen der
+Verträge einheitlich festsetzen und Regelungen über den
+Vertragsabschluss, den Gegenstand und die Beendigung der Verträge
+treffen sowie Rechte und Pflichten der Vertragspartner festlegen.
+Hierbei sind die beiderseitigen Interessen angemessen zu
 berücksichtigen. Die Sätze 1 und 2 gelten entsprechend für Bedingungen
 öffentlich-rechtlich gestalteter Versorgungsverhältnisse mit Ausnahme
 der Regelung des Verwaltungsverfahrens.
 
 
-### § 40 Strom- und Gasrechnungen, Tarife
+### § 40 Inhalt von Strom- und Gasrechnungen; Festlegungskompetenz
 
 (1) Rechnungen für Energielieferungen an Letztverbraucher müssen
-einfach und verständlich sein. Die für Forderungen maßgeblichen
-Berechnungsfaktoren sind vollständig und in allgemein verständlicher
-Form auszuweisen.
+einfach und verständlich sein. Sie sind dem Letztverbraucher auf
+dessen Wunsch verständlich und unentgeltlich zu erläutern. Der
+Rechnungsbetrag und das Datum der Fälligkeit des Rechnungsbetrages
+müssen deutlich erkennbar und hervorgehoben sein.
 
-(2) Lieferanten sind verpflichtet, in ihren Rechnungen für
-Energielieferungen an Letztverbraucher
+(2) Energielieferanten sind verpflichtet, in ihren Rechnungen für
+Energielieferungen an Letztverbraucher gesondert auszuweisen
 
 1.  ihren Namen, ihre ladungsfähige Anschrift und das zuständige
-    Registergericht sowie Angaben, die eine schnelle elektronische
-    Kontaktaufnahme ermöglichen, einschließlich der Adresse der
-    elektronischen Post,
+    Registergericht sowie Angaben, die eine unverzügliche telefonische und
+    elektronische Kontaktaufnahme ermöglichen, einschließlich der Adresse
+    der elektronischen Post und einer Telefonnummer der Kunden-Hotline,
 
 
-2.  die Vertragsdauer, die geltenden Preise, den nächstmöglichen
-    Kündigungstermin und die Kündigungsfrist,
+2.  die belieferte Verbrauchsstelle des Letztverbrauchers einschließlich
+    der zur Bezeichnung der Entnahmestelle verwendeten
+    Identifikationsnummer,
 
 
-3.  die für die Belieferung maßgebliche Zählpunktbezeichnung und die
-    Codenummer des Netzbetreibers,
+3.  die Vertragsdauer und die geltenden Preise,
 
 
-4.  den ermittelten Verbrauch im Abrechnungszeitraum und bei
-    Haushaltskunden Anfangszählerstand und den Endzählerstand des
-    abgerechneten Zeitraums,
+4.  den nächstmöglichen Kündigungstermin und die Kündigungsfrist,
 
 
-5.  den Verbrauch des vergleichbaren Vorjahreszeitraums,
+5.  den zuständigen Messstellenbetreiber sowie die für die Belieferung
+    maßgebliche Identifikationsnummer und die Codenummer des
+    Netzbetreibers,
 
 
-6.  bei Haushaltskunden unter Verwendung von Grafiken darzustellen, wie
-    sich der eigene Jahresverbrauch zu dem Jahresverbrauch von
-    Vergleichskundengruppen verhält,
+6.  bei einer Verbrauchsabrechnung den Anfangszählerstand und den
+    Endzählerstand des abgerechneten Zeitraums, den ermittelten Verbrauch
+    im Abrechnungszeitraum sowie die Art, wie der Zählerstand ermittelt
+    wurde,
 
 
-7.  die Belastungen aus der Konzessionsabgabe und aus den Netzentgelten
-    für Letztverbraucher und gegebenenfalls darin enthaltene Entgelte für
-    den Messstellenbetrieb und die Messung beim jeweiligen
-    Letztverbraucher sowie
+7.  den auch in grafischer Form dargestellten Vergleich des ermittelten
+    Verbrauchs zu dem Verbrauch des vergleichbaren Vorjahreszeitraums,
 
 
-8.  Informationen über die Rechte der Haushaltskunden im Hinblick auf
+8.  den auch in grafischer Form dargestellten Vergleich des eigenen
+    Jahresverbrauchs zu dem Jahresverbrauch von Vergleichskundengruppen,
+
+
+9.  die Rechte der Letztverbraucher im Hinblick auf
     Streitbeilegungsverfahren, die ihnen im Streitfall zur Verfügung
     stehen, einschließlich der für Verbraucherbeschwerden nach § 111b
-    einzurichtenden Schlichtungsstelle und deren Anschrift sowie die
-    Kontaktdaten des Verbraucherservice der Bundesnetzagentur für den
-    Bereich Elektrizität und Gas
+    einzurichtenden Schlichtungsstelle und deren Anschrift,
+
+
+10. die Kontaktdaten des Verbraucherservice der Bundesnetzagentur für den
+    Bereich Elektrizität und Gas,
+
+
+11. Informationen über Kontaktstellen, darunter Internetadressen, zur
+    Beratung in Energieangelegenheiten,
+
+
+12. Hinweise zu der Verfügbarkeit und den Möglichkeiten eines
+    Lieferantenwechsels sowie Informationen über mit einem
+    Vertrauenszeichen versehene Preisvergleichsinstrumente für
+    Vertragsangebote der Stromlieferanten nach § 41c sowie
+
+
+13. die einschlägige Tarif- oder Produktbezeichnung sowie den Hinweis, ob
+    die Belieferung im Rahmen der Grundversorgung oder außerhalb der
+    Grundversorgung erfolgt ist.
 
 
 
-gesondert auszuweisen. Wenn der Lieferant den Letztverbraucher im
-Vorjahreszeitraum nicht beliefert hat, ist der vormalige Lieferant
-verpflichtet, den Verbrauch des vergleichbaren Vorjahreszeitraums dem
-neuen Lieferanten mitzuteilen. Soweit der Lieferant aus Gründen, die
-er nicht zu vertreten hat, den Verbrauch nicht ermitteln kann, ist der
-geschätzte Verbrauch anzugeben.
+Wenn der Energielieferant den Letztverbraucher im Vorjahreszeitraum
+nicht beliefert hat, ist der vormalige Energielieferant verpflichtet,
+dem neuen Energielieferanten den Verbrauch des vergleichbaren
+Vorjahreszeitraums mitzuteilen.
 
-(3) Lieferanten sind verpflichtet, den Energieverbrauch nach ihrer
-Wahl monatlich oder in anderen Zeitabschnitten, die jedoch zwölf
-Monate nicht wesentlich überschreiten dürfen, abzurechnen. Lieferanten
-sind verpflichtet, Letztverbrauchern eine monatliche, vierteljährliche
-oder halbjährliche Abrechnung anzubieten. Letztverbraucher, deren
-Verbrauchswerte über ein Messsystem im Sinne von § 21d Absatz 1
-ausgelesen werden, ist eine monatliche Verbrauchsinformation, die auch
-die Kosten widerspiegelt, kostenfrei bereitzustellen.
+(3) Energielieferanten sind verpflichtet, in den Rechnungen folgende
+Belastungen gesondert auszuweisen, soweit sie Kalkulationsbestandteile
+der in die Rechnung einfließenden Preise sind:
 
-(4) Lieferanten müssen sicherstellen, dass der Letztverbraucher die
-Abrechnung nach Absatz 3 spätestens sechs Wochen nach Beendigung des
-abzurechnenden Zeitraums und die Abschlussrechnung spätestens sechs
-Wochen nach Beendigung des Lieferverhältnisses erhält.
-
-(5) Lieferanten haben, soweit technisch machbar und wirtschaftlich
-zumutbar, für Letztverbraucher von Elektrizität einen Tarif
-anzubieten, der einen Anreiz zu Energieeinsparung oder Steuerung des
-Energieverbrauchs setzt. Tarife im Sinne von Satz 1 sind insbesondere
-lastvariable oder tageszeitabhängige Tarife. Lieferanten haben daneben
-stets mindestens einen Tarif anzubieten, für den die Datenaufzeichnung
-und -übermittlung auf die Mitteilung der innerhalb eines bestimmten
-Zeitraums verbrauchten Gesamtstrommenge begrenzt bleibt.
-
-(6) Lieferanten haben für Letztverbraucher die für Forderungen
-maßgeblichen Berechnungsfaktoren in Rechnungen unter Verwendung
-standardisierter Begriffe und Definitionen auszuweisen.
-
-(7) Die Bundesnetzagentur kann für Rechnungen für Energielieferungen
-an Letztverbraucher Entscheidungen über den Mindestinhalt nach den
-Absätzen 1 bis 5 sowie Näheres zum standardisierten Format nach Absatz
-6 durch Festlegung gegenüber den Lieferanten treffen.
+1.  die Stromsteuer nach § 3 des Stromsteuergesetzes vom 24. März 1999
+    (BGBl. I S. 378; 2000 I S. 147) oder die Energiesteuer nach § 2 des
+    Energiesteuergesetzes vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S.
+    660, 1007) in der jeweils geltenden Fassung,
 
 
-### § 41 Energielieferverträge mit Haushaltskunden, Verordnungsermächtigung
-
-(1) Verträge über die Belieferung von Haushaltskunden mit Energie
-außerhalb der Grundversorgung müssen einfach und verständlich sein.
-Die Verträge müssen insbesondere Bestimmungen enthalten über
-
-1.  die Vertragsdauer, die Preisanpassung, Kündigungstermine und
-    Kündigungsfristen sowie das Rücktrittsrecht des Kunden,
+2.  die Konzessionsabgabe nach Maßgabe des § 4 Absatz 1 und 2 der
+    Konzessionsabgabenverordnung vom 9. Januar 1992 (BGBl. I S. 12, 407),
+    die zuletzt durch Artikel 3 Absatz 4 der Verordnung vom 1. November
+    2006 (BGBl. I S. 2477) geändert worden ist,
 
 
-2.  zu erbringende Leistungen einschließlich angebotener Wartungsdienste,
+3.  jeweils gesondert die Umlagen und Aufschläge nach § 17f Absatz 5 sowie
+    nach § 60 Absatz 1 des Erneuerbare-Energien-Gesetzes, § 26 des Kraft-
+    Wärme-Kopplungsgesetzes, § 19 Absatz 2 der Stromnetzentgeltverordnung
+    und § 18 der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012
+    (BGBl. I S. 2998) in der jeweils geltenden Fassung,
 
 
-3.  die Zahlungsweise,
+4.  jeweils gesondert die Netzentgelte und, soweit sie Gegenstand des
+    Liefervertrages sind, die Entgelte des Messstellenbetreibers oder des
+    Betreibers von Energieversorgungsnetzen für den Messstellenbetrieb und
+    die Messung,
 
 
-4.  Haftungs- und Entschädigungsregelungen bei Nichteinhaltung vertraglich
-    vereinbarter Leistungen,
+5.  bei Gasrechnungen bis zum 31. Dezember 2025 die Kosten in Cent pro
+    Kilowattstunde für den Erwerb von Emissionszertifikaten nach dem
+    Brennstoffemissionshandelsgesetz vom 12. Dezember 2019 (BGBl. I S.
+    2728) in der jeweils geltenden Fassung.
 
 
-5.  den unentgeltlichen und zügigen Lieferantenwechsel,
 
 
-6.  die Art und Weise, wie aktuelle Informationen über die geltenden
-    Tarife und Wartungsentgelte erhältlich sind,
+(4) Energielieferanten haben für Letztverbraucher die für die
+Forderungen maßgeblichen Berechnungsfaktoren in Rechnungen vollständig
+und in allgemein verständlicher Form unter Verwendung standardisierter
+Begriffe und Definitionen auszuweisen.
+
+(5) Die Bundesnetzagentur kann Entscheidungen über die Konkretisierung
+des Mindestinhalts von Rechnungen nach den Absätzen 1 bis 3 sowie
+Näheres zum standardisierten Format nach Absatz 4 durch Festlegung
+nach § 29 Absatz 1 gegenüber den Energielieferanten treffen.
 
 
-7.  Informationen über die Rechte der Haushaltskunden im Hinblick auf
-    Streitbeilegungsverfahren, die ihnen im Streitfall zur Verfügung
-    stehen, einschließlich der für Verbraucherbeschwerden nach § 111b
-    einzurichtenden Schlichtungsstelle und deren Anschrift sowie die
-    Kontaktdaten des Verbraucherservice der Bundesnetzagentur für den
+### § 40a Verbrauchsermittlung für Strom- und Gasrechnungen
+
+(1) Der Energielieferant ist berechtigt, zur Ermittlung des Verbrauchs
+nach § 40 Absatz 2 Satz 1 Nummer 6 für die Zwecke der Abrechnung
+
+1.  die Ablesewerte oder rechtmäßig ermittelte Ersatzwerte zu verwenden,
+    die er vom Messstellenbetreiber oder Netzbetreiber erhalten hat,
+
+
+2.  die Messeinrichtung selbst abzulesen oder
+
+
+3.  die Ablesung der Messeinrichtung vom Letztverbraucher mittels eines
+    Systems der regelmäßigen Selbstablesung und Übermittlung der
+    Ablesewerte durch den Letztverbraucher zu verlangen, sofern keine
+    Fernübermittlung der Verbrauchsdaten erfolgt.
+
+
+
+Haushaltskunden können einer Selbstablesung im Einzelfall
+widersprechen, wenn sie ihnen nicht zumutbar ist. Der Energielieferant
+hat bei einem berechtigten Widerspruch nach Satz 2 eine eigene
+Ablesung der Messeinrichtung nach Satz 1 Nummer 2 vorzunehmen und darf
+hierfür kein gesondertes Entgelt verlangen. Bei einer Messung mit
+einem intelligenten Messsystem nach § 2 Satz 1 Nummer 7 des
+Messstellenbetriebsgesetzes und bei registrierender Lastgangmessung
+sind die Werte nach Satz 1 Nummer 1 vorrangig zu verwenden. Der
+Energielieferant hat in der Rechnung anzugeben, wie ein von ihm
+verwendeter Zählerstand ermittelt wurde.
+
+(2) Soweit ein Letztverbraucher für einen bestimmten
+Abrechnungszeitraum trotz entsprechender Verpflichtung keine
+Ablesedaten übermittelt hat oder der Energielieferant aus anderen
+Gründen, die er nicht zu vertreten hat, den tatsächlichen Verbrauch
+nicht ermitteln kann, dürfen die Abrechnung oder die
+Abrechnungsinformation auf einer Verbrauchsschätzung beruhen, die
+unter angemessener Berücksichtigung der tatsächlichen Verhältnisse zu
+erfolgen hat. In diesem Fall hat der Energielieferant den geschätzten
+Verbrauch unter ausdrücklichem und optisch besonders hervorgehobenem
+Hinweis auf die erfolgte Verbrauchsabschätzung und den einschlägigen
+Grund für deren Zulässigkeit sowie die der Schätzung zugrunde gelegten
+Faktoren in der Rechnung anzugeben und auf Wunsch des
+Letztverbrauchers in Textform und unentgeltlich zu erläutern.
+
+
+### § 40b Rechnungs- und Informationszeiträume
+
+(1) Energielieferanten sind verpflichtet, den Energieverbrauch nach
+ihrer Wahl in Zeitabschnitten abzurechnen, die ein Jahr nicht
+überschreiten dürfen, ohne hierfür ein Entgelt in Rechnung zu stellen.
+Sie sind verpflichtet, allen Letztverbrauchern anzubieten
+
+1.  eine monatliche, vierteljährliche oder halbjährliche Abrechnung,
+
+
+2.  die unentgeltliche elektronische Übermittlung der Abrechnungen und
+    Abrechnungsinformationen sowie
+
+
+3.  mindestens einmal jährlich die unentgeltliche Übermittlung der
+    Abrechnungen und Abrechnungsinformationen in Papierform.
+
+
+
+Sofern der Letztverbraucher keinen Abrechnungszeitraum bestimmt,
+bleibt es bei der Wahl des Zeitraums durch den Energielieferanten. Im
+Falle einer Beendigung des Lieferverhältnisses sind Energielieferanten
+zur unentgeltlichen Erstellung einer Abschlussrechnung verpflichtet.
+Auf Wunsch des Letztverbrauchers sind Abrechnungen oder
+Abrechnungsinformationen elektronisch zu übermitteln.
+
+(2) Energielieferanten haben Letztverbrauchern, bei denen keine
+Fernübermittlung der Verbrauchsdaten erfolgt und die sich für eine
+elektronische Übermittlung nach Absatz 1 Satz 2 Nummer 2 entschieden
+haben, Abrechnungsinformationen mindestens alle sechs Monate oder auf
+Verlangen einmal alle drei Monate unentgeltlich zur Verfügung zu
+stellen.
+
+(3) Energielieferanten haben Letztverbrauchern, bei denen eine
+Fernübermittlung der Verbrauchsdaten erfolgt, eine monatliche
+Abrechnungsinformation unentgeltlich zur Verfügung zu stellen, dabei
+kann dies über das Internet oder andere geeignete elektronische Medien
+erfolgen.
+
+(4) Abrechnungsinformationen erfolgen auf Grundlage des nach § 40a
+ermittelten Verbrauchs.
+
+(5) Energielieferanten sind auf Verlangen eines von ihnen belieferten
+Letztverbrauchers verpflichtet, ergänzende Informationen zu dessen
+Verbrauchshistorie, soweit verfügbar, dem Letztverbraucher selbst und
+zusätzlich auch einem vom Letztverbraucher benannten Dritten zur
+Verfügung zu stellen. Die ergänzenden Informationen müssen kumulierte
+Daten mindestens für die vorangegangenen drei Jahre umfassen,
+längstens für den Zeitraum seit Beginn des Energieliefervertrages, und
+den Intervallen der Abrechnungsinformationen entsprechen.
+
+
+### § 40c Zeitpunkt und Fälligkeit von Strom- und Gasrechnungen
+
+(1) Rechnungsbeträge und Abschläge werden zu dem von dem
+Energielieferanten angegebenen Zeitpunkt, frühestens jedoch zwei
+Wochen nach Zugang der Zahlungsaufforderung fällig.
+
+(2) Energielieferanten sind verpflichtet, dem Letztverbraucher die
+Rechnung spätestens sechs Wochen nach Beendigung des abzurechnenden
+Zeitraums und eine Abschlussrechnung spätestens sechs Wochen nach
+Beendigung des Lieferverhältnisses zur Verfügung zu stellen. Erfolgt
+eine Stromabrechnung nach § 40b Absatz 1 monatlich, beträgt die Frist
+für diese Abrechnung drei Wochen.
+
+(3) Ergibt sich aus der Abrechnung ein Guthaben für den
+Letztverbraucher, ist dieses von dem Energielieferanten vollständig
+mit der nächsten Abschlagszahlung zu verrechnen oder binnen zwei
+Wochen auszuzahlen. Guthaben, die aus einer Abschlussrechnung folgen,
+sind binnen zwei Wochen auszuzahlen.
+
+
+### § 41 Energielieferverträge mit Letztverbrauchern
+
+(1) Verträge über die Belieferung von Letztverbrauchern mit Energie
+müssen einfach und verständlich sein. Die Verträge müssen insbesondere
+Angaben enthalten über
+
+1.  den Namen und die Anschrift des Energielieferanten,
+
+
+2.  die belieferte Verbrauchsstelle des Letztverbrauchers einschließlich
+    der zur Bezeichnung der Entnahmestelle verwendeten
+    Identifikationsnummer,
+
+
+3.  den Vertragsbeginn, die Vertragsdauer sowie die Bedingungen für eine
+    Verlängerung und Beendigung des Vertrags,
+
+
+4.  zu erbringende Leistungen einschließlich damit gebündelter Produkte
+    oder Leistungen sowie angebotener Wartungsdienste, wobei insbesondere
+    anzugeben ist, ob der Messstellenbetrieb und hierfür anfallende
+    Entgelte von den vertraglichen Leistungen umfasst sind,
+
+
+5.  die Preise, Preisanpassung, Kündigungstermine und Kündigungsfristen
+    sowie das Rücktrittsrecht des Kunden,
+
+
+6.  die einschlägige Tarif- bzw. Produktbezeichnung sowie den Hinweis, ob
+    die Belieferung im Rahmen der Grundversorgung oder außerhalb der
+    Grundversorgung erfolgt ist,
+
+
+7.  den Zeitpunkt der Abrechnungen und die Zahlungsweise,
+
+
+8.  Haftungs- und Entschädigungsregelungen bei Nichteinhaltung vertraglich
+    vereinbarter Leistungen, wozu auch ungenaue oder verspätete
+    Abrechnungen zählen,
+
+
+9.  den unentgeltlichen und zügigen Lieferantenwechsel,
+
+
+10. die Art und Weise, wie aktuelle Informationen über die geltenden
+    Tarife, Wartungsentgelte und gebündelte Produkte oder Leistungen
+    erhältlich sind,
+
+
+11. Informationen über die Rechte der Letztverbraucher im Hinblick auf
+    Verbraucherbeschwerden und Streitbeilegungsverfahren, die ihnen im
+    Streitfall zur Verfügung stehen, einschließlich der für
+    Verbraucherbeschwerden nach § 111b einzurichtenden Schlichtungsstelle
+    mit deren Anschrift und Webseite, und Informationen über die
+    Verpflichtung des Energielieferanten zur Teilnahme am
+    Schlichtungsverfahren sowie
+
+
+12. die Kontaktdaten des Verbraucherservice der Bundesnetzagentur für den
     Bereich Elektrizität und Gas.
 
 
 
-Die Informationspflichten gemäß Artikel 246 §§ 1 und 2 des
+Die Informationspflichten nach den Artikeln 246 und 246a des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche bleiben unberührt.
 
-(2) Dem Haushaltskunden sind vor Vertragsschluss verschiedene
-Zahlungsmöglichkeiten anzubieten. Wird eine Vorauszahlung vereinbart,
-muss sich diese nach dem Verbrauch des vorhergehenden
-Abrechnungszeitraums oder dem durchschnittlichen Verbrauch
-vergleichbarer Kunden richten. Macht der Kunde glaubhaft, dass sein
-Verbrauch erheblich geringer ist, so ist dies angemessen zu
-berücksichtigen. Eine Vorauszahlung wird nicht vor Beginn der
-Lieferung fällig.
+(2) Den Letztverbrauchern sind vor Vertragsschluss verschiedene
+Zahlungsmöglichkeiten anzubieten. Unterschiede bei Zahlungsarten oder
+Vorauszahlungssystemen müssen objektiv, diskriminierungsfrei und
+verhältnismäßig sein. Letztverbrauchern in Rechnung gestellte Kosten
+für die Nutzung der unterschiedlichen Zahlungsarten oder
+Vorauszahlungssysteme dürfen die unmittelbaren Kosten, die dem
+Zahlungsempfänger für die Nutzung der jeweiligen Zahlungsart oder
+eines Vorauszahlungssystems entstehen, nicht übersteigen.
 
-(3) Lieferanten haben Letztverbraucher rechtzeitig, in jedem Fall
-jedoch vor Ablauf der normalen Abrechnungsperiode und auf transparente
-und verständliche Weise über eine beabsichtigte Änderung der
-Vertragsbedingungen und über ihre Rücktrittsrechte zu unterrichten.
-Ändert der Lieferant die Vertragsbedingungen einseitig, kann der
-Letztverbraucher den Vertrag ohne Einhaltung einer Kündigungsfrist
-kündigen.
-
-(4) Energieversorgungsunternehmen sind verpflichtet, in oder als
-Anlage zu ihren Rechnungen an Haushaltskunden und in an diese
-gerichtetem Werbematerial sowie auf ihrer Website allgemeine
+(3) Energielieferanten sind verpflichtet, in an Letztverbraucher
+gerichtetem Werbematerial sowie auf ihrer Internetseite allgemeine
 Informationen zu den Bestimmungen nach Absatz 1 Satz 2 anzugeben.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates nähere Regelungen für die Belieferung von Haushaltskunden
-mit Energie außerhalb der Grundversorgung treffen, die Bestimmungen
-der Verträge einheitlich festsetzen und insbesondere Regelungen über
-den Vertragsabschluss, den Gegenstand und die Beendigung der Verträge
-treffen sowie Rechte und Pflichten der Vertragspartner festlegen.
+(4) Den Letztverbrauchern ist innerhalb einer angemessenen Frist nach
+dem Vertragsschluss eine knappe, leicht verständliche und klar
+gekennzeichnete Zusammenfassung der wichtigsten Vertragsbedingungen
+zur Verfügung zu stellen. Die Zusammenfassung hat insbesondere zu
+enthalten
+
+1.  die Kontaktdaten des Energielieferanten,
+
+
+2.  die Verbrauchsstelle,
+
+
+3.  geltende Preise,
+
+
+4.  den voraussichtlichen Belieferungsbeginn,
+
+
+5.  die Kündigungsfrist sowie
+
+
+6.  etwaige Bonusvereinbarungen und Mindestvertragslaufzeiten.
+
+
+
+
+(5) Energielieferanten, die sich im Vertrag das Recht vorbehalten
+haben, die Vertragsbedingungen einseitig zu ändern, haben
+Letztverbraucher rechtzeitig, in jedem Fall vor Ablauf einer
+Abrechnungsperiode, auf einfache und verständliche Weise über die
+beabsichtigte Ausübung eines Rechts auf Änderung der Preise oder
+sonstiger Vertragsbedingungen und über die Rechte der Letztverbraucher
+zur Vertragsbeendigung zu unterrichten. Über Preisänderungen ist
+spätestens zwei Wochen, bei Haushaltskunden spätestens einen Monat,
+vor Eintritt der beabsichtigten Änderung zu unterrichten. Die
+Unterrichtung hat unmittelbar zu erfolgen sowie auf verständliche und
+einfache Weise unter Hinweis auf Anlass, Voraussetzungen und Umfang
+der Preisänderungen. Übt der Energielieferant ein Recht zur Änderung
+der Preise oder sonstigen Vertragsbedingungen aus, kann der
+Letztverbraucher den Vertrag ohne Einhaltung einer Frist zum Zeitpunkt
+des Wirksamwerdens der Änderungen kündigen, ohne dass vom
+Energielieferanten hierfür ein gesondertes Entgelt verlangt werden
+darf. Eine Änderung der Vertragsbedingungen liegt auch bei einer
+Anpassung der vertraglichen Leistungen vor.
+
+(6) Bei unveränderter Weitergabe von umsatzsteuerlichen Mehr- oder
+Minderbelastungen, die sich aus einer gesetzlichen Änderung der
+geltenden Umsatzsteuersätze ergeben, bedarf es keiner Unterrichtung
+nach Absatz 5 Satz 1 und 2; dabei entsteht kein außerordentliches
+Kündigungsrecht nach Absatz 5 Satz 4.
+
+(7) Stromlieferverträge dürfen keine vertraglichen Regelungen
+enthalten, die dem Letztverbraucher den Erwerb oder die Veräußerung
+von Stromdienstleistungen, die nicht Vertragsgegenstand sind, von
+einem anderen oder an ein anderes Elektrizitätsversorgungsunternehmen
+untersagen. Stromdienstleistungen nach Satz 1 umfassen auch
+vertragliche Vereinbarungen über eine Aggregierung. Letztverbraucher
+sind verpflichtet, ihren Stromlieferanten den Abschluss einer
+vertraglichen Vereinbarung mit einem Dritten über eine Aggregierung
+unverzüglich mitzuteilen.
+
+
+### § 41a Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife
+
+(1) Stromlieferanten haben, soweit technisch machbar und
+wirtschaftlich zumutbar, für Letztverbraucher von Elektrizität einen
+Tarif anzubieten, der einen Anreiz zu Energieeinsparung oder Steuerung
+des Energieverbrauchs setzt. Tarife im Sinne von Satz 1 sind
+insbesondere lastvariable oder tageszeitabhängige Tarife.
+Stromlieferanten haben daneben für Haushaltskunden mindestens einen
+Tarif anzubieten, für den die Datenaufzeichnung und -übermittlung auf
+die Mitteilung der innerhalb eines bestimmten Zeitraums verbrauchten
+Gesamtstrommenge begrenzt bleibt.
+
+(2) Stromlieferanten, die zum 31. Dezember eines Jahres mehr als
+200 000 Letztverbraucher beliefern, sind im Folgejahr verpflichtet,
+den Abschluss eines Stromliefervertrages mit dynamischen Tarifen für
+Letztverbraucher anzubieten, die über ein intelligentes Messsystem im
+Sinne des Messstellenbetriebsgesetzes verfügen. Die Stromlieferanten
+haben die Letztverbraucher über die Kosten sowie die Vor- und
+Nachteile des Vertrags nach Satz 1 umfassend zu unterrichten sowie
+Informationen über den Einbau eines intelligenten Messsystems im Sinne
+des Messstellenbetriebsgesetzes anzubieten. Die Verpflichtung nach
+Satz 1 gilt ab dem 1. Januar 2022 für alle Stromlieferanten, die zum
+31\. Dezember eines Jahres mehr als 100 000 Letztverbraucher beliefern,
+und ab dem 1. Januar 2025 für alle Stromlieferanten, die bis zum 31.
+Dezember eines Jahres mehr als 50 000 Letztverbraucher beliefern.
+
+
+### § 41b Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung
+
+(1) Energielieferverträge mit Haushaltskunden außerhalb der
+Grundversorgung und deren Kündigung durch den Energielieferanten
+bedürfen der Textform. Der Energielieferant hat dem Haushaltskunden
+dessen Kündigung innerhalb einer Woche nach Zugang unter Angabe des
+Vertragsendes in Textform zu bestätigen.
+
+(2) Haushaltskunden sind vier Wochen vor einer geplanten
+Versorgungsunterbrechung wegen Nichtzahlung in geeigneter Weise über
+Möglichkeiten zur Vermeidung der Versorgungsunterbrechung zu
+informieren, die für den Haushaltskunden keine Mehrkosten verursachen.
+Dazu können gehören
+
+1.  Hilfsangebote zur Abwendung einer Versorgungsunterbrechung wegen
+    Nichtzahlung,
+
+
+2.  Vorauszahlungssysteme,
+
+
+3.  Informationen zu Energieaudits,
+
+
+4.  Informationen zu Energieberatungsdiensten,
+
+
+5.  alternative Zahlungspläne verbunden mit einer Stundungsvereinbarung,
+
+
+6.  Hinweis auf staatliche Unterstützungsmöglichkeiten der sozialen
+    Mindestsicherung oder
+
+
+7.  eine Schuldnerberatung.
+
+
+
+Die Informationen müssen deutlich und leicht verständlich die Maßnahme
+selbst sowie die Konsequenzen aufzeigen.
+
+(3) Wird eine Voraus- oder Abschlagszahlung vereinbart, muss sich
+diese nach dem Verbrauch des vorhergehenden Abrechnungszeitraums oder
+dem durchschnittlichen Verbrauch vergleichbarer Kunden richten. Macht
+der Haushaltskunde glaubhaft, dass sein Verbrauch erheblich geringer
+ist, so ist dies bei der Bemessung angemessen zu berücksichtigen. Eine
+bei Vertragsabschluss vereinbarte Voraus- oder Abschlagszahlung wird
+bei der Belieferung von Haushaltskunden nicht vor Beginn der Lieferung
+fällig.
+
+(4) Haushaltskunden sind im Falle eines Wohnsitzwechsels zu einer
+außerordentlichen Kündigung ihres bisherigen Liefervertrages unter
+Einhaltung einer Kündigungsfrist von sechs Wochen berechtigt. Die
+Kündigung kann mit Wirkung zum Zeitpunkt des Auszugs oder mit Wirkung
+zu einem späteren Zeitpunkt erklärt werden. Die Sätze 1 und 2 sind
+nicht anzuwenden, wenn der bisherige Energielieferant dem
+Haushaltskunden binnen zwei Wochen nach Erhalt der Kündigung in
+Textform eine Fortsetzung des Liefervertrages an dessen neuem Wohnsitz
+zu den bisherigen Vertragsbedingungen anbietet und die Belieferung an
+der neuen Entnahmestelle möglich ist. Zu diesem Zwecke hat der
+Haushaltskunde in seiner außerordentlichen Kündigung seine zukünftige
+Anschrift oder eine zur Bezeichnung seiner zukünftigen Entnahmestelle
+verwendete Identifikationsnummer mitzuteilen.
+
+(5) Das Bundesministerium für Wirtschaft und Energie kann im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
+Bundesrates
+
+1.  nähere Regelungen für die Belieferung von Haushaltskunden mit Energie
+    außerhalb der Grundversorgung treffen,
+
+
+2.  die Bestimmungen der Verträge einheitlich festsetzen und insbesondere
+    Regelungen über den Vertragsabschluss, den Gegenstand und die
+    Beendigung der Verträge treffen sowie
+
+
+3.  Rechte und Pflichten der Vertragspartner festlegen.
+
+
+
 Hierbei sind die beiderseitigen Interessen angemessen zu
-berücksichtigen. Die jeweils in Anhang I der Richtlinie 2009/72/EG und
-der Richtlinie 2009/73/EG vorgesehenen Maßnahmen sind zu beachten.
+berücksichtigen. Die jeweils in Anhang I der Richtlinie (EU) 2019/944
+und der Richtlinie 2009/73/EG vorgesehenen Maßnahmen sind zu beachten.
+
+
+### § 41c Vergleichsinstrumente bei Energielieferungen
+
+(1) Die Bundesnetzagentur stellt nach den Absätzen 3 und 4 sicher,
+dass Haushaltskunden und Kleinstunternehmen, die einen
+voraussichtlichen Jahresverbrauch von weniger als 100 000
+Kilowattstunden haben, unentgeltlich Zugang zu mindestens einem
+unabhängigen Vergleichsinstrument haben, mit dem sie verschiedene
+Stromlieferanten und deren Angebote, einschließlich der Angebote für
+Verträge mit dynamischen Stromtarifen, in Bezug auf die Preise und die
+Vertragsbedingungen vergleichen und beurteilen können.
+
+(2) Das Vergleichsinstrument nach Absatz 1 muss
+
+1.  unabhängig von den Energielieferanten und -erzeugern betrieben werden
+    und sicherstellen, dass die Energielieferanten bei den Suchergebnissen
+    gleichbehandelt werden;
+
+
+2.  die Inhaber und Betreiber des Vergleichsinstruments sowie dessen
+    Finanzierung und eventuelle Kontrolleure eindeutig offenlegen;
+
+
+3.  klare und objektive Kriterien enthalten, auf die sich der Vergleich
+    stützt, und diese offenlegen;
+
+
+4.  eine leicht verständliche und eindeutige Sprache verwenden sowie
+    barrierefrei zugänglich sein;
+
+
+5.  korrekte und aktuelle Informationen bereitstellen und den Zeitpunkt
+    der letzten Aktualisierung angeben;
+
+
+6.  allen Energielieferanten offenstehen und eine breite Palette an
+    Angeboten umfassen, die den Gesamtmarkt abdeckt; falls die angebotenen
+    Informationen keine vollständige Marktübersicht darstellen, ist eine
+    eindeutige diesbezügliche Erklärung auszugeben, bevor die Ergebnisse
+    angezeigt werden;
+
+
+7.  ein wirksames Verfahren für die Meldung falscher Informationen zu
+    veröffentlichten Angeboten und weiteren Angaben und deren zügiger
+    Korrektur vorsehen;
+
+
+8.  unentgeltlich Preise, Tarife und Vertragsbedingungen von den
+    verschiedenen Angeboten verschiedener Stromlieferanten vergleichen,
+    die Kunden zur Verfügung stehen;
+
+
+9.  den Schutz personenbezogener Daten gewährleisten.
+
+
+
+
+(3) Vergleichsinstrumente, die den Anforderungen nach Absatz 2
+entsprechen, erhalten auf Antrag des Anbieters des
+Vergleichsinstruments von der Bundesnetzagentur ein Vertrauenszeichen.
+Die Bundesnetzagentur überprüft die fortlaufende Erfüllung der
+Voraussetzungen und entzieht das Vertrauenszeichen bei gravierenden
+Verstößen, denen innerhalb einer angemessenen Frist nicht abgeholfen
+wird. Die Bundesnetzagentur kann die Vergabe des Vertrauenszeichens
+nach Satz 1 und die Überprüfung und die Entziehung nach Satz 2 an
+einen geeigneten Dritten übertragen; dabei ist die Bundesnetzagentur
+berechtigt, den beliehenen Dritten im Weisungswege zur rechtmäßigen
+Aufgabenerfüllung anzuhalten. Falls derartige Vergleichsinstrumente im
+Markt nicht angeboten werden oder ein Vertrauenszeichen hierfür nicht
+beantragt wurde, schreibt die Bundesnetzagentur die Leistung aus.
+
+(4) Die Bundesnetzagentur kann Absatz 3 analog auch auf
+Vergleichsinstrumente anwenden, die den Vergleich von verschiedenen
+Energielieferanten und deren Angeboten in Bezug auf die Preise und die
+Vertragsbedingungen für die Lieferung von Erdgas an Haushaltskunden
+und Kleinstunternehmen betreffen, um sicherzustellen, dass
+Haushaltskunden und Kleinstunternehmen unentgeltlich Zugang zu
+mindestens einem solchen unabhängigen Vergleichsinstrument haben.
+
+(5) Dritte dürfen Informationen, die von Energielieferanten
+veröffentlicht werden, zur Bereitstellung unabhängiger
+Vergleichsinstrumente nutzen. Energielieferanten müssen eine
+kostenlose Nutzung unmittelbar angebotsrelevanter Informationen in
+offenen Datenformaten ermöglichen.
+
+
+### § 41d Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz
+
+(1) Großhändler und Lieferanten von Elektrizität sowie betroffene
+Bilanzkreisverantwortliche haben es Betreibern einer Erzeugungsanlage
+und Letztverbrauchern, sofern deren Stromeinspeisung und Stromentnahme
+jeweils durch eine Zählerstandsgangmessung im Sinne des § 2 Satz 2
+Nummer 27 des Messstellenbetriebsgesetzes oder durch eine
+viertelstündige registrierende Leistungsmessung gemessen wird, auf
+Verlangen gegen angemessenes Entgelt zu ermöglichen, Dienstleistungen
+hinsichtlich von Mehr- oder Mindererzeugung sowie von Mehr- oder
+Minderverbrauch elektrischer Arbeit unabhängig von einem bestehenden
+Liefer- oder Bezugsvertrag gegenüber Dritten und über einen anderen
+Bilanzkreis zu erbringen. Ein Entgelt ist angemessen, wenn es den
+Großhändler und Lieferanten von Elektrizität und den
+Bilanzkreisverantwortlichen, dessen Bilanzkreis die Einspeise- oder
+Entnahmestelle des Betreibers einer Erzeugungsanlage oder des
+Letztverbrauchers zugeordnet ist, wirtschaftlich so stellt, wie sie
+ohne die Erbringung der Dienstleistungen durch Betreiber einer
+Erzeugungsanlage oder den Letztverbraucher stünden.
+
+(2) Ein vertraglicher Ausschluss der Rechte nach Absatz 1 Satz 1 ist
+unwirksam. Wird von den Rechten nach Absatz 1 Satz 1 im Rahmen eines
+Vertragsverhältnisses erstmalig Gebrauch gemacht, ist ein Großhändler
+oder Lieferant von Elektrizität berechtigt, den Liefer- oder
+Bezugsvertrag außerordentlich mit einer Frist von drei Kalendermonaten
+zum Monatsende zu kündigen. Das außerordentliche Kündigungsrecht nach
+Satz 2 ist ausgeschlossen, sofern eine Belieferung von Haushaltskunden
+erfolgt.
+
+(3) Die Bundesnetzagentur ist berechtigt, durch Festlegung nach § 29
+Absatz 1 die in den Absätzen 1 und 2 geregelten Rechte und Pflichten,
+auch in Bezug auf die Einbeziehung eines Aggregators, näher zu
+konkretisieren, insbesondere
+
+1.  zum Austausch erforderlicher Informationen,
+
+
+2.  zur Bilanzierung der Energiemengen, wobei sie insbesondere festlegen
+    kann, dass durch Dienstleistungen im Sinne von Absatz 1 Satz 1
+    verursachte Bilanzkreisabweichungen bilanziell auszugleichen sind,
+
+
+3.  zu technischen und administrativen Anforderungen oder Verfahren und
+
+
+4.  zum angemessenen Entgelt nach Absatz 1 Satz 2, wobei sie insbesondere
+    festlegen kann, dass ein Entgelt angemessen ist, wenn es auch einen
+    administrativen Aufwand umfasst.
+
+
+
+
+
+### § 41e Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern
+
+(1) Verträge zwischen Aggregatoren und Betreibern einer
+Erzeugungsanlage oder Letztverbrauchern über Dienstleistungen
+hinsichtlich von Mehr- oder Mindererzeugung sowie von Mehr- oder
+Minderverbrauch elektrischer Arbeit nach § 41d Absatz 1 Satz 1
+bedürfen der Textform. Der Aggregator hat den Betreiber der
+Erzeugungsanlage oder Letztverbraucher vor Vertragsschluss umfassend
+über die Bedingungen zu informieren, die sich aus einem
+Vertragsschluss nach § 41d Absatz 1 ergeben.
+
+(2) Letztverbraucher haben das Recht, von dem Aggregator auf Verlangen
+mindestens einmal in jedem Abrechnungszeitrum unentgeltlich alle sie
+betreffenden Laststeuerungsdaten oder Daten über die gelieferte und
+verkaufte Energie zu erhalten.
 
 
 ### § 42 Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung
@@ -4799,11 +9812,12 @@ gerichtetem Werbematerial sowie auf ihrer Website für den Verkauf von
 Elektrizität anzugeben:
 
 1.  den Anteil der einzelnen Energieträger (Kernkraft, Kohle, Erdgas und
-    sonstige fossile Energieträger, erneuerbare Energien, gefördert nach
-    dem Erneuerbare-Energien-Gesetz, sonstige erneuerbare Energien) an dem
-    Gesamtenergieträgermix, den der Lieferant im letzten oder vorletzten
-    Jahr verwendet hat; spätestens ab 1. November eines Jahres sind
-    jeweils die Werte des vorangegangenen Kalenderjahres anzugeben;
+    sonstige fossile Energieträger, Mieterstrom, finanziert aus der EEG-
+    Umlage, erneuerbare Energien mit Herkunftsnachweis, nicht finanziert
+    aus der EEG-Umlage) an dem Gesamtenergieträgermix, den der Lieferant
+    im Land des Liefervertrags im letzten oder vorletzten Jahr verwendet
+    hat; spätestens ab 1. November eines Jahres sind jeweils die Werte des
+    vorangegangenen Kalenderjahres anzugeben;
 
 
 2.  Informationen über die Umweltauswirkungen zumindest in Bezug auf
@@ -4824,8 +9838,15 @@ Größe in grafisch visualisierter Form darzustellen.
 Verkaufs an Letztverbraucher eine Produktdifferenzierung mit
 unterschiedlichem Energieträgermix vornimmt, gelten für diese Produkte
 sowie für den verbleibenden Energieträgermix die Absätze 1 und 2
-entsprechend. Die Verpflichtungen nach den Absätzen 1 und 2 bleiben
-davon unberührt.
+entsprechend mit der Maßgabe, dass zusätzlich zu den Energieträgern
+nach Absatz 1 Nummer 1 der Anteil der erneuerbaren Energien,
+finanziert aus der EEG-Umlage als Energieträger anzugeben ist.
+Elektrizitätsversorgungsunternehmen, die keine Produktdifferenzierung
+mit unterschiedlichen Energieträgermixen vornehmen, weisen den
+Gesamtenergieträgermix unter Einbeziehung des Anteils der
+„erneuerbaren Energien, finanziert aus der EEG-Umlage“ als
+„Unternehmensverkaufsmix“ aus. Die Verpflichtungen nach den Absätzen 1
+und 2 bleiben davon unberührt.
 
 (4) Bei Strommengen, die nicht eindeutig erzeugungsseitig einem der in
 Absatz 1 Nummer 1 genannten Energieträger zugeordnet werden können,
@@ -4843,13 +9864,12 @@ Stromkennzeichnung nach Absatz 1 Nummer 1 und Absatz 3 liegt nur vor,
 wenn das Elektrizitätsversorgungsunternehmen
 
 1.  Herkunftsnachweise für Strom aus erneuerbaren Energien verwendet, die
-    durch die zuständige Behörde nach § 55 Absatz 4 des Erneuerbare-
+    durch die zuständige Behörde nach § 79 Absatz 4 des Erneuerbare-
     Energien-Gesetzes entwertet wurden,
 
 
-2.  Strom, der nach dem Erneuerbare-Energien-Gesetz gefördert wird, unter
-    Beachtung der Vorschriften des Erneuerbare-Energien-Gesetzes ausweist
-    oder
+2.  Strom, der aus der EEG-Umlage finanziert wird, unter Beachtung der
+    Vorschriften des Erneuerbare-Energien-Gesetzes ausweist oder
 
 
 3.  Strom aus erneuerbaren Energien als Anteil des nach Absatz 4
@@ -4857,6 +9877,13 @@ wenn das Elektrizitätsversorgungsunternehmen
 
 
 
+Elektrizitätsversorgungsunternehmen sind berechtigt, für den Anteil
+von Strom aus erneuerbaren Energien, finanziert aus der EEG-Umlage,
+unter Beachtung der Vorschriften des Erneuerbare-Energien-Gesetzes in
+der Stromkennzeichnung auszuweisen, in welchem Umfang dieser
+Stromanteil in regionalem Zusammenhang zum Stromverbrauch erzeugt
+worden ist, wenn Regionalnachweise durch die zuständige Behörde nach §
+79a Absatz 4 des Erneuerbare-Energien-Gesetzes entwertet wurden.
 
 (6) Erzeuger und Vorlieferanten von Strom haben im Rahmen ihrer
 Lieferbeziehungen den nach Absatz 1 Verpflichteten auf Anforderung die
@@ -4868,21 +9895,76 @@ jährlich zur Überprüfung der Richtigkeit der Stromkennzeichnung die
 nach den Absätzen 1 bis 4 gegenüber den Letztverbrauchern anzugebenden
 Daten sowie die der Stromkennzeichnung zugrunde liegenden Strommengen
 der Bundesnetzagentur zu melden. Die Bundesnetzagentur übermittelt die
-Daten, soweit sie den Anteil an erneuerbaren Energien betreffen, an
-das Umweltbundesamt. Die Bundesnetzagentur kann Vorgaben zum Format,
-Umfang und Meldezeitpunkt machen. Stellt sie Formularvorlagen bereit,
-sind die Daten in dieser Form elektronisch zu übermitteln.
+Daten zum Zwecke der Überprüfung des Anteils an erneuerbaren Energien
+einschließlich unternehmensbezogener Daten und Betriebs- und
+Geschäftsgeheimnissen an das Umweltbundesamt. Die Bundesnetzagentur
+kann Vorgaben zum Format, Umfang und Meldezeitpunkt machen. Stellt sie
+Formularvorlagen bereit, sind die Daten in dieser Form elektronisch zu
+übermitteln.
 
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
-nicht der Zustimmung des Bundesrates bedarf, Vorgaben zur Darstellung
-der Informationen nach den Absätzen 1 bis 4, insbesondere für eine
-bundesweit vergleichbare Darstellung, und zur Bestimmung des
-Energieträgermixes für Strom, der nicht eindeutig erzeugungsseitig
-zugeordnet werden kann, abweichend von Absatz 4 sowie die Methoden zur
-Erhebung und Weitergabe von Daten zur Bereitstellung der Informationen
-nach den Absätzen 1 bis 4 festzulegen. Solange eine Rechtsverordnung
-nicht erlassen wurde, ist die Bundesnetzagentur berechtigt, die
-Vorgaben nach Satz 1 durch Festlegung zu bestimmen.
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, Vorgaben zur Darstellung der Informationen nach
+den Absätzen 1 bis 4, insbesondere für eine bundesweit vergleichbare
+Darstellung, und zur Bestimmung des Energieträgermixes für Strom, der
+nicht eindeutig erzeugungsseitig zugeordnet werden kann, abweichend
+von Absatz 4 sowie die Methoden zur Erhebung und Weitergabe von Daten
+zur Bereitstellung der Informationen nach den Absätzen 1 bis 4
+festzulegen. Solange eine Rechtsverordnung nicht erlassen wurde, ist
+die Bundesnetzagentur berechtigt, die Vorgaben nach Satz 1 durch
+Festlegung nach § 29 Absatz 1 zu bestimmen.
+
+
+### § 42a Mieterstromverträge
+
+(1) Für die Belieferung von Letztverbrauchern mit Mieterstrom im Sinn
+von § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes sind vorbehaltlich
+der Absätze 2 bis 4 die Vorschriften dieses Gesetzes anzuwenden.
+
+(2) Ein Vertrag über die Belieferung von Letztverbrauchern mit
+Mieterstrom (Mieterstromvertrag) darf nicht Bestandteil eines Vertrags
+über die Miete von Wohnräumen sein. Bei einem Verstoß gegen dieses
+Verbot ist der Mieterstromvertrag nichtig. Die §§ 814 und 817 Satz 2
+des Bürgerlichen Gesetzbuchs sind nicht anzuwenden. Sofern der Mieter
+dem Vermieter Wertersatz für den gelieferten Strom zu leisten hat,
+beträgt der Wert höchstens 75 Prozent des in dem jeweiligen Netzgebiet
+geltenden Grundversorgungstarifs, auf Basis des Grund- und
+Arbeitspreises, und nicht mehr als der im Mieterstromvertrag
+vereinbarte Preis. Satz 1 gilt nicht
+
+1.  für Mietverhältnisse nach § 549 Absatz 2 Nummer 1 und 2 des
+    Bürgerlichen Gesetzbuchs in der am 1. Juni 2015 gültigen Fassung,
+
+
+2.  für Mietverhältnisse, auf die die Ausnahmen des § 11 Absatz 1 Nummer 2
+    der Heizkostenverordnung in der Fassung der Bekanntmachung vom 5.
+    Oktober 2009 (BGBl. I S. 3250) Anwendung finden.
+
+
+
+Der Mieterstromvertrag muss die umfassende Versorgung des
+Letztverbrauchers mit Strom auch für die Zeiten vorsehen, in denen
+kein Mieterstrom geliefert werden kann. Bei einer Beendigung des
+Vertrags über die Miete von Wohnräumen endet der Mieterstromvertrag,
+ohne dass es einer ausdrücklichen Kündigung bedarf, mit der Rückgabe
+der Wohnung.
+
+(3) Bei einem Mieterstromvertrag ist eine die andere Vertragspartei
+länger als ein Jahr bindende Laufzeit des Vertrags unwirksam. Die
+stillschweigende Verlängerung des Vertragsverhältnisses um mehr als
+ein Jahr oder eine längere Kündigungsfrist als drei Monate vor Ablauf
+der zunächst vorgesehenen oder stillschweigend verlängerten
+Vertragsdauer sind unwirksam. Eine Bestimmung, durch die das
+Kündigungsrecht während der Dauer des Mietverhältnisses ausgeschlossen
+oder beschränkt wird, ist unwirksam.
+
+(4) Der für den Mieterstrom und den zusätzlichen Strombezug nach
+Absatz 2 Satz 6 zu zahlende Preis darf 90 Prozent des in dem
+jeweiligen Netzgebiet geltenden Grundversorgungstarifs, auf Basis des
+Grund- und Arbeitspreises, nicht übersteigen. Wird der Höchstpreis
+nach Satz 1 überschritten, erfolgt eine Herabsetzung auf den Preis,
+der diesem Höchstpreis entspricht.
 
 
 ## Teil 5 - Planfeststellung, Wegenutzung
@@ -4891,158 +9973,174 @@ Vorgaben nach Satz 1 durch Festlegung zu bestimmen.
 
 ### § 43 Erfordernis der Planfeststellung
 
-Die Errichtung und der Betrieb sowie die Änderung von
+(1) Die Errichtung und der Betrieb sowie die Änderung von folgenden
+Anlagen bedürfen der Planfeststellung durch die nach Landesrecht
+zuständige Behörde:
 
 1.  Hochspannungsfreileitungen, ausgenommen Bahnstromfernleitungen, mit
     einer Nennspannung von 110 Kilovolt oder mehr,
 
 
-2.  Gasversorgungsleitungen mit einem Durchmesser von mehr als 300
-    Millimeter,
+2.  Hochspannungsleitungen, die zur Netzanbindung von Windenergieanlagen
+    auf See im Sinne des § 3 Nummer 49 des Erneuerbare-Energien-Gesetzes
+    im Küstenmeer als Seekabel und landeinwärts als Freileitung oder
+    Erdkabel bis zu dem technisch und wirtschaftlich günstigsten
+    Verknüpfungspunkt des nächsten Übertragungs- oder Verteilernetzes
+    verlegt werden sollen,
 
 
-3.  Hochspannungsleitungen, die zur Netzanbindung von Offshore-Anlagen im
-    Sinne des § 3 Nr. 9 des Erneuerbare-Energien-Gesetzes vom 25. Oktober
-    2008 (BGBl. I S. 2074) in der jeweils geltenden Fassung im Küstenmeer
-    als Seekabel und landeinwärts als Freileitung oder Erdkabel bis zu dem
-    technisch und wirtschaftlich günstigsten Verknüpfungspunkt des
-    nächsten Übertragungs- oder Verteilernetzes verlegt werden sollen und
-
-
-4.  grenzüberschreitende Gleichstrom-Hochspannungsleitungen, die nicht
-    unter Nummer 3 fallen und die im Küstenmeer als Seekabel verlegt
+3.  grenzüberschreitende Gleichstrom-Hochspannungsleitungen, die nicht
+    unter Nummer 2 fallen und die im Küstenmeer als Seekabel verlegt
     werden sollen, sowie deren Fortführung landeinwärts als Freileitung
     oder Erdkabel bis zu dem technisch und wirtschaftlich günstigsten
     Verknüpfungspunkt des nächsten Übertragungs- oder Verteilernetzes,
 
 
+4.  Hochspannungsleitungen nach § 2 Absatz 5 und 6 des
+    Bundesbedarfsplangesetzes,
 
-bedürfen der Planfeststellung durch die nach Landesrecht zuständige
-Behörde. Auf Antrag des Trägers des Vorhabens können die für den
-Betrieb von Energieleitungen notwendigen Anlagen, insbesondere die
-Umspannanlagen und Netzverknüpfungspunkte, in das
-Planfeststellungsverfahren integriert und durch Planfeststellung
-zugelassen werden. Bei der Planfeststellung sind die von dem Vorhaben
-berührten öffentlichen und privaten Belange im Rahmen der Abwägung zu
-berücksichtigen. Für Hochspannungsleitungen mit einer Nennspannung von
-110 Kilovolt im Küstenbereich von Nord- und Ostsee, die in einem 20
-Kilometer breiten Korridor, der längs der Küstenlinie landeinwärts
-verläuft, verlegt werden sollen, kann ergänzend zu Satz 1 Nr. 1 auch
-für die Errichtung und den Betrieb sowie die Änderung eines Erdkabels
-ein Planfeststellungsverfahren durchgeführt werden. Küstenlinie ist
-die in der Seegrenzkarte Nr. 2920 "Deutsche Nordseeküste und
-angrenzende Gewässer", Ausgabe 1994, XII., und in der Seegrenzkarte
-Nr. 2921 "Deutsche Ostseeküste und angrenzende Gewässer", Ausgabe
-1994, XII., des Bundesamtes für Seeschifffahrt und Hydrographie
-jeweils im Maßstab 1 : 375 000 dargestellte Küstenlinie. Für das
-Planfeststellungsverfahren gelten die §§ 72 bis 78 des
-Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes. Auf Antrag
-des Trägers des Vorhabens können auch die Errichtung und der Betrieb
-sowie die Änderung eines Erdkabels mit einer Nennspannung von 110
-Kilovolt, ausgenommen Bahnstromfernleitungen, planfestgestellt werden;
-dies gilt auch bei Abschnittsbildung, wenn die Erdverkabelung in
-unmittelbarem Zusammenhang mit dem beantragten Abschnitt einer
-Freileitung steht. Die Maßgaben gelten entsprechend, soweit das
-Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz
-geregelt ist.
 
+5.  Gasversorgungsleitungen mit einem Durchmesser von mehr als 300
+    Millimetern und
+
+
+6.  Anbindungsleitungen von LNG-Anlagen an das Fernleitungsnetz mit einem
+    Durchmesser von mehr als 300 Millimetern.
+
+
+
+Leitungen nach § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes
+Übertragungsnetz bleiben unberührt.
+
+(2) Auf Antrag des Trägers des Vorhabens können durch Planfeststellung
+durch die nach Landesrecht zuständige Behörde zugelassen werden:
+
+1.  die für den Betrieb von Energieleitungen notwendigen Anlagen,
+    insbesondere Konverterstationen, Phasenschieber, Verdichterstationen,
+    Umspannanlagen und Netzverknüpfungspunkte, soweit sie in das
+    Planfeststellungsverfahren für die Energieleitung integriert werden;
+    dabei ist eine nachträgliche Integration in die Entscheidung zur
+    Planfeststellung durch Planergänzungsverfahren möglich, solange die
+    Entscheidung zur Planfeststellung gilt,
+
+
+2.[^F807051_1_BJNR197010005BJNE005007118]
+  die Errichtung und der Betrieb sowie die Änderung eines Erdkabels für
+    Hochspannungsleitungen mit einer Nennspannung von 110 Kilovolt im
+    Küstenbereich von Nord- und Ostsee, die in einem 20 Kilometer breiten
+    Korridor, der längs der Küstenlinie landeinwärts verläuft, verlegt
+    werden sollen; Küstenlinie ist die in der Seegrenzkarte Nummer 2920
+    „Deutsche Nordseeküste und angrenzende Gewässer“, Ausgabe 1994, XII,
+    und in der Seegrenzkarte Nummer 2921 „Deutsche Ostseeküste und
+    angrenzende Gewässer“, Ausgabe 1994, XII, des Bundesamtes für
+    Seeschifffahrt und Hydrographie jeweils im Maßstab 1 : 375 000
+    dargestellte Küstenlinie,
+
+
+3.  die Errichtung und der Betrieb sowie die Änderung eines Erdkabels mit
+    einer Nennspannung von 110 Kilovolt oder mehr zur Anbindung von
+    Kraftwerken oder Pumpspeicherkraftwerken an das
+    Elektrizitätsversorgungsnetz,
+
+
+4.  die Errichtung und der Betrieb sowie die Änderung eines sonstigen
+    Erdkabels für Hochspannungsleitungen mit einer Nennspannung von 110
+    Kilovolt oder weniger, ausgenommen Bahnstromfernleitungen,
+
+
+5.  die Errichtung und der Betrieb sowie die Änderung einer Freileitung
+    mit einer Nennspannung von unter 110 Kilovolt oder einer
+    Bahnstromfernleitung, sofern diese Leitungen mit einer Leitung nach
+    Absatz 1 Satz 1 Nummer 1, 2 oder 3 auf einem Mehrfachgestänge geführt
+    werden und in das Planfeststellungsverfahren für diese Leitung
+    integriert werden; Gleiches gilt für Erdkabel mit einer Nennspannung
+    von unter 110 Kilovolt, sofern diese im räumlichen und zeitlichen
+    Zusammenhang mit der Baumaßnahme eines Erdkabels nach Absatz 1 Satz 1
+    Nummer 2 bis 4 oder nach den Nummern 2 bis 4 mit verlegt werden,
+
+
+6.  Leerrohre, die im räumlichen und zeitlichen Zusammenhang mit der
+    Baumaßnahme eines Erdkabels nach Absatz 1 Satz 1 Nummer 2 bis 4 oder
+    nach den Nummern 2 bis 4 mit verlegt werden,
+
+
+7.  die Errichtung und der Betrieb sowie die Änderung von
+    Energiekopplungsanlagen und
+
+
+8.  die Errichtung und der Betrieb sowie die Änderung von
+    Großspeicheranlagen mit einer Nennleistung ab 50 Megawatt, soweit sie
+    nicht § 126 des Bundesberggesetzes unterfallen.
+
+
+
+Satz 1 ist für Erdkabel auch bei Abschnittsbildung anzuwenden, wenn
+die Erdverkabelung in unmittelbarem Zusammenhang mit dem beantragten
+Abschnitt einer Freileitung steht.
+
+(3) Bei der Planfeststellung sind die von dem Vorhaben berührten
+öffentlichen und privaten Belange im Rahmen der Abwägung zu
+berücksichtigen.
+
+(4) Für das Planfeststellungsverfahren sind die §§ 72 bis 78 des
+Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes anzuwenden.
+
+(5) Die Maßgaben sind entsprechend anzuwenden, soweit das Verfahren
+landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
+
+*_\_\__\_\__\_\__*
+
+    Amtlicher Hinweis: Zu beziehen beim Bundesamt für Seeschifffahrt und
+    Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg und in der
+    Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F807051_1_BJNR197010005BJNE005007118]: 
 
 ### § 43a Anhörungsverfahren
 
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
 
-1.  Die Auslegung nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes
-    erfolgt in den Gemeinden, in denen sich das Vorhaben voraussichtlich
-    auswirkt, innerhalb von zwei Wochen nach Zugang des Plans.
+1.  Der Plan ist gemäß § 73 Absatz 2 des Verwaltungsverfahrensgesetzes
+    innerhalb von zwei Wochen nach Zugang auszulegen.
 
 
-2.  Die Anhörungsbehörde benachrichtigt innerhalb der Frist des § 73 Abs.
-    2 des Verwaltungsverfahrensgesetzes auch die vom Bund oder Land
-    anerkannten Naturschutzvereinigungen sowie sonstige Vereinigungen,
-    soweit diese sich für den Umweltschutz einsetzen und nach in anderen
-    gesetzlichen Vorschriften zur Einlegung von Rechtsbehelfen in
-    Umweltangelegenheiten vorgesehenen Verfahren anerkannt sind,
-    (Vereinigungen) von der Auslegung des Plans und gibt ihnen Gelegenheit
-    zur Stellungnahme. Die Benachrichtigung erfolgt durch die ortsübliche
-    Bekanntmachung der Auslegung nach § 73 Abs. 5 Satz 1 des
-    Verwaltungsverfahrensgesetzes in den Gemeinden nach Nummer 1.
-    Unbeschadet davon bleibt die Beteiligung anderer Vereinigungen nach
-    den allgemeinen Vorschriften.
+2.  Die Einwendungen und Stellungnahmen sind dem Vorhabenträger und den
+    von ihm Beauftragten zur Verfügung zu stellen, um eine Erwiderung zu
+    ermöglichen; datenschutzrechtliche Bestimmungen sind zu beachten; auf
+    Verlangen des Einwenders sollen dessen Name und Anschrift unkenntlich
+    gemacht werden, wenn diese zur ordnungsgemäßen Durchführung des
+    Verfahrens nicht erforderlich sind; auf diese Möglichkeit ist in der
+    öffentlichen Bekanntmachung hinzuweisen.
 
 
-3.  Für Vereinigungen gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes
-    entsprechend. § 73 Abs. 6 des Verwaltungsverfahrensgesetzes gilt für
-    Vereinigungen entsprechend, wenn sie fristgerecht Stellung genommen
-    haben. Sie sind von dem Erörterungstermin zu benachrichtigen.
+3.  Ein Erörterungstermin findet nicht statt, wenn
 
-
-4.  Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt
-    sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung
-    in der Gemeinde mit dem Hinweis nach § 73 Abs. 5 Satz 2 des
-    Verwaltungsverfahrensgesetzes benachrichtigt werden.
-
-
-5.  Die Anhörungsbehörde hat die rechtzeitig erhobenen Einwendungen mit
-    den Vorhabenträgern und denjenigen, die Einwendungen erhoben haben,
-    mündlich zu erörtern. Ein Erörterungstermin findet nicht statt, wenn
-
-    1.  Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben
+    a)  Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben
         worden sind,
 
 
-    2.  die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind,
+    b)  die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind,
 
 
-    3.  ausschließlich Einwendungen erhoben worden sind, die auf
+    c)  ausschließlich Einwendungen erhoben worden sind, die auf
         privatrechtlichen Titeln beruhen, oder
 
 
-    4.  alle Einwender auf einen Erörterungstermin verzichten.
+    d)  alle Einwender auf einen Erörterungstermin verzichten.
 
 
 
-    Die Anhörungsbehörde hat die Erörterung innerhalb von drei Monaten
-    nach Ablauf der Einwendungsfrist abzuschließen. Die Anhörungsbehörde
-    gibt ihre Stellungnahme innerhalb eines Monats nach Abschluss der
-    Erörterung ab und leitet sie innerhalb dieser Frist mit dem Plan, den
-    Stellungnahmen der Behörden, den Stellungnahmen der Vereinigungen und
-    den nicht erledigten Einwendungen der Planfeststellungsbehörde zu.
     Findet keine Erörterung statt, so hat die Anhörungsbehörde ihre
     Stellungnahme innerhalb von sechs Wochen nach Ablauf der
-    Einwendungsfrist abzugeben und zusammen mit den sonstigen in Satz 2
-    aufgeführten Unterlagen der Planfeststellungsbehörde zuzuleiten.
+    Einwendungsfrist abzugeben und sie der Planfeststellungsbehörde
+    zusammen mit den sonstigen in § 73 Absatz 9 des
+    Verwaltungsverfahrensgesetzes aufgeführten Unterlagen zuzuleiten.
 
 
-6.  Soll ein ausgelegter Plan geändert werden, so sind auch Vereinigungen
-    entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu
-    beteiligen. Für Vereinigungen, die sich nicht in der sich aus Nummer 3
-    in Verbindung mit § 73 Abs. 4 Satz 1 des Verwaltungsverfahrensgesetzes
-    ergebenden Frist geäußert haben, und im Falle des § 73 Abs. 8 Satz 2
-    des Verwaltungsverfahrensgesetzes erfolgt die Benachrichtigung von der
-    Planänderung und der Frist zur Stellungnahme in entsprechender
-    Anwendung der Nummer 2 Satz 2. Im Regelfall kann von der Erörterung im
-    Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9
-    Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    abgesehen werden.
-
-
-7.  Einwendungen gegen den Plan oder – im Falle des § 73 Abs. 8 des
-    Verwaltungsverfahrensgesetzes – dessen Änderung sind nach Ablauf der
-    Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der
-    Vereinigungen sind nach Ablauf der Äußerungsfrist nach den Nummern 3
-    und 6 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in
-    der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-    Einwendungs- oder Stellungnahmefrist sowie in der Benachrichtigung der
-    Vereinigungen hinzuweisen. Abweichend von § 73 Abs. 3a Satz 2 des
-    Verwaltungsverfahrensgesetzes können Stellungnahmen der Behörden, die
-    nach Ablauf der Frist des § 73 Abs. 3a Satz 1 des
-    Verwaltungsverfahrensgesetzes eingehen, auch noch nach Fristablauf
-    berücksichtigt werden; sie sind stets zu berücksichtigen, wenn später
-    von einer Behörde vorgebrachte öffentliche Belange der
-    Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
-    hätten bekannt sein müssen oder für die Rechtmäßigkeit der
-    Entscheidung von Bedeutung sind.
+4.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 
@@ -5050,10 +10148,11 @@ mit folgenden Maßgaben:
 
 ### § 43b Planfeststellungsbeschluss, Plangenehmigung
 
-Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
-Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
+Für Planfeststellungsbeschluss und Plangenehmigung gelten die §§ 73
+und 74 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
-1.  Bei Planfeststellungen für Vorhaben im Sinne des § 43 Satz 1 wird
+1.  Bei Planfeststellungen für Vorhaben im Sinne des § 43 Absatz 1 Satz 1
+    wird
 
     a)  für ein bis zum 31. Dezember 2010 beantragtes Vorhaben für die
         Errichtung und den Betrieb sowie die Änderung von
@@ -5069,41 +10168,18 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 
 
-    die Öffentlichkeit einschließlich der Vereinigungen im Sinne von § 43a
-    Nr. 2 ausschließlich entsprechend § 9 Abs. 3 des Gesetzes über die
+    die Öffentlichkeit einschließlich der Vereinigungen im Sinne von § 73
+    Absatz 4 Satz 5 des Verwaltungsverfahrensgesetzes ausschließlich
+    entsprechend § 18 Absatz 2 des Gesetzes über die
     Umweltverträglichkeitsprüfung mit der Maßgabe einbezogen, dass die
     Gelegenheit zur Äußerung einschließlich Einwendungen und
     Stellungnahmen innerhalb eines Monats nach der Einreichung des
     vollständigen Plans für eine Frist von sechs Wochen zu gewähren ist.
-    Nach dieser Frist eingehende Äußerungen, Einwendungen und
-    Stellungnahmen sind ausgeschlossen. Hierauf ist in der Bekanntmachung
-    des Vorhabens hinzuweisen. § 43a Nr. 4 und 5 Satz 2 gilt entsprechend.
-    Für die Stellungnahmen der Behörden gilt § 43a Nr. 7 Satz 4.
 
 
-2.  Abweichend von Nummer 1 und § 43 Satz 1 und 3 ist für ein Vorhaben,
-    für das nach dem Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung nicht durchzuführen ist, auf Antrag des
-    Trägers des Vorhabens, an Stelle des Planfeststellungsbeschlusses eine
-    Plangenehmigung zu erteilen. Ergänzend zu § 74 Abs. 6 Satz 1 Nr. 1 des
-    Verwaltungsverfahrensgesetzes kann eine Plangenehmigung auch dann
-    erteilt werden, wenn Rechte anderer nur unwesentlich beeinträchtigt
-    werden.
-
-
-3.  Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung.
-
-
-4.  Verfahren zur Planfeststellung oder Plangenehmigung bei Vorhaben,
+2.  Verfahren zur Planfeststellung oder Plangenehmigung bei Vorhaben,
     deren Auswirkungen über das Gebiet eines Landes hinausgehen, sind
     zwischen den zuständigen Behörden der beteiligten Länder abzustimmen.
-
-
-5.  Planfeststellungsbeschluss und Plangenehmigung sind dem Träger des
-    Vorhabens, den Vereinigungen, über deren Einwendungen und
-    Stellungnahmen entschieden worden ist, und denjenigen, über deren
-    Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
-    zuzustellen.
 
 
 
@@ -5130,11 +10206,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Planfeststellungsbeschluss entsprechend anzuwenden.
 
 
-4.  Als Beginn der Durchführung des Plans gilt jede erstmals nach außen
-    erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur
-    plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung
-    der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
-    nicht.
+4.  (weggefallen)
 
 
 
@@ -5147,18 +10219,17 @@ Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
 Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
 Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
-Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
 
 
 ### § 43e Rechtsbehelfe
 
-(1) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss nach §
-43, auch in Verbindung mit § 43b Nr. 1, oder eine Plangenehmigung nach
-§ 43b Nr. 2 hat keine aufschiebende Wirkung. Der Antrag auf Anordnung
-der aufschiebenden Wirkung der Anfechtungsklage gegen einen
+(1) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder
+eine Plangenehmigung hat keine aufschiebende Wirkung. Der Antrag auf
+Anordnung der aufschiebenden Wirkung der Anfechtungsklage gegen einen
 Planfeststellungsbeschluss oder eine Plangenehmigung nach § 80 Abs. 5
 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats
 nach der Zustellung des Planfeststellungsbeschlusses oder der
@@ -5179,26 +10250,27 @@ Begründung seiner Klage dienenden Tatsachen und Beweismittel
 anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt
 entsprechend.
 
-(4) Mängel bei der Abwägung der von dem Vorhaben berührten
-öffentlichen und privaten Belange sind nur erheblich, wenn sie
-offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
-Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
-Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
-durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes und
-die entsprechenden landesrechtlichen Bestimmungen bleiben unberührt.
+(4) Für Energieleitungen, die nach § 43 Absatz 1 Satz 1 Nummer 2
+planfestgestellt werden, sowie für Anlagen, die für den Betrieb dieser
+Energieleitungen notwendig sind und die nach § 43 Absatz 2 Satz 1
+Nummer 1 planfestgestellt werden, ist § 50 Absatz 1 Nummer 6 der
+Verwaltungsgerichtsordnung anzuwenden. § 50 Absatz 1 Nummer 6 der
+Verwaltungsgerichtsordnung ist auch anzuwenden für auf diese
+Energieleitungen und auf für deren Betrieb notwendige Anlagen bezogene
+Zulassungen des vorzeitigen Baubeginns und Anzeigeverfahren sowie für
+Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Anlagen, die
+für den Betrieb dieser Energieleitungen notwendig sind.
 
 
-### § 43f Unwesentliche Änderungen
+### § 43f Änderungen im Anzeigeverfahren
 
-Unwesentliche Änderungen oder Erweiterungen können anstelle des
+(1) Unwesentliche Änderungen oder Erweiterungen können anstelle des
 Planfeststellungsverfahrens durch ein Anzeigeverfahren zugelassen
 werden. Eine Änderung oder Erweiterung ist nur dann unwesentlich, wenn
 
-1.  es sich nicht um eine Änderung oder Erweiterung handelt, für die nach
-    dem Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung durchzuführen ist,
+1.  nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach
+    Absatz 2 hierfür keine Umweltverträglichkeitsprüfung durchzuführen
+    ist,
 
 
 2.  andere öffentliche Belange nicht berührt sind oder die erforderlichen
@@ -5211,22 +10283,70 @@ werden. Eine Änderung oder Erweiterung ist nur dann unwesentlich, wenn
 
 
 
-Der Vorhabenträger zeigt gegenüber der nach Landesrecht zuständigen
-Behörde die von ihm geplante Maßnahme an. Der Anzeige sind in
-ausreichender Weise Erläuterungen beizufügen, aus denen sich ergibt,
-dass die geplante Änderung unwesentlich ist. Insbesondere bedarf es
+
+(2) Abweichend von den Vorschriften des Gesetzes über die
+Umweltverträglichkeitsprüfung ist eine Umweltverträglichkeitsprüfung
+für die Änderung oder Erweiterung nicht durchzuführen bei
+
+1.  Änderungen des Betriebskonzepts,
+
+
+2.  Umbeseilungen oder
+
+
+3.  Zubeseilungen.
+
+
+
+Satz 1 ist nur anzuwenden, wenn die nach Landesrecht zuständige
+Behörde feststellt, dass die Vorgaben der §§ 3, 3a und 4 der
+Verordnung über elektromagnetische Felder und die Vorgaben der
+Technischen Anleitung zum Schutz gegen Lärm vom 26. August 1998 (GMBl
+S. 503) in der jeweils geltenden Fassung eingehalten sind. Satz 1
+Nummer 2 und 3 ist ferner jeweils nur anzuwenden, sofern einzeln oder
+im Zusammenwirken mit anderen Vorhaben eine erhebliche
+Beeinträchtigung eines Natura 2000-Gebiets oder eines bedeutenden
+Brut- oder Rastgebiets geschützter Vogelarten nicht zu erwarten ist.
+Satz 1 Nummer 3 ist bei Höchstspannungsfreileitungen mit einer
+Nennspannung von 220 Kilovolt oder mehr ferner nur anzuwenden, wenn
+die Zubeseilung eine Länge von höchstens 15 Kilometern hat.
+
+(3) Abweichend von Absatz 1 Satz 2 Nummer 2 kann eine Änderung oder
+Erweiterung auch dann im Anzeigeverfahren zugelassen werden, wenn die
+nach Landesrecht zuständige Behörde im Einvernehmen mit der
+zuständigen Immissionsschutzbehörde feststellt, dass die Vorgaben nach
+den §§ 3, 3a und 4 der Verordnung über elektromagnetische Felder und
+die Vorgaben der Technischen Anleitung zum Schutz gegen Lärm vom 26.
+August 1998 (GMBl S. 503) in der jeweils geltenden Fassung eingehalten
+sind, und wenn weitere öffentliche Belange nicht berührt sind oder die
+hierfür erforderlichen behördlichen Entscheidungen vorliegen und sie
+dem Plan nicht entgegenstehen.
+
+(4) Der Vorhabenträger zeigt gegenüber der nach Landesrecht
+zuständigen Behörde die von ihm geplante Maßnahme an. Der Anzeige sind
+in ausreichender Weise Erläuterungen beizufügen, aus denen sich
+ergibt, dass die geplante Änderung oder Erweiterung den
+Voraussetzungen der Absätze 1 bis 3 genügt. Insbesondere bedarf es
 einer Darstellung zu den zu erwartenden Umweltauswirkungen. Die nach
 Landesrecht zuständige Behörde entscheidet innerhalb eines Monats, ob
-anstelle der Anzeige ein Plangenehmigungs- oder
+anstelle des Anzeigeverfahrens ein Plangenehmigungs- oder
 Planfeststellungsverfahren durchzuführen ist oder die Maßnahme von
-einem förmlichen Verfahren freigestellt ist. Die Entscheidung ist dem
-Vorhabenträger bekannt zu machen.
+einem förmlichen Verfahren freigestellt ist. Prüfgegenstand ist nur
+die jeweils angezeigte Änderung oder Erweiterung; im Falle des
+Absatzes 2 Satz 1 Nummer 1 bedarf es keiner Prüfung der dinglichen
+Rechte anderer. Die Entscheidung ist dem Vorhabenträger bekannt zu
+machen.
+
+(5) Für die Zwecke dieses Paragrafen sind die Begriffsbestimmungen des
+§ 3 Nummer 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz
+entsprechend anzuwenden.
 
 
 ### § 43g Projektmanager
 
-Die nach Landesrecht zuständige Behörde kann einen Dritten mit der
-Vorbereitung und Durchführung von Verfahrensschritten wie
+Die nach Landesrecht zuständige Behörde kann einen Dritten, der als
+Verwaltungshelfer beschäftigt werden kann, mit der Vorbereitung und
+Durchführung von Verfahrensschritten wie
 
 1.  der Erstellung von Verfahrensleitplänen unter Bestimmung von
     Verfahrensabschnitten und Zwischenterminen,
@@ -5238,16 +10358,23 @@ Vorbereitung und Durchführung von Verfahrensschritten wie
 3.  der Koordinierung von erforderlichen Sachverständigengutachten,
 
 
-4.  dem Entwurf eines Anhörungsberichtes,
+4.  dem Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
 
 
-5.  der ersten Auswertung der eingereichten Stellungnahmen,
+5.  der Koordinierung der Enteignungs- und Entschädigungsverfahren nach
+    den §§ 45 und 45a,
 
 
-6.  der organisatorischen Vorbereitung eines Erörterungstermins und
+6.  dem Entwurf eines Anhörungsberichtes,
 
 
-7.  der Leitung des Erörterungstermins
+7.  der ersten Auswertung der eingereichten Stellungnahmen,
+
+
+8.  der organisatorischen Vorbereitung eines Erörterungstermins und
+
+
+9.  der Leitung des Erörterungstermins
 
 
 
@@ -5265,7 +10392,142 @@ der technisch vergleichbaren Freileitung den Faktor 2,75 nicht
 überschreiten und naturschutzfachliche Belange nicht entgegenstehen;
 die für die Zulassung des Vorhabens zuständige Behörde kann auf Antrag
 des Vorhabenträgers die Errichtung als Freileitung zulassen, wenn
-öffentliche Interessen nicht entgegenstehen.
+öffentliche Interessen nicht entgegenstehen. Soll der Neubau einer
+Hochspannungsleitung weit überwiegend in oder unmittelbar neben einer
+Bestandstrasse durchgeführt werden, handelt es sich nicht um eine neue
+Trasse im Sinne des Satzes 1.
+
+
+### § 43i Überwachung
+
+(1) Die für die Zulassung des Vorhabens zuständige Behörde hat durch
+geeignete Überwachungsmaßnahmen sicherzustellen, dass das Vorhaben im
+Einklang mit den umweltbezogenen Bestimmungen des
+Planfeststellungsbeschlusses oder der Plangenehmigung durchgeführt
+wird; dies gilt insbesondere für Bestimmungen zu umweltbezogenen
+Merkmalen des Vorhabens, dem Standort des Vorhabens, für Maßnahmen,
+mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen,
+vermindert oder ausgeglichen werden sollen, für bodenschonende
+Maßnahmen sowie für Ersatzmaßnahmen bei Eingriffen in Natur und
+Landschaft. Die Überwachung nach diesem Absatz kann dem Vorhabenträger
+aufgegeben werden. Bereits bestehende Überwachungsmechanismen, Daten
+und Informationsquellen können für die Überwachungsmaßnahmen genutzt
+werden.
+
+(2) Die für die Zulassung des Vorhabens zuständige Behörde kann die
+erforderlichen Maßnahmen treffen, um sicherzustellen, dass das
+Vorhaben im Einklang mit den umweltbezogenen Bestimmungen des
+Planfeststellungsbeschlusses oder der Plangenehmigung durchgeführt
+wird.
+
+(3) § 28 des Gesetzes über die Umweltverträglichkeitsprüfung ist nicht
+anzuwenden.
+
+
+### § 43j Leerrohre für Hochspannungsleitungen
+
+Bei Vorhaben im Sinne von § 43 Absatz 1 Satz 1 Nummer 2 bis 4 oder
+Absatz 2 Satz 1 Nummer 2 bis 4 können Leerrohre nach § 43 Absatz 2
+Satz 1 Nummer 6 in ein Planfeststellungsverfahren einbezogen werden,
+wenn
+
+1.  die Leerrohre im räumlichen und zeitlichen Zusammenhang mit der
+    Baumaßnahme eines Erdkabels verlegt werden und
+
+
+2.  die zuständige Behörde anhand der Umstände des Einzelfalls davon
+    ausgehen kann, dass die Leerrohre innerhalb von 15 Jahren nach der
+    Planfeststellung zur Durchführung einer Stromleitung im Sinne von § 43
+    Absatz 1 Satz 1 Nummer 2 bis 4 oder Absatz 2 Satz 1 Nummer 2 bis 4
+    genutzt werden.
+
+
+
+Gegenstand des Planfeststellungsverfahrens und des
+Planfeststellungsbeschlusses sind die Verlegung der Leerrohre, die
+spätere Durchführung der Stromleitung und deren anschließender
+Betrieb. Für die Nutzung der Leerrohre zur Durchführung einer
+Stromleitung und zu deren anschließendem Betrieb bedarf es keines
+weiteren Genehmigungsverfahrens, wenn mit der Durchführung der
+Stromleitung innerhalb der Frist des § 43c Nummer 1 begonnen wird und
+sich die im Planfeststellungsverfahren zugrunde gelegten Merkmale des
+Vorhabens nicht geändert haben. Die Einbeziehung von Leerrohren nach
+Satz 1 kann auf einzelne Abschnitte des betroffenen Vorhabens
+beschränkt werden.
+
+
+### § 43k Zurverfügungstellung von Geodaten
+
+Soweit für die Planfeststellung, die Plangenehmigung oder das
+Anzeigeverfahren Geodaten, die bei einer Behörde oder einem Dritten
+zur Erfüllung öffentlicher Aufgaben vorhanden sind, benötigt werden,
+sind diese Daten auf Verlangen dem Vorhabenträger, den von ihm
+Beauftragten oder den zuständigen Planfeststellungsbehörden der Länder
+für die Zwecke der Planfeststellung, der Plangenehmigung oder des
+Anzeigeverfahrens zur Verfügung zu stellen. Der Betreiber von
+Einheiten Kritischer Infrastrukturen im Sinne von § 2 Absatz 5 der
+Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-
+Gesetz kann die Herausgabe von Geodaten verweigern, wenn diese Daten
+besonders schutzbedürftig sind. Der Betreiber kann in diesem Fall die
+Geodaten über ein geeignetes Verfahren zur Verfügung stellen, wenn ihm
+die Datenhoheit über seine Geodaten garantiert wird. Die §§ 8 und 9
+des Umweltinformationsgesetzes und entsprechende Regelungen des
+Landesrechts bleiben unberührt.
+
+
+### § 43l Regelungen zum Auf- und Ausbau von Wasserstoffnetzen
+
+(1) Der Begriff der Gasversorgungsleitung in Teil 5 dieses Gesetzes
+umfasst auch Wasserstoffnetze.
+
+(2) Die Errichtung und der Betrieb sowie die Änderung von
+Wasserstoffleitungen einschließlich der Anbindungsleitungen von
+Anlandungsterminals für Wasserstoff mit einem Durchmesser von mehr als
+300 Millimetern bedürfen der Planfeststellung durch die nach
+Landesrecht für Verfahren nach § 43 Absatz 1 Satz 1 Nummer 5
+zuständige Behörde. Anlage 1 Nummer 19.2 des Gesetzes über die
+Umweltverträglichkeitsprüfung ist auf Wasserstoffnetze entsprechend
+anzuwenden.
+
+(3) Auf Antrag des Trägers des Vorhabens kann die nach Landesrecht für
+Verfahren nach § 43 Absatz 1 Satz 1 Nummer 5 zuständige Behörde die
+Errichtung und den Betrieb sowie die Änderung von Wasserstoffleitungen
+einschließlich der Anbindungsleitungen von Anlandungsterminals für
+Wasserstoff mit einem Durchmesser von 300 Millimeter oder weniger
+durch Planfeststellung zulassen. § 43 Absatz 2 Satz 1 Nummer 1 bleibt
+unberührt.
+
+(4) Behördliche Zulassungen für die Errichtung, die Änderung und den
+Betrieb einer Gasversorgungsleitung für Erdgas einschließlich der für
+den Betrieb notwendigen Anlagen, soweit sie in ein
+Planfeststellungsverfahren integriert wurden und keine nach dem
+Bundes-Immissionsschutzgesetz genehmigungsbedürftigen Anlagen sind,
+gelten auch als Zulassung für den Transport von Wasserstoff. Das
+Gleiche ist für Gasversorgungsleitungen für Erdgas anzuwenden, für die
+zum Zeitpunkt der Errichtung ein Anzeigenvorbehalt bestand. Die §§ 49
+und 113c bleiben unberührt. Für erforderliche Änderungen oder
+Erweiterungen von Gasversorgungsleitungen zur Ermöglichung des
+Transports von Wasserstoff bleibt § 43f unberührt. Änderungen und
+Erweiterungen nach Satz 4 stehen Änderungen des Betriebskonzepts nach
+§ 43f Absatz 2 Nummer 1 gleich.
+
+(5) Absatz 4 ist entsprechend anzuwenden auf behördliche Zulassungen
+und Anzeigenvorbehalte für Gas-, Wasserstoff- und Produktleitungen auf
+Grundlage eines anderen Gesetzes.
+
+(6) Die anlagenbezogenen Regelungen des Bundes-
+Immissionsschutzgesetzes bleiben unberührt.
+
+(7) Der in § 35 Absatz 1 Nummer 3 des Baugesetzbuches verwendete
+Begriff des Gases sowie der in § 1 Nummer 14 der
+Raumordnungsverordnung genannte Begriff der Gasleitungen umfassen auch
+Wasserstoffnetze.
+
+(8) Die Absätze 1 bis 7 sind entsprechend anzuwenden für Maßnahmen bei
+Errichtung und Betrieb sowie bei Änderungen und Erweiterungen von
+Gasversorgungsleitungen einschließlich der Anbindungsleitungen von
+LNG-Terminals sowie Nebenanlagen, die der Vorbereitung auf einen
+Transport von Wasserstoff dienen.
 
 
 ### § 44 Vorarbeiten
@@ -5274,7 +10536,9 @@ des Vorhabenträgers die Errichtung als Freileitung zulassen, wenn
 der Planung und der Baudurchführung eines Vorhabens oder von
 Unterhaltungsmaßnahmen notwendige Vermessungen, Boden- und
 Grundwasseruntersuchungen einschließlich der vorübergehenden
-Anbringung von Markierungszeichen sowie sonstige Vorarbeiten durch den
+Anbringung von Markierungszeichen, bauvorbereitende Maßnahmen zur
+bodenschonenden Bauausführung, Kampfmitteluntersuchungen und
+archäologische Voruntersuchungen sowie sonstige Vorarbeiten durch den
 Träger des Vorhabens oder von ihm Beauftragte zu dulden. Weigert sich
 der Verpflichtete, Maßnahmen nach Satz 1 zu dulden, so kann die nach
 Landesrecht zuständige Behörde auf Antrag des Trägers des Vorhabens
@@ -5312,9 +10576,9 @@ Verwaltungsverfahrensgesetzes und im Entschädigungsverfahren
 unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, im Falle von
-Hochspannungsfreileitungen über fünf Jahre, können die Eigentümer für
-die dadurch entstandenen Vermögensnachteile Entschädigung verlangen.
-Sie können ferner die Vereinbarung einer beschränkt persönlichen
+Hochspannungsleitungen über fünf Jahre, können die Eigentümer für die
+dadurch entstandenen Vermögensnachteile Entschädigung verlangen. Sie
+können ferner die Vereinbarung einer beschränkt persönlichen
 Dienstbarkeit für die vom Plan betroffenen Flächen verlangen, wenn es
 ihnen mit Rücksicht auf die Veränderungssperre wirtschaftlich nicht
 zuzumuten ist, die Grundstücke in der bisherigen oder einer anderen
@@ -5400,13 +10664,78 @@ nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 
+### § 44c Zulassung des vorzeitigen Baubeginns
+
+(1) In einem Planfeststellungs- oder Plangenehmigungsverfahren kann
+die für die Feststellung des Plans oder für die Erteilung der
+Plangenehmigung zuständige Behörde vorläufig zulassen, dass bereits
+vor Feststellung des Plans oder der Erteilung der Plangenehmigung in
+Teilen mit der Errichtung oder Änderung eines Vorhabens im Sinne des §
+43 Absatz 1 Satz 1 Nummer 1 bis 6 und Absatz 2 einschließlich der
+Vorarbeiten begonnen wird, wenn
+
+1.  unter Berücksichtigung der Stellungnahmen der Träger öffentlicher
+    Belange einschließlich der Gebietskörperschaften mit einer
+    Entscheidung im Planfeststellungs- oder Plangenehmigungsverfahren
+    zugunsten des Vorhabenträgers gerechnet werden kann,
+
+
+2.  der Vorhabenträger ein berechtigtes oder ein öffentliches Interesse an
+    der Zulassung des vorzeitigen Baubeginns darlegt,
+
+
+3.  der Vorhabenträger nur Maßnahmen durchführt, die reversibel sind,
+
+
+4.  der Vorhabenträger über die für die Maßnahmen notwendigen privaten
+    Rechte verfügt und
+
+
+5.  der Vorhabenträger sich verpflichtet,
+
+    a)  alle Schäden zu ersetzen, die bis zur Entscheidung im
+        Planfeststellungs- oder Plangenehmigungsverfahren durch die Maßnahmen
+        verursacht worden sind, und
+
+
+    b)  sofern kein Planfeststellungsbeschluss oder keine Plangenehmigung
+        erfolgt, den früheren Zustand wiederherzustellen.
+
+
+
+
+
+
+Ausnahmsweise können irreversible Maßnahmen zugelassen werden, wenn
+sie nur wirtschaftliche Schäden verursachen und für diese Schäden eine
+Entschädigung in Geld geleistet wird. Die Zulassung des vorzeitigen
+Baubeginns erfolgt auf Antrag des Vorhabenträgers und unter dem
+Vorbehalt des Widerrufs. § 44 bleibt unberührt.
+
+(2) Die für die Feststellung des Plans oder für die Erteilung der
+Plangenehmigung zuständige Behörde kann die Leistung einer Sicherheit
+verlangen, soweit dies erforderlich ist, um die Erfüllung der
+Verpflichtungen des Vorhabenträgers nach Absatz 1 Satz 1 Nummer 5
+sowie Absatz 1 Satz 2 zu sichern. Soweit die zugelassenen Maßnahmen
+durch die Planfeststellung oder Plangenehmigung für unzulässig erklärt
+sind, ordnet die Behörde gegenüber dem Träger des Vorhabens an, den
+früheren Zustand wiederherzustellen. Dies gilt auch, wenn der Antrag
+auf Planfeststellung oder Plangenehmigung zurückgenommen wurde.
+
+(3) Die Entscheidung über die Zulassung des vorzeitigen Baubeginns ist
+den anliegenden Gemeinden und den Beteiligten zuzustellen.
+
+(4) Widerspruch und Anfechtungsklage gegen die Zulassung des
+vorzeitigen Baubeginns haben keine aufschiebende Wirkung.
+
+
 ### § 45 Enteignung
 
 (1) Die Entziehung oder die Beschränkung von Grundeigentum oder von
 Rechten am Grundeigentum im Wege der Enteignung ist zulässig, soweit
 sie zur Durchführung
 
-1.  eines Vorhabens nach § 43 oder § 43b Nr. 1 oder 2, für das der Plan
+1.  eines Vorhabens nach § 43 oder § 43b Nr. 1, für das der Plan
     festgestellt oder genehmigt ist, oder
 
 
@@ -5461,8 +10790,8 @@ Letztverbrauchern im Gemeindegebiet diskriminierungsfrei durch Vertrag
 zur Verfügung zu stellen. Unbeschadet ihrer Verpflichtungen nach Satz
 1 können die Gemeinden den Abschluss von Verträgen ablehnen, solange
 das Energieversorgungsunternehmen die Zahlung von Konzessionsabgaben
-in Höhe der Höchstsätze nach § 48 Abs. 2 verweigert und eine Einigung
-über die Höhe der Konzessionsabgaben noch nicht erzielt ist.
+in Höhe der Höchstsätze nach § 48 Absatz 2 verweigert und eine
+Einigung über die Höhe der Konzessionsabgaben noch nicht erzielt ist.
 
 (2) Verträge von Energieversorgungsunternehmen mit Gemeinden über die
 Nutzung öffentlicher Verkehrswege für die Verlegung und den Betrieb
@@ -5475,46 +10804,127 @@ allgemeinen Versorgung im Gemeindegebiet notwendigen
 Verteilungsanlagen dem neuen Energieversorgungsunternehmen gegen
 Zahlung einer wirtschaftlich angemessenen Vergütung zu übereignen. Das
 neue Energieversorgungsunternehmen kann statt der Übereignung
-verlangen, dass ihm der Besitz hieran eingeräumt wird. Der bisherige
-Nutzungsberechtigte ist verpflichtet, der Gemeinde spätestens ein Jahr
-vor Bekanntmachung der Gemeinde nach Absatz 3 diejenigen Informationen
-über die technische und wirtschaftliche Situation des Netzes zur
-Verfügung zu stellen, die für eine Bewertung des Netzes im Rahmen
-einer Bewerbung um den Abschluss eines Vertrages nach Satz 1
-erforderlich sind. Die Bundesnetzagentur kann im Einvernehmen mit dem
-Bundeskartellamt Entscheidungen über den Umfang und das Format der zur
-Verfügung zu stellenden Daten durch Festlegung gegenüber den
-Energieversorgungsunternehmen treffen.
+verlangen, dass ihm der Besitz hieran eingeräumt wird. Für die
+wirtschaftlich angemessene Vergütung ist der sich nach den zu
+erzielenden Erlösen bemessende objektivierte Ertragswert des
+Energieversorgungsnetzes maßgeblich. Die Möglichkeit zur Einigung auf
+eine anderweitig basierte Vergütung bleibt unberührt.
 
 (3) Die Gemeinden machen spätestens zwei Jahre vor Ablauf von
 Verträgen nach Absatz 2 das Vertragsende und einen ausdrücklichen
-Hinweis auf die nach Absatz 2 Satz 3 von der Gemeinde in geeigneter
-Form zu veröffentlichenden Daten sowie den Ort der Veröffentlichung
-durch Veröffentlichung im Bundesanzeiger bekannt. Wenn im
-Gemeindegebiet mehr als 100 000 Kunden unmittelbar oder mittelbar an
-das Versorgungsnetz angeschlossen sind, hat die Bekanntmachung
-zusätzlich im Amtsblatt der Europäischen Union zu erfolgen.
-Beabsichtigen Gemeinden eine Verlängerung von Verträgen nach Absatz 2
-vor Ablauf der Vertragslaufzeit, so sind die bestehenden Verträge zu
-beenden und die vorzeitige Beendigung sowie das Vertragsende
-öffentlich bekannt zu geben. Vertragsabschlüsse mit Unternehmen dürfen
-frühestens drei Monate nach der Bekanntgabe der vorzeitigen Beendigung
-erfolgen. Bei der Auswahl des Unternehmens ist die Gemeinde den Zielen
-des § 1 verpflichtet. Sofern sich mehrere Unternehmen bewerben, macht
-die Gemeinde bei Neuabschluss oder Verlängerung von Verträgen nach
-Absatz 2 ihre Entscheidung unter Angabe der maßgeblichen Gründe
-öffentlich bekannt.
+Hinweis auf die nach § 46a von der Gemeinde in geeigneter Form zu
+veröffentlichenden Daten sowie den Ort der Veröffentlichung durch
+Veröffentlichung im Bundesanzeiger bekannt. Wenn im Gemeindegebiet
+mehr als 100 000 Kunden unmittelbar oder mittelbar an das
+Versorgungsnetz angeschlossen sind, hat die Bekanntmachung zusätzlich
+im Amtsblatt der Europäischen Union zu erfolgen. Beabsichtigen
+Gemeinden eine Verlängerung von Verträgen nach Absatz 2 vor Ablauf der
+Vertragslaufzeit, so sind die bestehenden Verträge zu beenden und die
+vorzeitige Beendigung sowie das Vertragsende nach Maßgabe der Sätze 1
+und 2 öffentlich bekannt zu geben.
 
-(4) Die Absätze 2 und 3 finden für Eigenbetriebe der Gemeinden
+(4) Die Gemeinde ist bei der Auswahl des Unternehmens den Zielen des §
+1 Absatz 1 verpflichtet. Unter Wahrung netzwirtschaftlicher
+Anforderungen, insbesondere der Versorgungssicherheit und der
+Kosteneffizienz, können auch Angelegenheiten der örtlichen
+Gemeinschaft berücksichtigt werden. Bei der Gewichtung der einzelnen
+Auswahlkriterien ist die Gemeinde berechtigt, den Anforderungen des
+jeweiligen Netzgebietes Rechnung zu tragen. Die Gemeinde hat jedem
+Unternehmen, das innerhalb einer von der Gemeinde in der
+Bekanntmachung nach Absatz 3 Satz 1 oder 3 gesetzten Frist von
+mindestens drei Kalendermonaten ein Interesse an der Nutzung der
+öffentlichen Verkehrswege bekundet, die Auswahlkriterien und deren
+Gewichtung in Textform mitzuteilen.
+
+(5) Die Gemeinde hat die Unternehmen, deren Angebote nicht angenommen
+werden sollen, über die Gründe der vorgesehenen Ablehnung ihres
+Angebots und über den frühesten Zeitpunkt des beabsichtigten
+Vertragsschlusses in Textform zu informieren. Die Gemeinde macht bei
+Neuabschluss oder Verlängerung von Verträgen nach Absatz 2 ihre
+Entscheidung unter Angabe der maßgeblichen Gründe öffentlich bekannt.
+
+(6) Die Absätze 2 bis 5 finden für Eigenbetriebe der Gemeinden
 entsprechende Anwendung.
 
-(5) Die Aufgaben und Zuständigkeiten der Kartellbehörden nach dem
+(7) Die Aufgaben und Zuständigkeiten der Kartellbehörden nach dem
 Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt.
 
 
-### § 47 (aufgehoben)
+### § 46a Auskunftsanspruch der Gemeinde
 
--
+Der bisherige Nutzungsberechtigte ist verpflichtet, der Gemeinde
+spätestens ein Jahr vor Bekanntmachung der Gemeinde nach § 46 Absatz 3
+diejenigen Informationen über die technische und wirtschaftliche
+Situation des Netzes zur Verfügung zu stellen, die für eine Bewertung
+des Netzes im Rahmen einer Bewerbung um den Abschluss eines Vertrages
+nach § 46 Absatz 2 Satz 1 erforderlich sind. Zu den Informationen über
+die wirtschaftliche Situation des Netzes gehören insbesondere
+
+1.  die im Zeitpunkt der Errichtung der Verteilungsanlagen jeweils
+    erstmalig aktivierten Anschaffungs- und Herstellungskosten gemäß § 255
+    des Handelsgesetzbuchs,
+
+
+2.  das Jahr der Aktivierung der Verteilungsanlagen,
+
+
+3.  die jeweils in Anwendung gebrachten betriebsgewöhnlichen
+    Nutzungsdauern und
+
+
+4.  die jeweiligen kalkulatorischen Restwerte und Nutzungsdauern laut den
+    betreffenden Bescheiden der jeweiligen Regulierungsbehörde.
+
+
+
+
+Die Bundesnetzagentur kann im Einvernehmen mit dem Bundeskartellamt
+Entscheidungen über den Umfang und das Format der zur Verfügung zu
+stellenden Daten durch Festlegung gegenüber den
+Energieversorgungsunternehmen treffen.
+
+
+### § 47 Rügeobliegenheit, Präklusion
+
+(1) Jedes beteiligte Unternehmen kann eine Rechtsverletzung durch
+Nichtbeachtung der Grundsätze eines transparenten und
+diskriminierungsfreien Verfahrens nach § 46 Absatz 1 bis 4 nur geltend
+machen, soweit es diese nach Maßgabe von Absatz 2 gerügt hat. Die Rüge
+ist in Textform gegenüber der Gemeinde zu erklären und zu begründen.
+
+(2) Rechtsverletzungen, die aufgrund einer Bekanntmachung nach § 46
+Absatz 3 erkennbar sind, sind innerhalb der Frist aus § 46 Absatz 4
+Satz 4 zu rügen. Rechtsverletzungen, die aus der Mitteilung nach § 46
+Absatz 4 Satz 4 erkennbar sind, sind innerhalb von 15 Kalendertagen ab
+deren Zugang zu rügen. Rechtsverletzungen im Rahmen der
+Auswahlentscheidung, die aus der Information nach § 46 Absatz 5 Satz 1
+erkennbar sind, sind innerhalb von 30 Kalendertagen ab deren Zugang zu
+rügen. Erfolgt eine Akteneinsicht nach Absatz 3, beginnt die Frist
+nach Satz 3 für den Antragsteller erneut ab dem ersten Tag, an dem die
+Gemeinde die Akten zur Einsichtnahme bereitgestellt hat.
+
+(3) Zur Vorbereitung einer Rüge nach Absatz 2 Satz 3 hat die Gemeinde
+jedem beteiligten Unternehmen auf Antrag Einsicht in die Akten zu
+gewähren und auf dessen Kosten Ausfertigungen, Auszüge oder
+Abschriften zu erteilen. Der Antrag auf Akteneinsicht ist in Textform
+innerhalb einer Woche ab Zugang der Information nach § 46 Absatz 5
+Satz 1 zu stellen. Die Gemeinde hat die Einsicht in die Unterlagen zu
+versagen, soweit dies zur Wahrung von Betriebs- oder
+Geschäftsgeheimnissen geboten ist.
+
+(4) Hilft die Gemeinde der Rüge nicht ab, so hat sie das rügende
+Unternehmen hierüber in Textform zu informieren und ihre Entscheidung
+zu begründen.
+
+(5) Beteiligte Unternehmen können gerügte Rechtsverletzungen, denen
+die Gemeinde nicht abhilft, nur innerhalb von 15 Kalendertagen ab
+Zugang der Information nach Absatz 4 vor den ordentlichen Gerichten
+geltend machen. Es gelten die Vorschriften der Zivilprozessordnung
+über das Verfahren auf Erlass einer einstweiligen Verfügung. Ein
+Verfügungsgrund braucht nicht glaubhaft gemacht zu werden.
+
+(6) Ein Vertrag nach § 46 Absatz 2 darf erst nach Ablauf der Fristen
+aus Absatz 2 Satz 3 und Absatz 5 Satz 1 geschlossen werden.
 
 
 ### § 48 Konzessionsabgaben
@@ -5542,8 +10952,10 @@ dem Energieversorgungsunternehmen zu zahlen, dem das Wegerecht nach §
 
 (4) Die Pflicht zur Zahlung der vertraglich vereinbarten
 Konzessionsabgaben besteht auch nach Ablauf des Wegenutzungsvertrages
-für ein Jahr fort, es sei denn, dass zwischenzeitlich eine
-anderweitige Regelung getroffen wird.
+bis zur Übertragung der Verteilungsanlagen auf einen neuen
+Vertragspartner nach § 46 Absatz 2 fort. Satz 1 gilt nicht, wenn die
+Gemeinde es unterlassen hat, ein Verfahren nach § 46 Absatz 3 bis 5
+durchzuführen.
 
 
 ## Teil 6 - Sicherheit und Zuverlässigkeit der Energieversorgung
@@ -5564,8 +10976,8 @@ vermutet, wenn bei Anlagen zur Erzeugung, Fortleitung und Abgabe von
     Elektronik Informationstechnik e. V.,
 
 
-2.  Gas die technischen Regeln der Deutschen Vereinigung des Gas- und
-    Wasserfaches e. V.
+2.  Gas und Wasserstoff die technischen Regeln des Deutschen Vereins des
+    Gas- und Wasserfaches e. V.
 
 
 
@@ -5577,6 +10989,14 @@ Betrieb von Energieversorgungsnetzen betreffen. Dabei hat die
 Bundesnetzagentur die Grundsätze des DIN Deutsches Institut für
 Normung e. V. zu berücksichtigen.
 
+[^F807051_2_BJNR197010005BJNE005609377]
+(2a) Unbeschadet sonstiger Anforderungen nach Absatz 1 müssen bei der
+Errichtung oder Erneuerung von Anlagen zur landseitigen
+Stromversorgung für den Seeverkehr die technischen Spezifikationen der
+Norm IEC/ISO/IEEE 80005-1, Edition 1.0, Juli 2012,
+eingehalten werden, soweit sie auf die landseitige Stromversorgung
+anwendbar sind.
+
 (3) Bei Anlagen oder Bestandteilen von Anlagen, die nach den in einem
 anderen Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
@@ -5587,16 +11007,14 @@ Beschaffenheit der Anlagen erfüllt sind. In begründeten Einzelfällen
 ist auf Verlangen der nach Landesrecht zuständigen Behörde
 nachzuweisen, dass die Anforderungen nach Satz 1 erfüllt sind.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, zur Gewährleistung der technischen Sicherheit sowie der
-technischen und betrieblichen Flexibilität von Energieanlagen durch
-Rechtsverordnung mit Zustimmung des Bundesrates und, soweit Anlagen
-zur Erzeugung von Strom aus erneuerbaren Energien im Sinne des
-Erneuerbare-Energien-Gesetzes betroffen sind, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+zur Gewährleistung der technischen Sicherheit, der technischen und
+betrieblichen Flexibilität von Energieanlagen sowie der
+Interoperabilität von Ladepunkten für Elektromobile durch
+Rechtsverordnung mit Zustimmung des Bundesrates
 
-1.  Anforderungen an die technische Sicherheit dieser Anlagen,
-    insbesondere an ihre Errichtung und ihren Betrieb, festzulegen;
+1.  Anforderungen an die technische Sicherheit dieser Anlagen, ihre
+    Errichtung und ihren Betrieb festzulegen;
 
 
 2.  das Verwaltungsverfahren zur Sicherstellung der Anforderungen nach
@@ -5655,16 +11073,16 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
 Die Regelungen des Erneuerbare-Energien-Gesetzes und des Kraft-Wärme-
 Kopplungsgesetzes bleiben davon unberührt.
 
-(4a) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-einen Ausschuss zur Beratung in Fragen der technischen Sicherheit von
+(4a) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates einen Ausschuss
+zur Beratung in Fragen der technischen Sicherheit von
 Gasversorgungsnetzen und Gas-Direktleitungen einschließlich der dem
 Leitungsbetrieb dienenden Anlagen einzusetzen. Diesem Ausschuss kann
 insbesondere die Aufgabe übertragen werden, vorzuschlagen, welches
 Anforderungsprofil Sachverständige, die die technische Sicherheit
 dieser Energieanlagen prüfen, erfüllen müssen, um den in einer
 Verordnung nach Absatz 4 festgelegten Anforderungen zu genügen. Das
-Bundesministerium für Wirtschaft und Technologie kann das
+Bundesministerium für Wirtschaft und Energie kann das
 Anforderungsprofil im Bundesanzeiger veröffentlichen. In den Ausschuss
 sind sachverständige Personen zu berufen, insbesondere aus dem Kreis
 
@@ -5705,12 +11123,17 @@ betrieblichen Unterlagen der Betreiber von Energieanlagen einzusehen,
 soweit dies zur Wahrnehmung der Aufgaben nach Absatz 5 erforderlich
 ist.
 
+*_\_\__\_\__\_\__*
+
+    Amtlicher Hinweis: Die Norm ist bei der Beuth Verlag GmbH, Berlin, zu
+    beziehen.
+[^F807051_2_BJNR197010005BJNE005609377]: 
 
 ### § 50 Vorratshaltung zur Sicherung der Energieversorgung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-zur Sicherung der Energieversorgung durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur
+Sicherung der Energieversorgung durch Rechtsverordnung mit Zustimmung
+des Bundesrates
 
 1.  Vorschriften zu erlassen über die Verpflichtung von
     Energieversorgungsunternehmen sowie solcher Eigenerzeuger von
@@ -5748,24 +11171,170 @@ Zustimmung des Bundesrates
 
 ### § 51 Monitoring der Versorgungssicherheit
 
-(1) Das Bundesministerium für Wirtschaft und Technologie führt ein
-Monitoring der Versorgungssicherheit im Bereich der leitungsgebundenen
-Versorgung mit Elektrizität und Erdgas durch.
+(1) Die Bundesnetzagentur führt in Abstimmung mit dem
+Bundesministerium für Wirtschaft und Energie fortlaufend ein
+Monitoring der Versorgungssicherheit nach den Absätzen 2 bis 4 durch.
+Die §§ 73, 75 bis 89 und 106 bis 108 sind entsprechend anzuwenden. Bei
+der Durchführung des Monitorings nach den Absätzen 3 und 4
+berücksichtigt die Bundesnetzagentur die nach § 12 Absatz 4 und 5
+übermittelten Informationen.
 
-(2) Das Monitoring nach Absatz 1 betrifft insbesondere das Verhältnis
-zwischen Angebot und Nachfrage auf dem heimischen Markt, die erwartete
-Nachfrageentwicklung und das verfügbare Angebot, die in der Planung
-und im Bau befindlichen zusätzlichen Kapazitäten, die Qualität und den
-Umfang der Netzwartung, eine Analyse von Netzstörungen sowie Maßnahmen
-zur Bedienung von Nachfragespitzen und zur Bewältigung von Ausfällen
-eines oder mehrerer Versorger sowie im Erdgasbereich das verfügbare
-Angebot auch unter Berücksichtigung der Bevorratungskapazität und des
-Anteils von Einfuhrverträgen mit einer Lieferfrist von mehr als zehn
-Jahren (langfristiger Erdgasliefervertrag) sowie deren Restlaufzeit.
-Bei der Durchführung des Monitoring hat das Bundesministerium für
-Wirtschaft und Technologie die Befugnisse nach den §§ 12a, 12b, 14
-Absatz 1a und 1b, den §§ 68, 69 und 71. Die §§ 73, 75 bis 89 und 106
-bis 108 gelten entsprechend.
+(2) Das Monitoring nach Absatz 1 betrifft im Bereich der Versorgung
+mit Erdgas insbesondere
+
+1.  das heutige und künftige Verhältnis zwischen Angebot und Nachfrage auf
+    dem deutschen Markt und auf dem internationalen Markt,
+
+
+2.  bestehende sowie in der Planung und im Bau befindliche
+    Produktionskapazitäten und Transportleitungen,
+
+
+3.  die erwartete Nachfrageentwicklung,
+
+
+4.  die Qualität und den Umfang der Netzwartung,
+
+
+5.  eine Analyse von Netzstörungen und von Maßnahmen der Netzbetreiber zur
+    kurz- und längerfristigen Gewährleistung der Sicherheit und
+    Zuverlässigkeit des Gasversorgungssystems,
+
+
+6.  Maßnahmen zur Bedienung von Nachfragespitzen und zur Bewältigung von
+    Ausfällen eines oder mehrerer Versorger sowie
+
+
+7.  das verfügbare Angebot auch unter Berücksichtigung der
+    Bevorratungskapazität und des Anteils von Einfuhrverträgen mit einer
+    Lieferzeit von mehr als zehn Jahren (langfristiger
+    Erdgasliefervertrag) sowie deren Restlaufzeit.
+
+
+
+
+(3) Das Monitoring nach Absatz 1 betrifft im Bereich der Versorgung
+mit Elektrizität insbesondere
+
+1.  das heutige und künftige Verhältnis zwischen Angebot und Nachfrage auf
+    den europäischen Strommärkten mit Auswirkungen auf das Gebiet der
+    Bundesrepublik Deutschland als Teil des Elektrizitätsbinnenmarktes,
+
+
+2.  bestehende sowie in der Planung und im Bau befindliche
+    Erzeugungskapazitäten unter Berücksichtigung von Erzeugungskapazitäten
+    für die Netzreserve nach § 13d sowie die Kapazitätsreserve nach § 13e
+    und Anlagen zur Speicherung von elektrischer Energie,
+
+
+3.  bestehende Verbindungsleitungen sowie in der Planung oder im Bau
+    befindliche Vorhaben einschließlich der in den Anlagen zum
+    Energieleitungsausbaugesetz und zum Bundesbedarfsplangesetz genannten
+    Vorhaben,
+
+
+4.  die erwartete Nachfrageentwicklung,
+
+
+5.  die Qualität und den Umfang der Netzwartung,
+
+
+6.  eine Analyse von Netzstörungen und von Maßnahmen der Betreiber von
+    Elektrizitätsversorgungsnetzen zur kurz- und längerfristigen
+    Gewährleistung der Sicherheit und Zuverlässigkeit des
+    Elektrizitätsversorgungssystems einschließlich des Einsatzes von
+    Erzeugungskapazität im Rahmen der Netzreserve nach § 13d sowie der
+    Kapazitätsreserve nach § 13e und
+
+
+7.  Maßnahmen zur Bedienung von Nachfragespitzen und zur Bewältigung von
+    Ausfällen eines oder mehrerer Versorger.
+
+
+
+Bei dem Monitoring sind auch grenzüberschreitende Ausgleichseffekte
+bei erneuerbaren Energien, Lasten und Kraftwerksausfällen sowie der
+heutige und künftige Beitrag von Lastmanagement und von
+Netzersatzanlagen zur Versorgungssicherheit sowie Anpassungsprozesse
+an den Strommärkten auf Basis von Preissignalen zu analysieren und zu
+berücksichtigen. Zudem sollen mögliche Hemmnisse für die Nutzung von
+Lastmanagement und von Netzersatzanlagen dargestellt werden.
+
+(4) Das Monitoring nach Absatz 3 umfasst Märkte und Netze und wird in
+den Berichten nach § 63 integriert dargestellt.
+
+(4a) Das Monitoring der Versorgungssicherheit an den Strommärkten nach
+Absatz 3 erfolgt auf Basis von
+
+1.  Indikatoren, die zur Messung der Versorgungssicherheit an den
+    europäischen Strommärkten mit Auswirkungen auf das Gebiet der
+    Bundesrepublik Deutschland als Teil des Elektrizitätsbinnenmarktes
+    geeignet sind, sowie
+
+
+2.  Schwellenwerten, bei deren Überschreiten oder Unterschreiten eine
+    Prüfung und bei Bedarf eine Umsetzung angemessener Maßnahmen zur
+    Gewährleistung der Versorgungssicherheit erfolgt.
+
+
+
+Die Messung der Versorgungssicherheit an den Strommärkten nach Satz 1
+erfolgt auf Grundlage wahrscheinlichkeitsbasierter Analysen. Die
+Anforderungen der Verordnung (EU) 2019/943, insbesondere nach den
+Artikeln 23 und 24 für Abschätzungen der Angemessenheit der
+Ressourcen, sind einzuhalten. Die Analysen nach Satz 2 erfolgen nach
+dem Stand der Wissenschaft. Sie erfolgen insbesondere auf Basis eines
+integrierten Investitions- und Einsatzmodells, das wettbewerbliches
+Marktverhalten und Preisbildung auf dem deutschen und europäischen
+Strommarkt abbildet; dabei sind auch kritische historische Wetter- und
+Lastjahre, ungeplante Kraftwerksausfälle sowie zeitliche und
+technische Restriktionen beim Kraftwerkszubau zu berücksichtigen.
+
+(4b) Zum Monitoring der Versorgungssicherheit nach Absatz 3 mit Bezug
+auf die Netze erfolgt eine Analyse, inwieweit aktuell und zukünftig
+die Sicherheit, Zuverlässigkeit und Leistungsfähigkeit der
+Elektrizitätsversorgungsnetze gewährleistet ist und ob Maßnahmen zur
+kurz- und längerfristigen Gewährleistung der Sicherheit und
+Zuverlässigkeit des Elektrizitätsversorgungssystems im Sinne von § 12
+Absatz 1 Satz 1 und Absatz 3 erforderlich sind. Bei der Analyse nach
+Satz 1 ist die langfristige Netzanalyse der Betreiber der
+Übertragungsnetze nach § 34 Absatz 1 des
+Kohleverstromungsbeendigungsgesetzes zu berücksichtigen, soweit diese
+vorliegt. In diesem Rahmen ist auch zu untersuchen, inwieweit
+netztechnische Aspekte die Ergebnisse der Analysen nach Absatz 4a
+beeinflussen. Die Bundesnetzagentur legt dem Bundesministerium für
+Wirtschaft und Energie bis zum 31. Oktober 2020 einen Bericht über die
+auf die Netze bezogene Analyse nach Satz 1 vor.
+
+(5) Bei dem Monitoring nach den Absätzen 3 und 4 werden die Betreiber
+von Übertragungsnetzen sowie das Bundesministerium für Wirtschaft und
+Energie regelmäßig bei allen wesentlichen Verfahrensschritten
+einbezogen. Die Regulierungsbehörde übermittelt auf Verlangen dem
+Bundesministerium für Wirtschaft und Energie die bei ihr verfügbaren
+und zur Beobachtung und Bewertung der Versorgungssicherheit
+notwendigen Daten. Das Bundesministerium für Wirtschaft und Energie
+darf diese Daten einschließlich der unternehmensbezogenen Daten an
+beauftragte Dritte zu Zwecken der Aus- und Bewertung übermitteln,
+sofern die vertrauliche Behandlung der Daten gewährleistet ist.
+
+
+### § 51a Monitoring des Lastmanagements
+
+(1) Die Regulierungsbehörde kann zur Durchführung des Monitorings nach
+§ 51 ein Monitoring des Beitrags von Lastmanagement zur
+Versorgungssicherheit durchführen. Dazu kann die Regulierungsbehörde
+von Unternehmen und Vereinigungen von Unternehmen, die einen
+jährlichen Stromverbrauch von mehr als 50 Gigawattstunden haben,
+Informationen verlangen, die erforderlich sein können, um den heutigen
+und künftigen Beitrag von Lastmanagement im Adressatenkreis für die
+Versorgungssicherheit an den Strommärkten zu analysieren. Auf
+Verlangen des Bundesministeriums für Wirtschaft und Energie muss die
+Regulierungsbehörde die Informationen einholen und diesem in
+angemessener Frist sowie in geeigneter Form zur Verfügung stellen.
+
+(2) Die Regulierungsbehörde soll das Marktstammdatenregister nach §
+111e nutzen, sobald und soweit darin Daten im Sinne des Absatzes 1
+gespeichert sind.
 
 
 ### § 52 Meldepflichten bei Versorgungsstörungen
@@ -5796,7 +11365,7 @@ Gestaltung des Berichts machen sowie Ergänzungen und Erläuterungen des
 Berichts verlangen, soweit dies zur Prüfung der
 Versorgungszuverlässigkeit des Netzbetreibers erforderlich ist.
 Sofortige Meldepflichten für Störungen mit überregionalen Auswirkungen
-richten sich nach § 13 Abs. 6.
+richten sich nach § 13 Absatz 8.
 
 
 ### § 53 Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich
@@ -5809,37 +11378,50 @@ ein Ausschreibungsverfahren oder ein diesem hinsichtlich Transparenz
 und Nichtdiskriminierung gleichwertiges Verfahren auf der Grundlage
 von Kriterien für neue Kapazitäten oder Energieeffizienz- und
 Nachfragesteuerungsmaßnahmen vorsehen, die das Bundesministerium für
-Wirtschaft und Technologie im Bundesanzeiger veröffentlicht.
+Wirtschaft und Energie im Bundesanzeiger veröffentlicht.
 
 
 ### § 53a Sicherstellung der Versorgung von Haushaltskunden mit Erdgas
 
-Gasversorgungsunternehmen, die Haushaltskunden oder Betreiber von
-gasbetriebenen Fernwärmeanlagen beliefern, haben zu gewährleisten,
-dass
+Gasversorgungsunternehmen haben zu gewährleisten, dass mindestens in
+den in Artikel 6 Absatz 1 der Verordnung (EU) 2017/1938 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2017 über
+Maßnahmen zur Gewährleistung der sicheren Gasversorgung und zur
+Abschaffung der Verordnung (EU) Nr. 994/2010 (Abl. L 280 vom
+28\.10.2017, S. 1) genannten Fällen versorgt werden die von ihnen
+direkt belieferten
 
-1.  die von ihnen direkt belieferten Haushaltskunden und
+1.  Haushaltskunden sowie weitere Letztverbraucher im Erdgasverteilernetz,
+    bei denen standardisierte Lastprofile anzuwenden sind, oder
+    Letztverbraucher im Erdgasverteilernetz, die Haushaltskunden zum
+    Zwecke der Wärmeversorgung beliefern und zwar zu dem Teil, der für die
+    Wärmelieferung benötigt wird,
 
 
-2.  Fernwärmeanlagen, soweit sie Wärme an Haushaltskunden liefern, an ein
-    Erdgasverteilernetz oder ein Fernleitungsnetz angeschlossen sind und
-    keinen Brennstoffwechsel vornehmen können,
+2.  grundlegenden soziale Dienste im Sinne des Artikels 2 Nummer 4 der
+    Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates
+    vom 25. Oktober 2017 im Erdgasverteilernetz und im Fernleitungsnetz,
+
+
+3.  Fernwärmeanlagen, soweit sie Wärme an Kunden im Sinne der Nummern 1
+    und 2 liefern, an ein Erdgasverteilernetz oder ein Fernleitungsnetz
+    angeschlossen sind und keinen Brennstoffwechsel vornehmen können, und
+    zwar zu dem Teil, der für die Wärmelieferung benötigt wird.
 
 
 
-mindestens in den in Artikel 8 Absatz 1 der Verordnung (EU) Nr.
-994/2010 des Europäischen Parlaments und des Rates vom 20. Oktober
-2010 über Maßnahmen zur Gewährleistung der sicheren Erdgasversorgung
-und zur Aufhebung der Richtlinie 2004/67/EG des Rates (ABl. L 295 vom
-12\.11.2010, S. 1) genannten Fällen versorgt werden. Darüber hinaus
-haben Gasversorgungsunternehmen im Falle einer teilweisen
-Unterbrechung der Versorgung mit Erdgas oder im Falle außergewöhnlich
-hoher Gasnachfrage Haushaltskunden sowie Fernwärmeanlagen im Sinne des
-Satzes 1 Nummer 2 mit Erdgas zu versorgen, solange die Versorgung aus
+Darüber hinaus haben Gasversorgungsunternehmen im Falle einer
+teilweisen Unterbrechung der Versorgung mit Erdgas oder im Falle
+außergewöhnlich hoher Gasnachfrage Kunden im Sinne des Satzes 1 Nummer
+1 bis 3 mit Erdgas zu versorgen, solange die Versorgung aus
 wirtschaftlichen Gründen zumutbar ist. Zur Gewährleistung einer
-sicheren Versorgung von Haushaltskunden mit Erdgas kann insbesondere
-auf die im Anhang II der Verordnung (EU) Nr. 994/2010 aufgeführten
-Instrumente zurückgegriffen werden.
+sicheren Versorgung von Kunden im Sinne des Satzes 1 Nummer 1 und 2
+mit Erdgas kann insbesondere auf marktbasierte Maßnahmen
+zurückgegriffen werden.
+
+
+### § 53b (weggefallen)
+
 
 
 ## Teil 7 - Behörden
@@ -5872,11 +11454,12 @@ Landesregulierungsbehörden wahr.
 
 
 4.  die Überwachung der Vorschriften zur Entflechtung nach § 6 Abs. 1 in
-    Verbindung mit den §§ 7 bis 10,
+    Verbindung mit den §§ 6a bis 7a,
 
 
 5.  die Überwachung der Vorschriften zur Systemverantwortung der Betreiber
-    von Energieversorgungsnetzen nach den §§ 14 bis 16a,
+    von Energieversorgungsnetzen nach § 14 Absatz 1 und 3, §§ 14a, 14b und
+    15 bis 16a,
 
 
 6.  die Überwachung der Vorschriften zum Netzanschluss nach den §§ 17 und
@@ -5891,11 +11474,25 @@ Landesregulierungsbehörden wahr.
 
 
 8.  die Missbrauchsaufsicht nach den §§ 30 und 31 sowie die
-    Vorteilsabschöpfung nach § 33 und
+    Vorteilsabschöpfung nach § 33,
 
 
 9.  die Entscheidung über das Vorliegen der Voraussetzungen nach § 110
-    Absatz 2 und 4,
+    Absatz 2 und 4 ,
+
+
+10. die Festlegung und Feststellung der notwendigen technischen
+    Anpassungen und Kosten im Rahmen der Umstellung der Gasqualität nach §
+    19a Absatz 2,
+
+
+11. die Veröffentlichung nach § 23b Absatz 1, mit Ausnahme von § 23b
+    Absatz 1 Satz 1 Nummer 7 und 10 bis 13, die zugleich auch die
+    Bundesnetzagentur wahrnehmen kann, und
+
+
+12. die Genehmigung der vollständig integrierten Netzkomponenten nach §
+    11b Absatz 1 Nummer 2 zweiter Halbsatz.
 
 
 
@@ -5920,29 +11517,47 @@ Bundesgebiet eine bundeseinheitliche Festlegung nach § 29 Absatz 1
 erforderlich, so nimmt die Bundesnetzagentur die in diesem Gesetz oder
 auf Grund dieses Gesetzes vorgesehenen Festlegungsbefugnisse wahr. Sie
 ist insbesondere zuständig für die bundesweit einheitliche Festlegung
-von
 
-1.  Preisindizes nach den Verordnungen über die Entgelte für den Zugang zu
-    Elektrizitäts- und Gasversorgungsnetzen nach § 24,
+1.  von Preisindizes nach den Verordnungen nach § 24,
 
 
-2.  Eigenkapitalzinssätzen nach den Verordnungen über die Entgelte für den
-    Zugang zu Elektrizitäts- und Gasversorgungsnetzen nach § 24 und
+2.  von Eigenkapitalzinssätzen nach den Verordnungen nach § 24,
 
 
-3.  Vorgaben zur Erhebung von Vergleichsparametern zur Ermittlung der
-    Effizienzwerte nach der Verordnung zur Anreizregulierung nach § 21a
-    Absatz 6.
+3.  von Vorgaben zur Erhebung von Vergleichsparametern zur Ermittlung der
+    Effizienzwerte sowie zur angemessenen Berücksichtigung eines
+    Zeitverzugs beim Ausbau der Verteilernetze im Effizienzvergleich nach
+    den Verordnungen nach § 21a Absatz 6,
+
+
+4.  des generellen sektoralen Produktivitätsfaktors nach den Verordnungen
+    nach § 21a Absatz 6,
+
+
+5.  Methoden zur Bestimmung des Qualitätselementes aufgrund einer
+    Verordnung nach § 21a Absatz 6 und
+
+
+6.  von Vorgaben betreffend das Verfahren für die Genehmigung von
+    vollständig integrierten Netzkomponenten nach § 11b Absatz 5 zweite
+    Alternative in Verbindung mit Absatz 1 Nummer 2 zweiter Halbsatz.
 
 
 
+Beabsichtigt die Bundesnetzagentur bundeseinheitliche Festlegungen im
+Sinne des Satzes 2 zu treffen, die nicht die in Satz 3 genannten
+Bereiche betreffen, hat sie vor einer Festlegung den Länderausschuss
+bei der Bundesnetzagentur mit dem geplanten Inhalt der angestrebten
+Festlegung zu befassen. Die Bundesnetzagentur berücksichtigt die
+mehrheitliche Auffassung des Länderausschusses bei der
+Bundesnetzagentur bei ihrer Festlegung so weit wie möglich.
 
 
-#### § 54a Zuständigkeiten gemäß der Verordnung (EU) Nr. 994/2010, Verordnungsermächtigung
+#### § 54a Zuständigkeiten gemäß der Verordnung (EU) 2017/1938, Verordnungsermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie ist
-zuständige Behörde für die Durchführung der in der Verordnung (EU) Nr.
-994/2010 festgelegten Maßnahmen. Die §§ 3, 4 und 16 des
+(1) Das Bundesministerium für Wirtschaft und Energie ist zuständige
+Behörde für die Durchführung der in der Verordnung (EU) 2017/1938
+festgelegten Maßnahmen. Die §§ 3, 4 und 16 des
 Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S.
 3681), das zuletzt durch Artikel 164 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden ist, und die §§ 5, 8 und 21 des
@@ -5951,59 +11566,55 @@ vom 3. Oktober 1968 (BGBl. I S. 1069), das zuletzt durch Artikel 134
 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden
 ist, bleiben hiervon unberührt.
 
-(2) Folgende in der Verordnung (EU) Nr. 994/2010 bestimmte Aufgaben
+(2) Folgende in der Verordnung (EU) 2017/1938 bestimmte Aufgaben
 werden auf die Bundesnetzagentur übertragen:
 
-1.  die Durchführung der Risikoanalyse gemäß Artikel 9,
+1.  die Durchführung der Risikobewertung gemäß Artikel 7,
 
 
 2.  folgende Aufgaben betreffend den Ausbau bidirektionaler Lastflüsse:
-    die Aufgaben im Rahmen des Verfahrens gemäß Artikel 7, die Überwachung
-    der Erfüllung der Verpflichtung nach Artikel 6 Absatz 5, die Befugnis
-    zur Forderung nach Erweiterung von Kapazitäten nach Artikel 6 Absatz
-    6, Aufgaben gemäß Artikel 6 Absatz 7 sowie
+    die Aufgaben im Rahmen des Verfahrens gemäß Anhang III, die
+    Überwachung der Erfüllung der Verpflichtung nach Artikel 5 Absatz 4,
+    Aufgaben gemäß Artikel 5 Absatz 8 sowie
 
 
-3.  die in Artikel 6 Absatz 1 Satz 1, Absatz 4 und 9 Satz 1 genannten
-    Aufgaben.
+3.  die in Artikel 5 Absatz 1 und 8 Unterabsatz 1 genannten Aufgaben.
 
 
 
 Die Bundesnetzagentur nimmt diese Aufgaben unter der Aufsicht des
-Bundesministeriums für Wirtschaft und Technologie wahr. Die
-Zuständigkeit des Bundesministeriums für Wirtschaft und Technologie
-gemäß Absatz 1 für Regelungen im Hinblick auf die in Artikel 6 Absatz
-1 bis 3 und Artikel 8 in Verbindung mit Artikel 2 Absatz 1 der
-Verordnung (EU) Nr. 994/2010 genannten Standards bleibt hiervon
-unberührt.
+Bundesministeriums für Wirtschaft und Energie wahr. Die Zuständigkeit
+des Bundesministeriums für Wirtschaft und Energie gemäß Absatz 1 für
+Regelungen im Hinblick auf die in Artikel 5 Absatz 1 bis 3 und Artikel
+6 in Verbindung mit Artikel 2 Nummer 5 der Verordnung (EU) 2017/1938
+genannten Standards bleibt hiervon unberührt.
 
 (3) Die Bestimmung der wesentlichen Elemente, die im Rahmen der
-Risikoanalyse zu berücksichtigen und zu untersuchen sind,
-einschließlich der Szenarien, die gemäß Artikel 9 Absatz 1 Buchstabe c
-der Verordnung (EU) Nr. 994/2010 zu analysieren sind, bedarf der
-Zustimmung des Bundesministeriums für Wirtschaft und Technologie. Die
+Risikobewertung zu berücksichtigen und zu untersuchen sind,
+einschließlich der Szenarien, die gemäß Artikel 7 Absatz 4 Buchstabe c
+der Verordnung (EU) 2017/1938 zu analysieren sind, bedarf der
+Zustimmung des Bundesministeriums für Wirtschaft und Energie. Die
 Bundesnetzagentur kann durch Festlegung gemäß § 29 Einzelheiten zu
 Inhalt und Verfahren der Übermittlung von Informationen gemäß Artikel
-9 Absatz 3, zum Verfahren gemäß Artikel 7 sowie zur Kostenaufteilung
-gemäß Artikel 6 Absatz 8 Satz 2 und 3 der Verordnung (EU) Nr. 994/2010
-regeln.
+7 Absatz 6, zum Verfahren gemäß Anhang III sowie zur Kostenaufteilung
+gemäß Artikel 5 Absatz 7 der Verordnung (EU) 2017/1938 regeln.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf:
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf:
 
-1.  zum Zwecke der Durchführung der Verordnung (EU) Nr. 994/2010 weitere
+1.  zum Zwecke der Durchführung der Verordnung (EU) 2017/1938 weitere
     Aufgaben an die Bundesnetzagentur zu übertragen,
 
 
 2.  Verfahren und Zuständigkeiten von Bundesbehörden bezüglich der
-    Übermittlung von Daten gemäß Artikel 13 der Verordnung (EU) Nr.
-    994/2010 festzulegen sowie zu bestimmen, welchen Erdgasunternehmen die
-    dort genannten Informationspflichten obliegen,
+    Übermittlung von Daten gemäß Artikel 14 der Verordnung (EU) 2017/1938
+    festzulegen sowie zu bestimmen, welchen Erdgasunternehmen die dort
+    genannten Informationspflichten obliegen,
 
 
 3.  Verfahren und Inhalt der Berichtspflichten gemäß Artikel 10 Absatz 1
-    Buchstabe k der Verordnung (EU) Nr. 994/2010 festzulegen sowie
+    Buchstabe k der Verordnung (EU) 2017/1938 festzulegen sowie
 
 
 4.  weitere Berichts- und Meldepflichten zu regeln, die zur Bewertung der
@@ -6011,6 +11622,42 @@ Bundesrates bedarf:
 
 
 
+
+
+#### § 54b Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung
+
+(1) Das Bundesministerium für Wirtschaft und Energie ist zuständige
+Behörde für die Durchführung der in der Verordnung (EU) 2019/941 des
+Europäischen Parlaments und des Rates vom 5. Juni 2019 über die
+Risikovorsorge im Elektrizitätssektor und zur Aufhebung der Richtlinie
+2005/89/EG (ABl. L 158 vom 14.6.2019, S. 1) festgelegten Maßnahmen.
+Die §§ 3, 4 und 16 des Energiesicherungsgesetzes 1975 und die §§ 5, 8
+und 21 des Wirtschaftssicherstellungsgesetzes bleiben hiervon
+unberührt.
+
+(2) Folgende in der Verordnung (EU) 2019/941 bestimmte Aufgaben werden
+auf die Bundesnetzagentur übertragen:
+
+1.  die Mitwirkung an der Bestimmung regionaler Szenarien für
+    Stromversorgungskrisen nach Artikel 6 der Verordnung (EU) 2019/941 und
+
+
+2.  die Bestimmung von nationalen Szenarien für Stromversorgungskrisen
+    nach Artikel 7 der Verordnung (EU) 2019/941.
+
+
+
+
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, zum Zwecke der Durchführung der Verordnung (EU) 2019/941
+weitere Aufgaben an die Bundesnetzagentur zu übertragen.
+
+(4) Die Bundesnetzagentur nimmt diese Aufgaben unter der Aufsicht des
+Bundesministeriums für Wirtschaft und Energie wahr. Die Bestimmung der
+im Sinne des Artikels 7 der Verordnung (EU) 2019/941 wichtigsten
+nationalen Szenarien für Stromversorgungskrisen bedarf der Zustimmung
+des Bundesministeriums für Wirtschaft und Energie.
 
 
 #### § 55 Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde
@@ -6032,24 +11679,52 @@ Aufgabenbereich berührt ist.
 
 #### § 56 Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts
 
-Die Bundesnetzagentur nimmt die Aufgaben wahr, die den
+(1) Die Bundesnetzagentur nimmt die Aufgaben wahr, die den
 Regulierungsbehörden der Mitgliedstaaten mit folgenden Rechtsakten
 übertragen sind:
 
-1.  Verordnung (EG) Nr. 714/2009,
+1.  Verordnung (EU) 2019/943 des Europäischen Parlaments und des Rates vom
+    5\. Juni 2019 über den Elektrizitätsbinnenmarkt und den auf Grundlage
+    dieser Verordnung erlassenen Verordnungen der Europäischen Kommission
+    sowie den auf Grundlage des Artikels 6 oder des Artikels 18 der
+    Verordnung (EG) Nr. 714/2009 erlassenen Verordnungen der Europäischen
+    Kommission,
 
 
-2.  Verordnung (EG) Nr. 715/2009,
+2.  Verordnung (EG) Nr. 715/2009 und den auf Grundlage des Artikels 6 oder
+    Artikels 23 dieser Verordnung erlassenen Verordnungen der Europäischen
+    Kommission,
 
 
-3.  Verordnung (EU) Nr. 994/2010.
+3.  Verordnung (EU) 2017/1938,
+
+
+4.  Verordnung (EU) Nr. 1227/2011,
+
+
+5.  Verordnung (EU) Nr. 347/2013,
+
+
+6.  Verordnung (EU) 2019/941 und
+
+
+7.  Verordnung (EU) 2019/942 des Europäischen Parlaments und des Rates vom
+    5\. Juni 2019 zur Gründung einer Agentur der Europäischen Union für die
+    Zusammenarbeit der Energieregulierungsbehörden.
 
 
 
 Zur Erfüllung dieser Aufgaben hat die Bundesnetzagentur die
 Befugnisse, die ihr auf Grund der in Satz 1 genannten Verordnungen und
-bei der Anwendung dieses Gesetzes zustehen. Es gelten die
-Verfahrensvorschriften dieses Gesetzes.
+bei der Anwendung dieses Gesetzes zustehen. Es sind die
+Verfahrensvorschriften dieses Gesetzes anzuwenden.
+
+(2) Die Bundesnetzagentur nimmt die Aufgaben wahr, die den
+Mitgliedstaaten mit der Verordnung (EU) 2015/1222 der Europäischen
+Kommission und mit Artikel 15 Absatz 2 der Verordnung (EU) 2019/943
+des Europäischen Parlamentes und des Rates vom 5. Juni 2019 über den
+Elektrizitätsbinnenmarkt übertragen worden sind. Absatz 1 Satz 2 und 3
+ist entsprechend anzuwenden.
 
 
 #### § 57 Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission
@@ -6058,6 +11733,12 @@ Verfahrensvorschriften dieses Gesetzes.
 energierechtlicher Vorschriften mit den Regulierungsbehörden anderer
 Mitgliedstaaten, der Agentur für die Zusammenarbeit der
 Energieregulierungsbehörden und der Europäischen Kommission zusammen.
+Bei Fragen der Gasinfrastruktur, die in einen Drittstaat hinein- oder
+aus einem Drittstaat herausführt, kann die Regulierungsbehörde, wenn
+der erste Kopplungspunkt im Hoheitsgebiet Deutschlands liegt, mit den
+zuständigen Behörden des betroffenen Drittstaates nach Maßgabe des
+Verfahrens nach Artikel 41 Absatz 1 der Richtlinie 2009/73/EG
+zusammenarbeiten.
 
 (2) Bei der Wahrnehmung der Aufgaben nach diesem Gesetz oder den auf
 Grund dieses Gesetzes erlassenen Verordnungen kann die
@@ -6089,7 +11770,7 @@ der Betroffenen führt.
 
 (3) Um die Zusammenarbeit bei der Regulierungstätigkeit zu verstärken,
 kann die Bundesnetzagentur mit Zustimmung des Bundesministeriums für
-Wirtschaft und Technologie allgemeine Kooperationsvereinbarungen mit
+Wirtschaft und Energie allgemeine Kooperationsvereinbarungen mit
 Regulierungsbehörden anderer Mitgliedstaaten schließen.
 
 (4) Die Bundesnetzagentur kann im Rahmen der Zusammenarbeit nach
@@ -6119,32 +11800,42 @@ Rechtshilfeabkommen bleiben unberührt.
 (1) Die Bundesnetzagentur kann die Agentur für die Zusammenarbeit der
 Energieregulierungsbehörden um eine Stellungnahme dazu ersuchen, ob
 eine von einer anderen nationalen Regulierungsbehörde getroffene
-Entscheidung im Einklang mit der Richtlinie 2009/72/EG, der Richtlinie
-2009/73/EG, der Verordnung (EG) Nr. 714/2009, der Verordnung (EG) Nr.
-715/2009 oder den nach diesen Vorschriften erlassenen Leitlinien
-steht.
+Entscheidung im Einklang mit der Richtlinie (EU) 2019/944, der
+Richtlinie 2009/73/EG, der Verordnung (EU) 2019/943, der Verordnung
+(EG) Nr. 715/2009 oder den nach diesen Vorschriften erlassenen
+Leitlinien steht.
 
 (2) Die Bundesnetzagentur kann der Europäischen Kommission jede
 Entscheidung einer Regulierungsbehörde eines anderen Mitgliedstaates
 mit Belang für den grenzüberschreitenden Handel innerhalb von zwei
 Monaten ab dem Tag, an dem die fragliche Entscheidung ergangen ist,
-zur Prüfung vorlegen, wenn sie der Auffassung ist, dass die
-Entscheidung der anderen Regulierungsbehörde nicht mit den gemäß der
-Richtlinie 2009/72/EG, der Richtlinie 2009/73/EG, der Verordnung (EG)
-Nr. 714/2009 oder der Verordnung (EG) Nr. 715/2009 erlassenen
-Leitlinien in Einklang steht.
+zur Prüfung vorlegen, wenn die Bundesnetzagentur der Auffassung ist,
+dass die Entscheidung der anderen Regulierungsbehörde nicht mit den
+gemäß der Richtlinie 2009/73/EG oder der Verordnung (EG) Nr. 715/2009
+erlassenen Leitlinien oder mit den gemäß der Richtlinie (EU) 2019/944
+oder Kapitel VII der Verordnung (EU) 2019/943 erlassenen Netzkodizes
+und Leitlinien in Einklang steht.
 
-(3) Die Bundesnetzagentur ist befugt, jede eigene Entscheidung
+(3) Die Bundesnetzagentur ist befugt, eine eigene Entscheidung
 nachträglich zu ändern, soweit dies erforderlich ist, um einer
 Stellungnahme der Agentur für die Zusammenarbeit der
-Energieregulierungsbehörden nach Artikel 39 Absatz 2 der Richtlinie
-2009/72/EG oder Artikel 43 Absatz 2 der Richtlinie 2009/73/EG oder
-Artikel 7 Absatz 4 der Verordnung (EG) Nr. 713/2009 zu genügen. Die §§
-48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
+Energieregulierungsbehörden zu genügen nach
+
+1.  Artikel 63 Absatz 2 der Richtlinie (EU) 2019/944,
+
+
+2.  Artikel 43 Absatz 2 der Richtlinie 2009/73/EG oder
+
+
+3.  Artikel 6 Absatz 5 der Verordnung (EU) 2019/942.
+
+
+
+Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
 (4) Die Bundesnetzagentur ist befugt, jede eigene Entscheidung auf das
-Verlangen der Europäischen Kommission nach Artikel 39 Absatz 6
-Buchstabe b der Richtlinie 2009/72/EG oder Artikel 43 Absatz 6
+Verlangen der Europäischen Kommission nach Artikel 63 Absatz 6
+Buchstabe b der Richtlinie (EU) 2019/944 oder Artikel 43 Absatz 6
 Buchstabe b der Richtlinie 2009/73/EG nachträglich zu ändern oder
 aufzuheben.
 
@@ -6152,22 +11843,76 @@ aufzuheben.
 Rechtshilfeabkommen bleiben unberührt.
 
 
+#### § 57b Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz
+
+(1) Die Bundesnetzagentur ist die zuständige Behörde für die in der
+Netzregion eingerichteten regionalen Koordinierungszentren im Sinne
+des Artikels 35 in Verbindung mit Artikel 37 der Verordnung (EU)
+2019/943 des Europäischen Parlaments und des Rates vom 5. Juni 2019
+über den Elektrizitätsbinnenmarkt.
+
+(2) Folgende Aufgaben werden auf die Bundesnetzagentur übertragen:
+
+1.  Billigung des Vorschlags zur Einrichtung eines regionalen
+    Koordinierungszentrums,
+
+
+2.  Genehmigung der Ausgaben, die im Zusammenhang mit den Tätigkeiten der
+    regionalen Koordinierungszentren von den Übertragungsnetzbetreibern
+    entstehen und bei der Entgeltberechnung berücksichtigt werden, soweit
+    sie vernünftig und angemessen sind,
+
+
+3.  Genehmigung des Verfahrens zur kooperativen Entscheidungsfindung,
+
+
+4.  Sicherstellung entsprechender personeller, technischer, materieller
+    und finanzieller Ausstattung der regionalen Koordinierungszentren, die
+    zur Erfüllung ihrer Pflichten und zur unabhängigen und unparteiischen
+    Wahrnehmung ihrer Aufgaben erforderlich sind,
+
+
+5.  Unterbreitung von Vorschlägen zur Übertragung etwaiger zusätzlichen
+    Aufgaben oder Befugnisse an die regionalen Koordinierungszentren,
+
+
+6.  Sicherstellung der Erfüllung der Verpflichtungen durch die regionalen
+    Koordinierungszentren, die sich aus den einschlägigen Rechtsakten
+    ergeben,
+
+
+7.  Überwachung der Netzkoordination, die durch die regionalen
+    Koordinierungszentren geleistet wird und Berichterstattung an die
+    Agentur für die Zusammenarbeit der Energieregulierungsbehörden.
+
+
+
+
+(3) Die Bundesnetzagentur kann zur Durchführung der ihr nach Absatz 2
+dieser Vorschrift übertragenen Aufgaben nach § 29 Absatz 1
+Festlegungen treffen und Genehmigungen erteilen.
+
+
 #### § 58 Zusammenarbeit mit den Kartellbehörden
 
-(1) In den Fällen des § 65 in Verbindung mit den §§ 6 bis 10, des § 25
-Satz 2, des § 28a Abs. 3 Satz 1, des § 56 in Verbindung mit Artikel 17
-Absatz 1 Buchstabe a der Verordnung (EG) Nr. 714/2009 und von
-Entscheidungen, die nach einer Rechtsverordnung nach § 24 Satz 1 Nr. 2
-in Verbindung mit Satz 2 Nr. 5 vorgesehen sind, entscheidet die
-Bundesnetzagentur im Einvernehmen mit dem Bundeskartellamt, wobei
-jedoch hinsichtlich der Entscheidung nach § 65 in Verbindung mit den
-§§ 6 bis 9 das Einvernehmen nur bezüglich der Bestimmung des
-Verpflichteten und hinsichtlich der Entscheidung nach § 28a Abs. 3
-Satz 1 das Einvernehmen nur bezüglich des Vorliegens der
-Voraussetzungen des § 28a Abs. 1 Nr. 1 erforderlich ist. Trifft die
-Bundesnetzagentur Entscheidungen nach den Bestimmungen des Teiles 3,
-gibt sie dem Bundeskartellamt und der Landesregulierungsbehörde, in
-deren Bundesland der Sitz des betroffenen Netzbetreibers belegen ist,
+(1) In den Fällen des § 65 in Verbindung mit den §§ 6 bis 6b, 7 bis 7b
+und 9 bis 10e, des § 25 Satz 2, des § 28a Abs. 3 Satz 1, des § 56 in
+Verbindung mit Artikel 17 Absatz 1 Buchstabe a der Verordnung (EG) Nr.
+714/2009 und von Entscheidungen, die nach einer Rechtsverordnung nach
+§ 24 Satz 1 Nr. 2 in Verbindung mit Satz 2 Nr. 5 vorgesehen sind,
+entscheidet die Bundesnetzagentur im Einvernehmen mit dem
+Bundeskartellamt, wobei jedoch hinsichtlich der Entscheidung nach § 65
+in Verbindung mit den §§ 6 bis 6a, 7 bis 7b und 9 bis 10e das
+Einvernehmen nur bezüglich der Bestimmung des Verpflichteten und
+hinsichtlich der Entscheidung nach § 28a Abs. 3 Satz 1 das
+Einvernehmen nur bezüglich des Vorliegens der Voraussetzungen des §
+28a Absatz 1 Nummer 1 und 5, jeweils ausgenommen die Voraussetzungen
+der Versorgungssicherheit, des effizienten Funktionierens der
+betroffenen regulierten Netze sowie der Erdgasversorgungssicherheit
+der Europäischen Union erforderlich ist. Trifft die Bundesnetzagentur
+Entscheidungen nach den Bestimmungen des Teiles 3, gibt sie dem
+Bundeskartellamt und der Landesregulierungsbehörde, in deren
+Bundesland der Sitz des betroffenen Netzbetreibers belegen ist,
 rechtzeitig vor Abschluss des Verfahrens Gelegenheit zur
 Stellungnahme.
 
@@ -6201,6 +11946,84 @@ jeweiligen Aufgaben erforderlich ist, sowie diese in ihren Verfahren
 verwerten. Beweisverwertungsverbote bleiben unberührt.
 
 
+#### § 58a Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011
+
+(1) Zur Durchführung der Verordnung (EU) Nr. 1227/2011 arbeitet die
+Bundesnetzagentur mit der Bundesanstalt für
+Finanzdienstleistungsaufsicht, mit dem Bundeskartellamt sowie mit den
+Börsenaufsichtsbehörden und den Handelsüberwachungsstellen zusammen.
+
+(2) Die Bundesnetzagentur und die dort eingerichtete
+Markttransparenzstelle, die Bundesanstalt für
+Finanzdienstleistungsaufsicht, das Bundeskartellamt, die
+Börsenaufsichtsbehörden und die Handelsüberwachungsstellen haben
+einander unabhängig von der jeweils gewählten Verfahrensart solche
+Informationen, Beobachtungen und Feststellungen einschließlich
+personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse
+mitzuteilen, die für die Erfüllung ihrer jeweiligen Aufgaben
+erforderlich sind. Sie können diese Informationen, Beobachtungen und
+Feststellungen in ihren Verfahren verwerten. Beweisverwertungsverbote
+bleiben unberührt.
+
+(3) Ein Anspruch auf Zugang zu den in Absatz 2 und in Artikel 17 der
+Verordnung (EU) Nr. 1227/2011 genannten amtlichen Informationen
+besteht über den in Artikel 17 Absatz 3 der Verordnung (EU) Nr.
+1227/2011 bezeichneten Fall hinaus nicht.
+
+(4) Die Bundesnetzagentur kann zur Durchführung der Verordnung (EU)
+Nr. 1227/2011 durch Festlegungen nach § 29 Absatz 1 nähere
+Bestimmungen treffen, insbesondere zur Verpflichtung zur
+Veröffentlichung von Informationen nach Artikel 4 der Verordnung (EU)
+Nr. 1227/2011, zur Registrierung der Marktteilnehmer nach Artikel 9
+Absatz 4 und 5 und zur Datenmeldung nach Artikel 8 Absatz 1 oder
+Absatz 5 der Verordnung (EU) Nr. 1227/2011, soweit nicht die
+Europäische Kommission entgegenstehende Vorschriften nach Artikel 8
+Absatz 2 oder Absatz 6 der Verordnung (EU) Nr. 1227/2011 erlassen hat.
+Festlegungen, die nähere Bestimmungen zu den Datenmeldepflichten nach
+Artikel 8 der Verordnung (EU) Nr. 1227/2011 treffen, erfolgen mit
+Zustimmung der Markttransparenzstelle.
+
+
+#### § 58b Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen
+
+(1) Die Staatsanwaltschaft informiert die Bundesnetzagentur über die
+Einleitung eines Ermittlungsverfahrens, welches Straftaten nach § 95a
+oder § 95b betrifft. Werden im Ermittlungsverfahren Sachverständige
+benötigt, können fachkundige Mitarbeiter der Bundesnetzagentur
+herangezogen werden. Erwägt die Staatsanwaltschaft, das Verfahren
+einzustellen, so hat sie die Bundesnetzagentur zu hören.
+
+(2) Das Gericht teilt der Bundesnetzagentur in einem Verfahren,
+welches Straftaten nach § 95a oder § 95b betrifft, den Termin zur
+Hauptverhandlung mit.
+
+(3) Der Bundesnetzagentur ist auf Antrag Akteneinsicht zu gewähren, es
+sei denn, schutzwürdige Interessen des Betroffenen stehen dem entgegen
+oder der Untersuchungserfolg der Ermittlungen wird dadurch gefährdet.
+
+(4) In Strafverfahren, die Straftaten nach § 95a oder § 95b zum
+Gegenstand haben, ist der Bundesnetzagentur im Fall der Erhebung der
+öffentlichen Klage Folgendes zu übermitteln:
+
+1.  die Anklageschrift oder eine an ihre Stelle tretende Antragsschrift,
+
+
+2.  der Antrag auf Erlass eines Strafbefehls und
+
+
+3.  die das Verfahren abschließende Entscheidung mit Begründung; ist gegen
+    die Entscheidung ein Rechtsmittel eingelegt worden, ist sie unter
+    Hinweis darauf zu übermitteln.
+
+
+
+In Verfahren wegen leichtfertig begangener Straftaten wird die
+Bundesnetzagentur über die in den Nummern 1 und 2 bestimmten
+Übermittlungen nur dann informiert, wenn aus der Sicht der
+übermittelnden Stelle unverzüglich Entscheidungen oder andere
+Maßnahmen der Bundesnetzagentur geboten sind.
+
+
 ### Abschnitt 2 - Bundesbehörden
 
 
@@ -6208,20 +12031,135 @@ verwerten. Beweisverwertungsverbote bleiben unberührt.
 #### § 59 Organisation
 
 (1) Die Entscheidungen der Bundesnetzagentur nach diesem Gesetz werden
-von den Beschlusskammern getroffen. Satz 1 gilt nicht für die
-Erstellung von Katalogen von Sicherheitsanforderungen nach § 11 Absatz
-1a Satz 2, Erhebung von Gebühren nach § 91, die Durchführung des
-Vergleichsverfahrens nach § 21 Absatz 3, die Datenerhebung zur
-Erfüllung von Berichtspflichten, Datenerhebungen zur Wahrnehmung der
-Aufgaben nach § 54a Absatz 2, Entscheidungen im Zusammenhang mit dem
-Ausbau bidirektionaler Gasflüsse nach § 54a Absatz 2 in Verbindung mit
-Artikel 7 und 6 Absatz 5 bis 7 der Verordnung (EU) Nr. 994/2010 sowie
-Festlegungen gemäß § 54a Absatz 3 Satz 2 mit Ausnahme von Festlegungen
-zur Kostenaufteilung, Maßnahmen nach § 94, die Aufgaben nach den §§
-12a bis 12f und 15a sowie die Vorgaben zu den Netzzustands- und
-Netzausbauberichten nach § 14 Absatz 1a Satz 6. Die Beschlusskammern
-werden nach Bestimmung des Bundesministeriums für Wirtschaft und
-Technologie gebildet.
+von den Beschlusskammern getroffen. Satz 1 gilt nicht für
+
+1.  die Erstellung und Überprüfung von Katalogen von
+    Sicherheitsanforderungen nach § 11 Absatz 1a und 1b,
+
+
+2.  die Aufgaben nach § 11 Absatz 2,
+
+
+2a. die Anforderung der Berichte und die Überwachung der Berichtspflichten
+    nach § 12 Absatz 3b und 3c,
+
+
+3.  die Datenerhebung zur Erfüllung von Berichtspflichten einschließlich
+    der Anforderung von Angaben nach § 12 Absatz 5 Satz 1 Nummer 4,
+
+
+4.  die Aufgaben nach den §§ 12a bis 12f,
+
+
+4a. die Überwachung der Vorgaben nach § 13 Absatz 3 Satz 4 und 5,
+
+
+5.  Entscheidungen nach § 13b Absatz 5, § 13e Absatz 5, § 13f Absatz 1, §
+    13g Absatz 6, auf Grund einer Verordnung nach § 13h Absatz 1 Nummer 1
+    bis 8, 10 und 11 sowie 12 bis 23, Festlegungen auf Grund § 13h Absatz
+    2 zur näheren Bestimmung der Regelungen nach § 13h Absatz 1 Nummer 1
+    bis 8, 10 und 11 sowie 12 bis 20,
+
+
+6.  Entscheidungen, die auf Grund von Verordnungen nach § 13i Absatz 3
+    Nummer 1 Buchstabe a, b, c, f sowie Nummer 2 und Absatz 4 getroffen
+    werden, mit Ausnahme der Kriterien einer angemessenen Vergütung,
+
+
+7.  Festlegungen nach § 13j Absatz 2 Nummer 3, 5 bis 7 und 9, Absatz 3
+    Satz 1 in Verbindung mit § 13i Absatz 3 Nummer 1 Buchstabe a, b, c und
+    f, § 13j Absatz 3 Satz 2 hinsichtlich des § 13b sowie nach § 13j
+    Absatz 4, 5, 7 Nummer 1 und 2 und Absatz 6,
+
+
+8.  Aufgaben nach § 14 Absatz 2 und den §§ 14c bis 14e,
+
+
+9.  die Aufgaben nach den §§ 15a, 15b,
+
+
+10. die Aufgaben nach den §§ 17a bis 17c,
+
+
+11. Aufgaben nach den §§ 28p und 28q sowie Aufgaben nach § 41c,
+
+
+12. Datenerhebungen zur Wahrnehmung der Aufgaben nach § 54a Absatz 2,
+    Entscheidungen im Zusammenhang mit dem Ausbau bidirektionaler
+    Gasflüsse nach § 54a Absatz 2 in Verbindung mit Artikel 5 Absatz 4 und
+    8 Unterabsatz 1 sowie Anhang III der Verordnung (EU) 2017/1938 sowie
+    Festlegungen gemäß § 54a Absatz 3 Satz 2 mit Ausnahme von Festlegungen
+    zur Kostenaufteilung,
+
+
+13. Entscheidungen im Zusammenhang mit der Überwachung der
+    Energiegroßhandelsmärkte nach § 56 Absatz 1 Satz 1 Nummer 4 in
+    Verbindung mit der Verordnung (EU) Nr. 1227/2011 sowie Festlegungen
+    gemäß § 5b Absatz 1 Satz 2 und § 58a Absatz 4,
+
+
+14. Entscheidungen auf der Grundlage der Artikel 9, 65 und 68 der
+    Verordnung (EU) 2015/1222 der Kommission vom 24. Juli 2015 zur
+    Festlegung einer Leitlinie für die Kapazitätsvergabe und das
+    Engpassmanagement (ABl. L 197 vom 25.7.2015, S. 24),
+
+
+15. Entscheidungen zur Durchsetzung der Verpflichtungen für
+    Datenlieferanten nach Artikel 4 Absatz 6 der Verordnung (EU) Nr.
+    543/2013,
+
+
+16. die Erhebung von Gebühren nach § 91,
+
+
+17. Vollstreckungsmaßnahmen nach § 94,
+
+
+18. die Aufgaben und Festlegungen im Zusammenhang mit der nationalen
+    Informationsplattform nach § 111d,
+
+
+19. die Aufgaben im Zusammenhang mit dem Marktstammdatenregister nach den
+    §§ 111e und 111f,
+
+
+20. Entscheidungen auf der Grundlage der Artikel 4, 30 und 36 der
+    Verordnung (EU) 2016/1719 der Kommission vom 26. September 2016 zur
+    Festlegung einer Leitlinie für die Vergabe langfristiger Kapazität
+    (ABl. L 259 vom 27.9.2016, S. 42; L 267 vom 18.10.2017, S. 17),
+
+
+21. Entscheidungen auf der Grundlage der Artikel 6 und 7 der Verordnung
+    (EU) 2017/1485 der Kommission vom 2. August 2017 zur Festlegung einer
+    Leitlinie für den Übertragungsnetzbetrieb (ABl. L 220 vom 25.8.2017,
+    S. 1), mit Ausnahme der Durchführung von Streitbeilegungsverfahren
+    gemäß Artikel 6 Absatz 10 der Verordnung (EU) 2017/1485,
+
+
+22. Entscheidungen auf der Grundlage des Artikels 4 der Verordnung (EU)
+    2017/2196 der Kommission vom 24. November 2017 zur Festlegung eines
+    Netzkodex über den Notzustand und den Netzwiederaufbau des
+    Übertragungsnetzes (ABl. L 312 vom 28.11.2017, S. 54; L 31 vom
+    1\.2.2019, S. 108), mit Ausnahme der Durchführung von
+    Streitbeilegungsverfahren gemäß Artikel 4 Absatz 8 der Verordnung (EU)
+    2017/2196,
+
+
+23. Entscheidungen auf der Grundlage der Artikel 11, 13, 15, 16, 17 und 35
+    der Verordnung (EU) 2019/943,
+
+
+24. die Überprüfung der Einhaltung der Vorgaben, die sich aus einer
+    Verordnung aufgrund von § 49 Absatz 4 hinsichtlich der technischen
+    Sicherheit und Interoperabilität von Ladepunkten ergeben, und
+
+
+25. Entscheidungen nach den §§ 11a und 11b.
+
+
+
+Die Beschlusskammern werden nach Bestimmung des Bundesministeriums für
+Wirtschaft und Energie gebildet.
 
 (2) Die Beschlusskammern entscheiden in der Besetzung mit einem oder
 einer Vorsitzenden und zwei Beisitzenden. Vorsitzende und Beisitzende
@@ -6274,9 +12212,9 @@ durch die Bundesnetzagentur regelmäßig über Stand und Fortgang der
 Arbeiten zu unterrichten. Absatz 3 gilt entsprechend.
 
 
-#### § 61 Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Technologie
+#### § 61 Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Energie
 
-Soweit das Bundesministerium für Wirtschaft und Technologie der
+Soweit das Bundesministerium für Wirtschaft und Energie der
 Bundesnetzagentur allgemeine Weisungen für den Erlass oder die
 Unterlassung von Verfügungen nach diesem Gesetz erteilt, sind diese
 Weisungen mit Begründung im Bundesanzeiger zu veröffentlichen.
@@ -6312,32 +12250,57 @@ gesetzgebenden Körperschaft vorgelegt werden.
 
 #### § 63 Berichterstattung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie berichtet der
-Bundesregierung bis zum 31. Dezember 2012 und dann jährlich über den
-Netzausbau, den Kraftwerkszubau und Ersatzinvestitionen sowie
-Energieeffizienz und die sich daraus ergebenden Herausforderungen. Auf
-Grundlage des Berichts nach Satz 1 und auf Grundlage des Berichts des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit nach
-§ 65a Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes berichtet die
-Bundesregierung dem Bundestag und legt erforderliche
-Handlungsempfehlungen vor. Bei der Erstellung des Berichts nach Satz 1
-hat das Bundesministerium für Wirtschaft und Technologie die
-Befugnisse nach den §§ 12a, 12b, 14 Absatz 1a und 1b, den §§ 68, 69
-und 71.
+(1) Die Bundesregierung berichtet dem Bundestag jährlich über den
+Netzausbau, den Kraftwerksbestand sowie Energieeffizienz und die sich
+daraus ergebenden Herausforderungen und legt erforderliche
+Handlungsempfehlungen vor (Monitoringbericht). Bei der Erstellung des
+Berichts nach Satz 1 hat das Bundesministerium für Wirtschaft und
+Energie die Befugnisse nach den §§ 12a, 12b, 14 Absatz 1a und 1b, den
+§§ 68, 69 und 71.
 
-(1a) Das Bundesministerium für Wirtschaft und Technologie
-veröffentlicht alle zwei Jahre spätestens zum 31. Juli einen Bericht
-über die bei dem Monitoring der Versorgungssicherheit nach § 51 im
-Bereich der leitungsgebundenen Elektrizitätsversorgung gewonnenen
-Erkenntnisse und etwaige getroffene oder geplante Maßnahmen und
-übermittelt ihn unverzüglich der Europäischen Kommission.
+(2) Die Bundesnetzagentur erstellt bis zum 31. Oktober 2021 und dann
+mindestens alle zwei Jahre jeweils die folgenden Berichte:
 
-(2) Das Bundesministerium für Wirtschaft und Technologie
-veröffentlicht spätestens zum 31. Juli eines jeden Jahres einen
-Bericht über die bei dem Monitoring der Versorgungssicherheit nach §
-51 im Bereich der leitungsgebundenen Erdgasversorgung gewonnenen
-Erkenntnisse und etwaige getroffene oder geplante Maßnahmen und
-übermittelt ihn unverzüglich der Europäischen Kommission.
+1.  einen Bericht zum Stand und zur Entwicklung der Versorgungssicherheit
+    im Bereich der Versorgung mit Erdgas sowie
+
+
+2.  einen Bericht zum Stand und zur Entwicklung der Versorgungssicherheit
+    im Bereich der Versorgung mit Elektrizität.
+
+
+
+Zusätzlich zu den Berichten nach Satz 1 veröffentlicht das
+Bundesministerium für Wirtschaft und Energie einmalig zum 31. Oktober
+2020 eine Abschätzung der Angemessenheit der Ressourcen gemäß den
+Anforderungen der Verordnung (EU) 2019/943. Diese Analyse ist ab 2021
+in den Bericht nach Satz 1 Nummer 2 zu integrieren. In die Berichte
+nach Satz 1 sind auch die Erkenntnisse aus dem Monitoring der
+Versorgungssicherheit nach § 51 sowie getroffene oder geplante
+Maßnahmen aufzunehmen. In den Berichten nach Satz 1 stellt die
+Bundesnetzagentur jeweils auch dar, inwieweit Importe zur
+Sicherstellung der Versorgungssicherheit in Deutschland beitragen. Das
+Bundesministerium für Wirtschaft und Energie stellt zu den Berichten
+nach Satz 1 Einvernehmen innerhalb der Bundesregierung her. Die
+Bundesregierung veröffentlicht die Berichte der Bundesnetzagentur nach
+Satz 1 und legt dem Bundestag erstmals zum 31. Dezember 2021 und dann
+mindestens alle vier Jahre Handlungsempfehlungen vor.
+
+(2a) Das Bundesministerium für Wirtschaft und Energie veröffentlicht
+jeweils bis zum 31. Juli 2017 und 31. Dezember 2018 sowie für die
+Dauer des Fortbestehens der Maßnahmen nach den §§ 13a bis 13d sowie
+13f, 13i und 13j sowie § 16 Absatz 2a mindestens alle zwei Jahre
+jeweils einen Bericht über die Wirksamkeit und Notwendigkeit dieser
+Maßnahmen einschließlich der dafür entstehenden Kosten. Ab dem Jahr
+2020 umfasst der Bericht auch auf Grundlage der Überprüfungen nach §
+13e Absatz 5 die Wirksamkeit und Notwendigkeit von Maßnahmen nach §
+13e oder der Rechtsverordnung nach § 13h einschließlich der für die
+Maßnahmen entstehenden Kosten. Das Bundesministerium für Wirtschaft
+und Energie evaluiert in dem zum 31. Dezember 2022 zu
+veröffentlichenden Bericht auch, ob eine Fortgeltung der Regelungen
+nach Satz 1 und der Netzreserveverordnung über den 31. Dezember 2023
+hinaus zur Gewährleistung der Sicherheit oder Zuverlässigkeit des
+Elektrizitätsversorgungssystems weiterhin notwendig ist.
 
 (3) Die Bundesnetzagentur veröffentlicht jährlich einen Bericht über
 ihre Tätigkeit sowie im Einvernehmen mit dem Bundeskartellamt, soweit
@@ -6348,10 +12311,22 @@ Energieregulierungsbehörden vor. In den Bericht ist der vom
 Bundeskartellamt im Einvernehmen mit der Bundesnetzagentur, soweit
 Aspekte der Regulierung der Leitungsnetze betroffen sind, erstellte
 Bericht über das Ergebnis seiner Monitoring-Tätigkeit nach § 48 Absatz
-3 in Verbindung mit § 53 Absatz 3 des Gesetzes gegen
-Wettbewerbsbeschränkungen aufzunehmen. In den Bericht sind allgemeine
-Weisungen des Bundesministeriums für Wirtschaft und Technologie nach §
-61 aufzunehmen.
+3 in Verbindung mit § 53 Absatz 3 Satz 1 des Gesetzes gegen
+Wettbewerbsbeschränkungen aufzunehmen (Monitoringbericht
+Elektrizitäts- und Gasmarkt). In den Bericht sind allgemeine Weisungen
+des Bundesministeriums für Wirtschaft und Energie nach § 61
+aufzunehmen.
+
+(3a) Die Regulierungsbehörde veröffentlicht bis zum 31. März 2017, bis
+zum 30. Juni 2019 und dann mindestens alle zwei Jahre auf Grundlage
+der Informationen und Analysen nach § 12 Absatz 5 Satz 1 Nummer 4 und
+nach § 35 Absatz 1a jeweils einen Bericht über die Mindesterzeugung,
+über die Faktoren, die die Mindesterzeugung in den letzten zwei Jahren
+maßgeblich beeinflusst haben, sowie über den Umfang, in dem die
+Einspeisung aus erneuerbaren Energien durch diese Mindesterzeugung
+beeinflusst worden ist (Bericht über die Mindesterzeugung). In den
+Bericht nach Satz 1 ist auch die zukünftige Entwicklung der
+Mindesterzeugung aufzunehmen.
 
 (4) Die Bundesnetzagentur kann in ihrem Amtsblatt oder auf ihrer
 Internetseite jegliche Information veröffentlichen, die für
@@ -6441,18 +12416,21 @@ Regulierungsbehörde die Maßnahmen zur Einhaltung der Verpflichtungen
 anordnen.
 
 (2a) Hat ein Betreiber von Transportnetzen aus anderen als zwingenden,
-von
-ihn              nicht zu beeinflussenden Gründen eine Investition,
-die nach dem Netzentwicklungsplan nach § 12c Absatz 4 Satz 1 und 3
-oder § 15a in den folgenden drei Jahren nach Eintritt der
-Verbindlichkeit nach § 12c Absatz 4 Satz 1 oder § 15a Absatz 3 Satz 8
-durchgeführt werden musste, nicht durchgeführt, fordert die
-Regulierungsbehörde ihn mit Fristsetzung zur Durchführung der
-betreffenden Investition auf, sofern die Investition unter
-Zugrundelegung des jüngsten Netzentwicklungsplans noch relevant ist.
-Die Regulierungsbehörde kann nach Ablauf der Frist nach Satz 1 ein
-Ausschreibungsverfahren zur Durchführung der betreffenden Investition
-durchführen. Die Regulierungsbehörde kann durch Festlegung nach § 29
+von ihm nicht zu beeinflussenden Gründen eine Investition, die nach
+dem Netzentwicklungsplan nach § 12c Absatz 4 Satz 1 und 3 oder § 15a
+in den folgenden drei Jahren nach Eintritt der Verbindlichkeit nach §
+12c Absatz 4 Satz 1 oder § 15a Absatz 3 Satz 8 durchgeführt werden
+musste, nicht durchgeführt, fordert die Regulierungsbehörde ihn mit
+Fristsetzung zur Durchführung der betreffenden Investition auf, sofern
+die Investition unter Zugrundelegung des jüngsten
+Netzentwicklungsplans noch relevant ist. Um die Durchführung einer
+solchen Investition sicherzustellen, kann die Regulierungsbehörde nach
+Ablauf der Frist nach Satz 1 ein Ausschreibungsverfahren zur
+Durchführung der betreffenden Investition durchführen oder den
+Transportnetzbetreiber verpflichten, eine Kapitalerhöhung im Hinblick
+auf die Finanzierung der notwendigen Investitionen durchzuführen und
+dadurch unabhängigen Investoren eine Kapitalbeteiligung zu
+ermöglichen. Die Regulierungsbehörde kann durch Festlegung nach § 29
 Absatz 1 zum Ausschreibungsverfahren nähere Bestimmungen treffen.
 
 (3) Soweit ein berechtigtes Interesse besteht, kann die
@@ -6469,6 +12447,12 @@ die nach Landesrecht zuständige Behörde, soweit diese für die
 dieses Gesetz im Einzelfall nicht speziellere Vorschriften über
 Aufsichtsmaßnahmen enthält.
 
+(6) Die Bundesnetzagentur kann gegenüber Personen, die gegen
+Vorschriften der Verordnung (EU) Nr. 1227/2011 verstoßen, sämtliche
+Maßnahmen nach den Absätzen 1 bis 3 ergreifen, soweit sie zur
+Durchsetzung der Vorschriften der Verordnung (EU) Nr. 1227/2011
+erforderlich sind.
+
 
 #### § 66 Einleitung des Verfahrens, Beteiligte
 
@@ -6480,7 +12464,8 @@ auf Antrag ein.
 1.  wer die Einleitung eines Verfahrens beantragt hat,
 
 
-2.  Unternehmen, gegen die sich das Verfahren richtet,
+2.  natürliche und juristische Personen, gegen die sich das Verfahren
+    richtet,
 
 
 3.  Personen und Personenvereinigungen, deren Interessen durch die
@@ -6564,6 +12549,44 @@ Zeugen ersuchen, wenn sie die Beeidigung zur Herbeiführung einer
 wahrheitsgemäßen Aussage für notwendig erachtet. Über die Beeidigung
 entscheidet das Gericht.
 
+(7) Die Bundesnetzagentur darf personenbezogene Daten, die ihr zur
+Durchführung der Verordnung (EU) Nr. 1227/2011 mitgeteilt werden, nur
+verarbeiten, soweit dies zur Erfüllung der in ihrer Zuständigkeit
+liegenden Aufgaben und für die Zwecke der Zusammenarbeit nach Artikel
+7 Absatz 2 und Artikel 16 der Verordnung (EU) Nr. 1227/2011
+erforderlich ist.
+
+(8) Die Bundesnetzagentur kann zur Erfüllung ihrer Aufgaben auch
+Wirtschaftsprüfer oder Sachverständige als Verwaltungshelfer bei
+Ermittlungen oder Überprüfungen einsetzen.
+
+
+#### § 68a Zusammenarbeit mit der Staatsanwaltschaft
+
+Die Bundesnetzagentur hat Tatsachen, die den Verdacht einer Straftat
+nach § 95a oder § 95b begründen, der zuständigen Staatsanwaltschaft
+unverzüglich anzuzeigen. Sie kann die personenbezogenen Daten der
+betroffenen Personen, gegen die sich der Verdacht richtet oder die als
+Zeugen in Betracht kommen, der Staatsanwaltschaft übermitteln, soweit
+dies für Zwecke der Strafverfolgung erforderlich ist. Die
+Staatsanwaltschaft entscheidet über die Vornahme der erforderlichen
+Ermittlungsmaßnahmen, insbesondere über Durchsuchungen, nach den
+Vorschriften der Strafprozessordnung. Die Befugnisse der
+Bundesnetzagentur nach § 56 Absatz 1 Satz 2 und § 69 Absatz 3 und 11
+bleiben hiervon unberührt, soweit
+
+1.  sie für die Durchführung von Verwaltungsmaßnahmen oder die
+    Zusammenarbeit nach Artikel 7 Absatz 2 und Artikel 16 der Verordnung
+    (EU) Nr. 1227/2011 erforderlich sind und
+
+
+2.  eine Gefährdung des Untersuchungszwecks von Ermittlungen der
+    Strafverfolgungsbehörden oder der für Strafsachen zuständigen Gerichte
+    nicht zu erwarten ist.
+
+
+
+
 
 #### § 69 Auskunftsverlangen, Betretungsrecht
 
@@ -6612,7 +12635,15 @@ während der üblichen Geschäftszeiten zu dulden.
 (3) Personen, die von der Regulierungsbehörde mit der Vornahme von
 Prüfungen beauftragt sind, dürfen Betriebsgrundstücke, Büro- und
 Geschäftsräume und Einrichtungen der Unternehmen und Vereinigungen von
-Unternehmen während der üblichen Geschäftszeiten betreten.
+Unternehmen während der üblichen Geschäftszeiten betreten. Das
+Betreten ist außerhalb dieser Zeit oder wenn die Geschäftsräume sich
+in einer Wohnung befinden ohne Einverständnis nur insoweit zulässig
+und zu dulden, wie dies zur Verhütung von dringenden Gefahren für die
+öffentliche Sicherheit und Ordnung erforderlich ist und wie bei der
+auskunftspflichtigen Person Anhaltspunkte für einen Verstoß gegen
+Artikel 3 oder 5 der Verordnung (EU) Nr. 1227/2011 vorliegen. Das
+Grundrecht des Artikels 13 des Grundgesetzes wird insoweit
+eingeschränkt.
 
 (4) Durchsuchungen können nur auf Anordnung des Amtsgerichts, in
 dessen Bezirk die Durchsuchung erfolgen soll, vorgenommen werden.
@@ -6681,6 +12712,19 @@ verlangen, die zur Durchsetzung dieses Gesetzes und der Verordnung
 (EG) Nr. 1228/2003 erforderlich sind und die dazu erforderlichen
 Ermittlungen durchführen. Die Absätze 1 bis 9 sowie die §§ 68 und 71
 sowie 72 bis 74 gelten entsprechend.
+
+(11) Die Bundesnetzagentur kann von allen natürlichen und juristischen
+Personen Auskünfte und die Herausgabe von Unterlagen verlangen sowie
+Personen laden und vernehmen, soweit Anhaltspunkte dafür vorliegen,
+dass dies für die Überwachung der Einhaltung der Artikel 3 und 5 der
+Verordnung (EU) Nr. 1227/2011 erforderlich ist. Sie kann insbesondere
+die Angabe von Bestandsveränderungen in Energiegroßhandelsprodukten
+sowie Auskünfte über die Identität weiterer Personen, insbesondere der
+Auftraggeber und der aus Geschäften berechtigten oder verpflichteten
+Personen, verlangen. Die Absätze 1 bis 9 sowie die §§ 68 und 71 sowie
+72 bis 74 sind anzuwenden. Gesetzliche Auskunfts- oder
+Aussageverweigerungsrechte sowie gesetzliche
+Verschwiegenheitspflichten bleiben unberührt.
 
 
 #### § 70 Beschlagnahme
@@ -6754,8 +12798,8 @@ hat. Hat das Unternehmen keine zustellungsbevollmächtigte Person im
 Inland benannt, so stellt die Regulierungsbehörde die Entscheidungen
 durch Bekanntmachung im Bundesanzeiger zu.
 
-(1a) Werden Entscheidungen der Bundesnetzagentur durch Festlegung nach
-§ 29 Absatz 1 oder durch Änderungsbeschluss nach § 29 Absatz 2
+(1a) Werden Entscheidungen der Regulierungsbehörde durch Festlegung
+nach § 29 Absatz 1 oder durch Änderungsbeschluss nach § 29 Absatz 2
 gegenüber allen oder einer Gruppe von Netzbetreibern oder von
 sonstigen Verpflichteten einer Vorschrift getroffen, kann die
 Zustellung nach Absatz 1 Satz 1 durch öffentliche Bekanntmachung
@@ -6763,19 +12807,20 @@ ersetzt werden. Die öffentliche Bekanntmachung wird dadurch bewirkt,
 dass der verfügende Teil der Festlegung oder des Änderungsbeschlusses,
 die Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung
 der vollständigen Entscheidung auf der Internetseite der
-Bundesnetzagentur im Amtsblatt der Bundesnetzagentur bekannt gemacht
-werden. Die Festlegung oder der Änderungsbeschluss gilt mit dem Tag
-als zugestellt, an dem seit dem Tag der Bekanntmachung im Amtsblatt
-der Bundesnetzagentur zwei Wochen verstrichen sind; hierauf ist in der
-Bekanntmachung hinzuweisen. § 41 Absatz 2 Satz 2 des
-Verwaltungsverfahrensgesetzes gilt entsprechend. Für Entscheidungen
-der Bundesnetzagentur in Auskunftsverlangen gegenüber einer Gruppe von
-Unternehmen gelten die Sätze 1 bis 5 entsprechend, soweit den
-Entscheidungen ein einheitlicher Auskunftszweck zugrunde liegt.
+Regulierungsbehörde im Amtsblatt der Regulierungsbehörde bekannt
+gemacht werden. Die Festlegung oder der Änderungsbeschluss gilt mit
+dem Tag als zugestellt, an dem seit dem Tag der Bekanntmachung im
+Amtsblatt der Regulierungsbehörde zwei Wochen verstrichen sind;
+hierauf ist in der Bekanntmachung hinzuweisen. § 41 Absatz 4 Satz 4
+des Verwaltungsverfahrensgesetzes gilt entsprechend. Für
+Entscheidungen der Regulierungsbehörde in Auskunftsverlangen gegenüber
+einer Gruppe von Unternehmen gelten die Sätze 1 bis 5 entsprechend,
+soweit den Entscheidungen ein einheitlicher Auskunftszweck zugrunde
+liegt.
 
 (2) Soweit ein Verfahren nicht mit einer Entscheidung abgeschlossen
 wird, die den Beteiligten nach Absatz 1 zugestellt wird, ist seine
-Beendigung den Beteiligten schriftlich mitzuteilen.
+Beendigung den Beteiligten mitzuteilen.
 
 (3) Die Regulierungsbehörde kann die Kosten einer Beweiserhebung den
 Beteiligten nach billigem Ermessen auferlegen.
@@ -6816,15 +12861,14 @@ der Regulierungsbehörde zuständige Oberlandesgericht, in den Fällen
 des § 51 ausschließlich das für den Sitz der Bundesnetzagentur
 zuständige Oberlandesgericht, und zwar auch dann, wenn sich die
 Beschwerde gegen eine Verfügung des Bundesministeriums für Wirtschaft
-und Technologie richtet. § 36 der Zivilprozessordnung gilt
-entsprechend.
+und Energie richtet. § 36 der Zivilprozessordnung gilt entsprechend.
 
 
 #### § 76 Aufschiebende Wirkung
 
 (1) Die Beschwerde hat keine aufschiebende Wirkung, soweit durch die
 angefochtene Entscheidung nicht eine Entscheidung zur Durchsetzung der
-Verpflichtungen nach den §§ 7 und 8 getroffen wird.
+Verpflichtungen nach den §§ 7 bis 7b und 8 bis 10d getroffen wird.
 
 (2) Wird eine Entscheidung, durch die eine vorläufige Anordnung nach §
 72 getroffen wurde, angefochten, so kann das Beschwerdegericht
@@ -7123,7 +13167,8 @@ bestimmt ist, entsprechend
     über die Verbindung mehrerer Prozesse, über die Erledigung des Zeugen-
     und Sachverständigenbeweises sowie über die sonstigen Arten des
     Beweisverfahrens, über die Wiedereinsetzung in den vorigen Stand gegen
-    die Versäumung einer Frist.
+    die Versäumung einer Frist sowie über den elektronischen
+    Rechtsverkehr.
 
 
 
@@ -7257,24 +13302,20 @@ Erledigung der Angelegenheit notwendig waren, von einem Beteiligten
 ganz oder teilweise zu erstatten sind, wenn dies der Billigkeit
 entspricht. Hat ein Beteiligter Kosten durch ein unbegründetes
 Rechtsmittel oder durch grobes Verschulden veranlasst, so sind ihm die
-Kosten aufzuerlegen. Im Übrigen gelten die Vorschriften der
-Zivilprozessordnung über das Kostenfestsetzungsverfahren und die
-Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen entsprechend.
+Kosten aufzuerlegen. Juristische Personen des öffentlichen Rechts und
+Behörden können an Stelle ihrer tatsächlichen notwendigen Aufwendungen
+für Post- und Telekommunikationsdienstleistungen den in Nummer 7002
+der Anlage 1 des Rechtsanwaltsvergütungsgesetzes vom 5. Mai 2004
+(BGBl. I S. 718, 788), das zuletzt durch Artikel 24 Absatz 8 des
+Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden ist,
+bestimmten Höchstsatz der Pauschale fordern. Im Übrigen gelten die
+Vorschriften der Zivilprozessordnung über das
+Kostenfestsetzungsverfahren und die Zwangsvollstreckung aus
+Kostenfestsetzungsbeschlüssen entsprechend.
 
 
-#### § 90a Elektronische Dokumentenübermittlung
+#### § 90a (weggefallen)
 
-Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren gelten § 130a
-Abs. 1 und 3 sowie § 133 Abs. 1 Satz 2 der Zivilprozessordnung mit der
-Maßgabe entsprechend, dass die Beteiligten nach § 89 am elektronischen
-Rechtsverkehr teilnehmen können. Die Bundesregierung und die
-Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
-den Zeitpunkt, von dem an elektronische Dokumente bei den Gerichten
-eingereicht werden können, sowie die für die Bearbeitung der Dokumente
-geeignete Form. Die Landesregierungen können die Ermächtigung durch
-Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die
-Zulassung der elektronischen Form kann auf einzelne Gerichte oder
-Verfahren beschränkt werden.
 
 
 #### § 91 Gebührenpflichtige Handlungen
@@ -7291,37 +13332,54 @@ folgende gebührenpflichtige Leistungen:
 3.  Amtshandlungen auf Grund von § 33 Absatz 1 und § 36 Absatz 2 Satz 3;
 
 
-4.  Amtshandlungen auf Grund der §§ 21a, 23a, 28a Absatz 3, der §§ 29, 30
-    Absatz 2, § 57 Absatz 2 Satz 2 und 4, der §§ 65 und 110 Absatz 2 und 4
-    sowie Artikel 17 der Verordnung (EG) Nr. 714/2009;
+4.  Amtshandlungen auf Grund der §§ 7c, 11a, 11b, 12a, 12c, 12d, 13b, 14
+    Absatz 2, § 14c Absatz 2 bis 4, § 14d Absatz 4, § 14e Absatz 5, der §§
+    15a, 15b, 17c, 17d, 19a Absatz 2, der §§ 21a, 23a, 28a Absatz 3, § 28b
+    Absatz 1 und 5, § 28f Absatz 1, § 28o Absatz 1, § 28p Absatz 1 und 5,
+    der §§ 29, 30 Absatz 2 und 3, der §§ 41c, 57 Absatz 2 Satz 2 und 4, §
+    57b sowie der §§ 65, 110 Absatz 2 und 4;
 
 
 5.  Amtshandlungen auf Grund des § 31 Absatz 2 und 3;
 
 
-6.  Amtshandlungen auf Grund einer Rechtsverordnung nach § 12g Absatz 3,
-    der §§ 21i und 24 Satz 1 Nummer 3;
+6.  Amtshandlungen auf Grund einer Rechtsverordnung nach § 12g Absatz 3
+    und § 24 Satz 1 Nummer 3;
 
 
-7.  Amtshandlungen auf Grund der Verordnung (EG) Nr. 714/2009, Verordnung
-    (EG) Nr. 715/2009 sowie Verordnung (EU) Nr. 994/2010;
+7.  Amtshandlungen auf Grund des § 56;
 
 
 8.  Erteilung von beglaubigten Abschriften aus den Akten der
-    Regulierungsbehörde.
+    Regulierungsbehörde und die Herausgabe von Daten nach § 12f Absatz 2;
+
+
+9.  Registrierung der Marktteilnehmer nach Artikel 9 Absatz 1 der
+    Verordnung (EU) Nr. 1227/2011.
 
 
 
 Daneben werden als Auslagen die Kosten für weitere Ausfertigungen,
 Kopien und Auszüge sowie die in entsprechender Anwendung des
 Justizvergütungs- und -entschädigungsgesetzes zu zahlenden Beträge
-erhoben.
+erhoben. Für Entscheidungen, die durch öffentliche Bekanntmachung nach
+§ 73 Absatz 1a zugestellt werden, werden keine Gebühren erhoben.
+Abweichend von Satz 3 kann eine Gebühr erhoben werden, wenn die
+Entscheidung zu einem überwiegenden Anteil an einen bestimmten
+Adressatenkreis gerichtet ist und die Regulierungsbehörde diesem die
+Entscheidung oder einen schriftlichen Hinweis auf die öffentliche
+Bekanntmachung förmlich zustellt.
 
 (2) Gebühren und Auslagen werden auch erhoben, wenn ein Antrag auf
 Vornahme einer in Absatz 1 bezeichneten Amtshandlung abgelehnt wird.
 Wird ein Antrag zurückgenommen oder im Falle des Absatzes 1 Satz 1
 Nummer 5 beiderseitig für erledigt erklärt, bevor darüber entschieden
 ist, so ist die Hälfte der Gebühr zu entrichten.
+
+(2a) Tritt nach Einleitung eines Missbrauchsverfahrens nach § 30
+Absatz 2 dadurch Erledigung ein, dass die Zuwiderhandlung abgestellt
+wird, bevor eine Verfügung der Regulierungsbehörde ergangen ist, so
+ist die Hälfte der Gebühr zu entrichten.
 
 (3) Die Gebührensätze sind so zu bemessen, dass die mit den
 Amtshandlungen verbundenen Kosten gedeckt sind. Darüber hinaus kann
@@ -7349,10 +13407,10 @@ Verwaltungsaufwandes berücksichtigen, vorgesehen werden.
 1.  (weggefallen)
 
 
-2.  in den Fällen des Absatzes 1 Satz 1 Nr. 1 bis 3, wer durch einen
-    Antrag die Tätigkeit der Regulierungsbehörde veranlasst hat, oder
-    derjenige, gegen den eine Verfügung der Regulierungsbehörde ergangen
-    ist;
+2.  in den Fällen des Absatzes 1 Satz 1 Nummer 1 bis 4, 6 bis 8, wer durch
+    einen Antrag die Tätigkeit der Regulierungsbehörde veranlasst hat,
+    oder derjenige, gegen den eine Verfügung der Regulierungsbehörde
+    ergangen ist;
 
 
 2a. in den Fällen des Absatzes 1 Satz 1 Nummer 5 der Antragsteller, wenn
@@ -7365,8 +13423,19 @@ Verwaltungsaufwandes berücksichtigen, vorgesehen werden.
     Kosten zu gleichen Teilen;
 
 
-3.  in den Fällen des Absatzes 1 Satz 1 Nr. 4, wer die Herstellung der
-    Abschriften veranlasst hat.
+3.  in den Fällen des Absatzes 1 Satz 1 Nummer 9, wer die Herstellung der
+    Abschriften oder die Herausgabe von Daten nach § 12f Absatz 2
+    veranlasst hat;
+
+
+4.  in den Fällen des Absatzes 1 Satz 4 derjenige, dem die
+    Regulierungsbehörde die Entscheidung oder einen schriftlichen Hinweis
+    auf die öffentliche Bekanntmachung förmlich zugestellt hat;
+
+
+5.  in den Fällen des Absatzes 2a der Betreiber von
+    Energieversorgungsnetzen, gegen den ein Missbrauchsverfahren nach § 30
+    Absatz 2 bereits eingeleitet war.
 
 
 
@@ -7383,17 +13452,18 @@ Festsetzungsfrist so lange gehemmt, bis über den Antrag unanfechtbar
 entschieden wurde. Der Anspruch auf Zahlung von Kosten verjährt mit
 Ablauf des fünften Kalenderjahres nach der Festsetzung
 (Zahlungsverjährung). Im Übrigen gilt § 20 des
-Verwaltungskostengesetzes.
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Gebührensätze und die Erhebung der Gebühren vom Gebührenschuldner in
-Durchführung der Vorschriften der Absätze 1 bis 6 sowie die Erstattung
-der Auslagen für die in § 73 Abs. 1 Satz 4 und § 74 Satz 1
-bezeichneten Bekanntmachungen und Veröffentlichungen zu regeln, soweit
-es die Bundesnetzagentur betrifft. Hierbei kann geregelt werden, auf
-welche Weise der wirtschaftliche Wert des Gegenstandes der jeweiligen
+(8) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Gebührensätze und
+die Erhebung der Gebühren vom Gebührenschuldner in Durchführung der
+Vorschriften der Absätze 1 bis 6 sowie die Erstattung der Auslagen für
+die in § 73 Abs. 1 Satz 4 und § 74 Satz 1 bezeichneten
+Bekanntmachungen und Veröffentlichungen zu regeln, soweit es die
+Bundesnetzagentur betrifft. Hierbei kann geregelt werden, auf welche
+Weise der wirtschaftliche Wert des Gegenstandes der jeweiligen
 Amtshandlung zu ermitteln ist. Des Weiteren können in der Verordnung
 auch Vorschriften über die Kostenbefreiung von juristischen Personen
 des öffentlichen Rechts, über die Verjährung sowie über die
@@ -7402,11 +13472,14 @@ Kostenerhebung vorgesehen werden.
 (8a) Für die Amtshandlungen der Landesregulierungsbehörden werden die
 Bestimmungen nach Absatz 8 durch Landesrecht getroffen.
 
-(9) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
-Nähere über die Erstattung der durch das Verfahren vor der
-Regulierungsbehörde entstehenden Kosten nach den Grundsätzen des § 90
-zu bestimmen.
+(9) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
+die Erstattung der durch das Verfahren vor der Regulierungsbehörde
+entstehenden Kosten nach den Grundsätzen des § 90 zu bestimmen.
+
+(10) Für Leistungen der Regulierungsbehörde in Bundeszuständigkeit
+gilt im Übrigen das Verwaltungskostengesetz in der bis zum 14. August
+2013 geltenden Fassung.
 
 
 #### § 92 (weggefallen)
@@ -7429,8 +13502,9 @@ nach § 91 Abs. 8 und § 92 Abs. 3 für die Zukunft angepasst.
 
 Die Regulierungsbehörde kann ihre Anordnungen nach den für die
 Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
-durchsetzen. Die Höhe des Zwangsgeldes beträgt mindestens 1.000 Euro
-und höchstens zehn Millionen Euro.
+durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des
+öffentlichen Rechts anwenden. Die Höhe des Zwangsgeldes beträgt
+mindestens 1 000 Euro und höchstens zehn Millionen Euro.
 
 
 #### § 95 Bußgeldvorschriften
@@ -7454,17 +13528,25 @@ und höchstens zehn Millionen Euro.
 1d. (weggefallen)
 
 
-2.  entgegen § 5 Satz 1 eine Anzeige nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstattet,
+2.  entgegen § 5 Satz 1, § 13b Absatz 1 Satz 1 erster Halbsatz oder § 113c
+    Absatz 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig
+    oder nicht rechtzeitig erstattet,
 
 
-2a. (weggefallen)
+2a. entgegen § 11 Absatz 1a oder 1b den Katalog von
+    Sicherheitsanforderungen nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig einhält,
+
+
+2b. entgegen § 11 Absatz 1c eine Meldung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig vornimmt,
 
 
 3.  einer vollziehbaren Anordnung nach
 
     a)  § 5 Satz 4, § 12c Absatz 1 Satz 2, § 15a Absatz 3 Satz 5, § 65 Abs. 1
-        oder 2 oder § 69 Abs. 7 Satz 1 oder Abs. 8 Satz 1 oder
+        oder 2 oder § 69 Absatz 7 Satz 1, Absatz 8 Satz 1 oder Absatz 11 Satz
+        1 oder Satz 2 oder
 
 
     b)  § 30 Abs. 2
@@ -7495,6 +13577,25 @@ und höchstens zehn Millionen Euro.
     nicht oder nicht rechtzeitig bestimmt,
 
 
+3e. (weggefallen)
+
+
+3f. entgegen § 13b Absatz 1 Satz 2 oder Absatz 5 Satz 1 eine dort genannte
+    Anlage stilllegt,
+
+
+3g. entgegen § 13e Absatz 4 Satz 1 Nummer 1 Erzeugungsleistung oder
+    Erzeugungsarbeit veräußert,
+
+
+3h. entgegen § 13e Absatz 4 Satz 1 Nummer 2 oder § 13g Absatz 1 Satz 1
+    oder 3 eine dort genannte Anlage nicht oder nicht rechtzeitig
+    stilllegt,
+
+
+3i. entgegen § 13g Absatz 4 Satz 1 Strom erzeugt,
+
+
 4.  entgegen § 30 Abs. 1 Satz 1 eine Marktstellung missbraucht oder
 
 
@@ -7506,10 +13607,16 @@ und höchstens zehn Millionen Euro.
 
 
     b)  § 17 Abs. 3 Satz 1 Nr. 2, § 21a Abs. 6 Satz 1 Nr. 3, § 24 Satz 1 Nr. 2
-        oder 3 oder § 29 Abs. 3 oder
+        oder 3 oder § 29 Abs. 3,
 
 
-    c)  einer Rechtsverordnung nach § 49 Abs. 4 oder § 50
+    c)  § 49 Abs. 4 oder § 50,
+
+
+    d)  § 111f Nummer 1 bis 3, 5 bis 7, 10 oder Nummer 14 Buchstabe b oder
+
+
+    e)  § 111f Nummer 8 Buchstabe a oder Buchstabe b, Nummer 9 oder Nummer 13
 
 
 
@@ -7522,17 +13629,143 @@ und höchstens zehn Millionen Euro.
 
 
 (1a) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
-entgegen § 12 Abs. 5 einen Bericht nicht, nicht richtig, nicht
-vollständig oder nicht rechtzeitig übermittelt.
 
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
-1a, Nr. 3 Buchstabe b, Nr. 4 und 5 Buchstabe b mit einer Geldbuße bis
-zu einer Million Euro, über diesen Betrag hinaus bis zur dreifachen
-Höhe des durch die Zuwiderhandlung erlangten Mehrerlöses, in den
-Fällen des Absatzes 1 Nr. 5 Buchstabe a sowie des Absatzes 1a mit
-einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit
-einer Geldbuße bis zu hunderttausend Euro geahndet werden. Die Höhe
-des Mehrerlöses kann geschätzt werden.
+1.  entgegen § 5b Absatz 1 Satz 1 oder Absatz 2 eine andere Person in
+    Kenntnis setzt oder
+
+
+2.  entgegen § 12 Absatz 5 Satz 1 Nummer 2 oder Nummer 3 eine dort
+    genannte Information nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig übermittelt.
+
+
+
+
+(1b) Ordnungswidrig handelt, wer entgegen Artikel 5 in Verbindung mit
+Artikel 2 Nummer 2 Buchstabe a der Verordnung (EU) Nr. 1227/2011 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die
+Integrität und Transparenz des Energiegroßhandelsmarkts (ABl. L 326
+vom 8.12.2011, S. 1) eine Marktmanipulation auf einem
+Energiegroßhandelsmarkt vornimmt.
+
+(1c) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+1227/2011 verstößt, indem er vorsätzlich oder leichtfertig
+
+1.  als Person nach Artikel 3 Absatz 2 Buchstabe e
+
+    a)  entgegen Artikel 3 Absatz 1 Buchstabe b eine Insiderinformation an
+        Dritte weitergibt oder
+
+
+    b)  entgegen Artikel 3 Absatz 1 Buchstabe c einer anderen Person empfiehlt
+        oder sie dazu verleitet, ein Energiegroßhandelsprodukt zu erwerben
+        oder zu veräußern,
+
+
+
+
+
+2.  entgegen Artikel 4 Absatz 1 Satz 1 eine Insiderinformation nicht,
+    nicht richtig, nicht vollständig oder nicht unverzüglich nach
+    Kenntniserlangung bekannt gibt,
+
+
+3.  entgegen Artikel 4 Absatz 2 Satz 2 eine Insiderinformation nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+
+4.  entgegen Artikel 4 Absatz 3 Satz 1 die Bekanntgabe einer
+    Insiderinformation nicht sicherstellt,
+
+
+5.  entgegen Artikel 4 Absatz 3 Satz 2 nicht dafür sorgt, dass eine
+    Insiderinformation bekannt gegeben wird,
+
+
+6.  entgegen Artikel 5 in Verbindung mit Artikel 2 Nummer 2 Buchstabe b
+    Satz 1 eine Marktmanipulation auf einem Energiegroßhandelsmarkt
+    vornimmt,
+
+
+7.  entgegen Artikel 8 Absatz 1 Satz 1 in Verbindung mit einer Verordnung
+    nach Artikel 8 Absatz 2 Satz 1 eine dort genannte Aufzeichnung nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+
+8.  entgegen Artikel 8 Absatz 5 Satz 1 in Verbindung mit einer Verordnung
+    nach Artikel 8 Absatz 6 Satz 1 eine dort genannte Information nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt
+    oder
+
+
+9.  entgegen Artikel 15 Absatz 1 die Bundesnetzagentur als nationale
+    Regulierungsbehörde nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig informiert.
+
+
+
+
+(1d) Ordnungswidrig handelt, wer gegen die Verordnung (EU) Nr.
+1227/2011 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  entgegen Artikel 9 Absatz 1 Satz 1 sich nicht oder nicht rechtzeitig
+    bei der Bundesnetzagentur registrieren lässt oder
+
+
+2.  entgegen Artikel 9 Absatz 1 Satz 2 sich bei mehr als einer nationalen
+    Regulierungsbehörde registrieren lässt.
+
+
+
+
+(1e) Ordnungswidrig handelt, wer gegen die Verordnung (EU) 2019/943
+des Europäischen Parlaments und des Rates verstößt, indem er
+vorsätzlich oder fahrlässig die den Marktteilnehmern zur Verfügung zu
+stellende Verbindungskapazität zwischen Gebotszonen über das nach
+Artikel 15 Absatz 2 und Artikel 16 Absatz 3, 4, 8 und 9 der Verordnung
+(EU) 2019/943 des Europäischen Parlaments und des Rates vorgesehene
+Maß hinaus einschränkt.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3f
+bis 3i mit einer Geldbuße bis zu fünf Millionen Euro, in den Fällen
+des Absatzes 1 Nummer 1a, Nr. 3 Buchstabe b, Nr. 4 und 5 Buchstabe b,
+der Absätze 1b und 1c Nummer 2 und 6 mit einer Geldbuße bis zu einer
+Million Euro, über diesen Betrag hinaus bis zur dreifachen Höhe des
+durch die Zuwiderhandlung erlangten Mehrerlöses, in den Fällen des
+Absatzes 1 Nummer 5 Buchstabe e mit einer Geldbuße bis zu
+dreihunderttausend Euro, in den Fällen des Absatzes 1 Nummer 5
+Buchstabe d mit einer Geldbuße bis zu fünfzigtausend Euro, in den
+Fällen des Absatzes 1 Nr. 5 Buchstabe a sowie des Absatzes 1a Nummer 2
+und des Absatzes 1c Nummer 7 und 8 mit einer Geldbuße bis zu
+zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu
+hunderttausend Euro geahndet werden. Die Höhe des Mehrerlöses kann
+geschätzt werden. Gegenüber einem Transportnetzbetreiber oder
+gegenüber einem vertikal integrierten Energieversorgungsunternehmen
+und jedem seiner Unternehmensteile kann über Satz 1 hinaus in Fällen
+des Absatzes 1 Nummer 3 Buchstabe b und des Absatzes 1e eine höhere
+Geldbuße verhängt werden. Diese darf
+
+1.  in Fällen des Absatzes 1 Nummer 3 Buchstabe b 10 Prozent des
+    Gesamtumsatzes, den der Transportnetzbetreiber oder das vertikal
+    integrierte Energieversorgungsunternehmen einschließlich seiner
+    Unternehmensteile in dem der Behördenentscheidung vorausgegangenen
+    Geschäftsjahr weltweit erzielt hat, nicht übersteigen oder
+
+
+2.  in Fällen des Absatzes 1e 10 Prozent des Gesamtumsatzes, den der
+    Transportnetzbetreiber oder das vertikal integrierte
+    Energieversorgungsunternehmen einschließlich seiner Unternehmensteile
+    in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr
+    weltweit erzielt hat, abzüglich der Umlagen nach § 26 des Kraft-Wärme-
+    Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498) in der
+    jeweils geltenden Fassung und der Umlagen nach den §§ 60 bis 61 des
+    Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) in
+    der jeweils geltenden Fassung nicht übersteigen.
+
+
+
+Die Höhe des Gesamtumsatzes kann geschätzt werden. Ein durch die
+Zuwiderhandlung erlangter Mehrerlös bleibt unberücksichtigt.
 
 (3) Die Regulierungsbehörde kann allgemeine Verwaltungsgrundsätze über
 die Ausübung ihres Ermessens bei der Bemessung der Geldbuße festlegen.
@@ -7540,10 +13773,70 @@ die Ausübung ihres Ermessens bei der Bemessung der Geldbuße festlegen.
 (4) Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach Absatz
 1 richtet sich nach den Vorschriften des Gesetzes über
 Ordnungswidrigkeiten. Die Verfolgung der Ordnungswidrigkeiten nach
-Absatz 1 Nr. 4 und 5 verjährt in fünf Jahren.
+Absatz 1 Nummer 3 Buchstabe b und Nummer 4 und 5 verjährt in fünf
+Jahren.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist die nach § 54 zuständige Behörde.
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
+Nummer 2b das Bundesamt für Sicherheit in der Informationstechnik, im
+Übrigen die nach § 54 zuständige Behörde.
+
+
+#### § 95a Strafvorschriften
+
+(1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
+bestraft, wer eine in § 95 Absatz 1b oder Absatz 1c Nummer 6
+bezeichnete vorsätzliche Handlung begeht und dadurch auf den Preis
+eines Energiegroßhandelsprodukts einwirkt.
+
+(2) Ebenso wird bestraft, wer gegen die Verordnung (EU) Nr. 1227/2011
+des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über
+die Integrität und Transparenz des Energiegroßhandelsmarkts (ABl. L
+326 vom 8.12.2011, S. 1) verstößt, indem er
+
+1.  entgegen Artikel 3 Absatz 1 Buchstabe a eine Insiderinformation nutzt
+    oder
+
+
+2.  als Person nach Artikel 3 Absatz 2 Buchstabe a, b, c oder Buchstabe d
+    oder Absatz 5
+
+    a)  entgegen Artikel 3 Absatz 1 Buchstabe b eine Insiderinformation an
+        Dritte weitergibt oder
+
+
+    b)  entgegen Artikel 3 Absatz 1 Buchstabe c einer anderen Person empfiehlt
+        oder sie dazu verleitet, ein Energiegroßhandelsprodukt zu erwerben
+        oder zu veräußern.
+
+
+
+
+
+
+
+(3) In den Fällen des Absatzes 2 ist der Versuch strafbar.
+
+(4) Handelt der Täter in den Fällen des Absatzes 2 Nummer 1
+leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
+Geldstrafe.
+
+
+#### § 95b Strafvorschriften
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer
+
+1.  entgegen § 12 Absatz 5 Satz 1 Nummer 1 nicht sicherstellt, dass ein
+    Betriebs- und Geschäftsgeheimnis ausschließlich in der dort genannten
+    Weise genutzt wird, oder
+
+
+2.  eine in § 95 Absatz 1b oder Absatz 1c Nummer 2 oder Nummer 6
+    bezeichnete vorsätzliche Handlung beharrlich wiederholt.
+
+
+
 
 
 #### § 96 Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung
@@ -7573,14 +13866,16 @@ Staatsanwaltschaft abgibt.
 
 Sofern die Regulierungsbehörde als Verwaltungsbehörde des
 Vorverfahrens tätig war, erfolgt die Vollstreckung der Geldbuße und
-des Geldbetrages, dessen Verfall angeordnet wurde, durch die
-Regulierungsbehörde als Vollstreckungsbehörde auf Grund einer von dem
-Urkundsbeamten der Geschäftsstelle des Gerichts zu erteilenden, mit
-der Bescheinigung der Vollstreckbarkeit versehenen beglaubigten
-Abschrift der Urteilsformel entsprechend den Vorschriften über die
-Vollstreckung von Bußgeldbescheiden. Die Geldbußen und die
-Geldbeträge, deren Verfall angeordnet wurde, fließen der Bundeskasse
-zu, die auch die der Staatskasse auferlegten Kosten trägt.
+des Geldbetrages, dessen Einziehung nach § 29a des Gesetzes über
+Ordnungswidrigkeiten angeordnet wurde, durch die Regulierungsbehörde
+als Vollstreckungsbehörde auf Grund einer von dem Urkundsbeamten der
+Geschäftsstelle des Gerichts zu erteilenden, mit der Bescheinigung der
+Vollstreckbarkeit versehenen beglaubigten Abschrift der Urteilsformel
+entsprechend den Vorschriften über die Vollstreckung von
+Bußgeldbescheiden. Die Geldbußen und die Geldbeträge, deren Einziehung
+nach § 29a des Gesetzes über Ordnungswidrigkeiten angeordnet wurde,
+fließen der Bundeskasse zu, die auch die der Staatskasse auferlegten
+Kosten trägt.
 
 
 #### § 98 Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren
@@ -7784,9 +14079,10 @@ des Geltungsbereichs dieses Gesetzes veranlasst werden.
 
 ### § 110 Geschlossene Verteilernetze
 
-(1) § 14 Absatz 1b, die §§ 14a, 18, 19, 21a, 22 Absatz 1, die §§ 23a
-und 32 Absatz 2, die §§ 33, 35 und 52 finden auf den Betrieb eines
-geschlossenen Verteilernetzes keine Anwendung.
+(1) § 7 Absatz 1 Satz 2, § 7c Absatz 1, die §§ 12h, 14 Absatz 2, die
+§§ 14a, 14c, 14d, 14e, 18, 19, 21a, 22 Absatz 1, die §§ 23a und 32
+Absatz 2 sowie die §§ 33, 35 und 52 sind auf den Betrieb eines
+geschlossenen Verteilernetzes nicht anzuwenden.
 
 (2) Die Regulierungsbehörde stuft ein Energieversorgungsnetz, mit dem
 Energie zum Zwecke der Ermöglichung der Versorgung von Kunden in einem
@@ -7818,8 +14114,7 @@ muss folgende Angaben enthalten:
 1.  Firma und Sitz des Netzbetreibers und des Netzeigentümers,
 
 
-2.  Angaben nach § 27 Absatz 2 der Stromnetzentgeltverordnung oder § 27
-    Absatz 2 der Gasnetzentgeltverordnung,
+2.  Angaben nach § 23c Absatz 1 oder § 23c Absatz 4 Nummer 1 bis 5,
 
 
 3.  Anzahl der versorgten Haushaltskunden,
@@ -7885,14 +14180,19 @@ Anschluss an das Versorgungsnetz, die Belieferung mit Energie sowie
 die Messung der Energie betreffen, innerhalb einer Frist von vier
 Wochen ab Zugang beim Unternehmen zu beantworten. Wird der
 Verbraucherbeschwerde durch das Unternehmen nicht abgeholfen, hat das
-Unternehmen die Gründe schriftlich oder elektronisch darzulegen und
-auf das Schlichtungsverfahren nach § 111b hinzuweisen. Das mit der
-Beanstandung befasste Unternehmen hat andere Unternehmen, die an der
-Belieferung des beanstandenden Verbrauchers bezüglich des Anschlusses
-an das Versorgungsnetz, der Belieferung mit Energie oder der Messung
-der Energie beteiligt sind, über den Inhalt der Beschwerde zu
-informieren, wenn diese Unternehmen der Verbraucherbeschwerde abhelfen
-können.
+Unternehmen die Gründe in Textform darzulegen und auf das
+Schlichtungsverfahren nach § 111b unter Angabe der Anschrift und der
+Webseite der Schlichtungsstelle hinzuweisen. Das Unternehmen hat
+zugleich anzugeben, dass es zur Teilnahme am Schlichtungsverfahren
+verpflichtet ist. Das Unternehmen hat auf seiner Webseite auf das
+Schlichtungsverfahren nach § 111b, die Anschrift und die Webseite der
+Schlichtungsstelle sowie seine Pflicht zur Teilnahme am
+Schlichtungsverfahren hinzuweisen. Das mit der Beanstandung befasste
+Unternehmen hat andere Unternehmen, die an der Belieferung des
+beanstandenden Verbrauchers bezüglich des Anschlusses an das
+Versorgungsnetz, der Belieferung mit Energie oder der Messung der
+Energie beteiligt sind, über den Inhalt der Beschwerde zu informieren,
+wenn diese Unternehmen der Verbraucherbeschwerde abhelfen können.
 
 
 ### § 111b Schlichtungsstelle, Verordnungsermächtigung
@@ -7910,80 +14210,75 @@ abgeholfen hat. Die Schlichtungsstelle kann andere Unternehmen, die an
 der Belieferung des den Antrag nach Satz 2 stellenden Verbrauchers
 bezüglich des Anschlusses an das Versorgungsnetz, der Belieferung mit
 Energie oder der Messung der Energie beteiligt sind, als Beteiligte im
-Schlichtungsverfahren hinzuziehen. Schlichtungsverfahren sollen
-regelmäßig innerhalb von drei Monaten abgeschlossen werden. Das Recht
-der Beteiligten, die Gerichte anzurufen oder ein anderes Verfahren
-nach diesem Gesetz zu beantragen, bleibt unberührt.
+Schlichtungsverfahren hinzuziehen. Das Recht der Beteiligten, die
+Gerichte anzurufen oder ein anderes Verfahren nach diesem Gesetz zu
+beantragen, bleibt unberührt.
 
 (2) Sofern wegen eines Anspruchs, der durch das Schlichtungsverfahren
 betroffen ist, ein Mahnverfahren eingeleitet wurde, soll der das
 Mahnverfahren betreibende Beteiligte auf Veranlassung der
 Schlichtungsstelle das Ruhen des Mahnverfahrens bewirken.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz eine privatrechtlich organisierte Einrichtung
-als zentrale Schlichtungsstelle zur außergerichtlichen Beilegung von
+(3) Das Bundesministerium für Wirtschaft und Energie kann im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz eine privatrechtlich organisierte Einrichtung als
+zentrale Schlichtungsstelle zur außergerichtlichen Beilegung von
 Streitigkeiten nach Absatz 1 anerkennen. Die Anerkennung ist im
-Bundesanzeiger bekannt zu machen.
+Bundesanzeiger bekannt zu machen und der Zentralen Anlaufstelle für
+Verbraucherschlichtung nach § 32 Absatz 2 und 4 des
+Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
+254), das durch Artikel 1 des Gesetzes vom 30. November 2019 (BGBl. I
+S. 1942) geändert worden ist, mitzuteilen.
 
 (4) Eine privatrechtlich organisierte Einrichtung kann nach Absatz 3
-als Schlichtungsstelle anerkannt werden, wenn sie die Voraussetzungen
-der Empfehlung 98/257/EG der Kommission vom 30. März 1998 betreffend
-die Grundsätze für Einrichtungen, die für die außergerichtliche
-Beilegung von Verbraucherrechtsstreitigkeiten zuständig sind (ABl. L
-115 vom 17.4.1998, S. 31), erfüllt. Dabei müssen insbesondere:
+Satz 1 als Schlichtungsstelle anerkannt werden, wenn sie die
+Voraussetzungen für eine Anerkennung als Verbraucherschlichtungsstelle
+nach dem Verbraucherstreitbeilegungsgesetz erfüllt, soweit das
+Energiewirtschaftsgesetz keine abweichenden Regelungen trifft.
 
-1.  die Unabhängigkeit und Unparteilichkeit der Schlichter sichergestellt
-    sein;
-
-
-2.  die Beteiligten rechtliches Gehör erhalten, insbesondere Tatsachen und
-    Bewertungen vorbringen können;
-
-
-3.  die organisatorischen und fachlichen Voraussetzungen für die
-    Durchführung des Schlichtungsverfahrens vorliegen;
-
-
-4.  Schlichtungsverfahren zügig durchgeführt werden können;
-
-
-5.  die Schlichter und Hilfspersonen die Vertraulichkeit der Informationen
-    gewährleisten, von denen sie im Schlichtungsverfahren Kenntnis
-    erhalten, und
-
-
-6.  die Verfahrensregeln für Interessierte zugänglich sein.
-
-
-
-
-(5) Die anerkannte Schlichtungsstelle ist verpflichtet, jeden Antrag
-auf Schlichtung nach Absatz 1 schriftlich oder elektronisch zu
-beantworten und zu begründen. Sie ist verpflichtet, jährlich einen
-Tätigkeitsbericht zu veröffentlichen. Sie soll regelmäßig
-Entscheidungen von allgemeinem Interesse für den Verbraucher auf ihrer
-Internetseite veröffentlichen.
+(5) Die anerkannte Schlichtungsstelle hat dem Bundesministerium für
+Wirtschaft und Energie und dem Bundesministerium der Justiz und für
+Verbraucherschutz jährlich über ihre Organisations- und Finanzstruktur
+zu berichten. § 34 des Verbraucherstreitbeilegungsgesetzes bleibt
+unberührt.
 
 (6) Die anerkannte Schlichtungsstelle kann für ein
 Schlichtungsverfahren von den nach Absatz 1 Satz 2 und 4 beteiligten
-Unternehmen ein Entgelt erheben. Bei offensichtlich missbräuchlichen
-Anträgen nach Absatz 1 Satz 2 kann auch von dem Verbraucher ein
-Entgelt verlangt werden. Die Höhe des Entgelts muss im Verhältnis zum
-Aufwand der anerkannten Schlichtungsstelle angemessen sein.
+Unternehmen ein Entgelt erheben. Die Höhe des Entgelts nach Satz 1
+muss im Verhältnis zum Aufwand der anerkannten Schlichtungsstelle
+angemessen sein und den ordnungsgemäßen Geschäftsbetrieb
+sicherstellen. Bei offensichtlich missbräuchlichen Anträgen nach
+Absatz 1 Satz 2 kann auch von dem Verbraucher ein Entgelt verlangt
+werden, welches 30 Euro nicht überschreiten darf. Einwände gegen
+Rechnungen berechtigen gegenüber der anerkannten Schlichtungsstelle
+zum Zahlungsaufschub oder zur Zahlungsverweigerung nur, soweit die
+ernsthafte Möglichkeit eines offensichtlichen Fehlers besteht. Für
+Streitigkeiten über Schlichtungsentgelte ist örtlich ausschließlich
+das Gericht zuständig, in dessen Bezirk die anerkannte
+Schlichtungsstelle ihren Sitz hat.
 
 (7) Solange keine privatrechtlich organisierte Einrichtung als
 Schlichtungsstelle nach Absatz 4 anerkannt worden ist, hat das
-Bundesministerium für Wirtschaft und Technologie die Aufgaben der
+Bundesministerium für Wirtschaft und Energie die Aufgaben der
 Schlichtungsstelle durch Rechtsverordnung im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-ohne Zustimmung des Bundesrates einer Bundesoberbehörde oder
-Bundesanstalt (beauftragte Schlichtungsstelle) zuzuweisen und deren
-Verfahren sowie die Erhebung von Gebühren und Auslagen zu regeln. Die
-Absätze 4 und 5 sind entsprechend anzuwenden.
+Bundesministerium der Justiz und für Verbraucherschutz ohne Zustimmung
+des Bundesrates einer Bundesoberbehörde oder Bundesanstalt
+(beauftragte Schlichtungsstelle) zuzuweisen und deren Verfahren sowie
+die Erhebung von Gebühren und Auslagen zu regeln. Soweit dieses Gesetz
+keine abweichenden Regelungen trifft, muss die beauftragte
+Schlichtungsstelle die Anforderungen nach dem
+Verbraucherstreitbeilegungsgesetz erfüllen.
 
-(8) Die Befugnisse der Regulierungsbehörden auf der Grundlage dieses
+(8) Die anerkannte und die beauftragte Schlichtungsstelle sind
+Verbraucherschlichtungsstellen nach dem
+Verbraucherstreitbeilegungsgesetz. Das
+Verbraucherstreitbeilegungsgesetz ist anzuwenden, soweit das
+Energiewirtschaftsgesetz keine abweichenden Regelungen trifft. Die
+Schlichtungsstellen sollen regelmäßig Schlichtungsvorschläge von
+allgemeinem Interesse für den Verbraucher auf ihrer Webseite
+veröffentlichen.
+
+(9) Die Befugnisse der Regulierungsbehörden auf der Grundlage dieses
 Gesetzes sowie der Kartellbehörden auf Grundlage des Gesetzes gegen
 Wettbewerbsbeschränkungen bleiben unberührt.
 
@@ -7997,19 +14292,509 @@ Schlichtungsverfahrens nach § 111b zugrunde liegt, ein
 Missbrauchsverfahren nach § 30 Absatz 2 oder ein besonderes
 Missbrauchsverfahren nach § 31 oder gegen ein Unternehmen (§ 111a Satz
 1) ein Aufsichtsverfahren nach § 65 eingeleitet worden ist, ist das
-Schlichtungsverfahren auszusetzen.
+Schlichtungsverfahren auszusetzen. Die Schlichtungsstelle teilt den
+Parteien mit, dass sich die Dauer des Schlichtungsverfahrens wegen
+besonderer Schwierigkeit der Streitigkeit verlängert.
 
 (2) Das nach Absatz 1 ausgesetzte Schlichtungsverfahren ist mit
 Abschluss des Missbrauchsverfahrens oder Aufsichtsverfahrens
 unverzüglich fortzusetzen.
 
-(3) Die Schlichtungsstelle und die Regulierungsbehörden können nach
-Maßgabe des Bundesdatenschutzgesetzes untereinander Informationen
-einschließlich personenbezogener Daten über anhängige Schlichtungs-
-und Missbrauchsverfahren austauschen, soweit dies zur Erfüllung ihrer
-jeweiligen Aufgaben erforderlich ist. Es ist sicherzustellen, dass die
-Vertraulichkeit wirtschaftlich sensibler Daten im Sinne des § 6a
-gewahrt wird.
+(3) Die Schlichtungsstelle und die Regulierungsbehörden können
+untereinander Informationen einschließlich personenbezogener Daten
+über anhängige Schlichtungs- und Missbrauchsverfahren austauschen,
+soweit dies zur Erfüllung ihrer jeweiligen Aufgaben erforderlich ist.
+Es ist sicherzustellen, dass die Vertraulichkeit wirtschaftlich
+sensibler Daten im Sinne des § 6a gewahrt wird.
+
+
+## Teil 9a - Transparenz
+
+
+
+### § 111d Einrichtung einer nationalen Informationsplattform
+
+(1) Die Bundesnetzagentur errichtet und betreibt spätestens ab dem 1.
+Juli 2017 eine elektronische Plattform, um der Öffentlichkeit
+jederzeit die aktuellen Informationen insbesondere zu der Erzeugung
+von Elektrizität, der Last, der Menge der Im- und Exporte von
+Elektrizität, der Verfügbarkeit von Netzen und von
+Energieerzeugungsanlagen sowie zu Kapazitäten und der Verfügbarkeit
+von grenzüberschreitenden Verbindungsleitungen zur Verfügung zu
+stellen (nationale Informationsplattform). Zu dem Zweck nach Satz 1
+veröffentlicht sie auf der nationalen Informationsplattform in einer
+für die Gebotszone der Bundesrepublik Deutschland aggregierten Form
+insbesondere die Daten, die
+
+1.  von den Betreibern von Übertragungsnetzen nach Artikel 4 Absatz 1 in
+    Verbindung mit den Artikeln 6 bis 17 der Verordnung (EU) Nr. 543/2013
+    der Kommission vom 14. Juni 2013 über die Übermittlung und die
+    Veröffentlichung von Daten in Strommärkten und zur Änderung des
+    Anhangs I der Verordnung (EG) Nr. 714/2009 des Europäischen Parlaments
+    und des Rates (ABl. L 163 vom 15.6.2013, S. 1; Transparenzverordnung)
+    an den Europäischen Verbund der Übertragungsnetzbetreiber (ENTSO-
+    Strom) übermittelt und von ENTSO-Strom veröffentlicht werden oder
+
+
+2.  von Primäreigentümern im Sinne von Artikel 2 Nummer 23 nach Artikel 4
+    Absatz 2 der Transparenzverordnung an ENTSO-Strom übermittelt und von
+    ENTSO-Strom veröffentlicht werden.
+
+
+
+Die Bundesnetzagentur kann über die Daten nach Satz 2 hinaus
+zusätzliche ihr vorliegende Daten veröffentlichen, um die Transparenz
+im Strommarkt zu erhöhen.
+
+(2) Die Bundesnetzagentur kann die Übermittlung der Daten nach Absatz
+1 Satz 2 von den Betreibern von Übertragungsnetzen sowie den
+Primäreigentümern im Sinne von Absatz 1 Satz 2 verlangen. In diesem
+Fall müssen die Betreiber von Übertragungsnetzen sowie die
+Primäreigentümer auf Verlangen der Bundesnetzagentur dieser die Daten
+nach Absatz 1 Satz 2 über eine zum automatisierten Datenaustausch
+eingerichtete Schnittstelle innerhalb der von der Bundesnetzagentur
+gesetzten Frist zur Verfügung stellen. Die Möglichkeit der Betreiber
+von Übertragungsnetzen, Informationen zu Anlagen und deren Standorten
+nach Artikel 10 Absatz 4 und nach Artikel 11 Absatz 4 Satz 2 der
+Transparenzverordnung nicht anzugeben, bleibt hiervon unberührt. Die
+Bundesnetzagentur darf die ihr nach Satz 1 zur Kenntnis gelangten
+Daten, die Betriebs-und Geschäftsgeheimnisse enthalten, nur in
+anonymisierter Form veröffentlichen. Die Bundesnetzagentur darf Daten,
+die geeignet sind, die Sicherheit oder Zuverlässigkeit des
+Elektrizitätsversorgungssystems oder die Sicherheit und Ordnung zu
+gefährden, oder die europäische kritische Anlagen betreffen, nur im
+Einvernehmen mit den Betreibern der Übertragungsnetze veröffentlichen;
+Absatz 4 Satz 1 bleibt hiervon unberührt.
+
+(3) Die Bundesnetzagentur soll die in Absatz 1 Satz 2 und 3 genannten
+Daten in einer für die Gebotszone der Bundesrepublik Deutschland
+aggregierten Form und in deutscher Sprache unter Berücksichtigung der
+in der Transparenzverordnung festgelegten Zeitpunkte veröffentlichen,
+soweit dies jeweils technisch möglich ist. Die Art der
+Veröffentlichung der Daten soll in einer für die Öffentlichkeit
+verständlichen Darstellung und in leicht zugänglichen Formaten
+erfolgen, um die Öffentlichkeit besser in die Lage zu versetzen, die
+Informationen des Strommarktes und die Wirkungszusammenhänge
+nachvollziehen zu können. Die Daten müssen frei zugänglich sein und
+von den Nutzern gespeichert werden können.
+
+(4) Die Bundesnetzagentur wird ermächtigt, wenn die nach den Nummern 1
+und 3 zu übermittelnden Daten für den Zweck der nationalen
+Informationsplattform erforderlich sind und soweit diese Daten bei den
+Betreibern der Elektrizitätsversorgungsnetze vorliegen, Festlegungen
+nach § 29 Absatz 1 zu treffen insbesondere
+
+1.  zur Übermittlung von Daten und zu der Form der Übermittlung durch die
+    Betreiber von Elektrizitätsversorgungsnetzen,
+
+
+2.  zu den Zeitpunkten der Übermittlung der Daten unter Berücksichtigung
+    der in der Transparenzverordnung festgelegten Zeitpunkte sowie
+
+
+3.  zur Übermittlung von Daten zu Erzeugungseinheiten mit einer
+    installierten Erzeugungskapazität zwischen 10 Megawatt und 100
+    Megawatt.
+
+
+
+
+
+### § 111e Marktstammdatenregister
+
+(1) Die Bundesnetzagentur errichtet und betreibt ein elektronisches
+Verzeichnis mit energiewirtschaftlichen Daten
+(Marktstammdatenregister). Das Marktstammdatenregister dient dazu,
+
+1.  die Verfügbarkeit und Qualität der energiewirtschaftlichen Daten zur
+    Unterstützung des Zwecks und der Ziele nach § 1 für die im
+    Energieversorgungssystem handelnden Personen sowie für die zuständigen
+    Behörden zur Wahrnehmung ihrer gesetzlichen Aufgaben zu verbessern,
+
+
+2.  den Aufwand zur Erfüllung von Meldepflichten zu verringern und
+
+
+2a. die Prozesse der Energieversorgung durchgängig zu digitalisieren und
+    dafür insbesondere den Netzanschluss und den Anlagenbetrieb im
+    Hinblick auf Energievermarktung, Förderung, Abrechnung und die
+    Besteuerung auf eine einheitliche Datenbasis zu stellen,
+
+
+3.  die Transformation des Energieversorgungssystems gegenüber der
+    Öffentlichkeit transparent darzustellen.
+
+
+
+Die Bundesnetzagentur stellt durch fortlaufende Weiterentwicklung
+sicher, dass das Marktstammdatenregister jederzeit dem Stand der
+digitalen Technik und den Nutzungsgewohnheiten in Onlinesystemen
+entspricht.
+
+(2) Das Marktstammdatenregister umfasst folgende Daten über die
+Unternehmen und Anlagen der Elektrizitäts- und Gaswirtschaft:
+
+1.  in der Elektrizitätswirtschaft insbesondere Daten über
+
+    a)  Anlagen zur Erzeugung und Speicherung von elektrischer Energie sowie
+        deren Betreiber,
+
+
+    b)  Betreiber von Elektrizitätsversorgungsnetzen und
+
+
+    c)  Bilanzkreisverantwortliche und
+
+
+
+
+
+2.  in der Gaswirtschaft insbesondere Daten über
+
+    a)  Gasproduktionsanlagen und Gasspeicheranlagen sowie deren Betreiber,
+
+
+    b)  Betreiber von Gasversorgungsnetzen,
+
+
+    c)  Marktgebietsverantwortliche und
+
+
+    d)  Bilanzkreisverantwortliche.
+
+
+
+
+
+
+
+(3) Die Bundesnetzagentur muss bei der Errichtung und bei dem Betrieb
+des Marktstammdatenregisters
+
+1.  europarechtliche und nationale Regelungen hinsichtlich der
+    Vertraulichkeit, des Datenschutzes und der Datensicherheit beachten
+    sowie
+
+
+2.  die erforderlichen technischen und organisatorischen Maßnahmen zur
+    Sicherstellung von Datenschutz und Datensicherheit ergreifen, und zwar
+
+    a)  unter Beachtung der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679
+        des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+        Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+        Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+        95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+        L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+        geltenden Fassung und
+
+
+    b)  unter Berücksichtigung der einschlägigen Standards und Empfehlungen
+        des Bundesamtes für Sicherheit in der Informationstechnik.
+
+
+
+
+
+
+
+(4) Die Bundesnetzagentur muss in einem nach der Rechtsverordnung nach
+§ 111f Nummer 8 Buchstabe c zu bestimmenden Umfang Behörden den Zugang
+zum Marktstammdatenregister eröffnen, soweit diese Behörden die
+gespeicherten Daten zur Erfüllung ihrer jeweiligen Aufgaben benötigen.
+Daten, die im Marktstammdatenregister erfasst sind, sollen von
+Organisationseinheiten in Behörden, die für die Überwachung und den
+Vollzug energierechtlicher Bestimmungen zuständig sind oder Daten zu
+energiestatistischen Zwecken benötigen, nicht erneut erhoben werden,
+soweit
+
+1.  die organisatorischen und technischen Voraussetzungen für den Zugriff
+    auf das Marktstammdatenregister gewährleistet sind,
+
+
+2.  nicht zur Umsetzung europäischen Rechts eine eigenständige
+    Datenerhebung erforderlich ist und
+
+
+3.  die jeweils benötigten Daten nach Maßgabe der Rechtsverordnung nach §
+    111f vollständig und richtig an das Marktstammdatenregister
+    übermittelt worden sind.
+
+
+
+
+(5) Die Bundesnetzagentur nimmt ihre Aufgaben und Befugnisse nach den
+Absätzen 1 bis 4 sowie nach der Rechtsverordnung nach § 111f nur im
+öffentlichen Interesse wahr.
+
+(6) Die Bundesnetzagentur berichtet der Bundesregierung erstmals zum
+31\. Dezember 2022 und danach alle zwei Jahre über den aktuellen Stand
+und Fortschritt des Marktstammdatenregisters. Im Bericht ist
+insbesondere darauf einzugehen, wie das Marktstammdatenregister
+technisch weiterentwickelt wurde, wie die Nutzung des Registers und
+der registrierten Daten zur Erfüllung von Meldepflichten beigetragen
+haben, wie durch die Digitalisierung die Prozesse der
+Energieversorgung vereinfacht wurden und welche organisatorischen und
+technischen Maßnahmen zur Verbesserung der öffentlichen
+Datenverfügbarkeit getroffen wurden.
+
+
+### § 111f Verordnungsermächtigung zum Marktstammdatenregister
+
+Zur näheren Ausgestaltung des Marktstammdatenregisters wird das
+Bundesministerium für Wirtschaft und Energie ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates zu regeln:
+
+1.  zur Umsetzung des § 111e Absatz 2 die registrierungspflichtigen
+    Personen und die zu erfassenden Energieanlagen,
+
+
+2.  welche weiteren Personen registriert und welche weiteren Anlagen zur
+    Erreichung der Zwecke nach § 111e Absatz 1 erfasst werden müssen oder
+    können; dies sind insbesondere:
+
+    a)  Personen:
+
+        aa) Betreiber von geschlossenen Verteilernetzen,
+
+
+        bb) Direktvermarktungsunternehmer nach § 5 Nummer 10 des Erneuerbare-
+            Energien-Gesetzes,
+
+
+        cc) Strom- und Gaslieferanten, die Letztverbraucher beliefern,
+
+
+        dd) Messstellenbetreiber,
+
+
+        ee) Marktteilnehmer nach Artikel 2 Nummer 7 der Verordnung (EU) Nr.
+            1227/2011 des Europäischen Parlaments und des Rates über die
+            Integrität und Transparenz des Energiegroßhandelsmarkts,
+
+
+        ff) Betreiber von organisierten Marktplätzen nach Artikel 2 Nummer 4 der
+            Durchführungsverordnung (EU) Nr. 1348/2014 der Kommission vom 17.
+            Dezember 2014 über die Datenmeldung gemäß Artikel 8 Absatz 2 und 6 der
+            Verordnung (EU) Nr. 1227/2011 des Europäischen Parlaments und des
+            Rates über die Integrität und Transparenz des Energiegroßhandelsmarkts
+            (ABl. L 363 vom 18.12.2014, S. 121),
+
+
+
+
+
+    b)  Anlagen, wobei auch ihre Betreiber zur Registrierung verpflichtet
+        werden können:
+
+        aa) energiewirtschaftlich relevante Energieverbrauchsanlagen,
+
+
+        bb) Netzersatzanlagen,
+
+
+        cc) Ladepunkte für Elektromobile,
+
+
+
+
+
+
+
+
+3.  die Erfassung öffentlich-rechtlicher Zulassungen für Anlagen und die
+    Registrierung ihrer Inhaber,
+
+
+4.  die Registrierung von Behörden, die energiewirtschaftliche Daten zur
+    Erfüllung ihrer jeweiligen Aufgaben benötigen,
+
+
+5.  die Voraussetzungen und den Umfang einer freiwilligen Registrierung
+    von Personen, die nicht nach den Nummern 1 bis 3 hierzu verpflichtet
+    sind,
+
+
+6.  welche Daten übermittelt werden müssen und wer zur Übermittlung
+    verpflichtet ist, wobei mindestens folgende Daten zu übermitteln sind,
+    soweit diese nicht bereits der Bundesnetzagentur vorliegen; in diesen
+    Fällen kann eine Speicherung der Daten im Marktstammdatenregister ohne
+    ihre Übermittlung geregelt werden:
+
+    a)  der Name des Übermittelnden, seine Anschrift, seine Telefonnummer und
+        seine E-Mail-Adresse,
+
+
+    b)  der Standort der Anlage,
+
+
+    c)  die genutzten Energieträger,
+
+
+    d)  die installierte Leistung der Anlage,
+
+
+    e)  technische Eigenschaften der Anlage,
+
+
+    f)  Daten zum Energieversorgungsnetz, an das die Anlage angeschlossen ist,
+
+
+
+
+
+7.  das Verfahren der Datenübermittlung einschließlich
+
+    a)  Anforderungen an die Art, die Formate und den Umfang der zu
+        übermittelnden Daten,
+
+
+    b)  der anzuwendenden Fristen und Übergangfristen,
+
+
+    c)  Regelungen zur Übernahme der Verantwortung für die Richtigkeit der
+        Daten in Fällen, in denen nach Nummer 6 zweiter Halbsatz die Daten
+        ohne ihre vorherige Übermittlung im Marktstammdatenregister
+        gespeichert werden,
+
+
+
+
+
+7a. die Überprüfung der im Marktstammdatenregister gespeicherten Daten
+    einschließlich der hierzu erforderlichen Mitwirkungspflichten von
+    Personen nach Nummer 1 und 2,
+
+
+8.  die Nutzung des Marktstammdatenregisters einschließlich der
+    Möglichkeit zum automatisierten Abruf von Daten durch
+
+    a)  die zur Registrierung verpflichteten Personen einschließlich ihrer
+        Rechte, bestimmte Daten einzusehen und diese zu bestimmten Zwecken zu
+        nutzen,
+
+
+    b)  freiwillig registrierte Personen,
+
+
+    c)  Behörden einschließlich
+
+        aa) ihrer Befugnis, bestimmte Daten einzusehen und zum Abgleich mit
+            eigenen Registern und Datensätzen oder sonst zur Erfüllung ihrer
+            Aufgaben zu nutzen,
+
+
+        bb) der Regelung, welche Behörden in den Anwendungsbereich des § 111e
+            Absatz 4 fallen, sowie bei Behörden nach § 111e Absatz 4 Satz 2 die
+            Rechte der Dateninhaber, die Übermittlung von Daten an diese Behörden
+            zu verweigern, wenn die Voraussetzungen des § 111e Absatz 4 Satz 2
+            erfüllt sind; hierfür sind angemessene Übergangsfristen vorzusehen,
+            die es den betroffenen Behörden erlauben, ihrerseits die
+            organisatorischen und technischen Maßnahmen zur Anpassung eigener
+            Prozesse, Register und Datenbanken zu ergreifen,
+
+
+
+
+
+
+
+
+9.  die Art und den Umfang der Veröffentlichung der im
+    Marktstammdatenregister gespeicherten Daten unter Beachtung
+    datenschutzrechtlicher Anforderungen, der Anforderungen an die
+    Sicherheit und Zuverlässigkeit des Energieversorgungssystems sowie
+    unter Wahrung von Betriebs- und Geschäftsgeheimnissen,
+
+
+10. die Pflichten der für die Übermittlung der Daten Verantwortlichen, die
+    im Marktstammdatenregister gespeicherten Daten bei Änderungen zu
+    aktualisieren,
+
+
+11. die Rechtsfolgen in Fällen der Nichteinhaltung von Verpflichtungen auf
+    Grund einer Rechtsverordnung nach den Nummern 1, 2, 3, 6 und 7; dies
+    umfasst insbesondere Regelungen, wonach die Inanspruchnahme einzelner
+    oder sämtlicher der folgenden Förderungen und Begünstigungen die
+    Datenübermittlung an das Marktstammdatenregister voraussetzt, wenn und
+    soweit die betreffenden Bestimmungen dies zulassen, wobei angemessene
+    Übergangsfristen vorzusehen sind:
+
+    a)  die finanzielle Förderung nach § 19 des Erneuerbare-Energien-Gesetzes,
+
+
+    b)  die Zahlung des Zuschlags nach § 7 des Kraft-Wärme-Kopplungsgesetzes,
+
+
+    c)  die Zahlung vermiedener Netznutzungsentgelte nach § 18 der
+        Stromnetzentgeltverordnung,
+
+
+    d)  Begünstigungen
+
+        aa) nach § 60 Absatz 3, den §§ 61, 104 Absatz 3 des Erneuerbare-Energien-
+            Gesetzes,
+
+
+        bb) nach § 26 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes,
+
+
+        cc) nach § 19 Absatz 2 und 3 der Stromnetzentgeltverordnung,
+
+
+        dd) nach den §§ 20 und 20a der Gasnetzentgeltverordnung und nach § 35 der
+            Gasnetzzugangsverordnung,
+
+
+        ee) nach den §§ 3, 3a, 44, 46, 47, 53a und 53b des Energiesteuergesetzes
+            sowie
+
+
+        ff) nach § 9 des Stromsteuergesetzes,
+
+
+
+
+
+
+
+
+12. nähere Vorgaben zu den Folgen fehlerhafter Eintragungen einschließlich
+    Regelungen über Aufgaben und Befugnisse der Bundesnetzagentur zur
+    Sicherung der Datenqualität,
+
+
+13. nähere Vorgaben zur Gewährleistung von Datensicherheit und
+    Datenschutz; dies umfasst insbesondere Regelungen zum Schutz
+    personenbezogener Daten im Zusammenhang mit den nach Nummer 6 zu
+    übermittelnden Daten einschließlich Aufklärungs-, Auskunfts- und
+    Löschungspflichten,
+
+
+14. die Ermächtigung der Bundesnetzagentur, durch Festlegung nach § 29
+    Absatz 1 unter Beachtung der Zwecke des § 111e Absatz 1 sowie der
+    Anforderungen des Datenschutzes zu regeln:
+
+    a)  Definitionen der registrierungspflichtigen Personen sowie der zu
+        übermittelnden Daten,
+
+
+    b)  weitere zu übermittelnde Daten, einschließlich der hierzu
+        Verpflichteten,
+
+
+    c)  dass abweichend von einer Rechtsverordnung nach Nummer 3 oder einer
+        Festlegung nach Buchstabe a bestimmte Daten nicht mehr zu übermitteln
+        sind oder bestimmte Personen, Einrichtungen oder öffentlich-rechtliche
+        Zulassungen nicht mehr registriert werden müssen, soweit diese nicht
+        länger zur Erreichung der Ziele nach § 111e Absatz 1 Satz 2
+        erforderlich sind; hiervon ausgenommen sind die nach Nummer 6 zweiter
+        Halbsatz mindestens zu übermittelnden Daten.
+
+
+
+
+
+
 
 
 ## Teil 10 - Evaluierung, Schlussvorschriften
@@ -8093,11 +14878,108 @@ an den Deutschen Bundestag weiterzuleiten; sie kann ihm eine
 Stellungnahme hinzufügen.
 
 
+### § 112b Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung
+
+(1) Das Bundesministerium für Wirtschaft und Energie veröffentlicht
+bis zum 31. Dezember 2022 ein Konzept zum weiteren Aufbau des
+deutschen Wasserstoffnetzes. Das Konzept soll im Lichte sich
+entwickelnder unionsrechtlicher Grundlagen vor dem Hintergrund des
+Ziels einer Anpassung des regulatorischen Rahmens zur gemeinsamen
+Regulierung und Finanzierung der Gas- und der Wasserstoffnetze
+Überlegungen zu einer Transformation von Gasnetzen zu
+Wasserstoffnetzen einschließlich einer schrittweise integrierten
+Systemplanung beinhalten.
+
+(2) Die Bundesnetzagentur hat der Bundesregierung bis zum 30. Juni
+2025 einen Bericht über die Erfahrungen und Ergebnisse mit der
+Regulierung von Wasserstoffnetzen sowie Vorschläge zu deren weiterer
+Ausgestaltung vorzulegen. In diesem Bericht ist darauf einzugehen,
+welche Erfahrungen mit der Regulierung von Gasversorgungsnetzen im
+Hinblick auf die Beimischung von Wasserstoff gesammelt wurden und
+insbesondere welche Auswirkungen auf die Netzentgelte sich hieraus
+ergeben haben.
+
+
 ### § 113 Laufende Wegenutzungsverträge
 
 Laufende Wegenutzungsverträge, einschließlich der vereinbarten
 Konzessionsabgaben, bleiben unbeschadet ihrer Änderung durch die §§
 36, 46 und 48 im Übrigen unberührt.
+
+
+### § 113a Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen
+
+(1) Ist nach bestehenden Gestattungsverträgen, beschränkt persönlichen
+Dienstbarkeiten oder sonstigen Vereinbarungen, die keine Eintragung
+einer beschränkt persönlichen Dienstbarkeit vorsehen, für Grundstücke,
+die Errichtung und der Betrieb von Gasversorgungsleitungen gestattet,
+so sind diese im Zweifel so auszulegen, dass von ihnen auch die
+Errichtung und der Betrieb der Leitungen zum Transport von Wasserstoff
+umfasst ist. Dies umfasst auch die Begriffe „Gasleitung“,
+„Ferngasleitung“ oder „Erdgasleitung“.
+
+(2) Solange zugunsten der Betreiber von Energieversorgungsnetzen
+Wegenutzungsverträge im Sinne des § 46 für Gasleitungen einschließlich
+Fernwirkleitungen zur Netzsteuerung und Zubehör bestehen, gelten diese
+auch für Transport und Verteilung von Wasserstoff bis zum Ende ihrer
+vereinbarten Laufzeit fort.
+
+(3) Werden die Voraussetzungen nach Absatz 2 Satz 1 nicht mehr
+erfüllt, haben die Gemeinden dem Betreiber des Wasserstoffnetzes ihre
+öffentlichen Verkehrswege auf Basis von Wegenutzungsverträgen nach
+§ 46 zur Verfügung zu stellen, die für einzelne oder alle Gase im
+Sinne dieses Gesetzes gelten, einschließlich der Gestattungen nach
+§ 46 Absatz 1 Satz 1 für Wasserstoffleitungen, und deren Bedingungen
+nicht schlechter sein dürfen als die der Verträge nach Absatz 2 Satz
+1\.
+
+
+### § 113b Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas der Fernleitungsnetzbetreiber
+
+Fernleitungsnetzbetreiber können im Rahmen des Netzentwicklungsplans
+Gas gemäß § 15a Gasversorgungsleitungen kenntlich machen, die
+perspektivisch auf eine Wasserstoffnutzung umgestellt werden könnten.
+Es ist darzulegen, dass im Zeitpunkt einer Umstellung solcher
+Leitungen auf Wasserstoff sichergestellt ist, dass das verbleibende
+Fernleitungsnetz die dem Szenariorahmen zugrunde gelegten
+Kapazitätsbedarfe erfüllen kann; hierfür kann der Netzentwicklungsplan
+Gas zusätzliche Ausbaumaßnahmen des Erdgasnetzes in einem
+geringfügigen Umfang ausweisen. Die Entscheidung nach § 15a Absatz 3
+Satz 5 kann mit Nebenbestimmungen verbunden werden, soweit dies
+erforderlich ist, um zu gewährleisten, dass die Vorgaben des Satzes 2
+erfüllt werden.
+
+
+### § 113c Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben
+
+(1) Für Wasserstoffleitungen, die für einen maximal zulässigen
+Betriebsdruck von mehr als 16 Bar ausgelegt sind, ist die
+Gashochdruckleitungsverordnung vom 18. Mai 2011 (BGBl. I S. 928), die
+zuletzt durch Artikel 24 des Gesetzes vom 13. Mai 2019 (BGBl. I S.
+706) geändert worden ist, entsprechend anzuwenden.
+
+(2) Bis zum Erlass von technischen Regeln für Wasserstoffanlagen ist
+§ 49 Absatz 2 entsprechend anzuwenden, wobei die technischen Regeln
+des Deutschen Vereins des Gas- und Wasserfaches e. V. auf
+Wasserstoffanlagen unter Beachtung der spezifischen Eigenschaften des
+Wasserstoffes sinngemäß anzuwenden sind. Die zuständige Behörde kann
+die Einhaltung der technischen Anforderungen nach § 49 Absatz 1
+regelmäßig überprüfen. § 49 Absatz 5 bis 7 bleibt unberührt.
+
+(3) Die Umstellung einer Leitung für den Transport von Erdgas auf den
+Transport von Wasserstoff ist der zuständigen Behörde mindestens acht
+Wochen vor dem geplanten Beginn der Umstellung unter Beifügung aller
+für die Beurteilung der Sicherheit erforderlichen Unterlagen
+schriftlich oder durch Übermittlung in elektronischer Form anzuzeigen
+und zu beschreiben. Der Anzeige ist die gutachterliche Äußerung eines
+Sachverständigen beizufügen, aus der hervorgeht, dass die angegebene
+Beschaffenheit der genutzten Leitung den Anforderungen des § 49 Absatz
+1 entspricht. Die zuständige Behörde kann die geplante Umstellung
+innerhalb einer Frist von acht Wochen beanstanden, wenn die angegebene
+Beschaffenheit der zu nutzenden Leitung nicht den Anforderungen des
+§ 49 Absatz 1 entspricht. Die Frist beginnt, sobald die vollständigen
+Unterlagen und die gutachterliche Äußerung der zuständigen Behörde
+vorliegen.
 
 
 ### § 114 Wirksamwerden der Entflechtungsbestimmungen
@@ -8120,8 +15002,8 @@ Inkrafttreten einer zu diesem Gesetz nach den §§ 17, 18 oder 24
 erlassenen Rechtsverordnung an die jeweils entsprechenden Vorschriften
 dieses Gesetzes und die jeweilige Rechtsverordnung nach Maßgabe dieser
 Rechtsverordnung anzupassen, soweit eine Vertragspartei dies verlangt.
-§ 20 Abs. 1 des Gesetzes gegen Wettbewerbsbeschränkungen findet nach
-Maßgabe des § 111 Anwendung.
+§ 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 des Gesetzes gegen
+Wettbewerbsbeschränkungen findet nach Maßgabe des § 111 Anwendung.
 
 (1a) Abweichend von Absatz 1 Satz 2 sind die dort genannten Verträge
 hinsichtlich der Entgelte, soweit diese nach § 23a zu genehmigen sind,
@@ -8184,33 +15066,34 @@ Wasserversorgung gilt § 48 entsprechend.
 
 Betreiber
 
-1.  von Anlagen im Sinne des § 3 Nr. 1 des Erneuerbare-Energien-Gesetzes
-    mit einer elektrischen Leistung von bis zu 500 Kilowatt oder
+1.  von Anlagen im Sinne des § 3 Nummer 1 des Erneuerbare-Energien-
+    Gesetzes mit einer elektrischen Leistung von bis zu 500 Kilowatt oder
 
 
-2.  von Anlagen im Sinne des § 3 Abs. 2 des Kraft-Wärme-Kopplungsgesetzes
-    mit einer elektrischen Leistung von bis zu 500 Kilowatt,
+2.  von Anlagen im Sinne des § 2 Nummer 14 des Kraft-Wärme-
+    Kopplungsgesetzes mit einer elektrischen Leistung von bis zu 500
+    Kilowatt,
 
 
 
 die nur deswegen als Energieversorgungsunternehmen gelten, weil sie
 Elektrizität nach den Vorschriften des Erneuerbare-Energien-Gesetzes
-oder des Kraft-Wärme-Kopplungsgesetzes in ein Netz einspeisen oder
-gemäß § 33a des Erneuerbare-Energien-Gesetzes direkt vermarkten, sind
-hinsichtlich dieser Anlagen von den Bestimmungen des § 10 Abs. 1
-ausgenommen. Mehrere Anlagen zur Erzeugung von Strom aus solarer
-Strahlungsenergie gelten unabhängig von den Eigentumsverhältnissen und
-ausschließlich zum Zweck der Ermittlung der elektrischen Leistung im
-Sinne des Satzes 1 Nummer 1 als eine Anlage, wenn sie sich auf
-demselben Grundstück oder sonst in unmittelbarer räumlicher Nähe
-befinden und innerhalb von zwölf aufeinanderfolgenden Kalendermonaten
-in Betrieb genommen worden sind. Satz 1 gilt nicht, wenn der Betreiber
-ein vertikal integriertes Unternehmen ist oder im Sinne des § 3 Nr. 38
-mit einem solchen verbunden ist. Bilanzierungs-, Prüfungs- und
-Veröffentlichungspflichten aus sonstigen Vorschriften bleiben
-unberührt. Mehrere Anlagen im Sinne des Satzes 1 Nr. 1 und 2, die
-unmittelbar an einem Standort miteinander verbunden sind, gelten als
-eine Anlage, wobei die jeweilige elektrische Leistung
+oder des Kraft-Wärme-Kopplungsgesetzes in ein Netz einspeisen oder im
+Sinne des § 3 Nummer 16 des Erneuerbare-Energien-Gesetzes direkt
+vermarkten, sind hinsichtlich dieser Anlagen von den Bestimmungen des
+§ 10 Abs. 1 ausgenommen. Mehrere Anlagen zur Erzeugung von Strom aus
+solarer Strahlungsenergie gelten unabhängig von den
+Eigentumsverhältnissen und ausschließlich zum Zweck der Ermittlung der
+elektrischen Leistung im Sinne des Satzes 1 Nummer 1 als eine Anlage,
+wenn sie sich auf demselben Grundstück oder sonst in unmittelbarer
+räumlicher Nähe befinden und innerhalb von zwölf aufeinanderfolgenden
+Kalendermonaten in Betrieb genommen worden sind. Satz 1 gilt nicht,
+wenn der Betreiber ein vertikal integriertes Unternehmen ist oder im
+Sinne des § 3 Nr. 38 mit einem solchen verbunden ist. Bilanzierungs-,
+Prüfungs- und Veröffentlichungspflichten aus sonstigen Vorschriften
+bleiben unberührt. Mehrere Anlagen im Sinne des Satzes 1 Nr. 1 und 2,
+die unmittelbar an einem Standort miteinander verbunden sind, gelten
+als eine Anlage, wobei die jeweilige elektrische Leistung
 zusammenzurechnen ist.
 
 
@@ -8253,39 +15136,15 @@ Verwaltungsvorschriften über die Durchführung der Verfahren nach den
 
 ### § 118 Übergangsregelungen
 
-(1) Die Bundesregierung soll unverzüglich nach Vorlage des Berichts
-nach § 112a Abs. 1 zur Einführung der Anreizregulierung den Entwurf
-einer Rechtsverordnung nach § 21a Abs. 6 vorlegen.
+(1) (weggefallen)
 
-(2) § 6 Abs. 2 ist mit Wirkung vom 26. Juni 2003 anzuwenden.
+(2) (weggefallen)
 
-(3) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
-oder Plangenehmigungsverfahren werden nach den Vorschriften dieses
-Gesetzes in der ab dem 17. Dezember 2006 geltenden Fassung zu Ende
-geführt. § 43c gilt auch für Planfeststellungsbeschlüsse und
-Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
-soweit der Plan noch nicht außer Kraft getreten ist.
+(3) (weggefallen)
 
-(4) Vor dem 26. August 2009 beantragte Planfeststellungsverfahren und
-Plangenehmigungsverfahren jeweils für Hochspannungsleitungen mit einer
-Nennspannung von 220 Kilovolt oder mehr werden nach den bis dahin
-geltenden Vorschriften zu Ende geführt. Sie werden nur dann als
-Planfeststellungsverfahren oder Plangenehmigungsverfahren in der ab
-dem 26. August 2009 geltenden Fassung dieses Gesetzes fortgeführt,
-wenn der Träger des Vorhabens dies beantragt. Vor dem 26. August 2009
-beantragte Planfeststellungsverfahren und Plangenehmigungsverfahren
-jeweils für Hochspannungsleitungen mit einer Nennspannung von unter
-220 Kilovolt werden nach den Vorschriften dieses Gesetzes in der ab
-26\. August 2009 geltenden Fassung zu Ende geführt.
+(4) (weggefallen)
 
-(5) Vor dem 26. August 2009 beantragte Einzelgenehmigungen für
-Vorhaben, die ab dem 26. August 2009 der Planfeststellung oder
-Plangenehmigung nach § 43 Satz 1 Nr. 3 oder Satz 3 unterliegen, werden
-nach den bis dahin geltenden Vorschriften zu Ende geführt. Die
-Durchführung eines Planfeststellungsverfahrens oder
-Plangenehmigungsverfahrens nach § 43 Satz 1 Nr. 3 oder Satz 3 in der
-ab dem 26. August 2009 geltenden Fassung dieses Gesetzes erfolgt nur
-dann, wenn der Träger des Vorhabens dies beantragt.
+(5) (weggefallen)
 
 (6) Nach dem 31. Dezember 2008 neu errichtete Anlagen zur Speicherung
 elektrischer Energie, die ab 4. August 2011, innerhalb von 15 Jahren
@@ -8293,20 +15152,20 @@ in Betrieb genommen werden, sind für einen Zeitraum von 20 Jahren ab
 Inbetriebnahme hinsichtlich des Bezugs der zu speichernden
 elektrischen Energie von den Entgelten für den Netzzugang
 freigestellt. Pumpspeicherkraftwerke, deren elektrische Pump- oder
-Turbinenleistung nachweislich um mindestens 15 Prozent und deren
+Turbinenleistung nachweislich um mindestens 7,5 Prozent oder deren
 speicherbare Energiemenge nachweislich um mindestens 5 Prozent nach
 dem 4. August 2011 erhöht wurden, sind für einen Zeitraum von zehn
 Jahren ab Inbetriebnahme hinsichtlich des Bezugs der zu speichernden
 elektrischen Energie von den Entgelten für den Netzzugang
-freigestellt. Die Freistellung nach Satz 1 wird nur für elektrische
-Energie gewährt, die tatsächlich elektrisch, chemisch, mechanisch oder
-physikalisch gespeichert worden ist, aus dem Netz der allgemeinen
-Versorgung entnommen wurde und zeitlich verzögert wieder in dasselbe
-Netz der allgemeinen Versorgung eingespeist wird. Die Freistellung
-nach Satz 2 setzt voraus, dass auf Grund vorliegender oder
-prognostizierter Verbrauchsdaten oder auf Grund technischer oder
-vertraglicher Gegebenheiten offensichtlich ist, dass der
-Höchstlastbeitrag der Anlage vorhersehbar erheblich von der
+freigestellt. Die Freistellung nach Satz 1 wird nur gewährt, wenn die
+elektrische Energie zur Speicherung in einem elektrischen, chemischen,
+mechanischen oder physikalischen Stromspeicher aus einem Transport-
+oder Verteilernetz entnommen und die zur Ausspeisung zurückgewonnene
+elektrische Energie zeitlich verzögert wieder in dasselbe Netz
+eingespeist wird. Die Freistellung nach Satz 2 setzt voraus, dass auf
+Grund vorliegender oder prognostizierter Verbrauchsdaten oder auf
+Grund technischer oder vertraglicher Gegebenheiten offensichtlich ist,
+dass der Höchstlastbeitrag der Anlage vorhersehbar erheblich von der
 zeitgleichen Jahreshöchstlast aller Entnahmen aus dieser Netz- oder
 Umspannebene abweicht. Sie erfolgt durch Genehmigung in entsprechender
 Anwendung der verfahrensrechtlichen Vorgaben nach § 19 Absatz 2 Satz 3
@@ -8314,81 +15173,562 @@ bis 5 und 8 bis 10 der Stromnetzentgeltverordnung. Als Inbetriebnahme
 gilt der erstmalige Bezug von elektrischer Energie für den
 Probebetrieb, bei bestehenden Pumpspeicherkraftwerken der erstmalige
 Bezug nach Abschluss der Maßnahme zur Erhöhung der elektrischen Pump-
-oder Turbinenleistung und der speicherbaren Energiemenge. Satz 2 und 3
-gelten nicht für Anlagen, in denen durch Wasserelektrolyse Wasserstoff
-erzeugt oder in denen Gas oder Biogas durch wasserelektrolytisch
-erzeugten Wasserstoff und anschließende Methanisierung hergestellt
-worden ist. Diese Anlagen sind zudem von den Einspeiseentgelten in das
-Gasnetz, an das sie angeschlossen sind, befreit.
+oder Turbinenleistung und der speicherbaren Energiemenge. Die Sätze 2
+und 3 sind nicht für Anlagen anzuwenden, in denen durch
+Wasserelektrolyse Wasserstoff erzeugt oder in denen Gas oder Biogas
+durch wasserelektrolytisch erzeugten Wasserstoff und anschließende
+Methanisierung hergestellt worden ist. Diese Anlagen sind zudem von
+den Einspeiseentgelten in das Gasnetz, an das sie angeschlossen sind,
+befreit. Die Betreiber von Übertragungsnetzen haben ab dem 1. Januar
+2023 nachgelagerten Betreibern von Elektrizitätsverteilernetzen
+entgangene Erlöse zu erstatten, die aus der Freistellung von den
+Entgelten für den Netzzugang von Anlagen nach Satz 7 resultieren,
+soweit sie durch Wasserelektrolyse Wasserstoff erzeugen. Satz 9 ist
+für nach dem 1. Januar 2023 neu errichtete Anlagen nur anzuwenden,
+wenn der zuständige Betreiber von Übertragungsnetzen dem Anschluss der
+Anlage an das Verteilernetz zugestimmt hat. § 19 Absatz 2 Satz 14 und
+15 der Stromnetzentgeltverordnung ist für die Zahlungen nach Satz 9
+entsprechend anzuwenden.
 
-(7) Ausnahmen nach § 28a, die vor dem 4. August 2011 erteilt werden,
-gelten bis zum Ende des genehmigten Ausnahmezeitraums auch für die §§
-8 bis 10e sowie, im Umfang der bestehenden Ausnahmegenehmigung, für
-die §§ 20 bis 28 als erteilt. Satz 1 gilt für erteilte Ausnahmen nach
-Artikel 7 der Verordnung (EG) Nr. 1228/2003 entsprechend, soweit sie
-vor dem 4. August 2011 erteilt wurden.
+(7) (weggefallen)
 
-(8) § 91 ist auf Kostenschulden, die vor dem 4. August 2011 entstanden
-sind, in der bis zum 3. August 2011 geltenden Fassung anzuwenden.
+(8) (weggefallen)
 
-(9) Die Verpflichtung zur Meldung gemäß § 42 Absatz 7 und zur
-Verwendung von Herkunftsnachweisen zur Kennzeichnung von Strom aus
-erneuerbaren Energien gemäß § 42 Absatz 5 gilt ab dem Tag der
-Inbetriebnahme des Herkunftsnachweisregisters gemäß § 55 Absatz 3 des
-Erneuerbare-Energien-Gesetzes. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit macht den Tag der Inbetriebnahme
-nach Satz 1 im Bundesanzeiger bekannt.
+(9) (weggefallen)
 
-(10) Die §§ 20a, 40 Absatz 2 Satz 1 Nummer 6 und 8, § 40 Absatz 3 Satz
-2 sowie § 40 Absatz 4 und 6 finden erst sechs Monate nach
-Inkrafttreten dieses Gesetzes Anwendung.
+(10) (weggefallen)
 
-(11) Vor dem 5. August 2011 beantragte Planfeststellungsverfahren oder
-Plangenehmigungsverfahren für Hochspannungsleitungen mit einer
-Nennspannung von 110 Kilovolt werden nach den bisher geltenden
-Vorschriften zu Ende geführt. Sie werden nur dann als
-Planfeststellungsverfahren oder Plangenehmigungsverfahren in der ab 5.
-August 2011 geltenden Fassung dieses Gesetzes fortgeführt, wenn der
-Träger des Vorhabens dies beantragt.
+(11) (weggefallen)
+
+(12) Auf Windenergieanlagen auf See, die bis zum 29. August 2012 eine
+unbedingte oder eine bedingte Netzanbindungszusage erhalten haben und
+im Falle der bedingten Netzanbindungszusage spätestens zum 1.
+September 2012 die Voraussetzungen für eine unbedingte
+Netzanbindungszusage nachgewiesen haben, ist § 17 Absatz 2a und 2b in
+der bis zum 28. Dezember 2012 geltenden Fassung anzuwenden.
+
+(13) (weggefallen)
+
+(14) (weggefallen)
+
+(15) Für § 6c in der durch das Gesetz zur Änderung des
+Handelsgesetzbuchs vom 4. Oktober 2013 (BGBl. I S. 3746) geänderten
+Fassung gilt Artikel 70 Absatz 3 des Einführungsgesetzes zum
+Handelsgesetzbuch entsprechend.
+
+(16) (weggefallen)
+
+(17) (weggefallen)
+
+(18) (weggefallen)
+
+(19) (weggefallen)
+
+(20) Der Offshore-Netzentwicklungsplan für das Zieljahr 2025 enthält
+alle Maßnahmen, die erforderlich sind, um einen hinreichenden
+Wettbewerb unter den bestehenden Projekten im Rahmen der Ausschreibung
+nach § 26 des Windenergie-auf-See-Gesetzes zu gewährleisten. Der
+Offshore-Netzentwicklungsplan für das Zieljahr 2025 soll für die
+Ostsee die zur Erreichung der in § 27 Absatz 3 und 4 des Windenergie-
+auf-See-Gesetzes festgelegten Menge erforderlichen Maßnahmen mit einer
+geplanten Fertigstellung ab dem Jahr 2021 vorsehen, jedoch eine
+Übertragungskapazität von 750 Megawatt insgesamt nicht überschreiten.
+Der Offshore-Netzentwicklungsplan für das Zieljahr 2025 soll für die
+Nordsee die zur Erreichung der Verteilung nach § 27 Absatz 4 des
+Windenergie-auf-See-Gesetzes erforderlichen Maßnahmen mit einer
+geplanten Fertigstellung ab dem Jahr 2022 vorsehen.
+
+(21) Für Windenergieanlagen auf See, die eine unbedingte
+Netzanbindungszusage nach Absatz 12 oder eine Kapazitätszuweisung nach
+§ 17d Absatz 3 Satz 1 in der am 31. Dezember 2016 geltenden Fassung
+erhalten haben, sind die §§ 17d und 17e in der am 31. Dezember 2016
+geltenden Fassung anzuwenden.
+
+(22) § 13 Absatz 6a ist nach dem 31. Dezember 2023 nicht mehr
+anzuwenden. Zuvor nach § 13 Absatz 6a geschlossene Verträge laufen bis
+zum Ende der vereinbarten Vertragslaufzeit weiter. Nach § 13 Absatz 6a
+in der Fassung bis zum 27. Juli 2021 geschlossene Verträge laufen bis
+zum Ende der vereinbarten Vertragslaufzeit weiter.
+
+(23) § 47 ist auf Verfahren zur Vergabe von Wegenutzungsrechten zur
+leitungsgebundenen Energieversorgung, in denen am 3. Februar 2017 von
+der Gemeinde bereits Auswahlkriterien samt Gewichtung im Sinne des §
+46 Absatz 4 Satz 4 bekannt gegeben wurden, mit der Maßgabe anwendbar,
+dass die in § 47 Absatz 2 Satz 1 bis 3 genannten Fristen mit Zugang
+einer Aufforderung zur Rüge beim jeweiligen Unternehmen beginnen.
+
+(24) § 17f Absatz 5 Satz 2 darf erst nach der beihilferechtlichen
+Genehmigung durch die Europäische Kommission und für die Dauer der
+Genehmigung angewendet werden.
+
+(25) Stromerzeugungsanlagen im Sinne der Verordnung (EU) 2016/631 sind
+als bestehend anzusehen, sofern sie bis zum 31. Dezember 2020 in
+Betrieb genommen wurden und für sie vor dem 27. April 2019
+
+1.  eine Baugenehmigung oder eine Genehmigung nach dem Bundes-
+    Immissionsschutzgesetz erteilt wurde oder
 
 
-### § 118a Übergangsregelung für den Reservebetrieb von Erzeugungsanlagen nach § 7 Absatz 1e des Atomgesetzes
-
-(1) Sofern die Sicherheit oder Zuverlässigkeit des
-Elektrizitätsversorgungssystems in der jeweiligen Regelzone
-insbesondere auf Grund von Netzengpässen oder einer nicht mehr
-vertretbaren Unterschreitung des Spannungsniveaus gefährdet oder
-gestört ist und die Störung nicht durch Maßnahmen nach § 13 Absatz 1
-und 1a beseitigt werden kann, können Betreiber von Übertragungsnetzen
-bis zum 31. März 2013 eine Einspeisung aus der gemäß § 7 Absatz 1e
-Satz 1 des Atomgesetzes in Reservebetrieb befindlichen
-Erzeugungsanlage nach Maßgabe von Satz 2 und Satz 3 verlangen.
-Betreiber von Übertragungsnetzen haben, wenn eine Gefährdung oder
-Störung nach Satz 1 absehbar ist, unverzüglich bei der
-Bundesnetzagentur eine Genehmigung dafür zu beantragen, dass sie die
-Einspeisung nach Satz 1 verlangen können. Die Bundesnetzagentur
-entscheidet rechtzeitig über den Antrag.
-
-(2) Der Reservebetrieb der gemäß § 7 Absatz 1e Satz 1 des Atomgesetzes
-in Reservebetrieb befindlichen Erzeugungsanlage und die nach Absatz 1
-Satz 1 verlangte Einspeisung sind dem Betreiber der Erzeugungsanlage
-in dem auf dessen Antrag bei der Bundesnetzagentur genehmigten Umfang
-durch den Betreiber des Übertragungsnetzes, in dessen Regelzone sich
-die Erzeugungsanlage nach Satz 1 befindet, angemessen zu vergüten.
-
-(3) Die Betreiber von Übertragungsnetzen sind verpflichtet, die nach
-Absatz 2 entstandenen Kosten über eine finanzielle Verrechnung
-untereinander auszugleichen; § 9 Absatz 3 des Kraft-Wärme-
-Kopplungsgesetzes findet entsprechende Anwendung.
-
-(4) Die Entscheidungen der Bundesnetzagentur nach den Absätzen 1 und 2
-können auch nachträglich mit Nebenbestimmungen versehen werden.
+2.  der Anschluss an das Netz begehrt wurde und eine Baugenehmigung oder
+    eine Genehmigung nach dem Bundes-Immissionsschutzgesetz nicht
+    erforderlich ist.
 
 
-### § 118b Übergangsregelungen für Vorschriften zum Messwesen
 
-Messeinrichtungen, die nach § 21b Absatz 3a in der Änderungsfassung
-vom 7. März 2011 (BGBl. I S. 338) des Energiewirtschaftsgesetzes vom
-7\. Juli 2005 (BGBl. I S. 1970) einzubauen sind, können in den dort
-genannten Fällen bis zum 31. Dezember 2012 weiter eingebaut werden.
+Der Betreiber der Anlage kann auf die Einstufung als Bestandsanlage
+verzichten. Der Verzicht ist schriftlich gegenüber dem Netzbetreiber
+zu erklären.
+
+(25a) Auf Maßnahmen nach § 13 Absatz 1, die vor dem 1. Oktober 2021
+durchgeführt worden sind, ist § 13a in der bis zum 30. September 2021
+geltenden Fassung anzuwenden. Für Anlagen nach § 3 Nummer 1 des
+Erneuerbare-Energien-Gesetzes, die nach dem am 31. Dezember 2011
+geltenden Inbetriebnahmebegriff nach dem Erneuerbare-Energien-Gesetz
+vor dem 1. Januar 2012 in Betrieb genommen worden sind, und für KWK-
+Anlagen, die vor dem 1. Januar 2012 in Betrieb genommen worden sind,
+ist § 13a Absatz 2 Satz 3 Nummer 5 mit der Maßgabe anzuwenden, dass
+für die Bestimmung des angemessenen finanziellen Ausgleichs 100
+Prozent der entgangenen Einnahmen anzusetzen sind.
+
+(26) Bis zum 31. Dezember 2023 ist in dem Netzentwicklungsplan nach §
+12b höchstens eine Testfeld-Anbindungsleitung mit einer
+Anschlusskapazität von höchstens 300 Megawatt erforderlich.
+
+(27) Auf Anträge nach § 28a Absatz 3 Satz 1, die vor dem 12. Dezember
+2019 bei der Regulierungsbehörde eingegangen sind, sind die bis zum
+Ablauf des 11. Dezember 2019 geltenden Vorschriften weiter anzuwenden.
+
+(28) Die Verpflichtung nach § 14c Absatz 1 ist für die jeweilige
+Flexibilitätsdienstleistung ausgesetzt, bis die Bundesnetzagentur
+hierfür erstmals Spezifikationen nach § 14c Absatz 2 genehmigt oder
+nach § 14c Absatz 3 festgelegt hat.
+
+(29) Bis zur erstmaligen Erstellung der Netzausbaupläne nach § 14d ab
+dem Jahr 2022 kann die Regulierungsbehörde von den nach § 14d
+verpflichteten Betreibern von Elektrizitätsverteilernetzen
+Netzausbaupläne nach § 14d Absatz 1 und 3 verlangen.
+
+(30) Die Bundesnetzagentur soll eine Festlegung nach § 41d Absatz 3
+erstmalig bis zum 31. Dezember 2022 erlassen.
+
+(31) Die bundesweit einheitliche Festlegung von Methoden zur
+Bestimmung des Qualitätselements nach § 54 Absatz 3 Satz 3 Nummer 4
+ist erstmals zum 1. Januar 2024 durchzuführen.
+
+(32) § 6b Absatz 3 sowie die §§ 28k und 28l in der ab dem 27. Juli
+2021 geltenden Fassung sind erstmals auf Jahresabschlüsse sowie
+Tätigkeitsabschlüsse für das nach dem 31. Dezember 2020 beginnende
+Geschäftsjahr anzuwenden.
+
+(33) Für besondere netztechnische Betriebsmittel, für die bis zum 30.
+November 2020 ein Vergabeverfahren begonnen wurde, ist § 11 Absatz 3
+in der bis zum 27. Juli 2021 geltenden Fassung anzuwenden. Satz 1 ist
+auch anzuwenden, wenn ein bereits vor dem 30. November 2020 begonnenes
+Vergabeverfahren aufgrund rechtskräftiger Entscheidung nach dem 30.
+November 2020 neu durchgeführt werden muss.
+
+(34) Ladepunkte, die von Betreibern von Elektrizitätsverteilernetzen
+bereits vor dem 27. Juli 2021 entwickelt, verwaltet oder betrieben
+worden sind, gelten bis zum 31. Dezember 2023 als aufgrund eines
+regionalen Marktversagens im Sinne von § 7c Absatz 2 Satz 1 genehmigt.
+Betreiber von Elektrizitätsverteilernetzen haben ihre Tätigkeiten in
+Bezug auf diese Ladepunkte der Bundesnetzagentur in Textform bis zum
+31\. Dezember 2023 anzuzeigen und bis zum 31. Dezember 2023
+einzustellen, wenn nicht die Bundesnetzagentur zuvor eine Genehmigung
+nach § 7c Absatz 2 erteilt hat. Der Zugang zu diesen Ladepunkten ist
+Dritten zu angemessenen und diskriminierungsfreien Bedingungen zu
+gewähren.
+
+
+### § 119 Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“
+
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates für Teilnehmer an dem von der
+Bundesregierung geförderten Forschungs- und Entwicklungsprogramm
+„Schaufenster intelligente Energie – Digitale Agenda für die
+Energiewende“ Regelungen zu treffen, die von den in Absatz 2 Nummer 1
+bis 3 genannten Vorschriften abweichen oder Zahlungen im Rahmen dieser
+Vorschriften erstatten. Die Regelungen dürfen in folgenden Fällen
+getroffen werden:
+
+1.  im Fall von Maßnahmen zur Gewährleistung der Sicherheit oder
+    Zuverlässigkeit des Elektrizitätsversorgungssystems nach § 13 Absatz 1
+    bis 2 und § 14 Absatz 1,
+
+
+2.  im Fall von Maßnahmen, die netzbezogene oder marktbezogene Maßnahmen
+    des Netzbetreibers nach § 13 Absatz 1 bis 2 und § 14 Absatz 1
+    vermeiden, oder
+
+
+3.  in Bezug auf Zeiträume, in denen der Wert der Stundenkontrakte für die
+    Preiszone Deutschland am Spotmarkt der Strombörse im Sinn des § 3
+    Nummer 43a des Erneuerbare-Energien-Gesetzes in der Auktion des
+    Vortages oder des laufenden Tages null oder negativ ist.
+
+
+
+
+(1a) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates in den in Absatz 1 genannten Fällen und
+unter den in den Absätzen 3 bis 5 genannten Voraussetzungen zu regeln,
+dass
+
+1.  bei Netzengpässen im Rahmen von § 13 Absatz 1 die Einspeiseleistung
+    nicht durch die Reduzierung der Erzeugungsleistung der Anlage, sondern
+    durch die Nutzung von Strom in einer zuschaltbaren Last reduziert
+    werden kann, sofern die eingesetzte Last den Strombezug nicht nur
+    zeitlich verschiebt und die entsprechende entlastende physikalische
+    Wirkung für das Stromnetz gewahrt ist, oder
+
+
+2.  von der Berechnung der Entschädigung nach § 13a Absatz 2 Satz 3 Nummer
+    5 abgewichen werden kann.
+
+
+
+
+(2) In der Rechtsverordnung können von den in den Nummern 1 bis 3
+genannten Vorschriften abweichende Regelungen oder Regelungen zur
+Erstattung von Zahlungen im Rahmen dieser Verordnung getroffen werden
+
+1.  zur Erstattung von Netznutzungsentgelten oder einer abweichenden
+    Ermittlung der Netznutzungsentgelte durch den Netzbetreiber bei einem
+    Letztverbraucher, soweit es um die Anwendung von § 17 Absatz 2 sowie
+    von § 19 Absatz 2 Satz 1 und 2 der Stromnetzentgeltverordnung geht,
+
+
+2.  für Anlagen zur Stromspeicherung oder zur Umwandlung elektrischer
+    Energie in einen anderen Energieträger eine Befreiung von der Pflicht
+    zur Zahlung oder eine Erstattung
+
+    a)  der Netzentgelte nach § 17 Absatz 1 und § 19 Absatz 2 Satz 15 und
+        Absatz 4 der Stromnetzentgeltverordnung,
+
+
+    b)  eines Aufschlags auf Netzentgelte nach § 17f Absatz 5 Satz 1 und
+
+
+    c)  der Umlage nach § 18 Absatz 1 Satz 2 der Verordnung zu abschaltbaren
+        Lasten
+
+
+
+    vorzusehen,
+
+
+3.  zur Beschaffung von ab- und zuschaltbaren Lasten auch ohne Einrichtung
+    einer gemeinsamen Internetplattform aller Verteilernetzbetreiber nach
+    § 14 Absatz 1 Satz 1 in Verbindung mit § 13 Absatz 6.
+
+
+
+
+(3) Regelungen nach Absatz 2 dürfen nur getroffen werden, wenn
+
+1.  sie zur Sammlung von Erfahrungen und Lerneffekten im Sinn der Ziele
+    des Förderprogramms nach Absatz 4 beitragen,
+
+
+2.  sichergestellt wird, dass bei Anwendung dieser abweichenden Regelungen
+
+    a)  resultierende finanzielle Veränderungen auf den Ausgleich von
+        wirtschaftlichen Nachteilen der Teilnehmer nach Absatz 1 beschränkt
+        werden, die bei der Anwendung des Rechts ohne diese abweichende
+        Regelung entstanden wären,
+
+
+    b)  beim Ausgleich von wirtschaftlichen Vor- und Nachteilen gegebenenfalls
+        entstandene wirtschaftliche Vorteile und daraus folgende Gewinne an
+        den Netzbetreiber zur Minderung seines Netzentgelts abgeführt werden,
+        an dessen Netz die jeweilige Anlage angeschlossen ist, und
+
+
+
+
+
+3.  diese Regelungen auf die Teilnehmer an dem Förderprogramm beschränkt
+    sind und spätestens am 30. Juni 2022 auslaufen.
+
+
+
+
+(4) Die Ziele des Förderprogramms im Sinn des Absatzes 3 Nummer 1 sind
+
+1.  ein effizienter und sicherer Netzbetrieb bei hohen Anteilen
+    erneuerbarer Energien,
+
+
+2.  die Hebung von Effizienz- und Flexibilitätspotenzialen markt- und
+    netzseitig,
+
+
+3.  ein effizientes und sicheres Zusammenspiel aller Akteure im
+    intelligenten Energienetz,
+
+
+4.  die effizientere Nutzung der vorhandenen Netzstruktur sowie
+
+
+5.  die Verringerung von Netzausbaubedarf auf der Verteilnetzebene.
+
+
+
+
+(5) In der Rechtsverordnung darf die Bundesregierung die Anzeige,
+Überwachung und Kontrolle der Befreiungen oder Erstattungen aufgrund
+von abweichenden Regelungen im Rahmen des Forschungs- und
+Entwicklungsprogramms „Schaufenster intelligente Energie – Digitale
+Agenda für die Energiewende“ sowie die mit Absatz 3 Nummer 2
+verbundenen Aufgaben der Bundesnetzagentur oder Netzbetreibern
+übertragen.
+
+
+### § 120 Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung
+
+(1) Bei Einspeisungen von Elektrizität aus dezentralen
+Erzeugungsanlagen darf in einer Rechtsverordnung nach § 24 Satz 5
+keine Erstattung eingesparter Entgelte für den Netzzugang vorgesehen
+werden
+
+1.  für Erzeugungsanlagen, die ab dem 1. Januar 2023 in Betrieb genommen
+    worden sind,
+
+
+2.  für Anlagen mit volatiler Erzeugung, die ab dem 1. Januar 2018 in
+    Betrieb genommen worden sind.
+
+
+
+
+(2) Wird eine Erzeugungsanlage nach dem für sie maßgeblichen in Absatz
+1 genannten Zeitpunkt an eine Netz- oder Umspannebene angeschlossen,
+die ihrer bisherigen Anschlussebene nachgelagert ist, erhält sie keine
+Entgelte für dezentrale Einspeisung mehr. Eine Erzeugungsanlage, die
+am 31. Dezember 2016 allein an die Höchstspannungsebene angeschlossen
+war, erhält ab dem 22. Juli 2017 auch dann keine Entgelte für
+dezentrale Einspeisung, wenn sie nach dem 31. Dezember 2016 an eine
+nachgelagerte Netz- oder Umspannebene angeschlossen worden ist oder
+wird.
+
+(3) Für Anlagen mit volatiler Erzeugung dürfen ab dem 1. Januar 2020
+keine Entgelte für dezentrale Erzeugung mehr gezahlt werden. Die
+Rechtsverordnung nach § 24 kann vorsehen, dass die Höhe der Entgelte
+für dezentrale Einspeisungen aus solchen Anlagen bis dahin stufenweise
+abgesenkt wird und dies näher ausgestalten. Die Absenkung kann,
+ausgehend von dem sich unter Beachtung der Absätze 4 und 5 ergebenden
+Wert, in prozentualen Schritten oder anteilig erfolgen.
+
+(4) Bei der Ermittlung der Entgelte für dezentrale Einspeisungen, die
+für den Zeitraum ab dem 1. Januar 2018 gezahlt werden, sind als
+Obergrenze diejenigen Netzentgelte der vorgelagerten Netz- oder
+Umspannebene zugrunde zu legen, die für diese Netz- oder Umspannebene
+am 31. Dezember 2016 anzuwenden waren. Satz 1 ist auch für
+Erzeugungsanlagen anzuwenden, die nach dem 31. Dezember 2016 in
+Betrieb genommen worden sind oder werden.
+
+(5) Bei der Ermittlung der Obergrenzen nach Absatz 4 sind ab dem 1.
+Januar 2018 von den Erlösobergrenzen der jeweiligen
+Übertragungsnetzbetreiber, so wie sie den jeweiligen Netzentgelten für
+das Kalenderjahr 2016 zugrunde lagen, die Kostenbestandteile nach §
+17d Absatz 7 dieses Gesetzes und § 2 Absatz 5 des
+Energieleitungsausbaugesetzes in Abzug zu bringen, die in die
+Netzentgelte eingeflossen sind. Für die Zwecke der
+Berechnungsgrundlage zur Ermittlung der Entgelte für dezentrale
+Einspeisungen sind die Netzentgelte für das Kalenderjahr 2016 auf
+dieser Grundlage neu zu berechnen. Die Übertragungsnetzbetreiber sind
+verpflichtet, diese fiktiven Netzentgelte gemeinsam mit der
+Veröffentlichung ihrer Netzentgelte nach § 20 Absatz 1 Satz 1 und 2
+auf ihrer Internetseite zu veröffentlichen und als
+Berechnungsgrundlage für die Ermittlung der Entgelte für dezentrale
+Einspeisung zu kennzeichnen.
+
+(6) Für die Höhe der Obergrenze, die bei der Ermittlung der Entgelte
+für dezentrale Einspeisung nach Absatz 4 zugrunde zu legen ist, sind
+die Netzentgelte des Netzbetreibers maßgebend, an dessen Netz der
+Anlagenbetreiber am 31. Dezember 2016 angeschlossen war.
+
+(7) Die für den jeweiligen Verteilernetzbetreiber nach Absatz 4
+geltenden Obergrenzen sind je Netz- und Umspannebene den nach Absatz 5
+ermittelten Obergrenzen der Übertragungsnetzbetreiber entsprechend
+anzupassen und unter Berücksichtigung dieser Absenkungen ebenfalls neu
+zu ermitteln. Nachgelagerte Verteilernetzbetreiber berücksichtigen
+dabei ebenfalls die Obergrenzen nach Satz 1 eines vorgelagerten
+Verteilernetzbetreibers. Die Netzbetreiber sind verpflichtet, ihre
+jeweiligen nach Satz 1 ermittelten Netzentgelte je Netz- und
+Umspannebene gemeinsam mit ihren Netzentgelten nach § 20 Absatz 1 Satz
+1 und 2 auf ihrer Internetseite zu veröffentlichen und als
+Berechnungsgrundlage für die Ermittlung der Entgelte für dezentrale
+Einspeisungen zu kennzeichnen und für die Kalkulation der vermiedenen
+gewälzten Kosten heranzuziehen.
+
+(8) In einer Rechtsverordnung nach § 24 Satz 5 kann die Ermittlung der
+Entgelte für dezentrale Einspeisung nach den Absätzen 1 bis 7 und 9
+näher geregelt werden. Insbesondere können in der Rechtsverordnung die
+Ergebnisse der fiktiven Ermittlung nach Absatz 5 für
+Übertragungsnetzbetreiber festgelegt werden. Dabei können kaufmännisch
+gerundete Prozentangaben festgelegt werden.
+
+
+### Anlage (zu § 13g) Berechnung der Vergütung
+
+(Fundstelle: BGBl. I 2016, 1809 - 1810)
+
+
+1.  Die Entschädigung der Betreiber von stillzulegenden Anlagen nach § 13g
+    wird nach folgender Formel festgesetzt:
+
+    ![bgbl1_2016_j1786-1_0010.jpg](bgbl1_2016_j1786-1_0010.jpg)
+
+2.  Ergibt sich bei der Berechnung der Summe aus H
+    it                    + FSB
+    it                    − FHIST
+    i                    ein Wert kleiner null, wird der Wert der Summe
+    mit null festgesetzt.
+
+
+3.  Im Sinne dieser Anlage ist oder sind:
+
+        V
+    it  die Vergütung, die ein Betreiber für eine stillzulegende Anlage i in
+        einem Jahr t der Sicherheitsbereitschaft erhält, in Euro,
+
+
+        P
+    t   der rechnerisch ermittelte jahresdurchschnittliche Preis aller
+        verfügbaren Handelstage im Zeitraum vom 1. Oktober 2014 bis zum 30.
+        September 2015 für die beiden für das jeweilige Jahr der
+        Sicherheitsbereitschaft t relevanten Phelix-Base-Futures am
+        Terminmarkt der Energiebörse European Energy Exchange AG in Leipzig
+        für die jeweilige Preiszone in Euro je Megawattstunde; der Preis für
+        die Lieferung im ersten für das jeweilige Sicherheitsbereitschaftsjahr
+        relevanten Kalenderjahr geht dabei zu einem Viertel und der Preis für
+        die Lieferung im darauffolgenden Kalenderjahr zu drei Vierteln in die
+        Berechnung ein; soweit an der Energiebörse noch kein Preis des Futures
+        für ein relevantes Lieferjahr ermittelt wurde, wird der Preis für das
+        letzte verfügbare relevante Lieferjahr in Ansatz gebracht,
+
+
+        RD
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        Erlöse für Anpassungen der Einspeisung nach § 13a als jährlicher
+        Durchschnitt der Jahre 2012 bis 2014 in Euro je Megawattstunde,
+
+
+        RE
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        Regelenergieerlöse als jährlicher Durchschnitt der Jahre 2012 bis 2014
+        in Euro je Megawattstunde,
+
+
+        O
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        Optimierungsmehrerlöse in den Jahren 2012 bis 2014 gegenüber dem
+        jahresdurchschnittlichen Spotmarktpreis als jährlicher Durchschnitt
+        der Jahre 2012 bis 2014 in Euro je Megawattstunde,
+
+
+        W
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        Wärmelieferungserlöse als jährlicher Durchschnitt der Jahre 2012 bis
+        2014 in Euro je Megawattstunde,
+
+
+        RHB
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        kurzfristig variablen Betriebskosten für Brennstoffe, Logistik sowie
+        sonstige Roh-, Hilfs- und Betriebsstoffe zur Erzeugung einer
+        Megawattstunde Strom als jährlicher Durchschnitt der Jahre 2012 bis
+        2014 in Euro je Megawattstunde; bei konzernintern bezogenen
+        Lieferungen und Leistungen bleiben etwaige Margen außer Betracht
+        (Zwischenergebniseliminierung); wenn Kraftwerksbetrieb und
+        Tagebaubetrieb bei verschiedenen Gesellschaften liegen, sind für
+        Brennstoffe und Logistik die variablen Förder- und Logistikkosten der
+        Tagebaugesellschaften zu berücksichtigen; im Falle eines
+        Eigentümerwechsels in den Jahren 2012 oder 2013 kann der Betreiber auf
+        die Daten aus dem Jahr 2014 abstellen, wobei konzerninterne
+        Eigentümerwechsel nicht berücksichtigt werden; bei den variablen
+        Logistikkosten kann ausnahmsweise auf die Belieferung mit Braunkohle
+        aus dem nächstgelegenen Tagebau abgestellt werden, sofern die
+        Belieferung in dem maßgeblichen Zeitraum zu mehr als 60 Prozent aus
+        diesem Tagebau erfolgte; bei den variablen Brennstoffkosten kann bei
+        einer Mischbelieferung aus verschiedenen Tagebauen ein Tagebau
+        unberücksichtigt bleiben, wenn dieser Tagebau im maßgeblichen Zeitraum
+        zu mehr als 90 Prozent ausgekohlt war,
+
+
+        C
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        Kohlendioxidemissionen als jährlicher Durchschnitt der Jahre 2012 bis
+        2014 in Tonnen Kohlendioxid; im Falle eines Eigentümerwechsels in den
+        Jahren 2012 oder 2013 kann der Betreiber auf die Daten aus dem Jahr
+        2014 abstellen, wobei konzerninterne Eigentümerwechsel nicht
+        berücksichtigt werden,
+
+
+        E
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesene
+        an das Netz der allgemeinen Versorgung und in Eigenversorgungsnetze
+        abgegebene Strommenge der stillzulegenden Anlage (Netto-
+        Stromerzeugung) als jährlicher Durchschnitt der Jahre 2012 bis 2014 in
+        Megawattstunden; im Falle eines Eigentümerwechsels in den Jahren 2012
+        oder 2013 kann der Betreiber auf die Daten aus dem Jahr 2014
+        abstellen, wobei konzerninterne Eigentümerwechsel nicht berücksichtigt
+        werden,
+
+
+        EUA
+    t   der rechnerisch ermittelte jahresdurchschnittliche Preis aller
+        verfügbaren Handelstage im Zeitraum vom 1. Oktober 2014 bis zum 30.
+        September 2015 für die beiden für das jeweilige Jahr der
+        Sicherheitsbereitschaft t relevanten Jahresfutures für
+        Emissionsberechtigungen (EUA) am Terminmarkt der Energiebörse European
+        Energy Exchange AG in Leipzig für die jeweilige Preiszone in Euro je
+        Tonne Kohlendioxid; der Preis für die Lieferung im ersten für das
+        jeweilige Sicherheitsbereitschaftsjahr relevanten Kalenderjahr geht
+        dabei zu einem Viertel und der Preis für die Lieferung im
+        darauffolgenden Kalenderjahr zu drei Vierteln in die Berechnung ein;
+        soweit an der Energiebörse noch kein Preis des Jahresfutures für ein
+        relevantes Lieferjahr ermittelt wurde, wird der Preis für das letzte
+        verfügbare relevante Lieferjahr in Ansatz gebracht,
+
+
+        H
+    it  die für eine stillzulegende Anlage i in einem Jahr t der
+        Sicherheitsbereitschaft von dem Betreiber nachgewiesenen Kosten zur
+        Herstellung der Sicherheitsbereitschaft mit Blick auf die Stilllegung
+        in Euro; in der Sicherheitsbereitschaft werden auch nachgewiesene
+        Kosten zur Herstellung der Sicherheitsbereitschaft berücksichtigt, die
+        vor Beginn der Sicherheitsbereitschaft entstanden sind,
+
+
+        FSB
+    it  die für eine stillzulegende Anlage i in einem Jahr t der
+        Sicherheitsbereitschaft von dem Betreiber nachgewiesenen fixen
+        Betriebskosten während der Sicherheitsbereitschaft in Euro; in der
+        Sicherheitsbereitschaft werden auch nachgewiesene fixe Betriebskosten
+        der Sicherheitsbereitschaft berücksichtigt, die vor Beginn der
+        Sicherheitsbereitschaft entstanden sind,
+
+
+        FHIST
+    i   die für eine stillzulegende Anlage i von dem Betreiber nachgewiesenen
+        fixen Betriebskosten ohne Tagebau und Logistik als jährlicher
+        Durchschnitt der Jahre 2012 bis 2014 in Euro; im Falle eines
+        Eigentümerwechsels in den Jahren 2012 oder 2013 kann der Betreiber auf
+        die Daten aus dem Jahr 2014 abstellen, wobei konzerninterne
+        Eigentümerwechsel nicht berücksichtigt werden,
+
+
+    i   die jeweilige stillzulegende Anlage und
+
+
+    t   das jeweilige Jahr der Sicherheitsbereitschaft, das sich jeweils auf
+        den Zeitraum vom 1. Oktober bis 30. September erstreckt.
+
+
+
+
+
+
 

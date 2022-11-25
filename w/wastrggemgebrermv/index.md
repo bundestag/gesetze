@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1971, 1617
 
 Geändert durch
-:   Art. 42 G v. 19.9.2006 I 2146
+:   Art. 24 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 ## § 1
 
-Die Wasser- und Schiffahrtsdirektionen werden ermächtigt,
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 Rechtsverordnungen nach § 46 Nr. 3 WaStrG über die Regelung,
 Beschränkung oder Untersagung des Gemeingebrauchs zu erlassen.
 

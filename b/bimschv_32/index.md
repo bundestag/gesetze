@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2002, 3478
 
 Zuletzt geändert durch
-:   Art. 9 G v. 8.11.2011 I 2178
+:   Art. 110 V v. 19.6.2020 I 1328
+
+Änderung durch
+:   Art. 14 G v. 27.7.2021 I 3146 (Nr. 49) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -197,16 +200,16 @@ Informationen zur Verfügung zu stellen.
 ### § 6 Mitteilungspflichten
 
 (1) Die zuständige Landesbehörde teilt Marktüberwachungsmaßnahmen nach
-§ 26 des Produktsicherheitsgesetzes dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit im Hinblick auf die nach Artikel 9
+§ 8 des Marktüberwachungsgesetzes dem Bundesministerium für Umwelt,
+Naturschutz und nukleare Sicherheit im Hinblick auf die nach Artikel 9
 Abs. 2 der Richtlinie 2000/14/EG erforderliche Unterrichtung der
 anderen Mitgliedstaaten der Europäischen Gemeinschaft und der
 Europäischen Kommission unverzüglich mit.
 
 (2) Die zuständige Landesbehörde nach § 9 Absatz 1 des
 Produktsicherheitsgesetzes teilt dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit im Hinblick auf die nach Artikel 15
-Abs. 3 der Richtlinie 2000/14/EG erforderliche Meldung an die
+Naturschutz und nukleare Sicherheit im Hinblick auf die nach Artikel
+15 Abs. 3 der Richtlinie 2000/14/EG erforderliche Meldung an die
 Mitgliedstaaten der Europäischen Gemeinschaft und an die Europäische
 Kommission mit, welche Stellen sie benannt hat. In der Mitteilung ist
 anzugeben, für welche Geräte und Maschinen sowie
@@ -305,7 +308,7 @@ Die Länder können
 
 ### § 9 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2, ein Gerät
@@ -321,7 +324,7 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-(1a) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe b
+(1a) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b
 des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 5 Satz 1 eine Information oder ein Exemplar
 nicht oder nicht mindestens zehn Jahre aufbewahrt.

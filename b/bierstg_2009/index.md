@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1870, 1908
 
-Geändert durch
-:   Art. 1 G v. 16.6.2011 I 1090
+Zuletzt geändert durch
+:   Art. 13 G v. 2.6.2021 I 1259
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -60,10 +60,35 @@ Alkohol- und Extraktgehalt errechnet; Bruchteile eines Grades
 (Nachkommastellen) bleiben außer Betracht. Die Biersteuer beträgt für
 einen Hektoliter (hl) Bier 0,787 Euro je Grad Plato.
 
-(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz für im
-Brauverfahren hergestelltes Bier aus unabhängigen Brauereien mit einer
-Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1
-000 zu 1 000 hl gleichmäßig
+(1a) Abweichend von Absatz 1 ermäßigt sich der Steuersatz vom 1.
+Januar 2021 bis zum 31. Dezember 2022 für im Brauverfahren
+hergestelltes Bier aus unabhängigen Brauereien mit einer
+Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von
+1 000 zu 1 000 hl gleichmäßig
+
+1.  auf 75 Prozent bei einer Jahreserzeugung von 40 000 hl,
+
+
+2.  auf 70 Prozent bei einer Jahreserzeugung von 20 000 hl,
+
+
+3.  auf 60 Prozent bei einer Jahreserzeugung von 10 000 hl,
+
+
+4.  auf 50 Prozent bei einer Jahreserzeugung von 5 000 hl.
+
+
+
+Die Stufen beginnen bis auf die Stufe zwischen 5 000 hl und 6 000 hl
+aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 hl und
+6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis
+einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 50 Prozent
+unverändert. Absatz 2 Satz 5 bis 8 gilt entsprechend.
+
+(2) Abweichend von Absatz 1 ermäßigt sich der Steuersatz ab dem 1.
+Januar 2023 für im Brauverfahren hergestelltes Bier aus unabhängigen
+Brauereien mit einer Gesamtjahreserzeugung von weniger als 200 000 hl
+Bier in Stufen von 1 000 zu 1 000 hl gleichmäßig
 
 1.  auf 84,0 Prozent bei einer Jahreserzeugung von
     40 000                    hl,
@@ -83,8 +108,8 @@ Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1
 
 
 Die Stufen beginnen mit Ausnahme der Stufe zwischen 5 000 und 6 000 hl
-aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und 6
-000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis
+aufsteigend mit den vollen Tausendern. Die Stufe zwischen 5 000 und
+6 000 hl beginnt mit der 5 000 hl übersteigenden Jahreserzeugung. Bis
 einschließlich 5 000 hl bleibt der ermäßigte Steuersatz von 56 Prozent
 unverändert. Die Steuersätze werden auf vier Nachkommastellen, die
 Steuerbeträge je hl Bier auf zwei Nachkommastellen, genau ermittelt.
@@ -127,7 +152,7 @@ Gesamtjahreserzeugung von 200 000 hl nicht überschreiten, gelten für
 die Anwendung des ermäßigten Steuersatzes als eine Brauerei.
 
 (5) Wird das Bier im Steuergebiet hergestellt, gilt die
-Steuerermäßigung nach den Absätzen 2 bis 4 nur für den Inhaber der
+Steuerermäßigung nach den Absätzen 1a bis 4 nur für den Inhaber der
 herstellenden Brauerei als Steuerschuldner. Wird Bier einer
 ausländischen unabhängigen Brauerei mit einer Gesamtjahreserzeugung
 von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die
@@ -1398,10 +1423,10 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
     zu regeln, sowie
 
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
+    g)  im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat
+        anstelle der qualifizierten elektronischen Signatur ein anderes
+        sicheres Verfahren, das die Authentizität und die Integrität des
+        übermittelten elektronischen Dokuments sicherstellt, und
 
 
     h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
@@ -1444,7 +1469,7 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
     über die Erfassung der steuerbaren Menge zu erlassen,
 
 
-2.  Vorschriften zur Steuerermäßigung nach § 2 Absatz 2 bis 5,
+2.  Vorschriften zur Steuerermäßigung nach § 2 Absatz 1a bis 5,
     insbesondere zum Besteuerungsverfahren zu erlassen und dabei
     vorzusehen, dass ein Wechsel in der Abhängigkeit oder Unabhängigkeit
     von Brauereien (§ 2 Absatz 3) erst zum Beginn des folgenden

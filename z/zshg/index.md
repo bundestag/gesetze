@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3510
 
-Geändert durch
-:   Art. 2 Abs. 12 G v. 19.2.2007 I 122 mWv 1.1.2009
+Zuletzt geändert durch
+:   Art. 7 G v. 10.12.2019 I 2121
 
 
 ## § 1 Anwendungsbereich
@@ -217,7 +217,9 @@ zu machen und unter Hinweis auf den Zeugenschutz Angaben, die
 Rückschlüsse auf die gegenwärtigen Personalien sowie den Wohn- und
 Aufenthaltsort erlauben, zu verweigern. An Stelle des Wohn- und
 Aufenthaltsorts ist die zuständige Zeugenschutzdienststelle zu
-benennen.
+benennen. Eine nach Satz 1 zu schützende Person darf ihr Gesicht
+entgegen § 176 Absatz 2 Satz 1 des Gerichtsverfassungsgesetzes ganz
+oder teilweise verhüllen.
 
 (2) Urkunden und sonstige Unterlagen, die Rückschlüsse auf eine
 Tarnidentität oder den Wohn- oder Aufenthaltsort einer geschützten

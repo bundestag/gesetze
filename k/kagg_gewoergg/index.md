@@ -1,8 +1,6 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften
-  und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer
-  Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung
-  des Gesetzes über Kapitalanlagegesellschaften)
+  und der Gewerbeordnung
 jurabk: KAGG/GewOErgG
 layout: default
 origslug: kagg_gewoergg
@@ -10,7 +8,7 @@ slug: kagg_gewoergg
 
 ---
 
-# Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften) (KAGG/GewOErgG)
+# Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung (KAGG/GewOErgG)
 
 Ausfertigungsdatum
 :   1969-07-28

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2980
 
+Zuletzt geändert durch
+:   Art. 101 V v. 19.6.2020 I 1328
+
 
 ## Eingangsformel
 
@@ -118,18 +121,18 @@ Datenformate zu verwenden, die die vollständige Erfassung der Daten
 gewährleisten und den allgemein anerkannten Regeln der Technik
 entsprechen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit kann Datenformate nach Absatz 1 Satz 2 feststellen
-und im Bundesanzeiger bekannt machen. Die Feststellung von
-Datenformaten, die für zivile Flugplätze verwendet werden sollen,
-erfolgt im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung, die Feststellung von Datenformaten, die für
-militärische Flugplätze verwendet werden sollen, im Einvernehmen mit
-dem Bundesministerium der Verteidigung.
+(2) Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit kann Datenformate nach Absatz 1 Satz 2 feststellen und im
+Bundesanzeiger bekannt machen. Die Feststellung von Datenformaten, die
+für zivile Flugplätze verwendet werden sollen, erfolgt im Einvernehmen
+mit dem Bundesministerium für Verkehr und digitale Infrastruktur, die
+Feststellung von Datenformaten, die für militärische Flugplätze
+verwendet werden sollen, im Einvernehmen mit dem Bundesministerium der
+Verteidigung.
 
 (3) Die zuständige Behörde kann festlegen, dass Dokumente, die
 elektronisch übermittelt werden, mit einer qualifizierten
-elektronischen Signatur nach dem Signaturgesetz zu versehen sind.
+elektronischen Signatur zu versehen sind.
 
 
 ## § 4 Berechnungsverfahren für die Festsetzung von Lärmschutzbereichen

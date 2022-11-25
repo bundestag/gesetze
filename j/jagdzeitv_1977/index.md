@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 531
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.4.2002 I 1487
+:   Art. 2 V v. 7.3.2018 I 226
 
 
 ## Eingangsformel
@@ -124,10 +124,9 @@ Zustimmung des Bundesrates verordnet:
 
 *    *   6.
 
-    *   Schwarzwild
+    *   (weggefallen)
 
-    *   vom 16. Juni bis 31. Januar
-
+    *
 
 *    *   7.
 
@@ -222,7 +221,7 @@ Zustimmung des Bundesrates verordnet:
 
 *    *   20.
 
-    *   Bläß-, Saat-, Ringel-und Kanadagänse
+    *   Bläß-, Saat-, Ringel- und Kanadagänse
 
     *   vom 1. November bis 15. Januar
 
@@ -265,9 +264,8 @@ Zustimmung des Bundesrates verordnet:
 
 
 (2) Vorbehaltlich der Bestimmungen des § 22 Abs. 4 des
-Bundesjagdgesetzes darf die Jagd das ganze Jahr ausgeübt werden beim
-Schwarzwild auf Frischlinge und Überläufer, auf Wildkaninchen und
-Füchse.
+Bundesjagdgesetzes darf die Jagd das ganze Jahr ausgeübt werden auf
+Schwarzwild, Wildkaninchen und Füchse.
 
 (3) Die in Absatz 1 festgesetzten Jagdzeiten umfassen nur solche
 Zeiträume einschließlich Tageszeiten, in denen nach den örtlich

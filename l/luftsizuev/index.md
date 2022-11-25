@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 2.4.2008 I 647
 
+Änderung durch
+:   Art. 5 G v. 22.4.2020 I 840 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 
 ## Eingangsformel
@@ -56,10 +59,9 @@ Verordnung.
 
 
 4.  bei Personen im Sinne des § 7 Abs. 1 Nr. 4 des Luftsicherheitsgesetzes
-    mit Aufnahme der Ausbildung, vor der Erteilung der Erlaubnis für
-    Luftfahrer nach § 4 Abs. 1 des Luftverkehrsgesetzes oder vor der
-    Anerkennung ausländischer Erlaubnisse für Luftfahrer, soweit nicht
-    Nummer 1 Anwendung findet.
+    vor der Aufnahme der Ausbildung als Luftfahrer nach § 4 Abs. 1 des
+    Luftverkehrsgesetzes oder vor der Anerkennung ausländischer
+    Erlaubnisse für Luftfahrer, soweit nicht Nummer 1 Anwendung findet.
 
 
 
@@ -116,8 +118,7 @@ Luftsicherheitsgesetzes bleibt davon unberührt.
 7 Abs. 1 des Luftsicherheitsgesetzes genannten Personen bei der nach §
 2 zuständigen Luftsicherheitsbehörde einen Monat vor der geplanten
 Tätigkeit oder der Aufnahme einer Ausbildung im Sinne des § 1 Abs. 2
-Nr. 2 oder 3 oder mit Beginn der Ausbildung als Luftfahrer beantragt
-werden.
+Nr. 2 bis 4 beantragt werden.
 
 (2) Der Antrag ist zu stellen
 
@@ -248,6 +249,15 @@ Mitteilung des letzten Überprüfungsergebnisses gestellt werden; dies
 gilt nicht, wenn der Betroffene nachweist, dass die Gründe für die
 Verneinung der Zuverlässigkeit entfallen sind.
 
+(6) Der für die Ausbildung für Luftfahrer verantwortliche
+Ausbildungsbetrieb teilt der nach § 2 zuständigen
+Luftsicherheitsbehörde die Aufnahme der Ausbildung mit. Der Wechsel
+eines Ausbildungsbetriebs ist durch den neuen Ausbildungsbetrieb der
+Luftsicherheitsbehörde, die die Bescheinigung der
+Zuverlässigkeitsüberprüfung ausgestellt hat, anzuzeigen. Wird das
+Ergebnis der Zuverlässigkeitsüberprüfung zurückgenommen oder
+widerrufen, darf die Ausbildung nicht fortgeführt werden.
+
 
 ## § 4
 
@@ -256,13 +266,17 @@ der Zuverlässigkeit innerhalb eines Monats entscheiden.
 
 (2) Die Luftsicherheitsbehörde darf zum Zwecke der
 Zuverlässigkeitsüberprüfung die Polizeivollzugs- und die
-Verfassungsschutzbehörden der Länder ersuchen, die für die Beurteilung
-der Zuverlässigkeit des Antragstellers nach dem Luftsicherheitsgesetz
-vorhandenen bedeutsamen Informationen zu übermitteln. Das Ersuchen an
-die Polizeivollzugs- und Verfassungsschutzbehörden ist an die nach
+Verfassungsschutzbehörden der Länder, die Bundespolizei sowie das
+Zollkriminalamt ersuchen, die für die Beurteilung der Zuverlässigkeit
+des Antragstellers nach dem Luftsicherheitsgesetz vorhandenen
+bedeutsamen Informationen zu übermitteln. Das Ersuchen an die
+Polizeivollzugs- und Verfassungsschutzbehörden ist an die nach
 Landesrecht zuständige Behörde zu richten. Die Luftsicherheitsbehörde
 darf die Registerbehörde nach dem Bundeszentralregistergesetz um eine
-unbeschränkte Auskunft aus dem Bundeszentralregister ersuchen. Bei
+unbeschränkte Auskunft aus dem Bundeszentralregister und dem
+Erziehungsregister sowie die Registerbehörde nach § 492 der
+Strafprozessordnung um eine Auskunft aus dem Zentralen
+Staatsanwaltschaftlichen Verfahrensregister ersuchen. Bei
 ausländischen Antragstellern darf sie zusätzlich das
 Bundesverwaltungsamt als Registerbehörde nach dem
 Ausländerzentralregistergesetz um Auskunft ersuchen. Soweit dies im
@@ -298,19 +312,16 @@ dem Luftsicherheitsgesetz ersuchen:
 1.  das Bundeskriminalamt,
 
 
-2.  das Zollkriminalamt,
+2.  das Bundesamt für Verfassungsschutz,
 
 
-3.  das Bundesamt für Verfassungsschutz,
+3.  den Bundesnachrichtendienst,
 
 
-4.  den Bundesnachrichtendienst,
+4.  den Militärischen Abschirmdienst und
 
 
-5.  den Militärischen Abschirmdienst und
-
-
-6.  die Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes
+5.  die Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes
     der ehemaligen Deutschen Demokratischen Republik.
 
 
@@ -333,13 +344,13 @@ Unternehmenssitz im Geltungsbereich des Luftsicherheitsgesetzes, so
 ist das Ersuchen an die für den Sitz der Luftsicherheitsbehörde
 zuständige Polizeivollzugs- und Verfassungsschutzbehörde zu richten.
 
-(7) Bestehen auf Grund der übermittelten Informationen der in § 7 Abs.
-3 Nr. 2 und 4 des Luftsicherheitsgesetzes genannten Behörden
-Anhaltspunkte für Zweifel an der Zuverlässigkeit des Betroffenen, darf
-die Luftsicherheitsbehörde zur Behebung dieser Zweifel Auskünfte von
-Strafverfolgungsbehörden einholen. Sie darf vom Betroffenen selbst
-weitere Informationen einholen und die Vorlage geeigneter Nachweise
-verlangen.
+(7) Bestehen auf Grund der übermittelten Informationen der in § 7
+Absatz 3 Satz 1 Nummer 2 bis 4 des Luftsicherheitsgesetzes genannten
+Behörden Anhaltspunkte für Zweifel an der Zuverlässigkeit des
+Betroffenen, darf die Luftsicherheitsbehörde zur Behebung dieser
+Zweifel Auskünfte von Strafverfolgungsbehörden einholen. Sie darf vom
+Betroffenen selbst weitere Informationen einholen und die Vorlage
+geeigneter Nachweise verlangen.
 
 
 ## § 5
@@ -361,10 +372,10 @@ gilt er bis zum Abschluss der Wiederholungsüberprüfung als
 zuverlässig. Werden bei der Wiederholungsüberprüfung für die
 Beurteilung der Zuverlässigkeit bedeutsame Informationen bekannt oder
 entstehen Zweifel an der Identität des Betroffenen, kann bei Personen
-nach § 7 Abs. 1 Nr. 1 bis 3 und 5 des Luftsicherheitsgesetzes der
-Zugang zu nicht allgemein zugänglichen Bereichen oder die Tätigkeit
-unter Berücksichtigung der Umstände und Erkenntnisse des Einzelfalls
-versagt werden.
+nach § 7 Absatz 1 Satz 1 des Luftsicherheitsgesetzes der Zugang zu
+nicht allgemein zugänglichen Bereichen oder die Tätigkeit unter
+Berücksichtigung der Umstände und Erkenntnisse des Einzelfalls versagt
+werden.
 
 
 ## § 6
@@ -376,24 +387,25 @@ Abs. 7 Satz 2 des Luftsicherheitsgesetzes unterrichtet:
     Luftsicherheitsgesetzes der Betroffene, der gegenwärtige Arbeitgeber,
     das Flugplatz- oder Luftfahrtunternehmen sowie die beteiligten
     Polizeivollzugs- und Verfassungsschutzbehörden des Bundes und der
-    Länder,
+    Länder sowie das Zollkriminalamt,
 
 
 2.  bei Personen im Sinne des § 7 Abs. 1 Nr. 2 des Luftsicherheitsgesetzes
     der Betroffene, der gegenwärtige Arbeitgeber sowie die beteiligten
     Polizeivollzugs- und Verfassungsschutzbehörden des Bundes und der
-    Länder,
+    Länder sowie das Zollkriminalamt,
 
 
 3.  bei Personen im Sinne des § 7 Abs. 1 Nr. 4 des Luftsicherheitsgesetzes
     der Betroffene und die beteiligten Polizeivollzugs- und
-    Verfassungsschutzbehörden des Bundes und der Länder oder
+    Verfassungsschutzbehörden des Bundes und der Länder sowie das
+    Zollkriminalamt oder
 
 
 4.  bei Personen nach § 7 Abs. 1 Nr. 5 des Luftsicherheitsgesetzes der
     Betroffene, das Flugplatz- oder Luftfahrtunternehmen sowie die
     beteiligten Polizeivollzugs- und Verfassungsschutzbehörden des Bundes
-    und der Länder.
+    und der Länder sowie das Zollkriminalamt.
 
 
 
@@ -451,30 +463,38 @@ Zuverlässigkeitsüberprüfung gilt im gesamten Bundesgebiet.
 
 ## § 7
 
-(1) Werden den nach § 7 Abs. 3 Satz 1 Nr. 2 und 5 des
-Luftsicherheitsgesetzes beteiligten Behörden oder Stellen oder den
-nach § 7 Abs. 3 Satz 1 Nr. 4 beteiligten Ausländerbehörden
-hinsichtlich der in § 7 Abs. 1 des Luftsicherheitsgesetzes genannten
-Personen im Nachhinein bedeutsame Informationen für die Beurteilung
-der Zuverlässigkeit nach dem Luftsicherheitsgesetz bekannt, sind diese
-verpflichtet, die Luftsicherheitsbehörde hierüber unverzüglich zu
-unterrichten. Werden der Luftsicherheitsbehörde nachträglich für die
-Beurteilung der Zuverlässigkeit bedeutsame Informationen bekannt oder
-entstehen nachträglich Zweifel an der Identität des Betroffenen, so
-darf die Luftsicherheitsbehörde zur Prüfung der Aufhebung der
-Feststellung der Zuverlässigkeit die erforderlichen Auskünfte
-entsprechend § 4 Abs. 2 bis 7 einholen.
+(1) Werden den nach § 7 Absatz 3 Satz 1 Nummer 2 des
+Luftsicherheitsgesetzes beteiligten Behörden, dem jeweiligen
+Flugplatzbetreiber oder dem jeweiligen Luftfahrtunternehmen, für
+dessen oder deren Sicherheitsbereich eine Zugangsberechtigung gemäß §
+10 erteilt wurde oder für den oder für die eine Tätigkeit gemäß § 7
+Absatz 1 Satz 1 Nummer 2 aufgenommen wurde, oder dem gegenwärtigen
+Arbeitgeber oder den nach § 7 Abs. 3 Satz 1 Nr. 4 beteiligten
+Ausländerbehörden hinsichtlich der in § 7 Abs. 1 des
+Luftsicherheitsgesetzes genannten Personen im Nachhinein bedeutsame
+Informationen für die Beurteilung der Zuverlässigkeit nach dem
+Luftsicherheitsgesetz bekannt, sind diese verpflichtet, die
+Luftsicherheitsbehörde hierüber unverzüglich zu unterrichten. Werden
+der Luftsicherheitsbehörde nachträglich für die Beurteilung der
+Zuverlässigkeit bedeutsame Informationen bekannt oder entstehen
+nachträglich Zweifel an der Identität des Betroffenen, so darf die
+Luftsicherheitsbehörde zur Prüfung der Aufhebung der Feststellung der
+Zuverlässigkeit die erforderlichen Auskünfte entsprechend § 4 Abs. 2
+bis 7 einholen.
 
 (2) Für die Dauer der Prüfung nach Absatz 1 Satz 2 kann bei Personen
-nach § 7 Abs. 1 Nr. 1 bis 3 und 5 des Luftsicherheitsgesetzes der
-Zugang zu nicht allgemein zugänglichen Bereichen oder die Tätigkeit
-unter Berücksichtigung der Umstände und Erkenntnisse des Einzelfalls
-versagt werden.
+nach § 7 Absatz 1 Satz 1 des Luftsicherheitsgesetzes der Zugang zu
+nicht allgemein zugänglichen Bereichen oder die Tätigkeit unter
+Berücksichtigung der Umstände und Erkenntnisse des Einzelfalls versagt
+werden.
 
 (3) Wird das Ergebnis der Zuverlässigkeitsüberprüfung zurückgenommen
 oder widerrufen, gelten die Mitteilungspflichten des § 6 Abs. 1 bis 4
 entsprechend. Bei Luftfahrern ist auch die für die Aufhebung der
 Erlaubnis für Luftfahrer zuständige Luftfahrtbehörde zu unterrichten.
+Bei Flugschülern sind der für die Ausbildung für Luftfahrer
+verantwortliche Ausbildungsbetrieb sowie die für die Aufsicht über
+diesen Betrieb zuständige Luftfahrtbehörde zu unterrichten.
 
 
 ## § 8

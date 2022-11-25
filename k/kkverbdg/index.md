@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 524
 
 Zuletzt geändert durch
-:   Art. 79 Abs. 6 Nr. 1 G v. 20.12.1988 I 2477
+:   Art. 437 V v. 31.8.2015 I 1474
 
 
 ## Art 1 u. 2
@@ -174,8 +174,9 @@ Rechts aus der in §§ 4 bis 7 getroffenen Regelung der
 vermögensrechtlichen Verhältnisse ergeben, entscheidet ein
 Schiedsgericht. Das Schiedsgericht besteht aus einem Vorsitzenden und
 zwei Beisitzern, von denen jede Partei einen ernennt. Den Vorsitzenden
-bestimmt der Bundesminister der Justiz. Für das Verfahren finden die
-Vorschriften der Zivilprozeßordnung entsprechend Anwendung.
+bestimmt das Bundesministerium der Justiz und für Verbraucherschutz.
+Für das Verfahren finden die Vorschriften der Zivilprozeßordnung
+entsprechend Anwendung.
 
 
 ## § 9

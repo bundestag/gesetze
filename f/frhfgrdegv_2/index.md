@@ -79,6 +79,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ## Anlage
 
-(Inhalt: nicht darstellbare kartographische Karte des Grenzverlaufs,
 Fundstelle: BGBl. I 1997, 3205)
 
+![bgbl1_1997_j3205_0010.jpg](bgbl1_1997_j3205_0010.jpg)

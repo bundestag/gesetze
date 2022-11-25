@@ -1,7 +1,7 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
-  Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process
-  manager electric/electronics)
+  Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified
+  Process Manager - Electric/Electronics)
 jurabk: PMElekPrV
 layout: default
 origslug: pmelekprv
@@ -9,7 +9,7 @@ slug: pmelekprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process manager electric/electronics) (PMElekPrV)
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager - Electric/Electronics) (PMElekPrV)
 
 Ausfertigungsdatum
 :   2009-08-10
@@ -17,11 +17,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2841
 
+Zuletzt geändert durch
+:   Art. 47 V v. 9.12.2019 I 2153
+
 
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), dessen
+Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen
 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31.
 Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Bildung und Forschung nach Anhörung des
@@ -33,10 +36,10 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Prozessmanager Elektrotechnik/zur Geprüften Prozessmanagerin
-Elektrotechnik (Process manager electric/electronics) nach den §§ 2
-bis 9 durchführen, in denen die auf einen beruflichen Aufstieg
-abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen
-ist.
+Elektrotechnik (Certified Process Manager – Electric/Electronics) nach
+den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen
+Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit
+nachzuweisen ist.
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, Prozesse zu
 initiieren, zu planen, zu steuern und zu bewerten mit dem Ziel
@@ -234,8 +237,8 @@ durchführen zu können.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten
 Fortbildungsabschluss „Geprüfter Prozessmanager
-Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process
-manager electric/electronics)“.
+Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Certified
+Process Manager – Electric/Electronics)“.
 
 
 ## § 2 Zulassungsvoraussetzungen
@@ -264,9 +267,9 @@ nachweist.
 
 (2) Die Berufspraxis nach Absatz 1 muss wesentliche Bezüge zu den
 Aufgaben eines Geprüften Prozessmanagers Elektrotechnik/einer
-Geprüften Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics) im Sinne des § 1 Absatz 2 und 3 haben und eine
-Qualifikation eines der Elektrotechnik-Spezialisten nach der Anlage 1
+Geprüften Prozessmanagerin Elektrotechnik (Certified Process Manager –
+Electric/Electronics) im Sinne des § 1 Absatz 2 und 3 haben und eine
+Qualifikation eines der Elektrotechnik-Spezialisten nach der Anlage
 oder eine fachlich und nach Breite und Tiefe entsprechende
 Qualifikation beinhalten.
 
@@ -438,24 +441,23 @@ durchführen zu können.
 
 
 (3) Zum Nachweis der Qualifikationen ist eine Dokumentation über ein
-Projekt anzufertigen. Der Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin reicht hierzu einen Vorschlag ein. Der
-Prüfungsausschuss führt darüber ein Beratungsgespräch und trifft eine
-Zielvereinbarung über durchzuführende Arbeiten, Art und Umfang der zu
-erstellenden Dokumentation sowie den Abgabetermin. Dabei darf zwischen
-dem Tag des Beratungsgesprächs und dem Abgabetermin der Dokumentation
-längstens ein Zeitraum von einem Jahr liegen.
+Projekt anzufertigen. Die zu prüfende Person reicht hierzu einen
+Vorschlag ein. Der Prüfungsausschuss führt darüber ein
+Beratungsgespräch und trifft eine Zielvereinbarung über
+durchzuführende Arbeiten, Art und Umfang der zu erstellenden
+Dokumentation sowie den Abgabetermin. Dabei darf zwischen dem Tag des
+Beratungsgesprächs und dem Abgabetermin der Dokumentation längstens
+ein Zeitraum von einem Jahr liegen.
 
 (4) Entspricht die Dokumentation den Anforderungen nach den Absätzen 1
 und 2, sind die Inhalte vor dem Prüfungsausschuss zu präsentieren. Die
-Form der Präsentation und der Einsatz technischer Mittel stehen dem
-Prüfungsteilnehmer oder der Prüfungsteilnehmerin frei. Die verwendeten
-Unterlagen sind dem Prüfungsausschuss zu überlassen. Nach der
-Präsentation schließt sich ein Fachgespräch an, das auf der Grundlage
-der Dokumentation und der Präsentation geführt wird. Die Präsentation
-soll mindestens 20 Minuten und höchstens 30 Minuten, das Fachgespräch
-und die Präsentation zusammen mindestens 60 Minuten, höchstens 90
-Minuten dauern.
+Form der Präsentation und der Einsatz technischer Mittel stehen der zu
+prüfenden Person frei. Die verwendeten Unterlagen sind dem
+Prüfungsausschuss zu überlassen. Nach der Präsentation schließt sich
+ein Fachgespräch an, das auf der Grundlage der Dokumentation und der
+Präsentation geführt wird. Die Präsentation soll mindestens 20 Minuten
+und höchstens 30 Minuten, das Fachgespräch und die Präsentation
+zusammen mindestens 60 Minuten, höchstens 90 Minuten dauern.
 
 (5) Auf Grund der Dokumentation, der Präsentation und des
 Fachgesprächs sind die Befähigungen nach Absatz 2 zu bewerten.
@@ -607,55 +609,109 @@ einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
 
-## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
+## § 7 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Der Prüfungsteil „Prozess- und Projektmanagement“, die zwei
+Wird die zu prüfende Person nach § 56 Absatz 2 des
+Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile
+befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8
+und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen
+sich die Anteile nach § 8 Absatz 3 oder § 9 Absatz 3 Satz 2
+entsprechend ihrem Verhältnis zueinander. Allein diese
+Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses
+zugrunde zu legen.
+
+
+## § 8 Bewerten der Prüfungsleistungen
+
+(1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu
+bewerten.
+
+(2) Der Prüfungsteil „Prozess- und Projektmanagement“, die zwei
 Situationsaufgaben im Prüfungsteil „Handlungsfeldübergreifende
-Fachaufgaben“ sowie die Situationsaufgabe im Prüfungsteil
-„Personalmanagement“ sind gesondert zu bewerten.
+Fachaufgaben“ sowie die Situationsaufgaben im Prüfungsteil
+„Personalmanagement“ sind einzeln zu bewerten.
 
-(2) Aus den Situationsaufgaben im Prüfungsteil
-„Handlungsfeldübergreifende Fachaufgaben“ ist eine Gesamtnote aus dem
-arithmetischen Mittel der Punktebewertungen zu bilden.
-
-(3) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen nach
-Absatz 1 mindestens ausreichende Leistungen erbracht wurden.
-
-(4) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 2
-und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
-Freistellung nach § 8 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(3) Aus den Bewertungen der beiden Situationsaufgaben im Prüfungsteil
+„Handlungsfeldübergreifende Fachaufgaben“ ist das arithmetische Mittel
+zu bilden.
 
 
-## § 8 Anrechnung anderer Prüfungsleistungen
+## § 9 Bestehen der Prüfung, Gesamtnote
 
-Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
-Prüfungsteilnehmerin von der Prüfung in einzelnen Prüfungsleistungen
-freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor
-einer zuständigen Stelle, einer öffentlichen oder staatlich
-anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
-Anforderungen dieser Prüfungsleistung entspricht. Eine vollständige
-Freistellung ist nicht zulässig.
+(1) Die Prüfung ist bestanden, wenn ohne Rundung in allen
+Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte
+erreicht worden sind.
+
+(2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil
+„Handlungsfeldübergreifende Fachaufgaben“ kaufmännisch auf eine ganze
+Zahl zu runden.
+
+(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die
+jeweilige Note als Dezimalzahl zuzuordnen.
+Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das
+arithmetische Mittel zu berechnen aus:
+
+1.  der Bewertung der Prüfungsleistungen im Prüfungsteil „Prozess- und
+    Projektmanagement“,
 
 
-## § 9 Wiederholung der Prüfung
+2.  dem nach § 8 Absatz 3 errechneten arithmetischen Mittel im
+    Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ und
+
+
+3.  der Bewertung der Prüfungsleistungen im Prüfungsteil
+    „Personalmanagement“.
+
+
+
+Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden.
+Der gerundeten Gesamtpunktzahl wird nach Anlage 2 die Note als
+Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note
+ist die Gesamtnote.
+
+
+## § 10 Zeugnisse
+
+(1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der
+zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und
+B.
+
+(2) Auf dem Zeugnis mit den Inhalten nach Anlage 3 Teil B sind die
+Noten als Dezimalzahlen mit einer Nachkommastelle und die Gesamtnote
+als Dezimalzahl mit einer Nachkommastelle und in Worten anzugeben.
+Jede Befreiung nach § 7 ist mit Ort, Datum und der Bezeichnung des
+Prüfungsgremiums der anderen vergleichbaren Prüfung anzugeben.
+
+(3) Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur
+Information (Bemerkungen) enthalten, insbesondere
+
+1.  über den erworbenen Abschluss oder
+
+
+2.  auf Antrag der geprüften Person über während oder anlässlich der
+    Fortbildung erworbene besondere oder zusätzliche Fertigkeiten,
+    Kenntnisse und Fähigkeiten.
+
+
+
+
+
+## § 11 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
 werden.
 
-(2) Mit dem Antrag auf Wiederholung der Prüfung wird der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin von einzelnen
-Prüfungsleistungen befreit, wenn die darin in einer vorangegangenen
-Prüfung erbrachten Leistungen mindestens ausreichend sind und der
-Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
-zwei Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
+(2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende
+Person von einzelnen Prüfungsleistungen befreit, wenn die darin in
+einer vorangegangenen Prüfung erbrachten Leistungen mindestens
+ausreichend sind und die zu prüfende Person sich innerhalb von zwei
+Jahren, gerechnet vom Tage der nicht bestanden Prüfung an, zur
 Wiederholungsprüfung angemeldet hat. Dabei können auch bestandene
 Prüfungsleistungen auf Antrag einmal wiederholt werden. In diesem Fall
 gilt das Ergebnis der letzten Prüfung.
 
 
-## § 10 Inkrafttreten
+## § 12 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -663,23 +719,26 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage 1 Spezialistenprofile in der Elektrotechnik
 
-(Fundstelle: BGBl. I 2009, 2846 - 2849)
+(Fundstelle: BGBl. I 2009, 2846 - 2849; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
 Die Spezialistenprofile beschreiben die inhaltlichen Standards, die
 für eine Zulassung zur Prüfung zum Geprüften Prozessmanager
-Elektrotechnik/zur Geprüften Prozessmanagerin Elektrotechnik (Process
-manager electrics/ electronics) erforderlich sind. Sie bilden das im
-Bereich der beruflichen Fortbildung angesiedelte Verbindungsglied
-zwischen der Ebene der beruflichen Ausbildung und der Ebene der in der
-beruflichen Fortbildung geregelten operativen Professionals. Grundlage
-für die Spezialistenqualifikation ist die Qualifizierung in den
-nachfolgend beschriebenen Arbeitsgebieten und Arbeitsprozessen. Im
-Rahmen dieser Qualifizierung sind die aufgeführten Arbeitsprozesse
-eigenständig in betrieblichen Projekten durchzuführen, eine
-prozessbegleitende Dokumentation anzufertigen, in einer Präsentation
-eine zusammenhängende Darstellung der Tätigkeiten und des
-Kompetenzerwerbs zu geben und darüber ein Fachgespräch zu führen.
+Elektrotechnik/zur Geprüften Prozessmanagerin Elektrotechnik
+(Certified Process Manager – Electric/Electronics) erforderlich sind.
+Sie bilden das im Bereich der beruflichen Fortbildung angesiedelte
+Verbindungsglied zwischen der Ebene der beruflichen Ausbildung und der
+Ebene der in der beruflichen Fortbildung geregelten operativen
+Professionals. Grundlage für die Spezialistenqualifikation ist die
+Qualifizierung in den nachfolgend beschriebenen Arbeitsgebieten und
+Arbeitsprozessen. Im Rahmen dieser Qualifizierung sind die
+aufgeführten Arbeitsprozesse eigenständig in betrieblichen Projekten
+durchzuführen, eine prozessbegleitende Dokumentation anzufertigen, in
+einer Präsentation eine zusammenhängende Darstellung der Tätigkeiten
+und des Kompetenzerwerbs zu geben und darüber ein Fachgespräch zu
+führen.
 
-**1.Systemspezialist Elektrotechnik/Systemspezialistin
+**1. Systemspezialist Elektrotechnik/Systemspezialistin
 Elektrotechnik**
 
 1.1 Arbeitsgebiet:
@@ -792,7 +851,7 @@ Elektrotechnik**
 
 
 
-**2.Fertigungsspezialist Elektrotechnik/Fertigungsspezialistin
+**2. Fertigungsspezialist Elektrotechnik/Fertigungsspezialistin
 Elektrotechnik**
 
 2.1 Arbeitsgebiet
@@ -899,7 +958,7 @@ Elektrotechnik**
 
 
 
-**3.Montagespezialist Elektrotechnik/Montagespezialistin
+**3. Montagespezialist Elektrotechnik/Montagespezialistin
 Elektrotechnik**
 
 3.1 Arbeitsgebiet:
@@ -1019,7 +1078,7 @@ Elektrotechnik**
 
 
 
-**4.Servicespezialist Elektrotechnik/Servicespezialistin
+**4. Servicespezialist Elektrotechnik/Servicespezialistin
 Elektrotechnik**
 
 4.1 Arbeitsgebiet:
@@ -1132,210 +1191,370 @@ Elektrotechnik**
 
 
 
-(zu § 7 Absatz 4)
+(zu den §§ 8 und 9)
 
-## Anlage 2 Muster
+## Anlage 2 Bewertungsmaßstab und -schlüssel
 
-(Fundstelle: BGBl. I 2009, 2850)
-
-*    *   ....................
-        (Bezeichnung der zuständigen Stelle)
+(Fundstelle: BGBl. I 2019, 2319 – 2320)
 
 
-*    *
+*    *   Punkte
 
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Prozessmanager Elektrotechnik/
-## Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Prozessmanager Elektrotechnik/
-Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-## Handlungsfeld ………………………………
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte
-Prozessmanagerin Elektrotechnik (Process manager electric/electronics)
-vom 10. August 2009 (BGBl. I S. 2841)
-
-
-*    *   bestanden.
-
-
-
-
-*    *   Datum ....................
-
-    *
-    *
-
-*    *   Unterschrift(en) ....................
-
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
-
-
-   (zu § 7 Absatz 4)
-
-## Anlage 3 Muster
-
-(Fundstelle: BGBl. I 2009, 2851)
-
-*    *
-    *   ......................................................
-
-    *
-
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
-
-    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Prozessmanager Elektrotechnik/
-## Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Prozessmanager Elektrotechnik/
-Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-## Handlungsfeld ………………………………
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte
-Prozessmanagerin Elektrotechnik (Process manager electric/electronics)
-vom 10. August 2009 (BGBl. I S. 2841) mit folgenden Ergebnissen
-bestanden:
-
-
-*    *
-    *
-    *[^f772427_01_BJNR284100009BJNE001500000]
-   Punkte
-
-    *
     *   Note
+        als Dezimalzahl
+
+    *   Note
+        in Worten
+
+    *   Definition
 
 
-*    *   I.
+*    *   100
 
-    *   Prozess- und Projektmanagement
-        Dokumentation, Präsentation und Fachgespräch
+    *   1,0
 
-    *   ....................
+    *   sehr gut
 
-    *
-    *   ....................
+    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
 
 
-*    *   II.
+*    *   98 und 99
 
-    *   Handlungsfeldübergreifende Fachaufgaben
-
-    *   ....................
-
-    *
-    *   ....................
+    *   1,1
 
 
-*    *
-    *   Situationsaufgabe 1
+*    *   96 und 97
 
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Situationsaufgabe 2
-
-    *   ....................
-
-    *
-    *
-
-*    *   III.
-
-    *   Personalmanagement
-
-    *
-    *
-    *
-
-*    *
-    *   Situationsaufgabe
-
-    *   ....................
-
-    *
-    *   ....................
+    *   1,2
 
 
+*    *   94 und 95
 
-(Im Fall des § 9: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 9 im Hinblick auf die am ....................
-in .................... vor .................... abgelegte Prüfung in
-dem Prüfungsteil/Prüfungsbereich ....................
-freigestellt. “)
+    *   1,3
 
 
-*    *   Datum ....................
+*    *   92 und 93
 
-    *
-    *
-
-*    *   Unterschrift(en) ....................
-
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
+    *   1,4
 
 
-[^f772427_01_BJNR284100009BJNE001500000]:    Den Bewertungen lag folgender Punkteschlüssel zu Grunde:
+*    *   91
+
+    *   1,5
+
+    *   gut
+
+    *   eine Leistung, die den Anforderungen voll entspricht
+
+
+*    *   90
+
+    *   1,6
+
+
+*    *   89
+
+    *   1,7
+
+
+*    *   88
+
+    *   1,8
+
+
+*    *   87
+
+    *   1,9
+
+
+*    *   85 und 86
+
+    *   2,0
+
+
+*    *   84
+
+    *   2,1
+
+
+*    *   83
+
+    *   2,2
+
+
+*    *   82
+
+    *   2,3
+
+
+*    *   81
+
+    *   2,4
+
+
+*    *   79 und 80
+
+    *   2,5
+
+    *   befriedigend
+
+    *   eine Leistung, die den Anforderungen im Allgemeinen entspricht
+
+
+*    *   78
+
+    *   2,6
+
+
+*    *   77
+
+    *   2,7
+
+
+*    *   75 und 76
+
+    *   2,8
+
+
+*    *   74
+
+    *   2,9
+
+
+*    *   72 und 73
+
+    *   3,0
+
+
+*    *   71
+
+    *   3,1
+
+
+*    *   70
+
+    *   3,2
+
+
+*    *   68 und 69
+
+    *   3,3
+
+
+*    *   67
+
+    *   3,4
+
+
+*    *   65 und 66
+
+    *   3,5
+
+    *   ausreichend
+
+    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
+        Anforderungen noch entspricht
+
+
+*    *   63 und 64
+
+    *   3,6
+
+
+*    *   62
+
+    *   3,7
+
+
+*    *   60 und 61
+
+    *   3,8
+
+
+*    *   58 und 59
+
+    *   3,9
+
+
+*    *   56 und 57
+
+    *   4,0
+
+
+*    *   55
+
+    *   4,1
+
+
+*    *   53 und 54
+
+    *   4,2
+
+
+*    *   51 und 52
+
+    *   4,3
+
+
+*    *   50
+
+    *   4,4
+
+
+*    *   48 und 49
+
+    *   4,5
+
+    *   mangelhaft
+
+    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
+        lässt, dass gewisse Grundkenntnisse noch vorhanden sind
+
+
+*    *   46 und 47
+
+    *   4,6
+
+
+*    *   44 und 45
+
+    *   4,7
+
+
+*    *   42 und 43
+
+    *   4,8
+
+
+*    *   40 und 41
+
+    *   4,9
+
+
+*    *   38 und 39
+
+    *   5,0
+
+
+*    *   36 und 37
+
+    *   5,1
+
+
+*    *   34 und 35
+
+    *   5,2
+
+
+*    *   32 und 33
+
+    *   5,3
+
+
+*    *   30 und 31
+
+    *   5,4
+
+
+*    *   25 bis 29
+
+    *   5,5
+
+    *   ungenügend
+
+    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
+        selbst Grundkenntnisse fehlen
+
+
+*    *   20 bis 24
+
+    *   5,6
+
+
+*    *   15 bis 19
+
+    *   5,7
+
+
+*    *   10 bis 14
+
+    *   5,8
+
+
+*    *   5 bis 9
+
+    *   5,9
+
+
+*    *   0 bis 4
+
+    *   6,0
+
+
+
+(zu § 10)
+
+## Anlage 3 Zeugnisinhalte
+
+(Fundstelle: BGBl. I 2019, 2321)
+
+Teil A – Zeugnis ohne Prüfungsergebnisse:
+
+1.  Bezeichnung der ausstellenden Behörde,
+
+
+2.  Name und Geburtsdatum der geprüften Person,
+
+
+3.  Datum des Bestehens der Prüfung,
+
+
+4.  Bezeichnung des erworbenen Fortbildungsabschlusses nach § 1 Absatz 5,
+
+
+5.  Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den Angaben
+    im Bundesgesetzblatt unter Berücksichtigung erfolgter Änderungen
+    dieser Verordnung,
+
+
+6.  Datum der Ausstellung des Zeugnisses samt Unterschrift der zuständigen
+    Stelle.
+
+
+
+
+Teil B – Zeugnis mit Prüfungsergebnissen:
+
+Alle Angaben des Teils A sowie zusätzlich:
+
+1.  zum Prüfungsteil „Prozess- und Projektmanagement“ die Benennung, die
+    Bewertung und die Note dieses Prüfungsteils sowie die Angabe, dass
+    dieser Prüfungsteil Dokumentation, Präsentation und Fachgespräch
+    beinhaltet,
+
+
+2.  zum Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ die
+    Benennung, das nach § 8 Absatz 3 errechnete arithmetische Mittel und
+    die Note dieses Prüfungsteils sowie die Benennung und die jeweilige
+    Bewertung der beiden Situationsaufgaben dieses Prüfungsteils,
+
+
+3.  zum Prüfungsteil „Personalmanagement“ die Benennung, die Bewertung und
+    die Note dieses Prüfungsteils sowie die Angabe, dass die Prüfung eine
+    Situationsaufgabe ist,
+
+
+4.  die errechnete Gesamtpunktzahl für die gesamte Prüfung,
+
+
+5.  die Gesamtnote als Dezimalzahl,
+
+
+6.  die Gesamtnote in Worten,
+
+
+7.  Befreiungen nach § 7.
+
+
+
 

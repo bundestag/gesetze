@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1984, 629
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.12.1999 I 2408
+:   Art. 2 Abs. 177 G v. 7.8.2013 I 3154
 
 Stand: in Kraft gem. Bek. v. 7.1.1986 II 409 mWv 1.1.1986
 
@@ -86,9 +86,10 @@ Flugsicherungs-Streckengebühren erhoben.
 -einziehungsverfahrens werden durch Beschlüsse der Erweiterten
 Kommission der Organisation EUROCONTROL festgelegt.
 
-(3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu
-erhebenden Auslagen ist die auf die Kosten nach § 1 Satz 1
-entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
+(3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis
+zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die
+auf die Kosten nach § 1 Satz 1 entfallende, gesetzlich geschuldete
+Umsatzsteuer hinzuzurechnen.
 
 
 ## § 3

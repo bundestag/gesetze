@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1939, 1947
 
-Geändert durch
-:   Art. 10a G v. 22.12.2011 I 3057
+Zuletzt geändert durch
+:   Art. 426 V v. 31.8.2015 I 1474
 
 
 ## § 1 Aufgabe
@@ -32,7 +32,7 @@ ausübt.
 ## § 2 Rechtsform, anzuwendendes Recht
 
 (1) Die Versorgungsausgleichskasse ist eine Pensionskasse im Sinne des
-§ 118a des Versicherungsaufsichtsgesetzes in der Rechtsform eines
+§ 232 des Versicherungsaufsichtsgesetzes in der Rechtsform eines
 Versicherungsvereins auf Gegenseitigkeit.
 
 (2) Auf sie ist das Versicherungsaufsichtsgesetz anzuwenden, sofern
@@ -44,19 +44,19 @@ dieses Gesetz nichts anderes bestimmt.
 (1) Die erstmalige Erlaubnis zum Geschäftsbetrieb durch die
 Bundesanstalt für Finanzdienstleistungsaufsicht bedarf der Zustimmung
 des Bundesministeriums für Arbeit und Soziales im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium der Justiz.
-Das Bundesministerium für Arbeit und Soziales macht die Erteilung der
-Erlaubnis nach Satz 1 im Bundesgesetzblatt bekannt.
+Bundesministerium der Finanzen und dem Bundesministerium der Justiz
+und für Verbraucherschutz. Das Bundesministerium für Arbeit und
+Soziales macht die Erteilung der Erlaubnis nach Satz 1 im
+Bundesgesetzblatt bekannt.
 
 (2) Die Gründungsmitglieder der Versorgungsausgleichskasse brauchen
-abweichend von § 20 Satz 2 des Versicherungsaufsichtsgesetzes kein
+abweichend von § 176 Satz 2 des Versicherungsaufsichtsgesetzes kein
 Versicherungsverhältnis mit dem Verein zu begründen. Die
 Mitgliedervertreterversammlung der Versorgungsausgleichskasse setzt
 sich aus den Gründungsmitgliedern zusammen. Die
 Mitgliedervertreterversammlung ergänzt sich im Wege der Kooptation.
 
-(3) Das gebundene Vermögen der Versorgungsausgleichskasse darf
-abweichend von § 54 Absatz 2 des Versicherungsaufsichtsgesetzes in
+(3) Das gebundene Vermögen der Versorgungsausgleichskasse darf in
 Versicherungsverträgen angelegt werden, die bei
 Lebensversicherungsunternehmen im Sinne des § 1 Absatz 2 Satz 1 des
 Altersvorsorgeverträge-Zertifizierungsgesetzes zur Deckung von
@@ -65,7 +65,7 @@ werden. In diese Versicherungsverträge dürfen keine Abschluss- und
 Vertriebskosten eingerechnet werden.
 
 (4) Die Versorgungsausgleichskasse gehört einem Sicherungsfonds nach §
-124 Absatz 1 des Versicherungsaufsichtsgesetzes an.
+221 Absatz 1 des Versicherungsaufsichtsgesetzes an.
 
 
 ## § 4 Leistungsumfang
@@ -76,9 +76,11 @@ Buchstabe a des Altersvorsorgeverträge-Zertifizierungsgesetzes
 erfüllen.
 
 (2) Die Versorgungsausgleichskasse muss einen Zins in einer Höhe
-garantieren, die dem Höchstwert für den Rechnungszins nach § 65 Absatz
-1 Nummer 1 des Versicherungsaufsichtsgesetzes zum Zeitpunkt der
-Begründung des Anrechts bei der Versorgungsausgleichskasse entspricht.
+garantieren, die dem Höchstwert für den Rechnungszins nach
+der gemäß § 235 Absatz 1 Satz 1 Nummer 4 des
+Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung
+zum Zeitpunkt der Begründung des Anrechts bei der
+Versorgungsausgleichskasse entspricht.
 
 (3) Ab Rentenbeginn müssen sämtliche auf den Rentenbestand
 entfallenden Überschussanteile zur Erhöhung der laufenden Leistungen

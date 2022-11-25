@@ -104,8 +104,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   für Anlagen, deren Zuteilungsmenge 150 000 Berechtigungen nicht
         übersteigt
 
-    *   3 200 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten 150
-        000 zugeteilten Berechtigungen
+    *   3 200 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten
+        150 000 zugeteilten Berechtigungen
 
 
 *    *   1.2
@@ -113,8 +113,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   für Anlagen, deren Zuteilungsmenge 150 000, jedoch nicht 1,5 Millionen
         Berechtigungen übersteigt
 
-    *   6 400 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten 150
-        000 zugeteilten Berechtigungen, 0,03 Euro pro Berechtigung für die
+    *   6 400 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten
+        150 000 zugeteilten Berechtigungen, 0,03 Euro pro Berechtigung für die
         weiteren, über die ersten 150 000 hinausgehenden 1,35 Millionen
         Berechtigungen
 
@@ -124,8 +124,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   für Anlagen, deren Zuteilungsmenge 1,5 Millionen Berechtigungen
         übersteigt
 
-    *   9 600 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten 150
-        000 zugeteilten Berechtigungen, 0,03 Euro pro Berechtigung für die
+    *   9 600 Euro zuzüglich 0,035 Euro pro Berechtigung für die ersten
+        150 000 zugeteilten Berechtigungen, 0,03 Euro pro Berechtigung für die
         weiteren, über die ersten 150 000 hinausgehenden 1,35 Millionen
         Berechtigungen, 0,025 Euro pro Berechtigung für die weiteren, über die
         ersten 1,5 Millionen hinausgehenden 13,5 Millionen Berechtigungen,

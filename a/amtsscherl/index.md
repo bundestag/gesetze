@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 927
 
+Geändert durch
+:   Erlass v. 8.6.2021 BAnz AT 17.06.2021 B2
+
 
 
 ## Eingangsformel
@@ -158,3 +161,15 @@ Ausland erläßt das Auswärtige Amt.
 
 Der Bundesminister des Innern
 
+
+## Muster
+
+(Fundstelle: BAnz AT 17.06.2021 B2)
+
+Allgemeines
+Amtsschild ****
+
+![banzat_2021_20210608b2-01.jpg](banzat_2021_20210608b2-01.jpg)
+**Gemeinsames Amtsschild mehrerer Dienststellen mit Anhängeschildern**
+
+![banzat_2021_20210608b2-02.jpg](banzat_2021_20210608b2-02.jpg)

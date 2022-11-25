@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2251
 
 Zuletzt geändert durch
-:   Art. 117 G v. 23.12.2003 I 2848
+:   Art. 51 G v. 20.8.2021 I 3932
 
 
 ## Eingangsformel
@@ -115,7 +115,7 @@ mindestens 50 vom Hundert des seinerzeitigen Neuwagenpreises beträgt.
 ## § 5 Bemessungsbetrag
 
 (1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in
-Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 9.500
+Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 22 000
 Euro gefördert. Die Kosten einer behinderungsbedingten
 Zusatzausstattung bleiben bei der Ermittlung unberücksichtigt.
 

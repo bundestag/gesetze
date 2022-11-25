@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1197
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 23. 7.2001 I 1663
+:   Art. 2 Abs. 6 G v. 5. 7.2017 I 2234
 
 
 ## Eingangsformel
@@ -802,7 +802,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   d)
 
     *   Transportverpackungen unter Berücksichtigung der Rücknahme- und
-        Verwertungspflichten nach der Verpackungsverordnung umweltgerecht
+        Verwertungspflichten nach dem Verpackungsgesetz umweltgerecht
         entsorgen
 
 
@@ -1064,8 +1064,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   b)
 
-    *   Kunden auf Rücknahme- und Verwertungspflichten nach der
-        Verpackungsverordnung hinweisen, kostenlose Rückgabemöglichkeit der
+    *   Kunden auf Rücknahme- und Verwertungspflichten nach dem
+        Verpackungsgesetz hinweisen, kostenlose Rückgabemöglichkeit der
         Verpackungen im Ausbildungsbetrieb erläutern
 
 
@@ -1880,7 +1880,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   c)
 
-    *   Begriffe der Verpackungsverordnung erläutern, Rücknahme- und
+    *   Begriffe des Verpackungsgesetzes erläutern, Rücknahme- und
         Verwertungspflichten für Verpackungen im Handel erläutern
 
 

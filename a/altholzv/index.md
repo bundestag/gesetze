@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3302
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 26 G v. 24.2.2012 I 212
+:   Art. 120 V v. 19.6.2020 I 1328
 
 
 ## § 1 Anwendungsbereich
@@ -272,8 +272,8 @@ der Proben erfolgt nach den in Anhang IV beschriebenen Verfahren.
 Altholzbehandlungsanlagen mit Zustimmung der zuständigen Behörde
 einfache Prüfverfahren mit ausreichender Empfindlichkeit nach dem
 Stand der Technik einsetzen. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit gibt entsprechende Prüfverfahren im
-Bundesanzeiger bekannt.
+Naturschutz und nukleare Sicherheit gibt entsprechende Prüfverfahren
+im Bundesanzeiger bekannt.
 
 (4) Holzhackschnitzel oder Holzspäne dürfen nachfolgend der Verwendung
 in der Holzwerkstoffherstellung nur zugeführt werden, wenn die Prüfung
@@ -497,8 +497,9 @@ sind, können die erforderlichen Angaben in einem Betriebstagebuch
 zusammengefasst werden.
 
 (5) Die Vorschriften der Nachweisverordnung, § 4 der PCB/PCT-
-Abfallverordnung sowie § 5 der Entsorgungsfachbetriebeverordnung
-bleiben unberührt.
+Abfallverordnung sowie § 5 Absatz 1 der
+Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils
+geltenden Fassung bleiben unberührt.
 
 
 ## § 13 Ordnungswidrigkeiten
@@ -1018,7 +1019,8 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 ## Anhang IV Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
-(Fundstelle: BGBl. I 2002, 3309 - 3313)
+(Fundstelle: BGBl. I 2002, 3309 - 3313;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
@@ -1034,11 +1036,10 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             entnehmen. Aus dem Materialstrom ist wenigstens alle 10 t eine
             Einzelprobe von mindestens 2 l zu entnehmen, zum Beispiel mit einem
             Gefäß mit Stiel, das in den Abwurf des Förderbandes gehalten wird. Die
-            Probenahme ist zu dokumentieren. Die Dokumentation enthält mindestens
-            das Datum der Probenahme, die Angabe der beprobten Charge sowie Namen
-            und Unterschrift des Probenehmers, mit welcher dieser die
-            Ordnungsgemäßheit der Probenahme versichert. Probentransport und
-            Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der
+            Probenahme ist schriftlich oder elektronisch zu dokumentieren. Die
+            Dokumentation enthält mindestens das Datum der Probenahme, die Angabe
+            der beprobten Charge sowie den Namen des Probenehmers. Probentransport
+            und Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der
             chemischen, physikalischen und biologischen Beschaffenheit des
             Probenmaterials soweit wie möglich ausgeschlossen wird.
 
@@ -1472,7 +1473,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 *    *
     *
-    *   \*
+    *   *
 
     *   Chemikalienblindwert (Durchführung des gesamten Verfahrens ohne
         Holzprobe)
@@ -1480,7 +1481,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 *    *
     *
-    *   \*
+    *   *
 
     *   Analyse eines kontaminationsfreien Holzes
 
@@ -1690,7 +1691,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             bezogen auf die Trockenmasse der Altholzprobe, multipliziert mit dem
             Faktor fünf und auf 0,1 mg/kg gerundet.
 
-            Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+            Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
             kann für die Bestimmung von polychlorierten Biphenylen andere
             wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt
             geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.

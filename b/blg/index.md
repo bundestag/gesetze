@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 815
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.8.2009 I 2723
+:   Art. 27 G v. 23.6.2021 I 1858
 
 
 ## Grundvorschrift
@@ -1889,11 +1889,10 @@ Anspruch genommen oder in dieser Weise behandelt worden sind, finden
 
 ### § 95
 
-Die Unternehmen nach § 2 des Post- und
-Telekommunikationssicherstellungsgesetzes, soweit sie durch eine
-Rechtsverordnung auf Grund des § 3 des vorgenannten Gesetzes
-verpflichtet sind, und öffentliche Eisenbahnen können nicht zu
-Leistungen nach diesem Gesetz herangezogen werden.
+Die nach § 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2
+des Telekommunikationsgesetzes verpflichteten Unternehmen sowie
+öffentliche Eisenbahnen können nicht zu Leistungen nach diesem Gesetz
+herangezogen werden.
 
 
 ### § 96

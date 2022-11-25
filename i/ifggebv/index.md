@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 6
 
+Geändert durch
+:   Art. 2 Abs. 7 G v. 7.8.2013 I 3154
+
 
 
 ## Eingangsformel
@@ -27,14 +30,14 @@ verordnet das Bundesministerium des Innern:
 
 ## § 1 Gebühren und Auslagen
 
-(1) Die Gebühren und Auslagen für Amtshandlungen nach dem
-Informationsfreiheitsgesetz bestimmen sich nach dem anliegenden
-Gebühren- und Auslagenverzeichnis.
+(1) Die Gebühren und Auslagen für individuell zurechenbare öffentliche
+Leistungen nach dem Informationsfreiheitsgesetz bestimmen sich nach
+dem anliegenden Gebühren- und Auslagenverzeichnis.
 
 (2) Auslagen werden zusätzlich zu den Gebühren und auch dann erhoben,
-wenn die Amtshandlung gebührenfrei erfolgt. Dies gilt nicht in Fällen
-eines Tatbestandes nach Teil A Nummer 1.1 des Gebühren- und
-Auslagenverzeichnisses.
+wenn die individuell zurechenbare öffentliche Leistung gebührenfrei
+erfolgt. Dies gilt nicht in Fällen eines Tatbestandes nach Teil A
+Nummer 1.1 des Gebühren- und Auslagenverzeichnisses.
 
 
 ## § 2 Befreiung und Ermäßigung

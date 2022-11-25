@@ -1964,8 +1964,8 @@ folgende Gebiete:
         einschließend,
 
 
-    -   Weg in nördlicher und nordöstlicher Richtung folgend entlang der Wald
-        /Feld-Grenze bis Gemarkungsgrenze Pretschen - Hohenbrück - Neu
+    -   Weg in nördlicher und nordöstlicher Richtung folgend entlang der
+        Wald/Feld-Grenze bis Gemarkungsgrenze Pretschen - Hohenbrück - Neu
         Schadow,
 
 

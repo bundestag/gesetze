@@ -1,8 +1,6 @@
-[^F775557_01_BJNR141200011]
-Verordnung zum Schutz vor schädlichen Wirkungen künstlicher
-ultravioletter Strahlung
 ---
-Title: ''
+Title: Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter
+  Strahlung
 jurabk: UVSV
 layout: default
 origslug: uvsv
@@ -10,7 +8,7 @@ slug: uvsv
 
 ---
 
-#  (UVSV)
+# Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung (UVSV)
 
 Ausfertigungsdatum
 :   2011-07-20
@@ -208,8 +206,31 @@ und 2 erfüllt sind.
 
 ## § 4 Einsatz, Aufgaben und Qualifikation des Fachpersonals
 
-(1)
-(künftig in Kraft)
+(1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
+
+1.  mindestens eine als Fachpersonal für den Umgang mit UV-
+    Bestrahlungsgeräten nach Absatz 4 qualifizierte Person (Fachpersonal)
+    während der Betriebszeiten der UV-Bestrahlungsgeräte für den Kontakt
+    mit den Nutzerinnen oder den Nutzern und die Überprüfung der UV-
+    Bestrahlungsgeräte anwesend ist,
+
+
+2.  das Fachpersonal anbietet, die Nutzerin oder den Nutzer in die sichere
+    Bedienung des UV-Bestrahlungsgerätes einschließlich der Notabschaltung
+    einzuweisen,
+
+
+3.  das Fachpersonal anbietet, eine auf die Person abgestimmte
+    Hauttypbestimmung nach Anlage 1 vorzunehmen,
+
+
+4.  das Fachpersonal anbietet, einen auf die Person abgestimmten
+    Dosierungsplan nach Anlage 5 zu erstellen.
+
+
+
+Es ist ausreichend, die Angebote nach Satz 1 Nummer 2 bis 4 zu Beginn
+einer Bestrahlungsserie nach Anlage 5 Nummer 3 zu unterbreiten.
 
 (2) Wer nicht mehr als zwei UV-Bestrahlungsgeräte an einem
 Aufstellungsort betreibt, kann von Absatz 1 Satz 1 Nummer 1 abweichen,

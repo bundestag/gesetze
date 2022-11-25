@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1987, 90
 
 Zuletzt geändert durch
-:   Art. 206 V v. 29.10.2001 I 2785
+:   Art. 287 V v. 19.6.2020 I 1328
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung
 

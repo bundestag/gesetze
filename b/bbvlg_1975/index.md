@@ -1,7 +1,6 @@
 ---
 Title: Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten
-  und Soldaten auf Zeit - Art. VI Nr. 1 des Zweiten Gesetzes zur Vereinheitlichung
-  und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) -
+  und Soldaten auf Zeit
 jurabk: BBVLG 1975
 layout: default
 origslug: bbvlg_1975
@@ -9,7 +8,7 @@ slug: bbvlg_1975
 
 ---
 
-# Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit - Art. VI Nr. 1 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) - (BBVLG 1975)
+# Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit (BBVLG 1975)
 
 Ausfertigungsdatum
 :   1975-05-23
@@ -18,7 +17,10 @@ Fundstelle
 :   BGBl I: 1975, 1173, 1237
 
 Neugefasst durch
-:   Bek. v. 16.5.2002 I 1778
+:   Bek. v. 16.5.2002 I 1778;
+
+Zuletzt geändert durch
+:   Art. 39 G v. 29.3.2017 I 626
 
 
 ## § 1
@@ -98,10 +100,10 @@ Regelungen im Einzelnen nicht übereinstimmen.
 ## § 4
 
 (1) Der Berechtigte teilt seiner Dienststelle oder der nach
-Landesrecht bestimmten Stelle schriftlich die Art der gewählten Anlage
-mit und gibt hierbei, soweit dies nach der Art der Anlage erforderlich
-ist, das Unternehmen oder Institut mit der Nummer des Kontos an, auf
-das die Leistung eingezahlt werden soll.
+Landesrecht bestimmten Stelle schriftlich oder elektronisch die Art
+der gewählten Anlage mit und gibt hierbei, soweit dies nach der Art
+der Anlage erforderlich ist, das Unternehmen oder Institut mit der
+Nummer des Kontos an, auf das die Leistung eingezahlt werden soll.
 
 (2) Für die vermögenswirksamen Leistungen nach diesem Gesetz und die
 vermögenswirksame Anlage von Teilen der Bezüge nach dem Fünften

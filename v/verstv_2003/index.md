@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 547
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.3.2010 I 264
+:   Art. 101 G v. 29.3.2017 I 626
 
 
 
@@ -89,12 +89,12 @@ Anforderungen nach Absatz 1 zugelassen werden.
 (1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor
 dem in Aussicht genommenen Versteigerungstermin der zuständigen
 Behörde sowie der Industrie- und Handelskammer, in deren Bezirk die
-Versteigerung stattfinden soll, schriftlich mit den Angaben nach
-Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere
-bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag
-abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar,
-landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh
-ist keine Anzeige erforderlich.
+Versteigerung stattfinden soll, schriftlich oder elektronisch mit den
+Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen,
+insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf
+Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem
+Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen
+oder Vieh ist keine Anzeige erforderlich.
 
 (2) In der Anzeige sind Ort und Zeitpunkt der Versteigerung sowie die
 Gattung der zu versteigernden Ware anzugeben. In den Fällen des § 6
@@ -238,8 +238,8 @@ dieser Verordnung verstößt oder verstoßen hat.
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 1 der Gewerbeordnung
-handelt, wer vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der
+Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 1 Satz 1 ohne schriftlichen Vertrag versteigert,
 

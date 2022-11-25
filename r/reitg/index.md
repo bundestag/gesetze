@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2007, 914
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.6.2011 I 1126
+:   Art. 24 Abs. 18 G v. 23.6.2017 I 1693
+
+Änderung durch
+:   Art. 63 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -71,7 +74,7 @@ Unternehmensgegenstand sich darauf beschränkt,
 
 
 und deren Aktien zum Handel an einem organisierten Markt im Sinne von
-§ 2 Abs. 5 des Wertpapierhandelsgesetzes in einem Mitgliedstaat der
+§ 2 Absatz 11 des Wertpapierhandelsgesetzes in einem Mitgliedstaat der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum zugelassen sind.
 
@@ -244,7 +247,7 @@ im Inland haben.
 ### § 10 Börsenzulassung
 
 (1) Die Aktien der REIT-Aktiengesellschaft müssen zum Handel an einem
-organisierten Markt im Sinne des § 2 Abs. 5 des
+organisierten Markt im Sinne des § 2 Absatz 11 des
 Wertpapierhandelsgesetzes in einem Mitgliedstaat der Europäischen
 Union oder in einem anderen Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum zugelassen sein.
@@ -271,7 +274,7 @@ müssen sich jedoch mindestens 25 Prozent der Aktien im Streubesitz
 befinden. Den Streubesitz bilden die Aktien derjenigen Aktionäre,
 denen jeweils weniger als 3 Prozent der Stimmrechte an der REIT-
 Aktiengesellschaft zustehen. Die Berechnung richtet sich nach den §§
-22 und 23 des Wertpapierhandelsgesetzes.
+34 und 36 des Wertpapierhandelsgesetzes.
 
 (2) Die REIT-Aktiengesellschaft hat jährlich zum 31. Dezember
 gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht die
@@ -290,18 +293,18 @@ Stimmrechte verfügt. Für die Anwendung dieses Absatzes gelten Aktien,
 die für Rechnung eines Dritten gehalten werden, als direkt durch den
 Dritten gehalten.
 
-(5) Die Mitteilungspflichten nach § 21 Abs. 1 des
-Wertpapierhandelsgesetzes und die Pflichten nach § 26 Abs. 1 und 2 des
-Wertpapierhandelsgesetzes gelten auch dann, wenn ein Meldepflichtiger
-durch Erwerb, Veräußerung oder auf sonstige Weise 80 Prozent oder 85
-Prozent der Stimmrechte an einer REIT-Aktiengesellschaft erreicht,
-überschreitet oder unterschreitet.
+(5) Die Mitteilungspflichten nach § 33 Absatz 1 des
+Wertpapierhandelsgesetzes und die Pflichten nach § 40 Absatz 1 und 2
+des Wertpapierhandelsgesetzes gelten auch dann, wenn ein
+Meldepflichtiger durch Erwerb, Veräußerung oder auf sonstige Weise 80
+Prozent oder 85 Prozent der Stimmrechte an einer REIT-
+Aktiengesellschaft erreicht, überschreitet oder unterschreitet.
 
 
 ### § 12 Vermögens- und Ertragsanforderungen
 
 (1) Ist die REIT-Aktiengesellschaft zur Aufstellung eines
-Konzernabschlusses gemäß § 315a des Handelsgesetzbuchs verpflichtet,
+Konzernabschlusses gemäß § 315e des Handelsgesetzbuchs verpflichtet,
 ist für Zwecke dieser Vorschrift oder der §§ 14 und 15 auf den
 Konzernabschluss abzustellen, anderenfalls auf den Einzelabschluss
 gemäß § 325 Abs. 2a des Handelsgesetzbuchs. Dabei ist für Zwecke
@@ -427,7 +430,7 @@ darf 45 Prozent des Betrages, mit dem das unbewegliche Vermögen im
 Einzel- bzw. Konzernabschluss nach § 12 Abs. 1 angesetzt ist, nicht
 unterschreiten. Nicht dem Mutterunternehmen gehörende und als
 Fremdkapital ausgewiesene Anteile an in den Konzernabschluss nach §
-315a des Handelsgesetzbuchs einbezogenen Tochterunternehmen gelten für
+315e des Handelsgesetzbuchs einbezogenen Tochterunternehmen gelten für
 die Berechnung des Mindesteigenkapitals als Eigenkapital.
 
 
@@ -767,10 +770,10 @@ Zusammensetzung der Erträge hinsichtlich vorbelasteter und nicht
 vorbelasteter Erträge zu machen. § 152 der Abgabenordnung ist mit der
 Maßgabe anzuwenden, dass ein Verspätungszuschlag auch bei Vorliegen
 der Voraussetzungen für die Steuerbefreiung festgesetzt werden kann.
-Bemessungsgrundlage im Sinne des § 152 Abs. 2 der Abgabenordnung ist
-der nach § 13 Abs. 1 ermittelte auszuschüttende Betrag. Eine
-beglaubigte Abschrift des besonderen Vermerks nach § 1 Abs. 4 ist der
-Steuererklärung beizufügen.
+Bemessungsgrundlage im Sinne des § 152 Absatz 5 Satz 2 der
+Abgabenordnung ist der nach § 13 Absatz 1 ermittelte auszuschüttende
+Betrag. Eine beglaubigte Abschrift des besonderen Vermerks nach § 1
+Absatz 4 ist der Steuererklärung beizufügen.
 
 (3) Nach Aufforderung durch die Finanzbehörde hat die REIT-
 Aktiengesellschaft die Ermittlung der Angaben nach Absatz 2
@@ -869,4 +872,15 @@ anzuwenden. § 20 Absatz 1 Satz 2 in der Fassung des Artikels 11 des
 Gesetzes vom 22. Juni 2011 (BGBl. I S. 1126) ist erstmals auf
 Kapitalerträge anzuwenden, die dem Gläubiger nach dem 31. Dezember
 2011 zufließen.
+
+(12) § 21 Absatz 2 Satz 4 in der am 1. Januar 2017 geltenden Fassung
+ist erstmals ab dem 1. Januar 2017 anzuwenden.
+
+(13) Die §§ 12 und 15 in der Fassung des CSR-Richtlinie-
+Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals
+auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für
+das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden.
+Die §§ 12 und 15 in der bis zum 18. April 2017 geltenden Fassung sind
+letztmals anzuwenden auf Lage- und Konzernlageberichte für das vor dem
+1\. Januar 2017 beginnende Geschäftsjahr.
 

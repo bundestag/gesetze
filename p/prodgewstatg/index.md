@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21. 3.2002 I 1181;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 17.3.2009 I 550
+:   Art. 7 G v. 22.2.2021 I 266
 
 
 ## § 1
@@ -38,7 +38,7 @@ Erhebungen als Bundesstatistik durchgeführt.
 ### § 2 Erhebungen bei Betrieben
 
 Die Erhebungen werden durchgeführt bei den produzierenden Betrieben
-von höchstens 68.000 Unternehmen des Bergbaus und der Gewinnung von
+von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von
 Steinen und Erden, des Verarbeitenden Gewerbes sowie bei den
 produzierenden Betrieben der Unternehmen anderer Wirtschaftszweige,
 jeweils ohne Baubetriebe und Betriebe der Energieversorgung,
@@ -64,16 +64,19 @@ A.  bei Betrieben mit 50 und mehr tätigen Personen
         5.  den Auftragseingang,
 
 
-        6.  die gesamte Produktion,
+        6.  den Auftragsbestand,
 
 
-        7.  die Reparatur-, Montage- und Lohnveredelungsarbeiten,
+        7.  die gesamte Produktion,
+
+
+        8.  die Reparatur-, Montage- und Lohnveredelungsarbeiten,
 
 
 
 
-        die Sachverhalte nach den Nummern 1, 4 und 5 werden auch für fachliche
-        Betriebsteile erfasst;
+        die Sachverhalte nach den Nummern 1, 4, 5 und 6 werden auch für
+        fachliche Betriebsteile erfasst;
 
 
     II. jährlich
@@ -129,7 +132,7 @@ A.  jährlich
     im Bergbau und in der Gewinnung von Steinen und Erden sowie im
     Verarbeitenden Gewerbe
 
-    I.  bei höchstens 13.000 Unternehmen mit zwei und mehr Betrieben
+    I.  bei höchstens 13 000 Unternehmen mit zwei und mehr Betrieben
 
         1.  die tätigen Personen,
 
@@ -143,7 +146,7 @@ A.  jährlich
 
 
 
-    II. bei höchstens 68.000 Unternehmen
+    II. bei höchstens 68 000 Unternehmen
 
         1.  die Investitionen,
 
@@ -154,9 +157,9 @@ A.  jährlich
 
 
 
-    III. bei höchstens 24.000 Unternehmen
+    III. bei höchstens 24 000 Unternehmen
 
-        1.  die tätigen Personen, jeweils auch nach Geschlecht,
+        1.  die tätigen Personen,
 
 
         2.  den Umsatz,
@@ -184,7 +187,7 @@ A.  jährlich
 
 
         bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens
-        6\.000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
+        6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
         2 und 6 sowie zusätzlich die Investitionen erfasst;
 
 
@@ -193,7 +196,7 @@ A.  jährlich
 
 B.  alle vier Jahre, beginnend 2003 für 2002,
 
-    bei höchstens 18.000 Unternehmen des Bergbaus und der Gewinnung von
+    bei höchstens 12 000 Unternehmen des Bergbaus und der Gewinnung von
     Steinen und Erden sowie des Verarbeitenden Gewerbes
 
     den Material- und Wareneingang nach Arten.
@@ -210,7 +213,7 @@ B.  alle vier Jahre, beginnend 2003 für 2002,
 
 Die Erhebungen erfassen
 
-A.  bei den Baubetrieben von höchstens 20.000 Unternehmen des
+A.  bei den Baubetrieben von höchstens 15 000 Unternehmen des
     Bauhauptgewerbes sowie bei Baubetrieben der anderen Unternehmen -
     jeweils ohne ausbaugewerbliche Betriebe und Bauträger -
 
@@ -289,7 +292,7 @@ B.  bei den übrigen Baubetrieben - ohne ausbaugewerbliche Betriebe und
 C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
     sowie der anderen Unternehmen und bei Bauträgern
 
-    I.  bei höchstens 9.000 Betrieben
+    I.  bei höchstens 14 000 Betrieben
 
         1.  vierteljährlich
 
@@ -318,7 +321,7 @@ C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
 
 
 
-    II. bei höchstens 18.000 Betrieben, die nicht nach Ziffer I erfasst
+    II. bei höchstens 18 000 Betrieben, die nicht nach Ziffer I erfasst
         werden,
 
         jährlich
@@ -358,9 +361,9 @@ C.  bei ausbaugewerblichen Betrieben von Unternehmen des Ausbaugewerbes
 
 Die Erhebungen erfassen jährlich
 
-I.  bei höchstens 35.000 Unternehmen des Baugewerbes
+I.  bei höchstens 35 000 Unternehmen des Baugewerbes
 
-    1.  die tätigen Personen, jeweils auch nach Geschlecht,
+    1.  die tätigen Personen,
 
 
     2.  die Lohn- und Gehaltssummen,
@@ -379,9 +382,9 @@ I.  bei höchstens 35.000 Unternehmen des Baugewerbes
 
 
 
-II. bei höchstens 12.000 Unternehmen des Baugewerbes
+II. bei höchstens 12 000 Unternehmen des Baugewerbes
 
-    1.  die tätigen Personen, jeweils auch nach Geschlecht,
+    1.  die tätigen Personen,
 
 
     2.  den Umsatz, bei Unternehmen des Bauhauptgewerbes auch die
@@ -410,7 +413,7 @@ II. bei höchstens 12.000 Unternehmen des Baugewerbes
 
 
     bei Unternehmen mit weniger als 20 Beschäftigten, von denen höchstens
-    6\.000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
+    6 000 befragt werden, werden nur die Sachverhalte nach den Nummern 1,
     2 und 6 sowie zusätzlich die Investitionen erfasst.
 
 
@@ -427,7 +430,7 @@ Die Erhebungen erfassen
 
 A.  monatlich
 
-    bei den Betrieben der Energieversorgung von höchstens 1.100
+    bei den Betrieben der Energieversorgung von höchstens 1 100
     Unternehmen der Energieversorgung und den Betrieben der
     Energieversorgung aller anderen Unternehmen
 
@@ -447,7 +450,7 @@ A.  monatlich
 
 B.  jährlich
 
-    I.  bei höchstens 3.000 Unternehmen der Energieversorgung für die
+    I.  bei höchstens 3 000 Unternehmen der Energieversorgung für die
         Unternehmen, die fachlichen Unternehmensteile und die Betriebe
 
         1.  die Investitionen,
@@ -494,25 +497,22 @@ B.  jährlich
 
         2.  für die Unternehmen
 
-            a)  die tätigen Personen nach Geschlecht,
+            a)  den Material- und Wareneingang,
 
 
-            b)  den Material- und Wareneingang,
+            b)  die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
 
 
-            c)  die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
+            c)  die Umsatzsteuer,
 
 
-            d)  die Umsatzsteuer,
+            d)  die Subventionen,
 
 
-            e)  die Subventionen,
+            e)  die Abgabe von Wasser,
 
 
-            f)  die Abgabe von Wasser,
-
-
-            g)  den Wert der Ein- und Ausfuhr von Wasser;
+            f)  den Wert der Ein- und Ausfuhr von Wasser;
 
 
 
@@ -570,7 +570,7 @@ A.  monatlich
 
 B.  jährlich
 
-    I.  bei höchstens 7.000 Unternehmen der Wasserversorgung, der Abwasser-
+    I.  bei höchstens 7 000 Unternehmen der Wasserversorgung, der Abwasser-
         und Abfallentsorgung und der Beseitigung von Umweltverschmutzungen für
         die Unternehmen, die fachlichen Unternehmensteile und die Betriebe
 
@@ -622,25 +622,22 @@ B.  jährlich
 
         2.  für die Unternehmen
 
-            a)  die tätigen Personen, jeweils auch nach Geschlecht,
+            a)  den Material- und Wareneingang,
 
 
-            b)  den Material- und Wareneingang,
+            b)  die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
 
 
-            c)  die Kosten nach Kostenarten, soweit nicht nach Nummer 1 erfasst,
+            c)  die Umsatzsteuer,
 
 
-            d)  die Umsatzsteuer,
+            d)  die Subventionen,
 
 
-            e)  die Subventionen,
+            e)  die Abgabe von Wasser,
 
 
-            f)  die Abgabe von Wasser,
-
-
-            g)  den Wert der Ein- und Ausfuhr von Wasser;
+            f)  den Wert der Ein- und Ausfuhr von Wasser;
 
 
 
@@ -723,7 +720,23 @@ B.  jährlich
 (3) Im Sinne dieses Gesetzes ist
 
 1.  ein Unternehmen die kleinste rechtlich selbständige Einheit, die aus
-    handels- oder steuerrechtlichen Gründen Bücher führt;
+    handels- oder steuerrechtlichen Gründen Bücher führt; folgende
+    statistische Einheiten sind bei Erhebungen nach den §§ 6 und 6a
+    Unternehmen gleichzustellen:
+
+    a)  Einheiten ohne eigene Rechtspersönlichkeit (Eigenbetriebe),
+
+
+    b)  kommunale Körperschaften,
+
+
+    c)  Zweckverbände sowie
+
+
+    d)  andere juristische Personen zwischengemeindlicher Zusammenarbeit;
+
+
+
 
 
 2.  ein Betrieb ein an einem Standort gelegenes Unternehmen oder ein Teil
@@ -737,7 +750,7 @@ B.  jährlich
 
 ### § 8 Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Erhebung von Sachverhalten auszusetzen, sofern die Ergebnisse
@@ -758,14 +771,21 @@ den §§ 2 bis 6a bezeichneten Betriebe und Unternehmen sowie der in § 7
 Abs. 2 Nr. 4 bezeichneten Einheiten. Die Auskunftserteilung zu den
 Angaben nach § 7 Abs. 2 Nr. 2 ist freiwillig.
 
-(2) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g
-Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von
-Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden
-Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
-von weniger als 500.000 Euro erwirtschaftet hat.
+(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine
+Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
+keine Auskunftspflicht, wenn das Unternehmen im letzten
+abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000
+Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung
+von der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
 
 
 ### § 10 Übermittlungsregelung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1078
 
 Zuletzt geändert durch
-:   Art. 298 V v. 31.10.2006 I 2407
+:   Art. 497 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -86,10 +86,7 @@ Tagen nach dem Unfall an den Unfallfolgen verstorben sind.
 haben. Werden sie deshalb zur stationären Behandlung in ein
 Krankenhaus aufgenommen, so gelten sie als Schwerverletzte.
 
-(5) Als schwerer Sachschaden gelten Schäden von 4.000 Deutsche Mark
-und mehr an beweglichen oder unbeweglichen Sachen mindestens eines
-Geschädigten, die durch Unfälle oder als Folge von Unfällen nach § 1
-eingetreten sind.
+(5)
 
 
 ## § 3
@@ -172,8 +169,8 @@ sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse nur
 für Zwecke der Unfallforschung verwenden. Die nach Satz 1
 übermittelten Einzelangaben dürfen nicht mit anderen personenbezogenen
 Daten zusammengeführt werden. Das Nähere zur Ausführung der Sätze 3
-und 4 regelt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung durch Erlaß.
+und 4 regelt das Bundesministerium für Verkehr und digitale
+Infrastruktur durch Erlaß.
 
 (4) Die Übermittlung von Einzelangaben an Hochschulen und sonstige
 Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher
@@ -183,7 +180,7 @@ Bundesstatistikgesetz.
 
 ## § 6
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung hat durch
+Das Bundesministerium für Verkehr und digitale Infrastruktur hat durch
 Rechtsverordnung mit Zustimmung des Bundesrates den schwerwiegenden
 Unfall mit Sachschaden im Sinne des § 2 Abs. 1 näher zu bestimmen.
 

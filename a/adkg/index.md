@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1218
 
+Geändert durch
+:   Art. 78 G v. 29.3.2017 I 626
+
 
 
 ## § 1 Name, Sitz, Rechtsform
@@ -116,8 +119,8 @@ einberufen.
 
 (2) Die Mitgliederversammlung soll mindestens einmal in jedem
 Kalenderjahr zusammentreten. Sie muss einberufen werden, wenn der
-Senat es beschließt oder mindestens 30 Mitglieder es schriftlich
-verlangen.
+Senat es beschließt oder mindestens 30 Mitglieder es schriftlich oder
+elektronisch verlangen.
 
 (3) Die Mitgliederversammlung beschließt die Satzung mit der Mehrheit
 von zwei Dritteln der anwesenden Mitglieder.

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1191
 
+Geändert durch
+:   Art. 1 V v. 21.5.2014 I 548
+
 
 ## Eingangsformel
 
@@ -85,14 +88,14 @@ Rahmenbedingungen in den folgenden Bereichen zu reagieren:
     Aspekten entsprechend der Vorgaben der Ausbildungsordnung; Auswählen
     und Einstellen von Auszubildenden; Durchführen der Ausbildung unter
     Anwenden geeigneter Methoden bei der Vermittlung von
-    Ausbildungsinhalten; Hinführen der Auszubildenden zu selbstständigem
+    Ausbildungsinhalten; Hinführen der Auszubildenden zu selbständigem
     Handeln, Vorbereiten auf Prüfungen, Informieren und Beraten über
-    Fortbildungsmöglichkeiten; Auswählen, Anleiten, Kontrollieren und
-    Motivieren von Mitarbeitern und Mitarbeiterinnen; Übertragen von
-    Aufgaben auf Mitarbeiter und Mitarbeiterinnen entsprechend ihrer
-    Leistungsfähigkeit, Qualifikation und Eignung; kooperatives Führen und
-    Fördern sowie Unterstützen der beruflichen Qualifizierung von
-    Mitarbeitern und Mitarbeiterinnen.
+    Fortbildungsmöglichkeiten; Auswählen und Einstellen von Mitarbeitern;
+    Übertragen von Aufgaben auf Mitarbeiter entsprechend ihrer
+    Leistungsfähigkeit, Qualifikation und Eignung; Anleiten und
+    Kontrollieren von Mitarbeitern in Arbeitsprozessen, kooperatives
+    Führen, Fördern und Motivieren; Unterstützen der beruflichen
+    Weiterbildung von Mitarbeitern.
 
 
 
@@ -318,11 +321,13 @@ Minuten zur Verfügung.
 
 ## § 6 Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
 
-(1) Der Prüfling soll nachweisen, dass Zusammenhänge der Berufsbildung
-und Mitarbeiterführung erkannt, Auszubildende ausgebildet und
-Mitarbeiter geführt werden können.
+(1) Der Prüfling soll nachweisen, dass er Zusammenhänge der
+Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden
+und Mitarbeiter führen kann sowie über entsprechende fachliche,
+methodische und didaktische Fähigkeiten verfügt.
 
-(2) Die Qualifikation nach Absatz 1 ist in den Handlungsfeldern:
+(2) Der Nachweis der Qualifikation nach Absatz 1 ist in folgenden
+Handlungsfeldern zu führen:
 
 1.  Ausbildungsvoraussetzungen prüfen und Ausbildung planen,
 
@@ -333,14 +338,18 @@ Mitarbeiter geführt werden können.
 3.  Ausbildung durchführen,
 
 
-4.  Ausbildung abschließen und
+4.  Ausbildung abschließen,
 
 
-5.  Mitarbeiter führen
+5.  Personalbedarf ermitteln, Mitarbeiter auswählen, einstellen und
+    Aufgaben auf diese übertragen sowie
+
+
+6.  Mitarbeiter anleiten, führen, fördern und motivieren sowie deren
+    berufliche Weiterbildung unterstützen.
 
 
 
-nachzuweisen.
 
 (3) Das Handlungsfeld nach Absatz 2 Nummer 1 umfasst die Kompetenzen:
 
@@ -477,60 +486,94 @@ nachzuweisen.
 
 (7) Das Handlungsfeld nach Absatz 2 Nummer 5 umfasst die Kompetenzen:
 
-1.  rechtliche Grundlagen des Arbeitsrechts im Betrieb umzusetzen,
+1.  rechtliche Grundlagen des Arbeits-, Tarif- und Sozialrechts im Betrieb
+    umzusetzen,
 
 
-2.  Mitarbeiter und Mitarbeiterinnen auszuwählen, einzustellen,
-    einzuarbeiten, anzuleiten und zu beurteilen,
+2.  Konzepte der Personalplanung anzuwenden,
 
 
-3.  Aufgaben auf Mitarbeiter und Mitarbeiterinnen entsprechend der
-    Leistungsfähigkeit, Qualifikation und Eignung zu übertragen,
+3.  Mitarbeiter auszuwählen, einzustellen und einzuarbeiten,
 
 
-4.  Mitarbeiter und Mitarbeiterinnen zu motivieren und zu fördern,
+4.  Leistungsfähigkeit, Qualifikation und Eignung von Mitarbeitern zu
+    beurteilen und Aufgaben auf diese entsprechend der Beurteilung zu
+    übertragen,
 
 
-5.  Mitarbeiter und Mitarbeiterinnen zu qualifizieren und bei der
-    Weiterbildung zu unterstützen,
+5.  zur Krankheitsprävention anzuleiten und Maßnahmen organisieren sowie
 
 
-6.  soziale Zusammenhänge und Konflikte zu erkennen,
-
-
-7.  Maßnahmen zur Konfliktbewältigung anzuwenden sowie
-
-
-8.  Teamarbeit zu organisieren und zu unterstützen.
+6.  Beendigung von Arbeitsverhältnissen durchzuführen.
 
 
 
 
-(8) Die Prüfung besteht aus einem praktischen Teil nach Absatz 9 und
-einem schriftlichen Teil nach Absatz 10.
+(8) Das Handlungsfeld nach Absatz 2 Nummer 6 umfasst die Kompetenzen:
 
-(9) Der praktische Teil besteht aus der Durchführung einer vom
+1.  Mitarbeiter anzuleiten, Leistungen und Verhalten gegebenenfalls unter
+    Hinzuziehung von Leistungsbeurteilungen Dritter festzustellen und zu
+    bewerten,
+
+
+2.  Mitarbeiter- und Beurteilungsgespräche zu führen und
+    Entwicklungsmöglichkeiten aufzeigen,
+
+
+3.  Mitarbeiter zu motivieren und zu fördern,
+
+
+4.  Mitarbeiter zu qualifizieren und bei der Weiterbildung zu
+    unterstützen,
+
+
+5.  soziale Zusammenhänge und Konflikte zu erkennen,
+
+
+6.  Maßnahmen zur Konfliktbewältigung anzuwenden, Teamarbeit zu
+    organisieren und zu unterstützen sowie
+
+
+7.  Führungsstile zu kennen und das eigene Führungsverhalten kritisch zu
+    reflektieren.
+
+
+
+
+(9) Die Prüfung gliedert sich in die Abschnitte Berufsausbildung und
+Mitarbeiterführung. Der Abschnitt Berufsausbildung besteht aus einem
+praktischen Teil nach Absatz 10 und einem schriftlichen Teil nach
+Absatz 11. Der Abschnitt Mitarbeiterführung besteht aus einer
+Fallstudie nach Absatz 12.
+
+(10) Der praktische Teil besteht aus der Durchführung einer vom
 Prüfling in Abstimmung mit dem Prüfungsausschuss auszuwählenden
 Ausbildungssituation und einem Fachgespräch. Die Ausbildungssituation
 ist schriftlich zu planen und praktisch durchzuführen. Auswahl und
 Gestaltung der Ausbildungssituation sind im Fachgespräch zu erläutern.
-Außerdem erstreckt sich das Fachgespräch auf die Inhalte der Absätze 3
-bis 7. Für die schriftliche Planung der Ausbildungssituation steht ein
+Für die schriftliche Planung der Ausbildungssituation steht ein
 Zeitraum von sieben Tagen zur Verfügung. Für die praktische
 Durchführung der Ausbildungssituation stehen 60 Minuten zur Verfügung.
 Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-(10) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben aus
-den Handlungsfeldern der Absätze 3 bis 6 sowie mindestens eine
-fallbezogene Aufgabe aus dem Handlungsfeld des Absatzes 7 bearbeiten.
-Die Prüfungszeit beträgt 180 Minuten.
+(11) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben zu
+den in den Absätzen 3 bis 6 aufgeführten Kompetenzen bearbeiten. Die
+Prüfungszeit beträgt 150 Minuten.
+
+(12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss
+vorgegebene Situation der Mitarbeiterführung, die sich auf die in den
+Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren,
+Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem
+Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120
+Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht
+länger als 20 Minuten dauern.
 
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
 einzelner Prüfungsbestandteile nach § 4 Absatz 3, § 5 Absatz 3 und § 6
-Absatz 8 freistellen, wenn in den letzten fünf Jahren vor
+Absatz 9 freistellen, wenn in den letzten fünf Jahren vor
 Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder
 staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
@@ -550,10 +593,16 @@ nach § 4 Absatz 4 das doppelte Gewicht. Für den Prüfungsteil
 Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 5
 Absatz 4 und in der Prüfung nach § 5 Absatz 5 zu bilden. Für den
 Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist eine Note
-als arithmetisches Mittel aus den Bewertungen der Leistungen in der
-Prüfung nach § 6 Absatz 9 und in der Prüfung nach § 6 Absatz 10 zu
-bilden; dabei hat die Note in der Prüfung nach § 6 Absatz 9 das
-doppelte Gewicht.
+als arithmetisches Mittel aus den Bewertungen der Leistungen in den
+Prüfungen nach § 6 Absatz 10 und 11 im Abschnitt Berufsausbildung
+sowie der Leistung in der Prüfung nach § 6 Absatz 12 im Abschnitt
+Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt
+Berufsausbildung mit 60 Prozent und die Note für den Abschnitt
+Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den
+Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den
+Bewertungen der Leistungen in der Prüfung nach § 6 Absatz 10 und in
+der Prüfung nach § 6 Absatz 11 zu bilden; dabei hat die Note in der
+Prüfung nach § 6 Absatz 10 das doppelte Gewicht.
 
 (2) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden;
 sie ist als arithmetisches Mittel aus den Noten für die einzelnen
@@ -565,7 +614,7 @@ bestanden, wenn in der gesamten Prüfung mindestens eine der Leistungen
 in den Prüfungen nach Absatz 1 mit „ungenügend“ oder mehr als eine
 dieser Leistungen mit „mangelhaft“ benotet worden ist.
 
-(4) Die Prüfungen nach § 4 Absatz 5, § 5 Absatz 5 und § 6 Absatz 10
+(4) Die Prüfungen nach § 4 Absatz 5, § 5 Absatz 5 und § 6 Absatz 11
 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für
 das Bestehen der Prüfung von Bedeutung sind. Die Ergänzungsprüfung
 soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung
@@ -587,7 +636,14 @@ innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
 
-## § 10 Inkrafttreten
+## § 10 Übergangsvorschriften
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+(1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach
+den bis dahin geltenden Vorschriften zu Ende geführt werden.
+
+(2) Prüflinge, die die Prüfung nach den bis zum 28. Mai 2014 geltenden
+Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren
+ab dem 29. Mai 2014 zu einer Wiederholungsprüfung anmelden, können die
+Wiederholungsprüfung nach den bis zum 28. Mai 2014 geltenden
+Vorschriften ablegen.
 

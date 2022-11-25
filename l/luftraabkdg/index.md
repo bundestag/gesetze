@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1933, 1079
 
+Geändert durch
+:   Art. 11 G v. 17.7.2017 I 2421
+
 
 
 ## Eingangsformel
@@ -30,9 +33,9 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 Reisenden bestimmen sich der Kreis der Ersatzberechtigten, der
 Gegenstand der Ersatzpflicht und die Art der Ersatzleistung in den
 Fällen des Artikels 17 des Ersten Abkommens zur Vereinheitlichung des
-Luftprivatrechts nach den
-§§ 21, 22 und 24              des Luftverkehrsgesetzes, in den Fällen
-des Artikels 25 nach den Vorschriften des Bürgerlichen Gesetzbuchs.
+Luftprivatrechts nach den §§ 35, 36 und 38 des Luftverkehrsgesetzes,
+in den Fällen des Artikels 25 nach den Vorschriften des Bürgerlichen
+Gesetzbuchs.
 
 (2) Übersteigen im Falle der Ersatzleistung nach Artikel 17 des
 Abkommens die Entschädigungen, die mehreren wegen der Tötung,

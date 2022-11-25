@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3
 
+Geändert durch
+:   Art. 3 V v. 11.12.2012 I 2637
+
 
 ## Eingangsformel
 
@@ -38,8 +41,8 @@ Abgabenordnung.
 
 ## § 2 Anwendungszeitraum
 
-Diese Verordnung ist erstmals für den Veranlagungszeitraum 2005 und
-letztmals für den Veranlagungszeitraum 2013 anzuwenden.
+Diese Verordnung ist erstmals für den Veranlagungszeitraum 2005
+anzuwenden.
 
 
 ## § 3 Inkrafttreten

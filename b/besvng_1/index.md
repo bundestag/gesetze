@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1971, 208
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 45 G v. 5.2.2009 I 160
+:   Art. 66 V v. 19.6.2020 I 1328
 
 
 ## Art I
@@ -64,10 +64,11 @@ ersetzt. 22. Die Sätze des Ortszuschlages in der Anlage II des
 
 ## § 2
 
-Der Bundesminister des Innern wird ermächtigt, die nach diesem Gesetz
-unmittelbar eintretenden Änderungen in der Einreihung von Beamten in
-die Gruppen der Besoldungsordnungen sowie Änderungen von
-Amtsbezeichnungen in einer Überleitungsübersicht festzustellen.
+Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt, die
+nach diesem Gesetz unmittelbar eintretenden Änderungen in der
+Einreihung von Beamten in die Gruppen der Besoldungsordnungen sowie
+Änderungen von Amtsbezeichnungen in einer Überleitungsübersicht
+festzustellen.
 
 
 ## § 3
@@ -664,14 +665,14 @@ des Bundesbesoldungsgesetzes ermitteltes Grundgehalt zugrunde, ist das
 Besoldungsdienstalter in sinngemäßer Anwendung der Vorschriften des
 Bundesbesoldungsgesetzes von Amts wegen festzusetzen.
 
-(3) Der Bundesminister des Innern wird ermächtigt, die Anlage 4 dieses
-Gesetzes durch Rechtsverordnung zu ergänzen oder zu ändern, wenn das
-zu berücksichtigende Amt nach dem Besoldungsrecht der Mehrzahl der
-Länder bis zu dem in Artikel II § 18 Abs. 1 Satz 1 dieses Gesetzes
-bestimmten Zeitpunkt unter Beachtung des Kapitels III des
-Bundesbesoldungsgesetzes in der Fassung des Artikels I dieses Gesetzes
-höher als nach den bisherigen Überleitungsregelungen bewertet worden
-ist.
+(3) Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
+die Anlage 4 dieses Gesetzes durch Rechtsverordnung zu ergänzen oder
+zu ändern, wenn das zu berücksichtigende Amt nach dem Besoldungsrecht
+der Mehrzahl der Länder bis zu dem in Artikel II § 18 Abs. 1 Satz 1
+dieses Gesetzes bestimmten Zeitpunkt unter Beachtung des Kapitels III
+des Bundesbesoldungsgesetzes in der Fassung des Artikels I dieses
+Gesetzes höher als nach den bisherigen Überleitungsregelungen bewertet
+worden ist.
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)

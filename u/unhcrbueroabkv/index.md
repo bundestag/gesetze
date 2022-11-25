@@ -17,6 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2007, 218
 
+Stand: Die Verordnung tritt gem. Art. 3 Abs. 2 dieser V an dem Tag außer Kraft, an dem das Abkommen nach seinem Art. 5 Abs. 3 außer Kraft tritt
 
 
 ## Eingangsformel

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4144;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 7.12.2011 I 2592
+:   Art. 3 G v. 25.6.2021 I 2056
 
 
 ## Erster Teil - Steuerpflicht
@@ -34,7 +34,8 @@ Geschäftsleitung oder ihren Sitz im Inland haben:
 
 1.  Kapitalgesellschaften (insbesondere Europäische Gesellschaften,
     Aktiengesellschaften, Kommanditgesellschaften auf Aktien,
-    Gesellschaften mit beschränkter Haftung);
+    Gesellschaften mit beschränkter Haftung) einschließlich optierender
+    Gesellschaften im Sinne des § 1a;
 
 
 2.  Genossenschaften einschließlich der Europäischen Genossenschaften;
@@ -60,10 +61,173 @@ Geschäftsleitung oder ihren Sitz im Inland haben:
 sämtliche Einkünfte.
 
 (3) Zum Inland im Sinne dieses Gesetzes gehört auch der der
-Bundesrepublik Deutschland zustehende Anteil am Festlandsockel, soweit
-dort Naturschätze des Meeresgrundes und des Meeresuntergrundes
-erforscht oder ausgebeutet werden oder dieser der Energieerzeugung
-unter Nutzung erneuerbarer Energien dient.
+Bundesrepublik Deutschland zustehende Anteil
+
+1.  an der ausschließlichen Wirtschaftszone, soweit dort
+
+    a)  die lebenden und nicht lebenden natürlichen Ressourcen der Gewässer
+        über dem Meeresboden, des Meeresbodens und seines Untergrunds
+        erforscht, ausgebeutet, erhalten oder bewirtschaftet werden,
+
+
+    b)  andere Tätigkeiten zur wirtschaftlichen Erforschung oder Ausbeutung
+        der ausschließlichen Wirtschaftszone ausgeübt werden, wie
+        beispielsweise die Energieerzeugung aus Wasser, Strömung und Wind oder
+
+
+    c)  künstliche Inseln errichtet oder genutzt werden und Anlagen und
+        Bauwerke für die in den Buchstaben a und b genannten Zwecke errichtet
+        oder genutzt werden, und
+
+
+
+
+
+2.  am Festlandsockel, soweit dort
+
+    a)  dessen natürliche Ressourcen erforscht oder ausgebeutet werden;
+        natürliche Ressourcen in diesem Sinne sind die mineralischen und
+        sonstigen nicht lebenden Ressourcen des Meeresbodens und seines
+        Untergrunds sowie die zu den sesshaften Arten gehörenden Lebewesen,
+        die im nutzbaren Stadium entweder unbeweglich auf oder unter dem
+        Meeresboden verbleiben oder sich nur in ständigem körperlichen Kontakt
+        mit dem Meeresboden oder seinem Untergrund fortbewegen können; oder
+
+
+    b)  künstliche Inseln errichtet oder genutzt werden und Anlagen und
+        Bauwerke für die in Buchstabe a genannten Zwecke errichtet oder
+        genutzt werden.
+
+
+
+
+
+
+
+
+### § 1a Option zur Körperschaftsbesteuerung
+
+(1) Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach
+dem Einkommen eine Personenhandels- oder Partnerschaftsgesellschaft
+wie eine Kapitalgesellschaft (optierende Gesellschaft) und ihre
+Gesellschafter wie die nicht persönlich haftenden Gesellschafter einer
+Kapitalgesellschaft zu behandeln; § 217 Absatz 1 des
+Umwandlungsgesetzes gilt sinngemäß. Der Antrag ist von der
+Personenhandels- oder Partnerschaftsgesellschaft nach amtlich
+vorgeschriebenem Datensatz durch Datenfernübertragung bei dem für die
+gesonderte und einheitliche Feststellung der Einkünfte nach § 180 der
+Abgabenordnung zuständigen Finanzamt spätestens einen Monat vor Beginn
+des Wirtschaftsjahrs zu stellen, ab dem die Besteuerung wie eine
+Kapitalgesellschaft gelten soll; § 31 Absatz 1a Satz 2 gilt
+entsprechend. Erfolgt für die Personenhandels- oder
+Partnerschaftsgesellschaft keine gesonderte und einheitliche
+Feststellung der Einkünfte, ist der Antrag bei dem für die
+Einkommensteuer oder Körperschaftsteuer des Gesellschafters
+zuständigen Finanzamt zu stellen. Erzielt eine Personenhandels- oder
+Partnerschaftsgesellschaft ausschließlich Einkünfte, die dem
+Steuerabzug vom Kapitalertrag oder dem Steuerabzug auf Grund des § 50a
+des Einkommensteuergesetzes unterliegen und gilt infolgedessen die
+Einkommensteuer nach § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes
+oder die Körperschaftsteuer nach § 32 Absatz 1 als abgegolten, ist der
+Antrag bei dem Bundeszentralamt für Steuern zu stellen. Hat die
+Gesellschaft ihren Sitz im Inland, ist der Antrag abweichend von den
+Sätzen 3 und 4 bei dem Finanzamt zu stellen, in dessen Bezirk die
+Gesellschaft ihren Sitz hat. Die Sätze 1 bis 5 finden keine Anwendung
+auf
+
+1.  Investmentfonds im Sinne des Investmentsteuergesetzes und
+
+
+2.  Gesellschaften, die nach Ausübung der Option in dem Staat, in dem sich
+    ihre Geschäftsleitung befindet, keiner der deutschen unbeschränkten
+    Körperschaftsteuerpflicht vergleichbaren Steuerpflicht unterliegen.
+
+
+
+
+(2) Der Übergang zur Körperschaftsbesteuerung gilt als Formwechsel im
+Sinne des § 1 Absatz 3 Nummer 3 des Umwandlungssteuergesetzes. Die §§
+1 und 25 des Umwandlungssteuergesetzes sind entsprechend anzuwenden.
+Als Einbringungszeitpunkt gilt das Ende des Wirtschaftsjahrs, das dem
+Wirtschaftsjahr im Sinne des Absatzes 1 Satz 2 unmittelbar vorangeht;
+§ 9 Satz 3 des Umwandlungssteuergesetzes ist nicht anzuwenden. Das im
+Einbringungszeitpunkt in der Steuerbilanz auszuweisende Eigenkapital
+wird auf dem steuerlichen Einlagekonto der optierenden Gesellschaft
+erfasst. Die zur Vertretung der Gesellschaft ermächtigten Personen
+gelten als gesetzliche Vertreter der optierenden Gesellschaft.
+
+(3) Aufgrund der Option gilt die Beteiligung an einer optierenden
+Gesellschaft für Zwecke der Besteuerung nach dem Einkommen als
+Beteiligung eines nicht persönlich haftenden Gesellschafters an einer
+Kapitalgesellschaft. Beim Gesellschafter führen daher insbesondere
+
+1.  durch das Gesellschaftsverhältnis veranlasste Einnahmen zu Einkünften
+    im Sinne des § 20 Absatz 1 Nummer 1 des Einkommensteuergesetzes,
+
+
+2.  Einnahmen, die er von der Gesellschaft für seine Tätigkeit im Dienst
+    der Gesellschaft bezieht, zu Einkünften im Sinne des § 19 des
+    Einkommensteuergesetzes,
+
+
+3.  Einnahmen aus der Hingabe von Darlehen zu Einkünften im Sinne des § 20
+    Absatz 1 Nummer 7 oder Absatz 2 Satz 1 Nummer 7 des
+    Einkommensteuergesetzes und
+
+
+4.  Einnahmen aus der Überlassung von Wirtschaftsgütern zu Einkünften im
+    Sinne des § 21 oder § 22 des Einkommensteuergesetzes.
+
+
+
+Die §§ 13 bis 16, 18 und 35 des Einkommensteuergesetzes sind
+vorbehaltlich des Satzes 4 nicht anzuwenden. Soweit entsprechende
+Einnahmen bei einem Gesellschafter einer Kapitalgesellschaft anderen
+Einkunftsarten zuzurechnen wären, gilt abweichend von Satz 3, dass
+auch die Einnahmen des Gesellschafters der optierenden Gesellschaft zu
+diesen Einkünften gehören. Gewinnanteile gelten erst dann als
+ausgeschüttet, wenn sie entnommen werden oder ihre Auszahlung verlangt
+werden kann. § 4 Absatz 3 des Einkommensteuergesetzes ist bei einer
+optierenden Gesellschaft nicht anzuwenden. In den Fällen des Satzes 2
+Nummer 2 gelten die optierende Gesellschaft als lohnsteuerlicher
+Arbeitgeber und der Gesellschafter als Arbeitnehmer.
+
+(4) Eine Gesellschaft, die nach Absatz 1 zur Körperschaftsbesteuerung
+optiert hat, kann beantragen, dass sie nicht mehr wie eine
+Kapitalgesellschaft und ihre Gesellschafter nicht mehr wie die nicht
+persönlich haftenden Gesellschafter einer Kapitalgesellschaft
+behandelt werden (Rückoption). Die Rückoption gilt als Formwechsel
+nach § 1 Absatz 1 Satz 1 Nummer 2 des Umwandlungssteuergesetzes mit
+der Maßgabe, dass § 9 Satz 3 des Umwandlungssteuergesetzes keine
+Anwendung findet. Absatz 1 Satz 2, 3 und 5 gilt mit der Maßgabe
+entsprechend, dass der Antrag bei dem für die Körperschaftsbesteuerung
+zuständigen Finanzamt zu stellen ist; in den Fällen des Absatzes 1
+Satz 4 ist der Antrag bei dem Bundeszentralamt für Steuern zu stellen.
+Die Sätze 1 und 2 finden auch ohne Antrag Anwendung, wenn die
+Voraussetzungen des Absatzes 1 entfallen. Scheidet der vorletzte
+Gesellschafter aus der Gesellschaft aus, gilt die optierende
+Gesellschaft als unmittelbar danach aufgelöst und, sofern der
+verbleibende Gesellschafter die persönlichen Voraussetzungen eines
+übernehmenden Rechtsträgers einer Umwandlung einer Kapitalgesellschaft
+im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 oder 4 des
+Umwandlungssteuergesetzes erfüllt, im Fall des § 1 Absatz 1 Satz 1
+Nummer 1 des Umwandlungssteuergesetzes als auf den verbleibenden
+Gesellschafter verschmolzen beziehungsweise gilt im Fall des § 1
+Absatz 1 Satz 1 Nummer 4 des Umwandlungssteuergesetzes das Vermögen
+der optierenden Gesellschaft als auf den verbleibenden Gesellschafter
+übertragen mit der Maßgabe, dass jeweils § 2 des
+Umwandlungssteuergesetzes keine Anwendung findet. Erfüllt der
+verbleibende Gesellschafter nicht die persönlichen Voraussetzungen
+eines übernehmenden Rechtsträgers einer Umwandlung einer
+Kapitalgesellschaft im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 oder 4
+des Umwandlungssteuergesetzes, gilt die optierende Gesellschaft als
+aufgelöst und ihr Vermögen als an die Gesellschafter ausgeschüttet;
+§ 11 des Körperschaftsteuergesetzes ist entsprechend mit der Maßgabe
+anzuwenden, dass an die Stelle des zur Verteilung kommenden Vermögens
+der gemeine Wert des vorhandenen Vermögens tritt. Abweichend von Satz
+4 gilt die Umwandlung der optierenden Gesellschaft in eine
+Körperschaft im Sinne des Umwandlungssteuergesetzes als Umwandlung
+einer Kapitalgesellschaft in eine Körperschaft.
 
 
 ### § 2 Beschränkte Steuerpflicht
@@ -179,10 +343,10 @@ Hoheitsbetrieb zusammengefasst werden.
 
 (1) Von der Körperschaftsteuer sind befreit
 
-1.  das Bundeseisenbahnvermögen, die Monopolverwaltungen des Bundes, die
-    staatlichen Lotterieunternehmen und der Erdölbevorratungsverband nach
-    § 2 Abs. 1 des Erdölbevorratungsgesetzes vom 25. Juli 1978 (BGBl. I S.
-    1073);
+1.  das Bundeseisenbahnvermögen, die staatlichen Lotterieunternehmen und
+    der Erdölbevorratungsverband nach § 2 Absatz 1 des
+    Erdölbevorratungsgesetzes vom 16. Januar 2012 (BGBl. I S. 74) in der
+    jeweils geltenden Fassung;
 
 
 2.  die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die
@@ -191,14 +355,14 @@ Hoheitsbetrieb zusammengefasst werden.
     Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH,
     die Landeskreditbank Baden-Württemberg-Förderbank, die Bayerische
     Landesbodenkreditanstalt, die Investitionsbank Berlin, die
-    Hamburgische Wohnungsbaukreditanstalt, die NRW.Bank, die Investitions-
-    und Förderbank Niedersachsen, die Saarländische Investitionskreditbank
-    Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die
-    Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank -
-    Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-
-    Anhalt - Anstalt der Norddeutschen Landesbank - Girozentrale -, die
-    Investitions- und Strukturbank Rheinland-Pfalz, das
-    Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
+    Hamburgische Investitions- und Förderbank, die NRW.Bank, die
+    Investitions- und Förderbank Niedersachsen, die Saarländische
+    Investitionskreditbank Aktiengesellschaft, die Investitionsbank
+    Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die
+    Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die
+    Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank
+    - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz,
+    das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der
     Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und
     Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
     Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-
@@ -263,11 +427,11 @@ Hoheitsbetrieb zusammengefasst werden.
         handelsrechtlichen Grundsätzen ordnungsmäßiger Buchführung unter
         Berücksichtigung des Geschäftsplans sowie der allgemeinen
         Versicherungsbedingungen und der fachlichen Geschäftsunterlagen im
-        Sinne des § 5 Abs. 3 Nr. 2 Halbsatz 2 des
-        Versicherungsaufsichtsgesetzes auszuweisende Vermögen nicht höher ist
-        als bei einem Versicherungsverein auf Gegenseitigkeit die
-        Verlustrücklage und bei einer Kasse anderer Rechtsform der dieser
-        Rücklage entsprechende Teil des Vermögens.
+        Sinne des § 219 Absatz 3 Nummer 1 des Versicherungsaufsichtsgesetzes
+        auszuweisende Vermögen nicht höher ist als bei einem
+        Versicherungsverein auf Gegenseitigkeit die Verlustrücklage und bei
+        einer Kasse anderer Rechtsform der dieser Rücklage entsprechende Teil
+        des Vermögens.
         2                         Bei der Ermittlung des Vermögens ist eine
         Rückstellung für Beitragsrückerstattung nur insoweit abziehbar, als
         den Leistungsempfängern ein Anspruch auf die Überschussbeteiligung
@@ -290,7 +454,7 @@ Hoheitsbetrieb zusammengefasst werden.
 
 
 
-4.  kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53
+4.  kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
     des Versicherungsaufsichtsgesetzes, wenn
 
     a)  ihre Beitragseinnahmen im Durchschnitt der letzten drei
@@ -341,7 +505,9 @@ Hoheitsbetrieb zusammengefasst werden.
 
 
 7.  politische Parteien im Sinne des § 2 des Parteiengesetzes und ihre
-    Gebietsverbände sowie kommunale Wählervereinigungen und ihre
+    Gebietsverbände, sofern die jeweilige Partei nicht gemäß § 18 Absatz 7
+    des Parteiengesetzes von der staatlichen Teilfinanzierung
+    ausgeschlossen ist, sowie kommunale Wählervereinigungen und ihre
     Dachverbände.
     2                   Wird ein wirtschaftlicher Geschäftsbetrieb
     unterhalten, so ist die Steuerbefreiung insoweit ausgeschlossen;
@@ -376,7 +542,7 @@ Hoheitsbetrieb zusammengefasst werden.
     Forstbetriebe;
 
 
-10. Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, soweit sie
+10. Genossenschaften sowie Vereine, soweit sie
 
     a)  Wohnungen herstellen oder erwerben und sie den Mitgliedern auf Grund
         eines Mietvertrags oder auf Grund eines genossenschaftlichen
@@ -396,7 +562,27 @@ Hoheitsbetrieb zusammengefasst werden.
 
     2                   Die Steuerbefreiung ist ausgeschlossen, wenn die
     Einnahmen des Unternehmens aus den in Satz 1 nicht bezeichneten
-    Tätigkeiten 10 Prozent der gesamten Einnahmen übersteigen;
+    Tätigkeiten 10 Prozent der gesamten Einnahmen übersteigen.
+    3                   Erzielt das Unternehmen Einnahmen aus der
+    Lieferung von Strom aus Anlagen, für den es unter den Voraussetzungen
+    des § 21 Absatz 3 des Erneuerbare-Energien-Gesetzes einen Anspruch auf
+    Zahlung eines Mieterstromzuschlags hat, erhöht sich die Grenze des
+    Satzes 2 für diese Einnahmen auf 20 Prozent, wenn die Grenze des
+    Satzes 2 nur durch diese Einnahmen überschritten wird.
+    4                   Zu den Einnahmen nach Satz 3 gehören auch
+    Einnahmen aus der zusätzlichen Stromlieferung im Sinne des § 42a
+    Absatz 2 Satz 6 des Energiewirtschaftsgesetzes sowie Einnahmen aus der
+    Einspeisung von Strom aus diesen Anlagen.
+    5                   Investierende Mitglieder im Sinne des § 8 Absatz 2
+    des Genossenschaftsgesetzes sind keine Mitglieder im Sinne des Satzes
+    1\.
+    6                   Satz 1 ist auch auf Verträge zur vorübergehenden
+    Unterbringung von Wohnungslosen anzuwenden, die mit juristischen
+    Personen des öffentlichen Rechts oder mit Steuerpflichtigen im Sinne
+    der Nummer 9, die Mitglied sind, abgeschlossen werden.
+    7                   Eine Einweisungsverfügung nach den
+    Ordnungsbehördengesetzen der Länder steht dem Abschluss eines Vertrags
+    im Sinne des Satzes 6 gleich;
 
 
 11. (weggefallen)
@@ -419,8 +605,8 @@ Hoheitsbetrieb zusammengefasst werden.
 13. (weggefallen)
 
 
-14. Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, soweit sich
-    ihr Geschäftsbetrieb beschränkt
+14. Genossenschaften sowie Vereine, soweit sich ihr Geschäftsbetrieb
+    beschränkt
 
     a)  auf die gemeinschaftliche Benutzung land- und forstwirtschaftlicher
         Betriebseinrichtungen oder Betriebsgegenstände,
@@ -475,21 +661,36 @@ Hoheitsbetrieb zusammengefasst werden.
 
 
 
-16. Körperschaften, Personenvereinigungen und Vermögensmassen, die als
-    Entschädigungseinrichtungen im Sinne des Einlagensicherungs- und
-    Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842) oder
-    als Sicherungseinrichtung eines Verbandes der Kreditinstitute nach
-    ihrer Satzung oder sonstigen Verfassung ausschließlich den Zweck
-    haben, bei Gefahr für die Erfüllung der Verpflichtungen eines
-    Kreditinstituts im Sinne des § 1 Abs. 1 des Gesetzes über das
-    Kreditwesen oder eines Finanzdienstleistungsinstituts im Sinne des § 1
-    Abs. 1a Satz 2 Nr. 1 bis 4 des Gesetzes über das Kreditwesen Hilfe zu
-    leisten.
-    2                   Voraussetzung ist, dass das Vermögen und etwa
-    erzielte Überschüsse nur zur Erreichung des gesetzlichen oder
-    satzungsmäßigen Zwecks verwendet werden.
+16. Körperschaften, Personenvereinigungen und Vermögenmassen, soweit sie
+
+    a)  als Einlagensicherungssysteme im Sinne des § 2 Absatz 1 des
+        Einlagensicherungsgesetzes sowie als Entschädigungseinrichtungen im
+        Sinne des Anlegerentschädigungsgesetzes ihre gesetz­lichen
+        Pflichtaufgaben erfüllen oder
+
+
+    b)  als nicht als Einlagensicherungssysteme anerkannte vertragliche
+        Systeme zum Schutz von Einlagen und institutsbezogene
+        Sicherungssysteme im Sinne des § 61 des Einlagensicherungsgesetzes
+        nach ihrer Satzung oder sonstigen Verfassung ausschließlich den Zweck
+        haben, Einlagen zu sichern oder bei Gefahr für die Erfüllung der
+        Verpflichtungen eines Kreditinstituts im Sinne des § 1 Absatz 1 des
+        Kreditwesengesetzes oder eines Finanzdienstleistungsinstituts im Sinne
+        des § 1 Absatz 1a Satz 2 Nummer 1 bis 4 des Kreditwesengesetzes oder
+        eines Wertpapierinstituts im Sinne des § 2 Absatz 1 des
+        Wertpapierinstitutsgesetzes Hilfe zu leisten oder
+        Einlagensicherungssysteme im Sinne des § 2 Absatz 1 des
+        Einlagensicherungsgesetzes bei deren Pflichtenerfüllung zu
+        unterstützen.
+
+
+
+    2                   Voraussetzung für die Steuerbefreiung nach Satz 1
+    ist zusätzlich, dass das Vermögen und etwa erzielte Überschüsse
+    dauernd nur zur Erreichung des gesetzlichen oder satzungsmäßigen
+    Zwecks verwendet werden.
     3                   Die Sätze 1 und 2 gelten entsprechend für
-    Sicherungsfonds im Sinne der §§ 126 und 127 des
+    Sicherungsfonds im Sinne der §§ 223 und 224 des
     Versicherungsaufsichtsgesetzes sowie für Einrichtungen zur Sicherung
     von Einlagen bei Wohnungsgenossenschaften mit Spareinrichtung.
     4                   Die Steuerbefreiung ist für wirtschaftliche
@@ -586,7 +787,14 @@ Hoheitsbetrieb zusammengefasst werden.
     gesicherter wissenschaftlicher Erkenntnisse, die Übernahme von
     Projektträgerschaften sowie wirtschaftliche Tätigkeiten ohne
     Forschungsbezug gerichtet, ist die Steuerbefreiung insoweit
-    ausgeschlossen.
+    ausgeschlossen;
+
+
+24. die Global Legal Entity Identifier Stiftung, soweit die Stiftung
+    Tätigkeiten ausübt, die im unmittelbaren Zusammenhang mit der
+    Einführung, dem Unterhalten und der Fortentwicklung eines Systems zur
+    eindeutigen Identifikation von Rechtspersonen mittels eines weltweit
+    anzuwendenden Referenzcodes stehen.
 
 
 
@@ -607,9 +815,9 @@ Körperschaftsteuergesetz gelten nicht
     (ABl. EG Nr. L 1 S. 3), zuletzt geändert durch den Beschluss des
     Gemeinsamen EWR-Ausschusses Nr. 91/2007 vom 6. Juli 2007 (ABl. EU Nr.
     L 328 S. 40), in der jeweiligen Fassung Anwendung findet, gegründete
-    Gesellschaften im Sinne des Artikels 48 des Vertrags zur Gründung der
-    Europäischen Gemeinschaft oder des Artikels 34 des Abkommens über den
-    Europäischen Wirtschaftsraum sind, deren Sitz und Ort der
+    Gesellschaften im Sinne des Artikels 54 des Vertrags über die
+    Arbeitsweise der Europäischen Union oder des Artikels 34 des Abkommens
+    über den Europäischen Wirtschaftsraum sind, deren Sitz und Ort der
     Geschäftsleitung sich innerhalb des Hoheitsgebiets eines dieser
     Staaten befindet, und mit diesen Staaten ein Amtshilfeabkommen
     besteht,
@@ -658,8 +866,43 @@ einer Unterstützungskasse im Sinne des § 5 Abs. 1 Nr. 3 den in
 Buchstabe e dieser Vorschrift bezeichneten Betrag, so ist die Kasse
 steuerpflichtig, soweit ihr Einkommen anteilig auf das übersteigende
 Vermögen entfällt.
-2             Bei der Ermittlung des Einkommens sind
-Vermögensübertragungen an das Trägerunternehmen nicht abziehbar.
+2             Bei der Ermittlung des Einkommens sind Zuwendungen des
+Trägerunternehmens nicht erhöhend und Versorgungsleistungen der Kasse
+sowie Vermögensübertragungen an das Trägerunternehmen nicht mindernd
+zu berücksichtigen.
+
+(5a)
+1             Unterstützungskassen in der Rechtsform der
+Kapitalgesellschaft können bis zum 31. Dezember 2016 auf amtlich
+vorgeschriebenem Vordruck einen positiven Zuwendungsbetrag erklären.
+2             Dieser errechnet sich aus den Zuwendungen des
+Trägerunternehmens in den Veranlagungszeiträumen 2006 bis 2015
+abzüglich der Versorgungsleistungen in diesem Zeitraum, soweit diese
+Zuwendungen und diese Versorgungsleistungen in dem steuerpflichtigen
+Teil des Einkommens der Kasse nach Absatz 5 Satz 1 enthalten waren.
+3             Dabei gelten Versorgungsleistungen in den
+Veranlagungszeiträumen 2006 bis 2015 als vornehmlich aus Zuwendungen
+des Trägerunternehmens in diesem Zeitraum erbracht.
+4             Ab dem Veranlagungszeitraum 2016 mindert sich das
+steuerpflichtige Einkommen der Kasse in Höhe des zum Schluss des
+vorherigen Veranlagungszeitraums festgestellten Betrags nach Satz 6;
+es mindert sich höchstens um einen Betrag in Höhe der im
+Wirtschaftsjahr getätigten Versorgungsleistungen.
+5             Durch die Minderung darf das Einkommen nicht negativ
+werden.
+6             Gesondert festzustellen sind,
+
+1.  der Zuwendungsbetrag auf den 31. Dezember 2015 und
+
+
+2.  der zum 31. Dezember des jeweiligen Folgejahres verbleibende
+    Zuwendungsbetrag, der sich ergibt, wenn vom zum Schluss des Vorjahres
+    festgestellten Betrag der Betrag abgezogen wird, um den sich das
+    steuerpflichtige Einkommen im laufenden Veranlagungszeitraum nach den
+    Sätzen 4 und 5 gemindert hat.
+
+
+
 
 (6)
 1             Auf den Teil des Vermögens einer Pensions-, Sterbe-,
@@ -669,6 +912,12 @@ den in § 5 Abs. 1 Nr. 3 Buchstabe d oder e bezeichneten Betrag
 2             Bei Unterstützungskassen gilt dies auch, soweit das
 Vermögen vor dem Schluss des Wirtschaftsjahrs den in § 5 Abs. 1 Nr. 3
 Buchstabe e bezeichneten Betrag übersteigt.
+
+
+### § 6a Einkommensermittlung bei voll steuerpflichtigen Unterstützungskassen
+
+Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6
+Absatz 5 Satz 2 und Absatz 5a entsprechend anzuwenden.
 
 
 ## Zweiter Teil - Einkommen
@@ -688,10 +937,10 @@ Einkommen.
 1, vermindert um die Freibeträge der §§ 24 und 25.
 
 (3)
-1             Die Körperschaftsteuer ist eine Jahressteuer. Die
-Grundlagen für ihre Festsetzung sind jeweils für ein Kalenderjahr zu
-ermitteln.
-2             Besteht die unbeschränkte oder beschränkte Steuerpflicht
+1             Die Körperschaftsteuer ist eine Jahressteuer.
+2             Die Grundlagen für ihre Festsetzung sind jeweils für ein
+Kalenderjahr zu ermitteln.
+3             Besteht die unbeschränkte oder beschränkte Steuerpflicht
 nicht während eines ganzen Kalenderjahrs, so tritt an die Stelle des
 Kalenderjahrs der Zeitraum der jeweiligen Steuerpflicht.
 
@@ -722,6 +971,16 @@ wirtschaftlichen Verkehr nicht erforderlich.
 Rundfunkanstalten beträgt das Einkommen aus dem Geschäft der
 Veranstaltung von Werbesendungen 16 Prozent der Entgelte (§ 10 Abs. 1
 des Umsatzsteuergesetzes) aus Werbesendungen.
+4             Bei Körperschaften im Sinne des § 1 Absatz 1 mit Sitz im
+Ausland, deren Ort der Geschäftsleitung im Inland belegen ist und die
+nach inländischem Gesellschaftsrecht mangels Rechtsfähigkeit nicht als
+juristische Person zu behandeln sind, sind Leistungen und
+Leistungsversprechen zwischen der Körperschaft und Personen, die aus
+dieser Körperschaft Einkünfte im Sinne des § 20 Absatz 1 Nummer 1 und
+9 des Einkommensteuergesetzes erzielen, für Zwecke der Durchführung
+der Besteuerung mit Ertragsteuern wie Leistungen und
+Leistungsversprechen zwischen einer rechtsfähigen Körperschaft und
+deren Anteilseignern zu behandeln.
 
 (2) Bei unbeschränkt Steuerpflichtigen im Sinne des § 1 Abs. 1 Nr. 1
 bis 3 sind alle Einkünfte als Einkünfte aus Gewerbebetrieb zu
@@ -801,6 +1060,12 @@ der Zusammenfassung erzielt.
 5             Die Einschränkungen der Sätze 2 bis 4 gelten nicht, wenn
 gleichartige Betriebe gewerblicher Art zusammengefasst oder getrennt
 werden.
+6             Kommt es bei einem Betrieb gewerblicher Art, der sich
+durch eine Zusammenfassung ergeben hat, innerhalb eines Zeitraums von
+fünf Jahren nach der Zusammenfassung zur Anwendung des § 3a des
+Einkommensteuergesetzes, ist § 3a Absatz 3 Satz 3 des
+Einkommensteuergesetzes entsprechend auf die in Satz 4 genannten
+Verlustvorträge anzuwenden.
 
 (9)
 1             Wenn für Kapitalgesellschaften Absatz 7 Satz 1 Nr. 2 zur
@@ -852,6 +1117,9 @@ zuzuordnen, in denen keine Dauerverlustgeschäfte ausgeübt werden.
 negative Gesamtbetrag der Einkünfte einer Sparte ist gesondert
 festzustellen; § 10d Absatz 4 des Einkommensteuergesetzes gilt
 entsprechend.
+9             Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes
+sind entsprechend anzuwenden; § 3a Absatz 2 des
+Einkommensteuergesetzes ist für die Kapitalgesellschaft anzuwenden.
 
 (10)
 1             Bei Einkünften aus Kapitalvermögen ist § 2 Absatz 5b des
@@ -872,11 +1140,12 @@ maßgebliche Einkommen tritt.
 Einkommensteuergesetzes und dieses Gesetzes ermittelte Einkommen mit
 Ausnahme der §§ 4h und 10d des Einkommensteuergesetzes und des § 9
 Abs. 1 Nr. 2 dieses Gesetzes.
-3             § 8c gilt für den Zinsvortrag nach § 4h Absatz 1 Satz 5
-des Einkommensteuergesetzes mit der Maßgabe entsprechend, dass stille
-Reserven im Sinne des § 8c Absatz 1 Satz 7 nur zu berücksichtigen
-sind, soweit sie die nach § 8c Absatz 1 Satz 6 abziehbaren nicht
-genutzten Verluste übersteigen.
+3             Die §§ 8c und 8d gelten für den Zinsvortrag nach § 4h
+Absatz 1 Satz 5 des Einkommensteuergesetzes mit der Maßgabe
+entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6
+nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5
+und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste
+übersteigen.
 4             Auf Kapitalgesellschaften, die ihre Einkünfte nach § 2
 Abs. 2 Nr. 2 des Einkommensteuergesetzes ermitteln, ist § 4h des
 Einkommensteuergesetzes sinngemäß anzuwenden.
@@ -922,23 +1191,25 @@ eine diesem nahe stehende Person auslösen.
 1             Bezüge im Sinne des § 20 Abs. 1 Nr. 1, 2, 9 und 10
 Buchstabe a des Einkommensteuergesetzes bleiben bei der Ermittlung des
 Einkommens außer Ansatz.
-2             Satz 1 gilt für sonstige Bezüge im Sinne des § 20 Abs. 1
-Nr. 1 Satz 2 des Einkommensteuergesetzes und der Einnahmen im Sinne
-des § 20 Absatz 1 Nummer 9 Satz 1 zweiter Halbsatz sowie des § 20 Abs.
-1 Nr. 10 Buchstabe a zweiter Halbsatz des Einkommensteuergesetzes nur,
-soweit sie das Einkommen der leistenden Körperschaft nicht gemindert
-haben (§ 8 Abs. 3 Satz 2).
-3             Sind die Bezüge im Sinne des Satzes 1 nach einem
+2             Satz 1 gilt nur, soweit die Bezüge das Einkommen der
+leistenden Körperschaft nicht gemindert haben.
+3             Sofern die Bezüge in einem anderen Staat auf Grund einer
+vom deutschen Recht abweichenden steuerlichen Zurechnung der Anteile
+im Sinne des Satzes 1 einer anderen Person zugerechnet werden, gilt
+Satz 1 nur, soweit das Einkommen der anderen Person oder ihr
+nahestehender Personen nicht niedriger ist als bei einer dem deutschen
+Recht entsprechenden Zurechnung.
+4             Sind die Bezüge im Sinne des Satzes 1 nach einem
 Abkommen zur Vermeidung der Doppelbesteuerung von der
 Bemessungsgrundlage für die Körperschaftsteuer auszunehmen, gilt Satz
 2 ungeachtet des Wortlauts des Abkommens für diese Freistellung
 entsprechend.
-4             Satz 2 gilt nicht, soweit die verdeckte
+5             Satz 2 gilt nicht, soweit die verdeckte
 Gewinnausschüttung das Einkommen einer dem Steuerpflichtigen nahe
 stehenden Person erhöht hat und § 32a des Körperschaftsteuergesetzes
 auf die Veranlagung dieser nahe stehenden Person keine Anwendung
 findet.
-5             Bezüge im Sinne des Satzes 1 sind auch Einnahmen aus der
+6             Bezüge im Sinne des Satzes 1 sind auch Einnahmen aus der
 Veräußerung von Dividendenscheinen und sonstigen Ansprüchen im Sinne
 des § 20 Abs. 2 Satz 1 Nr. 2 Buchstabe a des Einkommensteuergesetzes
 sowie Einnahmen aus der Abtretung von Dividendenansprüchen oder
@@ -951,7 +1222,7 @@ der Veräußerung eines Anteils an einer Körperschaft oder
 Personenvereinigung, deren Leistungen beim Empfänger zu Einnahmen im
 Sinne des § 20 Abs. 1 Nr. 1, 2, 9 und 10 Buchstabe a des
 Einkommensteuergesetzes gehören, oder an einer Organgesellschaft im
-Sinne der §§ 14, 17 oder 18 außer Ansatz.
+Sinne des § 14 oder § 17 außer Ansatz.
 2             Veräußerungsgewinn im Sinne des Satzes 1 ist der Betrag,
 um den der Veräußerungspreis oder der an dessen Stelle tretende Wert
 nach Abzug der Veräußerungskosten den Wert übersteigt, der sich nach
@@ -959,7 +1230,7 @@ den Vorschriften über die steuerliche Gewinnermittlung im Zeitpunkt
 der Veräußerung ergibt (Buchwert).
 3             Satz 1 gilt entsprechend für Gewinne aus der Auflösung
 oder der Herabsetzung des Nennkapitals oder aus dem Ansatz des in § 6
-Abs. 1 Satz 1 Nr. 2 Satz 3 des Einkommensteuergesetzes bezeichneten
+Absatz 1 Nummer 2 Satz 3 des Einkommensteuergesetzes bezeichneten
 Werts.
 4             Die Sätze 1 und 3 gelten nicht, soweit der Anteil in
 früheren Jahren steuerwirksam auf den niedrigeren Teilwert
@@ -994,21 +1265,52 @@ Gewinnminderungen aus dem Rückgriff eines Dritten auf den zu mehr als
 einem Viertel am Grund- oder Stammkapital beteiligten Gesellschafter
 oder eine diesem nahestehende Person auf Grund eines der Gesellschaft
 gewährten Darlehens.
-6             Die Sätze 4 und 5 sind nicht anzuwenden, wenn
+6             Währungskursverluste gelten nicht als Gewinnminderungen
+im Sinne der Sätze 4 und 5.
+7             Die Sätze 4 und 5 sind nicht anzuwenden, wenn
 nachgewiesen wird, dass auch ein fremder Dritter das Darlehen bei
 sonst gleichen Umständen gewährt oder noch nicht zurückgefordert
 hätte; dabei sind nur die eigenen Sicherungsmittel der Gesellschaft zu
 berücksichtigen.
-7             Die Sätze 4 bis 6 gelten entsprechend für Forderungen
+8             Die Sätze 4 bis 7 gelten entsprechend für Forderungen
 aus Rechtshandlungen, die einer Darlehensgewährung wirtschaftlich
 vergleichbar sind.
-8             Gewinne aus dem Ansatz einer Darlehensforderung mit dem
+9             Gewinne aus dem Ansatz einer Darlehensforderung mit dem
 nach § 6 Abs. 1 Nr. 2 Satz 3 des Einkommensteuergesetzes maßgeblichen
 Wert bleiben bei der Ermittlung des Einkommens außer Ansatz, soweit
 auf die vorangegangene Teilwertabschreibung Satz 3 angewendet worden
 ist.
 
-(4) (weggefallen)
+(4)
+1             Bezüge im Sinne des Absatzes 1 sind abweichend von
+Absatz 1 Satz 1 bei der Ermittlung des Einkommens zu berücksichtigen,
+wenn die Beteiligung zu Beginn des Kalenderjahres unmittelbar weniger
+als 10 Prozent des Grund- oder Stammkapitals betragen hat; ist ein
+Grund- oder Stammkapital nicht vorhanden, ist die Beteiligung an dem
+Vermögen, bei Genossenschaften die Beteiligung an der Summe der
+Geschäftsguthaben, maßgebend.
+2             Für die Bemessung der Höhe der Beteiligung ist § 13
+Absatz 2 Satz 2 des Umwandlungssteuergesetzes nicht anzuwenden.
+3             Überlässt eine Körperschaft Anteile an einen anderen und
+hat der andere diese oder gleichartige Anteile zurückzugeben, werden
+die Anteile für die Ermittlung der Beteiligungsgrenze der
+überlassenden Körperschaft zugerechnet.
+4             Beteiligungen über eine Mitunternehmerschaft sind dem
+Mitunternehmer anteilig zuzurechnen; § 15 Absatz 1 Satz 1 Nummer 2
+Satz 2 des Einkommensteuergesetzes gilt sinngemäß.
+5             Eine dem Mitunternehmer nach Satz 4 zugerechnete
+Beteiligung gilt für die Anwendung dieses Absatzes als unmittelbare
+Beteiligung.
+6             Für Zwecke dieses Absatzes gilt der Erwerb einer
+Beteiligung von mindestens 10 Prozent als zu Beginn des Kalenderjahres
+erfolgt.
+7             Absatz 5 ist auf Bezüge im Sinne des Satzes 1 nicht
+anzuwenden.
+8             Beteiligungen von Kreditinstituten im Sinne des § 1
+Absatz 1 Satz 1 des Kreditwesengesetzes, die Mitglied einer
+kreditwirtschaftlichen Verbundgruppe im Sinne des § 2 Absatz 1 Nummer
+13 des Zahlungsdiensteaufsichtsgesetzes sind, an anderen Unternehmen
+und Einrichtungen dieser Verbundgruppe sind zusammenzurechnen.
 
 (5)
 1             Von den Bezügen im Sinne des Absatzes 1, die bei der
@@ -1035,15 +1337,14 @@ Gewinnminderungen entsprechend.
 
 (7)
 1             Die Absätze 1 bis 6 sind nicht auf Anteile anzuwenden,
-die bei Kreditinstituten und Finanzdienstleistungsinstituten nach § 1a
-des Kreditwesengesetzes dem Handelsbuch zuzurechnen sind.
-2             Gleiches gilt für Anteile, die von Finanzunternehmen im
-Sinne des Gesetzes über das Kreditwesen mit dem Ziel der kurzfristigen
-Erzielung eines Eigenhandelserfolges erworben werden.
-3             Satz 2 gilt auch für Kreditinstitute,
-Finanzdienstleistungsinstitute und Finanzunternehmen mit Sitz in einem
-anderen Mitgliedstaat der Europäischen Gemeinschaft oder in einem
-anderen Vertragsstaat des EWR-Abkommens.
+die bei Kreditinstituten, Wertpapierinstituten und
+Finanzdienstleistungsinstituten dem Handelsbestand im Sinne des § 340e
+Absatz 3 des Handelsgesetzbuchs zuzuordnen sind.
+2             Gleiches gilt für Anteile, die bei Finanzunternehmen im
+Sinne des Kreditwesengesetzes, an denen Kreditinstitute,
+Wertpapierinstitute oder Finanzdienstleistungsinstitute unmittelbar
+oder mittelbar zu mehr als 50 Prozent beteiligt sind, zum Zeitpunkt
+des Zugangs zum Betriebsvermögen als Umlaufvermögen auszuweisen sind.
 
 (8)
 1             Die Absätze 1 bis 7 sind nicht anzuwenden auf Anteile,
@@ -1070,23 +1371,22 @@ zu Grunde gelegt wurden.
 
 (9) Die Absätze 7 und 8 gelten nicht für Bezüge im Sinne des Absatzes
 1, auf die die Mitgliedstaaten der Europäischen Union Artikel 4 Abs. 1
-der Richtlinie 90/435/EWG des Rates vom 23. Juli 1990 über das
+der Richtlinie 2011/96/EU des Rates vom 30. November 2011 über das
 gemeinsame Steuersystem der Mutter- und Tochtergesellschaften
-verschiedener Mitgliedstaaten (ABl. EG Nr. L 225 S. 6, Nr. L 266 S.
-20, 1997 Nr. L 16 S. 98), zuletzt geändert durch die Richtlinie
-2003/123/EG des Rates vom 22. Dezember 2003 (ABl. EU 2004 Nr. L 7 S.
-41), anzuwenden haben.
+verschiedener Mitgliedstaaten (ABl. L 345 vom 29.12.2011, S. 8),
+anzuwenden haben.
 
 (10)
 1             Überlässt eine Körperschaft (überlassende Körperschaft)
-Anteile, auf die bei ihr Absatz 7 oder 8 anzuwenden ist oder auf die
-bei ihr aus anderen Gründen die Steuerfreistellungen der Absätze 1 und
-2 oder vergleichbare ausländische Vorschriften nicht anzuwenden sind,
-an eine andere Körperschaft, bei der auf die Anteile Absatz 7 oder 8
-nicht anzuwenden ist, und hat die andere Körperschaft, der die Anteile
-zuzurechnen sind, diese oder gleichartige Anteile zurückzugeben,
-dürfen die für die Überlassung gewährten Entgelte bei der anderen
-Körperschaft nicht als Betriebsausgabe abgezogen werden.
+Anteile, auf die bei ihr Absatz 4, 7 oder 8 anzuwenden ist oder auf
+die bei ihr aus anderen Gründen die Steuerfreistellungen der Absätze 1
+und 2 oder vergleichbare ausländische Vorschriften nicht anzuwenden
+sind, an eine Körperschaft (andere Körperschaft), bei der auf die
+Anteile Absatz 4, 7 oder 8 nicht anzuwenden ist, und hat die andere
+Körperschaft, der die Anteile zuzurechnen sind, diese oder
+gleichartige Anteile zurückzugeben, dürfen die für die Überlassung
+gewährten Entgelte bei der anderen Körperschaft nicht als
+Betriebsausgabe abgezogen werden.
 2             Überlässt die andere Körperschaft für die Überlassung
 der Anteile Wirtschaftsgüter an die überlassende Körperschaft, aus
 denen diese Einnahmen oder Bezüge erzielt, gelten diese Einnahmen oder
@@ -1095,77 +1395,92 @@ die Überlassung an die überlassende Körperschaft gewährt.
 3             Absatz 3 Satz 1 und 2 sowie Absatz 5 sind nicht
 anzuwenden.
 4             Die Sätze 1 bis 3 gelten auch für
-Wertpapierpensionsgeschäfte im Sinne des § 340b Abs. 2 des
+Wertpapierpensionsgeschäfte im Sinne des § 340b Absatz 2 des
 Handelsgesetzbuchs.
 5             Die Sätze 1 bis 4 gelten nicht, wenn die andere
 Körperschaft keine Einnahmen oder Bezüge aus den ihr überlassenen
 Anteilen erzielt.
-6             Die Sätze 1 bis 5 gelten entsprechend, wenn die Anteile
+6             Zu den Einnahmen und Bezügen aus den überlassenen
+Anteilen im Sinne des Satzes 5 gehören auch Entgelte, die die andere
+Körperschaft dafür erhält, dass sie die entliehenen Wertpapiere
+weiterverleiht.
+7             Die Sätze 1 bis 6 gelten entsprechend, wenn die Anteile
 an eine Personengesellschaft oder von einer Personengesellschaft
 überlassen werden, an der die überlassende oder die andere
 Körperschaft unmittelbar oder mittelbar über eine Personengesellschaft
 oder mehrere Personengesellschaften beteiligt ist.
-7             In diesen Fällen gelten die Anteile als an die
+8             In diesen Fällen gelten die Anteile als an die
 Körperschaft oder von der Körperschaft überlassen.
-8             Die Sätze 1 bis 7 gelten nicht, soweit § 2 Nr. 2 zweiter
-Halbsatz oder § 5 Abs. 2 Nr. 1 zweiter Halbsatz auf die überlassende
-Körperschaft Anwendung findet.
-9             Als Anteil im Sinne der Sätze 1 bis 8 gilt auch der
-Investmentanteil im Sinne von § 1 Abs. 1 des Investmentsteuergesetzes
-vom 15. Dezember 2003 (BGBl. I S. 2676, 2724), das zuletzt durch
-Artikel 23 des Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150)
-geändert worden ist, in der jeweils geltenden Fassung, soweit daraus
-Einnahmen erzielt werden, auf die § 8b anzuwenden ist.
+9             Die Sätze 1 bis 8 gelten entsprechend, wenn Anteile, die
+die Voraussetzungen des Absatzes 7 erfüllen, von einer
+Personengesellschaft überlassen werden.
+10             Die Sätze 1 bis 8 gelten nicht, soweit § 2 Nummer 2
+zweiter Halbsatz oder § 5 Absatz 2 Nummer 1 zweiter Halbsatz auf die
+überlassende Körperschaft Anwendung findet.
+11             Als Anteil im Sinne der Sätze 1 bis 10 gilt auch der
+Anteil im Sinne von § 2 Absatz 4 des Investmentsteuergesetzes vom 19.
+Juli 2016 (BGBl. I S. 1730), das zuletzt durch Artikel 10 des Gesetzes
+vom 23. Juni 2017 (BGBl. I S. 1682) geändert worden ist, in der
+jeweils geltenden Fassung, soweit daraus Einnahmen erzielt werden, auf
+die § 8b anzuwenden ist.
+
+(11) Die Absätze 1 bis 10 sind nicht anzuwenden bei Anteilen an
+Unterstützungskassen.
 
 
 #### § 8c Verlustabzug bei Körperschaften
 
 (1)
 1             Werden innerhalb von fünf Jahren mittelbar oder
-unmittelbar mehr als 25 Prozent des gezeichneten Kapitals, der
-Mitgliedschaftsrechte, Beteiligungsrechte oder der Stimmrechte an
+unmittelbar mehr als 50 Prozent des gezeichneten Kapitals, der
+Mitgliedschaftsrechte, der Beteiligungsrechte oder der Stimmrechte an
 einer Körperschaft an einen Erwerber oder diesem nahe stehende
 Personen übertragen oder liegt ein vergleichbarer Sachverhalt vor
-(schädlicher Beteiligungserwerb), sind insoweit die bis zum
-schädlichen Beteiligungserwerb nicht ausgeglichenen oder abgezogenen
-negativen Einkünfte (nicht genutzte Verluste) nicht mehr abziehbar.
-2             Unabhängig von Satz 1 sind bis zum schädlichen
-Beteiligungserwerb nicht genutzte Verluste vollständig nicht mehr
-abziehbar, wenn innerhalb von fünf Jahren mittelbar oder unmittelbar
-mehr als 50 Prozent des gezeichneten Kapitals, der
-Mitgliedschaftsrechte, Beteiligungsrechte oder der Stimmrechte an
-einer Körperschaft an einen Erwerber oder diesem nahe stehende
-Personen übertragen werden oder ein vergleichbarer Sachverhalt
-vorliegt.
-3             Als ein Erwerber im Sinne der Sätze 1 und 2 gilt auch
-eine Gruppe von Erwerbern mit gleichgerichteten Interessen.
-4             Eine Kapitalerhöhung steht der Übertragung des
+(schädlicher Beteiligungserwerb), sind bis zum schädlichen
+Beteiligungserwerb nicht ausgeglichene oder abgezogene negative
+Einkünfte (nicht genutzte Verluste) vollständig nicht mehr abziehbar.
+2             Als ein Erwerber im Sinne des Satzes 1 gilt auch eine
+Gruppe von Erwerbern mit gleichgerichteten Interessen.
+3             Eine Kapitalerhöhung steht der Übertragung des
 gezeichneten Kapitals gleich, soweit sie zu einer Veränderung der
 Beteiligungsquoten am Kapital der Körperschaft führt.
-5             Ein schädlicher Beteiligungserwerb liegt nicht vor, wenn
-an dem übertragenden und an dem übernehmenden Rechtsträger dieselbe
-Person zu jeweils 100 Prozent mittelbar oder unmittelbar beteiligt
-ist.
-6             Ein nicht abziehbarer nicht genutzter Verlust kann
-abweichend von den Sätzen 1 und 2 abgezogen werden, soweit er bei
-einem schädlichen Beteiligungserwerb im Sinne des Satzes 1 die
-anteiligen und bei einem schädlichen Beteiligungserwerb im Sinne des
-Satzes 2 die gesamten zum Zeitpunkt des schädlichen
-Beteiligungserwerbs vorhandenen im Inland steuerpflichtigen stillen
-Reserven des Betriebsvermögens der Körperschaft nicht übersteigt.
-7             Stille Reserven im Sinne des Satzes 6 sind der
-Unterschiedsbetrag zwischen dem anteiligen oder bei einem schädlichen
-Beteiligungserwerb im Sinne des Satzes 2 dem gesamten in der
-steuerlichen Gewinnermittlung ausgewiesenen Eigenkapital und dem auf
-dieses Eigenkapital jeweils entfallenden gemeinen Wert der Anteile an
-der Körperschaft, soweit diese im Inland steuerpflichtig sind.
-8             Ist das Eigenkapital der Körperschaft negativ, sind
-stille Reserven im Sinne des Satzes 6 der Unterschiedsbetrag zwischen
-dem anteiligen oder bei einem schädlichen Beteiligungserwerb im Sinne
-des Satzes 2 dem gesamten in der steuerlichen Gewinnermittlung
-ausgewiesenen Eigenkapital und dem diesem Anteil entsprechenden
-gemeinen Wert des Betriebsvermögens der Körperschaft.
-9             Bei der Ermittlung der stillen Reserven ist nur das
+4             Ein schädlicher Beteiligungserwerb liegt nicht vor, wenn
+
+1.  an dem übertragenden Rechtsträger der Erwerber zu 100 Prozent
+    mittelbar oder unmittelbar beteiligt ist und der Erwerber eine
+    natürliche oder juristische Person oder eine
+    Personenhandelsgesellschaft ist,
+
+
+2.  an dem übernehmenden Rechtsträger der Veräußerer zu 100 Prozent
+    mittelbar oder unmittelbar beteiligt ist und der Veräußerer eine
+    natürliche oder juristische Person oder eine
+    Personenhandelsgesellschaft ist oder
+
+
+3.  an dem übertragenden und an dem übernehmenden Rechtsträger dieselbe
+    natürliche oder juristische Person oder dieselbe
+    Personenhandelsgesellschaft zu jeweils 100 Prozent mittelbar oder
+    unmittelbar beteiligt ist.
+
+
+
+5             Ein nicht abziehbarer nicht genutzter Verlust kann
+abweichend von Satz 1 abgezogen werden, soweit er die gesamten zum
+Zeitpunkt des schädlichen Beteiligungserwerbs vorhandenen im Inland
+steuerpflichtigen stillen Reserven des Betriebsvermögens der
+Körperschaft nicht übersteigt.
+6             Stille Reserven im Sinne des Satzes 5 sind der
+Unterschiedsbetrag zwischen dem in der steuerlichen Gewinnermittlung
+ausgewiesenen Eigenkapital und dem auf dieses Eigenkapital jeweils
+entfallenden gemeinen Wert der Anteile an der Körperschaft, soweit
+diese im Inland steuerpflichtig sind.
+7             Ist das Eigenkapital der Körperschaft negativ, sind
+stille Reserven im Sinne des Satzes 5 der Unterschiedsbetrag zwischen
+dem in der steuerlichen Gewinnermittlung ausgewiesenen Eigenkapital
+und dem diesem Anteil entsprechenden gemeinen Wert des
+Betriebsvermögens der Körperschaft.
+8             Bei der Ermittlung der stillen Reserven ist nur das
 Betriebsvermögen zu berücksichtigen, das der Körperschaft ohne
 steuerrechtliche Rückwirkung, insbesondere ohne Anwendung des § 2
 Absatz 1 des Umwandlungssteuergesetzes, zuzurechnen ist.
@@ -1188,7 +1503,8 @@ voraus, dass
 2.  die Summe der maßgebenden jährlichen Lohnsummen der Körperschaft
     innerhalb von fünf Jahren nach dem Beteiligungserwerb 400 Prozent der
     Ausgangslohnsumme nicht unterschreitet; § 13a Absatz 1 Satz 3 und 4
-    und Absatz 4 des Erbschaftsteuer- und Schenkungsteuergesetzes gilt
+    und Absatz 4 des Erbschaftsteuer- und Schenkungsteuergesetzes in der
+    Fassung des Gesetzes vom 24. Dezember 2008 (BGBl. I S. 3018) gilt
     sinngemäß; oder
 
 
@@ -1218,10 +1534,92 @@ Geschäftsbetrieb im Zeitpunkt des Beteiligungserwerbs im Wesentlichen
 eingestellt hat oder nach dem Beteiligungserwerb ein Branchenwechsel
 innerhalb eines Zeitraums von fünf Jahren erfolgt.
 
+(2) § 3a Absatz 3 des Einkommensteuergesetzes ist auf verbleibende
+nicht genutzte Verluste anzuwenden, die sich nach einer Anwendung des
+Absatzes 1 ergeben.
+
+
+#### § 8d Fortführungsgebundener Verlustvortrag
+
+
+(1)
+1             § 8c ist nach einem schädlichen Beteiligungserwerb auf
+Antrag nicht anzuwenden, wenn die Körperschaft seit ihrer Gründung
+oder zumindest seit dem Beginn des dritten Veranlagungszeitraums, der
+dem Veranlagungszeitraum nach Satz 5 vorausgeht, ausschließlich
+denselben Geschäftsbetrieb unterhält und in diesem Zeitraum bis zum
+Schluss des Veranlagungszeitraums des schädlichen Beteiligungserwerbs
+kein Ereignis im Sinne von Absatz 2 stattgefunden hat.
+2             Satz 1 gilt nicht:
+
+1.  für Verluste aus der Zeit vor einer Einstellung oder Ruhendstellung
+    des Geschäftsbetriebs oder
+
+
+2.  wenn die Körperschaft zu Beginn des dritten Veranlagungszeitraums, der
+    dem Veranlagungszeitraum nach Satz 5 vorausgeht, Organträger oder an
+    einer Mitunternehmerschaft beteiligt ist.
+
+
+
+3             Ein Geschäftsbetrieb umfasst die von einer einheitlichen
+Gewinnerzielungsabsicht getragenen, nachhaltigen, sich gegenseitig
+ergänzenden und fördernden Betätigungen der Körperschaft und bestimmt
+sich nach qualitativen Merkmalen in einer Gesamtbetrachtung.
+4             Qualitative Merkmale sind insbesondere die angebotenen
+Dienstleistungen oder Produkte, der Kunden- und Lieferantenkreis, die
+bedienten Märkte und die Qualifikation der Arbeitnehmer.
+5             Der Antrag ist in der Steuererklärung für die
+Veranlagung des Veranlagungszeitraums zu stellen, in den der
+schädliche Beteiligungserwerb fällt.
+6             Der Verlustvortrag, der zum Schluss des
+Veranlagungszeitraums verbleibt, in den der schädliche
+Beteiligungserwerb fällt, wird zum fortführungsgebundenen Verlust
+(fortführungsgebundener Verlustvortrag).
+7             Dieser ist gesondert auszuweisen und festzustellen; §
+10d Absatz 4 des Einkommensteuergesetzes gilt entsprechend.
+8             Der fortführungsgebundene Verlustvortrag ist vor dem
+nach § 10d Absatz 4 des Einkommensteuergesetzes festgestellten
+Verlustvortrag abzuziehen.
+9             Satz 8 gilt bei Anwendung des § 3a Absatz 3 des
+Einkommensteuergesetzes entsprechend.
+
+(2)
+1             Wird der Geschäftsbetrieb im Sinne des Absatzes 1
+eingestellt, geht der nach Absatz 1 zuletzt festgestellte
+fortführungsgebundene Verlustvortrag unter; § 8c Absatz 1 Satz 5 bis 8
+gilt bezogen auf die zum Schluss des vorangegangenen
+Veranlagungszeitraums vorhandenen stillen Reserven entsprechend.
+2             Gleiches gilt, wenn
+
+1.  der Geschäftsbetrieb ruhend gestellt wird,
+
+
+2.  der Geschäftsbetrieb einer andersartigen Zweckbestimmung zugeführt
+    wird,
+
+
+3.  die Körperschaft einen zusätzlichen Geschäftsbetrieb aufnimmt,
+
+
+4.  die Körperschaft sich an einer Mitunternehmerschaft beteiligt,
+
+
+5.  die Körperschaft die Stellung eines Organträgers im Sinne des § 14
+    Absatz 1 einnimmt oder
+
+
+6.  auf die Körperschaft Wirtschaftsgüter übertragen werden, die sie zu
+    einem geringeren als dem gemeinen Wert ansetzt.
+
+
+
+
 
 #### § 9 Abziehbare Aufwendungen
 
-(1) Abziehbare Aufwendungen sind auch:
+(1)
+1             Abziehbare Aufwendungen sind auch:
 
 1.  bei Kommanditgesellschaften auf Aktien und bei vergleichbaren
     Kapitalgesellschaften der Teil des Gewinns, der an persönlich haftende
@@ -1268,15 +1666,8 @@ innerhalb eines Zeitraums von fünf Jahren erfolgt.
     nach Satz 2 ist weitere Voraussetzung, dass durch diese Staaten
     Amtshilfe und Unterstützung bei der Beitreibung geleistet werden.
     4                   Amtshilfe ist der Auskunftsaustausch im Sinne oder
-    entsprechend der Richtlinie 77/799/EWG des Rates vom 19. Dezember 1977
-    über die gegenseitige Amtshilfe zwischen den zuständigen Behörden der
-    Mitgliedstaaten im Bereich der direkten Steuern und der Mehrwertsteuer
-    (ABl. L 336 vom 27.12.1977, S. 15), die zuletzt durch die Richtlinie
-    2006/98/EG (ABl. L 363 vom 20.12.2006, S. 129) geändert worden ist,
-    einschließlich der in diesem Zusammenhang anzuwendenden
-    Durchführungsbestimmungen in den für den jeweiligen
-    Veranlagungszeitraum geltenden Fassungen oder eines entsprechenden
-    Nachfolgerechtsaktes.
+    entsprechend der Amtshilferichtlinie gemäß § 2 Absatz 2 des EU-
+    Amtshilfegesetzes.
     5                   Beitreibung ist die gegenseitige Unterstützung bei
     der Beitreibung von Forderungen im Sinne oder entsprechend der
     Beitreibungsrichtlinie einschließlich der in diesem Zusammenhang
@@ -1297,24 +1688,33 @@ innerhalb eines Zeitraums von fünf Jahren erfolgt.
     Satz 8 Nummer 2 handelt, auch wenn den Mitgliedern Vergünstigungen
     gewährt werden.
     8                   Nicht abziehbar sind Mitgliedsbeiträge an
-    Körperschaften, die
+    Körperschaften,
 
-    1.  den Sport (§ 52 Abs. 2 Nr. 21 der Abgabenordnung),
-
-
-    2.  kulturelle Betätigungen, die in erster Linie der Freizeitgestaltung
-        dienen,
+    1.  die den Sport (§ 52 Absatz 2 Satz 1 Nummer 21 der Abgabenordnung),
 
 
-    3.  die Heimatpflege und Heimatkunde (§ 52 Abs. 2 Nr. 22 der
-        Abgabenordnung) oder
+    2.  die kulturelle Betätigungen, die in erster Linie der
+        Freizeitgestaltung dienen,
 
 
-    4.  Zwecke im Sinne des § 52 Abs. 2 Nr. 23 der Abgabenordnung
+    3.  die die Heimatpflege und Heimatkunde (§ 52 Absatz 2 Satz 1 Nummer 22
+        der Abgabenordnung),
+
+
+    4.  die Zwecke im Sinne des § 52 Absatz 2 Satz 1 Nummer 23 der
+        Abgabenordnung
 
 
 
-    fördern.
+    fördern oder
+
+    5.  deren Zweck nach § 52 Absatz 2 Satz 2 der Abgabenordnung für
+        gemeinnützig erklärt worden ist, weil deren Zweck die Allgemeinheit
+        auf materiellem, geistigem oder sittlichem Gebiet entsprechend einem
+        Zweck nach den Nummern 1 bis 4 fördert.
+
+
+
 
     9                   Abziehbare Zuwendungen, die die Höchstbeträge nach
     Satz 1 überschreiten, sind im Rahmen der Höchstbeträge in den
@@ -1349,10 +1749,10 @@ dass er die Bestätigung durch unlautere Mittel oder falsche Angaben
 erwirkt hat oder dass ihm die Unrichtigkeit der Bestätigung bekannt
 oder infolge grober Fahrlässigkeit nicht bekannt war.
 2             Wer vorsätzlich oder grob fahrlässig eine unrichtige
-Bestätigung ausstellt oder wer veranlasst, dass Zuwendungen nicht zu
-den in der Bestätigung angegebenen steuerbegünstigten Zwecken
-verwendet werden (Veranlasserhaftung), haftet für die entgangene
-Steuer; diese ist mit 30 Prozent des zugewendeten Betrags anzusetzen.
+Bestätigung ausstellt oder veranlasst, dass Zuwendungen nicht zu den
+in der Bestätigung angegebenen steuerbegünstigten Zwecken verwendet
+werden (Veranlasserhaftung), haftet für die entgangene Steuer; diese
+ist mit 30 Prozent des zugewendeten Betrags anzusetzen.
 3             In den Fällen der Veranlasserhaftung ist vorrangig der
 Zuwendungsempfänger in Anspruch zu nehmen; die natürlichen Personen,
 die in diesen Fällen für den Zuwendungsempfänger handeln, sind nur in
@@ -1384,12 +1784,13 @@ Nichtabziehbar sind auch:
     Rechtsfolgen vermögensrechtlicher Art, bei denen der Strafcharakter
     überwiegt, und Leistungen zur Erfüllung von Auflagen oder Weisungen,
     soweit die Auflagen oder Weisungen nicht lediglich der
-    Wiedergutmachung des durch die Tat verursachten Schadens dienen,
+    Wiedergutmachung des durch die Tat verursachten Schadens dienen, sowie
+    damit zusammenhängende Aufwendungen,
 
 
 4.  die Hälfte der Vergütungen jeder Art, die an Mitglieder des
-    Aufsichtsrats, Verwaltungsrats, Grubenvorstands oder andere mit der
-    Überwachung der Geschäftsführung beauftragte Personen gewährt werden.
+    Aufsichtsrats, Verwaltungsrats oder andere mit der Überwachung der
+    Geschäftsführung beauftragte Personen gewährt werden.
 
 
 
@@ -1438,7 +1839,7 @@ Insolvenzverfahren eröffnet worden ist, sind die Absätze 1 bis 6
 sinngemäß anzuwenden.
 
 
-#### § 12 Verlust oder Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland
+#### § 12 Entstrickungs- und Wegzugsbesteuerung
 
 (1)
 1             Wird bei der Körperschaft, Personenvereinigung oder
@@ -1455,57 +1856,28 @@ inländischen Betriebsstätte einer Körperschaft, Personenvereinigung
 oder Vermögensmasse zuzuordnendes Wirtschaftsgut einer ausländischen
 Betriebsstätte dieser Körperschaft, Personenvereinigung oder
 Vermögensmasse zuzuordnen ist.
+3             Entfällt die Beschränkung des Besteuerungsrechts der
+Bundesrepublik Deutschland hinsichtlich des Gewinns aus der
+Veräußerung eines Wirtschaftsguts und erfolgt in einem anderen Staat
+eine Besteuerung auf Grund des Ausschlusses oder der Beschränkung des
+Besteuerungsrechts dieses Staates hinsichtlich des Gewinns aus der
+Veräußerung des Wirtschaftsguts, gilt dies auf Antrag als Veräußerung
+und Anschaffung des Wirtschaftsguts zu dem Wert, den der andere Staat
+der Besteuerung zugrunde legt, höchstens zum gemeinen Wert.
 
-(2)
-1             Wird das Vermögen einer beschränkt steuerpflichtigen
-Körperschaft, Personenvereinigung oder Vermögensmasse als Ganzes auf
-eine andere Körperschaft desselben ausländischen Staates durch einen
-Vorgang übertragen, der einer Verschmelzung im Sinne des § 2 des
-Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210, 1995 I S.
-428), das zuletzt durch Artikel 10 des Gesetzes vom 9. Dezember 2004
-(BGBl. I S. 3214) geändert worden ist, in der jeweils geltenden
-Fassung vergleichbar ist, sind die übergehenden Wirtschaftsgüter
-abweichend von Absatz 1 mit dem Buchwert anzusetzen, soweit
+(1a) § 4 Absatz 1 Satz 3 zweiter Halbsatz, Satz 8 zweiter Halbsatz,
+Satz 9 und Satz 10 des Einkommensteuergesetzes gilt im Fall der
+Begründung des Besteuerungsrechts oder des Wegfalls einer Beschränkung
+des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des
+Gewinns aus der Veräußerung eines Wirtschaftsguts, das der
+außerbetrieblichen Sphäre einer Körperschaft, Personenvereinigung oder
+Vermögensmasse zuzuordnen ist, entsprechend.
 
-1.  sichergestellt ist, dass sie später bei der übernehmenden Körperschaft
-    der Besteuerung mit Körperschaftsteuer unterliegen,
+(2) (weggefallen)
 
+(3) (weggefallen)
 
-2.  das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung
-    der übertragenen Wirtschaftsgüter bei der übernehmenden Körperschaft
-    nicht beschränkt wird,
-
-
-3.  eine Gegenleistung nicht gewährt wird oder in Gesellschaftsrechten
-    besteht und
-
-
-4.  wenn der übernehmende und der übertragende Rechtsträger nicht die
-    Voraussetzungen des § 1 Abs. 2 Satz 1 und 2 des
-    Umwandlungssteuergesetzes vom 7. Dezember 2006 (BGBl. I S. 2782, 2791)
-    in der jeweils geltenden Fassung erfüllen.
-
-
-
-2             Wird das Vermögen einer Körperschaft durch einen Vorgang
-im Sinne des Satzes 1 auf eine andere Körperschaft übertragen, gilt §
-13 des Umwandlungssteuergesetzes für die Besteuerung der Anteilseigner
-der übertragenden Körperschaft entsprechend.
-
-(3)
-1             Verlegt eine Körperschaft, Vermögensmasse oder
-Personenvereinigung ihre Geschäftsleitung oder ihren Sitz und scheidet
-sie dadurch aus der unbeschränkten Steuerpflicht in einem
-Mitgliedstaat der Europäischen Union oder einem Staat aus, auf den das
-Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, gilt
-sie als aufgelöst, und § 11 ist entsprechend anzuwenden.
-2             Gleiches gilt, wenn die Körperschaft, Vermögensmasse
-oder Personenvereinigung auf Grund eines Abkommens zur Vermeidung der
-Doppelbesteuerung infolge der Verlegung ihres Sitzes oder ihrer
-Geschäftleitung als außerhalb des Hoheitsgebietes der in Satz 1
-genannten Staaten ansässig anzusehen ist.
-3             An die Stelle des zur Verteilung kommenden Vermögens
-tritt der gemeine Wert des vorhandenen Vermögens.
+(4) (weggefallen)
 
 
 #### § 13 Beginn und Erlöschen einer Steuerbefreiung
@@ -1528,8 +1900,8 @@ vorbehaltlich des Absatzes 4 mit den Teilwerten anzusetzen.
 (4)
 1             Beginnt die Steuerbefreiung auf Grund des § 5 Abs. 1 Nr.
 9, sind die Wirtschaftsgüter, die der Förderung steuerbegünstigter
-Zwecke im Sinne des § 9 Abs. 1 Nr. 2 dienen, in der Schlussbilanz mit
-den Buchwerten anzusetzen.
+Zwecke im Sinne der §§ 52 bis 54 der Abgabenordnung dienen, in der
+Schlussbilanz mit den Buchwerten anzusetzen.
 2             Erlischt die Steuerbefreiung, so ist in der
 Anfangsbilanz für die in Satz 1 bezeichneten Wirtschaftsgüter der Wert
 anzusetzen, der sich bei ununterbrochener Steuerpflicht nach den
@@ -1561,13 +1933,14 @@ Absatzes 4 Satz 1.
 (1)
 1             Verpflichtet sich eine Europäische Gesellschaft,
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien mit
-Geschäftsleitung und Sitz im Inland (Organgesellschaft) durch einen
-Gewinnabführungsvertrag im Sinne des § 291 Abs. 1 des Aktiengesetzes,
-ihren ganzen Gewinn an ein einziges anderes gewerbliches Unternehmen
-abzuführen, so ist das Einkommen der Organgesellschaft, soweit sich
-aus § 16 nichts anderes ergibt, dem Träger des Unternehmens
-(Organträger) zuzurechnen, wenn die folgenden Voraussetzungen erfüllt
-sind:
+Geschäftsleitung im Inland und Sitz in einem Mitgliedstaat der
+Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens
+(Organgesellschaft) durch einen Gewinnabführungsvertrag im Sinne des §
+291 Abs. 1 des Aktiengesetzes, ihren ganzen Gewinn an ein einziges
+anderes gewerbliches Unternehmen abzuführen, ist das Einkommen der
+Organgesellschaft, soweit sich aus § 16 nichts anderes ergibt, dem
+Träger des Unternehmens (Organträger) zuzurechnen, wenn die folgenden
+Voraussetzungen erfüllt sind:
 
 1.  1                   Der Organträger muss an der Organgesellschaft vom
     Beginn ihres Wirtschaftsjahrs an ununterbrochen in einem solchen Maße
@@ -1578,27 +1951,76 @@ sind:
     der Stimmrechte gewährt.
 
 
-2.  1                   Der Organträger muss eine unbeschränkt
-    steuerpflichtige natürliche Person oder eine nicht steuerbefreite
-    Körperschaft, Personenvereinigung oder Vermögensmasse im Sinne des § 1
-    mit Geschäftsleitung im Inland sein.
+2.  1                   Organträger muss eine natürliche Person oder eine
+    nicht von der Körperschaftsteuer befreite Körperschaft,
+    Personenvereinigung oder Vermögensmasse sein.
     2                   Organträger kann auch eine Personengesellschaft im
-    Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes mit
-    Geschäftsleitung im Inland sein, wenn sie eine Tätigkeit im Sinne des
-    § 15 Abs. 1 Nr. 1 des Einkommensteuergesetzes ausübt.
+    Sinne des § 15 Absatz 1 Satz 1 Nummer 2 des Einkommensteuergesetzes
+    sein, wenn sie eine Tätigkeit im Sinne des § 15 Absatz 1 Satz 1 Nummer
+    1 des Einkommensteuergesetzes ausübt.
     3                   Die Voraussetzung der Nummer 1 muss im Verhältnis
     zur Personengesellschaft selbst erfüllt sein.
+    4                   Die Beteiligung im Sinne der Nummer 1 an der
+    Organgesellschaft oder, bei mittelbarer Beteiligung an der
+    Organgesellschaft, die Beteiligung im Sinne der Nummer 1 an der
+    vermittelnden Gesellschaft, muss ununterbrochen während der gesamten
+    Dauer der Organschaft einer inländischen Betriebsstätte im Sinne des §
+    12 der Abgabenordnung des Organträgers zuzuordnen sein.
+    5                   Ist der Organträger mittelbar über eine oder
+    mehrere Personengesellschaften an der Organgesellschaft beteiligt,
+    gilt Satz 4 sinngemäß.
+    6                   Das Einkommen der Organgesellschaft ist der
+    inländischen Betriebsstätte des Organträgers zuzurechnen, der die
+    Beteiligung im Sinne der Nummer 1 an der Organgesellschaft oder, bei
+    mittelbarer Beteiligung an der Organgesellschaft, die Beteiligung im
+    Sinne der Nummer 1 an der vermittelnden Gesellschaft zuzuordnen ist.
+    7                   Eine inländische Betriebsstätte im Sinne der
+    vorstehenden Sätze ist nur gegeben, wenn die dieser Betriebsstätte
+    zuzurechnenden Einkünfte sowohl nach innerstaatlichem Steuerrecht als
+    auch nach einem anzuwendenden Abkommen zur Vermeidung der
+    Doppelbesteuerung der inländischen Besteuerung unterliegen.
 
 
 3.  1                   Der Gewinnabführungsvertrag muss auf mindestens
     fünf Jahre abgeschlossen und während seiner gesamten Geltungsdauer
-    durchgeführt werden. Eine vorzeitige Beendigung des Vertrags durch
+    durchgeführt werden.
+    2                   Eine vorzeitige Beendigung des Vertrags durch
     Kündigung ist unschädlich, wenn ein wichtiger Grund die Kündigung
     rechtfertigt.
-    2                   Die Kündigung oder Aufhebung des
+    3                   Die Kündigung oder Aufhebung des
     Gewinnabführungsvertrags auf einen Zeitpunkt während des
     Wirtschaftsjahrs der Organgesellschaft wirkt auf den Beginn dieses
     Wirtschaftsjahrs zurück.
+    4                   Der Gewinnabführungsvertrag gilt auch als
+    durchgeführt, wenn der abgeführte Gewinn oder ausgeglichene Verlust
+    auf einem Jahresabschluss beruht, der fehlerhafte Bilanzansätze
+    enthält, sofern
+
+    a)  der Jahresabschluss wirksam festgestellt ist,
+
+
+    b)  die Fehlerhaftigkeit bei Erstellung des Jahresabschlusses unter
+        Anwendung der Sorgfalt eines ordentlichen Kaufmanns nicht hätte
+        erkannt werden müssen und
+
+
+    c)  ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem
+        nächsten nach dem Zeitpunkt der Beanstandung des Fehlers
+        aufzustellenden Jahresabschluss der Organgesellschaft und des
+        Organträgers korrigiert und das Ergebnis entsprechend abgeführt oder
+        ausgeglichen wird, soweit es sich um einen Fehler handelt, der in der
+        Handelsbilanz zu korrigieren ist.
+
+
+
+    5                   Die Voraussetzung des Satzes 4 Buchstabe b gilt
+    bei Vorliegen eines uneingeschränkten Bestätigungsvermerks nach § 322
+    Absatz 3 des Handelsgesetzbuchs zum Jahresabschluss, zu einem
+    Konzernabschluss, in den der handelsrechtliche Jahresabschluss
+    einbezogen worden ist, oder über die freiwillige Prüfung des
+    Jahresabschlusses oder der Bescheinigung eines Steuerberaters oder
+    Wirtschaftsprüfers über die Erstellung eines Jahresabschlusses mit
+    umfassenden Beurteilungen als erfüllt.
 
 
 4.  Die Organgesellschaft darf Beträge aus dem Jahresüberschuss nur
@@ -1607,10 +2029,10 @@ sind:
     vernünftiger kaufmännischer Beurteilung wirtschaftlich begründet ist.
 
 
-5.  Ein negatives Einkommen des Organträgers bleibt bei der inländischen
-    Besteuerung unberücksichtigt, soweit es in einem ausländischen Staat
-    im Rahmen einer der deutschen Besteuerung des Organträgers
-    entsprechenden Besteuerung berücksichtigt wird.
+5.  Negative Einkünfte des Organträgers oder der Organgesellschaft bleiben
+    bei der inländischen Besteuerung unberücksichtigt, soweit sie in einem
+    ausländischen Staat im Rahmen der Besteuerung des Organträgers, der
+    Organgesellschaft oder einer anderen Person berücksichtigt werden.
 
 
 
@@ -1619,7 +2041,18 @@ erstmals für das Kalenderjahr zuzurechnen, in dem das Wirtschaftsjahr
 der Organgesellschaft endet, in dem der Gewinnabführungsvertrag
 wirksam wird.
 
-(2) (weggefallen)
+(2)
+1             Der ganze Gewinn gilt auch dann als abgeführt im Sinne
+des Absatzes 1 Satz 1, wenn über den mindestens zugesicherten Betrag
+im Sinne des § 304 Absatz 2 Satz 1 des Aktiengesetzes hinausgehende
+Ausgleichszahlungen vereinbart und geleistet werden.
+2             Dies gilt nur, wenn die Ausgleichszahlungen insgesamt
+den dem Anteil am gezeichneten Kapital entsprechenden Gewinnanteil des
+Wirtschaftsjahres nicht überschreiten, der ohne
+Gewinnabführungsvertrag hätte geleistet werden können.
+3             Der über den Mindestbetrag nach § 304 Absatz 2 Satz 1
+des Aktiengesetzes hinausgehende Betrag muss nach vernünftiger
+kaufmännischer Beurteilung wirtschaftlich begründet sein.
 
 (3)
 1             Mehrabführungen, die ihre Ursache in
@@ -1635,25 +2068,36 @@ der Organgesellschaft endet.
 vororganschaftlichen Zeit zuzurechnen.
 
 (4)
-1             Für Minder- und Mehrabführungen, die ihre Ursache in
-organschaftlicher Zeit haben, ist in der Steuerbilanz des Organträgers
-ein besonderer aktiver oder passiver Ausgleichsposten in Höhe des
-Betrags zu bilden, der dem Verhältnis der Beteiligung des Organträgers
-am Nennkapital der Organgesellschaft entspricht.
-2             Im Zeitpunkt der Veräußerung der Organbeteiligung sind
-die besonderen Ausgleichsposten aufzulösen.
-3             Dadurch erhöht oder verringert sich das Einkommen des
-Organträgers.
-4             § 3 Nr. 40, § 3c Abs. 2 des Einkommensteuergesetzes und
-§ 8b dieses Gesetzes sind anzuwenden.
-5             Der Veräußerung gleichgestellt sind insbesondere die
-Umwandlung der Organgesellschaft auf eine Personengesellschaft oder
-eine natürliche Person, die verdeckte Einlage der Beteiligung an der
-Organgesellschaft und die Auflösung der Organgesellschaft.
-6             Minder- oder Mehrabführungen im Sinne des Satzes 1
+1             Minderabführungen der Organgesellschaft, die ihre
+Ursache in organschaftlicher Zeit haben, sind als Einlage durch den
+Organträger in die Organgesellschaft zu behandeln.
+2             Mehrabführungen der Organgesellschaft, die ihre Ursache
+in organschaftlicher Zeit haben, gelten als Einlagenrückgewähr der
+Organgesellschaft an den Organträger.
+3             Minder- oder Mehrabführungen im Sinne der Sätze 1 und 2
 liegen insbesondere vor, wenn der an den Organträger abgeführte Gewinn
 von dem Steuerbilanzgewinn der Organgesellschaft abweicht und diese
 Abweichung in organschaftlicher Zeit verursacht ist.
+4             Minder- und Mehrabführungen nach den Sätzen 1 und 2
+gelten in dem Zeitpunkt als erfolgt, in dem das Wirtschaftsjahr der
+Organgesellschaft endet.
+
+(5)
+1             Das dem Organträger zuzurechnende Einkommen der
+Organgesellschaft und damit zusammenhängende andere
+Besteuerungsgrundlagen werden gegenüber dem Organträger und der
+Organgesellschaft gesondert und einheitlich festgestellt.
+2             Die Feststellungen nach Satz 1 sind für die Besteuerung
+des Einkommens des Organträgers und der Organgesellschaft bindend.
+3             Die Sätze 1 und 2 gelten entsprechend für von der
+Organgesellschaft geleistete Steuern, die auf die Steuer des
+Organträgers anzurechnen sind.
+4             Zuständig für diese Feststellungen ist das Finanzamt,
+das für die Besteuerung nach dem Einkommen der Organgesellschaft
+zuständig ist.
+5             Die Erklärung zu den gesonderten und einheitlichen
+Feststellungen nach den Sätzen 1 und 3 soll mit der
+Körperschaftsteuererklärung der Organgesellschaft verbunden werden.
 
 
 #### § 15 Ermittlung des Einkommens bei Organschaft
@@ -1661,24 +2105,78 @@ Abweichung in organschaftlicher Zeit verursacht ist.
 1             Bei der Ermittlung des Einkommens bei Organschaft gilt
 abweichend von den allgemeinen Vorschriften Folgendes:
 
-1.  Ein Verlustabzug im Sinne des § 10d des Einkommensteuergesetzes ist
-    bei der Organgesellschaft nicht zulässig.
+1.  1                   Ein Verlustabzug im Sinne des § 10d des
+    Einkommensteuergesetzes ist bei der Organgesellschaft nicht zulässig.
+    2                   Satz 1 steht einer Anwendung von § 3a des
+    Einkommensteuergesetzes nicht entgegen.
+    3                   Der für § 3c Absatz 4 Satz 4 des
+    Einkommensteuergesetzes maßgebende Betrag ist der sich nach Anwendung
+    von Nummer 1a ergebende verminderte Sanierungsertrag.
 
 
-2.  1                   § 8b Abs. 1 bis 6 dieses Gesetzes sowie § 4 Abs. 6
-    des Umwandlungssteuergesetzes sind bei der Organgesellschaft nicht
-    anzuwenden.
+1a. 1                   Auf einen sich nach § 3a Absatz 3 Satz 4 des
+    Einkommensteuergesetzes ergebenden verbleibenden Sanierungsertrag
+    einer Organgesellschaft ist § 3a Absatz 3 Satz 2, 3 und 5 des
+    Einkommensteuergesetzes beim Organträger anzuwenden.
+    2                   Wird der Gewinn des Organträgers gesondert und
+    einheitlich festgestellt, gilt § 3a Absatz 4 des
+    Einkommensteuergesetzes entsprechend.
+    3                   Die Sätze 1 und 2 gelten auch, wenn die
+    Voraussetzungen des § 14 Absatz 1 im Sanierungsjahr nicht vorliegen
+    und das Einkommen der Organgesellschaft in einem innerhalb der letzten
+    fünf Jahre vor dem Sanierungsjahr liegenden Veranlagungszeitraum dem
+    Organträger gemäß § 14 Absatz 1 Satz 1 zugerechnet worden ist.
+
+
+2.  1                   § 8b Absatz 1 bis 6 dieses Gesetzes sowie § 4
+    Absatz 6 und § 12 Absatz 2 Satz 1 des Umwandlungssteuergesetzes sind
+    bei der Organgesellschaft nicht anzuwenden.
     2                   Sind in dem dem Organträger zugerechneten
     Einkommen Bezüge, Gewinne oder Gewinnminderungen im Sinne des § 8b
-    Abs. 1 bis 3 dieses Gesetzes oder mit solchen Beträgen
-    zusammenhängende Ausgaben im Sinne des § 3c Abs. 2 des
-    Einkommensteuergesetzes oder ein Übernahmeverlust im Sinne des § 4
-    Abs. 6 des Umwandlungssteuergesetzes enthalten, sind § 8b dieses
-    Gesetzes, § 4 Abs. 6 des Umwandlungssteuergesetzes sowie § 3 Nr. 40
-    und § 3c Abs. 2 des Einkommensteuergesetzes bei der Ermittlung des
-    Einkommens des Organträgers anzuwenden.
+    Absatz 1 bis 3 dieses Gesetzes oder mit solchen Beträgen
+    zusammenhängende Ausgaben im Sinne des § 3c Absatz 2 des
+    Einkommensteuergesetzes, ein Übernahmeverlust im Sinne des § 4 Absatz
+    6 des Umwandlungssteuergesetzes oder ein Gewinn oder Verlust im Sinne
+    des § 12 Absatz 2 Satz 1 des Umwandlungssteuergesetzes enthalten, sind
+    § 8b dieses Gesetzes, § 4 Absatz 6 und § 12 Absatz 2 des
+    Umwandlungssteuergesetzes sowie § 3 Nummer 40 und § 3c Absatz 2 des
+    Einkommensteuergesetzes bei der Ermittlung des Einkommens des
+    Organträgers anzuwenden; in den Fällen des § 12 Absatz 2 Satz 2 des
+    Umwandlungssteuergesetzes sind neben § 8b dieses Gesetzes auch § 3
+    Nummer 40 und § 3c Absatz 2 des Einkommensteuergesetzes entsprechend
+    anzuwenden.
     3                   Satz 2 gilt nicht, soweit bei der
     Organgesellschaft § 8b Abs. 7, 8 oder 10 anzuwenden ist.
+    4                   Für die Anwendung der Beteiligungsgrenze im Sinne
+    des § 8b Absatz 4 in der Fassung des Artikels 1 des Gesetzes vom 21.
+    März 2013 (BGBl. I S. 561) werden Beteiligungen der Organgesellschaft
+    und Beteiligungen des Organträgers getrennt betrachtet.
+
+
+2a. 1                   § 20 Absatz 1 Satz 1 bis 3 und Absatz 2 bis 4, die
+    §§ 21, 30 Absatz 2, die §§ 42 und 43 Absatz 3, § 44 sowie § 49 Absatz
+    1 des Investmentsteuergesetzes sind bei der Organgesellschaft nicht
+    anzuwenden.
+    2                   Sind in dem dem Organträger zugerechneten
+    Einkommen Erträge im Sinne des § 16 oder § 34 des
+    Investmentsteuergesetzes oder mit solchen Erträgen zusammenhängende
+    Betriebsvermögensminderungen, Betriebsausgaben oder Veräußerungskosten
+    im Sinne des § 21 oder des § 44 des Investmentsteuergesetzes
+    enthalten, sind die §§ 20, 21, 30 Absatz 2, die §§ 42, 43 Absatz 3, §
+    44 sowie § 49 Absatz 1 des Investmentsteuergesetzes bei der Ermittlung
+    des Einkommens des Organträgers anzuwenden.
+    3                   Für Zwecke des Satzes 2 gilt der Organträger als
+    Anleger im Sinne des § 2 Absatz 10 des Investmentsteuergesetzes.
+    4                   Die bloße Begründung oder Beendigung einer
+    Organschaft nach § 14 Absatz 1 Satz 1 führt nicht zu einer Veräußerung
+    nach § 22 Absatz 1 des Investmentsteuergesetzes.
+    5                   Die Sätze 1 bis 4 gelten nicht, soweit die
+    Organgesellschaft die Voraussetzungen des § 20 Absatz 1 Satz 4 oder
+    des § 30 Absatz 3 des Investmentsteuergesetzes erfüllt.
+    6                   Für die Anwendung der Beteiligungsgrenze im Sinne
+    des § 30 Absatz 2 Nummer 2 des Investmentsteuergesetzes werden
+    Beteiligungen der Organgesellschaft und Beteiligungen des Organträgers
+    getrennt betrachtet.
 
 
 3.  1                   § 4h des Einkommensteuergesetzes ist bei der
@@ -1714,6 +2212,11 @@ abweichend von den allgemeinen Vorschriften Folgendes:
 Beteiligung an einer ausländischen Gesellschaft, die nach den
 Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung von
 der Besteuerung auszunehmen sind.
+3             Bei Anwendung des Satzes 2 finden § 16 Absatz 4 sowie §
+43 Absatz 1 Satz 3 des Investmentsteuergesetzes beim Organträger
+Anwendung.
+4             Für Zwecke des Satzes 3 gilt der Organträger als Anleger
+im Sinne des § 2 Absatz 10 des Investmentsteuergesetzes.
 
 
 #### § 16 Ausgleichszahlungen
@@ -1727,43 +2230,31 @@ Ausgleichszahlungen an Stelle des Organträgers zu versteuern.
 
 #### § 17 Andere Kapitalgesellschaften als Organgesellschaft
 
+(1)
 1             Die §§ 14 bis 16 gelten entsprechend, wenn eine andere
-als die in § 14 Abs. 1 Satz 1 bezeichnete Kapitalgesellschaft mit
-Geschäftsleitung und Sitz im Inland sich wirksam verpflichtet, ihren
-ganzen Gewinn an ein anderes Unternehmen im Sinne des § 14 abzuführen.
+als die in § 14 Absatz 1 Satz 1 bezeichnete Kapitalgesellschaft mit
+Geschäftsleitung im Inland und Sitz in einem Mitgliedstaat der
+Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens sich
+wirksam verpflichtet, ihren ganzen Gewinn an ein anderes Unternehmen
+im Sinne des § 14 abzuführen.
 2             Weitere Voraussetzung ist, dass
 
 1.  eine Gewinnabführung den in § 301 des Aktiengesetzes genannten Betrag
     nicht überschreitet und
 
 
-2.  eine Verlustübernahme entsprechend den Vorschriften des § 302 des
-    Aktiengesetzes vereinbart wird.
+2.  eine Verlustübernahme durch Verweis auf die Vorschriften des § 302 des
+    Aktiengesetzes in seiner jeweils gültigen Fassung vereinbart wird.
 
 
 
 
-
-#### § 18 Ausländische Organträger
-
-1             Verpflichtet sich eine Organgesellschaft, ihren ganzen
-Gewinn an ein ausländisches gewerbliches Unternehmen, das im Inland
-eine im Handelsregister eingetragene Zweigniederlassung unterhält,
-abzuführen, so ist das Einkommen der Organgesellschaft den beschränkt
-steuerpflichtigen Einkünften aus der inländischen Zweigniederlassung
-zuzurechnen, wenn
-
-1.  der Gewinnabführungsvertrag unter der Firma der Zweigniederlassung
-    abgeschlossen ist und
+(2) Für die Anwendung des Absatzes 1 Satz 2 Nummer 2 gilt § 34 Absatz
+10b in der Fassung des Artikels 12 des Gesetzes vom 18. Dezember 2013
+(BGBl. I S. 4318) entsprechend fort.
 
 
-2.  die für die finanzielle Eingliederung erforderliche Beteiligung zum
-    Betriebsvermögen der Zweigniederlassung gehört.
-
-
-
-2             Im Übrigen gelten die Vorschriften der §§ 14 bis 17
-sinngemäß.
+#### § 18 (weggefallen)
 
 
 #### § 19 Steuerabzug bei dem Organträger
@@ -1771,26 +2262,28 @@ sinngemäß.
 (1) Sind bei der Organgesellschaft die Voraussetzungen für die
 Anwendung besonderer Tarifvorschriften erfüllt, die einen Abzug von
 der Körperschaftsteuer vorsehen, und unterliegt der Organträger der
-Körperschaftsteuer, so sind diese Tarifvorschriften beim Organträger
-so anzuwenden, als wären die Voraussetzungen für ihre Anwendung bei
-ihm selbst erfüllt.
+unbeschränkten Körperschaftsteuerpflicht, sind diese Tarifvorschriften
+beim Organträger so anzuwenden, als wären die Voraussetzungen für ihre
+Anwendung bei ihm selbst erfüllt.
 
-(2) Unterliegt der Organträger der Einkommensteuer, so gilt Absatz 1
-entsprechend, soweit für die Einkommensteuer gleichartige
-Tarifvorschriften wie für die Körperschaftsteuer bestehen.
+(2) Unterliegt der Organträger der unbeschränkten
+Einkommensteuerpflicht, gilt Absatz 1 entsprechend, soweit für die
+Einkommensteuer gleichartige Tarifvorschriften wie für die
+Körperschaftsteuer bestehen.
 
-(3)
-1             Ist der Organträger eine Personengesellschaft, so gelten
-die Absätze 1 und 2 für die Gesellschafter der Personengesellschaft
+(3) Unterliegt der Organträger nicht der unbeschränkten
+Körperschaftsteuer- oder Einkommensteuerpflicht, gelten die Absätze 1
+und 2 entsprechend, soweit die besonderen Tarifvorschriften bei
+beschränkt Steuerpflichtigen anwendbar sind.
+
+(4)
+1             Ist der Organträger eine Personengesellschaft, gelten
+die Absätze 1 bis 3 für die Gesellschafter der Personengesellschaft
 entsprechend.
 2             Bei jedem Gesellschafter ist der Teilbetrag abzuziehen,
 der dem auf den Gesellschafter entfallenden Bruchteil des dem
 Organträger zuzurechnenden Einkommens der Organgesellschaft
 entspricht.
-
-(4) Ist der Organträger ein ausländisches Unternehmen im Sinne des §
-18, so gelten die Absätze 1 bis 3 entsprechend, soweit die besonderen
-Tarifvorschriften bei beschränkt Steuerpflichtigen anwendbar sind.
 
 (5) Sind in dem Einkommen der Organgesellschaft Betriebseinnahmen
 enthalten, die einem Steuerabzug unterlegen haben, so ist die
@@ -1800,14 +2293,16 @@ Personengesellschaft ist, anteilig auf die Körperschaftsteuer oder die
 Einkommensteuer der Gesellschafter anzurechnen.
 
 
-### Drittes Kapitel - Sondervorschriften für Versicherungsunternehmen, Pensionsfonds und Bausparkassen
+### Drittes Kapitel - Sondervorschriften für Versicherungen und Pensionsfonds
 
 
 
 #### § 20 Schwankungsrückstellungen, Schadenrückstellungen
 
-(1) Für die Bildung der Rückstellungen zum Ausgleich des schwankenden
-Jahresbedarfs sind insbesondere folgende Voraussetzungen erforderlich:
+(1)
+1             Für die Bildung der Rückstellungen zum Ausgleich des
+schwankenden Jahresbedarfs sind insbesondere folgende Voraussetzungen
+erforderlich:
 
 1.  Es muss nach den Erfahrungen in dem betreffenden Versicherungszweig
     mit erheblichen Schwankungen des Jahresbedarfs zu rechnen sein.
@@ -1821,6 +2316,10 @@ Jahresbedarfs sind insbesondere folgende Voraussetzungen erforderlich:
 
 
 
+2             Auf Schwankungsrückstellungen und ähnliche
+Rückstellungen im Sinne des § 341h des Handelsgesetzbuchs ist § 6
+Absatz 1 Nummer 3a Buchstabe e des Einkommensteuergesetzes nicht
+anzuwenden.
 
 (2)
 1             Bei den Rückstellungen für noch nicht abgewickelte
@@ -1835,39 +2334,51 @@ der wahrscheinlich insgesamt nicht zur Befriedigung der Ansprüche für
 die Schäden benötigt wird.
 3             Für Zwecke der Sätze 1 und 2 haben die Niederlassungen
 der Versicherungsunternehmen im Sinne des § 341 Absatz 2 Satz 2 des
-Handelsgesetzbuchs die auf Grund § 55a des
-Versicherungsaufsichtsgesetzes erlassene Verordnung über die
-Berichterstattung von Versicherungsunternehmen gegenüber der
-Bundesanstalt für Finanzdienstleistungsaufsicht entsprechend
-anzuwenden.
+Handelsgesetzbuchs die auf Grund des § 55a des
+Versicherungsaufsichtsgesetzes in der am 31. Dezember 2015 geltenden
+Fassung erlassene Verordnung über die Berichterstattung von
+Versicherungsunternehmen gegenüber der Bundesanstalt für
+Finanzdienstleistungsaufsicht entsprechend anzuwenden.
 
 
 #### § 21 Beitragsrückerstattungen
 
 (1)
-1             Beitragsrückerstattungen, die für das selbst
-abgeschlossene Geschäft auf Grund des Jahresergebnisses oder des
-versicherungstechnischen Überschusses gewährt werden, sind abziehbar
+1             Aufwendungen für Beitragsrückerstattungen und
+Direktgutschriften, die für das selbst abgeschlossene Geschäft gewährt
+werden, sind abziehbar
 
-1.  in der Lebens- und Krankenversicherung bis zu dem nach
-    handelsrechtlichen Vorschriften ermittelten Jahresergebnis für das
-    selbst abgeschlossene Geschäft, erhöht um die für
-    Beitragsrückerstattungen aufgewendeten Beträge, soweit die Beträge das
-    Jahresergebnis gemindert haben und die hierfür verwendeten Überschüsse
-    dem Grunde nach steuerpflichtig und nicht steuerbefreit sind, und
-    gekürzt um den Betrag, der sich aus der Auflösung einer Rückstellung
-    nach Absatz 2 Satz 2 ergibt, sowie um den Nettoertrag des nach
-    steuerlichen Vorschriften über die Gewinnermittlung anzusetzenden
-    Betriebsvermögens am Beginn des Wirtschaftsjahrs; für Pensionsfonds
-    gilt Entsprechendes.
-    2                   Als Nettoertrag gilt der Ertrag aus langfristiger
-    Kapitalanlage, der anteilig auf das Betriebsvermögen entfällt, nach
-    Abzug der entsprechenden abziehbaren und nichtabziehbaren
-    Betriebsausgaben;
+1.  in dem nach Art der Lebensversicherung betriebenen Geschäft bis zu
+    einem Höchstbetrag, der sich auf Grundlage des nach handelsrechtlichen
+    Vorschriften ermittelten Jahresergebnisses für das selbst
+    abgeschlossene Geschäft ohne Berücksichtigung eines
+    Gewinnabführungsvertrages ermittelt.
+    2                   Diese Grundlage erhöht sich um die für
+    Beitragsrückerstattungen und Direktgutschriften aufgewendeten Beträge,
+    soweit die Beträge das Jahresergebnis gemindert haben.
+    3                   Sie mindert sich um den Nettoertrag des
+    Eigenkapitals am Beginn des Wirtschaftsjahrs.
+    4                   Als Eigenkapital gilt das nach den Vorschriften
+    der auf Grund des § 39 des Versicherungsaufsichtsgesetzes erlassenen
+    Verordnungen über die Berichterstattung von Versicherungsunternehmen
+    zu ermittelnde Eigenkapital zuzüglich 10 Prozent des ungebundenen
+    Teils der Rückstellung für Beitragsrückerstattung.
+    5                   Als Nettoertrag gilt 70 Prozent der Differenz
+    zwischen Erträgen und Aufwendungen aus Kapitalanlagen, die anteilig
+    auf das Eigenkapital entfallen.
+    6                   Dabei sind die Kapitalanlagen auszusondern, bei
+    denen das Anlagerisiko nicht vom Versicherungsunternehmen getragen
+    wird.
+    7                   Als Höchstbetrag mindestens abziehbar sind die
+    Aufwendungen, die auf Grund gesetzlicher Vorschriften zu gewähren
+    sind.
+    8                   Die Sätze 1 bis 7 sind für Pensionsfonds
+    entsprechend anzuwenden,
 
 
-2.  in der Schaden- und Unfallversicherung bis zur Höhe des Überschusses,
-    der sich aus der Beitragseinnahme nach Abzug aller anteiligen
+2.  in den übrigen Versicherungsgeschäften auf Grund des
+    versicherungstechnischen Überschusses bis zur Höhe des Überschusses,
+    der sich aus den Beitragseinnahmen nach Abzug aller anteiligen
     abziehbaren und nichtabziehbaren Betriebsausgaben einschließlich der
     Versicherungsleistungen, Rückstellungen und Rechnungsabgrenzungsposten
     ergibt.
@@ -1878,43 +2389,16 @@ versicherungstechnischen Überschusses gewährt werden, sind abziehbar
 
 
 
+2             Der nach Satz 1 Nummer 1 für den Abzug maßgebliche
+Betrag ist in dem Verhältnis abziehbar, wie die für die
+Beitragsrückerstattung maßgeblichen Überschüsse am
+Kapitalanlageergebnis im Geltungsbereich dieses Gesetzes dem Grunde
+nach steuerpflichtig und nicht steuerbefreit sind.
+3             Ist maßgeblicher Betrag der sich nach Satz 1 Nummer 1
+Satz 7 ergebende Betrag, ist Satz 2 nur für Aufwendungen aus dem
+Kapitalanlageergebnis anzuwenden.
 
-(2)
-1             Zuführungen zu einer Rückstellung für
-Beitragsrückerstattung sind insoweit abziehbar, als die
-ausschließliche Verwendung der Rückstellung für diesen Zweck durch die
-Satzung oder durch geschäftsplanmäßige Erklärung gesichert ist.
-2             Die Rückstellung ist vorbehaltlich des Satzes 3
-aufzulösen, soweit sie höher ist als die Summe der in den folgenden
-Nummern 1 bis 4 bezeichneten Beträge:
-
-1.  die Zuführungen innerhalb des am Bilanzstichtag endenden
-    Wirtschaftsjahrs und der zwei vorangegangenen Wirtschaftsjahre,
-
-
-2.  der Betrag, dessen Ausschüttung als Beitragsrückerstattung vom
-    Versicherungsunternehmen vor dem Bilanzstichtag verbindlich festgelegt
-    worden ist,
-
-
-3.  in der Krankenversicherung der Betrag, dessen Verwendung zur
-    Ermäßigung von Beitragserhöhungen im folgenden Geschäftsjahr vom
-    Versicherungsunternehmen vor dem Bilanzstichtag verbindlich festgelegt
-    worden ist,
-
-
-4.  in der Lebensversicherung der Betrag, der für die Finanzierung der auf
-    die abgelaufenen Versicherungsjahre entfallenden Schlussgewinnanteile
-    erforderlich ist; für Pensionsfonds gilt Entsprechendes.
-
-
-
-3             Eine Auflösung braucht nicht zu erfolgen, soweit an die
-Versicherten Kleinbeträge auszuzahlen wären und die Auszahlung dieser
-Beträge mit einem unverhältnismäßig hohen Verwaltungsaufwand verbunden
-wäre.
-
-(3) § 6 Abs. 1 Nr. 3a des Einkommensteuergesetzes ist nicht
+(2) § 6 Absatz 1 Nummer 3a des Einkommensteuergesetzes ist nicht
 anzuwenden.
 
 
@@ -1927,37 +2411,22 @@ Pensionsfonds mit der der Maßgabe anzuwenden, dass
 Deckungsrückstellungen im Sinne des § 341f des Handelsgesetzbuchs mit
 dem sich für die zugrunde liegenden Verträge aus der Bestimmung in
 Verbindung mit § 25 der Verordnung über die Rechnungslegung von
-Versicherungsunternehmen oder in Verbindung mit der auf Grund § 116
-des Versicherungsaufsichtsgesetzes zu erlassenden Rechtsverordnung
-ergebenden Höchstzinssatz oder einem niedrigeren zulässigerweise
-verwendeten Zinssatz abgezinst werden können.
+Versicherungsunternehmen oder in Verbindung mit der auf Grund des §
+240 Satz 1 Nummer 10 des Versicherungsaufsichtsgesetzes erlassenen
+Rechtsverordnung ergebenden Höchstzinssatz oder einem niedrigeren
+zulässigerweise verwendeten Zinssatz abgezinst werden können.
 2             Für die von Schaden- und Unfallversicherungsunternehmen
 gebildeten Renten-Deckungsrückstellungen kann der Höchstzinssatz, der
-sich aus § 2 der Deckungsrückstellungsverordnung ergibt, oder ein
-niedrigerer zulässigerweise verwendeter Zinssatz zugrunde gelegt
-werden.
+sich auf Grund der nach § 217 Satz 1 Nummer 7 des
+Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung ergibt,
+oder ein niedrigerer zulässigerweise verwendeter Zinssatz zugrunde
+gelegt werden.
 
 (2) Soweit die in Absatz 1 genannten versicherungsrechtlichen
 Bestimmungen auf Versicherungsunternehmen mit Sitz in einem anderen
-Mitgliedstaat der Europäischen Gemeinschaft oder in einem anderen
+Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des EWR-Abkommens keine Anwendung finden, können diese
 entsprechend verfahren.
-
-
-#### § 21b Zuteilungsrücklage bei Bausparkassen
-
-1             Bausparkassen im Sinne des § 1 Abs. 1 des Gesetzes über
-Bausparkassen können Mehrerträge im Sinne des § 6 Abs. 1 Satz 2 des
-Gesetzes über Bausparkassen in eine den steuerlichen Gewinn mindernde
-Zuteilungsrücklage einstellen.
-2             Diese Rücklage darf 3 Prozent der Bauspareinlagen nicht
-übersteigen.
-3             Soweit die Voraussetzungen für die Auflösung des
-Sonderpostens im Sinne des § 6 Abs. 1 Satz 2 des Gesetzes über
-Bausparkassen nach der Rechtsverordnung erfüllt sind, die auf Grund
-der Ermächtigungsvorschrift des § 10 Satz 1 Nr. 9 des Gesetzes über
-Bausparkassen erlassen wird, ist die Rücklage gewinnerhöhend
-aufzulösen.
 
 
 ### Viertes Kapitel - Sondervorschriften für Genossenschaften
@@ -1967,18 +2436,17 @@ aufzulösen.
 #### § 22 Genossenschaftliche Rückvergütung
 
 (1)
-1             Rückvergütungen der Erwerbs- und
-Wirtschaftsgenossenschaften an ihre Mitglieder sind nur insoweit als
-Betriebsausgaben abziehbar, als die dafür verwendeten Beträge im
-Mitgliedergeschäft erwirtschaftet worden sind.
+1             Rückvergütungen der Genossenschaften an ihre Mitglieder
+sind nur insoweit als Betriebsausgaben abziehbar, als die dafür
+verwendeten Beträge im Mitgliedergeschäft erwirtschaftet worden sind.
 2             Zur Feststellung dieser Beträge ist der Überschuss
 
 1.  bei Absatz- und Produktionsgenossenschaften im Verhältnis des
     Wareneinkaufs bei Mitgliedern zum gesamten Wareneinkauf,
 
 
-2.  bei den übrigen Erwerbs- und Wirtschaftsgenossenschaften im Verhältnis
-    des Mitgliederumsatzes zum Gesamtumsatz
+2.  bei den übrigen Genossenschaften im Verhältnis des Mitgliederumsatzes
+    zum Gesamtumsatz
 
 
 
@@ -2030,8 +2498,8 @@ oder erhöht sich die Körperschaftsteuer entsprechend.
 ### § 24 Freibetrag für bestimmte Körperschaften
 
 1             Vom Einkommen der steuerpflichtigen Körperschaften,
-Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von 5
-000 Euro, höchstens jedoch in Höhe des Einkommens, abzuziehen.
+Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von
+5 000 Euro, höchstens jedoch in Höhe des Einkommens, abzuziehen.
 2             Satz 1 gilt nicht
 
 1.  für Körperschaften und Personenvereinigungen, deren Leistungen bei den
@@ -2039,13 +2507,20 @@ Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von 5
     Einkommensteuergesetzes gehören,
 
 
-2.  für Vereine im Sinne des § 25.
+2.  für Vereine im Sinne des § 25,
+
+
+3.  für Investmentfonds im Sinne des § 1 des Investmentsteuergesetzes und
+    Spezial-Investmentfonds im Sinne des § 26 des
+    Investmentsteuergesetzes, deren Leistungen bei den Empfängern zu den
+    Einnahmen im Sinne des § 20 Absatz 1 Nummer 3 oder 3a des
+    Einkommensteuergesetzes gehören.
 
 
 
 
 
-### § 25 Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
+### § 25 Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
 
 (1)
 1             Vom Einkommen der steuerpflichtigen Genossenschaften
@@ -2087,79 +2562,47 @@ sowie für steuerpflichtige Vereine, die eine gemeinschaftliche
 Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben.
 
 
-### § 26 Besteuerung ausländischer Einkunftsteile
+### § 26 Steuerermäßigung bei ausländischen Einkünften
 
-(1) Bei unbeschränkt Steuerpflichtigen, die mit ausländischen
-Einkünften in dem Staat, aus dem die Einkünfte stammen, zu einer der
-deutschen Körperschaftsteuer entsprechenden Steuer herangezogen
-werden, ist die festgesetzte und gezahlte und um einen entstandenen
-Ermäßigungsanspruch gekürzte ausländische Steuer auf die deutsche
-Körperschaftsteuer anzurechnen, die auf die Einkünfte aus diesem Staat
-entfällt.
+(1)
+1             Für die Anrechnung einer der deutschen
+Körperschaftsteuer entsprechenden ausländischen Steuer auf die
+deutsche Körperschaftsteuer und für die Berücksichtigung anderer
+Steuerermäßigungen bei ausländischen Einkünften gelten vorbehaltlich
+des Satzes 2 und des Absatzes 2 die folgenden Bestimmungen
+entsprechend:
 
-(2) bis 5 (weggefallen)
+1.  bei unbeschränkt Steuerpflichtigen § 34c Absatz 1 bis 3 und 5 bis 7
+    und § 50d Absatz 10 des Einkommensteuergesetzes sowie
 
-(6)
-1             Vorbehaltlich der Sätze 2 und 3 sind § 34c Abs. 1 Satz 2
-bis 5 und Abs. 2 bis 7 des Einkommensteuergesetzes und § 50 Abs. 6 des
-Einkommensteuergesetzes entsprechend anzuwenden; in den Fällen des §
-8b Abs. 1 Satz 2 und 3 sind vorbehaltlich der Sätze 2 und 3 § 34c Abs.
-1 bis 3 und 6 Satz 6 des Einkommensteuergesetzes und § 50 Abs. 6 des
-Einkommensteuergesetzes entsprechend anzuwenden.
-2             Bei der Anwendung des § 34c Abs. 1 Satz 2 des
-Einkommensteuergesetzes ist der Berechnung der auf die ausländischen
-Einkünfte entfallenden inländischen Körperschaftsteuer die
-Körperschaftsteuer zugrunde zu legen, die sich ohne Anwendung der §§
-37 und 38 ergibt.
-3             Bei der entsprechenden Anwendung des § 34c Abs. 2 des
+
+2.  bei beschränkt Steuerpflichtigen § 50 Absatz 3 und § 50d Absatz 10 des
+    Einkommensteuergesetzes.
+
+
+
+2             Dabei ist auf Bezüge im Sinne des § 8b Absatz 1 Satz 1,
+die auf Grund des § 8b Absatz 1 Satz 2 und 3 bei der Ermittlung des
+Einkommens nicht außer Ansatz bleiben, vorbehaltlich des Absatzes 2 §
+34c Absatz 1 bis 3 und 6 Satz 6 des Einkommensteuergesetzes
+entsprechend anzuwenden.
+
+(2)
+1             Abweichend von § 34c Absatz 1 Satz 2 des
+Einkommensteuergesetzes ist die auf die ausländischen Einkünfte
+entfallende deutsche Körperschaftsteuer in der Weise zu ermitteln,
+dass die sich bei der Veranlagung des zu versteuernden Einkommens,
+einschließlich der ausländischen Einkünfte, ohne Anwendung der §§ 37
+und 38 ergebende deutsche Körperschaftsteuer im Verhältnis dieser
+ausländischen Einkünfte zur Summe der Einkünfte aufgeteilt wird.
+2             Bei der entsprechenden Anwendung von § 34c Absatz 2 des
 Einkommensteuergesetzes ist die ausländische Steuer abzuziehen, soweit
 sie auf ausländische Einkünfte entfällt, die bei der Ermittlung der
 Einkünfte nicht außer Ansatz bleiben.
-4             Soweit die in Artikel 6 der Richtlinie 2003/49/EG des
-Rates vom 3. Juni 2003 über eine gemeinsame Steuerregelung für
-Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen
-Unternehmen verschiedener Mitgliedstaaten (ABl. EU Nr. L 157 S. 49),
-zuletzt geändert durch die Richtlinie 2004/76/EG des Rates vom 29.
-April 2004 zur Änderung der Richtlinie 2003/49/EG (ABl. EU Nr. L 157
-S. 106, Nr. L 195 S. 33), festgelegten Sätze der Quellensteuer für
-Zinsen und Lizenzgebühren, die aus Griechenland, Lettland, Litauen,
-Polen, Portugal, Slowakei, Spanien oder der Tschechischen Republik
-stammen, niedriger sind als die in den Abkommen zur Vermeidung der
-Doppelbesteuerung mit diesen Staaten dafür festgelegten Sätze, ist auf
-Grund des § 34c Abs. 6 in Verbindung mit § 34c Abs. 1 des
-Einkommensteuergesetzes die Quellensteuer höchstens zu den nach den
-Richtlinien festgelegten Sätzen anzurechnen.
-5             § 34c Abs. 6 Satz 3 des Einkommensteuergesetzes ist bei
-den aus einem Mitgliedstaat der Europäischen Union stammenden
-Einkünften auch auf Einkünfte anzuwenden, die nach den Richtlinien
-nicht besteuert werden können.
-6             Eine Zahlung, die von einem Unternehmen der in Satz 3
-genannten Staaten oder von einer in diesen Staaten gelegenen
-Betriebsstätte eines Unternehmens eines Mitgliedstaates der
-Europäischen Union als Schuldner erfolgt, gilt als aus dem
-betreffenden Mitgliedstaat der Europäischen Union stammend, wenn die
-Einkünfte nach Artikel 6 der Richtlinie in dem Mitgliedstaat der
-Europäischen Union besteuert werden können.
-7             Soweit ein Abkommen zur Vermeidung der Doppelbesteuerung
-mit einem dieser Staaten bei Zinsen oder Lizenzgebühren die Anrechnung
-einer als gezahlt geltenden Steuer vorsieht, ist die Anrechnung bei
-den unter die Richtlinie fallenden Zinsen und Lizenzgebühren letztmals
-für den Veranlagungszeitraum zu gewähren, in dem dieser Staat nach
-Artikel 6 der Richtlinie hierauf noch Quellensteuern erheben kann.
-8             Werden die aus den in Satz 3 genannten Staaten
-stammenden Zinsen oder Lizenzgebühren an eine in der Bundesrepublik
-Deutschland gelegene Betriebsstätte eines Unternehmens eines anderen
-Mitgliedstaates der Europäischen Union gezahlt, sind bei Anwendung des
-§ 50 Abs. 6 des Einkommensteuergesetzes die Zinsen und Lizenzgebühren
-als ausländische Einkünfte anzusehen.
-9             Eine Steueranrechnung erfolgt höchstens zu den in
-Artikel 6 der Richtlinie genannten Sätzen.
-10             Die Sätze 1 bis 8 sind im Fall der Besteuerung nach
-Artikel 15 Abs. 2 Satz 2 des Abkommens zwischen der Europäischen
-Gemeinschaft und der Schweizerischen Eidgenossenschaft über
-Regelungen, die den in der Richtlinie 2003/48/EG des Rates im Bereich
-der Besteuerung von Zinserträgen festgelegten Regelungen gleichwertig
-sind (ABl. EU 2004 Nr. L 385 S. 30), entsprechend anzuwenden.
+3             § 34c Absatz 6 Satz 3 des Einkommensteuergesetzes ist
+auch auf Einkünfte entsprechend anzuwenden, die auf Grund einer
+Verordnung oder Richtlinie der Europäischen Union in einem anderen
+Mitgliedstaat der Europäischen Union nicht besteuert werden.
 
 
 ## Vierter Teil - Nicht in das Nennkapital geleistete Einlagen und Entstehung und Veranlagung
@@ -2177,19 +2620,16 @@ Einlagekonto) auszuweisen.
 Bestand am Ende des vorangegangenen Wirtschaftsjahrs um die jeweiligen
 Zu- und Abgänge des Wirtschaftsjahrs fortzuschreiben.
 3             Leistungen der Kapitalgesellschaft mit Ausnahme der
-Rückzahlung von Nennkapital im Sinne des § 28 Abs. 2 Satz 2 und 3
-mindern das steuerliche Einlagekonto unabhängig von ihrer
-handelsrechtlichen Einordnung nur, soweit sie den auf den Schluss des
-vorangegangenen Wirtschaftsjahrs ermittelten ausschüttbaren Gewinn
-übersteigen (Einlagenrückgewähr).
+Rückzahlung von Nennkapital im Sinne des § 28 Abs. 2 Satz 2 und 3 und
+der Mehrabführungen im Sinne des Absatzes 6 mindern das steuerliche
+Einlagekonto unabhängig von ihrer handelsrechtlichen Einordnung nur,
+soweit sie den auf den Schluss des vorangegangenen Wirtschaftsjahrs
+ermittelten ausschüttbaren Gewinn übersteigen (Einlagenrückgewähr).
 4             Der Bestand des steuerlichen Einlagekontos kann durch
 Leistungen nicht negativ werden; Absatz 6 bleibt unberührt.
 5             Als ausschüttbarer Gewinn gilt das um das gezeichnete
 Kapital geminderte in der Steuerbilanz ausgewiesene Eigenkapital
 abzüglich des Bestands des steuerlichen Einlagekontos.
-6             Ist für die Leistung der Kapitalgesellschaft die
-Minderung des Einlagekontos bescheinigt worden, bleibt die der
-Bescheinigung zugrunde gelegte Verwendung unverändert.
 
 (2)
 1             Der unter Berücksichtigung der Zu- und Abgänge des
@@ -2243,8 +2683,8 @@ bezeichneten Angaben nach amtlich vorgeschriebenem Muster zu erteilen.
 welche Kapitalgesellschaft die Leistung erbracht wird.
 3             Die Sätze 1 und 2 gelten entsprechend, wenn anstelle
 eines inländischen Kreditinstituts eine inländische Zweigniederlassung
-eines der in § 53b Abs. 1 oder 7 des Gesetzes über das Kreditwesen
-genannten Institute oder Unternehmen die Leistung erbringt.
+eines der in § 53b Absatz 1 oder 7 des Kreditwesengesetzes genannten
+Unternehmen die Leistung erbringt.
 
 (5)
 1             Ist für eine Leistung der Kapitalgesellschaft die
@@ -2268,9 +2708,11 @@ Wirtschaftsjahr, in dem die entsprechende Leistung erfolgt ist, ist an
 die der Kapitalertragsteuerhaftung nach Satz 4 zugrunde gelegte
 Einlagenrückgewähr anzupassen.
 
-(6) Minderabführungen erhöhen und Mehrabführen mindern das
+(6) Minderabführungen erhöhen und Mehrabführungen mindern das
 Einlagekonto einer Organgesellschaft, wenn sie ihre Ursache in
-organschaftlicher Zeit haben.
+organschaftlicher Zeit haben. Mehrabführungen im Sinne des Satzes 1
+mindern das steuerliche Einlagekonto der Organgesellschaft vor anderen
+Leistungen.
 
 (7) Die vorstehenden Absätze gelten sinngemäß für andere unbeschränkt
 steuerpflichtige Körperschaften und Personenvereinigungen, die
@@ -2389,11 +2831,12 @@ Verhältnis der übergehenden Vermögensteile zu dem bei der
 Vermögen, ist das Verhältnis der gemeinen Werte der übergehenden
 Vermögensteile zu dem vor der Spaltung vorhandenen Vermögen maßgebend.
 3             Für die Entwicklung des steuerlichen Einlagekontos des
-Übernehmers gilt Absatz 2 Satz 2 und 3 entsprechend. Soweit das
-Vermögen durch Abspaltung auf eine Personengesellschaft übergeht,
-mindert sich das steuerliche Einlagekonto der übertragenden
-Kapitalgesellschaft in dem Verhältnis der übergehenden Vermögensteile
-zu dem vor der Spaltung bestehenden Vermögen.
+Übernehmers gilt Absatz 2 Satz 2 und 3 entsprechend.
+4             Soweit das Vermögen durch Abspaltung auf eine
+Personengesellschaft übergeht, mindert sich das steuerliche
+Einlagekonto der übertragenden Kapitalgesellschaft in dem Verhältnis
+der übergehenden Vermögensteile zu dem vor der Spaltung bestehenden
+Vermögen.
 
 (4) Nach Anwendung der Absätze 2 und 3 ist für die Anpassung des
 Nennkapitals der umwandlungsbeteiligten Kapitalgesellschaften § 28
@@ -2443,16 +2886,10 @@ Festsetzung und Erhebung von Steuern, die nach der veranlagten
 Körperschaftsteuer bemessen werden (Zuschlagsteuern), sind die
 Vorschriften des Einkommensteuergesetzes entsprechend anzuwenden,
 soweit dieses Gesetz nichts anderes bestimmt.
-2             Wird der Gewinn durch Bestandsvergleich ermittelt, sind
-bei der Festsetzung der Vorauszahlungen die Änderungen durch das
-Unternehmensteuerreformgesetz 2008 vom 14. August 2007 (BGBl. I S.
-1912) zu berücksichtigen, wenn der Steuerpflichtige dies nach amtlich
-vorgeschriebenem Vordruck beantragt oder das Finanzamt den
-Steuerpflichtigen zur Abgabe des Vordrucks auffordert.
-3             Die sich im Zuge der Festsetzung ergebenden einzelnen
+2             Die sich im Zuge der Festsetzung ergebenden einzelnen
 Körperschaftsteuerbeträge sind jeweils zu Gunsten des
 Steuerpflichtigen auf volle Euro-Beträge zu runden.
-4             § 37b des Einkommensteuergesetzes findet entsprechende
+3             § 37b des Einkommensteuergesetzes findet entsprechende
 Anwendung.
 
 (1a)
@@ -2528,8 +2965,8 @@ des § 2 Nr. 2 zweiter Halbsatz Buchstabe c von der anderen
 Körperschaft im Sinne des § 8b Abs. 10 Satz 2 vorzunehmen.
 5             In Fällen des Satzes 4 hat die überlassende Körperschaft
 der anderen Körperschaft den zur Deckung der Kapitalertragsteuer
-notwendigen Betrag zur Verfügung zu stellen; § 44 Abs. 1 Satz 8 und 9
-des Einkommensteuergesetzes gilt entsprechend.
+notwendigen Betrag zur Verfügung zu stellen; § 44 Absatz 1 Satz 10 und
+11 des Einkommensteuergesetzes gilt entsprechend.
 
 (4)
 1             Absatz 2 Nr. 2 gilt nur für beschränkt steuerpflichtige
@@ -2540,8 +2977,8 @@ auf den das Abkommen über den Europäischen Wirtschaftsraum vom 3.
 Januar 1994 (ABl. EG Nr. L 1 S. 3), zuletzt geändert durch den
 Beschluss des Gemeinsamen EWR-Ausschusses Nr. 91/2007 vom 6. Juli 2007
 (ABl. EU Nr. L 328 S. 40), in der jeweiligen Fassung Anwendung findet,
-gegründete Gesellschaften im Sinne des Artikels 48 des Vertrags zur
-Gründung der Europäischen Gemeinschaft oder des Artikels 34 des
+gegründete Gesellschaften im Sinne des Artikels 54 des Vertrags über
+die Arbeitsweise der Europäischen Union oder des Artikels 34 des
 Abkommens über den Europäischen Wirtschaftsraum sind, deren Sitz und
 Ort der Geschäftsleitung sich innerhalb des Hoheitsgebiets eines
 dieser Staaten befindet.
@@ -2549,6 +2986,89 @@ dieser Staaten befindet.
 Genossenschaften gelten für die Anwendung des Satzes 1 als nach den
 Rechtsvorschriften des Staates gegründete Gesellschaften, in dessen
 Hoheitsgebiet sich der Sitz der Gesellschaften befindet.
+
+(5)
+1             Ist die Körperschaftsteuer des Gläubigers für
+Kapitalerträge im Sinne des § 20 Absatz 1 Nummer 1 des
+Einkommensteuergesetzes nach Absatz 1 abgegolten, wird dem Gläubiger
+der Kapitalerträge auf Antrag die einbehaltene und abgeführte
+Kapitalertragsteuer nach Maßgabe des § 36 Absatz 2 Nummer 2 des
+Einkommensteuergesetzes erstattet, wenn
+
+1.  der Gläubiger der Kapitalerträge eine nach § 2 Nummer 1 beschränkt
+    steuerpflichtige Gesellschaft ist, die
+
+    a)  zugleich eine Gesellschaft im Sinne des Artikels 54 des Vertrags über
+        die Arbeitsweise der Europäischen Union oder des Artikels 34 des
+        Abkommens über den Europäischen Wirtschaftsraum ist,
+
+
+    b)  ihren Sitz und Ort der Geschäftsleitung innerhalb des Hoheitsgebiets
+        eines Mitgliedstaates der Europäischen Union oder eines Staates, auf
+        den das Abkommen über den Europäischen Wirtschaftsraum Anwendung
+        findet, hat,
+
+
+    c)  im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer
+        mit § 1 vergleichbaren unbeschränkten Steuerpflicht unterliegt, ohne
+        von dieser befreit zu sein, und
+
+
+
+
+
+2.  der Gläubiger unmittelbar am Grund- oder Stammkapital der Schuldnerin
+    der Kapitalerträge beteiligt ist und die
+    Mindestbeteiligungsvoraussetzung des § 43b Absatz 2 des
+    Einkommensteuergesetzes nicht erfüllt.
+
+
+
+2             Satz 1 gilt nur, soweit
+
+1.  keine Erstattung der betreffenden Kapitalertragsteuer nach anderen
+    Vorschriften vorgesehen ist,
+
+
+2.  die Kapitalerträge nach § 8b Absatz 1 bei der Einkommensermittlung
+    außer Ansatz bleiben würden,
+
+
+3.  die Kapitalerträge aufgrund ausländischer Vorschriften keiner Person
+    zugerechnet werden, die keinen Anspruch auf Erstattung nach Maßgabe
+    dieses Absatzes hätte, wenn sie die Kapitalerträge unmittelbar
+    erzielte,
+
+
+4.  ein Anspruch auf völlige oder teilweise Erstattung der
+    Kapitalertragsteuer bei entsprechender Anwendung des § 50d Absatz 3
+    des Einkommensteuergesetzes nicht ausgeschlossen wäre und
+
+
+5.  die Kapitalertragsteuer nicht beim Gläubiger oder einem unmittelbar
+    oder mittelbar am Gläubiger beteiligten Anteilseigner angerechnet oder
+    als Betriebsausgabe oder als Werbungskosten abgezogen werden kann; die
+    Möglichkeit eines Anrechnungsvortrags steht der Anrechnung gleich.
+
+
+
+3             Der Gläubiger der Kapitalerträge hat die Voraussetzungen
+für die Erstattung nachzuweisen.
+4             Er hat insbesondere durch eine Bescheinigung der
+Steuerbehörden seines Ansässigkeitsstaates nachzuweisen, dass er in
+diesem Staat als steuerlich ansässig betrachtet wird, dort
+unbeschränkt körperschaftsteuerpflichtig und nicht von der
+Körperschaftsteuer befreit sowie der tatsächliche Empfänger der
+Kapitalerträge ist.
+5             Aus der Bescheinigung der ausländischen Steuerverwaltung
+muss hervorgehen, dass die deutsche Kapitalertragsteuer nicht
+angerechnet, nicht abgezogen oder nicht vorgetragen werden kann und
+inwieweit eine Anrechnung, ein Abzug oder Vortrag auch tatsächlich
+nicht erfolgt ist.
+6             Die Erstattung der Kapitalertragsteuer erfolgt für alle
+in einem Kalenderjahr bezogenen Kapitalerträge im Sinne des Satzes 1
+auf der Grundlage eines Freistellungsbescheids nach § 155 Absatz 1
+Satz 3 der Abgabenordnung.
 
 
 ### § 32a Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
@@ -2648,10 +3168,7 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 2.  Vorschriften zu erlassen
 
-    a)  über die Kleinbeträge, um die eine Rückstellung für
-        Beitragsrückerstattung nach § 21 Abs. 2 nicht aufgelöst zu werden
-        braucht, wenn die Auszahlung dieser Beträge an die Versicherten mit
-        einem unverhältnismäßig hohen Verwaltungsaufwand verbunden wäre;
+    a)  (weggefallen)
 
 
     b)  über die Herabsetzung oder Erhöhung der Körperschaftsteuer nach § 23
@@ -2671,38 +3188,9 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
     d)  nach denen Versicherungsvereine auf Gegenseitigkeit von geringerer
         wirtschaftlicher Bedeutung, die eine Schwankungsrückstellung nach § 20
         Abs. 1 nicht gebildet haben, zum Ausgleich des schwankenden
-        Jahresbedarfs zu Lasten des steuerlichen Gewinns Beträge der nach § 37
-        des Versicherungsaufsichtsgesetzes zu bildenden Verlustrücklage
-        zuführen können;
-
-
-    e)  die die Steuerbefreiung nach § 8b Absatz 1 Satz 1 und Absatz 2 Satz 1
-        sowie vergleichbare Vorschriften in Abkommen zur Vermeidung der
-        Doppelbesteuerung von der Erfüllung besonderer Nachweis- und
-        Mitwirkungspflichten abhängig machen, wenn außerhalb des
-        Geltungsbereichs dieses Gesetzes ansässige Beteiligte oder andere
-        Personen nicht wie inländische Beteiligte bei Vorgängen innerhalb des
-        Geltungsbereichs dieses Gesetzes zur Mitwirkung bei der Ermittlung des
-        Sachverhalts herangezogen werden können.
-        2                         Die besonderen Nachweis- und
-        Mitwirkungspflichten können sich auf die Angemessenheit der zwischen
-        nahestehenden Personen im Sinne des § 1 Absatz 2 des
-        Außensteuergesetzes in ihren Geschäftsbeziehungen vereinbarten
-        Bedingungen und die Bevollmächtigung der Finanzbehörde, im Namen des
-        Steuerpflichtigen mögliche Auskunftsansprüche gegenüber den von der
-        Finanzbehörde benannten Kreditinstituten außergerichtlich und
-        gerichtlich geltend zu machen, erstrecken.
-        3                         Die besonderen Nachweis- und
-        Mitwirkungspflichten auf der Grundlage dieses Buchstabens gelten
-        nicht, wenn die außerhalb des Geltungsbereichs dieses Gesetzes
-        ansässigen Beteiligten oder anderen Personen in einem Staat oder
-        Gebiet ansässig sind, mit dem ein Abkommen besteht, das die Erteilung
-        von Auskünften entsprechend Artikel 26 des Musterabkommens der OECD
-        zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
-        Einkommen und vom Vermögen in der Fassung von 2005 vorsieht oder der
-        Staat oder das Gebiet Auskünfte in einem vergleichbaren Umfang erteilt
-        oder die Bereitschaft zu einer entsprechenden Auskunftserteilung
-        besteht.
+        Jahresbedarfs zu Lasten des steuerlichen Gewinns Beträge der nach §
+        193 des Versicherungsaufsichtsgesetzes zu bildenden Verlustrücklage
+        zuführen können.
 
 
 
@@ -2729,875 +3217,330 @@ Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
 (1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen
 nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum
-2010\.
+2022\.
 
-(2) Das Körperschaftsteuergesetz in der Fassung des Artikels 3 des
-Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) ist bei vom
-Kalenderjahr abweichenden Wirtschaftsjahren erstmals für den
-Veranlagungszeitraum 2002 anzuwenden, wenn das erste im
-Veranlagungszeitraum 2001 endende Wirtschaftsjahr vor dem 1. Januar
-2001 beginnt.
+(1a) § 1a in der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021
+(BGBl. I S. 2050) ist erstmals für den Veranlagungszeitraum 2021
+anzuwenden mit der Maßgabe, dass der Antrag erstmals für nach dem 31.
+Dezember 2021 beginnende Wirtschaftsjahre gestellt werden kann.
 
-(2a) § 2 Nr. 2 und § 5 Abs. 2 Nr. 1 in der Fassung des Artikels 2 des
-Gesetzes vom 14. August 2007 (BGBl. I S. 1912) sind erstmals auf
-Entgelte anzuwenden, die nach dem 17. August 2007 zufließen.
-
-(3)
-1             § 5 Abs. 1 Nr. 2 ist für die Landestreuhandstelle Hessen
-- Bank für Infrastruktur - rechtlich unselbständige Anstalt in der
-Landesbank Hessen-Thüringen Girozentrale erstmals für den
-Veranlagungszeitraum 2007 sowie für die Investitions- und Förderbank
-Niedersachsen erstmals für den Veranlagungszeitraum 2008 anzuwenden.
-2             § 5 Absatz 1 Nummer 2 ist für die Wirtschafts- und
-Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der
-Landesbank Hessen-Thüringen Girozentrale – erstmals für den
-Veranlagungszeitraum 2009 anzuwenden.
-3             Die Steuerbefreiung nach § 5 Abs. 1 Nr. 2 in der bis zum
-24\. Dezember 2008 geltenden Fassung ist für die Investitions- und
-Förderbank Niedersachsen GmbH sowie für die Niedersächsische
-Landestreuhandstelle - Norddeutsche Landesbank Girozentrale -
-letztmals für den Veranlagungszeitraum 2007 anzuwenden.
-4             Die Steuerbefreiung nach § 5 Absatz 1 Nummer 2 ist für
-die Investitionsbank Hessen, für die Wohnungsbauförderungsanstalt
-Nordrhein-Westfalen – Anstalt der NRW.Bank – und für die
-Landestreuhandstelle Hessen – Bank für Infrastruktur – rechtlich
-unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale
-– letztmals für den Veranlagungszeitraum 2009 anzuwenden.
-
-(3a) § 5 Abs. 1 Nr. 8 in der Fassung des Artikels 31 des Gesetzes vom
-9\. Dezember 2004 (BGBl. I S. 3242) ist erstmals für den
-Veranlagungszeitraum 2005 anzuwenden.
-
-(3b) § 5 Abs. 1 Nr. 16 in der am 21. Dezember 2004 geltenden Fassung
-ist erstmals für den Veranlagungszeitraum 2005 anzuwenden.
-
-(3c) § 5 Abs. 1 Nr. 23 in der Fassung des Artikels 3 des Gesetzes vom
-15\. Dezember 2003 (BGBl. I S. 2645) ist auch in Veranlagungszeiträumen
-vor 2003 anzuwenden.
-
-(4)
-1             § 5 Abs. 2, § 8a Abs. 1, die §§ 8b, 15, 16 und 18, § 26
-Abs. 6, die §§ 27, 28 und 29, § 32 Abs. 2, § 33 Abs. 1 und 2, §§ 35,
-36, 37, 38 und 39 sowie § 40 Abs. 3 des Körperschaftsteuergesetzes in
-der Fassung des Artikels 2 des Gesetzes vom 20. Dezember 2001 (BGBl. I
-S. 3858) sind, soweit in den folgenden Absätzen nichts anderes
-bestimmt ist, erstmals für den Veranlagungszeitraum anzuwenden, für
-den erstmals das Körperschaftsteuergesetz in der Fassung des Artikels
-3 des Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) anzuwenden ist.
-2             § 29 des Körperschaftsteuergesetzes in der Fassung des
-Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) wird mit Wirkung ab
-diesem Veranlagungszeitraum nicht mehr angewendet.
-
-(5)
-1             Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine
-können bis zum 31. Dezember 1991, in den Fällen des § 54 Abs. 4 des
-Körperschaftsteuergesetzes in der Fassung des Artikels 9 des Gesetzes
-vom 18. Dezember 1989 (BGBl. I S. 2212) bis zum 31. Dezember 1992
-oder, wenn es sich um Erwerbs- und Wirtschaftsgenossenschaften oder
+(2)
+1             Genossenschaften sowie Vereine können bis zum 31.
+Dezember 1991, in den Fällen des § 54 Absatz 4 in der Fassung des
+Artikels 9 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2212) bis
+zum 31. Dezember 1992 oder, wenn es sich um Genossenschaften oder
 Vereine in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 handelt, bis zum 31. Dezember 1993 durch schriftliche Erklärung auf
-die Steuerbefreiung nach § 5 Abs. 1 Nr. 10 und 14 des
+die Steuerbefreiung nach § 5 Absatz 1 Nummer 10 und 14 des
 Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes
 vom 14. Juli 2000 (BGBl. I S. 1034) verzichten, und zwar auch für den
 Veranlagungszeitraum 1990.
-2             Die Körperschaft ist mindestens für fünf aufeinander
-folgende Kalenderjahre an die Erklärung gebunden.
+2             Die Körperschaft ist mindestens für fünf
+aufeinanderfolgende Kalenderjahre an die Erklärung gebunden.
 3             Die Erklärung kann nur mit Wirkung vom Beginn eines
 Kalenderjahrs an widerrufen werden.
 4             Der Widerruf ist spätestens bis zur Unanfechtbarkeit der
 Steuerfestsetzung des Kalenderjahrs zu erklären, für das er gelten
 soll.
 
-(5a) § 5 Abs. 2 Nr. 2 in der Fassung des Artikels 3 des Gesetzes vom
-19\. Dezember 2008 (BGBl. I S. 2794) ist auch für Veranlagungszeiträume
-vor 2009 anzuwenden.
+(2a) § 5 Absatz 1 Nummer 1 in der Fassung des Artikels 6 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Veranlagungszeitraum 2019 anzuwenden.
+
+(3)
+1             § 5 Absatz 1 Nummer 2 ist für die Hamburgische
+Investitions- und Förderbank erstmals für den Veranlagungszeitraum
+2013 anzuwenden.
+2             Die Steuerbefreiung nach § 5 Absatz 1 Nummer 2 in der
+bis zum 30. Juli 2014 geltenden Fassung ist für die Hamburgische
+Wohnungsbaukreditanstalt letztmals für den Veranlagungszeitraum 2013
+anzuwenden.
+3             § 5 Absatz 1 Nummer 16 Satz 1 und 2 in der am 1. Januar
+2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2015
+anzuwenden.
+4             § 5 Absatz 1 Nummer 24 in der am 31. Dezember 2014
+geltenden Fassung ist erstmals für den Veranlagungszeitraum 2014
+anzuwenden.
+
+(3a) § 5 Absatz 1 Nummer 3 Buchstabe d, Nummer 4 und 16 Satz 3 in der
+am 1. Januar 2016 geltenden Fassung ist erstmals für den
+Veranlagungszeitraum 2016 anzuwenden.
+
+(3b) § 5 Absatz 1 Nummer 10 in der Fassung des Artikels 2 des Gesetzes
+vom 4. August 2019 (BGBl. I S. 1122) ist erstmals für den
+Veranlagungszeitraum 2019 anzuwenden.
+
+(3c) § 8 Absatz 1 in der Fassung des Artikels 3 des Gesetzes vom 25.
+Juni 2021 (BGBl. I S. 2056) ist auch für Veranlagungszeiträume vor
+2021 anzuwenden.
+
+(3d) § 8 Absatz 8 Satz 6, § 8 Absatz 9 Satz 9, § 8c Absatz 2, § 8d
+Absatz 1 Satz 9, § 15 Satz 1 Nummer 1 Satz 2 und 3 und § 15 Satz 1
+Nummer 1a in der Fassung des Artikels 3 des Gesetzes vom 27. Juni 2017
+(BGBl. I S. 2074) sind auch für Veranlagungszeiträume vor 2017
+anzuwenden, wenn der Steuerpflichtige einen Antrag nach § 52 Absatz 4a
+Satz 3 des Einkommensteuergesetzes in der Fassung des Artikels 2 des
+Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) stellt.
+
+(4) § 8a Absatz 2 und 3 ist nicht anzuwenden, wenn die
+Rückgriffsmöglichkeit des Dritten allein auf der Gewährträgerhaftung
+einer Gebietskörperschaft oder einer anderen Einrichtung des
+öffentlichen Rechts gegenüber den Gläubigern eines Kreditinstituts für
+Verbindlichkeiten beruht, die bis zum 18. Juli 2001 vereinbart waren;
+Gleiches gilt für bis zum 18. Juli 2005 vereinbarte Verbindlichkeiten,
+wenn deren Laufzeit nicht über den 31. Dezember 2015 hinausgeht.
+
+(5)
+1             § 8b Absatz 1 Satz 3 in der Fassung des Artikels 2 des
+Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für Bezüge
+anzuwenden, die nach dem 31. Dezember 2019 zufließen.
+2             § 8b Absatz 3 Satz 6 in der Fassung des Artikels 1 des
+Gesetzes vom 25. Juni 2021 (BGBl. I S. 2050) ist erstmals für
+Gewinnminderungen im Sinne des § 8b Absatz 3 Satz 4 und 5 anzuwenden,
+die nach dem 31. Dezember 2021 eintreten.
+3             § 8b Absatz 4 in der am 12. Dezember 2006 geltenden
+Fassung ist für Anteile weiter anzuwenden, die einbringungsgeboren im
+Sinne des § 21 des Umwandlungssteuergesetzes in der am 12. Dezember
+2006 geltenden Fassung sind, und für Anteile im Sinne des § 8b Absatz
+4 Satz 1 Nummer 2, die auf einer Übertragung bis zum 12. Dezember 2006
+beruhen.
+4             § 8b Absatz 4 Satz 8 in der Fassung des Artikels 6 des
+Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Veranlagungszeitraum 2018 anzuwenden.
+5             § 8b Absatz 7 Satz 1 in der am 1. Januar 2017 geltenden
+Fassung ist erstmals für den Veranlagungszeitraum 2017 anzuwenden; §
+8b Absatz 7 Satz 2 in der am 1. Januar 2017 geltenden Fassung ist
+anzuwenden auf Anteile, die nach dem 31. Dezember 2016 dem
+Betriebsvermögen zugehen.
 
 (6)
-1             § 8 Abs. 1 Satz 2 in der Fassung des Artikels 3 des
-Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist auch für
-Veranlagungszeiträume vor 2009 anzuwenden.
-2             § 8 Abs. 3 Satz 4 bis 6 in der Fassung des Artikels 4
-des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist erstmals auf
-verdeckte Einlagen anzuwenden, die nach dem 18. Dezember 2006 getätigt
-wurden.
-3             § 8 Abs. 4 in der am 23. Dezember 2001 geltenden Fassung
-ist neben § 8c des Körperschaftsteuergesetzes in der Fassung des
-Artikels 2 des Gesetzes vom 14. August 2007 (BGBl. I S. 1912)
-letztmals anzuwenden, wenn mehr als die Hälfte der Anteile an einer
-Kapitalgesellschaft innerhalb eines Zeitraums von fünf Jahren
-übertragen werden, der vor dem 1. Januar 2008 beginnt, und der Verlust
-der wirtschaftlichen Identität vor dem 1. Januar 2013 eintritt.
-4             § 8 Abs. 7 in der Fassung des Artikels 3 des Gesetzes
-vom 19. Dezember 2008 (BGBl. I S. 2794) ist auch für
-Veranlagungszeiträume vor 2009 anzuwenden.
-5             Ist im Einzelfall vor dem 18. Juni 2008 bei der
-Einkommensermittlung nach anderen Grundsätzen als nach § 8 Abs. 7 in
-der Fassung des Artikels 3 des Gesetzes vom 19. Dezember 2008 (BGBl. I
-S. 2794) verfahren worden, so sind diese Grundsätze insoweit letztmals
-für den Veranlagungszeitraum 2011 maßgebend.
-6             Entfällt nach dem 18. Juni 2008 erstmals die Mehrheit
-der Stimmrechte nicht mehr unmittelbar oder mittelbar auf juristische
-Personen des öffentlichen Rechts oder tragen trotz Bestehens des
-Stimmrechtserfordernisses nach diesem Tag erstmals auch andere als
-diese Gesellschafter die Verluste aus den Dauerverlustgeschäften, ist
-Satz 5 für Veranlagungszeiträume vor 2012 nicht mehr anzuwenden.
-7             § 8 Abs. 8 in der Fassung des Artikels 3 des Gesetzes
-vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals für den
-Veranlagungszeitraum 2009 anzuwenden.
-8             Der zum 31. Dezember 2008 für einen Betrieb gewerblicher
-Art, der durch eine Zusammenfassung entstanden war, festgestellte
-Verlustvortrag, gilt als in diesem Betrieb gewerblicher Art
-entstanden.
-9             § 8 Abs. 9 in der Fassung des Artikels 3 des Gesetzes
-vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals für den
-Veranlagungszeitraum 2009 anzuwenden.
-10             Ein auf den Schluss des Veranlagungszeitraums 2008
-festgestellter Verlustvortrag ist sachgerecht nach Maßgabe des § 8
-Abs. 9 aufzuteilen, die sich hiernach ergebenden jeweiligen Beträge
-gelten als Ausgangsbetrag bei der Anwendung des § 10d des
-Einkommensteuergesetzes in dem folgenden Veranlagungszeitraum.
-11             Für den Verlustrücktrag nach Maßgabe des § 10d des
-Einkommensteuergesetzes in den Veranlagungszeitraum 2008 ist die Summe
-der sich im Veranlagungszeitraum 2009 ergebenden Beträge aus den
-einzelnen Sparten maßgebend.
-12             Nach Inkrafttreten des Artikels 4 des Gesetzes vom 12.
-August 2008 (BGBl. I S. 1672) ist Satz 9 mit der Maßgabe anzuwenden,
-dass an die Stelle der Angabe "Satz 5" die Angabe "Satz 8" tritt.
-13             § 8 Absatz 9 Satz 8 in der Fassung des Artikels 2 des
-Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) ist erstmals für den
-Veranlagungszeitraum 2009 anzuwenden.
-14             § 8 Absatz 10 Satz 1 in der Fassung des Artikels 17 des
-Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals für den
-Veranlagungszeitraum 2012 anzuwenden.
+1             § 8c Absatz 1 Satz 1 bis 3 in der Fassung des Artikels 6
+des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) findet erstmals
+für den Veranlagungszeitraum 2008 und auf Anteilsübertragungen nach
+dem 31. Dezember 2007 Anwendung.
+2             § 8c Absatz 1 Satz 4 bis 8 in der Fassung des Artikels 6
+des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist erstmals auf
+schädliche Beteiligungserwerbe nach dem 31. Dezember 2009 anzuwenden.
+3             § 8c Absatz 1a in der Fassung des Artikels 6 des
+Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den
+Veranlagungszeitraum 2008 und auf Anteilsübertragungen nach dem 31.
+Dezember 2007 anzuwenden.
+4             Erfüllt ein nach dem 31. Dezember 2007 erfolgter
+Beteiligungserwerb die Voraussetzungen des § 8c Absatz 1a, bleibt er
+bei der Anwendung des § 8c Absatz 1 Satz 1 unberücksichtigt.
 
 (6a)
-1             § 8a in der Fassung des Artikels 3 des Gesetzes vom 22.
-Dezember 2003 (BGBl. I S. 2840) ist erstmals für das Wirtschaftsjahr
-anzuwenden, das nach dem 31. Dezember 2003 beginnt.
-2             § 8a Abs. 1 Satz 2 in der in Satz 1 genannten Fassung
-ist nicht anzuwenden, wenn die Rückgriffsmöglichkeit des Dritten
-allein auf der Gewährträgerhaftung einer Gebietskörperschaft oder
-einer anderen Einrichtung des öffentlichen Rechts gegenüber den
-Gläubigern eines Kreditinstituts für Verbindlichkeiten beruht, die bis
-zum 18. Juli 2001 vereinbart waren; Gleiches gilt für bis zum 18. Juli
-2005 vereinbarte Verbindlichkeiten, wenn deren Laufzeit nicht über den
-31\. Dezember 2015 hinausgeht.
-3             § 8a in der Fassung des Artikels 2 des Gesetzes vom 14.
-August 2007 (BGBl. I S. 1912) ist erstmals für Wirtschaftsjahre
-anzuwenden, die nach dem 25. Mai 2007 beginnen und nicht vor dem 1.
-Januar 2008 enden.
-4             § 8a Abs. 2 und 3 in der in Satz 3 genannten Fassung ist
-nicht anzuwenden, wenn die Rückgriffsmöglichkeit des Dritten allein
-auf der Gewährträgerhaftung einer Gebietskörperschaft oder einer
-anderen Einrichtung des öffentlichen Rechts gegenüber den Gläubigern
-eines Kreditinstituts für Verbindlichkeiten beruht, die bis zum 18.
-Juli 2001 vereinbart waren; Gleiches gilt für bis zum 18. Juli 2005
-vereinbarte Verbindlichkeiten, wenn deren Laufzeit nicht über den 31.
-Dezember 2015 hinausgeht.
-5             § 8a Absatz 1 Satz 1 in der Fassung des Artikels 2 des
-Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950) ist erstmals für
-Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2009 enden.
-6             § 8a Absatz 1 Satz 3 in der Fassung des Artikels 2 des
-Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950) ist erstmals auf
-schädliche Beteiligungserwerbe nach dem 31. Dezember 2009 anzuwenden.
+1              § 8d ist erstmals auf schädliche Beteiligungserwerbe im
+Sinne des § 8c anzuwenden, die nach dem 31. Dezember 2015 erfolgen,
+wenn der Geschäftsbetrieb der Körperschaft vor dem 1. Januar 2016
+weder eingestellt noch ruhend gestellt war.
+2              § 8d Absatz 1 Satz 2 Nummer 1 ist auf Einstellungen
+oder Ruhendstellungen anzuwenden, die nach dem 31. Dezember 2015
+erfolgen.
 
-(7)
-1             § 8b ist erstmals anzuwenden für
+(6b) § 9 Absatz 1 Satz 8 in der Fassung des Artikels 6 des Gesetzes
+vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals auf
+Mitgliedsbeiträge anzuwenden, die nach dem 31. Dezember 2019 gezahlt
+werden.
 
-1.  Bezüge im Sinne des § 20 Abs. 1 Nr. 1 und 2 des
-    Einkommensteuergesetzes, auf die bei der ausschüttenden Körperschaft
-    der Vierte Teil des Körperschaftsteuergesetzes in der Fassung des
-    Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) nicht mehr
-    anzuwenden ist;
+(6c) § 10 Nummer 3 in der Fassung des Artikels 6 des Gesetzes vom 12.
+Dezember 2019 (BGBl. I S. 2451) ist erstmals anzuwenden auf nach dem
+31\. Dezember 2018 festgesetzte Geldstrafen, sonstige Rechtsfolgen
+vermögensrechtlicher Art, bei denen der Strafcharakter überwiegt, und
+Leistungen zur Erfüllung von Auflagen oder Weisungen, soweit die
+Auflagen oder Weisungen nicht lediglich der Wiedergutmachung des durch
+die Tat verursachten Schadens dienen, sowie auf nach dem 31. Dezember
+2018 entstandene damit zusammenhängende Aufwendungen.
 
+(6d)
+1             § 12 Absatz 1 und 1a in der Fassung des Artikels 2 des
+Gesetzes vom 25. Juni 2021 (BGBl. I S. 2035) ist erstmals für nach dem
+31\. Dezember 2019 endende Wirtschaftsjahre anzuwenden.
+2             § 12 Absatz 4 in der am 30. Juni 2021 geltenden Fassung
+ist letztmals für den Veranlagungszeitraum 2020 anzuwenden.
+3             § 12 Absatz 2 in der am 31. Dezember 2021 geltenden
+Fassung ist letztmals auf Verschmelzungen anwendbar, deren
+steuerlicher Übertragungsstichtag vor dem 1. Januar 2022 liegt.
 
-2.  Gewinne und Gewinnminderungen im Sinne des § 8b Abs. 2 und 3 nach
-    Ablauf des ersten Wirtschaftsjahrs der Gesellschaft, an der die
-    Anteile bestehen, das dem letzten Wirtschaftsjahr folgt, das in dem
-    Veranlagungszeitraum endet, in dem das Körperschaftsteuergesetz in der
-    Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-    1034) letztmals anzuwenden ist.
+(6e)
+1             § 14 Absatz 2 in der Fassung des Artikels 6 des Gesetzes
+vom 11. Dezember 2018 (BGBl. I S. 2338) ist auch für
+Veranlagungszeiträume vor 2017 anzuwenden.
+2             Ist im Einzelfall eine vor dem 1. August 2018 bestehende
+Organschaft unter Berücksichtigung von Ausgleichszahlungen nach
+anderen Grundsätzen als denen des § 14 Absatz 2 in der Fassung des
+Artikels 6 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338)
+anerkannt worden, so sind diese Grundsätze insoweit letztmals für den
+Veranlagungszeitraum 2021 maßgebend.
+3             Wird ein Gewinnabführungsvertrag im Sinne des Satzes 2
+vorzeitig nach dem 1. August 2018 durch Kündigung beendet, gilt die
+Kündigung als durch einen wichtigen Grund im Sinne des § 14 Absatz 1
+Satz 1 Nummer 3 Satz 2 gerechtfertigt.
+4             Wird ein Gewinnabführungsvertrag im Sinne des Satzes 2
+an die Anforderungen des § 14 Absatz 2 in der Fassung des Artikels 6
+des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) angepasst, gilt
+diese Anpassung für die Anwendung des § 14 Absatz 1 Satz 1 Nummer 3
+nicht als Neuabschluss.
+5             § 14 Absatz 4 sowie § 27 Absatz 1 Satz 3 und Absatz 6 in
+der Fassung des Artikels 1 des Gesetzes vom 25. Juni 2021 (BGBl. I S.
+2050) sind erstmals auf Minder- und Mehrabführungen anzuwenden, die
+nach dem 31. Dezember 2021 erfolgen.
+6             Hinsichtlich des Zeitpunkts der Minder- und
+Mehrabführungen ist dabei auf das Ende des Wirtschaftsjahres der
+Organgesellschaft abzustellen.
+7             Beim Organträger sind noch bestehende Ausgleichsposten
+für organschaftliche Minder- und Mehrabführungen, die nach Maßgabe des
+§ 14 Absatz 4 in der am 31. Dezember 2021 geltenden Fassung in der
+Steuerbilanz gebildet wurden, in dem Wirtschaftsjahr aufzulösen, das
+nach dem 31. Dezember 2021 endet.
+8             Aktive Ausgleichsposten erhöhen, passive
+Ausgleichsposten mindern dabei den Buchwert der Beteiligung des
+Organträgers an der Organgesellschaft in der Steuerbilanz.
+9             Soweit ein passiver Ausgleichsposten die Summe aus dem
+aktiven Ausgleichsposten und dem Buchwert der Beteiligung des
+Organträgers an der Organgesellschaft in der Steuerbilanz übersteigt,
+liegt ein Ertrag aus der Beteiligung an der Organgesellschaft vor.
+10             § 3 Nummer 40 Buchstabe c und § 3c Absatz 2 des
+Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 7 und 8 dieses
+Gesetzes sind auf diesen Beteiligungsertrag anzuwenden.
+11             Bis zur Höhe des Betrages nach Satz 9 kann durch den
+Steuerpflichtigen eine den steuerlichen Gewinn mindernde Rücklage
+gebildet werden.
+12             Soweit diese Rücklage gebildet wird, sind § 3 Nummer 40
+Buchstabe c und § 3c Absatz 2 des Einkommensteuergesetzes sowie § 8b
+Absatz 2, 3, 7 und 8 dieses Gesetzes auf den Ertrag nach Satz 9 nicht
+anzuwenden.
+13             Die Rücklage nach Satz 11 ist grundsätzlich im
+Wirtschaftsjahr der Bildung und in den neun folgenden
+Wirtschaftsjahren zu jeweils einem Zehntel gewinnerhöhend aufzulösen.
+14             Die Rücklage ist in vollem Umfang gewinnerhöhend
+aufzulösen, wenn die Beteiligung des Organträgers an der
+Organgesellschaft veräußert wird.
+15             Der Veräußerung gleichgestellt sind insbesondere die
+Umwandlung der Organgesellschaft auf eine Personengesellschaft oder
+eine natürliche Person, die verdeckte Einlage der Beteiligung an der
+Organgesellschaft und die Auflösung der Organgesellschaft.
+16             § 3 Nummer 40 Buchstabe c und § 3c Absatz 2 des
+Einkommensteuergesetzes sowie § 8b Absatz 2, 3, 7 und 8 dieses
+Gesetzes sind bei der Auflösung der Rücklage anzuwenden.
 
+(6f) § 15 in der Fassung des Artikels 6 des Gesetzes vom 11. Dezember
+2018 (BGBl. I S. 2338) ist erstmals für den Veranlagungszeitraum 2018
+anzuwenden.
 
+(6g) § 15 Satz 1 Nummer 2 Satz 1 und 2 in der Fassung des Artikels 6
+des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals auf
+Umwandlungen anzuwenden, bei denen die Anmeldung zur Eintragung in das
+für die Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche
+Register nach dem 12. Dezember 2019 erfolgt ist.
 
-2             Bis zu den in Satz 1 genannten Zeitpunkten ist § 8b des
-Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) weiter anzuwenden.
-3             Bei der Gewinnermittlung für Wirtschaftsjahre, die nach
-dem 15. August 2001 enden, gilt Folgendes:
-4             § 8b Abs. 2 des Körperschaftsteuergesetzes in der
-Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) ist mit der Maßgabe anzuwenden, dass über Satz 2 der Vorschrift
-hinausgehend auch Gewinnminderungen aus Teilwertabschreibungen nicht
-zu berücksichtigen sind, soweit die Anteile von einem verbundenen
-Unternehmen (§ 15 des Aktiengesetzes) erworben worden sind.
-5             Die Wertminderung von Anteilen an Kapitalgesellschaften,
-die die Voraussetzungen für die Anwendung des § 8b Abs. 2 des
-Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) im Zeitpunkt der Wertminderung
-nicht oder nicht mehr erfüllen, ist in Höhe des Teils der
-Anschaffungskosten der Anteile nicht zu berücksichtigen, der bei der
-Veräußerung der Anteile durch einen früheren Anteilseigner nach § 8b
-Abs. 2 Satz 1 des Körperschaftsteuergesetzes in der Fassung des
-Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) oder nach
-§ 8b Abs. 2 Satz 1 des Körperschaftsteuergesetzes in der Fassung des
-Artikels 4 des Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) bei
-der Ermittlung des Einkommens außer Ansatz geblieben ist.
-6             Die Wertminderung von Anteilen an inländischen oder
-ausländischen Kapitalgesellschaften ist nicht zu berücksichtigen,
-soweit sie auf eine Wertminderung im Sinne der Sätze 4 und 5 von
-Anteilen an nachgeordneten Kapitalgesellschaften zurückzuführen ist.
-7             § 8b Abs. 4 Satz 2 Nr. 2 letzter Halbsatz des
-Körperschaftsteuergesetzes in der Fassung des Artikels 2 des Gesetzes
-vom 20. Dezember 2001 (BGBl. I S. 3858) ist erstmals auf Veräußerungen
-anzuwenden, die nach dem 15. August 2001 erfolgen.
-8             § 8b Abs. 8 und § 21 Abs. 1 Nr. 1 Satz 1 sind
-anzuwenden:
+(7) § 19 in der am 31. Juli 2014 geltenden Fassung ist erstmals für
+den Veranlagungszeitraum 2012 anzuwenden.
 
-1.  in der Fassung des Artikels 3 des Gesetzes vom 22. Dezember 2003
-    (BGBl. I S. 2840) erstmals für den Veranlagungszeitraum 2004, bei vom
-    Kalenderjahr abweichenden Wirtschaftsjahren erstmals für den
-    Veranlagungszeitraum 2005;
-
-
-2.  auf einheitlichen, bis zum 30. Juni 2004 zu stellenden,
-    unwiderruflichen Antrag bereits für die Veranlagungszeiträume 2001 bis
-    2003, bei vom Kalenderjahr abweichenden Wirtschaftsjahren für die
-    Veranlagungszeiträume 2002 bis 2004 (Rückwirkungszeitraum).
-    2                   Dabei ist § 8b Abs. 8 in folgender Fassung
-    anzuwenden:
-
-    "(8)
-    1                   Die Absätze 1 bis 7 sind anzuwenden auf Anteile,
-    die bei Lebens- und Krankenversicherungsunternehmen den Kapitalanlagen
-    zuzurechnen sind, mit der Maßgabe, dass die Bezüge, Gewinne und
-    Gewinnminderungen zu 80 Prozent bei der Ermittlung des Einkommens zu
-    berücksichtigen sind.
-    2                   Satz 1 gilt nicht für Gewinne im Sinne des
-    Absatzes 2, soweit eine Teilwertabschreibung in früheren Jahren nach
-    Absatz 3 bei der Ermittlung des Einkommens unberücksichtigt geblieben
-    ist und diese Minderung nicht durch den Ansatz eines höheren Werts
-    ausgeglichen worden ist.
-    3                   Gewinnminderungen, die im Zusammenhang mit den
-    Anteilen im Sinne des Satzes 1 stehen, sind bei der Ermittlung des
-    Einkommens nicht zu berücksichtigen, wenn das Lebens- oder
-    Krankenversicherungsunternehmen die Anteile von einem verbundenen
-    Unternehmen (§ 15 des Aktiengesetzes) erworben hat, soweit ein
-    Veräußerungsgewinn für das verbundene Unternehmen nach Absatz 2 in der
-    Fassung des Artikels 3 des Gesetzes vom 23. Oktober 2000 (BGBl. I S.
-    1433) bei der Ermittlung des Einkommens außer Ansatz geblieben ist.
-    4                   Für die Ermittlung des Einkommens sind die Anteile
-    mit den nach handelsrechtlichen Vorschriften ausgewiesenen Werten
-    anzusetzen, die bei der Ermittlung der nach § 21 abziehbaren Beträge
-    zu Grunde gelegt wurden.
-    5                   Negative Einkünfte des Rückwirkungszeitraums
-    dürfen nicht in Veranlagungszeiträume außerhalb dieses Zeitraums rück-
-    oder vorgetragen werden.
-    6                   Auf negative Einkünfte des Rückwirkungszeitraums
-    ist § 14 Abs. 1 nicht anzuwenden.
-    7                   Entsprechendes gilt für Pensionsfonds."
-
-
-
-9             § 8b Abs. 10 in der Fassung des Artikels 2 des Gesetzes
-vom 14. August 2007 (BGBl. I S. 1912) ist erstmals ab dem
-Veranlagungszeitraum 2007 anzuwenden.
-10             § 8b Abs. 9 ist für den Veranlagungszeitraum 2004 in
-der folgenden Fassung anzuwenden:
-"(9) Die Absätze 7 und 8 gelten nicht für Bezüge im Sinne des Absatzes
-1, auf die die Mitgliedstaaten der Europäischen Union Artikel 4 Abs. 1
-der Richtlinie 90/435/EWG des Rates vom 23. Juli 1990 über das
-gemeinsame Steuersystem der Mutter- und Tochtergesellschaften
-verschiedener Mitgliedstaaten (ABl. EG Nr. L 225 S. 6, Nr. L 266 S.
-20, 1997 Nr. L 16 S. 98), zuletzt geändert durch Akte über die
-Beitrittsbedingungen und die Anpassungen der Verträge - Beitritt der
-Tschechischen Republik, der Republik Estland, der Republik Zypern, der
-Republik Lettland, der Republik Litauen, der Republik Ungarn, der
-Republik Malta, der Republik Polen, der Republik Slowenien und der
-Slowakischen Republik (ABl. EU 2003 Nr. L 236 S. 33), anzuwenden
-haben."
-11             § 21 Abs. 1 Nr. 1 Satz 1 in der Fassung des Artikels 3
-des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3310) ist erstmals für
-den Veranlagungszeitraum 2004 anzuwenden.
-12             § 8b Abs. 1 Satz 2 bis 4 in der Fassung des Artikels 4
-des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist erstmals auf
-Bezüge im Sinne des § 8b Abs. 1 Satz 1 anzuwenden, die nach dem 18.
-Dezember 2006 zugeflossen sind.
-
-(7a) § 8b Abs. 4 in der am 12. Dezember 2006 geltenden Fassung ist für
-Anteile weiter anzuwenden, die einbringungsgeboren im Sinne des § 21
-des Umwandlungssteuergesetzes in der am 12. Dezember 2006 geltenden
-Fassung sind, und für Anteile im Sinne des § 8b Abs. 4 Satz 1 Nr. 2,
-die auf einer Übertragung bis zum 12. Dezember 2006 beruhen.
-
-(7b)
-1             § 8c in der Fassung des Artikels 2 des Gesetzes vom 14.
-August 2007 (BGBl. I S. 1912) findet erstmals für den
-Veranlagungszeitraum 2008 und auf Anteilsübertragungen nach dem 31.
-Dezember 2007 Anwendung.
-2             § 8c Absatz 1 in der Fassung des Artikels 2 des Gesetzes
-vom 22. Dezember 2009 (BGBl. I S. 3950) ist erstmals auf schädliche
-Beteiligungserwerbe nach dem 31. Dezember 2009 anzuwenden.
-
-(7c)
-1             § 8c Absatz 1a in der Fassung des Artikels 2 des
-Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950) findet erstmals für
-den Veranlagungszeitraum 2008 und auf Anteilsübertragungen nach dem
-31\. Dezember 2007 Anwendung.
-2             Erfüllt ein nach dem 31. Dezember 2007 erfolgter
-Beteiligungserwerb die Voraussetzungen des § 8c Absatz 1a, bleibt er
-bei Anwendung des § 8c Absatz 1 Satz 1 und 2 unberücksichtigt.
-3             § 8c Absatz 1a ist nur anzuwenden, wenn
-
-1.  eine rechtskräftige Entscheidung des Gerichts oder des Gerichtshofs
-    der Europäischen Union den Beschluss der Europäischen Kommission
-    K(2011) 275 vom 26. Januar 2011 im Verfahren Staatliche Beihilfe C
-    7/2010 (ABl. L 235 vom 10.9.2011, S. 26) für nichtig erklärt und
-    feststellt, dass es sich bei § 8c Absatz 1a nicht um eine staatliche
-    Beihilfe im Sinne des Artikels 107 Absatz 1 des Vertrags über die
-    Arbeitsweise der Europäischen Union handelt,
-
-
-2.  die Europäische Kommission einen Beschluss zu § 8c Absatz 1a nach
-    Artikel 7 Absatz 2, 3 oder 4 der Verordnung (EG) Nr. 659/1999 des
-    Rates vom 22. März 1999 über besondere Vorschriften für die Anwendung
-    von Artikel 93 des EG-Vertrags (ABl. L 83 vom 27.3.1999, S. 1), die
-    zuletzt durch die Verordnung (EG) Nr. 1791/2006 des Rates vom 20.
-    November 2006 (ABl. L 363 vom 20.12.2006, S. 1) geändert wurde, fasst
-    und mit dem Beschluss weder die Aufhebung noch die Änderung des § 8c
-    Absatz 1a gefordert wird oder
-
-
-3.  die Voraussetzungen des Artikels 2 des Beschlusses der Europäischen
-    Kommission K(2011) 275 erfüllt sind und die Steuerfestsetzung vor dem
-    26\. Januar 2011 erfolgt ist.
-
-
-
-4             Die Entscheidung oder der Beschluss im Sinne des Satzes
-3 Nummer 1 oder 2 sind vom Bundesministerium der Finanzen im
-Bundesgesetzblatt bekannt zu machen.
-5             § 8c Absatz 1a ist dann in den Fällen des Satzes 3
-Nummer 1 und 2 anzuwenden, soweit Steuerbescheide noch nicht
-bestandskräftig sind.
+(7a)
+1             § 20 Absatz 1 in der am 1. Januar 2016 geltenden Fassung
+ist auch für Veranlagungszeiträume vor 2016 anzuwenden.
+2             § 20 Absatz 2 in der am 1. Januar 2016 geltenden Fassung
+ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
 (8)
-1             § 12 Abs. 2 in der Fassung des Artikels 2 des Gesetzes
-vom 20. Dezember 2001 (BGBl. I S. 3858) ist erstmals auf
-Vermögensübertragungen anzuwenden, die nach dem 31. Dezember 2001
-vorgenommen werden.
-2             § 12 Absatz 1 in der Fassung des Artikels 2 des Gesetzes
-vom 8. Dezember 2010 (BGBl. I S. 1768) und Absatz 3 in der Fassung des
-Artikels 3 des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) ist
-erstmals für nach dem 31. Dezember 2005 endende Wirtschaftsjahre
-anzuwenden.
-3             Für Wirtschaftsjahre, die vor dem 1. Januar 2006 enden,
-gilt § 12 Absatz 1 in der Fassung des Artikels 2 des Gesetzes vom 8.
-Dezember 2010 (BGBl. I S. 1768) für Fälle, in denen ein bisher einer
-inländischen Betriebsstätte einer unbeschränkt steuerpflichtigen
-Körperschaft, Personenvereinigung oder Vermögensmasse zuzuordnendes
-Wirtschaftsgut einer ausländischen Betriebsstätte dieser Körperschaft,
-Personenvereinigung oder Vermögensmasse zuzuordnen ist, deren
-Einkünfte durch ein Abkommen zur Vermeidung der Doppelbesteuerung
-freigestellt sind oder wenn das Wirtschaftsgut bei einer beschränkt
-steuerpflichtigen Körperschaft, Personenvereinigung oder
-Vermögensmasse nicht mehr einer inländischen Betriebsstätte zuzuordnen
-ist.
-4             § 12 Abs. 2 in der Fassung des Artikel 3 des Gesetzes
-vom 7. Dezember 2006 (BGBl. I S. 2782) ist erstmals auf Vorgänge
-anzuwenden, die nach dem 12. Dezember 2006 zur Eintragung in ein
-öffentliches Register angemeldet werden.
-5             § 12 Abs. 2 Satz 2 in der in Satz 1 genannten Fassung
-ist letztmals auf Vorgänge anzuwenden, die bis zum 13. Dezember 2006
-zur Eintragung in ein öffentliches Register angemeldet werden.
-
-(8a)
-1             § 9 Abs. 1 Nr. 2 und Abs. 2 in der Fassung des Artikels
-3 des Gesetzes vom 10. Oktober 2007 (BGBl. I S. 2332) gilt erstmals
-für Zuwendungen, die im Veranlagungszeitraum 2007 geleistet werden.
-2             Auf Antrag des Steuerpflichtigen ist auf Zuwendungen,
-die im Veranlagungszeitraum 2007 geleistet werden, § 9 Abs. 1 Nr. 2 in
-der bis zum 31. Dezember 2006 geltenden Fassung anzuwenden.
-3             § 9 Abs. 3 Satz 3 in der Fassung des Artikels 3 des
-Gesetzes vom 10. Oktober 2007 (BGBl. I S. 2332) gilt erstmals für
-Zuwendungen, die im Veranlagungszeitraum 2007 geleistet werden.
-4             § 9 Absatz 2 Satz 3 in der Fassung des Artikels 2 des
-Gesetzes vom 20. April 2009 (BGBl. I S. 774) gilt erstmals für
-Zuwendungen, die im Veranlagungszeitraum 2007 geleistet werden.
-5             § 9 Absatz 1 Nummer 2 Satz 1 bis 5 und Absatz 3 Satz 3
-in der Fassung des Artikels 2 des Gesetzes vom 8. April 2010 (BGBl. I
-S. 386) ist in allen Fällen anzuwenden, in denen die
-Körperschaftsteuer noch nicht bestandskräftig festgesetzt ist; dabei
-sind die für den jeweiligen Veranlagungszeitraum bisher festgelegten
-Höchstabzugsgrenzen weiterhin maßgebend.
-6             § 9 Absatz 1 Nummer 2 Satz 5 in der Fassung des Artikels
-4 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) gilt erstmals
-für den Veranlagungszeitraum 2012.
-7             § 9 Absatz 1 Nummer 2 Satz 6 und Absatz 3 Satz 2 in der
-Fassung des Artikels 2 des Gesetzes vom 8. April 2010 (BGBl. I S. 386)
-ist auf Zuwendungen anzuwenden, die nach dem 31. Dezember 2009
-geleistet werden.
-8             § 9 Absatz 1 Nummer 2 Satz 7 in der Fassung des Artikels
-2 des Gesetzes vom 8. April 2010 (BGBl. I S. 386) ist in allen Fällen
-anzuwenden, in denen die Körperschaftsteuer noch nicht bestandskräftig
-festgesetzt ist und in denen die Mitgliedsbeiträge nach dem 31.
-Dezember 2006 geleistet werden.
-
-(8b)
-1             § 13 Absatz 3 Satz 2 bis 11 ist letztmals für
-Wirtschaftsjahre anzuwenden, die vor dem 1. Januar 2011 enden.
-2             Der nach § 13 Absatz 3 Satz 8 festgestellte verbleibende
-Abschreibungsverlust und das Vortragsvolumen können nur noch mit
-Mietgewinnen verrechnet werden, die in Wirtschaftsjahren erzielt
-werden, die bis zum 31. Dezember 2010 enden.
-3             Eine Verrechnung mit Mietgewinnen, die in
-Wirtschaftsjahren erzielt werden, die nach dem 31. Dezember 2010
-enden, ist nicht mehr möglich.
-4             Eine Feststellung nach § 13 Absatz 3 Satz 8 des
-Abschreibungsverlustes und des Vortragsvolumens findet letztmalig zum
-31\. Dezember 2010 statt.
-
-(9) § 14 ist anzuwenden:
-
-1.  für den Veranlagungszeitraum 2000 und frühere Veranlagungszeiträume in
-    folgender Fassung:
-
-    "(1)
-    1                   Verpflichtet sich eine Aktiengesellschaft oder
-    Kommanditgesellschaft auf Aktien mit Geschäftsleitung und Sitz im
-    Inland (Organgesellschaft) durch einen Gewinnabführungsvertrag im
-    Sinne des § 291 Abs. 1 des Aktiengesetzes, ihren ganzen Gewinn an ein
-    einziges anderes inländisches gewerbliches Unternehmen abzuführen, so
-    ist das Einkommen der Organgesellschaft, soweit sich aus § 16 nichts
-    anderes ergibt, dem Träger des Unternehmens (Organträger) zuzurechnen,
-    wenn die folgenden Voraussetzungen erfüllt sind:
-
-    1.  Der Organträger muss an der Organgesellschaft vom Beginn ihres
-        Wirtschaftsjahrs an ununterbrochen und unmittelbar in einem solchen
-        Maße beteiligt sein, dass ihm die Mehrheit der Stimmrechte aus den
-        Anteilen an der Organgesellschaft zusteht (finanzielle Eingliederung).
-        2                         Eine mittelbare Beteiligung genügt, wenn
-        jede der Beteiligungen, auf denen die mittelbare Beteiligung beruht,
-        die Mehrheit der Stimmrechte gewährt.
-
-
-    2.  Die Organgesellschaft muss von dem in Nummer 1 bezeichneten Zeitpunkt
-        an ununterbrochen nach dem Gesamtbild der tatsächlichen Verhältnisse
-        wirtschaftlich und organisatorisch in das Unternehmen des Organträgers
-        eingegliedert sein.
-        2                         Die organisatorische Eingliederung ist stets
-        gegeben, wenn die Organgesellschaft durch einen Beherrschungsvertrag
-        im Sinne des § 291 Abs. 1 des Aktiengesetzes die Leitung ihres
-        Unternehmens dem Unternehmen des Organträgers unterstellt oder wenn
-        die Organgesellschaft eine nach den Vorschriften der §§ 319 bis 327
-        des Aktiengesetzes eingegliederte Gesellschaft ist.
-        3                         Der Beherrschungsvertrag muss zu Beginn des
-        Wirtschaftsjahrs der Organgesellschaft, für das die organisatorische
-        Eingliederung auf Grund des Vertrags erstmals bestehen soll,
-        abgeschlossen sein und durchgeführt werden und bis zum Ende des
-        folgenden Wirtschaftsjahrs wirksam werden.
-
-
-    3.  Der Organträger muss eine unbeschränkt steuerpflichtige natürliche
-        Person oder eine nicht steuerbefreite Körperschaft,
-        Personenvereinigung oder Vermögensmasse im Sinne des § 1 mit
-        Geschäftsleitung und Sitz im Inland oder eine Personengesellschaft im
-        Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes mit
-        Geschäftsleitung und Sitz im Inland sein.
-        2                         An der Personengesellschaft dürfen nur
-        Gesellschafter beteiligt sein, die mit dem auf sie entfallenden Teil
-        des zuzurechnenden Einkommens im Geltungsbereich dieses Gesetzes der
-        Einkommensteuer oder der Körperschaftsteuer unterliegen.
-        3                         Sind ein oder mehrere Gesellschafter der
-        Personengesellschaft beschränkt einkommensteuerpflichtig, so muss die
-        Voraussetzung der Nummer 1 im Verhältnis zur Personengesellschaft
-        selbst erfüllt sein.
-        4                         Das Gleiche gilt, wenn an der
-        Personengesellschaft eine oder mehrere Körperschaften,
-        Personenvereinigungen oder Vermögensmassen beteiligt sind, die ihren
-        Sitz oder ihre Geschäftsleitung nicht im Inland haben.
-
-
-    4.  Der Gewinnabführungsvertrag muss bis zum Ende des Wirtschaftsjahrs der
-        Organgesellschaft, für das Satz 1 erstmals angewendet werden soll, auf
-        mindestens fünf Jahre abgeschlossen und bis zum Ende des folgenden
-        Wirtschaftsjahrs wirksam werden.
-        2                         Er muss während seiner gesamten
-        Geltungsdauer durchgeführt werden.
-        3                         Eine vorzeitige Beendigung des Vertrags
-        durch Kündigung ist unschädlich, wenn ein wichtiger Grund die
-        Kündigung rechtfertigt.
-        4                         Die Kündigung oder Aufhebung des
-        Gewinnabführungsvertrags auf einen Zeitpunkt während des
-        Wirtschaftsjahrs der Organgesellschaft wirkt auf den Beginn dieses
-        Wirtschaftsjahrs zurück.
-
-
-    5.  Die Organgesellschaft darf Beträge aus dem Jahresüberschuss nur
-        insoweit in die Gewinnrücklagen (§ 272 Abs. 3 des Handelsgesetzbuchs)
-        mit Ausnahme der gesetzlichen Rücklagen einstellen, als dies bei
-        vernünftiger kaufmännischer Beurteilung wirtschaftlich begründet ist.
-
-
-
-
-    (2)
-    1                   Schließen sich mehrere gewerbliche Unternehmen im
-    Sinne des Absatzes 1 Nr. 3, die gemeinsam im Verhältnis zur
-    Organgesellschaft die Voraussetzungen des Absatzes 1 Nr. 1 erfüllen,
-    in der Rechtsform einer Personengesellschaft lediglich zum Zwecke der
-    einheitlichen Willensbildung gegenüber der Organgesellschaft zusammen,
-    ist die Personengesellschaft als gewerbliches Unternehmen anzusehen,
-    wenn jeder Gesellschafter der Personengesellschaft ein gewerbliches
-    Unternehmen unterhält.
-    2                   Der Personengesellschaft ist das Einkommen der
-    Organgesellschaft vorbehaltlich des § 16 zuzurechnen, wenn zusätzlich
-    zu den Voraussetzungen nach Absatz 1
-
-    1.  jeder Gesellschafter der Personengesellschaft an der Organgesellschaft
-        vom Beginn ihres Wirtschaftsjahrs an ununterbrochen beteiligt ist und
-        den Gesellschaftern die Mehrheit der Stimmrechte im Sinne des Absatzes
-        1 Nr. 1 an der Organgesellschaft zusteht,
-
-
-    2.  die Personengesellschaft vom Beginn des Wirtschaftsjahrs der
-        Organgesellschaft an ununterbrochen besteht,
-
-
-    3.  der Gewinnabführungsvertrag mit der Personengesellschaft abgeschlossen
-        ist und im Verhältnis zu dieser Gesellschaft die Voraussetzungen des
-        Absatzes 1 Nr. 4 erfüllt sind,
-
-
-    4.  durch die Personengesellschaft gewährleistet ist, dass der
-        koordinierte Wille der Gesellschafter in der Geschäftsführung der
-        Organgesellschaft tatsächlich durchgesetzt wird und
-
-
-    5.  die Organgesellschaft jedes der gewerblichen Unternehmen der
-        Gesellschafter der Personengesellschaft nach Maßgabe des Absatzes 1
-        Nr. 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000
-        (BGBl. I S. 1034) wirtschaftlich fördert oder ergänzt.";
-
-
-
-
-
-2.  die Absätze 1 und 2 in der Fassung des Artikels 2 des Gesetzes vom 20.
-    Dezember 2001 (BGBl. I S. 3858) für die Veranlagungszeiträume 2001 und
-    2002;
-
-
-3.  Absatz 1 Satz 2 in der Fassung des Artikels 2 des Gesetzes vom 16. Mai
-    2003 (BGBl. I S. 660) im Veranlagungszeitraum 2002, wenn der
-    Gewinnabführungsvertrag nach dem 20. November 2002 abgeschlossen wird.
-    2                   In den Fällen, in denen der
-    Gewinnabführungsvertrag vor dem 21. November 2002 abgeschlossen worden
-    ist, gilt Absatz 1 Nr. 3 des Körperschaftsteuergesetzes in der Fassung
-    der Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144);
-
-
-4.  Absatz 3 in der Fassung des Artikels 3 des Gesetzes vom 9. Dezember
-    2004 (BGBl. I S. 3310) ist erstmals für Mehrabführungen von
-    Organgesellschaften anzuwenden, deren Wirtschaftsjahr nach dem 31.
-    Dezember 2003 endet;
-
-
-5.  Absatz 4 in der Fassung des Artikels 3 des Gesetzes vom 20. Dezember
-    2007 (BGBl. I S. 3150) ist auch für Veranlagungszeiträume vor 2008
-    anzuwenden;
-
-
-6.  Absatz 2 in der am 24. Dezember 2008 geltenden Fassung ist letztmals
-    anzuwenden, wenn das Wirtschaftsjahr der Organgesellschaft vor dem 1.
-    Januar 2009 endet.
-    2                   Abweichend von Satz 1 ist auf gemeinsamen Antrag
-    der Organgesellschaft und des Organträgers § 14 Abs. 1 auf
-    Organgesellschaften, die Lebens- oder Krankenversicherungsunternehmen
-    sind und deren Wirtschaftsjahr nach dem 31. Dezember 2007 endet,
-    anzuwenden mit der Maßgabe, dass für den Organträger und die
-    Organgesellschaft § 21 in der Fassung des Artikels 3 des Gesetzes vom
-    19\. Dezember 2008 (BGBl. I S. 2794) erstmals ab dem
-    Veranlagungszeitraum 2008 anzuwenden ist.
-
-
-
-
-(10)
-1             § 15 Nr. 2 ist bei der Ermittlung des Einkommens des
-Organträgers anzuwenden, wenn die Ermittlung des dem Organträger
-zuzurechnenden Einkommens der Organgesellschaft nach dem
-Körperschaftsteuergesetz in der Fassung des Artikels 3 des Gesetzes
-vom 23. Oktober 2000 (BGBl. I S. 1433), zuletzt geändert durch Artikel
-2 des Gesetzes vom 20. Dezember 2001 (BGBl. I S. 3858), vorzunehmen
-ist.
-2             § 15 Satz 1 Nr. 2 in der am 12. Dezember 2006 geltenden
-Fassung ist weiter anzuwenden, soweit in dem dem Organträger
-zuzurechnenden Einkommen der Organgesellschaft ein Übernahmegewinn im
-Sinne des § 4 Abs. 7 des Umwandlungssteuergesetzes in der am 21. Mai
-2003 geltenden Fassung enthalten ist.
-3             § 15 Satz 1 Nr. 3 in der Fassung des Artikels 2 des
-Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist erstmals für
-Wirtschaftsjahre anzuwenden, die nach dem 25. Mai 2007 beginnen und
-nicht vor dem 1. Januar 2008 enden.
-4             § 15 Satz 1 Nr. 4 in der Fassung des Artikels 3 des
-Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist auch für
-Veranlagungszeiträume vor 2009 anzuwenden; Absatz 6 Satz 5 und 6 gilt
-entsprechend.
-5             § 15 Satz 1 Nr. 5 in der Fassung des Artikels 3 des
-Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) ist erstmals für
-Veranlagungszeiträume ab 2009 anzuwenden.
-6             Nach Inkrafttreten des Artikels 4 des Gesetzes vom 12.
-August 2008 (BGBl. I S. 1672) ist Satz 4 mit der Maßgabe anzuwenden,
-dass an die Stelle der Angabe "Satz 5 und 6" die Angabe "Satz 8 und 9"
-tritt.
-
-(10a) § 16 in der Fassung des Artikels 2 des Gesetzes vom 14. August
-2007 (BGBl. I S. 1912) ist erstmals für den Veranlagungszeitraum 2008
-anzuwenden.
-
-(10b)
-1             § 21 in der Fassung des Artikels 3 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist erstmals für den
-Veranlagungszeitraum 2009 anzuwenden.
-2             In den Fällen des Absatzes 9 Satz 1 Nr. 6 Satz 2 in der
-Fassung des Artikels 3 des Gesetzes vom 19. Dezember 2008 (BGBl. I S.
-2794) ist § 21 in der Fassung des Artikels 3 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) erstmals für den Veranlagungszeitraum
-2008 anzuwenden.
-3             § 21 Absatz 2 Satz 2 Nummer 1 ist für die
-Veranlagungszeiträume 2010 bis 2013 in der folgenden Fassung
+1             § 21 Absatz 2 Satz 2 Nummer 1 ist für die
+Veranlagungszeiträume 2016 bis 2018 in der folgenden Fassung
 anzuwenden:
 
-1.  die Zuführungen innerhalb des am Bilanzstichtag endenden
-    Wirtschaftsjahrs und der vier vorangegangenen Wirtschaftsjahre, soweit
-    die Summe dieser Beträge nicht höher ist als das 1,2-Fache der Summe
-    der drei Zuführungen, die zum Schluss des im Veranlagungszeitraum 2009
-    endenden letzten Wirtschaftsjahrs zulässigerweise ermittelt wurden.
+"1. die Zuführungen innerhalb des am Bilanzstichtag endenden
+    Wirtschaftsjahrs und der vier vorangegangenen Wirtschaftsjahre.
     2                   Der Betrag nach Satz 1 darf nicht niedriger sein
-    als der Betrag, der sich ergeben würde, wenn das vor Inkrafttreten des
-    Artikels 2 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
-    geltende Recht weiter anzuwenden wäre,
+    als der Betrag, der sich ergeben würde, wenn das am 13. Dezember 2010
+    geltende Recht weiter anzuwenden wäre,".
+
+
+
+2             § 21 in der Fassung des Artikels 7 des Gesetzes vom 11.
+Dezember 2018 (BGBl. I S. 2338) ist anzuwenden:
+
+1.  erstmals für den Veranlagungszeitraum 2019;
+
+
+2.  auf bis zum 30. Juni 2019 zu stellenden, unwiderruflichen Antrag
+    bereits für den Veranlagungszeitraum 2018.
+    2                   Der Antrag nach Satz 1 kann nur gestellt werden,
+    wenn es im Veranlagungszeitraum 2018 sonst zu einer Auflösung der
+    Rückstellung für Beitragsrückerstattung nach § 21 Absatz 2 Satz 2 in
+    der zum 31. Dezember 2017 geltenden Fassung kommen würde.
 
 
 
 
-(11)
-1             § 21b Satz 3 ist letztmals für das Wirtschaftsjahr
-anzuwenden, das nach dem 31. Dezember 2002 endet.
-2             Eine Rücklage, die am Schluss des letzten vor dem 1.
-Januar 1999 endenden Wirtschaftsjahrs zulässigerweise gebildet ist,
-ist in den folgenden fünf Wirtschaftsjahren mit mindestens je einem
-Fünftel gewinnerhöhend aufzulösen.
+(8a) § 21a Absatz 1 in der am 1. Januar 2016 geltenden Fassung ist
+erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
-(11a) § 23 in der Fassung des Artikels 2 des Gesetzes vom 14. August
-2007 (BGBl. I S. 1912) ist erstmals für den Veranlagungszeitraum 2008
+(8b) § 24 in der Fassung des Artikels 6 des Gesetzes vom 12. Dezember
+2019 (BGBl. I S. 2451) ist erstmals für den Veranlagungszeitraum 2019
 anzuwenden.
 
-(11b) § 25 Abs. 1 Satz 1 in der Fassung des Artikels 11 des Gesetzes
-vom 29. Dezember 2003 (BGBl. I S. 3076) ist erstmals für den
-Veranlagungszeitraum 2004 anzuwenden.
+(9)
+1             § 26 in der am 31. Dezember 2014 geltenden Fassung ist
+erstmals auf Einkünfte und Einkunftsteile anzuwenden, die nach dem 31.
+Dezember 2013 zufließen.
+2             Auf vor dem 1. Januar 2014 zugeflossene Einkünfte und
+Einkunftsteile ist § 26 Absatz 2 Satz 1 in der am 31. Dezember 2014
+geltenden Fassung in allen Fällen anzuwenden, in denen die
+Körperschaftsteuer noch nicht bestandskräftig festgesetzt ist.
 
-(11c)
-1             § 26 Abs. 6 in der Fassung des Artikels 2 des Gesetzes
-vom 2. Dezember 2004 (BGBl. I S. 3112) ist erstmals ab dem
-Veranlagungszeitraum 2004 anzuwenden.
-2             § 26 Abs. 6 in der Fassung des Artikels 2 des Gesetzes
-vom 19. Juli 2006 (BGBl. I S. 1652) ist erstmals ab dem
-Veranlagungszeitraum 2005 anzuwenden.
-3             § 26 Abs. 6 Satz 1 erster Halbsatz in Verbindung mit
-Satz 3 in der Fassung des Artikels 4 des Gesetzes vom 13. Dezember
-2006 (BGBl. I S. 2878) ist für alle Veranlagungszeiträume anzuwenden,
-soweit Steuerbescheide noch nicht bestandskräftig sind.
-4             § 26 Abs. 6 Satz 1 zweiter Halbsatz in der Fassung des
-Artikels 4 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist
-erstmals auf ausländische Quellensteuern anzuwenden, die von Bezügen
-im Sinne des § 8b Abs. 1 Satz 1 erhoben wurden, die nach dem 18.
-Dezember 2006 zugeflossen sind.
+(10) § 27 Absatz 1 Satz 6 in der Fassung des Artikels 3 Nummer 10 des
+Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) gilt letztmals für den
+Veranlagungszeitraum 2005.
 
-(12)
-1             Die Vorschriften des Vierten Teils des
-Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) sind letztmals anzuwenden
-
-1.  für Gewinnausschüttungen, die auf einem den gesellschaftsrechtlichen
-    Vorschriften entsprechenden Gewinnverteilungsbeschluss für ein
-    abgelaufenes Wirtschaftsjahr beruhen und die in dem ersten
-    Wirtschaftsjahr erfolgen, das in dem Veranlagungszeitraum endet, für
-    den das Körperschaftsteuergesetz in der Fassung des Artikels 3 des
-    Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) erstmals anzuwenden
-    ist;
-
-
-2.  für andere Ausschüttungen und sonstige Leistungen, die in dem
-    Wirtschaftsjahr erfolgen, das dem in Nummer 1 genannten
-    Wirtschaftsjahr vorangeht.
-
-
-
-2             Für unbeschränkt steuerpflichtige Körperschaften und
-Personenvereinigungen, deren Leistungen bei den Empfängern zu den
-Einnahmen im Sinne des § 20 Abs. 1 Nr. 1 oder 2 des
-Einkommensteuergesetzes in der Fassung des Artikels 1 des Gesetzes vom
-23\. Oktober 2000 (BGBl. I S. 1433), dieses wiederum geändert durch
-Artikel 2 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1812),
-gehören, beträgt die Körperschaftsteuer 45 Prozent der Einnahmen im
-Sinne des § 20 Abs. 1 Nr. 1 oder 2 des Einkommensteuergesetzes in der
-Fassung des Artikels 1 des Gesetzes vom 23. Oktober 2000 (BGBl. I S.
-1433), dieses wiederum geändert durch Artikel 2 des Gesetzes vom 19.
-Dezember 2000 (BGBl. I S. 1812), zuzüglich der darauf entfallenden
-Einnahmen im Sinne des § 20 Abs. 1 Nr. 3 des Einkommensteuergesetzes
-in der Fassung des Artikels 1 des Gesetzes vom 23. Oktober 2000 (BGBl.
-I S. 1433), dieses wiederum geändert durch Artikel 2 des Gesetzes vom
-19\. Dezember 2000 (BGBl. I S. 1812), für die der Teilbetrag im Sinne
-des § 54 Abs. 11 Satz 1 des Körperschaftsteuergesetzes in der Fassung
-des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) als
-verwendet gilt.
-3             § 44 Abs. 1 Satz 1 Nr. 6 Satz 3 des
-Körperschaftsteuergesetzes in der Fassung des Artikels 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) gilt entsprechend.
-4             Die Körperschaftsteuer beträgt höchstens 45 Prozent des
-zu versteuernden Einkommens.
-5             Die Sätze 2 bis 4 gelten nicht für steuerbefreite
-Körperschaften und Personenvereinigungen im Sinne des § 5 Abs. 1 Nr.
-9, soweit die Einnahmen in einem wirtschaftlichen Geschäftsbetrieb
-anfallen, für den die Steuerbefreiung ausgeschlossen ist.
-6             Die Körperschaftsteuer beträgt 40 Prozent der Einnahmen
-im Sinne des § 20 Abs. 1 Nr. 1 und 2 des Einkommensteuergesetzes in
-der Fassung des Artikels 1 des Gesetzes vom 23. Oktober 2000 (BGBl. I
-S. 1433), dieses wiederum geändert durch Artikel 2 des Gesetzes vom
-19\. Dezember 2000 (BGBl. I S. 1812), zuzüglich der darauf entfallenden
-Einnahmen im Sinne des § 20 Abs. 1 Nr. 3 des Einkommensteuergesetzes
-in der Fassung des Artikels 1 des Gesetzes vom 23. Oktober 2000 (BGBl.
-I S. 1433), dieses wiederum geändert durch Artikel 2 des Gesetzes vom
-19\. Dezember 2000 (BGBl. I S. 1812), für die der Teilbetrag im Sinne
-des § 30 Abs. 1 Nr. 1 des Körperschaftsteuergesetzes in der Fassung
-des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) als
-verwendet gilt.
-7             Die Körperschaftsteuer beträgt höchstens 40 Prozent des
-zu versteuernden Einkommens abzüglich des nach den Sätzen 2 bis 4
-besteuerten Einkommens.
-8             Die Sätze 3 und 5 gelten entsprechend.
-
-(13)
-1             § 28 Abs. 4 des Körperschaftsteuergesetzes in der
-Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) gilt auch, wenn für eine Gewinnausschüttung zunächst der in § 54
-Abs. 11 Satz 1 des Körperschaftsteuergesetzes in der Fassung des
-Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) genannte
-Teilbetrag als verwendet gegolten hat.
-2             Ist für Leistungen einer Kapitalgesellschaft nach § 44
-oder § 45 des Körperschaftsteuergesetzes in der Fassung des Artikels 4
-des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) Eigenkapital im Sinne
-des § 54 Abs. 11 Satz 1 des Körperschaftsteuergesetzes in der Fassung
-des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034)
-bescheinigt worden, bleibt die der Bescheinigung zugrunde gelegte
-Verwendung unverändert, wenn später eine höhere Leistung gegen den
-Teilbetrag nach § 54 Abs. 11 Satz 1 des Körperschaftsteuergesetzes in
-der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) verrechnet werden könnte.
-
-(13a)
-1             § 31 Abs. 1 Satz 2 in der Fassung des Artikels 2 des
-Gesetzes vom 14. August 2007 (BGBl. I S. 1912) ist erstmals für den
-Veranlagungszeitraum 2008 anzuwenden.
-2             § 31 Abs. 1a in der Fassung des Artikels 6 des Gesetzes
-vom 20. Dezember 2008 (BGBl. I S. 2850) ist erstmals für den
-Veranlagungszeitraum 2011 anzuwenden.
-
-(13b)
-1             § 32 Abs. 3 in der Fassung des Artikels 2 des Gesetzes
-vom 14. August 2007 (BGBl. I S. 1912) ist erstmals auf Einkünfte
-anzuwenden, die nach dem 17. August 2007 zufließen.
-2             Für Einkünfte, die nach dem 17. August 2007 und vor dem
-1\. Januar 2008 zufließen, ist § 32 Abs. 3 mit der Maßgabe anzuwenden,
-dass der Steuersatz 10 Prozent beträgt.
-
-(13c)
-1             § 32a in der Fassung des Artikels 4 des Gesetzes vom 13.
-Dezember 2006 (BGBl. I S. 2878) ist erstmals anzuwenden, wenn nach dem
-18\. Dezember 2006 ein Steuerbescheid erlassen, aufgehoben oder
-geändert wird.
-2             Bei Aufhebung oder Änderung gilt dies auch dann, wenn
-der aufzuhebende oder zu ändernde Steuerbescheid vor dem 18. Dezember
-2006 erlassen worden ist.
-
-(13d)
-1             § 37 Abs. 2a Nr. 1 in der Fassung des Artikels 2 des
-Gesetzes vom 16. Mai 2003 (BGBl. I S. 660) ist nicht für
-Gewinnausschüttungen anzuwenden, die vor dem 21. November 2002
-beschlossen worden sind und die nach dem 11. April 2003 und vor dem 1.
-Januar 2006 erfolgen.
-2             Für Gewinnausschüttungen im Sinne des Satzes 1 und für
-Gewinnausschüttungen, die vor dem 12. April 2003 erfolgt sind, gilt §
-37 Abs. 2 des Körperschaftsteuergesetzes in der Fassung der
-Bekanntmachung vom 15. Oktober 2002 (BGBl. I S. 4144).
-3             § 37 in der Fassung des Artikels 6 des Gesetzes vom 20.
-Dezember 2008 (BGBl. I S. 2850) ist erstmals im Kalenderjahr 2008
+(10a) § 33 Absatz 1 Nummer 2 Buchstabe d in der am 1. Januar 2016
+geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016
 anzuwenden.
 
-(13e)
-1             § 38 Abs. 1 in der Fassung des Artikels 4 des Gesetzes
-vom 13. Dezember 2006 (BGBl. I S. 2878) gilt nur für Genossenschaften,
-die zum Zeitpunkt der erstmaligen Anwendung des
-Körperschaftsteuergesetzes in der Fassung des Artikels 3 des Gesetzes
-vom 23. Oktober 2000 (BGBl. I S. 1433) bereits bestanden haben.
-2             Die Regelung ist auch für Veranlagungszeiträume vor 2007
-anzuwenden.
-3             Ist in den Fällen des § 40 Abs. 5 und 6 in der Fassung
-des Artikels 3 des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) die
-Körperschaftsteuerfestsetzung unter Anwendung des § 38 der am 27.
-Dezember 2007 geltenden Fassung vor dem 28. Dezember 2007 erfolgt,
-sind die §§ 38 und 40 Abs. 5 und 6 weiter anzuwenden.
-4             § 38 Abs. 4 bis 9 in der Fassung des Artikels 3 des
-Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150) ist insoweit nicht
-anzuwenden.
-
-(13f) § 36 ist in allen Fällen, in denen die Endbestände im Sinne des
-§ 36 Absatz 7 noch nicht bestandskräftig festgestellt sind, in der
+(11) § 36 ist in allen Fällen, in denen die Endbestände im Sinne des §
+36 Absatz 7 noch nicht bestandskräftig festgestellt sind, in der
 folgenden Fassung anzuwenden:
-
-„§ 36
+"§ 36
 ## Endbestände
 
 (1) Auf den Schluss des letzten Wirtschaftsjahrs, das in dem
 Veranlagungszeitraum endet, für den das Körperschaftsteuergesetz in
 der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817),
-das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) geändert worden ist, letztmals anzuwenden ist, werden die
-Endbestände der Teilbeträge des verwendbaren Eigenkapitals ausgehend
-von den gemäß § 47 Absatz 1 Satz 1 Nummer 1 des
-Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22.
-April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist,
-festgestellten Teilbeträgen gemäß den nachfolgenden Absätzen
-ermittelt.
+das durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034)
+geändert worden ist, letztmals anzuwenden ist, werden die Endbestände
+der Teilbeträge des verwendbaren Eigenkapitals ausgehend von den gemäß
+§ 47 Absatz 1 Satz 1 Nummer 1 des Körperschaftsteuergesetzes in der
+Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das
+zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
+1034) geändert worden ist, festgestellten Teilbeträgen gemäß den
+nachfolgenden Absätzen ermittelt.
 
 (2)
-1             Die Teilbeträge sind um die Gewinnausschüttungen, die
-auf einem den gesellschaftsrechtlichen Vorschriften entsprechenden
+1                   Die Teilbeträge sind um die Gewinnausschüttungen,
+die auf einem den gesellschaftsrechtlichen Vorschriften entsprechenden
 Gewinnverteilungsbeschluss für ein abgelaufenes Wirtschaftsjahr
-beruhen, und die in dem in Absatz 1 genannten Wirtschaftsjahr
-folgenden Wirtschaftsjahr erfolgen, sowie um andere Ausschüttungen und
-sonstige Leistungen, die in dem in Absatz 1 genannten Wirtschaftsjahr
-erfolgen, zu verringern.
-2             Die Regelungen des Vierten Teils des
+beruhen und die in dem in Absatz 1 genannten Wirtschaftsjahr folgenden
+Wirtschaftsjahr erfolgen, sowie um andere Ausschüttungen und sonstige
+Leistungen, die in dem in Absatz 1 genannten Wirtschaftsjahr erfolgen,
+zu verringern.
+2                   Die Regelungen des Vierten Teils des
 Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22.
 April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes
 vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, sind
 anzuwenden.
-3             Der Teilbetrag im Sinne des § 54 Absatz 11 Satz 1 des
-Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22.
-April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes
-vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist (Teilbetrag,
-der einer Körperschaftsteuer in Höhe von 45 Prozent unterlegen hat),
-erhöht sich um die Einkommensteile, die nach § 34 Absatz 12 Satz 2 bis
-5 einer Körperschaftsteuer von 45 Prozent unterlegen haben, und der
+3                   Der Teilbetrag im Sinne des § 54 Absatz 11 Satz 1
+des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom
+22\. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des
+Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist
+(Teilbetrag, der einer Körperschaftsteuer in Höhe von 45 Prozent
+unterlegen hat), erhöht sich um die Einkommensteile, die nach § 34
+Absatz 12 Satz 2 bis 5 in der am 14. Dezember 2010 geltenden Fassung
+einer Körperschaftsteuer von 45 Prozent unterlegen haben, und der
 Teilbetrag, der nach dem 31. Dezember 1998 einer Körperschaftsteuer in
 Höhe von 40 Prozent ungemildert unterlegen hat, erhöht sich um die
-Beträge, die nach § 34 Absatz 12 Satz 6 bis 8 einer Körperschaftsteuer
-von 40 Prozent unterlegen haben, jeweils nach Abzug der
-Körperschaftsteuer, der sie unterlegen haben.
+Beträge, die nach § 34 Absatz 12 Satz 6 bis 8 in der am 14. Dezember
+2010 geltenden Fassung einer Körperschaftsteuer von 40 Prozent
+unterlegen haben, jeweils nach Abzug der Körperschaftsteuer, der sie
+unterlegen haben.
 
 (3) (weggefallen)
 
@@ -3609,26 +3552,26 @@ Körperschaftsteuer belasteten Teilbeträgen in der Reihenfolge zu
 verrechnen, in der ihre Belastung zunimmt.
 
 (5)
-1             Ist die Summe der unbelasteten Teilbeträge im Sinne des
-§ 30 Absatz 2 Nummer 1 bis 3 in der Fassung des Artikels 4 des
-Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) nach Anwendung des
+1                   Ist die Summe der unbelasteten Teilbeträge im
+Sinne des § 30 Absatz 2 Nummer 1 bis 3 in der Fassung des Artikels 4
+des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) nach Anwendung des
 Absatzes 2 nicht negativ, sind zunächst die Teilbeträge im Sinne des §
 30 Absatz 2 Nummer 1 und 3 in der Fassung des Artikels 4 des Gesetzes
 vom 14. Juli 2000 (BGBl. I S. 1034) zusammenzufassen.
-2             Ein sich aus der Zusammenfassung ergebender
+2                   Ein sich aus der Zusammenfassung ergebender
 Negativbetrag ist vorrangig mit einem positiven Teilbetrag im Sinne
 des § 30 Absatz 2 Nummer 2 in der Fassung des Artikels 4 des Gesetzes
 vom 14. Juli 2000 (BGBl. I S. 1034) zu verrechnen.
-3             Ein negativer Teilbetrag im Sinne des § 30 Absatz 2
-Nummer 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000
-(BGBl. I S. 1034) ist vorrangig mit dem positiven zusammengefassten
-Teilbetrag im Sinne des Satzes 1 zu verrechnen.
+3                   Ein negativer Teilbetrag im Sinne des § 30 Absatz
+2 Nummer 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli
+2000 (BGBl. I S. 1034) ist vorrangig mit dem positiven
+zusammengefassten Teilbetrag im Sinne des Satzes 1 zu verrechnen.
 
 (6)
-1             Ist einer der belasteten Teilbeträge negativ, sind diese
-Teilbeträge zunächst untereinander in der Reihenfolge zu verrechnen,
-in der ihre Belastung zunimmt.
-2             Ein sich danach ergebender Negativbetrag mindert
+1                   Ist einer der belasteten Teilbeträge negativ, sind
+diese Teilbeträge zunächst untereinander in der Reihenfolge zu
+verrechnen, in der ihre Belastung zunimmt.
+2                   Ein sich danach ergebender Negativbetrag mindert
 vorrangig den nach Anwendung des Absatzes 5 verbleibenden positiven
 Teilbetrag im Sinne des § 30 Absatz 2 Nummer 2 in der Fassung des
 Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034); ein
@@ -3636,21 +3579,21 @@ darüber hinausgehender Negativbetrag mindert den positiven
 zusammengefassten Teilbetrag nach Absatz 5 Satz 1.
 
 (6a)
-1             Ein sich nach Anwendung der Absätze 1 bis 6 ergebender
-positiver Teilbetrag, der einer Körperschaftsteuer von 45 Prozent
-unterlegen hat, mindert in Höhe von 5/22 seines Bestands einen nach
-Anwendung der Absätze 1 bis 6 verbleibenden positiven Bestand des
+1                   Ein sich nach Anwendung der Absätze 1 bis 6
+ergebender positiver Teilbetrag, der einer Körperschaftsteuer von 45
+Prozent unterlegen hat, mindert in Höhe von 5/22 seines Bestands einen
+nach Anwendung der Absätze 1 bis 6 verbleibenden positiven Bestand des
 Teilbetrags im Sinne des § 30 Absatz 2 Nummer 2 in der Fassung des
 Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) bis zu
 dessen Verbrauch.
-2             Ein sich nach Anwendung der Absätze 1 bis 6 ergebender
-positiver Teilbetrag, der einer Körperschaftsteuer von 45 Prozent
-unterlegen hat, erhöht in Höhe von 27/5 des Minderungsbetrags nach
-Satz 1 den nach Anwendung der Absätze 1 bis 6 verbleibenden Bestand
-des Teilbetrags, der nach dem 31. Dezember 1998 einer
+2                   Ein sich nach Anwendung der Absätze 1 bis 6
+ergebender positiver Teilbetrag, der einer Körperschaftsteuer von 45
+Prozent unterlegen hat, erhöht in Höhe von 27/5 des Minderungsbetrags
+nach Satz 1 den nach Anwendung der Absätze 1 bis 6 verbleibenden
+Bestand des Teilbetrags, der nach dem 31. Dezember 1998 einer
 Körperschaftsteuer von 40 Prozent ungemildert unterlegen hat.
-3             Der nach Satz 1 abgezogene Betrag erhöht und der nach
-Satz 2 hinzugerechnete Betrag vermindert den nach Anwendung der
+3                   Der nach Satz 1 abgezogene Betrag erhöht und der
+nach Satz 2 hinzugerechnete Betrag vermindert den nach Anwendung der
 Absätze 1 bis 6 verbleibenden Bestand des Teilbetrags, der einer
 Körperschaftsteuer von 45 Prozent unterlegen hat.
 
@@ -3659,49 +3602,39 @@ festgestellt; dabei sind die verbleibenden unbelasteten Teilbeträge im
 Sinne des § 30 Absatz 2 Nummer 1 und 3 des Körperschaftsteuergesetzes
 in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817),
 das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S.
-1034) geändert worden ist, in einer Summe auszuweisen.“
+1034) geändert worden ist, in einer Summe auszuweisen."
 
-(13g) § 37 Absatz 1 ist in den Fällen des Absatzes 13f in der
-folgenden Fassung anzuwenden:
 
-„(1)
-1             Auf den Schluss des Wirtschaftsjahrs, das dem in § 36
-Absatz 1 genannten Wirtschaftsjahr folgt, wird ein
+(12) § 37 Absatz 1 ist in den Fällen des Absatzes 11 in der folgenden
+Fassung anzuwenden:
+"(1)
+1                   Auf den Schluss des Wirtschaftsjahrs, das dem in §
+36 Absatz 1 genannten Wirtschaftsjahr folgt, wird ein
 Körperschaftsteuerguthaben ermittelt.
-2             Das Körperschaftsteuerguthaben beträgt 15/55 des
+2                   Das Körperschaftsteuerguthaben beträgt 15/55 des
 Endbestands des mit einer Körperschaftsteuer von 45 Prozent belasteten
 Teilbetrags zuzüglich 1/6 des Endbestands des mit einer
-Körperschaftsteuer von 40 Prozent belasteten Teilbetrags.“
+Körperschaftsteuer von 40 Prozent belasteten Teilbetrags."
+
+
+(13)
+1             § 38 Absatz 1 in der am 19. Dezember 2006 geltenden
+Fassung gilt nur für Genossenschaften, die zum Zeitpunkt der
+erstmaligen Anwendung dieses Gesetzes in der Fassung des Artikels 3
+des Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) bereits bestanden
+haben.
+2             Die Regelung ist auch für Veranlagungszeiträume vor 2007
+anzuwenden.
+3             Ist in den Fällen des § 40 Absatz 5 und 6 in der am 13.
+Dezember 2006 geltenden Fassung die Körperschaftsteuerfestsetzung
+unter Anwendung des § 38 in der am 27. Dezember 2007 geltenden Fassung
+vor dem 28. Dezember 2007 erfolgt, sind die §§ 38 und 40 Absatz 5 und
+6 weiter anzuwenden.
+4             § 38 Absatz 4 bis 9 in der am 29. Dezember 2007
+geltenden Fassung ist insoweit nicht anzuwenden.
 
 (14)
-1             Auf Liquidationen, deren Besteuerungszeitraum im Jahr
-2001 endet, ist erstmals das Körperschaftsteuergesetz in der Fassung
-des Artikels 3 des Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433)
-anzuwenden.
-2             Bei Liquidationen, die über den 31. Dezember 2000 hinaus
-fortdauern, endet der Besteuerungszeitraum nach § 11 auf Antrag der
-Körperschaft oder Personenvereinigung, der bis zum 30. Juni 2002 zu
-stellen ist, mit Ablauf des 31. Dezember 2000.
-3             Auf diesen Zeitpunkt ist ein steuerlicher
-Zwischenabschluss zu fertigen.
-4             Für den danach beginnenden Besteuerungszeitraum ist Satz
-1 anzuwenden.
-5             In den Fällen des Satzes 2 gelten Liquidationsraten,
-andere Ausschüttungen und sonstige Leistungen, die in dem am 31.
-Dezember 2000 endenden Besteuerungszeitraum gezahlt worden sind, als
-sonstige Leistungen im Sinne des Absatzes 12 Satz 1 Nr. 2 und des § 36
-Abs. 2 Satz 1.
-6             § 40 Abs. 3 in der Fassung der Bekanntmachung vom 15.
-Oktober 2002 (BGBl. I S. 4144) ist letztmals für Liquidationen
-anzuwenden, die vor dem 13. Dezember 2006 abgeschlossen worden sind.
-
-(15) § 40 in der Fassung des Artikels 3 des Gesetzes vom 7. Dezember
-2006 (BGBl. I S. 2782) ist erstmals auf Umwandlungen anzuwenden, bei
-denen die Anmeldung zur Eintragung in ein öffentliches Register nach
-dem 12. Dezember 2006 erfolgt ist.
-
-(16)
-1             § 38 und § 40 in der am 27. Dezember 2007 geltenden
+1             Die §§ 38 und 40 in der am 27. Dezember 2007 geltenden
 Fassung sowie § 10 des Umwandlungssteuergesetzes vom 7. Dezember 2006
 (BGBl. I S. 2782, 2791) sind auf Antrag weiter anzuwenden für
 
@@ -3709,20 +3642,19 @@ Fassung sowie § 10 des Umwandlungssteuergesetzes vom 7. Dezember 2006
     mittelbar zu mindestens 50 Prozent
 
     a)  juristische Personen des öffentlichen Rechts aus Mitgliedstaaten der
-        Europäischen Union oder aus Staaten, auf die das Abkommen über den
-        Europäischen Wirtschaftsraum Anwendung findet oder
+        Europäischen Union oder aus Staaten, auf die das EWR-Abkommen
+        Anwendung findet, oder
 
 
     b)  Körperschaften, Personenvereinigungen oder Vermögensmassen im Sinne
-        des § 5 Abs. 1 Nr. 9
+        des § 5 Absatz 1 Nummer 9
 
 
 
+    alleine oder gemeinsam beteiligt sind, und
 
-    alleine oder gemeinsam beteiligt sind und
 
-
-2.  Erwerbs- und Wirtschaftsgenossenschaften,
+2.  Genossenschaften,
 
 
 
@@ -3736,24 +3668,24 @@ Körperschaft bis zum 30. September 2008 bei dem für die Besteuerung
 zuständigen Finanzamt gestellt werden.
 3             Die Körperschaften oder deren Rechtsnachfolger müssen
 die Voraussetzungen nach Satz 1 ab dem 1. Januar 2007 bis zum Ende des
-Zeitraums im Sinne des § 38 Abs. 2 Satz 3 erfüllen.
+Zeitraums im Sinne des § 38 Absatz 2 Satz 3 erfüllen.
 4             Auf den Schluss des Wirtschaftsjahres, in dem die
 Voraussetzungen des Satzes 1 nach Antragstellung erstmals nicht mehr
-vorliegen, wird der Endbetrag nach § 38 Abs. 1 letztmals ermittelt und
-festgestellt.
+vorliegen, wird der Endbetrag nach § 38 Absatz 1 letztmals ermittelt
+und festgestellt.
 5             Die Festsetzung und Erhebung des
-Körperschaftsteuererhöhungsbetrags richtet sich nach § 38 Abs. 4 bis 9
-in der Fassung des Artikels 3 des Gesetzes vom 20. Dezember 2007
-(BGBl. I S. 3150) mit der Maßgabe, dass als Zahlungszeitraum im Sinne
-des § 38 Abs. 6 Satz 1 die verbleibenden Wirtschaftsjahre des
-Zeitraums im Sinne des § 38 Abs. 2 Satz 3 gelten.
+Körperschaftsteuererhöhungsbetrags richtet sich nach § 38 Absatz 4 bis
+9 in der am 29. Dezember 2007 geltenden Fassung mit der Maßgabe, dass
+als Zahlungszeitraum im Sinne des § 38 Absatz 6 Satz 1 die
+verbleibenden Wirtschaftsjahre des Zeitraums im Sinne des § 38 Absatz
+2 Satz 3 gelten.
 6             Die Sätze 4 und 5 gelten entsprechend, soweit das
 Vermögen der Körperschaft oder ihres Rechtsnachfolgers durch
 Verschmelzung nach § 2 des Umwandlungsgesetzes oder Auf- oder
-Abspaltung im Sinne des § 123 Abs. 1 und 2 des Umwandlungsgesetzes
+Abspaltung im Sinne des § 123 Absatz 1 und 2 des Umwandlungsgesetzes
 ganz oder teilweise auf eine andere Körperschaft übergeht und diese
 keinen Antrag nach Satz 2 gestellt hat.
-7             § 40 Abs. 6 in der am 27. Dezember 2007 geltenden
+7             § 40 Absatz 6 in der am 27. Dezember 2007 geltenden
 Fassung ist nicht anzuwenden.
 
 
@@ -4055,8 +3987,8 @@ Nennkapital im Sinne des § 28 Abs. 2 Satz 2 handelt, keine Leistung im
 Sinne der Sätze 3 und 4 dar.
 7             Satz 6 gilt nicht, soweit der unbelastete Teilbetrag im
 Sinne des Satzes 1 nach § 40 Abs. 1 oder Abs. 2 infolge der Umwandlung
-einer Körperschaft, die nicht Genossenschaft im Sinne des § 34 Abs.
-13d ist, übergegangen ist.
+einer Körperschaft, die nicht Genossenschaft im Sinne des § 34 Absatz
+13 ist, übergegangen ist.
 
 (2)
 1             Die Körperschaftsteuer des Veranlagungszeitraums, in dem

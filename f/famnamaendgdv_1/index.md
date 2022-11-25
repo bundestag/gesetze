@@ -17,7 +17,10 @@ Fundstelle
 :   RGBl I: 1938, 12
 
 Zuletzt geändert durch
-:   Art. 15 G v. 3.12.2001 I 3306
+:   Art. 4 Abs. 47 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -56,18 +59,7 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
 
 
-### § 3
-
-(1) Die Gebühr für die Änderung oder Feststellung eines Familiennamens
-beträgt 2,50 bis 1.022 Euro, die Gebühr für die Änderung eines
-Vornamens 2,50 bis 255 Euro. Wird der Antrag abgelehnt oder
-zurückgenommen, so wird 1/10 bis 1/2 dieser Gebühr erhoben. Von der
-Erhebung der Gebühr kann abgesehen werden, wenn es nach der Lage des
-Einzelfalls billig erscheint, insbesondere wenn der Antragsteller
-mittellos ist.
-
-(2) Zur Zahlung der Gebühr ist der Antragsteller verpflichtet, neben
-ihm auch derjenige, zu dessen Gunsten der Antrag gestellt ist.
+### § 3 (weggefallen)
 
 
 ## Art II - 

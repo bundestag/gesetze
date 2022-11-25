@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1987, 74
 
+Geändert durch
+:   Art. 30 V v. 19.6.2020 I 1328
+
 
 
 ## Art 1
@@ -33,7 +36,8 @@ veröffentlicht.
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei
 Hilfeleistungen in der Schweiz entstehen, trägt
 
-1.  der Bund, soweit der Bundesminister des Innern Hilfe zugesagt hat,
+1.  der Bund, soweit der Bundesminister des Innern, für Bau und Heimat
+    Hilfe zugesagt hat,
 
 
 2.  das jeweilige Land, soweit der Innenminister des Landes oder ein von

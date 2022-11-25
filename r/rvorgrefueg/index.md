@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3242, 3292
 
-Geändert durch
-:   Art. 9b G v. 15.7.2009 I 1939
+Zuletzt geändert durch
+:   Art. 445 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Dienstrechtliche Übergangsregelungen
@@ -506,7 +506,7 @@ See verwaltet. Der Nachweis der Einnahmen und Ausgaben ist in einer
 Anlage zum Haushaltsplan der Deutschen Rentenversicherung Knappschaft-
 Bahn-See zu führen, die nicht des Verfahrens nach § 71 des Vierten
 Buches Sozialgesetzbuch, sondern der Genehmigung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedarf.
+Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
 
 ### § 17 Vorlagefrist für die Haushaltspläne 2006

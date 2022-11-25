@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 271
 
-Geändert durch
-:   Art. 5 G v. 24.2.2012 I 206
+Zuletzt geändert durch
+:   Art. 4 Abs. 2 G v. 10.7.2020 I 1633
 
 
 ## Eingangsformel
@@ -46,7 +46,8 @@ Kraft.
 
 ## Anlage Satzung der Bundesanstalt für Finanzmarktstabilisierung
 
-(Fundstelle: BGBl. I 2011, 272 - 275)
+(Fundstelle: BGBl. I 2017, 4020 - 4022; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
-(Text siehe unter: FMSASatz 2011)
+(Text der Satzung siehe: FMSASatz 2011)
 
